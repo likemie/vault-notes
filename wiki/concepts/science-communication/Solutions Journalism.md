@@ -7,7 +7,7 @@ aliases:
 summary: "指基于实证证据对社会、环境与健康议题应对方案进行系统调查、成效评估与局限审视的严谨新闻实践范式；旨在克服传统轰动性负面报道引发的“新闻回避”与受众习得性无助，在肯定行动希望的同时恪守证据批判与反思边界。"
 type: concept
 domain: "science-communication"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Learned Helplessness]]"
   - "[[Problem Solving]]"
   - "[[Conflict of Interest in Research]]"
-  - "[[Dialogue in Education]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Document]]"
   - "[[Variable]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-03
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Solutions Journalism
@@ -131,7 +130,7 @@ updated: 2026-09-17
 
 ### 命题二　科学共同体的问题解决本能为解决方案新闻提供了最坚实的实证叙事依托
 
-> [!concept-lens] 科学认知特性与公共[[Dialogue in Education\|对话]]转化机制
+> [!concept-lens] 科学认知特性与公共对话转化机制
 > 科学研究绝不仅是抽象定律的推导，其本质是通过实证探索提供应对疾病、饥荒、生态崩溃与能源转型的实际手段，与解决方案新闻具有天然的内在契合。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]

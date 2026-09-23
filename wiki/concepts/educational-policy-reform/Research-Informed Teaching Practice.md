@@ -34,7 +34,6 @@ related_concepts:
   - "[[Persuasive Communication in Education]]"
   - "[[Practice-Based Evidence]]"
   - "[[School Enquiry Cycle]]"
-  - "[[Dialogue in Education]]"
   - "[[Research Translation]]"
   - "[[Reflexivity]]"
   - "[[Epistemology]]"
@@ -46,6 +45,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Variable]]"
   - "[[Academic Achievement]]"
+  - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
   - "[[Teacher Professional Agency]]"
 related_theories:
@@ -131,7 +131,7 @@ updated: 2026-09-21
 > - **批判性[[Research Literacy\|研究素养]]与[[Analytical Stance\|分析立场]]（Research Literacy & Analytical Stance）** 教师具备辨识研究质量、识破商业化[[Persuasive Communication in Education\|说服性修辞]]包装并评估实证效能的专业素养。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 130–131)]]
 > - **同行实践证据中介网络（Peer-Mediated Practice Evidence）** 依托教师工会、学区教研员与学校领导等中介者，将原始学术成果转译为易吸收的[[Practice-Based Evidence\|实践本位证据]]。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 130)]]
 > - **[[School Enquiry Cycle\|学校探究循环]]整合机制（School Enquiry Cycle Integration）** 在学校[[Inquiry Cycle\|探究循环]]中，将 RITP 的实证干预策略与 [[Data-Based Decision Making\|DBDM]] 的校本诊断紧密嵌合。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 165–167)]]
-> - **审议协商中的三种声音[[Dialogue in Education\|对话]]（Three Voices in Teacher Deliberation）** 承认教师个人经验信念（第一声音）、同行学校文化（第二声音）与外来学术研究（第三声音）在课堂决策中的多维碰撞与深度对话（Cain, 2015; [[Argument_Torres_2022_KMModels\|Torres, 2022b, pp. 47–49]]）。
+> - **审议协商中的三种声音对话（Three Voices in Teacher Deliberation）** 承认教师个人经验信念（第一声音）、同行学校文化（第二声音）与外来学术研究（第三声音）在课堂决策中的多维碰撞与深度对话（Cain, 2015; [[Argument_Torres_2022_KMModels\|Torres, 2022b, pp. 47–49]]）。
 
 > [!exegesis]- 实践理解与应用示例
 > 1. **英格兰研究学习共同体（RLC）干预模型（Brown et al.）** 伦敦大学学院教育学院 [[Chris Brown]] 在英格兰 43 所小学实施了 RLC 干预。每学年开展四次跨校工作坊，由大学研究者提供转译的研究成果总结、评估工具与研讨协议，支持教师团队经历“研读实证研究→结合本校经验深化理解→共同开发教学干预方案→班级试点→全校规模化推广”的完整过程。实证调查表明，RLC 显著提升了教师将研究与实践相融合的能力，促进了教学策略革新；但同时也警示若缺乏前置校本数据诊断，学校易根据流行风向盲目选择热门话题，陷入方案科学却不对症的困境。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 161–162)]]
@@ -188,7 +188,7 @@ updated: 2026-09-21
 
 ### 命题四　教师对研究文本的采纳置身于三种声音碰撞中且表现为非线性的多元能动反应模式
 
-> [!concept-lens] 教师微观认知能动性与[[Reflexivity\|反身性]][[Dialogue in Education\|对话]]机制
+> [!concept-lens] 教师微观认知能动性与[[Reflexivity\|反身性]]对话机制
 > 教师绝非外部证据的被动载体，而是通过三种声音的审议权衡与五类能动反应模式决定研究的去留与形态。
 
 > [!claim] Tim Cain (2015) / [[Argument_Torres_2022_KMModels\|Torres (2022b)]]
@@ -219,7 +219,7 @@ updated: 2026-09-21
 > - **1996 — 教学作为研究支撑专业** David Hargreaves 发表奠基性演讲，呼吁将教学重塑为由研究支撑的循证专业，引发国际学界对教育[[Research Utilization\|研究利用]]的广泛讨论。
 > - **2000s — [[Evidence-Based Education\|证据本位教育]]（EBE）与医学模式移植** 伴随欧美教育问责制和“什么有效”运动，强调以高等级实验因果证据直接指导课堂操作的“证据本位”或“研究本位”取向成为政策主流。
 > - **2010s — 从 Research-Based 到 Research-Informed 的语意转向** 学界反思医学模式在复杂教育情境中的局限，逐渐用“研究知情”（Research-Informed）取代具有硬性规定意味的“研究本位”（Research-Based），强调研究对教师[[Professional Judgment\|专业判断]]的启发而非支配。
-> - **2015 — 教师与研究文本互动的三种声音理论** Tim Cain 提出第一声音（教师个人价值）、第二声音（同行文化）与第三声音（学术研究），指出研究文本要真正进入教学思维，必须与前两种声音产生[[Dialogue in Education\|对话]]与深层碰撞。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 47–49)]]
+> - **2015 — 教师与研究文本互动的三种声音理论** Tim Cain 提出第一声音（教师个人价值）、第二声音（同行文化）与第三声音（学术研究），指出研究文本要真正进入教学思维，必须与前两种声音产生对话与深层碰撞。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 47–49)]]
 > - **2017 — 特刊确立 RITP 拼图地位与 [[Data-Based Decision Making\|DBDM]] 整合模型** [[Argument_Brown_2017_ER\|Brown et al. (2017)]] 与 [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] 汇聚多国经验，正式将 RITP 界定为 [[Evidence-Informed Practice\|EIP]] 的重要组成板块，并与 DBDM 并置，提出依托[[School Enquiry Cycle\|学校探究循环]]（ESTI）实现内部数据诊断与外部研究干预的深度融合。
 > - **2022 — [[OECD]] [[Knowledge Mobilisation\|知识动员]]模型横向审视** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 梳理教学端[[Research Utilization Models\|研究使用模型]]，强调教师并非被动接受学术结论，而是通过策略性、证实性或概念性对话将研究内化为专业思维方式。
 

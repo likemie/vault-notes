@@ -7,7 +7,7 @@ title: "Argument_Torres_2022_KMModels"
 argument_key: "Argument_Torres_2022_KMModels"
 argument_display_title: "Louder than words: Review and comparative analysis of knowledge mobilisation models"
 argument_kind: "book-chapter"
-argument_related_count: 44
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -45,7 +45,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Knowledge Mediation]]"
   - "[[Knowledge Production]]"
-  - "[[Dialogue in Education]]"
   - "[[Professional Judgment]]"
   - "[[Blue Skies Research]]"
   - "[[Research Impact]]"
@@ -178,7 +177,7 @@ updated: 2026-09-13
 >
 > - **关系模型（Relationship Model）**
 >
->   转向关注行动者之间的社会连接与双向互动，强调具有共同关切的同行网络、协作共同体与伙伴关系对知识流转的关键促进功能；打破单一由研究者主导[[Knowledge Production\|知识生成]]的局限，承认实践者持有关键的本土智慧，教师在[[Knowledge Production\|知识生产]]中被赋予更具能动性的参与角色，促进双向[[Dialogue in Education\|对话]]与新知识的共同创生。
+>   转向关注行动者之间的社会连接与双向互动，强调具有共同关切的同行网络、协作共同体与伙伴关系对知识流转的关键促进功能；打破单一由研究者主导[[Knowledge Production\|知识生成]]的局限，承认实践者持有关键的本土智慧，教师在[[Knowledge Production\|知识生产]]中被赋予更具能动性的参与角色，促进双向对话与新知识的共同创生。
 >
 > - **系统模型（Systems Model）**
 >

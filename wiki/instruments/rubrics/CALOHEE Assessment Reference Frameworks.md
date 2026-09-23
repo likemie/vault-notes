@@ -9,7 +9,7 @@ aliases:
 summary: "由欧盟委员会与Tuning学院研制的欧洲高等教育多维评价量规与参照框架体系，覆盖土木工程、教师教育、历史、护理和物理五大专业，将都柏林描述符解构为可测量的批判性思维与创造力学科化表现矩阵。"
 type: instrument
 instrument_type: rubric
-instrument_related_count: 20
+instrument_related_count: 21
 instrument_related_level: 4
 instrument_related_stars: "⭐⭐⭐⭐"
 instrument_related_color: "#ffedd5"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Operationalization]]"
+  - "[[Open-Mindedness]]"
   - "[[Task Structure]]"
   - "[[Rote Learning]]"
   - "[[Construct Validity]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-28
-updated: 2026-09-11
+updated: 2026-09-23
 ---
 
 # CALOHEE Assessment Reference Frameworks
@@ -101,7 +102,7 @@ updated: 2026-09-11
 
 > [!proc] 评价框架的[[Operationalization\|操作化]]评定流程
 > 1. **资格对齐（Descriptor Mapping）** 将[[European Qualifications Framework\|欧洲资格框架]]（EQF 6 级学士 / 7 级硕士）抽象描述符转化为具体的专业能力指标。
-> 2. **真实任务设计（Authentic Task Design）** 依据矩阵开发嵌入课程的开放性[[Task Structure\|劣构任务]]（如历史史料考证、物理探究实验），摒弃单纯[[Rote Learning\|死记硬背]]。
+> 2. **真实任务设计（Authentic Task Design）** 依据矩阵开发嵌入课程的[[Open-Mindedness|开放性]][[Task Structure\|劣构任务]]（如历史史料考证、物理探究实验），摒弃单纯[[Rote Learning\|死记硬背]]。
 > 3. **量规分级评定（Rubric Scoring）** 教师依据矩阵提供的表现标准（从初学者到卓越专家四级水平），开展定性评定与形成性反馈。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 27–28)]]
 
 ---

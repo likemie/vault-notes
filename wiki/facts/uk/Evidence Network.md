@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -27,7 +27,6 @@ tags:
 related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Knowledge Mobilisation]]"
-  - "[[Dialogue in Education]]"
   - "[[What Works Movement]]"
   - "[[School Leadership]]"
   - "[[Transfer Translation Transformation]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-14
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 # Evidence Network
@@ -64,7 +63,7 @@ updated: 2026-09-15
 ## 机构与网络定位
 
 > [!claim] 核心定位
-> 证据网络（Evidence Network）起源于英国经济与社会研究委员会（Economic and Social Research Council，ESRC）于 1999 年资助设立的“英国循证政策与实践中心”（[[UK Centre for Evidence-based Policy]] and Practice），是以伦敦大学玛丽女王学院（Queen Mary University of London）与伦敦国王学院（King's College London）等多所顶尖大学为核心节点建立的全国性跨部门[[Knowledge Mediation\|知识中介]]网络；在当代教育与公共治理语境中，它指涉连接学术科研界、政策决策层与基层实践者的关系型[[Knowledge Mobilisation\|知识动员]]网络架构（Relational Knowledge Mobilisation Network），致力于通过长期非交易性合作与多方[[Dialogue in Education\|对话]]打破学术孤岛，促进实证研究在政策制定与专业实践中的有效利用。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17, pp. 330–335)]]; [[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 117)]]
+> 证据网络（Evidence Network）起源于英国经济与社会研究委员会（Economic and Social Research Council，ESRC）于 1999 年资助设立的“英国循证政策与实践中心”（[[UK Centre for Evidence-based Policy]] and Practice），是以伦敦大学玛丽女王学院（Queen Mary University of London）与伦敦国王学院（King's College London）等多所顶尖大学为核心节点建立的全国性跨部门[[Knowledge Mediation\|知识中介]]网络；在当代教育与公共治理语境中，它指涉连接学术科研界、政策决策层与基层实践者的关系型[[Knowledge Mobilisation\|知识动员]]网络架构（Relational Knowledge Mobilisation Network），致力于通过长期非交易性合作与多方对话打破学术孤岛，促进实证研究在政策制定与专业实践中的有效利用。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17, pp. 330–335)]]; [[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 117)]]
 
 > [!org-context] 机构与网络背景档案
 > - **成立时间与政策契机** 1999 年由英国 ESRC 拨款设立，直接响应布莱尔新工党政府推动的“何者有效”（What Works）现代化公共政策转型，直面学术科研产出与政府决策需求脱节的结构性困境。
@@ -94,7 +93,7 @@ updated: 2026-09-15
 > [!pathways]- 关系型[[Knowledge Mobilisation\|知识动员]]机制与运行路径
 > - **反向需求拉动与议程共创** 改变单纯由学者闭门选题的惯性，通过定期圆桌会议让决策者与实践者提前介入课题设计，精准对接国家重大改革需求；
 > - **成果去专业化[[Transfer Translation Transformation\|转译]]与政策简报** 将动辄数百页的学术论著与[[Meta-analysis\|元分析]]转化为直指决策痛点的精炼政策摘要（Policy Briefings）与操作指南；
-> - **跨界交往空间与信任资本培育** 依托面对面工作坊、联合研修班与非正式[[Dialogue in Education\|对话]]，消除不同制度文化与专业行话带来的交流阻力，建立跨越体制壁垒的非交易性伙伴关系。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 106, 122)]]
+> - **跨界交往空间与信任资本培育** 依托面对面工作坊、联合研修班与非正式对话，消除不同制度文化与专业行话带来的交流阻力，建立跨越体制壁垒的非交易性伙伴关系。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 106, 122)]]
 
 ---
 

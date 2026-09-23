@@ -7,7 +7,7 @@ summary: "丹麦理论心理学家，社会实践学习与 Visible Learning 批�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 23
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Evidence-Based Education]]"
   - "[[Document]]"
-  - "[[Dialogue in Education]]"
   - "[[Epistemology]]"
 related_theories:
   - "[[Radical Constructivism]]"
@@ -53,7 +52,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-09-11
+updated: 2026-09-22
 ---
 ## 简介
 
@@ -108,7 +107,7 @@ updated: 2026-09-11
 
 
 > [!info] VL 对学生意向性的系统性边缘化（2021, IRTP）
-> Nielsen & Klitmøller (2021, IRTP, pp. 88-89) 识别了一个此前 [[Evidence-Based Education\|EBE]] 批判[[Document\|文献]]中未被充分发展的维度：VL 的技术理性框架**系统性消除了学生和教师的意向性（intentionality）和意义寻求**——学生被"原子化"为一系列变量，学习目标不容讨论，人际[[Dialogue in Education\|对话]]被反馈机制取代。他们主张改进教学的出发点不应是"什么方法有效"，而应是"研究学生为什么参与学校实践"（Nielsen & Klitmøller, 2021, p. 89）。
+> Nielsen & Klitmøller (2021, IRTP, pp. 88-89) 识别了一个此前 [[Evidence-Based Education\|EBE]] 批判[[Document\|文献]]中未被充分发展的维度：VL 的技术理性框架**系统性消除了学生和教师的意向性（intentionality）和意义寻求**——学生被"原子化"为一系列变量，学习目标不容讨论，人际对话被反馈机制取代。他们主张改进教学的出发点不应是"什么方法有效"，而应是"研究学生为什么参与学校实践"（Nielsen & Klitmøller, 2021, p. 89）。
 
 ## 主要贡献
 

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30"
 argument_display_title: "Research Methods in Education · Ch30"
 argument_kind: "book-chapter"
-argument_related_count: 61
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -57,12 +57,12 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Fitness for Purpose]]"
   - "[[Presence]]"
-  - "[[Dialogue in Education]]"
   - "[[Epistemology]]"
   - "[[Heterogeneity]]"
   - "[[Falsification]]"
   - "[[School Leadership]]"
   - "[[Operationalization]]"
+  - "[[Meaningful Human Control]]"
   - "[[Going Native]]"
   - "[[Abstract]]"
 related_theories: []
@@ -94,7 +94,8 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Audit Trail]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Miranda Fricker]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -186,7 +187,7 @@ updated: 2026-09-08
 > - **人类工作记忆的容量上限** 人类短期工作记忆一般仅能同时维持 4±1 或 7±2 个编码节点。若单次分析调动的代码超过该生理极限，将导致严重的分析疲劳与分类漂移。
 > - **计算工具与人机协同的支撑效能** 现代质性分析高度依赖计算机辅助[[Qualitative Computer Software\|质性数据分析软件]]（Computer-Assisted Qualitative Data Analysis Software，[[Qualitative Computer Software\|CAQDAS]]）在节点管理与复杂检索上的技术支持，主流工具包括 NVivo、MAXQDA、ATLAS.ti 与 Dedoose 等；随着[[Generative Artificial Intelligence\|生成式人工智能]]的发展，质性分析进一步拓展出人机协同的智能编码模式。
 
-为了引导研究者在编码过程中提出系统性的分析设问，弗里克提炼了指引开放编码的 11 个关键追问方向（Flick, 2009, p. 310；p. 561）：
+为了引导研究者在编码过程中提出系统性的分析设问，[[Miranda Fricker|弗里克]]提炼了指引开放编码的 11 个关键追问方向（Flick, 2009, p. 310；p. 561）：
 
 > [!framework-table] 指引开放编码深入展开的 11 个关键设问矩阵（Flick, 2009）
 >
@@ -416,7 +417,7 @@ updated: 2026-09-08
 本案例的原始数据来源于多所公立学校一线教师的[[Semi-structured Interview|半结构化访谈]]与反思性自述，转录文本涵盖数百页原始口语记录。分析首先执行文本单位化（Unitizing）与评注抽取的预处理规程：
 
 > [!proc] 原始语料清洗与文本单位化（Unitizing）三步规程
-> 1. **多轮精读与语义浸润（[[Presence\|immersion]]）** 通读全篇访谈，清洗口语冗余、寒暄与偏离主题的枝节[[Dialogue in Education\|对话]]，标定出所有涉及压力体验、诱因归因、生理反应与应对行为的实质性语段。
+> 1. **多轮精读与语义浸润（[[Presence\|immersion]]）** 通读全篇访谈，清洗口语冗余、寒暄与偏离主题的枝节对话，标定出所有涉及压力体验、诱因归因、生理反应与应对行为的实质性语段。
 > 2. **提取解释性评注（Explanatory Paraphrases）** 将每段复杂的口语自述提炼为一句话的解释性陈述，包含独立完整的因果判断或经验事实，并最大程度保持对原初经验语境的忠实度。
 > 3. **沉淀 33 条基准经验陈述** 经过交叉比对与去重，最终凝练为 33 条具有代表性的核心经验语句，作为后续内容分析的基础记录单位。
 
@@ -693,7 +694,7 @@ updated: 2026-09-08
 
 #### 人在回路（HITL）原则与质性认识论审慎
 
-尽管大语言模型展现出卓越的文本解析潜力，但质性研究的认识论根基在于对主体经验、深层语境与权力关系的理解。使用大模型辅助编码必须严格确立人在回路（Human-in-the-Loop，HITL）的操作准则，防范技术依赖所导致的方法论失真：
+尽管大语言模型展现出卓越的文本解析潜力，但质性研究的认识论根基在于对主体经验、深层语境与权力关系的理解。使用大模型辅助编码必须严格确立[[Meaningful Human Control|人在回路]]（Human-in-the-Loop，HITL）的操作准则，防范技术依赖所导致的方法论失真：
 
 > [!method-limits] 质性研究中应用大语言模型的方法论防线与人在回路准则
 > - **反身性主导与最终解释权** 质性分析不是流水线上的机械数据清洗，而是研究者调动主观[[Reflexivity\|反身性]]与理论敏感度同经验世界展开的持续对话。大模型不能代替研究者感受受访者的生命体验；模型的输出仅能视为待检验的分析假设，编码的有效性确认与理论建构必须由人类研究者牢牢掌控。

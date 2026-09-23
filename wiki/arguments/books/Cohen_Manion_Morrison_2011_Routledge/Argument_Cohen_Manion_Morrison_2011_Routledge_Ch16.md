@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16"
 argument_display_title: "Research Methods in Education · Ch16"
 argument_kind: "book-chapter"
-argument_related_count: 81
+argument_related_count: 80
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[School Effectiveness]]"
   - "[[Null Hypothesis]]"
-  - "[[Growth]]"
   - "[[Fundamental Problem of Causal Inference]]"
   - "[[Hypothesis]]"
   - "[[Hawthorne Effect]]"
@@ -178,7 +177,7 @@ updated: '2026-08-27'
 
 以小麦肥料实验为例说明实验的核心逻辑（Morrison, 1993, pp. 44–45）（pp. 312–313）：
 
-将一袋小麦种子**随机**分成两等份。一份在正常条件下[[Growth|生长]]，控制并测量土壤、温度、水和光照的量，不加入其他因素，这是**控制组**。另一份在完全相同的条件下生长，但额外施加新肥料，这是**实验组**。四个月后比较两组的生长情况：控制组长了半米，麦穗就位但籽粒小；实验组同样长了半米，但每穗籽粒显著更多、更大、更饱满、更强壮。
+将一袋小麦种子**随机**分成两等份。一份在正常条件下生长，控制并测量土壤、温度、水和光照的量，不加入其他因素，这是**控制组**。另一份在完全相同的条件下生长，但额外施加新肥料，这是**实验组**。四个月后比较两组的生长情况：控制组长了半米，麦穗就位但籽粒小；实验组同样长了半米，但每穗籽粒显著更多、更大、更饱满、更强壮。
 
 因为两组接触的土壤、温度、水和光照在测量和控制下**完全相同**，任何差异只能归因于肥料。
 

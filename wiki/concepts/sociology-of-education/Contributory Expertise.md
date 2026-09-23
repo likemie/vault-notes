@@ -8,10 +8,10 @@ aliases:
 summary: "实践者在特定物理与社会情境中通过长期实践积累的、兼具默会性与具身性的实践智慧与手艺知识，能够应对现场偶发挑战并促成实际成效的专门知识类型。"
 type: concept
 domain: "sociology-of-education"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - sociology-of-expertise
   - science-and-technology-studies
@@ -29,12 +29,10 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Teaching Assistant]]"
-  - "[[Dialogue in Education]]"
   - "[[Professional Learning Community]]"
   - "[[Positivism]]"
   - "[[Operationalization]]"
   - "[[Research Utilization]]"
-  - "[[Growth]]"
   - "[[Variable]]"
   - "[[Document]]"
   - "[[Reflexivity]]"
@@ -57,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Contributory Expertise
@@ -129,7 +127,7 @@ updated: 2026-09-18
 > 阐述一线专业人员如何凭借贡献专长审视并改造外部研究证据。
 
 > [!claim] [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]]
-> **受训判断力对外部中介证据的抵制与校准** 当外部[[Educational Brokerage Agency\|知识中介机构]]或工具包推销的“有效做法”（如削减[[Teaching Assistant\|助教]]以节约成本的结论）与一线长期的具身实践经验直接冲突时，具有成熟贡献型专长的校长与教师会展现出坚决的专业怀疑主义。他们依托对微观生源特征与特定学生的深刻理解，将外部研究降维为粗略的参考起点或[[Dialogue in Education\|对话]]契机，通过[[Practitioner Enquiry\|实践者探究]]（practitioner enquiry）检验其真实适切性，拒绝被动盲从缺乏情境敏感性的技术客观性主张。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 19–21)]]
+> **受训判断力对外部中介证据的抵制与校准** 当外部[[Educational Brokerage Agency\|知识中介机构]]或工具包推销的“有效做法”（如削减[[Teaching Assistant\|助教]]以节约成本的结论）与一线长期的具身实践经验直接冲突时，具有成熟贡献型专长的校长与教师会展现出坚决的专业怀疑主义。他们依托对微观生源特征与特定学生的深刻理解，将外部研究降维为粗略的参考起点或对话契机，通过[[Practitioner Enquiry\|实践者探究]]（practitioner enquiry）检验其真实适切性，拒绝被动盲从缺乏情境敏感性的技术客观性主张。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 19–21)]]
 
 ---
 
@@ -159,7 +157,7 @@ updated: 2026-09-18
 > - **2002 — 专长第三次浪潮奠基** Collins & Evans (2002) 提出专长与经验研究（SEE）纲领，突破传统[[Positivism\|实证主义]]与相对主义二元论，首次确立贡献型专长（能够实际参与专业实践）与[[Interactional Expertise\|交互型专长]]（能够无障碍转述专业话语）的理论分界。
 > - **2007 — 周期专长理论化与《重思专长》** Collins & Evans (2007) 出版《重思专长》（*Rethinking Expertise*），将贡献型专长系统化[[Operationalization\|操作化]]为依赖默会知识传递、扎根实践社群的具身化能力，确立其作为实践知识合法性源头的地位。
 > - **2019 — 专长危机与公共领域制度博弈** Eyal (2019) 在《专长危机》（*The Crisis of Expertise*）中将专长二元论引入政治社会学分析，揭示技术客观性专家与一线实践专家在监管、问责与公共危机中的权力冲突与合法性竞争。
-> - **2025 — 教育治理与学校循证实践的跨国比较** [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] 首次将专长社会学框架引入英格兰、苏格兰与德国三地[[School Leadership\|学校领导]]者[[Research Utilization\|证据使用]]的跨国比较，揭示高利害市场化治理如何压制贡献型专长并诱发表演性依从，而低利害与专业自主环境如何为贡献型专长提供[[Growth\|生长]]空间。
+> - **2025 — 教育治理与学校循证实践的跨国比较** [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] 首次将专长社会学框架引入英格兰、苏格兰与德国三地[[School Leadership\|学校领导]]者[[Research Utilization\|证据使用]]的跨国比较，揭示高利害市场化治理如何压制贡献型专长并诱发表演性依从，而低利害与专业自主环境如何为贡献型专长提供生长空间。
 
 ---
 

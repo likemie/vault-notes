@@ -7,7 +7,7 @@ aliases:
 summary: "由 Hagevold 等人（2026）依据框架综合提出的研究使用分析框架，主张信任、技能发展、可持续结构与关系四类机制跨越并贯通个体、组织与系统层级，共同塑造学校中的研究使用"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 29
+theory_related_count: 28
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Research-Practice Partnership]]"
   - "[[Teacher Professional Agency]]"
   - "[[Institutional Distrust]]"
-  - "[[Growth]]"
   - "[[Hypothesis]]"
   - "[[Abstract]]"
   - "[[Evaluation Research]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Governing Mechanisms of Research Use
@@ -105,7 +104,7 @@ updated: 2026-09-17
 > - **推导** 因此修订框架以四类横切机制取代各层级嵌套组件的逻辑，说明[[Research Utilization\|研究使用]]必须按跨层互动理解，而不是把因素分配到离散层级。
 
 > [!proposition-chain] 核心命题二｜四类机制相互强化、同时在纵向与横向方向同时运作，形成整合系统而非清单
-> - **前提一** 信任是技能发展与关系建立所要求的开放[[Dialogue in Education\|对话]]与风险承担的前提，也可由后者维系；可持续结构创造关系形成与技能[[Growth\|生长]]的时空；关系生成信任赖以建立和维持的社会基础设施（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, p.17]]）。
+> - **前提一** 信任是技能发展与关系建立所要求的开放对话与风险承担的前提，也可由后者维系；可持续结构创造关系形成与技能生长的时空；关系生成信任赖以建立和维持的社会基础设施（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, p.17]]）。
 > - **前提二** 技能发展既依赖又强化其它三种机制：它需要信任环境与合作关系，嵌入可持续结构时最持久。
 > - **推导** 四机制构成一个整合系统，任何层级上机制的存在或缺席都会在其它机制中引起回响；这解释了为何孤立的时间投入或个别教师培训难以真正改变研究使用。
 

@@ -34,7 +34,6 @@ related_concepts:
   - "[[Cognitive Offloading]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Artefact]]"
-  - "[[Dialogue in Education]]"
   - "[[Heterogeneity]]"
   - "[[Learner-Centred Education]]"
   - "[[Decodification]]"
@@ -51,6 +50,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Epistemic Friction]]"
   - "[[Quality Education]]"
+  - "[[Open-Mindedness]]"
   - "[[Homework]]"
   - "[[Language Skills]]"
   - "[[Academic Achievement]]"
@@ -83,7 +83,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Third Generation Activity Theory
@@ -116,7 +116,7 @@ updated: 2026-09-17
 > - **客体（Object）**
 >   活动系统所指向的意图、目标与动机，如提升考试成绩、推行探究教学或培养[[Higher-Order Thinking Skills\|高阶思维]]。
 > - **中介工具（Mediating Tools）**
->   主体用于达成客体的符号与物质[[Artefact\|人工制品]]，如讲授法、测试卷、[[Dialogue in Education\|对话]]研讨或 ChatGPT。
+>   主体用于达成客体的符号与物质[[Artefact\|人工制品]]，如讲授法、测试卷、对话研讨或 ChatGPT。
 > - **共同体（Community）**
 >   主体所嵌入的社会关系网络，如家长、教育主管部门、教师同行、人机协作学习共同体。
 > - **规则（Rules）**
@@ -151,7 +151,7 @@ updated: 2026-09-17
 > [!proposition-chain] 核心命题三｜多活动系统相遇、边界跨越与扩展性改造命题（Engeström, 2001）
 > - **前提一** 第三代活动理论将最小[[Unit of Analysis\|分析单元]]扩展为“至少两个相互作用的活动系统构成的网络”，聚焦系统相遇时的边界区域（Boundary Zone）。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 591)]]
 > - **前提二** 当异质系统发生碰撞时，[[Boundary Spanner\|边界跨越者]]（Boundary Crossers）面临多重制度逻辑冲突，系统间矛盾被激化。
-> - **推导** 通过多主体[[Dialogue in Education\|对话]]协商，若能建构出容纳双方合理诉求的“共享客体（Shared Object）”，将触发全系统要素的连锁重组，实现从旧平衡向新实践生态跃迁的“扩展性改造（Expansive Transformation）”。
+> - **推导** 通过多主体对话协商，若能建构出容纳双方合理诉求的“共享客体（Shared Object）”，将触发全系统要素的连锁重组，实现从旧平衡向新实践生态跃迁的“扩展性改造（Expansive Transformation）”。
 
 > [!proposition-chain] 核心命题四｜跨制度边界相遇中的[[Selective Affinity\|选择性亲和]]与共享目标重构（[[Argument_Wang_2025_CE\|Wang & McLaughlin, 2025]]）
 > - **前提一（制度系统碰撞）** 跨国[[Policy Borrowing\|政策借用]]将西方的以学习者为中心的教学（[[Learner-Centred Education\|LCE]]）改革系统引入中国高利害[[Test-Based Accountability\|考试问责]]环境，形成两大冲突系统，使学校面临[[Gaokao\|高考]]达标与探究教学的剧烈张力。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 586–593)]]
@@ -195,7 +195,7 @@ updated: 2026-09-17
 >
 > > [!example] 案例一：跨国教学改革与高利害考试的系统[[Transfer Translation Transformation\|转译]]（[[Argument_Wang_2025_CE\|Wang & McLaughlin, 2025]]）
 > > - **背景** 中国高中在引进以学生为中心（LCE）的探究教学时，遭遇高考升学问责系统（系统 A）与[[Quality Education\|素质教育]]改革系统（系统 B）的尖锐对立。
-> > - **机制运作** 学校识别出“讲授刷题规则”与“探究工具”之间的二级矛盾，校领导与骨干教师通过边界跨越，将 LCE 的小组讨论重新定义为“攻克高考开放性劣构大题的高阶工具”（共享客体），进而重塑了校本教研规则和分工，成功化解了改革阻力。
+> > - **机制运作** 学校识别出“讲授刷题规则”与“探究工具”之间的二级矛盾，校领导与骨干教师通过边界跨越，将 LCE 的小组讨论重新定义为“攻克高考[[Open-Mindedness|开放性]]劣构大题的高阶工具”（共享客体），进而重塑了校本教研规则和分工，成功化解了改革阻力。
 >
 > > [!example] 案例二：大学课堂中生成式 AI 介入下的教学规制重构（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）
 > > - **背景** 大学课程引入 ChatGPT 后，学生使用大模型秒出论文终稿，传统“以终稿论英雄”的考核规则诱发大面积[[Cognitive Offloading\|认知卸载]]与心智惰性。

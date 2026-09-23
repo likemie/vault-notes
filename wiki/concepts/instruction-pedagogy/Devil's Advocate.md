@@ -7,7 +7,7 @@ aliases:
 summary: "一种为检验论证而替不赞同立场辩护的说话实践，在西方家庭学习社会化中可用于训练儿童论证能力"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 5
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,7 +17,6 @@ tags:
   - theme/argumentation
   - field/instruction-pedagogy
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Action Better Than Words]]"
 related_theories: []
 related_methods: []
@@ -30,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-09-22
 ---
 
 # Devil's Advocate
@@ -41,7 +40,7 @@ updated: 2026-05-24
 > Devil's advocate（魔鬼代言人）原指罗马天主教会封圣程序中负责提出反对意见、挑战候选人圣洁证据的一方。在当代用法中，它指一种说话实践：一个人为自己并不一定赞同的立场辩护，目的纯粹是为了检验论证、暴露论证中的漏洞和弱点，从而使原有论证变得更强([[Argument_Li_2012_Cambridge\|Li, 2012, p.95]])。
 
 > [!example]
-> 如果一个人主张瓶装水是浪费金钱，因为研究表明它不比自来水更干净，那么[[Dialogue in Education\|对话]]者可以说："仅作为一个 devil's advocate——人们可能还是买瓶装水，因为这让他们感觉更安全。"结果，第一个人可以将这一视角纳入论证："尽管人们可能觉得自己在通过购买瓶装水保护健康，但实际上它没有带来任何健康益处。事实上，他们只是在浪费金钱。"修改后的论证更好，因为它将错误的心理原因与科学证据并置([[Argument_Li_2012_Cambridge\|Li, 2012, pp.95-96]])。
+> 如果一个人主张瓶装水是浪费金钱，因为研究表明它不比自来水更干净，那么对话者可以说："仅作为一个 devil's advocate——人们可能还是买瓶装水，因为这让他们感觉更安全。"结果，第一个人可以将这一视角纳入论证："尽管人们可能觉得自己在通过购买瓶装水保护健康，但实际上它没有带来任何健康益处。事实上，他们只是在浪费金钱。"修改后的论证更好，因为它将错误的心理原因与科学证据并置([[Argument_Li_2012_Cambridge\|Li, 2012, pp.95-96]])。
 
 ---
 
@@ -57,7 +56,7 @@ updated: 2026-05-24
 ## 在家庭学习社会化中的应用
 
 > [!abstract]
-> Li 指出，许多受过良好教育的西方父母在日常[[Dialogue in Education\|对话]]中向儿童示范 devil's advocate 的做法，作为社会化儿童论证能力的一部分([[Argument_Li_2012_Cambridge\|Li, 2012, pp.95-96]])。
+> Li 指出，许多受过良好教育的西方父母在日常对话中向儿童示范 devil's advocate 的做法，作为社会化儿童论证能力的一部分([[Argument_Li_2012_Cambridge\|Li, 2012, pp.95-96]])。
 
 父母也会示范类似的话语框架，如"公平地说，我能理解……""站在对方的立场，我虽然不同意他们，但能体谅……"。通过这种方式，儿童学会了如何为不同立场辩护、如何识别论证的弱点、如何在不认同的情况下依然有效地阐述对方论点——这些技能在西方教育系统中被高度重视。
 

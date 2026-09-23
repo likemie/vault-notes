@@ -9,7 +9,7 @@ summary: "源自社会学的经典质性研究设计，通过理论抽样、多�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 59
+method_related_count: 60
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Fitness for Purpose]]"
   - "[[Epistemology]]"
+  - "[[Meaningful Human Control]]"
   - "[[Objectivism]]"
   - "[[Postpositivism]]"
   - "[[Reliability]]"
@@ -88,7 +89,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-30
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Grounded Theory
@@ -132,7 +133,7 @@ updated: 2026-09-17
 > - **研究设计** [[Qualitative Research\|质性研究]]设计（经典扎根理论、程序扎根理论、[[Constructivist Grounded Theory\|建构主义扎根理论]]）。
 > - **数据收集** [[Theoretical Sampling\|理论抽样]]引导下的[[In-depth Interview\|深度访谈]]、跟踪追访、[[Participant Observation\|参与观察]]、实物档案与田野备忘录。
 > - **分析方法** [[Open Coding\|开放编码]]（属性与维度展开）、[[Axial Coding\|主轴编码]]（六要素[[Paradigm\|范式]]模型）、[[Selective Coding\|选择性编码]]（[[Story Line\|故事线]]整合）、[[Constant Comparison\|持续比较法]]、理论备忘录撰写（memoing）。
-> - **辅助技术** 质性分析软件（[[Qualitative Computer Software\|CAQDAS]]，如 NVivo、MAXQDA、ATLAS.ti）节点网络建模、[[Coding in Qualitative Research\|编码]]矩阵检索、大语言模型人在回路（HITL）归纳辅助。
+> - **辅助技术** 质性分析软件（[[Qualitative Computer Software\|CAQDAS]]，如 NVivo、MAXQDA、ATLAS.ti）节点网络建模、[[Coding in Qualitative Research\|编码]]矩阵检索、大语言模型[[Meaningful Human Control|人在回路]]（HITL）归纳辅助。
 
 ---
 
@@ -186,7 +187,7 @@ updated: 2026-09-17
 ---
 
 ### 5. 理论备忘录撰写（Memoing）
-备忘录是研究者在整个探究进程中与自我展开的持续[[Dialogue in Education|对话]]记录。从最初对某一本土概念的直觉猜想、范畴关系的草图构想，到主轴因果范式的反思推敲，备忘录忠实记录了研究者的思维轨迹与[[Epistemology|认识论]]决断，充当连接经验代码与理论成果的核心知识桥梁。
+备忘录是研究者在整个探究进程中与自我展开的持续对话记录。从最初对某一本土概念的直觉猜想、范畴关系的草图构想，到主轴因果范式的反思推敲，备忘录忠实记录了研究者的思维轨迹与[[Epistemology|认识论]]决断，充当连接经验代码与理论成果的核心知识桥梁。
 
 ---
 
@@ -222,7 +223,7 @@ updated: 2026-09-17
 ### 大语言模型人在回路（HITL）协同前沿
 随着[[Generative Artificial Intelligence|生成式人工智能]]的演进，[[Qualitative Research|质性研究]]拓展出人机协同的智能扎根分析模式：
 - **语义初筛与隐喻启发** 大模型可辅助执行海量[[Transcription in Qualitative Research|转录]]文本的无先验语义扫描，从离散陈述中快速归纳候选主题、识别异常表达，为[[Open Coding|开放编码]]提供概念启发。
-- **人在回路（HITL）防线** 质性研究的[[Epistemology|认识论]]根基在于对主体真实生活体验的共情与理解，大模型不能代替人类感受田野温度。核心范畴的确立、[[Story Line|故事线]]的统摄提炼以及反常案例的经验回溯核验，必须由人类研究者牢牢掌控，并建立详尽的[[Audit Trail|审计追踪]]记录。
+- **[[Meaningful Human Control|人在回路]]（HITL）防线** 质性研究的[[Epistemology|认识论]]根基在于对主体真实生活体验的共情与理解，大模型不能代替人类感受田野温度。核心范畴的确立、[[Story Line|故事线]]的统摄提炼以及反常案例的经验回溯核验，必须由人类研究者牢牢掌控，并建立详尽的[[Audit Trail|审计追踪]]记录。
 
 ---
 

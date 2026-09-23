@@ -5,7 +5,7 @@ aliases:
 summary: "把可持续性理解为纳入局部社区生命力量、关系网络和内外部威胁的整体性概念。"
 type: concept
 domain: "educational-philosophy"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Ganz-Methode]]"
   - "[[Epistemology]]"
-  - "[[Dialogue in Education]]"
   - "[[Ecomuseology]]"
   - "[[Ways of Knowing]]"
   - "[[Operationalization]]"
@@ -35,7 +34,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: '2026-05-18'
+updated: 2026-09-22
 ---
 
 # Whole Sustainability
@@ -53,7 +52,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - vs **常规可持续性（Conventional Sustainability）** 常规可持续性概念（如联合国 [[UN Sustainable Development Goals\|SDGs]]）倾向于将可持续性拆解为经济、社会、环境三个可分离的"支柱"，并在此框架内寻求技术改良方案。Whole Sustainability 质疑这种拆解本身——它认为霸权发展模式的"[[Epistemology\|认识论]]"本身才是不可持续性的根源，因此"整体"必须是认识论层面的（重塑我们认知世界的方式），而非仅仅是操作层面的（在三支柱内做加法）([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.109 脚注, 115–116]])
-> - vs **生态发展（Ecodevelopment, Ignacy Sachs）** Delambre 在其 2014 年著作中与 Sachs 的生态发展概念进行了系统[[Dialogue in Education\|对话]]，后者强调发展必须同时满足社会公平、生态谨慎、经济效率、文化多样性和空间平衡五重标准。Whole Sustainability 在此基础上引入了"张力承载"维度——可持续性不仅是一个平衡问题，还是一个如何在新旧张力中承载和决策的认识论问题([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.105, 2014]])
+> - vs **生态发展（Ecodevelopment, Ignacy Sachs）** Delambre 在其 2014 年著作中与 Sachs 的生态发展概念进行了系统对话，后者强调发展必须同时满足社会公平、生态谨慎、经济效率、文化多样性和空间平衡五重标准。Whole Sustainability 在此基础上引入了"张力承载"维度——可持续性不仅是一个平衡问题，还是一个如何在新旧张力中承载和决策的认识论问题([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.105, 2014]])
 
 ## 概念演变
 

@@ -26,13 +26,13 @@ related_concepts:
   - "[[Technology Infusion]]"
   - "[[Cognitive Offloading]]"
   - "[[Direct Instruction]]"
-  - "[[Dialogue in Education]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Homework]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Learner Autonomy]]"
   - "[[Performance Pay]]"
+  - "[[Dialogue in Education]]"
   - "[[Lost Mode]]"
   - "[[Feedback]]"
   - "[[Self-Regulated Learning]]"
@@ -90,7 +90,7 @@ updated: 2026-09-21
 > *One superior teaching dimension consists of structure and interaction... A too far-reaching individualisation has no research support, but, on the other hand, neither does a one-sided pulpit teaching.*
 
 > [!citation-card] 智能技术整合中的结构化认知增益（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）
-> ChatGPT 对大学生认知发展的影响并非技术固有的必然属性，而是高度依存于任务的教学情境与脚手架设计。当嵌入探究导向、反思提示与[[Dialogue in Education\|对话]]式互动的结构化教学设计中时，ChatGPT 能够驱动[[Critical Thinking\|批判性思维]]与[[Creativity\|创造性思维]]的双向协同增益。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 10)]]
+> ChatGPT 对大学生认知发展的影响并非技术固有的必然属性，而是高度依存于任务的教学情境与脚手架设计。当嵌入探究导向、反思提示与对话式互动的结构化教学设计中时，ChatGPT 能够驱动[[Critical Thinking\|批判性思维]]与[[Creativity\|创造性思维]]的双向协同增益。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 10)]]
 >
 > *The influence of ChatGPT on student cognition is not intrinsic to the tool itself but contingent upon pedagogical framing, task design, and instructional scaffolding... structured implementations fostered synergistic CT–CrT enhancement.*
 
@@ -164,7 +164,7 @@ updated: 2026-09-21
 > 探讨教学设计中外在结构的设立如何为内部高级心理机能的运转与师生深度互动提供不可或缺的[[Scaffolding\|认知支架]]。
 
 > [!claim] [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]]
-> **结构与互动的共生性** 比较[[Meta-meta-analysis\|元综合]]表明，教学质量的高级维度是由“结构”与“互动”共同定义的。教师对教学目标、内容序列、时间管理与反馈机制的清晰结构化组织，绝非对学生思维的禁锢，反而为高质量的师生深度[[Dialogue in Education\|对话]]、生生合作与学生探究提供了必要的安全边界与认知基础。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 584, 595–596)]]
+> **结构与互动的共生性** 比较[[Meta-meta-analysis\|元综合]]表明，教学质量的高级维度是由“结构”与“互动”共同定义的。教师对教学目标、内容序列、时间管理与反馈机制的清晰结构化组织，绝非对学生思维的禁锢，反而为高质量的师生深度对话、生生合作与学生探究提供了必要的安全边界与认知基础。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 584, 595–596)]]
 
 > [!claim] [[Argument_Li_2026_CEAI\|Li et al. (2026)]]
 > **[[Technology Infusion\|技术整合]]中的结构化调节法则** 针对高等教育 67 项实证研究的[[Systematic Review\|系统综述]]证实，生成式 AI（ChatGPT）对学生认知发展的影响并非技术固有属性，而是高度依存于任务的教学情境与支架设计。当教学采用结构化探究框架（如[[Reflexivity\|反思性]]提示、量规引导、ADDIE 教学模型）时，AI 能够有效中介论据分析与发散构想，在 53% 的双目标研究（n = 18）中促成[[Critical Thinking\|批判性思维]]与[[Creativity\|创造性思维]]的“双向协同增益”。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 9–11)]]
@@ -260,7 +260,7 @@ updated: 2026-09-21
 >   - **反馈收束与反思总结** 教师引导全班汇总关键概念网络，提供纠正性反馈，确保知识系统化。
 > - **高等教育生成式 AI 结构化递归探究教学（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）**
 >   - **基于 ADDIE 与创意写作框架的教学干预（Cake, 2025; Abdelmagid et al., 2025）** 要求学生先独立拟定初始构想，再利用大模型发散视角，随后依据评分量规开展自我批判与去幻觉事实核查；
->   - **提示词迭代链（Prompt Trail）与反思日志** 强制要求考核提交提示词修改历史与人机[[Dialogue in Education\|对话]]辩护记录，将评价重心锚定在反思过程本身。
+>   - **提示词迭代链（Prompt Trail）与反思日志** 强制要求考核提交提示词修改历史与人机对话辩护记录，将评价重心锚定在反思过程本身。
 
 ---
 

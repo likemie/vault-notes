@@ -8,7 +8,7 @@ aliases:
 summary: "由科学哲学家西尔维奥·丰托维奇与杰罗姆·拉维茨于 1993 年提出的科学认识论与公共政策分析概念，用以界定“事实不确定、价值有争议、赌注高昂且决策紧迫”的复杂治理情境，主张超越封闭的传统同行评议，构建吸纳公众与多元利益相关方的“扩展同行共同体”，以透明披露科学不确定性与民主对话化解决策僵局"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Epistemic Aims]]"
   - "[[Emergence]]"
   - "[[Hypothesis]]"
-  - "[[Dialogue in Education]]"
   - "[[Scientific Literacy]]"
   - "[[Rote Learning]]"
   - "[[Critical Thinking]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 # Post-Normal Science
@@ -127,7 +126,7 @@ updated: 2026-09-15
 ### 命题二　透明披露科学不确定性并构建扩展同行对话是化解后常规死结的核心抓手
 
 > [!concept-lens] 民主审议与不确定性治理
-> 探讨如何通过制度化的透明度工具与公众[[Dialogue in Education\|对话]]重建高风险决策的社会合法性。
+> 探讨如何通过制度化的透明度工具与公众对话重建高风险决策的社会合法性。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
 > **坦诚呈现证据局限与解释未采纳理由是维系信任的根本** 要化解后常规科学难题陷入难以调和的僵局，国家科研与政策系统必须实现两项制度突破：其一，在发布立法与战略时强制附带通俗易懂的《科学证据陈述》（Scientific Evidence Statements），详尽标明[[Scientific Uncertainty\|科学不确定性]]的具体区间与[[Hypothesis\|假设]]边界；其二，科学界必须主动走出象牙塔，在技术萌芽阶段即组织包含广泛公众、受影响群体与政策决策者的前瞻公共对话（Public Dialogue），让公众在理解科学不确定性的前提下参与政策共同塑造。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 86–88)]]

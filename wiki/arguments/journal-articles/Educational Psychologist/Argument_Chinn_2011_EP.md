@@ -34,8 +34,10 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Justificatory Standards]]"
   - "[[Evaluation Research]]"
+  - "[[Trust Calibration]]"
   - "[[Critical Thinking]]"
   - "[[Epistemic Virtues and Vices]]"
+  - "[[Open-Mindedness]]"
   - "[[Epoché]]"
   - "[[Homework]]"
   - "[[Epistemic Commitments]]"
@@ -64,7 +66,7 @@ title: "Argument_Chinn_2011_EP"
 argument_key: "Argument_Chinn_2011_EP"
 argument_display_title: "Expanding the Dimensions of Epistemic Cognition: Arguments From Philosophy and Psychology"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -206,7 +208,7 @@ issuing_organization: ""
 >   决定学习质量的是信任的精细理由。不测量对证词的细粒度确证理由，便无法解释学习者截然不同的辨伪策略。
 
 > [!critique-logic] 理论反思 打破质疑权威即高阶的单向度假象
-> 传统发展模型将依赖权威归结为低级认知，将质疑一切等同于认知成熟。然而成熟的认识论认知不等于滑向极端的相对主义或无差别拒斥制度化知识。社会认识论视域下，高阶认知的核心特征并非拒绝信任，而是运用理性确证标准建立合理信任（calibrated trust）。学生乙对教科书的高度信任是其认识论认知成熟的实证体现。
+> 传统发展模型将依赖权威归结为低级认知，将质疑一切等同于认知成熟。然而成熟的认识论认知不等于滑向极端的相对主义或无差别拒斥制度化知识。社会认识论视域下，高阶认知的核心特征并非拒绝信任，而是运用理性确证标准建立合理信任（[[Trust Calibration|Calibrated Trust]]）。学生乙对教科书的高度信任是其认识论认知成熟的实证体现。
 >
 > 这一发现要求严格区分两种[[Critical Thinking\|批判性思维]]：缺乏认识论支撑的表面质疑（无差别的怀疑一切）与由高阶认识论认知驱动的建构性批判。后者掌握如何运用精细的确证标准去确认信息质量并建立合理信任，抵御知识虚无主义陷阱。
 
@@ -224,7 +226,7 @@ issuing_organization: ""
 > - **指向真理的根本意图（truth-conducive intent）**
 >   认识论美德的大前提是探究者必须拥有求真或增进深层理解的内在驱动，而非仅为享受智力快感或赢得辩论。
 > - **核心美德特质（core epistemic virtues）**
->   包括理智勇气、思想开放以及理智谨慎（在证据不充分时[[Epoché\|悬置]]判断）。
+>   包括理智勇气、[[Open-Mindedness|思想开放]]以及理智谨慎（在证据不充分时[[Epoché\|悬置]]判断）。
 > - **核心恶习特质（core epistemic vices）**
 >   包括封闭思想、理智懒惰以及教条主义。
 

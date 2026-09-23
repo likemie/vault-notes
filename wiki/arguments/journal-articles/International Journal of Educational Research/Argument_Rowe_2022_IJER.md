@@ -29,12 +29,10 @@ related_concepts:
   - "[[Co-affiliation]]"
   - "[[Epistemology]]"
   - "[[Policy Mobility]]"
-  - "[[Growth]]"
   - "[[Going Native]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Social Impact Investing]]"
-  - "[[Dialogue in Education]]"
 related_theories:
   - "[[Actor-Network Theory]]"
 related_methods:
@@ -80,7 +78,7 @@ title: "Argument_Rowe_2022_IJER"
 argument_key: "Argument_Rowe_2022_IJER"
 argument_display_title: "The assemblage of inanimate objects in educational research: Mapping venture philanthropy, policy networks and evidence brokers"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -166,7 +164,7 @@ issuing_organization: ""
 
 #### 1. 防野狗围栏隐喻与证据中介的客观中立神话
 
-长达 5600 公里的防野狗围栏横跨澳大利亚三个州管辖区，其长度是英伦三岛的四倍、美墨边界的两倍。作为由铁丝与木桩构成的人造工程结构，它深层改写了整个大陆袋鼠与野狗的迁徙路线、植被[[Growth|生长]]与风沙堆积形态；在维系物理屏障的同时，它在关系与功能空间中调动并[[Assemblage|装配]]着野狗围栏管理委员会（Dog Fence Board）、《1946年野狗围栏法》、巡逻承包商合同、卫星电话、巡逻车辆以及毒饵等庞大的制度与物质网络；AERO 正如同荒原上的围栏，通过无生命客体的固化装配，在公共视野中构筑起客观中立的科学表象，掩蔽了深层的权力关系（pp. 1–2）。
+长达 5600 公里的防野狗围栏横跨澳大利亚三个州管辖区，其长度是英伦三岛的四倍、美墨边界的两倍。作为由铁丝与木桩构成的人造工程结构，它深层改写了整个大陆袋鼠与野狗的迁徙路线、植被生长与风沙堆积形态；在维系物理屏障的同时，它在关系与功能空间中调动并[[Assemblage|装配]]着野狗围栏管理委员会（Dog Fence Board）、《1946年野狗围栏法》、巡逻承包商合同、卫星电话、巡逻车辆以及毒饵等庞大的制度与物质网络；AERO 正如同荒原上的围栏，通过无生命客体的固化装配，在公共视野中构筑起客观中立的科学表象，掩蔽了深层的权力关系（pp. 1–2）。
 
 > [!policy-context] 证据机构的公共表象与合法性修辞
 > - **中立修辞与技术规约** AERO 宣称自身为超越党派纷争的独立证据经纪人，将核心使命界定为生产高质量证据、传播高质量证据、加速证据在课堂与政策中的应用；通过统一的标准化证据量规（evidence rubrics）与因果实验，声称能够将政治彻底移出课堂。（p. 2）
@@ -269,7 +267,7 @@ SVA 作为全澳最大的社会创投机构，管理着 1.5 亿澳元基金，�
 > *…a good ordering strategy is to embody a set of relations in durable materials. Consequently, a relatively stable network is one embodied in and performed by a range of durable materials.* (Law, 1992, p. 387)
 
 > [!citation-card] 金融话语在[[Policy Network\|政策网络]]中的[[Epistemology\|认识论]]统摄
-> [[Educational Brokerage Agency\|证据经纪人]]或买入（buy in）等金融从业术语，在整个网络中被如此频繁地使用，以至于人们对其司空见惯。但这恰恰揭示了将网络紧密维系在一起的关键认识论联结。正如一位著名[[Venture Philanthropy\|风险慈善]]家在主旨演讲中所言：“金钱是我们[[Dialogue in Education\|对话]]的通用货币。”这一论调在此后几乎每一场演讲中都被呼应为共享的观看之道。（pp. 3–4）
+> [[Educational Brokerage Agency\|证据经纪人]]或买入（buy in）等金融从业术语，在整个网络中被如此频繁地使用，以至于人们对其司空见惯。但这恰恰揭示了将网络紧密维系在一起的关键认识论联结。正如一位著名[[Venture Philanthropy\|风险慈善]]家在主旨演讲中所言：“金钱是我们对话的通用货币。”这一论调在此后几乎每一场演讲中都被呼应为共享的观看之道。（pp. 3–4）
 >
 > *These financier terms, such as evidence broker, or ‘buy in’, are scattered throughout the network to the extent they are unremarkable. But they point to important epistemic bindings that hold the network together. This was captured effectively by one prominent venture philanthropist who stated during their keynote, ‘Money is the currency of our conversation’. This was agreed upon and echoed in almost every presentation subsequently as a shared ‘way of seeing’.*
 

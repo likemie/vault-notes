@@ -7,7 +7,7 @@ summary: "系统分析开放文本与传播材料的推论性研究方法，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 48
+method_related_count: 49
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Research Purpose]]"
   - "[[Reliability]]"
+  - "[[Meaningful Human Control]]"
   - "[[Document]]"
   - "[[Research Question]]"
   - "[[Hypothesis]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-16
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Content Analysis
@@ -112,7 +113,7 @@ updated: 2026-09-18
 > - **研究设计** 质性文本研究、[[Mixed Methods Research\|混合方法]]设计（聚敛式或序列设计）及非介入性文档分析。
 > - **数据收集** 文档检索、访谈[[Transcription in Qualitative Research\|转录]]、开放[[Questionnaire\|问卷]]收集、媒体爬取。
 > - **分析方法** [[Open Coding\|开放编码]]、[[Axial Coding\|主轴编码]]、[[Domain Analysis\|领域分析]]、类属包容归并、频数计票、矩阵交叉比对。
-> - **辅助技术** 质性分析软件（如 NVivo、MAXQDA 等 [[Qualitative Computer Software\|CAQDAS]]）、反身性备忘录、大语言模型辅助赋码与人在回路校验。
+> - **辅助技术** 质性分析软件（如 NVivo、MAXQDA 等 [[Qualitative Computer Software\|CAQDAS]]）、反身性备忘录、大语言模型辅助赋码与[[Meaningful Human Control|人在回路]]校验。
 
 ---
 

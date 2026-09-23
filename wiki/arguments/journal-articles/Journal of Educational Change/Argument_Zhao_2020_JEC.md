@@ -1,7 +1,7 @@
 ---
 authors:
   - "[[Yong Zhao|Zhao, Y.]]"
-summary: "系统梳理近二十年对 PISA 的批评，从教育观、实施和解释三个维度揭示 PISA 的根本缺陷，指出批评未能阻止 PISA 影响力扩大的困境"
+summary: 系统梳理近二十年对 PISA 的批评，从教育观、实施和解释三个维度揭示 PISA 的根本缺陷，指出批评未能阻止 PISA 影响力扩大的困境
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -28,7 +28,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Hypothesis]]"
   - "[[Problem Solving]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Creativity]]"
 related_theories: []
 related_methods:
@@ -48,7 +48,7 @@ related_facts:
 related_arguments: []
 sources:
   - "[[sources/Zhao_2020_JEC|Zhao_2020_JEC]]"
-part_of: ''
+part_of: ""
 status: draft
 created: 2026-06-06
 updated: 2026-08-20
@@ -198,7 +198,7 @@ PISA 推广者将威权教育系统中的自我谴责特质美化为教育卓越
 
 ### 第八步：批评的困境与出路
 
-批评对 PISA 的影响力几乎没有影响，其原因包括全球政治背景、人类寻求排名的自然倾向，以及批评的呈现方式可能过于技术性、主要出现在学术圈、并以典型的学术风格呈现，过于关注平衡和[[Humility in Learning|谦虚]]。
+批评对 PISA 的影响力几乎没有影响，其原因包括全球政治背景、人类寻求排名的自然倾向，以及批评的呈现方式可能过于技术性、主要出现在学术圈、并以典型的学术风格呈现，过于关注平衡和[[Humility|谦虚]]。
 
 > [!info] PISA 的扩张
 > PISA 的扩张力量体现在多个方面。

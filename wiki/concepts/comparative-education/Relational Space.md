@@ -7,7 +7,7 @@ aliases:
 summary: "将空间理解为社会网络、制度安排与耐用材料构成的动态拓扑构型而非静态领土容器；在教育政策研究中用于解构全球与国家二元对立，透视政策网络中的策略性外在化以及耐用客体构建的异层支配秩序。"
 type: concept
 domain: "comparative-education"
-related_count: 47
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -42,7 +42,6 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Policy Brokerage]]"
   - "[[Realism in International Relations]]"
-  - "[[Dialogue in Education]]"
   - "[[Champ]]"
   - "[[Variable]]"
   - "[[Document]]"
@@ -223,7 +222,7 @@ updated: 2026-09-22
 > > - **结构霸权论** 指出五大国际组织与资本构成的治理复合体垄断了转移空间内的指标工具，使得所谓本土转译最终仍被锁定在去情境化的[[Governing by Numbers\|数字治理]]轨道之内。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 539, 549)]]
 
 > [!warning] 适用局限
-> 关系性空间[[Paradigm\|范式]]最适用于分析多边互动频繁、信息开放度高且积极参与国际治理[[Dialogue in Education\|对话]]的政策[[Champ\|场域]]；对于制度极度闭锁、严厉限制跨国网络交往的极权或孤立环境，其实证适用性会受到物理行政边界的强力挤压。
+> 关系性空间[[Paradigm\|范式]]最适用于分析多边互动频繁、信息开放度高且积极参与国际治理对话的政策[[Champ\|场域]]；对于制度极度闭锁、严厉限制跨国网络交往的极权或孤立环境，其实证适用性会受到物理行政边界的强力挤压。
 
 ---
 

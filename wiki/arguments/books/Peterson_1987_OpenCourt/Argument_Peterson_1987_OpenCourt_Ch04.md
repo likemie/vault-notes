@@ -10,9 +10,9 @@ title: "Argument_Peterson_1987_OpenCourt_Ch04"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch04"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 45
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 44
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 publication_place: "La Salle, IL"
@@ -56,7 +56,6 @@ related_concepts:
   - "[[Creativity, Action, Service]]"
   - "[[Boarding Schools]]"
   - "[[Theory of Knowledge]]"
-  - "[[Dialogue in Education]]"
   - "[[School Leadership]]"
   - "[[Evaluative Validity]]"
 related_theories: []
@@ -677,7 +676,7 @@ updated: '2026-09-12'
 > 1972 年，IB 首次进入既非国际学校也非专门实验学校的机构。学院属于伦敦教育局公共体系，不收学费，学生年龄约 16–60 岁；IB 学生多为 16–20 岁。采用项目由一组个人与制度条件推动：院长比尔·邦尼·拉斯特曾在牛津进修，国际教育负责人加布里埃尔·格林从教育报刊认识 IB，伦敦教育局局长布里奥（E. H. Briault）又曾参与拓宽英国高中后期课程（sixth form）的失败尝试，愿意批准另一种路径（p. 78）。
 
 > [!case] 学生构成改变了“IB 学生”的含义
-> 项目位于休贡路（Hugon Road）的分散校区，学生包括厌倦传统学校与 GCE A-level 僵化的学术家庭子女、北伦敦综合学校的辍学生、移民与外国学生，以及经营美容院失败后决定补充教育的法国青年。彼得森 1973 年离开牛津后在此兼职教授[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK），以换取一个很小的办公室和兼职秘书；多宗教、多族裔课堂让道德规范与宗教单元成为真实[[Dialogue in Education\|对话]]，而非抽象国际主义（pp. 78–79）。
+> 项目位于休贡路（Hugon Road）的分散校区，学生包括厌倦传统学校与 GCE A-level 僵化的学术家庭子女、北伦敦综合学校的辍学生、移民与外国学生，以及经营美容院失败后决定补充教育的法国青年。彼得森 1973 年离开牛津后在此兼职教授[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK），以换取一个很小的办公室和兼职秘书；多宗教、多族裔课堂让道德规范与宗教单元成为真实对话，而非抽象国际主义（pp. 78–79）。
 
 > [!case] [[Socrates\|苏格拉底]]文本跨越阶层与族裔
 > 迪娜·德雷福斯建议 TOK 阅读《游叙弗伦》，学院使用的企鹅版还收入《申辩》《克里同》和《斐多》节选。彼得森发现，伦敦混合族裔学生对苏格拉底审判与死亡的反应，与 1984 年洛杉矶内城高中少数族裔学生阅读[[Plato\|柏拉图]]的反应相近。这一经验被用来反驳古典文本只适合传统精英学生的预设，但它是教师观察而非系统比较（p. 79）。

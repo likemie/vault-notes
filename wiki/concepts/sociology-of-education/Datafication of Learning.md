@@ -6,7 +6,7 @@ aliases:
 summary: "指在全球量化治理与新自由主义基于结果的规制驱动下，教育系统将关注焦点从教学转移到学习，并将复杂的育人过程与认知成长还原为可追踪、可量化、跨国可比的数字流、能力指标与数据库资产的认识论与社会技术过程。"
 type: concept
 domain: "sociology-of-education"
-related_count: 36
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Commensuration]]"
   - "[[Policy Borrowing]]"
-  - "[[Growth]]"
   - "[[Epistemology]]"
   - "[[Informationalization]]"
   - "[[Learning Analytics]]"
@@ -61,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Datafication of Learning
@@ -74,7 +73,7 @@ updated: 2026-09-18
 > **学习数据化（Datafication of Learning）**是指在全球教育治理量化转向与[[New Public Management\|新公共管理]]结果规制的影响下，教育系统通过将外部绩效问责逻辑内化并将其[[Transfer Translation Transformation\|转译]]为从“教学”（Teaching）向“学习”（Learning）的重心转移，进而把学习者的认知发展、情感态度与[[Academic Achievement\|学业表现]]彻底转化为离散的数字[[Coding in Qualitative Research\|编码]]、跨国基准与标准化测评数据的社会技术过程。这一过程将原本深植于课堂情境、人际互动与文化脉络中的复杂育人活动，剥离、提炼并[[Commensuration\|通约化]]为跨时空可比的指标流，使[[Governing at a Distance\|远处治理]]、算法审计与跨国[[Policy Borrowing\|政策借用]]成为可能。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向认知、反思与[[Growth\|成长]]等活态教育经验被全面技术化还原为机器可读、可计算、可存储的数字表征与资产形态。
+> - **含义** 指向认知、反思与成长等活态教育经验被全面技术化还原为机器可读、可计算、可存储的数字表征与资产形态。
 > - **用途** 帮助研究者透视 [[PISA]]、[[TIMSS]]、[[UN Sustainable Development Goals\|SDG 4]] 学习贫困率以及学习管理系统（LMS）背后的治理[[Epistemology\|认识论]]，揭示数字技术如何从单纯的测量工具转变为规制甚至重构教育现实的施动性力量。
 > - **边界** 区别于一般的教育[[Informationalization\|信息化]]基础设施建设（如宽带、硬件铺设）；它特指关于“何为有效学习”的评价权与定义权向算法化、量化指标的大规模让渡。
 
@@ -186,7 +185,7 @@ updated: 2026-09-18
 > > - **批判教育社会学家** 指出算法模型往往内嵌主导阶级的[[Cultural Capital\|文化资本]]偏见，学习数据化实质上制造了新型的“数字红线”，将贫困边缘群体打上失败标签并实施自动化排斥。
 >
 > > [!axis] 育人本质争鸣：[[Visible Learning\|可见的学习]]成效 vs 教学艺术的窄化与异化
-> > 关注教育的本真是追求可度量的标准化产出，还是无法被预设算法捕捉的生命[[Growth\|成长]]。
+> > 关注教育的本真是追求可度量的标准化产出，还是无法被预设算法捕捉的生命成长。
 > >
 > > - **[[Positivism\|实证主义]]绩效论者** 主张“无法测量的东西就无法管理”，学习数据化提升了公共教育财政的透明度与问责水平。
 > > - **欧陆[[Bildung\|教化]]（Bildung）传统学者** 抨击数据化是将生命还原为数字的“测验还原论”，导致学校彻底沦为应试与指标跑分工厂，瓦解了师生之间深沉的伦理与情感联结。

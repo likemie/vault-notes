@@ -9,7 +9,7 @@ summary: "美国科学史家与科学哲学家，以《科学革命的结构》�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 27
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Constructivist Paradigm]]"
   - "[[Falsification]]"
-  - "[[Dialogue in Education]]"
   - "[[Reflexivity]]"
   - "[[Problem Solving]]"
   - "[[Nature of Science]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Thomas Kuhn
@@ -176,7 +175,7 @@ updated: 2026-09-21
 > > - **[[Karl Popper]] & Imre Lakatos** 批评库恩将科学革命还原为非理性的“暴民心理学（Mob Psychology）”，破坏了客观真理与理性检验的划界基准。
 > > - **Thomas Kuhn（1970）** 在增订版附录中反驳指出，范式选择并非主观任意，而是受到准确性、一致性、宽广性、简单性与多产性五大共同体理性价值的持久引导。
 >
-> > [!axis] [[Incommensurability\|不可通约性]]的绝对绝缘 vs 跨范式[[Dialogue in Education\|对话]]可能性
+> > [!axis] [[Incommensurability\|不可通约性]]的绝对绝缘 vs 跨范式对话可能性
 > > 争论焦点在于不同范式之间是否彻底无法沟通。
 > >
 > > - **激进相对主义阵营** 主张不可[[Commensuration\|通约]]性意味着跨范式评价完全不可能，各范式自给自足。

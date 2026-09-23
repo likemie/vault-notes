@@ -40,6 +40,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Problem-Based Learning]]"
   - "[[Divergent Thinking]]"
+  - "[[Open-Mindedness]]"
   - "[[Problem Finding]]"
   - "[[Threshold Hypothesis]]"
   - "[[Working Memory]]"
@@ -116,7 +117,7 @@ title: "Argument_Runco_2026_CRJ"
 argument_key: "Argument_Runco_2026_CRJ"
 argument_display_title: "Second-order meta-analysis of the creativity research"
 argument_kind: "journal-article"
-argument_related_count: 79
+argument_related_count: 80
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -167,7 +168,7 @@ issuing_organization: ""
 > |---|---|---|
 > | **创造力作为预测变量**<br>（Predictor Variable） | [[Creativity\|创造力]]（潜能、思维或产出）作为[[Independent Variable\|自变量]]或预测变量，用于预测后续[[Academic Achievement\|学业成就]]、职业发展、身心适应或终身创造力。 | [[Cohort Study\|追踪研究]]中使用[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（Torrance Tests of Creative Thinking, TTCT）预测成人期重大创造性成就或平均学分绩点（Grade Point Average, GPA）。 |
 > | **创造力作为结果变量**<br>（Criterion Variable） | [[Creativity\|创造力]]作为[[Dependent Variable\|因变量]]或效标，用于检验[[Creativity Training\|教育教学干预]]、认知能力、人格特征或情境环境对创造力的塑造与提升效果。 | 准[[Experimental Research\|实验研究]]检验[[Problem-Based Learning\|问题驱动教学法]]（Problem-Based Learning, PBL）或[[Creative Problem Solving\|创造性问题解决模型]]（Creative Problem Solving, CPS）项目对学生创造性思维的提升幅度。 |
-> | **[[Divergent Thinking\|发散思维]]**<br>（Divergent Thinking） | 评估个体在开放性任务中沿多方向生成多样、新颖观念的认知能力，通常以流畅性、灵活性和独创性计分。 | [[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（TTCT）、非常规用途测验（Alternative Uses Task, AUT）、连线测验。 |
+> | **[[Divergent Thinking\|发散思维]]**<br>（Divergent Thinking） | 评估个体在[[Open-Mindedness\|开放性]]任务中沿多方向生成多样、新颖观念的认知能力，通常以流畅性、灵活性和独创性计分。 | [[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（TTCT）、非常规用途测验（Alternative Uses Task, AUT）、连线测验。 |
 > | **创造过程**<br>（Creative Process） | 涵盖观念生成之外的复杂多阶段认知操作，包括[[Problem Finding\|问题发现]]、信息重构、顿悟、观念评估与选择等环节。 | [[Problem Finding\|问题发现]]任务（Problem Finding Tasks）、远距离联想测验（Remote Associates Test, RAT）、电子头脑风暴（Electronic Brainstorming, EBS）。 |
 > | **创造性成果**<br>（Creative Outcomes） | 个体产出的显性创造性产品或客观成就，由外部专家主观评定或依据客观社会记录衡量。 | [[Consensual Assessment Technique\|同感评估技术]]（Consensual Assessment Technique, CAT）、[[Creative Achievement Questionnaire\|自陈创造性成就问卷]]（Creative Achievement Questionnaire, CAQ）、专利与出版物。 |
 > | **总体创造力**<br>（Overall Creativity） | 未明确区分过程与成果、或采用综合测评套件获取的宽泛创造力总分指标。 | [[Runco Ideational Behavior Scale\|伦科观念行为量表]]（Runco Ideational Behavior Scale, RIBS）、综合创造潜能评估包、教师综合创造力[[Rating Scale\|评定量表]]。 |

@@ -13,7 +13,7 @@ summary: "在正式数据收集前使用少量受试者测试研究材料和程�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Operationalization]]"
   - "[[Research Purpose]]"
+  - "[[Trust Calibration]]"
   - "[[Evaluation Research]]"
 related_methods:
   - "[[Questionnaire]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-08-29
+updated: 2026-09-22
 ---
 # Pilot Testing
 
@@ -167,7 +168,7 @@ updated: 2026-08-29
 >    收集大规模数据以计算：信度水平（alpha 系数）；题目难度和题目区分度；识别被普遍误解或未完成的题目；检查因时间不足导致受试者未做的题目；检验计分方案。
 
 > [!warning] 预测试是自编测验的强制环节
-> 题目区分度和难度只有在测验完成后才能知道，区分度和难度有限的题目必须剔除并替换，区分度最佳和难度最适当的题目可以保留——但这一切只能在预测试数据分析之后进行。对小样本上计算的区分度和难度指数应保持谨慎，不宜过度信任。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|(Ch24, 24.5 节)]]
+> 题目区分度和难度只有在测验完成后才能知道，区分度和难度有限的题目必须剔除并替换，区分度最佳和难度最适当的题目可以保留——但这一切只能在预测试数据分析之后进行。对小样本上计算的区分度和难度指数应保持谨慎，不宜[[Trust Calibration|过度信任]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|(Ch24, 24.5 节)]]
 
 ---
 

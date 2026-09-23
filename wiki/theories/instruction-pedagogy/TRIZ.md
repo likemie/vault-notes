@@ -10,7 +10,7 @@ aliases:
 summary: "由阿奇舒勒创立的算法化发明问题解决理论体系，主张技术与心智系统的演化遵循客观规律，通过识别并消除系统内在矛盾（技术与物理矛盾）、应用 40 条通用发明原理与理想最终解（IFR）启发式，系统克服思维定势并实现高阶创新。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 22
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[SCAMPER]]"
   - "[[Champ]]"
-  - "[[Growth]]"
   - "[[Scaffolding]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
@@ -100,7 +99,7 @@ updated: 2026-09-22
 > - **推导** 只有准确定位深层系统矛盾，并通过空间分离、时间分离、条件分离或整体与部分分离等机制，在不恶化任何参数的前提下彻底化解矛盾，才能实现发明级别（Invention Level）的创新突破。
 
 > [!proposition-chain] 核心命题二｜系统演化遵循向“理想度（Ideality）”渐进逼近的客观规律
-> - **前提一** 任何技术系统或人造心智方案均沿着 S 曲线发展，经历婴儿期、[[Growth\|成长]]期、成熟期与衰退期。Altshuller (1984)
+> - **前提一** 任何技术系统或人造心智方案均沿着 S 曲线发展，经历婴儿期、成长期、成熟期与衰退期。Altshuller (1984)
 > - **前提二** 系统演化的总方向是提高理想度（$\text{Ideality} = \frac{\sum \text{有用功能}}{\sum \text{有害效应} + \sum \text{引入成本}}$）。
 > - **推导** 创新者在面对问题时不应从当前手段出发顺向推演，而应先定义“理想最终解（IFR）”——即假定系统要素零开销、零副作用却完美实现目标，再以 IFR 为锚点倒推现实约束，从根本上破除“现实资源有限”的心智枷锁。
 

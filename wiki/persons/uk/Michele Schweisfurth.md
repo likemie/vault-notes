@@ -6,7 +6,7 @@ summary: "格拉斯哥大学比较与国际教育学教授，以以学生为中�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 10
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Learner-Centred Education]]"
   - "[[Policy Borrowing]]"
   - "[[Test-Based Accountability]]"
-  - "[[Dialogue in Education]]"
   - "[[Inquiry-Based Learning]]"
 related_theories: []
 related_methods:
@@ -79,7 +78,7 @@ updated: 2026-09-22
 ## 核心思想
 
 > [!claim] 核心主张
-> Schweisfurth 主张将 [[Learner-Centred Education\|LCE]] 视为一种在不同文化语境中具有多重形态的实践流变，而非单一固化的西方模板。她提出了包含尊重学生表达、[[Dialogue in Education\|对话]]互动与批判思考在内的最低实施标准；同时指出高利害[[Test-Based Accountability\|考试问责]]体制普遍构成 LCE 移植的最大障碍，呼吁实施语境敏感（context-sensitive）的教学改革。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 588, 601)]]
+> Schweisfurth 主张将 [[Learner-Centred Education\|LCE]] 视为一种在不同文化语境中具有多重形态的实践流变，而非单一固化的西方模板。她提出了包含尊重学生表达、对话互动与批判思考在内的最低实施标准；同时指出高利害[[Test-Based Accountability\|考试问责]]体制普遍构成 LCE 移植的最大障碍，呼吁实施语境敏感（context-sensitive）的教学改革。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 588, 601)]]
 
 ---
 
@@ -90,7 +89,7 @@ updated: 2026-09-22
 > - **跨国／跨领域传播** — 其观点广泛应用于中低收入国家与东亚高压应试地区的教学法移植研究[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 588, 601)]]。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — [[Dialogue in Education\|对话]] Schweisfurth 的最低标准与 TBA 阻论，揭示中国学校如何在应试压力下重构共享目标以落地 LCE。
+> - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 对话 Schweisfurth 的最低标准与 TBA 阻论，揭示中国学校如何在应试压力下重构共享目标以落地 LCE。
 
 ---
 

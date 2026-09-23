@@ -7,7 +7,7 @@ aliases:
 summary: "约翰·杜威进步主义教育的核心教学主张，认为最深刻的知识是“如何做的知识”，学生通过参与真实、动手与解决问题的活动建构经验与批判性思维。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Reflective Thinking]]"
   - "[[Familiarization]]"
   - "[[Hypothesis]]"
-  - "[[Dialogue in Education]]"
   - "[[Growth]]"
   - "[[Critical Thinking]]"
   - "[[Active Learning]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Learning by Doing
@@ -70,9 +69,9 @@ updated: 2026-09-17
 > [!theory-components] “在做中学”的内在机制
 > - **真实问题的驱动（Problem-Driven Activity）**
 >   学习起点必须是具体的动手任务，要求学生自己发现难题并提出[[Hypothesis\|假设]] [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 35)]]。
-> - **同伴合作与[[Dialogue in Education\|对话]]（Collaborative Interchange）**
+> - **同伴合作与对话（Collaborative Interchange）**
 >   在动手操作过程中，学习者必须分工合作、沟通发现、讨论设计并解决冲突 (p. 35)。
-> - **经验的重组与[[Growth\|生长]]（Restructuring of Experience & Growth）**
+> - **经验的重组与生长（Restructuring of Experience & [[Growth]]）**
 >   “做”的结果反馈到认知中，促使学习者重新审视与修改已有经验，实现心智的持续增长 (p. 44)。
 
 ---
@@ -80,7 +79,7 @@ updated: 2026-09-17
 > [!case] 案例：构建投石机（Building a Catapult）项目
 > 杜威与 Darwish (2009, p. 35) 对比了两种教学模式：
 > - **传统讲授模式** 教师在讲台上口头宣讲投石机的物理原理与制作步骤，学生被动听讲与记忆公式——这种教学制造了“听讲的被动与吸收”，无法引发深度思考。
-> - **在做中学模式** 教师给小组学生布置一项真实任务：**制作一台可投射的投石机（build a functional catapult）**。接收到任务后，学生需要自主分工研究资料、讨论结构设计、试验材料强度并调试角度。在这一“做”的过程中，解决困难的迫切需求自然激发了[[Critical Thinking\|批判性思维]]、协同[[Dialogue in Education\|对话]]与探究。
+> - **在做中学模式** 教师给小组学生布置一项真实任务：**制作一台可投射的投石机（build a functional catapult）**。接收到任务后，学生需要自主分工研究资料、讨论结构设计、试验材料强度并调试角度。在这一“做”的过程中，解决困难的迫切需求自然激发了[[Critical Thinking\|批判性思维]]、协同对话与探究。
 
 ---
 

@@ -97,7 +97,7 @@ updated: 2026-09-17
 > 探讨对抗性质询如何驱动[[Higher-Order Thinking Skills\|高阶思维]]。
 
 > [!claim] Abrami, P. C., et al.
-> **[[Meta-analysis\|元分析]]实证支持** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 的元分析显示，课堂辩论（Debate）作为独立[[Dialogue in Education\|对话]]策略干预产生显著的正向效应（$k = 8, g+ = 0.32, 95\%\text{ CI} = [0.03, 0.61]$）。严格的对抗规则迫使学生不断评估主张[[Reliability\|可靠性]]并搜集对立信息，有效克服了思维懒惰与片面论证。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286, 294)]]
+> **[[Meta-analysis\|元分析]]实证支持** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 的元分析显示，课堂辩论（Debate）作为独立对话策略干预产生显著的正向效应（$k = 8, g+ = 0.32, 95\%\text{ CI} = [0.03, 0.61]$）。严格的对抗规则迫使学生不断评估主张[[Reliability\|可靠性]]并搜集对立信息，有效克服了思维懒惰与片面论证。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286, 294)]]
 
 ### 命题二　去角色化的辩后反思是实现认知综合的关键保障
 
@@ -131,4 +131,4 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项实证研究，定量评估课堂辩论作为[[Dialogue in Education\|对话]]子策略（$k=8, g+=0.32$）对[[Critical Thinking\|批判性思维]]的显著干预效果。
+> - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项实证研究，定量评估课堂辩论作为对话子策略（$k=8, g+=0.32$）对[[Critical Thinking\|批判性思维]]的显著干预效果。

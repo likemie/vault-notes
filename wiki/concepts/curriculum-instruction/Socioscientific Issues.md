@@ -2,7 +2,7 @@
 summary: "社会科学议题（Socioscientific Issues, SSI）是指深植于前沿科学技术、具有内在争议性、结构不良（ill-structured）且与道德、伦理、经济和政治考量密不可分的现实社会公共问题。作为当代科学教育的重要教学取向，SSI 旨在引导学生超越纯粹概念记忆，综合运用非形式推理（Informal Reasoning）、多元视角权衡与反驳论证，培育面向复杂民主社会事务的批判性科学素养与审议能动性。"
 type: concept
 domain: "curriculum-instruction"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Growth]]"
   - "[[Scientific Uncertainty]]"
-  - "[[Dialogue in Education]]"
   - "[[Nature of Science]]"
   - "[[Critical Thinking]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -100,7 +99,7 @@ updated: 2026-09-22
 > - **反驳论据建构** 
 >   在为自身立场辩护的同时，预先识别对方观点的合理性并构建有针对性的反驳抗辩。
 > - **[[Epistemology\|认识论]]能动性与公民审议** 
->   引导学生建立作为公共知者的身份认同，依托证据与理性说服而非盲从权威参与公共[[Dialogue in Education\|对话]]。
+>   引导学生建立作为公共知者的身份认同，依托证据与理性说服而非盲从权威参与公共对话。
 
 ---
 
@@ -124,7 +123,7 @@ updated: 2026-09-22
 ### 命题二　社会科学议题重构了科学素养的内涵并确立了民主审议的价值导向
 
 > [!concept-lens] 课程哲学与公共民主维度
-> 探讨 SSI 如何将[[Scientific Literacy\|科学素养]]从纯粹的学科概念掌握拓展为支撑民主社会理性[[Dialogue in Education\|对话]]的[[21st Century Skills and Competencies Discourse\|核心素养]]。
+> 探讨 SSI 如何将[[Scientific Literacy\|科学素养]]从纯粹的学科概念掌握拓展为支撑民主社会理性对话的[[21st Century Skills and Competencies Discourse\|核心素养]]。
 
 > [!claim] Kelly, G. J., & Licona, P. (2018)
 > **[[Epistemic Practices\|认识论实践]]的社会化扩展** 凯利与利科纳指出，SSI 将课堂认识论实践从“证实或[[Falsification\|证伪]]假说”拓展至“在公共领域协调多元冲突立场”，培养了学生“说服优于强制、开放思想优于教条”的理性民主素养。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 154–157, 161)]]

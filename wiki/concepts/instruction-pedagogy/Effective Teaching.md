@@ -5,7 +5,7 @@ aliases:
 summary: "综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 52
+related_count: 50
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -14,7 +14,6 @@ tags:
 - subject/instruction
 - level/k12
 related_concepts:
-  - "[[Growth]]"
   - "[[Success Criteria]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
@@ -47,7 +46,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Determinism]]"
-  - "[[Dialogue in Education]]"
   - "[[School Leadership]]"
 related_theories: []
 related_methods:
@@ -84,7 +82,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 有效教学（Effective Teaching / God Undervisning）是一个旨在揭示高品质课堂教学通用规律的综合性概念，指教师通过明确领导、清晰目标、即时反馈、学习导向气氛以及与学生先验知识和认知前提的高度适配，从而最大化促进学生学科理解与学业[[Growth\|成长]]的教学过程。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, pp. 35–36)]]
+> 有效教学（Effective Teaching / God Undervisning）是一个旨在揭示高品质课堂教学通用规律的综合性概念，指教师通过明确领导、清晰目标、即时反馈、学习导向气氛以及与学生先验知识和认知前提的高度适配，从而最大化促进学生学科理解与学业成长的教学过程。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, pp. 35–36)]]
 >
 > 有效教学的核心重心不在于单一教学法标签的优劣排名，而在于教学行为背后的质量条件：教学方法是否适配学科内容与目标、学生是否明晰学习路径与[[Success Criteria\|成功标准]]，以及课堂是否兼具心理安全感与学术高挑战。在当代[[Evidence-Based Education\|循证教育]]改革视野中，有效教学正经历从“抽象通用原则”向“经过因果检验的具体课程方案与实施支架”的实践[[Paradigm\|范式]]跃迁。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, pp. 35–40)]]; [[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–23)]]
 
@@ -217,7 +215,7 @@ updated: 2026-09-22
 > > [!axis] 国家文化[[Determinism\|决定论]] vs 社会阶层背景调节论
 > > 探讨教学模式在跨国移植时究竟受国家宏观文化制约，还是受班级微观社会阶层结构调节。
 > >
-> > - **国家文化[[Hypothesis\|假设]]（Hofstede 视角）** 认为低权力距离与高个人主义文化（如北欧）天然更适配开放[[Dialogue in Education\|对话]]式教学。
+> > - **国家文化[[Hypothesis\|假设]]（Hofstede 视角）** 认为低权力距离与高个人主义文化（如北欧）天然更适配开放对话式教学。
 > > - **阶层实证否定（SFI / Laursen）** 实证表明文化画像仅代表中产阶级偏好；在任何国家，弱势阶层学生均最需要高度结构化与明确目标的有效教学。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, p. 40)]]
 
 > [!warning] 适用局限

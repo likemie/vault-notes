@@ -11,7 +11,7 @@ aliases:
 summary: "由苏格拉底与柏拉图提出的哲学交锋与交叉反诘方法，通过连续提问揭示既有信念中的内在矛盾，为真理探求与辩证法清理土壤。"
 type: concept
 domain: "educational-philosophy"
-related_count: 27
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,12 +21,10 @@ tags:
   - theme/active-learning
   - theme/critical-thinking
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
   - "[[Examined Life]]"
   - "[[Critical Thinking]]"
   - "[[Inquiry-Based Learning]]"
-  - "[[Growth]]"
   - "[[Banking Model of Education]]"
   - "[[Socratic Dialogue]]"
   - "[[Problem Solving]]"
@@ -39,6 +37,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Theory of Knowledge]]"
   - "[[Conscientization]]"
+  - "[[Dialogue in Education]]"
   - "[[Socratic Tutoring Style]]"
 related_theories: []
 related_methods:
@@ -67,12 +66,12 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> [[Socrates\|苏格拉底]]驳诘法（Socratic Elenchus / Exetasis）是古希腊哲学的核心探究与教学方法。在[[Plato\|柏拉图]][[Dialogue in Education\|对话]]录中，驳诘法通过连续提问、交叉检验与立场反诘，揭示对话者既有信念与[[Hypothesis\|假设]]中的内在矛盾 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 2–3)]]。它本身并不直接增加实质性知识，而是作为一种智识清理机制，清除无知与自以为是的偏见，导向真正的辩证法（Dialectic）与[[Examined Life\|省察的生活]] [[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 31–32)]]。
+> [[Socrates\|苏格拉底]]驳诘法（Socratic Elenchus / Exetasis）是古希腊哲学的核心探究与教学方法。在[[Plato\|柏拉图]]对话录中，驳诘法通过连续提问、交叉检验与立场反诘，揭示对话者既有信念与[[Hypothesis\|假设]]中的内在矛盾 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 2–3)]]。它本身并不直接增加实质性知识，而是作为一种智识清理机制，清除无知与自以为是的偏见，导向真正的辩证法（Dialectic）与[[Examined Life\|省察的生活]] [[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 31–32)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调真理是在连续质疑与观念冲突中被推导与修正在场，而非被权威单向赋予或简单存入。
 > - **用途** 作为西方[[Critical Thinking\|批判性思维]]与[[Inquiry-Based Learning\|探究式教学]]的智识源头，用于破除教条主义与未经检验的常识。
-> - **边界** 若脱离了对所有学习者[[Growth\|生长]]/成长的民主承诺，驳诘法容易被工具化为少数哲学精英统治的独占特权（如柏拉图将深度辩证法限定于护卫者阶层），或沦为缺乏伦理责任的纯粹辩术 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 4–5)]]。
+> - **边界** 若脱离了对所有学习者生长/成长的民主承诺，驳诘法容易被工具化为少数哲学精英统治的独占特权（如柏拉图将深度辩证法限定于护卫者阶层），或沦为缺乏伦理责任的纯粹辩术 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 4–5)]]。
 
 > [!citation-card]- 关键表述：驳诘法与真理土壤
 > 驳诘法并不实际增加知识，而只是为知识准备土壤。苏格拉底式驳诘法导向他的辩证法——即真理需要通过质疑以及与对立观念的冲突来修改自身立场而被追求。（Robinson, 1953, p. 12; Hooker, 1999; 引自 Darwish, 2009, pp. 2–3）
@@ -87,7 +86,7 @@ updated: 2026-09-22
 > - **清理土壤而非直接赠予（Clearing the Soil）**
 >   拒绝[[Banking Model of Education\|储蓄式教育]]自上而下的知识存入，通过反诘暴露出“自以为知道”背后的无知，为真正的探究准备土壤 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 2)]]。
 > - **立场的否定与辩证修正（Refutation & Dialectic）**
->   利用严密的逻辑推理引出[[Dialogue in Education\|对话]]者前提与结论之间的内在矛盾，促使对话者主动修改原立场，向更高的真理与“形式本身”（Form itself）靠拢 [[Argument_Li_2012_Cambridge\|(Li, 2012, p. 32)]]。
+>   利用严密的逻辑推理引出对话者前提与结论之间的内在矛盾，促使对话者主动修改原立场，向更高的真理与“形式本身”（Form itself）靠拢 [[Argument_Li_2012_Cambridge\|(Li, 2012, p. 32)]]。
 > - **[[Socratic Dialogue\|助产术]]与回忆说（Maieutics & Anamnesis）**
 >   将教师定位为精神上的“助产士”，相信理性与知识早已潜藏于人的灵魂深处，教学的使命是通过针对性提问引导学习者自身“产出”真理 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 3)]]。
 
@@ -120,7 +119,7 @@ updated: 2026-09-22
 > - **现代进步主义时期（[[John Dewey\|杜威]]与[[Inquiry-Based Learning\|探究式教学]]）**
 >   [[John Dewey\|杜威]]将驳诘法改造为基于“做”（doing）与[[Problem Solving\|问题解决]]（problem-posing）的[[Active Learning\|主动学习]]环节，强调摆脱被动听讲 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 8–9)]]。
 > - **当代[[Critical Pedagogy\|批判教育学]]时期（全员民主与解放实践）**
->   [[Paulo Freire\|弗莱雷]]与 Darwish (2009) 进一步去除了驳诘法的精英色彩，要求赋予每一个学习者[[Freedom of the Learner\|学习者的自由]]，通过[[Problem-Posing Education\|提问式教育]]与[[Dialogue in Education\|对话]]走向意识觉醒与实践。
+>   [[Paulo Freire\|弗莱雷]]与 Darwish (2009) 进一步去除了驳诘法的精英色彩，要求赋予每一个学习者[[Freedom of the Learner\|学习者的自由]]，通过[[Problem-Posing Education\|提问式教育]]与对话走向意识觉醒与实践。
 
 ---
 

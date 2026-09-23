@@ -35,6 +35,7 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Doxa]]"
   - "[[AI Hallucination]]"
+  - "[[Trust Calibration]]"
   - "[[Metacognition]]"
   - "[[Effective Teaching]]"
   - "[[Document]]"
@@ -42,7 +43,6 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Self-Regulated Learning]]"
   - "[[Positivism]]"
-  - "[[Dialogue in Education]]"
   - "[[Variable]]"
   - "[[AI Literacy]]"
   - "[[Epistemic Scaffolding]]"
@@ -122,7 +122,7 @@ updated: 2026-09-22
 > |---|---|---|---|
 > | **核心分析主体** | 社会科学研究者、教育行政学者 | 人类个体、信息接收者与沟通者 | 人机协同中的探究者、学生 |
 > | **警觉针对的核心客体** | 日常惯用词、常识概念（[[Doxa]]）、制度化神圣标签 | 欺骗性言论、不可靠信息源、虚假陈述 | 模型[[AI Hallucination\|幻觉]]（Hallucination）、算法偏见、表面语义流畅性 |
-> | **内在认知与社会机制** | 参与性对象化、对对象建构过程的持续批判 | 认知信任校准、信念修正与反省性推理 | [[Metacognition\|元认知]]监控、认识论摩擦维持、提示词迭代核查 |
+> | **内在认知与社会机制** | 参与性对象化、对对象建构过程的持续批判 | 认知[[Trust Calibration\|信任校准]]、信念修正与反省性推理 | [[Metacognition\|元认知]]监控、认识论摩擦维持、提示词迭代核查 |
 > | **防御失败的典型后果** | 沦为既有权力结构与管理主义的合法化工具 | 陷入认知盲从与错误信念传播 | 触发有害的[[Cognitive Offloading\|认知卸载]]、批判思维退化与心智外包 |
 > | **代表性理论与学者** | Bourdieu et al. (1968/1991); [[Argument_Eacott_2015_EPT\|Eacott (2015)]] | Sperber et al. (2010); Medina (2013) | Ng et al. (2021); [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] |
 
@@ -173,7 +173,7 @@ updated: 2026-09-22
 ### 命题二　认识论警觉是学习者化解算法表面流畅性迷思并抵御认知卸载的核心防线
 
 > [!concept-lens] 人机协同学习与高阶心智维持维度
-> 该命题阐明在[[Generative Artificial Intelligence\|生成式人工智能]]深度融入学习活动的背景下，认识论警觉是防止学生从“人机[[Dialogue in Education\|对话]]伙伴”滑向“被动心智外包”的关键调节[[Variable\|变量]]。
+> 该命题阐明在[[Generative Artificial Intelligence\|生成式人工智能]]深度融入学习活动的背景下，认识论警觉是防止学生从“人机对话伙伴”滑向“被动心智外包”的关键调节[[Variable\|变量]]。
 
 > [!claim] Li, C.
 > **显性 AI 素养对认识论警觉的激活与反思放大机制** 大语言模型生成的文本具有极高的表层语义流畅性与语法规范性，若缺乏显性引导，学习者倾向于全盘接受输出，导致严重的[[Cognitive Offloading\|认知卸载]]、事实盲从与论证退化。通过在课程中嵌入显性[[AI Literacy\|人工智能素养]]模块（重点讲授概率生成机制、偏见识别与幻觉侦测）以及反思规程，能够有效激活学习者的认识论警觉，使其将 AI 视为需要审问的对话伙伴而非直接答案提供者，进而驱动[[Critical Thinking\|批判性思维]]的显著增长。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 10–11)]]
@@ -230,7 +230,7 @@ updated: 2026-09-22
 
 > [!critique] 外部批评与实践困境
 > - **陷入理论主义（Theoreticism）与行动瘫痪风险** 过于严苛的认识论警觉可能导致研究者或学习者对任何既有概念或 AI 工具都产生怀疑性瘫痪，迟迟无法进入实际的经验分析与[[Creativity\|创造性]]输出。
-> - **与公共知识传播的内在张力** 极度警惕日常语言会导致学术文本高度抽象、术语晦涩，难以与一线教育实践者及大众进行有效[[Dialogue in Education\|对话]]。Bourdieu 后期转向公共知识分子写作（如《论电视》）即展现出警觉要求与“被公众听到”之间的深刻矛盾。[[Argument_Eacott_2015_EPT\|(Eacott, 2015, p. 320)]]
+> - **与公共知识传播的内在张力** 极度警惕日常语言会导致学术文本高度抽象、术语晦涩，难以与一线教育实践者及大众进行有效对话。Bourdieu 后期转向公共知识分子写作（如《论电视》）即展现出警觉要求与“被公众听到”之间的深刻矛盾。[[Argument_Eacott_2015_EPT\|(Eacott, 2015, p. 320)]]
 
 > [!warning] 适用局限
 > - **非独立万灵药** 认识论警觉仅代表主体的批判性心智倾向与态度，若缺乏具体的领域学科知识（Domain Knowledge）与严谨的实证研究技术，单纯的警觉无法自动生成科学结论。

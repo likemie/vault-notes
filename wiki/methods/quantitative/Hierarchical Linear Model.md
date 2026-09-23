@@ -124,7 +124,7 @@ updated: 2026-09-18
 > | **典型应用场景** | 机制解析、探索学校异质性、CRT 主模型 | 简单政策评估、不需要分解方差时的稳健分析 | 大样本公共卫生追踪、边际干预均值比较 |
 
 > [!method-stack] 方法层级
-> - **研究设计** [[Cluster Randomized Trials\|集群随机对照试验]]（[[Cluster Randomized Trials\|Cluster RCT]]）、跨国大规模测评（[[PISA]]/[[TIMSS]]）、多阶段[[Stratified Sampling\|分层抽样]]调查、纵向重复测量[[Growth\|生长]]曲线（Growth Curve）。
+> - **研究设计** [[Cluster Randomized Trials\|集群随机对照试验]]（[[Cluster Randomized Trials\|Cluster RCT]]）、跨国大规模测评（[[PISA]]/[[TIMSS]]）、多阶段[[Stratified Sampling\|分层抽样]]调查、纵向重复测量生长曲线（[[Growth]] Curve）。
 > - **数据收集** 学生统考数据库（NPD）、[[School Inspection\|学校督导]]数据库、教师[[Questionnaire\|问卷]]与学生问卷配对数据。
 > - **分析方法** 零模型（Null Model / 随机截距方差分解）、随机截距模型（Random Intercept Model）、随机斜率模型（Random Slope Model）、完全条件模型（含跨层级交互）。
 > - **辅助技术** 限制性极大似然估计（REML）、组均值中心化（Group-Mean Centering）、总均值中心化（Grand-Mean Centering）、设计效应（Design Effect）校正。

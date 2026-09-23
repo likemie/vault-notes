@@ -6,7 +6,7 @@ aliases:
 summary: "用于分析高等教育社会空间如何由物质结构、空间想象和社会实践共同制造的框架。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,7 +18,6 @@ related_concepts:
   - "[[Relational Space]]"
   - "[[Ontology]]"
   - "[[Reflexivity]]"
-  - "[[Dialogue in Education]]"
   - "[[Document]]"
   - "[[Space Production]]"
   - "[[Geopolitics of Knowledge]]"
@@ -38,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 
 # Space-Making in Higher Education
@@ -69,7 +68,7 @@ updated: 2026-09-10
 
 > [!abstract]
 > - **（a）物质元素（结构）** — 包括经济资源、机构和机构系统、传播网络、法律、法规、政策和使用语言等预先给定的结构([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 4]])
-- **（b）想象与解释** — 个体、群体和组织行动者对空间的构想和诠释。Marginson 指出，想象力与社会经验相互塑造，如 Archer（1995, 2003）所理论化的社会自我与内在自我的[[Reflexivity|反思性]][[Dialogue in Education|对话]]。例如，2002/2003 年中国大学规划者和伦敦杂志同时"想象"出一个可通过校准排名来排序的全球大学世界——两种来自不同地点的想象最终共同塑造了全球排名体系([[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 4]])
+- **（b）想象与解释** — 个体、群体和组织行动者对空间的构想和诠释。Marginson 指出，想象力与社会经验相互塑造，如 Archer（1995, 2003）所理论化的社会自我与内在自我的[[Reflexivity|反思性]]对话。例如，2002/2003 年中国大学规划者和伦敦杂志同时"想象"出一个可通过校准排名来排序的全球大学世界——两种来自不同地点的想象最终共同塑造了全球排名体系([[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 4]])
 - **（c）社会实践** — 行动者运用领域（b）中的想法和解释，重新加工领域（a）中的物质元素，构建新的活动、项目和组织。这些嵌入性的物质实践随后成为领域（a）中持续运作的结构，形成循环——例如，新加坡邀请外国大学设立分校的实践改变了该国的物质性教育结构，又进一步塑造了后续的政策想象([[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 4]])
 - **空间制造案例** — 大学签署协议、建立联盟、创建跨境联合学位；新加坡将自身定位为"[[Singapore Education Hub Policy|全球校园]]"并邀请外国大学设立分校；中国大学规划者和伦敦杂志在 2002/2003 年设想以校准排名来排序的大学世界；各国政府建设"世界一流大学"层级；欧盟和东盟建立区域认证协议；西方大学在东亚和东南亚设立分校；MOOC 的创建；研究者的跨国合作；数百万学生的跨境流动——所有这些都在制造高等教育的社会空间([[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 4–5]])
 >
@@ -82,7 +81,7 @@ updated: 2026-09-10
 > [!tip]-
 > - [[Doreen Massey]] — Massey 的开放[[Ontology\|本体论]]和[[Relational Space\|关系性空间]]理论是本框架的直接基础，尤其是其"空间作为互动展开"和"总是有松散的末端"两个核心命题([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 3]])
 > - Lefebvre（1991） — [[Space Production\|空间生产]]理论，强调空间既是社会产物又反过来塑造社会关系。Marginson 借用了 Lefebvre 的三元空间辩证法，但以 Massey 的关系性空间修正了 Lefebvre 的某些封闭倾向
-> - Archer（1995, 2003） — [[Reflexivity\|反思性]][[Dialogue in Education\|对话]]理论，为理解空间制造中"想象"维度的内在机制提供了微观基础([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 4]])
+> - Archer（1995, 2003） — [[Reflexivity\|反思性]]对话理论，为理解空间制造中"想象"维度的内在机制提供了微观基础([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 4]])
 
 ---
 

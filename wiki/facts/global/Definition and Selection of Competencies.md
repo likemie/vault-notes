@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 28
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Document]]"
   - "[[Innovation Hub]]"
-  - "[[Dialogue in Education]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Paradigm]]"
   - "[[Output-Oriented Governance]]"
@@ -62,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Definition and Selection of Competencies
@@ -114,7 +113,7 @@ updated: 2026-09-18
 
 > [!actor-grid] 实施协同矩阵
 > - **发起方与管理中枢（[[OECD]] / [[Centre for Educational Research and Innovation\|CERI]]）** 经合组织教育与技能司与教育研究与[[Innovation Hub\|创新中心]]（CERI）负责总体政治授权与战略方向把控。
-> - **研发与执行秘书处（瑞士联邦统计局 SFSO）** Dominique Simone Rychen 团队主持日常科研协调、[[Document\|文献]]综合、跨学科[[Dialogue in Education\|对话]]组织与报告起草。
+> - **研发与执行秘书处（瑞士联邦统计局 SFSO）** Dominique Simone Rychen 团队主持日常科研协调、[[Document\|文献]]综合、跨学科对话组织与报告起草。
 > - **跨学科专家顾问团队** 包括德国马克斯·普朗克人类发展研究所心理学家 Franz Weinert、瑞士日内瓦大学社会学家 Perrenoud 等，负责夯实理论逻辑。
 > - **成员国政策转化枢纽** 各国教育部指派的高级顾问与国家委员会，负责将跨国理论框架[[Transfer Translation Transformation\|转译]]为符合本土政治诉求的课程指导纲要。
 

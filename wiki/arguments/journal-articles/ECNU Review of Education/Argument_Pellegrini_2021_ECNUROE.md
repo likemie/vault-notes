@@ -10,7 +10,7 @@ title: "Argument_Pellegrini_2021_ECNUROE"
 argument_key: "Argument_Pellegrini_2021_ECNUROE"
 argument_display_title: "Evidence-based policies in education: Initiatives and challenges in Europe"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Reusability Paradox]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Dialogue in Education]]"
   - "[[External Validity]]"
   - "[[Class Size]]"
 related_theories: []
@@ -140,7 +139,7 @@ citation_aliases:
 ### 第五步：关键能力改革放大了证据本位政策的难度
 
 12. 欧洲课程从 2000 年代初逐步转向能力本位模式。[[EU Key Competences for Lifelong Learning]] 把能力定义为知识、技能和态度的动态组合，并列出八项[[21st Century Skills and Competencies Discourse|关键能力]](p.39)。
-13. 基础读写知识和技能已有较成熟的评估和项目证据，但“积极的读写态度”“批判性和建设性[[Dialogue in Education|对话]]倾向”“语言的社会责任使用”等多维能力更难设计干预和评估效果(pp.40-41)。
+13. 基础读写知识和技能已有较成熟的评估和项目证据，但“积极的读写态度”“批判性和建设性对话倾向”“语言的社会责任使用”等多维能力更难设计干预和评估效果(pp.40-41)。
 14. 因此，[[Evidence-Based Reform|证据本位改革]] 若要进入欧洲能力本位课程，就必须同时解决课程目标重写、目标指标化、有效评价工具、教师培训和多语言资源共享问题(p.41)。
 
 ## 主要发现

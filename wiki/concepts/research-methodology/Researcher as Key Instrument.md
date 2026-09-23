@@ -7,7 +7,7 @@ aliases:
 summary: "质性研究的核心公理之一：研究者自身是数据收集和解释的首要工具，其适应性、反应性和默会知识使其优于标准化工具，但这也要求高度反身性来管理研究者效应。"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Interpretive Paradigm]]"
   - "[[Epistemic Stances]]"
+  - "[[Open-Mindedness]]"
   - "[[Reflexivity]]"
   - "[[Source of Knowledge]]"
   - "[[Knowledge-that and Know-how-to]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Researcher as Key Instrument
@@ -63,7 +64,7 @@ updated: 2026-09-22
 > | 关联项 | 类型 | 关系 |
 > |:-------|:-----|:-----|
 > | [[Interpretive Paradigm\|诠释范式]] | 范式基础 | "人作为工具"是诠释范式从"理解参与者主观意义"这一[[Epistemic Stances\|认识论立场]]出发的必然推论——只有人才能理解人。 |
-> | 研究者生成而非检验[[Hypothesis\|假设]] | 范式公理 | 研究者在进入现场时不预设假设，在现场中生成——这要求研究工具（即研究者本人）具有开放性和适应性。 |
+> | 研究者生成而非检验[[Hypothesis\|假设]] | 范式公理 | 研究者在进入现场时不预设假设，在现场中生成——这要求研究工具（即研究者本人）具有[[Open-Mindedness\|开放性]]和适应性。 |
 > | 默会知识的运用 | 范式公理 | Lincoln & Guba（1985, p. 187）强调默会知识（tacit knowledge）的运用不可避免——质性方法比量化方法更适合人作为工具的概念。 |
 > | [[Reflexivity\|反身性]] | 核心相关概念 | 研究者作为工具意味着研究者的个人特质直接影响数据质量，因此反身性（反思自身背景如何塑造解释）成为必要补充——两者互为因果。Cooley（1902）的"镜中自我"（looking glass self）概念被用于描述研究者应将自己"置于审视之下"。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 409)]] |
 > | 进入现场的四种角色 | 操作含义 | Flick（1998, p. 60）区分研究者四角色：陌生人、访客、内部人（insider）、入门者（initiate）。角色在参与-观察光谱上滑动，Swain（2006）指出研究者在实践中可能需要在完全被动到完全积极的整个连续体上切换。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, pp. 426–427)]] |

@@ -27,8 +27,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Pre-negotiated IP Rights]]"
   - "[[Innovation Hub]]"
-  - "[[Dialogue in Education]]"
-  - "[[Growth]]"
   - "[[Conatus]]"
   - "[[Literature Search]]"
   - "[[External Validity]]"
@@ -60,9 +58,9 @@ title: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_key: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_display_title: "International research collaborations between universities and industry"
 argument_kind: "book"
-argument_related_count: 30
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 28
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 journal: ""
@@ -199,9 +197,9 @@ citation_aliases:
 ---
 
 > [!success] 案例一：水稻干湿交替灌溉（AWD）
-> **起点**。Mars 植物科学负责人在分析加州氮评估的卫星数据时，注意到北加州稻田上空的氮氧化物云。这一观察触发了 Mars、UC Davis 和加州水稻委员会的[[Dialogue in Education\|对话]](pp.319–320)。
+> **起点**。Mars 植物科学负责人在分析加州氮评估的卫星数据时，注意到北加州稻田上空的氮氧化物云。这一观察触发了 Mars、UC Davis 和加州水稻委员会的对话(pp.319–320)。
 >
-> **过程**。Mars and UC Davis（后加入阿肯色大学）合作研究国际水稻研究所（IRRI）开发的 AWD 技术：在安全[[Growth\|生长]]期内允许稻田水自然消退至土表，而非持续淹灌。2011–2016 年间进行了系统研究和发表(Nalley et al., 2015)。早期结果说服了 USDA 自然资源保护局于 2018 年向阿肯色州 White River 灌区拨款，在约 10% 的水稻面积上推广类似水管理方案(p.320)。
+> **过程**。Mars and UC Davis（后加入阿肯色大学）合作研究国际水稻研究所（IRRI）开发的 AWD 技术：在安全生长期内允许稻田水自然消退至土表，而非持续淹灌。2011–2016 年间进行了系统研究和发表(Nalley et al., 2015)。早期结果说服了 USDA 自然资源保护局于 2018 年向阿肯色州 White River 灌区拨款，在约 10% 的水稻面积上推广类似水管理方案(p.320)。
 >
 > **跨国扩展**。UC Davis 将原位排放测量方法转移给 Mars 的欧洲稻米研究伙伴，Mars 随后将 AWD 推广至其亚洲供应链中的种植户。
 >

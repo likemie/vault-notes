@@ -9,7 +9,7 @@ aliases:
 summary: "加芬克尔常人方法学的核心概念，指言语陈述与社会行动的意义深嵌于产生它们的情境脉络与互动历史中，依赖参与者共享的默会理解而无法脱离语境独立存在。"
 type: concept
 domain: "sociology-of-education"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Decodification]]"
   - "[[Homework]]"
-  - "[[Growth]]"
   - "[[Reflexivity]]"
   - "[[Ontology]]"
   - "[[Typification]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Indexicality
@@ -76,7 +75,7 @@ updated: 2026-09-17
 > *Central to ethnomethodology is the concern with how people make sense of their everyday world... Everyday life displays an astonishing indexicality: the meanings of words and acts are tied to the social contexts in which they are produced, shared by participants without needing to be explicitly stated. (Garfinkel, 1967)*
 
 > [!citation-card] Walker 与 Adelman 论课堂草莓暗号的情境索引性
-> 在沃克与阿德尔曼记录的经典中学课堂片段中，男生威尔逊以一句“草莓，草莓！”回应教师严肃的纪律警告，瞬间引爆全班哄堂大笑。[[Flanders Interaction Analysis Categories\|弗兰德斯互动分析]]（FIAC）将其[[Coding in Qualitative Research\|编码]]为孤立的代码串 '7-4-9-10'，但这一代码串根本无法解释为什么这句打断会被视作幽默。事实上，教师此前多次调侃学生的[[Homework\|作业]]“像草莓——好的地方很好但能吃的部分太少”；这一历史隐喻在师[[Growth\|生长]]期互动中沉淀为高度索引性的情境密语。学生在此刻以该密语作为机敏回应，表面破坏纪律，实则激活了共享默契、化解了对抗尴尬；唯有深入其索引性语境，互动的真实意义方能显现。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 20–21)]]
+> 在沃克与阿德尔曼记录的经典中学课堂片段中，男生威尔逊以一句“草莓，草莓！”回应教师严肃的纪律警告，瞬间引爆全班哄堂大笑。[[Flanders Interaction Analysis Categories\|弗兰德斯互动分析]]（FIAC）将其[[Coding in Qualitative Research\|编码]]为孤立的代码串 '7-4-9-10'，但这一代码串根本无法解释为什么这句打断会被视作幽默。事实上，教师此前多次调侃学生的[[Homework\|作业]]“像草莓——好的地方很好但能吃的部分太少”；这一历史隐喻在师生长期互动中沉淀为高度索引性的情境密语。学生在此刻以该密语作为机敏回应，表面破坏纪律，实则激活了共享默契、化解了对抗尴尬；唯有深入其索引性语境，互动的真实意义方能显现。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 20–21)]]
 >
 > *Only by understanding the relationship that had developed over time – the indexical context of this particular social encounter – could one begin to understand the interaction.*
 

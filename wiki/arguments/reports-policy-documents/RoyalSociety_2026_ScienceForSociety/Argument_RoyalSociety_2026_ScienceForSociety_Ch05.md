@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_display_title: "Chapter five: Policy"
 argument_kind: "book-chapter"
-argument_related_count: 34
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -34,11 +34,9 @@ part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 related_concepts:
   - "[[Sage]]"
   - "[[Reliability]]"
-  - "[[Dialogue in Education]]"
   - "[[Soft Power]]"
   - "[[Paradigm]]"
   - "[[Professional Judgment]]"
-  - "[[Growth]]"
   - "[[Epistemology]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Scientific Literacy]]"
@@ -144,7 +142,7 @@ updated: 2026-09-17
 
 > [!case] 案例研究二：动荡时代的跨国科学外交（Science Diplomacy in an Era of Disruption，p. 80, note 155）
 > 科学与决策的互动在全球化地缘政治博弈中具备独特的战略通道价值：
-> - **皇家学会与 [[American Association for the Advancement of Science\|AAAS]] 联合战略** 英国皇家学会与美国科学促进会（American Association for the Advancement of Science, AAAS）于 2025 年联合发布专项报告《动荡时代的科学外交》（*Science diplomacy in an era of disruption*），深度剖析在国际局势动荡与多边主义受挫情境下，科学合作如何维系国家间[[Dialogue in Education\|对话]]。
+> - **皇家学会与 [[American Association for the Advancement of Science\|AAAS]] 联合战略** 英国皇家学会与美国科学促进会（American Association for the Advancement of Science, AAAS）于 2025 年联合发布专项报告《动荡时代的科学外交》（*Science diplomacy in an era of disruption*），深度剖析在国际局势动荡与多边主义受挫情境下，科学合作如何维系国家间对话。
 > - **超越政治僵局的科学理性** 无论在南极科考、气候跨国履约还是前沿人工智能安全标准制定中，跨国科学界所共享的求真原则与证据规范，成为各国政府打破外交冰冻期、构建全球风险治理的重要[[Soft Power\|软实力]]支柱。（p. 80）
 
 #### 主题二：罗斯柴尔德报告（[[Rothschild Report 1971]]）与科研采购“市场化”范式确立（p. 80）
@@ -203,7 +201,7 @@ updated: 2026-09-17
 
 ### 论证步骤二：立法机构决策者的信源失真困境与公共科研机构的持续生存危机（pp. 82–83）
 
-尽管英国整合科学与政策的体系享有国际声誉，但该体系在数十年间以半自发（ad hoc）方式[[Growth|生长]]，面对日益复杂的现代治理呈现出深层结构性脆弱。（p. 82）
+尽管英国整合科学与政策的体系享有国际声誉，但该体系在数十年间以半自发（ad hoc）方式生长，面对日益复杂的现代治理呈现出深层结构性脆弱。（p. 82）
 
 > [!claim] 步骤二核心主张
 > 立法决策者对权威、独立与经过同行评议的科学信源使用严重不足，高达 55% 的国会议员主要依赖带有潜在政治或商业偏见的智库与倡导团体，对议会专属科技机构（POST，仅 22%）及国家学术院报告（仅 12%）利用率极低；与此同时，半个世纪以来的市场化外包导致公共部门科研机构（PSREs）基础设施与专业人才队伍遭到慢性侵蚀，使国家在关键战略领域的长期自主科研支撑能力面临严重萎缩风险。（pp. 82–83）
@@ -421,7 +419,7 @@ updated: 2026-09-17
 > 1. **科学顾问机制面临立法信源偏误与公共机构投资萎缩双重压力** 议员日常履职过度依赖立场偏见的智库（55%）而极少使用法定权威信源（POST 仅 22%），同时公共部门科研机构（PSREs）基础能力遭长期削减侵蚀。（pp. 80–83）
 > 2. **科学顾问独立性面临潜在政治化压力与程序规则滥用** 处于体制内参谋与独立挑刺者双重张力下的 CSAs 面临依附性管理的现实风险，大选前静默期规则被过度泛化用于不当封堵客观科学发声。（p. 84）
 > 3. **后常规治理要求破除政策黑箱与口号化“遵循科学”** 面对高赌注与高不确定性决策，政客以科学为挡箭牌掩盖利益权衡的行为严重反噬科学公信力；必须依据《[[The Green Book\|绿皮书]]》坦诚披露[[Scientific Uncertainty\|科学不确定性]]并说明为何未采纳特定证据。（pp. 85–86）
-> 4. **公众高度认同专家建言但对决策参与赤字表达强烈不满** 75% 公众支持专家建言政府、62% 诉求顺应民意，但仅 12% 感觉充分参与科技决策，76% 批评政府未作公众咨询努力；报告提出由法定证据陈述、学术院独立审计与前瞻[[Dialogue in Education\|对话]]构成的行动闭环。（pp. 85–88）
+> 4. **公众高度认同专家建言但对决策参与赤字表达强烈不满** 75% 公众支持专家建言政府、62% 诉求顺应民意，但仅 12% 感觉充分参与科技决策，76% 批评政府未作公众咨询努力；报告提出由法定证据陈述、学术院独立审计与前瞻对话构成的行动闭环。（pp. 85–88）
 
 > [!stat-cards]- 核心数据
 > - **55% vs 22%** 英国国会议员履职中主要依赖智库与倡导团体（55%），而使用[[Parliamentary Office of Science and Technology\|议会科学技术办公室]]（POST）的比例仅为 22%（YouGov, 2025, p. 83）。

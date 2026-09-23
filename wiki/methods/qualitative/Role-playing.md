@@ -12,7 +12,7 @@ summary: "一种让参与者在具身虚构情境中公开扮演他人角色的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 30
+method_related_count: 29
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Simulation-Based Learning]]"
   - "[[Hypothesis]]"
   - "[[AI Agent in Education]]"
-  - "[[Dialogue in Education]]"
   - "[[Heterogeneity]]"
   - "[[Document]]"
   - "[[Authentic Assessment]]"
@@ -110,7 +109,7 @@ updated: 2026-09-22
 >    - 阐明核心困境（Dilemma）、争议约束条件与探究目标；
 >    - 为人类参与者提供背景卡，或为大模型编写系统提示词（System Prompt），明确其认知立场、专业边界与反问规则（如“你必须以挑剔审稿人身份指出我方案中的 3 个漏洞，绝不直接给出标准答案”）。
 > 2. **浸入交互与多方论辩（Enactment & Epistemic Interaction）**
->    - 参与者基于角色展开多方协商或人机[[Dialogue in Education\|对话]]，通过“教师入戏”（Teacher in Role）或模型自适应提问维持适度认知张力。
+>    - 参与者基于角色展开多方协商或人机对话，通过“教师入戏”（Teacher in Role）或模型自适应提问维持适度认知张力。
 > 3. **脱离角色与[[Self-spectator\|自观]]复盘（De-roling & Epistemic Debriefing）**
 >    - 正式宣布退出角色，消除情感残留；
 >    - 激活[[Self-spectator\|自观]]机制，结合录像回放或人机交互对话记录展开多维复盘，分析决策盲区与逻辑破绽。

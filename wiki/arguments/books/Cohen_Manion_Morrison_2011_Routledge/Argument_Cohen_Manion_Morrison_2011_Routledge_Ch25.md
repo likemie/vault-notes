@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25"
 argument_display_title: "Research Methods in Education · Ch25"
 argument_kind: "book-chapter"
-argument_related_count: 31
+argument_related_count: 30
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -43,7 +43,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Hypothesis]]"
-  - "[[Dialogue in Education]]"
   - "[[Problem Solving]]"
   - "[[Self-Efficacy]]"
   - "[[Nature of Science]]"
@@ -267,7 +266,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > 4. **完成上级构念** 请参与者给出新构念的对比极点
 > 5. **迭代向上** 再次确定新构念的偏好极点，追问为什么，产生下一个更高层次构念
 
-> [!example]- 表25.1　一次阶梯法[[Dialogue in Education\|对话]]（据原著表格[[Transcription in Qualitative Research\|转录]]）
+> [!example]- 表25.1　一次阶梯法对话（据原著表格[[Transcription in Qualitative Research\|转录]]）
 >
 > | 对话（访谈者 / 受访者） | 方法说明 |
 > |:--|:--|

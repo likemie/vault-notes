@@ -7,7 +7,7 @@ summary: "通过概念区分、逻辑推理和哲学论证分析教育政策与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 18
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -33,18 +33,20 @@ related_concepts:
 related_theories:
   - "[[Transactional Epistemology]]"
   - "[[Phenomenology]]"
+  - "[[Formative Epistemic Injustice]]"
 related_methods: []
 related_persons: []
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Slavin_2019_EP]]"
   - "[[Argument_Schaffar_2024_CogentEdu]]"
+  - "[[Argument_Smith_2026_SPE]]"
 related_facts:
   - "[[Every Student Succeeds Act]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 ## 定义
@@ -98,7 +100,8 @@ updated: 2026-09-17
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_Biesta_2010_SPE]] — 此方法的示范性应用
-> - [[Argument_Schaffar_2024_CogentEdu]] — 通过概念史、[[Phenomenology\|现象学]]、[[Bildung]]/[[Didaktik]] 传统和政策话语批判，澄清芬兰 [[Phenomenon-Based Learning\|PhBL]] 的哲学根源
+> - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 此方法的示范性应用
+> - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]] — 通过概念史、[[Phenomenology\|现象学]]、[[Bildung]]/[[Didaktik]] 传统和政策话语批判，澄清芬兰 [[Phenomenon-Based Learning\|PhBL]] 的哲学根源
+> - [[Argument_Smith_2026_SPE|Smith (2026)]] — 运用教育哲学概念分析（对比“字词计算器”与“雇佣私厨”隐喻），整合社会[[Epistemology|认识论]]与写作学实证证据，建构“[[Formative Epistemic Injustice|成长性认识不正义]]”的三重检验判据并推导防御性教学规程
 > - Biesta (2007a) — "民主缺陷"的哲学论证
 

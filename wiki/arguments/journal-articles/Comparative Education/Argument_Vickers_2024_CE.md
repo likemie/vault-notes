@@ -9,7 +9,7 @@ title: "Argument_Vickers_2024_CE"
 argument_key: "Argument_Vickers_2024_CE"
 argument_display_title: "The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Decolonial Paradox]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Zhonghua Minzu]]"
-  - "[[Growth]]"
   - "[[Champ]]"
   - "[[Soft Power]]"
   - "[[Multiplicity]]"
@@ -173,7 +172,7 @@ citation_aliases:
 > 
 > ### **维度一 历史叙事与国族身份认同（Historical Framing and Identity）**
 > * **变迁轨迹** 从通识教育科时代的移民社会与代际多元认同叙事，转向公民与社会发展科时代的自古以来即为中国领土的本质论历史叙事，取消多重身份选项，灌输单一的[[Zhonghua Minzu\|中华民族]]归属感（pp.148–149）。
-> * **通识教育科的多元协商** 原教科书侧重于当代民生议题，缺乏系统性的宏大历史叙事，仅在探讨身份认同的背景因素时，提及1940年代至1960年代由于内地社会动荡导致大批难民（refugees）移居香港。文本客观分析了代际认同的差异，即第一代难民仅将香港视作临时的避难所（shelter），并对内地抱有深厚认同，而其子代则在本地[[Growth\|成长]]过程中逐渐发展出独特的香港人（Hongkonger）身份认同。在解释回归后国族认同下降的原因时，原教材引入了社会经济摩擦视角，例如分析自由行游客涌入对本地日常生活的冲击如何削弱了香港居民的中国公民所属感（p.148）。
+> * **通识教育科的多元协商** 原教科书侧重于当代民生议题，缺乏系统性的宏大历史叙事，仅在探讨身份认同的背景因素时，提及1940年代至1960年代由于内地社会动荡导致大批难民（refugees）移居香港。文本客观分析了代际认同的差异，即第一代难民仅将香港视作临时的避难所（shelter），并对内地抱有深厚认同，而其子代则在本地成长过程中逐渐发展出独特的香港人（Hongkonger）身份认同。在解释回归后国族认同下降的原因时，原教材引入了社会经济摩擦视角，例如分析自由行游客涌入对本地日常生活的冲击如何削弱了香港居民的中国公民所属感（p.148）。
 > * **公民与社会发展科的去殖民本质主义改写** 新教科书彻底抹去了关于当代民生不满意度及代际认同演进的讨论，将所有关于身份的讨论置于单一的、本质论的历史铁幕之下。教材开篇以长达22页的篇幅介绍香港问题的由来，通过详细剖析《南京条约》、《北京条约》及《展拓香港界址专条》三条条约，论证英国的非法割占本质以及不平等条约在国际法上的无效性。由此得出的核心教学结论是：“香港自古以来就是中国领土”，因此“香港从未属于殖民地”，英国在香港实施的仅是典型的殖民统治（typical colonial rule）。这一修辞将1997年定义为回归祖国怀抱，以法理学与历史学的逻辑闭环，强行阻断了任何多元身份认同的讨论空间，旨在直接培养对国家和中华民族的单一归属感（p.149）。
 > 
 > ---

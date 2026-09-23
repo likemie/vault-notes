@@ -39,7 +39,6 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Scientism]]"
   - "[[Reflexivity]]"
-  - "[[Dialogue in Education]]"
   - "[[Document]]"
   - "[[Indexicality]]"
   - "[[Analytical Stance]]"
@@ -47,6 +46,7 @@ related_theories:
   - "[[Complexity Theory]]"
   - "[[Critical Theory]]"
   - "[[Post-structuralism]]"
+  - "[[Knowledge Building Theory]]"
   - "[[Critical Realism]]"
 related_methods:
   - "[[Narrative Research]]"
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Postmodernism
@@ -118,7 +118,7 @@ updated: 2026-09-17
 ## 核心要素
 
 > [!feature] 詹姆逊（Jameson, 1991）后现代主义 11 项特征的四维解构
-> - **[[Grand Theory\|宏大叙事]]解构与[[Knowledge Production\|知识建构]]性**
+> - **[[Grand Theory\|宏大叙事]]解构与[[Knowledge Building Theory|知识建构]]性**
 >   - **摒弃宏大叙事（absence of 'grand narratives'）** 拒斥一切包罗万象的元叙事与普适性法则。
 >   - **历史感消解与当下自指（autoreferentiality of the present）** 聚焦当下正在发生的意义协商，警惕历史终极[[Determinism\|因果决定论]]。
 >   - **知识的人类社会建构性（knowledge as a human, social [[Construct]]）** 否定超越人类实践的客观中立知识，承认认知的历史局限性。
@@ -165,7 +165,7 @@ updated: 2026-09-17
 ### 命题三　知识与权力共生机制要求解构研究者特权并赋权多元声音
 
 > [!claim] Foucault & Cohen et al.
-> **研究者权威的去中心化与[[Reflexivity\|反思性]]定位** 研究者对现象的解释不再享有神圣的“客观仲裁权”，其分析本身就是特定知识-权力网络的生产物。研究者必须放下全知全能的权威姿态，将自身置于与受访者平等[[Dialogue in Education\|对话]]的网络中，主动对自身预设与特权进行方法论反思。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 28)]]
+> **研究者权威的去中心化与[[Reflexivity\|反思性]]定位** 研究者对现象的解释不再享有神圣的“客观仲裁权”，其分析本身就是特定知识-权力网络的生产物。研究者必须放下全知全能的权威姿态，将自身置于与受访者平等对话的网络中，主动对自身预设与特权进行方法论反思。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 28)]]
 
 ---
 

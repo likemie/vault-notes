@@ -9,9 +9,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 16
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 15
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: 国际发展政策研究与智库网络（International Public Policy Research Network）
 headquarters: 新德里（New Delhi，初始发起于华盛顿特区）
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Knowledge Bank]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Mediation]]"
-  - "[[Dialogue in Education]]"
   - "[[Positivism]]"
   - "[[Research Utilization]]"
   - "[[Policy Brokerage]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Global Development Network
@@ -88,7 +87,7 @@ updated: 2026-09-17
 > [!pathways]- 业务运行机制
 > - **全球发展奖项与竞赛（Global Development Awards）** 每年面向发展中国家早期职业学者设立竞争性科研资助，评选优秀政策研究草案并提供方法论导师指导。
 > - **多国比较跨领域研究项目（Global Research Projects）** 围绕教育、不平等与气候适应，组织跨大洲学者采用统一方法论开展横向对比实证研究。
-> - **政策研究能力诊断与培育** 协助借贷国本土大学建立规范的社会科学实证研究标准，搭建学术界与本国教育部、财政部之间的[[Dialogue in Education\|对话]]桥梁。
+> - **政策研究能力诊断与培育** 协助借贷国本土大学建立规范的社会科学实证研究标准，搭建学术界与本国教育部、财政部之间的对话桥梁。
 
 ---
 
@@ -108,7 +107,7 @@ updated: 2026-09-17
 
 > [!indicators]- 影响力维度与指标
 > - **资源与资助规模** 累计支持 130 多个转型与发展中国家，资助超过 4,000 名跨学科政策青年研究者与本土智库。
-> - **学术知识网络** 联合拉美经济学会（LACEA）、非洲经济研究联盟（AERC）等区域智库网络，建立南南[[Dialogue in Education\|对话]]桥梁。
+> - **学术知识网络** 联合拉美经济学会（LACEA）、非洲经济研究联盟（AERC）等区域智库网络，建立南南对话桥梁。
 > - **政策制度渗透受挫** 原初设想的国别本土研究直接影响内阁决策机制未能落地，反被[[World Bank\|世行]]总部集中研发的 [[Systems Approach for Better Education Results\|SABER]] 等指标全面边缘化。
 
 > [!finding-cards] 关键成效与制度反思

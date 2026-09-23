@@ -10,7 +10,7 @@ summary: "奥地利裔英国科学哲学家与社会哲学家，提出可证伪�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 27
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Critical Dualism]]"
   - "[[Postpositivism]]"
   - "[[Epistemology]]"
-  - "[[Dialogue in Education]]"
   - "[[Determinism]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Problem Solving]]"
@@ -61,7 +60,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Karl Popper
@@ -75,8 +74,8 @@ updated: 2026-09-17
 > - **核心角色** 逻辑[[Positivism\|实证主义]]经验证实原则与归纳主义的颠覆者，批判[[Rationalism in International Relations\|理性主义]]（Critical Rationalism）奠基人；以[[Falsification\|可证伪性]]确立科学划界标准，提出[[Critical Dualism\|批判二元论]]与情境分析逻辑，重塑了[[Postpositivism\|后实证主义]]与教育政策分析的[[Epistemology\|认识论]]基石。
 > - **代表贡献** 提出[[Falsification\|证伪主义]]（Falsificationism）与严格检验判准；出版《开放社会及其敌人》（1945）奠定批判二元论与零星社会工程；建立猜想与反驳的知识增长模型，直接催生了[[Brian Holmes\|布赖恩·霍姆斯]]的比较教育[[Problem Approach\|问题法]]。
 
-> [!citation-card] 科恩等论推测性知识与科学推理的理性[[Dialogue in Education\|对话]]
-> 科学推理因此在所有层面都是两个思想片段之间的互动——在可能与实际之间的[[Dialogue in Education\|对话]]，在推测与批评之间，在什么可能是真的与什么实际上是事实之间。安全而一劳永逸的基础知识必须让位于充满风险但不断接受证伪检验的尝试性推测。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1; Medawar, 1972, p. 22)]]
+> [!citation-card] 科恩等论推测性知识与科学推理的理性对话
+> 科学推理因此在所有层面都是两个思想片段之间的互动——在可能与实际之间的对话，在推测与批评之间，在什么可能是真的与什么实际上是事实之间。安全而一劳永逸的基础知识必须让位于充满风险但不断接受证伪检验的尝试性推测。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1; Medawar, 1972, p. 22)]]
 >
 > *Scientific reasoning is an exploratory dialogue that can be resolved into two thought-processes: an imaginative and a critical, a dialogue between the possible and the actual... between what might be true and what is in fact the case.*
 

@@ -6,7 +6,7 @@ aliases:
 summary: "把全球资本主义组织为中心、半边缘和边缘三层结构的历史社会理论，用于分析国家与地区在世界体系中的不平等位置和依附关系"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 6
+theory_related_count: 7
 theory_related_level: 0
 theory_related_stars: ""
 theory_related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Methodological Globalism]]"
   - "[[Methodological Nationalism]]"
   - "[[Multiplicity]]"
+  - "[[Open-Mindedness]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories: []
 related_methods: []
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: '2026-05-18'
+updated: 2026-09-23
 ---
 
 # World-Systems Theory
@@ -79,7 +80,7 @@ updated: '2026-05-18'
 > - **过去三十年全球政治经济不支持该理论** — 边缘并未永久停滞于欠发达状态。零和剩余的[[Hypothesis\|假设]]是虚构的——许多国家在绝对和相对意义上同时进步。中国和新加坡的大学与科学已上升至世界领先地位，而 Wallerstein 在其系列论文中坚持将中国置于边缘或半边缘([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 12–13]])
 > - **忽视国家尺度的相对自主性** — 国家尺度与全球尺度互动但不完全由其决定（Marginson & Xu, 2023）。中国、韩国、印度、伊朗、巴西等国的科学产出增长与政治经济的相关性各不相同，说明高等教育和科学具有相对自主的演化能力([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 13]])
 > - **无法容纳变革** — 该理论的刚性空间性无法解释非经济领域的自主演进。但其核心洞察——全球政治经济存在不平等的权力结构——不应被完全抛弃
-> - **与 Massey [[Multiplicity\|多重性]] 的对比** — Massey 认为总是有松散的末端，任何权力系统都不是永久固定的；Wallerstein 则认为中心-边缘结构在资本主义框架内不可改变。二者对空间开放性的预设根本不同([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 6–7, 12–13]])
+> - **与 Massey [[Multiplicity\|多重性]] 的对比** — Massey 认为总是有松散的末端，任何权力系统都不是永久固定的；Wallerstein 则认为中心-边缘结构在资本主义框架内不可改变。二者对空间[[Open-Mindedness|开放性]]的预设根本不同([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 6–7, 12–13]])
 ... Applied fuzzy match at line 38-80.
 ---
 

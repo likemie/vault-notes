@@ -37,7 +37,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Student Learning Research]]"
   - "[[Classroom Management]]"
-  - "[[Dialogue in Education]]"
   - "[[Constructive Alignment]]"
   - "[[Teaching and Learning Activities]]"
   - "[[Epistemology]]"
@@ -54,6 +53,7 @@ related_concepts:
   - "[[Outcomes-based Education]]"
   - "[[Whole Language]]"
   - "[[Theoretical Standpoint]]"
+  - "[[Dialogue in Education]]"
   - "[[Bildung]]"
 related_theories:
   - "[[Radical Constructivism]]"
@@ -159,7 +159,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > - **目标清楚且进入评估** 学生需要知道应形成何种理解，评估也要要求他们展示这种理解。
 > - **感到有必要改变原有理解** 动机可以由良好的任务设计唤起，无须被视为学生固定不变的个人属性。
 > - **学习环境具有心理安全感** 学生可以把注意力投入任务，而不必把主要精力用于防御失败或猜测考试技巧。
-> - **[[Dialogue in Education\|对话]]支持理解深化** 同伴与教师之间的协作、说明、质疑和反馈能够帮助学生修正并扩展概念。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 60–61)]]
+> - **对话支持理解深化** 同伴与教师之间的协作、说明、质疑和反馈能够帮助学生修正并扩展概念。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 60–61)]]
 
 > [!example]- 图 2：[[Constructive Alignment\|建构性对齐]]中的目标、教学活动与评估任务
 > ![](https://img.mylikemie.icu/sources/Biggs_1999_HERD/figures/Biggs_1999_HERD_Fig2_Constructive_Alignment.jpg)
@@ -198,7 +198,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > 理念的传播也是意义建构过程。接受者会借助熟悉的文化资源解释外来概念，并根据课程、考试和组织权力重新界定其用途。
 
 > [!claim] [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]
-> **文化亲和与制度筛选共同塑造借用结果**　进入中国学校的以学生为中心教育具有建构主义和[[Progressive Education\|进步主义教育]]背景。案例教师借助[[Confucius\|孔子]]的启发式[[Dialogue in Education\|对话]]传统和Vygotsky的社会文化理论理解外来理念，使其获得文化上的熟悉感。经过[[Transfer Translation Transformation\|转译]]后，课堂提问和互动被用于培养高阶思考、提高内容吸收效率，并服务于[[Gaokao\|高考]]环境下的教学目标。统一大纲和[[Test-Based Accountability\|考试问责]]仍限制学生参与课程内容与评价规则的决策。[[Selective Affinity\|选择性亲和]]解释了教学方法为何能够被采用，制度边界则解释了它为何只发生有限改变。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 591, 596, 601–602)]]
+> **文化亲和与制度筛选共同塑造借用结果**　进入中国学校的以学生为中心教育具有建构主义和[[Progressive Education\|进步主义教育]]背景。案例教师借助[[Confucius\|孔子]]的启发式对话传统和Vygotsky的社会文化理论理解外来理念，使其获得文化上的熟悉感。经过[[Transfer Translation Transformation\|转译]]后，课堂提问和互动被用于培养高阶思考、提高内容吸收效率，并服务于[[Gaokao\|高考]]环境下的教学目标。统一大纲和[[Test-Based Accountability\|考试问责]]仍限制学生参与课程内容与评价规则的决策。[[Selective Affinity\|选择性亲和]]解释了教学方法为何能够被采用，制度边界则解释了它为何只发生有限改变。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 591, 596, 601–602)]]
 
 ---
 
@@ -243,7 +243,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > - **[[Radical Constructivism\|激进建构主义]]一端**　认识被理解为主体对经验的组织，人无法用知识复制一个完全独立于认识活动的世界。Rømer 指出，若这一立场进一步削弱教师、文化传统和外部内容的权威，教学可能失去判断学生应进入何种知识世界的依据。[[Argument_Rømer_2018_EPT\|(Rømer, 2018, pp. 6–8)]]
 > - **[[Social Realism\|社会实在论]]一端**　知识虽有社会历史来源，仍形成相对独立的概念结构，并对认识者产生真实约束。McPhail et al. 担心，课程若只强调学习者经验和通用技能，弱势学生反而更难接触系统的[[Powerful Knowledge\|有力知识]]。[[Argument_McPhail_2023_JCS\|(McPhail et al., 2023, pp. 3–5)]]
 
-课程设计可以成为两种关切的交汇点：教师明确选择值得学习的内容、提供学科标准并组织有方向的活动，学生则通过实际活动形成理解。Biggs 的[[Constructive Alignment|建构性对齐]]与社会实在论对知识结构的强调可以在这一问题上形成[[Dialogue in Education|对话]]。
+课程设计可以成为两种关切的交汇点：教师明确选择值得学习的内容、提供学科标准并组织有方向的活动，学生则通过实际活动形成理解。Biggs 的[[Constructive Alignment|建构性对齐]]与社会实在论对知识结构的强调可以在这一问题上形成对话。
 
 > [!critique] 外部批评
 > - **教师与内容可能被削弱** [[Argument_Rømer_2018_EPT\|Rømer (2018)]] 批评 Hattie 一方面接受激进建构主义对外部知识和教师权威的削弱，另一方面又把教师中心的直接指导加入同一框架，因而没有解决教师应代表何种内容和规范的问题。[[Argument_Rømer_2018_EPT\|(Rømer, 2018, pp. 6–8)]]
@@ -271,7 +271,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > [!evidence-grid] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 1)]]　界定建构主义世界观，并说明它如何引导开放提问、情境理解、归纳分析与研究者解释。
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]]　把建构主义学习观转化为三级教学观、概念改变条件和[[Constructive Alignment\|建构性对齐]]。
-> - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]　揭示[[Constructivist Instruction\|建构主义教学]]理念与中国启发式[[Dialogue in Education\|对话]]传统的[[Selective Affinity\|选择性亲和]]，以及考试制度设置的改变边界。
+> - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]　揭示[[Constructivist Instruction\|建构主义教学]]理念与中国启发式对话传统的[[Selective Affinity\|选择性亲和]]，以及考试制度设置的改变边界。
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]　展示建构主义诠释学和[[Constructivist Grounded Theory\|建构主义扎根理论]]如何处理研究者、参与者与资料之间的共同解释。
 > - [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]]　从[[Social Realism\|社会实在论]]出发，批评课程改革对系统学科知识的边缘化。
 > - [[Argument_Zapp_2022_Springer\|Zapp (2022)]]　用国际关系建构主义解释观念、规范和知识在全球教育治理中的制度权力。

@@ -10,7 +10,7 @@ aliases:
 summary: "个体在面临未决难题时，暂时停止有意识的直接思考并转向休息或无关活动，随后在无意识或偶发线索触发下产生灵感豁朗与创造性突破的认知心理现象。作为创造力四阶段模型的核心环节，它通过消退思维定势、促进无意识联想扩散与恢复认知资源，解释了创造力训练周期的倒 U 型演进规律。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Prefrontal Cortex]]"
   - "[[Interaction Effect]]"
-  - "[[Growth]]"
   - "[[Variable]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Incubation
@@ -155,7 +154,7 @@ updated: 2026-09-17
 ### 命题三　创造力干预周期呈现倒 U 型规律受孕育与心理倦怠的深层调控
 
 > [!concept-lens] 宏观训练周期中的孕育生态
-> [[Creativity\|创造力]]技能的习得并非线性时间累加过程，长期无休止的机械训练反而扼杀了创意的自发[[Growth\|生长]]。
+> [[Creativity\|创造力]]技能的习得并非线性时间累加过程，长期无休止的机械训练反而扼杀了创意的自发生长。
 
 > [!claim] Guo et al.; Oppezzo & Schwartz
 > **干预周期倒 U 型演进命题** 高校创造力[[Three-Level Meta-Analysis\|多层元分析]]表明，[[Creativity Training\|创造力干预]]的周期呈现高度显著的倒 U 型曲线：$< 2$ 个月（或 $< 20$ 学时）的短中期训练效果最为突出（$g = 0.844$），显著高于 $< 4$ 个月（$g = 0.589$）与 $> 1$ 年的超长干预（$g = 0.366$），单周期维度即可解释 13.4% 的组间真实方差。该发现从宏观层面印证了孕育理论：短中期集训传授启发式策略后，学习者需要进入现实生活开展实践与无意识孕育；若强行施加长达数学期的重复性刻板演练，必然诱发心理抗拒、认知[[Habituation\|习惯化]]固着与心智耗竭，彻底破坏了灵感孵化所必需的自由心理空间。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 6–7, 10)]]

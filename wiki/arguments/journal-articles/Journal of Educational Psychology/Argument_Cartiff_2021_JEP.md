@@ -51,14 +51,12 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Metacognition]]"
   - "[[Scientific Method]]"
-  - "[[Knowledge Production]]"
   - "[[Direct Instruction]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Measurement Alignment]]"
   - "[[Developer-Made Measures]]"
   - "[[Dependent Variable]]"
   - "[[Sleeper Effect]]"
-  - "[[Growth]]"
   - "[[Learner Autonomy]]"
   - "[[Reliability]]"
   - "[[Ways of Knowing]]"
@@ -66,6 +64,7 @@ related_concepts:
 related_theories:
   - "[[Reflective Judgment Model]]"
   - "[[AIR Model of Epistemic Cognition]]"
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Intervention Research]]"
   - "[[Meta-analysis]]"
@@ -105,7 +104,7 @@ title: "Argument_Cartiff_2021_JEP"
 argument_key: "Argument_Cartiff_2021_JEP"
 argument_display_title: "The effect of epistemic cognition interventions on academic achievement: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 67
+argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -285,7 +284,7 @@ journal: "Journal of Educational Psychology"
 > **图表解读** 教学框架呈现鲜明的梯次差异：指导式探究与[[Source Evaluation\|信源评估]]产生了大幅提升；而基于问题的学习与论证教学平均效果较弱，且置信区间跨越了零点。
 
 > [!case] 各框架代表研究解构
-> - **指导式探究** Schiefer et al. (2017) 的小学科学课中，教师系统演示如何通过控制[[Variable\|变量]]法设计对比实验，提供专门表格引导学生记录观测证据并对比与原初猜想的差异，帮助小学生在掌握[[Scientific Method\|科学方法]]的同时大幅提高概念测验成绩；Lin et al. (2014) 在[[Knowledge Production\|知识建构]]环境中为五年级学生提供[[Epistemology\|认识论]]提示，引导学生围绕问题主动形成解释理论。
+> - **指导式探究** Schiefer et al. (2017) 的小学科学课中，教师系统演示如何通过控制[[Variable\|变量]]法设计对比实验，提供专门表格引导学生记录观测证据并对比与原初猜想的差异，帮助小学生在掌握[[Scientific Method\|科学方法]]的同时大幅提高概念测验成绩；Lin et al. (2014) 在[[Knowledge Building Theory|知识建构]]环境中为五年级学生提供[[Epistemology\|认识论]]提示，引导学生围绕问题主动形成解释理论。
 > - **[[Source Evaluation\|信源评估]]** Mason et al. (2014) 在中学生阅读冲突性网络健康材料时，[[Direct Instruction\|直接讲授]]鉴别网络信息的操作准则——查看作者专业资质、出版机构商业利益倾向、结论是否有数据支撑。学生学会这套规则后迅速摆脱盲信盲从，跨文本理解能力显著提升；Barzilai & Ka'adan (2017) 也发现教授信息整合策略能有效提高学生权衡不同观点的能力。
 > - **论证教学为何参差不齐** 辩论教学平均仅 $d = 0.134$ 且不显著，原因在于设计存在极大分歧：Nussbaum et al. (2008) 和 Osborne et al. (2013) 明确讲授了论据构造与反驳规则，成效良好；Ferguson et al. (2013) 和 Stoel et al. (2017) 仅将两篇冲突文章发给学生自行讨论，未提供评估论据强弱的指导，学生面对冲突信息无所适从，产生了严重认知负担。（pp. 492–493）
 
@@ -407,7 +406,7 @@ journal: "Journal of Educational Psychology"
 > [!result-reading] 干预时长与效应的倒挂机制
 > - **短周期干预的强劲表现** 持续 1 周至 4 周的短周期教学取得了最明显的学业提升；
 > - **全学期干预的明显缩水** 历时一整学期的 11 项研究虽然覆盖了 2,687 名学生，但平均效应降至无[[Statistical Significance\|统计显著性]]的 $d = 0.234$；
-> - **非线性增长与[[Fade-out Effect\|效应衰退]]机制** 结合认知干预[[Growth\|生长]]模型（Cameron et al., 2015; Dumas & McNeish, 2017）的解释：高强度短期干预能促使学生快速吸收核心策略并达到平台期；若干预时间拖得过长，教学浓度被稀释，对照组在日常学习中也在逐渐积累经验并迎头赶上，期末时两组净差距被明显压缩。（pp. 490, 493）
+> - **非线性增长与[[Fade-out Effect\|效应衰退]]机制** 结合认知干预生长模型（Cameron et al., 2015; Dumas & McNeish, 2017）的解释：高强度短期干预能促使学生快速吸收核心策略并达到平台期；若干预时间拖得过长，教学浓度被稀释，对照组在日常学习中也在逐渐积累经验并迎头赶上，期末时两组净差距被明显压缩。（pp. 490, 493）
 
 #### 2. 长期干预表现微弱很大程度上是由于选用了无法测出深层变化的期末统考
 

@@ -8,7 +8,7 @@ aliases:
 summary: "跨伦理哲学、教育学与研究方法论的双重概念：在亚里士多德伦理学中指通过重复实践形成德性与服从习惯；在观察研究中指通过长期驻留消除参与者反应性的策略。"
 type: concept
 domain: "sociology-of-education"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Active Learning]]"
   - "[[Freedom of the Learner]]"
-  - "[[Dialogue in Education]]"
 related_theories: []
 related_methods:
   - "[[Observation Method]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-24
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Habituation
@@ -120,7 +119,7 @@ updated: 2026-09-17
 > [!debates] 学术争议
 >
 > > [!axis] 习惯化与进步主义/[[Critical Pedagogy\|批判教育学]]的冲突（习惯化 vs 批判能动性）
-> > [[John Dewey\|杜威]]与[[Paulo Freire\|弗莱雷]]批判[[Aristotle\|亚里士多德]]式习惯化：如果教育仅停留在通过习惯化重复既有规范，学生就会被降格为遵从状态的客体（Objects） [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 4–6)]]。真正的[[Active Learning\|主动学习]]必须超越无批判的习惯化，赋予学生[[Freedom of the Learner\|学习者的自由]]，使其通过省察、[[Dialogue in Education\|对话]]与实践去改变不正义的规范。
+> > [[John Dewey\|杜威]]与[[Paulo Freire\|弗莱雷]]批判[[Aristotle\|亚里士多德]]式习惯化：如果教育仅停留在通过习惯化重复既有规范，学生就会被降格为遵从状态的客体（Objects） [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 4–6)]]。真正的[[Active Learning\|主动学习]]必须超越无批判的习惯化，赋予学生[[Freedom of the Learner\|学习者的自由]]，使其通过省察、对话与实践去改变不正义的规范。
 
 ---
 

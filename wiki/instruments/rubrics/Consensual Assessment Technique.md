@@ -7,9 +7,9 @@ aliases:
 summary: "由阿马比尔提出的创造性产品评估黄金标准，要求多位领域专家基于各自内隐经验独立对真实创造产物的新颖性与适切性进行相对评定"
 type: instrument
 instrument_type: rubric
-instrument_related_count: 19
-instrument_related_level: 3
-instrument_related_stars: "⭐⭐⭐"
+instrument_related_count: 20
+instrument_related_level: 4
+instrument_related_stars: "⭐⭐⭐⭐"
 instrument_related_color: "#ffedd5"
 part_of: ""
 developers:
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Ecological Validity]]"
   - "[[Creativity Assessment]]"
+  - "[[Open-Mindedness]]"
   - "[[Divergent Thinking]]"
   - "[[Domain Specificity]]"
   - "[[Construct]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-09-11
+updated: 2026-09-23
 ---
 
 # Consensual Assessment Technique
@@ -91,7 +92,7 @@ updated: 2026-09-11
 ## 核心操作规程
 
 > [!proc] Amabile 五大黄金实施准则
-> 1. **标准化开放任务** 所有参与者在相同的材料、指导语与时间约束下完成同一开放性创作任务，确保产品具有直接可比性。
+> 1. **标准化开放任务** 所有参与者在相同的材料、指导语与时间约束下完成同一[[Open-Mindedness|开放性]]创作任务，确保产品具有直接可比性。
 > 2. **合格的领域专家评定者** 评定者必须是具有该领域实际创作或专业教学经验的专家（如作家评定诗歌、艺术家评定绘画、资深教师评定教案），不得使用未经训练的外行。
 > 3. **独立[[Blinding\|盲法]]评定** 评定者彼此隔离、独立评定，不得相互讨论协商；作品需进行匿名与随机[[Coding in Qualitative Research\|编码]]呈现。
 > 4. **样本内部相对评定** 专家评定的是某作品相对于当前样本中其他作品的相对[[Creativity\|创造性]]水平，而非对照某种抽象永恒的绝对常模。

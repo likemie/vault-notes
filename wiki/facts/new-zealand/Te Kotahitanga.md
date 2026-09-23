@@ -11,7 +11,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -23,7 +23,6 @@ tags:
   - theme/culturally-responsive-pedagogy
   - theme/teacher-development
 related_concepts:
-  - "[[Growth]]"
   - "[[Academic Achievement]]"
   - "[[Epistemological Beliefs]]"
   - "[[Attrition]]"
@@ -31,7 +30,6 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Teacher Professional Agency]]"
-  - "[[Dialogue in Education]]"
   - "[[Reflexivity]]"
   - "[[Presence]]"
 related_theories: []
@@ -45,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Te Kotahitanga
@@ -55,7 +53,7 @@ updated: 2026-09-17
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> Te Kotahitanga（毛利语意为“团结一致”或“达成共识”）是由新西兰教育部资助、由怀卡托大学拉塞尔·比肖普（Russell Bishop）教授领衔研发的大规模中学生教学改进项目。该项目聚焦 9–10 年级（初三至高一）毛利原住民中学[[Growth\|生长]]期面临的[[Academic Achievement\|学业成就]]落后、出勤率低迷与高辍学率危机，旨在通过根本转变教师对毛利学生的[[Epistemological Beliefs\|认识论信念]]与课堂教学互动模式，消除系统性教育不平等。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 17–18)]]; Bishop et al. (2003)
+> Te Kotahitanga（毛利语意为“团结一致”或“达成共识”）是由新西兰教育部资助、由怀卡托大学拉塞尔·比肖普（Russell Bishop）教授领衔研发的大规模中学生教学改进项目。该项目聚焦 9–10 年级（初三至高一）毛利原住民中学生长期面临的[[Academic Achievement\|学业成就]]落后、出勤率低迷与高辍学率危机，旨在通过根本转变教师对毛利学生的[[Epistemological Beliefs\|认识论信念]]与课堂教学互动模式，消除系统性教育不平等。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 17–18)]]; Bishop et al. (2003)
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2001 年启动先导质性调查与试点，2003 年进入课堂干预试验，随后分阶段扩展至全纽数十所中学，持续运行至 2013 年后转化为国家级常规教师专业发展体系。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 17)]]
@@ -73,7 +71,7 @@ updated: 2026-09-17
 > [!policy-design]- 方案设计
 > - **倾听学生心声与叙事采集** 深入访谈 9–10 年级毛利学生、[[Attrition\|流失]]学生、家长及校长，建立“以学生体验为镜”的证据库，直观揭示学生对消极[[Student-Teacher Relationship\|师生关系]]与低期望的敏感洞察。
 > - **破除赤字理论与重塑[[Teacher Professional Agency\|教师能动性]]** 通过专业研讨会向教师展示学生叙事，使教师痛苦而清醒地意识到自身将学生困难归因于家庭文化是在推卸教学责任，进而确立“教师能够在课堂创造改变”的专业承诺。
-> - **有效教学画像（Effective Teaching Profile）** 建立涵盖 Manaakitanga（关爱学生作为毛利人的身份）、Mana Motuhake（对学生学业抱有极高期望）、Whanaungatanga（构建班级家庭式信任关系）、Wānanga（互动[[Dialogue in Education\|对话]]式教学）与 Kotahitanga（共同愿景）等毛利文化核心价值的课堂教学规程。
+> - **有效教学画像（Effective Teaching Profile）** 建立涵盖 Manaakitanga（关爱学生作为毛利人的身份）、Mana Motuhake（对学生学业抱有极高期望）、Whanaungatanga（构建班级家庭式信任关系）、Wānanga（互动对话式教学）与 Kotahitanga（共同愿景）等毛利文化核心价值的课堂教学规程。
 > - **[[Reflexivity\|反思性]]听课与录像反馈循环** 组建校本辅导员队伍，常态化开展基于课堂真实互动的随堂观察、录像回放、学生反馈采集与一对一反思辅导。
 
 > [!citation-card] 赤字理论的破除与学业改变

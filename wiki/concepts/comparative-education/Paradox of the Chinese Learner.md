@@ -7,7 +7,7 @@ aliases:
 summary: "中国／儒家文化圈学习者看似依赖低效学习方式却持续取得高水平成就之间的矛盾"
 type: concept
 domain: "comparative-education"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Examination Hell]]"
-  - "[[Growth]]"
   - "[[Surface and Deep Learning]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-22'
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Paradox of the Chinese Learner
@@ -104,7 +103,7 @@ updated: 2026-09-18
 
 ### 学习信念层面
 
-[[Confucian Heritage Cultures|CHC]] 学习者——与其西方同龄人不同——将道德和个人[[Growth|成长]]视为学习的核心目的。CHC 研究的学习信念路径 涵盖了 Wing On Lee 的儒家价值分析、Kai-ming Cheng 的[[Ethnography|民族志]]发现、以及 An Ran 的跨文化冲突研究。这些研究的共同指向是：**不能以西方的学习目的框架（理解世界、个人成就）来判断 CHC 学习者的学习质量——因为他们对"学习是为了什么"有根本不同的理解**。
+[[Confucian Heritage Cultures|CHC]] 学习者——与其西方同龄人不同——将道德和个人成长视为学习的核心目的。CHC 研究的学习信念路径 涵盖了 Wing On Lee 的儒家价值分析、Kai-ming Cheng 的[[Ethnography|民族志]]发现、以及 An Ran 的跨文化冲突研究。这些研究的共同指向是：**不能以西方的学习目的框架（理解世界、个人成就）来判断 CHC 学习者的学习质量——因为他们对"学习是为了什么"有根本不同的理解**。
 
 ### 学习过程层面
 

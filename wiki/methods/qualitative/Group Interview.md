@@ -9,7 +9,7 @@ summary: "一种同时访谈多位受访者的数据收集方法，通过在群�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 12
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Dialogue in Education]]"
 related_methods:
   - "[[Focus Group]]"
   - "[[Cross-checking]]"
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Group Interview
@@ -77,7 +76,7 @@ updated: 2026-09-17
 > 1. **确定群体构成** 为何选择这些人组成群体？群体成员是否已有共同工作经历或代表不同集合体？
 > 2. **安排物理环境** 注意座位安排——圆形/椭圆形/直线还是什么？Lew为所有受访者提供均等视线接触。
 > 3. **分配注意力** 作为访谈者，如何将注意力分配给所有受访者，并确保所有人都有发言机会？
-> 4. **处理群体动态** 如何处理过于安静、过于健谈、垄断[[Dialogue in Education\|对话]]、相互争论和持不同意见的人？如何处理受访者之间或对访谈者的愤怒？
+> 4. **处理群体动态** 如何处理过于安静、过于健谈、垄断对话、相互争论和持不同意见的人？如何处理受访者之间或对访谈者的愤怒？
 > 5. **安排轮流发言** 是否让每个人回答同一个问题？是否按特定顺序？是否指名提问？如何让个体回答而不被强迫？
 > 6. **警惕发言信号** 注意试图发言的人——尤其是被更资深或更健谈成员压制的人。
 > 7. **应对多样化回应** 如何处理对同一问题产生非常不同回应的情况？

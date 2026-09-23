@@ -28,7 +28,6 @@ related_concepts:
   - "[[Researcher as Key Instrument]]"
   - "[[Theoretical Standpoint]]"
   - "[[Reflexivity]]"
-  - "[[Dialogue in Education]]"
   - "[[Research Ethics]]"
   - "[[Responsible Conduct of Research]]"
   - "[[Reliability]]"
@@ -36,14 +35,15 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Construct]]"
+  - "[[Dialogue in Education]]"
   - "[[Document]]"
   - "[[Epistemic Value]]"
   - "[[Interpretive Paradigm]]"
   - "[[Positivism]]"
   - "[[Rich and Thick Description]]"
-  - "[[Knowledge Production]]"
 related_theories:
   - "[[Phenomenology]]"
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
@@ -101,7 +101,7 @@ updated: 2026-09-21
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 基于[[Qualitative Research\|质性研究]]中[[Researcher as Key Instrument\|研究者作为关键工具]]的认识论前提；研究者的前见与[[Theoretical Standpoint\|理论立场]]必然渗透于资料解释中，同行审议不追求绝对超然的客观真理，而是通过主体间性的外部制衡实现[[Reflexivity\|反思性]]自觉与[[Chain of Evidence\|证据链]]公开展现。
-> - **研究者角色** 研究者从孤立的个人解释者转变为在学术共同体[[Dialogue in Education\|对话]]中接受审查的求知者，主动将推理链暴露于外部审视，践行负责任的[[Research Ethics\|研究伦理]]（[[Responsible Conduct of Research\|research integrity]]）。
+> - **研究者角色** 研究者从孤立的个人解释者转变为在学术共同体对话中接受审查的求知者，主动将推理链暴露于外部审视，践行负责任的[[Research Ethics\|研究伦理]]（[[Responsible Conduct of Research\|research integrity]]）。
 > - **有效性标准** 服务于质性研究的可信性（Credibility）与[[Reliability\|可依赖性]]（Dependability）标准，是 Lincoln & Guba [[Qualitative Validity\|质性效度]]六大支柱之一。
 > - **不声称回答的问题** 不能替代研究者对田野的第一手[[Flow\|沉浸体验]]；不能独立证明发现的唯一正确性；不能取代源自研究参与者经验的[[Member Checking\|成员核查]]。
 
@@ -193,4 +193,4 @@ updated: 2026-09-21
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011, Ch. 10)]] — 在 Lincoln & Guba [[Qualitative Validity\|质性效度]]框架中系统阐述同行汇报的四维质询功能（诚实性、[[Hypothesis\|假设]]检验、盲点排查与下一步确定）。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch9)]] — 在[[Qualitative Research\|质性研究]]设计中界定同行审议作为恶魔代言人的批判角色及其与[[External Auditor\|外部审计]]的分工。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 143–144)]] — 在科学实践与课堂[[Discourse Analysis\|话语分析]]中引入同行审议与同行评审机制，阐释[[Knowledge Production\|知识建构]]由私人主张向公共知识合法化的社会[[Epistemology\|认识论]]转化过程。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 143–144)]] — 在科学实践与课堂[[Discourse Analysis\|话语分析]]中引入同行审议与同行评审机制，阐释[[Knowledge Building Theory|知识建构]]由私人主张向公共知识合法化的社会[[Epistemology\|认识论]]转化过程。

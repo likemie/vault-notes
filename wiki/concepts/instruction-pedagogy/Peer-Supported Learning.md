@@ -6,7 +6,7 @@ aliases:
   - peer tutoring
   - 互帮互学
   - 同伴互助
-summary: "东亚学校文化中以同伴互助为核心的学习方式，包括小组学习，课代表制度，优生帮后进生，将帮助同伴视为学习美德而非竞争威胁"
+summary: 东亚学校文化中以同伴互助为核心的学习方式，包括小组学习，课代表制度，优生帮后进生，将帮助同伴视为学习美德而非竞争威胁
 type: concept
 domain: "instruction-pedagogy"
 related_count: 11
@@ -19,7 +19,7 @@ tags:
   - theme/learning
   - field/comparative-education
 related_concepts:
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Learning Virtues]]"
   - "[[Class Size]]"
   - "[[Homework]]"
@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-08-20
+updated: 2026-09-23
 ---
 
 # Peer-Supported Learning
@@ -46,7 +46,7 @@ updated: 2026-08-20
 ## 定义
 
 > [!info]
-> Peer-Supported Learning 指东亚学校文化中以同伴互助为核心的系统性学习方式。与西方学校中将同伴视为竞争者不同，东亚学校的同伴关系围绕"共同学习"展开：高成就学生被赋予帮助后进生的责任，后进生则以[[Humility in Learning\|谦逊]]态度求教，将互助视为[[Learning Virtues\|学习美德]]的体现([[Argument_Li_2012_Cambridge\|Li, 2012, p.203–208]])。
+> Peer-Supported Learning 指东亚学校文化中以同伴互助为核心的系统性学习方式。与西方学校中将同伴视为竞争者不同，东亚学校的同伴关系围绕"共同学习"展开：高成就学生被赋予帮助后进生的责任，后进生则以[[Humility\|谦逊]]态度求教，将互助视为[[Learning Virtues\|学习美德]]的体现([[Argument_Li_2012_Cambridge\|Li, 2012, p.203–208]])。
 
 这一概念植根于"同学"的文化语义——"一同学习的人"，而非仅指年龄或地位相等的个体。学习同伴被视为追求共同道德目标的同道之人([[Argument_Li_2012_Cambridge|Li, 2012, p.200]])。
 
@@ -69,7 +69,7 @@ updated: 2026-08-20
 > [!tip]-
 > Peer-Supported Learning 的文化基础：
 > - 同学 — 同伴即"一同学习的朋友"，而非地位平等的竞争者
-> - [[Learning Virtues\|学习美德]] — 帮人者展现慷慨与责任，求助者展现[[Humility in Learning\|谦逊]]，均属学习美德
+> - [[Learning Virtues\|学习美德]] — 帮人者展现慷慨与责任，求助者展现[[Humility\|谦逊]]，均属学习美德
 > - 自我可塑性信念 — 东亚文化相信人人可通过努力改善学业，因此学业水平不是固定标签([[Argument_Li_2012_Cambridge\|Li, 2012, p.210–211]])
 
 ## 实证发现

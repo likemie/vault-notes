@@ -9,7 +9,7 @@ summary: "英国当代教育社会学与社会语言学奠基理论家，开创�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 45
+person_related_count: 44
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Horizontal Knowledge Structure]]"
   - "[[Totally Pedagogised Society]]"
-  - "[[Growth]]"
   - "[[New Sociology of Education]]"
   - "[[Grand Theory]]"
   - "[[Hypothesis]]"
@@ -76,7 +75,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-05-23
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Basil Bernstein
@@ -100,7 +99,7 @@ updated: 2026-09-18
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1924** 出生于英国伦敦东区工人阶级犹太移民家庭，底层[[Growth\|成长]]经历奠定其对社会阶层、语言障碍与教育排斥机制的敏锐洞察。
+> - **1924** 出生于英国伦敦东区工人阶级犹太移民家庭，底层成长经历奠定其对社会阶层、语言障碍与教育排斥机制的敏锐洞察。
 > - **1947–1951** 就读于伦敦政治经济学院（LSE）主修社会学，深受法国社会学奠基人埃米尔·涂尔干（Émile Durkheim）[[Positivism\|实证主义]]社会学传统的熏陶。
 > - **1954–1960** 在伦敦东区工人阶级男子走读学院任教，亲历工人阶级青年在主流正规教育体系中的系统性沟通挫折，启动语言代码实证调查。
 > - **1962–1990** 执教于伦敦大学教育学院（IOE），历任高级讲师、社会学讲座教授（Karl Mannheim Chair），创立社会学研究部并领导跨越数十年的社会学研究单元（Sociological Research Unit, SRU）。

@@ -32,7 +32,6 @@ related_concepts:
   - "[[Data Literacy]]"
   - "[[Reflexivity]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Dialogue in Education]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Attrition]]"
   - "[[Positivism]]"
@@ -43,6 +42,7 @@ related_concepts:
   - "[[Output-Oriented Governance]]"
   - "[[PISA Shock]]"
   - "[[Gatekeepers]]"
+  - "[[Dialogue in Education]]"
   - "[[Academic Achievement]]"
 related_theories:
   - "[[Organizational Culture]]"
@@ -177,7 +177,7 @@ updated: 2026-09-18
 > [!dev-timeline] 概念演变与[[Paradigm\|范式]]演进
 > - **2000 年代初 — [[PISA]] 震荡与国家监测战略奠基** 2000 年首次 PISA 测评成绩落后引发震荡，德国[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（KMK）于 2006 年正式发布《国家教育监测综合战略》，确立由国家教育标准、跨州比较测试（[[Vergleichsarbeiten\|VERA]]）、学校外部督导与国家教育报告构成的四位一体实证监测网络，倡导以数据反馈赋能单校自主改进。
 > - **2010 年代初 — 实践转化瓶颈与组织中介反思** 伴随大规模测试普及，学术界发现“数据丰富却见解贫乏”成为普遍困境；实证研究（如 Dormann & Dedering, 2014）指出监测数据在缺乏微观组织支持时极易引发教师防御抵触，促使理论焦点转向校长的[[Data Literacy\|数据素养]]与校本协同文化中介。
-> - **2010 年代中叶至今 — 目标协定制度化与行动者认同分化** 奥地利等德语区国家推行普通学校质量保障体系（[[Schulqualität Allgemeinbildung\|SQA]]），将循证学校发展制度化为校长与督导部门之间的目标与成效协定[[Dialogue in Education\|对话]]；实证研究揭示校长分化为循证型、资源型与弱发展型三种典型取向，证实循证学校发展取决于一线领导者的微观认知把关与工时结构重塑（[[Argument_Altrichter_2019_ZfB\|Altrichter et al., 2019]]）。
+> - **2010 年代中叶至今 — 目标协定制度化与行动者认同分化** 奥地利等德语区国家推行普通学校质量保障体系（[[Schulqualität Allgemeinbildung\|SQA]]），将循证学校发展制度化为校长与督导部门之间的目标与成效协定对话；实证研究揭示校长分化为循证型、资源型与弱发展型三种典型取向，证实循证学校发展取决于一线领导者的微观认知把关与工时结构重塑（[[Argument_Altrichter_2019_ZfB\|Altrichter et al., 2019]]）。
 
 ---
 

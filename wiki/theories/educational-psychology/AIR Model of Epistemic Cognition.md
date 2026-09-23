@@ -8,7 +8,7 @@ aliases:
 summary: "当代教育心理学与学习科学的核心认识论认知模型，将认识实践解构为认识目标、认识论理想与可靠认识论过程三大相互交织的构件。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 46
+theory_related_count: 45
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Theoretical Standpoint]]"
   - "[[Ontology]]"
   - "[[Epistemic Stances]]"
-  - "[[Dialogue in Education]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Procedural Knowledge]]"
   - "[[Socioscientific Issues]]"
@@ -145,7 +144,7 @@ updated: 2026-09-22
 > [!theory-use] 如何用于研究与教学
 > - **作为分析与[[Coding in Qualitative Research\|编码]]框架** 用于质性编码学生在书面科学论文、口头辩论或小组研讨中的话语，析出其对证据[[Sample Size Determination\|样本量]]、[[Blinding\|盲法]]条件、仪器局限、多源聚合性等认识要素的掌握程度。
 > - **作为[[Scaffolding\|教学支架]]设计指引** 在探究教学中引入“模型-证据连接矩阵”（[[Model-Evidence-Link Matrix\|Model-Evidence-Link]] Matrices），引导学生依据班级自主共建的“好证据”与“好模型”公共准则开展评估。
-> - **作为元认识论[[Dialogue in Education\|对话]]触发器** 在课堂中组织元认识论审议（meta-epistemic discussions），促使学生跳出对具体结论的争论，转向辩护“为什么在当前情境下双盲/系统观察比个人直觉更可靠”。
+> - **作为元认识论对话触发器** 在课堂中组织元认识论审议（meta-epistemic discussions），促使学生跳出对具体结论的争论，转向辩护“为什么在当前情境下双盲/系统观察比个人直觉更可靠”。
 
 ---
 

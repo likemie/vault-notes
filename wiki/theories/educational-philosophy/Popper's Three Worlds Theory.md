@@ -20,7 +20,6 @@ related_concepts:
   - "[[Abstract]]"
   - "[[Surface and Deep Learning]]"
   - "[[Areas of Knowledge]]"
-  - "[[Knowledge Production]]"
   - "[[Constructivist Paradigm]]"
   - "[[Falsification]]"
   - "[[Epistemology]]"
@@ -30,6 +29,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Cult of the Guru]]"
 related_theories:
+  - "[[Knowledge Building Theory]]"
   - "[[Radical Constructivism]]"
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:
@@ -84,7 +84,7 @@ updated: 2026-09-17
 >
 > 1. **World 3 → World 2 的塌缩** Popper 的 World 3 是客观文化和科学对象的领域（"客观地伟大的"），与学习（World 2 的属性）无关。Hattie 将 World 3 完全替换为认知过程——"自我监控的学习者"——实质上消灭了 World 3 的客观性。
 >
-> 2. **中介环节 Bereiter**Bereiter (2002) 已经对 Popper 做了关键化简：将"文化对象"缩减为"真理与非真理"，排除贝多芬交响乐这类 Popper 本人常用的 World 3 示例。但 Bereiter 至少保留了"心灵之外的知识"（knowledge outside the mind）以及 World 2（学习）与 World 3（[[Knowledge Production\|知识建构]]）的区分。Hattie 进一步抹除了这一区分。
+> 2. **中介环节 Bereiter**Bereiter (2002) 已经对 Popper 做了关键化简：将"文化对象"缩减为"真理与非真理"，排除贝多芬交响乐这类 Popper 本人常用的 World 3 示例。但 Bereiter 至少保留了"心灵之外的知识"（knowledge outside the mind）以及 World 2（学习）与 World 3（[[Knowledge Building Theory|知识建构]]）的区分。Hattie 进一步抹除了这一区分。
 >
 > 3. **实在论 vs [[Constructivist Paradigm\|建构主义]]的根本矛盾** Popper 是哲学实在论者，Hattie 是主观建构主义者。Hattie 用建构主义吞噬了实在论：Popper 的"批评、大胆猜想、实验和[[Falsification\|证伪]]"词汇残留在 VL 中，但被重构为制造 d>0.4 的学习方法，完全丧失了与文化和科学对象的接触。
 >

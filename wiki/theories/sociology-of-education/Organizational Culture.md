@@ -9,10 +9,10 @@ aliases:
 summary: "Schein 提出的组织文化三层次框架（器物、信奉价值观、深层基本假设），揭示了表层可见符号与官方理念如何常与深层防御心理及信任赤字发生结构性断裂"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 39
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 40
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theory/organization-studies
   - theory/research-methodology
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Embedded Researcher]]"
   - "[[Research Utilization]]"
   - "[[Metacognition]]"
+  - "[[Open-Mindedness]]"
   - "[[Research Literacy]]"
   - "[[Evidence-Based Education]]"
   - "[[Conatus]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-05
-updated: 2026-09-18
+updated: 2026-09-23
 ---
 
 # Organizational Culture
@@ -181,7 +182,7 @@ updated: 2026-09-18
 > 在教育政策治理组织中，表层器物的完备（如常设顾问与课题指南）与信奉价值观的积极表达（如高度认同研究重要性），往往掩盖了深层假设中对外部学术界的强烈防卫心理与信任赤字；这种断裂导致研究使用蜕化为短视、单向采购技术原料的浅层交易行为（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 92–95]]）。
 >
 > > [!warrant]- 理论推导与经验依据
-> > 在 [[OECD]] 37 个教育系统调查中，教育部委官员对“研究使用至关重要”（均分 4.46）与“决策中预期使用”（4.04）表现出极高自陈承诺；然而在深层人际互动指标上，“对研究人员的高度信任”（仅 3.40）与“达成共识理解”（3.10）在所有维度中双双垫底。深层潜在假设中的信任赤字使得 70% 的研究使用局限于寻找现成方案的技术修补，用于开放性[[Dialogue in Education\|对话]]审议仅占 47%，建立信任仅占 33%。
+> > 在 [[OECD]] 37 个教育系统调查中，教育部委官员对“研究使用至关重要”（均分 4.46）与“决策中预期使用”（4.04）表现出极高自陈承诺；然而在深层人际互动指标上，“对研究人员的高度信任”（仅 3.40）与“达成共识理解”（3.10）在所有维度中双双垫底。深层潜在假设中的信任赤字使得 70% 的研究使用局限于寻找现成方案的技术修补，用于[[Open-Mindedness|开放性]]对话审议仅占 47%，建立信任仅占 33%。
 
 ---
 

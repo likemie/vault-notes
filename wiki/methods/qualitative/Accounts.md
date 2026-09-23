@@ -11,13 +11,13 @@ method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags: [method/qualitative, data-collection, paradigm/interpretive, theme/language]
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Social Episodes]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
   - "[[Interpretive Paradigm]]"
   - "[[Hypothesis]]"
+  - "[[Dialogue in Education]]"
   - "[[Falsification]]"
   - "[[Causality]]"
 related_theories:
@@ -50,7 +50,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> 陈述法是以**情境中的语言（language in context）**为焦点的资料收集与分析方法，研究对象从言语行为、[[Ethnomethodology\|俗民方法学]]到[[Dialogue in Education\|对话]]分析和[[Discourse Analysis\|话语分析]]。陈述包含语言的描述性、分析性和解释性特征，关注语言在行动中的运作——语言既是社会行动的形式，也是社会行动的载体（Wooffitt, 1993, p. 303）。陈述也指人们为使其行动对他人变得可理解和可辩护而作出的言语说明，例如一句非常抱歉我不是故意撞到你的即通过将碰撞置于非计划序列之外来消除其冒犯性（Harré, 1978）。
+> 陈述法是以**情境中的语言（language in context）**为焦点的资料收集与分析方法，研究对象从言语行为、[[Ethnomethodology\|俗民方法学]]到对话分析和[[Discourse Analysis\|话语分析]]。陈述包含语言的描述性、分析性和解释性特征，关注语言在行动中的运作——语言既是社会行动的形式，也是社会行动的载体（Wooffitt, 1993, p. 303）。陈述也指人们为使其行动对他人变得可理解和可辩护而作出的言语说明，例如一句非常抱歉我不是故意撞到你的即通过将碰撞置于非计划序列之外来消除其冒犯性（Harré, 1978）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 参与者在[[Social Episodes\|社会片段]]中的言语说明，包括其意图、信念、对规则的认识，以及伴随行动的言语。

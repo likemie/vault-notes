@@ -6,7 +6,7 @@ aliases:
 summary: "弗莱雷解放教育与提问式教学法中的核心中介机制，指将受教者日常生活中复杂的受压迫生存矛盾制作成具象的照片、画作或文本符号，使其对象化以便于开展批判性对话。"
 type: concept
 domain: "educational-philosophy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,9 +18,10 @@ tags:
 related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Generative Themes]]"
+  - "[[Open-Mindedness]]"
   - "[[Decodification]]"
-  - "[[Dialogue in Education]]"
   - "[[Learned Helplessness]]"
+  - "[[Dialogue in Education]]"
   - "[[Problem-Posing Education]]"
 related_theories:
   - "[[Theory of Mind]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Codification（生存境遇编码）
@@ -51,10 +52,10 @@ updated: 2026-09-17
 > [!concept-lens] 概念透镜
 > - **含义** 指向将主观沉浸的生存苦难转化为外部可共同观察与批判探讨的具象中介符号。
 > - **用途** 帮助受教者拉开与残酷日常现实的反思距离，客观审视自身受压迫境遇。
-> - **边界** 不等于教学插图；必须凝聚深层社会权力矛盾与开放性问题。
+> - **边界** 不等于教学插图；必须凝聚深层社会权力矛盾与[[Open-Mindedness|开放性]]问题。
 
 > [!citation-card]- 关键表述
-> 编码是指将学习者的日常生存情境转化为具象的表达形态，而[[Decodification\|解码]]则是通过[[Dialogue in Education\|对话]]对其展开分析，揭示该编码所代表的现实中此前未被觉察的含义。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 53 注脚61)]]
+> 编码是指将学习者的日常生存情境转化为具象的表达形态，而[[Decodification\|解码]]则是通过对话对其展开分析，揭示该编码所代表的现实中此前未被觉察的含义。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 53 注脚61)]]
 >
 > *By codification Freire means a learner's day-to-day situations, while decodification is the analysis which takes place through dialogue. (Heaney, 2005; Darwish, 2009, p. 53)*
 
@@ -80,7 +81,7 @@ updated: 2026-09-17
 > [!feature] 核心要素
 > - **现实对象化（Objectification）** 将主观沉浸的生存苦难转化为外部可观察讨论的表象对象。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 53)]]
 > - **矛盾凝聚性（Condensation）** [[Coding in Qualitative Research\|编码]]符号必须紧扣并凝聚社会权力关系的核心矛盾（如泥砖与泥塘棚屋对比）。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 48)]]
-> - **开放[[Dialogue in Education\|对话]]性（Dialogical Openness）** 编码图像留出多义解读与批判追问空间。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 61)]]
+> - **开放对话性（Dialogical Openness）** 编码图像留出多义解读与批判追问空间。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 61)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -127,7 +128,7 @@ updated: 2026-09-17
 ## 争议与批评
 
 > [!warning] 适用局限
-> [[Coding in Qualitative Research\|编码]]若制作过于复杂或包含过多引导性倾向，可能退化为教育者自上而下的宣传画，失去诱发开放性[[Dialogue in Education\|对话]]的功能。
+> [[Coding in Qualitative Research\|编码]]若制作过于复杂或包含过多引导性倾向，可能退化为教育者自上而下的宣传画，失去诱发[[Open-Mindedness|开放性]]对话的功能。
 
 ---
 

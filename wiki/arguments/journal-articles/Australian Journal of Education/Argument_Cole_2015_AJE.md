@@ -35,6 +35,7 @@ related_concepts:
   - "[[Knowledge Questions]]"
   - "[[Creativity, Action, Service]]"
   - "[[School Leadership]]"
+  - "[[Open-Mindedness]]"
   - "[[Areas of Knowledge]]"
   - "[[Epistemology]]"
   - "[[Causality]]"
@@ -80,9 +81,9 @@ title: "Argument_Cole_2015_AJE"
 argument_key: "Argument_Cole_2015_AJE"
 argument_display_title: "Critical thinking skills in the International Baccalaureate's 'Theory of Knowledge' subject: Findings from an Australian study"
 argument_kind: "journal-article"
-argument_related_count: 44
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Australian Journal of Education"
 ---
@@ -306,7 +307,7 @@ journal: "Australian Journal of Education"
 > | 维度 | DP ($n = 42$) M (SD) | 非DP ($n = 126$) M (SD) | Δ | Hedges' $g$（派生） |
 > |:-----|:----------------|:-------------------|:--|:------------------|
 > | 求真（Truth-seeking） | 37.02 (5.88) | 35.00 (6.33) | $+2.02$ | 0.323 |
-> | 开放心态（Open-mindedness） | 43.48 (5.41) | 42.85 (5.42) | $+0.63$ | 0.116 |
+> | 开放心态（[[Open-Mindedness]]） | 43.48 (5.41) | 42.85 (5.42) | $+0.63$ | 0.116 |
 > | 探究性（Inquisitiveness） | 48.17 (6.45) | 46.96 (6.35) | $+1.21$ | 0.189 |
 > | 分析性（Analyticity） | 44.95 (5.39) | 44.75 (5.02) | $+0.20$ | 0.039 |
 > | 系统性（Systematicity） | 39.74 (6.59) | 38.91 (6.78) | $+0.83$ | 0.123 |

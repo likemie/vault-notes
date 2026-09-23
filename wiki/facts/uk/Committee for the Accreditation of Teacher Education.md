@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Bildung]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Cognitive Deskilling]]"
   - "[[Document]]"
   - "[[School Effectiveness]]"
 related_theories: []
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Committee for the Accreditation of Teacher Education
@@ -131,7 +132,7 @@ updated: 2026-09-18
 > > [!axis] 理论[[Bildung\|教化]]价值 vs 实用技能[[Disciplina and Doctrina\|规训]]
 > > 争论教师教育应以广义教育理论为根基，还是以中小学即插即用的课堂技能为重心。
 > >
-> > - **批判社会学立场** 指责 CATE 将社会不平等与正义议题从师训中抹除，使教师沦为去技能化的国家规程执行工。[[Argument_Ball_2008_SR\|(Ball, 2008, p. 659)]]
+> > - **批判社会学立场** 指责 CATE 将社会不平等与正义议题从师训中抹除，使教师沦为[[Cognitive Deskilling|去技能化]]的国家规程执行工。[[Argument_Ball_2008_SR\|(Ball, 2008, p. 659)]]
 
 > [!citation-card] 代表性批评[[Document\|文献]]
 > CATE 的设立将教育社会学和其他基础学科边缘化，把它们定性为与教学实践无关甚至在政治上危险的学说，从根本上重塑了教师的知识构成与专业认同。[[Argument_Ball_2008_SR\|(Ball, 2008, p. 659)]]

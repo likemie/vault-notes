@@ -33,7 +33,6 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Scientism]]"
   - "[[Hypothesis]]"
-  - "[[Growth]]"
   - "[[Determinism]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Rich and Thick Description]]"
@@ -55,6 +54,7 @@ related_persons:
   - "[[Marc-Antoine Jullien]]"
   - "[[Victor Cousin]]"
   - "[[Horace Mann]]"
+  - "[[Christopher Martin]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cowen_2009_HistoryCreation]]"
@@ -62,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Comparative History of Comparative Education
@@ -191,7 +191,7 @@ updated: 2026-09-17
 
 > [!dev-timeline] 概念演变
 > - **1960年代 — 线性规范起源叙事的奠定** 诺亚与埃克斯坦在《迈向比较教育科学》（1969）以及贝雷迪（1964）的经典教材中，确立了将学科史划分为“旅行者见闻—[[Policy Borrowing\|教育借用]]—历史文化背景研究—[[Scientific Method\|经验科学]]社会学分析”的单向演进阶梯，实证[[Scientism\|科学主义]]确立为学科合法性的基石。
-> - **1980–1990年代 — [[Epistemology\|认识论]]危机与去中心化反思** 后现代、后殖民与[[Critical Theory\|批判理论]]视角引入学科（如马丁·卡诺伊 [Martin Carnoy]、罗伯特·阿诺夫 [Robert Arnove]），学者开始反思西方现代化理论的霸权，呼吁打破单一欧美中心叙事并关注第三世界的依附与抵抗。
+> - **1980–1990年代 — [[Epistemology\|认识论]]危机与去中心化反思** 后现代、后殖民与[[Critical Theory\|批判理论]]视角引入学科（如[[Christopher Martin|马丁]]·卡诺伊 [Martin Carnoy]、罗伯特·阿诺夫 [Robert Arnove]），学者开始反思西方现代化理论的霸权，呼吁打破单一欧美中心叙事并关注第三世界的依附与抵抗。
 > - **2000年代初 — 奠基神话与核心文本的个案重读** 卡扎米亚斯与考恩等人系统重审[[Michael Sadler\|萨德勒]]爵士的吉尔福德演讲与[[Marc-Antoine Jullien\|朱利安]]的《计划》，揭示学科教科书对经典[[Document\|文献]]的去脉络化拔高，开启了对学科集体记忆与肖像学的学术反思。
 > - **2009年 — 比较教育学比较史的方法论确立** 考恩在施普林格《国际比较教育学手册》开篇导论中正式提出“比较教育学的历史应演变为比较教育学的比较史”，系统制定了深挖未见档案、纳入拉美等多元中心经验、剖析元认识论[[Hypothesis\|假设]]以及由未来重塑提问逻辑的批判史学纲领。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 8–10)]]
 > - **2010年代至今 — 多中心、跨国网络与去殖民史学的深化** 学界进一步发掘女性学者（如安·德赖兰、哈廷盖夫人）与非西方教育思想家的档案文献，推动学科史从孤立的“伟人功勋志”全面转向全球[[Knowledge Production\|知识生产]]社会学与多维历史比较。
@@ -203,7 +203,7 @@ updated: 2026-09-17
 > [!debates] 学术争议
 >
 > > [!axis] 建制化专业合法性 vs 批判史学去神圣化
-> > 围绕学科史是否应当保留清晰的奠基人神话与线性[[Growth\|成长]]叙事，学界存在建制功能主义与批判诠释学的深刻分歧。
+> > 围绕学科史是否应当保留清晰的奠基人神话与线性成长叙事，学界存在建制功能主义与批判诠释学的深刻分歧。
 > >
 > > - **Harold Noah & Max Eckstein（1969）** 认为规范、清晰的起源历史是新兴交叉学科确立自身专业边界、赢得大学系所教席与同行认可的制度化护照，有助于维系学科共同体的专业认同。
 > > - **Robert Cowen（2009a）** 指出学科早已跨越需要脆弱神话维持合法性的阶段，非反思的起源崇拜构成了[[Epistemology\|认识论]]障碍，必须通过多元批判的比较史解构[[Academic Iconography\|学科肖像学]]并直面历史复杂性。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–9)]]

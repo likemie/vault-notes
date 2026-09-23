@@ -3,25 +3,24 @@ title: Jin Li
 aliases:
   - Li, J.
   - 李瑾
-summary: "华人教育研究者，布朗大学教授，以中西文化学习模型比较研究著称，提出好學心等中国本土学习概念"
+summary: 华人教育研究者，布朗大学教授，以中西文化学习模型比较研究著称，提出好學心等中国本土学习概念
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 43
+person_related_count: 42
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
 born: "1957"
 died: ""
-lifespan: "1957–至今"
+lifespan: 1957–至今
 tags:
-- region/china
-- region/us
-- field/comparative-education
-- field/cultural-psychology
-- field/learning-science
+  - region/china
+  - region/us
+  - field/comparative-education
+  - field/cultural-psychology
+  - field/learning-science
 related_concepts:
-  - "[[Growth]]"
   - "[[Didaktik]]"
   - "[[Liberal Education]]"
   - "[[Creativity Training]]"
@@ -35,7 +34,7 @@ related_concepts:
   - "[[Take the World Upon Oneself]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Action Better Than Words]]"
   - "[[Chinese Learner]]"
   - "[[Junzi]]"
@@ -71,8 +70,8 @@ related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
-created: '2026-05-21'
-updated: 2026-09-18
+created: 2026-05-21
+updated: 2026-09-23
 ---
 # Jin Li
 
@@ -86,7 +85,7 @@ updated: 2026-09-18
 ## 生平与职涯
 
 > [!note]-
-> - 中国[[Growth\|成长]]，大学阶段学习德语文学([[Argument_Li_2012_Cambridge\|Li, 2012, p.xiii]])
+> - 中国成长，大学阶段学习德语文学([[Argument_Li_2012_Cambridge\|Li, 2012, p.xiii]])
 > - 1977 年通过文革后首届[[Gaokao\|高考]]，录取率约 4.7%（5,700,000 人报考, 27,000 人录取），被第二志愿——一所以外语著称的高校——录取([[Argument_Li_2012_Cambridge\|Li, 2012, pp.2–3]])
 > - 大学四年主要由西德外教授课，课程设置贴近德国[[Didaktik\|教学理论]]，实质接受了具有德国色彩的[[Liberal Education\|博雅教育]]([[Argument_Li_2012_Cambridge\|Li, 2012, p.3]])
 > - 大学期间学习德语语言、文学与西方艺术史，阅读歌德、席勒、海涅、卡夫卡、布莱希特等大量德语作家，同时接触莫扎特、贝多芬等西方音乐([[Argument_Li_2012_Cambridge\|Li, 2012, p.4]])
@@ -134,7 +133,7 @@ Li 在第 2 章中系统追溯了西方与东亚两种学习文化的知识根�
 **[[Confucian Learning Tradition|儒家学习传统]]**以完善自我（perfect self）为核心，向下延伸为四个主题：
 1. 完善自我（Perfect Self）——自我而非世界，是认知、反思和实践的对象
 2. [[Take the World Upon Oneself|以天下为己任]]（Take the World Upon Oneself）——从[[Self-Cultivation|修身]]出发，逐步扩展至齐家、治国、平天下
-3. [[Learning Virtues|学习美德]]（Learning Virtues）——七种德目（诚心、勤奋、刻苦、恒心、专心、尊师、[[Humility in Learning|谦虚]]）构成学习者的个人能动性
+3. [[Learning Virtues|学习美德]]（Learning Virtues）——七种德目（诚心、勤奋、刻苦、恒心、专心、尊师、[[Humility|谦虚]]）构成学习者的个人能动性
 4. [[Action Better Than Words|行勝於言]]（Action Better Than Words）——沉默和行动优先于言语表达
 5. 由此导出**[[Chinese Learner|中国学习者]]**模型：以八个同心圆展开的学习层次（格物→致知→诚意→正心→[[Self-Cultivation|修身]]→齐家→治国→平天下），最终指向[[Junzi|君子]]和[[Sage|圣人]]的理想人格([[Argument_Li_2012_Cambridge|Li, 2012, pp.55-56]])
 
@@ -185,7 +184,7 @@ Li 强调这些是**文化层面**的模型（culture-level models），而非�
 
 ### 重读儒家：从批判到重新发现
 
-在哈佛燕京图书馆，Li 第一次亲自逐字阅读了《论语》、《[[Mencius|孟子]]》等儒家原著。她发现，自己在中国[[Growth|成长]]时被告知的关于[[Confucius|孔子]]的内容，与孔子本人的文字"如同昼夜之别"（like day and night）([[Argument_Li_2012_Cambridge|Li, 2012, p.9]])。
+在哈佛燕京图书馆，Li 第一次亲自逐字阅读了《论语》、《[[Mencius|孟子]]》等儒家原著。她发现，自己在中国成长时被告知的关于[[Confucius|孔子]]的内容，与孔子本人的文字"如同昼夜之别"（like day and night）([[Argument_Li_2012_Cambridge|Li, 2012, p.9]])。
 
 她开始追问：如果中国人的智力不比地球上任何人差，那为什么中国人尊崇孔子 2,500 年？为什么他被历代帝王和学者称为"万世师表"？难道在她之前活过的所有中国人都是错的——甚至愚蠢吗？([[Argument_Li_2012_Cambridge|Li, 2012, p.9]])
 

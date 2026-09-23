@@ -11,7 +11,7 @@ aliases:
 summary: "由澳大利亚莫纳什大学 Q 项目提出的研究使用理论框架，将质量使用界定为对适切研究证据的审慎参与与实施，受个体、组织与系统多层使能构件协同支持，提炼出六大实践特征并广泛应用于学校实践与跨国政策生态诊断"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 64
+theory_related_count: 62
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -35,8 +35,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Ontology]]"
   - "[[Professional Judgment]]"
-  - "[[Dialogue in Education]]"
-  - "[[Growth]]"
   - "[[Operationalization]]"
   - "[[Reliability]]"
   - "[[Paradigm]]"
@@ -97,7 +95,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Quality Use of Research Evidence Framework
@@ -179,9 +177,9 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 > - **目标明确（Purposeful）** 使用意图与实践行为高度聚焦，拥有清晰透明的推进逻辑，深受教学情境与学生特质塑造。
 > - **常态嵌入（Embedded）** 成为学校文化的内生基因，深度嵌入规划周期、日常教学与教研排程。
 > - **连接专业精神（Connected to teacher professionalism）** 确立为教师专业角色的内在期待，直接驱动自身胜任力与学校信誉。
-> - **集体参与（Collective）** 强调全员集体参与、共同所有权与互信协同，在教研共同体中实现深度[[Dialogue in Education\|对话]]。
+> - **集体参与（Collective）** 强调全员集体参与、共同所有权与互信协同，在教研共同体中实现深度对话。
 > - **依赖时间与精力投入（Time and effort dependent）** 承认深度研讨需要充足工时保障，倡导放慢节奏以换取长远加速的深层耐心。
-> - **好奇心驱动（Curiosity-driven）** 具备以探究为导向的[[Growth\|成长]]型心智，敢于质疑既有惯例，对学术新知保持求索渴望。
+> - **好奇心驱动（Curiosity-driven）** 具备以探究为导向的成长型心智，敢于质疑既有惯例，对学术新知保持求索渴望。
 
 ### 宏观与中观政策操作化矩阵
 
@@ -228,7 +226,7 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 >   > - **效能感挫伤与不划算定性** 近三分之二（61%）的教育者明确表示，由于获取与[[Translational Research\|转化研究]]耗费过多时间，导致使用研究在现实中显得“并不划算（not worthwhile）”。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, p. 193)]]
 > - **前提二** 在宏观政策与中观学校缺乏制度化审议时间与中介保障时，行动者的高主观承诺度无法转化为高质量审议，蜕化为浅层形式化或交易型工具采购。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 92–95)]]
 >   > [!evidence-grid]- 证据
->   > - **[[OECD]] 跨国政策调查** 37 个教育系统调查显示，决策者使用研究的主观承诺意愿极高（均分 4.46），但深层信任（3.19/3.42）与概念共识（3.30）严重匮乏，导致 61%–70% 的使用沦为寻找现成方案的交易型采购，深层[[Dialogue in Education\|对话]]仅占 47%，建立信任仅占 33%。
+>   > - **[[OECD]] 跨国政策调查** 37 个教育系统调查显示，决策者使用研究的主观承诺意愿极高（均分 4.46），但深层信任（3.19/3.42）与概念共识（3.30）严重匮乏，导致 61%–70% 的使用沦为寻找现成方案的交易型采购，深层对话仅占 47%，建立信任仅占 33%。
 >   > - **行政文书压垮善意** 72% 的教育者诉求在日常工作排程中内置研讨时间；中层管理者沉痛指出繁重文书考核彻底压垮了[[Practitioner Enquiry\|教师探究]]的善意。
 > - **推导** ① 个体层面的道德倡导与主观热情无法弥合制度性工时赤字；② 在缺乏专有排程与行政减负时，高质量使用发生功能性畸变，要么异化为透支教师个人业余时间的道德剥削，要么蜕化为追求速成方案的表面文章；③ 专有工时保障与减负是维持 QURE 的刚性基础设施。
 
@@ -357,7 +355,7 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 > > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]** 在[[Coding in Qualitative Research\|编码]]中发现既有实证[[Document\|文献]]极少直接测量使用质量，多仅描述使用行为，说明质量维度的经验测量仍面临严峻的操作化壁垒。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 4)]]
 >
 > > [!axis] 深思熟虑审议与科层短期政绩考核的现实冲突
-> > QURE 倡导放慢节奏以换取长远加速的审慎[[Dialogue in Education\|对话]]，但实证研究质疑科层体制是否容许这种深层实践。
+> > QURE 倡导放慢节奏以换取长远加速的审慎对话，但实证研究质疑科层体制是否容许这种深层实践。
 > >
 > > - **[[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]]** 跨国实证表明，现实中高达 61%–70% 的[[Research Utilization\|研究使用]]属于工具性与交易型技术修补，审议对话与信任建立被短期行政考核严重挤压。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 92–95)]]
 > > - **[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]]** 承认 76% 教师遭遇时间赤字，但坚持认为如果不动真碰硬划拨专有工时并削减文书负担，[[Evidence-Based Education\|循证教育]]改革将彻底沦为表面文章。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 192–195)]]

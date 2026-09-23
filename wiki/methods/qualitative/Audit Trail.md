@@ -11,7 +11,7 @@ summary: "质性研究中系统记录研究全过程证据与决策链条的结�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
+method_related_count: 39
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Meaningful Human Control]]"
   - "[[AI Agent in Education]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Constructivist Paradigm]]"
@@ -62,7 +63,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: stable
 created: 2026-06-24
-updated: 2026-09-11
+updated: 2026-09-22
 ---
 
 # Audit Trail
@@ -175,7 +176,7 @@ updated: 2026-09-11
 > **CAQDAS 自动化日志与多维超链接锚定** 计算机辅助质性数据分析软件（[[Qualitative Computer Software]]）通过将逐字稿文本与编码节点建立不可分割的动态超链接，使研究者能够实时进行双向文本检索（KWIC）与编码修订回溯。软件自动生成的编码历史记录、交叉表矩阵与备忘录关联网络，彻底改变了传统纸质卡片时代繁琐昂贵的操作瓶颈，将审计追踪内生化为质性软件的标准分析基础设施。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, pp. 559–563)]]
 
 > [!claim] Flick (2009) & 现代人机协同规程 (2026)
-> **人在回路审计追踪（HITL Audit Trail）责任** 在引入大语言模型（LLM）协助完成语料初筛、摘要生成与[[Open Coding\|初始编码]]的现代质性分析中，算法幻觉与黑箱机制对可信度提出了全新挑战。研究者必须贯彻人在回路原则（Human-in-the-loop），建立涵盖模型元数据（版本、架构、温度参数）、系统提示词演进、原始文本块（chunk ID）精准锚定与人工裁决覆盖记录的**人机协同审计追踪链条**，确保技术工具始终服务于人类研究者对生命体验的意义赋予。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, pp. 574–576)]]
+> **[[Meaningful Human Control|人在回路]]审计追踪（HITL Audit Trail）责任** 在引入大语言模型（LLM）协助完成语料初筛、摘要生成与[[Open Coding\|初始编码]]的现代质性分析中，算法幻觉与黑箱机制对可信度提出了全新挑战。研究者必须贯彻人在回路原则（Human-in-the-loop），建立涵盖模型元数据（版本、架构、温度参数）、系统提示词演进、原始文本块（chunk ID）精准锚定与人工裁决覆盖记录的**人机协同审计追踪链条**，确保技术工具始终服务于人类研究者对生命体验的意义赋予。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, pp. 574–576)]]
 
 ---
 
@@ -196,7 +197,7 @@ updated: 2026-09-11
 > - **1980s — 会计审计借用与[[Interpretive Paradigm\|自然主义探究]]奠基** Lincoln & Guba（1985）针对[[Positivism\|实证主义]]对[[Qualitative Research\|质性研究]]“缺乏客观性与可重复性”的责难，创新性地将金融财务领域的独立审计（financial audit）制度引入质性方法论，确立了以审计追踪为支柱的[[Reliability\|可依赖性]]与可确认性替代标准。
 > - **2000s — 六维档案体系确立与质性报告透明化浪潮** Onwuegbuzie & Leech（2006）系统提炼审计追踪的五大核心记录内容，Anfara et al.（2002）呼吁公开质性分析黑箱，审计追踪从哲学维度的抽象倡议转变为包含原始数据、分析备忘录与工具演变的结构化操作体系。
 > - **2010s — [[Qualitative Computer Software\|CAQDAS]] 数字化转型与超链接动态追踪** NVivo、ATLAS.ti 和 MAXQDA 等质性软件走向普及，软件将[[Coding in Qualitative Research\|编码]]树快照、语境检索与反思备忘录直接集成于数据库底层，实现了审计追踪的无缝自动化记录。
-> - **2020s 至今 — 生成式 AI 渗透与人在回路提示词审计** 随着大模型在[[Open Coding\|开放编码]]与文本缩减中的广泛应用，传统审计追踪拓展为兼顾提示词工程演变、参数配置、文本块引用行号回溯及人工复核裁决的“人在回路智能审计追踪（HITL Audit Trail）”。
+> - **2020s 至今 — 生成式 AI 渗透与[[Meaningful Human Control|人在回路]]提示词审计** 随着大模型在[[Open Coding\|开放编码]]与文本缩减中的广泛应用，传统审计追踪拓展为兼顾提示词工程演变、参数配置、文本块引用行号回溯及人工复核裁决的“人在回路智能审计追踪（HITL Audit Trail）”。
 
 ---
 
@@ -245,4 +246,4 @@ updated: 2026-09-11
 ## 相关研究
 
 > [!evidence-grid-a] 经典理论与实证[[Document\|文献]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 系统构建质性审计追踪的方法论框架，涵盖信效度体系中六大档案支柱的确立（Ch. 10）、个人[[In-depth Interview\|深度访谈]]中的决策日志与[[Transcription in Qualitative Research\|转录]]校对（Ch. 23），以及[[Content Analysis\|内容分析]] 11 步规程中[[Data Reduction\|数据缩减]]与人在回路的计算化审计追踪责任（Ch. 30）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 系统构建质性审计追踪的方法论框架，涵盖信效度体系中六大档案支柱的确立（Ch. 10）、个人[[In-depth Interview\|深度访谈]]中的决策日志与[[Transcription in Qualitative Research\|转录]]校对（Ch. 23），以及[[Content Analysis\|内容分析]] 11 步规程中[[Data Reduction\|数据缩减]]与[[Meaningful Human Control|人在回路]]的计算化审计追踪责任（Ch. 30）。

@@ -9,7 +9,7 @@ title: "Argument_Schulte_2009_EncuentrosEducacion"
 argument_key: "Argument_Schulte_2009_EncuentrosEducacion"
 argument_display_title: "The Chinese Dewey: Friend, fiend, and flagship"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 30
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -37,15 +37,14 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Hypothesis]]"
-  - "[[Growth]]"
   - "[[Scientific Method]]"
   - "[[Scientific Attitude]]"
   - "[[Quality Education]]"
   - "[[Creativity Training]]"
-  - "[[Knowledge Production]]"
   - "[[Abstract]]"
   - "[[Document]]"
-related_theories: []
+related_theories:
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Analytic Framework]]"
@@ -198,7 +197,7 @@ citation_aliases:
 
 > [!example] 为什么这是生死问题？
 
-> [[Hypothesis\|假设]]你是一个 1950 年代的中国马克思主义教育官员。你相信教育的工作就是要按照社会主义方向来改造人，培养"又红又专"的接班人。这时候杜威告诉你：儿童的[[Growth\|成长]]是一个自然过程，不应该被外部目标强行引导，教育没有预设的终点。这在马克思主义者听来，不是方法分歧，而是根本否定了教育作为意识形态工具的存在理由。如果"成长"只是生物学过程，那"培养社会主义接班人"这一整套话语就失去了理论基础。
+> [[Hypothesis\|假设]]你是一个 1950 年代的中国马克思主义教育官员。你相信教育的工作就是要按照社会主义方向来改造人，培养"又红又专"的接班人。这时候杜威告诉你：儿童的成长是一个自然过程，不应该被外部目标强行引导，教育没有预设的终点。这在马克思主义者听来，不是方法分歧，而是根本否定了教育作为意识形态工具的存在理由。如果"成长"只是生物学过程，那"培养社会主义接班人"这一整套话语就失去了理论基础。
 
 #### 靶子 2："反科学"：因为威胁了"系统知识传授是教育的核心任务"的信念
 
@@ -284,7 +283,7 @@ Jin Yuelin(1955)的论证暴露了这一焦虑的深度："我们能够认识客
 
 > **第三次变形** 从马克思主义的批判对象（1950 年代的系统攻击）变为国家治理和反新自由主义话语的盟友（2000 年代后反新自由主义的道德权威）。同一个杜威，从需要被"肃清"的阶级敌人变成了"只有社会主义才能实现他的理想"的证明。
 
-> 最终产物是"杜威"（Duwei），一个与历史上那位美国哲学家 John Dewey 有联系但已经**质变**的中国[[Knowledge Production\|知识建构]]物，一个既"红"又"专"的教育思想家(p.93)。
+> 最终产物是"杜威"（Duwei），一个与历史上那位美国哲学家 John Dewey 有联系但已经**质变**的中国[[Knowledge Building Theory|知识建构]]物，一个既"红"又"专"的教育思想家(p.93)。
 
 ---
 

@@ -9,7 +9,7 @@ summary: "一种高度系统化的观察方法，研究者预先设计观察类�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 19
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Fitness for Purpose]]"
   - "[[Halo Effect]]"
   - "[[Emergence]]"
-  - "[[Dialogue in Education]]"
   - "[[Causality]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -42,7 +41,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 status: draft
 created: 2026-07-23
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Structured Observation
@@ -165,7 +164,7 @@ Dyer（1995, pp. 181–186）提出了结构化观察设计的完整框架：
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 需要对行为频率和模式进行量化描述的研究；需要跨情境或跨群体比较行为发生率的研究；检验关于行为发生条件的明确[[Hypothesis\|假设]]；课堂互动研究（如师生[[Dialogue in Education\|对话]]类型的频率分布）。
+> - **适合使用** 需要对行为频率和模式进行量化描述的研究；需要跨情境或跨群体比较行为发生率的研究；检验关于行为发生条件的明确[[Hypothesis\|假设]]；课堂互动研究（如师生对话类型的频率分布）。
 > - **谨慎使用** 研究者对观察对象和情境尚不够了解时（类别设计可能遗漏重要行为）；行为的意义高度依赖情境脉络时；需要理解行为背后的动机、意图和主观体验时。
 > - **不适合使用** 探索性研究（此时应采用非结构化或半结构化观察）；捕捉社会互动的动态演变和长期发展过程；研究罕见或不常发生的行为。
 

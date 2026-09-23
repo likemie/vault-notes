@@ -3,7 +3,7 @@ title: Chinese Learner
 aliases:
   - 中国学习者
   - Chinese learners
-summary: "以儒家传统与实证研究为基础的学习者模型，强调向内完善自我、学习美德和贡献社会，并用于批判西方对中国学习者的刻板印象"
+summary: 以儒家传统与实证研究为基础的学习者模型，强调向内完善自我、学习美德和贡献社会，并用于批判西方对中国学习者的刻板印象
 type: concept
 domain: "chinese-philosophy"
 related_count: 46
@@ -29,7 +29,7 @@ related_concepts:
   - "[[Five Cardinal Relationships]]"
   - "[[Junzi]]"
   - "[[Sage]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Action Better Than Words]]"
   - "[[University Motto]]"
   - "[[Grice's Conversational Maxims]]"
@@ -72,7 +72,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-16
-updated: 2026-08-20
+updated: 2026-09-23
 ---
 
 # Chinese Learner
@@ -144,7 +144,7 @@ updated: 2026-08-20
 | **恒心（Perseverance）** | 维持——从头到尾不放弃 | 全过程 |
 | **专心（Concentration）** | 聚焦——每个时刻的深度投入 | 每时每刻 |
 | **尊师（Respect for Teachers）** | 接纳——对教师引导保持开放 | 关系性 |
-| **[[Humility in Learning\|谦虚]]（Humility）** | 自省——始终认为需要自我改进 | 终身 |
+| **[[Humility\|谦虚]]（Humility）** | 自省——始终认为需要自我改进 | 终身 |
 
 五种行为美德（诚心、勤奋、刻苦、恒心、专心）在实证中出现了直接的行为描述对应；两种情感美德（尊师、谦虚）出现了情感描述对应([[Argument_Li_2012_Cambridge|Li, 2012, pp.91-96]])。每项美德的文本传统、实证发现和文化认知差异详见 [[Learning Virtues]]。
 

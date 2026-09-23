@@ -9,7 +9,7 @@ aliases:
 summary: "教育科学与认知心理学构念，指旨在否定、推翻或证伪教师既有经验直觉与伪科学迷思的实证研究成果，若缺乏建设性替代方案易触发教师心理防御与专业疏离"
 type: concept
 domain: "science-communication"
-related_count: 27
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Educational Science Communication]]"
   - "[[Document]]"
-  - "[[Dialogue in Education]]"
   - "[[Paradigm]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Heterogeneity]]"
@@ -148,7 +147,7 @@ updated: 2026-09-22
 
 ### 命题三　教育科学传播需超越单一证伪批判，构建融通实证依据、情境约束与专业判断的对话共创生态
 
-> [!concept-lens] 科学传播的非线性递归[[Dialogue in Education\|对话]][[Paradigm\|范式]]
+> [!concept-lens] 科学传播的非线性递归对话[[Paradigm\|范式]]
 > 论证教育研究者需打破[[Deficit Model of Science Communication\|赤字模型]]的单向教导姿态，将反驳性证据置于与一线教师的平等双向对话中，共同协商证据在特定教学情境下的转化边界。
 
 > [!claim] [[Argument_Besa_2024_UW\|Besa, 2024]]
@@ -173,7 +172,7 @@ updated: 2026-09-22
 > - **1990s — 认知心理学异常数据响应理论** 钦与布鲁尔（Chinn & Brewer, 1993）提出学习者面对“异常与反驳性数据（Anomalous Data）”的七种心理响应模型，奠定了[[Falsification\|证伪]]性信息引发认知拒斥的微观认知基础。
 > - **2000s–2010s — 概念转变理论与反驳性文本应用** 沃斯尼亚杜（Vosniadou, 2013）等学者将概念转变框架引入科学教育，开发出“反驳性文本（Refutational Texts）”结构，证实直接对比错误观念与科学原理解释能显著提升教学效果。
 > - **2023 — 德语区教师教育反驳性证据概念化** 鲍尔与科拉尔（Bauer & Kollar, 2023）正式提出“反驳性证据（widerlegende Evidenz）”[[Construct\|构念]]，将其作为解释教师抵触[[Evidence-Based Education\|循证教育]]与坚持神经神话的关键心理[[Variable\|变量]]。
-> - **2024 — [[Educational Science Communication\|教育科学传播]][[Paradigm\|范式]]整合** 贝萨（[[Argument_Besa_2024_UW\|Besa, 2024]]）将反驳性证据深度融入教育科学传播理论，确立了“反驳性证据 + 建设性行动方案 + 双向递归[[Dialogue in Education\|对话]]”的现代中介[[Transfer Translation Transformation\|转译]]范式。
+> - **2024 — [[Educational Science Communication\|教育科学传播]][[Paradigm\|范式]]整合** 贝萨（[[Argument_Besa_2024_UW\|Besa, 2024]]）将反驳性证据深度融入教育科学传播理论，确立了“反驳性证据 + 建设性行动方案 + 双向递归对话”的现代中介[[Transfer Translation Transformation\|转译]]范式。
 
 ---
 

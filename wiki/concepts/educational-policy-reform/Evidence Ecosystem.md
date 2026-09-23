@@ -9,7 +9,7 @@ aliases:
 summary: "指由研究生产者、政策制定者、教育实践者、中介机构与资助方等多方行动者共同构成，通过评价、综合、翻译、中介动员与实践应用等多向交互与动态反馈回路，驱动研究证据协同演化的复杂自适应系统。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 90
+related_count: 91
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Engagement in and with Research]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Open-Mindedness]]"
   - "[[Emergence]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -39,7 +40,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Blue Skies Research]]"
   - "[[Formative Assessment]]"
-  - "[[Dialogue in Education]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Preregistration]]"
   - "[[Innovation Hub]]"
@@ -69,6 +69,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Analytical Stance]]"
   - "[[Implementation Fidelity]]"
+  - "[[Dialogue in Education]]"
   - "[[Knowledge Mediation]]"
 related_theories:
   - "[[COM-B Model]]"
@@ -120,7 +121,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-18
+updated: 2026-09-23
 ---
 
 # Evidence Ecosystem
@@ -150,7 +151,7 @@ updated: 2026-09-18
 > [!boundary] 概念边界
 > - 不等于 [[Knowledge Transfer\|知识转移]]（Knowledge Transfer） 知识转移预设自上而下或自外向内的单向传递；证据生态系统强调多向共创、自下而上反馈与网状共生。
 > - 不等于 [[Innovation Ecosystem\|创新生态系统]]（Innovation Ecosystem） 创新生态系统侧重产学研协同开发技术专利与商业产品；证据生态系统核心在于科学证据与公共决策及课堂教学智慧的融合互证。
-> - 不适用于 静态封闭式行政管理 证据生态系统具有开放性与[[Emergence\|涌现性]]，纯自上而下的行政命令往往会压抑一线专业反思而破坏生态活力。
+> - 不适用于 静态封闭式行政管理 证据生态系统具有[[Open-Mindedness|开放性]]与[[Emergence\|涌现性]]，纯自上而下的行政命令往往会压抑一线专业反思而破坏生态活力。
 
 ---
 
@@ -182,7 +183,7 @@ updated: 2026-09-18
 > - **证据与知识多元统筹（Evidence and Knowledge）** 承认研究证据仅是公共决策知识的一部分，必须与一线教师的实践默会知识、本土情境经验及公共政策价值展开有机融合。
 > - **协同型系统领导力（Collaborative Leadership）** 放弃自上而下的刚性行政控制命令，转向激发基层自组织活力、参与式行动反思与持续[[Formative Assessment\|形成性评估]]。
 > - **跨组织协同网络（Effective Networks）** 打破大学象牙塔与中小学的组织制度壁垒，将学校集群、高校研究团队与地方决策层编织进具有共同变革目标的协作网络中。
-> - **战略性价值沟通（Strategic Communications）** 超越简单的信息[[Transfer Translation Transformation\|转译]]与文本摘要分发，深入探寻不同群体的利益关切与深层相互依赖，在多方[[Dialogue in Education\|对话]]中达成价值共识。[[Argument_Revai_2022_ChangingLandscape\|(Best & Holmes, 2010; Révai, 2022, p. 19)]]
+> - **战略性价值沟通（Strategic Communications）** 超越简单的信息[[Transfer Translation Transformation\|转译]]与文本摘要分发，深入探寻不同群体的利益关切与深层相互依赖，在多方对话中达成价值共识。[[Argument_Revai_2022_ChangingLandscape\|(Best & Holmes, 2010; Révai, 2022, p. 19)]]
 > - **系统级使能与治理机制（System-Level Enabling Influences）** 涵盖领导层在全系统层面确立[[Research Utilization\|研究使用]]的战略优先地位（Farley-Ripple et al., 2018; EEF, 2019）、为学校循证文化与基础架构提供持续专项经费资助（Nelson & Campbell, 2019），以及建立超越下游惩戒性问责的形成性反馈与持续自我监控机制（Bannigan, 2007; Senge et al., 2012; [[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a]]）。
 
 > [!figure]- 需求拉动的证据生态系统双层嵌套拓扑模型（Figure 7.1; Gough et al., 2011, 2018, 2022, p. 148）

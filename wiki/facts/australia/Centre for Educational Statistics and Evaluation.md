@@ -10,7 +10,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[Formative Assessment]]"
   - "[[Classroom Management]]"
-  - "[[Growth]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Effective Teaching]]"
   - "[[Venture Philanthropy]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Centre for Educational Statistics and Evaluation
@@ -83,7 +82,7 @@ updated: 2026-09-18
 > [!actor-grid] 组织治理架构
 > - **领导层与行政归属** 隶属于新南威尔士州教育部教育与早期儿童副总干事管辖，由执行主任（Executive Director）直接领导。
 > - **常设业务部门**
->   - **数据分析与报告处** 负责 NAPLAN 数据建模、学生[[Growth\|成长]]轨迹增益分析与学校统计报表生成。
+>   - **数据分析与报告处** 负责 NAPLAN 数据建模、学生成长轨迹增益分析与学校统计报表生成。
 >   - **循证评估与研究处** 独立开展全州重点教育改革干预项目的准实验与[[Mixed Methods Research\|混合方法]]效果评估。
 >   - **循证实践转化处** 负责将复杂的统计学术报告[[Transfer Translation Transformation\|转译]]为一线教师可操作的教学指南与工具包。
 

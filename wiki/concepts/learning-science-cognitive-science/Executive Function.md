@@ -5,7 +5,7 @@ aliases:
 summary: "一组用于目标导向控制的高阶通用认知调控过程，包含抑制控制、任务转换与工作记忆更新三大核心成分；不仅稳健预测学业成就与高阶思维（创造力与批判性思维），更构成了科学探究推理与概念转变的微观神经认知调控基石。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 44
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Metacognition]]"
   - "[[Feedback]]"
-  - "[[Growth]]"
   - "[[Hypothesis]]"
   - "[[Document]]"
   - "[[Cognitive Inhibition]]"
@@ -93,7 +92,7 @@ updated: 2026-09-22
 > [!boundary]- 概念边界
 > - **不等于 [[Working Memory\|工作记忆]]** 工作记忆主要指信息的即时暂存与在线加工空间；而执行功能是更广泛的调控系统，工作记忆更新仅为其三大核心成分之一，与抑制控制和认知灵活性协同运作。
 > - **不等于 普通智力（General Intelligence / IQ）** 智力测验聚焦知识提取速度与抽象逻辑推理的综合常模表现；而执行功能重在面对冲突任务时的自我抑制、抗干扰与灵活换轨能力。[[Longitudinal Study\|纵向研究]]证实执行功能对学业成就变异的预测显著独立于且优于 IQ。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, pp. 4–5)]]
-> - **不适用于 自动化低阶操作** 当技能经由过度练习形[[Growth\|成长]]时记忆中的自动化图式时，无需占用执行功能资源；过度依赖意识层面的执行控制反而会破坏操作的流畅度。
+> - **不适用于 自动化低阶操作** 当技能经由过度练习形成长时记忆中的自动化图式时，无需占用执行功能资源；过度依赖意识层面的执行控制反而会破坏操作的流畅度。
 
 ---
 

@@ -21,16 +21,15 @@ tags:
 related_concepts:
   - "[[Metacognition]]"
   - "[[Received Knowledge]]"
-  - "[[Knowledge Production]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Cognitive Offloading]]"
-  - "[[Dialogue in Education]]"
   - "[[Direct Instruction]]"
   - "[[Interaction Effect]]"
   - "[[Structured Teaching]]"
   - "[[Peer-Supported Learning]]"
   - "[[Reflexivity]]"
   - "[[Scaffolding]]"
+  - "[[Dialogue in Education]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Self-Efficacy]]"
@@ -50,6 +49,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Knowledge Questions]]"
 related_theories:
+  - "[[Knowledge Building Theory]]"
   - "[[Radical Constructivism]]"
 related_methods:
   - "[[Factorial Design]]"
@@ -90,12 +90,12 @@ updated: 2026-09-17
 > 学习者自主性（Learner Autonomy）指学习者在明确目标与系统支架支持下，对自身学习过程主动承担责任、进行批判性反思与[[Metacognition\|元认知]]监控的能力与意愿。Holec（1988）最早将其奠基性地定义为“掌控自身学习的能力”（taking charge of one\x27s own learning）；Dam（1995）进一步补充了“准备度（Readiness）”维度——自主性既包含独立行动及在社会协作中行动的实际技能（Capacity），亦包含持续的内在动机与探索意愿（Willingness）。在当代因果现场试验中，自主学习被重新确认为需与教师支架解耦分析的特定教学机制，其有效性高度依存于外部支架与学生自我调节水平的动态匹配。[[Argument_Lakhani_2012_AKUIED\|(Lakhani, 2012, pp. 177–178)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 学习者自主性标志着学习者从被动[[Received Knowledge\|接收知识]]转向主动驾驭[[Knowledge Production\|知识建构]]过程，涵盖自主设定目标、选择策略、反思进度与评估成效。它并非脱离环境的绝对独白，而是在社会互动中达成的有支持的独立（Supported Independence）。
+> - **含义** 学习者自主性标志着学习者从被动[[Received Knowledge\|接收知识]]转向主动驾驭[[Knowledge Building Theory|知识建构]]过程，涵盖自主设定目标、选择策略、反思进度与评估成效。它并非脱离环境的绝对独白，而是在社会互动中达成的有支持的独立（Supported Independence）。
 > - **用途** 在课程与教学论中作为评估教育方案是否真正促成[[Higher-Order Thinking Skills\|高阶思维]]养成的金标尺；在教育技术评估与因果现场试验中，作为检验在线软件独立自学与教师课堂辅导相对贡献的干预维度。
 > - **边界** 自主性绝不等于放任自流的“去结构化个别化学习（Unguided Individualisation）”，亦非单打独斗的孤立封闭自习。缺乏认知技能与元认知监控的表面自由，极易诱发认知过载或[[Cognitive Offloading\|认知卸载]]。
 
 > [!citation-card] 自主性的相互依存性（Little, 1991; Atkins, 2009）
-> 学习者的自主性绝不意味着孤立排他的个人主义自学。即便学习者独立解读个人经验，这些经验依然深深扎根于社会文化网络中；真正的自主唯有在与教师、同伴的持续[[Dialogue in Education\|对话]]与反思互动中方能生成。自主性在本质上是一种相互依存的实践状态。[[Argument_Lakhani_2012_AKUIED\|(Lakhani, 2012, p. 178)]]
+> 学习者的自主性绝不意味着孤立排他的个人主义自学。即便学习者独立解读个人经验，这些经验依然深深扎根于社会文化网络中；真正的自主唯有在与教师、同伴的持续对话与反思互动中方能生成。自主性在本质上是一种相互依存的实践状态。[[Argument_Lakhani_2012_AKUIED\|(Lakhani, 2012, p. 178)]]
 >
 > *“Learner autonomy is not synonymous with self-instruction or isolated learning... Even as learners independently interpret experiences, these remain rooted in social interactions. It represents an autonomous interdependence.”*
 
@@ -105,7 +105,7 @@ updated: 2026-09-17
 > *“In factorial evaluations like ABRA, evaluators separated the independent and interaction effects of pupil-led autonomous learning via educational technology from teacher-led [[Structured Teaching\|structured instruction]]... unpicking the black box of multi-component interventions.”*
 
 > [!boundary]- 概念边界辨析
-> - **不等于完全孤立自学（Isolated Self-Study）** 孤立自学缺乏社会交往与外部参照；学习者自主性强调在社会文化情境中通过师生[[Dialogue in Education\|对话]]、[[Peer-Supported Learning\|同伴互助]]反思达成“自主的相互依存（Autonomous Interdependence）”。
+> - **不等于完全孤立自学（Isolated Self-Study）** 孤立自学缺乏社会交往与外部参照；学习者自主性强调在社会文化情境中通过师生对话、[[Peer-Supported Learning\|同伴互助]]反思达成“自主的相互依存（Autonomous Interdependence）”。
 > - **不等于缺乏支架的放任个别化（Unguided Individualisation）** 瑞典教育改革教训表明（[[Argument_Håkansson_2015_TT\|Håkansson, 2015a]]），如果仅将课堂时间全盘交给学生自学排期而剥夺教师的结构化领导，基础薄弱学童将陷入“迷失”与成绩暴跌。
 > - **不等于机械的算法软件刷题（Automated Drill）** 仅遵照自适应学习机程序机械完成关卡任务属于行为主义的受控反应，并不具备主动设定探究假说、批判反思意义与[[Reflexivity\|反身性]]调节的高阶自主性。
 
@@ -196,7 +196,7 @@ updated: 2026-09-17
 
 > [!dev-timeline] 学习者自主性概念演进脉络
 > - **1970s–1980s — 欧洲成人与应用语言学奠基** 法国南锡大学 CRAPEL 中心（Holec, 1981）首次系统提出自主学习理论，旨在打破传统以教师为中心的语言灌输，确立学习者自我规划、执行与评估的主体地位。
-> - **1990s — 课堂反思、[[Metacognition\|元认知]]与社会相互依存转向** Little (1991) 与 Dam (1995) 丰富了自主性的理论内涵，指出自主性并非个人主义的孤独学习，而是建立在内部反思、元认知自评与同伴[[Dialogue in Education\|对话]]互动之上的“相互依存的自主”。
+> - **1990s — 课堂反思、[[Metacognition\|元认知]]与社会相互依存转向** Little (1991) 与 Dam (1995) 丰富了自主性的理论内涵，指出自主性并非个人主义的孤独学习，而是建立在内部反思、元认知自评与同伴对话互动之上的“相互依存的自主”。
 > - **2010s — [[International Baccalaureate\|国际文凭]]（IB）跨学科素养与[[Epistemology\|认识论]]深化** [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]] 与 [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] 将自主性拓展为现代教育的[[21st Century Skills and Competencies Discourse\|核心素养]]，依托 IB [[Theory of Knowledge\|知识论]]（TOK）课程揭示认识论严谨性与元认知自信对培养自主思考者的决定性价值。
 > - **2018 — 大规模现场因果试验对自主学习的实证解构** [[Education Endowment Foundation\|EEF]] 在全英小学开展 ABRA 在线阅读多臂集群 [[Randomised Controlled Trials\|RCT]]（McNally et al., 2018; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]），运用[[Factorial Design\|析因设计]]将技术软件支持的自主学习与教师课堂辅导进行实验性剥离，终结了对自主学习的抽象哲学清谈。
 > - **2020s — 智能[[Technology Infusion\|技术整合]]与认识论自主（Epistemic Autonomy）** 伴随生成式 AI 普及，自主性研究转向探讨如何在算法便利诱惑下维持[[Epistemological Vigilance\|认识论警觉]]，防范[[Cognitive Offloading\|认知卸载]]，构建自适应专业特长（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）。
@@ -210,13 +210,13 @@ updated: 2026-09-17
 > > [!axis] 激进自由自主 vs 动态支架渐退指导
 > > [[Radical Constructivism\|激进建构主义]]主张最大程度撤除教师干预以实现真正的学生自决；教学论与认知负荷学者则指出无指导的自由在现实田野中必定导致灾难。
 > >
-> > - **[[Constructivist Paradigm\|建构主义]]主张** 强调认知不平衡与自主探索是[[Knowledge Production\|知识建构]]的唯一动力（Moon, 2008）。
+> > - **[[Constructivist Paradigm\|建构主义]]主张** 强调认知不平衡与自主探索是[[Knowledge Building Theory|知识建构]]的唯一动力（Moon, 2008）。
 > > - **实证证据反驳** 瑞典大规模改革教训（[[Argument_Håkansson_2015_TT\|Håkansson, 2015a]]）表明，教师必须在前置阶段提供高强度的结构化目标与示范，随素养提升逐步撤回支架，方能平稳孕育实质自主。
 >
 > > [!axis] 个体自决主权 vs 社会情境相互依存
 > > 早期认知派倾向将自主性视为个体头脑内部的孤立意志；社会文化派则强调自主性是特定社群互动的产物。
 > >
-> > - **Atkins (2009) 与 Little (2007)** 提出“自主的相互依存性”，证明即使是最私密的独立阅读与思考，其反思尺度与意义赋予依然依存于课堂[[Dialogue in Education\|对话]]与公共批判共同体。
+> > - **Atkins (2009) 与 Little (2007)** 提出“自主的相互依存性”，证明即使是最私密的独立阅读与思考，其反思尺度与意义赋予依然依存于课堂对话与公共批判共同体。
 >
 > > [!axis] 技术工具自主神话 vs 教师人际引领不可替代论
 > > 技术乌托邦主义宣称自适应算法软件可完全替代教师、实现百分之百的个性化自主学习；循证因果评估则证明了软件的边界。

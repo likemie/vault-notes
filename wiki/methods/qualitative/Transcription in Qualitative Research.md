@@ -10,7 +10,7 @@ summary: "将口头访谈、人机交互有声思维或对话记录转换为书�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 26
+method_related_count: 25
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Research Question]]"
   - "[[Epistemic Responsibility]]"
-  - "[[Dialogue in Education]]"
   - "[[Reliability]]"
   - "[[Theoretical Perspective]]"
   - "[[Epistemology]]"
@@ -77,7 +76,7 @@ updated: 2026-09-22
 > - **言语内容（Verbatim Content）** 准确记录字面词汇、短语、重复表述与自我修正。
 > - **副语言特征（Paralinguistic Cues）** 语调（严厉、温和）、抑扬顿挫（升调疑问、降调肯定）、重音强调、停顿长短与沉默时刻。
 > - **情绪与心理状态（Emotional Affect）** 兴奋、焦虑、犹豫、挫败、叹息或苦笑等微表情与发音张力。
-> - **言语交互动态（Interaction Dynamics）** 打断、插话、重叠发言（Overlap / Together）、[[Dialogue in Education\|对话]]朝向（Who speaks to whom）。
+> - **言语交互动态（Interaction Dynamics）** 打断、插话、重叠发言（Overlap / Together）、对话朝向（Who speaks to whom）。
 > - **情境与人机多模态事件（Multimodal Context）** 录音录像期间的伴随动作（如手势指向、视线转移）、屏幕点击、提示词输入与大模型生成等待延迟。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|(Cohen et al., 2011, p. 447)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 363)]]
 
 ---
@@ -112,7 +111,7 @@ updated: 2026-09-22
 > 探讨大模型与语音识别工具（ASR）在加速质性数据处理的同时带来的算法风险与质量控制要求。
 
 > [!claim] Wu et al.
-> **算法辅助转录与研究者[[Epistemic Responsibility\|认识论责任]]守持** 现代基于深度学习的自动语音识别技术（如 Whisper 及大语言模型转写管道）能够极速生成初稿，将传统转录的人力时间成本缩减 80% 以上。然而，大模型在处理专业术语、口音、断句语气词及多人重叠[[Dialogue in Education\|对话]]时存在固有的“语义平滑”与算法幻觉倾向（可能自动脑补修饰受访者的语法或改换专有名词）。研究者必须维持高度的[[Epistemic Responsibility\|认识论责任]]，通过“多模态视听回溯+人工逐字校验”建立质性数据质量闭环，确保转录文本对原始探究情境的高保真还原。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–364)]]
+> **算法辅助转录与研究者[[Epistemic Responsibility\|认识论责任]]守持** 现代基于深度学习的自动语音识别技术（如 Whisper 及大语言模型转写管道）能够极速生成初稿，将传统转录的人力时间成本缩减 80% 以上。然而，大模型在处理专业术语、口音、断句语气词及多人重叠对话时存在固有的“语义平滑”与算法幻觉倾向（可能自动脑补修饰受访者的语法或改换专有名词）。研究者必须维持高度的[[Epistemic Responsibility\|认识论责任]]，通过“多模态视听回溯+人工逐字校验”建立质性数据质量闭环，确保转录文本对原始探究情境的高保真还原。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–364)]]
 
 ---
 
@@ -167,7 +166,7 @@ updated: 2026-09-22
 >   在[[School Leadership\|学校领导力]]变革研究中，研究者不仅转录教师访谈的字面内容，更细致标记了谈及绩效评估时的沉默停顿与苦笑，从而揭示出[[Questionnaire\|问卷]]中无法体现的隐性制度焦虑。
 > - **人机共生探究中的有声思维多模态转录（[[Argument_Wu_2025_ER\|Wu et al., 2025]]）**
 >   在师范生利用 ChatGPT 进行统计推论的人机交互研究中，研究者同步捕获学生的“边想边说”（Think-Aloud）音频与屏幕交互行为。通过将口语转录文本（如遇到 AI 生成公式时的疑惑叹气）与学生提示词修改动作进行毫秒级对齐转录，精准还原了学习者从绝对主义盲从向评价主义审问演进的动态认知轨迹。
-> - **人机协同[[Scientific Explanation|科学解释]]中的多模态[[Dialogue in Education|对话]]与提示词日志转录（[[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez, 2026]]）**
+> - **人机协同[[Scientific Explanation|科学解释]]中的多模态对话与提示词日志转录（[[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez, 2026]]）**
 >   在高中生利用生成式 AI 协同建构科学解释的研究中，研究者同步采集课堂实时录音录像、AI 对话日志与学生最终修订文本。转录过程严格遵循逐字原则（Verbatim Transcription），完整保留学生的语气停顿、重复、疑惑发问与同伴争议，并与 AI 生成时间戳及提示词修改记录对齐，为后续开展[[Multimodal Discourse Analysis|多模态话语分析]]和[[Epistemological Vigilance|认识论警觉]]水平[[Coding in Qualitative Research|编码]]奠定了高保真数据基础。
 
 ---
@@ -175,6 +174,6 @@ updated: 2026-09-22
 ## 相关研究
 
 > [!evidence-grid-a] [[Qualitative Research\|质性研究]]与方法索引
-> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 结合课堂音视频与 [[Generative Artificial Intelligence|GenAI]] [[Dialogue in Education|对话]]日志开展高精度逐字转录与时间戳对齐，为[[Multimodal Discourse Analysis|多模态话语分析]]与人机协同解释的[[Epistemology|认识论]]审验提供经验证据。
+> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 结合课堂音视频与 [[Generative Artificial Intelligence|GenAI]] 对话日志开展高精度逐字转录与时间戳对齐，为[[Multimodal Discourse Analysis|多模态话语分析]]与人机协同解释的[[Epistemology|认识论]]审验提供经验证据。
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 在生成式 AI 学习实验中实施高精度多模态有声思维转录，结合屏幕日志与音频回溯系统[[Coding in Qualitative Research\|编码]]学习者的[[Epistemic Stances\|认识立场]]演变与[[Cognitive Offloading\|认知卸载]]行为。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011, Ch. 21 & Ch. 28)]] — 详述[[Qualitative Interview\|质性访谈]]转录作为理论性选择转换的[[Epistemology\|认识论]]本质（第 21 章），以及质性数据准备中的转录规范与管理操作规程（第 28 章）。

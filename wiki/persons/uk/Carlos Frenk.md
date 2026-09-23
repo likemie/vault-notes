@@ -8,7 +8,7 @@ summary: "英国计算天体物理学家、杜伦大学奥格登基础物理学�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 7
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -21,7 +21,6 @@ tags:
   - field/science-communication
   - theme/public-engagement
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Scientific Literacy]]"
   - "[[Public Engagement with Science]]"
 related_persons:
@@ -34,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-09-11
+updated: 2026-09-22
 ---
 
 # Carlos Frenk
@@ -75,7 +74,7 @@ updated: 2026-09-11
 ## 核心思想
 
 > [!claim] 核心主张
-> 科学参与不仅是提升公众科学知识的手段，更是公众行使知情权与参与社会决策的民主权利。科学家及其支持机构必须承担起知识分享的主体责任。面对从 1985 年每年 50 万篇激增至 2020 年代每年超过 330 万篇的科学论文出版量，以及数字网络信息环境下的注意力竞争，科学界面临的不仅是传播渠道更新，更是重建公众信任与维护理性[[Dialogue in Education\|对话]]的系统性工程。
+> 科学参与不仅是提升公众科学知识的手段，更是公众行使知情权与参与社会决策的民主权利。科学家及其支持机构必须承担起知识分享的主体责任。面对从 1985 年每年 50 万篇激增至 2020 年代每年超过 330 万篇的科学论文出版量，以及数字网络信息环境下的注意力竞争，科学界面临的不仅是传播渠道更新，更是重建公众信任与维护理性对话的系统性工程。
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "质性研究与扎根理论中探索、理解与理论建构的统摄性轴心概念，在研究设计中界定单一研究聚焦点，在主轴与选择性编码中作为具备最大解释力的核心范畴统摄全部因果机制与故事线。"
 type: concept
 domain: "research-methodology"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Nondirectional Language]]"
   - "[[Emergence]]"
+  - "[[Open-Mindedness]]"
   - "[[Reflexivity]]"
   - "[[Research Question]]"
   - "[[Hypothesis]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-31
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Central Phenomenon
@@ -173,7 +174,7 @@ flowchart TD
 > | 命题类型 | 核心理论判定 | 方法论机制 | 代表学者与[[Document\|文献]]出处 |
 > |---|---|---|---|
 > | **最大解释力命题** | 扎根理论的理论整合必须收敛于一个具有最大解释潜力的核心范畴，方能建构高密度实质理论 | 范畴系统整合、故事线聚合、概念饱和度 | Strauss (1987, p. 11); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 561)]] |
-> | **非方向性[[Emergence\|涌现]]命题** | 核心现象的语言表述必须摒弃方向性价值预设，以确保经验材料的开放性生成与真实性呈现 | 非方向性法则、开放性探索动词脚本 | McCracken (1988); [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, p. 126)]] |
+> | **非方向性[[Emergence\|涌现]]命题** | 核心现象的语言表述必须摒弃方向性价值预设，以确保经验材料的[[Open-Mindedness\|开放性]]生成与真实性呈现 | 非方向性法则、开放性探索动词脚本 | McCracken (1988); [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, p. 126)]] |
 > | **轴心拓扑整合命题** | 核心现象在主轴编码中充当引力中心，将条件、脉络、策略与结果结构化为有机因果网络 | 六要素范式模型、因果拓扑映射 | Strauss & Corbin (1990, p. 96); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 562)]] |
 
 ---

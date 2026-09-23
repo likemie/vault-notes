@@ -39,14 +39,13 @@ related_concepts:
   - "[[Divergent Thinking]]"
   - "[[Didaktik]]"
   - "[[Positivism]]"
-  - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Productive Failure]]"
   - "[[Control of Variables Strategy]]"
   - "[[Procedural Knowledge]]"
   - "[[Effective Teaching]]"
   - "[[Scientific Explanation]]"
-  - "[[Dialogue in Education]]"
+  - "[[Open-Mindedness]]"
   - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
@@ -55,6 +54,7 @@ related_concepts:
   - "[[Infusion Approach]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Direct Instruction
@@ -200,7 +200,7 @@ updated: 2026-09-22
 ### 命题四　直接教学在长效保持与概念迁移上面临瓶颈，其最大效能依赖于与探究实践的时序协同
 
 > [!concept-lens] 教学时序与概念深层内化
-> 探讨直接教学与学生探究在[[Knowledge Production\|知识建构]]不同阶段的功能分工，反思脱离探究练习的单一直接教学在长周期保持上的局限。
+> 探讨直接教学与学生探究在[[Knowledge Building Theory|知识建构]]不同阶段的功能分工，反思脱离探究练习的单一直接教学在长周期保持上的局限。
 
 > [!claim] De Jong et al.
 > **长效保持中单一讲授的脆弱性与探究时序互补** 单一的直接教学尽管能减少学习初期的错误并提高即时测验成绩，但在缺乏持续主动探究和情境化练习的情况下，无法促成知识的长效保持与向新情境的远迁移。直接教学与[[Inquiry-Based Learning\|探究式学习]]并非非此即彼的对立[[Paradigm\|范式]]：直接教学可作为探究的前置知识铺垫、探究过程中的即时解释支架，或置于自主探索引发认知冲突之后的概念澄清环节（如[[Productive Failure\|生产性失败]]），二者的时序融合才能达成深度学习。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 8–10)]]
@@ -254,8 +254,8 @@ updated: 2026-09-22
 > > - **学习科学派（De Jong, Hmelo-Silver, Chinn）** 批驳直接教学绝对优越论，指出直接教学对于抽象概念理解与长效保持具有天然局限，必须将其作为支架有机嵌入探究进程。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 8–10)]]
 
 > [!warning] 适用局限
-> - **[[Procedural Skill\|程序性技能]]适用，发散性探究受限** 在良构知识、计算规则与初学者入门阶段效能极高，但在艺术创作、哲学思辨与开放性科研探究中边际收益递减。
-> - **不可孤立用于[[Higher-Order Thinking Skills\|高阶思维]]** [[Critical Thinking\|批判性思维]]与高阶[[Problem Solving\|问题解决]]必须依赖显性教学 + 学科探究 + [[Dialogue in Education\|对话]]导师的混合模式方能实现跨情境迁移。
+> - **[[Procedural Skill\|程序性技能]]适用，发散性探究受限** 在良构知识、计算规则与初学者入门阶段效能极高，但在艺术创作、哲学思辨与[[Open-Mindedness|开放性]]科研探究中边际收益递减。
+> - **不可孤立用于[[Higher-Order Thinking Skills\|高阶思维]]** [[Critical Thinking\|批判性思维]]与高阶[[Problem Solving\|问题解决]]必须依赖显性教学 + 学科探究 + 对话导师的混合模式方能实现跨情境迁移。
 > - **长效保持脆弱** 若缺乏情境化实践与探究演练，直接讲授习得的规则在长周期[[Pre-test and Post-test\|后测]]中容易发生严重衰减。
 
 ---

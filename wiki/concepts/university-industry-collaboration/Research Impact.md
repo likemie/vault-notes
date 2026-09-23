@@ -10,7 +10,7 @@ aliases:
 summary: "指优秀学术研究对学术共同体之外的经济、社会、公共政策、医疗健康、文化、教育及生态环境等领域所产生的可证实、可测度的实质性积极贡献与变革；在循证教育中涵盖中间过程产出、使用者行为变革与最终受益人成效三层评价阶梯"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 33
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Citizen Science]]"
   - "[[Public Engagement with Science]]"
-  - "[[Dialogue in Education]]"
   - "[[School Leadership]]"
   - "[[Output-Oriented Governance]]"
   - "[[Research Literacy]]"
@@ -64,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Research Impact
@@ -108,7 +107,7 @@ updated: 2026-09-18
 > - **多元化实现路径（Pluralistic Impact Pathways）**
 >   科研成果向社会效益的转化不拘泥于单一途径，涵盖医疗健康指南革新、环境监管政策修订、工业制造效率提升、[[Citizen Science\|公民科学]]素养培育与地方文化繁荣等多维场景。
 > - **[[Public Engagement with Science\|公众科学参与]]的催化通道（Public Engagement as Catalyst）**
->   公众科学参与不仅是展示成果的渠道，更是连接科学共同体与外部利益相关者的核心转化中枢；双向[[Dialogue in Education\|对话]]与上游共创能够大幅缩短知识转化阻力，催生深远且持久的社会影响。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
+>   公众科学参与不仅是展示成果的渠道，更是连接科学共同体与外部利益相关者的核心转化中枢；双向对话与上游共创能够大幅缩短知识转化阻力，催生深远且持久的社会影响。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
 > - **科研影响力评估的三层进阶阶梯（Three Tiers of Impact Evaluation）**
 >   将科研影响力的度量自下而上划分为三个相互嵌套的因果层级（Levin, 2011; Gough et al., 2018; [[Argument_Torres_2022_BarriersMechanisms\|Torres, 2022a, pp. 117–118]]）：
 >   1. **最终受益人群体成效（Ultimate Beneficiary Outcomes）** 处于因果链顶端，指学生学业进展、身心健康、教育公平与长远福祉等最终受益人层面的实质性积极改变，因果链漫长且极难直接归因；
@@ -148,7 +147,7 @@ updated: 2026-09-18
 ### 命题一　公众科学参与是催化广泛社会影响的核心路径但面临制度性归因困境
 
 > [!concept-lens] 参与路径与归因张力
-> 公众参与构成了科学成果转化为社会福祉不可或缺的实践桥梁，但由于公众[[Dialogue in Education\|对话]]所促成的观念转变与信任构建具有弥散性与长周期性，导致其在严格量化审计的评价体制中极易遭遇证明困难。
+> 公众参与构成了科学成果转化为社会福祉不可或缺的实践桥梁，但由于公众对话所促成的观念转变与信任构建具有弥散性与长周期性，导致其在严格量化审计的评价体制中极易遭遇证明困难。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026, Ch. 6)]]
 > **双向参与作为影响引擎及其长周期弥散特性** 在英国科研卓越框架（REF 2014 与 REF 2021）中，全英约 50% 的提交影响力案例明确依托[[Public Engagement with Science\|公众科学参与]]作为关键路径；然而，展现公众参与带来的社会影响极具挑战性，因其涉及微妙、分散且跨越漫长时间维度的认知与文化转变，因果链条难以进行简单线性归因，导致高校在申报此类案例时存在顾虑。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
@@ -212,7 +211,7 @@ updated: 2026-09-18
 
 > [!tension] 科研影响力评估的双元利益导向冲突
 > - **技术商业化导向（蓝方）** 强调专利授权、[[Technology Transfer\|技术转让]]与企业衍生公司所带来的立竿见影的量化财政回报与经济增长。
-> - **公共价值与社会参与导向（红方）** 强调深层社会信任、[[Citizen Science\|公民科学]]素养提升与前瞻伦理[[Dialogue in Education\|对话]]，认为其虽见效缓慢且难以线性度量，却是维系科学社会存续的基石。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
+> - **公共价值与社会参与导向（红方）** 强调深层社会信任、[[Citizen Science\|公民科学]]素养提升与前瞻伦理对话，认为其虽见效缓慢且难以线性度量，却是维系科学社会存续的基石。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
 
 > [!warning] 适用局限
 > 科研影响力概念容易导致将学术研究的价值狭隘化为短期功利效益；若对[[Blue Skies Research\|基础研究]]强行套用线性因果归因指标，可能严重扼杀自由探索类研究（Blue Skies Research），且忽视了科学思想在历史长河中渐进、跨学科渗透的非线性规律。

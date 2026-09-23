@@ -9,7 +9,7 @@ title: "Argument_Wrigley_2018_BERJ"
 argument_key: "Argument_Wrigley_2018_BERJ"
 argument_display_title: "The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376"
 argument_kind: "journal-article"
-argument_related_count: 48
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[School Leadership]]"
   - "[[Student-Teacher Relationship]]"
-  - "[[Growth]]"
   - "[[Critique of Meta-analysis]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
@@ -192,7 +191,7 @@ citation_aliases:
 > > | **对照组条件** | 对照组作为基准线 | 未说明对照组是否接受培训、上课人数等具体情境 |
 
 > [!warrant]- 推理桥梁：开放系统与休谟因果观的局限
-> 统计方法默认了休谟式的因果观，即 [[Causality\|因果关系]]等于观察到的恒常规则性（即 X 发生则 Y 发生）。然而批判实在论指出，社会场景是高度复杂的开放系统，同样的因果机制（如某种教学法）在不同的背景（学校文化、[[Student-Teacher Relationship\|师生关系]]、学生的个人背景与[[Growth\|成长]]经历）下会产生完全不同的结果。这解释了为什么不能简单地把特定试验的“效应量”直接推广为放之四海而皆准的“黄金标准”。
+> 统计方法默认了休谟式的因果观，即 [[Causality\|因果关系]]等于观察到的恒常规则性（即 X 发生则 Y 发生）。然而批判实在论指出，社会场景是高度复杂的开放系统，同样的因果机制（如某种教学法）在不同的背景（学校文化、[[Student-Teacher Relationship\|师生关系]]、学生的个人背景与成长经历）下会产生完全不同的结果。这解释了为什么不能简单地把特定试验的“效应量”直接推广为放之四海而皆准的“黄金标准”。
 
 ---
 

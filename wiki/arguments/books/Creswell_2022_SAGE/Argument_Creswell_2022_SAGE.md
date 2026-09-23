@@ -90,6 +90,7 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Descriptive Research Question]]"
   - "[[Paradigm]]"
+  - "[[Open-Mindedness]]"
   - "[[STEM Education]]"
   - "[[Study Population and Sample]]"
   - "[[Epistemic Aims]]"
@@ -115,7 +116,6 @@ related_concepts:
   - "[[Qualitative Reliability]]"
   - "[[Rich and Thick Description]]"
   - "[[Qualitative Generalization]]"
-  - "[[Dialogue in Education]]"
   - "[[Outcomes-based Education]]"
 related_theories:
   - "[[Social Justice Theory]]"
@@ -1070,7 +1070,7 @@ Script 是一种填空式模板工具，将质性目的陈述的所有要素串�
 | [[Case Study\|案例研究]] | 可包含对案例的描述及研究涌现的主题 | Yin (2009, 2014) |
 | [[Narrative Research\|叙事研究]] | 报告或反思故事 | Clandinin & Connelly (2000) |
 
-质性研究问题的九条写作指南：① 提出一至两个核心问题；② 辅以五至七个子问题；③ 关联特定质性路径；④ 以 what 或 how 开头（why 暗示因果解释思维，属于量化[[Paradigm|范式]]）；⑤ 聚焦单一核心现象；⑥ 使用探索性动词（report/reflect, describe the essence, discover/generate, seek to understand, explore, describe the themes）；⑦ 预计问题会演变；⑧ 使用开放性问题，不引用文献或理论；⑨ 指定参与者和研究场所。
+质性研究问题的九条写作指南：① 提出一至两个核心问题；② 辅以五至七个子问题；③ 关联特定质性路径；④ 以 what 或 how 开头（why 暗示因果解释思维，属于量化[[Paradigm|范式]]）；⑤ 聚焦单一核心现象；⑥ 使用探索性动词（report/reflect, describe the essence, discover/generate, seek to understand, explore, describe the themes）；⑦ 预计问题会演变；⑧ 使用[[Open-Mindedness|开放性]]问题，不引用文献或理论；⑨ 指定参与者和研究场所。
 
 > [!quote]
 > “要预见到研究问题在研究期间会演变和改变。在质性研究中，问题往往处于持续的审查和重新构思之中（正如在扎根理论研究中那样）。对于习惯于量化设计的个体来说，这种方法可能会造成困扰，因为在量化设计中，研究问题保持固定并在整个研究过程中从不改变。”
@@ -1569,7 +1569,7 @@ Creswell 在此做了一个关键的层次区分：内部效度与外部效度�
 
 **第八步：写作策略。** 质性报告的基本程序是从数据中发展描述和主题，呈现多重视角和详细描述。
 > [!tip]- 六种写作策略
-> (1) 引语；(2) [[Dialogue in Education\|对话]]；(3) 多样化叙事形式（矩阵、比较表、图表）；(4) 第一人称代词；(5) 隐喻和类比；(6) 与特定策略相关的叙事形式(p.216)。
+> (1) 引语；(2) 对话；(3) 多样化叙事形式（矩阵、比较表、图表）；(4) 第一人称代词；(5) 隐喻和类比；(6) 与特定策略相关的叙事形式(p.216)。
 
 ---
 

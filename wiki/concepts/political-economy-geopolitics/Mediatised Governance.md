@@ -8,7 +8,7 @@ aliases:
 summary: "一种由政治迫切性与媒介逻辑共同驱动的治理形态，指出政策行动者与大众媒体通过选择性建构危机叙事并规避具体方案审视，使全球评估数据转化为推动本土激进改革的合法化工具"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Performance Pay]]"
   - "[[Rote Learning]]"
   - "[[Screening Off]]"
-  - "[[Dialogue in Education]]"
   - "[[Governing by Numbers]]"
   - "[[Going Native]]"
   - "[[Data Literacy]]"
@@ -55,7 +54,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Mediatised Governance
@@ -193,7 +192,7 @@ updated: 2026-09-18
 
 ## 争议与批评
 
-> [!debates] 学术争议与理论[[Dialogue in Education\|对话]]
+> [!debates] 学术争议与理论对话
 >
 > > [!axis] 全球[[Convergence Theory in Comparative Education\|趋同论]] vs. 本土媒介化治理论
 > > 超国家教育治理究竟是导致了各国政策的同质化收敛，还是仅仅提供了可被本土语境随意剪裁的象征性修辞。

@@ -8,7 +8,7 @@ summary: "德国社会学家，社会系统理论创始人；提出自创生系�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 37
+person_related_count: 36
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -42,7 +42,6 @@ related_concepts:
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Evidence-Based Education]]"
   - "[[Creativity]]"
-  - "[[Dialogue in Education]]"
   - "[[Technical Rationality]]"
   - "[[Conatus]]"
 related_theories:
@@ -67,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Niklas Luhmann
@@ -163,7 +162,7 @@ updated: 2026-09-18
 > - **理论渊源／师承** 帕森斯（Talcott Parsons） — 现代结构功能主义系统论创始人，卢曼的学术领路人；卢曼全盘扬弃了帕森斯的行动参考框架与静态整合预设，转向以[[Autopoiesis\|自创生]]与沟通为核心的新系统论。
 > - **世纪论敌** [[Jürgen Habermas\|哈贝马斯]]（Jürgen Habermas） — [[Critical Theory\|批判理论]]法兰克福学派第二代领袖；哈贝马斯坚持规范性的主体间沟通理性与生活世界拯救，卢曼则坚持反规范、功能分化与操作封闭的纯系统观察，二者展开了战后社会学界最宏大的[[Paradigm\|范式]]论战。
 > - **教育学范式继承者** Jürgen Schriewer（于尔根·施瑞尔） — 国际比较教育学系统论学派奠基人，将卢曼的[[Externalization\|外化]]命题与自指性系统论[[Creativity\|创造性]]运用于全球教育[[Policy Borrowing\|政策借用]]研究。
-> - **理论[[Dialogue in Education\|对话]]与批评对象** [[John Hattie\|约翰·哈蒂]]（John Hattie） — [[Evidence-Based Education\|循证教育]]与[[Meta-analysis\|元分析]]可见学习倡导者；哈蒂追求[[Technical Rationality\|技术理性]]的可见性范式与因果控制论，成为卢曼理论后继学者（如 Larsen, 2019）深度批判与反思的关键典型。
+> - **理论对话与批评对象** [[John Hattie\|约翰·哈蒂]]（John Hattie） — [[Evidence-Based Education\|循证教育]]与[[Meta-analysis\|元分析]]可见学习倡导者；哈蒂追求[[Technical Rationality\|技术理性]]的可见性范式与因果控制论，成为卢曼理论后继学者（如 Larsen, 2019）深度批判与反思的关键典型。
 
 ---
 

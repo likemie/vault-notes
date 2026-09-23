@@ -4,10 +4,10 @@ aliases:
   - 科学新闻
   - 专业科学新闻
   - 科技新闻
-summary: "指专业新闻从业者面向公众开展的针对科学探索、科研产出及其社会伦理影响的独立调查、诠释与报道实践；在媒介生态重构冲击下，正经历从传统专职记者主导向数字社交平台多元分发的深刻转型，面临高校通稿过度营销、商业点击率驱动与科研诚信标准对接等核心挑战。"
+summary: 指专业新闻从业者面向公众开展的针对科学探索、科研产出及其社会伦理影响的独立调查、诠释与报道实践；在媒介生态重构冲击下，正经历从传统专职记者主导向数字社交平台多元分发的深刻转型，面临高校通稿过度营销、商业点击率驱动与科研诚信标准对接等核心挑战。
 type: concept
 domain: "science-communication"
-related_count: 28
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Public Engagement with Science]]"
   - "[[Citizen Science]]"
-  - "[[Dialogue in Education]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Paradigm]]"
   - "[[Scientific Uncertainty]]"
@@ -30,7 +29,7 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Responsible Conduct of Research]]"
   - "[[Epistemology]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Document]]"
   - "[[Positivism]]"
   - "[[Solutions Journalism]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-03
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Science Journalism
@@ -77,7 +76,7 @@ updated: 2026-09-17
 > *Characteristics of trustworthy communication include seeking to inform rather than persuade, being balanced, acknowledging uncertainty and limitations of the evidence, and pre-empting misunderstandings... delivering the high-quality news that the public repeatedly say they want.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Public Engagement with Science\|公众科学参与]] — 前者是专业媒体单向或双向的新闻采编与调查中介，后者涵盖[[Citizen Science\|公民科学]]、科学节、社区[[Dialogue in Education\|对话]]等全体科研生命周期的多元互动形态。
+> - 不等于 [[Public Engagement with Science\|公众科学参与]] — 前者是专业媒体单向或双向的新闻采编与调查中介，后者涵盖[[Citizen Science\|公民科学]]、科学节、社区对话等全体科研生命周期的多元互动形态。
 > - 不等于 [[Deficit Model of Science Communication\|赤字模型]] — 现代专业科学新闻摒弃将受众视为无知容器的布道[[Paradigm\|范式]]，强调多元视角的平衡呈现与[[Scientific Uncertainty\|科学不确定性]]的透明坦陈。
 > - 不适用于纯学术共同体内部的学术出版与同行评议机制。
 
@@ -159,7 +158,7 @@ updated: 2026-09-17
 
 ### 命题三　坦诚披露证据不确定性与局限是专业科学新闻重筑公众信任的核心抓手
 
-> [!concept-lens] [[Epistemology\|认识论]][[Humility in Learning\|谦逊]]与受众信任建构机制
+> [!concept-lens] [[Epistemology\|认识论]][[Humility\|谦逊]]与受众信任建构机制
 > 传统新闻编辑普遍担忧披露研究局限或[[Confidence Interval\|置信区间]]会导致公众困惑、削弱科学权威，这种假定在实证上已被现代传播学研究所推翻。
 
 > [!claim] Kerr et al. (2022)

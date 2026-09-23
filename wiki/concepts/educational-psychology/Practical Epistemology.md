@@ -16,15 +16,14 @@ tags:
   - paradigm/constructivism
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Knowledge Production]]"
   - "[[Formal Epistemology]]"
+  - "[[Knowledge Production]]"
   - "[[Nature of Science]]"
   - "[[Reflexivity]]"
   - "[[Epistemic Resources]]"
   - "[[Epistemic Practices]]"
   - "[[Construct]]"
   - "[[Operationalization]]"
-  - "[[Dialogue in Education]]"
   - "[[Positivism]]"
   - "[[Teaching Assistant]]"
   - "[[Epistemological Beliefs]]"
@@ -39,7 +38,8 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Scaffolding]]"
-related_theories: []
+related_theories:
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Discourse Analysis]]"
@@ -68,13 +68,13 @@ updated: 2026-09-22
 
 ## 定义
 
-实践[[Epistemology|认识论]]（Practical Epistemology）是指学生在学校科学探究过程中，实际应用于自身科学[[Knowledge Production|知识建构]]与评估的认识论观念与微观话语规程。
+实践[[Epistemology|认识论]]（Practical Epistemology）是指学生在学校科学探究过程中，实际应用于自身科学[[Knowledge Building Theory|知识建构]]与评估的认识论观念与微观话语规程。
 
 > [!def] 核心定义
 > 实践认识论指学生在进行具体科学探究（如实验操作、数据收集与论证构建）时，指导其做出认识论决策的隐性观念与原生活动规程。它直接决定了学生在行动中将何者视为有效数据、如何评估主张与证据的契合度。实践认识论与学生在[[Questionnaire\|问卷调查]]中针对专业科学家所表达的[[Formal Epistemology\|形式认识论]]（Formal Epistemology）存在显著分离，深嵌于微观活动情境之中，并可通过语言游戏中的立足点（stand fast）、意义裂隙（gaps）与关系搭建进行微观[[Discourse Analysis\|话语分析]]。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, p. 635)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 149–150)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 学生在亲身开展探究活动时原生地运用、关于知识生成与检验的实践性认知规则。
+> - **含义** 学生在亲身开展探究活动时原生地运用、关于[[Knowledge Production|知识生成]]与检验的实践性认知规则。
 > - **用途** 解释为何学生在日常探究中的认知表现（如盲目尝试或系统求证）往往与其在标准化问卷中表达的[[Nature of Science\|科学本质]]信念相互脱节，为微观课堂话语互动分析提供分析工具。
 > - **边界** 区别于关于专业科研事业的抽象形式信念，也区别于去学科化的通用学习策略（如记忆术）。
 
@@ -118,7 +118,7 @@ updated: 2026-09-22
 威克曼（Per-Olof Wickman）与厄斯特曼（Leif Östman）借鉴维特根斯坦（Ludwig Wittgenstein）的语言游戏理论，将实践认识论发展为微观话语分析工具：
 
 > [!proc] [[Practical Epistemology Analysis\|实践认识论分析]]（PEA）的微观运作程序（[[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona, 2018, pp. 149–150]]）
-> 1. **识别立足点（Stand Fast）** 确定师生在当前[[Dialogue in Education\|对话]]中共同默认、无需争辩的基础事实与概念前提。
+> 1. **识别立足点（Stand Fast）** 确定师生在当前对话中共同默认、无需争辩的基础事实与概念前提。
 > 2. **遭遇意义裂隙（Encounter Gaps）** 当遭遇反常数据、未知现象或理解冲突时，原有的立足点出现认知空白或分歧。
 > 3. **搭建关系桥梁（Build Relations Across Gaps）** 学生调动实验教具、生活经验或具身手势建立新联系，跨越理解障碍（如通过转动地球仪与地图修补对重力的理解）。
 > 4. **确立新立足点（Establish New Stand Fast）** 经过协商与检验的新关系被共同体接纳，转化为下一步探索的新立足点。
@@ -156,7 +156,7 @@ updated: 2026-09-22
 ### 命题二　微观课堂话语互动中的认识论演进通过立足点与意义裂隙的跨越而原生地实现
 
 > [!concept-lens] 语言游戏与行动认识论
-> 探讨知识合法性与有效证据如何在师生即时[[Dialogue in Education\|对话]]序列中生成。
+> 探讨知识合法性与有效证据如何在师生即时对话序列中生成。
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]
 > **话语行动中的认识论生成** 认识论并非深锁于大脑内部的静态表征，而是在微观话语和具身互动中展开的语言游戏。通过考察师生如何确立立足点、在遭遇异常数据时显化意义裂隙，并借[[Teaching Assistant\|助教]]具与手势搭建关系，研究者能够原生地捕捉学生如何在行动中界定何者算作有效观察与合理证据。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 149–150)]]
@@ -169,7 +169,7 @@ updated: 2026-09-22
 > 探讨动手实践如何升华为对科学本质的成熟领悟。
 
 > [!claim] [[Argument_Sandoval_2005_SE\|Sandoval (2005)]]
-> **显性反思的弥合机制** 单纯让学生参与高水平探究活动，无法自发促成其高级实践认识论向专业科学形式认识论的转化。必须在探究过程中引入显性的认识论反思（explicit epistemological reflection），引导学生对比自身在探究中的权衡决策与专业科研团队的[[Knowledge Production\|知识建构]]机制，方能实现[[Epistemological Beliefs\|认识论信念]]的系统升级。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, pp. 649–650)]]
+> **显性反思的弥合机制** 单纯让学生参与高水平探究活动，无法自发促成其高级实践认识论向专业科学形式认识论的转化。必须在探究过程中引入显性的认识论反思（explicit epistemological reflection），引导学生对比自身在探究中的权衡决策与专业科研团队的[[Knowledge Building Theory|知识建构]]机制，方能实现[[Epistemological Beliefs\|认识论信念]]的系统升级。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, pp. 649–650)]]
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]
 > **教师元话语的支架价值** 教师在师生互动中使用[[Reflexivity\|反思性]]元话语（meta-discourse），提请学生反思刚才为何调用实测数据进行反驳，能够有效帮助学生识别自身话语行动背后的认识论规则，促成科学身份认同与批判性[[Scientific Literacy\|科学素养]]的生成。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 146–147, 161)]]
@@ -207,7 +207,7 @@ updated: 2026-09-22
 > > - **资源论（Hammer & Elby, 2002; [[Argument_Sandoval_2005_SE\|Sandoval, 2005]]）** 认为学生的认识论表现为松散的细粒度认知资源，随任务环境和线索独立触发，因而表现出极高的情境不稳定性。
 > >
 > > [!axis] 分析[[Paradigm\|范式]]：内在心智表征 vs 外在话语行动
-> > 实践认识论的本质是个体头脑中的隐性心理倾向，还是在[[Dialogue in Education\|对话]]中生成的社会互动规程？
+> > 实践认识论的本质是个体头脑中的隐性心理倾向，还是在对话中生成的社会互动规程？
 > > - **认知心理学范式** 致力于探寻学生在[[Problem Solving\|问题解决]]过程中底层的心理表征与[[Metacognition\|元认知]]结构。
 > > - **社会语言学与[[Pragmatic Paradigm\|实用主义范式]]（[[Practical Epistemology Analysis\|PEA]]）** 认为无需[[Hypothesis\|假设]]黑箱心智，应直接通过口头语言、手势与教具操作分析立足点与意义裂隙的跨越。
 

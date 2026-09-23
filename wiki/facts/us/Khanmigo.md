@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Epistemic Agency]]"
   - "[[Paradigm]]"
   - "[[Intelligent Tutoring Systems]]"
-  - "[[Dialogue in Education]]"
   - "[[Constructed Knowledge]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Scaffolding]]"
@@ -75,7 +74,7 @@ updated: 2026-09-22
 > - **教师协同仪表盘** 为一线教师提供班级交互学情诊断看板，自动标记高频概念卡点与求助模式，辅助精准差异化教学。
 
 > [!citation-card] 教育专用[[Intelligent Tutoring Systems\|智能教学系统]]的[[Paradigm\|范式]]创新
-> Khanmigo 等由先进生成式 AI 驱动的专用教学系统，深度整合了苏格拉底式[[Dialogue in Education\|对话]]等教学法框架，并运用检索增强生成算法交付准确且无偏的内容；它通过设定目标、监控进度与提供建设性反馈，引导学生逐步掌握复杂概念，展现出人机协同[[Constructed Knowledge\|建构知识]]的巨大潜力。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–359)]]
+> Khanmigo 等由先进生成式 AI 驱动的专用教学系统，深度整合了苏格拉底式对话等教学法框架，并运用检索增强生成算法交付准确且无偏的内容；它通过设定目标、监控进度与提供建设性反馈，引导学生逐步掌握复杂概念，展现出人机协同[[Constructed Knowledge\|建构知识]]的巨大潜力。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–359)]]
 >
 > *Khanmigo, powered by advanced [[Generative Artificial Intelligence\|GenAI]], incorporates pedagogical frameworks such as Socratic dialogue and uses techniques such as retrieval augmented generation (RAG) algorithms to deliver accurate and unbiased content... offering targeted support and personalized learning experiences.*
 

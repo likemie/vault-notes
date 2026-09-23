@@ -8,10 +8,10 @@ aliases:
 summary: "在数字经济与海量知识制造时代，针对同一公共政策议题的研究成果、实证数据与咨询报告在数量上发生爆炸式增长并超过决策系统认知与处理负荷的生态现象。该现象打破了“证据越丰富政策越理性”的传统启蒙假设，反而加剧了政策歧义性（Policy Ambiguity）与信息孤岛，促使政治决策者更倾向于策略性“选秀”证据，并为政策中介机构对海量数据进行二次提炼、认证包装与权威背书创造了垄断性的制度中介空间。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/policy-studies
   - theme/policy-brokerage
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Policy Ambiguity]]"
   - "[[Hypothesis]]"
-  - "[[Growth]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Causality]]"
   - "[[Dialogue in Education]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Surplus of Evidence
@@ -76,7 +75,7 @@ updated: 2026-09-17
 > - **边界** 不等于知识的真正普惠与真理澄明，而是一种夹杂着大量“信息孤岛（Information Silos）”与商业包装报告的注意力经济赤字状态。
 
 > [!citation-card] 证据过剩与思想市场下的政策中介崛起
-> 证据过剩（Surplus of Evidence）与思想市场的泛滥，连同信息孤岛的加速扩散，为政策中介机构在[[Knowledge Production\|知识生产]]者与知识使用者之间、科学与政治之间架设桥梁创造了前所未有的历史契机。如果认为更多的研究知识能够减少[[Policy Ambiguity\|政策歧义性]]并自发促进循证决策，那完全是一种虚妄的[[Hypothesis\|假设]]；现实恰恰相反，今日的信息过载构成了各路中介机构茁壮[[Growth\|成长]]的肥沃土壤——它们选择性地汲取研究发现，将其[[Transfer Translation Transformation\|转译]]为定制化证据，再兜售给身处迷茫中的政府官员。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
+> 证据过剩（Surplus of Evidence）与思想市场的泛滥，连同信息孤岛的加速扩散，为政策中介机构在[[Knowledge Production\|知识生产]]者与知识使用者之间、科学与政治之间架设桥梁创造了前所未有的历史契机。如果认为更多的研究知识能够减少[[Policy Ambiguity\|政策歧义性]]并自发促进循证决策，那完全是一种虚妄的[[Hypothesis\|假设]]；现实恰恰相反，今日的信息过载构成了各路中介机构茁壮成长的肥沃土壤——它们选择性地汲取研究发现，将其[[Transfer Translation Transformation\|转译]]为定制化证据，再兜售给身处迷茫中的政府官员。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
 >
 > *The ‘surplus of evidence’ and the ‘marketplace of ideas’ (Lubienski 2019, 70), as well as the proliferation of information silos (Malin and Lubienski 2022), have generated a renewed opportunity for intermediaries to bridge knowledge producers and knowledge users, or science and politics... It would be wrong to assume that more knowledge reduces ambiguity and facilitates evidence-informed policymaking. The opposite applies. Today’s information overload constitutes fertile ground for the flourishing of individuals and institutions that selectively draw on research.*
 

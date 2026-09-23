@@ -6,7 +6,7 @@ aliases:
 summary: "芬兰课程语境中的现象本位学习，以复杂现象组织跨学科探究，强调学科深度、生活世界、协作和共同责任。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 34
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -24,8 +24,6 @@ related_concepts:
   - "[[Discipline-Based Theory]]"
   - "[[Didaktik]]"
   - "[[Reflexivity]]"
-  - "[[Knowledge Production]]"
-  - "[[Dialogue in Education]]"
   - "[[Reflective Thinking]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Epochal Key Problems]]"
@@ -39,6 +37,7 @@ related_concepts:
 related_theories:
   - "[[Phenomenology]]"
   - "[[Critical Realism]]"
+  - "[[Knowledge Building Theory]]"
   - "[[Pragmatic Constructivism]]"
 related_methods:
   - "[[Correlational Research]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Phenomenon-Based Learning
@@ -109,9 +108,9 @@ updated: 2026-09-17
 > [!feature] 核心要素
 > - **以现象为学习起点** 学习从可触摸或不可触摸的生活世界真实或抽象现象开始（如可持续生态、地方历史遗存等），引导学生追随人类好奇心的历史足迹建立连接。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 1, 3–4]]
 > - **跨学科整合与学科深度协同** 反对学科的自我封闭，但强调每门科目具有其独特的理论结构与[[Ontology\|本体论]]深度，跨学科探索应当是学科深度的横向协同，而非学科逻辑的消解。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 3–5]]
-> - **生活世界与经验体验的嵌入性** 强调学习主题应直接关联学生的邻近环境，释放[[Reflexivity\|反思性]]主体能动性（Agency），使[[Knowledge Production\|知识建构]]基于活泼的日常经验。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 4]]
+> - **生活世界与经验体验的嵌入性** 强调学习主题应直接关联学生的邻近环境，释放[[Reflexivity\|反思性]]主体能动性（Agency），使[[Knowledge Building Theory|知识建构]]基于活泼的日常经验。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 4]]
 > - **具身经验与主体间性情绪整合** 遵循 Merleau-Ponty [[Phenomenology\|现象学]]，将身体感官经验与实践置于纯粹智力认知之前；同时关注主体间性（Intersubjectivity）的社交与情绪交互，如信任、尊重、困惑、怀疑及关系焦虑。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 4]]
-> - **协作探究与共同责任分担** 师生在共同时空里分担责任，通过联合规划、[[Dialogue in Education\|对话]]与实践行动，协作面对复杂的全球性与地方挑战。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 1, 3]]
+> - **协作探究与共同责任分担** 师生在共同时空里分担责任，通过联合规划、对话与实践行动，协作面对复杂的全球性与地方挑战。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 1, 3]]
 > - **作为课程的自我修正模型** 桥接教育理论与学校实践，将学习过程视为个人与客观世界不断交互并重构自身世界观的反思过程。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 7–8]]
 
 > [!logic-map]- 核心要素与学习过程

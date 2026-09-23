@@ -10,7 +10,7 @@ summary: "将受访者视为具有特定领域专业特权、制度性职能与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 35
+method_related_count: 34
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
   - "[[Praxis]]"
-  - "[[Dialogue in Education]]"
   - "[[Internal Validity]]"
   - "[[Reflexivity]]"
   - "[[Reliability]]"
@@ -91,7 +90,7 @@ updated: 2026-09-22
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 秉持[[Constructivist Paradigm\|建构主义]]与知识社会学立场，将专家知识区分为显性技术知识（Technical knowledge）、组织情境知识（Contextual knowledge）与实践惯例知识（[[Praxis]]/insider knowledge）。
-> - **研究者角色** 研究者必须作为具备相当专业储备的同行[[Dialogue in Education\|对话]]者进入现场，展现对行业背景与制度法规的深度理解，打破官方公关防备，建立实质性专业互信。
+> - **研究者角色** 研究者必须作为具备相当专业储备的同行对话者进入现场，展现对行业背景与制度法规的深度理解，打破官方公关防备，建立实质性专业互信。
 > - **有效性标准** [[Internal Validity\|内部效度]]依托[[Theoretical Sampling\|理论抽样]]、多源[[Triangulation\|三角互证]]与受访者立场[[Reflexivity\|反身性]]检视；[[Reliability\|信度]]依托标准化[[Semi-structured Interview\|半结构化访谈]]提纲与透明[[Coding in Qualitative Research\|编码]]审计。
 > - **不声称回答的问题** 不能直接用于推断总体行为发生率或精确测量[[Variable\|变量]]间的量化因果[[Effect Size\|效应量]]。
 
@@ -108,7 +107,7 @@ updated: 2026-09-22
 > [!proc] 通用程序
 > 1. **界定专家属性与抽样范围** 明确研究所需的职能领域与组织层级，确立专家的资格准入标准。
 > 2. **研制[[Semi-structured Interview\|半结构化访谈]]指南** 围绕研究核心维度设计开放式引导问题，保留针对组织内部突发情境的追问空间。
-> 3. **建立专业互信与实施访谈** 取得机构伦理准入，以专业平等的[[Dialogue in Education\|对话]]姿态开展 60 至 120 分钟录音访谈。
+> 3. **建立专业互信与实施访谈** 取得机构伦理准入，以专业平等的对话姿态开展 60 至 120 分钟录音访谈。
 > 4. **逐字[[Transcription in Qualitative Research\|转录]]与文本清洗** 完整转录口述语料，执行严格的机构与个人匿名化处理。
 > 5. **系统化[[Coding in Qualitative Research\|质性编码]]与理论提炼** 运用归纳与演绎双向结合的范畴系统处理文本，提炼组织行为规律与解释模型。
 

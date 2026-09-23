@@ -9,7 +9,7 @@ summary: "扎根理论质性数据分析的基础切片与概念化阶段，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 35
+method_related_count: 36
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Emergence]]"
   - "[[Document]]"
+  - "[[Meaningful Human Control]]"
   - "[[Construct]]"
   - "[[Variable]]"
   - "[[Scaffolding]]"
@@ -32,7 +33,6 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Hypothesis]]"
   - "[[Problem Solving]]"
-  - "[[Dialogue in Education]]"
   - "[[Operationalization]]"
 related_theories: []
 related_methods:
@@ -55,7 +55,8 @@ related_methods:
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Correlational Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Miranda Fricker]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Open Coding
@@ -102,7 +103,7 @@ updated: 2026-09-17
 > - **研究设计** [[Grounded Theory\|扎根理论]]、[[Qualitative Content Analysis\|质性内容分析]]、探索性多[[Case Study\|案例研究]]。
 > - **数据收集** [[Semi-structured Interview\|半结构化访谈]]、非介入性[[Document\|文献]]收集、现场[[Qualitative Observation\|田野观察]]记录。
 > - **分析方法** 逐行微观切片、本土编码抽取、[[Constant Comparison\|持续比较法]]、属性维度化展开、设问分析。
-> - **辅助技术** 质性分析软件（[[Qualitative Computer Software\|CAQDAS]]，如 NVivo、MAXQDA）页边标注、高亮编码工具、大语言模型人在回路（HITL）语义初筛。
+> - **辅助技术** 质性分析软件（[[Qualitative Computer Software\|CAQDAS]]，如 NVivo、MAXQDA）页边标注、高亮编码工具、大语言模型[[Meaningful Human Control|人在回路]]（HITL）语义初筛。
 
 ---
 
@@ -161,7 +162,7 @@ updated: 2026-09-17
 
 ### Flick 指引开放编码的 11 个关键设问矩阵
 
-乌韦·弗里克（Uwe Flick, 2009, p. 310）提出在开放[[Coding in Qualitative Research|编码]]中应当运用基础设问穿透文本表象（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 561]]）：
+乌韦·[[Miranda Fricker|弗里克]]（Uwe Flick, 2009, p. 310）提出在开放[[Coding in Qualitative Research|编码]]中应当运用基础设问穿透文本表象（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 561]]）：
 
 > [!framework-table] 开放编码核心设问矩阵（Flick, 2009）
 > | 分析向度 | 核心设问英文 | 引导性探查方向 |
@@ -209,7 +210,7 @@ updated: 2026-09-17
 
 > [!pathways] 现代技术赋能开放[[Coding in Qualitative Research\|编码]]的路径与[[Epistemology\|认识论]]准则
 > - **[[Qualitative Computer Software\|CAQDAS]] 自动化词频与节点标注** 计算机软件（如 NVivo、MAXQDA、ATLAS.ti）支持快速全文关键词检索、自动文本分段与树状节点初步归档，显著提升了大规模文本微观切片的管理效率。
-> - **大语言模型人在回路（HITL）协同初筛** 大语言模型具备强大的无偏语义扫描与候选概念归纳能力，能够辅助人类研究者识别高频共现主题并拟定备选属性维度。但大模型输出仅能作为启发性线索，所有概念的最终确立必须严格由人类研究者根据生活语境进行回溯核验。
+> - **大语言模型[[Meaningful Human Control|人在回路]]（HITL）协同初筛** 大语言模型具备强大的无偏语义扫描与候选概念归纳能力，能够辅助人类研究者识别高频共现主题并拟定备选属性维度。但大模型输出仅能作为启发性线索，所有概念的最终确立必须严格由人类研究者根据生活语境进行回溯核验。
 
 ---
 
@@ -221,7 +222,7 @@ updated: 2026-09-17
 > - **不适合使用** 脱离任何文本与[[Audiovisual, Social Media, and Digital Materials\|视听材料]]的纯数理推演。
 
 > [!method-limits] 方法局限与去情境化风险
-> - **时序因果链条割裂** 微观切片将连贯[[Dialogue in Education\|对话]]切碎为离散标签，容易丢失事件发生的先后次序与生活脉络；
+> - **时序因果链条割裂** 微观切片将连贯对话切碎为离散标签，容易丢失事件发生的先后次序与生活脉络；
 > - **主观偏倚风险** 概念命名高度受制于研究者的理论偏好，容易出现不同[[Coding in Qualitative Research\|编码]]者之间的分类分歧；
 > - **编码膨胀死局** 新手容易生成数百个重叠孤立的琐碎代码，导致分析陷入瘫痪，需依托[[Axial Coding\|主轴编码]]与[[Selective Coding\|选择性编码]]进行系统收敛。
 

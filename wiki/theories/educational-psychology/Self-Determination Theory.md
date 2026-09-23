@@ -7,10 +7,10 @@ aliases:
 summary: "当代人类动机与人格的核心宏观理论，主张个体具有追求自主性、胜任感与归属感三大基本心理需求的内在成长倾向，构筑了从无动机、外在动机到内在动机的自决连续体，广泛应用于教育环境设计与人机协同学习赋能。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 32
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 30
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theory/educational-psychology
   - motivation
@@ -18,7 +18,6 @@ tags:
   - autonomous-motivation
   - educational-technology
 related_concepts:
-  - "[[Growth]]"
   - "[[Paradigm]]"
   - "[[Surface and Deep Learning]]"
   - "[[Academic Achievement]]"
@@ -27,7 +26,6 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Causality]]"
   - "[[Academic Engagement]]"
-  - "[[Dialogue in Education]]"
   - "[[Scaffolding]]"
   - "[[AI Agent in Education]]"
   - "[[Learner Autonomy]]"
@@ -70,7 +68,7 @@ updated: 2026-09-22
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 人类行为的内在驱动力、心理[[Growth\|成长]]动机，以及环境支持对个体健康、高阶认知投入与积极学业体验的促进与阻碍机制。
+> - **解释对象** 人类行为的内在驱动力、心理成长动机，以及环境支持对个体健康、高阶认知投入与积极学业体验的促进与阻碍机制。
 > - **理论问题** 克服行为主义刺激-反应论将人视为被动受赏罚驱动的局限，阐明内在自发动力如何萌发，以及外在规约如何内化为自决行为。
 > - **理论类型** 宏观动机心理学与人格发展理论（Macro-theory of Human Motivation and Personality）。
 > - **知识位置** 由 Edward L. Deci 和 Richard M. Ryan 于 20 世纪 70–80 年代确立，是当代教育心理学、学习科学与教育技术领域最具影响力的动机[[Paradigm\|范式]]之一。
@@ -148,7 +146,7 @@ updated: 2026-09-22
 
 > [!exegesis]- 教育研究例子
 > 在生成式 AI 介入的高校语言学习中，学生面对传统教师纠错往往产生强烈的评价焦虑与胜任感挫败（控制型环境）。当引入 ChatGPT 充当学习同伴时：
-> 1. **自主性赋能** 学生自定提问主题、[[Dialogue in Education\|对话]]轮次与探索节奏，摆脱了班级固定进度的束缚；
+> 1. **自主性赋能** 学生自定提问主题、对话轮次与探索节奏，摆脱了班级固定进度的束缚；
 > 2. **胜任感构建** AI 针对复杂的语法错误提供分步[[Scaffolding\|脚手架]]与即时改写建议，让学生体验到“微小进阶（Micro-success）”；
 > 3. **归属感与心理安全** 面对无情绪偏见、无打分压力的[[AI Agent in Education\|智能体]]，学生敢于暴露真实的语言缺陷（$g^+ = 0.617$ 的情感动机跃升）。这一教育情境完美印证了基本心理需求满足对[[Learner Autonomy\|自主学习]]动机的激活机制。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 16, 18)]]
 

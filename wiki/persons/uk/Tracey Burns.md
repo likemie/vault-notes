@@ -7,7 +7,7 @@ summary: "加拿大裔英国籍经合组织资深分析师与教育知识治理�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Evidence-Based Education]]"
   - "[[Cumulative Knowledge Base]]"
+  - "[[Cognitive Deskilling]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Mediation]]"
   - "[[Abstract]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Tracey Burns
@@ -66,7 +67,7 @@ updated: 2026-09-17
 > [!person-profile] 人物档案
 > - **身份位置** 英国籍（加拿大裔）教育政策研究者，[[OECD\|经合组织]]（OECD）[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（Centre for Educational Research and Innovation, CERI）资深政策分析师，2022年撰写本章时借调至美国国家教育与经济中心（National Center on Education and the Economy, [[National Center for Education Evaluation and Regional Assistance\|NCEE]]）。
 > - **核心角色** 在 OECD-CERI 教育[[Epistemic Governance\|知识治理]]议程中长期承担核心研究与写作职责，主导并参与多项关于教育系统改革、[[Complexity Theory\|复杂性理论]]在教育政策中的应用，以及[[Educational Brokerage Agency\|教育中介机构]]发展的系统性研究；是将"后真相"、实践转向与"中介的中介"（Brokering the Brokers）等命题引入[[Evidence-Based Education\|循证教育]]政策学术讨论的关键学者。
-> - **代表贡献** 与 [[Tom Schuller]] 合著《教育中介机构的历史与演进》（Ch.3 in Révai, 2022），提出建构[[Cumulative Knowledge Base\|累积性知识库]]的三步行动框架，并以循证医学的五大意外后果为镜鉴警示证据商业化与算法去技能化的系统性风险。
+> - **代表贡献** 与 [[Tom Schuller]] 合著《教育中介机构的历史与演进》（Ch.3 in Révai, 2022），提出建构[[Cumulative Knowledge Base\|累积性知识库]]的三步行动框架，并以循证医学的五大意外后果为镜鉴警示证据商业化与算法[[Cognitive Deskilling|去技能化]]的系统性风险。
 
 ---
 

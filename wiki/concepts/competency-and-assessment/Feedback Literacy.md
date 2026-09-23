@@ -9,7 +9,7 @@ aliases:
 summary: "学习者在多源反馈生态中理解反馈价值、调控情绪抗拒、协同做出评价性判断并将其转化为后续实质性改进决策的核心胜任力与行动倾向。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[AI Literacy]]"
   - "[[Homework]]"
-  - "[[Dialogue in Education]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Metacognition]]"
   - "[[Paradigm]]"
@@ -100,7 +99,7 @@ updated: 2026-09-22
 ## 核心要素
 
 > [!feature] 核心要素
-> - **理解与重视反馈（Appreciating [[Feedback]]）** 深刻领悟反馈的本质是持续展开的社会化[[Dialogue in Education\|对话]]与探究过程，超越分数与等级评定的狭隘视角；主动建立多渠道反馈收集意识，接纳同伴评议、教师面谈及数字工具评语的多重视角。Carless & Boud (2018, pp. 1318–1320)
+> - **理解与重视反馈（Appreciating [[Feedback]]）** 深刻领悟反馈的本质是持续展开的社会化对话与探究过程，超越分数与等级评定的狭隘视角；主动建立多渠道反馈收集意识，接纳同伴评议、教师面谈及数字工具评语的多重视角。Carless & Boud (2018, pp. 1318–1320)
 > - **做出评价判断（Making Judgments）** 依靠自身积累的学科专业规范与[[Evaluative Judgement\|评价性判断]]能力，审视外部反馈的合理性与证据支持度，准确诊断当前表现与卓越标准之间的真实差距。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, p. 5)]]
 > - **管理情绪与情感（Managing Affect）** 觉察批评性反馈引发的认知失调、防御心理或挫败焦虑，保持平稳理性的情绪平衡（Emotional Equilibrium），克服对负面评语的防御性抵触，同时戒除对权威算法或高威信评价者的盲从顺应。Carless & Boud (2018, pp. 1320–1321)
 > - **采取实质行动（Taking Action）** 将反馈信息转化为具有针对性的改进策略与思维迭代，在最终成果中清晰陈述修正依据，并在后续类似学习任务中实现跨情境的能力迁移。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, p. 9)]]
@@ -157,7 +156,7 @@ updated: 2026-09-22
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2010–2015 年 — 从单向传输到社会建构[[Dialogue in Education\|对话]]模式的转向** 早期[[Evaluation Research\|评估研究]]批判“将反馈视作教师单向投递的信息包”（[[Feedback]] as Telling/Transmission）的[[Paradigm\|范式]]缺陷，主张将反馈重塑为师生及生生间共享的对话互动。
+> - **2010–2015 年 — 从单向传输到社会建构对话模式的转向** 早期[[Evaluation Research\|评估研究]]批判“将反馈视作教师单向投递的信息包”（[[Feedback]] as Telling/Transmission）的[[Paradigm\|范式]]缺陷，主张将反馈重塑为师生及生生间共享的对话互动。
 > - **2018 年 — 学生反馈素养框架的正式确立** 戴维·卡利斯（David Carless）与戴维·鲍德（David Boud）在《高等教育评估与评价》（*Assess. Eval. High. Educ.*）发表开创性论文，首次正式确立涵盖“理解反馈、作出判断、管理情绪、采取行动”四维度的学生反馈素养模型。
 > - **2020 年 — 教师反馈素养框架的拓展深化** 卡利斯与温斯通（Naomi E. Winstone）进一步提出教师反馈素养（Teacher Feedback Literacy），从“教学设计、[[Student-Teacher Relationship\|师生关系]]敏感度、情境实践折衷”三大维度呼应学生素养的培育机制。
 > - **2024–2026 年 — 人机共生环境下的认识防御与教学法重塑** 伴随[[Generative Artificial Intelligence\|生成式人工智能技术]]的普及，[[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 等学者将反馈素养提升至社会[[Epistemology\|认识论]]与学习科学交汇的高地，确立其为破除大模型自动化依赖、捍卫学习者[[Epistemic Agency\|认识主体性]]的核心策略支撑。
@@ -172,7 +171,7 @@ updated: 2026-09-22
 > > 争论反馈素养究竟主要依赖学习者个人的心理认知修养，还是取决于高校课程结构与评价文化的系统赋权。
 > >
 > > - **个体心理派** 主张强化[[Metacognition\|元认知]]训练、情绪调节技巧与反思日志撰写，提升学生处理批评的心智韧性。
-> > - **生态制度派** 批评过度将责任转嫁给学生，主张如果课程考核依然只看期末单一终局产品，学生缺乏多次草稿迭代与[[Dialogue in Education\|对话]]试错的制度空间，个体素养便沦为空谈。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 8–9)]]
+> > - **生态制度派** 批评过度将责任转嫁给学生，主张如果课程考核依然只看期末单一终局产品，学生缺乏多次草稿迭代与对话试错的制度空间，个体素养便沦为空谈。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 8–9)]]
 
 > [!critique] 外部批评
 > - **多源对比带来的认知负荷超载** 外部学者指出，同时比对 AI 反馈、同伴批注与教师意见需要耗费大量的[[Working Memory\|工作记忆]]与元认知资源；对于学科基础薄弱的初学者而言，极易造成认知超载，反而强化了对算法建议的盲目屈从。

@@ -28,11 +28,11 @@ related_concepts:
   - "[[Variable]]"
   - "[[Simulation-Based Learning]]"
   - "[[Document]]"
-  - "[[Dialogue in Education]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Learning by Doing]]"
   - "[[Central Phenomenon]]"
   - "[[Heterogeneity]]"
+  - "[[Dialogue in Education]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Mentorship]]"
 related_theories:
@@ -152,7 +152,7 @@ updated: 2026-09-17
 > 考察真实性教学在不同干预组合中的独立效应与复合放大效应。
 
 > [!claim] Abrami, P. C., et al.
-> **三维教学协同具有最高促进效应** [[Meta-analysis\|元分析]]证据表明，单纯采用真实性教学能够显著提升[[Critical Thinking\|批判性思维]]（$g+ = 0.25, p < .05$）；当真实性教学与师生/生生[[Dialogue in Education\|对话]]结合时，[[Effect Size\|效应量]]提升至 $g+ = 0.32$；而当真实性教学、深度对话与导师指导三者整合（A + D + M）时，效应量跃升至 $g+ = 0.57$（$p < .001$）。这表明真实情境构成了认知挑战的基底，对话提供了理性论辩的平台，而导师指导则发挥了关键的催化与[[Scaffolding\|脚手架]]功能。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 293–295)]]
+> **三维教学协同具有最高促进效应** [[Meta-analysis\|元分析]]证据表明，单纯采用真实性教学能够显著提升[[Critical Thinking\|批判性思维]]（$g+ = 0.25, p < .05$）；当真实性教学与师生/生生对话结合时，[[Effect Size\|效应量]]提升至 $g+ = 0.32$；而当真实性教学、深度对话与导师指导三者整合（A + D + M）时，效应量跃升至 $g+ = 0.57$（$p < .001$）。这表明真实情境构成了认知挑战的基底，对话提供了理性论辩的平台，而导师指导则发挥了关键的催化与[[Scaffolding\|脚手架]]功能。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 293–295)]]
 
 ---
 
@@ -188,4 +188,4 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 采用[[Meta-analysis\|元分析]]综合 341 项实验与准[[Experimental Research\|实验研究]]，确立了真实性教学（应用型解题、[[Role-playing\|角色扮演]]、情境模拟）在发展[[Critical Thinking\|批判性思维]]中的核心地位及与[[Dialogue in Education\|对话]]、[[Mentorship\|导师制]]结合的高阶协同效应。
+> - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 采用[[Meta-analysis\|元分析]]综合 341 项实验与准[[Experimental Research\|实验研究]]，确立了真实性教学（应用型解题、[[Role-playing\|角色扮演]]、情境模拟）在发展[[Critical Thinking\|批判性思维]]中的核心地位及与对话、[[Mentorship\|导师制]]结合的高阶协同效应。

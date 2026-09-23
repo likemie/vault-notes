@@ -4,7 +4,7 @@ authors:
   - "[[Lawrence Manion|Manion, L.]]"
   - "[[Keith Morrison|Morrison, K.]]"
 source_language: en
-summary: "介绍循证教育研究的制度基础、元分析的方法与步骤及其多维度批判、研究综合与系统综述的操作程序与标准"
+summary: 介绍循证教育研究的制度基础、元分析的方法与步骤及其多维度批判、研究综合与系统综述的操作程序与标准
 type: argument
 subtype: textbook
 publication_type: book-chapter
@@ -16,13 +16,13 @@ argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
-book_title: "Research Methods in Education"
-publication_place: "London"
-publisher: "Routledge"
+book_title: Research Methods in Education
+publication_place: London
+publisher: Routledge
 year: 2011
 doi: ""
 citation_aliases: []
-isbn: "978-0-415-58336-7"
+isbn: 978-0-415-58336-7
 citation: ""
 tags:
   - source/textbook
@@ -49,7 +49,7 @@ related_concepts:
   - "[[Fitness for Purpose]]"
   - "[[External Validity]]"
   - "[[Sampling Error]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Hypothesis]]"
@@ -107,7 +107,7 @@ related_theories:
   - "[[Realist Evaluation]]"
 status: draft
 created: 2026-07-13
-updated: '2026-09-18'
+updated: 2026-09-18
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17
 
@@ -220,7 +220,7 @@ Bhadwal & Panda（1991）的研究是探索课堂方法有效性的典型例子�
 #### 元分析的优势
 
 > [!strength] Fitz-Gibbon (1985, p. 46) 提出的三项优势
-> - **让被遗忘的小规模报告重获价值** 那些[[Humility in Learning\|谦逊]]的小规模报告不必继续蒙尘，可以通过元分析贡献证据
+> - **让被遗忘的小规模报告重获价值** 那些[[Humility\|谦逊]]的小规模报告不必继续蒙尘，可以通过元分析贡献证据
 > - **汇总多研究结果而不必协调研究本身** 个别学生和教师的小规模研究因此变得有用，元分析从多项独立研究中提取和合并结果，不需要研究者之间事先协商统一方案
 > - **开辟历史比较的新维度** 将不同年代的效应量串联起来，考察干预效果如何随历史条件变化，为教育史研究提供量化视角（p. 341）
 

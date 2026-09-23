@@ -8,7 +8,7 @@ aliases:
 summary: "由 Zewelanji N. Serpell 提出的政策导航框架，将宏观立法过程解构为问题识别、议程设置、政策制定与政策合法化四个阶段，指导教育研究者把握动态机会窗口并策略性注入实证证据"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 43
+theory_related_count: 42
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Boundary Spanner]]"
-  - "[[Dialogue in Education]]"
   - "[[Value Neutrality]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
@@ -71,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Navigational Framework for Educational Researchers
@@ -120,7 +119,7 @@ updated: 2026-09-18
 > [!proc] 政策四阶段介入导航路径
 > 1. **阶段一：以知情选民与[[Boundary Spanner\|知识经纪人]]身份介入问题界定（Problem Identification & Definition）**
 >    - **过程驱动要素** 紧迫感（Urgency）、选民呼声（Constituents）、公共事件（Events）、议员个人办公室（Personal Offices）。
->    - **研究者介入行动** 普通公民有权直接与议员幕僚[[Dialogue in Education\|对话]]，研究者应以专业知情选民身份造访选区议员办公室；或充当知识经纪人将实证工具包赋权给基层家长；邀请议员及幕僚到学校实地观摩研究项目，借助地方媒体报道激发政治兴趣；邀请议员出席学术会议发表主旨演讲建立联系。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 43–44)]]
+>    - **研究者介入行动** 普通公民有权直接与议员幕僚对话，研究者应以专业知情选民身份造访选区议员办公室；或充当知识经纪人将实证工具包赋权给基层家长；邀请议员及幕僚到学校实地观摩研究项目，借助地方媒体报道激发政治兴趣；邀请议员出席学术会议发表主旨演讲建立联系。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 43–44)]]
 > 2. **阶段二：紧扣政治议程并培育幕僚长期互信（Agenda Setting）**
 >    - **过程驱动要素** 新闻与大众媒体（News & Media）、政治立场（Political Stance）、幕僚团队（Staffers）、价值理念（Values）。
 >    - **研究者介入行动** 密切追踪《国会山报》（*The Hill*）、《政治报》（*Politico*）等国会必读媒体及教育部动态；研判研究结论如何契合立法者的既定价值；与办公室具体负责教育议题的幕僚建立长期互信，使自己在该领域成为幕僚起草提案时的首选咨询专家。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 44–45)]]

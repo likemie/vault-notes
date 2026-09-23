@@ -8,7 +8,7 @@ summary: "质性访谈中用于扩展、深化和澄清受访者回应的核心�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 6
+method_related_count: 5
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dbeafe"
@@ -22,12 +22,11 @@ related_methods:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
   - "[[Argument_Creswell_2022_SAGE]]"
-related_concepts:
-  - "[[Dialogue in Education]]"
+related_concepts: []
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-09-11
+updated: 2026-09-22
 ---
 
 # Probes
@@ -40,7 +39,7 @@ updated: 2026-09-11
 > 追问（Probes）是[[Qualitative Interview\|质性访谈]]中嵌入[[Interview Protocol\|访谈协议]]的提示语，用于提醒研究者要求受访者扩展、详细说明、增添细节、澄清或限定其回应。追问解决数据收集中的丰富性、深度、全面性和诚实性问题（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 433–435]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 追问是一种主动的访谈技术，通过后续问题或不打断的停顿来鼓励受访者提供更多、更深或更精确的信息。它区别于被动聆听——追问需要访谈者判断何时以及如何推动[[Dialogue in Education\|对话]]深入。
+> - **含义** 追问是一种主动的访谈技术，通过后续问题或不打断的停顿来鼓励受访者提供更多、更深或更精确的信息。它区别于被动聆听——追问需要访谈者判断何时以及如何推动对话深入。
 > - **用途** 帮助访谈者在仅有少量预设问题时仍能获取丰富数据；帮助初学[[Qualitative Research\|质性研究]]者应对"访谈时间可能很短"的焦虑。追问使受访者从表面回答进入深层叙述。
 > - **边界** 追问不等于提示（prompts）——提示帮助澄清问题和理解，追问深化和扩展回应。追问也不等于引导性提问——追问应保持开放，不应暗示期望的答案方向。
 

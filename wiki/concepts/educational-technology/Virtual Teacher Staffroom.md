@@ -28,8 +28,8 @@ related_concepts:
   - "[[Business as Usual]]"
   - "[[Educational Science Communication]]"
   - "[[Champ]]"
-  - "[[Dialogue in Education]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Dialogue in Education]]"
   - "[[Teacher Professional Agency]]"
   - "[[Empiricism]]"
   - "[[Pragmatic Paradigm]]"
@@ -73,7 +73,7 @@ updated: 2026-09-22
 > - **边界** 严格区别于学校或教育局统一强制设立的科层化在线学习管理系统（LMS）、官方行政教研群组，以及由高校学术团队主导的正式在线培训课程。
 
 > [!citation-card] 关键表述：虚拟教研室的互动潜力与学术缺位
-> 贝萨指出，教师在社交媒体上展现出极高的专业交流热情，但这种交流几乎完全局限于同行实践者之间，教育科学学者极少主动入驻开展双向[[Dialogue in Education\|对话]]，导致巨大的科学传播潜力未被充分激活。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 257)]]
+> 贝萨指出，教师在社交媒体上展现出极高的专业交流热情，但这种交流几乎完全局限于同行实践者之间，教育科学学者极少主动入驻开展双向对话，导致巨大的科学传播潜力未被充分激活。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 257)]]
 >
 > *Social Media-Plattformen bieten im Vergleich zu den zuvor genannten Formaten verstärkt die Möglichkeit, mit der Zielgruppe direkt in Austausch zu treten ... Allerdings scheint für alle Plattformen zu gelten, dass die Beschäftigung und der Austausch vor allem mit anderen Berufspraktiker*innen, nicht jedoch mit der Wissenschaft, gesucht wird. Hier ist also möglicherweise ein großes Potenzial für Wissenschaftskommunikation vorhanden ... Zwar posten Forscher*innen grundlegend vornehmlich zu wissenschaftlichen Themen ... Interaktion und Austausch zu den Beiträgen wird jedoch selten initiiert.*
 
@@ -138,7 +138,7 @@ updated: 2026-09-22
 > 揭示高校科研人员对社交媒体互动潜力的漠视，剖析自上而下广播模式为何无法融入草根教研生态。
 
 > [!claim] [[Argument_Besa_2024_UW\|Besa, 2024]] & Guenther et al.
-> **学术研究人员的单向广播与互动失灵** 尽管社交媒体为科研界与一线教师提供了直接、平等[[Dialogue in Education\|对话]]的理想技术条件，但在现实中，学者在社交媒体上的发帖主要局限于单向通告学术会议或新发论文，极少主动发起或参与对实践困境的深层互动（Guenther et al., 2023）。这种自上而下的顶层宣讲模式完全错失了获取实践反馈与纠正认知迷思的良机，导致虚拟教研室在很大程度上沦为缺乏科学证据把关的封闭同侪经验回音室。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 257)]]；Guenther et al. (2023)
+> **学术研究人员的单向广播与互动失灵** 尽管社交媒体为科研界与一线教师提供了直接、平等对话的理想技术条件，但在现实中，学者在社交媒体上的发帖主要局限于单向通告学术会议或新发论文，极少主动发起或参与对实践困境的深层互动（Guenther et al., 2023）。这种自上而下的顶层宣讲模式完全错失了获取实践反馈与纠正认知迷思的良机，导致虚拟教研室在很大程度上沦为缺乏科学证据把关的封闭同侪经验回音室。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 257)]]；Guenther et al. (2023)
 
 ---
 
@@ -169,7 +169,7 @@ updated: 2026-09-22
 > - **2010s 初 — Twitter 教师标签与草根社群萌芽** 随着移动互联网普及，美德等国教师自发创建 `#EdChat` 与 `#twlz`（Twitter-Lehrerzimmer）主题标签，开创了利用社交平台分享教案与日常解压的去中心化模式。
 > - **2015–2019 — 教师专业学习网络（PLN）学术化研究** 学界开始将此类现象界定为“个人学习网络（Personal Learning Networks, PLN）”，实证揭示其对[[Teacher Professional Agency\|教师专业能动性]]（Teacher Agency）与非正式学习的促进作用（Krutka & Carpenter, 2016）。
 > - **2020–2022 — 疫情停课期间爆发式增长与全平台蔓延** 新冠疫情期间的远程教学需求促使数以万计的中小学教师涌入 Instagram、Twitter 与 TikTok 虚拟教研室，社群讨论重心由日常闲聊全面转向数字化工具深度应用（Richter et al., 2022; Déchène et al., 2024）。
-> - **2023–至今 — 科学传播反思与双向[[Dialogue in Education\|对话]]生态建构** 学者（[[Argument_Besa_2024_UW\|Besa, 2024]]）反思学术界在此类草根社群中的严重缺位，呼吁教育科研人员走出象牙塔，将虚拟教研室作为开展平等双向对话、破除教育迷思的重要前沿阵地。
+> - **2023–至今 — 科学传播反思与双向对话生态建构** 学者（[[Argument_Besa_2024_UW\|Besa, 2024]]）反思学术界在此类草根社群中的严重缺位，呼吁教育科研人员走出象牙塔，将虚拟教研室作为开展平等双向对话、破除教育迷思的重要前沿阵地。
 
 ---
 
@@ -209,4 +209,4 @@ updated: 2026-09-22
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Besa_2024_UW\|Besa (2024)]] — 系统剖析 Twitter-Lehrerzimmer 等社交媒体虚拟教研室的互动机制，揭示科研学者单向广播与双向互动缺位的失衡现状，倡导构建多向度科学传播[[Dialogue in Education\|对话]]。
+> - [[Argument_Besa_2024_UW\|Besa (2024)]] — 系统剖析 Twitter-Lehrerzimmer 等社交媒体虚拟教研室的互动机制，揭示科研学者单向广播与双向互动缺位的失衡现状，倡导构建多向度科学传播对话。

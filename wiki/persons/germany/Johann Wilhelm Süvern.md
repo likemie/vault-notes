@@ -9,7 +9,7 @@ summary: "普鲁士枢密顾问官与教育改革家，主持起草1819年综合
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Dual School System]]"
   - "[[Normal School]]"
   - "[[State Educational Sovereignty]]"
-  - "[[Growth]]"
   - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Disciplina and Doctrina]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Johann Wilhelm Süvern
@@ -103,7 +102,7 @@ updated: 2026-09-17
 > 聚芬确立了现代世俗国家统摄国民教育体系的法哲学纲领：教育既非宗教教会的私有教区附属物，亦非个人与家族的任意私权，而是关乎民族存亡与社会秩序的最高公共事务。国家必须在世俗主权下对各级各类学校行使不可侵犯的最高监督权（*Supreme Right of Supervision*），通过市镇自筹强制设校保障贫困阶层基本知识分配，通过省立公立[[Normal School\|师范学校]]垄断教师专业化执业资质与最低俸给，并在初等大众轨道（初小）与工商业中产轨道（市民学校）之间建立分层而协调的现代化制度骨架。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 26–29)]]
 
 > [!citation-card] 聚芬草案对国民初等教育终极宗旨的界定
-> 聚芬在 1819 年草案中为初等国民教育确立了极具新人文主义色彩的核心目标：初等教育的崇高目的在于全面发展受教育者灵魂的各项潜能、理性、感官与身体力量，并将宗教与道德[[Bildung\|教化]]深植其中，使每位臣民[[Growth\|成长]]为理性自立的现代爱国公民。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 29)]]；引自 Cousin (1930:159)
+> 聚芬在 1819 年草案中为初等国民教育确立了极具新人文主义色彩的核心目标：初等教育的崇高目的在于全面发展受教育者灵魂的各项潜能、理性、感官与身体力量，并将宗教与道德[[Bildung\|教化]]深植其中，使每位臣民成长为理性自立的现代爱国公民。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 29)]]；引自 Cousin (1930:159)
 >
 > *Primary instruction shall have for its aim to develop the faculties of the soul, the reason, the senses, and the bodily strength, and it shall comprehend religion and morals.*
 

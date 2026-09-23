@@ -7,7 +7,7 @@ aliases:
 summary: "特定课堂、学校或科学共同体内部共享的关于知识本质和认知实践的宏观制度规范与文化氛围，结构化地约束着微观互动与个体的资源调配。"
 type: concept
 domain: "educational-psychology"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,7 +16,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Justificatory Standards]]"
   - "[[Epistemic Resources]]"
-  - "[[Dialogue in Education]]"
   - "[[Scaffolding]]"
   - "[[Constructivist Paradigm]]"
 related_theories:
@@ -33,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-19
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Epistemic Climate
@@ -55,7 +54,7 @@ updated: 2026-09-17
 ## 核心机制
 
 > [!feature] 氛围的生成与向下约束
-> - **教师与制度的塑造（Top-down）** 课堂的[[Epistemology\|认识论]]氛围很大程度上是由拥有制度权力的教师塑造的。教师的评估方式（是考背诵还是考推理过程）、[[Dialogue in Education\|对话]]引导模式（是否允许学生反驳教材）以及课堂物质条件（是否提供实验器材）共同锚定了氛围的基调。
+> - **教师与制度的塑造（Top-down）** 课堂的[[Epistemology\|认识论]]氛围很大程度上是由拥有制度权力的教师塑造的。教师的评估方式（是考背诵还是考推理过程）、对话引导模式（是否允许学生反驳教材）以及课堂物质条件（是否提供实验器材）共同锚定了氛围的基调。
 > - **向下约束作用（Downward Constraint）** 氛围作为一种宏观结构，对底层施加因果约束。一个“绝对主义”的认识论氛围会系统性地压抑学生小组内部的辩论（人际交互层级），进而迫使个体锁定并仅调用“知识是权威传递的”这一微观[[Epistemic Resources\|认识论资源]]（个体层级）。
 > - **通过参与而内化** 学生通过长期的边缘合法性参与（legitimate peripheral participation），逐渐识别并适应这种隐性的文化规范，最终将其内化为自身的认知习惯。
 

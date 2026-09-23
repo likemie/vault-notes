@@ -11,7 +11,7 @@ aliases:
 summary: "个体或群体在特定情境中综合调动认知、情绪与环境资源生成新颖且适切成果的心理能力与综合表现，在教育研究中兼具预测变量与发展结果的双重属性"
 type: concept
 domain: "competency-and-assessment"
-related_count: 57
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -30,6 +30,10 @@ related_concepts:
   - "[[Divergent Thinking]]"
   - "[[Problem Finding]]"
   - "[[Operationalization]]"
+  - "[[Open-Mindedness]]"
+  - "[[Epistemic Virtues and Vices]]"
+  - "[[Counterfactual]]"
+  - "[[Hypothesis]]"
   - "[[Academic Achievement]]"
   - "[[Creativity Training]]"
   - "[[Cooperative Learning]]"
@@ -38,6 +42,10 @@ related_concepts:
   - "[[Brainstorming]]"
   - "[[Reflexivity]]"
   - "[[Self-Regulated Learning]]"
+  - "[[Creative Deskilling]]"
+  - "[[Cognitive Deskilling]]"
+  - "[[AI Agent in Education]]"
+  - "[[Scaffolding]]"
   - "[[Predictive Validity]]"
   - "[[APA Style]]"
   - "[[Champ]]"
@@ -53,7 +61,6 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Interaction Effect]]"
   - "[[Critical Thinking Assessment]]"
-  - "[[Scaffolding]]"
   - "[[Formative Assessment]]"
 related_methods:
   - "[[Effect Size]]"
@@ -69,15 +76,18 @@ related_instruments:
   - "[[Consensual Assessment Technique]]"
 related_persons:
   - "[[Mark A. Runco]]"
+  - "[[Socrates]]"
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_Guo_2025_TSC]]"
+  - "[[Argument_Naeem_2026_Episteme]]"
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Zhao_2025_JIntell]]"
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
 related_theories:
+  - "[[Virtue Epistemology]]"
   - "[[Creative Problem Solving]]"
 related_facts:
   - "[[OECD]]"
@@ -86,7 +96,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-08-23
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Creativity
@@ -130,10 +140,11 @@ updated: 2026-09-17
 ## 核心要素
 
 > [!feature] 核心要素
-> - **创造者（Person）** 探讨创造者的认知能力、人格特质（如经验开放性、精神质）、动机状态（内在动机）与创造潜能。
+> - **创造者（Person）** 探讨创造者的认知能力、人格特质（如经验[[Open-Mindedness|开放性]]、精神质）、动机状态（内在动机）与创造潜能。
 > - **创造过程（Process）** 探讨[[Problem Finding\|问题发现]]、[[Divergent Thinking\|发散思维]]、顿悟、酝酿与收敛评估等内在认知加工阶段。
 > - **创造产品（Product）** 探讨最终产出的作品、观念、专利、成就或行为在特定领域的独创性与价值。
 > - **创造环境（Press / Environment）** 探讨物理空间、组织气候、教学支持、社会文化规范对创造力的促进或抑制作用。
+> - **创造力作为[[Epistemic Virtues and Vices|理智美德]]（Creativity as an Intellectual Virtue）** 结合[[Virtue Epistemology|德性认识论]]框架，创造力不仅表现为外显的发散思维技能，更是深层的理智美德，由**动机成分**（对原创性、知识发现与真理深化的内在热爱）与**技能成分（发散思维、远距离联想、[[Counterfactual|反事实]][[Hypothesis|假设]]生成）**双重构成，并依赖于将新构想与个体独特的具身体验、个人叙事及多领域经验图式深度交织。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 270, 277–278)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -189,7 +200,10 @@ updated: 2026-09-17
 > **创意构想发散与个人叙事声音稀释的实证确证** Urban et al. (2024) 发现 ChatGPT 显著提升了学生在设计任务中的构想流畅度与灵活性，但生成的方案独创性呈现向主流统计均值收敛的倾向；Monib et al. (2025) 针对留学生写作的研究进一步证实，无节制的 AI 润色会系统性抹平作者的原生文化叙事与个体声音，造成创意的表面光滑与实质平庸。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 8, 11)]]
 
 > [!claim] Zhao et al.
-> **生成式 AI 对创造力促进相对有限与内容同质化瓶颈** 一阶[[Meta-analysis\|元分析]]证实，生成式 AI 对学生创造力与创造性思维的促进效应呈现中等偏小幅度，不仅显著落后于程序性[[Problem Solving\|问题解决能力]]与批判性思维，而且在三大高阶认知维度中处于末位。研究者指出，创造力本质上要求打破常规、提出独特的创新构想；然而大语言模型本质上是根据训练数据生成概率最高的文本，其输出天然倾向于中规中矩的“大众平均水平”与常规套路。当学生缺乏[[Self-Regulated Learning\|自主调节学习]]能力与显性反思支架时，极易走捷径直接套用 AI 给出的现成方案，导致产出千篇一律，难以形成真正的突破性创意。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 10–11, 13–15)]]
+> **生成式 AI 对创造力促进相对有限与内容同质化瓶颈** 一阶[[Meta-analysis\|元分析]]证实，生成式 AI 对学生创造力与创造性思维的促进效应呈现中等偏小幅度，不仅显著落后于程序性[[Problem Solving\|问题解决能力]]与批判性思维，而且在三大高阶认知维度中处于末位。创造力本质上要求打破常规、提出独特的创新构想；然而大语言模型本质上是根据训练数据生成概率最高的文本，其输出天然倾向于中规中矩的“大众平均水平”与常规套路。当学生缺乏[[Self-Regulated Learning\|自主调节学习]]能力与显性反思支架时，极易走捷径直接套用 AI 给出的现成方案，导致产出千篇一律，难以形成真正的突破性创意。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 10–11, 13–15)]]
+
+> [!claim] Naeem; Doshi & Hauser
+> **群体多样性萎缩与[[Creative Deskilling|创造力去技能化]]防范：[[Counterfactual|反事实]]探究与经验图式交织** 针对生成式 AI 介入对创造力的深层影响，实证研究（Doshi & Hauser, 2024）表明，尽管 AI 能在微观个体层面提升低能力写作者的故事吸引力与构想丰富度，但在宏观群体层面却显著降低了集体叙事的多样性，导致作品在情节逻辑与意象隐喻上高度趋同。[[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 进一步指出，当学习者过度依赖 AI 直接产出创意方案时，将引发“创造力[[Cognitive Deskilling|去技能化]]（Creative Deskilling）”危机——弱化自主远距离联想、反事实思维与深层构想生成的能力。为化解此风险，需依托[[Socrates|苏格拉底]]式提问[[AI Agent in Education|智能体]]（如 Q-Tutor）实施“假若（What-if）”反事实与跨视角探究支架（例如“假如重力减弱城市建筑会怎样变化”、“若轮子从未被发明古代贸易如何演进”、“从蝴蝶视角审视城市废墟”），并通过强制拦截直接答案、引导学生调动个人独特经验图式（如结合音乐声学或空间模型），将 AI 转化为美德与技能训练的[[Scaffolding|脚手架]]，实现创造力美德在人机协同中的深度激活。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 272–273, 277–278)]]
 
 ---
 
@@ -200,7 +214,7 @@ updated: 2026-09-17
 > |---|---|---|---|
 > | **[[Predictive Validity\|预测效度]]不对称性** | 创造力预测外部结果的效应显著强于外部因素对创造力的预测 | 心理测量、选拔与发展评估 | [[Mark A. Runco\|Runco et al. (2026)]]; Paek & Runco (2018) |
 > | **教育可塑性与干预效能** | 专门的教育教学干预与训练项目是促进创造力发展的最有效途径，合作学习对高阶认知赋能显著，高校干预呈现中短期倒 U 型周期与言语认知优势 | 课程设计、教学改革与思维训练 | Scott et al. (2004); [[Mark A. Runco\|Runco et al. (2026)]]; [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] |
-> | **人机构想激发** | AI 显著拓展发散构想空间，但对创造力整体促进有限并落后于其他高阶思维，须防范文风均质化、个体声音稀释与捷径式学习 | 人机协同创意设计、头脑风暴与学术写作 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; Urban et al. (2024); Monib et al. (2025); [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] |
+> | **人机构想激发** | AI 显著拓展发散构想空间，但对创造力整体促进有限并落后于其他高阶思维，须防范文风均质化、个体声音稀释与去技能化风险 | 人机协同创意设计、头脑风暴与学术写作 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; Urban et al. (2024); Monib et al. (2025); [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]]; [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] |
 
 ---
 
@@ -212,7 +226,7 @@ updated: 2026-09-17
 > - **1980–1990 年代 系统论与日常创造力转向** Csikszentmihalyi 提出领域-[[Champ\|场域]]系统模型，Runco & Richards 倡导日常创造力与潜能观。
 > - **2020 年代 [[Meta-meta-analysis\|二阶元分析]]确立实证效应基准** [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] 综合 52 项一阶[[Meta-analysis\|元分析]]确立创造力关联全景基准；[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 证实[[Cooperative Learning\|合作学习]]对创造性思维等[[Higher-Order Thinking Skills\|高阶认知技能]]的优先促进效能。
 > - **2025 年 高校[[Creativity Training\|创造力干预]][[Three-Level Meta-Analysis\|多层元分析]]** [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 综合 29 项实证研究（109 个[[Effect Size\|效应量]]）确立大学生创造力干预基准（$g = 0.628$），揭示中短期黄金时间窗口（$< 2$ 个月 $g = 0.844$）与言语认知驱动优势；[[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 基于 29 项实验元分析确立生成式 AI 对学生创造性思维干预基准（$g = 0.444$），揭示 AI 输出常规套路对创意的限制，以及自主调节学习在突破瓶颈中的关键作用。
-> - **2026 年 人机协同创造力与双向共现整合** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 揭示生成式 AI 作为发散生成伙伴在构想拓展与均质化防范中的辩证特征，推动创造力研究从个体/群体走向人机分布式智能生态。
+> - **2026 年 人机协同创造力、德性培育与[[Cognitive Deskilling|去技能化]]防范** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 揭示生成式 AI 作为发散生成伙伴在构想拓展与均质化防范中的辩证特征；[[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 结合 Doshi & Hauser (2024) 实证揭示 AI 介入引发群体创意多样性收敛与个体[[Creative Deskilling|创造力去技能化]]（Creative Deskilling）的深层机制，论证[[Counterfactual|反事实]]探究与经验图式交织在培育理智创造力美德中的关键价值，推动创造力研究从个体/群体走向人机分布式智能生态。
 
 ---
 
@@ -229,14 +243,14 @@ updated: 2026-09-17
 > > [!axis] 领域一般性 vs [[Domain Specificity\|领域特殊性]]
 > > 争论创造力是一种跨学科通用的普遍认知潜能，还是高度依赖特定领域知识与技能的情境化能力。
 > >
-> > - **通才立场** 主张[[Divergent Thinking\|发散思维]]、[[Problem Finding\|问题发现]]与开放性人格是跨领域的通用基础。
+> > - **通才立场** 主张[[Divergent Thinking\|发散思维]]、[[Problem Finding\|问题发现]]与[[Open-Mindedness|开放性]]人格是跨领域的通用基础。
 > > - **专才立场** 强调艺术创造与科学创造在认知机制、评价标准及神经活动模式上存在实质性分离。
 >
 > > [!axis] 创意民主化 vs 均质化与主体声音淹没
 > > 争论生成式 AI 是降低了大众创意的表达门槛，还是通过算法概率均值抹杀了人类独特的边缘探索与深度独创性。
 > >
 > > - **赋能派** 强调 AI 能打破知识壁垒，使非专业人士亦能快速将模糊构想具象化为原型方案（Urban et al., 2024）。
-> > - **批判派（Monib et al. / Li et al. / Zhao et al.）** 警告过度依赖算法输出将导致文化表达高度同质化，并侵蚀深层探索的心智韧性；[[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] [[Meta-analysis\|元分析]]实证表明生成式 AI 对创造力的促进效应仅为 $g = 0.444$，在三大高阶维度中位列末位，证实底层概率最大似然机制天然抑制了违背常规的新颖性。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 13–14)]]
+> > - **批判派（Monib et al. / Li et al. / Zhao et al. / Naeem）** 警告过度依赖算法输出将导致文化表达高度同质化，并侵蚀深层探索的心智韧性；[[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] [[Meta-analysis\|元分析]]实证表明生成式 AI 对创造力的促进效应仅为 $g = 0.444$，在三大高阶维度中位列末位，证实底层概率最大似然机制天然抑制了违背常规的新颖性；[[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 援引 Doshi & Hauser (2024) 实证警告 AI 在微观提升个体故事丰富度的同时显著造成宏观集体叙事多样性萎缩，并引发[[Creative Deskilling|创造力去技能化]]风险。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 13–14)]]; [[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 272–273)]]
 
 ---
 
@@ -311,4 +325,5 @@ updated: 2026-09-17
 > - **高等教育政策与量规评价实践** [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] [[Systematic Review\|系统综述]] [[OECD]] 国家高等教育中创造力与[[Critical Thinking Assessment\|批判性思维评价]]的政策与实践，详析创造力在高校微观考核中的显性标准匮乏现状与真实性量规的破局路径。
 > - **[[Generative Artificial Intelligence\|生成式人工智能]]赋能与抑制综述** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 系统综述 67 项实证研究，揭示 ChatGPT 作为发散生成伙伴在构想拓展（31 项）、结构[[Scaffolding\|脚手架]]（24 项）与视角转换（18 项）中的促进效能，并指出非结构化使用导致个人学术声音稀释与探索停滞的风险。
 > - **生成式 AI 影响创造力的元分析实证** [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 运用随机效应[[Meta-analysis\|元分析]]综合 29 项实验与准实验（创造力子维度 $k = 23$），确立生成式 AI 对学生创造力的中等偏小正向促进效应（$g = 0.444$），揭示了统计生成模型的同质化输出对突破性原创新颖性构成的潜在阻抗。
+> - **[[Virtue Epistemology|德性认识论]]与人机协同创造力培育** [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 从德性责任论视角界定创造力为涵盖动机与技能的双重[[Epistemic Virtues and Vices|理智美德]]，结合 Doshi & Hauser (2024) 群体叙事多样性萎缩的实证发现，系统阐明过度依赖 AI 引发[[Creative Deskilling|创造力去技能化]]的认知机制，并验证了 Q-Tutor [[AI Agent in Education|智能体]]通过直接答案拦截规则、[[Counterfactual|反事实]]设问（What-if）与个人经验图式交织促进创造力发展的支架路径。
 > - **[[Creativity Assessment\|创造力测评]]与测量方法学** 参见专门概念条目 [[Creativity Assessment\|创造力测评]]，该条目系统整合了从[[Divergent Thinking\|发散思维]]标准化测验（[[Torrance Tests of Creative Thinking\|TTCT]]/[[Alternate Uses Test\|AUT]]）、专家产品同感评定（[[Consensual Assessment Technique\|CAT]]）、大学招生情境任务（Rainbow/Kaleidoscope）到校本真实性评分量规（VALUE/[[Centre for Educational Research and Innovation\|CERI]]/[[CALOHEE Project\|CALOHEE]]）的工具矩阵、[[Criterion Problem\|效标困境]]与[[Formative Assessment\|促学评价]]生态。

@@ -6,10 +6,10 @@ aliases:
 summary: "在认识论认知AIR模型中，指引探究、发现与信念形成过程的规范性意向与认知成就追求，是区分认识论认知与非认识论认知的根本标尺。"
 type: concept
 domain: "educational-psychology"
-related_count: 26
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/epistemic-cognition
   - theme/argumentation
@@ -24,14 +24,27 @@ related_concepts:
   - "[[Justificatory Standards]]"
   - "[[Epistemic Value]]"
   - "[[Scientific Explanation]]"
+  - "[[Cognitive Deskilling]]"
+  - "[[Working Memory]]"
+  - "[[Skill of Questioning]]"
+  - "[[Epistemic Virtues and Vices]]"
+  - "[[Open-Mindedness]]"
+  - "[[Creativity]]"
+  - "[[Homework]]"
   - "[[Learner Autonomy]]"
   - "[[Academic Achievement]]"
+  - "[[Technology Infusion]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Interaction Effect]]"
+  - "[[Authentic Science Practices]]"
+  - "[[Conatus]]"
+  - "[[Procedural Skill]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Heterogeneity]]"
   - "[[Procedural Knowledge]]"
 related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
+  - "[[Virtue Epistemology]]"
 related_methods:
   - "[[Systematic Review]]"
   - "[[Intervention Research]]"
@@ -45,10 +58,11 @@ related_arguments:
   - "[[Argument_Chinn_2011_EP]]"
   - "[[Argument_Duncan_2025_CI]]"
   - "[[Argument_Cartiff_2021_JEP]]"
+  - "[[Argument_Naeem_2026_Episteme]]"
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Epistemic Aims
@@ -145,6 +159,16 @@ updated: 2026-09-22
 
 ---
 
+### 命题四　生成式人工智能时代教育的认识论目标必须坚持内生机能、智力技能与理智品格的三重统合
+
+> [!concept-lens] 教育认识论目标的本体层级与技术依赖抵御
+> 探讨生成式 AI 时代教育认识论目标如何突破单纯产出效率与外在完成度，确立以培育学生内在机体能力与德性品格为核心的规范边界。
+
+> [!claim] [[Argument_Naeem_2026_Episteme\|Naeem (2026)]]
+> **教育三重认识论目标体系与[[Cognitive Deskilling|去技能化]]阻断** 教育的核心认识论目标在于强化认识主体自身的内在成长，具体包含三大递进层级：① 锤炼内生认知机能（如[[Working Memory|工作记忆]]与逻辑推理）；② 传授程序性智力技能（如写作、论证与[[Skill of Questioning|善于提问]]）；③ 塑造健全的[[Epistemic Virtues and Vices|理智美德]]（如[[Open-Mindedness|思想开放]]与[[Creativity|创造力]]）。当学生将写作与推理全盘外包给生成式 AI 以追求快速完成[[Homework|作业]]的外在产出时，直接切断了内生思维机能所必需的认知挣扎，引发认知与创造力的双重[[Cognitive Deskilling|去技能化]]。因此，教育系统的认识论目标不能降级为表层的任务产出效率，必须将技术交互规约锁定在保护认知挣扎、训练提问技能并滋养求真品格的内生发展上。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 270–274)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -153,6 +177,7 @@ updated: 2026-09-22
 > | **信念中介论** | 认识目标调控认识论信念向具体学习策略的转化 | 学习策略预测、[[Learner Autonomy\|自主学习]]与动机研究 | Chinn et al. |
 > | **实践塑形论** | 认识目标决定探究范畴并驱动理想与可靠过程的激活 | 科学探究教学、科学论证评价与建模活动 | Duncan & Chinn |
 > | **目标对齐论** | 任务目标与测验维度的认识论对齐决定干预效应显现幅度 | 认识论干预效果评估、[[Academic Achievement\|学业成就]]测验设计与评价对齐 | Cartiff et al. |
+> | **三重统合论** | 教育认识论目标包含机能、技能与美德三重统合，[[Technology Infusion\|技术整合]]必须抵御去技能化 | [[Generative Artificial Intelligence\|生成式人工智能]]教学整合、教育哲学目标规范辩护 | [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] |
 
 ---
 
@@ -163,7 +188,8 @@ updated: 2026-09-22
 > - **2011 — 扩展[[Epistemic Cognition\|认识论认知]]首要构件** Chinn 等学者将认识目标确立为扩展认识论认知五构件的第一组件，用以划定认识论认知与非认识论倾向的边界。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011)]]
 > - **2014 — [[AIR Model of Epistemic Cognition\|AIR]] 理论模型核心支柱** Chinn, Rinehart & Buckland 提出 AIR 模型，将认识目标（Aims）与理想（Ideals）、[[Reliable Epistemic Processes\|可靠过程]]（Reliable Processes）整合为三元微观动态网络。
 > - **2021 — 任务对齐与因果干预效应的量化确立** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 通过[[Meta-analysis\|元分析]][[Interaction Effect\|调节效应]]检验，量化证实了任务认识目标与评价测验对齐在调节认识论干预成效中的关键机制。
-> - **2025 — 广义认识成就与论证实践拓展** Duncan & Chinn 将认识目标系统拓展至科学建模、证据评估与论证产出等真实科学实践范畴。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025)]]
+> - **2025 — 广义认识成就与论证实践拓展** Duncan & Chinn 将认识目标系统拓展至科学建模、证据评估与论证产出等[[Authentic Science Practices|真实科学实践]]范畴。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025)]]
+> - **2026 — 人工智能时代的教育三重认识论目标体系** [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 结合[[Virtue Epistemology|美德认识论]]责任论，明确确立教育的认识论目标由内[[Conatus|生机]]能、[[Procedural Skill|程序性技能]]与理智品格三重统合构成，为批判 AI 外包引发的[[Cognitive Deskilling|去技能化]]提供了规范基石。
 
 ---
 
@@ -196,3 +222,5 @@ updated: 2026-09-22
 > - [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] — 系统论证认识目标作为[[Epistemic Cognition\|认识论认知]]首要构件的必然性，揭示其在解释同信念不同行为中的关键中介作用。
 > - [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] — 在 [[AIR Model of Epistemic Cognition\|AIR]] 模型下将认识目标拓展为包含模型建构与证据评估的广义认识成就，奠定科学论证评价体系。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 认识论认知干预因果[[Meta-analysis\|元分析]]，实证证实了[[Epistemology\|认识论]]干预对指向深层理解与高阶论证的认识目标具有显著促进效应，并量化揭示了测验目标对齐的调节机制。
+> - [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] — 立足[[Virtue Epistemology|美德认识论]]提出教育的三重认识论目标体系（内[[Conatus|生机]]能、智力技能与理智品格），系统阐明生成式 AI 依赖引发的[[Cognitive Deskilling|去技能化]]危机对育人目标的侵蚀机制。
+

@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -24,7 +24,6 @@ tags:
   - theme/higher-education
   - theme/knowledge-mobilisation
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Lifelong Learning]]"
   - "[[Academic Freedom]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # American Council on Education
@@ -61,7 +60,7 @@ updated: 2026-09-17
 > - **成立时间与创设背景** 创设于 1918 年（第一次世界大战期间），最初名为“紧急教育委员会”（Emergency Council on Education），旨在协调全美大学资源支持国家战时训练与人力动员；一战结束后迅速转为常设机构并更为现名。
 > - **总部地点与辐射广度** 总部常设于美国首都华盛顿特区杜邦圆环，紧邻[[American Association for the Advancement of Science\|美国科学促进会]]、大学协会（AAU）与国会山政策走廊，代表着全美接受高等教育的逾两千万名在校大学生的制度利益。
 > - **法人属性与经费基础** 独立非营利高等教育联盟法人；经费依托成员高校年会费、全美学分评估服务（CREDIT）商业收入、高校高级管理人员培训项目以及独立慈善基金会的竞争性资助。
-> - **核心宗旨与法定职责** 聚合全美高等教育界意志，捍卫学术自主与大学自治；扩大弱势群体接受高等教育的平权可及性；统筹全美高校与联邦立法机构的战略[[Dialogue in Education\|对话]]。
+> - **核心宗旨与法定职责** 聚合全美高等教育界意志，捍卫学术自主与大学自治；扩大弱势群体接受高等教育的平权可及性；统筹全美高校与联邦立法机构的战略对话。
 
 ---
 

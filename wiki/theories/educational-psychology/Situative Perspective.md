@@ -8,7 +8,7 @@ aliases:
 summary: "一种将学习和认知视为特定社会、文化与物理环境中持续进行的参与实践（participation in social practices），而非个体头脑内部脱域知识存储的理论范式。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 23
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Paradigm Wars]]"
   - "[[Commensuration]]"
-  - "[[Dialogue in Education]]"
   - "[[Epistemic Commitments]]"
 related_theories:
   - "[[Cognitive Constructivism]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-19
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Situative Perspective
@@ -133,7 +132,7 @@ updated: 2026-09-18
 > > - **情境主义（Situative Perspective）** 认为个体建构派彻底搞错了本体论，把“社会实践”错误地还原成了“脑内[[Coding in Qualitative Research\|编码]]”。Packer & Goicoechea (2000) 认为这两者是不可[[Commensuration\|通约]]的（incommensurate）。
 
 > [!warning] 方法论的推论危机（Inference Problem）
-> 尽管情境派崇尚自然观察和[[Discourse Analysis\|话语分析]]，但它面临着致命的推论难题：研究者仅靠观察学生外部的行为流和[[Dialogue in Education\|对话]]，很难准确无误地推断出学生内心深层到底在运转何种隐蔽的认知承诺（[[Epistemic Commitments]]）。因为有时学生说出某句话仅仅是为了“应付老师”，而非真的相信。为了解决这个危机，当代理论正走向[[Integrative Pluralism\|整合的多元主义]]与[[Mixed Methods Research\|混合方法]]。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 467)]]
+> 尽管情境派崇尚自然观察和[[Discourse Analysis\|话语分析]]，但它面临着致命的推论难题：研究者仅靠观察学生外部的行为流和对话，很难准确无误地推断出学生内心深层到底在运转何种隐蔽的认知承诺（[[Epistemic Commitments]]）。因为有时学生说出某句话仅仅是为了“应付老师”，而非真的相信。为了解决这个危机，当代理论正走向[[Integrative Pluralism\|整合的多元主义]]与[[Mixed Methods Research\|混合方法]]。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 467)]]
 
 ---
 

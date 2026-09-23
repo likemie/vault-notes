@@ -8,7 +8,7 @@ aliases:
 summary: "由 Ben Levin 提出的经典教育知识动员系统理论模型，将研究流动表征为生产、使用与中介三大功能情境的动态重叠与双向反馈，提出五阶段研究利用阶梯与机制-障壁诊断比率，并深嵌于宏观社会背景之中"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 27
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Research Impact]]"
   - "[[Research Utilization]]"
   - "[[Reliability]]"
-  - "[[Growth]]"
   - "[[Heterogeneity]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Epistemic Stances]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Research Knowledge Mobilisation Model
@@ -104,7 +103,7 @@ updated: 2026-09-17
 >   2. **知识与理解（Knowledge and Understanding）** 使用者阅读并准确把握证据实质与因果逻辑；
 >   3. **态度与信念（Attitudes and Beliefs）** 使用者对研究结论的可[[Reliability\|信度]]与实践价值产生正面认同；
 >   4. **行为改变（Behaviour）** 在具体教学策略、学校治理或政策制定中实质性改变既有实践；
->   5. **服务对象最终产出（Outcomes for Service Users）** 行为变革最终转化为学生学业[[Growth\|成长]]、身心健康或教育公平的实质性增益。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 117)]]
+>   5. **服务对象最终产出（Outcomes for Service Users）** 行为变革最终转化为学生学业成长、身心健康或教育公平的实质性增益。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 117)]]
 > - **推导** ① 生产、使用与中介在几何图式上被表达为相互重叠的三角形；② 知识动员不是发生在单一情境内部，而是恰恰生发于两两重叠或三者交汇的交织界面；③ 中介功能主要在前三阶段发挥转化催化作用，而行为改变与最终产出则高度依赖使用情境深层的组织结构与制度重构。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 40–41)]]
 
 > [!proposition-chain] 核心命题二｜关系的强度与频次决定证据流动的深浅且深嵌于宏观制度环境

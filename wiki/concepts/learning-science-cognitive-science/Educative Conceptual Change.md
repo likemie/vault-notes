@@ -7,7 +7,7 @@ aliases:
 summary: "学习者通过重新组织信息并借助信息思考而改变对现象的理解及行动方式，是超越信息积累的教育性学习结果。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 5
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,7 +16,6 @@ tags:
   - theme/learning
   - level/higher-ed
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Variable]]"
 related_persons:
   - "[[John Biggs]]"
@@ -27,7 +26,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Educative Conceptual Change
@@ -75,7 +74,7 @@ updated: 2026-09-17
 >   学生需要感到有必要达到目标；当这种需要起初不存在时，教学应帮助其形成，因此动机可以是良好教学的结果。
 > - **能够专注任务本身**
 >   学生需要把注意力放在理解任务上，而不是因仓促或设计不当的评估而不断防范失败、猜测考试或管理风险。
-> - **能够协作和[[Dialogue in Education\|对话]]**
+> - **能够协作和对话**
 >   学生通过同伴和教师之间的有效对话形成、扩展并深化理解。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 60–61)]]
 
 这四项条件并非彼此孤立。清楚的目标提供方向，实际需要推动投入，安全的任务环境释放注意力，对话则使学习者能够检验并重组理解。缺少其中任何一项，学生都可能转而采用只求完成要求的表层策略。
@@ -106,7 +105,7 @@ updated: 2026-09-17
 
 ### 命题三　评估环境和社会互动共同决定学生能否持续重组理解
 
-> [!concept-lens] 注意力与[[Dialogue in Education\|对话]]条件
+> [!concept-lens] 注意力与对话条件
 > 这一命题关注个体认知活动为何需要适当的评估环境和社会互动支持。
 
 > [!claim] Biggs, J.
@@ -136,4 +135,4 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] — 区分信息积累与概念改变，提出目标清晰、形成需要、专注任务及协作[[Dialogue in Education\|对话]]四项发生条件，并把这些条件连接到教学设计。
+> - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] — 区分信息积累与概念改变，提出目标清晰、形成需要、专注任务及协作对话四项发生条件，并把这些条件连接到教学设计。

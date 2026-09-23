@@ -16,9 +16,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 32
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_count: 31
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
 tags:
   - ines
@@ -42,7 +42,6 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Performativity]]"
   - "[[Reflexivity]]"
-  - "[[Dialogue in Education]]"
   - "[[Knowledge Production]]"
   - "[[Ecological Fallacy]]"
   - "[[Performance Pay]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # International Indicators of Education Systems
@@ -161,7 +160,7 @@ updated: 2026-09-18
 > > [!axis] 科学家失权与行政化异化
 > > 项目奠基人 Bottani 在卸任后发表多篇深度反思，痛陈指标研发控制权的沦丧。
 > >
-> > - **[[Norberto Bottani]]（1998, 2008）** 尖锐指出：INES 在 1990 年代后期迅速由“科学家与决策者的智慧[[Dialogue in Education\|对话]]平台”堕落为“闭门造车的官僚行政机器”；2000 年东京大会标志着民间独立学者被彻底放逐，跨国机构垄断了[[Knowledge Production\|知识生产]]解释权。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 17–18)]]
+> > - **[[Norberto Bottani]]（1998, 2008）** 尖锐指出：INES 在 1990 年代后期迅速由“科学家与决策者的智慧对话平台”堕落为“闭门造车的官僚行政机器”；2000 年东京大会标志着民间独立学者被彻底放逐，跨国机构垄断了[[Knowledge Production\|知识生产]]解释权。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 17–18)]]
 >
 > > [!axis] 三重社会力量的历史抵制
 > > INES 在推进过程中曾遭遇广泛的专业与社会联合抵制：

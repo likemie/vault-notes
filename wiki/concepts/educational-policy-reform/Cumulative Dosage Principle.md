@@ -9,7 +9,7 @@ aliases:
 summary: "由罗伯特·斯莱文等学者针对教育干预短期效应衰减提出的政策与教学假说，主张克服脉冲式单一干预的局限性，在学前至高中全学段连年推行经过实证检验的高质量教学模式，通过连贯干预剂量的逐年叠加实现学生学业优势的终身稳固累积。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Decodification]]"
   - "[[Epistemology]]"
   - "[[Epistemic Friction]]"
-  - "[[Growth]]"
   - "[[Scientific Explanation]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Teaching Assistant]]"
@@ -99,7 +98,7 @@ updated: 2026-09-22
 > [!feature] 累积剂量原则的三大制度支柱
 > - **学段间横向与纵向教学逻辑同构（Instructional Coherence）** 从幼儿园音素[[Decodification\|解码]]到高年级学科文本阅读，各年级教材规程与师生互动步调需保持内在[[Epistemology\|认识论]]的一致性，防止学生跨年级转换时遭受教学规程[[Epistemic Friction\|认知摩擦]]。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 > - **常态化全班 Tier 1 课堂质量筑底** 杜绝“救济干预有效但常规教学平庸”的脱节现象，以全校性循证方案（如 [[Success for All]]、[[Enhanced Core Reading Instruction]]）保障弱势儿童即便退出一对一密集辅导，依然每天身处高效能教学常态中。
-> - **跨学年学生学业[[Growth\|成长]]数据贯通监测** 建立跨校区、跨学段的统一标准化进度追踪档案，确保高危儿童的干预履历不因升学、转班或转校而发生政策性中断。
+> - **跨学年学生学业成长数据贯通监测** 建立跨校区、跨学段的统一标准化进度追踪档案，确保高危儿童的干预履历不因升学、转班或转校而发生政策性中断。
 
 ---
 

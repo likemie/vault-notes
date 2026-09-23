@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_display_title: "Research Methods in Education · Ch21"
 argument_kind: "book-chapter"
-argument_related_count: 56
+argument_related_count: 55
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -35,7 +35,6 @@ part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
   - "[[Concept Mapping]]"
   - "[[Paradigm]]"
-  - "[[Dialogue in Education]]"
   - "[[Knowledge Production]]"
   - "[[Interviewer Effects]]"
   - "[[Epistemology]]"
@@ -113,7 +112,7 @@ updated: '2026-09-08'
 
 ### 21.1 引言：访谈作为主体间知识生产
 
-访谈标志着[[Paradigm|研究范式]]的一个关键转向，从把人当作可操纵的对象、把数据看作外在于人的东西，转向把知识视为通过[[Dialogue in Education|对话]]在人与人之间**生成**的产物。Kvale（1996, p. 14）将访谈理解为 **inter-view**，即两个人或更多人之间就共同感兴趣的话题进行的观点交换，揭示了人际互动在[[Knowledge Production|知识生产]]中的核心地位，以及研究数据的社会情境性（p.409）。
+访谈标志着[[Paradigm|研究范式]]的一个关键转向，从把人当作可操纵的对象、把数据看作外在于人的东西，转向把知识视为通过对话在人与人之间**生成**的产物。Kvale（1996, p. 14）将访谈理解为 **inter-view**，即两个人或更多人之间就共同感兴趣的话题进行的观点交换，揭示了人际互动在[[Knowledge Production|知识生产]]中的核心地位，以及研究数据的社会情境性（p.409）。
 
 > [!claim] 访谈交互主体性的核心论断
 > 访谈不是纯粹主观的，也不是纯粹客观的，而是**主体间的（intersubjective）（Laing（1967, p. 66））**。访谈使参与者（无论是访谈者还是被访者）能够讨论他们对自己所生活世界的解释，并从自身立场表达对情境的看法。由此看来，访谈不只是收集关于生活的数据，它本身就是生活的一部分，人际嵌入性贯穿始终。
@@ -1040,7 +1039,7 @@ Parker & Lynn（2002, p. 13）：大量教育研究通过不关注边缘群体�
 >
 > *Foreknowledge of the situation obviously reduces the task confronting the investigator, since the interview need not be devoted to discovering the objective nature of the situation.*
 
-> [!citation-card]- 访谈不是日常[[Dialogue in Education\|对话]]
+> [!citation-card]- 访谈不是日常对话
 > 与日常对话相比，访谈有特定目的，通常基于问题，问题由访谈者提出；只有访谈者可以表达无知，受访者则不能；回应必须尽可能明确和尽可能详细。访谈是一个被建构且通常经过专门计划的事件，而非自然发生的情境。（第21章, pp.409–410）
 >
 > *In contrast to an everyday conversation, it has a specific purpose, it is often question-based, with the questions being asked by the interviewer; the interviewer alone may express ignorance (and not the interviewee).*

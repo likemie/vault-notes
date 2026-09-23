@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 44
+fact_related_count: 43
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Democratising Evidence]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Creativity Assessment]]"
-  - "[[Dialogue in Education]]"
   - "[[New Public Management]]"
   - "[[Output-Oriented Governance]]"
   - "[[Research Utilization]]"
@@ -80,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-11
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Centre for Educational Research and Innovation
@@ -122,7 +121,7 @@ updated: 2026-09-18
 > [!pathways]- 业务运行机制
 > - **前瞻情境研判与先导试验** 针对尚未形成政策共识的边缘议题（如人工智能在教学中的伦理边界、教师[[Creativity Assessment\|创造力评价]]、神经科学与学习机制、[[Evidence Ecosystem\|教育证据生态系统]]）设立中短期探索课题，先行开发原型工具。
 > - **制度化概念孵化与成果交割** 一旦探索性项目验证成功并具备全球推广价值，CERI 便将其机制化交割给经合组织常设行政司局（如 [[International Indicators of Education Systems\|INES]] 项目成熟后移交教育与技能司，[[Definition and Selection of Competencies\|DeSeCo]] 框架成熟后交由 [[PISA]] 实施）。
-> - **多方平等[[Dialogue in Education\|对话]]与受托生态共建** 近年来深刻反思[[New Public Management\|新公共管理]]模式下的单向知识传输与工具主义采买，倡导在官方决策者、专业科研人员与一线教师工会之间建立以信任与共同所有权为基石的多边[[Dialogue in Education\|对话]]机制。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 108)]]; [[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 229–231)]]
+> - **多方平等对话与受托生态共建** 近年来深刻反思[[New Public Management\|新公共管理]]模式下的单向知识传输与工具主义采买，倡导在官方决策者、专业科研人员与一线教师工会之间建立以信任与共同所有权为基石的多边对话机制。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 108)]]; [[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 229–231)]]
 
 ---
 

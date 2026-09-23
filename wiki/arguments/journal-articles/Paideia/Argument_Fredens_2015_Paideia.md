@@ -9,7 +9,7 @@ title: "Argument_Fredens_2015_Paideia"
 argument_key: "Argument_Fredens_2015_Paideia"
 argument_display_title: "Synlig læring og læringens anatomi [Anmeldelse af bogen af John Hattie og Gregory Yates]"
 argument_kind: "journal-article"
-argument_related_count: 10
+argument_related_count: 11
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Direct Instruction]]"
+  - "[[Trust Calibration]]"
   - "[[Translational Research]]"
   - "[[Creativity]]"
   - "[[Working Memory]]"
@@ -76,7 +77,7 @@ citation_aliases:
 > 6. 短期目标极有激励作用——但可能与长期价值冲突，因此发展冲动控制和延迟满足能力很重要
 > 7. 学习需要坚持——包括自尊需求和与他人互动
 > 8. 我们拥有显著的社会脑
-> 9. 错误的关于学习的观念在公共和专业语境中持续传播，尽管有科学证据——许多这些错误是破坏性的，由虚假承诺、经济利益和对轶事的过度信任驱动
+> 9. 错误的关于学习的观念在公共和专业语境中持续传播，尽管有科学证据——许多这些错误是破坏性的，由虚假承诺、经济利益和对轶事的[[Trust Calibration|过度信任]]驱动
 >
 > ### 社会脑与镜像神经元
 >

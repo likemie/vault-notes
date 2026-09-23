@@ -8,7 +8,7 @@ aliases:
 summary: "由巫俊宇、李元萱、柴清生与蔡今中（Wu et al., 2025）提出的人机协同学习理论框架，通过修订蔡今中网络学习认识论假说，揭示生成式人工智能环境下学习者的认识立场、先验知识与知识辩护方式如何决定人机共享认识能动性的实现样态，并提出促进立场向评价论演进的教学支架与技术干预机制。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 35
+theory_related_count: 36
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -20,17 +20,16 @@ tags:
 related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemic Cognition]]"
-  - "[[Knowledge Production]]"
   - "[[Cognitive Offloading]]"
   - "[[Epistemology]]"
   - "[[Epistemic Agency]]"
   - "[[Epistemic Stances]]"
   - "[[Assemblage]]"
   - "[[Homework]]"
-  - "[[Dialogue in Education]]"
   - "[[Epistemological Beliefs]]"
   - "[[Scaffolding]]"
   - "[[Construct]]"
+  - "[[Knowledge Production]]"
   - "[[Variable]]"
   - "[[Justification for Knowing]]"
   - "[[Hypothesis]]"
@@ -42,9 +41,11 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Document]]"
   - "[[AI Hallucination]]"
+  - "[[Open-Mindedness]]"
   - "[[Self-Efficacy]]"
   - "[[Interaction Effect]]"
-related_theories: []
+related_theories:
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Role-playing]]"
   - "[[Chi-Squared Test]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Symbiotic Framework of Adaptive Epistemic Stances
@@ -72,7 +73,7 @@ updated: 2026-09-22
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 学习者与[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）交互时的[[Epistemic Cognition\|认识论认知]]机制、[[Knowledge Production\|知识建构]]过程与人机权能分配模式。
+> - **解释对象** 学习者与[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）交互时的[[Epistemic Cognition\|认识论认知]]机制、[[Knowledge Building Theory|知识建构]]过程与人机权能分配模式。
 > - **理论问题** 生成式大模型输出的流畅性与打包性易导致学习者产生盲目顺从与[[Cognitive Offloading\|认知卸载]]，传统个体[[Epistemology\|认识论]]发展理论无法解释人机技术中介下[[Epistemic Agency\|认识能动性]]的重构与分化。
 > - **理论类型** 整合解释性机制与教学干预维度的学习科学理论框架。
 > - **知识位置** 处于[[Epistemic Cognition\|认识论认知]]、人机交互与教育技术学的交叉领域，直接承袭并发展了[[Chin-Chung Tsai\|蔡今中]]（Chin-Chung Tsai, 2004）的网络学习认识论假说。
@@ -87,7 +88,7 @@ updated: 2026-09-22
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 巫俊宇（Jiun-Yu Wu）、李元萱（Yuan-Hsuan Lee）、柴清生（Ching Sing Chai）与[[Chin-Chung Tsai\|蔡今中]]（Chin-Chung Tsai）于 2025 年在 *Educational Researcher* 发表专论 *Strengthening Human [[Epistemic Agency]] in the Symbiotic Learning Partnership With [[Generative Artificial Intelligence]]*。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–368)]]
 > - **原初问题** 生成式大模型（如 GPT-4.5、Gemini 2.5、Claude 3.5）提供了高度整合且流畅的知识解答，弱化了学习者自主检索、筛选和[[Assemblage\|组装]]信息的必要性，引发了人类主体可能丧失认识能动性的普遍担忧。
-> - **理论资源与材料** 汲取 Tsai (2004) 关于网络学习[[Epistemology\|认识论]]的两大经典假说、[[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 与 [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 的[[Epistemic Stances\|认识论立场]]三阶段模型（绝对论、多元论、评价论）、Scardamalia (2002) 的集体认识责任理论，并结合大学生使用 ChatGPT 解决统计推论[[Homework\|作业]]的微观交互[[Dialogue in Education\|对话]]语料。
+> - **理论资源与材料** 汲取 Tsai (2004) 关于网络学习[[Epistemology\|认识论]]的两大经典假说、[[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 与 [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 的[[Epistemic Stances\|认识论立场]]三阶段模型（绝对论、多元论、评价论）、Scardamalia (2002) 的集体认识责任理论，并结合大学生使用 ChatGPT 解决统计推论[[Homework\|作业]]的微观交互对话语料。
 > - **形成路径** 将网络搜索引擎时代基于自主信息筛选的认识论模型，重塑为生成式大模型时代基于对话质询、批判检验与人机共生的自适应认识立场框架，推导出两大修订核心命题。
 
 ### 后续修订与扩展
@@ -130,7 +131,7 @@ updated: 2026-09-22
 
 > [!theory-use] 框架入口
 > - **[[Research Question\|研究问题]]** 诊断学习者在[[Generative Artificial Intelligence\|生成式人工智能]]支持学习环境中的人机交互质量、[[Epistemic Stances\|认识论立场]]表现及主体权能维系状态。
-> - **分析对象与单位** 人机交互[[Dialogue in Education\|对话]]文本（提示词与模型输出）、反思日志、[[Problem Solving\|问题解决]]最终决策及其背后的[[Chain of Evidence\|证据链]]条。
+> - **分析对象与单位** 人机交互对话文本（提示词与模型输出）、反思日志、[[Problem Solving\|问题解决]]最终决策及其背后的[[Chain of Evidence\|证据链]]条。
 > - **需要的材料** 学生向大模型提问的多轮提示词记录、模型回复文本、学生修改决策依据及同行讨论语料。
 > - **解释目标** 识别学生在人机交互中所处的认识立场阶段，评估人机知识共建中的[[Cognitive Offloading\|认知卸载]]风险，并提出针对性干预方案。
 
@@ -148,7 +149,7 @@ updated: 2026-09-22
 
 > [!theory-boundary] 理论局限与适用边界
 > - **适合分析** 涉及复杂概念理解、[[Problem Solving\|问题解决]]、方案设计与学术论辩的人机协同学习情境。
-> - **成立条件** 学习者拥有与大模型进行多轮[[Dialogue in Education\|对话]]的技术交互通道，且任务具备开放性与可探讨空间。
+> - **成立条件** 学习者拥有与大模型进行多轮对话的技术交互通道，且任务具备[[Open-Mindedness|开放性]]与可探讨空间。
 > - **解释不足** 尚未充分纳入学习者的动机结构（如时间压力、成绩敏感度）、学科兴趣及[[Self-Efficacy\|自我效能感]]对交互行为的复杂[[Interaction Effect\|调节效应]]。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 366)]]
 > - **不能直接推出** 不能单纯将使用频次等同于[[Epistemology\|认识论]]成熟度，亦不能[[Hypothesis\|假设]]所有学科任务中模型辅助都能自动带来智力增益。
 

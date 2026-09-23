@@ -9,7 +9,7 @@ title: "Argument_Hattie_2015_Paideia"
 argument_key: "Argument_Hattie_2015_Paideia"
 argument_display_title: "Synlig læring i dag"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Falsification]]"
   - "[[Document]]"
+  - "[[Open-Mindedness]]"
   - "[[Direct Instruction]]"
   - "[[Feedback]]"
   - "[[Surface and Deep Learning]]"
@@ -86,7 +87,7 @@ citation_aliases:
 ## 论证结构
 
 > [!example] 论证结构
-> 这篇文章的论证可以拆成“起点困惑 → 共同尺度 → 教师工作原则 → 批评回应 → 开放性结论”五段。它的关键不在于证明每个排名都绝对正确，而在于说明为什么教育实践需要一种持续评估影响的语言。
+> 这篇文章的论证可以拆成“起点困惑 → 共同尺度 → 教师工作原则 → 批评回应 → [[Open-Mindedness|开放性]]结论”五段。它的关键不在于证明每个排名都绝对正确，而在于说明为什么教育实践需要一种持续评估影响的语言。
 >
 > ### 一、起点困惑：几乎每个教师都能说自己的方法“有效”
 >

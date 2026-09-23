@@ -6,7 +6,7 @@ summary: "把教育改进视为在真实系统中持续测试、反馈和迭代�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 20
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Hypothesis]]"
   - "[[Spirals of Inquiry]]"
-  - "[[Dialogue in Education]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Paradigm Wars]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 ## 定义
@@ -107,7 +106,7 @@ updated: 2026-09-18
 > 3. **直觉（Hunch）** 提出关于哪些教师行动可以改变观察模式的假设
 > 4. **学习（Learning）** 查阅已发表证据来指导实践
 > 5. **行动（Taking Action）** 实施改变
-> 6. **检查（Checking）** 检查行动是否产生预期效果——可能通过调查学生，但核心过程涉及教师与学生的个别或小团体[[Dialogue in Education\|对话]]
+> 6. **检查（Checking）** 检查行动是否产生预期效果——可能通过调查学生，但核心过程涉及教师与学生的个别或小团体对话
 >
 > > "When teachers are involved in ongoing inquiry work, they are more likely to find out about new evidence and to incorporate into their practice in an ongoing way."
 >

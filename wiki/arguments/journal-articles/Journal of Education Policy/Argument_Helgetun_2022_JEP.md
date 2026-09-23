@@ -41,7 +41,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Policy Brokerage]]"
   - "[[Doxa]]"
-  - "[[Dialogue in Education]]"
   - "[[Construct]]"
 related_theories:
   - "[[Institutional Isomorphism]]"
@@ -80,7 +79,7 @@ title: "Argument_Helgetun_2022_JEP"
 argument_key: "Argument_Helgetun_2022_JEP"
 argument_display_title: "From an age of measurement to an evidence era? Policy-making in teacher education in England"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -278,7 +277,7 @@ issuing_organization: ""
 > [!implication] 学术共同体维护认识论连贯性的规范路径
 > - **[[Epistemological Coherence\|全流程认识论连贯性]]** 严密的科学逻辑必须完整贯穿于研究构思、实地观察、数据分析直至政策转化的全链条，明确单项 RCT 等定量工具的外推边界与适用条件。（p. 96）
 > - **厘清真知与常识教条的界限** 在制度层面严格区分经过审慎同行评议检验的科学真知（episteme）与流于表面的流行常识或政治教条（[[Doxa]]），防止非科学主张借助证据外衣侵蚀教育实践。
-> - **构建主动介入的公共[[Dialogue in Education\|对话]]机制** 学者与大学机构应打破封闭的学院壁垒，主动进入博客、社交媒体与智库网络，以透明的方法论标准与政府及公众开展专业对话，在抵制伪科学的同时引导政策循证实践走向严谨与自省。
+> - **构建主动介入的公共对话机制** 学者与大学机构应打破封闭的学院壁垒，主动进入博客、社交媒体与智库网络，以透明的方法论标准与政府及公众开展专业对话，在抵制伪科学的同时引导政策循证实践走向严谨与自省。
 
 ---
 

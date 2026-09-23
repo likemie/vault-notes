@@ -9,7 +9,7 @@ summary: "哥伦比亚大学师范学院比较教育学讲座教授，《教育�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 45
+person_related_count: 46
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -63,6 +63,7 @@ related_persons:
   - "[[Robert Ulich]]"
   - "[[Andreas Kazamias]]"
   - "[[Robert Cowen]]"
+  - "[[Christopher Martin]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[Brian Holmes]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Isaac Kandel
@@ -204,7 +205,7 @@ updated: 2026-09-17
 > *He [Kandel] was a humanist... he was neither a scientist nor a semantic pedant. He believed in intuition... He was a humanist, a man of letters, a cultivated European-American... Professor Kandel belongs to the generation of universitarian humanists who will not be easily reproduced in our age of more technological, more rushed, more narrowly specific applications.*
 
 > [!citation-card] Kazamias论坎德尔国家理论洞见的贡献与三重缺陷
-> 卡扎米亚斯高度评价坎德尔在学科史上首次将“国家”确立为跨国比较的核心解释[[Variable\|变量]]，预示了 1970 至 1980 年代马丁·卡诺伊（Martin Carnoy）、乔尔·萨莫夫（Joel Samoff）与罗杰·戴尔（Roger Dale）等人的国家理论回归。然而，坎德尔的国家理论存在三重严重局限：第一，将当代国家简单粗暴地划分为‘极权’与‘民主’两大理想类型；第二，深陷西方意识形态偏见，偏袒英美自由民主制而贬斥苏联社会主义；第三，将规范性‘应然’与描述性‘实然’混为一谈，从未真正触及先进资本主义民主国家内部严峻的阶级不平等、种族冲突与权力不均。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 48)]]
+> 卡扎米亚斯高度评价坎德尔在学科史上首次将“国家”确立为跨国比较的核心解释[[Variable\|变量]]，预示了 1970 至 1980 年代[[Christopher Martin|马丁]]·卡诺伊（Martin Carnoy）、乔尔·萨莫夫（Joel Samoff）与罗杰·戴尔（Roger Dale）等人的国家理论回归。然而，坎德尔的国家理论存在三重严重局限：第一，将当代国家简单粗暴地划分为‘极权’与‘民主’两大理想类型；第二，深陷西方意识形态偏见，偏袒英美自由民主制而贬斥苏联社会主义；第三，将规范性‘应然’与描述性‘实然’混为一谈，从未真正触及先进资本主义民主国家内部严峻的阶级不平等、种族冲突与权力不均。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 48)]]
 >
 > *Kandel's examination of education from the political prism of the state was, in my judgement, an important epistemological and methodological insight... [However, it] was marred by at least three weaknesses: First, his categorisation of contemporary states into two 'ideal types', namely 'totalitarian' and 'democratic'; Second, his bias... in favour of Western 'liberal democracies'... and Third... his compounding of the 'normative' with the 'descriptive' in his conceptualisation of the state.*
 

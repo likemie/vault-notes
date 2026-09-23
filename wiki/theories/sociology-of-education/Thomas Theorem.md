@@ -10,7 +10,7 @@ aliases:
 summary: "符号互动论与微观教育社会学的奠基性定理，指出行动者对情境的主观定义决定其行动取向并产生真实客观后果，揭示了微观意义协商、制度性权力强制与自证预言的辩证张力。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 27
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
-  - "[[Dialogue in Education]]"
   - "[[Rich and Thick Description]]"
   - "[[Paradigm]]"
   - "[[Voluntarism]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Thomas Theorem
@@ -121,7 +120,7 @@ updated: 2026-09-17
 
 托马斯定理构成了[[Interpretive Paradigm|自然主义探究]]与质性[[Ethnography|民族志研究]]的核心[[Epistemology|认识论]]支柱：
 - **[[Participant Observation|参与观察]]与[[In-depth Interview|深度访谈]]** 研究者必须摆脱外在超然旁观者的[[Positivism|实证主义]]姿态，深度介入被研究者的日常生活世界，通过当事人的眼睛打量现实，探寻其行动背后的主观参照框架与情境界定逻辑。
-- **生活史与当事人叙事（[[Accounts]]）** 重视行动者的自我陈述、日记、口述史与即时[[Dialogue in Education|对话]]记录，挖掘参与者用以构建情境定义的本土语言范畴与隐性符号。
+- **生活史与当事人叙事（[[Accounts]]）** 重视行动者的自我陈述、日记、口述史与即时对话记录，挖掘参与者用以构建情境定义的本土语言范畴与隐性符号。
 - **情境保真度与[[Rich and Thick Description|深描]]（Thick Description）** 坚持吉尔兹的厚描述原则，将单一互动事件置于历时性互动关系与微观文化脉络中加以整体解读，拒绝脱离情境的机械量化[[Coding in Qualitative Research|编码]]。
 
 ---

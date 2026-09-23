@@ -29,7 +29,6 @@ related_concepts:
   - "[[Areas of Knowledge]]"
   - "[[Pure Evaluation]]"
   - "[[Hypothesis]]"
-  - "[[Growth]]"
   - "[[Multiplicity]]"
   - "[[Cognitive Inhibition]]"
 related_theories:
@@ -56,7 +55,7 @@ title: "Argument_Kuhn_2000_CD"
 argument_key: "Argument_Kuhn_2000_CD"
 argument_display_title: "The development of epistemological understanding"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -267,7 +266,7 @@ issuing_organization: ""
 > - **专家组的鲜明对照** 只有接受过专门教育哲学与认识论训练的专家组（Expert），在各项评价论指标上达到了 80%-100% 的绝对高位。在访谈中，即便是这道菜有多辣或婚礼该在何时举行这种看似纯粹的品味问题，也被认为在理论上可以通过科学仪器（测量辣椒素）或长期实证追踪（统计婚姻存续率）来进行客观评估（p. 325 脚注）。
 
 > [!warrant]- 最终推理桥梁
-> 成年社会主流的知识气候高度推崇求同存异（Live and let live）与各有所好的社交智慧，这在本质上与追求客观评估的认识论背道而驰。当人们出于社交上的礼貌与宽容，不再把[[Critical Thinking\|批判性思维]]视作判断社会或价值争议优劣的工具时，认识论发展就永久停滞在了多元论的泥潭中。这也证明了高阶的评价论理解不会随着岁月累积自然[[Growth\|生长]]，它需要经过艰苦的智识训练与教育介入。
+> 成年社会主流的知识气候高度推崇求同存异（Live and let live）与各有所好的社交智慧，这在本质上与追求客观评估的认识论背道而驰。当人们出于社交上的礼貌与宽容，不再把[[Critical Thinking\|批判性思维]]视作判断社会或价值争议优劣的工具时，认识论发展就永久停滞在了多元论的泥潭中。这也证明了高阶的评价论理解不会随着岁月累积自然生长，它需要经过艰苦的智识训练与教育介入。
 
 ---
 

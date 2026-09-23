@@ -5,7 +5,7 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指个体在长期社会经验中形成并具身化的稳定行为倾向系统，用于解释实践选择、判断方式和阶层再生产。"
 type: concept
 domain: "sociology-of-education"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Subjectivism]]"
   - "[[Objectivism]]"
-  - "[[Growth]]"
   - "[[Reflexivity]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Champ]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-07-08
+updated: 2026-09-22
 ---
 
 # Habitus
@@ -98,7 +97,7 @@ updated: 2026-07-08
 
 - **具身性** 习性铭刻在身体之中，表现为不经深思熟虑即可自然调用的感知、判断和行动倾向。用[[Yajun Zheng|郑雅君]]（2023）的话说，阶层条件"铭刻进了阶层成员各自的身体，化作了他们日用而不知的'上大学'的独特实践"
 - **生成性** 习性不是固定不变的程序，而是能够在不同社会情境中生成适应性策略的"生成语法"。Sewell（1992）指出文化图式是可迁移（transposable）和可推广的（generalizable）（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]，引 Sewell, 1992）
-- **阶层特异性** 不同社会阶层成员因[[Growth|成长]]环境中可及的经验类型不同，内化形成不同的习性结构。这使得"特定文化工具的可及性和掌握熟练程度总是依习性结构的不同而有着系统性的差异"([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
+- **阶层特异性** 不同社会阶层成员因成长环境中可及的经验类型不同，内化形成不同的习性结构。这使得"特定文化工具的可及性和掌握熟练程度总是依习性结构的不同而有着系统性的差异"([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])
 - **前[[Reflexivity|反思性]]** 习性运作于意识反思之下——行动者通常不意识到自己的行为受习性引导，这正是其强大之处。正如郑雅君（2023）所示，[[Intuition-Dependent Mode|直觉依赖模式]]下的学生并非有意选择被动，而是习性使他们"浑然不觉"地按特定方式行事
 
 ---
@@ -137,7 +136,7 @@ updated: 2026-07-08
 [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]以习性概念为核心，揭示了中国精英大学中两种大学生活组织模式的社会根源：
 
 - 优势阶层习性 → [[Goal-Controlled Mode]]：自幼通过家庭社会化内化了长线规划、资源识别与策略性行动的倾向，进入大学后"自然地"知道如何为目标做准备
-- 弱势阶层习性 → [[Intuition-Dependent Mode]]：[[Growth|成长]]环境中缺乏对高等教育的隐性知识，内化了"听老师话、好好学习"的被动倾向，在大学场域中沿袭这一模式而不自知
+- 弱势阶层习性 → [[Intuition-Dependent Mode]]：成长环境中缺乏对高等教育的隐性知识，内化了"听老师话、好好学习"的被动倾向，在大学场域中沿袭这一模式而不自知
 
 ### 习性转换：大学作为再社会化场域
 

@@ -9,7 +9,7 @@ title: "Argument_Rømer_2018_EPT"
 argument_key: "Argument_Rømer_2018_EPT"
 argument_display_title: "A critique of John Hattie's theory of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Epistemology]]"
   - "[[Technical Rationality]]"
-  - "[[Dialogue in Education]]"
   - "[[Variable]]"
   - "[[Surface and Deep Learning]]"
   - "[[Dependent Variable]]"
@@ -82,7 +81,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：[[Philosophical Analysis in Education]]
 > - 路径：概念分析和哲学论证，通过对 Hattie (2009) *[[Visible Learning]]* 第三章的深度阅读，追踪每条概念链的哲学前提和逻辑后果
-> - [[Dialogue in Education\|对话]]对象：Popper 的科学哲学、Dewey/Biesta/Arendt/Kant 的教育哲学传统、冯·格拉泽斯费尔德（[[Ernst von Glasersfeld]]）的[[Radical Constructivism\|激进建构主义]]
+> - 对话对象：Popper 的科学哲学、Dewey/Biesta/Arendt/Kant 的教育哲学传统、冯·格拉泽斯费尔德（[[Ernst von Glasersfeld]]）的[[Radical Constructivism\|激进建构主义]]
 
 ## 核心论证
 
@@ -110,7 +109,7 @@ citation_aliases:
 > 6. 外部世界、内容、规范——建构主义的所有问题——直接进入 Hattie 的教学概念(p.6-8)
 >
 > ### 论证四：反馈概念的集权化效应
-> 1. Hattie 将反馈评为 d=0.73 的极其有效方法，但概念完全未经哲学反思——没有 Buber 的[[Dialogue in Education\|对话]]、Bakhtin 的对话、Dewey 的交易论或[[Socrates\|苏格拉底]]式的辩证
+> 1. Hattie 将反馈评为 d=0.73 的极其有效方法，但概念完全未经哲学反思——没有 Buber 的对话、Bakhtin 的对话、Dewey 的交易论或[[Socrates\|苏格拉底]]式的辩证
 > 2. 反馈包含演绎（将学生行为导入操作性目标结构）和归纳两个方面
 > 3. 关键的归纳方面：反馈最有力的是"从学生到教师"——使学习对教师可见，让教师成为"自身效果的学徒"
 > 4. 这与 Peters 的"教育即启蒙"（education as initiation）完全相反——反馈不是让文化、艺术、科学对学生可见

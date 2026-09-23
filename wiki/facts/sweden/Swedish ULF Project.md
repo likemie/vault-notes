@@ -27,7 +27,6 @@ tags:
   - theme/teacher-agency
 related_concepts:
   - "[[Problem Finding]]"
-  - "[[Dialogue in Education]]"
   - "[[Scientific Method]]"
   - "[[Hypothesis]]"
   - "[[Theoretical Knowledge]]"
@@ -40,6 +39,7 @@ related_concepts:
   - "[[Knowledge Co-production]]"
   - "[[Research Literacy]]"
   - "[[Boundary Spanner]]"
+  - "[[Dialogue in Education]]"
   - "[[Democratising Evidence]]"
   - "[[Knowledge Mobilisation]]"
 related_theories: []
@@ -83,7 +83,7 @@ updated: 2026-09-15
 > [!policy-design]- 方案设计
 > - **项目目标** 验证高校与中小学开展协同研究的可行组织模型；将实践本位科研制度化嵌入教师职前教育与在校日常教研；为瑞典基础教育建立坚实的科学证据底座。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–217)]]
 > - **双向议题发起机制** 彻底改变过去只能由大学教授拟定课题的做法，制度化允许并鼓励中小学校长与教研组根据日常课堂教学痛点自主提出研究课题，与对口高校研究团队共同论证立项。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 216)]]
-> - **常态化[[Dialogue in Education\|对话]]平台** 在高校与学区之间设立跨界研讨工作坊（Seminars），定期组织学者与教师就教学难点、概念定义、实证方法与阶段性数据展开深入对话，促成共享话语的沉淀。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 218–219)]]
+> - **常态化对话平台** 在高校与学区之间设立跨界研讨工作坊（Seminars），定期组织学者与教师就教学难点、概念定义、实证方法与阶段性数据展开深入对话，促成共享话语的沉淀。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 218–219)]]
 
 > [!citation-card] 瑞典 ULF 项目愿景与宗旨
 > ULF 试点项目的战略目标在于开发并测试大学学术界与学校系统之间长期可持续的合作模型，以巩固和强化学校日常活动所依托的科学学科底色与研究方法路径。该合作模型旨在使学校内部的专业人员能够自主发起研究，从而产出对学校实践高度适切的高质量科研成果。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–217)]]

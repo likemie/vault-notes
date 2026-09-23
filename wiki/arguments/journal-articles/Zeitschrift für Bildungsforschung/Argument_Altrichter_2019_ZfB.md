@@ -37,7 +37,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[School Autonomy]]"
   - "[[PISA Shock]]"
-  - "[[Dialogue in Education]]"
   - "[[Evidence-Based School Development]]"
   - "[[Determinism]]"
   - "[[School Effectiveness]]"
@@ -77,7 +76,7 @@ title: "Argument_Altrichter_2019_ZfB"
 argument_key: "Argument_Altrichter_2019_ZfB"
 argument_display_title: "Schulleitungen und evidenzbasierte Bildungsreform im Schulwesen"
 argument_kind: "journal-article"
-argument_related_count: 39
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -189,7 +188,7 @@ issuing_organization: ""
 > [!phase] 德语区学校系统治理现代化的三阶段演进
 > - **阶段一：1990 年代中叶的[[School Autonomy\|学校自主权]]（Schulautonomie）** 逐步放宽中央对规范性投入的过细限制，允许单校在课程微调、校舍出租、赞助获取等事务上拥有自决权。这一阶段确立了[[Helmut Fend\|赫尔穆特·芬德]]（Helmut Fend）自 1980 年代倡导的单校自主发展（Einzelschulentwicklung）理念，督导部门逐渐淡出日常微观干预，从规则稽查者逐步转向后台支持。（p. 19）
 > - **阶段二：1990 年代后期的校长赋权与校本质量协调工具** 确立校长作为校内行政与专业领导中枢的地位，普遍引入学校发展规划（Schulprogramme）、自我评估与校本质量管理框架，同时上级行政部门通过发布示范题库与试探性统考为自主单校标定发展方向。这一阶段实现了从行政管辖向质量意识的柔性过渡。（p. 19）
-> - **阶段三：2000 年代以来的产出导向与循证监控成型** 2000 年[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）跨国测试公布后，德国与奥地利因实际成绩与传统教育强国自我认知之间出现严重落差，爆发了波及整个公共政策领域的PISA 冲击（[[PISA Shock]]）（德文：PISA-Schock）。正是这场政策震荡瓦解了投入即保证质量的传统科层惯性，驱动德语区全面转向以国家教育标准（Bildungsstandards）、全域标准化测评、新[[School Inspection\|学校督导]]（Neue Schulinspektion）与国家教育报告为主轴的产出导向治理体制。奥地利推行普通学校质量保障体系（德文：[[Schulqualität Allgemeinbildung]]，缩写为 SQA），以督导与学校间的成效与目标协定[[Dialogue in Education\|对话]]（Bilanz- und Zielvereinbarungsgespräche）驱动单校改进。（pp. 19–20）
+> - **阶段三：2000 年代以来的产出导向与循证监控成型** 2000 年[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）跨国测试公布后，德国与奥地利因实际成绩与传统教育强国自我认知之间出现严重落差，爆发了波及整个公共政策领域的PISA 冲击（[[PISA Shock]]）（德文：PISA-Schock）。正是这场政策震荡瓦解了投入即保证质量的传统科层惯性，驱动德语区全面转向以国家教育标准（Bildungsstandards）、全域标准化测评、新[[School Inspection\|学校督导]]（Neue Schulinspektion）与国家教育报告为主轴的产出导向治理体制。奥地利推行普通学校质量保障体系（德文：[[Schulqualität Allgemeinbildung]]，缩写为 SQA），以督导与学校间的成效与目标协定对话（Bilanz- und Zielvereinbarungsgespräche）驱动单校改进。（pp. 19–20）
 
 在制度逻辑上，这一变革确立了目标的统一设定与路径的自主探索原则（Autonomie der Wege, nicht der Ziele; Heid, 2003）：中央收拢了教育目标的界定权，但将实现目标的具体教学法与组织调控权让渡给单校。这种双重重组使校长成为连接宏观政策与微观实践的核心纽带。（pp. 20–21）
 
@@ -311,7 +310,7 @@ issuing_organization: ""
 > [!finding-cards] 核心发现
 > 1. **校长治理态度分化为三类经验形态** 运用 $k$ 均值聚类提炼出[[Evidence-Based School Development\|循证学校发展]]型（27.5%）、资源驱动发展型（37.5%）与弱发展取向型（35.0%）三类群体，证实一线校长对新治理工具并非均质接受。（pp. 27–28）
 > 2. **循证态度切实驱动学校教学改进与同侪协同** 循证型校长报告了显著更多的教学改进活动（$d = 0.48$）与教师协同发展能力建设（$d = 0.62$），证实了治理价值取向对学校微观行动的直接塑造效应。（pp. 29–30）
-> 3. **领导工时发生由直接授课向教学管理的结构性置换** 循证型校长将课堂直接授课工时压缩至 19.87%（对照组为 29%–34%），显著增加课堂听课观摩（$d = 0.47$）与教学[[Dialogue in Education\|对话]]时间，转型为教育企业管理者。（pp. 30–31）
+> 3. **领导工时发生由直接授课向教学管理的结构性置换** 循证型校长将课堂直接授课工时压缩至 19.87%（对照组为 29%–34%），显著增加课堂听课观摩（$d = 0.47$）与教学对话时间，转型为教育企业管理者。（pp. 30–31）
 > 4. **新治理政策面临严峻的一线文化惯性与制度阻抗** 超过七成的中小学校长依然固守外部资源依赖诉求、或对外部评价监控持冷漠怀疑态度，凸显出循证改革在专业文化层面的再情境化瓶颈。（pp. 31–33）
 
 > [!stat-cards]- 核心数据
@@ -331,7 +330,7 @@ issuing_organization: ""
 > *In dieser Phase werden also Instrumente zur Umsetzung von Outputorientierung (oft auch als evidenzbasierte Steuerung bezeichnet) ausgearbeitet, auf ganzer Breite bereitgestellt und als wesentliche Elemente des Entscheidens und Entwickelns auf allen Systemebenen postuliert... Die Berufstätigen in den Einzelschulen sollen weiterhin Energien in autonome Schulentwicklung kanalisieren, diese jedoch – in einer Autonomie der Wege, nicht der Ziele – stärker auf die vorgegebenen Kompetenz- und Prozessziele ausrichten. Schulleitungen werden noch bedeutsamer, weil sie – damit zielgerichtete und ergebnisorientierte Entwicklung geschieht – die Lehrpersonen zur Beachtung von Zielen, zur Interpretation von Datenfeedback und zu unterrichtsbezogenen Entwicklungshandlungen motivieren, koordinieren und unterstützen müssen.*
 
 > [!citation-card] 校长从兼课教师向教育企业管理者的角色转型
-> 这些校长在课堂听课观摩以及自我评估与质量保障上投入了更高比例的工作时间，他们也更加频繁地主动与教师就教育教学问题开展深入[[Dialogue in Education\|对话]]，而不是将这些事务完全推给一线教师独自承担。总体而言，他们似乎更倾向于将自己理解为教育企业的管理者和引领者，而非附带兼任额外行政琐事的兼课教师。（p. 31）
+> 这些校长在课堂听课观摩以及自我评估与质量保障上投入了更高比例的工作时间，他们也更加频繁地主动与教师就教育教学问题开展深入对话，而不是将这些事务完全推给一线教师独自承担。总体而言，他们似乎更倾向于将自己理解为教育企业的管理者和引领者，而非附带兼任额外行政琐事的兼课教师。（p. 31）
 >
 > *Diese Schulleiter/innen investieren einen höheren Anteil ihrer Arbeitszeit in Unterrichtsbeobachtungen... sowie Selbstevaluierung und Qualitätssicherung... Sie suchen auch häufiger das Gespräch mit Lehrpersonen über die pädagogische Arbeit... statt diese allein den Lehrkräften zu überantworten. Insgesamt scheinen sie sich eher als Manager/innen und Leiter/innen eines pädagogischen Betriebs denn als Unterrichtende mit Zusatzaufgaben zu verstehen.*
 

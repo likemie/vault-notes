@@ -10,7 +10,7 @@ subtype: event
 region: france
 fact_region: "france"
 fact_kind: "event"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[International Baccalaureate]]"
   - "[[Variable]]"
+  - "[[Open-Mindedness]]"
 related_theories: []
 related_methods:
   - "[[Action Research]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-09-12
+updated: 2026-09-23
 ---
 
 # 1967 Sevres International Conference on the IB
@@ -83,7 +84,7 @@ updated: 2026-09-12
 > - **会前组织 — 从开放讨论转为授权者会议** 与会者按其代表的国家、大学、考试和国际组织利益受邀。美国 AP 项目主任、伦敦大学 GCE 委员会秘书、法国 baccalauréat 办公室主任和瑞士成熟证书前负责人首次同桌讨论。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, p. 26)]]
 > - **首次全体会议后 — 分设两个委员会** A 委员会讨论课程结构、标准和教学大纲，由费舍尔-沃尔珀特主持、[[Gerard Renaud\|杰拉德·雷诺]]任顾问；B 委员会讨论考试组织与程序，由罗伯特·布莱克本主持、比尔·霍尔斯任顾问。
 > - **课程与考试原则 — 快速形成共识** 六学科总体结构、高级与辅助程度、成绩补偿原则获得接受。会议由此确认文凭应评价完整课程组合，而不是把六张互不相关的单科成绩简单相加。
-> - **开放性修正 — 文凭与证书并存** 德斯蒙德·科尔担心 IB 会形成校内精英轨道，提出保留整体文凭，同时向在个别科目达到要求但未取得文凭者颁发单科证书；方案得到一致接受。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 30–31)]]
+> - **[[Open-Mindedness|开放性]]修正 — 文凭与证书并存** 德斯蒙德·科尔担心 IB 会形成校内精英轨道，提出保留整体文凭，同时向在个别科目达到要求但未取得文凭者颁发单科证书；方案得到一致接受。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 30–31)]]
 > - **最终全体会议 — 提出有限承认试验** 拉尔夫·泰勒建议从 1969 年起进行六年试验，由尽可能多国家的大学和主管机关承认来自获批学校、每年不超过 500 名学生的 IB 成绩。
 
 ---
@@ -100,7 +101,7 @@ updated: 2026-09-12
 > | 整体文凭＋单科证书 | 同时维护课程整体性，并避免只有少数精英能从 [[International Baccalaureate\|IB]] 考试获益。 | 单科证书不等于完整文凭，也不取消文凭的组合要求。 |
 > | 六年／每年 500 人试验 | 让大学和政府在有限风险下观察资格能否实际用于录取。 | 只适用于经 [[International Schools Examination Syndicate\|ISES]]／IBO 检查、获政府批准的学校。 |
 
-> [!tension] 整体性与开放性的核心张力
+> [!tension] 整体性与[[Open-Mindedness|开放性]]的核心张力
 > - **整体文凭（蓝方）** 法国及多数欧洲代表反对把 IB 降为普通单科考试，强调跨学科课程组合本身就是资格价值。
 > - **广泛参与（红方）** 科尔担心完整文凭成为学校内部的超级大学预备轨道，使其他 16–18 岁学生被排除在项目成果之外。双层证书方案没有取消冲突，而是分别为两种目标建立出口（p. 30）。
 
@@ -112,7 +113,7 @@ updated: 2026-09-12
 > - **承认联盟启动** 保加利亚代表当场宣布接受；多数代表没有正式授权，但承诺推动本国部委或自治大学认可。法国、瑞典、14 所英国大学、3 所瑞士大学及许多美国大学随后同意合作。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, p. 31)]]
 > - **[[Action Research\|行动研究]]成形** 会议把课程、考试、学校批准、政府同意、人数上限和时间期限组合为一项[[Action Research\|行动研究]]，以实际升学使用代替继续表达善意。
 > - **资格开始替代国家考试** 1969 年试验启动；1970 年经过两年试考后，首批 29 名学生使用正式 IB 成绩申请大学。
-> - **课程开放性被制度化** 单科证书成为整体文凭之外的正式成果，避免“未取得文凭”等于“全部学习无记录”。
+> - **课程[[Open-Mindedness|开放性]]被制度化** 单科证书成为整体文凭之外的正式成果，避免“未取得文凭”等于“全部学习无记录”。
 
 > [!warning] 解释边界
 > 会议表达的支持并不等于各国立即、全面和永久承认。多数代表没有即时决策授权，仍需返回本国协调部委或自治大学；六年试验正是在这种不确定承认条件下建立的有限机制。

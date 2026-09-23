@@ -9,7 +9,7 @@ summary: "一种群体访谈方法，依赖小组成员围绕研究者提供的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 19
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
+  - "[[Open-Mindedness]]"
   - "[[Reliability]]"
 related_methods:
   - "[[Group Interview]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Focus Group
@@ -66,7 +67,7 @@ updated: 2026-09-17
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 知识在群体互动中共同建构——个人意见在群体讨论中被修正、丰富、挑战或放弃。群体动态本身就是数据生成过程的一部分，而非需要"控制出去"的噪音。
-> - **研究者角色** 研究者是**促进者（facilitator）**而非引导式访谈者。角色是在保持讨论开放性的同时锚定话题焦点——在过于引导和偏离要点之间取得平衡（p.466）。
+> - **研究者角色** 研究者是**促进者（facilitator）**而非引导式访谈者。角色是在保持讨论[[Open-Mindedness|开放性]]的同时锚定话题焦点——在过于引导和偏离要点之间取得平衡（p.466）。
 > - **有效性标准** 通过多组重复验证结果的稳定性（至少两个焦点小组，避免结果对单一群体行为独特性敏感）、确保参与者具有所需特征或背景同质性、记录群体动态对发言模式的影响。
 > - **不声称回答的问题** 不产生可推广到总体的统计数据；不产生个体层面的深度信息；不能推断[[Causality\|因果关系]]。
 

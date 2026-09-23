@@ -41,7 +41,6 @@ related_concepts:
   - "[[Realism in International Relations]]"
   - "[[Rationalism in International Relations]]"
   - "[[Critical Thinking]]"
-  - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
   - "[[Self-Cultivation]]"
   - "[[Certainty of Knowledge]]"
@@ -55,6 +54,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Marc-Antoine Jullien]]"
+  - "[[Christopher Martin]]"
   - "[[Jin Li]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[Plato]]"
@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Immanuel Kant
@@ -100,7 +100,7 @@ updated: 2026-09-17
 
 > [!timeline] 生平与职涯
 > - **1724** 出生于东普鲁士柯尼斯堡的一个虔敬派（Pietist）工匠家庭。
-> - **1740–1746** 就读于柯尼斯堡大学，师从马丁·克努岑（Martin Knutzen），系统研习莱布尼茨—沃尔夫学派哲学、牛顿物理学与数学。
+> - **1740–1746** 就读于柯尼斯堡大学，师从[[Christopher Martin|马丁]]·克努岑（Martin Knutzen），系统研习莱布尼茨—沃尔夫学派哲学、牛顿物理学与数学。
 > - **1755** 提交《自然通史与天体理论》，提出解释太阳系起源的“星云假说”；同年以《形而上学认识各首要原则的新解说》获得大学任教资格。
 > - **1770** 就任柯尼斯堡大学逻辑与形而上学讲座教授，发表就职论文《感性与知性世界的形式与原则》，开启长达十年的沉潜批判思考。
 > - **1781** 出版第一批判《纯粹理性批判》（*Kritik der reinen Vernunft*），宣告先验批判哲学的正式诞生，完成[[Epistemology\|认识论]]的哥白尼式转向。
@@ -158,7 +158,7 @@ updated: 2026-09-17
 
 > [!influence-path] 影响路径
 > - **认识论与学习科学路径** 康德的“哥白尼式革命”彻底击碎了心灵被动接受印记的白板说，提出心智先天地配备加工经验框架的主动建构观；[[Jin Li\|李瑾]]（[[Argument_Li_2012_Cambridge\|Li, 2012]]）指出康德在西方 2500 年认识论之争中提供了融通[[Empiricism\|经验论]]与唯理论的典范，其范畴加工模型（“佩戴玫瑰色眼镜看世界”）构成了现代[[Cognitive Constructivism\|认知建构主义]]与儿童概念认知科学的重要思想先声。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 25–26, 30)]]
-> - **国际关系英国学派与[[Revolutionism\|革命主义]]传统** 马丁·怀特（Martin Wight, 1992）在国际理论三大传统中将康德确立为“革命主义（Revolutionism）”传统的始祖，与马基雅维利的[[Realism in International Relations\|现实主义]]、格老秀斯的[[Rationalism in International Relations\|理性主义]]并立；康德主张国际关系的终极实体不是主权国家而是普遍的人类共同体（Universal Human Community），倡导消除苦难、追求世界大同与[[Perpetual Peace\|永久和平]]的道德激情。[[Argument_Klerides_2023_CE\|Klerides (2023, p. 418)]]
+> - **国际关系英国学派与[[Revolutionism\|革命主义]]传统** [[Christopher Martin|马丁]]·怀特（Martin Wight, 1992）在国际理论三大传统中将康德确立为“革命主义（Revolutionism）”传统的始祖，与马基雅维利的[[Realism in International Relations\|现实主义]]、格老秀斯的[[Rationalism in International Relations\|理性主义]]并立；康德主张国际关系的终极实体不是主权国家而是普遍的人类共同体（Universal Human Community），倡导消除苦难、追求世界大同与[[Perpetual Peace\|永久和平]]的道德激情。[[Argument_Klerides_2023_CE\|Klerides (2023, p. 418)]]
 > - **比较教育学发端期的启蒙精神纽带** 卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009]]）考证，康德在 1784 年论著中阐明的“启蒙即勇敢运用理性、走出未成熟状态”的自主性命题，对学科始祖[[Marc-Antoine Jullien\|朱利安]]（Marc-Antoine Jullien）产生了划时代的思想启蒙；促使朱利安从大革命雅各宾恐怖统治与拿破仑帝国战争的幻灭中抽离，将教育升华为预防政治暴力循环、促进世界和平与全人[[Bildung\|教化]]的理性替代方案。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 20, 22–24)]]
 > - **[[Critical Thinking\|批判性思维]]与现代教育哲学** 康德的“Sapere aude!”与定言律令将受教育者从被动服从权威教条中解放出来，奠定了现代[[Critical Thinking\|批判性思维]]、道德自律与民主公民教育的法哲学基座。
 
@@ -171,7 +171,7 @@ updated: 2026-09-17
 
 ## 关系网络
 
-康德的思想深度嵌合在欧洲[[Rationalism in International Relations|理性主义]]传统的[[Dialogue in Education|对话]]、超越与现代展开之中：
+康德的思想深度嵌合在欧洲[[Rationalism in International Relations|理性主义]]传统的对话、超越与现代展开之中：
 
 > [!person-network] 关系网络
 > - **思想激荡与唤醒者** 大卫·休谟（David Hume） — 其经验怀疑论打破了康德的“独断论迷梦”，逼使康德转向批判哲学以重建因果律与科学知识的客观必然性。

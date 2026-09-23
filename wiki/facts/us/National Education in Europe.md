@@ -14,7 +14,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 29
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Encyclopaedism]]"
   - "[[Educational Meliorism]]"
   - "[[General Education]]"
-  - "[[Growth]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Knowledge Mediation]]"
   - "[[Paradigm]]"
@@ -67,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 # National Education in Europe
@@ -116,7 +115,7 @@ updated: 2026-09-15
 巴纳德对普鲁士建立真正国民教育体系的赞誉，揭示了其探究域外的根本动机：
 
 > [!citation-card]- 经典引言：巴纳德论普鲁士“真正的国民教育”
-> 普鲁士人最值得赞赏的成就，在于他们成功地建立起了一个堪称‘真正国民教育’（true national education）的完整体系。这一体系将国家最崇高的理性意志与最基层社区的日常福祉紧密结合，使教育成为每个国民不可剥夺的[[Growth\|成长]]权利。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 31)]]
+> 普鲁士人最值得赞赏的成就，在于他们成功地建立起了一个堪称‘真正国民教育’（true national education）的完整体系。这一体系将国家最崇高的理性意志与最基层社区的日常福祉紧密结合，使教育成为每个国民不可剥夺的成长权利。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 31)]]
 >
 > *All three were especially impressed by the Prussians' success in their efforts to establish a system of what Barnard called 'true national education'.* (Barnard, 1872:365)
 

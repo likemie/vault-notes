@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 36
+fact_related_count: 35
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Hypothesis]]"
   - "[[Analytical Stance]]"
-  - "[[Dialogue in Education]]"
   - "[[Peer-Supported Learning]]"
   - "[[Reliability]]"
   - "[[Document]]"
@@ -70,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Research Learning Communities
@@ -101,7 +100,7 @@ updated: 2026-09-21
 > - **外部协调支架** 由大学研究者担任外部协调员（Facilitators），在两年项目期内每学年主持 4 次全天跨校工作坊（共 8 次），提供经过提炼转译的学术成果综述、分析协议与课堂实验设计模板。
 > - **实施控制** 采用[[Network Analysis\|社会网络分析]]（SNA）与[[Longitudinal Study\|纵向调查]]量表追踪信息流动态势，监测研究证据在教师人际网络中的扩散深度。
 
-> [!proc] RLC 三步“学习[[Dialogue in Education\|对话]]”与四阶段跨校研修流程
+> [!proc] RLC 三步“学习对话”与四阶段跨校研修流程
 > 工作坊围绕三步“学习对话”（Learning Conversations）[[Inquiry Cycle\|探究循环]]展开，促使外部显性证据与教师默会知识深度碰撞：[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 126)]]
 > 1. **审视与重构（Review & Reframe）** 交互研读学术转译简报，挑战并反思既有实践惯性与认知假设；
 > 2. **设计与试验（Design & Trial）** 结对合作，将研究通则转化为适配本校真实学情的微型课堂教学干预并开展试验；

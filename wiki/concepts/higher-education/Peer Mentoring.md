@@ -8,7 +8,7 @@ aliases:
 summary: "由高年级或更有经验的同辈向新手学习者提供学术支持、认知脚手架与社会情感共情的对等指导模式，在高等教育与主动学习中广泛应用"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Peer-Supported Learning]]"
   - "[[Homework]]"
-  - "[[Growth]]"
   - "[[Construct]]"
   - "[[Academic Achievement]]"
   - "[[Academic Self-Concept]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Peer Mentoring
@@ -60,7 +59,7 @@ updated: 2026-09-17
 
 > [!boundary]- 概念边界
 > - 不等于 专家/教师导师制（Faculty Mentorship） — 同伴导师不具备最终评价权与权威学术地位，侧重认知共情与过程点拨。
-> - 不等于 传统同伴辅导（[[Peer-Supported Learning\|peer tutoring]]） — 同伴辅导通常局限于特定学科[[Homework\|作业]]的具体题目答疑，而同伴导师涵盖思维习惯、学术适应与情感支持的综合[[Growth\|成长]]。
+> - 不等于 传统同伴辅导（[[Peer-Supported Learning\|peer tutoring]]） — 同伴辅导通常局限于特定学科[[Homework\|作业]]的具体题目答疑，而同伴导师涵盖思维习惯、学术适应与情感支持的综合成长。
 
 ---
 

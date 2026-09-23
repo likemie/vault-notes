@@ -13,7 +13,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 41
+fact_related_count: 40
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Inhibitory Control]]"
   - "[[Social-Emotional Learning]]"
   - "[[Gamification]]"
-  - "[[Growth]]"
   - "[[Educational Level]]"
   - "[[Affective Outcomes]]"
   - "[[Technical Rationality]]"
@@ -114,7 +113,7 @@ updated: 2026-09-22
 > [!citation-card] 代表性立项宣言／宗旨界定
 > [[OECD]] 在启动 IELS 时宣称该评估旨在为各国政府提供关于儿童早期身心准备度的客观实证依据：
 > 
-> 国际早期学习与儿童福祉研究是一项跨国评估，旨在帮助各国为所有儿童提供最好的开端。它不仅测量儿童早期发展的关键认知与社会情感领域，更为决策者与教育工作者提供关于儿童如何跨越背景差异茁壮[[Growth\|成长]]的关键洞察。（OECD, 2018, IELS Framework）
+> 国际早期学习与儿童福祉研究是一项跨国评估，旨在帮助各国为所有儿童提供最好的开端。它不仅测量儿童早期发展的关键认知与社会情感领域，更为决策者与教育工作者提供关于儿童如何跨越背景差异茁壮成长的关键洞察。（OECD, 2018, IELS Framework）
 > 
 > *The International Early Learning and Child Well-being Study is an international assessment designed to help countries give all children the best start. It measures key cognitive and social-emotional areas of early development, providing decision makers and practitioners with crucial insights into how children thrive across diverse backgrounds.*
 
@@ -181,7 +180,7 @@ updated: 2026-09-22
 > > - **商业逻辑与品牌自我强化** [[Argument_Grey_2018_CE\|Grey & Morris (2018, pp. 125–126)]]进一步剖析指出，Baby PISA 的推出是 OECD 强化自身品牌垄断的商业与政治策略。数据的可塑性使得跨国测验能够迎合国内政客对危机的炒作，而这种危机感反过来为 Baby PISA 等新衍生产品的推销铺平了道路。
 
 > [!critique] 外部学术批评与体制反思
-> - **文化错配与西方中心主义偏见** 测评指标根植于欧美发达市场经济体的核心理念，以盎格鲁-撒克逊中产阶级的养育规范作为全球通用的“良好发展”标尺，严重贬抑了原住民社群及非西方文化中多元的儿童[[Growth\|成长]]观（[[Argument_Zhao_2020_JEC\|Zhao, 2020]]）。
+> - **文化错配与西方中心主义偏见** 测评指标根植于欧美发达市场经济体的核心理念，以盎格鲁-撒克逊中产阶级的养育规范作为全球通用的“良好发展”标尺，严重贬抑了原住民社群及非西方文化中多元的儿童成长观（[[Argument_Zhao_2020_JEC\|Zhao, 2020]]）。
 > - **北欧诸国抵制所揭示的政治合法性缺陷** 传统上在儿童福祉与早期教育质量上享誉全球的北欧国家集体拒绝参与该项目，不仅形成了对 OECD 霸权的强力反弹，更证明了全球学前教育领域对抵制“一刀切”量化规制的学术与专业共识。
 
 > [!citation-card] 代表性批评[[Document\|文献]]

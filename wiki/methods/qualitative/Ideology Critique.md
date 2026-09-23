@@ -6,7 +6,7 @@ summary: "批判理论的核心方法论，通过四阶段反思实践揭示社�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 18
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Causality]]"
   - "[[Reflexivity]]"
-  - "[[Dialogue in Education]]"
   - "[[Interpretive Paradigm]]"
   - "[[Rationalism in International Relations]]"
   - "[[Praxis]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-16
-updated: 2026-07-11
+updated: 2026-09-22
 ---
 
 # Ideology Critique
@@ -76,7 +75,7 @@ updated: 2026-07-11
 > - **研究设计** 批判性[[Case Study\|案例研究]]、政策分析、[[Action Research\|行动研究]]。
 > - **数据收集** 政策文本、课程文件、制度记录、访谈、[[Participant Observation\|参与观察]]。
 > - **分析方法** [[Jürgen Habermas\|哈贝马斯]]四阶段反思实践（描述→归因→议程→评估）。
-> - **辅助技术** 利益分析、权力关系映射、[[Reflexivity\|反思性]][[Dialogue in Education\|对话]]。
+> - **辅助技术** 利益分析、权力关系映射、[[Reflexivity\|反思性]]对话。
 
 ---
 
@@ -106,7 +105,7 @@ updated: 2026-07-11
 > - **资料类型** 教育政策文件、课程大纲、教科书文本、学校制度记录、访谈记录、课堂观察笔记。
 > - **资料质量** 关注文本背后被隐藏的利益和声音；需要识别"缺席"——谁的知识和视角未被包含。
 > - **分析策略** 利益分析、意识形态运作机制识别、可普遍化利益检验、权力关系映射。
-> - **质量控制** 多方视角交叉验证，反思研究者自身立场，与参与者[[Dialogue in Education\|对话]]确认分析。
+> - **质量控制** 多方视角交叉验证，反思研究者自身立场，与参与者对话确认分析。
 > - **输出形式** 权力与利益分析报告、变革建议、批判性政策分析。
 
 ---

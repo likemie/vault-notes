@@ -7,7 +7,7 @@ aliases:
 summary: "指知识在主体、组织或地缘权力关系中流动、传递与挪用的多义概念，横跨知识地缘政治、产学合作与循证知识动员三大理论脉络。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 38
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Forced Knowledge Transfer]]"
   - "[[Knowledge Sabotage]]"
-  - "[[Dialogue in Education]]"
   - "[[Professors of Practice]]"
   - "[[Technology Transfer Office]]"
   - "[[Hypothesis]]"
@@ -63,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Knowledge Transfer
@@ -117,7 +116,7 @@ updated: 2026-09-17
 
 > [!feature] 知识转移的多维核心要素
 > - **地缘转移的六大运动模态（Geopolitical Modalities）** 涵盖[[Forced Knowledge Transfer\|强制知识转移]]（自上而下灌输）、经济与工业间谍（跨国技术窃取）、监视（Surveillance 大规模数据监控）、审查（Censorship 信息阻断）、[[Knowledge Sabotage\|知识破坏]]（网络攻击）以及对等知识交换（[[Argument_Partaken_2022_Springer\|Partaken, 2022, pp. 75–84]]）。
-> - **产学转移的多重通道连续体（Formal-Informal [[SPECTRUM]]）** 分布于从非正式渠道（学术[[Document\|文献]]、校友网络、非正式[[Dialogue in Education\|对话]]）、半正式渠道（[[Cooperative Education\|合作教育]]、[[Professors of Practice\|实践教授]]聘任）到正式合同渠道（赞助研究、知识产权许可、数据协议）的全谱系（[[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall, 2025b, pp. 54–55]]）。
+> - **产学转移的多重通道连续体（Formal-Informal [[SPECTRUM]]）** 分布于从非正式渠道（学术[[Document\|文献]]、校友网络、非正式对话）、半正式渠道（[[Cooperative Education\|合作教育]]、[[Professors of Practice\|实践教授]]聘任）到正式合同渠道（赞助研究、知识产权许可、数据协议）的全谱系（[[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall, 2025b, pp. 54–55]]）。
 > - **中介组织载体（Intermediary Offices）** 在大学层面依托知识转移办公室（KTO）或[[Technology Transfer Office\|技术转移办公室]]（TTO），承担“信息科学链接”与“交易谈判专家”双重职能。
 > - **Lavis 五问受众战略构件（Lavis's 5-Question Framework）** 涵盖信息（综合研究结论而非单一生硬数据）、目标受众（公众、实践者、管理决策者、政策制定者）、传递者（信誉公信力保障）、转移流程与通信基建（双向支持网络）以及战略成效评估（[[Argument_Torres_2022_KMModels\|Torres, 2022, pp. 37–38]]）。
 

@@ -7,7 +7,7 @@ aliases:
 summary: "由Stenhouse开创并经复杂性理论深化的教育研究范式，主张教师从知识消费者转向自身实践的知识生产者，在复杂自组织教育生态中与外部研究者形成共生探究网络。"
 type: concept
 domain: "teacher-education"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Paradigm]]"
   - "[[Homework]]"
+  - "[[Open-Mindedness]]"
   - "[[Formative Assessment]]"
   - "[[Hypothesis]]"
   - "[[Business as Usual]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-09-21
+updated: 2026-09-23
 ---
 
 # Teacher-as-Researcher
@@ -147,7 +148,7 @@ updated: 2026-09-21
 > [!mindset] 教师作为研究者的方法论取向
 > - **以问题为起点** 课题必须生发于真实的教育困境与学生需求，坚决拒绝脱离一线现场的伪问题。
 > - **研究融入日常教学** 探究过程与教学活动高度共生，[[Homework\|作业]]批改、课堂观察、师生谈话与作品集直接转化为[[Qualitative Research\|质性研究]]材料，避免形式主义的额外负担。
-> - **拥抱开放性与迭代演进** 预先设计的行动方案须根据课堂现场的动态反馈敏捷调适，在行动中研究，在研究中调整。
+> - **拥抱[[Open-Mindedness|开放性]]与迭代演进** 预先设计的行动方案须根据课堂现场的动态反馈敏捷调适，在行动中研究，在研究中调整。
 > - **注重证据多元互证** 综合运用录音录像、观察笔记、学生反思日记与[[Formative Assessment\|形成性评价]]数据，保证行动结论的严密性与透明度。
 
 > [!proc] 实践者本位研究的标准操作五步规程

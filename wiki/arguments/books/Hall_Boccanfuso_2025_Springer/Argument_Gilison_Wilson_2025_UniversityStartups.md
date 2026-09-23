@@ -15,7 +15,6 @@ tags:
 related_concepts:
   - "[[University Spin-Out]]"
   - "[[Governance by Spin]]"
-  - "[[Growth]]"
   - "[[University-Industry Collaboration]]"
   - "[[Proof of Concept Programs]]"
   - "[[Hypothesis]]"
@@ -28,7 +27,6 @@ related_concepts:
   - "[[Technology Transfer Office]]"
   - "[[Corporate Venture Capital]]"
   - "[[Technology Readiness Level]]"
-  - "[[Dialogue in Education]]"
   - "[[Mentorship]]"
   - "[[Teaching Assistant]]"
   - "[[Professional Judgment]]"
@@ -70,7 +68,7 @@ title: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_key: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_display_title: "University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration"
 argument_kind: "book"
-argument_related_count: 40
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -88,7 +86,7 @@ citation_aliases:
 > [!question]
 > [[University Spin-Out\|大学衍生企业]]（[[Governance by Spin\|Spin]]-outs）常被浪漫化，学生宿舍里的灵感、辍学创业、一夜成功。但现实中，"成功的大学衍生企业才是真正的独角兽"(p.142)。
 >
-> 核心问题是，产业伙伴在大学衍生企业的创建和[[Growth\|成长]]过程中，最有效、最实际的参与方式是什么？哪些结构性障碍限制了产业直接推动衍生企业创建的能力？哪些大学主导的项目机制能够有效撬动产业的市场洞察来提升衍生企业的成功几率？
+> 核心问题是，产业伙伴在大学衍生企业的创建和成长过程中，最有效、最实际的参与方式是什么？哪些结构性障碍限制了产业直接推动衍生企业创建的能力？哪些大学主导的项目机制能够有效撬动产业的市场洞察来提升衍生企业的成功几率？
 >
 > 两位作者均来自[[Alliance for Southern California Innovation\|南加州创新联盟]]（Alliance for Southern California Innovation），拥有八年产业创新项目运营经验，并在撰写前对南加州主要研究型大学的 20 余位[[University-Industry Collaboration\|产学合作]]领导者和企业创新负责人进行了访谈和调查(p.143)。这一定位区别于传统学术研究，目标是提供"可操作的见解"（actionable insights）而非理论建构。
 
@@ -203,7 +201,7 @@ citation_aliases:
    - **[[Technology Readiness Level|技术就绪度]]（Technology Readiness Level, TRL）门槛**。TRL 是 NASA 在 1970 年代发展出来的一套评估技术成熟度的量表，从 TRL 1（基础原理被观察到）到 TRL 9（系统在实际环境中经过验证）。企业对试点项目（pilot program）——即企业提供真实场景和资源来测试一项新技术——通常会要求 TRL 至少达到 6-7（系统原型在相关环境中演示过）。但大多数大学衍生企业在刚成立时处于 TRL 3-5（实验室概念验证到实验室环境下的原型），距离企业试点要求还差两三个等级(p.145)。
 
 > [!example]
-> 教育学院的"教师课堂话语分析系统"目前 TRL 大约是 4，在五个合作学区的 20 间教室里录了音、跑了初步的机器学习（Machine Learning, ML）模型、标注了 500 小时的师生[[Dialogue in Education\|对话]]。但一家教育科技公司如果要把它作为试点嵌入自己的教师发展平台，至少需要 TRL 6，系统在各种噪音条件（开放式教室、户外活动、体育馆）下都能稳定识别语音、准确率大于 95%、延迟小于 2 秒。TRL 4 到 TRL 6 之间需要至少半年的工程优化和更多的真实场景数据采集，这恰恰是最缺钱的阶段。
+> 教育学院的"教师课堂话语分析系统"目前 TRL 大约是 4，在五个合作学区的 20 间教室里录了音、跑了初步的机器学习（Machine Learning, ML）模型、标注了 500 小时的师生对话。但一家教育科技公司如果要把它作为试点嵌入自己的教师发展平台，至少需要 TRL 6，系统在各种噪音条件（开放式教室、户外活动、体育馆）下都能稳定识别语音、准确率大于 95%、延迟小于 2 秒。TRL 4 到 TRL 6 之间需要至少半年的工程优化和更多的真实场景数据采集，这恰恰是最缺钱的阶段。
 
 ---
 

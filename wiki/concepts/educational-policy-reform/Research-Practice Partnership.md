@@ -8,7 +8,7 @@ aliases:
 summary: "研究者与实践组织之间长期、互惠的协作机制，通过共同确定问题、协同生产与情境化运用知识，被视为弥合研究-实践鸿沟并打破线性知识转移瓶颈的重要制度安排。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 62
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Professional Learning Community]]"
   - "[[Hypothesis]]"
   - "[[Third Space Discourse]]"
-  - "[[Dialogue in Education]]"
   - "[[Champ]]"
   - "[[Reflexivity]]"
   - "[[Boundary Spanner]]"
@@ -91,7 +90,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-26
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Research-Practice Partnership
@@ -140,7 +139,7 @@ updated: 2026-09-18
 > [!feature] 核心要素
 > - **长期互惠治理承诺** RPP 建立在超越具体课题周期的长期制度化契约之上，双方共同协商优先事项，共享研究所有权与成果权益。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 131)]]
 > - **[[Research Question\|研究问题]]联合建构** 摒弃学术界闭门造车的纯理论[[Hypothesis\|假设]]，从学校管理、课堂教学与区域治理的真实复杂困境中共同提炼研究问题。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 21–22)]]
-> - **[[Third Space Discourse\|第三空间]][[Dialogue in Education\|对话]]机制（Third Space Discourse）** 拒绝消除研究者与实践者固有专业差异的同化思维，搭建平等交流的常态化小型研讨[[Champ\|场域]]，赋予一线教师直接发起研究课题的制度化权利，在兼具[[Reflexivity\|反思性]]与教学敏感性的第三空间中实现优势互补。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–219)]]
+> - **[[Third Space Discourse\|第三空间]]对话机制（Third Space Discourse）** 拒绝消除研究者与实践者固有专业差异的同化思维，搭建平等交流的常态化小型研讨[[Champ\|场域]]，赋予一线教师直接发起研究课题的制度化权利，在兼具[[Reflexivity\|反思性]]与教学敏感性的第三空间中实现优势互补。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–219)]]
 > - **名师与研究型教师双轨分工协同** 在微观学校端确立内外部专业分工，由专职名师在校内主持教学法微观改进，由享受带薪科研时间的研究型教师负责跨校学术辐射与高校深度对接，打破依靠个别明星校长的偶发星象运气。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 215–216)]]
 > - **双向跨界中介能力** 突破证据生产者与使用者的双向能力赤字，培育兼通学术方法与现场情境的[[Boundary Spanner\|跨界中介者]]（boundary spanners）（Campbell et al., 2017）。
 > - **高质量[[Research Utilization\|证据使用]]的组织基建与外部联结（Infrastructure & Relationship Enabler）** 在[[Quality Use of Research Evidence Framework\|研究证据质量使用框架]]（[[Quality Use of Research Evidence Framework\|QURE]]）中，RPP 被明确确立为支撑学校组织使能的关键外部基础架构与专业人际网络；它打破了传统学校孤立无援的困境，使校内研究协调员能够顺畅借力外部学术专长，推动证据使用从单次项目合作深化为对适切证据的持续审慎研讨。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 134, 143–144)]]
@@ -227,7 +226,7 @@ updated: 2026-09-18
 > - **2006 — [[Engaged Scholarship\|参与式学术]]奠定[[Epistemology\|认识论]]基石** Van de Ven & Johnson (2006) 提出“参与式学术”，将理论-实践鸿沟界定为[[Knowledge Production\|知识生产]]方式问题，确立了研究者与实践者协同共创的正当性。
 > - **2010s — 美国学区-大学伙伴关系兴起与工具开发** 美国大批城市学区（如芝加哥、巴尔的摩、纽约）与顶尖大学建立制度化 RPP；[[National Center for Research in Policy and Practice\|NCRPP]] 与 Coburn 等学者开始系统解构 RPP 对教育者心智模式与三类[[Research Utilization\|研究使用]]的深层影响。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 132)]]
 > - **2017 — 全系统战略与多维测量框架成熟** [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] 整合特刊成果，通过安大略省 [[Knowledge Network for Applied Education Research\|KNAER]] 案例确立了全系统 RPP 推进策略，并收录 Wentworth et al. (2017) 量化 RPP 感知影响的[[Questionnaire\|问卷]]模型。
-> - **2018–2019 — [[Research Schools Network\|研究学校网络]]与学习[[Dialogue in Education\|对话]]演进** 英国 [[Education Endowment Foundation\|EEF]] 建立“研究学校网络”（Research Schools Network），并衍生出高校与学校深度合作的“研究学习网络”（Research Learning Networks, RLNs），通过学习对话促进[[Knowledge Co-production\|知识共创]]（Brown, 2018；[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, pp. 20–21]]）。
+> - **2018–2019 — [[Research Schools Network\|研究学校网络]]与学习对话演进** 英国 [[Education Endowment Foundation\|EEF]] 建立“研究学校网络”（Research Schools Network），并衍生出高校与学校深度合作的“研究学习网络”（Research Learning Networks, RLNs），通过学习对话促进[[Knowledge Co-production\|知识共创]]（Brown, 2018；[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, pp. 20–21]]）。
 > - **2022 — 纳入复杂系统跨国政策调查** [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] 依托 [[OECD]] 29 国政策调查，将 RPP 提升为复杂[[Evidence Ecosystem\|证据生态系统]]建设的支柱机制，指出当前国际上政策-研究伙伴关系远落后于实践-研究伙伴关系，呼吁建立更具包容性的多方共治网络。
 > - **2022 — 跨国实证调查揭示大学-中小学伙伴关系的制度化局限** [[Argument_Hill_2022_FacilitatingActors\|Hill (2022, p. 82)]] 针对 29 国 37 个教育系统调查显示，大学-中小学伙伴关系与网络在各国的活跃度呈现显著系统特异性，远未成为 OECD 国家的普遍制度化实践：尽管其在推动实践转化上被寄予厚望，但哥伦比亚、加拿大魁北克等诸多系统明确报告该类伙伴网络在促进教学实践应用端“完全不活跃”，奥地利与斯洛伐克等系统则报告其仅活跃于论文生产端，证实学术界参与的混合型伙伴关系在跨界落地上面临严重的机制脱节。
 > - **2022 — 承认差异并构建“[[Third Space Discourse\|第三空间话语]]”与跨部门协作模型** [[Tine S. Prøitz\|蒂内·S·普勒茨]]（Tine S. Prøitz）总结瑞典国家级 ULF 试点项目（覆盖 25 所设立教师教育的高校与 150 余个市镇），指出 RPP 不应试图抹平实践者与研究者在工作情境与话语体系上的固有差异，而应通过承认差异构建“第三空间话语”（Third Space Discourse），在研讨会与共同议程中明确角色分工以保障科学质量。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–220)]]

@@ -11,9 +11,9 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
 fact_related_color: "#ede9fe"
 tags:
   - policy/higher-education
@@ -22,7 +22,6 @@ tags:
   - theme/formative-assessment
 related_concepts:
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Growth]]"
   - "[[Feedback]]"
   - "[[Task Structure]]"
   - "[[Surface and Deep Learning]]"
@@ -38,7 +37,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-09-22
 ---
 
 # TESTA Project
@@ -67,7 +66,7 @@ updated: 2026-08-27
 ## 关键文件／声明
 
 > [!citation-card]- 模块化过度考核的核心诊断
-> 密集的学分模块化导致期末终结性大考过度拥挤，教师疲于判卷无暇提供指导性评语，迫使学生采取应试策略，严重挤压了需要低利害试错与多轮迭代的[[Higher-Order Thinking Skills\|高阶思维]][[Growth\|成长]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 26–27)]]
+> 密集的学分模块化导致期末终结性大考过度拥挤，教师疲于判卷无暇提供指导性评语，迫使学生采取应试策略，严重挤压了需要低利害试错与多轮迭代的[[Higher-Order Thinking Skills\|高阶思维]]成长。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 26–27)]]
 >
 > *Modularisation has resulted in hyper-assessment with too many summative tasks and too little formative [[Feedback]], crowding out the space and time needed for students to develop higher-order thinking.*
 

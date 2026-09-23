@@ -20,7 +20,7 @@ related_concepts:
   - "[[Theoretical Standpoint]]"
   - "[[Posthumanism]]"
   - "[[Assemblage]]"
-  - "[[Dialogue in Education]]"
+  - "[[Conversational AI in Education]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -60,7 +60,7 @@ updated: 2026-09-18
 > - **热门主题（Hot topics）**
 >   学者关注度极高且持续升温的领域。具体包括性别与种族（如女孩教育专刊），以及以“后”（POST-）为标志的时尚理论，如[[Posthumanism\|后人类主义]]理论或系统[[Assemblage\|装配]]（assemblages）视角。
 > - **突破性主题（Break-through themes）**
->   突然显性化且直穿未来的变革议题。包括控制与治理模式变迁、数据霸权、后殖民主义与全球南方、[[PISA]] 测试批判、民族主义概念重建，以及人工智能（AI）尤其是智能[[Dialogue in Education\|对话]]机器人（如 ChatGPT）带来的急剧技术变革。
+>   突然显性化且直穿未来的变革议题。包括控制与治理模式变迁、数据霸权、后殖民主义与全球南方、[[PISA]] 测试批判、民族主义概念重建，以及人工智能（AI）尤其是智能[[Conversational AI in Education|对话机器人]]（如 ChatGPT）带来的急剧技术变革。
 > - **冷门主题与重大沉默（Cold topics / Major silences）**
 >   学科历史上在面对重大地缘政治变迁时长期失声的冷门领域。包括战争、革命、帝国以及宗教。这些领域应当在不以提供政策建议为目的的纯粹学术研究中进行深刻的重估与探讨。
 > - **[[Readings of the Global\|全球解读]]（Readings of the Global）**

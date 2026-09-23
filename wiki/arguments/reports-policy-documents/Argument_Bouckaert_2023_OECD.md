@@ -7,7 +7,7 @@ title: "Argument_Bouckaert_2023_OECD"
 argument_key: "Argument_Bouckaert_2023_OECD"
 argument_display_title: "The assessment of students' creative and critical thinking skills in higher education across OECD countries: A review of policies and related practices (OECD Education Working Papers No"
 argument_kind: "report"
-argument_related_count: 111
+argument_related_count: 110
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -70,7 +70,6 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Problem Finding]]"
-  - "[[Growth]]"
   - "[[Homework]]"
   - "[[Chain of Evidence]]"
   - "[[Scaffolding]]"
@@ -401,7 +400,7 @@ updated: 2026-09-18
 >   - **标志性“大口试”（Grand Oral）模块** 考生须围绕高中最后两年主修的两门专业学科自主确定跨学科探究课题，并在会考中完成 20 分钟全真现场答辩：包含 5 分钟脱稿立论陈述、10 分钟与考官委员会展开深度思辨质辩、5 分钟阐述该研究与未来大学专业学术规划的关联，直接评估逻辑推理、思维敏捷度与即席学术表达。（pp. 24–25）
 > - **韩国大学入学选拔自主化与综合录取改革（2008 起）**
 >   - **破除单选题统考垄断** 逐步压缩以客观选择题为主的“大学修学能力考试”（College Scholastic Ability Test, CSAT / 修能）在大学录取中的绝对决定权。
->   - **学生簿综合评价（Student Record Comprehensive Screening）** 赋予大学充分的招生自主裁量权，系统引入高中学业[[Growth\|成长]]档案、跨学科探究小论文、创造性作品集与结构化深度面试，驱动高中教学从被动应试转向主动探究。（p. 25）
+>   - **学生簿综合评价（Student Record Comprehensive Screening）** 赋予大学充分的招生自主裁量权，系统引入高中学业成长档案、跨学科探究小论文、创造性作品集与结构化深度面试，驱动高中教学从被动应试转向主动探究。（p. 25）
 >
 > （pp. 23–25）
 
@@ -554,7 +553,7 @@ updated: 2026-09-18
 > [!warning]
 > - **高校微观评价实践数据的碎片性** 由于大学享有充分的[[Academic Freedom\|学术自由]]与制度自治权，微观院系与教师层面的具体评价实践高度离散且缺乏系统性登记，本研究主要依赖国际调查与自愿参与的研究项目，难以全面反映所有学科微观课堂的真实全貌。（pp. 27–29）
 > - **标准化[[Higher-Order Thinking Skills\|高阶思维]]工具的学科可移植性限制** 现存多数[[Critical Thinking\|批判性思维]]测评工具多偏向通用认知领域或特定医学、法律等专业，通识能力测评与高度专门化的人文及理工科专业知识之间的深度整合仍有待进一步实证检验。（pp. 22–24, 31–32）
-> - **跨国政策转化效果追踪的实证证据不足** 本报告所梳理的国家资格框架与创新资助政策多数处于制度推行或试点阶段，政策干预对高校教师评价行为及学[[Growth\|生长]]期高阶思维发展的因果影响仍需长期的纵向追踪数据支持。（pp. 34–35）
+> - **跨国政策转化效果追踪的实证证据不足** 本报告所梳理的国家资格框架与创新资助政策多数处于制度推行或试点阶段，政策干预对高校教师评价行为及学生长期高阶思维发展的因果影响仍需长期的纵向追踪数据支持。（pp. 34–35）
 
 ---
 

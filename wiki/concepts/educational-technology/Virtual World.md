@@ -7,10 +7,10 @@ aliases:
 summary: "计算机生成的模拟环境，参与者通过化身互动并共创世界，为教育研究提供安全、匿名和沉浸式的敏感议题探索空间"
 type: concept
 domain: "educational-technology"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - educational-technology
   - research-methodology
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Presence]]"
   - "[[Determinism]]"
-  - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
   - "[[Sensitive Research]]"
   - "[[Informed Consent]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Virtual World
@@ -139,7 +138,7 @@ updated: 2026-09-17
 > 虚拟世界之所以适合研究敏感和争议性议题，不仅因为技术能力，更因为其沟通结构深度契合规范性的沟通伦理原则。
 
 > [!claim] Habermas (1979, 1984); Morrison (1995a)
-> **沟通自由与平等参与** 虚拟世界中的沟通模式与[[Jürgen Habermas\|哈贝马斯]][[Ideal Speech Situation\|理想言说情境]]的核心原则深度契合。在沟通自由维度上，参与者享有自由进入话语、检查可疑主张、评估解释、修改概念框架、评估辩护、改变规范和反思政治意愿的自由。在平等与互惠维度上，参与者之间形成相互理解，拥有选择和运用言语行为的平等机会，每个主体被承认为自主和平等伙伴参与[[Dialogue in Education\|对话]]。在共识与真理维度上，共识仅源于更好论证的力量，而非参与者的位置或政治权力，除合作寻求真理外所有动机都被排除（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19, pp. 157–159]]）。
+> **沟通自由与平等参与** 虚拟世界中的沟通模式与[[Jürgen Habermas\|哈贝马斯]][[Ideal Speech Situation\|理想言说情境]]的核心原则深度契合。在沟通自由维度上，参与者享有自由进入话语、检查可疑主张、评估解释、修改概念框架、评估辩护、改变规范和反思政治意愿的自由。在平等与互惠维度上，参与者之间形成相互理解，拥有选择和运用言语行为的平等机会，每个主体被承认为自主和平等伙伴参与对话。在共识与真理维度上，共识仅源于更好论证的力量，而非参与者的位置或政治权力，除合作寻求真理外所有动机都被排除（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19, pp. 157–159]]）。
 
 > [!claim] Castells (2009)
 > **社交性私有化促进自由表达** 社交网络站点的流行表明了沟通作为当代社会强大特征的重要性。通过[[Avatar\|化身]]沟通提供了规避面对面沟通中传统权力游戏的自然延伸，是社交性的私有化的例子，使个体更可能自由表达自己（Castells, 2009, p. 389）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19, p. 158]]）。

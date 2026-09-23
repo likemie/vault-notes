@@ -9,7 +9,7 @@ summary: "一种用于将异质性样本依据多维变量特征相似度划分�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 21
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Dialogue in Education]]"
   - "[[Dependent Variable]]"
   - "[[Output-Oriented Governance]]"
   - "[[Evidence-Based School Development]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Cluster Analysis
@@ -73,7 +72,7 @@ updated: 2026-09-18
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 认为复杂社会与教育现象中的个体并非均质分布，而是存在受潜在结构与价值倾向所塑造的自然聚集形态；经验数据内部蕴含客观的几何邻近与模式结构。
-> - **研究者角色** 在距离测度选取（如欧几里得距离、曼哈顿距离）、聚类算法（层次聚类 vs 划分式聚类）、聚类数目 $K$ 的界定以及对最终聚类轮廓的理论诠释中，高度依赖研究者的专业理论判断与实质性概念[[Dialogue in Education\|对话]]。
+> - **研究者角色** 在距离测度选取（如欧几里得距离、曼哈顿距离）、聚类算法（层次聚类 vs 划分式聚类）、聚类数目 $K$ 的界定以及对最终聚类轮廓的理论诠释中，高度依赖研究者的专业理论判断与实质性概念对话。
 > - **有效性标准** 依靠统计指标（如组内误差平方和下降拐点、轮廓系数（Silhouette Coefficient）、组间方差比）与理论可解释性的双重收敛进行效度检验。
 > - **不声称回答的问题** 聚类分析纯属探索性描述分类工具，不能推导因果机制；分群结果高度依赖所选取的指标[[Variable\|变量]]集与尺度变换方法。
 

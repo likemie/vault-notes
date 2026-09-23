@@ -10,7 +10,7 @@ summary: "在研究人类行为的某一方面时使用两种或更多资料收�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 41
+method_related_count: 40
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Academic Self-Concept]]"
   - "[[Critical Thinking]]"
   - "[[Virtual World]]"
-  - "[[Dialogue in Education]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
@@ -208,4 +207,4 @@ updated: 2026-09-22
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011, pp. 188–195)]] — 在 Denzin (1970) 六种三角验证类型框架中详细展开，记录对三角验证的四重批评与 Denzin (1997) 的回应，以及 Lincoln & Guba (1985) 对三角验证功能的重定义。
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 以三阶段收敛式设计实现方法三角验证：量化调查（[[Critical Thinking Strategies Scale\|CTSS]]+[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]]）、质性[[Case Study\|案例研究]]（访谈+观察+文件）、组间比较（[[California Critical Thinking Disposition Inventory\|CCTDI]]+[[Academic Self-Concept\|ASC]]+ATAR）三组证据合并比较，检验 ToK 与[[Critical Thinking\|批判性思维]]的关系
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011, pp. 453–454)]] — 在[[Virtual World\|虚拟世界]]研究中，文字、聊天、语音和手势等不同沟通渠道的数据均可被记录和[[Transcription in Qualitative Research\|转录]]，通过时间戳（time-stamp）比较不同渠道的分析结果，实现数据三角验证（Martin & Vallance, 2008; Vallance & Wiz, 2008）。
-> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 在科学教育人机协同探究质性研究中，采用[[Multimodal Discourse Analysis|多模态话语分析]]实现系统的数据三角互证（课堂视频录像与同伴[[Dialogue in Education|对话]]、4 轮人机交互提示词日志与数字生成物、课后半结构化反思访谈以及[[Qualitative Observation|田野观察]]手记）；同时在教学层面揭示中学生如何通过对照教科书与一手权威资料对生成式 AI 输出展开多源证据三角互证。
+> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 在科学教育人机协同探究质性研究中，采用[[Multimodal Discourse Analysis|多模态话语分析]]实现系统的数据三角互证（课堂视频录像与同伴对话、4 轮人机交互提示词日志与数字生成物、课后半结构化反思访谈以及[[Qualitative Observation|田野观察]]手记）；同时在教学层面揭示中学生如何通过对照教科书与一手权威资料对生成式 AI 输出展开多源证据三角互证。

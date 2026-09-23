@@ -5,7 +5,7 @@ aliases:
 summary: "在研究开始前公开登记研究设计、结果测量和分析计划的做法，用于减少事后调整、选择性报告和可疑研究实践。"
 type: concept
 domain: "research-methodology"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Replication in Education Research]]"
   - "[[Evaluator Independence]]"
   - "[[Evidence-Based Education]]"
+  - "[[Trust Calibration]]"
   - "[[Internal Validity]]"
   - "[[Attrition]]"
   - "[[Literature Review]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-02'
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Preregistration
@@ -248,7 +249,7 @@ updated: 2026-09-17
 > > 预注册要求在试验开始前完全固定评估细节，但在复杂的真实教育生态中，干预往往面临教师变动、学校课表调整或突发危机，过度僵化的要求可能迫使评估者牺牲现场适应性以保全形式合规。
 > >
 > > - **[[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]]** 强调在学校情境中偏离在所难免，必须在规则中设立合规出口，允许有合理解释的调整，防止预注册与实践割裂。[[Argument_Wolf_2020_JREE\|(Wolf et al., 2020, p. 444)]]
-> > - **Gelman & Loken（2014）** 警告过度信任预注册清单容易滋生盲目的安全感假象，因为研究者只要想寻找显著性，总能在既定框架外找到正当化偏离的借口。
+> > - **Gelman & Loken（2014）** 警告[[Trust Calibration|过度信任]]预注册清单容易滋生盲目的安全感假象，因为研究者只要想寻找显著性，总能在既定框架外找到正当化偏离的借口。
 >
 > > [!axis] 事前声明与事后审查监管效力之间的落差
 > > 仅在公共平台进行事前登记并不等同于最终报告忠实执行，缺乏严密的同行外审与惩罚机制时，预注册可能沦为流于形式的象征性达标。

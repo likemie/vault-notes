@@ -9,9 +9,9 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 23
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 tags:
 - national-education
@@ -29,7 +29,6 @@ related_concepts:
   - "[[One Country, Two Systems]]"
   - "[[Sinicisation]]"
   - "[[Psychologisation]]"
-  - "[[Dialogue in Education]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Nation Building through Education]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-14
+updated: 2026-09-22
 ---
 
 ## 定义
@@ -145,7 +144,7 @@ updated: 2026-09-14
 > - **路径二：课外将不满重新框定为心理问题** — "My Pledge to Act" 要求学生"快乐"和"感恩我们所拥有的"。《青年发展蓝图》的四大主题（探索、希望、赋能、贡献）完全回避了青年的政治参与和能动性诉求。
 > - **路径三：个体化归因取代结构性分析** — 官方叙事的核心信息是：生活更好的道路不在于改革社会的行动，而在于改变自我的决心。Vickers 将这一策略与中共在内地推行的"感恩教育"（gratitude education）平行——两者共享同一治理逻辑：将制度批评排除在"可思考"的范围之外。
 >
-> > 在 EdUHK 的政策[[Dialogue in Education\|对话]]中，Lui Tai-lok and Anthony Cheung 尝试将香港的青年反叛表述为全球现象的本地表现——但即使如此含蓄的批评也因暗示青年需要政治对话和能动性而显得无力([[Argument_Vickers_2024_CE\|Vickers, 2024, pp.153–154]])。
+> > 在 EdUHK 的政策对话中，Lui Tai-lok and Anthony Cheung 尝试将香港的青年反叛表述为全球现象的本地表现——但即使如此含蓄的批评也因暗示青年需要政治对话和能动性而显得无力([[Argument_Vickers_2024_CE\|Vickers, 2024, pp.153–154]])。
 >
 > **目前状态** 《青年发展蓝图》已在实施中，其将政治问题心理化的框架已成为官方处理青年事务的主导[[Paradigm\|范式]]。
 

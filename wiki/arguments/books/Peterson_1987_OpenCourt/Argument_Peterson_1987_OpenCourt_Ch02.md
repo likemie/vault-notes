@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 33
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Rationalism in International Relations]]"
   - "[[Knowledge Questions]]"
+  - "[[Open-Mindedness]]"
   - "[[Predictive Validity]]"
   - "[[Champ]]"
 related_theories: []
@@ -57,6 +58,7 @@ related_instruments: []
 related_persons:
   - "[[Bob Leach]]"
   - "[[John Goormaghtigh]]"
+  - "[[Christopher Martin]]"
   - "[[Alec Peterson]]"
   - "[[Gerard Renaud]]"
 related_facts:
@@ -231,7 +233,7 @@ updated: 2026-08-17
 > - **治理连续性降低新项目的不确定性** 原书尤其强调 John Goormaghtigh 的跨文化理解和个人关系能力。他以约十五年的连续领导陪伴项目从危险试验进入长期组织讨论，其作用超过单纯提供法律专业知识（pp. 19–20）。
 
 > [!case] 二十世纪基金的条件性资助改变了项目可以完成的工作
-> - **关键中介同时连接媒体与基金会** 乔治-亨利·马丁（George-Henri Martin）既是《日内瓦论坛报》编辑，也是二十世纪基金受托人。他在 1964 年把仍处于筹备期的 ISES 带入基金会的研究资助范围。
+> - **关键中介同时连接媒体与基金会** 乔治-亨利·[[Christopher Martin|马丁]]（George-Henri Martin）既是《日内瓦论坛报》编辑，也是二十世纪基金受托人。他在 1964 年把仍处于筹备期的 ISES 带入基金会的研究资助范围。
 > - **资助目标是检验可行性** 二十世纪基金以研究为导向，75,000 美元用于调查国际大学入学考试能否运行，并委托马丁·梅耶（Martin Mayer）撰写调查结果报告。资金支持发展，也要求项目产生可供外部判断的证据。
 > - **行政工作第一次可以连续展开** ISES 能够制定发展计划、建立办公室、聘任执行秘书，并为会议准备和会后跟进提供稳定支持。教师个人时间不再是唯一的执行资源。
 > - **学校需求开始通过[[Fieldwork\|实地调查]]进入决策** 经费支持 Martin Mayer and Ecolint 教师吉恩·沃拉克（Gene Wallach）前往可能对项目感兴趣的地区访问国际学校。潜在参与学校的课程、升学和风险判断由此可以进入可行性研究。
@@ -583,7 +585,7 @@ updated: 2026-08-17
 > [!case] 两个委员会分别检验课程正当性与考试可信度
 > 首次全体会议后，与会者分成两个委员会。课程结构、标准与教学大纲委员会由 Heinz Fischer-Wollpert 主持，Gerard Renaud 担任顾问；考试组织与程序委员会由罗伯特·布莱克本（Robert Blackburn）主持，Halls 担任顾问。前者判断六学科组合和学科要求能否代表完整的大学预备教育，后者处理考试怎样组织、分级和形成可比较结果。六学科、高级／辅助程度及允许强项补偿弱项的原则很快获得接受，显示此前两年的课程工作已经把主要分歧压缩到可以作出制度决定的范围（p. 30）。
 
-> [!case] 整体文凭与单科证书同时回应课程完整性和校内开放性
+> [!case] 整体文凭与单科证书同时回应课程完整性和校内[[Open-Mindedness|开放性]]
 > 欧洲代表坚持 IB 应保持整体文凭或课程组合的性质，反对把它改成学生任意报考的单科考试。Desmond Cole 则担心，若只有最有把握取得完整文凭的学生才能进入课程，国际学校的十一、十二年级会分裂出一个超级大学预备精英群体。他提出保留完整文凭，同时向未达到整套文凭条件、但在个别学科取得成绩的学生颁发单科证书。方案获得一致通过。完整文凭继续要求广度、程度组合和共同核心，单科证书则让更多学生进入部分课程，也使成绩可以用于美国大学课程豁免等其他用途。这一折中后来成为 IB 扩展参与范围的重要制度入口（pp. 30–31；[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 3, pp. 34–35; Ch. 4, pp. 67–69)]]）。
 
 > [!chain-link] 六年试验用四层限制换取承认机关承担风险
@@ -626,7 +628,7 @@ updated: 2026-08-17
 > 2. **草根行动需要组织化** 教师能够识别和设计课程问题，但必须由独立法律组织、连续行政与长期领导承担资格责任（pp. 17–20）。
 > 3. **筹资同时是可[[Reliability\|信度]]机制** 二十世纪基金和福特基金提供资金，其承诺也依赖可行性研究、牛津和美国大学理事会等组织背书（pp. 20–24）。
 > 4. **国际性来自改革联盟而非最低共同标准** IB 借助各国改革者，在小规模国际[[Champ\|场域]]试验本国难以推动的课程方案（pp. 24–26）。
-> 5. **课程统一不要求内容同质** 六学科组、程度、双语、[[Theory of Knowledge\|知识论]]、整体文凭和单科证书共同平衡通识、专门化、国家差异与开放性（pp. 28–31）。
+> 5. **课程统一不要求内容同质** 六学科组、程度、双语、[[Theory of Knowledge\|知识论]]、整体文凭和单科证书共同平衡通识、专门化、国家差异与[[Open-Mindedness|开放性]]（pp. 28–31）。
 > 6. **资格承认必须通过真实风险验证** 试验学校、家长、学生和大学共同承担有限风险，才使资格从声明走向使用（pp. 24, 26–31）。
 
 ## 关键引用

@@ -8,7 +8,7 @@ aliases:
 summary: "指以自觉的战略性与发展性取向，在全校教职工中系统培育证据知情实践与文化的组织形态；其判定标准不仅在于具体决策是否参考研究，更在于学校在组织层面是否具备使用证据的意图、意愿与能力，并建立起支撑反思性探究的制度化生态。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 39
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Knowledge Production]]"
   - "[[Data Literacy]]"
-  - "[[Dialogue in Education]]"
   - "[[Activity Traps]]"
   - "[[Boundary Spanner]]"
   - "[[Paradigm]]"
@@ -69,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Research-Engaged School
@@ -126,7 +125,7 @@ updated: 2026-09-21
 > [!factors] 支撑研究参与学校运转的四类关键条件
 > - **研究参与能力（Capacity）** 包含解读日常校本数据以定位问题、评估学术研究方法稳健性，以及识别因果支撑条件以进行本地再情境化的专业能力。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 122–123)]]
 > - **证据导向文化（Culture）** 领导层兼具变革型愿景与学习中心型支持，并在全校形成鼓励安全试错、乐于分享成功与失败经验的组织氛围。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 123–124)]]
-> - **[[Reflexivity\|反思性]]学习环境（Learning Environment）** 以[[Professional Learning Community\|专业学习共同体]]（PLC）为载体，持续开展反思性[[Dialogue in Education\|对话]]，深入质询底层教学[[Hypothesis\|假设]]，有效防范[[Activity Traps\|活动陷阱]]。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 124–125)]]
+> - **[[Reflexivity\|反思性]]学习环境（Learning Environment）** 以[[Professional Learning Community\|专业学习共同体]]（PLC）为载体，持续开展反思性对话，深入质询底层教学[[Hypothesis\|假设]]，有效防范[[Activity Traps\|活动陷阱]]。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 124–125)]]
 > - **结构系统与资源（Structures & Resources）** 刚性划拨专有教研工时、空间与预算，建立正式研讨论坛，并有效利用校内非正式人际信任网络促成知识扩散。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 125)]]
 
 > [!theory-components] [[Quality Use of Research Evidence Framework\|QURE]] 框架视域下组织使能的三大支柱（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a, pp. 143–144]]）
@@ -239,7 +238,7 @@ updated: 2026-09-21
 > > [!axis] 全员包容参与还是骨干精英攻关
 > > 争论聚焦于学校资源有限时，研究参与应当追求全体教职工的普遍卷入，还是集中赋能少数骨干教师建立攻关突击队。
 > >
-> > - **包容性共同体倡导者（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]]; Stoll et al., 2006）** 认为[[Knowledge Mobilisation\|知识动员]]唯有在全员参与[[Reflexivity\|反思性]][[Dialogue in Education\|对话]]时才具有可持续性，突击队模式易导致成果无法扩散。
+> > - **包容性共同体倡导者（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]]; Stoll et al., 2006）** 认为[[Knowledge Mobilisation\|知识动员]]唯有在全员参与[[Reflexivity\|反思性]]对话时才具有可持续性，突击队模式易导致成果无法扩散。
 > > - **管理效率取向者（Roberts, 2015）** 认为全员卷入耗时费力、组织成本过高，在科层管理中建立专项任务小组更具可操作性。
 > >
 > > [!axis] 二元达标考核 vs 质态卓越追求

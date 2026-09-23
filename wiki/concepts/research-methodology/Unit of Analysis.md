@@ -28,7 +28,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Rich and Thick Description]]"
   - "[[Operationalization]]"
-  - "[[Dialogue in Education]]"
   - "[[Teacher Professional Agency]]"
   - "[[Empiricism]]"
   - "[[Reliability]]"
@@ -37,6 +36,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Positivism]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Meaningful Human Control]]"
   - "[[Presence]]"
   - "[[Champ]]"
   - "[[Hypothesis]]"
@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Unit of Analysis
@@ -125,7 +125,7 @@ updated: 2026-09-17
 > [!taxonomy] Krippendorff 的三层分析单位体系
 > - **抽样单位（Sampling units）** 进入或被排除在分析视野之外的宏观独立单元，属于选择单位（units of selection）。例如特定年份的报纸期号、抽取的整份访谈[[Transcription in Qualitative Research\|转录]]稿、一部完整教科书。
 > - **记录/[[Coding in Qualitative Research\|编码]]单位（Recording/coding units）** 包含于抽样单位之内且小于抽样单位的具体分析片段，属于描述与赋码单位（units of description）。例如具体的字词、短语、单句、段落或核心命题。
-> - **语境单位（Context units）** 为记录单位的阐释设定信息边界的最大文本范围。编码者在判断记录单位的真实意涵、修辞色彩与潜在动机时，所需参考的上下文广度（如该记录单位所在的整个章节或完整[[Dialogue in Education\|对话]]轮次）。
+> - **语境单位（Context units）** 为记录单位的阐释设定信息边界的最大文本范围。编码者在判断记录单位的真实意涵、修辞色彩与潜在动机时，所需参考的上下文广度（如该记录单位所在的整个章节或完整对话轮次）。
 
 > [!feature] 五类抽样与记录单位形态（Krippendorff, 2004）
 > - **物理单位（Physical units）** 以时间、空间、篇幅或物理尺寸界定（如报纸版面尺寸、电视广播时长、社交媒体单条推文）。
@@ -216,7 +216,7 @@ updated: 2026-09-17
 > - **1985 — 质性自然主义单位化规程** 林肯与古巴（Lincoln & Guba, 1985）将单位化（Unitizing）引入[[Interpretive Paradigm\|自然主义探究]]，确立具有独立语义完整性的“意义单位（Meaning units）”。
 > - **1990s — 聚合[[Reliability\|信度]]律与多层比较模型** 罗伯特·韦伯（Weber, 1990）总结聚合尺度与信度的反比关系；布雷与托马斯（Bray & Thomas, 1995）构建比较教育多维分析单位立方体框架。
 > - **2000s–2010s — [[Complexity Theory\|复杂性理论]]的生态网络转向** [[Keith Morrison\|莫里森]]（Morrison, 2008）与卡普拉（Capra, 1996）推动分析单位从离散原子实体转向围绕奇异吸引子生成的共生生态系统，实现宏微观研究的方法论贯通。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 31)]]
-> - **2020s — 计算文本分块与语境窗口重构** 随着自然语言处理与大语言模型（LLM）的兴起，文本分块（Chunking）、词元（Token）与上下文窗口（Context Window）重塑了分析单位的技术形态，人在回路（HITL）审校成为维护宏观语境与微观分块平衡的核心机制。
+> - **2020s — 计算文本分块与语境窗口重构** 随着自然语言处理与大语言模型（LLM）的兴起，文本分块（Chunking）、词元（Token）与上下文窗口（Context Window）重塑了分析单位的技术形态，[[Meaningful Human Control|人在回路]]（HITL）审校成为维护宏观语境与微观分块平衡的核心机制。
 
 ---
 
@@ -254,7 +254,7 @@ updated: 2026-09-17
 
 > [!proc] 质性与[[Content Analysis\|内容分析]]中确定分析单位的四步规程
 > 1. **宏观阶段：界定抽样单位与[[Document\|文献]]总体域** 依据[[Research Question\|研究问题]]明确考察的文本边界（如特定政策公文集、全套教科书），明确[[Multi-phase Sampling\|多阶段抽样]]的嵌套路径（如期号 ➔ 报道篇目）。
-> 2. **中观阶段：设定语境单位与信息回溯范围** 为后续分析确立解读记录单位所需的最大参考范围（如完整段落或该主题讨论的整个[[Dialogue in Education\|对话]]周期），保障[[Coding in Qualitative Research\|编码]]者能准确把握修辞基调。
+> 2. **中观阶段：设定语境单位与信息回溯范围** 为后续分析确立解读记录单位所需的最大参考范围（如完整段落或该主题讨论的整个对话周期），保障[[Coding in Qualitative Research\|编码]]者能准确把握修辞基调。
 > 3. **微观阶段：明确最小记录/编码单位形态** 依据研究性质选择适切形态（句法单位如单句、命题单位如主谓逻辑陈述、或意义单位），制定明确的切分断句[[Operationalization\|操作化]]规则。
 > 4. **校验阶段：实施单位化[[Pilot Testing\|预测试]]与一致性核验** 抽取 10%–20% 样本由双人独立实施切分与赋码，计算单位化[[Reliability\|信度]]系数（Unitizing Reliability），排除边界歧义后方可全量展开。
 

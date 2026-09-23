@@ -5,7 +5,7 @@ aliases:
 summary: "围绕扫描、聚焦、形成直觉、学习、行动和检查展开的教师探究循环模型，用于把证据使用与持续学校改进连接起来"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,7 +17,6 @@ tags:
 - evidence-informed-practice
 related_concepts:
   - "[[Hypothesis]]"
-  - "[[Dialogue in Education]]"
   - "[[Evidence-Informed Practice]]"
 related_theories:
   - "[[Inquiry Cycle]]"
@@ -32,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 ## 定义
@@ -50,7 +49,7 @@ updated: 2026-09-21
 > 3. **直觉（Hunch）** 形成关于哪些教师行动可以改变观察到的模式的[[Hypothesis\|假设]]
 > 4. **学习（Learning）** 查阅已发表证据来指导实践
 > 5. **采取行动（Taking Action）** 实施改变
-> 6. **检查（Checking）** 检查行动是否产生预期效果——可能通过调查学生，但核心过程涉及教师或管理者与学生进行个别或小组[[Dialogue in Education\|对话]]，使用先前使用者开发的问题([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306]])
+> 6. **检查（Checking）** 检查行动是否产生预期效果——可能通过调查学生，但核心过程涉及教师或管理者与学生进行个别或小组对话，使用先前使用者开发的问题([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306]])
 
 
 > [!abstract] 与网络化改进社区的区别

@@ -2,7 +2,7 @@
 title: Blind Spot in Observation
 aliases:
   - 观察盲点
-summary: "Luhmann 的观察概念，指每次观察都建立在某个无法被观察者同时看见的盲点之上。"
+summary: Luhmann 的观察概念，指每次观察都建立在某个无法被观察者同时看见的盲点之上。
 type: concept
 domain: "educational-philosophy"
 related_count: 15
@@ -10,12 +10,12 @@ related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 tags:
-- blind-spot-in-observation
-- paradigm/systems-theory
+  - blind-spot-in-observation
+  - paradigm/systems-theory
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Paradigm]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
@@ -35,8 +35,8 @@ related_arguments:
   - "[[Argument_Larsen_2019_EducSci]]"
 confidence: medium
 status: draft
-created: '2026-05-04'
-updated: 2026-09-18
+created: 2026-05-04
+updated: 2026-09-23
 ---
 
 ## 定义
@@ -47,7 +47,7 @@ updated: 2026-09-18
 > > "Alle Selbstbeobachtung ist ja bedingt durch einen blinden Fleck. Sie ist nur möglich, weil sie ihr Sehen nicht sehen kann."（Luhmann, 1998, p.81; 引自 Larsen, 2019, p.10）
 > > "所有自我观察都受制于一个盲点。它之所以可能，恰恰因为它无法看见自身的看见。"
 >
-> [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] 将这一概念应用于对 [[Visible Learning]] [[Paradigm\|范式]]的哲学批判：VL 的'发明者'和追随者如果忘记这些根本性的、[[Humility in Learning\|谦逊]]的、批判性的、重要的 Luhmann 式论断，他们就是在支持制造一种无边界的超积极可见性意识形态，并堆积有限数据来为大范围的视觉中心模拟做出贡献。
+> [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] 将这一概念应用于对 [[Visible Learning]] [[Paradigm\|范式]]的哲学批判：VL 的'发明者'和追随者如果忘记这些根本性的、[[Humility\|谦逊]]的、批判性的、重要的 Luhmann 式论断，他们就是在支持制造一种无边界的超积极可见性意识形态，并堆积有限数据来为大范围的视觉中心模拟做出贡献。
 
 ## 核心要素
 

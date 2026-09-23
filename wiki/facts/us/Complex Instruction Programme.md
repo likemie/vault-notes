@@ -32,10 +32,10 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Learned Helplessness]]"
   - "[[Heterogeneity]]"
+  - "[[Open-Mindedness]]"
   - "[[Problem Solving]]"
   - "[[Rote Learning]]"
   - "[[Feedback]]"
-  - "[[Dialogue in Education]]"
   - "[[Self-Efficacy]]"
   - "[[Construct Validity]]"
   - "[[Research-Practice Partnership]]"
@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-15
+updated: 2026-09-23
 ---
 
 # Complex Instruction Programme
@@ -81,7 +81,7 @@ updated: 2026-09-15
 > 课堂的[[Heterogeneity\|异质性]]本质上是丰富的认知资源而非教学负担；唯有当课堂任务被设计为需要多种异质智力技能（视觉、逻辑、语言、空间与动手操作），且教师显性干预同伴之间的相互能力期望时，每个学生才能在平等互惠的小组合作中实现深度学习与学业增值。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 214–215)]]
 
 > [!policy-design]- 方案设计
-> - **多能力智力任务设计（Multiple Ability Tasks）** 课程任务要求综合调用开放性[[Problem Solving\|问题解决]]技能，打破单一读写算的[[Rote Learning\|死记硬背]]标准，向全班公开灌输核心规范：“没有人具备解决该问题所需的全部能力，但每个人都具备其中的某项独特能力”。
+> - **多能力智力任务设计（Multiple Ability Tasks）** 课程任务要求综合调用[[Open-Mindedness|开放性]][[Problem Solving\|问题解决]]技能，打破单一读写算的[[Rote Learning\|死记硬背]]标准，向全班公开灌输核心规范：“没有人具备解决该问题所需的全部能力，但每个人都具备其中的某项独特能力”。
 > - **[[Cooperative Learning\|合作学习]]规范与精细角色分工（Cooperative Norms and Roles）** 4–5 人小组内设立明确的角色轮换制（如主持人、记录员、资源管理员、检查员），赋予每个人明确的独立责任与群体互赖约束。
 > - **教师显性地位处理（Status Treatment）** 教师在课堂巡视中敏锐捕捉低地位弱势学童在某一任务维度展现的真实亮点，并在全班面前进行客观、公开且实质性的表扬与指认，直接重塑同伴群体对该学生的智力期望。
 
@@ -120,7 +120,7 @@ updated: 2026-09-15
 ## 成效评估与实证发现
 
 > [!indicators]- 评估指标体系
-> - **过程互动指标** 低地位学童课堂举手发言率、小组内有效认知[[Dialogue in Education\|对话]]参与时长与同伴肯定率。
+> - **过程互动指标** 低地位学童课堂举手发言率、小组内有效认知对话参与时长与同伴肯定率。
 > - **学业产出指标** 国家级标准化统考及格率、阅读理解与复杂数学[[Problem Solving\|问题解决]]增值分。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 214)]]
 > - **社会情感指标** 班级同学间互选接纳度、降低校园欺凌发生率与提升弱势学生学业[[Self-Efficacy\|自我效能感]]。
 
@@ -140,7 +140,7 @@ updated: 2026-09-15
 
 > [!debates] 核心争议
 >
-> > [!axis] 多能力开放性评价 vs 应试统考考核壁垒
+> > [!axis] 多能力[[Open-Mindedness|开放性]]评价 vs 应试统考考核壁垒
 > > 批评者指出，CIP 强调多元智力与开放性探究任务，但在各国现行的高利害标准化纸笔测验体制下，教师常面临备课耗时长与直接应试刷题成绩冲突的巨大现实压力。
 > >
 > > - **实践者回应** 赫约凯赖斯图尔小学的长达数十年的追踪数据反驳了这一顾虑，证实高阶认知互动与深度理解恰恰构成了长期标准化统考取得优异成绩的坚实根基。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 214)]]

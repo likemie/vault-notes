@@ -4,7 +4,7 @@ authors:
   - "[[Lawrence Manion|Manion, L.]]"
   - "[[Keith Morrison|Morrison, K.]]"
 source_language: en
-summary: "系统阐述行动研究的定义谱系、21项特征、Winter六原则与Kemmis & McTaggart核心原则、参与式行动研究的McTaggart十六信条与Torres五项原则、技术性—实践性—解放性三分类型学及其17项批评、与复杂性理论的九点共鸣、多模型操作程序（含名义小组技术和德尔菲技术）、报告撰写规范、反身性及实践与理论议题"
+summary: 系统阐述行动研究的定义谱系、21项特征、Winter六原则与Kemmis & McTaggart核心原则、参与式行动研究的McTaggart十六信条与Torres五项原则、技术性—实践性—解放性三分类型学及其17项批评、与复杂性理论的九点共鸣、多模型操作程序（含名义小组技术和德尔菲技术）、报告撰写规范、反身性及实践与理论议题
 type: argument
 subtype: textbook
 publication_type: book-chapter
@@ -12,17 +12,17 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_display_title: "Research Methods in Education · Ch18"
 argument_kind: "book-chapter"
-argument_related_count: 62
+argument_related_count: 61
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
-book_title: "Research Methods in Education"
-publication_place: "London"
-publisher: "Routledge"
+book_title: Research Methods in Education
+publication_place: London
+publisher: Routledge
 year: 2011
 doi: ""
 citation_aliases: []
-isbn: "978-0-415-58336-7"
+isbn: 978-0-415-58336-7
 citation: ""
 tags:
   - source/textbook
@@ -48,7 +48,6 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Variable]]"
   - "[[Paradigm]]"
-  - "[[Dialogue in Education]]"
   - "[[Knowledge Production]]"
   - "[[Hypothesis]]"
   - "[[Concurrency of Learning]]"
@@ -61,7 +60,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Operationalization]]"
   - "[[Critical Thinking Disposition]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Theoretical Perspective]]"
   - "[[Emergence]]"
   - "[[Formative Assessment]]"
@@ -70,12 +69,12 @@ related_concepts:
   - "[[Recommendations for Practice]]"
   - "[[Research Problem]]"
   - "[[Literature Review]]"
-  - "[[Growth]]"
   - "[[Informed Consent]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Theory of Change]]"
   - "[[Complexity Theory]]"
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Action Research]]"
   - "[[Participatory Action Research]]"
@@ -272,7 +271,7 @@ updated: 2026-09-13
 > - **参与性** 受研究影响的人参与研究过程，对研究的方向、方法和成果拥有发言权
 > - **贡献于教育科学** 行动研究不仅改进局部实践，其成果还积累为教育科学知识体系的一部分
 > - **努力使研究可被参与者使用和分享** 研究过程和结果以参与者能理解和运用的方式呈现，而非封闭在学术话语中
-> - **[[Dialogue in Education\|对话]]性并颂扬论述** 重视多方对话和观点交流，将不同声音的碰撞视为[[Knowledge Production\|知识生产]]的源泉
+> - **对话性并颂扬论述** 重视多方对话和观点交流，将不同声音的碰撞视为[[Knowledge Production\|知识生产]]的源泉
 >
 > **目的与价值取向**
 > - **改进人类行动质量** 最终目的是提升教育实践中人的行动质量，而非仅仅产出学术论文
@@ -499,7 +498,7 @@ Kemmis（1997, p. 177）区分了行动研究中的两个阵营（pp. 276–277�
 > - **高估共识导向研究的可取性** 以共识为目标的取向忽视了权力本身的复杂性，共识可能只是强势声音压制异议的结果
 > - **权力不能仅凭理性重新分配** 结构性的权力不平等不能仅靠理性辩论来消解，需要制度层面的变革
 > - **对群体理解天真** 颂扬群体胜于个体，特别是内群体而非外群体，忽视了群体内部同样存在权力等级和排斥机制
-> - **将自身的科学观特权化** 拒绝客观性标准却缺乏方法论[[Humility in Learning\|谦逊]]，以另一种形式的认识论霸权取代实证主义的霸权
+> - **将自身的科学观特权化** 拒绝客观性标准却缺乏方法论[[Humility\|谦逊]]，以另一种形式的认识论霸权取代实证主义的霸权
 > - **将批判理论的权威特权化** 以批判理论的权威压制其他[[Theoretical Perspective\|理论视角]]和方法论取向，形成新的知识垄断
 
 > [!critique] 实践后果与可行性
@@ -852,7 +851,7 @@ McNiff & Whitehead（2009, p. 15）主张报告行动研究需明确陈述（pp.
 > - 行动研究对行动和研究的显著性
 > - 实践如何因行动研究而修改和改进
 > - 成功标准的说明与辩护
-> - 行动研究者的反思及反思能力[[Growth\|成长]]的证据
+> - 行动研究者的反思及反思能力成长的证据
 
 > [!note] 行动研究者的分裂立场
 > 行动研究者需采取潜在分裂的立场：既要处于行动和研究之中并属于它们，又要从情境中抽离并尽可能客观地审视。主观性和客观性（或更准确地说，相对主观性和相对客观性）在单个研究者身上相结合（p. 294）。
@@ -862,7 +861,7 @@ McNiff & Whitehead（2009, p. 15）主张报告行动研究需明确陈述（pp.
 ### 18.9 行动研究中的反身性
 
 > [!info] 反身性在行动研究中的核心地位
-> [[Reflexivity\|反身性]]是行动研究的核心，因为研究者同时也是参与者和实践者，他们处于自己所研究的社会世界之中（Hammersley & Atkinson, 1983, p. 14）（pp. 294–295）。Hall（1996, p. 29）指出反身性是解放性行动研究的构成要素和[[Epistemology\|认识论]]基础，因其采取如下知识建构观点：
+> [[Reflexivity\|反身性]]是行动研究的核心，因为研究者同时也是参与者和实践者，他们处于自己所研究的社会世界之中（Hammersley & Atkinson, 1983, p. 14）（pp. 294–295）。Hall（1996, p. 29）指出反身性是解放性行动研究的构成要素和[[Epistemology\|认识论]]基础，因其采取如下[[Knowledge Building Theory|知识建构]]观点：
 
 > [!claim] 反身性在行动研究中的双重基础
 > **(a)** 数据是真实的并反映所有参与者的经验，研究者的理论负载观点不享有优先地位

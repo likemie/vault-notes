@@ -6,7 +6,7 @@ aliases:
 summary: "作为德语教学理论传统的欧陆教学论（Didaktik），关注课程内容的选择价值、人性的教化目的与教学判断，在教育研究中用于协调规训与生成、内容与规范之间的复杂张力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,7 +16,6 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Epochal Key Problems]]"
-  - "[[Dialogue in Education]]"
   - "[[Champ]]"
   - "[[Ontology]]"
   - "[[Critical Thinking]]"
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Didaktik
@@ -67,7 +66,7 @@ updated: 2026-09-17
 > | **知识定位** | 将知识视为存放在保险箱中的固定资产 (p.6) | 将学科视为探索现实生活世界现象的开放体系 (p.5) |
 
 > [!boundary]- 概念边界与关联
-> - **与[[Phenomenon-Based Learning\|现象本位学习]]（Phenomenon-Based Learning, PhBL）的关联** 教学论是深厚的课程与教学理论传统，而现象本位学习是一种具体的跨学科教学取向。德国教育学家[[Wolfgang Klafki\|沃尔夫冈·克拉夫基]]（Wolfgang Klafki）提出的[[Epochal Key Problems\|时代关键问题]]（Epochal key problems）为现象本位学习选择教学现象与设计跨学科[[Dialogue in Education\|对话]]提供了核心理论支撑。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 6–7]]
+> - **与[[Phenomenon-Based Learning\|现象本位学习]]（Phenomenon-Based Learning, PhBL）的关联** 教学论是深厚的课程与教学理论传统，而现象本位学习是一种具体的跨学科教学取向。德国教育学家[[Wolfgang Klafki\|沃尔夫冈·克拉夫基]]（Wolfgang Klafki）提出的[[Epochal Key Problems\|时代关键问题]]（Epochal key problems）为现象本位学习选择教学现象与设计跨学科对话提供了核心理论支撑。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 6–7]]
 > - **有别于能力本位课程** 教学论关注知识的选择价值、人性的[[Bildung\|教化]]目的与开放未来；而新自由主义主导的能力本位课程若被可测量指标主导，容易导致知识与技能的原子化碎片拆散，损害学科的深层逻辑。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 5, 10]]
 
 ---
@@ -96,7 +95,7 @@ updated: 2026-09-17
 > [[Discipline-Based Theory\|学科理论]]知识是具有因果脉络的深层理论体系。课程必须维护学科自身的本体论深度与逻辑完整性，任何将系统知识拆散为横向能力或技能指标清单的能力本位改革都会损害其教化价值。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 5]]
 
 > [!claim] [[Wolfgang Klafki\|沃尔夫冈·克拉夫基]]
-> 面对不确定的未来，课程内容应当以全球[[Epochal Key Problems\|时代关键问题]]（Epochal key problems，如环境危机、战争、社会不平等）作为组织主轴，以此作为统合学科深度与跨学科[[Dialogue in Education\|对话]]的教学[[Champ\|场域]]，培养学生批判、反思与限制共情的能力。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 6–7, 10]]
+> 面对不确定的未来，课程内容应当以全球[[Epochal Key Problems\|时代关键问题]]（Epochal key problems，如环境危机、战争、社会不平等）作为组织主轴，以此作为统合学科深度与跨学科对话的教学[[Champ\|场域]]，培养学生批判、反思与限制共情的能力。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 6–7, 10]]
 
 ---
 

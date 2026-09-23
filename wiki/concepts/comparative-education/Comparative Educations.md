@@ -8,10 +8,10 @@ aliases:
 summary: "指 1970 年代中叶以降，由于战后实证主义单一全包容科学范式在治理现实、物理学量子转向与后现代思潮中全面破裂，比较教育学演进为多个理论学派、研究取向与多元真理体制并存竞争的复数化学科格局。"
 type: concept
 domain: "comparative-education"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - comparative-education
   - disciplinary-history
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epistemological Break]]"
   - "[[Spatial Sortings]]"
-  - "[[Dialogue in Education]]"
   - "[[Document]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Comparative Educations
@@ -185,7 +184,7 @@ updated: 2026-09-18
 > > 围绕[[Paradigm\|范式]]多元主义究竟促进了学术繁荣，还是导致了学科认同的解体展开争论。
 > >
 > > - **多元主义支持者** 认为摆脱单一[[Scientific Paradigm\|科学范式]]的神话是学科成熟的标志，探索多元真理体制使得比较教育学能够更敏锐地回应复杂的本土情境与文化脉络。
-> > - **统一学科倡导者** 担忧过度碎片化会导致比较教育学丧失核心方法论共识与理论边界，沦为缺乏凝聚力的跨学科附庸，削弱与国家宏观政策[[Dialogue in Education\|对话]]的集体力量。
+> > - **统一学科倡导者** 担忧过度碎片化会导致比较教育学丧失核心方法论共识与理论边界，沦为缺乏凝聚力的跨学科附庸，削弱与国家宏观政策对话的集体力量。
 
 > [!warning] 适用局限
 > “复数比较教育学”是对学科[[Epistemology\|认识论]]生态与学术共同体多样性的事实定性，不能被简单套用为否认一切实证[[Quantitative Research\|量化研究]]价值的虚无主义盾牌。实证量化进路在技术官僚政策大厦中依然维系着强大的治理惯性与制度生命力。

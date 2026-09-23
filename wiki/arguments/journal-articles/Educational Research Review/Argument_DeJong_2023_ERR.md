@@ -7,7 +7,7 @@ title: "Argument_DeJong_2023_ERR"
 argument_key: "Argument_DeJong_2023_ERR"
 argument_display_title: "Let’s talk evidence – The case for combining inquiry-based and direct instruction"
 argument_kind: "journal-article"
-argument_related_count: 69
+argument_related_count: 70
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -59,7 +59,6 @@ related_concepts:
   - "[[Computer Simulation]]"
   - "[[Research Question]]"
   - "[[Hypothesis]]"
-  - "[[Knowledge Production]]"
   - "[[Process-Oriented Guided Inquiry Learning]]"
   - "[[Discovery Learning]]"
   - "[[Causality]]"
@@ -85,6 +84,7 @@ related_concepts:
 related_theories:
   - "[[Cognitive Load Theory]]"
   - "[[Inquiry Cycle]]"
+  - "[[Knowledge Building Theory]]"
   - "[[Knowledge Integration]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -119,6 +119,8 @@ related_facts:
   - "[[Inq-Blotter]]"
 sources:
   - "[[sources/DeJong_2023_ERR|DeJong_2023_ERR]]"
+related_arguments:
+  - "[[Argument_Zhang_2022_SE]]"
 status: active
 created: 2026-09-20
 updated: 2026-09-21
@@ -130,7 +132,7 @@ updated: 2026-09-21
 ## 研究问题
 
 > [!question]
-> 在科学与科学、技术、工程和数学（Science, Technology, Engineering, and Mathematics, [[STEM Education\|STEM]]）教育领域，围绕教学应以[[Inquiry-Based Learning\|探究式学习]]为主还是以[[Direct Instruction\|直接教学]]为主的争论已持续数十年。Zhang et al. (2022) 近期发表论文，断言直接教学在所有情境下全面压倒性地优于探究式教学，指责各国教育政策在课程标准中倡导科学实践与探究属于依据错误证据、无视关键实证事实。这一指控是否成立？现有实证[[Document\|文献]]究竟揭示了怎样的教学规律，科学教育研究又该如何走出非此即彼的二元对立？
+> 在科学与科学、技术、工程和数学（Science, Technology, Engineering, and Mathematics, [[STEM Education\|STEM]]）教育领域，围绕教学应以[[Inquiry-Based Learning\|探究式学习]]为主还是以[[Direct Instruction\|直接教学]]为主的争论已持续数十年。[[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 近期发表论文，断言直接教学在所有情境下全面压倒性地优于探究式教学，指责各国教育政策在课程标准中倡导科学实践与探究属于依据错误证据、无视关键实证事实。这一指控是否成立？现有实证[[Document\|文献]]究竟揭示了怎样的教学规律，科学教育研究又该如何走出非此即彼的二元对立？
 >
 > 核心分析维度包括：
 > 1. 受控实验与[[Meta-analysis\|元分析]]证据是否支持直接教学的绝对优势。
@@ -139,7 +141,7 @@ updated: 2026-09-21
 > 4. 教学方法的有效性受何种知识属性与学习者特征调节，二者如何实现功能互补。
 
 > [!claim] 核心主张
-> Zhang et al. (2022) 宣称的直接教学绝对优越论建立在高度片面的文献筛选、对关键元分析结论的严重误读以及对对照组性质的忽视之上。涵盖受控实验、大规模跨国相关性调查与课程级长周期实验的三大证据全景一致确证：辅以合理支架与指导的探究式教学在促进概念知识习得、长效保持与跨情境迁移上整体显著优于单一直接教学。教学效果深度依赖于学习目标层次、领域先验知识储备以及一般认知控制特质；将直接教学有机嵌入探究进程不同节点的动态协同模式，才是最契合循证科学的最优教学路径。
+> [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 宣称的直接教学绝对优越论建立在高度片面的文献筛选、对关键元分析结论的严重误读以及对对照组性质的忽视之上。涵盖受控实验、大规模跨国相关性调查与课程级长周期实验的三大证据全景一致确证：辅以合理支架与指导的探究式教学在促进概念知识习得、长效保持与跨情境迁移上整体显著优于单一直接教学。教学效果深度依赖于学习目标层次、领域先验知识储备以及一般认知控制特质；将直接教学有机嵌入探究进程不同节点的动态协同模式，才是最契合循证科学的最优教学路径。
 
 > [!concept-lens] 阅读透镜
 > - **对象** K-12 与大学阶段科学教育与 STEM 学科实证文献，涵盖微观实验室受控实验、[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）跨国调查以及为期数周至数年的宏观课程改革项目。
@@ -211,7 +213,7 @@ updated: 2026-09-21
 > - **严格依据经验证据** 知识主张的生成与辩护必须锚定于物理实验数据、[[Computer Simulation\|虚拟仿真]]结果或科学文本。
 > - **行使[[Epistemic Agency\|认识能动性]]（Epistemic Agency）** 学习者对自身的探究决策负有实质责任，能够自主提炼[[Research Question\|研究问题]]并对解释模型的有效性负责。
 > - **协调复杂推理** 学习者必须权衡相互冲突的多源证据，严谨评估替代性[[Hypothesis\|假设]]并处理反常数据。
-> - **共同体批判协商** 将探究程序与因果结论公开置于班级共同体中接受同伴质询，开展社会化[[Knowledge Production\|知识建构]]。（p. 2）
+> - **共同体批判协商** 将探究程序与因果结论公开置于班级共同体中接受同伴质询，开展社会化[[Knowledge Building Theory|知识建构]]。（p. 2）
 
 Pedaste et al. (2015) 总结的[[Inquiry Cycle|探究循环]]涵盖定向、概念化、实证调查、得出结论与反思讨论五个阶段。在教学实践中，诸如WISE与[[Process-Oriented Guided Inquiry Learning|过程导向指导式探究学习]]（Process-Oriented Guided Inquiry Learning, POGIL）（Moog & Spencer, 2008）等成熟方案，均体现出高度严密的探究循环与支架系统；而直接教学倡导者恰恰将批判矛头对准了早已被[[Richard E. Mayer|理查德·E·梅耶]]（Mayer, 2004）判定“三振出局”且被科学教育界彻底抛弃的无指导纯[[Discovery Learning|发现学习]]（Discovery Learning）。（pp. 3, 5）
 
@@ -227,7 +229,7 @@ Pedaste et al. (2015) 总结的[[Inquiry Cycle|探究循环]]涵盖定向、概�
 对科学教育领域相关元分析与[[Systematic Review|系统综述]]的全面梳理表明，在受控实验层面，指导式探究在概念学习上展现出整体优势。（pp. 3–5）
 
 > [!tension-table] 直接教学倡导者主张与元分析实证数据对比
-> | 争议维度 | Zhang et al. (2022) 的断言与证据选择 | 全面元分析[[Document\|文献]]的实际实证全景 |
+> | 争议维度 | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] 的断言与证据选择 | 全面元分析[[Document\|文献]]的实际实证全景 |
 > |---|---|---|
 > | **总体有效性对比** | 仅援引 Stockard et al. (2018) 的元分析，声称直接教学在所有受控比较中全面胜出。 | 该元分析考察的是阅读、算术与拼写，完全脱离 STEM 科学概念探究；且其对照组仅区分为模糊的常规课程。而在理科领域，Minner et al. (2010) 综述 138 项研究（含 42 项受控实验），55% 证实高探究饱和度显著优于低探究，仅 1 项（2%）低探究占优；Alfieri et al. (2011) 对 164 项实证研究的元分析进一步解构了[[Discovery Learning\|发现学习]]（Discovery Learning），证实无指导纯发现成效低下（$d = -0.38$），而增强型引导式发现显著超越直接教学（$d = +0.30$）。（pp. 3–4） |
 > | **教师指导的功能定位** | 引用 Lazonder & Harmsen (2016)，声称[[Learning Gain\|学习增益]]完全来自实验程序中追加的直接讲解。 | 原文明确指出：六种指导类型（过程约束、状态提示、启发线索、概念模板、直接解释、反思提示）在促进学习成效上完全等价（无显著调节效应），指导使探究成效平均提升半个标准差（$d = 0.50$）；同时，研究设计类型（[[Randomised Controlled Trials\|随机对照试验]] vs 准实验）对效应量大小没有统计学显著影响；直接解释仅占六分之一，声称增益全归功于直接讲授纯属断章取义。（p. 4） |
@@ -271,7 +273,7 @@ Pedaste et al. (2015) 总结的[[Inquiry Cycle|探究循环]]涵盖定向、概�
 
 #### 2. 长周期真实课程实验证实精心设计的探究课程成效不低于且常显著优于传统直接讲授
 
-Zhang et al. (2022) 抨击宏观课程实验缺乏干净的实验室对照组且常伴随教师培训等混杂变量。De Jong et al. 针锋相对地指出：在[[Business as Usual|常态教学]]中，常规教学（Business as Usual）对照组的教师实施传统直接讲授多年、经验丰富，且学生对传统讲授规程高度适应；因此，在真实学校实验中探究课程若能取胜，其循证效力更为坚实。（p. 6）
+[[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 抨击宏观课程实验缺乏干净的实验室对照组且常伴随教师培训等混杂变量。De Jong et al. 针锋相对地指出：在[[Business as Usual|常态教学]]中，常规教学（Business as Usual）对照组的教师实施传统直接讲授多年、经验丰富，且学生对传统讲授规程高度适应；因此，在真实学校实验中探究课程若能取胜，其循证效力更为坚实。（p. 6）
 
 > [!row-contrast] 宏观长周期课程实验的设计与实证结果
 > | 课程实验与研究者 | 样本规模与实验周期 | 核心干预措施与对照设计 | 最终实证发现与理论结论 |
@@ -377,7 +379,7 @@ Zhang et al. (2022) 抨击宏观课程实验缺乏干净的实验室对照组且
 > *We review the evidence and argue that a more complete and correct interpretation of the literature demonstrates that inquiry-based instruction produces better overall results for acquiring conceptual knowledge than does direct instruction. We show that this conclusion holds for controlled, correlational, and program-based studies... We conclude that policy makers rightfully advocate inquiry-based instruction, particularly when students' investigations are supplemented with direct instruction at appropriate junctures.*
 
 > [!citation-card] Lazonder & Harmsen (2016) [[Meta-analysis\|元分析]]中教师指导类型的实证发现
-> Zhang et al. (2022) 声称学生的[[Learning Gain\|学习增益]]并非来自像科学家一样探索，而是源自程序中追加的直接解释，这是对该研究核心结论的片面且错误的概括。原文分析表明，指导类型并未呈现显著的[[Interaction Effect\|调节效应]]，意味着全部六种指导类型无论其具体程度如何，在促进学习成效上都同样有效。直接教学仅是六种指导类型之一，声称增益完全源于直接解释完全背离事实。（pp. 4–5）
+> [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 声称学生的[[Learning Gain\|学习增益]]并非来自像科学家一样探索，而是源自程序中追加的直接解释，这是对该研究核心结论的片面且错误的概括。原文分析表明，指导类型并未呈现显著的[[Interaction Effect\|调节效应]]，意味着全部六种指导类型无论其具体程度如何，在促进学习成效上都同样有效。直接教学仅是六种指导类型之一，声称增益完全源于直接解释完全背离事实。（pp. 4–5）
 >
 > *Lazonder & Harmsen (2016, p. 702) concluded from their analyses that 'The type of guidance had no significant moderation effect, meaning that all six types of guidance, regardless of their specificity, were equally effective in promoting learning outcomes.' Only one of the six types of guidance was direct instruction, so it is misleading to claim that the learning gains resulted solely from direct explanations.*
 

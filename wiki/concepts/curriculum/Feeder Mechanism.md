@@ -7,7 +7,7 @@ aliases:
 summary: "Cole 提出的关于后现代课程的功能隐喻。它主张教育（特别是探究性课程）不应追求导向预设的普世真理或统一结论，而应作为一种持续激发群体想象力、甚至将负面情感转化为生产性动力的引擎，借此不断孕育出跨学科的新知识与新探索。"
 type: concept
 domain: "curriculum"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -15,6 +15,7 @@ tags:
   - concept/curriculum
   - concept/postmodernism
 related_concepts:
+  - "[[Open-Mindedness]]"
   - "[[International Education]]"
   - "[[Theory of Knowledge]]"
   - "[[Bildung]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-12
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Feeder Mechanism
@@ -47,7 +48,7 @@ updated: 2026-09-17
 > 滋养机制（Feeder Mechanism）是一种将课程视为“生成性引擎”的教育隐喻，与之相对立的是追求大一统真理或预设道德终点的传统教育目的论。在[[Baruch Spinoza\|斯宾诺莎]]式的后现代课堂中，教学的重点不是带领学生抵达某个既定的认知终点，而是通过赋予学生运用想象力和转化负面情感的权能，使课堂不断地为新的、跨学科的智识探索“提供养分”（feeding）。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 222)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 这个概念指向教育的开放性和生成性特征。
+> - **含义** 这个概念指向教育的[[Open-Mindedness|开放性]]和生成性特征。
 > - **用途** 它帮助研究者反思以“标准化考试”和“国家公民塑造”为终点的教育模式的局限，提供了一种以后现代想象力为核心的替代性课程评估视角。
 > - **边界** 它不适合用于强调标准化基础技能习得的训练场景，而主要适用于高等教育、[[International Education\|国际教育]]或如[[Theory of Knowledge\|知识论]]（TOK）这类的批判性探究课程。
 

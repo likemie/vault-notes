@@ -10,7 +10,7 @@ summary: "循证教育研究中用于评估干预方案在高度理想化、严�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 38
+method_related_count: 37
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Hawthorne Effect]]"
   - "[[Evaluator Independence]]"
-  - "[[Dialogue in Education]]"
 related_theories:
   - "[[Theory of Change]]"
 related_methods:
@@ -67,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Efficacy Trial
@@ -179,7 +178,7 @@ updated: 2026-09-17
 ## 典型应用案例
 
 > [!case] [[Thinking, Doing, Talking Science\|TDTS]] 科学教学效力试验（Hanley et al., 2015）
-> 在英国“思考、动手、[[Dialogue in Education\|对话]]科学”（TDTS）项目中，42 所小学的效力试验由牛津布鲁克斯大学原作者亲自提供 5 天面对面督导，五年级学生科学统考成绩显著提振 $+3$ 个月（$d = +0.22, p < .05$），弱势学生更达 $+8$ 个月（$d = +0.38$），以 4 把挂锁安全级别确立了卓越的因果效力。然而该项目在后续扩大至 205 所学校的[[Effectiveness Trial\|实效试验]]中效应降为零，成为证明效力试验不能替代实效试验的典型范例（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。
+> 在英国“思考、动手、对话科学”（TDTS）项目中，42 所小学的效力试验由牛津布鲁克斯大学原作者亲自提供 5 天面对面督导，五年级学生科学统考成绩显著提振 $+3$ 个月（$d = +0.22, p < .05$），弱势学生更达 $+8$ 个月（$d = +0.38$），以 4 把挂锁安全级别确立了卓越的因果效力。然而该项目在后续扩大至 205 所学校的[[Effectiveness Trial\|实效试验]]中效应降为零，成为证明效力试验不能替代实效试验的典型范例（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。
 
 ---
 

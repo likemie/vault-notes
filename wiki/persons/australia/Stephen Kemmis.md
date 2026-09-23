@@ -8,7 +8,7 @@ summary: "澳大利亚教育研究者，批判性行动研究的核心理论家�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Reflexivity]]"
   - "[[Epistemology]]"
-  - "[[Dialogue in Education]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
@@ -38,7 +37,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-19
-updated: 2026-09-11
+updated: 2026-09-22
 ---
 # Stephen Kemmis
 
@@ -89,4 +88,4 @@ updated: 2026-09-11
 > - **合作者** Robin McTaggart — 共同系统化行动研究的螺旋模型和核心原则（1981, 1988, 1992）
 > - **思想渊源** [[Jürgen Habermas]] — 知识构成性兴趣（1972）和[[Ideal Speech Situation\|理想言说情境]]为其[[Emancipatory Action Research\|批判性行动研究]]提供[[Epistemology\|认识论]]框架
 > - **思想渊源** [[Kurt Lewin]] — 其计划—行动—观察—反思螺旋模型是 Kemmis 程序化操作模型的直接源头
-> - **[[Dialogue in Education\|对话]]/对立** John Elliott — Elliott 属于[[Reflexivity\|反思性]]实践传统，Kemmis 属于批判性行动研究传统，两者构成行动研究内部的核心张力（Kemmis, 1997, p. 177）
+> - **对话/对立** John Elliott — Elliott 属于[[Reflexivity\|反思性]]实践传统，Kemmis 属于批判性行动研究传统，两者构成行动研究内部的核心张力（Kemmis, 1997, p. 177）

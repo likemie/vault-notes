@@ -68,9 +68,9 @@ related_concepts:
   - "[[Covert Research]]"
   - "[[Realism in International Relations]]"
   - "[[Champ]]"
-  - "[[Growth]]"
   - "[[Fitness for Purpose]]"
   - "[[Experimenter Bias]]"
+  - "[[Growth]]"
   - "[[Presence]]"
 related_methods:
   - "[[Case Study]]"
@@ -598,7 +598,7 @@ Yin（2009, p. 143）指出数据分析是一个迭代过程，研究者必须�
 > - **制作多份副本** 建议至少制作两份田野笔记副本，最好在母版上打字以供复制。一份原件保留供参考，其他副本可用作草稿进行剪切、重组织和重写
 > - **充分详细** 笔记应足够充分，以便数月后能充分唤起对任何描述事件的合理生动的画面。这可能意味着至少在每次观察后书写至少几页单倍行距的打字页
 
-Lofland（1971）推荐的和King（1979）及Wolcott（1973）在其民族志叙述中实际执行的这种笔记方式，是从非结构化观察研究的本质中[[Growth|生长]]出来的。Wolcott承认记笔记帮助他对抗在观察校长每天无尽的会议时有时感到的极度无聊。偶尔一系列事件发生得如此之快，Wolcott只能做粗略笔记，随后补充更完整的叙述。一条有用的提示：**在先前观察的笔记完成之前，绝不要恢复观察**。仅仅作为观察者在场是没有任何收获的。直到一个访问的观察和印象被记录在案，回到课堂或学校并把更近的一组事件叠加在另一组之上没有什么意义。何时记录数据只是Walker（1980）列出的若干实际问题之一（p.296）。
+Lofland（1971）推荐的和King（1979）及Wolcott（1973）在其民族志叙述中实际执行的这种笔记方式，是从非结构化观察研究的本质中生长出来的。Wolcott承认记笔记帮助他对抗在观察校长每天无尽的会议时有时感到的极度无聊。偶尔一系列事件发生得如此之快，Wolcott只能做粗略笔记，随后补充更完整的叙述。一条有用的提示：**在先前观察的笔记完成之前，绝不要恢复观察**。仅仅作为观察者在场是没有任何收获的。直到一个访问的观察和印象被记录在案，回到课堂或学校并把更近的一组事件叠加在另一组之上没有什么意义。何时记录数据只是Walker（1980）列出的若干实际问题之一（p.296）。
 
 ---
 
@@ -661,7 +661,7 @@ Macpherson et al.（2000, pp. 57–58）提出了指导个案研究实践的原�
 > [!conclusion] Macpherson et al.（2000, pp. 57–58）的个案研究指导原则
 > - **关于目的（purpose）** 建议采取参与者与研究者之间的合作方法以处理情境性（contextuality）
 > - **关于地点（place）** 建议对地点的敏感性（类似[[Ecological Validity\|生态效度]]）
-> - **关于目的和过程（purpose and process）** 建议：真实性（authenticity），即目的适切性；适用性（applicability），即思考大但从小开始（thinking large but starting small）；成长（growth），即确保发展和社会转变
+> - **关于目的和过程（purpose and process）** 建议：真实性（authenticity），即目的适切性；适用性（applicability），即思考大但从小开始（thinking large but starting small）；成长（[[Growth]]），即确保发展和社会转变
 > - **关于产品（product）** 建议通过建立网络实现发现的可沟通性（communicability）（这也适用于目的和过程）
 
 Yin（2009, pp. 185–189）认为一项典范（exemplary）个案研究必须是：

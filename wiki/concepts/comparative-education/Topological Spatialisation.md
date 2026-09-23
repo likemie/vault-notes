@@ -13,7 +13,7 @@ aliases:
 summary: "人文地理学与批判政策社会学的核心空间概念，指打破传统欧几里得几何与层级化行政疆界的连续、关系性空间构型。在教育治理中，它揭示数据基础设施与算法通约如何压缩时空距离，将分散微观的学校实践与跨区域甚至跨国计算中心折叠进即时连通的拓扑网络中。"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -52,6 +52,7 @@ related_persons:
   - "[[Sigrid Hartong]]"
   - "[[Bruno Latour]]"
   - "[[John Allen]]"
+  - "[[Christopher Martin]]"
   - "[[Bob Lingard]]"
 related_facts:
   - "[[Reach]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-24
 ---
 
 # Topological Spatialisation
@@ -166,7 +167,7 @@ updated: 2026-09-18
 > [!dev-timeline] 拓扑空间概念的理论演变
 > - **2000 年代初 — 人文地理学的[[Relational Space\|关系空间]]转向** [[John Allen\|约翰·艾伦]]（John Allen, 2003, 2011）系统提出拓扑权力和空间理论，批判将权力等同于领土占有的传统地理学观点，强调权力的空间性在于连接与触达的密集度。
 > - **2010 年代初 — 数字社会学与数据库拓扑学** 伊芙琳·鲁珀特（Evelyn Ruppert, 2012）提出数据库的治理拓扑学（Governmental Topologies of Database Devices），论证人口普查与社会数据库如何重组现代国家的治理空间。
-> - **2013–2015 年 — 欧洲教育治理的拓扑学引入** 马丁·朗（Martin Lawn, 2013）与[[Bob Lingard\|鲍勃·林加德]]（Bob Lingard）等将拓扑学引入全球教育政策研究，分析[[European Education Space\|欧洲教育空间]]（EES）与 [[PISA]] 测评如何构造超越欧盟成员国边界的拓扑治理网络。
+> - **2013–2015 年 — 欧洲教育治理的拓扑学引入** [[Christopher Martin|马丁]]·朗（Martin Lawn, 2013）与[[Bob Lingard\|鲍勃·林加德]]（Bob Lingard）等将拓扑学引入全球教育政策研究，分析[[European Education Space\|欧洲教育空间]]（EES）与 [[PISA]] 测评如何构造超越欧盟成员国边界的拓扑治理网络。
 > - **2018 年 — 联邦制国家内部[[Data Infrastructure\|数据基础设施]]的拓扑重组** [[Sigrid Hartong\|西格丽德·哈通]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）将拓扑空间与[[Assemblage\|装配]]理论结合，深入剖析德国在 PISA 震荡（[[PISA Shock]]）后建立 [[Institute for Educational Quality Improvement\|IQB]] 与跨州数据基础设施的过程，揭示去排名共识下潜藏的拓扑计算权力。
 
 ---

@@ -9,7 +9,7 @@ summary: "美国加州大学伯克利分校荣休教授、美国国家教育科�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ tags:
   - theme/stem-education
 related_concepts:
   - "[[Didaktik]]"
+  - "[[Authentic Science Practices]]"
   - "[[STEM Education]]"
   - "[[Academic Achievement]]"
   - "[[Control of Variables Strategy]]"
@@ -52,7 +53,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Marcia C. Linn
@@ -63,7 +64,7 @@ updated: 2026-09-21
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国加州大学伯克利分校（UC Berkeley）教育研究生院发展与认知科学荣休教授，美国国家教育科学院（NAEd）院士，[[American Association for the Advancement of Science\|美国科学促进会]]（AAAS）会士，国际学习科学学会（ISLS）杰出贡献者。
-> - **核心角色** 全球技术增强科学探究教育（Technology-Enhanced Science Education）与“[[Knowledge Integration\|知识整合]]”（Knowledge Integration, KI）[[Didaktik\|教学理论]]的奠基者。她开创了将交互式可视化技术、真实科学探究、形成性自动评价与教师专业发展深度融合的循证研究传统；所主持创立的 WISE 平台成为全美最具代表性、历时最长的大规模探究课程研发基地；长期致力于利用自适应学习技术缩小女性与少数族裔在 [[STEM Education\|STEM]] 学科中的[[Academic Achievement\|学业成就]]差距。
+> - **核心角色** 全球技术增强科学探究教育（Technology-Enhanced Science Education）与“[[Knowledge Integration\|知识整合]]”（Knowledge Integration, KI）[[Didaktik\|教学理论]]的奠基者。她开创了将交互式可视化技术、[[Authentic Science Practices|真实科学探究]]、形成性自动评价与教师专业发展深度融合的循证研究传统；所主持创立的 WISE 平台成为全美最具代表性、历时最长的大规模探究课程研发基地；长期致力于利用自适应学习技术缩小女性与少数族裔在 [[STEM Education\|STEM]] 学科中的[[Academic Achievement\|学业成就]]差距。
 > - **代表贡献** 构建“知识整合”（Knowledge Integration）教学理论框架；创立全球知名的开源探究平台 WISE；主导涵盖 8,000 余名中学生的里程碑式课程准实验（Linn et al., 2006）；率先将自然语言处理（NLP）与大语言模型引入课堂科学论述自动评估。
 
 > [!citation-card]- 人物定位的关键来源

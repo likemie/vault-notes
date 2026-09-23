@@ -24,6 +24,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Multiplicity]]"
   - "[[Subjectivism]]"
+  - "[[Open-Mindedness]]"
   - "[[Domain Specificity]]"
   - "[[Hypothesis]]"
   - "[[Theoretical Perspective]]"
@@ -32,7 +33,6 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Evidence Standards]]"
   - "[[General Education]]"
-  - "[[Growth]]"
   - "[[Heterogeneity]]"
   - "[[Epistemic Resources]]"
   - "[[Ways of Knowing]]"
@@ -60,7 +60,7 @@ related_methods:
 related_persons: []
 status: active
 created: 2026-08-13
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Perry's Scheme of Intellectual and Ethical Development
@@ -124,7 +124,7 @@ updated: 2026-09-17
 >
 > - **相对主义内的承诺（Commitment within Relativism / Positions 7–9）**
 >
->   认知发展延伸至伦理责任与身份认同领域。在充分体认到世界充满相对性与不确定性的前提下，个体勇于在职业、价值观、思想立场与人际关系中做出明确的自我承诺，并在行动中保持反思与自我修正的开放性。
+>   认知发展延伸至伦理责任与身份认同领域。在充分体认到世界充满相对性与不确定性的前提下，个体勇于在职业、价值观、思想立场与人际关系中做出明确的自我承诺，并在行动中保持反思与自我修正的[[Open-Mindedness|开放性]]。
 
 ---
 
@@ -184,7 +184,7 @@ updated: 2026-09-17
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 传统高等教育阶段、文理学院体制下青年群体的世界观重构与批判思维[[Growth\|成长]]。
+> - **适合解释** 传统高等教育阶段、文理学院体制下青年群体的世界观重构与批判思维成长。
 > - **谨慎使用** 直接将该图式套用于非西方文化背景、非精英大学或职后成人学习者时，需注意文化与阶层[[Heterogeneity\|异质性]]。
 > - **不适合解释** 微观实验情境下学生面对单次特定任务的即时策略调配（此类现象更适合用“[[Epistemic Resources\|认识论资源]]库”解释）。
 > - **常见误用** 将佩里的阶段模型视为机械的、不可逆的生理发育阶段；将低年级学生的二元论表现视为“智力缺陷”而非必经的发展阶段。

@@ -19,9 +19,9 @@ related_concepts:
   - "[[Subjective Knowledge]]"
   - "[[Procedural Knowledge]]"
   - "[[Constructed Knowledge]]"
-  - "[[Knowledge Production]]"
 related_theories:
   - "[[Phenomenology]]"
+  - "[[Knowledge Building Theory]]"
 related_methods: []
 related_instruments: []
 related_persons: []
@@ -55,7 +55,7 @@ updated: 2026-09-21
 > - **机制一** 沉默（Silence）与[[Received Knowledge\|接收知识]]（Received knowledge）：[[Source of Knowledge\|知识来源]]于外部。
 > - **机制二** [[Subjective Knowledge\|主观知识]]（Subjective knowledge）：真理的来源转向内在自我。
 > - **机制三** [[Procedural Knowledge\|程序知识]]（Procedural Knowledge）：区分为分离型认知（Separate knowing）与连结型认知（Connected knowing）。
-> - **结论一** [[Constructed Knowledge\|建构知识]]（Constructed knowledge）：整合了主客观策略，认知者自身成为[[Knowledge Production\|知识建构]]的紧密参与者。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 95)]]
+> - **结论一** [[Constructed Knowledge\|建构知识]]（Constructed knowledge）：整合了主客观策略，认知者自身成为[[Knowledge Building Theory|知识建构]]的紧密参与者。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 95)]]
 
 ## 适用边界
 

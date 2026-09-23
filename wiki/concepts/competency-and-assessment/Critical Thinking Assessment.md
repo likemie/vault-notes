@@ -8,7 +8,7 @@ aliases:
 summary: "批判性思维测评是对个体在论证分析、证据评价、推论构建与反思判断等高阶认知技能及求真探究倾向的操作化测量与促学评价；在教育与心理研究中用于量化学业增益、诊断思维短板并检验课程对齐与构念效度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 70
+related_count: 71
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Ecological Validity]]"
   - "[[Self-control]]"
+  - "[[Open-Mindedness]]"
   - "[[Problem Finding]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Attrition]]"
@@ -97,7 +98,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Critical Thinking Assessment
@@ -145,7 +146,7 @@ updated: 2026-09-17
 
 > [!feature] 测评[[Construct\|构念]]的[[Operationalization\|操作化]]维度
 > - **技能维度（Cognitive Skills）** 涵盖解释（Clarification）、分析（Analysis）、评价（Evaluation）、推论（Inference）、说明（Explanation）与自我调节（[[Self-control\|self-regulation]]）六大认知操作。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 32)]]
-> - **倾向维度（Affective Dispositions）** 涵盖求真（Truth-seeking）、开放心态（Open-mindedness）、探究性（Inquisitiveness）、分析性（Analyticity）、系统性（Systematicity）、推理自信（Confidence in Reasoning）与判断成熟度（Maturity of Judgment）。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 251–252)]]
+> - **倾向维度（Affective Dispositions）** 涵盖求真（Truth-seeking）、开放心态（[[Open-Mindedness]]）、探究性（Inquisitiveness）、分析性（Analyticity）、系统性（Systematicity）、推理自信（Confidence in Reasoning）与判断成熟度（Maturity of Judgment）。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 251–252)]]
 > - **策略维度（Strategic Behaviors）** 涵盖[[Problem Finding\|问题界定]]、论证解构、多角度重构、搜寻对立证据、控制主张范围等可观察的[[Metacognition\|元认知]]策略。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 252–255)]]
 > - **情境与知识维度（Context & Domain Standards）** 包含通用跨学科逻辑规则与特定学科（如医学临床决策、历史证据考据、物理实验设计）的实质性证据评价标准。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 26–28)]]
 

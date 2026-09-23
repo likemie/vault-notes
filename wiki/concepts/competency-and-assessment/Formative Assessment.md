@@ -130,7 +130,7 @@ updated: 2026-09-17
 > 探讨纯文字描述性反馈与数字评分对学生认知专注度的不同影响。
 
 > [!claim] [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]]
-> **描述性反馈对探索性认知的保护** 经典[[Experimental Research\|实验研究]]（Butler, 1988）表明，单独给予评语反馈能够显著增强学生的任务卷入（Task-Involvement）与后续表现，而给予分数或“分数加评语”则会促使学生将注意力转向自我防卫（Ego-Involvement），削弱深层反思。在高等教育培养[[Critical Thinking\|批判性思维]]与[[Creativity\|创造力]]的过程中，过早给出总结性分数会扼杀学生的探索意愿；唯有依托低利害的形成性评价与质性[[Dialogue in Education\|对话]]，学生才能深入剖析论据破绽并尝试非常规构想。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 33–34)]]
+> **描述性反馈对探索性认知的保护** 经典[[Experimental Research\|实验研究]]（Butler, 1988）表明，单独给予评语反馈能够显著增强学生的任务卷入（Task-Involvement）与后续表现，而给予分数或“分数加评语”则会促使学生将注意力转向自我防卫（Ego-Involvement），削弱深层反思。在高等教育培养[[Critical Thinking\|批判性思维]]与[[Creativity\|创造力]]的过程中，过早给出总结性分数会扼杀学生的探索意愿；唯有依托低利害的形成性评价与质性对话，学生才能深入剖析论据破绽并尝试非常规构想。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 33–34)]]
 
 ---
 

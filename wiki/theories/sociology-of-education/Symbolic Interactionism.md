@@ -18,13 +18,13 @@ tags:
   - theme/classroom-interaction
 related_concepts:
   - "[[Determinism]]"
-  - "[[Dialogue in Education]]"
   - "[[Interpretive Paradigm]]"
   - "[[Reflexivity]]"
   - "[[Emergence]]"
   - "[[Unit of Analysis]]"
   - "[[Construct]]"
   - "[[Flow]]"
+  - "[[Dialogue in Education]]"
   - "[[Rich and Thick Description]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
@@ -71,7 +71,7 @@ updated: 2026-09-17
 
 > [!theory-position] 理论定位
 > - **解释对象** 人类在日常生活与面对面微观交往中主观意义的赋予、自我的形成、[[Thomas Theorem\|情境定义]]以及行动协调机制。
-> - **理论问题** 彻底扬弃行为主义刺激-反应（S-R）的被动假定与结构功能主义外在事实[[Determinism\|决定论]]，确立人类行动者基于符号解释、内部[[Dialogue in Education\|对话]]与协商妥协的主体能动性。
+> - **理论问题** 彻底扬弃行为主义刺激-反应（S-R）的被动假定与结构功能主义外在事实[[Determinism\|决定论]]，确立人类行动者基于符号解释、内部对话与协商妥协的主体能动性。
 > - **理论类型** 微观社会学理论、[[Interpretive Paradigm\|诠释范式]]核心基石、社会心理学互动[[Analytic Framework\|分析框架]]。
 > - **知识位置** 芝加哥社会学派核心传统，奠基于[[George Herbert Mead\|乔治·赫伯特·米德]]（[[George Herbert Mead]]），经赫伯特·布卢默（Herbert Blumer）系统形式化并正式命名，在欧文·[[Michael Gove\|戈夫]][[Horace Mann\|曼]]（Erving Goffman）拟剧论与[[Peter Woods\|彼得·伍兹]]（Peter Woods）教育[[Ethnography\|民族志]]中广泛深化。
 
@@ -129,7 +129,7 @@ updated: 2026-09-17
 ### 核心命题三　社会行动的协调依托行动者在特定情境中扮演他人角色的反思性能力
 
 > [!proposition-chain] 核心命题三｜社会行动的协调依托行动者在特定情境中扮演他人角色的[[Reflexivity\|反思性]]能力
-> - **前提一** 自我由主动的“主我”（I）与社会化的“客我”（Me）组成，个体具备向自我做出指示并开展内部[[Dialogue in Education\|对话]]的能力（Mead, 1934）。
+> - **前提一** 自我由主动的“主我”（I）与社会化的“客我”（Me）组成，个体具备向自我做出指示并开展内部对话的能力（Mead, 1934）。
 > - **前提二** 行动者在交往中通过“扮演他人角色”（taking the role of the other），预判对方期望、评估潜在反应并实施印象管理（Goffman, 1959）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 25]]
 > - **推导** 参与者借助对相互角色与共同情境的动态定义，使得互不相同的个体行动在微观层面达成有序对齐。
 

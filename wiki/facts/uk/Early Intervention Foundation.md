@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -26,7 +26,6 @@ tags:
 related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Paradigm]]"
-  - "[[Growth]]"
   - "[[Research Utilization]]"
   - "[[Knowledge Mediation]]"
   - "[[Social-Emotional Learning]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 # Early Intervention Foundation
@@ -70,7 +69,7 @@ updated: 2026-09-15
 > - **成立时间 / 创设背景** 2013 年正式注册成立。直接源于工党国会议员格雷厄姆·艾伦（Graham Allen）领衔提交的两份具有深远政策影响的独立政府审查报告《早期干预：下一步》（*Early Intervention: The Next Steps*, 2011）。报告论证了生命最初数年的[[Human Capital Theory\|人力资本]]投资能够阻断贫困的代际传递，力倡建立独立的国家机构为地方早期预防投资提供实证支持。
 > - **总部地点 / 业务辐射** 总部设于英国伦敦；业务主要辐射全英格兰及威尔士的地方政府儿童服务部门、地方教育局（LEAs）、国民医疗服务体系（NHS）初级信托基金及第三部门慈善机构。
 > - **法人属性与经费基础** 独立非营利慈善法人与担保有限公司，接受英国教育部（DfE）、工作与养老金部（DWP）、内政部及国家慈善基金会（如 Nuffield Foundation）的多渠道合同资助。
-> - **核心宗旨与法定职责** 宗旨为“通过评估和普及高质量的早期干预实证，确保每个儿童无论出身背景均能在身体、认知与心理社会层面实现健康[[Growth\|成长]]”。职责包括系统审查儿童早期干预项目、评定证据有效性等级、研发地方公共服务采购决策工具，并为一线工作者提供落地护航。
+> - **核心宗旨与法定职责** 宗旨为“通过评估和普及高质量的早期干预实证，确保每个儿童无论出身背景均能在身体、认知与心理社会层面实现健康成长”。职责包括系统审查儿童早期干预项目、评定证据有效性等级、研发地方公共服务采购决策工具，并为一线工作者提供落地护航。
 
 ---
 

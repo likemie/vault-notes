@@ -7,9 +7,9 @@ title: "Argument_Cowen_2009_HistoryCreation"
 argument_key: "Argument_Cowen_2009_HistoryCreation"
 argument_display_title: "On History and on The Creation of Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 30
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 29
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
 authors:
   - "[[Robert Cowen|Cowen, R.]]"
@@ -44,7 +44,6 @@ related_concepts:
   - "[[Rationalism in International Relations]]"
   - "[[Reflexivity]]"
   - "[[International Education]]"
-  - "[[Dialogue in Education]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods: []
@@ -262,7 +261,7 @@ updated: 2026-09-06
 > 正因如此，任何宣称已经终结或确立的学科史都只是一种幻觉；学科历史必须也必然会在未来的关切下被不断重访、重新审视与反复改写。（pp.9–10）
 
 > [!warrant] 历史提问生成性与时代危机的反向决定机制
-> 历史研究不是对静态陈迹的客观复原，而是当代与历史文本的[[Dialogue in Education\|对话]]。[[Academic Iconography\|学科肖像学]]反映了过往世代出于特定政治或学科合法性需要对传统的发明；突破这一神话的唯一途径，就是依托当下的危机与未来的可能性，由每一代人不断重新审问过去。（pp.9–10）
+> 历史研究不是对静态陈迹的客观复原，而是当代与历史文本的对话。[[Academic Iconography\|学科肖像学]]反映了过往世代出于特定政治或学科合法性需要对传统的发明；突破这一神话的唯一途径，就是依托当下的危机与未来的可能性，由每一代人不断重新审问过去。（pp.9–10）
 
 ---
 

@@ -6,10 +6,10 @@ aliases:
 summary: "Li 提出的文化面对外来价值冲击时维持核心的三种策略，包括直接拒绝、选择性吸收与大尺度采纳，以及同化表层改变不等于根本改变的区分"
 type: concept
 domain: "sociology-of-education"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/cultural-transmission
   - theme/cultural-persistence
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Learning Virtues]]"
   - "[[Enculturation]]"
   - "[[Virtue-Oriented Learning Process]]"
-  - "[[Growth]]"
 related_theories:
   - "[[Cultural Models]]"
 related_methods:
@@ -111,7 +110,7 @@ updated: 2026-09-22
 
 文化防御策略是 [[Enculturation|濡化]] 的延伸机制。濡化解释了文化如何**正向传递**核心价值给下一代；文化防御策略解释了文化如何在**面对外来威胁时保护**这些核心价值。二者共同构成文化持久性的完整机制：濡化负责"建"，防御负责"守"。
 
-Li 特别指出，防御策略本身也通过濡化传递给儿童——"这些适应性策略也随着文化核心价值一起传递给了儿童。因此，儿童也可能带着防御能力[[Growth|成长]]"([[Argument_Li_2012_Cambridge|Li, 2012, p.337]])。这意味着文化防御不是成年后才学会的临时应对——它在童年期的日常社会化中就已经被内置了。
+Li 特别指出，防御策略本身也通过濡化传递给儿童——"这些适应性策略也随着文化核心价值一起传递给了儿童。因此，儿童也可能带着防御能力成长"([[Argument_Li_2012_Cambridge|Li, 2012, p.337]])。这意味着文化防御不是成年后才学会的临时应对——它在童年期的日常社会化中就已经被内置了。
 
 > [!tip]-
 > ### 与第 3 章"政治体制 ≠ 文化"的呼应

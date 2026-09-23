@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19"
 argument_display_title: "Research Methods in Education · Ch19"
 argument_kind: "book-chapter"
-argument_related_count: 52
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -56,7 +56,6 @@ related_concepts:
   - "[[Presence]]"
   - "[[Externalization]]"
   - "[[Epoché]]"
-  - "[[Dialogue in Education]]"
   - "[[Scaffolding]]"
   - "[[Research Question]]"
   - "[[Independent Variable]]"
@@ -335,7 +334,7 @@ updated: 2026-09-07
 > [!feature] 平等与互惠
 > - **相互理解** 参与者之间达成相互理解。
 > - **平等运用言语行为** 拥有选择和运用言语行为的平等机会。
-> - **自主平等伙伴** 承认每个主体作为**自主和平等伙伴**参与[[Dialogue in Education\|对话]]的合法性。
+> - **自主平等伙伴** 承认每个主体作为**自主和平等伙伴**参与对话的合法性。
 > - **平等讨论机会** 所有参与者拥有平等的讨论机会。
 
 > [!feature] 共识与真理

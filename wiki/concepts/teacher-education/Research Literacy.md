@@ -3,10 +3,10 @@ title: Research Literacy
 aliases:
   - 研究素养
   - 研究阅读素养
-summary: "指专业从业者（教师与公职决策者）以维护专业实践完整性与批判思维的方式理解、审视与整合多元方法论研究的能力与德性；不仅是在有效性与适切性之间进行专业判断的中介素养，更是抵御后真相算法操纵、捍卫作为基本民主权利的科学素养的制度基石"
+summary: 指专业从业者（教师与公职决策者）以维护专业实践完整性与批判思维的方式理解、审视与整合多元方法论研究的能力与德性；不仅是在有效性与适切性之间进行专业判断的中介素养，更是抵御后真相算法操纵、捍卫作为基本民主权利的科学素养的制度基石
 type: concept
 domain: "teacher-education"
-related_count: 62
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Epistemic Governance]]"
   - "[[Scientific Literacy]]"
-  - "[[Dialogue in Education]]"
   - "[[Areas of Knowledge]]"
   - "[[Professional Judgment]]"
   - "[[Phronesis]]"
@@ -34,7 +33,7 @@ related_concepts:
   - "[[Data Literacy]]"
   - "[[Evaluation Research]]"
   - "[[Epistemic Stances]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Epistemology]]"
   - "[[School Leadership]]"
   - "[[Creativity]]"
@@ -87,7 +86,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Research Literacy
@@ -102,7 +101,7 @@ updated: 2026-09-22
 > [!concept-lens] 概念透镜
 > - **核心含义** 研究素养既是专业认知能力，更是育人德性与民主权利：它不仅要求能读懂并评估科研论文，更要求在微观课堂中明智判断干预是否切合具体学情，在宏观政策中辨识商业利益裹挟下的伪科学偏见。
 > - **理论用途** 帮助理解为何阅读研究不等于有效采纳研究，阐明专业人员为何既不盲从教条处方也不全盘排斥科研，并为公职人员与教师教育建立批判性证据免疫防线。
-> - **适用边界** 坚决反对将研究素养降格为机械做题、检索技巧或[[Questionnaire\|问卷]]打分的个体赤字测度；强调科研证据必须与本土情境经验进行平权[[Dialogue in Education\|对话]]，且必须涵盖多元方法论而非仅迷信单一实验指标。
+> - **适用边界** 坚决反对将研究素养降格为机械做题、检索技巧或[[Questionnaire\|问卷]]打分的个体赤字测度；强调科研证据必须与本土情境经验进行平权对话，且必须涵盖多元方法论而非仅迷信单一实验指标。
 
 > [!citation-card] Eriksen 论[[Areas of Knowledge\|知识领域]]完整性德性
 > 研究素养是一种守护专业[[Areas of Knowledge\|知识领域]]完整性的德性。它还发挥中介功能，连接有效性的领域与适切性的领域。（Eriksen, 2022，转引自 [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, p. 4]]）
@@ -154,7 +153,7 @@ updated: 2026-09-22
 > - **研究意识（Research Awareness）** 教师对科研主题构成、发表渠道及阅读的先前知识与信息敏锐度（前置背景[[Variable\|变量]]）。
 > - **研究态度（Attitude toward Research）** 教师对科研对教学专业价值、专业发展促进作用的积极信念与情感认同（意向驱动变量）。
 > - **研究技能（Research Skills）** 教师在[[Literature Search\|文献检索]]、学术探讨、图表与统计分析结果解读等方面的操作能力（知觉行为控制核心变量，解释 46.9% 方差）。
-> - **[[Research Utilization\|研究使用]]（Research Use）** 教师在备课、教学法改进、反思与教研[[Dialogue in Education\|对话]]中主动应用科研成果的实际行为（外显行为转化变量）。
+> - **[[Research Utilization\|研究使用]]（Research Use）** 教师在备课、教学法改进、反思与教研对话中主动应用科研成果的实际行为（外显行为转化变量）。
 
 > [!feature] 中介转化模型下的研究素养支架（[[Argument_Brown_2017_ER\|Brown et al., 2017, pp. 161–162]]）
 > - **克服学术话语壁垒（Bridging Academic Language Barriers）** 原始学术期刊通常充斥抽象统计模型与复杂概念，对教师构成严苛的研究素养门槛；推进研究利用必须依靠中介者将学术论文[[Transfer Translation Transformation\|转译]]为实践者可吸收的语言。
@@ -163,7 +162,7 @@ updated: 2026-09-22
 
 > [!feature] [[Quality Use of Research Evidence Framework\|QURE]] 框架视阈下的个体使能构件（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a, pp. 142–143]]）
 > - **双核驱动之技能网络（Skillsets for Thoughtful Engagement）** 涵盖批判性[[Evaluation Research\|评估研究]]设计与情境适切性的能力、在同行研讨中审慎论证（Reason-Giving）的能力，以及将适切证据融入校本教改方案的微观转译技能。
-> - **双核驱动之态度与[[Epistemic Stances\|认识论立场]]（Mindsets & Epistemic Stances）** 包括对科学探究的开放心智、对复杂教育现实的探究[[Humility in Learning\|谦逊]]，以及抵御教条化盲信与虚无主义怀疑的[[Epistemology\|认识论]]成熟度。
+> - **双核驱动之态度与[[Epistemic Stances\|认识论立场]]（Mindsets & Epistemic Stances）** 包括对科学探究的开放心智、对复杂教育现实的探究[[Humility\|谦逊]]，以及抵御教条化盲信与虚无主义怀疑的[[Epistemology\|认识论]]成熟度。
 > - **个体使能与组织氛围的深度互构（Individual-Organisational Interplay）** 个体研究素养并非孤立存续，必须依托由[[School Leadership\|学校领导力]]支持、学术反思文化与制度化资源保障构成的肥沃土壤，方能转化为常态化的深思熟虑参与。
 
 > [!logic-map]- 要素关系

@@ -14,10 +14,10 @@ related_concepts:
   - "[[GB/T 7714-2015]]"
   - "[[Voice, Tense, and Concision in Academic Writing]]"
   - "[[Literature Review]]"
-  - "[[Dialogue in Education]]"
   - "[[Construct]]"
   - "[[Linguistic Turn]]"
   - "[[Knowledge Production]]"
+  - "[[Automation Bias]]"
   - "[[Positivism]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-31
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 # APA Style
 
@@ -185,7 +185,7 @@ APA 格式对学术论文不同章节的动词时态与语态提出了明确的�
 ### 命题一　格式规范通过降低外在认知负荷使读者聚焦实质学术内容
 
 > [!concept-lens] 认知负荷与学术传播效率
-> 探讨学术写作格式的统一性如何优化读者的阅读加工机制并提升学术[[Dialogue in Education\|对话]]的精确度。
+> 探讨学术写作格式的统一性如何优化读者的阅读加工机制并提升学术对话的精确度。
 
 > [!claim] Creswell & Creswell
 > **降低认知负荷** APA 格式的核心目的不是繁文缛节或装饰性排版，而是消除形式层面的视觉噪音与歧义，让读者的眼睛不停顿、思维不磕绊，从而将认知资源完全投入到对[[Construct\|理论构念]]、方法设计和实证证据的批判性审视之中。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022)]]
@@ -216,7 +216,7 @@ APA 格式对学术论文不同章节的动词时态与语态提出了明确的�
 
 > [!warning] 频繁改版的迁移成本与工具依赖
 > - **版本迭代成本** APA 格式从第 6 版到第 7 版的规则变更（如取消出版地、et al. 阈值调整为 3 人、DOI 格式变更）导致大量既有[[Document\|文献]]数据库、课程大纲与学术软件需全面重新配置，增加了研究者的格式迁移负担。
-> - **软件自动化偏差** 虽然 EndNote、Zotero 等引文软件极大简化了著录，但各数据库元数据清洗不全时，自动生成的 APA 格式常出现大小写错误（如期刊论文题名错误使用了 Title Case）或作者姓名颠倒，仍高度依赖人工校对。
+> - **软件[[Automation Bias|自动化偏差]]** 虽然 EndNote、Zotero 等引文软件极大简化了著录，但各数据库元数据清洗不全时，自动生成的 APA 格式常出现大小写错误（如期刊论文题名错误使用了 Title Case）或作者姓名颠倒，仍高度依赖人工校对。
 
 > [!warning] [[Positivism\|实证主义范式]]倾向与人文学科适配局限
 > - APA 格式诞生于心理学与行为科学，其章节划分（引言-方法-结果-讨论，IMRaD）与“著者-出版年”引用机制天生偏向量化实证主义传统。在注重历史文本细读、哲学思辨与[[Critical Theory\|批判理论]]的人文学科研究中，过度强调出版年份和 IMRaD 结构常引发削足适履的争议。

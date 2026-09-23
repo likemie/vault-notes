@@ -4,7 +4,7 @@ aliases:
   - 解放性行动研究
   - 批判性行动研究
   - critical action research
-summary: "行动研究中最激进的一支，以哈贝马斯批判理论为认识论基础，旨在识别和消除阻碍参与者自主与自由的制度性与人际性约束，追求社会正义与解放"
+summary: 行动研究中最激进的一支，以哈贝马斯批判理论为认识论基础，旨在识别和消除阻碍参与者自主与自由的制度性与人际性约束，追求社会正义与解放
 type: method
 method_type: qualitative
 method_family: "qualitative"
@@ -30,15 +30,15 @@ related_concepts:
   - "[[Teacher-as-Researcher]]"
   - "[[Positivism]]"
   - "[[Hypothesis]]"
-  - "[[Dialogue in Education]]"
-  - "[[Knowledge Production]]"
   - "[[Typification]]"
   - "[[Critical Thinking Disposition]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Theoretical Perspective]]"
+  - "[[Dialogue in Education]]"
   - "[[Document]]"
 related_theories:
   - "[[Critical Theory]]"
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Action Research]]"
   - "[[Non-participant Observation]]"
@@ -55,7 +55,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-19
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 # Emancipatory Action Research
 
@@ -175,7 +175,7 @@ updated: 2026-09-17
 > [!axioms] 理想言说情境下的解放性行动研究前提
 > - **具有政治议程的[[Reflexivity\|反思性]]实践** 行动研究不只是技术方法，而是承载政治意图的反思性实践
 > - **所有参与者是平等的** 不存在研究者与被研究者的等级关系
-> - **[[Dialogue in Education\|对话]]性而非独白性** 行动研究必然是人际对话的，而非个体独白的
+> - **对话性而非独白性** 行动研究必然是人际对话的，而非个体独白的
 > - **沟通是内在要素** 沟通发生于平等者共同体之中——格伦迪与[[Stephen Kemmis\|凯米斯]]（Grundy & Kemmis, 1988, p. 87）称其为对称沟通（symmetrical communication）
 > - **民主并促进民主** 因为是平等者共同体，行动研究必然是民主的并促进民主
 > - **追求共识** 共识要求多于一个参与者，因此要求合作与参与
@@ -185,7 +185,7 @@ updated: 2026-09-17
 ## 解放性行动研究与反身性
 
 > [!info] [[Reflexivity\|反身性]]的构成性角色
-> 反身性是解放性[[Action Research\|行动研究]]的构成要素和[[Epistemology\|认识论]]基础（Hall, 1996, p. 29）。其[[Knowledge Production\|知识建构]]立场具有双重特征：(a) 数据真实反映所有参与者的经验，研究者的理论负载观点不享有优先地位；(b) 所有参与者之间存在民主关系。反身性要求参与者-实践者-研究者将同样的批判审视应用于自己和他人。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 294–295)]]
+> 反身性是解放性[[Action Research\|行动研究]]的构成要素和[[Epistemology\|认识论]]基础（Hall, 1996, p. 29）。其[[Knowledge Building Theory|知识建构]]立场具有双重特征：(a) 数据真实反映所有参与者的经验，研究者的理论负载观点不享有优先地位；(b) 所有参与者之间存在民主关系。反身性要求参与者-实践者-研究者将同样的批判审视应用于自己和他人。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 294–295)]]
 
 ---
 
@@ -222,7 +222,7 @@ updated: 2026-09-17
 > - **高估共识导向研究的可取性** 以共识为目标的取向忽视了权力本身的复杂性——共识可能只是强势声音压制异议的结果
 > - **权力不能仅凭理性重新分配** 结构性的权力不平等不能仅靠理性辩论来消解，需要制度层面的变革
 > - **对群体理解天真** 颂扬群体胜于个体，特别是内群体而非外群体，忽视群体内部同样存在权力等级和排斥机制
-> - **将自身的科学观特权化** 拒绝客观性标准却缺乏方法论[[Humility in Learning\|谦逊]]，以另一种[[Epistemology\|认识论]]霸权取代[[Positivism\|实证主义]]霸权
+> - **将自身的科学观特权化** 拒绝客观性标准却缺乏方法论[[Humility\|谦逊]]，以另一种[[Epistemology\|认识论]]霸权取代[[Positivism\|实证主义]]霸权
 > - **将批判理论的权威特权化** 以批判理论的权威压制其他[[Theoretical Perspective\|理论视角]]和方法论取向，形成新的知识垄断
 
 ### 实践后果与可行性

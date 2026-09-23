@@ -20,12 +20,12 @@ tags:
   - field/science-communication
   - theme/public-engagement
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Social License to Operate]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Patient and Public Involvement]]"
   - "[[Paradigm]]"
   - "[[STEM Education]]"
+  - "[[Dialogue in Education]]"
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
@@ -59,7 +59,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 公众科学参与是指科学界、科研人员与多元公众之间进行的双向（Two-way）、[[Dialogue in Education\|对话]]驱动和参与式的互动形态，强调倾听公众关切、共同探讨科技的伦理与社会影响，并将科学传播确立为科研全生命周期（Research Lifecycle）的内在组成部分。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 8–10, 14)]]
+> 公众科学参与是指科学界、科研人员与多元公众之间进行的双向（Two-way）、对话驱动和参与式的互动形态，强调倾听公众关切、共同探讨科技的伦理与社会影响，并将科学传播确立为科研全生命周期（Research Lifecycle）的内在组成部分。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 8–10, 14)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于自上而下的单向科学普及，公众科学参与承认公众拥有独特的经验知识与价值诉求，强调平权对话与共同探索。
@@ -74,7 +74,7 @@ updated: 2026-09-22
 ## 核心要素
 
 > [!feature] 核心要素
-> - **双向[[Dialogue in Education\|对话]]机制（Two-way Dialogue）** 从单向“告知”转向共同“探讨”，吸纳公众对科技伦理与风险的反馈。
+> - **双向对话机制（Two-way Dialogue）** 从单向“告知”转向共同“探讨”，吸纳公众对科技伦理与风险的反馈。
 > - **科研全生命周期嵌入（Research Lifecycle Embedding）** 公众参与不仅发生在成果发布后，而是贯穿问题构思、过程互动到成果转化的全过程。
 > - **多样性与包容性（Diversity and Inclusion）** 消除社会经济背景障碍，确保边缘和代表性不足的社群平等享有科学参与资源。
 > - **全域行动主体协同（Cross-sector Ecosystem）** 超越学术界单一视角，将承担国家主要研发职能的产业界企业与使命驱动型的第三部门（慈善基金会、患者组织、环保团体）深度纳入公众参与共同体。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, pp. 68, 74)]]
@@ -91,7 +91,7 @@ updated: 2026-09-22
 > 科学事业的发展无法脱离政治、财政与伦理层面的[[Social License to Operate\|社会许可]]，公众参与是确保公共科研投入获得民主支持的生命线。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
-> **科研生命周期的不可分割性** 公众参与必须被视为科研与教学文化的内在核心，而非科研工作之外的额外负担；唯有通过高质量的双向沟通，科学界才能在虚假信息蔓延的时代守护理性[[Dialogue in Education\|对话]]的基石。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 14–15)]]
+> **科研生命周期的不可分割性** 公众参与必须被视为科研与教学文化的内在核心，而非科研工作之外的额外负担；唯有通过高质量的双向沟通，科学界才能在虚假信息蔓延的时代守护理性对话的基石。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 14–15)]]
 
 ---
 
@@ -139,7 +139,7 @@ updated: 2026-09-22
 
 > [!dev-timeline] 概念演变
 > - **1985 — 公众理解科学（PUS）** 以[[Bodmer Report 1985\|博德默尔报告]]为起点，强调科学家向大众传播知识的职业责任。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 4)]]
-> - **2000 — 转向公众参与（PES）** 上议院报告批判[[Deficit Model of Science Communication\|赤字模型]]，确立双向参与和公众[[Dialogue in Education\|对话]][[Paradigm\|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 10)]]
+> - **2000 — 转向公众参与（PES）** 上议院报告批判[[Deficit Model of Science Communication\|赤字模型]]，确立双向参与和公众对话[[Paradigm\|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 10)]]
 > - **2004–2020 — 制度化公共对话** 依托 [[Sciencewise]] 等计划，推动公民陪审团与协商迷你公众直接进入技术政策审议。
 > - **2026 — 整合科研全周期与前瞻共进化** 面对人工智能与深度技术冲击，将科研预算专项划拨给科研人员技能培训，确立平权前瞻的共进化对话范式。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 86–88)]]
 > - **2026 — 纵向微观实证与高校体制内嵌** 依托 2006–2025 年科研人员全国追踪，揭示参与行为普及化（85%）与道德义务认同（83%），确立上游深度嵌入原则，推动 [[Research Excellence Framework\|REF]] 2029 设立独立“参与与影响”维度。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 94–101)]]
@@ -169,4 +169,4 @@ updated: 2026-09-22
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 系统梳理 1985–2026 年英国科学传播与公众参与的发展演进与制度挑战；第四章深入剖析产业界与第三部门在科研全生命周期公众参与中的战略定位；第五章进一步提出面向颠覆性技术的前瞻共进化[[Dialogue in Education\|对话]]与国家技能资助蓝图；第六章全面解构学术共同体微观参与行为的二十年演进，揭示时间瓶颈与评价机制脱节，并规划高校领导与资助机构的制度行动框架。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 系统梳理 1985–2026 年英国科学传播与公众参与的发展演进与制度挑战；第四章深入剖析产业界与第三部门在科研全生命周期公众参与中的战略定位；第五章进一步提出面向颠覆性技术的前瞻共进化对话与国家技能资助蓝图；第六章全面解构学术共同体微观参与行为的二十年演进，揭示时间瓶颈与评价机制脱节，并规划高校领导与资助机构的制度行动框架。

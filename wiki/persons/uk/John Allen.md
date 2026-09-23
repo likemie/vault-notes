@@ -7,7 +7,7 @@ summary: "英国开放大学经济与人文地理学荣休教授，拓扑空间�
 type: person
 nationality: "uk"
 person_region: "uk"
-person_related_count: 26
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Champ]]"
   - "[[Space of Flows and Space of Places]]"
-  - "[[Dialogue in Education]]"
   - "[[Rescaling]]"
 related_theories:
   - "[[Actor-Network Theory]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # John Allen
@@ -124,7 +123,7 @@ updated: 2026-09-18
 
 > [!person-network] 关系网络
 > - **理论合作者** 艾伦·科克伦（Allan Cochrane） — 长期合作探索国家权力[[Assemblage\|组装]]与区域治理拓扑化。
-> - **理论共鸣与[[Dialogue in Education\|对话]]者** [[Bruno Latour\|布鲁诺·拉图尔]]（Bruno Latour） — 吸收[[Actor-Network Theory\|行动者网络理论]]（ANT）中非人类行动者与可流动表征的思想。
+> - **理论共鸣与对话者** [[Bruno Latour\|布鲁诺·拉图尔]]（Bruno Latour） — 吸收[[Actor-Network Theory\|行动者网络理论]]（ANT）中非人类行动者与可流动表征的思想。
 > - **教育领域应用学者** [[Sigrid Hartong\|西格丽德·哈通]]（Sigrid Hartong）、[[Bob Lingard\|鲍勃·林加德]]（Bob Lingard）、[[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen J. Ball） — 将拓扑权力理论广泛运用于教育[[Policy Mobility\|政策流动]]、数字基建与[[Governmentality\|治理术]]研究。
 
 ---

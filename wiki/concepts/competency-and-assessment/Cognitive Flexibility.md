@@ -9,7 +9,7 @@ aliases:
 summary: "个体根据不断变化的环境情境、目标约束与反馈信息，在不同心智图式、思维范畴或解题策略之间灵活转换与重组的高阶执行功能与创造性思维底层机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Cognitive Inhibition]]"
   - "[[Paradigm]]"
   - "[[Cognitive Shifting]]"
+  - "[[Automation Bias]]"
   - "[[Assemblage]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
@@ -106,7 +107,7 @@ updated: 2026-09-22
 > | **核心心智操作** | **在不同规则、视角或解题维度间自适应切换** | 在线暂存、更新并操纵多模态信息 | 主动压制优势冲动、旧习惯与干扰线索 | 从单一输入生成多方向、新颖且适切的观念 |
 > | **在创造探究中的功能** | **打破功能固着，实现跨范畴概念远距联结** | 维持复杂的多个候选方案在意识中备选 | 抑制头脑中跳出的第一批陈词滥调联想 | 产出数量丰富、类型多样的观念候选集 |
 > | **典型实验室测查[[Paradigm\|范式]]** | 任务转换范式（[[Cognitive Shifting\|task switching]]）、WCST | $n$-back 任务、运算广度任务（OSPAN） | Stroop 色词冲突任务、停止信号任务（SST） | [[Alternate Uses Test\|另类用途测验]]（AUT 范畴数）、[[Torrance Tests of Creative Thinking\|TTCT]] |
-> | **在干预训练中的角色** | **思维训练的核心塑造目标（$g = 0.762$）** | 基础容量限制（受容量瓶颈约束） | 过滤自动化偏见的看门人 | [[Creativity Training\|创造力干预]]的核心测量效标之一 |
+> | **在干预训练中的角色** | **思维训练的核心塑造目标（$g = 0.762$）** | 基础容量限制（受容量瓶颈约束） | 过滤[[Automation Bias\|自动化偏见]]的看门人 | [[Creativity Training\|创造力干预]]的核心测量效标之一 |
 
 ---
 

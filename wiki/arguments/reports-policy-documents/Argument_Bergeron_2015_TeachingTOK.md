@@ -32,6 +32,7 @@ related_concepts:
   - "[[IB Learner Profile]]"
   - "[[Operationalization]]"
   - "[[Global Citizenship]]"
+  - "[[Open-Mindedness]]"
   - "[[Extended Essay]]"
   - "[[Reflexivity]]"
   - "[[Ways of Knowing]]"
@@ -41,10 +42,8 @@ related_concepts:
   - "[[Examination-Oriented Education]]"
   - "[[Class Size]]"
   - "[[Knowledge Framework]]"
-  - "[[Dialogue in Education]]"
   - "[[Homework]]"
   - "[[Cooperative Learning]]"
-  - "[[Growth]]"
 related_theories: []
 related_methods:
   - "[[Sample Size Determination]]"
@@ -76,7 +75,7 @@ title: "Argument_Bergeron_2015_TeachingTOK"
 argument_key: "Argument_Bergeron_2015_TeachingTOK"
 argument_display_title: "Teaching the Theory of Knowledge course in IB World Schools"
 argument_kind: "report"
-argument_related_count: 39
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dcfce7"
@@ -115,7 +114,7 @@ issuing_organization: "International Baccalaureate Organization"
 > | **国际文凭学习者特质（[[IB Learner Profile\|IB learner profile]]）** | 将组织使命[[Operationalization\|操作化]]为探究者、思想开放者和反思者等10项特质，作为评估课程非学术目标（[[Global Citizenship\|全球公民]]与国际情怀）是否在学生行为中落实的对齐标尺（p. 4）。 |
 
 > [!warrant]- 理论如何支撑论证
-> 教师信念理论解释了知识论不仅作用于学生，更因其开放性和跨学科特性成为强力专业发展途径的原因。衡量课程结果与[[International Baccalaureate\|国际文凭]]学习者特质的对齐程度，为判断这门无法通过标准化纸笔测验简单考核的课程确立了有效性基准。
+> 教师信念理论解释了知识论不仅作用于学生，更因其[[Open-Mindedness|开放性]]和跨学科特性成为强力专业发展途径的原因。衡量课程结果与[[International Baccalaureate\|国际文凭]]学习者特质的对齐程度，为判断这门无法通过标准化纸笔测验简单考核的课程确立了有效性基准。
 
 ---
 
@@ -186,7 +185,7 @@ issuing_organization: "International Baccalaureate Organization"
 ### 1. 课程认知（Perceptions of TOK）：目标、益处与挑战
 
 > [!claim] 步骤一主张
-> 知识论的核心目的不仅是学术上的批判性评估，更是打破学科壁垒和自我中心的主观偏见。其带给学生的最大益处体现在思想开放和反思能力的跨情境迁移。然而，将这种隐性认知转变落实为显性量化的评分评估，构成了最大的实施挑战。
+> 知识论的核心目的不仅是学术上的批判性评估，更是打破学科壁垒和自我中心的主观偏见。其带给学生的最大益处体现在[[Open-Mindedness|思想开放]]和反思能力的跨情境迁移。然而，将这种隐性认知转变落实为显性量化的评分评估，构成了最大的实施挑战。
 
 > [!goal] 总体目的 建立认知意识
 > 教师在量化排序中将知识论的首要目的界定为“建立对知识构建的意识”（Mean=1.80），而“为进一步学习做准备”（Mean=4.33）排在最末（表16）。这表明该课程的定位是认知赋能而非单纯的技能铺垫。
@@ -348,7 +347,7 @@ issuing_organization: "International Baccalaureate Organization"
 
 > [!challenges] 结构性实施壁垒
 > 表12（p. 32-33）总结了实施的三大宏观挑战：
-> - **行政挑战（Administrative challenges）** 班级规模过大导致难以建立反思性[[Dialogue in Education\|对话]]所需的信任关系。此外，为了不占用常规课表，许多学校将知识论排在极端的边缘时间。“这和一些小事有关，比如把它移到早上的课表里...如果总是在周五下午五点上知识论，这很能说明态度。”这向学生传递了该课程是“附加（add-on）”的负面暗示。
+> - **行政挑战（Administrative challenges）** 班级规模过大导致难以建立反思性对话所需的信任关系。此外，为了不占用常规课表，许多学校将知识论排在极端的边缘时间。“这和一些小事有关，比如把它移到早上的课表里...如果总是在周五下午五点上知识论，这很能说明态度。”这向学生传递了该课程是“附加（add-on）”的负面暗示。
 > - **评价挑战（Assessment challenges）** 评分困难，学生索要数字分数。
 > - **教师背景（Teacher background）** 内容背景对教师具挑战性。“长期尝试知识论的教师觉得最令人兴奋也是最耗时的一点是，为了做好它，你必须去阅读那些其他学科的材料（read and teach yourself the stuff in these other subjects）。”
 
@@ -395,7 +394,7 @@ issuing_organization: "International Baccalaureate Organization"
 ## 自述局限
 
 > [!warning] 局限性说明
-> 本研究高度依赖于自我报告数据（self-reported data），可能受到社会期望（social desirability）偏差的干扰。尤其是自愿花费大量时间完[[Growth\|成长]][[Questionnaire\|问卷]]并参与[[Focus Group\|焦点小组]]的教师群体，可能代表了对[[Theory of Knowledge\|知识论]]最富有热情和态度的“精英子群体”，从而可能在一定程度上高估了全球整体的实施顺畅度和信心水平（p. 14）。
+> 本研究高度依赖于自我报告数据（self-reported data），可能受到社会期望（social desirability）偏差的干扰。尤其是自愿花费大量时间完成长[[Questionnaire\|问卷]]并参与[[Focus Group\|焦点小组]]的教师群体，可能代表了对[[Theory of Knowledge\|知识论]]最富有热情和态度的“精英子群体”，从而可能在一定程度上高估了全球整体的实施顺畅度和信心水平（p. 14）。
 
 ---
 

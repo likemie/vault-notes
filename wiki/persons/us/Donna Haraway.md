@@ -3,7 +3,7 @@ title: Donna Haraway
 aliases:
   - Haraway, D.
   - 唐娜·哈拉维
-summary: "美国女性主义科技研究学者，赛博格、sympoiesis 与 SF 叙事方法代表人物，为后人类主义和关系伦理提供关键思想资源。"
+summary: 美国女性主义科技研究学者，赛博格、sympoiesis 与 SF 叙事方法代表人物，为后人类主义和关系伦理提供关键思想资源。
 type: person
 nationality: us
 person_region: "us"
@@ -13,17 +13,17 @@ person_related_stars: "⭐"
 person_related_color: "#dbeafe"
 born: "1944"
 died: ""
-lifespan: "1944–至今"
+lifespan: 1944–至今
 tags:
-- donna-haraway
-- posthumanism
-- new-materialism
-- region/us
+  - donna-haraway
+  - posthumanism
+  - new-materialism
+  - region/us
 related_concepts:
   - "[[Posthumanism]]"
   - "[[Sympoiesis]]"
   - "[[Haraway's SF]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Response-ability]]"
   - "[[Humosity]]"
 related_theories:
@@ -36,8 +36,8 @@ related_arguments:
   - "[[Argument_Amos_2022_Springer]]"
 confidence: medium
 status: draft
-created: '2026-05-08'
-updated: 2026-09-11
+created: 2026-05-08
+updated: 2026-09-23
 ---
 ## 简介
 
@@ -50,7 +50,7 @@ updated: 2026-09-11
 
 > [!tip]-
 
-**[[Sympoiesis]]（共同制造）** Haraway 的核心概念，意为"与他人一起制造"（making with），与 [[Autopoiesis]]（自我制造）形成对照。Haraway 强调 sympoiesis 与 autopoiesis 的差异，否定后者对自我指涉性的强调。Sympoiesis 意味着[[Humility in Learning|谦逊]]地、response-able 地回应彼此需求([[Argument_Amos_2022_Springer|Amos, 2022, p.62]])。
+**[[Sympoiesis]]（共同制造）** Haraway 的核心概念，意为"与他人一起制造"（making with），与 [[Autopoiesis]]（自我制造）形成对照。Haraway 强调 sympoiesis 与 autopoiesis 的差异，否定后者对自我指涉性的强调。Sympoiesis 意味着[[Humility|谦逊]]地、response-able 地回应彼此需求([[Argument_Amos_2022_Springer|Amos, 2022, p.62]])。
 
 **[[Response-ability]]** Haraway 的关键伦理概念——不仅是"责任"更是"回应能力"，即对彼此需求保持敏感并予以回应的能力。这一概念延伸至跨物种的伦理关系([[Argument_Amos_2022_Springer|Amos, 2022, p.62]])。
 

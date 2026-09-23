@@ -8,7 +8,7 @@ summary: "19世纪法国实证主义哲学家与社会学奠基人，提出知�
 type: person
 nationality: "france"
 person_region: "france"
-person_related_count: 37
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Objectivism]]"
   - "[[Educational Meliorism]]"
   - "[[Document]]"
-  - "[[Dialogue in Education]]"
   - "[[International Education]]"
   - "[[Scientism]]"
   - "[[Interpretive Paradigm]]"
@@ -56,7 +55,6 @@ related_persons:
   - "[[Marc-Antoine Jullien]]"
   - "[[Søren Kierkegaard]]"
   - "[[Jürgen Habermas]]"
-  - "[[Anthony Giddens]]"
   - "[[Karl Popper]]"
 related_facts:
   - "[[ResearchED]]"
@@ -67,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Auguste Comte
@@ -177,7 +175,7 @@ updated: 2026-09-17
 > - **现代性教育科学化路径** 启蒙现代性时期的教育改革者深受孔德实证精神感召。比较教育学奠基人[[Marc-Antoine Jullien\|马克-安托万·朱利安]]与孔德遥相呼应，将教育确立为“整个社会大厦的真正基石”，主张以严谨的分析式问题表与比较观察表诊断各国教育缺陷，确立了通过客观经验调查医治社会道德危机、实现全人[[Bildung\|教化]]与社会改良（[[Educational Meliorism]]）的古典现代主义范式。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 13–14]]
 > - **跨国与跨领域传播** 在英国，其思想受到古典自由主义思想家约翰·斯图尔特·密尔（J. S. Mill）的高度推崇与批判性转化；在拉丁美洲，其实证哲学成为 19 世纪末巴西、墨西哥等国世俗精英推翻封建神权与建设现代化国家的官方指导思想，巴西国旗上的名言“秩序与进步”（Ordem e Progresso）即直接镌刻着孔德的实证格言。
 
-孔德的学说在当代社会科学与教育哲学[[Document|文献]]中持续引发深度反思与[[Dialogue in Education|对话]]。
+孔德的学说在当代社会科学与教育哲学[[Document|文献]]中持续引发深度反思与对话。
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1)]] 详尽剖析孔德实证主义的认识论原则、方法论统一假说以及西方教育研究范式从实证到反实证的演化脉络。
@@ -225,7 +223,7 @@ updated: 2026-09-17
 > > - **当代教育方法论反思** 指出人类本性的巨大复杂性以及社会现象难以捉摸的无形特征，与自然界的秩序和规则性形成鲜明反差；这种落差在学校与课堂情境中尤为尖锐，师生互动中[[Emergence\|涌现]]的主观意义、情境应变与道德伦理，给实证主义[[Quantitative Research\|量化研究]]带来了严峻挑战。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 8]]
 
 > [!critique] 批评索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1)]] 系统记录了从克尔凯郭尔的存在主义主观性呼吁，到[[Anthony Giddens\|吉登斯]]对实证主义忽视人类能动性的社会学内部反思，再到法兰克福学派对工具理性泛滥的全面批判。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1)]] 系统记录了从克尔凯郭尔的存在主义主观性呼吁，到吉登斯对实证主义忽视人类能动性的社会学内部反思，再到法兰克福学派对工具理性泛滥的全面批判。
 
 > [!warning] 未解问题与适用边界
 > 孔德晚年将实证哲学推向极致，试图构建带有森严祭司等级制与狂热仪式感的“人道教”，暴露出启蒙理性自满演变为社会工程极权统治的历史险境；在[[Epistemology\|认识论]]上，其拒绝承认不可直接观察的深层结构机制与理论实体，最终遭到波普尔[[Falsification\|证伪主义]]（[[Karl Popper]]）、科学实在论与[[Critical Realism\|批判实在论]]的深刻超越与修正。

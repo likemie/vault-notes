@@ -10,7 +10,7 @@ aliases:
 summary: "研究者、教育实践者与决策者平等介入研究问题提出、方案设计、数据解析与成果转化的全周期协作模式，旨在打破单向线性知识传递并化解实践者沦为被动数据收集客体的体制困境；苏格兰与德国的治理经验证实制度化实践者探究与同侪会商是弥合专长断裂、实现知识共创的关键路径。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 36
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -31,14 +31,12 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Research Utilization]]"
   - "[[Knowledge Transfer]]"
-  - "[[Dialogue in Education]]"
   - "[[Knowledge Mediation]]"
   - "[[Reflexivity]]"
   - "[[Decodification]]"
   - "[[School Leadership]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Pride in Learning]]"
-  - "[[Growth]]"
   - "[[Document]]"
   - "[[Ontology]]"
   - "[[Evaluation Research]]"
@@ -63,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Knowledge Co-production
@@ -88,7 +86,7 @@ updated: 2026-09-18
 > [!boundary]- 概念边界
 > - **不等于 单向[[Knowledge Transfer\|知识转移]]** 知识转移将研究成果视为现成商品自高校向外输出；知识共创则认为知识在多元主体互动与情境化协商中动态生成。
 > - **不等于 被动数据提供** 研究团队进入学校分发[[Questionnaire\|问卷]]、测验学生或进行课堂录像，仅属于工具性资料收集；若一线教师未参与研究设计与结果研判，绝非知识共创。
-> - **不等于 纯内部校本教研** 缺乏外部严谨方法学支持与学术理论[[Dialogue in Education\|对话]]的自发经验总结，属于单纯的实践反思，缺乏跨界共创的方法论张力。
+> - **不等于 纯内部校本教研** 缺乏外部严谨方法学支持与学术理论对话的自发经验总结，属于单纯的实践反思，缺乏跨界共创的方法论张力。
 
 ---
 
@@ -151,7 +149,7 @@ updated: 2026-09-18
 > 阐明宏观治理环境（高利害督导 vs 低利害协商共治）与专业标准如何决定一线教育者是将研究作为共同探究的起点，还是沦为外包方案的被动消费者。
 
 > [!claim] Kelly et al.
-> **治理体制与[[Practitioner Enquiry\|实践者探究]]的桥梁功能** 比较[[Qualitative Research\|质性研究]]表明，知识共创的实现高度依赖于宏观教育治理架构。在以苏格兰为代表的协商共治体制下，[[General Teaching Council for Scotland\|苏格兰通用教学总署]]（General Teaching Council for Scotland, GTCS）将“实践者探究”（Practitioner Enquiry）作为法定要求嵌入教师专业标准，促使教师与大学研究者在平等伙伴关系中结合校本学情共同提出问题、检验外部理论，使一线人员[[Growth\|成长]]为情境化知识的共创者，成功搭建起连接[[Interactional Expertise\|交互型专长]]与[[Contributory Expertise\|贡献型专长]]的制度桥梁；在德国汉堡，学校管理者依托同侪案例会商（Kollegiale Fallberatung）与州立师训院（LI）展开校本互助，将监测数据与实证[[Document\|文献]]作为共同反思的起点。相反，在英格兰的高利害市场化问责体制下，过剩的商业中介与督导生存焦虑迫使学校领导者直接采购现成证据包装包，教师被降格为标准化干预的被动执行者，实质性摧毁了知识共创的制度土壤。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 14–16, 21–24)]]
+> **治理体制与[[Practitioner Enquiry\|实践者探究]]的桥梁功能** 比较[[Qualitative Research\|质性研究]]表明，知识共创的实现高度依赖于宏观教育治理架构。在以苏格兰为代表的协商共治体制下，[[General Teaching Council for Scotland\|苏格兰通用教学总署]]（General Teaching Council for Scotland, GTCS）将“实践者探究”（Practitioner Enquiry）作为法定要求嵌入教师专业标准，促使教师与大学研究者在平等伙伴关系中结合校本学情共同提出问题、检验外部理论，使一线人员成长为情境化知识的共创者，成功搭建起连接[[Interactional Expertise\|交互型专长]]与[[Contributory Expertise\|贡献型专长]]的制度桥梁；在德国汉堡，学校管理者依托同侪案例会商（Kollegiale Fallberatung）与州立师训院（LI）展开校本互助，将监测数据与实证[[Document\|文献]]作为共同反思的起点。相反，在英格兰的高利害市场化问责体制下，过剩的商业中介与督导生存焦虑迫使学校领导者直接采购现成证据包装包，教师被降格为标准化干预的被动执行者，实质性摧毁了知识共创的制度土壤。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 14–16, 21–24)]]
 
 ---
 

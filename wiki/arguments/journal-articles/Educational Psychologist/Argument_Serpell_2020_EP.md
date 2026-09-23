@@ -32,7 +32,6 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Problem Finding]]"
   - "[[Boundary Spanner]]"
-  - "[[Dialogue in Education]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Academic Attrition]]"
   - "[[Research Utilization]]"
@@ -92,7 +91,7 @@ title: "Argument_Serpell_2020_EP"
 argument_key: "Argument_Serpell_2020_EP"
 argument_display_title: "Supporting the integration of evidence into federal educational policy and reform efforts: A navigational framework for educational researchers"
 argument_kind: "journal-article"
-argument_related_count: 62
+argument_related_count: 61
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -279,7 +278,7 @@ journal: Educational Psychologist
 针对各阶段的系统动力，研究者应当采取精准差异化的行动策略：
 
 > [!pathways] 教育研究者四阶段政策介入路径
-> - **阶段一：以知情选民与[[Boundary Spanner\|知识经纪人]]身份介入问题识别** 议员办公室的基本职能是服务选民，普通公民有权直接与幕僚[[Dialogue in Education\|对话]]。研究者应以更具专业知情能力的选民身份拜访选区议员办公室；或充当知识经纪人，将实证证据赋权给家长等基层群体；邀请议员及幕僚到学校实地观摩研究项目，借助地方媒体报道激发政治兴趣；邀请议员出席学术会议发表主旨演说建立联系。（pp.43–44）
+> - **阶段一：以知情选民与[[Boundary Spanner\|知识经纪人]]身份介入问题识别** 议员办公室的基本职能是服务选民，普通公民有权直接与幕僚对话。研究者应以更具专业知情能力的选民身份拜访选区议员办公室；或充当知识经纪人，将实证证据赋权给家长等基层群体；邀请议员及幕僚到学校实地观摩研究项目，借助地方媒体报道激发政治兴趣；邀请议员出席学术会议发表主旨演说建立联系。（pp.43–44）
 > - **阶段二：紧扣政治议程并培育幕僚互信** 密切追踪《国会山报》（*The Hill*）、《政治报》（*Politico*）等国会幕僚每日必读媒体及教育部动态；研判研究结论如何契合立法者的价值立场；与办公室具体负责教育议题的幕僚建立长期互信，使自己在该细分领域成为幕僚在起草提案时的第一咨询对象。（pp.44–45）
 > - **阶段三：抢抓重大重新授权周期并提供听证证词** 警觉关注联邦重大教育法案（如 [[Elementary and Secondary Education Act of 1965\|ESEA]]、[[Higher Education Act of 1965\|HEA]]）的重新授权周期，提前布局；受邀出席委员会立法听证会陈述专家证词，或公开发表针对性学术反应声明；在接到幕僚咨询时必须以国会山的加急速度即刻答复。（p.45）
 > - **阶段四：聚焦法案审议修正并借力象征性法案储备资源** 针对正在推进审议的法案提供修正证据；积极参与当前暂无通过希望但承载理念倡导的象征性法案（Messaging Bills），为未来国会格局更替积蓄成熟的法案草案与实证储备；与专业中介机构协同开展公关动员。（pp.45–46）
@@ -361,7 +360,7 @@ Nutley et al. (2002) 进一步提出了[[Nutley's Four-Dimension Framework for R
 > *The federal education policymaking process is often activated by a salient event that occurs in a particular cultural context at a particular point in time, like a school shooting (Sandy Hook) or a catastrophic weather event (Hurricane Katrina). There is a lot of pressure to act and do so quickly and it is not infrequent that within hours a legislator will decide their position on an issue and announce it. The public statement renders the position something to which the legislator will forever be held. Delaying a response or back-[[Tracking]] can come at a high political cost. Hence, it is at the public announcement juncture that evidence is sought to validate the policy stance taken. As such, in policymaking, research will rarely be the driving force, but it is often the fuel.*
 
 > [!citation-card] 政策陈述的确定性诉求与学术中立神话的破除
-> 政策声明不可能也不应当是完全中立平衡的，它们必须被精确地定调，以便为支持者希望通过的法案争取公众支持。因此，教育研究者的成功参与意味着必须放下虚妄的观念，即认为研究可以作为完全公正且独立于政治的要素融入政策空间。对于面对这一前景不寒而栗的科学家来说，这或许很难带来心理安慰。然而我们必须接受，如果我们要在政策[[Dialogue in Education\|对话]]中注入实证证据，就必须响亮而坚定地提出主张，不能夹带过多的怀疑与保留条件，否则我们就会面临研究完全不被考虑的风险，而诸多缺乏实证依据的声音将趁虚而入占据主导。（p.46）
+> 政策声明不可能也不应当是完全中立平衡的，它们必须被精确地定调，以便为支持者希望通过的法案争取公众支持。因此，教育研究者的成功参与意味着必须放下虚妄的观念，即认为研究可以作为完全公正且独立于政治的要素融入政策空间。对于面对这一前景不寒而栗的科学家来说，这或许很难带来心理安慰。然而我们必须接受，如果我们要在政策对话中注入实证证据，就必须响亮而坚定地提出主张，不能夹带过多的怀疑与保留条件，否则我们就会面临研究完全不被考虑的风险，而诸多缺乏实证依据的声音将趁虚而入占据主导。（p.46）
 >
 > *Policy statements are not and cannot be balanced. They must be pitched just right so that they can garner public support for a bill that supporters would like to get through. Thus, educational researchers' successful engagement entails letting go of the false notion that research can be integrated into the policy space as impartial and independent of politics. Small comfort to us as scientists who shudder at the prospect... We must accept that if our infusion of evidence into the conversation means we have to put it forward loudly and confidently we cannot include it with caveats, otherwise we run the risk of it not being considered, and rest assured many other voices and often voices that are not evidence-based will prevail.*
 

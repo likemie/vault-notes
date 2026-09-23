@@ -26,10 +26,9 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Stances]]"
   - "[[Scaffolding]]"
-  - "[[Knowledge Production]]"
   - "[[Epistemic Agency]]"
   - "[[Epistemic Cognition]]"
-  - "[[Dialogue in Education]]"
+  - "[[Knowledge Production]]"
   - "[[Absolutist]]"
   - "[[Multiplist]]"
   - "[[Evaluativist]]"
@@ -42,6 +41,7 @@ related_concepts:
   - "[[AI Hallucination]]"
   - "[[Document]]"
   - "[[Metacognition]]"
+  - "[[Open-Mindedness]]"
   - "[[Variable]]"
   - "[[Scale of Measurement]]"
   - "[[Constructivist Paradigm]]"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Presence]]"
   - "[[Self-Efficacy]]"
 related_theories:
+  - "[[Knowledge Building Theory]]"
   - "[[Symbiotic Framework of Adaptive Epistemic Stances]]"
 related_methods:
   - "[[Transcription in Qualitative Research]]"
@@ -87,7 +88,7 @@ title: "Argument_Wu_2025_ER"
 argument_key: "Argument_Wu_2025_ER"
 argument_display_title: "Strengthening Human Epistemic Agency in the Symbiotic Learning Partnership With Generative Artificial Intelligence"
 argument_kind: "journal-article"
-argument_related_count: 49
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -107,13 +108,13 @@ issuing_organization: ""
 > 在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）能够直接生成结构完整、逻辑连贯且极具说服力的知识解答背景下，教育研究面临以下核心关切：
 > 1. **技术[[Paradigm\|范式]]转型与认知危机** 生成式大语言模型与传统基于规则检索的系统有何根本不同？为什么它在大幅降低信息搜寻成本的同时，容易诱发学生的[[Cognitive Offloading\|认知卸载]]（Cognitive Offloading）与认识盲从？
 > 2. **[[Epistemology\|认识论]]维度的获益分化** 在面对具体的劣构学术任务（如统计推论方法选择与公式辨析）时，持不同[[Epistemic Stances\|认识立场]]（绝对论、多元论、评价论）与先验知识水平的学习者，其人机交互过程与推论决策机制呈现出怎样的微观差异？
-> 3. **人机共生关系的构建路径** 单纯增加人机交互频次能否自发促进学习者认识论水平的发展？教育者应当如何结合溯源核验[[Scaffolding\|教学支架]]与高级提示技术，推动学习者向高阶评价论立场演进，确保人类始终掌握[[Knowledge Production\|知识建构]]与评判的实质裁决权？（pp. 358–360）
+> 3. **人机共生关系的构建路径** 单纯增加人机交互频次能否自发促进学习者认识论水平的发展？教育者应当如何结合溯源核验[[Scaffolding\|教学支架]]与高级提示技术，推动学习者向高阶评价论立场演进，确保人类始终掌握[[Knowledge Building Theory|知识建构]]与评判的实质裁决权？（pp. 358–360）
 
 > [!claim] 核心主张
 > 人机协同学习超越了传统的单向工具操控模式，构成人机共享[[Epistemic Agency\|认识能动性]]的共生系统；学习者从人机交互中获得的认知增益取决于其认识立场、先验知识与知识辩护方式的协同适配。频繁的人机交互不会自发促进认识论成熟，唯有依托跨源头核验的教学反思支架与高级提示技术，方能驱动认识立场向评价论演进，确保人类学习者始终掌握知识建构与评判的实质裁决权。（pp. 358–360, 364–366）
 
 > [!concept-lens] 阅读透镜
-> - **研究对象** 大语言模型介入下大学生的[[Epistemic Cognition\|认识论认知]]过程，聚焦高级统计学课程中学生解决实际复杂问题时的人机[[Dialogue in Education\|对话]]协议、质询路径与决策依据。
+> - **研究对象** 大语言模型介入下大学生的[[Epistemic Cognition\|认识论认知]]过程，聚焦高级统计学课程中学生解决实际复杂问题时的人机对话协议、质询路径与决策依据。
 > - **理论张力** 大模型输出的表面连贯性引发的学习者表层顺从与认知卸载，与解决复杂劣构问题所必须的人类[[Epistemic Agency\|认识能动性]]（Epistemic Agency）和批判性质询之间的深层张力。
 > - **核心贡献** 修订[[Chin-Chung Tsai\|蔡今中]]（Chin-Chung Tsai, 2004）基于信息检索的网络学习认识论假说，建构人机自适应认识立场与共生学习理论框架，实证解构绝对论、多元论与评价论在人机协同中的微观交互机制并提出双轨干预路径。
 
@@ -136,7 +137,7 @@ issuing_organization: ""
 
 ## 研究方法
 
-> [!method-panel] 理论建构与交互[[Dialogue in Education\|对话]]协议分析
+> [!method-panel] 理论建构与交互对话协议分析
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **理论推演与概念建模** | 批判性整合学习科学、人机交互与认识论认知文献，将 Tsai (2004) 基于搜索引擎的信息检索假说拓展至大语言模型生成情境，建构自适应[[Epistemic Stances\|认识立场]]与共生学习理论模型。（pp. 360–362） |
@@ -172,7 +173,7 @@ issuing_organization: ""
 
 #### 1. 生成式大模型输出的即时完整性容易诱发认知卸载与认识依赖
 
-与传统[[Intelligent Tutoring Systems|智能教学系统]]（Intelligent Tutoring Systems, ITS）通常依赖预设规则、结构化题库和固定分支路径来提供反馈不同，新型生成式人工智能展现出高度流畅的多轮自然语言[[Dialogue in Education|对话]]、开放式文本生成与逻辑推理推演能力。例如，由可汗学院开发的专用教学系统 [[Khanmigo]] 深度融合了[[Socrates|苏格拉底]]追问法与检索增强生成（RAG），但通用大模型若缺乏专门设计，则极易给学习者的认知加工带来严重冲击。（pp. 358–359）
+与传统[[Intelligent Tutoring Systems|智能教学系统]]（Intelligent Tutoring Systems, ITS）通常依赖预设规则、结构化题库和固定分支路径来提供反馈不同，新型生成式人工智能展现出高度流畅的多轮自然语言对话、开放式文本生成与逻辑推理推演能力。例如，由可汗学院开发的专用教学系统 [[Khanmigo]] 深度融合了[[Socrates|苏格拉底]]追问法与检索增强生成（RAG），但通用大模型若缺乏专门设计，则极易给学习者的认知加工带来严重冲击。（pp. 358–359）
 
 > [!feature] 生成式人工智能介入教育的双重效应与认知危机
 > - **多轮对话与拟人化支持** 能够依据学习者的模糊提问即时给出条理清晰、步骤详尽的整合性解答，极大地降低了寻找分散资料的时间成本。（p. 358）
@@ -214,7 +215,7 @@ issuing_organization: ""
 
 > [!theory-components] 蔡今中第一假说的时代重构构件
 > - **网络搜索环境下的获益分化（Tsai, 2004 原初命题）**
->   网络环境具有开放性与非结构化特征，学习者需要自主检索与筛选；高阶认识论与丰富先验知识者能高效整合信息，低阶者在迷航中难以获益。（pp. 360–361）
+>   网络环境具有[[Open-Mindedness|开放性]]与非结构化特征，学习者需要自主检索与筛选；高阶认识论与丰富先验知识者能高效整合信息，低阶者在迷航中难以获益。（pp. 360–361）
 > - **生成式大模型环境下的修订命题（Modified Assertion 1）**
 >   大模型直接交付完整答案包。持有评价论且先验知识丰富者将输出视作工作假设并展开多轮压力测试；持有绝对论且缺乏先验知识者将其视作全知权威并直接照搬。（pp. 360–362）
 
@@ -301,7 +302,7 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **确立人机共享[[Epistemic Agency\|认识能动性]]共生[[Paradigm\|范式]]** 人机协同学习超越了传统工具使用逻辑，构成人机共享认识能动性的共生系统。人类学习者必须通过自适应[[Epistemic Stances\|认识立场]]的动态调适，坚守对知识有效性的实质裁决权。（pp. 358–360）
-> 2. **证实认识立场与先验知识对获益的双重调节（修订假说一）** 质性[[Dialogue in Education\|对话]]协议分析表明，持有评价论立场且先验知识丰富的学习者能够通过多轮深度质询实现知识增益；而缺乏先验知识且持绝对论立场的学习者容易陷入对大模型的盲从与[[Cognitive Offloading\|认知卸载]]。（pp. 360–364）
+> 2. **证实认识立场与先验知识对获益的双重调节（修订假说一）** 质性对话协议分析表明，持有评价论立场且先验知识丰富的学习者能够通过多轮深度质询实现知识增益；而缺乏先验知识且持绝对论立场的学习者容易陷入对大模型的盲从与[[Cognitive Offloading\|认知卸载]]。（pp. 360–364）
 > 3. **揭示立场演进对教学与技术支架的条件依赖（修订假说二）** 频繁的人机交互不会自发促进[[Epistemology\|认识论]]成熟。唯有将持续交互与溯源[[Scaffolding\|教学支架]]、同伴审议及[[Chain-of-Thought Prompting\|思维链]]等提示技术相结合，方能有效推动认识立场由绝对论向评价论演进。（pp. 364–366）
 > 4. **构建可落地的双轨干预操作矩阵** 提出了融合跨源比对、同伴研讨、[[Role-playing\|角色扮演]]提示与专业检索增强生成的系统性促学路径，为[[Generative Artificial Intelligence\|生成式人工智能]]时代的教学变革提供了理论依据与实践方案。（pp. 365–366）
 
@@ -309,10 +310,10 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card] 人机共享[[Epistemic Agency\|认识能动性]]与智力共同[[Growth\|生长]]
+> [!citation-card] 人机共享[[Epistemic Agency\|认识能动性]]与智力共同生长
 > 人类与[[Generative Artificial Intelligence\|生成式人工智能]]之间的共享认识能动性为双方的智力共同生长创造了契机。为了充分发挥这一潜力，学习者必须采纳自适应[[Epistemic Stances\|认识立场]]——即能够根据情境脉络、新信息与即时反馈动态演进的思维与知识互动方式。（p. 366）
 >
-> *This shared epistemic agency between humans and GenAI [[CREATES Project\|CREATES]] opportunities for mutual intellectual growth. To fully leverage this potential, learners must adopt an adaptive epistemic stance—ways of thinking about and engaging with knowledge that can evolve based on contextual scenarios, new information, and situational [[Feedback]]—for effective interaction with GenAI.*
+> *This shared epistemic agency between humans and GenAI [[CREATES Project\|CREATES]] opportunities for mutual intellectual [[Growth]]. To fully leverage this potential, learners must adopt an adaptive epistemic stance—ways of thinking about and engaging with knowledge that can evolve based on contextual scenarios, new information, and situational [[Feedback]]—for effective interaction with GenAI.*
 
 > [!citation-card] [[Scaffolding\|教学支架]]对认识立场重塑的决定性作用
 > 单纯频繁使用生成式人工智能对学习者认识立场的影响，高度取决于是否存在适宜的教学支架与反思机制。尽管生成式人工智能本身不会直接改变学习者的认识立场，但频繁交互、教学支架与学习者反思的结合，能够推动其认识立场的逐步演进。（pp. 364–366）

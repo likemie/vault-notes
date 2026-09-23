@@ -9,7 +9,7 @@ aliases:
 summary: "由卡罗尔·韦斯开创并经公共政策与教育研究发展的理论模型谱系，系统阐明学术研究进入政策与实践的非线性多元机制（知识驱动、问题解决、互动、政治、战术、启蒙及社会智识事业），奠定工具性、概念性与象征性使用三元分类的基础。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 58
+theory_related_count: 57
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Evaluation Research]]"
   - "[[Research Translation]]"
-  - "[[Dialogue in Education]]"
   - "[[Enlightenment]]"
   - "[[Research-Practice Partnership]]"
   - "[[Variable]]"
@@ -86,7 +85,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Research Utilization Models
@@ -134,7 +133,7 @@ updated: 2026-09-17
 > - **推导** Weiss (1979) 进而提出解构线性迷思的七种经典模型，并在 1991 年进一步提炼为四种过程范式：
 >   ① **知识驱动模型（Knowledge-Driven Model）** [[Blue Skies Research\|基础研究]] $\rightarrow$ [[Evaluation Research\|应用研究]] $\rightarrow$ 技术开发 $\rightarrow$ 成果应用，适用于强自然科学或工程[[Research Translation\|技术转化]]，但在复杂社会教育情境中往往受限；
 >   ② **[[Problem Solving\|问题解决]]模型（Problem-Solving Model）** 决策者面临明确待解难题 $\rightarrow$ 主动检索或委托针对性实证研究 $\rightarrow$ 研究提供最优方案 $\rightarrow$ 决策落地；
->   ③ **互动模型（Interactive Model）** 研究者、政策制定者、行政人员与一线教师处于非线性的多边[[Dialogue in Education\|对话]]网络中，研究证据与实践者的经验智慧、政治判断相互激荡与调适；
+>   ③ **互动模型（Interactive Model）** 研究者、政策制定者、行政人员与一线教师处于非线性的多边对话网络中，研究证据与实践者的经验智慧、政治判断相互激荡与调适；
 >   ④ **政治模型（Political Model）** 决策方案已由意识形态或既得利益预先确定，研究被选择性引用作为佐证论点、打击异见或增强合法性的“政治弹药”；
 >   ⑤ **战术模型（Tactical Model）** 政府或学校管理层以“正在委托专家开展深入研究”为由拖延决策、转移公众问责压力或展示虚假积极姿态；
 >   ⑥ **启蒙模型（[[Enlightenment]] Model）** 研究不提供立竿见影的处方，而是像水滴石穿一样弥散扩散，逐渐改变实践者的概念框架与对常识的理解；

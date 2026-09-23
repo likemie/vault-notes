@@ -22,13 +22,13 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Output-Oriented Governance]]"
-  - "[[Dialogue in Education]]"
   - "[[Official Knowledge]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Test-Based Accountability]]"
   - "[[Self-control]]"
   - "[[Academic Achievement]]"
   - "[[School Leadership]]"
+  - "[[Dialogue in Education]]"
   - "[[Moral Sidestep]]"
   - "[[Teacher Professional Agency]]"
   - "[[Evidence-Based Education]]"
@@ -91,7 +91,7 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> 学校督导（School Inspection）指由国家或地方政府法定授权的外部独立专门机构，依据预设的质量评估标准框架，通过现场进驻、推门听课、师生访谈、查阅档案与数据核验等综合手段，对中小学校的办学质量、教学效能、管理规范及法定合规状态开展系统审查、发布评级或诊断报告并触发相应行政响应的制度化外部评价机制（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]；[[Argument_Dedering_2009_EERJ\|Dedering, 2009]]）。在国际比较视野中，学校督导主要呈现三大治理[[Paradigm\|范式]]：一是英美体系下的**高利害惩罚性外部问责（Punitive External Accountability）**，强调单一等级评定、公开点名与强制托管转制；二是欧洲大陆（如德国各联邦州）模式下的**全域过程性质量诊断与支持（Diagnostic & Supportive School Monitoring）**，作为国家教育监测体系的核心支柱，通过对全量学校开展涵盖输入、过程与产出的全景视导，为单体薄弱学校改进与教育行政部门资源配置提供精准实证依据（[[Argument_Dedering_2009_EERJ\|Dedering, 2009, pp. 485]], 494）；三是[[Output-Oriented Governance\|产出导向治理]]现代化演进出的**目标协定与[[Dialogue in Education\|对话]]协商型督导（Target-Agreement & Dialogical Inspection）**，以[[Schulqualität Allgemeinbildung\|奥地利普通学校质量保障体系]]（Schulqualität Allgemeinbildung, SQA）为典型代表，督学由单向稽查者转向专业咨询伙伴，通过定期开展成效核算与目标协定[[Dialogue in Education\|对话]]（Bilanz- und Zielvereinbarungsgespräche），将国家质量标准转化为单校自主改进的发展合约（[[Argument_Altrichter_2019_ZfB\|Altrichter et al., 2019, pp. 19–20]]）。
+> 学校督导（School Inspection）指由国家或地方政府法定授权的外部独立专门机构，依据预设的质量评估标准框架，通过现场进驻、推门听课、师生访谈、查阅档案与数据核验等综合手段，对中小学校的办学质量、教学效能、管理规范及法定合规状态开展系统审查、发布评级或诊断报告并触发相应行政响应的制度化外部评价机制（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]；[[Argument_Dedering_2009_EERJ\|Dedering, 2009]]）。在国际比较视野中，学校督导主要呈现三大治理[[Paradigm\|范式]]：一是英美体系下的**高利害惩罚性外部问责（Punitive External Accountability）**，强调单一等级评定、公开点名与强制托管转制；二是欧洲大陆（如德国各联邦州）模式下的**全域过程性质量诊断与支持（Diagnostic & Supportive School Monitoring）**，作为国家教育监测体系的核心支柱，通过对全量学校开展涵盖输入、过程与产出的全景视导，为单体薄弱学校改进与教育行政部门资源配置提供精准实证依据（[[Argument_Dedering_2009_EERJ\|Dedering, 2009, pp. 485]], 494）；三是[[Output-Oriented Governance\|产出导向治理]]现代化演进出的**目标协定与对话协商型督导（Target-Agreement & Dialogical Inspection）**，以[[Schulqualität Allgemeinbildung\|奥地利普通学校质量保障体系]]（Schulqualität Allgemeinbildung, SQA）为典型代表，督学由单向稽查者转向专业咨询伙伴，通过定期开展成效核算与目标协定对话（Bilanz- und Zielvereinbarungsgespräche），将国家质量标准转化为单校自主改进的发展合约（[[Argument_Altrichter_2019_ZfB\|Altrichter et al., 2019, pp. 19–20]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向外部国家公权力对具有相对自主权的学校组织开展的常规或突击现场质量审查与行政裁决机制。
@@ -199,7 +199,7 @@ updated: 2026-09-18
 > 探讨定位于协商伙伴与发展罗盘的现代目标协定型督导，为何无法自然转化为普遍的学校改进动力，而是受制于校长群体内在的治理取向分化。
 
 > [!claim] Altrichter et al.
-> **目标协定督导的认知过滤与态度分化** [[Output-Oriented Governance\|产出导向治理]]试图通过引入督导目标协定与成效[[Dialogue in Education\|对话]]（如奥地利 [[Schulqualität Allgemeinbildung\|SQA]] 机制），将传统的行政监督转变为基于诊断证据的合作咨询；然而，微观实证表明，该机制在学校层面的落地绝非均质顺畅，而是深度取决于校长的治理认知取向。[[Cluster Analysis\|聚类分析]]显示，仅有高度认同数据反馈的循证型校长（占 27.5%）对督导目标协定表现出强烈认同，并将其视为驱动教学质量改进的核心支柱；相反，偏好传统行政拨款的资源型校长以及消极倦怠的弱发展型校长（合计占 72.5%）则对督导目标协定持怀疑、被动甚至防御性抵触态度。督导评价在不同校长群体间存在极显著的组间分异（[[Effect Size\|效应量]]达 $\omega^2 = 0.398$），表明协商型督导的治理实效受制于[[School Leadership\|学校领导]]者的微观认知把关。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 27–29)]]
+> **目标协定督导的认知过滤与态度分化** [[Output-Oriented Governance\|产出导向治理]]试图通过引入督导目标协定与成效对话（如奥地利 [[Schulqualität Allgemeinbildung\|SQA]] 机制），将传统的行政监督转变为基于诊断证据的合作咨询；然而，微观实证表明，该机制在学校层面的落地绝非均质顺畅，而是深度取决于校长的治理认知取向。[[Cluster Analysis\|聚类分析]]显示，仅有高度认同数据反馈的循证型校长（占 27.5%）对督导目标协定表现出强烈认同，并将其视为驱动教学质量改进的核心支柱；相反，偏好传统行政拨款的资源型校长以及消极倦怠的弱发展型校长（合计占 72.5%）则对督导目标协定持怀疑、被动甚至防御性抵触态度。督导评价在不同校长群体间存在极显著的组间分异（[[Effect Size\|效应量]]达 $\omega^2 = 0.398$），表明协商型督导的治理实效受制于[[School Leadership\|学校领导]]者的微观认知把关。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 27–29)]]
 
 > [!warrant]- 督导成效协定态度的群体分异实证
 > 对奥地利施泰尔马克州 362 名公立中小学校长的实证调查表明，将学校督导与质量对话（涵盖成效与目标协定、SQA 对话及督导反馈）提取为统一治理态度因子后，三类校长群体对督导的评价呈现极端极化：循证型校长群体的评价均值高达 3.73（$SD = 0.44$），资源型校长均值为 3.23（$SD = 0.48$），而弱发展型校长均值仅为 2.77（$SD = 0.46$）。单因素[[Analysis of Variance\|方差分析]]显示组间差异极其显著（$F(2, 335) = 111.45, p < .001$），且督导维度在所有五项治理工具中呈现出最高的分群区分度与方差解释力，证实学校督导作为治理杠杆的有效性高度取决于一线校长的专业价值立场。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, p. 28)]]
@@ -226,7 +226,7 @@ updated: 2026-09-18
 > - **1980–1990 年代 — [[New Public Management\|新公共管理]]与集中规制转向** 伴随撒切尔主义与新公共管理兴起，英国 1992 年设立独立于教育部的 [[Ofsted]]，欧洲各国相继成立中央督查署；督导职能从“同行指导”剧变为“量化审查、公开排列表与四级等级裁定”。
 > - **2000 年代 — 欧陆经验转向与过程督导确立** 伴随 [[PISA]] 冲击（[[PISA Shock\|PISA-Schock]]），德国各联邦州在[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（KMK）国家教育监测框架下，全面引入独立的外部学校督导（Schulinspektion / Schulvisitation）体系，通过对全域学校开展定期现场综合视导，作为沟通宏观国家标准与微观课堂教学改进的制度支柱。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, p. 485)]]
 > - **2010 年代初 — 严苛惩罚化与市场兼并工具化** 联合政府时期教育大臣[[Michael Gove\|迈克尔·戈夫]]高调宣称“磨利督导之剑”，将督导结果与强行转制赞助型学院学校挂钩，使督导成为拆解公立维持体制、推行私有化重组的行政执行令。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, p. 119)]]
-> - **2010 年代中叶 — 目标协定与协商[[Dialogue in Education\|对话]]型督导兴起** 伴随[[Output-Oriented Governance\|产出导向治理]]与单校自主深入推进，奥地利推行普通学校质量保障体系（[[Schulqualität Allgemeinbildung\|SQA]]），推动学校督导从单向规则核查转向督学与校长间的“成效与目标协定对话（Bilanz- und Zielvereinbarungsgespräche）”；然而实证研究揭示，协商型督导的实际采纳面临一线校长微观价值取向的显著极化与认知把关。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 27–29)]]
+> - **2010 年代中叶 — 目标协定与协商对话型督导兴起** 伴随[[Output-Oriented Governance\|产出导向治理]]与单校自主深入推进，奥地利推行普通学校质量保障体系（[[Schulqualität Allgemeinbildung\|SQA]]），推动学校督导从单向规则核查转向督学与校长间的“成效与目标协定对话（Bilanz- und Zielvereinbarungsgespräche）”；然而实证研究揭示，协商型督导的实际采纳面临一线校长微观价值取向的显著极化与认知把关。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 27–29)]]
 > - **2015 年至今 — [[Epistemology\|认识论]]解构与督导公信力反思** 学者深入揭示督导评级被异化为道德侧步与伪科学证据的修辞机制（[[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022]]），以及督导高压对循证实践的抑制（[[Argument_Cowen_2015_CHESS\|Cowen et al., 2015]]）；近年来一线校长悲剧与工会抗争推动各国反思单一等级制（Single-word Judgements），呼吁重归诊断性与合作式同行督导。
 
 ---
@@ -256,7 +256,7 @@ updated: 2026-09-18
 > > [!axis] 目标责任协定：发展赋能合约 vs 隐性行政控制
 > > 探讨督学与校长之间签订的成效与目标协定究竟是促进学校自主发展的专业赋能合约，还是行政意志在去规制外衣下的隐性延伸。
 > >
-> > - **赋能协商论** 认为平等的成效[[Dialogue in Education\|对话]]有助于打破传统督导的对立防卫情绪，使学校将外部宏观标准与本校微观规划有机融合。
+> > - **赋能协商论** 认为平等的成效对话有助于打破传统督导的对立防卫情绪，使学校将外部宏观标准与本校微观规划有机融合。
 > > - **隐性控制批判论** 指出由于校际资源与行政权力的非对称性，目标协定极易退化为下级对上级单向指标的被动认领，在微观层面引发不同价值取向校长的认知抵触与态度断裂。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 27–29)]]
 
 ---

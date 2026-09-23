@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Global Citizenship]]"
   - "[[Soft Power]]"
-  - "[[Dialogue in Education]]"
   - "[[Soft Power by Hard Facts]]"
 related_theories: []
 related_methods:
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-22
 ---
 
 # Global Education Monitoring Report
@@ -152,7 +151,7 @@ updated: 2026-09-12
 
 > [!lessons] 经验教训与启示
 > - **实施教训** 仅仅指出问题与资金赤字无法自动带来结构变革；必须将监测指标与受援国本土财政部、议会预算委员会的具体立法程序深度挂钩。
-> - **对未来改革的启示** 促使[[UNESCO\|联合国教科文组织]]强化与二十国集团（G20）、[[Global Partnership for Education\|全球教育伙伴关系]]（GPE）的政策[[Dialogue in Education\|对话]]机制，将 GEMR 的核查结论直接转化为多边发展融资配资的核心依据。
+> - **对未来改革的启示** 促使[[UNESCO\|联合国教科文组织]]强化与二十国集团（G20）、[[Global Partnership for Education\|全球教育伙伴关系]]（GPE）的政策对话机制，将 GEMR 的核查结论直接转化为多边发展融资配资的核心依据。
 
 ---
 

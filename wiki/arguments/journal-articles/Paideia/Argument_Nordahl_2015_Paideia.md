@@ -9,7 +9,7 @@ title: "Argument_Nordahl_2015_Paideia"
 argument_key: "Argument_Nordahl_2015_Paideia"
 argument_display_title: "Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Problem Solving]]"
   - "[[Homework]]"
-  - "[[Growth]]"
   - "[[Empiricism]]"
   - "[[Learning Gap]]"
   - "[[Transfer Translation Transformation]]"
@@ -147,7 +146,7 @@ citation_aliases:
 > 到这里，论证只剩最后一个需要收束的问题：如果有人说“教育首先是价值问题，不是证据问题”，该怎么办？
 >
 > 16. 这里的回答不是否认价值，而是指出：大多数教育系统在宏观目标上本来就没有那么大分歧，真正稀缺的不是价值口号，而是“怎样把这些价值落实成有效行动”的知识(pp.67–68)。
-> 17. 换句话说，“希望学生[[Growth\|成长]]”“希望学校更公平”“希望更多人学会”这些价值判断，本身并不能自动告诉教师该怎样教、怎样组织课堂、怎样支持学习。
+> 17. 换句话说，“希望学生成长”“希望学校更公平”“希望更多人学会”这些价值判断，本身并不能自动告诉教师该怎样教、怎样组织课堂、怎样支持学习。
 >
 > > 这就像大家都同意“要让病人康复”是一件好事，但这并不能代替对药物、治疗和护理方式的专业知识。教育里的“好价值”与“好做法”也不是同一回事。
 >

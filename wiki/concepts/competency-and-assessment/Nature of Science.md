@@ -8,7 +8,7 @@ aliases:
 summary: "对科学作为独特知识生产体系的认识论属性、社会文化嵌入性及其生成机理的元认知理解，区别于陈述性事实记忆与孤立操作技能，构成公民科学素养的重要基石。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -53,6 +53,7 @@ related_concepts:
 related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Cartiff_2021_JEP]]"
+  - "[[Argument_Zhang_2022_SE]]"
 related_theories:
   - "[[Inquiry Cycle]]"
   - "[[Cognitive Load Theory]]"
@@ -211,7 +212,7 @@ updated: 2026-09-22
 > > [!axis] [[Cognitive Load Theory\|认知负荷理论]]与探究教学在教学成效定义上的价值张力
 > > 争论聚焦于科学教学的成效评估究竟应当优先考察学科知识点提取速度，还是涵盖科学本质与[[Epistemology\|认识论]]素养。
 > >
-> > - **Zhang et al. (2022)** 聚焦特定学科事实记忆与程序解题技能，主张[[Direct Instruction\|直接讲授]]认知负荷最低且效率最高。
+> > - **[[Argument_Zhang_2022_SE|Zhang et al. (2022)]]** 聚焦特定学科事实记忆与程序解题技能，主张[[Direct Instruction\|直接讲授]]认知负荷最低且效率最高。
 > > - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** 强调全面的[[Scientific Literacy\|科学素养]]必须包含对科学本质的深层理解，直接讲授极易导致盲从权威的[[Scientism\|科学主义]]偏狭。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 10)]]
 
 > [!warning] 适用局限

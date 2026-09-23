@@ -32,13 +32,13 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Incommensurability]]"
   - "[[Going Native]]"
-  - "[[Growth]]"
   - "[[Direct Instruction]]"
   - "[[Document]]"
   - "[[Interaction Effect]]"
   - "[[Academic Achievement]]"
   - "[[Paradigm]]"
   - "[[Unit of Analysis]]"
+  - "[[Growth]]"
   - "[[Hawthorne Effect]]"
   - "[[Effective Teaching]]"
   - "[[Working Memory]]"
@@ -93,7 +93,7 @@ updated: 2026-09-22
 > - **边界** 容易受到低利害测试中的作答动机衰退、[[Floor and Ceiling Effects\|天花板效应]]、[[Attrition\|样本流失]]以及学科间[[Incommensurability\|不可通约性]]的干扰。
 
 > [!citation-card] 高等教育增值评估与探究教学中的学习增益归因
-> 学习增益被理解为学生在求学期间所实现的知识、技能、就业准备及个人发展的提升。英国高等教育拨款委员会（[[Higher Education Funding Council for England\|HEFCE]]）资助的“学习增益项目”将批判性思维作为多项增值试点研究的核心组成部分，采用标准化表现测试（如 [[Collegiate Learning Assessment\|CLA+]] [[Going Native\|本土化]]版）探索跨院校的能力[[Growth\|成长]]测度。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
+> 学习增益被理解为学生在求学期间所实现的知识、技能、就业准备及个人发展的提升。英国高等教育拨款委员会（[[Higher Education Funding Council for England\|HEFCE]]）资助的“学习增益项目”将批判性思维作为多项增值试点研究的核心组成部分，采用标准化表现测试（如 [[Collegiate Learning Assessment\|CLA+]] [[Going Native\|本土化]]版）探索跨院校的能力成长测度。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
 >
 > [[Direct Instruction\|直接教学]]倡导者声称探究教学中学生的学习增益完全来自程序中追加的直接解释，这是对实证[[Document\|文献]]的严重误读。[[Meta-analysis\|元分析]]表明，六类指导脚手架在促进学习增益上完全等价（平均提升 $d = 0.50$），直接讲授仅是六分之一，学习增益本质上源于结构化支架对认知负荷的适时调节。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 4)]]
 >
@@ -121,7 +121,7 @@ updated: 2026-09-22
 ## 核心要素
 
 > [!feature] 学习增益的核心测度取向与构成机制
-> - **实验干预的净因果增益识别** 在教学对比实验中，通过严格的[[Pre-test and Post-test\|前测]]基线控制与后测延迟测试，剔除先验知识与自然[[Growth\|成长]]影响，精准度量特定教学法诱发的认知结构变化。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 4, 8)]]
+> - **实验干预的净因果增益识别** 在教学对比实验中，通过严格的[[Pre-test and Post-test\|前测]]基线控制与后测延迟测试，剔除先验知识与自然成长影响，精准度量特定教学法诱发的认知结构变化。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 4, 8)]]
 > - **标准化通用认知测试（Standardized Cognitive Assessments）** 运用脱离具体专业事实的[[Higher-Order Thinking Skills\|高阶思维]]测评工具（如 [[Collegiate Learning Assessment\|CLA+]]、[[Collegiate Assessment of Academic Proficiency\|CAAP]]、[[Educational Testing Service\|ETS]] 档案），追踪[[Critical Thinking\|批判性思维]]、因果推理与[[Problem Solving\|问题解决]]的跨周期进阶。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
 > - **质性表现性量规与课程真实作品（Authentic Rubrics）** 追踪学生在学术论文、设计项目及毕业设计中基于表现性量规（如 [[VALUE Rubrics]]）的水平跨越，弥补客观测试对复杂学科素养的简化。
 > - **多层统计模型与残差剥离** 依托增值建模（Value-Added Modeling, VAM）控制学生社会经济背景（SES）、先验基础与同伴效应，提取纯净的教学增值量。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]

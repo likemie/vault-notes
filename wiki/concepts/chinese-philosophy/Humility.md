@@ -1,11 +1,10 @@
 ---
-title: Humility in Learning
+title: Humility
 aliases:
   - 谦虚
   - 谦逊
   - qian xun
-  - humility
-summary: "东亚学习传统中的核心美德，以谦逊为内在力量抵御自满，保持持续自省与学习动力"
+summary: 东亚学习传统中的核心美德，以谦逊为内在力量抵御自满，保持持续自省与学习动力
 type: concept
 domain: "chinese-philosophy"
 related_count: 8
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-24
+updated: 2026-09-23
 ---
 
 # Humility in Learning

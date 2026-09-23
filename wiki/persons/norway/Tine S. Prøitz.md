@@ -10,7 +10,7 @@ summary: "挪威著名教育科学学者，东南挪威大学（USN）教育科�
 type: person
 nationality: norway
 person_region: "norway"
-person_related_count: 36
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Third Space Discourse]]"
   - "[[International Education]]"
   - "[[Paradigm]]"
-  - "[[Dialogue in Education]]"
   - "[[Cumulative Knowledge Base]]"
   - "[[New Public Management]]"
   - "[[Policy Borrowing]]"
@@ -71,7 +70,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Tine S. Prøitz
@@ -98,7 +97,7 @@ updated: 2026-09-17
 > - **2000–2010 年** 获奥斯陆大学（University of Oslo）教育科学博士学位，早期聚焦北欧“知识促进改革”（Knowledge Promotion / Kunnskapsløftet）中学习成果（Learning Outcomes / læringsutbytte）政策转移与学校课程标准的比较实证研究。
 > - **2010–2017 年** 任教于挪威东南大学，升任教育科学教授；主持多项挪威国家研究理事会（NFR）资助的教育政策评价、教师评价素养与地方教育治理纵向课题。
 > - **2017–2021 年** 受邀担任瑞典中央政府国家级五年战略工程——瑞典发展、学习与研究试点项目（ULF）的首席独立评估专家，领衔对全国 25 所设立教师教育的高校与 150 多个地方自治市镇展开全景式追踪评估。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–217)]]
-> - **2021 年至今** 领衔撰写瑞典 ULF 国家评估专著报告；受邀参与[[OECD\|经合组织]]（OECD）[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI）跨国学术[[Dialogue in Education\|对话]]，在国际权威期刊发表多篇关于[[Third Space Discourse\|第三空间话语]]、实践本位科研制度化与全系统[[Cumulative Knowledge Base\|累积性知识库]]建构的前沿论著。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–220)]]
+> - **2021 年至今** 领衔撰写瑞典 ULF 国家评估专著报告；受邀参与[[OECD\|经合组织]]（OECD）[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI）跨国学术对话，在国际权威期刊发表多篇关于[[Third Space Discourse\|第三空间话语]]、实践本位科研制度化与全系统[[Cumulative Knowledge Base\|累积性知识库]]建构的前沿论著。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–220)]]
 
 ---
 
@@ -153,7 +152,7 @@ updated: 2026-09-17
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **[[Dialogue in Education\|对话]]与论辩学者** [[Vivian Tseng]] — [[William T. Grant Foundation\|格兰特基金会]]高级副总裁，双方在强调实践者主体地位、推进[[Democratising Evidence\|证据民主化]]与长效组织能力建设上高度共鸣。
+> - **对话与论辩学者** [[Vivian Tseng]] — [[William T. Grant Foundation\|格兰特基金会]]高级副总裁，双方在强调实践者主体地位、推进[[Democratising Evidence\|证据民主化]]与长效组织能力建设上高度共鸣。
 > - **对话与论辩学者** [[Mark Schneider]] — 美国[[Institute of Education Sciences\|教育科学研究院]]（IES）院长，施奈德主张严格因果实证规程，普勒茨则倡导实践本位协作与[[Third Space Discourse\|第三空间]]多元话语。
 > - **对话与论辩学者** [[Dirk Van Damme]] — 前 [[Centre for Educational Research and Innovation\|OECD CERI]] 主任，范达默关注学科自主性与学术自律，普勒茨则侧重跨越象牙塔与学校边界的协同机制。
 > - **依托国家项目** [[Swedish ULF Project]] — 担任其首席国家评估专家，对 25 所高校与 150 余市镇开展五年系统追踪。

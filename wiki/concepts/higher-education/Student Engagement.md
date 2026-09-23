@@ -9,7 +9,7 @@ aliases:
 summary: "学生在教育性活动中投入时间、精力与心智的综合构念，涵盖行为、情感、认知与认识论维度，受阶层文化习性制约，并作为连接教育环境与深层学业发展的核心中介机制。"
 type: concept
 domain: "higher-education"
-related_count: 36
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Academic Achievement]]"
   - "[[Reflexivity]]"
-  - "[[Growth]]"
   - "[[Critical Thinking]]"
   - "[[Hypothesis]]"
   - "[[Cultural Capital]]"
@@ -37,7 +36,6 @@ related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Homework]]"
-  - "[[Dialogue in Education]]"
   - "[[Scientific Uncertainty]]"
   - "[[Document]]"
   - "[[Epistemic Friction]]"
@@ -153,7 +151,7 @@ updated: 2026-09-22
 ### 命题一　学生投入是连接大学环境与教育产出的核心中介机制
 
 > [!concept-lens] 院校影响力与学生能动性
-> 大学提供的资源与平台并非自动转化为[[Growth\|成长]]；唯有通过学生将精力和时间实质性投入教育性实践，才能产出积极的学习成果与能力发展。
+> 大学提供的资源与平台并非自动转化为成长；唯有通过学生将精力和时间实质性投入教育性实践，才能产出积极的学习成果与能力发展。
 
 > [!claim] George Kuh; Pascarella & Terenzini
 > **投入的中介转化效应** 大量高等教育[[Longitudinal Study\|纵向研究]]证明，无论学生的入学成绩与前置基础如何，其在大学期间对学术研讨、深入阅读和师生互动的投入程度，均强力正向预测其认知发展、学业满意度、[[Critical Thinking\|批判性思维]]提升与毕业率（Pascarella & Terenzini, 2005; Kuh et al., 1991）。学校的核心使命在于优化制度设计以激发这种深层投入。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, pp. 112–114)]]
@@ -173,7 +171,7 @@ updated: 2026-09-22
 ### 命题三　人工智能环境下的表层情感与行为投入容易掩盖深层认识性投入的缺席
 
 > [!concept-lens] 智能交互生态与认知中介异化
-> 探讨生成式技术如何通过界面易用性与[[Dialogue in Education\|对话]]温度制造参与繁荣假象，分析认知动作剥离对实质心智投入的侵蚀。
+> 探讨生成式技术如何通过界面易用性与对话温度制造参与繁荣假象，分析认知动作剥离对实质心智投入的侵蚀。
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]
 > **表层交互活跃对深层认识性投入的遮蔽** 商业化教育系统常以用户留存、使用时长与即时互动频次作为“学生投入”的核心指标。然而，大语言模型的支持性语调与自适应答疑虽能显著提升学生的情感满意度与行为交互频次，却极易诱导“无摩擦的认知委托”：学生在界面上高频交互，但由于直接采纳算法生成的现成解释与框架，其在甄别证据缺陷、承受[[Scientific Uncertainty\|认知不确定性]]及反思论点漏洞等关键环节上的“认识性投入（Epistemic Engagement）”被完全置换。教育评估必须穿透表层的交互繁荣，聚焦检验学生是否真正开展了[[Evaluative Judgement\|评价性判断]]与深层思考。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 5–6, 8)]]
@@ -219,7 +217,7 @@ updated: 2026-09-22
 > > - **策略方向论（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）** 实证表明盲目泛化的高投入往往产生资源耗竭；明确的生涯目标牵引与阶段性策略聚焦，其发展回报远超无方向的时间消耗。
 >
 > > [!axis] 商业交互指标（Engagement Metrics） vs [[Epistemology\|认识论]]智力挣扎（[[Epistemic Friction]]）
-> > 教育技术界常将用户的在线时长、[[Dialogue in Education\|对话]]轮次与界面活跃度包装为“高度投入”。
+> > 教育技术界常将用户的在线时长、对话轮次与界面活跃度包装为“高度投入”。
 > >
 > > - **技术行为主义** 将使用频繁、回复快速与高满意度直接等同于高质量教学投入。
 > > - **认识论成熟立场（[[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026]]）** 批评这种表层投入切除了学生面对复杂问题时所必需的“思维摩擦”；若缺乏实质性的证据权衡与深层评价，高交互频次仅仅是逃避深度思考的伪投入。
@@ -246,7 +244,7 @@ updated: 2026-09-22
 > - **高校目标掌控者与直觉依赖者的分流案例（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）**
 >   学生泽斌（[[Goal-Controlled Mode\|目标掌控模式]]）清醒意识到课堂学习仅占其大学精力的一部分，策略性地将大量时间定向投入到实习和职业网络拓展中，最终获得高满意度出路；而学生牛铭（[[Intuition-Dependent Mode\|直觉依赖模式]]）同样付出了大量时间参与学生会，但因缺乏明确的方向性组织，导致宝贵精力被事务性活动严重分散，毕业时陷入迷茫。
 > - **人机协同课堂中“伪投入”辨析与反思干预（[[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026]]）**
->   某高校工程写作课发现，引入 AI [[Teaching Assistant\|助教]]后学生的平均[[Homework\|作业]]提交速度与界面聊天互动大幅增加，但在后续闭卷面对面答辩中，大量高频使用 AI 的学生无法解释方案的折中理由与核心推导链条。教师据此调整考核方案，强制要求学生在提交方案的同时汇报“与算法[[Dialogue in Education\|对话]]中的驳斥与分歧判定记录”，成功促发学生从表层行为互动转向深层的认识性投入。
+>   某高校工程写作课发现，引入 AI [[Teaching Assistant\|助教]]后学生的平均[[Homework\|作业]]提交速度与界面聊天互动大幅增加，但在后续闭卷面对面答辩中，大量高频使用 AI 的学生无法解释方案的折中理由与核心推导链条。教师据此调整考核方案，强制要求学生在提交方案的同时汇报“与算法对话中的驳斥与分歧判定记录”，成功促发学生从表层行为互动转向深层的认识性投入。
 
 ---
 

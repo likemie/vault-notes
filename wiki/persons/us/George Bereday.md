@@ -11,7 +11,7 @@ summary: "哥伦比亚大学师范学院比较教育学讲座教授，《比较�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 36
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Comparative History of Comparative Education]]"
   - "[[Scientific Explanation]]"
   - "[[Paradigm]]"
-  - "[[Dialogue in Education]]"
   - "[[Scientific Method]]"
   - "[[Critical Dualism]]"
   - "[[Variable]]"
@@ -154,7 +153,7 @@ updated: 2026-09-22
 > [!influence-path] 影响路径
 > - **方法论路径** 提出的描述-解释-并列-比较四步归纳法成为 20 世纪下半叶全球比较教育研究与研究生教学最通行的规范框架，搭建了古典历史主义向经验实证[[Paradigm\|范式]]过渡的支柱。
 > - **建制化与期刊路径** 创办并长期主持《比较教育评论》（CER），确立了严格的匿名同行评审制度；1964 年著作中对全球学者、院系与课程的绘制，为新兴学科奠定了可辨识的职业地图。
-> - **跨洲学术网络** 与英国的 Lauwerys 跨大西洋联合主持《世界教育年鉴》，联动拉美、东亚与欧洲学者，开创战后多元思想[[Dialogue in Education\|对话]]机制。
+> - **跨洲学术网络** 与英国的 Lauwerys 跨大西洋联合主持《世界教育年鉴》，联动拉美、东亚与欧洲学者，开创战后多元思想对话机制。
 > - **史学反思与肖像学解构** [[Robert Cowen\|罗伯特·考恩]]（Robert Cowen）指出，贝雷迪的学术叙事赋予了学科早期合法的历史感，但他本人的复杂学术生命长期被学科圣徒式的肖像叙事所遮蔽，亟待严肃的历史学家撰写批判性学术评传。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引

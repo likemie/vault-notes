@@ -6,7 +6,7 @@ aliases:
 summary: "保罗·弗莱雷在《被压迫者教育学》中提出的病态批判概念，指在教育与政治探讨中只有口头的理智觉察或批评、却剥离了改变不公现实的实质行动（Praxis）的异化现象。"
 type: concept
 domain: "educational-philosophy"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,7 +16,6 @@ tags:
   - verbalism
   - praxis
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Theory of Knowledge]]"
   - "[[Praxis]]"
   - "[[Active Learning]]"
@@ -32,7 +31,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Verbalism（言语主义 / 空谈）
@@ -42,7 +41,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> **言语主义（Verbalism）**由保罗·[[Paulo Freire\|弗莱雷]]在《被压迫者教育学》（2000）中确立。它指在教育与政治讨论中，[[Dialogue in Education\|对话]]被剥离了改变现实的行动（Action）而退化为纯粹的空谈或无意义的口头文字游戏。弗莱雷指出，真正的实践是“反思与行动的统一”，若只有反思而缺乏行动，对话就会异化为言语主义。[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 48, p. 81)]]
+> **言语主义（Verbalism）**由保罗·[[Paulo Freire\|弗莱雷]]在《被压迫者教育学》（2000）中确立。它指在教育与政治讨论中，对话被剥离了改变现实的行动（Action）而退化为纯粹的空谈或无意义的口头文字游戏。弗莱雷指出，真正的实践是“反思与行动的统一”，若只有反思而缺乏行动，对话就会异化为言语主义。[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 48, p. 81)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向只有理性觉察与嘴上批评、却拒绝或缺乏改变压迫结构实际行动的异化病态。
@@ -74,7 +73,7 @@ updated: 2026-09-17
 
 > [!feature] 核心要素
 > - **行动维度剥离（Deprivation of Action）** 讨论仅停留在理智觉察与口头批评。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 48)]]
-> - **假[[Dialogue in Education\|对话]]异化（Degeneration into Chatter）** 平等对话退化为象牙塔内的功利辩论或消遣聊天。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 81)]]
+> - **假对话异化（Degeneration into Chatter）** 平等对话退化为象牙塔内的功利辩论或消遣聊天。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 81)]]
 > - **维持压迫现状（Preservation of Status Quo）** 因无实质行动，客观上保留了被压迫者受剥削的现实。同上
 
 > [!logic-map]- 要素关系
@@ -94,7 +93,7 @@ updated: 2026-09-17
 
 ### 命题一　言语主义通过切断行动维度将对话异化为维持不公现状的假对话
 
-> [!concept-lens] [[Dialogue in Education\|对话]]与行动断层维度
+> [!concept-lens] 对话与行动断层维度
 > 探讨言语主义如何通过剥离社会实践，将教育反思退化为象牙塔内的空谈。
 
 > [!claim] [[Paulo Freire\|Freire, P.]]

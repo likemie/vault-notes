@@ -18,11 +18,11 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Banking Model of Education]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Growth]]"
   - "[[Active Learning]]"
   - "[[Conscientization]]"
-  - "[[Dialogue in Education]]"
   - "[[Problem-Posing Education]]"
+  - "[[Growth]]"
+  - "[[Dialogue in Education]]"
   - "[[Democratic Education]]"
   - "[[Paradigm]]"
   - "[[Freedom of the Learner]]"
@@ -50,17 +50,17 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 沉默文化（Culture of Silence）是[[Paulo Freire\|保罗·弗莱雷]]（Paulo Freire）在[[Critical Pedagogy\|批判教育学]]与扫盲实践中提炼的核心概念。它指被压迫者与受教育者在社会压迫结构及[[Banking Model of Education\|储蓄式教育]]的长期[[Disciplina and Doctrina\|规训]]下，丧失了对自身生活现实进行批判性审视与发声的权力，陷入被动接受统治者话语与价值认同的无声状态。在 Freire and Darwish (2009) 的论述中，真正[[Growth\|生长]]/成长与[[Active Learning\|主动学习]]的发生，本质上就是打破这一沉默文化、实现[[Conscientization\|批判意识觉醒]]并迈向实践的过程 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 7)]]。
+> 沉默文化（Culture of Silence）是[[Paulo Freire\|保罗·弗莱雷]]（Paulo Freire）在[[Critical Pedagogy\|批判教育学]]与扫盲实践中提炼的核心概念。它指被压迫者与受教育者在社会压迫结构及[[Banking Model of Education\|储蓄式教育]]的长期[[Disciplina and Doctrina\|规训]]下，丧失了对自身生活现实进行批判性审视与发声的权力，陷入被动接受统治者话语与价值认同的无声状态。在 Freire and Darwish (2009) 的论述中，真正生长/成长与[[Active Learning\|主动学习]]的发生，本质上就是打破这一沉默文化、实现[[Conscientization\|批判意识觉醒]]并迈向实践的过程 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 7)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示了被动受教不仅仅是认知层面的知识缺乏，更是政治与精神层面的被剥夺状态（被视作被动的客体 Objects）。
-> - **用途** 用于分析传统教育如何通过单向灌输消解学习者的批判主体性，以及解放教育如何通过[[Dialogue in Education\|对话]]与[[Problem-Posing Education\|提问式教育]]重建个体的声音与能动性。
+> - **用途** 用于分析传统教育如何通过单向灌输消解学习者的批判主体性，以及解放教育如何通过对话与[[Problem-Posing Education\|提问式教育]]重建个体的声音与能动性。
 > - **边界** 沉默文化并非被压迫者的天然属性，而是特定权力梯度与知识压迫所造成的社会后果。
 
 > [!citation-card]- 关键表述：打破沉默文化与成长的本质
 > 批判意识的觉醒与成长，意味着被压迫者不再作为他人决定的客体，而是打破‘沉默文化’，学会说出自己的词语、命名世界并改变世界。（Freire & Macedo, 1987, p. 159; 引自 Darwish, 2009, p. 7）
 >
-> *Growth can be understood as breaking away from the 'culture of silence' imposed upon the oppressed... (Freire & Macedo, 1987, p. 159; [[Argument_Darwish_2009_Queens\|Darwish, 2009, p. 7]])*
+> *[[Growth]] can be understood as breaking away from the 'culture of silence' imposed upon the oppressed... (Freire & Macedo, 1987, p. 159; [[Argument_Darwish_2009_Queens\|Darwish, 2009, p. 7]])*
 
 ---
 
@@ -90,7 +90,7 @@ updated: 2026-09-17
 
 > [!influence-path] 理论与实践路径
 > - **理论路径** 成为[[Critical Pedagogy\|批判教育学]]、去殖民化理论与后殖民研究中揭露政治与[[Hegemony\|文化霸权]]的核心概念。
-> - **实践路径** 指导解放性扫盲运动、社区赋权项目以及民主[[Dialogue in Education\|对话]]课堂的设计。
+> - **实践路径** 指导解放性扫盲运动、社区赋权项目以及民主对话课堂的设计。
 
 ---
 
@@ -99,7 +99,7 @@ updated: 2026-09-17
 > [!debates] 学术争议
 >
 > > [!axis] 古典教育哲学对“沉默”的合法化与现代批判
-> > 在《政治学》中，[[Aristotle\|亚里士多德]]曾赞同索福克勒斯的名言“沉默是女性的光彩”（*Politics* 1260a30），将女性与奴隶排除在批判思考之外 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 5)]]。弗莱雷与 Darwish (2009) 则指出，这种将特定阶层强加于“沉默”的传统正是[[Democratic Education\|民主教育]]与全员[[Growth\|生长]]所必须克服的封建藩篱。
+> > 在《政治学》中，[[Aristotle\|亚里士多德]]曾赞同索福克勒斯的名言“沉默是女性的光彩”（*Politics* 1260a30），将女性与奴隶排除在批判思考之外 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 5)]]。弗莱雷与 Darwish (2009) 则指出，这种将特定阶层强加于“沉默”的传统正是[[Democratic Education\|民主教育]]与全员生长所必须克服的封建藩篱。
 
 ---
 
@@ -115,4 +115,4 @@ updated: 2026-09-17
 > | [[Freedom of the Learner]] | 概念 | 摆脱沉默文化后的终极学习者自由状态。 |
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 结合[[Paulo Freire\|弗莱雷]]论述沉默文化的破除与[[Active Learning\|主动学习]]中的[[Growth\|生长]]/成长。
+> - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 结合[[Paulo Freire\|弗莱雷]]论述沉默文化的破除与[[Active Learning\|主动学习]]中的生长/成长。

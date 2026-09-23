@@ -32,7 +32,6 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
-  - "[[Dialogue in Education]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Epistemology]]"
   - "[[Critical Thinking]]"
@@ -84,7 +83,7 @@ title: "Argument_Knogler_2025_BB"
 argument_key: "Argument_Knogler_2025_BB"
 argument_display_title: "Clearing House Unterricht: Ein innovativer Ansatz zur Stärkung des Wissenschaft-Praxis-Transfers in der Lehrkräftebildung"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -105,7 +104,7 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 > [!concept-lens] 阅读透镜
 > - **对象** 德语区教师教育与职业教育（涵盖职前师范生、见习阶段实习教师与职后在岗培训），以及慕尼黑工业大学创立的[[Clearing House Unterricht\|德国教学研究清算中心]]（Clearing House Unterricht, CHU）中介转化实践。
 > - **张力** 学术[[Knowledge Production\|知识生产]]的理论旨趣与微观课堂教学即时操作诉求的脱节，以及海量文献信息过载与实践者专业文献筛选、解读能力受限之间的深刻矛盾。
-> - **贡献** 首次向德语职业教育界系统解构了欧陆首个教育证据清算中心的运行[[Paradigm\|范式]]；以数字化教学工具的实证元分析为例，详尽展现了从科研论文到实践简评的转译工艺；揭示其与[[Zentrum für internationale Bildungsvergleichsstudien\|德国国际教育比较研究中心]]（ZIB）构建的宏观系统监测与微观课堂有效性双轨中介机制；提炼出受众适配加工、乘数群体聚焦与非线性演进三大转化机制，为理论-实践[[Dialogue in Education\|对话]]提供了制度化样本。
+> - **贡献** 首次向德语职业教育界系统解构了欧陆首个教育证据清算中心的运行[[Paradigm\|范式]]；以数字化教学工具的实证元分析为例，详尽展现了从科研论文到实践简评的转译工艺；揭示其与[[Zentrum für internationale Bildungsvergleichsstudien\|德国国际教育比较研究中心]]（ZIB）构建的宏观系统监测与微观课堂有效性双轨中介机制；提炼出受众适配加工、乘数群体聚焦与非线性演进三大转化机制，为理论-实践对话提供了制度化样本。
 
 ---
 
@@ -214,7 +213,7 @@ Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表�
 > - **[[Primary and Secondary Documents\|原始文献]]基底** Hillmayr et al. (2020) 检索了 2000 年以来全球针对中学数学与自然科学教学的 92 项实验与准[[Experimental Research\|实验研究]]（$k = 92$），检验数字化工具对学生[[Academic Achievement\|学业成就]]与学科态度的影响。
 > - **转译标题主张化** 原始标题为学术性描述，CHU 简评将其改写为行动导向的实践发问：“课堂中的数字化工具：有哪些类型以及如何有效应用？”（*Digitale Tools im Unterricht: Welche Typen gibt es und wie kommen sie effektiv zum Einsatz?*）。
 > - **核心概念超级链接** 简评正文中所有专业统计术语均带有下划线，直接超链接至平台在线术语表（Online-Glossar），实现即时概念脚手架。
-> - **配套多媒体扩展** 简评右上角直接内嵌播客图标，受众可一键收听专访学者对该研究微观教学机制的深度[[Dialogue in Education\|对话]]。（p. 15）
+> - **配套多媒体扩展** 简评右上角直接内嵌播客图标，受众可一键收听专访学者对该研究微观教学机制的深度对话。（p. 15）
 
 在简要评价首页，清算中心将复杂的[[Meta-regression|元回归]]与[[Heterogeneity|异质性]]检验提炼为结构化决策参数：（p. 15）
 

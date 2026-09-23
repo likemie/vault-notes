@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 38
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Peer Mentoring]]"
   - "[[Classroom Management]]"
   - "[[Practice-Based Evidence]]"
-  - "[[Dialogue in Education]]"
   - "[[Professional Judgment]]"
   - "[[Causality]]"
   - "[[Positivism]]"
@@ -71,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 # Centre for the Use of Research and Evidence in Education
@@ -140,7 +139,7 @@ updated: 2026-09-15
 > - **重塑英国教师在职培训标准** 其关于“协作型专业学习”的实证证据被英国教育部直接吸纳为《教师专业发展标准》的核心支柱。
 
 > [!finding-cards] [[Paradigm\|范式]]贡献与专业赋权
-> - **引领国际[[Knowledge Mobilisation\|知识动员]]由“推送”走向“[[Dialogue in Education\|对话]]”** 早在全系统生态模型流行前，便率先倡导研究者与一线教师在平等学习对话（Dialogue）中共建知识。
+> - **引领国际[[Knowledge Mobilisation\|知识动员]]由“推送”走向“对话”** 早在全系统生态模型流行前，便率先倡导研究者与一线教师在平等学习对话（Dialogue）中共建知识。
 > - **捍卫教师[[Professional Judgment\|专业判断]]（Professional Judgment）** 强调研究证据必须与教师的临床专业判断相结合，避免证据被异化为新自由主义数字问责的考核标尺。
 
 > [!stat-cards]- 标志性数据与存续特征

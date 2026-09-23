@@ -9,10 +9,10 @@ summary: "美国教育政策学者，印第安纳大学布卢明顿分校（Indi
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 17
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 15
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1969"
 died: ""
 lifespan: "1969–至今"
@@ -28,14 +28,12 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Surplus of Evidence]]"
   - "[[Document]]"
-  - "[[Growth]]"
   - "[[Knowledge Production]]"
   - "[[Academic Achievement]]"
   - "[[Knowledge Mediation]]"
   - "[[Variable]]"
   - "[[Policy Borrowing]]"
   - "[[Policy Network]]"
-  - "[[Dialogue in Education]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -74,7 +72,7 @@ updated: 2026-09-22
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **学术[[Growth\|成长]]期** 在美国接受教育研究领域的系统培训，早期研究聚焦教育市场化与[[School Choice\|择校]]政策的实证效果，逐渐转向对教育政策[[Knowledge Production\|知识生产]]政治学的批判性反思。
+> - **学术成长期** 在美国接受教育研究领域的系统培训，早期研究聚焦教育市场化与[[School Choice\|择校]]政策的实证效果，逐渐转向对教育政策[[Knowledge Production\|知识生产]]政治学的批判性反思。
 > - **伊利诺伊大学时期** 担任 UIUC 教育政策系教授，建立教育智库与[[Policy Brokerage\|政策中介]]研究的系统研究议程；与 Sarah Lubienski 合作开展大规模的公立学校与私立学校[[Academic Achievement\|学业成绩]]比较研究。
 > - **2019 — 思想市场奠基[[Document\|文献]]** 发表《政策空间中的想法：教育政策中的智库与市场》（*The Idea of a Market in Education Policy*）系列研究，提出"教育思想市场"框架，系统揭示智库绕过学术同行评审直接渗透政策流程的机制。
 > - **印第安纳大学时期（至今）** 转至印第安纳大学布卢明顿分校担任教授，继续推进择校制度、私立化政策与政策[[Knowledge Mediation\|知识中介]]的跨国比较研究。
@@ -119,7 +117,7 @@ updated: 2026-09-22
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **理论[[Dialogue in Education\|对话]]** [[Gita Steiner-Khamsi]] — 直接援引 Lubienski（2019）关于"思想市场"的概念，用以分析全球教育治理中[[Policy Brokerage\|政策中介]]机构的意识形态性证据操作。
+> - **理论对话** [[Gita Steiner-Khamsi]] — 直接援引 Lubienski（2019）关于"思想市场"的概念，用以分析全球教育治理中[[Policy Brokerage\|政策中介]]机构的意识形态性证据操作。
 > - **合著伙伴** Sarah Lubienski — 长期合著者，共同开展公私立学校实证比较研究。
 > - **合著伙伴** Husain Malin（2022）— 共同提出"信息孤岛"概念，分析数字时代知识碎片化对政策理性的侵蚀。
 > - **学术环境** 美国教育政策研究学会（[[American Educational Research Association\|AERA]]）、印第安纳大学教育政策研究中心（Center for Evaluation & Education Policy）。

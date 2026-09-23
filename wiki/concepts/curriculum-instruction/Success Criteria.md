@@ -8,7 +8,7 @@ aliases:
 summary: "伴随学习意图向学生显性呈现的具体质性表现指标、证据特征与进阶阶梯，用于判定学生在何种程度上达成了预期的认知理解与能力目标"
 type: concept
 domain: "curriculum-instruction"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Learning Progression]]"
   - "[[Document]]"
   - "[[Creativity]]"
+  - "[[Open-Mindedness]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Success Criteria
@@ -151,7 +152,7 @@ updated: 2026-09-17
 > > [!axis] 精细化标准指引 vs 限制[[Creativity\|创造性]]发散
 > >
 > > - **标准化促进论** 认为标准越具体透明，弱势学生的学业差距缩小越明显，能最大限度消除隐性特权与认知模糊。
-> > - **过度规范批判论** 担忧过于微观具体的成功标准会将开放性探究矮化为机械照方抓药，削弱学生突破既定框架的探索精神与独创性。
+> > - **过度规范批判论** 担忧过于微观具体的成功标准会将[[Open-Mindedness|开放性]]探究矮化为机械照方抓药，削弱学生突破既定框架的探索精神与独创性。
 
 ---
 

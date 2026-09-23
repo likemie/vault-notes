@@ -5,7 +5,7 @@ aliases:
 summary: "从去殖民视角分析知识如何与全球权力空间共同构成的理论，强调西方认识论通过殖民差异维持支配并主张知识生产去殖民化"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 30
+theory_related_count: 29
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Cultural Hierarchy]]"
   - "[[Knowledge Transfer]]"
   - "[[Decodification]]"
-  - "[[Dialogue in Education]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Praxis]]"
   - "[[Knowledge-Based Economy]]"
@@ -120,7 +119,7 @@ updated: 2026-09-22
 
 > [!warning]
 > - [[Argument_Partaken_2022_Springer\|Partaken (2022)]] 批评后殖民 [[Geopolitics of Knowledge\|GPK]] 传统将[[Knowledge Production\|知识生产]]作为核心分析维度，而忽视了知识一旦被生产后进入的动态过程——[[Knowledge Transfer\|知识转移]]（挪用、传授、窃取、审查、破坏）才是[[Decodification\|解码]]当代新自由全球化中新殖民动力的关键([[Argument_Partaken_2022_Springer\|Partaken, 2022, pp.74–75]])
-> - 去殖民理论面临"如何在不重新陷入西方[[Epistemology\|认识论]]框架的前提下进行学术[[Dialogue in Education\|对话]]"的方法论困境——完全的"认识论不服从"可能导致自我隔离而非真正挑战霸权
+> - 去殖民理论面临"如何在不重新陷入西方[[Epistemology\|认识论]]框架的前提下进行学术对话"的方法论困境——完全的"认识论不服从"可能导致自我隔离而非真正挑战霸权
 
 ---
 

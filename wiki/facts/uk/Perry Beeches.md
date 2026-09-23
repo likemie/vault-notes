@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -29,7 +29,6 @@ tags:
 related_concepts:
   - "[[Teaching Assistant]]"
   - "[[Decodification]]"
-  - "[[Dialogue in Education]]"
   - "[[Homework]]"
   - "[[School Inspection]]"
   - "[[Evidence Standards]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Perry Beeches
@@ -81,7 +80,7 @@ updated: 2026-09-17
 
 > [!policy-design] 方案设计与教学规程
 > - **全要素阅读结构整合** 辅导聚焦学生在统考中的薄弱题型，将长篇论说文段落分析、高级学术词汇拆解与解题应对应答紧密结合。
-> - **一对一高强度师生互动** 助教手持结构化进度表，每天开展高频[[Dialogue in Education\|对话]]式精读，杜绝传统课后[[Homework\|作业]]托管的形式主义。
+> - **一对一高强度师生互动** 助教手持结构化进度表，每天开展高频对话式精读，杜绝传统课后[[Homework\|作业]]托管的形式主义。
 > - **校级[[School Inspection\|教学督导]]严格把关** 资深阅读学科主管每周抽检助教个案档案，动态调整辅导策略。
 
 > [!citation-card] 斯莱文论 Perry Beeches 助教辅导的稳健增益

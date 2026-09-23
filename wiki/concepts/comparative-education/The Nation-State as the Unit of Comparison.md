@@ -10,7 +10,7 @@ aliases:
 summary: "比较教育学古典历史-哲学母题与实证科学化的基石性认识论假定，将主权清晰、制度与文化边界同质的民族国家及其国民教育体系视为首要比较分析基准，在战后历经批判国家理论、多层分析立方体与反思方法论民族主义的范式重构。"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -55,6 +55,7 @@ related_persons:
   - "[[Andreas Kazamias]]"
   - "[[Matthew Arnold]]"
   - "[[Victor Cousin]]"
+  - "[[Christopher Martin]]"
 related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # The Nation-State as the Unit of Comparison
@@ -176,7 +177,7 @@ updated: 2026-09-22
 > [!dev-timeline] 概念演变
 > - **19 世纪中后期 — 现代民族国家公立教育创建与官方考察奠基** 维多利亚时代皇家学校督学[[Matthew Arnold\|马修·阿诺德]]（Arnold, 1864）与法国哲学家[[Victor Cousin\|库森]]将考察单位锚定于中央集权制的法国与普鲁士国家体系，论证唯有国家公共权威与主权干预才能奠定普遍国民[[Bildung\|教化]]。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 38)]]
 > - **1900–1950 年代 — 历史-哲学母题与民族国家[[Epistemology\|认识论]][[Paradigm\|范式]]确立** [[Michael Sadler\|萨德勒]]（1900）、[[Isaac Kandel\|坎德尔]]（1933）与汉斯（1949）将民族国家及其“国民教育体系”确立为跨国比较的公认首要认识论单位，以民族主义与[[National Character\|民族性格]]作为核心因果机制。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 40, 47–50)]]
-> - **1960–1970 年代 — 战后新兴国家冲击与批判性国家理论重塑** 亚非拉大批脱离殖民统治的新兴国家崛起；马丁·卡诺伊（Martin Carnoy）、萨莫夫与戴尔引入新马克思主义批判国家理论，将国家重构为调和资本积累、阶级利益与合法性危机的冲突竞技场。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 48, 52–53)]]
+> - **1960–1970 年代 — 战后新兴国家冲击与批判性国家理论重塑** 亚非拉大批脱离殖民统治的新兴国家崛起；[[Christopher Martin|马丁]]·卡诺伊（Martin Carnoy）、萨莫夫与戴尔引入新马克思主义批判国家理论，将国家重构为调和资本积累、阶级利益与合法性危机的冲突竞技场。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 48, 52–53)]]
 > - **1990 年代至今 — 布雷-托马斯多层分析立方体与反思[[Methodological Nationalism\|方法论民族主义]]** 马克·布雷与 R. 默里·托马斯（Bray & Thomas, 1995）提出打破单一国家容器的多层级比较分析立方体；罗杰·戴尔、考恩与诺沃亚等学者系统反思方法论民族主义，推动比较教育走向全球治理与超国家空间分析。
 
 ---

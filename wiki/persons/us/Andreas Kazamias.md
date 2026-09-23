@@ -7,7 +7,7 @@ summary: "希腊裔比较教育学者，倡导历史和人文主义视角与普�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 44
+person_related_count: 43
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Dialogue in Education]]"
   - "[[Technical Rationality]]"
   - "[[Construct]]"
   - "[[Comparative History of Comparative Education]]"
@@ -73,7 +72,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Andreas Kazamias
@@ -185,7 +184,7 @@ updated: 2026-09-17
 > [!person-network] 关系网络
 > - **学术导师** [[Robert Ulich\|罗伯特·乌利希]] — 哈佛大学博士导师，奠定其古典[[Bildung\|教化]]与文化通史研究根基。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 52)]]
 > - **同门学友** 保罗·纳什（Paul Nash）、亨利·珀金森（Henry Perkinson）、[[George Bereday\|乔治·贝雷迪]] — 共同构成乌利希哈佛弟子学术网络。
-> - **合作者** [[Robert Cowen\|罗伯特·考恩]] — 共同主编《比较教育学国际手册》（2009），展开长期跨大西洋与跨欧洲的学术合作与比较史学[[Dialogue in Education\|对话]]。
+> - **合作者** [[Robert Cowen\|罗伯特·考恩]] — 共同主编《比较教育学国际手册》（2009），展开长期跨大西洋与跨欧洲的学术合作与比较史学对话。
 > - **同行与对话者** [[Eleftherios Klerides\|埃莱夫塞里奥斯·克莱里德斯]]（Eleftherios Klerides） — 希腊裔比较教育同行，深化对 [[Comparative Education Society in Europe\|CESE]] 历史与希腊学派的梳理。
 > - **论辩对象** [[Harold Noah\|哈罗德·诺亚]]、[[Max Eckstein\|马克斯·埃克斯坦]]、[[Brian Holmes\|布赖恩·霍姆斯]]（Brian Holmes） — 围绕科学实证与人文历史传统展开长达数十年的方法论论战。
 > - **学术渊源与反思对象** [[Isaac Kandel\|艾萨克·坎德尔]]、[[Nicholas Hans\|尼古拉斯·汉斯]]、[[Michael Sadler\|迈克尔·萨德勒]] — 兼具同情理解与内部批判。

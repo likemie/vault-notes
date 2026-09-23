@@ -36,11 +36,11 @@ related_concepts:
   - "[[Document]]"
   - "[[Direct Instruction]]"
   - "[[Metacognition]]"
-  - "[[Knowledge Production]]"
   - "[[Concept Mapping]]"
   - "[[Dialogue in Education]]"
 related_theories:
   - "[[Situative Perspective]]"
+  - "[[Knowledge Building Theory]]"
 related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
 related_facts:
@@ -89,7 +89,7 @@ updated: 2026-09-21
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **2000 年代初 — 问题导向学习（PBL）理论集大成阶段** 系统解构 PBL 在激发内在动机、培养临床推理、[[Metacognition\|元认知监控]]与灵活[[Knowledge Production\|知识建构]]四个维度的运作机理，发表划时代权威综述。
+> - **2000 年代初 — 问题导向学习（PBL）理论集大成阶段** 系统解构 PBL 在激发内在动机、培养临床推理、[[Metacognition\|元认知监控]]与灵活[[Knowledge Building Theory|知识建构]]四个维度的运作机理，发表划时代权威综述。
 >   - **代表著作** *[[Problem-Based Learning]]: What and how do students learn?* (2004).
 > - **2007 年 — 支架理论与抗击认知负荷学派的里程碑论辩** 严格区分“无指导放任”与“具备[[Scaffolding\|脚手架]]支持的[[Inquiry-Based Learning\|指导式探究]]”，证明 PBL 与探究学习始终配备了高密度的认知支架，指责认知负荷派将探究等同于纯发现属于学术误导。
 >   - **代表著作** *Scaffolding and achievement in problem-based and inquiry learning: A response to Kirschner, Sweller, and Clark (2006)* (2007, 与 R. G. Duncan & C. A. Chinn 合著).

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23"
 argument_display_title: "Research Methods in Education · Ch23"
 argument_kind: "book-chapter"
-argument_related_count: 64
+argument_related_count: 63
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -34,7 +34,6 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
   - "[[Concept Mapping]]"
-  - "[[Dialogue in Education]]"
   - "[[Definition of Terms]]"
   - "[[Construct]]"
   - "[[Ecological Validity]]"
@@ -135,7 +134,7 @@ updated: '2026-09-18'
 > [!spectrum] 观察对象的连续体
 >
 > - **事实** 教室里的书籍数量、班级学生人数、特定时段内访问学校图书馆的学生人数，几乎不涉及主观判断
-> - **正在发生的事件** 师生[[Dialogue in Education\|对话]]量、偏离任务（off-task）的交谈量、小组合作量，需在观察前对什么是对话、什么是合作做出[[Definition of Terms\|操作性定义]]
+> - **正在发生的事件** 师生对话量、偏离任务（off-task）的交谈量、小组合作量，需在观察前对什么是对话、什么是合作做出[[Definition of Terms\|操作性定义]]
 > - **行为与品质** 教师的友善程度、攻击性行为的程度、学生间不合群行为的程度，高度依赖研究者的解释和判断
 
 > [!warning] 观察证据的模糊性

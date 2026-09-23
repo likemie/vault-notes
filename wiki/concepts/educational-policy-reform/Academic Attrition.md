@@ -11,7 +11,7 @@ aliases:
 summary: "在校学生在完成既定学业或获得法定文凭证书之前非自愿或自愿脱离学校教育系统的现象，由制度性惩戒排斥、高利害问责推挤、学业挫败及社会经济压力等多维机制引发，是教育公平、学校治理与辍学预防的核心议题"
 type: concept
 domain: "educational-policy-reform"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Initial Teacher Training]]"
   - "[[Self-Efficacy]]"
   - "[[Hypothesis]]"
-  - "[[Growth]]"
   - "[[Academic Achievement]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Mentorship]]"
@@ -61,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Academic Attrition
@@ -178,7 +177,7 @@ updated: 2026-09-18
 ### 命题三　学业留级惩戒不仅未能弥合学业鸿沟反而成为中途辍学最强烈的预测源
 
 > [!concept-lens] 补救政策失效维度
-> 评估试图通过强制学业留级（Grade Retention）来巩固基础知识的政策[[Hypothesis\|假设]]，在面对学[[Growth\|生长]]期成长轨迹时的实证有效性。
+> 评估试图通过强制学业留级（Grade Retention）来巩固基础知识的政策[[Hypothesis\|假设]]，在面对学生长期成长轨迹时的实证有效性。
 
 > [!claim] [[John Hattie\|Hattie, J.]]
 > **留级惩戒对学业轨迹的毁灭性反弹** [[John Hattie\|约翰·哈蒂]]（John Hattie, 2005）综合多项大规模[[Meta-analysis\|元分析]]考证指出，学业留级对学生[[Academic Achievement\|学业成就]]的[[Effect Size\|效应量]]为负值（$d = -0.16$），是基础教育中极少数具有确凿破坏性效果的干预措施之一。强制留级不仅无法提供差异化教学支持，反而通过身份污名化破坏了学生的自我概念，并在社交层面上切断了同龄人归属感。纵向追踪证实，遭遇过留级的学生在初高中阶段发生学业流失（辍学）的风险是同等学业起点非留级学生的数倍，成为诱发长期学业流失的直接催化剂。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 12)]]

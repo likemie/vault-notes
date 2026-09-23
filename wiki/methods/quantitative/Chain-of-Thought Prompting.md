@@ -25,13 +25,13 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemology]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Dialogue in Education]]"
   - "[[Paradigm]]"
   - "[[Document]]"
   - "[[Externalization]]"
   - "[[Problem Solving]]"
   - "[[Variable]]"
   - "[[Metacognition]]"
+  - "[[Open-Mindedness]]"
   - "[[Cognitive Offloading]]"
   - "[[Epistemic Stances]]"
   - "[[Critical Thinking]]"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Chain-of-Thought Prompting
@@ -88,7 +88,7 @@ updated: 2026-09-22
 
 > [!method-stack] 方法层级
 > - **研究设计** 人工智能教育应用（AIEd）、人机协同学习实验、提示工程对比研究。
-> - **数据收集** 人机多轮[[Dialogue in Education\|对话]]日志、思维链提示模板、分步推理评分量规。
+> - **数据收集** 人机多轮对话日志、思维链提示模板、分步推理评分量规。
 > - **分析方法**
 >   - 零样本思维链（Zero-Shot CoT，如提示语 `"Let's think step by step"`）
 >   - 少样本思维链（Few-Shot CoT，在提示中提供 2–3 个带分步推理的标准范例）
@@ -127,7 +127,7 @@ updated: 2026-09-22
 > [!tension-table] 思维链提示及相近技术提示策略对比
 > | 提示[[Paradigm\|范式]] | 输入构造特征 | 认知负荷要求 | 典型适用情境 | 优势与局限 |
 > |---|---|---|---|---|
-> | **零样本思维链（Zero-Shot CoT）** | 在指令后附加启发词（如 `"Let's think step by step"`） | 极低（无需准备范例） | 初步探究、开放性概念推演 | 简便高效，但复杂统计计算中稳定性弱于少样本 |
+> | **零样本思维链（Zero-Shot CoT）** | 在指令后附加启发词（如 `"Let's think step by step"`） | 极低（无需准备范例） | 初步探究、[[Open-Mindedness\|开放性]]概念推演 | 简便高效，但复杂统计计算中稳定性弱于少样本 |
 > | **少样本思维链（Few-Shot CoT）** | 在 Prompt 中提供 2–3 个包含输入、分步推理与答案的高质量示范 | 中等（需人工设计范例） | 格式化数理证明、公式推导与代码编写 | 准确率极高，但受提示词上下文窗口与示范偏差限制 |
 > | **[[Role-playing\|角色扮演]]思维链（Role-Playing CoT）** | 设定大模型特定身份（如“统计学导师”）并要求按步引导 | 低至中等 | 先验知识薄弱学生的渐进式辅导 | 语言风格亲和、降低焦虑，但需防范角色泛化偏差 |
 > | **检索增强思维链（RAG-CoT）** | 将分步推理与外部知识库动态检索深度绑定 | 高（需外挂数据库支持） | 高利害学术核验、防算法幻觉 | 事实准确度最高，能有效阻断伪逻辑链条 |

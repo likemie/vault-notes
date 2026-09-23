@@ -10,7 +10,7 @@ aliases:
 summary: "评价抽象构念的界定、操作化与所得证据是否共同支持预期解释；涵盖测量工具、实验操纵、质性范畴、课程评估以及宏观政策认证体系（MTMM收敛与判别效度），防范构念不足呈现与无关方差污染。"
 type: concept
 domain: "research-methodology"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Hypothesis]]"
   - "[[Conatus]]"
+  - "[[Open-Mindedness]]"
   - "[[Evidence-Based Education]]"
   - "[[Fade-out Effect]]"
   - "[[Theory of Knowledge]]"
@@ -87,7 +88,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Construct Validity
@@ -157,7 +158,7 @@ updated: 2026-09-17
 > [!framework-table] 构念效度两大核心威胁表现
 > | 威胁类型 | 威胁本质与产[[Conatus\|生机]]制 | 典型教育与测量实例 | 防范与修正策略 |
 > |:---|:---|:---|:---|
-> | **构念不足呈现（Construct Underrepresentation）** | 操作化范围过窄，遗漏了目标构念的重要核心维度，导致测量只能捕捉构念的一小部分 | 数学素养测验仅考察四则运算计算速度，完全遗漏数学建模、推理与问题解决能力([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, p. 225]])；ToK 课程声称培养批判性思维却未考核假设检验与来源质疑([[Argument_Hughes_2014_JRIE\|Hughes, 2014, pp. 40–43]]) | 依据理论蓝图拓宽任务形态，增加开放性表现评估与复杂真实任务 |
+> | **构念不足呈现（Construct Underrepresentation）** | 操作化范围过窄，遗漏了目标构念的重要核心维度，导致测量只能捕捉构念的一小部分 | 数学素养测验仅考察四则运算计算速度，完全遗漏数学建模、推理与问题解决能力([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, p. 225]])；ToK 课程声称培养批判性思维却未考核假设检验与来源质疑([[Argument_Hughes_2014_JRIE\|Hughes, 2014, pp. 40–43]]) | 依据理论蓝图拓宽任务形态，增加[[Open-Mindedness\|开放性]]表现评估与复杂真实任务 |
 > | **构念无关方差（Construct-Irrelevant Variance）** | 测量过程中混入了与目标构念无关的外在因素，这些外在因素系统性影响了最终得分或评价结果 | 纯数学应用题包含大量生僻词汇，导致学生的阅读理解障碍直接拉低数学成绩；或评价项目时评审者偏好商业包装而非实际效果 | 实施无障碍设计、降低非必要语言负荷、采用标准化盲审机制 |
 
 ---

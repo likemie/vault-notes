@@ -3,9 +3,9 @@ summary: "实践认识论分析（Practical Epistemological Analysis, PEA）由�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 33
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 31
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
 title: "Practical Epistemology Analysis"
 aliases:
@@ -22,12 +22,10 @@ related_concepts:
   - "[[Practical Epistemology]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Epistemology]]"
-  - "[[Dialogue in Education]]"
   - "[[Scaffolding]]"
   - "[[Unit of Analysis]]"
   - "[[Construct]]"
   - "[[Rich and Thick Description]]"
-  - "[[Growth]]"
   - "[[Academic Achievement]]"
   - "[[Reflexivity]]"
   - "[[Hypothesis]]"
@@ -70,7 +68,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 方法定义
-> [[Practical Epistemology\|实践认识论]]分析（Practical Epistemological Analysis, PEA）是一种立足于维特根斯坦（Ludwig Wittgenstein）语言游戏理论与[[Pragmatic Paradigm\|实用主义]][[Epistemology\|认识论]]的质性微观[[Discourse Analysis\|话语分析]]方法。该方法由佩尔-奥洛夫·威克曼（Per-Olof Wickman, 2004）与莱夫·厄斯特曼（Leif Östman, 2014）创立，旨在通过微观考察课堂日常[[Dialogue in Education\|对话]]与操作性行动，追踪参与者如何就地（in situ）协商何者算作有效知识。PEA 将分析焦点从静态的心智信念转向动态的行动认识论，通过识别立足点（`Stand Fast`）、认知裂隙（`Gaps`）与关系建立（`Relations`），系统刻画学习者在面对反常或新现象时意义建构的具体推进轨迹。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 149–150)]]
+> [[Practical Epistemology\|实践认识论]]分析（Practical Epistemological Analysis, PEA）是一种立足于维特根斯坦（Ludwig Wittgenstein）语言游戏理论与[[Pragmatic Paradigm\|实用主义]][[Epistemology\|认识论]]的质性微观[[Discourse Analysis\|话语分析]]方法。该方法由佩尔-奥洛夫·威克曼（Per-Olof Wickman, 2004）与莱夫·厄斯特曼（Leif Östman, 2014）创立，旨在通过微观考察课堂日常对话与操作性行动，追踪参与者如何就地（in situ）协商何者算作有效知识。PEA 将分析焦点从静态的心智信念转向动态的行动认识论，通过识别立足点（`Stand Fast`）、认知裂隙（`Gaps`）与关系建立（`Relations`），系统刻画学习者在面对反常或新现象时意义建构的具体推进轨迹。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 149–150)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 课堂教学互动中的口头交谈、具身手势、实验操作以及实物媒介（如地图、天球仪、仪器读数）。
@@ -91,7 +89,7 @@ updated: 2026-09-22
 > - **知识观** 知识不是储存在大脑中的静态命题信念，而是在具体社群中通过言语、工具与行动被提出、使用与检验的实践成就。
 > - **研究者角色** 研究者采取“行动中的科学”（science-in-the-making）的[[Ethnography\|人种志]]观察立场，不预设绝对的规范性标准，而是关注参与者自身在互动中如何界定何者算作有效证据。
 > - **有效性标准** 依托微观多模态[[Transcription in Qualitative Research\|转录]]的[[Rich and Thick Description\|厚描述]]、语料情境的完整还原、团队交叉[[Coding in Qualitative Research\|编码]]的一致性检验，以及同伴审议（[[Peer Debriefing]]）。
-> - **不声称回答的问题** 不能直接测量学生去情境化的普遍心智发展阶段，亦不用于量化统计学[[Growth\|生长]]期[[Academic Achievement\|学业成绩]]的净增长值。
+> - **不声称回答的问题** 不能直接测量学生去情境化的普遍心智发展阶段，亦不用于量化统计学生长期[[Academic Achievement\|学业成绩]]的净增长值。
 
 > [!method-stack] 方法层级
 > - **研究设计** 微观交互[[Ethnography\|人种志]]、课堂[[Discourse Analysis\|话语分析]]、实验室微观[[Observation Method\|观察研究]]。
@@ -106,7 +104,7 @@ updated: 2026-09-22
 > [!proc] 通用程序
 > 1. **确定微观互动事件** 选取师生或同伴围绕某一探究任务（如重力测量、振动规律、化学反应）展开的完整话语片段。
 > 2. **进行多模态精细[[Transcription in Qualitative Research\|转录]]** 将口头言语、停顿、语调高低、身体手势、仪器操作与教具移动同步转录为对应行。
-> 3. **执行 PEA 核心四元[[Coding in Qualitative Research\|编码]]** 逐句标定[[Dialogue in Education\|对话]]中的立足点（`Stand Fast`）、认知裂隙（`Gaps`）、建立关联（`Relations`）与情境碰撞（`Encounters`）。
+> 3. **执行 PEA 核心四元[[Coding in Qualitative Research\|编码]]** 逐句标定对话中的立足点（`Stand Fast`）、认知裂隙（`Gaps`）、建立关联（`Relations`）与情境碰撞（`Encounters`）。
 > 4. **绘制意义建构轨迹** 梳理学生如何通过建立新关联填补裂隙，或者旧有关联为何失效从而引发新的认知裂隙。
 > 5. **提炼教学互动机制** 分析教师介入话语（如元话语提示）或实物工具如何引导学生克服裂隙，形成结论性解释。
 
@@ -148,7 +146,7 @@ updated: 2026-09-22
 > - **适合使用** 
 >   - 探究科学课堂中微观意义建构与概念转变的即时发生过程；
 >   - 分析具身动作、物理教具与数字传感器在学生推理中的中介作用；
->   - 考察教师在师生[[Dialogue in Education\|对话]]中如何通过提问与元话语有效搭建[[Epistemology\|认识论]]支架。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 149–150)]]
+>   - 考察教师在师生对话中如何通过提问与元话语有效搭建[[Epistemology\|认识论]]支架。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 149–150)]]
 > - **谨慎使用** 
 >   - 教师主导的纯讲授式大班教学（学生自发言语极少，难以捕捉裂隙与关联建构）；
 >   - 缺乏高质量录像与多模态[[Transcription in Qualitative Research\|转录]]条件的二手研究。

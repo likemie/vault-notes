@@ -7,7 +7,7 @@ summary: "一种批判理论驱动的研究方法，与社区和群体一起而�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 14
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Dialogue in Education]]"
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
@@ -38,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-16
-updated: 2026-07-11
+updated: 2026-09-22
 ---
 
 # Participatory Research
@@ -71,7 +70,7 @@ updated: 2026-07-11
 
 > [!method-stack] 方法层级
 > - **研究设计** 参与式[[Action Research\|行动研究]]、社区发展研究。
-> - **数据收集** [[Dialogue in Education\|对话]]、普查数据、大众戏剧、集体讨论等替代性资料收集方式；传统调查和访谈如有助益亦可使用。
+> - **数据收集** 对话、普查数据、大众戏剧、集体讨论等替代性资料收集方式；传统调查和访谈如有助益亦可使用。
 > - **分析方法** 社区集体分析、参与式阐释。
 > - **辅助技术** 意识提升、动员、社区组织。
 
@@ -97,7 +96,7 @@ updated: 2026-07-11
 > 1. **直接受益** 研究项目——过程和结果——可以立即和直接地造福社区，而非仅仅作为学术论文的基础。
 > 2. **全程参与** 社区应参与整个研究过程，从问题制定到结果解释再到基于结果的纠正行动规划。
 > 3. **教育经验** 研究过程应被视为整体教育经验的一部分，用于确定社区需求、增强对问题的意识和解决方案的承诺。
-> 4. **[[Dialogue in Education\|对话]]过程** 研究应被视为一个辩证过程、一个持续的对话，而非某一时点的静态现实快照。
+> 4. **对话过程** 研究应被视为一个辩证过程、一个持续的对话，而非某一时点的静态现实快照。
 > 5. **解放创意潜力** 研究对象，如同教育对象一样，应是解放人类创意潜力和动员人力资源解决社会问题。
 > 6. **意识形态意涵** 研究具有意识形态意涵——重新确认我们所做一切的政治性质。允许大众参与和增强分析能力的研究也将使冲突性行动成为可能或必要。
 
@@ -106,7 +105,7 @@ updated: 2026-07-11
 ## 资料与分析
 
 > [!method-stack] 资料与分析摘要
-> - **资料类型** [[Dialogue in Education\|对话]]、大众戏剧（concientization）、社区普查数据、口述历史、集体叙事。
+> - **资料类型** 对话、大众戏剧（concientization）、社区普查数据、口述历史、集体叙事。
 > - **资料质量** 重视本土知识的有效性而非外部专家的验证标准；注意资料是否真正反映了社区的声音而非研究者的预判。
 > - **分析策略** 社区集体分析——参与者而非研究者主导意义赋予；BRYCESON 等（2005, p. 183）将其描述为"三管齐下的活动：社会调查方法、发展行动手段和动员发展的教育过程，三者紧密交织"。
 > - **质量控制** 社区成员验证分析的准确性和适切性；行动效果的持续追踪。

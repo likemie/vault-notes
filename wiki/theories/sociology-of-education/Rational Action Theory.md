@@ -7,7 +7,7 @@ aliases:
 summary: "以相对风险规避为核心机制解释不同阶层教育选择差异的中层理论，主张教育决策是阶级条件下对成本、风险和收益的理性计算"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 20
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Determinism]]"
   - "[[Paradigm]]"
-  - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
@@ -47,7 +46,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Rational Action Theory
@@ -58,7 +57,7 @@ updated: 2026-09-17
 > - **解释对象** 不同社会阶级在教育获得上的持续差异——为什么家庭背景在控制学业能力后仍然系统性地影响教育选择。
 > - **理论问题** 教育决策究竟是阶级文化的自动复制，还是阶级约束条件下的理性选择？如果教育扩张增加了所有人的机会，为什么阶级间教育获得的相对差距始终未能缩小？
 > - **理论类型** 中层理论——以相对风险规避为核心机制，连接微观的个体理性决策与宏观的阶级分层结构。Breen & Goldthorpe（1997）的模型最具影响力。
-> - **知识位置** 属于理性选择理论在社会分层研究中的应用传统，与马克思主义的结构[[Determinism\|决定论]]、自由主义的现代化预期和文化理论的价值内化构成四种竞争解释。在文化社会学[[Paradigm\|范式]]争论中，[[Remote Associates Test\|RAT]] 是"价值选择过程"理论讨论的[[Dialogue in Education\|对话]]方之一（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）。
+> - **知识位置** 属于理性选择理论在社会分层研究中的应用传统，与马克思主义的结构[[Determinism\|决定论]]、自由主义的现代化预期和文化理论的价值内化构成四种竞争解释。在文化社会学[[Paradigm\|范式]]争论中，[[Remote Associates Test\|RAT]] 是"价值选择过程"理论讨论的对话方之一（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）。
 
 > [!claim] 核心主张
 > 不同社会阶级的成员在做出教育决策时，基于各自阶级位置的约束条件，对成本、风险和收益进行系统性不同的理性计算。决策的首要目标不是最大化回报，而是**避免向下社会流动**——优势阶级为了维持现有位置必须投入更多教育资源，弱势阶级则在有限资源下对风险更加敏感（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Breen & Goldthorpe, 1997；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 37, 85–87]]）。
@@ -164,7 +163,7 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian]] — 将 [[Remote Associates Test\|RAT]] 纳入文化社会学[[Paradigm\|范式]]争论，作为"价值选择过程"的理论讨论[[Dialogue in Education\|对话]]方之一，指出其工具理性[[Hypothesis\|假设]]的文化社会学局限
+> - [[Argument_Zheng_2023_ShanghaiSanlian]] — 将 [[Remote Associates Test\|RAT]] 纳入文化社会学[[Paradigm\|范式]]争论，作为"价值选择过程"的理论讨论对话方之一，指出其工具理性[[Hypothesis\|假设]]的文化社会学局限
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]] — 以 Goldthorpe（2007）的七步案例展示 RAT 如何通过排除竞争理论、确立假设和三组证据集群的检验来解释阶级差异的持续存在
 
 ---

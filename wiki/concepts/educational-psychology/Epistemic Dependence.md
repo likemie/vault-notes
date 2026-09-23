@@ -8,7 +8,7 @@ aliases:
 summary: "学习者在知识获取、解释生成与判断辩护等任务中依赖外部系统的认识关系，在人工智能介入下被区分为保有反思质疑的生产性依赖与剥离评价性判断的有害性依赖。"
 type: concept
 domain: "educational-psychology"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Feedback Literacy]]"
   - "[[Paradigm]]"
-  - "[[Growth]]"
   - "[[Homework]]"
   - "[[Working Memory]]"
   - "[[AI Literacy]]"
@@ -49,6 +48,7 @@ related_concepts:
 related_theories:
   - "[[Extended Mind Theory]]"
   - "[[Epistemic Injustice]]"
+  - "[[Formative Epistemic Injustice]]"
 related_methods:
   - "[[Lateral Reading]]"
   - "[[Triangulation]]"
@@ -60,10 +60,11 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Du_Yuan_2026_AIS]]"
+  - "[[Argument_Smith_2026_SPE]]"
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Epistemic Dependence
@@ -211,8 +212,8 @@ updated: 2026-09-22
 >   大学本科生在撰写社会科学[[Literature Review\|文献综述]]时，使用生成式 AI 直接生成段落初稿。随后，该生直接向 AI 提问该论证是否有力以及所引用的理论框架是否切题。此时，学生不仅将初级信息检索外包，更将判断学术质量高下的**评价性判断（Evaluative Judgement）**全盘委托给算法。当期末教师要求其进行闭卷口头答辩并解释论证推理链条时，学生完全无法阐释结论的推导过程（可恢复性为零），且面对表层题设微调的新情境时推理彻底崩溃（可迁移性瓦解），构成典型的有害性认识依赖。
 > - **案例二：多源[[Feedback Literacy\|反馈素养]]重塑与对抗性查错规程中的生产性依赖构建（[[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026, p. 8]]）**
 >   在研究生方法学课程中，教师引导学生利用 AI 诊断实证研究设计。教学规程禁止学生直接照搬 AI 的修改建议，而是要求学生同步收集来自同行、导师与 AI 的三方反馈，并执行对抗性查错任务（Adversarial Inquiry）：主动追问 AI 遗漏了哪些边缘反例、套用了何种量化实证[[Hypothesis\|假设]]，以及若置于质性人类学[[Paradigm\|范式]]下该建议是否依然成立。学生必须撰写反思决策日志，详细辩护为何采纳或拒绝特定建议。在此过程中，AI 充当了激发深度比对的反思催化剂，学生的质疑能力与评价素养得到显著强化，转化为高度的生产性认识依赖。
-> - **案例三：高校平台默认集成与边缘群体的[[Growth\|成长]]性[[Epistemic Injustice\|认识不正义]]（[[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026, pp. 6–8]]）**
->   某综合性大学在全校学习管理系统（Learning Management System, LMS）中统一部署商业大语言模型写作助手，将其设定为学生[[Homework\|作业]]提交前的默认润色与评分通道。系统设置了 AI 润色通过率，由于系统训练数据以主流白人中产阶级英语学术语料为主，系统自动将少数族裔与国际学生的文化隐喻、非母语修辞及地方性历史经验判定为低质量语言表述，并强制改写为标准套话。更为严苛的是，校方在学术规范条例中单向规定学生必须签署使用自负其责承诺书，对 AI 润色后的所有引用真实性负全部责任，而采购部门与厂商对算法黑箱免于任何审计与连带责任。这不仅压制了知识的多样性，更剥夺了边缘群体建立自我认知认同的发展机会，演变为体制化的成长性认识不正义（Smith, 2026）。
+> - **案例三：高校平台默认集成与边缘群体的成长性[[Epistemic Injustice\|认识不正义]]（[[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026, pp. 6–8]]）**
+>   某综合性大学在全校学习管理系统（Learning Management System, LMS）中统一部署商业大语言模型写作助手，将其设定为学生[[Homework\|作业]]提交前的默认润色与评分通道。系统设置了 AI 润色通过率，由于系统训练数据以主流白人中产阶级英语学术语料为主，系统自动将少数族裔与国际学生的文化隐喻、非母语修辞及地方性历史经验判定为低质量语言表述，并强制改写为标准套话。更为严苛的是，校方在学术规范条例中单向规定学生必须签署使用自负其责承诺书，对 AI 润色后的所有引用真实性负全部责任，而采购部门与厂商对算法黑箱免于任何审计与连带责任。这不仅压制了知识的多样性，更剥夺了边缘群体建立自我认知认同的发展机会，演变为体制化的[[Formative Epistemic Injustice|成长性认识不正义]]（[[Argument_Smith_2026_SPE|Smith, 2026]]）。
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "Allan Best 与 Bob J. Holmes (2010) 提出的知识利用理论分析框架，将研究与政策行动的联结划分为线性推动模型（第一代）、关系型协同生产模型（第二代）与系统生态学模型（第三代），解释了国际组织与国家从单向证据推销转向区域枢纽与制度吸收容量建设的演进逻辑。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 39
+theory_related_count: 38
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Evidence Ecosystem]]"
   - "[[Epistemology]]"
-  - "[[Dialogue in Education]]"
   - "[[Heterogeneity]]"
   - "[[Global Education Governing Complex]]"
   - "[[Epistemic Stances]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Knowledge-to-Action Models
@@ -113,7 +112,7 @@ updated: 2026-09-17
 > [!proposition-chain] 核心命题一｜从单向推送到双向协同的演进突破了传统知识供需二元分立
 > - **前提一** 第一代线性模型将知识视为孤立、现成的科学真理，假定只要改善信息包装与传播技巧，政策制定者便会依循理性原则自动采纳（Best & Holmes, 2010）。
 > - **前提二** 现实中决策者面临严重的认知超载与政治歧义性，缺乏情境相关性的单向研究报告极易沦为案头摆设，造成严重的知识未充分利用。
-> - **前提三** 第二代模型引入关系主义[[Epistemology\|认识论]]，主张知识并非单向转移的商品，而是在研究者与官员的持续[[Dialogue in Education\|对话]]、利益协商中协同生成的产物。
+> - **前提三** 第二代模型引入关系主义[[Epistemology\|认识论]]，主张知识并非单向转移的商品，而是在研究者与官员的持续对话、利益协商中协同生成的产物。
 > - **推导** ① 单向知识推销遭遇政策端冷遇 → ② 中介机构意识到证据接受度取决于供需双方的信任与协同 → ③ 驱动[[Policy Brokerage\|政策中介]]从“单纯的知识分发”转向“定制化的[[Knowledge Co-production\|知识共创]]与伙伴合作”。
 
 > [!proposition-chain] 核心命题二｜第三代系统生态学模型确立了程序化证据吸收与长期中介基础设施的决定性作用

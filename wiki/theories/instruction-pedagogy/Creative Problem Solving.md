@@ -8,7 +8,7 @@ aliases:
 summary: "由奥斯本与帕内斯创立的经典结构化认知干预模型，通过理解挑战、生成观念与准备行动三大阶段六大循环，交替实施发散与收敛思维以系统解决不良结构问题。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 28
+theory_related_count: 29
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Metacognition]]"
+  - "[[Open-Mindedness]]"
   - "[[Paradigm]]"
   - "[[Construct]]"
   - "[[Critical Thinking]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Creative Problem Solving
@@ -154,7 +155,7 @@ updated: 2026-09-17
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 结构不良的开放性工程挑战、商业方案策划、社会议题探究与创意写作。
+> - **适合解释** 结构不良的[[Open-Mindedness|开放性]]工程挑战、商业方案策划、社会议题探究与创意写作。
 > - **谨慎使用** 高度结构化、存在唯一标准答案的机械计算与事实记忆型任务。
 > - **常见误用** 将 CPS 简化为“仅在会议室喊口号式的无约束[[Brainstorming\|头脑风暴]]”，忽略了前期[[Problem Finding\|问题发现]]与后期严格收敛评估的决定性作用；或过度机械化套用步骤导致学生产生“工具依从性”，阻碍直觉与远迁移。
 

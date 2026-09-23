@@ -9,10 +9,10 @@ aliases:
 summary: "源自古希腊城邦文明的整全公民培育与灵魂转向哲学，统合智性沉思、伦理德性与审美和谐，是西方全人教育与比较教育以人为本（anthropos）思想史传统的始源母题。"
 type: concept
 domain: "educational-philosophy"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/paideia
   - theme/humanism
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Culture Générale]]"
   - "[[Liberal Education]]"
-  - "[[Growth]]"
   - "[[Examined Life]]"
   - "[[Academic Freedom]]"
   - "[[Paradigm]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Paideia
@@ -87,7 +86,7 @@ updated: 2026-09-17
 > *...when Bildung in Germany, Culture Générale in France, Liberal Education in England or Klassiki Paedeia in Greece had basically the same ultimate aim; the preparation of intellectually, morally and aesthetically cultivated individuals, allegedly capable and willing to provide good service to their country and to mankind.*
 
 > [!boundary] 概念边界
-> - 不等于 **现代微观学校教育（Schooling）** 学校教育以规定年限、班级授课、课程达标与文凭证书为核心机制；而 Paideia 是统摄终生的精神[[Growth\|生长]]、城邦文化浸润与文明传承。
+> - 不等于 **现代微观学校教育（Schooling）** 学校教育以规定年限、班级授课、课程达标与文凭证书为核心机制；而 Paideia 是统摄终生的精神生长、城邦文化浸润与文明传承。
 > - 不等于 **纯粹书本知识记忆（Instruction / Didactics）** Paideia 要求心智认知与肉身实践（体育、音乐、修辞演说）的合一，反对脱离公共伦理行动的孤立知识记诵。
 > - 不等于 **近现代民族国家意识形态灌输** 虽具有强烈的公民培育取向，但 Paideia 的哲学顶点是超越特定统治权力的至善（The Good）、真理追求与自省生活（[[Examined Life]]）。
 

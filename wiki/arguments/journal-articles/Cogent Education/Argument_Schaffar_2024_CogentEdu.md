@@ -10,7 +10,7 @@ title: "Argument_Schaffar_2024_CogentEdu"
 argument_key: "Argument_Schaffar_2024_CogentEdu"
 argument_display_title: "Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Open-Mindedness]]"
   - "[[Dialogue in Education]]"
   - "[[Epochal Key Problems]]"
   - "[[Ontology]]"
@@ -82,7 +83,7 @@ updated: 2026-06-22
 
 > [!concept-lens]- 阅读透镜
 > - **对象** 芬兰基础教育国家核心课程中的 PhBL 政策话语、背后的教育思想史脉络，以及赫尔辛基大学的 SveaSus 教学实验案例 (pp.1–3)
-> - **张力** [[Phenomenology\|现象学]]与[[Bildung\|教化]]传统主张的生活世界体验整体性、开放性和内在价值，与新自由主义全球治理下以经济和测量为导向的技能拆分及绩效问责之间的冲突 (pp.9–10)
+> - **张力** [[Phenomenology\|现象学]]与[[Bildung\|教化]]传统主张的生活世界体验整体性、[[Open-Mindedness|开放性]]和内在价值，与新自由主义全球治理下以经济和测量为导向的技能拆分及绩效问责之间的冲突 (pp.9–10)
 > - **贡献** 澄清了国际社会对芬兰取消学科的普遍误读，从概念考古学和知识社会学视角揭示了 PhBL 课程化背后的新自由主义悖论，为理解跨学科课程改革的政策风险提供了[[Analytic Framework\|分析框架]] (pp.2, 9–11)
 
 ---
@@ -153,7 +154,7 @@ updated: 2026-06-22
 > - **具身与主体间性的教学含义** 例如在 SveaSus 项目中，学生在风吹雨打的芬兰堡岛屿上用双脚行走，亲手触摸历史石墙并感受空气的冷冽，这展现了**具身学习**。在小组合作讨论如何保护遗产地时，他们分享彼此的担忧、信任与困惑，在共同的时空交互中建立集体责任感，这展现了学习中的**主体间性**。(pp.1, 4)
 
 > [!warrant]- 推理桥梁：体验的存在论本质
-> 现象学为 PhBL 奠定了存在论（Ontological）基石。既然世界是通过主观与主体间性的具身经验构成的，那么真正的学习就不能被简化为外在的、碎片化的指标测量，而必须是一场人与世界之间终身的存在性[[Dialogue in Education\|对话]]。(p.4)
+> 现象学为 PhBL 奠定了存在论（Ontological）基石。既然世界是通过主观与主体间性的具身经验构成的，那么真正的学习就不能被简化为外在的、碎片化的指标测量，而必须是一场人与世界之间终身的存在性对话。(p.4)
 
 ---
 
@@ -216,7 +217,7 @@ updated: 2026-06-22
 > 当代由新自由主义主导的全球教育行业（[[Global Education Industry]], GEI）强调可测量结果与绩效问责（Accountability），导致了课程知识的技能原子化（Atomisation of Skills），与 PhBL 追求的整体性、存在性价值存在不可调和的制度张力。(pp.9–10)
 
 > [!tension] 整体性教育 vs. 技能原子化
-> - **整体性与存在性学习** 现象学与教化传统主张，学习是具身、情感与伦理交互的整体旅程。PhBL 引导学生面对生活世界的复杂真实挑战（如可持续发展），鼓励批判性、开放性的共同反思（[[Disciplina and Doctrina\|doctrina]] / 教学与更新）。(pp.4, 9–10)
+> - **整体性与存在性学习** 现象学与教化传统主张，学习是具身、情感与伦理交互的整体旅程。PhBL 引导学生面对生活世界的复杂真实挑战（如可持续发展），鼓励批判性、[[Open-Mindedness|开放性]]的共同反思（[[Disciplina and Doctrina\|doctrina]] / 教学与更新）。(pp.4, 9–10)
 > - **技能原子化与绩效问责** 全球绩效评估与问责体系要求将课程分解为细小、可测量、标准化且可交易的技能指标。学生和教师沦为政府数据中的度量衡，抹杀了学习的开放性与主体间意义（disciplina / 规训）。(pp.9–10)
 
 > [!warrant]- 推理桥梁：治理工具对教学理想的吞噬

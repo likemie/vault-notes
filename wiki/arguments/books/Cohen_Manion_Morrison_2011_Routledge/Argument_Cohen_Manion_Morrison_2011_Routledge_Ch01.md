@@ -83,7 +83,6 @@ related_concepts:
   - "[[Decodification]]"
   - "[[Homework]]"
   - "[[Reliability]]"
-  - "[[Dialogue in Education]]"
   - "[[Knowledge Production]]"
   - "[[External Validity]]"
   - "[[Multiplicity]]"
@@ -95,7 +94,6 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Going Native]]"
   - "[[Artefact]]"
-  - "[[Growth]]"
   - "[[Metacognition]]"
 related_theories:
   - "[[Thomas Theorem]]"
@@ -106,6 +104,7 @@ related_theories:
   - "[[Critical Theory]]"
   - "[[Phenomenology]]"
   - "[[Symbolic Interactionism]]"
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Ethogenic Approach]]"
   - "[[Grounded Theory]]"
@@ -131,7 +130,6 @@ related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 related_persons:
   - "[[Aristotle]]"
-  - "[[Anthony Giddens]]"
   - "[[Abraham Maslow]]"
   - "[[Jürgen Habermas]]"
   - "[[Carl Rogers]]"
@@ -142,6 +140,7 @@ related_persons:
   - "[[Thomas Kuhn]]"
   - "[[Thomas Barr Greenfield]]"
   - "[[Auguste Comte]]"
+  - "[[Anthony Giddens]]"
   - "[[Keith Morrison]]"
   - "[[Karl Popper]]"
   - "[[Peter Medawar]]"
@@ -157,6 +156,7 @@ related_persons:
   - "[[John Rex]]"
   - "[[Basil Bernstein]]"
   - "[[John W. Creswell]]"
+  - "[[Christopher Martin]]"
   - "[[Stuart Kauffman]]"
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
@@ -234,7 +234,7 @@ updated: 2026-09-09
 >   - **范式理论与方法论统摄** 库恩范式概念的界定与科学共同体；科学发展的动态循环（常规科学、反常积累、危机、科学革命与范式转换）；天文学、物理学与社会科学的历史案例；[[Incommensurability\|不可通约性]]论辩与教育研究“[[Paradigm Wars\|范式战争]]”。
 >   - **社会实在的两种构想与哲学[[Hypothesis\|假设]]** Burrell & Morgan 的四组核心假设沿主观–客观维度的展开（[[Nominalism\|唯名论]] vs 实在论、反实证 vs 实证、[[Voluntarism\|唯意志论]] vs [[Determinism\|决定论]]、表意法 vs 通则法，复刻 Figure 1.1）；Barr Greenfield 诠释社会实在的替代基础（哲学基础、社会科学角色、社会实在单位、理解方式、理论、研究、方法论、社会、组织、组织病理学、变革处方，复刻 Table 1.1）。
 > - **实证范式及其系统清算（第4–5节）**
->   - **[[Positivism\|实证主义]]的逻辑与[[Scientific Method\|科学方法]]** 孔德实证主义源流；[[Anthony Giddens\|吉登斯]]两大核心假定；科学的四大信仰假设（[[Determinism\|决定论]]、[[Empiricism\|经验主义]]、[[Principle of Parsimony\|简约原则]]、普遍性）；Mouly 经验科学五步法；静态知识累积观 vs 动态启发发现观；[[Abraham Maslow\|马斯洛]]科学九大功能（复刻 Box 1.1）；理论的本质、Morrison 三类理论谱系及对[[Grand Theory\|宏大理论]]“拜占庭式建筑辉煌但科学贫瘠”的批判；有效经验理论九大准则；科学家的核心工具（概念系统性与 Kerlinger/Medawar 假说论，复刻 Box 1.2）；科学发展的六个阶段（复刻 Box 1.3）与 Hitchcock & Hughes 八阶段科学方法模型（复刻 Box 1.4）。
+>   - **[[Positivism\|实证主义]]的逻辑与[[Scientific Method\|科学方法]]** 孔德实证主义源流；吉登斯两大核心假定；科学的四大信仰假设（[[Determinism\|决定论]]、[[Empiricism\|经验主义]]、[[Principle of Parsimony\|简约原则]]、普遍性）；Mouly 经验科学五步法；静态知识累积观 vs 动态启发发现观；[[Abraham Maslow\|马斯洛]]科学九大功能（复刻 Box 1.1）；理论的本质、Morrison 三类理论谱系及对[[Grand Theory\|宏大理论]]“拜占庭式建筑辉煌但科学贫瘠”的批判；有效经验理论九大准则；科学家的核心工具（概念系统性与 Kerlinger/Medawar 假说论，复刻 Box 1.2）；科学发展的六个阶段（复刻 Box 1.3）与 Hitchcock & Hughes 八阶段科学方法模型（复刻 Box 1.4）。
 >   - **对实证主义与科学方法的系统批判** 机械还原论与生命经验的剥离；克尔凯郭尔存在主义批判：客观性幻觉与主观性能力的拯救；Ions 与 Horkheimer 反计算崇拜与数学化批判；Roszak 疏离论；Hampden-Turner 保守外在偏见批判；法兰克福学派与[[Jürgen Habermas\|哈贝马斯]][[Scientism\|科学主义]]批判、工具理性危机与维特根斯坦格言；社会科学内部的三重方法论反思：主体-主体前诠释世界、乔姆斯基行为主义批判与能动-结构张力、受控实验的实验室“合成木偶剧”琐碎化风险。
 > - **[[Interpretive Paradigm\|诠释范式]]与第三次方法论运动（第6–7节）**
 >   - **自然主义与诠释范式进路** 人本主义心理学（[[Carl Rogers\|罗杰斯]]全人模式）与“[[Anthropomorphic Model\|人的科学]]”[[Anthropomorphic Model\|拟人化模型]]（[[Rom Harré\|Harré]] & Secord “把人当作人类来对待”）；行为分析的事件分析法（[[Ethogenic Approach\|ethogenic]] method）；教室互动案例[[Rich and Thick Description\|深描]]：“草莓事件”与 [[Flanders Interaction Analysis Categories\|FIAC]] 机械分类 7-4-9-10 的破产（复刻 Box 1.5）；自然主义与质性探究的 11 项核心特征（含[[Thomas Theorem\|托马斯定理]]情境定义）；Douglas [[Normative Paradigm\|规范范式]]（行为/过去因果/宏大理性大厦）vs 诠释范式（行动/未来意向/[[Grounded Theory\|扎根理论]]与多面图像）；三大质性传统（胡塞尔[[Epoché\|悬置]]与舒茨意识流、[[Reflexivity\|反思性]]、[[Typification\|类型化]]及多重实在；加芬克尔日常推理质疑、[[Indexicality\|索引性]]与反思性、语言 vs 情境两流派；米德/布卢默/[[Peter Woods\|伍兹]]三大公理与五大互动焦点）；诠释范式的四重学术批判（Rex 虚假意识与客观视角、Bernstein 权力不对称与结构忽视、微观封闭与活动剧场局限、主观报告不可靠与自证预言）。
@@ -443,7 +443,7 @@ updated: 2026-09-09
 
 #### 4.1 实证主义的源流与核心假设
 
-实证主义（Positivism）的历史渊源可追溯至古希腊哲学，但作为独立的方法论体系，是由19世纪法国哲学家[[Auguste Comte|奥古斯特·孔德]]（Auguste Comte）正式奠立的（Beck, 1979）。孔德力倡通过直接经验观察与理性实验来理解人类行为，以此创立了实证社会学。安东尼·吉登斯（Anthony Giddens）指出，实证主义建立在两大预设之上（Giddens, 1975）：
+实证主义（Positivism）的历史渊源可追溯至古希腊哲学，但作为独立的方法论体系，是由19世纪法国哲学家[[Auguste Comte|奥古斯特·孔德]]（Auguste Comte）正式奠立的（Beck, 1979）。孔德力倡通过直接经验观察与理性实验来理解人类行为，以此创立了实证社会学。[[Anthony Giddens|安东尼·吉登斯]]（Anthony Giddens）指出，实证主义建立在两大预设之上（Giddens, 1975）：
 
 > [!assumptions] 实证主义社会学的两大核心假定（Giddens, 1975）
 > - **方法论统一假定（Methodological monism）** 自然科学的研究程序、操作原则与实验逻辑，可以直接且完整地迁移应用于社会科学探究。
@@ -709,7 +709,7 @@ updated: 2026-09-09
 > - **反思性（Reflexivity）**
 >   对情境的描述与该情境本身不可分割且互为因果，描述本身即构成了维系该情境秩序的一环。
 > - **常人方法学的两大流派**
->   聚焦[[Dialogue in Education\|对话]]未言明规则的语言常人方法学，与通过故意打破日常惯例（破坏性实验）以洞悉潜在隐性规则的情境常人方法学。
+>   聚焦对话未言明规则的语言常人方法学，与通过故意打破日常惯例（破坏性实验）以洞悉潜在隐性规则的情境常人方法学。
 
 ##### 6.5.3 符号互动论（Symbolic Interactionism）
 
@@ -740,7 +740,7 @@ updated: 2026-09-09
 
 20世纪晚期教育研究界爆发的“范式战争”造成了学科共同体的撕裂。随着研究实践的深化，学者们日益意识到将探究粗暴二分为“量化”与“质性”不仅缺乏实际建设性，更严重禁锢了[[Knowledge Production|知识生产]]的潜能（Gorard & Smith, 2006）。由阿巴斯·塔沙克里（Abbas Tashakkori）、查尔斯·特德利（Charles Teddlie）、约翰·克雷斯威尔（[[John W. Creswell]]）等学者领衔的[[Mixed Methods Research|混合方法研究]]，被公认为继[[Quantitative Research|量化研究]]与[[Qualitative Research|质性研究]]之后的**第三次方法论运动**与**第三种研究范式（Johnson & Onwuegbuzie, 2004; Denscombe, 2008）**。
 
-混合方法研究摒弃非黑即白的范式不可通约性教条，主张认识论层面的兼容互补（Ercikan & Roth, 2006）。安东尼·翁乌埃格布齐（Anthony Onwuegbuzie）与南希·里奇（Nancy Leech）主张，应当以确证性探究与探索性探究来重构量质对立，以方法论实用主义取代方法论清教徒主义（Onwuegbuzie & Leech, 2005a）。马丁·登斯库姆（Martyn Denscombe）提炼了混合方法研究所带来的四大务实效能（Denscombe, 2008）：
+混合方法研究摒弃非黑即白的范式不可通约性教条，主张认识论层面的兼容互补（Ercikan & Roth, 2006）。安东尼·翁乌埃格布齐（Anthony Onwuegbuzie）与南希·里奇（Nancy Leech）主张，应当以确证性探究与探索性探究来重构量质对立，以方法论实用主义取代方法论清教徒主义（Onwuegbuzie & Leech, 2005a）。[[Christopher Martin|马丁]]·登斯库姆（Martyn Denscombe）提炼了混合方法研究所带来的四大务实效能（Denscombe, 2008）：
 
 > [!success] 混合方法研究的四大实效（Denscombe, 2008）
 > - **提升数据准确性与核验效度** 通过多元资料来源与交叉[[Triangulation\|三角验证]]，显著降低单一方法的测量偏倚。
@@ -868,7 +868,7 @@ updated: 2026-09-09
 弗雷德里克·詹姆逊（Fredric Jameson）在《晚期资本主义的文化逻辑》中系统阐发的后现代思潮，深刻重构了教育探究的认识论视野（Jameson, 1991；pp. 735–768）：
 
 > [!feature] 后现代主义影响教育探究的 11 项核心特征
-> - **解构宏大叙事与知识建构性**
+> - **解构宏大叙事与[[Knowledge Building Theory|知识建构]]性**
 >     - **1. 摒弃宏大叙事** 彻底消解任何企图涵盖一切的元叙事与普适性行为法则。
 >     - **2. 历史感消解与当下自指** 聚焦当下正在发生的意义建构，警惕历史决定论。
 >     - **3. 视知识为社会建构物** 否定外在于人类实践的“纯粹客观知识”，强调认知的协商性。
@@ -909,7 +909,7 @@ updated: 2026-09-09
 
 > [!theory-components] 复杂适应系统（CAS）的五大核心运作机制
 > - **反馈机制**
->   系统内部元素交互呈现复杂的递归反馈。**负反馈**产生调节与阻尼效应（如得知考试不及格引发的稳态调节）；**正反馈**则产生持续放大微小初始变化的乘数效应（Stacey, 1992; Wheatley, 1999），带来指数级的爆发[[Growth\|成长]]——例如一名原本厌学的儿童偶然体验到阅读乐趣后，开始如饥似渴地大量阅读，其认知发展以指数速率发生飞跃。
+>   系统内部元素交互呈现复杂的递归反馈。**负反馈**产生调节与阻尼效应（如得知考试不及格引发的稳态调节）；**正反馈**则产生持续放大微小初始变化的乘数效应（Stacey, 1992; Wheatley, 1999），带来指数级的爆发成长——例如一名原本厌学的儿童偶然体验到阅读乐趣后，开始如饥似渴地大量阅读，其认知发展以指数速率发生飞跃。
 > - **全息连接性**
 >   系统内一切要素深度纠缠。以**雨林生态循环**为例：蚂蚁吃树叶，飞鸟吃蚂蚁并排泄粪便，粪便肥沃土壤滋养大树生长新叶供蚂蚁食用（Lewin, 1993, p. 86）。在教育生态中，学生与家庭、教师、同伴及社区网络休戚相连；教师与同事、支持机构、政策规约与资助系统紧密勾连。学校并非封闭孤岛，扰动任何微小节点，整个系统都必须进行适应性重组。
 > - **涌现性（Emergence）**
@@ -955,7 +955,7 @@ updated: 2026-09-09
 >
 > *Ontological assumptions (assumptions about the nature of reality and the nature of things) give [[Research in Schools Evaluation\|RISE]] to epistemological assumptions (ways of researching and enquiring into the nature of reality and the nature of things); these, in turn, give rise to methodological considerations; and these, in turn, give rise to issues of instrumentation and data collection.*
 
-> [!citation-card] Medawar 论科学假说作为想象与批判的[[Dialogue in Education\|对话]]
+> [!citation-card] Medawar 论科学假说作为想象与批判的对话
 > 科学理解在所有层面的进步都始于一次思辨的冒险，一种对可能为真的事物的想象性预想——这种预想总是且必然地略微（有时大幅）超出我们拥有逻辑或事实依据去相信的范围……科学推理因此在所有层面上都是两个思维片段之间的互动：一段想象之声与一段批判之声的对话，一段在可能与现实、提议与裁决、猜想与反驳之间的对话。（p. 359）
 >
 > *All advances of scientific understanding, at every level, begin with a speculative adventure, an imaginative preconception of what might be true – a preconception which always, and necessarily, goes a little way (sometimes a long way) beyond anything which we have logical or factual authority to believe in... Scientific reasoning is therefore at all levels an interaction between two episodes of thought – a dialogue between two voices, the one imaginative and the other critical; a dialogue, if you like, between the possible and the actual, between proposal and disposal, conjecture and criticism, between what might be true and what is in fact the case.*

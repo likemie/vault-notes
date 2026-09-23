@@ -7,7 +7,7 @@ aliases:
 summary: "Ronald Burt（2000）提出的社会网络理论概念，指社会网络中不同群体之间的断连位置，占据这些位置的个体获得信息优势和控制优势。Cai 等（2025）将其从社会网络扩展到空间维度，分析关键节点教师如何填补粤港澳大湾区三个空间维度之间的结构性空洞"
 type: concept
 domain: "sociology-of-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
   - theme/social-capital
   - theme/higher-education
 related_concepts:
+  - "[[Open-Mindedness]]"
   - "[[Space Production]]"
   - "[[University-Industry Collaboration]]"
 related_theories:
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-09-23
 ---
 
 # Structural Holes
@@ -44,7 +45,7 @@ updated: 2026-06-11
 
 Cai、Gao & Liu（2025）将结构洞概念从传统的社会[[Network Analysis|网络分析]]扩展到**空间维度**。在[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]的语境中，结构性空洞不仅存在于人和组织之间，还存在于 [[Lefebvre's Spatial Triad|Lefebvre 空间三元辩证法]]的三个维度之间——感知空间（物理基础设施）、构想空间（政策设计）和活生生空间（日常经验）。关键节点教师通过跨部门、跨城市区域和跨行政边界的网络实践活动填补这些多维度的结构性空洞。
 
-Burt 的核心洞察是：社会资本不是由网络的"封闭性"（紧密联系的小群体）产生的，而是由网络的"开放性"（连接原本断连的群体）产生的。这一洞察在 GBA 语境中得到了充分的经验验证。
+Burt 的核心洞察是：社会资本不是由网络的"封闭性"（紧密联系的小群体）产生的，而是由网络的"[[Open-Mindedness|开放性]]"（连接原本断连的群体）产生的。这一洞察在 GBA 语境中得到了充分的经验验证。
 
 ---
 ## 核心特征
@@ -69,5 +70,5 @@ Burt 的核心洞察是：社会资本不是由网络的"封闭性"（紧密联�
 
 > [!tip]-
 > - [[Lefebvre's Spatial Triad]] — Cai 等将结构洞从社会网络扩展到 Lefebvre 的空间三元辩证法
-> - [[Social Capital Theory]] — 结构洞理论是社会资本理论的一个变体，强调社会资本的来源是网络的开放性而非封闭性
+> - [[Social Capital Theory]] — 结构洞理论是社会资本理论的一个变体，强调社会资本的来源是网络的[[Open-Mindedness|开放性]]而非封闭性
 > - [[University-Industry Collaboration]] — 产学合作网络中存在大量结构性空洞，关键节点教师在填补这些空洞中发挥核心作用

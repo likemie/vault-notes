@@ -11,10 +11,10 @@ aliases:
 summary: "实验或量化研究中被观察和测量的结果变量，其变化被假定为自变量的操纵或选择所导致，是因果推断中的输出条件"
 type: concept
 domain: "research-methodology"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/research-methodology
   - paradigm/positivist
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Reliability]]"
   - "[[External Validity]]"
-  - "[[Growth]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -103,4 +102,4 @@ updated: 2026-09-22
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — 小麦肥料实验中，小麦的[[Growth\|生长]]和产量是因[[Variable\|变量]]；Bhadwal & Panda (1991) 的研究中，学生的学习习惯和态度是因变量；资源可用性×学习动机的[[Factorial Design\|因子设计]]中，考试成绩是因变量。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — 小麦肥料实验中，小麦的生长和产量是因[[Variable\|变量]]；Bhadwal & Panda (1991) 的研究中，学生的学习习惯和态度是因变量；资源可用性×学习动机的[[Factorial Design\|因子设计]]中，考试成绩是因变量。

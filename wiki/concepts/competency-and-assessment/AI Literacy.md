@@ -36,11 +36,11 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Nature of Science]]"
   - "[[Computational Thinking]]"
-  - "[[Dialogue in Education]]"
   - "[[Construct]]"
   - "[[AI Hallucination]]"
   - "[[Sampling Error]]"
   - "[[Causality]]"
+  - "[[Dialogue in Education]]"
   - "[[Problem Solving]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Reflexivity]]"
@@ -100,7 +100,7 @@ updated: 2026-09-22
 > [!boundary] 概念边界辨析
 > - **[[Data Literacy\|数据素养]]（Data Literacy）** 数据素养侧重于数据采集、统计图表解读、概率推断与风险评估，是 AI 素养的数理基础；AI 素养进一步聚焦于深度学习黑箱、大语言模型生成逻辑、算法偏见与人机协同认知分工。
 > - **[[Scientific Literacy\|科学素养]]（Scientific Literacy）** 科学素养涵盖对自然现象的实证探究、假说检验与[[Nature of Science\|科学本质]]理解；AI 素养是科学素养在智能化时代的延伸，强调如何利用智能工具赋能科学探究而非侵蚀实证精神。
-> - **[[Computational Thinking\|计算思维]]（Computational Thinking）** 计算思维强调问题分解、模式识别、抽象建模与算法设计；AI 素养更偏向技术使用者对黑箱系统的认识论评估、[[Dialogue in Education\|对话]]策略与社会伦理审视。
+> - **[[Computational Thinking\|计算思维]]（Computational Thinking）** 计算思维强调问题分解、模式识别、抽象建模与算法设计；AI 素养更偏向技术使用者对黑箱系统的认识论评估、对话策略与社会伦理审视。
 
 ---
 
@@ -121,7 +121,7 @@ updated: 2026-09-22
 
 > [!feature] 人工智能素养的四维[[Construct\|构念]]框架（Ng et al., 2021; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society, 2026]]; [[Argument_Li_2026_CEAI\|Li et al., 2026]]）
 > - **技术认知与机制理解（Knowing & Understanding AI）** 把握大语言模型等算法的概率预测本质、训练数据集依赖性、生成幻觉（Hallucination）与黑箱特性，建立对智能系统能力的合理预期。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]
-> - **批判性应用与人机协同（Critical Application & Co-Inquiry）** 熟练运用结构化提示词设计（Prompt Engineering），将 AI 定位为拓展思维视角的“[[Dialogue in Education\|对话]]伙伴”与“[[Scaffolding\|脚手架]]”，坚持“放大认知而非外包思考”的行动底线。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 10–12)]]
+> - **批判性应用与人机协同（Critical Application & Co-Inquiry）** 熟练运用结构化提示词设计（Prompt Engineering），将 AI 定位为拓展思维视角的“对话伙伴”与“[[Scaffolding\|脚手架]]”，坚持“放大认知而非外包思考”的行动底线。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 10–12)]]
 > - **[[Epistemological Vigilance\|认识论警觉]]与多源验证（Epistemic Vigilance & Evaluation）** 保持对模型输出的怀疑态度，识别虚假事实与逻辑漏洞，通过[[Primary and Secondary Documents\|一手文献]]核查、[[Triangulation\|三角互证]]与反思日志对生成文本进行严格审订。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3)]]
 > - **伦理审思与主体性维护（Ethical [[Reflexivity]] & Agency Preservation）** 敏锐洞察算法偏见、数据隐私侵犯、知识产权归属与数字鸿沟风险，自觉在人机协作中保留个人独特的学术声音与价值立场。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 34)]]
 
@@ -167,7 +167,7 @@ updated: 2026-09-22
 ### 命题二　AI 素养是决定人机协同走向“思维协同”或“心智退化”的核心调节中介
 
 > [!concept-lens] 认知调节与[[Epistemological Vigilance\|认识论警觉]]建构
-> 探讨学生的 AI 素养水平如何调节其在人机[[Dialogue in Education\|对话]]中是对模型输出进行批判性核验还是盲目顺从。
+> 探讨学生的 AI 素养水平如何调节其在人机对话中是对模型输出进行批判性核验还是盲目顺从。
 
 > [!claim] [[Argument_Li_2026_CEAI\|Li et al. (2026)]]
 > **AI 素养的情境调节机制** 在高等教育生成式 AI 整合研究中，AI 素养构成决定人机互动深度的核心调节[[Variable\|变量]]。具备高 AI 素养的学生能够理解大模型的概率生成本质与幻觉倾向，在提示词设计中保持“认识论警觉”（Epistemic Vigilance），主动开展多源[[Triangulation\|三角互证]]；而缺乏 AI 素养的学生容易被语义流畅性所误导，陷入证实偏误，在 20 项实证研究中表现出严重的创造被动与认知侵蚀。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 10–12)]]
@@ -270,7 +270,7 @@ updated: 2026-09-22
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] — 强调基础教育必须将批判性 AI 素养列为面向未来的关键交叉素养之一，确立“放大认知而非[[Cognitive Offloading\|认知外包]]”的育人底线。
-> - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项高等教育实证研究，将 AI 素养确立为驱动学生从被动使用转向[[Reflexivity\|反思性]][[Dialogue in Education\|对话]]、维持[[Epistemological Vigilance\|认识论警觉]]的关键前置调节[[Variable\|变量]]。
+> - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项高等教育实证研究，将 AI 素养确立为驱动学生从被动使用转向[[Reflexivity\|反思性]]对话、维持[[Epistemological Vigilance\|认识论警觉]]的关键前置调节[[Variable\|变量]]。
 > - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 批判将人工智能素养窄化为操作技巧的工具论偏向，系统阐述将算法输出作为探究对象并融合[[Evaluative Judgement\|评价性判断]]与[[Feedback Literacy\|反馈素养]]的[[Epistemology\|认识论]]重构路径。
 
 ---

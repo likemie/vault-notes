@@ -10,9 +10,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 16
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 15
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2005–至今"
 initiator_organization: "北卡罗来纳大学教堂山分校（University of North Carolina at Chapel Hill）"
@@ -26,7 +26,6 @@ tags:
   - essa-strong
   - region/us
 related_concepts:
-  - "[[Growth]]"
   - "[[Decodification]]"
   - "[[Individualised Instruction]]"
   - "[[External Validity]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Targeted Reading Intervention
@@ -61,7 +60,7 @@ updated: 2026-09-17
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **Targeted Reading Intervention（目标阅读干预，简称 TRI）**是由北卡罗来纳大学教堂山分校（University of North Carolina at Chapel Hill）弗兰克·波特·格雷厄姆儿童发展研究所林恩·弗农-菲根斯（Lynne Vernon-Feagans）与史蒂夫·阿门杜姆（Steve Amendum）学术团队领衔研发、受美国国家[[Institute of Education Sciences\|教育科学研究院]]（IES）重点资助的早期读写个别化干预与远程教师专业发展方案；其核心战略是首创**网络摄像头远程实时教研（Webcam Tele-Coaching）**模式，旨在解决高贫困偏远乡村公立小学因地理隔离、经费匮乏而无法聘请校本专职阅读教练的结构性危机，帮助普通班级任课教师快速[[Growth\|成长]]为精准早期诊断辅导专家。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **Targeted Reading Intervention（目标阅读干预，简称 TRI）**是由北卡罗来纳大学教堂山分校（University of North Carolina at Chapel Hill）弗兰克·波特·格雷厄姆儿童发展研究所林恩·弗农-菲根斯（Lynne Vernon-Feagans）与史蒂夫·阿门杜姆（Steve Amendum）学术团队领衔研发、受美国国家[[Institute of Education Sciences\|教育科学研究院]]（IES）重点资助的早期读写个别化干预与远程教师专业发展方案；其核心战略是首创**网络摄像头远程实时教研（Webcam Tele-Coaching）**模式，旨在解决高贫困偏远乡村公立小学因地理隔离、经费匮乏而无法聘请校本专职阅读教练的结构性危机，帮助普通班级任课教师快速成长为精准早期诊断辅导专家。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 研发始于 2000 年代中叶，获美国联邦教育科学研究院（IES）多轮重大课题持续资助，在北卡罗来纳州、内布拉斯加州等全美偏远乡村学区连续开展多中心[[Randomised Controlled Trials\|随机对照试验]]，常态化实施至今。

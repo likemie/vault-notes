@@ -9,9 +9,9 @@ summary: "扎根理论质性数据分析的三级编码枢纽，在开放编码�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 31
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 32
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Document]]"
   - "[[Causality]]"
+  - "[[Meaningful Human Control]]"
   - "[[Scaffolding]]"
   - "[[Champ]]"
   - "[[Falsification]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-09-08
+updated: 2026-09-22
 ---
 
 # Axial Coding
@@ -96,7 +97,7 @@ updated: 2026-09-08
 > - **研究设计** [[Grounded Theory\|扎根理论]]（施特劳斯学派）、质性[[Case Study\|案例研究]]、过程追踪分析。
 > - **数据收集** 半结构化[[In-depth Interview\|深度访谈]]、[[Participant Observation\|参与观察]]记录、[[Reflexivity\|反思性]]自述、组织[[Document\|文献]]。
 > - **分析方法** [[Open Coding\|开放编码]]、[[Paradigm\|范式]]模型匹配、[[Constant Comparison\|持续比较法]]、属性维度化展开、[[Domain Analysis\|领域分析]]。
-> - **辅助技术** 质性分析软件（[[Qualitative Computer Software\|CAQDAS]]）网络视图模型、[[Causality\|因果关系]]图、理论备忘录（[[Memos]]）、大语言模型人在回路（HITL）关系矩阵抽取。
+> - **辅助技术** 质性分析软件（[[Qualitative Computer Software\|CAQDAS]]）网络视图模型、[[Causality\|因果关系]]图、理论备忘录（[[Memos]]）、大语言模型[[Meaningful Human Control|人在回路]]（HITL）关系矩阵抽取。
 
 ---
 
@@ -205,7 +206,7 @@ updated: 2026-09-08
 
 > [!feature] 现代技术工具赋能主轴编码的两大路径
 > - **[[Qualitative Computer Software\|CAQDAS]] 网络拓扑建模与邻近检索** 借助 NVivo、MAXQDA 与 ATLAS.ti 等软件，研究者可将代码置入网格画布，直观绘制节点间的因果箭头，并通过代码共现矩阵（Code Co-occurrence）验证中介条件与行动策略的共振模式。
-> - **大语言模型智能辅助与人在回路审校** [[Generative Artificial Intelligence\|生成式人工智能]]具备强大的上下文[[Causality\|因果推断]]与模式识别潜力，可依据少样本提示（Few-Shot Prompting）协助研究者从海量访谈中初筛潜在因果条件与行动策略；但模型不能替代实地体验，研究者须保留[[Reflexivity\|反身性]]主导权，严格遵循人在回路（HITL）准则，对模型建议的模型进行人工回溯校验。
+> - **大语言模型智能辅助与[[Meaningful Human Control|人在回路]]审校** [[Generative Artificial Intelligence\|生成式人工智能]]具备强大的上下文[[Causality\|因果推断]]与模式识别潜力，可依据少样本提示（Few-Shot Prompting）协助研究者从海量访谈中初筛潜在因果条件与行动策略；但模型不能替代实地体验，研究者须保留[[Reflexivity\|反身性]]主导权，严格遵循人在回路（HITL）准则，对模型建议的模型进行人工回溯校验。
 
 ---
 

@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 33
+fact_related_count: 32
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -29,7 +29,6 @@ tags:
   - region/uk
 related_concepts:
   - "[[Teaching Assistant]]"
-  - "[[Dialogue in Education]]"
   - "[[Business as Usual]]"
   - "[[Floor and Ceiling Effects]]"
   - "[[Response to Proven Instruction]]"
@@ -70,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Catch Up Numeracy
@@ -100,7 +99,7 @@ updated: 2026-09-17
 > - **覆盖对象** 小学三年级至五年级经诊断需要额外数学支持的学生，重点覆盖享受免费学校午餐（Free School Meals, FSM）的处境不利学生。
 > - **干预措施** 
 >   1. **十维细化诊断测评** 辅导前对学生在计数、数字符号识别、估算、位值理解、加法与减法运算等 10 项细分成分进行一对一测评；
->   2. **高度结构化微辅导递送** 助教根据诊断结果，每周进行两次 15 分钟的密集一对一辅导，综合运用实物操作学具、数学[[Dialogue in Education\|对话]]与个性化练习纸；
+>   2. **高度结构化微辅导递送** 助教根据诊断结果，每周进行两次 15 分钟的密集一对一辅导，综合运用实物操作学具、数学对话与个性化练习纸；
 >   3. **阶梯式进度记录** 每周动态追踪学生进步并适时调整教学重点。
 > - **实施控制** 采用学校内部或学校间[[Random Assignment\|随机分配]]，设立接受常态课堂教学的[[Business as Usual\|常规对照组]]；[[Pre-test and Post-test\|后测]]采用市售权威标准化数学统考测验。
 

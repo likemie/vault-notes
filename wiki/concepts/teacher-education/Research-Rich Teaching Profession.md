@@ -7,7 +7,7 @@ aliases:
 summary: "指将教学职业从技术性执行者重塑为以学术探究、循证审议与反思性实践为核心特征的高阶专业形态；主张教师必须具备对学术研究的批判性解读与情境化运用能力（Research Literacy），并通过职前教育、系统性持续专业发展（CPD）以及大学-学校伙伴关系的生态支持，将高质量研究证据内嵌于日常教学决策与专业身份认同之中。"
 type: concept
 domain: "teacher-education"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Research Literacy]]"
   - "[[Phronesis]]"
-  - "[[Dialogue in Education]]"
   - "[[Evidence-Based Education]]"
   - "[[International Education]]"
   - "[[Engagement in and with Research]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Research-Rich Teaching Profession
@@ -56,7 +55,7 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> **研究充实型教学专业（Research-Rich Teaching Profession）** 指将教学职业从常规性、执行性的技术工匠，重塑为以系统探究、实证证据审议与[[Reflexivity\|反思性]]实践为特征的高阶专业形态（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a, p. 134]]）。该[[Construct\|构念]]源于澳大利亚学者西蒙·怀特（Simone White）领衔的澳大利亚教育研究协会（Australian Association for Research in Education, AARE）国家研究项目，主张教师不仅是教学技能的操作者，更是[[Research Literacy\|研究素养]]与[[Phronesis\|实践智慧]]的主体；通过重构职前教师教育课程、健全持续专业发展（Continuing Professional Development, CPD）制度，以及建构深度的大学-学区伙伴关系，促使教育科研成果内生化为教师日常教学决策、专业[[Dialogue in Education\|对话]]与专业身份认同的基石。
+> **研究充实型教学专业（Research-Rich Teaching Profession）** 指将教学职业从常规性、执行性的技术工匠，重塑为以系统探究、实证证据审议与[[Reflexivity\|反思性]]实践为特征的高阶专业形态（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a, p. 134]]）。该[[Construct\|构念]]源于澳大利亚学者西蒙·怀特（Simone White）领衔的澳大利亚教育研究协会（Australian Association for Research in Education, AARE）国家研究项目，主张教师不仅是教学技能的操作者，更是[[Research Literacy\|研究素养]]与[[Phronesis\|实践智慧]]的主体；通过重构职前教师教育课程、健全持续专业发展（Continuing Professional Development, CPD）制度，以及建构深度的大学-学区伙伴关系，促使教育科研成果内生化为教师日常教学决策、专业对话与专业身份认同的基石。
 
 > [!concept-lens] 概念透镜
 > - **核心内涵** 从职业属性与专业知识基础高度，确立学术研究在教师身份建构与专业实践中的内生地位。

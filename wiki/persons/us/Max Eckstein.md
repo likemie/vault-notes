@@ -9,7 +9,7 @@ summary: "纽约城市大学皇后学院比较教育学教授，CIES 前会长�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 45
+person_related_count: 44
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Champ]]"
   - "[[Document]]"
-  - "[[Dialogue in Education]]"
   - "[[Critical Dualism]]"
   - "[[Bildung]]"
   - "[[Empiricism]]"
@@ -75,7 +74,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Max Eckstein
@@ -189,7 +188,7 @@ updated: 2026-09-17
 > - **终身学术搭档** [[Harold Noah\|哈罗德·诺亚]] — 共同构筑战后比较教育科学实证大厦，合著多部里程碑[[Document\|文献]]。
 > - **学术同侪与同代领袖** [[George Bereday\|乔治·贝雷迪]] — 共同活跃于哥伦比亚大学及北美比较教育学界；[[Robert Cowen\|罗伯特·考恩]] — 在考恩年轻时赴美任教予以热情提携。
 > - **实证科学化同盟** [[C. Arnold Anderson]]、[[Philip Foster]] — 芝加哥学派代表，共同奠定战后美国比较教育社会科学经验实证[[Paradigm\|范式]]。
-> - **论辩与[[Dialogue in Education\|对话]]者** [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] — 批评诺亚与埃克斯坦将历史哲学遗产贬为前科学；[[Brian Holmes\|布赖恩·霍姆斯]]（Brian Holmes） — 围绕经验归纳[[Variable\|变量]]共变 vs [[Critical Dualism\|批判二元论]]演绎[[Problem Approach\|问题法]]展开跨大西洋论战；[[Edmund King\|埃德蒙·金]]（Edmund King） — 批评实证量化模型脱离具体教育情境并走向伪科学。
+> - **论辩与对话者** [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] — 批评诺亚与埃克斯坦将历史哲学遗产贬为前科学；[[Brian Holmes\|布赖恩·霍姆斯]]（Brian Holmes） — 围绕经验归纳[[Variable\|变量]]共变 vs [[Critical Dualism\|批判二元论]]演绎[[Problem Approach\|问题法]]展开跨大西洋论战；[[Edmund King\|埃德蒙·金]]（Edmund King） — 批评实证量化模型脱离具体教育情境并走向伪科学。
 > - **历史批判对象** [[Isaac Kandel\|艾萨克·坎德尔]]、[[Nicholas Hans\|尼古拉斯·汉斯]]、[[Michael Sadler\|迈克尔·萨德勒]] — 将其归为前科学阶段。
 > - **机构与组织** [[Comparative and International Education Society]]（CIES 1988–1989 年会长）、纽约城市大学皇后学院、[[International Education\|国际教育]]成就评价协会（[[IEA]]）。
 

@@ -11,9 +11,9 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: Council of the European Union
 tags:
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Employability]]"
   - "[[Language Skills]]"
   - "[[Evidence-Based Reform]]"
-  - "[[Dialogue in Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -39,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-09-22
 ---
 
 # EU Key Competences for Lifelong Learning
@@ -80,7 +79,7 @@ updated: 2026-05-23
 ## 争议与评论
 
 > [!warning]
-> 关键争议在于多维能力如何被有效干预和有效评估。例如，积极读写态度、批判性和建设性[[Dialogue in Education\|对话]]倾向、审美品质欣赏、与他人互动兴趣、语言社会责任使用等目标，很难像词汇、语法、阅读和写作基础技能那样评估([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp.40-41]])。
+> 关键争议在于多维能力如何被有效干预和有效评估。例如，积极读写态度、批判性和建设性对话倾向、审美品质欣赏、与他人互动兴趣、语言社会责任使用等目标，很难像词汇、语法、阅读和写作基础技能那样评估([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp.40-41]])。
 
 ## 相关概念／理论
 

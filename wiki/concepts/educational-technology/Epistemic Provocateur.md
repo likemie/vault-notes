@@ -17,9 +17,7 @@ tags:
   - theme/instructional-design
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Knowledge Production]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Dialogue in Education]]"
   - "[[Epistemological Vigilance]]"
   - "[[Scaffolding]]"
   - "[[Teaching Assistant]]"
@@ -35,8 +33,10 @@ related_concepts:
   - "[[Artefact]]"
   - "[[Critical Thinking]]"
   - "[[Variable]]"
+  - "[[Dialogue in Education]]"
   - "[[AI Hallucination]]"
-related_theories: []
+related_theories:
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Triangulation]]"
   - "[[Meta-analysis]]"
@@ -64,7 +64,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> [[Epistemology|认识论]]挑衅者（Epistemic Provocateur）是指在人机协同探究与[[Knowledge Production|知识建构]]情境中，[[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, GenAI）超越单纯的“信息提供者”与“[[Dialogue in Education|对话]]伙伴”定位，通过生成具有不完备性、表层顺滑但暗含因果断裂、拟人化修辞或分类缺陷的暂定性内容，反向触发并激活学习者的[[Epistemological Vigilance|认识论警觉]]（Epistemic Vigilance），迫使学生主动实施审问、求证、批判与迭代重构的教学中介生态位。[[Argument_Han_Gutierez_2026_IJSE|(Han & Gutierez, 2026, pp. 6–7, 22–24)]]
+> [[Epistemology|认识论]]挑衅者（Epistemic Provocateur）是指在人机协同探究与[[Knowledge Building Theory|知识建构]]情境中，[[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, GenAI）超越单纯的“信息提供者”与“对话伙伴”定位，通过生成具有不完备性、表层顺滑但暗含因果断裂、拟人化修辞或分类缺陷的暂定性内容，反向触发并激活学习者的[[Epistemological Vigilance|认识论警觉]]（Epistemic Vigilance），迫使学生主动实施审问、求证、批判与迭代重构的教学中介生态位。[[Argument_Han_Gutierez_2026_IJSE|(Han & Gutierez, 2026, pp. 6–7, 22–24)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 重新界定算法在教学中的认知功能：人工智能偶尔出现的错误、片面罗列与表征失真并非教学事故，而在显性[[Scaffolding|教学支架]]引导下被转化为打破思维惰性、激活批判性质询的“认知催化剂”。
@@ -193,7 +193,7 @@ updated: 2026-09-22
 ## 相关研究
 
 > [!evidence-grid-a] 核心实证与理论索引
-> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 首创性提出并实证检验生成式 AI 在科学探究中作为“信息源、[[Dialogue in Education|对话]]伙伴与[[Epistemology|认识论]]挑衅者”的三重角色，确立双轨[[Epistemic Scaffolding|认识论支架]]激发初中生三维[[Epistemological Vigilance|认识论警觉]]的微观发生学机制。
+> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 首创性提出并实证检验生成式 AI 在科学探究中作为“信息源、对话伙伴与[[Epistemology|认识论]]挑衅者”的三重角色，确立双轨[[Epistemic Scaffolding|认识论支架]]激发初中生三维[[Epistemological Vigilance|认识论警觉]]的微观发生学机制。
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — [[Meta-analysis|元分析]]实证揭示 AI 错误转化为反思挑衅与批判思维提升的促学规律。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review|系统综述]]阐明 ChatGPT 对[[Critical Thinking|批判性思维]]的双向调节机制，强调通过[[Epistemic Friction|认知摩擦]]防止思维退化。
 

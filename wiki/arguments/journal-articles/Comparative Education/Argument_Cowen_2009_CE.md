@@ -9,7 +9,7 @@ title: "Argument_Cowen_2009_CE"
 argument_key: "Argument_Cowen_2009_CE"
 argument_display_title: "The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Examination Hell]]"
   - "[[Educational Immunology]]"
   - "[[Paradigm]]"
+  - "[[Open-Mindedness]]"
 related_theories:
   - "[[Transitology]]"
   - "[[Academic Capitalism]]"
@@ -281,7 +282,7 @@ citation_aliases:
 ## 自述局限
 
 > [!warning]
-> - **纲领性质而非成熟理论** 3T框架和[[Shape-Shifting\|形变]]问题意识仅为一个开放性的分析纲领，并不提供对于该复杂主题的终结性理论结论（p.323）。
+> - **纲领性质而非成熟理论** 3T框架和[[Shape-Shifting\|形变]]问题意识仅为一个[[Open-Mindedness|开放性]]的分析纲领，并不提供对于该复杂主题的终结性理论结论（p.323）。
 > - **几何词汇的实质缺失** 比较教育学目前在刻画形状时仍严重缺乏类似音乐和几何学那样精准且达成共识的专业词汇，对英格兰大学的形变描述也存在选择性遗漏（pp.322–324）。
 > - **依赖历史叙事而非新实证数据** 改进转移理论的资源主要是对已有历史和叙事[[Document\|文献]]的二次反思（已经知道但没有注意到自己知道什么），而非基于第一手的最新经验实证数据（p.324）。
 

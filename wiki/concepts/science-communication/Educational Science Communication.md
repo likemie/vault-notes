@@ -22,21 +22,21 @@ tags:
 related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Knowledge Transfer]]"
-  - "[[Dialogue in Education]]"
   - "[[Teaching Assistant]]"
   - "[[Reliability]]"
   - "[[Praxis]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Paradigm]]"
+  - "[[Dialogue in Education]]"
   - "[[Falsification]]"
   - "[[Research Question]]"
   - "[[Virtual Teacher Staffroom]]"
   - "[[Refutational Evidence]]"
   - "[[Document]]"
-  - "[[Knowledge Production]]"
   - "[[Evidence-Based Education]]"
   - "[[Variable]]"
-related_theories: []
+related_theories:
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
@@ -65,7 +65,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 教育科学传播（Educational Science Communication / 德语：Wissenschaftskommunikation in der Bildungsforschung）是指将教育科学与实证教育研究的发现、理论、模型与方法，面向教育实践者（职前与在岗教师、教师教育者、学校管理者）、教育行政决策层以及社会公众进行系统阐释、通俗[[Transfer Translation Transformation\|转译]]与双向互动的专门科学传播形态。其核心目标是超越将教师预设为被动接收者的自上而下单向线性[[Knowledge Transfer\|知识转移]]模式，构建多媒介、非线性、递归且受众适配的专业[[Dialogue in Education\|对话]]生态。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 252–254)]]
+> 教育科学传播（Educational Science Communication / 德语：Wissenschaftskommunikation in der Bildungsforschung）是指将教育科学与实证教育研究的发现、理论、模型与方法，面向教育实践者（职前与在岗教师、教师教育者、学校管理者）、教育行政决策层以及社会公众进行系统阐释、通俗[[Transfer Translation Transformation\|转译]]与双向互动的专门科学传播形态。其核心目标是超越将教师预设为被动接收者的自上而下单向线性[[Knowledge Transfer\|知识转移]]模式，构建多媒介、非线性、递归且受众适配的专业对话生态。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 252–254)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调教育研究成果向实践渗透的过程本质上是双向或多向的社会沟通与情境调适，而非科研产品的单向机械投放。
@@ -99,7 +99,7 @@ updated: 2026-09-22
 ## 核心要素
 
 > [!feature] 现代教育科学传播的四大支柱与媒介谱系
-> - **非线性双向递归沟通机制** 摒弃从实验室到课堂的线性链条，强调研究者与教师教育者、一线教师在数字社区与研训情境中展开双向[[Dialogue in Education\|对话]]，形成需求与证据的互惠循环。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 253)]]
+> - **非线性双向递归沟通机制** 摒弃从实验室到课堂的线性链条，强调研究者与教师教育者、一线教师在数字社区与研训情境中展开双向对话，形成需求与证据的互惠循环。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 253)]]
 > - **多元差异化媒介矩阵** 涵盖专业学术期刊（高证据层级但阅读门槛高）、实践指南与期刊（普及度高但质检缺失）、视频与播客（高可及性与概念转变效能）、信息中介平台（如[[Clearing House Unterricht\|德国教学研究清算中心]] [Clearing House Unterricht, CHU] 与 德国[[Forschungsmonitor Schule\|学校研究监测平台]] [Forschungsmonitor Schule, FMS] 的结构化提炼）以及社交媒体（如 [[Virtual Teacher Staffroom\|Twitter-Lehrerzimmer]] 的即时互动）。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 254–258)]]
 > - **受众适配的通俗语言与叙事设计** 在保持学术严谨的前提下，采用通俗日常语言重构复杂统计参数与机制模型，避免过度聚焦[[Refutational Evidence\|反驳性证据]]引发教师心理防卫。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 254, 258)]]
 > - **研究合成（Forschungssynthesen）的学术价值重塑** 在科研评价与同行文化中确立[[Meta-analysis\|元分析]]、[[Systematic Review\|系统综述]]与通俗化简评的独立学术价值，消除研究者投身科普会降低学术声誉的后顾之忧。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 258)]]
@@ -147,7 +147,7 @@ updated: 2026-09-22
 > 探讨 Web 2.0、音频播客及[[Virtual Teacher Staffroom\|虚拟教师休息室]]在拓展教育证据传播覆盖面与互动深度上的独特优势。
 
 > [!claim] Dresbach (2023)
-> **Web 2.0 媒介的双向沟通效能** 新兴数字交互格式为教育学与教育科学的知识转移提供了结构性机遇，使平等、实时的专业[[Dialogue in Education\|对话]]和协作式[[Knowledge Production\|知识建构]]成为可能。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 253)]]
+> **Web 2.0 媒介的双向沟通效能** 新兴数字交互格式为教育学与教育科学的知识转移提供了结构性机遇，使平等、实时的专业对话和协作式[[Knowledge Building Theory|知识建构]]成为可能。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 253)]]
 
 > [!claim] Spannagel (2022)
 > **科学传播对科研人员的反哺效益** 积极投身短视频与社交媒体科学传播不仅促进公众理解，更促使研究者转换视角审视自身研究的前提与局限，从而反哺自身的科研与教学质量。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 253)]]
@@ -186,7 +186,7 @@ updated: 2026-09-22
 > [!dev-timeline] 教育科学传播[[Paradigm\|范式]]演进
 > - **20 世纪末 — 早期自上而下政策驱动期** 侧重通过官方课程标准、白皮书与学术期刊向学校自上而下灌输科研发现，普遍遭遇一线教师的吸收抵抗。
 > - **2010 年代 — 循证清算中心与专业中介崛起** 随着[[Evidence-Based Education\|循证教育]]运动兴起，英美与德语区先后创设[[What Works Clearinghouse\|有效干预清算中心]]（[[What Works Clearinghouse\|WWC]]）、[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）及[[Clearing House Unterricht\|德国教学研究清算中心]]（CHU）、德国[[Forschungsmonitor Schule\|学校研究监测平台]]（FMS）等专业中介机构，系统提炼[[Meta-analysis\|元分析]]并向教师教育者分发简评。
-> - **2020 年代至今 — 数字去中心化与全媒体[[Dialogue in Education\|对话]]转向** 播客、短视频与社交媒体成为师范生和教师获取教学灵感的重要渠道；教育科学界开始系统反思线性[[Knowledge Transfer\|知识转移]]局限，全面转向受众适配、反神经神话、去中心化互动的教育科学传播新生态。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 252–258)]]
+> - **2020 年代至今 — 数字去中心化与全媒体对话转向** 播客、短视频与社交媒体成为师范生和教师获取教学灵感的重要渠道；教育科学界开始系统反思线性[[Knowledge Transfer\|知识转移]]局限，全面转向受众适配、反神经神话、去中心化互动的教育科学传播新生态。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 252–258)]]
 
 ---
 

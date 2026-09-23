@@ -7,9 +7,9 @@ summary: "研究者编撰关于自己生活或情境的个人化、主观性叙�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 16
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 15
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/ethnography
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Source of Knowledge]]"
-  - "[[Dialogue in Education]]"
   - "[[Research Question]]"
 related_theories: []
 related_methods:
@@ -65,7 +64,7 @@ updated: 2026-09-22
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Narrative Research\|叙事探究]]、反思性案例分析、自我民族志。
-> - **数据收集** 个人记忆、自传式写作、日记、信件、照片、[[Dialogue in Education\|对话]]记录、自我观察笔记。
+> - **数据收集** 个人记忆、自传式写作、日记、信件、照片、对话记录、自我观察笔记。
 > - **分析方法** [[Narrative Analysis\|叙事分析]]、主题分析、反思性写作、文化批判分析。
 > - **辅助技术** 情感和身体意识的记录、反思性日志、同伴对话验证。
 

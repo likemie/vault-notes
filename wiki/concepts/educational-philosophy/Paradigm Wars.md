@@ -28,10 +28,10 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Rich and Thick Description]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Dialogue in Education]]"
   - "[[Knowledge Production]]"
   - "[[Determinism]]"
   - "[[Voluntarism]]"
+  - "[[Dialogue in Education]]"
   - "[[Causality]]"
   - "[[Problem Solving]]"
   - "[[Incommensurability]]"
@@ -87,7 +87,7 @@ updated: 2026-09-18
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种将研究方法、哲学[[Epistemology\|认识论]]与学者身份政治深度捆绑的二元对立运动，预设不同范式在方法论与[[Theory of Knowledge\|知识论]]上互不相容。
 > - **用途** 帮助研究者透视教育研究史上量化与质性长期割裂的历史渊源；解释学术评价标准冲突（如[[Effect Size\|效应量]] vs [[Rich and Thick Description\|厚描述]]）的制度根由；为以[[Pragmatic Paradigm\|实用主义]]为基石的混合方法研究提供历史问题语境。
-> - **边界** 范式战争不是无序的情感攻击，而是围绕科学哲学核心命题展开的严肃认识论论战；范式战争的退潮并不意味着量质之间根本哲学差异的消除，而是以更具建设性的务实[[Dialogue in Education\|对话]]取代了部落主义对抗。
+> - **边界** 范式战争不是无序的情感攻击，而是围绕科学哲学核心命题展开的严肃认识论论战；范式战争的退潮并不意味着量质之间根本哲学差异的消除，而是以更具建设性的务实对话取代了部落主义对抗。
 
 > [!citation-card] Gage 论教育研究范式战争的三种可能归宿
 > 在教育研究这场激烈的范式战争中，研究者坚守各自对量化或质性方法论的忠诚。未来可能走向三种归宿：客观实证派的彻底清剿、质性派的胜利反攻，或是双方走向互补协作的范式和平。（Gage, 1989 via [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 116]]）
@@ -123,7 +123,7 @@ updated: 2026-09-18
 > [!feature] [[Paradigm\|范式]]战争的核心历史与[[Epistemology\|认识论]]机制
 > - **范式绝对忠诚（Paradigm Allegiances）** 学者将学术训练、期刊发表与职业身份锚定于特定范式之中，形成了“赢家通吃”的学术部落主义（Academic Tribalism）。
 > - **[[Incommensurability\|不可通约性]]教条（Incommensurability Dogma）** 双方皆将库恩的[[Incommensurability\|不可通约性]]绝对化，断言两种范式在哲学逻辑上绝无妥协可能，任何结合皆属自相矛盾。
-> - **[[Scale of Measurement\|测量尺度]]的错位互评** 双方运用本阵营的评价尺规去贬损对方的研究成果；用[[Effect Size\|效应量]]衡量[[Ethnography\|民族志]]或用质性个案反驳大样本统计分布，造成了严重的认知[[Dialogue in Education\|对话]]失效。
+> - **[[Scale of Measurement\|测量尺度]]的错位互评** 双方运用本阵营的评价尺规去贬损对方的研究成果；用[[Effect Size\|效应量]]衡量[[Ethnography\|民族志]]或用质性个案反驳大样本统计分布，造成了严重的认知对话失效。
 > - **[[Knowledge Production\|知识生产]]体制的割裂** 学术期刊、资助基金评审与大学院系课程设置长期泾渭分明，分别构筑排他性的实证量化城堡或质性人文堡垒。
 
 ---
@@ -138,7 +138,7 @@ updated: 2026-09-18
 > 论证范式战争为何无法通过单纯的技术妥协而平息，揭示其深层深嵌于主客观哲学的根本对立。
 
 > [!claim] Gage, N. L.
-> **方法之争的实质是不可调和的世界观冲突** 范式战争并非关于[[Questionnaire\|问卷]]好还是访谈好的技术分歧，而是两套关于世界究竟是客观硬质还是主观建构的根本信念之战；学者们退守于不可[[Commensuration\|通约]]的方法论阵营中，使得理性[[Dialogue in Education\|对话]]在长达二十年间陷入僵局。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 116]]
+> **方法之争的实质是不可调和的世界观冲突** 范式战争并非关于[[Questionnaire\|问卷]]好还是访谈好的技术分歧，而是两套关于世界究竟是客观硬质还是主观建构的根本信念之战；学者们退守于不可[[Commensuration\|通约]]的方法论阵营中，使得理性对话在长达二十年间陷入僵局。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 116]]
 
 > [!claim] Kuhn, T. S.
 > **缺乏中立公尺引发阵营排他性对抗** 当科学共同体发生范式分裂时，由于缺乏共同认可的中立评判尺度，范式之间的论争不可避免地演化为争夺学术话语权与合法性认可的范式政治。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 116]]
@@ -203,7 +203,7 @@ updated: 2026-09-18
 > - **1980 年代 — [[Paradigm\|范式]]战争白热化** 纳撒尼尔·格奇（Gage, 1989）正式将这场对抗命名为“范式战争”，双方在学术大会与权威期刊上猛烈抨击对方的方法学效度与伦理合法性。
 > - **1990 年代 — 停火呼吁与和平协商** 学者们意识到旷日持久的阵营内耗严重削弱了教育研究对社会现实的解释力，学界开始呼吁“范式和平”，探索质性与量化方法的结合可能。
 > - **2000 年代 — [[Mixed Methods Research\|混合方法]]运动确立“第三条道路”** 塔沙克里（Tashakkori）、特德利（Teddlie）与克雷斯威尔（Creswell）等系统确立混合方法研究体系，《混合方法研究杂志》（JMMR）创刊，[[Pragmatic Paradigm\|实用主义]]被确立为跨越鸿沟的第三种范式。
-> - **2010 年代至今 — [[Evidence-Based Education\|循证教育]]新[[Positivism\|实证主义]]回潮与新型辩证张力** 以[[Randomised Controlled Trials\|随机对照试验]]（RCT）和[[Meta-analysis\|元分析]]为代表的“循证教育”政策运动再度强化了量化特权地位；学界警惕“新实证霸权”，主张在混合[[Dialogue in Education\|对话]]中保持不可[[Commensuration\|通约]]的质性批判锐度。
+> - **2010 年代至今 — [[Evidence-Based Education\|循证教育]]新[[Positivism\|实证主义]]回潮与新型辩证张力** 以[[Randomised Controlled Trials\|随机对照试验]]（RCT）和[[Meta-analysis\|元分析]]为代表的“循证教育”政策运动再度强化了量化特权地位；学界警惕“新实证霸权”，主张在混合对话中保持不可[[Commensuration\|通约]]的质性批判锐度。
 
 ---
 

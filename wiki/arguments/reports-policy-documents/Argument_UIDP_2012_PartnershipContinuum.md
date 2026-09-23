@@ -13,7 +13,7 @@ title: "Argument_UIDP_2012_PartnershipContinuum"
 argument_key: "Argument_UIDP_2012_PartnershipContinuum"
 argument_display_title: "The Partnership Continuum: Understanding & Developing the Pathways for Beneficial University-Industry Engagement"
 argument_kind: "report"
-argument_related_count: 17
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Sponsored Research Agreement]]"
   - "[[Clinical Trial]]"
   - "[[Executive Education]]"
-  - "[[Growth]]"
   - "[[Innovation Park]]"
   - "[[Entrepreneur in Residence]]"
   - "[[Innovation Hub]]"
@@ -282,7 +281,7 @@ citation_aliases:
 
 #### 领域五：经济发展 —— 从双边到三方
 
-经济发展是五个领域中唯一一个将合作从**双边**（大学-企业）扩展为**三方**（大学-企业-政府）的领域。报告指出："大学通常充当区域经济发展的纽带。众所周知，建立在所谓'新知识'基础上的公司的创建往往取决于地理区域内一所或多所研究型大学的存在"(p.18)。特定领域的公司集群基于大学在该领域的活动而形成和[[Growth|成长]]，反过来大学也会根据其所在区域的产业形成项目和扩展学科。
+经济发展是五个领域中唯一一个将合作从**双边**（大学-企业）扩展为**三方**（大学-企业-政府）的领域。报告指出："大学通常充当区域经济发展的纽带。众所周知，建立在所谓'新知识'基础上的公司的创建往往取决于地理区域内一所或多所研究型大学的存在"(p.18)。特定领域的公司集群基于大学在该领域的活动而形成和成长，反过来大学也会根据其所在区域的产业形成项目和扩展学科。
 
 经济发展领域的活动不仅涉及商学院或大学内的特定项目，还可能由一个作为大学外部实体而创建的研究基金会进行，或由一个大学与产业和其他区域利益方共同发起并以经济发展为重点的非营利区域实体进行(p.18)。
 

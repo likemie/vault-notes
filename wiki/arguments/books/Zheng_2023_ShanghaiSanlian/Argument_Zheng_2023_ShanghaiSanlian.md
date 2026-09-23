@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 106
+argument_related_count: 105
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -72,7 +72,6 @@ related_concepts:
   - "[[Artefact]]"
   - "[[Objectivism]]"
   - "[[Internal Validity]]"
-  - "[[Dialogue in Education]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Integration in Mixed Methods]]"
   - "[[Coherence in Writing]]"
@@ -154,7 +153,7 @@ citation_aliases:
 > [!question]
 > 寒门学子即使冲破了[[Gaokao\|高考]]壁垒进入顶尖大学，为何在毕业出路和职业前景上仍然系统性落后于优势阶层同学？大学经历本身在其中扮演了什么角色？
 
-本书从经验谜题出发——"金榜题名"之后的不安：网络热议的"985废物""小镇做题家"、[[Quantitative Research|量化研究]]一再确认的弱势学生出路劣势——指出现有解释（[[Human Capital Theory|人力资本理论]]、社会再生产理论）的共同缺陷是将教育视为一种"所有物"（possession），而非一个生成性的"过程"（process）。|郑雅君 (2023)[[Epoché|悬置]]"经济人"[[Hypothesis|假设]]，走入教育过程的"黑箱"，追问：
+本书从经验谜题出发——"金榜题名"之后的不安：网络热议的"985废物""小镇做题家"、[[Quantitative Research|量化研究]]一再确认的弱势学生出路劣势——指出现有解释（[[Human Capital Theory|人力资本理论]]、社会再生产理论）的共同缺陷是将教育视为一种"所有物"（possession），而非一个生成性的"过程"（process）。|[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]][[Epoché|悬置]]"经济人"[[Hypothesis|假设]]，走入教育过程的"黑箱"，追问：
 
 1. 家庭的资源优势如何转化为学生在大学阶段的[[Cultural Capital|文化资本]]？（资本化过程）
 2. 学生在大学里的努力如何转化为出路获得上的优势？（投入过程）
@@ -628,7 +627,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 
 郑雅君承认自身个人因素对研究的潜在影响：
 - **身份** 来自西部的单亲家庭、同样面临出路选择的女性非一代大学生——"优劣势参半的家庭背景"使其既容易理解非一代大学生的想法，又能获得家境劣势被访者的共情
-- **局内人/局外人** 对南方大学是"局内人"（易获信任、访谈深入，但也容易将地方性常识视为理所当然）；对北方大学是"局外人"（初期难以理解地方性常识，通过非正式[[Dialogue in Education|对话]]和校友网络讨论克服）
+- **局内人/局外人** 对南方大学是"局内人"（易获信任、访谈深入，但也容易将地方性常识视为理所当然）；对北方大学是"局外人"（初期难以理解地方性常识，通过非正式对话和校友网络讨论克服）
 - **性别影响** 女生更易推心置腹，对出路不满意的男生在讲述困境时更生涩
 - **第一人称叙述**[[Qualitative Research|质性研究]]报告是研究者与被访者双方参与的结果，"研究者在作品中应该有自己的位置"——后文分析采取第一人称叙述角度，对被访者信息全部匿名化处理
 
@@ -1231,7 +1230,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 
 > - **样本偏差** 第一阶段仅纳入男生且限制 [[Academic Achievement\|GPA]] 前 50%，第二阶段虽补充了女生和本科生但仍无法完全消除选择性偏差；62 名被访者集中于两所顶尖大学，结论对普通院校的外推性有限
 > - **[[Epistemology\|认识论]]定位** [[Constructivist Paradigm\|建构主义]]诠释学取向优先解释性理解而非[[Causality\|因果推断]]，无法估计[[Variable\|变量]]间的[[Effect Size\|效应量]]和[[Statistical Significance\|统计显著性]]
-> - **研究者立场** 作者对南方大学为"局内人"（易获信任但可能将地方性常识视为理所当然），对北方大学为"局外人"（通过非正式[[Dialogue in Education\|对话]]和校友网络弥补）
+> - **研究者立场** 作者对南方大学为"局内人"（易获信任但可能将地方性常识视为理所当然），对北方大学为"局外人"（通过非正式对话和校友网络弥补）
 > - **[[Typification\|类型化]]方法的边界** 两种模式和四分类均为韦伯意义上的"理念型"，个体在现实中可能兼具多种类型的特征；类型化本身有简化现实的代价
 > - **追踪时点** 访谈聚焦毕业前夕的出路选择，中长期职业发展轨迹尚未可知——[[Lost Mode\|迷失无从者]]的长期后果是否如毕业时显现的那样不利，有待追踪验证
 

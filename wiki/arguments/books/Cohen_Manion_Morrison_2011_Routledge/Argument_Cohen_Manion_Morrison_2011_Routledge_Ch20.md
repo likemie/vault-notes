@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_display_title: "Research Methods in Education · Ch20"
 argument_kind: "book-chapter"
-argument_related_count: 46
+argument_related_count: 45
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -51,7 +51,6 @@ related_concepts:
   - "[[Fitness for Purpose]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
-  - "[[Dialogue in Education]]"
   - "[[Leading Questions]]"
   - "[[Homework]]"
   - "[[Interviewer Effects]]"
@@ -706,7 +705,7 @@ Sudman & Bradburn（1982, Ch. 3）系统讨论了问卷中纳入敏感题项的�
 > - 要求受访者记日记，以提高效度和信度。
 >
 > **效度保障**
-> - 访谈结束时询问受访者[[Dialogue in Education\|对话]]题敏感性的看法。
+> - 访谈结束时询问受访者对话题敏感性的看法。
 > - 如果可能，找到验证数据的方法。
 
 > [!warning] 核心原则

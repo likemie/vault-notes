@@ -4,7 +4,7 @@ aliases:
   - 耻
   - 恥
   - 羞耻感
-summary: "儒学四超越德目之一，与西方的纯负面羞耻不同，儒家视耻为自我纠正的积极内在动力——知耻使人内省、认错、改过、继续修身"
+summary: 儒学四超越德目之一，与西方的纯负面羞耻不同，儒家视耻为自我纠正的积极内在动力——知耻使人内省、认错、改过、继续修身
 type: concept
 domain: "chinese-philosophy"
 related_count: 9
@@ -12,17 +12,17 @@ related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags:
-- region/china
-- theory/confucianism
-- field/chinese-philosophy
-- theme/ethics
+  - region/china
+  - theory/confucianism
+  - field/chinese-philosophy
+  - theme/ethics
 related_concepts:
   - "[[Ritual Propriety]]"
   - "[[Rightness]]"
   - "[[Four Sprouts]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-09-23
 ---
 
 # Shame (Confucianism)
@@ -83,7 +83,7 @@ updated: 2026-05-22
 > [!tip]-
 > - 与[[Mencius\|孟子]][[Four Sprouts\|四端]]说的关联：羞恶之心 → 义([[Argument_Li_2012_Cambridge\|Li, 2012, pp.42-43]])——耻感是义的先天萌芽
 > - [[Self-Cultivation]] — 耻是修身中自我纠正的内在机制
-> - [[Learning Virtues]] — 耻与诚心（真诚面对自己）和[[Humility in Learning\|谦虚]]（承认不足）直接关联
+> - [[Learning Virtues]] — 耻与诚心（真诚面对自己）和[[Humility\|谦虚]]（承认不足）直接关联
 
 ---
 

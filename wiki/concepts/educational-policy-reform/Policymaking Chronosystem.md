@@ -8,7 +8,7 @@ aliases:
 summary: "借鉴布朗芬布伦纳的生物生态学时间系统概念，阐明政策制定深受特定历史时空、社会危机与突发事件驱动的动态时间生态，解释政治决策极速响应与学术研究长周期之间的结构性时间错配"
 type: concept
 domain: "educational-policy-reform"
-related_count: 27
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Document]]"
   - "[[Informationalization]]"
-  - "[[Growth]]"
   - "[[Evidence-Based Education]]"
   - "[[Output-Oriented Governance]]"
   - "[[Value Neutrality]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Policymaking Chronosystem
@@ -174,7 +173,7 @@ updated: 2026-09-18
 ## 概念演变
 
 > [!dev-timeline] 时间系统概念在政策研究中的演化脉络
-> - **1994 — 生物生态学历时系统理论提出** [[Urie Bronfenbrenner\|布朗芬布伦纳]]与塞西（Bronfenbrenner & Ceci, 1994）在人类发展模型中确立历时系统（Chronosystem），阐明社会历史条件与生命历程突发事件对个体[[Growth\|成长]]的决定性塑造。
+> - **1994 — 生物生态学历时系统理论提出** [[Urie Bronfenbrenner\|布朗芬布伦纳]]与塞西（Bronfenbrenner & Ceci, 1994）在人类发展模型中确立历时系统（Chronosystem），阐明社会历史条件与生命历程突发事件对个体成长的决定性塑造。
 > - **1984 / 2003 — 政策议程多源流与机会之窗** 金登（Kingdon）提出政策之窗理论，揭示政策偶发性与政治时机对议程设置的驱动，为政策时间维度的非线性思考奠定基石。
 > - **2000s — [[Evidence-Based Education\|循证教育]]运动的静态时间幻觉** 随着《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）的颁布，循证教育政策预设了无时间摩擦的“研究生产-证据清算-政策采纳”线性链条，忽视了宏观政策的政治时间节律。
 > - **2020 — 政策制定时间系统理论化确立** 塞佩尔（[[Argument_Serpell_2020_EP\|Serpell, 2020]]）正式将生物生态学时间系统引介至教育政策与[[Output-Oriented Governance\|循证治理]]领域，系统论证政策时间生态对证据利用的制约，提出兼顾法定重新授权与突发事件的[[Navigational Framework for Educational Researchers\|政策导航框架]]。

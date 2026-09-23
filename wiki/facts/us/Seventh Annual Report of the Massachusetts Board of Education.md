@@ -13,7 +13,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Normal School]]"
-  - "[[Growth]]"
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-22
 ---
 
 # Seventh Annual Report of the Massachusetts Board of Education
@@ -87,7 +86,7 @@ updated: 2026-09-06
 > - **正规公立[[Normal School\|师范学校]]（Normal Schools）与教师专业素质**
 >   高度推崇普鲁士各省设立的教师讲习所（*Lehrerseminare*）；指出普鲁士教师均受过严格的儿童心理学与教学方法训练，教学成为受全社会敬重的专门职业，彻底淘汰了兼差与无证人员。（pp. 31–32; Downs, 1974）
 > - **[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]直观教学法与口头问答教学**
->   盛赞普鲁士课堂彻底扬弃了[[Rote Learning\|死记硬背]]与机械听写，广泛采用实物教学（object teaching）、直观教具与启发式口头问答，遵循儿童心灵官能自然[[Growth\|成长]]节奏，使课堂充满求知的欢愉。（pp. 31–32）
+>   盛赞普鲁士课堂彻底扬弃了[[Rote Learning\|死记硬背]]与机械听写，广泛采用实物教学（object teaching）、直观教具与启发式口头问答，遵循儿童心灵官能自然成长节奏，使课堂充满求知的欢愉。（pp. 31–32）
 > - **温和人道纪律与废除严酷体罚**
 >   曼在报告中写下震动全美的著名论断：在其长达数月对普鲁士数十所学校的走访中，他“从未见过一名学生受到一次鞭打（never saw a blow struck）”，也未见过一名学生流泪；教师依靠仁爱、道德自律与内在激励维持秩序，使学校成为儿童向往的精神殿堂。（p. 31; Downs, 1974:88）
 > - **超越狭隘教派偏见的道德品格教育**

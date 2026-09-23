@@ -17,8 +17,8 @@ tags:
   - pedagogy
 related_concepts:
   - "[[Educative Experience]]"
-  - "[[Growth]]"
   - "[[Rote Learning]]"
+  - "[[Growth]]"
   - "[[Epistemology]]"
   - "[[Dialogue in Education]]"
   - "[[Reflective Thinking]]"
@@ -46,7 +46,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> **反教育经验（Mis-[[Educative Experience]]）**是约翰·[[John Dewey\|杜威]]在《经验与教育》（*Experience and Education*, 1963）中提出的阻碍性经验概念。它指具有截断、停滞或扭曲未来经验[[Growth\|生长]]品质与方向效果的经验。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 30–31)]]
+> **反教育经验（Mis-[[Educative Experience]]）**是约翰·[[John Dewey\|杜威]]在《经验与教育》（*Experience and Education*, 1963）中提出的阻碍性经验概念。它指具有截断、停滞或扭曲未来经验生长品质与方向效果的经验。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 30–31)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向那些造成求知兴趣退化、理智麻木或身体活动受压抑的消极经验模式。
@@ -56,7 +56,7 @@ updated: 2026-09-17
 > [!citation-card]- 关键表述
 > 凡是具有阻碍或扭曲未来经验生长效果的经验，都是反教育经验。例如，某些操练可能使学生获得某种特定技能，但却损害了其理智敏感度。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 31)]]
 >
-> *Any experience is mis-educative that has the effect of arresting or distorting the growth of further experience. (Dewey, 1963, p. 25)*
+> *Any experience is mis-educative that has the effect of arresting or distorting the [[Growth]] of further experience. (Dewey, 1963, p. 25)*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Educative Experience\|教育性经验]] — 后者开启并促进未来的持续生长。
@@ -78,7 +78,7 @@ updated: 2026-09-17
 ## 核心要素
 
 > [!feature] 核心要素
-> - **[[Growth\|生长]]的截断性（Arresting Growth）** 经验削弱了个体应对未来新情境的灵活度与敏感度。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 31)]]
+> - **生长的截断性（Arresting [[Growth]]）** 经验削弱了个体应对未来新情境的灵活度与敏感度。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 31)]]
 > - **获取原则的恶性循环（Principle of Acquisition）** 自上而下的灌输无法引发内在难题，只能通过镇压身体活动维持秩序。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 35)]]
 > - **讲述病（[[Narration Sickness]]）** 符号与事实脱离现实语境，导致知识与生活的撕裂。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 44)]]
 

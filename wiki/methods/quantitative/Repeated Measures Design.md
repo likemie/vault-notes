@@ -10,9 +10,9 @@ summary: "真实验设计变体，同一组受试者在两种或多种实验条�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 15
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/experimental
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Order Effects]]"
   - "[[Hypothesis]]"
   - "[[Interaction Effect]]"
-  - "[[Growth]]"
   - "[[Threats to Internal Validity]]"
 related_methods:
   - "[[True Experimental Design]]"
@@ -39,7 +38,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-07-12
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 # Repeated Measures Design
 
@@ -99,7 +98,7 @@ updated: 2026-09-17
 
 > [!method-fit] 适用判断
 > - **适合使用** [[Order Effects\|顺序效应]]不重要或不太可能时；需要消除个体差异混淆时（如小样本研究）；干预效应可逆时——参与者可以在不同条件下回到可比状态。
-> - **谨慎使用** 干预可能产[[Growth\|生长]]期延续效应时；干预本身的性质可能在序列中变化时。
+> - **谨慎使用** 干预可能产生长期延续效应时；干预本身的性质可能在序列中变化时。
 > - **不适合使用** 干预效应不可逆时（如学习效应——一旦学会就不会遗忘）；当顺序效应本身就是研究对象时（需使用组间设计）。
 
 > [!example] 适合重复测量设计的研究场景

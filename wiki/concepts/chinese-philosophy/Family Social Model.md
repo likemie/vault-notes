@@ -4,7 +4,7 @@ aliases:
   - 家庭社会关系模型
   - 类亲属关系
   - family-based social relations
-summary: "儒家将家庭等级关系扩展到社会关系中的文化模式，在学校中表现为学兄学姐学弟学妹等称谓，将同学关系建构为类亲属关系"
+summary: 儒家将家庭等级关系扩展到社会关系中的文化模式，在学校中表现为学兄学姐学弟学妹等称谓，将同学关系建构为类亲属关系
 type: concept
 domain: "chinese-philosophy"
 related_count: 8
@@ -21,7 +21,7 @@ related_concepts:
   - "[[Ritual Propriety]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Operationalization]]"
   - "[[Peer-Supported Learning]]"
 related_theories: []
@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-09-23
 ---
 
 # Family Social Model
@@ -63,7 +63,7 @@ updated: 2026-05-25
 > [!tip]-
 > - [[Five Cardinal Relationships\|五伦]] — Family Social Model 以五伦中的父子、长幼关系为基础模板，向所有社会关系扩展
 > - [[Ritual Propriety\|礼]] — 类亲属称谓的使用和相应的行为规范体现了礼的秩序
-> - [[Self-Cultivation\|修身]] — 帮助同学被视为展现[[Learning Virtues\|学习美德]]中的慷慨与责任，求助则展现[[Humility in Learning\|谦逊]]
+> - [[Self-Cultivation\|修身]] — 帮助同学被视为展现[[Learning Virtues\|学习美德]]中的慷慨与责任，求助则展现[[Humility\|谦逊]]
 
 ## 概念辨析
 
@@ -76,7 +76,7 @@ updated: 2026-05-25
 
 > [!success]
 > - 中国儿童入小学时大多已熟悉直接的亲属称谓体系，并对"年长者"与"年幼者"的角色责任有基本理解([[Argument_Li_2012_Cambridge\|Li, 2012, p.213–214]])。
-> - 在学校中，这一体系使教师和家长要求高成就学生帮助低成就学生的做法顺理成章：帮助者展现责任与慷慨的美德，接受帮助者展现[[Humility in Learning\|谦逊]]的美德，不涉及羞辱或轻蔑([[Argument_Li_2012_Cambridge\|Li, 2012, p.214]])。
+> - 在学校中，这一体系使教师和家长要求高成就学生帮助低成就学生的做法顺理成章：帮助者展现责任与慷慨的美德，接受帮助者展现[[Humility\|谦逊]]的美德，不涉及羞辱或轻蔑([[Argument_Li_2012_Cambridge\|Li, 2012, p.214]])。
 > - 相比之下，西方学校中同龄学生之间的帮助行为缺少这种文化制度化的支持，高成就者更容易被视为竞争者或炫耀者。
 
 ## 相关案例／政策

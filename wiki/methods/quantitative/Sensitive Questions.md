@@ -10,7 +10,7 @@ summary: "可能引发受访者低报或过度报告的问卷题项，其敏感�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
+method_related_count: 6
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Reliability]]"
   - "[[Leading Questions]]"
-  - "[[Dialogue in Education]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
 related_methods:
@@ -33,7 +32,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 # Sensitive Questions
 
@@ -111,7 +110,7 @@ Sudman & Bradburn（1982, Ch. 3, pp. 55–56）系统地提出了处理敏感或
 >   日记可以提供比一次性回顾更准确的行为频率数据，提高效度和信度。
 
 > [!dimension] 效度保障
-> - **访谈结束时询问受访者[[Dialogue in Education\|对话]]题敏感性的看法**
+> - **访谈结束时询问受访者对话题敏感性的看法**
 >
 >   在数据收集完成后，请受访者评价他们认为哪些问题敏感、哪些感到不适，为偏差评估提供参考。
 >

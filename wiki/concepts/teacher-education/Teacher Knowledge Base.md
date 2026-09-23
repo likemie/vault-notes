@@ -8,7 +8,7 @@ aliases:
 summary: "教师在教育教学实践中所依托的多元复合知识体系，涵盖学科知识、学科教学知识、实践智慧、学情认知与育人伦理，强调在情境中对多源知识进行动态整合与审慎裁决"
 type: concept
 domain: "teacher-education"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Technical Rationality]]"
   - "[[Implementation Fidelity]]"
-  - "[[Growth]]"
   - "[[Effective Teaching]]"
   - "[[Research Utilization]]"
   - "[[Research Literacy]]"
@@ -98,7 +97,7 @@ updated: 2026-09-22
 > - **实践性智慧（Practical Wisdom / [[Phronesis]]）** 教师在长期的课堂互动与反思中积淀的临场判断力与实践体悟（Grimen, 2008）。
 > - **学情与个体认知（Learners and their Characteristics）** 对学生的认知水平、情绪状态、先验经验与身心发展规律的深度洞察。
 > - **教育情境与制度脉络（Educational Contexts）** 对学校[[Organizational Culture\|组织文化]]、社区生态、时间与空间资源的把握与利用。
-> - **育人伦理与专业规范（Educational Ends, Purposes, and Values）** 指引教学决策的道德责任、教育公平信念与学[[Growth\|生长]]远福祉关怀（Eriksen, 2022）。
+> - **育人伦理与专业规范（Educational Ends, Purposes, and Values）** 指引教学决策的道德责任、教育公平信念与学生长远福祉关怀（Eriksen, 2022）。
 
 > [!logic-map]- 教师知识库与课堂教学实践的动态整合机制
 > ```mermaid
@@ -136,7 +135,7 @@ updated: 2026-09-22
 > 揭示教育价值观与专业规范在教师调用和转化外部科研知识时的把关机制。
 
 > [!claim] Eriksen (2022); Hermansen & Mausethagen (2023); [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]
-> **价值信念对知识使用的中介与过滤** 教学不仅关乎教学成效，更关乎育人伦理与价值追求；在教师知识库中，专业规范与价值信念构成了调节知识转化的核心中介，当某项科研结论所推荐的高效方法可能损害学[[Growth\|生长]]远身心健康或教育公平时，教师会基于育人伦理审慎调整或搁置该方案，这种取舍反映了高度成熟的专业理性而非认知缺陷。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, p. 8)]]
+> **价值信念对知识使用的中介与过滤** 教学不仅关乎教学成效，更关乎育人伦理与价值追求；在教师知识库中，专业规范与价值信念构成了调节知识转化的核心中介，当某项科研结论所推荐的高效方法可能损害学生长远身心健康或教育公平时，教师会基于育人伦理审慎调整或搁置该方案，这种取舍反映了高度成熟的专业理性而非认知缺陷。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, p. 8)]]
 
 ---
 

@@ -4,7 +4,7 @@ aliases:
   - 孟子
   - Meng Ke
   - 孟轲
-summary: "战国时期儒家思想家，孔子学说的直接继承者，以性善论和四端说为修身提供人性论基础，主张人人皆可为尧舜。其著作在当代语文教材中被选为官方知识经典，同时引发边缘学生对其男权精英导向的批判反思"
+summary: 战国时期儒家思想家，孔子学说的直接继承者，以性善论和四端说为修身提供人性论基础，主张人人皆可为尧舜。其著作在当代语文教材中被选为官方知识经典，同时引发边缘学生对其男权精英导向的批判反思
 type: person
 nationality: china
 person_region: "china"
@@ -12,9 +12,9 @@ person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
-born: "c. 372 BCE"
-died: "289 BCE"
-lifespan: "c. 372 BCE – 289 BCE"
+born: c. 372 BCE
+died: 289 BCE
+lifespan: c. 372 BCE – 289 BCE
 tags:
   - region/china
   - field/chinese-philosophy
@@ -31,7 +31,7 @@ related_concepts:
   - "[[Benevolence]]"
   - "[[Rightness]]"
   - "[[Sense of Shame]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Ritual Propriety]]"
   - "[[Bildung]]"
 related_theories:
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Mencius
@@ -116,7 +116,7 @@ updated: 2026-09-17
 > |------------------|----------|----------|
 > | 恻隐之心 | 对他人苦难的同理共情（compassion） | → [[Benevolence]]（仁） |
 > | 羞恶之心 | 对不道德行为的[[Sense of Shame\|羞耻感]]（feeling shame） | → [[Rightness]]（义） |
-> | 辞让之心 | [[Humility in Learning\|谦逊]]与礼让态度（courtesy & modesty） | → [[Ritual Propriety]]（礼） |
+> | 辞让之心 | [[Humility\|谦逊]]与礼让态度（courtesy & modesty） | → [[Ritual Propriety]]（礼） |
 > | 是非之心 | 辨别善恶对错的能力（distinguishing right/wrong） | → 智（wisdom） |
 
 ---

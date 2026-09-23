@@ -9,7 +9,7 @@ summary: "质性数据分析中将文本、图像及多模态数据拆解分段�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 65
+method_related_count: 66
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -23,12 +23,12 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epoché]]"
   - "[[Epistemology]]"
-  - "[[Dialogue in Education]]"
   - "[[Reflexivity]]"
   - "[[Research Purpose]]"
   - "[[Saturation]]"
   - "[[Reliability]]"
   - "[[Visual Data]]"
+  - "[[Meaningful Human Control]]"
   - "[[Champ]]"
   - "[[Emergence]]"
   - "[[Variable]]"
@@ -79,7 +79,8 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Template Analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Miranda Fricker]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
@@ -92,7 +93,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Coding in Qualitative Research
@@ -120,7 +121,7 @@ updated: 2026-09-17
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 经验文本不具备脱离解释者的纯粹客观性；编码绝非单纯的机械标识，而是研究者理论前见与文本深层意蕴的主动互动[[Dialogue in Education\|对话]]，旨在通过概念化标签重构经验世界的社会现实（Seidel & Kelle, 1995；Gibbs, 2007）。
+> - **知识观** 经验文本不具备脱离解释者的纯粹客观性；编码绝非单纯的机械标识，而是研究者理论前见与文本深层意蕴的主动互动对话，旨在通过概念化标签重构经验世界的社会现实（Seidel & Kelle, 1995；Gibbs, 2007）。
 > - **研究者角色** 研究者是编码过程的核心诠释工具，其理论敏感度、分类审慎性与[[Reflexivity\|反身性]]直接决定范畴提炼的深度，必须通过反身性备忘录（[[Memos]]）与[[Audit Trail\|审核追踪]]（audit trail）监控前见与分类偏向。
 > - **有效性标准** 遵循类属反映[[Research Purpose\|研究目的]]、穷尽与互斥三大原则；在[[Grounded Theory\|扎根理论]]取向中追求范畴的概念密度与[[Saturation\|理论饱和]]；在多编码者情境中依托[[Qualitative Codebook\|编码手册]]达到高[[Intercoder Agreement\|编码者间一致性]]（[[Reliability\|信度]] ≥80%）。
 > - **不声称回答的问题** 编码本身不直接等同于因果规律或实质理论建构；离散代码的词频统计不能脱离上下文直接作为心理重要性或因果必然性的充分证据。
@@ -129,7 +130,7 @@ updated: 2026-09-17
 > - **研究设计** [[Grounded Theory\|扎根理论]]、[[Phenomenology\|现象学]]研究、[[Ethnography\|民族志]]、[[Qualitative Content Analysis\|质性内容分析]]与[[Mixed Methods Research\|混合方法]]设计。
 > - **数据收集** [[Semi-structured Interview\|半结构化访谈]]、[[Participant Observation\|参与观察]]笔记、[[Document\|文献]]档案收集、[[Visual Data\|视觉影像]]采集。
 > - **分析方法** 粗编码、[[Open Coding\|开放编码]]、分析编码、[[Axial Coding\|主轴编码]]、[[Selective Coding\|选择性编码]]、Tesch 八步法、[[Constant Comparison\|持续比较法]]、[[Domain Analysis\|领域分析]]。
-> - **辅助技术** 计算机辅助质性分析软件（[[Qualitative Computer Software\|CAQDAS]]，如 NVivo、MAXQDA、ATLAS.ti）、编码手册、反身性备忘录、大语言模型人在回路（HITL）协同赋码。
+> - **辅助技术** 计算机辅助质性分析软件（[[Qualitative Computer Software\|CAQDAS]]，如 NVivo、MAXQDA、ATLAS.ti）、编码手册、反身性备忘录、大语言模型[[Meaningful Human Control|人在回路]]（HITL）协同赋码。
 
 ---
 
@@ -209,7 +210,7 @@ updated: 2026-09-17
 > | | **9. 方法代码** | 记录研究过程本身的方法论决策、研究者反身性反思及田野偶发局限。 | 录音设备让受访者产生戒备心理、研究者作为局外人被排斥在核心教研会议之外 |
 
 > [!framework-table] 开放编码核心追问矩阵
-> 弗里克（Uwe Flick）提炼了指引开放编码深入展开的 11 个关键设问维度：[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Flick, 2009; Cohen et al., 2011, p. 561)]]
+> [[Miranda Fricker|弗里克]]（Uwe Flick）提炼了指引开放编码深入展开的 11 个关键设问维度：[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Flick, 2009; Cohen et al., 2011, p. 561)]]
 >
 > | 分析维度 | 追问方向 | 引导性核心设问 |
 > |---|---|---|
@@ -264,7 +265,7 @@ updated: 2026-09-17
 > - **CAQDAS 编码机制** 计算机辅助质性分析软件（如 NVivo、MAXQDA、ATLAS.ti、Dedoose）将编码定义为描述文本数据的词或短短语，把编码组织为层级树（hierarchical trees）与关键节点（nodes），支持挂载编码备忘录（[[Memos\|analytic memos]]）并开展复杂的布尔逻辑检索。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.4)]]
 > - **视觉与多模态数据编码** [[Visual Data\|视觉数据]]（照片、视频、电影、手绘图等）在质性研究中广泛应用。编码视觉数据面临多重挑战：图像更易反映宏观文化定型而非个体主观视角；面部与物理场景导致匿名性难以保证；必须严格落实[[Informed Consent\|知情同意]]与版权许可。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 9)]]
 
-> [!method-panel] 大语言模型（LLM）辅助质性编码与人在回路（HITL）
+> [!method-panel] 大语言模型（LLM）辅助质性编码与[[Meaningful Human Control|人在回路]]（HITL）
 > 随着[[Generative Artificial Intelligence\|生成式人工智能]]的发展，大语言模型正成为质性编码的新型辅助工具，但必须严格恪守**人在回路（Human-in-the-Loop，HITL）**原则：[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, 30.6)]]
 > - **演绎性规程赋码** 将[[Qualitative Codebook\|质性编码手册]]、范畴界定、[[Operationalization\|操作化]]规则与正反样例编制为系统化提示词。模型在明确的[[Analytic Framework\|分析框架]]约束下实施规则匹配，提取目标片段并输出赋码依据，适合大样本[[Content Analysis\|内容分析]]。
 > - **归纳性概念探索** 引导模型扫描原始转录文本，提出初步候选标签与新兴主题，为研究者打破思维定势、捕捉意外编码提供启发。

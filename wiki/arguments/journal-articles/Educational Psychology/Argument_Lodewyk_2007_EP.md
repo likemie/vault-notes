@@ -23,15 +23,14 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Epistemology]]"
-  - "[[Growth]]"
   - "[[Self-Regulated Learning]]"
   - "[[Hypothesis]]"
   - "[[Order Effects]]"
+  - "[[Open-Mindedness]]"
   - "[[Rote Learning]]"
   - "[[Going Native]]"
   - "[[Variable]]"
   - "[[Critical Thinking]]"
-  - "[[Dialogue in Education]]"
   - "[[Self-Efficacy]]"
   - "[[Learned Helplessness]]"
   - "[[Independent Variable]]"
@@ -72,7 +71,7 @@ title: "Argument_Lodewyk_2007_EP"
 argument_key: "Argument_Lodewyk_2007_EP"
 argument_display_title: "Relations among epistemological beliefs, academic achievement, and task performance in secondary school students"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -102,7 +101,7 @@ issuing_organization: ""
 > [!dimension] 本文围绕认识论信念展开的七项具体探究维度（pp.312–313）
 > - **维度一：量表因子结构的实证探索** 在中学生群体中检验中学生修订版认识论[[Questionnaire\|问卷]]（[[Schommer's Modified Epistemological Questionnaire]], SMEQ）的底层因子维度，提取并确立核心信念维度。
 > - **维度二：办学导向（宗教 vs 公立）的信念差异** 比较独立新教基督教学校与非宗教公立学校学生在认识论信念上的分布差异。
-> - **维度三：认识论信念对总体学业成就的预测力** 检验各认识论信念因子对学[[Growth\|生长]]期总体学业成就预估值（estimates of overall academic achievement, EOAA）的回归预测作用。
+> - **维度三：认识论信念对总体学业成就的预测力** 检验各认识论信念因子对学生长期总体学业成就预估值（estimates of overall academic achievement, EOAA）的回归预测作用。
 > - **维度四：不同学业成就水平组的信念分化** 对比高、中、低三组学业成就学生在各项认识论维度上的朴素程度差异。
 > - **维度五：任务结构对认识论预测效应的调节作用** 比较认识论信念对良构任务（well-structured task, WST）与劣构任务（ill-structured task, IST）表现的差异化预测效力。
 > - **维度六：劣构任务中反思性判断的预测机制** 检验认识论信念是否能独立预测学生在劣构辩护任务中的反思性判断（[[Reflective Judgment Model\|Reflective Judgment]], RJ）深度。
@@ -150,7 +149,7 @@ issuing_organization: ""
 > | 任务设计维度 | 良构任务（WST）：个人生活方式计划<br>Personal Lifestyle Plan | 劣构任务（IST）：专案组议题辩护<br>Task-Force Issue |
 > |---|---|---|
 > | **任务主题与目标** | 选择一种特定癌症，收集其病因、危险因素、症状、治疗手段及降低患病风险的生活方式预防行为，撰写结构化报告。 | 扮演专案组成员，就政府癌症财政拨款应优先投向预防宣传还是治疗科研撰写议论文，进行立场论证与合理性辩护。 |
-> | **先行组织者与导入** | 任务前播放 20 分钟癌症预防生活方式录像，并要求完成对应导学工作表以激活先验认知。 | 无先行组织者或引导录像，学生直接面对开放性争议问题。 |
+> | **先行组织者与导入** | 任务前播放 20 分钟癌症预防生活方式录像，并要求完成对应导学工作表以激活先验认知。 | 无先行组织者或引导录像，学生直接面对[[Open-Mindedness\|开放性]]争议问题。 |
 > | **资源可及性** | 教师直接提供预先打包整理好的癌症特定资料文件袋。 | 教师不提供现成资料包，学生必须在教室书架和既有资源中自行检索、筛选与甄别材料。 |
 > | **教学线索与子目标** | 任务说明书中提供详尽的格式、文体、小节标题及内容目标指引。 | 仅提供核心问题框架，线索极少，无预设标准大纲。 |
 > | **评价标准透明度** | 详细评分量规在布置任务时直接发放给学生，评分标准完全公开透明。 | 采用不列颠哥伦比亚省教育部历史12考试论文评分标准，但**不向学生展示量规**，考核开放论辩质量。 |
@@ -229,7 +228,7 @@ issuing_organization: ""
 > 传统直觉和部分既有研究常认为，宗教背景容易让学生迷信绝对权威或教条真理。但本研究打破了这一刻板[[Hypothesis\|假设]]，作者提出了三点合理的解释机制（pp.322–323）：
 > 1. **思辨课程与情境化协调** 独立基督教学校的课程常常涉及伦理道德、社会正义等复杂议题的讨论，促使学生从小学会从不同情境与多重视角去协调矛盾观点；
 > 2. **科学与信仰的长期思辨磨炼** 教会学校学生在科学课上经常需要面对科学实证与信仰文本之间的张力，这种长期的思辨训练让他们更早认识到：科学本身是一种不断修正、演进的人类探索过程，而不是终极僵化的绝对真理；
-> 3. **家庭学习环境的讨论氛围** 选择入读独立学校的家庭往往更为关注孩子的[[Critical Thinking\|批判性思维]]与价值观培育，提供了更多深度[[Dialogue in Education\|对话]]的机会。
+> 3. **家庭学习环境的讨论氛围** 选择入读独立学校的家庭往往更为关注孩子的[[Critical Thinking\|批判性思维]]与价值观培育，提供了更多深度对话的机会。
 
 ---
 
@@ -343,7 +342,7 @@ issuing_organization: ""
 > [!concept-lens] 通俗解读：女生在学业与思维成熟度上的全面领先
 > 在全样本 447 名中学生（男生 219 人，女生 228 人）中，作者对比了男女生在平时成绩、两类课堂任务表现以及认识论观念上的差异。
 > 
-> 结果展现出一个极其清晰的模式：**女生不仅在平时的各科成绩和具体的学术任务中得分更高，而且在思维方式上也比男生更具[[Growth\|成长]]型与反思性**。男生则表现出更强的天生能力论（认为学不会是脑子笨）和绝对真理观（认为科学有唯一终极答案）。（pp.321–322）
+> 结果展现出一个极其清晰的模式：**女生不仅在平时的各科成绩和具体的学术任务中得分更高，而且在思维方式上也比男生更具成长型与反思性**。男生则表现出更强的天生能力论（认为学不会是脑子笨）和绝对真理观（认为科学有唯一终极答案）。（pp.321–322）
 
 > [!chain-link] 证据到判断：性别在学业、任务与信念上的三重对比
 > 1. **平时各科总成绩对比（EOAA）**

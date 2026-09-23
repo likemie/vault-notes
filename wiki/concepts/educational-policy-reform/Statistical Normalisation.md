@@ -30,6 +30,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Phronesis]]"
   - "[[Interaction Effect]]"
+  - "[[Cognitive Deskilling]]"
   - "[[Return on Investment]]"
   - "[[Academic Achievement]]"
   - "[[New Public Management]]"
@@ -38,7 +39,6 @@ related_concepts:
   - "[[Epoché]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Visible Learning]]"
-  - "[[Dialogue in Education]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Statistical Normalisation
@@ -95,7 +95,7 @@ updated: 2026-09-17
 > | **核心追求** | 全样本平均[[Effect Size\|效应量]]最大化与钟形曲线集中趋势。 | 剖析干预效应在不同社会人口与背景亚组中的分化。 | 扎根具体个案与微观互动，关照无法被通则涵盖的独特生命。 |
 > | **对待离群值态度** | 视为测量误差、极端噪音或可剔除的不合格样本。 | 视为揭示干预边界条件与反向[[Interaction Effect\|调节效应]]的关键线索。 | 视为教育伦理最应倾注照护与定制化资源的核心对象。 |
 > | **政策服务对象** | 迎合公共财政性价比诉求的政治主流多数派。 | 为针对性精准扶持与分类政策设计提供科学证据。 | 坚守面向每一个具体学生的教育受托责任与育人初心。 |
-> | **制度后果** | 导致两极弱势群体制度性隐形化，教师去技能化。 | 揭示方案局限，促进干预构件与情境生态的高级匹配。 | 激活教师实践智慧，保障教学因材施教与教育公平。 |
+> | **制度后果** | 导致两极弱势群体制度性隐形化，教师[[Cognitive Deskilling\|去技能化]]。 | 揭示方案局限，促进干预构件与情境生态的高级匹配。 | 激活教师实践智慧，保障教学因材施教与教育公平。 |
 
 ---
 
@@ -105,7 +105,7 @@ updated: 2026-09-17
 > - **高斯均值霸权与集中趋势崇拜** 将[[Statistical Significance\|统计显著性]]与平均干预[[Effect Size\|效应量]]确立为衡量方案优劣的唯一权威尺度，将偏离中心趋势的复杂生态强行平滑化。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 225–226)]]
 > - **两极离群弱势群体的制度性抹杀** 在追求统计效力的模型计算中，正态分布两端的特异群体（如重度残障、极端贫困或双重少数族裔儿童）在数学上被直接忽略，导致其诉求在政策分配中彻底失声。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 226–227)]]
 > - **物有所值的功利主义治理修辞** 借用可用性与公共[[Return on Investment\|投资回报]]率（Value for money）等新自由主义修辞，将公共科研资金垄断性投向便于标准化产出的大规模因果实验。
-> - **教师专业受托伦理的去技能化侵蚀** 将一线专业人员贬低为机械落实所谓有效操作处方的技术流水线工，剥夺教师根据课堂动态调适教学的道德责任与[[Phronesis\|实践智慧]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 224–225)]]
+> - **教师专业受托伦理的[[Cognitive Deskilling|去技能化]]侵蚀** 将一线专业人员贬低为机械落实所谓有效操作处方的技术流水线工，剥夺教师根据课堂动态调适教学的道德责任与[[Phronesis\|实践智慧]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 224–225)]]
 > - **主流多数派偏好的结构性再生产** 借科学中立之名行多数人政治之实，利用符合正态分布的证据系统性固化现有社会分层与特权阶层的利益。
 
 > [!logic-map]- 要素关系
@@ -153,7 +153,7 @@ updated: 2026-09-17
 ### 命题三　将统计正态化结论奉为教条严重削弱了教师基于具体情境因材施教的专业受托伦理
 
 > [!concept-lens] [[Teacher Professional Agency\|教师专业自主权]]与[[Phronesis\|实践智慧]]
-> 探讨机械套用平均效应量处方对教育者临床实践判断所造成的去技能化危害。
+> 探讨机械套用平均效应量处方对教育者临床实践判断所造成的[[Cognitive Deskilling|去技能化]]危害。
 
 > [!claim] Yurita, M.
 > **去技能化与受托伦理危机** 教育从根本上是一项高度道德化、情境化的受托事业，其精髓在于教师敏锐觉察眼前具体儿童的独特困顿并施以个性化支持。当基于正态化产出的[[Effective Teaching\|有效教学]]技术被法制化为强制执行标准时，教师的临床实践智慧（Phronesis）被彻底[[Epoché\|悬置]]，教育者被迫退化为机械比对规程的操作工，最终丧失了对那些无法被标准处方拯救的边缘孩子的道德关照。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 224–225)]]
@@ -180,7 +180,7 @@ updated: 2026-09-17
 > - **19 世纪中叶 — 社会物理学起源** 阿道夫·凯特勒（Adolphe Quetelet）将源自天文学的高斯误差曲线引入社会学，提出“平均人”（l’homme moyen）假说，开启了用钟形曲线衡量社会现象的标准。
 > - **1970–1980 年代 — [[Disciplina and Doctrina\|规训]]权力与生物政治批判** 米歇尔·福柯（Michel Foucault）在《规训与惩罚》中批判“正态化规训”（Normalising Judgment），揭示标准化曲线如何成为现代权力区分健康与异常、合规与越轨的治理技术；斯蒂芬·杰·古尔德（Stephen Jay Gould）在《错误度量人类》中系统批判智力测验正态化对弱势族裔的伪科学歧视。
 > - **2000 年代至今 — [[Evidence-Based Education\|循证教育]]改革中的均值霸权成型** 随着证据清除所（[[What Works Clearinghouse\|WWC]]）、可见学习（[[Visible Learning]]）等以 $d \ge 0.40$ 为标尺的实证运动兴起，平均[[Effect Size\|效应量]]被奉为政策圭臬。
-> - **2022 年 — 批判性教育证据治理反思** 日本学者牧人友利田在 [[OECD]] 专题[[Dialogue in Education\|对话]]中，系统提炼并批判了教育证据治理中的统计正态化陷阱，呼吁在追求科学严谨的同时必须坚守捍卫弱势离群群体的专业受托伦理。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 224–227)]]
+> - **2022 年 — 批判性教育证据治理反思** 日本学者牧人友利田在 [[OECD]] 专题对话中，系统提炼并批判了教育证据治理中的统计正态化陷阱，呼吁在追求科学严谨的同时必须坚守捍卫弱势离群群体的专业受托伦理。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 224–227)]]
 
 ---
 
@@ -212,7 +212,7 @@ updated: 2026-09-17
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] | 跨国比较情境（美、日、欧及 [[Centre for Educational Research and Innovation\|OECD CERI]] 项目） | [[Epistemology\|认识论]]批判与政策文本分析 | 统计正态化对两极离群值的排斥、性价比修辞与教师专业去技能化风险 | 揭示以均值因果为导向的研究将正态分布两端弱势学生判定为可忽略离群值；指出[[New Public Management\|新公共管理]]物有所值话语压制少数群体诉求；阐明机械执行导致教师临床[[Phronesis\|实践智慧]]被侵蚀 | — | 该论断基于对量化实证教育政策哲学基础与治理逻辑的深度解构，为理解循证改革中的公平赤字提供了强有力的理论透镜。 |
+> | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] | 跨国比较情境（美、日、欧及 [[Centre for Educational Research and Innovation\|OECD CERI]] 项目） | [[Epistemology\|认识论]]批判与政策文本分析 | 统计正态化对两极离群值的排斥、性价比修辞与教师专业[[Cognitive Deskilling\|去技能化]]风险 | 揭示以均值因果为导向的研究将正态分布两端弱势学生判定为可忽略离群值；指出[[New Public Management\|新公共管理]]物有所值话语压制少数群体诉求；阐明机械执行导致教师临床[[Phronesis\|实践智慧]]被侵蚀 | — | 该论断基于对量化实证教育政策哲学基础与治理逻辑的深度解构，为理解循证改革中的公平赤字提供了强有力的理论透镜。 |
 
 ---
 

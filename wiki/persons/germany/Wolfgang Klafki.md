@@ -7,7 +7,7 @@ summary: "德国教育学家和 Didaktik 代表人物，批判建设性教学论
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Phenomenon-Based Learning]]"
   - "[[Epochal Key Problems]]"
   - "[[General Education]]"
+  - "[[Open-Mindedness]]"
   - "[[Normal School]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Reflexivity]]"
@@ -48,7 +49,7 @@ related_methods:
 confidence: high
 status: draft
 created: '2026-05-06'
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Wolfgang Klafki
@@ -75,7 +76,7 @@ updated: 2026-09-17
 >
 > | 类型 | 条目 | 贡献 |
 > |:-----|:-----|:-----|
-> | 概念 | [[Didaktik]] | 批判建设性教学论代表，关注教学内容的选择、教育目的与未来的开放性。 |
+> | 概念 | [[Didaktik]] | 批判建设性教学论代表，关注教学内容的选择、教育目的与未来的[[Open-Mindedness\|开放性]]。 |
 > | 概念 | [[Bildung]] | 重新阐释经典 Bildung 理论的社会政治性，强调其原初思想面向正义、自由和责任。 |
 > | 概念 | [[Epochal Key Problems]] | 将重大时代危机（如环境危机、社会不平等和战争）作为课程规划的中心点，统合学科深度与跨学科广度。 |
 > | 概念 | [[Phenomenon-Based Learning]] | 为芬兰现象本位学习提供跨学科整合的课程选择依据与规范性方向。 |

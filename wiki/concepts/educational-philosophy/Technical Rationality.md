@@ -10,7 +10,7 @@ aliases:
 summary: "将专业实践与教育治理窄化为手段-目的因果计算与去情境化技术控制的实证主义模型；在微观教学中剥夺教师专业判断，在宏观政策与比较教育中将教育退化为劳动力技能规训并侵蚀全人教化"
 type: concept
 domain: "educational-philosophy"
-related_count: 75
+related_count: 74
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -55,7 +55,7 @@ related_concepts:
   - "[[Subjectivism]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Evidence-Informed Practice]]"
-  - "[[Dialogue in Education]]"
+  - "[[Cognitive Deskilling]]"
   - "[[Evidence-Based Education]]"
   - "[[Research-Practice Partnership]]"
   - "[[Paradigm]]"
@@ -64,7 +64,6 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Effective Teaching]]"
   - "[[Causality]]"
-  - "[[Growth]]"
   - "[[Champ]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -105,7 +104,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Technical Rationality
@@ -225,7 +224,7 @@ updated: 2026-09-18
 > **摒弃自上而下输送与培育肥沃土壤** 长期以来，教育政策界误将证据推进构想为自上而下的“技术-理性”研究供给过程。[[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 127)]] 指出，这种线性传递因忽视学校中介条件与教师专业准备度而频遭受挫，并触发了以 [[ResearchED]] 为代表的草根教师证据运动。推动真正的[[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP），必须确立[[Professional Judgment\|专业判断]]为整合研究、系统数据与课堂情境的核心枢纽，将知识流动理解为多方协同共创的[[Knowledge Mobilisation\|知识动员]]社会互动过程。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 127–131)]]
 
 > [!claim] [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] / Coburn et al. (2009)
-> **破除“证据自身发声”迷思与确立“深思熟虑参与”的质量基准** 柯伯恩等（Coburn et al., 2009）与马克·里克森等（Mark Rickinson et al., 2022a）剖析了循证运动中技术理性的关键盲区——深信“证据会自行发声”（Evidence speaks for itself）。跨卫生、社会关照、教育与公共政策四大领域的[[Systematic Review\|系统综述]]表明，单纯聚焦于优质研究供给的线性模式在各部门普遍遭遇实践落空。[[Quality Use of Research Evidence Framework\|QURE]] 框架从认识论上确立了替代路径：[[Research Utilization\|证据使用]]质量并非取决于去情境化的技术套用，而是“适切研究证据”（Appropriate Research Evidence）与实践主体“深思熟虑参与”（Thoughtful Engagement）的双核互构。克服技术理性，必须将证据视作激发专业判断与集体探究的[[Dialogue in Education\|对话]]媒介，而非规训一线行为的操作处方。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 139–142)]]
+> **破除“证据自身发声”迷思与确立“深思熟虑参与”的质量基准** 柯伯恩等（Coburn et al., 2009）与马克·里克森等（Mark Rickinson et al., 2022a）剖析了循证运动中技术理性的关键盲区——深信“证据会自行发声”（Evidence speaks for itself）。跨卫生、社会关照、教育与公共政策四大领域的[[Systematic Review\|系统综述]]表明，单纯聚焦于优质研究供给的线性模式在各部门普遍遭遇实践落空。[[Quality Use of Research Evidence Framework\|QURE]] 框架从认识论上确立了替代路径：[[Research Utilization\|证据使用]]质量并非取决于去情境化的技术套用，而是“适切研究证据”（Appropriate Research Evidence）与实践主体“深思熟虑参与”（Thoughtful Engagement）的双核互构。克服技术理性，必须将证据视作激发专业判断与集体探究的对话媒介，而非规训一线行为的操作处方。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 139–142)]]
 
 ---
 
@@ -235,7 +234,7 @@ updated: 2026-09-18
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认识论批判命题** | 揭示技术理性手段-目的计算在复杂、不确定专业情境中的失效与错配 | 课堂教学、临床诊断等不确定性专业实践 | Schön; Nielsen & Klitmøller |
-> | **社会学与治理批判命题** | 揭示技术理性在教育治理中引发的去技能化、认识论断裂、人本精神失落与合法化危机 | [[Evidence-Based Education\|循证教育]]问责、新公共管理、数字化监测基础设施与国际指标测度 | Habermas; Biesta; Kazamias; Helgetun & Menter; Serpell; Raudenbush; [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]] |
+> | **社会学与治理批判命题** | 揭示技术理性在教育治理中引发的[[Cognitive Deskilling\|去技能化]]、认识论断裂、人本精神失落与合法化危机 | [[Evidence-Based Education\|循证教育]]问责、新公共管理、数字化监测基础设施与国际指标测度 | Habermas; Biesta; Kazamias; Helgetun & Menter; Serpell; Raudenbush; [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]] |
 > | **实践重构与替代命题** | 倡导以专业判断为枢纽、破除“证据自身发声”迷误，转向适切证据与深思熟虑参与双核互构 | 证据知情学校改进、[[Research-Practice Partnership\|研究-实践伙伴关系]]、高质量证据使用 | Nelson & Campbell; Bryk; Rickinson et al.; Coburn et al. |
 
 ---
@@ -295,7 +294,7 @@ updated: 2026-09-18
 > - **[[Epistemological Break\|认识论断裂]]与逆向合法化工具** 忽视科研转化中的情境衰减，使技术理性退化为服务于既定政治议程的合理化外壳。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 96)]]
 
 > [!warning] 适用局限
-> 技术理性仅适用于具有高度可预测性、[[Causality\|因果关系]]清晰且价值目标完全闭合的技术工程领域；在面对包含多元价值冲突、动态情境生成与师生生命[[Growth\|成长]]的真实教育[[Champ\|场域]]中，技术理性存在根本性的[[Epistemology\|认识论]]盲区。
+> 技术理性仅适用于具有高度可预测性、[[Causality\|因果关系]]清晰且价值目标完全闭合的技术工程领域；在面对包含多元价值冲突、动态情境生成与师生生命成长的真实教育[[Champ\|场域]]中，技术理性存在根本性的[[Epistemology\|认识论]]盲区。
 
 ---
 

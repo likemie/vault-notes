@@ -133,7 +133,7 @@ updated: 2026-09-17
 
 > [!influence-path] 影响路径
 > - **理论路径** — 奠定[[Confucian Learning Tradition\|儒家学习传统]]与东亚学习模型，塑造了集“[[Self-Cultivation\|修身]]-好学-好德”于一体的人性论与学习哲学[[Argument_Li_2012_Cambridge\|(Li, 2012)]]。
-> - **方法路径** — 倡导“不愤不启，不悱不发”的启发式[[Dialogue in Education\|对话]]教学（dialogic teaching），强调高阶思考与社会互动的契合[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 596)]]。
+> - **方法路径** — 倡导“不愤不启，不悱不发”的启发式[[Dialogue in Education|对话教学]]（dialogic teaching），强调高阶思考与社会互动的契合[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 596)]]。
 > - **政策与课程路径** — [[Civil Service Examination\|科举]]制与现代[[Gaokao\|高考]]传承其选贤举能思想；当代中国教科书将孔子定位为“[[Zhonghua Minzu\|中华民族]]传统文化”的唯一始祖（《历史与社会》），将其选入英语教材“英雄画廊”（与林肯、爱因斯坦、钱学森并列），并将《论语》塑造为正统[[Official Knowledge\|官方知识]]与对外[[Soft Power\|软实力]]符号[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 63, 67)]]。
 > - **跨国／跨领域传播** — 在跨国[[Policy Borrowing\|政策借用]]中与西方心理学产生[[Selective Affinity\|选择性亲和]]（如与[[Lev Vygotsky\|维果茨基]]社会文化理论在 [[Learner-Centred Education\|LCE]] 改革中的互惠共振）[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 596, 602)]]；在[[John Dewey\|杜威]]中国接受史中充当对比与反转的符号参照系[[Argument_Schulte_2009_EncuentrosEducacion\|(Schulte, 2009, pp. 75, 81)]]。
 
@@ -150,7 +150,7 @@ updated: 2026-09-17
 
 > [!person-network] 关系网络
 > - **继承者／理论阐发者** — [[Mencius\|孟子]]、[[Zhu Xi\|朱熹]]、[[Wang Yangming\|王阳明]] — 继承并深化仁学与性善论/理学/心学体系。
-> - **跨文化[[Dialogue in Education\|对话]]与异质镜像** — [[John Dewey\|John Dewey]] — 1919 年蔡元培将其塑造为“替代性现代[[Sage\|圣人]]”与孔子对比[[Argument_Schulte_2009_EncuentrosEducacion\|(Schulte, 2009, p. 75)]]。
+> - **跨文化对话与异质镜像** — [[John Dewey\|John Dewey]] — 1919 年蔡元培将其塑造为“替代性现代[[Sage\|圣人]]”与孔子对比[[Argument_Schulte_2009_EncuentrosEducacion\|(Schulte, 2009, p. 75)]]。
 > - **理论共振视角** — [[Lev Vygotsky\|Lev Vygotsky]] — 社会文化理论与孔子启发式对话在当代 [[Learner-Centred Education\|LCE]] 改革中产生[[Selective Affinity\|选择性亲和]][[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 596)]]。
 > - **当代[[Cultural Models\|文化模型]]对比者** — [[Jin Li\|李瑾]]（Jin Li） — 区分“历史上的孔子”与后世政治化解读，系统发掘[[Heart and Mind for Wanting to Learn\|好学心]]与[[Self-Cultivation\|修身]]传统[[Argument_Li_2012_Cambridge\|(Li, 2012)]]。
 
@@ -173,7 +173,7 @@ updated: 2026-09-17
 > - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 指出孔子传统强调教师道德与知识权威，在现代化课堂中留下了学生无法参与共决课程大纲与评估标准的结构性硬边界。
 
 > [!warning] 未解问题与边界
-> 在当代多元文化社会与全球教育治理中，如何在继承孔子启发式[[Dialogue in Education\|对话]]与好学传统的同时，突破尊师权威所带来的权力共享边界，并解构其被国家主义收编所带来的汉族中心同化风险，是东亚教育改革面临的深层挑战[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
+> 在当代多元文化社会与全球教育治理中，如何在继承孔子启发式对话与好学传统的同时，突破尊师权威所带来的权力共享边界，并解构其被国家主义收编所带来的汉族中心同化风险，是东亚教育改革面临的深层挑战[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 
 ---
 

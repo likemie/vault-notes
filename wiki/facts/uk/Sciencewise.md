@@ -12,7 +12,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 9
+fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -24,7 +24,6 @@ tags:
   - theme/science-communication
   - theme/informal-learning
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Scientific Uncertainty]]"
   - "[[Social License to Operate]]"
   - "[[Public Engagement with Science]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-09-22
 ---
 
 # Sciencewise
@@ -55,14 +54,14 @@ updated: 2026-09-04
 > - **发布主体** 英国科学、创新与技术部（DSIT）及英国研究与创新署（UK Research and Innovation, UKRI）
 > - **适用对象** 英国中央政府各行政部委、大学科研机构及社会公众
 > - **政策问题** 面对人工智能、合成生物学与基因编辑等具有高度伦理与社会争议的颠覆性新兴科技，传统单向科普与事后补救式危机公关失效，公众诉求在科技萌芽早期即建立知情与参与渠道
-> - **制度位置** 英国国家级科技政策公共[[Dialogue in Education\|对话]]（Public Dialogue）旗舰支撑平台，连接学术界前沿研究与公众民主审议
+> - **制度位置** 英国国家级科技政策公共对话（Public Dialogue）旗舰支撑平台，连接学术界前沿研究与公众民主审议
 
 ---
 
 ## 运作机制与核心功能
 
 > [!claim] 核心机制
-> 英国科学智慧计划（Sciencewise）通过提供专项配套资金、独立专业协调员网络以及标准化的协商方法论指引，支持政府部门和科研机构针对技术高争议、证据高不确定性的前沿科学议题开展深度公共[[Dialogue in Education\|对话]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 88)]]
+> 英国科学智慧计划（Sciencewise）通过提供专项配套资金、独立专业协调员网络以及标准化的协商方法论指引，支持政府部门和科研机构针对技术高争议、证据高不确定性的前沿科学议题开展深度公共对话。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 88)]]
 
 > [!proc-steps] 协商式公共对话的标准实施流程
 > 1. **议题界定与伦理框定** 政府业务司局、部委首席科学顾问及顶尖学者联合梳理颠覆性技术可能引发的政策空白与伦理痛点。
@@ -81,7 +80,7 @@ updated: 2026-09-04
 
 > [!timeline] 演化时间线
 > - **2004** 英国贸易工业部（DTI）正式设立 Sciencewise 计划，旨在吸取转基因作物公众抵制危机中的治理教训。
-> - **2012–2014** 组织全英针对“线粒体捐赠技术”（三亲婴儿）的公众[[Dialogue in Education\|对话]]，为英国在全球率先通过该技术立法提供核心社会伦理授权。
+> - **2012–2014** 组织全英针对“线粒体捐赠技术”（三亲婴儿）的公众对话，为英国在全球率先通过该技术立法提供核心社会伦理授权。
 > - **2018–2020** 联合英国人工智能办公室开展针对数据驱动与算法伦理治理的专题公共协商。
 > - **2022** 总结提出公众在面对颠覆性科技时的三大社会伦理追问：为何要研发？由谁获利？谁来负责？[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, Ch. 4, p. 72)]]
 > - **2026** 英国皇家学会《科学为社会》第 16 项建议明确呼吁，必须动员 Sciencewise 等专业机构在国家科学总预算中划拨专门技能培训资源，常态化推行新兴技术公共对话。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 88)]]
@@ -92,7 +91,7 @@ updated: 2026-09-04
 
 > [!finding-cards] 效果与启示
 > 1. **破解技术黑箱的[[Social License to Operate\|社会许可]]** 将公众关切前置到实验室研发初期，避免颠覆性技术在商业化成熟后引发强烈的社会抗拒。
-> 2. **将科研人员技能支持制度化** 皇家学会明确指出，单靠科学家的道德热情难以维系高质量[[Dialogue in Education\|对话]]，必须依托 Sciencewise 等机制在科研资助中持续注入培训资源。
+> 2. **将科研人员技能支持制度化** 皇家学会明确指出，单靠科学家的道德热情难以维系高质量对话，必须依托 Sciencewise 等机制在科研资助中持续注入培训资源。
 
 ---
 

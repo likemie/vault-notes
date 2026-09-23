@@ -18,9 +18,9 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Authentic Instruction]]"
+  - "[[Open-Mindedness]]"
   - "[[Problem-Based Learning]]"
   - "[[Learner Autonomy]]"
-  - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
   - "[[Critical Thinking]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Anchored Instruction
@@ -53,7 +53,7 @@ updated: 2026-09-17
 > [!concept-lens] 概念透镜
 > - **含义** 将学习内容深度锚定在生动逼真的探究情境中，使知识成为解决实际挑战的工具而非孤立识记的符号。
 > - **用途** 用于设计能够激发学生自主建构、多步推论与批判性评价的真实任务环境，是[[Authentic Instruction\|真实性教学]]的奠基性范式。
-> - **边界** 必须采用具有内在逻辑完整性且包含嵌入式数据的开放性故事，而非简单的课文配图或孤立例题插图。
+> - **边界** 必须采用具有内在逻辑完整性且包含嵌入式数据的[[Open-Mindedness|开放性]]故事，而非简单的课文配图或孤立例题插图。
 
 ---
 
@@ -74,7 +74,7 @@ updated: 2026-09-17
 > [!feature] 抛锚式教学的核心设计特征
 > - **生成性学习格式（Generative Learning Format）** 故事在主人公面临重大挑战的高潮处戛然而止，不提供现成解法，要求学生自主生成方案并解决问题。
 > - **视频/情境锚点（Video-based Anchor）** 借助富媒体形式呈现真实环境线索，支持不同阅读水平学生展开高阶探究。
-> - **嵌入式数据设计（Embedded Data Design）** 解题所需的所有参数（如速度、油耗、载重、时间）均自然融入故事[[Dialogue in Education\|对话]]或背景道具中，锻炼学生的信息甄别与证据提取能力。
+> - **嵌入式数据设计（Embedded Data Design）** 解题所需的所有参数（如速度、油耗、载重、时间）均自然融入故事对话或背景道具中，锻炼学生的信息甄别与证据提取能力。
 > - **连锁子问题结构（Interlocking Sub-problems）** 复杂任务被设计为包含 10–15 个环环相扣的推导步骤，促使学生经历[[Hypothesis\|假设]]制定、数学建模与可行性评估。
 
 ---

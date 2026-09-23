@@ -9,7 +9,7 @@ aliases:
 summary: "源自康德哲学与[[Enlightenment|启蒙国际主义]]的规范性政治与教育构想，主张通过普遍理性觉醒、共和立宪法权与跨国制度协作消除野蛮战争状态，构建人类永久和平共同体，构成现代比较教育与国际教育的奠基性伦理动因"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -50,6 +50,7 @@ related_persons:
   - "[[Robert Cowen]]"
   - "[[Andreas Kazamias]]"
   - "[[Jean-Jacques Rousseau]]"
+  - "[[Christopher Martin]]"
 related_facts:
   - "[[Revue encyclopédique]]"
   - "[[UNESCO]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Perpetual Peace
@@ -230,4 +231,4 @@ updated: 2026-09-17
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 系统考证[[Marc-Antoine Jullien\|朱利安]]如何深受[[Immanuel Kant\|康德]]启蒙自主性与[[Jean-Jacques Rousseau\|卢梭]]自然主义触动，将比较教育建构为预防政治暴力、推动欧洲永久和平的准科学人道主义工程。
-> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 阐释马丁·[[Wight's Three Traditions of International Theory\|怀特国际理论三大传统]]，揭示康德式[[Revolutionism\|革命主义]]传统的世界主义道德激情与消弭人类苦难追求对比较教育批判学术传统的深远启迪。
+> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 阐释[[Christopher Martin|马丁]]·[[Wight's Three Traditions of International Theory\|怀特国际理论三大传统]]，揭示康德式[[Revolutionism\|革命主义]]传统的世界主义道德激情与消弭人类苦难追求对比较教育批判学术传统的深远启迪。

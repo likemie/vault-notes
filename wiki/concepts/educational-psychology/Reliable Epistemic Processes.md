@@ -8,7 +8,7 @@ aliases:
 summary: "在认识论认知AIR模型中，用于生成可信、有效认识产出的因果性认识过程及其适用与保障条件。"
 type: concept
 domain: "educational-psychology"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Causal Processes]]"
   - "[[Academic Achievement]]"
   - "[[Scientific Method]]"
+  - "[[Authentic Science Practices]]"
   - "[[Heterogeneity]]"
   - "[[Dialogue in Education]]"
 related_theories:
@@ -191,7 +192,7 @@ updated: 2026-09-22
 > - **传统课堂论证协议缺乏因果依据** 诸如 Sampson 等学者（2012）提出的课堂论证评价协议，主要罗列形式部件与若干常见方法谬误，未能揭示规则背后的方法论与因果可靠性依据，无法引导学习者实现深层理解。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]
 
 > [!warning] 适用局限
-> - **过程繁复性与教学适宜粒度的界定挑战** 真实科学实践中可靠认识过程极为繁杂、领域依附且随前沿仪器演进而持续拓展，基础教育教学难以穷尽所有程序。如何在课堂有限课时内界定最适宜的教学目标粒度（appropriate grain-size）与进阶序列，仍是该框架在教学转化中的核心难题。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222, 224)]]
+> - **过程繁复性与教学适宜粒度的界定挑战** [[Authentic Science Practices|真实科学实践]]中可靠认识过程极为繁杂、领域依附且随前沿仪器演进而持续拓展，基础教育教学难以穷尽所有程序。如何在课堂有限课时内界定最适宜的教学目标粒度（appropriate grain-size）与进阶序列，仍是该框架在教学转化中的核心难题。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222, 224)]]
 
 ---
 

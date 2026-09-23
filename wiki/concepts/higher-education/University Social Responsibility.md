@@ -7,7 +7,7 @@ aliases:
 summary: "大学对多元利益相关者和社会议题保持制度化回应与公共责任的取向，用于组织大学的社会参与、伦理承诺和公共使命。"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -15,6 +15,7 @@ tags:
 - level/higher-ed
 - region/global
 related_concepts:
+  - "[[Open-Mindedness]]"
   - "[[Organizational Actorhood]]"
   - "[[Knowledge Production]]"
   - "[[Third Mission]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: 2026-08-20
+updated: 2026-09-23
 ---
 
 # University Social Responsibility
@@ -43,7 +44,7 @@ updated: 2026-08-20
 ## 定义
 
 > [!info]
-> 大学社会责任（University Social Responsibility, USR）指大学对多元利益相关者和社会议题的制度化开放性，是[[Organizational Actorhood\|组织能动者身份]]（[[Organizational Actorhood]]）中社会嵌入性（social embeddedness / citizenship）维度在大学语境中的具体表现（Ramirez, 2006; Bromley & Meyer, 2015; Sørensen et al., 2019）。USR 将长期仅在营利部门讨论的企业社会责任（CSR）概念延伸至高等教育机构，涵盖就业政策、校园建设、可持续发展管理、学生生活以及对全球议题（如气候变化、贫困、社会不平等等）的研究与教学贡献([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.149, 152–153]])。
+> 大学社会责任（University Social Responsibility, USR）指大学对多元利益相关者和社会议题的制度化[[Open-Mindedness|开放性]]，是[[Organizational Actorhood\|组织能动者身份]]（[[Organizational Actorhood]]）中社会嵌入性（social embeddedness / citizenship）维度在大学语境中的具体表现（Ramirez, 2006; Bromley & Meyer, 2015; Sørensen et al., 2019）。USR 将长期仅在营利部门讨论的企业社会责任（CSR）概念延伸至高等教育机构，涵盖就业政策、校园建设、可持续发展管理、学生生活以及对全球议题（如气候变化、贫困、社会不平等等）的研究与教学贡献([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.149, 152–153]])。
 
 > [!quote]
 > "Corporate social responsibility (CSR), long only discussed in the context of corporations, is slowly being used as a concept to interpret universities' internal changes."（Larrán & Andrades Peña, 2017; Wigmore-Álvarez & Ruiz-Lozano, 2012，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.152]]）

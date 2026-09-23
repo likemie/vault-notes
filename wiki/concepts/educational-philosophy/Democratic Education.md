@@ -15,13 +15,13 @@ tags:
   - theme/active-learning
   - theme/citizenship
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Banking Model of Education]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Hypothesis]]"
   - "[[Critical Pedagogy]]"
   - "[[Culture of Silence]]"
   - "[[Freedom of the Learner]]"
+  - "[[Dialogue in Education]]"
   - "[[Praxis]]"
 related_theories: []
 related_methods:
@@ -46,7 +46,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 民主教育（Democratic Education）是[[John Dewey\|约翰·杜威]]政治哲学与教育学的交汇核心。杜威在《民主与教育》（*Democracy and Education*, 1916）与《大众及其问题》（*The Public and Its Problems*, 1927）中断言：民主不仅是一种政治投票制度，更是“一种联合生活的模式，一种协同沟通的经验”（*primarily a mode of associate living, of conjoint communicated experience*）[[Argument_Darwish_2009_Queens\|(Dewey, 1961, p. 87; 引自 Darwish, 2009, p. 41)]]。民主教育主张学校本身应当构建为一个小型的民主社区，学生通过平等的[[Dialogue in Education\|对话]]、合作探究与经验共享，培养知情决策能力与社会责任。
+> 民主教育（Democratic Education）是[[John Dewey\|约翰·杜威]]政治哲学与教育学的交汇核心。杜威在《民主与教育》（*Democracy and Education*, 1916）与《大众及其问题》（*The Public and Its Problems*, 1927）中断言：民主不仅是一种政治投票制度，更是“一种联合生活的模式，一种协同沟通的经验”（*primarily a mode of associate living, of conjoint communicated experience*）[[Argument_Darwish_2009_Queens\|(Dewey, 1961, p. 87; 引自 Darwish, 2009, p. 41)]]。民主教育主张学校本身应当构建为一个小型的民主社区，学生通过平等的对话、合作探究与经验共享，培养知情决策能力与社会责任。
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调教育并非为未来的民主生活做被动准备，而是教育过程本身必须是民主的实践。
@@ -66,7 +66,7 @@ updated: 2026-09-17
 > - **共同利益的相互认可（Mutual Interests Recognition）**
 >   社区所有成员享有平等的参与机会与经验分享权力，反对将特定阶层排除在理性决策之外 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 41)]]。
 > - **社会习惯的弹性重组（Flexible Readjustment of Social Habits）**
->   制度与规范可以通过理性的协商与批判性[[Dialogue in Education\|对话]]不断更新，而非僵化固守现状 (p. 42)。
+>   制度与规范可以通过理性的协商与批判性对话不断更新，而非僵化固守现状 (p. 42)。
 > - **合作性道德-智力探究（Cooperative Transaction of Inquiry）**
 >   自由独立的学习者将过去的文化遗产看作丰富生活的手段与方法，而非盲从的权威教条 (p. 42)。
 

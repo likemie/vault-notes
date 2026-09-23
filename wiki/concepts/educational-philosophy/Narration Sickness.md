@@ -6,7 +6,7 @@ aliases:
 summary: "保罗·弗莱雷在《被压迫者教育学》中提出的批判性概念，指传统储蓄式教育中教师单向宣讲脱离学生切身现实的抽象词汇，导致教育退化为无意义词语灌输与记忆机械复制的教学生态病态现象。"
 type: concept
 domain: "educational-philosophy"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Banking Model of Education]]"
   - "[[Epistemology]]"
-  - "[[Dialogue in Education]]"
   - "[[Problem-Posing Education]]"
   - "[[Generative Themes]]"
   - "[[Decodification]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Narration Sickness（叙事病）
@@ -61,7 +60,7 @@ updated: 2026-09-17
 
 > [!boundary]- 概念边界
 > - 不等于 [[Banking Model of Education\|储蓄式教育]] — 叙事病是储蓄式教育在教学语言与话语形态上的具体病态表现，而储蓄式教育是整体的[[Epistemology\|认识论]]与社会控制模型。
-> - 不等于 [[Dialogue in Education\|对话]] — 后者消解单向宣讲，建立横向互信与共同探究。
+> - 不等于 对话 — 后者消解单向宣讲，建立横向互信与共同探究。
 
 ---
 

@@ -8,7 +8,7 @@ summary: "美国卡耐基梅隆大学认知心理学与学习科学荣休讲席�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
 related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
+  - "[[Argument_Zhang_2022_SE]]"
 related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Meta-analysis]]"
@@ -47,7 +48,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # David Klahr
@@ -77,7 +78,7 @@ Klahr 团队设计了测量儿童科学探究能力的经典斜坡小球物理�
 Klahr 的实证研究构成了[[International Education|国际教育]]学界探究争论中最具戏剧性的篇章：
 
 > [!tension-table] Klahr & Nigam (2004) 实验与两派截然相反的解读
-> | 争议维度 | 认知负荷与直接教学派解读（如 Kirschner et al., 2006; Zhang et al., 2022） | 学习科学与当代循证学派重构（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023]]） |
+> | 争议维度 | 认知负荷与直接教学派解读（如 Kirschner et al., 2006; [[Argument_Zhang_2022_SE\|Zhang et al., 2022]]） | 学习科学与当代循证学派重构（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023]]） |
 > |---|---|---|
 > | **实验基本发现** | 显性讲授 CVS 规则的学生在短期[[Pre-test and Post-test\|后测]]中通过率达 77%，远高于纯自主探索组（仅 23%）。 | 实验确证了显性指导能迅速传授孤立算法规则，但该实验并不构成“[[Direct Instruction\|直接讲授]]全面胜出”的证据。 |
 > | **教学程序实质** | 证明由教师掌控全局的直接显性讲授是唯一科学有效的教学路径。 | **Klahr 采用的“直接教学”本身具有高度探究属性** 并非被动听讲，而是包含让学生亲自动手规划实验、主动评估实验成败、并在遭遇混淆时由教师给予即时纠错反馈的高互动探究设计（p. 4）。 |

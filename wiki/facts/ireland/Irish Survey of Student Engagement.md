@@ -11,7 +11,7 @@ subtype: policy
 region: ireland
 fact_region: "ireland"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Output-Oriented Governance]]"
   - "[[Student Engagement]]"
   - "[[Critical Thinking]]"
-  - "[[Growth]]"
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
@@ -80,4 +79,4 @@ updated: 2026-09-22
 > [!finding-cards] 影响与后果
 > - **政策影响** 确立了爱尔兰高等教育教学改革中“学生作为伙伴（Students as Partners）”与[[Output-Oriented Governance\|循证治理]]的核心地位。
 > - **实践影响** 促使爱尔兰高校重视考核任务对[[Higher-Order Thinking Skills\|高阶思维]]的引导，为高校卓越教学中心（CTL）开展教学法培训提供了精准靶向。
-> - **知识影响** 推动了欧洲高教界对学生有效[[Student Engagement\|学习投入]]与[[Critical Thinking\|批判性思维]][[Growth\|成长]]相关性的实证研究。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]
+> - **知识影响** 推动了欧洲高教界对学生有效[[Student Engagement\|学习投入]]与[[Critical Thinking\|批判性思维]]成长相关性的实证研究。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]

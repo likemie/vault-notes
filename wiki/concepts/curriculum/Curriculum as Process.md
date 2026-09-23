@@ -6,7 +6,7 @@ aliases:
 summary: "课程理论的核心范式之一，由劳伦斯·斯滕豪斯（Stenhouse）提出。强调课程不是预设结果的流水线，而是师生在课堂中围绕探究原则与实践明智（Phronesis）共同展开的理解与对话过程。"
 type: concept
 domain: "curriculum"
-related_count: 12
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,14 +17,12 @@ tags:
   - phronesis
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Dialogue in Education]]"
   - "[[Phronesis]]"
   - "[[Theory of Knowledge]]"
   - "[[Curriculum as Product]]"
   - "[[Curriculum as Praxis]]"
   - "[[Praxis]]"
   - "[[Conscientization]]"
-  - "[[Growth]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -37,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Curriculum as Process（作为过程的课程）
@@ -47,7 +45,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> **作为过程的课程（Curriculum as Process）**由劳伦斯·斯滕豪斯（Lawrence Stenhouse, 1975）确立，是反对技术控制产物模式的人文主义课程[[Paradigm\|范式]] (Stenhouse, 1975; [[Argument_Darwish_2009_Queens\|Darwish, 2009, pp. 65–67]])。该范式主张课程不应预设固定的行为结果，而应提供探究与[[Dialogue in Education\|对话]]的“过程原则”（procedural principles）。课程的本质是师生在具体探究中运用[[Phronesis\|实践明智]]（*Phronesis*）共同理解知识与价值的动态交互过程。
+> **作为过程的课程（Curriculum as Process）**由劳伦斯·斯滕豪斯（Lawrence Stenhouse, 1975）确立，是反对技术控制产物模式的人文主义课程[[Paradigm\|范式]] (Stenhouse, 1975; [[Argument_Darwish_2009_Queens\|Darwish, 2009, pp. 65–67]])。该范式主张课程不应预设固定的行为结果，而应提供探究与对话的“过程原则”（procedural principles）。课程的本质是师生在具体探究中运用[[Phronesis\|实践明智]]（*Phronesis*）共同理解知识与价值的动态交互过程。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向以探究过程、开放对话与实践明智为核心的非控制性课程模式。
@@ -79,9 +77,9 @@ updated: 2026-09-17
 ## 核心要素
 
 > [!feature] 核心要素
-> - **过程原则（Procedural Principles）** 以如何探究与[[Dialogue in Education\|对话]]的标准取代预设行为目标。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 66)]]
+> - **过程原则（Procedural Principles）** 以如何探究与对话的标准取代预设行为目标。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 66)]]
 > - **[[Phronesis\|实践明智]]（Phronesis）** 依靠教师与学生在具体情境中的理智判断与审议能力。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 67)]]
-> - **教师研究者化（Teacher as Researcher）** 教师作为研究者在课堂探究中与学生共同[[Growth\|成长]]。同上
+> - **教师研究者化（Teacher as Researcher）** 教师作为研究者在课堂探究中与学生共同成长。同上
 
 > [!logic-map]- 要素关系
 > ```mermaid

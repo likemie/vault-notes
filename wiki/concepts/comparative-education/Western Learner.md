@@ -4,19 +4,20 @@ aliases:
   - 西方学习者
   - Western learner model
   - Western learning model
-summary: "西方文化学习者模型，以心智为首要、好奇心为驱动、探究为过程、掌握世界为目标，与儒家学习者形成系统对比"
+summary: 西方文化学习者模型，以心智为首要、好奇心为驱动、探究为过程、掌握世界为目标，与儒家学习者形成系统对比
 type: concept
 domain: "comparative-education"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
-- region/western
-- field/educational-philosophy
-- field/comparative-education
-- theme/learning
+  - region/western
+  - field/educational-philosophy
+  - field/comparative-education
+  - theme/learning
 related_concepts:
+  - "[[Intellectual Emotions]]"
   - "[[Creativity]]"
   - "[[Mind-Oriented Learning Process]]"
   - "[[Active Learning]]"
@@ -35,7 +36,7 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Learning Virtues]]"
   - "[[Take the World Upon Oneself]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
   - "[[Examined Life]]"
@@ -45,6 +46,7 @@ related_methods: []
 related_persons:
   - "[[Plato]]"
   - "[[Socrates]]"
+  - "[[Christopher Martin]]"
   - "[[Aristotle]]"
 related_facts:
   - "[[Education for All]]"
@@ -53,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-09-12
+updated: 2026-09-24
 ---
 
 # Western Learner
@@ -63,7 +65,7 @@ updated: 2026-09-12
 > [!info]
 > 西方学习者（Western Learner）是 Li 基于对西方知识传统的追溯所提炼出的学习者模型——呈现于 Figure 2.1([[Argument_Li_2012_Cambridge\|Li, 2012, pp.34-36]])。Li 指出，在西方哲学传统中，"学习者作为一个整体的人并没有占据哲学辩论的突出位置——大多数思想家没有写太多关于学习者作为整全的人的内容，而是聚焦于心智"。但通过对西方教育思想史的梳理，她仍能辨识出四个核心的学习者特征与过程([[Argument_Li_2012_Cambridge\|Li, 2012, pp.34-35]])。
 
-该模型的基本学习方式是：**学习者探究外部世界（the learner studies the world out there）**。学习者的两大内在组件是心智（mind）和智识情感（intellectual affect），其中心智是"最为根本的"([[Argument_Li_2012_Cambridge|Li, 2012, p.36]])。
+该模型的基本学习方式是：**学习者探究外部世界（the learner studies the world out there）**。学习者的两大内在组件是心智（mind）和[[Intellectual Emotions|智识情感]]（intellectual affect），其中心智是"最为根本的"([[Argument_Li_2012_Cambridge|Li, 2012, p.36]])。
 
 ---
 
@@ -103,7 +105,7 @@ updated: 2026-09-12
 >
 > ![](https://img.mylikemie.icu/books/Li_2012_Cambridge/figures/Figure_2-1_Western_Learner.png)
 >
-> **速览** 学习者 → 探究 → 外部世界。学习者内部包含**心智**（推理、智力——"最根本的"）和**智识情感**（好奇心、兴趣、内在动机）。探究由**自我表达**和**挑战态度**双路径驱动。产出为个人成就与对世界的掌握，奖励流向成就者。
+> **速览** 学习者 → 探究 → 外部世界。学习者内部包含**心智**（推理、智力——"最根本的"）和**[[Intellectual Emotions|智识情感]]**（好奇心、兴趣、内在动机）。探究由**自我表达**和**挑战态度**双路径驱动。产出为个人成就与对世界的掌握，奖励流向成就者。
 
 ---
 
@@ -178,7 +180,7 @@ updated: 2026-09-12
 
 **说话作为权利（pp.79-81）**。Li 从希腊陪审团审判制度追溯——雅典娜创设了要求双方实时口头辩论的程序。与中国包公审案以行动替代言语辩论形成鲜明对比：包公"甚至可能没有向在场的任何人解释他的推理"——但雅典审判"没有双方的口头往来、陈述、反驳和结论，不可能进行"([[Argument_Li_2012_Cambridge|Li, 2012, pp.80-81]])。这一制度直接演变为当今西方司法制度和宪法保障的言论自由——"说话已经成为西方民主和日常工作的不可分割的一部分"([[Argument_Li_2012_Cambridge|Li, 2012, p.81]])。
 
-**说话作为领导力特质（pp.81-83）**。从古希腊十大阿提卡演说家、Demosthenes、Cicero，到近代的丘吉尔、罗斯福、肯尼迪、马丁·路德·金和奥巴马——"西方拥有一长串以雄辩著称的政治领袖名单"。在民主制度中，口头辩论是立法审议的首要手段——"没有言辞程序和实践，西方风格民主如何进行是根本不可想象的"([[Argument_Li_2012_Cambridge|Li, 2012, p.82]])。宗教领袖同样依赖于讲道——"对许多人来说，是否继续参加某个教堂的决定取决于他是否喜欢讲道的质量"。
+**说话作为领导力特质（pp.81-83）**。从古希腊十大阿提卡演说家、Demosthenes、Cicero，到近代的丘吉尔、罗斯福、肯尼迪、[[Christopher Martin|马丁]]·路德·金和奥巴马——"西方拥有一长串以雄辩著称的政治领袖名单"。在民主制度中，口头辩论是立法审议的首要手段——"没有言辞程序和实践，西方风格民主如何进行是根本不可想象的"([[Argument_Li_2012_Cambridge|Li, 2012, p.82]])。宗教领袖同样依赖于讲道——"对许多人来说，是否继续参加某个教堂的决定取决于他是否喜欢讲道的质量"。
 
 **说话作为艺术（pp.83-86）**。从古希腊的智者们（sophists）将修辞发展为收费职业开始，到[[Aristotle|亚里士多德]]提出说服三要素——**ethos**（道德品格/信誉）、**pathos**（情感诉求）、**logos**（逻辑推理），再到 Cicero 的演说五步骤（inventio 构思 → dispositio 结构 → elocutio 风格 → memoria 记忆 → actio 呈现），以及 Quintilian 设计的从出生到老年的完整"完美演说家"教育方案。Cicero 提出的"理想演说家"需要[[Refined Mastery|精通]]法律、政治、历史、文学、伦理、战争、医学和数学——这一理念本质上是**西方[[Liberal Education|博雅教育]]（liberal arts education）的核心([[Argument_Li_2012_Cambridge|Li, 2012, pp.85-86]])**。至今，美国大学校园中公共演讲课长盛不衰——学生"经常需要排长队等候才能选上这门课"([[Argument_Li_2012_Cambridge|Li, 2012, p.86]])。
 
@@ -214,7 +216,7 @@ O'Connor & Michaels（1993）的研究揭示了西方课堂如何通过 [[Revoic
 | 核心能力 | 心智（推理、智力） | [[Learning Virtues\|学习美德]]（诚心、勤奋、刻苦……） |
 | 学习过程 | 自我表达 + 挑战权威 | 八个同心圆（格物→……→平天下） |
 | 终极目标 | 掌握世界、个人[[Creativity\|创造力]] | 成圣、[[Take the World Upon Oneself\|以天下为己任]] |
-| 情感驱动 | 好奇心、兴趣、内在动机 | 诚心、[[Humility in Learning\|谦虚]]、尊师 |
+| 情感驱动 | 好奇心、兴趣、内在动机 | 诚心、[[Humility\|谦虚]]、尊师 |
 | 成就标准 | 个人才华与创造性洞察 | 道德品质与行动一致性 |
 | 图示形态 | 学习者→探究→外部世界（线性的） | 同心圆—向上（向外扩展且开放的） |
 

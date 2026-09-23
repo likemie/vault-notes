@@ -9,7 +9,7 @@ subtype: event
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "event"
-fact_related_count: 19
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Advanced Placement Program]]"
   - "[[Theory of Knowledge]]"
+  - "[[Open-Mindedness]]"
   - "[[Reflexivity]]"
   - "[[General Education]]"
 related_theories: []
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Founding of the International Baccalaureate
@@ -74,7 +75,7 @@ updated: 2026-09-17
 > - **草根发动（1961–1962）** 德斯蒙德·科尔-贝克组织日内瓦[[International Schools\|国际学校]]教师行动；[[Bob Leach\|鲍勃·利奇]]召集会议、争取首笔经费，并推动“[[International Baccalaureate]]”名称进入正式讨论。
 > - **组织治理（1964 起）** [[John Goormaghtigh\|约翰·戈尔马蒂赫]]把教师项目接入独立、跨国且可持续的法律与治理结构；乔治·潘绍和让·西奥蒂提供教育与考试治理支持。
 > - **课程架构（1965–1967）** [[Gerard Renaud\|杰拉德·雷诺]]、安德烈·范·斯梅沃德与[[Alec Peterson\|亚历克·皮特森]]把课程广度、专业深度、双语考试和[[Theory of Knowledge\|知识论]]共同核心组合成可执行方案。
-> - **考试、筹资与试验设计（1966–1969）** 哈兰·“哈波”·汉森、德斯蒙德·科尔和拉尔夫·泰勒分别补足考试专业、跨大西洋参与、开放性设计与有限规模[[Action Research\|行动研究]]。
+> - **考试、筹资与试验设计（1966–1969）** 哈兰·“哈波”·汉森、德斯蒙德·科尔和拉尔夫·泰勒分别补足考试专业、跨大西洋参与、[[Open-Mindedness|开放性]]设计与有限规模[[Action Research\|行动研究]]。
 
 > [!index-table] 人物贡献与历史边界
 >
@@ -135,7 +136,7 @@ updated: 2026-09-17
 
 > [!finding-cards] 影响与后果
 > - **课程结构** 六学科组在广泛通识与学科专门化之间建立折中，保留学生选择并强制跨学科分布。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 28–29)]]
-> - **理念结构** 英法双语、全体学生修读[[Theory of Knowledge\|知识论]]、整体文凭与单科证书，把语言平衡、知识反思、课程整体性和项目开放性写入制度设计。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 29–31)]]
+> - **理念结构** 英法双语、全体学生修读[[Theory of Knowledge\|知识论]]、整体文凭与单科证书，把语言平衡、知识反思、课程整体性和项目[[Open-Mindedness|开放性]]写入制度设计。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 29–31)]]
 > - **组织结构** 教师自发网络经 [[International Schools Examination Syndicate\|ISES]]／IBO 转化为能够筹资、开发课程、组织考试和协调国际承认的独立机构。
 > - **资格实践** 1970 年首批 29 名学生以正式 IB 考试进入大学申请，证明国际共同资格能够超越讨论阶段进入实际使用。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 31)]]
 

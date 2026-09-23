@@ -36,7 +36,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Direct Instruction]]"
-  - "[[Knowledge Production]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Nature of Science]]"
   - "[[Hypothesis]]"
@@ -51,7 +50,8 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Document]]"
   - "[[Chain of Evidence]]"
-related_theories: []
+related_theories:
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Design-Based Research]]"
@@ -176,7 +176,7 @@ updated: 2026-09-22
 ### 命题四　支架式科学探究与课堂认识论实践通过具身掌握经验显著培育学生的学科自我效能感与知者身份认同
 
 > [!concept-lens] 科学探究情境中的自我效能生成与[[Epistemology\|认识论]]动因
-> 探讨自主探究与微观话语协商实践相较于单向[[Direct Instruction\|直接讲授]]，如何通过引导学生深度参与真实科学[[Knowledge Production\|知识建构]]，直接提供亲历掌握经验以提升其学科自我效能感，并建立合法的科学知者身份。
+> 探讨自主探究与微观话语协商实践相较于单向[[Direct Instruction\|直接讲授]]，如何通过引导学生深度参与真实科学[[Knowledge Building Theory|知识建构]]，直接提供亲历掌握经验以提升其学科自我效能感，并建立合法的科学知者身份。
 
 > [!claim] [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]
 > **探究体验对科学自我效能感与认识论动因的独特培育** 在科学教育与教学法争论中，教学成效的衡量不能窄化为孤立的概念性事实测验。实证研究明确表明，[[Inquiry-Based Learning\|探究式学习]]在激发学生的[[Nature of Science\|科学本质]]（Nature of Science, NOS）认知、探究实践素养、科学学习兴趣以及自我效能感等非认知与认识论维度上具有直接讲授无法替代的独特育人价值；依照[[Albert Bandura\|班杜拉]]的社会认知理论，亲历掌握经验（Mastery Experiences）是自我效能感最稳固的信息来源，在支架式探究中，学生通过自主提出[[Hypothesis\|假设]]、[[Design-Based Research\|设计实验]]并解决真实认知阻碍，亲身获得了作为“知识发现者与检验者”的具身掌握体验，从而显著强化了面对复杂科学挑战时的胜任信念与认识论动因（[[Epistemic Agency]]）。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 10)]]

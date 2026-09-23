@@ -3863,6 +3863,44 @@
       "title": "Argument_Jornitz_2022_Bildung_algorithmic",
       "year": "2022"
     },
+    "Jovchevski et al. (2026)": {
+      "aliases": [
+        "Jovchevski et al., 2026",
+        "Jovchevski et al. (2026)"
+      ],
+      "argument": "Argument_Jovchevski_2026_PT",
+      "authors": [
+        "Jovchevski, P.",
+        "Buijsman, S.",
+        "Neerincx, M."
+      ],
+      "citation": "Jovchevski, P., Buijsman, S., & Neerincx, M. (2026). What is wrong with automation bias?. Philosophy & Technology, 39, Article 84. https://doi.org/10.1007/s13347-026-01090-9",
+      "doi": "10.1007/s13347-026-01090-9",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Philosophy & Technology/Argument_Jovchevski_2026_PT.md",
+      "source_language": "en",
+      "title": "Argument_Jovchevski_2026_PT",
+      "year": "2026"
+    },
+    "Jovchevski et al., 2026": {
+      "aliases": [
+        "Jovchevski et al., 2026",
+        "Jovchevski et al. (2026)"
+      ],
+      "argument": "Argument_Jovchevski_2026_PT",
+      "authors": [
+        "Jovchevski, P.",
+        "Buijsman, S.",
+        "Neerincx, M."
+      ],
+      "citation": "Jovchevski, P., Buijsman, S., & Neerincx, M. (2026). What is wrong with automation bias?. Philosophy & Technology, 39, Article 84. https://doi.org/10.1007/s13347-026-01090-9",
+      "doi": "10.1007/s13347-026-01090-9",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Philosophy & Technology/Argument_Jovchevski_2026_PT.md",
+      "source_language": "en",
+      "title": "Argument_Jovchevski_2026_PT",
+      "year": "2026"
+    },
     "Kaloyannaki & Kazamias (2009)": {
       "aliases": [
         "Kaloyannaki & Kazamias, 2009",
@@ -5048,6 +5086,40 @@
       "source_language": "en",
       "title": "Argument_Møller_2017_EERJ",
       "year": "2017"
+    },
+    "Naeem (2026)": {
+      "aliases": [
+        "Naeem, 2026",
+        "Naeem (2026)"
+      ],
+      "argument": "Argument_Naeem_2026_Episteme",
+      "authors": [
+        "Naeem, H."
+      ],
+      "citation": "Naeem, H. (2026). Teaching skills and intellectual virtues with generative AI. *Episteme*, *23*, 269–286. https://doi.org/10.1017/epi.2025.10089",
+      "doi": "10.1017/epi.2025.10089",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Episteme/Argument_Naeem_2026_Episteme.md",
+      "source_language": "en",
+      "title": "Argument_Naeem_2026_Episteme",
+      "year": "2026"
+    },
+    "Naeem, 2026": {
+      "aliases": [
+        "Naeem, 2026",
+        "Naeem (2026)"
+      ],
+      "argument": "Argument_Naeem_2026_Episteme",
+      "authors": [
+        "Naeem, H."
+      ],
+      "citation": "Naeem, H. (2026). Teaching skills and intellectual virtues with generative AI. *Episteme*, *23*, 269–286. https://doi.org/10.1017/epi.2025.10089",
+      "doi": "10.1017/epi.2025.10089",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Episteme/Argument_Naeem_2026_Episteme.md",
+      "source_language": "en",
+      "title": "Argument_Naeem_2026_Episteme",
+      "year": "2026"
     },
     "Narayan & Spohrer (2025)": {
       "aliases": [
@@ -6863,6 +6935,40 @@
       "title": "Argument_Slethaug_2010_InternationalEducation",
       "year": "2010"
     },
+    "Smith (2026)": {
+      "aliases": [
+        "Smith, 2026",
+        "Smith (2026)"
+      ],
+      "argument": "Argument_Smith_2026_SPE",
+      "authors": [
+        "Smith, S. J."
+      ],
+      "citation": "Smith, S. J. (2026). Generative artificial intelligence, formative epistemic injustice, and educators’ solutions. *Studies in Philosophy and Education*. https://doi.org/10.1007/s11217-026-10100-4",
+      "doi": "10.1007/s11217-026-10100-4",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Studies in Philosophy and Education/Argument_Smith_2026_SPE.md",
+      "source_language": "en",
+      "title": "Argument_Smith_2026_SPE",
+      "year": "2026"
+    },
+    "Smith, 2026": {
+      "aliases": [
+        "Smith, 2026",
+        "Smith (2026)"
+      ],
+      "argument": "Argument_Smith_2026_SPE",
+      "authors": [
+        "Smith, S. J."
+      ],
+      "citation": "Smith, S. J. (2026). Generative artificial intelligence, formative epistemic injustice, and educators’ solutions. *Studies in Philosophy and Education*. https://doi.org/10.1007/s11217-026-10100-4",
+      "doi": "10.1007/s11217-026-10100-4",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Studies in Philosophy and Education/Argument_Smith_2026_SPE.md",
+      "source_language": "en",
+      "title": "Argument_Smith_2026_SPE",
+      "year": "2026"
+    },
     "Snook et al. (2009)": {
       "aliases": [
         "Snook et al., 2009",
@@ -8070,6 +8176,46 @@
       "source_language": "en",
       "title": "Argument_Zemplen_2007_SciEduc",
       "year": "2007"
+    },
+    "Zhang et al. (2022)": {
+      "aliases": [
+        "Zhang et al., 2022",
+        "Zhang et al. (2022)"
+      ],
+      "argument": "Argument_Zhang_2022_SE",
+      "authors": [
+        "[[Jianwei Zhang|Zhang, J.]]",
+        "Tian, Y.",
+        "Yuan, G.",
+        "Tao, D."
+      ],
+      "citation": "Zhang, J., Tian, Y., Yuan, G., & Tao, D. (2022). Epistemic agency for costructuring expansive knowledge‐building practices. Science Education, 106(4), 890–923. https://doi.org/10.1002/sce.21717",
+      "doi": "10.1002/sce.21717",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Science Education/Argument_Zhang_2022_SE.md",
+      "source_language": "en",
+      "title": "Argument_Zhang_2022_SE",
+      "year": "2022"
+    },
+    "Zhang et al., 2022": {
+      "aliases": [
+        "Zhang et al., 2022",
+        "Zhang et al. (2022)"
+      ],
+      "argument": "Argument_Zhang_2022_SE",
+      "authors": [
+        "[[Jianwei Zhang|Zhang, J.]]",
+        "Tian, Y.",
+        "Yuan, G.",
+        "Tao, D."
+      ],
+      "citation": "Zhang, J., Tian, Y., Yuan, G., & Tao, D. (2022). Epistemic agency for costructuring expansive knowledge‐building practices. Science Education, 106(4), 890–923. https://doi.org/10.1002/sce.21717",
+      "doi": "10.1002/sce.21717",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/Science Education/Argument_Zhang_2022_SE.md",
+      "source_language": "en",
+      "title": "Argument_Zhang_2022_SE",
+      "year": "2022"
     },
     "Zhao (2017)": {
       "aliases": [

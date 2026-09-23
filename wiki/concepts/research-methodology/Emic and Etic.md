@@ -18,7 +18,6 @@ tags:
   - field/research-methodology
   - theme/cultural-psychology
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Epistemology]]"
   - "[[Interpretive Paradigm]]"
   - "[[Paradigm]]"
@@ -28,6 +27,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Ecological Validity]]"
   - "[[Positivism]]"
+  - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
   - "[[Blue Skies Research]]"
 related_theories:
@@ -77,7 +77,7 @@ updated: 2026-09-18
 > [!feature] Emic/Etic 的核心要素
 > - **内部人视角（Emic）** 从文化成员的立场出发，理解其自身的概念范畴、意义系统和行为逻辑，试图像内部人一样看世界。
 > - **外部人视角（Etic）** 从研究者自带的范畴和理论框架出发，对文化现象进行跨情境的比较和分析，使用外部比较的标准。
-> - **互补而非对立** 缺乏 emic 则无法理解文化内部逻辑，缺乏 etic 则无法进行跨文化[[Dialogue in Education\|对话]]。两者是[[Epistemology\|认识论]]策略的连续体而非二元对立。
+> - **互补而非对立** 缺乏 emic 则无法理解文化内部逻辑，缺乏 etic 则无法进行跨文化对话。两者是[[Epistemology\|认识论]]策略的连续体而非二元对立。
 > - **语言学基础** 源自音位学（phonemic，特定语言的内部声音系统）与语音学（phonetic，跨语言的普遍声音规律）的类比。
 
 ---

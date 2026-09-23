@@ -10,7 +10,7 @@ summary: "法国启蒙自由主义教育家与国际主义者，1817年发表比
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 36
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -42,7 +42,6 @@ related_concepts:
   - "[[Artefact]]"
   - "[[Faculty Psychology]]"
   - "[[Scientific Method]]"
-  - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
   - "[[Value Neutrality]]"
   - "[[Enlightenment]]"
@@ -70,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Marc-Antoine Jullien
@@ -205,7 +204,7 @@ updated: 2026-09-17
 > - **先驱／跨学科源头** 乔治·居维叶（Georges Cuvier） 提供比较解剖学与地质学经验分类模型，启发其将解剖分类方法引入跨国教育事实比较。（p. 22）
 > - **先驱／[[Faculty Psychology\|官能心理学]]参照** 皮埃尔·拉罗米吉埃（Pierre Laromiguière） 其确立的注意力、比较力与推理力三大心灵官能哲学，直接构成朱利安运用[[Faculty Psychology\|官能心理学]]设计智育[[Questionnaire\|问卷]]的测量框架。（pp. 16–17）
 > - **同代思想参照** [[Auguste Comte\|奥古斯特·孔德]]（Auguste Comte） 同时代法国[[Positivism\|实证主义]]哲学开驱，共同主张将[[Scientific Method\|科学方法]]引入人类社会事务与道德秩序重构。（pp. 13–14）
-> - **国际[[Dialogue in Education\|对话]]者** 托马斯·杰斐逊（Thomas Jefferson） 美国前总统在 1810 年致信赞扬朱利安对[[International Education\|国际教育]]事业的执着奉献。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 22)]]
+> - **国际对话者** 托马斯·杰斐逊（Thomas Jefferson） 美国前总统在 1810 年致信赞扬朱利安对[[International Education\|国际教育]]事业的执着奉献。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 22)]]
 > - **跨国和平组织参照** 伦敦和平之友协会（Association of Friends for Peace） 朱利安作为成员投身跨国反战和平运动，为其 1833 年《致英格兰民族书》的发表提供组织依托。（Palmer, 1993:205）
 > - **批评者／论敌** [[Harold Noah\|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein\|马克斯·埃克斯坦]]（Max Eckstein） 20 世纪科学实证派学者，指责朱利安问卷充斥先验道德[[Hypothesis\|假设]]与引导性提问，批评其调查退化为教育理念宣教。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 16–17)]]
 > - **现代学术发掘者** 斯图尔特·弗雷泽（Stewart Fraser） 1964 年出版权威英译与导论评注本[[Document\|文献]]集，确立其作为学科奠基性文献的历史地位。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 24)]]

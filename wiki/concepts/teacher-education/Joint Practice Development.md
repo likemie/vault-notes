@@ -7,7 +7,7 @@ aliases:
 summary: "教师在真实课堂情境中协同分享、测试、实施与改进教学实践的双向互动过程，由 Fielding 与 Sebba 等提出并成为英格兰国家学校领导力学院的核心范式，旨在彻底超越传统单向线性移植的优秀实践转移模型，构成专业学习共同体与证据知情学校微观落地的核心机制"
 type: concept
 domain: "teacher-education"
-related_count: 37
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Activity Traps]]"
   - "[[Reflexivity]]"
-  - "[[Dialogue in Education]]"
   - "[[Technical Rationality]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Business as Usual]]"
@@ -63,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Joint Practice Development
@@ -117,7 +116,7 @@ updated: 2026-09-17
 
 > [!taxonomy] 联合实践发展的典型[[Operationalization\|操作化]]载体（Sebba et al., 2012; [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 125]]）
 > - **[[Lesson Study\|课例研究]]（Lesson Study）** JPD 最核心、最成熟的操作机制。教师团队围绕特定学生理解难点共同研讨教学设计，由一人授课、其他人分组观察指定焦点学生的即时反应，课后结合客观证据复盘并重构课例。
-> - **随堂听课与专业[[Dialogue in Education\|对话]]（Learning Walks & Structured Dialogue）** 教师同侪以非评价性（Non-evaluative）的视角结伴观察特定教学策略的落地形态，并在课后展开基于证据的专业研讨。
+> - **随堂听课与专业对话（Learning Walks & Structured Dialogue）** 教师同侪以非评价性（Non-evaluative）的视角结伴观察特定教学策略的落地形态，并在课后展开基于证据的专业研讨。
 > - **微格联合探究（Micro-Teaching Triads）** 三名教师组成探究小组，轮流承担授课者、数据记录者与反思引导者角色，高频迭代优化微观教学技能。
 > - **校际同侪网络互助（Cross-School Peer Review）** 如[[Research Learning Communities\|研究学习共同体]]（RLCs）中的跨校教师团队，围绕共享的实证议题跨校开展课堂联合观摩与联合实践开发。
 
@@ -176,7 +175,7 @@ updated: 2026-09-17
 > 依托 JPD 开展课例探究与同侪观课，迫使教师团队跳出“执行活动清单”的表层思维，持续追问干预背后的“行动理论”（Theories of Action）及其在特定情境下的有效支撑条件，从而阻断教学活动脱离学习结果的“活动陷阱”（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, pp. 123, 125]]；Cartwright, 2013）。
 >
 > > [!warrant]- 理论推导与经验依据
-> > 当教师单独引入外部新教学法时，因缺乏客观反馈与批判性[[Dialogue in Education\|对话]]，往往满足于学生在课堂上“看起来很忙碌”（Activity Traps）。而在 JPD 模式下，同行观察员专门紧盯焦点学生的实际思维演变，课后研讨直接检视“原方案设想的因果链条是否在当前学生身上发生”。这种直面底层[[Hypothesis\|假设]]的反思推动了组织学习中的“双环学习”（Argyris & Schön, 1978），确保教学改进聚焦于实质性学习收益。
+> > 当教师单独引入外部新教学法时，因缺乏客观反馈与批判性对话，往往满足于学生在课堂上“看起来很忙碌”（Activity Traps）。而在 JPD 模式下，同行观察员专门紧盯焦点学生的实际思维演变，课后研讨直接检视“原方案设想的因果链条是否在当前学生身上发生”。这种直面底层[[Hypothesis\|假设]]的反思推动了组织学习中的“双环学习”（Argyris & Schön, 1978），确保教学改进聚焦于实质性学习收益。
 
 ---
 
@@ -207,7 +206,7 @@ updated: 2026-09-17
 
 > [!warning] 实施中的误区与警示
 > - **异化为行政查课与绩效考核** 随堂听课一旦与教师评优、[[Performance Pay\|绩效工资]]或督导迎检挂钩，[[Peer-Supported Learning\|同伴互助]]便瞬间蜕变为同行监控，阻断真正的问题暴露与专业互信。
-> - **缺少反思深度的“形式化走课”** 仅流于在教室后排走动观摩，缺乏基于客观学情数据的课后深度[[Dialogue in Education\|对话]]，无法触及因果行动理论。
+> - **缺少反思深度的“形式化走课”** 仅流于在教室后排走动观摩，缺乏基于客观学情数据的课后深度对话，无法触及因果行动理论。
 
 ---
 

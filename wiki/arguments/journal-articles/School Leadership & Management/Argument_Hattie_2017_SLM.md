@@ -9,9 +9,9 @@ title: "Argument_Hattie_2017_SLM"
 argument_key: "Argument_Hattie_2017_SLM"
 argument_display_title: "Educators are not uncritical believers of a cult figure"
 argument_kind: "journal-article"
-argument_related_count: 15
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 14
+argument_related_level: 0
+argument_related_stars: ""
 argument_related_color: "#dbeafe"
 journal: School Leadership & Management
 citation: "Hattie, J. (2017). Educators are not uncritical believers of a cult figure. School Leadership & Management, 37(4), 427–430."
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Success Criteria]]"
   - "[[Phronesis]]"
-  - "[[Dialogue in Education]]"
   - "[[Epistemology]]"
 related_theories: []
 related_methods:
@@ -106,7 +105,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > - [[Argument_Eacott_2019_IJLE\|Eacott (2019)]]指出 Hattie 的回应在两天内被接受发表，而 Eacott 原论文经历了"数月和多轮评审"([[Argument_Eacott_2019_IJLE\|Eacott, 2019, p.777]])
 > - Hattie 以"ACEL 网站列出了许多其他讲者"为由否认[[Cult of the Guru\|大师崇拜]]的存在——Eacott 指出这回避了核心问题："尽管存在对 Hattie 方法的实质性批评，其工作仍被政治家和协会引用时仿佛是不容置疑的事实"
-> - Eacott 被 *[[School Leadership]] & Management* 编辑拒绝发表对 Hattie 回应的再回应——Eacott 认为这一决策"说明了该领域学术工作的逻辑中对[[Dialogue in Education\|对话]]和辩论的低优先级"([[Argument_Eacott_2019_IJLE\|Eacott, 2019, p.778]])
+> - Eacott 被 *[[School Leadership]] & Management* 编辑拒绝发表对 Hattie 回应的再回应——Eacott 认为这一决策"说明了该领域学术工作的逻辑中对对话和辩论的低优先级"([[Argument_Eacott_2019_IJLE\|Eacott, 2019, p.778]])
 > - Hattie 声称 VL 的核心猜想"未被批评"——然而 Snook et al.(2009)、[[Argument_Rømer_2018_EPT\|Rømer (2018)]]和多位批评者已深入质疑其[[Epistemology\|认识论]]前提
 
 ## 来源

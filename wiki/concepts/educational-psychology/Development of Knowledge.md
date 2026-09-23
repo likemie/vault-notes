@@ -6,7 +6,7 @@ aliases:
 summary: "认识论认知构念之一，指个体认识到知识是不断演化、可被修正的发展性产物，而非永恒不变的绝对真理集合。是预测学业成就效力最强的单一认识论构念。"
 type: concept
 domain: "educational-psychology"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
+  - "[[Open-Mindedness]]"
   - "[[Rote Learning]]"
   - "[[Ontology]]"
   - "[[Constructivist Paradigm]]"
@@ -43,7 +44,7 @@ related_persons: []
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Development of Knowledge
@@ -58,7 +59,7 @@ updated: 2026-09-22
 
 > [!concept-lens] 概念透镜
 > - **含义** 标识学习者对知识暂定性（Tentativeness）与演化性的深刻理解，代表认识论认知从“朴素静态观”走向“成熟生成观”的关键转变。
-> - **用途** 解释为什么具备成熟认识论的学习者在面对知识冲突时更具开放性，倾向于调动深层重构策略而非[[Rote Learning\|死记硬背]]。
+> - **用途** 解释为什么具备成熟认识论的学习者在面对知识冲突时更具[[Open-Mindedness|开放性]]，倾向于调动深层重构策略而非[[Rote Learning\|死记硬背]]。
 > - **边界** 它特指对知识随时间演化这一[[Ontology\|本体论]]属性的认知，并不等同于关于学习能力的智力内隐信念（如智力可变论），也不直接代表具体学科的论证技能。
 
 > [!boundary]- 概念边界

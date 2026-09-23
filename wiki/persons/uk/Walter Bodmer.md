@@ -9,7 +9,7 @@ summary: "英国人类遗传学家、牛津大学教授，1985年主持撰写皇
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 10
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ tags:
   - theme/public-engagement
 related_concepts:
   - "[[Public Engagement with Science]]"
-  - "[[Dialogue in Education]]"
   - "[[General Education]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Scientific Literacy]]"
@@ -38,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-09-11
+updated: 2026-09-22
 ---
 
 # Walter Bodmer
@@ -49,7 +48,7 @@ updated: 2026-09-11
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国人类遗传学家、牛津大学分子医学研究所教授、皇家学会会士（FRS）、医学科学院院士（FMedSci）。
-> - **核心角色** 英国现代[[Public Engagement with Science\|公众科学参与]]与科学传播政策的奠基者；1985 年主持撰写皇家学会《公众理解科学》报告（[[Bodmer Report 1985\|The Bodmer Report]]），推动科学界将面向公众的传播与[[Dialogue in Education\|对话]]确立为科学家的核心职责。
+> - **核心角色** 英国现代[[Public Engagement with Science\|公众科学参与]]与科学传播政策的奠基者；1985 年主持撰写皇家学会《公众理解科学》报告（[[Bodmer Report 1985\|The Bodmer Report]]），推动科学界将面向公众的传播与对话确立为科学家的核心职责。
 > - **代表贡献** 主持发布《公众理解科学》报告（1985）、推动英国建立全国科学周（National Science Week）与法拉第讲座（Faraday Lecture）、倡导 16 岁前全员必修科学教育及 16–18 岁跨学科[[General Education\|通识教育]]。
 
 > [!citation-card]- 人物定位的关键来源
@@ -74,7 +73,7 @@ updated: 2026-09-11
 
 > [!work-line] 主要著作
 > - **1985 — *The Public Understanding of Science*（Bodmer Report）** 系统论证科学渗透于现代社会的各领域，指出向公众传播科学是整个科学界的职责，确立科研基金捆绑科普支持的制度安排。[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, pp. 4–5)]]
-> - **2026 — *Preface to Science for Society: How Society and Science Shape Each Other*** 回顾 1985 年报告以来的历史演进，指出在数字网络、人工智能与虚假信息时代，科学诚信、独立性与公众[[Dialogue in Education\|对话]]更具紧迫性。[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 4)]]
+> - **2026 — *Preface to Science for Society: How Society and Science Shape Each Other*** 回顾 1985 年报告以来的历史演进，指出在数字网络、人工智能与虚假信息时代，科学诚信、独立性与公众对话更具紧迫性。[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 4)]]
 
 ---
 
@@ -95,7 +94,7 @@ updated: 2026-09-11
 > [!influence-path] 影响路径
 > - **政策路径** 推动英国政府将科学传播要求直接嵌入研究理事会的科研资助审批流程，促成全国科学周与多项科学传播大奖的设立。
 > - **教育路径** 明确提出 16 岁前全员必修科学教育，并在 1980 年代末促成英格兰、威尔士和北爱尔兰国家课程将科学设为义务教育必修科目。
-> - **制度化扩展** 促使英国皇家学会、英国科学协会等机构将公众参与制度化，推动科学界从早期的单向知识普及逐步转向双向[[Dialogue in Education\|对话]]机制。
+> - **制度化扩展** 促使英国皇家学会、英国科学协会等机构将公众参与制度化，推动科学界从早期的单向知识普及逐步转向双向对话机制。
 
 ---
 
@@ -111,7 +110,7 @@ updated: 2026-09-11
 ## 争议与批评
 
 > [!critique] 外部批评
-> - **[[Deficit Model of Science Communication\|赤字模型]]局限** 1985 年报告早期的实施路径曾受到社会学界批评，被认为过度依赖将公众视为被动知识接受者的[[Deficit Model of Science Communication\|赤字模型]]（Deficit Model）；2000 年后英国科学界进一步向强调平权[[Dialogue in Education\|对话]]的双向公众参与模式演进。[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 10)]]
+> - **[[Deficit Model of Science Communication\|赤字模型]]局限** 1985 年报告早期的实施路径曾受到社会学界批评，被认为过度依赖将公众视为被动知识接受者的[[Deficit Model of Science Communication\|赤字模型]]（Deficit Model）；2000 年后英国科学界进一步向强调平权对话的双向公众参与模式演进。[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 10)]]
 
 ---
 

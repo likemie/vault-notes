@@ -7,10 +7,10 @@ aliases:
 summary: "国际文凭组织提出的一组核心育人目标（如探究者、反思者），将组织的全球公民使命操作化为10项具体特质，旨在通过各学科与核心组件的协同培养具有国际情怀和跨学科思维的终身学习者。"
 type: concept
 domain: "curriculum"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/curriculum
   - theme/student-development
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[Operationalization]]"
   - "[[Teaching Assistant]]"
+  - "[[Open-Mindedness]]"
   - "[[Whole Person Education]]"
   - "[[Creativity]]"
   - "[[Critical Thinking]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-11
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # IB Learner Profile
@@ -63,7 +64,7 @@ updated: 2026-09-17
 > - **边界** 学习者特征描述的是一种发展目标和行为倾向，它难以直接通过单一标准化考试进行量化打分，需要通过长期的探究体验和过程性反思来展现。
 
 > [!citation-card]- 关键表述
-> 学习者特征将组织使命操作化为探究者、思想开放者和反思者等 10 项特质，作为评估课程非学术目标（如全球公民与国际情怀）是否在学生行为中落实的对齐标尺。[[Argument_Bergeron_2015_TeachingTOK\|(Bergeron & Rogers, 2015, p. 4)]]
+> 学习者特征将组织使命操作化为探究者、[[Open-Mindedness|思想开放]]者和反思者等 10 项特质，作为评估课程非学术目标（如全球公民与国际情怀）是否在学生行为中落实的对齐标尺。[[Argument_Bergeron_2015_TeachingTOK\|(Bergeron & Rogers, 2015, p. 4)]]
 
 > [!boundary]- 概念边界
 > - **不等于 显性学术标准** — 学习者特征侧重于“成为什么样的人（being）”和思维习惯，而不仅仅是“知道什么（knowing）”或“能考多少分”。

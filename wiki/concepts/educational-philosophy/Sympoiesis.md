@@ -2,22 +2,23 @@
 title: Sympoiesis
 aliases:
   - 共生成
-summary: "强调存在总是在与他者共同制造中生成的后人类主义概念，突出跨物种相互依存、协作生成和伦理回应关系"
+summary: 强调存在总是在与他者共同制造中生成的后人类主义概念，突出跨物种相互依存、协作生成和伦理回应关系
 type: concept
 domain: "educational-philosophy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 tags:
-- sympoiesis
-- posthumanism
-- relational-ontology
-- care-ethics
+  - sympoiesis
+  - posthumanism
+  - relational-ontology
+  - care-ethics
 related_concepts:
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Response-ability]]"
   - "[[Emergence]]"
+  - "[[Open-Mindedness]]"
   - "[[Ontology]]"
   - "[[Posthumanism]]"
   - "[[Haraway's SF]]"
@@ -33,8 +34,8 @@ related_arguments:
   - "[[Argument_Amos_2022_Springer]]"
 confidence: medium
 status: draft
-created: '2026-05-08'
-updated: '2026-08-27'
+created: 2026-05-08
+updated: 2026-09-23
 ---
 
 ## 定义
@@ -42,7 +43,7 @@ updated: '2026-08-27'
 > [!info] 定义
 > Sympoiesis（共同制造，making with）是 [[Donna Haraway]] 提出的核心概念，意为"与他人一起制造"——生命和世界不是由独立系统自我生产的，而是在多种行动者（人类和非人类）的持续交互中共同生成的。
 >
-> Haraway 有意将 sympoiesis 与 [[Autopoiesis]]（Maturana & Varela 的"自我制造"）形成对照。Autopoiesis 强调生命系统是自我指涉、自我生产的——系统通过自身组件的交互持续生成和维持自身。Haraway 认为这一模型过度强调自我指涉性，忽视了"与他人一起、[[Humility in Learning\|谦逊]]地、有[[Response-ability\|回应能力]]地回应彼此需求"的根本维度([[Argument_Amos_2022_Springer\|Amos, 2022, p.62]])。
+> Haraway 有意将 sympoiesis 与 [[Autopoiesis]]（Maturana & Varela 的"自我制造"）形成对照。Autopoiesis 强调生命系统是自我指涉、自我生产的——系统通过自身组件的交互持续生成和维持自身。Haraway 认为这一模型过度强调自我指涉性，忽视了"与他人一起、[[Humility\|谦逊]]地、有[[Response-ability\|回应能力]]地回应彼此需求"的根本维度([[Argument_Amos_2022_Springer\|Amos, 2022, p.62]])。
 >
 > > 例：把两个概念映射到课堂。Autopoiesis 式的学习：每个学生是一套自足的学习系统——阅读、做练习、通过考试——学习是"我"的内部过程。Sympoiesis 式的学习：学习发生在学生之间、学生与教师之间、学生与教室的物理环境之间、学生与社区之间的持续互动中——"我们学到了什么"不是单个学生内部过程的加总，而是交互本身[[Emergence\|涌现]]的产物。
 >
@@ -50,7 +51,7 @@ updated: '2026-08-27'
 ## 概念辨析
 
 > [!example] 概念辨析
-> - vs [[Autopoiesis]] — Autopoiesis 以自我指涉和系统封闭性为核心，sympoiesis 以相互依存和系统开放性为核心。Haraway 明确否定了 autopoiesis 对自我指涉性（self-referentiality）的强调，但 Amos 指出两者的共同之处实际上多于分歧——都关注系统如何生成和维持自身，只是对"系统边界在哪"有不同回答([[Argument_Amos_2022_Springer\|Amos, 2022, pp.62–63]])
+> - vs [[Autopoiesis]] — Autopoiesis 以自我指涉和系统封闭性为核心，sympoiesis 以相互依存和系统[[Open-Mindedness|开放性]]为核心。Haraway 明确否定了 autopoiesis 对自我指涉性（self-referentiality）的强调，但 Amos 指出两者的共同之处实际上多于分歧——都关注系统如何生成和维持自身，只是对"系统边界在哪"有不同回答([[Argument_Amos_2022_Springer\|Amos, 2022, pp.62–63]])
 >
 
 ## 核心要素

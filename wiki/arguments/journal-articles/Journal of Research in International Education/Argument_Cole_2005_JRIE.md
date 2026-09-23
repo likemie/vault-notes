@@ -33,6 +33,7 @@ related_concepts:
   - "[[Feeder Mechanism]]"
   - "[[Performativity]]"
   - "[[Areas of Knowledge]]"
+  - "[[Open-Mindedness]]"
   - "[[Emergence]]"
   - "[[Epistemology]]"
   - "[[Rote Learning]]"
@@ -58,7 +59,7 @@ title: "Argument_Cole_2005_JRIE"
 argument_key: "Argument_Cole_2005_JRIE"
 argument_display_title: "An examination of Hegelian and Spinozian philosophy and their relationships with the International Baccalaureate subject, Theory of Knowledge"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -178,7 +179,7 @@ issuing_organization: ""
 > 1. **重构“核心知识（Knowledge Core）”** 课程不再把先验的哲学理论作为核心，而是将“探究情感本身”作为知识核心。教学起点是审查学生身上的无意识情感（如考试焦虑、对权威的盲从），展开对常规的激进批判。
 > 2. **化“否定”为“生产”** 在传统课堂中，学生表现出的虚无主义、叛逆或冷漠会被视为必须被纠正（否定）的违纪行为。斯宾诺莎模式要求教师将这些负面情绪视为构成情感想象力的“生产性材料”，引导全班对其背后的权力机制进行自由探索。
 > 3. **跨学科的[[Feeder Mechanism\|滋养机制]]** 鼓励学生利用想象力将相互独立的学科连接起来，而非被固化的学科边界框定。
-> 4. **无必然终点的开放性（Without Necessary Resolution）** 不追求大一统的最终真理或强制共识，允许悬而未决的开放探索。
+> 4. **无必然终点的[[Open-Mindedness|开放性]]（Without Necessary Resolution）** 不追求大一统的最终真理或强制共识，允许悬而未决的开放探索。
 
 ---
 

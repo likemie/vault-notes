@@ -9,7 +9,7 @@ aliases:
 summary: "以经验观察、受控检验与假设证伪为基础的系统性探究程序，传统实证主义将其预设为贯通自然与社会的普适法则，而当代科学哲学与科学教育将其重构为多元、情境化且受价值制约的社会认识论实践。"
 type: concept
 domain: "educational-philosophy"
-related_count: 67
+related_count: 68
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Formal Epistemology]]"
   - "[[Practical Epistemology]]"
   - "[[Scientism]]"
+  - "[[Authentic Science Practices]]"
   - "[[Paradigm]]"
   - "[[Interpretive Paradigm]]"
   - "[[Absolute Knowing]]"
@@ -134,7 +135,7 @@ updated: 2026-09-22
 
 > [!boundary]- 概念边界
 > - **不等于[[Scientism\|科学主义]]（Scientism）** 科学方法是一种特定类型的经验探究工具，而科学主义则是一种将经验科学知识奉为人类唯一有效真理、贬低人文审美与批判哲学的意识形态狂妄。
-> - **不等于程式化操作步骤（Formularized Steps）** 真实科学探究充满灵感假说、反常应对、修辞说服与模型迭代，绝非中小学教材中僵化呈现的“提出假设—实验验证”机械流程。
+> - **不等于程式化操作步骤（Formularized Steps）** [[Authentic Science Practices|真实科学探究]]充满灵感假说、反常应对、修辞说服与模型迭代，绝非中小学教材中僵化呈现的“提出假设—实验验证”机械流程。
 > - **不适用于终极价值裁决** 科学方法擅长回答“实然”机制与概率预测，无法从经验数据中直接推导教育公平、人生意义等“应然”规范承诺。
 
 ---
@@ -306,7 +307,7 @@ Hitchcock & Hughes (1995) 提出的八阶段模型展现了传统科学方法的
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] — 批判学校教育中将科学方法简化为五步线性程序的教条神话，依据维特根斯坦家族相似性与微观话语[[Practical Epistemology\|实践认识论]]，系统构建涵盖探究科学、工程设计与社会议题的跨领域实践矩阵（pp. 144–145, 154–157）。
 > - [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] — 提出[[Practical Epistemology\|实践认识论]]与[[Formal Epistemology\|形式认识论]]的[[Analytic Framework\|分析框架]]，揭示学生探究活动与所持形式[[Epistemological Beliefs\|认识论信念]]的脱节，批判中小学科学教育将科学方法教条化为单一线性规程的神话。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 系统梳理西方教育探究方法论从[[Positivism\|实证主义]]向后实证与批判[[Paradigm\|范式]]的演化历程，复原传统科学方法八阶段与五步经验进程，并从存在主义、法兰克福学派与[[Anthony Giddens\|吉登斯]]社会学维度清算其忽视主体能动性的缺陷。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 系统梳理西方教育探究方法论从[[Positivism\|实证主义]]向后实证与批判[[Paradigm\|范式]]的演化历程，复原传统科学方法八阶段与五步经验进程，并从存在主义、法兰克福学派与吉登斯社会学维度清算其忽视主体能动性的缺陷。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 阐明 19 世纪比较教育发轫期将科学方法运用于社会治理与道德改良的现代性源流，剖析[[Marc-Antoine Jullien\|朱利安]]借用分类、制表与事实收集为全人[[Bildung\|教化]]与和平治理服务的准实证构想。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] — 批判当代[[Evidence-Based Education\|循证教育]]对科学方法的教条化应用，揭示将教学质量简化为[[Meta-analysis\|元分析]][[Effect Size\|效应量]]与[[Variable\|变量]]控制，剥离了教学实践作为人际交往的生成性[[Ontology\|本体论]]。
 > - [[Argument_Peterson_1987_OpenCourt\|Peterson (1987)]] — 从[[Theory of Knowledge\|知识论]]视角界定科学方法的有效性限度与[[Epistemology\|认识论]]边界，强调[[General Education\|通识教育]]的核心在于理解科学方法能够支持哪些结论，以及哪些伦理与价值判断落在其解释范围之外。

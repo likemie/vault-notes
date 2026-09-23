@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_display_title: "Research Methods in Education · Ch12"
 argument_kind: "book-chapter"
-argument_related_count: 39
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -46,7 +46,6 @@ related_concepts:
   - "[[Boarding Schools]]"
   - "[[Typification]]"
   - "[[Realism in International Relations]]"
-  - "[[Dialogue in Education]]"
   - "[[Selectivity]]"
   - "[[External Validity]]"
   - "[[Theoretical Perspective]]"
@@ -275,7 +274,7 @@ updated: '2026-08-27'
 > [!case] 三种个人文献的差异使用
 > **日记** 通常在事件后不久产生，提供关于个人和日常生活的细致和私密的证据，且不限于男性。Blodgett（1988）强调日记作为女性历史证据的独特价值。政治日记则是另一个极端：英国政治家 Tony Benn 的日记记录了关于1976年英国教育大辩论政策变化的高度内部信息（Benn, 1990）。日记同时揭示，往往是无意中，关于日记作者自身的大量信息（Pimlott, 2002）。学校日志（school log books）具有官方功能，它们通常被要求包含关于学生、教师和学校管理的特定信息，但在某些案例中，它们也可能揭示相关校长的日常生活和人际互动（McCulloch, 1989, 第8章）。
 >
-> **信件** 作为通信手段的写信产生了一类具有[[Dialogue in Education\|对话]]性质（interactive character）的文献，它们明确构成对话的一部分。信件在风格和实质上既可能是个人性的，也可能是正式的（Earle, 1999; Dobson, 2009）。许多与教育相关的信件，如父母写给学校、报纸或教育部长的信，体现了个人/家庭领域与既定制度关切之间的互动（Heward, 1988）。这种跨界特征使信件成为研究公私领域交界面上教育政策的独特窗口。
+> **信件** 作为通信手段的写信产生了一类具有对话性质（interactive character）的文献，它们明确构成对话的一部分。信件在风格和实质上既可能是个人性的，也可能是正式的（Earle, 1999; Dobson, 2009）。许多与教育相关的信件，如父母写给学校、报纸或教育部长的信，体现了个人/家庭领域与既定制度关切之间的互动（Heward, 1988）。这种跨界特征使信件成为研究公私领域交界面上教育政策的独特窗口。
 >
 > **自传** 自传具有内省性（introspective），提供关于生活和关系的内部叙述。它们通常对早年生活和学校教育给予特别强调。这使自传成为研究教育经验的社会史的重要材料类型。David Vincent（1981）的里程碑式研究以142份19世纪英格兰工人阶级自传为基础，展示了这些文本如何揭示工人阶级群体在家庭、朋友、同事和熟人的社会网络中的参与性质。这些细节在官方统计和政策报告中是完全不可见的。
 

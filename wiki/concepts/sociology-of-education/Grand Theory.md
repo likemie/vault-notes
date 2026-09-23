@@ -10,7 +10,7 @@ aliases:
 summary: "统摄学科全貌、追求先验普遍性与高度逻辑自洽的思辨性元叙述体系，因脱离经验事实与异质微观现实而遭遇默顿中层理论、扎根理论与后现代主义的深刻批判。"
 type: concept
 domain: "sociology-of-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Big Ideas]]"
   - "[[Operationalization]]"
   - "[[Creativity]]"
+  - "[[Open-Mindedness]]"
   - "[[Heterogeneity]]"
   - "[[Champ]]"
   - "[[Emergence]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Grand Theory
@@ -76,7 +77,7 @@ updated: 2026-09-17
 > - **边界** 宏大理论不提供可精确[[Operationalization\|操作化]]与严格证伪的微观经验假说，不能直接充当课堂或学校层面的具体因果解释工具。
 
 > [!citation-card] [[Keith Morrison\|莫里森]]与莱德论宏大理论的思辨本质与拜占庭式建筑辉煌
-> 宏大理论是一种元叙述，它界定了一个研究领域，具有思辨性，旨在澄清概念结构与框架，并在[[Creativity\|创造性]]维度上拓展我们对人类行为与组织的思考方式。它运用根本性的本体论和认识论公设来界定探究领域。在这里，经验材料往往仅被用作说明展示的方式，而非作为严格的‘证明’。这构成了某些社会学理论（例如马克思主义、共识论与功能主义）的实质内核。尽管社会学家可能为其全包容和统揽一切的特质所振奋，但它们遭遇了大量解构。正如默顿、科瑟与罗森伯格、多尔以及莱德所主张的，尽管宏大理论可能具备大型哲学体系的吸引力——展现出相当可观的、拜占庭式的建筑辉煌与逻辑自洽——然而在科学探究中，它们却是贫瘠、无关痛痒的，并且脱离了一个以开放性、流动性、变革、[[Heterogeneity\|异质性]]与碎片化为特征的真实世界。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 10–11)]]
+> 宏大理论是一种元叙述，它界定了一个研究领域，具有思辨性，旨在澄清概念结构与框架，并在[[Creativity\|创造性]]维度上拓展我们对人类行为与组织的思考方式。它运用根本性的本体论和认识论公设来界定探究领域。在这里，经验材料往往仅被用作说明展示的方式，而非作为严格的‘证明’。这构成了某些社会学理论（例如马克思主义、共识论与功能主义）的实质内核。尽管社会学家可能为其全包容和统揽一切的特质所振奋，但它们遭遇了大量解构。正如默顿、科瑟与罗森伯格、多尔以及莱德所主张的，尽管宏大理论可能具备大型哲学体系的吸引力——展现出相当可观的、拜占庭式的建筑辉煌与逻辑自洽——然而在科学探究中，它们却是贫瘠、无关痛痒的，并且脱离了一个以[[Open-Mindedness|开放性]]、流动性、变革、[[Heterogeneity\|异质性]]与碎片化为特征的真实世界。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 10–11)]]
 >
 > *‘Grand theory’ is a metanarrative, defining an area of study, being speculative, clarifying conceptual structures and frameworks, and creatively enlarging the way we consider behaviour and organizations (Layder). It uses fundamental ontological and epistemological postulates which serve to define a [[Champ\|field]] of enquiry (Hughes, 1976). Here empirical material tends to be used by way of illustration rather than ‘proof’. This is the stuff of some sociological theories, for example Marxism, consensus theory and functionalism. Whilst sociologists may be excited by the totalizing and all-encompassing nature of such theories, they have been subject to considerable undermining. For example, Merton (1949), Coser & Rosenberg (1969), Doll (1993) and Layder (1994) contend that whilst they might possess the attraction of large philosophical systems of considerable – Byzantine – architectonic splendour and logical consistency, nevertheless they are scientifically sterile, irrelevant and out of touch with a world that is characterized by openness, fluidity, change, heterogeneity and fragmentation.*
 

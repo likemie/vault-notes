@@ -31,8 +31,8 @@ related_concepts:
   - "[[SCAMPER]]"
   - "[[Creativity]]"
   - "[[Champ]]"
-  - "[[Dialogue in Education]]"
   - "[[Brainstorming]]"
+  - "[[Dialogue in Education]]"
 related_theories:
   - "[[TRIZ]]"
   - "[[Creative Problem Solving]]"
@@ -117,7 +117,7 @@ updated: 2026-09-11
 
 > [!person-network] 关系网络
 > - **主要弟子与学术继承人** 鲍里斯·兹洛京（Boris Zlotin）、瓦列里·楚里科夫（Valery Tsourikov） — 将经典 [[TRIZ]] 软件化、计算机辅助创新化（CAI）并推向欧美。
-> - **理论[[Dialogue in Education\|对话]]者** [[Alex Osborn\|亚历克斯·奥斯本]]（[[Alex Osborn]]） — 奥斯本倡导无约束的自由发散（[[Brainstorming\|头脑风暴]]），阿奇舒勒则坚决反对无序试错，主张算法化精准定向攻坚。
+> - **理论对话者** [[Alex Osborn\|亚历克斯·奥斯本]]（[[Alex Osborn]]） — 奥斯本倡导无约束的自由发散（[[Brainstorming\|头脑风暴]]），阿奇舒勒则坚决反对无序试错，主张算法化精准定向攻坚。
 > - **实证检验者** Morin et al. (2018) 与郭恒等（[[Argument_Guo_2025_TSC\|Guo et al. (2025)]]） — 在高校工科课程中开展准实验与[[Meta-analysis\|元分析]]，确立技术型训练（$g = 0.552$）的稳健增益。
 
 ---

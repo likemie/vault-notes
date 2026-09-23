@@ -5,7 +5,7 @@ aliases:
 summary: "涵盖个体关于知识和认知过程的所有显性或隐性信念与认知实践活动的总括性术语。是理解学习过程、批判性思维与情境适应的核心变量。"
 type: concept
 domain: "educational-psychology"
-related_count: 72
+related_count: 75
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemic Stances]]"
   - "[[Epistemic Agency]]"
+  - "[[Trust Calibration]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Source of Knowledge]]"
@@ -31,6 +32,7 @@ related_concepts:
   - "[[Cognitive Offloading]]"
   - "[[Determinism]]"
   - "[[Epistemic Virtues and Vices]]"
+  - "[[Open-Mindedness]]"
   - "[[Causal Processes]]"
   - "[[Causality]]"
   - "[[Epistemic Climate]]"
@@ -38,6 +40,7 @@ related_concepts:
   - "[[Measurement Alignment]]"
   - "[[Procedural Knowledge]]"
   - "[[Reliability]]"
+  - "[[Authentic Science Practices]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Knowledge Production]]"
   - "[[Source Evaluation]]"
@@ -92,7 +95,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 # Epistemic Cognition
 （[[Epistemology|认识论]]认知）
@@ -117,7 +120,7 @@ updated: 2026-09-22
 
 > [!boundary]- 概念边界
 > - 不等于 **非[[Epistemology\|认识论]]倾向（Nonepistemic Dispositions）** — 如果个体的目标仅仅是指向展示口才、打发时间或单纯的思考乐趣，则缺乏追求真理的纯粹偏好，不属于认识论认知。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011)]]
-> - 不等于 **无差别的怀疑主义** — 认识论认知构成了**建构性批判（Constructive Critique）**的核心支撑，它引导学习者进行合理信任（Calibrated Trust），而非盲目抬杠或陷入认识论虚无主义。
+> - 不等于 **无差别的怀疑主义** — 认识论认知构成了**建构性批判（Constructive Critique）**的核心支撑，它引导学习者进行合理信任（[[Trust Calibration|Calibrated Trust]]），而非盲目抬杠或陷入认识论虚无主义。
 
 ---
 
@@ -136,7 +139,7 @@ updated: 2026-09-22
 > - **认识目标与价值** 探究中追求真理或确证等目标。
 > - **知识结构** 包括普遍性与特殊性、[[Determinism\|决定论]]与随机性。
 > - **来源与确证** 涵盖感知、推理、证词及不同情境下的[[Justificatory Standards\|确证标准]]。
-> - **[[Epistemic Virtues and Vices\|认识论美德与恶习]]** 思想开放、理智勇气等性格倾向。
+> - **[[Epistemic Virtues and Vices\|认识论美德与恶习]]** [[Open-Mindedness|思想开放]]、理智勇气等性格倾向。
 > - **可靠与不可靠的过程** 涵盖产生信念的[[Causal Processes\|因果过程]]及其有效性判定。
 
 > [!logic-map]- 认识论认知理论演进脉络与人机共生拓展
@@ -162,7 +165,7 @@ updated: 2026-09-22
 > - **[[Epistemic Aims\|认识目标]]与价值** 探究中追求真理或最低限度确证等目标及其价值评估。
 > - **知识结构** 包括普遍性与特殊性、[[Determinism\|决定论]]与随机性及具体形式。
 > - **来源与确证** 交互涵盖感知、推理、证词及不同情境下的确证标准。
-> - **[[Epistemic Virtues and Vices\|认识论美德与恶习]]** 思想开放、理智勇气等促进认识目标的性格倾向。
+> - **[[Epistemic Virtues and Vices\|认识论美德与恶习]]** [[Open-Mindedness|思想开放]]、理智勇气等促进认识目标的性格倾向。
 > - **可靠与不可靠的过程** 涵盖产生信念的[[Causality\|因果推断]]与同行评审机制。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011)]]
 
 > [!claim] [[William A. Sandoval|Sandoval, W.]]
@@ -192,7 +195,7 @@ updated: 2026-09-22
 ### 命题三　认识论认知在学科论证中展现为目标、理想与可靠过程三元架构的实质协调
 
 > [!concept-lens] 论证评价中认识论认知的实践具身与学科实质维度
-> 探究认识论认知在真实科学探究任务中如何外显化，论证科学论证评估何以必须超越外在句法结构而转向认识论实质。
+> 探究认识论认知在[[Authentic Science Practices|真实科学探究]]任务中如何外显化，论证科学论证评估何以必须超越外在句法结构而转向认识论实质。
 
 > [!claim] Duncan, R. G. & [[Clark A. Chinn\|Chinn, C. A.]]
 > **[[AIR Model of Epistemic Cognition\|AIR]]三元协调决定论证实质** 认识论认知在科学论证实践中具体具身为探究目标（[[Epistemic Aims]]）、评价准则（[[Epistemic Ideals]]）与生成程序（[[Reliable Epistemic Processes]]）三者的协同运作。传统基于 Toulmin 或 CER 的结构分析仅能评价主张、数据与推理等表面句法部件，无法甄别结构完备但缺乏认识论确证力的伪科学论证；唯有深入考察论证者在证据选择、模型裁决与方法质询中调动的认识论理想（如全证据契合、多源收敛）及对过程因果条件的审视，才能揭示认识论认知的真实运作水准，并以此作为培育学生[[Epistemic Agency\|认识主体性]]的核心杠杆。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 202–204, 209–211, 222–223)]]

@@ -10,7 +10,7 @@ subtype: organization
 region: canada
 fact_region: "canada"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -41,7 +41,8 @@ related_theories: []
 related_methods:
   - "[[Systematic Review]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Christopher Martin]]"
 related_facts:
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-13
+updated: 2026-09-24
 ---
 
 # Canadian Council on Learning
@@ -70,7 +71,7 @@ updated: 2026-09-13
 
 > [!org-context] 机构背景与治理渊源
 > - **成立时间 / 设立地点** 2004 年正式启动运营，总部设于加拿大首都渥太华（Ottawa）。
-> - **发起主体与创设契机** 由保罗·马丁（Paul Martin）领导的加拿大联邦自由党政府发起，通过加拿大联邦人力资源与技能开发部（Human Resources and Skills Development Canada, HRSDC）提供为期多年的巨额专项资助协议（总额约 8500 万加元）。创设背景源于 21 世纪初加拿大朝野对提升国家整体技能素养、缩小原住民与边缘群体教育差距，以及在无联邦教育部体制下统筹国家教育实证监测的战略诉求。
+> - **发起主体与创设契机** 由保罗·[[Christopher Martin|马丁]]（Paul Martin）领导的加拿大联邦自由党政府发起，通过加拿大联邦人力资源与技能开发部（Human Resources and Skills Development Canada, HRSDC）提供为期多年的巨额专项资助协议（总额约 8500 万加元）。创设背景源于 21 世纪初加拿大朝野对提升国家整体技能素养、缩小原住民与边缘群体教育差距，以及在无联邦教育部体制下统筹国家教育实证监测的战略诉求。
 > - **法人属性与经费模式** 依法注册为独立的全国性非营利组织（Non-profit Corporation），在法律和运营上独立于联邦与各省政府官僚体系。然而，其运营预算几乎单一依附于联邦政府专项协议拨款，缺乏地方各省的法定联合出资保障。
 > - **核心使命与法定愿景** 促进全加拿大范围内关于所有阶段终身学习（从早期儿童、K–12、高等教育、成人职业培训到健康素养）的实证研究、信息综合与[[Knowledge Mobilisation\|知识动员]]，为各级决策者、雇主与公众提供客观严谨的决策依据。
 

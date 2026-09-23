@@ -7,7 +7,7 @@ title: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_key: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_display_title: "Working Out What Works: The Case of the Education Endowment Foundation in England"
 argument_kind: "journal-article"
-argument_related_count: 132
+argument_related_count: 131
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -68,7 +68,6 @@ related_concepts:
   - "[[Predictive Validity]]"
   - "[[Floor and Ceiling Effects]]"
   - "[[Reliability]]"
-  - "[[Growth]]"
   - "[[Self-control]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[School Leadership]]"
@@ -383,7 +382,7 @@ updated: 2026-09-18
 
 > [!case] 商业标准化测验的心理计量缺陷与效度危机（Allen et al., 2018; Hodgen et al., 2019）
 > - **测验自编虚高风险与商业测验的引入** 如果研究评估采用由项目开发者自主编排或紧密贴合特定教材教法的非标准化测验（Inherent Measures），题项内容极易与干预教学要点发生高度同构，从而人为夸大 50% 至 100% 的效应量，严重损害证据的客观公信力（Cheung & Slavin, 2016; Ginsburg & Smith, 2016; WWC, 2017）。为此，EEF 早在 2012 年初便颁布《EEF 测验选择与实施指南》（EEF Guidance on Choosing and Delivering Attainment Tests; The EEF, 2012b），明确规定主要结局指标严禁采用任何自编测验，必须优先选择具备广泛外部效度、与英国官方高利害统考高度相关的独立商业标准化测验或直接调用国家学生数据库（NPD）的行政考试成绩。
-> - **心理计量黑箱与预测效度审计** 然而，市售商业标准化测验在实际应用中暴露出严重的心理计量属性黑箱。绝大多数商业测验开发商仅在技术手册中提供[[Internal Consistency\|内部一致性]]系数（如克隆巴赫 $\alpha$），极少向学界公开长期的[[Construct Validity\|构念效度]]与[[Predictive Validity\|预测效度]]研究数据。伦敦大学学院丽贝卡·艾伦等（Allen et al., 2018）利用 EEF 归档数据库对全英广泛使用的多套商业标准化阅读与数学测验进行系统二次分析，结果发现：这些商业测试对学生未来在关键学段（如 GCSE）官方统考成绩的预测效度仅达到中等水平，甚至存在不可忽视的测量偏差，无法充当学[[Growth\|生长]]期学业发展的无偏代理指标。
+> - **心理计量黑箱与预测效度审计** 然而，市售商业标准化测验在实际应用中暴露出严重的心理计量属性黑箱。绝大多数商业测验开发商仅在技术手册中提供[[Internal Consistency\|内部一致性]]系数（如克隆巴赫 $\alpha$），极少向学界公开长期的[[Construct Validity\|构念效度]]与[[Predictive Validity\|预测效度]]研究数据。伦敦大学学院丽贝卡·艾伦等（Allen et al., 2018）利用 EEF 归档数据库对全英广泛使用的多套商业标准化阅读与数学测验进行系统二次分析，结果发现：这些商业测试对学生未来在关键学段（如 GCSE）官方统考成绩的预测效度仅达到中等水平，甚至存在不可忽视的测量偏差，无法充当学生长期学业发展的无偏代理指标。
 > - **量程失真危机：[[Floor and Ceiling Effects\|天花板与地板效应]]** 在[[Catch Up Numeracy\|小学数学干预]]试验 [[Catch Up Numeracy]]（Hodgen et al., 2019）中，评估团队采用市售标准化数学测试作为终结性后测工具。然而，由于该商业测验题项难度阶梯分布不当、有效量程严重受限，导致最终测试数据遭遇了严重的天花板效应（高水平学生轻易取得满分）与地板效应（基础薄弱学生大量得零分）。这种量程截断人为抹平了干预组与对照组在分布两端的细微真实差距，严重低估了干预的真实效应量，动摇了统计推断的稳健性。
 > - **测量工具库战略推进与经验镜鉴** 2014 年起，EEF 将资助领域从学科认知进一步拓展至学前教育与非认知领域（如[[Self-control\|自我控制]]、心理韧性与社交情绪）。针对市场上非认知量表良莠不齐的严峻现实，EEF 委托曼彻斯特大学迈克尔·威格斯沃思（Wigelsworth, 2017）开展超大规模系统文献综述，正式构建了[[SPECTRUM\|非认知与社会情感测量工具库]]（Social, Psychological, Emotional, Concepts of self, and Resilience: Understanding and Measurement, SPECTRUM），并同步启动全英学业[[Achievement and Aptitude Tests\|成就测验]][[Systematic Review\|系统综述]]，建立权威准入目录。实践表明：若资助机构在创立初期就前置建立严格的标准化测量工具库，便能大幅避免数以百万英镑计的试错成本，为全球循证资助机构树立了关键方法学镜鉴。（p. 54）
 
@@ -486,7 +485,7 @@ RCT 绝非全能的方法学灵丹妙药，强推随机化在特定决策层级�
 这种大样本规模化与实施保真度之间的内在撕裂，在多项耗资巨大的标杆性国家级试验中得到了触目惊心的印证。（p. 57）
 
 > [!case] 效力试验到实效试验的断崖式衰减：“[[Thinking, Doing, Talking Science\|思考、动手、对话科学]]”（Thinking, Doing, Talking Science, TDTS）的大规模复制危机（Hanley et al., 2015 vs Kitmitto et al., 2018）
-> - **小规模效力试验的显著提振** 在第一阶段由资助方与牛津布鲁克斯大学等开发团队紧密配合开展的效力试验中，“思考、动手、[[Dialogue in Education\|对话]]科学”（TDTS）针对小学五年级科学课堂，通过探究性实验操作与高阶对话教学激发学生的科学思维。该试验覆盖牛津郡 42 所小学，开发团队原作者亲自全程驻场提供密集的[[School Inspection\|教学督导]]与即时反馈。最终评估显示：TDTS 带来了显著的学业提升，干预组五年级学生的科学统考成绩相当于额外获得了约 3 个月的学习进展（效应量 $ES = +0.22, p < .05$），在享受免费学校午餐（FSM）的贫困弱势学生中，学业增益更是高达约 5 个月，展现出巨大的转化潜力。
+> - **小规模效力试验的显著提振** 在第一阶段由资助方与牛津布鲁克斯大学等开发团队紧密配合开展的效力试验中，“思考、动手、对话科学”（TDTS）针对小学五年级科学课堂，通过探究性实验操作与高阶[[Dialogue in Education|对话教学]]激发学生的科学思维。该试验覆盖牛津郡 42 所小学，开发团队原作者亲自全程驻场提供密集的[[School Inspection\|教学督导]]与即时反馈。最终评估显示：TDTS 带来了显著的学业提升，干预组五年级学生的科学统考成绩相当于额外获得了约 3 个月的学习进展（效应量 $ES = +0.22, p < .05$），在享受免费学校午餐（FSM）的贫困弱势学生中，学业增益更是高达约 5 个月，展现出巨大的转化潜力。
 > - **大规模效果试验的断崖式失效** 鉴于效力试验的喜人成果，EEF 迅速资助开展了第二阶段的大规模效果试验，委托美国研究学会进行跨多区域独立评估（Kitmitto et al., 2018）。为了满足大样本统计功效诉求，试验规模急速扩张至全英近 200 所小学与近万名学生。然而，评估报告公布的最终量化结果令人震惊：在全样本常态化落地中，五年级学生在关键科学测试上的学业进展净值为零个月（$ES = +0.03, p > .05$），弱势学生的学业差距同样丝毫未获改善，前期效力试验中报告的高额积极效应在大规模复制中彻底消失。
 > - **规模化脆弱性与递送稀释的机制反思** 结合实施与过程评估（IPE）的深度追踪，成效归零的深层结构性动因在于：在大样本统计功效要求与现场实施保真度之间存在不可回避的内在对抗。在小规模效力阶段，核心研发专家与少量参试教师保持高频互动，方案的精髓规程得以百分之百保真落地；但当项目在短时间内强行铺开至数百所学校时，提供方被迫在外部匆忙招募大量缺乏成熟经验的新培训师，采用多级“瀑布式”递送模式。培训信息层层衰减，加之基层学校日常繁杂行政事务的干扰，一线教师在常态课堂中严重简化了原本要求极高的深度对话与反思环节，干预退化为走形式的常规活动。世界卫生组织（WHO）与 ExpandNet 网络在《卫生服务创新规模化实用指南》（Practical Guidance for Scaling up Health Service Innovations; WHO & ExpandNet, 2009）中阐述的理论在此得到了残酷印证：规模化绝非简单的学校数量乘法累加，而是一场伴随着严重稀释风险的微观生态脆弱重构。（p. 57）
 

@@ -10,7 +10,7 @@ aliases:
 summary: "质性研究中询问核心现象的主要开放性问题，通常一至两个，以 what 或 how 开头，使用探索性动词并避免方向性语言，辅以五至七个子问题收窄焦点用于数据收集"
 type: concept
 domain: "research-methodology"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
   - subject/research-methodology
 related_concepts:
   - "[[Central Phenomenon]]"
+  - "[[Open-Mindedness]]"
   - "[[Emergence]]"
   - "[[Paradigm]]"
   - "[[Document]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-09-23
 ---
 
 # Central Question
@@ -51,7 +52,7 @@ updated: 2026-05-31
 ## 定义
 
 > [!info]
-> [[Qualitative Research\|质性研究]]的核心问题（central question）是询问[[Central Phenomenon\|核心现象]]的主要开放性问题，通过访谈参与者、观察环境或审阅文件来回答([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.146]])。它是质性研究中最宽泛的问题，旨在鼓励参与者表达自己的观点。
+> [[Qualitative Research\|质性研究]]的核心问题（central question）是询问[[Central Phenomenon\|核心现象]]的主要[[Open-Mindedness|开放性]]问题，通过访谈参与者、观察环境或审阅文件来回答([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.146]])。它是质性研究中最宽泛的问题，旨在鼓励参与者表达自己的观点。
 
 > [!quote]
 > "A central question in qualitative research is the major open-ended question being asked about the central phenomenon by interviewing participants, observing settings, or reviewing documents."([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.146]])
@@ -83,7 +84,7 @@ Miles & Huberman (1994) 建议研究者总共编写不超过 12 个[[Qualitative
 > 5. **聚焦单一[[Central Phenomenon\|核心现象]]或概念** 深入研究一个焦点
 > 6. **使用探索性动词** report/reflect（[[Narrative Research\|叙事研究]]）、describe the essence（现象学）、discover/generate（扎根理论）、seek to understand（民族志）、explore（案例研究）、describe the themes（[[Descriptive Analysis\|描述性分析]]）
 > 7. **预计问题会演变**[[Qualitative Research\|质性研究]]中的问题处于持续审查和重写的状态
-> 8. **使用开放性问题** 除非质性路径另有要求，否则不引用[[Document\|文献]]或理论
+> 8. **使用[[Open-Mindedness|开放性]]问题** 除非质性路径另有要求，否则不引用[[Document\|文献]]或理论
 > 9. **指定参与者和研究场所** 如果信息尚未提供
 
 ---

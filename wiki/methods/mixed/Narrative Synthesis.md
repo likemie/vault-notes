@@ -24,7 +24,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
   - "[[Paradigm]]"
-  - "[[Dialogue in Education]]"
   - "[[Realism in International Relations]]"
   - "[[Concept Mapping]]"
   - "[[Logic Model]]"
@@ -35,6 +34,7 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Literature Review]]"
+  - "[[Dialogue in Education]]"
   - "[[Fitness for Purpose]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -86,7 +86,7 @@ updated: 2026-09-18
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 秉持[[Critical Realism\|批判实在论]]与解释主义互补立场；认为社会与教育现实具有多层嵌套性与复杂情境性，经验现象不仅包含可测量的[[Effect Size\|效应量]]，更包含行动者的主观理解、情境互动与因果机制。
-> - **研究者角色** 研究者在综合过程中扮演积极的理论阐释者与[[Reflexivity\|反思性]]整合者，需要在不同[[Paradigm\|范式]][[Document\|文献]]之间搭建[[Dialogue in Education\|对话]]桥梁，同时保持证据判别的自反性与透明度。
+> - **研究者角色** 研究者在综合过程中扮演积极的理论阐释者与[[Reflexivity\|反思性]]整合者，需要在不同[[Paradigm\|范式]][[Document\|文献]]之间搭建对话桥梁，同时保持证据判别的自反性与透明度。
 > - **有效性标准** 遵循透明度（Transparency）、系统性（Systematicity）、可追溯性（Auditability）与理论自洽性（Theoretical Coherence），要求详尽记录每一阶段的文献转化与解释逻辑。
 > - **不声称回答的问题** 不能提供高度同质化干预措施的统合数学效应量，亦不能在缺乏微观原始数据的情况下替代初级量化因果识别。
 

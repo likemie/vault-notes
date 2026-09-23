@@ -5,7 +5,7 @@ aliases:
 summary: "把生命系统理解为通过自我生产和自我指涉维持边界与连续性的理论，常用于分析系统如何在与环境互动中保持自身组织。在理性主义比较教育中，该理论解释了教育系统在世界社会同质化压力下的自我参照与本国折射机制；在后人类主义教育学中，它与共同制造（Sympoiesis）相对，作为分析系统自组织涌现、去中心化转型与防范知识殖民的重要理论资源。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 30
+theory_related_count: 31
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Going Native]]"
   - "[[Conatus]]"
+  - "[[Open-Mindedness]]"
   - "[[Response-ability]]"
   - "[[Rationalism in International Relations]]"
   - "[[Virtual World]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-08
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Autopoiesis
@@ -152,7 +153,7 @@ updated: 2026-09-17
 > - **适合解释** 为什么[[International Education\|国际教育]]模式在不同国家落地时会产生截然不同的地方改组与[[Going Native\|本土化]]（indigenisation）现象。
 > - **谨慎使用** 涉及强力的宏观地缘干预或军事政治安全强力介入改变课程边界的历史节点，自组织自创[[Conatus\|生机]]制可能部分失效。
 > - **不适合解释** 简单的技术性因果效应关系或精确的教育干预产出比例。
-> - **常见误用** 将教育自创生理解为绝对的地理隔离或绝对的不可改变，混淆了系统“操作上的封闭性”与“能量与材料交换上的开放性”。
+> - **常见误用** 将教育自创生理解为绝对的地理隔离或绝对的不可改变，混淆了系统“操作上的封闭性”与“能量与材料交换上的[[Open-Mindedness|开放性]]”。
 
 ---
 

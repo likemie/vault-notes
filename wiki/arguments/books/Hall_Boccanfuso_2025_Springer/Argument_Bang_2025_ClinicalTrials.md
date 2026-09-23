@@ -30,7 +30,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Research Utilization]]"
   - "[[Emergence]]"
-  - "[[Dialogue in Education]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Literature Review]]"
 related_theories: []
@@ -55,7 +54,7 @@ title: "Argument_Bang_2025_ClinicalTrials"
 argument_key: "Argument_Bang_2025_ClinicalTrials"
 argument_display_title: "University–Industry Relations in Clinical Trials"
 argument_kind: "book"
-argument_related_count: 26
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -338,7 +337,7 @@ Table 11.2 提供了临床试验启动度量指标的详细对比，揭示学术
 围绕特定疾病或治疗领域（癌症、神经学、心脏病学、免疫学等），[[Emergence|涌现]]了大量产学最佳实践。这些实践的核心不是制度设计或技术工具——而是协作文化(pp.214)：
 
 > [!abstract] 协作文化的关键要素
-> - **早期沟通** 在正式合同谈判之前，先就双方的需求、期望和时间线展开开放和诚实的[[Dialogue in Education\|对话]]
+> - **早期沟通** 在正式合同谈判之前，先就双方的需求、期望和时间线展开开放和诚实的对话
 > - **目标对齐** 明确共同目标——服务于患者和公众的最佳利益——而非各自的制度利益
 > - **建立互信** 通过持续、透明和公平的互动积累信任资本
 > - **指定协调人（designated champions）** 双方各自指定一位有权威和资源的人作为协作的单一对接点，避免多线沟通导致的混乱

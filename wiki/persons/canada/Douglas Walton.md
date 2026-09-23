@@ -8,7 +8,7 @@ summary: "加拿大哲学家、非形式逻辑与论辩理论家，提出系统�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 14
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -21,17 +21,16 @@ tags:
   - theme/epistemic-cognition
   - region/canada
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Operationalization]]"
   - "[[Classroom Debate]]"
   - "[[Critical Thinking]]"
-  - "[[Knowledge Production]]"
   - "[[Epistemology]]"
   - "[[Justificatory Standards]]"
   - "[[Document]]"
 related_theories:
   - "[[Walton's Argumentation Schemes]]"
+  - "[[Knowledge Building Theory]]"
   - "[[AIR Model of Epistemic Cognition]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-09-12
+updated: 2026-09-22
 ---
 
 # Douglas Walton
@@ -56,7 +55,7 @@ updated: 2026-09-12
 > [!person-profile] 人物档案
 > - **身份位置** 加拿大哲学家、逻辑学家（1942–2020），曾任温莎大学推理、论辩与修辞研究中心杰出研究员，非形式逻辑与辩证法领域的奠基性人物。
 > - **核心角色** 在当代论辩理论网络中，他突破了形式逻辑的形式有效性禁锢，系统建构了以"假定性推理"与"可撤销论式"为核心的论证分析学派。
-> - **代表贡献** 创立[[Walton's Argumentation Schemes\|沃尔顿论证型式]]理论（包含 60 余种论证型式与批判性提问体系），重构谬误理论（将传统谬误视作语用[[Dialogue in Education\|对话]]中举证责任的转移失败），推动了人工智能论辩计算与科学教育论辩评估的发展。
+> - **代表贡献** 创立[[Walton's Argumentation Schemes\|沃尔顿论证型式]]理论（包含 60 余种论证型式与批判性提问体系），重构谬误理论（将传统谬误视作语用对话中举证责任的转移失败），推动了人工智能论辩计算与科学教育论辩评估的发展。
 
 > [!citation-card]- 人物定位的关键来源
 > 沃尔顿将论证型式定义为日常话语中假定性推理的规范性结构，通过提出批判性提问清单来探测论证的漏洞并转移举证责任。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]
@@ -80,7 +79,7 @@ updated: 2026-09-12
 
 > [!work-line] 主要著作
 > - **1996 — *[[Walton's Argumentation Schemes\|Argumentation Schemes]] for Presumptive Reasoning*** 系统梳理日常生活中基于假定的可撤销推理模式，提出 25 种核心论证型式及配套批判性提问。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 223)]]
-> - **1998 — *The New Dialectic: Conversational Contexts of Argument*** 提出新辩证法理论，将论辩置于信息搜集、质询、协商、批判性讨论等具体[[Dialogue in Education\|对话]]语境中考量。
+> - **1998 — *The New Dialectic: Conversational Contexts of Argument*** 提出新辩证法理论，将论辩置于信息搜集、质询、协商、批判性讨论等具体对话语境中考量。
 > - **2008 — *Argumentation Schemes*** 论辩型式的集大成之作，扩充至 60 余种型式，为计算论辩学与教育论辩评价奠定[[Criterion-Referenced Test\|标准参照]]体系。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]
 
 ---
@@ -88,7 +87,7 @@ updated: 2026-09-12
 ## 核心思想
 
 > [!claim] 核心主张
-> 人类的实际推理与论辩绝非封闭的演绎有效性运算，而是在不完备信息情境下寻求合理假定（Presumption）的语用[[Dialogue in Education\|对话]]实践。论辩的理性并不依赖形式逻辑三段论的保真性，而依赖于定型论辩模式在多轮对话中经受批判性质询（Critical Questions）的动态抗辩能力。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]
+> 人类的实际推理与论辩绝非封闭的演绎有效性运算，而是在不完备信息情境下寻求合理假定（Presumption）的语用对话实践。论辩的理性并不依赖形式逻辑三段论的保真性，而依赖于定型论辩模式在多轮对话中经受批判性质询（Critical Questions）的动态抗辩能力。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]
 
 > [!citation-card] 假定推理与可撤销性
 > 一个论证型式赋予结论一种假定的合理性（Plausibility）。当且仅当论证对手提出切中要害的批判性问题时，举证责任才发生倒转；若提问未被解答，原有假定即告瓦解。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–224)]]
@@ -101,7 +100,7 @@ updated: 2026-09-12
 
 > [!influence-path] 影响路径
 > - **理论路径** 彻底重塑了非形式逻辑学界对传统逻辑谬误（如诉诸权威、诉诸无知、人身攻击）的理解，将其从绝对逻辑死穴转化为在特定语用条件下具有假定效力的论辩型式。
-> - **方法路径** 批判性提问清单成为人际[[Dialogue in Education\|对话]][[Coding in Qualitative Research\|编码]]、法律事实推论与法庭论辩质证的经典[[Operationalization\|操作化]]分析工具。
+> - **方法路径** 批判性提问清单成为人际对话[[Coding in Qualitative Research\|编码]]、法律事实推论与法庭论辩质证的经典[[Operationalization\|操作化]]分析工具。
 > - **教育传播** 自 2000 年代后期被引入科学教育（如 Richard Duschl 与 E. Michael Nussbaum 等人），用于设计[[Classroom Debate\|课堂辩论]]评价量表与学生[[Critical Thinking\|批判性思维]]支架。
 
 ---
@@ -109,7 +108,7 @@ updated: 2026-09-12
 ## 历史评价
 
 > [!citation-card] Duncan & Chinn 论沃尔顿理论在科学教育中的遗产
-> 沃尔顿的论证型式体系为科学教育中将论辩分析形式化提供了最系统的现有工具，但其批判性提问清单本身并不说明哪类问题在科学[[Knowledge Production\|知识建构]]中具有[[Epistemology\|认识论]]优先性，亦未提供在分歧时终审证据冲突的裁决依据。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]
+> 沃尔顿的论证型式体系为科学教育中将论辩分析形式化提供了最系统的现有工具，但其批判性提问清单本身并不说明哪类问题在科学[[Knowledge Building Theory|知识建构]]中具有[[Epistemology\|认识论]]优先性，亦未提供在分歧时终审证据冲突的裁决依据。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]
 >
 > *While Walton's schemes provide the most systematic formalization of argument patterns currently available, the critical questions alone do not specify which [[Justificatory Standards\|epistemic standards]] govern scientific inquiry or how to adjudicate conflicting evidence.*
 

@@ -7,7 +7,7 @@ aliases:
 summary: "约瑟夫·奈（Joseph S. Nye）提出的国际关系与地缘政治核心概念，指通过文化吸引力、政治价值观感召与具有合法性的对外政策来塑造他者偏好而非诉诸军事或经济强制的能力。在当代全球教育治理与跨国比较中，软实力演进为“以硬事实施展软权力”（Soft Power by Hard Facts），国际组织通过量化指标、跨国测评排名与最佳实践工具箱对主权国家实施远处规制与政策趋同。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Knowledge Diplomacy]]"
   - "[[Façade of Rationality]]"
   - "[[Geopolitics of Higher Education]]"
+  - "[[Open-Mindedness]]"
   - "[[Governing by Numbers]]"
   - "[[International Education]]"
   - "[[Realism in International Relations]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-29
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Soft Power
@@ -132,7 +133,7 @@ updated: 2026-09-17
 > 国际组织在缺乏主权强制力的约束下，通过垄断国际测评标准、编制[[Performance Indicators\|绩效指标]]与推介最佳实践，巧妙规避了直接干预国家主权的指控。量化“硬事实”所赋予的[[Façade of Rationality\|理性外衣]]（Façade of Rationality），使国际组织得以用最低政治成本引导国家教育政策走向标准化与同质化。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 
 > [!claim] 命题三：跨境高等教育中的软实力投射面临零和博弈与去信任化异化
-> 当学术交流、留学生教育和科研合作被过度工具化为国家软实力的地缘政治武器时，教育关系势必被拖入零和博弈的对抗轨道。国家中心主义的权力盘算直接压制了国际学术界固有的开放性、互惠性与跨国信任纽带。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, p. 11)]]
+> 当学术交流、留学生教育和科研合作被过度工具化为国家软实力的地缘政治武器时，教育关系势必被拖入零和博弈的对抗轨道。国家中心主义的权力盘算直接压制了国际学术界固有的[[Open-Mindedness|开放性]]、互惠性与跨国信任纽带。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, p. 11)]]
 
 ---
 

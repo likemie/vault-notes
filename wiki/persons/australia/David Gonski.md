@@ -25,8 +25,8 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Policy Network]]"
   - "[[Venture Philanthropy]]"
-  - "[[Growth]]"
   - "[[Deductible Gift Recipient]]"
+  - "[[Growth]]"
   - "[[Source Evaluation]]"
   - "[[Co-affiliation]]"
   - "[[Philanthrocapitalism]]"
@@ -82,7 +82,7 @@ updated: 2026-09-22
 
 > [!timeline] 生平与关键职涯节点
 > - **1953** 出生于南非开普敦，童年随家庭移民澳大利亚；后就读于新南威尔士大学（UNSW）法学院并获商学与法学双学士学位。
-> - **1970s–1980s** 早期进入顶级商业律所 Freehills 成为合伙人，随后转向投资银行业务，创立咨询公司 Wentworth Associates 并迅速[[Growth\|成长]]为澳洲企业并购界最炙手可热的商法顾问。
+> - **1970s–1980s** 早期进入顶级商业律所 Freehills 成为合伙人，随后转向投资银行业务，创立咨询公司 Wentworth Associates 并迅速成长为澳洲企业并购界最炙手可热的商法顾问。
 > - **1990s–2000s** 深度介入商业金融与公共文化界治理，先后出任澳新银行董事长、澳大利亚泛太平洋电信（SingTel Optus）高管及联邦电影审查局要职；在此期间，受总理约翰·霍华德（John Howard）委任负责制定促进企业慈善与税收减免的法案建议，直接推动了《2001年公司法》中关于担保有限公司与企业慈善的立法配套（Gonski, 2015；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 5]]）。
 > - **2010–2011 — 领衔 Gonski 1.0 学校资金审查** 受吉拉德（Julia Gillard）工党联邦政府委托，担任学校教育拨款审查委员会主席，历经 18 个月调研发布里程碑式的 Gonski 1.0 报告，确立全澳需求本位拨款基准；同时在报告中明确建议建立拓宽民间与企业向公立学校捐赠的政策机制，这一建议直接催生了全澳首家面向公立学校的免税筹款中介机构[[Australian Schools Plus\|澳大利亚学校加计划]]（Australian Schools Plus）（[[Argument_Keddie_2020_IJLE\|Keddie et al., 2020b, p. 2]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 525]]）。
 > - **2012–2017 — 商业慈善平台运作与名声神圣化** 出任[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）前子公司[[Australian Philanthropic Services\|澳大利亚慈善服务社]]（APS）董事长，与 Belinda Hutchinson、[[Michael Traill]] 及 Timothy Fairfax 等[[Venture Philanthropy\|风险慈善]]领袖紧密共事（ASIC, 2021c；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 7, 9]]）；同期澳洲公立教师工会发起著名的“#igiveagonski”全国声援运动，将“冈斯基”塑造成追求教育公平与增加财政拨款的公共神圣符号。
@@ -95,7 +95,7 @@ updated: 2026-09-22
 
 > [!work-line] 标志性政策审查报告
 > - **2011 — *Review of Funding for Schooling: Final Report*（Gonski 1.0）** 确立资源分配公平基准，提出“学校资源标准”（Schooling Resource Standard，SRS）加弱势附加拨款模型，主张根据原住民、残疾、社会经济不利及偏远地理等指标实行差异化补偿拨款，并建议设立公立学校民间慈善募捐机制（[[Gonski Reforms]]；[[Argument_Keddie_2020_IJLE\|Keddie et al., 2020b, p. 11]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
-> - **2018 — *[[Gonski 2.0\|Through Growth to Achievement]]: Report of the Review to Achieve Educational Excellence in Australian Schools*（Gonski 2.0）** 战略重心由“经费投入平等”转向“教育成果增益与个性化[[Growth\|成长]]”（Progress and Growth）；核心提出设立独立国家教育证据机构（Recommendation 23），以统筹协调全国教育科研与因果证据转化（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
+> - **2018 — *[[Gonski 2.0\|Through Growth to Achievement]]: Report of the Review to Achieve Educational Excellence in Australian Schools*（Gonski 2.0）** 战略重心由“经费投入平等”转向“教育成果增益与个性化成长”（Progress and [[Growth]]）；核心提出设立独立国家教育证据机构（Recommendation 23），以统筹协调全国教育科研与因果证据转化（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
 
 > [!claim] 核心政策哲学与治理主张
 > 冈斯基的核心政策主张立足于“自由主义功绩制与商业管理有效性”的结合。在财政分配上，他坚信教育拨款不应沦为政党分赃或身份固化的工具，而必须精准锚定于可测量的个体处境不利性，实现“让每一个儿童都有机会充分发挥其潜能”；而在教育生产上，他推崇将商业管理主义的绩效审计、因果证据工具与企业慈善资本引入公共教育系统，主张通过独立的准市场化中介破除行政科层僵化（Gonski, 2015；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 5]]）。
@@ -127,7 +127,7 @@ updated: 2026-09-22
 > > - **官方与工会支持者视角** 肯定其跨越两党政治恶斗的超凡协调能力，认为他在 Gonski 1.0 中确立的需求本位拨款框架是自 1973 年 Karmel 报告以来澳洲教育公平最重要的制度里程碑，为底层公立学校争取到了百亿计的法定追加预算。
 >
 > > [!axis] 资源投入公平 vs 成果产出审计对[[Teacher Professional Agency\|教师专业自主权]]的侵蚀
-> > 争议 Gonski 2.0 将重点转向“因果证据”与“学习[[Growth\|成长]]增益”对基层教学的冲击。
+> > 争议 Gonski 2.0 将重点转向“因果证据”与“学习成长增益”对基层教学的冲击。
 > >
 > > - **一线教师与批判学者** 批评 Gonski 2.0 将教育简化为可度量的标准化增益，配合第 23 条建议催生的证据中介，演变为以因果实验与指标排行榜[[Disciplina and Doctrina\|规训]]教师的表演性问责工具。
 > > - **政策技术官僚** 认为单靠砸钱无法解决澳洲 [[PISA]] 成绩长期下滑的困境，必须借助循证证据指导财政使用方向，确保资金真正转化为学习效能。

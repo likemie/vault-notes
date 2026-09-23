@@ -11,7 +11,7 @@ title: "Argument_McPhail_2023_JCS"
 argument_key: "Argument_McPhail_2023_JCS"
 argument_display_title: "Knowledge and the New Zealand curriculum refresh"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Mātauranga Māori]]"
   - "[[Academic Achievement]]"
   - "[[Causality]]"
-  - "[[Growth]]"
   - "[[Global Citizenship]]"
   - "[[Ontology]]"
   - "[[Document]]"
@@ -199,7 +198,7 @@ citation_aliases:
 >
 > **道德原则**。两种伦理取向共同塑造了课程对理想公民的想象：
 > - 义务论伦理指导课程内容的选择：「Te Mātaiaho 是为所有学习者设计的课程，保障他们通过高质量学习体验获得归属和繁荣的权利」
-> - 美德伦理描绘了理想学生的画像：「学习者发展广泛和专门的知识，[[Growth\|成长]]为有所贡献的本地和[[Global Citizenship\|全球公民]]」(p.15)
+> - 美德伦理描绘了理想学生的画像：「学习者发展广泛和专门的知识，成长为有所贡献的本地和[[Global Citizenship\|全球公民]]」(p.15)
 >
 > **三种再脉络化原则之间的张力**
 > - 毛利知识体系的核心关切与课程声称已转向关注学习进步和增长之间存在潜在矛盾——两者建立在不同的[[Ontology\|本体论]]和认识论基础上(Hikuroa, 2017; Stewart, 2022)

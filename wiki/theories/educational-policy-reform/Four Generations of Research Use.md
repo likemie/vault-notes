@@ -8,7 +8,7 @@ aliases:
 summary: "梳理公共部门与教育领域证据使用思维演进的分析框架，从理性-线性（第一代）、关系网络（第二代）、系统全局（第三代）递进至以教师多源知识整合与专业规范为核心的专业敏感型（第四代）模型"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 28
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Teacher Knowledge Base]]"
   - "[[School Leadership]]"
   - "[[Document]]"
-  - "[[Growth]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -122,7 +121,7 @@ updated: 2026-09-22
 
 > [!proposition-chain] 核心命题二｜第四代专业敏感型模型将研究使用重构为基于育人伦理的多源知识动态整合
 > - **前提一** 教师的专业知识结构具备多元与复合特征（Shulman, 1987; Grimen, 2008），外部科研论文只是教师应对具体教学难题时可供调用的参考资源之一（[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, p. 8]]）。
-> - **前提二** 教师的教学行为深受育人伦理与专业责任约束（Eriksen, 2022），未直接采用某项研究往往源于该结论与具体学情不符，或与促进学[[Growth\|生长]]远发展的教育信念相冲突，而非源于认知缺陷。
+> - **前提二** 教师的教学行为深受育人伦理与专业责任约束（Eriksen, 2022），未直接采用某项研究往往源于该结论与具体学情不符，或与促进学生长远发展的教育信念相冲突，而非源于认知缺陷。
 > - **推导** ① 承认教师知识结构的多元性 → ② 聚焦多源知识在实践中的整合与权衡过程（Knowledge Integration） → ③ 确立教师在平衡有效性（what works）与适切性（what is appropriate）时的专业裁决地位。
 
 > [!mechanism-map]- 四代演进机制图

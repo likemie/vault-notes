@@ -20,7 +20,6 @@ tags:
   - theme/ai-literacy
   - theme/epistemology
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Unit of Analysis]]"
   - "[[Reliability]]"
@@ -28,6 +27,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Chain of Evidence]]"
   - "[[Counterfactual]]"
+  - "[[Dialogue in Education]]"
   - "[[Epistemological Vigilance]]"
   - "[[Illusion of Competence]]"
   - "[[Working Memory]]"
@@ -66,7 +66,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 方法定义
-> 横向阅读（Lateral Reading）是由斯坦福大学历史教育课题组的萨姆·温伯格（Sam Wineburg）与萨拉·麦克格鲁（Sarah McGrew, 2019）提出的信息核验与定性批判分析方法。该方法指**在遭遇未经验证的网络文本、机构报告或人工智能模型生成的主张时，读者不深陷在当前单一页面或[[Dialogue in Education\|对话]]窗口内反复琢磨，而是迅速打开多个浏览器标签页，在外部权威[[Primary and Secondary Documents\|一手文献]]、独立第三方数据库与同行评议成果中横向检索该来源的信誉、资金背景与对立论点，以此实现多源[[Triangulation\|三角互证]]并抵御虚假流畅权威**。Wineburg & McGrew (2019); [[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 7–8)]]
+> 横向阅读（Lateral Reading）是由斯坦福大学历史教育课题组的萨姆·温伯格（Sam Wineburg）与萨拉·麦克格鲁（Sarah McGrew, 2019）提出的信息核验与定性批判分析方法。该方法指**在遭遇未经验证的网络文本、机构报告或人工智能模型生成的主张时，读者不深陷在当前单一页面或对话窗口内反复琢磨，而是迅速打开多个浏览器标签页，在外部权威[[Primary and Secondary Documents\|一手文献]]、独立第三方数据库与同行评议成果中横向检索该来源的信誉、资金背景与对立论点，以此实现多源[[Triangulation\|三角互证]]并抵御虚假流畅权威**。Wineburg & McGrew (2019); [[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 7–8)]]
 
 > [!method-scope] 方法范围
 > - **研究与实践对象** 网页信息、社交媒体帖子、智库报告、未经同行评议的预印本，以及大语言模型生成的内容。
@@ -91,7 +91,7 @@ updated: 2026-09-22
 
 > [!method-stack] 方法层级
 > - **研究设计** 质性文本考证、数字民俗学、批判性[[Discourse Analysis\|话语分析]]与网络公民推理。
-> - **数据收集** 跨平台开放网页检索、学术引文数据库穿透、公开企业股权与资助数据库核查、大模型[[Dialogue in Education\|对话]]日志。
+> - **数据收集** 跨平台开放网页检索、学术引文数据库穿透、公开企业股权与资助数据库核查、大模型对话日志。
 > - **分析方法** 多源交叉比对（[[Cross-checking]]）、来源偏见定性[[Coding in Qualitative Research\|编码]]、[[Chain of Evidence\|证据链]]条重构与论证前提质询。
 > - **辅助工具** 浏览器标签页群组、专业学术检索工具（Google Scholar, Web of Science）、反向图像检索工具与事实核查档案库。
 
@@ -156,4 +156,4 @@ updated: 2026-09-22
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - Wineburg & McGrew (2019) — 对比历史学家、大学生与职业事实核查员的网络考证行为，系统确立横向阅读相较于垂直阅读的压倒性鉴伪效能。
 > - McGrew (2020) — 将横向阅读策略转化为大学[[General Education\|通识教育]]课程，实证确证其对提升青年学生网络公民推理能力的显著干预成效。
-> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 将横向阅读确立为打破生成式 AI 单一[[Dialogue in Education\|对话]]窗口流畅假象、开展人机混合探究的标准教学法规程。
+> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 将横向阅读确立为打破生成式 AI 单一对话窗口流畅假象、开展人机混合探究的标准教学法规程。

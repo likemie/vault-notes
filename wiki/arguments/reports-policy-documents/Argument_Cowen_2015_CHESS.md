@@ -12,7 +12,7 @@ title: "Argument_Cowen_2015_CHESS"
 argument_key: "Argument_Cowen_2015_CHESS"
 argument_display_title: "Making the Most of the Evidence: Evidence-based policy in the classroom"
 argument_kind: "report"
-argument_related_count: 20
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Creativity]]"
-  - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
   - "[[Evaluation Research]]"
@@ -95,7 +94,7 @@ citation_aliases:
 >    - 教师访谈证实：成功实施需理解干预措施的底层原理（underlying rationale），而非机械遵循手册
 >    - 证据以不可预测的方式与现有知识和实践互动——既可用于克服制度惯性，也可用于[[Creativity\|创造性]]偏离
 >    - 问责机制（[[Ofsted]]）可能阻挠证据的审慎使用，尤其对新学校和弱势生源学校
->    - 教师专业[[Dialogue in Education\|对话]]和辩论是证据阐释的重要机制，"传统 vs 进步"的意识形态分化推动了更深度的证据参与
+>    - 教师专业对话和辩论是证据阐释的重要机制，"传统 vs 进步"的意识形态分化推动了更深度的证据参与
 >
 > 3. **结论** 证据本位政策的实施不应追求"忠实执行"（fidelity），而应追求"流动性"（fluidity）——证据作为[[Hypothesis\|假设]]生成和激发审议的工具，而非直接指导实践的指令。理解因果机制、尊重本地知识和[[Professional Judgment\|专业判断]]、为教师提供研究方法和统计培训，是实现有效实施的关键
 

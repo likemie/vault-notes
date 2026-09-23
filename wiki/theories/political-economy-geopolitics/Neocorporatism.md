@@ -7,7 +7,7 @@ aliases:
 summary: "政府、雇主和工会三方之间制度化合作与协商的治理模式，用于协调政策、利益分配和社会调节。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 15
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Selectivity]]"
   - "[[Performance Indicators]]"
   - "[[Theories of Policy Change]]"
-  - "[[Dialogue in Education]]"
   - "[[Policy Network]]"
 related_theories:
   - "[[Theory of Change]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-14'
-updated: 2026-09-13
+updated: 2026-09-22
 ---
 
 # Neocorporatism
@@ -78,7 +77,7 @@ updated: 2026-09-13
 
 ### 维持制度化的社会对话
 
-新社团主义传统使终身学习政策在实施层面保持了一个持续的社会[[Dialogue in Education|对话]]机制。政府、雇主和工会围绕培训标准、资格认证和资金分配进行制度化协商，这在缺乏此类传统的国家中是不存在的。在南欧和东欧，[[YOUNG_ADULLLT]] 的访谈显示，地方专业人员更多是在"孤独地"应对政策要求，而非在一个结构化的制度网络内运作([[Argument_Rambla_2022_Springer|Rambla, 2022, p.173]])。
+新社团主义传统使终身学习政策在实施层面保持了一个持续的社会对话机制。政府、雇主和工会围绕培训标准、资格认证和资金分配进行制度化协商，这在缺乏此类传统的国家中是不存在的。在南欧和东欧，[[YOUNG_ADULLLT]] 的访谈显示，地方专业人员更多是在"孤独地"应对政策要求，而非在一个结构化的制度网络内运作([[Argument_Rambla_2022_Springer|Rambla, 2022, p.173]])。
 
 ## 实证发现
 
@@ -99,6 +98,6 @@ updated: 2026-09-13
 
 > [!example]
 > - [[EU Skills Agenda]] — 在德国及新社团主义邻国中，Skills Agenda 通过政府—雇主—工会三方网络实施
-> - [[Youth Guarantee Scheme]] — 在新社团主义国家中，该计划的实施深度嵌入已有的学徒制和社会[[Dialogue in Education\|对话]]机制
+> - [[Youth Guarantee Scheme]] — 在新社团主义国家中，该计划的实施深度嵌入已有的学徒制和社会对话机制
 > - [[YOUNG_ADULLLT]] — 该项目提供了新社团主义在[[Lifelong Learning\|终身学习]]治理中运作的系统经验证据
 

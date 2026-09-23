@@ -9,7 +9,7 @@ summary: "英国/马耳他认知学者、心理学家与思维技术先驱，侧
 type: person
 nationality: "uk"
 person_region: "uk"
-person_related_count: 17
+person_related_count: 16
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Creativity Training]]"
   - "[[Hypothesis]]"
-  - "[[Dialogue in Education]]"
   - "[[Divergent Thinking]]"
   - "[[Positivism]]"
   - "[[APA Style]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-11
+updated: 2026-09-22
 ---
 
 # Edward de Bono
@@ -124,7 +123,7 @@ updated: 2026-09-11
 
 > [!person-network] 关系网络
 > - **学术传承** 查尔斯·谢灵顿（Charles Sherrington）学派 — 其在牛津所受的神经生理学严格训练为其自组织模式假说奠定了坚实的生物学实证根基。
-> - **理论[[Dialogue in Education\|对话]]者** [[Alex Osborn\|亚历克斯·奥斯本]]（[[Alex Osborn]]） — 共同推进[[Divergent Thinking\|发散思维]]工具化，德·博诺更偏向个体认知哲学与[[Metacognition\|元认知]]调控，奥斯本更偏向群体互动。
+> - **理论对话者** [[Alex Osborn\|亚历克斯·奥斯本]]（[[Alex Osborn]]） — 共同推进[[Divergent Thinking\|发散思维]]工具化，德·博诺更偏向个体认知哲学与[[Metacognition\|元认知]]调控，奥斯本更偏向群体互动。
 > - **实证检验者** 丁成生（Ding et al., 2014）与郭恒等（[[Argument_Guo_2025_TSC\|Guo et al., 2025]]） — 开展[[Meta-analysis\|元分析]]量化证实其 CoRT 项目与[[Lateral Thinking\|侧向思维]]训练的高效能（$d = 0.58, g = 0.762$）。
 
 ---

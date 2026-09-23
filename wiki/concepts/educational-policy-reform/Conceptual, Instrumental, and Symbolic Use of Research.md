@@ -29,10 +29,10 @@ related_concepts:
   - "[[Document]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Fitness for Purpose]]"
-  - "[[Dialogue in Education]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
+  - "[[Dialogue in Education]]"
 related_theories:
   - "[[Knowledge Integration]]"
   - "[[Quality Use of Research Evidence Framework]]"
@@ -164,7 +164,7 @@ updated: 2026-09-22
 > **分布不均** [[Systematic Review\|系统综述]]发现深思熟虑参与是纳入研究中相对罕见的现象，相比之下工具性与象征性使用更为常见；部分研究把使用描述为浅层、象征性或为达成其它目的的工具性使用，研究或证据被稀释或改造以[[Fitness for Purpose\|适合目的]]。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, pp.10–11)]]
 
 > [!claim] [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]
-> **第三声音** 即使在可信时，研究也往往只充当专业[[Dialogue in Education\|对话]]中的"第三声音"，实践者自身的专业伦理与实践共同体的共享价值常比研究起更大作用。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, pp.10–11)]]
+> **第三声音** 即使在可信时，研究也往往只充当专业对话中的"第三声音"，实践者自身的专业伦理与实践共同体的共享价值常比研究起更大作用。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, pp.10–11)]]
 
 ---
 

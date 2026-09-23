@@ -7,7 +7,7 @@ summary: "德国社会学家，理解社会学奠基人与新教伦理与资本�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 26
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Cultural Capital]]"
-  - "[[Dialogue in Education]]"
   - "[[Necessary and Sufficient Conditions]]"
 related_theories:
   - "[[Institutional Isomorphism]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 # Max Weber
 
@@ -232,7 +231,7 @@ updated: 2026-09-17
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **先驱与哲学[[Dialogue in Education\|对话]]** [[Immanuel Kant\|伊曼努尔·康德]]（[[Epistemology\|认识论]]批判）、弗里德里希·尼采（价值重估与虚无主义批判）、卡尔·马克思（资本主义机理与历史唯物论对话）。
+> - **先驱与哲学对话** [[Immanuel Kant\|伊曼努尔·康德]]（[[Epistemology\|认识论]]批判）、弗里德里希·尼采（价值重估与虚无主义批判）、卡尔·马克思（资本主义机理与历史唯物论对话）。
 > - **同时代学人与合作者** 费迪南·滕尼斯（Ferdinand Tönnies）、格奥尔格·齐美尔（Georg Simmel）、维尔纳·桑巴特（Werner Sombart）、恩斯特·特勒尔奇（Ernst Troeltsch）。
 > - **理论继承与重构者** [[Pierre Bourdieu\|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）、[[Ann Swidler\|安·斯威德勒]]（[[Ann Swidler]]）、卡尔·雅斯贝尔斯（Karl Jaspers）、[[Yajun Zheng\|郑雅君]]（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）。
 > - **学术阵地与学会机构** 《社会科学与社会政策文库》（*Archiv für Sozialwissenschaft und Sozialpolitik*）、德国社会学学会（DGS）、海德堡学术沙龙。

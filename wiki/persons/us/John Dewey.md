@@ -32,7 +32,6 @@ related_concepts:
   - "[[Democratic Education]]"
   - "[[Cultural Diplomacy]]"
   - "[[Critical Thinking]]"
-  - "[[Dialogue in Education]]"
   - "[[Reflexivity]]"
   - "[[Freedom of the Learner]]"
   - "[[Scientific Attitude]]"
@@ -53,6 +52,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Habituation]]"
   - "[[Praxis]]"
+  - "[[Dialogue in Education]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -90,7 +90,7 @@ updated: 2026-09-17
 > [!person-profile] 人物档案
 > - **身份位置** 美国哲学家、心理学家、教育改革家与公共知识分子；[[Pragmatic Paradigm\|实用主义]]、功能心理学与[[Progressive Education\|进步教育]]核心代表人物；曾任芝加哥大学系主任、哥伦比亚大学哲学与教育学教授。
 > - **核心角色** 在教育哲学、[[Empiricism\|经验论]]、探究理论与跨国教育转移网络中担任关键奠基节点；提出“[[Growth\|教育即生长]]（Education is Growth）”、“学校即社会”与“民主作为联合生活方式”的解释框架，深刻重构了现代教育与公共生活关系。
-> - **代表贡献** 奠定[[Progressive Education\|进步教育]]与[[Pragmatic Paradigm\|实用主义]]教育[[Paradigm\|范式]]；提出基于“做”（doing）的探究与以[[Growth\|生长]]为终极标准的[[Active Learning\|主动学习]]论；推动1919–1921年中国[[New Education Movement\|新教育运动]]及美苏跨国教育传播与[[Recontextualization\|再脉络化]]（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009]]；[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024]]；[[Argument_Darwish_2009_Queens\|Darwish, 2009]]）。
+> - **代表贡献** 奠定[[Progressive Education\|进步教育]]与[[Pragmatic Paradigm\|实用主义]]教育[[Paradigm\|范式]]；提出基于“做”（doing）的探究与以生长为终极标准的[[Active Learning\|主动学习]]论；推动1919–1921年中国[[New Education Movement\|新教育运动]]及美苏跨国教育传播与[[Recontextualization\|再脉络化]]（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009]]；[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024]]；[[Argument_Darwish_2009_Queens\|Darwish, 2009]]）。
 
 > [!citation-card]- 杜威思想在跨国传播中的悖论与再重构
 > 虽然[[Democratic Education\|民主教育]]的理想与渐进式改革在杜威的著作和演讲中是一致且和谐的，但它们之间的关系在民国时期的中国却变得复杂得多，在那里，教育民主化的实现需要激进的变革。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.611]]）
@@ -117,11 +117,11 @@ updated: 2026-09-17
 > [!thought-timeline] 思想发展
 > - **1890s–1900s — [[Pragmatic Paradigm\|实用主义]]心理学与芝加哥实验时期**
 >   - **代表著作** *The School and Society* (1899), *The Child and the Curriculum* (1902)。
->   - **关键概念／方法** [[Progressive Education\|进步教育]]、[[Growth\|生长]]（Growth）、经验连续性、活动课程。
+>   - **关键概念／方法** [[Progressive Education\|进步教育]]、生长（[[Growth]]）、经验连续性、活动课程。
 >   - **阶段转向** 克服传统教育中“科目本位”与“儿童本位”的二元割裂，断言“儿童是起点、中心与终点；唯有生长提供标准”（Dewey, 1902, p. 9），主张学校应成为有组织的社会环境。
 > - **1910s — [[Democratic Education\|民主教育]]理论与哲学体系构建时期**
 >   - **代表著作** *How We Think* (1910), *Democracy and Education* (1916)。
->   - **关键概念／方法** [[Active Learning\|主动学习]]、[[Critical Thinking\|批判性思维]]、在“做”（doing）中探究、[[Dialogue in Education\|对话]]、[[Reflexivity\|反思性]]探究。
+>   - **关键概念／方法** [[Active Learning\|主动学习]]、[[Critical Thinking\|批判性思维]]、在“做”（doing）中探究、对话、[[Reflexivity\|反思性]]探究。
 >   - **阶段转向** 提出以“构建房屋模型”为代表的动手探究（doing），批判“听讲”的被动吸收状态（Dewey, 1902, p. 32），将[[Empiricism\|经验论]]提升为公共民主生活与[[Freedom of the Learner\|学习者的自由]]的哲学框架。
 > - **1920s–1930s — 公共性批判、确定性反思与跨国传播时期**
 >   - **代表著作** *The Public and Its Problems* (1927), *The Quest for Certainty* (1929), *Experience and Education* (1938)。
@@ -135,14 +135,14 @@ updated: 2026-09-17
 > [!claim] 核心主张
 > 杜威的思想是一套关于经验、探究、民主与社会更新相互支撑的完整哲学体系。教育不是为未来生活做准备，而是社会生活连续更新的过程。学校应作为简化、净化与组织社会经验的特殊环境；探究应作为公开检验与修正在动作中形成的[[Hypothesis\|假设]]；民主不仅是政治政体，更是自由交流与共同解决问题的“联合生活方式”（Dewey [1916] 2018, pp.93, 146–147）。
 > 
-> 在现代课程与教育哲学[[Dialogue in Education\|对话]]中，杜威被确立为[[Active Learning\|主动学习]]（Active Learning）的核心奠基人：他否定将学生视作“加仑事实”灌输容器的[[Banking Model of Education\|储蓄式教育]]，强调只有赋予学生[[Freedom of the Learner\|学习者的自由]]与能动主体（Subjects）地位，教育才能发生；[[Critical Thinking\|批判性思维]]必须建立在“做”（doing）与[[Problem Solving\|问题解决]]之上，而[[Dialogue in Education\|对话]]则是社区成员在民主互动中“共享经验的过程”，其终极目标在于实现个体的[[Growth\|生长]]与自我实现（Self-realization） [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 6–10)]]。
+> 在现代课程与教育哲学对话中，杜威被确立为[[Active Learning\|主动学习]]（Active Learning）的核心奠基人：他否定将学生视作“加仑事实”灌输容器的[[Banking Model of Education\|储蓄式教育]]，强调只有赋予学生[[Freedom of the Learner\|学习者的自由]]与能动主体（Subjects）地位，教育才能发生；[[Critical Thinking\|批判性思维]]必须建立在“做”（doing）与[[Problem Solving\|问题解决]]之上，而对话则是社区成员在民主互动中“共享经验的过程”，其终极目标在于实现个体的生长与自我实现（[[Growth|self-realization]]） [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 6–10)]]。
 
 > [!theory-components] 三环节主动学习与[[Pragmatic Paradigm\|实用主义]]教育哲学构件
 > - **在“做”（doing）中探究与[[Critical Thinking\|批判性思维]]**
 >   思想并非源于[[Rote Learning\|死记硬背]]，而是源于动手操作与有目的的实践（doing）。通过在情境中解决具体问题，学习者生成知情决策与批判性思维 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 8–9)]]。
-> - **[[Dialogue in Education\|对话]]与民主经验共享**
+> - **对话与民主经验共享**
 >   批判单向“听讲”带来的被动与吸收状态（Dewey, 1902, p. 32），将对话定义为“共享经验的过程”（Dewey, 1961, p. 9），使学习者摆脱客体地位，成为共同探究者 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 9–10)]]。
-> - **以自我实现为核心的[[Growth\|生长]]（Growth）**
+> - **以自我实现为核心的生长（Growth）**
 >   坚信儿童是起点、中心与终点，否定将社会阶层或科目知识强加于儿童之上；生长本身就是教育的起点、过程与终极标准 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 7–8)]]。
 
 ---
@@ -155,7 +155,7 @@ updated: 2026-09-17
 ---
 
 > [!case] 案例：对“听讲被动性”的批判与儿童中心论
-> 在《儿童与课程》中，杜威批判了工业时代学校的传统布局与教学姿态，指出“听讲的态度，相对而言，意味着被动与吸收”（Dewey 1902, p. 32; Darwish 2009, p. 9）。他主张必须摒弃将学生当作“等待填满的空容器”的灌输[[Paradigm\|范式]]，重新确立“儿童是起点、中心与终点”的教学原则，使教育服务于儿童自身的[[Growth\|生长]] (Dewey 1902, p. 9; Darwish 2009, p. 7)。
+> 在《儿童与课程》中，杜威批判了工业时代学校的传统布局与教学姿态，指出“听讲的态度，相对而言，意味着被动与吸收”（Dewey 1902, p. 32; Darwish 2009, p. 9）。他主张必须摒弃将学生当作“等待填满的空容器”的灌输[[Paradigm\|范式]]，重新确立“儿童是起点、中心与终点”的教学原则，使教育服务于儿童自身的生长 (Dewey 1902, p. 9; Darwish 2009, p. 7)。
 
 ---
 
@@ -174,7 +174,7 @@ updated: 2026-09-17
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 奠定[[Pragmatic Paradigm\|实用主义]]教育哲学，重构了经验、探究与知识的关系，提出[[Active Learning\|主动学习]]三环节模型（[[Critical Thinking\|批判性思维]]、[[Dialogue in Education\|对话]]、[[Growth\|生长]]），反对绝对确定性执念，将证据理解为情境行动中可修正的[[Hypothesis\|假设]]（Dewey quoted in Hattie, 2008, p.147; [[Argument_Darwish_2009_Queens\|Darwish, 2009]]）。
+> - **理论路径** 奠定[[Pragmatic Paradigm\|实用主义]]教育哲学，重构了经验、探究与知识的关系，提出[[Active Learning\|主动学习]]三环节模型（[[Critical Thinking\|批判性思维]]、对话、生长），反对绝对确定性执念，将证据理解为情境行动中可修正的[[Hypothesis\|假设]]（Dewey quoted in Hattie, 2008, p.147; [[Argument_Darwish_2009_Queens\|Darwish, 2009]]）。
 > - **方法路径** 推崇[[Reflexivity\|反思性]]探究与试错实验，批判[[Technical Rationality\|技术理性]]与将教师简化为[[Classroom Management\|课堂管理]]技巧训练的倾向，倡导保持[[Professional Judgment\|专业判断]]。
 > - **政策与实践路径** 推动了综合课程、活动教学法（如项目制构建模型）、学分制以及从科目隔绝转向社会科整合的全球课程改革趋势。
 
@@ -208,8 +208,8 @@ updated: 2026-09-17
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **理论[[Dialogue in Education\|对话]]与课程审查** [[Paulo Freire\|保罗·弗莱雷]]（[[Critical Pedagogy\|批判教育学]]对话者）、[[Bob Darwish\|鲍勃·达维什]]（将杜威与弗莱雷结合提出[[Active Learning\|主动学习]]三环节模型） — 共同批判被动[[Banking Model of Education\|储蓄式教育]]，强调学生作为能动主体的自由。
-> - **古典批判对象** [[Plato\|柏拉图]]、[[Aristotle\|亚里士多德]] — 杜威批判古典哲学构建了将统治与理性限定于少数护卫者阶层的静态社会，排斥平民[[Growth\|生长]]的可能。
+> - **理论对话与课程审查** [[Paulo Freire\|保罗·弗莱雷]]（[[Critical Pedagogy\|批判教育学]]对话者）、[[Bob Darwish\|鲍勃·达维什]]（将杜威与弗莱雷结合提出[[Active Learning\|主动学习]]三环节模型） — 共同批判被动[[Banking Model of Education\|储蓄式教育]]，强调学生作为能动主体的自由。
+> - **古典批判对象** [[Plato\|柏拉图]]、[[Aristotle\|亚里士多德]] — 杜威批判古典哲学构建了将统治与理性限定于少数护卫者阶层的静态社会，排斥平民生长的可能。
 > - **学生／中国追随者与传播者** [[Hu Shi\|胡适]]、[[Jiang Menglin\|蒋梦麟]]、[[Tao Xingzhi\|陶行知]]、赵乃传、查良钊 — 推动杜威思想在华翻译、讲演安排、制度落地与乡村教育实践。
 > - **跨国同行** [[Stanislav Shatskii]] — 苏联[[Progressive Education\|进步教育]]代表人物，1928年与杜威在苏直接会面交流。
 > - **理论研究与解释者** [[Robert Cowen]] — 提出 [[Transfer Translation Transformation\|3T 框架]]解释杜威等外来思想在跨国转移中的拆解与变质。
@@ -222,7 +222,7 @@ updated: 2026-09-17
 > [!debates] 学术争议
 >
 > > [!axis] 古典教育哲学的阶层固化与杜威的批判
-> > 杜威批判[[Plato\|柏拉图]]与[[Aristotle\|亚里士多德]]虽然开创了理性探究（如反诘法与 Telos），但将其限定于护卫者阶层或通过[[Habituation\|习惯化]]训练服从权威日程，从而构建了排斥平民、女性与奴隶实现批判[[Growth\|生长]]的静态社会结构 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 2–5)]]。
+> > 杜威批判[[Plato\|柏拉图]]与[[Aristotle\|亚里士多德]]虽然开创了理性探究（如反诘法与 Telos），但将其限定于护卫者阶层或通过[[Habituation\|习惯化]]训练服从权威日程，从而构建了排斥平民、女性与奴隶实现批判生长的静态社会结构 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 2–5)]]。
 >
 > > [!axis] 民主理想与渐进方法的内在张力
 > > 学者讨论杜威哲学在非西方危机社会中的适用性：杜威原典中统一的“民主目标”与“渐进方法”，在缺乏民主根基与处于危局的社会中容易演化为二选一的冲突——追求民主需要激进变革，坚持渐进则可能导致改革遥遥无期。（Johnston, 2012；[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.611, 622]]）

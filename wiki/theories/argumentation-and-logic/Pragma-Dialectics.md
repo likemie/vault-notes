@@ -9,7 +9,7 @@ aliases:
 summary: "van Eemeren and Grootendorst 发展的论证理论，将论证分析为旨在解决意见分歧的言语行为序列，整合形式逻辑、非形式逻辑与修辞学洞察，提供评价论证质量的规范性程序标准"
 type: theory
 theory_field: "argumentation-and-logic"
-theory_related_count: 11
+theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
-  - "[[Dialogue in Education]]"
   - "[[Theory of Knowledge]]"
   - "[[Critical Thinking]]"
 related_theories: []
@@ -38,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Pragma-Dialectics
@@ -88,7 +87,7 @@ updated: 2026-09-18
 ## 理论立场与使用方式
 
 > [!theory-stance] [[Epistemology\|认识论]]立场
-> - **[[Ontology\|本体论]]** 将论证视为社会互动行为，而非纯粹的心理过程或形式逻辑结构。论证的意义和效力取决于它在[[Dialogue in Education\|对话]]语境中的功能。
+> - **[[Ontology\|本体论]]** 将论证视为社会互动行为，而非纯粹的心理过程或形式逻辑结构。论证的意义和效力取决于它在对话语境中的功能。
 > - **认识论** 合理性的标准不是形式有效（formal validity）或经验证实，而是程序合理性（procedural reasonableness）——论证者是否遵循了公正讨论的规则。
 > - **方法含义** 研究论证时应首先"重建"（reconstruct）论证为分析性概览（analytic overview），然后按批判性讨论规则进行评价。分析既可以针对书面文本，也可以针对口头对话。
 > - **不能直接推出的东西** 语用辩证法评价的是"论证程序"而非"论证内容的真值"。一个论证可以完全符合讨论规则但仍得出错误结论；反之，违反规则的论证（如诉诸权威）在事实上可能是正确的。理论不能替代实质性领域的知识判断。
@@ -104,7 +103,7 @@ updated: 2026-09-18
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 存在明确意见分歧的论证性文本或[[Dialogue in Education\|对话]]——科学争议、政策辩论、法律论证、课堂讨论和批判性写作。
+> - **适合解释** 存在明确意见分歧的论证性文本或对话——科学争议、政策辩论、法律论证、课堂讨论和批判性写作。
 > - **谨慎使用** 独白型文本（如叙述性散文、纯粹说明性文本）中论证要素不明确时；参与者未进入批判性讨论框架（如纯粹情感宣泄或权力命令）的交流。
 > - **不适合解释** 非论证性交流（如诗歌、情感表达、仪式性话语）；不需要解决分歧的共识建构过程；形式逻辑系统的内部推导。
 > - **常见误用** 将任何不符合"理想讨论"的交流都判定为谬误，而不考虑语境中修辞目标的合理性；忽略文化差异对"合理讨论规则"理解的影响。

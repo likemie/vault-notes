@@ -9,7 +9,7 @@ aliases:
 summary: "指在开放或不良结构情境中主动识别、界定、重构与提出潜在创造性问题的认知加工过程，是创造过程的前端核心驱动力。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Problem-Based Learning]]"
   - "[[Brainstorming]]"
   - "[[Hypothesis]]"
+  - "[[Open-Mindedness]]"
   - "[[Paradigm]]"
   - "[[Construct Validity]]"
   - "[[Domain Specificity]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-23
 ---
 
 # Problem Finding
@@ -94,7 +95,7 @@ updated: 2026-08-24
 > [!feature] 问题发现的核心认知子成分
 > - **问题敏感性（Problem Sensitivity）** 敏锐感知现有理论、技术或日常实践中的矛盾、漏洞、不协调与未被满足的需求。
 > - **情境重构与视角切换（Context Restructuring）** 打破给定的既有[[Hypothesis\|假设]]，从跨学科或多利益相关者的新角度重新表述任务。
-> - **开放性问题表述（Open-ended Formulation）** 将封闭的“是非题”转化为具有广阔探索空间的“如何能够（How might we）”生成性问题。
+> - **[[Open-Mindedness|开放性]]问题表述（Open-ended Formulation）** 将封闭的“是非题”转化为具有广阔探索空间的“如何能够（How might we）”生成性问题。
 > - **构想评估前置（Anticipatory Idea Evaluation）** 在问题提出阶段预判不同问题界定路径对后续解决方案空间与资源消耗的约束。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 3–4)]]
 
 > [!logic-map]- 问题发现与创造过程的关系网络

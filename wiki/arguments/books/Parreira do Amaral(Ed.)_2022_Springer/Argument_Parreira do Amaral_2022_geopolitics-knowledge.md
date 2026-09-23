@@ -9,7 +9,7 @@ title: "Argument_Parreira do Amaral_2022_geopolitics-knowledge"
 argument_key: "Argument_Parreira do Amaral_2022_geopolitics-knowledge"
 argument_display_title: "Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 29
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Definition of Terms]]"
-  - "[[Dialogue in Education]]"
   - "[[Global Regionalisms]]"
   - "[[Global Education Industry]]"
   - "[[Geopolitics of Higher Education]]"
@@ -119,7 +118,7 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 
 **第一步（§3.1 引言）：问题提出与概念定位。** 确立知识社会/[[Knowledge-Based Economy|知识经济]]话语的霸权地位——创新被热情拥抱为所有社会问题的万能解药，高等教育被置于当代社会未来讨论的核心。引出论证核心主张：高等教育正被整合进不同行动者的战略想象和计算之中，以确立和改善其在全球知识经济中的位置(pp.35–37)。
 
-**第二步（§3.2 新[[Geopolitics of Knowledge|知识地缘政治]]）：概念框架的展开。** 从地缘政治的[[Definition of Terms|操作性定义]]出发（"对场所和空间中霸权的斗争"，Petersen & Wehrmann, 2015），追溯[[Classical Geopolitics|古典地缘政治]]→[[Critical Geopolitics|批判地缘政治]]→[[Knowledge-Based Economization|知识经济化]]地缘政治的理论演进路径，并呈现后殖民/[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]批判的另一条脉络。在两条脉络的[[Dialogue in Education|对话]]中提出"新知识地缘政治"的综合概念(pp.36–40)。
+**第二步（§3.2 新[[Geopolitics of Knowledge|知识地缘政治]]）：概念框架的展开。** 从地缘政治的[[Definition of Terms|操作性定义]]出发（"对场所和空间中霸权的斗争"，Petersen & Wehrmann, 2015），追溯[[Classical Geopolitics|古典地缘政治]]→[[Critical Geopolitics|批判地缘政治]]→[[Knowledge-Based Economization|知识经济化]]地缘政治的理论演进路径，并呈现后殖民/[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]批判的另一条脉络。在两条脉络的对话中提出"新知识地缘政治"的综合概念(pp.36–40)。
 
 **第三步（§3.3 转型高等教育：救赎与生存）：两个转型语境。** 讨论驱动当前高等教育转型的两大语境：
 

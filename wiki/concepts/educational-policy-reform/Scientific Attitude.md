@@ -7,10 +7,10 @@ aliases:
   - 教育上的科学态度
   - Scientific Disposition
   - 科学探究心智
-summary: "指个体与公众在面对自然现象、实证证据与公共决策时所秉持的理性探究倾向与价值取向，涵盖实证怀疑、拥抱不确定性、开放反思等认识论心智，并在历史教育改革（如1920年代民国新教育）与现代公众科学态度调查（如PAS 2025）中扮演核心话语功能。"
+summary: 指个体与公众在面对自然现象、实证证据与公共决策时所秉持的理性探究倾向与价值取向，涵盖实证怀疑、拥抱不确定性、开放反思等认识论心智，并在历史教育改革（如1920年代民国新教育）与现代公众科学态度调查（如PAS 2025）中扮演核心话语功能。
 type: concept
 domain: "educational-policy-reform"
-related_count: 46
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -36,7 +36,7 @@ related_concepts:
   - "[[Solutions Journalism]]"
   - "[[Learned Helplessness]]"
   - "[[Reflexivity]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Responsible Conduct of Research]]"
   - "[[Champ]]"
   - "[[Falsification]]"
@@ -52,7 +52,6 @@ related_concepts:
   - "[[Public Engagement with Science]]"
   - "[[Reflective Thinking]]"
   - "[[Epoché]]"
-  - "[[Dialogue in Education]]"
   - "[[Variable]]"
   - "[[Pragmatism in China]]"
 related_theories: []
@@ -79,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Scientific Attitude
@@ -118,7 +117,7 @@ updated: 2026-09-22
 >   - **新闻回避破除与建设性态度** 克服面对灾难耸人恐慌报道的[[Learned Helplessness\|习得性无助]]与新闻回避（News Avoidance），秉持对基于实证出路的“解决方案新闻”（Solutions Journalism）的积极探求态度。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 57)]]
 >   - **科技民主审议诉求** 超越被动科普接受，要求在涉及生物安全、人工智能与生态气候的重大科技决策中拥有实质性参与权。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society, 2026, p. 47]]）
 > - **4. 科研共同体传播伦理与自律态度（Scientific Communicator Ethics & [[Reflexivity]]）**
->   - **认识论[[Humility in Learning\|谦逊]]与局限披露** 摒弃“承认不确定性会丧失权威”的虚荣偏见，主动在科普与媒体报道中界定证据边界与[[Confidence Interval\|置信区间]]。
+>   - **认识论[[Humility\|谦逊]]与局限披露** 摒弃“承认不确定性会丧失权威”的虚荣偏见，主动在科普与媒体报道中界定证据边界与[[Confidence Interval\|置信区间]]。
 >   - **反对通稿过度营销（Anti-Overselling）** 恪守负责任科研行为（[[Responsible Conduct of Research\|RCR]]），拒绝为机构知名度或点击率制造夸大性医疗健康公关。
 
 > [!contrast-table] 表：科学态度在不同历史语境与应用[[Champ\|场域]]中的内涵对比
@@ -216,7 +215,7 @@ updated: 2026-09-22
 > > - **[[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]]** 评估了民国改革者在保存教育专业力量与放弃激进政治变革之间的历史两难。
 >
 > > [!axis] 单向[[Deficit Model of Science Communication\|赤字模型]] vs 双向民主参与
-> > 普及科学态度是自上而下消灭公众的科学无知，还是建立科学家与公众的平等[[Dialogue in Education\|对话]]？
+> > 普及科学态度是自上而下消灭公众的科学无知，还是建立科学家与公众的平等对话？
 > > - **传统赤字模型** 将公众视为缺乏科学知识的被动容器，认为普及知识即可自动消除反对声音。
 > > - **现代公众参与理论与皇家学会（2026c）** 强调科学态度是双向的，科学家同样需要倾听公众对伦理、生态与社会影响的关切。
 

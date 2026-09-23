@@ -30,12 +30,12 @@ related_concepts:
   - "[[Content Validity]]"
   - "[[Determinism]]"
   - "[[Document]]"
+  - "[[Meaningful Human Control]]"
   - "[[Positivism]]"
   - "[[Constructivist Paradigm]]"
   - "[[Reflexivity]]"
   - "[[Operationalization]]"
   - "[[Saturation]]"
-  - "[[Dialogue in Education]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
   - "[[Classroom Management]]"
@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Qualitative Content Analysis
@@ -121,7 +121,7 @@ updated: 2026-09-18
 > - **研究设计** 质性文本研究、探索性[[Mixed Methods Research\|混合方法]]设计、[[Document\|文献]]考据与政策话语评估。
 > - **数据收集** [[Semi-structured Interview\|半结构化访谈]][[Transcription in Qualitative Research\|转录]]、开放[[Questionnaire\|问卷]]文本、课堂互动录像文字稿、组织制度文本。
 > - **分析方法** 归纳总结性[[Content Analysis\|内容分析]]、阐释明确性内容分析、结构演绎性内容分析、形成性复核、领域归并。
-> - **辅助技术** [[Qualitative Computer Software\|CAQDAS]] 软件的编码树与交叉表功能、人在回路的文本分块与规则匹配。
+> - **辅助技术** [[Qualitative Computer Software\|CAQDAS]] 软件的编码树与交叉表功能、[[Meaningful Human Control|人在回路]]的文本分块与规则匹配。
 
 ---
 
@@ -170,7 +170,7 @@ flowchart LR
 
 当文本中出现歧义语句、隐喻修辞、地方俚语或内涵高度隐晦的关键片段时，总结性缩减会导致严重的信息扭曲。阐释性进路致力于**语境扩充（Context expansion）**，通过系统调取外部材料照亮模糊文本（Mayring, 2004, p. 268）：
 1. **划定待解构的模糊段落** 精确圈定存在语义障碍或矛盾陈述的文本切片；
-2. **窄语境检验（Narrow Context）** 仔细审视该语句前后紧邻的段落、[[Dialogue in Education|对话]]上下文与副语言线索（如停顿、叹息、语气转变）；
+2. **窄语境检验（Narrow Context）** 仔细审视该语句前后紧邻的段落、对话上下文与副语言线索（如停顿、叹息、语气转变）；
 3. **宽语境发掘（Broad Context）** 调取文本之外的社会历史背景、作者生平传记、机构规章制度以及[[Qualitative Observation|田野观察]]备忘录；
 4. **拟定阐释释义陈述** 结合双重语境重构该片段的真实意涵，消除歧义性；
 5. **形成解释性备忘条目** 将澄清后的意涵纳为正式的分析证据。
@@ -227,7 +227,7 @@ flowchart LR
 > - **1980s — 德国方法论突破与 QCA 创立** 菲利普·迈林（Philipp Mayring）在失业社会心理影响与教师生涯研究中正式创立质性内容分析（QCA），提出总结、阐释、结构三大分析模型与逐步检验规程。
 > - **2000s — 走向国际主流与 [[Qualitative Computer Software\|CAQDAS]] 结合** 迈林于 2000 年发表经典英文导论《Qualitative Content Analysis》，随后玛格丽特·施赖尔（Margrit Schreier, 2012）出版专著，QCA 与质性分析软件全面深度融合。
 > - **2011 — 教育研究综合方法论确立** [[Louis Cohen\|路易斯·科恩]]等（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]]）在经典专著第 30 章中将迈林 QCA 进路与克里彭多夫体系深度整合，确立为现代教育[[Coding in Qualitative Research\|质性编码]]与文本分析的核心支柱。
-> - **2020s — 大模型时代的智能结构化 QCA 演进** 随着生成式大语言模型（LLM）的兴起，基于 Prompt 的初级释义转述与结构化横切成为可能；但形成性复核中的边界歧义判决、锚定样例裁定与理论反思，进一步强化了研究者人在回路（HITL）的主体把关责任。
+> - **2020s — 大模型时代的智能结构化 QCA 演进** 随着生成式大语言模型（LLM）的兴起，基于 Prompt 的初级释义转述与结构化横切成为可能；但形成性复核中的边界歧义判决、锚定样例裁定与理论反思，进一步强化了研究者[[Meaningful Human Control|人在回路]]（HITL）的主体把关责任。
 
 ---
 

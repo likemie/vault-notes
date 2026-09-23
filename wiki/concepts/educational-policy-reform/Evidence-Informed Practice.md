@@ -6,7 +6,7 @@ aliases:
 summary: "一种将研究证据定位为多元决策资源之一的实践取向，主张以专业判断为核心枢纽，情境化整合研究证据、系统数据与课堂数据，并依托榜样领导、专有排程与全系统知识动员推进高质量证据使用与教育改进"
 type: concept
 domain: "educational-policy-reform"
-related_count: 97
+related_count: 95
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Professional Learning Community]]"
   - "[[Reflexivity]]"
-  - "[[Dialogue in Education]]"
   - "[[Persuasive Communication in Education]]"
   - "[[Research-Practice Partnership]]"
   - "[[Evaluation Research]]"
@@ -49,7 +48,6 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
-  - "[[Growth]]"
   - "[[Teacher Professional Agency]]"
   - "[[Variable]]"
   - "[[Interactional Expertise]]"
@@ -124,7 +122,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Evidence-Informed Practice
@@ -200,7 +198,7 @@ updated: 2026-09-21
 > [!factors] EIP 在学校层面落地的四类关键因素
 > - **能力** 参与研究并运用研究证据与数据的能力，包括解读校本数据以定位问题、判断研究方法的优势与局限、理解再情境化，以及掌握[[Inquiry Cycle\|探究循环]]与影响测量的方法。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 122–123)]]
 > - **文化规范** 让[[Research Utilization\|研究使用]]成为学校的文化常规，需要[[School Leadership\|学校领导]]层的全力投入以及非正式推动者的支持;领导者在其中既承担确立愿景的变革型职能，也承担建构学习条件的职能。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 123–124)]]
-> - **学习环境** 把研究使用嵌入有效的学习环境，其最佳载体是[[Professional Learning Community\|专业学习共同体]]（PLC），核心特征是[[Reflexivity\|反思性]]专业探究，包括反思性[[Dialogue in Education\|对话]]与围绕严肃教育议题的交谈。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 124–125)]]
+> - **学习环境** 把研究使用嵌入有效的学习环境，其最佳载体是[[Professional Learning Community\|专业学习共同体]]（PLC），核心特征是[[Reflexivity\|反思性]]专业探究，包括反思性对话与围绕严肃教育议题的交谈。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 124–125)]]
 > - **结构、系统与资源** 领导者须提供并协调时间、空间与预算，建立与 PLC 学习相容的正式机制，并理解校内非正式社会网络如何促成有效实践的分配与采纳。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 125)]]
 
 > [!feature] [[Knowledge Mobilisation\|知识动员]]（KMb）的四类核心推进策略
@@ -261,7 +259,7 @@ updated: 2026-09-21
 > **有效性与育人价值的[[Paradigm\|范式]]对立** [[Evidence-Based Education\|证据本位教育]]倡导者主张通过[[Randomised Controlled Trials\|随机对照试验]]（RCT）建立关于有效性（What Works）的因果证据；批判学者指出，将教育研究窄化为实验因果律会排斥关乎教育目的与伦理价值的议题（What Matters），EIP 必须包容多元认识论视角。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 128)]]
 
 > [!claim] Bryk (2015); LaPointe-McEwan et al. (2017); Rickinson et al. (2017)
-> **实践本位证据的正当性与[[Triangulation\|三角验证]]** 教育者在日常教学中生成的细粒度知识构成[[Practice-Based Evidence\|实践本位证据]]（PBE），在形成性支持教师学习与学生[[Growth\|成长]]中发挥着关键效用。实践者通过定性观察与定量测评的[[Triangulation\|三角验证]]，推动可得证据向适切证据动态转化。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 129–130)]]
+> **实践本位证据的正当性与[[Triangulation\|三角验证]]** 教育者在日常教学中生成的细粒度知识构成[[Practice-Based Evidence\|实践本位证据]]（PBE），在形成性支持教师学习与学生成长中发挥着关键效用。实践者通过定性观察与定量测评的[[Triangulation\|三角验证]]，推动可得证据向适切证据动态转化。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 129–130)]]
 
 ---
 
@@ -313,7 +311,7 @@ updated: 2026-09-21
 > **四类条件的互补性** 学校要把自身建成[[Research-Engaged School\|研究参与学校]]，须同时具备参与研究并运用证据的能力、使研究使用成为常规的文化、以[[Professional Learning Community\|专业学习共同体]]为载体的有效学习环境，以及支撑研究使用的结构、系统与资源。四者并非可相互替代的并列选项：能力不足会使证据无法被正确解读，文化缺位会使个别教师的使用难以持续，学习环境薄弱会使研究使用退化为技巧采纳，结构缺位则使前两者失去时间与空间保障。任一环节缺位，证据知情实践都难以在学校层面稳定下来。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 122–126)]]
 
 > [!claim] Stoll, L. 等
-> **[[Reflexivity\|反思性]]专业探究是学习环境的判定特征** 在把研究使用嵌入学习环境的诸种安排中，专业学习共同体之所以被视为最佳载体，是因为其核心特征恰是反思性专业探究：反思性[[Dialogue in Education\|对话]]、围绕严肃教育议题的交谈、主动寻求新知识，以及通过互动把默会知识转化为可用于[[Problem Solving\|问题解决]]的共享知识。缺少这一特征，共同体虽然仍在运转，却不再构成证据使用所需的学习环境。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 124–125)]]
+> **[[Reflexivity\|反思性]]专业探究是学习环境的判定特征** 在把研究使用嵌入学习环境的诸种安排中，专业学习共同体之所以被视为最佳载体，是因为其核心特征恰是反思性专业探究：反思性对话、围绕严肃教育议题的交谈、主动寻求新知识，以及通过互动把默会知识转化为可用于[[Problem Solving\|问题解决]]的共享知识。缺少这一特征，共同体虽然仍在运转，却不再构成证据使用所需的学习环境。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 124–125)]]
 
 > [!claim] Katz, S. & Dack, L. A.
 > **缺少正式探究协议会使协作活动落入[[Activity Traps\|活动陷阱]]** 若学校只提供协作的形式而缺少正式的探究协议与工具，教师会跳过成因分析而径直寻求解决方案，即落入[[Activity Traps\|活动陷阱]]。其后果是实践与情境的根本问题未被确立、全部成因与方案未被考虑，并因做法“已知”而重复无效实践;因此合作结构本身并不足以支撑 EIP，还必须配套探究协议与评价流程。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 130–131)]]

@@ -12,7 +12,7 @@ summary: "检验类别变量间关联性或单变量观测分布与理论分布�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 39
+method_related_count: 38
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Alternative Hypothesis]]"
   - "[[Independent Variable]]"
-  - "[[Dialogue in Education]]"
   - "[[Absolutist]]"
   - "[[Reliability]]"
   - "[[Epistemic Agency]]"
@@ -214,7 +213,7 @@ updated: 2026-09-22
 > - **人机交互记录复刻**
 >   - **学生提问** *"What statistical test should I use to check if the phenotypic ratio of peas fits the 9:3:3:1 ratio from Mendel's experiment?"*
 >   - **ChatGPT 回复** *"You should use the Chi-Square Goodness-of-Fit Test. Here is the formula $\chi^2 = \sum \frac{(O-E)^2}{E}$ and the R code: `chisq.test(x = c(315, 108, 101, 32), p = c(9/16, 3/16, 3/16, 1/16))`..."*
->   - **学生后续行动** 学生仅在课程讲义（Lecture slides）中简单搜索并确认提到了卡方拟合优度检验后，未作任何进一步公式理解或参数推演，立即结束[[Dialogue in Education\|对话]]并将 R 代码与输出结果直接粘贴至作业中。
+>   - **学生后续行动** 学生仅在课程讲义（Lecture slides）中简单搜索并确认提到了卡方拟合优度检验后，未作任何进一步公式理解或参数推演，立即结束对话并将 R 代码与输出结果直接粘贴至作业中。
 > - **[[Epistemology\|认识论]]机制诊断** 表现出典型的一阶绝对论（[[Absolutist]]）特征。将统计知识视为非黑即白的固定操作，过度依赖外部权威（大模型与讲义），缺乏对期望频数计算逻辑或自由度设定的深层理解，认知加工停留在代码复制与程序执行层面。
 
 > [!figure]- 图1：Student A 与 ChatGPT 的交互对话记录（绝对论立场）
@@ -285,4 +284,4 @@ updated: 2026-09-22
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 阐明卡方检验在量化调查与实验设计中作为两类别[[Variable\|变量]]关联检验的标准统计程序。（Ch8）
-> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 记录研究生在解决孟德尔表型拟合优度检验与[[Likert Scale\|李克特量表]]一致性任务中，与 ChatGPT [[Dialogue in Education\|对话]]时对卡方检验适用前提的[[Epistemology\|认识论]]审问与批判决策。（pp. 362–365）
+> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 记录研究生在解决孟德尔表型拟合优度检验与[[Likert Scale\|李克特量表]]一致性任务中，与 ChatGPT 对话时对卡方检验适用前提的[[Epistemology\|认识论]]审问与批判决策。（pp. 362–365）

@@ -13,7 +13,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 33
+fact_related_count: 32
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Soft Power]]"
-  - "[[Dialogue in Education]]"
   - "[[Technical Rationality]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Independent Variable]]"
@@ -69,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # International Institute for Educational Planning
@@ -156,7 +155,7 @@ updated: 2026-09-17
 > > 批判史学审视 IIEP 背后深刻的美苏两极对抗印记。
 > >
 > > - **批判视角与铁幕另一侧反弹** Steiner-Khamsi (2006) 与 [[Argument_Klerides_2023_CE\|Klerides (2023)]] 指出，库姆斯代表的普世危机宣称在冷战期间遭到社会主义阵营的激烈谴责；IIEP 表面上是联合国中立技术平台，实质上深度嵌入美国战后地缘战略，充当争夺全球南方政治效忠的[[Soft Power\|软实力]]工具。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 422–423)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
-> > - **建制辩护立场** 强调该所在冷战极化年代搭建了罕见的跨意识形态多边专业[[Dialogue in Education\|对话]]走廊，为新独立国家建立现代主权教育治理框架立下了历史功勋。
+> > - **建制辩护立场** 强调该所在冷战极化年代搭建了罕见的跨意识形态多边专业对话走廊，为新独立国家建立现代主权教育治理框架立下了历史功勋。
 >
 > > [!axis] [[Technical Rationality\|技术理性]]乌托邦 vs 行政免责的“[[Social Science as Legitimation Alibi\|科学借口]]”
 > > 质询实证规划模型在实践中的失败与伦理责任转嫁。

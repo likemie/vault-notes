@@ -29,7 +29,6 @@ related_concepts:
   - "[[Extended Essay]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Academic Achievement]]"
-  - "[[Knowledge Production]]"
   - "[[Creativity, Action, Service]]"
   - "[[Creativity]]"
   - "[[Academic Self-Concept]]"
@@ -42,6 +41,7 @@ related_concepts:
   - "[[International Education]]"
 related_theories:
   - "[[Theory of Mind]]"
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Random Sampling]]"
   - "[[Effect Size]]"
@@ -139,7 +139,7 @@ updated: 2026-09-22
 
 > [!claim] Metli, A. & Akış, D.
 > **核心组件的多维效益** 
-> 国际文凭大学预科项目（[[IB Diploma Programme\|International Baccalaureate Diploma Programme]]，IBDP）的三大核心组件在实证层面展现了显著效益：[[Extended Essay\|拓展论文]]（Extended Essay，EE）与更强的独立思考、[[Inquiry-Based Learning\|探究学习]]及更高的大学平均绩点（Grade Point Average，[[Academic Achievement\|GPA]]）相关；[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）不仅促进[[Critical Thinking\|批判性思维]]，还帮助学生反思[[Knowledge Production\|知识建构]]；而[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Activity, Service，CAS）经验则塑造了学生的服务伦理、自信心及公民责任感（civic-mindedness）。[[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, pp. 220-221)]]
+> 国际文凭大学预科项目（[[IB Diploma Programme\|International Baccalaureate Diploma Programme]]，IBDP）的三大核心组件在实证层面展现了显著效益：[[Extended Essay\|拓展论文]]（Extended Essay，EE）与更强的独立思考、[[Inquiry-Based Learning\|探究学习]]及更高的大学平均绩点（Grade Point Average，[[Academic Achievement\|GPA]]）相关；[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）不仅促进[[Critical Thinking\|批判性思维]]，还帮助学生反思[[Knowledge Building Theory|知识建构]]；而[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Activity, Service，CAS）经验则塑造了学生的服务伦理、自信心及公民责任感（civic-mindedness）。[[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, pp. 220-221)]]
 
 > [!claim] Cole, D. R. et al.
 > **批判性思维的显著增长**

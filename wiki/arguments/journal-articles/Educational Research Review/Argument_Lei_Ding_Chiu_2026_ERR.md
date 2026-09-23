@@ -55,7 +55,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Heterogeneity]]"
   - "[[Publication Bias]]"
-  - "[[Growth]]"
+  - "[[Open-Mindedness]]"
   - "[[Metacognition]]"
   - "[[Reflective Thinking]]"
   - "[[Floor and Ceiling Effects]]"
@@ -195,7 +195,7 @@ updated: 2026-09-17
 
 > [!case] 理论案例解析：Ana 的蒲公英重金属探究与高阶思维三元结构
 > 为直观阐释高阶思维的内在运作机制，论文构建了经典教学情境案例：
-> - **观察与好奇（倾向触发）** 学生 Ana 在工厂附近的重金属污染土壤中看到[[Growth\|生长]]茂盛的蒲公英，心生好奇（Curiosity）；其开放心智（Open-mindedness）驱动她查阅学术[[Document\|文献]]并向植物修复专家请教植物吸收重金属的机制。面对晦涩难懂的学术概念，她的探究坚毅力（Perseverance）促使其克服挫折；其系统性（Systematicity）驱动她设计对照实验，系统对比清洁土壤与污染土壤中的蒲公英根系特征。
+> - **观察与好奇（倾向触发）** 学生 Ana 在工厂附近的重金属污染土壤中看到生长茂盛的蒲公英，心生好奇（Curiosity）；其开放心智（[[Open-Mindedness]]）驱动她查阅学术[[Document\|文献]]并向植物修复专家请教植物吸收重金属的机制。面对晦涩难懂的学术概念，她的探究坚毅力（Perseverance）促使其克服挫折；其系统性（Systematicity）驱动她设计对照实验，系统对比清洁土壤与污染土壤中的蒲公英根系特征。
 > - **认知加工与推论（过程展开）** Ana 借助专业仪器检验发现，污染土壤中的蒲公英含有更多重金属且根系更为错综复杂（**分析 Analysis**）；她审慎评估了根系复杂性与抗毒生存的相关性而非巧合（**评价 Evaluation**）；随后将重金属与根系结构信息综合，[[Creativity\|创造性]]地推论出基因突变可能赋予其特殊根系从而在毒土中存活（**推论与综合 Inference & Synthesis**）；最后她反思其他潜在[[Variable\|变量]]（如土壤 pH 值与水分），展现出高度的[[Metacognition\|元认知]]反思（**[[Reflective Thinking\|反思性思维]] Reflective Thinking**）。
 > - **三元层级映射** Ana 的探究过程生动表明，好奇、开放、坚毅与系统性等思维倾向是点燃探究的发动机；它们驱动了分析、评价、综合等认知过程；而这一系列心智运作最终沉淀为解决复杂真实问题的思维技能。（pp.2–3）
 

@@ -17,7 +17,7 @@ aliases:
 summary: "产生、评估并在政策制定者、教育实践者与公众之间传播研究成果的制度化实体与中介网络，呈现出部委依附、政府资助自治与独立慈善三种治理模式，以及因果实证（RCT）与多元综合两种方法学立场；在两至三年的政治预算周期下面临突出的存续危机与跨机构元中介需求。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 118
+related_count: 119
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -29,7 +29,6 @@ tags:
   - region/global
 related_concepts:
   - "[[Evidence Ecosystem]]"
-  - "[[Dialogue in Education]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Mediation]]"
   - "[[Research Utilization]]"
@@ -72,6 +71,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Evidence-Informed Decision-Making]]"
   - "[[Lifelong Learning]]"
+  - "[[Dialogue in Education]]"
   - "[[Initial Teacher Training]]"
   - "[[Going Native]]"
   - "[[Variable]]"
@@ -84,6 +84,7 @@ related_concepts:
 related_theories:
   - "[[COM-B Model]]"
   - "[[Theory of Change]]"
+  - "[[Knowledge Building Theory]]"
   - "[[Actor-Network Theory]]"
   - "[[Navigational Framework for Educational Researchers]]"
 related_methods:
@@ -165,7 +166,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 教育中介机构（Educational Brokerage Agency）指旨在生成、评估并在教育政策制定者、学校实践者及公众等利益相关群体之间交流传播研究证据的制度化专门实体或结构化合作网络（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 60–61]]）。作为现代[[Evidence Ecosystem\|教育证据生态系统]]的关键枢纽，教育中介机构不仅承担证据数据库维护与快速[[Systematic Review\|系统综述]]等技术功能，更通过促进跨界[[Dialogue in Education\|对话]]、协调供需断裂以及提升全系统循证素养，在制度化层面维系[[Knowledge Production\|知识生产]]、[[Knowledge Mediation\|知识中介]]与[[Research Utilization\|知识利用]]之间的动态联结（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 61–63]]）。
+> 教育中介机构（Educational Brokerage Agency）指旨在生成、评估并在教育政策制定者、学校实践者及公众等利益相关群体之间交流传播研究证据的制度化专门实体或结构化合作网络（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 60–61]]）。作为现代[[Evidence Ecosystem\|教育证据生态系统]]的关键枢纽，教育中介机构不仅承担证据数据库维护与快速[[Systematic Review\|系统综述]]等技术功能，更通过促进跨界对话、协调供需断裂以及提升全系统循证素养，在制度化层面维系[[Knowledge Production\|知识生产]]、[[Knowledge Mediation\|知识中介]]与[[Research Utilization\|知识利用]]之间的动态联结（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 61–63]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指涉专门跨越研究、政策与实践三大[[Heterogeneity\|异质性]]社群鸿沟的正式组织架构、法定授权机制与专业化中介载体。
@@ -377,7 +378,7 @@ updated: 2026-09-22
 > > [!axis] 中介角色定位：客观[[Boundary Spanner\|边界跨越者]] vs 商业操纵者
 > > 争论围绕中介机构是否能在日益商业化的教育市场中恪守客观公益性。
 > >
-> > - **Best & Holmes (2010); Burns & Schuller** 强调中介机构是解决供需错配、建立双向信任与促成集体[[Knowledge Production\|知识建构]]不可替代的系统协调枢纽（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 60–61]]）。
+> > - **Best & Holmes (2010); Burns & Schuller** 强调中介机构是解决供需错配、建立双向信任与促成集体[[Knowledge Building Theory|知识建构]]不可替代的系统协调枢纽（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 60–61]]）。
 > > - **Lubienski (2019)** 批判私有化与教育科技资本正将中介平台转化为带货推销的营销载体，中介机构极易沦为兜售现成方案的利益操纵者（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 60]]）。
 > > - **[[Argument_Rowe_2022_IJER\|Rowe (2022)]]** 指出证据经纪人（evidence broker）概念源于金融资本中介语系（买卖双方中介与抽成），虽然中介机构对外普遍包装为超党派、客观中立且依靠量化工具（如随机对照试验与证据量规）的科学评级实体，但深层网络结构往往深嵌于跨国金融咨询与[[Venture Philanthropy\|风险慈善]]网络（如[[Social Ventures Australia\|澳大利亚社会创投]]［Social Ventures Australia, SVA］、麦肯锡、跨国投行），成为将公共教育研究议程外包化、企业化与[[Policy Mobility\|政策流动]]化的隐蔽通道（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]）。
 >

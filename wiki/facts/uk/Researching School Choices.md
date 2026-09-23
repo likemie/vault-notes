@@ -5,7 +5,7 @@ aliases:
   - 学校选择资助流
   - School Choices
   - Researching School Choices Programme
-summary: "英国教育捐赠基金会（EEF）于 2019 年设立的宏观组织决策评估资助流，因应学校按能力分班与作息推迟等宏观制度改革在传统 RCT 中屡遭招募流产的惨痛教训，转向依托国家学生数据库（NPD）全量普查数据，采用回归断点与双重差分等严密准实验设计探索教育自然变异"
+summary: 英国教育捐赠基金会（EEF）于 2019 年设立的宏观组织决策评估资助流，因应学校按能力分班与作息推迟等宏观制度改革在传统 RCT 中屡遭招募流产的惨痛教训，转向依托国家学生数据库（NPD）全量普查数据，采用回归断点与双重差分等严密准实验设计探索教育自然变异
 type: fact
 subtype: program
 region: uk
@@ -16,7 +16,7 @@ fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
 initiator_organization: "[[Education Endowment Foundation]]"
-period: "2019–至今"
+period: 2019–至今
 tags:
   - fact/program
   - uk
@@ -41,7 +41,7 @@ related_concepts:
   - "[[Hawthorne Effect]]"
   - "[[Realism in International Relations]]"
   - "[[Educational Brokerage Agency]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Causality]]"
   - "[[Construct]]"
 related_theories: []
@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-18
+updated: 2026-09-23
 ---
 
 # Researching School Choices
@@ -153,7 +153,7 @@ updated: 2026-09-18
 > > - **[[Realism in International Relations\|现实主义]]方法论立场（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）** 指出当某项宏观改革根本无法在田野中随机化时，强推 RCT 只能收获虚脱的招募样本与归零的[[External Validity\|外部效度]]；依托优质大数据的严密 [[Quasi-Experimental Designs\|QED]] 是最具科学诚意的最优解。
 
 > [!lessons] 经验教训与启示
-> - **[[Educational Brokerage Agency\|证据中介机构]]必须保持方法论[[Humility in Learning\|谦逊]]** 证据资助体系绝不可将特定统计方法奉为不可触碰的宗教教条；只有根据实践问题的决策层级动态调整设计工具箱，因果科学才能在错综复杂的教育现实中真正生根发芽。
+> - **[[Educational Brokerage Agency\|证据中介机构]]必须保持方法论[[Humility\|谦逊]]** 证据资助体系绝不可将特定统计方法奉为不可触碰的宗教教条；只有根据实践问题的决策层级动态调整设计工具箱，因果科学才能在错综复杂的教育现实中真正生根发芽。
 
 ---
 

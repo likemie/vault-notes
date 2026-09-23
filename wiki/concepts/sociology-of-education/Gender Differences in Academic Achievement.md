@@ -8,7 +8,7 @@ aliases:
 summary: "男女学生在学业成绩、微观学术任务及认知信念上呈现的系统性差异。既有实证揭示女生在平时总评与良构/劣构任务上普遍领先，其机制受学校规范适应、学习动机投入、能力可塑性信念及关系性认知方式的共同驱动。"
 type: concept
 domain: "sociology-of-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,19 +23,20 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Variable]]"
   - "[[Epistemic Cognition]]"
-  - "[[Growth]]"
   - "[[Ways of Knowing]]"
   - "[[Task Structure]]"
   - "[[Self-control]]"
   - "[[Paradigm]]"
   - "[[Domain Specificity]]"
   - "[[Epistemology]]"
+  - "[[Growth]]"
   - "[[Halo Effect]]"
   - "[[Heterogeneity]]"
   - "[[Conatus]]"
   - "[[Simplicity of Knowledge]]"
 related_theories:
   - "[[Women's Ways of Knowing]]"
+  - "[[Growth Mindset]]"
 related_methods:
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-06
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Gender Differences in Academic Achievement
@@ -67,7 +68,7 @@ updated: 2026-09-17
 > [!concept-lens] 概念透镜
 > - **含义** 它是学生内部认知信念、动机投入、行为调控与外部学校评价体制在长周期交互下的多维产物。
 > - **用途** 解构“女生在多数基础教育学科中系统性领先男生”的内在机制，评估学校过程[[Variable\|变量]]与[[Epistemic Cognition\|认识论认知]]对缩小学业鸿沟的作用。
-> - **边界** 学业成就的性别差异绝非由生物学性别直接线性决定，而是经由学校行为适应、[[Growth\|成长]]型能力观与关系性[[Ways of Knowing\|认知方式]]等中介机制间接实现。
+> - **边界** 学业成就的性别差异绝非由生物学性别直接线性决定，而是经由学校行为适应、成长型能力观与关系性[[Ways of Knowing\|认知方式]]等中介机制间接实现。
 
 > [!boundary]- 概念边界辨析
 > - **不等于先天认知能力或智商的生理差异** 脑科学与心理测量表明男女在一般认知潜能上无本质差异，学业表现分化主要源于社会化角色认同、[[Task Structure\|任务结构]]适应性与认识论信念成熟度。
@@ -157,7 +158,7 @@ updated: 2026-09-17
 > - **中学科学双任务测评中的性别表现对比（[[Argument_Lodewyk_2007_EP\|Lodewyk, 2007]]）**
 >   十年级科学实验中，女生在良构生活方式任务（$ES = .58$）与劣构癌症辩护任务（$ES = .44$）中均取得显著优势，展示出在规则执行与复杂价值权衡上的双重适应力。
 > - **课堂规范适应与归因辅导干预（[[Argument_Lekhal_2015_Paideia\|Lekhal et al., 2015]]）**
->   针对男生在行为规范与持续努力上的劣势，开展[[Self-control\|自我控制]]训练与[[Growth\|成长]]型思维辅导以缩小性别学业差距。
+>   针对男生在行为规范与持续努力上的劣势，开展[[Self-control\|自我控制]]训练与[[Growth Mindset|成长型思维]]辅导以缩小性别学业差距。
 
 ---
 

@@ -8,7 +8,7 @@ aliases:
 summary: "Sabine Maasen 与 Peter Weingart (2005) 提出的科学社会学概念，指教育等公共领域由于缺乏排他性专业壁垒与术语隔阂，公众皆自视为专家，导致研究证据高度暴露于公共争议之中，迫使政策中介机构诉诸严苛的证据层级体系重塑中立权威。"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Academic Achievement]]"
   - "[[Empiricism]]"
-  - "[[Growth]]"
   - "[[Epistemology]]"
   - "[[Scientism]]"
   - "[[School Choice]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Democratisation of Expertise
@@ -95,7 +94,7 @@ updated: 2026-09-17
 
 > [!feature] 核心要素
 > - **排他性技术壁垒的缺失（Absence of [[Technologies of Exclusion]]）** 与医学、法学或工程学不同，教育学并未建立起完全隔绝外行理解的深奥技术术语或法定的排他性资格认定体系，使得外行与内行的话语鸿沟极其狭窄。(Maasen & Weingart, 2005)
-> - **人人自命为专家的泛[[Empiricism\|经验主义]]（Universal Lay-Expertise Pretension）** 每个公民在其[[Growth\|成长]]过程中均有超过十余年的学校生活经历，这种亲身体验导致公众与政治家极易将个人或家庭的情感经验外推为普适性的教育真理。
+> - **人人自命为专家的泛[[Empiricism\|经验主义]]（Universal Lay-Expertise Pretension）** 每个公民在其成长过程中均有超过十余年的学校生活经历，这种亲身体验导致公众与政治家极易将个人或家庭的情感经验外推为普适性的教育真理。
 > - **证据的高度透明与公共争议性（Pervasive Contestation of Traceable Evidence）** 教育研究结论直接关系到千家万户的社会流动与阶层再生产，由于其证据往往通俗可查，导致任何教育政策研究都会不可避免地被各利益集团置于舆论放大镜下反复争夺。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
 > - **中介公信力两难与证据层级工程（Credibility Dilemma and Evidence Hierarchisation）** 决策者既渴望专家具备熟悉体制潜规则的官僚内幕知识，又需要其保持身处体制之外的客观独立性；[[Policy Brokerage\|政策中介]]机构为破除这种两难并摆脱政治偏袒指责，被迫推行严苛的“[[Epistemology\|认识论]]层级”，将[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials，RCT）奉为最高证据金标准，或将[[OECD\|经合组织]]包装为超然的客观公证人。(Boswell, 2017)
 

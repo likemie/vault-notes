@@ -102,4 +102,4 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — 在 AI [[AI Agent in Education\|智能体]][[Meta-analysis\|元分析]]中系统检验了[[Dialogue in Education\|对话]]式智能体的大样本实证效能（$k = 30, g = 0.468$），确立了其在基础教育语言听说与交互式读写领域的统治性干预优势。
+> - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — 在 AI [[AI Agent in Education\|智能体]][[Meta-analysis\|元分析]]中系统检验了对话式智能体的大样本实证效能（$k = 30, g = 0.468$），确立了其在基础教育语言听说与交互式读写领域的统治性干预优势。

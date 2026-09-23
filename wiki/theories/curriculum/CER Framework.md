@@ -6,7 +6,7 @@ aliases:
 summary: "Katherine McNeill 与 Joseph Krajcik 提出的科学论证教学与评估框架，将科学解释解构为主张、证据与推理三个核心部件，是基础教育中广泛应用的学习进阶支架。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 22
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Learning Progression]]"
   - "[[Metacognition]]"
-  - "[[Growth]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Formative Assessment]]"
@@ -101,7 +100,7 @@ updated: 2026-09-22
 > ```
 
 > [!exegesis]- 典型课堂教学示例
-> - **探究问题** 在相同光照和水量下，哪种植物[[Growth\|生长]]更快？
+> - **探究问题** 在相同光照和水量下，哪种植物生长更快？
 > - **主张** 植物 A 比植物 B 生长更快。
 > - **证据** 在为期 4 周的实验中，植物 A 高度平均增加了 15 cm，而植物 B 高度平均仅增加了 8 cm。
 > - **推理** 植物高度的净增长是衡量植物生长速率的直接生物量指标。因为两组植物处于完全相同的光照与水分受控环境下，植物 A 在相同时间内展现出两倍的垂直生长量，说明植物 A 的细胞分裂与光合转化速率更高。

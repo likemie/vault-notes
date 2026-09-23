@@ -3,7 +3,7 @@ title: Cultural Validity
 aliases:
   - 文化效度
   - 文化适切性
-summary: "一项研究对进行研究的文化环境的恰当程度，适用于研究全阶段，要求研究者在规划、实施和传播中对参与者文化和处境保持敏感"
+summary: 一项研究对进行研究的文化环境的恰当程度，适用于研究全阶段，要求研究者在规划、实施和传播中对参与者文化和处境保持敏感
 type: concept
 domain: "research-methodology"
 related_count: 9
@@ -22,12 +22,12 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-09-23
 ---
 # Cultural Validity
 
@@ -73,5 +73,5 @@ Joy (2003, p. 1) 提出了贯穿研究全过程的十二个问题框架，每个
 ## 围绕概念形成的命题
 
 > [!claim] 文化效度要求研究者意识到自身的"文化滤镜"
-> Morgan (2005) 指出的最后一项——"意识到自己作为研究者的文化滤镜"——可能是文化效度中最难实现的维度。研究者自身嵌入在特定的学术文化、[[Epistemology\|认识论]]传统和语言习惯中，这些可能与被研究文化的基本[[Hypothesis\|假设]]直接冲突。文化效度要求的是**认识论[[Humility in Learning\|谦逊]]（epistemic humility）**——承认自己的研究框架可能不是理解被研究文化的最佳（或唯一）方式。
+> Morgan (2005) 指出的最后一项——"意识到自己作为研究者的文化滤镜"——可能是文化效度中最难实现的维度。研究者自身嵌入在特定的学术文化、[[Epistemology\|认识论]]传统和语言习惯中，这些可能与被研究文化的基本[[Hypothesis\|假设]]直接冲突。文化效度要求的是**认识论[[Humility\|谦逊]]（epistemic humility）**——承认自己的研究框架可能不是理解被研究文化的最佳（或唯一）方式。
 

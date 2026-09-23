@@ -5,7 +5,7 @@ aliases:
 summary: "把责任理解为对他者和共同世界保持敏感并具备回应能力的伦理概念，是后人类主义关系伦理的重要核心"
 type: concept
 domain: "educational-philosophy"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Posthumanism]]"
   - "[[Humosity]]"
   - "[[Haraway's SF]]"
-  - "[[Dialogue in Education]]"
   - "[[Learning Analytics]]"
 related_theories: []
 related_methods: []
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-08-27'
+updated: 2026-09-22
 ---
 
 ## 定义
@@ -74,6 +73,6 @@ updated: '2026-08-27'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Amos 注意到一个教育的悖论：培育 response-ability 所需的"[[Epoché\|悬置]]自我"训练——如社区菜园、跨代[[Dialogue in Education\|对话]]、生态实践——恰恰是当前以竞争和个体成就为核心的教育系统所无法容纳的。与之形成对比的是 [[Learning Analytics]] 等技术方案——它们以数据追踪和算法优化来"增强"学习，但 Amos 认为"通过理性干预、自我优化和规范灌输"无法培养关爱心态——"这些正是问题的一部分"([[Argument_Amos_2022_Springer\|Amos, 2022, p.63]])
+> - Amos 注意到一个教育的悖论：培育 response-ability 所需的"[[Epoché\|悬置]]自我"训练——如社区菜园、跨代对话、生态实践——恰恰是当前以竞争和个体成就为核心的教育系统所无法容纳的。与之形成对比的是 [[Learning Analytics]] 等技术方案——它们以数据追踪和算法优化来"增强"学习，但 Amos 认为"通过理性干预、自我优化和规范灌输"无法培养关爱心态——"这些正是问题的一部分"([[Argument_Amos_2022_Springer\|Amos, 2022, p.63]])
 >
 

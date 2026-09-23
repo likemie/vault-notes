@@ -20,8 +20,8 @@ tags:
 - national-culture
 related_concepts:
   - "[[Hypothesis]]"
-  - "[[Dialogue in Education]]"
   - "[[Effective Teaching]]"
+  - "[[Open-Mindedness]]"
 related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
 related_methods: []
@@ -32,7 +32,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-09-11
+updated: 2026-09-23
 ---
 ## 简介
 
@@ -48,10 +48,10 @@ updated: 2026-09-11
 ## 主要贡献
 
 > [!success] 主要贡献
-> - 为教育研究中的跨文化解释提供一种[[Hypothesis\|假设]]生成框架：Laursen 用 Hofstede 对丹麦文化的描述来推导"开放、[[Dialogue in Education\|对话]]、弱教师控制的教学是否更适合丹麦"的预期，再用丹麦[[Effective Teaching\|有效教学]]研究检验该预期([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.36–37]])。
+> - 为教育研究中的跨文化解释提供一种[[Hypothesis\|假设]]生成框架：Laursen 用 Hofstede 对丹麦文化的描述来推导"开放、对话、弱教师控制的教学是否更适合丹麦"的预期，再用丹麦[[Effective Teaching\|有效教学]]研究检验该预期([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.36–37]])。
 
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Hofstede 的文化框架被批评为过于封闭、不可变且国家化，没有充分反映快速变化、全球化世界中文化的开放性和流动性([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.37]])。
+> - Hofstede 的文化框架被批评为过于封闭、不可变且国家化，没有充分反映快速变化、全球化世界中文化的[[Open-Mindedness|开放性]]和流动性([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.37]])。
 > - Laursen 进一步怀疑，Hofstede 对"丹麦国家文化"的画像可能更准确地描述受教育中产阶级文化，而不是所有丹麦学生共享的文化([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.40]])。

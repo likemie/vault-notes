@@ -12,7 +12,7 @@ aliases:
 summary: "由政府部门、中介组织、智库、高校与私有资本等多元行动者交织构成的网状治理结构。在批判政策社会学中揭示国家作为市场缔造者与私营中介协同重构再分配与理念编排的异层治理，在实证治理中测度政务网络规模与互动深度非线性解耦。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 57
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Multiplicity]]"
   - "[[Venture Philanthropy]]"
-  - "[[Dialogue in Education]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
   - "[[Educational Brokerage Agency]]"
@@ -142,8 +141,8 @@ updated: 2026-09-22
 > - **机构[[Co-affiliation\|共同从属]]与多重从属性（Co-affiliation & [[Multiplicity]]）** 政策网络决策层跨越政界、商界与慈善界，以共同捐赠人、多重董事兼职与子公司控股构成闭环网络（如 [[Social Ventures Australia\|SVA]] 董事、[[Education Endowment Foundation\|EEF]] 高管与商业银行家共同主导 [[Australian Education Research Organisation\|AERO]]）（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–10]]）。
 > - **耐用客体[[Assemblage\|装配]]与立法锚定（Inanimate Assemblage & Legislative Anchoring）** 政策网络借助《公司法》注册资质、法案修改条款、公司章程以及因果实证量规等耐用客体，将特定的私营分包与公私合作模式制度化固化为国家行政常态（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–3, 5]]）。
 > - **国家作为异层催化者与市场缔造者（State as Heterarchical Catalyst and Market-Maker）** 现代国家在政策网络中并未空心化退场，而是主动运用法案修正案、公司法特许和定向财政注资，充当资助者、经纪人与市场缔造者，为非民选商业中介提供合法特权与通道（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 522–523]]）。
-> - **非对称权力与结构性分层（Asymmetric Network Stratification）** 政策网络呈现出极不对称的权力拓扑：顶层商业银行、咨询寡头与[[Venture Philanthropy\|风险慈善]]枢纽通过保密竞标与高层旋转门直接[[Dialogue in Education\|对话]]核心决策层；网络末端的弱势公立学校则被剥离主体地位，退化为被迫竞逐微额资助并接受商业绩效量规[[Disciplina and Doctrina\|规训]]的被动受助者（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 527–528]]）。
-> - **金融化[[Epistemology\|认识论]]粘合剂（Financialised Epistemic Bindings）** 政策网络以“买入”（buy in）、“[[Educational Brokerage Agency\|证据经纪人]]”（evidence broker）及“金钱是[[Dialogue in Education\|对话]]的通用货币”等金融从业话语作为共同认识论纽带，将商业投资逻辑植入公共教育（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]）。
+> - **非对称权力与结构性分层（Asymmetric Network Stratification）** 政策网络呈现出极不对称的权力拓扑：顶层商业银行、咨询寡头与[[Venture Philanthropy\|风险慈善]]枢纽通过保密竞标与高层旋转门直接对话核心决策层；网络末端的弱势公立学校则被剥离主体地位，退化为被迫竞逐微额资助并接受商业绩效量规[[Disciplina and Doctrina\|规训]]的被动受助者（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 527–528]]）。
+> - **金融化[[Epistemology\|认识论]]粘合剂（Financialised Epistemic Bindings）** 政策网络以“买入”（buy in）、“[[Educational Brokerage Agency\|证据经纪人]]”（evidence broker）及“金钱是对话的通用货币”等金融从业话语作为共同认识论纽带，将商业投资逻辑植入公共教育（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]）。
 > - **政治把关与排他性授权（Political Gatekeeping & Selective Empowerment）** 中央教育行政部门作为网络[[Gatekeepers\|守门人]]，通过排他性授权设立官方代言机构（如[[Chartered College of Teaching\|特许教学学院]] CCT、[[Teaching Schools\|教学学校]]理事会 TSC）并定向委任审查专家，系统筛选证据准入与咨询声音（[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, p. 93]]）。
 > - **非正式中介与口口相传网络（Informal Intermediaries & Word-of-Mouth Ties）** 面对官僚高频轮岗，决策者极度依赖社交媒体意见领袖、博客博主与口口相传的人际中介网络获取去语境化的研究结论，替代了正式的[[Document\|文献]]审查机制（[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, pp. 94–96]]）。
 > - **网络规模与联结强度（Network Size & Tie Strength）** 测度部委定期征询的组织类型广度（0–16 类）与日常互动的频度深度（1–6 点量表），揭示网络广覆盖与弱互动之间的结构性脱离（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 84–85]]）。
@@ -226,7 +225,7 @@ updated: 2026-09-22
 > 揭示政策网络如何依托跨国多重从属的人事纽带与公司法、章程等无生命客体，将非公立金融资本深度嵌入国家公共教育治理核心。
 
 > [!claim] Rowe, E.
-> **共同从属闭环与耐用材料制度化** 政策网络跨越地理疆界，以多重重叠（[[Multiplicity]]）与共同从属（co-affiliation）为纽带，将跨国投行资本、麦肯锡系[[Venture Philanthropy\|风险慈善]]枢纽、智库与政府高官紧密交织（Ball, 2009; Avelar & Ball, 2019）。埃玛·罗威（Emma Rowe）揭示，政策网络不仅由人际旋转门构成，更高度依赖无生命客体（inanimate objects）的战略[[Assemblage\|装配]]；通过《公司法》担保有限公司注册底座、公司章程（明文规定董事选任须具备与慈善界合作资历）、预算法规修改案（特许向私营咨询分包）以及因果实证量规，政策网络在[[Relational Space\|关系空间]]中构筑了如防野狗围栏般的去政治化客观中立表象；以“金钱是我们[[Dialogue in Education\|对话]]的通用货币”等金融从业话语为[[Epistemology\|认识论]]粘合剂，政府实质充当了积极的催化节点（catalyst），使跨国商业资本合法掌控国家公共教育[[Knowledge Production\|知识生产]]的标准与议程。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 1–5, 8–11)]]
+> **共同从属闭环与耐用材料制度化** 政策网络跨越地理疆界，以多重重叠（[[Multiplicity]]）与共同从属（co-affiliation）为纽带，将跨国投行资本、麦肯锡系[[Venture Philanthropy\|风险慈善]]枢纽、智库与政府高官紧密交织（Ball, 2009; Avelar & Ball, 2019）。埃玛·罗威（Emma Rowe）揭示，政策网络不仅由人际旋转门构成，更高度依赖无生命客体（inanimate objects）的战略[[Assemblage\|装配]]；通过《公司法》担保有限公司注册底座、公司章程（明文规定董事选任须具备与慈善界合作资历）、预算法规修改案（特许向私营咨询分包）以及因果实证量规，政策网络在[[Relational Space\|关系空间]]中构筑了如防野狗围栏般的去政治化客观中立表象；以“金钱是我们对话的通用货币”等金融从业话语为[[Epistemology\|认识论]]粘合剂，政府实质充当了积极的催化节点（catalyst），使跨国商业资本合法掌控国家公共教育[[Knowledge Production\|知识生产]]的标准与议程。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 1–5, 8–11)]]
 
 ---
 
@@ -329,7 +328,7 @@ updated: 2026-09-22
 > > [!axis] 金融化从业话语统摄 vs 公共教育民主价值消解
 > > 探讨政策网络广泛采纳金融投行从业术语对教育本质的重构。
 > >
-> > - **批判学者立场** 埃玛·罗威（Emma Rowe）揭露政策网络将“[[Educational Brokerage Agency\|证据经纪人]]”、“买入”以及“金钱是我们[[Dialogue in Education\|对话]]的通用货币”升格为通用语言，实质是资本逻辑对教育公共性、批判性与教师[[Professional Judgment\|专业判断]]的[[Epistemic Coloniality\|认识论殖民]]。（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]）
+> > - **批判学者立场** 埃玛·罗威（Emma Rowe）揭露政策网络将“[[Educational Brokerage Agency\|证据经纪人]]”、“买入”以及“金钱是我们对话的通用货币”升格为通用语言，实质是资本逻辑对教育公共性、批判性与教师[[Professional Judgment\|专业判断]]的[[Epistemic Coloniality\|认识论殖民]]。（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]）
 > > - **网络资助者立场** 坚称引入金融度量衡与风险投资纪律是杜绝公共资源浪费、实现规模化社会影响力的客观科学工具。
 >
 > > [!axis] 专业咨询独立性 vs 政策网络适宜性合谋

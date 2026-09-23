@@ -33,8 +33,8 @@ related_concepts:
   - "[[Transnational Research Collaboration]]"
   - "[[Grand Theory]]"
   - "[[Cultural Hierarchy]]"
+  - "[[Open-Mindedness]]"
   - "[[Sinicisation]]"
-  - "[[Dialogue in Education]]"
 related_theories:
   - "[[Post-colonial Theory]]"
   - "[[Decolonial Geopolitics of Knowledge]]"
@@ -54,7 +54,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: '2026-08-27'
+updated: 2026-09-23
 ---
 
 ## 定义
@@ -117,7 +117,7 @@ updated: '2026-08-27'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] 的分析暗示了一个尚未被充分探讨的张力：当亚洲经济崛起、亚洲国家成为[[International Education\|国际教育]]的主动塑造者（如建立IEHs）时，东方主义的[[Cultural Hierarchy\|文化等级]]结构是否会松动？还是会以新的形式——例如亚洲国家之间的新等级——被再生产？Rizvi 在该章中对亚洲内部权力不对称（特别是中国的主导地位）的讨论不充分，留下了这一问题的开放性([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.101–102]])
+> - [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] 的分析暗示了一个尚未被充分探讨的张力：当亚洲经济崛起、亚洲国家成为[[International Education\|国际教育]]的主动塑造者（如建立IEHs）时，东方主义的[[Cultural Hierarchy\|文化等级]]结构是否会松动？还是会以新的形式——例如亚洲国家之间的新等级——被再生产？Rizvi 在该章中对亚洲内部权力不对称（特别是中国的主导地位）的讨论不充分，留下了这一问题的[[Open-Mindedness|开放性]]([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.101–102]])
 >
 > ### 作为政治工具的"东方主义"指控
 >
@@ -125,7 +125,7 @@ updated: '2026-08-27'
 >
 > **指控的逻辑** 对中国在香港、台湾或西藏推行[[Sinicisation\|中国化]]政策的批判，被[[Back Translation\|回译]]为"东方主义"或"恐华"（Sinophobia）——即批评者不过是在重复西方殖民者"想象东方"的旧习。如 Carrico（2018）所观察的，将香港、台湾或西藏的反中情绪一概归因于"西方影响"的叙事，实际上制造了一个新的"想象东方"：这个想象中的东方没有内部冲突、没有真实的政见分歧，只有来自外部的阴谋([[Argument_Vickers_2024_CE\|Vickers, 2024, p.155]])。
 >
-> **与 Táíwò（2022）去殖民批判的[[Dialogue in Education\|对话]]** Táíwò 对"去殖民"话语的核心批评是：过度关注思想的"出身谱系"（pedigree）——即某个观念是否源自西方——会遮蔽本地人的"能动性"（agency）。Vickers将这一逻辑应用于香港：因为法治、公民权利和香港的相对自治源自英国殖民时期，就去质疑它们的正当性，这实际上是以"反殖民"的名义剥夺了香港人选择保留什么、拒绝什么的权利。
+> **与 Táíwò（2022）去殖民批判的对话** Táíwò 对"去殖民"话语的核心批评是：过度关注思想的"出身谱系"（pedigree）——即某个观念是否源自西方——会遮蔽本地人的"能动性"（agency）。Vickers将这一逻辑应用于香港：因为法治、公民权利和香港的相对自治源自英国殖民时期，就去质疑它们的正当性，这实际上是以"反殖民"的名义剥夺了香港人选择保留什么、拒绝什么的权利。
 >
 > **学术困境** 由此形成了一个双重约束（double bind）：学者被要求在批判殖民性的同时，也批判以"反殖民"名义运作的新型威权主义。两者之间的平衡极为困难——批判前者可能被指控为"东方主义"，批判后者可能被指控为"恐华"。香港由此成为"去殖民思维如何因迷恋思想谱系而忽视本地人能动性"的警示案例。
 >

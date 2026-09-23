@@ -8,7 +8,7 @@ summary: "德裔美籍教育哲学家与文化史学家，哈佛大学教授，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 27
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Liberal Education]]"
   - "[[Enlightenment]]"
   - "[[Paradigm]]"
-  - "[[Growth]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
   - "[[Epoché]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Robert Ulich
@@ -127,7 +126,7 @@ updated: 2026-09-17
 
 > [!quad-grid] 乌利希人文主义比较[[Paradigm\|范式]]的四大支柱
 > - **始终保持以人（Person）为中心**
->   坚决将人牢牢置于教育图景的绝对中心。对于乌利希而言，人的价值与全人[[Growth\|成长]]永远先于课程、学科、建制、行政机构或纯粹学术研究。Nash (1977)；引自 [[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 52)]]
+>   坚决将人牢牢置于教育图景的绝对中心。对于乌利希而言，人的价值与全人成长永远先于课程、学科、建制、行政机构或纯粹学术研究。Nash (1977)；引自 [[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 52)]]
 > - **不加妥协的历史语境主义**
 >   研究路径具有彻底且毫不妥协的历史主义底色，坚信离开深邃的历史脉络与文明根基，便绝无可能真正领会现实教育进程的本质。
 > - **关照教师培养的人文本质**

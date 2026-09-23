@@ -21,8 +21,8 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Areas of Knowledge]]"
   - "[[Paradigm]]"
-  - "[[Dialogue in Education]]"
   - "[[Boundary Spanner]]"
+  - "[[Dialogue in Education]]"
   - "[[Problem Solving]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Critical Thinking]]"
@@ -53,7 +53,7 @@ updated: 2026-09-17
 > [!concept-lens] 概念透镜
 > - **含义** 跨越不同实践共同体、[[Areas of Knowledge\|知识领域]]或人机界面的中介媒介，在维持整体连贯性的同时允许局部差异化诠释。
 > - **用途** 解释同一种技术工具或评估标准如何在高度异质的学科文化与教学情境中被重新协商并产生多元学习结果。
-> - **边界** 边界对象本身不能消除不同群体间的利益冲突或[[Paradigm\|范式]]分歧，它只是提供了一个持续开展[[Dialogue in Education\|对话]]、协商与协作的共同平台。
+> - **边界** 边界对象本身不能消除不同群体间的利益冲突或[[Paradigm\|范式]]分歧，它只是提供了一个持续开展对话、协商与协作的共同平台。
 
 > [!citation-card]- 关键表述
 > 跨越学科与语言情境，ChatGPT 发挥着边界对象的作用——这是一种灵活且具适应性的人工制品，在维持连贯性的同时能够实现情境化的重新诠释。学生使用它来跨越通用学术惯例与特定学科话语之间的边界。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 11)]]

@@ -18,7 +18,7 @@ aliases:
 summary: "在异质组织、专业社群或制度系统（如学术研究与产业界、科学共同体与政策决策系统）之间充当沟通桥梁的专业角色或中介机构，通过双重语言转译、制度摩擦缓冲与多边信任建构，促进知识流动、资源对齐与跨界协同。在公共教育治理中，跨界中介者连接科学与政策两社区，在证据过剩与决策歧义性生态下以政策中介平衡公信力与行政两难。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 65
+related_count: 64
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -49,7 +49,6 @@ related_concepts:
   - "[[Technology Transfer Office]]"
   - "[[Master Agreement]]"
   - "[[Academic Freedom]]"
-  - "[[Dialogue in Education]]"
   - "[[Professional Learning Community]]"
   - "[[Gatekeepers]]"
   - "[[Evidence Ecosystem]]"
@@ -156,7 +155,7 @@ updated: 2026-09-22
 > [!feature] 核心要素构成
 > - **双重/多重语言与文化[[Transfer Translation Transformation\|转译]]能力（Cognitive & Cultural Translation）** 能够熟练驾驭不同系统的“专业方言”与价值诉求——在高教中弥合[[Academic Freedom\|学术自由]]与商业利润逻辑；在基础教育中平衡学术严谨性与一线教学实操性。[[Argument_Boccanfuso_Hall_2025_OrgStrategy\|(Boccanfuso & Hall, 2025b, p. 54)]]; [[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 130)]]
 > - **制度摩擦缓冲与边界张力调解（Institutional Buffering & Tension Navigation）** 面对不同组织的考核周期（如企业财年 vs 大学学期日历 vs 学校学年安排）及权力层级差异，发挥“减震器”功能，主动寻找对接窗口并化解冲突。[[Argument_Hoffman_2025_UI_Alliances_Consortia\|(Hoffman et al., 2025, pp. 106–107)]]
-> - **关系型社会资本与多边专业信任建构（Relational Capital & Trust Cultivation）** 跨越制度性怀疑，通过长期的专业[[Dialogue in Education\|对话]]、定期会议与履约保障，建立跨组织的心理安全感与合作默契。
+> - **关系型社会资本与多边专业信任建构（Relational Capital & Trust Cultivation）** 跨越制度性怀疑，通过长期的专业对话、定期会议与履约保障，建立跨组织的心理安全感与合作默契。
 > - **协作探究与共创流程编排（Process Orchestration & Co-creation Facilitation）** 拒绝单向被动传递，主动搭建跨界工作坊、[[Professional Learning Community\|专业学习共同体]]与[[Inquiry Cycle\|探究循环]]，引导研究者与实践者共同定义问题并研发解决方案。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 130–131)]]
 > - **组织化具体形态：关系经理与专业中介网络（Relationship Manager & Intermediary Networks）** 在产学联盟中体现为对特定双边关系存续负全责的“关系经理”（[[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al., 2025]]）；在教育[[Knowledge Mobilisation\|知识动员]]中体现为中层领导、教师工会代表及区域知识网络协调员。
 > - **复杂研究生态中的多角色协同与系统定位（Intermediary Ecology in Complex Systems）** 在复杂系统视野下，中介行动者涵盖组织形态（如[[Educational Brokerage Agency\|知识经纪]]机构）与个体形态（包括转译者 translators、经纪人 brokers、[[Gatekeepers\|守门人]] gatekeepers、边界跨越者 boundary spanners 以及变革倡导者 champions）。边界跨越者并非孤立的单向管道，而是与多元行动者通过非线性反馈回路、共创机制及“推拉并存”（push-pull coexistence）的动态交互，共同形塑[[Evidence Ecosystem\|教育证据生态系统]]。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 19–20)]]

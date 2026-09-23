@@ -6,10 +6,10 @@ aliases:
   - 驕傲
   - pride
   - 自豪
-summary: "学习成就中一种积极但文化变异显著的自我意识情感，西方以骄傲为正面情感，东亚以骄傲为双价情感——兼具正面与负面含义，以谦逊为骄傲的对立面"
+summary: 学习成就中一种积极但文化变异显著的自我意识情感，西方以骄傲为正面情感，东亚以骄傲为双价情感——兼具正面与负面含义，以谦逊为骄傲的对立面
 type: concept
 domain: "chinese-philosophy"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,9 +20,8 @@ tags:
   - region/east-asia
   - region/western
 related_concepts:
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Western Learner]]"
-  - "[[Dialogue in Education]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods:
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-08-20
+updated: 2026-09-23
 ---
 
 # Pride in Learning
@@ -52,7 +51,7 @@ updated: 2026-08-20
 ## 概念辨析
 
 > [!example]
-> **骄傲 vs [[Humility in Learning\|谦逊]]** 在西方心理学中，骄傲的反面通常是羞耻（shame）、尴尬或低自尊。但在[[Confucian Learning Tradition\|儒家学习传统]]中，骄傲的对立面是谦逊——而非羞耻。谦逊不是低微的自我评价，而是一种内在力量([[Argument_Li_2012_Cambridge\|Li, 2012, p.79]])。
+> **骄傲 vs [[Humility\|谦逊]]** 在西方心理学中，骄傲的反面通常是羞耻（shame）、尴尬或低自尊。但在[[Confucian Learning Tradition\|儒家学习传统]]中，骄傲的对立面是谦逊——而非羞耻。谦逊不是低微的自我评价，而是一种内在力量([[Argument_Li_2012_Cambridge\|Li, 2012, p.79]])。
 
 **东亚骄傲的双价性** 英语 pride 和中文"骄傲"（jiāo ào, 驕傲）之间不存在完全对等的翻译。Li 的翻译程序发现，93% 的双语者将 pride 译为"骄傲"，但其中 31% 指出"骄傲"同时有"傲慢、自负"的负面含义；45% 的全体受试者确认"骄傲"具有负面意味。这导致东亚学习者的骄傲是一种"悖论式情感"（paradoxical emotion）——既正面又负面([[Argument_Li_2012_Cambridge|Li, 2012, p.77]])。
 
@@ -79,7 +78,7 @@ updated: 2026-08-20
 ### 苏格拉底式辅导中的骄傲社会化
 
 > [!success]
-> Li and Heidi Fung 的母子[[Dialogue in Education\|对话]]研究（第 7 章）直接观察到了欧裔美国母亲如何通过日常对话将骄傲**主动教给**儿童([[Argument_Li_2012_Cambridge\|Li, 2012]])。
+> Li and Heidi Fung 的母子对话研究（第 7 章）直接观察到了欧裔美国母亲如何通过日常对话将骄傲**主动教给**儿童([[Argument_Li_2012_Cambridge\|Li, 2012]])。
 
 在[[Discourse Analysis|话语分析]]中，欧裔美国母亲将骄傲定位为对学习成就的**标准情感反应**。一个典型例子是母亲与八岁儿子 Ian 的对话：Ian 在班上出色地呈现了莎士比亚的《罗密欧与朱丽叶》，"每个人都印象深刻"。母亲明确指出两种骄傲：
 
@@ -101,7 +100,7 @@ updated: 2026-08-20
 > [!success]
 > 东亚学习者经历骄傲时的实际心理过程可能如下([[Argument_Li_2012_Cambridge\|Li, 2012, p.78]])：
 
-> "我做到了！我很高兴自己努力了并且成功了。但要小心，不要太自满；还有更多要达成的。如果我公开表达我的快乐，别人可能会觉得我傲慢。而且公开炫耀骄傲会让没做好的同学不好受。所以我应该保持[[Humility in Learning\|谦逊]]——这对我好，对别人也好。"
+> "我做到了！我很高兴自己努力了并且成功了。但要小心，不要太自满；还有更多要达成的。如果我公开表达我的快乐，别人可能会觉得我傲慢。而且公开炫耀骄傲会让没做好的同学不好受。所以我应该保持[[Humility\|谦逊]]——这对我好，对别人也好。"
 
 这一过程体现了东亚学习者的**预防焦点（prevention focus）**——一种自我调节风格，倾向于警惕潜在的错误和过失以避免不良后果，而非追求积极增益的促进焦点（promotion focus）。研究表明中国人比西方人更偏向预防焦点，而预防焦点本身可以带来积极的情感体验——因此骄傲的"负面"一面实际上可能在帮助学习者持续奋斗方面起到积极作用，而非削弱他们([[Argument_Li_2012_Cambridge|Li, 2012, p.78–79]])。
 

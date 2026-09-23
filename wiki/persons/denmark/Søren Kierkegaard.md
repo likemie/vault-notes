@@ -8,7 +8,7 @@ summary: "丹麦哲学家与神学家，存在主义哲学的先驱与奠基人�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 26
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
-  - "[[Dialogue in Education]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Søren Kierkegaard
@@ -175,5 +174,5 @@ updated: 2026-09-17
 > > - **生存论阐释** 认为此举深刻揭示了工具理性认识论的内在边界，彰显了个体在不可化约的不确定境遇中承担生存抉择的勇气。
 
 > [!critique]- 批评索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 指出在教育研究实操中，若将主观性能力极端化为对一切经验规律的拒斥，亦可能导致研究滑入无法进行横向比较与政策[[Dialogue in Education\|对话]]的微观独语困境。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 指出在教育研究实操中，若将主观性能力极端化为对一切经验规律的拒斥，亦可能导致研究滑入无法进行横向比较与政策对话的微观独语困境。
 

@@ -8,7 +8,7 @@ summary: "质性与微观互动分析方法，通过整合语言、图像、数�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 30
+method_related_count: 29
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
-  - "[[Dialogue in Education]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemological Vigilance]]"
   - "[[Artefact]]"
@@ -67,7 +66,7 @@ updated: 2026-09-22
 > [[Multimodal Discourse Analysis\|多模态话语分析]]（Multimodal [[Discourse Analysis]], MDA）是一种拓展传统语言学话语分析的[[Qualitative Research\|质性研究]]方法，**通过系统整合口头言语、书面文字、视觉图像、数字界面操作、手势以及空间布局等多模态符号资源，深入探究参与者在具体社会与技术情境中如何协同建构意义、协商权力并执行[[Epistemology\|认识论]]行动**。在当代数字化与人工智能教育研究中，它成为解析人机交互、多模态生成物评估与协同[[Knowledge Production\|知识生产]]的核心分析工具。[[Argument_Han_Gutierez_2026_IJSE\|(Feng, 2021; Yin & Zeng, 2025; Han & Gutierez, 2026, pp. 8–10)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 课堂口头[[Dialogue in Education\|对话]]、屏幕交互录像、数字生成物（文本、多模态图像、故事板）、提示词输入与修改记录、[[Semi-structured Interview\|半结构化访谈]][[Transcription in Qualitative Research\|转录]]。
+> - **研究对象** 课堂口头对话、屏幕交互录像、数字生成物（文本、多模态图像、故事板）、提示词输入与修改记录、[[Semi-structured Interview\|半结构化访谈]][[Transcription in Qualitative Research\|转录]]。
 > - **问题类型** 参与者如何跨模态整合符号资源建构意义？学习者在人机协同中如何通过语言与界面操作执行评估与修正行动？
 > - **[[Unit of Analysis\|分析单位]]** 认识论事件（Epistemic Events）、多模态话语回合（Multimodal Turns）、界面交互片段、视觉图像符号单元。
 > - **输出形式** 多模态转录表、分层[[Coding in Qualitative Research\|编码]]架构、微观话语互动序列解析、跨数据源[[Triangulation\|三角互证]]主题。

@@ -12,7 +12,7 @@ aliases:
 summary: "教育研究利用领域的全系统构念，指研究知识通过沟通传播、能力建设、伙伴关系与系统化方法进入政策与实践的社会交互与多方共创过程，旨在克服证据供需脱节与双向能力赤字。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 64
+related_count: 63
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -24,7 +24,6 @@ tags:
   - school-improvement
   - region/global
 related_concepts:
-  - "[[Growth]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Document]]"
@@ -37,7 +36,6 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Paradigm]]"
   - "[[Research-Practice Partnership]]"
-  - "[[Dialogue in Education]]"
   - "[[Evidence Ecosystem]]"
   - "[[Theoretical Knowledge]]"
   - "[[Ontology]]"
@@ -46,6 +44,7 @@ related_concepts:
   - "[[Persuasive Communication in Education]]"
   - "[[Research Literacy]]"
   - "[[Data Literacy]]"
+  - "[[Dialogue in Education]]"
   - "[[Formative Assessment]]"
   - "[[Professional Learning Community]]"
   - "[[Research Translation]]"
@@ -96,7 +95,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-21"
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Knowledge Mobilisation
@@ -106,7 +105,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 知识动员（Knowledge Mobilisation, KMb）指研究与数据融入或未能融入教育政策与实践的完整中介过程。知识动员本质上是研究者、决策者与实践者通过多方协作共同创造、翻译、重组并制度化应用知识的社会互动与迭代过程，旨在克服研究与实践脱节，培育使证据扎根[[Growth\|生长]]的肥沃土壤。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 127, 130)]]; [[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, pp. 66–67)]]
+> 知识动员（Knowledge Mobilisation, KMb）指研究与数据融入或未能融入教育政策与实践的完整中介过程。知识动员本质上是研究者、决策者与实践者通过多方协作共同创造、翻译、重组并制度化应用知识的社会互动与迭代过程，旨在克服研究与实践脱节，培育使证据扎根生长的肥沃土壤。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 127, 130)]]; [[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, pp. 66–67)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 知识动员指向知识流动背后的社会交互网络与中介机制，强调知识在行动者间的再解释、[[Transfer Translation Transformation\|转译]]与双向共创。
@@ -148,7 +147,7 @@ updated: 2026-09-17
 >
 > - **关系网络模型（Relationship Model）**
 >
->   认识到语言、文化与情境隔阂，依靠[[Research-Practice Partnership\|研究-实践伙伴关系]]（RPP）与[[Boundary Spanner\|跨界中介者]]建立专业网络，促进多源知识（学术、经验、政策）的双向转译与[[Dialogue in Education\|对话]]，强调微观信任与人际互动。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, pp. 16–18)]]
+>   认识到语言、文化与情境隔阂，依靠[[Research-Practice Partnership\|研究-实践伙伴关系]]（RPP）与[[Boundary Spanner\|跨界中介者]]建立专业网络，促进多源知识（学术、经验、政策）的双向转译与对话，强调微观信任与人际互动。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, pp. 16–18)]]
 >
 > - **复杂系统模型（Systems Model）**
 >
@@ -263,7 +262,7 @@ updated: 2026-09-17
 知识流动不会因研究成果的单纯发表而自然发生，知识动员本质上是多元主体共同界定问题、[[Knowledge Co-production|协同生产]]与情境[[Transfer Translation Transformation|转译]]的社会互动过程。
 
 > [!claim] [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]; [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]]
-> **多方共创与社会交互本质** 知识在教育系统中的流动不会自然发生，单纯增加研究供给无法打破实践壁垒。动员指涉研究者、决策者与实践者之间通过持续[[Dialogue in Education\|对话]]共同界定问题、协同生产知识的社会互动与迭代过程。唯有打破生产者与消费者的二元对立，将知识流动置于互惠伙伴关系之中，研究证据才能真正扎根于微观实践土壤。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 130)]]; [[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, p. 66)]]
+> **多方共创与社会交互本质** 知识在教育系统中的流动不会自然发生，单纯增加研究供给无法打破实践壁垒。动员指涉研究者、决策者与实践者之间通过持续对话共同界定问题、协同生产知识的社会互动与迭代过程。唯有打破生产者与消费者的二元对立，将知识流动置于互惠伙伴关系之中，研究证据才能真正扎根于微观实践土壤。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 130)]]; [[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, p. 66)]]
 
 > [!tension] 知识流动本体[[Paradigm Wars\|范式之争]]：线性管道输送 vs 多方社会共创
 > - **[[Technical Rationality\|技术理性]]单向交付（蓝方）** 预设研究知识为标准化静态货品，通过自上而下的管道（Pipeline）向一线被动输送，将实践者定位为接受容器。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 130)]]

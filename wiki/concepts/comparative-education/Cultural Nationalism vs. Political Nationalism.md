@@ -9,7 +9,7 @@ aliases:
 summary: "比较教育学在两次世界大战之间形成的政治哲学二元类型学，深刻区分以国家强权、意识形态灌输与政治极权动员为特征的政治民族主义，与以文化传统传承、公民健全心智发展及国际主义理解为导向的文化民族主义。"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Democratic Education]]"
   - "[[Academic Freedom]]"
-  - "[[Dialogue in Education]]"
   - "[[Educational Meliorism]]"
   - "[[Going Native]]"
 related_theories:
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Cultural Nationalism vs. Political Nationalism
@@ -129,7 +128,7 @@ updated: 2026-09-17
 
 ### 命题二　健康而稳固的国际主义必须以具有高度文化自觉的文化民族主义为先决条件
 
-> [!concept-lens] 文化根基与跨国[[Dialogue in Education\|对话]]的辩证统一
+> [!concept-lens] 文化根基与跨国对话的辩证统一
 > 历史学派断言，国际理解不是要求抹去民族个性的虚无世界主义，而是建立在各民族对自身文化传统深邃理解基础上的文明互鉴。
 
 > [!claim] Kandel, I.

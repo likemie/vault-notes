@@ -11,7 +11,7 @@ subtype: policy
 region: europe
 fact_region: "europe"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ tags:
 related_concepts:
   - "[[Problem Solving]]"
   - "[[Critical Thinking]]"
-  - "[[Dialogue in Education]]"
   - "[[Lifelong Learning]]"
   - "[[Transfer Translation Transformation]]"
 related_theories: []
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-28
-updated: 2026-08-28
+updated: 2026-09-22
 ---
 
 # Dublin Descriptors
@@ -77,7 +76,7 @@ updated: 2026-08-28
 >   - *硕士*：在信息不完备或极度复杂情境下整合数据，反思社会与伦理责任并做出深层批判性判断；
 >   - *博士*：能对复杂新观念开展独立批判分析、价值评估与综合学术裁决。
 > - **4. 沟通技能（Communication Skills）**
->   - 从向同行与非专业受众清晰传递结论与逻辑理由（学士/硕士），到引领学术同行深度[[Dialogue in Education\|对话]]与思想传播（博士）。
+>   - 从向同行与非专业受众清晰传递结论与逻辑理由（学士/硕士），到引领学术同行深度对话与思想传播（博士）。
 > - **5. 学习能力（Learning Skills）**
 >   - 从具备开展自主[[Lifelong Learning\|终身学习]]的能力（学士），到在高度自主与未知情境中引领自我专业发展（硕士/博士）。
 

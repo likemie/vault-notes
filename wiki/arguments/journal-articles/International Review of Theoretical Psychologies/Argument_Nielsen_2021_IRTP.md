@@ -10,7 +10,7 @@ title: "Argument_Nielsen_2021_IRTP"
 argument_key: "Argument_Nielsen_2021_IRTP"
 argument_display_title: "Measured lives in educational psychology"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -31,11 +31,9 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Didaktik]]"
   - "[[Positivism]]"
-  - "[[Growth]]"
   - "[[Synectics]]"
   - "[[Value Neutrality]]"
   - "[[Variable]]"
-  - "[[Dialogue in Education]]"
   - "[[Feedback]]"
   - "[[Doxa]]"
 related_theories: []
@@ -108,7 +106,7 @@ citation_aliases:
 >
 > 作者论证 Hattie 深受 Schön (1983, 1987) 所描述的**技术理性（Technical Rationality）**影响(p. 81-82)：
 >
-> > “技术理性是[[Positivism\|实证主义]]的遗产，这一强大的哲学学说在十九世纪[[Growth\|成长]]起来，既作为对科学技术崛起的解释，也作为一场旨在将科学技术的成就应用于人类福祉的社会运动。”
+> > “技术理性是[[Positivism\|实证主义]]的遗产，这一强大的哲学学说在十九世纪成长起来，既作为对科学技术崛起的解释，也作为一场旨在将科学技术的成就应用于人类福祉的社会运动。”
 > ("Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century as an [[Accounts\|account]] of the [[Research in Schools Evaluation\|RISE]] of science and technology and as a social movement aimed at applying the achievements of science and technology to the well-being of mankind.") (Schön, 1983, p. 31)
 >
 > 技术理性铺平了教育中的手段-目的思维（means-ends thinking）——问题被理解为脱离情境的独立实体，可以通过查阅和应用基础科学知识来解决(p. 82)。
@@ -137,7 +135,7 @@ citation_aliases:
 > - **无学生/教师意向性概念** Hattie 的作品中不存在将学生或教师理解为"寻求意义的"或"解释性的"存在——"The atomization of educational effects (effect sizes) becomes, at the same time, the atomization of the students and teachers into a number of [[Variable\|variables]]"(p. 88)
 > - **学生被理解为需要被影响的对象** 虽然学生必须是"活跃的"，但他们不被理解为具有意向性的行动者——只机械地对反馈做出反应
 > - **学习目标不容讨论** Hattie 的理论是一个**封闭系统**——"the learning objective sanctifies the means of teaching"(p. 88-89)。教育问题被理解为技术性目标-手段理性范畴内的问题，其他类型的问题被认为无关
-> - **反馈取代[[Dialogue in Education\|对话]]** 人际对话被相互反馈过程取代，很少关注赋予学生学习的理由
+> - **反馈取代对话** 人际对话被相互反馈过程取代，很少关注赋予学生学习的理由
 >
 > > “在 Hattie 的[[Visible Learning\|可见的学习]]理论中，教师必须利用反馈（向后反馈、向上反馈和向前反馈），创造一个环境，在其中学生……将学生的活动引向已经制定好的学习目标。这是一个封闭的系统，其中学习目标使教学手段变得神圣化。”
 > ("In Hattie's theory of [[Visible Learning]], the teachers must, with [[Feedback]], feed-up and forward, create an environment in which the students... direct the students' activities toward already formulated learning objectives. It is a closed system in which the learning objective sanctifies the means of teaching.")

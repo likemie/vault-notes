@@ -6,7 +6,7 @@ aliases:
   - Facta non Verba
   - actions speak louder than words
   - slow to speak quick to act
-summary: "儒学学习传统第四主题，以行动而非言语为修身标准；孔子不信任巧言令色，君子讷于言而敏于行，沉默不等于被动"
+summary: 儒学学习传统第四主题，以行动而非言语为修身标准；孔子不信任巧言令色，君子讷于言而敏于行，沉默不等于被动
 type: concept
 domain: "chinese-philosophy"
 related_count: 11
@@ -14,15 +14,15 @@ related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 tags:
-- region/china
-- theory/confucianism
-- field/chinese-philosophy
-- field/comparative-education
-- theme/learning
+  - region/china
+  - theory/confucianism
+  - field/chinese-philosophy
+  - field/comparative-education
+  - theme/learning
 related_concepts:
   - "[[University Motto]]"
   - "[[Junzi]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Ritual Propriety]]"
   - "[[Chinese Learner]]"
   - "[[Self-Cultivation]]"
@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-24
+updated: 2026-09-23
 ---
 
 # Action Better Than Words
@@ -86,7 +86,7 @@ updated: 2026-05-24
 
 **2. 谄媚之言（flattering speech）**。逢迎他人——通常指向有权势或掌控资源的人——以获取个人好处。它使说话者远离**真诚**这一仁的核心品质，同时使听者陷入虚荣。孔子告诫远离"便辟"（ingratiating）和"善柔"（feigning compliance）的朋友([[Argument_Li_2012_Cambridge|Li, 2012, p.98]])。
 
-**3. 自夸之言（boastful speech）**。通过空洞且常带有攻击性的语言人为膨胀自我，暴露说话者自身缺乏**[[Humility in Learning|谦逊]]**。子路在孔子面前"率尔而对"——"给我一个千乘之国……三年之内，我就能使百姓有勇且知方向"——孔子"哂之"。子路的言辞"在中文中相当有文采"，但孔子不以为然，因为"在他所说的东西里没有丝毫的敬让"([[Argument_Li_2012_Cambridge|Li, 2012, pp.98-99]])。
+**3. 自夸之言（boastful speech）**。通过空洞且常带有攻击性的语言人为膨胀自我，暴露说话者自身缺乏**[[Humility|谦逊]]**。子路在孔子面前"率尔而对"——"给我一个千乘之国……三年之内，我就能使百姓有勇且知方向"——孔子"哂之"。子路的言辞"在中文中相当有文采"，但孔子不以为然，因为"在他所说的东西里没有丝毫的敬让"([[Argument_Li_2012_Cambridge|Li, 2012, pp.98-99]])。
 
 ## 三种对应美德
 
@@ -116,7 +116,7 @@ updated: 2026-05-24
 
 > [!tip]-
 > - [[Self-Cultivation]] — 修身的目标是行动中的道德卓越，而非言语中的精妙
-> - [[Learning Virtues]] — "行勝於言"与[[Humility in Learning\|谦虚]]（不自我吹嘘）和诚心（言行一致）直接关联
+> - [[Learning Virtues]] — "行勝於言"与[[Humility\|谦虚]]（不自我吹嘘）和诚心（言行一致）直接关联
 > - [[Chinese Learner]] — 该概念直接解释了"中国学习者为何沉默"的文化逻辑
 > - [[University Motto]] — 清华校训是最具代表性的制度化表达
 

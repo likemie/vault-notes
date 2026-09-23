@@ -11,7 +11,7 @@ title: "Argument_Thompson_2022_Promising_Student"
 argument_key: "Argument_Thompson_2022_Promising_Student"
 argument_display_title: "Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University"
 argument_kind: "book"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Digital Optimum]]"
   - "[[Bildung]]"
   - "[[Constructed Knowledge]]"
+  - "[[Open-Mindedness]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Governmentality]]"
@@ -145,7 +146,7 @@ OSA 运作的技术-主体机制如下(pp.224–226)：
 
 - **技术-社会想象** 完美的学习环境的想象与强烈的个体化绑定在一起。Masschelein & Simons(2010a)所说的每个个体的"学习轨迹"（trajectory of learning）得到确认(p.227)
 - **可预测性的限度** 当前的方法缺乏（高等）教育中一个根本性的理念——教育与 [[Bildung]] 与一个开放的、不可预测的未来相关，超越了数据的相关性(p.227)。表征逻辑和学生-数据的对应关系以及可预测性的理念，破坏了这一潜能
-- **批判实践的消解** 大学是[[Constructed Knowledge|建构知识]]和进行审议的场所。如果每个人都只在自己的学习环境中移动，学术交流的开放性将被削弱。当学业成功成为预测和聚合概率的事情时，与他人的交流变得无关紧要(p.227)
+- **批判实践的消解** 大学是[[Constructed Knowledge|建构知识]]和进行审议的场所。如果每个人都只在自己的学习环境中移动，学术交流的[[Open-Mindedness|开放性]]将被削弱。当学业成功成为预测和聚合概率的事情时，与他人的交流变得无关紧要(p.227)
 - **高等教育的缩小** 那些更麻烦、更具困扰性的学习体验——阅读和写作中的延迟、尚未准备好被提出的问题——既是障碍，也是资源。高等教育需要对学科进行批判性参与：学生在面对被呈现为知识的东西时采取立场。处于危险之中的正是**批判的实践（the exercise of critique）**——从[[Immanuel Kant|康德]]到法兰克福学派到 Foucault，批判一直被视为高等教育中重新打开思考和探索空间的核心知识实践(p.227)
 
 ## 主要发现
@@ -157,7 +158,7 @@ OSA 运作的技术-主体机制如下(pp.224–226)：
 - [[Online Self-Assessment|OSA]] 的三种战略功能：发现天赋、降低成本和风险、完善大学形象/教育品牌(pp.223–224)
 - 数据化使大学获得通过"成功相关性"分析来管理不确定性的能力，OSA 使"问题学生"在入学前就被识别(p.224)
 - [[Digital Self|数字自我]]（digital self）与[[Digital Optimum|数字最优]]（digital optimum）之间的差异驱动算法治理，呼唤学生的风险管理和自我优化行为(p.226)
-- 当前发展存在三个根本限度：可预测的[[Paradigm|范式]]忽视教育的开放性；个体化轨迹削弱学术公共空间；批判的实践——高等教育中重新打开思考和探索空间的能力——面临消解风险(p.227)
+- 当前发展存在三个根本限度：可预测的[[Paradigm|范式]]忽视教育的[[Open-Mindedness|开放性]]；个体化轨迹削弱学术公共空间；批判的实践——高等教育中重新打开思考和探索空间的能力——面临消解风险(p.227)
 
 ## 关键引用
 

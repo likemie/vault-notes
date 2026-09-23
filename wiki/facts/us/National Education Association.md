@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Whole Person Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[International Education]]"
-  - "[[Dialogue in Education]]"
   - "[[Paradigm]]"
   - "[[School Choice]]"
   - "[[Performance Pay]]"
@@ -127,7 +126,7 @@ updated: 2026-09-22
 
 > [!indicators]- 影响力维度与指标
 > - **会员组织规模** 全美逾 300 万会员，覆盖学前、基础教育及高等教育，系全美最大单一劳工组织。
-> - **跨国协商建制** 联合创设的 [[International Summits on the Teaching Profession\|ISTP]] 峰会被[[OECD\|经合组织]]确立为“[[International Education\|国际教育]]治理史上绝无仅有的突破”（Bangs, 2020），开创了政府与工会平等基于实证[[Dialogue in Education\|对话]]的新[[Paradigm\|范式]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 211)]]
+> - **跨国协商建制** 联合创设的 [[International Summits on the Teaching Profession\|ISTP]] 峰会被[[OECD\|经合组织]]确立为“[[International Education\|国际教育]]治理史上绝无仅有的突破”（Bangs, 2020），开创了政府与工会平等基于实证对话的新[[Paradigm\|范式]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 211)]]
 > - **学术研究引用** NEA 发布的 4C 框架被 [[Argument_Park_2026_TSC\|Park et al. (2026)]] 等大规模[[Meta-analysis\|元分析]]学者引为实证论证[[Critical Thinking\|批判性思维]]与[[Creativity\|创造力]]共生关系的国家级机构依据。[[Argument_Park_2026_TSC\|(Park et al., 2026, p. 1)]]
 
 > [!finding-cards] 关键成效与辐射影响

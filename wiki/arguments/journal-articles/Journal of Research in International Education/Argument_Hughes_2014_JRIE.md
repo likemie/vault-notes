@@ -36,7 +36,8 @@ related_concepts:
   - "[[Knowledge Framework]]"
   - "[[Knowledge Production]]"
   - "[[Necessary and Sufficient Conditions]]"
-related_theories: []
+related_theories:
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Documentary Analysis]]"
   - "[[Domain Analysis]]"
@@ -56,7 +57,7 @@ title: "Argument_Hughes_2014_JRIE"
 argument_key: "Argument_Hughes_2014_JRIE"
 argument_display_title: "Theory of Knowledge aims, objectives and assessment criteria: An analysis of critical thinking descriptors"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -158,7 +159,7 @@ issuing_organization: ""
 
 ### 二　ToK 的课程身份在批判性思维与认识论之间发生偏移
 
-Hughes (2014, pp. 35–36) 将 2013 年 ToK 指南的课程结构概括为四个大纲部分，并说明这些部分如何进入论文和展示两项评估任务。
+[[Argument_Hughes_2014_JRIE|Hughes (2014, pp. 35–36)]] 将 2013 年 ToK 指南的课程结构概括为四个大纲部分，并说明这些部分如何进入论文和展示两项评估任务。
 
 > [!ref-table] 2013 年 ToK 指南的课程结构
 > | 层级 | 组成 | 内容与功能 |
@@ -178,7 +179,7 @@ Hughes (2014, pp. 35–36) 将 2013 年 ToK 指南的课程结构概括为四个
 > 4. 在一个或多个知识领域中比较知识生产方式，并用[[Knowledge Framework\|知识框架]]组织比较。
 > 5. 通过论文或展示形成论证，联系不同观点、真实情境与知识领域。
 
-> [!claim] 课程标签强调批判性思维，课程结构却主要组织知识建构问题
+> [!claim] 课程标签强调批判性思维，课程结构却主要组织[[Knowledge Building Theory|知识建构]]问题
 > ToK 将知识主张、知识问题、八种[[Ways of Knowing\|认知方式]]和八个[[Areas of Knowledge\|知识领域]]组织为课程主干，关注个人知识与共享知识如何形成。指南六次以批判性思维描述课程，同时没有使用[[Epistemology\|认识论]]一词。实际课程内容侧重知识如何被建构，较少直接要求问题解决、批判或评价，课程标签与内容重心因而出现错位。（pp.35–37）
 
 > [!chain-link] 从课程结构到身份判断
@@ -245,7 +246,7 @@ Hughes (2014, pp. 35–36) 将 2013 年 ToK 指南的课程结构概括为四个
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **课程身份错位** ToK 的课程标签强调[[Critical Thinking\|批判性思维]]，实际结构至少同等程度上聚焦[[Epistemology\|认识论]]和[[Knowledge Production\|知识建构]]。（pp.36, 41）
+> 1. **课程身份错位** ToK 的课程标签强调[[Critical Thinking\|批判性思维]]，实际结构至少同等程度上聚焦[[Epistemology\|认识论]]和[[Knowledge Building Theory|知识建构]]。（pp.36, 41）
 > 2. **内部对齐不完整** 课程目标、评估目标和任务标准在[[Knowledge Questions\|知识问题]]、不同观点与真实情境方面相互呼应，但文化视角、个人反思、责任与行动等目标没有进入评分描述符。（pp.40–41）
 > 3. **[[Construct\|构念]]覆盖过窄** 批判性阅读、来源评价、推论、预测、[[Hypothesis\|假设]]检验、不确定性判断、决策、[[Problem Solving\|问题解决]]和创造等重要分支缺席，使 ToK 不能充分测量其声称代表的批判性思维构念。（pp.41–43）
 

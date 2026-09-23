@@ -10,9 +10,9 @@ title: "Argument_Teng_2025_CE"
 argument_key: "Argument_Teng_2025_CE"
 argument_display_title: "Migration for school choice: urbanisation and rural social stratification in China"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Comparative Education"
 citation: "Teng, Y. & Wang, D. (2025). Migration for school choice: urbanisation and rural social stratification in China. Comparative Education, 61(2), 300-316."
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Causality]]"
   - "[[Value Neutrality]]"
+  - "[[Open-Mindedness]]"
   - "[[Academic Attrition]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
@@ -177,7 +178,7 @@ source_language: en
 > [!chain-link] 证据到判断
 > - **村校撤并的强制推力** 自 2000 年代初以来，国家强力推行农村学校合并（[[Rural School Consolidation\|农村学校撤并]]）政策。从 2000 年至 2022 年，中国农村小学的数量减少了 83%，即由 440,284 所跌至 76,093 所 (p.304)。农村学校大范围消失，导致大量学龄儿童面临长途通勤困难和食宿条件落后的处境，构成逼迫家庭离村的强大推力。
 > - **小城镇建设的政策拉力** 地方政府为推动小城镇建设、发展县域地产和繁荣城镇经济，有意通过教育服务集聚人口。G县教育局副局长在访谈中直言不讳地指出，政府鼓励农村居民搬迁到城镇，教育应当配合城市发展，通过在县城新建更多高标准学校来容纳并留住那些流向城镇的农村人口 (p.307)。
-> - **入学政策的行政松绑** G县政府在新建3号学校（2016年）及X号学校（2021年）时，暂停了传统的[[Hukou System\|户籍制度]]（Hukou System）壁垒，实行不设户口限制、不收[[School Choice\|择校]]费的开放性招生。X号学校校长确认，该校致力于向全县所有的孩子开放，不设置户籍限制。
+> - **入学政策的行政松绑** G县政府在新建3号学校（2016年）及X号学校（2021年）时，暂停了传统的[[Hukou System\|户籍制度]]（Hukou System）壁垒，实行不设户口限制、不收[[School Choice\|择校]]费的[[Open-Mindedness|开放性]]招生。X号学校校长确认，该校致力于向全县所有的孩子开放，不设置户籍限制。
 > - **数据与流向佐证** 调查[[Questionnaire\|问卷]]显示，72% 的陪读家庭表示搬迁的首要原因是为了获得更好的教育质量。生源在城镇学校的大量积聚与村庄学校的急剧[[Attrition\|流失]]，可以通过以下两份实证数据表（表 2、表 3）得到清晰证实 (p.306)。
 
 > [!ref-table]- 表 2：县城与乡镇小学的跨学区农村生源占比 (2017/2018 学年)

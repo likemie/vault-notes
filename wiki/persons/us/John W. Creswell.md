@@ -9,7 +9,7 @@ summary: "美国当代著名混合方法与质性研究方法论学者，系统�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 47
+person_related_count: 46
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -42,7 +42,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Scientific Method]]"
   - "[[Document]]"
-  - "[[Dialogue in Education]]"
   - "[[Ontology]]"
   - "[[Nominalism]]"
   - "[[Scaffolding]]"
@@ -77,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # John W. Creswell
@@ -196,7 +195,7 @@ updated: 2026-09-18
 
 ## 关系网络
 
-克雷斯维尔身处方法论学术网络的核心枢纽，其学术互动映射出现代[[Paradigm|研究范式]]从分裂走向[[Dialogue in Education|对话]]的演变过程。
+克雷斯维尔身处方法论学术网络的核心枢纽，其学术互动映射出现代[[Paradigm|研究范式]]从分裂走向对话的演变过程。
 
 > [!person-network] 关系网络
 > - **核心学术合作者** [[J. David Creswell]]（儿子兼合著者，卡内基梅隆大学心理学教授，拓展神经科学与健康心理学交叉）；Vicki L. Plano Clark（长期核心合著者，辛辛那提大学教授，共同奠立设计拓扑学）；Cheryl N. Poth（阿尔伯塔大学教授，合著质性五路径新版）。

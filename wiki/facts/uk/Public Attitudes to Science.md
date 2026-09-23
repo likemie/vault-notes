@@ -12,7 +12,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 22
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Deficit Model of Science Communication]]"
   - "[[Science Journalism]]"
   - "[[Solutions Journalism]]"
-  - "[[Dialogue in Education]]"
   - "[[Scientific Misinformation]]"
   - "[[Patient and Public Involvement]]"
   - "[[Science Capital]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-09-16
+updated: 2026-09-22
 ---
 
 # Public Attitudes to Science
@@ -128,7 +127,7 @@ updated: 2026-09-16
 > - **彻底废除单向[[Deficit Model of Science Communication\|赤字模型]]** 仅 12% 的决策参与感表明，传统的单向普及模式已无法满足现代公民诉求，政府与科研机构必须在立项与决策初期引入公众审议（Public Deliberation）与双向协商机制。
 > - **强化[[Science Journalism\|科学新闻]]护栏与解决方案倡导** 面对公众对冲突信息的困惑与仅 40% 的真实性感知，科学界需深化与新闻界合作，通过[[Solutions Journalism\|建设性新闻]]提供希望与解决方案，并依托科学家 87% 的公信力重建健康的信息生态。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, pp. 59–63)]]
 > - **重塑产业研发透明度与推进 AI 民主审议** 针对私企科学家仅 47% 的信任度与 AI 仅 33% 的利益认同度，产业界必须打破封闭研发与碎片化公关模式，依托 10% 政府采购《[[The Social Value Model\|社会价值模型]]》等政策杠杆，将公众协商与以患者/用户为中心的参与机制深度内嵌于技术全生命周期。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, pp. 69–73)]]
-> - **建立透明循证与前瞻公共[[Dialogue in Education\|对话]]的治理闭环** 75% 的专家建言信任与 12% 的决策边缘化矛盾表明，公众既高度信赖科学家，又强烈渴望在政策全流程拥有知情权与参与感；政府必须告别暗箱操作，推行法定《科学证据陈述》（Scientific Evidence Statements），并在新兴颠覆性科技萌芽期常态化推行平权公共对话。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 86–88)]]
+> - **建立透明循证与前瞻公共对话的治理闭环** 75% 的专家建言信任与 12% 的决策边缘化矛盾表明，公众既高度信赖科学家，又强烈渴望在政策全流程拥有知情权与参与感；政府必须告别暗箱操作，推行法定《科学证据陈述》（Scientific Evidence Statements），并在新兴颠覆性科技萌芽期常态化推行平权公共对话。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 86–88)]]
 
 ---
 

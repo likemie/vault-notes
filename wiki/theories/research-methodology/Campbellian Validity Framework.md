@@ -8,7 +8,7 @@ aliases:
 summary: "Donald Campbell等创立的因果推断与效度评估系统理论，确立了内部效度、外部效度、构念效度与统计结论效度四分体系，主张以系统排除替代解释为因果建立前提，并为多质多法（MTMM）收敛效度检验奠定基础。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 51
+theory_related_count: 52
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Threats to Internal Validity]]"
   - "[[Attrition]]"
   - "[[Definition of Terms]]"
+  - "[[Open-Mindedness]]"
   - "[[Threats to External Validity]]"
   - "[[Interaction Effect]]"
   - "[[Academic Achievement]]"
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Campbellian Validity Framework
@@ -152,7 +153,7 @@ updated: 2026-09-17
 ### 命题二　外部效度具有结构性评估不对称性且无法与内部效度截然剥离
 
 > [!proposition-chain] 核心命题二｜外部效度具有结构性评估不对称性且无法与内部效度截然剥离
-> - **前提一（威胁开放性与目标未知性）** 与内部效度拥有清晰编目的有限威胁清单不同，[[Threats to External Validity\|外部效度威胁]]高度开放且难以穷尽；审查者通常无法预先知晓决策者希望推广至哪类具体微观情境。[[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015, pp. 462–463)]]
+> - **前提一（威胁[[Open-Mindedness|开放性]]与目标未知性）** 与内部效度拥有清晰编目的有限威胁清单不同，[[Threats to External Validity\|外部效度威胁]]高度开放且难以穷尽；审查者通常无法预先知晓决策者希望推广至哪类具体微观情境。[[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015, pp. 462–463)]]
 >   > [!evidence-grid]- 证据
 >   > - **证据一（基线描述的双重功能）** 对基线环境与受试者特征的详尽描述，既服务于内部效度（界定处理对比的纯洁性），又同时为外部效度（判定现实情境相似度）提供关键信息。[[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015, p. 463)]]
 > - **前提二（实践中门控而非评分）** 主流清算中心（如 [[What Works Clearinghouse\|WWC]]）仅将内部效度作为刚性打分门槛，而对外部效度仅做定性“描述”并转交终端用户裁量。

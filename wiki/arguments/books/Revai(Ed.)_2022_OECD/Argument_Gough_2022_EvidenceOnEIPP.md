@@ -7,7 +7,7 @@ title: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_key: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_display_title: "Evidence on evidence-informed policy and practice"
 argument_kind: "book-chapter"
-argument_related_count: 73
+argument_related_count: 71
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -74,7 +74,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
-  - "[[Dialogue in Education]]"
   - "[[Teaching Assistant]]"
   - "[[Recommendations for Practice]]"
   - "[[Scaffolding]]"
@@ -90,7 +89,6 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Internal Validity]]"
   - "[[Classroom Management]]"
-  - "[[Growth]]"
   - "[[Sage]]"
   - "[[Output-Oriented Governance]]"
   - "[[Causality]]"
@@ -302,7 +300,7 @@ sources:
 > - **研究生产与综合（置于右侧，破除推送惯性）**
 >   - **初级研究生产** 构成底层实证土壤；
 >   - **研究综合所得** 提炼出概念性证据与工具性证据。
-> - **中介机制** 处于左右两侧核心构件之间，承担双向[[Dialogue in Education\|对话]]、协同参与与证据转译的枢纽职能。
+> - **中介机制** 处于左右两侧核心构件之间，承担双向对话、协同参与与证据转译的枢纽职能。
 > - **构图注记** 模型特意将研究生产置于右侧，坚决防范将证据使用视作自左向右单向推送（Push）知识的机械过程。
 
 #### 2. 有效性中心历史轨迹展现由单纯信息传播向实施落地的战略转向
@@ -544,7 +542,7 @@ sources:
 > - **准实验因果评估设计与终极学业产出测量**
 >   为验证中介指南推广活动能否真正改善最终受益人福祉，EEF 委托英国财政研究所（Institute for Fiscal Studies, IFS；Sibieta & Sianesi, 2019）开展独立因果评估。研究依托英格兰[[National Pupil Database\|国家学生数据库]]（National Pupil Database, NPD），结合[[Propensity Score Matching\|倾向得分匹配]]与[[Difference-in-Differences\|双重差分]]模型（Difference-in-Differences），以其他未参与战役地区的相似学校作为对照组。
 > - **全链条因果验证发现**
->   评估不仅追踪到了参与学校在排课制度、助教课堂协同模式上的深层制度调整（阶段性机制达成），更在终极产出上证实：**参与该推广活动的学校中，11 岁学生在全国统考（Key Stage 2, KS2）中阅读与数学标准化成绩均展现出统计学显著的正向学业增益（相当于额外获得数个月的学业[[Growth\|成长]]进展）**。该案例成功实现了从“中介指南发布—学校组织制度重塑—终极学生学业改善”的全链条严密因果检验。
+>   评估不仅追踪到了参与学校在排课制度、助教课堂协同模式上的深层制度调整（阶段性机制达成），更在终极产出上证实：**参与该推广活动的学校中，11 岁学生在全国统考（Key Stage 2, KS2）中阅读与数学标准化成绩均展现出统计学显著的正向学业增益（相当于额外获得数个月的学业成长进展）**。该案例成功实现了从“中介指南发布—学校组织制度重塑—终极学生学业改善”的全链条严密因果检验。
 
 > [!case] 质询反思案例：政府科学顾问机制因果评估缺位与狂牛病（BSE）/ 新冠危机反思（Hinchliffe, 2001; Gough, 2020, p. 157）
 > 与教育领域积极探索因果评估形成鲜明对照的是，嵌入国家核心决策的政府科学顾问机制在自我成效评估上长期处于缺位状态：

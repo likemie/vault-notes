@@ -8,7 +8,7 @@ summary: "奥地利-德国哲学家与数学家，现象学奠基人，提出悬
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_methods:
 related_persons:
   - "[[Mark Schneider]]"
   - "[[Immanuel Kant]]"
+  - "[[Christopher Martin]]"
   - "[[René Descartes]]"
   - "[[Alfred Schutz]]"
 related_facts: []
@@ -53,7 +54,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Edmund Husserl
@@ -85,7 +86,7 @@ updated: 2026-09-22
 > - **1900–1901年** 出版两卷本《逻辑研究》（*Logical Investigations*），系统性驳斥心理学主义，确立纯粹逻辑的客观理想性，标志着[[Phenomenology\|现象学]]作为独立哲学校派的正式诞生。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 2]]
 > - **1901–1916年** 任教于哥廷根大学，期间形成哥廷根现象学圈子。1913年发表《纯粹现象学和现象学哲学的观念第一卷》（*Ideas I*），确立“先验现象学”纲领，将意识阐发为万物意义的源泉，并系统阐发[[Epoché\|悬置]]（epoché）方法。
 > - **1914–1918年（一战期间）** 承受重大个人打击。次子沃尔夫冈（Wolfgang Husserl）于1916年凡尔登战役中阵亡；长子格哈特（Gerhart Husserl）负伤；母亲于同年病逝；杰出弟子阿道夫·赖纳赫（Adolf Reinach）于1917年阵亡于弗兰德斯战场。
-> - **1916–1928年** 接替新[[Immanuel Kant\|康德]]主义者海因里希·李凯尔特（Heinrich Rickert）担任弗莱堡大学讲席教授。埃迪特·施泰因（Edith Stein）于1916至1918年担任私人助手，马丁·海德格尔（Martin Heidegger）于1920至1923年接任助手。1928年正式退休，由海德格尔接任教席。
+> - **1916–1928年** 接替新[[Immanuel Kant\|康德]]主义者海因里希·李凯尔特（Heinrich Rickert）担任弗莱堡大学讲席教授。埃迪特·施泰因（Edith Stein）于1916至1918年担任私人助手，[[Christopher Martin|马丁]]·海德格尔（Martin Heidegger）于1920至1923年接任助手。1928年正式退休，由海德格尔接任教席。
 > - **1929年** 在巴黎索邦大学举办讲座，后整理发表为《[[René Descartes\|笛卡尔]]式的沉思》（*Cartesian Meditations*，1931），系统阐明先验自我与主体间性（Intersubjectivity）的构成理论。同年因海德格尔在《存在与时间》中以“此在”（Dasein）取代纯粹先验自我，两人哲学分歧彻底公开化。
 > - **1933–1936年（纳粹迫害）** 因犹太裔血统遭受纳粹政权严重迫害。1933年4月被停职并剥夺大学图书馆使用权，后因阵亡军人家属条款一度缓期，但最终在1936年被彻底取消授课资格。海德格尔出任纳粹治下的弗莱堡大学校长，胡塞尔宣布退出德国科学院。其弟子埃迪特·施泰因后于1942年殉难于奥斯威辛集中营。
 > - **1935–1936年** 受邀前往布拉格和维也纳发表演讲，整理出版《欧洲科学的危机与先验现象学》（*The Crisis of European Sciences*，1936），系统提出“生活世界”（Lifeworld）理论。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2–3]]
@@ -171,7 +172,7 @@ updated: 2026-09-22
 >   - **卡尔·魏尔斯特拉斯（Karl Weierstrass）** 柏林时期的数学导师，启发了将数学对象视为本质构造的思维方式。
 >   - **托马斯·加里格·马萨里克（[[Theory of Mind\|ToM]]áš Garrigue Masaryk）** 莱比锡时期的导师与密友，引导其转向人文哲学思考并引介布伦塔诺。
 > - **学生／继承者**
->   - **马丁·海德格尔（Martin Heidegger）** 助手并接任弗莱堡大学教席，但其在《存在与时间》中用“此在”替代纯粹先验自我，导致两人哲学决裂。
+>   - **[[Christopher Martin|马丁]]·海德格尔（Martin Heidegger）** 助手并接任弗莱堡大学教席，但其在《存在与时间》中用“此在”替代纯粹先验自我，导致两人哲学决裂。
 >   - **埃迪特·施泰英（Edith Stein）** 早期私人助手，协助整理核心手稿，对[[Phenomenology\|现象学]]实在论维度做出了重要贡献。
 >   - **[[Alfred Schutz\|阿尔弗雷德·舒茨]]（Alfred Schutz）** 现象学社会学奠基人，将胡塞尔先验意识与生活世界理论[[Transfer Translation Transformation\|转译]]至社会行动与日常知识库存研究中。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 >   - **欧根·芬克（Eugen Fink）** 晚期私人助手与学术协作者，宣读其葬礼悼词。
@@ -196,7 +197,7 @@ updated: 2026-09-22
 > > [!axis] 海德格尔的[[Paradigm\|范式]]分歧：先验意识还原 vs. 存在论此在
 > > 胡塞尔与海德格尔围绕现象学的哲学核心爆发了分歧并最终决裂。
 > > - **胡塞尔（Husserl）** 坚持现象学必须是纯粹意识的先验科学，主张通过[[Epoché\|悬置]]（epoché）方法达到绝对的先验自我，并严厉警惕任何形式的经验心理学主义或人类学降维。
-> > - **马丁·海德格尔（Martin Heidegger）** 主张将现象学引向存在论与解释学，用“此在”（Dasein）概念取代绝对的先验自我，强调人首先是前反思“在世生存”的具身存在。
+> > - **[[Christopher Martin|马丁]]·海德格尔（Martin Heidegger）** 主张将现象学引向存在论与解释学，用“此在”（Dasein）概念取代绝对的先验自我，强调人首先是前反思“在世生存”的具身存在。
 >
 > > [!axis] 先验立场与历史主义（Historicism）的张力
 > > 学界争议胡塞尔晚期著作《欧洲科学的危机》中引入历史主义叙事是否削弱了现象学的超历史科学主张。

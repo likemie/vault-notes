@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Dependent Variable]]"
   - "[[Inquiry-Based Learning]]"
-  - "[[Growth]]"
   - "[[Direct Instruction]]"
   - "[[Ecological Validity]]"
   - "[[Computer Simulation]]"
@@ -151,7 +150,7 @@ updated: 2026-09-22
 
 > [!lessons] 经验教训与启示
 > - **避免纯技术堆砌** 平台早期尝试过复杂的 3D 渲染，但发现过度的视觉花哨反而分散了学生的注意力并加重了外在认知负荷；后期的界面设计高度克制，紧密围绕“[[Knowledge Integration\|知识整合]]”认知目标开展减负设计。
-> - **必须提供即时成效感** [[Inquiry-Based Learning\|探究学习]]若让学[[Growth\|生长]]时间处于困惑中容易诱发挫败感；WISE 成功引入 NLP 自动化即时批改，使学生在修改科学论述时能获得实时正向激励，显著提升了学习依从度。
+> - **必须提供即时成效感** [[Inquiry-Based Learning\|探究学习]]若让学生长时间处于困惑中容易诱发挫败感；WISE 成功引入 NLP 自动化即时批改，使学生在修改科学论述时能获得实时正向激励，显著提升了学习依从度。
 
 ---
 

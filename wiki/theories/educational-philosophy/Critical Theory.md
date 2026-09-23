@@ -5,7 +5,7 @@ aliases:
 summary: "以哈贝马斯认识兴趣三分法为核心的社会理论范式，旨在通过意识形态批判和变革实践解放被压迫群体，推动社会民主与平等。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 28
+theory_related_count: 29
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Theoretical Perspective]]"
   - "[[Ideal Speech Situation]]"
+  - "[[Open-Mindedness]]"
   - "[[Praxis]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-16
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Critical Theory
@@ -104,7 +105,7 @@ updated: 2026-09-17
 > - **意识形态（Ideology）** 来自特定支配群体的价值观和实践，通过它们，权力群体以"普遍利益"为名推进和合法化其部门利益，压制被剥夺权力群体的利益。
 > - **可普遍化利益（Generalizable Interests）** 意识形态的判定标准——如果某一行为原则不能在所有人之间普遍化（即一个人的自由以压制另一个人的自由为代价），则该利益不具合法性。
 > - **[[Ideology Critique]]**（意识形态批判） 批判理论的核心方法论，通过反思实践揭示被压制的利益，暴露虚假意识的运作，并推动变革。
-> - **[[Ideal Speech Situation\|理想言说情境]]（Ideal Speech Situation）** 哈贝马斯后期提出的概念，指所有参与者作为平等者进行不受约束的对称沟通的理想条件。沟通的开放性和无约束性是达成真正共识的前提。在[[Action Research\|行动研究]]中，这意味着研究者与参与者之间没有层级，只有对称沟通。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 275–276)]]
+> - **[[Ideal Speech Situation\|理想言说情境]]（Ideal Speech Situation）** 哈贝马斯后期提出的概念，指所有参与者作为平等者进行不受约束的对称沟通的理想条件。沟通的[[Open-Mindedness|开放性]]和无约束性是达成真正共识的前提。在[[Action Research\|行动研究]]中，这意味着研究者与参与者之间没有层级，只有对称沟通。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 275–276)]]
 > - **实践（[[Praxis]]）** 行动研究语境中的核心概念，定义为通过反思赋予信息并以解放为目标的行动。实践融合了理论与实践，在平等主义社会秩序中运作，使行动研究从技术操作升级为政治事业。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, p. 273)]]
 
 ---

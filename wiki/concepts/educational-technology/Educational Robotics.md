@@ -21,13 +21,13 @@ tags:
 related_concepts:
   - "[[Avatar]]"
   - "[[Teaching Assistant]]"
-  - "[[Dialogue in Education]]"
   - "[[Presence]]"
   - "[[Champ]]"
   - "[[Computational Thinking]]"
   - "[[Gamification]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Conversational AI in Education]]"
+  - "[[Dialogue in Education]]"
   - "[[Tracking]]"
   - "[[Scaffolding]]"
   - "[[Constructivist Paradigm]]"
@@ -58,7 +58,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 教育机器人（Educational Robotics / AI Educational Robotics）是指应用于教育教学情境中、具备物理实体具身（Physical Embodiment）或高度外显拟人化虚拟[[Avatar\|化身]]（Virtual Avatar）的人工智能交互系统。该系统整合了机器视觉、语音识别、自然语言处理与多模态感知技术，能够以同伴学习者（Peer Learner）、教学助手（[[Teaching Assistant]]）或陪伴导师（Companion Tutor）的社会性角色，与学生展开面对面的口语[[Dialogue in Education\|对话]]、手势示范与触觉协同操作。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2–3, 6)]]
+> 教育机器人（Educational Robotics / AI Educational Robotics）是指应用于教育教学情境中、具备物理实体具身（Physical Embodiment）或高度外显拟人化虚拟[[Avatar\|化身]]（Virtual Avatar）的人工智能交互系统。该系统整合了机器视觉、语音识别、自然语言处理与多模态感知技术，能够以同伴学习者（Peer Learner）、教学助手（[[Teaching Assistant]]）或陪伴导师（Companion Tutor）的社会性角色，与学生展开面对面的口语对话、手势示范与触觉协同操作。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2–3, 6)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于无物理形态的纯屏幕软件，教育机器人具有“具身性”（Embodiment）与社会存在感（Social [[Presence]]），通过动作、视线接触与空间物理位置建立沉浸式人机互动[[Champ\|场域]]。
@@ -103,7 +103,7 @@ updated: 2026-09-22
 > - **1980年代 结构主义与 LOGO 龟图机器人** 西摩·尔派特（Seymour Papert）开创[[Constructivist Paradigm\|建构主义]]机器人教育，通过物理海龟小车引导儿童学习编程与空间几何。
 > - **2000年代 模块化可编程套件普及** LEGO Mindstorms 等套件风靡全球，确立了面向青少年 [[STEM Education\|STEM]] 工程与[[Computational Thinking\|计算思维]]竞赛的教育机器人[[Paradigm\|范式]]。
 > - **2010年代 社交机器人（Social Robots）与拟人化伴读** NAO、Pepper 等仿人机器人进入中小学与特殊教育课堂，聚焦自闭症干预与外语口语伴读。
-> - **2020年代 具身大模型与多模态生成式机器人** 结合端侧大模型与视觉语言动作（Vision-Language-Action, VLA）架构，教育机器人实现开放式多轮[[Dialogue in Education\|对话]]与自主情境感知。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026)]]
+> - **2020年代 具身大模型与多模态生成式机器人** 结合端侧大模型与视觉语言动作（Vision-Language-Action, VLA）架构，教育机器人实现开放式多轮对话与自主情境感知。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026)]]
 
 ---
 

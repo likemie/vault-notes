@@ -6,7 +6,7 @@ aliases:
 summary: "认识论认知中衡量知识是驻留于外部权威还是由主体内部积极建构的核心维度，在数字多文本时代进一步拓展为对信息源资质、立场与可信度的批判性评估规程。"
 type: concept
 domain: "educational-psychology"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Justificatory Standards]]"
   - "[[Chain of Evidence]]"
   - "[[Certainty of Knowledge]]"
+  - "[[Open-Mindedness]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Task Structure]]"
   - "[[Learner Autonomy]]"
@@ -60,7 +61,7 @@ related_arguments:
 status: active
 confidence: high
 created: 2026-08-14
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Source of Knowledge
@@ -91,7 +92,7 @@ updated: 2026-09-22
 > |---|---|---|---|---|
 > | **知识来源（Source of Knowledge）** | 知识由谁产生、驻留在何处？ | 知识驻留在全知权威手中，学习是个体被动接收传授的真理 | 知识是由个体或共同体基于经验与批判性质询主动建构的 | 面对不同信源时，主动审视作者资质与潜在利益偏差 |
 > | **确证标准（[[Justificatory Standards]]）** | 知识主张如何被证明是有效和可靠的？ | 诉诸权威断言或毫无依据的直觉偏好（眼见为实或随意臆测） | 依据跨学科经验数据、逻辑推导与审慎的规则系统进行批判性辩护 | 在论证中权衡相互矛盾的[[Chain of Evidence\|证据链]]，给出概率性理由 |
-> | **知识确定性（[[Certainty of Knowledge]]）** | 知识的真理状态是绝对永恒还是暂时的？ | 坚信所有领域都存在唯一标准答案，真理确定且不可动摇 | 认识到知识具有情境性、演进性与开放性，随时接受新反例修正 | 面对科学争议时保持认知开放，不因结论可变而全盘否定科学 |
+> | **知识确定性（[[Certainty of Knowledge]]）** | 知识的真理状态是绝对永恒还是暂时的？ | 坚信所有领域都存在唯一标准答案，真理确定且不可动摇 | 认识到知识具有情境性、演进性与[[Open-Mindedness\|开放性]]，随时接受新反例修正 | 面对科学争议时保持认知开放，不因结论可变而全盘否定科学 |
 > | **知识结构简易性（[[Simplicity of Knowledge]]）** | 知识是孤立碎片还是相互交织的复杂网络？ | 知识由相互割裂的事实、孤立公式与静态定义碎片拼合而成 | 知识是由高度整合的理论概念、因果命题与系统网络有机交织 | 善于在复杂[[Task Structure\|劣构任务]]中寻找跨领域的潜在联结与深层规律 |
 
 ---

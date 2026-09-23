@@ -7,10 +7,10 @@ aliases:
   - 证据素养
   - 科学探究素养
   - Scientific Literacy for Citizenship
-summary: "个体理解科学运作机制、批判性评估多源证据质量、接纳科学知识暂定性与不确定性，并在日常生活和公共审议中做出理性判断的核心公民素养，涵盖科学本质理解、证据辨析、认识论实践与抵御虚假信息的认知免疫机制。"
+summary: 个体理解科学运作机制、批判性评估多源证据质量、接纳科学知识暂定性与不确定性，并在日常生活和公共审议中做出理性判断的核心公民素养，涵盖科学本质理解、证据辨析、认识论实践与抵御虚假信息的认知免疫机制。
 type: concept
 domain: "competency-and-assessment"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -48,8 +48,9 @@ related_concepts:
   - "[[Scientific Uncertainty]]"
   - "[[Citizen Science]]"
   - "[[Paradigm]]"
+  - "[[Open-Mindedness]]"
   - "[[Examination-Oriented Education]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Document]]"
   - "[[Output-Oriented Governance]]"
@@ -83,7 +84,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Scientific Literacy
@@ -174,7 +175,7 @@ updated: 2026-09-22
 > **全员科学教育的社会民主价值** 科学教育的双重目标并非零和博弈；为全体年轻人提供扎实的科学探究体验与证据评估能力，不仅是维系民主社会理性协商的基石，也是扩大[[Science Capital\|科学资本]]、吸引多元背景人才进入科技领域的根本途径。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 30–32)]]
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]
-> **参与[[Epistemic Practices\|认识论实践]]培育民主审议理性** 稳健科学教育的基石在于引导学生深度参与学科认识论实践。这种参与不仅让学生掌握证据评估的微观规程，更能使他们领会[[Knowledge Production\|知识生产]]共同体的核心民主价值（说服优于强制、思想开放优于教条盲从、审慎考量备选方案），为在公共领域中作为有[[Bildung\|教养]]的现代公民理性审议科技争议奠定[[Epistemology\|认识论]]能动性。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 140, 161)]]
+> **参与[[Epistemic Practices\|认识论实践]]培育民主审议理性** 稳健科学教育的基石在于引导学生深度参与学科认识论实践。这种参与不仅让学生掌握证据评估的微观规程，更能使他们领会[[Knowledge Production\|知识生产]]共同体的核心民主价值（说服优于强制、[[Open-Mindedness|思想开放]]优于教条盲从、审慎考量备选方案），为在公共领域中作为有[[Bildung\|教养]]的现代公民理性审议科技争议奠定[[Epistemology\|认识论]]能动性。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 140, 161)]]
 
 ---
 
@@ -184,7 +185,7 @@ updated: 2026-09-22
 > 传统[[Examination-Oriented Education\|应试教育]]将科学歪曲为绝对确定事实的集合，阻碍了学生对真实科研探索逻辑的领会。
 
 > [!claim] Kerr et al. (2022)
-> **透明沟通不确定性强化公众信任** 大规模代表性公众[[Randomised Controlled Trials\|随机对照实验]]证实：无论是采用数值[[Confidence Interval\|置信区间]]还是定性限定词，向公众坦诚披露科学证据的局限性与不确定性，绝不会削弱公众对科学事实或科学家个人的信任；相反，[[Epistemology\|认识论]]上的[[Humility in Learning\|谦逊]]能显著提升公众对科学家的诚[[Reliability\|信度]]感知。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 62)]]
+> **透明沟通不确定性强化公众信任** 大规模代表性公众[[Randomised Controlled Trials\|随机对照实验]]证实：无论是采用数值[[Confidence Interval\|置信区间]]还是定性限定词，向公众坦诚披露科学证据的局限性与不确定性，绝不会削弱公众对科学事实或科学家个人的信任；相反，[[Epistemology\|认识论]]上的[[Humility\|谦逊]]能显著提升公众对科学家的诚[[Reliability\|信度]]感知。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 62)]]
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]]
 > **破除确定性神话与抵御极端怀疑论** 缺乏对[[Scientific Uncertainty\|科学不确定性]]的理性认知，是公众走向反智主义与阴谋论的重要诱因；当公众误以为科学是绝对真理时，一旦科学界因新证据而修正早期共识（如防疫指导动态更新），便会产生严重的被背叛感；理解暂定性与自我纠错是科学素养的核心防御武器。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 30)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 62)]]

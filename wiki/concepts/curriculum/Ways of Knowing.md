@@ -40,7 +40,6 @@ related_concepts:
   - "[[Socioscientific Issues]]"
   - "[[Chain of Evidence]]"
   - "[[Heterogeneity]]"
-  - "[[Knowledge Production]]"
   - "[[Evidence Standards]]"
   - "[[Operationalization]]"
   - "[[Critical Thinking]]"
@@ -50,7 +49,8 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Knowledge Questions]]"
   - "[[Rationalism in International Relations]]"
-related_theories: []
+related_theories:
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Domain Analysis]]"
   - "[[Correlational Research]]"
@@ -162,7 +162,7 @@ updated: 2026-09-22
 ### 命题一　多种认知方式在具体情境中协同互动，构成个体经验通向共享知识的认识论桥梁
 
 > [!concept-lens] 认知资源互动与建构机制
-> 探讨感知、情感、语言、理性等要素如何打破机械孤立状态，在真实认知过程中协同完成[[Knowledge Production\|知识建构]]。
+> 探讨感知、情感、语言、理性等要素如何打破机械孤立状态，在真实认知过程中协同完成[[Knowledge Building Theory|知识建构]]。
 
 > [!claim] Darwish, M.
 > **认知资源连续反馈与判断建构** 认知方式绝非彼此封闭的心智容器。在真实的求知活动中，感官知觉接收经验刺激，情感与文化背景赋予刺激以显著性关注，语言将隐性感受转化为可交流的概念表述，而理性则进一步建立推理秩序与因果关联。四者构成连续互动与动态反馈的闭环系统，任何单一维度的偏差都将沿着认识链条影响最终的知识判断。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 16–17, 72)]]

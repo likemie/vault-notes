@@ -25,10 +25,10 @@ tags:
   - theme/vocational-education
   - theme/human-rights
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Lifelong Learning]]"
   - "[[Transfer Translation Transformation]]"
   - "[[International Education]]"
+  - "[[Dialogue in Education]]"
   - "[[Development Turn in Comparative Education]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -64,7 +64,7 @@ updated: 2026-09-12
 > - **成立时间 / 创设背景** 1919 年《凡尔赛和约》第十三编设立，随国际联盟（League of Nations）同步创立；确立于"持久和平必须以社会公正为基础"的建立宗旨。1946 年成为联合国框架下第一个专门机构，是战后仅存的两个在 1945 年前已参与全球教育与劳工议题的国际组织之一（另一为[[UNESCO\|联合国教科文组织]]前身）。
 > - **总部地点 / 业务辐射** 总部设于瑞士日内瓦，设有 40 余个国家和地区办事处，187 个成员国，覆盖全球大多数劳动力市场与职业培训体系。
 > - **法人属性与经费基础** 独立的联合国专门机构，经费由成员国法定分摊会费（Regular Budget）和联合国开发计划署（UNDP）等技术合作经费共同构成。
-> - **核心职责** 制定并监督国际劳工标准（International Labour Standards，ILS）、促进"体面劳动"（Decent Work）四大战略目标（就业促进、劳工权利保障、社会保护与社会[[Dialogue in Education\|对话]]），通过职业技能开发标准深度介入正规与非正规教育体系。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
+> - **核心职责** 制定并监督国际劳工标准（International Labour Standards，ILS）、促进"体面劳动"（Decent Work）四大战略目标（就业促进、劳工权利保障、社会保护与社会对话），通过职业技能开发标准深度介入正规与非正规教育体系。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
 
 ---
 
@@ -83,7 +83,7 @@ updated: 2026-09-12
 > [!actor-grid] 组织治理架构
 > - **最高决策机构（国际劳工大会）** 每年在日内瓦召开，各成员国政府代表 2 名、雇主代表 1 名与工人代表 1 名参加，以"四方代表"实为政府方拥有相对多数的三方协商立法论坛。
 > - **执行监督机构（理事会）** 由 56 名成员组成（28 个政府、14 个雇主、14 个工人），主持遴选总干事、确定战略优先项与预算拨款。
-> - **秘书处与执行机构（国际劳工局）** 总部常设机构（即"国际劳工局"，International Labour Office），下设就业、劳工保护、社会[[Dialogue in Education\|对话]]与职业标准等业务部门。
+> - **秘书处与执行机构（国际劳工局）** 总部常设机构（即"国际劳工局"，International Labour Office），下设就业、劳工保护、社会对话与职业标准等业务部门。
 > - **规范性产出（公约与建议书）** 通过国际劳工大会审议通过的国际劳工公约（Conventions）具有国际条约法律效力，成员国批准后受监督机制约束；建议书（Recommendations）提供政策指南但不具强制性。
 
 > [!pathways]- 业务运行机制

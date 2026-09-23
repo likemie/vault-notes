@@ -9,7 +9,7 @@ title: "Argument_Rambla_2022_Springer"
 argument_key: "Argument_Rambla_2022_Springer"
 argument_display_title: "Imaginaries of Education and Innovation in the European Union"
 argument_kind: "book"
-argument_related_count: 42
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Lifelong Learning]]"
   - "[[Geopolitics of Knowledge]]"
-  - "[[Dialogue in Education]]"
   - "[[Knowledge Production]]"
   - "[[Regulatory Regionalism]]"
   - "[[Learner Autonomy]]"
@@ -111,7 +110,7 @@ Rambla 的[[Analytic Framework|分析框架]]由三个核心概念和一个宏�
 > "选择性"（selectivity）在 Jessop(2007)的策略关系国家理论（strategic-relational approach）中指政策工具和制度安排并非中立的筛选器——它们在结构设计上就倾向于使某些政策替代方案比另一些更容易被识别、被认真对待、被采纳。Jessop 的关键洞见是：这不是决策者有意的偏见或偏袒，而是工具本身的结构性特征。在自由主义经济秩序的框架下，欧盟的就业和经济政策"不可避免地使决策者聚焦于某些议题而忽略其他"(p.166, 174)。Rambla 将这一概念应用于欧盟绩效指标体系的分析，揭示其在创新领域（优先研发密集型创新、排斥社会创新）和[[Lifelong Learning\|终身学习]]领域（优先就业匹配、排斥人的全面发展）的选择性效应。详见 [[Selectivity]]。
 
 > [!tip]- 宏观语境：[[Geopolitics of Knowledge\|知识地缘政治]]
-> Rambla 将上述分析置于 [[Geopolitics of Knowledge]](Mignolo, 2002; Moisio, 2019)的宏观框架中：知识、政治与地理空间并非相互独立的领域，而是深度交织的。后殖民学术传统(Mignolo, 2002)和批判地理学(Moisio, 2019)已开启了关于三者关系的富有成果的[[Dialogue in Education\|对话]]。欧盟通过绩效指标绘制区域地图、分类排名并据此分配资源和注意力，本身就是一种"知识地缘政治"的操作——通过[[Knowledge Production\|知识生产]]（统计排名）来塑造地理空间中的权力关系(p.163, 176)。这一视角也与 [[Regulatory Regionalism]] 的讨论相通：超国家组织通过指标、排名等监管机制对区域内高等教育进行间接治理。
+> Rambla 将上述分析置于 [[Geopolitics of Knowledge]](Mignolo, 2002; Moisio, 2019)的宏观框架中：知识、政治与地理空间并非相互独立的领域，而是深度交织的。后殖民学术传统(Mignolo, 2002)和批判地理学(Moisio, 2019)已开启了关于三者关系的富有成果的对话。欧盟通过绩效指标绘制区域地图、分类排名并据此分配资源和注意力，本身就是一种"知识地缘政治"的操作——通过[[Knowledge Production\|知识生产]]（统计排名）来塑造地理空间中的权力关系(p.163, 176)。这一视角也与 [[Regulatory Regionalism]] 的讨论相通：超国家组织通过指标、排名等监管机制对区域内高等教育进行间接治理。
 
 
 ## 研究方法

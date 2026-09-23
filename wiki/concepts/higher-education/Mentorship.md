@@ -4,7 +4,7 @@ aliases:
   - 导师制
   - 导师关系
   - mentor
-summary: "更有经验者通过示范、辅导、支架与支持促进新手专业、认知和个人发展的过程，在科学精英传承与高阶思维教学干预中发挥核心催化作用"
+summary: 更有经验者通过示范、辅导、支架与支持促进新手专业、认知和个人发展的过程，在科学精英传承与高阶思维教学干预中发挥核心催化作用
 type: concept
 domain: "higher-education"
 related_count: 22
@@ -25,10 +25,10 @@ related_concepts:
   - "[[Document]]"
   - "[[Research Topic]]"
   - "[[Authentic Instruction]]"
-  - "[[Dialogue in Education]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Creativity]]"
   - "[[Paradigm]]"
+  - "[[Dialogue in Education]]"
   - "[[Causality]]"
   - "[[Metacognition]]"
   - "[[Mentorship Recognition]]"
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Mentorship
@@ -116,8 +116,8 @@ updated: 2026-09-22
 > - **知识独立性（Intellectual Independence）** 受训者在展示对导师的“知识独立”时取得最高学术成就——即在研究成熟后开辟独立于导师的[[Research Topic\|研究主题]]，并维持适度合著比例，而非终身依附于导师课题（Ma et al., 2020）。
 
 > [!feature] 教学干预中的认知催化与身教示范
-> - **认知催化剂功能（Catalytic Capacity）** 导师指导在独立实施时增益有限，但在学生置身于复杂真实任务（[[Authentic Instruction\|真实性教学]]）与同伴论辩（[[Dialogue in Education\|对话]]研讨）时，导师的精准反馈能够化解认知停滞，产生协同放大效应。
-> - **思维倾向的身教示范** 导师的学术求真、智识[[Humility in Learning\|谦逊]]与反思习惯为受训者提供了最直观的角色榜样（Role Model），对塑造[[Critical Thinking\|批判性思维]]倾向具有最强推动力（[[Argument_Abrami_2015_RER\|Abrami et al., 2015]]）。
+> - **认知催化剂功能（Catalytic Capacity）** 导师指导在独立实施时增益有限，但在学生置身于复杂真实任务（[[Authentic Instruction\|真实性教学]]）与同伴论辩（对话研讨）时，导师的精准反馈能够化解认知停滞，产生协同放大效应。
+> - **思维倾向的身教示范** 导师的学术求真、智识[[Humility\|谦逊]]与反思习惯为受训者提供了最直观的角色榜样（Role Model），对塑造[[Critical Thinking\|批判性思维]]倾向具有最强推动力（[[Argument_Abrami_2015_RER\|Abrami et al., 2015]]）。
 
 > [!logic-map]- 导师制双重运行机制模型
 > ```mermaid
@@ -146,7 +146,7 @@ updated: 2026-09-22
 > 探讨导师个别化指导在独立实施与复合教学情境中的效应差异。
 
 > [!claim] Abrami, P. C., et al.
-> **导师制的催化功能（Catalytic Capacity）** [[Meta-analysis\|元分析]]证据显示，当导师制孤立实施时，其促进[[Critical Thinking\|批判性思维]]的效果相对有限（$g+ = 0.13, k=5$）；然而，当导师指导与[[Authentic Instruction\|真实性教学]]（应用型解题）及深度[[Dialogue in Education\|对话]]（师生/同伴研讨）相结合时，干预效应跃升至峰值（$g+ = 0.57, k=19$），且显著优于仅有真实情境与对话的双重组合（$z = 1.98, p = .024$）。这表明导师的核心功能在于充当认知脚手架与催化剂，在学生面对复杂真实任务并展开论辩时提供及时的专家示范与瓶颈点拨。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 294–295, 298)]]
+> **导师制的催化功能（Catalytic Capacity）** [[Meta-analysis\|元分析]]证据显示，当导师制孤立实施时，其促进[[Critical Thinking\|批判性思维]]的效果相对有限（$g+ = 0.13, k=5$）；然而，当导师指导与[[Authentic Instruction\|真实性教学]]（应用型解题）及深度对话（师生/同伴研讨）相结合时，干预效应跃升至峰值（$g+ = 0.57, k=19$），且显著优于仅有真实情境与对话的双重组合（$z = 1.98, p = .024$）。这表明导师的核心功能在于充当认知脚手架与催化剂，在学生面对复杂真实任务并展开论辩时提供及时的专家示范与瓶颈点拨。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 294–295, 298)]]
 
 ### 命题二　知识独立性与跨领域整合是导师制促成学术突破的核心机制
 

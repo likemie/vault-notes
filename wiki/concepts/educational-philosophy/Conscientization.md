@@ -8,7 +8,7 @@ aliases:
 summary: "由弗莱雷提出的概念，指学习者觉察自身在社会与文化压迫结构中位置的过程，是通往实践行动与成长的必要前提"
 type: concept
 domain: "educational-philosophy"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Culture of Silence]]"
-  - "[[Growth]]"
   - "[[Praxis]]"
 related_theories: []
 related_methods: []
@@ -33,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: '2026-08-27'
+updated: 2026-09-22
 ---
 
 # Conscientization
@@ -43,7 +42,7 @@ updated: '2026-08-27'
 ## 定义
 
 > [!def] 核心定义
-> 批判意识觉醒（Conscientization / Conscientização）是[[Critical Pedagogy\|批判教育学]]的核心概念。在[[Paulo Freire\|弗莱雷]]（Paulo Freire）与 Darwish (2009) 的论述中，批判意识觉醒不仅指学习者认识到自身生活中的社会、政治与经济现实及不公正统治，更是克服传统教育强加的“[[Culture of Silence\|沉默文化]]”、实现[[Growth\|成长]]与通往实践（[[Praxis]]）行动的根本机制 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 7–8, 10)]]。
+> 批判意识觉醒（Conscientization / Conscientização）是[[Critical Pedagogy\|批判教育学]]的核心概念。在[[Paulo Freire\|弗莱雷]]（Paulo Freire）与 Darwish (2009) 的论述中，批判意识觉醒不仅指学习者认识到自身生活中的社会、政治与经济现实及不公正统治，更是克服传统教育强加的“[[Culture of Silence\|沉默文化]]”、实现成长与通往实践（[[Praxis]]）行动的根本机制 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 7–8, 10)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 学习者从被动的盲从状态走向对自身生存境遇与权力关系的深刻省察。

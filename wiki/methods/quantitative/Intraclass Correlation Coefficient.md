@@ -11,7 +11,7 @@ summary: "用于度量多层嵌套或集群数据中同组观测值之间相似�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 48
+method_related_count: 47
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Ecological Fallacy]]"
   - "[[Gatekeepers]]"
   - "[[Reliability]]"
-  - "[[Growth]]"
   - "[[Independent Variable]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
@@ -78,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Intraclass Correlation Coefficient
@@ -121,7 +120,7 @@ updated: 2026-09-18
 > | **评分者一致性（Inter-rater）** | 评分客体间方差 vs 评分者偏差及误差 | Shrout & Fleiss (1979) 六种模型（如 ICC(2,1)） | 检验多位主观打分专家评价标准的一致性与绝对一致度 | 课堂教学观察量表教师评分[[Reliability\|信度]]检验 |
 
 > [!method-stack] 方法层级
-> - **研究设计** 集群[[Randomised Controlled Trials\|随机对照试验]]（Cluster RCT）、多阶段分层[[Cluster Sampling\|整群抽样]]、纵向[[Growth\|生长]]模型。
+> - **研究设计** 集群[[Randomised Controlled Trials\|随机对照试验]]（Cluster RCT）、多阶段分层[[Cluster Sampling\|整群抽样]]、纵向生长模型。
 > - **数据收集** 行政考分普查数据（NPD）、大样本心理测验、结构化课堂观察评分。
 > - **分析方法** 单因素随机效应[[Analysis of Variance\|方差分析]]（ANOVA Random Effects）、限制性极大似然法（REML）两层空模型。
 > - **辅助技术** 设计效应（Design Effect）公式换算、[[Effective Sample Size\|有效样本量]]折算、小集群小样本[[Confidence Interval\|置信区间]]构建。

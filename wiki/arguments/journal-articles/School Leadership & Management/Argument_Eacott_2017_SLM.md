@@ -9,7 +9,7 @@ title: "Argument_Eacott_2017_SLM"
 argument_key: "Argument_Eacott_2017_SLM"
 argument_display_title: "School leadership and the cult of the guru: The neo-Taylorism of Hattie"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -42,7 +42,6 @@ related_concepts:
   - "[[Instructional Leadership]]"
   - "[[Transformative Leadership]]"
   - "[[Scientism]]"
-  - "[[Growth]]"
   - "[[Return on Investment]]"
   - "[[Variable]]"
   - "[[Reflexivity]]"
@@ -50,8 +49,8 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Initial Teacher Training]]"
+  - "[[Cognitive Deskilling]]"
   - "[[Teacher Professional Agency]]"
-  - "[[Dialogue in Education]]"
   - "[[Academic Achievement]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Cultural Disembedding]]"
@@ -173,7 +172,7 @@ updated: 2026-09-16
 
 罗宾逊等（2008）通过[[Meta-analysis|元分析]]证明了[[Instructional Leadership|教学领导力]]优于[[Transformative Leadership|变革型领导力]]，并引入[[Effect Size|效应量]]，重新点燃了管理层对教学领导力的兴趣。然而，罗宾逊的研究仅指出了促进教师学习等宏观维度（ES = 0.84），未能解决教师在课堂中具体做什么这一微观技术问题（p.417）。[[John Hattie|哈蒂]]的《VL》恰逢其时地填补了这一空白，其[[Meta-meta-analysis|元-元分析]]庞大的数据库体量顺应了将[[Randomised Controlled Trials|随机对照试验]]（RCTs）奉为黄金标准的[[Scientism|科学主义]]潮流，为科层系统提供了无可比拟的科学严谨性幻觉（p.418）。
 
-哈蒂将效应量 d = 0.40 设定为“铰链点”（hinge point），并宣称其等同于学生在一个学年内的正常[[Growth|成长]]。这个等式将极度依赖特定情境的教学体验降维为单一的数值：
+哈蒂将效应量 d = 0.40 设定为“铰链点”（hinge point），并宣称其等同于学生在一个学年内的正常成长。这个等式将极度依赖特定情境的教学体验降维为单一的数值：
 - **循证决策的表格化** 校长可以像挑选股票一样进行“[[Return on Investment|投资回报]]”（[[Return on Investment|ROI]]）审计，支持效应量高于 0.40 的干预措施，砍掉低于 0.40 的措施（p.418）。
 - **科学管理的中介化** 这复刻了泰勒在工厂车间通过秒表和动作分解去除经验法则的做法。哈蒂将教学还原为孤立的、按效应量排序的干预[[Variable|变量]]，为管理者提供了实施科学管理的精密中介（p.419）。
 - **商业网络的推波助澜** 在商业利益的驱使下，哈蒂与 ACEL and Corwin 出版公司结成商业推广联盟，兜售VL培训产品，使大量学校主动剪裁特色，将自己标识为“哈蒂学校”，展示了学术权威与组织利益之间前[[Reflexivity|反思性]]的[[Ontological Complicity|本体论共谋]]（p.419）。
@@ -189,7 +188,7 @@ updated: 2026-09-16
 
 早在 1950 和 60 年代，以库伯森（Jack Culbertson, 1981）为代表的“理论运动”曾试图引入赫伯特·西蒙（[[Herbert A. Simon|Herbert Simon]]）的行政行为学说和逻辑[[Positivism|实证主义]]，建立一门预测性的教育行政科学，但以失败告终。哈蒂则通过创建一门看似可操作的教学科学，实现了这一夙愿（p.419）。哈蒂本人长期担任 [[Australian Institute for Teaching and School Leadership|AITSL]] 主席，使VL和绩效数据逻辑直接[[Transfer Translation Transformation|转译]]为国家教师与校长专业标准、以及学校年度绩效考核的铁律。墨尔本大学甚至开发了 TeacherSelector 软件，在入口端对[[Initial Teacher Training|初始教师教育]]（ITE）申请者进行“科学筛选”（p.421）。至此，从入职筛选、国家标准到日常考核，哈蒂品牌完成了与国家科层行政权力的合谋。
 
-> [!tension] 去技能化与科学筛选的幻觉
+> [!tension] [[Cognitive Deskilling|去技能化]]与科学筛选的幻觉
 > 这种将教学分割为最小可测量单元并按图索骥的改进方式，不仅是对泰勒制[[Assemblage\|装配]]线的模仿，更是对[[Teacher Professional Agency\|教师专业自主权]]的彻底瓦解。教师不再是具有情境感知和反思能力的专业人士，而沦为哈蒂效应量清单下照本宣科的流水线工人。这正是澳大利亚[[School Leadership\|学校领导力]]的真正悲剧（p.422）。
 
 ---
@@ -198,7 +197,7 @@ updated: 2026-09-16
 
 正如唐莫耶和加洛韦（Donmoyer & Galloway, 2010）指出，没有任何研究能够以决定性的方式告诉我们“在高度独特和复杂的教育情境中什么有效”（p.421）。教育工作本身不是单一的，师生和学校的关系也不是单一的。在教育和社会科学中追求一门“大一统理论”（theory of everything）本身就是极其成疑的尝试。
 
-将哈蒂的 mega-analysis 奉为不可置疑的标准，假定元分析的样本是绝对稳定和等值的，并强行向学校推行单一版本的教育模式，极大地窄化了民主的[[Dialogue in Education|对话]]与论辩。澳大利亚学校领导力社群需要的是更严谨、更稳健的研究，以及更重要的对话与辩论，而不是盲目顺从于某一个特定的教父（p.422）。
+将哈蒂的 mega-analysis 奉为不可置疑的标准，假定元分析的样本是绝对稳定和等值的，并强行向学校推行单一版本的教育模式，极大地窄化了民主的对话与论辩。澳大利亚学校领导力社群需要的是更严谨、更稳健的研究，以及更重要的对话与辩论，而不是盲目顺从于某一个特定的教父（p.422）。
 
 ---
 
@@ -223,11 +222,11 @@ updated: 2026-09-16
 > [!finding-cards] 核心发现
 > 1. **理性修辞的主导与[[School Leadership\|学校领导力]]的行政退化** 澳大利亚在面临 NAPLAN 和 [[PISA]] 成绩缓慢下滑时，行政系统出于规避衰退的理性恐慌，将改进窄化为寻找某种标准化、确定性的技术工具，[[John Hattie\|哈蒂]]的VL填补了管理者的“行政话语饥渴”（p.415）。
 > 2. **哈蒂品牌商业帝国的建立与学校自我合规** 哈蒂自 2009 年起与 ACEL and Corwin 出版公司结盟，将学术理论包装为高度排他性的商业培训品牌，导致大量学校为谋求合规而自我标识为“哈蒂学校”（p.419）。
-> 3. **数据账本与[[Neo-Taylorism\|新泰勒主义]]微观控制的制度深锁** 哈蒂[[Effect Size\|效应量]]账本将复杂的教学体验降维为 d = 0.40 的度量衡，且通过哈蒂担任 [[Australian Institute for Teaching and School Leadership\|AITSL]] 主席的身份内嵌于国家教师与校长专业标准中，实现了“无数据即无学习”的微观监控，构成了教师去专业化与去技能化的新泰勒主义管理悲剧（pp.421–422）。
+> 3. **数据账本与[[Neo-Taylorism\|新泰勒主义]]微观控制的制度深锁** 哈蒂[[Effect Size\|效应量]]账本将复杂的教学体验降维为 d = 0.40 的度量衡，且通过哈蒂担任 [[Australian Institute for Teaching and School Leadership\|AITSL]] 主席的身份内嵌于国家教师与校长专业标准中，实现了“无数据即无学习”的微观监控，构成了教师去专业化与[[Cognitive Deskilling|去技能化]]的新泰勒主义管理悲剧（pp.421–422）。
 
 > [!stat-cards]- 核心数据
 > - **800** 哈蒂[[Meta-meta-analysis\|元-元分析]]所整合的[[Meta-analysis\|元分析]]总数（项），共包含 52,637 项独立实证研究，涉及约 2.4 亿学生样本。（p.418）
-> - **d = 0.40** 改进效果的铰链点（Hingepoint），被哈蒂宣称等同于学生在一学年里的正常学业[[Growth\|成长]]量，成为行政决策的底层[[Return on Investment\|ROI]]标尺。
+> - **d = 0.40** 改进效果的铰链点（Hingepoint），被哈蒂宣称等同于学生在一学年里的正常学业成长量，成为行政决策的底层[[Return on Investment\|ROI]]标尺。
 > - **ES = 0.84** 罗宾逊元分析中“促进与参与教师的学习与发展”维度的效应量，是[[Instructional Leadership\|教学领导力]]影响学生成绩最高的维度。（p.417）
 
 ---
@@ -254,7 +253,7 @@ updated: 2026-09-16
 > 
 > Original: The partitioning of teaching into smallest measurable units, a piecemeal articulation of how to improve student learning, is not too removed from the work of Taylor over 100 years ago.
 
-> [!citation-card]- 呼唤理性[[Dialogue in Education\|对话]]与民主论辩
+> [!citation-card]- 呼唤理性对话与民主论辩
 > 将自己主体化于某个单一人物之下，就是将该人物提升到了“教父”的地位。澳大利亚学校领导力共同体更需要的是更严谨、更稳健的工作，以及更重要的对话与辩论（哈蒂也应当是其中的一部分），而不是盲目追随某一个教父。（p.422）
 > 
 > Original: To subjectify oneself to a single figure is to elevate that individual to guru status. What the Australian school leadership community arguably needs is more rigorous and robust work and more significantly, dialogue and debate (to which Hattie is a part) not the blind adherence to a single guru.

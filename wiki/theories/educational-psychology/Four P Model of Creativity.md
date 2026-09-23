@@ -9,7 +9,7 @@ aliases:
 summary: "由罗兹提出的经典创造力全域整合分析框架，将创造力系统解构为人（Person）、过程（Process）、产品（Product）与压力/环境（Press）四个交互维度，构成创造力心理学与教育实证研究的奠基性元理论。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 36
+theory_related_count: 37
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Predictive Validity]]"
   - "[[Dependent Variable]]"
+  - "[[Open-Mindedness]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Four P Model of Creativity
@@ -169,7 +170,7 @@ updated: 2026-09-17
 
 > [!exegesis]- 教育研究例子：项目式跨学科 STEAM 课堂中的 4P 协同
 > 在一项检验跨学科 STEAM 项目式教学（PBL）对学生创造力提升的准[[Experimental Research\|实验研究]]中：
-> 1. **Press（环境塑造）** 教师设计开放性真实劣构工程挑战（如设计低碳社区模型），建立免除评价焦虑的小组协作文化与显式原创性指导语；
+> 1. **Press（环境塑造）** 教师设计[[Open-Mindedness|开放性]]真实劣构工程挑战（如设计低碳社区模型），建立免除评价焦虑的小组协作文化与显式原创性指导语；
 > 2. **Person（主体激活）** 任务激活了不同学科背景学生的经验开放性与创造性[[Self-Efficacy\|自我效能感]]，破除了传统唯智商论的筛选门槛；
 > 3. **Process（认知重构）** 学生经历“[[Problem Finding\|问题发现]] → 多方案发散 → 原型迭代 → 方案评估”的全流程认知加工，而非孤立做发散练习；
 > 4. **Product（产品物化）** 最终小组产出实体设计原型，由跨学科专家采用[[Consensual Assessment Technique\|同感评估技术]]（[[Consensual Assessment Technique\|CAT]]）进行盲评。

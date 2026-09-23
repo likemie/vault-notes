@@ -28,8 +28,8 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Ecological Validity]]"
   - "[[Positivism]]"
+  - "[[Cognitive Deskilling]]"
   - "[[Reflexivity]]"
-  - "[[Dialogue in Education]]"
   - "[[Professional Judgment]]"
   - "[[Professional Learning Community]]"
   - "[[Research Literacy]]"
@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Cumulative Knowledge Base
@@ -168,7 +168,7 @@ updated: 2026-09-17
 > 探讨[[Positivism\|实证主义]]量化因果标准与一线复杂微观[[Phronesis\|实践智慧]]之间的动态平衡。
 
 > [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]; Greenhalgh et al. (2014)
-> **反教条化规则并捍卫教师作为知识型专业人员的专业主体地位** 汲取循证医学（EBM）深陷“指南泛滥、微小效应缺乏临床意义、刚性技术规则排挤个体关怀”五大意外后果的教训，教育累积性知识库绝不能异化为自上而下的算法指令或机械教学处方。课堂分析学与 AI 评分工具若试图将教学活动拆解（Unbundling）为离散的自动化单元，将不可避免地导致教师职业的“去技能化”（Deskilling）（Facer & Selwyn, 2021）。真正的累积性知识库必须将严谨因果证据定位为[[Reflexivity\|反思性]]专业[[Dialogue in Education\|对话]]的催化剂，高度尊重教师在微观情境中权衡调适证据的临床[[Professional Judgment\|专业判断]]（[[Professional Judgment\|专业判断]]）与实践智慧（[[Phronesis\|实践智慧]]），形成科学实证与扎根实践相融共生的知识大厦。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 65–67]])
+> **反教条化规则并捍卫教师作为知识型专业人员的专业主体地位** 汲取循证医学（EBM）深陷“指南泛滥、微小效应缺乏临床意义、刚性技术规则排挤个体关怀”五大意外后果的教训，教育累积性知识库绝不能异化为自上而下的算法指令或机械教学处方。课堂分析学与 AI 评分工具若试图将教学活动拆解（Unbundling）为离散的自动化单元，将不可避免地导致教师职业的“[[Cognitive Deskilling|去技能化]]”（Deskilling）（Facer & Selwyn, 2021）。真正的累积性知识库必须将严谨因果证据定位为[[Reflexivity\|反思性]]专业对话的催化剂，高度尊重教师在微观情境中权衡调适证据的临床[[Professional Judgment\|专业判断]]（[[Professional Judgment\|专业判断]]）与实践智慧（[[Phronesis\|实践智慧]]），形成科学实证与扎根实践相融共生的知识大厦。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 65–67]])
 
 ---
 
@@ -225,7 +225,7 @@ updated: 2026-09-17
 > |:-----|:-----|:-----|
 > | [[Educational Brokerage Agency]] | 概念 | 累积性知识库的生产、综合、评估与分发载体。 |
 > | [[Knowledge Mediation]] | 概念 | 建构累积性知识库的核心组织与社会关系互动过程。 |
-> | [[Professional Judgment]] | 概念 | 累积性知识库必须护持的核心实践基石，反对技术化去技能化。 |
+> | [[Professional Judgment]] | 概念 | 累积性知识库必须护持的核心实践基石，反对技术化[[Cognitive Deskilling\|去技能化]]。 |
 > | [[Research Literacy]] | 概念 | 决策者与教师吸收、审议与调适累积性知识库的必备资质。 |
 > | [[Heterogeneity]] | 概念 | 累积性知识库在方法学上必须有效应对与融合的核心挑战。 |
 > | [[Systematic Review]] | 方法 | 沉淀累积性知识基石的核心研究与综合方法。 |

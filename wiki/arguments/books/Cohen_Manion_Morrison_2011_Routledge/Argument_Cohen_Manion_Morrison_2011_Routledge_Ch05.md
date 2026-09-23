@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_display_title: "Research Methods in Education · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[Deception in Research]]"
   - "[[Privacy in Research]]"
   - "[[Academic Freedom]]"
+  - "[[Open-Mindedness]]"
   - "[[APA Style]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Research Question]]"
@@ -1005,7 +1006,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > | **公共透明** Public perspicuity | 对公众公开评估程序、目的和结果 |
 > | **人道** Humaneness | 对评估情境中参与者的感受和敏感性给予考虑 |
 > | **客户利益** Client benefit | 评估决定应尊重学生、家长和公众的利益，优先于教育机构及其员工的利益；将参与者视为主体而非研究饲料 |
-> | **[[Academic Freedom\|学术自由]]** Academic freedom | 维护课堂中教师和学生的思想开放氛围，评估不应冷却这一环境 |
+> | **[[Academic Freedom\|学术自由]]** Academic freedom | 维护课堂中教师和学生的[[Open-Mindedness\|思想开放]]氛围，评估不应冷却这一环境 |
 > | **尊重自主** Respect for autonomy | 教师有权在工作中享有合理的自由裁量和判断，评估不应不合理地限制这种自由裁量和判断 |
 
 ---

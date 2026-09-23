@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Problem Solving]]"
   - "[[Attrition]]"
-  - "[[Growth]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-09-22
 ---
 
 # HEFCE Learning Gain Project
@@ -96,4 +95,4 @@ updated: 2026-08-27
 > [!finding-cards] 影响与后果
 > - **政策影响** 确立了“[[Learning Gain\|学习增益]]（Learning Gain）”作为衡量高等教育质量与社会流动性的核心[[Analytic Framework\|分析框架]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17–18)]]
 > - **实践影响** 揭示了低利害统考在英国高校常态化推进中的动机[[Attrition\|流失]]挑战，促使政策重心向课程嵌入式评价倾斜。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 25–26)]]
-> - **知识影响** 精确量化了本科生[[Critical Thinking\|批判性思维]]在三年就读过程中的纵向[[Growth\|成长]]轨迹，为高教实证研究提供了丰厚数据支撑。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 18)]]
+> - **知识影响** 精确量化了本科生[[Critical Thinking\|批判性思维]]在三年就读过程中的纵向成长轨迹，为高教实证研究提供了丰厚数据支撑。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 18)]]

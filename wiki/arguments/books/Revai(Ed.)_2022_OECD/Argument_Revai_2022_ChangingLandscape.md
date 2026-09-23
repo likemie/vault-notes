@@ -7,7 +7,7 @@ title: "Argument_Revai_2022_ChangingLandscape"
 argument_key: "Argument_Revai_2022_ChangingLandscape"
 argument_display_title: "The changing landscape of research use in education"
 argument_kind: "book-chapter"
-argument_related_count: 63
+argument_related_count: 64
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -87,7 +87,8 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Christopher Martin]]"
 related_facts:
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
@@ -206,7 +207,7 @@ updated: 2026-09-15
 > - **与原始数据的严格划界** 该定义明确排除了未加工的数据与原始信息；单纯的事实积累与原始数据只有在为了特定目的被系统分析与探究时，才能被视作研究。（p.18）
 
 > [!theory-stance] 证据适切性的问题导向[[Epistemic Stances\|认识论立场]]
-> - **问题导向的证据适切观** 桑德拉·纳特利（Sandra Nutley）、马丁·鲍威尔（Martin Powell）与休·戴维斯（Hugh Davies）（Nutley et al., 2013）深刻批判了不顾[[Research Question\|研究问题]]而空谈证据等级的教条主义。决策者与一线教师不仅关心某项干预“是否起作用”，更需要理解“在何种情境下、对谁有效、为何起作用、实施成本与伴生风险是什么”。
+> - **问题导向的证据适切观** 桑德拉·纳特利（Sandra Nutley）、[[Christopher Martin|马丁]]·鲍威尔（Martin Powell）与休·戴维斯（Hugh Davies）（Nutley et al., 2013）深刻批判了不顾[[Research Question\|研究问题]]而空谈证据等级的教条主义。决策者与一线教师不仅关心某项干预“是否起作用”，更需要理解“在何种情境下、对谁有效、为何起作用、实施成本与伴生风险是什么”。
 > - **质性研究的不可替代性** 探究机制运转过程（How it works）以及教育意义感知（Does it matter）的核心问题，是随机对照试验（RCT）无法回答、而必须依赖质性研究深入挖掘的知识领地（Petticrew & Roberts, 2003）。（p.17）
 
 #### 2. 研究证据与实践知识具有根本异质性，研究的功能在于启发专业判断而非提供自动化处方
@@ -361,7 +362,7 @@ updated: 2026-09-15
 > [!index-table] 强化教育研究影响力的五大系统分析维度与核心探究问题（Figure 1.1 & Table 1.1）
 > | 系统分析维度（Dimensions） | 核心内涵与分析聚焦（Focus & Scope） | 核心探究问题（Key Questions） |
 > |---|---|---|
-> | **1. 结构与过程<br>（Structures and Processes）** | 聚焦国家与地方层面的中介机构、研发中心、网络平台及整体治理战略如何支持证据流动，重点考察各类中介机制如何被有效评估。(Révai, 2022, pp. 24–25) | <ul><li>我们该如何科学评估教育研究的影响力，以及支持研究利用的各类结构与过程？</li><li>哪些组织结构（如中介机构、研发网络）与行政规程能有效促成政策与实践中的研究使用？</li><li>何种系统层级的宏观战略与跨部门协调机制能够在全系统规模化放大教育研究的成效？</li></ul> |
+> | **1. 结构与过程<br>（Structures and Processes）** | 聚焦国家与地方层面的中介机构、研发中心、网络平台及整体治理战略如何支持证据流动，重点考察各类中介机制如何被有效评估。([[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, pp. 24–25]]) | <ul><li>我们该如何科学评估教育研究的影响力，以及支持研究利用的各类结构与过程？</li><li>哪些组织结构（如中介机构、研发网络）与行政规程能有效促成政策与实践中的研究使用？</li><li>何种系统层级的宏观战略与跨部门协调机制能够在全系统规模化放大教育研究的成效？</li></ul> |
 > | **2. 关系与网络<br>（Relationships）** | [[Evaluation Research\|评估研究]]者、官员、教师与第三方中介之间的互动质量、信任度与长效伙伴关系构建，探究深层社会资本对研究采纳的促进机制。 | <ul><li>在政策与实践中强化教育研究的影响力，需要建立哪些至关重要的社会关系？</li><li>行动者之间的长期互动网络与信任伙伴关系，究竟通过何种社会机制巩固并深化了研究的使用？</li></ul> |
 > | **3. 质量与相关性<br>（Quality and Relevance）** | 探索如何定义并测量研究利用的高质量（Quality Use of Research），从源头提高教育学术产出对政策与课堂的现实关涉度与[[Ecological Validity\|生态效度]]。 | <ul><li>我们该如何界定并评估政策制定与课堂教学中研究利用的高质量（Quality Use）？</li><li>我们该如何从源头上提升教育研究的内在方法学品质，并增强其对政策与教学现实痛点的关涉度？</li></ul> |
 > | **4. 文化与心态<br>（Culture and Mindset）** | 关注如何克服决策官员与教师对研究的冷漠甚至防备，培育实证决策文化，并重构大学评价与科研考核中对跨界协作的激励导向。 | <ul><li>我们该如何提升政策制定者与实践者的专业意识，树立系统化利用教育研究的积极正向文化心态？</li><li>组织层面与系统层面的专业领导力该如何协同发挥作用，推动形成尊重实证证据的决策文化？</li><li>我们该如何重构并革新现行大学与科研机构的学术激励体制，引导科研人员投身实践协同？</li></ul> |

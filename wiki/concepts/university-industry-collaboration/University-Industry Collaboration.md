@@ -10,7 +10,7 @@ aliases:
 summary: "大学与企业之间有目的的、对齐的合作关系，涵盖研究与学术、教育与学习、公共效益三大维度，区别于单纯的产学关系，强调正式协议框架下的深度参与"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 101
+related_count: 100
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -58,7 +58,6 @@ related_concepts:
   - "[[Strategic Partnership]]"
   - "[[Industry Affiliate Program]]"
   - "[[University-Based Research Center]]"
-  - "[[Dialogue in Education]]"
   - "[[Master Agreement]]"
   - "[[Proof of Concept Programs]]"
   - "[[Academic Engagement Team]]"
@@ -128,7 +127,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # University-Industry Collaboration
@@ -335,7 +334,7 @@ Hoffman 等人（2025, pp.108–113）按组织化程度从低到高排列了四
 
 三种成功要素被识别为任何联盟与联合体的基础（pp.105–108）：
 - **价值主张** 必须从企业角度定义、能在"电梯上升的短时间内讲清楚"。最常见的问题是：一线技术赞助人和大学教授清楚合作价值，但预算的真正决策者（企业高管层）不清楚
-- **关系经理** 双方都需要有明确责任的人认领关系，通过定期、不可跳过的会议维持[[Dialogue in Education|对话]]。关系经理还需要理解对方的预算和决策日历——企业预算周期往往与大学学术日历冲突
+- **关系经理** 双方都需要有明确责任的人认领关系，通过定期、不可跳过的会议维持对话。关系经理还需要理解对方的预算和决策日历——企业预算周期往往与大学学术日历冲突
 - **[[Master Agreement|主协议]]（Master Agreement）** 覆盖知识产权归属与使用、赔偿、治理结构、出版、保密等关键条款。理想的主协议长期不变，每隔几年审查一次以适应新法律。已有主协议的企业可以在年底未花完预算时快速拨款给大学——这是主协议的一个常被低估的价值
 
 ### 障碍与促进因素的动态演化

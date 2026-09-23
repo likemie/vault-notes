@@ -6,10 +6,10 @@ aliases:
 summary: "在量化实验研究中可能混淆自变量与因变量之间真实因果关系的系统性偏差来源，Campbell and Stanley 经典框架列出十种主要威胁，Onwuegbuzie and Leech 将其扩展至质性研究中的十二种威胁"
 type: concept
 domain: "research-methodology"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - method/research-methods
   - theme/validity
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Type I and Type II Errors]]"
   - "[[Attrition]]"
-  - "[[Growth]]"
   - "[[Null Hypothesis]]"
   - "[[Hypothesis]]"
   - "[[Descriptive Validity]]"
@@ -49,7 +48,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-06-23
-updated: 2026-08-20
+updated: 2026-09-22
 ---
 # Threats to Internal Validity
 
@@ -90,7 +89,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > [!example]- 受试者威胁的案例
 > **历史（History）** 一学期的数学教学法实验中，学校恰好推行了新的课后辅导政策。即使实验组[[Pre-test and Post-test\|后测]]成绩更高，也无法区分是教学法的效果还是课后辅导的效果。两组都经历了新政策时，这一威胁得到控制。
 >
-> **成熟（Maturation）** 为期一年的阅读[[Intervention Research\|干预研究]]中，对照组学生的阅读成绩也在提高，因为他们自然长大了、认知能力在发展。如果不设对照组，这些自然[[Growth\|成长]]会被误判为干预效果。选取同年级学生作为对照组可以控制这一威胁。
+> **成熟（Maturation）** 为期一年的阅读[[Intervention Research\|干预研究]]中，对照组学生的阅读成绩也在提高，因为他们自然长大了、认知能力在发展。如果不设对照组，这些自然成长会被误判为干预效果。选取同年级学生作为对照组可以控制这一威胁。
 >
 > **回归均值（Regression to the Mean）** 从全年级中选出数学成绩最差的 30 名学生进行补习。即使补习完全无效，他们的成绩也会在第二次测试中自然上升——第一次测试包含了偶然的低分（测量误差），这些偶然因素不会在第二次测试中重复。选择非极端得分的学生入组可以避免这一问题。
 >

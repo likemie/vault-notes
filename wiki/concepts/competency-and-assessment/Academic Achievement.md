@@ -508,7 +508,7 @@ updated: 2026-09-22
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hattie_2005_ACER\|Hattie (2005)]] — 确立了学业成就的六大方差源分解（教师占 30% 系统内最大可控核心），揭示 40 年宏观资源投入与 NAEP 成绩脱节悖论，并依托 [[Assessment Tools for Teaching and Learning\|asTTle]] 系统推动基于[[Learning Progression\|学业进阶]]与形成性反馈的评价模式。
-> - [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] — 通过大样本调查与组内平衡任务实验，揭示了中学[[Growth\|生长]]期总体学业成就（EOAA）的[[Epistemology\|认识论]]预测源，实证确立了[[Task Structure\|任务结构]]（良构 vs 劣构）对学业表现认识论制约效应的调节作用，并提供了[[Gender Differences in Academic Achievement\|学业成就性别差异]]与效标锚定（$r = .91$）的关键证据。
+> - [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] — 通过大样本调查与组内平衡任务实验，揭示了中学生长期总体学业成就（EOAA）的[[Epistemology\|认识论]]预测源，实证确立了[[Task Structure\|任务结构]]（良构 vs 劣构）对学业表现认识论制约效应的调节作用，并提供了[[Gender Differences in Academic Achievement\|学业成就性别差异]]与效标锚定（$r = .91$）的关键证据。
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 通过大规模[[Meta-analysis\|元分析]]系统考察了[[Epistemic Cognition\|认识论认知]]对不同类型学业成就的预测力，确立了认知加工深度[[Matching\|匹配法]]则（概念性/论证 vs 程序性）以及测试客观性[[Measurement Alignment\|对齐法则]]。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 针对 26 项实验与准实验[[Intervention Research\|干预研究]]开展[[Meta-analysis\|元分析]]，证实认识论认知教学干预对学业成就具有中等因果提升作用（Cohen's $d = 0.509$），并确立了成就类型的认知加工层级敏感性（论证 $d = 1.047$、概念 $d = 0.557$）与[[Inquiry-Based Learning\|指导式探究]]的优势。
 > - [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] — 将学业成就作为潜类别[[Multinomial Logistic Regression\|多项逻辑回归]]的协[[Variable\|变量]]，证明特定学科成绩能够有效预测学生的[[Epistemic and Ontological Cognition\|认识论与本体论认知]]阶段。

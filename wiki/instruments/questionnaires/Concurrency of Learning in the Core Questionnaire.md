@@ -6,7 +6,7 @@ aliases:
 summary: "测量国际文凭大学预科项目（IBDP）核心组件（TOK、CAS、EE）并发学习状态与跨组件连贯性的自陈式问卷，包含 17 道李克特量表题及 3 道简答题。"
 type: instrument
 instrument_type: questionnaire
-instrument_related_count: 16
+instrument_related_count: 17
 instrument_related_level: 3
 instrument_related_stars: "⭐⭐⭐"
 instrument_related_color: "#fef3c7"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Concurrency of Learning]]"
   - "[[Theory of Knowledge]]"
   - "[[International Education]]"
+  - "[[Open-Mindedness]]"
   - "[[Praxis]]"
   - "[[Creativity, Action, Service]]"
   - "[[Extended Essay]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-11
-updated: 2026-09-11
+updated: 2026-09-23
 ---
 
 # Concurrency of Learning in the Core Questionnaire
@@ -69,7 +70,7 @@ updated: 2026-09-11
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
 > | 并发学习感知与现状 | 17 | 学校对核心组件连贯性的支持程度、各组件间的连接情况、面临的困难等 | [[Likert Scale\|李克特量表]]（同意程度，具体级数原文未详述，通常为 5 点） |
-> | 开放性反馈 | 3 | 并发学习的具体良好[[Praxis\|实践]]、遇到的挑战以及改进建议 | 文本分析 / 简答 |
+> | [[Open-Mindedness\|开放性]]反馈 | 3 | 并发学习的具体良好[[Praxis\|实践]]、遇到的挑战以及改进建议 | 文本分析 / 简答 |
 
 ---
 

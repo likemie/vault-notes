@@ -9,7 +9,7 @@ title: "Argument_Hartmann_2022_CorporateEducation"
 argument_key: "Argument_Hartmann_2022_CorporateEducation"
 argument_display_title: "The Internationalisation of Further Education: Between Geoeconomics and Geopolitics"
 argument_kind: "book"
-argument_related_count: 14
+argument_related_count: 13
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Corporate Education]]"
   - "[[Corporate University]]"
   - "[[Document]]"
-  - "[[Dialogue in Education]]"
   - "[[Further Education]]"
   - "[[Soft Power]]"
   - "[[Lifelong Learning]]"
@@ -109,7 +108,7 @@ Berger & Luckmann(1966)补充了一个关键洞察：合法性不仅告诉你"�
 > [!info]
 > - **研究设计** 质性[[Case Study\|案例研究]]，基于作者 2016–2017 年进行的跨国公司（制药行业）[[Corporate Education\|企业教育]]策略试点研究（[[Pilot Testing\|pilot study]]）
 > - **数据来源** 对跨国制药公司的[[Semi-structured Interview\|半结构化访谈]]（[[Document\|文献]]引用编号 interview 1–24），辅以管理学和产业社会学的研究文献
-> - **分析路径** 以 Weber 式社会学制度主义（关键是三种同构类型）为分析透镜，结合产业社会学对 MNC 组织类型的分类，在理论框架与经验材料之间来回[[Dialogue in Education\|对话]]
+> - **分析路径** 以 Weber 式社会学制度主义（关键是三种同构类型）为分析透镜，结合产业社会学对 MNC 组织类型的分类，在理论框架与经验材料之间来回对话
 > - **性质** 探索性试点研究，旨在开辟新研究议程而非提供确定性结论
 
 

@@ -7,10 +7,10 @@ aliases:
   - 批判精神
   - CT Disposition
   - Critical Thinking Dispositions
-summary: "指个体在面对复杂问题时自发、持续运用批判性思维的内在动力、态度倾向与心智习性，与认知技能构成批判性思维的双元支柱"
+summary: 指个体在面对复杂问题时自发、持续运用批判性思维的内在动力、态度倾向与心智习性，与认知技能构成批判性思维的双元支柱
 type: concept
 domain: "competency-and-assessment"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,15 +24,17 @@ related_concepts:
   - "[[Habitus]]"
   - "[[APA Style]]"
   - "[[Construct]]"
+  - "[[Epistemic Virtues and Vices]]"
   - "[[Hypothesis]]"
+  - "[[Open-Mindedness]]"
   - "[[Task Structure]]"
   - "[[Operationalization]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Mentorship]]"
-  - "[[Dialogue in Education]]"
   - "[[Authentic Instruction]]"
   - "[[Document]]"
   - "[[Publication Bias]]"
+  - "[[Dialogue in Education]]"
 related_theories:
   - "[[APA Delphi Consensus on Critical Thinking]]"
 related_methods:
@@ -51,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Critical Thinking Disposition
@@ -72,7 +74,7 @@ updated: 2026-09-17
 
 > [!boundary]- 概念边界
 > - 不等于 **批判性思维认知技能（CT Cognitive Skills）** — 技能处理的是分析、评估、推理与自我调节的技术能力（How to think）；倾向处理的是在何时、出于何种内在动力去运用这些技术的习惯与承诺（Why & When to think）。
-> - 不等于 **人格特质（Personality Traits）** — 大五人格等特质具有高度生物遗传性与跨情境稳定性；而批判性思维倾向更接近于“认知习性（Epistemic Virtues）”，受教育干预的显著调节（[[Argument_Abrami_2015_RER\|Abrami et al., 2015]]）。
+> - 不等于 **人格特质（Personality Traits）** — 大五人格等特质具有高度生物遗传性与跨情境稳定性；而批判性思维倾向更接近于“认知习性（[[Epistemic Virtues and Vices|Epistemic Virtues]]）”，受教育干预的显著调节（[[Argument_Abrami_2015_RER\|Abrami et al., 2015]]）。
 
 ---
 
@@ -82,7 +84,7 @@ updated: 2026-09-17
 > | 比较维度 | 批判性思维认知技能（Skills） | 批判性思维倾向（Dispositions） | 整合视角（Perkins 三元模型） |
 > |---|---|---|---|
 > | **核心指向** | 认知操作技术（“能做”，Can do） | 动机与心智[[Habitus\|习性]]（“愿做”，Will do） | 敏感性（Sensitivity）+ 倾向（Inclination）+ 能力（Ability） |
-> | **典型表现** | 识别隐含[[Hypothesis\|假设]]、评估证据效力、避免逻辑谬误 | 求真、思想开放、审慎判断、求知欲强 | 能察觉思维契机，并有动力且正确地执行批判性反思 |
+> | **典型表现** | 识别隐含[[Hypothesis\|假设]]、评估证据效力、避免逻辑谬误 | 求真、[[Open-Mindedness\|思想开放]]、审慎判断、求知欲强 | 能察觉思维契机，并有动力且正确地执行批判性反思 |
 > | **测量方式** | 标准化客观测试（CCTST, [[Watson-Glaser Critical Thinking Appraisal\|WGCTA]], 论证测试） | 自陈量表（[[California Critical Thinking Disposition Inventory\|CCTDI]]）或真实情境行为观察 | 复杂[[Task Structure\|劣构任务]]与开放式长周期行为追踪 |
 > | **干预提升效应** | 元分析加权效应 $g+ = 0.30$（$k = 341$） | 元分析加权效应 $g+ = 0.23$（$k = 25$） | 导师制催化下倾向效应可达 $g+ = 0.38$ |
 > | **经典代表学者** | Ennis (1989); Paul (1993) | Siegel (1988); Facione (1990) | Perkins et al. (1993); Dewey (1933) |
@@ -108,7 +110,7 @@ flowchart TD
 > [!feature] [[Critical Thinking\|批判性思维]]倾向的三大理论模型
 > - **[[APA Style\|APA]] 德尔菲七因素模型（Facione, 1990）** 将理想批判性思考者的情意特征[[Operationalization\|操作化]]为 7 个可测维度：求真、开放、分析、系统、自信、求知与认知成熟。
 > - **批判精神模型（Critical Spirit, Siegel, 1988）** 强调批判性思考者必须拥有对“良好理由（Good Reasons）”的情感承诺，愿意根据证据改变自身行为与信念。
-> - **心智美德模型（Epistemic Virtues, Paul, 1993）** 包含智识[[Humility in Learning\|谦逊]]（Intellectual Humility）、智识勇气、智识同理心与智识正直。
+> - **心智美德模型（Epistemic Virtues, Paul, 1993）** 包含智识[[Humility\|谦逊]]（Intellectual Humility）、智识勇气、智识同理心与智识正直。
 
 ---
 
@@ -135,9 +137,9 @@ flowchart TD
 > [!claim] [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]]
 > **[[Mentorship\|导师制]]对思维倾向的峰值促进作用**
 > 在对比不同教学策略对思维倾向的培养效果时：
-> 1. 单纯的[[Dialogue in Education\|对话]]策略获得 $g+ = 0.27$（$k = 12$），[[Authentic Instruction\|真实性教学]]获得 $g+ = 0.29$（$k = 8$）；
+> 1. 单纯的对话策略获得 $g+ = 0.27$（$k = 12$），[[Authentic Instruction\|真实性教学]]获得 $g+ = 0.29$（$k = 8$）；
 > 2. **融入导师制（Mentoring）的教学干预获得了最高的效果量（$g+ = 0.38, k = 5$）**；
-> 3. **机制解释** 批判性思维倾向本质上是一种态度认同与实践习性，很难仅凭纸笔讲授灌输。导师通过身体力行地展示专家面对错误时的智识[[Humility in Learning\|谦逊]]、对复杂问题的求知执着以及对异见的开放包容，发挥了强有力的“榜样示范（Role Modeling）”与价值感染功能，成为培育学生批判精神的最强催化剂。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 296–298)]]
+> 3. **机制解释** 批判性思维倾向本质上是一种态度认同与实践习性，很难仅凭纸笔讲授灌输。导师通过身体力行地展示专家面对错误时的智识[[Humility\|谦逊]]、对复杂问题的求知执着以及对异见的开放包容，发挥了强有力的“榜样示范（Role Modeling）”与价值感染功能，成为培育学生批判精神的最强催化剂。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 296–298)]]
 
 ---
 

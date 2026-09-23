@@ -8,7 +8,7 @@ aliases:
 summary: "指学习者在生成式人工智能支持环境中，因过度依赖算法的即时答案生成与认知外包，自发削减内部认知加工与反思监控努力，导致元认知觉知与自我调节能力停滞或钝化的现象"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 28
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Learner Autonomy]]"
   - "[[Illusion of Competence]]"
-  - "[[Dialogue in Education]]"
   - "[[Homework]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Self-Regulated Learning]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-09-05'
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Metacognitive Laziness
@@ -129,7 +128,7 @@ updated: 2026-09-17
 > 探讨生成式 AI 作为中介工具介入学习活动时，如何通过改变信息加工形态来抑制主体的[[Metacognition\|元认知]]加工深度。
 
 > [!claim] Fan et al.
-> **[[Cognitive Offloading\|认知外包]]对深层加工的剥离** 学习者在与大语言模型[[Dialogue in Education\|对话]]时，往往将原本需要内部元认知统筹的问题拆解、推理验证和逻辑重构外包给模型；尽管作文与[[Homework\|作业]]得分显著提高，但概念内化与知识迁移测试中并无增益，表明缺乏思考挑战的交互形式导致了元认知监控机制的休眠。[[Argument_Chen_Cheung_2025_ERR\|(Fan et al., 2025; 引自 Chen & Cheung, 2025, p. 4)]]
+> **[[Cognitive Offloading\|认知外包]]对深层加工的剥离** 学习者在与大语言模型对话时，往往将原本需要内部元认知统筹的问题拆解、推理验证和逻辑重构外包给模型；尽管作文与[[Homework\|作业]]得分显著提高，但概念内化与知识迁移测试中并无增益，表明缺乏思考挑战的交互形式导致了元认知监控机制的休眠。[[Argument_Chen_Cheung_2025_ERR\|(Fan et al., 2025; 引自 Chen & Cheung, 2025, p. 4)]]
 
 > [!claim] Chen & Cheung
 > **元认知[[Effect Size\|效应量]]不显著的实证验证** 在对 57 项实验与准[[Experimental Research\|实验研究]]进行严格[[Baseline Standardized Mean Difference\|基线等效性]]控制后，生成式 AI 对大学生的[[Academic Achievement\|学业成绩]]（$g^+ = 0.633$）与[[Higher-Order Thinking Skills\|高阶思维]]（$g^+ = 0.580$）均表现出显著促进，但对元认知能力的干预效应微弱且未达统计显著（$g^+ = 0.078, p = 0.789$）；这一实证断层证明，若无专门的监控指引，技术应用不仅无法自发激发元认知，反而诱发了认知惰性。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10, 15–16)]]

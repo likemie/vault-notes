@@ -21,11 +21,11 @@ tags:
   - level/higher-education
 related_concepts:
   - "[[Operationalization]]"
-  - "[[Dialogue in Education]]"
   - "[[Academic Achievement]]"
   - "[[Metacognition]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Problem Solving]]"
+  - "[[Dialogue in Education]]"
   - "[[Teaching Assistant]]"
   - "[[Cognitive Offloading]]"
   - "[[Decodification]]"
@@ -66,7 +66,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 语言技能（Language Skills）是衡量学习者在特定语言环境中运用口头与书面符号进行意义理解、信息提取与交际表达的[[Operationalization\|操作化]]能力系统。在现代二语习得（Second Language Acquisition, SLA）与外语教学（English as a Second/Foreign Language, ESL/EFL）中，它通常基于欧洲语言共同参考框架（Common European Framework of Reference for Languages, CEFR）或美国外语教学学会（American Council on the Teaching of Foreign Languages, ACTFL）准则，通过听力感知、阅读理解、书面产出（写作流利度、语法词汇纠错、体裁组织）以及口语即时交际[[Dialogue in Education\|对话]]表现进行综合测度。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 2–3, 10)]]
+> 语言技能（Language Skills）是衡量学习者在特定语言环境中运用口头与书面符号进行意义理解、信息提取与交际表达的[[Operationalization\|操作化]]能力系统。在现代二语习得（Second Language Acquisition, SLA）与外语教学（English as a Second/Foreign Language, ESL/EFL）中，它通常基于欧洲语言共同参考框架（Common European Framework of Reference for Languages, CEFR）或美国外语教学学会（American Council on the Teaching of Foreign Languages, ACTFL）准则，通过听力感知、阅读理解、书面产出（写作流利度、语法词汇纠错、体裁组织）以及口语即时交际对话表现进行综合测度。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 2–3, 10)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向语言学习者对音韵、词法、句法、语篇与语用规则的综合内化与即时输出能力，强调在真实或模拟交际任务中的功能性落地。
@@ -94,7 +94,7 @@ updated: 2026-09-17
 
 > [!feature] 语言技能的四大核心要素
 > - **书面表达与语法重构（Written Expression & Syntactic Restructuring）** 运用恰当的词汇与句式组织连贯语篇的能力，涵盖遣词造句的准确性、体裁规约与即时修改润色。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 10)]]
-> - **口语交际与[[Dialogue in Education\|对话]]流利度（Oral Communication & Dialogue Fluency）** 在交际互动中即时提取词汇并进行通畅口头表达的能力，强调语义连贯与应对互动焦虑的心理韧性。
+> - **口语交际与对话流利度（Oral Communication & Dialogue Fluency）** 在交际互动中即时提取词汇并进行通畅口头表达的能力，强调语义连贯与应对互动焦虑的心理韧性。
 > - **阅读理解与语篇分析（Reading Comprehension & [[Discourse Analysis]]）** [[Decodification\|解码]]书面文本、提取核心主旨并理解上下文隐含逻辑的能力。
 > - **听力感知与意义提取（Listening Perception & Semantic Extraction）** 辨识口语语音流、捕捉关键信息并建立语境关联的接受性能力。
 
@@ -158,7 +158,7 @@ updated: 2026-09-17
 
 > [!example] 生成式 AI 赋能语言技能的典型教学实验案例
 > - **学术写作多轮提示词润色与体裁重构（Liu et al., 2025）** 在二语大学生英语学术写作中设计多轮提示词交互任务，要求学生借助大模型开展段落重构、句式降重与高级学术词汇替换，有效提升了书面语篇的规范性与流利度。
-> - **低焦虑口语即时交际[[Dialogue in Education\|对话]]演练（Wang et al., 2024）** 运用生成式对话[[AI Agent in Education\|智能体]]构建 24/7 全天候外语模拟交际环境，学生在无真人评判威慑的情境中大幅降低了二语交际焦虑，显著改善了口语即时对话流利度。
+> - **低焦虑口语即时交际对话演练（Wang et al., 2024）** 运用生成式对话[[AI Agent in Education\|智能体]]构建 24/7 全天候外语模拟交际环境，学生在无真人评判威慑的情境中大幅降低了二语交际焦虑，显著改善了口语即时对话流利度。
 
 ---
 

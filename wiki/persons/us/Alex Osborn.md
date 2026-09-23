@@ -9,7 +9,7 @@ summary: "美国广告界先驱与创造力教育先锋，BBDO 广告公司联�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 15
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Convergent Thinking]]"
   - "[[Paradigm]]"
-  - "[[Dialogue in Education]]"
   - "[[Literature Review]]"
 related_theories:
   - "[[Creative Problem Solving]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-11
+updated: 2026-09-22
 ---
 
 # Alex Osborn
@@ -119,7 +118,7 @@ updated: 2026-09-11
 > [!person-network] 关系网络
 > - **合作者／继承者** 悉尼·帕内斯（Sidney Parnes） — 共同创立布法罗学派，将奥斯本直觉模型学术化为严谨的 [[Creative Problem Solving\|Osborn-Parnes CPS]] 模型。
 > - **继承者** 罗伯特·埃伯尔（Robert Eberle） — 将奥斯本的检核表重构为家喻户晓的 [[SCAMPER]] 技法。
-> - **理论[[Dialogue in Education\|对话]]者** 埃利斯·保罗·托兰斯（E. Paul Torrance） — 借鉴奥斯本理念开发[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（[[Torrance Tests of Creative Thinking\|TTCT]]）。
+> - **理论对话者** 埃利斯·保罗·托兰斯（E. Paul Torrance） — 借鉴奥斯本理念开发[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（[[Torrance Tests of Creative Thinking\|TTCT]]）。
 > - **机构阵地** [[Creativity\|创造性]]教育基金会（Creative Education Foundation, CEF） — 奥斯本创立的学术传播与实践组织。
 
 ---

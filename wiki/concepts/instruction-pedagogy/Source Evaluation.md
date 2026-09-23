@@ -83,7 +83,7 @@ updated: 2026-09-22
 > - **边界** 区别于个体对知识本质的哲学信念；它属于操作层面的认知技能、策略体系与教学组织模式。
 
 > [!citation-card] Sperber et al. 及 Han & Gutierez 论人机协同中的二手信源评估
-> 在人机协同与多文本探究中，信源评估具体展开为针对沟通中介者专业性、[[Reliability|可靠性]]及潜在偏见的系统审验。面对生成式人工智能时，学习者必须超越表层文本，主动追问算法输出背后的[[Document|文献]]依据、权威共识与科学事实基础，防范将概率生成模型误判为无所不知的直接真理源。(Sperber et al., 2010; Han & Gutierez, 2026, p. 5)
+> 在人机协同与多文本探究中，信源评估具体展开为针对沟通中介者专业性、[[Reliability|可靠性]]及潜在偏见的系统审验。面对生成式人工智能时，学习者必须超越表层文本，主动追问算法输出背后的[[Document|文献]]依据、权威共识与科学事实基础，防范将概率生成模型误判为无所不知的直接真理源。(Sperber et al., 2010; [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez, 2026, p. 5]])
 >
 > *Source evaluation involves examining whether the source has the competence, [[Benevolence]], and authority to convey truth. In GenAI interactions, learners question the evidence and literature underlying AI claims to guard against algorithmic authority.*
 

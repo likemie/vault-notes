@@ -5,7 +5,7 @@ aliases:
 summary: "跨越单一国家教育边界组织人员、共同生活、课程、评价与资格承认的教育实践和制度；既包含国际理解的教育计划，也包含全球化推动的流动、比较和市场扩张。"
 type: concept
 domain: "higher-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Reliability]]"
   - "[[Further Education]]"
+  - "[[Open-Mindedness]]"
   - "[[Hypothesis]]"
   - "[[Chinese Learner]]"
   - "[[Document]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-16'
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # International Education
@@ -226,7 +227,7 @@ updated: 2026-09-17
 > [!debates] 国际教育的核心争议
 >
 > > [!axis] 去国家化是否只是西化
-> > IB 等课程摆脱单一国家大纲，却可能继续以英语、西方课堂互动和个体开放性为默认规范；中国教育把知识学习和道德发展结合的传统则可能被排除。国际性因此不能仅由课程来源国数量判断。[[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 25–29)]]
+> > IB 等课程摆脱单一国家大纲，却可能继续以英语、西方课堂互动和个体[[Open-Mindedness|开放性]]为默认规范；中国教育把知识学习和道德发展结合的传统则可能被排除。国际性因此不能仅由课程来源国数量判断。[[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 25–29)]]
 >
 > > [!axis] 公共教育还是跨国市场
 > > [[International Schools\|国际学校]]必须以目标家庭能够支付的价格提供有需求的课程，并回应人口和经济变化；这种市场适应推动扩张，也可能使国际教育成为全球精英的升学通道，并从本地公立系统吸走学生。[[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 5, 22–26)]]

@@ -8,7 +8,7 @@ aliases:
 summary: "刻画学生在特定学科领域中理解与能力从初阶向高阶演进的连续性发展轨迹，为课程标准编制、形成性评价与教学干预提供共同参照语言"
 type: concept
 domain: "curriculum"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Reflexivity]]"
   - "[[Construct]]"
-  - "[[Growth]]"
   - "[[Determinism]]"
   - "[[Scaffolding]]"
   - "[[Epistemology]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Learning Progression
@@ -51,7 +50,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向学科核心[[Construct\|构念]]在学习者认知结构中演进的纵向发展路径与质性跃变阶段。
-> - **用途** 破解传统课程清单化平铺与教师个人孤立主观期待的弊端，使教学、学习与评价聚焦于学生的实质性认知[[Growth\|生长]]。
+> - **用途** 破解传统课程清单化平铺与教师个人孤立主观期待的弊端，使教学、学习与评价聚焦于学生的实质性认知生长。
 > - **边界** 进阶轨迹并非心理发展的生物[[Determinism\|决定论]]通道，而是受课程组织、[[Scaffolding\|教学脚手架]]与文化情境共同调节的可能发展区间，不同于机械的年级达标分数线。
 
 > [!citation-card] 学业进阶是突破学习提升瓶颈的关键基石

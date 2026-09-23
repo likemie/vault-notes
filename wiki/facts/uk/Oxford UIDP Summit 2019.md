@@ -10,7 +10,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 11
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Dialogue in Education]]"
   - "[[Innovation Ecosystem]]"
   - "[[Research and Technology Organisation]]"
 related_theories:
@@ -38,7 +37,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-08-20
+updated: 2026-09-22
 ---
 
 # Oxford UIDP Summit 2019
@@ -74,7 +73,7 @@ updated: 2026-08-20
 ## 关键特征
 
 > [!note]-
-> - 峰会的独特之处在于规模适中（约 150 人），创造了开放和坦诚的[[Dialogue in Education\|对话]]环境
+> - 峰会的独特之处在于规模适中（约 150 人），创造了开放和坦诚的对话环境
 > - 多样性的整体基调贯穿各次会议——不仅是性别和性取向的多样性，还包括学科多样性（特别强调将社会科学和人文学科纳入合作）和经验多样性
 > - 项目委员会设定了女性发言人占 50% 的性别多样性目标，实际达到三分之一强，反映了在大型活动中实现性别平衡的挑战（p.36）
 > - 峰会选择在学年结束和夏季开始时举行，与学校假期和政治周期的时间安排产生了不利影响

@@ -5,7 +5,7 @@ aliases:
 summary: "Lundvall和Johnson提出的经济分析视角，强调在全球化与技术加速变迁中，竞争力取决于学习能力而非静态知识存量，为多元知识来源和创新过程中组织学习的必要性提供了宏观语境"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Source of Knowledge]]"
+  - "[[Open-Mindedness]]"
   - "[[Multi-channel Interactive Learning Model]]"
   - "[[Linear Model of Innovation]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 # Learning Economy
 
@@ -51,7 +52,7 @@ updated: 2026-09-22
 > [!abstract]
 > 学习经济为理解创新过程的多元[[Source of Knowledge\|知识来源]]提供了宏观语境，可从三个角度理解其对创新研究的贡献。[[Argument_Caraca_2009_TFSC\|(Caraça et al., 2009, pp. 864–866)]]
 
-**学习能力是竞争力的核心来源。** 技术机会和市场的快速变化使那些在创新和适应过程中都保持开放和敏捷的企业获得竞争优势。SAPPHO 项目（Rothwell et al., 1974）的经典发现——成功创新者与不成功者之间的关键差异在于对外部知识来源的开放性和内部沟通的有效性——在学习经济视角下获得了更系统的理论解释。
+**学习能力是竞争力的核心来源。** 技术机会和市场的快速变化使那些在创新和适应过程中都保持开放和敏捷的企业获得竞争优势。SAPPHO 项目（Rothwell et al., 1974）的经典发现——成功创新者与不成功者之间的关键差异在于对外部知识来源的[[Open-Mindedness|开放性]]和内部沟通的有效性——在学习经济视角下获得了更系统的理论解释。
 
 **经验型学习和互动式学习是创新的前提条件。** 学习经济视角下，企业不仅通过正式研发学习，还通过与用户、供应商、竞争者和大学的日常互动学习。Jensen et al.（2007）区分了两种创新模式——基于科学技术的创新（STI）和基于经验互动的创新（DUI）——后者在学习经济中获得了与前者同等重要的理论地位。[[Argument_Caraca_2009_TFSC|(Jensen et al., 2007, 引自 Caraça et al., 2009, p. 862)]]
 

@@ -8,7 +8,7 @@ aliases:
 summary: "在数字虚拟世界与交互式学习环境中代表人类用户或人工智能系统的可配置拟人化数字表征；在质性研究中作为投射技术与身份实验媒介，在人机交互与智能探究中作为提供自适应脚手架与即时诊断的拟人教学导师。"
 type: concept
 domain: "educational-technology"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Computer Simulation]]"
   - "[[Construct]]"
   - "[[Presence]]"
-  - "[[Dialogue in Education]]"
   - "[[Informed Consent]]"
   - "[[Research Ethics]]"
   - "[[Dependent Variable]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Avatar
@@ -204,7 +203,7 @@ updated: 2026-09-21
 >
 > > [!axis] 拟人具象化对认知资源的消耗（Embodied [[Presence]] vs Cognitive Overhead）
 > > 教学化身的生动外表是有助于激发学习动机，还是构成了干扰认知加工的无关线索？
-> > - **社会临场感论** 拟人化身激发社会归属与[[Dialogue in Education\|对话]]动机，促进深层意义建构。
+> > - **社会临场感论** 拟人化身激发社会归属与对话动机，促进深层意义建构。
 > > - **多媒体认知干扰论** 若化身的外貌、语音或手势过于繁复花哨，会竞争学习者有限的注意资源，增加外生认知负荷并诱发恐怖谷效应（Homer & Plass, 2014）。
 
 > [!warning] 适用局限与伦理警惕

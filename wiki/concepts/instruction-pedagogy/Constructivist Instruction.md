@@ -9,19 +9,17 @@ aliases:
 summary: "以学习者主动建构意义为核心的教学系统，主张通过创设真实情境、激活先备经验、嵌入认知支架与促进社会协作达成概念转变与深层理解。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 50
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_count: 49
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - subject/instruction
   - theory/learning-theory
   - pedagogy/constructivist
 related_concepts:
   - "[[Constructivist Paradigm]]"
-  - "[[Knowledge Production]]"
   - "[[Epistemology]]"
-  - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
   - "[[Rote Learning]]"
   - "[[Problem Solving]]"
@@ -55,6 +53,7 @@ related_concepts:
   - "[[Epistemic Practices]]"
   - "[[Recontextualization]]"
 related_theories:
+  - "[[Knowledge Building Theory]]"
   - "[[Cognitive Constructivism]]"
   - "[[Cognitive Load Theory]]"
   - "[[Social Realism]]"
@@ -85,7 +84,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> [[Constructivist Paradigm\|建构主义]]教学（Constructivist Instruction）是以[[Knowledge Production\|知识建构]]观为[[Epistemology\|认识论]]基石的教学系统与规程。它主张意义并非由教师单向移交给学生，而是学习者在特定物理与社会情境中，依托自身先备知识、通过积极操作材料、[[Dialogue in Education\|对话]]协商、检验[[Hypothesis\|假设]]并修正心理表征而主动生成的产物。教师的角色从知识传递者转型为学习环境设计者、探究支架提供者与反思引导者。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 60–63)]]; [[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 480, 486)]]
+> [[Constructivist Paradigm\|建构主义]]教学（Constructivist Instruction）是以[[Knowledge Building Theory|知识建构]]观为[[Epistemology\|认识论]]基石的教学系统与规程。它主张意义并非由教师单向移交给学生，而是学习者在特定物理与社会情境中，依托自身先备知识、通过积极操作材料、对话协商、检验[[Hypothesis\|假设]]并修正心理表征而主动生成的产物。教师的角色从知识传递者转型为学习环境设计者、探究支架提供者与反思引导者。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 60–63)]]; [[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 480, 486)]]
 
 > [!concept-lens] 概念透镜
 > - **核心内核** 强调学生是认知建构的能动主体，学习的核心机制是图式同化、顺应与概念重组。
@@ -120,7 +119,7 @@ updated: 2026-09-22
 >   - *实践机制* 诊断学生的前科学概念，刻意创设反例经验以引发认知失衡，促发个体对心理表征的顺应与概念转变。
 > - **社会建构主义教学进路（Social Constructivist Approach）**
 >   - *理论渊源* [[Lev Vygotsky\|维果茨基]]（Lev Vygotsky）社会文化理论与[[Zone of Proximal Development\|最近发展区]]（ZPD）。
->   - *实践机制* 强调课堂作为学习共同体，通过小组异质协作、观点反驳、[[Dialogue in Education\|对话]]协商与意义共建，将社会互动内化为个体的高阶心理机能。
+>   - *实践机制* 强调课堂作为学习共同体，通过小组异质协作、观点反驳、对话协商与意义共建，将社会互动内化为个体的高阶心理机能。
 > - **支架式建构主义教学进路（Scaffolded Constructivist Approach）**
 >   - *理论渊源* 认知心理学与学习科学现代整合（Bruner, Chinn, Linn）。
 >   - *实践机制* 拒绝非指导性放任，在复杂任务中嵌入显性认知提示卡、论证量规、思维可视化工具与[[Source Evaluation\|信源评估]]规程，随着能力提升实现支架渐进消退。
@@ -192,7 +191,7 @@ updated: 2026-09-22
 > > [!axis] [[Social Realism\|社会实在论]]批评：建构教学是否削弱了系统学科知识传授
 > > [[Critical Pedagogy\|批判教育学]]者和社会实在论学者警惕建构主义在基础教育实践中的异化倾向。
 > > - **[[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]]** 批评建构主义教学话语容易演变为对通用技能与生活经验的过度崇拜，导致学校课程边缘化了严密的学科概念体系，弱势家庭学生因无法在家庭中获取[[Cultural Capital\|文化资本]]而受到隐性剥夺。
-> > - **[[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]** 跨文化研究表明，建构主义教学进入统一大纲与高利害考试环境时，教师往往采取折衷调适，将建构[[Dialogue in Education\|对话]]转化为服务于学科知识识记与应试提分的实用工具。
+> > - **[[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]** 跨文化研究表明，建构主义教学进入统一大纲与高利害考试环境时，教师往往采取折衷调适，将建构对话转化为服务于学科知识识记与应试提分的实用工具。
 
 > [!warning] 实践异化与操作局限
 > - **形式化[[Activity Traps\|活动陷阱]]（Hands-on without minds-on）** 教学若仅停留于小组围坐、热闹手工或自由发言等肢体活动，缺乏引向概念深层重构的认知反思任务，极易沦为表面繁荣的低效课堂。

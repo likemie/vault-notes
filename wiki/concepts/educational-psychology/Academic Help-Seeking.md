@@ -5,10 +5,10 @@ aliases:
   - 学业求助行为
   - academic help seeking
   - 寻求学术帮助
-summary: "学习者在面临学业困难或知识盲区时，主动识别障碍、调动外部社会或技术资源以维持学习进程的自我调节学习与认识论策略，涵盖工具性求助、执行性求助与人机交互低威胁求助"
+summary: 学习者在面临学业困难或知识盲区时，主动识别障碍、调动外部社会或技术资源以维持学习进程的自我调节学习与认识论策略，涵盖工具性求助、执行性求助与人机交互低威胁求助
 type: concept
 domain: "educational-psychology"
-related_count: 28
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,12 +31,11 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Champ]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Nerd]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
-  - "[[Dialogue in Education]]"
   - "[[Learner Autonomy]]"
   - "[[Scaffolding]]"
   - "[[Affective Outcomes]]"
@@ -54,7 +53,7 @@ related_arguments:
   - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Li_2012_Cambridge]]"
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Academic Help-Seeking
@@ -150,7 +149,7 @@ updated: 2026-09-22
 > 探讨不同社会文化对“向同伴请教”赋予的截然相反的知性与社交意义。
 
 > [!claim] [[Argument_Li_2012_Cambridge\|Li (2012)]]
-> **儒家美德模型中求助的[[Humility in Learning\|谦逊]]道德定位** 东西方文化在求助的社会表征上存在本质差异：西方以心智能力为导向的文化将求助与“暴露低能”绑定，容易诱发[[Intellectual-Social Divide\|知性-社交二分]]与 [[Nerd]] 污名排斥；而在东亚以[[Self-Cultivation\|修身]]为导向的儒家[[Learning Virtues\|学习美德]]体系中，向优秀同伴请教被视作知性谦逊（Humility in Learning）的美德展现，提供帮助者践行责任，形成了“同学相长、求助无羞”的心理安全默契。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 106–108, 2933–2935)]]
+> **儒家美德模型中求助的[[Humility\|谦逊]]道德定位** 东西方文化在求助的社会表征上存在本质差异：西方以心智能力为导向的文化将求助与“暴露低能”绑定，容易诱发[[Intellectual-Social Divide\|知性-社交二分]]与 [[Nerd]] 污名排斥；而在东亚以[[Self-Cultivation\|修身]]为导向的儒家[[Learning Virtues\|学习美德]]体系中，向优秀同伴请教被视作知性谦逊（Humility in Learning）的美德展现，提供帮助者践行责任，形成了“同学相长、求助无羞”的心理安全默契。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 106–108, 2933–2935)]]
 
 ---
 
@@ -160,7 +159,7 @@ updated: 2026-09-22
 > 探讨生成式大模型的匿名、即时与非判断性交互界面如何重塑求助动力学。
 
 > [!claim] Chen & Cheung; Wu et al.
-> **去权威化交互界面对求助焦虑的瓦解与立场跃迁** 大语言模型具备高度流畅的拟人化[[Dialogue in Education\|对话]]界面且不带有任何现实社会评价偏见，极大地降低了求助的心理防御门槛。在高权力距离或高评价焦虑情境中，学生能够在完全安全的环境中向 AI 提出最基础甚至看似幼稚的概念疑问；结合情感支持与持续对话反馈，学生得以保持持久的探究坚持性，并在显性反思支架引导下从最初的解题求助逐步演进为高阶的评价论多源审问。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10–13)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 361–362, 366)]]
+> **去权威化交互界面对求助焦虑的瓦解与立场跃迁** 大语言模型具备高度流畅的拟人化对话界面且不带有任何现实社会评价偏见，极大地降低了求助的心理防御门槛。在高权力距离或高评价焦虑情境中，学生能够在完全安全的环境中向 AI 提出最基础甚至看似幼稚的概念疑问；结合情感支持与持续对话反馈，学生得以保持持久的探究坚持性，并在显性反思支架引导下从最初的解题求助逐步演进为高阶的评价论多源审问。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10–13)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 361–362, 366)]]
 
 ---
 
@@ -181,7 +180,7 @@ updated: 2026-09-22
 > [!dev-timeline] 学业求助研究的理论演进
 > - **1980 年代 — 从依赖行为向自我调节认知策略转向** Nelson-Le Gall（1981）提出工具性求助理论，打破了将求助视作被动依赖或无能表现的传统偏见，确立了学业求助作为主动认知调节策略的理论地位。
 > - **1990 年代 — 成就目标取向与求助威胁模型** Karabenick 等人将学业求助与成就目标理论结合，揭示掌握目标促进工具性求助、表现目标诱发求助回避（Help-Seeking Avoidance）的心理机制。
-> - **2012 年 — 文化生态与社会符号学审视** [[Argument_Li_2012_Cambridge\|Li (2012)]] 揭示文化价值体系对求助意义的深层建构，对比了西方“自我威胁/能力暴露”与东方“[[Self-Cultivation\|修身]][[Humility in Learning\|谦逊]]/同学支持”的[[Cultural Models\|文化模型]]差异。
+> - **2012 年 — 文化生态与社会符号学审视** [[Argument_Li_2012_Cambridge\|Li (2012)]] 揭示文化价值体系对求助意义的深层建构，对比了西方“自我威胁/能力暴露”与东方“[[Self-Cultivation\|修身]][[Humility\|谦逊]]/同学支持”的[[Cultural Models\|文化模型]]差异。
 > - **2025 年 — 生成式 AI 介入与人机求助心理学重塑** [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] [[Meta-analysis\|元分析]]证实生成式 AI 显著降低高校求助焦虑（$g^+ = 0.617$）；[[Argument_Wu_2025_ER\|Wu et al. (2025)]] 进一步揭示低威胁人机求助如何帮助先验知识薄弱者克服求助恐惧，进而作为阶梯驱动学习者向评价论[[Epistemic Stances\|认识立场]]演进。
 
 ---
@@ -191,4 +190,4 @@ updated: 2026-09-22
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 阐释求助恐惧对认识探索的阻碍，论证生成式 AI 的拟人化与无偏见特征如何提供低威胁求助环境，并结合[[Scaffolding\|教学支架]]促进自适应[[Epistemic Stances\|认识立场]]演进。（pp. 361–362）
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] — 基于大样本[[Meta-analysis\|元分析]]确证生成式 AI 对大学生[[Affective Outcomes\|情感动机]]的显著促进，揭示其消除传统高权力距离师生互动中提问求助焦虑的“权力壁垒破除机制”。（pp. 10–13, 16）
-> - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 比较文化心理学奠基专著，深度剖析东方“同学文化”将同伴求助定义为[[Humility in Learning\|谦逊]]美德与西方同伴文化将求助视作能力暴露的系统差异。（pp. 106–108, 2933–2935）
+> - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 比较文化心理学奠基专著，深度剖析东方“同学文化”将同伴求助定义为[[Humility\|谦逊]]美德与西方同伴文化将求助视作能力暴露的系统差异。（pp. 106–108, 2933–2935）

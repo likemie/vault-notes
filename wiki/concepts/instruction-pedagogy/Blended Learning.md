@@ -20,7 +20,6 @@ tags:
   - educational-technology
   - construct/instructional-design
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Homework]]"
   - "[[Champ]]"
@@ -43,6 +42,7 @@ related_concepts:
   - "[[Evaluative Judgement]]"
   - "[[Cultural Capital]]"
   - "[[Variable]]"
+  - "[[Dialogue in Education]]"
   - "[[Epistemological Theories]]"
 related_arguments:
   - "[[Argument_Zhao_2025_JIntell]]"
@@ -64,7 +64,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 混合式学习（Blended Learning）是指系统性重构学习体验的教学模式，它将传统的面对面实体课堂教学（Face-to-Face Instruction）与基于技术的数字化、网络化或智能化学习环境有机结合。该模式并非简单的技术叠加或课后录播补充，而是通过精心设计的课程结构，充分发挥物理课堂在具身[[Dialogue in Education\|对话]]、情感连接与即时协作方面的优势，同时激活数字环境在弹性节奏、自主探究与个性化自适应支持上的长处，从而在时空融合中促进学习者的深层认知建构与[[Higher-Order Thinking Skills\|高阶思维]]发展。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 7, 11–12)]]
+> 混合式学习（Blended Learning）是指系统性重构学习体验的教学模式，它将传统的面对面实体课堂教学（Face-to-Face Instruction）与基于技术的数字化、网络化或智能化学习环境有机结合。该模式并非简单的技术叠加或课后录播补充，而是通过精心设计的课程结构，充分发挥物理课堂在具身对话、情感连接与即时协作方面的优势，同时激活数字环境在弹性节奏、自主探究与个性化自适应支持上的长处，从而在时空融合中促进学习者的深层认知建构与[[Higher-Order Thinking Skills\|高阶思维]]发展。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 7, 11–12)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 跨越实体物理空间与数字虚拟空间的连续谱教学组织形态。
@@ -198,7 +198,7 @@ updated: 2026-09-22
 > > 围绕高校与中小学广泛开展的混合教学是否名副其实展开讨论。
 > >
 > > - **形式主义批评派** 指出实践中大量所谓“混合式一流课程”只是把线下讲课录下来让学生课后看，课堂上依旧照本宣科，既增加了师生负担，又未能真正激发学生的深层反思。
-> > - **深层重构支持派** 强调真正的混合式教学倒逼了教师角色的根本转变——从讲台上的唯一权威转变为学习探究的设计师与[[Dialogue in Education\|对话]]促进者。
+> > - **深层重构支持派** 强调真正的混合式教学倒逼了教师角色的根本转变——从讲台上的唯一权威转变为学习探究的设计师与对话促进者。
 >
 > > [!axis] 时空补充混合（Spatio-Temporal Blending） vs 人机认知分工混合（Hybrid Epistemic Co-agency）
 > > 争论混合式教学的重心应落在调配课前微课与课内练习的时空节奏，还是应聚焦于重构人机之间的认知劳动力分工与[[Evaluative Judgement\|评价性判断]]归属。

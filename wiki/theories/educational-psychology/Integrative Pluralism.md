@@ -6,7 +6,7 @@ aliases:
 summary: "一种承认认知发生在个体、个体-交互及活动系统等多个层级，并主张通过建立不同层级的局部模型进行因果跨层协作，以取代寻找大一统理论的理论范式。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 27
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
-  - "[[Dialogue in Education]]"
   - "[[Epistemic Aims]]"
   - "[[Epistemic Climate]]"
   - "[[Emergence]]"
@@ -90,7 +89,7 @@ updated: 2026-09-22
 > - **前提一** 传统的认知[[Constructivist Paradigm\|建构主义]]只关注个体头脑，而[[Situative Perspective\|情境主义]]只关注社会互动。两者的[[Ontology\|本体论]]冲突源于它们观察的颗粒度（grain size）不同，而非谁对谁错。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
 >   > [!evidence-grid]- 证据
 >   > - **层级一：个体层级（Individual）** 聚焦学生头脑内部的机制。个体在此层级调配内在的“[[Epistemology\|认识论]]资源”或图式。
->   > - **层级二：人际交互层级（Individual-in-interaction）** 聚焦微观的社会互动。学生在小组合作或[[Dialogue in Education\|对话]]中，通过话语流动态协商并确立共同的“[[Epistemic Aims\|认识论目标]]”。
+>   > - **层级二：人际交互层级（Individual-in-interaction）** 聚焦微观的社会互动。学生在小组合作或对话中，通过话语流动态协商并确立共同的“[[Epistemic Aims\|认识论目标]]”。
 >   > - **层级三：活动系统层级（Activity System）** 聚焦宏观的社会文化环境。如学校制度、科学共同体的文化规范，构成一种集体的“[[Epistemic Climate\|认识论氛围]]（epistemic climate）”。
 > - **推导** 因为不同层级的运作法则不同（如突触放电不同于课堂氛围），任何单一视角的理论（如单纯的神经科学或单纯的社会学）都无法包揽对全局现象的解释，必须承认各层级模型的独立合法性。
 

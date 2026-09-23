@@ -9,7 +9,7 @@ title: "Argument_Amos_2022_Springer"
 argument_key: "Argument_Amos_2022_Springer"
 argument_display_title: "Which Vision of Education for Late Modernity? In M"
 argument_kind: "book"
-argument_related_count: 48
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -46,7 +46,6 @@ related_concepts:
   - "[[Humosity]]"
   - "[[Mondialisation]]"
   - "[[Epoché]]"
-  - "[[Dialogue in Education]]"
   - "[[Ubuntu]]"
   - "[[Buen Vivir]]"
   - "[[New Public Management]]"
@@ -259,7 +258,7 @@ citation_aliases:
 >
 > Escobar 依赖 Varela 的 *Ethical Know-How* (1999)——具体而言是"**自我的非固化**"（non-solidity of the self）概念：自我不是固态的、固定的实体，而是分布式系统通过社会交互涌现的"虚拟自我"。接受这种非固化，会产生一种根本性的**关爱心态（caring disposition）**。如何培育这种心态？不是通过理性干预、自我优化或规范灌输——而是通过**[[Epoché\|悬置]]自我（suspension of the ego）**，通过那些有助于发展"非自我中心"习惯的训练。
 >
-> > 例：这里有一个直接的对比。超人类主义的教育技术：用 app 追踪你的学习进度、优化你的专注时间、评测你的认知水平——一切都是关于"你"的增强。Escobar-Varela 路径则建议：花时间在社区菜园里、学习与老人的跨代[[Dialogue in Education\|对话]]、练习关注他人的需要而非自己的成就——通过这些非自我中心的实践，发展出一种"我不需要站在宇宙中心"的习惯和感知方式。这两种路径的分歧不是技术问题，是关于"做一个人意味着什么"的根本立场分歧。
+> > 例：这里有一个直接的对比。超人类主义的教育技术：用 app 追踪你的学习进度、优化你的专注时间、评测你的认知水平——一切都是关于"你"的增强。Escobar-Varela 路径则建议：花时间在社区菜园里、学习与老人的跨代对话、练习关注他人的需要而非自己的成就——通过这些非自我中心的实践，发展出一种"我不需要站在宇宙中心"的习惯和感知方式。这两种路径的分歧不是技术问题，是关于"做一个人意味着什么"的根本立场分歧。
 >
 > Amos 观察到一个有意味的"家族相似性"：Escobar and Haraway 的思想与非洲的 **[[Ubuntu]]**（"我存在，因为我们存在"）和拉丁美洲的 **[[Buen Vivir]]**（"好好生活"——不是更多消费，而是与自然和共同体的和谐共处）有亲和力，可能跟 Buen Vivir 的共鸣略多一些。这些非西方传统为后人类主义教育愿景提供了额外的文化和伦理资源(p.64)。
 >

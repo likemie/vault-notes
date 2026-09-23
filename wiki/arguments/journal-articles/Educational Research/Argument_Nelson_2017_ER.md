@@ -7,7 +7,7 @@ title: "Argument_Nelson_2017_ER"
 argument_key: "Argument_Nelson_2017_ER"
 argument_display_title: "Evidence-informed practice in education: meanings and applications"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -51,7 +51,6 @@ related_concepts:
   - "[[Research-Practice Partnership]]"
   - "[[Technical Rationality]]"
   - "[[Evidence Standards]]"
-  - "[[Growth]]"
   - "[[Formative Assessment]]"
   - "[[Document]]"
   - "[[Phronesis]]"
@@ -200,7 +199,7 @@ updated: 2026-09-21
 > - **专业准备度欠缺** 忽视了教育者自身批判、实施与改编证据的专业准备度，未能为证据落地提供支撑性环境。（pp.127–128）
 
 > [!implication]- 推论：从单纯供给转向肥沃土壤的制度准备
-> 草根教师对证据需求的激增表明，推进 EIP 不是单纯增加研究供给或单向刺激外部需求的机械工程（Nelson & O'Beirne, 2014），而是必须建立使教育者在接触证据时能够主动批判、实施与情境化改编的关键前置条件（Roberts, 2015）。证据必须被种植在肥沃土壤（fertile ground）中才能真正生根[[Growth\|成长]]。（p.127）
+> 草根教师对证据需求的激增表明，推进 EIP 不是单纯增加研究供给或单向刺激外部需求的机械工程（Nelson & O'Beirne, 2014），而是必须建立使教育者在接触证据时能够主动批判、实施与情境化改编的关键前置条件（Roberts, 2015）。证据必须被种植在肥沃土壤（fertile ground）中才能真正生根成长。（p.127）
 
 ---
 
@@ -369,7 +368,7 @@ updated: 2026-09-21
 > *"Evidence-based practice is not 'cook book' teaching or policing, nor should it be about prescribing what goes on from a position of unchallenged authority. It is about integrating professional expertise with the best external evidence from research to improve the quality of practice."*
 
 > [!citation-card]- 肥沃的土壤
-> "如果证据要生根[[Growth\|成长]]，就需要被种植在'肥沃的土壤'中。"（p.127）
+> "如果证据要生根成长，就需要被种植在'肥沃的土壤'中。"（p.127）
 >
 > *"Evidence needs to be planted in 'fertile ground' if it is to take root and grow."*
 

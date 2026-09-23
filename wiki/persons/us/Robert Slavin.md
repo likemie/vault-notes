@@ -36,9 +36,9 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Paradigm]]"
   - "[[Developer-Made Measures]]"
-  - "[[Dialogue in Education]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Phronesis]]"
+  - "[[Cognitive Deskilling]]"
   - "[[Internal Validity]]"
   - "[[Response to Proven Instruction]]"
   - "[[Publication Bias]]"
@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Robert Slavin
@@ -129,7 +129,7 @@ updated: 2026-09-18
 >     - [[Alan C. K. Cheung\|Cheung, A. C. K.]], & Slavin, R. E. (2013). The effectiveness of educational technology applications for enhancing mathematics achievement in K-12 classrooms.
 >   - **关键概念／方法** [[Evidence-Based Reform]]、[[Randomised Controlled Trials]]、[[Baseline Standardized Mean Difference]]、[[Best Evidence Encyclopedia]]。
 >   - **阶段特征** 提出“开发 $\to$ 严格评估 $\to$ 复制 $\to$ 推广”[[Paradigm\|范式]]；提出[[Meta-analysis\|元分析]]五大质控规则：排除[[Developer-Made Measures\|研究者自编测验]]、要求[[Sample Size Determination\|样本量]] $\ge 15$、控制基线差异（$d < 0.25$）。
-> - **2016–2021 年 — [[Every Student Succeeds Act\|ESSA]] 证据法治化与全球多元[[Dialogue in Education\|对话]]**
+> - **2016–2021 年 — [[Every Student Succeeds Act\|ESSA]] 证据法治化与全球多元对话**
 >   - **核心问题** 推动联邦政策与教育资助同严格证据法定绑定，回应国际学界（特别是欧洲人文主义与中国学者）对[[Positivism\|实证主义]]的批判。
 >   - **代表著作** 
 >     - Slavin, R. E. (2019). How evidence-based reform will transform research and practice in education. *Educational Psychologist*, 55(1), 1–13. [[Argument_Slavin_2019_EP\|(Slavin, 2019)]]
@@ -173,7 +173,7 @@ updated: 2026-09-18
 
 > [!person-network] 关系网络
 > - **学术与事业终身伴侣** [[Nancy Madden\|Nancy A. Madden]] — 共同创立 [[Success for All]] 基金会与约翰霍普金斯大学 CRRE。
-> - **核心学术合作者** [[Alan C. K. Cheung]]（张志强） — 长期在 JHU CRRE 合作，共同发表大规模实验总结、教育技术[[Meta-analysis\|元分析]]，并联合推进全球循证改革国际[[Dialogue in Education\|对话]]。
+> - **核心学术合作者** [[Alan C. K. Cheung]]（张志强） — 长期在 JHU CRRE 合作，共同发表大规模实验总结、教育技术[[Meta-analysis\|元分析]]，并联合推进全球循证改革国际对话。
 > - **学术论敌／批评学者** [[Gert Biesta]]（格特·比斯塔） — 欧洲人文主义教育哲学家，批评 Slavin 的[[Positivism\|实证主义]]将教育技术化、[[Disciplina and Doctrina\|规训]]化，忽视了教育的目的与价值维度。
 > - **学术论敌／批评学者** [[Robert Cowen]] — 比较教育学者，批评[[Evidence-Based Reform\|证据本位改革]]沦为官僚机构控制学校的技术外衣。
 > - **制度化机构** [[What Works Clearinghouse\|WWC]] / [[Best Evidence Encyclopedia\|BEE]] — Slavin 的理念是 WWC 建立的思想先导，其创办的 BEE 则成为与之竞争并互补的独立学术清算中心。
@@ -191,7 +191,7 @@ updated: 2026-09-18
 > > |---|---|---|---|
 > > | **研究证据的角色** | 应作为教育决策与财政拨款的核心标准 | 从属于教育价值目的的从属判断 | 在制度上沦为新自由主义官僚委托工具 |
 > > | **[[Causality\|因果推断]][[Paradigm\|范式]]** | 极度推崇 [[Randomised Controlled Trials\|RCT]] 与高内效准实验 | 批评将教育降格为“输入-产出”的机械工程学 | 强调情境的不可移植性与本土历史独特性 |
-> > | **教师专业自主** | 教师应严格执行经实证验证有效的成熟项目 | 教师应拥有基于教育伦理的[[Phronesis\|实践智慧]]（Phronesis） | 教师成为被动执行外部证据的去技能化劳动者 |
+> > | **教师专业自主** | 教师应严格执行经实证验证有效的成熟项目 | 教师应拥有基于教育伦理的[[Phronesis\|实践智慧]]（Phronesis） | 教师成为被动执行外部证据的[[Cognitive Deskilling\|去技能化]]劳动者 |
 >
 > > [!axis] [[Internal Validity\|内部效度]]（RCT）与生态推广度的天然张力
 > > 批评者指出 Slavin 的 [[Success for All\|SFA]] 项目虽然在严密控制的随机试验中表现优异，但在缺乏持续外部专家入校支持的常态化学校中极易发生实施衰退。

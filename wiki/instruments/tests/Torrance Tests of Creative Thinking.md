@@ -7,7 +7,7 @@ aliases:
 summary: "由托兰斯开发的经典标准化发散思维测验，包含言语和图形两套形式，从流畅性、灵活性、独创性与精致性四个核心维度评估个体创造潜能。"
 type: instrument
 instrument_type: test
-instrument_related_count: 21
+instrument_related_count: 22
 instrument_related_level: 4
 instrument_related_stars: "⭐⭐⭐⭐"
 instrument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Divergent Thinking]]"
   - "[[Creativity Assessment]]"
   - "[[Predictive Validity]]"
+  - "[[Open-Mindedness]]"
   - "[[Reliability]]"
   - "[[Problem Finding]]"
   - "[[Creativity Training]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-09-11
+updated: 2026-09-23
 ---
 
 # Torrance Tests of Creative Thinking
@@ -82,7 +83,7 @@ updated: 2026-09-11
 >
 > | 测验模块与形式 | 核心维度 | 题项/活动构成 | 评分标准与指标含义 |
 > |---|---|---|---|
-> | **言语测验**<br>（Words 版） | **流畅性**<br>（Fluency） | 7 项开放性言语任务（包含提问、猜因、猜果、物品改进、非常规用途、不寻常问题与假想情境） | 单位时间内生成的有效、相关且不重复的观念总数。 |
+> | **言语测验**<br>（Words 版） | **流畅性**<br>（Fluency） | 7 项[[Open-Mindedness\|开放性]]言语任务（包含提问、猜因、猜果、物品改进、非常规用途、不寻常问题与假想情境） | 单位时间内生成的有效、相关且不重复的观念总数。 |
 > | **言语测验**<br>（Words 版） | **灵活性**<br>（Flexibility） | 7 项开放性言语任务（考察跨领域概念分类迁移） | 观念跨越的认知类别或概念领域的转换数量。 |
 > | **言语测验**<br>（Words 版） | **独创性**<br>（Originality） | 7 项开放性言语任务（考察统计低频新颖构想） | 基于统计常模（总体出现率低于 5% 或 2%）的新颖、不寻常观念数量。 |
 > | **图形测验**<br>（Pictures 版） | **图形独创性**<br>（Figural Originality） | 3 项图形活动（活动一：依据椭圆作画；活动二：完成未闭合线条；活动三：平行线或圆圈创作系列画） | 在给定图形线条基础上，绘制出极具新意、非刻板陈套的视觉图像。 |

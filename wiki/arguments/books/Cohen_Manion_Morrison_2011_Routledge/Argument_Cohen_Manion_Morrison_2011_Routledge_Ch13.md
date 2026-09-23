@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_display_title: "Research Methods in Education · Ch13"
 argument_kind: "book-chapter"
-argument_related_count: 58
+argument_related_count: 57
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -50,7 +50,6 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Fitness for Purpose]]"
   - "[[Sampling Error]]"
-  - "[[Growth]]"
   - "[[Causality]]"
   - "[[Epistemology]]"
   - "[[Pre-test Sensitisation]]"
@@ -423,7 +422,7 @@ Rubin (1987)、Little & Rubin (1989)、Allison (2001)、Dale (2006, p. 149–150
 
 ### 13.6 纵向、横截面和趋势研究
 
-"纵向"一词用于描述在一段时间内进行的各种研究。"发展性"（developmental）一词常用于专门处理人类[[Growth|生长]]方面的纵向研究（p.267）。
+"纵向"一词用于描述在一段时间内进行的各种研究。"发展性"（developmental）一词常用于专门处理人类生长方面的纵向研究（p.267）。
 
 > [!contrast-table] 研究设计的类型体系
 > | 设计类型 | 时间维度 | 受访者 | 核心焦点 | [[Causality\|因果]]分析 | 个体层面分析 |

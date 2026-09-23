@@ -8,7 +8,7 @@ summary: "法国认知科学家与哲学家，关联理论与认识论警觉理�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 20
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Deception in Research]]"
   - "[[Decodification]]"
   - "[[Source Evaluation]]"
-  - "[[Dialogue in Education]]"
   - "[[Epistemic Cognition]]"
   - "[[Cognitive Offloading]]"
   - "[[Epistemic Agency]]"
@@ -101,14 +100,14 @@ updated: 2026-09-22
 >   - **核心问题** 在充满不实信息与认知操纵的社会交流中，人类如何保护自身认知，以及人类理性为何保留了确认偏误。
 >   - **代表著作** *Epistemic Vigilance* (2010); *The Enigma of Reason* (2017, with Hugo Mercier)。
 >   - **关键概念** [[Epistemological Vigilance|认识论警觉]]、[[Source Evaluation|信源评估]]、内容评估、论辩理性（Argumentative Reason）。
->   - **思想贡献** 确立了信息审验的三维认知模型，指出理性演化的原初功能是社会[[Dialogue in Education|对话]]中的观点辩护与反驳，而非[[René Descartes|笛卡尔]]式的孤独沉思。
+>   - **思想贡献** 确立了信息审验的三维认知模型，指出理性演化的原初功能是社会对话中的观点辩护与反驳，而非[[René Descartes|笛卡尔]]式的孤独沉思。
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心主张
-> 斯珀伯主张人类认知兼具深刻的**社会依赖性**与**演化防御性**。沟通并非无私的真理传递，而是交流者试图对听众心智施加因果影响的社会行为。为了避免沦为受骗者，人类演化出内生于交流本能的“[[Epistemological Vigilance|认识论警觉]]”机制：通过对信息内容的前后连贯性与背景知识契合度进行审查（内容评估），对信息源的胜任力与诚实度进行追溯（[[Source Evaluation|信源评估]]），并在[[Dialogue in Education|对话]]论辩中运用理性生成论据以说服他人或反驳谬误。这一理论彻底打破了将人类视为被动接受信息的传统观念，确立了人类作为主动认知审查者的演化本性。
+> 斯珀伯主张人类认知兼具深刻的**社会依赖性**与**演化防御性**。沟通并非无私的真理传递，而是交流者试图对听众心智施加因果影响的社会行为。为了避免沦为受骗者，人类演化出内生于交流本能的“[[Epistemological Vigilance|认识论警觉]]”机制：通过对信息内容的前后连贯性与背景知识契合度进行审查（内容评估），对信息源的胜任力与诚实度进行追溯（[[Source Evaluation|信源评估]]），并在对话论辩中运用理性生成论据以说服他人或反驳谬误。这一理论彻底打破了将人类视为被动接受信息的传统观念，确立了人类作为主动认知审查者的演化本性。
 
 > [!citation-card] 论理性的社会论辩本质
 > 推理不是孤独思想家的特权工具，而是一种社会适应。理性的演化是为了产生能够说服他人的理由，并评估他人提出的理由。在合作与论辩的社会互动中，群体的集体审议往往能纠正个人偏见，产出高质量的理性判断。（Mercier & Sperber, 2011, pp. 57–60，引自 [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez, 2026, pp. 4–5]]）

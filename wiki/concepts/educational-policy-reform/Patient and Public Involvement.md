@@ -7,7 +7,7 @@ aliases:
 summary: "指在健康与科研全生命周期中由患者、照护者及公众作为主动研究伙伴共同参与研究设计、执行与成果转化的范式，旨在摆脱单纯被动受试者模式，确保科研成果切合真实生活需求并提升社会合法性"
 type: concept
 domain: "educational-policy-reform"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Clinical Trial]]"
   - "[[Informed Consent]]"
-  - "[[Dialogue in Education]]"
   - "[[Research Topic]]"
   - "[[Epistemology]]"
   - "[[Epistemic Value]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Patient and Public Involvement
@@ -61,7 +60,7 @@ updated: 2026-09-17
 
 > [!boundary]- 概念边界
 > - 不等于临床受试招募（Research Participation）— 受试者参与（Taking Part）只是被动提供数据或接受干预；而 PPI 是在试验尚未启动前，深度参与决定“研究什么问题”以及“方案如何制定”。
-> - 不等于单向科学普及（Science Dissemination）— 成果发布后的科普属于单向知识传播；而 PPI 强调从课题构思、执行到监管[[Dialogue in Education\|对话]]全生命周期的双向对话与权力共享。
+> - 不等于单向科学普及（Science Dissemination）— 成果发布后的科普属于单向知识传播；而 PPI 强调从课题构思、执行到监管对话全生命周期的双向对话与权力共享。
 
 ---
 
@@ -80,7 +79,7 @@ updated: 2026-09-17
 ## 核心要素
 
 > [!feature] 现代患者与公众参与（PPI）的四大核心支柱
-> - **全生命周期深度嵌入（R&D Lifecycle Embedding）** 彻底打破将公众参与局限于方案通过后或成果发布后的碎片化做法，将患者之声机制化内嵌于立项优先级设立、动物模型论证、临床方案编写、终点指标选择及药监上市[[Dialogue in Education\|对话]]等各个关键节点。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 71)]]
+> - **全生命周期深度嵌入（R&D Lifecycle Embedding）** 彻底打破将公众参与局限于方案通过后或成果发布后的碎片化做法，将患者之声机制化内嵌于立项优先级设立、动物模型论证、临床方案编写、终点指标选择及药监上市对话等各个关键节点。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 71)]]
 > - **真实生活体验的[[Epistemology\|认识论]]权威（[[Epistemic Value]] of Lived Experience）** 承认长期患病者与其家庭照护者对其生理机能变化、日常心理压力及用药不良反应拥有学者所不具备的第一手具身体验，将其视为与实验室生物学数据并重的互补性证据源泉。
 > - **平权共同创造（Co-creation and Shared Power）** 倡导科学家与患者群体之间透明对话，建立平等的审议沟通平台，如阿斯利康的以患者为中心（Patient Centricity）框架，让患者实质性优化试验给药频次与随访时间表。
 > - **制度化国家质量标准（National Standards Governance）** 遵循由英国国家健康与护理研究所（NIHR）联合各界研制的国家公共参与标准，涵盖包容性机会、良好沟通、公众支持与培训、对研究的影响评估等多维质控规程。

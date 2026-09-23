@@ -8,7 +8,7 @@ aliases:
 summary: "个体在目标导向活动中主动调节注意、情绪与冲动反应以实现长远目标的非认知心理能力。在学习科学中，它构成了元认知调节与社会情感能力的底层基础，表现为反应抑制、情绪稳定与任务切换，对学业持久性与课堂适应具有关键支撑作用。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 46
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Hawthorne Effect]]"
   - "[[Construct Validity]]"
   - "[[Construct]]"
-  - "[[Dialogue in Education]]"
   - "[[Scaffolding]]"
   - "[[Social-Emotional Learning]]"
   - "[[Cognitive Shifting]]"
@@ -193,7 +192,7 @@ updated: 2026-09-22
 > 探讨自我控制究竟是固定的特质性人格倾向，还是可通过后天针对性支架教学进行系统培育的技能库。
 
 > [!claim] [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, pp. 69–70)]]; Rosenbaum (1990)
-> **习得性资源感的可训练属性** 自我控制理论（Theory of Self-control）打破了将自律视为先天意志力的教条假说，将其确立为个体在后天互动中逐步积累的“习得性资源感”（Learned Resourcefulness）。这一[[Construct\|构念]]包含三大可习得技能：监控内部生理与情绪唤醒、运用认知重构平抑焦虑、以及通过自我[[Dialogue in Education\|对话]]与分步奖励维持长远目标。这意味着学校教学能够通过系统的策略训练有效提升学生的自我控制效能。
+> **习得性资源感的可训练属性** 自我控制理论（Theory of Self-control）打破了将自律视为先天意志力的教条假说，将其确立为个体在后天互动中逐步积累的“习得性资源感”（Learned Resourcefulness）。这一[[Construct\|构念]]包含三大可习得技能：监控内部生理与情绪唤醒、运用认知重构平抑焦虑、以及通过自我对话与分步奖励维持长远目标。这意味着学校教学能够通过系统的策略训练有效提升学生的自我控制效能。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, p. 54)]]; van Poortvliet et al. (2019)
 > **融入日常[[Scaffolding\|教学支架]]促进技能迁移** 单纯脱离真实学科情境的意志力讲授无法自动转化为学习成效。EEF 小学[[Social-Emotional Learning\|社会情感学习]]（SEL）指导报告实证指出，唯有将自我控制策略转化为日常课堂中的显性规则支架（如情绪停看听信号、同伴相互监督检查表、挫折应对思维建模），并在真实学科任务中高频演练，才能跨越情境鸿沟，带来平均 4 个月的额外学业收益。

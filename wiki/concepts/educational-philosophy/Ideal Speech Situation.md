@@ -6,7 +6,7 @@ aliases:
 summary: "哈贝马斯提出的规范性沟通模型，主张共识仅源于更好论证的力量而非参与者的权力；言语情境具有命题与施行双重结构，每个话语须满足五重有效性标准，是话语分析批判方法论和虚拟世界研究沟通伦理的理论基础"
 type: concept
 domain: "educational-philosophy"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -16,7 +16,6 @@ tags:
   - virtual-world
   - habermas
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Virtual World]]"
   - "[[Counterfactual]]"
   - "[[Research Ethics]]"
@@ -47,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Ideal Speech Situation
@@ -57,7 +56,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 理想言说情境是[[Jürgen Habermas\|哈贝马斯]]（Habermas, 1979, 1982, 1984, 1987）提出的规范性沟通模型，描述了一种所有参与者能够在平等和自由条件下进行理性[[Dialogue in Education\|对话]]的理想条件。其核心原则是：共识仅源于更好论证的力量，而非参与者的位置或政治权力，除合作寻求真理外所有动机都被排除。在[[Virtual World\|虚拟世界]]研究中，通过虚拟世界探索议题的观点强烈回响着理想言说情境的原则（Morrison, 1995a, p. 102）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19, pp. 157–159]]）。
+> 理想言说情境是[[Jürgen Habermas\|哈贝马斯]]（Habermas, 1979, 1982, 1984, 1987）提出的规范性沟通模型，描述了一种所有参与者能够在平等和自由条件下进行理性对话的理想条件。其核心原则是：共识仅源于更好论证的力量，而非参与者的位置或政治权力，除合作寻求真理外所有动机都被排除。在[[Virtual World\|虚拟世界]]研究中，通过虚拟世界探索议题的观点强烈回响着理想言说情境的原则（Morrison, 1995a, p. 102）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19, pp. 157–159]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 理想言说情境指向一种[[Counterfactual\|反事实]]的规范性沟通条件，规定了理性共识得以可能的沟通伦理前提。它不是对现实沟通的描述，而是评判现实沟通是否自由和公正的批判标准。
@@ -94,7 +93,7 @@ updated: 2026-09-17
 > [!feature] 平等与互惠
 > - **相互理解** 参与者之间达成相互理解。
 > - **平等运用言语行为** 拥有选择和运用言语行为的平等机会。
-> - **自主平等伙伴** 承认每个主体作为自主和平等伙伴参与[[Dialogue in Education\|对话]]的合法性。
+> - **自主平等伙伴** 承认每个主体作为自主和平等伙伴参与对话的合法性。
 > - **平等讨论机会** 所有参与者拥有平等的讨论机会。
 
 > [!feature] 共识与真理
@@ -130,7 +129,7 @@ updated: 2026-09-17
 > 理想言说情境不仅是一个沟通伦理模型，也是话语分析研究的方法论批判工具——它要求研究者揭示话语中的权力扭曲，同时审视研究者自身话语的立场。
 
 > [!claim] Habermas (1970, 1979, 1984)
-> **话语分析应揭示系统性扭曲沟通的压制性力量** 话语的意义来自主体间语境而非脱离语境的句子。[[Dialogue in Education\|对话]]语分析而言，这意味着需要通过[[Ideology Critique\|意识形态批判]]揭示系统性扭曲沟通的压制性力量。不仅要审问研究者所研究的话语中的支配性影响，还要审问研究本身所产生的话语中的支配性影响——这要求话语分析者保持双重[[Reflexivity\|反身性]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|(第22章, p.455)]]
+> **话语分析应揭示系统性扭曲沟通的压制性力量** 话语的意义来自主体间语境而非脱离语境的句子。对话语分析而言，这意味着需要通过[[Ideology Critique\|意识形态批判]]揭示系统性扭曲沟通的压制性力量。不仅要审问研究者所研究的话语中的支配性影响，还要审问研究本身所产生的话语中的支配性影响——这要求话语分析者保持双重[[Reflexivity\|反身性]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|(第22章, p.455)]]
 
 ---
 

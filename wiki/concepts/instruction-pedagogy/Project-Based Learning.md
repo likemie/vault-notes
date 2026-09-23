@@ -8,7 +8,7 @@ aliases:
 summary: "以真实驱动性问题为核心、以持续协作探究为路径、以生成并公开展示真实制品为导向的学生中心教学模式，能显著激发创造力与高阶思维，但高度依赖认知脚手架与自我调节能力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -34,16 +34,17 @@ related_concepts:
   - "[[Constructed Knowledge]]"
   - "[[Construct]]"
   - "[[Direct Instruction]]"
+  - "[[Open-Mindedness]]"
   - "[[Formative Assessment]]"
   - "[[Metacognition]]"
   - "[[Educational Affordances]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Learning by Doing]]"
-  - "[[Knowledge Production]]"
   - "[[Technology Infusion]]"
   - "[[Working Memory]]"
   - "[[Self-Regulated Learning]]"
 related_theories:
+  - "[[Knowledge Building Theory]]"
   - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Design-Based Research]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-09-21
+updated: 2026-09-23
 ---
 
 # Project-Based Learning
@@ -103,7 +104,7 @@ updated: 2026-09-21
 ## 核心要素
 
 > [!feature] 黄金标准项目式学习的核心要素
-> - **真实驱动性问题（Driving Question）** 聚焦现实生活或学科前沿的开放性真实议题，为整个项目探究提供持续的目标牵引与认知挑战。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, p. 16)]]
+> - **真实驱动性问题（Driving Question）** 聚焦现实生活或学科前沿的[[Open-Mindedness|开放性]]真实议题，为整个项目探究提供持续的目标牵引与认知挑战。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, p. 16)]]
 > - **持续性深度探究（Sustained Inquiry）** 学生通过提问、查找资源、[[Design-Based Research\|设计实验]]和应用信息展开迭代式探究，而非快速寻找既定标准答案。
 > - **公开制品交付（Public Product）** 最终成果必须转化为可公开展示、具有实际社会或学术应用价值的物化制品或解决方案。
 > - **学生发言权与选择权（Voice & Choice）** 赋予学生对项目规划、资源配置、产品形式及探究路径的自主决策权，增强主体责任感。
@@ -159,7 +160,7 @@ updated: 2026-09-21
 
 > [!dev-timeline] 项目式学习的历史演进
 > - **1918 — 设计教学法奠基** 克伯屈（William H. Kilpatrick）发表经典论文《设计教学法》（*The Project Method*），将[[John Dewey\|杜威]]（John Dewey）的[[Pragmatic Paradigm\|实用主义]]教育哲学和“[[Learning by Doing\|从做中学]]”（Learning by Doing）理念具象化为以学生有目的活动为核心的教学形态。
-> - **1990s–2000s — 认知科学与[[Constructivist Paradigm\|建构主义]]重塑** 随着学习科学的发展，项目式学习被重新定义为强调核心[[Knowledge Production\|知识建构]]、深层探究和[[Metacognition\|元认知监控]]的高阶教学模式。巴克教育研究所（Buck Institute for Education / PBLWorks）系统确立了“黄金标准项目式学习”（Gold Standard PBL）框架。
+> - **1990s–2000s — 认知科学与[[Constructivist Paradigm\|建构主义]]重塑** 随着学习科学的发展，项目式学习被重新定义为强调核心[[Knowledge Building Theory|知识建构]]、深层探究和[[Metacognition\|元认知监控]]的高阶教学模式。巴克教育研究所（Buck Institute for Education / PBLWorks）系统确立了“黄金标准项目式学习”（Gold Standard PBL）框架。
 > - **2020s — 智能[[Technology Infusion\|技术整合]]与认知协同拓展** [[Generative Artificial Intelligence\|生成式人工智能]]与智能化[[Scaffolding\|脚手架]]深度融入项目式学习，智能工具转型为学习者的认知伙伴，大幅降低了原型迭代与信息综合的门槛，进一步释放了复杂探究的育人价值。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 11–12, 16)]]
 
 ---

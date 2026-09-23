@@ -8,7 +8,7 @@ aliases:
 summary: "教师与学生共同明确在特定教学活动中所要达成的核心认知理解、概念迁移与能力发展指向，区别于具体的活动任务完成要求"
 type: concept
 domain: "curriculum-instruction"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Document]]"
   - "[[Learning Gap]]"
+  - "[[Open-Mindedness]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Learning Intentions
@@ -150,7 +151,7 @@ updated: 2026-09-17
 > > [!axis] 预设意图的刚性规范 vs 生成性学习探究
 > >
 > > - **标准化教学取向** 强调每节课必须有严格预设且不可偏离的学习意图，以确保教学活动精准达成课程标准要求。
-> > - **生成性探究批判者** 指出若将学习意图过于僵化地作为教条，可能压抑课堂偶发生成的探究兴趣与发散性创造思维，主张学习意图应具备适度开放性与动态协商空间。
+> > - **生成性探究批判者** 指出若将学习意图过于僵化地作为教条，可能压抑课堂偶发生成的探究兴趣与发散性创造思维，主张学习意图应具备适度[[Open-Mindedness|开放性]]与动态协商空间。
 
 ---
 

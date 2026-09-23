@@ -10,7 +10,7 @@ aliases:
 summary: "人工智能与教育技术学概念，指大语言模型等生成式系统输出看似连贯权威、语法高度流畅但实际上偏离客观事实、缺乏真实依据、虚构引用或逻辑自相矛盾的内容现象。"
 type: concept
 domain: "educational-technology"
-related_count: 43
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -33,9 +33,12 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Brainstorming]]"
   - "[[AI Literacy]]"
+  - "[[Causal Processes]]"
   - "[[Cognitive Offloading]]"
   - "[[Illusion of Competence]]"
   - "[[Self-Regulated Learning]]"
+  - "[[Scientific Explanation]]"
+  - "[[Epistemic Deference]]"
   - "[[Homework]]"
   - "[[Artefact]]"
   - "[[Paradigm]]"
@@ -45,10 +48,11 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Epistemic Stances]]"
   - "[[Hypothesis]]"
+  - "[[Growth]]"
+  - "[[Dialogue in Education]]"
   - "[[Visible Learning]]"
   - "[[Automated Data Extraction]]"
   - "[[Primary and Secondary Documents]]"
-  - "[[Scientific Explanation]]"
 related_theories: []
 related_methods:
   - "[[Triangulation]]"
@@ -57,6 +61,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Pilot Testing]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Multimodal Discourse Analysis]]"
   - "[[Random Sampling]]"
   - "[[Correlational Research]]"
 related_persons: []
@@ -131,7 +136,7 @@ updated: 2026-09-22
 > - **逻辑推理断裂（Logical & Deductive Inconsistency）** 在长文本推导或数学证明中，前言不搭后语，每一步看似合理但整体推论存在致命逻辑跳跃。[[Argument_Li_2026_CEAI\|(Urhan et al., 2024; Li et al., 2026, p. 7)]]
 > - **顺应性误导（Sycophancy / User-Induced Bias）** 随着用户提问的诱导性倾向而顺应生成虚假支持理由，强化用户的确认偏误（Confirmation Bias）。
 > - **伪完整性机制遗漏（Pseudo-completeness & Mechanistic Omission）** 生成式模型生成表层语法极其流畅、情节生动（如四季豆生长的童话拟人化叙述），但实质上省略了关键物理/生物微观因果机制（如根茎水分输运或分类学上位界定）的“隐蔽性不完整”，造成对科学原理的伪表征。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 11–16)]]
-> - **多模态静态表征偏差（Multimodal Static Representation Bias）** 图像生成模型倾向于生成具象但静态的宏观外貌插图（如仅画出根部插入泥土），缺乏反映动态流动、因果方向与微观解剖特征（如吸水根毛与渗透流动箭头）的科学表征，容易诱发学生对动态因果过程的错误感知。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 16–18)]]
+> - **多模态静态表征偏差（Multimodal Static Representation Bias）** 图像生成模型倾向于生成具象但静态的宏观外貌插图（如仅画出根部插入泥土），缺乏反映动态流动、因果方向与微观解剖特征（如吸水根毛与渗透流动箭头）的科学表征，容易诱发学生对动态[[Causal Processes|因果过程]]的错误感知。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 16–18)]]
 
 > [!logic-map]- 教育情境中 AI 幻觉的二元分化路径图
 > ```mermaid
@@ -189,7 +194,7 @@ updated: 2026-09-22
 > **算法缺陷对[[Critical Thinking\|批判性思维]]的倒逼与认识论重塑效应** 当教师明确将 AI 输出设定为“包含潜在错误的初级素材”并设计对抗性查错（Red-teaming）任务时，AI 幻觉构成了极佳的反思磨刀石[[Argument_Li_2026_CEAI\|(Archila et al., 2024; Li et al., 2026, pp. 6, 11–12)]]。元分析证实，生成式 AI 固有的幻觉与不准确信息，在客观上倒逼学生放弃盲从，显著强化批判性评估技能（$g = 0.691$）[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 10–11, 14)]]。实证研究进一步从认识论视角揭示，算法幻觉构成了促发认识论扰动（Epistemic Perturbation）的教学契机：绝对主义者盲信幻觉导致错误扩散，而结合提示词与同行评议支架，能够引导学生直面算法破绽，激发出多源实证核验动机，促成向[[Evaluativist\|评价主义认识立场]]的跨越。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 364–366)]]
 
 > [!claim] Han, J., & Gutierez, S. B.
-> **学科评价标准驱动中学生穿透 AI 幻觉与机制遗漏** 在人机协同科学解释建构中，初中生面对生成式 AI（Canva 与 ChatGPT）产出的流畅童话故事与静态图解时，依托显性学科解释标准（相关性、因果叙事、概念框架、适切表征水平）实施对抗性审问：不仅识别出关于植物器官功能的碎片化罗列，更精准捕获了因果链条断裂与真菌界分类遗漏，通过针对性重构提示词与多模态补充促使 AI 生成更严谨的科学机制模型。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 11–18)]]
+> **学科评价标准驱动中学生穿透 AI 幻觉与机制遗漏** 在人机协同[[Scientific Explanation|科学解释建构]]中，初中生面对生成式 AI（Canva 与 ChatGPT）产出的流畅童话故事与静态图解时，依托显性学科解释标准（相关性、因果叙事、概念框架、适切表征水平）实施对抗性审问：不仅识别出关于植物器官功能的碎片化罗列，更精准捕获了因果链条断裂与真菌界分类遗漏，通过针对性重构提示词与多模态补充促使 AI 生成更严谨的科学机制模型。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 11–18)]]
 
 ---
 
@@ -199,7 +204,7 @@ updated: 2026-09-22
 > | 命题类型 | 核心主张 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **技术机制命题** | 概率预测本质决定幻觉是生成式系统的内在属性 | 计算机科学、大模型原理与 AI 素养基础 | Ji et al.; Li et al. |
-> | **风险侵蚀命题** | 无支架使用与低自律状态下幻觉诱发虚假掌握与认知顺从 | 开放性课后[[Homework\|作业]]、无监管学术写作 | Li et al.; Xu et al.; Zhao et al. |
+> | **风险侵蚀命题** | 无支架使用与低自律状态下幻觉诱发虚假掌握与[[Epistemic Deference\|认知顺从]] | 开放性课后[[Homework\|作业]]、无监管学术写作 | Li et al.; Xu et al.; Zhao et al. |
 > | **教学转化与认识跃迁** | 结构化查错将幻觉转化为倒逼批判性思维与评价论演进的认知靶子 | 科学写作探究、统计推论决策、评估改革 | Archila et al.; Li et al.; Zhao et al.; [[Argument_Wu_2025_ER\|Wu et al. (2025)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] |
 
 ---
@@ -211,7 +216,7 @@ updated: 2026-09-22
 > - **2022–2023 年 — ChatGPT 爆发与大模型幻觉泛化** 随着生成式 AI 普及，幻觉特异性指向 LLMs 编造虚假事实与虚构学术引文的普遍现象，引发全球学术界关于研究可[[Reliability\|信度]]的争论。
 > - **2024–2026 年 — 学习科学与教育学教学化转向** 教育研究从单纯的“技术除错/封禁”转向“教学转化”，[[Argument_Li_2026_CEAI\|Li et al. (2026)]]、Archila et al. (2024) 与 [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 系统确立了基于 AI 幻觉识别的[[Critical Thinking\|批判性思维]]与[[Epistemological Vigilance\|认识论警觉]]培养[[Paradigm\|范式]]。
 > - **2025 年 — 人机共生[[Epistemology\|认识论]]扰动机制确立** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 实证揭示算法幻觉作为诱发认识论扰动的核心催化剂，确立了通过双轨支架将幻觉转化为评价主义立场跃迁的干预机制。
-> - **2026 年 — 多模态伪完整性审验与学科标准支架** [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] 揭示生成式 AI 在科学解释中的伪完整性与静态图解表征偏差，实证确立学科四维标准在初中生识别机制断裂与图解纠偏中的支架效能。
+> - **2026 年 — 多模态伪完整性审验与学科标准支架** [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] 揭示生成式 AI 在[[Scientific Explanation|科学解释]]中的伪完整性与静态图解表征偏差，实证确立学科四维标准在初中生识别机制断裂与图解纠偏中的支架效能。
 
 ---
 
@@ -242,7 +247,7 @@ updated: 2026-09-22
 > > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 7)]] | 全球 67 项高等教育实证研究（2022–2025） | [[PRISMA]] 系统综述 | 缺乏幻觉核查导致的学术风险 | 14 项实证研究报告学生因未辨别 AI 幻觉而直接采纳错误引文，导致[[Homework\|作业]]论证逻辑破裂并面临学术诚信风险 | — | 揭示缺乏 AI 素养与幻觉防范规程时的普遍认知风险 |
 > > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025, pp. 10–11, 14, 16)]] | 纳入全球 59 项独立实证研究（批判性思维子维度 $k = 20$） | 随机效应一阶[[Meta-analysis\|元分析]]与调节效应模型 | 批判性思维（$g = 0.691$）机制解释与自主调节能力（低 SRL 易感性） | 确立批判性思维在中等偏大水平显著提升（$g = 0.691$），理论机制模型证实 AI 幻觉具有倒逼审验的催化作用；同时亚组检验显示低 SRL 组促学效应微弱（$g = 0.284$），证实缺乏自律调控易深陷幻觉误导 | 组内 $Z = 5.973, p < 0.001$；SRL 组间 $Q_b = 40.962, p < 0.001$ | 实证表明 AI 幻觉转化为批判性思维动力高度依存于学习者的自我调节水平与显性查错支架 |
 > > | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 363–366)]] | N=124 师范生统计分析任务 | 2x2 [[Randomised Controlled Trials\|随机对照实验]]与人机交互追踪 | 算法幻觉识别率与[[Epistemic Stances\|认识立场]]演进 | 实验组通过提示词约束使大模型显式输出前提[[Hypothesis\|假设]]，学生成功识别出 ChatGPT 在正态性假设上的算法幻觉，多源验证行为显著增加，评价论达成率显著提升 | $p < .01$ | 证实幻觉在双轨支架下能有效转化为认识论进阶的催化剂 |
-> > | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节人机协同科学课（植物[[Growth\|生长]]与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像转录、数字生成物、访谈） | AI 伪完整性识别与多模态图表纠偏表现 | 初中生在 4 组对话中敏锐指出 AI 叙事性童话掩盖了水分运输机制，并识别出静态插图缺乏水流渗透箭头，通过迭代提示词促使 AI 补全机制与微观结构 | 质性微观对话与制品分析 | 确立学科标准在初中生识破 AI 伪完整性与多模态表征偏差中的有效支架功能 |
+> > | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节人机协同科学课（植物[[Growth\|生长]]与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像转录、数字生成物、访谈） | AI 伪完整性识别与多模态图表纠偏表现 | 初中生在 4 组[[Dialogue in Education\|对话]]中敏锐指出 AI 叙事性童话掩盖了水分运输机制，并识别出静态插图缺乏水流渗透箭头，通过迭代提示词促使 AI 补全机制与微观结构 | 质性微观对话与制品分析 | 确立学科标准在初中生识破 AI 伪完整性与多模态表征偏差中的有效支架功能 |
 > > | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026, pp. 16–18)]] | 156 项教育元分析（[[Visible Learning\|可见的学习]]数据库[[Random Sampling\|随机抽样]]，468 个数据点） | 大模型提取准确性与金标准仲裁评测（Gemini 2.5 Pro、GPT-4.1、GPT-o3） | [[Automated Data Extraction\|自动化数据提取]]中的事实幻觉与信息遗漏 | 在 55 项原文缺失对应统计量的元分析中，三大前沿 LLM 仅产生 3–4 例事实性幻觉（与人类专家的 3–4 例完全持平）；而信息遗漏更为普遍（LLM 遗漏 21–36 例 vs 专家 12–31 例） | $\text{ICC} = 0.96–0.97$（模型 vs 金标准） | 证实前沿 LLM 在严格提示词下事实性幻觉发生率极低，误差主要由长文本信息遗漏与多表累加疏漏驱动 |
 > 
 > ---
@@ -254,12 +259,12 @@ updated: 2026-09-22
 > >   教师让 ChatGPT 针对某个争议性科学议题生成一篇包含 5 篇参考[[Document\|文献]]的微综述，然后要求学生作为“学术审稿人（Reviewer）”，逐一检索 Web of Science 与 PubMed 数据库核对引文是否存在、引述结论是否被歪曲。该任务极大地锻炼了学生的[[Primary and Secondary Documents\|一手文献]]溯源与实证辨析能力。
 > > - **“提示词去幻觉迭代与辩护答辩”考核规程（[[Argument_Wu_2025_ER\|Wu et al., 2025]]）**
 > >   在统计决策与研究设计课中，要求学生利用提示词迫使模型暴露其潜在的逻辑幻觉与适用边界，并将去幻觉的多源核验记录与同行评议辩护作为核心考核依据。
-> > - **中学生多模态科学解释“去伪存真与机制补全”探究（[[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez, 2026]]）**
+> > - **中学生多模态[[Scientific Explanation|科学解释]]“去伪存真与机制补全”探究（[[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez, 2026]]）**
 > >   初中科学课上引导学生运用四维科学解释标准审查 AI 生成的四季豆生长童话与植物根部插图，自主发现机制断裂与图解表征失真，并重构提示词以补全因果微观机制。
 > 
 > ---
 > 
-> ## 相关研究
+> ## [[Correlational Research|相关研究]]
 > 
 > > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出人机共生自适应[[Epistemic Stances\|认识立场]]框架，实证揭示算法幻觉作为[[Epistemology\|认识论]]扰动契机如何通过双轨支架驱动学生向评价主义演进。

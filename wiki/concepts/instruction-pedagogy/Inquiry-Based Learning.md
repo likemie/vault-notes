@@ -10,7 +10,7 @@ aliases:
 summary: "以学习者自主生成新知、依托经验证据推论、行使认识能动性并参与共同体批判协商为核心的教学取向，在适切支架与指导协同下对促进概念理解与远迁移显著优于单一直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Constructed Knowledge]]"
-  - "[[Knowledge Production]]"
   - "[[Epistemic Agency]]"
   - "[[Control of Variables Strategy]]"
   - "[[Rote Learning]]"
@@ -33,6 +32,7 @@ related_concepts:
   - "[[Discovery Learning]]"
   - "[[Scaffolding]]"
   - "[[Working Memory]]"
+  - "[[Knowledge Production]]"
   - "[[Epistemology]]"
   - "[[Procedural Skill]]"
   - "[[Metacognition]]"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Literature Review]]"
 related_theories:
   - "[[Inquiry Cycle]]"
+  - "[[Knowledge Building Theory]]"
   - "[[Cognitive Constructivism]]"
   - "[[Cognitive Load Theory]]"
 related_methods:
@@ -96,7 +97,7 @@ updated: 2026-09-22
 > 探究式学习（Inquiry-Based Learning，亦称探究式教学 Inquiry-Based Instruction、指导式探究 Guided Inquiry）是指一种以学习者为主体，通过开展科学调查与实验、主动收集并解释经验证据、反思并解决认知冲突，进而自主建构科学概念理解与学科实践能力的教学取向。其本质不是将预制结论直接交付学生，而是引导学生在由浅入深的[[Inquiry Cycle\|探究循环]]（Inquiry Cycle）中，通过[[Hypothesis\|假设]]提出、[[Variable\|变量]]操纵、因果推论与批判性论证[[Constructed Knowledge\|建构知识]]。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–3)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 强调学习者在情境化调查中作为[[Knowledge Production\|知识建构]]者的[[Epistemic Agency\|认识能动性]]（Epistemic Agency），通过经验证据检验概念模型，推动深度概念重构与概念转变。
+> - **含义** 强调学习者在情境化调查中作为[[Knowledge Building Theory|知识建构]]者的[[Epistemic Agency\|认识能动性]]（Epistemic Agency），通过经验证据检验概念模型，推动深度概念重构与概念转变。
 > - **用途** 解释抽象概念理解的生成机制、高阶科学探究技能（如[[Control of Variables Strategy\|变量控制策略]]）的发展路径，并为反对机械[[Rote Learning\|死记硬背]]的科学教育改革提供循证依据。
 > - **边界** 必须严格区分纯无指导发现（Pure Unassisted Discovery）与辅以支架的指导式探究（Guided Inquiry）；同时对于良构的事实性知识或初阶程序训练，单一探究的教学效率低于结构化的[[Direct Instruction\|直接教学]]。
 

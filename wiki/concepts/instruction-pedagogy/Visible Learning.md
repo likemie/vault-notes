@@ -5,7 +5,7 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 72
+related_count: 71
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Neo-Taylorism]]"
   - "[[Reflexivity]]"
-  - "[[Dialogue in Education]]"
   - "[[Evidence-Based Education]]"
   - "[[Praxis]]"
   - "[[Paradigm]]"
@@ -121,7 +120,7 @@ updated: 2026-09-22
 > [!boundary]- 概念边界
 > - **不等于 单纯的方法排名清单（Ranked Checklist）** VL 虽然呈现了干预措施的效应量排序，但 Hattie 反复强调效应量只是激发专业研讨的探针；脱离学生先备知识与具体情境机械套用高分方法违背了 VL 核心原则。
 > - **不等于 外部惩罚性测验问责（High-Stakes Accountability）** VL 明确反对以“体温计牵引理论”为底层的惩罚性统考；主张依托形成性测评（如 [[Assessment Tools for Teaching and Learning\|asTTle]]）为教师提供诊断学情与调整后续教学的即时线索。
-> - **不等于 商业化脚本式培训（Scripted Fidelity Products）** 商业推广机构将 VL 包装为标准化培训方案，但学术层面的 VL 核心在于培育教师的评价性专业判断与[[Reflexivity\|反思性]][[Dialogue in Education\|对话]]。
+> - **不等于 商业化脚本式培训（Scripted Fidelity Products）** 商业推广机构将 VL 包装为标准化培训方案，但学术层面的 VL 核心在于培育教师的评价性专业判断与[[Reflexivity\|反思性]]对话。
 
 ---
 
@@ -185,7 +184,7 @@ updated: 2026-09-22
 > **学业成就方差分解与教师因果中心** 影响学业成就的六大方差源中，学生个体背景占 50%，但公立学校无法挑选社区生源；家庭、学校硬件与同伴各占 5–10%；而教师教学效能独占 30% 方差，构成了学校教育系统内部最大且唯一受政策直接调控的核心因果杠杆。将问责定位于教师，要求彻底颠倒评价数据的认识论指向：测验数据不是判定学生“行或不行”的标签，而是检验教师自身教学是否奏效的反光镜；学生未能掌握知识构成了教师调整后续教学方案的即时线索。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 13, 17)]]
 
 > [!claim] Hattie, J.
-> **八项教师思维框架与认识论自觉** 教师的教学效能根本上取决于其内隐的思维框架（Mind Frames）。以“认识自身影响（Know thy impact）”为核心枢纽，成功教师将自己视为变革推动者（Change Agent）、视评价为关于自身教学的反馈、主动与同事校准学业标准、倡导课堂深度[[Dialogue in Education\|对话]]并视学生错误为宝贵的诊断契机，从而在日常教学中实现持续的自我监控与调整。[[Argument_Hattie_2015_SOTLP\|(Hattie, 2015b, pp. 88–89)]]
+> **八项教师思维框架与认识论自觉** 教师的教学效能根本上取决于其内隐的思维框架（Mind Frames）。以“认识自身影响（Know thy impact）”为核心枢纽，成功教师将自己视为变革推动者（Change Agent）、视评价为关于自身教学的反馈、主动与同事校准学业标准、倡导课堂深度对话并视学生错误为宝贵的诊断契机，从而在日常教学中实现持续的自我监控与调整。[[Argument_Hattie_2015_SOTLP\|(Hattie, 2015b, pp. 88–89)]]
 
 ---
 

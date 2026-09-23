@@ -34,7 +34,6 @@ related_concepts:
   - "[[Illusion of Competence]]"
   - "[[Creative Self-Efficacy]]"
   - "[[Reflexivity]]"
-  - "[[Dialogue in Education]]"
   - "[[Surface and Deep Learning]]"
   - "[[Epistemic Friction]]"
   - "[[Problem Solving]]"
@@ -73,6 +72,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Paradigm]]"
   - "[[Independent Variable]]"
+  - "[[Dialogue in Education]]"
   - "[[Formative Assessment]]"
   - "[[Evaluativist]]"
   - "[[Epistemic Dependence]]"
@@ -138,7 +138,7 @@ updated: 2026-09-22
 > [!citation-card] 元认知与批判性思维、创造力及人机反思协同
 > 创造力与[[Critical Thinking\|批判性思维]]都涉及评价、判断与自我调节等认知与元认知过程，要求灵活而目标导向的推理，元认知因此是两者正相关的共同基础，也支撑联合培养的可行性。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]]
 >
-> 我们建议嵌入显性支架——如[[Reflexivity\|反思性]]提示、量规引导评估和 AI 素养培训——以激活学生的元认知监控，发挥 ChatGPT 作为[[Dialogue in Education\|对话]]伙伴而非便利工具的潜能，维持[[Surface and Deep Learning\|深层学习]]所必需的“[[Epistemic Friction\|认识论摩擦]]”。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 10)]]
+> 我们建议嵌入显性支架——如[[Reflexivity\|反思性]]提示、量规引导评估和 AI 素养培训——以激活学生的元认知监控，发挥 ChatGPT 作为对话伙伴而非便利工具的潜能，维持[[Surface and Deep Learning\|深层学习]]所必需的“[[Epistemic Friction\|认识论摩擦]]”。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 10)]]
 >
 > 显性元认知指导使学生习得规划、监控与评价自身思维过程的策略，能显著提高学生在劣构问题中的顿悟表征重构能力与远距离概念联想表现，证明创造性[[Problem Solving\|问题解决]]本质上依赖高质量的元认知调控。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10; Hargrove & Nietfeld, 2015)]]
 >
@@ -278,7 +278,7 @@ updated: 2026-09-22
 > - **2010 年代　批判反思、[[Epistemology\|认识论]]课程与[[Creative Problem Solving\|创造性问题解决]]** [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] 探讨 IB 认识论（ToK）课程的元认知训练效能；哈格罗夫与尼特菲尔德（Hargrove & Nietfeld, 2015）开展准实验，证实显性元认知指导对高校[[Creativity\|创造性]][[Problem Solving\|问题解决]]的因果促学作用。
 > - **2025 年　基线控制[[Meta-analysis\|元分析]]确证“[[Metacognitive Laziness\|元认知惰性]]”** [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 通过 57 项高校实验元分析证实生成式 AI 对元认知无统计显著促进（$g^+ = 0.078, p = .789$），推翻技术自发促学假说，实证确立防范元认知惰性的紧迫性。
 > - **2025–2026 年　大规模[[Meta-analysis\|元分析]]确立协同机制与 AI 警觉防线** [[Argument_Park_2026_TSC\|Park et al. (2026)]] 确立[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]共享元认知底座（$r = 0.386$）；[[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 揭示独立练习深思（$g = 0.682$）促进元认知策略内化的组织优势；[[Argument_Li_2026_CEAI\|Li et al. (2026)]] 确立显性元认知监控作为生成式 AI 时代维系[[Epistemological Vigilance\|认识论警觉]]的战略防线。
-> - **2025 年　人机共生学习伙伴中的元认知质询与立场进阶** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 通过统计推论多轮交互[[Dialogue in Education\|对话]]追踪，实证揭示高阶元认知监控如何驱动学习者主动突破大模型的虚假流畅与自相矛盾，实现从绝对论盲从向评价论的演进。
+> - **2025 年　人机共生学习伙伴中的元认知质询与立场进阶** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 通过统计推论多轮交互对话追踪，实证揭示高阶元认知监控如何驱动学习者主动突破大模型的虚假流畅与自相矛盾，实现从绝对论盲从向评价论的演进。
 > - **2026 年　关系性[[Epistemic Agency\|认识主体性]]与生产性认识摩擦的元认知转向** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 揭示无摩擦委派切除中间认识动作导致元认知监控瘫痪的社会技术路径，提出通过对抗性反思质询与生产性认识摩擦捍卫[[Evaluative Judgement\|评价性判断]]的主体掌控权。
 
 ---

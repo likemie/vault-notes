@@ -3,7 +3,7 @@ title: Critical Thinking
 aliases:
   - 批判性思维
   - critical thinking skills
-summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
+summary: 以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。
 type: concept
 domain: "competency-and-assessment"
 related_count: 104
@@ -16,7 +16,7 @@ tags:
   - theme/higher-order-thinking
 related_concepts:
   - "[[Construct]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Critical Thinking Assessment]]"
   - "[[Ontology]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -128,7 +128,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Critical Thinking
@@ -138,7 +138,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 批判性思维是以理由为依据、有目的且能够自我调节的反思判断。个体需要识别和分析论证，评价证据与信息来源，形成推论与解释，权衡相关理由后决定相信什么或采取何种行动。完整[[Construct\|构念]]还包括探究、开放、公正、智识[[Humility in Learning\|谦逊]]和自我纠正等倾向，以及使判断成立的领域知识和情境标准。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 31–35)]]
+> 批判性思维是以理由为依据、有目的且能够自我调节的反思判断。个体需要识别和分析论证，评价证据与信息来源，形成推论与解释，权衡相关理由后决定相信什么或采取何种行动。完整[[Construct\|构念]]还包括探究、开放、公正、智识[[Humility\|谦逊]]和自我纠正等倾向，以及使判断成立的领域知识和情境标准。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 31–35)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 批判性思维把解释、分析、评价、推论、说明和自我调节组织为有理由的判断过程。
@@ -174,7 +174,7 @@ updated: 2026-09-22
 > - **推论** 从证据形成合宜结论，提出[[Hypothesis\|假设]]、预测与替代解释，并控制主张范围。
 > - **说明** 清楚表达判断及其依据，说明方法、标准和推导过程。
 > - **自我调节** 反思自身假设、偏见和推理过程，根据审查结果修正判断。
-> - **思维倾向** 探究、开放、公正、独立、智识[[Humility in Learning\|谦逊]]、勇气、诚信与坚持，使技能得到持续而负责的运用。
+> - **思维倾向** 探究、开放、公正、独立、智识[[Humility\|谦逊]]、勇气、诚信与坚持，使技能得到持续而负责的运用。
 > - **知识与情境** 领域知识、任务目标、[[Epistemology\|认识论]]立场和具体语境共同规定[[Evidence Standards\|证据标准]]与合理判断的含义。此外，个体的[[Epistemological Understanding\|认识论理解]]必须达到评价论阶段，才能产生运用批判性思维比较观点的内在动机。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 32–35)]] [[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 326)]]
 
 > [!logic-map]- 批判性判断的形成
@@ -227,7 +227,7 @@ updated: 2026-09-22
 > **有理由的反思判断** Siegel 将批判性思维连接到理性，要求个体把握不同理由与判断的相关性并适当权衡其分量。Ennis and Weir 将其界定为聚焦于决定相信什么或做什么的合理、[[Reflective Thinking\|反思性思维]]。Facione 的德尔菲框架进一步把这种判断拆为解释、分析、评价、推论、说明和自我调节，并加入探究、开放和理解他人等倾向。三者共同表明，技能表现需要理由承诺和反思倾向才能形成完整构念。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 32)]]
 
 > [!claim] Paul, R.; [[Steve Higgins\|Higgins, S.]]; Nisbett, R. E.
-> **情境化的思维质量** Paul 将独立思考、公正、智识[[Humility in Learning\|谦逊]]和坚持与来源评价、观点比较、[[Hypothesis\|假设]]审查、推论及后果分析并置。Higgins 进一步区分视角、倾向和所处理的知识维度。Nisbett 对清单式界定的批评说明，同一个行动词只有在倾向、视角和情境得到说明后，才可用于判断思维质量。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 32–35)]]
+> **情境化的思维质量** Paul 将独立思考、公正、智识[[Humility\|谦逊]]和坚持与来源评价、观点比较、[[Hypothesis\|假设]]审查、推论及后果分析并置。Higgins 进一步区分视角、倾向和所处理的知识维度。Nisbett 对清单式界定的批评说明，同一个行动词只有在倾向、视角和情境得到说明后，才可用于判断思维质量。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 32–35)]]
 
 ### 命题二　显性教学更可能产生可观察增益，其效果受领域知识与实施条件约束
 
@@ -235,7 +235,7 @@ updated: 2026-09-22
 > 研究关注批判性思维是否需要被明确命名、示范和练习，以及独立课程获得的策略如何与学科知识、教师能力和学校组织结合。
 
 > [!claim] Abrami, P. C., et al.; Marin, L. M., & Halpern, D. F.; Behar-Horenstein, L. S., & Niu, L.
-> **显性教学与复合策略优势** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] [[Meta-analysis\|元分析]]证实显性[[Blended Learning\|混合教学]]模式（独立思维教学 + 学科融入）显著优于单纯隐性沉浸模式；同时，将[[Authentic Instruction\|真实性教学]]（应用型解题与[[Role-playing\|角色扮演]]）、深度[[Dialogue in Education\|对话]]与导师指导整合的三维复合干预产生最高增益，揭示了显性示范、情境锚定与过程[[Scaffolding\|脚手架]]的协同机制。Abrami et al. (2008) 早期元分析与 Behar-Horenstein & Niu (2011) 高教干预[[Systematic Review\|系统综述]]亦一致证实，唯有明确界定高阶认知目标并结合显性示范，才能产生稳定增益。Marin and Halpern 在低表现学校开展的[[Randomised Controlled Trials\|随机对照实验]]也发现，显性教学组的技能增益显著更大。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 293–295)]] [[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 249–250)]] [[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 33)]]
+> **显性教学与复合策略优势** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] [[Meta-analysis\|元分析]]证实显性[[Blended Learning\|混合教学]]模式（独立思维教学 + 学科融入）显著优于单纯隐性沉浸模式；同时，将[[Authentic Instruction\|真实性教学]]（应用型解题与[[Role-playing\|角色扮演]]）、深度对话与导师指导整合的三维复合干预产生最高增益，揭示了显性示范、情境锚定与过程[[Scaffolding\|脚手架]]的协同机制。Abrami et al. (2008) 早期元分析与 Behar-Horenstein & Niu (2011) 高教干预[[Systematic Review\|系统综述]]亦一致证实，唯有明确界定高阶认知目标并结合显性示范，才能产生稳定增益。Marin and Halpern 在低表现学校开展的[[Randomised Controlled Trials\|随机对照实验]]也发现，显性教学组的技能增益显著更大。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 293–295)]] [[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 249–250)]] [[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 33)]]
 
 > [!claim] Willingham, D. T.; Bailin, S.; Cole, D. R., et al.
 > **知识与实施约束** 历史、科学及其他领域采用不同的证据和论证标准，学生需要足够的背景知识才能运用通用策略。Cole 等人的学校案例进一步显示，同一 ToK 框架可产生高度整合或近乎随意的课堂实践。课程形式只有与领域知识、教师培训、学校文化和跨学科协作结合，才可能稳定支持批判性思维。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 249–250, 255–259)]]
@@ -320,7 +320,7 @@ updated: 2026-09-22
 > - **1980 年代　反思判断成为定义核心** Siegel 将批判性思维与理性和理由权衡相连，Ennis and Weir 将其聚焦于决定相信什么或采取何种行动，使概念从宽泛教育理想转向可讨论的判断过程。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 32)]]
 > - **1990 年代　技能、倾向与多层分类发展** Facione 的德尔菲框架、Paul 的三维分类和 Halpern 的技能体系扩展了[[Construct\|构念]]范围，认知技能、思维倾向、迁移和[[Problem Solving\|问题解决]]成为主要议题。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 32–34)]]
 > - **2000 年代　课程[[Operationalization\|操作化]]与[[Construct Validity\|构念效度]]审查** 修订版 Bloom 分类法、Cambridge Assessment 框架及 ToK 等显性探究课程推动概念进入课程目标、测量工具和评估标准，研究重点转向教学效果、迁移条件与构念效度。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 33–35)]] [[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 249–250)]]
-> - **2010 年代至今　微观策略协同与高阶实证综合** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 通过大规模[[Meta-analysis\|元分析]]确立了[[Authentic Instruction\|真实性教学]]、[[Dialogue in Education\|对话]]与[[Mentorship\|导师制]]三维协同干预机制；[[Argument_Li_2026_CEAI\|Li et al. (2026)]] [[Systematic Review\|系统综述]] 67 项高校实证研究，揭示生成式 AI 对批判性思维的双向塑造机制，确立了以反思提示和[[Epistemological Vigilance\|认识论警觉]]防范[[Cognitive Offloading\|认知卸载]]的教学干预体系。
+> - **2010 年代至今　微观策略协同与高阶实证综合** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 通过大规模[[Meta-analysis\|元分析]]确立了[[Authentic Instruction\|真实性教学]]、对话与[[Mentorship\|导师制]]三维协同干预机制；[[Argument_Li_2026_CEAI\|Li et al. (2026)]] [[Systematic Review\|系统综述]] 67 项高校实证研究，揭示生成式 AI 对批判性思维的双向塑造机制，确立了以反思提示和[[Epistemological Vigilance\|认识论警觉]]防范[[Cognitive Offloading\|认知卸载]]的教学干预体系。
 
 ---
 
@@ -444,7 +444,7 @@ updated: 2026-09-22
 > - **术语表演与议程冲突** [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]] 分析 ToK 评估框架如何诱发术语表演，并揭示开放探究与科学知识传播之间的课程张力。
 > - **[[Epistemology\|认识论]]引擎** [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 揭示了批判性思维不仅仅是一套认知技能，其发生的动机和动力受制于个体的底层认识论发展阶段。
 > - **[[Cooperative Learning\|合作学习]]与[[Meta-meta-analysis\|二阶元分析]]实证** [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 基于 15 项一阶[[Meta-analysis\|元分析]]开展二阶元分析，证实合作学习对批判性思维等[[Higher-Order Thinking Skills\|高阶思维技能]]具有最强的赋能效应（$ES = 0.76$），从[[Constructivist Paradigm\|社会建构主义]]视角确立了同伴互动与认知冲突对批判性反思的驱动机制。
-> - **教学策略元分析与复合干预** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 综合 341 项实验与准[[Experimental Research\|实验研究]]，确立了[[Authentic Instruction\|真实性教学]]、[[Dialogue in Education\|对话]]与[[Mentorship\|导师制]]三维协同对批判性思维技能与倾向的最高干预效应（$g+ = 0.57$）。
+> - **教学策略元分析与复合干预** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 综合 341 项实验与准[[Experimental Research\|实验研究]]，确立了[[Authentic Instruction\|真实性教学]]、对话与[[Mentorship\|导师制]]三维协同对批判性思维技能与倾向的最高干预效应（$g+ = 0.57$）。
 > - **PBL 与[[Meta-meta-analysis\|二阶元分析]]实证** [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] 综合 20 项一阶元分析，报告 PBL 对高等教育学生[[Critical Thinking\|批判性思维]]的高效应（ES = 0.56），并将批判性思维作为结果类型之一纳入调节分析。
 > - **与[[Creativity\|创造力]]关系的元分析实证** [[Argument_Park_2026_TSC\|Park et al. (2026)]] 综合 29 项学生研究 51 个[[Effect Size\|效应量]]，确立批判性思维与创造力中等正相关（$r = 0.386$），并证实测量类型显著调节相关，双主观测量组合相关最高（$r = 0.509$），提示自陈测量中的[[Common Method Variance\|共同方法变异]]放大了观察相关。
 > - **[[Generative Artificial Intelligence\|生成式人工智能]]赋能与[[Epistemic Friction\|认识论摩擦]]机制** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] [[Systematic Review\|系统综述]] 67 项实证研究，揭示 ChatGPT 对批判性思维具有催化反思与诱发认知惰性的双重效应，确立了维持认识论摩擦与显性反思支架防范批判性论证退化的教学干预机制。

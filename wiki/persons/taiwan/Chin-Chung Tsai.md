@@ -22,7 +22,6 @@ tags:
   - theme/epistemic-cognition
 related_concepts:
   - "[[Epistemological Beliefs]]"
-  - "[[Knowledge Production]]"
   - "[[Epistemology]]"
   - "[[Epistemic Stances]]"
   - "[[Epistemic Agency]]"
@@ -45,6 +44,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Evaluativist]]"
 related_theories:
+  - "[[Knowledge Building Theory]]"
   - "[[Symbiotic Framework of Adaptive Epistemic Stances]]"
 related_methods:
   - "[[Network Analysis]]"
@@ -71,7 +71,7 @@ updated: 2026-09-22
 
 > [!person-profile] 人物档案
 > - **身份位置** 中国台湾学习科学与教育技术学者，台湾师范大学学习科学跨国顶尖研究中心讲座教授、教育学院院长，国际权威期刊 *Computers & Education* 与 *International Journal of Science Education* 前主编/主编。
-> - **核心角色** 在学习者科学[[Epistemological Beliefs\|认识论信念]]、网络化学习环境认知机制以及人机协同[[Knowledge Production\|知识建构]]研究中发挥奠基性枢纽作用。
+> - **核心角色** 在学习者科学[[Epistemological Beliefs\|认识论信念]]、网络化学习环境认知机制以及人机协同[[Knowledge Building Theory|知识建构]]研究中发挥奠基性枢纽作用。
 > - **代表贡献** 提出网络学习[[Epistemology\|认识论]]两大假说（Tsai, 2004）；开创基于认识[[Network Analysis\|网络分析]]的学习交互研究；建构人机自适应[[Epistemic Stances\|认识立场]]与共生学习理论框架。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360)]]
 
 > [!citation-card] 人机共生学习环境中的认识调适定位
@@ -143,7 +143,7 @@ updated: 2026-09-22
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承／合作者** [[Clark A. Chinn]] — 在[[Epistemic Cognition\|认识论认知]]理论拓展与科学[[Inquiry-Based Learning\|探究学习]]研究中存在长期学术[[Dialogue in Education\|对话]]与理论共鸣。
+> - **师承／合作者** [[Clark A. Chinn]] — 在[[Epistemic Cognition\|认识论认知]]理论拓展与科学[[Inquiry-Based Learning\|探究学习]]研究中存在长期学术对话与理论共鸣。
 > - **合作者** 吴忞（Min Wu）、陈盛仕（Sheng-Shih Chen） — 共同提出人机自适应[[Epistemic Stances\|认识立场]]与共生学习理论框架。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–368)]]
 > - **机构／学术平台** 台湾师范大学学习科学跨国顶尖研究中心、国际期刊 *Computers & Education* — 长期作为核心学术领导者与国际对话平台组织者。
 

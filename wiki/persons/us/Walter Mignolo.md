@@ -7,7 +7,7 @@ summary: "阿根廷裔文学与文化理论家，殖民性、边界思维与认�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 22
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
-  - "[[Dialogue in Education]]"
   - "[[Knowledge Transfer]]"
   - "[[Ganz-Methode]]"
   - "[[APA Style]]"
@@ -52,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-07
-updated: 2026-09-11
+updated: 2026-09-22
 ---
 # Walter Mignolo
 
@@ -63,7 +62,7 @@ updated: 2026-09-11
 
 > Mignolo 的核心论证是：西方现代性与其"黑暗面"——殖民性——是同一历史进程的构成性两面。西方认识论通过殖民扩张获得了虚假的普遍性，系统性地压抑和否定了非西方世界的替代性知识传统和存在方式。因此，去殖民不仅是政治经济任务，更是认识论任务——需要在[[Knowledge Production\|知识生产]]层面"去链接"（delink）西方认识论框架（Mignolo, 2002, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.38]]）。
 
-> 在 [[Dell Delambre]] 的 [[Creative Tension of Sense]] 理论中，Mignolo 的[[Decolonial Geopolitics of Knowledge\|去殖民知识地缘政治]]被定位为理论[[Dialogue in Education\|对话]]的核心对象之一。Delambre 接受了 Mignolo 关于西方认识论霸权和殖民性的基本诊断，但批评该传统过度关注知识生产面（谁生产知识、为谁的利益），而忽视了[[Knowledge Transfer\|知识转移]]面（知识如何被挪用、破坏和重构），并试图以 [[Ganz-Methode]] 将去殖民批判转化为可操作的社区实践方法([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.105–106, 109–110]])。
+> 在 [[Dell Delambre]] 的 [[Creative Tension of Sense]] 理论中，Mignolo 的[[Decolonial Geopolitics of Knowledge\|去殖民知识地缘政治]]被定位为理论对话的核心对象之一。Delambre 接受了 Mignolo 关于西方认识论霸权和殖民性的基本诊断，但批评该传统过度关注知识生产面（谁生产知识、为谁的利益），而忽视了[[Knowledge Transfer\|知识转移]]面（知识如何被挪用、破坏和重构），并试图以 [[Ganz-Methode]] 将去殖民批判转化为可操作的社区实践方法([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.105–106, 109–110]])。
 
 ## 生平与职涯
 

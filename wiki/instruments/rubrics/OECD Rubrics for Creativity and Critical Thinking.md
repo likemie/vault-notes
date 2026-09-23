@@ -9,7 +9,7 @@ aliases:
 summary: "由OECD教育研究与创新中心（CERI）研发的通用高阶思维评价量规，构建了贯穿探究、想象、实作与反思四大维度的2x4认知表现矩阵，为教师在跨学科课堂中培养与评估创造力与批判性思维提供操作化支架。"
 type: instrument
 instrument_type: rubric
-instrument_related_count: 17
+instrument_related_count: 18
 instrument_related_level: 3
 instrument_related_stars: "⭐⭐⭐"
 instrument_related_color: "#ffedd5"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Authentic Assessment]]"
   - "[[Innovation Hub]]"
+  - "[[Open-Mindedness]]"
   - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Literature Review]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-28
-updated: '2026-09-12'
+updated: 2026-09-23
 ---
 
 # OECD Rubrics for Creativity and Critical Thinking
@@ -81,7 +82,7 @@ updated: '2026-09-12'
 >
 > | 认知活动阶段 | 创造力 (Creativity) 表现指标 | 批判性思维 (Critical Thinking) 表现指标 | 评价核心与证据载体 |
 > |---|---|---|---|
-> | **探究 (Inquiring)** | **感到好奇并提出非常规问题** 探索未知边界，提出挑战常规预设的开放性探究课题 | **质疑前提与识别[[Hypothesis\|假设]]** 审视信息源可[[Reliability\|信度]]，识别论据中隐含的前提假设与逻辑漏洞 | 探究方案设计、[[Literature Review\|文献综述]]批判 |
+> | **探究 (Inquiring)** | **感到好奇并提出非常规问题** 探索未知边界，提出挑战常规预设的[[Open-Mindedness\|开放性]]探究课题 | **质疑前提与识别[[Hypothesis\|假设]]** 审视信息源可[[Reliability\|信度]]，识别论据中隐含的前提假设与逻辑漏洞 | 探究方案设计、[[Literature Review\|文献综述]]批判 |
 > | **想象 (Imagining)** | **产生新颖观念与多元联想** 进行跨领域远距离联想，提出突破性备选解决方案 | **寻求多元视角与对立观点** 系统考察相互矛盾的理论流派或竞争性解释模型 | [[Brainstorming\|头脑风暴]]方案、视角对比矩阵 |
 > | **实作 (Doing)** | **创造有意义的新颖产出** 将创意物化为具体的原型、文本、艺术作品或工程方案 | **基于充分证据构建论据** 进行严密的逻辑推理，用经验数据支撑主张并形成结论 | 实验报告、项目实作、学术论文 |
 > | **反思 (Reflecting)** | **评估创新的独特性与适应性** 反思作品的新颖度，识别局限并迭代优化设计 | **评估论据效力与逻辑一致性** 反思自身推理的偏倚，根据新证据修正既有观点 | 反思日志、辩论复盘、同行评议 |

@@ -9,7 +9,7 @@ aliases:
 summary: "一种挑战经典实证主义绝对确定性与机械决定论的研究哲学立场，主张知识具有本质上的推测性、理论负荷性与可错性；在承认客观实在持续存在的同时包容多元实在与情境阐释，倡导以非普适探索性假说推进科学反思与广义人文探究。"
 type: concept
 domain: "educational-philosophy"
-related_count: 66
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Paideia]]"
   - "[[Bildung]]"
-  - "[[Growth]]"
   - "[[Empiricism]]"
   - "[[Scientific Paradigm]]"
   - "[[Emergence]]"
@@ -94,7 +93,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Postpositivism
@@ -196,7 +195,7 @@ updated: 2026-09-17
 > 该维度聚焦波普尔批判理性主义及科学哲学对经典实证主义证实神话的根本颠覆，阐明知识推测性、可错论与事实价值不可分的认识论机理。
 
 > [!claim] Popper, K.
-> **猜测与反驳机制下的可错主义与[[Falsification\|可证伪性]]划界** 科学理论的本质不是已被终极证实的绝对真理，而是大胆的推测（conjectures）；归纳证实无法跨越逻辑上的有限经验鸿沟，真正划定科学与非科学界限的标准是理论潜在的可证伪性（falsifiability）。安全的、一劳永逸的基础主义知识并不存在，一切科学主张都是可错的（fallible）和尝试性的；科学的[[Growth\|成长]]依靠提出可证伪的假设并在严密经验批判中不断反驳与修正。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 731)]]
+> **猜测与反驳机制下的可错主义与[[Falsification\|可证伪性]]划界** 科学理论的本质不是已被终极证实的绝对真理，而是大胆的推测（conjectures）；归纳证实无法跨越逻辑上的有限经验鸿沟，真正划定科学与非科学界限的标准是理论潜在的可证伪性（falsifiability）。安全的、一劳永逸的基础主义知识并不存在，一切科学主张都是可错的（fallible）和尝试性的；科学的成长依靠提出可证伪的假设并在严密经验批判中不断反驳与修正。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 731)]]
 
 > [!claim] Feyerabend, P. & Popper, K.
 > **观察渗透理论与事实价值不可分离** 经验观察绝非脱离主体意图的纯粹客观镜像；任何观察事实都不可避免地带有“理论负荷”（theory-laden）与“价值负荷”（VALUE-laden）。实证主义试图建立事实与价值绝对二分的教条在认识论上不可维持；研究者所属的[[Paradigm\|范式]]承诺、先验理论与文化信念，从根本上决定了什么现象被纳入视野、何种证据被视作有效以及研究结论被如何解释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 732)]]

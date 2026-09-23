@@ -5,7 +5,7 @@ aliases:
 summary: "产学合作中系统梳理区域内利益相关者优势与需求的实践方法，本质为真实的关系建立，是 TUFF 创新中心六项优先领域之一，与创业活动相互强化"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,7 +17,6 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Hub]]"
-  - "[[Dialogue in Education]]"
   - "[[Innovation Park]]"
   - "[[Placemaking]]"
   - "[[Technology Transfer]]"
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-09-10
+updated: 2026-09-22
 ---
 
 # Asset Mapping
@@ -44,7 +43,7 @@ updated: 2026-09-10
 > [!info]
 > 资产映射（Asset Mapping）在[[University-Industry Collaboration\|产学合作]]语境中，指系统地梳理和认识区域内各利益相关者（大学各部门、企业、政府机构、投资者、创业支持组织等）及其各自优势的实践方法。其实质是真实的关系建立（authentic relationship building）——创建一个强大而分散的合作伙伴网络，深入理解各方的优势、需求和优先事项([[Argument_Byrne_2025_InnovationCenters\|Byrne & Clements, 2025, p.126]])。
 
-[[TUFF]] 将其列为[[Innovation Hub|创新中心]]建设的六项优先领域之一。资产映射的操作方式是与每个利益相关者坐下来[[Dialogue in Education|对话]]，而非依赖填表格或[[Questionnaire|问卷调查]]——因为填表能收集数据，却无法建立信任。通过持续对话来建立理解和信任，资产映射成为后续所有产学合作活动的基础（p.126）。
+[[TUFF]] 将其列为[[Innovation Hub|创新中心]]建设的六项优先领域之一。资产映射的操作方式是与每个利益相关者坐下来对话，而非依赖填表格或[[Questionnaire|问卷调查]]——因为填表能收集数据，却无法建立信任。通过持续对话来建立理解和信任，资产映射成为后续所有产学合作活动的基础（p.126）。
 
 > [!quote]
 > "In the UI context, asset mapping is an exercise in authentic relationship building: creating a strong and diffuse network of partners and an understanding of their various strengths and priorities."（p.126）

@@ -22,7 +22,6 @@ tags:
   - theme/instructional-design
 related_concepts:
   - "[[Emergence]]"
-  - "[[Knowledge Production]]"
   - "[[Metacognition]]"
   - "[[Construct]]"
   - "[[Creativity]]"
@@ -49,7 +48,8 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Procedural Skill]]"
   - "[[Epistemic Agency]]"
-related_theories: []
+related_theories:
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Role-playing]]"
@@ -76,7 +76,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 教育技术可供性（Educational Affordances）是指技术工具或数字学习环境在特定的教学活动情境中，与学习者（及其已有认知能力、动机、素养）以及学习任务相互作用时所[[Emergence\|涌现]]出的、**可被学习者感知并实际支持特定认知加工、[[Knowledge Production\|知识建构]]、社会协作与[[Metacognition\|元认知监控]]的行动可能性与潜在功能使能属性**。[[Argument_Li_2026_CEAI\|(Kirschner et al., 2004; Bower, 2008; Li et al., 2026, pp. 2, 4–8)]]
+> 教育技术可供性（Educational Affordances）是指技术工具或数字学习环境在特定的教学活动情境中，与学习者（及其已有认知能力、动机、素养）以及学习任务相互作用时所[[Emergence\|涌现]]出的、**可被学习者感知并实际支持特定认知加工、[[Knowledge Building Theory|知识建构]]、社会协作与[[Metacognition\|元认知监控]]的行动可能性与潜在功能使能属性**。[[Argument_Li_2026_CEAI\|(Kirschner et al., 2004; Bower, 2008; Li et al., 2026, pp. 2, 4–8)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 可供性不是技术工具孤立固有的物理属性，也不是完全取决于使用者主观想象的心理产物，而是**工具、学习者与任务情境三者之间动态交互的关系性[[Construct\|构念]]**。

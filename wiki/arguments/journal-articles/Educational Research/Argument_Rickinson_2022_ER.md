@@ -56,7 +56,6 @@ related_concepts:
   - "[[Growth]]"
   - "[[Professional Learning Community]]"
   - "[[Ontology]]"
-  - "[[Dialogue in Education]]"
   - "[[Reflexivity]]"
   - "[[Boundary Spanner]]"
   - "[[Performance Indicators]]"
@@ -98,7 +97,7 @@ title: "Argument_Rickinson_2022_ER"
 argument_key: "Argument_Rickinson_2022_ER"
 argument_display_title: "A framework for understanding the quality of evidence use in education"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -340,7 +339,7 @@ issuing_organization: ""
 
 > [!proc] 审慎参与和实施的三重递进过程（pp. 141–142）
 > 1. **批判性研读** 教师与学校管理者深入审视研究结论的前提[[Hypothesis\|假设]]、证据效力、局限性与适用边界，拒绝盲从权威。
-> 2. **共同审议** 依托教研团队开展深度专业[[Dialogue in Education\|对话]]，结合本校特定学情与办学目标，探讨研究启示在本土情境中的可行性。
+> 2. **共同审议** 依托教研团队开展深度专业对话，结合本校特定学情与办学目标，探讨研究启示在本土情境中的可行性。
 > 3. **情境化整合** 将提炼出的核心原理或策略与学校既有课程、教学规程及专业实践有机融通，推动渐进式实践改进（Sharples, 2013）。
 
 适切证据与审慎实施并非外在并列，而是构成了相互依存、不可分割的辩证统一体。
@@ -370,7 +369,7 @@ issuing_organization: ""
 > - **技能集**
 >   涵盖获取学术资源、理解科研方法、鉴别研究质量并将结论转化为具体教学行动的专业能力与批判眼光。（BERA, 2014; p. 142）
 > - **心智倾向**
->   包含探究好奇心（Earl, 2015）、自觉参与动机（Stoll et al., 2018）、对自身偏见与假设的反思意识（Evans et al., 2017; Spencer et al., 2012）以及坚信研究能促进专业[[Growth\|成长]]的信念。
+>   包含探究好奇心（Earl, 2015）、自觉参与动机（Stoll et al., 2018）、对自身偏见与假设的反思意识（Evans et al., 2017; Spencer et al., 2012）以及坚信研究能促进专业成长的信念。
 > - **人际关系**
 >   建立在校内同行互信基础上的协作研讨网络，以及连接校外学者、中介机构的跨界合作伙伴关系，使证据利用成为集体性社会学习。（Finnigan & Daly, 2014; Bryk et al., 2011; p. 143）
 

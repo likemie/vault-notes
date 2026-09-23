@@ -8,9 +8,9 @@ summary: "质性研究中系统记录编码标签、操作化定义、纳入排�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 30
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 32
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - research-methodology
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Qualitative Reliability]]"
   - "[[Rich and Thick Description]]"
+  - "[[Open-Mindedness]]"
   - "[[Reliability]]"
   - "[[Hypothesis]]"
   - "[[Reflexivity]]"
@@ -48,6 +49,7 @@ related_methods:
 related_persons:
   - "[[John W. Creswell]]"
   - "[[Louis Cohen]]"
+  - "[[Miranda Fricker]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -55,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Qualitative Codebook
@@ -79,7 +81,7 @@ updated: 2026-09-17
 
 > [!boundary]- 概念边界
 > - **不等于 编码清单（Coding List）** 编码清单仅为代码标签或软件节点的平面列表；编码手册必须配备完整的操作化界定、正反纳入排除规则与典型引语锚点。
-> - **不等于 [[Grounded Theory\|扎根理论]]分析备忘录（[[Memos]]）** 备忘录记录研究者对理论关系的开放性反思与概念联想；编码手册侧重规则的标准化、稳定性与团队间可复验性。
+> - **不等于 [[Grounded Theory\|扎根理论]]分析备忘录（[[Memos]]）** 备忘录记录研究者对理论关系的[[Open-Mindedness|开放性]]反思与概念联想；编码手册侧重规则的标准化、稳定性与团队间可复验性。
 > - **不适用于纯粹微观会话分析** 当研究完全聚焦于不可分割的瞬时语调、会话微互动与复杂时序流动时，机械套用预设编码手册容易造成情境剥离与语义割裂。
 
 ---
@@ -147,7 +149,7 @@ updated: 2026-09-17
 > 编码手册并非一成不变的机械模具，而是在理论[[Hypothesis\|假设]]与经验数据的往复穿梭中经历持续重构。
 
 > [!claim] Flick, U. & [[Louis Cohen\|Cohen, L.]]
-> **预设范畴与经验修正的动态平衡** 针对预设编码手册是否会禁锢经验[[Emergence\|涌现]]的[[Paradigm\|范式]]质疑（Ezzy, 2002），科恩与弗里克论证，初期从理论出发构建预设编码手册并不排斥经验数据的持续反哺；当经验材料无法拟合既有范畴时，手册必须经历多轮动态修改与重构，从而兼具理论检验与理论生成的双重弹性（Flick, 1998；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, p. 575]]）。
+> **预设范畴与经验修正的动态平衡** 针对预设编码手册是否会禁锢经验[[Emergence\|涌现]]的[[Paradigm\|范式]]质疑（Ezzy, 2002），科恩与[[Miranda Fricker|弗里克]]论证，初期从理论出发构建预设编码手册并不排斥经验数据的持续反哺；当经验材料无法拟合既有范畴时，手册必须经历多轮动态修改与重构，从而兼具理论检验与理论生成的双重弹性（Flick, 1998；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, p. 575]]）。
 
 > [!claim] Guest, G. et al.
 > **初筛粗赋码到细编码的分流演进** 在面对海量口语[[Transcription in Qualitative Research\|转录]]文本时，编码手册应优先确立广谱的粗分类标签（Coarse Codes），以分流漏斗控制短期[[Working Memory\|工作记忆]]负荷，随后在后续阶段实施组内多维细分与重叠消除，驱动手册从描述性分类向因果解释网络演进（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, pp. 570–572]]）。

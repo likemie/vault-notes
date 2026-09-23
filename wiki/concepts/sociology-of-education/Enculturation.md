@@ -6,16 +6,15 @@ aliases:
 summary: "个体在成长过程中通过日常互动吸收本文化价值观、行为模式与信念体系的社会化过程"
 type: concept
 domain: "sociology-of-education"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
 - theme/cultural-transmission
 - theme/child-development
 - discipline/anthropology
 related_concepts:
-  - "[[Growth]]"
   - "[[Self-Continuity, Self-Distinctness, and Self-Agency]]"
   - "[[Nerd]]"
   - "[[Intellectual-Social Divide]]"
@@ -33,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-21'
-updated: 2026-08-20
+updated: 2026-09-22
 ---
 
 # Enculturation
@@ -41,7 +40,7 @@ updated: 2026-08-20
 ## 定义
 
 > [!info]
-> 文化濡化（enculturation）是一个人类学概念，指个体在[[Growth\|成长]]过程中，通过日常接触和互动——而非明确的教学或灌输——无意识地吸收本文化的价值观、行为模式和信念体系，从而成为该文化的一员。濡化从婴儿期开始，在幼年早期最为显著，其影响构成个体进一步发展的基础（LeVine, 1990，转引自 [[Argument_Li_2012_Cambridge\|Li, 2012, p.12]]）。
+> 文化濡化（enculturation）是一个人类学概念，指个体在成长过程中，通过日常接触和互动——而非明确的教学或灌输——无意识地吸收本文化的价值观、行为模式和信念体系，从而成为该文化的一员。濡化从婴儿期开始，在幼年早期最为显著，其影响构成个体进一步发展的基础（LeVine, 1990，转引自 [[Argument_Li_2012_Cambridge\|Li, 2012, p.12]]）。
 
 > [!quote]
 > 影响儿童发展的直接力量不是宏观政治经济气候，而是地方文化习俗、照顾者的心理特征和实际的日常互动。([[Argument_Li_2012_Cambridge\|Li, 2012, p.12,综述 Harkness & Super, 1992 的发展生态位理论]])
@@ -56,7 +55,7 @@ updated: 2026-08-20
 
 > [!example]
 > ### vs 涵化（Acculturation）
-> 濡化发生在个体[[Growth\|成长]]的原生文化中，从婴儿期开始；涵化发生在个体接触新文化时（如移民、留学）。濡化形成的深层文化框架通常不会被涵化完全替代——一个在中国经历了濡化的人，移民后即使吸收了新文化的学习方式，其深层的学习价值观仍可能保留濡化的印记。
+> 濡化发生在个体成长的原生文化中，从婴儿期开始；涵化发生在个体接触新文化时（如移民、留学）。濡化形成的深层文化框架通常不会被涵化完全替代——一个在中国经历了濡化的人，移民后即使吸收了新文化的学习方式，其深层的学习价值观仍可能保留濡化的印记。
 
 > [!example]
 > ### vs 政治灌输（Political Indoctrination）
@@ -71,7 +70,7 @@ updated: 2026-08-20
 > - **形成期优势** 濡化最显著的效应发生在婴儿期和幼年早期，这一时期形成的基本文化框架构成后续发展的基础（LeVine, 1990）
 > - **多层级嵌套** 濡化同时在物理环境、照顾者信念和日常互动三个层级运作，三者相互嵌套、相互强化（Harkness & Super, 1992）
 > - **超越政治体制** 濡化传递的是文化——一种比任何政治体制都更大、更持久的系统。政权更迭可以改变标语和课程，但很少改变父母安抚婴儿的方式([[Argument_Li_2012_Cambridge\|Li, 2012, pp.11–12]])
->- **身份嵌入** 濡化的持久效力最终依赖文化价值嵌入个体身份认同。这一过程通过 I-Self 的三个维度实现——[[Self-Continuity, Self-Distinctness, and Self-Agency\|自我连续性]]使个体将文化价值体验为"我是谁"的跨时间叙事；自我独特性使文化差异成为群体归属的标记；自我能动性使文化优势领域得到代际传承。当被濡化的儿童[[Growth\|成长]]为父母时，他们基于自身的信念和确信（convictions），成为[[Cultural Models\|文化模型]]"自愿且不知疲倦的执行者"，由此完成文化再生产的闭环([[Argument_Li_2012_Cambridge\|Li, 2012, pp.335–340]])
+>- **身份嵌入** 濡化的持久效力最终依赖文化价值嵌入个体身份认同。这一过程通过 I-Self 的三个维度实现——[[Self-Continuity, Self-Distinctness, and Self-Agency\|自我连续性]]使个体将文化价值体验为"我是谁"的跨时间叙事；自我独特性使文化差异成为群体归属的标记；自我能动性使文化优势领域得到代际传承。当被濡化的儿童成长为父母时，他们基于自身的信念和确信（convictions），成为[[Cultural Models\|文化模型]]"自愿且不知疲倦的执行者"，由此完成文化再生产的闭环([[Argument_Li_2012_Cambridge\|Li, 2012, pp.335–340]])
 
 ---
 

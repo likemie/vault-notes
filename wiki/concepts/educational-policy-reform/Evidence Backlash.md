@@ -7,7 +7,7 @@ aliases:
 summary: "在后真相时代由于算法极化、反专家情绪与心理防卫机制共振而引发的对科学实证证据的刻意贬低与激进怀疑现象；在Burns & Schuller（2022）教育中介研究中被确立为动摇传统循证政策“客观理性”预设的重大认识论危机，表明单纯提供更多证据不仅无法消除偏见，反而可能刺激受众产生更深层的认知防卫与反弹。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Deficit Model of Science Communication]]"
   - "[[Abstract]]"
   - "[[Technocognition]]"
-  - "[[Dialogue in Education]]"
   - "[[Research Literacy]]"
 related_theories: []
 related_methods: []
@@ -37,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Evidence Backlash
@@ -75,7 +74,7 @@ updated: 2026-09-18
 > [!finding-cards] 对[[Educational Brokerage Agency\|教育中介机构]]的战略启示
 > - **超越“信息[[Deficit Model of Science Communication\|赤字模型]]”** 中介机构必须认识到，证据不被利用并非单纯因为教师或官员“不懂或看不到”，而是面临深层的[[Epistemology\|认识论]]防卫；因此，单向灌输和海量发布[[Abstract\|研究摘要]]只会加剧反弹。
 > - **采纳[[Technocognition\|技术认知进路]]** 唯有将认知科学的防偏见接种机制与算法架构设计结合，打破信息茧房，才能弱化证据反弹的滋生土壤。
-> - **重建社会关系与人际信任** 正如 Langer 等（2016）所指出，唯有植根于长期社群互动、[[Dialogue in Education\|对话]]与尊重实践者专业经验的关系网络，才能在充满张力的情境中化解反弹，达成深层的知识转化。
+> - **重建社会关系与人际信任** 正如 Langer 等（2016）所指出，唯有植根于长期社群互动、对话与尊重实践者专业经验的关系网络，才能在充满张力的情境中化解反弹，达成深层的知识转化。
 
 ---
 

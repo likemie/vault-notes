@@ -8,7 +8,7 @@ aliases:
 summary: "以多元行动者横向协作、关系协调与异层结构替代垂直科层或纯粹市场的公共治理方式；在批判教育政策中揭示国家并未空心化退场，而是演化为积极特许赋权、资助中介并缔造教育准市场的异层担保人。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 54
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Philanthrocapitalism]]"
   - "[[Selectivity]]"
-  - "[[Growth]]"
   - "[[International Baccalaureate]]"
   - "[[Paradigm]]"
   - "[[Screening Off]]"
@@ -267,7 +266,7 @@ updated: 2026-09-22
 基于 [[YOUNG_ADULLLT]] 项目对欧盟 16 个地区 168 名专家的调研，网络治理在欧洲展现出因地制宜的混合构型（[[Argument_Rambla_2022_Springer|Rambla, 2022, pp. 172–175]]）：
 - **[[Neocorporatism|新社团主义]]三方网络（德语区及北欧）** 网络治理深度嵌套于政府、雇主协会与工会的三方正式合作体系中。连贯的学徒制系统为地方专业人员提供了稳定的制度预期，多元主体的结构性制衡有效缓冲了市场选择性（[[Selectivity]]）对弱势青年的伤害。
 - **公私民合作与就业管道（芬兰与苏格兰）** 芬兰推行“公共—私营—民众合作”（Public-Private-People-Partnerships），将教育界定为涵盖所有人多元生命周期的发展性服务；苏格兰采用“就业管道”（Employment Pipeline）网络，将教育培训、社工支持与非营利服务整合成无缝链条。
-- **自下而上的雏形网络（南欧与东欧）** 在网络传统相对脆弱的西班牙加泰罗尼亚与意大利利古里亚，非营利组织自主创建“第二机会学校”（second-chance schools），随后反向游说市政当局提供公共资金支持，开创了从基层微观创新[[Growth|生长]]为多方伙伴关系的自下而上网络通道。
+- **自下而上的雏形网络（南欧与东欧）** 在网络传统相对脆弱的西班牙加泰罗尼亚与意大利利古里亚，非营利组织自主创建“第二机会学校”（second-chance schools），随后反向游说市政当局提供公共资金支持，开创了从基层微观创新生长为多方伙伴关系的自下而上网络通道。
 - **区域指标远程[[Disciplina and Doctrina|规训]]** 欧盟统计局通过细化的区域指标（[[Performance Indicators]]）界定“良好治理”的准绳，迫使不同法统的成员国围绕统一的数据基准开展政策竞赛，实现了跨越主权边界的指标化网络治理。
 
 ---

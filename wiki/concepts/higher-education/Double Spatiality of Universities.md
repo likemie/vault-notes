@@ -5,7 +5,7 @@ aliases:
 summary: "大学同时扎根于具体城市与国家，又通过学术流动、网络和知识视野跨越边界的双重空间特征。"
 type: concept
 domain: "higher-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,6 +15,7 @@ tags:
 - region/global
 related_concepts:
   - "[[Methodological Nationalism]]"
+  - "[[Open-Mindedness]]"
   - "[[Ontology]]"
   - "[[Space-Making]]"
   - "[[Geopolitics of Knowledge]]"
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: '2026-05-18'
+updated: 2026-09-23
 ---
 
 # Double Spatiality of Universities
@@ -47,7 +48,7 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example]
-> - vs [[Methodological Nationalism\|方法论民族主义]]的"国家容器"观 — 方法论民族主义只看到大学的在地性（民族国家内的机构），双重空间性则同时承认大学的国家嵌入和全球开放性。Marginson 强调，批判方法论民族主义不等于否定国家的重要性——大学"几乎不可能不是国家的"([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 8]])
+> - vs [[Methodological Nationalism\|方法论民族主义]]的"国家容器"观 — 方法论民族主义只看到大学的在地性（民族国家内的机构），双重空间性则同时承认大学的国家嵌入和全球[[Open-Mindedness|开放性]]。Marginson 强调，批判方法论民族主义不等于否定国家的重要性——大学"几乎不可能不是国家的"([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 8]])
 > - vs 跨国高等教育（TNE） — TNE 通常指跨境办学和合作项目等具体活动形式，双重空间性则是对大学[[Ontology\|本体论]]特征的更深层描述：跨国活动只是这一双重性的外在表现
 
 ---
@@ -63,7 +64,7 @@ updated: '2026-05-18'
 
 > [!abstract]
 > - **在地物质性与身份** — 大学扎根于城市和国家，拥有具体的物质存在和在地身份。例如，清华大学既是"中国的"也是"北京的"，其校园、师生和政策环境都嵌入在中国国家体系之中([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 8]])
-> - **流动性与开放心智视野** — 学者、学生和思想跨越边界，大学具有跨越国界的开放性。例如，即使是高度国家化的大学系统，其科研产出仍需要通过全球期刊和引用网络来获得承认
+> - **流动性与开放心智视野** — 学者、学生和思想跨越边界，大学具有跨越国界的[[Open-Mindedness|开放性]]。例如，即使是高度国家化的大学系统，其科研产出仍需要通过全球期刊和引用网络来获得承认
 > - **组织自主性的基础** — 双重空间性是大学（部分）自主性的根本来源：大学几乎不可能不是国家的，但全球尺度使它们得以成为不完全源自国家的独立存在，并与所有融合探究与学习的机构相连
 > - **历史连续性** — 从北印度佛教寺院、中世纪伊斯兰宗教学校到欧洲大学，这一双重空间性始终是高等教育的核心特征
 

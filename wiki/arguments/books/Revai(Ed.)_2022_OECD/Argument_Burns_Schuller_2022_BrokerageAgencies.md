@@ -7,7 +7,7 @@ title: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_key: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_display_title: "History and evolution of brokerage agencies in education"
 argument_kind: "book-chapter"
-argument_related_count: 92
+argument_related_count: 91
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Knowledge Mediation]]"
   - "[[Professional Judgment]]"
-  - "[[Dialogue in Education]]"
   - "[[Heterogeneity]]"
   - "[[Research Utilization]]"
   - "[[Evidence-Informed Practice]]"
@@ -61,7 +60,6 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Screening Off]]"
-  - "[[Growth]]"
   - "[[Policy Mobility]]"
   - "[[Attrition]]"
   - "[[Internal Validity]]"
@@ -75,6 +73,7 @@ related_concepts:
   - "[[Opportunist Mode]]"
   - "[[Boundary Spanner]]"
   - "[[Effective Teaching]]"
+  - "[[Cognitive Deskilling]]"
   - "[[Scientific Literacy]]"
   - "[[Research Literacy]]"
   - "[[Incubation]]"
@@ -153,7 +152,7 @@ updated: 2026-09-18
 
 > [!concept-lens] 阅读透镜
 > - **对象** 追溯经合组织（OECD）2007 年标志性报告以来的十五年政策演进轨迹，以及美、英、欧陆、北欧、大洋洲与亚太等 10 余个教育系统中各具代表性的教育中介机构与跨国协作网络；引入循证医学（Evidence-Based Medicine, EBM；Greenhalgh et al., 2014）的反思透镜。（具体机构与网络考察样本统一详见下文“考察机构与案例快照”）
-> - **张力** 早期对理性科学客观性的一致信奉 vs 后真相语境下算法信息茧房与反科学情绪；向一线实践的全面倾斜 vs 政策高层宏观规制与研发引导责任的隐性缺位；单向知识灌输 vs 复杂网络下的社会互动与专业智慧[[Dialogue in Education\|对话]]；政党更迭与财政短期考核周期（2–3年） vs 教育系统综合改革显效所需的漫长周期。
+> - **张力** 早期对理性科学客观性的一致信奉 vs 后真相语境下算法信息茧房与反科学情绪；向一线实践的全面倾斜 vs 政策高层宏观规制与研发引导责任的隐性缺位；单向知识灌输 vs 复杂网络下的社会互动与专业智慧对话；政党更迭与财政短期考核周期（2–3年） vs 教育系统综合改革显效所需的漫长周期。
 > - **贡献** 突破将中介简化为“证据货架”的技术主义定势，确立了涵盖依附关系、受众导向与方法学立场的教育中介多维制度[[Analytic Framework\|分析框架]]；揭示了中介机构关停并非源于绩效不佳、而是受制于政治预算周期的存续机制；通过循证医学五大危机对教育数字化和刚性指南提出深刻学理预警；并确立了从“单体证据综合”走向“二阶综合”，从“孤立机构”迈向“中介的中介”跨国元治理进路。
 
 ---
@@ -163,7 +162,7 @@ updated: 2026-09-18
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **[[Educational Brokerage Agency\|教育中介机构治理多维分析框架]]（Burns & Schuller, 2022）** | 解构中介机构的制度化特征，从与教育部的治理依附关系（部委嵌入型、政府资助自治型、独立慈善基金型）、目标受众（政策端、实践端、媒体端）及方法学阵营（[[Randomised Controlled Trials\|随机对照试验]]黄金标准 vs 质性-量化融合多元论）三重视角系统描摹中介生态图谱。（pp. 61–64） |
+> | **[[Educational Brokerage Agency\|教育中介机构治理多维分析框架]]（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022]]）** | 解构中介机构的制度化特征，从与教育部的治理依附关系（部委嵌入型、政府资助自治型、独立慈善基金型）、目标受众（政策端、实践端、媒体端）及方法学阵营（[[Randomised Controlled Trials\|随机对照试验]]黄金标准 vs 质性-量化融合多元论）三重视角系统描摹中介生态图谱。（pp. 61–64） |
 > | **[[Complexity Theory\|教育知识治理复杂系统论]]（Burns, Köster & Fuster, 2016）** | 揭示教育分权化进程中行动者网络的高度[[Heterogeneity\|异质性]]与自适应特征，阐明多方利益相关者（研究者、决策者、教师、家长、教育科技企业、媒体）重叠交织的网状互动如何彻底瓦解传统的单向流水线模型。（pp. 58–59） |
 > | **[[Knowledge Mediation\|支持研究使用的三维支柱框架]]（Langer, Tripney & Gough, 2016）** | 明确促成[[Research Utilization\|研究利用]]的三个不可分割的社会心理与制度支柱——获取渠道（Access）、专业技能（Skills）与社会互动（Interactions），确立关系性互动在维系行为改变中的核心动力地位。（p. 59） |
 > | **[[Evidence-Informed Practice\|循证医学危机批判理论]]（Greenhalgh, Howick & Maskrey, 2014）** | 借由成熟临床领域的实践反思，透视技术化决策指南与自动化算法提示如何反向侵蚀专业从业者的临床判断力，为教育领域抵御刚性工具包对教师[[Phronesis\|实践智慧]]的挤压提供反思标尺。（pp. 65–66） |
@@ -314,7 +313,7 @@ updated: 2026-09-18
 > - **专业技能（Skills）**
 >   使用者是否具备解读复杂数据、甄别研究质量与偏倚，并将证据转化为行动方案的专业素养。
 > - **社会互动（Interactions）**
->   各方行动者之间是否建立了常态化的[[Dialogue in Education\|对话]]、研讨与协同共创平台；唯有深度的社会互动才能激发使用意愿，成为促[[Growth\|成长]]效行为改变的核心动力。
+>   各方行动者之间是否建立了常态化的对话、研讨与协同共创平台；唯有深度的社会互动才能激发使用意愿，成为促成长效行为改变的核心动力。
 
 在分权化治理格局下，传统的“研究-政策-实践”三元结构已演化为一个多方利益相关者交织的复杂生态网络（pp. 58–59, 62）：
 
@@ -415,7 +414,7 @@ updated: 2026-09-18
 在数字化与人工智能加速渗透的背景下，技术化决策规则对专业主体性的冲击演变为尖锐的认识论冲突（pp. 66–67）：
 
 > [!tension] 数字化算法拆解 vs 教师知识型专业主体（Facer & Selwyn, 2021; Guerriero & Révai, 2017; pp. 66–67）
-> - **技术驱动的“去技能化”风险（Facer & Selwyn, 2021）** 表面上看似“自动化”和“数据驱动”的教学管理，实质上要求教师耗费大量隐性精力去维系系统运转与录入数据；若将复杂的育人工作拆解（Unbundling）为一系列机械的离散任务，将不可避免地造成教师职业的“去技能化”（Deskilling），使教师由具备[[Phronesis\|实践智慧]]的专业人员退化为执行算法指令的技术操作工。（pp. 66–67）
+> - **技术驱动的“[[Cognitive Deskilling|去技能化]]”风险（Facer & Selwyn, 2021）** 表面上看似“自动化”和“数据驱动”的教学管理，实质上要求教师耗费大量隐性精力去维系系统运转与录入数据；若将复杂的育人工作拆解（Unbundling）为一系列机械的离散任务，将不可避免地造成教师职业的“去技能化”（Deskilling），使教师由具备[[Phronesis\|实践智慧]]的专业人员退化为执行算法指令的技术操作工。（pp. 66–67）
 > - **知识型专业人员的制度防线（[[Teaching and Learning International Survey\|TALIS]] & [[Centre for Educational Research and Innovation\|CERI]]）** 经合组织历年跨国研究一再强调，教学是一项建立在深厚专业知识、微观情境智慧与伦理审议基础之上的复杂知识型职业，绝不能被简化为标准化技术代码；必须维护教师在教学实践中根据具体情境权衡、调适研究证据的专业自主性（Guerriero & Révai, 2017; Ulferts, 2021; p. 67）。
 
 ---

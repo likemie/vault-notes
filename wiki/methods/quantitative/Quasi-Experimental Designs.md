@@ -33,6 +33,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Postpositivism]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Open-Mindedness]]"
   - "[[Ecological Validity]]"
   - "[[Tracking]]"
   - "[[Scientifically Based Research]]"
@@ -54,7 +55,6 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Preregistration]]"
   - "[[Logic Model]]"
-  - "[[Growth]]"
   - "[[Bildung]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
@@ -107,7 +107,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-09-18
+updated: 2026-09-23
 ---
 
 # Quasi-Experimental Designs
@@ -137,7 +137,7 @@ updated: 2026-09-18
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **认识论取向** 秉承[[Postpositivism\|后实证主义]]与[[Pragmatic Paradigm\|实用主义]]哲学取向，承认学校系统具有开放性、社会关系复杂性与情境嵌套性，在坚持[[Causality\|因果推断]]逻辑的同时，以妥协性控制技术换取更高的[[Ecological Validity\|生态效度]]（Ecological Validity）。
+> - **认识论取向** 秉承[[Postpositivism\|后实证主义]]与[[Pragmatic Paradigm\|实用主义]]哲学取向，承认学校系统具有[[Open-Mindedness|开放性]]、社会关系复杂性与情境嵌套性，在坚持[[Causality\|因果推断]]逻辑的同时，以妥协性控制技术换取更高的[[Ecological Validity\|生态效度]]（Ecological Validity）。
 > - **因果识别定位** 采用[[Counterfactual\|反事实]]潜在结果逻辑，但因果识别依赖于**条件独立性[[Hypothesis\|假设]]（Conditional Independence Assumption, CIA）**——即假定在控制了基线[[Pre-test and Post-test\|前测]]和关键可观察协[[Variable\|变量]]后，组别分配与潜在结果在统计上条件独立。
 > - **与[[Randomised Controlled Trials\|随机对照试验]]的互补关系** 当出于伦理考量（如不能剥夺弱势学生的必要辅导）、行政限制（学校拒绝打破现有班级建制）、政策可行性，或学校拒绝被[[Random Assignment\|随机分配]]宏观组织决策（如混合[[Tracking\|能力分组]]分流、作息时间变革）而无法实施 RCT 时，QED 提供唯一合法的因果证据替代路径（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]]；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 55–56]]）。
 > - **法定证据体系的演进定位** 相较于 2001 年《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（No Child Left Behind Act, NCLB）笼统要求的“[[Scientifically Based Research\|基于科学的研究]]”（scientifically based research），[[Every Student Succeeds Act\|ESSA]] 将 QED 正式制度化为 Tier II 中等[[Evidence Standards\|证据标准]]，要求试验方案具备严密的前测基线控制与统计调整模型（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 162–163]]）。
@@ -264,7 +264,7 @@ updated: 2026-09-18
 ## 局限性
 
 > [!method-limits] 方法局限与偏误控制
-> - **选择-成熟交互威胁（Selection-Maturation Interaction）** 即使基线[[Pre-test and Post-test\|前测]]分数完全平衡，来自优势社区学校的对照组学生其自然认知[[Growth\|成长]]斜率可能显著快于薄弱校干预组，导致因果估计产生系统性正向或负向偏倚（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 318–320]]）。
+> - **选择-成熟交互威胁（Selection-Maturation Interaction）** 即使基线[[Pre-test and Post-test\|前测]]分数完全平衡，来自优势社区学校的对照组学生其自然认知成长斜率可能显著快于薄弱校干预组，导致因果估计产生系统性正向或负向偏倚（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 318–320]]）。
 > - **不可测混杂与遗漏[[Variable\|变量]]偏倚（Omitted Variable Bias）** [[Propensity Score Matching\|倾向得分匹配]]（PSM）与回归控制仅能平衡已观测到的协变量，无法控制教师教学热情、学生求知动机与家庭[[Bildung\|教养]]风格等不可测潜变量。
 > - **均值回归假象（Regression to the Mean）** 当依据前测极端低分筛选补救干预对象时，后测成绩的提高往往部分源于极端测验误差的统计回归，而非干预方案的纯因果实效。
 > - **法定单项合规掩盖全量证据赤字** 在证据治理中，单项 QED 易被异化为合规工具，掩盖同一实践在全量证据库中高达 42%–51% 的无支持或负效应现实（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, p. 177]]）。

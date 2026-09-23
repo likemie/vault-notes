@@ -2,11 +2,10 @@
 title: Dialogue in Education
 aliases:
   - 教育对话
-  - 对话
   - 对话教学
   - educational dialogue
   - dialogic teaching
-summary: "教育哲学与教学法中的核心中介，通过师生与生生间平等的经验共享、批判性质询与共同探究，克服单向灌输并促进批判性思维与意识觉醒"
+summary: 教育哲学与教学法中的核心中介，通过师生与生生间平等的经验共享、批判性质询与共同探究，克服单向灌输并促进批判性思维与意识觉醒
 type: concept
 domain: "educational-philosophy"
 related_count: 30
@@ -25,7 +24,7 @@ related_concepts:
   - "[[Conscientization]]"
   - "[[Critical Thinking]]"
   - "[[Scaffolding]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Hypothesis]]"
   - "[[Socratic Dialogue]]"
   - "[[Operationalization]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-25
-updated: 2026-09-18
+updated: 2026-09-23
 ---
 
 # Dialogue in Education
@@ -74,7 +73,7 @@ updated: 2026-09-18
 > [!concept-lens] 概念透镜
 > - **含义** 摆脱以讲授为主的知识传输模式，建立师生与生生之间平等的民主沟通契约与理性探究共同体。
 > - **用途** 用于打破自上而下的灌输，提供认知冲突、反思[[Scaffolding\|脚手架]]与多元视角协商的互动载体。
-> - **边界** 对话并非无目的的闲聊，也不是权威者隐藏结论的诱导式“伪提问”，而是建立在尊重、爱、[[Humility in Learning\|谦逊]]与严谨理由审查基础上的社会建构。
+> - **边界** 对话并非无目的的闲聊，也不是权威者隐藏结论的诱导式“伪提问”，而是建立在尊重、爱、[[Humility\|谦逊]]与严谨理由审查基础上的社会建构。
 
 > [!citation-card]- 关键表述
 > 当对话发生时，学习者不再是驯服的听众，而是批判性共同探究者。 （Freire, 2000, p. 81; 引自 Darwish, 2009, p. 9）

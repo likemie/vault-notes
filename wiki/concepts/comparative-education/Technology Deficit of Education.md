@@ -8,7 +8,7 @@ aliases:
 summary: "Niklas Luhmann 与 Karl-Eberhard Schorr (1979) 提出的概念，指教育因果链条在当下无法获得经验验证，从而形成结构性技术赤字，催生了对量化硬事实与政策中介的永续需求。"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[New Public Management]]"
   - "[[Positivism]]"
+  - "[[Open-Mindedness]]"
   - "[[Variable]]"
   - "[[Performance Indicators]]"
 related_theories:
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Technology Deficit of Education
@@ -163,7 +164,7 @@ updated: 2026-09-17
 > > [[Positivism\|实证主义]]经济学家与社会学系统论学者围绕教育生产函数是否真实存在展开旷日持久的争论。
 > >
 > > - **实证主义经济学者** 认为随着大数据、纵向追踪数据库与高级计量[[Causality\|因果推断]]技术的成熟，教育投入与长期[[Human Capital Theory\|人力资本]]产出的因果关联能够被精确识别，技术赤字仅代表历史性技术手段的不足。
-> > - **社会学系统论学者** 坚信人作为主体具备自主认知与反思演化能力，教育因果关系并非机械链条，未来的开放性决定了技术赤字是不可消除的根本特质。
+> > - **社会学系统论学者** 坚信人作为主体具备自主认知与反思演化能力，教育因果关系并非机械链条，未来的[[Open-Mindedness|开放性]]决定了技术赤字是不可消除的根本特质。
 
 > [!critique] 外部批评
 > - **实证主义因果归因批判** 批判学者指出，将教育系统的不确定性绝对化为“技术赤字”，容易被政策制定者借用作为逃避政策失败责任或推卸教育质量承诺的理论托词。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]

@@ -8,7 +8,7 @@ summary: "质性数据与内容分析中将离散分析单元与微观编码归�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 37
+method_related_count: 39
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Feedback]]"
   - "[[Document]]"
+  - "[[Meaningful Human Control]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Reflexivity]]"
   - "[[Reliability]]"
@@ -54,6 +55,7 @@ related_methods:
   - "[[Audit Trail]]"
 related_persons:
   - "[[Louis Cohen]]"
+  - "[[Christopher Martin]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
@@ -62,7 +64,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-24
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Domain Analysis
@@ -199,9 +201,9 @@ flowchart TD
 > [!dev-timeline] 概念演变
 > - **1960s–1970s — 认知人类学与民间分类学萌芽** 哈罗德·康克林（Harold Conklin）与查尔斯·弗拉克（Charles Frake）等发展出成分分析与民间分类法，探明原住民对自然与社会世界的内在概念分类图式。
 > - **1979–1980 — [[Ethnography\|民族志]]发展序列与九大语义关系确立** 詹姆斯·斯普拉德利（James Spradley）出版《民族志访谈》（1979）与《[[Participant Observation\|参与观察]]》（1980），系统提出发展研究序列（DRS），将领域分析确立为首要分析基石，界定了九类通用语义关系与六步分析法。
-> - **1980s–1990s — 融入[[Qualitative Research\|质性研究]]与[[Content Analysis\|内容分析]]主流** 马丁·哈默斯利与保罗·阿特金森（Hammersley & Atkinson, 1983）论证了资料归入多重范畴以保留丰富性的合法性；科林·罗布森（Robson, 1993）与迈尔斯和休伯曼（Miles & Huberman, 1994）将领域归并规范引入内容分析与[[Case Study\|案例研究]]。
+> - **1980s–1990s — 融入[[Qualitative Research\|质性研究]]与[[Content Analysis\|内容分析]]主流** [[Christopher Martin|马丁]]·哈默斯利与保罗·阿特金森（Hammersley & Atkinson, 1983）论证了资料归入多重范畴以保留丰富性的合法性；科林·罗布森（Robson, 1993）与迈尔斯和休伯曼（Miles & Huberman, 1994）将领域归并规范引入内容分析与[[Case Study\|案例研究]]。
 > - **2000s–2010s — 教材方法论规范与操作实务定型** [[Louis Cohen\|路易斯·科恩]]等（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]]）在经典方法论专著中将领域分析深度嵌入质性分析流程（Ch. 11）与内容分析 11 步规程（Ch. 30），并创立教师工作压力包容归并范例。
-> - **2020s — 计算辅助与大模型人在回路演进** 随着 [[Qualitative Computer Software\|CAQDAS]] 知识图谱功能与[[Generative Artificial Intelligence\|生成式人工智能]]（LLM）的发展，基于语义向量嵌入（Embeddings）与无监督聚类辅助识别领域雏形成为新前沿；但研究者的[[Reflexivity\|反身性]]核查与文化语境审定仍是防范算法偏差的关键屏障。
+> - **2020s — 计算辅助与大模型[[Meaningful Human Control|人在回路]]演进** 随着 [[Qualitative Computer Software\|CAQDAS]] 知识图谱功能与[[Generative Artificial Intelligence\|生成式人工智能]]（LLM）的发展，基于语义向量嵌入（Embeddings）与无监督聚类辅助识别领域雏形成为新前沿；但研究者的[[Reflexivity\|反身性]]核查与文化语境审定仍是防范算法偏差的关键屏障。
 
 ---
 

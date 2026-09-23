@@ -7,10 +7,10 @@ summary: "法国著名哲学家、人类学家与科学社会学家，科学技�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 32
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 31
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1947"
 died: "2022"
 lifespan: 1947–2022
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Topological Spatialisation]]"
-  - "[[Dialogue in Education]]"
   - "[[Policy Network]]"
   - "[[Constructivist Paradigm]]"
 related_theories:
@@ -61,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Bruno Latour
@@ -153,7 +152,7 @@ updated: 2026-09-18
 > - **师承／合作者** 米歇尔·卡隆（Michel Callon）— 共同创立[[Actor-Network Theory\|行动者网络理论]]（ANT）与转译社会学。
 > - **师承／合作者** 约翰·劳（John Law）— 共同发展关系物质性与耐用材料秩序化理论。
 > - **师承／合作者** 史蒂夫·伍尔加（Steve Woolgar）— 合著《实验室生活》，开创微观科学实验室[[Ethnography\|人类学研究]]。
-> - **思想[[Dialogue in Education\|对话]]者** 吉尔·德勒兹（Gilles Deleuze）— 汲取其块茎与[[Assemblage\|装配]]思想，构建去中心化的异质网络[[Ontology\|本体论]]。
+> - **思想对话者** 吉尔·德勒兹（Gilles Deleuze）— 汲取其块茎与[[Assemblage\|装配]]思想，构建去中心化的异质网络[[Ontology\|本体论]]。
 > - **后世应用学者** [[Sigrid Hartong\|西格丽德·哈通]]（Sigrid Hartong）— 将拉图尔[[Center of Calculation\|计算中心]]理论应用于教育政策拓扑学与[[Data Infrastructure\|数据基础设施]]研究。
 > - **后世应用学者** 杰森·比奇（[[Jason Beech]]）与埃玛·罗威（Emma Rowe）— 将拉图尔 ANT 与互客体性理论应用于比较教育与批判[[Policy Network\|政策网络]]分析。
 

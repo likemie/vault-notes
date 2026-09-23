@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Knowledge Transfer]]"
-  - "[[Dialogue in Education]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Educational Science Communication]]"
@@ -30,6 +29,7 @@ related_concepts:
   - "[[Public Engagement with Science]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Knowledge Production]]"
+  - "[[Dialogue in Education]]"
   - "[[Professional Judgment]]"
   - "[[Document]]"
   - "[[Phronesis]]"
@@ -77,7 +77,7 @@ updated: 2026-09-22
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示了传统科普与早期教育[[Knowledge Transfer\|知识转移]]中将受众视为无知客体的自上而下单向知识传递偏见。
-> - **用途** 帮助科学社会学、传播学与教育政策研究批判反思以专家为中心的居高临下态度，为推动双向平等[[Dialogue in Education\|对话]]、情境化共创与参与式治理提供反思靶子。
+> - **用途** 帮助科学社会学、传播学与教育政策研究批判反思以专家为中心的居高临下态度，为推动双向平等对话、情境化共创与参与式治理提供反思靶子。
 > - **边界** 批判赤字模型并不意味着否定科学证据的客观有效性，而是强调受众态度与实践决策由价值观、专业自主性、制度环境、情境复杂性及信任网络等多重复杂机制共同塑造。
 
 > [!citation-card] 英国皇家学会论赤字模型及其超越
@@ -152,7 +152,7 @@ updated: 2026-09-22
 > **公众信任危机源于治理透明度而非知识赤字** 英国皇家学会（[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society, 2026]]）回顾 40 年科学传播史指出，自 1985 年《[[Bodmer Report 1985\|博德默尔报告]]》（[[Bodmer Report 1985]]）以来，单纯通过媒体与讲座单向灌输科学事实的赤字模型在应对公众信任危机时被证实根本失效。公众对科技创新的疑虑往往源于对商业利益垄断、风险治理不透明及伦理关切的回应不足；唯有在科研全生命周期建立双向倾听与参与机制，才能构筑可持续的社会信任基石。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 4–10)]]
 
 > [!claim] House of Lords Select Committee
-> **科学与社会关系的[[Dialogue in Education\|对话]]与参与转向** 英国上议院科技特别委员会（House of Lords, 2000）明确指出，将公众预设为知识被动受体的做法不仅无助于缓解公众恐慌，反而加剧了公众对专家权威的疏离感；科学传播必须从自上而下的普及转向制度化的对话与参与。
+> **科学与社会关系的对话与参与转向** 英国上议院科技特别委员会（House of Lords, 2000）明确指出，将公众预设为知识被动受体的做法不仅无助于缓解公众恐慌，反而加剧了公众对专家权威的疏离感；科学传播必须从自上而下的普及转向制度化的对话与参与。
 
 ---
 
@@ -200,7 +200,7 @@ updated: 2026-09-22
 
 > [!dev-timeline] 概念演变
 > - **1985 — 起源与公众理解科学（PUS）倡导** 英国皇家学会发布《[[Bodmer Report 1985\|博德默尔报告]]》（[[Bodmer Report 1985]]），确立科学家向社会传播科学的道德义务；该阶段主要采用普及科学事实的单向知识供给取向（后被[[Reflexivity\|反思性]]界定为赤字模型）。
-> - **2000 — 英国上议院报告与[[Dialogue in Education\|对话]]转向** 英国上议院科技委员会发布里程碑报告《科学与社会》（Science and Society），严厉批评赤字模型的傲慢与局限，确立了以双向平等对话为标志的现代科学传播新基调。
+> - **2000 — 英国上议院报告与对话转向** 英国上议院科技委员会发布里程碑报告《科学与社会》（Science and Society），严厉批评赤字模型的傲慢与局限，确立了以双向平等对话为标志的现代科学传播新基调。
 > - **2010–2020 — [[Knowledge Mobilisation\|知识动员]]反思与信息赤字因果[[Falsification\|证伪]]** [[Evidence-Based Education\|循证教育]]运动中大规模试验（如 [[Education Endowment Foundation\|EEF]] [[Literacy Octopus\|识字八爪鱼试验]]）证实单纯信息推介[[Effect Size\|效应量]]为零，推动[[International Education\|国际教育]]中介机构反思自上而下推广模式（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022]]）。
 > - **2024–2026 — [[Educational Science Communication\|教育科学传播]]与全生命周期参与[[Paradigm\|范式]]确立** 贝萨（[[Argument_Besa_2024_UW\|Besa, 2024]]）系统将科学传播理论引入德语区教育研究，解构线性转移中的赤字[[Hypothesis\|假设]]并提倡双向递归对话；英国皇家学会（[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society, 2026]]）全面确立[[Public Engagement with Science\|公众科学参与]]（PES）内嵌于科研全生命周期的国家战略共识。
 
@@ -240,7 +240,7 @@ updated: 2026-09-22
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 系统回顾 40 年科学传播史，论证从单向赤字模型彻底转向双向平权、全生命周期内嵌的[[Public Engagement with Science\|公众科学参与]]（PES）的国家战略共识。
-> - [[Argument_Besa_2024_UW\|Besa (2024)]] — 批判教育研究中单向线性的自上而下[[Knowledge Transfer\|知识转移]]假定，揭示其赤字模型本质及导致的教师心理防御，提出转向双向递归[[Dialogue in Education\|对话]]与概念转变沟通。
+> - [[Argument_Besa_2024_UW\|Besa (2024)]] — 批判教育研究中单向线性的自上而下[[Knowledge Transfer\|知识转移]]假定，揭示其赤字模型本质及导致的教师心理防御，提出转向双向递归对话与概念转变沟通。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 依托英国 [[Education Endowment Foundation\|EEF]] [[Literacy Octopus\|识字八爪鱼]]多臂因果试验等证据，证明孤立的单向信息推介[[Effect Size\|效应量]]为零，提出[[Educational Brokerage Agency\|知识中介机构]]自我循证的五大支柱。
 
 ---

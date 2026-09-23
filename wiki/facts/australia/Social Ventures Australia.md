@@ -11,7 +11,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 35
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,12 +30,10 @@ related_concepts:
   - "[[Philanthrocapitalism]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Return on Investment]]"
-  - "[[Growth]]"
   - "[[Going Native]]"
   - "[[Assemblage]]"
   - "[[Epistemology]]"
   - "[[Educational Brokerage Agency]]"
-  - "[[Dialogue in Education]]"
   - "[[Co-affiliation]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Knowledge Production]]"
@@ -101,7 +99,7 @@ updated: 2026-09-22
 
 > [!dev-timeline] 组织发展历程与十年政策游说（2002–2021）
 > - **2002 — 创办与风投资本纪律引入** 在霍华德联邦政府推行促进企业慈善立法的背景下，由麦肯锡公司前高管罗伯特·麦克莱恩发起成立，注册为担保有限公司；首任首席执行官迈克尔·特雷尔确立引入商业咨询、尽职调查与多年期资本支持的模式（Traill, 2016; [[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 5]]）。
-> - **2011–2013 — 跨国网络对接与咨询业务商业化** 对接麦肯锡全球总裁 [[Michael Barber]] 影响下创立的英国 EEF；设立高度盈利的商业咨询部门（SVA Consulting），年营业额迅速[[Growth\|成长]]至近 1000 万澳元（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]）。
+> - **2011–2013 — 跨国网络对接与咨询业务商业化** 对接麦肯锡全球总裁 [[Michael Barber]] 影响下创立的英国 EEF；设立高度盈利的商业咨询部门（SVA Consulting），年营业额迅速成长至近 1000 万澳元（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]）。
 > - **2013 — 发起亮点学校连接与孵化学校加计划** 发起由联邦政府、澳大利亚联邦银行与三星联合资助的亮点学校连接项目以重塑 50 所弱势公立学校；同年作为核心发起方孵化全澳首家面向公立学校的企业免税捐赠中介学校加计划（[[Australian Schools Plus\|Schools Plus]]），SVA 首席执行官迈克尔·特雷尔出任首任董事长，初创三年直接共用 SVA 注册法人地址（Traill, 2016; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 530]]）。
 > - **2014 — 全资试验原型 [[Evidence for Learning\|E4L]] 启动** 获英国 EEF 及澳大利亚联邦银行联合出资，SVA 设立全资教育中介子公司证据学习中心（E4L），由商业律师 Matthew Deeble 掌舵，率先[[Going Native\|本土化]] EEF《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，作为游说国家级证据机构的样板试验田（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
 > - **2016 — 渗透联邦生产力委员会国家证据调查** 联邦财长委托生产力委员会开展“国家教育证据基础”审查；同期 SVA 董事 Richard Spencer 获委任为委员会社会政策专员；SVA 提交 50 页专项建议书，以 EEF 为范本游说，报告最终采纳建议（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 7]]）。
@@ -120,7 +118,7 @@ updated: 2026-09-22
 > - **跨国资助与资本盟友** 深度整合跨国铁矿石巨头[[BHP Foundation\|必和必拓基金会]]、英国[[Sutton Trust\|萨顿信托]]、[[Impetus\|动力基金会]]以及美洲银行、麦格理银行、高盛集团、普华永道等全球金融与咨询资本，并联合澳大利亚联邦银行与三星集团开展学校项目（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6–8]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 528]]）。
 
 > [!pathways]- 运行机制与[[Epistemology\|认识论]]粘合剂
-> - **金融化认识论统摄** SVA 在[[Policy Network\|政策网络]]中普及买入、[[Educational Brokerage Agency\|证据经纪人]]与社会[[Return on Investment\|投资回报]]率（SROI）等金融从业术语；正如其[[Venture Philanthropy\|风险慈善]]领袖在主旨演讲中所言，“金钱是我们[[Dialogue in Education\|对话]]的通用货币”（Money is the currency of our conversation），以商业投行语系统摄公共教育治理逻辑（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]）。
+> - **金融化认识论统摄** SVA 在[[Policy Network\|政策网络]]中普及买入、[[Educational Brokerage Agency\|证据经纪人]]与社会[[Return on Investment\|投资回报]]率（SROI）等金融从业术语；正如其[[Venture Philanthropy\|风险慈善]]领袖在主旨演讲中所言，“金钱是我们对话的通用货币”（Money is the currency of our conversation），以商业投行语系统摄公共教育治理逻辑（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]）。
 > - **原型试验与政策外溢** 先以民间资金在子公司 [[Evidence for Learning\|E4L]] 试行英国 [[Education Endowment Foundation\|EEF]] 工具包模型，待积累地方案例后再通过政府审查报告推动国家财政全额接盘，实现由私到公的制度化跨越（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6–7]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 530]]）。
 > - **避税通道装配与政商闭门磋商** 通过游说专门修改税法为关联实体争取 [[Deductible Gift Recipient\|DGR1]] 特许资质，直接与总理幕僚长闭门协商政策，并接受高达 1500 万澳元的保密竞标资助，锁定国家政策导向（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 526–527, 530]]）。
 

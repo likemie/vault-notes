@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
 argument_display_title: "Research Methods in Education · Ch26"
 argument_kind: "book-chapter"
-argument_related_count: 51
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -46,7 +46,6 @@ related_concepts:
   - "[[Definition of Terms]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Reliability]]"
-  - "[[Growth]]"
   - "[[Emergence]]"
   - "[[Research Topic]]"
   - "[[Language Skills]]"
@@ -288,7 +287,7 @@ Cabral（1987, p. 470）将角色扮演描述为一种已被广泛改造用于�
 > - **认知与语言**
 >   - **扩展和丰富语言使用** 在语言使用出于真实沟通需要的模拟真实情境中，扩展、丰富并激发真实语言的使用
 >   - **提高视觉与空间技能** 通过回应一系列刺激和情境提高视觉和空间技能
-> - **自我与[[Growth\|成长]]**
+> - **自我与成长**
 >   - **培养责任感与信心** 作为决策者和问题解决者培养责任感和信心
 >   - **发展个人创造力** 发展个人创造力
 >   - **发展能动性与自我意识** 发展能动性（agency）和对自我日益增强的意识（p. 6）

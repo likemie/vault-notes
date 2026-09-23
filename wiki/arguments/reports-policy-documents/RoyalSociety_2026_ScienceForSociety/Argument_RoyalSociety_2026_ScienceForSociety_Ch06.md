@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_display_title: "Chapter six: Academic scientific community"
 argument_kind: "book-chapter"
-argument_related_count: 42
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Social License to Operate]]"
   - "[[Emergence]]"
   - "[[Gamification]]"
-  - "[[Dialogue in Education]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Upstream Public Engagement]]"
@@ -57,7 +56,6 @@ related_concepts:
   - "[[Governance by Spin]]"
   - "[[Chain of Evidence]]"
   - "[[Evidence Standards]]"
-  - "[[Growth]]"
   - "[[Academic Engagement]]"
   - "[[Blue Skies Research]]"
   - "[[Knowledge Transfer]]"
@@ -142,7 +140,7 @@ updated: 2026-09-13
 > - **科学品味（Pint of Science）** 将科研人员直接引入酒吧、小酒馆等日常社交休闲场所，在完全非正式与平权的氛围中，向普通市民讲解前沿量子物理、神经生物学与生态学课题，消除公众对高深科研的心理敬畏感。
 > - **科学咖啡馆（Café Scientifique）** 在城市咖啡馆、文化沙龙等开放公共空间定期组织思辨式研讨，由学者简短抛出争议性科技议题（如人工智能伦理、基因编辑），将绝大部分时间留给公众提问与双向辩论。
 > - **肥皂箱科学（Soapbox Science）** 借鉴伦敦海德公园演讲者之角的传统，专为女性与非二元性别科研人员打造街头科普舞台。学者站立在城市广场与商业街的简易木箱上，不使用任何扩音设备或幻灯片，全凭肢体语言、日常道具和生动叙事吸引过往行人，在普及前沿科学的同时有力重塑科学家的性别刻板印象。
-> - **我是科学家，带我离开这里！（I’m a Scientist Get Me Out of Here）** 依托高度[[Gamification\|游戏化]]的在线交互[[Dialogue in Education\|对话]]平台，将一线科学家分为不同主题战队，由中小学生直接在线发起即时提问并进行实时投票淘汰；极大地打破了欠发达地区学校接触前沿科学家的地理区隔，为青少年提供了低门槛的具身化科学接触管道。
+> - **我是科学家，带我离开这里！（I’m a Scientist Get Me Out of Here）** 依托高度[[Gamification\|游戏化]]的在线交互对话平台，将一线科学家分为不同主题战队，由中小学生直接在线发起即时提问并进行实时投票淘汰；极大地打破了欠发达地区学校接触前沿科学家的地理区隔，为青少年提供了低门槛的具身化科学接触管道。
 
 #### 主题二：从成果发布下游告知转向全流程“上游共创”范式（pp. 91–92）
 
@@ -436,7 +434,7 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 > - **建立监测机制并每年公开公布公众参与支出占总科研经费预算的法定比例目标** 各资助机构应率先垂范，将公众参与正式列为资助项目的内在核心；建立透明的财务核算机制，每年向社会公开发布用于支持公众参与的专项支出占其总体科研资助盘子的法定比例。
 > - **精准弥补前沿紧缺领域的专项对话培训空白** 紧扣现实治理需求，重点增设政策决策咨询参与（Policy engagement）、数字与社交媒体传播、包容性与伦理合规实践，以及[[Participatory Research\|参与式研究]]和公民科学方案设计等急缺领域的实战培训计划。
 > - **创设竞争性多年期团队公众参与战略资助专项** 打破仅依赖个别研究人员课题附带微薄经费的传统局限，设立专款专用的竞争性、多年期战略公众参与专项基金；直接资助由跨学科科研人员与公众参与专业支持团队联合构成的网络与团队，为大学制定长远参与规划提供稳定、连续的财政支撑。
-> - **推广最佳实践并依托 NCCPE 深化评估方法创新** 充分吸纳 NCCPE 在科研卓越框架影响力[[Case Study\|案例研究]]中的宝贵经验，在全英科研界广泛推广卓越公众参与及评估方法；郑重承诺**每五年为一个固定周期**，持续开展一次全国《影响英国科研人员公众参与的因素调查》，形[[Growth\|成长]]效的微观学术生态监测机制。（p. 104）
+> - **推广最佳实践并依托 NCCPE 深化评估方法创新** 充分吸纳 NCCPE 在科研卓越框架影响力[[Case Study\|案例研究]]中的宝贵经验，在全英科研界广泛推广卓越公众参与及评估方法；郑重承诺**每五年为一个固定周期**，持续开展一次全国《影响英国科研人员公众参与的因素调查》，形成长效的微观学术生态监测机制。（p. 104）
 
 #### 主题五：建议二十：学术科研共同体内部价值倡导与上游前置嵌入（p. 105）
 
@@ -502,7 +500,7 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 > *Public engagement is an essential part of the research lifecycle. It should be acknowledged as such, and researchers in academia, industry and the third sector should be supported, protected and rewarded for doing it well.*
 
 > [!citation-card]- 大学存续发展的战略基石
-> 尽管高等教育机构面临充满挑战的财政环境，但对公众参与的资金投入应当被视为对未来的战略性投资。公众参与基于以下理由对于大学的生存发展至关重要：为科研活动建立公众支持并提升其社会形象；为大学科研与教育核心活动维持公共投资的合法性；展示透明且合乎伦理的研究实践；凸显大学作为促进社会建设性与相互尊重[[Dialogue in Education\|对话]]的关键中枢角色；启迪下一代学生、学者和教育工作者；以及通过外部大奖认可和吸引社会慈善提升声誉。（p. 102）
+> 尽管高等教育机构面临充满挑战的财政环境，但对公众参与的资金投入应当被视为对未来的战略性投资。公众参与基于以下理由对于大学的生存发展至关重要：为科研活动建立公众支持并提升其社会形象；为大学科研与教育核心活动维持公共投资的合法性；展示透明且合乎伦理的研究实践；凸显大学作为促进社会建设性与相互尊重对话的关键中枢角色；启迪下一代学生、学者和教育工作者；以及通过外部大奖认可和吸引社会慈善提升声誉。（p. 102）
 >
 > *Although HEIs face a challenging financial environment, funding of public engagement should be seen as a strategic investment in the future. Public engagement is vital to universities’ existence on the grounds of: building public support for research activities and raising the profile of these activities; maintaining legitimacy for public investment in their core activities of research and education; demonstrating transparent and ethical practice; highlighting their key role as facilitators of constructive and mutually respectful dialogue; inspiring the next generations of students, researchers and educators; boosting opportunities for external recognition through prizes and attracting philanthropy.*
 

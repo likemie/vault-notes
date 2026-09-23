@@ -22,7 +22,6 @@ tags:
   - theme/knowledge-mobilisation
 related_concepts:
   - "[[Document]]"
-  - "[[Dialogue in Education]]"
   - "[[Evidence Ecosystem]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
@@ -30,6 +29,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Research Literacy]]"
   - "[[Literature Search]]"
+  - "[[Dialogue in Education]]"
   - "[[Research Translation]]"
   - "[[Interaction Effect]]"
   - "[[Homework]]"
@@ -70,7 +70,7 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> **教师科研参与（Engagement in and with Research）** 是指教师在专业实践中与科学研究发生关联的两种互补方式：“开展研究”（Engagement in research）是指教师以探究主体身份直接设计与执行研究活动（如[[Action Research\|行动研究]]、基于课堂的微型课题、行动反思与学位研究）；“使用研究”（Engagement with research）是指教师作为实证成果的批判性消费者与利用者，通过检索[[Document\|文献]]、研读学术期刊并将科研证据融入备课、教学法优化及专业[[Dialogue in Education\|对话]]（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023, pp. 2–4]]）。[[OECD\|经合组织]]（[[OECD]]）跨国实证调查进一步表明，教师科研参与不仅取决于个体专业素养，更深受宏观[[Evidence Ecosystem\|证据生态系统]]中[[Knowledge Production\|知识生产]]分工与制度性激励配置的深刻制约（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 89–92]]）。
+> **教师科研参与（Engagement in and with Research）** 是指教师在专业实践中与科学研究发生关联的两种互补方式：“开展研究”（Engagement in research）是指教师以探究主体身份直接设计与执行研究活动（如[[Action Research\|行动研究]]、基于课堂的微型课题、行动反思与学位研究）；“使用研究”（Engagement with research）是指教师作为实证成果的批判性消费者与利用者，通过检索[[Document\|文献]]、研读学术期刊并将科研证据融入备课、教学法优化及专业对话（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023, pp. 2–4]]）。[[OECD\|经合组织]]（[[OECD]]）跨国实证调查进一步表明，教师科研参与不仅取决于个体专业素养，更深受宏观[[Evidence Ecosystem\|证据生态系统]]中[[Knowledge Production\|知识生产]]分工与制度性激励配置的深刻制约（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 89–92]]）。
 
 > [!concept-lens] 概念透镜
 > - **核心内涵** 区分教师作为[[Knowledge Production\|知识生产]]者（开展研究）与知识运用者（使用研究）的双重角色及其生态位。

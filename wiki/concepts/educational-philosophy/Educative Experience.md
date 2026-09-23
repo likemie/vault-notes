@@ -16,10 +16,10 @@ tags:
   - experiential-learning
   - pedagogy
 related_concepts:
-  - "[[Growth]]"
   - "[[Learning by Doing]]"
   - "[[Epistemology]]"
   - "[[Mis-educative Experience]]"
+  - "[[Growth]]"
   - "[[Interaction Effect]]"
   - "[[Progressive Education]]"
   - "[[Theory of Knowledge]]"
@@ -48,7 +48,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> **教育性经验（Educative Experience）**是约翰·[[John Dewey\|杜威]]在《经验与教育》（*Experience and Education*, 1963）中确立的正向经验品质判定标准。它指能够丰富个体当下体验、并为个体打开通往未来更深刻与更广阔经验大门、从而促进连续[[Growth\|生长]]的经验。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 30–32)]]
+> **教育性经验（Educative Experience）**是约翰·[[John Dewey\|杜威]]在《经验与教育》（*Experience and Education*, 1963）中确立的正向经验品质判定标准。它指能够丰富个体当下体验、并为个体打开通往未来更深刻与更广阔经验大门、从而促进连续生长的经验。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 30–32)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向个体内部心理需求与外部客观条件成功交汇、并具备正向时间连续性的经验形态。
@@ -110,7 +110,7 @@ updated: 2026-09-17
 > 探讨教育经验的[[Epistemology\|认识论]]标准，强调经验的价值在于其时间轴上的向外扩展性。
 
 > [!claim] [[John Dewey\|Dewey, J.]]
-> **[[Growth\|生长]]的连续性判定** 杜威指出，衡量一项经验是否具备教育性，唯一的理想与标准是其能否促进个体的持续[[Growth\|生长]]（Growth）。经验若仅仅在当下令人满足却导致未来的求知敏感度退化，则不具备教育性价值。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 30–31)]]
+> **生长的连续性判定** 杜威指出，衡量一项经验是否具备教育性，唯一的理想与标准是其能否促进个体的持续生长（[[Growth]]）。经验若仅仅在当下令人满足却导致未来的求知敏感度退化，则不具备教育性价值。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 30–31)]]
 
 ---
 

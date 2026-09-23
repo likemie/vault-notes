@@ -10,7 +10,7 @@ aliases:
 summary: "Schot and Steinmueller（2018）提出的第三个创新政策范式，认为创新系统范式在面对气候变化等棘手问题时过于被动，政策应从修复系统失灵升级为主动推动方向性变革"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Reflexivity]]"
   - "[[Emergence]]"
-  - "[[Dialogue in Education]]"
 related_theories:
   - "[[Systems of Innovation]]"
 related_methods:
@@ -39,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Transformative Change
@@ -104,7 +103,7 @@ updated: 2026-09-18
 > [!success]
 > 由于变革转型[[Paradigm\|范式]]仍处早期阶段，其实施证据有限（Lindner et al., 2024）([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, p.34]])：
 > - 新设机构和资助项目正在[[Emergence\|涌现]]——这些项目要求研究与[[Systems of Innovation\|创新系统]]中的多方合作（大学、企业、技术开发组织、投资者、政府、社会），并认识到进展需要整个系统的转型（p.42）
-> - 变革转型范式下大学的角色进一步扩展（Kelleher & Ulrichsen, 2022）（pp.34–35）：更积极地与政府和产业合作以影响创新政策的优先事项和方向；利用大学作为中立召集者的角色，为多方[[Dialogue in Education\|对话]]提供空间，汇集系统情报；帮助理解正在涌现的替代路径，以及不同行动方案的系统级机会和后果
+> - 变革转型范式下大学的角色进一步扩展（Kelleher & Ulrichsen, 2022）（pp.34–35）：更积极地与政府和产业合作以影响创新政策的优先事项和方向；利用大学作为中立召集者的角色，为多方对话提供空间，汇集系统情报；帮助理解正在涌现的替代路径，以及不同行动方案的系统级机会和后果
 
 > [!info]- 大学在变革转型中的延伸角色
 > - 整合研究与政策建议——帮助设定创新方向而非仅响应资助信号

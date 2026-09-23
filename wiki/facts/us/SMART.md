@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -28,7 +28,6 @@ tags:
   - essa-strong
   - region/us
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Evidence Standards]]"
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # SMART
@@ -80,7 +79,7 @@ updated: 2026-09-17
 > [!policy-design] 方案设计与教学规程
 > - **结构化四步伴读规程** 志愿者遵循极其清晰友好的互动原则：
 >   - **引入与自主选书** 鼓励儿童在优质书架中自主挑选感兴趣的高质量读本。
->   - **对答式出声朗读（Shared Reading）** 志愿者先示范朗读，随后与儿童轮流朗读，并就插图与关键生词展开日常[[Dialogue in Education\|对话]]。
+>   - **对答式出声朗读（Shared Reading）** 志愿者先示范朗读，随后与儿童轮流朗读，并就插图与关键生词展开日常对话。
 >   - **温和纠错与词汇点拨** 当儿童读错时，志愿者给予自然重述或音素提示，绝不施加考试压力。
 >   - **赠书带回家（Book Giveaway）** 项目每月免费赠予受试儿童两本优质正版图书，培育家庭藏书与持续阅读习惯。
 > - **校本站点协调员质控** 每所学校常驻一名受训校本协调员（Site Coordinator），负责接待志愿者、匹配学生并监督伴读环境的安全性与准时率。

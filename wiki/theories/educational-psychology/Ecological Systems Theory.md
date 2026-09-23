@@ -8,7 +8,7 @@ aliases:
 summary: "由尤里·布朗芬布伦纳开创的发展心理学与教育学经典理论，主张个体发展是由嵌套于彼此之中的多层环境系统（微系统、中系统、外系统、宏系统及历时系统）共同交互塑造的动态生态过程，其历时系统构想为政策制定时间生态分析提供了跨学科基础。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 13
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -22,13 +22,11 @@ tags:
   - field/developmental-psychology
 related_concepts:
   - "[[Ecological Validity]]"
-  - "[[Growth]]"
   - "[[Creativity]]"
   - "[[Policymaking Chronosystem]]"
   - "[[Interaction Effect]]"
   - "[[Emergence]]"
   - "[[Paradigm]]"
-  - "[[Dialogue in Education]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Operationalization]]"
 related_theories: []
@@ -43,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Ecological Systems Theory
@@ -54,7 +52,7 @@ updated: 2026-09-18
 
 > [!theory-position] 理论定位
 > - **解释对象** 解释个体（尤其是儿童与青少年）如何在其所处的多重交织、层层嵌套的物理、人际、制度与社会文化环境中实现认知、情感与行为的动态发展。
-> - **理论问题** 克服 20 世纪传统心理学将受试者与自然生活情境割裂、沉溺于实验室人工控制所造成的“[[Ecological Validity\|生态效度]]危机”（Ecological Validity Crisis），为理解人类复杂[[Growth\|成长]]过程提供整体性系统框架。
+> - **理论问题** 克服 20 世纪传统心理学将受试者与自然生活情境割裂、沉溺于实验室人工控制所造成的“[[Ecological Validity\|生态效度]]危机”（Ecological Validity Crisis），为理解人类复杂成长过程提供整体性系统框架。
 > - **理论类型** 宏观综合理论与发展系统分析模型（Developmental Systems Framework），后期演进为近端过程驱动的“过程—个体—情境—时间”（PPCT）生物生态学模型。
 > - **知识位置** 发展心理学与教育生态学奠基之作，由[[Urie Bronfenbrenner\|尤里·布朗芬布伦纳]]于 1970 年代奠定（Bronfenbrenner, 1979），并在 1990 年代与斯蒂芬·J·塞西（Stephen J. Ceci）发展出整合历时系统（Chronosystem）的成熟模型（Bronfenbrenner & Ceci, 1994）。在教育政策领域，[[Argument_Serpell_2020_EP\|Serpell (2020)]] 将其时间生态构想[[Creativity\|创造性]]移植为[[Policymaking Chronosystem\|政策制定时间系统]]。
 
@@ -87,7 +85,7 @@ updated: 2026-09-18
 > [!proposition-chain] 核心命题一｜人类发展受个体与即时环境之间持续且渐进的近端过程所驱动
 > - **前提一** 个体并非被动接受环境塑形的对象，其具有生物特质与主动探索意向。
 > - **前提二** 只有当个体与周围环境中的人、符号、物体发生规律性、高频且具有实质挑战性的直接面对面互动（即近端过程）时，认知与情感潜能才得以实际兑现。
-> - **推导** 缺乏高质量近端过程（如缺乏温暖亲子互动或富有启发性的师生[[Dialogue in Education\|对话]]）将直接阻断遗传潜能向现实能力的转化，导致[[Growth\|成长]]停滞。
+> - **推导** 缺乏高质量近端过程（如缺乏温暖亲子互动或富有启发性的师生对话）将直接阻断遗传潜能向现实能力的转化，导致成长停滞。
 
 > [!proposition-chain] 核心命题二｜环境系统之间的相互连结性（中系统）决定了微系统干预的最终成效
 > - **前提一** 发展中的个体同时栖居于多个微系统之中（家庭、学校、课外补习机构）。

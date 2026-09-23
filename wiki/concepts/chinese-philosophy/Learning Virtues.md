@@ -4,19 +4,19 @@ aliases:
   - 学习美德
   - Confucian learning virtues
   - seven learning virtues
-summary: "儒家学习传统中的核心学习品质，由认真、勤奋、刻苦、恒心、专心、尊师和谦虚等美德构成学习者的个人能动性"
+summary: 儒家学习传统中的核心学习品质，由认真、勤奋、刻苦、恒心、专心、尊师和谦虚等美德构成学习者的个人能动性
 type: concept
 domain: "chinese-philosophy"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
 tags:
-- region/china
-- theory/confucianism
-- field/cultural-psychology
-- field/chinese-philosophy
-- theme/learning
+  - region/china
+  - theory/confucianism
+  - field/cultural-psychology
+  - field/chinese-philosophy
+  - theme/learning
 related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Ideal Learner]]"
@@ -28,10 +28,9 @@ related_concepts:
   - "[[Benevolence]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Student-Teacher Relationship]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Pride in Learning]]"
   - "[[Concept Mapping]]"
-  - "[[Dialogue in Education]]"
   - "[[Cognitive Source]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Rote Learning]]"
@@ -52,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-08-20
+updated: 2026-09-23
 ---
 
 # Learning Virtues
@@ -145,7 +144,7 @@ updated: 2026-08-20
 > - **教师一方** 教师被视为道德引导者和直接榜样。"赋予教师的高度尊重不是免费得来的"——学生的尊重反过来约束教师持续自我修养
 
 > [!success] 实证发现
-> 尊师在实证研究中出现为一种**情感（affect）**而非行为过程——"尊重／接纳"（respect/receptivity）是中国学习者对知识和教师表达的独特情感。Li 明确指出这常被西方误解为被动服从（docility），但实际上它来自**[[Humility in Learning\|谦虚]]（humility）**——"谦虚的人愿意自我审视、承认不足、并自我改进"([[Argument_Li_2012_Cambridge\|Li, 2012, pp.94-95]])。参见下文谦虚美德。
+> 尊师在实证研究中出现为一种**情感（affect）**而非行为过程——"尊重／接纳"（respect/receptivity）是中国学习者对知识和教师表达的独特情感。Li 明确指出这常被西方误解为被动服从（docility），但实际上它来自**[[Humility\|谦虚]]（humility）**——"谦虚的人愿意自我审视、承认不足、并自我改进"([[Argument_Li_2012_Cambridge\|Li, 2012, pp.94-95]])。参见下文谦虚美德。
 
 > [!example] 尊师 ≠ 盲从
 > Li 提供了一个消除文化偏见的类比："西方儿童向私人教师学习运动或乐器，学习者通常不会带着争论和挑战去接近这样的教师"([[Argument_Li_2012_Cambridge\|Li, 2012, p.51]])。尊师不是被动服从，而是对教-学关系的功能性承认。
@@ -183,7 +182,7 @@ updated: 2026-08-20
 ### 家庭社会化：儒家式辅导中的美德传递
 
 > [!success]
-> Li and Heidi Fung 的母子[[Dialogue in Education\|对话]]研究（第 7 章）直接观察到了学习美德如何通过日常的母子对话（[[Mother-Child Conversation\|MCC]]）从一代传递到下一代([[Argument_Li_2012_Cambridge\|Li, 2012]])。
+> Li and Heidi Fung 的母子对话研究（第 7 章）直接观察到了学习美德如何通过日常的母子对话（[[Mother-Child Conversation\|MCC]]）从一代传递到下一代([[Argument_Li_2012_Cambridge\|Li, 2012]])。
 
 **序列分析证据** 在对 !CD 组台湾母子对话的序列分析中，学习美德（mV / cV）是台湾母子对话的**引力中心**——无论对话以什么话题开头（心智活动、积极情感或消极情感），台湾母子都会在第二轮或第三轮**转回学习美德([[Argument_Li_2012_Cambridge|Li, 2012]])**。具体而言：
 
@@ -219,7 +218,7 @@ updated: 2026-08-20
 > **学习美德 vs 西方的"学习动机"** Li 强调这些品质被称为"美德"（而非 skills 或 motivations），是因为它们在中国文化中承载了道德含义——它们不只是心理品质，更是道德品质。在此意义上，学习美德不仅服务于 [[Self-Cultivation\|修身]]，它们本身就是修身的具体内容([[Argument_Li_2012_Cambridge\|Li, 2012, p.52]])。
 
 > [!example]
-> **学习美德 vs [[Heart and Mind for Wanting to Learn\|好學心]]** 两者密切相关但处于不同层级。好學心是**动力源**（"想学"的欲望本身），学习美德是**动力机制**（"怎么学"的品质）。好學心集群的[[Concept Mapping\|概念地图]]结构直接反映了这层关系：五美德的四重奏、[[Humility in Learning\|谦虚]]和渴望都是好學心的**子维度**——没有好學心，这些美德无法持续；没有这些美德，好學心无法转化为实际学习([[Argument_Li_2012_Cambridge\|Li, 2012, pp.94, 97]])。
+> **学习美德 vs [[Heart and Mind for Wanting to Learn\|好學心]]** 两者密切相关但处于不同层级。好學心是**动力源**（"想学"的欲望本身），学习美德是**动力机制**（"怎么学"的品质）。好學心集群的[[Concept Mapping\|概念地图]]结构直接反映了这层关系：五美德的四重奏、[[Humility\|谦虚]]和渴望都是好學心的**子维度**——没有好學心，这些美德无法持续；没有这些美德，好學心无法转化为实际学习([[Argument_Li_2012_Cambridge\|Li, 2012, pp.94, 97]])。
 
 ---
 
@@ -238,7 +237,7 @@ updated: 2026-08-20
 > [!warning]
 > - 刻苦（keku）的美化可能导致对学习者——特别是来自贫困背景的学习者——承受不必要的痛苦的合理化和浪漫化([[Argument_Li_2012_Cambridge\|Li, 2012, p.50]])
 > - 尊师（zunshi）在实践层面可能退化为对权威的盲从，尽管理论层面强调相互性和教师的自我修养义务([[Argument_Li_2012_Cambridge\|Li, 2012, p.51]])
-> - 实证研究中的"尊师"和"[[Humility in Learning\|谦虚]]"出现为情感而非行为：这引发了一个方法论问题——受访者描述的是他们**实际做的**，还是他们**认为"应该"感受的**？情感描述可能比行为描述更容易受到社会赞许性（social desirability）的影响
+> - 实证研究中的"尊师"和"[[Humility\|谦虚]]"出现为情感而非行为：这引发了一个方法论问题——受访者描述的是他们**实际做的**，还是他们**认为"应该"感受的**？情感描述可能比行为描述更容易受到社会赞许性（social desirability）的影响
 
 ### 对"死记硬背"批评的四重反驳
 

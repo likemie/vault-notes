@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch05"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch05"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[Network Governance]]"
   - "[[International Baccalaureate]]"
+  - "[[Open-Mindedness]]"
   - "[[Flow]]"
   - "[[Boarding Schools]]"
   - "[[Teaching Assistant]]"
@@ -106,7 +107,7 @@ updated: 2026-09-18
 
 > [!assumptions] 扩展方案依赖的前提
 > - **共同使命可以跨组织保持** 国际方针、国家委员会和共同课程足以在书院自治下维持身份。
-> - **奖学金能够产生社会开放性** 只要录取不受家庭支付能力限制，私立法律形式不必然决定学生构成。
+> - **奖学金能够产生社会[[Open-Mindedness|开放性]]** 只要录取不受家庭支付能力限制，私立法律形式不必然决定学生构成。
 > - **地方政治支持可以替代单一国际机构** 各国政府、省区和地方机构的分散支持，能够承担联合国层面未承担的教育责任。
 > - **多样学校可以扩大影响** 既有学校虽偏离经典寄宿书院模型，却可能把 [[United World Colleges\|UWC]] 理念带给未主动选择该运动的学生。
 

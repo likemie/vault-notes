@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch03"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch03"
 argument_display_title: "Chapter three: Mass media and misinformation"
 argument_kind: "book-chapter"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Scientific Attitude]]"
   - "[[Scientific Misinformation]]"
   - "[[Deficit Model of Science Communication]]"
+  - "[[Open-Mindedness]]"
   - "[[Scientific Uncertainty]]"
   - "[[Reliability]]"
   - "[[Solutions Journalism]]"
@@ -184,7 +185,7 @@ updated: 2026-09-16
 
 ### 论证步骤二：数字在线环境的系统性威胁：虚假信息裂变、平台黑箱与极化回音室（pp. 58–60）
 
-数字社交平台打破了传统媒体的中心化单向广播格局，为科学传播提供了触达数以百万计受众的巨大空间，催生了大量高水准科普博主、科学播客与学术博主；然而，这种开放性也带来了前所未有的系统性信息污染危机。（pp. 58–60）
+数字社交平台打破了传统媒体的中心化单向广播格局，为科学传播提供了触达数以百万计受众的巨大空间，催生了大量高水准科普博主、科学播客与学术博主；然而，这种[[Open-Mindedness|开放性]]也带来了前所未有的系统性信息污染危机。（pp. 58–60）
 
 > [!claim] 步骤二核心主张
 > 数字媒介环境下，不准确、误导性乃至恶意捏造的[[Scientific Misinformation\|科学虚假信息]]（Misinformation）正以惊人体量与传播速度广泛扩散，在公共卫生与气候行动中造成深远现实伤害；商业平台的推荐算法与数据黑箱严重阻碍独立学术审计，而极少数极化群体的回音室效应在网络中被不成比例地放大，同时针对科研人员的网络暴力正导致大批一线学者从公共话语中退出。（pp. 58–60）

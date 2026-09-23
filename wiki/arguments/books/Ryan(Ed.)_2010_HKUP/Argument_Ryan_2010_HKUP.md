@@ -10,7 +10,7 @@ title: "Argument_Ryan_2010_HKUP"
 argument_key: "Argument_Ryan_2010_HKUP"
 argument_display_title: "International Education and the Chinese Learner"
 argument_kind: "book"
-argument_related_count: 17
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -30,7 +30,6 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Chinese Learner]]"
-  - "[[Dialogue in Education]]"
   - "[[Rationalism in International Relations]]"
   - "[[Paradigm]]"
   - "[[Fourth Culture]]"
@@ -69,7 +68,7 @@ citation_aliases:
 > [!question]
 > 本书编者 Ryan and Slethaug 试图回答两个相互关联的问题：第一，[[International Education\|国际教育]]在近年来如何以及为何爆炸式增长，[[Chinese Learner\|中国学习者]]在这一过程中扮演了什么角色？第二，"中国学习者"这一概念本身如何被西方学界刻板化，这些刻板印象如何影响教学实践，以及如何打破它们？(pp.2–3]])
 
-> 编者指出，大学研究者与中小学教师之间长期缺乏对这一现象的跨学段[[Dialogue in Education\|对话]]，导致各自的认识局限于特定专业圈层内——这本书正是为了弥合这一鸿沟(p.2]])。
+> 编者指出，大学研究者与中小学教师之间长期缺乏对这一现象的跨学段对话，导致各自的认识局限于特定专业圈层内——这本书正是为了弥合这一鸿沟(p.2]])。
 
 
 ## 理论框架
@@ -85,7 +84,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> 本书为编辑论文集（edited volume），各章研究设计各不相同。整体采用论文集的组织方式：将九篇文章按"奠定基础 → 聚焦香港[[International Schools\|国际学校]] → 考察跨国高等教育"的逻辑分为三部分，以实现编者所期望的"中小学与大学教育者之间的跨学段[[Dialogue in Education\|对话]]"(p.2]])。
+> 本书为编辑论文集（edited volume），各章研究设计各不相同。整体采用论文集的组织方式：将九篇文章按"奠定基础 → 聚焦香港[[International Schools\|国际学校]] → 考察跨国高等教育"的逻辑分为三部分，以实现编者所期望的"中小学与大学教育者之间的跨学段对话"(p.2]])。
 
 
 ## 论证结构

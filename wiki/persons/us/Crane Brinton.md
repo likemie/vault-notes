@@ -10,7 +10,7 @@ summary: "美国著名历史学家、哈佛大学讲席教授与美国历史学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Positivism]]"
   - "[[Hypothesis]]"
-  - "[[Growth]]"
   - "[[Falsification]]"
   - "[[Empiricism]]"
 related_theories: []
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-11
+updated: 2026-09-22
 ---
 
 # Crane Brinton
@@ -66,7 +65,7 @@ updated: 2026-09-11
 ## 生平与职涯
 
 > [!timeline] 生平与学术节点
-> - **1898 年** 出生于美国康涅狄格州温斯特德（Winsted），[[Growth\|成长]]于马萨诸塞州斯普林菲尔德。
+> - **1898 年** 出生于美国康涅狄格州温斯特德（Winsted），成长于马萨诸塞州斯普林菲尔德。
 > - **1919 年** 以最优等成绩毕业于哈佛大学文学学士学位；同年荣获罗德奖学金（Rhodes Scholarship）赴英国牛津大学新学院深造。
 > - **1923 年** 获牛津大学哲学博士（D.Phil.）学位，博士论文聚焦法国大革命时期的政治思想；同年返回哈佛大学历史系任教，开启长达 45 年的哈佛教学生涯。
 > - **1938 年** 出版比较历史社会学里程碑著作《革命的解剖》（*The Anatomy of Revolution*），运用病理学与结构类比方法系统比对英、美、法、俄四大革命。

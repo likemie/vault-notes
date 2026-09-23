@@ -9,7 +9,7 @@ aliases:
 summary: "由美国哲学学会主持、Peter Facione 领衔 46 位国际学者达成的里程碑式共识报告，系统确立了批判性思维的六大核心认知技能与七大情意倾向双元框架"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[APA Style]]"
+  - "[[Open-Mindedness]]"
   - "[[Lifelong Learning]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Metacognition]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # APA Delphi Consensus on Critical Thinking
@@ -70,7 +71,7 @@ updated: 2026-09-17
 > - **知识位置** 当代教育哲学、认知心理学与[[Higher-Order Thinking Skills\|高阶思维]]教学的奠基石。由美国哲学学会（[[APA Style\|APA]]）于 1988–1989 年发起，Peter A. Facione (1990) 担任首席研究员，联合 46 位国际顶尖学者（涵盖哲学、教育学、心理学与物理学领域的代表人物，如 [[Robert Ennis]]、Matthew Lipman、Richard Paul、Harvey Siegel、John McPeck 等）通过多轮[[Delphi Technique\|德尔菲法]]历时两年完成，成为后续所有重大实证综述（如 [[Argument_Abrami_2015_RER\|Abrami et al., 2008, 2015]]）的金标准。
 
 > [!claim] 核心主张
-> 批判性思维是一种有目的的、自我调节的判断过程；它展现为**解释、分析、评价、推论、说明和自我调节**六大核心认知技能，并由**追求真理、思想开放、审慎分析、系统条理、思维自信、探究好奇与认知成熟**七大情意倾向所驱动；认知技能与情意倾向共同构成了理性公民与[[Lifelong Learning\|终身学习]]者的双元支柱。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 277–278)]]
+> 批判性思维是一种有目的的、自我调节的判断过程；它展现为**解释、分析、评价、推论、说明和自我调节**六大核心认知技能，并由**追求真理、[[Open-Mindedness|思想开放]]、审慎分析、系统条理、思维自信、探究好奇与认知成熟**七大情意倾向所驱动；认知技能与情意倾向共同构成了理性公民与[[Lifelong Learning\|终身学习]]者的双元支柱。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 277–278)]]
 
 > [!citation-card]- “理想批判性思考者”共识画像
 > 理想的批判性思考者习惯性地具备好奇心、见多识广、信任理性、心智开放、灵活通达、公正评价、诚实面对个人偏见、审慎做出判断、乐于重新考虑、对问题表述清晰、在复杂事物中有序推进、勤于检索相关信息、合理选择标准、专注于探究并在情境许可的限度内坚持追求精确的结果。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 278)]]

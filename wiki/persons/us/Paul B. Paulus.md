@@ -8,7 +8,7 @@ summary: "美国得克萨斯大学阿灵顿分校杰出心理学教授，当代�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Divergent Thinking]]"
   - "[[Working Memory]]"
   - "[[Heterogeneity]]"
-  - "[[Dialogue in Education]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-11
+updated: 2026-09-22
 ---
 
 # Paul B. Paulus
@@ -114,7 +113,7 @@ updated: 2026-09-11
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **理论[[Dialogue in Education\|对话]]者／批判修正对象** [[Alex Osborn]] — 修正了奥斯本对面对面[[Brainstorming\|头脑风暴]]的盲目乐观假定，保留其延迟评判内核并重构交付载体。
+> - **理论对话者／批判修正对象** [[Alex Osborn]] — 修正了奥斯本对面对面[[Brainstorming\|头脑风暴]]的盲目乐观假定，保留其延迟评判内核并重构交付载体。
 > - **主要合作者** 伯纳德·奈斯塔德（Bernard Nijstad） — 共同主编《Group [[Creativity]]: Innovation through Collaboration》，建立创造力双通路模型。
 > - **核心合作学生** J. Baruah — 共同开展[[Creativity Training\|创造力训练]]与群体构想实验（Baruah & Paulus, 2008）。
 

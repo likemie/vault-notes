@@ -290,14 +290,13 @@
     ]
   },
   {
-    "title": "Humility in Learning",
+    "title": "Humility",
     "type": "concept",
-    "path": "wiki/concepts/chinese-philosophy/Humility in Learning.md",
+    "path": "wiki/concepts/chinese-philosophy/Humility.md",
     "aliases": [
       "谦虚",
       "谦逊",
-      "qian xun",
-      "humility"
+      "qian xun"
     ]
   },
   {
@@ -2395,6 +2394,18 @@
     ]
   },
   {
+    "title": "Authentic Science Practices",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum-instruction/Authentic Science Practices.md",
+    "aliases": [
+      "真实科学实践",
+      "authentic inquiry",
+      "真实的科学实践",
+      "真实科学探究",
+      "authentic scientific practices"
+    ]
+  },
+  {
     "title": "Funds of Knowledge",
     "type": "concept",
     "path": "wiki/concepts/curriculum-instruction/Funds of Knowledge.md",
@@ -2587,8 +2598,6 @@
       "储蓄教育",
       "储蓄型教育",
       "储蓄概念",
-      "银行式教育",
-      "banking model of education",
       "banking concept of education",
       "passive learning"
     ]
@@ -2741,7 +2750,9 @@
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Critical Pedagogy.md",
     "aliases": [
-      "批判教育学"
+      "批判教育学",
+      "解放教育学",
+      "批判教学论"
     ]
   },
   {
@@ -2771,6 +2782,23 @@
     "aliases": [
       "解码",
       "编码拆解分析"
+    ]
+  },
+  {
+    "title": "Defeater",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Defeater.md",
+    "aliases": [
+      "击败者",
+      "认识论击败者",
+      "认识击败者",
+      "击败者机制",
+      "击败者设计",
+      "Defeaters",
+      "Rebutting Defeater",
+      "Undercutting Defeater",
+      "反驳型击败者",
+      "削弱型击败者"
     ]
   },
   {
@@ -2808,7 +2836,6 @@
     "path": "wiki/concepts/educational-philosophy/Dialogue in Education.md",
     "aliases": [
       "教育对话",
-      "对话",
       "对话教学",
       "educational dialogue",
       "dialogic teaching"
@@ -2913,14 +2940,41 @@
     ]
   },
   {
+    "title": "Epistemic Deference",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Epistemic Deference.md",
+    "aliases": [
+      "认识论顺从",
+      "认识顺从",
+      "认知顺从",
+      "知识顺从",
+      "认识让渡",
+      "Epistemic Deference to AI",
+      "Deference to Automation"
+    ]
+  },
+  {
+    "title": "Epistemic Malformation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Epistemic Malformation.md",
+    "aliases": [
+      "认知畸变",
+      "认识畸变",
+      "认识论畸变",
+      "智力畸变"
+    ]
+  },
+  {
     "title": "Epistemic Responsibility",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Epistemic Responsibility.md",
     "aliases": [
       "认识论责任",
       "认知责任",
+      "集体认知责任",
       "Epistemic Accountability",
-      "认识问责"
+      "认识问责",
+      "Collective Cognitive Responsibility"
     ]
   },
   {
@@ -5182,7 +5236,13 @@
     "aliases": [
       "认识论美德与恶习",
       "认识美德",
-      "认识恶习"
+      "认识恶习",
+      "理智美德与恶习",
+      "理智美德",
+      "Intellectual Virtues",
+      "Intellectual Virtues and Vices",
+      "Epistemic Virtues",
+      "Epistemic Vices"
     ]
   },
   {
@@ -5279,6 +5339,19 @@
     ]
   },
   {
+    "title": "Intellectual Emotions",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Intellectual Emotions.md",
+    "aliases": [
+      "理智情感",
+      "智识情感",
+      "认识论情感",
+      "Epistemic Emotions",
+      "Intellectual Emotion",
+      "Epistemic Emotion"
+    ]
+  },
+  {
     "title": "Intrinsic vs Extrinsic Motivation",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Intrinsic vs Extrinsic Motivation.md",
@@ -5338,6 +5411,18 @@
       "multiplists",
       "多元主义立场",
       "相对主义立场"
+    ]
+  },
+  {
+    "title": "Open-Mindedness",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Open-Mindedness.md",
+    "aliases": [
+      "思想开放",
+      "理智开明",
+      "开放性",
+      "开明性",
+      "Intellectual Open-Mindedness"
     ]
   },
   {
@@ -5490,6 +5575,33 @@
     ]
   },
   {
+    "title": "Alien Intelligence",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Alien Intelligence.md",
+    "aliases": [
+      "异己智能",
+      "外在智能",
+      "Alien Mind",
+      "异己心智"
+    ]
+  },
+  {
+    "title": "Automation Bias",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Automation Bias.md",
+    "aliases": [
+      "自动化偏差",
+      "自动化偏见",
+      "弱自动化偏差与强自动化偏差",
+      "弱自动化偏差",
+      "强自动化偏差",
+      "Weak and Strong Automation Bias",
+      "Weak Automation Bias",
+      "Strong Automation Bias",
+      "Commission and Omission Errors"
+    ]
+  },
+  {
     "title": "Avatar",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Avatar.md",
@@ -5498,6 +5610,18 @@
       "avatars",
       "虚拟化身",
       "教学化身"
+    ]
+  },
+  {
+    "title": "Cognitive Deskilling",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Cognitive Deskilling.md",
+    "aliases": [
+      "认知去技能化",
+      "去技能化",
+      "Deskilling",
+      "Cognitive Deskilling Effect",
+      "智力去技能化"
     ]
   },
   {
@@ -5665,7 +5789,8 @@
     "aliases": [
       "有意义的人类控制",
       "MHC",
-      "Human-in-the-Loop in AI",
+      "Human-in-the-Loop",
+      "人在回路",
       "Human Oversight",
       "人类有效控制"
     ]
@@ -5701,6 +5826,19 @@
       "技术融入",
       "技术整合",
       "technology integration"
+    ]
+  },
+  {
+    "title": "Trust Calibration",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Trust Calibration.md",
+    "aliases": [
+      "信任校准",
+      "人机信任校准",
+      "Calibrated Trust",
+      "信任失调",
+      "Overtrust",
+      "过度信任"
     ]
   },
   {
@@ -6516,6 +6654,20 @@
     ]
   },
   {
+    "title": "Opportunistic Collaboration",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Opportunistic Collaboration.md",
+    "aliases": [
+      "弹性协作",
+      "机会性协作",
+      "自组织协作",
+      "弹性探究小组",
+      "opportunistic grouping",
+      "opportunistic groups",
+      "弹性流动小组"
+    ]
+  },
+  {
     "title": "Peer-Supported Learning",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Peer-Supported Learning.md",
@@ -6592,6 +6744,19 @@
     ]
   },
   {
+    "title": "Reflective Structuration",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Reflective Structuration.md",
+    "aliases": [
+      "反思性结构化",
+      "反思结构化",
+      "反思性共同结构化",
+      "共同结构化",
+      "Reflective Costructuration",
+      "Costructuring"
+    ]
+  },
+  {
     "title": "Revoicing",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Revoicing.md",
@@ -6651,6 +6816,20 @@
       "基于模拟的学习",
       "情境模拟教学",
       "instructional simulations"
+    ]
+  },
+  {
+    "title": "Skill of Questioning",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Skill of Questioning.md",
+    "aliases": [
+      "提问技能",
+      "善于提问技能",
+      "提问能力",
+      "善于提问",
+      "Questioning Skill",
+      "Good Questioning",
+      "Skill of Good Questioning"
     ]
   },
   {
@@ -6847,6 +7026,17 @@
       "任务切换",
       "task switching",
       "set-shifting"
+    ]
+  },
+  {
+    "title": "Creative Deskilling",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Creative Deskilling.md",
+    "aliases": [
+      "创造力去技能化",
+      "创造性去技能化",
+      "Creative Deskilling Effect",
+      "创造力削弱"
     ]
   },
   {
@@ -9663,6 +9853,16 @@
     ]
   },
   {
+    "title": "Computerization of Education",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Computerization of Education.md",
+    "aliases": [
+      "教育计算机化",
+      "读写教育计算机化",
+      "Computerization of Literacy Education"
+    ]
+  },
+  {
     "title": "Contributory Expertise",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Contributory Expertise.md",
@@ -10919,12 +11119,8 @@
     "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md",
     "aliases": [
       "知识生产",
-      "知识建构",
       "知识生成",
-      "协作知识建构",
-      "Knowledge Construction",
-      "Knowledge Building",
-      "Collaborative Knowledge Construction"
+      "Knowledge Construction"
     ]
   },
   {
@@ -11865,6 +12061,19 @@
     ]
   },
   {
+    "title": "Formative Epistemic Injustice",
+    "type": "theory",
+    "path": "wiki/theories/educational-philosophy/Formative Epistemic Injustice.md",
+    "aliases": [
+      "成长性认识不正义",
+      "成长性认识不公",
+      "形成性认识不正义",
+      "形成性认识不公",
+      "育人认识不正义",
+      "成长性认识不正义理论"
+    ]
+  },
+  {
     "title": "Goldman's Discrimination Theory of Knowledge",
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Goldman's Discrimination Theory of Knowledge.md",
@@ -12034,7 +12243,13 @@
     "type": "theory",
     "path": "wiki/theories/educational-philosophy/Virtue Epistemology.md",
     "aliases": [
-      "美德认识论"
+      "美德认识论",
+      "德性认识论",
+      "virtue-theoretic epistemology",
+      "virtue responsibilism",
+      "virtue reliabilism",
+      "德性责任论",
+      "德性可靠论"
     ]
   },
   {
@@ -12688,6 +12903,21 @@
     "aliases": [
       "hebbian-principles",
       "赫布原则"
+    ]
+  },
+  {
+    "title": "Knowledge Building Theory",
+    "type": "theory",
+    "path": "wiki/theories/learning-science-cognitive-science/Knowledge Building Theory.md",
+    "aliases": [
+      "知识建构理论",
+      "知识建构",
+      "知识建构教学法",
+      "协作知识建构",
+      "知识建构学派",
+      "Knowledge Building",
+      "Knowledge Building Pedagogy",
+      "Collaborative Knowledge Building"
     ]
   },
   {
@@ -13408,6 +13638,8 @@
     "type": "method",
     "path": "wiki/methods/mixed/Design-Based Research.md",
     "aliases": [
+      "基于设计的研究",
+      "DBR",
       "设计研究",
       "design experiment",
       "design study",
@@ -14209,6 +14441,17 @@
       "深度访谈",
       "in-depth interview",
       "in-depth interviews"
+    ]
+  },
+  {
+    "title": "Interactional Ethnography",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Interactional Ethnography.md",
+    "aliases": [
+      "互动民族志",
+      "交互民族志",
+      "互动人种志",
+      "交互人种志"
     ]
   },
   {
@@ -17704,6 +17947,17 @@
     ]
   },
   {
+    "title": "Christopher Martin",
+    "type": "person",
+    "path": "wiki/persons/canada/Christopher Martin.md",
+    "aliases": [
+      "克里斯托弗·马丁",
+      "马丁",
+      "C. Martin",
+      "Christopher M. Martin"
+    ]
+  },
+  {
     "title": "Douglas Walton",
     "type": "person",
     "path": "wiki/persons/canada/Douglas Walton.md",
@@ -18708,15 +18962,8 @@
     "path": "wiki/persons/uk/Anthony Giddens.md",
     "aliases": [
       "安东尼·吉登斯",
-      "吉登斯",
       "Giddens, A.",
-      "A. Giddens",
-      "Giddens (1975)",
-      "Giddens (1976)",
-      "Giddens (1979)",
-      "Giddens (1984)",
-      "Giddens (1990)",
-      "Giddens (1998)"
+      "A. Giddens"
     ]
   },
   {
@@ -19182,6 +19429,15 @@
     "path": "wiki/persons/uk/Michele Schweisfurth.md",
     "aliases": [
       "Schweisfurth, M."
+    ]
+  },
+  {
+    "title": "Miranda Fricker",
+    "type": "person",
+    "path": "wiki/persons/uk/Miranda Fricker.md",
+    "aliases": [
+      "米兰达·弗里克",
+      "弗里克"
     ]
   },
   {
@@ -19926,6 +20182,16 @@
     "aliases": [
       "Cohen, J.",
       "雅各布·科恩"
+    ]
+  },
+  {
+    "title": "Jianwei Zhang",
+    "type": "person",
+    "path": "wiki/persons/us/Jianwei Zhang.md",
+    "aliases": [
+      "张建伟",
+      "Zhang, J.",
+      "J. Zhang"
     ]
   },
   {
@@ -26897,6 +27163,11 @@
     "path": "wiki/arguments/journal-articles/Encuentros sobre Educación/Argument_Schulte_2009_EncuentrosEducacion.md"
   },
   {
+    "title": "Argument_Naeem_2026_Episteme",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Episteme/Argument_Naeem_2026_Episteme.md"
+  },
+  {
     "title": "Argument_Dedering_2009_EERJ",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Dedering_2009_EERJ.md"
@@ -27207,6 +27478,11 @@
     "path": "wiki/arguments/journal-articles/Paideia/Argument_Qvortrup_2015_Paideia.md"
   },
   {
+    "title": "Argument_Jovchevski_2026_PT",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Philosophy & Technology/Argument_Jovchevski_2026_PT.md"
+  },
+  {
     "title": "Argument_Fan_Song_Zhai_2024_RSEE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Regional Science and Environmental Economics/Argument_Fan_Song_Zhai_2024_RSEE.md"
@@ -27292,6 +27568,11 @@
     "path": "wiki/arguments/journal-articles/Science Education/Argument_Sandoval_2005_SE.md"
   },
   {
+    "title": "Argument_Zhang_2022_SE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Science Education/Argument_Zhang_2022_SE.md"
+  },
+  {
     "title": "Argument_Downey_2016_SoE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Sociology of Education/Argument_Downey_2016_SoE.md"
@@ -27305,6 +27586,11 @@
     "title": "Argument_Biesta_2010_SPE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Studies in Philosophy and Education/Argument_Biesta_2010_SPE.md"
+  },
+  {
+    "title": "Argument_Smith_2026_SPE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Studies in Philosophy and Education/Argument_Smith_2026_SPE.md"
   },
   {
     "title": "Argument_Håkansson_2015_TT",

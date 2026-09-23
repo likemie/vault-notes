@@ -26,7 +26,7 @@ title: "Argument_Hartong_Forschler_2019_BDS"
 argument_key: "Argument_Hartong_Forschler_2019_BDS"
 argument_display_title: "Opening the black box of data-based school monitoring: Data infrastructures, flows and practices in state education agencies"
 argument_kind: "journal-article"
-argument_related_count: 39
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -48,7 +48,6 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[School Inspection]]"
   - "[[Variable]]"
-  - "[[Dialogue in Education]]"
   - "[[School Autonomy]]"
   - "[[Center of Calculation]]"
   - "[[Champ]]"
@@ -264,7 +263,7 @@ updated: 2026-09-18
 > | **美国马萨诸塞州：资源配置报告**<br>（RADAR） | 整合财务开支与学业指标，系统默认向学区推荐 10 所跨越地理边界、人口统计特征相似的学区展开资源对标。 | 学区主管极其排斥与地理遥远、毫无历史渊源的陌生学区对比，坚决要求以本地邻区为参照；[[Massachusetts Department of Elementary and Secondary Education\|DESE]] 最终妥协，增设地理定制模块。（p.7） |
 
 > [!voice] 基层行动者对纯算法通约对标的文化抗拒
-> - **马萨诸塞州学区领导者的反弹** 州教育行政官员坦言，学区主管对由算法强制指派的远方同类学校极度反感（受访官员直言学区对此极为反感〔they hated that〕），他们天然认为唯有处于同一本地劳动力市场、共享相似地域文化的周边学区才具备现实[[Dialogue in Education\|对话]]价值。（p.7）
+> - **马萨诸塞州学区领导者的反弹** 州教育行政官员坦言，学区主管对由算法强制指派的远方同类学校极度反感（受访官员直言学区对此极为反感〔they hated that〕），他们天然认为唯有处于同一本地劳动力市场、共享相似地域文化的周边学区才具备现实对话价值。（p.7）
 > - **德国汉堡学校对指数老化的抗议** 汉堡部分学校因社区人口结构剧烈变迁深感自身社会指数偏高而遭受资源误判，对算法的静态同类校分组提出强烈公正性质疑，导致行政复核机制陷入瘫痪。（p.6）
 
 基层对去情境化统计通约的顽强抵抗，迫使州行政机关在纯数学的标准化通约与深植于地方认同的个性化定制之间来回摇摆。

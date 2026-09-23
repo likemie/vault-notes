@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_display_title: "Chapter four: Industry and business sector"
 argument_kind: "book-chapter"
-argument_related_count: 44
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -35,14 +35,12 @@ part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 related_concepts:
   - "[[Champ]]"
   - "[[Public Engagement with Science]]"
-  - "[[Dialogue in Education]]"
   - "[[Attrition]]"
   - "[[Social License to Operate]]"
   - "[[University Spin-Out]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Citizen Science]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Growth]]"
   - "[[Paradigm]]"
   - "[[Informed Consent]]"
   - "[[Clinical Trial]]"
@@ -151,7 +149,7 @@ updated: 2026-09-13
 企业投身[[Public Engagement with Science|公众科学参与]]的内在驱动力并非铁板一块，而是由其商业模式与客户形态深刻塑造：
 
 > [!taxonomy] 企业开展公众科学参与的三大商业形态与动力结构
-> - **面向大众消费者的终端企业（Business-to-Consumer, B2C）** 商业利益直接依赖终端市场认同，天然具备较强的公众参与动力，倾向于积极建立双向[[Dialogue in Education\|对话]]渠道，收集用户关于技术可行性、产品设计伦理与社会接纳度的反馈。
+> - **面向大众消费者的终端企业（Business-to-Consumer, B2C）** 商业利益直接依赖终端市场认同，天然具备较强的公众参与动力，倾向于积极建立双向对话渠道，收集用户关于技术可行性、产品设计伦理与社会接纳度的反馈。
 > - **面向机构间交付的供应链企业（Business-to-Business, B2B）** 主要向其他企业或公共交付伙伴（如 NHS）提供零部件或专业技术服务，距离普通终端消费者极为遥远，主动开展广泛社会沟通的商业回报不明确。
 > - **大型跨国企业（Multinational Enterprises, MNEs）的全球与本土张力** 既要服从全球总部的统一公关与合规步调，又必须回应工厂或实验室所在在地社区的利益关切，跨国运营在文化习惯与合规标准上带来了多维复杂性。
 
@@ -226,7 +224,7 @@ updated: 2026-09-13
 > - **政策目标** 激发商业承包企业实质投资在地社区科学外展与青年技能培训，消除阶层机会壁垒并修复公众信任。
 > - **适用对象** 竞标英国中央政府采购重大商业合同的所有大中型商业企业、研发供应商与交付联合体。
 > - **政策工具** 依据政府采购政策声明备忘录《社会价值模型指南》（Procurement Policy Note, PPN 002/2025），在中央政府采购合同评审最终阶段，**社会价值（Social VALUE）强制占据至少 10% 评审权重**。
-> - **约束机制** 实行严格的可审计（Auditable）方案核算，倒逼企业携手[[Association for Science and Discovery Centres\|英国科学与探索中心协会]]（Association for Science and Discovery Centres, ASDC）成员场馆落地普惠科普，形[[Growth\|成长]]期造血双赢闭环。（p. 69）
+> - **约束机制** 实行严格的可审计（Auditable）方案核算，倒逼企业携手[[Association for Science and Discovery Centres\|英国科学与探索中心协会]]（Association for Science and Discovery Centres, ASDC）成员场馆落地普惠科普，形成长期造血双赢闭环。（p. 69）
 
 > [!example]- 图4-2：英国政府采购《社会价值模型》（[[Promising Practices Network\|PPN]] 002）10% 法定权重撬动产业与非正式科学场馆协同机制图（基于 Cabinet Office 2025 与 PPN 002 指南，pp. 69, 76）
 > ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig4-2_Social_Value_Procurement_Partnership_Model.jpg)

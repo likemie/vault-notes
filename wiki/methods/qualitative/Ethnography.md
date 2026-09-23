@@ -10,7 +10,7 @@ summary: "一种源自人类学的质性研究设计，要求研究者在自然�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 58
+method_related_count: 57
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Self-spectator]]"
   - "[[Rich and Thick Description]]"
-  - "[[Dialogue in Education]]"
   - "[[Gatekeepers]]"
   - "[[Champ]]"
   - "[[Reflexivity]]"
@@ -85,7 +84,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Ethnography
@@ -179,7 +178,7 @@ Spindler & Spindler（1992, pp. 72–74）提出了有效民族志的11条操作
 
 > [!method-stack] 方法层级
 > - **研究设计** 民族志、[[Case Study\|案例研究]]、[[Critical Ethnography\|批判民族志]]、[[Autoethnography\|自我民族志]]。
-> - **数据收集** [[Participant Observation\|参与观察]]、[[Non-participant Observation\|非参与观察]]、[[Field Notes\|田野笔记]]、[[Semi-structured Interview\|半结构化访谈]]、非正式[[Dialogue in Education\|对话]]、文档收集、日记和生命史、视听记录（Hammersley & Atkinson, 1983）。
+> - **数据收集** [[Participant Observation\|参与观察]]、[[Non-participant Observation\|非参与观察]]、[[Field Notes\|田野笔记]]、[[Semi-structured Interview\|半结构化访谈]]、非正式对话、文档收集、日记和生命史、视听记录（Hammersley & Atkinson, 1983）。
 > - **分析方法** [[Coding in Qualitative Research\|编码]]、[[Domain Analysis\|领域分析]]、主题分析、[[Progressive Focussing\|逐步聚焦]]、[[Narrative Analysis\|叙事分析]]、[[Analytic Induction\|分析归纳法]]。
 > - **辅助技术** [[Theoretical Sampling\|理论抽样]]、目的抽样、[[Snowball Sampling\|滚雪球抽样]]、[[Gatekeepers\|守门人]]关系管理。
 

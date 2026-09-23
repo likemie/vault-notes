@@ -6,7 +6,7 @@ aliases:
 summary: "某一共同体成员在社会互动中提出、沟通、评估与合法化知识主张的组织化行动方式，强调认识论主体由笛卡尔孤立个体向微观社会协商群体的转向，具有交互生成、情境嵌入、历史互文与制度后果四大特征。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 45
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -36,8 +36,8 @@ related_concepts:
   - "[[Domain Specificity]]"
   - "[[Nature of Science]]"
   - "[[Scientific Literacy]]"
+  - "[[Open-Mindedness]]"
   - "[[Epistemic Provocateur]]"
-  - "[[Dialogue in Education]]"
   - "[[STEM Education]]"
   - "[[Lesson Study]]"
   - "[[Formal Epistemology]]"
@@ -45,14 +45,17 @@ related_concepts:
   - "[[Funds of Knowledge]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Retrodiction]]"
+  - "[[Dialogue in Education]]"
   - "[[Epistemic Scaffolding]]"
-related_theories: []
+related_theories:
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Discourse Analysis]]"
   - "[[Statistical Significance]]"
   - "[[Triangulation]]"
   - "[[Ethnography]]"
+  - "[[Interactional Ethnography]]"
   - "[[Effect Size]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
@@ -70,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Epistemic Practices
@@ -135,7 +138,7 @@ updated: 2026-09-22
 
 > [!feature] 认识论实践的四大本体特征（[[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona, 2018, pp. 156–159]]）
 > - **交互生成性（Interactional）** 认识论实践并非存在于个体大脑内部，而是在人与人、文本与工具的协同互动与即时交锋中当场实现的。
-> - **多尺度情境性（Contextual）** [[Knowledge Production\|知识建构]]深嵌于微观时空情境之中；同时，瞬间的课堂互动又受到宏观历史尺度所积淀的学科[[Paradigm\|范式]]与文化规范的制约。
+> - **多尺度情境性（Contextual）** [[Knowledge Building Theory|知识建构]]深嵌于微观时空情境之中；同时，瞬间的课堂互动又受到宏观历史尺度所积淀的学科[[Paradigm\|范式]]与文化规范的制约。
 > - **历史互文性（Intertextual）** 话语过程持续指涉并重组先前的口头谈话、正式书面[[Document\|文献]]、实验记录及图表符号，形成跨越时间的连续意义脉络。
 > - **制度后果性（Consequential）** 知识主张被接纳或拒绝直接关涉群体内部的权力分配、[[Academic Achievement\|学业成就]]认定以及学生的科学身份（science identity）认同。
 
@@ -194,7 +197,7 @@ updated: 2026-09-22
 > 阐释科学活动中直觉探索、逻辑论证与交流说服的动态共生关系，破除将发现与论证割裂的线性观念。
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]
-> **三重情境交织模型** 知识主张并不遵循单向线性流动，而是在探索发现的情境（充满尝试、困惑与具身探索）、证据论证的情境（强调严密推理与[[Evidence Standards\|证据标准]]）以及交流表达的情境（贯穿始终的修辞与互动协商）中循环推进。交流并非事后包装，而是[[Knowledge Production\|知识建构]]的核心中介；具身动作、言语互动与文本修改共同构成了认识论实践的微观活动机制。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 144–147)]]
+> **三重情境交织模型** 知识主张并不遵循单向线性流动，而是在探索发现的情境（充满尝试、困惑与具身探索）、证据论证的情境（强调严密推理与[[Evidence Standards\|证据标准]]）以及交流表达的情境（贯穿始终的修辞与互动协商）中循环推进。交流并非事后包装，而是[[Knowledge Building Theory|知识建构]]的核心中介；具身动作、言语互动与文本修改共同构成了认识论实践的微观活动机制。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 144–147)]]
 
 ---
 
@@ -214,7 +217,7 @@ updated: 2026-09-22
 > 探讨课堂动手操作如何升华为面向公共生活的审议理性，确立教师显性指导的关键价值。
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]
-> **元话语引导与公民审议能力** 单纯让学生动手操作无法自发形成深层的[[Nature of Science\|科学本质]]理解与[[Scientific Literacy\|科学素养]]。教师必须运用显性元话语（meta-discourse），引导学生反思为何接受该项证据、如何排查竞争性解释，从而将微观操作提炼为对公共审查、理性说服与思想开放等崇高价值的认同，培育现代公民参与民主决策的认识论能动性。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 146–148, 161)]]
+> **元话语引导与公民审议能力** 单纯让学生动手操作无法自发形成深层的[[Nature of Science\|科学本质]]理解与[[Scientific Literacy\|科学素养]]。教师必须运用显性元话语（meta-discourse），引导学生反思为何接受该项证据、如何排查竞争性解释，从而将微观操作提炼为对公共审查、理性说服与[[Open-Mindedness|思想开放]]等崇高价值的认同，培育现代公民参与民主决策的认识论能动性。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 146–148, 161)]]
 
 ---
 
@@ -224,7 +227,7 @@ updated: 2026-09-22
 > 探讨生成式 AI 作为协作伙伴与[[Epistemic Provocateur|认识论挑衅者]]介入课堂时，学生如何展开提出、沟通、评估与合法化知识主张的微观行动。
 
 > [!claim] Han & Gutierez
-> **人机协同认识论实践的四维闭环与双轨支架驱动** 在生成式 AI 深度融入的科学课堂中，认识论实践超越了纯人际[[Dialogue in Education|对话]]，拓展为以多模态数字制品为中介的人机协同行动回路：学生在初始提示词设计中**提出主张（Propose）**，在审读 AI 生成文本与图像时对照显性[[Scientific Explanation|科学解释]]标准开展**内容、信源与自我理解评估（Evaluate）**，在同伴联合审议与提示词多轮迭代中**沟通与重构主张（Communicate）**，最终通过翻阅权威科学教科书进行跨数据源[[Triangulation|三角互证]]以**合法化主张（Legitimize）**。研究证实，在显性学科标准与反思提示双轨支架的支持下，人机交互能够有效转化为原汁原味的科学认识论实践，确保学生始终牢固占据认识主体地位。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 6–10, 22–24)]]
+> **人机协同认识论实践的四维闭环与双轨支架驱动** 在生成式 AI 深度融入的科学课堂中，认识论实践超越了纯人际对话，拓展为以多模态数字制品为中介的人机协同行动回路：学生在初始提示词设计中**提出主张（Propose）**，在审读 AI 生成文本与图像时对照显性[[Scientific Explanation|科学解释]]标准开展**内容、信源与自我理解评估（Evaluate）**，在同伴联合审议与提示词多轮迭代中**沟通与重构主张（Communicate）**，最终通过翻阅权威科学教科书进行跨数据源[[Triangulation|三角互证]]以**合法化主张（Legitimize）**。研究证实，在显性学科标准与反思提示双轨支架的支持下，人机交互能够有效转化为原汁原味的科学认识论实践，确保学生始终牢固占据认识主体地位。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 6–10, 22–24)]]
 
 ---
 
@@ -244,9 +247,9 @@ updated: 2026-09-22
 ## 概念演变
 
 > [!dev-timeline] [[Epistemology\|认识论]]实践概念演进脉络
-> - **1980s–1990s — 科学实践研究兴起** 科学社会学、人类学与微观[[Ethnography\|人种志]]（如 Latour, 1987; Bazerman, 1988; Knorr Cetina, 1999）开启对行动中的科学（science-in-the-making）的实证考察，揭示实验室话语协商、文本修改与仪器中介的[[Knowledge Production\|知识建构]]机制。
+> - **1980s–1990s — 科学实践研究兴起** 科学社会学、人类学与微观[[Ethnography\|人种志]]（如 Latour, 1987; Bazerman, 1988; Knorr Cetina, 1999）开启对行动中的科学（science-in-the-making）的实证考察，揭示实验室话语协商、文本修改与仪器中介的[[Knowledge Building Theory|知识建构]]机制。
 > - **1990s–2000s — 认识论转向进入科学教育** 科学教育学者（如 Duschl, 2008; [[Argument_Sandoval_2005_SE\|Sandoval, 2005]]）批判传统教学只教概念结论的弊病，将科学实践概念引入[[Lesson Study\|课堂研究]]，开始区分[[Formal Epistemology\|形式认识论]]与探究行动中的[[Practical Epistemology\|实践认识论]]。
-> - **2010s — 四维行动模型与学科比较矩阵确立** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] 等学者系统整合微观交互人种志、[[Discourse Analysis\|话语分析]]与社会认识论，确立提出、沟通、评估与合法化四维模型，编制探究科学、工程教育与[[Socioscientific Issues\|社会科学议题]]跨领域实践矩阵。
+> - **2010s — 四维行动模型与学科比较矩阵确立** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] 等学者系统整合微观[[Interactional Ethnography|交互人种志]]、[[Discourse Analysis\|话语分析]]与社会认识论，确立提出、沟通、评估与合法化四维模型，编制探究科学、工程教育与[[Socioscientific Issues\|社会科学议题]]跨领域实践矩阵。
 > - **2020s 至今 — 融入人机协同审议与多元文化认知资源** 认识论实践研究进一步拓展至[[Learning Progression\|学习进阶]]、跨学科迁移、多元文化背景学生的知晓方式（[[Funds of Knowledge]]），以及在[[Generative Artificial Intelligence|生成式人工智能]]环境下以多模态数字制品为中介的人机协同认识论实践（[[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez, 2026]]）。
 
 ---

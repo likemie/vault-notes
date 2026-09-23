@@ -24,13 +24,13 @@ tags:
 related_concepts:
   - "[[Academic Health System]]"
   - "[[School Inspection]]"
-  - "[[Dialogue in Education]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[School Leadership]]"
   - "[[Evidence-Based School Development]]"
   - "[[Paradigm]]"
   - "[[Heterogeneity]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Dialogue in Education]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -65,7 +65,7 @@ updated: 2026-09-22
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> SQA 确立了以单所学校为质量发展主体的治理架构，通过设立校级质量协调员、推行三年期校本发展规划（含教学改进与组织发展双主题），并以督导与校长之间的成效与目标协定[[Dialogue in Education\|对话]]（Bilanz- und Zielvereinbarungsgespräche）建立契约式发展机制。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 19–20, 33)]]
+> SQA 确立了以单所学校为质量发展主体的治理架构，通过设立校级质量协调员、推行三年期校本发展规划（含教学改进与组织发展双主题），并以督导与校长之间的成效与目标协定对话（Bilanz- und Zielvereinbarungsgespräche）建立契约式发展机制。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 19–20, 33)]]
 
 > [!policy-design]- 政策设计
 > - **政策目标** 激发学校自我发展潜能，提升课堂教学质量与学生[[21st Century Skills and Competencies Discourse\|核心素养]]，将传统的行政事后审查转变为基于实证数据的持续改进循环。
@@ -88,7 +88,7 @@ updated: 2026-09-22
 > [!timeline] 政策时间线
 > - **2008–2010** 奥地利联邦议会通过《教育标准法案》，正式确立四年级与八年级国家标准与统考机制，启动 SQA 概念先导论证。
 > - **2012** 联邦教育部正式发布 SQA 实施指南，在全国普通中小学全面铺开；任命首批学校质量协调员并组织专项资质培训。
-> - **2012–2014** 建立首轮三年期校本发展规划（SEP），全面推行第一轮督导成效与目标协定[[Dialogue in Education\|对话]]。
+> - **2012–2014** 建立首轮三年期校本发展规划（SEP），全面推行第一轮督导成效与目标协定对话。
 > - **2018–2020** 配合奥地利新版《教育改革法案》（Bildungsreformgesetz 2017），SQA 进一步与中等职业学校质量体系（QIBB）协同，整合成涵盖学前至高中的统整型国家质量管理体系。
 
 ---
@@ -107,7 +107,7 @@ updated: 2026-09-22
 > [!warning] 制度争鸣与现实困境
 > - **文牍主义与行政负荷攀升** 基层教师工会多次批评三年期规划与阶段总结报告撰写耗费了大量备课时间，诱发形式主义表格填写。
 > - **目标协定的法律约束力模糊** 目标协定本质上属于“软法规约”，若学校未能达成既定素养目标，缺乏刚性退出或惩戒机制，容易弱化政策推力。
-> - **督导员专业咨询能力的参差不齐** SQA 的有效性高度依赖督导员是否真正具备循证数据解读与教练辅导素养；若督导员仍沿袭行政查账惯性，[[Dialogue in Education\|对话]]往往沦为空洞的过场。
+> - **督导员专业咨询能力的参差不齐** SQA 的有效性高度依赖督导员是否真正具备循证数据解读与教练辅导素养；若督导员仍沿袭行政查账惯性，对话往往沦为空洞的过场。
 
 ---
 

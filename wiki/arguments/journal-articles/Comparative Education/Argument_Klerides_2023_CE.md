@@ -9,7 +9,7 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 57
+argument_related_count: 58
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -69,6 +69,7 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
 related_persons:
+  - "[[Christopher Martin]]"
   - "[[William Foote Whyte]]"
   - "[[Robert Cowen]]"
   - "[[Immanuel Kant]]"
@@ -119,7 +120,7 @@ citation_aliases:
 > [!concept-lens] 阅读透镜
 > - **对象** 比较教育的学科发展史、学术体制建制、[[Policy Borrowing\|政策借用]]与流动的分析[[Paradigm\|范式]]以及跨国教育治理网络。
 > - **张力** 比较教育学术实践与国家权力、殖民扩张和新自由主义治理的深层纠缠，与学科自我定位中缺乏国际关系理论自觉之间的冲突。
-> - **贡献** 引入马丁·怀特（Martin Wight）的国际理论三大传统，提供了解构比较教育[[Agendas of Attention\|注意力议程]]（agendas of attention）的[[Analytic Framework\|分析框架]]，阐明了借用与情境、技术与解放等学科内核心争议的哲学根源，并前瞻了地缘格局转变下的学科走向。
+> - **贡献** 引入[[Christopher Martin|马丁]]·怀特（Martin Wight）的国际理论三大传统，提供了解构比较教育[[Agendas of Attention\|注意力议程]]（agendas of attention）的[[Analytic Framework\|分析框架]]，阐明了借用与情境、技术与解放等学科内核心争议的哲学根源，并前瞻了地缘格局转变下的学科走向。
 
 ---
 

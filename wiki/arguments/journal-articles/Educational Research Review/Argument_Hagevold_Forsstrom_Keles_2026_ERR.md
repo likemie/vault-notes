@@ -7,7 +7,7 @@ title: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_key: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_display_title: "Research on research use in schools: A systematic review with a framework synthesis"
 argument_kind: "journal-article"
-argument_related_count: 59
+argument_related_count: 57
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Innovation Hub]]"
-  - "[[Growth]]"
   - "[[New Public Management]]"
   - "[[Global Education Reform Movement]]"
   - "[[Research Utilization]]"
@@ -52,7 +51,6 @@ related_concepts:
   - "[[Professional Learning Community]]"
   - "[[Data Literacy]]"
   - "[[Reliability]]"
-  - "[[Dialogue in Education]]"
   - "[[Epistemic Stances]]"
   - "[[Source of Knowledge]]"
   - "[[Research-Practice Gap]]"
@@ -112,7 +110,7 @@ updated: 2026-09-15
 > [!question]
 > 二十年来，各国教育系统都把"用研究证据改进学校"当作目标，但多项国际测试显示，学生成绩在许多领域仍在下滑。这段历史可追溯到 1996 年 Hargreaves 在伦敦[[Teacher Training Agency\|教师培训署]]（Teacher Training Agency）的演讲，它引发了与 Hammersley 关于"教学能否成为研究本位专业"的争论。此后"什么有效"（What Works）运动兴起：[[Argument_Slavin_2002_ER\|Slavin (2002)]]主张用[[Randomised Controlled Trials\|随机对照试验]]检验教学法，Hattie（2008）的《[[Visible Learning\|可见的学习]]》把"[[Effect Size\|效应量]]"带进教师词汇，美国 What Works 信息交换所和英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）等机构负责[[Evaluation Research\|评价研究]]质量、充当证据中介。但"识别并传播有效干预本身就会带来实践改变"的[[Hypothesis\|假设]]并未如期实现，于是出现了强调把证据[[Transfer Translation Transformation\|转译]]进实践的实施研究（implementation research）。
 >
-> 在数据问责的推动下，标准化的"证据本位"做法常常变成对研究的[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]（Weiss, 1979）：新做法只是浅层叠加在旧思维之上。[[OECD]] 教育研究与[[Innovation Hub\|创新中心]]（[[Centre for Educational Research and Innovation]], CERI）2021 年启动"加强教育研究的影响"项目，呼吁从"中介"转向"参与"，并指出深思熟虑的参与只有在信任的环境里才能[[Growth\|生长]]（[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022]]; Révai & Mouthaan, 2023）。与此同时，[[New Public Management\|新公共管理]]与[[Global Education Reform Movement\|全球教育改革运动]]（Global Education Reform Movement, GERM）带来的竞争、标准化与问责，进一步压缩了信任与创新的空间（Sahlberg, 2023）。
+> 在数据问责的推动下，标准化的"证据本位"做法常常变成对研究的[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]（Weiss, 1979）：新做法只是浅层叠加在旧思维之上。[[OECD]] 教育研究与[[Innovation Hub\|创新中心]]（[[Centre for Educational Research and Innovation]], CERI）2021 年启动"加强教育研究的影响"项目，呼吁从"中介"转向"参与"，并指出深思熟虑的参与只有在信任的环境里才能生长（[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022]]; Révai & Mouthaan, 2023）。与此同时，[[New Public Management\|新公共管理]]与[[Global Education Reform Movement\|全球教育改革运动]]（Global Education Reform Movement, GERM）带来的竞争、标准化与问责，进一步压缩了信任与创新的空间（Sahlberg, 2023）。
 >
 > 既有[[Systematic Review\|系统综述]]反复列出[[Research Utilization\|研究使用]]的障碍清单，却很少说明研究参与真正发生时是什么样子，也没有解释这些障碍为何如此顽固。要回答的问题有两个：第一，经验研究如何描述学校中的[[Research Utilization\|研究使用]]，其中包含哪些组成部分，它们之间是什么关系？第二，[[Document\|文献]]里提到了哪些阻碍和促进研究使用的因素？
 
@@ -211,7 +209,7 @@ updated: 2026-09-15
 >   **领导（k = 20）** 既是示范、赋权和战略性桥接的催化剂，也可能[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]研究、甚至主动阻碍教师。（pp.9–10）
 > - **个体层面（k = 91）**
 >   **技能集（k = 39）** 跨度很大：从不懂什么是教育研究，到不同水平的研究与[[Data Literacy\|数据素养]]，再到能把研究发现[[Transfer Translation Transformation\|转译]]到本校本班；而且教师的自信与实际技能常常不一致。
->   **心态（k = 47）** 包含三个维度：重视却不用（价值-行动鸿沟）、从怀疑到热忱的连续体、以及对来源的信任与可[[Reliability\|信度]]判断（研究往往只充当专业[[Dialogue in Education\|对话]]中的"第三声音" third voice）。
+>   **心态（k = 47）** 包含三个维度：重视却不用（价值-行动鸿沟）、从怀疑到热忱的连续体、以及对来源的信任与可[[Reliability\|信度]]判断（研究往往只充当专业对话中的"第三声音" third voice）。
 >   **[[Epistemic Stances\|认识论立场]]** 把教学看作艺术还是科学，影响教师怎么看研究。
 >   **关系（k = 39）** 被视为个体用研究的基本社会基础设施；社交媒体正成为实践者可能的个人学习共同体，但研究者（这些平台上往往是同时当研究者和教师的教师教育者）很少讨论自己的教学实践（Aukland, 2022）。（pp.10–11）
 > - **核心构件（k = 94）**
@@ -280,7 +278,7 @@ updated: 2026-09-15
 > - **技能发展（Skills Development）**
 >   从系统之外看，它涉及教师教育里理论与实践关系的长期争论。在[[Normal School\|师范教育]]或持续专业发展中接触过研究的教师和领导者，更常参与研究。系统层面领导者的研究技能不足，会表现为下层的碎片化使用，而且常被下层识破（如 Wescott, 2022; Boyne & Beadle, 2017）。个体层面，检索、评估、整合研究的技能直接决定使用程度。（p.16）
 > - **可持续结构（Sustainable Structures）**
->   它决定时间和工作条件的分配。系统之外涉及教师的工作协议、课程和课表；系统层面涉及资助和跨机构衔接；组织层面首先是领导如何安排研究讨论的时间和空间。"可持续"强调的是，研究使用要从临时项目变[[Growth\|成长]]期、整合的专业常态。个体层面，结构条件还要转化为教师主动利用这些时间和空间的专业责任。（pp.16–17）
+>   它决定时间和工作条件的分配。系统之外涉及教师的工作协议、课程和课表；系统层面涉及资助和跨机构衔接；组织层面首先是领导如何安排研究讨论的时间和空间。"可持续"强调的是，研究使用要从临时项目变成长期、整合的专业常态。个体层面，结构条件还要转化为教师主动利用这些时间和空间的专业责任。（pp.16–17）
 > - **关系（Relationships）**
 >   从系统之外看，研究者与实践者之间的"鸿沟"是最清晰的跨层机制。弥合鸿沟需要研究者、系统层面决策者和组织、个体层面的实践者彼此建立互惠关系，形式可以是正式课程、专业发展或[[Research-Practice Partnership\|研究-实践伙伴关系]]。关键是尊重对方专业领域的管辖权，并且基于信任和好奇展开开放对话。（p.17）
 
@@ -316,7 +314,7 @@ updated: 2026-09-15
 > [!finding-cards] 核心发现
 > 1. **[[Document\|文献]]偏向个体视角，且带缺陷框定** 多数研究把"不用研究"归咎于教师个人，个体层面的因素出现在 83% 的研究里，组织与系统层面则很少被提到（p.9）。
 > 2. **四类跨层机制共同塑造[[Research Utilization\|研究使用]]** 信任、技能发展、可持续结构和关系四类机制横跨并贯通个体、组织、系统三个层级，相互强化地决定研究使用，取代了层级嵌套的逻辑（pp.15–17）。
-> 3. **深思熟虑参与少见，象征性、[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]常见** 研究常常只充当专业[[Dialogue in Education\|对话]]里的"第三声音"（third voice），正式学术渠道是最少被使用的来源（pp.10–11, 17–18）。
+> 3. **深思熟虑参与少见，象征性、[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]常见** 研究常常只充当专业对话里的"第三声音"（third voice），正式学术渠道是最少被使用的来源（pp.10–11, 17–18）。
 > 4. **从实施转向整合** 摆脱[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]，靠的是可持续结构培育专业能动性，而不是证据本位的工具性指令；[[Epistemology\|认识论]]上把研究知识与专业智慧整合，组织上把研究参与嵌入学校文化与结构（pp.17–18）。
 
 > [!stat-cards]- 核心数据

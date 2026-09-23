@@ -8,7 +8,7 @@ aliases:
 summary: "由亚历克斯·奥斯本提出的经典发散构思与群体创造力技法，以“延迟评判、以量求质、自由畅想、搭便车改进”四大原则为基石。当代群体动力学研究揭示了面对面口头互动中的生产阻塞与评价顾虑，推动了书面脑力激荡与个体-群体混合模式的发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 30
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,7 +25,9 @@ related_concepts:
   - "[[Creativity Training]]"
   - "[[Working Memory]]"
   - "[[Self-control]]"
-  - "[[Dialogue in Education]]"
+  - "[[Epistemic Agency]]"
+  - "[[Epistemic Value]]"
+  - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Blended Learning]]"
   - "[[SCAMPER]]"
@@ -36,6 +38,8 @@ related_concepts:
   - "[[Mind Mapping]]"
 related_theories:
   - "[[Creative Problem Solving]]"
+  - "[[Formative Epistemic Injustice]]"
+  - "[[Epistemic Injustice]]"
   - "[[TRIZ]]"
   - "[[Cognitive Load Theory]]"
 related_methods:
@@ -52,12 +56,13 @@ related_instruments: []
 related_arguments:
   - "[[Argument_Guo_2025_TSC]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
+  - "[[Argument_Smith_2026_SPE]]"
 related_persons:
   - "[[Alex Osborn]]"
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Brainstorming
@@ -184,10 +189,13 @@ updated: 2026-09-22
 ### 命题五　生成式人工智能介入重塑发散空间但也带来潜移默化的构想锚定与认知懒惰风险
 
 > [!concept-lens] 工具性发散协助与认知搜索空间塑造
-> 剖析人机[[Dialogue in Education\|对话]]中生成式技术作为头脑风暴玩伴的认知使能机制，警惕算法构想早熟收敛对人类思维宽度的隐蔽约束。
+> 剖析人机对话中生成式技术作为头脑风暴玩伴的认知使能机制，警惕算法构想早熟收敛对人类思维宽度的隐蔽约束。
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]
 > **算法头脑风暴的双向认知塑造** 生成式大语言模型为人机头脑风暴提供了零排队等待、无限远距联想的理想工具性协助，彻底打破了传统口头面对面的生产阻塞与评价顾虑；然而，算法给出的初始候选集往往具有极强的语义锚定效应，能够隐蔽塑造后续构想的可能空间（Shape the Space of Plausible Ideas）。若学习者未在交互前进行独立思考，算法生成的流畅构想将诱发严重的认知固着与构想惰性，使头脑风暴退化为单向顺从；高效的人机头脑风暴必须以人类先验构思为锚点，将系统仅作为发散与反常刺激源。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 2, 4)]]
+
+> [!claim] [[Argument_Smith_2026_SPE\|Smith (2026)]]
+> **灵感发散外包对[[Epistemic Agency|认识主体性]]与知识自信的剥夺** 在写作学习中，将最初的灵感构思与头脑风暴农耕式外包（Farm out）给生成式 AI 会造成深刻的[[Formative Epistemic Injustice|成长性认识不正义]]。自主头脑风暴迫使写作者在未知的困惑中调动独特的个人前序经验与情感，学会重视自身经验的[[Epistemic Value|认识论价值]]；若习惯于让算法替代发散思考，学生将丧失在探索挣扎中建立知识自信的实践机会，诱发严重的“自我强加[[Reliability|信度]]赤字（Self-Imposed Credibility Deficit）”，误以为自己天生缺乏创意构想能力。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 6–7)]]
 
 ---
 
@@ -213,6 +221,7 @@ updated: 2026-09-22
 > - **2000 年代　书面脑力激荡与认知协同模型成型** 鲍勒斯（Paul Paulus, 2000）提出群体认知交互理论，并与杨晓（Huei-Chuan Yang, 2000）以及乔恩·巴鲁阿（Jonali Baruah, 2008）证实书面与电子异步脑力激荡能克服生产阻塞，逆转群体优势。
 > - **2025 年　[[Creativity\|创造力]][[Three-Level Meta-Analysis\|多层元分析]]量化独立练习优势** [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 实证确立独立练习（$g = 0.682$）对小组协作（$g = 0.567$）的效能胜出，为头脑风暴的[[Blended Learning\|混合教学]]交付确立坚实基准。
 > - **2026 年　人机协同头脑风暴与构想空间重塑** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 揭示生成式 AI 作为发散伙伴在极大消除协作摩擦的同时，能够潜在锚定构想空间，指出人机头脑风暴必须保持独立反思以抵抗认知惰性。
+> - **2026 年　写作起草中头脑风暴外包的[[Epistemic Injustice|认识不正义]]审视** [[Argument_Smith_2026_SPE\|Smith (2026)]] 从写作学过程模型出发，深刻批判将灵感生成全盘推给 AI 的代劳倾向，指出绕过自主构思挣扎将剥夺学生珍视自身经验的实践机会，导致自我强加的[[Reliability|信度]]赤字与[[Formative Epistemic Injustice|成长性认识不正义]]。
 
 ---
 
@@ -285,6 +294,7 @@ updated: 2026-09-22
 > - Paulus (2000) — 系统提出群体[[Creativity\|创造力]]认知交互理论，剖析生产阻塞、评价顾虑与认知协同启动机制。
 > - Baruah & Paulus (2008) — 实证确立策略培训与书面脑力激荡对消解群体阻塞与提升独创性的有效性。
 > - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 系统分析人工智能介入头脑风暴作为工具性协助的利弊，揭示算法初始构想对认知搜索空间的潜在锚定与规制路径。
+> - [[Argument_Smith_2026_SPE\|Smith (2026)]] — 结合写作学过程实证，深入剖析写作起草中将灵感发散全盘外包给大模型所造成的技能实践剥夺与[[Formative Epistemic Injustice|成长性认识不正义]]。
 
 ---
 

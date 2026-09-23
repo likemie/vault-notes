@@ -5,13 +5,12 @@ aliases:
 summary: "女性认知方式模型中的最高阶段，个体认为知识是随语境变化的主动建构产物。"
 type: concept
 domain: "educational-psychology"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Knowledge Production]]"
   - "[[Teaching Assistant]]"
   - "[[Subjectivism]]"
   - "[[Epistemological Beliefs]]"
@@ -24,6 +23,7 @@ related_concepts:
   - "[[Subjective Knowledge]]"
   - "[[Evaluativist]]"
   - "[[Epistemic Cognition]]"
+  - "[[Knowledge Production]]"
   - "[[Hypothesis]]"
   - "[[Ways of Knowing]]"
   - "[[External Validity]]"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Epistemic Resources]]"
 related_theories:
   - "[[Women's Ways of Knowing]]"
+  - "[[Knowledge Building Theory]]"
   - "[[Situative Perspective]]"
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
@@ -46,7 +47,7 @@ related_methods:
 related_persons: []
 status: active
 created: 2026-08-15
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 # Constructed Knowledge
 （建构知识）
@@ -56,7 +57,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 建构知识（Constructed Knowledge）在[[Epistemology\|认识论]]发展模型中具有专属的技术性含义：它是 Belenky et al. (1986) 提出的[[Women's Ways of Knowing\|女性认知方式]]模型中的最高发展阶段。达到这一阶段的个体能够将主观直觉与客观系统程序融为一体，认识到知识和真理是情境化的、随语境变化的产物，并将自身视为[[Knowledge Production\|知识建构]]过程的积极参与者，而非被动接受者。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 95)]]
+> 建构知识（Constructed Knowledge）在[[Epistemology\|认识论]]发展模型中具有专属的技术性含义：它是 Belenky et al. (1986) 提出的[[Women's Ways of Knowing\|女性认知方式]]模型中的最高发展阶段。达到这一阶段的个体能够将主观直觉与客观系统程序融为一体，认识到知识和真理是情境化的、随语境变化的产物，并将自身视为[[Knowledge Building Theory|知识建构]]过程的积极参与者，而非被动接受者。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 95)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 它是认识论发展阶段理论（发展论模型）中标志"认识论成熟度顶阶"的专属术语，与 Perry (1970) 发展论中的"相对主义内的承诺"阶段相对应。
@@ -77,7 +78,7 @@ updated: 2026-09-17
 > - **[[Received Knowledge\|接收知识]]（Received Knowledge）** 知识依然来源于外部权威，个体能够复述和传递这些知识，但不会质疑其来源。
 > - **[[Subjective Knowledge\|主观知识]]（Subjective Knowledge）** 真理的来源转向内心，知识是直觉的、个人的，认为每个人都有自己的有效观点。
 > - **[[Procedural Knowledge\|程序知识]]（Procedural Knowledge）** 开始运用客观、系统的程序进行分析，分为分离型认知（批判、客观超然）与连结型认知（同理心、个人理解）两种亚类型。
-> - **建构知识（Constructed Knowledge）** 整合了主客观策略，认为知识和真理是情境化的、可被重构的，认知者自身是[[Knowledge Production\|知识建构]]的紧密参与者。
+> - **建构知识（Constructed Knowledge）** 整合了主客观策略，认为知识和真理是情境化的、可被重构的，认知者自身是[[Knowledge Building Theory|知识建构]]的紧密参与者。
 
 > [!framework-table] 跨模型阶段对照
 > [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 对比了五大发展模型的阶段对应关系，建构知识对应各模型的顶级成熟阶段：

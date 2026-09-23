@@ -8,7 +8,7 @@ aliases:
 summary: "由教育实践者在教学现场生成的细粒度、情境化知识与微观过程数据，作为对抗实验主义认识论霸权的合法证据形态，为教师专业学习与教学形成性改进提供关键支撑。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 55
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -20,7 +20,6 @@ tags:
   - teacher-development
 related_concepts:
   - "[[Phronesis]]"
-  - "[[Growth]]"
   - "[[Reflexivity]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
@@ -82,7 +81,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-08-26"
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Practice-Based Evidence
@@ -92,7 +91,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 实践本位证据（Practice-Based Evidence, PBE）指教育实践者在真实教学现场生成的细粒度、情境化知识与微观过程数据。它区别于外部研究者在受控实验室或标准化测试中产出的去情境化结论，将一线教师确立为合法的证据生产主体；通过在具体教学情境中持续沉淀[[Phronesis\|实践智慧]]，形成性地支持教师专业学习、教学策略微调与学生学业[[Growth\|成长]]。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 129)]]; [[Argument_Peterson_2016_IJRME\|(Peterson, 2016, p. 306)]]
+> 实践本位证据（Practice-Based Evidence, PBE）指教育实践者在真实教学现场生成的细粒度、情境化知识与微观过程数据。它区别于外部研究者在受控实验室或标准化测试中产出的去情境化结论，将一线教师确立为合法的证据生产主体；通过在具体教学情境中持续沉淀[[Phronesis\|实践智慧]]，形成性地支持教师专业学习、教学策略微调与学生学业成长。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 129)]]; [[Argument_Peterson_2016_IJRME\|(Peterson, 2016, p. 306)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将证据生产与解释的主权拓展至教学一线现场，确立扎根实践的微观观察、形成性数据与[[Reflexivity\|反思性]]知识具有不可替代的[[Epistemology\|认识论]]合法性。
@@ -192,7 +191,7 @@ updated: 2026-09-17
 > 解构[[Positivism\|实证主义]]对证据概念的排他性界定，确立实践者生成的扎根知识具有不可替代的证据地位。
 
 > [!claim] Bryk (2015); [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]]
-> **实践知识的正当性与抗衡赤字偏见** 长期以来，学术界部分学者将教师主导的研究贬为小规模、轶事性与不可复制的次级知识（Borg, 2010; Wilkins, 2012）。Bryk 提出的实践本位证据概念打破了这种认识论偏见，证明教育者在日常实践中生成的细粒度知识能够有效揭示教学机制的微观运作，在支持教师专业学习与学生[[Growth\|成长]]方面具备独立的合法性与不可替代的[[Epistemic Value\|认识论价值]]。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 129)]]
+> **实践知识的正当性与抗衡赤字偏见** 长期以来，学术界部分学者将教师主导的研究贬为小规模、轶事性与不可复制的次级知识（Borg, 2010; Wilkins, 2012）。Bryk 提出的实践本位证据概念打破了这种认识论偏见，证明教育者在日常实践中生成的细粒度知识能够有效揭示教学机制的微观运作，在支持教师专业学习与学生成长方面具备独立的合法性与不可替代的[[Epistemic Value\|认识论价值]]。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 129)]]
 
 ---
 

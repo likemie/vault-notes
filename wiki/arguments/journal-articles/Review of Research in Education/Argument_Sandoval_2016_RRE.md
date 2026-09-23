@@ -41,7 +41,6 @@ related_concepts:
   - "[[Epistemic Aims]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Metacognition]]"
-  - "[[Dialogue in Education]]"
   - "[[Epistemic Commitments]]"
   - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
@@ -87,7 +86,7 @@ title: "Argument_Sandoval_2016_RRE"
 argument_key: "Argument_Sandoval_2016_RRE"
 argument_display_title: "Understanding and Promoting Thinking About Knowledge: Origins, Issues, and Future Directions of Research on Epistemic Cognition"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -254,7 +253,7 @@ issuing_organization: ""
 > - **链节二 访谈法的强迫表达**
 >   为了弥补问卷的不足，学者采用出声思考（think-aloud）和临床访谈。但这些方法依然将学生从自然课堂中强行抽离，并且同样强迫受试者进行他们未必具备[[Metacognition\|元认知]]能力的“显性反思”。
 > - **链节三 非侵入式观察的内部推论困境**
->   情境派崇尚的[[Discourse Analysis\|话语分析]]（discourse analysis）和课堂实地观察，完美保留了真实的活动情境与社会规范。但它们却面临着致命的“推论危机（inference problem）”：研究者仅靠观察表面行为流和[[Dialogue in Education\|对话]]，很难准确无误地推断出学生内心深层到底在运转何种隐蔽的[[Epistemic Commitments\|认识论承诺]]。
+>   情境派崇尚的[[Discourse Analysis\|话语分析]]（discourse analysis）和课堂实地观察，完美保留了真实的活动情境与社会规范。但它们却面临着致命的“推论危机（inference problem）”：研究者仅靠观察表面行为流和对话，很难准确无误地推断出学生内心深层到底在运转何种隐蔽的[[Epistemic Commitments\|认识论承诺]]。
 
 > [!warrant]- 最终推理桥梁
 > 问卷脱离语境（有内无外），观察难以直击内心（有外无内）。面对这场方法论危机，学者必须彻底放弃寻找单一“完美测量工具（magic bullet）”的幻想，全面转向[[Mixed Methods Research\|混合方法]][[Triangulation\|三角验证]]。例如，将捕捉情境行为流的课堂视频观察，与事后的“视频刺激回顾式认知访谈（stimulated recall）”深度结合，以同时锁定“外部实践”与“内部资源”。

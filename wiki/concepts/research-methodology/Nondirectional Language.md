@@ -8,7 +8,7 @@ aliases:
 summary: "质性研究中不使用暗示结果方向的词语的原则，由 McCracken (1988) 提出，要求访谈者和目的陈述写作者让受访者自主描述经验，避免使用成功的、有益的、积极的等预设方向性结果的词汇"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Purpose Statement]]"
   - "[[Document]]"
+  - "[[Open-Mindedness]]"
   - "[[Discovery Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-09-21
+updated: 2026-09-23
 ---
 
 # Nondirectional Language
@@ -72,7 +73,7 @@ updated: 2026-09-21
 - **informing**（有启发的）——预设了信息接收者的受益方向
 - **successful**（成功的）——预设了某种结果优于另一种
 
-这些词语的共同特征在于：它们为研究结果划定了一个隐性的"好"的方向。[[Qualitative Research|质性研究]]的核心承诺是理解参与者建构的意义世界，这种预设会扭曲研究者对参与者经验的开放性。
+这些词语的共同特征在于：它们为研究结果划定了一个隐性的"好"的方向。[[Qualitative Research|质性研究]]的核心承诺是理解参与者建构的意义世界，这种预设会扭曲研究者对参与者经验的[[Open-Mindedness|开放性]]。
 
 > [!success] 正确改写示例
 

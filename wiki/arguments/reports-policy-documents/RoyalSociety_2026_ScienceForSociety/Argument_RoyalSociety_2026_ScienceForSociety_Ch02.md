@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch02"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch02"
 argument_display_title: "Chapter two: Informal engagement with science"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Informal Science Learning]]"
   - "[[Paradigm]]"
   - "[[Citizen Science]]"
-  - "[[Dialogue in Education]]"
   - "[[Champ]]"
   - "[[Critical Thinking]]"
   - "[[Research Contribution]]"
@@ -129,7 +128,7 @@ updated: 2026-09-15
 > - **第二阶段（2000 年代初）：千禧年基建与科学中心网络兴起**
 >   在千禧年委员会（Millennium Commission）与惠康信托（Wellcome Trust）巨额资助下，全英新建数十所大型互动科学探索中心（如格拉斯哥科学中心、我们好奇科学馆、伯明翰智囊科学博物馆），推动科学体验向具身互动实验全面升级。（pp. 44–45）
 > - **第三阶段（2020 年代中至今）：双向参与、在地化与社会文化基础设施定位**
->   面对气候变化、数字鸿沟与健康危机，非正式参与全面转向双向[[Dialogue in Education\|对话]]、社区嵌入、地方根植与公民科学，其战略定位被重塑为与公共图书馆、城市绿地并列的不可或缺的社会文化基础设施。（pp. 43, 48）
+>   面对气候变化、数字鸿沟与健康危机，非正式参与全面转向双向对话、社区嵌入、地方根植与公民科学，其战略定位被重塑为与公共图书馆、城市绿地并列的不可或缺的社会文化基础设施。（pp. 43, 48）
 
 > [!feature] 机构开展非正式科学参与的五大核心驱动力矩阵
 > - **1. 促进福祉、好奇心与生活乐趣（Fostering Wellbeing, Curiosity & Enjoyment）**

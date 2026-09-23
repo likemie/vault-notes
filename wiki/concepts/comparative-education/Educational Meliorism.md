@@ -7,7 +7,7 @@ aliases:
 summary: "源自拉丁语更好之意且以改善社会与人类境况为根本导向的探究旨趣，是贯穿19世纪比较与国际教育发端的统治性认识论母题"
 type: concept
 domain: "comparative-education"
-related_count: 52
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Whiggism]]"
   - "[[Paradigm]]"
   - "[[Scientific Paradigm]]"
-  - "[[Growth]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
   - "[[Operationalization]]"
   - "[[Document]]"
@@ -78,7 +77,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Educational Meliorism
@@ -253,7 +252,7 @@ updated: 2026-09-17
 > 该命题揭示战后比较教育科学化运动在指责历史学派主观道德说教的同时，自身并未抛弃改良旨趣，而是将改良主义异化为服务于国家五年计划与技术官僚效能控制的现代技术改良主义。
 
 > [!claim] Mattheou, D.
-> **实证[[Scientific Paradigm\|科学范式]]对古典改良主义的历史清算** 马修指出，二战后[[Growth\|成长]]起来的实证主义学者（如诺亚、埃克斯坦与霍姆斯等）对传统历史学派发起了猛烈批判，指责其改良主义立场充斥着主观愿望与道德说教，沉溺于宏大观念白描而对现实政策改革毫无可操作助益，将历史学派的人文探究定性为不具备因果预测力的“前科学”。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 60–61)]]
+> **实证[[Scientific Paradigm\|科学范式]]对古典改良主义的历史清算** 马修指出，二战后成长起来的实证主义学者（如诺亚、埃克斯坦与霍姆斯等）对传统历史学派发起了猛烈批判，指责其改良主义立场充斥着主观愿望与道德说教，沉溺于宏大观念白描而对现实政策改革毫无可操作助益，将历史学派的人文探究定性为不具备因果预测力的“前科学”。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 60–61)]]
 
 > [!claim] Mattheou, D.
 > **技术改良主义在战后国家规划理性中的制度化合谋** 马修进一步揭示，战后实证主义虽然清洗了古典人本道德辞令，但所有主要流派在实用政策导向上表现出惊人的一致——霍姆斯强调学者应充当协助政策实施的应用科学家，诺亚与埃克斯坦宣称其解释目标最终旨在服务规划者改善教育系统效能。实证科学范式实质上完成了改良主义的去道德化与技术化转型，将其收缩为与国家五年计划、[[Human Capital Theory\|人力资本]]投资和技术援助紧密绑定的“现代技术改良主义（Technocratic Meliorism）”，成为国家行政治理技术的合法化合谋者。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 63–64, 67–68)]]

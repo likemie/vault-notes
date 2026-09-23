@@ -11,7 +11,7 @@ aliases:
 summary: "将教育目标与学习产出按认知、情感与动作技能三领域分层解构的经典课程与评价理论框架，认知领域以六级思维阶梯（识记、理解、应用、分析、评价、创造）与二维知识-认知过程矩阵为核心，支撑教学设计、目标对齐与实证测量。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 41
+theory_related_count: 40
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -44,7 +44,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Emergence]]"
   - "[[Dependent Variable]]"
-  - "[[Dialogue in Education]]"
   - "[[Structured Teaching]]"
   - "[[International Baccalaureate]]"
   - "[[IB Diploma Programme]]"
@@ -165,7 +164,7 @@ updated: 2026-09-22
 > [!theory-use] 如何用于研究
 > - **作为[[Dependent Variable\|因变量]]分类框架** 在量化与元分析研究中，依据布鲁姆分类学将认知产出细分为知识类、技能类与高阶思维，用于检验干预措施的差异化效应。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, p. 5)]]
 > - **作为课程与评价审查工具** 检索课程大纲中的命令词分布，诊断是否存在目标写高阶、活动给中阶、测验考低阶的虚假对齐与[[Construct\|构念]]失真。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 33–35)]]
-> - **作为质性编码框架** 对课堂师生言语互动、[[AI Agent in Education\|智能体]]多轮[[Dialogue in Education\|对话]]及试卷题项进行题项级认知水平标定。
+> - **作为质性编码框架** 对课堂师生言语互动、[[AI Agent in Education\|智能体]]多轮对话及试卷题项进行题项级认知水平标定。
 
 ---
 

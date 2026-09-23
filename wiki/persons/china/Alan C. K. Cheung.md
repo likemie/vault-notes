@@ -8,7 +8,7 @@ summary: "香港中文大学教育学院教授、证据本位教育改革与大�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 42
+person_related_count: 41
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -25,7 +25,6 @@ tags:
   - region/hong-kong
 related_concepts:
   - "[[Evidence-Based Education]]"
-  - "[[Dialogue in Education]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Evidence Standards]]"
   - "[[Marginal Gains Hypothesis]]"
@@ -75,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-02'
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Alan C. K. Cheung
@@ -87,7 +86,7 @@ updated: 2026-09-18
 
 > [!person-profile] 人物档案
 > - **身份位置** 香港中文大学（The Chinese University of Hong Kong）教育学院教授、教育行政与政策学系系主任，前美国约翰霍普金斯大学（Johns Hopkins University）[[Evidence-Based Education\|证据本位教育]]改革中心（CRRE）资深研究员。
-> - **核心角色** 华语世界与国际循证教育（Evidence-Based Education）[[Dialogue in Education\|对话]]的核心学术桥梁，[[Robert Slavin]] 的长期核心学术合作者；早期致力于大规模教育[[Randomised Controlled Trials\|随机对照试验]]（RCT）与循证改革的跨国引介，近年来成为引领新兴[[Generative Artificial Intelligence\|生成式人工智能]]（Gen-AI）教育干预[[Meta-analysis\|元分析]]标准与教育技术公平评价的前沿学者。
+> - **核心角色** 华语世界与国际循证教育（Evidence-Based Education）对话的核心学术桥梁，[[Robert Slavin]] 的长期核心学术合作者；早期致力于大规模教育[[Randomised Controlled Trials\|随机对照试验]]（RCT）与循证改革的跨国引介，近年来成为引领新兴[[Generative Artificial Intelligence\|生成式人工智能]]（Gen-AI）教育干预[[Meta-analysis\|元分析]]标准与教育技术公平评价的前沿学者。
 > - **代表贡献** 推动[[Best Evidence Encyclopedia\|最佳证据百科全书]]（[[Best Evidence Encyclopedia\|BEE]]）与 [[Best Evidence in Brief\|BEiB]] 华语网络建设；与 Slavin 合作系统总结大规模实验[[Evidence Standards\|证据标准]]（Slavin & Cheung, 2017）；在高等教育生成式 AI 评价中确立基线等效控制标准并提出[[Marginal Gains Hypothesis\|边际效益假说]]（[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung, 2025]]）。
 
 > [!citation-card]- 人物定位的关键来源
@@ -101,7 +100,7 @@ updated: 2026-09-18
 
 > [!timeline] 生平与职涯
 > - **2000 年代初 — 约翰霍普金斯大学 CRRE 时期** 长期在美国 Johns Hopkins University [[Evidence-Based Education\|证据本位教育]]改革中心担任核心研究者，与 [[Robert Slavin]] 紧密合作，深度参与全美大规模整体学校改革（如 [[Success for All]]）与 K-12 阅读、数学干预项目的一阶与[[Meta-meta-analysis\|二阶元分析]]研发。
-> - **2010 年代 — 回港任教与循证教育跨国网络搭建** 加盟香港中文大学教育学院，担任教授兼教育行政与政策学系系主任；发起建立 Johns Hopkins-CUHK-NNU（约翰霍普金斯-港中大-南京师大）三方合作机制，建立面向全球华人的 [[Best Evidence in Brief\|BEiB]] 循证教育知识库，推动中文教育实证研究与国际[[Causality\|因果推断]]标准[[Dialogue in Education\|对话]]。
+> - **2010 年代 — 回港任教与循证教育跨国网络搭建** 加盟香港中文大学教育学院，担任教授兼教育行政与政策学系系主任；发起建立 Johns Hopkins-CUHK-NNU（约翰霍普金斯-港中大-南京师大）三方合作机制，建立面向全球华人的 [[Best Evidence in Brief\|BEiB]] 循证教育知识库，推动中文教育实证研究与国际[[Causality\|因果推断]]标准对话。
 > - **2021 — 主导《ECNU Review of Education》全球循证改革特刊** 与 [[Chen Xie]] 联合主编特刊 *[[Evidence-Based Reform]] in Education: Global Perspectives*，以四大活动框架组织全球 7 国学者，并联合 Slavin 与[[Tengteng Zhuang\|庄腾腾]]系统回应华语学界对[[Positivism\|实证主义]]的质疑（[[Argument_Slavin_2021_ECNUROE\|Slavin et al., 2021]]；[[Argument_Cheung_2021_ECNUROE\|Cheung & Xie, 2021]]）。
 > - **2025 — 拓展至前沿智能教育循证评价** 在权威顶刊 *Educational Research Review* 发表针对高校生成式 AI 学习产出的[[Systematic Review\|系统综述]]与[[Meta-analysis\|元分析]]（[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung, 2025]]），首次在 AIED 综述中引入严格的 [[Baseline Standardized Mean Difference\|基线等效性]]门槛（$d < 0.25$）与 [[Third Generation Activity Theory\|AT-MCSCL]] 活动理论框架，确立[[Marginal Gains Hypothesis\|教育技术边际效益假说]]。
 

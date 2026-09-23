@@ -9,7 +9,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Hypothesis]]"
   - "[[Performativity]]"
-  - "[[Dialogue in Education]]"
   - "[[Class Size]]"
   - "[[Performance Indicators]]"
   - "[[Paradigm]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Education at a Glance
@@ -79,7 +78,7 @@ updated: 2026-09-18
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> 《教育概览》的治理逻辑建立在“仪表盘警示”与“指标施为性”双重[[Hypothesis\|假设]]之上：一方面，派生指标如同仪表盘警示灯，促使决策者发现本国系统的深层病灶；另一方面，指标的公开披露具备强大的自我实现与行动引导能力（[[Performativity]]），使数字成为民族国家政府与跨国组织之间[[Dialogue in Education\|对话]]的首要语言代码。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 7–8, 16)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> 《教育概览》的治理逻辑建立在“仪表盘警示”与“指标施为性”双重[[Hypothesis\|假设]]之上：一方面，派生指标如同仪表盘警示灯，促使决策者发现本国系统的深层病灶；另一方面，指标的公开披露具备强大的自我实现与行动引导能力（[[Performativity]]），使数字成为民族国家政府与跨国组织之间对话的首要语言代码。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 7–8, 16)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 
 > [!policy-design]- 四维指标框架设计
 > 《教育概览》将复杂的国家教育生态抽象并归纳为四大相互嵌套的分析维度：

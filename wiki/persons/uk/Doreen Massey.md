@@ -7,7 +7,7 @@ summary: "英国人文地理学家，关系性空间与权力几何理论代表�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Sage]]"
   - "[[Heterogeneity]]"
   - "[[Emergence]]"
+  - "[[Open-Mindedness]]"
   - "[[Creativity]]"
   - "[[Classical Geopolitics]]"
   - "[[Geopolitics of Knowledge]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: 2026-09-11
+updated: 2026-09-23
 ---
 # Doreen Massey
 
@@ -100,7 +101,7 @@ Massey 最重要的洞见，详见 [[Multiplicity|多重性]] 条目。核心要
 
 ### 对封闭空间观的批判
 
-Massey 批判了多种"驯化"空间开放性的尝试：将空间视为静态和稳定的、将世界视为总是已经被划分完毕的封闭体、将空间和地方视为内部连贯和封闭且不参照变化外部性的存在（Massey, 2005, pp. 5, 6, 26, 49, 151）。学者和政治家试图"去风险化"开放本体论，消除"其恐怖和其[[Creativity|创造性]]喜悦"（p. 26）。这一批判直接指向 [[Methodological Nationalism|方法论民族主义]] 和 [[Classical Geopolitics|古典地缘政治]] 的"领土偏见"——Massey 反对将国家空间视为纯粹和封闭的，称之为"对连贯国族性的浪漫幻想"([[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 8]])。
+Massey 批判了多种"驯化"空间[[Open-Mindedness|开放性]]的尝试：将空间视为静态和稳定的、将世界视为总是已经被划分完毕的封闭体、将空间和地方视为内部连贯和封闭且不参照变化外部性的存在（Massey, 2005, pp. 5, 6, 26, 49, 151）。学者和政治家试图"去风险化"开放本体论，消除"其恐怖和其[[Creativity|创造性]]喜悦"（p. 26）。这一批判直接指向 [[Methodological Nationalism|方法论民族主义]] 和 [[Classical Geopolitics|古典地缘政治]] 的"领土偏见"——Massey 反对将国家空间视为纯粹和封闭的，称之为"对连贯国族性的浪漫幻想"([[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 8]])。
 
 ### 权力几何学
 

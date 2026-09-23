@@ -10,7 +10,7 @@ aliases:
 summary: "Flanders 开发的经典课堂言语互动系统化观察工具，采用 3 秒时间取样将课堂言语行为划分为 10 类，通过矩阵分析评估课堂结构与师生互动模式，亦成为反思实证量化编码忽视情境索引性的经典范例。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 18
+instrument_related_count: 17
 instrument_related_level: 3
 instrument_related_stars: "⭐⭐⭐"
 instrument_related_color: "#cffafe"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Rich and Thick Description]]"
   - "[[Reliability]]"
-  - "[[Growth]]"
   - "[[Indexicality]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Ecological Validity]]"
@@ -145,7 +144,7 @@ FIAC 生成的互动数据可通过 10×10 矩阵计算核心教学指标：
 > 
 > **[[Rich and Thick Description\|深描]]视角的破译**
 > 这一串 '7-4-9-10' 的机械代码，尽管具备极高的编码[[Reliability\|信度]]与观察者一致性，但完全无法向研究者解释：为什么全班会哄堂大笑？为什么这句看似破坏纪律的言语实质上是师生高度默契的亲密互动？
-> 沃克与阿德尔曼通过随后的深入交谈才得知：此前教师曾多次对全班说“你们有些人的作业像草莓——好的地方很好，但能吃的部分太少、保鲜期太短”。“草莓”一词在师[[Growth\|生长]]期朝夕相处的历史中，已沉淀为高度[[Indexicality\|索引性]]的情境密语。威尔逊在面临危机时机智抛出这一暗号，瞬间唤醒了全班对教师口头禅的集体记忆，用幽默化解了对抗尴尬；FIAC 的行为切片彻底割裂了事件的历史与情境脉络，造成了对课堂事实的系统误读。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 20–21)]]
+> 沃克与阿德尔曼通过随后的深入交谈才得知：此前教师曾多次对全班说“你们有些人的作业像草莓——好的地方很好，但能吃的部分太少、保鲜期太短”。“草莓”一词在师生长期朝夕相处的历史中，已沉淀为高度[[Indexicality\|索引性]]的情境密语。威尔逊在面临危机时机智抛出这一暗号，瞬间唤醒了全班对教师口头禅的集体记忆，用幽默化解了对抗尴尬；FIAC 的行为切片彻底割裂了事件的历史与情境脉络，造成了对课堂事实的系统误读。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 20–21)]]
 
 > [!critique] 质性诠释学与常人方法学的批判要点
 > - **行为与行动的范畴混淆** FIAC 仅能记录外在、机械的肢体与发音物理“行为（behavior）”，彻底丧失了理解承载行动者主观意图、情感体验与价值建构的“行动（action）”的能力。

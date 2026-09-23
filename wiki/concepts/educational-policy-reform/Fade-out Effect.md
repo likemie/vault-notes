@@ -30,7 +30,6 @@ related_concepts:
   - "[[Business as Usual]]"
   - "[[Implementation Fidelity]]"
   - "[[Counterfactual]]"
-  - "[[Growth]]"
   - "[[Metacognition]]"
   - "[[Gatekeepers]]"
   - "[[Justificatory Standards]]"
@@ -47,6 +46,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Response to Intervention]]"
   - "[[Academic Achievement]]"
+  - "[[Growth]]"
 related_theories: []
 related_methods:
   - "[[Efficacy Trial]]"
@@ -119,7 +119,7 @@ updated: 2026-09-22
 > - **新奇效应退潮与非认知动机回落（Decay of Novelty & Motivation）** 即时显著收益常混合了新硬件、额外金钱奖励或研究者特殊关注带来的[[Hawthorne Effect\|霍桑效应]]；一旦恢复日常教学常态，学生的专注度与额外投入迅速回落至常规基线。
 > - **规模化级联培训稀释（Cascade Dilution in Scale-up）** 当方案从 20 所学校的[[Efficacy Trial\|效力试验]]迅速扩张至 200 所学校的[[Effectiveness Trial\|实效试验]]时，原作者无法亲自授课，转由多层中介培训师转导。信息逐级衰减导致课堂[[Implementation Fidelity\|实施保真度]]崩溃，引发大规模效果断崖（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。
 > - **[[Counterfactual\|反事实]]基线常态演进（Counterfactual Creep）** 随着全行业教研水准提升，对照组学校在日常教学（BAU）中自发采纳了类似的有益教学实践，导致干预措施相对于常规实践的比较优势荡然无存。
-- **长周期实施浓度稀释与平台期效应（Dosage Dilution & Plateau Effect）** 认知干预的[[Growth|生长]]轨迹常呈非线性，学生在短期高强度教学中快速吸收核心策略并达到平台期；若干预时间拖延过长（如超过一学期），单位时间教学浓度被严重稀释，加之对照组在常态教学中逐渐自然成熟追赶，导致长周期干预往往表现出相对优势消失甚至不显著的衰退假象。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021, pp. 490, 493)]]
+- **长周期实施浓度稀释与平台期效应（Dosage Dilution & Plateau Effect）** 认知干预的生长轨迹常呈非线性，学生在短期高强度教学中快速吸收核心策略并达到平台期；若干预时间拖延过长（如超过一学期），单位时间教学浓度被严重稀释，加之对照组在常态教学中逐渐自然成熟追赶，导致长周期干预往往表现出相对优势消失甚至不显著的衰退假象。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021, pp. 490, 493)]]
 
 ---
 

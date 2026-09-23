@@ -7,7 +7,7 @@ title: "Argument_Mausethagen_2025_ERR"
 argument_key: "Argument_Mausethagen_2025_ERR"
 argument_display_title: "A systematic critical review of research on ‘research use’ in education: Towards more profession-sensitive conceptualisations"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -47,7 +47,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Literature Search]]"
-  - "[[Growth]]"
   - "[[Reflexivity]]"
   - "[[Epistemology]]"
   - "[[Phronesis]]"
@@ -158,7 +157,7 @@ updated: 2026-08-26
 ### 论证步骤一：三十年文献在提问时普遍把教师预设为能力短缺的客体
 
 > [!claim] 步骤一主张
-> 现有[[Document\|文献]]在提出问题时表现出高度的思维定势：普遍不加反思地假定教师在知识或能力上存在赤字，把[[Research Utilization\|研究使用]]视作矫正教师技能短板的干预手段，形[[Growth\|成长]]期停滞的赤字话语。（pp. 4–5）
+> 现有[[Document\|文献]]在提出问题时表现出高度的思维定势：普遍不加反思地假定教师在知识或能力上存在赤字，把[[Research Utilization\|研究使用]]视作矫正教师技能短板的干预手段，形成长期停滞的赤字话语。（pp. 4–5）
 
 > [!chain-link] 证据到判断
 > - **科研绝对化预设** 文献普遍先验假定使用科研成果必然促进学校改进并激发创新教学；因此，科研与课堂脱节被理所当然地看作一道必须由外部力量填补的能力鸿沟（如 Hodges, 1996; Anwaruddin & Pervin, 2015; Brown et al., 2018）。

@@ -34,11 +34,11 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Conatus]]"
   - "[[International Education]]"
-  - "[[Dialogue in Education]]"
   - "[[Implementation Fidelity]]"
   - "[[Heterogeneity]]"
   - "[[School Enquiry Cycle]]"
-related_theories: []
+related_theories:
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Action Research]]"
   - "[[Randomised Controlled Trials]]"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Evidence-Innovation Knowledge Dynamics
@@ -71,7 +71,7 @@ updated: 2026-09-21
 > - **边界** 聚焦于一线学校与网络共同体内部“证据输入 ➔ 课堂调试 ➔ 本土[[Knowledge Production\|知识生成]] ➔ 规模扩散”的动态流变；区别于宏观纯制度框架（[[Evidence Ecosystem]]），也区别于单纯的教师微观审议机制（[[Research-Informed Teaching Practice]]）。
 
 > [!citation-card] Révai 论修复证据动员与教育创新的体制断层
-> 这项工作旨在‘修复’教育领域中为了证据而进行的知识动员与为了创新而进行的[[Knowledge Production\|知识建构]]之间断裂的纽带。当今的政策问题往往要么关注扩大创新努力的规模，要么关注提高证据的使用率，而未能认识到两者在实践中往往且确实应当相伴而行。[[Argument_Torres_2022_KMModels\|Torres, 2022, p. 49; Révai, 2020, p. 18]]
+> 这项工作旨在‘修复’教育领域中为了证据而进行的知识动员与为了创新而进行的[[Knowledge Building Theory|知识建构]]之间断裂的纽带。当今的政策问题往往要么关注扩大创新努力的规模，要么关注提高证据的使用率，而未能认识到两者在实践中往往且确实应当相伴而行。[[Argument_Torres_2022_KMModels\|Torres, 2022, p. 49; Révai, 2020, p. 18]]
 >
 > *This work aims to 'repair' the broken link in education between knowledge mobilisation for evidence and knowledge construction for innovation. It notes that policy questions today tend to relate to scaling innovation efforts or to increasing evidence use instead of acknowledging that the two often do and, indeed, should go together.*
 
@@ -152,7 +152,7 @@ updated: 2026-09-21
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2010s — 创新扩散与[[Evidence-Based Education\|循证教育]]的长期平行动线** [[International Education\|国际教育]]界一方面热衷于各类以设计思维、技术赋能为代表的“颠覆式创新”，另一方面大力推行“什么有效”的严格[[Randomised Controlled Trials\|随机对照试验]]评估，两者处于长期缺乏[[Dialogue in Education\|对话]]的互斥状态。
+> - **2010s — 创新扩散与[[Evidence-Based Education\|循证教育]]的长期平行动线** [[International Education\|国际教育]]界一方面热衷于各类以设计思维、技术赋能为代表的“颠覆式创新”，另一方面大力推行“什么有效”的严格[[Randomised Controlled Trials\|随机对照试验]]评估，两者处于长期缺乏对话的互斥状态。
 > - **2020 — Révai 在 [[OECD]] 提出知识动力学模型** Noémi Révai 发表 OECD 教育工作论文，通过对教师专业知识网络与案例的大规模梳理，正式提出融汇证据中介与创新循环的证据-创新知识动力学模型。
 > - **2022 — [[OECD]] [[Knowledge Mobilisation\|知识动员]]模型前沿审视中的理论升华** [[Argument_Torres_2022_KMModels\|Torres (2022)]] 在全书第二章将该模型确立为克服宏观动员模型“功能人为割裂”与“忽视非学术知识”的两大前沿微观支柱之一，呼吁未来全系统生态模型必须以证据与创新深度共生为轴心进行重构。
 

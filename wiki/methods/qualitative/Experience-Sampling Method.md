@@ -5,18 +5,16 @@ summary: "Kitwood发展的质性陈述收集与分析技术，通过15种生活�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 16
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 14
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags: [method/qualitative, data-collection, theme/language]
 related_concepts:
   - "[[Falsification]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Dialogue in Education]]"
   - "[[Hypothesis]]"
-  - "[[Growth]]"
 related_methods:
   - "[[Experience Sampling Method]]"
   - "[[Account Gathering]]"
@@ -32,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 # Experience-Sampling Method
 
@@ -50,7 +48,7 @@ updated: 2026-09-17
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 知识从参与者的第一人称经验叙述中浮现，研究者通过与材料的持续[[Dialogue in Education\|对话]]逐步建构解释。避免将预设类别强加于参与者经验。
+> - **知识观** 知识从参与者的第一人称经验叙述中浮现，研究者通过与材料的持续对话逐步建构解释。避免将预设类别强加于参与者经验。
 > - **研究者角色** 研究者是学习的探求者而非信息的提取者；必须极其熟悉访谈内容，允许参与者引导经验的叙述方向。
 > - **有效性标准** [[Cross-checking\|交叉检查]]（研究者之间互相检验偏差）和[[Member Tests\|成员核验]]（将[[Hypothesis\|假设]]带回参与者征求意见）；图式的逐步修改、确认或[[Falsification\|证伪]]过程本身即是验证。
 > - **不声称回答的问题** 不声称产生统计概括或频率分布（虽然方法1–4可用于表面概括）；主要目的不是检验预设假设，而是从材料中发展理解。
@@ -76,7 +74,7 @@ updated: 2026-09-17
 > [!proc] 八种分析方法（Kitwood, 1977）
 > 1. **选择的总模式** 各项目的选择频率允许对参与者群体做出表面概括。最有揭示性的分析可能是最少和最受欢迎的项目。
 > 2. **相似性与差异性** 按参与者特征（年龄、性别、教育程度等）调查总样本内陈述的相似性和差异。
-> 3. **项目合并** 将涵盖相似主题的类别合并（如涉及冲突的项目1、5和14；涉及个人[[Growth\|成长]]和变化的项目4、7和15）。
+> 3. **项目合并** 将涵盖相似主题的类别合并（如涉及冲突的项目1、5和14；涉及个人成长和变化的项目4、7和15）。
 > 4. **内容分类** 检查某个项目的总样本内容，发展能容纳所有材料的类别系统。最佳做法是两位以上研究者独立提出类别系统后协商最终系统。
 > 5. **追踪主题** 超越项目的人为边界，尽可能多地收集与特定主题相关的数据，不论它在何处出现。要求对内容极为详细的了解，可能需要多次听录音。
 > 6. **研究遗漏** 当研究者预期会出现的议题缺席时，这一事实本身可能非常显著，应探究其正确解释。

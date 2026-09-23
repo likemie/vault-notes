@@ -6,7 +6,7 @@ aliases:
 summary: "由卢巴特等开发的前沿多维创造力测验系统，通过言语与图形两大领域的发散探索任务与聚合整合任务，系统测查儿童、青少年与成人的创造潜能结构与领域特异性表现。"
 type: instrument
 instrument_type: test
-instrument_related_count: 7
+instrument_related_count: 8
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ tags:
 related_concepts:
   - "[[Creativity]]"
   - "[[Creativity Training]]"
+  - "[[Open-Mindedness]]"
   - "[[Construct Validity]]"
   - "[[Domain Specificity]]"
 related_theories: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-09-23
 ---
 
 # Evaluation of Potential for Creativity
@@ -76,7 +77,7 @@ updated: 2026-09-03
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** 开放性故事文本创作情境与多元素几何刺激组合构图。
+> - **题项形式** [[Open-Mindedness|开放性]]故事文本创作情境与多元素几何刺激组合构图。
 > - **作答格式** 手写言语短文陈述与画笔几何构图。
 > - **反向题与跳题** 无反向题；严格按照发散探索（限时快速生成）与聚合整合（深度构想整合）阶段交替施测。
 

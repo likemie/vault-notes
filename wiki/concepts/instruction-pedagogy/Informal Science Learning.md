@@ -25,8 +25,8 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Science Capital]]"
   - "[[Homework]]"
-  - "[[Dialogue in Education]]"
   - "[[Knowledge Co-production]]"
+  - "[[Dialogue in Education]]"
   - "[[Paradigm]]"
   - "[[Champ]]"
   - "[[Critical Thinking]]"
@@ -73,7 +73,7 @@ updated: 2026-09-22
 
 > [!boundary]- 概念边界
 > - 不等于正规学校教育的课外[[Homework\|作业]]辅导：非正式学习由内在兴趣与探索欲驱动，不具有强制性考评压力。
-> - 不等于单向科学知识灌输（Public Understanding of Science, PUS）：它强调公众与科研人员的双向[[Dialogue in Education\|对话]]、知识共同生产（[[Knowledge Co-production\|co-production]]）与具身参与体验。
+> - 不等于单向科学知识灌输（Public Understanding of Science, PUS）：它强调公众与科研人员的双向对话、知识共同生产（[[Knowledge Co-production\|co-production]]）与具身参与体验。
 
 ---
 
@@ -99,7 +99,7 @@ updated: 2026-09-22
 > - **第二阶段（2000 年代初）：千禧年基建与科学中心网络兴起**
 >   在千禧年委员会（Millennium Commission）与惠康信托（Wellcome Trust）巨额资助下，全英新建数十所大型互动科学探索中心（如格拉斯哥科学中心、我们好奇科学馆、伯明翰智囊科学中心），推动科学体验向具身互动实验全面升级。（pp. 44–45）
 > - **第三阶段（2020 年代中至今）：双向参与、在地化与社会文化基础设施确立**
->   面对气候危机、数字鸿沟与健康挑战，非正式参与全面转向双向[[Dialogue in Education\|对话]]、社区嵌入、地方根植与[[Citizen Science\|公民科学]]，其战略定位被正式重塑为与公共图书馆、城市绿地并列的不可或缺的社会文化基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, pp. 43, 48)]]
+>   面对气候危机、数字鸿沟与健康挑战，非正式参与全面转向双向对话、社区嵌入、地方根植与[[Citizen Science\|公民科学]]，其战略定位被正式重塑为与公共图书馆、城市绿地并列的不可或缺的社会文化基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, pp. 43, 48)]]
 
 ---
 
@@ -107,7 +107,7 @@ updated: 2026-09-22
 
 > [!dimension] 机构开展非正式科学参与的五大核心驱动力矩阵
 > - **1. 促进福祉、好奇心与生活乐趣（Fostering Wellbeing, Curiosity & Enjoyment）**
->   为家庭亲子、青少年与成年人打造包容性探索空间与安静反思[[Champ\|场域]]，提供激发好奇心与深度[[Dialogue in Education\|对话]]的沉浸式体验，将科学呈现为永无止境的发现旅程。（p. 46）
+>   为家庭亲子、青少年与成年人打造包容性探索空间与安静反思[[Champ\|场域]]，提供激发好奇心与深度对话的沉浸式体验，将科学呈现为永无止境的发现旅程。（p. 46）
 > - **2. 赋能明智生活决策与共创新知（Informed Lifestyle Choices & Creating New Knowledge）**
 >   培育公众[[Critical Thinking\|批判性思维]]，帮助人们在面对健康医疗、食品营养、网络行为、低碳消费及生态影响等复杂科学伦理议题时作出理智选择；同时为科研人员倾听公众关切提供双向界面。
 > - **3. 汇聚集体行动与公众能动性（Convening Collective Action & Agency）**

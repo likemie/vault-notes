@@ -5,7 +5,7 @@ aliases:
 summary: "大学生活组织实践的一种模式，以较早确立生涯目标、策略性配置校内外资源和为毕业出路持续准备为特征，常与优势阶层习性相连"
 type: concept
 domain: "sociology-of-education"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Academic and Social Integration]]"
   - "[[Student Engagement]]"
   - "[[Social Engagement]]"
-  - "[[Dialogue in Education]]"
   - "[[Determinism]]"
   - "[[Graduation Pathway Typology]]"
 related_theories:
@@ -48,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-08-20
+updated: 2026-09-22
 ---
 
 # Goal-Controlled Mode
@@ -105,7 +104,7 @@ updated: 2026-08-20
 > - [[Culture as Toolkit]] — 对应**价值选择过程**的工具维度：目标掌控模式被理解为一组由优势家庭提供的文化工具（规划意识、策略思维、信息搜集能力），使学生能策略性地组织行动路线
 > - [[Dual-Process Model of Culture in Action]] — 提供整合框架：该模式既包含**深层内化**的价值观驱动（优势阶层家庭教育中内化的"成功叙事"和生涯目标意识），也包含**浅层内化**的工具箱能力（灵活使用信息、人脉和制度知识为特定出路做准备）
 > - [[Academic and Social Integration]] + [[Student Engagement]] — 对应**投入过程** 目标掌控模式下的投入是**策略性而非弥散性**的——学生并非不投入，而是有方向地选择与目标出路匹配的教育性实践活动。[[Academic Engagement\|学业投入]]的详细讨论见 [[Academic Engagement]]，[[Social Engagement\|社会性投入]]的详细讨论见 [[Social Engagement]]
-> - [[Rational Action Theory]] — 作为[[Dialogue in Education\|对话]]方：看似符合理性行动模型（手段-目的计算），但郑雅君强调这一"理性计算"能力本身是阶层习性的产物——哪些目的值得追求、如何评估风险收益，均由文化工具箱和深层价值观共同塑造
+> - [[Rational Action Theory]] — 作为对话方：看似符合理性行动模型（手段-目的计算），但郑雅君强调这一"理性计算"能力本身是阶层习性的产物——哪些目的值得追求、如何评估风险收益，均由文化工具箱和深层价值观共同塑造
 > - [[Self-Authorship]]（[[Marcia Baxter Magolda]]）— 概念建构的理论灵感："掌控"一词即含有自我主导性意涵——个体根据内在声音和核心价值观主导认知发展、自我认同和人际关系
 
 ---

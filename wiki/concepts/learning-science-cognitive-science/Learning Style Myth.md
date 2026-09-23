@@ -11,10 +11,10 @@ aliases:
 summary: "假定根据学习者自我报告的偏好感官通道（视觉、听觉、动觉等）定制教学即可显著提升学业成效的流行信念，已被大量实证认知研究证伪，但仍在教师教育和大众出版物中广泛存在并产生负面教学偏差。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/learning-science-cognitive-science
   - field/educational-psychology
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Learned Helplessness]]"
   - "[[Epistemology]]"
   - "[[Teacher Beliefs]]"
-  - "[[Dialogue in Education]]"
   - "[[Variable]]"
   - "[[Normal School]]"
   - "[[Document]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Learning Style Myth
@@ -184,7 +183,7 @@ updated: 2026-09-18
 > > - **指南读物作者群** 多由一线实践教师撰写，主要依托个人教学经验与权威话语自我合法化，倾向于迎合大众常识直觉。
 > > - **教育科学研究者** 强调教育实践必须立足于经受检验的高质量证据，呼吁研究者与实践者联合编撰科学严谨的专业行动手册（如 Greutmann et al., 2020）。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 255)]]
 >
-> > [!axis] 纯学术论文的单向批驳 vs 多媒体受众适配的[[Dialogue in Education\|对话]]式纠偏
+> > [!axis] 纯学术论文的单向批驳 vs 多媒体受众适配的对话式纠偏
 > > 探讨在专业期刊发表批驳性证据是否足以改变教师的直觉信念。
 > >
 > > - **传统学术批判** 局限于封闭在付费学术期刊中，甚至可能因过度强调[[Falsification\|证伪]]而引发教师心理防御。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 254–255)]]

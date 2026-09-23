@@ -35,7 +35,6 @@ related_concepts:
   - "[[Cultural Diplomacy]]"
   - "[[Global Citizenship]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Dialogue in Education]]"
   - "[[Champ]]"
   - "[[Scale in Higher Education]]"
   - "[[Geopolitical Subject]]"
@@ -94,9 +93,9 @@ title: "Argument_Yu_Xie_2025_JHE"
 argument_key: "Argument_Yu_Xie_2025_JHE"
 argument_display_title: "空间、权力与高等教育：地缘政治视角下的高等教育研究"
 argument_kind: "journal-article"
-argument_related_count: 60
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
+argument_related_count: 59
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "高等教育研究"
 ---
@@ -222,7 +221,7 @@ journal: "高等教育研究"
 >   - 9·11事件使得国家安全再度被各国政策制定者提上日程，一度朝着全球化迈进的高等教育部分地再国家化与再边界化，动摇了世界主义和[[Global Citizenship\|全球公民]]等理想化愿景（Rizvi, 2004）
 >   - 2008年爆发的全球金融危机从根本上暴露了以英美金融资本主义为主导的全球化模式的深层脆弱性（Li et al., 2012），促使更多关注转向如何通过高等教育发展[[Knowledge-Based Economy\|知识经济]]、推动创新型经济的发展（Postiglione, 2011）
 >
->   这一时期的研究可被视为一种非自觉的高等教育地缘政治研究，具有双重影响。积极方面，它催生了大量关于国际化、流动与全球教育治理的经验研究，为后续自觉研究积累了丰富素材。消极方面，由于缺乏对地缘政治概念的自觉界定和与地缘政治理论的[[Dialogue in Education\|对话]]，研究往往停留在描述结构性不平等、强调北南差距的层面，大学在全球权力与知识版图中的能动性没有受到充分关注（p.5）。
+>   这一时期的研究可被视为一种非自觉的高等教育地缘政治研究，具有双重影响。积极方面，它催生了大量关于国际化、流动与全球教育治理的经验研究，为后续自觉研究积累了丰富素材。消极方面，由于缺乏对地缘政治概念的自觉界定和与地缘政治理论的对话，研究往往停留在描述结构性不平等、强调北南差距的层面，大学在全球权力与知识版图中的能动性没有受到充分关注（p.5）。
 >
 > - **21世纪第二个十年后期至今（2016–）：自觉的高等教育地缘政治研究**
 >

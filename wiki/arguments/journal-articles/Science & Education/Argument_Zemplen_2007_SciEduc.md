@@ -46,7 +46,6 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Evidence Standards]]"
   - "[[Leading Questions]]"
-  - "[[Dialogue in Education]]"
   - "[[Lifelong Learning]]"
   - "[[Liberal Education]]"
   - "[[Metacognition]]"
@@ -87,7 +86,7 @@ title: "Argument_Zemplen_2007_SciEduc"
 argument_key: "Argument_Zemplen_2007_SciEduc"
 argument_display_title: "Conflicting agendas: Critical thinking versus science education in the International Baccalaureate Theory of Knowledge course"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -457,7 +456,7 @@ issuing_organization: ""
 > 1. **从古希腊辩证法的根源开始**
 >    先讲一个简短的历史故事：公元前 5 世纪的雅典，公民大会和法庭上每天都有激烈的辩论。智者派（Sophists）收费教授说服术，声称可以让弱的论证变强；[[Socrates\|苏格拉底]]和[[Plato\|柏拉图]]则坚持论证应该追求真理，而不是单纯的修辞胜利。正是在这个环境中，民主制度和科学探究同时诞生，两者共享一个前提：通过理性的公开讨论来解决分歧，而不是靠暴力和权威。让学生讨论一个[[Leading Questions\|引导性问题]]：如果我们班需要做一个决定（比如春游去哪里，什么规则能让讨论最公平、最可能得出好结果？
 > 2. **用柏拉图文本引发对规则的发现**
->    阅读柏拉图的《欧叙德谟篇》（*Euthydemus*, 293B–297B）选段。这段[[Dialogue in Education\|对话]]中，两个智者用诡辩术捉弄一个年轻人：你先承认你知道一些东西，他们就说所以你知道一切；你先承认你父亲是一条狗的儿子，他们就说所以你父亲是一条狗。对话读起来像一场闹剧，但学生很快会发现：诡辩之所以能成立，是因为缺少了某些规则（比如不能偷换概念、不能脱离语境。让学生分组讨论：如果你们是这场对话的裁判，你们会制定哪些规则来阻止这些诡辩？
+>    阅读柏拉图的《欧叙德谟篇》（*Euthydemus*, 293B–297B）选段。这段对话中，两个智者用诡辩术捉弄一个年轻人：你先承认你知道一些东西，他们就说所以你知道一切；你先承认你父亲是一条狗的儿子，他们就说所以你父亲是一条狗。对话读起来像一场闹剧，但学生很快会发现：诡辩之所以能成立，是因为缺少了某些规则（比如不能偷换概念、不能脱离语境。让学生分组讨论：如果你们是这场对话的裁判，你们会制定哪些规则来阻止这些诡辩？
 > 3. **学生自己设定规则，做模拟辩论**
 >    各小组把规则贴在黑板上，全班合并成一份规则清单。典型的规则包括：发言者必须回应对方实际说过的话（不能歪曲）、可以质疑前提但不能人身攻击、论证必须与争议焦点相关、结论不能超出证据支持的范围。然后给出一个贴近学生生活的辩题（比如学校应不应该用算法来分班？，让学生用自己制定的规则进行一轮模拟辩论，全班观察哪些规则被遵守了、哪些被违反了。这个环节暴露了一个关键点：学生对权威的态度是矛盾的：他们既想要公正的裁判，又不完全信任任何一个裁判。这自然引出那谁来判定规则是否被违反的问题。
 > 4. **引入简化版语用辩证模型**

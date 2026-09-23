@@ -6,7 +6,7 @@ summary: "研究者与实践者合作，通过计划—行动—观察—反思�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 64
+method_related_count: 62
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -16,7 +16,6 @@ tags:
   - theme/practice-improvement
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Growth]]"
   - "[[Unit of Analysis]]"
   - "[[Scientific Method]]"
   - "[[Reflexivity]]"
@@ -31,7 +30,6 @@ related_concepts:
   - "[[Homework]]"
   - "[[Brainstorming]]"
   - "[[Concept Mapping]]"
-  - "[[Dialogue in Education]]"
   - "[[Scientific Attitude]]"
   - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
@@ -87,7 +85,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-06-25
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 # Action Research
 
@@ -96,7 +94,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> 行动研究（Action Research）是研究者与实践者平等合作，在真实的社会或教育情境中，通过“计划—行动—观察—反思”的螺旋迭代循环解决实际问题的一种[[Paradigm\|研究范式]]。其根本旨趣在于改进实践效能与促进实践者专业[[Growth\|成长]]，而非建构抽象理论体系。[[Kurt Lewin\|库尔特·勒温]]（Kurt Lewin, 1946）最早将其界定为将研究者与实践者的比较优势相结合以解决现实问题的方法；后经发展成为涵盖技术性、实践性与解放性多重取向的方法论体系。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015, Ch.9)]]
+> 行动研究（Action Research）是研究者与实践者平等合作，在真实的社会或教育情境中，通过“计划—行动—观察—反思”的螺旋迭代循环解决实际问题的一种[[Paradigm\|研究范式]]。其根本旨趣在于改进实践效能与促进实践者专业成长，而非建构抽象理论体系。[[Kurt Lewin\|库尔特·勒温]]（Kurt Lewin, 1946）最早将其界定为将研究者与实践者的比较优势相结合以解决现实问题的方法；后经发展成为涵盖技术性、实践性与解放性多重取向的方法论体系。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015, Ch.9)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 真实的社会或教育实践情境，包括课堂教学活动、课程编制与实施、学校日常管理评价、校本教研、教育政策在地转化以及学生行为干预。
@@ -147,7 +145,7 @@ updated: 2026-09-17
 > - **辅助技术** [[Brainstorming\|头脑风暴]]、中立主席法、[[Concept Mapping\|概念图]]、双环学习审议。
 
 > [!feature] 四大关键特征
-> - **参与与合作** 研究者、一线教师与评价者平等协作；师生均为主体而非被动对象，[[Dialogue in Education\|对话]]与协商是研究推进的持续动力。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015, Ch.9)]]
+> - **参与与合作** 研究者、一线教师与评价者平等协作；师生均为主体而非被动对象，对话与协商是研究推进的持续动力。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015, Ch.9)]]
 > - **实践与改进** 以改善实践困境为首要目标，所有干预措施与策略成效必须接受实践现场的持续检验。
 > - **研究与反思** 具备科学系统的架构，包括[[Scientific Attitude\|科学态度]]、严谨方法与系统过程；反思充当连接理论与实践的枢纽。
 > - **评价与推广** 对[[Hypothesis\|研究假设]]、方法路径与实际成效进行客观评测；成果推广意味着在更广泛的实践中接受检验与批评。
@@ -246,7 +244,7 @@ ightarrow$ 独立投票排序”四个阶段，在单次会议中高效收敛群
 ## 报告规范与反身性要求
 
 > [!rule] 报告撰写的核心规范
-> McNiff & Whitehead (2009, p. 15) 强调行动研究报告必须系统陈述 11 项关键内容：明确[[Research Problem\|研究议题]]及其演化为改进议题的过程、干预方法论及其选择理据、干预与特定情境的互动关系、数据收集的时间与对象、数据处理与分析程序、干预监测与同行审查机制、[[Reflexivity\|反身性]]处理与偏误控制、[[Success Criteria\|成功标准]]的界定与推导、结论得出与验证过程、研究者的专业[[Growth\|成长]]以及实践本身的实质变革。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 291–293)]]
+> McNiff & Whitehead (2009, p. 15) 强调行动研究报告必须系统陈述 11 项关键内容：明确[[Research Problem\|研究议题]]及其演化为改进议题的过程、干预方法论及其选择理据、干预与特定情境的互动关系、数据收集的时间与对象、数据处理与分析程序、干预监测与同行审查机制、[[Reflexivity\|反身性]]处理与偏误控制、[[Success Criteria\|成功标准]]的界定与推导、结论得出与验证过程、研究者的专业成长以及实践本身的实质变革。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, pp. 291–293)]]
 >
 > 报告必须兼顾学术严谨性与实践转化度，在阐明干预与改善之间因果关联的同时，清晰界定对学科知识与校本实践的双重贡献。
 

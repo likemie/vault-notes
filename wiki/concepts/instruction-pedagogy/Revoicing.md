@@ -8,7 +8,7 @@ aliases:
 summary: "课堂话语策略，指教师重铸学生话语以澄清观点、突出想法作者权并提升讨论的认知层次"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 2
+related_count: 1
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,8 +17,7 @@ tags:
   - theme/speaking
   - theme/classroom-discourse
   - field/instruction-pedagogy
-related_concepts:
-  - "[[Growth]]"
+related_concepts: []
 related_theories: []
 related_methods: []
 related_persons: []
@@ -28,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: '2026-08-27'
+updated: 2026-09-22
 ---
 
 # Revoicing
@@ -58,7 +57,7 @@ updated: '2026-08-27'
 教师在不改变学生原始观点实质的前提下，将学生的初始回应提升到更大知识范围的智力水平。例如，学生解释自己选择某个交通方式是因为"我喜欢那个航站楼的样子"，教师将其重铸为"所以你基于自己的个人经历做出了选择"——将"喜欢样子"延伸到"个人经历"这一更正式的分析范畴。另一个学生补充说"很多人喜欢长时间坐火车……有些人可能就是为了好玩"，教师则重铸为"所以你基于你所了解的人类行为做出了推测"——将日常直觉提升到了"人类行为知识"的高度([[Argument_Li_2012_Cambridge|Li, 2012, p.94]])。
 
 > [!example]
-> Li 总结：通过这样做，教师为学生提供了"为其自身——尽管被提升了——的想法的智力价值全面宣称功劳"的机会，从而"认识到他们个人的潜能、[[Growth\|成长]]和伟大"([[Argument_Li_2012_Cambridge\|Li, 2012, p.94]])。
+> Li 总结：通过这样做，教师为学生提供了"为其自身——尽管被提升了——的想法的智力价值全面宣称功劳"的机会，从而"认识到他们个人的潜能、成长和伟大"([[Argument_Li_2012_Cambridge\|Li, 2012, p.94]])。
 
 ---
 

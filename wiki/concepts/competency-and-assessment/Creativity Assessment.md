@@ -14,7 +14,7 @@ aliases:
 summary: "创造力测评是对个体的发散思维潜能、创造过程认知加工、实际创新产品与日常观念行为特质的操作化测定与质性评价；在教育与心理研究中用于诊断创造潜能、衡量干预效果并化解效标困境。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 76
+related_count: 77
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
   - "[[Construct]]"
+  - "[[Open-Mindedness]]"
   - "[[Brainstorming]]"
   - "[[Homework]]"
   - "[[Reliability]]"
@@ -109,7 +110,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Creativity Assessment
@@ -135,7 +136,7 @@ updated: 2026-09-17
 
 > [!boundary]- 概念边界
 > - **不等于 [[Creativity\|创造力]][[Construct\|构念]]本身** 创造力是心理潜能、认知能力与人格特质的综合构念；创造力测评是该构念在测量学与教育评价中的操作化实现与具体工具体系。
-> - **不等于 常规标准化智力测验** 智力测验处理收敛性、确定性与逻辑有效性推理；创造力测评处理发散性、开放性、多重解法与新颖适切性产出。
+> - **不等于 常规标准化智力测验** 智力测验处理收敛性、确定性与逻辑有效性推理；创造力测评处理发散性、[[Open-Mindedness|开放性]]、多重解法与新颖适切性产出。
 > - **不等于 单纯的[[Brainstorming\|头脑风暴]]数量统计** 观念数量（流畅性）仅反映构想生成的活跃度，完整的创造力测评必须同时考察构想的独创性、突破常规性与现实适切性。
 
 ---
@@ -158,7 +159,7 @@ updated: 2026-09-17
 ## 核心要素
 
 > [!feature] 4P 框架下的测评维度
-> - **创造者特质（Person）** 测量个体的经验开放性人格、内在动机、[[Creativity\|创造性]][[Self-Efficacy\|自我效能]]（[[Creative Self-Efficacy\|CSE]]）以及情绪创造潜能（如 [[Emotional Creativity Inventory\|ECI]]），主要通过自陈量表实施。[[Argument_Park_2026_TSC\|(Park et al., 2026, Table 1)]]; [[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]
+> - **创造者特质（Person）** 测量个体的经验[[Open-Mindedness|开放性]]人格、内在动机、[[Creativity\|创造性]][[Self-Efficacy\|自我效能]]（[[Creative Self-Efficacy\|CSE]]）以及情绪创造潜能（如 [[Emotional Creativity Inventory\|ECI]]），主要通过自陈量表实施。[[Argument_Park_2026_TSC\|(Park et al., 2026, Table 1)]]; [[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]
 > - **认知加工过程（Process）** 测量[[Problem Finding\|问题发现]]、[[Divergent Thinking\|发散思维]]、远距离语义联想（[[Remote Associates Test\|RAT]]）与收敛评估等高阶认知加工，主要通过计时认知任务实施。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 6)]]
 > - **创造性产品（Product）** 测量个体或团队产出的实物原型、工程设计、艺术作品或学术论文的新颖性与适切性，主要通过专家[[Consensual Assessment Technique\|共识评估技术]]（CAT）或真实性量规实施。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 23)]]
 > - **创造环境支持（Press / Environment）** 测量组织创新气候、教学支持度、心理安全感与资源可及性对创造表现的[[Interaction Effect\|调节效应]]。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 7)]]

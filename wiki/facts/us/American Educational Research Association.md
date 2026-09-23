@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 22
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Academic Achievement]]"
   - "[[Paradigm]]"
-  - "[[Dialogue in Education]]"
   - "[[Output-Oriented Governance]]"
   - "[[APA Style]]"
   - "[[Teaching Assistant]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # American Educational Research Association
@@ -80,7 +79,7 @@ updated: 2026-09-18
 > [!dev-timeline] 组织发展历程
 > - **1916–1930 — 测量与测验运动奠基期** 伴随 20 世纪初心理测验学与[[Positivism\|实证主义]]教育科学的兴起，早期核心聚焦于标准化测验、[[Academic Achievement\|学业成就]]测评方法与学校行政统计数据的规范化。
 > - **1931–1967 — 跨学科拓展与学术独立建制** 学会逐步吸纳社会学、发展心理学、历史学、哲学与人类学等多元学科视角，于 1968 年正式脱离[[National Education Association\|全美教育协会]]成为完全自治的跨学科全国性联合会，并创办旗舰期刊《美国教育研究杂志》（AERJ）。
-> - **1968–2000 — 政策倡导制度化与方法论多元化** 在华盛顿建立常设政府关系办公室，积极参与联邦民权教育立法与科研拨款审议；在理论上见证了[[Qualitative Research\|质性研究]][[Paradigm\|范式]]与实证量化范式的激烈[[Dialogue in Education\|对话]]与制度化整合。
+> - **1968–2000 — 政策倡导制度化与方法论多元化** 在华盛顿建立常设政府关系办公室，积极参与联邦民权教育立法与科研拨款审议；在理论上见证了[[Qualitative Research\|质性研究]][[Paradigm\|范式]]与实证量化范式的激烈对话与制度化整合。
 > - **2001–至今 — [[Output-Oriented Governance\|循证治理]]时代与公共科学传播转型** 面对联邦《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）与《[[Every Student Succeeds Act\|每个学生成功法]]》（ESSA）对实证证据的强制要求，AERA 主导发起[[AERA Congressional Fellowship Program\|国会政策研究员计划]]，举办年度国会山学术走访微培训，并在联邦法庭审理教育平权法案时系统提交“法庭之友”（Amicus Curiae）专家简报，全面深化了学术社团在宏观立法中的制度化穿透力。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 46–47)]]
 
 ---

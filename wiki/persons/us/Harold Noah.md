@@ -10,7 +10,7 @@ summary: "哥伦比亚大学师范学院经济学与教育学讲座教授、院�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 44
+person_related_count: 42
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Paradigm]]"
   - "[[Scientific Paradigm]]"
-  - "[[Growth]]"
   - "[[Champ]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
@@ -41,7 +40,6 @@ related_concepts:
   - "[[Nomothetic]]"
   - "[[Academic Iconography]]"
   - "[[Epistemology]]"
-  - "[[Dialogue in Education]]"
   - "[[Critical Dualism]]"
   - "[[Empiricism]]"
   - "[[Falsification]]"
@@ -75,7 +73,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Harold Noah
@@ -86,7 +84,7 @@ updated: 2026-09-17
 
 > [!person-profile] 人物档案
 > - **身份位置** 美籍英裔比较教育学家、教育经济学家，哥伦比亚大学[[Normal School\|师范学院]]（Teachers College, Columbia University）经济学与教育学讲座教授、前院长，美国[[Comparative and International Education Society\|比较与国际教育学会]]（Comparative and [[International Education]] Society, CIES）前会长（1976–1977）。
-> - **核心角色** 20 世纪下半叶比较教育学[[Positivism\|实证主义]]与科学化[[Paradigm\|范式]]（[[Scientific Paradigm]]）的核心旗手；与[[Max Eckstein\|马克斯·埃克斯坦]]（Max Eckstein）组[[Growth\|成长]]期合作的学术双子星，系统推动学科从历史-哲学定性描述向跨国定量测量与假说检验转型。
+> - **核心角色** 20 世纪下半叶比较教育学[[Positivism\|实证主义]]与科学化[[Paradigm\|范式]]（[[Scientific Paradigm]]）的核心旗手；与[[Max Eckstein\|马克斯·埃克斯坦]]（Max Eckstein）组成长期合作的学术双子星，系统推动学科从历史-哲学定性描述向跨国定量测量与假说检验转型。
 > - **代表贡献** 与 Eckstein 合著《走向比较教育科学》（*Toward a Science of Comparative Education*, 1969），以清晰严密的逻辑勾勒学科源流，确立跨国实证科学规范；推动教育经济学与量化评价融入比较教育核心议程。
 
 > [!citation-card] [[Robert Cowen\|罗伯特·考恩]]论诺亚与埃克斯坦的学科起源史
@@ -189,7 +187,7 @@ updated: 2026-09-17
 > - **学术双子星与合作者** [[Max Eckstein\|马克斯·埃克斯坦]] — 保持长达三十余年的紧密学术合作，合著《走向比较教育科学》等里程碑专著。
 > - **哥大同事与前辈** [[George Bereday\|乔治·贝雷迪]] — 共同任教于哥大[[Normal School\|师范学院]]，继承其比较方法并在经验归纳基础上推进假说检验；[[Isaac Kandel\|艾萨克·坎德尔]] — 哥大师范学院历史-哲学传统奠基人，诺亚对其主观定性分析提出反思并主张实证科学化转向。
 > - **实证科学化同盟** [[C. Arnold Anderson]]、[[Philip Foster]] — 芝加哥学派代表，共同奠定战后美国比较教育社会科学经验实证[[Paradigm\|范式]]。
-> - **论辩与[[Dialogue in Education\|对话]]者** [[Brian Holmes]] — 伦敦大学教育学院代表，围绕经验归纳[[Variable\|变量]]共变 vs [[Critical Dualism\|批判二元论]]演绎[[Problem Approach\|问题法]]展开跨大西洋论战；[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] — 批评诺亚与埃克斯坦的实证科学[[Paradigm\|范式]]将历史哲学遗产贬为非科学。
+> - **论辩与对话者** [[Brian Holmes]] — 伦敦大学教育学院代表，围绕经验归纳[[Variable\|变量]]共变 vs [[Critical Dualism\|批判二元论]]演绎[[Problem Approach\|问题法]]展开跨大西洋论战；[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] — 批评诺亚与埃克斯坦的实证科学[[Paradigm\|范式]]将历史哲学遗产贬为非科学。
 > - **历史批判对象** [[Isaac Kandel\|艾萨克·坎德尔]]、[[Nicholas Hans\|尼古拉斯·汉斯]]、[[Michael Sadler\|迈克尔·萨德勒]] — 将其归为前科学阶段。
 > - **后辈学者启迪** [[Robert Cowen\|罗伯特·考恩]] — 考恩深情回忆诺亚在其初赴美任教时的热情接纳，其 1969 著作解答了考恩学生时代的学科历史困惑并赋予其职业合法性。
 > - **机构与组织** [[Comparative and International Education Society]]（CIES 前会长）、哥伦比亚大学师范学院（讲座教授、院长）。

@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Initial Teacher Training]]"
   - "[[Informed Consent]]"
   - "[[Covert Research]]"
-  - "[[Dialogue in Education]]"
   - "[[New Public Management]]"
   - "[[Research-Practice Partnership]]"
   - "[[Professional Judgment]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # British Educational Research Association
@@ -130,7 +129,7 @@ updated: 2026-09-18
 > [!finding-cards] 关键成效与辐射影响
 > - **学术伦理规范化** 终结了教育领域缺乏独立伦理指导的局面，为弱势未成年人[[Informed Consent\|知情同意]]、隐私保护与[[Covert Research\|隐蔽研究]]设立了清晰底线。
 > - **[[Research Literacy\|研究素养]]倡导** 在国际范围内确立了教师不仅是“研究的消费者”，更是“研究的积极参与者与转化者”的双重专业身份。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 140, 142)]]
-> - **搭建跨界[[Dialogue in Education\|对话]]平台** 在大学科研人员、政府督导部门（[[Ofsted]]）、资助基金会（[[Education Endowment Foundation\|EEF]]）与中小学之间建立了常态化的学术沟通机制。
+> - **搭建跨界对话平台** 在大学科研人员、政府督导部门（[[Ofsted]]）、资助基金会（[[Education Endowment Foundation\|EEF]]）与中小学之间建立了常态化的学术沟通机制。
 
 > [!stat-cards]- 核心规模数据
 > 拥有逾 2,500 名活跃学术会员，设立 30 余个专门兴趣小组，年会年均接收学术论文报告千余篇，伦理指南被全球 50 余个国家的高校和学术机构采纳为教学与研究指导文件。

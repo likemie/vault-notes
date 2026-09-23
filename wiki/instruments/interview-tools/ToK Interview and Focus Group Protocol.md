@@ -6,7 +6,7 @@ aliases:
 summary: "Cole et al. (2015) 开发的半结构化访谈与焦点小组工具，用于收集教师、学生和行政人员对 ToK 课程和批判性思维教学的看法"
 type: instrument
 instrument_type: interview-tool
-instrument_related_count: 12
+instrument_related_count: 11
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#fce7f3"
@@ -26,7 +26,6 @@ tags:
   - instrument/interview
 related_concepts:
   - "[[Critical Thinking]]"
-  - "[[Dialogue in Education]]"
   - "[[International Baccalaureate]]"
   - "[[Praxis]]"
   - "[[Problem Solving]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-01
-updated: 2026-09-11
+updated: 2026-09-22
 ---
 
 # ToK Interview and Focus Group Protocol
@@ -59,7 +58,7 @@ updated: 2026-09-11
 > - **工具类型** [[Semi-structured Interview\|半结构化访谈]]与焦点小组工具，适用于教师、学生和行政人员三类受访群体。
 > - **开发者与年份** [[Argument_Cole_2015_AJE\|Cole et al. (2015)]]。
 > - **测量目的** 收集受访者对 ToK 课程价值、[[Critical Thinking\|批判性思维]]教学实践、学校实施方式和自身经验的主观看法。
-> - **实施方式** 研究者进入学校进行面对面访谈（教师 40 分钟/人）和焦点小组（学生 30 分钟/组，4–7 人），以预设问题为指引进行半结构化[[Dialogue in Education\|对话]]。
+> - **实施方式** 研究者进入学校进行面对面访谈（教师 40 分钟/人）和焦点小组（学生 30 分钟/组，4–7 人），以预设问题为指引进行半结构化对话。
 
 ---
 

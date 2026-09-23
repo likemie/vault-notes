@@ -7,7 +7,7 @@ title: "Argument_Rickinson_2022_UsingResearchWell"
 argument_key: "Argument_Rickinson_2022_UsingResearchWell"
 argument_display_title: "Using research well in educational practice"
 argument_kind: "book-chapter"
-argument_related_count: 41
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -63,10 +63,8 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Evidence Standards]]"
   - "[[Teaching Assistant]]"
-  - "[[Growth]]"
   - "[[Evaluation Research]]"
   - "[[Absorptive Capacity]]"
-  - "[[Dialogue in Education]]"
   - "[[Translational Research]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
@@ -279,7 +277,7 @@ updated: 2026-09-14
 > - **连接专业精神（Connected to teacher professionalism）** 确立为教师职业自尊与胜任标准，直接驱动教学效能与学校信誉。
 > - **集体参与（Collective）** 强调全员协商、集体认同与深度研讨，在互信氛围中形成教研共同体。
 > - **依赖时间与精力投入（Time and effort dependent）** 承认深度研读需要充足工时保障，秉持放慢节奏以换取长远加速的实践耐心。
-> - **好奇心驱动（Curiosity-driven）** 具备探究取向的[[Growth\|成长]]型心智，敢于质疑既有做法，对学术新知保持求索渴望。
+> - **好奇心驱动（Curiosity-driven）** 具备探究取向的成长型心智，敢于质疑既有做法，对学术新知保持求索渴望。
 
 > [!index-table] 表9-2：高质量研究使用六大特征的界定准则与代表性教育者引言（Table 9.2, pp.190–191）
 > | 实践特征分类 | 核心界定准则（Characteristics Criteria） | 代表性教育者原声引述（Educator Quotes） |
@@ -369,7 +367,7 @@ updated: 2026-09-14
 
 > [!pathways] 强化教育实践中高质量研究使用的四大系统进路（pp.193–195）
 > 1. **兼顾证据利用（Pull）与证据生产（Push）** 在推拉机制中扭转中介机构单纯把精力投入在成果单向推送与数据库扩充的惯性，大幅增加对实践者[[Absorptive Capacity\|吸收能力]]、审慎研讨技能以及学校组织使能条件的战略投资。
-> 2. **从是否使用证据深化为如何用好证据** 告别单纯统计点击率、阅读量或引用次数的浅层绩效导向，将专业[[Dialogue in Education\|对话]]引向证据的适切性、参与的审慎性以及领导示范的常态性。
+> 2. **从是否使用证据深化为如何用好证据** 告别单纯统计点击率、阅读量或引用次数的浅层绩效导向，将专业对话引向证据的适切性、参与的审慎性以及领导示范的常态性。
 > 3. **视证据利用为专业实践并倾听实践者真实声音** 打破把一线教师当成实验被试或被动执行者的研究傲慢，深入考察教师在真实课堂中如何理解、调试与体验研究落地。
 > 4. **深化高质量证据使用的跨国与跨系统实证图景** 克服单一国别局限，在国际视野下持续探索不同制度文化与治理结构中高质量研究使用的实践模式与支持机制。
 

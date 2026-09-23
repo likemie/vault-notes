@@ -8,9 +8,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 23
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: international-union-federation
 headquarters: "Brussels, Belgium"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Performativity]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Policy Network]]"
-  - "[[Dialogue in Education]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Network Governance]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Education International
@@ -101,7 +100,7 @@ updated: 2026-09-18
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **《教师地位全球报告》（Global Report on the Status of Teachers）** 每三年定期发布全球旗舰调研报告，系统追踪全球数千万教师的身心健康、职业倦怠、工资福利与专业自主权。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 213)]]
-> - **[[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP）战略治理机制** 联合东道国政府、[[OECD\|经合组织]]共同主办的年度高层政策峰会，成为全球唯一制度化实现政界高官与工会领袖基于实证证据平等[[Dialogue in Education\|对话]]的顶层设计。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211–212, 216)]]
+> - **[[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP）战略治理机制** 联合东道国政府、[[OECD\|经合组织]]共同主办的年度高层政策峰会，成为全球唯一制度化实现政界高官与工会领袖基于实证证据平等对话的顶层设计。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211–212, 216)]]
 > - **教师专业标准与跨国政策简报** 研制发布全球教师专业伦理守则、早期儿童教育指南、职业技术教育政策以及反私有化专项监测报告。
 > - **跨国调查指标创新介入** 推动 [[Teaching and Learning International Survey\|TALIS]] 2013 增设分布式领导力量表，推动 TALIS 2018 增设教师工作压力成因量表。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 210)]]
 

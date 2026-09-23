@@ -6,7 +6,7 @@ aliases:
 summary: "指大学从相对封闭的学术共同体转变为连接学生、教师、政府、市场和其他行动者的多利益相关者网络节点的制度形态。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Academic Freedom]]"
 related_theories:
   - "[[Societies of Control]]"
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Peer Debriefing]]"
 related_persons: []
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-20
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Stakeholder University
@@ -87,7 +88,7 @@ updated: 2026-09-17
 ## 争议与批评
 
 > [!warning]
-> - **学术共同体本质的丧失** 当大学成为利益相关者平台，学术共同体的核心实践——基于学科逻辑的[[Knowledge Production\|知识建构]]、[[Peer Debriefing\|同行审议]]自主性、[[Academic Freedom\|学术自由]]的集体捍卫——可能被利益相关者的多元竞争需求所侵蚀([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.222]])
+> - **学术共同体本质的丧失** 当大学成为利益相关者平台，学术共同体的核心实践——基于学科逻辑的[[Knowledge Building Theory|知识建构]]、[[Peer Debriefing\|同行审议]]自主性、[[Academic Freedom\|学术自由]]的集体捍卫——可能被利益相关者的多元竞争需求所侵蚀([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, p.222]])
 > - **自动化代理的治理角色**[[Learning Analytics\|学习分析]]系统和 [[Online Self-Assessment\|OSA]] 算法作为"利益相关者"参与大学治理，引发对非人行动者决策权的担忧——算法在何种意义上可以成为"利益相关者"？其利益由谁定义？([[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, pp.224–226]])
 > - **概念适用性** Wæraas 和 Solbakk 的研究主要基于挪威大学案例，概念在非西方语境中的适用性有待验证
 

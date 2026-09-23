@@ -27,7 +27,6 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Epistemological Vigilance]]"
   - "[[Reflexivity]]"
-  - "[[Dialogue in Education]]"
   - "[[Epistemology]]"
   - "[[Epistemic Provocateur]]"
   - "[[Epistemic Agency]]"
@@ -37,6 +36,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Hypothesis]]"
   - "[[Growth]]"
+  - "[[Dialogue in Education]]"
   - "[[Cooperative Learning]]"
   - "[[STEM Education]]"
   - "[[Document]]"
@@ -92,7 +92,7 @@ issuing_organization: ""
 > 在[[Generative Artificial Intelligence\|生成式人工智能]]（generative artificial intelligence, GenAI）深度融入科学教育的背景下，大语言模型展现出的表面语义流畅性与潜在的生成虚构（[[AI Hallucination]]）对学生的认知判断构成了严峻挑战。既有探索多聚焦于人工智能对探究产出与推理结果的辅助效能，却极少考察学生在人机协同建构[[Scientific Explanation\|科学解释]]过程中如何对算法生成的知识展开批判性评估与核验。初中科学学习者在显性[[Epistemic Scaffolding\|认识论支架]]（explicit epistemic [[Scaffolding]]）的支持下，如何践行[[Epistemological Vigilance\|认识论警觉]]（epistemic vigilance）？学科解释标准与[[Reflexivity\|反思性]]提问提示语如何协同引导学生对人机生成的文本与多模态图像开展内容、信源及自我认知层面的审问、核对与迭代重构？
 
 > [!claim] 核心主张
-> 初中生在人机协同建构科学解释时具备践行多维认识论警觉的认知潜能；通过显性学科解释标准（直接主导内容评估并间接辐射信源与自身监控）与反思性提问提示语（显性驱动信源核验与接收者自我监控并锚定于内容质量）构成的双轨协同支架，学生能够将生成式人工智能定位为信息源、[[Dialogue in Education\|对话]]伙伴与“[[Epistemology|认识论]]挑衅者”（[[Epistemic Provocateur]]），在多轮提示词重构、多模态图文修正与权威教科书[[Triangulation\|三角互证]]中牢固维系核心[[Epistemic Agency\|认识主体性]]，有效阻断心智盲从与消极[[Cognitive Offloading\|认知卸载]]。（pp.2–7, 22–24）
+> 初中生在人机协同建构科学解释时具备践行多维认识论警觉的认知潜能；通过显性学科解释标准（直接主导内容评估并间接辐射信源与自身监控）与反思性提问提示语（显性驱动信源核验与接收者自我监控并锚定于内容质量）构成的双轨协同支架，学生能够将生成式人工智能定位为信息源、对话伙伴与“[[Epistemology|认识论]]挑衅者”（[[Epistemic Provocateur]]），在多轮提示词重构、多模态图文修正与权威教科书[[Triangulation\|三角互证]]中牢固维系核心[[Epistemic Agency\|认识主体性]]，有效阻断心智盲从与消极[[Cognitive Offloading\|认知卸载]]。（pp.2–7, 22–24）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 韩国京畿道 8 名初中二年级学生在两节课后科学探究课（利用 Canva 协同建构植物生长解释、利用 ChatGPT 协同建构真菌分类解释）中的微观互动对话、数字图文制品与回溯访谈。
@@ -115,7 +115,7 @@ issuing_organization: ""
 > 理论框架将抽象的[[Epistemology\|认识论]]原则转化为课堂中可操作的分析维度：
 > 1. 将认知科学中的信息防御机制，具体化为课堂中学生对[[Generative Artificial Intelligence\|生成式人工智能]]输出所进行的三类评价动作；
 > 2. 以四项科学解释标准为参照，让学生对文本与图像的审问有章可循，而非凭主观感觉判断；
-> 3. 以[[Reflexivity\|反思性]]提问引导学生跳出文本表面，去探究背后数据来源并检查自己是否真正听懂，进而让人机[[Dialogue in Education\|对话]]转化为深度的科学探究过程。（pp.4–7）
+> 3. 以[[Reflexivity\|反思性]]提问引导学生跳出文本表面，去探究背后数据来源并检查自己是否真正听懂，进而让人机对话转化为深度的科学探究过程。（pp.4–7）
 
 > [!example]- 图1：概念框架
 > ![](https://img.mylikemie.icu/sources/Han_Gutierez_2026_IJSE/figures/Han_Gutierez_2026_IJSE_Fig1_Conceptual_Framework.jpg)
@@ -177,7 +177,7 @@ issuing_organization: ""
 
 在科学探究中，[[Generative Artificial Intelligence|生成式人工智能]]产出的文本常表现为零散知识点的并列罗列，或遗漏核心的上位科学概念。微观[[Discourse Analysis|话语分析]]表明，掌握具体评价标准的中学生能够敏锐定位此类逻辑缺陷，并通过重构提示词引导生成内容向深层机制演进。
 
-> [!line-a] 案例一：学生 A 与 B 重构植物器官协同因果故事（[[Dialogue in Education\|对话]] 1）
+> [!line-a] 案例一：学生 A 与 B 重构植物器官协同因果故事（对话 1）
 > - **初始提示词与算法输出** 学生在 Canva 中输入了一个宽泛的问题：“你能解释植物为什么能长得这么好吗？”（行 12）。Canva 生成了一大段文字，并列列举了光合作用、根、茎、叶、繁殖策略以及共生关系（行 13）。
 > - **对照标准进行批判性审查** 学生 A 和 B 读完后立刻讨论：“光合作用、根、茎、叶、繁殖、共生……这些内容符合科学道理吗？它列举了很多观点，但真正解释了植物为什么能生长吗？”（行 14）。学生 B 指出：“这个回答把每个器官分开来讲。我们应该问它们是如何协同工作的。”（行 17a）。
 > - **重构提示词以补全因果链条** 学生 B 随后输入了更具针对性的提示词：“解释根、茎、叶的相互作用如何帮助植物良好生长”（行 20）。随后 Canva 生成了包含“根部吸水吸肥—茎部输送—叶片光合作用造糖并回传根部”的完整因果循环。学生 B 评价道：“现在的解释说明了发生了什么以及为什么发生，这清楚多了。”（行 30）。（pp.11–13）

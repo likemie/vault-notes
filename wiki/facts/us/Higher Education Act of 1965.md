@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 9
+fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ tags:
 related_concepts:
   - "[[Normal School]]"
   - "[[International Education]]"
-  - "[[Dialogue in Education]]"
 related_theories:
   - "[[Navigational Framework for Educational Researchers]]"
 related_methods: []
@@ -44,7 +43,7 @@ related_persons: []
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Higher Education Act of 1965
@@ -114,6 +113,6 @@ updated: 2026-09-18
 
 > [!summary] 制度地位与政策时间学启示
 > 1. **塑造美国高等教育大众化与多元化** HEA 彻底终结了美国高等教育专属于精英阶层的历史格局，数千万低收入家庭学子凭借佩尔助学金与联邦贷款得以完成学业，同时使黑人高校与发展中院校获得了长期稳定的联邦制度扶持。
-> 2. **政策时间系统（Chronosystem）的关键实证** 正如 [[Argument_Serpell_2020_EP\|Serpell (2020)]] 在教育[[Navigational Framework for Educational Researchers\|政策导航框架]]中所强调，HEA 的重新授权属于极少见、高权重、跨越数届国会的“宏观制度周期”。这类巨型法案从前期议题建构、证据搜集、委员会听证到两院合议，往往跨越整整一个两年国会任期甚至数年。教育科研人员若仅在法案临近表决时方才仓促介入，将完全丧失[[Dialogue in Education\|对话]]机会；唯有在立法酝酿初期即依托长期实证储备参与国会听证，方能有效驱动政策形成。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 45–46)]]
+> 2. **政策时间系统（Chronosystem）的关键实证** 正如 [[Argument_Serpell_2020_EP\|Serpell (2020)]] 在教育[[Navigational Framework for Educational Researchers\|政策导航框架]]中所强调，HEA 的重新授权属于极少见、高权重、跨越数届国会的“宏观制度周期”。这类巨型法案从前期议题建构、证据搜集、委员会听证到两院合议，往往跨越整整一个两年国会任期甚至数年。教育科研人员若仅在法案临近表决时方才仓促介入，将完全丧失对话机会；唯有在立法酝酿初期即依托长期实证储备参与国会听证，方能有效驱动政策形成。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 45–46)]]
 
 ---

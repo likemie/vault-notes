@@ -30,7 +30,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Heterogeneity]]"
   - "[[Scaffolding]]"
-  - "[[Dialogue in Education]]"
   - "[[Structured Teaching]]"
   - "[[Metacognition]]"
   - "[[Cognitive Offloading]]"
@@ -60,6 +59,7 @@ related_concepts:
   - "[[Argument Mapping]]"
   - "[[Epistemology]]"
   - "[[Brainstorming]]"
+  - "[[Open-Mindedness]]"
   - "[[Problem-Based Learning]]"
   - "[[STEM Education]]"
   - "[[Hypothesis]]"
@@ -133,7 +133,7 @@ issuing_organization: ""
 > [[Generative Artificial Intelligence\|生成式人工智能]]（以 ChatGPT 为代表）在高等教育中的迅速普及引发了关于学生高阶心智发展的广泛争议。既有综述多将[[Higher-Order Thinking Skills\|高阶思维]]笼统合并为一般的[[Academic Achievement\|学业表现]]、学习动机或宽泛的认知参与，未能系统区分[[Convergent Thinking\|收敛性认知加工]]（如[[Critical Thinking\|批判性思维]]）与[[Divergent Thinking\|发散性认知加工]]（如[[Creativity\|创造性思维]]）在人机交互中所受到的[[Heterogeneity\|异质性]]塑造。本研究旨在系统探究：在高等教育不同教学情境与任务设计下，ChatGPT 如何分别塑造大学生的批判性思维与创造性思维？二者在人机协同学习中呈现何种共现演进模式？哪些教学调节条件能够促进高阶思维的协同发展并规避认知退化风险？
 
 > [!claim] 核心主张
-> ChatGPT 对大学生认知发展的影响并非技术固有的必然属性，而是高度依存于任务的教学情境与[[Scaffolding\|脚手架]]设计。当嵌入探究导向、反思提示与[[Dialogue in Education\|对话]]式互动的[[Structured Teaching\|结构化教学]]设计中时，ChatGPT 能够作为认知放大器与中介伙伴，通过促进[[Metacognition\|元认知]]监控、论证建构与发散构想，驱动批判性思维与创造性思维的“双向协同增益”；反之，在缺乏教学支架的非结构化或工具主义应付情境中，ChatGPT 会诱发严重的[[Cognitive Offloading\|认知卸载]]与心智惰性，导致“创造性繁荣伴随批判性萎缩”的非对称发展，乃至批判与创造能力的“双重认知侵蚀”。
+> ChatGPT 对大学生认知发展的影响并非技术固有的必然属性，而是高度依存于任务的教学情境与[[Scaffolding\|脚手架]]设计。当嵌入探究导向、反思提示与对话式互动的[[Structured Teaching\|结构化教学]]设计中时，ChatGPT 能够作为认知放大器与中介伙伴，通过促进[[Metacognition\|元认知]]监控、论证建构与发散构想，驱动批判性思维与创造性思维的“双向协同增益”；反之，在缺乏教学支架的非结构化或工具主义应付情境中，ChatGPT 会诱发严重的[[Cognitive Offloading\|认知卸载]]与心智惰性，导致“创造性繁荣伴随批判性萎缩”的非对称发展，乃至批判与创造能力的“双重认知侵蚀”。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2022 至 2025 年间发表的 67 项关于 ChatGPT 影响高校学生高阶思维的实证研究（涵盖量化实验、质性反思与[[Mixed Methods Research\|混合方法]]设计）。
@@ -271,7 +271,7 @@ issuing_organization: ""
 ### 论证步骤一　ChatGPT 对批判性思维具有双向调节效应：反思催化与心智惰性并存
 
 > [!claim] 步骤一主张
-> ChatGPT 对大学生[[Critical Thinking\|批判性思维]]（[[Convergent Thinking\|收敛性认知加工]]）的影响呈现鲜明的双刃剑特征：在具备显性引导与反思规程的教学情境中，它能作为[[Metacognition\|元认知]][[Dialogue in Education\|对话]][[Scaffolding\|脚手架]]有效催化证据评估、论证深化与事实核查；但在缺乏教学支架的场景中，极易诱发严重的[[Cognitive Offloading\|认知卸载]]、思维怠惰与论证逻辑退化。
+> ChatGPT 对大学生[[Critical Thinking\|批判性思维]]（[[Convergent Thinking\|收敛性认知加工]]）的影响呈现鲜明的双刃剑特征：在具备显性引导与反思规程的教学情境中，它能作为[[Metacognition\|元认知]]对话[[Scaffolding\|脚手架]]有效催化证据评估、论证深化与事实核查；但在缺乏教学支架的场景中，极易诱发严重的[[Cognitive Offloading\|认知卸载]]、思维怠惰与论证逻辑退化。
 
 > [!ref-table]- 表5：ChatGPT 对批判性思维影响的核心主题、情境与调节[[Variable\|变量]]（Key Themes on Critical Thinking）
 > | 影响维度 | 主题名称与频数（Theme & n） | 代表性教学情境（Representative Contexts） | 调节条件与关键变量（Moderators / Conditions） | 代表性实证研究（Illustrative Studies） |
@@ -322,7 +322,7 @@ issuing_organization: ""
 > | **赋能机制** | **[[Divergent Thinking\|发散思维]]与构想拓展（n = 31）** | 论文开题[[Brainstorming\|头脑风暴]]、设计项目规划、开放式解题 | 自主探究模式、探究早期探索阶段、发散导向 | Sarwanti et al. (2024); Villarino (2025); Urban et al. (2024); Xu (2025) |
 > | **赋能机制** | **结构与表达脚手架（n = 24）** | EFL 英语学术写作、文学创意、跨体裁转写 | 语言支架介入、多轮草稿迭代修改 | Avsheniuk et al. (2024); Kurt & Kurt (2024); Tseng & Lin (2024); Werdiningsih et al. (2024) |
 > | **赋能机制** | **对话互动与视角转换（n = 18）** | 议题辩论模拟、跨学科探究、[[Role-playing\|角色扮演]]设计 | 提示词角色设计、多视角反思交互循环 | Lee et al. (2024); Darmawansah et al. (2025); [[Argument_Li_2025_HSSC\|Li et al. (2025)]]; Cake (2025) |
-> | **赋能机制** | **情感激活与焦虑缓解（n = 16）** | 故事叙述构思、创意剧本策划、开放叙事任务 | 任务表达性构架、探索开放性、心理安全感 | George-Reyes et al. (2024); Gervacio (2024); Jayasinghe (2024); Alzubi et al. (2025); Kofahi & Husain (2025) |
+> | **赋能机制** | **情感激活与焦虑缓解（n = 16）** | 故事叙述构思、创意剧本策划、开放叙事任务 | 任务表达性构架、探索[[Open-Mindedness\|开放性]]、心理安全感 | George-Reyes et al. (2024); Gervacio (2024); Jayasinghe (2024); Alzubi et al. (2025); Kofahi & Husain (2025) |
 > | **赋能机制** | **[[Structured Teaching\|结构化教学]]介导增益（n = 21）** | 翻转课堂、基于设计的学习、ADDIE 教学模型 | 显性教学框架、反思性提示、创意评估量规 | Li (2023); Abdelmagid et al. (2025) |
 > | **风险限制** | **过度依赖与创造被动（n = 20）** | 期末论文写作、常规作业应付、通用学术任务 | 低 AI 素养、缺乏教学指导、直接采纳答案 | Awal (2024); Azmi et al. (2024); Zhang et al. (2024) |
 > | **风险限制** | **个人声音剥落与真实性丧失（n = 15）** | 反思性日记、个性化叙事、情感表达写作 | 身份认同导向任务、缺乏个性化文风保留训练 | Monib et al. (2025); Al-Alami (2024) |
@@ -453,7 +453,7 @@ issuing_organization: ""
 >
 > *These divergent findings suggest that the influence of ChatGPT on student cognition is not intrinsic to the tool itself but contingent upon pedagogical framing, task design, and instructional scaffolding... unstructured implementation frequently led to asymmetrical or diminished cognitive engagement.*
 
-> [!citation-card]- [[Dialogue in Education\|对话]]伙伴而非便利工具
+> [!citation-card]- 对话伙伴而非便利工具
 > 我们建议嵌入显性支架——如[[Reflexivity\|反思性]]提示、量规引导评估和 AI 素养培训——以发挥 ChatGPT 作为对话伙伴而非便利工具的潜能。教学设计的启示在于通过递归探究任务和多源反馈回路协同激活批判性与创造性过程。（p. 1）
 >
 > *We recommend embedding explicit scaffolds — such as reflective prompts, rubric-guided evaluation, and AI-literacy training — to harness ChatGPT's potential as a dialogic partner rather than a convenience tool.*

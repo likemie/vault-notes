@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[International Schools]]"
   - "[[International Baccalaureate]]"
-  - "[[Growth]]"
   - "[[International Education]]"
 related_theories: []
 related_methods: []
@@ -38,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-09-12
+updated: 2026-09-22
 ---
 
 # International Schools Association
@@ -53,7 +52,7 @@ updated: 2026-09-12
 > - **服务对象** 第二次世界大战后在世界各地增加的国际学校，最初帮助成员处理共同办学问题。
 > - **历史作用** ISA 把日内瓦教师的课程难题连接到跨校会议与[[UNESCO\|联合国教科文组织]]合同，也因资源和会员重点限制推动[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）项目另设专门组织。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 15–19)]]
 
-国际学校逐步增设高中最后阶段后，大学准备成为共同问题。国家考试要求学校分别维持不同课程，较小国籍群体又难以获得完整支持，国际毕业会考因此进入 ISA 的议程。协会提供联系网络和合法项目入口，但没有形[[Growth|成长]]期开发课程与管理考试的能力。
+国际学校逐步增设高中最后阶段后，大学准备成为共同问题。国家考试要求学校分别维持不同课程，较小国籍群体又难以获得完整支持，国际毕业会考因此进入 ISA 的议程。协会提供联系网络和合法项目入口，但没有形成长期开发课程与管理考试的能力。
 
 ---
 

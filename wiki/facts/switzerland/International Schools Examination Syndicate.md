@@ -9,7 +9,7 @@ subtype: organization
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_persons:
   - "[[Bob Leach]]"
   - "[[Alec Peterson]]"
   - "[[Gerard Renaud]]"
+  - "[[Christopher Martin]]"
   - "[[John Goormaghtigh]]"
 related_facts:
   - "[[International School of Geneva]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # International Schools Examination Syndicate
@@ -107,7 +108,7 @@ updated: 2026-09-17
 > | **福特基金** | 在 Oxford 和美国大学理事会作出明确投入后，承担[[Action Research\|行动研究]]风险。 | 把课程、考试、学校招募、家长风险和大学承认推进为小规模真实试验。 | 项目能否取得大学承认并在实践中运行仍需塞夫尔会议及后续考试验证。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 18–24)]] |
 
 > [!case] 二十世纪基金把外部报告和学校调查嵌入资助
-> 《日内瓦论坛报》编辑、二十世纪基金受托人乔治-亨利·马丁（Georges-Henri Martin）把 ISES 带入基金会视野。基金会委托马丁·梅耶（Martin Mayer）撰写可行性调查结果，并资助 Mayer and [[International School of Geneva\|Ecolint]] 教师吉恩·沃拉克（Gene Wallach）访问可能采用项目的国际学校。资金因而同时产生行政能力和外部检验证据，学校的课程需求、升学方向与采用意愿也开始进入组织决策。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 20–22)]]
+> 《日内瓦论坛报》编辑、二十世纪基金受托人乔治-亨利·[[Christopher Martin|马丁]]（Georges-Henri Martin）把 ISES 带入基金会视野。基金会委托马丁·梅耶（Martin Mayer）撰写可行性调查结果，并资助 Mayer and [[International School of Geneva\|Ecolint]] 教师吉恩·沃拉克（Gene Wallach）访问可能采用项目的国际学校。资金因而同时产生行政能力和外部检验证据，学校的课程需求、升学方向与采用意愿也开始进入组织决策。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 20–22)]]
 
 > [!case] Café de Remor 外的凌晨谈话把兼职困境转化为全职安排
 > 一次令人挫折的行政会议结束后，Desmond Cole、Harlan Hanson and [[Alec Peterson]] 凌晨一点在日内瓦 Café de Remor 外继续讨论。三人判断，没有人全职承担，项目便无法启动。Alec Peterson 原计划在学术休假期间前往伯克利教学，Harlan Hanson 随即协调伯克利教育学院，把教学压缩到 1967 年夏季一个学期。新的时间安排使 Alec Peterson 可以从 1966 年末起集中近一年推进项目。随后，他与 Harlan Hanson 在纽约同谢普·斯通（Shep Stone）会谈约一小时，完成福特基金 300,000 美元资助的最后确认。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 23–24)]]

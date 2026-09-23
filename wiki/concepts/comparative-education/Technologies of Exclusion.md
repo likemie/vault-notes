@@ -8,7 +8,7 @@ aliases:
 summary: "专业知识生产者或治理机构通过创设高门槛的专门术语、复杂心理测量学模型、严苛准入资质与算法黑箱，将非专业公众与外行质疑排斥在决策审议之外的话语与技术屏障。在教育治理中，面对“专家知识民主化”（人人自诩教育专家）带来的普遍公众争鸣，政策中介机构（如世行与 OECD）策略性利用随机对照试验（RCTs）、潜变量 IRT 模型与指标矩阵等排除性技术，为政策决策构筑不可逾越的科学理性与专业权威护城河。"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Policy Ambiguity]]"
-  - "[[Dialogue in Education]]"
   - "[[Return on Investment]]"
   - "[[Evidence-Based Education]]"
   - "[[Governing by Numbers]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Technologies of Exclusion
@@ -95,7 +94,7 @@ updated: 2026-09-17
 ## 核心要素
 
 > [!feature] 核心要素
-> - **话语晦涩化与符号设卡（Linguistic Obfuscation）** 创造高度抽象的统计学与心理学专门词汇（如潜[[Variable\|变量]]、边际效应、项目反应参数），使得缺乏计量背景的一线教师与家长丧失[[Dialogue in Education\|对话]]资格。
+> - **话语晦涩化与符号设卡（Linguistic Obfuscation）** 创造高度抽象的统计学与心理学专门词汇（如潜[[Variable\|变量]]、边际效应、项目反应参数），使得缺乏计量背景的一线教师与家长丧失对话资格。
 > - **证据等级的阶级化固化（Hierarchisation of Evidence）** 强制推行以 [[Randomised Controlled Trials\|RCTs]] 和大型计量回归为顶层的“证据金字塔”，将丰富的质性[[Fieldwork\|田野调查]]、教师本土实践叙事贬抑为“低级传闻证据”。
 > - **技术工具的黑箱化封装（Black-Box Modeling）** 将复杂的价值偏好深埋于复杂的加权算法、缺失值填补模型与成熟度量规之中，使外部学者无法对其先验假定展开有效审计。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
 

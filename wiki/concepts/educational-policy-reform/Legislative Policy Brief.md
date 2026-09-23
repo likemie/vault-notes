@@ -7,7 +7,7 @@ aliases:
 summary: "结合实证研究综述、政策诉求与专业律师起草的法定示范条文于一体的专业政策沟通载体，遵循极简定调原则，旨在消除科学证据与立法语言之间的制度性隔阂，直接为国会与立法机构提供可操作的法案条文草案。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Document]]"
   - "[[Value Neutrality]]"
-  - "[[Dialogue in Education]]"
   - "[[Research Utilization]]"
   - "[[Research-Policy Gap]]"
   - "[[Policymaking Chronosystem]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Legislative Policy Brief
@@ -102,7 +101,7 @@ updated: 2026-09-18
 > [!rule] 国会山极简传播纪律与“诉求的艺术”
 > - **克服信息过度供给（Information Overload）** 索里安与鲍格（Sorian & Baugh, 2002）针对全美近 300 名州政府高级政策制定者开展的大规模实证调研显示，学术界向政策界传递信息时普遍存在严重的“过度供给”倾向，决策者被海量繁复的技术细节淹没。
 > - **“少即是多”与一页纸纪律（One-Page Handout）** 决策者极度渴求直击要害、高度浓缩的信息输入。简报必须在 1 页纸篇幅内以清晰图表和精炼要点交代背景、证据与法条诉求。
-> - **诉求的艺术（The Art of the Ask）** 研究者必须掌握在与幕僚[[Dialogue in Education\|对话]]的 3 分钟窗口内，精准亮明身份、简述证据、出示示范法条文本并清晰提出立法请求的沟通技巧。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
+> - **诉求的艺术（The Art of the Ask）** 研究者必须掌握在与幕僚对话的 3 分钟窗口内，精准亮明身份、简述证据、出示示范法条文本并清晰提出立法请求的沟通技巧。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 
 ---
 

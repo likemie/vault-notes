@@ -36,6 +36,7 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Knowledge Production]]"
+  - "[[Trust Calibration]]"
   - "[[Measurement Alignment]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Metacognition]]"
@@ -45,6 +46,7 @@ related_concepts:
   - "[[Educational Level]]"
   - "[[Hypothesis]]"
   - "[[Chain of Evidence]]"
+  - "[[Open-Mindedness]]"
   - "[[Justificatory Standards]]"
   - "[[Surface and Deep Learning]]"
   - "[[Theoretical Validity]]"
@@ -94,7 +96,7 @@ title: "Argument_Greene_2018_JEP"
 argument_key: "Argument_Greene_2018_JEP"
 argument_display_title: "A meta-analytic review of the relationship between epistemic cognition and academic achievement"
 argument_kind: "journal-article"
-argument_related_count: 62
+argument_related_count: 64
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -291,7 +293,7 @@ issuing_organization: ""
 > | 真理的可及性 (Attainability of truth) | 10 | .050 | [-.001, .100] |
 > | 知识的结构 (Structure of knowledge) | 8 | -.035 | [-.219, .152] |
 > | 微观可变性 (Texture & Variability) | 2 | .148 | [-.065, .328] |
-> 哲学家极其看重知识如何通过证言（权威）被证成，但自陈量表中对“权威”的粗糙测量（要么全信、要么全盘否定）未能捕捉到学生在真实情境中对多元信息源的合理信任（calibrated trust）。而建构主义信念等因素之所以预测力强，可能是因为它们作为整体学习动力变量卷入其中，这提示未来的问卷设计需要进行严格的语义剥离。
+> 哲学家极其看重知识如何通过证言（权威）被证成，但自陈量表中对“权威”的粗糙测量（要么全信、要么全盘否定）未能捕捉到学生在真实情境中对多元信息源的合理信任（[[Trust Calibration|Calibrated Trust]]）。而建构主义信念等因素之所以预测力强，可能是因为它们作为整体学习动力变量卷入其中，这提示未来的问卷设计需要进行严格的语义剥离。
 
 ---
 
@@ -391,7 +393,7 @@ issuing_organization: ""
 >   - 陈述性与程序性知识考核具有高度的闭合性与确定性，预设了静态、唯一的标准答案。
 >   - 持有“朴素二元论”（认为知识是由权威直接给定的事实集合）的学生，通过死记硬背与模式化套用算法，在机械考试中反而能够取得极高分数；
 >   - 相反，如果学生在此类任务中过度调动“知识的暂定性”、“多源批判性怀疑”等高级认识论信念，不仅无法获得额外分数收益，甚至可能因过度思辨而干扰对固定事实的快速检索与算法执行。这合理解释了为什么认识论认知对程序性知识的预测效应近乎为零（$r = .077$）。
-> - **机制二：开放性任务与元认知驱动（认识论认知如何赋能高阶思维？）**
+> - **机制二：[[Open-Mindedness|开放性]]任务与元认知驱动（认识论认知如何赋能高阶思维？）**
 >   - **驱动概念转变（Conceptual Change）** 科学与人文学科的核心概念往往反直觉（如牛顿力学、进化论、历史相对性）。持有静态简单知识观的学生倾向于将新信息曲解并塞入旧经验中或直接排斥；只有具备高阶知识演化观与反思意识的学生，才愿意经历认知失衡，推翻旧图式并实现深层概念重构。
 >   - **赋能多源证据协调与批判性论证（Argumentation）** 论证的本质是处理不确定性（Uncertainty）与学术争议。当面对互斥的信息源时，朴素者容易滑向盲信权威或虚无主义的“人人皆有理”；成熟的认识论认知（如评价主义、多源证成）则为学生提供了**确证规则（[[Justificatory Standards\|Justificatory Standards]]）**，驱动他们比较证据权重、识别论证漏洞、评估作者立场与方法可靠性。
 > - **机制三：因果边界与双向互惠演进模型（Reciprocal Model）**

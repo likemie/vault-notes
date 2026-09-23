@@ -6,7 +6,7 @@ aliases:
 summary: "以经过选择的问题组织目标、学习活动与评估的教学系统，强调先备知识激活、协作探究、知识应用、模型修正和自我监控。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Cooperative Learning]]"
   - "[[Discovery Learning]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Open-Mindedness]]"
   - "[[Epistemology]]"
   - "[[Epistemic Cognition]]"
   - "[[Academic Achievement]]"
@@ -79,7 +80,7 @@ related_instruments: []
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Problem-Based Learning
@@ -228,7 +229,7 @@ updated: 2026-09-22
 ### 命题三　先备知识、问题结构和导师能力共同调节 PBL 的效果
 
 > [!concept-lens] 实施条件
-> 学生需要知识支点来建立因果解释，也需要保留搜索和选择的空间。导师负责在开放性与支架之间持续调整。
+> 学生需要知识支点来建立因果解释，也需要保留搜索和选择的空间。导师负责在[[Open-Mindedness|开放性]]与支架之间持续调整。
 
 > [!claim] [[John Hattie\|Hattie, J.]]
 > **引入时机影响推理质量** Hattie 将 PBL 的低平均效应部分归因于过早实施。新手知识库中的错误较多，容易把无关材料加入解释，并从未知条件逆向推导；专家较常从已知条件向未知问题推进。[[Argument_Hattie_2015_SOTLP\|Walker & Leary (2009, as cited in Hattie, 2015b, pp. 85–86)]] 还发现，新手的逆向推理错误可能持续到教学结束之后。因此，事实和概念基础需要在[[Problem Solving\|复杂问题解决]]之前或过程中得到明确支持。[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 85–86)]]
@@ -374,7 +375,7 @@ updated: 2026-09-22
 > [!case] 问题结构与教师支持的实施边界
 > 一门面向新手的课程若直接给出高度开放的问题，学生可能因知识不足而加入无关材料、形成错误模型，并从未知条件逆向推理。课程若把每个步骤、资料来源和正确路径都预先规定，学生又无法练习搜索概念工具、比较解释和选择应用方案。
 >
-> 教师需要根据学生当前知识调整支架。初期可以提供必要概念、资料范围和检查点，随后逐步释放[[Problem Finding\|问题界定]]、检索和方案选择的责任。教师还要持续追踪小组探索方向，发现知识错误并组织反馈。PBL 的开放性因此是一项随学习进展调整的设计[[Variable\|变量]]。[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 85–86)]]；[[Argument_Blass_2020_JESP\|Blass (2020, p. 95)]]
+> 教师需要根据学生当前知识调整支架。初期可以提供必要概念、资料范围和检查点，随后逐步释放[[Problem Finding\|问题界定]]、检索和方案选择的责任。教师还要持续追踪小组探索方向，发现知识错误并组织反馈。PBL 的[[Open-Mindedness|开放性]]因此是一项随学习进展调整的设计[[Variable\|变量]]。[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 85–86)]]；[[Argument_Blass_2020_JESP\|Blass (2020, p. 95)]]
 
 > [!case] 高等教育中的应用领域
 > PBL 在医学、护理、药学、牙科与工程等专业广泛应用，其促进的效果因专业而异。工程教育中，PBL 支持学生发展复杂工程问题的解决能力；医学教育中，PBL 培养[[Critical Thinking\|批判性思维]]、协作与自我管理技能，促进[[Surface and Deep Learning\|深层学习]]与知识保持；创业教育中，PBL 增强创新思维与风险承担等创业能力。PBL 还与能力本位教育、可雇佣性与[[Lifelong Learning\|终身学习]]政策一致。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 953–954)]]

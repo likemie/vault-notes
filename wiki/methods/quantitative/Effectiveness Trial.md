@@ -10,7 +10,7 @@ summary: "循证教育研究中用于评估干预方案在日常、真实复杂�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 35
+method_related_count: 34
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Variable]]"
   - "[[Attrition]]"
-  - "[[Dialogue in Education]]"
   - "[[Counterfactual]]"
   - "[[Preregistration]]"
   - "[[Statistical Analysis Plan]]"
@@ -65,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Effectiveness Trial
@@ -124,7 +123,7 @@ updated: 2026-09-17
 ### 效应断崖衰减（Voltage Drop）的两大主因
 
 > [!claim] 级联转导损耗机制（Cascade Training Dilution）
-> 在小规模效力阶段，核心专家能将方案的深层教学法哲学直接传递给教师；而当推广到 200 所学校时，提供方被迫建立多层“级联培训”网络（研发者 $\to$ 区域新培训师 $\to$ 一线教师）。信息在转导中层层损耗，导致普通教师仅能照搬表层活动程序，深层认知[[Dialogue in Education\|对话]]规程完全变形，最终引发实效试验效应归零（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。
+> 在小规模效力阶段，核心专家能将方案的深层教学法哲学直接传递给教师；而当推广到 200 所学校时，提供方被迫建立多层“级联培训”网络（研发者 $\to$ 区域新培训师 $\to$ 一线教师）。信息在转导中层层损耗，导致普通教师仅能照搬表层活动程序，深层认知对话规程完全变形，最终引发实效试验效应归零（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。
 
 > [!claim] 动态[[Business as Usual\|常态教学]]（BAU）的高基线吞噬
 > 在大规模田野中，对照组学校并非原地踏步的真空，其在日常教研中已自发吸纳了大量前沿理念。当对照组的常态教学水平整体提升时，干预组相对于对照组的[[Counterfactual\|反事实]]边界被显著抹平，导致原本在[[Efficacy Trial\|效力试验]]中显著的边际增益在大规模实效试验中完全被吸收（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。
@@ -152,7 +151,7 @@ updated: 2026-09-17
 ## 典型实证案例
 
 > [!case] [[Thinking, Doing, Talking Science\|TDTS]] 科学教学试验的规模化破灭（Kitmitto et al., 2018）
-> 在英国“思考、动手、[[Dialogue in Education\|对话]]科学”（TDTS）项目中，[[Efficacy Trial\|效力试验]]（42 所学校）曾取得 $+3$ 个月学业进展（$d = +0.22$）；然而当资助方急剧将规模扩大至全英 205 所学校的大规模实效试验时，由于培训转为中介级联模式且对照组常态科学教学基线普遍提升，最终全样本统考[[Effect Size\|效应量]]净值归零（$d = 0.00$）。实效试验明确指出该方案在大规模推广时缺乏额外成本效益，有效阻断了数百万公共财政资金在缺乏实效保障项目上的浪费（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。
+> 在英国“思考、动手、对话科学”（TDTS）项目中，[[Efficacy Trial\|效力试验]]（42 所学校）曾取得 $+3$ 个月学业进展（$d = +0.22$）；然而当资助方急剧将规模扩大至全英 205 所学校的大规模实效试验时，由于培训转为中介级联模式且对照组常态科学教学基线普遍提升，最终全样本统考[[Effect Size\|效应量]]净值归零（$d = 0.00$）。实效试验明确指出该方案在大规模推广时缺乏额外成本效益，有效阻断了数百万公共财政资金在缺乏实效保障项目上的浪费（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。
 
 ---
 

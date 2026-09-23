@@ -8,7 +8,7 @@ aliases:
 summary: "IB 文凭项目的跨学科核心必修课程，通过比较知识形成方式、证据标准与认识边界，连接学科学习、个人经验和批判性反思。"
 type: concept
 domain: "curriculum"
-related_count: 71
+related_count: 72
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -61,6 +61,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Concurrency of Learning]]"
 related_theories:
+  - "[[Knowledge Building Theory]]"
   - "[[Pragma-Dialectics]]"
 related_methods:
   - "[[Effect Size]]"
@@ -196,7 +197,7 @@ updated: 2026-09-22
 > - **跨学科核心** TOK 位于 DP 学科组之间，至少安排 100 学时，并与各学科相互参照、共享部分学习目标。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 35)]]
 > - **应用知识取向** 课程把概念工具用于 DP 学科和校外世界中的具体情境，以知识探究组织学习，不依赖固定知识内容的记忆和复制。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 35–36)]]
 > - **双重知识位置** 共享知识形成于学科与思想传统，个人知识来自经验和个人认识活动。课程要求在两者之间建立联系。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 36)]]
-> - **认知者中心** 认知者通过质疑、反思和沟通参与[[Knowledge Production\|知识建构]]，课程因此能够连接[[Metacognition\|元认知]]、[[Reflexivity\|反思性]]与[[Learner Autonomy\|学习者自主性]]。[[Argument_Lakhani_2012_AKUIED\|(Lakhani, 2012, pp. 173–178)]]
+> - **认知者中心** 认知者通过质疑、反思和沟通参与[[Knowledge Building Theory|知识建构]]，课程因此能够连接[[Metacognition\|元认知]]、[[Reflexivity\|反思性]]与[[Learner Autonomy\|学习者自主性]]。[[Argument_Lakhani_2012_AKUIED\|(Lakhani, 2012, pp. 173–178)]]
 > - **显性思维训练** TOK 是以独立课程形式明确提出[[Critical Thinking\|批判性思维]]目标的 DP 必修科目，但具体技能是否进入评分仍需单独检验。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, p. 247)]]
 > - **双重评估** 课程通过校外论文与校内展示或知识展演形成终结性评价，并与[[Extended Essay\|拓展论文]]组合贡献最多 3 分奖励分。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 16–18)]] [[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 38–40)]]
 
@@ -311,7 +312,7 @@ updated: 2026-09-22
 ### 命题一　TOK 通过知识探究与跨学科比较发展反思性自主
 
 > [!concept-lens] 知识探究与学习者自主
-> TOK 把学习者置于[[Knowledge Production\|知识建构]]过程之中。提问、解释、比较和表达形成连续的认识活动，使学生能够审查[[Source of Knowledge\|知识来源]]，也能反思自身信念与位置。
+> TOK 把学习者置于[[Knowledge Building Theory|知识建构]]过程之中。提问、解释、比较和表达形成连续的认识活动，使学生能够审查[[Source of Knowledge\|知识来源]]，也能反思自身信念与位置。
 
 > [!claim] Lakhani
 > **认知者的三重角色** 学习者以探究者、[[Reflexivity\|反思性]]思考者和[[Creativity\|创造性]]沟通者三种角色参与知识建构。知识活动从提出问题开始，经由对检索材料和生活经验的反思形成解释，再通过课堂讨论和论文表达。课程内容与批判性反思的自信共同支撑[[Learner Autonomy\|学习者自主性]]。[[Argument_Lakhani_2012_AKUIED\|(Lakhani, 2012, pp. 177–178)]]

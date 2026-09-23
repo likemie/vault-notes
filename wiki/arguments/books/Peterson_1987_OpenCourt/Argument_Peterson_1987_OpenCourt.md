@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt"
 argument_key: "Argument_Peterson_1987_OpenCourt"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 argument_kind: "book"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -52,6 +52,7 @@ related_persons:
   - "[[Gerard Renaud]]"
   - "[[John Goormaghtigh]]"
   - "[[Alec Peterson]]"
+  - "[[Christopher Martin]]"
   - "[[Louis Mountbatten]]"
   - "[[Gilbert Nicol]]"
 related_facts:
@@ -104,7 +105,7 @@ updated: 2026-09-01
 
 > [!monograph-method] 研究方法与材料
 > - **研究设计** 采用参与者视角的历史叙事，沿组织创办、课程形成与制度扩张推进。
-> - **资料来源** 个人经历、大西洋学院募款文件与课程计划、IB 早期组织记录、利奇与马丁·梅耶（Martin Mayer）的同时代记述，以及章末所列历史著作。
+> - **资料来源** 个人经历、大西洋学院募款文件与课程计划、IB 早期组织记录、利奇与[[Christopher Martin|马丁]]·梅耶（Martin Mayer）的同时代记述，以及章末所列历史著作。
 > - **分析策略** 通过关键行动者、组织决策、跨国课程比较和制度障碍，追踪国际教育方案从创校实践到课程与考试制度的形成。
 > - **方法边界** 前言明确说明这不是官方历史，个人判断不必然代表相关机构，材料也不能替代独立的外部史料核验。
 

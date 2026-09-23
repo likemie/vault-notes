@@ -9,12 +9,13 @@ aliases:
 summary: "学习与学术任务在目标清晰度、解题算法、信息充分性及评价标准等维度的结构化程度。任务沿良构到劣构的连续谱分布，调节着学生的认识论信念激活、元认知监控与自我调节学习策略。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 related_concepts:
   - "[[Reflexivity]]"
+  - "[[Open-Mindedness]]"
   - "[[Epistemological Beliefs]]"
   - "[[Self-Regulated Learning]]"
   - "[[Problem Finding]]"
@@ -33,7 +34,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-08-19
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Task Structure
@@ -46,7 +47,7 @@ updated: 2026-09-22
 > 任务结构（task structure）是指教学与学习任务在目标表述、操作步骤、所需资源、认知线索以及评价标准上的明确与规范程度（Frederiksen, 1984; Spiro et al., 1988）。学术任务通常分布在由良构任务（well-structured task, WST）到劣构任务（ill-structured task, IST）的连续谱系上。良构任务具有明确的解题路径、充分的预设信息和精确的评分规则；劣构任务则具有目标模糊性、开放式解题空间，缺乏现成算法与现成材料，需要学习者自行检索资源、权衡证据并作出[[Reflexivity\|反思性]]判断。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, pp. 310-312)]]
 >
 > > [!concept-lens] 概念透镜
-> > - **含义** 刻画学习任务的内在认知要求与环境线索清晰度，区分确定性算法操作与开放性价值辩护。
+> > - **含义** 刻画学习任务的内在认知要求与环境线索清晰度，区分确定性算法操作与[[Open-Mindedness|开放性]]价值辩护。
 > > - **用途** 揭示不同任务情境如何差异化激活学生的[[Epistemological Beliefs\|认识论信念]]、[[Self-Regulated Learning\|自我调节学习]]策略、认知负荷与反思性判断。
 > > - **边界** 任务结构不等于任务领域知识难度；高度良构的任务也可以计算繁复，而低阶劣构任务可能涉及日常价值选择。
 
@@ -57,7 +58,7 @@ updated: 2026-09-22
 > [!contrast-table] 概念辨析：良构任务与劣构任务特征对比
 > | 比较维度 | 良构任务（Well-Structured Task, WST） | 劣构任务（Ill-Structured Task, IST） |
 > |---|---|---|
-> | **目标与[[Problem Finding\|问题界定]]** | 目标高度明确，提供清晰的先行组织者与具体子目标规划。（p.316） | 目标具开放性与争议性，无唯一确定正解，要求进行价值立场辩护。（p.316） |
+> | **目标与[[Problem Finding\|问题界定]]** | 目标高度明确，提供清晰的先行组织者与具体子目标规划。（p.316） | 目标具[[Open-Mindedness\|开放性]]与争议性，无唯一确定正解，要求进行价值立场辩护。（p.316） |
 > | **资源与信息供给** | 提供预先打包整理的完整资料文件袋，信息完备。（p.316） | 不提供现成资料包，需学生自行检索、筛选与甄别材料。（p.316） |
 > | **操作步骤与算法** | 提供标准解题算法、格式指引与内容框架。（p.316） | 缺乏现成算法与规定程序，需自行构建推理路径与论证结构。（p.316） |
 > | **评价标准透明度** | 评分量规与评价标准在布置任务时向学生完全公开。（p.316） | 评价标准不预先向学生全部展示，强调论辩深度与反思质量。（p.316） |

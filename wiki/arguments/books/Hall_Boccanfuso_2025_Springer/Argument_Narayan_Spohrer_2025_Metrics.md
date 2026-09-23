@@ -33,7 +33,6 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[General Education]]"
   - "[[Literature Search]]"
-  - "[[Dialogue in Education]]"
   - "[[Operationalization]]"
 related_theories: []
 related_methods:
@@ -58,7 +57,7 @@ title: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_key: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_display_title: "Metrics, Incentives, Rewards, and Culture for Impact"
 argument_kind: "book"
-argument_related_count: 32
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -247,7 +246,7 @@ citation_aliases:
 
 24. 度量、激励、奖励和文化是本章的主线，但作者在最后一节加入了一个前瞻判断：AI 将重塑产学关系，重塑发生在合作主体和互动方式发生根本变化的层面上(p.97)。
 
-25. 当计算的边际成本持续下降，产学互动可能出现一种此前不存在的新形态：产业研究者和学术教师都可能拥有自己的 AI 数字孪生（AI digital twins），能够自动完成[[Literature Search|文献检索]]、初步数据分析、甚至模拟合作[[Dialogue in Education|对话]](p.97)。如果一位教授的数字孪生可以在企业提出合作需求时，自动生成一份研究与企业需求的匹配度报告，那么合作的前期探索效率将大幅提升，但"面对面建立信任"的传统方式也可能被弱化。
+25. 当计算的边际成本持续下降，产学互动可能出现一种此前不存在的新形态：产业研究者和学术教师都可能拥有自己的 AI 数字孪生（AI digital twins），能够自动完成[[Literature Search|文献检索]]、初步数据分析、甚至模拟合作对话(p.97)。如果一位教授的数字孪生可以在企业提出合作需求时，自动生成一份研究与企业需求的匹配度报告，那么合作的前期探索效率将大幅提升，但"面对面建立信任"的传统方式也可能被弱化。
 
 26. 作者最后回到一个基础判断，这也是全文论证的落脚点：AI 不会取代产业研究者和学术教师，但有效且合乎伦理地使用 AI 的服务提供者将取代那些不这样做的(Rouse & Spohrer, 2018, 转引自 p.97)。这一判断与全文的"动态调适"主题一致：信任仍然是根基，信任的基础是产学关系的历史记录以及"共同定义只有合作才能解决的重大问题"这一实践；失败是共同的学习经验，成功孕育更多成功(p.90)。AI 是一个新变量，它改变的是调适的工具和效率，不改变调适的必要性和逻辑。
 

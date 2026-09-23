@@ -11,7 +11,7 @@ aliases:
 summary: "18世纪起源于欧洲、19世纪经由法美与拉美跨国流通确立的教师专业化培养专门机构，通过国家垄断资格准入、规范化教学法训练与人道纪律塑造公共教育核心师资"
 type: concept
 domain: "teacher-education"
-related_count: 47
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Faculty Psychology]]"
-  - "[[Dialogue in Education]]"
   - "[[School Inspection]]"
   - "[[Document]]"
   - "[[Hypothesis]]"
@@ -128,7 +127,7 @@ updated: 2026-09-22
 
 > [!feature] 核心要素
 > - **国家法定义务建制与财政托底（State Statutory Provision and Financial Guarantee）** 改变以往私人捐助与宗派施舍的自发性，确立由国家或州议会立法强制设校。普鲁士《1819 年[[Johann Wilhelm Süvern\|聚芬]]草案》在各省确立师范学校（*Lehrerseminare*）；法国《1833 年[[Guizot Law of 1833\|基佐法案]]》强制各省建立初等师范学校并由中央与地方财政联合兜底设立最低工资标准；美国马萨诸塞州（1839）设立全美首所州立公立师范学校。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 27–29, 31)]]
-> - **直观教学法与官能全面展开（Pestalozzian Sensory Pedagogy）** 彻底摒弃经院式机械死记与肉体惩罚，确立以[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]要素教学法与[[Faculty Psychology\|官能心理学]]为指导的教学规范：训练师范生通过实物、图形、模型与循序渐进的启发式[[Dialogue in Education\|对话]]（数、形、词），顺应儿童心智自然节律，发展观察、比较与推理官能。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 16–17, 31)]]
+> - **直观教学法与官能全面展开（Pestalozzian Sensory Pedagogy）** 彻底摒弃经院式机械死记与肉体惩罚，确立以[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]要素教学法与[[Faculty Psychology\|官能心理学]]为指导的教学规范：训练师范生通过实物、图形、模型与循序渐进的启发式对话（数、形、词），顺应儿童心智自然节律，发展观察、比较与推理官能。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 16–17, 31)]]
 > - **附属实验学校与临床教学操练（Practicing / Model Schools Attached）** 师范学校普遍配套设立“附属模范学校（model school / école d'application）”。师范生在结业前必须进驻模范学校，在资深教师督导下展开实景教学演练、班级秩序维持与个别辅导，实现教学法规范（*norm*）从抽象教条向具身技艺的转化。[[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015, p. 49)]]
 > - **专业考试准入与世俗公民道德（State Certification and Secular Stewardship）** 实行独立于地方教会权威的国家世俗专业考试与资格授信。要求未来的公立学校教师秉持超越狭隘宗派偏见的普遍公民伦理，成为塑造爱国国民品格、维护社会契约与理性秩序的示范楷模。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 28, 32)]]
 

@@ -9,7 +9,7 @@ title: "Argument_Delambre_2022_Springer"
 argument_key: "Argument_Delambre_2022_Springer"
 argument_display_title: "Creative Tension of Sense and the Whole Approach to Knowledge and Practice"
 argument_kind: "book"
-argument_related_count: 27
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -35,13 +35,11 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Official Knowledge]]"
-  - "[[Growth]]"
   - "[[Document]]"
   - "[[Operationalization]]"
   - "[[Life Power]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Social Museology]]"
-  - "[[Dialogue in Education]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
   - "[[Transition Design]]"
@@ -113,7 +111,7 @@ Delambre 首先建立问题的紧迫性：西方现代性的知识模式——�
 
 ### 步骤 3：理论核心 — "新"永远在"旧"内部诞生
 
-这是张力理论最核心的命题：**世界上不存在脱离"旧"而凭空出现的"新"**。新的知识范式、新的社会组织方式、新的人生意义——总是在旧秩序的母体中孕育，带着旧的基因又与旧产生紧张。因此，新旧之间不是线性替代关系（新取代旧），而是持久的张力关系（新在旧中[[Growth|生长]]、旧因新而改变）(p.111)。
+这是张力理论最核心的命题：**世界上不存在脱离"旧"而凭空出现的"新"**。新的知识范式、新的社会组织方式、新的人生意义——总是在旧秩序的母体中孕育，带着旧的基因又与旧产生紧张。因此，新旧之间不是线性替代关系（新取代旧），而是持久的张力关系（新在旧中生长、旧因新而改变）(p.111)。
 
 > 例：大学图书馆正在从"知识存储与沉思空间"（旧）转变为"makerspace"和"创新创业孵化器"（新）——但这个过程并非旧功能消失、新功能取而代之，而是两种功能在同一个物理空间中产生张力。学生可能同时在图书馆里翻阅经典[[Document\|文献]]和为创业比赛做 pitch deck。这种新旧共存的状态就是"张力"的具体体现（pp. 114–115）。
 
@@ -193,7 +191,7 @@ Delambre 的最终结论是一个概念重构：在 [[Tense Society|张力社会
 > - **理论建构的经验基础薄弱** 理论高度依赖作者个人在里约热内卢的实践经验和案例（2013–2020），案例仅以简要叙述方式呈现，缺乏独立验证、跨情境检验和系统数据支撑(p.107)
 > - **核心概念的操作性不足** "张力"、"整体"（Ganz）、"[[Life Power\|生命力量]]"（life power）等概念的定义偏向哲学化和诗意化——例如"生命力量是幸福建立的地方"——难以转化为可检验的实证[[Hypothesis\|假设]]或可复制的操作程序
 > - **[[Ganz-Methode]] 的方法论细节缺失** 两步法描述保持在原则层面——"承载张力"具体需要多长时间？谁来承载？如何判断承载是否"充分"？这些关键操作问题未被回答(p.112–116)
-> - **与替代理论的[[Dialogue in Education\|对话]]不足** 作者大量引用 Leff、Santos、Dussel、[[Walter Mignolo]] 等思想家，但更多是将其作为权威背书而非批判性对话对象。例如，Ganz-Methode and Santos 的"知识生态学"（ecology of knowledges）有何异同？与 Escobar 的 [[Transition Design]] 如何区别？这些比较未被展开
+> - **与替代理论的对话不足** 作者大量引用 Leff、Santos、Dussel、[[Walter Mignolo]] 等思想家，但更多是将其作为权威背书而非批判性对话对象。例如，Ganz-Methode and Santos 的"知识生态学"（ecology of knowledges）有何异同？与 Escobar 的 [[Transition Design]] 如何区别？这些比较未被展开
 > - **对大学的建议停留在呼吁层面** "水平化关系"、"倾听所有利益相关者的生命力量"等建议在制度层面如何实施（如大学治理结构改革、评聘标准修订、课程审批流程改造）完全没有涉及。这使得该理论对高等教育政策制定者的实际指导力有限
 > - **"承载张力"可能被误用为维持现状的借口** 如果"不急于选择"被解读为"永远不做选择"，Ganz-Methode 有可能反过来成为抵制必要变革的理由——这正是该理论内在的"激进与保守的模糊性"
 

@@ -111,7 +111,7 @@ updated: 2026-09-17
 > - **供给端推送基础设施（Push Infrastructure）** 学术界与中介机构开展的[[Systematic Review\|系统综述]]、证据清除所、标准化工具箱与政策简报制作。
 > - **需求端组织[[Absorptive Capacity\|吸收能力]]（Pull Absorptive Capacity）** 学校与教师识别教学问题、评估证据质量、情境化改造以及在课堂开展微观试验的专业素养。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022, pp. 186–187)]]
 > - **校级使能支持生态（Enabling Organisational Ecology）** 领导者亲身示范、[[Professional Learning Community\|专业学习共同体]]（PLCs）研讨与日常工作排程中刚性划拨的专有研读工时。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022, pp. 188, 191–193)]]
-> - **双向中介与伙伴网络（Brokerage and Partnership Networks）** 跨界中介机构、[[Embedded Researcher\|嵌入式研究者]]与学区教研联盟，促成供需双方的长期[[Dialogue in Education\|对话]]与协同设计。
+> - **双向中介与伙伴网络（Brokerage and Partnership Networks）** 跨界中介机构、[[Embedded Researcher\|嵌入式研究者]]与学区教研联盟，促成供需双方的长期对话与协同设计。
 
 > [!logic-map]- 推拉模型在教育生态系统中的动态运转机制
 > ```mermaid

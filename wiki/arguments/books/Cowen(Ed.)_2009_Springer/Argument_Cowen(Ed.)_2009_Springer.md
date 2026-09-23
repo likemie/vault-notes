@@ -7,7 +7,7 @@ title: "Argument_Cowen(Ed.)_2009_Springer"
 argument_key: "Argument_Cowen(Ed.)_2009_Springer"
 argument_display_title: "International Handbook of Comparative Education"
 argument_kind: "edited-volume"
-argument_related_count: 44
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -52,7 +52,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Critical Dualism]]"
   - "[[Comparative Educations]]"
-  - "[[Dialogue in Education]]"
   - "[[Theoretical Standpoint]]"
   - "[[Heterogeneity]]"
   - "[[Positivism]]"
@@ -169,7 +168,7 @@ updated: 2026-09-07
 >   - Ch. 04 [[Argument_Kazamias_2009_ForgottenThemes]]。Kazamias 系统挖掘[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans\|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich\|罗伯特·乌利希]]（Robert Ulich）等学者开创的历史-哲学-文化与自由人文主义母题，阐明其广义人文科学定位、[[National Character\|国民性格]]分析[[Construct\|构念]]与历史改良主义底色，并借由[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）的有限工作[[Hypothesis\|假设]]归纳法为[[Historical-Comparative Method\|历史比较法]]确立现代合法性。
 >   - Ch. 05 [[Argument_Mattheou_2009_ScientificParadigm]]。Mattheou 系统剖析 20 世纪下半叶[[Scientific Paradigm\|比较教育学科学范式]]的兴衰，辨析芝加哥学派（安德森、福斯特）的恒常制度规律、哥大学派（诺亚、埃克斯坦）的[[Variable\|变量]]函数共变与伦敦学派（霍姆斯）基于[[Critical Dualism\|批判二元论]]的权变社会学法则及预测划界标准，揭示实证量化模式作为战后国家规划合法化工具（alibi）的政治共谋，并阐明其在现实危机、量子不确定性与后现代思潮冲击下向“[[Comparative Educations\|复数比较教育学]]”的多元解体。
 > - **优先处理章节** Ch. 01（联合导论）、Ch. 10（历史反思）、Ch. 21（导论）、Ch. 61（新思维导论）、Ch. 79 与 Ch. 80（全书收束与结论）。
-> - **可暂缓章节** 专门聚焦特定国家微观细部、与全书主干理论[[Dialogue in Education\|对话]]相对松散的案例章节。
+> - **可暂缓章节** 专门聚焦特定国家微观细部、与全书主干理论对话相对松散的案例章节。
 > - **缺口提醒** 目前已完成 Ch. 02、Ch. 03、Ch. 04 与 Ch. 05，系统夯实了学科发端期准科学、行政借用、历史人文以及战后科学化运动全景，第一板块方法论奠基与[[Paradigm\|范式]]论争的主干框架已大体成型，亟需推进各板块导引章与重点理论章以充实全书结构认知。
 
 ---

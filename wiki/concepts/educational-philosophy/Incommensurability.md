@@ -8,7 +8,7 @@ aliases:
 summary: "库恩范式理论的核心认识论构念，指不同科学范式之间缺乏中立公认的共同原则、标准或衡量尺度，因而无法在同一逻辑评价体系下直接比较优劣"
 type: concept
 domain: "educational-philosophy"
-related_count: 41
+related_count: 40
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Hypothesis]]"
   - "[[Paradigm Wars]]"
-  - "[[Dialogue in Education]]"
   - "[[Epistemological Beliefs]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Positivism]]"
@@ -67,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Incommensurability
@@ -82,7 +81,7 @@ updated: 2026-09-18
 > [!concept-lens] 概念透镜
 > - **含义** 范式更替并非知识的线性简单累积，而是世界观与概念网络的根本断裂；不同范式下的概念看似使用相同词汇，其实际指涉与评判准则已发生质变。
 > - **用途** 揭示为何社会科学与教育研究中的量化与质性之争（[[Paradigm Wars\|范式战争]]）长久陷入对抗；阐明方法论选择背后的哲学深层承诺；为[[Mixed Methods Research\|混合方法研究]]如何跨越方法论壁垒确立辩护前提。
-> - **边界** 不等于彻底的不可交流性（Incommunicability）；库恩晚年澄清不可通约性主要指跨范式概念缺乏完全中立的“点对点翻译词典”，而非指科学共同体之间无法展开理性[[Dialogue in Education\|对话]]与务实协商。
+> - **边界** 不等于彻底的不可交流性（Incommunicability）；库恩晚年澄清不可通约性主要指跨范式概念缺乏完全中立的“点对点翻译词典”，而非指科学共同体之间无法展开理性对话与务实协商。
 
 > [!citation-card] Kuhn 论范式之间评判尺度的不可通约性
 > 不同范式之间不存在共同的原则、标准或衡量尺度。因此，一个人不能同时持有两个截然不同的范式。范式转换并非纯粹理性归纳的渐进累加，而是认知视景的整体重组。（Kuhn, 1962 via [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 116]]）
@@ -175,7 +174,7 @@ updated: 2026-09-18
 > 阐明第三次方法论运动如何通过转换哲学基准，在保留范式张力的同时实现务实协作。
 
 > [!claim] Johnson, R. B. & Onwuegbuzie, A. J.
-> **[[Pragmatic Paradigm\|实用主义]]消解范式不可通约的清教徒主义** 混合方法研究作为第三种研究范式，放弃了在形而上学本体论上纠缠抽象纯洁性；实用主义以“实践有效即为真理”为指针，强调[[Research Question\|研究问题]]决定探究方法，从而以务实包容性打破了非黑即白的不可通约性教条，开辟了跨范式[[Dialogue in Education\|对话]]与协同探究的第三条道路。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 195]]
+> **[[Pragmatic Paradigm\|实用主义]]消解范式不可通约的清教徒主义** 混合方法研究作为第三种研究范式，放弃了在形而上学本体论上纠缠抽象纯洁性；实用主义以“实践有效即为真理”为指针，强调[[Research Question\|研究问题]]决定探究方法，从而以务实包容性打破了非黑即白的不可通约性教条，开辟了跨范式对话与协同探究的第三条道路。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 195]]
 
 > [!claim] [[Stephen Gorard\|Gorard, S.]] & Smith, E.
 > **二元划界虚妄性与[[Knowledge Production\|知识生产]]解放** 将探究方法教条化地割裂为互不相容的量化与质性范式，不仅在实操中缺乏建设性，更是对知识生产潜能的严重禁锢；摆脱不可通约性的方法论教条，使得研究者能够综合运用一切相关证据资源回应复杂的教育现实议题。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 195]]
@@ -218,7 +217,7 @@ updated: 2026-09-18
 > > [!axis] [[Mixed Methods Research\|混合方法]]是成功消弭了不可通约性，还是掩盖了隐性[[Positivism\|实证主义]]霸权
 > > 争论焦点在于：混合方法是否真正跨越了范式鸿沟？
 > >
-> > - **混合方法倡导者（Creswell & Plano Clark, 2018）** 认为通过矩阵并置、[[Joint Display\|联合展示]]与多元效度验证，能够实现不同范式数据链条的实质性[[Dialogue in Education\|对话]]与功能互补。
+> > - **混合方法倡导者（Creswell & Plano Clark, 2018）** 认为通过矩阵并置、[[Joint Display\|联合展示]]与多元效度验证，能够实现不同范式数据链条的实质性对话与功能互补。
 > > - **批判性反思者（Giddings, 2006）** 尖锐警示不可通约性并未消失，强行融合如同“油水混合”，混合方法在实操中极易沦为量化实证主义收编质性成果的修辞特洛伊木马。
 
 > [!warning] 适用局限

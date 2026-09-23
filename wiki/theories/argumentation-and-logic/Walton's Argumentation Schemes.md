@@ -9,7 +9,7 @@ aliases:
 summary: "Douglas Walton 提出的非形式逻辑论证分析理论，将日常与专业论辩归纳为数十种基于似真推理的论证型式，并配套批判性提问清单以检验论证的辩护效力。"
 type: theory
 theory_field: "argumentation-and-logic"
-theory_related_count: 22
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -18,7 +18,6 @@ tags:
   - theme/critical-thinking
   - theme/epistemic-cognition
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Epistemology]]"
   - "[[Reliability]]"
   - "[[Epistemic Stances]]"
@@ -59,7 +58,7 @@ updated: 2026-09-22
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 日常生活、法律辩护与科学[[Dialogue in Education\|对话]]中的非形式推论模式：论证者如何使用特定论式（如诉诸专家意见、因果推论、类比推理）确立具有暂时合理性的结论。
+> - **解释对象** 日常生活、法律辩护与科学对话中的非形式推论模式：论证者如何使用特定论式（如诉诸专家意见、因果推论、类比推理）确立具有暂时合理性的结论。
 > - **理论问题** 形式演绎逻辑（有效性标准）与概率归纳逻辑无法有效评价现实世界中大量具有可撤销性（Defeasibility）的似真论证（Plausible Arguments）；传统谬误理论（Fallacy Theory）将许多实际有效的实用推论一概斥为逻辑谬误。
 > - **理论类型** 非形式逻辑与对话理论中的规范[[Analytic Framework\|分析框架]]与评判模型。
 > - **知识位置** 加拿大哲学家[[Jack Douglas\|道格拉斯]]·[[Douglas Walton\|沃尔顿]]（Douglas Walton）在非形式逻辑、论辩理论与人工智能领域长期耕耘的成果，代表作包括 *Argumentation Schemes for Presumptive Reasoning*（1996）与 *Argumentation Schemes*（Walton, Reed, & Macagno, 2008）。
@@ -89,7 +88,7 @@ updated: 2026-09-22
 
 ## 核心命题与机制
 
-> [!proposition-chain] 核心命题一｜非形式论辩的理性依托于定型论证型式与批判性提问的动态辩证[[Dialogue in Education\|对话]]
+> [!proposition-chain] 核心命题一｜非形式论辩的理性依托于定型论证型式与批判性提问的动态辩证对话
 > - **前提一** 现实生活与科学探究中的绝大多数论辩缺乏完备的数学公理或完全归纳条件，属于非单调推理。
 > - **前提二** 论辩的本质是对话参与者之间按照语用规则转移“举证责任”（Burden of Proof）的互动过程。
 > - **推导** 论证者调用某种论证型式提出主张 $\rightarrow$ 论辩对手依据该型式专属的批判性提问进行发问 $\rightarrow$ 若提问得到合理解答，主张维持；若提问暴露严重漏洞，论证失效或举证责任发生转移。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–224)]]
@@ -111,7 +110,7 @@ updated: 2026-09-22
 ## 理论立场与使用方式
 
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
-> - **[[Ontology\|本体论]]** 将论辩视为目标导向的人际[[Dialogue in Education\|对话]]（如批判性讨论、协商、信息搜集）语用实践，而非静态命题系统的纯逻辑演绎。
+> - **[[Ontology\|本体论]]** 将论辩视为目标导向的人际对话（如批判性讨论、协商、信息搜集）语用实践，而非静态命题系统的纯逻辑演绎。
 > - **[[Epistemology\|认识论]]** 秉持语用辩证主义（[[Pragma-Dialectics]]）与融贯论取向，强调知识的确证是暂时、可修正且依赖于公共反驳测试的动态过程。
 > - **方法含义** 采用对话[[Transcription in Qualitative Research\|转录]]分析、型式模式匹配与批判性提问核查表作为核心分析工具。
 > - **不能直接推出的东西** 不能仅因论证完全匹配某型式就断言其结论必然正确；它仅赋予结论假定合理性。
@@ -136,7 +135,7 @@ updated: 2026-09-22
 > [!critique] 外部批评
 > - **[[Epistemology\|认识论]]规范来源的缺失** 拉维特·格兰·邓肯与[[Clark A. Chinn\|克拉克·钦]]指出，[[Douglas Walton\|沃尔顿]]框架列举了数十种型式与繁杂的提问清单，却未提供规范性认识论基础——即未能说明为什么这些提问在认识论上是合法的，缺乏如因果[[Reliabilism\|可靠主义]]那样的深层理论辩护。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]
 > - **无法应对现代科学的大规模证据整合** 沃尔顿的 60 余种型式几乎全针对单子式（Monadic）孤立论证或人际言语争辩，仅有一种型式勉强涉及经验证据；它完全缺乏处理多元独立研究收敛、[[Systematic Review\|系统综述]]与证据加权的认识论模板。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 224–225)]]
-> - **分歧裁决机制的真空** 当[[Dialogue in Education\|对话]]双方就批判性提问的答案产生根本对立时（例如气候变化怀疑论者咬定主流科学家“不可信、有偏见”），沃尔顿模型在框架内部缺乏终审裁决工具，无法穿透至底层的数据生成规程与物理观测条件以解决争端。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 224)]]
+> - **分歧裁决机制的真空** 当对话双方就批判性提问的答案产生根本对立时（例如气候变化怀疑论者咬定主流科学家“不可信、有偏见”），沃尔顿模型在框架内部缺乏终审裁决工具，无法穿透至底层的数据生成规程与物理观测条件以解决争端。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 224)]]
 
 ---
 

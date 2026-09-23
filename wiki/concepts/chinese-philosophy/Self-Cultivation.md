@@ -6,7 +6,7 @@ aliases:
   - self-perfect
   - self-perfection
   - xiū shēn
-summary: "儒家学习传统的核心目标，指以自我而非外部世界为认知和实践对象的终身工程，并通过学习美德形成持续能动性"
+summary: 儒家学习传统的核心目标，指以自我而非外部世界为认知和实践对象的终身工程，并通过学习美德形成持续能动性
 type: concept
 domain: "chinese-philosophy"
 related_count: 21
@@ -27,7 +27,7 @@ related_concepts:
   - "[[Take the World Upon Oneself]]"
   - "[[Ideal Learner]]"
   - "[[Learning Virtues]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Establishing One's Will]]"
   - "[[Benevolence]]"
   - "[[Five Cardinal Relationships]]"
@@ -49,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-07-08
+updated: 2026-09-23
 ---
 
 # Self-Cultivation
@@ -117,7 +117,7 @@ updated: 2026-07-08
 
 ### 3. 学习美德作为修身的能动性
 
-中国大学生在被要求描述[[Ideal Learner|理想学习者]]"**如何**学习"时——出乎意料地——并未大量描述学习过程本身，而是大量描写 [[Learning Virtues|学习美德]]([[Argument_Li_2012_Cambridge|Li, 2012, pp.91-94]])。五种行为美德（认真、勤奋、刻苦、恒心、专心）构成了中国学习模型的"能动过程"（agentic process），而尊师与[[Humility in Learning|谦虚]]则构成其情感维度([[Argument_Li_2012_Cambridge|Li, 2012, pp.94-96]])。
+中国大学生在被要求描述[[Ideal Learner|理想学习者]]"**如何**学习"时——出乎意料地——并未大量描述学习过程本身，而是大量描写 [[Learning Virtues|学习美德]]([[Argument_Li_2012_Cambridge|Li, 2012, pp.91-94]])。五种行为美德（认真、勤奋、刻苦、恒心、专心）构成了中国学习模型的"能动过程"（agentic process），而尊师与[[Humility|谦虚]]则构成其情感维度([[Argument_Li_2012_Cambridge|Li, 2012, pp.94-96]])。
 
 这意味着：在当代[[Chinese Learner|中国学习者]]的理解中，**修身首先不是一个认知计划（"知道什么"），而是一个品德计划（"成为谁"）**——学习美德不是修身的"工具"，而就是修身在日常学习行为中的具体展开。详见 [[Learning Virtues]]。
 

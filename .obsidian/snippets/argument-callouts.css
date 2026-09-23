@@ -5805,6 +5805,11 @@
   grid-template-columns: 1fr 1fr;
 }
 
+/* 最后一项若为奇数（如第 3 项），独占全行平铺 */
+.callout[data-callout="decisions"] > .callout-content > :is(ul, ol) > li:last-child:nth-child(odd) {
+  grid-column: 1 / -1;
+}
+
 .callout[data-callout="decisions"] > .callout-content > ul > li {
   padding: 0.6rem 0.85rem;
   border-radius: 7px;

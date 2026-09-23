@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 18
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Academic Achievement]]"
   - "[[Epistemic Agency]]"
-  - "[[Growth]]"
   - "[[Variable]]"
 related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
@@ -91,7 +90,7 @@ updated: 2026-09-22
 ## 争议与评论
 
 > [!tension] 真实探究的"认识混乱" vs 传统标准化课程进度
-> - **标准化课程与应试立场（蓝方）** 强调知识覆盖率与统一进度的课程大纲，难以承受 PRACCIS 探究中学[[Growth\|生长]]周期辩论与试错带来的时间消耗。
+> - **标准化课程与应试立场（蓝方）** 强调知识覆盖率与统一进度的课程大纲，难以承受 PRACCIS 探究中学生长周期辩论与试错带来的时间消耗。
 > - **认识实质建构立场（红方）** 科学探究必然伴随着混淆[[Variable\|变量]]与冲突证据带来的"认识混乱"；唯有接纳这一过程，学生才能真正习得抵御现实错误信息所必需的元[[Epistemology\|认识论]]抗辩力。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–223)]]
 
 ---

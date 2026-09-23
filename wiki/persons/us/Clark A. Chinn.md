@@ -28,9 +28,7 @@ related_concepts:
   - "[[Reliable Epistemic Processes]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Epistemic Agency]]"
-  - "[[Knowledge Production]]"
   - "[[Direct Instruction]]"
-  - "[[Dialogue in Education]]"
   - "[[Reflexivity]]"
   - "[[Practical Epistemology]]"
   - "[[Epistemic Ideals]]"
@@ -38,6 +36,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Metacognition]]"
   - "[[Epistemological Beliefs]]"
+  - "[[Authentic Science Practices]]"
   - "[[Epistemic Aims]]"
   - "[[Reliability]]"
   - "[[Epistemic Dependence]]"
@@ -51,6 +50,7 @@ related_theories:
   - "[[Reliabilism]]"
   - "[[Virtue Epistemology]]"
   - "[[AIR Model of Epistemic Cognition]]"
+  - "[[Knowledge Building Theory]]"
 related_arguments:
   - "[[Argument_Duncan_2025_CI]]"
   - "[[Argument_DeJong_2023_ERR]]"
@@ -86,7 +86,7 @@ updated: 2026-09-22
 > - **代表贡献** 创立 AIR 模型；提出科学探究学习六要素框架；主导研发促进科学推理与概念转变的 [[PRACCIS]] 探究课程；开创新一代基于认识论实质与元认识论审议的科学论证评价体系。
 
 > [!citation-card]- 人物定位的关键来源
-> Chinn 将哲学认识论的前沿洞见系统注入学习科学与科学教育，论证了探究学习不是放任发现，而是以认识能动性与证据协调为核心的深度[[Knowledge Production\|知识建构]]实践。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–224)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–3)]]
+> Chinn 将哲学认识论的前沿洞见系统注入学习科学与科学教育，论证了探究学习不是放任发现，而是以认识能动性与证据协调为核心的深度[[Knowledge Building Theory|知识建构]]实践。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–224)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–3)]]
 >
 > *Chinn's work redefines science education by focusing on epistemic agency, conceptualizing inquiry as an active process where students coordinate evidence and models rather than passively consuming [[Direct Instruction]].*
 
@@ -95,7 +95,7 @@ updated: 2026-09-22
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1990 年代** 于伊利诺伊大学厄巴纳-香槟分校（UIUC）师从著名认知心理学家 Richard C. Anderson 获得博士学位，深耕儿童协作推理（Collaborative Reasoning）与论证[[Dialogue in Education\|对话]]。
+> - **1990 年代** 于伊利诺伊大学厄巴纳-香槟分校（UIUC）师从著名认知心理学家 Richard C. Anderson 获得博士学位，深耕儿童协作推理（Collaborative Reasoning）与论证对话。
 > - **2000 年代初** 进入罗格斯大学教育研究生院任教，系统聚焦科学探究、[[Reflexivity\|反思性]]论证与概念转变教学。
 > - **2007** 与 [[Cindy E. Hmelo-Silver]] 及 Ravit Golan Duncan 联合发表对 Kirschner, Sweller, & Clark (2006) 的里程碑式反驳论文，开启学习科学界捍卫[[Inquiry-Based Learning\|指导式探究]]与问题导向学习的国际辩论。
 > - **2011** 在《教育心理学家》发表纲领性论文，系统提出扩展[[Epistemic Cognition\|认识论认知]][[Analytic Framework\|分析框架]]，推动教育[[Epistemology\|认识论]]从发展心理学向[[Practical Epistemology\|实践认识论]]转型。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011)]]
@@ -108,14 +108,14 @@ updated: 2026-09-22
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1990–2000 年代 — 协作论证[[Dialogue in Education\|对话]]与指导探究奠基阶段** 聚焦课堂日常对话中的论辩与推理结构，反驳认知负荷派将探究教学贬低为无指导试错的观点，确立[[Scaffolding\|脚手架]]支持在探究中的核心地位。
+> - **1990–2000 年代 — 协作论证对话与指导探究奠基阶段** 聚焦课堂日常对话中的论辩与推理结构，反驳认知负荷派将探究教学贬低为无指导试错的观点，确立[[Scaffolding\|脚手架]]支持在探究中的核心地位。
 >   - **代表著作** *Collaborative reasoning: Language rich approaches to reading comprehension* (2001); *Scaffolding and achievement in problem-based and inquiry learning: A response to Kirschner, Sweller, and Clark (2006)* (2007, 与 C. E. Hmelo-Silver & R. G. Duncan 合著).
 >   - **关键概念／方法** 协作推理、探究脚手架、论证对话。
 >   - **阶段转向** 从微观阅读理解对话走向跨学科复杂探究与教学[[Paradigm\|范式]]论争。
 > - **2010 年代 — [[Epistemic Cognition\|认识论认知]] [[AIR Model of Epistemic Cognition\|AIR]] 模型与实践转向阶段** 批判传统个人[[Epistemology\|认识论]][[Questionnaire\|问卷]]的抽象性与脱嵌性，系统引入[[Theory of Knowledge\|知识论]]哲学，构建由目标（Aims）、理想（Ideals）与[[Reliable Epistemic Processes\|可靠过程]]（Reliable processes）构成的三[[Metacognition\|元认知]]模型。
 >   - **代表著作** *Expanding the dimensions of epistemic cognition: Arguments from philosophy and psychology* (2011); *Epistemic cognition and evaluating information: Applying the AIR model* (2014); *[[PRACCIS]]: Promoting reasoning and conceptual change in science* (2018).
 >   - **关键概念／方法** AIR 模型、[[Epistemic Ideals\|认识论理想]]、可靠过程、探究六要素。
->   - **阶段转向** 从描述学生有什么[[Epistemological Beliefs\|认识论信念]]，转向指导学生在真实科学实践中如何运用与反思认识准则。
+>   - **阶段转向** 从描述学生有什么[[Epistemological Beliefs\|认识论信念]]，转向指导学生在[[Authentic Science Practices|真实科学实践]]中如何运用与反思认识准则。
 > - **2020 年代至今 — [[Epistemic Agency\|认识能动性]]、论证实质与循证教学辩护阶段** 聚焦论证质量的认识论实质评价，倡导赋予边缘群体学生认识能动权；联合全球学者对抗[[Direct Instruction\|直接教学]]绝对化思潮，确立[[Inquiry-Based Learning\|指导式探究]]与直接教学时序整合的新框架。
 >   - **代表著作** *Evaluating the quality of argumentation: The role of epistemic ideals and reliable processes* (2025); *Let’s talk evidence – The case for combining inquiry-based and direct instruction* (2023, 共同作者).
 >   - **关键概念／方法** [[Epistemic Agency\|认识能动性]]、认识正义、论证质量认识论评价、时序协同教学。
@@ -126,7 +126,7 @@ updated: 2026-09-22
 ## 核心思想
 
 > [!claim] 核心主张
-> 真正的学习绝非被动吸收预制结论或机械执行探究步骤，而是学习者在富有社会互动支持的共同体中行使[[Epistemic Agency\|认识能动性]]，协调经验证据与替代性理论模型，并在元[[Epistemology\|认识论]]审议中达成[[Knowledge Production\|知识建构]]。科学教育的核心目标不仅在于掌握既定结论，更在于培育学生对什么是可靠证据生成过程、什么构成了良好解释标准的深刻认识论反思。
+> 真正的学习绝非被动吸收预制结论或机械执行探究步骤，而是学习者在富有社会互动支持的共同体中行使[[Epistemic Agency\|认识能动性]]，协调经验证据与替代性理论模型，并在元[[Epistemology\|认识论]]审议中达成[[Knowledge Building Theory|知识建构]]。科学教育的核心目标不仅在于掌握既定结论，更在于培育学生对什么是可靠证据生成过程、什么构成了良好解释标准的深刻认识论反思。
 
 > [!citation-card] 论科学探究教学的六大认识论要素
 > 科学探究绝非照方抓药的烹饪式实验，有效的探究必须具备六个本质要素：自主生成新知、高阶主动认知加工、依托经验证据、行使认识能动性、复杂推理协调以及参与共同体批判协商。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 2)]]
@@ -194,7 +194,7 @@ updated: 2026-09-22
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 反思了过去部分开放式探究因缺乏[[Structured Teaching\|结构化教学]]支架导致学生迷失的局限，确立了高支架指导式探究的新[[Paradigm\|范式]]。
 
 > [!warning] 未解问题与边界
-> 基于 [[AIR Model of Epistemic Cognition\|AIR]] 模型的元认识论探究对教师的教学即席诊断与[[Dialogue in Education\|对话]]引导能力提出了极高要求。在基础薄弱的大[[Class Size\|班额]]常规课堂中，如何为一线普通教师提供操作性强且不滑向形式主义的支架设计工具，仍是 Chinn 团队与学习科学界持续攻关的现实难题。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 221–222)]]
+> 基于 [[AIR Model of Epistemic Cognition\|AIR]] 模型的元认识论探究对教师的教学即席诊断与对话引导能力提出了极高要求。在基础薄弱的大[[Class Size\|班额]]常规课堂中，如何为一线普通教师提供操作性强且不滑向形式主义的支架设计工具，仍是 Chinn 团队与学习科学界持续攻关的现实难题。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 221–222)]]
 
 ---
 

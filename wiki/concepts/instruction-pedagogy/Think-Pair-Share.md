@@ -24,9 +24,9 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Group Investigation]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Dialogue in Education]]"
   - "[[Constructivist Paradigm]]"
   - "[[Structured Teaching]]"
+  - "[[Open-Mindedness]]"
   - "[[Heterogeneity]]"
   - "[[Academic Achievement]]"
 related_theories: []
@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Think-Pair-Share
@@ -106,7 +106,7 @@ updated: 2026-09-17
 > 独立静思提供了深层语义加工的时间窗口，而同伴配对则提供了低风险的观点试错与口头排练机会，有效降低课堂焦虑并激活主动认知。
 
 > [!claim] Lyman; Slavin
-> **等待时间与同伴协商驱动认知深化** [[Totally Pedagogised Society\|TPS]] 突破了传统课堂“提问即回答”的浅层记忆反应模式；强制性的静思时间保证了复杂[[Higher-Order Thinking Skills\|高阶思维]]的发生，同伴间的促进性[[Dialogue in Education\|对话]]促使学生在向他人解释概念的过程中完成自我知识结构的重组与精细化加工。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
+> **等待时间与同伴协商驱动认知深化** [[Totally Pedagogised Society\|TPS]] 突破了传统课堂“提问即回答”的浅层记忆反应模式；强制性的静思时间保证了复杂[[Higher-Order Thinking Skills\|高阶思维]]的发生，同伴间的促进性对话促使学生在向他人解释概念的过程中完成自我知识结构的重组与精细化加工。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
 
 ---
 
@@ -143,7 +143,7 @@ updated: 2026-09-17
 
 > [!warning] 实施挑战与误区
 > - **跳过思考阶段直接讨论** 教师常因课堂时间紧张而压缩甚至省略第一阶段的独立思考时间，导致活动迅速退化为外向学生单方面主导的无序交谈。
-> - **问题设计过于浅显** 若教师提出的问题仅涉及事实回忆而非开放性推论或概念辨析，[[Totally Pedagogised Society\|TPS]] 将失去同伴协商与认知冲突的价值。
+> - **问题设计过于浅显** 若教师提出的问题仅涉及事实回忆而非[[Open-Mindedness|开放性]]推论或概念辨析，[[Totally Pedagogised Society\|TPS]] 将失去同伴协商与认知冲突的价值。
 
 ---
 

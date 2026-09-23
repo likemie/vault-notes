@@ -8,10 +8,10 @@ summary: "英国教育慈善家、萨顿信托（Sutton Trust）创始人兼董�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 24
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 23
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1946"
 died: ""
 lifespan: "1946–至今"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Causality]]"
   - "[[Determinism]]"
-  - "[[Growth]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Paradigm]]"
   - "[[Months of Progress]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Peter Lampl
@@ -109,7 +108,7 @@ updated: 2026-09-18
 > 社会阶层背景不应当决定个体[[Academic Achievement\|学业成就]]与人生发展轨迹；打破代际不平等传递不能依靠未经检验的教学时尚或意识形态口号，而必须依托长期中立、不受选举预算周期绑架的独立信托制度，通过严谨的因果实证研究（尤其是大规模现场随机试验）系统甄别“真正有效的教学干预”，并将高确定性证据以极低认知成本直观转化为一线校长的实践资源。
 
 > [!citation-card] 社会流动性与打破阶层背景[[Determinism\|决定论]]
-> “我们必须打破出身决定命运的怪圈。低收入家庭儿童之所以在学业上落后，不是因为他们缺乏天赋，而是因为他们无法享有同等质量的教学资源与[[Growth\|成长]]机会。通过独立、严谨、客观的证据为学校提供指引，将每一笔教育经费投向真正能够提升弱势学生学业表现的刀刃上，是实现社会公平最坚实的途径。”
+> “我们必须打破出身决定命运的怪圈。低收入家庭儿童之所以在学业上落后，不是因为他们缺乏天赋，而是因为他们无法享有同等质量的教学资源与成长机会。通过独立、严谨、客观的证据为学校提供指引，将每一笔教育经费投向真正能够提升弱势学生学业表现的刀刃上，是实现社会公平最坚实的途径。”
 >
 > *"We need to break the cycle where background determines destiny. Children from low-income homes fall behind not because of a lack of talent, but because they lack equal access to high-quality teaching and opportunities. Using independent, rigorous evidence to guide schools and ensure resources target what truly lifts attainment is the most powerful path to social mobility."*
 

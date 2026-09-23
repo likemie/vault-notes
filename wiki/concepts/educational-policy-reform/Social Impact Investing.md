@@ -10,7 +10,7 @@ aliases:
 summary: "指将金融市场的风险投资与私募股权纪律同明确可测量的社会或教育改善目标相结合的投资范式；强调在追求财务回报（或资金保值）的同时实现经由量规审计的社会效益回报（ROI），以社会影响力债券和成果导向合同重塑公共教育供给。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
   - "[[Return on Investment]]"
-  - "[[Growth]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Professional Judgment]]"
 related_theories:
@@ -84,7 +83,7 @@ updated: 2026-09-22
 
 > [!feature] 核心要素
 > - **私市股权纪律导入（Private Equity Disciplines）** 将严格的尽职调查（Due Diligence）、流动性管理、财务模型与退场机制系统搬入公共教育与非营利机构治理之中。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, p. 520)]]
-> - **成果量规与指标证券化（Metric Commodification and Monetisation）** 复杂的教育全人[[Growth\|成长]]被简化为单一因果指标（如测试分数或出勤率提升），并将其直接折算为政府应向投资者支付的溢价分红基准。
+> - **成果量规与指标证券化（Metric Commodification and Monetisation）** 复杂的教育全人成长被简化为单一因果指标（如测试分数或出勤率提升），并将其直接折算为政府应向投资者支付的溢价分红基准。
 > - **多层控股法人架构（Multi-tier Corporate Architecture）** 依托担保有限公司、投资名义人公司（Nominees）与基金受托实体，构筑兼具免税优惠与商业保密特权的法人网格。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 524, 528)]]
 > - **公共财政倒流与风险转嫁（Fiscal Extraction and Risk Externalisation）** 表面由私人资金先期垫付，实质上在项目达标后由政府国库支付高额利息溢价，使公共税收转变为保障私人资本无风险获利的后盾。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 527–528)]]
 

@@ -24,7 +24,6 @@ related_concepts:
   - "[[Homework]]"
   - "[[Critical Thinking]]"
   - "[[Theoretical Perspective]]"
-  - "[[Dialogue in Education]]"
   - "[[Lifelong Learning]]"
   - "[[Epistemic Dependence]]"
   - "[[Epistemic Agency]]"
@@ -33,6 +32,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Document]]"
   - "[[Variable]]"
+  - "[[Dialogue in Education]]"
   - "[[Self-Efficacy]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Generative Artificial Intelligence]]"
@@ -97,7 +97,7 @@ updated: 2026-09-22
 
 > [!feature] 评价性判断的构成维度
 > - **质量概念的内部建构（Understanding Quality）** 深刻理解本学科或专业领域对于“卓越成果”的显性与隐性判准，形成多维度的质量心智表征。
-> - **多源证据的辨识与校准（Discerning Evidence）** 能够在多个异质方案、不同[[Theoretical Perspective\|理论视角]]以及人机[[Dialogue in Education\|对话]]反馈中辨析论证的严密性与局限性。
+> - **多源证据的辨识与校准（Discerning Evidence）** 能够在多个异质方案、不同[[Theoretical Perspective\|理论视角]]以及人机对话反馈中辨析论证的严密性与局限性。
 > - **独立决断与责任承担（Autonomous Decision-making）** 面对矛盾建议或算法生成结论时，敢于做出采纳或拒绝的判断，并为自己的最终决策承担学术与实践责任。
 > - **形成性改进的行动转化（Productive Action）** 将判断结果转化为切实可行的作品修订与认知图式重构，形成[[Self-Regulated Learning\|自我调节学习]]闭环。
 

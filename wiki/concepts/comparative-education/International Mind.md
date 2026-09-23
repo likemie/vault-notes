@@ -17,11 +17,11 @@ tags:
 related_concepts:
   - "[[Rationalism in International Relations]]"
   - "[[Hypothesis]]"
-  - "[[Dialogue in Education]]"
   - "[[Realism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[Global Citizenship]]"
   - "[[Scientific Method]]"
+  - "[[Dialogue in Education]]"
   - "[[Democratic Education]]"
   - "[[Lifelong Learning]]"
   - "[[Disciplina and Doctrina]]"
@@ -54,7 +54,7 @@ updated: 2026-09-17
 > [!concept-lens] 概念透镜
 > - **指向关系** 它代表了一种超越本国中心主义（ethnocentrism）的心理认知状态，强调在承认民族国家主权的前提下，通过消除教科书偏见和增进学者跨国流动，形塑具有包容性和客观性的国际主义主体意识。
 > - **学术用途** 在比较教育学科史上，它被用作证成跨国教科书审查、学术合作网络以及多边教育咨询中立性与合理性的核心话语，将比较教育塑造为促进人类和平改良的理性科学工具。
-> - **边界条件** 它依赖于多边契约和理性科学治理的自由主义[[Hypothesis\|假设]]，通常假定跨国[[Dialogue in Education\|对话]]能够消解根本性的地缘利益对立，因而在面对激烈的地缘权力争夺（[[Realism in International Relations\|现实主义]]）或深层不平等结构（[[Revolutionism\|革命主义]]）时解释力有限。
+> - **边界条件** 它依赖于多边契约和理性科学治理的自由主义[[Hypothesis\|假设]]，通常假定跨国对话能够消解根本性的地缘利益对立，因而在面对激烈的地缘权力争夺（[[Realism in International Relations\|现实主义]]）或深层不平等结构（[[Revolutionism\|革命主义]]）时解释力有限。
 
 > [!citation-card]- 关键表述
 > 一种在世界各国人民中间比民族主义心态更适合于合作的普遍心态。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 424]])
@@ -82,7 +82,7 @@ updated: 2026-09-17
 
 > [!feature] 国际心智的核心要素
 > - **教科书去偏见化与客观知识重构** 通过跨国比较分析，消除历史教科书中的隐瞒（omissions）、歪曲（distortions）和刻板印象（stereotypes），建构具有主体间客观性（inter-subjectively objective）的学校知识，从知识源头上剪除国家冲突的根源。
-> - **[[Rationalism in International Relations\|理性主义]]人类改善论承诺** 坚信国际社会可以通过科学的制度建设和理性[[Dialogue in Education\|对话]]得到渐进改善，将比较教育定位为服务于此种人类命运改良的中立、客观的科学工具。
+> - **[[Rationalism in International Relations\|理性主义]]人类改善论承诺** 坚信国际社会可以通过科学的制度建设和理性对话得到渐进改善，将比较教育定位为服务于此种人类命运改良的中立、客观的科学工具。
 > - **超国家学术网络与多边建制** 依赖于多边机构（如早期国联、现代[[UNESCO\|联合国教科文组织]]）提供的科学合作平台，通过学者的跨国机制化交流反馈并优化成员国的[[Democratic Education\|民主教育]]体系。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 424]])
 
 > [!logic-map]- 要素关系
@@ -153,7 +153,7 @@ updated: 2026-09-17
 
 > [!critique] 外部学术批判
 > - **权力真空假说** [[Realism in International Relations\|现实主义]]学派（Realism）批评“国际心智”过度依赖道德说教与教科书审查，完全无视了国家间硬性的地缘权力竞争、领土争端以及根本性的国家安全焦虑。
-> - **世界体系的霸权固化** [[Revolutionism\|革命主义]]（去殖民）学者指出，Zimmern式精英阶层倡导的“多边理性[[Dialogue in Education\|对话]]”是以承认西方在世界体系中的核心支配权为前提的，实际上抹杀了南方国家彻底破除新殖民主义依附结构的激进斗争空间。
+> - **世界体系的霸权固化** [[Revolutionism\|革命主义]]（去殖民）学者指出，Zimmern式精英阶层倡导的“多边理性对话”是以承认西方在世界体系中的核心支配权为前提的，实际上抹杀了南方国家彻底破除新殖民主义依附结构的激进斗争空间。
 
 > [!warning] 适用局限
 > 该概念主要适用于多边人文交流、和平与公民教育政策史、国际组织演进机制的解析，不适用于解释主权国家间的热战冲突、军事安全博弈以及逆全球化浪潮中本土民粹主义的崛起。

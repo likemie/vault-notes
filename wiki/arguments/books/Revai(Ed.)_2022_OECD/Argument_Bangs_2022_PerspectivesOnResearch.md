@@ -7,7 +7,7 @@ title: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_key: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_display_title: "Perspectives on education research (N. Révai, Ed.)"
 argument_kind: "book-chapter"
-argument_related_count: 80
+argument_related_count: 81
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -73,7 +73,6 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Implementation Fidelity]]"
   - "[[Counterfactual]]"
-  - "[[Growth]]"
   - "[[International Education]]"
   - "[[Whole Person Education]]"
   - "[[Going Native]]"
@@ -89,6 +88,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Evaluation Research]]"
   - "[[Academic Achievement]]"
+  - "[[Cognitive Deskilling]]"
   - "[[Variable]]"
   - "[[Professional Judgment]]"
   - "[[Constructed Knowledge]]"
@@ -112,6 +112,7 @@ related_persons:
   - "[[John Dewey]]"
   - "[[Paulo Freire]]"
   - "[[Robert Slavin]]"
+  - "[[Christopher Martin]]"
   - "[[Andreas Schleicher]]"
 related_facts:
   - "[[Institute of Education Sciences]]"
@@ -178,7 +179,7 @@ updated: 2026-09-14
 > | **利益相关者多维立场陈述** | 邀请来自比利时、美国、匈牙利、挪威与日本的 8 位跨界代表撰写专题评论，涵盖大学资深学者、联邦政府科学资助长官、全球最大教师工会联合会战略官员、身处薄弱地区兼任大学教员的中小学校长、国家级大型 [[Research-Practice Partnership\|RPP]] 试点首席评估专家、资[[Teaching Assistant\|助教]]育公平的私立慈善基金会高管，以及国家教师专业研修机构教授。（pp. 202–227） |
 > | **跨篇主题综合归纳** | 编者基于 7 篇立场评论开展扎根式的跨主题归纳，在科研质量与严谨性、研-学协作性质、[[Democratising Evidence\|证据民主化]]伦理考量，以及宏观科研政策支持四大核心议题上提炼理论共识、辨析结构张力并划定未来[[Research Scope\|研究边界]]。（pp. 227–231） |
 
-> [!sample-panel]- [[Dialogue in Education\|对话]]主体与制度情境快照
+> [!sample-panel]- 对话主体与制度情境快照
 > | 制度阵营 | 代表学者与机构身份 | 关切焦点与经验依托 |
 > |---|---|---|
 > | **学术界与国际组织** | [[Dirk Van Damme\|迪尔克·范达默（Dirk Van Damme）]]<br>波士顿课程再造中心高级顾问；前 OECD CERI 主任 | 诊断教育研究的学科合法性与[[Epistemology\|认识论]]不确定性危机,反思复现赤字与内幕偏误,呼吁自主演绎理论建构与长期战略资助。（pp. 202–206） |
@@ -293,7 +294,7 @@ updated: 2026-09-14
 
 #### 1. 教师工会依托独立研究院与国际协商平台成为跨国科研生产的战略倡导者
 
-[[John Bangs|约翰·班斯]]与马丁·亨利指出，教师职业的工会密度在全社会各经济部门中高居首位且保持稳定（Carter et al., 2010）。这一组织现实构成了激活实践主体的关键杠杆：教师工会绝非仅仅关注工资待遇的维权团体，而是已[[Growth|成长]]为教育科研的核心出资方与政策倡导主体。
+[[John Bangs|约翰·班斯]]与[[Christopher Martin|马丁]]·亨利指出，教师职业的工会密度在全社会各经济部门中高居首位且保持稳定（Carter et al., 2010）。这一组织现实构成了激活实践主体的关键杠杆：教师工会绝非仅仅关注工资待遇的维权团体，而是已成长为教育科研的核心出资方与政策倡导主体。
 
 > [!policy-context] Box 10.2　[[Education International\|国际教育协会]]（Education International, EI）
 > **组织性质** 全球最大的行业工会联合会，总部设于比利时布鲁塞尔。
@@ -310,7 +311,7 @@ updated: 2026-09-14
 >   - **教师工作压力成因量表（TALIS 2018）** EI 凭借对一线教师身心消耗的敏锐洞察，推动 OECD 在 2018 年调查中首次增设针对教师工作压力来源与性质的专属量表（OECD, 2020）。（p. 210）
 >   - **分布式教师领导力量表（TALIS 2013）** EI 资助开展了跨国教师领导力质性调研（Bangs & Frost, 2012），直接推动 TALIS 2013 引入分布式领导力测评维度，并促成 OECD 官方报告将转向分布式领导列为系统政策建议（OECD, 2014）。（p. 210）
 >   - **二次挖掘与独立政策分析** EI 委托达林-哈蒙德（Linda Darling-Hammond）等著名学者对 TALIS 数据开展二次独立挖掘，发表了关于教师短缺与专业协作的独立政策洞见（Burns & Darling-Hammond, 2014）。（p. 210）
-> - **搭建部长-工会首脑闭门[[Dialogue in Education\|对话]]机制（[[International Summits on the Teaching Profession\|ISTP]]）**
+> - **搭建部长-工会首脑闭门对话机制（[[International Summits on the Teaching Profession\|ISTP]]）**
 >   推动创设了[[International Education\|国际教育]]界绝无仅有的[[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP），实现政界高官与专业工会首脑完全基于科研证据的平等战略协商。（pp. 211–212）
 
 > [!event-context] Box 10.3　[[International Summits on the Teaching Profession\|国际教师职业峰会]]（International Summits on the Teaching Profession, ISTP）
@@ -439,7 +440,7 @@ updated: 2026-09-14
 ### 论证步骤四　警惕功利主义可用性与[[Statistical Normalisation|统计正态化]]对边缘群体的制度排斥，熔铸坚守受托伦理的协同治理蓝图
 
 > [!claim] 步骤四核心主张
-> 将立即可用性与公共财政高性价比作为评判教育科研价值的最高标尺，潜藏着严重的认识论偏差与政治伦理风险；高成本[[Experimental Research\|实验法]]主导下的[[Statistical Normalisation\|统计正态化]]不仅加速了教师专业性的去技能化，更在制度上直接抹杀并排斥了处于正态分布两端的离群弱势群体。唯有将科学严谨性、民主协商性与专业受托伦理熔铸为一体，才能真正建构起支撑全系统的教育科研协同治理蓝图。（pp. 224–227, 227–231）
+> 将立即可用性与公共财政高性价比作为评判教育科研价值的最高标尺，潜藏着严重的认识论偏差与政治伦理风险；高成本[[Experimental Research\|实验法]]主导下的[[Statistical Normalisation\|统计正态化]]不仅加速了教师专业性的[[Cognitive Deskilling|去技能化]]，更在制度上直接抹杀并排斥了处于正态分布两端的离群弱势群体。唯有将科学严谨性、民主协商性与专业受托伦理熔铸为一体，才能真正建构起支撑全系统的教育科研协同治理蓝图。（pp. 224–227, 227–231）
 
 #### 1. 功利主义可用性与[[Statistical Normalisation|统计正态化]]削弱教师专业判断并排斥弱势离群群体
 
@@ -489,7 +490,7 @@ updated: 2026-09-14
 > [!finding-cards] 全章五大核心论证发现
 > 1. **教育科研供给侧质量赤字与学科依附是系统失效的深层瓶颈** 全球前 100 顶级教育期刊中复现研究仅占 0.13%，医疗与教育在研究综合论文产出上悬殊达 26:1；教育研究必须走出对外部学科与时髦价值体系的寄生借用，建立自主经验理论与严肃同行自律。（pp. 203–205）
 > 2. **SEER 体系确立了超越传统 [[Randomised Controlled Trials\|RCT]] 的新一代循证卓越标准** 强制实施干预构件拆解、真实成本核算（设专家服务台）、第三方通用工具测量（EdInstruments）、十万级用户数字平台快速试错以及面向教育公平的响应，彻底终结了混杂药丸袋式的黑箱评估。（pp. 206–209）
-> 3. **教师工会已[[Growth\|成长]]为连接前沿研究与宏观政策倡导的战略中枢** [[Education International\|国际教育协会]]（EI）通过建立独立研究院、向 [[OECD]] 争取数据所有权、重塑 [[Teaching and Learning International Survey\|TALIS]] 工作压力与领导力量表，以及协同创设[[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP），证明了有组织的专业教师集体是确保科研贴近教学现实的关键保障。（pp. 209–213）
+> 3. **教师工会已成长为连接前沿研究与宏观政策倡导的战略中枢** [[Education International\|国际教育协会]]（EI）通过建立独立研究院、向 [[OECD]] 争取数据所有权、重塑 [[Teaching and Learning International Survey\|TALIS]] 工作压力与领导力量表，以及协同创设[[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP），证明了有组织的专业教师集体是确保科研贴近教学现实的关键保障。（pp. 209–213）
 > 4. **长效[[Research-Practice Partnership\|研究-实践伙伴关系]]依托[[Third Space Discourse\|第三空间话语]]而非模糊专业边界** 瑞典 ULF 国家试点（25 所大学与 150 余市镇）证明，高成效合作绝非强行同化彼此，而是在承认研究者与教师不同专业特长的前提下，搭建平等的小型研讨[[Champ\|场域]]并赋予教师课题发起权。（pp. 216–220）
 > 5. **推行[[Democratising Evidence\|证据民主化]]并坚决防范功利主义可用性陷阱** 彻底终结高校对弱势社群的榨取式科研，将青年与边缘社区吸纳进课题评审委员会；同时坚决警惕盲目追求高性价比的工具主义修辞，防范[[Statistical Normalisation\|统计正态化]]将正态分布两端的弱势离群群体从政策关怀中抹去。（pp. 220–224, 224–227）
 
@@ -550,7 +551,7 @@ updated: 2026-09-14
 > - **长效[[Research-Practice Partnership\|研究-实践伙伴关系]]的科学累积证据尚处初期**
 >   无论是在瑞典全国推行的 ULF 试点，还是美国各学区生发的 RPP 项目，关于这种长效共创伙伴关系究竟如何运作、在何种边界条件下才能有效促进全系统[[Cumulative Knowledge Base\|累积性知识库]]构建的实证科学证据依然处于起步阶段，其组织内部动力学与外部制度激励机制仍有待长期检验。（p. 228）
 > - **多元学术论辩未提供单一终极解决方案**
->   编者明确强调，专题[[Dialogue in Education\|对话]]的初衷是搭建超越象牙塔围墙的跨界反思空间，呈现多元观点的张力与互补性；各方在基础[[Epistemology\|认识论]]（实证因果控制优先 vs 实践质性共创优先）与资助战略权衡上依然存在根本分歧，全章并未也无意开出整齐划一的政策灵丹妙药。（pp. 229–231）
+>   编者明确强调，专题对话的初衷是搭建超越象牙塔围墙的跨界反思空间，呈现多元观点的张力与互补性；各方在基础[[Epistemology\|认识论]]（实证因果控制优先 vs 实践质性共创优先）与资助战略权衡上依然存在根本分歧，全章并未也无意开出整齐划一的政策灵丹妙药。（pp. 229–231）
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "区分学生在具体任务中采用的表层与深层学习方式，强调学习取向由学习意图、知识基础、任务活动、课程结构与评估情境共同塑造"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 36
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Homework]]"
-  - "[[Dialogue in Education]]"
   - "[[Constructivist Paradigm]]"
   - "[[Problem-Based Learning]]"
   - "[[Unit of Analysis]]"
@@ -111,7 +110,7 @@ updated: 2026-09-22
 > - **活动的适切性** 活动的认知层次要与目标相称。目标要求解释与迁移时，只做记录和复述便不充分；任务要求掌握基本事实时，准确记忆可能是必要活动。[[Argument_Biggs_1999_HERD\|Biggs (1999, p. 60)]]
 > - **知识组织** 深层学习发生在学生能把事实、命题、概念与学科实践组织起来时。[[Curriculum Design Coherence Model\|课程设计连贯性模型]]进一步把它表述为[[Knowledge-that and Know-how-to\|知其然]]与[[Knowledge-that and Know-how-to\|知其所用]]之间可被展示和阐述的连接。[[Argument_McPhail_2023_JCS\|McPhail et al. (2023, pp. 4–16)]]
 > - **教学与评估信号** 学生会从考试和[[Homework\|作业]]中判断课程真正重视什么。教师口头强调理解，但评估只奖励复述时，理性的应试策略仍会促使学生采用表层方式。[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 80, 87)]]
-> - **互动条件** 明确的目标、学习的必要感、能够专注而不必防御的环境，以及同伴和教师之间的[[Dialogue in Education\|对话]]，共同支持理解的形成与深化。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 60–61)]]
+> - **互动条件** 明确的目标、学习的必要感、能够专注而不必防御的环境，以及同伴和教师之间的对话，共同支持理解的形成与深化。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 60–61)]]
 
 ### 两条理论路径如何汇合
 
@@ -175,7 +174,7 @@ updated: 2026-09-22
 > 学生会根据课程实际奖励的行为分配努力；促进深层学习既要提出理解目标，也要让教学活动、评估任务和社会互动持续支持这些目标。
 
 > [!claim] Biggs, J.
-> **概念改变需要四项条件** 学习包含信息重组和理解方式的改变，信息增长只是其中一部分。要促成这种[[Educative Conceptual Change\|教育性概念改变]]，学生首先要看清目标及其在评估中的体现；其次要感到达到目标确有必要，而这种动机可以由教学产生；再次要能专注于任务，避免在紧迫或设计不当的考试压力下采取防御性应付；最后还要通过同伴与教师的合作和[[Dialogue in Education\|对话]]，对理解进行塑造、扩展和深化。四项条件共同把理解目标转化为学生实际开展的活动。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 60–61)]]
+> **概念改变需要四项条件** 学习包含信息重组和理解方式的改变，信息增长只是其中一部分。要促成这种[[Educative Conceptual Change\|教育性概念改变]]，学生首先要看清目标及其在评估中的体现；其次要感到达到目标确有必要，而这种动机可以由教学产生；再次要能专注于任务，避免在紧迫或设计不当的考试压力下采取防御性应付；最后还要通过同伴与教师的合作和对话，对理解进行塑造、扩展和深化。四项条件共同把理解目标转化为学生实际开展的活动。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 60–61)]]
 
 > [!claim] Hattie, J.
 > **学生以评估判断课程真正重视什么** 教师可以宣称课程重在关系、理解和迁移，但若考试奖励的是大量事实和对教材观点的复述，学生便会据此选择表层策略。[[Argument_Hattie_2015_SOTLP\|Brown & Hirschfeld (2008, as cited in Hattie, 2015b, p. 87)]] 询问同一批课程中的教师和学生时，多数教师认为目标是深层学习，学生却认为实际要求是表层学习；学生的判断主要来自评估方式。因而[[Constructive Alignment\|建构性对齐]]不仅是课程文件的一致性，也是防止[[Assessment Backwash\|评估反拨]]推翻教学意图的条件。

@@ -15,7 +15,7 @@ summary: "德国当代哲学家与社会理论家，法兰克福学派第二代�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 46
+person_related_count: 45
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -48,7 +48,6 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Technical Rationality]]"
   - "[[Visible Learning]]"
-  - "[[Dialogue in Education]]"
   - "[[Evidence-Based Education]]"
   - "[[Grand Theory]]"
   - "[[Heterogeneity]]"
@@ -87,7 +86,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Jürgen Habermas
@@ -195,7 +194,7 @@ updated: 2026-09-17
 > - **合法化危机与现代教育评价的技术主义批判（政策社会学路径）**
 >   [[Klaus Nielsen\|克劳斯·尼尔森]]（[[Argument_Nielsen_2021_IRTP\|Nielsen & Klitmøller, 2021b]]）等学者将哈贝马斯的“合法化危机（Legitimation Crisis）”与舍恩（Schön）的[[Technical Rationality\|技术理性]]结合，深刻解构了[[John Hattie\|约翰·哈蒂]]（John Hattie）的《[[Visible Learning\|可见的学习]]》（[[Visible Learning]]）等量化循证模式在全球风靡的机制：此类模式的盛行绝非源于其卓越的实证科学质量，而在于其高度技术化的指标包裹精准满足了现代学校系统在面对公众问责与财政紧缩时的“制度合法化危机”替代需求。[[Argument_Nielsen_2021_IRTP\|(Nielsen & Klitmøller, 2021b)]]
 > - **交往理性与[[Emancipatory Action Research\|批判性行动研究]]（教学与课程实践路径）**
->   [[Stephen Kemmis\|斯蒂芬·凯米斯]]（[[Stephen Kemmis]]）将哈贝马斯的交往行动与[[Ideal Speech Situation\|理想言说情境]]直接转化为[[Emancipatory Action Research\|解放性行动研究]]的核心纲领：赋权教师与学生建立无等级的协商[[Dialogue in Education\|对话]]空间，反抗外部官僚指标对教学生活世界的侵蚀，践行[[Paulo Freire\|弗莱雷]]式的解放性教育实践（[[Praxis]]）。
+>   [[Stephen Kemmis\|斯蒂芬·凯米斯]]（[[Stephen Kemmis]]）将哈贝马斯的交往行动与[[Ideal Speech Situation\|理想言说情境]]直接转化为[[Emancipatory Action Research\|解放性行动研究]]的核心纲领：赋权教师与学生建立无等级的协商对话空间，反抗外部官僚指标对教学生活世界的侵蚀，践行[[Paulo Freire\|弗莱雷]]式的解放性教育实践（[[Praxis]]）。
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 24–25)]] — 运用哈贝马斯现代性未完成工程与理性公共领域理论，奠定 19 世纪前中期现代比较教育起源的思想史阐释基架。
@@ -233,7 +232,7 @@ updated: 2026-09-17
 > > - **权力[[Realism in International Relations\|现实主义]]派（Foucault 学派）** 认为话语与权力不可分割，任何被视为“纯粹理性”的公共审议背后均深嵌着知识-权力的微观[[Disciplina and Doctrina\|规训]]，不存在绝对无污染的语言绿洲。
 
 > [!warning] 理论边界与当代反思
-> 面对数字时代社交媒体算法推荐、假新闻泛滥与微观极化政治，传统基于实体印刷报刊与咖啡馆[[Dialogue in Education\|对话]]构建的“资产阶级公共领域”面临深层瓦解；哈贝马斯在晚年著作中亦反思了算法资本对公共审议的新型“再封建化”冲击，促使教育学必须将批判媒介素养与数字公共领域治理纳入商谈伦理的新议程。
+> 面对数字时代社交媒体算法推荐、假新闻泛滥与微观极化政治，传统基于实体印刷报刊与咖啡馆对话构建的“资产阶级公共领域”面临深层瓦解；哈贝马斯在晚年著作中亦反思了算法资本对公共审议的新型“再封建化”冲击，促使教育学必须将批判媒介素养与数字公共领域治理纳入商谈伦理的新议程。
 
 ---
 

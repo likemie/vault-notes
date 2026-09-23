@@ -9,7 +9,7 @@ aliases:
 summary: "以儿童发展与经验学习为核心的教育改革运动，在跨国传播中演化出民主参与、社会主义改造、实用主义提分与修辞合法化等多重再脉络化形态"
 type: concept
 domain: "educational-philosophy"
-related_count: 45
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -34,15 +34,14 @@ related_concepts:
   - "[[Discovery Learning]]"
   - "[[Critical Thinking]]"
   - "[[Quality Education]]"
-  - "[[Knowledge Production]]"
   - "[[Selective Affinity]]"
   - "[[General Education]]"
   - "[[Decodification]]"
-  - "[[Growth]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Variable]]"
   - "[[Document]]"
 related_theories:
+  - "[[Knowledge Building Theory]]"
   - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Documentary Analysis]]"
@@ -66,7 +65,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Progressive Education
@@ -114,7 +113,7 @@ updated: 2026-09-21
 > - **从经验中学习** 强调知识不是被单向灌输的，而是在儿童与环境相互作用的真实经验活动中主动建构的。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, p. 103)]]
 > - **儿童中心与发展导向** 教育体系以儿童的自然发展需求、兴趣与心理准备为中心，而非以僵化的学科分类或教师权威为中心。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, pp. 102–103)]]
 > - **民主公民与社会塑造** 长远目标是培养能够积极参与并主动塑造民主社会的独立公民，而非被动适应外部环境的个体。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, p. 104)]]
-> - **跨国可塑性与[[Recontextualization\|再脉络化]]** 在跨国传播中可与不同的政治制度（如苏俄社会主义建设）或文化传统（如儒家[[Dialogue in Education\|对话]]传统）相结合，生成多样化的本土形态。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, p. 107)]]; [[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 602)]]
+> - **跨国可塑性与[[Recontextualization\|再脉络化]]** 在跨国传播中可与不同的政治制度（如苏俄社会主义建设）或文化传统（如儒家对话传统）相结合，生成多样化的本土形态。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, p. 107)]]; [[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 602)]]
 
 > [!logic-map]- 进步教育理论内核与跨国演变机制
 > ```mermaid
@@ -166,10 +165,10 @@ updated: 2026-09-21
 > **苏俄农村进步教育与社会主义公民改造** 进步教育工具在跨国转移中可脱离美式民主框架。苏俄教育家 Shatskii 在十月革命前后开展了大规模农村进步教育实验，将经验学习和活动课程与苏俄社会主义建设、集体主义和阶级觉悟培养相结合，展示了进步教育与社会主义改造的接榫。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, pp. 103–104)]]
 
 > [!claim] [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]]
-> **[[John Dewey\|杜威]]在中国的百年四次再脉络化** 杜威的进步教育思想在中国经历了四次深刻的再脉络化：民国时期[[Hu Shi\|胡适]]将其塑造为反迷信与经世致用的工具；毛泽东时代被批判为资本主义毒草；1980 年代通过[[Tao Xingzhi\|陶行知]]被重塑为现代化旗帜；当代被部署为[[Quality Education\|素质教育]]代言人。产物“Duwei”已是高度质变的本土[[Knowledge Production\|知识建构]]物。[[Argument_Schulte_2009_EncuentrosEducacion\|(Schulte, 2009, pp. 68–93)]]
+> **[[John Dewey\|杜威]]在中国的百年四次再脉络化** 杜威的进步教育思想在中国经历了四次深刻的再脉络化：民国时期[[Hu Shi\|胡适]]将其塑造为反迷信与经世致用的工具；毛泽东时代被批判为资本主义毒草；1980 年代通过[[Tao Xingzhi\|陶行知]]被重塑为现代化旗帜；当代被部署为[[Quality Education\|素质教育]]代言人。产物“Duwei”已是高度质变的本土[[Knowledge Building Theory|知识建构]]物。[[Argument_Schulte_2009_EncuentrosEducacion\|(Schulte, 2009, pp. 68–93)]]
 
 > [!claim] [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]
-> **东亚高利害考试下的实用主义提分与儒家[[Dialogue in Education\|对话]]亲和** 进步教育/[[Learner-Centred Education\|LCE]] 进入中国高压考试文化时，其理想型民主育人目标被实用主义地降维再脉络化为“攻克高阶考题的[[Critical Thinking\|批判性思维]]”与“提升 45 分钟课堂吸收率的工具”。这一过程在理念上与[[Confucius\|孔子]]启发式对话传统产生[[Selective Affinity\|选择性亲和]]，但保留了排除学生共决课程的权力共享硬边界。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 601–603)]]
+> **东亚高利害考试下的实用主义提分与儒家对话亲和** 进步教育/[[Learner-Centred Education\|LCE]] 进入中国高压考试文化时，其理想型民主育人目标被实用主义地降维再脉络化为“攻克高阶考题的[[Critical Thinking\|批判性思维]]”与“提升 45 分钟课堂吸收率的工具”。这一过程在理念上与[[Confucius\|孔子]]启发式对话传统产生[[Selective Affinity\|选择性亲和]]，但保留了排除学生共决课程的权力共享硬边界。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 601–603)]]
 
 > [!claim] [[Argument_Cowen_2009_CE\|Cowen (2009b)]]
 > **战后占领期日本与西德对美式进步教育的异质[[Transfer Translation Transformation\|转译]]** 战后美占当局向日本和西德强推美式进步教育学制。日本进步教育者与文部省官员顺应占领军要求，将其转译为日本走向现代化与民主重生的必然逻辑；而西德保守教育精英则以维护德意志文化独特性为名，将其转译为对地方自治的粗暴干涉并联合抵制。[[Argument_Cowen_2009_CE\|(Cowen, 2009b, p. 323)]]
@@ -196,7 +195,7 @@ updated: 2026-09-21
 > [!debates] 学术争议与批判
 >
 > > [!axis] 儿童中心与民主参与 vs 阶级意识与政治控制
-> > 民主进步教育强调抽象的儿童[[Growth\|成长]]与民主公民培养；而苏联教育家（如 Mchitarjan, Gorshkova）批判美式进步教育忽视“阶级意识”，主张教育终点必须是具有阶级觉悟的社会主义公民，最终导致苏联在 1930 年代全面拒绝[[John Dewey\|杜威]]。
+> > 民主进步教育强调抽象的儿童成长与民主公民培养；而苏联教育家（如 Mchitarjan, Gorshkova）批判美式进步教育忽视“阶级意识”，主张教育终点必须是具有阶级觉悟的社会主义公民，最终导致苏联在 1930 年代全面拒绝[[John Dewey\|杜威]]。
 > >
 > > - **Zilversmit（1993）** 强调进步教育以儿童发展与民主参与为中心。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, p. 102)]]
 > > - **Mchitarjan & Gorshkova** 批判美式进步教育缺乏阶级意识分析。[[Argument_Ryabyy_2024_Maneto\|(Ryabyy, 2024, pp. 103–104)]]
@@ -235,6 +234,6 @@ updated: 2026-09-21
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Ryabyy_2024_Maneto\|Ryabyy (2024)]] — 通过 Dewey 1928 年访问苏联及与 Shatskii 的接触，对比美式民主进步教育与苏俄社会主义进步教育实验的共鸣与裂隙。
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 以[[John Dewey\|杜威]]在中国 100 年的四次[[Recontextualization\|再脉络化]]为例，阐述进步教育思想在跨国转移中被本土意识形态议程选择性挪用与重写的机制。
-> - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 揭示中国高利害考试文化下以学生为中心/进步教育探究法被[[Pragmatic Paradigm\|实用主义]]再脉络化为提分与效率工具、与儒家[[Dialogue in Education\|对话]]传统亲和但保留权力共享硬边界的机制。
+> - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 揭示中国高利害考试文化下以学生为中心/进步教育探究法被[[Pragmatic Paradigm\|实用主义]]再脉络化为提分与效率工具、与儒家对话传统亲和但保留权力共享硬边界的机制。
 > - [[Argument_Cowen_2009_CE\|Cowen (2009b)]] — 分析战后占领期美式进步教育在日德两国的[[Heterogeneity\|异质性]][[Transfer Translation Transformation\|转译]]与抵抗。
 > - [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]] — 分析香港[[General Education\|通识教育]]改革中政府如何将进步教育包装为“全球教育趋势”作为政策合法化修辞资源。

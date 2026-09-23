@@ -6,10 +6,10 @@ aliases:
 summary: "古希腊亚里士多德提出的实践理性概念。指在特定社会伦理情境中，个体基于道德善（human flourishing）做出正确理智判断与适切行动的实践智慧。"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - educational-philosophy
   - aristotle
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Curriculum as Process]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
-  - "[[Dialogue in Education]]"
   - "[[Praxis]]"
   - "[[Curriculum as Product]]"
   - "[[Theory of Knowledge]]"
@@ -35,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Phronesis（实践明智）
@@ -49,7 +48,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向在具体伦理情境中追求人类至善的实践审议与道德判断智慧。
-> - **用途** 帮助研究者理解过程模式课程中师生在开放[[Dialogue in Education\|对话]]中的审议推演机制。
+> - **用途** 帮助研究者理解过程模式课程中师生在开放对话中的审议推演机制。
 > - **边界** 不等于抽象的命题知识（Episteme），也不等于技术制作的工匠技能（Techne）。
 
 > [!citation-card]- 关键表述
@@ -101,7 +100,7 @@ updated: 2026-09-17
 > 探讨实践明智如何通过强调具体情境中的道德善审议，防止课程退化为技术流水线。
 
 > [!claim] [[Aristotle]]
-> **实践明智的审议本质** 亚里士多德与格伦迪论证指出，实践明智无法通过预先编写的代码或技术套路来取代；在课程探究中，师生必须依据实践明智在开放[[Dialogue in Education\|对话]]中对知识与道德价值展开辩证审议。[[Argument_Darwish_2009_Queens\|(Aristotle, 1140b; Grundy, 1987, p. 61; Darwish, 2009, p. 67)]]
+> **实践明智的审议本质** 亚里士多德与格伦迪论证指出，实践明智无法通过预先编写的代码或技术套路来取代；在课程探究中，师生必须依据实践明智在开放对话中对知识与道德价值展开辩证审议。[[Argument_Darwish_2009_Queens\|(Aristotle, 1140b; Grundy, 1987, p. 61; Darwish, 2009, p. 67)]]
 
 ---
 
@@ -119,7 +118,7 @@ updated: 2026-09-17
 > [!dev-timeline] 概念演变
 > - **BC 350 — 哲学奠基** [[Aristotle\|亚里士多德]]在《尼各马可伦理学》中提出 *Phronesis*，区分理论智慧、技术技能与实践明智。[[Argument_Darwish_2009_Queens\|(Aristotle, 1140b)]]
 > - **1987 — 课程理论转化** 雪莉·葛兰蒂在《课程：产品、过程与实践》中将 *Phronesis* 确定为[[Curriculum as Process\|作为过程的课程]]的指导理性。[[Argument_Darwish_2009_Queens\|(Grundy, 1987, p. 61)]]
-> - **2009 — [[Theory of Knowledge\|TOK]] 评估应用** 达维什在学位论文中分析 TOK 课程[[Dialogue in Education\|对话]]如何依赖师生的实践明智展开道德审议。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 67)]]
+> - **2009 — [[Theory of Knowledge\|TOK]] 评估应用** 达维什在学位论文中分析 TOK 课程对话如何依赖师生的实践明智展开道德审议。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 67)]]
 
 ---
 

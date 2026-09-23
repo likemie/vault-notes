@@ -8,7 +8,7 @@ aliases:
 summary: "儒学核心概念，指通过终身修养达到的最高道德境界，超越具体德目（如孝、礼），代表最真诚、最完整的人性实现。"
 type: concept
 domain: "chinese-philosophy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Ritual Propriety]]"
   - "[[Four Sprouts]]"
+  - "[[Open-Mindedness]]"
   - "[[Creativity]]"
   - "[[Self-Cultivation]]"
   - "[[Junzi]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-07-08
+updated: 2026-09-23
 ---
 
 # Ren
@@ -88,7 +89,7 @@ updated: 2026-07-08
 > 1. **终身性 (never-ending)** 追求 ren 不是一次性成就，而是永无止境的过程。仁以为己任，不亦重乎？死而后已，不亦远乎？([[Argument_Li_2012_Cambridge\|Li, 2012, p.41]])
 > 2. **自主性 (self-chosen)** ren 是个人自主选择的生命道路，不是外部强加的规范
 > 3. **警觉的自我审视 (vigilant self-watchfulness)** 以敬畏和尊重的精神，对每一件事、每一个行为、每一个念头进行自我审查
-> 4. **开放性与[[Creativity\|创造性]] (open and creative)** 因为每个人的实际生活境遇不同，追求 ren 的过程是开放的，需要个人的创造性
+> 4. **[[Open-Mindedness|开放性]]与[[Creativity\|创造性]] (open and creative)** 因为每个人的实际生活境遇不同，追求 ren 的过程是开放的，需要个人的创造性
 > 5. **深刻的内在喜乐 (deep joy)** 在追求 ren 的过程中，人见证自己的生命工程，伴随着深深的喜悦、满足和充实感
 > 6. **即世间而超越 (earthly bound and spiritually transcendent)** ren 既是脚踏实地的日常实践，又具有精神超越的维度
 
@@ -107,7 +108,7 @@ updated: 2026-07-08
 
 > [!warning]
 > - [[Confucius\|孔子]]始终不愿确认任何具体学生已达 ren，导致 ren 的定义边界模糊——如果连孔子最优秀的学生都未达成，那么 ren 是否是一个过于苛求、可望不可即的理想？([[Argument_Li_2012_Cambridge\|Li, 2012, p.41]])
-> - ren 的高度内省性和开放性可能与现代社会对明确行为准则和可衡量目标的需求产生张力
+> - ren 的高度内省性和[[Open-Mindedness|开放性]]可能与现代社会对明确行为准则和可衡量目标的需求产生张力
 
 ---
 

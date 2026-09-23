@@ -7,10 +7,10 @@ aliases:
 summary: "通过分析真实患者情景获得的实践技能，涵盖临床决策、临床能力与操作技能；在健康职业教育中由问题本位学习等教学模式重点培养。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/clinical-skills
   - theme/health-professions-education
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Theoretical Knowledge]]"
   - "[[Problem-Based Learning]]"
   - "[[Problem Solving]]"
-  - "[[Growth]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
 related_theories: []
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Clinical Skills
@@ -69,7 +68,7 @@ updated: 2026-09-17
 > [!proc] PBL 培养临床技能的路径
 > 1. **分析真实患者情景** 学生面对真实或拟真的临床问题。
 > 2. **[[Problem Solving\|问题解决]]实践** 在解决临床问题的过程中练习决策与操作。
-> 3. **巩固保持** 通过反复应用形[[Growth\|成长]]期技能保持。
+> 3. **巩固保持** 通过反复应用形成长期技能保持。
 
 ---
 

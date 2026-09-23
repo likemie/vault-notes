@@ -29,7 +29,6 @@ tags:
 related_concepts:
   - "[[Science Journalism]]"
   - "[[Scientific Literacy]]"
-  - "[[Dialogue in Education]]"
   - "[[Whole Language]]"
   - "[[Academic Achievement]]"
   - "[[Research Literacy]]"
@@ -39,6 +38,7 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Scientific Misinformation]]"
   - "[[Public Engagement with Science]]"
+  - "[[Dialogue in Education]]"
   - "[[Responsible Conduct of Research]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Educational Evidence Clearinghouses]]"
@@ -110,7 +110,7 @@ updated: 2026-09-13
 
 > [!finding-cards] SMC 三大业务支柱
 > - **突发新闻快速专家点评（Roundups & Rapid Reactions）** 当具有争议或突发性质的[[Science Journalism\|科技新闻]]发酵时，SMC 在数小时内联动一线权威学者，迅速汇总多视角的客观专业点评，赶在第一版新闻定稿前直供各大主流媒体，从源头确保报道具备严谨的实证依据与局限性说明。
-> - **焦点新闻简报会（News Briefings）** 针对极具争议性或存在高度伦理争议的重大前沿成果（如基因编辑、气候突变模型、人造肉、脑机接口），为首席科学家举办面对面新闻吹风会，邀请一线跑口记者进行深度质询与[[Dialogue in Education\|对话]]，系统厘清方法学边界。
+> - **焦点新闻简报会（News Briefings）** 针对极具争议性或存在高度伦理争议的重大前沿成果（如基因编辑、气候突变模型、人造肉、脑机接口），为首席科学家举办面对面新闻吹风会，邀请一线跑口记者进行深度质询与对话，系统厘清方法学边界。
 > - **科学家媒体沟通素养与记者支持（Before the Headlines）** 针对青年研究者开展媒体交流培训，提升科研人员直面公众媒介的沟通能力；同时为非专业跑口记者提供统计学解读指南、偏倚评估工具与证据效力快速评估手册，提升媒体界的[[Scientific Literacy\|证据素养]]。
 
 > [!citation-card] 使命准则：科学成为新闻头条时捍卫证据

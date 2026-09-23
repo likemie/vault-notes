@@ -4,10 +4,10 @@ aliases:
   - Frijda's appraisal theory
   - appraisal theory of emotion
   - 情感评估理论
-summary: "Frijda 提出的情绪理论，强调认知评估在情绪生成中的核心作用，将情绪过程分解为七个阶段，并认为文化参与每个阶段的调节"
+summary: Frijda 提出的情绪理论，强调认知评估在情绪生成中的核心作用，将情绪过程分解为七个阶段，并认为文化参与每个阶段的调节
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 15
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -20,10 +20,9 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Pride in Learning]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
-  - "[[Dialogue in Education]]"
 related_theories:
   - "[[Cultural Models]]"
 related_methods:
@@ -40,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Appraisal Theory
@@ -96,7 +95,7 @@ updated: 2026-09-17
 > ```
 
 > [!exegesis]- 教育研究中的[[Parental Cognitive and Affective Socialization\|情感社会化]]例子
-> 在学习情境中，如果某种文化（如东亚儒家文化）强调对学习成就的[[Pride in Learning\|骄傲]]需保持[[Humility in Learning\|谦逊]]，而另一种文化（如美国个人主义文化）则大力鼓励表达骄傲，这就导致两类文化背景的学习者在“事件编码”和“情绪行为/调节”上产生完全不同的评估路径：前者可能将高分编码为“需继续努力的起点”并调节骄傲情绪，后者则将其评估为“个人能力的彰显”并积极表达。([[Argument_Li_2012_Cambridge\|Li, 2012, p. 56]])
+> 在学习情境中，如果某种文化（如东亚儒家文化）强调对学习成就的[[Pride in Learning\|骄傲]]需保持[[Humility\|谦逊]]，而另一种文化（如美国个人主义文化）则大力鼓励表达骄傲，这就导致两类文化背景的学习者在“事件编码”和“情绪行为/调节”上产生完全不同的评估路径：前者可能将高分编码为“需继续努力的起点”并调节骄傲情绪，后者则将其评估为“个人能力的彰显”并积极表达。([[Argument_Li_2012_Cambridge\|Li, 2012, p. 56]])
 
 ---
 
@@ -123,7 +122,7 @@ updated: 2026-09-17
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 可用于研究少数族裔学生、跨文化学习者在学校环境中的[[Parental Cognitive and Affective Socialization\|情感社会化]]（Affective Socialization）过程。
-> - **作为分析工具** 可通过对母子[[Dialogue in Education\|对话]]或师生互动进行[[Coding in Qualitative Research\|质性编码]]，追踪其在事件编码、评估和调节等七个阶段中表现出的文化特征。
+> - **作为分析工具** 可通过对母子对话或师生互动进行[[Coding in Qualitative Research\|质性编码]]，追踪其在事件编码、评估和调节等七个阶段中表现出的文化特征。
 
 ---
 
@@ -156,11 +155,11 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Li_2012_Cambridge]] — 通过对母子[[Dialogue in Education\|对话]]进行[[Discourse Analysis\|话语分析]]，使用该理论论证中西文化在儿童[[Parental Cognitive and Affective Socialization\|情感社会化]]中如何全面塑造情绪生成的各阶段。
+> - [[Argument_Li_2012_Cambridge]] — 通过对母子对话进行[[Discourse Analysis\|话语分析]]，使用该理论论证中西文化在儿童[[Parental Cognitive and Affective Socialization\|情感社会化]]中如何全面塑造情绪生成的各阶段。
 
 ---
 
 ## 应用领域
 
 > [!case] 应用领域索引
-> - [[Mother-Child Conversation]] / [[MCC Discourse Analysis Examples]] — 在儿童[[Parental Cognitive and Affective Socialization\|情感社会化]]和母子话语研究中，作为解释情感[[Dialogue in Education\|对话]]如何传递文化评估规则的理论基础。
+> - [[Mother-Child Conversation]] / [[MCC Discourse Analysis Examples]] — 在儿童[[Parental Cognitive and Affective Socialization\|情感社会化]]和母子话语研究中，作为解释情感对话如何传递文化评估规则的理论基础。

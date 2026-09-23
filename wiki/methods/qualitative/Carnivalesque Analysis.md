@@ -6,7 +6,7 @@ summary: "通过反讽、错位和颠倒主导叙事来追踪矛盾与隐藏权�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 9
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
+  - "[[Open-Mindedness]]"
   - "[[Reliability]]"
 related_theories: []
 related_methods:
@@ -32,7 +33,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: 2026-09-23
 ---
 
 ## 定义
@@ -70,7 +71,7 @@ updated: '2026-05-18'
 > - 证据在政策论证中被如何选择性使用或扭曲
 > - 政策论证的内在矛盾和不一致性
 >
-> [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]指出该方法不仅是研究策略，也是对研究者自身[[Hypothesis\|假设]]的检验——通过保持"被自己的发现所惊讶"的开放性（即不简单地确认预期），嘉年华式分析也强化了方法论的可[[Reliability\|信度]]([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.19]])。
+> [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]指出该方法不仅是研究策略，也是对研究者自身[[Hypothesis\|假设]]的检验——通过保持"被自己的发现所惊讶"的[[Open-Mindedness|开放性]]（即不简单地确认预期），嘉年华式分析也强化了方法论的可[[Reliability\|信度]]([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.19]])。
 >
 
 ## 局限性

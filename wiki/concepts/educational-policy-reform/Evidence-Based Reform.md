@@ -6,7 +6,7 @@ aliases:
 summary: "以严格实验研究有效性证据作为选择教育项目和产品核心标准的政策治理框架，强调已验证项目存量、独立证据审查与政府财政激励三者的联动循环"
 type: concept
 domain: "educational-policy-reform"
-related_count: 86
+related_count: 85
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Tiered Evidence Grants]]"
   - "[[Policy Borrowing]]"
-  - "[[Dialogue in Education]]"
   - "[[Evidence Standards]]"
   - "[[Response to Proven Instruction]]"
   - "[[External Validity]]"
@@ -113,7 +112,7 @@ related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
 status: draft
 created: '2026-05-01'
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Evidence-Based Reform
@@ -214,7 +213,7 @@ updated: 2026-09-18
 > **欧洲分权体系下的柔性证据知情协调路径** 在欧洲大陆多语言与去中心化治理环境下，刚性实验证据门槛面临严峻的语言壁垒与机构协调困难，欧盟倾向于采取包容性更强的“证据知情”（[[Evidence-Informed Practice\|EIP]]）软法治理路径，通过网络搭建与能力建设促进证据利用。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, pp. 26–36)]]
 
 > [!claim] Slavin, R. E., [[Alan C. K. Cheung\|Cheung, A. C. K.]], & [[Tengteng Zhuang\|Zhuang, T.]]
-> **中国教育实证研究的制度化发展与方法论反思** 中国教育实证研究经历了制度化快速增长（华东师范大学国际论坛与《华东师范大学宣言》），但在吸收循证改革时也展开了关于“统计主义”、价值不可量化与质性实证合法性的深层学术[[Dialogue in Education\|对话]]。[[Argument_Slavin_2021_ECNUROE\|(Slavin et al., 2021, pp. 11–17)]]
+> **中国教育实证研究的制度化发展与方法论反思** 中国教育实证研究经历了制度化快速增长（华东师范大学国际论坛与《华东师范大学宣言》），但在吸收循证改革时也展开了关于“统计主义”、价值不可量化与质性实证合法性的深层学术对话。[[Argument_Slavin_2021_ECNUROE\|(Slavin et al., 2021, pp. 11–17)]]
 
 > [!claim] Dachet, D., & Baye, A.
 > **法语比利时低实验存量环境下的包容性验证类型学** 法语比利时在《[[Pact for Educational Excellence\|教育卓越公约]]》改革中，面对本土因果实验方案仅占 3% 的现实瓶颈，创立了涵盖专家经验与[[Qualitative Research\|质性研究]]的四级包容性验证类型学，作为向严格循证过渡的务实中间阶段。[[Argument_Dachet_2021_ECNUROE\|(Dachet & Baye, 2021, pp. 175–182)]]
@@ -241,7 +240,7 @@ updated: 2026-09-18
 > - **2009–2011 年 — 研发管线与跨国旗舰创设** 美国设立 14 亿美元[[Investing in Innovation Program\|创新投资项目]]（i3）分层研发管线；英国政府出资 1.25 亿英镑设立[[Education Endowment Foundation\|教育捐赠基金会]]（EEF），开启大规模学校现场实验时代。
 > - **2015 年 — [[Every Student Succeeds Act\|ESSA]] 四级法定[[Evidence Standards\|证据标准]]确立** 美国通过《每一个学生成功法》（ESSA 2015），正式在联邦法典中确立 TIER 1–4 证据等级，并将 [[Title I of the Elementary and Secondary Education Act\|Title I]] 改进基金与强/中/有希望证据刚性绑定。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 23)]]
 > - **2017 年 — 审查中枢上线与跨国扩散** [[Evidence for ESSA]] 评级平台正式上线；中国发布《华东师范大学宣言》，开启大规模教育实证研究倡导。[[Argument_Slavin_2021_ECNUROE\|(Slavin et al., 2021, p. 14)]]
-> - **2019–2021 年 — [[Response to Proven Instruction\|RTPI]] 方案成型与全球反思[[Dialogue in Education\|对话]]** 斯莱文提出以循证方案充实三层支持的循证干预反应（Response to Tutoring/Proven Intervention, RTPI）蓝图；国际特刊系统总结美、英、中、比等七国实践与学术反思。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 27–29)]]; [[Argument_Cheung_2021_ECNUROE\|(Cheung & Xie, 2021)]]
+> - **2019–2021 年 — [[Response to Proven Instruction\|RTPI]] 方案成型与全球反思对话** 斯莱文提出以循证方案充实三层支持的循证干预反应（Response to Tutoring/Proven Intervention, RTPI）蓝图；国际特刊系统总结美、英、中、比等七国实践与学术反思。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 27–29)]]; [[Argument_Cheung_2021_ECNUROE\|(Cheung & Xie, 2021)]]
 
 ---
 

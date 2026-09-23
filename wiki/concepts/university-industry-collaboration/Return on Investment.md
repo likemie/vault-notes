@@ -14,7 +14,7 @@ aliases:
 summary: "衡量教育、研发、社会创新或组织协同投入与所产生综合收益之间比率的核心经济学与治理构念。在宏观层面被建构为跨国放贷与远处治理的自指性指标帝国；在中观风险慈善层面演化为以商业纪律与因果量规重塑公共教育再分配的意识形态杠杆；在微观产学合作层面则通过各方对回报定义的结构性分歧驱动复合创新。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 51
+related_count: 50
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Commensuration]]"
   - "[[Academic Freedom]]"
-  - "[[Dialogue in Education]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Months of Progress]]"
   - "[[Counterfactual]]"
@@ -107,7 +106,7 @@ updated: 2026-09-22
 > [!citation-card] 投资回报的三重制度表征与权威论断
 > 1980 年的政策文件不仅反映了世界银行的业务如今越来越建立在研究成果的基础之上，更表明世行已经开展属于自己的独立研究。高级顾问普萨查罗普洛斯基于全球数据库证明初等教育具有压倒性的社会回报率优势，世行以此为技术合法性屏障，将收益率公式固化为向全球南方借款国发放结构调整贷款的强制性前置条件。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 >
-> 风险慈善领袖在主旨演讲中强调，金钱是我们[[Dialogue in Education\|对话]]的通用货币（Money is the currency of our conversation）。[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）通过推广社会投资回报率（SROI）、[[Educational Brokerage Agency\|证据经纪人]]与买入等金融从业术语，将商业投行的投资回报逻辑全面植入国家公共教育治理体系。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 3–4)]]
+> 风险慈善领袖在主旨演讲中强调，金钱是我们对话的通用货币（Money is the currency of our conversation）。[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）通过推广社会投资回报率（SROI）、[[Educational Brokerage Agency\|证据经纪人]]与买入等金融从业术语，将商业投行的投资回报逻辑全面植入国家公共教育治理体系。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 3–4)]]
 >
 > 如果创新不具备安全性且不能显著改善患者体验，ROI 的实际潜力将直接归零。在产学协同中，各方追求完全不同的 ROI 定义恰恰是合作得以发生的根本动因。[[Argument_Swick_Jones_2025_AcademicHealthSystems\|(Swick & Jones, 2025, p. 192)]]
 
@@ -192,7 +191,7 @@ updated: 2026-09-22
 > 探讨[[Policy Network\|政策网络]]如何借由社会投资回报（SROI）与因果证据量规，将国家宪制供给义务异化为准市场竞标，掩护公共财富逆向倒流。
 
 > [!claim] [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]; [[Argument_Rowe_2022_IJER\|Rowe (2022)]]
-> **商业投资修辞对公共财政再分配的颠覆** 埃玛·罗威（Emma Rowe）揭示，在澳大利亚的异层政策网络中，以[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）为中枢的[[Venture Philanthropy\|风险慈善]]资本将“提升社会投资回报（SROI）”确立为其核心正当性修辞。通过鼓吹“金钱是我们[[Dialogue in Education\|对话]]的通用货币”，SVA 等中介将传统的公共教育直接财政供给，偷换为要求“纳税人可负担能力限制”下的“社会投资”与“政府补贴”（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]）。公立学校被迫为了维系生计而向免税中介乞求微额资助，并屈从于严苛的商业因果量规考核；与此同时，SVA 本身作为免税慈善机构，收到的政府直接财政补贴（2021 年达 121.6 万澳元）远超其对外资助净额（仅 62.5 万澳元，占比 51%），旗下高额咨询部门年入近千万澳元。投资回报话语实质上充当了企业资本享受税收减免、侵蚀公共民主审议并将公共财富导流向私营中介的意识形态掩体。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520, 524, 527–528)]]; [[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 3–6)]]
+> **商业投资修辞对公共财政再分配的颠覆** 埃玛·罗威（Emma Rowe）揭示，在澳大利亚的异层政策网络中，以[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）为中枢的[[Venture Philanthropy\|风险慈善]]资本将“提升社会投资回报（SROI）”确立为其核心正当性修辞。通过鼓吹“金钱是我们对话的通用货币”，SVA 等中介将传统的公共教育直接财政供给，偷换为要求“纳税人可负担能力限制”下的“社会投资”与“政府补贴”（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]）。公立学校被迫为了维系生计而向免税中介乞求微额资助，并屈从于严苛的商业因果量规考核；与此同时，SVA 本身作为免税慈善机构，收到的政府直接财政补贴（2021 年达 121.6 万澳元）远超其对外资助净额（仅 62.5 万澳元，占比 51%），旗下高额咨询部门年入近千万澳元。投资回报话语实质上充当了企业资本享受税收减免、侵蚀公共民主审议并将公共财富导流向私营中介的意识形态掩体。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520, 524, 527–528)]]; [[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 3–6)]]
 
 ---
 

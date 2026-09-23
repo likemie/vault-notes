@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Student Attitude]]"
   - "[[Business as Usual]]"
   - "[[Hypothesis]]"
-  - "[[Dialogue in Education]]"
   - "[[Attrition]]"
 related_theories: []
 related_methods:
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 # Teacher Choices
@@ -109,7 +108,7 @@ updated: 2026-09-15
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF） — 确立选题库、拨付小额微型试验经费、制定近端心理测量标准。
 > - **独立评估学者** 高校计量与教育心理学团队 — 负责被试内轮换设计、指导教师进行规范的课堂数据记录并建立稳健[[Analysis of Variance\|方差分析]]模型。
-> - **区域转化枢纽** [[Research Schools Network\|研究学校网络]]（RSN） — 搭建教师学习共同体，组织同伴[[Dialogue in Education\|对话]]并协助排查微型试验中的外溢污染。
+> - **区域转化枢纽** [[Research Schools Network\|研究学校网络]]（RSN） — 搭建教师学习共同体，组织同伴对话并协助排查微型试验中的外溢污染。
 > - **一线执行主体** 公立学校科任教师 — 直接在常态班级生态中切换微观教学动作，完成观察日志与随堂小测记录。
 
 ---

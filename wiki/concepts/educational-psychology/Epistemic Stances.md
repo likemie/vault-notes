@@ -9,7 +9,7 @@ aliases:
 summary: "学习科学与认识论认知中的核心构念，指个体对特定知识主张采取的差异化态度或姿态（如坚信、怀疑、暂且接受、作为工作假设）；在人机协同探究中深化为根据技术中介形态与任务需求动态调适的主体反思姿态。"
 type: concept
 domain: "educational-psychology"
-related_count: 37
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Brainstorming]]"
   - "[[Epistemic Friction]]"
-  - "[[Dialogue in Education]]"
   - "[[Homework]]"
   - "[[Variable]]"
   - "[[Literature Search]]"
@@ -201,7 +200,7 @@ updated: 2026-09-22
 > [!debates] 学术争议
 >
 > > [!axis] 立场的稳定性：持久心智倾向 vs 瞬时交互策略
-> > 争论认识立场是个体相对稳定的人格认知特征，还是随着[[Dialogue in Education\|对话]]情境与提示词支架快速波动的微观策略。
+> > 争论认识立场是个体相对稳定的人格认知特征，还是随着对话情境与提示词支架快速波动的微观策略。
 > >
 > > - **倾向派** 强调先验知识丰富与批判素养高的个体具有更持久的审慎怀疑偏好。
 > > - **策略与共生派** [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 360–366)]] 指出同一学生在接受提示词支架（如反思提示）与同行评议干预后，立场会发生显著的动态跃升。

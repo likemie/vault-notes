@@ -11,7 +11,7 @@ title: "Argument_Bainbridge_2022_ROE"
 argument_key: "Argument_Bainbridge_2022_ROE"
 argument_display_title: "Responding to research evidence in Parliament: A case study on selective education policy"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Deficit Framing]]"
   - "[[Literature Review]]"
   - "[[Document]]"
+  - "[[Open-Mindedness]]"
   - "[[Research Scope]]"
   - "[[Internal and External Generalizability]]"
   - "[[Falsification]]"
@@ -227,7 +228,7 @@ citation_aliases:
 
 ## 局限性与批评
 
-**作者立场偏倚** 作者声明自身是 Comprehensive Future（主张综合教育的运动组织）指导委员会成员。作者称研究的价值取决于其"管理竞选立场影响"和"保持被惊讶的可能性"的能力(p.6)。论文中识别"建构型侧步"（而非预期的"回避型侧步"）表明了某种程度上的确保持了被惊讶的开放性。
+**作者立场偏倚** 作者声明自身是 Comprehensive Future（主张综合教育的运动组织）指导委员会成员。作者称研究的价值取决于其"管理竞选立场影响"和"保持被惊讶的可能性"的能力(p.6)。论文中识别"建构型侧步"（而非预期的"回避型侧步"）表明了某种程度上的确保持了被惊讶的[[Open-Mindedness|开放性]]。
 
 **[[Research Scope|研究范围]]极小** 聚焦于一项仅影响少数地方当局的短暂政策（SSEF）和一个国家（英国）的议会辩论，[[Internal and External Generalizability|外部推广性]]有限。但作者论证小案例为分析更大现象提供了"肥沃土壤"(p.2–3)。
 

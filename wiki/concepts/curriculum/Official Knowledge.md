@@ -7,7 +7,7 @@ aliases:
 summary: "Apple 提出的批判课程论核心概念，指学校课程中被国家与支配群体选择性界定为合法、正当且值得传授的知识，反映并再生产社会中的文化权力关系与政治霸权"
 type: concept
 domain: "curriculum"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_concepts:
 related_theories:
   - "[[Social Realism]]"
   - "[[Hegemony]]"
+  - "[[Knowledge Building Theory]]"
   - "[[Varieties of Capitalism]]"
 related_methods:
   - "[[Correlational Research]]"
@@ -42,7 +43,7 @@ related_instruments: []
 confidence: high
 status: active
 created: '2026-05-21'
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Official Knowledge
@@ -120,7 +121,7 @@ updated: 2026-09-17
 > 探讨中心控制与去中心化编写体制如何塑造教科书中的国家形象，并使官方知识服务于具体的社会政治目标。
 
 > [!claim] [[Argument_Xu_2024_CE\|Xu (2024)]]
-> **[[One Country, Two Systems\|一国两制]]下的官方[[Knowledge Production\|知识生产]]双重逻辑** 教科书中的国家形象并非客观历史发现，而是由统治合法性与审查机制决定的官方知识建构。中国大陆通过“教材是国家事权”与集中化统编审查制，将官方知识塑造为“构成性领土 + 大家庭包容”的领土国家叙事；而香港殖民时期及回归后则因殖民合作契约与去中心化机制，形成了以“构成性族群 + 华夏中心”为特征的族裔文化型官方知识。[[Argument_Xu_2024_CE\|(Xu, 2024, pp. 577–579, 586–587)]]
+> **[[One Country, Two Systems\|一国两制]]下的官方[[Knowledge Production\|知识生产]]双重逻辑** 教科书中的国家形象并非客观历史发现，而是由统治合法性与审查机制决定的官方[[Knowledge Building Theory|知识建构]]。中国大陆通过“教材是国家事权”与集中化统编审查制，将官方知识塑造为“构成性领土 + 大家庭包容”的领土国家叙事；而香港殖民时期及回归后则因殖民合作契约与去中心化机制，形成了以“构成性族群 + 华夏中心”为特征的族裔文化型官方知识。[[Argument_Xu_2024_CE\|(Xu, 2024, pp. 577–579, 586–587)]]
 
 ---
 
@@ -147,7 +148,7 @@ updated: 2026-09-17
 
 > [!debates] 学术争议
 >
-> > [!axis] 国家集中统编 vs 市场/去中心化审查的官方[[Knowledge Production\|知识建构]]
+> > [!axis] 国家集中统编 vs 市场/去中心化审查的官方[[Knowledge Building Theory|知识建构]]
 > > 围绕官方知识是通过国家直接专营集权控制更具正当性，还是通过市场分权自由审查更有利于多样性展开。
 > > - **国家集中统编模式（[[Argument_Xu_2024_CE\|Xu, 2024]]）** — 强调教材是国家事权，由国家统一集中审查与编写，以维护国家统一与领土安全共识[[Argument_Xu_2024_CE\|(Xu, 2024, p. 578)]]。
 > > - **去中心化市场审查模式（[[Argument_Xu_2024_CE\|Xu, 2024]]）** — 依靠民间出版自由竞争与政府柔性审核，但容易受商业利益与历史保守主义妥协的影响。

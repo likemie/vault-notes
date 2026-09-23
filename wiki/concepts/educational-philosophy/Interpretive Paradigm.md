@@ -43,13 +43,13 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Construct]]"
   - "[[Epoché]]"
-  - "[[Dialogue in Education]]"
   - "[[Paradigm Wars]]"
   - "[[Champ]]"
   - "[[Going Native]]"
   - "[[Cultural Capital]]"
   - "[[Causality]]"
   - "[[Ontology]]"
+  - "[[Dialogue in Education]]"
   - "[[Emic and Etic]]"
 related_theories:
   - "[[Thomas Theorem]]"
@@ -141,7 +141,7 @@ updated: 2026-09-17
 > [!feature] 诠释范式的三大理论支柱
 > - **[[Phenomenology\|现象学]]（Phenomenology）** 奠基于胡塞尔与舒茨，致力于[[Epoché\|悬置]]天然态度，考察意识意向性、生活世界（Lifeworld）与主体间性，揭示行动者如何主动赋予现实以意义。
 > - **常人方法学（[[Ethnomethodology]]）** 创立于[[Harold Garfinkel\|哈罗德·加芬克尔]]（[[Harold Garfinkel]]），拒绝将社会成员视作“文化笨蛋”（Cultural Dopes），系统聚焦于日常生活的“惊人[[Indexicality\|索引性]]”（[[Indexicality]]）与[[Reflexivity\|反思性]]说明，将社会秩序视为成员持续达成的实践成就。
-> - **[[Symbolic Interactionism\|符号互动论]]（Symbolic Interactionism）** 奠基于[[George Herbert Mead\|乔治·赫伯特·米德]]（[[George Herbert Mead]]）与布鲁默，以面对面“互动本身为研究单位”，揭示行动者如何在[[Role-playing\|角色扮演]]与反思性内部[[Dialogue in Education\|对话]]中动态界定情境。
+> - **[[Symbolic Interactionism\|符号互动论]]（Symbolic Interactionism）** 奠基于[[George Herbert Mead\|乔治·赫伯特·米德]]（[[George Herbert Mead]]）与布鲁默，以面对面“互动本身为研究单位”，揭示行动者如何在[[Role-playing\|角色扮演]]与反思性内部对话中动态界定情境。
 
 ---
 

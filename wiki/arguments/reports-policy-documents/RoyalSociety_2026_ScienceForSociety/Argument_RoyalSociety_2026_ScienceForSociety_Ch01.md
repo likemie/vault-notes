@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_display_title: "Chapter one: Education"
 argument_kind: "book-chapter"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -60,6 +60,7 @@ related_concepts:
   - "[[Brainstorming]]"
   - "[[Science Capital]]"
   - "[[Attrition]]"
+  - "[[Authentic Science Practices]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Teacher Professional Agency]]"
   - "[[Academic Achievement]]"
@@ -218,7 +219,7 @@ updated: 2026-09-21
 > - **专业实验技术员（Technicians）队伍[[Attrition\|流失]]** 待遇偏低与职业通道狭窄导致专业实验员流失严重，教师因缺乏课前准备与安全保障支持而难于开齐实验。（p. 33）
 > - **科学资本（Science Capital）与社会阶层固化** 伦敦大学学院 ASPIRES 2 纵向追踪表明，高社会经济地位家庭子女拥有更丰富的课外科技网络与文化资源，科学抱负显著高于弱势群体；而在物理、计算机等学科上，女性选修比例长期偏低。（p. 32）
 
-> [!case] 案例研究：真实科研课题探究与课外 STEM 拓展机制（Authentic Inquiry & STEM Enrichment）
+> [!case] 案例研究：真实科研课题探究与课外 STEM 拓展机制（[[Authentic Science Practices|authentic inquiry]] & STEM Enrichment）
 > - **[[CREST Awards\|CREST]] 科学与技术成就奖的分级探究与阶层赋权** 详见 [[CREST Awards]]：由英国科学协会（BSA）设立的国家级分级探究奖励机制（Star/Bronze/Silver/Gold），支持中学生自主选定具有现实应用价值的长周期工程与科学课题；独立实证评估（Pro Bono Economics, 2016）证实，参与 CREST Silver/Gold 探究的学生后续选修 STEM A-levels 的比例显著提高，且对弱势背景（FSM）学生的阶层流动与科学抱负提升幅度尤为突出（达 38%）。
 > - **[[Institute for Research in Schools\|学校科研研究所]]（IRIS）的前沿科研数据直通模式** 详见 [[Institute for Research in Schools]]：搭建中学与顶尖高校、欧洲核子研究组织（CERN）及产业实验室的深度合作网络，让中学生直接分析真实粒子对撞数据、开展基因测序与平流层空间探测，彻底将学生从教科书验证者转变为真正未知问题的探究者。
 > - **皇家学会伙伴资助计划（Partnership Grants）的科研共同体协同** 每年为学校与一线科研人员/工程师联合申报的实验项目提供专项种子基金，科研人员深度嵌入课堂探究指导，作为鲜活的学术与行业榜样（Role Models），直接扩充弱势青少年的科学社会资本网络。

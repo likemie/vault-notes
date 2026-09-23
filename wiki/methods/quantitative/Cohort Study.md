@@ -12,7 +12,7 @@ summary: "追踪具有共同特征的特定群体随时间变化的纵向研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -23,7 +23,6 @@ tags:
   - cohort
   - research-design
 related_concepts:
-  - "[[Growth]]"
   - "[[Causality]]"
   - "[[Unit of Analysis]]"
   - "[[Document]]"
@@ -47,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Cohort Study
@@ -55,7 +54,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> 队列研究（Cohort Study）是一种[[Longitudinal Study\|纵向研究]]设计，追踪具有某种共同特征（队列，cohort）的特定群体在特定时间段内的变化。在人类[[Growth\|生长]]和发展的队列研究中，在代表性总体样本上进行，能够独特地识别典型发展模式并揭示作用于这些样本的、其他研究设计无法捕捉的因素（p.271）。
+> 队列研究（Cohort Study）是一种[[Longitudinal Study\|纵向研究]]设计，追踪具有某种共同特征（队列，cohort）的特定群体在特定时间段内的变化。在人类生长和发展的队列研究中，在代表性总体样本上进行，能够独特地识别典型发展模式并揭示作用于这些样本的、其他研究设计无法捕捉的因素（p.271）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 具有共同特征（如出生年份、入学年份、特定经历）的群体随时间的变化。
@@ -93,7 +92,7 @@ Douglas（1976）对队列研究相对于横截面设计的优势进行了有力
 
 此外，队列研究在以下方面具有独特优势：
 
-- 允许研究者考察个体特征或特质的变异，并产生个体[[Growth|生长]]曲线（p.271）。
+- 允许研究者考察个体特征或特质的变异，并产生个体生长曲线（p.271）。
 - 在社会学研究中特别有用，因为可以展示个体的变化属性如何拟合为整个社会系统的变化属性（p.271）。
 - 提供纵向记录，其价值部分源于已知的任何单次测试或评估的不可靠性（Davie, 1972）。
 - 时间通常比实验和访谈设置中更充裕，使研究者有更大机会观察趋势并区分"真实"变化和偶然事件（Bailey, 1994）。
@@ -103,7 +102,7 @@ Douglas（1976）对队列研究相对于横截面设计的优势进行了有力
 尽管队列研究有诸多优势，但也面临几个重要困难（pp.271–272）：
 
 > [!weakness] 队列研究的主要困难
-> - **耗时和昂贵** 研究者必须等待[[Growth\|生长]]数据积累（p.272）。
+> - **耗时和昂贵** 研究者必须等待生长数据积累（p.272）。
 > - **样本死亡（Sample Mortality）** 在长期队列研究过程中，受试者不可避免地退出、丢失或拒绝进一步合作。这种[[Attrition\|流失]]使得留在研究中的受试者不太可能像最初抽取的样本那样具有总体代表性。有时试图通过引入[[Cross-sectional Study\|横截面研究]]设计来减轻样本死亡的影响——即在每次重新测试时从同一总体中抽取相同数量的受访者"补充"原始队列[[Sample Size Determination\|样本量]]。但这样做的风险是，从一轮调查到下一轮调查的数据差异可能被解释为受访者的差异而非真实变化或趋势（p.272）。
 > - **控制效应（Control Effect）** 也称测量效应（measurement effect）：反复访谈往往对正在研究的行动或态度产生不期望的和令人困惑的影响，影响受试者的行为，使他们对迄今未被注意的事项变得敏感，或刺激他们就多余话题与他人交流（Riley, 1963）（p.272）。
 > - **生物、环境和干预影响的[[Interaction Effect\|交互作用]]** 这三种影响可能互相交织（Keeves, 1997a: 139）（p.272）。

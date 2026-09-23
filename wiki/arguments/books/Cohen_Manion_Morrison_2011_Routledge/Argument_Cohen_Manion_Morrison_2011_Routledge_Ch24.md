@@ -69,8 +69,8 @@ related_concepts:
   - "[[Success Criteria]]"
   - "[[Professional Judgment]]"
   - "[[Divergent Thinking]]"
-  - "[[Dialogue in Education]]"
   - "[[Test Scoring and Weighting]]"
+  - "[[Trust Calibration]]"
   - "[[Document]]"
   - "[[High-Stakes Testing]]"
   - "[[Non-maleficence and Beneficence in Research]]"
@@ -735,7 +735,7 @@ Gronlund & Linn（1990）建议题目分析需考虑八项准则：
 > - **书面** 传统纸笔测验
 > - **口头** 阅读和写作会妨碍测验真正目的时（如数学测验变成读写测验），口头测验是必要的替代方案
 > - **实操** 动手操作
-> - **互动式** [[Dialogue in Education\|对话]]和互动中的评估
+> - **互动式** 对话和互动中的评估
 > - **计算机化** 屏幕上的测验
 > - **戏剧化、图示化、图片化、摄影化**
 > - **音频视频材料**
@@ -988,7 +988,7 @@ Ebel（1979）认为，用于区分不同成就等级的分数越多，等级的
 > - 检验计分方案
 
 > [!warning] 预测试后的项目筛选
-> 区分度和难度有限的项目必须剔除并替换；区分度最高和难度最适当的项目可以保留，但这**只能在预测试数据分析之后进行**。对小样本上计算的区分度和难度指数应保持谨慎，不宜过度信任。
+> 区分度和难度有限的项目必须剔除并替换；区分度最高和难度最适当的项目可以保留，但这**只能在预测试数据分析之后进行**。对小样本上计算的区分度和难度指数应保持谨慎，不宜[[Trust Calibration|过度信任]]。
 
 ---
 

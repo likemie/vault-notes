@@ -7,7 +7,7 @@ summary: "中国高等教育研究者，双模式框架提出者和 金榜题名
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 29
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Cultural Disorientation]]"
   - "[[Unit of Analysis]]"
   - "[[Hypothesis]]"
-  - "[[Dialogue in Education]]"
 related_theories:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-09-11
+updated: 2026-09-22
 ---
 # Yajun Zheng
 
@@ -129,7 +128,7 @@ updated: 2026-09-11
 
 ### 2017–2018 补充田野与理论深化
 
-- **核心调整** 补充低阶层样本，深化理论[[Dialogue in Education|对话]]
+- **核心调整** 补充低阶层样本，深化理论对话
 - **思想发展** 受牛新春老师之邀，在"南方大学"补充访谈 24 名主要来自较低阶层背景的学生，使总样本达 62 人。此阶段的理论对话扩展至 Swidler [[Culture as Toolkit|文化工具箱]]和 [[Dual-Process Model of Culture in Action|Vaisey 双过程模型]]——Bourdieu 的再生产理论解释了结构性约束，Swidler and Vaisey 则帮助理解了行动者在约束中的策略和意义建构差异([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 - **相关概念**[[Goal-Controlled Mode]]、[[Intuition-Dependent Mode]]、[[Cultural Barrier]]
 

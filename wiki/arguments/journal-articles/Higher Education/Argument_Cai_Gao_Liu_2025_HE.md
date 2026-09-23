@@ -7,7 +7,7 @@ title: "Argument_Cai_Gao_Liu_2025_HE"
 argument_key: "Argument_Cai_Gao_Liu_2025_HE"
 argument_display_title: "Constructing a Guangdong-Hong Kong-Macau Greater Bay Area social space: Cross-sectoral experiences of key node university faculties"
 argument_kind: "journal-article"
-argument_related_count: 12
+argument_related_count: 11
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Structural Holes]]"
   - "[[Space Production]]"
   - "[[STEM Education]]"
-  - "[[Dialogue in Education]]"
   - "[[Research Question]]"
 related_theories:
   - "[[Lefebvre's Spatial Triad]]"
@@ -130,7 +129,7 @@ updated: 2026-09-16
 > 以产业为主要跨部门参与方向的关键节点教师多来自 STEM 学科（如 MC-P1、MC-P2、MC-P4、GD-P4）。他们通过联合实验室、产业合作项目和商业化活动跨越大学和企业的边界。在感知空间层面，他们利用跨境通勤和高铁网络在深圳、香港和广州之间建立日常的物质连接；在构想空间层面，他们参与资助计划的设计和申请，将产业需求转化为研究议程；在活生生空间层面，他们处理"粘性"的隐性信息——不仅在自己所在群体内部，更在跨群体之间——并利用这种信息优势在新兴的 GBA 市场中获取竞争优势。
 
 > [!line-a] 桥接政府与民间协会网络
-> 以政府和民间协会为主要跨部门参与方向的关键节点教师多来自 SSH 学科（如 MC-P5、MC-P6、MC-P9、MC-P13）。他们的桥接工作更多涉及政策咨询、标准制定和社区参与。在构想空间层面，他们参与了 GBA 政策框架的阐释和传播；在活生生空间层面，他们通过社区项目和公共[[Dialogue in Education\|对话]]使 GBA 从一个抽象的"政策概念"转化为可感知的"生活现实"。值得注意的是，SSH 学科的桥接者往往面临比 STEM 同行更大的合法性挑战——在 GBA 的 STI 主导叙事中，他们的贡献更难量化和被认可。
+> 以政府和民间协会为主要跨部门参与方向的关键节点教师多来自 SSH 学科（如 MC-P5、MC-P6、MC-P9、MC-P13）。他们的桥接工作更多涉及政策咨询、标准制定和社区参与。在构想空间层面，他们参与了 GBA 政策框架的阐释和传播；在活生生空间层面，他们通过社区项目和公共对话使 GBA 从一个抽象的"政策概念"转化为可感知的"生活现实"。值得注意的是，SSH 学科的桥接者往往面临比 STEM 同行更大的合法性挑战——在 GBA 的 STI 主导叙事中，他们的贡献更难量化和被认可。
 
 > [!line-a] 多重桥接者
 > 少数关键节点教师同时跨越多个部门（如 MC-P8 同时桥接产业、政府和民间协会，MC-P10 桥接产业和民间协会）。这些多重桥接者占据网络中最有利的结构性位置：他们不仅填补单一的[[Structural Holes\|结构性空洞]]，而是将多个原本断连的网络编织在一起，产生了网络效应——他们创建的连接不仅服务于自身项目，也为其他行动者（包括非关键节点的普通教师）创造了进入 GBA 空间的路径。

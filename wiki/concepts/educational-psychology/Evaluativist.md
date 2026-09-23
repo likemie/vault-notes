@@ -9,7 +9,7 @@ aliases:
 summary: "认识论模型中的最高层级，认为知识虽由主观建构，但可以通过论证与证据的客观标准进行优劣评估；在人机共生学习中表现为主动协调多源证据、批判性审视算法输出并保持共享认识主体性。"
 type: concept
 domain: "educational-psychology"
-related_count: 26
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,11 +26,9 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Epistemic Stances]]"
   - "[[Hypothesis]]"
-  - "[[Dialogue in Education]]"
   - "[[Absolutist]]"
   - "[[Multiplist]]"
   - "[[Cognitive Offloading]]"
-  - "[[Growth]]"
   - "[[Scaffolding]]"
   - "[[Normal School]]"
   - "[[Variable]]"
@@ -72,7 +70,7 @@ updated: 2026-09-22
 > - **边界** 评价论并非自然成熟的智力属性，在普通人群中达成率极低；在人机交互中同样需要提示词与教学反思双轨支架的显式促发。
 
 > [!citation-card] 评价主义立场在人机共生学习中的证据协调机制
-> 持评价主义[[Epistemic Stances\|认识立场]]的学习者能够将生成式人工智能输出视作有待检验的[[Hypothesis\|假设]]性认知客体，通过调动外部文献、实证数据与逻辑推演对算法建议展开多源交叉核验，在动态人机[[Dialogue in Education\|对话]]中确立并捍卫高阶认识主体性。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 364)]]
+> 持评价主义[[Epistemic Stances\|认识立场]]的学习者能够将生成式人工智能输出视作有待检验的[[Hypothesis\|假设]]性认知客体，通过调动外部文献、实证数据与逻辑推演对算法建议展开多源交叉核验，在动态人机对话中确立并捍卫高阶认识主体性。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 364)]]
 >
 > *Evaluativist learners treat GenAI outputs as testable epistemic objects, actively cross-validating model suggestions against literature, empirical data, and logical constraints to maintain epistemic agency.*
 
@@ -119,7 +117,7 @@ updated: 2026-09-22
 ### 命题二　评价论的形成依赖于高强度的智识介入而非自然成长
 
 > [!concept-lens] 教育介入的必要性
-> 关注自然[[Growth\|成长]]经历和普通的学历背景为何不足以支撑评价论的产生。
+> 关注自然成长经历和普通的学历背景为何不足以支撑评价论的产生。
 
 > [!claim] [[Deanna Kuhn\|Kuhn, D.]] 等
 > **阅历与高学历的无效性及专业训练的必要性** 数据证明，自然增长的年龄和诸如商学院管理等普通高学历经验，并不能自动将成人推入最高阶的评价论。评价论思维不仅反直觉，还要对抗社会要求对意见“无差别宽容”的文化惯性。只有接受过高强度哲学、逻辑与[[Epistemology\|认识论]]专业训练的专家（如教育哲学博士候选人），才能在所有领域（甚至包括口味偏好领域）建立起清晰的客观比较框架。这证明了评价论是一种高度专业化的智识成就。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, pp. 324–325)]]
@@ -132,7 +130,7 @@ updated: 2026-09-22
 > 揭示学习者如何在[[Generative Artificial Intelligence\|生成式人工智能]]协作中保持高阶批判力，通过证据协调与双轨支架实现评价主义进阶。
 
 > [!claim] Wu et al.
-> **证据协调与双轨支架赋能下的评价主义进阶** 在生成式人工智能介入的学习情境中，持评价主义立场的学习者能够维持积极的高阶认知投入，避免陷入消极[[Cognitive Offloading\|认知卸载]]。他们通过将 AI 视作平等的“认知协作者”而非“万能权威”或“随机意见库”，在多轮[[Dialogue in Education\|对话]]中对算法生成的逻辑漏洞进行追问与修正。实证研究表明，结合模型侧提示词约束（引导算法自我暴露局限）与教学侧反思评议（组织同行论辩与方案推演）的双轨支架，能显著促使绝对主义与多元主义学习者向评价主义立场迁移，从而达成稳固的人机共享[[Epistemic Agency\|认识主体性]]。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–366)]]
+> **证据协调与双轨支架赋能下的评价主义进阶** 在生成式人工智能介入的学习情境中，持评价主义立场的学习者能够维持积极的高阶认知投入，避免陷入消极[[Cognitive Offloading\|认知卸载]]。他们通过将 AI 视作平等的“认知协作者”而非“万能权威”或“随机意见库”，在多轮对话中对算法生成的逻辑漏洞进行追问与修正。实证研究表明，结合模型侧提示词约束（引导算法自我暴露局限）与教学侧反思评议（组织同行论辩与方案推演）的双轨支架，能显著促使绝对主义与多元主义学习者向评价主义立场迁移，从而达成稳固的人机共享[[Epistemic Agency\|认识主体性]]。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–366)]]
 
 ---
 

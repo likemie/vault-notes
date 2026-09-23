@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 45
+fact_related_count: 44
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -44,7 +44,6 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Technical Rationality]]"
-  - "[[Dialogue in Education]]"
   - "[[Causality]]"
   - "[[Construct]]"
   - "[[Central Phenomenon]]"
@@ -79,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-13
+updated: 2026-09-22
 ---
 
 # Strengthening the Impact of Education Research Project
@@ -162,7 +161,7 @@ updated: 2026-09-13
 > - **[[Knowledge Production\|知识生产]]权力失衡与一线教师被动工具化** 高校科研人员在提出问题至成果传播 7 个阶段中均保持全流程主导（各阶段 18–20 系统深度卷入）；而一线教师参与极端窄化于“数据收集”（18 系统），提出问题（仅 5 系统）与方案设计（4 系统）极度缺位，沦为被动数据苦力。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 89–90)]]
 > - **科研内外激励机制的断崖式阶差** 专业科研人员享有完备的岗位职责、职称考评、带薪工时与津贴补贴等外在硬性激励；相反，中小学教师外在硬性激励近乎空白，科研参与全凭个人奉献，难以维持长周期探索。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 90–92)]]
 > - **表面[[Scientism\|科学主义]]推崇掩盖政学深层信任赤字** 部委官员对研究重要性理念自陈高度赞同（均分 4.46），但对研究人员的高度信任（3.40）与共识理解（3.10）双双垫底；公职人员系统化研究培训严重缺位（仅 39% 肯定有充分学习机会）。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 92–94)]]
-> - **熟人网络口头[[Transfer Translation Transformation\|转译]]依附与证据应用的交易型异化** 决策官员高度依附外部专家（92%）与内部研究员（84%）的口头转译，自主学术检索仅占 57%；[[Research Utilization\|研究使用]]高度局限于方案设计（70%）与问题诊断（65%）等[[Technical Rationality\|技术理性]]环节，审议[[Dialogue in Education\|对话]]（47%）与赢得政治信任（42%）严重萎缩，退化为短视信息原料采买。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 94–96)]]
+> - **熟人网络口头[[Transfer Translation Transformation\|转译]]依附与证据应用的交易型异化** 决策官员高度依附外部专家（92%）与内部研究员（84%）的口头转译，自主学术检索仅占 57%；[[Research Utilization\|研究使用]]高度局限于方案设计（70%）与问题诊断（65%）等[[Technical Rationality\|技术理性]]环节，审议对话（47%）与赢得政治信任（42%）严重萎缩，退化为短视信息原料采买。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 94–96)]]
 
 > [!stat-cards]- 关键规模与实证指标快照
 > 覆盖 29 国 37 个教育系统，测度 17 类组织生态位；揭示嵌入式研究者政策端设立率 73% vs 实践端 32%；高校学者 7 阶段全流程主导（各阶段 18–20 系统），中小学教师在数据收集占 18 系统 vs 提问仅 5 系统；专家咨询普及率 92%，技术方案设计应用 70% vs 赢得信任 42%。

@@ -20,11 +20,11 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Constructive Alignment]]"
   - "[[Posthumanism]]"
-  - "[[Knowledge Production]]"
   - "[[Realism in International Relations]]"
   - "[[Evidence-Based Education]]"
 related_theories:
   - "[[Post-structuralism]]"
+  - "[[Knowledge Building Theory]]"
 related_methods: []
 related_persons:
   - "[[George Berkeley]]"
@@ -89,7 +89,7 @@ updated: 2026-09-18
 ## 争议与批评
 
 > [!warning] 规范性缺失
-> 激进[[Constructivist Paradigm\|建构主义]]消解了外部世界和规范性标准，导致无法区分好的建构与坏的建构、[[Knowledge Production\|知识建构]]与谬误建构。教育判断（什么值得学、什么值得教）因此被排除在理论之外([[Argument_Rømer_2018_EPT\|Rømer, 2018, p.6-7]])。
+> 激进[[Constructivist Paradigm\|建构主义]]消解了外部世界和规范性标准，导致无法区分好的建构与坏的建构、[[Knowledge Building Theory|知识建构]]与谬误建构。教育判断（什么值得学、什么值得教）因此被排除在理论之外([[Argument_Rømer_2018_EPT\|Rømer, 2018, p.6-7]])。
 
 
 > [!warning] 与[[Realism in International Relations\|现实主义]]的根本对立

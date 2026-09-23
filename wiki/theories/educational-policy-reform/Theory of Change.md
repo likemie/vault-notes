@@ -8,7 +8,7 @@ aliases:
 summary: "基于因果分析解释一整套干预措施为何及如何达成特定变化的循证理论框架，通过识别底层假设、活动投入、因果链条与中介行为改变要素，为项目评价与知识中介提供可检验的机制说明"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 58
+theory_related_count: 56
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -30,12 +30,10 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Research Utilization]]"
   - "[[School Inspection]]"
-  - "[[Growth]]"
   - "[[Meta-Representational Competence]]"
   - "[[Teaching Assistant]]"
   - "[[Recommendations for Practice]]"
   - "[[Scaffolding]]"
-  - "[[Dialogue in Education]]"
   - "[[Critical Thinking]]"
   - "[[Attrition]]"
   - "[[Initial Teacher Training]]"
@@ -86,7 +84,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-13
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Theory of Change
@@ -150,7 +148,7 @@ updated: 2026-09-18
 >   > [!evidence-grid]- 证据
 >   > - **证据一** 在英格兰教育系统中，英国教育标准局（[[Ofsted\|Office for Standards in Education, Children's Services and Skills]]，Ofsted）的高利害[[School Inspection\|学校督导]]问责对校长决策拥有绝对支配权；若变革理论未能将中介建议与应对督导指标对齐，极易被一线管理层视作额外负担而遭到排斥。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 150–151)]]
 > - **前提二** 微观行为改变无法在制度真空中自发维持，必须依靠外层制度环境的接纳性基础设施（Receptive Infrastructure）。
-> - **推导** 变革理论不能将系统背景视作静止黑箱，而必须显性化外层制度假设，将外部问责体制、预算拨款节奏与中介介入路径有机衔接，方能产[[Growth\|生长]]效制度效力。
+> - **推导** 变革理论不能将系统背景视作静止黑箱，而必须显性化外层制度假设，将外部问责体制、预算拨款节奏与中介介入路径有机衔接，方能产生长效制度效力。
 
 > [!proposition-chain] 核心命题四｜变革理论与实施[[Implementation and Process Evaluation\|过程评估]]结合，提供解构“理论失败”与“实施失败”的诊断标准
 > - **前提一** 在复杂教育干预评价中，因果评估得出零效应或负效应并不必然意味着干预的科学构想或理论逻辑错误。
@@ -206,7 +204,7 @@ updated: 2026-09-18
 > 3. **终极因果验证** 英国财政研究所（IFS）采用[[Difference-in-Differences\|双重差分]]模型（DiD）评估证实，参与该推广战役学校的学童在全国统一考试 KS2 中取得了统计学显著的正向学业增益，完整实现了从干预活动、行为驱动到终极学业成效的实践落地。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 150)]]
 >
 > **案例二｜儿童哲学（P4C）大规模级联推广中的实施稀释与因果链断裂（Gorard et al., 2015; Kitmitto et al., 2018; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）**
-> 1. **初期试点与理论因果设想** 由英国哲学探究与反思教育促进会（SAPERE）开发的儿童哲学（Philosophy for Children，P4C）项目主张，每周开展一小时由哲学探究驱动的课堂[[Dialogue in Education\|对话]]，能够训练学生的[[Critical Thinking\|批判性思维]]与言语推理，进而溢出促进阅读和数学认知能力。在早期针对 48 所小学的小规模[[Effectiveness Trial\|有效性试验]]中，该项目展现出 2 个月的学业增益。
+> 1. **初期试点与理论因果设想** 由英国哲学探究与反思教育促进会（SAPERE）开发的儿童哲学（Philosophy for Children，P4C）项目主张，每周开展一小时由哲学探究驱动的课堂对话，能够训练学生的[[Critical Thinking\|批判性思维]]与言语推理，进而溢出促进阅读和数学认知能力。在早期针对 48 所小学的小规模[[Effectiveness Trial\|有效性试验]]中，该项目展现出 2 个月的学业增益。
 > 2. **级联培训稀释引发 ToC 因果链断裂** 当 EEF 推进大规模跨区域复制试验（卷入 199 所公立小学）时，干预组织采用了“培训培训者”（Train-the-Trainer）的级联传导模型。资深培训师先对区域教练进行轮训，区域教练再培训学校骨干教师，最后由骨干转训一线班级教师。实施与过程评估（IPE）监测揭示，在多层级级联稀释下，P4C 的核心活性成分（深入的[[Socrates\|苏格拉底]]式提问引导与同侪批判性反思对话）严重[[Attrition\|流失]]，多数教师仅掌握了表面的轮流发言组织形式；同时受限于外层高利害考试统考复习挤压，学校实际授课剂量严重不足。
 > 3. **终极因果验证与机制确诊** 最终独立评估团队依据严格[[Intent-to-Treat Analysis\|意向性分析]]（[[Initial Teacher Training\|ITT]]）测得，该大规模扩展试验的学生阅读与数学学业成效增益为 0（效应量接近 0）。借助变革理论与 IPE 诊断，研究者明确判定该结果主要源于级联传导中的[[Implementation Fidelity\|实施保真度]]崩溃（实施失败），而非哲学探究对话理论本身的失效。该案例确证了若变革理论缺乏对多层传递刚柔边界的强力约束，因果链条必将在规模化推广中逐层解体。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 57)]]
 

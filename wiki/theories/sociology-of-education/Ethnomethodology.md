@@ -4,7 +4,7 @@ aliases: [俗民方法学, ethnomethodological]
 summary: "加芬克尔创立的社会学研究取向，将日常生活中最普通的活动作为经验研究对象，关注人们如何运用共享的隐性知识使社会互动变得可理解和可说明。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 4
+theory_related_count: 3
 theory_related_level: 0
 theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
@@ -12,7 +12,6 @@ tags: [theory/sociological, paradigm/interpretive, theme/micro-sociology]
 related_concepts:
   - "[[Indexicality]]"
   - "[[Reflexivity]]"
-  - "[[Dialogue in Education]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -22,7 +21,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: '2026-08-27'
+updated: 2026-09-22
 ---
 
 # Ethnomethodology
@@ -44,4 +43,4 @@ updated: '2026-08-27'
 
 ## 两种取向
 
-俗民方法学可分为语言取向（聚焦于[[Dialogue in Education|对话]]结构和未明说的"理所当然"意义）和情境取向（聚焦于人们如何协商社会语境，可能刻意扰乱日常情境中的有序元素来揭示底层过程）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+俗民方法学可分为语言取向（聚焦于对话结构和未明说的"理所当然"意义）和情境取向（聚焦于人们如何协商社会语境，可能刻意扰乱日常情境中的有序元素来揭示底层过程）（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。

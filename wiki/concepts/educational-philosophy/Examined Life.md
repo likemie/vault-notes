@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Critical Thinking]]"
   - "[[Active Learning]]"
-  - "[[Dialogue in Education]]"
   - "[[Academic Freedom]]"
   - "[[Conatus]]"
   - "[[Socratic Elenchus]]"
@@ -37,6 +36,7 @@ related_concepts:
   - "[[Banking Model of Education]]"
   - "[[Hypothesis]]"
   - "[[Junzi]]"
+  - "[[Dialogue in Education]]"
   - "[[Buen Vivir]]"
   - "[[Problem Solving]]"
   - "[[Freedom of the Learner]]"
@@ -71,7 +71,7 @@ updated: 2026-09-17
 > 省察的生活（Examined Life）是[[Socrates\|苏格拉底]]在[[Plato\|柏拉图]]《申辩篇》（38a）中提出的哲学命题——“未经省察的生活不值得过”（the unexamined life is not worth living）。[[Argument_Li_2012_Cambridge\|Li (2012)]] 将其识别为西方学习传统的第三大核心支柱，代表了一种深嵌于西方文化的智识态度：质疑一切被视为理所当然的事物与既有权威，成为[[Critical Thinking\|批判性思维]]的文化根源 [[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 31–33)]]。在现代课程哲学中，[[Argument_Darwish_2009_Queens\|Darwish (2009)]] 进一步将其作为[[Active Learning\|主动学习]]的西方典籍起点，分析其从古希腊精英理性反诘演变为现代全员学习者自由的历程 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 2–5)]]。
 
 > [!concept-lens] 概念透镜
-> - **含义** 拒绝盲从传统、教条与表面现象，主张个体应运用理性通过自我反思与[[Dialogue in Education\|对话]]探究审视生活与知识的根基。
+> - **含义** 拒绝盲从传统、教条与表面现象，主张个体应运用理性通过自我反思与对话探究审视生活与知识的根基。
 > - **用途** 用于解释西方文化中[[Critical Thinking\|批判性思维]]与[[Academic Freedom\|学术自由]]的产[[Conatus\|生机]]制，以及比较东西方学习取向的差异。
 > - **边界** 古典省察常带有精英主义色彩（如柏拉图将深度省察限定于护卫者阶层）；现代主动学习则主张将省察生活拓展为所有个体打破沉默、追求意识觉醒与实践的民主权利。
 
@@ -98,7 +98,7 @@ updated: 2026-09-17
 
 ### 经典案例分析
 
-> [!case] 案例：《优绪弗洛》[[Dialogue in Education\|对话]]：从举例到本质定义的追问
+> [!case] 案例：《优绪弗洛》对话：从举例到本质定义的追问
 > 苏格拉底在法院前遇到正在起诉自己父亲的优绪弗洛，向其追问“什么是虔敬”。当优绪弗洛用“做我现在做的事”（举例）来回答时，苏格拉底指出：“我不是让你告诉我一两个虔敬的行为，而是那个使所有虔敬行为成为虔敬的形式本身（form itself）。”经过七轮无情推导，优绪弗洛被逼到墙角，被迫从举例升级为尝试下普遍定义 [[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 31–32)]]。
 
 ---

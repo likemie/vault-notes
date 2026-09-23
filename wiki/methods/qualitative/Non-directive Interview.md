@@ -8,7 +8,7 @@ summary: "源自治疗领域的访谈方法，受访者负责启动和引导访�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 14
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Dialogue in Education]]"
   - "[[Emergence]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Non-directive Interview
@@ -67,7 +66,7 @@ updated: 2026-09-17
 
 > [!method-stack] 方法层级
 > - **研究设计** 治疗性研究、深度[[Case Study\|个案研究]]
-> - **数据收集** 自由[[Dialogue in Education\|对话]]、最少干预、受访者主导
+> - **数据收集** 自由对话、最少干预、受访者主导
 > - **分析方法** 主题分析、[[Narrative Analysis\|叙事分析]]、[[Phenomenology\|现象学]]分析
 > - **辅助技术** [[Active Listening\|积极倾听]]、反映、澄清、接纳
 

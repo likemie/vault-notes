@@ -7,10 +7,10 @@ aliases:
 summary: "指贯穿个体全生命周期的自愿性、适应性与累积性学习过程，既包含服务知识经济与劳动力重构的人力资本技能更新，更涵盖支撑公民健康、理性决策、民主协商与社会文化基础设施构建的全人发展与非正式参与生态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 40
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/curriculum
   - theme/educational-reform
@@ -20,7 +20,6 @@ tags:
   - policy/education
 related_concepts:
   - "[[Cognitive Flexibility]]"
-  - "[[Knowledge Production]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Employability]]"
   - "[[Policy Borrowing]]"
@@ -37,12 +36,12 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Scientific Literacy]]"
   - "[[Informal Science Learning]]"
-  - "[[Dialogue in Education]]"
   - "[[Science Capital]]"
   - "[[Praxis]]"
   - "[[Document]]"
   - "[[Variable]]"
 related_theories:
+  - "[[Knowledge Building Theory]]"
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Cohort Study]]"
@@ -67,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Lifelong Learning
@@ -80,7 +79,7 @@ updated: 2026-09-17
 > 终身学习（Lifelong Learning）指贯穿个体全生命周期的持续性、情境化与自愿性学习过程。它突破了传统正规学校教育的时空界限，涵盖成人进修、职业技能重塑、社区文化参与、科学探索场馆互动及数字化自主探究等多元形态，致力于培育学习者适应社会、技术与生态剧变的[[Cognitive Flexibility\|认知灵活性]]，实现个体潜能开发、健康福祉提升与公民民主参与。[[Argument_Yan_2025_JCS\|(Yan & Morris, 2025, p. 487)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, pp. 42, 48)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 终身学习超越了将教育等同于一次性学龄阶段文凭获取的传统观念，强调学习是跨越儿童、青年、成人与老年全生命周期的具身化[[Knowledge Production\|知识建构]]与能力迭代过程。
+> - **含义** 终身学习超越了将教育等同于一次性学龄阶段文凭获取的传统观念，强调学习是跨越儿童、青年、成人与老年全生命周期的具身化[[Knowledge Building Theory|知识建构]]与能力迭代过程。
 > - **用途** 在政策研究中，它一方面被用作分析全球化[[Knowledge-Based Economy\|知识经济]]与产业变革下劳动力技能升级的分析工具；另一方面作为批判透镜，揭示官方借用国际流行话语以合法化本土课程改革的修辞机制。
 > - **边界** 终身学习不应被窄化为纯粹服务劳动力市场[[Employability\|就业能力]]的职业培训，亦不应演变为将国家公共教育保障责任推卸给个体的借口，而是必须依托普惠均等的公共社会与文化基础设施予以制度化支撑。
 
@@ -141,7 +140,7 @@ updated: 2026-09-17
 ### 命题二　非正式科学学习生态构成终身学习不可或缺的社会与文化基础设施并具有跨生命周期的累积效应
 
 > [!concept-lens] 社会文化基础设施与资本重塑
-> [[Scientific Literacy\|科学素养]]的获取并非在义务教育阶段终结，[[Informal Science Learning\|非正式科学参与]]网络通过提供全生命周期的多感官探究与双向[[Dialogue in Education\|对话]]，持续重塑个体的科学认同与社会资本。
+> [[Scientific Literacy\|科学素养]]的获取并非在义务教育阶段终结，[[Informal Science Learning\|非正式科学参与]]网络通过提供全生命周期的多感官探究与双向对话，持续重塑个体的科学认同与社会资本。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026)]]
 > **非正式参与的社会基础设施定位与全周期累积机制** 科学探索中心、博物馆、科学节与[[Citizen Science\|公民科学]]不仅是学校教育的课外补充，更是维系现代社会健康运行的核心社会与文化基础设施，更是维系现代社会健康运行的核心社会与文化基础设施；全英代表性调查（PAS 2025）显示 62% 的成年公众渴求更多科学信息，非正式科学遭遇伴随正规教育所产生的[[Science Capital\|科学资本]]重塑具有终身累积性，亟需国家建立长期队列追踪予以系统实证。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, pp. 42, 47, 50–52)]]

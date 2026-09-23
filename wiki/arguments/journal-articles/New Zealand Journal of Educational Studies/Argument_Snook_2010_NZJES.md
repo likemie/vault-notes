@@ -1,11 +1,11 @@
 ---
 authors:
-  - "Snook, I."
-  - "Clark, J."
-  - "Harker, R."
-  - "O''Neill, A. M."
-  - "O''Neill, J."
-summary: "对 Hattie (2010) 回应的再回应：逐点论证 Hattie 未充分解决 2009 年提出的方法论关切，提出元分析从医学移植到教育的基础性不匹配问题"
+  - Snook, I.
+  - Clark, J.
+  - Harker, R.
+  - O''Neill, A. M.
+  - O''Neill, J.
+summary: 对 Hattie (2010) 回应的再回应：逐点论证 Hattie 未充分解决 2009 年提出的方法论关切，提出元分析从医学移植到教育的基础性不匹配问题
 type: argument
 subtype: journal-article
 publication_type: journal-article
@@ -20,11 +20,11 @@ argument_related_color: "#dbeafe"
 journal: New Zealand Journal of Educational Studies
 citation: "Snook, I., Clark, J., Harker, R., O'Neill, A. M., & O'Neill, J. (2010). Critic and conscience of society: A reply to John Hattie. New Zealand Journal of Educational Studies, 45(2), 93–98."
 tags:
-- visible-learning
-- effect-size
-- meta-analysis
-- stance/critique
-- region/new-zealand
+  - visible-learning
+  - effect-size
+  - meta-analysis
+  - stance/critique
+  - region/new-zealand
 related_concepts:
   - "[[Research Question]]"
   - "[[Critic and Conscience of Society]]"
@@ -37,7 +37,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Homework]]"
   - "[[External Validity]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Surface and Deep Learning]]"
   - "[[Research Purpose]]"
   - "[[Evaluation Research]]"
@@ -53,10 +53,10 @@ related_arguments:
   - "[[Argument_Hattie_2010_NZJES]]"
 sources:
   - "[[sources/Snook_2010_NZJES|Snook_2010_NZJES]]"
-part_of: ''
+part_of: ""
 status: draft
-created: '2026-05-06'
-updated: '2026-06-08'
+created: 2026-05-06
+updated: 2026-06-08
 year: 2010
 doi: ""
 citation_aliases:
@@ -93,7 +93,7 @@ citation_aliases:
 >
 > 4. **平均化掩盖复杂性** 以[[Homework\|家庭作业]]为例——Hattie 最终产生 d=0.29 的平均[[Effect Size\|效应量]]，"发出家庭作业不重要的信号"，尽管他自己的数据表明家庭作业对中学生、高能力学生和某些学科非常重要。废除家庭作业可能损害许多学生的教育
 >
-> 5. **新西兰的[[External Validity\|可推广性]]** Hattie 本人提请注意从主要为美国来源推广到其他教育体系的问题。Snook et al. 的立场是[[Humility in Learning\|谦逊]]且合理的——新西兰学校、教师、学生和课程可能与美国有足够差异，[[Meta-analysis\|元分析]]可能不完全适用(pp.95-96)
+> 5. **新西兰的[[External Validity\|可推广性]]** Hattie 本人提请注意从主要为美国来源推广到其他教育体系的问题。Snook et al. 的立场是[[Humility\|谦逊]]且合理的——新西兰学校、教师、学生和课程可能与美国有足够差异，[[Meta-analysis\|元分析]]可能不完全适用(pp.95-96)
 >
 > 6. **d=0.40 截断值** 所有截断值在某种意义上都是武断的（Hattie 本人承认），对于许多目的而言更低的截断值可以辩护（如药物研究）。更重要的一点是：大样本随机研究中的小效应量具有重大意义，小样本的大效应量则"最好无意义，最糟是危险的"(p.96)
 >

@@ -7,7 +7,7 @@ title: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_key: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_display_title: "Epistemic practices and science education"
 argument_kind: "book-chapter"
-argument_related_count: 45
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -64,10 +64,12 @@ related_concepts:
   - "[[Enlightenment]]"
   - "[[Champ]]"
   - "[[Ways of Knowing]]"
+  - "[[Open-Mindedness]]"
   - "[[Scientific Explanation]]"
   - "[[Bildung]]"
 related_theories:
   - "[[Family Resemblance Approach]]"
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Practical Epistemology Analysis]]"
@@ -218,7 +220,7 @@ flowchart LR
 >   - **认识论机制** 科学主张的原初提出高度依赖具身动作与仪器读数的微观对质，这些粗粒度试错尝试构成了启动小组后续公共审议的关键认知支点（Garfinkel et al., 1981）。
 > - **沟通主张：小学三年级太阳能装置设计**（Kelly & Brown, 2003）
 >   - **设计语境与受众** 小学三年级学生分组设计太阳能集热烹饪装置，在小组内协商材料折中方案，在全班汇报集热原理，并以实测升温数据回应指定科学小记者的严苛质询。
->   - **认识论机制** 沟通是知识建构的核心中介而非事后包装。学生根据受众调整论证，与专业科学家撰写报告和答辩时的修辞工作完全同构（Bazerman, 1988; Traweek, 1988）。
+>   - **认识论机制** 沟通是[[Knowledge Building Theory|知识建构]]的核心中介而非事后包装。学生根据受众调整论证，与专业科学家撰写报告和答辩时的修辞工作完全同构（Bazerman, 1988; Traweek, 1988）。
 > - **评估主张：大学海洋地质学论文写作**（Takao & Kelly, 2003）
 >   - **学术写作与[[Coding in Qualitative Research\|编码]]** 大学生利用全球地质数据集撰写板块构造论文。研究运用认识论层级（EL）[[Analytic Framework\|分析框架]]，从原始地震波观测数据（EL I）平稳上升到大洋板块俯冲理论模型（EL IV/V）。
 >   - **认识论机制** 话语分析揭示了高水平论证跨越不同认识论层级的逻辑融贯性，将[[Teaching Assistant\|助教]]难以言传的默会证据评估标准显性化，使其成为可教可评的体裁规范。
@@ -257,7 +259,7 @@ flowchart LR
 > - **多尺度情境性（Contextual）**
 >   认识论实践同时跨越微观与宏观时间尺度：它既受制于当下的具体情境（如处理异常测量读数），又深深嵌入在长期积淀的学科文化与实验报告体裁规范之中。（pp. 156–158）
 > - **历史互文性（Intertextual）**
->   课堂[[Dialogue in Education\|对话]]不断指涉既有的口头与书面文本、数学公式、图表符号及官方教材概念（Bazerman, 2004; Green & Castanheira, 2012）。互文性将当前的微观讨论接入广阔的历史学术网络。（pp. 158–159）
+>   课堂对话不断指涉既有的口头与书面文本、数学公式、图表符号及官方教材概念（Bazerman, 2004; Green & Castanheira, 2012）。互文性将当前的微观讨论接入广阔的历史学术网络。（pp. 158–159）
 > - **制度后果性（Consequential）**
 >   群体关于“何者算作有效知识”的裁决具有直接的社会后果。它不仅决定了哪种解释被采纳，更深刻塑造了参与者的智识权威、权力关系与科学学术身份认同（Kelly, 2016）。（p. 159）
 
@@ -391,9 +393,9 @@ flowchart LR
 ## 关键引用
 
 > [!citation-card] 论[[Epistemology\|认识论]]主体的社会共同体转向
-> 这项关于[[Knowledge Production\|知识建构]]实践的实证研究所做出的核心贡献，是将对认识论主体的考量从个体的知者转向了相关的社会群体。这项研究补充了哲学界对基于或预设[[René Descartes\|笛卡尔]]主体的认识论所存在的局限性的揭示。这一转变提示我们，有必要审视决定何者算作知识的社会过程，考虑意义的共同体理解，在历史与公共情境中评估思想，并认识到相关群体对知识主张进行评判的重要性。此类社会过程随着时间的推移逐渐模式化并形成惯例，演变为[[Epistemic Practices\|认识论实践]]。（p. 140）
+> 这项关于[[Knowledge Building Theory|知识建构]]实践的实证研究所做出的核心贡献，是将对认识论主体的考量从个体的知者转向了相关的社会群体。这项研究补充了哲学界对基于或预设[[René Descartes\|笛卡尔]]主体的认识论所存在的局限性的揭示。这一转变提示我们，有必要审视决定何者算作知识的社会过程，考虑意义的共同体理解，在历史与公共情境中评估思想，并认识到相关群体对知识主张进行评判的重要性。此类社会过程随着时间的推移逐渐模式化并形成惯例，演变为[[Epistemic Practices\|认识论实践]]。（p. 140）
 >
-> *A key contribution of this empirical work on the practice of knowledge construction is the shift in the consideration of the epistemic subject from the individual knower to that of a relevant social group. This research adds to the work in philosophy identifying limitations of epistemologies based in, or assuming, a Cartesian subject. This shift suggests the need to examine the social processes determining what counts as knowledge, to consider a communal understanding of meaning, to evaluate ideas set in historical and public contexts, and to recognize the importance of the assessment of knowledge claims by relevant groups. Such social processes can become routinized and patterned over time becoming epistemic practices.*
+> *A key contribution of this empirical work on the practice of [[Knowledge Production|Knowledge Construction]] is the shift in the consideration of the epistemic subject from the individual knower to that of a relevant social group. This research adds to the work in philosophy identifying limitations of epistemologies based in, or assuming, a Cartesian subject. This shift suggests the need to examine the social processes determining what counts as knowledge, to consider a communal understanding of meaning, to evaluate ideas set in historical and public contexts, and to recognize the importance of the assessment of knowledge claims by relevant groups. Such social processes can become routinized and patterned over time becoming epistemic practices.*
 
 > [!citation-card] 论认识论实践的四维行动与本体特征界定
 > 认识论实践是群体成员提出、沟通、评估和合法化知识主张的社会组织性与互动实现性方式。借鉴科学研究与教育研究的成果，认识论实践具有交互生成性（由人与人之间通过协同活动建构而成）、情境性（深深嵌入在社会实践与文化规范之中）、互文性（通过连贯的话语、符号与象征符号的历史网络进行沟通）以及后果性（被合法化的知识直接具象化了权力与文化）。正是通过应用这些认识论实践，共同体才为其知识主张提供了正当性辩护。（p. 140）
@@ -406,7 +408,7 @@ flowchart LR
 > *Since epistemic practices are [[Champ\|field]]- and time-dependent (changing due to the challenges of knowledge production), there is not a limited set of “science practices.” This contrasts with how “the scientific method” is often interpreted in education as a set of linear steps. Rather, there are disciplinary (and other!) [[Ways of Knowing]] that vary across the multiple ways that humans make sense of their experience. The point is not to define a given set of eight practices (NGSS Lead States 2013), or the five steps of the scientific method. Rather, the idea is to identify the ways people come to know and recognize the value of making sense in systematic ways that render evidence open for public scrutiny and evaluation.*
 
 > [!citation-card] 论科学教育的民主价值与公共审议理性
-> 参与认识论实践乃是稳健科学教育不可或缺的基石。参与认识论实践的必要性，在很大程度上源于汲取知识生产共同体的崇高价值：说服优于强制的价值、思想开放优于教条盲从的价值，以及审慎考量备选解决方案的价值等等。[[Scientific Explanation\|科学解释]]与论证并非纯粹的技术程序，因为它们不存在能够轻易被直接平移到科学教学法中的机械公式。通过将此类实践参与和精心设计的教学法深度交织，学生方能积聚充沛的认识论能力，在公共领域中作为有见识、有[[Bildung\|教养]]的现代公民积极发声。（p. 161）
+> 参与认识论实践乃是稳健科学教育不可或缺的基石。参与认识论实践的必要性，在很大程度上源于汲取知识生产共同体的崇高价值：说服优于强制的价值、[[Open-Mindedness|思想开放]]优于教条盲从的价值，以及审慎考量备选解决方案的价值等等。[[Scientific Explanation\|科学解释]]与论证并非纯粹的技术程序，因为它们不存在能够轻易被直接平移到科学教学法中的机械公式。通过将此类实践参与和精心设计的教学法深度交织，学生方能积聚充沛的认识论能力，在公共领域中作为有见识、有[[Bildung\|教养]]的现代公民积极发声。（p. 161）
 >
 > *Our argument in this chapter is that engagement in epistemic practices is an important part of a robust science education. Part of the need to engage in epistemic practices is to learn values of knowledge-producing communities – the value of persuasion over force, open-mindedness over dogma, and consideration of alternative solutions, and so forth (Rorty 1991). Scientific explanation and argument are not technical procedures, as they do not have specific formulas that can be translated easily to the pedagogy of science education. Through such engagement, connected to carefully organized pedagogy, students may build capacity to participate as informed citizens in the public sphere.*
 

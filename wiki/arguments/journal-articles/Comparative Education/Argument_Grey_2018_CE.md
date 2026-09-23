@@ -36,7 +36,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Tracking]]"
   - "[[School Inspection]]"
-  - "[[Growth]]"
   - "[[Falsification]]"
   - "[[Hypothesis]]"
   - "[[Construct]]"
@@ -72,7 +71,7 @@ title: "Argument_Grey_2018_CE"
 argument_key: "Argument_Grey_2018_CE"
 argument_display_title: "PISA: multiple ‘truths’ and mediatised global governance"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -309,7 +308,7 @@ issuing_organization: ""
 > [!evidence-grid] 学术界对 PISA 全球治理霸权的迟滞抵制
 > - **83 名国际顶尖教育学者公开信** 2014 年 5 月 6 日，来自全球各大学的 83 位著名学者在《卫报》刊发联名公开信，直接致信 OECD 教育总监 Andreas Schleicher，这是后 PISA 2012 周期内唯一一次对评估本身正当性展开的实质性挑战。（p. 123）
 > - **对民主授权缺失的严厉谴责** 公开信指出 OECD 作为未经民主选举的经济机构，完全缺乏主导各国公共教育政策发展的政治授权，批评其强制将教育价值异化为单一的量化指标。
-> - **对短期功利应试修补的批判** 学者们抨击 PISA 导致各国陷入以提升排名为唯一目的的短期修补（short-term fixes），彻底牺牲了教育促进个体全面[[Growth\|成长]]与社会福祉的内在人文价值。
+> - **对短期功利应试修补的批判** 学者们抨击 PISA 导致各国陷入以提升排名为唯一目的的短期修补（short-term fixes），彻底牺牲了教育促进个体全面成长与社会福祉的内在人文价值。
 
 #### 3. 媒介化治理：透视民主监督异化的批判性分析视角
 

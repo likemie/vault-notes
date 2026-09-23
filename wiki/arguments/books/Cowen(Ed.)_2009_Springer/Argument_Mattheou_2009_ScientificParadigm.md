@@ -7,10 +7,10 @@ title: "Argument_Mattheou_2009_ScientificParadigm"
 argument_key: "Argument_Mattheou_2009_ScientificParadigm"
 argument_display_title: "The Scientific Paradigm in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 75
-argument_related_level: 5
-argument_related_stars: "⭐⭐⭐⭐⭐"
-argument_related_color: "#fecdd3"
+argument_related_count: 74
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
+argument_related_color: "#fef3c7"
 authors:
   - Mattheou, D.
 source_language: en
@@ -55,7 +55,6 @@ related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Intangible Spiritual Forces]]"
   - "[[Hypothesis]]"
-  - "[[Growth]]"
   - "[[Research Scope]]"
   - "[[Scientific Method]]"
   - "[[Subjectivism]]"
@@ -231,7 +230,7 @@ updated: 2026-09-08
 
 #### 2. 战后规划理性、量化突破与对科学预测力量的迫切渴求
 
-面对战后迫切的政策需求，战后[[Growth|成长]]起来的新一代比较教育学者对传统的历史进路表现出强烈的反叛，指责其沉溺于宏大观念白描而对现实政策改革毫无助益（Noah & Eckstein, 1969; Kazamias, 1961; Mattheou, 1997; Holmes, 1965; pp. 60–61）。
+面对战后迫切的政策需求，战后成长起来的新一代比较教育学者对传统的历史进路表现出强烈的反叛，指责其沉溺于宏大观念白描而对现实政策改革毫无助益（Noah & Eckstein, 1969; Kazamias, 1961; Mattheou, 1997; Holmes, 1965; pp. 60–61）。
 
 > [!critique] 新一代实证学者对传统历史进路的系统指控
 > - **视角过分宏观** 执着于民族国家数百年乃至上千年的宏大文化通史白描，完全脱离具体教育机构、学制架构与微观教学过程的现实运行机理。

@@ -6,7 +6,7 @@ aliases:
   - Neo-Confucian
   - 陆王心学
   - 程朱理学
-summary: "宋明时期儒学复兴运动，以程朱理学与陆王心学为代表，将天理与修身关联，重建儒家学习传统的理论根基"
+summary: 宋明时期儒学复兴运动，以程朱理学与陆王心学为代表，将天理与修身关联，重建儒家学习传统的理论根基
 type: theory
 theory_field: "chinese-philosophy"
 theory_related_count: 15
@@ -23,7 +23,7 @@ related_concepts:
   - "[[Four Sprouts]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Learning Virtues]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods: []
@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-07-08
+updated: 2026-09-23
 ---
 
 # Neo-Confucianism
@@ -97,6 +97,6 @@ updated: 2026-07-08
 
 ## 应用领域
 
-- 奠定了中国、日本、韩国、越南等地学习者重视勤勉、[[Humility in Learning|谦逊]]、尊重师长的文化基础
+- 奠定了中国、日本、韩国、越南等地学习者重视勤勉、[[Humility|谦逊]]、尊重师长的文化基础
 - [[Civil Service Examination|科举制度]]以程朱理学为考试内容，持续十三个世纪，深刻影响东亚教育价值观
 

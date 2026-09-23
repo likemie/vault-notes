@@ -41,12 +41,12 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[IB Diploma Programme]]"
   - "[[Theory of Knowledge]]"
-  - "[[Knowledge Production]]"
   - "[[Business as Usual]]"
   - "[[Center of Calculation]]"
   - "[[Data Infrastructure]]"
 related_theories:
   - "[[Phenomenology]]"
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Analytic Framework]]"
@@ -262,6 +262,6 @@ Yin告诫在单案例设计中要谨慎：通常会忽视多案例的可能好�
 > - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 以多案例研究设计，从 15 所参与跨文化 [[Learner-Centred Education\|LCE]] 教师培训项目的学校中选取 4 所进行深度追踪，对比不同学校在[[Test-Based Accountability\|考试问责]]压力下推进 LCE 的路径差异
 > - [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]] — 以多案例研究设计，选取研究人员国际流动、合作规制、基金重组与[[Megascience Installations\|大科学装置]][[Going Native\|本土化]]四个切面案例
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 以四所 NSW 学校为多案例设计，通过访谈、课堂观察和文件分析对比各校 ToK 课程的实施方式，识别出四种差异化的[[Critical Thinking\|批判性思维]]教学模式
-> - [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]] — 以卡拉奇一所私立学校的 [[IB Diploma Programme\|IBDP]] 项目为质性案例研究，探究 [[Theory of Knowledge\|TOK]] 课程中学习者的自主性角色与[[Knowledge Production\|知识建构]]过程
+> - [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]] — 以卡拉奇一所私立学校的 [[IB Diploma Programme\|IBDP]] 项目为质性案例研究，探究 [[Theory of Knowledge\|TOK]] 课程中学习者的自主性角色与[[Knowledge Building Theory|知识建构]]过程
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 以英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）为单一机构案例研究，从内部评估决策者视角系统剖析其在学校现场推动大规模[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials，RCT）的制度设计、独立评估机制、[[Implementation and Process Evaluation\|实施与过程评估]]（Implementation and Process Evaluation，IPE）演进以及在[[Business as Usual\|常态教学]]背景下评估干预效应所面临的方法学挑战
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 采用多层级纵向质性个案研究设计，结合全国性政策法规文本、技术白皮书梳理与针对联邦及各州教育部高级决策者、测量学家的[[Expert Interview\|专家访谈]]，深入剖析[[Gesamtstrategie zum Bildungsmonitoring\|德国国家教育监测总体战略]]下[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB）作为国家[[Center of Calculation\|计算中心]]的崛起历程与跨尺度绩效[[Data Infrastructure\|数据基础设施]]的拓扑运作机制。

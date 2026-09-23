@@ -31,7 +31,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Champ]]"
   - "[[Academic Achievement]]"
-  - "[[Dialogue in Education]]"
   - "[[Evaluation Research]]"
   - "[[School Inspection]]"
 related_theories: []
@@ -68,9 +67,9 @@ title: "Argument_Dedering_2009_EERJ"
 argument_key: "Argument_Dedering_2009_EERJ"
 argument_display_title: "Evidence-Based Education Policy: Lip service or common practice? Empirical findings from Germany"
 argument_kind: "journal-article"
-argument_related_count: 30
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 29
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "European Educational Research Journal"
 book_title: ""
@@ -215,7 +214,7 @@ issuing_organization: ""
 
 #### 2. 各州通过设专职岗位、建质保所与学术网络实现专业能力内生化
 
-初期教育部面临的核心瓶颈是官员的方法论素养不足。部内高层官员多为法律背景出身，业务处室官员则多由中小学教师或校长选拔而来，普遍缺乏推断统计与跨国测评处理技术，部内仅有少数人员能够展开实质性[[Dialogue in Education|对话]]。（pp. 488, 491–492）
+初期教育部面临的核心瓶颈是官员的方法论素养不足。部内高层官员多为法律背景出身，业务处室官员则多由中小学教师或校长选拔而来，普遍缺乏推断统计与跨国测评处理技术，部内仅有少数人员能够展开实质性对话。（pp. 488, 491–492）
 
 > [!proc] 教育行政专业实证分析能力的制度化建构路径
 > 1. **部内设立专职社会科学量化分析编制** 在两个联邦州，教育部打破传统教师选拔惯例，直接在部内招聘受过系统实证社会科学与高级统计方法训练的专业研究人员，专职承担测评数据分析与决策支撑。

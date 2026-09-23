@@ -37,9 +37,9 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Educational Science Communication]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Dialogue in Education]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Hypothesis]]"
+  - "[[Dialogue in Education]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Boundary Spanner]]"
   - "[[Research Literacy]]"
@@ -88,7 +88,7 @@ updated: 2026-09-18
 > [!concept-lens] 阅读透镜
 > - **对象** 德语区职前师范生、在岗教师、大学与进修机构教师教育者（Lehrkräftebildende）、教育行政管理者与教育科学研究共同体。
 > - **张力** 严谨实证研究的高度专业性、付费封闭性与方法学晦涩性，与一线教师对易用、直观备课指导的强烈需求以及低质经验指南、教育神经神话广泛流传之间的结构性矛盾。
-> - **贡献** 系统解构了五种主要科学传播媒介的实践效能、受众边界与质量风险，确立了以受众适配语言、非线性[[Dialogue in Education\|对话]]与制度激励为核心的教育科学传播行动框架。
+> - **贡献** 系统解构了五种主要科学传播媒介的实践效能、受众边界与质量风险，确立了以受众适配语言、非线性对话与制度激励为核心的教育科学传播行动框架。
 
 ---
 
@@ -179,7 +179,7 @@ updated: 2026-09-18
 ### 论证步骤二　单向线性知识转移在复杂课堂情境中必然受阻，必须转向双向递归的情境化教育科学传播
 
 > [!claim] 核心判断：单向传输失效与非线性传播转向
-> [[Knowledge Transfer\|知识转移]]并非科研成果向实践的单向机械投放，唯有将[[Educational Science Communication\|教育科学传播]]理解为尊重实践情境逻辑的非线性、双向乃至多向递归[[Dialogue in Education\|对话]]，才能为[[Evidence-Based Education\|循证教育]]实践奠定坚实基础。（pp. 252–254）
+> [[Knowledge Transfer\|知识转移]]并非科研成果向实践的单向机械投放，唯有将[[Educational Science Communication\|教育科学传播]]理解为尊重实践情境逻辑的非线性、双向乃至多向递归对话，才能为[[Evidence-Based Education\|循证教育]]实践奠定坚实基础。（pp. 252–254）
 
 #### 1. 延续赤字模型的单向传输模式因忽视一线教学情境与实践行动逻辑而遭遇制度性阻滞
 

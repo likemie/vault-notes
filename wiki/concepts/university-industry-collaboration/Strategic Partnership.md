@@ -8,10 +8,10 @@ aliases:
 summary: "区别于战术/交易型和协作型互动的最高层次产学关系，以双方联络人、共同愿景与目标、定期审查路线图和双向问责制为四个基本要素，通常从小项目生长而非顶层设计而成"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/partnership"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Research Impact]]"
   - "[[Translational Research]]"
-  - "[[Growth]]"
   - "[[University Corporate Engagement Professional]]"
   - "[[Partnership Continuum]]"
 related_theories: []
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Strategic Partnership in University-Industry Collaboration
@@ -80,7 +79,7 @@ updated: 2026-09-17
 ## 生长路径
 
 > [!note]-
-> 大多数产学战略伙伴关系不是顶层设计出来的，而是从一个小项目"[[Growth\|生长]]"出来的。典型路径包含六个阶段([[Argument_Burrus_Patera_2025_PartnershipBuilding\|Burrus & Patera, 2025, p.79]])：
+> 大多数产学战略伙伴关系不是顶层设计出来的，而是从一个小项目"生长"出来的。典型路径包含六个阶段([[Argument_Burrus_Patera_2025_PartnershipBuilding\|Burrus & Patera, 2025, p.79]])：
 
 1. 一个教师与一个产业研究者因共同兴趣启动一个小项目。
 2. 项目顺利完成，双方团队建立了初步信任。

@@ -7,7 +7,7 @@ summary: "美籍著名发展心理学家，康奈尔大学终身教授，生态�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Policymaking Chronosystem]]"
   - "[[Emergence]]"
-  - "[[Growth]]"
   - "[[Policy Science in Comparative Education]]"
 related_theories:
   - "[[Ecological Systems Theory]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Urie Bronfenbrenner
@@ -89,7 +88,7 @@ updated: 2026-09-18
 ## 核心思想
 
 > [!claim] 核心学术主张
-> 人类的发展绝非孤立基因或去情境化心理机制的被动展开，而是发展中的个体与其所生活的、由低级到高级层层嵌套的多重环境系统（家庭、学校、同伴、邻里、制度政策、宏观文化与历史时钟）之间持续而复杂的双向互动演进过程。任何有效的教育改革与社会干预，都必须立足于修复与强化支撑个体[[Growth\|成长]]的完整生态网络。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]
+> 人类的发展绝非孤立基因或去情境化心理机制的被动展开，而是发展中的个体与其所生活的、由低级到高级层层嵌套的多重环境系统（家庭、学校、同伴、邻里、制度政策、宏观文化与历史时钟）之间持续而复杂的双向互动演进过程。任何有效的教育改革与社会干预，都必须立足于修复与强化支撑个体成长的完整生态网络。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]
 
 > [!citation-card] 人类发展生态学的经典批判与定义
 > 当代绝大多数发展心理学，不过是在陌生情境中、面对陌生的成人，对儿童短时间表现出的奇异行为所开展的科学研究。人类发展生态学所研究的，是成长中的主动个体与其所处不断变化的即时环境之间渐进、相互的适应过程。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]

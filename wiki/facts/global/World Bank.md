@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Knowledge Bank]]"
   - "[[Knowledge Production]]"
-  - "[[Dialogue in Education]]"
   - "[[Document]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
@@ -61,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # World Bank
@@ -95,7 +94,7 @@ updated: 2026-09-17
 
 > [!actor-grid] 组织治理架构
 > - **决策机构（理事会 / 执行董事会）** 理事会为最高权力机构（各成员国财长或央行行长担任），25 名常驻华盛顿的执行董事组成董事会，按出资份额分配加权投票权（美国拥有唯一实质一票否决权），决定重大国别贷款与行业政策战略。
-> - **执行机构（行长 / 教育全球业务局）** 传统上由美国提名行长领导庞大官僚官制，下设教育全球业务局（Education Global Practice, EGP），配备数百名专职教育经济学家与任务团队负责人（TTL），直接主导国别教育贷款准备与政策[[Dialogue in Education\|对话]]。
+> - **执行机构（行长 / 教育全球业务局）** 传统上由美国提名行长领导庞大官僚官制，下设教育全球业务局（Education Global Practice, EGP），配备数百名专职教育经济学家与任务团队负责人（TTL），直接主导国别教育贷款准备与政策对话。
 > - **专家与审议委员会** 发展经济学研究局（DEC）、独立评价局（IEG），负责开展微观计量经济学评估、[[Randomised Controlled Trials\|RCT]] 评估及对已结项教育贷款的问责审计。
 > - **会员与外部利益相关者** 189 个成员国教育部主要作为借款方与政策谈判对手，通过国别伙伴关系框架（CPF）接受世行政策审议。
 

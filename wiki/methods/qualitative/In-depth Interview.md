@@ -18,7 +18,6 @@ tags:
   - research-methodology
   - paradigm/interpretivist
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Epoché]]"
   - "[[Hypothesis]]"
   - "[[Unit of Analysis]]"
@@ -26,6 +25,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
   - "[[Reflexivity]]"
+  - "[[Open-Mindedness]]"
   - "[[Emergence]]"
   - "[[Central Question]]"
   - "[[Growth]]"
@@ -78,7 +78,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # In-depth Interview
@@ -88,7 +88,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> 深度访谈（In-depth Interview）是[[Qualitative Interview\|质性访谈]]中最核心的变体，通过与受访者进行持续、深入的[[Dialogue in Education\|对话]]，理解其对自身经验与行动意义的主观建构。该方法的操作核心是[[Epoché\|悬置]]——研究者暂时搁置自身的知识体系和前见，进入受访者的日常语境理解其行动意义（杨善华 & 孙飞宇, 2005; Arksey & Knight, 1999）。
+> 深度访谈（In-depth Interview）是[[Qualitative Interview\|质性访谈]]中最核心的变体，通过与受访者进行持续、深入的对话，理解其对自身经验与行动意义的主观建构。该方法的操作核心是[[Epoché\|悬置]]——研究者暂时搁置自身的知识体系和前见，进入受访者的日常语境理解其行动意义（杨善华 & 孙飞宇, 2005; Arksey & Knight, 1999）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 个体的主观经验、意义建构、行动逻辑和生活世界。
@@ -106,7 +106,7 @@ updated: 2026-09-17
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 深度访谈植根于韦伯的解释性理解传统和[[Constructivist Paradigm\|建构主义]]取向——知识在访谈[[Dialogue in Education\|对话]]中共同生产，而非从受访者脑中提取。研究者的提问方式、回应策略和在场状态都参与了意义的建构。
+> - **知识观** 深度访谈植根于韦伯的解释性理解传统和[[Constructivist Paradigm\|建构主义]]取向——知识在访谈对话中共同生产，而非从受访者脑中提取。研究者的提问方式、回应策略和在场状态都参与了意义的建构。
 > - **研究者角色** 研究者是"同感的理解者"——站在受访者的立场理解其观念与策略。需要持续追问直至能够设身处地地理解受访者的选择策略。
 > - **有效性标准** 效度不依赖[[Sample Size Determination\|样本量]]，而依赖资料收集和分析过程中的严谨性——人员校验、[[Triangulation\|三角互证]]、跟踪式设计和[[Reflexivity\|反身性]]记录。
 > - **不声称回答的问题** 不追求统计分布和总体推广；不能替代量化调查对大规模趋势的测量。
@@ -122,7 +122,7 @@ updated: 2026-09-17
 ## 核心特征
 
 > [!feature] 区别于其他访谈形式的关键特征
-> - **开放性** 以开放问题为主导，让受访者在自身框架内组织叙述，而非被迫选择预设答案
+> - **[[Open-Mindedness|开放性]]** 以开放问题为主导，让受访者在自身框架内组织叙述，而非被迫选择预设答案
 > - **深度追问** 持续追问"为什么""然后呢""能举个例子吗"，直至理解受访者的行动逻辑和意义赋予
 > - **语境敏感性** 关注受访者叙述的社会情境和个人生活史——同一句话在不同人生阶段可能有完全不同的含义
 > - **弹性结构** [[Interview Protocol\|访谈提纲]]是导航而非脚本——根据受访者的叙述灵活调整追问方向，允许意外主题的[[Emergence\|涌现]]

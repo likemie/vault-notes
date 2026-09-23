@@ -26,11 +26,11 @@ tags:
   - professional-development
   - region/uk
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Academic Achievement]]"
   - "[[Causality]]"
   - "[[Variable]]"
+  - "[[Dialogue in Education]]"
   - "[[Business as Usual]]"
   - "[[Counterfactual]]"
   - "[[Evidence-Based Education]]"
@@ -69,7 +69,7 @@ updated: 2026-09-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **“思考、动手、[[Dialogue in Education\|对话]]科学”（Thinking, Doing, Talking Science，简称 TDTS）**是由英国牛津科学机构（Science Oxford）与牛津布鲁克斯大学（Oxford Brookes University）联合研发、由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）重点资助的小学科学教师专业发展与课堂教学干预项目。该项目旨在通过系统培训小学教师，将[[Higher-Order Thinking Skills\|高阶思维]]、动手探究与对话式课堂研讨深度融入科学课程，破解英国小学科学教学中重事实死记、轻思维探究的痼疾。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 57)]]
+> **“思考、动手、对话科学”（Thinking, Doing, Talking Science，简称 TDTS）**是由英国牛津科学机构（Science Oxford）与牛津布鲁克斯大学（Oxford Brookes University）联合研发、由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）重点资助的小学科学教师专业发展与课堂教学干预项目。该项目旨在通过系统培训小学教师，将[[Higher-Order Thinking Skills\|高阶思维]]、动手探究与对话式课堂研讨深度融入科学课程，破解英国小学科学教学中重事实死记、轻思维探究的痼疾。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 57)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2013 年启动[[Efficacy Trial\|效力试验]]立项，2015 年发布首期效力评估报告（Hanley et al., 2015）；2016 年启动大规模[[Effectiveness Trial\|实效试验]]，2018 年完成终期追踪评估（Kitmitto et al., 2018）。
@@ -82,7 +82,7 @@ updated: 2026-09-15
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> TDTS 假定：小学科学教学必须超越“单纯动手做实验”的表层活动，通过系统训练教师在课堂中提出引发认知冲突的高阶问题（Thinking）、设计目标聚焦且具挑战性的动手操作（Doing），以及组织基于证据的同伴[[Dialogue in Education\|对话]]与论证（Talking），从而深层激发学童对科学原理的本质理解与探究兴趣。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 57)]]
+> TDTS 假定：小学科学教学必须超越“单纯动手做实验”的表层活动，通过系统训练教师在课堂中提出引发认知冲突的高阶问题（Thinking）、设计目标聚焦且具挑战性的动手操作（Doing），以及组织基于证据的同伴对话与论证（Talking），从而深层激发学童对科学原理的本质理解与探究兴趣。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 57)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 提升小学五年级学童的科学[[Academic Achievement\|学业成就]]、[[Higher-Order Thinking Skills\|高阶思维]]能力以及对科学探究的积极情感态度。
@@ -119,7 +119,7 @@ updated: 2026-09-15
 
 > [!pathways]- 实施路径与管理
 > - **培训转导模式演变** 效力阶段采取“研发大师直接面授”模式，高度保证了理论内涵的保真度；实效阶段采取“研发者 $\to$ 区域培训师 $\to$ 一线教师”的二级级联转导模式。
-> - **教学转化支持** 提供课堂活动指引卡片，指导教师在“物体的特性与变化”、“生物与栖息地”等传统教学单元中自然融入哲学探究与[[Dialogue in Education\|对话]]式反思。
+> - **教学转化支持** 提供课堂活动指引卡片，指导教师在“物体的特性与变化”、“生物与栖息地”等传统教学单元中自然融入哲学探究与对话式反思。
 > - **保真度与依从性监控** [[Implementation and Process Evaluation\|过程评估]]团队通过培训出勤日志、教师访谈与课堂录像抽检，系统追踪教学策略落实的深度与频次。
 
 ---
@@ -129,7 +129,7 @@ updated: 2026-09-15
 > [!indicators]- 评估指标体系
 > - **学业产出指标** 独立于学校的[[Blinding\|盲法]][[Pre-test and Post-test\|后测]]，采用标准化小学五年级科学认知测验量表；
 > - **非认知态度指标** 儿童对科学学习的兴趣、参与意愿与[[Self-Efficacy\|自我效能感]][[Questionnaire\|问卷]]；
-> - **过程保真度指标** 教师对 5 天集中研讨的出勤完成率、反思记录质量与课堂[[Dialogue in Education\|对话]]时长占比。
+> - **过程保真度指标** 教师对 5 天集中研讨的出勤完成率、反思记录质量与课堂对话时长占比。
 
 > [!finding-cards] 核心实证结论
 > - **[[Efficacy Trial\|效力试验]]亮眼突破（Hanley et al., 2015）** 在 42 所学校的试验中，科学后测取得显著正向效应（$d = +0.22, p < .05$，相当于 $+3$ 个月学业进展）；免费校餐（FSM）弱势学童增益更为显著（$d = +0.38$，相当于 $+8$ 个月学业进展），且学生表现出更积极的探究兴趣。

@@ -16,7 +16,7 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 90
+method_related_count: 89
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -49,7 +49,6 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Tracking]]"
   - "[[School Leadership]]"
-  - "[[Growth]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
   - "[[Predictive Validity]]"
@@ -124,7 +123,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Meta-meta-analysis
@@ -212,7 +211,7 @@ updated: 2026-09-18
 
 > [!tip] 影响气压计的四个判定区间
 > 1. **负面效应区（$d < 0$）** 对学业产生阻碍或倒退（如留级 $d = -0.16$、暑期滑坡）；
-> 2. **发展效应区（$0.0 \le d \le 0.15$）** 学生不接受干预仅随生理成熟与自然[[Growth\|生长]]产生的基线进步；
+> 2. **发展效应区（$0.0 \le d \le 0.15$）** 学生不接受干预仅随生理成熟与自然生长产生的基线进步；
 > 3. **教师效应区（$0.15 < d \le 0.40$）** 普通教师常规教学能够达到的平均年度进步幅度；
 > 4. **期望效应区（$d > 0.40$）** 超越常规教学效果的卓越干预门槛（即 Hattie 设定的“关节点” Hinge Point）。
 

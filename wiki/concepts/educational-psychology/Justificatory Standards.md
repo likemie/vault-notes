@@ -23,8 +23,8 @@ related_concepts:
   - "[[Epistemic Ideals]]"
   - "[[Epistemology]]"
   - "[[Reliable Epistemic Processes]]"
+  - "[[Trust Calibration]]"
   - "[[Evidence Standards]]"
-  - "[[Dialogue in Education]]"
   - "[[Domain Specificity]]"
   - "[[Academic Achievement]]"
   - "[[Construct Validity]]"
@@ -105,7 +105,7 @@ updated: 2026-09-22
 > [!feature] 确证标准的核心维度与分类
 > - **实证确证标准（Evidential Standards）** 涉及如何利用经验材料与实验数据确证信念，如要求全域证据契合、无重大反例、推论直接性以及大规模多源收敛印证。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, pp. 154–155)]]; [[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 209–211)]]
 > - **非实证确证标准（Nonevidential Standards）** 涉及理论美学与形式逻辑的要求，包括[[Internal Consistency\|内部一致性]]（internal consistency）、解释简洁性（simplicity）、模型优雅性以及启发未来研究的能力（fruitfulness）。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, p. 155)]]
-> - **证词与权威确证标准（Testimonial Standards）** 评估他人报告与专家证词的细粒度理由，区分盲目盲信与基于科学共同体同行评议、方法透明度及利益冲突审查的理性校准信任（calibrated trust）。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, pp. 151–153)]]
+> - **证词与权威确证标准（Testimonial Standards）** 评估他人报告与专家证词的细粒度理由，区分盲目盲信与基于科学共同体同行评议、方法透明度及利益冲突审查的理性校准信任（[[Trust Calibration|Calibrated Trust]]）。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, pp. 151–153)]]
 > - **动态情境敏感性与社会协商（Situational Sensitivity & Social Negotiation）** 确证标准随任务情境动态调整，并在课堂话语互动流中由师生共同体持续辩驳协商而成。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 471)]]
 
 > [!logic-map]- 双重视角下确证标准的构成与运作机制
@@ -144,7 +144,7 @@ updated: 2026-09-22
 > 考察确证标准究竟是个体固有的静态心智特质，还是共同体互动中的实践规范。
 
 > [!claim] [[William A. Sandoval|Sandoval, W. A.]] et al.
-> **情境依赖与社会互动建构** 确证标准并非个体跨情境固化的心理特质，而是高度情境化且在社会互动流中动态建构的。同一个体在面对科学实验、历史史料或宗教文本时会主动切换完全不同的确证标准；在科学课堂探究中，什么是可接受的[[Evidence Standards\|证据标准]]并非由教师单向告知，而是通过师生、生生[[Dialogue in Education\|对话]]辩驳逐步析出的集体实践契约。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, pp. 471–472)]]
+> **情境依赖与社会互动建构** 确证标准并非个体跨情境固化的心理特质，而是高度情境化且在社会互动流中动态建构的。同一个体在面对科学实验、历史史料或宗教文本时会主动切换完全不同的确证标准；在科学课堂探究中，什么是可接受的[[Evidence Standards\|证据标准]]并非由教师单向告知，而是通过师生、生生对话辩驳逐步析出的集体实践契约。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, pp. 471–472)]]
 
 ---
 

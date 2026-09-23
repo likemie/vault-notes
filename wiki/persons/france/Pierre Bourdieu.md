@@ -8,7 +8,7 @@ summary: "法国社会学家，场域-习性-资本理论创立者与区分作�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 47
+person_related_count: 45
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -32,10 +32,8 @@ related_concepts:
   - "[[Objectivism]]"
   - "[[Relational Space]]"
   - "[[Reflexivity]]"
-  - "[[Dialogue in Education]]"
   - "[[Epistemological Break]]"
   - "[[Doxa]]"
-  - "[[Growth]]"
   - "[[Interaction Effect]]"
   - "[[Epistemological Vigilance]]"
   - "[[Non-monetary Competition]]"
@@ -76,7 +74,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Pierre Bourdieu
@@ -136,7 +134,7 @@ updated: 2026-09-18
 >     - 《说吧》（*Choses dites*, Minuit, 1987）：系统总结 [(习性)(资本)] + 场域 = 实践 的核心公式。
 >     - 《国家贵族：名校与团体精神》（*La Noblesse d'État*, Minuit, 1989）：分析法国精英大学校与国家官僚机构的同构关系。
 >     - 《艺术的法则》（*Les Règles de l'art*, Seuil, 1992）：以文学史案例详述自主场域的制度化建构过程。
->     - 《反思人类学引论》（*Réponses*, Seuil, 1992）：与 Loïc Wacquant 合作系统厘清理论核心的[[Dialogue in Education\|对话]]录。
+>     - 《反思人类学引论》（*Réponses*, Seuil, 1992）：与 Loïc Wacquant 合作系统厘清理论核心的对话录。
 >   - **关键概念／方法** [[Champ\|场域]]、反思性社会学、[[Epistemological Break\|认识论断裂]]、正统信念（[[Doxa]]）
 >   - **阶段转向** 将反思性机制推至顶点，将学术场域和学者自身的阶层轨迹作为反思分析对象，破除了社会学家的特权旁观者姿态。
 > - **1993–2002 — 公共介入与晚期反思** 面对新自由主义全球化的扩张，从学院分析加速走向公共抗争，以实证材料为底层失语群体代言，并在晚期重回身体化社会学的哲学探讨。
@@ -145,7 +143,7 @@ updated: 2026-09-18
 >     - 《关于电视》（*Sur la télévision*, Liber-Raisons d'agir, 1996）：批判电视媒体对智识生产场域的穿透与扭曲。
 >     - 《帕斯卡尔式的沉思》（*Méditations pascaliennes*, Seuil, 1997）：重审[[Epistemology\|认识论]]，对身体化支配与社会空间进行深度哲学合拢。
 >     - 《男性支配》（*La Domination masculine*, Seuil, 1998）：揭示性别秩序如何被身体化与制度化自然化。
->     - 《自我分析大纲》（*Esquisse pour une auto-analyse*, Raisons d'agir, 2004）：将反思性方法施之于自身[[Growth\|成长]]轨迹的终结之作。
+>     - 《自我分析大纲》（*Esquisse pour une auto-analyse*, Raisons d'agir, 2004）：将反思性方法施之于自身成长轨迹的终结之作。
 >   - **关键概念／方法** 符号支配、公共知识分子、身体化支配
 >   - **阶段转向** 突破了纯学术场域的独立性边界，将社会学确立为防御新自由主义侵害的防御武器，最终以自身轨迹的自剖完成理论合拢。
 
@@ -237,7 +235,7 @@ updated: 2026-09-18
 > - **妮可·克劳德·马蒂厄 (1999)** 从唯物主义女性主义角度批评该书缺乏科学论证的严谨性，认为其多用断言代替论证，在核心材料的处理上存在选择性省略和客观性歪曲。
 
 > [!warning] 未解问题与边界
-> 习性的具身化特性使其在面对急剧变迁、数字媒介和高度碎片化的当代社会时，面临解释力稀释的危险。多重场域下的习性分裂、习性错置如何影响行动者的日常决策，依然是目前批判社会学研究的未尽空间。同时，其高度密集、复句重叠的写作风格以及英美[[Positivism\|实证主义]]流派对批判行政学理论的排斥，也极大地增加了其理论在跨学科[[Dialogue in Education\|对话]]中的变现壁垒。
+> 习性的具身化特性使其在面对急剧变迁、数字媒介和高度碎片化的当代社会时，面临解释力稀释的危险。多重场域下的习性分裂、习性错置如何影响行动者的日常决策，依然是目前批判社会学研究的未尽空间。同时，其高度密集、复句重叠的写作风格以及英美[[Positivism\|实证主义]]流派对批判行政学理论的排斥，也极大地增加了其理论在跨学科对话中的变现壁垒。
 
 ---
 

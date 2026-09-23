@@ -8,7 +8,7 @@ summary: "美国比较教育学者，政策借用与借出政治分析代表人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 36
+person_related_count: 34
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -32,12 +32,10 @@ related_concepts:
   - "[[Comparative History of Comparative Education]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Surplus of Evidence]]"
-  - "[[Growth]]"
   - "[[Hypothesis]]"
   - "[[Methodological Transnationalism]]"
   - "[[Concept Mapping]]"
   - "[[Pre-Transfer Agency]]"
-  - "[[Dialogue in Education]]"
   - "[[Global Education Governing Complex]]"
   - "[[Heterogeneity]]"
   - "[[Relational Space]]"
@@ -66,7 +64,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-06
-updated: 2026-09-12
+updated: 2026-09-22
 ---
 
 # Gita Steiner-Khamsi
@@ -128,7 +126,7 @@ updated: 2026-09-12
 > *Unless we recognize that educational transfer can involve discourses rather than practices, we are unlikely to detect these international movements (Steiner-Khamsi, 2000, p. 181).*
 
 > [!citation-card] [[Surplus of Evidence\|证据过剩]]与政策中介兴起
-> 更多知识并未减少歧义性并促进循证政策制定，反之亦然。当今的信息过载为那些能够选择性吸纳研究、将研究发现转化为证据并为政策所用的机构与个人提供了繁茂[[Growth\|生长]]的土壤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
+> 更多知识并未减少歧义性并促进循证政策制定，反之亦然。当今的信息过载为那些能够选择性吸纳研究、将研究发现转化为证据并为政策所用的机构与个人提供了繁茂生长的土壤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
 >
 > *It would be wrong to assume that more knowledge reduces ambiguity and facilitates evidence-informed policymaking. The opposite applies. Today's information overload constitutes fertile ground for the flourishing of individuals and institutions that selectively draw on research, transform research findings into evidence, and then translate that evidence for policy use.*
 
@@ -147,7 +145,7 @@ updated: 2026-09-12
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **学术[[Dialogue in Education\|对话]]者** Jürgen Schriewer 共同推进基于系统论的[[Policy Borrowing\|教育借用]]外在化（Externalisation）理论对话。
+> - **学术对话者** Jürgen Schriewer 共同推进基于系统论的[[Policy Borrowing\|教育借用]]外在化（Externalisation）理论对话。
 > - **理论延伸者** [[Jeremy Rappleye]] 在 2006 年[[Concept Mapping\|概念地图]]中将施泰纳-卡姆西的能动者分析整合为[[Pre-Transfer Agency\|前转移能动性]]模型。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, p. 224)]]
 > - **合作主编** Florian Waldow 共同主编《世界教育年鉴 2012》，推进比较政策借用分析工具标准化。
 > - **跨国治理合作者** [[Kerstin Martens]] 与 [[Christian Ydesen]] 共同开拓[[Governing by Numbers\|数字治理]] 2.0 与[[Global Education Governing Complex\|全球教育治理复合体]]研究。

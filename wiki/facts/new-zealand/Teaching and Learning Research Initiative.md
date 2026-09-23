@@ -10,7 +10,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 19
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -25,7 +25,6 @@ tags:
 related_concepts:
   - "[[Knowledge Co-production]]"
   - "[[Research Utilization]]"
-  - "[[Growth]]"
   - "[[Academic Achievement]]"
   - "[[Teacher-as-Researcher]]"
   - "[[Paradigm]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-15
+updated: 2026-09-22
 ---
 
 # Teaching and Learning Research Initiative
@@ -130,7 +129,7 @@ updated: 2026-09-15
 ## 争议、局限与经验教训
 
 > [!warning] 局限与方法学反思
-> - **成效测度的主观自陈偏倚** 项目影响力评估数据主要依赖参与者的主观自我陈述（Self-reported survey and interview data），缺乏严格的对照组设计以及针对学[[Growth\|生长]]期[[Academic Achievement\|学业成就]]的客观因果追踪。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 109)]]
+> - **成效测度的主观自陈偏倚** 项目影响力评估数据主要依赖参与者的主观自我陈述（Self-reported survey and interview data），缺乏严格的对照组设计以及针对学生长期[[Academic Achievement\|学业成就]]的客观因果追踪。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 109)]]
 > - **资金总体规模与系统辐射瓶颈** 每年仅约 150 万新西兰元的总资助池（2021 年仅资助 5 个课题），相对于全国各学段庞大的学校与教师体量而言覆盖面仍然偏小，优质经验向全系统常规学校扩散的辐射机制仍面临可扩展性挑战。
 
 > [!lessons] 机制设计启示

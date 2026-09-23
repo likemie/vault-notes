@@ -5,7 +5,7 @@ aliases:
 summary: "把民族国家视为现代社会自然单位的方法论立场，容易遮蔽全球联系、跨尺度过程和空间关系的复杂性"
 type: concept
 domain: "comparative-education"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Transfer Space]]"
   - "[[Global Education Governing Complex]]"
   - "[[Policy Brokerage]]"
+  - "[[Open-Mindedness]]"
   - "[[Creativity]]"
   - "[[Variable]]"
   - "[[Falsification]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-12
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Methodological Nationalism
@@ -209,7 +210,7 @@ updated: 2026-09-17
 > > [!axis] 空间封闭性与[[Multiplicity\|多重性]]的对立
 > > 批判方法论民族主义对领土空间的本质化倾向，主张空间应是开放和关系性的。
 > > 
-> > - **Massey（2005）** 方法论民族主义对领土空间的本质化，本质上是试图“驯服”空间内在的开放性和多重性，消解其颠覆性与[[Creativity\|创造性]]潜力。[[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 5–6]]
+> > - **Massey（2005）** 方法论民族主义对领土空间的本质化，本质上是试图“驯服”空间内在的[[Open-Mindedness|开放性]]和多重性，消解其颠覆性与[[Creativity\|创造性]]潜力。[[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 5–6]]
 
 > [!critique] 外部批评
 > - **全球尺度的不可化约性** 在高等教育中，仅引入“国家+全球”双层分析仍不足以捕捉空间的多重性。全球科学（没有规范中心，由期刊、计量网络构成）与国家教育（规范中心为国家）等不同尺度是共存且无法相互化约的。[[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 8–9]]

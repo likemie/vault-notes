@@ -9,7 +9,7 @@ summary: "美国心理学家，人本主义心理学主要奠基人，曾任美�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,12 +26,10 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Positivism]]"
   - "[[Epistemology]]"
-  - "[[Dialogue in Education]]"
   - "[[Creativity]]"
   - "[[Hypothesis]]"
   - "[[Problem Finding]]"
   - "[[Scientific Method]]"
-  - "[[Growth]]"
   - "[[Reflexivity]]"
   - "[[Falsification]]"
   - "[[Operationalization]]"
@@ -51,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Abraham Maslow
@@ -74,7 +72,7 @@ updated: 2026-09-17
 > - **1937–1951** 任教于布鲁克林学院，深受格式塔心理学与文化人类学启发，转向对人类潜能与健康人格的积极心理探究。
 > - **1951–1969** 担任布兰代斯大学（Brandeis University）心理学系主任与讲座教授，成为人本主义心理学运动的核心理论家。
 > - **1954** 出版《动机与人格》（*Motivation and Personality*），系统阐发科学的多元功能（Box 1.1）与需求层次理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 16)]]
-> - **1966–1968** 出版《科学心理学》（*The Psychology of Science*），获选担任美国心理学会（[[APA Style\|APA]]）主席，推动人本主义与科学哲学深度[[Dialogue in Education\|对话]]。
+> - **1966–1968** 出版《科学心理学》（*The Psychology of Science*），获选担任美国心理学会（[[APA Style\|APA]]）主席，推动人本主义与科学哲学深度对话。
 > - **1970** 因心脏病突发在加州门洛帕克逝世。
 
 ---
@@ -105,7 +103,7 @@ updated: 2026-09-17
 
 > [!influence-path] 影响路径
 > - **科学哲学路径** 有力瓦解了逻辑[[Positivism\|实证主义]]对“[[Scientific Method\|科学方法]]”的狭隘垄断，为科学探究注入了[[Problem Finding\|问题发现]]（Problem Finding）、[[Creativity\|创造性]]假说与价值关怀的广阔视野。
-> - **教育研究路径** 深刻启发了教育研究者重新审视教育探究的目的：教育研究不仅是测量学生分数的手段，更是促进全人[[Growth\|成长]]、理解人性尊严与释放创造潜能的人本实践。
+> - **教育研究路径** 深刻启发了教育研究者重新审视教育探究的目的：教育研究不仅是测量学生分数的手段，更是促进全人成长、理解人性尊严与释放创造潜能的人本实践。
 > - **心理学[[Paradigm\|范式]]路径** 开辟了第三势力心理学，直接推动积极心理学与人本主义教育学的蓬勃兴起。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引

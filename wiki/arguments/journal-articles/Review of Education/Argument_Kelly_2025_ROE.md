@@ -39,7 +39,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Epistemological Break]]"
-  - "[[Growth]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Refined Mastery]]"
   - "[[Dialogue in Education]]"
@@ -92,7 +91,7 @@ title: "Argument_Kelly_2025_ROE"
 argument_key: "Argument_Kelly_2025_ROE"
 argument_display_title: "Comparing school leaders' experiences of research use in England, Scotland and Germany"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -132,7 +131,7 @@ issuing_organization: ""
 > | **医学化与学习科学模型批判**<br>Furlong & Whitty (2017); Biesta (2007) | 剖析以[[Randomised Controlled Trials\|随机对照试验（Randomised Controlled Trial, RCT）]]和[[Systematic Review\|系统综述]]为代表的新教育科学还原论[[Hypothesis\|假设]]，指出将医学临床[[Paradigm\|范式]]生硬套用于充满价值冲突与伦理考量的教育[[Champ\|场域]]所必然带来的水土不服。（pp. 7, 12） |
 
 > [!warrant]- 理论如何支撑论证
-> 传统系统模型（如英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）的五步实施指南）将学校领导者与教师设想为标准信息传送带上的理性执行者，假定只需消除沟通障碍与认知盲区即可实现循证改进。然而，专长社会学（Collins & Evans, 2007）揭示了外部[[Knowledge Production\|知识生产]]者所秉持的技术客观性与一线从业人员所依赖的受训判断力之间存在先天的[[Epistemological Break\|认识论断裂]]。这一断裂在不同的教育治理架构下被显著放大：在高利害市场化体制下，交互专长被商业化包装为免责护身符，导致表演性依从；而在低利害与专业自主体制下，贡献专长方能获得[[Growth\|生长]]土壤，使证据作为反思探究的起点而非终点。（pp. 6–8, 21–23）
+> 传统系统模型（如英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）的五步实施指南）将学校领导者与教师设想为标准信息传送带上的理性执行者，假定只需消除沟通障碍与认知盲区即可实现循证改进。然而，专长社会学（Collins & Evans, 2007）揭示了外部[[Knowledge Production\|知识生产]]者所秉持的技术客观性与一线从业人员所依赖的受训判断力之间存在先天的[[Epistemological Break\|认识论断裂]]。这一断裂在不同的教育治理架构下被显著放大：在高利害市场化体制下，交互专长被商业化包装为免责护身符，导致表演性依从；而在低利害与专业自主体制下，贡献专长方能获得生长土壤，使证据作为反思探究的起点而非终点。（pp. 6–8, 21–23）
 
 ---
 

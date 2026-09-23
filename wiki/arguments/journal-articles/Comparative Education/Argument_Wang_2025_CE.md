@@ -35,9 +35,9 @@ related_concepts:
   - "[[Decodification]]"
   - "[[Critical Thinking]]"
   - "[[Policy Borrowing]]"
-  - "[[Dialogue in Education]]"
   - "[[Selective Affinity]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Dialogue in Education]]"
   - "[[Document]]"
   - "[[Rote Learning]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -97,7 +97,7 @@ citation_aliases:
 > [!concept-lens] 阅读透镜
 > - **对象与情境** 华北某区域（济南高新区资助）参与中英跨国教师专业发展项目的 4 所典型案例学校（2 所城市学校、2 所农村学校），重点研究 4 位校长与 9 位骨干教师在项目实施第一年内（经历 4 轮研讨会与校本教研）的理念调适、行动决策与制度重构(pp. 591–593)。
 > - **张力** 高度咬合闭环的[[Test-Based Accountability\|考试问责]]系统（外部行政考核、高考道德正当性、家长升学焦虑、教师主导讲授惯性）与要素严重失调的 [[Learner-Centred Education\|LCE]] 改革系统（孤立引入的英国教学经验工具，缺乏配套评价规则、领导风险担保与共同体支持）之间的系统性矛盾与重构(pp. 593–598)。
-> - **理论贡献** 运用[[Third Generation Activity Theory\|第三代活动理论]]（3GAT）打破考试问责与教学改革的绝对二分法，揭示了“共享目标驱动的全系统扩展性改造机制”，指明了跨国[[Policy Borrowing\|政策借用]]在中国文化语境下与儒家启发式[[Dialogue in Education\|对话]]传统产生[[Selective Affinity\|选择性亲和]]（Selective Affinity）、被降维再情境化为应试赋能工具的动态转译路径(pp. 600–603)。
+> - **理论贡献** 运用[[Third Generation Activity Theory\|第三代活动理论]]（3GAT）打破考试问责与教学改革的绝对二分法，揭示了“共享目标驱动的全系统扩展性改造机制”，指明了跨国[[Policy Borrowing\|政策借用]]在中国文化语境下与儒家启发式对话传统产生[[Selective Affinity\|选择性亲和]]（Selective Affinity）、被降维再情境化为应试赋能工具的动态转译路径(pp. 600–603)。
 
 ---
 
@@ -119,7 +119,7 @@ citation_aliases:
 > | **劳动分工（Division of Labor）** | 任务分配、权力结构与风险担当 | 自上而下：教育局/校长下达指标，教师单打独斗提分 | 倡导“共享领导”，但教师缺乏校长制度性背书(p. 597) |
 
 > [!warrant]- 理论如何支撑论证
-> 本研究将[[Test-Based Accountability\|考试问责]]与[[Learner-Centred Education\|LCE]] 改革视为学校同时嵌入的两个独立且相互作用的活动系统。活动理论的六要素拆解揭示：单纯引入外部中介工具（如英国教学案例）之所以在初始阶段失效，是因为它与既有考试问责系统中的规则（分数考核）、共同体（家长施压）和分工（自上而下指令）产生了深刻的二次矛盾（Secondary Contradictions）。而 Engeström（2001）的扩展性改造理论则解释了当学校领袖成功建构出“双系统共享客体”时，如何能带动规则（评价量表重构/额外加分）、工具（[[Dialogue in Education\|对话]]教学[[Going Native\|本土化]]）和分工（校长风险兜底）的全系统重组，从而为跨国[[Policy Borrowing\|政策借用]]中的动态[[Transfer Translation Transformation\|转译]]提供了社会文化历史视角的机制解释(pp. 590–591, 600)。
+> 本研究将[[Test-Based Accountability\|考试问责]]与[[Learner-Centred Education\|LCE]] 改革视为学校同时嵌入的两个独立且相互作用的活动系统。活动理论的六要素拆解揭示：单纯引入外部中介工具（如英国教学案例）之所以在初始阶段失效，是因为它与既有考试问责系统中的规则（分数考核）、共同体（家长施压）和分工（自上而下指令）产生了深刻的二次矛盾（Secondary Contradictions）。而 Engeström（2001）的扩展性改造理论则解释了当学校领袖成功建构出“双系统共享客体”时，如何能带动规则（评价量表重构/额外加分）、工具（[[Dialogue in Education|对话教学]][[Going Native\|本土化]]）和分工（校长风险兜底）的全系统重组，从而为跨国[[Policy Borrowing\|政策借用]]中的动态[[Transfer Translation Transformation\|转译]]提供了社会文化历史视角的机制解释(pp. 590–591, 600)。
 
 ---
 
@@ -219,11 +219,11 @@ citation_aliases:
 > - **学校背景与考情定位**
 >   该校曾实现区域考试前 **20%** 优生率 **10%** 的显著增长，学校目标是延续这一上升势头，实现跨越式突破(p. 592, Table 1)。
 > - **共享目标的建构**
->   校长敏锐捕捉到高考与中考命题趋势的变化：标准化考试越来越强调分析能力、综合应用与[[Critical Thinking\|批判性思维]]，传统的[[Rote Learning\|死记硬背]]已无法帮助学生冲刺高分段。学校将 LCE 的培养批判性思维与深度[[Dialogue in Education\|对话]]同冲击前 20% 优生率的应试客体直接对接，建立了“实施 LCE = 攻克高阶考题 = 提升顶尖考分”的共享目标(pp. 598–599)。
+>   校长敏锐捕捉到高考与中考命题趋势的变化：标准化考试越来越强调分析能力、综合应用与[[Critical Thinking\|批判性思维]]，传统的[[Rote Learning\|死记硬背]]已无法帮助学生冲刺高分段。学校将 LCE 的培养批判性思维与深度对话同冲击前 20% 优生率的应试客体直接对接，建立了“实施 LCE = 攻克高阶考题 = 提升顶尖考分”的共享目标(pp. 598–599)。
 > - **活动系统要素协同重构**
 >   - **规则重构（Rules）** 出台标准化的同行评课方案（standardised class observation scheme），将是否组织有效小组讨论、师生互动频率与学生课堂反应列为刚性评课指标，不再单看卷面分数(p. 601)。
 >   - **劳动分工（Division of Labor）** 校长强势主导，在全校大会上对比新旧教法优劣，为改革背书；同时赋予骨干教师充分的课堂试验自主权，形成自上而下与自下而上的合力(pp. 597, 599)。
->   - **工具重构（Mediating Tools）** 将英国教学经验转化为适合本校学科冲刺的对话教学工具(p. 599)。
+>   - **工具重构（Mediating Tools）** 将英国教学经验转化为适合本校学科冲刺的[[Dialogue in Education|对话教学]]工具(p. 599)。
 
 > [!case] 扩展性改造案例二：农村二校（Rural School 2）的 45 分钟效率突围与绩效额外加分
 > - **学校背景与考情定位**
@@ -281,7 +281,7 @@ citation_aliases:
 > 1. **[[Test-Based Accountability\|考试问责]]与[[Learner-Centred Education\|LCE]] 可并行协同** 在当前升学考试越来越强调[[Critical Thinking\|批判性思维]]与综合分析能力的背景下，追求考试优异与实施教学改革可以并行不悖。以学生为中心教育能够被成功[[Transfer Translation Transformation\|转译]]为帮助学生冲击高分段的提分工具(pp. 598–601)。
 > 2. **考试问责闭环咬合是改革卡顿的根源** 考试问责系统内部要素高度协调。仅引入外部教学理念，而缺乏考评规则、领导分工与共同体信任的协同重构，改革极易在临考前半途折返(pp. 593–598)。
 > 3. **谋求突破的渴望是触发扩展性改造的动力** 追求维持现状的名校（城市一校）因防御心理缺乏打破系统平衡的动力；相反，意图实现突破或垫底翻盘的学校（城市二校、农村二校）更倾向于重构要素，走向扩展性学习(p. 600)。
-> 4. **LCE [[Going Native\|本土化]]伴随着文化[[Selective Affinity\|选择性亲和]]与结构硬边界** 中国语境下的教学改革被转译为以认知与效率为核心的实用工具，与儒家[[Dialogue in Education\|对话]]教学传统产生亲和，但也彻底排斥了西方教学理念中有关民主公民和学生共决课程的权力共享要求(pp. 601–603)。
+> 4. **LCE [[Going Native\|本土化]]伴随着文化[[Selective Affinity\|选择性亲和]]与结构硬边界** 中国语境下的教学改革被转译为以认知与效率为核心的实用工具，与儒家[[Dialogue in Education|对话教学]]传统产生亲和，但也彻底排斥了西方教学理念中有关民主公民和学生共决课程的权力共享要求(pp. 601–603)。
 
 > [!stat-cards]- 核心数据
 > - **15** 所学校参与了地方教育局与英国大学（剑桥与谢菲尔德）合作的跨国教师专业发展项目(pp. 591–592)。
@@ -306,9 +306,9 @@ citation_aliases:
 > *“We know the benefits of [[Learner-Centred Education\|LCE]], but pedagogical changes should not lower students’ examination results. We can take three years to change our pedagogies, but our students cannot wait three years to take the admission tests. No students should be sacrificed for changes.” (Urban 1-Principal, p. 596)*
 
 > [!citation-card]- [[Lev Vygotsky\|维果茨基]]与[[Confucius\|孔子]]的共振
-> 提高学生的考试成绩与 LCE 并不冲突。它们应该是互惠互利的。此外，维果茨基的见解呼应了孔子关于[[Dialogue in Education\|对话]]式教学有助于深度思考的信念。（p. 596）
+> 提高学生的考试成绩与 LCE 并不冲突。它们应该是互惠互利的。此外，维果茨基的见解呼应了孔子关于对话式教学有助于深度思考的信念。（p. 596）
 >
-> *“Enhancing students’ examination results does not conflict with LCE. They should be mutually beneficial. Moreover, Vygotsky’s insights echo Confucius’ beliefs that dialogic teaching contributes to deep thinking.” (Rural 2-Principal, p. 596)*
+> *“Enhancing students’ examination results does not conflict with LCE. They should be mutually beneficial. Moreover, Vygotsky’s insights echo Confucius’ beliefs that [[Dialogue in Education|dialogic teaching]] contributes to deep thinking.” (Rural 2-Principal, p. 596)*
 
 > [!citation-card]- 规则与评价的约束
 > 以学习者为中心教学的构建应该得到奖励。我并不是说如果不被推着去做我们就不去尝试。然而，由于考试压力，不作任何改变是更容易的。（p. 598）

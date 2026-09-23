@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 24
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Co-affiliation]]"
   - "[[Performance Indicators]]"
-  - "[[Growth]]"
   - "[[Epistemology]]"
   - "[[Teaching Assistant]]"
   - "[[Social Science as Legitimation Alibi]]"
@@ -98,7 +97,7 @@ updated: 2026-09-22
 > - **全职投资与投后管理团队** 团队架构完全仿照风险投资机构，设立投资总监（Investment Directors），负责对受资助机构进行财务尽职调查、关键[[Performance Indicators\|绩效指标]]（KPI）监控与战略方向纠偏。
 
 > [!pathways]- 业务运行与“投资组合”管理机制
-> - **严格的商业尽职调查** 采用严苛的财务分析与管理能力评估，从全英数千家非营利教育机构中筛选出极具扩张潜力的“高[[Growth\|成长]]组合机构”（Portfolio Partners）。
+> - **严格的商业尽职调查** 采用严苛的财务分析与管理能力评估，从全英数千家非营利教育机构中筛选出极具扩张潜力的“高成长组合机构”（Portfolio Partners）。
 > - **资金＋管理重度赋能** 不仅提供持续 3 至 5 年的非限定性核心运营资金，更派出专业投资总监进入被投机构理事会，并组织贝恩、麦肯锡等前顾问提供无偿专业咨询。
 > - **因果影响力量化审计** 强制要求被投机构建立与[[National Pupil Database\|国家学生数据库]]（NPD）或第三方因果评估接轨的追踪量表，达不到预定学业与就业改进指标的机构将面临资金熔断。
 

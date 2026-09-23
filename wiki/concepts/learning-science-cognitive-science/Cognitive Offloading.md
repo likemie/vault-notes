@@ -10,7 +10,7 @@ aliases:
 summary: "使用外部物理或数字工具执行原本由内部心智承担的认知加工，兼具释放工作记忆以赋能高阶探究与诱发捷径学习、导致思维惰性及元认知外包的深层双刃剑效应。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 51
+related_count: 50
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Evaluativist]]"
   - "[[Self-Efficacy]]"
   - "[[AI Agent in Education]]"
-  - "[[Dialogue in Education]]"
   - "[[Justificatory Standards]]"
   - "[[Epistemological Vigilance]]"
   - "[[Homework]]"
@@ -128,7 +127,7 @@ updated: 2026-09-22
 ## 核心要素
 
 > [!feature] 认知卸载的核心调控要素
-> - **物理与智能卸载介质（Offloading Substrates）** 从传统的纸笔备忘、计算器到具备多轮[[Dialogue in Education\|对话]]与自主推演能力的生成式大语言模型，介质的交互智能程度决定了被卸载任务的认知层级与潜在风险。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3)]]
+> - **物理与智能卸载介质（Offloading Substrates）** 从传统的纸笔备忘、计算器到具备多轮对话与自主推演能力的生成式大语言模型，介质的交互智能程度决定了被卸载任务的认知层级与潜在风险。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3)]]
 > - **[[Task Structure\|任务结构]]与教学情境（Task Structuring）** 任务是否设置了显性探究阶段、反思提示与评估量规，决定认知卸载是转化为有效的高阶学习还是浅层的应付性复制。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 9–10)]]
 > - **[[Self-Regulated Learning\|自主调节学习]]能力（SRL As Cognitive Neutralizer）** 学习者的目标追踪与策略调控构成抵御有害外包的最强内生防线，直接决定智能工具是被用作“思维磨刀石”还是“心智委托箱”。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 15–16)]]
 > - **[[Epistemic Stances\|认识立场]]的认知分流（Epistemic Stances as Cognitive Offloading Regulators）** 学习者对知识本质与[[Justificatory Standards\|确证标准]]的信念直接决定认知卸载的性质：绝对主义与相对主义倾向于破坏性外包与表面顺从，而评价主义能够借助[[Chain-of-Thought Prompting\|思维链]]等提示策略实现建设性卸载。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 359–361)]]
@@ -159,7 +158,7 @@ updated: 2026-09-22
 > 探讨在缺乏明确教学指引与反思要求的情境中，学生将复杂生成与推演任务全盘移交人工智能所导致的认知退化机制。
 
 > [!claim] [[Argument_Li_2026_CEAI\|Li et al. (2026)]]
-> **非结构化卸载的批判性侵蚀** 在高等教育[[Generative Artificial Intelligence\|生成式人工智能]]整合研究中，当 ChatGPT 被置于缺乏结构化引导的开放任务中时，学生倾向于将其作为便捷的内容生成器而非[[Dialogue in Education\|对话]]伙伴。认知卸载直接导致学生跳过事实核查、论证重构与深层概念审视，引发“心智惰性”与“被动顺从”，在实证研究中集中表现为批判性思维维度的显著下降与学术声音的丧失。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 7–10)]]
+> **非结构化卸载的批判性侵蚀** 在高等教育[[Generative Artificial Intelligence\|生成式人工智能]]整合研究中，当 ChatGPT 被置于缺乏结构化引导的开放任务中时，学生倾向于将其作为便捷的内容生成器而非对话伙伴。认知卸载直接导致学生跳过事实核查、论证重构与深层概念审视，引发“心智惰性”与“被动顺从”，在实证研究中集中表现为批判性思维维度的显著下降与学术声音的丧失。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 7–10)]]
 
 > [!claim] [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]]
 > **知识外包与捷径学习对深度思维的阻断** 高等教育阶段的非结构化环境使大学生倾向于将生成式 AI 降格为低阶代写、翻译与代码套用工具。学生在遇到复杂难题时直接复制题目索取完整答案，完全跳过算法架构设计与中间推理环节。这种“捷径式学习”虽然换取了即时的[[Homework\|作业]]完成效率，却切断了自主排错的认知链条，导致批判性分析与[[Problem Solving\|问题解决能力]]的实质性退化。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 14–15)]]

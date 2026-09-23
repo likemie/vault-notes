@@ -8,7 +8,7 @@ summary: "质性数据分析中将碎片化编码与离散主题重新缝合为�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 20
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Causality]]"
   - "[[Saturation]]"
+  - "[[Meaningful Human Control]]"
   - "[[Generative Artificial Intelligence]]"
 related_theories: []
 related_methods:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Story Line
@@ -195,7 +196,7 @@ updated: 2026-09-17
 
 > [!feature] 现代计算工具支持故事线建构的两大进路
 > - **传统 [[Qualitative Computer Software\|CAQDAS]] 的网络建模与故事线备忘录** 在 NVivo、MAXQDA 与 ATLAS.ti 等软件中，故事线主要依托网络模型视图（Network Views）与分析备忘录（[[Memos]]）实现。分析过程将[[Axial Coding\|主轴编码]]阶段生成的因果范畴置入画布，直观呈现节点流动关系，并通过理论备忘录记录故事线的演进轨迹。
-> - **大语言模型智能辅助与人在回路原则** [[Generative Artificial Intelligence\|生成式人工智能]]具备强大的长文本综合与因果脉络提取能力，能够快速协助研究者理清多份访谈的时间顺序、识别潜在转折点并拟定初步故事线雏形；但大模型无法替代人类研究者的实地生活体验与理论敏感度，故事线的最终提炼与真实性核验必须严格遵循人在回路（Human-in-the-Loop）原则。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
+> - **大语言模型智能辅助与[[Meaningful Human Control|人在回路]]原则** [[Generative Artificial Intelligence\|生成式人工智能]]具备强大的长文本综合与因果脉络提取能力，能够快速协助研究者理清多份访谈的时间顺序、识别潜在转折点并拟定初步故事线雏形；但大模型无法替代人类研究者的实地生活体验与理论敏感度，故事线的最终提炼与真实性核验必须严格遵循人在回路（Human-in-the-Loop）原则。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
 
 ---
 

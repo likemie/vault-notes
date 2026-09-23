@@ -8,7 +8,7 @@ summary: "瑞士教育历史与课程学学者，以课程历史的宗教与政�
 type: person
 nationality: switzerland
 person_region: "switzerland"
-person_related_count: 15
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[International Education]]"
-  - "[[Dialogue in Education]]"
   - "[[Realism in International Relations]]"
   - "[[Educated Identity]]"
 related_theories:
@@ -44,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-09-11
+updated: 2026-09-22
 ---
 
 # Daniel Tröhler
@@ -85,7 +84,7 @@ updated: 2026-09-11
 
 > [!person-network] 关系网络
 > - **学术前人 / 纪念对象** [[C. Arnold Anderson]] — 探讨其 1958 年创立的[[Comparative Education Center at Chicago 1958\|芝加哥大学比较教育中心]]如何作为冷战地缘霸权与教育经济学扩散的制度载体。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 423)]]
-> - **合作者 / [[Dialogue in Education\|对话]]者** [[Eleftherios Klerides]] — 共同在[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE）网络中展开关于历史[[Realism in International Relations\|现实主义]]和[[Educated Identity\|受教育身份]]的学术探讨。
+> - **合作者 / 对话者** [[Eleftherios Klerides]] — 共同在[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE）网络中展开关于历史[[Realism in International Relations\|现实主义]]和[[Educated Identity\|受教育身份]]的学术探讨。
 
 ---
 

@@ -9,10 +9,10 @@ aliases:
 summary: "由 George Siemens 与 Stephen Downes 提出的数字时代学习理论，认为学习是连接专业节点或信息源的网络构建过程，知识分布于人际与非人类技术网络的动态连接之中"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 24
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 23
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/learning-science
   - field/educational-technology
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Flow]]"
   - "[[Externalization]]"
   - "[[Ontology]]"
-  - "[[Dialogue in Education]]"
   - "[[Creativity]]"
   - "[[AI Literacy]]"
   - "[[Epistemological Vigilance]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Connectivism
@@ -93,7 +92,7 @@ updated: 2026-09-17
 > [!proposition-chain] 核心命题一｜知识分布于人际与非人类技术节点的网络化连接之中
 > - **前提一** 数字技术与大语言模型的崛起使知识的存储、处理与生成[[Externalization\|外化]]于人类肉身大脑。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 3)]]
 > - **前提二** 人类个体无法在有限时间内掌握全部专业领域知识，必须依赖外部信息网络的动态中继。
-> - **推导** 知识的[[Ontology\|本体论]]状态转变为网络分布式表征，学习的重心从记忆固定事实转移到与高价值智能节点（如 ChatGPT）建立有效[[Dialogue in Education\|对话]]连接。
+> - **推导** 知识的[[Ontology\|本体论]]状态转变为网络分布式表征，学习的重心从记忆固定事实转移到与高价值智能节点（如 ChatGPT）建立有效对话连接。
 
 > [!proposition-chain] 核心命题二｜高阶学习的成效取决于跨情境连接重组与深层模式识别
 > - **前提一** [[Generative Artificial Intelligence\|生成式人工智能]]能够快速检索并提供海量多领域的离散概念与初步观点。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 6–8)]]
@@ -123,7 +122,7 @@ updated: 2026-09-17
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 知识由不断变化、自组织的节点网络构成；现实具有复杂性与动态流动性。
 > - **[[Epistemology\|认识论]]** 理解源于在不同网络概念间建立连接的能力；决策本身就是依据动态信息流调整行动的学习过程。
-> - **方法含义** 倡导基于[[Network Analysis\|网络分析]]、[[Learning Analytics\|学习分析]]技术、数字化追踪与人机[[Dialogue in Education\|对话]]日志的实证研究。
+> - **方法含义** 倡导基于[[Network Analysis\|网络分析]]、[[Learning Analytics\|学习分析]]技术、数字化追踪与人机对话日志的实证研究。
 > - **不能直接推出的东西** 不能认为只要接入网络或使用了智能工具就自动完成了高质量学习；缺乏批判性反思的连接只会导致信息超载与认知迷航。
 
 > [!theory-use] 如何用于研究

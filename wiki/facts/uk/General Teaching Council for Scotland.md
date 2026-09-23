@@ -10,7 +10,7 @@ subtype: organization
 region: "uk"
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Initial Teacher Training]]"
   - "[[Document]]"
   - "[[School Leadership]]"
-  - "[[Dialogue in Education]]"
   - "[[Literature Search]]"
   - "[[Contributory Expertise]]"
   - "[[STEM Education]]"
@@ -93,7 +92,7 @@ updated: 2026-09-22
 
 > [!finding-cards] 核心业务矩阵与旗舰产出
 > - **《教师专业标准》（GTCS Professional Standards）** 涵盖《临时注册标准》、《完全注册标准》、《生涯专业学习标准》以及《中层领导与[[School Leadership\|学校领导]]标准》，将“专业价值与个人承诺”、“专业知识与理解”和“专业技能与实践”深度贯通。
-> - **专业更新体系（Professional Update）** 推动教师持续反思与校本教研的制度化机制，强调通过专业[[Dialogue in Education\|对话]]与[[Practitioner Enquiry\|实践者探究]]维持卓越执教能力。
+> - **专业更新体系（Professional Update）** 推动教师持续反思与校本教研的制度化机制，强调通过专业对话与[[Practitioner Enquiry\|实践者探究]]维持卓越执教能力。
 > - **学术研究数据库支持（Research & Education Source）** 为全苏格兰数万名注册教师提供一站式学术[[Literature Search\|文献检索]]平台与实践者探究指南资源。
 > - **《教学苏格兰》（Teaching Scotland）旗舰期刊** 定期出版官方专业刊物，推广一线教师的实践者探究成果、前沿教育理论探讨与政策解读。
 

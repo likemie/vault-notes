@@ -8,7 +8,7 @@ summary: "质性观察中用于记录描述性笔记和反思性笔记的单页�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 9
+method_related_count: 8
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -17,7 +17,6 @@ tags:
   - research-methodology
 related_concepts:
   - "[[Reflexivity]]"
-  - "[[Dialogue in Education]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -33,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-09-22
 ---
 
 # Observation Protocol
@@ -53,7 +52,7 @@ updated: 2026-06-01
 
 **描述性笔记（Descriptive Notes）** 记录在左侧，包括：
 - 参与者的画像（portraits of the participants）
-- [[Dialogue in Education|对话]]的重构（reconstruction of dialogue）
+- 对话的重构（reconstruction of dialogue）
 - 物理环境的描述（description of the physical setting）
 - 特定事件或活动的记录（[[Accounts]] of particular events or activities）
 

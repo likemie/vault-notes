@@ -5,7 +5,7 @@ aliases:
 summary: "学生向人际互动、课外活动、组织参与和职业探索投入时间精力的社会性投入维度。"
 type: concept
 domain: "higher-education"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Hypothesis]]"
-  - "[[Growth]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-08-20
+updated: 2026-09-22
 ---
 
 # Social Engagement
@@ -119,7 +118,7 @@ updated: 2026-08-20
 
 > [!warning]
 > - **"中立过程"[[Hypothesis\|假设]]的延续** 与社会性投入相关的概念——从 Tinto 的社交融入到 Kuh 的社会性投入——均将投入默认为由学生自主决定的中立过程。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]的经验材料表明，弱势学生的"不投入"并非个人选择，而是文化语码不适配（大成的"语言包"比喻）和屡次失败后的回避（冰倩的"弃疗"）共同导致的——结构性约束伪装成了个人能力问题
-> - Brown 的[[Employability\|就业力]]框架虽有洞察力，但将社会性投入完全工具化为就业筹码，可能忽视了社交融入对个人[[Growth\|成长]]和意义建构的非工具性价值
+> - Brown 的[[Employability\|就业力]]框架虽有洞察力，但将社会性投入完全工具化为就业筹码，可能忽视了社交融入对个人成长和意义建构的非工具性价值
 
 ---
 

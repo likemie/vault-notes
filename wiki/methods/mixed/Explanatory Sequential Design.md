@@ -8,7 +8,7 @@ summary: "先收集量化数据再以质性后续数据深入解释量化结果�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 26
+method_related_count: 25
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -16,7 +16,6 @@ tags:
   - method/mixed-methods
 related_concepts:
   - "[[Variable]]"
-  - "[[Dialogue in Education]]"
   - "[[Postpositivism]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Positivism]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Explanatory Sequential Design
@@ -70,7 +69,7 @@ updated: 2026-09-17
 该设计的核心逻辑是**先看什么，再问为什么**。量化阶段揭示现象的统计模式和[[Variable|变量]]关系，质性阶段则深入参与者视角，解释这些模式背后的意义、机制与过程。其整合洞见体现为：
 - **深度解释** 对统计关系中的为什么和如何发生提供质性说明。
 - **后续跟进** 对意外、反常或显著的群体差异进行针对性探索。
-- **机制阐述** 在量化模式与质性解释之间建立[[Dialogue in Education|对话]]，而非仅仅是数据的简单叠加。
+- **机制阐述** 在量化模式与质性解释之间建立对话，而非仅仅是数据的简单叠加。
 
 ---
 

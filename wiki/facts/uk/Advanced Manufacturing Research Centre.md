@@ -12,7 +12,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -23,7 +23,6 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[Research Scope]]"
-  - "[[Growth]]"
   - "[[Precompetitive Research]]"
   - "[[Foreground IP]]"
   - "[[Product-Specific Research]]"
@@ -43,7 +42,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-08-20
+updated: 2026-09-22
 ---
 ## 背景
 
@@ -63,7 +62,7 @@ updated: 2026-08-20
 
 **2001 年** AMRC with Boeing 正式启动，波音是唯一创始成员。启动阶段的关键动作有三个。第一，将波音的品牌纳入联合体名称（"with Boeing"），并在名片、标牌、信笺和团队服装上使用波音标志。第二，利用谢菲尔德大学已被证明的硬金属加工专长和波音的多年研究承诺，成功申请到英国政府的大额拨款。第三，建立第一栋 10,000 平方英尺的大楼，配备最先进的加工设备，并雇用小型全职研究团队——不依赖按学术日历工作的教授和研究生，确保联合体能够以"产业的速度"运作（p.114）。
 
-**2001–2011 年（[[Growth|成长]]阶段）** 初始成功后，AMRC 迅速招募了新的产业成员，每个成员带来多年的研究资助承诺。波音的品牌背书在早期增长中发挥了杠杆作用。潜在成员看到波音已经在联合体中投入了多年承诺，降低了他们加入的尽调成本和信任门槛。AMRC 在随后十年中持续增长扩张（p.114）。
+**2001–2011 年（成长阶段）** 初始成功后，AMRC 迅速招募了新的产业成员，每个成员带来多年的研究资助承诺。波音的品牌背书在早期增长中发挥了杠杆作用。潜在成员看到波音已经在联合体中投入了多年承诺，降低了他们加入的尽调成本和信任门槛。AMRC 在随后十年中持续增长扩张（p.114）。
 
 **约 2011 年（十年节点）** 主要产业伙伴开始在 AMRC 园区建立制造工厂，联合体从纯粹的研究合作演变为具有经济集聚效应的产业社区。为满足新老企业对熟练劳动力的需求，AMRC 建立了学徒培训中心（pp.115–116）。
 

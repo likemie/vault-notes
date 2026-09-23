@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Scientific Literacy]]"
   - "[[Construct Validity]]"
-  - "[[Dialogue in Education]]"
   - "[[Direct Instruction]]"
 related_theories: []
 related_methods:
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-09-22
 ---
 
 # Inq-ITS
@@ -144,7 +143,7 @@ updated: 2026-09-21
 > > [!axis] 算法代理自主指导 vs 人类教师核心掌控
 > > 争论焦点在于智能代理 Rex 是否会削弱教师的教学主导权。
 > >
-> > - **算法替代偏见** 批评者担忧学生过度依赖 AI 代理的提示，演变为机械应付软件而忽视真实师生[[Dialogue in Education\|对话]]。
+> > - **算法替代偏见** 批评者担忧学生过度依赖 AI 代理的提示，演变为机械应付软件而忽视真实师生对话。
 > > - **人机协同融合** 研发团队明确指出，系统并非替代教师，而是由 Rex 负责微观程序性纠错，由 [[Inq-Blotter]] 看板预警赋能人类教师集中精力开展深层概念统整与价值关怀（Gobert et al., 2023）。
 
 > [!lessons] 经验教训与启示

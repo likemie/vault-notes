@@ -14,7 +14,7 @@ aliases:
 summary: "循证教育治理中的制度化中介机构，指通过设定因果证据标准、审查实证研究并发布项目有效性评级的专业实体平台；在更广泛的知识治理中涵盖部委嵌入、自主资助与独立慈善等多元制度谱系；实证研究表明其评级面临显著的跨机构门槛分歧与构念效度挑战，且在长效存续上面临2至3年短期政治预算周期的制度性制约。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 139
+related_count: 140
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -85,6 +85,7 @@ related_concepts:
   - "[[Scientifically Based Research]]"
   - "[[Visible Learning]]"
   - "[[Selectivity]]"
+  - "[[Cognitive Deskilling]]"
   - "[[Response to Proven Instruction]]"
 related_theories:
   - "[[Organizational Culture]]"
@@ -446,7 +447,7 @@ updated: 2026-09-22
 > - **[[Construct Validity\|构念效度]]危机** 清算中心评级高度依附于特定机构审查细则，“基于证据”缺乏跨平台的一致涵义，难以作为无偏的客观特质([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 26]])。
 > - **商业营销挪用与“自利操纵者”崛起** “证据知情”沦为商业教育科技企业与咨询机构推销产品的公关护身符，客观公正的中介面临被自利操纵者（Spinners）挤压排挤的危机([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 60]])。
 > - **实践采购信息缺失** 评级页面高度浓缩于抽象统计指标，未提供成本预算、教师培训负担与本地生源适配等实施关键信息([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 121]])。
-> - **算法规则削弱教师临床[[Professional Judgment\|专业判断]]** 借鉴循证医学危机镜鉴，警惕将教学拆解（Unbundling）为标准化离散任务和自动化提示，防止教师职业发生去技能化（Deskilling；[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 65–67]]）。
+> - **算法规则削弱教师临床[[Professional Judgment\|专业判断]]** 借鉴循证医学危机镜鉴，警惕将教学拆解（Unbundling）为标准化离散任务和自动化提示，防止教师职业发生[[Cognitive Deskilling|去技能化]]（Deskilling；[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 65–67]]）。
 
 > [!warning] 适用局限
 > - 结论主要适用于承担“项目有效性认证与评级”或“实践指南研发”的制度化中介机构，不直接等同于纯粹承担[[Literature Search\|文献检索]]、专业学会联络或学术出版的常规科研支持机构([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 28–29]])。

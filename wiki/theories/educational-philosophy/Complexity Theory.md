@@ -8,10 +8,10 @@ aliases:
 summary: "一种将教育系统视为复杂适应系统的新兴研究范式，以非线性和整体论取代简单的线性因果模型，强调反馈、涌现、连接性和自组织等核心概念"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 50
-theory_related_level: 6
-theory_related_stars: "⭐⭐⭐⭐⭐⭐"
-theory_related_color: "#fef3c7"
+theory_related_count: 48
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theory/complexity
   - paradigm/complexity
@@ -25,11 +25,9 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Positivism]]"
   - "[[Feedback]]"
-  - "[[Growth]]"
   - "[[Causality]]"
   - "[[Unit of Analysis]]"
   - "[[Value Neutrality]]"
-  - "[[Dialogue in Education]]"
   - "[[Reflexivity]]"
   - "[[Teacher-as-Researcher]]"
   - "[[Computer Simulation]]"
@@ -75,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Complexity Theory
@@ -111,7 +109,7 @@ updated: 2026-09-18
 
 > [!theory-components] 复杂适应系统（CAS）的五大核心运作机制
 > - **反馈机制（[[Feedback]] Loops）**
->   系统内部元素交互呈现复杂的递归反馈回路。**负反馈**发挥稳态调节与阻尼效应（如学生得知考核未达标后主动调整作息）；**正反馈**则产生持续放大微小初始变化的乘数效应（Stacey, 1992; Wheatley, 1999），带来指数级的爆发[[Growth\|成长]]——例如一名原本厌学的儿童偶然体验到深度阅读乐趣后，激发起强烈的探究动机，其认知结构在正反馈循环中以指数速率发生跨越式演进。
+>   系统内部元素交互呈现复杂的递归反馈回路。**负反馈**发挥稳态调节与阻尼效应（如学生得知考核未达标后主动调整作息）；**正反馈**则产生持续放大微小初始变化的乘数效应（Stacey, 1992; Wheatley, 1999），带来指数级的爆发成长——例如一名原本厌学的儿童偶然体验到深度阅读乐趣后，激发起强烈的探究动机，其认知结构在正反馈循环中以指数速率发生跨越式演进。
 > - **全息连接性（Connectedness）**
 >   系统内一切要素高度互联互通。以**雨林生态循环**为例：蚂蚁啃食树叶，飞鸟捕食蚂蚁并排泄粪便，粪便肥沃土壤滋养大树生长新叶供蚂蚁食用（Lewin, 1993, p. 86）。在教育生态中，学生与家庭、教师、同伴及社区网络休戚与共；教师与同事、支持机构、政策规约与资助系统紧密勾连。学校绝非封闭孤岛，扰动任何微小节点，整个系统都将产生弥散性的连锁响应。
 > - **[[Emergence\|涌现性]]（Emergence）**
@@ -162,12 +160,12 @@ updated: 2026-09-18
 > - **接受系统的不可预测性** 承认教育现场处于开放、不可预知与非线性演进之中。
 > - **适应环境的动态演变** 探究过程紧扣现场情境变化展开自适应调整。
 > - **促成系统的分叉演进** 行动干预能够推动系统从一个稳定态向另一个更高阶稳态跃迁。
-> - **颂扬参与者的能动互动** 重视行动者之间的[[Dialogue in Education\|对话]]、协商与主观建构。
+> - **颂扬参与者的能动互动** 重视行动者之间的对话、协商与主观建构。
 > - **双向整合反馈与前馈** 兼顾对过往经验的反思（反馈）与对未来可能性的前瞻构想（前馈）。
 > - **深度依赖[[Reflexivity\|反身性]]思维** 研究者持续反思自身在系统中的角色与干预偏倚。
 > - **高度关注异常值与偶发事件** 对“离群值”保持敏锐，洞察微小偶发因素诱发全局相变的潜能。
 > - **彻底摆脱变量控制执念** 放弃在活生生的教育情境中保持变量恒定的不切实际幻想。
-> - **拥抱系统的复杂性本质** 将系统的不确定性视作创新[[Growth\|生长]]的土壤而非亟待消除的噪音。
+> - **拥抱系统的复杂性本质** 将系统的不确定性视作创新生长的土壤而非亟待消除的噪音。
 
 复杂性理论强烈倡导**[[Teacher-as-Researcher|教师即研究者]]**运动，主张专业研究人员与一线教育实践者结成平等的共生伙伴网络，将自组织研究权赋予日常实践者。
 

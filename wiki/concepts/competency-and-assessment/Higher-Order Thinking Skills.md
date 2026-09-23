@@ -10,7 +10,7 @@ aliases:
 summary: "超越基础事实再认与机械程序算法的复杂心智加工能力，植根于布鲁姆认知目标分类学高阶层级并涵盖批判性思维、问题解决、元认知、协作与创造力"
 type: concept
 domain: "competency-and-assessment"
-related_count: 79
+related_count: 80
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Cognitive Offloading]]"
   - "[[Evaluativist]]"
   - "[[Scaffolding]]"
-  - "[[Dialogue in Education]]"
   - "[[Working Memory]]"
   - "[[Hypothesis]]"
   - "[[Reliability]]"
@@ -53,6 +52,7 @@ related_concepts:
   - "[[Concept Mapping]]"
   - "[[Divergent Thinking]]"
   - "[[Externalization]]"
+  - "[[Conversational AI in Education]]"
   - "[[Document]]"
   - "[[Structured Teaching]]"
   - "[[Language Skills]]"
@@ -70,6 +70,7 @@ related_concepts:
   - "[[Task Structure]]"
   - "[[Convergent Thinking]]"
   - "[[Cooperative Integrated Reading and Composition]]"
+  - "[[Dialogue in Education]]"
   - "[[AI Agent in Education]]"
   - "[[Inquiry-Based Learning]]"
 related_theories:
@@ -137,7 +138,7 @@ updated: 2026-09-22
 
 > [!boundary]- 概念边界辨析
 > - **不等于低阶思维技能（Lower-Order Thinking Skills, LOTS）** 识记（remembering）与简单理解（understanding）侧重于信息的原样储存、提取与字面转述，遵循既定线索和确定性算法；高阶思维则要求对信息进行解构、价值评判与生成性输出。
-> - **不等于抽象智商测验分数（Intelligence Quotient, IQ）** 高阶思维是在具体社会文化情境与真实学科任务中展现的探究倾向与反思策略，高度依赖有效的[[Scaffolding\|教学脚手架]]、同伴[[Dialogue in Education\|对话]]与情境激发，具有极强的可教性与情境可塑性。
+> - **不等于抽象智商测验分数（Intelligence Quotient, IQ）** 高阶思维是在具体社会文化情境与真实学科任务中展现的探究倾向与反思策略，高度依赖有效的[[Scaffolding\|教学脚手架]]、同伴对话与情境激发，具有极强的可教性与情境可塑性。
 > - **不等于孤立的学科事实记忆** 即使学生能够熟练背诵高级概念定理，若无法在劣构情境中迁移应用并反思其适用边界，仍停留在低阶认知层面。
 
 ---
@@ -218,7 +219,7 @@ updated: 2026-09-22
 ### 命题三　技术外化脚手架能释放工作记忆赋能高阶思维但需防范认知卸载与浅层依赖
 
 > [!concept-lens] 人工智能认知[[Externalization\|外化]]与高阶思维深化的双重机制
-> 探讨智能代码助手、[[Dialogue in Education\|对话]]机器人与自适应系统如何通过承担低阶机械运算释放认知资源，以及缺乏教学法指引可能导致的思维退化风险。
+> 探讨智能代码助手、[[Conversational AI in Education|对话机器人]]与自适应系统如何通过承担低阶机械运算释放认知资源，以及缺乏教学法指引可能导致的思维退化风险。
 
 > [!claim] [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]]
 > **AI 技术外化支架对高阶认知的实质促进** 二阶元分析显示，AI 教育应用对学生高阶思维技能具有显著促进作用。在计算机编程与工程设计中，生成式 AI 代码助手承担了低阶语法排查与常规模板编写的认知负荷，使学习者得以将宝贵的注意力集中于算法架构设计、抽象逻辑验证与[[Computational Thinking\|计算思维]]（Computational Thinking）等高阶层面；在语言与跨学科探究中，智能对话代理提供了即时反馈与多轮辩论环境，有效激发了学生的批判审视与反思修正机制。[[Argument_Unal_2026_JECR\|(Ünal et al., 2026, pp. 1365–1366, 1373)]]
@@ -385,4 +386,4 @@ updated: 2026-09-22
 > - [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] — 采用二阶元分析综合 19 项 AIEd 一阶元分析（58,702 名参与者），报告 AI 教育应用对高阶思维技能亚组的效应（$ES = 0.63$，95% CI [.12, 1.14]），依托[[Bloom's Taxonomy\|布鲁姆分类学]]与五维 HOTS 框架厘清了 AI 赋能认知[[Externalization\|外化]]与潜在[[Cognitive Offloading\|认知卸载]]的辩证关系。
 > - [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] — 系统评述 [[OECD]] 成员国高等教育中高阶思维技能（[[Creativity\|创造力]]与批判性思维）的政策导向与评价实践，揭示了宏观资格框架与微观课堂考核之间的脱节，论证了通过真实表现性任务与校本评分量规推进高阶思维测度的制度路径。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项实证研究，构建收敛性批判与发散性创造的高阶思维双透镜[[Analytic Framework\|分析框架]]，提炼出三大共现演进模式与六大教学干预规制，揭示了生成式 AI 环境下维持反思[[Scaffolding\|脚手架]]对高阶思维发展的核心调节作用。
-> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 质性[[Dialogue in Education\|对话]]协议分析揭示研究生在真实复杂统计任务中与 ChatGPT 交互时的认知加工分化，证实评价论[[Epistemic Stances\|认识立场]]与多轮[[Metacognition\|元认知]]质询是激活高阶思维的核心中枢，构建了促进高阶思维发展的教学与技术双轨干预矩阵。（pp. 360–366）
+> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 质性对话协议分析揭示研究生在真实复杂统计任务中与 ChatGPT 交互时的认知加工分化，证实评价论[[Epistemic Stances\|认识立场]]与多轮[[Metacognition\|元认知]]质询是激活高阶思维的核心中枢，构建了促进高阶思维发展的教学与技术双轨干预矩阵。（pp. 360–366）

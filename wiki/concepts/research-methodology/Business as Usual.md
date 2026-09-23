@@ -43,7 +43,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Hypothesis]]"
-  - "[[Dialogue in Education]]"
 related_theories:
   - "[[Growth Mindset]]"
 related_methods:
@@ -71,6 +70,7 @@ related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Zhang_2022_SE]]"
 confidence: high
 status: active
 created: 2026-09-14
@@ -202,7 +202,7 @@ updated: 2026-09-21
 > 澄清宏观真实课程试验与实验室微观受控实验在对照基准设定上的[[Paradigm\|范式]]分歧与循证效度。
 
 > [!claim] [[Ton de Jong\|De Jong, T.]] et al.
-> **常态[[Direct Instruction\|直接讲授]]的熟练沉淀与真实课程实验的高生态效度** 直接教学倡导者批评宏观课程级探究实验缺乏干净的实验室对照组且混杂教师培训等[[Variable\|变量]]（Zhang et al., 2022）。然而，在真实学校生态中，常态教学并非无组织的低质状态，而是由资深教师实施其操练多年的传统直接讲授，学生亦对直接讲授规程高度熟悉。在如此深厚且高度熟练的常态对照基线之下，新型探究课程若能取得统计显著的学业优势（如 WISE 项目在 4 门学科中显著胜出）或保持等价学业成效，其循证效力与生态效度远比人为剥离教学情境的短期实验室受控测试更为坚实可靠。（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 6]]）
+> **常态[[Direct Instruction\|直接讲授]]的熟练沉淀与真实课程实验的高生态效度** 直接教学倡导者批评宏观课程级探究实验缺乏干净的实验室对照组且混杂教师培训等[[Variable\|变量]]（[[Argument_Zhang_2022_SE|Zhang et al., 2022]]）。然而，在真实学校生态中，常态教学并非无组织的低质状态，而是由资深教师实施其操练多年的传统直接讲授，学生亦对直接讲授规程高度熟悉。在如此深厚且高度熟练的常态对照基线之下，新型探究课程若能取得统计显著的学业优势（如 WISE 项目在 4 门学科中显著胜出）或保持等价学业成效，其循证效力与生态效度远比人为剥离教学情境的短期实验室受控测试更为坚实可靠。（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 6]]）
 
 > [!claim] Edovald, K. & Nevill, C.
 > **试验规模扩张必然加剧常态教学基线的竞争与[[Fade-out Effect\|效应衰减]]** 当研究从单学区小规模试验走向跨多地区的大规模现场试验时，样本中涵盖的学校背景更加多元，对照组学校的常态教学水平参差不齐且整体基线更为坚实。试验规模越大，干预方案要超越各类学校多样化、自发优化的常态教学实践就越发困难，这是导致教育试验效应量随推广规模扩大而趋近于零的关键生态机制。（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）
@@ -242,7 +242,7 @@ updated: 2026-09-21
 > > [!axis] 实验室纯净控制 vs 真实学校生态效度
 > > 争论焦点在于教育评估是否必须追求医学式的实验室纯净控制组。
 > >
-> > - **[[Direct Instruction\|直接教学]]倡导派（Zhang et al., 2022）** 批评真实学校课程实验缺乏干净无杂质的实验室对照组，认为常态教学对照包含过多未经控制的学校[[Variable\|变量]]与师生交互，无法准确分离核心教学机制。
+> > - **[[Direct Instruction\|直接教学]]倡导派（[[Argument_Zhang_2022_SE|Zhang et al., 2022]]）** 批评真实学校课程实验缺乏干净无杂质的实验室对照组，认为常态教学对照包含过多未经控制的学校[[Variable\|变量]]与师生交互，无法准确分离核心教学机制。
 > > - **课程实验与探究派（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 6]]）** 强调教育并非孤立的认知实验室，真实学校常态教学由经验丰富的资深教师实施熟练直接讲授，学生规程适应度极高；在如此严苛且高度熟练的基线之上检验新型课程，其获得的[[External Validity\|外部效度]]与真实应用价值远超人为脱嵌的实验室控制。
 > >
 > > [!axis] 对照组[[Rich and Thick Description\|深描]]追踪 vs 评估实施成本与可行性
@@ -282,7 +282,7 @@ updated: 2026-09-21
 > 英国[[Education Endowment Foundation\|教育捐赠基金会]]在现代评估指南中对常态教学设定了明确的操作规约：要求独立评估团队在方案[[Preregistration\|预注册]]协议（Protocol）中不仅定义干预内容，还必须详尽阐明对照组常态教学的理论[[Hypothesis\|假设]]；在试验执行过程中，评估团队通过向对照组教师发放专项调查[[Questionnaire\|问卷]]、核对日常教学时间分配，排查对照组学校是否采购了相似的数字学习工具。这一规范彻底改变了将常态对照视为未测量黑盒的历史弊端。（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 53]]）
 
 > [!case] 科学探究干预实效推广中的常态教学吞噬
-> 在《思考、操作、[[Dialogue in Education\|对话]]科学》（[[Thinking, Doing, Talking Science]]，TDTS）试验中，该项目在 42 所小学的[[Efficacy Trial\|效力试验]]中取得了显著积极成效（$ES = +0.22$）；然而当推广至 205 所小学的[[Effectiveness Trial\|实效试验]]时，干预效应完全降至零。[[Implementation and Process Evaluation\|过程评估]]发现，大规模试验中的对照组学校本身已通过常规教研广泛开展了类似的互动式探究科学教学，高水准的常态教学基线直接抵消了外部标准化培训所能带来的微弱优势。（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）
+> 在《[[Thinking, Doing, Talking Science|思考、操作、对话科学]]》（[[Thinking, Doing, Talking Science]]，TDTS）试验中，该项目在 42 所小学的[[Efficacy Trial\|效力试验]]中取得了显著积极成效（$ES = +0.22$）；然而当推广至 205 所小学的[[Effectiveness Trial\|实效试验]]时，干预效应完全降至零。[[Implementation and Process Evaluation\|过程评估]]发现，大规模试验中的对照组学校本身已通过常规教研广泛开展了类似的互动式探究科学教学，高水准的常态教学基线直接抵消了外部标准化培训所能带来的微弱优势。（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）
 
 > [!case] WISE 宏观长期课程实验中的常态[[Direct Instruction\|直接讲授]]对照
 > 在为期多年的[[Web-based Inquiry Science Environment\|网络探究科学环境]]（WISE）课程实验中，逾 8,000 名初中生参与了涵盖 6 门独立理科课程的队列比较。对照组班级维持由资深理科教师开展的传统直接讲授。研究结果证实，在资深教师熟练讲授的坚实常态基线之下，融入动态可视化交互支架的 WISE 探究课程仍在 4 门学科中取得了统计显著的学业突破，确立了宏观课程实验超越熟练常态教学的高[[Ecological Validity\|生态效度]]。（Linn et al., 2006；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 6]]）

@@ -8,7 +8,7 @@ aliases:
 summary: "个体关于‘如何执行任务、运用技能与操作算法’的行动化知识表征；在认知架构中通过产生式规则实现自动化编译以释放工作记忆；元分析因果证据证实，认识论认知干预能大幅促进论证与概念理解，但对程序性知识操作（d = 0.140，不显著）不产生直接促进，确立了认识论认知的任务效能边界。"
 type: concept
 domain: "educational-psychology"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Rote Learning]]"
-  - "[[Growth]]"
   - "[[Scaffolding]]"
   - "[[Interaction Effect]]"
   - "[[Dependent Variable]]"
@@ -162,7 +161,7 @@ updated: 2026-09-22
 > > [!axis] 程序性与概念性知识的教学优先顺序争论
 > > 在数学与科学教学中，究竟应先教算理（概念优先）还是先练算法（程序优先）存在长期的教育学争议。
 > >
-> > - **概念优先倡导者** 认为缺乏概念理解的程序练习沦为[[Rote Learning\|死记硬背]]，无法形[[Growth\|成长]]久知识留存。
+> > - **概念优先倡导者** 认为缺乏概念理解的程序练习沦为[[Rote Learning\|死记硬背]]，无法形成长久知识留存。
 > > - **程序优先倡导者** 认为低龄学生抽象思维尚未发育成熟，先掌握固定程序能为后续概念领悟提供不可或缺的直觉[[Scaffolding\|脚手架]]。
 
 ---

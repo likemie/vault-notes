@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,7 +29,6 @@ tags:
 related_concepts:
   - "[[Teaching Assistant]]"
   - "[[Decodification]]"
-  - "[[Dialogue in Education]]"
   - "[[Evidence Standards]]"
   - "[[Academic Achievement]]"
   - "[[Business as Usual]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Reach
@@ -78,7 +77,7 @@ updated: 2026-09-17
 
 > [!policy-design] 方案设计与教学规程
 > - **精准诊断与分级文本匹配** 根据学生入学测验精细区分是基础字词[[Decodification\|解码]]缺陷还是高阶篇章理解障碍，定制个性化阅读方案。
-> - **助教 1:1 高密度[[Dialogue in Education\|对话]]式辅导** 助教引导学生精读具有学科背景的信息类短文，训练基于上下文猜测词义、段落主旨概括及因果推理技巧。
+> - **助教 1:1 高密度对话式辅导** 助教引导学生精读具有学科背景的信息类短文，训练基于上下文猜测词义、段落主旨概括及因果推理技巧。
 > - **保真度督导与周检** 中学校本特教协调员（SENCO）每周巡检助教辅导日志，保障辅导依从度。
 
 > [!citation-card] 斯莱文论 Reach 助教一对一辅导的实证效益

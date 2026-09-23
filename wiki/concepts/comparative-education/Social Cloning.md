@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育政策借鉴中的一种技术统治主义幻想，指通过开发无缝的嵌入几何学，完全打破和消解接受国本土的情境抗性与免疫机制，实现跨国教育体制或评估模式的精准复制"
 type: concept
 domain: "comparative-education"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Quasi-markets in Higher Education]]"
   - "[[New Public Management]]"
   - "[[Paradigm]]"
-  - "[[Growth]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -37,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-09-22
 ---
 
 # Social Cloning
@@ -74,7 +73,7 @@ updated: 2026-07-03
 > 随着“[[Quasi-markets in Higher Education\|高等教育准市场]]”和“[[New Public Management\|新公共管理]]”在全球的兴起，最初在英格兰大学语境下因科研评估（[[Research Excellence Framework\|RAE]]/REF）和教学评估而设计的质量保障与绩效计量几何，被国际中介机构作为“最佳实践”大力兜售。这套契约化审计模式被精准克隆至澳大利亚、新西兰以及东欧和东亚等文化各异的高等教育体系中。这套克隆的几何强行摧毁或削减了各国传统的学术行会自治与专业信任体系，逼迫全球学者向统一的定量化“发表率”与“显性效益”低头，完成了对全球高等教育生态的社会克隆。
 
 > [!case] 案例二：“世界一流大学”指标作为社会克隆的载体（[[Argument_Cowen_2009_CE\|Cowen, 2009, p. 315, p. 324]]）
-> 二十世纪末以来，基于西方精英研究型大学（如常春藤盟校、牛津剑桥）数据指标建构起的“世界一流大学”模板，成为全球政策制定者的克隆[[Paradigm\|范式]]。从沙特阿拉伯到东亚多国，政府斥巨资按照此模板的“科研产出”、“高引用率”、“国际教师比率”等几何几何进行原样复制。为了迎合这一克隆目标，多国大学系统性地将本国稀缺教育经费集中投向少数头部机构，强行切断大学与本土社区及区域发展的内生联系。这表明，社会克隆诱发了严重的本土系统错位，剥夺了地方教育系统的自主[[Growth\|成长]]轨迹。
+> 二十世纪末以来，基于西方精英研究型大学（如常春藤盟校、牛津剑桥）数据指标建构起的“世界一流大学”模板，成为全球政策制定者的克隆[[Paradigm\|范式]]。从沙特阿拉伯到东亚多国，政府斥巨资按照此模板的“科研产出”、“高引用率”、“国际教师比率”等几何几何进行原样复制。为了迎合这一克隆目标，多国大学系统性地将本国稀缺教育经费集中投向少数头部机构，强行切断大学与本土社区及区域发展的内生联系。这表明，社会克隆诱发了严重的本土系统错位，剥夺了地方教育系统的自主成长轨迹。
 
 ---
 

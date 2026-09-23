@@ -26,10 +26,10 @@ tags:
 related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Quality Education]]"
-  - "[[Dialogue in Education]]"
   - "[[Knowledge Mediation]]"
   - "[[Academic Freedom]]"
   - "[[Venture Philanthropy]]"
+  - "[[Dialogue in Education]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -58,7 +58,7 @@ updated: 2026-09-13
 > [!org-context] 机构背景与设立渊源
 > - **成立时间 / 依托单位** 成立于 2003 年，常设于伊斯坦布尔萨班哲大学政策研究中心体系内。
 > - **创设背景** 21 世纪初土耳其基础教育面临严重的质量差距与区域不平等，同时官方教育决策过程高度集权且缺乏系统实证依据。在此背景下，以萨班哲基金会（Sabancı Foundation）为代表的多家主流慈善基金会联手设立 ERG，意在构建一个基于科学证据、致力于推动“全民优质教育”（[[Quality Education]] for All）的独立公民社会中介平台。
-> - **法人属性与经费基础** 依托大学的独立非营利智库，资金完全来源于企业与家族慈善基金会的联合资助网络，形式上与财务上均独立于国家教育部，但教育部及其地方机构始终是其开展政策[[Dialogue in Education\|对话]]的关键伙伴。
+> - **法人属性与经费基础** 依托大学的独立非营利智库，资金完全来源于企业与家族慈善基金会的联合资助网络，形式上与财务上均独立于国家教育部，但教育部及其地方机构始终是其开展政策对话的关键伙伴。
 > - **核心使命** 提升土耳其教育政策决策的循证水平，保障儿童受教育权利与教育公平，并促进公众对关键教育议题的批判性讨论与理性审议。
 
 ---

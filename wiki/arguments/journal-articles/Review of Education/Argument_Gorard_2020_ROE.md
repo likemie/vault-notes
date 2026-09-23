@@ -7,7 +7,7 @@ title: "Argument_Gorard_2020_ROE"
 argument_key: "Argument_Gorard_2020_ROE"
 argument_display_title: "What is the evidence on the best way to get evidence into use in education? Review of Education, 8(2), 570–610"
 argument_kind: "journal-article"
-argument_related_count: 78
+argument_related_count: 77
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
-  - "[[Dialogue in Education]]"
   - "[[Counterfactual]]"
   - "[[Causality]]"
   - "[[Reliability]]"
@@ -157,7 +156,7 @@ sources:
 > - **证据加工形态**
 >   从未经处理的学术期刊论文（原始证据），到经过通俗化压缩、提取[[Effect Size\|效应量]]星级的摘要工具包（改写证据），再到直接将因果机制固化为预制教案、课程工件或法定指令的成品（工程化证据）。（pp. 577–578）
 > - **传递互动强度**
->   从仅仅将材料置于网站或邮寄分发的单向静止状态（被动传递），到组织研讨、[[Dialogue in Education\|对话]]与中介宣讲（参与传递），再到实践者深度介入[[Action Research\|行动研究]]、共同生产或持续双向反馈（交互传递）。（p. 578）
+>   从仅仅将材料置于网站或邮寄分发的单向静止状态（被动传递），到组织研讨、对话与中介宣讲（参与传递），再到实践者深度介入[[Action Research\|行动研究]]、共同生产或持续双向反馈（交互传递）。（p. 578）
 > - **因果结局层级**
 >   严格区分低阶产出（使用者主观认知、态度或兴趣的变化）、中阶产出（教师课堂教学或决策行为的客观改变），以及高阶终端产出（服务对象如学生统考成绩、学业差距或患者健康的客观改善）。（pp. 577–578, 587）
 

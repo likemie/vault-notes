@@ -9,7 +9,7 @@ title: "Argument_Cowen_2023_CE"
 argument_key: "Argument_Cowen_2023_CE"
 argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326-340"
 argument_kind: "journal-article"
-argument_related_count: 67
+argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -47,8 +47,7 @@ related_concepts:
   - "[[Posthumanism]]"
   - "[[Assemblage]]"
   - "[[Emergence]]"
-  - "[[Dialogue in Education]]"
-  - "[[Growth]]"
+  - "[[Conversational AI in Education]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Research Question]]"
   - "[[Democratic Education]]"
@@ -233,7 +232,7 @@ citation_aliases:
 > - **[[Hierarchy of Future Issues in Comparative Education\|未来议题分类原则]]** 决定学科智识命运与前瞻方向的五个核心议题层级：
 >   1. **常规谜题 (Normal-puzzle topics)** 学科日常运转的核心业务，侧重于对学校系统及其各个组成部分的运转和改革分析。具体包括：学前教育、初等教育、中等教育、考试、课程、教师教育、职业技术教育、衡量学校与大学质量、以及新型教学技术。(p.329, p.330)
 >   2. **热门主题 (Hot topics)** 产出极其丰厚、学者关注度极高且将持续维持热度的领域。具体包括：种族与性别（例如 Unterhalter 于 2023 年编辑的女孩教育专刊），以及各种以“后”（POST）为标志的新理论研究，如后社会主义、后现代、[[Posthumanism\|后人类主义]]理论，以及系统[[Assemblage\|装配]] (assemblages) 解释视角。
->   3. **突破性主题 (Break-through themes)** 近年[[Emergence\|涌现]]、不仅突然显性化且直穿未来的突破性议题。具体包括：治理与控制模式 (governance and modes of control)；数据霸权；后殖民主义与全球南方 (post-colonialism and the Global South)；[[PISA]] 等国际测试批判；从全球化洪流中重新解救民族主义概念；以及人工智能尤其是智能[[Dialogue in Education\|对话]]机器人（如 ChatGPT）带来的急剧技术变革与行业恐慌。
+>   3. **突破性主题 (Break-through themes)** 近年[[Emergence\|涌现]]、不仅突然显性化且直穿未来的突破性议题。具体包括：治理与控制模式 (governance and modes of control)；数据霸权；后殖民主义与全球南方 (post-colonialism and the Global South)；[[PISA]] 等国际测试批判；从全球化洪流中重新解救民族主义概念；以及人工智能尤其是智能[[Conversational AI in Education|对话机器人]]（如 ChatGPT）带来的急剧技术变革与行业恐慌。
 >   4. **冷门主题与重大沉默 (Cold topics / Major silences)** 学科历史上面对重大地缘政治剧变却长期失声、几乎从未进入学术过去的冷门领域。具体包括：战争、革命、帝国以及宗教。Cowen 强调，这些领域不能仅靠短文章来拯救，而应当被全盘重估，放在不以提供政策建议为目的的纯粹学术比较教育中进行深刻探讨。
 >   5. **全球解读** 学科对外部政治与经济大叙事变化的宏观回应，直接决定了比较教育在不同历史分期中的理解风格与研究议程。
 
@@ -258,7 +257,7 @@ citation_aliases:
 > - **历史与情境的相似与差异比较（求同存异）**
 >   注重历史和情境解释。代码词为历史（history）与情境（contexts），代表人物包括 [[Isaac Kandel\|Isaac Leon Kandel]]、[[Nicholas Hans]] and Andreas Kazamias 等。其政治预设表面上是中立的，而这恰恰是其致命缺陷：它倾向于忽视法西斯主义、弥赛亚国家或国家社会主义等极端政治现象。由于它拒绝从“国家”（State，无论是理想的还是现实的）概念出发，导致其缺乏分析国家暴力、政治压迫与意识形态强权干预的工具，使比较研究退化为去政治化的温和文化与历史情境陈述。(pp.332–333)
 > - **[[Convergence Theory in Comparative Education\|趋同理论]]与同构（Convergence Theory）**
->   认为教育系统正走向相似。经历了五个核心节点：Lauwerys (1957) 宣扬科学的民主可以克服政治偏见；国际教育局（International Bureau of Education，IBE）的 Pedro Rosselló 提出在全球范围内识别教育趋势（延续至 1980 年代）；1960 年代的技术趋同论（A. H. Halsey 等, 1965）认为工业生产系统相似决定了教育相似；Alex Inkeles 的现代性模式变量说；以及当前新制度主义同构说（isomorphisms）。其政治预设看似中性，将各种新同构的出现和[[Growth\|成长]]视为“自然、正常和良性”的过程。然而，其语义策略依赖于“出现”（emerge）、“发生”（happen）、“成形”（take shape）等温和的动词，且行动主体模糊不清，从而掩盖了背后的权力关系、霸权强推与利益博弈。
+>   认为教育系统正走向相似。经历了五个核心节点：Lauwerys (1957) 宣扬科学的民主可以克服政治偏见；国际教育局（International Bureau of Education，IBE）的 Pedro Rosselló 提出在全球范围内识别教育趋势（延续至 1980 年代）；1960 年代的技术趋同论（A. H. Halsey 等, 1965）认为工业生产系统相似决定了教育相似；Alex Inkeles 的现代性模式变量说；以及当前新制度主义同构说（isomorphisms）。其政治预设看似中性，将各种新同构的出现和成长视为“自然、正常和良性”的过程。然而，其语义策略依赖于“出现”（emerge）、“发生”（happen）、“成形”（take shape）等温和的动词，且行动主体模糊不清，从而掩盖了背后的权力关系、霸权强推与利益博弈。
 > - **作为实用工具的[[Policy Science in Comparative Education\|政策科学]]（Policy Science）**
 >   主张比较教育的核心形式是作为政策科学，为决策提供建议。代表人物包括 Holmes (1984)、King (1979)，也见于 2010 年后的世界教育年鉴。其政治预设并非中性，而是公开寻求与自由民主国家中所谓的“民主权力”结盟。它假定决策者是理性的，且应当在“关键决策时刻”（critical points of decision）寻求比较教育学者的建议。这种结盟使学科极易丧失批判性反思的学术距离，降格为服务国家机器治理目标的行政管理工具。(p.333)
 > - **结果导向与测量技术（Outcomes）**

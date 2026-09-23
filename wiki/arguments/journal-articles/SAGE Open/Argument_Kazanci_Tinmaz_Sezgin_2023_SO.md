@@ -35,8 +35,8 @@ related_concepts:
   - "[[Research Proposal]]"
   - "[[Content Validity]]"
   - "[[Interaction Effect]]"
-  - "[[Growth]]"
   - "[[Reliability]]"
+  - "[[Growth]]"
   - "[[Hypothesis]]"
   - "[[Face Validity]]"
   - "[[Convergent and Discriminant Validity]]"
@@ -193,7 +193,7 @@ journal: "SAGE Open"
 > - **研究技能（Research Skills）**
 >   教师在检索[[Document\|文献]]、研读报告、解读统计图表及开展课堂探究上的实际操作能力与知觉行为控制。（解释 46.90% 方差）(p. 6)
 > - **研究态度（Attitude toward Research）**
->   教师对教育科研对职业[[Growth\|成长]]重要性、改进教学价值及教育者应否受益于科研的积极价值认同。（解释 7.20% 方差）
+>   教师对教育科研对职业成长重要性、改进教学价值及教育者应否受益于科研的积极价值认同。（解释 7.20% 方差）
 > - **研究使用（Research Use）**
 >   教师在日常教学规划、备课设计、教学法知识更新及教育决策中主动应用科研成果的外显行为。（解释 4.60% 方差）
 > - **研究意识（Research Awareness）**

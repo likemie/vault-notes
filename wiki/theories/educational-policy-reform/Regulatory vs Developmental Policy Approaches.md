@@ -8,7 +8,7 @@ aliases:
 summary: "宏观教育政策治理模式的比较理论框架，对比了以强制法定框架、统一达标指标、硬性问责惩戒为特征的规制型进路（如NCLB），与以动态变革促进、地方因地制宜、综合指标与激励性证据使用为特征的发展型进路（如ESSA）及其制度效应。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 18
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[High-Stakes Testing]]"
   - "[[School Leadership]]"
-  - "[[Growth]]"
 related_theories:
   - "[[Navigational Framework for Educational Researchers]]"
 related_methods:
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Regulatory vs Developmental Policy Approaches
@@ -132,7 +131,7 @@ updated: 2026-09-18
 > [!claim] 适用边界
 > 规制型与发展型进路并非绝对排斥，而是构成宏观政策设计光谱的两极：
 > 1. **基本底线与财政合规** 在确保公共资金安全、防范严重歧视与保障公民基本受教育权等底线问题上，规制型框架依然具备无可替代的法律威慑力。
-> 2. **教学改进与深度变革** 在涉及课堂教学创新、教师专业[[Growth\|成长]]与复杂认知干预等深层领域，强制性规制往往失效，必须依赖发展型治理激发一线实践者的内在动力与情境适应。
+> 2. **教学改进与深度变革** 在涉及课堂教学创新、教师专业成长与复杂认知干预等深层领域，强制性规制往往失效，必须依赖发展型治理激发一线实践者的内在动力与情境适应。
 
 ---
 

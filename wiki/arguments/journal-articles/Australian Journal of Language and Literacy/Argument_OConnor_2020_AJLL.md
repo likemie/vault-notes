@@ -9,7 +9,7 @@ title: "Argument_OConnor_2020_AJLL"
 argument_key: "Argument_OConnor_2020_AJLL"
 argument_display_title: "Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Class Size]]"
   - "[[Direct Instruction]]"
-  - "[[Growth]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -242,7 +241,7 @@ citation_aliases:
 > 4. **宏观数据对公共政策的绑架** 维多利亚州教育部将《VL》作为 [[Victorian HITS and Literacy Toolkit\|HITS]] 和读写工具箱的首要实证参考，展示了这一存在方法论瑕疵的伪科学论证如何通过商业共谋，深度影响并约束了教师的教学专业自主权 (p.141)。
 
 > [!stat-cards]- 核心数据
-> - **d = 0.06** 哈蒂宣称的全语言平均效应量，等同于无学校教育状态下的学生自然[[Growth\|成长]]率 (pp.142-143)。
+> - **d = 0.06** 哈蒂宣称的全语言平均效应量，等同于无学校教育状态下的学生自然成长率 (pp.142-143)。
 > - **d = 0.60** 哈蒂为拼读教学程序（Phonics）计算出的高效益值，常被拼读倡导者用作“阅读战争”获胜的证据 (p.142)。
 > - **d = -0.65** [[William Jeynes\|杰尼斯]]与利特尔（Jeynes & Littell, 2000）报告的极度异常的负面效应量，被哈蒂直接采纳，但克拉申指出其原始计算多处方向反转 (pp.145-147)。
 > - **d = 0.83** [[William Jeynes\|杰尼斯]]与利特尔（Jeynes & Littell, 2000）报告中被哈蒂忽略的“纯全语言”研究（如 Dahl & Freppon）的实际正向高效益量 (pp.146-147)。

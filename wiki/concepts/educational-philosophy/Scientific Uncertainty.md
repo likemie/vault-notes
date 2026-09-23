@@ -4,10 +4,10 @@ aliases:
   - 科学不确定性
   - 证据不确定性
   - 认知不确定性
-summary: "指在科学探究与知识生产过程中，由于测量误差、随机波动、模型简化、证据不完备及认知局限，导致科学结论、理论模型与未来预测偏离绝对确定性的客观认识论与方法论状态；现代科学认识论与传播学强调，不确定性并非科学的瑕疵，而是推动假说检验与共识迭代的内在驱动力，坦诚披露不确定性是维系公共信任与培育批判性科学素养的核心基石。"
+summary: 指在科学探究与知识生产过程中，由于测量误差、随机波动、模型简化、证据不完备及认知局限，导致科学结论、理论模型与未来预测偏离绝对确定性的客观认识论与方法论状态；现代科学认识论与传播学强调，不确定性并非科学的瑕疵，而是推动假说检验与共识迭代的内在驱动力，坦诚披露不确定性是维系公共信任与培育批判性科学素养的核心基石。
 type: concept
 domain: "educational-philosophy"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -23,7 +23,7 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Falsification]]"
   - "[[Variable]]"
-  - "[[Humility in Learning]]"
+  - "[[Humility]]"
   - "[[Postpositivism]]"
   - "[[Positivism]]"
   - "[[Determinism]]"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Evaluativist]]"
   - "[[Critical Thinking]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Open-Mindedness]]"
   - "[[Document]]"
   - "[[Rote Learning]]"
   - "[[Problem Solving]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-04
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Scientific Uncertainty
@@ -147,7 +148,7 @@ updated: 2026-09-22
 > 科学之所以不同于宗教教条或神话体系，根本原因在于科学拥有正视自身不确定性并通过实证检验与反思批判实现自我纠错的内在机制。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
-> **暂定性与证据合成的共识基石** 科学发现从本质上讲都是暂定性的（Provisional）；单一单次实验成果绝不等于盖棺定论的科学真理，必须通过多团队独立重复实验（Replication）以及严密的方法学证据合成（Evidence Syntheses）才能逐步构建稳固的科学共识；公开承认不确定性正是驱动科学界保持[[Humility in Learning\|谦逊]]、不断向未知探索的根本引擎。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 62)]]
+> **暂定性与证据合成的共识基石** 科学发现从本质上讲都是暂定性的（Provisional）；单一单次实验成果绝不等于盖棺定论的科学真理，必须通过多团队独立重复实验（Replication）以及严密的方法学证据合成（Evidence Syntheses）才能逐步构建稳固的科学共识；公开承认不确定性正是驱动科学界保持[[Humility\|谦逊]]、不断向未知探索的根本引擎。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 62)]]
 
 > [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03\|Cohen et al. (2011)]]
 > **[[Postpositivism\|后实证主义]]对绝对确定性的解构** 20 世纪下半叶科学哲学彻底破除了[[Positivism\|实证主义]]的机械[[Determinism\|决定论]]假说，认识到所有实证观察都浸润着理论预设（Theory-laden），人类对自然与社会法则的把握只能达到概率性的逼近；[[Scientific Method\|科学方法]]的优越性恰恰在于能够严密量化与透明陈述这种不确定性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03\|(Cohen et al., 2011, pp. 47–50)]]
@@ -186,7 +187,7 @@ updated: 2026-09-22
 > 探讨大语言模型如何通过表面流畅的单一合成断言掩盖科学证据固有的分歧与不确定性，分析即时解答对学习者认知挣扎与探究耐受力的消极影响。
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]
-> **算法抹平不确定性与探究过早闭合** 真实的学术探究与科学推理历来伴随着认知不确定性、困惑与试错挫败等认识情绪，这些情绪构成驱动深层探究不可或缺的动力（Muis et al., 2018）。然而，[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）往往掩盖其回答背后的信源局限、取向偏差与认知不确定性，以统一、自信且流畅的综合语调输出看似板上钉钉的确定结论。这种无摩擦的即时输出剥离了学习者识别不确定性与衡量对立证据的思维摩擦，不仅造成理解浅层化，更直接导致学习者对不确定性的容忍度（Uncertainty Tolerance）严重退化，在面对开放性复杂问题时极易陷入思维过早闭合（Premature Closure）。因此，技术界面必须将不确定性显性化呈现（如列出备择假说、置信范围与明确的未知盲区），而非将其抹平成单一答案。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 3–6, 8)]]
+> **算法抹平不确定性与探究过早闭合** 真实的学术探究与科学推理历来伴随着认知不确定性、困惑与试错挫败等认识情绪，这些情绪构成驱动深层探究不可或缺的动力（Muis et al., 2018）。然而，[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）往往掩盖其回答背后的信源局限、取向偏差与认知不确定性，以统一、自信且流畅的综合语调输出看似板上钉钉的确定结论。这种无摩擦的即时输出剥离了学习者识别不确定性与衡量对立证据的思维摩擦，不仅造成理解浅层化，更直接导致学习者对不确定性的容忍度（Uncertainty Tolerance）严重退化，在面对[[Open-Mindedness|开放性]]复杂问题时极易陷入思维过早闭合（Premature Closure）。因此，技术界面必须将不确定性显性化呈现（如列出备择假说、置信范围与明确的未知盲区），而非将其抹平成单一答案。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 3–6, 8)]]
 
 ---
 
@@ -223,7 +224,7 @@ updated: 2026-09-22
 > > - **怀疑商人策略（Merchants of Doubt）** 烟草产业、化石能源巨头资助伪学者，抓住气候模型或致癌流行病学研究中的[[Confidence Interval\|置信区间]]与未解决细节，宣称“科学界尚无共识”，以此阻挠公共卫生与减排政策。
 > > - **循证防守之道（[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society, 2026]]）** 科学共同体必须向公众阐明：在复杂系统中“绝对必然的确定性”在[[Epistemology\|认识论]]上是不存在的；政策决策的依据是“压倒性的证据权重（[[Weight of Evidence Framework\|Weight of Evidence]]）”与预防原则，而非等待虚妄的百分之百确定性。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 58–60)]]
 >
-> > [!axis] 风险厌恶型公关（Risk Aversion） vs 认识论[[Humility in Learning\|谦逊]]（Epistemic Humility）
+> > [!axis] 风险厌恶型公关（Risk Aversion） vs 认识论[[Humility\|谦逊]]（Epistemic Humility）
 > > 高校与科研机构领导层常担忧科学家公开讨论研究局限会引发媒体恶意断章取义，导致机构公关部门倾向于审查和过滤学者的严谨限定词。
 > >
 > > - **公关风险管控视角** 担忧任何不确定性表述都会被反科学博主截取作为“科研无用”的攻击炮弹。

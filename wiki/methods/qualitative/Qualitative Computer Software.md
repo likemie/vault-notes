@@ -10,7 +10,7 @@ summary: "用于辅助质性研究中文本、音频与图像数据组织、编�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 51
+method_related_count: 53
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -26,7 +26,9 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Qualitative Validity]]"
   - "[[Qualitative Reliability]]"
+  - "[[Open-Mindedness]]"
   - "[[Central Phenomenon]]"
+  - "[[Meaningful Human Control]]"
   - "[[Saturation]]"
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
@@ -78,7 +80,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-09-18
+updated: 2026-09-23
 ---
 
 # Qualitative Computer Software
@@ -119,11 +121,11 @@ updated: 2026-09-18
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Grounded Theory\|扎根理论]]、[[Phenomenology\|现象学]]、[[Narrative Research\|叙事研究]]、[[Ethnography\|民族志]]、多案例比较研究或探索性[[Mixed Methods Research\|混合方法]]设计。
-> - **数据接入** 导入纯文本、富文本（Word/PDF）、扫描档案、音频录音、视频切片及[[Questionnaire\|问卷调查]]开放性回答。
+> - **数据接入** 导入纯文本、富文本（Word/PDF）、扫描档案、音频录音、视频切片及[[Questionnaire\|问卷调查]][[Open-Mindedness|开放性]]回答。
 > - **分析方法** 归纳式[[Open Coding\|开放编码]]、演绎式模板赋码（[[Template Analysis]]）、[[Content Analysis\|内容分析]]矩阵统计、交叉共现比较与[[Central Phenomenon\|核心范畴]]理论整合。
 > - **辅助技术**
 >   - 主流 CAQDAS 平台（NVivo、MAXQDA、ATLAS.ti、Dedoose、QDA Miner）
->   - 大语言模型少样本提示工程与人在回路（HITL）校准接口
+>   - 大语言模型少样本提示工程与[[Meaningful Human Control|人在回路]]（HITL）校准接口
 >   - [[Qualitative Codebook\|编码手册]]（[[Qualitative Codebook]]）规则约束与操作日志审计链条
 
 ---
@@ -195,7 +197,7 @@ updated: 2026-09-18
 > - **工具宰制与方法倒置（The Tail Wags the Dog）** 多数软件的设计架构天然偏向[[Grounded Theory\|扎根理论]]式的[[Coding in Qualitative Research\|编码]]与检索（Code-and-Retrieve）逻辑，容易诱使研究者机械迎合软件提供的功能与树状层级，忽视对文本更深层的批判性追问与诠释学理解（Crowley et al., 2002; Richards, 2002; Coffey et al., 1996）。软件是工具而非方法论指导者，研究者不能让工具逻辑反客为主。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, p. 539)]]
 > - **编码碎片化与语境剥离（Decontextualization）** 软件将连续文本切分为孤立片段存入节点数据库，若单纯按编码抽取片段进行[[Assemblage\|装配]]，极易抽离发生的时间序列、背景环境与情感张力（Gibbs, 2007; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, p. 562]]）。研究者若过度沉溺于节点切片，可能因技术屏障而“疏远数据”（Distance from Data），削弱[[Qualitative Research\|质性研究]]立足的[[Rich and Thick Description\|深描]]根基。
 > - **算法依赖与虚假模式风险（[[AI Hallucination\|Algorithmic Hallucination]]）** 当引入大语言模型辅助赋码与主题生成时，模型固有的一致性幻觉、去情境化归纳偏倚以及预训练语料中的文化刻板印象可能带来系统性失真；机器可能拼凑出看似严密实则脱离现实经验的“伪主题”。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 578)]]
-> - **人在回路（HITL）与[[Audit Trail\|审计追踪]]责任（Audit Trail）** 质性软件不会自主思考，更无法替代人类研究者赋予意义与感知生命体验（García-Horta & Guerra-Ramos, 2009; Flick, 2009）。研究者必须贯彻人在回路原则：强制大模型输出附带原文行号与证据溯源，设定低采样温度；建立详实的分析日志（记录版本、提示词、分歧裁决与修改过程），保留透明的[[Audit Trail\|审计追踪]]。
+> - **[[Meaningful Human Control|人在回路]]（HITL）与[[Audit Trail\|审计追踪]]责任（Audit Trail）** 质性软件不会自主思考，更无法替代人类研究者赋予意义与感知生命体验（García-Horta & Guerra-Ramos, 2009; Flick, 2009）。研究者必须贯彻人在回路原则：强制大模型输出附带原文行号与证据溯源，设定低采样温度；建立详实的分析日志（记录版本、提示词、分歧裁决与修改过程），保留透明的[[Audit Trail\|审计追踪]]。
 
 ---
 
@@ -220,6 +222,6 @@ updated: 2026-09-18
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|Cohen et al. (2011)]]（亦见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Ch. 30]]） — 系统总结 CAQDAS 的功能类型、Kelle 六步规程与[[Reliability\|信度]]效度机制，并深入探讨大语言模型智能辅助[[Coding in Qualitative Research\|编码]]的三大进路、[[Paradigm\|范式]]对比与人在回路准则。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|Cohen et al. (2011)]]（亦见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Ch. 30]]） — 系统总结 CAQDAS 的功能类型、Kelle 六步规程与[[Reliability\|信度]]效度机制，并深入探讨大语言模型智能辅助[[Coding in Qualitative Research\|编码]]的三大进路、[[Paradigm\|范式]]对比与[[Meaningful Human Control|人在回路]]准则。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 9)]] — 阐明计算机软件辅助[[Winnowing\|数据筛选]]与 5–7 个主题聚合的实操流程，强调软件不替代研究者分析责任，并梳理现代主流软件包。
 > - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 在 NVivo 11 中结合[[Open Coding\|开放编码]]与基于[[Third Generation Activity Theory\|第三代活动理论]]（3GAT）六构件的[[Template Analysis\|模板分析]]，对 25 份[[Semi-structured Interview\|半结构化访谈]]展开扎根编码与矛盾解析。

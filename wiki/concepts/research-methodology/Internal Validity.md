@@ -6,7 +6,7 @@ aliases:
 summary: "研究对某一特定事件、问题或数据集的解释实际上能为数据所支撑的程度，在量化研究中关乎因果推断的可信性，在质性研究中转化为可信性、真实性和可确认性等标准"
 type: concept
 domain: "research-methodology"
-related_count: 62
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Rich and Thick Description]]"
   - "[[Evidence Ecosystem]]"
-  - "[[Growth]]"
   - "[[Attrition]]"
   - "[[Operationalization]]"
   - "[[Qualitative Validity]]"
@@ -82,7 +81,7 @@ related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
 status: draft
 created: 2026-05-31
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 # Internal Validity
 
@@ -169,7 +168,7 @@ updated: 2026-09-17
 
 > [!claim] [[Experimental Research\|实验研究]]中的内部效度威胁分类与控制
 > **内部效度威胁的三维分类与控制机制** 实验研究中的内部效度威胁源于三个主要维度，研究者必须通过严格设计予以规避：
-> 1. **受试者维度威胁** 涵盖历史因素（实验期间外部突发事件干扰[[Dependent Variable\|因变量]]）、成熟因素（被试生理心理自然[[Growth\|成长]]混淆干预效果）、统计回归（极端得分受试者向均值回归产生的虚假增益）、选择偏差（组间初始不均衡导致的系统偏误）以及被试[[Attrition\|流失]]（退出者与坚持者特征不一致扭曲最终效果）。
+> 1. **受试者维度威胁** 涵盖历史因素（实验期间外部突发事件干扰[[Dependent Variable\|因变量]]）、成熟因素（被试生理心理自然成长混淆干预效果）、统计回归（极端得分受试者向均值回归产生的虚假增益）、选择偏差（组间初始不均衡导致的系统偏误）以及被试[[Attrition\|流失]]（退出者与坚持者特征不一致扭曲最终效果）。
 > 2. **实验处理维度威胁** 涵盖处理扩散（对照组与实验组交流导致方案污染）、补偿性竞争（对照组因竞争心理加倍努力以抗衡实验组）以及补偿性怨恨（对照组因未获处理产生挫折与消极行为）。
 > 3. **实验程序维度威胁** 涵盖测验效应（[[Pre-test and Post-test\|前测]]练习使受试者熟悉试卷产生虚假进步）以及测量工具变异（前后测工具难度不一或评分标准发生漂移）。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 8)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, pp. 164–166)]]
 

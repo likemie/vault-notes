@@ -47,7 +47,6 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Phronesis]]"
   - "[[Homework]]"
-  - "[[Dialogue in Education]]"
   - "[[Reflexivity]]"
   - "[[Professional Learning Community]]"
   - "[[Champ]]"
@@ -85,7 +84,7 @@ title: "Argument_Brown_2017_ER"
 argument_key: "Argument_Brown_2017_ER"
 argument_display_title: "Combining the best of two worlds: A conceptual proposal for evidence-informed school improvement"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -288,7 +287,7 @@ ESTI 探究循环不仅规范了技术程序，更为实践者提供了一种重
 > [!case] 案例：实践者认知重塑——从外部归咎到主动探究
 > 在学校开展自我改进的初始阶段，实践者往往持有根深蒂固的防御性假设与外部归咎心理（deficit thinking），常将学生学习不良的原因归咎于外部主体或不可控因素，例如认为问题在于学生家庭背景差、家长不配合、上一学段基础薄弱（Timperley, Kaser, and Halbert, 2014）。
 > ESTI 模型的关键价值在于，它既不生硬否定教师的直觉与经验，也不纵容无休止的外部推诿，而是通过第二步与第三步的探究机制，引导教师将这些主观臆断转化为明确、可检验的实证假设（testable hypotheses），并利用客观校本数据（如学生访谈、课堂交互观察记录、形成性[[Homework\|作业]]分析）进行严谨质检与验证（Schildkamp and Poortman, 2015; Schildkamp et al., 2016）。
-> 在荷兰数据团队的实际运行中，多所学校正是通过多源数据的审验，推翻了学生不努力的传统偏见，促使教师群体直面课堂教学法单一、评价反馈滞后等自身能够掌控的内部根因。这种基于证据的[[Dialogue in Education\|对话]]机制，促成了教师心态的根本性飞跃——从被动抱怨他人应该怎么做，彻底转向主动反思我们能在本校教学中做些什么来促进学生学习（Schildkamp and Poortman, 2015; Schildkamp et al., 2016; Timperley, Kaser, and Halbert, 2014）。这充分证明，ESTI 不仅是一套技术程序，更是一种促进专业能动性与[[Reflexivity\|反思性]]实践的文化重塑机制。（pp. 166–167）
+> 在荷兰数据团队的实际运行中，多所学校正是通过多源数据的审验，推翻了学生不努力的传统偏见，促使教师群体直面课堂教学法单一、评价反馈滞后等自身能够掌控的内部根因。这种基于证据的对话机制，促成了教师心态的根本性飞跃——从被动抱怨他人应该怎么做，彻底转向主动反思我们能在本校教学中做些什么来促进学生学习（Schildkamp and Poortman, 2015; Schildkamp et al., 2016; Timperley, Kaser, and Halbert, 2014）。这充分证明，ESTI 不仅是一套技术程序，更是一种促进专业能动性与[[Reflexivity\|反思性]]实践的文化重塑机制。（pp. 166–167）
 
 #### 2. ESTI 落地运转的三大核心组织与专业支撑机制
 

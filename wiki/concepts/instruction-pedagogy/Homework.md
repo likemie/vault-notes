@@ -8,7 +8,7 @@ aliases:
 summary: "教师布置并在校外非教学时段由学生独立或在支持下完成的学习任务，其学业效果受学段认知发展高度调节，并在元分析构念聚合与比较基线不对等上面临方法学争议"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Effective Teaching]]"
   - "[[Learning Gain]]"
+  - "[[Open-Mindedness]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Teaching Assistant]]"
   - "[[Feedback]]"
@@ -74,7 +75,7 @@ related_instruments:
 confidence: high
 status: active
 created: '2026-06-08'
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Homework
@@ -95,7 +96,7 @@ updated: 2026-09-22
 > [!boundary]- 概念边界与活动形态辨析
 > [[Steve Higgins\|史蒂夫·希金斯]]（[[Argument_Higgins_2016_ROE\|Higgins, 2016, pp. 37–38]]）系统指出了被笼统归类为“家庭作业”的各类异质性学习形态及其边界张力：
 > - **早期亲子共读 vs 独立学业任务** 五岁幼童带绘本回家与父母共读，实质属于家庭读写环境（HLE）与亲子互动干预，与初高中生独立完成代数习题或实验报告在认知机制上存在质的差异。
-> - **机械操练 vs 理解探究** 为考试背诵乘法表或机械抄写单词，侧重于程序性规则的底层固化；而针对开放性议题开展预习阅读、撰写反思论文或完成跨学科项目，侧重于[[Higher-Order Thinking Skills\|高阶思维]]构建与概念整合。
+> - **机械操练 vs 理解探究** 为考试背诵乘法表或机械抄写单词，侧重于程序性规则的底层固化；而针对[[Open-Mindedness|开放性]]议题开展预习阅读、撰写反思论文或完成跨学科项目，侧重于[[Higher-Order Thinking Skills\|高阶思维]]构建与概念整合。
 > - **校内“作业俱乐部（Homework Clubs）” vs 居家独立完成** 部分弱势学校为学生设立课后作业俱乐部，实际上是在受监督的学校物理环境内由教师或[[Teaching Assistant\|助教]]提供即时辅导，已脱离纯粹居家作业的无支架属性。
 > - **常规课后练习 vs 决定毕业的考试课程作业（Coursework）** 平时形成性巩固练习具有试错容许度，而计入终结性考评的高利害统考作业则直接受评价焦虑与作弊风险驱动。
 > - **逐本批改作业（Marking Books）vs 课堂全班集中反馈（Whole-Class [[Feedback]]）** 切斯特·埃多瓦尔德（Chester Edovald）与克莱尔·内维尔（Claire Nevill）指出，教师耗费海量工时在学生作业本上逐题书写评语，与课堂上针对共性错因开展全班形成性互动诊断，属于两种完全不同的反馈动员路径。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]

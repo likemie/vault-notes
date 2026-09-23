@@ -9,9 +9,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
 fact_related_color: "#dcfce7"
 tags:
   - "theme/university-industry-collaboration"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Strategic Partnership]]"
-  - "[[Growth]]"
   - "[[Partnership Continuum]]"
 related_theories: []
 related_methods:
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-09-11
+updated: 2026-09-22
 ---
 
 # University Industry Innovation Network
@@ -49,7 +48,7 @@ updated: 2026-09-11
 ## 核心产出
 
 > [!abstract]
-> - **University Industry Innovation Magazine（UIIM）** 2021 年 3 月刊为"Strategic Partnerships with Industry"专刊，总结了[[Strategic Partnership\|产学战略伙伴关系]]的关键特征：伙伴之间的信任、互利目标、持续联络人、战略路线图、长期规划、年度目标设定与核算，以及调整、转向和[[Growth\|成长]]的能力([[Argument_Burrus_Patera_2025_PartnershipBuilding\|Burrus & Patera, 2025, p.78]])。
+> - **University Industry Innovation Magazine（UIIM）** 2021 年 3 月刊为"Strategic Partnerships with Industry"专刊，总结了[[Strategic Partnership\|产学战略伙伴关系]]的关键特征：伙伴之间的信任、互利目标、持续联络人、战略路线图、长期规划、年度目标设定与核算，以及调整、转向和成长的能力([[Argument_Burrus_Patera_2025_PartnershipBuilding\|Burrus & Patera, 2025, p.78]])。
 > - **专业活动** 与 [[University Industry Demonstration Partnership\|UIDP]]、[[Network of Academic Corporate Relations Officers\|NACRO]] 和 Government-University-Industry Philanthropy Research Roundtable 并列为产学专业人员的主要交流平台([[Argument_Burrus_Patera_2025_PartnershipBuilding\|Burrus & Patera, 2025, p.74]])。
 
 ---

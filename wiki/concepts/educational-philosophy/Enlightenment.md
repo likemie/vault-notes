@@ -117,8 +117,8 @@ updated: 2026-09-21
 启蒙运动对现代教育学与比较教育学科奠基的深刻塑造展现为五大支柱：
 
 > [!feature] 核心要素
-> - **理性的公共运用与公民批判自主（Public Reason and Critical Autonomy）** 确立现代教育的首要使命是破除教条盲从，保障受教育者在社会公共生活中享有公开运用理性的自由，使公众[[Growth\|成长]]为心智成熟的现代公民。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 20)]]
-> - **自然自由与儿童中心身心潜能发展（Natural Freedom and Child-Centered Growth）** 承袭[[Jean-Jacques Rousseau\|卢梭]]《爱弥儿》与[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]的感官[[Bildung\|教化]]法，主张教育必须尊重受教育者的天赋潜能与个性，使教师成为引导儿童自我发展的外部助力而非惩戒暴君。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 20, 24)]]
+> - **理性的公共运用与公民批判自主（Public Reason and Critical Autonomy）** 确立现代教育的首要使命是破除教条盲从，保障受教育者在社会公共生活中享有公开运用理性的自由，使公众成长为心智成熟的现代公民。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 20)]]
+> - **自然自由与儿童中心身心潜能发展（Natural Freedom and Child-Centered [[Growth]]）** 承袭[[Jean-Jacques Rousseau\|卢梭]]《爱弥儿》与[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]的感官[[Bildung\|教化]]法，主张教育必须尊重受教育者的天赋潜能与个性，使教师成为引导儿童自我发展的外部助力而非惩戒暴君。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 20, 24)]]
 > - **教育、政治学与民族国家构建的三位一体（Triad of Education, Politics, and State-Building）** 启蒙运动将国民公共教育定位为国家公共工程与政治科学的核心维度，将学校确立为塑造具有爱国认同与法律敬畏的现代公民的根本熔炉（Talleyrand, Condorcet, Bentham, Jullien）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 19–20, 25)]]
 > - **公共领域的理性重构与现代性工程（Reconstruction of the Public Sphere）** 如[[Jürgen Habermas\|哈贝马斯]]所论证，启蒙现代性工程的核心任务在于通过客观科学、普遍道德与法律理性重构公共领域，而各级公共学校的理性化组织正是实现这一现代性工程的必要前提。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 25)]]
 > - **经验实证归纳与超国家和平治理愿景（Transnational [[Empiricism]] and Peace Governance）** 催生了比较教育的[[Proto-Scientific Motif\|准科学母题]]：将培根知识统一观、居维叶比较解剖学类比与标准化[[Questionnaire\|问卷]]相结合，致力于通过跨国比较经验事实消除民族偏狭，构建人类[[Perpetual Peace\|永久和平]]共同体。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 11–13, 21–24)]]

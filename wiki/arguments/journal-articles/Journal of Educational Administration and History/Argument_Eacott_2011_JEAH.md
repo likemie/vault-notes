@@ -9,7 +9,7 @@ title: "Argument_Eacott_2011_JEAH"
 argument_key: "Argument_Eacott_2011_JEAH"
 argument_display_title: "Preparing 'educational' leaders in managerialist times: an Australian story"
 argument_kind: "journal-article"
-argument_related_count: 13
+argument_related_count: 12
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Doxa]]"
-  - "[[Dialogue in Education]]"
   - "[[Document]]"
   - "[[Rationalism in International Relations]]"
   - "[[Hypothesis]]"
@@ -74,7 +73,7 @@ Eacott 的核心论点是：NSW 的校长培养不过是"当代国家对公共�
 - **[[Doxa|自明真理]]** 被视为理所当然的正统。在[[School Leadership|学校领导力]]中，doxa 将校长建构为"系统议程的地方面孔"(p.45)
 - **资本** 在场域中被视为最有价值的资源。在学校领导力中，资本日益以经济语言被定义(p.50)
 
-论文还借鉴了 Oakeshott and Bates 的"加入世界[[Dialogue in Education|对话]]"（join the conversation of the world）概念，以及 English 的"知识动态"（knowledge dynamic），作为替代性领导力培养的哲学基础(p.43-44)。
+论文还借鉴了 Oakeshott and Bates 的"加入世界对话"（join the conversation of the world）概念，以及 English 的"知识动态"（knowledge dynamic），作为替代性领导力培养的哲学基础(p.43-44)。
 
 
 ## 研究方法
@@ -131,7 +130,7 @@ Eacott 提出(p.56-58)：
 2. [[School Leadership|学校领导力]] [[Doxa]] 通过学校本位规划、择优晋升、领导力能力框架和竞争性入学等结构安排，将校长身份建构为"国家改革的交付者"(p.45, 52)
 3. 证据本位实践和技术-[[Rationalism in International Relations|理性主义]]方法构成了这一 doxa 的核心，但 English 论证其"使学校变蠢"——将教学简化为数字，消除了对"谁决定什么是重要的"这一问题的追问(p.50)
 4. 校长位于多重社会场域交叉点的独特社会空间——向内看（教育实践本身的目的）与向外看（经济和政治的成功衡量）之间的持续张力导致[[Habitus|习性]]"被分裂为对抗自身"(p.48-49)
-5. 替代方案需要一种基于"教育问题提出与争辩"的领导习性——引入参与者"加入世界[[Dialogue in Education|对话]]"，这要求跨边界（地理和场域）的阅读(p.57-58)
+5. 替代方案需要一种基于"教育问题提出与争辩"的领导习性——引入参与者"加入世界对话"，这要求跨边界（地理和场域）的阅读(p.57-58)
 
 > [!info]- 核心数据
 > - NSW 公立学校系统：约 740,000 学生、50,000+ 教师、2,200+ 学校(p.43)
@@ -168,7 +167,7 @@ Eacott 提出(p.56-58)：
 > - **大学本位偏见** 作者承认对"大学本位、理论丰富的项目"存在"潜在特权化"，尽管声明试图同时问题化两种立场以避免现代主义二元对立
 > - **NSW 案例的推广性** 论文聚焦单一系统（NSW 公立学校），其结论向其他情境（私立学校、其他州/国家）的推广需要谨慎
 > - **缺乏实证数据** 作为理论／政策分析而非实证研究，论文未提供校长或项目参与者的直接经验数据
-> - **替代方案的具体性不足** 虽然提出了"加入世界[[Dialogue in Education\|对话]]"的哲学方向，但未提供具体的课程设计或实施方案
+> - **替代方案的具体性不足** 虽然提出了"加入世界对话"的哲学方向，但未提供具体的课程设计或实施方案
 
 
 ## 来源

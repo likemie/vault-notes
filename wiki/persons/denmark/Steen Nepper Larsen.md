@@ -7,7 +7,7 @@ summary: "丹麦教育哲学学者，Bildung 复兴与 Visible Learning 批判�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 25
+person_related_count: 24
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[Learnification]]"
-  - "[[Dialogue in Education]]"
   - "[[Neuroplasticity]]"
   - "[[Bildung]]"
   - "[[Ontology]]"
@@ -52,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-09-11
+updated: 2026-09-22
 ---
 ## 简介
 
@@ -64,7 +63,7 @@ updated: 2026-09-11
 > [!note-] 生平与职涯
 > - 任职于奥胡斯大学丹麦教育学院（Danish School of Education, Aarhus University），位于哥本哈根
 > - 1965 年开始上学，亲身经历了丹麦教育从"indlæring"（注入式学习）话语到"læring"（学习）话语、再到当代 [[Learnification]] 的历史变迁([[Argument_Larsen_2019_EducSci\|Larsen, 2019, p.8]])
-> - 2018 年 10 月在哥本哈根与 [[John Hattie]] 进行公开[[Dialogue in Education\|对话]]，主题为"教育的目的"（The Purpose of Education）（[[Argument_Larsen_2019_EducSci\|Larsen, 2019]], Ref.10）
+> - 2018 年 10 月在哥本哈根与 [[John Hattie]] 进行公开对话，主题为"教育的目的"（The Purpose of Education）（[[Argument_Larsen_2019_EducSci\|Larsen, 2019]], Ref.10）
 > - 2013 年在惠灵顿维多利亚大学发表关于[[Neuroplasticity\|神经可塑性]]当代趣味与局限的分析
 > - 2015 年发表对 Hattie 证据信条的盲点分析
 
@@ -76,7 +75,7 @@ updated: 2026-09-11
 > - Larsen, S. N. (2016). *At Ville Noget Med Nogen. Filosofiske og Samtidskritiske Fragmenter om Dannelse og Pædagogik* [想要对某人做什么：关于 Bildung 与教育学的哲学与当代批判片段]. Turbine. — 关于 Bildung 与教育学的丹麦语哲学著作
 > - Larsen, S. N. (2015). Blind Spots in [[John Hattie]]'s Evidence Credo. *Journal of Academic Perspectives*, 1. — 对 Hattie 证据信条的系统盲点分析
 > - Larsen, S. N. (2014). Compulsory [[Creativity]]—A Critique of Contemporary Cognitive Capitalism. *Culture Unbound*, 6. — 对当代认知资本主义的批判
-> - Hattie, J. & Larsen, S. N. (2019). The Purpose of Education—A conversation between John Hattie and Steen Nepper Larsen. Unpublished. — 与 Hattie 的公开[[Dialogue in Education\|对话]]
+> - Hattie, J. & Larsen, S. N. (2019). The Purpose of Education—A conversation between John Hattie and Steen Nepper Larsen. Unpublished. — 与 Hattie 的公开对话
 
 ## 核心思想
 

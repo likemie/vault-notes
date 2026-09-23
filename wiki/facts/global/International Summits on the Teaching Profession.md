@@ -24,7 +24,6 @@ tags:
   - theme/evidence-informed-policy
   - theme/social-dialogue
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
   - "[[School Leadership]]"
@@ -32,6 +31,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Performance Indicators]]"
   - "[[Research Utilization]]"
+  - "[[Dialogue in Education]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -62,7 +62,7 @@ updated: 2026-09-18
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 国际教师职业峰会（International Summits on the Teaching Profession，ISTP）是 2011 年由美国教育部、[[National Education Association\|全美教育协会]]（[[National Education]] Association，NEA）、美国教师联盟（American Federation of Teachers，AFT）、[[OECD\|经合组织]]（Organisation for Economic Co-operation and Development，OECD）与[[Education International\|国际教育协会]]（Education International，EI）联合创设的年度高层跨国峰会，系全球教育治理中唯一制度化保障民选教育部长与全国性教师工会领袖基于前沿实证研究开展闭门平等磋商的战略[[Dialogue in Education\|对话]]平台。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211, 216)]]
+> 国际教师职业峰会（International Summits on the Teaching Profession，ISTP）是 2011 年由美国教育部、[[National Education Association\|全美教育协会]]（[[National Education]] Association，NEA）、美国教师联盟（American Federation of Teachers，AFT）、[[OECD\|经合组织]]（Organisation for Economic Co-operation and Development，OECD）与[[Education International\|国际教育协会]]（Education International，EI）联合创设的年度高层跨国峰会，系全球教育治理中唯一制度化保障民选教育部长与全国性教师工会领袖基于前沿实证研究开展闭门平等磋商的战略对话平台。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211, 216)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 2011 年启动第一届峰会，此后每年由不同的 OECD 成员国轮流主办，常态化延续至今。
@@ -78,7 +78,7 @@ updated: 2026-09-18
 > 唯有当教育决策者将有组织的教师专业集体视作平等的改革设计伙伴，并在去政治化、充分保密与实证研究支撑的环境下共同审议现实难题，才能克服自上而下的政策执行断层，制定出真正改善学生学习成效与教师福祉的卓越制度体系。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211–212)]]
 
 > [!policy-design]- 方案设计
-> - **项目目标** 搭建部级政界领导与一线教师工会首脑之间的非对抗性[[Dialogue in Education\|对话]]渠道；基于 [[OECD]] 与 EI 的实证调查识别全球教师职业共性挑战；为各国未来一年的教育立法与政策调整设定行动目标。
+> - **项目目标** 搭建部级政界领导与一线教师工会首脑之间的非对抗性对话渠道；基于 [[OECD]] 与 EI 的实证调查识别全球教师职业共性挑战；为各国未来一年的教育立法与政策调整设定行动目标。
 > - **议事规则** 采取严格的闭门保密协商机制（类同查塔姆研究所原则），杜绝媒体记者入场与现场政治作秀，确保参会部长与工会领袖能够开诚布公地坦陈本土改革的痛点与阻力。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 211)]]
 > - **双轨实证支撑** 每届峰会主题均由 OECD（如 [[Andreas Schleicher]] 主笔）与 EI（[[Education International\|国际教育协会]]研究院）分别编制独立的背景研究综合报告，确保对话完全扎根于严谨的实证数据而非意识形态辩论。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211, 216)]]
 
@@ -148,7 +148,7 @@ updated: 2026-09-18
 > > - **执行断层** 若本土教育体制缺乏配套财政支持与工会集体谈判权保障，国际峰会承诺易沦为空洞外交辞令。
 
 > [!lessons] 经验教训与启示
-> - **实证能力是工会[[Dialogue in Education\|对话]]的前提** 教师工会若想在跨国政策博弈中获得真正平等的话语权，必须建立自身独立的学术研究机构与实证数据挖掘能力，以扎实证据替代感性道德诉求。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210, 212)]]
+> - **实证能力是工会对话的前提** 教师工会若想在跨国政策博弈中获得真正平等的话语权，必须建立自身独立的学术研究机构与实证数据挖掘能力，以扎实证据替代感性道德诉求。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210, 212)]]
 > - **超越二元对立的交往审议价值** 证明了将对立利益相关方置于共同研究证据面前开展结构化对话，是化解公共政策深层价值分歧的最有效途径。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211–212)]]
 
 ---

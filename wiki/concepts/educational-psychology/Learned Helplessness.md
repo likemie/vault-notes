@@ -8,7 +8,7 @@ aliases:
 summary: "学习者在经历挑战或挫折时，因将困难归因于不可改变的天生能力匮乏而产生的消极行为与认知模式。表现为低自尊、失败恐惧、迅速放弃努力及负面评价泛化，是实体智力观与固定/快速学习认识论信念的典型行为表征。"
 type: concept
 domain: "educational-psychology"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Problem Solving]]"
   - "[[Epistemology]]"
-  - "[[Growth]]"
   - "[[Academic Achievement]]"
   - "[[Self-Regulated Learning]]"
   - "[[Task Structure]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Learned Helplessness
@@ -118,7 +117,7 @@ updated: 2026-09-17
 > 长期学困生的认知系统普遍被固定快速学习能力信念所禁锢。
 
 > [!claim] Qian & Alvermann (1995); [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]]
-> **学业阶梯中的[[Epistemology\|认识论]]无助断层** 在中学科学教育实证中，固定与快速学习能力（Fixed and Quick Ability to Learn，FQAL）信念是预测学[[Growth\|生长]]期总体[[Academic Achievement\|学业成就]]预估值（EOAA）的最强因子（$\Delta R^2 = .08, p < .001$）。低学业成就组在固定能力信念上的幼稚程度显著高于高成就组（$M = .31$ vs $-.24, p < .001, \eta^2 = .08$）。学困生普遍深信能力天生且无法提升，这种认识论无助感使其在日常学习中长期处于低努力投入与防御性回避状态。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, pp. 318-320)]]
+> **学业阶梯中的[[Epistemology\|认识论]]无助断层** 在中学科学教育实证中，固定与快速学习能力（Fixed and Quick Ability to Learn，FQAL）信念是预测学生长期总体[[Academic Achievement\|学业成就]]预估值（EOAA）的最强因子（$\Delta R^2 = .08, p < .001$）。低学业成就组在固定能力信念上的幼稚程度显著高于高成就组（$M = .31$ vs $-.24, p < .001, \eta^2 = .08$）。学困生普遍深信能力天生且无法提升，这种认识论无助感使其在日常学习中长期处于低努力投入与防御性回避状态。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, pp. 318-320)]]
 
 ---
 
@@ -158,7 +157,7 @@ updated: 2026-09-17
 
 > [!critique] 方法论反思与干预边界
 > - **情境特异性 vs 特质化泛化的测量张力** 早期研究常将习得性无助视为稳定的个体特质，但现代学习科学表明，无助反应高度依赖于具体的学科领域、任务难度与教师反馈语境。
-> - **[[Growth\|成长]]型思维干预的[[Ecological Validity\|生态效度]]争议** 尽管重塑增长型能力信念能有效缓解习得性无助，但若缺乏配套的高阶学习策略指导与适宜的任务[[Scaffolding\|脚手架]]，单纯的口头信念鼓励难以在复杂劣构问题中产生长久疗效。
+> - **[[Growth Mindset|成长型思维]]干预的[[Ecological Validity\|生态效度]]争议** 尽管重塑增长型能力信念能有效缓解习得性无助，但若缺乏配套的高阶学习策略指导与适宜的任务[[Scaffolding\|脚手架]]，单纯的口头信念鼓励难以在复杂劣构问题中产生长久疗效。
 
 ---
 

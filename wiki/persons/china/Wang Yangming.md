@@ -10,7 +10,7 @@ summary: "明代心学思想家，以良知说和知行合一反对程朱理学�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,7 +27,6 @@ tags:
 related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Sage]]"
-  - "[[Dialogue in Education]]"
   - "[[Four Sprouts]]"
   - "[[Praxis]]"
   - "[[Subjectivism]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-09-11
+updated: 2026-09-22
 ---
 # Wang Yangming
 
@@ -70,7 +69,7 @@ updated: 2026-09-11
 ## 主要著作
 
 > [!abstract]
-> - 《传习录》（Instructions for Practical Living）— 记录其讲学内容的[[Dialogue in Education\|对话]]体著作
+> - 《传习录》（Instructions for Practical Living）— 记录其讲学内容的对话体著作
 > - 相关诗文和书信
 
 ---

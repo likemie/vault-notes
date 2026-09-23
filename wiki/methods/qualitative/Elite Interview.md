@@ -24,12 +24,12 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Dialogue in Education]]"
   - "[[Reliability]]"
   - "[[Interpretive Validity]]"
   - "[[Document]]"
   - "[[Informed Consent]]"
   - "[[Research Question]]"
+  - "[[Open-Mindedness]]"
   - "[[Professional Judgment]]"
   - "[[Central Phenomenon]]"
   - "[[Epistemological Break]]"
@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-09-17
+updated: 2026-09-23
 ---
 
 # Elite Interview
@@ -94,7 +94,7 @@ updated: 2026-09-17
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 采取[[Constructivist Paradigm\|建构主义]]与[[Critical Realism\|批判实在论]]立场，将精英口述视作浸润了行动者主观立场、利益诉求与制度规范的解释性叙事，而非未经反思的纯粹客观史实。
-> - **研究者角色** 要求研究者具备高度的专业领域洞察力与理论敏感性，在访谈中既充当平等的专业[[Dialogue in Education\|对话]]者，又保持审慎的批判距离，积极克服权力不对称带来的信息壁垒。
+> - **研究者角色** 要求研究者具备高度的专业领域洞察力与理论敏感性，在访谈中既充当平等的专业对话者，又保持审慎的批判距离，积极克服权力不对称带来的信息壁垒。
 > - **有效性标准** 遵循[[Qualitative Research\|质性研究]]的可[[Reliability\|信度]]（Credibility）、可确认性（Confirmability）与[[Triangulation\|三角互证]]（Triangulation），通过文本对照与多方证词比对确立[[Interpretive Validity\|解释效度]]。
 > - **不声称回答的问题** 不能从少数精英的主观叙述直接推断全系统层面的宏观统计分布或无偏因果[[Effect Size\|效应量]]。
 
@@ -114,7 +114,7 @@ updated: 2026-09-17
 > [!proc] 通用程序
 > 1. **界定[[Research Question\|研究问题]]与精英范围** 明确政策变迁中的核心机制疑点，框定具有实质决策介入权的行动者群体。
 > 2. **样本招募与准入突破** 运用学术网络引荐与[[Snowball Sampling\|滚雪球抽样]]获取排他性高层准入，建立保密与伦理互信。
-> 3. **深度研读与提纲定制** 预先详查受访者的公开讲话、政策参与记录与学术背景，定制兼具开放性与穿透力的[[Interview Protocol\|访谈提纲]]。
+> 3. **深度研读与提纲定制** 预先详查受访者的公开讲话、政策参与记录与学术背景，定制兼具[[Open-Mindedness|开放性]]与穿透力的[[Interview Protocol\|访谈提纲]]。
 > 4. **现场访谈与动态探询** 采用半结构化开放式提问，鼓励受访者展开阐述其[[Professional Judgment\|专业判断]]与非正式政治互动。
 > 5. **[[Coding in Qualitative Research\|质性编码]]与[[Triangulation\|三角互证]]** [[Transcription in Qualitative Research\|转录]]录音并实施匿名化处理，运用软件进行主题编码，并与同期政策文本严密对照验证。
 

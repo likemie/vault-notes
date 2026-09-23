@@ -9,7 +9,7 @@ aliases:
 summary: "指教师在宏观课程框架指引下，对教学法选择、探究实验设计、本土化课程开发与评价方式拥有充分的专业决策权与自主行动空间，是激发课堂活力与保障师资留任的核心机制"
 type: concept
 domain: "teacher-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Reflexivity]]"
   - "[[Attrition]]"
+  - "[[Open-Mindedness]]"
   - "[[Pride in Learning]]"
   - "[[STEM Education]]"
   - "[[Institutional Distrust]]"
@@ -43,7 +44,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Teacher Professional Agency
@@ -69,7 +70,7 @@ updated: 2026-09-22
 ## 核心要素
 
 > [!feature] 教师专业自主权的三大支撑支柱
-> - **教学策略与探究设计自主（Pedagogical Freedom）** 教师根据学生的认知规律与资源条件，自主选择教学方法与设计开放性实验探究。
+> - **教学策略与探究设计自主（Pedagogical Freedom）** 教师根据学生的认知规律与资源条件，自主选择教学方法与设计[[Open-Mindedness|开放性]]实验探究。
 > - **制度信任与去微观规制（Institutional Trust）** 破除逐课僵化的教案考核与繁重的形式化台账，为教师因地制宜开展教学创新提供制度空间。
 > - **全周期学科持续专业发展（Subject-Specific Continuing Professional Development, CPD）** 依托专业教研网络，持续更新学科前沿与前瞻教学法，为教师的自主决策提供专业能力支撑。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 36)]]
 

@@ -7,7 +7,7 @@ summary: "荷兰教育哲学家，教育的美丽风险作者与教育目的论�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 25
+person_related_count: 24
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Ontology]]"
   - "[[Visible Learning]]"
-  - "[[Dialogue in Education]]"
   - "[[Critical Pedagogy]]"
 related_theories:
   - "[[Transactional Epistemology]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 ## 简介
 
@@ -123,7 +122,7 @@ updated: 2026-09-18
 > - [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]在分析英国议会选择性教育政策辩论时，援引了 Biesta（2007a, 2010）对 EBE 的哲学批判作为理论基础，讨论证据在教育政策制定中的实际角色([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.3, 7]])——将 Biesta 的批判引入道德侧步的经验研究
 
 
-> [!note-] 学术[[Dialogue in Education\|对话]]与影响
+> [!note-] 学术对话与影响
 > - 与 **[[Carlos Alberto Torres]]**、**Michael Apple** 等[[Critical Pedagogy\|批判教育学]]学者的思想有对话但方向不同——Biesta 更强调教育的**存在论意义**而非政治解放
 > - 对全球教师教育（特别是英国、北欧、荷兰）的教育哲学课程产生了深远影响
 

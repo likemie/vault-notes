@@ -101,7 +101,7 @@ updated: 2026-09-17
 >   2. **认同协商（Agreement）** 促成决策者对特定研究结论与改革方向的价值认同；
 >   3. **能力建设（Skills）** 培育搜寻、评估与解读复杂学术证据的[[Research Literacy\|研究素养]]；
 >   4. **沟通可及（Communication）** 通过清晰[[Transfer Translation Transformation\|转译]]消除学术晦涩话语，提升证据触达率；
->   5. **互动机会（Interaction）** 搭建研究者与官员面对面研讨与持续[[Dialogue in Education\|对话]]的常态化平台；
+>   5. **互动机会（Interaction）** 搭建研究者与官员面对面研讨与持续对话的常态化平台；
 >   6. **结构规程（Structure）** 建立要求在政策出台前必须出具实证证据评估的行政法制规程。
 > - **中介心理状态转化链（Intermediate Psychological Outcomes）** 六大机制作用于中间心理状态——能力、动机与机会（Capability, Motivation, Opportunity / [[COM-B Model\|COM-B]] 行为改变模型），最终驱动实质性[[Research Utilization\|证据使用]]行为的发生（[[Argument_Torres_2022_KMModels\|Torres, 2022, pp. 46–47]]）。
 

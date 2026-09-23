@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -29,7 +29,6 @@ tags:
   - region/uk
 related_concepts:
   - "[[Academic Achievement]]"
-  - "[[Growth]]"
   - "[[Variable]]"
   - "[[Statistical Analysis Plan]]"
   - "[[Effective Sample Size]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-16
+updated: 2026-09-22
 ---
 
 # Teensleep
@@ -75,7 +74,7 @@ updated: 2026-09-16
 > - **立项时间与周期** 2014 年立项并启动学校动员；原定覆盖 2014 至 2016 学年，最终因招募受阻于 2016 年提前终止（Robinson, 2016）。
 > - **发起方与资助机制** 由牛津大学神经科学家柯林·埃斯皮（Colin Espie）与拉塞尔·福斯特（Russell Foster）主持研发；由 EEF 与英国惠康信托联合出资 80 余万英镑支持。
 > - **覆盖范围与对象** 原计划在英格兰招募 100 余所公立完全中学，覆盖超过 10,000 名面临普通中等教育证书（General Certificate of Secondary Education, GCSE）统考的十年级与十一年级青少年学生。
-> - **核心问题导向** 探索神经生物学关于青少年体内生物钟生理性后移的科学发现如何转化为学校组织制度，解决中学[[Growth\|生长]]期慢性睡眠剥夺导致的专注力涣散与学业落后。
+> - **核心问题导向** 探索神经生物学关于青少年体内生物钟生理性后移的科学发现如何转化为学校组织制度，解决中学生长期慢性睡眠剥夺导致的专注力涣散与学业落后。
 
 ---
 

@@ -5,7 +5,7 @@ aliases:
 summary: "Eacott 提出的批判概念，指教育领导力领域对单一权威人物及其研究的不加批判接受与制度化追捧，用于分析学术权威如何塑造知识议程。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 37
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Instructional Leadership]]"
   - "[[Return on Investment]]"
   - "[[Initial Teacher Training]]"
-  - "[[Dialogue in Education]]"
   - "[[Unit of Analysis]]"
   - "[[Emergence]]"
   - "[[Neo-Taylorism]]"
@@ -61,7 +60,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-03
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 ## 定义
@@ -106,7 +105,7 @@ updated: 2026-09-18
 > [!abstract] 大师崇拜的表征
 > - **品牌扩张** Hattie 的工作已成为一个品牌——"[[Visible Learning\|可见的学习]]（Visible Learning，VL）"标签被扩展至 Making Literacy Visible、Visible Wellbeing 等多个领域，"进一步构建品牌，证明 Hattie 品牌正在利用机会最大化优势"([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.419]])
 > - **学校自我标识** 部分学校开始自称"Hattie 学校"
-> - **制度化嵌入** Hattie 的工作已被纳入[[Initial Teacher Training\|初始教师教育]]、研究生项目、专业[[Dialogue in Education\|对话]]——"现在在澳大利亚教育中无处不在"
+> - **制度化嵌入** Hattie 的工作已被纳入[[Initial Teacher Training\|初始教师教育]]、研究生项目、专业对话——"现在在澳大利亚教育中无处不在"
 > - **专业协会背书** ACEL and Corwin 的合作伙伴关系使 Hattie 成为最大的学校领导力专业协会的官方议程([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.414, 419]])
 
 ## 与相关概念的区别
@@ -148,7 +147,7 @@ updated: 2026-09-18
 >
 > - Hattie 的回应在**两天内**被接收发表，而 Eacott 原论文经历了"数月和多轮评审"([[Argument_Eacott_2019_IJLE\|Eacott, 2019, p.777]])
 > - Hattie 以 ACEL 网站列出其他讲者为由否认"大师崇拜"的存在——Eacott 指出这回避了核心问题：尽管存在对 Hattie 方法的实质性批评，"其工作仍被政治家和协会引用时仿佛是不容置疑的事实"
-> - Eacott 被 *School Leadership & Management* 编辑拒绝发表对 Hattie 回应的再回应——Eacott 认为这一决策"说明了该领域学术工作的逻辑中对[[Dialogue in Education\|对话]]和辩论的低优先级"([[Argument_Eacott_2019_IJLE\|Eacott, 2019, p.778]])
+> - Eacott 被 *School Leadership & Management* 编辑拒绝发表对 Hattie 回应的再回应——Eacott 认为这一决策"说明了该领域学术工作的逻辑中对对话和辩论的低优先级"([[Argument_Eacott_2019_IJLE\|Eacott, 2019, p.778]])
 > - Eacott 强调其批评"不是对 Hattie 个人的攻击，甚至不是对其工作的攻击，而是对使大师崛起成为可能的条件的论证"([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.413]])
 
 

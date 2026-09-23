@@ -9,7 +9,7 @@ summary: "瑞士近代著名民主主义教育家与小学教学法之父，首�
 type: person
 nationality: switzerland
 person_region: "switzerland"
-person_related_count: 23
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Faculty Psychology]]"
   - "[[Rote Learning]]"
   - "[[Paradigm]]"
-  - "[[Growth]]"
   - "[[Establishing One's Will]]"
   - "[[Educational Meliorism]]"
   - "[[Document]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-11
+updated: 2026-09-22
 ---
 
 # Johann Heinrich Pestalozzi
@@ -79,7 +78,7 @@ updated: 2026-09-11
 比较教育史学者在追溯学科思想源流时，将裴斯泰洛齐视为人道儿童中心[[Paradigm|范式]]的重要源泉：
 
 > [!citation-card]- 人物定位的关键来源
-> 卡洛扬纳基与卡扎米亚斯指出：深受[[Jean-Jacques Rousseau\|卢梭]]与裴斯泰洛齐思想影响，朱利安希望倡导一种实用的、以儿童为中心的教育方法论，强调感官教育与适应社会生活的准备，一切均带有鲜明的人道主义色彩……朱利安在 1810 年访问瑞士伊弗东裴斯泰洛齐学校后确立了核心法则：教育在于使儿童顺应自然天性，让身体、心灵与理智的固有潜能得到和谐充分的自主[[Growth\|生长]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 18, 20)]]
+> 卡洛扬纳基与卡扎米亚斯指出：深受[[Jean-Jacques Rousseau\|卢梭]]与裴斯泰洛齐思想影响，朱利安希望倡导一种实用的、以儿童为中心的教育方法论，强调感官教育与适应社会生活的准备，一切均带有鲜明的人道主义色彩……朱利安在 1810 年访问瑞士伊弗东裴斯泰洛齐学校后确立了核心法则：教育在于使儿童顺应自然天性，让身体、心灵与理智的固有潜能得到和谐充分的自主生长。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 18, 20)]]
 >
 > *Influenced as he was by the ideas of Rousseau and Pestalozzi, he wished to encourage a practical, child-centered educational methodology that emphasized, among other things, education of the senses and preparation for life in society, all with a humanitarian emphasis.* (Noah & Eckstein, 1969:16; Palmer, 1993:163–164)
 

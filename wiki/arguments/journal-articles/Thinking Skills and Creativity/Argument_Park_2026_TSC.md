@@ -54,6 +54,7 @@ related_concepts:
   - "[[Predictive Validity]]"
   - "[[Effective Teaching]]"
   - "[[Brainstorming]]"
+  - "[[Open-Mindedness]]"
 related_theories:
   - "[[Creative Problem Solving]]"
 related_methods:
@@ -106,7 +107,7 @@ title: "Argument_Park_2026_TSC"
 argument_key: "Argument_Park_2026_TSC"
 argument_display_title: "Exploring the intersection of creativity and critical thinking among students: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 68
+argument_related_count: 69
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -522,7 +523,7 @@ issuing_organization: ""
 ## 自述局限
 
 > [!warning] 原文自述局限与边界
-> 1. **无法剥离第三方心理属性** 相关的一部分可能归因于一般心理能力、经验开放性/智力开放性、认知需求等同时解释两个[[Construct\|构念]]的属性：一般心理能力已显示与[[Creativity\|创造力]]相关（Gerwig et al., 2021; Kim, 2008），[[Critical Thinking\|批判性思维]]被讨论为智力的潜在再定义（Halpern, 2003），甚至两者都可能被视为智力的组成（Albergaria-Almeida, 2011）；且两者均与开放性正相关（Feist, 1998; Clifford et al., 2004）。控制这些[[Variable\|变量]]后相关可能被削弱。（pp. 10–11）
+> 1. **无法剥离第三方心理属性** 相关的一部分可能归因于一般心理能力、经验[[Open-Mindedness|开放性]]/智力开放性、认知需求等同时解释两个[[Construct\|构念]]的属性：一般心理能力已显示与[[Creativity\|创造力]]相关（Gerwig et al., 2021; Kim, 2008），[[Critical Thinking\|批判性思维]]被讨论为智力的潜在再定义（Halpern, 2003），甚至两者都可能被视为智力的组成（Albergaria-Almeida, 2011）；且两者均与开放性正相关（Feist, 1998; Clifford et al., 2004）。控制这些[[Variable\|变量]]后相关可能被削弱。（pp. 10–11）
 > 2. **[[Creativity\|创造力]]测量难以纯粹** 创造力是多面构念，几乎不可能在无干扰因素下纯粹测量（Baer, 2012）；[[Divergent Thinking\|发散思维]]流畅性得分（Torrance, 2008）、自陈创造力（Kaufman, 2012）与专家评定的领域特定产品（Lubart et al., 2011）在测量性质上差异很大，任务间具体技能重叠可能使相关虚高（如分析思维任务与科学创造力测验的高度关联，Hassan & Madhum, 2007; Hu & Adey, 2002）。（p. 11）
 > 3. **个体间证据不能推及个体内** 相关基于个体间变异，不能直接推及个体内共同变化，需要纵向与交叉滞后研究验证方向性（Molenaar, 2004; Kenny, 1975）。（p. 10）
 > 4. **偏倚检验的能力边界** 非显著的[[Funnel Plot\|漏斗图]]不对称检验不能证明[[Publication Bias\|发表偏倚]]不存在。（pp. 6–7）

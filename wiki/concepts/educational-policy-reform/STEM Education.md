@@ -40,7 +40,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Productive Failure]]"
   - "[[Domain Specificity]]"
-  - "[[Knowledge Production]]"
   - "[[Scientific Method]]"
   - "[[Causality]]"
   - "[[Socioscientific Issues]]"
@@ -54,6 +53,7 @@ related_concepts:
   - "[[Chain of Evidence]]"
 related_theories:
   - "[[Inquiry Cycle]]"
+  - "[[Knowledge Building Theory]]"
   - "[[Knowledge Integration]]"
 related_persons:
   - "[[Ton de Jong]]"
@@ -156,7 +156,7 @@ updated: 2026-09-22
 ### 命题二　STEM 各子学科遵循异质性的认识论规范，跨学科教学必须兼顾探究、工程设计与社会议题的特异性规程
 
 > [!concept-lens] [[Domain Specificity\|学科特异性]]与家族相似性
-> 探讨 STEM 内部科学、工程与社会议题在[[Knowledge Production\|知识建构]]标准、证据要求与评价尺度上的深层差异，防范将 STEM 简化为无差别的抽象五步法。
+> 探讨 STEM 内部科学、工程与社会议题在[[Knowledge Building Theory|知识建构]]标准、证据要求与评价尺度上的深层差异，防范将 STEM 简化为无差别的抽象五步法。
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]
 > **跨学科规程异质性与[[Epistemic Practices\|认识论实践]]矩阵** STEM 教育不是将所有门类融为单一教条的[[Scientific Method\|科学方法]]，各子学科之间展现出“家族相似性”而非绝对同一性。探究式科学（如物理探究）以解释自然为旨归，遵循严格受控实验与[[Causality\|因果推断]]规范；工程教育（Engineering Education）以满足实际需求为目的，在材料、成本与安全等多重约束下寻求最优权衡与原型折中（Cunningham & Carlsen, 2014）；而[[Socioscientific Issues\|社会科学议题]]（Socio-Scientific Issues, SSI）则进一步统合伦理、生态与公共利益，在多元价值冲突中寻求民主协商共识（Sadler, 2004）。优质 STEM 课程必须尊重各领域的[[Domain Specificity\|学科特异性]]认识论规程，引导学生体验不同知识主张的合法化路径。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 142–143, 154–157)]]

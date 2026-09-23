@@ -8,7 +8,7 @@ summary: "扎根理论质性数据分析的三级编码终局阶段，在开放�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 30
+method_related_count: 31
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Saturation]]"
   - "[[Document]]"
+  - "[[Meaningful Human Control]]"
   - "[[Assemblage]]"
   - "[[Heterogeneity]]"
   - "[[Emergence]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Selective Coding
@@ -96,7 +97,7 @@ updated: 2026-09-17
 > - **研究设计** [[Grounded Theory\|扎根理论]]（施特劳斯-科宾学派）、质性理论生成研究。
 > - **数据收集** [[Theoretical Sampling\|理论抽样]]引导下的[[In-depth Interview\|深度访谈]]、[[Participant Observation\|参与观察]]追访与焦点[[Document\|文献]]补充。
 > - **分析方法** 故事线叙述、核心范畴辨识、维度关联匹配、[[Constant Comparison\|持续比较法]]、负面案例检验。
-> - **辅助技术** 质性分析软件（[[Qualitative Computer Software\|CAQDAS]]）理论网络图、整合备忘录（integrative [[Memos]]）、大语言模型人在回路（HITL）模式扫描。
+> - **辅助技术** 质性分析软件（[[Qualitative Computer Software\|CAQDAS]]）理论网络图、整合备忘录（integrative [[Memos]]）、大语言模型[[Meaningful Human Control|人在回路]]（HITL）模式扫描。
 
 ---
 
@@ -181,7 +182,7 @@ updated: 2026-09-17
 
 > [!pathways] 现代技术赋能选择性[[Coding in Qualitative Research\|编码]]的两大路径
 > 1. **[[Qualitative Computer Software\|CAQDAS]] 网络视图与集成备忘录** 现代软件（如 NVivo、MAXQDA、ATLAS.ti）提供交互式概念网络画布。研究者可将主轴范畴节点导入视图，直观拖拽建立与[[Central Phenomenon\|核心范畴]]的定向联结，并通过撰写整合备忘录记录[[Story Line\|故事线]]的生成逻辑。
-> 2. **大语言模型人在回路（HITL）协同** [[Generative Artificial Intelligence\|生成式人工智能]]具备强大的跨文本综合与模式识别能力，能够协助研究者快速扫描庞大范畴群的潜在共性、拟定备选故事线雏形。但机器无法替代人类研究者的实地生活洞察，核心范畴的理论确立与经验回溯核验必须严格恪守人类研究者的主导地位与[[Reflexivity\|反身性]]审视。
+> 2. **大语言模型[[Meaningful Human Control|人在回路]]（HITL）协同** [[Generative Artificial Intelligence\|生成式人工智能]]具备强大的跨文本综合与模式识别能力，能够协助研究者快速扫描庞大范畴群的潜在共性、拟定备选故事线雏形。但机器无法替代人类研究者的实地生活洞察，核心范畴的理论确立与经验回溯核验必须严格恪守人类研究者的主导地位与[[Reflexivity\|反身性]]审视。
 
 ---
 

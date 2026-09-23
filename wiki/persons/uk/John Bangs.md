@@ -31,8 +31,8 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Research Utilization]]"
   - "[[Boundary Spanner]]"
-  - "[[Dialogue in Education]]"
   - "[[Whole Person Education]]"
+  - "[[Dialogue in Education]]"
   - "[[Democratising Evidence]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
@@ -110,7 +110,7 @@ updated: 2026-09-18
 >   - **代表著作** *Teacher [[Self-Efficacy]], Voice and Leadership: International Perspectives and Projects* (Bangs & Frost, 2012)。
 >   - **关键概念／方法** [[Teaching and Learning International Survey]]、[[Research Utilization]]、[[Boundary Spanner]]。
 >   - **阶段转向** 从一国经验拓展至全球治理，将教师工会塑造为跨国证据生产的共同出资人、指标设计者与独立分析者。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–211)]]
-> - **2018 年至今 — 闭门循证政治磋商与受托治理建构期** 依托 [[International Summits on the Teaching Profession\|ISTP]] 峰会探索超越党派政治周期的长效[[Dialogue in Education\|对话]]模式，在后疫情时代倡导将[[Whole Person Education\|全人教育]]、教师身心福祉与社会公正置于全球改革顶层。
+> - **2018 年至今 — 闭门循证政治磋商与受托治理建构期** 依托 [[International Summits on the Teaching Profession\|ISTP]] 峰会探索超越党派政治周期的长效对话模式，在后疫情时代倡导将[[Whole Person Education\|全人教育]]、教师身心福祉与社会公正置于全球改革顶层。
 >   - **代表著作** *Perspectives on Education Research* (Bangs et al., in Révai Ed., 2022)。
 >   - **关键概念／方法** [[International Summits on the Teaching Profession]]、[[Dialogue in Education]]、[[Democratising Evidence]]。
 >   - **阶段转向** 推动建立部长与工会平等对话的常态化制度基底，实现教育科学、劳工民主与国家治理的深度熔铸。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211–213)]]
@@ -120,7 +120,7 @@ updated: 2026-09-18
 ## 核心思想
 
 > [!claim] 核心主张
-> 教育改革陷入“政策频出却执行瘫痪”的系统性困境，根本病灶在于决策者将教师排斥在方案设计之外并贬为单纯执行命令的受试工具。真正的[[Evidence-Based Education\|循证教育]]治理必须将有组织的教师专业集体视作平等的改革设计伙伴；工会必须发展独立的实证科研能力，争取跨国数据共同所有权，并在免受政治作秀干扰的闭门保密环境下与民选高官开展基于证据的坦诚战略[[Dialogue in Education\|对话]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209–213)]]
+> 教育改革陷入“政策频出却执行瘫痪”的系统性困境，根本病灶在于决策者将教师排斥在方案设计之外并贬为单纯执行命令的受试工具。真正的[[Evidence-Based Education\|循证教育]]治理必须将有组织的教师专业集体视作平等的改革设计伙伴；工会必须发展独立的实证科研能力，争取跨国数据共同所有权，并在免受政治作秀干扰的闭门保密环境下与民选高官开展基于证据的坦诚战略对话。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209–213)]]
 
 > [!citation-card] 教师集体发声是教育改革卓越的决定性基石
 > [[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP）十余年历程沉淀出两大核心结论：第一，卓越教育体系的基石在于一支充满自信、处于专业巅峰且作为平等伙伴深度参与改革的一线教师队伍；第二，教师有组织的集体发声（organised voice of teachers）是各项教育改革取得实质成功的决定性前提。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 211)]]
@@ -137,7 +137,7 @@ updated: 2026-09-18
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 拓展了教育政治学与社会[[Dialogue in Education\|对话]]理论，将工会从传统利益集团的抗争[[Paradigm\|范式]]，重塑为具备高级学术研判能力的[[Knowledge Mediation\|知识中介]]与证据倡导者（[[Boundary Spanner\|Knowledge Broker]]）。
+> - **理论路径** 拓展了教育政治学与社会对话理论，将工会从传统利益集团的抗争[[Paradigm\|范式]]，重塑为具备高级学术研判能力的[[Knowledge Mediation\|知识中介]]与证据倡导者（[[Boundary Spanner\|Knowledge Broker]]）。
 > - **方法路径** 打破了官僚自编量表的象牙塔偏差，推动大型跨国测量工具（如 [[Teaching and Learning International Survey\|TALIS]]）融入一线教学真实[[Variable\|变量]]，开创了工会委托独立资深学者二次挖掘官方数据库的实证规程。
 > - **政策路径** 创立全球最高规格的部长-工会双边治理平台（[[International Summits on the Teaching Profession\|ISTP]]），促成各国在国家立法（如美国 [[Every Student Succeeds Act\|ESSA]] 法案）中采纳分布式领导与教师福祉指标。
 > - **跨国传播** 将英美工会参与[[Output-Oriented Governance\|循证治理]]的经验拓展至[[OECD\|经合组织]]全部成员国，为拉美、亚太等发展中地区的教师专业化发展提供了跨国行动蓝本。
@@ -151,7 +151,7 @@ updated: 2026-09-18
 
 > [!person-network] 关系网络
 > - **学术合作者** [[Andreas Schleicher]] — [[OECD]] 教育与技能司司长，长年共同筹办 [[International Summits on the Teaching Profession\|ISTP]] 峰会，联合起草跨国背景研究报告与复兴十项原则。
-> - **论辩与[[Dialogue in Education\|对话]]者** [[Mark Schneider]] & [[Dirk Van Damme]] — 在 OECD 专题论坛中分别代表官方科研出资方、比较教育学术界与班斯展开跨阵营多维学术对话。
+> - **论辩与对话者** [[Mark Schneider]] & [[Dirk Van Damme]] — 在 OECD 专题论坛中分别代表官方科研出资方、比较教育学术界与班斯展开跨阵营多维学术对话。
 > - **依托机构** [[Education International]] — 担任其高级战略顾问，主导智库建设与跨国数据维权。
 > - **协同平台** [[International Summits on the Teaching Profession]] — 联合创办并常年主持该全球最高规格教育政策峰会。
 
@@ -173,7 +173,7 @@ updated: 2026-09-18
 > > - **班斯立场（2020）** 强调教育政治具有极高敏感情境，若开放媒体公开转播，部长与工会领袖势必沦为政治作秀的傀儡，唯有在安全保密的信任空间内才能坦陈体制积弊并达成真正的改革妥协。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 211)]]
 
 > [!warning] 未解问题与边界
-> 班斯所倡导的 [[International Summits on the Teaching Profession\|ISTP]] 峰会模式在高度依赖社会[[Dialogue in Education\|对话]]传统的欧洲与北美运行良好，但在工会力量薄弱、威权管理主导或缺乏独立学术科研能力的国家，工会往往难以获得同桌平等谈判的入场券，其模式的跨制度迁移存在明显边界。
+> 班斯所倡导的 [[International Summits on the Teaching Profession\|ISTP]] 峰会模式在高度依赖社会对话传统的欧洲与北美运行良好，但在工会力量薄弱、威权管理主导或缺乏独立学术科研能力的国家，工会往往难以获得同桌平等谈判的入场券，其模式的跨制度迁移存在明显边界。
 
 ---
 

@@ -30,7 +30,8 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Rote Learning]]"
   - "[[Epistemic Resources]]"
-related_theories: []
+related_theories:
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Intervention Research]]"
@@ -50,7 +51,7 @@ title: "Argument_Sandoval_2005_SE"
 argument_key: "Argument_Sandoval_2005_SE"
 argument_display_title: "Understanding students' practical epistemologies and their influence on learning through inquiry"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -70,7 +71,7 @@ journal: Science Education
 
 > [!concept-lens] 阅读透镜
 > - **对象** 关于学生科学本质信念的[[Evaluation Research\|评估研究]]，以及关于学生科学探究实践的研究。
-> - **张力** 学生在探究中能进行复杂的[[Knowledge Production\|知识建构]]和论证，但在科学本质测试中却往往表现出非常幼稚的信念（如知识是绝对确定的，实验只是为了产生特定结果）。
+> - **张力** 学生在探究中能进行复杂的[[Knowledge Building Theory|知识建构]]和论证，但在科学本质测试中却往往表现出非常幼稚的信念（如知识是绝对确定的，实验只是为了产生特定结果）。
 > - **贡献** 提出了实践认识论与形式认识论的区分，解释了探究教学无效改变科学本质的原因，并呼吁对学生探究实践中的认识论决策进行深入研究。
 
 ---

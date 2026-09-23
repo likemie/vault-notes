@@ -8,7 +8,7 @@ summary: "贾斯汀·帕克赫斯特（Justin Parkhurst）是伦敦政治经济�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 15
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Reflexivity]]"
   - "[[Research Translation]]"
-  - "[[Dialogue in Education]]"
 related_theories:
   - "[[Good Governance of Evidence]]"
   - "[[Quality Use of Research Evidence Framework]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-22
 ---
 
 # Justin Parkhurst
@@ -122,7 +121,7 @@ updated: 2026-09-18
 
 > [!person-network] 关系网络
 > - **核心理论构件** [[Good Governance of Evidence]] — 帕克赫斯特创立的核心理论体系。
-> - **理论[[Dialogue in Education\|对话]]与引申者** [[Mark Rickinson]] 等 — 将其理论拓展至教育[[Research Utilization\|研究使用]]与学校证据生态治理领域。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, p. 147)]]
+> - **理论对话与引申者** [[Mark Rickinson]] 等 — 将其理论拓展至教育[[Research Utilization\|研究使用]]与学校证据生态治理领域。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, p. 147)]]
 > - **制度分析合作者** Benjamin Hawkins — 共同发展证据利用的政策制度主义分析模型。
 
 ---

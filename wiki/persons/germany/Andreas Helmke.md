@@ -7,7 +7,7 @@ summary: "德国教育学者和有效教学研究者，Unterrichtsqualität und 
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 7
+person_related_count: 6
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -20,7 +20,6 @@ tags:
 - region/germany
 related_concepts:
   - "[[Effective Teaching]]"
-  - "[[Dialogue in Education]]"
   - "[[Creativity]]"
   - "[[Academic Achievement]]"
   - "[[Feedback]]"
@@ -34,7 +33,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-09-11
+updated: 2026-09-22
 ---
 ## 简介
 
@@ -47,7 +46,7 @@ updated: 2026-09-11
 > - Helmke 提出了一份包含十项[[Effective Teaching\|有效教学]]质量的清单。与 Hattie、Meyer 一样，Helmke 强调教师领导、照顾个别学生、清晰目标和学习导向的课堂气氛([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.35]])。
 > - 与 Hattie 的简要概括相比，Helmke 的综合更细致。例如，Helmke 明确纳入巩固和动机等因素；Hattie 在其他著作中也强调过这两点。
 > - Helmke 讨论过文化语境与学生前提条件。他指出，学生前提不同，教学措施的效果也会不同：学科和语言基础较弱的学生，在低控制、低要求、低反馈的开放教学中表现较差；基础较强的学生则可以较好地适应这类教学([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.36]])。
-> - Helmke 也讨论亚洲文化中的表现取向。他认为，亚洲学生、教师和家长较强的表现取向可能促进成绩；但这不意味着威权、封闭的亚洲教学风格本身促进学习。亚洲学生若接受更开放、更[[Dialogue in Education\|对话]]、更鼓励[[Creativity\|创造力]]的教学，可能表现更好；欧洲学生若更重视[[Academic Achievement\|学业表现]]，也可能表现更好([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.36, 39–40]])。
+> - Helmke 也讨论亚洲文化中的表现取向。他认为，亚洲学生、教师和家长较强的表现取向可能促进成绩；但这不意味着威权、封闭的亚洲教学风格本身促进学习。亚洲学生若接受更开放、更对话、更鼓励[[Creativity\|创造力]]的教学，可能表现更好；欧洲学生若更重视[[Academic Achievement\|学业表现]]，也可能表现更好([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.36, 39–40]])。
 
 ## 主要贡献
 

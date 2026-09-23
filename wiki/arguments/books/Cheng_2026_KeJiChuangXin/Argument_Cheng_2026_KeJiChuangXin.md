@@ -12,7 +12,7 @@ title: "Argument_Cheng_2026_KeJiChuangXin"
 argument_key: "Argument_Cheng_2026_KeJiChuangXin"
 argument_display_title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
 argument_kind: "book"
-argument_related_count: 39
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer Office]]"
-  - "[[Growth]]"
   - "[[Megascience Installations]]"
   - "[[Center of Calculation]]"
   - "[[Industry Affiliate Program]]"
@@ -476,7 +475,7 @@ citation_aliases:
 > 2023年印发《北京市创新联合体组建工作指引》，支持领军企业牵头组建创新联合体。首批16个技术创新中心累计专利申请超500项，与50余所高校签署合作协议，与70余家产业链上下游企业协同开展技术攻关(p.68)。
 
 > [!info] 成果转化：应用场景与产业开发研究院
-> 中关村国家自主创新示范区作为我国第一个国家级高新技术产业开发区和第一个国家级自主创新示范区，形成"一区多园"发展格局，已成为原始创新策源地和高科技企业[[Growth\|成长]]源头。2017年发布《加快科技创新发展新一代信息技术等十个高精尖产业的指导意见》，构建"10+3"高精尖产业体系(pp.68–69)。
+> 中关村国家自主创新示范区作为我国第一个国家级高新技术产业开发区和第一个国家级自主创新示范区，形成"一区多园"发展格局，已成为原始创新策源地和高科技企业成长源头。2017年发布《加快科技创新发展新一代信息技术等十个高精尖产业的指导意见》，构建"10+3"高精尖产业体系(pp.68–69)。
 >
 > 2023年支持五家单位围绕新一代信息技术、医药健康、人工智能等领域开展产业开发研究院建设。布局建设概念验证中心和中试基地（如北京中科概念验证中心等）。2023年技术合同成交额突破8500亿元(p.69)。
 

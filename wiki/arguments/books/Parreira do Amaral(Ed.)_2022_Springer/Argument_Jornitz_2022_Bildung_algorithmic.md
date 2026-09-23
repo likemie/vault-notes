@@ -35,15 +35,15 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Didaktik]]"
   - "[[Emergence]]"
-  - "[[Knowledge Production]]"
   - "[[Gamification]]"
+  - "[[Knowledge Production]]"
   - "[[Teaching Assistant]]"
   - "[[Externalization]]"
   - "[[Reliability]]"
-  - "[[Dialogue in Education]]"
   - "[[Variable]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
+  - "[[Knowledge Building Theory]]"
   - "[[Self-Determination Theory]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -81,7 +81,7 @@ citation_aliases:
 
 - **Gruschka 的[[Didaktik|教学理论]]** 将教学行动理解为 [[Bildung]]、Erziehung（教育／教养）和 [[Didaktik]]（教学法）三者交织的"整合性星座"。Bildung 是教学的理由和目标——"处理所有从课程内容中[[Emergence|涌现]]的理解问题"(Gruschka, 2019, p.675)；Erziehung 帮助学生在 Bildung 的方向上定向；Didaktik 是教师对"哪部分知识在什么时间点、以什么数量被呈现"的安排(Gruschka, 2019, p.676)。三者不可分割——当数字工具接管了 Didaktik 和反馈的决策权，Bildung 的目标也就随之被重新定义(pp.238–239)。
 
-- **算法意义建构分析** 从信息论（Wiener, Kübler）、算法研究（Stalder, Berry）和界面设计（GUI/API 双层结构）出发，拆解算法系统如何通过数字化、量化和可视化这三个相互衔接的步骤来建构"知识"——以及这种建构与教育学意义上的[[Knowledge Production|知识建构]]为何截然对立(pp.232–236)。
+- **算法意义建构分析** 从信息论（Wiener, Kübler）、算法研究（Stalder, Berry）和界面设计（GUI/API 双层结构）出发，拆解算法系统如何通过数字化、量化和可视化这三个相互衔接的步骤来建构"知识"——以及这种建构与教育学意义上的[[Knowledge Building Theory|知识建构]]为何截然对立(pp.232–236)。
 
 ## 研究方法
 
@@ -129,7 +129,7 @@ GUI 是算法系统"捕获"用户的界面。为了维持用户交互（从而�
 
 Gamification 的设计逻辑根植于行为主义心理学——特别是 Skinner 的操作条件反射（operant conditioning）。Schüll（2014, pp.147–154）在拉斯维加斯老虎机研究中发现，硅谷开发者明确引用操作条件反射理论来建构产品。这不是巧合——在行为主义框架中，学习本身就是通过正反馈来调节和强化特定行为，**不需要理解(pp.236–237)**。
 
-> 例：Duolingo 使用连续打卡天数、宝石奖励、排行榜和晋级联赛来维持用户的学习行为。从 Gamification 的角度看，这很成功——用户每天打开 App。但一个用户可能连续打卡 100 天、获得大量宝石、升至钻石联赛，却仍然无法用所学语言进行基本的[[Dialogue in Education\|对话]]。她学到的是"如何在这个系统中获得奖励"，而不是"如何用这门语言与人交流"。这就是 Schrape（2014, p.43）所说的：如果只有行为被追踪和调节，"洞察就不再相关，理性的时代最终走向终结"。
+> 例：Duolingo 使用连续打卡天数、宝石奖励、排行榜和晋级联赛来维持用户的学习行为。从 Gamification 的角度看，这很成功——用户每天打开 App。但一个用户可能连续打卡 100 天、获得大量宝石、升至钻石联赛，却仍然无法用所学语言进行基本的对话。她学到的是"如何在这个系统中获得奖励"，而不是"如何用这门语言与人交流"。这就是 Schrape（2014, p.43）所说的：如果只有行为被追踪和调节，"洞察就不再相关，理性的时代最终走向终结"。
 
 ### 第五步：算法知识 vs Bildung 知识——两种知识观的根本对立
 
@@ -208,7 +208,7 @@ Masschelein & Ricken（2010, p.130）将 Bildung 拆解为三重关系，为批�
 ## 主要发现
 
 > [!success]
-> - 算法系统中的[[Knowledge Production\|知识建构]]与教育学的知识概念"截然对立"——前者依赖同时性和可检索性（知识是随时可调取的信息），后者要求时间和主观意义建构（知识是在时间中形成的理解）(p.235)
+> - 算法系统中的[[Knowledge Building Theory|知识建构]]与教育学的知识概念"截然对立"——前者依赖同时性和可检索性（知识是随时可调取的信息），后者要求时间和主观意义建构（知识是在时间中形成的理解）(p.235)
 > - 在算法系统中，思考被视为"干扰[[Variable\|变量]]，因为它需要时间"；而对教育而言，思考是"应该在学校中培养的核心行动"(p.238)
 > - 学习软件的即时反馈消除了教学过程中的"中间阶段"——这一阶段本可以用于反思，也正是在这一阶段 [[Bildung]] 有可能发生(pp.240–241)
 > - [[Gamification]] 在休闲活动中可能有效，但在学校语境中其奖励系统与课程主题的教育目标形成结构性竞争(p.242)

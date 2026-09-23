@@ -42,7 +42,6 @@ related_concepts:
   - "[[Scientific Explanation]]"
   - "[[Direct Instruction]]"
   - "[[Epistemology]]"
-  - "[[Knowledge Production]]"
   - "[[Epistemic Agency]]"
   - "[[Reliability]]"
   - "[[Reflective Thinking]]"
@@ -51,6 +50,7 @@ related_concepts:
   - "[[Intelligent Tutoring Systems]]"
 related_theories:
   - "[[CER Framework]]"
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Systematic Review]]"
 related_instruments: []
@@ -162,7 +162,7 @@ updated: 2026-09-22
 ### 命题三　贯穿全程的反思讨论是促成科学本质理解与概念转变的必要机制
 
 > [!concept-lens] [[Metacognition\|元认知监控]]与[[Epistemology\|认识论]]建构维度
-> 阐明讨论维度对深层[[Knowledge Production\|知识建构]]的决定性功效。
+> 阐明讨论维度对深层[[Knowledge Building Theory|知识建构]]的决定性功效。
 
 > [!claim] [[Clark A. Chinn\|Chinn, C. A.]] & Duncan, R. G.
 > **讨论维度保障了[[Epistemic Agency\|认识能动性]]与证据协调** 单纯机械跑完实验步骤并不意味着达成了科学理解。探究循环中“讨论与反思”作为横切维度的核心价值，在于迫使学习者走出单一实验结果，在共同体批判协商中反思证据的[[Reliability\|可靠性]]、评判替代性假设，唯有通过这种认识论审议，学生才能真正实现从朴素概念向科学模型的飞跃。（Chinn & Duncan, 2021；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 2]]）

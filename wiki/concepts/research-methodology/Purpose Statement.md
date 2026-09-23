@@ -7,7 +7,7 @@ aliases:
 summary: "研究计划中传达研究总体意图和目标的陈述，是连接研究问题与研究问题的核心环节，量化、质性和混合方法三种路径各有不同的写作模板和要素要求"
 type: concept
 domain: "research-methodology"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Research Problem]]"
-  - "[[Growth]]"
   - "[[Hypothesis]]"
   - "[[Central Phenomenon]]"
   - "[[Variable]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-09-14
+updated: 2026-09-22
 ---
 
 # Purpose Statement
@@ -74,7 +73,7 @@ updated: 2026-09-14
 ## 概念辨析
 
 > [!example]
-> **目的陈述 vs [[Research Question\|研究问题]]（[[Research Problem]]）** 研究问题是引发研究需求的议题或困境（如"人们拒绝接种新冠疫苗"）；目的陈述则说明研究将如何回应这一议题（如"识别影响疫苗接种意愿的多种因素"）。目的陈述从研究问题中[[Growth\|生长]]出来，但不是研究问题本身([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.123–124]])。
+> **目的陈述 vs [[Research Question\|研究问题]]（[[Research Problem]]）** 研究问题是引发研究需求的议题或困境（如"人们拒绝接种新冠疫苗"）；目的陈述则说明研究将如何回应这一议题（如"识别影响疫苗接种意愿的多种因素"）。目的陈述从研究问题中生长出来，但不是研究问题本身([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.123–124]])。
 
 > [!example]
 > **目的陈述 vs 研究问题（Research Questions）** 研究问题将目的陈述进一步细化为一个或多个可回答的具体问题。目的陈述回答"研究要达成什么"，研究问题回答"研究具体要回答什么"。在[[Quantitative Research\|量化研究]]中，研究问题还可能包含[[Hypothesis\|假设]]([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.124]])。

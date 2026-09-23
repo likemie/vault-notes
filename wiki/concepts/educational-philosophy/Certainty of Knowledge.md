@@ -10,10 +10,10 @@ aliases:
 summary: "关于知识本质的底层认知假设与哲学追求。在西方思想史中体现为以数学和逻辑为范式追求客观永恒真知的文化传统；在教育心理学中则是衡量个体认识论成熟度（绝对固定 vs 相对演变）的核心维度，实证表明其独立负向预测学业成绩并受学科选择与社会化的双重塑造。"
 type: concept
 domain: "educational-philosophy"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - region/western
   - field/educational-philosophy
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Praxis]]"
   - "[[Sage]]"
+  - "[[Open-Mindedness]]"
   - "[[Mind and Its Wonders]]"
   - "[[Metacognition]]"
   - "[[Epistemological Theories]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-09-22
+updated: 2026-09-23
 ---
 
 # Certainty of Knowledge
@@ -131,7 +132,7 @@ updated: 2026-09-22
 > [!feature] 知识确定性概念的核心要素
 > - **公理演绎与超感官真理** 西方哲学传统将确定性寄托于纯粹理性的演绎推导，认为思维高于不可靠的感官经验，致力于在变动不居的现实背后寻找永恒不变的本质。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 24–25)]]
 > - **认知发展的连续光谱** 在心理学测量中，确定性信念被界定为一个从幼稚到成熟的发展连续体：从初期的“二元对立、权威垄断绝对真理”，过渡到中期的“多元并存、各抒己见”，最终达成“情境建构、证据权衡与概率性承诺”。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, pp. 119–120)]]
-> - **科学理论的暂时性与[[Falsification\|可证伪性]]** 现代科学[[Epistemology\|认识论]]视科学知识为特定历史时期学术共同体探索的“暂时性终产物（temporary end-product）”，强调任何科学结论都必须保持对反例和新证据的开放性。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, pp. 362–363)]]
+> - **科学理论的暂时性与[[Falsification\|可证伪性]]** 现代科学[[Epistemology\|认识论]]视科学知识为特定历史时期学术共同体探索的“暂时性终产物（temporary end-product）”，强调任何科学结论都必须保持对反例和新证据的[[Open-Mindedness|开放性]]。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, pp. 362–363)]]
 > - **学科规范与认知文化的共变** 不同学术学科在知识确定性上存在深刻的文化分化：硬科学与工程应用学科倾向于强调标准参数与确定[[Paradigm\|范式]]，而人文学科与社会科学则注重多重视角反思与确定性的解构。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, pp. 359–361)]]
 
 > [!logic-map]- 知识确定性概念的跨层次演化图式

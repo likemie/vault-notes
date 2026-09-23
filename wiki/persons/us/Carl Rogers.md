@@ -9,7 +9,7 @@ summary: "美国人本主义心理学泰斗，来访者中心疗法与以人为�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 18
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Idiographic]]"
   - "[[Voluntarism]]"
   - "[[Paradigm]]"
-  - "[[Growth]]"
   - "[[Whole Person Education]]"
   - "[[Ontology]]"
   - "[[Anthropomorphic Model]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Carl Rogers
@@ -91,7 +90,7 @@ updated: 2026-09-17
 ## 核心思想
 
 > [!claim] 核心主张
-> 人类是高度整合的有机生命体，内在蕴含着朝向自我实现与[[Growth\|成长]]完善的“实现倾向”（Actualizing Tendency）。人类行为的决定性动力源于行动者当下体验到的“主观现象场”，而非外在客观物理刺激或环境条件反射。社会科学与教育研究若要理解真实的人类行动，就必须摈弃将人对象化为机械受控木偶的[[Positivism\|实证主义]]还原论，以同理共情深度介入行动者本人的“内部参照框架”，从当事人的眼睛打量生活世界。
+> 人类是高度整合的有机生命体，内在蕴含着朝向自我实现与成长完善的“实现倾向”（Actualizing Tendency）。人类行为的决定性动力源于行动者当下体验到的“主观现象场”，而非外在客观物理刺激或环境条件反射。社会科学与教育研究若要理解真实的人类行动，就必须摈弃将人对象化为机械受控木偶的[[Positivism\|实证主义]]还原论，以同理共情深度介入行动者本人的“内部参照框架”，从当事人的眼睛打量生活世界。
 
 > [!citation-card] 罗杰斯论全人视角与行动者的内部参照框架
 > 罗杰斯主张以“全人”视角审视个体经验，确立积极、主动、目的导向的人性假说。研究者若要理解人类行动，必须进入行动者的内部参照框架，理解当事人赋予其生活情境的独特主观意义，优先采用关注独特个案完整性的表意法。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 20)]]
@@ -127,7 +126,7 @@ updated: 2026-09-17
 > > [!axis] 浪漫主义人性乐观论 vs 制度性权力与恶的结构性存在
 > > 围绕人本主义潜能论是否低估了外部社会结构暴力与深层心理冲突的论争。
 > >
-> > - **[[Critical Theory\|批判理论]]与精神分析学者** 指责罗杰斯对人性先天实现倾向的假定过于浪漫主义，忽视了弗洛伊德式的深层攻击本能，且遮蔽了阶级分层与制度不平等对个体[[Growth\|成长]]的结构性压迫。
+> > - **[[Critical Theory\|批判理论]]与精神分析学者** 指责罗杰斯对人性先天实现倾向的假定过于浪漫主义，忽视了弗洛伊德式的深层攻击本能，且遮蔽了阶级分层与制度不平等对个体成长的结构性压迫。
 > > - **Carl Rogers（1961, 1969）** 坚称当个体处于无条件积极关注与共情接纳的心理环境中时，其内在的破坏性就会消退，建设性与社会化的成长潜能必然自然绽放。
 
 ---

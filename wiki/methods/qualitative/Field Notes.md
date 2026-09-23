@@ -7,7 +7,7 @@ summary: "质性研究中研究者在观察现场或观察后尽快记录的文�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 12
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -28,20 +28,19 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
 related_concepts:
-  - "[[Dialogue in Education]]"
   - "[[Unit of Analysis]]"
   - "[[Covert Research]]"
 confidence: medium
 status: draft
 created: 2026-07-11
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 # Field Notes
 
 ## 定义
 
 > [!def] 方法定义
-> 田野笔记是研究者在观察现场或观察后尽快记录的文字材料，涵盖观察到的行为、[[Dialogue in Education\|对话]]、非语言线索、环境特征以及研究者自身的反应和初步分析。它是参与式观察和[[Non-participant Observation\|非参与式观察]]的核心数据载体，也是[[Case Study\|个案研究]]和[[Ethnography\|民族志研究]]的基础材料。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|(Cohen et al., 2011, Ch14, pp. 295–296)]]
+> 田野笔记是研究者在观察现场或观察后尽快记录的文字材料，涵盖观察到的行为、对话、非语言线索、环境特征以及研究者自身的反应和初步分析。它是参与式观察和[[Non-participant Observation\|非参与式观察]]的核心数据载体，也是[[Case Study\|个案研究]]和[[Ethnography\|民族志研究]]的基础材料。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|(Cohen et al., 2011, Ch14, pp. 295–296)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 观察到的行为、互动、对话、环境细节、非语言线索、研究者当场反应

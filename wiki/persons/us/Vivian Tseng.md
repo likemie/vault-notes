@@ -7,7 +7,7 @@ summary: "美国心理学者与教育资助慈善战略专家，曾任威廉·T�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Engagement in and with Research]]"
   - "[[Evaluation Research]]"
-  - "[[Dialogue in Education]]"
   - "[[Discipline-Based Theory]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Vivian Tseng
@@ -138,7 +137,7 @@ updated: 2026-09-17
 > - **学术合作者** Cynthia Coburn & William Penuel — 共同阐明教育[[Research-Practice Partnership\|研究-实践伙伴关系]]（RPP）的理论概念与实施机制。
 > - **资助与评估伙伴** Erin Henrick 等 — 研制 RPP 有效性五大维度评估框架（Henrick et al., 2017），奠定伙伴关系成效的实证评估标尺。
 > - **政策与资助论辩者** [[Mark Schneider]] — 施奈德强调官方联邦自上而下的 SEER 技术标准与构件因果拆解，曾薇薇安主张自下而上重组资助权力、推行社群共有议程与评价多元化。
-> - **国际[[Dialogue in Education\|对话]]者** [[Dirk Van Damme]] — 范达默主张[[Discipline-Based Theory\|学科理论]]自主演绎与遏制政治行动主义，曾薇薇安主张将消除系统不平等与社会正义置于科研价值的核心。
+> - **国际对话者** [[Dirk Van Damme]] — 范达默主张[[Discipline-Based Theory\|学科理论]]自主演绎与遏制政治行动主义，曾薇薇安主张将消除系统不平等与社会正义置于科研价值的核心。
 > - **机构与基金会** [[William T. Grant Foundation\|威廉·T·格兰特基金会]]、美国儿童发展基金会、斯宾塞基金会 — 曾薇薇安推行[[Democratising Evidence\|证据民主化]]战略与跨界资助改革的核心慈善载体。
 
 ---

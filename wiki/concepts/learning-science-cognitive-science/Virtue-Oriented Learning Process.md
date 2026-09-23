@@ -8,7 +8,7 @@ aliases:
 summary: "东亚文化学习过程模型，以诚心、勤奋、刻苦、恒心、专心、尊师和谦虚等学习美德组织学习行为，目标是通过美德实践实现自我完善"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Western Learner]]"
   - "[[Pride in Learning]]"
   - "[[Sage]]"
-  - "[[Dialogue in Education]]"
   - "[[Mind-Oriented Learning Process]]"
   - "[[Critical Thinking]]"
   - "[[Rote Learning]]"
@@ -52,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-08-20
+updated: 2026-09-22
 ---
 
 # Virtue-Oriented Learning Process
@@ -207,7 +206,7 @@ Li 访谈的一位大学生分享了一个典型场景："我经常强迫自己�
 - 教师可能会让全班儿童坐下，计算他们能安静坐多长时间不扭动或离座——训练儿童对专心需求的敏感性和自我监控能力
 - 通过需要慢下来和展示精细运动控制的技能来练习——如模仿中国书法、练习使用筷子、武术的有纪律动作
 - 课堂仪式：班长叫"起立"，全班齐声"老师好"，老师回应"同学们好，请坐"——整个过程不到三十秒，却标志着休闲时间的结束和神圣课堂时间的开始
-- 家长频繁使用"专心"一词——"你要专心学习""你在学校专心吗？"台湾的跨文化研究发现，台湾母子[[Dialogue in Education|对话]]中关于专心的交流频率远高于欧洲裔美国母子
+- 家长频繁使用"专心"一词——"你要专心学习""你在学校专心吗？"台湾的跨文化研究发现，台湾母子对话中关于专心的交流频率远高于欧洲裔美国母子
 - 家长创造安静的学习空间：晚饭后收拾餐桌、关掉电视；孩子做作业时，家长就近陪伴，在有需要时介入
 - Li 的童年记忆：父亲在赶集日将凳子放在院外街上，让她坐在集市嘈杂中读书，直到不再被噪音干扰
 

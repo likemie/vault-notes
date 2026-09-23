@@ -8,7 +8,7 @@ summary: "英国教育社会学家，开放大学荣休教授，微观课堂民�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 27
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Decodification]]"
   - "[[Reflexivity]]"
-  - "[[Dialogue in Education]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Self-control]]"
   - "[[Construct]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Peter Woods
@@ -101,7 +100,7 @@ updated: 2026-09-17
 > 学校与课堂生活绝非客观外在制度规范的单向灌输场所，而是由具备主观意图的行动者通过持续符号互动动态建构的社会世界。行动者依据其对情境的主观赋意实施行动，并在互动博弈中发展出丰富的微观生存策略。研究者必须走出外在量化测量的虚妄，以“互动本身作为基本[[Unit of Analysis\|分析单位]]”，深入当事人生活世界[[Decodification\|解码]]其本土意义范畴。
 
 > [!citation-card] 伍兹论[[Symbolic Interactionism\|符号互动论]]在教育探究中的三大核心公设
-> 人类生活在自然与社会两个世界中，其行动基于对客观客体与社会符号所赋予的主观意义；意义不是固定不变的，而是在社会互动过程中持续产生、协商与流动修正；行动者通过扮演他人角色与自我[[Reflexivity\|反思性]][[Dialogue in Education\|对话]]，在具体社会情境中界定现实并采取行动。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 26)]]
+> 人类生活在自然与社会两个世界中，其行动基于对客观客体与社会符号所赋予的主观意义；意义不是固定不变的，而是在社会互动过程中持续产生、协商与流动修正；行动者通过扮演他人角色与自我[[Reflexivity\|反思性]]对话，在具体社会情境中界定现实并采取行动。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 26)]]
 >
 > *Human beings act towards things on the basis of the meanings they have for them; meanings are handled in, and modified through, an interpretive process used by the person in dealing with the things he encounters; and individuals act within social situations where meanings are continuously defined and negotiated through role-taking. (Woods, 1979)*
 

@@ -8,7 +8,7 @@ summary: "英国比较政治学家（1933–2019），斯特拉斯克莱德大�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 14
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Document]]"
   - "[[Going Native]]"
-  - "[[Dialogue in Education]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Unit of Analysis]]"
   - "[[Externalization]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-22
 ---
 
 # Richard Rose
@@ -89,7 +88,7 @@ updated: 2026-09-12
 >   - **代表著作** *Lesson-Drawing in Public Policy* (Chatham House, 1993)；"What is Lesson-Drawing?" (*Journal of Public Policy*, 1991)。
 >   - **关键概念** Lesson-Drawing、Policy Transfer、Policy Copying、Policy Emulation。
 >   - **阶段转向** 从描述"政策如何移动"转向批判性追问"政策学习在何种条件下真正有效"。
-> - **2000 年代至今 — 跨国政策知识流动与[[Going Native\|本土化]]失真** 持续追踪全球政策趋同中的去情境化与本土化失真问题，与 Dolowitz、Marsh 等政策转移研究者形成[[Dialogue in Education\|对话]]。
+> - **2000 年代至今 — 跨国政策知识流动与[[Going Native\|本土化]]失真** 持续追踪全球政策趋同中的去情境化与本土化失真问题，与 Dolowitz、Marsh 等政策转移研究者形成对话。
 >   - **关键概念** Policy Failure in Transfer、Misfit in Lesson-Drawing、External Referencing。
 
 ---
@@ -123,7 +122,7 @@ updated: 2026-09-12
 
 > [!person-network] 关系网络
 > - **理论传承** [[Gita Steiner-Khamsi]] — 将 Rose 的经验汲取理论引入比较教育并发展出"[[Externalization\|外化]]"批判概念的核心学者。
-> - **学术[[Dialogue in Education\|对话]]** David Dolowitz & David Marsh — 在 Rose 框架基础上发展政策转移研究的后续学者。
+> - **学术对话** David Dolowitz & David Marsh — 在 Rose 框架基础上发展政策转移研究的后续学者。
 > - **思想背景** Harold Lasswell — [[Policy Science in Comparative Education\|政策科学]]传统的先行者，罗斯的政策学习研究在这一传统内深根。
 
 ---

@@ -24,6 +24,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Variable]]"
   - "[[Inquiry-Based Learning]]"
+  - "[[Open-Mindedness]]"
   - "[[Class Size]]"
   - "[[Reliability]]"
   - "[[Devil's Advocate]]"
@@ -32,13 +33,12 @@ related_concepts:
   - "[[Ways of Knowing]]"
   - "[[Lifelong Learning]]"
   - "[[IB Learner Profile]]"
-  - "[[Growth]]"
   - "[[International Baccalaureate]]"
   - "[[Formative Assessment]]"
   - "[[Homework]]"
-  - "[[Knowledge Production]]"
 related_theories:
   - "[[Classical Test Theory]]"
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Explanatory Sequential Design]]"
   - "[[Mixed Methods Research]]"
@@ -105,7 +105,7 @@ issuing_organization: ""
 > - **知识位置** 作为分析 TOK 课程有效性的中介[[Variable\|变量]]——课程的成功实施不仅改变学生，也在重塑教师。
 
 > [!warrant]- 理论如何支撑论证
-> 教师对[[Inquiry-Based Learning\|探究式教学]]的信念是影响其教学实践的最强预测因素 (Wilkins, 2008)。通过考察 TOK 教师的信念（对目标的认同、教学自信心等），可以理解这种极其依赖教师引导的开放性课程在学校中的实际运行逻辑。
+> 教师对[[Inquiry-Based Learning\|探究式教学]]的信念是影响其教学实践的最强预测因素 (Wilkins, 2008)。通过考察 TOK 教师的信念（对目标的认同、教学自信心等），可以理解这种极其依赖教师引导的[[Open-Mindedness|开放性]]课程在学校中的实际运行逻辑。
 
 ---
 
@@ -186,7 +186,7 @@ issuing_organization: ""
 > TOK 的教学过程本质上对教师自身也是一种“认识论干预”，极大地推动了教师教学理念向以学生为中心和反思性实践转变。
 
 > [!evidence-grid] 专业发展与教学法革新
-> - **双向共振的获益** 教师强烈同意教授 TOK 对其是一次有价值的专业发展（M=3.72/4.0）。他们在教学中体验到了与期望学生获得的同样的[[Growth\|成长]]：**从多重视角看问题、保持开放、不评判他人（seeing things from multiple viewpoints, being open, not judging others）**。
+> - **双向共振的获益** 教师强烈同意教授 TOK 对其是一次有价值的专业发展（M=3.72/4.0）。他们在教学中体验到了与期望学生获得的同样的成长：**从多重视角看问题、保持开放、不评判他人（seeing things from multiple viewpoints, being open, not judging others）**。
 > - **教龄与自信心的正向积累** 线性趋势测试（$p < .001$）和 ANOVA（$F=16.48, p=.00$）表明，教龄 10 年以上的教师在“教授 TOK 自信心（CTT）”上的得分（M=3.40）显著高于 1-3 年的新手（M=3.17），对处理复杂认识论问题愈加从容。
 > - **教学法的溢出效应（Spill-over effect）** 教授 TOK 会强化教师在其他常规学科中的教学方法。许多受访者指出，他们在教 TOK 后，开始在其他课堂上更多地采用**以讨论为基础、反思性、跨学科、结合真实世界**的课程设计。
 > - **重塑“好教学”的定义** 教师们在开放式回答中高频使用了“探究的结构化方式（thinking routines）”、“揭示思维（expose thinking）”、“敞开心扉（opening minds and hearts）”等词汇。正如一位心理学博士背景的教师感叹：“我曾以为我对如何教课了解很多……但后来我发现了那么多探究的结构化方式”。
@@ -224,7 +224,7 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现摘要
 > 1. **成功的首要驱动力是兴趣** “教师兴趣”和“学生兴趣”是压倒性的成功因素，且课程的良性运转高度依赖教师的自愿投入。
-> 2. **课程价值在于[[Epistemology\|认识论]]觉醒** 促使学生反思[[Knowledge Production\|知识建构]]过程并建立跨学科连接，被公认为课程带来的最大红利。
+> 2. **课程价值在于[[Epistemology\|认识论]]觉醒** 促使学生反思[[Knowledge Building Theory|知识建构]]过程并建立跨学科连接，被公认为课程带来的最大红利。
 > 3. **教学行为反向重塑[[Teacher Beliefs\|教师信念]]** 讲授 [[Theory of Knowledge\|TOK]] 事实上成为一种高效的在职专业发展，持续增强了教师处理复杂问题的效能感。
 > 4. **制度化支持的脱节** TOK 的成功很大程度上建立在教师的热情之上，学校在排课时间、师资准备及评价工具上的系统性支持仍显薄弱。
 
@@ -237,7 +237,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!voice] 关于教学理念的跨学科溢出
-> “我认为 [[Theory of Knowledge\|TOK]] 也发展了教学法。我知道我在课堂上使用的方法[[Growth\|成长]]了多少……当我开始沉浸在 IB 理念中时，我发现了很多新事物。我发现它们是思考常规（thinking routines），一种结构化的探究方式。” (p. 179)
+> “我认为 [[Theory of Knowledge\|TOK]] 也发展了教学法。我知道我在课堂上使用的方法成长了多少……当我开始沉浸在 IB 理念中时，我发现了很多新事物。我发现它们是思考常规（thinking routines），一种结构化的探究方式。” (p. 179)
 > 
 > *"I think the TOK also develops the pedagogy of teaching. I know how much I have grown when it comes to the methods that I use during classes... I discovered that they are thinking routines, so a structured way of inquiry."*
 

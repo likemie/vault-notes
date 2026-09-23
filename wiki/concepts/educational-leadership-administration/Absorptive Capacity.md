@@ -7,10 +7,10 @@ aliases:
 summary: "组织识别、吸收并情境化应用外部知识的能力；在教育与治理中取决于实践者认知基础、内部沟通网络与支持性领导，调节科研证据向微观行动的转化成效。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 40
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - field/educational-leadership-administration
   - theme/knowledge-mobilisation
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Research Literacy]]"
-  - "[[Dialogue in Education]]"
   - "[[Professional Learning Community]]"
   - "[[School Leadership]]"
   - "[[Implementation Fidelity]]"
@@ -66,7 +65,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Absorptive Capacity
@@ -76,7 +75,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> **吸收能力（Absorptive Capacity）** 指组织识别外部新知识的价值、消化同化该知识并将其[[Creativity\|创造性]]应用于实践终端以实现既定目标的组织能力与系统特性（Cohen & Levinthal, 1990, p. 128）。在教育改革与[[Knowledge Mobilisation\|知识动员]]视域下，吸收能力不仅体现在个别教师的[[Research Literacy\|研究素养]]与甄别技能，更是一种扎根于微观学校组织生态的系统性学习条件，涵盖教师开放[[Dialogue in Education\|对话]]习惯、[[Professional Learning Community\|专业学习共同体]]（PLCs）架构、领导者躬身示范以及受制度保障的专有工时（Ross & Morrison, 2021；[[Argument_Torres_2022_KMModels\|Torres, 2022b, pp. 43–45]]；[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022, pp. 183–187, 193–195]]）。
+> **吸收能力（Absorptive Capacity）** 指组织识别外部新知识的价值、消化同化该知识并将其[[Creativity\|创造性]]应用于实践终端以实现既定目标的组织能力与系统特性（Cohen & Levinthal, 1990, p. 128）。在教育改革与[[Knowledge Mobilisation\|知识动员]]视域下，吸收能力不仅体现在个别教师的[[Research Literacy\|研究素养]]与甄别技能，更是一种扎根于微观学校组织生态的系统性学习条件，涵盖教师开放对话习惯、[[Professional Learning Community\|专业学习共同体]]（PLCs）架构、领导者躬身示范以及受制度保障的专有工时（Ross & Morrison, 2021；[[Argument_Torres_2022_KMModels\|Torres, 2022b, pp. 43–45]]；[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022, pp. 183–187, 193–195]]）。
 
 > [!concept-lens] 概念透镜
 > - **核心指向** 组织在面对外部知识、学术证据或技术情报时的主动消化、批判性整合与情境化转化机制。
@@ -118,7 +117,7 @@ updated: 2026-09-17
 
 > [!feature] 组织吸收能力的四维支撑支柱
 > - **认知基础与知识素养（Cognitive Base & Skillsets）** 组织内部成员对专业领域基础知识的理解存量，以及获取、评估并解读外部成果的专业能力。
-> - **内部开放沟通与共同体研讨（Internal Dialogue & [[Professional Learning Community\|PLCs]]）** 打破部门壁垒与教师孤岛的协作架构，依托制度化教研共同体展开[[Reflexivity\|反思性]][[Dialogue in Education\|对话]]。
+> - **内部开放沟通与共同体研讨（Internal Dialogue & [[Professional Learning Community\|PLCs]]）** 打破部门壁垒与教师孤岛的协作架构，依托制度化教研共同体展开[[Reflexivity\|反思性]]对话。
 > - **支持性领导示范与心理安全（Supportive Leadership & Trust）** 管理层躬身示范新知识转化，确立容忍试错的互信文化，支持团队开展渐进式创新。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022, pp. 187–188, 191)]]
 > - **制度化时空缓冲与排程保障（Protected Time & Infrastructure）** 在日常繁忙运作中为深思熟虑研读留出受保护的时空，抵御行政杂务的残酷挤占。
 

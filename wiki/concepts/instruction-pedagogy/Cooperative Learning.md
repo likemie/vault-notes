@@ -7,7 +7,7 @@ aliases:
 summary: "以异质性小组为基本组织形式，依托积极互赖、面对面互动与个体责任协同促进学生学业成就、高阶思维与社会情感发展的社会建构主义教学范式；二阶元分析证实其对多维产出具有稳健促进效应（ES = 0.71），高阶思维赋能最为突出（ES = 0.76），并受具体技术与学科情境显著调节。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 43
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Structured Teaching]]"
   - "[[Paradigm]]"
   - "[[Teaching Assistant]]"
-  - "[[Growth]]"
   - "[[Task Structure]]"
   - "[[Individualised Instruction]]"
   - "[[Jigsaw]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-17
+updated: 2026-09-22
 ---
 
 # Cooperative Learning
@@ -86,7 +85,7 @@ updated: 2026-09-17
 > - **边界** 合作学习区别于无结构约束的自发小组讨论（Unstructured Group Work），也不同于去中心化且赋予学生完全自主决策权的协作学习（Collaborative Learning）。
 
 > [!citation-card]- 经典界定与代表性表述
-> 合作学习被经典定义为“一种小组学习活动组织形式，使学习依赖于学习者在小组中社会结构化的信息交流，其中每个学习者既对自己的学习负责，又有动力促进他人的学习”（Olsen & Kagan, 1992, p. 8）。在合作学习小组中，不同能力层次的学生为了实现共同目标而协作，通过深入研讨、相互解释材料并彼此激励，最终使所有成员获得超越个体单独学习的学业与认知[[Growth\|成长]]（Slavin, 2014; Gillies & Ashman, 2003; Johnson & Johnson, 1994）。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 2)]]
+> 合作学习被经典定义为“一种小组学习活动组织形式，使学习依赖于学习者在小组中社会结构化的信息交流，其中每个学习者既对自己的学习负责，又有动力促进他人的学习”（Olsen & Kagan, 1992, p. 8）。在合作学习小组中，不同能力层次的学生为了实现共同目标而协作，通过深入研讨、相互解释材料并彼此激励，最终使所有成员获得超越个体单独学习的学业与认知成长（Slavin, 2014; Gillies & Ashman, 2003; Johnson & Johnson, 1994）。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 2)]]
 >
 > *Cooperative learning is defined as "group learning activity organized so that learning is dependent on the socially structured exchange of information between learners in groups and in which each learner is held accountable for his or her own learning and is motivated to increase the learning of others" (Olsen & Kagan, 1992, p. 8).*
 
@@ -216,7 +215,7 @@ updated: 2026-09-17
 > > 严格[[Random Assignment\|随机化]]实验（[[Randomised Controlled Trials\|随机对照试验]]，RCT）与课堂准实验在合作学习评价上呈现截然相反的结论，引发关于证据层级与[[Ecological Validity\|生态效度]]的学术争鸣。
 > >
 > > - **Stanczak et al. (2022)** 在严格全实验控制下发现六年级[[Jigsaw\|拼图法]]未显著提升[[Academic Achievement\|学业成绩]]。
-> > - **[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]** 论证真实课堂教学并非孤立实验室操作，[[Quasi-Experimental Designs\|准实验设计]]更能反映真实教学环境中的同伴互动与综合[[Growth\|成长]]。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 11)]]
+> > - **[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]** 论证真实课堂教学并非孤立实验室操作，[[Quasi-Experimental Designs\|准实验设计]]更能反映真实教学环境中的同伴互动与综合成长。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 11)]]
 
 > [!warning] 实施局限
 > - **教师专业素养要求高** 缺乏理论理解的机械分组会导致形式主义合作，未能有效落实积极互赖与个体责任。
