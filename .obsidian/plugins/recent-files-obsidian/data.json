@@ -5,6 +5,30 @@
       "path": "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md"
     },
     {
+      "basename": "Documentary Analysis",
+      "path": "wiki/methods/qualitative/Documentary Analysis.md"
+    },
+    {
+      "basename": "Neocorporatism",
+      "path": "wiki/theories/political-economy-geopolitics/Neocorporatism.md"
+    },
+    {
+      "basename": "Subgovernment Theory",
+      "path": "wiki/theories/educational-policy-reform/Subgovernment Theory.md"
+    },
+    {
+      "basename": "Scientifically Based Research",
+      "path": "wiki/concepts/educational-policy-reform/Scientifically Based Research.md"
+    },
+    {
+      "basename": "Reading Excellence Act",
+      "path": "wiki/facts/us/Reading Excellence Act.md"
+    },
+    {
+      "basename": "Critical Pluralism",
+      "path": "wiki/theories/educational-policy-reform/Critical Pluralism.md"
+    },
+    {
       "basename": "Argument_Naeem_2026_Episteme",
       "path": "wiki/arguments/journal-articles/Episteme/Argument_Naeem_2026_Episteme.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Automation Bias",
       "path": "wiki/concepts/educational-technology/Automation Bias.md"
-    },
-    {
-      "basename": "Design-Based Research",
-      "path": "wiki/methods/mixed/Design-Based Research.md"
-    },
-    {
-      "basename": "Rich and Thick Description",
-      "path": "wiki/concepts/research-methodology/Rich and Thick Description.md"
-    },
-    {
-      "basename": "Network Analysis",
-      "path": "wiki/methods/mixed/Network Analysis.md"
-    },
-    {
-      "basename": "Zhang_2022_SE",
-      "path": "sources/Zhang_2022_SE/Zhang_2022_SE.md"
-    },
-    {
-      "basename": "Artefact",
-      "path": "wiki/concepts/research-methodology/Artefact.md"
-    },
-    {
-      "basename": "Epistemic Responsibility",
-      "path": "wiki/concepts/educational-philosophy/Epistemic Responsibility.md"
     }
   ],
   "omittedPaths": [],
