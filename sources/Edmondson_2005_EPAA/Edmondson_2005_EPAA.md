@@ -1,6 +1,7 @@
 ---
 citation: "Edmondson, J. (2005). Policymaking in education: Understanding influences on the Reading Excellence Act. Education Policy Analysis Archives, 13(11), 1–20. https://doi.org/10.14507/epaa.v13n11.2005"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Edmondson_2005_EPAA]]"
 processed_date: 2026-09-24
 ---
 
