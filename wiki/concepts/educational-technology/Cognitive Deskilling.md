@@ -9,7 +9,7 @@ aliases:
 summary: "指认识主体因过度依赖外部自动化认知工具或生成式人工智能系统，导致自身内生认知能力与程序性智力技能发生退化、萎缩或无法正常形成的现象。"
 type: concept
 domain: "educational-technology"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Reliability]]"
+  - "[[Learned Helplessness]]"
   - "[[Epistemic Dependence]]"
   - "[[Evaluative Judgement]]"
   - "[[Epistemic Aims]]"
@@ -112,7 +113,7 @@ updated: 2026-09-24
 > - **认知核心任务外包** 学习者将论文草拟、论据提取、概念整合等需要深度思考的过程直接交由 AI 完成，规避了必要的认知挣扎。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 270–271)]]
 > - **机体机能练习剥夺** 遵循用进废退的规律，长期缺乏对[[Working Memory|工作记忆]]提取、逻辑连贯性检验与论证反思的训练，使大脑内在图式连接钝化。[[Argument_Naeem_2026_Episteme|Naeem (2026, p. 271)]]
 > - **高阶探究与思想线性化能力萎缩** 写作本质是认知发现工序而非[[Transcription in Qualitative Research|转录]]工具。构思阶段迫使主体直面空白并调动个人生活经验建立论点；提纲阶段训练主体将网状非线性思想转化为严密因果逻辑的线性流（Piolat & Roussey, 1996）；修改阶段依赖基于自我评估驱动深层认知重组（Nielsen, 2021）。将上述工序交由算法代笔，直接阻断了[[Higher-Order Thinking Skills|高阶思维]]生长的中枢神经回路。[[Argument_Smith_2026_SPE\|(Smith, 2026, pp. 6–9)]]
-> - **双重认知[[Reliability|信度]]失真（Credibility Distortions）** 去技能化不仅表现为客观能力的下降，更诱发主观认知能力的系统性扭曲：一方面产生**自我贬低的信度赤字（Self-Imposed Credibility Deficit）**，使学生误以为离开 AI 自己便丧失写作与思考能力；另一方面产生**盲目自满的信度通胀（Credibility Excess）**，使学生误将 AI 生成的词汇虚高但论证平庸的文本（Marzuki et al., 2023）当作自身高阶技能的证明。[[Argument_Smith_2026_SPE\|(Smith, 2026, pp. 5, 8–9)]]
+> - **双重认知[[Reliability|信度]]失真（Credibility Distortions）** 去技能化不仅表现为客观能力的下降，更诱发主观认知能力的系统性扭曲：一方面产生**自我贬低的信度赤字（[[Learned Helplessness|self-imposed credibility deficit]]）**，使学生误以为离开 AI 自己便丧失写作与思考能力；另一方面产生**盲目自满的信度通胀（Credibility Excess）**，使学生误将 AI 生成的词汇虚高但论证平庸的文本（Marzuki et al., 2023）当作自身高阶技能的证明。[[Argument_Smith_2026_SPE\|(Smith, 2026, pp. 5, 8–9)]]
 > - **[[Epistemic Dependence|认识论依赖]]固化与评价权丧失** 学习者对人工智能输出产生无批判信任，仅扮演指令输入者与搬运工，丧失独立识别偏见与为成果提供实质论证依据的[[Evaluative Judgement|评价性判断]]权。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 271–273)]]
 
 ---

@@ -10,7 +10,7 @@ aliases:
 summary: "从单一问题或起点向多个不同方向生成多样化、新颖与丰富构想的认知探索过程，是创造潜能与发散性认知加工的核心操作化构念。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 51
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Concept Mapping]]"
   - "[[Creativity Assessment]]"
   - "[[Self-Regulated Learning]]"
+  - "[[Epistemology]]"
   - "[[Predictive Validity]]"
   - "[[Criterion Problem]]"
   - "[[Dependent Variable]]"
@@ -54,6 +55,8 @@ related_concepts:
   - "[[Externalization]]"
 related_theories:
   - "[[Creative Problem Solving]]"
+  - "[[Formative Epistemic Injustice]]"
+  - "[[Epistemic Injustice]]"
 related_methods:
   - "[[Role-playing]]"
   - "[[Meta-meta-analysis]]"
@@ -77,10 +80,11 @@ related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Guo_2025_TSC]]"
   - "[[Argument_Zhao_2025_JIntell]]"
+  - "[[Argument_Smith_2026_SPE]]"
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-09-23
+updated: 2026-09-24
 ---
 
 # Divergent Thinking
@@ -207,6 +211,9 @@ updated: 2026-09-23
 > [!claim] Zhao et al.
 > **生成式 AI 助推构想发散但受限于内容千篇一律的瓶颈** 一阶[[Meta-analysis\|元分析]]证实，生成式 AI 对创造力与发散思维（包含 TTCT 发散测验、多模态草图生成与开放方案构思）表现出显著的正向促进作用；然而，该促学效应在[[Higher-Order Thinking Skills\|高阶思维]]三大认知维度中位列末位，显著低于良构问题解决与[[Critical Thinking\|批判性思维]]。研究者阐明，大语言模型倾向于输出最常见、合乎常理的通用套路（即概率最高的大众平均答案）；学生若缺乏深入追问和多轮对抗迭代，极易陷入“捷径式学习”（Shortcut Learning），致使发散构想局限于表面平滑重组，难以突破常规获得真正独特的创新亮点。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 10–11, 13–14)]]
 
+> [!claim] Smith; He et al.; Harmon & Hedrick; Dugosh et al.
+> **AI 头脑风暴的均质化缺陷与[[Formative Epistemic Injustice|成长性认识不正义]]** 群体[[Brainstorming|头脑风暴]]作为发散思维的经典组织形态，能通过共享先验知识使背景薄弱的学生受益（Harmon & Hedrick, 2000），且生成的构想数量越多越能直接刺激认知生产力（Dugosh et al., 2000）；然而在人机协同发散中，团队实证表明，借助大模型头脑风暴显著增加了构想的均质平庸化（more homogenous）并诱发思维惰性（He et al., 2024）。大模型由于缺乏人类具身生活世界（dis-embodied existence）且脱离现实生活情境，不仅产出平庸套路，而且将面对空白、自我搜索长时记忆与推敲构思的挣扎降格为机械“勾选检查框”任务，剥夺了学习者在发散探索中建立认知自信与自我知识价值认可的实践机会，破坏了类似 Martin (2018) 所指出的民主审议核心育人实践，诱发未成年求知者形成期的[[Formative Epistemic Injustice|成长性认识不正义]]。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 6–7)]]
+
 ---
 
 ### 命题总览
@@ -217,7 +224,7 @@ updated: 2026-09-23
 > | **过程构件定位** | 发散思维是创造潜能的重要指标，效应适中，属于创造力综合过程构件 | 认知测评与创造力预测 | [[Mark A. Runco\|Runco et al. (2026)]]; Cropley (2006) |
 > | **教学干预可塑性** | 发散思维可通过显式指导语与专门训练显著提升，言语认知干预增益居首，呈现中短期倒 U 型时间窗口 | 课堂思维教学、工作坊与训练课程 | Acar et al. (2020); [[Mark A. Runco\|Runco et al. (2026)]]; [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] |
 > | **空间脚手架赋能** | 图形组织器对发散思维促进强效，且显著强于聚合思维 | 空间可视化与[[Concept Mapping\|概念图]]示工具 | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei, Ding & Chiu (2026)]] |
-> | **AI 交互双刃剑** | AI 显著催化构想发散但对创造力整体促进有限，无支架下容易浅尝辄止并陷入通用套路同质化 | 智能技术环境与人机协同学习 | Urban et al. (2024); Awal (2024); [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] |
+> | **AI 交互双刃剑** | AI 显著催化构想发散但对创造力整体促进有限，无支架下容易浅尝辄止并陷入通用套路同质化，过度依赖剥夺实践权能并诱发成长性[[Epistemic Injustice\|认识不正义]] | 智能技术环境与人机协同学习 | Urban et al. (2024); Awal (2024); [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]]; [[Argument_Smith_2026_SPE\|Smith (2026)]] |
 
 ---
 
@@ -228,7 +235,7 @@ updated: 2026-09-23
 > - **1960s–1970s — 托兰斯创造思维测验与标准化测评** Torrance 研发标准化纸笔与图形测验，发散思维成为全球[[Creativity Assessment\|创造力评估]]的主流指标。
 > - **1990s–2000s — 观念行为理论与认知整合模型** Runco 等提出观念生成理论，将发散思维嵌入日常[[Runco Ideational Behavior Scale\|观念行为量表]]（RIBS）与[[Problem Finding\|问题发现]]框架。
 > - **2020–2025 年 — [[Meta-analysis\|元分析]]与[[Meta-meta-analysis\|二阶元分析]]的量化确立** [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] 运用二阶元分析确立发散思维（$r = 0.14$）基准效应；[[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 实证确立空间组织器对发散思维的强促学效应（$g = 1.167$）；[[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 运用[[Three-Level Meta-Analysis\|多层元分析]]确立干预对发散[[Creativity\|创造性思维]]的高增益（$g = 0.671$）与言语训练优势（$g = 0.998$）；[[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 基于 29 项实验元分析确立生成式 AI 对创造性发散思维的中等促进效应（$g = 0.444$），并揭示时长倒 U 型曲线与 [[Self-Regulated Learning\|SRL]] 免疫机制。
-> - **2026 年 — 生成式 AI 时代的发散重构** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] [[Systematic Review\|系统综述]] 67 项高校实证，确立生成式 AI 作为发散思维“低门槛构想放大器”与“早熟收敛风险源”的二元特征。
+> - **2026 年 — 生成式 AI 时代的发散重构与批判反思** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] [[Systematic Review\|系统综述]]确立生成式 AI 作为发散思维“低门槛构想放大器”与“早熟收敛风险源”的二元特征；[[Argument_Smith_2026_SPE\|Smith (2026)]] 进一步从批判社会[[Epistemology|认识论]]视角揭示 AI [[Brainstorming|头脑风暴]]的均质化与非具身局限，确立全盘外包发散对未成年求知者成长性认识正义的侵蚀机制。
 
 ---
 
@@ -246,7 +253,7 @@ updated: 2026-09-23
 > > 争论 AI 生成海量方案究竟是拓展了人类想象力，还是将人类思维锁定在算法训练集的统计平均值内。
 > >
 > > - **赋能论（Urban et al. / Li et al.）** 实证表明 AI 能迅速打破空白文档的起始创作焦虑，显著提升 [[Alternate Uses Test\|AUT]] 发散广度。
-> > - **侵蚀论（Monib et al. / Li et al. / Zhao et al.）** 警示 AI 产出往往千篇一律、偏向常见套路，直接套用会抹平学生的个人独特思考，让构想过早定型；[[Meta-analysis\|元分析]]实证亦显示其对创造力的促进（$g = 0.444$）显著低于结构性[[Problem Solving\|问题解决]]与批判反思，反映出基于概率生成的内容天然不利于产生打破常规的独特创意。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 13–14)]]
+> > - **侵蚀论（Monib et al. / Li et al. / Zhao et al. / Smith）** 警示 AI 产出往往千篇一律、偏向常见套路，直接套用会抹平学生的个人独特思考，让构想过早定型；[[Meta-analysis\|元分析]]实证亦显示其对创造力的促进（$g = 0.444$）显著低于结构性[[Problem Solving\|问题解决]]与批判反思，反映出基于概率生成的内容天然不利于产生打破常规的独特创意。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 13–14)]] [[Argument_Smith_2026_SPE\|(Smith, 2026, p. 7)]] 结合 He et al. (2024) 进一步揭示，AI 辅助发散存在严重的构想均质化倾向，剥离了面对空白建立认知自信的挣扎过程，破坏了自我知识价值认同的育人功能。
 
 ---
 
@@ -291,6 +298,7 @@ updated: 2026-09-23
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 7)]] | 全球 67 项高等教育实证研究（2022–2025） | [[Systematic Review\|系统综述]]与主题综合（PRISMA 2020 框架） | 构想拓展与发散思维主题（Ideation Expansion & DT） | 31 项实证研究报告 ChatGPT 显著提升了学生在开放任务中的构想广度与发散思维流畅性 | 87% 研究 MMAT $\ge 80\%$ | 确立发散思维是[[Generative Artificial Intelligence\|生成式 AI]] 最广泛激发的认知维度 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 8)]]（引述 Urban et al., 2024） | 捷克高校大学生实验（$N = 120$） | 准实验组间对比设计 | [[Torrance Tests of Creative Thinking\|TTCT]] 与 [[Alternate Uses Test\|AUT]] 测验表现 | AI 辅助组在发散流畅性与精细性得分上显著优于无技术辅助控制组 | $p < .01$ | 证实生成式 AI 具有激发发散思维流畅性的直接测验增益 |
 > | 同上（引述 Awal, 2024） | 创意写作专业大学生 | 质性个案追踪与过程记录 | 发散探索持续性与构想收敛速度 | 超 45% 的学生在获得首个 AI 生成的故事大纲后立即终止自主[[Brainstorming\|头脑风暴]] | — | 揭示缺乏反思支架时发散探索极易发生思维早熟收敛 |
+> | [[Argument_Smith_2026_SPE\|(Smith, 2026, p. 7)]]（引述 He et al., 2024） | 头脑风暴与创意生成团队 | 质性调查与人机协同行为追踪 | AI 辅助头脑风暴的构想特征与认知影响 | 团队普遍报告借助 AI 头脑风暴生成的发散构想趋向高度均质化（more homogenous），且担忧过度依赖会滋生思维惰性 | — | 证实生成式 AI 构想发散在真实协作中存在算法同质化与能动性消解瓶颈 |
 
 ---
 
@@ -314,3 +322,4 @@ updated: 2026-09-23
 > - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — 针对高校[[Creativity Training\|创造力干预]]开展[[Three-Level Meta-Analysis\|多层元分析]]（29 项研究，109 个[[Effect Size\|效应量]]），证实发散创造性思维在各[[Construct\|构念]]中增益最高（$g = 0.671$），揭示言语训练（$g = 0.998$）与独立个体练习（$g = 0.682$）的显著优势，并确立 $< 2$ 个月的倒 U 型黄金干预窗口（$g = 0.844$）。
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 运用随机效应[[Meta-analysis\|元分析]]（29 项实验与准[[Experimental Research\|实验研究]]，59 个[[Effect Size\|效应量]]）确立生成式 AI 对学生创造力与发散思维的干预基准（$k = 23, g = 0.444$），揭示 AI 倾向输出中规中矩的常规套路，容易使构想同质化而难以突破创新，并证实适度干预周期（8–16 周）与高[[Self-Regulated Learning\|自我调节学习]]能力的显著调节保护作用。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项高等教育实证研究，揭示生成式 AI 作为发散思维催化剂（$n=31$）与构想惰性风险源（$n=20$）的双向作用机制。
+> - [[Argument_Smith_2026_SPE\|Smith (2026)]] — 结合写作学与社会[[Epistemology|认识论]]，解构灵感生成与[[Brainstorming|头脑风暴]]中的发散思维机制，揭示 AI 构想均质化与非具身空想如何诱发未成年求知者的[[Formative Epistemic Injustice|成长性认识不正义]]。

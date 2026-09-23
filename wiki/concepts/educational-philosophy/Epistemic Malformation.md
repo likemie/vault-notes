@@ -91,7 +91,7 @@ updated: 2026-09-24
 ## 核心要素
 
 > [!feature] 认知畸变的三维病理表征
-> - **[[Reliability|信度]]自我认知双向断裂（Distorted Credibility Conceptions）** 求知者对其真实知识与技能水平产生严重错觉。一方面表现为“自加信度赤字”，面对空白困惑产生技术[[Learned Helplessness|习得性无助]]与自我贬抑；另一方面表现为“虚假信度通胀”，借助算法或特权反馈将工具表层产出误判为自身高超智慧。[[Argument_Smith_2026_SPE|Smith (2026, pp. 5, 8–9)]]
+> - **[[Reliability|信度]]自我认知双向断裂（Distorted Credibility Conceptions）** 求知者对其真实知识与技能水平产生严重错觉。一方面表现为“[[Learned Helplessness|自加信度赤字]]”，面对空白困惑产生技术[[Learned Helplessness|习得性无助]]与自我贬抑；另一方面表现为“虚假信度通胀”，借助算法或特权反馈将工具表层产出误判为自身高超智慧。[[Argument_Smith_2026_SPE|Smith (2026, pp. 5, 8–9)]]
 > - **探究动机与认知挣扎剥夺（Atrophy of Inquiring Drive）** 学习者丧失了在不确定性中探索、在混乱中梳理因果的耐受力与意愿，习惯于直接获取黑箱给出的现成终稿，从而在思维最活跃期丧失了反思修改的机体冲动。
 > - **[[Epistemic Virtues and Vices|理智美德]]溃散与不良认知习惯固化（Erosion of Epistemic Virtues）** 滋生理智傲慢、算法盲从与思维惰性，彻底瓦解了批判性反思与独立检验事实的自律能力。
 

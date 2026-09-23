@@ -8,7 +8,7 @@ aliases:
 summary: "学习者在面临学业困难或知识盲区时，主动识别障碍、调动外部社会或技术资源以维持学习进程的自我调节学习与认识论策略，涵盖工具性求助、执行性求助与人机交互低威胁求助"
 type: concept
 domain: "educational-psychology"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
   - "[[Learner Autonomy]]"
+  - "[[High-Stakes Testing]]"
   - "[[Scaffolding]]"
   - "[[Affective Outcomes]]"
 related_theories:
@@ -53,7 +54,7 @@ related_arguments:
   - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Li_2012_Cambridge]]"
 created: 2026-09-22
-updated: 2026-09-23
+updated: 2026-09-24
 ---
 
 # Academic Help-Seeking
@@ -169,7 +170,7 @@ updated: 2026-09-23
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **自我调节属性** | 适应性求助是元认知调控与资源管理的高阶认知策略。 | 复杂学业[[Problem Solving\|问题解决]]、[[Learner Autonomy\|自主学习]]与元认知发展 | Zimmerman; Pintrich; Karabenick |
-> | **求助恐惧阻碍** | 害怕暴露愚蠢与负面社会评价诱发求助回避，阻碍认知发展。 | 传统班级课堂、高利害评估与师生互动 | Bornschlegl et al.; Ryan & Pintrich |
+> | **求助恐惧阻碍** | 害怕暴露愚蠢与负面社会评价诱发求助回避，阻碍认知发展。 | 传统班级课堂、[[High-Stakes Testing\|高利害评估]]与师生互动 | Bornschlegl et al.; Ryan & Pintrich |
 > | **文化信念调节** | 东方视求助为谦逊美德（无羞感），西方易将求助视为能力缺陷。 | 跨文化教育心理学、同伴互动与比较教育 | [[Argument_Li_2012_Cambridge\|Li (2012)]] |
 > | **技术去威胁赋能** | 生成式 AI 消除社会评价风险与权力壁垒，释放提问动能并驱动立场跃迁。 | 人工智能教育应用、人机协同探究与统计推论学习 | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]]; [[Argument_Wu_2025_ER\|Wu et al. (2025)]] |
 

@@ -187,7 +187,7 @@ issuing_organization: ""
 > - **知识传递受阻或被扣留（Knowledge Transference is Disrupted or Withheld）** 教学只给学生提供 AI 生成的标准答案或成品文本，省去了背后的推导依据、论证逻辑与解释理由，使概念知识无法在认知结构中生根。
 > - **技能实践受到限制或扼杀（Practice of Skills is Limited or Stymied）** 剥夺了学习者在真实困惑中摸索思路、在逻辑混乱中搭建框架以及在错误中反思修改的实践机会与认知负荷投入。
 > - **自我能力认知产生失真（Inaccurate Conceptions of Epistemic Ability）**
->   - **自加的[[Reliability|信度]]赤字（Self-Imposed Credibility Deficit）** 学生习惯于将高阶思考推给算法，误以为自己天生缺乏组织严密论证的能力，产生自我贬抑与技术[[Learned Helplessness|习得性无助]]；（p.8）
+>   - **自加的[[Reliability|信度]]赤字（[[Learned Helplessness|self-imposed credibility deficit]]）** 学生习惯于将高阶思考推给算法，误以为自己天生缺乏组织严密论证的能力，产生自我贬抑与技术[[Learned Helplessness|习得性无助]]；（p.8）
 >   - **盲目自满的信度通胀（Credibility Excess）** 凭借 AI 代劳交出精美成果获得好评，学生误以为自己已掌握高阶读写技艺，产生虚假自信而在脱离工具后瞬间失能。（pp.5, 9）
 
 ---
