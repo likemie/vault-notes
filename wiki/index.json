@@ -4214,9 +4214,9 @@
     "aliases": [
       "高风险测验",
       "高利害测验",
-      "高 stakes 测验",
       "high stakes assessment",
-      "高风险评估"
+      "高风险评估",
+      "高利害评估"
     ]
   },
   {
@@ -5388,7 +5388,10 @@
       "习得性无助",
       "习得无助",
       "学术习得性无助",
-      "academic learned helplessness"
+      "academic learned helplessness",
+      "技术性习得性无助",
+      "自加信度赤字",
+      "self-imposed credibility deficit"
     ]
   },
   {

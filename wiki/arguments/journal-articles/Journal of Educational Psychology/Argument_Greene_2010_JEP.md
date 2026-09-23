@@ -59,7 +59,7 @@ sources:
 part_of: 
 status: draft
 created: 2026-08-15
-updated: 2026-09-15
+updated: 2026-09-24
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Greene_2010_JEP"
@@ -157,7 +157,7 @@ issuing_organization: ""
 > | 评价主义者（[[Evaluativist]]） | 无法直接认知 | 不确定，来自人类心智 | 用于做出好决定并促进理解 | 可供评估的判断 |
 > 
 > *核心看点：此表呈现了传统的认识论发展阶段。作者指出，这四个定性的阶段本质上可以被拆解为个体对客观现实、知识来源及评价机制的不同信念维度的强弱组合。*
-> *来源：|[[Argument_Greene_2010_JEP|Greene et al. (2010)]], p. 235*
+> *来源：|本研究原表, p. 235*
 
 > [!warrant] 推理桥梁
 > 作者将上述传统模型与三维量化信念（SC、JA、PJ）进行了逻辑重构，演化出了全新的整合模型。
@@ -199,7 +199,7 @@ issuing_organization: ""
 > | 本科后教育（研究生） | 理性主义 | 弱 | 中等 | 中等 | 理性主义 | 弱 | 中等 | 中等 |
 > 
 > *核心看点：本表是作者提出的核心整合模型。它展示了四个定性的发展阶段（现实、教条/怀疑、理性）是如何由三个独立信念维度的不同强弱配置（Profile）构成的，并预测了个体在劣构领域（如历史）中的认知发展会快于良构领域（如数学）。*
-> *注：SC=简单与确定知识（Simple and Certain Knowledge）; JA=权威辩护（Justification by Authority）; PJ=个人辩护（Personal Justification）。来源：|[[Argument_Greene_2010_JEP|Greene et al. (2010)]], p. 238*
+> *注：SC=简单与确定知识（Simple and Certain Knowledge）; JA=权威辩护（Justification by Authority）; PJ=个人辩护（Personal Justification）。来源：|本研究原表, p. 238*
 
 > [!warrant] 概念拓展：良构与劣构领域
 > 作者引入了领域差异的视角来解释学生认知发展的不平衡性：
@@ -221,7 +221,7 @@ issuing_organization: ""
 >     style C fill:#f9f9f9,stroke:#333,stroke-width:2px
 > ```
 > 
-> *来源：|[[Argument_Greene_2010_JEP|Greene et al. (2010)]], p. 236*
+> *来源：|本研究原表, p. 236*
 
 ---
 
@@ -276,7 +276,7 @@ issuing_organization: ""
 >     class M_SC,M_JA,M_PJ,H_SC,H_JA,H_PJ latent;
 > ```
 > 
-> *来源：|[[Argument_Greene_2010_JEP|Greene et al. (2010)]], p. 240*
+> *来源：|本研究原表, p. 240*
 
 ---
 
@@ -299,7 +299,7 @@ issuing_organization: ""
 > | 6（强烈等值 Strong） | -27,126.735 | 54,955.470 | 56,564.731 | 55,450.203 |
 > 
 > *核心看点：基于信息准则（如 BIC、[[Sample Size Determination\|样本量]]调整的贝叶斯信息准则（Sample-Size Adjusted BIC, SABIC）等数值越小越好），设定了强烈等值限制的 6 分类模型对数据拟合最佳。这证明了原本连续量化的信念维度，在人群中确实能够聚类为几个典型的、异质性的定性阶段群组。*
-> *来源：|[[Argument_Greene_2010_JEP|Greene et al. (2010)]], p. 243*
+> *来源：|本研究原表, p. 243*
 
 > [!ref-table]- 表8：潜在类别因子均值及解释（Latent Class Factor Means and Interpretations）
 > | 类别 | 数学 SC | 数学 JA | 数学 PJ | 数学轮廓 | 历史 SC | 历史 JA | 历史 PJ | 历史轮廓 |
@@ -312,7 +312,7 @@ issuing_organization: ""
 > | **类别 6** | 强 | 强 | 强 | 现实主义者 | 强 | 强 | 弱 | 不清晰 |
 > 
 > *核心看点：本表将 FMM 聚类得出的均值映射回了理论预设的定性阶段。在这 6 个潜在类别中，共有 8 个领域轮廓（数学或历史）成功匹配了预设的发展阶段（现实主义、怀疑论或理性主义）。这不仅证明了量化维度可以还原出定性的发展特征，也直接验证了[[Epistemological Beliefs\|认识论信念]]的领域特殊性（例如类别 4 的学生在数学上是现实主义者，在历史上已发展至怀疑论阶段）。*
-> *注：部分类别（如 1、6）的历史或数学轮廓无法清晰对应理论模型，作者认为这揭示了模型可能需要纳入更多评价维度。来源：|[[Argument_Greene_2010_JEP|Greene et al. (2010)]], p. 245*
+> *注：部分类别（如 1、6）的历史或数学轮廓无法清晰对应理论模型，作者认为这揭示了模型可能需要纳入更多评价维度。来源：|本研究原表, p. 245*
 
 > [!example]- 图3：Factor mixture model
 > ```mermaid
@@ -347,7 +347,7 @@ issuing_organization: ""
 >     class F1,F2,F3,F4,F5,F6 factorNode;
 > ```
 > 
-> *来源：|[[Argument_Greene_2010_JEP|Greene et al. (2010)]], p. 241*
+> *来源：|本研究原表, p. 241*
 
 > [!example]- 图4：Latent class factor means
 > ```mermaid
@@ -379,7 +379,7 @@ issuing_organization: ""
 >     style Profiles fill:#f3f4f6,stroke:#9ca3af,stroke-dasharray: 5 5
 > ```
 > 
-> *来源：|[[Argument_Greene_2010_JEP|Greene et al. (2010)]], p. 246*
+> *来源：|本研究原表, p. 246*
 
 ---
 
@@ -402,7 +402,7 @@ issuing_organization: ""
 > | **类别 1 vs 类别 4** | 受教育年限 | -0.407 | 0.665 | $p < .01$ |
 > | | 数学成绩（分值越高表现越差） | 0.659 | 1.933 | $p < .01$ |
 > 
-> *核心看点：胜率比（Odds Ratio, $e^b$）展示了变量对类别归属的量化影响。以“类别1（初级阶段）vs 类别2（高级阶段）”为例：受教育年限增加，落入初级阶段的几率显著下降（$e^b = 0.496$）；而数学成绩“分值”（分值越高代表成绩越差）每增加一单位，落入初级阶段的几率就陡增近一倍（$e^b = 1.770$）。这用硬数据证明了：高年级、成绩好的学生极大概率属于高级认识论阶段，反之亦然。来源：|[[Argument_Greene_2010_JEP|Greene et al. (2010)]], Appendix D*
+> *核心看点：胜率比（Odds Ratio, $e^b$）展示了变量对类别归属的量化影响。以“类别1（初级阶段）vs 类别2（高级阶段）”为例：受教育年限增加，落入初级阶段的几率显著下降（$e^b = 0.496$）；而数学成绩“分值”（分值越高代表成绩越差）每增加一单位，落入初级阶段的几率就陡增近一倍（$e^b = 1.770$）。这用硬数据证明了：高年级、成绩好的学生极大概率属于高级认识论阶段，反之亦然。来源：|本研究原表, Appendix D*
 
 ---
 

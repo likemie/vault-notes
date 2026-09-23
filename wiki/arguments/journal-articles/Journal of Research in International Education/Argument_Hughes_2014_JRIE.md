@@ -50,7 +50,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-03
-updated: 2026-09-15
+updated: 2026-09-24
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Hughes_2014_JRIE"
@@ -159,7 +159,7 @@ issuing_organization: ""
 
 ### 二　ToK 的课程身份在批判性思维与认识论之间发生偏移
 
-[[Argument_Hughes_2014_JRIE|Hughes (2014, pp. 35–36)]] 将 2013 年 ToK 指南的课程结构概括为四个大纲部分，并说明这些部分如何进入论文和展示两项评估任务。
+康拉德·休斯（Conrad Hughes, pp. 35–36） 将 2013 年 ToK 指南的课程结构概括为四个大纲部分，并说明这些部分如何进入论文和展示两项评估任务。
 
 > [!ref-table] 2013 年 ToK 指南的课程结构
 > | 层级 | 组成 | 内容与功能 |

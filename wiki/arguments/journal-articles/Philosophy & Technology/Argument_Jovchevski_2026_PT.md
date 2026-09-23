@@ -50,7 +50,7 @@ sources:
 part_of:
 status: active
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-09-24
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Jovchevski_2026_PT"
@@ -292,12 +292,12 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card] [[Automation Bias|自动化偏差]]的伦理与道德核心危害（[[Argument_Jovchevski_2026_PT|Jovchevski et al., 2026]]）
+> [!citation-card] [[Automation Bias|自动化偏差]]的伦理与道德核心危害（Jovchevski et al., pp. 6–8）
 > 我们主张，这种顺从之所以在伦理与道德上令人不安，是因为它（1）干扰了用户自主能动性的行使，并且（2）在高风险决策情境中损害了人类履行行使人类判断的道德义务。为了应对这些关切，我们在本文最后部分提出了两种在人类操作者与决策支持系统交互中引入[[Epistemic Friction|认识论摩擦]]的设计干预：反思机器与[[Defeater|击败者]]。这两种工具均旨在促进[[Reflexivity|反思性]]卷入并培育对系统建议的批判性信任。（p. 4）
 >
 > *We argue that what is ethically and morally troubling about this form of deference, is that it (1) interferes with the exercise of users' autonomous agency and (2) compromises their duty to exercise human judgment in high-stakes decision-making contexts. To address these concerns, in the final part of the paper we propose two design-oriented interventions which introduce epistemic friction in the interaction between the human operator and the decision-support system: Reflection Machines (RMs) and defeaters.*
 
-> [!citation-card] [[Defeater|反驳型击败者]]在医疗诊断中支持自主抗辩的机制（[[Argument_Jovchevski_2026_PT|Jovchevski et al., 2026]]）
+> [!citation-card] [[Defeater|反驳型击败者]]在医疗诊断中支持自主抗辩的机制（Jovchevski et al., pp. 6–8）
 > 与挑战输入数据[[Reliability|可靠性]]的[[Defeater|削弱型击败者]]不同，反驳型击败者引入了支持不相容诊断的证据。当系统推荐病症 A 时，反驳型击败者可能会自动显示患者病历中在统计上与病症 B 相关联的临床指标；或者呈现同行评议的鉴别诊断标准，表明影像中的特定特征更能预测病症 B。在每种情况下，击败者都通过提供反向证据直接质疑系统的建议，促使临床医生就行使自主判断来决定接受、保留还是拒绝自动化提示。（p. 23）
 >
 > *Unlike an undercutting defeater, which would challenge the reliability of the input data or the system's processing pipeline, a rebutting defeater introduces evidence that supports an incompatible diagnosis. When the system recommends Condition A, the rebutting defeater might automatically display clinical indicators from the patient record... that statistically correlate with Condition B rather than Condition A... In each case, the defeater directly contests the system's recommendation by supplying counterevidence, inciting the clinician to exercise one's judgment on whether the automated cue should be accepted, qualified, or rejected.*

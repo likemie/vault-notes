@@ -136,7 +136,7 @@ sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch03_Burns_Schuller_2022|Ch03_Burns_Schuller_2022]]"
 status: draft
 created: 2026-09-12
-updated: 2026-09-18
+updated: 2026-09-24
 ---
 # Argument_Burns_Schuller_2022_BrokerageAgencies
 
@@ -162,7 +162,7 @@ updated: 2026-09-18
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **[[Educational Brokerage Agency\|教育中介机构治理多维分析框架]]（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022]]）** | 解构中介机构的制度化特征，从与教育部的治理依附关系（部委嵌入型、政府资助自治型、独立慈善基金型）、目标受众（政策端、实践端、媒体端）及方法学阵营（[[Randomised Controlled Trials\|随机对照试验]]黄金标准 vs 质性-量化融合多元论）三重视角系统描摹中介生态图谱。（pp. 61–64） |
+> | **[[Educational Brokerage Agency\|教育中介机构治理多维分析框架]]（Burns & Schuller）** | 解构中介机构的制度化特征，从与教育部的治理依附关系（部委嵌入型、政府资助自治型、独立慈善基金型）、目标受众（政策端、实践端、媒体端）及方法学阵营（[[Randomised Controlled Trials\|随机对照试验]]黄金标准 vs 质性-量化融合多元论）三重视角系统描摹中介生态图谱。（pp. 61–64） |
 > | **[[Complexity Theory\|教育知识治理复杂系统论]]（Burns, Köster & Fuster, 2016）** | 揭示教育分权化进程中行动者网络的高度[[Heterogeneity\|异质性]]与自适应特征，阐明多方利益相关者（研究者、决策者、教师、家长、教育科技企业、媒体）重叠交织的网状互动如何彻底瓦解传统的单向流水线模型。（pp. 58–59） |
 > | **[[Knowledge Mediation\|支持研究使用的三维支柱框架]]（Langer, Tripney & Gough, 2016）** | 明确促成[[Research Utilization\|研究利用]]的三个不可分割的社会心理与制度支柱——获取渠道（Access）、专业技能（Skills）与社会互动（Interactions），确立关系性互动在维系行为改变中的核心动力地位。（p. 59） |
 > | **[[Evidence-Informed Practice\|循证医学危机批判理论]]（Greenhalgh, Howick & Maskrey, 2014）** | 借由成熟临床领域的实践反思，透视技术化决策指南与自动化算法提示如何反向侵蚀专业从业者的临床判断力，为教育领域抵御刚性工具包对教师[[Phronesis\|实践智慧]]的挤压提供反思标尺。（pp. 65–66） |

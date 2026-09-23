@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "AI Hallucination",
+      "path": "wiki/concepts/educational-technology/AI Hallucination.md"
+    },
+    {
       "basename": "Argument_Smith_2026_SPE",
       "path": "wiki/arguments/journal-articles/Studies in Philosophy and Education/Argument_Smith_2026_SPE.md"
+    },
+    {
+      "basename": "Examination-Oriented Education",
+      "path": "wiki/concepts/educational-policy-reform/Examination-Oriented Education.md"
+    },
+    {
+      "basename": "Divergent Thinking",
+      "path": "wiki/concepts/competency-and-assessment/Divergent Thinking.md"
+    },
+    {
+      "basename": "Reflexivity",
+      "path": "wiki/concepts/research-methodology/Reflexivity.md"
+    },
+    {
+      "basename": "Learned Helplessness",
+      "path": "wiki/concepts/educational-psychology/Learned Helplessness.md"
+    },
+    {
+      "basename": "High-Stakes Testing",
+      "path": "wiki/concepts/educational-policy-reform/High-Stakes Testing.md"
     },
     {
       "basename": "Argument_Naeem_2026_Episteme",
@@ -11,10 +35,6 @@
     {
       "basename": "Argument_Jovchevski_2026_PT",
       "path": "wiki/arguments/journal-articles/Philosophy & Technology/Argument_Jovchevski_2026_PT.md"
-    },
-    {
-      "basename": "AI Hallucination",
-      "path": "wiki/concepts/educational-technology/AI Hallucination.md"
     },
     {
       "basename": "Miranda Fricker",
@@ -129,10 +149,6 @@
       "path": "wiki/arguments/journal-articles/Science Education/Argument_Zhang_2022_SE.md"
     },
     {
-      "basename": "Reflexivity",
-      "path": "wiki/concepts/research-methodology/Reflexivity.md"
-    },
-    {
       "basename": "Socratic Dialogue",
       "path": "wiki/concepts/instruction-pedagogy/Socratic Dialogue.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Interactional Ethnography",
       "path": "wiki/methods/qualitative/Interactional Ethnography.md"
-    },
-    {
-      "basename": "Coding in Qualitative Research",
-      "path": "wiki/methods/qualitative/Coding in Qualitative Research.md"
-    },
-    {
-      "basename": "Knowledge Production",
-      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
-    },
-    {
-      "basename": "Scientific Explanation",
-      "path": "wiki/concepts/curriculum/Scientific Explanation.md"
-    },
-    {
-      "basename": "Jianwei Zhang",
-      "path": "wiki/persons/us/Jianwei Zhang.md"
     }
   ],
   "omittedPaths": [],

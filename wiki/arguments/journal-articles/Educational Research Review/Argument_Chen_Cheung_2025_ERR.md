@@ -118,7 +118,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-04
-updated: 2026-09-15
+updated: 2026-09-24
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chen_Cheung_2025_ERR"
@@ -163,7 +163,7 @@ issuing_organization: ""
 > | **Laun & Wolff (2025)** | 2003–2024.05（$k=62$） | 全学段；[[Dialogue in Education\|对话]]机器人 | 学习成效与交互模式 | 跨 20 年技术演变；$g_{\text{overall}} = 0.76$ |
 > | **Sun & Zhou (2024)** | 2022.12–2024（$k=28$） | 高等教育；Gen-AI | 认知掌握与非认知态度 | 缺乏严格基线筛选；$g_{\text{HE}} = 0.533$ |
 > | **Tlili et al. (2025)** | 2011–2024.01（$k=85$） | 全学段；AI 应用 | 学业成绩 | 未控发表偏倚；$g_{\text{HE}} = 1.15$ |
-> | **[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]]** | **2022.12–2025.03（$k=57, m=97$）** | **专注高等教育大学本科生；Gen-AI** | **学业成绩、语言技能、情感动机、高阶思维、元认知（5 维）** | **严格控制基线等效（$d < 0.25$）；剪补前 $g^+ = 0.804$，剪补后 $g^+_{\text{adj}} = 0.321$；AT-MCSCL 17 项调节检验** |
+> | **本研究（Chen & Cheung）** | **2022.12–2025.03（$k=57, m=97$）** | **专注高等教育大学本科生；Gen-AI** | **学业成绩、语言技能、情感动机、高阶思维、元认知（5 维）** | **严格控制基线等效（$d < 0.25$）；剪补前 $g^+ = 0.804$，剪补后 $g^+_{\text{adj}} = 0.321$；AT-MCSCL 17 项调节检验** |
 
 ---
 

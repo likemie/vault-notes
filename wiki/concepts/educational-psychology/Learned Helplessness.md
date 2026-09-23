@@ -1,37 +1,55 @@
 ---
 title: Learned Helplessness
 aliases:
-  - "习得性无助"
-  - "习得无助"
-  - "学术习得性无助"
-  - "academic learned helplessness"
-summary: "学习者在经历挑战或挫折时，因将困难归因于不可改变的天生能力匮乏而产生的消极行为与认知模式。表现为低自尊、失败恐惧、迅速放弃努力及负面评价泛化，是实体智力观与固定/快速学习认识论信念的典型行为表征。"
+  - 习得性无助
+  - 习得无助
+  - 学术习得性无助
+  - academic learned helplessness
+  - 技术性习得性无助
+  - 自加信度赤字
+  - self-imposed credibility deficit
+summary: "学习者在经历挑战、挫折或过度依赖技术代劳时，因将困难归因于不可改变的天生能力匮乏而产生的消极行为与认知模式；在生成式人工智能时代延伸为将高阶思考推给算法引发的自加信度赤字与认识畸变。"
 type: concept
 domain: "educational-psychology"
-related_count: 21
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 36
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
-  - "theme/motivation"
-  - "theme/affect"
-  - "theme/self-belief"
-  - "theme/epistemological-beliefs"
+  - theme/motivation
+  - theme/affect
+  - theme/self-belief
+  - theme/epistemological-beliefs
+  - theme/educational-technology
 related_concepts:
+  - "[[Generative Artificial Intelligence]]"
+  - "[[Reliability]]"
+  - "[[Knowledge Production]]"
+  - "[[Epistemology]]"
+  - "[[Epistemic Malformation]]"
+  - "[[Epistemic Practices]]"
+  - "[[Document]]"
+  - "[[Metacognition]]"
+  - "[[Humility]]"
   - "[[Epistemological Beliefs]]"
   - "[[Self-Efficacy]]"
   - "[[Problem Solving]]"
-  - "[[Epistemology]]"
   - "[[Academic Achievement]]"
+  - "[[Reflexivity]]"
   - "[[Self-Regulated Learning]]"
   - "[[Task Structure]]"
   - "[[Ecological Validity]]"
   - "[[Scaffolding]]"
+  - "[[Working Memory]]"
   - "[[Variable]]"
+  - "[[Alien Intelligence]]"
   - "[[Homework]]"
+  - "[[Epistemic Agency]]"
+  - "[[Automation Bias]]"
 related_theories:
   - "[[Growth Mindset]]"
   - "[[Attribution Theory]]"
+  - "[[Formative Epistemic Injustice]]"
 related_methods:
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
@@ -43,12 +61,13 @@ related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
+  - "[[Argument_Smith_2026_SPE]]"
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Lodewyk_2007_EP]]"
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Learned Helplessness
@@ -59,29 +78,41 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 习得性无助（learned helplessness）是指学习者在面对学业挑战、挫折或失败情境时，因主观认定自身匮乏克服困难的能力且该能力无法通过努力改变，进而产生的系统性放弃努力、认知退缩与情绪低落的适应不良行为模式。与坚信能力可塑并持续探索策略的掌握导向（mastery orientation）相对立，习得性无助者表现出显著的低自尊、对失败的深度恐惧以及解题耐挫力的急剧崩塌。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 58-59)]]; [[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, p. 310)]]
+> **习得性无助（Learned Helplessness）** 是指学习者在面对学业挑战、挫折阻碍或过度依赖技术代劳情境时，因主观认定自身匮乏克服困难的能力且该能力无法通过后天努力改变，进而产生的系统性放弃努力、认知退缩与情绪低落的适应不良行为模式。与坚信能力可塑并持续探索策略的掌握导向（Mastery Orientation）相对立，传统习得性无助者表现出低自尊、对失败的深度恐惧以及耐挫力崩塌（Li, 2012, pp. 58–59; Lodewyk, 2007, p. 310）；在[[Generative Artificial Intelligence|生成式人工智能]]时代，该机制进一步延伸为**技术性习得性无助与自加[[Reliability|信度]]赤字（Self-Imposed Credibility Deficit）**——学习者因习惯将高阶构思与论证外包给算法，产生自我贬抑与虚假心智无能感，主动认定自己无法独立胜任[[Knowledge Production|知识生产]]，阻断自身求知能力的健康发育。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 7–8)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向个体在遭遇认知阻碍时将成败归因于内部固定缺陷的病理化应对机制。
-> - **用途** 解释为何部分学生在遇到难题时迅速丧失探索动力，以及[[Epistemological Beliefs\|认识论信念]]如何与[[Self-Efficacy\|自我效能感]]交互导致学业挫败。
-> - **边界** 习得性无助是表层的行为与心理症状，其深层认知病因是个体持有的[[Growth Mindset\|实体智力观]]与固定快速学习信念。
+> - **含义** 指向个体在遭遇认知阻碍或面对强大技术代理时，将自身能力判定为先天缺陷、不可改变的病理化心理机制与[[Epistemology|认识论]]自我失效。
+> - **用途** 解释为何部分学生在遇到难题时迅速丧失探索动力，以及[[Growth Mindset|实体智力观]]、固定快速学习信念与技术过度外包如何交互引发深层学业挫败与[[Epistemic Malformation|认知畸变]]。
+> - **边界** 习得性无助是表层的行为表征与心理症状，其深层根源既包括个体持有的实体智力观与快速学习认识论偏误，也包含环境（如高利害应试问责或算法全流程代劳）对个体[[Epistemic Practices|认知实践]]权的结构性剥夺。
 
-> [!boundary]- 概念边界辨析
-> - **习得性无助 vs 实体论智力观（entity theory of intelligence）** 习得性无助是面临挑战时表现出的放弃行为与消极情绪反应（症状层面）；实体智力观则是认为智力是天生固定不可变质的底层信念（病因层面）。
-> - **习得性无助 vs 真实的认知能力缺陷** 处于习得性无助状态的学生往往具备解决问题的客观智力潜能，但其主观无助感阻断了认知资源的正常调配与策略反思。
+---
+
+## 概念辨析
+
+> [!contrast-table] 传统学业习得性无助 vs 技术性习得性无助（自加[[Reliability|信度]]赤字）
+> | 维度 | 传统学业习得性无助（Academic Learned Helplessness） | 技术性习得性无助 / 自加信度赤字（Technological Learned Helplessness） |
+> |---|---|---|
+> | **诱发情境** | 遭遇解题挫折、学业失败或持续消极反馈 | 将高阶思考全流程外包给生成式 AI 等技术代理 |
+> | **核心归因** | “我天生不是学这门学科的料，努力没有用” | “算法写得太完美了，我天生不可能组织出如此严密的论证” |
+> | **行为表现** | 迅速停止解题尝试，数分钟内放弃，防御性回避 | 面对独立探究时产生严重焦虑，不假思索地直接召唤 AI 代写代劳 |
+> | **[[Epistemology\|认识论]]后果** | 表现目标压倒掌握目标，逃避公开展示 | **信度自我认知失真** 形成自加信度赤字，主动剥夺自身求知者资格 |
+> | **代表学者与[[Document\|文献]]** | Dweck & Leggett (1988); [[Argument_Li_2012_Cambridge\|Li (2012)]]; [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | Nikolaidis (2021); [[Argument_Smith_2026_SPE\|Smith (2026)]] |
+
+> [!boundary] 概念边界辨析
+> - **习得性无助 vs [[Growth Mindset|实体论智力观]]（Entity Theory of Intelligence）** 习得性无助是面临挑战或面对技术代理时表现出的退缩与放弃行为（症状层面）；实体智力观则是认为智力是天生固定不可变质的底层信念（病因层面）。
+> - **习得性无助 vs 真实的认知能力缺陷** 处于习得性无助状态的学生往往具备解决问题的客观智力潜能，但其主观无助感阻断了认知资源的正常调配与[[Metacognition|元认知]]策略监控。
+> - **自加信度赤字 vs 理智[[Humility|谦逊]]（Intellectual Humility）** 理智谦逊是对自身知识边界的客观清醒认知；自加信度赤字则是因[[Epistemic Practices|认知实践]]长期被技术外包剥夺后产生的病态自我贬抑与虚假无能感。
 
 ---
 
 ## 核心要素
 
-> [!feature] 习得性无助的核心特征与行为表征
-> 习得性无助包含四个层层递进的核心维度：
-> - **低能力自尊（Low Self-Esteem）** 坚信自己在当前学术任务上天生缺乏能力，将单次困难等同于自我价值的彻底否定。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 58)]]
+> [!feature] 习得性无助的核心维度与行为表征
+> - **低能力自尊（Low Self-Esteem）** 坚信自己在当前学术任务上天生缺乏能力，将单次困难等同于自我价值的彻底否定。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 58)]]
 > - **失败恐惧与回避动机（Fear of Failure & Avoidance）** 预期进一步尝试只会暴露无能，因而采取防御性退缩以避免在同伴和教师面前蒙羞。
-> - **迅速放弃努力（Rapid Abandonment of Effort）** 面对需要持续推理的复杂任务时，在数分钟甚至数秒内迅速停止策略尝试。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, p. 310)]]
-> - **消极评价泛化（Generalization of Failure）** 将在特定学科或单一题型上的挫折经验扩散至整个学业自我概念中，形成弥散性的无能感。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 59)]]
->
-> 与之形成鲜明对照的是**韧性掌握模式（Resilience / Mastery Pattern）** 将失败视为策略不足或努力欠缺的反馈信号，在逆境中维持高水平[[Problem Solving\|问题解决]]投入。
+> - **迅速放弃努力（Rapid Abandonment of Effort）** 面对需要持续推理的复杂任务时，在数分钟甚至数秒内迅速停止策略尝试。[[Argument_Lodewyk_2007_EP|(Lodewyk, 2007, p. 310)]]
+> - **消极评价泛化（Generalization of Failure）** 将在特定学科或单一题型上的挫折经验扩散至整个学业自我概念中，形成弥散性的无能感。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 59)]]
+> - **自加[[Reliability|信度]]赤字与技术依附（Self-Imposed Credibility Deficit & Technological Dependency）** 习惯将高阶构思与批判性反思完全交由算法代劳，视大模型为无所不能的权威，面对脱机独立思考情境时产生深层认知瘫痪，主动退却求知主体地位。[[Argument_Smith_2026_SPE|(Smith, 2026, p. 8)]]
 
 ---
 
@@ -94,20 +125,20 @@ updated: 2026-09-22
 > [!concept-lens] 智力内隐观对无助反应的决定作用
 > 探讨学生持有的智力理论如何直接决定其在面对学业失败时的归因路径与行为反应。
 
-> [!claim] Dweck & Leggett (1988); [[Argument_Li_2012_Cambridge\|Li (2012)]]
-> **[[Growth Mindset\|实体智力观]]致病假说** 学生的行为模式深刻取决于其内隐智力理论。
-> 持有实体论（Entity Theory）的学生认为智力是固定的天生特质。在他们看来，付出巨大努力本身就是能力低下的证明，一旦遭遇挫折便会推导出我能力不行且不可改变的结论，从而直接诱发习得性无助；相反，持有增长论（Incremental Theory）的学生将智力视为可通过实践拓展的技能网络，能将失败转化为寻求新策略的动力，展现出高水平韧性。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 58-59)]]
+> [!claim] Dweck & Leggett (1988); [[Argument_Li_2012_Cambridge|Li (2012)]]
+> **[[Growth Mindset|实体智力观]]致病假说** 学生的行为模式深刻取决于其内隐智力理论。
+> 持有实体论（Entity Theory）的学生认为智力是固定的天生特质。在他们看来，付出巨大努力本身就是能力低下的证明，一旦遭遇挫折便会推导出“我能力不行且不可改变”的结论，从而直接诱发习得性无助；相反，持有增长论（Incremental Theory）的学生将智力视为可通过实践拓展的技能网络，能将失败转化为寻求新策略的动力，展现出高水平韧性。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 58–59)]]
 
 ---
 
 ### 命题二　固定快速学习信念与自我效能感崩塌加剧即时放弃
 
-> [!concept-lens] [[Epistemological Beliefs\|认识论信念]]与[[Self-Efficacy\|自我效能]]的协同催化
-> 探讨固定与快速学习认识论信念如何与自我效能感交互，加速[[Problem Solving\|复杂问题解决]]中的无助退缩。
+> [!concept-lens] [[Epistemological Beliefs|认识论信念]]与[[Self-Efficacy|自我效能]]的协同催化
+> 探讨固定与快速学习认识论信念如何与自我效能感交互，加速[[Problem Solving|复杂问题解决]]中的无助退缩。
 
-> [!claim] Schoenfeld (1985); Bandura (1993); [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]]
+> [!claim] Schoenfeld (1985); Bandura (1993); [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]]
 > **快速学习期望与效能骤降命题** 认为学习必须迅速发生（Quick Learning）或能力生来固化（Fixed Ability）的认识论信念，是导致学生在复杂学术任务中过早放弃的关键催化剂。
-> 当学生深信理解必须一蹴而就时，超过数分钟的认知挣扎会被错误解读为缺乏天生能力的证据；这种信念会剧烈削弱学生的解题自我效能感，促使其在面对劣构问题或跨学科综合任务时迅速触发无助退缩机制。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, pp. 310, 323-324)]]
+> 当学生深信理解必须一蹴而就时，超过数分钟的认知挣扎会被错误解读为缺乏天生能力的证据；这种信念会剧烈削弱学生的解题自我效能感，促使其在面对劣构问题或跨学科综合任务时迅速触发无助退缩机制。[[Argument_Lodewyk_2007_EP|(Lodewyk, 2007, pp. 310, 323–324)]]
 
 ---
 
@@ -116,8 +147,8 @@ updated: 2026-09-22
 > [!concept-lens] 学业分层中的能力观分化
 > 长期学困生的认知系统普遍被固定快速学习能力信念所禁锢。
 
-> [!claim] Qian & Alvermann (1995); [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]]
-> **学业阶梯中的[[Epistemology\|认识论]]无助断层** 在中学科学教育实证中，固定与快速学习能力（Fixed and Quick Ability to Learn，FQAL）信念是预测学生长期总体[[Academic Achievement\|学业成就]]预估值（EOAA）的最强因子（$\Delta R^2 = .08, p < .001$）。低学业成就组在固定能力信念上的幼稚程度显著高于高成就组（$M = .31$ vs $-.24, p < .001, \eta^2 = .08$）。学困生普遍深信能力天生且无法提升，这种认识论无助感使其在日常学习中长期处于低努力投入与防御性回避状态。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, pp. 318-320)]]
+> [!claim] Qian & Alvermann (1995); [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]]
+> **学业阶梯中的[[Epistemology|认识论]]无助断层** 在中学科学教育实证中，固定与快速学习能力（Fixed and Quick Ability to Learn, FQAL）信念是预测学生长期总体[[Academic Achievement|学业成就]]预估值（EOAA）的最强因子（$\Delta R^2 = .08, p < .001$）。低学业成就组在固定能力信念上的幼稚程度显著高于高成就组（$M = .31$ vs $-.24, p < .001, \eta^2 = .08$）。学困生普遍深信能力天生且无法提升，这种认识论无助感使其在日常学习中长期处于低努力投入与防御性回避状态。[[Argument_Lodewyk_2007_EP|(Lodewyk, 2007, pp. 318–320)]]
 
 ---
 
@@ -126,30 +157,43 @@ updated: 2026-09-22
 > [!concept-lens] 性别社会化与能力归因偏差
 > 探讨男女学生在能力可塑性信念上的系统性差异及其对学业耐挫力的影响。
 
-> [!claim] Enman & Lupart (2000); [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]]
-> **性别认识论分化与抗无助优势** 在基础教育阶段，男生比女生显著更幼稚地笃信天生能力论与快速学习论（$t = -5.07, p < .001, \eta^2 = .06$）。女生表现出更成熟的能力增长观与对持续努力价值的认可，在面对良构与劣构科学任务时均能维持更持久的自我调节与更低的无助放弃倾向，这一认识论优势构成了女生取得更高学业总评的重要心理支撑。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, pp. 321-322, 324)]]
+> [!claim] Enman & Lupart (2000); [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]]
+> **性别认识论分化与抗无助优势** 在基础教育阶段，男生比女生显著更幼稚地笃信天生能力论与快速学习论（$t = -5.07, p < .001, \eta^2 = .06$）。女生表现出更成熟的能力增长观与对持续努力价值的认可，在面对良构与劣构科学任务时均能维持更持久的自我调节与更低的无助放弃倾向，这一认识论优势构成了女生取得更高学业总评的重要心理支撑。[[Argument_Lodewyk_2007_EP|(Lodewyk, 2007, pp. 321–322, 324)]]
+
+---
+
+### 命题五　生成式人工智能全流程代劳诱发自加信度赤字与技术性习得性无助
+
+> [!concept-lens] 技术代写外包、心智剥夺与认知致残
+> 探讨当生成式 AI 充当全流程“私人厨师”时，如何剥夺学习者的实践机能并诱发认识论层面的自加[[Reliability|信度]]赤字。
+
+> [!claim] Nikolaidis (2021); [[Argument_Smith_2026_SPE|Smith (2026)]]
+> **技术代劳与自加信度赤字命题** 斯宾塞·J·史密斯在 [[Argument_Smith_2026_SPE|Smith (2026)]] 中指出，生成式 AI 的全流程代写给学生施加了深刻的[[Reliability|信度]]自我认知失真（Misperception of Credibility）。
+> 当学生将构思、草拟与[[Reflexivity|反思性]]修改完全外包给算法时，虽然换取了表面的文本流畅性，却彻底失去了在困难中调配心智、外显思维并克服挫折的关键机会。这种实践剥夺反向强化了学生的认知无能感：每当面对脱机独立写作或批判探究任务时，学生会产生强烈的自我怀疑，习惯性认为自己天生缺乏组织严密论证的能力，从而在心理上主动贬抑自身知识主张的有效性，陷入**自加的信度赤字与技术性习得性无助**。该机制构成了 A. C. 尼古拉迪斯（A. C. Nikolaidis, 2021）所定义的[[Epistemic Malformation|认知畸变]]的核心病理表现。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 4, 8)]]
 
 ---
 
 ### 命题总览
 
-> [!contrast-table] 所有命题归纳与理论边界
-> | 命题类型 | 核心主张 | 适用情境与作用机制 | 代表学者 |
+> [!contrast-table] 习得性无助命题归纳与理论边界
+> | 命题类型 | 核心主张 | 适用情境与作用机制 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
-> | **实体智力致病根源** | 实体智力观将失败归结为天生不可变缺陷，是诱发习得性无助的核心病因。 | 学业归因干预、成就目标定向分析 | Dweck & Leggett; Li |
-> | **快速学习效能催化** | 快速学习期望促使学生将正常的认知挣扎误判为无能，加速效能崩塌与放弃。 | 数理问题解决、认知耐挫力培养 | Schoenfeld; Bandura; Lodewyk |
-> | **学业阶梯信念断层** | 固定能力信念是区分长期优等生与学困生的最强指标，学困生呈现深度认识论无助。 | 基础教育学困生转化、分层教学设计 | Qian & Alvermann; Lodewyk |
-> | **性别抗无助优势** | 女生持有显著更成熟的能力增长观与更低的无助倾向，支撑其在复杂任务中的高表现。 | 科学教育性别差异、[[Self-Regulated Learning\|自我调节学习]]辅导 | Enman & Lupart; Lodewyk |
+> | **实体智力致病根源** | 实体智力观将失败归结为天生不可变缺陷，是诱发传统习得性无助的核心病因。 | 学业归因干预、成就目标定向分析 | Dweck & Leggett (1988); Li (2012) |
+> | **快速学习效能催化** | 快速学习期望促使学生将正常的认知挣扎误判为无能，加速效能崩塌与即时放弃。 | 数理问题解决、认知耐挫力培养 | Schoenfeld (1985); Bandura (1993); Lodewyk (2007) |
+> | **学业阶梯信念断层** | 固定能力信念是区分长期优等生与学困生的最强指标，学困生呈现深度认识论无助。 | 基础教育学困生转化、分层教学设计 | Qian & Alvermann (1995); Lodewyk (2007) |
+> | **性别抗无助优势** | 女生持有显著更成熟的能力增长观与更低的无助倾向，支撑其在复杂任务中的高表现。 | 科学教育性别差异、[[Self-Regulated Learning\|自我调节学习]]辅导 | Enman & Lupart (2000); Lodewyk (2007) |
+> | **技术代劳与自加赤字** | 全流程 AI 代写剥夺核心心智探究实践，诱发自加信度赤字与技术性习得性无助。 | 生成式 AI 采纳、读写教育反思性防御规程 | Nikolaidis (2021); [[Argument_Smith_2026_SPE\|Smith (2026)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变脉络
-> - **1967–1975 年：动物实验与归因重构** Seligman 与 Maier 首次在不可控电击实验中发现动物的无助放弃行为；随后 Abramson et al. 引入[[Attribution Theory\|归因理论]]，将其扩展为人类在不可控负性事件下的内部、稳定、普遍归因模式。
-> - **1975–1988 年：教育领域的现象识别与智力内隐观确立** Dweck 在儿童学业挫折实验中识别出学术习得性无助与掌握导向模式，并构建实体论 vs 增长论智力模型，确立了无助反应的认知病理机制。[[Argument_Li_2012_Cambridge\|(Li, 2012)]]
-> - **1990–1995 年：[[Epistemological Beliefs\|认识论信念]]系统的多维整合** Schommer (1990) 与 Qian & Alvermann (1995) 将天生固定能力与快速学习纳入认识论信念框架，证明[[Epistemology\|认识论]]无助信念直接制约概念转变与科学文本理解。
-> - **2007 年：微观[[Task Structure\|任务结构]]实验与因果机制确证** [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] 通过中学生科学双任务实验，实证检验了固定快速能力信念（FQAL）对总体成绩的强力负向预测，揭示了无助信念在学业阶梯中的分化机制。
+> - **1967–1975 年：动物实验与归因重构** Seligman 与 Maier 首次在不可控电击实验中发现动物的无助放弃行为；随后 Abramson et al. 引入[[Attribution Theory|归因理论]]，将其扩展为人类在不可控负性事件下的内部、稳定、普遍归因模式。
+> - **1975–1988 年：教育领域的现象识别与智力内隐观确立** Dweck 在儿童学业挫折实验中识别出学术习得性无助与掌握导向模式，并构建实体论 vs 增长论智力模型，确立了无助反应的认知病理机制。[[Argument_Li_2012_Cambridge|(Li, 2012)]]
+> - **1990–1995 年：[[Epistemological Beliefs|认识论信念]]系统的多维整合** Schommer (1990) 与 Qian & Alvermann (1995) 将天生固定能力与快速学习纳入认识论信念框架，证明[[Epistemology|认识论]]无助信念直接制约概念转变与科学文本理解。
+> - **2007 年：微观[[Task Structure|任务结构]]实验与因果机制确证** [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] 通过中学生科学双任务实验，实证检验了固定快速能力信念（FQAL）对总体成绩的强力负向预测，揭示了无助信念在学业阶梯中的分化机制。
+> - **2026 年：生成式 AI 全流程代劳与自加[[Reliability|信度]]赤字确立** [[Argument_Smith_2026_SPE|Smith (2026)]] 揭示了大模型充当“私人厨师”对未成年人[[Epistemic Practices|认知实践]]权的剥夺，论证技术过度外包导致学生面对独立思考时产生严重的自加信度赤字与技术性习得性无助，确立了人工智能时代的认知致残机理。
 
 ---
 
@@ -157,7 +201,8 @@ updated: 2026-09-22
 
 > [!critique] 方法论反思与干预边界
 > - **情境特异性 vs 特质化泛化的测量张力** 早期研究常将习得性无助视为稳定的个体特质，但现代学习科学表明，无助反应高度依赖于具体的学科领域、任务难度与教师反馈语境。
-> - **[[Growth Mindset|成长型思维]]干预的[[Ecological Validity\|生态效度]]争议** 尽管重塑增长型能力信念能有效缓解习得性无助，但若缺乏配套的高阶学习策略指导与适宜的任务[[Scaffolding\|脚手架]]，单纯的口头信念鼓励难以在复杂劣构问题中产生长久疗效。
+> - **[[Growth Mindset|成长型思维]]干预的[[Ecological Validity|生态效度]]争议** 尽管重塑增长型能力信念能有效缓解习得性无助，但若缺乏配套的高阶学习策略指导与适宜的任务[[Scaffolding|脚手架]]，单纯的口头信念鼓励难以在复杂劣构问题中产生长久疗效。
+> - **技术辅助脚手架 vs 认知致残陷阱的核心悖论** 人工智能究竟是减轻[[Working Memory|工作记忆]]负荷的探究脚手架，还是诱发技术性习得性无助的致残陷阱？Smith (2026) 强调其关键在于**操作权与反思权是否留在人类手中** 拼写检查促成反思，全篇代写剥夺心智。
 
 ---
 
@@ -176,15 +221,33 @@ updated: 2026-09-22
 ## 应用案例
 
 > [!example] 典型教学与干预案例
-> - **中学科学解题中的即时放弃与思维阻断（[[Argument_Lodewyk_2007_EP\|Lodewyk, 2007]]）**
->   持有高固定能力信念的学生在面对癌症经费分配等开放[[Task Structure\|劣构任务]]时，刚尝试 2–3 分钟便宣称自己根本不是学科学的料并停止作答，表现出典型的[[Epistemology\|认识论]]习得性无助。
-> - **归因再培训与过程性评价干预**
->   教师在批改[[Homework\|作业]]时避免使用你真聪明的特质夸奖，转而强化你尝试了三种不同策略的过程性反馈，帮助陷入习得性无助的学生将挫折重新归因于策略与投入。
+> - **中学科学解题中的即时放弃与思维阻断（[[Argument_Lodewyk_2007_EP|Lodewyk, 2007]]）**
+>   持有高固定能力信念的学生在面对癌症经费分配等开放[[Task Structure|劣构任务]]时，刚尝试 2–3 分钟便宣称自己根本不是学科学的料并停止作答，表现出典型的[[Epistemology|认识论]]习得性无助。
+> - **生成式 AI 全流程代写引发的[[Reliability|信度]]赤字与恐慌性退缩（[[Argument_Smith_2026_SPE|Smith, 2026]]）**
+>   中学生在英语语言艺术课中习惯直接指令生成式 AI 撰写整篇议论文；当教师要求进行脱机当堂独立写作或口头答辩时，学生产生极度的无助与焦虑，深信脱离 AI 自己绝不可能写出有说服力的句子，展现出深度的技术性习得性无助。
+> - **归因再培训与[[Alien Intelligence|异己智能]]反思支架干预**
+>   教师在批改[[Homework|作业]]时避免泛泛夸奖“你真聪明”，转而表彰“你尝试了不同[[Reflexivity|反思性]]提问并识别出了 AI 输出的逻辑破绽”；向学生揭示大模型作为[[Alien Intelligence|异己智能]]的机械局限，帮助陷入自加信度赤字的学生重拾掌控探究方向的[[Epistemic Agency|认识主体性]]。
 
 ---
 
-## 相关研究
+## 条目关联
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 系统对比中西学习信念，深入剖析了西方文化背景下[[Growth Mindset\|实体智力观]]如何直接诱发学业习得性无助，以及中国儒家传统将能力视为后天工夫的抗无助机制。
-> - [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] — 在十年级科学教学中实证检验了固定快速能力信念（FQAL）对长期[[Academic Achievement\|学业成就]]的强力负向预测，揭示了学困生群体的[[Epistemology\|认识论]]无助特征与性别差异。
+> [!entry-map]
+> 
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Growth Mindset\|成长型思维]] | 理论 | 实体智力观是诱发习得性无助的根源，增长型思维则是抵御无助感与培养抗挫韧性的核心认知解药。[[Argument_Li_2012_Cambridge\|(Li, 2012)]] |
+> | [[Epistemic Malformation\|认知畸变]] | 概念 | 技术性习得性无助与自加信度赤字构成了学生在求知者形成期遭受认知畸变的核心病理机制。[[Argument_Smith_2026_SPE\|(Smith, 2026, pp. 4, 8)]] |
+> | [[Formative Epistemic Injustice\|成长性认识不正义]] | 理论 | 全流程技术代写导致学习者陷入习得性无助与信度丧失，本质上是对未成年人作为未来求知者潜能的严重制度性剥夺。[[Argument_Smith_2026_SPE\|(Smith, 2026, pp. 6–8)]] |
+> | [[Automation Bias\|自动化偏差]] | 概念 | 自动化偏差加剧了学生对算法输出的被动盲信，削弱了自主反思意愿，从而间接催化了技术性习得性无助的形成。 |
+> | [[Alien Intelligence\|异己智能]] | 概念 | 将 AI 界定为异己智能能够打破学生对算法的全知迷信，促使学生从被动无助转向主动批判审校。[[Argument_Smith_2026_SPE\|(Smith, 2026, pp. 9–10)]] |
+> | [[Self-Efficacy\|自我效能感]] | 概念 | 自我效能感的断崖式下跌是固定快速学习信念促发即时放弃的关键心理中介。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007)]] |
+
+---
+
+## 包含此概念的研究
+
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 系统对比中西学习信念，深入剖析了西方文化背景下[[Growth Mindset|实体智力观]]如何直接诱发学业习得性无助，以及中国儒家传统将能力视为后天工夫的抗无助机制。
+> - [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]] — 在十年级科学教学中实证检验了固定快速能力信念（FQAL）对长期[[Academic Achievement|学业成就]]的强力负向预测，揭示了学困生群体的[[Epistemology|认识论]]无助特征与性别差异。
+> - [[Argument_Smith_2026_SPE|Smith (2026)]] — 从批判教学法与[[Formative Epistemic Injustice|成长性认识不正义]]视角，揭示生成式 AI 全流程代劳剥夺核心心智实践、诱发学生自加[[Reliability|信度]]赤字与技术性习得性无助的认识论致残机理。
