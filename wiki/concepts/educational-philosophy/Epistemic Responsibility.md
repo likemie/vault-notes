@@ -7,7 +7,7 @@ aliases:
   - Epistemic Accountability
   - 认识问责
   - Collective Cognitive Responsibility
-summary: 指认知主体在知识建构中主动审视信念合法性与社会后果的理性伦理责任；在知识建构学派中体现为共同体成员不仅对个人理解负责，更对全班公共知识推进承担的集体认知责任；在人机共生中体现为审问算法输出、拒绝盲目认知卸载的终极求证底线。
+summary: "指认知主体在知识建构中主动审视信念合法性与社会后果的理性伦理责任；在知识建构学派中体现为共同体成员不仅对个人理解负责，更对全班公共知识推进承担的集体认知责任；在人机共生中体现为审问算法输出、拒绝盲目认知卸载的终极求证底线。"
 type: concept
 domain: "educational-philosophy"
 related_count: 42

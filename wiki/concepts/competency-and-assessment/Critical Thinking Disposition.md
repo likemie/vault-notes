@@ -7,7 +7,7 @@ aliases:
   - 批判精神
   - CT Disposition
   - Critical Thinking Dispositions
-summary: 指个体在面对复杂问题时自发、持续运用批判性思维的内在动力、态度倾向与心智习性，与认知技能构成批判性思维的双元支柱
+summary: "指个体在面对复杂问题时自发、持续运用批判性思维的内在动力、态度倾向与心智习性，与认知技能构成批判性思维的双元支柱"
 type: concept
 domain: "competency-and-assessment"
 related_count: 24

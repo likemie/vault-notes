@@ -6,7 +6,7 @@ aliases:
   - self-perfect
   - self-perfection
   - xiū shēn
-summary: 儒家学习传统的核心目标，指以自我而非外部世界为认知和实践对象的终身工程，并通过学习美德形成持续能动性
+summary: "儒家学习传统的核心目标，指以自我而非外部世界为认知和实践对象的终身工程，并通过学习美德形成持续能动性"
 type: concept
 domain: "chinese-philosophy"
 related_count: 21

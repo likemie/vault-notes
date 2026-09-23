@@ -4,7 +4,7 @@ aliases:
   - 儒家学习传统
   - Confucian learning model
   - East Asian learning tradition
-summary: 东亚文化学习模型，以修身为核心目标，包含完善自我、以天下为己任、学习美德和行胜于言四个文化主题
+summary: "东亚文化学习模型，以修身为核心目标，包含完善自我、以天下为己任、学习美德和行胜于言四个文化主题"
 type: theory
 theory_field: "chinese-philosophy"
 theory_related_count: 24

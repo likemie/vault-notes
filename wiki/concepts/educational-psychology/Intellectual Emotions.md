@@ -7,7 +7,7 @@ aliases:
   - Epistemic Emotions
   - Intellectual Emotion
   - Epistemic Emotion
-summary: 认知主体在面临知识状态、信息缺口、认知冲突及探究活动时所体验到的特定情感反应（如好奇、惊异、着迷、认识论困惑与敬畏），是连接智力技能与理智美德动机成分的心理纽带与动力引擎。
+summary: "认知主体在面临知识状态、信息缺口、认知冲突及探究活动时所体验到的特定情感反应（如好奇、惊异、着迷、认识论困惑与敬畏），是连接智力技能与理智美德动机成分的心理纽带与动力引擎。"
 type: concept
 domain: "educational-psychology"
 related_count: 26

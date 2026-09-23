@@ -4,7 +4,7 @@ authors:
   - "[[Lawrence Manion|Manion, L.]]"
   - "[[Keith Morrison|Morrison, K.]]"
 source_language: en
-summary: 介绍循证教育研究的制度基础、元分析的方法与步骤及其多维度批判、研究综合与系统综述的操作程序与标准
+summary: "介绍循证教育研究的制度基础、元分析的方法与步骤及其多维度批判、研究综合与系统综述的操作程序与标准"
 type: argument
 subtype: textbook
 publication_type: book-chapter

@@ -5,7 +5,7 @@ aliases:
   - 学业求助行为
   - academic help seeking
   - 寻求学术帮助
-summary: 学习者在面临学业困难或知识盲区时，主动识别障碍、调动外部社会或技术资源以维持学习进程的自我调节学习与认识论策略，涵盖工具性求助、执行性求助与人机交互低威胁求助
+summary: "学习者在面临学业困难或知识盲区时，主动识别障碍、调动外部社会或技术资源以维持学习进程的自我调节学习与认识论策略，涵盖工具性求助、执行性求助与人机交互低威胁求助"
 type: concept
 domain: "educational-psychology"
 related_count: 27

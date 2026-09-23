@@ -3,7 +3,7 @@ title: Jin Li
 aliases:
   - Li, J.
   - 李瑾
-summary: 华人教育研究者，布朗大学教授，以中西文化学习模型比较研究著称，提出好學心等中国本土学习概念
+summary: "华人教育研究者，布朗大学教授，以中西文化学习模型比较研究著称，提出好學心等中国本土学习概念"
 type: person
 nationality: us
 person_region: "us"

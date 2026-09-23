@@ -92,7 +92,7 @@ updated: 2026-09-24
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 克里斯托弗·马丁（[[Christopher Martin|Christopher Martin, 2018]]）在其专著《The Right to Higher Education: A Political Theory》中首次提出成长性[[Epistemic Injustice|认识不正义]]（Formative Epistemic Injustice），指出教育政治哲学必须关注个体获得参与未来公共审议能力的权利。
+> - **提出者与原始文本** [[Christopher Martin|克里斯托弗·马丁]]（Christopher Martin, 2018）在其专著《The Right to Higher Education: A Political Theory》中首次提出成长性[[Epistemic Injustice|认识不正义]]（Formative Epistemic Injustice），指出教育政治哲学必须关注个体获得参与未来公共审议能力的权利。
 > - **原初问题** 传统认识不正义（证词不正义与诠释不正义）预设受害者已经是能够提出有效知识主张的成人求知者，却无法解释当未成年人连“成为求知者”的核心认知机能都被学校体制剥夺时构成了何种道德之恶。
 > - **理论资源与材料** 马丁借用了罗尔斯式的正义论与[[Miranda Fricker|弗里克]]的认知损害分析，聚焦于民主公民在成长发育期参与理性商议的探究实践权。
 > - **形成路径** 从政治哲学的公民权利推演，指出学校若未向未成年人提供参与辩论与证据权衡的机会，便是对其未来作为成熟求知者的行使潜能施加了永久性损害，从而从正义规范推导出“成长性”这一前置性范畴。

@@ -4,7 +4,7 @@ authors:
   - "[[Lawrence Manion|Manion, L.]]"
   - "[[Keith Morrison|Morrison, K.]]"
 source_language: en
-summary: 系统阐述行动研究的定义谱系、21项特征、Winter六原则与Kemmis & McTaggart核心原则、参与式行动研究的McTaggart十六信条与Torres五项原则、技术性—实践性—解放性三分类型学及其17项批评、与复杂性理论的九点共鸣、多模型操作程序（含名义小组技术和德尔菲技术）、报告撰写规范、反身性及实践与理论议题
+summary: "系统阐述行动研究的定义谱系、21项特征、Winter六原则与Kemmis & McTaggart核心原则、参与式行动研究的McTaggart十六信条与Torres五项原则、技术性—实践性—解放性三分类型学及其17项批评、与复杂性理论的九点共鸣、多模型操作程序（含名义小组技术和德尔菲技术）、报告撰写规范、反身性及实践与理论议题"
 type: argument
 subtype: textbook
 publication_type: book-chapter

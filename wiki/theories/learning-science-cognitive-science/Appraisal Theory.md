@@ -4,7 +4,7 @@ aliases:
   - Frijda's appraisal theory
   - appraisal theory of emotion
   - 情感评估理论
-summary: Frijda 提出的情绪理论，强调认知评估在情绪生成中的核心作用，将情绪过程分解为七个阶段，并认为文化参与每个阶段的调节
+summary: "Frijda 提出的情绪理论，强调认知评估在情绪生成中的核心作用，将情绪过程分解为七个阶段，并认为文化参与每个阶段的调节"
 type: theory
 theory_field: "learning-science-cognitive-science"
 theory_related_count: 14

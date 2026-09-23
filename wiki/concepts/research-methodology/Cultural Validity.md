@@ -3,7 +3,7 @@ title: Cultural Validity
 aliases:
   - 文化效度
   - 文化适切性
-summary: 一项研究对进行研究的文化环境的恰当程度，适用于研究全阶段，要求研究者在规划、实施和传播中对参与者文化和处境保持敏感
+summary: "一项研究对进行研究的文化环境的恰当程度，适用于研究全阶段，要求研究者在规划、实施和传播中对参与者文化和处境保持敏感"
 type: concept
 domain: "research-methodology"
 related_count: 9

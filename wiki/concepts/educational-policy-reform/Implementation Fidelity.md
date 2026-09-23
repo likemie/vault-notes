@@ -189,7 +189,7 @@ updated: 2026-09-18
 > **儿童哲学效果试验中的多层培训稀释危机** 在针对小学高年级儿童哲学（Philosophy for Children，P4C）的干预中，第一阶段小规模[[Efficacy Trial\|效力试验]]中（Hanley et al., 2015），由资助方与开发团队密切监督实施，学生阅读与数学成绩显著提升了约 2 个月的学习进展；然而，当该项目进入第二阶段并在数百所学校开展大规模效果检验时（Kitmitto et al., 2018），为了满足统计功效所需的大样本，项目方不得不仓促招募大量新培训师。多层级的培训稀释导致关键的思辨教学规程在班级层面严重走样变形，最终主效应量归零，生动展示了规模化导致保真度崩溃的现实风险。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Kitmitto et al., 2018, 引用见 Edovald & Nevill, 2021, p. 57)]]
 
 > [!claim] World Health Organization & ExpandNet
-> **规模化是脆弱的系统重构过程** 世界卫生组织与 ExpandNet (2009) 强调，干预不能简单依靠机械增加学校数量来完成规模化推广。随着试验网络层级增加，最初由专家团队直接传递的操作标准会迅速遭受衰减；如果没有成体系的保真度支持网络，任何规模化都会蜕变为对干预活性成分的形式化稀释。[[Argument_Edovald_Nevill_2021_ECNUROE\|(WHO & ExpandNet, 2009, 引用见 Edovald & Nevill, 2021, p. 57)]]
+> **规模化是脆弱的系统重构过程** 世界卫生组织与 Exp & Net (2009) 强调，干预不能简单依靠机械增加学校数量来完成规模化推广。随着试验网络层级增加，最初由专家团队直接传递的操作标准会迅速遭受衰减；如果没有成体系的保真度支持网络，任何规模化都会蜕变为对干预活性成分的形式化稀释。[[Argument_Edovald_Nevill_2021_ECNUROE\|(WHO & ExpandNet, 2009, 引用见 Edovald & Nevill, 2021, p. 57)]]
 
 ---
 
@@ -225,7 +225,7 @@ updated: 2026-09-18
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **机制黑箱与失败溯源** | 区分实施失败与理论失败，防范过早否定有效干预构想 | 所有因果评估、产生零结果的现场 RCT 与形成性评估 | Craig et al. (2008); Morris et al. (2016); [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
-> | **规模化外推脆弱性** | 多层级推广导致培训稀释与课堂教学走样，效应大幅衰退 | 从小样本效力试验向跨学区大规模效果试验推广 | Kitmitto et al. (2018); WHO & ExpandNet (2009); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
+> | **规模化外推脆弱性** | 多层级推广导致培训稀释与课堂教学走样，效应大幅衰退 | 从小样本效力试验向跨学区大规模效果试验推广 | Kitmitto et al. (2018); WHO & Exp & Net (2009); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
 > | **试验情境与外推效度** | 严格区分受控理想条件与常态资源约束，警惕统计功效与保真度冲突 | 学校采购决策、清算中心证据解读与大规模抽样规划 | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
 > | **规范复制与校本调适** | 划定活性成分刚性底线并包容良性校本调试，保障长效生根 | 复杂课程改革、数字教育技术融入与教师专业发展 | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]]; Humphrey et al. (2016); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
 

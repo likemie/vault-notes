@@ -10,7 +10,7 @@ aliases:
   - Intellectual Virtues and Vices
   - Epistemic Virtues
   - Epistemic Vices
-summary: 指认识主体在求知过程中促进或阻碍达到认识论目标的性格倾向与品格特质。在德性责任论视角下由追求认知善品的求真动机与成功导向的智力技能双重构件所组成。
+summary: "指认识主体在求知过程中促进或阻碍达到认识论目标的性格倾向与品格特质。在德性责任论视角下由追求认知善品的求真动机与成功导向的智力技能双重构件所组成。"
 type: concept
 domain: "educational-psychology"
 related_count: 32

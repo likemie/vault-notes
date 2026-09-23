@@ -5,7 +5,7 @@ aliases:
   - 学校选择资助流
   - School Choices
   - Researching School Choices Programme
-summary: 英国教育捐赠基金会（EEF）于 2019 年设立的宏观组织决策评估资助流，因应学校按能力分班与作息推迟等宏观制度改革在传统 RCT 中屡遭招募流产的惨痛教训，转向依托国家学生数据库（NPD）全量普查数据，采用回归断点与双重差分等严密准实验设计探索教育自然变异
+summary: "英国教育捐赠基金会（EEF）于 2019 年设立的宏观组织决策评估资助流，因应学校按能力分班与作息推迟等宏观制度改革在传统 RCT 中屡遭招募流产的惨痛教训，转向依托国家学生数据库（NPD）全量普查数据，采用回归断点与双重差分等严密准实验设计探索教育自然变异"
 type: fact
 subtype: program
 region: uk

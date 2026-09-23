@@ -6,7 +6,7 @@ aliases:
   - Facta non Verba
   - actions speak louder than words
   - slow to speak quick to act
-summary: 儒学学习传统第四主题，以行动而非言语为修身标准；孔子不信任巧言令色，君子讷于言而敏于行，沉默不等于被动
+summary: "儒学学习传统第四主题，以行动而非言语为修身标准；孔子不信任巧言令色，君子讷于言而敏于行，沉默不等于被动"
 type: concept
 domain: "chinese-philosophy"
 related_count: 11

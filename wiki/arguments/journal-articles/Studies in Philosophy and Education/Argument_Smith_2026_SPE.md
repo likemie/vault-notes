@@ -108,9 +108,9 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **经典社会认识论与证词/诠释不正义<br>（[[Miranda Fricker]]）** | **核心范畴** 确立主体作为求知者能力（Capacity as a Knower）、证词信度赤字与诠释资源匮乏的批判基准。<br>**分析定位** 充当审视技术伦理的起点，同时暴露其局限性：因其预设对象为已成熟的求知者，仅能解释成人社会交往中的偏见，无法诊断未成年学习者在心智发育过程中遭受的发展权剥夺，导致技术乐观派容易借分配正义（人人享有工具）掩盖育人伤害。（pp.2–4） |
-> | **[[Formative Epistemic Injustice\|成长性认识不正义理论]]<br>([[Christopher Martin|Martin, 2018]]; Nikolaidis, 2021)** | **核心范畴** Martin 提出教育系统剥夺个体发展民主审议所需认知能力的不正义；Nikolaidis 进一步界定阻碍求知美德与认知技能发育的[[Epistemic Malformation\|认知畸变]]（Epistemic Malformation）。<br>**分析定位** 构成全文的核心规范标尺：将正义视阈从静态的知识交互转移到动态的求知者塑造过程（The Formation of Knowers），为判定全流程算法代劳构成教育之恶提供伦理判据。（pp.3–5） |
+> | **[[Formative Epistemic Injustice\|成长性认识不正义理论]]<br>([[Christopher Martin\|Martin, 2018]]; Nikolaidis, 2021)** | **核心范畴** Martin 提出教育系统剥夺个体发展民主审议所需认知能力的不正义；Nikolaidis 进一步界定阻碍求知美德与认知技能发育的[[Epistemic Malformation\|认知畸变]]（Epistemic Malformation）。<br>**分析定位** 构成全文的核心规范标尺：将正义视阈从静态的知识交互转移到动态的求知者塑造过程（The Formation of Knowers），为判定全流程算法代劳构成教育之恶提供伦理判据。（pp.3–5） |
 > | **写作学过程写作与阈限认知理论<br>(Downs, 2016; Taczak, 2016; Piolat & Roussey, 1996)** | **核心范畴** 确立写作即探究与认知发现（Writing as Epistemic Discovery）的阈限概念，阐明构思、提纲（思想线性化）与反思修改是心智自我重构的发生机制，而非机械誊写想法的外在容器。<br>**分析定位** 充当中介认知机制桥梁：从心理机制上证明被算法接管的核心工序恰恰是认知负荷投入与高阶思维生长的不可替代节点，外包代写在本体论上等同于外包思考。（pp.6–9） |
-> | **[[Critical Pedagogy\|批判教育学]]与[[Alien Intelligence\|异己智能]]技术批判<br>([[Paulo Freire|Freire, 2005]]; Braun & Meacham, 2024)** | **核心范畴** 融合 Freire 消解压迫性权威的批判对话精神，以及后人类主义对大模型的去拟人化解构，将生成式 AI 准确定位为缺乏人类具身生活与伦理关怀的异己智能（Alien Intelligence）。<br>**分析定位** 确立防御性教学重构纲领：打破把 AI 当作共情导师的拟人化崇拜，为推行思维步骤全外显（Showing Steps）与反向修辞审问提供教学法合法性。（pp.10–11） |
+> | **[[Critical Pedagogy\|批判教育学]]与[[Alien Intelligence\|异己智能]]技术批判<br>([[Paulo Freire\|Freire, 2005]]; Braun & Meacham, 2024)** | **核心范畴** 融合 Freire 消解压迫性权威的批判对话精神，以及后人类主义对大模型的去拟人化解构，将生成式 AI 准确定位为缺乏人类具身生活与伦理关怀的异己智能（Alien Intelligence）。<br>**分析定位** 确立防御性教学重构纲领：打破把 AI 当作共情导师的拟人化崇拜，为推行思维步骤全外显（Showing Steps）与反向修辞审问提供教学法合法性。（pp.10–11） |
 
 > [!warrant]- 理论如何支撑论证
 > 本文的理论推进并非多门学说的机械拼贴，而是一条由浅入深、四层递进的逻辑链条：

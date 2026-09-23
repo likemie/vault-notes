@@ -3,7 +3,7 @@ title: Freedom of the Learner
 aliases:
   - 学习者的自由
   - freedom of the learner
-summary: 由杜威与弗雷尔共同倡导的教育哲学理想，主张赋予每一个学习者（而非少数精英）成长、批判性思考与改变自身处境的平等权利与能动性
+summary: "由杜威与弗雷尔共同倡导的教育哲学理想，主张赋予每一个学习者（而非少数精英）成长、批判性思考与改变自身处境的平等权利与能动性"
 type: concept
 domain: "educational-philosophy"
 related_count: 9

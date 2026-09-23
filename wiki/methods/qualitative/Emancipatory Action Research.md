@@ -4,7 +4,7 @@ aliases:
   - 解放性行动研究
   - 批判性行动研究
   - critical action research
-summary: 行动研究中最激进的一支，以哈贝马斯批判理论为认识论基础，旨在识别和消除阻碍参与者自主与自由的制度性与人际性约束，追求社会正义与解放
+summary: "行动研究中最激进的一支，以哈贝马斯批判理论为认识论基础，旨在识别和消除阻碍参与者自主与自由的制度性与人际性约束，追求社会正义与解放"
 type: method
 method_type: qualitative
 method_family: "qualitative"
