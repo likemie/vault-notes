@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_McDonnell_2013_AJE",
+      "path": "wiki/arguments/journal-articles/American Journal of Education/Argument_McDonnell_2013_AJE.md"
+    },
+    {
       "basename": "Argument_Edmondson_2005_EPAA",
       "path": "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Epistemic Virtues and Vices",
       "path": "wiki/concepts/educational-psychology/Epistemic Virtues and Vices.md"
-    },
-    {
-      "basename": "Skill of Questioning",
-      "path": "wiki/concepts/instruction-pedagogy/Skill of Questioning.md"
     }
   ],
   "omittedPaths": [],

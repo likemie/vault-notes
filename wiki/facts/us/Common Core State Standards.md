@@ -90,7 +90,8 @@ updated: 2026-09-24
 > [!pathways]- 实施路径
 > - **国家网络设计** 起草专家组基于大学与职业就绪标准自上而下逆向分解（Backward Mapping）形成年级标准；整合认知心理学学习轨迹研究（如 K–2 早期数学进阶）与国际基准比较。[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013, pp. 13–14]]
 > - **专业中介审阅** 全美教师联盟（American Federation of Teachers, AFT）与全国教育协会（[[National Education Association|NEA]]）组建骨干教师评审团队，多轮面谈反馈文本可行性与课堂教学适用性，剔除过于抽象的学术行话。[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013, p. 15]]
-> - **各州采纳落地** 各州教育行政首长与州教育委员会（SBE）主导法定采纳；通过将原有州标准与 CCSS 逐条比对，向立法者与公众证明新标准在逻辑连贯性与挑战度上的优越性。[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013, pp. 17–18]]
+> - **慈善资金网络** 比尔与梅琳达·盖茨基金会（Bill & Melinda Gates Foundation）在 2009–2010 年间注资 8,900 万美元（5,000 万美元直接资助 18 个全国组织，3,900 万美元资助 10 家服务商与 20 个州地方教育局），构建起全美统一游说、信息推广与技术辅导网络。[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013, p. 22]]
+> - **各州差异化采纳落地** 各州教育行政首长与州教育委员会（SBE）主导法定采纳；高标准州（马萨诸塞、加州）依托智库逐条对标（Crosswalks）化解严苛派阻力，低及格线州（田纳西）以 90% 州测 vs 28% NAEP 熟练断层的危机证据说服议会并夺得力争上游（RTTT）首期资助。[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013, pp. 17–18]]
 
 ---
 
