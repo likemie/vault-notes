@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Kelly & Licona",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -260,7 +260,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "41073bf3fc60164f",
+  "active": "1938c14344215b35",
   "lastOpenFiles": [
     "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md",
     "sources/McDonnell_2013_AJE.md",
