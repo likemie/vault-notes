@@ -5,6 +5,34 @@
       "path": "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md"
     },
     {
+      "basename": "Open Court Reading",
+      "path": "wiki/facts/us/Open Court Reading.md"
+    },
+    {
+      "basename": "House Committee on Education and the Workforce",
+      "path": "wiki/facts/us/House Committee on Education and the Workforce.md"
+    },
+    {
+      "basename": "Reading Excellence Act",
+      "path": "wiki/facts/us/Reading Excellence Act.md"
+    },
+    {
+      "basename": "Argument_Naeem_2026_Episteme",
+      "path": "wiki/arguments/journal-articles/Episteme/Argument_Naeem_2026_Episteme.md"
+    },
+    {
+      "basename": "Teacher Professional Agency",
+      "path": "wiki/concepts/teacher-education/Teacher Professional Agency.md"
+    },
+    {
+      "basename": "Technical Rationality",
+      "path": "wiki/concepts/educational-philosophy/Technical Rationality.md"
+    },
+    {
+      "basename": "Critical Theory",
+      "path": "wiki/theories/educational-philosophy/Critical Theory.md"
+    },
+    {
       "basename": "Edmondson_2005_EPAA",
       "path": "sources/Edmondson_2005_EPAA/Edmondson_2005_EPAA.md"
     },
@@ -25,16 +53,8 @@
       "path": "wiki/concepts/educational-policy-reform/Scientifically Based Research.md"
     },
     {
-      "basename": "Reading Excellence Act",
-      "path": "wiki/facts/us/Reading Excellence Act.md"
-    },
-    {
       "basename": "Critical Pluralism",
       "path": "wiki/theories/educational-policy-reform/Critical Pluralism.md"
-    },
-    {
-      "basename": "Argument_Naeem_2026_Episteme",
-      "path": "wiki/arguments/journal-articles/Episteme/Argument_Naeem_2026_Episteme.md"
     },
     {
       "basename": "Socrates",
@@ -179,26 +199,6 @@
     {
       "basename": "Dialogue in Education",
       "path": "wiki/concepts/educational-philosophy/Dialogue in Education.md"
-    },
-    {
-      "basename": "Argument_Zhang_2022_SE",
-      "path": "wiki/arguments/journal-articles/Science Education/Argument_Zhang_2022_SE.md"
-    },
-    {
-      "basename": "Socratic Dialogue",
-      "path": "wiki/concepts/instruction-pedagogy/Socratic Dialogue.md"
-    },
-    {
-      "basename": "Epistemic Friction",
-      "path": "wiki/concepts/educational-psychology/Epistemic Friction.md"
-    },
-    {
-      "basename": "Meaningful Human Control",
-      "path": "wiki/concepts/educational-technology/Meaningful Human Control.md"
-    },
-    {
-      "basename": "Epistemic Deference",
-      "path": "wiki/concepts/educational-philosophy/Epistemic Deference.md"
     }
   ],
   "omittedPaths": [],
