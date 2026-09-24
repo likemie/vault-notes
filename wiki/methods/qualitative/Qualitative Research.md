@@ -11,7 +11,7 @@ summary: "以解释学与建构主义为认识论基础，在自然情境中通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 82
+method_related_count: 86
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -57,6 +57,7 @@ related_concepts:
 related_theories:
   - "[[Phenomenology]]"
   - "[[Complexity Theory]]"
+  - "[[Critical Pluralism]]"
 related_methods:
   - "[[Non-intervention Research]]"
   - "[[Correlational Research]]"
@@ -96,6 +97,7 @@ related_methods:
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Descriptive Methods]]"
   - "[[Participant Observation]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[Mixed Methods Research]]"
   - "[[Intervention Research]]"
   - "[[Quantitative Research]]"
@@ -104,15 +106,17 @@ related_persons:
   - "[[John Rex]]"
   - "[[Basil Bernstein]]"
   - "[[Keith Morrison]]"
-related_facts: []
+related_facts:
+  - "[[Reading Excellence Act]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Brady_2023_EPR]]"
+  - "[[Argument_Edmondson_2005_EPAA]]"
 confidence: high
 status: draft
 created: 2026-05-05
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Qualitative Research
@@ -259,7 +263,7 @@ Miller 关于新任大学校长第一年经历的博士论文方案，是质性�
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 旨在深入理解教育情境中师生的微观行动机智、探索未经充分理论化的复杂社会过程、揭示参与者多元冲突的主观世界，或在研究早期构建实地[[Grounded Theory\|扎根理论]]的情境。([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 41]]；[[Argument_Brady_2023_EPR\|Brady et al., 2023, p. 5]])
+> - **适合使用** 旨在深入理解教育情境中师生的微观行动机智、探索未经充分理论化的复杂社会过程、揭示参与者多元冲突的主观世界，或在研究早期构建实地[[Grounded Theory\|扎根理论]]的情境。([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 41]]；[[Argument_Brady_2023_EPR\|Brady et al., 2023, p. 5]])。在政策研究领域，质性研究是开展“沟通性政策研究”（Communicative Policy Research）的基石，通过[[Interpretive Paradigm|自然主义探究]]与话语诠释，深入揭示政策制定与执行过程中各方行动者的主观理解、利益协商黑箱及微观抵抗机制（Shannon, 1991; Roller & Long, 2001; [[Argument_Edmondson_2005_EPAA\|Edmondson, 2005, pp. 11–12]]）。
 > - **谨慎使用** 涉及向宏观公共政策提出直接[[Recommendations for Practice\|实践建议]]（RFP）时；若建议暗含“改变 X 必然改善 Y”的因果干预逻辑，必须审慎说明其缺乏[[Counterfactual\|反事实]]因果控制的方法学边界。([[Argument_Brady_2023_EPR\|Brady et al., 2023, pp. 6-7]])
 > - **不适合使用** 旨在精确检验全国总体参数、评估大规模标准化干预的平均处理净效应，或对普适性假说进行严格统计[[Falsification\|证伪]]的研究。
 
@@ -271,6 +275,7 @@ Miller 关于新任大学校长第一年经历的博士论文方案，是质性�
 > - **推广性受限与情境绑定** 质性研究追求[[Analytic Generalization\|分析性推广]]与可转移性，其结论深度依存于具体田野的时空语境，无法直接外推至[[Heterogeneity\|异质性]]总体。
 > - **研究者主观性与反应性偏差** 研究者进入现场必然对被研究者产生干扰与反应性（Reactivity），访谈言语容易受到受访者社会赞许性与防备心理的过滤。
 > - **忽视宏观权力与微观浪漫主义批判** [[John Rex\|约翰·雷克斯]]（John Rex, 1974）、[[Basil Bernstein\|巴兹尔·伯恩斯坦]]（[[Basil Bernstein]], 1974）与[[Keith Morrison\|基思·莫里森]]（Keith Morrison, 2009）深刻指出：质性诠释进路容易陷入微观乌托邦与主观浪漫主义，将社会结构虚幻地描绘为个体完全自由协商的产物，却在[[Epistemology\|认识论]]上遮蔽了宏观阶级结构、制度性不平等以及权力对微观互动的深层[[Disciplina and Doctrina\|规训]]与宰制（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 26]]）。
+> - **政策制定中的[[Paradigm|范式]]排他性遭遇与科学标签化** 在自上而下的循证政策规制浪潮（如美国 1998 年《[[Reading Excellence Act]]》与国家阅读委员会 NRP）中，官方支持的权威专委会将“科学”狭隘锚定为实验/[[Randomised Controlled Trials|RCT]] 设计，系统性地把质性研究与社会文化学者排斥在政策咨询范围之外。偏离量化实验标准的质性探究被贴上“非科学/反科学”的标签，导致质性知识在国家立法与资源分配层面上遭遇严重的认知不公。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, p. 10)]]
 
 ---
 
@@ -296,6 +301,8 @@ Miller 关于新任大学校长第一年经历的博士论文方案，是质性�
 > | [[Mixed Methods Research]] | 补充方法 | 将质性深描与量化[[Causality\|因果推断]]相结合，构成第三[[Paradigm\|范式]]的方法论基础。 |
 > | [[Grounded Theory]] | 子方法 | 质性研究中最具代表性的理论建构传统，强调概念与假说从情境数据中涌现。 |
 > | [[Ethnography]] | 子方法 | 质性研究的人类学传统，注重长期浸润与对文化群体共享模式的整体深描。 |
+> | [[Critical Pluralism]] | 理论 | 强调将质性沟通性研究与功能性、批判性研究相统整以破解单向度政策技术主义。 |
+> | [[Reading Excellence Act]] | 政策事实 | 展现国家立法与专家委员会以实证科学之名系统性排斥质性研究的经典案例。 |
 
 ---
 
@@ -305,3 +312,4 @@ Miller 关于新任大学校长第一年经历的博士论文方案，是质性�
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 系统评析质性[[Interpretive Paradigm\|诠释范式]]的发展渊源，揭示教室互动[[Rich and Thick Description\|深描]]超越机械行为量化的方法学意义。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 详尽规范质性研究九大特征、数据收集类型、七步分析规程与效度检验策略。
 > - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 统计分析顶级教育心理学期刊中质性研究的增长趋势，警示质性[[Recommendations for Practice\|实践建议]]中的[[Causality\|因果推断]]边界。
+> - [[Argument_Edmondson_2005_EPAA\|Edmondson (2005)]] — 结合 Shannon (1991) 沟通性政策研究框架，阐发质性探究在打开政策协商黑箱中的独特价值，并深刻反思国家官方专家委员会以“科学共识”为名对质性研究的系统性排斥。

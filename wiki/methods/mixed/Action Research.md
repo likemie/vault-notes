@@ -6,7 +6,7 @@ summary: "研究者与实践者合作，通过计划—行动—观察—反思�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 62
+method_related_count: 65
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -44,7 +44,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Evaluation Research]]"
   - "[[Counterfactual]]"
-  - "[[External Validity]]"
+  - "[[Technical Rationality]]"
   - "[[Ideal Speech Situation]]"
   - "[[Engineered Evidence]]"
   - "[[Primary and Secondary Documents]]"
@@ -52,6 +52,8 @@ related_concepts:
   - "[[International Baccalaureate]]"
 related_theories:
   - "[[Critical Theory]]"
+  - "[[Critical Pluralism]]"
+  - "[[Subgovernment Theory]]"
 related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Emancipatory Action Research]]"
@@ -65,7 +67,6 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Observation Method]]"
   - "[[External Auditor]]"
-  - "[[Experimental Research]]"
   - "[[Case Study]]"
 related_persons:
   - "[[Kurt Lewin]]"
@@ -75,17 +76,19 @@ related_arguments:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Gorard_2020_ROE]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch02]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch04]]"
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
 related_facts:
+  - "[[Reading Excellence Act]]"
   - "[[International Schools Examination Syndicate]]"
   - "[[Complex Instruction Programme]]"
 confidence: high
 status: stable
 created: 2026-06-25
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 # Action Research
 
@@ -162,9 +165,10 @@ updated: 2026-09-22
 > | **教师角色** | 预定干预方案的技术执行者 | 具有自主意识的[[Reflexivity\|反思性]]专业人员 | 推动制度变革的批判性行动者 |
 > | **议程来源** | 外部专家设定（效率导向） | 教师基于[[Professional Judgment\|专业判断]]自主识别 | 共同体自主识别权力结构与制度约束 |
 
-> [!tension] 行动研究的两大流派阵营
+> [!tension] 行动研究的两大流派阵营与政策遭遇
 > - **反思性实践传统（Elliott, Stenhouse, Schön）** 主张在个体能力与微观情境范围内优化专业实践，以[[Teacher-as-Researcher\|教师即研究者]]为核心，赋权意味着专业自主与知情判断。
 > - **[[Emancipatory Action Research\|批判性行动研究]]传统（Carr & Kemmis）** 将行动研究置于宏观政治与制度批判框架内，赋权意味着打破压迫性结构并主导自身生活（Kemmis, 1997, p. 177）。
+> - **国家技术主义霸权对行动研究的排斥与本土反制（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005]]）** 在自上而下的国家量化循证政策（如美国《[[Reading Excellence Act]]》与国家阅读委员会 NRP）中，官方专委会以“唯实验论”彻底排斥一线教师在真实课堂中开展的行动研究，将教师由主动探究者降格为机械执行预置教材脚本的技术工。然而，在[[Critical Pluralism\|批判多元主义]]视域下，解放性行动研究延伸为学区与教师共同体维护课程自主权的战略防线——正如宾夕法尼亚州学区通过坚实的校本实践证据毅然拒领附带严苛教学规制的联邦巨额资助，展示了行动研究从课堂微观反思升华为抵制异化政策与争取民主自决的制度批判力量。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, pp. 8, 10, 13–14)]]
 
 > [!feature] 温特（Richard Winter, 1996）的[[Epistemology\|认识论]]六原则
 > - **[[Reflexivity\|反思性]]批判（Reflexive critique）** 深刻意识到自身的知觉偏见，将研究者自我作为反思与审视的对象。
@@ -175,10 +179,7 @@ updated: 2026-09-22
 > - **理论与实践内在化（Theory and practice internalized）** 将理论与实践视为变革过程中相辅相成的两个有机阶段。
 
 > [!feature] [[Stephen Kemmis\|凯米斯]]与麦克塔格特（Kemmis & McTaggart, 1992, pp. 22–25）的核心原则
-> - **核心循环与实践** 通过变革改进教育并从中学习（原则一）；遵循计划 $
-ightarrow$ 行动 $
-ightarrow$ 观察 $
-ightarrow$ 反思的螺旋迭代（原则三）；保持系统学习并对意外发现开放（原则六）；从实践中提炼理论认识（原则七）；通过坚实证据检验[[Hypothesis|假设]]与制度假设（原则八、九）；撰写个人反思日志实现[[Concurrency of Learning|并行学习]]（原则十）。
+> - **核心循环与实践** 通过变革改进教育并从中学习（原则一）；遵循“计划 ➔ 行动 ➔ 观察 ➔ 反思”的螺旋迭代（原则三）；保持系统学习并对意外发现开放（原则六）；从实践中提炼理论认识（原则七）；通过坚实证据检验[[Hypothesis|假设]]与制度假设（原则八、九）；撰写个人反思日志实现[[Concurrency of Learning|并行学习]]（原则十）。
 > - **合作与共同体建设** 实践者自主参与（原则二）；对改进负有责任的人全员协作（原则四）；建立自我批判的合作共同体（原则五）。
 > - **政治维度与推进策略** 正视触动既有利益的政治过程（原则十一）；深入批判工作情境的制度结构（原则十二）；从小处着手、从小循环起步、从小群体逐步扩大共同体（原则十三、十四、十五）。
 > - **成果建档与公开辩护** 系统建立活动实践、话语表达、社会关系与研究能力四类变革记录（原则十六）；向公众与同行提供有理据的检验辩护（原则十七）。
@@ -232,10 +233,7 @@ ightarrow$ 反思的螺旋迭代（原则三）；保持系统学习并对意外
 ### 结构化群体数据收集工具
 
 > [!feature] 核心群体工具与特色方法
-> - **[[Nominal Group Technique\|名义小组技术]]（NGT）** 通过“独立静默书写 $
-ightarrow$ 轮流展示陈述 $
-ightarrow$ 聚类合并澄清 $
-ightarrow$ 独立投票排序”四个阶段，在单次会议中高效收敛群体共识，避免强势个体主导（Morrison, 1993）。
+> - **[[Nominal Group Technique\|名义小组技术]]（NGT）** 通过“独立静默书写 ➔ 轮流展示陈述 ➔ 聚类合并澄清 ➔ 独立投票排序”四个阶段，在单次会议中高效收敛群体共识，避免强势个体主导（Morrison, 1993）。
 > - **[[Delphi Technique\|德尔菲技术]]（Delphi）** 通过多轮背对背匿名书面问卷与反馈汇总，使专家或教师团队逐步趋向共识，有效免受群体人际压力干扰。
 > - **现场协作支持技术** 包含激发团队[[Creativity\|创造力]]的[[Brainstorming\|头脑风暴]]法、由研究者/行动者/评价者三方共同审议的三角形[[Observation Method\|观察法]]，以及保障各方平等话语权的中立主席法。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015, Ch.9)]]
 
@@ -271,7 +269,7 @@ ightarrow$ 独立投票排序”四个阶段，在单次会议中高效收敛群
 > [!method-limits] 方法局限
 > - **偏误来源** 实践者同时作为研究者容易导致评估结果的主观性偏倚（Newby, 2010, p. 64）；强烈的团队群体动力可能压制个别教师的异议。
 > - **实施的致命变异（Lethal Mutation）** 要求一线教师在缺乏专业统计与[[Counterfactual\|反事实]]因果训练的情况下直接基于学术[[Document\|文献]]开展校本行动研究，极易因方法学素养不足而发生严重的“致命变异”——将复杂的因果干预原理曲解为繁琐的表面形式主义操作，导致学生客观学业改善完全落空。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 594–596)]]
-> - **适用边界** 对宏观社会制度结构的改造能力有限；情境嵌入性导致[[External Validity\|可推广性]]弱于大规模[[Experimental Research\|实验研究]]。
+> - **适用边界与制度合法性弱势** 对宏观社会制度结构的直接改造能力有限；在[[Technical Rationality|技术理性]]主导的国家量化循证政策体系中，行动研究极易被技术官僚贴上“主观”、“非科学”的标签而遭遇边缘化。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, p. 10)]]
 > - **误用风险** 以行动研究为借口规避学术严谨性；将缺乏系统数据与反思的日常教学琐碎经验盲目包装为行动研究。
 > - **补救方式** 建立规范透明的数据收集与分析程序；构建多源[[Chain of Evidence\|证据链]]；坚持撰写[[Reflexivity\|反身性]]日志；或转向采用深度内嵌因果规律的预制工程化工件。
 
@@ -284,12 +282,14 @@ ightarrow$ 独立投票排序”四个阶段，在单次会议中高效收敛群
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Critical Theory]] | 理论 | 解放性行动研究的[[Epistemology\|认识论]]基础，提供知识构成性兴趣与[[Ideal Speech Situation\|理想言说情境]]框架 |
+> | [[Critical Pluralism]] | 理论 | 将基层行动研究的反制实践与宏观政策制定相连接的民主政治理论 |
 > | [[Participatory Action Research]] | 子方法 | 行动研究的政治化分支，以社区赋权与社会正义为核心议程 |
 > | [[Engineered Evidence]] | 替代进路 | 针对教师自主行动研究易诱发致命变异的缺陷，主张采用预制工程化工件替代一线盲目摸索 |
 > | [[Primary and Secondary Documents]] | 概念 | 行动研究中教师直接研读专业一手[[Document\|文献]]与依赖二手[[Transfer Translation Transformation\|转译]]材料的方法学载体 |
 > | [[Nominal Group Technique]] | 支撑工具 | 结构化群体议题聚焦与共识凝聚方法 |
 > | [[Delphi Technique]] | 支撑工具 | 匿名多轮书面迭代收敛专家意见的技术 |
 > | [[Case Study]] | [[Correlational Research\|相关设计]] | 行动研究常以案例研究为载体，核心区分在于是否主动实施变革干预 |
+> | [[Reading Excellence Act]] | 政策事实 | 展现国家排斥一线教师行动研究、强推预制拼读教材规制的标志性法案 |
 > | [[Reflexivity]] | 核心概念 | 研究者兼具行动者双重身份时的认识论自省要求 |
 
 ---
@@ -301,4 +301,5 @@ ightarrow$ 独立投票排序”四个阶段，在单次会议中高效收敛群
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|Cohen et al. (2011, Ch. 18)]] — 全面梳理行动研究的定义谱系、21项特征、温特六原则与[[Stephen Kemmis\|凯米斯]]核心原则、三分类型学及[[Reflexivity\|反身性]]困境。
 > - [[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 23–24, 30–31)]]；[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 61–68)]] — [[International Schools Examination Syndicate\|国际学校考试辛迪加]]将[[International Baccalaureate\|国际文凭]]项目组织为六年行动研究，在真实教学与升学过程中检验课程可行性。
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022, pp. 213–215)]] — 记录匈牙利小学与大学科研团队平等协作改进斯坦福[[Complex Instruction Programme\|复合教学计划]]（KIP）的高质量行动研究范例。
-> - [[Argument_Gorard_2020_ROE\|Gorard et al. (2020, pp. 594–596)]]；See et al. (2016) — 评估英格兰 9 所小学教师围绕课堂反馈开展的行动研究循环，实证揭示教师因方法学素养不足引发“致命变异”且学生学业零增益的事实。\n
+> - [[Argument_Gorard_2020_ROE\|Gorard et al. (2020, pp. 594–596)]]；See et al. (2016) — 评估英格兰 9 所小学教师围绕课堂反馈开展的行动研究循环，实证揭示教师因方法学素养不足引发“致命变异”且学生学业零增益的事实。
+> - [[Argument_Edmondson_2005_EPAA\|Edmondson (2005)]] — 从[[Critical Pluralism|批判多元主义]]与[[Subgovernment Theory|次政府理论]]切入，批判国家自上而下量化循证政策对教师行动研究的系统排挤与去专业化，并阐发基层教育者依托本土实践证据抵制不当行政干预的解放性行动路径。
