@@ -7,10 +7,10 @@ aliases:
 summary: "学习者在学科中从具体经验与运算规则向高阶抽象概念体系逐步演进的认知与课程发展路径；在实证因果数据匮乏情境下，学科公理演进与认识论上升成为课程标准与学习进阶研制的根本推理基石"
 type: concept
 domain: "curriculum"
-related_count: 15
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/curriculum
   - epistemology

@@ -8,10 +8,10 @@ aliases:
 summary: "刻画学生在特定学科领域中理解与能力从初阶向高阶演进的连续性发展轨迹，为课程标准编制、形成性评价与教学干预提供共同参照语言；在标准研制中呈现出由早期学段经验心理学测绘向高阶学段学科逻辑演绎的证据形态分化"
 type: concept
 domain: "curriculum"
-related_count: 17
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/curriculum
   - theme/assessment
