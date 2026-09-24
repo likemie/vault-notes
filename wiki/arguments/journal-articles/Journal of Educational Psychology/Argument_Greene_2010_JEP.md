@@ -1,5 +1,5 @@
 ---
-summary: "中学生至研究生（740名）的量化研究 + 因子混合模型 + 验证了将信念维度与发展阶段整合的认识论与本体论认知（EOC）模型，指出认识论认知具有领域特殊性且多维分布刻画优于独立维度。"
+summary: "基于740名中学生至研究生的问卷、验证性因子分析与因子混合模型研究；结果支持认识论认知的领域特殊性，并对认识论与本体论认知发展（EOCD）模型提供部分而非完整支持。"
 type: argument
 authors:
   - "[[Greene, J. A.]]"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Reliability]]"
 related_theories:
   - "[[Epistemic and Ontological Cognition]]"
+  - "[[Pluralism]]"
 related_methods:
   - "[[Factor Mixture Modeling]]"
   - "[[Confirmatory Factor Analysis]]"
@@ -66,7 +67,7 @@ title: "Argument_Greene_2010_JEP"
 argument_key: "Argument_Greene_2010_JEP"
 argument_display_title: "Empirical Evidence Regarding Relations Among a Model of Epistemic and Ontological Cognition, Academic Performance, and Educational Level"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -83,15 +84,15 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 以往关于个人[[Epistemology\|认识论]]（personal epistemology）的研究主要分为发展阶段论与多维系统论，两者虽有重叠但整合不足；此外，关于[[Epistemic Cognition\|认识论认知]]是否具有[[Domain Specificity\|领域特殊性]]（domain specificity）的争论仍在继续。核心问题在于，能否构建一个既能容纳多维度定量信念、又能刻画质性发展阶段的整合性概念模型，并证明认识论认知受学科领域及教育经历影响。
+> 个人[[Epistemology\|认识论]]研究中的发展阶段模型与多维信念模型能否被整合？学生的[[Epistemic Cognition\|认识论认知]]究竟是领域一般的，还是会随数学、历史等学科而变化？这种认知轮廓又与教育水平和学业表现有何关系？
 
 > [!claim] 核心主张
-> [[Epistemic and Ontological Cognition\|认识论与本体论认知]]（Epistemic and [[Ontology\|Ontological Cognition]], EOC）模型能够有效整合量化信念与质性发展阶段。通过定量测量学生在知识本体与辩护方式上的独立信念维度，并利用[[Factor Mixture Modeling\|因子混合模型]]（Factor Mixture Modeling, FMM）对维度得分进行聚类，能够成功还原出理论预设的四个定性发展阶段，即[[Realism in International Relations\|现实主义]]者（realist）、教条主义者（dogmatist）、怀疑论者（skeptic）与[[Rationalism in International Relations\|理性主义]]者（rationalist）。同时，个体在劣构领域如历史中的认知发展普遍先于数学等良构领域，且[[Educational Level\|受教育年限]]和[[Academic Achievement\|学业表现]]对认知阶段具有显著的预测作用。
+> 作者提出认识论与本体论认知发展（Epistemic and Ontological Cognitive Development, EOCD）模型，以简单且确定的知识（SC）、权威辩护（JA）和个人辩护（PJ）三个维度描述现实主义、教条主义、怀疑主义与理性主义四种理论轮廓。研究结果支持数学与历史之间的[[Domain Specificity\|领域特殊性]]，但只部分支持理论预设：12个“类别 × 领域”轮廓中有8个可归入预设位置，4个无法清晰解释，且没有发现教条主义轮廓。教育水平及自报课程成绩与类别归属存在统计关联，但横截面设计不能据此建立发展或因果关系。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 740名受教育程度各异的学生（中学生至研究生）。
 > - **张力** 独立维度测量与组合轮廓的发展阶段模型之间的对立；领域一般性与领域特殊性之间的对立。
-> - **贡献** 在概念上区分了[[Ontology\|本体论]]与认识论，在方法上利用因子混合模型提供了整合定量维度与定性阶段的新路径。
+> - **贡献** 在概念上区分[[Ontology\|本体论]]认知与认识论认知，并以因子混合模型探索连续维度能否形成理论预期的组合轮廓。
 
 ---
 
@@ -101,7 +102,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **三个核心信念维度**<br>SC, JA, PJ | 作者梳理了前人（如 Hofer & Pintrich, 1997; Schommer-Aikins, 2004）的量化维度：将“知识是简单/复杂的”与“知识是确定/变化的”合并为[[Ontology\|本体论]]层面的**简单与确定知识（SC）**维度；将[[Epistemology\|认识论]]层面的知识辩护机制拆分为依赖外部权威的**权威辩护（JA）**与依赖主观经验的**个人辩护（PJ）**。 |
-> | **认识论与本体论认知模型**<br>[[Epistemic and Ontological Cognition]] | 将[[Certainty of Knowledge\|知识的确定性]]与简单性界定为本体论认知，将[[Justification for Knowing\|认知的辩护]]机制保留为认识论认知。理论预设了[[Realism in International Relations\|现实主义]]、教条主义、怀疑论与[[Rationalism in International Relations\|理性主义]]四个阶段，并设定了相应的三个维度（SC, JA, PJ）的强弱配置。 |
+> | **认识论与本体论认知发展模型**<br>[[Epistemic and Ontological Cognition]] | 将[[Certainty of Knowledge\|知识的确定性]]与简单性界定为本体论认知，将[[Justification for Knowing\|认知的辩护]]机制保留为认识论认知。EOCD 模型提出现实主义、教条主义、怀疑主义与理性主义四种理论位置，并为每种位置设定 SC、JA、PJ 的组合轮廓。 |
 
 > [!warrant]- 理论如何支撑论证
 > 个体的认知本质反映在多维度的组合特征档案（profile）中。通过[[Factor Mixture Modeling\|因子混合模型]]寻找潜在的类群轮廓，可将离散的维度得分匹配回认识论与本体论认知模型[[Hypothesis\|假设]]的发展序列中，从而实现对整合理论的实证检验。
@@ -114,7 +115,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **调查测量**<br>定量调查（Quantitative Survey） | 采用[[Epistemic and Ontological Cognition Questionnaire\|认识论与本体论认知问卷]]（Epistemic and Ontological Cognition Questionnaire, EOCQ），测量简单与确定知识（Simple and Certain Knowledge, SC）、权威辩护（Justification by Authority, JA）以及个人辩护（Personal Justification, PJ）三大维度。问卷分别针对数学和历史两门学科提供平行题。 |
-> | **分析策略**<br>[[Factor Mixture Modeling]] | 1. [[Confirmatory Factor Analysis\|验证性因子分析（Confirmatory Factor Analysis, CFA）]]检验工具的结构信度，并对比领域特定与领域一般性模型拟合度。<br>2. 因子混合模型探索隐含类别群组，并将类别与理论预设的发展阶段轮廓进行比对。<br>3. [[Multinomial Logistic Regression\|多项逻辑回归]]检验[[Educational Level\|教育水平]]和[[Academic Achievement\|学业成绩]]对类别成员身份的预测能力。 |
+> | **分析策略**<br>[[Factor Mixture Modeling]] | 1. [[Confirmatory Factor Analysis\|验证性因子分析（CFA）]]检验测量结构，并比较领域特定与领域一般模型；以系数 H 评估构念信度。<br>2. 因子混合模型探索潜在类别，并将类别轮廓与 EOCD 的理论位置比对。<br>3. [[Multinomial Logistic Regression\|多项逻辑回归]]检验[[Educational Level\|教育水平]]和数学、历史自报成绩与类别成员身份的关联。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -128,14 +129,14 @@ issuing_organization: ""
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
 > flowchart LR
->     A["解构现有阶段模型与多维模型"] --> B["构建认识论与本体论认知模型"]
+>     A["整合阶段模型与多维信念模型"] --> B["提出 EOCD 模型与 EOCQ"]
 >     B --> C["编制双学科认识论与本体论认知问卷"]
->     C --> D["执行验证性因子分析测试领域特殊性"]
->     C --> E["运用因子混合模型探索数据的潜在聚类群组"]
->     D --> F["证实测量结构有效且信念具有领域特殊性"]
->     E --> G["挖掘出的群组轮廓吻合理论预设阶段特征"]
->     F & G --> H["证明量化模型可同时刻画多维连续信念与定性发展特征"]
->     H --> I["利用协变量验证认知阶段对学业表现的预测能力"]
+>     C --> D["用 CFA 比较领域特定与领域一般模型"]
+>     C --> E["用 FMM 探索潜在类别轮廓"]
+>     D --> F["领域特定模型拟合更好"]
+>     E --> G["8 个轮廓匹配，4 个轮廓不清晰"]
+>     F & G --> H["EOCD 获得部分支持"]
+>     H --> I["检验教育水平和课程成绩与类别归属的关联"]
 > ```
 
 ---
@@ -151,44 +152,16 @@ issuing_organization: ""
 > [!contrast-table] 表1：[[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 认识论思维模型（Kuhn et al.'s Model of Epistemological Thinking）
 > | 阶段（Level） | 客观现实（Reality） | 知识（Knowledge） | [[Critical Thinking\|批判性思维]]（Critical thinking） | 知识主张（Assertions） |
 > | --- | --- | --- | --- | --- |
-> | [[Realism in International Relations\|现实主义]]者（Realist） | 可直接认知 | 确定，来自外部来源 | 不必要 | 对外部现实的复制 |
+> | 现实主义者（Realist） | 可直接认知 | 确定，来自外部来源 | 不必要 | 对外部现实的复制 |
 > | 绝对主义者（[[Absolutist]]） | 可直接认知 | 确定，来自外部来源 | 用于确定谁是“正确的” | 可对可错的事实 |
 > | 多元主义者（[[Multiplist]]） | 无法直接认知 | 不确定，来自人类心智 | 不相关 | 不可质疑的观点 |
 > | 评价主义者（[[Evaluativist]]） | 无法直接认知 | 不确定，来自人类心智 | 用于做出好决定并促进理解 | 可供评估的判断 |
 > 
 > *核心看点：此表呈现了传统的认识论发展阶段。作者指出，这四个定性的阶段本质上可以被拆解为个体对客观现实、知识来源及评价机制的不同信念维度的强弱组合。*
-> *来源：|本研究原表, p. 235*
+> *来源：本研究表 1（p. 235）。*
 
 > [!warrant] 推理桥梁
-> 作者将上述传统模型与三维量化信念（SC、JA、PJ）进行了逻辑重构，演化出了全新的整合模型。
-> - **合并初级阶段** Kuhn 模型中的“现实主义者”（视知识为现实的无脑复制、无需批判性思维）多见于幼儿，而“绝对主义者”（引入批判性思维以辨别事实对错）多见于小学生。由于这两者在量化[[Questionnaire\|问卷]]中都会表现出极其相似的极端轮廓（即盲信知识简单确定、盲信权威与个人感觉），加之本研究的样本排除了低龄儿童，因此作者将这两者合并为了新模型中的“现实主义”。
-> - **拆分中期阶段** 随着对知识绝对性的质疑，原本的“多元主义”被拆分为了两条分化路径：要么在不确定中依然盲从权威（教条主义），要么彻底只信自己的主观体验（怀疑主义）。
-> - **重定义高级阶段** 最终能够整合多方证据的“评价主义”，则被重新定义为“[[Rationalism in International Relations\|理性主义]]”。
-> 
-> ```mermaid
-> flowchart LR
->     subgraph Kuhn [Kuhn et al. 经典阶段]
->         direction TB
->         A0[现实主义 Realist]
->         A[绝对主义 Absolutist]
->         B[多元主义 Multiplist]
->         C[评价主义 Evaluativist]
->     end
-> 
->     subgraph Greene [Greene EOC 整合模型]
->         direction TB
->         D[现实主义 Realism]
->         E1[教条主义 Dogmatism]
->         E2[怀疑主义 Skepticism]
->         F[理性主义 Rationalism]
->     end
-> 
->     A0 -- "合并为三维皆强" --> D
->     A -- "合并为三维皆强" --> D
->     B -- "重权威、轻个人" --> E1
->     B -- "轻权威、重个人" --> E2
->     C -- "理性评估与整合" --> F
-> ```
+> EOCD 并非把 Kuhn 的阶段逐项合并或拆分，而是用三个维度重新描述不同认识论位置：现实主义表现为 SC、JA、PJ 均强；认识到知识并非简单且确定后，个体可能转向依赖权威的教条主义（SC 弱、JA 强、PJ 弱），或依赖个人经验的怀疑主义（SC 弱、JA 弱、PJ 强）；理性主义则表现为 SC 弱、JA 与 PJ 中等。作者指出，现实主义近似 Kuhn 等人的绝对主义，怀疑主义近似多元主义，理性主义近似评价主义（pp. 237–238）。
 
 > [!contrast-table] 表2：[[Epistemic and Ontological Cognition\|认识论与本体论认知]]模型（Model of Epistemic and Ontological Cognition）
 > | [[Educational Level\|受教育水平]] | 劣构领域阶段 | SC 信念 | JA 信念 | PJ 信念 | 良构领域阶段 | SC 信念 | JA 信念 | PJ 信念 |
@@ -198,30 +171,23 @@ issuing_organization: ""
 > | 大学中期至晚期 | 理性主义 | 弱 | 中等 | 中等 | 教条/怀疑主义 | 弱<br>弱 | 强<br>弱 | 弱<br>强 |
 > | 本科后教育（研究生） | 理性主义 | 弱 | 中等 | 中等 | 理性主义 | 弱 | 中等 | 中等 |
 > 
-> *核心看点：本表是作者提出的核心整合模型。它展示了四个定性的发展阶段（现实、教条/怀疑、理性）是如何由三个独立信念维度的不同强弱配置（Profile）构成的，并预测了个体在劣构领域（如历史）中的认知发展会快于良构领域（如数学）。*
-> *注：SC=简单与确定知识（Simple and Certain Knowledge）; JA=权威辩护（Justification by Authority）; PJ=个人辩护（Personal Justification）。来源：|本研究原表, p. 238*
+> *核心看点：表中的教育水平分布是作者根据既有研究提出的“educated guesses”，属于待检验预测，而非本研究已经证实的发展规律。*
+> *注：SC=简单与确定知识（Simple and Certain Knowledge）；JA=权威辩护（Justification by Authority）；PJ=个人辩护（Personal Justification）。来源：本研究表 2（p. 238）。*
 
 > [!warrant] 概念拓展：良构与劣构领域
 > 作者引入了领域差异的视角来解释学生认知发展的不平衡性：
 > - **良构领域（Well-structured domains，如数学）** 拥有明确的规则和唯一的标准答案。
 > - **劣构领域（Ill-structured domains，如历史）** 充满了相互冲突的观点和模糊的边界，没有绝对的标准答案，需要权衡多方证据。
 > 
-> 正因如此，学生在历史课上会更早地遇到“知识是不确定的”这一观念冲突，从而被迫进行批判性思考。这就解释了为什么在表2中，个体在劣构领域中的认识论发展往往会**快于**良构领域，更早地摆脱幼稚的“现实主义”（Donald, 1990; Frederiksen, 1984）。
+> 作者据此预测，学生可能在历史等劣构领域较早遇到知识不确定性，并呈现比数学等良构领域更复杂的认识论轮廓；这是一项理论预测，需要由后续测量结果检验。
 
-> [!example]- 图1：Range of differences regarding the Domain Generality or specificity of [[Epistemic Cognition]]
+> [!example]- 图1：认识论认知的领域一般性—特殊性连续体
 > ```mermaid
-> flowchart LR
->     A["完全领域一般性
-(Domain General)"] --- B["包含一般性与特殊性
-的双层中间模型"] --- C["完全领域特殊性
-(Domain Specific)"]
->     
->     style A fill:#f9f9f9,stroke:#333,stroke-width:2px
->     style B fill:#e6f7ff,stroke:#333,stroke-width:2px
->     style C fill:#f9f9f9,stroke:#333,stroke-width:2px
+> flowchart TB
+>     A["领域一般"] --> B["良构领域／劣构领域"] --> C["硬科学／软科学／人文学科"] --> D["具体学科：物理、数学、历史等"]
 > ```
-> 
-> *来源：|本研究原表, p. 236*
+>
+> *来源：据本研究图 1 重绘（p. 236）。*
 
 ---
 
@@ -234,72 +200,50 @@ issuing_organization: ""
 > [[Confirmatory Factor Analysis\|验证性因子分析]]显示，区分数学与历史两个领域的领域特定测量模型在数据拟合度上显著优于将两学科题目归为同一因子的领域一般性模型。在简单知识维度上，领域特定模型与领域一般性模型的拟合度存在显著差异（$\Delta\chi^2(10) = 245.56, p < .001$）。
 
 > [!warrant] 推理桥梁
-> 如果认识论认知是“领域一般性”的（即放之四海而皆准），那么学生对所有学科的信念评分应该高度一致，从而在因子分析中合并为一个统一的潜[[Variable\|变量]]。但数据表明，强行将历史和数学合并会导致模型拟合度断崖式下降。这在逻辑上直接推翻了领域一般性[[Hypothesis\|假设]]，证实学生在面对劣构领域（历史）与良构领域（数学）时，调用的是两套相互独立的信念评估体系。
+> 若同一维度完全跨领域通用，数学与历史题项应可由共同潜[[Variable\|变量]]解释。三个领域一般模型均比相应的领域特定模型拟合更差：SC 的 $\Delta\chi^2(10)=245.56$、JA 的 $\Delta\chi^2(9)=342.10$、PJ 的 $\Delta\chi^2(9)=622.64$，均为 $p<.001$。结果支持领域特殊性，但不意味着两个领域的信念彼此完全独立。
 
-> [!example]- 图2：Hypothesized domain-specific measurement model
+> [!example]- 图2：领域特定测量模型（简化示意）
 > ```mermaid
-> flowchart TD
->     subgraph Math [数学领域测量 / Mathematics]
->         direction TB
->         M_SC(("Math SC
-简单与确定知识")) --> M_items1["Observed Items
-(观测题项)"]
->         M_JA(("Math JA
-权威辩护")) --> M_items2["Observed Items
-(观测题项)"]
->         M_PJ(("Math PJ
-个人辩护")) --> M_items3["Observed Items
-(观测题项)"]
+> flowchart LR
+>     subgraph Math["数学领域"]
+>         M_SC(("数学 SC")) --> M_I1["对应题项"]
+>         M_JA(("数学 JA")) --> M_I2["对应题项"]
+>         M_PJ(("数学 PJ")) --> M_I3["对应题项"]
 >     end
->     
->     subgraph History [历史领域测量 / History]
->         direction TB
->         H_SC(("History SC
-简单与确定知识")) --> H_items1["Observed Items
-(观测题项)"]
->         H_JA(("History JA
-权威辩护")) --> H_items2["Observed Items
-(观测题项)"]
->         H_PJ(("History PJ
-个人辩护")) --> H_items3["Observed Items
-(观测题项)"]
+>     subgraph History["历史领域"]
+>         H_SC(("历史 SC")) --> H_I1["对应题项"]
+>         H_JA(("历史 JA")) --> H_I2["对应题项"]
+>         H_PJ(("历史 PJ")) --> H_I3["对应题项"]
 >     end
-> 
->     %% 因子间的协方差
->     M_SC <.-> H_SC
->     M_JA <.-> H_JA
->     M_PJ <.-> H_PJ
->     M_SC <.-> M_JA & M_PJ
->     H_SC <.-> H_JA & H_PJ
->     
->     classDef latent fill:#dcfce7,stroke:#22c55e,stroke-width:2px;
->     class M_SC,M_JA,M_PJ,H_SC,H_JA,H_PJ latent;
+>     M_SC -.- H_SC
+>     M_JA -.- H_JA
+>     M_PJ -.- H_PJ
 > ```
-> 
-> *来源：|本研究原表, p. 240*
+>
+> *注：虚线仅表示模型估计跨领域因子关系；原图还包含各因子之间的协方差。来源：据本研究图 2 简化重绘（p. 240）。*
 
 ---
 
 ### 第三步：利用因子混合模型验证多维量表与认知阶段的融合
 
 > [!claim] 混合模型主张
-> [[Factor Mixture Modeling\|因子混合模型]]有效找出了潜藏在样本总体中的[[Heterogeneity\|异质性]]类别群组。这些类别的维度轮廓多数符合理论预设的发展阶段，证明量化的连续维度能够聚合成定性的发展阶段。
+> [[Factor Mixture Modeling\|因子混合模型]]识别出六个潜在的[[Heterogeneity\|异质性]]类别群组。多数领域轮廓符合理论预设，但不清晰轮廓和缺失的教条主义轮廓表明，结果只为连续维度与定性位置的整合提供部分证据。
 
 > [!chain-link] 证据到判断
-> 测试表明，设定了强烈方差等值限制（strong invariance）的6分类因子混合模型在贝叶斯信息准则（Bayesian Information Criterion, BIC）等指标下拟合最佳（见表5）。提取各潜在类别在三个信念维度上的均值后发现，多数类别的轮廓配置模式与预设的现实主义者、怀疑论者及理性主义者完全吻合（见表8）。在包含领域差异的类别中，个体在历史领域的信念阶段普遍持平或超越其在数学领域的表现。
+> 作者最终采用六类别强不变性模型，但模型选择证据并不一致：AIC 与 SABIC 倾向六类别，BIC 倾向五类别；Lo–Mendell–Rubin 检验不支持六类别，而 bootstrap likelihood ratio test 支持。六类别严格不变性模型还出现 Heywood cases 和大于 1 的因子相关，因此未被采用。就理论匹配而言，12个领域轮廓中8个符合预设位置，4个不清晰，且未识别出教条主义轮廓。
 
 > [!warrant] 推理桥梁
-> 从零散的量表得分到经典的定性阶段，这一跨越是如何完成的？如果个体的信念仅仅是三个随机波动的独立维度，那么人群中就不应该出现高度集中的特定组合模式。然而，FMM 聚类成功在样本中找出了 6 个典型的特征群组（Profile），且这些群组的得分轮廓（如“三维皆强”或“一弱两强”）竟然与表 2 中由理论推导出的发展阶段完美重合。这在逻辑上完成了从“量化维度特征”到“定性发展阶段”的实证闭环。
+> FMM 提供了一种检验方式：若连续维度形成与 EOCD 相符的稳定组合，潜在类别的因子均值轮廓应接近理论预测。实际结果是多数、但并非全部轮廓匹配，因此作者将假设5判断为获得“混合支持”（mixed support），并建议通过修订题项、扩展维度和重抽样继续检验。
 
 > [!ref-table]- 表5：因子混合模型拟合指标（Factor Mixture Model Fit Indices, 部分摘录）
 > | 类别数/等值性（Number of classes/Invariance） | 对数似然值（Log-likelihood） | AIC | BIC | SABIC |
 > | --- | --- | --- | --- | --- |
 > | 1（测量模型） | -28,810.718 | 57,833.436 | 58,321.741 | 57,985.153 |
+> | 5（强不变性 Strong） | -27,220.984 | 55,045.968 | 56,430.575 | 55,471.636 |
 > | 6（严格等值 Strict） | -27,919.239 | 56,150.479 | 56,865.706 | 56,370.360 |
-> | 6（强烈等值 Strong） | -27,126.735 | 54,955.470 | 56,564.731 | 55,450.203 |
+> | 6（强不变性 Strong） | -27,126.735 | 54,955.470 | 56,564.731 | 55,450.203 |
 > 
-> *核心看点：基于信息准则（如 BIC、[[Sample Size Determination\|样本量]]调整的贝叶斯信息准则（Sample-Size Adjusted BIC, SABIC）等数值越小越好），设定了强烈等值限制的 6 分类模型对数据拟合最佳。这证明了原本连续量化的信念维度，在人群中确实能够聚类为几个典型的、异质性的定性阶段群组。*
-> *来源：|本研究原表, p. 243*
+> *核心看点：AIC 与 SABIC 在所列模型中偏向六类别强不变性模型，但 BIC 更偏向五类别强不变性模型；作者综合多项指标选择前者，不能写成所有信息准则一致支持。来源：本研究表 5（p. 243）。*
 
 > [!ref-table]- 表8：潜在类别因子均值及解释（Latent Class Factor Means and Interpretations）
 > | 类别 | 数学 SC | 数学 JA | 数学 PJ | 数学轮廓 | 历史 SC | 历史 JA | 历史 PJ | 历史轮廓 |
@@ -311,107 +255,52 @@ issuing_organization: ""
 > | **类别 5** | 弱 | 弱 | 强 | 怀疑论者 | 弱 | 弱 | 强 | 怀疑论者 |
 > | **类别 6** | 强 | 强 | 强 | 现实主义者 | 强 | 强 | 弱 | 不清晰 |
 > 
-> *核心看点：本表将 FMM 聚类得出的均值映射回了理论预设的定性阶段。在这 6 个潜在类别中，共有 8 个领域轮廓（数学或历史）成功匹配了预设的发展阶段（现实主义、怀疑论或理性主义）。这不仅证明了量化维度可以还原出定性的发展特征，也直接验证了[[Epistemological Beliefs\|认识论信念]]的领域特殊性（例如类别 4 的学生在数学上是现实主义者，在历史上已发展至怀疑论阶段）。*
-> *注：部分类别（如 1、6）的历史或数学轮廓无法清晰对应理论模型，作者认为这揭示了模型可能需要纳入更多评价维度。来源：|本研究原表, p. 245*
+> *核心看点：8/12 个领域轮廓可映射到现实主义、怀疑主义或理性主义，4/12 个不清晰；类别4从数学现实主义到历史怀疑主义，支持领域差异。没有类别呈现教条主义轮廓，因此结果是部分支持而非完整验证。来源：本研究表 8（p. 245）。*
 
 > [!example]- 图3：Factor mixture model
 > ```mermaid
-> flowchart TD
->     C{"潜在类别 (Latent Class)
-提取出6个定性发展阶段"}
->     
->     subgraph Continuous [连续潜变量因子 / Continuous Factors]
->         direction LR
->         F1(("Math SC"))
->         F2(("Math JA"))
->         F3(("Math PJ"))
->         F4(("Hist SC"))
->         F5(("Hist JA"))
->         F6(("Hist PJ"))
->     end
->     
->     %% 类别预测连续因子的均值分布
->     C -->|决定因子的均值轮廓| Continuous
->     
->     %% 测量模型部分
->     F1 --> I1[Items]
->     F2 --> I2[Items]
->     F3 --> I3[Items]
->     F4 --> I4[Items]
->     F5 --> I5[Items]
->     F6 --> I6[Items]
->     
->     classDef classNode fill:#fee2e2,stroke:#ef4444,stroke-width:2px;
->     classDef factorNode fill:#dcfce7,stroke:#22c55e,stroke-width:2px;
->     class C classNode;
->     class F1,F2,F3,F4,F5,F6 factorNode;
-> ```
-> 
-> *来源：|本研究原表, p. 241*
-
-> [!example]- 图4：Latent class factor means
-> ```mermaid
 > flowchart LR
->     subgraph Profiles [类别轮廓模式映射 / Profile Mapping]
->         direction TB
->         C4["类别 4 (现实主义为主)
-数学三维皆强
-历史出现分化"] 
->         C2["类别 2 (怀疑论者)
-依赖个人辩护 PJ
-排斥权威 JA"]
->         C3["类别 3 (理性主义者)
-历史学科中等
-摒弃绝对知识 SC"]
->     end
->     
->     subgraph Dimensions [认知维度得分 / Factor Means]
->         direction TB
->         D1["高 SC / 高 JA"]
->         D2["低 SC / 低 JA / 高 PJ"]
->         D3["低 SC / 中等 JA / 中等 PJ"]
->     end
->     
->     C4 -->|在图表中表现为| D1
->     C2 -->|在图表中表现为| D2
->     C3 -->|在图表中表现为| D3
->     
->     style Profiles fill:#f3f4f6,stroke:#9ca3af,stroke-dasharray: 5 5
+>     E["受教育水平"] --> C{"潜在类别轮廓"}
+>     M["数学自报成绩"] --> C
+>     H["历史自报成绩"] --> C
+>     C --> F["六个领域特定潜因子"]
+>     F --> I["对应观测题项"]
 > ```
 > 
-> *来源：|本研究原表, p. 246*
+> *来源：据本研究图 3 简化重绘（p. 241）。原图还分别呈现六个潜因子及其题项。*
 
 ---
 
 ### 第四步：探讨学业成就的预测效度
 
 > [!claim] [[Predictive Validity\|预测效度]]主张
-> 类别成员的群体归属有效对应了其教育水平和[[Academic Achievement\|学业成绩]]。越高级的认知阶段类别往往匹配了更长的教育经历和更优的成绩表现。
+> 类别成员身份与教育水平及数学、历史自报成绩存在统计关联，为模型的[[Predictive Validity\|预测效度]]提供初步证据；由于部分类别无法按“高低阶段”清晰排序，结果不宜概括成单一的线性发展规律。
 
 > [!chain-link] 证据到判断
-> [[Multinomial Logistic Regression\|多项逻辑回归]]结果表明，相较于处于现实主义阶段为主的初级群组，[[Educational Level\|受教育年限]]的增加会显著提高进入高级认知阶段类群的几率。同时，数学或历史成绩较差的学生更容易被归入现实主义水平的初级类别中。
+> [[Multinomial Logistic Regression\|多项逻辑回归]]显示，[[Educational Level\|教育水平]]及课程成绩能够区分若干类别对，但并非每项预测变量在每个对比中都显著。成绩变量为学生自报的数学与历史成绩，编码越高表示成绩越差。
 
 > [!warrant] 推理桥梁
-> 认识论阶段不仅是一个心理学模型，它必须具备现实的[[External Validity\|外部效度]]。回归分析补齐了论证的最后一环：随着受教育年限的增长，学生接触到的冲突观点增多，客观上推动了他们从幼稚的“现实主义”向高级的“理性主义”演化；反之，那些死抱着“知识只有唯一标准答案”的初级认知阶段学生，在应对复杂的学术任务时必然受挫（表现为 [[Academic Achievement\|GPA]] 较差）。这就证明了该阶段模型对真实学业发展具有强大的解释力和预测力。
+> 回归结果说明类别轮廓与外部变量并非无关，但不能判断方向：教育经历可能影响认识论认知，也可能存在选择效应或共同原因；认识论轮廓与成绩的关系同样不能被解释为前者导致后者。作者明确指出，横截面数据不足以验证发展序列。
 
 > [!ref-table]- 附表：多项逻辑回归预测潜类别归属（Multinomial Logistic Regression, 部分摘录）
 > | 类别对比（目标 vs 参照） | [[Independent Variable\|预测变量]] | 估计系数 ($b$) | 胜率比 ($e^b$) | 显著性 |
 > | --- | --- | --- | --- | --- |
 > | **类别 1 vs 类别 2** | 受教育年限 | -0.702 | 0.496 | $p < .01$ |
 > | | 数学成绩（分值越高表现越差） | 0.571 | 1.770 | $p < .01$ |
-> | **类别 1 vs 类别 4** | 受教育年限 | -0.407 | 0.665 | $p < .01$ |
-> | | 数学成绩（分值越高表现越差） | 0.659 | 1.933 | $p < .01$ |
+> | **类别 1 vs 类别 4** | 受教育年限 | -0.602 | 0.548 | $p < .05$ |
+> | | 数学成绩（分值越高表现越差） | 0.740 | 2.096 | $p < .01$ |
 > 
-> *核心看点：胜率比（Odds Ratio, $e^b$）展示了变量对类别归属的量化影响。以“类别1（初级阶段）vs 类别2（高级阶段）”为例：受教育年限增加，落入初级阶段的几率显著下降（$e^b = 0.496$）；而数学成绩“分值”（分值越高代表成绩越差）每增加一单位，落入初级阶段的几率就陡增近一倍（$e^b = 1.770$）。这用硬数据证明了：高年级、成绩好的学生极大概率属于高级认识论阶段，反之亦然。来源：|本研究原表, Appendix D*
+> *核心看点：系数只描述特定类别对中的相对胜算，不能把类别1和类别2笼统命名为“初级”与“高级”，也不能据此断言教育或成绩造成类别差异。来源：本研究附录 D。*
 
 ---
 
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **发现一** 学生的[[Epistemology\|认识论]]与[[Ontology\|本体论]]信念具有显著的[[Domain Specificity\|领域特殊性]]，在历史等劣构领域中的认知阶段发展通常先于数学等良构领域。（p. 242）
-> 2. **发现二** 个体的多维信念定量评分能够通过[[Factor Mixture Modeling\|因子混合模型]]聚类为定性的发展阶段群组。多数潜在类别有效吻合了[[Realism in International Relations\|现实主义]]者、怀疑论者和[[Rationalism in International Relations\|理性主义]]者的理论预设结构。（p. 245）
-> 3. **发现三** 基于组合维度的阶段轮廓对[[Educational Level\|受教育年限]]和[[Academic Achievement\|学业表现]]具有显著的预测能力，相较于孤立审视单一维度，综合运用剖面分析能够更加准确地捕获认知发展的实际水平。（p. 246）
+> 1. **发现一** 数学与历史分开的领域特定 CFA 模型均显著优于相应的领域一般模型，支持[[Epistemology\|认识论]]与[[Ontology\|本体论]]认知具有[[Domain Specificity\|领域特殊性]]。（pp. 241–242）
+> 2. **发现二** FMM 得到六个潜在类别；12个“类别 × 领域”轮廓中8个符合现实主义、怀疑主义或理性主义的预设，4个不清晰，教条主义未被识别，故 EOCD 只获部分支持。（pp. 244–246）
+> 3. **发现三** 五个类别在数学与历史间呈现不同轮廓，整体上历史位置至少与数学同等复杂，但结果不支持所有个体都沿单一路径前进。（pp. 245–246）
+> 4. **发现四** 教育水平和自报课程成绩与部分潜在类别对的归属显著相关，但横截面数据不能支持因果或发展结论。（pp. 246–247）
 
 > [!stat-cards]- 核心数据
 > - **740名** 参与定量调查的总样本人数。（p. 240）
@@ -423,18 +312,19 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card]- 理论整合的需求
-> Hofer (2001) suggested that personal [[Epistemology]] research may be moving toward “an integration of ideas from multiple models: an identifiable set of dimensions of beliefs, organized as theories, progressing in reasonably predictable directions, activated in context, operating as [[Epistemic Cognition]]” (p. 377).
+> Hofer 提出，个人认识论研究可能正走向对多种模型观念的整合：可识别的信念维度被组织成理论，以大致可预测的方向发展，在情境中被激活，并作为认识论认知而运作。（Greene 等，2010，p. 234，转引 Hofer，2001，p. 377）
 >
 > *Hofer (2001) suggested that personal epistemology research may be moving toward “an integration of ideas from multiple models: an identifiable set of dimensions of beliefs, organized as theories, progressing in reasonably predictable directions, activated in context, operating as epistemic cognition” (p. 377).*
 
 ---
 
-## 研究局限
+## 自述局限
 
 > [!warning]
-> 1. [[Factor Mixture Modeling\|因子混合模型]]需要极大的[[Sample Size Determination\|样本量]]才能达到良好的收敛。受制于样本规模，为实现模型收敛必须对类群内方差和协方差等值施加严格限制（p. 247）。
-> 2. 数学简单与确定知识维度的部分题目由于建构[[Reliability\|信度]]不足而影响了测量的稳定性，导致部分群组类别轮廓模糊，[[Questionnaire\|问卷]]题项仍需修订优化。
-> 3. 横截面数据限制了确立认知阶段发展轨迹与教育干预因果联系的能力（p. 247）。
+> 1. 740人的样本对复杂的[[Factor Mixture Modeling\|因子混合模型]]仍然偏小；为获得可识别的模型，作者不得不施加类别间方差、协方差等值约束。
+> 2. 样本仅包括处于正规教育中的学生，且中学样本来自较富裕地区；有效回应率约为65%，因此代表性和[[External Validity\|外部效度]]有限。
+> 3. 部分 EOCQ 题项和构念[[Reliability\|信度]]仍需改进，数学 SC 尤其薄弱；4个轮廓无法解释，也提示模型可能遗漏重要维度。
+> 4. 横截面数据不能验证个体的发展轨迹，也不能确定教育水平、认识论认知与课程成绩之间的因果方向。（pp. 242, 247）
 
 ---
 

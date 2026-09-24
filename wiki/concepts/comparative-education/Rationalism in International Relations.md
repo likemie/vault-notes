@@ -2,7 +2,6 @@
 title: Rationalism in International Relations
 aliases:
   - 理性主义 (国际关系)
-  - 理性主义
   - Grotian tradition
   - 格劳秀斯传统
   - rationalist tradition in comparative education

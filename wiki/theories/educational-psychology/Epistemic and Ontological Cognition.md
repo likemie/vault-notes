@@ -4,7 +4,7 @@ aliases:
   - "认识论与本体论认知"
   - "EOC"
   - "EOCD model"
-summary: "一种整合了个人认识论发展阶段论与多维信念系统论的概念模型。该模型将关于知识本质的信念界定为本体论认知，将关于认知本质的信念界定为认识论认知，并主张通过这三类维度的强弱轮廓来识别个体的发展阶段。"
+summary: "一种整合个人认识论发展阶段论与多维信念系统论的概念模型。该模型将关于知识本质的信念界定为本体论认知，将关于认知本质的信念界定为认识论认知，并以三类维度的组合轮廓检验理论位置。"
 type: theory
 theory_field: "educational-psychology"
 theory_related_count: 19
@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-09-18
+updated: 2026-09-24
 ---
 
 # Epistemic and Ontological Cognition
@@ -57,7 +57,7 @@ updated: 2026-09-18
 > - **知识位置** 个人认识论（personal epistemology）研究。
 
 > [!claim] 核心主张
-> EOC 模型主张将关于知识本质（简单性与确定性）的信念独立为“[[Ontology\|本体论]]认知”（ontological cognition），将关于知识的证成（辩护机制）保留为“[[Epistemic Cognition\|认识论认知]]”（[[Epistemic Cognition]]）。通过个体在这几个具体维度上的量化得分轮廓（profile），可以有效对应并划分出其所处的质性发展阶段（[[Realism in International Relations\|现实主义]]者、教条主义者、怀疑论者、[[Rationalism in International Relations\|理性主义]]者），并容纳[[Domain Specificity\|领域特殊性]]差异。[[Argument_Greene_2010_JEP\|(Greene et al., 2010, pp. 237-238)]]
+> EOCD 模型主张将关于知识本质（简单性与确定性）的信念独立为“[[Ontology\|本体论]]认知”（ontological cognition），将关于知识的证成（辩护机制）保留为“[[Epistemic Cognition\|认识论认知]]”。通过个体在这些维度上的量化得分轮廓（profile），可检验其是否对应现实主义者、教条主义者、怀疑论者、理性主义者等理论位置，并容纳[[Domain Specificity\|领域特殊性]]差异。[[Argument_Greene_2010_JEP\|(Greene et al., 2010, pp. 237-238)]]
 
 ---
 
@@ -78,7 +78,7 @@ updated: 2026-09-18
 > [!proposition-chain] 核心命题一｜[[Epistemology\|认识论]]与[[Ontology\|本体论]]认知的维度组合可反映发展阶段
 > - **前提一** 发展阶段论通常假定整体演变，而多维模型强调独立维度，但这两种模型可以有机整合。[[Argument_Greene_2010_JEP\|(Greene et al., 2010, p. 237)]]
 >   > [!evidence-grid]- 证据
->   > - **证据一** 在数学与历史领域中，个体的三类信念维度得分经过[[Factor Mixture Modeling\|因子混合模型]]聚类后，形成了与理论预设（[[Realism in International Relations\|现实主义]]者、怀疑论者等）高度吻合的群组。[[Argument_Greene_2010_JEP\|(Greene et al., 2010, p. 245)]]
+>   > - **证据一** 在数学与历史领域中，个体的三类信念维度得分经过[[Factor Mixture Modeling\|因子混合模型]]聚类后，12个轮廓中有8个符合现实主义、怀疑主义或理性主义的预设，4个无法清晰解释，未发现教条主义轮廓。[[Argument_Greene_2010_JEP\|(Greene et al., 2010, p. 245)]]
 > - **推导** 通过测量个体在“简单与确定知识”、“权威辩护”及“个人辩护”这三个维度的强弱程度组合，可以识别其所处的发展阶段。例如，一个在权威辩护上弱但在个人辩护上强的个体，符合怀疑论者的特征。
 
 ---
@@ -115,4 +115,4 @@ updated: 2026-09-18
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Greene_2010_JEP]] — 该研究通过[[Factor Mixture Modeling\|因子混合模型]]实证检验并支持了 EOC 模型的阶段划分[[Hypothesis\|假设]]。
+> - [[Argument_Greene_2010_JEP\|Greene et al., 2010]] — 该研究通过[[Factor Mixture Modeling\|因子混合模型]]检验 EOCD 模型；12个领域轮廓中8个符合预设，因此结论是部分支持。

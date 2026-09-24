@@ -2,7 +2,6 @@
 title: Realism in International Relations
 aliases:
   - 现实主义 (国际关系)
-  - 现实主义
   - Machiavellian tradition
   - 马基雅维利传统
   - realist tradition in comparative education
