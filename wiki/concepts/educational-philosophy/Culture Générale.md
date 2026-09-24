@@ -20,7 +20,6 @@ tags:
   - country/france
 related_concepts:
   - "[[Bildung]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Faculty Psychology]]"
   - "[[Dual School System]]"
   - "[[General Education]]"
@@ -28,6 +27,7 @@ related_concepts:
   - "[[Liberal Education]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Encyclopaedism]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Epistemology]]"
   - "[[Cultural Capital]]"
   - "[[Paradigm]]"
@@ -65,7 +65,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 普通文化（Culture Générale，亦常译为通识[[Bildung\|教养]]或法兰西普通文化）是源自法国[[René Descartes\|笛卡尔]][[Rationalism in International Relations\|理性主义]]哲学与 19 世纪折衷主义思潮的精英中等教育与通识课程哲学。它主张教育的根本旨趣不在于过早传授专业技能或功利知识，而在于通过古希腊罗马古典人文学科（语言、文学与哲学修辞）与现代自然科学、数学的有机结合，顺应心灵内在规律实施系统的“心智训练”（mental discipline），全面锤炼个体的智力、审美与道德官能，进而为法兰西中央集权体制选拔与塑造具有清晰理性、独立批判判断力与国家公共奉献精神的治理精英。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 29–30)]]；[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 59)]]
+> 普通文化（Culture Générale，亦常译为通识[[Bildung\|教养]]或法兰西普通文化）是源自法国[[René Descartes\|笛卡尔]]理性主义哲学与 19 世纪折衷主义思潮的精英中等教育与通识课程哲学。它主张教育的根本旨趣不在于过早传授专业技能或功利知识，而在于通过古希腊罗马古典人文学科（语言、文学与哲学修辞）与现代自然科学、数学的有机结合，顺应心灵内在规律实施系统的“心智训练”（mental discipline），全面锤炼个体的智力、审美与道德官能，进而为法兰西中央集权体制选拔与塑造具有清晰理性、独立批判判断力与国家公共奉献精神的治理精英。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 29–30)]]；[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 59)]]
 
 > [!concept-lens] 概念透镜
 > - **心智官能陶冶透镜** 基于[[Faculty Psychology\|心灵官能心理学]]，透视课程如何超越单纯事实记忆，将文理各学科作为磨砺注意力、比较力与严谨逻辑推理能力的“思想磨刀石”。

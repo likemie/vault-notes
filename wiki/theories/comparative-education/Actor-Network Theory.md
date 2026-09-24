@@ -8,7 +8,7 @@ aliases:
 summary: "起源于布鲁诺·拉图尔、米歇尔·卡隆与约翰·劳的科学技术学（STS）社会理论与方法论框架，将社会与制度理解为人类与非人类行动者通过持续转译与关系物质性生成的异质网络。在比较教育研究中，它被用于解构国家中心主义与政策借用假设，通过追踪多尺度网络、互客体性、耐用客体装配（教科书、测评量规、技术协议、立法条款）与关系空间，揭示隐藏在教育改革与远处治理背后的非线性转译、变异及公私权力重组机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 57
+theory_related_count: 56
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -46,7 +46,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Rich and Thick Description]]"
   - "[[Co-affiliation]]"
-  - "[[Rationalism in International Relations]]"
 related_theories:
   - "[[Governing at a Distance]]"
   - "[[Post-structuralism]]"
@@ -84,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-09-18
+updated: 2026-09-24
 ---
 
 # Actor-Network Theory
@@ -246,5 +245,5 @@ updated: 2026-09-18
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合 ANT、[[Network Ethnography\|网络民族志]]与耐用材料[[Assemblage\|装配]]视角，解构澳大利亚 [[Australian Education Research Organisation\|AERO]] 国家证据中介背后的《公司法》注册底座、董事会跨界[[Co-affiliation\|共同从属]]及麦肯锡系[[Venture Philanthropy\|风险慈善]]渗透网络。
 > - [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] — 运用 ANT 追踪阿根廷 [[Conectar Igualdad\|PCI]] 数字教育项目课堂微观装配，揭示跨国技术资本权力如何绕过国家反商业化法规直接在教学空间中建构秩序。
 > - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — 借助 ANT 的多行动者[[Transfer Translation Transformation\|转译]]模型，剖析国家内部[[Policy Network\|政策网络]]如何在多方博弈中折射并[[Going Native\|本土化]]转译 [[OECD]] [[PISA]] 评估信息。
-> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 追溯[[Rationalism in International Relations\|理性主义]]比较教育传统中引入 ANT，以分析全球教育治理中流动话语、政策图景与数据[[Governing at a Distance\|远处治理]]的隐秘运作。
+> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 追溯理性主义比较教育传统中引入 ANT，以分析全球教育治理中流动话语、政策图景与数据[[Governing at a Distance\|远处治理]]的隐秘运作。
 

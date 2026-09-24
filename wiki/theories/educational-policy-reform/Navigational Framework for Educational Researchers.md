@@ -8,7 +8,7 @@ aliases:
 summary: "由 Zewelanji N. Serpell 提出的政策导航框架，将宏观立法过程解构为问题识别、议程设置、政策制定与政策合法化四个阶段，指导教育研究者把握动态机会窗口并策略性注入实证证据"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 42
+theory_related_count: 41
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Realism in International Relations]]"
   - "[[Champ]]"
   - "[[Convergence Research]]"
   - "[[Evidence Standards]]"
@@ -70,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Navigational Framework for Educational Researchers
@@ -182,7 +181,7 @@ updated: 2026-09-22
 
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 视政策世界为一个具有自身内在秩序、节奏飞快且由政治价值与制度规范维系的有机生态系统，排斥将政策过程视为被动接受科学灌输的静态容器。
-> - **[[Epistemology\|认识论]]** 秉持[[Pragmatic Paradigm\|实用主义]]政策[[Realism in International Relations\|现实主义]]立场；认为实证证据的有效性在政策[[Champ\|场域]]中由其政治相关性、时效性与价值契合度共同决定，单一实验因果净效应无法直接推导出宏观治理行动。
+> - **[[Epistemology\|认识论]]** 秉持[[Pragmatic Paradigm\|实用主义]]政策现实主义立场；认为实证证据的有效性在政策[[Champ\|场域]]中由其政治相关性、时效性与价值契合度共同决定，单一实验因果净效应无法直接推导出宏观治理行动。
 > - **方法含义** 倡导多方法[[Convergence Research\|融合研究]]设计（大数据与个案质性并重）；要求研究者在产出学术论文的同时，同步开发包含法条草案文本的[[Legislative Policy Brief\|立法政策简报]]。
 > - **不能直接推出的东西** 该框架不能自动保证只要研究者参与立法四阶段，政策就一定会采纳其建议；它无法消除两党制固有的党派极化与意识形态阻力。
 

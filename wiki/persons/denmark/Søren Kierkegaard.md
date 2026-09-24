@@ -8,7 +8,7 @@ summary: "丹麦哲学家与神学家，存在主义哲学的先驱与奠基人�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 25
+person_related_count: 24
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -22,7 +22,6 @@ tags:
   - paradigm/interpretive
   - stance/critique
 related_concepts:
-  - "[[Rationalism in International Relations]]"
   - "[[Positivism]]"
   - "[[Scientism]]"
   - "[[Ontology]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Søren Kierkegaard
@@ -66,7 +65,7 @@ updated: 2026-09-22
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 丹麦哲学家、神学家、思想家，19世纪欧陆反[[Georg Wilhelm Friedrich Hegel\|黑格尔]][[Rationalism in International Relations\|理性主义]]体系的核心代表，被公认为存在主义（Existentialism）哲学的先驱与奠基人。
+> - **身份位置** 丹麦哲学家、神学家、思想家，19世纪欧陆反[[Georg Wilhelm Friedrich Hegel\|黑格尔]]理性主义体系的核心代表，被公认为存在主义（Existentialism）哲学的先驱与奠基人。
 > - **核心角色** 在探究哲学与方法论批判网络中，承担着从生存论维度解构[[Positivism\|实证主义]]“客观性神话”的关键节点功能；提出“主观性即真理”，为反思[[Scientism\|科学主义]]与量化霸权提供了坚实的[[Ontology\|本体论]]与[[Epistemology\|认识论]]防线。
 > - **代表贡献** 提出个体生存的不可概念化命题；反思客观性幻觉并倡导恢复“主观性的能力”；揭示大众群众心态与[[Technical Rationality\|技术理性]]导致的个体去人化危机。
 
@@ -168,7 +167,7 @@ updated: 2026-09-22
 > > - **存在主义辩护立场（Beck, 1979; Warnock, 1970）** 指出克尔凯郭尔并非否定物理事实的客观存在，而是针对人类精神、道德抉择与生存意义领域——在这些领域中，脱离认知者主观关涉与生存模式的“冰冷客观法则”不仅无益，更是遮蔽人性的黑暗状态。
 >
 > > [!axis] 信仰的跃入与理性批判能力的冲突
-> > 其在宗教生存阶段主张面对“悖谬”实施“信仰的跃入”，引发启蒙[[Rationalism in International Relations\|理性主义]]者的强烈质疑。
+> > 其在宗教生存阶段主张面对“悖谬”实施“信仰的跃入”，引发启蒙理性主义者的强烈质疑。
 > >
 > > - **理性主义传统** 指责其哲学带有神秘主义倾向，贬低人类理性论证的普遍效力。
 > > - **生存论阐释** 认为此举深刻揭示了工具理性认识论的内在边界，彰显了个体在不可化约的不确定境遇中承担生存抉择的勇气。

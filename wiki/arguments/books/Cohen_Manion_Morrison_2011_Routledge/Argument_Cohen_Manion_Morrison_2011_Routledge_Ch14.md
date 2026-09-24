@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
 argument_display_title: "Research Methods in Education · Ch14"
 argument_kind: "book-chapter"
-argument_related_count: 69
+argument_related_count: 68
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -66,7 +66,6 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[Research Ethics]]"
   - "[[Covert Research]]"
-  - "[[Realism in International Relations]]"
   - "[[Champ]]"
   - "[[Fitness for Purpose]]"
   - "[[Experimenter Bias]]"
@@ -433,7 +432,7 @@ Verschuren（2003, p. 136）为个案研究的推广性提供了更有力的辩�
 > - **[[Covert Research\|隐蔽研究]]** 如何处理正当的[[Covert Research\|隐蔽研究]]问题
 > - **匿名性决策** 是否匿名报告参与者还是识别他们；如何处理不可追踪性和不可识别性、特定评论对个体的不可归属性；以及如何将具体的、重要的特征纳入跨地点分析
 
-研究者需要具备进行个案研究所需的主体知识和研究专业知识，充分准备，对研究情境有[[Realism in International Relations|现实主义]]感，是优秀的沟通者（可能需要培训），并具备能建立接触、共情、融洽和信任的适当人格特征。并非每位研究者都拥有所有这些，但每一项都极其重要（p. 290）。
+研究者需要具备进行个案研究所需的主体知识和研究专业知识，充分准备，对研究情境有现实主义感，是优秀的沟通者（可能需要培训），并具备能建立接触、共情、融洽和信任的适当人格特征。并非每位研究者都拥有所有这些，但每一项都极其重要（p. 290）。
 
 ---
 

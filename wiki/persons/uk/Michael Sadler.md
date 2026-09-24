@@ -25,7 +25,6 @@ related_concepts:
   - "[[Liberal Education]]"
   - "[[Reference Society]]"
   - "[[Cross-National Attraction]]"
-  - "[[Realism in International Relations]]"
   - "[[Intangible Spiritual Forces]]"
   - "[[Ontology]]"
   - "[[National Character]]"
@@ -37,6 +36,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Educational Meliorism]]"
+  - "[[Realism in International Relations]]"
 related_theories:
   - "[[Situative Perspective]]"
   - "[[Wight's Three Traditions of International Theory]]"
@@ -121,7 +121,7 @@ updated: 2026-09-17
 > - **1895–1903 — 地缘竞争焦虑与国家智库情报调查阶段** 这一阶段主要回应英国在第二次工业革命中面对德国、美国竞争时的工业焦虑与国家安全危机。
 >   - **代表著作** 特别调查与报告办公室发布的系列《教育问题特别报告》（*Special Reports on Educational Subjects*，共 11 卷，1897–1903）；1898 年普鲁士中学报告。
 >   - **关键概念** [[Reference Society\|参考社会]]、[[Cross-National Attraction\|跨国吸引]]、国家教育情报署（[[Office of Special Inquiries and Reports\|Educational Intelligence Office]]）。
->   - **阶段特征** 探索带有强烈的[[Realism in International Relations\|现实主义]]地缘政治底色，旨在通过系统研究德国职业教育和实科学校，为英国公共教育系统注入竞争活力，巩固国家竞争地位。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 420)]]
+>   - **阶段特征** 探索带有强烈的现实主义地缘政治底色，旨在通过系统研究德国职业教育和实科学校，为英国公共教育系统注入竞争活力，巩固国家竞争地位。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 420)]]
 > - **1900–1943 — 历史[[Situative Perspective\|情境主义]]、[[Intangible Spiritual Forces\|无形精神力量]][[Ontology\|本体论]]与新自由主义中道** 这一阶段系统反思政策移植的技术主义幻觉，将唯心主义哲学与宏阔的一线调查经验彻底合流。
 >   - **代表著作** 1900 年吉尔福德演讲：《我们能从外国教育系统的研究中获得多少有实践价值的启示？》（*How far can we learn anything of practical VALUE from the study of foreign systems of education?*）；1902 年《德国与其他地区中等教育的动荡》（*The Unrest in Secondary Education in Germany and Elsewhere*）。
 >   - **关键概念** 情境不可移植性、外部力量与因素（Forces and factors outside the school）、无形精神力量（Intangible spiritual forces）、[[National Character\|国民性格]]。
@@ -181,7 +181,7 @@ updated: 2026-09-17
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias, 2009]] — 阐明萨德勒思想在维多利亚晚期新自由主义与牛津唯心主义中的哲学源流，评析其不可捉摸精神力量对学科奠基的深远影响。
 > - [[Argument_Cowen_2009_HistoryCreation\|Cowen, 2009a]] — 批判比较教育学对萨德勒的肖像学崇拜与传统的发明，指出其 1900 年演讲造成的混乱远多于解答。
-> - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 将萨德勒定位为[[Realism in International Relations\|现实主义]]国关传统在比较教育中的典型代拟节点，解析其背后的工业自保焦虑。
+> - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 将萨德勒定位为现实主义国关传统在比较教育中的典型代拟节点，解析其背后的工业自保焦虑。
 > - [[Argument_Cowen_2023_CE\|Cowen, 2023]] — 批判比较教育学科对萨德勒“实用价值”格言的长期路径依赖，指出该学科应超越对这种古老辞藻的重复。
 > - [[Argument_Cowen_2009_CE\|Cowen, 2009b]] — 评价萨德勒关于外部力量与因素的洞察，批判其后续发展中沦为地理区域细节堆砌的[[Epistemology\|认识论]]盲区。
 > - [[Argument_Rappleye_2006_RCIE\|Rappleye, 2006]] — 指出学界虽然继承了萨德勒关于情境重要的口号，但一个世纪以来始终没有提出去拆解情境中特定要素的系统性操作方法。

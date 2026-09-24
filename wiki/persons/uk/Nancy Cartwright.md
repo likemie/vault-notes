@@ -7,7 +7,7 @@ summary: "英国科学哲学家，因果机制、证据外推与反思 RCT 局�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 41
+person_related_count: 40
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Technical Rationality]]"
   - "[[Phronesis]]"
-  - "[[Realism in International Relations]]"
   - "[[School Enquiry Cycle]]"
   - "[[Research Utilization]]"
   - "[[Democratic Education]]"
@@ -69,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-09-18
+updated: 2026-09-24
 ---
 
 # Nancy Cartwright
@@ -131,7 +130,7 @@ updated: 2026-09-18
 
 > [!influence-path] 影响路径
 > - **哲学与[[Epistemology\|认识论]]路径** 摧毁了将统计相关性等同于普遍规律的[[Technical Rationality\|技术理性]]神话，将实在论因果机制与[[Aristotle\|亚里士多德]]式的[[Phronesis\|实践智慧]]（Phronesis）重新引入循证研究核心。
-> - **方法学路径** 提出三阶段外推分析模型，促使临床医学与教育评估界反思纯 [[Randomised Controlled Trials\|RCT]] 的局限，催生了聚焦“机制与情境”的[[Realism in International Relations\|现实主义]]评价（[[Realist Evaluation]]）。
+> - **方法学路径** 提出三阶段外推分析模型，促使临床医学与教育评估界反思纯 [[Randomised Controlled Trials\|RCT]] 的局限，催生了聚焦“机制与情境”的现实主义评价（[[Realist Evaluation]]）。
 > - **教育政策与实践路径** 深刻影响英国教育循证学术共同体（如 Brown & Greany, 2018；Cowen et al., 2015）；其理论直接被运用于设计[[School Enquiry Cycle\|学校探究循环]]（[[School Enquiry Cycle]]）中的证据[[Transfer Translation Transformation\|转译]]协议，促使一线学校坚决摒弃照搬外部处方的盲目尝试，将[[Research Utilization\|证据使用]]建构为深度的“因果行动理论调试”。
 > - **跨国政策辩论** 成为跨国批判单一“什么有效”（What Works）治理教条的权威哲学旗帜，与比斯塔（[[Gert Biesta]]）的[[Democratic Education\|民主教育]]学批判形成跨学科共振。
 

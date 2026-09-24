@@ -6,7 +6,7 @@ aliases:
 summary: "在教育研究与全球化社会学中，指代默认主权国家是教育的唯一提供者、出资者与监管者，并将“教育治理”等同于“国家行政管理”的方法论还原主义偏误。它是 Roger Dale 提出的阻碍全球化教育研究的“三大方法论陷阱”之一。"
 type: concept
 domain: "comparative-education"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Travelling Policy]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Relational Space]]"
 related_theories:
   - "[[Governing at a Distance]]"
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-09-18
+updated: 2026-09-24
 ---
 
 # Methodological Statism
@@ -116,13 +115,13 @@ updated: 2026-09-18
 > [!dev-timeline] 发展脉络
 > - **2005 — 概念系统化** Roger Dale 撰文讨论全球化对教育研究方法论的挑战，系统界定了方法论 statism，并与 nationalism、educationism 结盟，构成教育社会学批判的基础。 (Dale, 2005)
 > - **2009 — 去国家中心框架细化** Dale and Robertson 进一步论证全球化时代教育“三大治理功能”（提供、资助、监管）在多边组织中的解耦，清算学科内的方法论 ISMS。
-> - **2023 — [[Rationalism in International Relations\|理性主义]]国关传统的结合** Klerides 指出在理性主义传统下，比较教育必须摆脱方法论国家主义的限制，将研究对象从“ mass schooling ”和“ state-run systems ”解放出来，彻底转向[[Relational Space\|关系空间]]和[[Policy Mobility\|政策流动]]的[[Network Analysis\|网络分析]]。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
+> - **2023 — 理性主义国关传统的结合** Klerides 指出在理性主义传统下，比较教育必须摆脱方法论国家主义的限制，将研究对象从“ mass schooling ”和“ state-run systems ”解放出来，彻底转向[[Relational Space\|关系空间]]和[[Policy Mobility\|政策流动]]的[[Network Analysis\|网络分析]]。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 明确批判了方法论国家主义和[[Methodological Nationalism\|方法论民族主义]]阻碍了对跨国[[Rationalism in International Relations\|理性主义]]多边主义[[Governing at a Distance\|远处治理]]的理解。
+> - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 明确批判了方法论国家主义和[[Methodological Nationalism\|方法论民族主义]]阻碍了对跨国理性主义多边主义[[Governing at a Distance\|远处治理]]的理解。
 > - Methodological Nationalism (方法论民族主义) — 方法论国家主义的空间边界同盟，[[Hypothesis\|假设]]领土等于社会。
 > - [[Methodological Educationism]] (方法论教育主义) — 方法论国家主义的体制化同盟，假设教育等于学校。

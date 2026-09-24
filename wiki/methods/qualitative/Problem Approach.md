@@ -20,7 +20,6 @@ tags:
   - theme/problem-approach
   - theme/critical-rationalism
 related_concepts:
-  - "[[Rationalism in International Relations]]"
   - "[[Critical Dualism]]"
   - "[[Falsification]]"
   - "[[Reflective Thinking]]"
@@ -32,6 +31,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[National Character]]"
   - "[[Problem Solving]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Document]]"
   - "[[Policy Borrowing]]"
   - "[[Positivism]]"
@@ -74,7 +74,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> 比较教育学问题法（Problem Approach）是由英国学者[[Brian Holmes\|布赖恩·霍姆斯]]（Brian Holmes）在 1960 年代系统确立的规范性比较研究方法。该方法熔铸了[[Karl Popper\|卡尔·波普尔]]（Karl Popper）的批判[[Rationalism in International Relations\|理性主义]]（[[Critical Dualism\|批判二元论]]、情境逻辑与可[[Falsification\|证伪]]假说）与[[John Dewey\|约翰·杜威]]（John Dewey）的[[Reflective Thinking\|反思性思维]]理论，旨在通过甄选现实教育问题、形式化政策假说、系统审查文化规范与客观制度初始条件，并依托情境逻辑严密推导政策实施的预期与非意图后果，从而以理性概率预测指导前瞻性教育决策，实现对经验归纳实证学派与古典历史学派的批判性综合。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 63, 66–67)]]
+> 比较教育学问题法（Problem Approach）是由英国学者[[Brian Holmes\|布赖恩·霍姆斯]]（Brian Holmes）在 1960 年代系统确立的规范性比较研究方法。该方法熔铸了[[Karl Popper\|卡尔·波普尔]]（Karl Popper）的批判理性主义（[[Critical Dualism\|批判二元论]]、情境逻辑与可[[Falsification\|证伪]]假说）与[[John Dewey\|约翰·杜威]]（John Dewey）的[[Reflective Thinking\|反思性思维]]理论，旨在通过甄选现实教育问题、形式化政策假说、系统审查文化规范与客观制度初始条件，并依托情境逻辑严密推导政策实施的预期与非意图后果，从而以理性概率预测指导前瞻性教育决策，实现对经验归纳实证学派与古典历史学派的批判性综合。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 63, 66–67)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 民族国家或跨国区域中面临的特定教育改革危机、政策争端与体制失调问题。
@@ -113,7 +113,7 @@ updated: 2026-09-17
 > - **量化指标对民族文化特质与活的精神的彻底放逐** 过度执迷于可量化测量的指标，使得传统历史学派的核心精髓，包括[[Michael Sadler\|迈克尔·萨德勒]]所指的活的精神（living spirit）、[[National Character\|国民性格]]，以及决策者在具体历史时刻的主观偏好与政策意志，被彻底扫除在视野之外。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 63, 66)]]
 
 > [!method-stack] 方法层级
-> - **哲学认识论** 波普尔批判[[Rationalism in International Relations\|理性主义]]、相对论物理学权变观、[[John Dewey\|杜威]]反思思维。
+> - **哲学认识论** 波普尔批判理性主义、相对论物理学权变观、[[John Dewey\|杜威]]反思思维。
 > - **核心[[Analytic Framework\|分析框架]]** 批判二元论（规范模式 vs 机构背景）、时代不同步/文化滞后理论（Asynchrony）。
 > - **具体操作策略** 假说-演绎五阶段[[Problem Solving\|问题解决]]检验程序、跨国规范理想类型建构。
 

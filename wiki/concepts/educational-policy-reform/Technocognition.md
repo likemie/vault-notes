@@ -6,7 +6,7 @@ aliases:
 summary: "一种将认知科学发现与算法技术设计深度整合的跨学科治理范式，由Lewandowsky等学者提出并在Burns & Schuller（2022）教育中介研究中被倡导，旨在超越单纯提供更多科学事实的传统理性假设，通过算法事实核查、自动化虚假信息预警以及扩大推荐内容多样性来主动阻断后真相时代的网络回音室与反科学偏见。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Deficit Model of Science Communication]]"
   - "[[Value Neutrality]]"
   - "[[Falsification]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Epistemic Governance]]"
   - "[[Scientific Literacy]]"
   - "[[Research Literacy]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-13
+updated: 2026-09-24
 ---
 
 # Technocognition
@@ -89,7 +88,7 @@ updated: 2026-09-13
 ## 知识治理视阈下的学理意义
 
 > [!finding-cards] Burns & Schuller 引入该概念的理论贡献
-> - **告别古典[[Rationalism in International Relations\|理性主义]]预设** 2007 年 [[OECD]] 报告假定科学具有自明客观性，未利用仅仅是获取障碍；2022 年 Burns & Schuller 借助技术认知法，宣告了教育[[Epistemic Governance\|知识治理]]正式告别古典知识[[Deficit Model of Science Communication\|赤字模型]]，必须直面算法极化与后真相现实。
+> - **告别古典理性主义预设** 2007 年 [[OECD]] 报告假定科学具有自明客观性，未利用仅仅是获取障碍；2022 年 Burns & Schuller 借助技术认知法，宣告了教育[[Epistemic Governance\|知识治理]]正式告别古典知识[[Deficit Model of Science Communication\|赤字模型]]，必须直面算法极化与后真相现实。
 > - **赋权中介机构的新型技术工具箱** [[Educational Brokerage Agency\|知识中介机构]]（如英国 [[Education Media Centre\|EMC]]、[[Science Media Centre\|SMC]]）不能仅仅编写 PDF 工具包，而必须向算法前沿和新闻采编室下沉，利用技术认知手段守护科学公信力。
 > - **保护民主社会中的[[Scientific Literacy\|科学素养]]** 最终将批判性[[Research Literacy\|研究素养]]与技术认知干预提升至“捍卫公民民主权利”的政治哲学高度。
 

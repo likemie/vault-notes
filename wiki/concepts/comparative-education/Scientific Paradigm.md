@@ -30,8 +30,8 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Champ]]"
   - "[[Positivism]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Epistemology]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Unit of Analysis]]"
   - "[[Intangible Spiritual Forces]]"
@@ -100,7 +100,7 @@ updated: 2026-09-17
 > *The pioneers of the [[Champ\|field]] cleared the ground of the muddy waters of 19th century borrowings and established the first charted territory... then when difficulties emerged their successors, equipped with new scientific tools and techniques, added new and seemingly more solid property... From the very beginning some of those buildings were occupied by tenants related to policy making. Yet the rest remain in the hands of the academic community and are still being expanded. Fortunately enough, they constitute the habitat of criticism, innovative thinking and creativity; the place where episteme... resides.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Positivism\|实证主义]] — 科学范式是具体的学科知识纲领，涵盖了结构功能主义、假说-演绎批判[[Rationalism in International Relations\|理性主义]]与经验计量等多重流派，实证主义仅为其底层[[Epistemology\|认识论]]之一。
+> - 不等于 [[Positivism\|实证主义]] — 科学范式是具体的学科知识纲领，涵盖了结构功能主义、假说-演绎批判理性主义与经验计量等多重流派，实证主义仅为其底层[[Epistemology\|认识论]]之一。
 > - 不等于 比较教育学学科整体 — 科学范式仅为学科演进中的特定阶段（1950s末–1970s初），前后分别存在历史-哲学传统与后现代/批判多元范式。
 > - 不适用于解释脱离制度功能与政策干预的纯粹形而上学思辨或后现代去中心化的话语游戏。
 

@@ -4,7 +4,7 @@ aliases: [经验主义, 经验论, empirical assumption, empirical tradition]
 summary: "科学探究四大基本假设之一，主张可靠知识源自感官观察与直接经验，理论必须依托经验证据支撑，奠定了实证科学方法与 Mouly 经验演化五步进程的认识论基石。"
 type: concept
 domain: "educational-philosophy"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -16,7 +16,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Positivism]]"
   - "[[Scientism]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Falsification]]"
   - "[[Scientific Method]]"
   - "[[Variable]]"
@@ -52,7 +51,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Empiricism
@@ -76,14 +75,14 @@ updated: 2026-09-17
 
 > [!boundary] 概念边界
 > - 不等于 [[Positivism\|实证主义]] — 经验主义是宽泛的认识论哲学立场；实证主义则是将经验主义推向极致的系统[[Scientism\|科学主义]]哲学，包含社会工程与拒斥形而上学的特定历史纲领。
-> - 不等于 [[Rationalism in International Relations\|理性主义]]（Rationalism） — 理性主义主张真理主要源自先天理性演绎与公理推导；经验主义坚持一切理论必须经受后天感官经验与实证数据的裁判。
+> - 不等于 理性主义（Rationalism） — 理性主义主张真理主要源自先天理性演绎与公理推导；经验主义坚持一切理论必须经受后天感官经验与实证数据的裁判。
 > - 不等于 素朴经验论（Naive Empiricism） — 现代科学经验主义高度强调假说引导与概率检验，非漫无目的的杂乱感官事实罗列。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 经验主义与[[Rationalism in International Relations\|理性主义]]的[[Epistemology\|认识论]]全景辨析
+> [!contrast-table] 经验主义与理性主义的[[Epistemology\|认识论]]全景辨析
 > | 比较维度 | 经验主义（Empiricism） | 理性主义（Rationalism） |
 > |---|---|---|
 > | **知识源泉** | 感官知觉、实地观察、测量数据与后天经验 | 先天理性、逻辑推演、数学公理与反思明证 |

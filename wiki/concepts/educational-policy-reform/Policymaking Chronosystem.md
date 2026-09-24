@@ -8,7 +8,7 @@ aliases:
 summary: "借鉴布朗芬布伦纳的生物生态学时间系统概念，阐明政策制定深受特定历史时空、社会危机与突发事件驱动的动态时间生态，解释政治决策极速响应与学术研究长周期之间的结构性时间错配"
 type: concept
 domain: "educational-policy-reform"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Output-Oriented Governance]]"
   - "[[Value Neutrality]]"
   - "[[Heterogeneity]]"
-  - "[[Realism in International Relations]]"
   - "[[Technical Rationality]]"
   - "[[Opportunist Mode]]"
 related_theories:
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Policymaking Chronosystem
@@ -188,7 +187,7 @@ updated: 2026-09-22
 > > 学者在面对政策时间系统的高压索求时，是否应当为了追求时效而放弃详尽罗列学术分歧与不确定性的科学规范。
 > >
 > > - **传统科学实证规范** 坚守学术严谨性，主张在出具政策声明时必须详尽列明证据的[[Heterogeneity\|异质性]]与方法局限（Elson et al., 2019）。
-> > - **政策[[Realism in International Relations\|现实主义]]立场（[[Argument_Serpell_2020_EP\|Serpell, 2020]]; Gillies, 2014）** 认为在极度压缩的政策时间系统中，犹疑不决的怀疑论将导致研究直接被弃置，使缺乏科学根据的极端声音占据立法上风。
+> > - **政策现实主义立场（[[Argument_Serpell_2020_EP\|Serpell, 2020]]; Gillies, 2014）** 认为在极度压缩的政策时间系统中，犹疑不决的怀疑论将导致研究直接被弃置，使缺乏科学根据的极端声音占据立法上风。
 >
 > > [!axis] 证据作为理性决策先导 vs 证据作为既定立场燃料
 > > 实证研究究竟是启发和改变政策制定者立场的客观力量，还是仅仅被决策者用来文饰既定政见的策略性工具。

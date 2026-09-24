@@ -7,7 +7,7 @@ aliases:
 summary: "约瑟夫·奈（Joseph S. Nye）提出的国际关系与地缘政治核心概念，指通过文化吸引力、政治价值观感召与具有合法性的对外政策来塑造他者偏好而非诉诸军事或经济强制的能力。在当代全球教育治理与跨国比较中，软实力演进为“以硬事实施展软权力”（Soft Power by Hard Facts），国际组织通过量化指标、跨国测评排名与最佳实践工具箱对主权国家实施远处规制与政策趋同。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Governing by Numbers]]"
   - "[[International Education]]"
-  - "[[Realism in International Relations]]"
   - "[[Paradigm]]"
   - "[[Reference Society]]"
 related_theories: []
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-29
-updated: 2026-09-23
+updated: 2026-09-24
 ---
 
 # Soft Power
@@ -155,7 +154,7 @@ updated: 2026-09-23
 > > 自由主义学者主张[[International Education\|国际教育]]合作能够增进跨文化理解；批判学者则指出软实力框架天然将学术关系降格为争夺相对收益的帝国主义竞赛。
 > >
 > > - **自由主义与[[Knowledge Diplomacy\|知识外交]]学派（Knight, 2021）** 强调学术交流的本质是互利共赢，软实力概念将大学降格为外交仆从，侵蚀了学术共同体的跨国互信。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, p. 11)]]
-> > - **新[[Realism in International Relations\|现实主义]]学派** 坚信文化与知识从来无法脱离国家权力的母体，教育输出本质上就是隐蔽的意识形态渗透与霸权维护。
+> > - **新现实主义学派** 坚信文化与知识从来无法脱离国家权力的母体，教育输出本质上就是隐蔽的意识形态渗透与霸权维护。
 >
 > > [!axis] 国家中心主义盲区 vs 超国家治理复合体
 > > 传统软实力理论预设主权国家为唯一施展主体，难以解释现代跨国机构的治理权力。

@@ -8,10 +8,10 @@ aliases:
 summary: "在比较教育与政策分析中，指代全球化背景下教育改革模型脱离原有社会脉络，通过国际组织和政策网络在跨国空间中多维循环，并在不同本土情境中被不断转译、重新合法化和变形的非线性流变过程。"
 type: concept
 domain: "comparative-education"
-related_count: 21
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 theory_related_count: 4
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -28,14 +28,12 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Creativity]]"
   - "[[Policy Network]]"
-  - "[[Realism in International Relations]]"
   - "[[Policy Borrowing]]"
   - "[[Hypothesis]]"
   - "[[Global Policy Space]]"
   - "[[Recontextualization]]"
   - "[[Policy Entrepreneur]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Rationalism in International Relations]]"
 related_theories:
   - "[[Actor-Network Theory]]"
 related_methods:
@@ -52,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-09-18
+updated: 2026-09-24
 ---
 
 # Travelling Policy
@@ -70,7 +68,7 @@ updated: 2026-09-18
 > - **话语中介** 全球性的“流动话语”（flowing discourses，如“[[21st Century Skills and Competencies Discourse\|21世纪技能]]”、“[[Creativity\|创造力]]”等）充当了政策旅行的催化剂，使地方[[Policy Network\|政策网络]]在追求“世界级”标准的焦虑下主动将其嵌入。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 424–425]])
 
 > [!boundary]- 概念边界
-> 不适用于 — 传统民族国家在 19 世纪（如明治维新）通过单一官方使团针对特定国家开展的、边界清晰的“强主权双边引借鉴”（这主要属于传统[[Realism in International Relations\|现实主义]] [[Policy Borrowing]] 的解释范畴）。
+> 不适用于 — 传统民族国家在 19 世纪（如明治维新）通过单一官方使团针对特定国家开展的、边界清晰的“强主权双边引借鉴”（这主要属于传统现实主义 [[Policy Borrowing]] 的解释范畴）。
 
 ---
 
@@ -123,13 +121,13 @@ updated: 2026-09-18
 > - **2006 — 概念提出与空间解构** Jenny Ozga and Roger Jones 首次阐明 travelling policy，关注跨国新自由主义改革如何绕过国家机器通过话语直接在地方学校网络中发生作用。
 > - **2009 — [[Policy Network\|政策网络]]与空间流变整合** Beech 指出大国和多边组织通过跨国流转构筑“全球花园”，比较教育必须用新词汇突破“输入-输出”二元论；Cowen 提出 [[Transfer Translation Transformation\|3T 框架]]将“变形”引入政策旅行流。([[Argument_Beech_2009_CE\|Beech, 2009]])
 > - **2012 — 协调与对齐实证** Steiner-Khamsi and Waldow 编著《教育[[Policy Borrowing\|政策借用]]与出借世界年鉴》，聚焦协调（harmonisation）和标准化（standardisation）作为旅途政策的主要制度化对齐方式。
-> - **2023 — [[Actor-Network Theory\|行动者网络理论]]（ANT）的全面耦合** Klerides 阐述在[[Rationalism in International Relations\|理性主义]]传统下，政策作为“非人类行动者”在异质网格（Actor-Network）中的流动，完成了从传统的静态对比到网络化动态分析的学科演变。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 424–425]])
+> - **2023 — [[Actor-Network Theory\|行动者网络理论]]（ANT）的全面耦合** Klerides 阐述在理性主义传统下，政策作为“非人类行动者”在异质网格（Actor-Network）中的流动，完成了从传统的静态对比到网络化动态分析的学科演变。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 424–425]])
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 将旅途政策和流动话语定位为[[Rationalism in International Relations\|理性主义]]传统下，治理网络超越国家边界、进行远处协调的重要表征。
+> - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 将旅途政策和流动话语定位为理性主义传统下，治理网络超越国家边界、进行远处协调的重要表征。
 > - [[Argument_Beech_2009_CE\|Beech, 2009]] — 详细探讨了跨国机构作为“园丁”，使政策在[[Global Policy Space\|全球政策空间]]中旅行、 decontextualize 与 recontextualize 的机制。
 > - [[Transfer Translation Transformation]] (转译与 3T 框架) — 研究政策在其旅途终点，如何在本土社会空间受权力挤压而变形的微观机制。

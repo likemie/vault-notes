@@ -22,8 +22,8 @@ tags:
   - school/kantianism
 related_concepts:
   - "[[Enlightenment]]"
-  - "[[Realism in International Relations]]"
   - "[[Revolutionism]]"
+  - "[[Realism in International Relations]]"
   - "[[Rationalism in International Relations]]"
   - "[[Ontology]]"
   - "[[Bildung]]"
@@ -73,7 +73,7 @@ updated: 2026-09-24
 永久和平（Perpetual Peace，德语：*Zum ewigen Frieden*），是指发端于 18 世纪欧洲[[Enlightenment|启蒙哲学]]、并在 19 世纪初现代比较教育学与国际政治理论发轫期确立的超国家治理与国际道德秩序构想。
 
 > [!def] 核心定义
-> 永久和平是人类历史超越霍布斯式无政府野蛮战争状态的终极规范愿景。它主张持久的世界和平绝不能寄托于[[Realism in International Relations\|现实主义]]短期的均势停火或霸权威慑，而必须建立在公民个体理性自主性的觉醒（启蒙）、主权国家内部共和立宪制度的确立、自由国家间的和平联盟（*foedus pacificum*），以及跨国教育交流与文明互鉴的基础之上，使教育成为预防流血暴力革命与消除国际武装冲突的理性替代方案。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 20–24)]]；[[Argument_Klerides_2023_CE\|Klerides (2023, pp. 418–419)]]
+> 永久和平是人类历史超越霍布斯式无政府野蛮战争状态的终极规范愿景。它主张持久的世界和平绝不能寄托于现实主义短期的均势停火或霸权威慑，而必须建立在公民个体理性自主性的觉醒（启蒙）、主权国家内部共和立宪制度的确立、自由国家间的和平联盟（*foedus pacificum*），以及跨国教育交流与文明互鉴的基础之上，使教育成为预防流血暴力革命与消除国际武装冲突的理性替代方案。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 20–24)]]；[[Argument_Klerides_2023_CE\|Klerides (2023, pp. 418–419)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指称超越单一民族国家利益局限、将消除有组织战争暴力与实现人类大同确立为历史终极目标的伦理承诺与超国家制度设计。
@@ -162,7 +162,7 @@ updated: 2026-09-24
 > 批驳现代行为主义实证派将比较教育矮化为去价值化[[Artefact\|器物]]借用与国家经济竞争的技术测量工具。
 
 > [!claim] Wight, M. and [[Eleftherios Klerides\|Klerides, E.]]
-> **[[Revolutionism\|革命主义]]世界主义传统的道德激情** 怀特与克勒里德斯论证，康德所开创的革命主义传统赋予了比较教育一种强烈的道德使命感：比较教育绝非国家间争夺霸权的技术工具（[[Realism in International Relations\|现实主义]]），亦非单纯维持现状的制度移植（[[Rationalism in International Relations\|理性主义]]），而是一项旨在揭露不平等、促进全人类博爱与消除苦难的世界主义道德事业。[[Argument_Klerides_2023_CE\|Klerides (2023, pp. 418–419, 426–429)]]
+> **[[Revolutionism\|革命主义]]世界主义传统的道德激情** 怀特与克勒里德斯论证，康德所开创的革命主义传统赋予了比较教育一种强烈的道德使命感：比较教育绝非国家间争夺霸权的技术工具（现实主义），亦非单纯维持现状的制度移植（理性主义），而是一项旨在揭露不平等、促进全人类博爱与消除苦难的世界主义道德事业。[[Argument_Klerides_2023_CE\|Klerides (2023, pp. 418–419, 426–429)]]
 
 > [!claim] [[Robert Cowen\|Cowen, R.]] and [[Andreas Kazamias\|Kazamias, A.]] M.
 > **[[Educational Meliorism\|教育改良主义]]对比较[[Epistemology\|认识论]]问题域的本体奠基** 卡洛扬纳基与卡扎米亚斯指出，20 世纪逻辑实证派片面标榜“[[Value Neutrality\|价值无涉]]”，抹杀了比较教育奠基先驱的崇高伦理灵魂；朱利安对跨国教育观察表的编制，其本体动因深嵌于消除大革命创伤、维系欧洲永久和平与促进人类福祉的“教育改良主义”之中，奠定了学科不可让渡的比较认识论问题域。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 24, 33–34)]]
@@ -193,7 +193,7 @@ updated: 2026-09-24
 
 ## 争议与批评
 
-围绕永久和平的世界主义预设与制度落地可行性，学术界展开了长期的[[Realism in International Relations|现实主义]]与[[Critical Theory|批判理论]]反思：
+围绕永久和平的世界主义预设与制度落地可行性，学术界展开了长期的现实主义与[[Critical Theory|批判理论]]反思：
 
 > [!debates] 学术争议
 >

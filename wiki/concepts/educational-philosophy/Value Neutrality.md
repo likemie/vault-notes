@@ -10,7 +10,7 @@ aliases:
 summary: "主张科学研究应排除研究者主观价值偏见并保持程序中立的认识论规范；在启蒙发轫期曾被道德改良统摄，在韦伯与20世纪实证学派中被法典化为科学基石，而在批判理论与当代循证反思中被解构为服务于数字审计治理的权力意识形态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 67
+related_count: 66
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Ontology]]"
   - "[[Research Question]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Buen Vivir]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Subjectivism]]"
@@ -96,7 +95,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-09-18
+updated: 2026-09-24
 ---
 
 # Value Neutrality
@@ -281,7 +280,7 @@ updated: 2026-09-18
 > > 争论焦点在于比较教育能否彻底剔除价值规范，还是必须将行动者的价值信念作为情境初始条件予以理性考察。
 > > 
 > > - **美国功能主义实证学派（Noah & Eckstein, 1969; Anderson, 1977）** 坚信客观科学必须通过标准化测量与协变统计模型排除一切主观价值偏见。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, p. 65)]]
-> > - **批判[[Rationalism in International Relations\|理性主义]]情境学派（Holmes, 1981）** 主张规范模式与心理精神状态是构成社会情境的核心变量，科学的任务并非假装价值中立，而是在情境分析中澄清不同政策方案在特定价值系统下的可能后果。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 63, 66–67)]]
+> > - **批判理性主义情境学派（Holmes, 1981）** 主张规范模式与心理精神状态是构成社会情境的核心变量，科学的任务并非假装价值中立，而是在情境分析中澄清不同政策方案在特定价值系统下的可能后果。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 63, 66–67)]]
 > 
 > > [!axis] “什么有效”是中立事实还是政治建构
 > > 争论焦点在于：[[Evidence-Based Education\|循证教育]]中的干预效果能否脱离价值判断单独存在？

@@ -15,7 +15,7 @@ aliases:
 summary: "关于人类能力与智力可塑性的内隐认知信念系统，区分视智力为固定不变的天赋实体观（固定型思维）与视智力为可通过学习、努力与策略持续拓展的增量发展观（成长型思维），深层影响学业动机、面对失败的韧性、同伴文化的评价机制以及大规模现场干预的转化效度"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 39
+theory_related_count: 38
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Academic Achievement]]"
   - "[[Business as Usual]]"
-  - "[[Realism in International Relations]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -74,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-09-16
+updated: 2026-09-24
 ---
 
 # Growth Mindset
@@ -177,7 +176,7 @@ updated: 2026-09-16
 
 > [!exegesis]- 教育研究例子
 > - **例一：东亚文化中增长信念对高成就同伴接纳的保护功能（[[Argument_Li_2012_Cambridge\|Li, 2012]]）** 在东亚中学环境中，普遍共享的“智力可通过持续努力提升”信念使得优秀学生的学业成功不会对同伴产生内在存在性威胁；相反，高分学生被视为“付出了超凡辛劳的典范”，从而避免了西方校园中针对用功学生的系统性排挤与语言暴力。
-> - **例二：英格兰“改变思维”大规模试验的[[Realism in International Relations\|现实主义]]去魅（Foliano et al., 2019; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）** 尽管专业培训机构向数百名教师提供了成套将成长型思维融入批改评语与课堂鼓励的手册，但在真实的学校日常中，教师繁重的备课任务与学生长期的社会经济逆境使得这种表层言语鼓励难以穿透至微观认知结构，最终在全国统一考试中呈现出统计学零结果，证明改善思维必须与学科内容深度教学紧密结合。
+> - **例二：英格兰“改变思维”大规模试验的现实主义去魅（Foliano et al., 2019; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）** 尽管专业培训机构向数百名教师提供了成套将成长型思维融入批改评语与课堂鼓励的手册，但在真实的学校日常中，教师繁重的备课任务与学生长期的社会经济逆境使得这种表层言语鼓励难以穿透至微观认知结构，最终在全国统一考试中呈现出统计学零结果，证明改善思维必须与学科内容深度教学紧密结合。
 
 ---
 

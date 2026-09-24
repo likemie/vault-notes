@@ -10,7 +10,7 @@ aliases:
 summary: "一种以设定教育标准、开展学习成效监测与提供数据反馈为核心，强调路径自主而非目标自主的现代教育治理模式，与传统的投入导向科层规制形成鲜明对照。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Student Satisfaction]]"
   - "[[Class Size]]"
   - "[[Hypothesis]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Heterogeneity]]"
   - "[[Evidence-Based School Development]]"
   - "[[Data Literacy]]"
@@ -51,7 +50,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-24
 ---
 
 # Output-Oriented Governance
@@ -126,7 +125,7 @@ updated: 2026-09-18
 > 探讨产出导向治理如何通过权力结构重组与信息供给，假设学校行动者具有吸收和转化外来评估数据的理性动机与组织能力。
 
 > [!claim] Altrichter et al.
-> **[[Rationalism in International Relations\|理性主义]]假说与路径自主重构** 产出导向治理在理论架构上依赖一种理性主义决策模型。[[Herbert Altrichter\|赫伯特·阿尔特里希特]]（Herbert Altrichter）等学者指出，新治理模式打破了传统科层制对教育输入的死板限定，赋予单所学校充分的组织实施自主权；然而这种自主绝非目标自主，而是将国家教育标准内嵌于指标监测体系中。该治理架构深层假设[[School Leadership\|学校领导]]者与教师会主动将外部监测数据视作客观镜鉴，通过对数据的专业解读发现学校内部短板，进而制定有针对性的改进举措。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 19–21)]]
+> **理性主义假说与路径自主重构** 产出导向治理在理论架构上依赖一种理性主义决策模型。[[Herbert Altrichter\|赫伯特·阿尔特里希特]]（Herbert Altrichter）等学者指出，新治理模式打破了传统科层制对教育输入的死板限定，赋予单所学校充分的组织实施自主权；然而这种自主绝非目标自主，而是将国家教育标准内嵌于指标监测体系中。该治理架构深层假设[[School Leadership\|学校领导]]者与教师会主动将外部监测数据视作客观镜鉴，通过对数据的专业解读发现学校内部短板，进而制定有针对性的改进举措。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 19–21)]]
 
 ---
 

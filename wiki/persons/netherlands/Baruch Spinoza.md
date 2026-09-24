@@ -7,7 +7,7 @@ summary: "17世纪荷兰哲学家。在后现代教育学与批判性课程理�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -17,7 +17,6 @@ lifespan: "1632–1677"
 tags:
   - person/philosopher
 related_concepts:
-  - "[[Rationalism in International Relations]]"
   - "[[Ontology]]"
   - "[[Conatus]]"
   - "[[Feeder Mechanism]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-12
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Baruch Spinoza
@@ -47,7 +46,7 @@ updated: 2026-09-17
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 17世纪荷兰哲学家，[[Rationalism in International Relations\|理性主义]]的早期代表之一，但其独特的泛神论和一元论思想在后现代哲学中迎来了复兴。
+> - **身份位置** 17世纪荷兰哲学家，理性主义的早期代表之一，但其独特的泛神论和一元论思想在后现代哲学中迎来了复兴。
 > - **核心角色** 在当代教育研究（尤其是受 Deleuze 等人影响的课程理论中），斯宾诺莎代表了一种“纯粹肯定”与“纯粹内在”的[[Ontology\|本体论]]。他的思想被用于对抗[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的压制性教育，为主张情感合法化、释放想象力的激进教学法提供理论基石。
 > - **代表贡献** 物质一元论（Monism）、内在性平面（Immanence）、[[Conatus\|欲力]]（Conatus）、群体力量（potentia multitudine）。
 

@@ -10,7 +10,7 @@ summary: "奥地利裔英国科学哲学家与社会哲学家，提出可证伪�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 26
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -27,7 +27,6 @@ tags:
 related_concepts:
   - "[[Scientific Method]]"
   - "[[Positivism]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Falsification]]"
   - "[[Critical Dualism]]"
   - "[[Postpositivism]]"
@@ -60,7 +59,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Karl Popper
@@ -71,7 +70,7 @@ updated: 2026-09-22
 
 > [!person-profile] 人物档案
 > - **身份位置** 奥地利裔英国哲学家、科学哲学家与社会哲学家，伦敦政治经济学院（LSE）逻辑与[[Scientific Method\|科学方法]]正教授，20 世纪最具影响力的科学哲学家之一。
-> - **核心角色** 逻辑[[Positivism\|实证主义]]经验证实原则与归纳主义的颠覆者，批判[[Rationalism in International Relations\|理性主义]]（Critical Rationalism）奠基人；以[[Falsification\|可证伪性]]确立科学划界标准，提出[[Critical Dualism\|批判二元论]]与情境分析逻辑，重塑了[[Postpositivism\|后实证主义]]与教育政策分析的[[Epistemology\|认识论]]基石。
+> - **核心角色** 逻辑[[Positivism\|实证主义]]经验证实原则与归纳主义的颠覆者，批判理性主义（Critical Rationalism）奠基人；以[[Falsification\|可证伪性]]确立科学划界标准，提出[[Critical Dualism\|批判二元论]]与情境分析逻辑，重塑了[[Postpositivism\|后实证主义]]与教育政策分析的[[Epistemology\|认识论]]基石。
 > - **代表贡献** 提出[[Falsification\|证伪主义]]（Falsificationism）与严格检验判准；出版《开放社会及其敌人》（1945）奠定批判二元论与零星社会工程；建立猜想与反驳的知识增长模型，直接催生了[[Brian Holmes\|布赖恩·霍姆斯]]的比较教育[[Problem Approach\|问题法]]。
 
 > [!citation-card] 科恩等论推测性知识与科学推理的理性对话
@@ -167,14 +166,14 @@ updated: 2026-09-22
 > [!person-network] 关系网络
 > - **科学哲学论辩对手** [[Thomas Kuhn\|托马斯·库恩]] — 就“科学革命与[[Falsification\|证伪]]批判 vs 常规[[Scientific Paradigm\|科学范式]]与解谜共同体”展开 20 世纪下半叶最重要的科学哲学大论战；
 > - **学生与学派继承者** 伊姆雷·拉卡托斯（Imre Lakatos）、保罗·费耶阿本德（Paul Feyerabend）— 继承并激进化其反归纳与证伪思想；
-> - **比较教育学核心转化者** [[Brian Holmes\|布赖恩·霍姆斯]] — 深受其批判[[Rationalism in International Relations\|理性主义]]与[[Critical Dualism\|批判二元论]]熏陶，将其方法论化为比较教育[[Problem Approach\|问题法]]；
+> - **比较教育学核心转化者** [[Brian Holmes\|布赖恩·霍姆斯]] — 深受其批判理性主义与[[Critical Dualism\|批判二元论]]熏陶，将其方法论化为比较教育[[Problem Approach\|问题法]]；
 > - **社会哲学批判对象** [[Plato\|柏拉图]]、[[Georg Wilhelm Friedrich Hegel\|黑格尔]]、卡尔·马克思 — 被其在《开放社会及其敌人》中定性为历史主义与极权乌托邦工程的思想源头。
 
 ---
 
 ## 争议与批评
 
-> [!debates] 围绕波普尔批判[[Rationalism in International Relations\|理性主义]]与[[Falsification\|证伪]]原则的学术争鸣
+> [!debates] 围绕波普尔批判理性主义与[[Falsification\|证伪]]原则的学术争鸣
 >
 > > [!axis] [[Falsification\|证伪]]原则的非对称性 vs 整体论反驳（迪昂-奎因论题）
 > > 争论焦点在于单个经验证据是否真的能够在逻辑上断然证伪一个理论。

@@ -8,7 +8,7 @@ aliases:
 summary: "指教育与公共政策领域科学研究与政府政策制定之间的结构性脱节，表现为政治选举周期与学术周期的非对称时间错配、意识形态与政治意愿阻碍、科研委托与需求诊断倒挂，以及单向信息分发替代深层互动的治理困局。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 41
+related_count: 40
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Informationalization]]"
   - "[[Legislative Policy Brief]]"
   - "[[Enlightenment]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Technical Rationality]]"
   - "[[Variable]]"
   - "[[Hypothesis]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Research-Policy Gap
@@ -205,7 +204,7 @@ updated: 2026-09-22
 
 > [!dev-timeline] 概念演变
 > - **1970s — “两个社群”理论与启蒙模型** Caplan（1979）提出“两个社群”（Two Communities）假说，指出学者与决策者属于拥有不同语言、价值与生活方式的两个隔离群体；Weiss（1979）提出启蒙模型（[[Enlightenment]] Model），指出研究主要通过长期观念渗透而非直接工具性决定影响政策。
-> - **2000s — 循证决策运动与[[Rationalism in International Relations\|理性主义]]批评** 英国新工党执政时期“有效性（What Works）”运动兴起，试图通过[[Systematic Review\|系统综述]]与政策工具包填补鸿沟；然而 Nutley 等人（2007）指出这种[[Technical Rationality\|技术理性]]主义模型低估了政策过程的复杂性。
+> - **2000s — 循证决策运动与理性主义批评** 英国新工党执政时期“有效性（What Works）”运动兴起，试图通过[[Systematic Review\|系统综述]]与政策工具包填补鸿沟；然而 Nutley 等人（2007）指出这种[[Technical Rationality\|技术理性]]主义模型低估了政策过程的复杂性。
 > - **2010s — 政治学与系统生态转向** Oliver 等人（2014）与 Cairney（2016）将[[Multiple Streams Framework\|多源流理论]]与复杂系统理论引入研究-政策鸿沟研究，论证政策制定并非理性的证据消化机器，而是充满政治妥协的竞技场。
 > - **2020 — 联邦立法实务视角的政策导航与时间系统** [[Argument_Serpell_2020_EP\|Serpell (2020)]] 基于美国国会众议院立法实务经验，揭示宏观政策制定深受突发事件驱动的[[Policymaking Chronosystem\|政策制定时间系统]]支配，反思了金标准[[Randomised Controlled Trials\|随机对照试验]]在复杂立法中的局限，提出了四阶段[[Navigational Framework for Educational Researchers\|政策导航框架]]与[[Legislative Policy Brief\|立法政策简报]]机制。
 > - **2022 — [[Centre for Educational Research and Innovation\|OECD CERI]] 跨国实证诊断** [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]]基于 29 国 37 个教育系统的跨国实证数据，首次系统测绘了政策端与实践端在阻碍感知与机制部署上的不对称图谱，将研究-政策鸿沟具体化为“时间错配”、“需求委托倒挂”与“互动机制贫乏”三大可测量维度。
@@ -228,7 +227,7 @@ updated: 2026-09-22
 ## 争议与批评
 
 > [!warning] 适用局限
-> - **[[Rationalism in International Relations\|理性主义]]偏见** 将研究与政策的分离仅仅表述为“鸿沟”，容易暗示一种[[Technical Rationality\|技术理性]]主义[[Hypothesis\|假设]]，即“只要证据足够充分、传递足够顺畅，政策就应当完全由研究决定”。批判学者指出，政策制定的本质是分配有限资源与平衡多方利益，民主合法性与公众民意在很多情境下具有不可替代的优先性，研究只是政策考量的输入源之一而非唯一裁决者。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 110)]]
+> - **理性主义偏见** 将研究与政策的分离仅仅表述为“鸿沟”，容易暗示一种[[Technical Rationality\|技术理性]]主义[[Hypothesis\|假设]]，即“只要证据足够充分、传递足够顺畅，政策就应当完全由研究决定”。批判学者指出，政策制定的本质是分配有限资源与平衡多方利益，民主合法性与公众民意在很多情境下具有不可替代的优先性，研究只是政策考量的输入源之一而非唯一裁决者。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 110)]]
 > - **证据的象征性利用与政治工具化** 政策部门对研究的引用可能并非出于改善政策效能，而是为了在公共舆论中为既定政见辩护（Symbolic or Political Use）。在此情境下，鸿沟并未真正消除，而是演变为研究被政治权力单向利用。
 
 ---

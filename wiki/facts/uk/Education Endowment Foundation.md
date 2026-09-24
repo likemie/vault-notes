@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 116
+fact_related_count: 115
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -61,7 +61,6 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Business as Usual]]"
   - "[[Implementation Fidelity]]"
-  - "[[Realism in International Relations]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Educational Brokerage Agency]]"
   - "[[What Works Movement]]"
@@ -148,7 +147,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Education Endowment Foundation
@@ -389,7 +388,7 @@ updated: 2026-09-22
 > 批判实在论与[[Realist Evaluation\|实在论评估]]（Realist Evaluation）表明，教育干预是否产生积极效果，在本体论上恰恰取决于教师在具体微观情境中的[[Professional Judgment\|专业判断]]（Professional Judgment）以及学生的能动性反应。将能动性视为实验污染物的[[Positivism\|实证主义]]进路，在根本上背离了教育实践的开放系统属性([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, pp. 6–7]])。
 
 > [!critique-logic]- 案例四：内部方法学反思——常态对照基线高企与规模化效应递减（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 56–57]]）
-> EEF 资深评估团队自述揭示：Lortie-Forgues & Inglis (2019) 重新分析 EEF 与[[National Center for Education Evaluation and Regional Assistance\|国家教育评估与区域援助中心]]（National Center for Education Evaluation and Regional Assistance，NCEE）资助的 141 项 RCT 发现平均效应量仅为 $0.06$ 标准差。面对极少有干预能显著胜过[[Business as Usual\|常态教学]]（business as usual）的质疑，EEF 反思指出：一方面，缺乏显著正效应往往反映了常态学校教学本身的高水准基线，识别哪些流行做法无效对于避免公共资金浪费具有同等重要的价值；另一方面，干预在小规模[[Efficacy Trial\|效力试验]]（efficacy）阶段的显著成效往往难以在大规模效果试验（effectiveness）阶段复现，统计功效所需的大样本迫使提供方过快扩张，从而稀释了教师培训与[[Implementation Fidelity\|实施保真度]]，催生了向[[Realism in International Relations\|现实主义]]试验与适应性设计演进的迫切诉求。
+> EEF 资深评估团队自述揭示：Lortie-Forgues & Inglis (2019) 重新分析 EEF 与[[National Center for Education Evaluation and Regional Assistance\|国家教育评估与区域援助中心]]（National Center for Education Evaluation and Regional Assistance，NCEE）资助的 141 项 RCT 发现平均效应量仅为 $0.06$ 标准差。面对极少有干预能显著胜过[[Business as Usual\|常态教学]]（business as usual）的质疑，EEF 反思指出：一方面，缺乏显著正效应往往反映了常态学校教学本身的高水准基线，识别哪些流行做法无效对于避免公共资金浪费具有同等重要的价值；另一方面，干预在小规模[[Efficacy Trial\|效力试验]]（efficacy）阶段的显著成效往往难以在大规模效果试验（effectiveness）阶段复现，统计功效所需的大样本迫使提供方过快扩张，从而稀释了教师培训与[[Implementation Fidelity\|实施保真度]]，催生了向现实主义试验与适应性设计演进的迫切诉求。
 
 ---
 

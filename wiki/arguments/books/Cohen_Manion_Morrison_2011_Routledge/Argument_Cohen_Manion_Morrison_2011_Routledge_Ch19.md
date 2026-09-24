@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19"
 argument_display_title: "Research Methods in Education · Ch19"
 argument_kind: "book-chapter"
-argument_related_count: 51
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -51,7 +51,6 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Construct]]"
   - "[[Educational Affordances]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Causality]]"
   - "[[Presence]]"
   - "[[Externalization]]"
@@ -246,7 +245,7 @@ updated: 2026-09-07
 >
 > - **决定论宇宙观**
 >
->   对拉普拉斯和牛顿而言，宇宙是[[Rationalism in International Relations\|理性主义]]的和决定论的：效果是原因的函数，可预测性、[[Causality\|因果性]]、模式化、普遍性、线性、连续性、稳定性和客观性都贡献于将宇宙视为复杂均衡中的有序、内部和谐机制的观点。这是一个理性的、封闭的、决定论的系统，易于进行相对直接的科学发现和定律（p. 153）。
+>   对拉普拉斯和牛顿而言，宇宙是理性主义的和决定论的：效果是原因的函数，可预测性、[[Causality\|因果性]]、模式化、普遍性、线性、连续性、稳定性和客观性都贡献于将宇宙视为复杂均衡中的有序、内部和谐机制的观点。这是一个理性的、封闭的、决定论的系统，易于进行相对直接的科学发现和定律（p. 153）。
 >
 > - **1960s 至今：混沌与复杂性理论的崛起**
 >

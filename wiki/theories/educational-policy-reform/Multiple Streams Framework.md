@@ -9,7 +9,7 @@ aliases:
 summary: "由约翰·金登（John Kingdon）创立并由尼古拉斯·扎哈利亚迪斯（Nikolaos Zahariadis）深化的公共政策分析框架；将政策制定过程解构为相对独立的问题流、政策流与政治流，阐明在决策歧义性与信息过载情境下，政策企业家如何抓住政策之窗实现三流耦合以促成改革议程设定。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 23
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -20,7 +20,6 @@ tags:
   - theme/policy-brokerage
   - theme/ambiguity
 related_concepts:
-  - "[[Rationalism in International Relations]]"
   - "[[Problem Finding]]"
   - "[[Policy Ambiguity]]"
   - "[[Policy Brokerage]]"
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Multiple Streams Framework
@@ -63,7 +62,7 @@ updated: 2026-09-17
 
 > [!theory-position] 理论定位
 > - **解释对象** 公共政策制定中议程如何确立、方案如何被选择，尤其是在高度不确定、信息过载与认知分歧交织的复杂政策生态中。
-> - **理论问题** 彻底打破传统[[Rationalism in International Relations\|理性主义]]“[[Problem Finding\|问题界定]] → 方案搜索 → 综合权衡 → 决策执行”的线性推导神话，解释为何政策方案往往先于问题存在，以及为何公共决策长期深陷“针对同一情境存在多种不可调和思维方式”的[[Policy Ambiguity\|决策歧义性]]（Ambiguity）。
+> - **理论问题** 彻底打破传统理性主义“[[Problem Finding\|问题界定]] → 方案搜索 → 综合权衡 → 决策执行”的线性推导神话，解释为何政策方案往往先于问题存在，以及为何公共决策长期深陷“针对同一情境存在多种不可调和思维方式”的[[Policy Ambiguity\|决策歧义性]]（Ambiguity）。
 > - **理论类型** 中层理论 / 政策议程设定机制与动态决策过程模型。
 > - **知识位置** 发轫于科恩、马奇与奥尔森（Cohen, March, & Olsen, 1972）对“有组织无序状态”的洞见与垃圾桶模型（Garbage Can Model），由约翰·金登（John Kingdon, 1984）系统创立，后经尼古拉斯·扎哈利亚迪斯（Nikolaos Zahariadis, 2003, 2017）扩展深化，成为当代教育政策改革与全球治理中分析[[Policy Brokerage\|政策中介]]（[[Policy Brokerage]]）与量化指标规制（[[Governing by Numbers]]）的经典理论基石。
 

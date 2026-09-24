@@ -9,7 +9,7 @@ aliases:
 summary: "Robert Cowen（2009）提出、Jason Beech（2009）与 Steiner-Khamsi 等人（2024）深化的跨国教育知识流动分析框架，追踪教育思想在空间转移（太空门时刻）、政策转译（变色龙过程）与权力压缩转化（形态变质与制度化）中的演变，并在数字治理 2.0 中揭示转移空间的自指性转译与政策周期政治过滤机制。"
 type: concept
 domain: "comparative-education"
-related_count: 73
+related_count: 71
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -39,8 +39,6 @@ related_concepts:
   - "[[Topological Spatialisation]]"
   - "[[Global Policy Space]]"
   - "[[Knowledge Transfer]]"
-  - "[[Realism in International Relations]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[Examination Hell]]"
   - "[[Pragmatic Paradigm]]"
@@ -100,7 +98,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-18
+updated: 2026-09-24
 ---
 
 # Transfer Translation Transformation
@@ -205,7 +203,7 @@ updated: 2026-09-18
 > 学者指出：跨国[[Knowledge Transfer\|知识转移]]的动力与结局深层受制于国际权力结构与地方文化抗力。
 
 > [!claim] [[Argument_Klerides_2023_CE\|Klerides (2023, pp.422–427)]]
-> **[[Realism in International Relations\|现实主义]]、[[Rationalism in International Relations\|理性主义]]与[[Revolutionism\|革命主义]]三大[[Paradigm\|范式]]** 指出教育转移受国际关系三大范式塑造：[[Realism in International Relations\|现实主义]]视其为权力等级下的单向移动，[[Rationalism in International Relations\|理性主义]]视其为非线性旅行政策，[[Revolutionism\|革命主义]]视其为反支配的斗争工具。
+> **现实主义、理性主义与[[Revolutionism\|革命主义]]三大[[Paradigm\|范式]]** 指出教育转移受国际关系三大范式塑造：现实主义视其为权力等级下的单向移动，理性主义视其为非线性旅行政策，[[Revolutionism\|革命主义]]视其为反支配的斗争工具。
 
 > [!claim] [[Argument_Cowen_2009_CE\|Cowen (2009b, pp. 257, 323)]]
 > **战后盟军占领下的德日制度移植与本土阻抗** 证明二战后美国向德日强推单轨制/综合中学，但在转化阶段西德保守力量保留了传统三轨制，而日本虽保留单轨制形式却演化出残酷的[[Examination Hell\|考试地狱]]。
@@ -269,7 +267,7 @@ updated: 2026-09-18
 > - **2009 — Beech 的空间与实践拓展 (Empirical Mapping)** 杰森·比奇（[[Jason Beech]]）结合 Castells 的[[Network Society\|网络社会]]与[[Space of Flows and Space of Places\|流动空间]]理论，将 3T 阶段分别映射至“[[Global Policy Space\|全球政策空间]]—国家官方政策—微观学校实践”三个地理与社会空间。（[[Argument_Beech_2009_CE\|Beech, 2009, p.348]]）
 > - **2018 — Hartong 的社会-技术转译与政策[[Topological Spatialisation\|拓扑学重组]] (Topological Re-[[Assemblage]] & Sociotechnical Translation)** [[Sigrid Hartong\|西格丽德·哈通]]（Sigrid Hartong）将 [[Actor-Network Theory\|ANT]] 转译社会学与[[Topological Spatialisation\|拓扑空间]]理论融入跨尺度政策研究，揭示德国教育监测战略如何通过柏林 [[Institute for Educational Quality Improvement\|IQB]][[Center of Calculation\|计算中心]]与 [[Vergleichsarbeiten\|VERA]] 题库平台将国家标准转译并拓扑折叠进各州学校与班级微观实践。（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）
 > - **2018 — Grey & Morris 的[[Mediatised Governance\|媒介化治理]]与逆向转译拓展 (Mediatised Borrowing & [[Shape-Shifting]])** [[Paul Morris\|保罗·莫里斯]]（Paul Morris）与休·格雷（Sue Grey）将 3T 视角延伸至现代跨国评估（[[PISA]]）时代的[[Policy Borrowing\|政策借用]]，揭示了全球测评样板如何作为外部参考资源被国内政客通过“遗漏话语”与媒介公关实施高度策略性的转译，并在媒体“[[Policy Avoidance\|政策规避]]”下最终转化为强化本土私有化与行政集权的异化形态。（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）
-> - **2023 — Klerides 的国际关系[[Paradigm\|范式]]引入 (Theoretical Expansion)** [[Eleftherios Klerides\|埃莱夫塞里奥斯·克莱里德斯]]（Eleftherios Klerides）从[[Wight's Three Traditions of International Theory\|国际关系理论]]视角拓展 3T 分析范式，划分为[[Realism in International Relations\|现实主义]]、[[Rationalism in International Relations\|理性主义]]与[[Revolutionism\|革命主义]]三大路径。（[[Argument_Klerides_2023_CE\|Klerides, 2023, pp.422–427]]）
+> - **2023 — Klerides 的国际关系[[Paradigm\|范式]]引入 (Theoretical Expansion)** [[Eleftherios Klerides\|埃莱夫塞里奥斯·克莱里德斯]]（Eleftherios Klerides）从[[Wight's Three Traditions of International Theory\|国际关系理论]]视角拓展 3T 分析范式，划分为现实主义、理性主义与[[Revolutionism\|革命主义]]三大路径。（[[Argument_Klerides_2023_CE\|Klerides, 2023, pp.422–427]]）
 > - **2024 — Zhou & Westberg 的中国民国实证深化 (Historical Application)** [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]] 运用 3T 框架精准拆解民国时期（1919–1928）[[John Dewey\|杜威]][[Pragmatic Paradigm\|实用主义]]在华转移、去政治化转译与转化为[[Scientific Attitude\|科学态度]]的历史过程。
 > - **2024 — Steiner-Khamsi 等人的自指性转译与程序性过滤深化 (Autopoietic Translation & Procedural Funneling)** 吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）、Martens 与 Ydesen 将[[Niklas Luhmann\|卢曼]]系统论与政策全流程视角融入 3T 框架，指出转移发生在国际组织与本土行动者互动的多维“[[Transfer Space\|转移空间]]（Transfer Space）”；转译是教育系统内部将外部治理逻辑转化为“以学习为中心”的自指性重构，以建构准外部参照点；并在实证层面揭示了跨国借词在政策周期从咨询到颁布阶段所经历的由宽到窄的程序性政治漏斗。（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]）
 

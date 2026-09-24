@@ -7,10 +7,10 @@ summary: "英国首任比较教育教授（1947），欧洲比较教育学会首
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 24
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 23
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1902"
 died: "1981"
 lifespan: "1902–1981"
@@ -19,17 +19,16 @@ tags:
   - theme/international-cooperation
   - theme/history-of-education
 related_concepts:
-  - "[[Rationalism in International Relations]]"
   - "[[Scientific Method]]"
   - "[[International Education]]"
   - "[[Dialogue in Education]]"
   - "[[Epistemology]]"
   - "[[Champ]]"
-  - "[[Realism in International Relations]]"
   - "[[Paradigm]]"
   - "[[Academic Iconography]]"
   - "[[Cultural Diplomacy]]"
   - "[[Comparative History of Comparative Education]]"
+  - "[[Rationalism in International Relations]]"
 related_theories: []
 related_methods:
   - "[[Philosophical Analysis in Education]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Joseph Lauwerys
@@ -62,7 +61,7 @@ updated: 2026-09-22
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国比较教育学家，伦敦大学教育学院（Institute of Education, University of London, IOE）首任比较教育教授（1947 年就职），[[Comparative Education Society in Europe\|欧洲比较教育学会]]（[[Comparative and International Education Society\|Comparative Education Society]] in Europe, CESE）首任主席（1961–1967），[[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）早期核心顾问。
-> - **核心角色** 将比较教育学科体制化全面嵌入二战后的跨国多边合作网络，是[[Rationalism in International Relations\|理性主义]]国际关系传统在比较教育中的核心代表人物。
+> - **核心角色** 将比较教育学科体制化全面嵌入二战后的跨国多边合作网络，是理性主义国际关系传统在比较教育中的核心代表人物。
 > - **代表贡献** 确立英国比较教育大学独立教席与系所体制；联合创立 CESE 并构筑战后欧洲学术网络；确立以国际理解、民主理想与科学人道主义为核心的价值体系。
 
 > [!citation-card] 人物定位的关键来源
@@ -106,7 +105,7 @@ updated: 2026-09-22
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 确立了比较教育中的[[Rationalism in International Relations\|理性主义]]传统，与[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）代表的[[Realism in International Relations\|现实主义]]国家竞争[[Paradigm\|范式]]形成鲜明对照，为后来的[[International Education\|国际教育]]合作研究奠定理论基石。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 420–425)]]
+> - **理论路径** 确立了比较教育中的理性主义传统，与[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）代表的现实主义国家竞争[[Paradigm\|范式]]形成鲜明对照，为后来的[[International Education\|国际教育]]合作研究奠定理论基石。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 420–425)]]
 > - **方法路径** 打破战后英国部分学者对定量与实证社会学的抵触，主张将严谨的社会科学调查与哲学诠释相结合，拓展了比较教育的方法论包容度。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
 > - **政策路径** 深度参与[[UNESCO\|联合国教科文组织]]早期教育议程的制定，协助将比较分析工具制度化地引入跨国技术援助与战后教育重建政策。
 > - **跨国传播** 作为国际学术外交家，跨越大西洋、欧洲与亚洲，直接将比较教育的机构网络扩展至拉丁美洲与东亚，推动了日本比较教育学会等区域性学术团体的萌芽与联结。
@@ -119,7 +118,7 @@ updated: 2026-09-22
 > - **合作者** 索尔·罗宾松 共同发起创立 [[Comparative Education Society in Europe\|CESE]]，推动战后欧洲[[Dialogue in Education\|教育对话]]与制度改革。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 425)]]
 > - **同事与继承者** [[Brian Holmes\|布莱恩·霍姆斯]]（Brian Holmes） 共同任教于伦敦大学教育学院，继承并发展了[[Problem Approach\|问题法]]（Problem Approach）与制度化比较教育。
 > - **国际学术盟友** [[Jean Piaget\|让·皮亚杰]]、阿尼西奥·特谢拉、平冢益德 维系日内瓦 IBE、巴西与日本的高层跨洲学术纽带。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
-> - **学术镜像与对比** [[George Bereday\|乔治·贝雷迪]]（George Bereday） 战后欧美两大跨洲网络核心枢纽与学术演讲巨匠；[[Michael Sadler\|萨德勒]] 代表以国家防卫与竞争焦虑为驱动的[[Realism in International Relations\|现实主义]]，劳韦里斯则代表以国际主义合作为驱动的[[Rationalism in International Relations\|理性主义]]。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 420–425)]]
+> - **学术镜像与对比** [[George Bereday\|乔治·贝雷迪]]（George Bereday） 战后欧美两大跨洲网络核心枢纽与学术演讲巨匠；[[Michael Sadler\|萨德勒]] 代表以国家防卫与竞争焦虑为驱动的现实主义，劳韦里斯则代表以国际主义合作为驱动的理性主义。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 420–425)]]
 > - **机构与组织** [[Comparative Education Society in Europe]]（CESE 创会主席）、[[UNESCO\|联合国教科文组织]]（UNESCO 资深顾问）、伦敦大学教育学院（IOE 讲座教授）。
 
 ---
@@ -131,7 +130,7 @@ updated: 2026-09-22
 > > [!axis] [[Academic Iconography\|学科肖像学]]与深层历史评传的缺位
 > > 学界长期熟知劳韦里斯的卓越演讲魅力与学术外交光环，将其奉为学科建制的奠基性元老。然而，正如 [[Robert Cowen\|罗伯特·考恩]]（Robert Cowen）所指出的，比较教育学界至今缺乏一部严肃历史学家式的、具有深层批判力的劳韦里斯传记。这种现象揭示出比较教育在建构自身历史传统时，容易沉溺于制造未经反思的学科肖像学（Iconographies），而回避了对其制度权力与历史局限的深层探究。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
 >
-> > [!axis] [[Rationalism in International Relations\|理性主义]]理想与地缘现实的张力
+> > [!axis] 理性主义理想与地缘现实的张力
 > > 劳韦里斯所倡导的科学人道主义与国际理解假定教育合作能够超越地缘政治分裂，但在冷战加剧的背景下，这种理想主义设定常面临被两大阵营的[[Cultural Diplomacy\|文化外交]]与意识形态竞争所工具化的现实挑战。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 424–425)]]
 
 > [!warning] 未解问题与边界

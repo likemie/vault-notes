@@ -7,7 +7,7 @@ summary: "德国社会学家，理解社会学奠基人与新教伦理与资本�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 25
+person_related_count: 24
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Selective Affinity]]"
   - "[[Causality]]"
   - "[[Document]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Determinism]]"
   - "[[Unit of Analysis]]"
   - "[[Corporate Education]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 # Max Weber
 
@@ -110,7 +109,7 @@ updated: 2026-09-22
 >   - **阶段转向** 超越历史学派与理论学派的方法论之争（Methodenstreit），确立诠释社会学[[Paradigm\|范式]]，开创比较宗教社会学。
 > - **1911–1918 世界宗教经济伦理与比较文明拓展期** 此阶段突破欧洲中心主义，在宏观文明比较视野下检验西方理性化路径的独特机理。
 >   - **代表著作** 《世界宗教的经济伦理》（1915–1920，含《儒教与道教》《印度教与佛教》《古代犹太教》）、《宗教社会学论文集》（1920–1921）。
->   - **关键概念／方法** 救赎路径、生活方式（Lebensführung）、世界图像（Weltbilder）、西方[[Rationalism in International Relations\|理性主义]]、世界的祛魅。
+>   - **关键概念／方法** 救赎路径、生活方式（Lebensführung）、世界图像（Weltbilder）、西方理性主义、世界的祛魅。
 >   - **阶段转向** 将个案命题扩展为全球比较历史社会学，探讨为何现代资本主义理性化仅在近代西方成熟发生。
 > - **1919–1920 政治伦理抉择与理解社会学体系集大成** 此阶段系统归纳社会学概念体系，回应现代人在官僚制铁笼与价值冲突中的生存境遇。
 >   - **代表著作** 《以学术为业》（1919）、《以政治为业》（1919）、《经济与社会》（1921–1922 遗著）、《普遍社会与经济史》（1923 遗著）。
@@ -156,7 +155,7 @@ updated: 2026-09-22
 
 ### 西方理性主义与世界的祛魅
 
-韦伯的核心命题在于探讨西方[[Rationalism in International Relations|理性主义]]（okzidentaler Rationalismus）的历史演进及其引发的“世界的祛魅”（Entzauberung der Welt）。这一进程贯穿于理性法律、资本主义核算体系、科层组织与有条理的生活方式（Lebensführung）中。现代人在摆脱巫术神话的同时，也面临着工具理性膨胀所带来的官僚制“铁笼”与终极意义丧失的现代性困境。
+韦伯的核心命题在于探讨西方理性主义（okzidentaler Rationalismus）的历史演进及其引发的“世界的祛魅”（Entzauberung der Welt）。这一进程贯穿于理性法律、资本主义核算体系、科层组织与有条理的生活方式（Lebensführung）中。现代人在摆脱巫术神话的同时，也面临着工具理性膨胀所带来的官僚制“铁笼”与终极意义丧失的现代性困境。
 
 ### 支配类型学与合法性权威
 

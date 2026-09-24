@@ -32,7 +32,6 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Translational Research]]"
   - "[[Hypothesis]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Interactional Expertise]]"
   - "[[Contributory Expertise]]"
@@ -43,6 +42,7 @@ related_concepts:
   - "[[Poor Research Use]]"
   - "[[Push and Pull Models of Knowledge Mobilisation]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Rationalism in International Relations]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
 related_methods:
@@ -169,7 +169,7 @@ updated: 2026-09-18
 > > [[Questionnaire\|问卷调查]]与[[In-depth Interview\|深度访谈]]主要依赖教师与管理者的主观经验自陈，对于微观课堂教学行为的直接客观观测与学生学业长远增值指标仍显不足。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, p. 184]]）
 >
 > > [!axis] 系统理性模型[[Hypothesis\|假设]] vs 专长类型断裂与治理现实
-> > 批判学者指出，莫纳什 Q 项目与 [[Quality Use of Research Evidence Framework\|QURE]] 框架虽强调从证据生产质量转向使用质量，但其背后仍带有功能主义与[[Rationalism in International Relations\|理性主义]]假设，预设只要通过专业学习、榜样领导与工时排程等使能条件，证据就能顺畅转化为优质实践；然而专长社会学与比较教育研究表明，[[Educational Brokerage Agency\|证据中介机构]]所代表的[[Interactional Expertise\|交互型专长]]（技术客观性）与一线教师扎根现场的[[Contributory Expertise\|贡献型专长]]（具身实践经验）之间存在深刻的[[Epistemological Break\|认识论断裂]]，且在高利害市场化治理体制下，[[Research Utilization\|证据使用]]极易异化为迎合外部问责的表演性合规，而非自发的[[Reflective Thinking\|反思性探究]]。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 4–5, 21–23)]]
+> > 批判学者指出，莫纳什 Q 项目与 [[Quality Use of Research Evidence Framework\|QURE]] 框架虽强调从证据生产质量转向使用质量，但其背后仍带有功能主义与理性主义假设，预设只要通过专业学习、榜样领导与工时排程等使能条件，证据就能顺畅转化为优质实践；然而专长社会学与比较教育研究表明，[[Educational Brokerage Agency\|证据中介机构]]所代表的[[Interactional Expertise\|交互型专长]]（技术客观性）与一线教师扎根现场的[[Contributory Expertise\|贡献型专长]]（具身实践经验）之间存在深刻的[[Epistemological Break\|认识论断裂]]，且在高利害市场化治理体制下，[[Research Utilization\|证据使用]]极易异化为迎合外部问责的表演性合规，而非自发的[[Reflective Thinking\|反思性探究]]。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 4–5, 21–23)]]
 
 > [!lessons] 经验教训与启示
 > - **从供给驱动向需求牵引全面转型** 改变以往单纯资助成果生产与单向数据库推送的路径依赖，必须将增量资源投向一线教师的[[Absorptive Capacity\|吸收能力]]与学校组织使能条件建设。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 193–195)]]

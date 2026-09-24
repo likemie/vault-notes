@@ -7,7 +7,7 @@ title: "Argument_Mattheou_2009_ScientificParadigm"
 argument_key: "Argument_Mattheou_2009_ScientificParadigm"
 argument_display_title: "The Scientific Paradigm in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 74
+argument_related_count: 73
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -42,7 +42,6 @@ related_concepts:
   - "[[Grand Theory]]"
   - "[[Comparative Educations]]"
   - "[[Operationalization]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Ontology]]"
   - "[[Conatus]]"
@@ -129,7 +128,7 @@ updated: 2026-09-08
 
 > [!concept-lens] 阅读透镜
 > - **对象** 20 世纪 50 至 70 年代英美比较教育学的方法论大论战、经典学者文本及其背后的战后政策规划情境。
-> - **张力** 普遍必然因果律 vs 情境权变社会学法则；纯经验归纳与变量[[Operationalization\|操作化]] vs 假说-演绎批判[[Rationalism in International Relations\|理性主义]]；学术探索求真 vs 沦为国家规划与技术官僚意识形态的[[Social Science as Legitimation Alibi\|合法化借口]]（alibi）。
+> - **张力** 普遍必然因果律 vs 情境权变社会学法则；纯经验归纳与变量[[Operationalization\|操作化]] vs 假说-演绎批判理性主义；学术探索求真 vs 沦为国家规划与技术官僚意识形态的[[Social Science as Legitimation Alibi\|合法化借口]]（alibi）。
 > - **贡献** 借助库恩科学范式构架系统厘清了比较教育科学化运动的四维要素，深刻辨析了不同流派对法则内涵的[[Ontology\|本体论]]界定，揭示了方法论霸权与政治合法化之间的隐秘共谋机制。
 
 ---
@@ -195,7 +194,7 @@ updated: 2026-09-08
 
 > [!quad-grid] 欧洲四大[[Paideia\|古典教化]]传统及其精英培养取向
 > - **德国 · 精神教化（Bildung）** 承袭威廉·冯·洪堡（Wilhelm von Humboldt; Humboldt, 1961/1808）的理想主义传统，强调个人内在智力、道德与审美精神的全面协调塑造，将大学与文理中学确立为超越实用功利、追求纯粹真理的探究殿堂。
-> - **法国 · [[Culture Générale\|通识教养]]（Culture Générale）** 深植于勒内·[[René Descartes\|笛卡尔]]（René Descartes）的[[Rationalism in International Relations\|理性主义]]传统，主张通过严整的哲学、文学与古典修辞训练培育普遍理性与敏锐心智，为法兰西中央集权体制选拔具备卓越行政才能的社会精英。
+> - **法国 · [[Culture Générale\|通识教养]]（Culture Générale）** 深植于勒内·[[René Descartes\|笛卡尔]]（René Descartes）的理性主义传统，主张通过严整的哲学、文学与古典修辞训练培育普遍理性与敏锐心智，为法兰西中央集权体制选拔具备卓越行政才能的社会精英。
 > - **英国 · [[Liberal Education\|自由教育]]（Liberal Education）** 1864 年克拉伦登委员会（Clarendon Commission）报告与[[Matthew Arnold\|马修·阿诺德]]（Matthew Arnold; Arnold, 1869）在《文化与无政府状态》中大力宣示的博雅教育理念，致力于塑造品格高尚、恪守责任的绅士阶层，以服务大英帝国的政治治理与道德教化。
 > - **希腊 · 古典教化（Klassiki Paedeia）** 扎根于古希腊城邦公民哲学的智性沉思与审美统整，追求身心和谐的至善美德，旨在培养具有城邦奉献精神与古典人文素养的公民典范。
 

@@ -189,8 +189,8 @@ updated: 2026-09-24
 > |---|---|---|---|
 > | **系统维系命题** | 应试教育是由行政问责、家长期望与教师道德责任多层锁定的高协调性自稳活动系统 | 东亚社会、中国基础教育改革与跨文化教育治理 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]; You (2019) |
 > | **计算机化异化命题** | 追求标准化得分将教学窄化为模式识别与公式套路，前置剥夺了学生的深层探究权与[[Epistemic Agency\|认识主体性]] | 高利害测验、欧美与全球标准化读写教学改革 | Learned et al. (2020); Collin (2024); Davies (2022); [[Argument_Smith_2026_SPE\|Smith (2026)]] |
-> | **技术共谋致残命题** | 生成式 AI 与应试套路发生病理共振，全面接管心智实践并极度放大成长性认识不正义 | 人工智能教育采纳、课堂写作学与技术伦理批判 | Smith (2026) |
-> | **改革妥协命题** | 教学创新在实践中被严格规约于“确保分数不降”的底线之下，面临被工具化收编的命运 | 教学法改革、LCE [[Going Native\|本土化]]与课程[[Implementation and Process Evaluation\|实施评估]] | Wang & McLaughlin (2025); [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] |
+> | **技术共谋致残命题** | 生成式 AI 与应试套路发生病理共振，全面接管心智实践并极度放大成长性认识不正义 | 人工智能教育采纳、课堂写作学与技术伦理批判 | [[Argument_Smith_2026_SPE\|Smith (2026)]] |
+> | **改革妥协命题** | 教学创新在实践中被严格规约于“确保分数不降”的底线之下，面临被工具化收编的命运 | 教学法改革、LCE [[Going Native\|本土化]]与课程[[Implementation and Process Evaluation\|实施评估]] | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]; [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] |
 
 ---
 

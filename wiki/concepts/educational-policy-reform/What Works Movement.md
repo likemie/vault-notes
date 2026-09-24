@@ -43,13 +43,13 @@ related_concepts:
   - "[[Output-Oriented Governance]]"
   - "[[Internal Validity]]"
   - "[[Formative Assessment]]"
-  - "[[Realism in International Relations]]"
   - "[[Interaction Effect]]"
   - "[[New Public Management]]"
   - "[[Evidence Standards]]"
   - "[[Heterogeneity]]"
   - "[[Cognitive Deskilling]]"
   - "[[Operationalization]]"
+  - "[[Realism in International Relations]]"
   - "[[Teacher Professional Agency]]"
 related_theories:
   - "[[Realist Evaluation]]"
@@ -217,7 +217,7 @@ updated: 2026-09-22
 
 > [!case] 英国 [[What Works Network]] 的制度化扩展与 [[Education Endowment Foundation\|EEF]] 十年治理演进（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]；White, 2019）
 > - **制度化网络的全面建立** 2013 年，英国政府内阁办公厅正式设立涵盖 9 个独立有效中心的国家网络——什么样的有效网络（What Works Network，WWN），总计覆盖超过 **2,500 亿英镑**的公共支出，标志着英国成为全球首个将因果证据制度化嵌入国家公共治理中枢的国家。其中，教育捐赠基金会（EEF）被公认为该网络中最成熟、规模最大的旗舰实体（White, 2019；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 47]]）。
-> - **从技术黑箱向[[Realism in International Relations\|现实主义]][[Paradigm\|范式]]的方法学演进** 经过十年运行，EEF 深刻反思了早期单纯追求单维度两组 [[Randomised Controlled Trials\|RCT]] 的局限性。教育项目不同于药物临床，学校具备极其复杂的开放生态。为此，EEF 开启了系统方法学革新：
+> - **从技术黑箱向现实主义[[Paradigm\|范式]]的方法学演进** 经过十年运行，EEF 深刻反思了早期单纯追求单维度两组 [[Randomised Controlled Trials\|RCT]] 的局限性。教育项目不同于药物临床，学校具备极其复杂的开放生态。为此，EEF 开启了系统方法学革新：
 >   1. **[[Implementation and Process Evaluation\|过程评估]]与[[Causality\|因果推断]]深度绑定** 确立 IPE 规范指南，将定量结局数据与定性课堂访谈、合规度量融合，精准分离实施走样与方案理论无效；
 >   2. **现实主义多臂与析因试验** 探索多臂与[[Factorial Design\|析因设计]]，系统解构技术与师资要素的[[Interaction Effect\|交互效应]]；
 >   3. **树立客观独立的测量金标准** 强制以全州通用的 NPD 国家高利害统考作为首要结局，严禁采用人为夸大[[Effect Size\|效应量]]的自编测验；

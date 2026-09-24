@@ -6,7 +6,7 @@ aliases:
 summary: "批判地缘政治与比较教育中指代超国家机构和西方国家通过日常、技术化且看似价值中立的跨国教育绩效数据（如 PISA 排名），建立普世效率指标，在无形中巩固西方中心规则并再生产对非西方社会认识论压制与他者化（Othering）的霸权机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,8 +30,6 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Re-Westernisation]]"
   - "[[International Education]]"
-  - "[[Realism in International Relations]]"
-  - "[[Rationalism in International Relations]]"
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Orientalism]]"
@@ -47,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Banal Imperialism
@@ -106,7 +104,7 @@ updated: 2026-09-17
 > [!dev-timeline] 发展脉络
 > - **2019 — 概念明确提出** Iveta Silova and Euan Auld 撰文 *'Banal' Imperialism and [[International Education]] Performance Data*，揭示了全球测评排名数据作为新帝国主义的日常化微观运作机制。(Silova & Auld, 2019)
 > - **2020 — 认识地平线重构** Silova、Rappleye and Auld 倡导超越西方认识地平线，解构转让与数据流动在去殖民转向中的合谋。
-> - **2023 — 国关理论的系统熔炼** Klerides 将“平庸的帝国主义”引入 Martin Wight 的三大传统框架，说明其作为[[Realism in International Relations\|现实主义]]与[[Rationalism in International Relations\|理性主义]]杂交的混合表征，如何隐蔽地服务于西方的[[Re-Westernisation\|再西方化]]安全与地缘利益。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 429]])
+> - **2023 — 国关理论的系统熔炼** Klerides 将“平庸的帝国主义”引入 Martin Wight 的三大传统框架，说明其作为现实主义与理性主义杂交的混合表征，如何隐蔽地服务于西方的[[Re-Westernisation\|再西方化]]安全与地缘利益。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 429]])
 
 ---
 

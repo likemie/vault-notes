@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -27,7 +27,6 @@ tags:
 related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Development Turn in Comparative Education]]"
-  - "[[Realism in International Relations]]"
   - "[[Constructivist Paradigm]]"
   - "[[Governing by Numbers]]"
   - "[[Global Citizenship]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Global Education Monitoring Report
@@ -146,7 +145,7 @@ updated: 2026-09-22
 > > [!axis] “无牙之虎”的规制软肋：道义谴责 vs 刚性强制力
 > > 国际政治学者审视 GEMR 缺乏直接制裁手段的制度软肋。
 > >
-> > - **[[Realism in International Relations\|现实主义]]政治学批评** 认为 GEMR 虽然拥有无懈可击的数据严谨性与崇高道德感，但由于其不能如[[World Bank\|世界银行]]那样通过切断信贷来行使强制性权力，对冥顽不化的违约国家缺乏实质性的惩戒牙齿。
+> > - **现实主义政治学批评** 认为 GEMR 虽然拥有无懈可击的数据严谨性与崇高道德感，但由于其不能如[[World Bank\|世界银行]]那样通过切断信贷来行使强制性权力，对冥顽不化的违约国家缺乏实质性的惩戒牙齿。
 > > - **[[Constructivist Paradigm\|建构主义]]制度回应** 坚信在[[Governing by Numbers\|数字治理]]与[[Global Citizenship\|全球公民]]社会崛起时代，声誉成本（Reputational Cost）与公共硬事实羞辱（Naming and Shaming）本身就是重塑国家偏好的强效[[Soft Power\|软权力]]武器。
 
 > [!lessons] 经验教训与启示

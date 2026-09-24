@@ -9,7 +9,7 @@ aliases:
 summary: "由布赖恩·霍姆斯从卡尔·波普尔科学哲学引入比较教育学的方法论基石，将人类教育事务严格划分为人为设立且可变更的规范法则与具有情境权变性、用于描述机构功能运行并接受经验证伪的社会学法则"
 type: concept
 domain: "comparative-education"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Scientific Paradigm]]"
   - "[[Grand Theory]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Variable]]"
   - "[[Document]]"
 related_methods:
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Critical Dualism
@@ -185,7 +184,7 @@ updated: 2026-09-17
 ## 概念演变
 
 > [!dev-timeline] 批判二元论的知识谱系演进
-> - **1945 年 — 波普尔奠定批判[[Rationalism in International Relations\|理性主义]]哲学基石** [[Karl Popper\|卡尔·波普尔]]（Karl Popper）在《开放社会及其敌人》中系统阐述批判二元论，严格划清自然界客观规律与人类自设规范公约的界限，清算将道德价值还原为历史必然性的[[Determinism\|决定论]]历史主义。
+> - **1945 年 — 波普尔奠定批判理性主义哲学基石** [[Karl Popper\|卡尔·波普尔]]（Karl Popper）在《开放社会及其敌人》中系统阐述批判二元论，严格划清自然界客观规律与人类自设规范公约的界限，清算将道德价值还原为历史必然性的[[Determinism\|决定论]]历史主义。
 > - **1965 年 — 霍姆斯开辟比较教育[[Problem Approach\|问题法]]转化** 霍姆斯在《教育中的问题》（*Problems in Education*）中首次将批判二元论系统引入比较教育，建构由规范模式与机构背景组成的情境[[Analytic Framework\|分析框架]]，将教育政策重塑为可检验假说。
 > - **1981 年 — 相对论物理学启示与权变法则理论成熟** 霍姆斯在《比较教育方法论思考》（*Comparative Education: Some Considerations on Method*）中全面深化二元分立，汲取爱因斯坦相对论启示确立社会学法则的权变性，并与[[Edmund King\|埃德蒙·金]]就预测划界标准展开世纪大论战。
 > - **2000 年代至今 — 学科史重估与现代性反思** [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] 等学者系统复盘批判二元论，指出其在[[Positivism\|实证主义]]狂飙突进的年代为历史人文传统守住了合法阵地，但在官方政策资助市场却因其哲学复杂性与揭示非意图后果的尖锐性而遭到技术官僚冷落。

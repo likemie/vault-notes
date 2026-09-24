@@ -6,7 +6,7 @@ aliases:
 summary: "认识论与课程论中指称人类获取、建构、表达和审查知识的多维途径与经验资源；既是国际文凭知识论课程中连接个人与共享知识的元认知分析框架，也是科学教育视阈下体现学科特异性与文化多样性的认识论实践形态。"
 type: concept
 domain: "curriculum"
-related_count: 41
+related_count: 40
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -48,7 +48,6 @@ related_concepts:
   - "[[Critical Thinking Assessment]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Knowledge Questions]]"
-  - "[[Rationalism in International Relations]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
 related_methods:
@@ -67,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-26
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Ways of Knowing
@@ -224,7 +223,7 @@ updated: 2026-09-22
 > > 争论围绕认知方式（如直觉、信仰、感官知觉）应当被理解为严格独立的心理学认知模块，还是仅仅作为启发学生开展[[Metacognition\|元认知]]反思的课程分析脚手架。
 >
 > > [!axis] 普遍认知途径 vs 地方性文化知态
-> > 争论聚焦于认知方式框架是否隐含了西方[[Rationalism in International Relations\|理性主义]]与启蒙传统的特定偏见，后殖民学者主张应进一步包容非西方本土文化中具身化、仪式化的多元知态（indigenous ways of knowing）。
+> > 争论聚焦于认知方式框架是否隐含了西方理性主义与启蒙传统的特定偏见，后殖民学者主张应进一步包容非西方本土文化中具身化、仪式化的多元知态（indigenous ways of knowing）。
 
 > [!critique] 形式化术语套用风险
 > 批判学者指出，当认知方式被简化为[[Homework\|作业]]必须提及的关键词时，学生往往热衷于生硬拼接“理性和情感在此发生冲突”等套话，掩盖了对深层[[Epistemology\|认识论]]悖论与实证数据的严肃推导。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 171–173)]]

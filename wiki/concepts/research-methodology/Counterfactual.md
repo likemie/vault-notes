@@ -10,7 +10,7 @@ aliases:
 summary: "因果推断中通过构建与设想原因不存在时的潜在结果以识别真实因果效应的核心推理机制，在实证研究中依托控制组与随机分配构建无偏反事实代理"
 type: concept
 domain: "research-methodology"
-related_count: 45
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence Standards]]"
   - "[[Heterogeneity]]"
-  - "[[Realism in International Relations]]"
   - "[[Ontology]]"
   - "[[Hawthorne Effect]]"
   - "[[Paradigm]]"
@@ -74,7 +73,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Counterfactual
@@ -226,7 +225,7 @@ updated: 2026-09-17
 > > 争论围绕量化反事实推导出的群体平均效应是否足以指导复杂的教育决策。
 > >
 > > - **实验因果派（Holland, 1986; WWC）** 强调群体平均反事实是排除偏倚、达成科学因果推论的唯一可靠途径。
-> > - **批判[[Realism in International Relations\|现实主义]]派（Biesta, 2007; Pawson, 2006）** 批评单纯的量化反事实比较只呈现“黑箱”输入与输出，无法揭示“在何种情境下、对谁、通过何种机制起作用”，容易掩盖处境不利亚群体的异质性反应。
+> > - **批判现实主义派（Biesta, 2007; Pawson, 2006）** 批评单纯的量化反事实比较只呈现“黑箱”输入与输出，无法揭示“在何种情境下、对谁、通过何种机制起作用”，容易掩盖处境不利亚群体的异质性反应。
 
 > [!warning] 适用局限
 > - **[[Causality\|因果推断]]基本问题的[[Ontology\|本体论]]限制** 任何个体层面的反事实状态均无法被直接观测，所有实证估计本质上都是基于群体可比性[[Hypothesis\|假设]]的统计近似（Holland, 1986）。

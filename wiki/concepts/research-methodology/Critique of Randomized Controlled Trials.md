@@ -9,7 +9,7 @@ aliases:
 summary: "对随机对照试验（RCT）作为证据本位教育‘黄金标准’的多维度批评体系，涵盖复杂系统认识论悖论、真实学校操作与效度困境，以及政策治理异化与法定单项合格门槛下的合规假象。"
 type: concept
 domain: "research-methodology"
-related_count: 89
+related_count: 88
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -58,7 +58,6 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Epistemological Coherence]]"
   - "[[Necessary and Sufficient Conditions]]"
-  - "[[Realism in International Relations]]"
   - "[[Fundamental Problem of Causal Inference]]"
   - "[[Counterfactual]]"
   - "[[Pragmatic Paradigm]]"
@@ -117,7 +116,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Critique of Randomized Controlled Trials
@@ -253,7 +252,7 @@ updated: 2026-09-17
 ## 概念演变
 
 > [!dev-timeline]+ [[Randomised Controlled Trials\|随机对照试验]]批判的历史演进
-> - **1980s–2000s — [[Ontology\|本体论]]觉醒与“难以完成的科学”界定** [[Complexity Theory\|复杂性理论]]与[[Realism in International Relations\|现实主义]]科学哲学发起[[Epistemology\|认识论]]反思；大卫·伯利纳（David Berliner）确立教育作为“难以完成的科学”命题；Ray Pawson（2006）解构封闭系统的人为幻觉。
+> - **1980s–2000s — [[Ontology\|本体论]]觉醒与“难以完成的科学”界定** [[Complexity Theory\|复杂性理论]]与现实主义科学哲学发起[[Epistemology\|认识论]]反思；大卫·伯利纳（David Berliner）确立教育作为“难以完成的科学”命题；Ray Pawson（2006）解构封闭系统的人为幻觉。
 >
 >   *科学哲学与复杂性理论挑战实验室封闭系统向社会系统的简单外推。*
 >

@@ -5,7 +5,7 @@ aliases:
 summary: "Dewey 的知识观：实验产生的知识是关于过去行动与后果关系的记录，提供可能性而非确定性"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 22
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Deficit Framing]]"
   - "[[Paradigm]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Realism in International Relations]]"
   - "[[Constructivist Paradigm]]"
   - "[[Document]]"
   - "[[Theory of Knowledge]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 ## 核心主张
@@ -93,7 +92,7 @@ updated: 2026-09-17
 ## 研究范式
 
 > [!info] 研究[[Paradigm\|范式]]
-> - **[[Epistemology\|认识论]]立场** [[Pragmatic Paradigm\|实用主义]] —— 超越[[Realism in International Relations\|现实主义]]/[[Constructivist Paradigm\|建构主义]]的二元对立，既不主张知识是对客观现实的反映，也不主张知识是纯粹的主观建构
+> - **[[Epistemology\|认识论]]立场** [[Pragmatic Paradigm\|实用主义]] —— 超越现实主义/[[Constructivist Paradigm\|建构主义]]的二元对立，既不主张知识是对客观现实的反映，也不主张知识是纯粹的主观建构
 > - **常用方法**[[Philosophical Analysis in Education\|哲学分析]]、概念分析
 
 ## 争议与批评

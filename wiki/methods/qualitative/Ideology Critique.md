@@ -6,7 +6,7 @@ summary: "批判理论的核心方法论，通过四阶段反思实践揭示社�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 18
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Reflexivity]]"
   - "[[Interpretive Paradigm]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Praxis]]"
   - "[[Knowledge Production]]"
 related_theories:
@@ -125,7 +124,7 @@ updated: 2026-09-24
 > [!method-limits] 方法局限
 > - **偏误来源** 研究者自身的意识形态立场可能影响利益分析的方向；研究者与被研究者之间的权力不对称可能使批判本身成为新的支配形式。
 > - **适用边界** 意识形态批判揭示了问题但不必然带来变革——批判与解放之间的因果链需要经验验证而非逻辑假定。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|(Cohen et al., 2011, pp. 107–110)]]
-> - **误用风险** 意识形态批判容易被简化为"揭露问题"而不提出变革方案；[[Rationalism in International Relations\|理性主义]]的批判姿态本身可能阻碍旨在解放的实际行动（Roderick, 1986）。
+> - **误用风险** 意识形态批判容易被简化为"揭露问题"而不提出变革方案；理性主义的批判姿态本身可能阻碍旨在解放的实际行动（Roderick, 1986）。
 > - **补救方式** 与[[Action Research\|行动研究]]结合，确保批判通向实践；引入参与者验证，避免研究者单向定义"压迫"。
 
 ---

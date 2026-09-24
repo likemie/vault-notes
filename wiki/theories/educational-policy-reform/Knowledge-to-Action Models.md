@@ -9,7 +9,7 @@ aliases:
 summary: "Allan Best 与 Bob J. Holmes (2010) 提出的知识利用理论分析框架，将研究与政策行动的联结划分为线性推动模型（第一代）、关系型协同生产模型（第二代）与系统生态学模型（第三代），解释了国际组织与国家从单向证据推销转向区域枢纽与制度吸收容量建设的演进逻辑。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 38
+theory_related_count: 37
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -43,7 +43,6 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Variable]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Blue Skies Research]]"
   - "[[Knowledge Mediation]]"
   - "[[Knowledge Transfer]]"
@@ -67,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Knowledge-to-Action Models
@@ -203,7 +202,7 @@ updated: 2026-09-22
 > > - **技术[[Pragmatic Paradigm\|实用主义]]者** 批评系统模型将过多制度、文化与心理[[Variable\|变量]]卷入，导致评估指标模糊，难以在具体政策项目中进行精准的因果归因。
 > > - **系统复杂性学者** 坚称将知识转化还原为简单的双向沟通严重低估了官僚体系的阻力，唯有系统论视角才能抓住政策运行的本质。
 >
-> > [!axis] 知识转化漏斗的[[Rationalism in International Relations\|理性主义]]色彩
+> > [!axis] 知识转化漏斗的理性主义色彩
 > > Graham et al. (2006) 的 KTA 漏斗模型是否暗含了从[[Blue Skies Research\|基础研究]]到工具研发的线性演进假定。
 > >
 > > - **实证转化论者** 认为漏斗清晰刻画了知识逐步蒸馏、去粗取精并具象化为临床与教学指南的必然过程。

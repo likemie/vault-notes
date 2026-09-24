@@ -71,7 +71,7 @@ updated: 2026-09-17
 > 大国构成了现存国际社会的全部，大国自身决定了国际社会的形态。 (Martin Wight, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 417]])
 
 > [!boundary]- 概念边界
-> 不适用于 — 解释超国家组织（如联合国）凭借自身的规范性构想改变国家行为 the 国际共识过程（这属于[[Rationalism in International Relations\|理性主义]]的范畴）。
+> 不适用于 — 解释超国家组织（如联合国）凭借自身的规范性构想改变国家行为 the 国际共识过程（这属于理性主义的范畴）。
 
 ---
 

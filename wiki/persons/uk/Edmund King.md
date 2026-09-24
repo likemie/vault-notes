@@ -9,7 +9,7 @@ summary: "伦敦大学国王学院比较教育学讲座教授，战后英国比�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 26
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Scientific Paradigm]]"
   - "[[Determinism]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Knowledge Production]]"
   - "[[Gatekeepers]]"
   - "[[Falsification]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-06
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Edmund King
@@ -166,7 +165,7 @@ updated: 2026-09-17
 > [!debates] 学术争议
 >
 > > [!axis] 社会预测可行性 vs 人类自由意志与社会复杂性
-> > 战后英国[[Scientific Paradigm\|科学范式]]内部的方法论大论战。霍姆斯坚守波普尔批判[[Rationalism in International Relations\|理性主义]]，将预测视为科学理解的核心划界标准，主张通过假说-演绎逻辑推导政策的情境概率后果；金则坚决反驳物理学式预测的普适性，强调社会现象充斥着人类主观意志、道德选择、历史偶然与动态复杂性，断言试图对人类事务进行精确因果预测是自欺欺人的[[Positivism\|实证主义]]偏执。
+> > 战后英国[[Scientific Paradigm\|科学范式]]内部的方法论大论战。霍姆斯坚守波普尔批判理性主义，将预测视为科学理解的核心划界标准，主张通过假说-演绎逻辑推导政策的情境概率后果；金则坚决反驳物理学式预测的普适性，强调社会现象充斥着人类主观意志、道德选择、历史偶然与动态复杂性，断言试图对人类事务进行精确因果预测是自欺欺人的[[Positivism\|实证主义]]偏执。
 > >
 > > - **Edmund King（1967）** 强调人类社会的自由意志、动态复杂性与不可预测性，反对物理学因果划界。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 63–64)]]
 > > - **Brian Holmes（1981）** 反驳指出科学预测是基于情境逻辑的理性概率推演，正是此类预测使现代政策规划成为可能。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 63, 67)]]

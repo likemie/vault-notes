@@ -38,13 +38,13 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Bildung]]"
   - "[[Teaching Assistant]]"
-  - "[[Realism in International Relations]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Critical Thinking]]"
   - "[[Hypothesis]]"
   - "[[Self-Cultivation]]"
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
+  - "[[Realism in International Relations]]"
+  - "[[Rationalism in International Relations]]"
 related_theories:
   - "[[Wight's Three Traditions of International Theory]]"
   - "[[Cognitive Constructivism]]"
@@ -158,7 +158,7 @@ updated: 2026-09-24
 
 > [!influence-path] 影响路径
 > - **认识论与学习科学路径** 康德的“哥白尼式革命”彻底击碎了心灵被动接受印记的白板说，提出心智先天地配备加工经验框架的主动建构观；[[Jin Li\|李瑾]]（[[Argument_Li_2012_Cambridge\|Li, 2012]]）指出康德在西方 2500 年认识论之争中提供了融通[[Empiricism\|经验论]]与唯理论的典范，其范畴加工模型（“佩戴玫瑰色眼镜看世界”）构成了现代[[Cognitive Constructivism\|认知建构主义]]与儿童概念认知科学的重要思想先声。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 25–26, 30)]]
-> - **国际关系英国学派与[[Revolutionism\|革命主义]]传统** [[Christopher Martin|马丁]]·怀特（Martin Wight, 1992）在国际理论三大传统中将康德确立为“革命主义（Revolutionism）”传统的始祖，与马基雅维利的[[Realism in International Relations\|现实主义]]、格老秀斯的[[Rationalism in International Relations\|理性主义]]并立；康德主张国际关系的终极实体不是主权国家而是普遍的人类共同体（Universal Human Community），倡导消除苦难、追求世界大同与[[Perpetual Peace\|永久和平]]的道德激情。[[Argument_Klerides_2023_CE\|Klerides (2023, p. 418)]]
+> - **国际关系英国学派与[[Revolutionism\|革命主义]]传统** [[Christopher Martin|马丁]]·怀特（Martin Wight, 1992）在国际理论三大传统中将康德确立为“革命主义（Revolutionism）”传统的始祖，与马基雅维利的现实主义、格老秀斯的理性主义并立；康德主张国际关系的终极实体不是主权国家而是普遍的人类共同体（Universal Human Community），倡导消除苦难、追求世界大同与[[Perpetual Peace\|永久和平]]的道德激情。[[Argument_Klerides_2023_CE\|Klerides (2023, p. 418)]]
 > - **比较教育学发端期的启蒙精神纽带** 卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009]]）考证，康德在 1784 年论著中阐明的“启蒙即勇敢运用理性、走出未成熟状态”的自主性命题，对学科始祖[[Marc-Antoine Jullien\|朱利安]]（Marc-Antoine Jullien）产生了划时代的思想启蒙；促使朱利安从大革命雅各宾恐怖统治与拿破仑帝国战争的幻灭中抽离，将教育升华为预防政治暴力循环、促进世界和平与全人[[Bildung\|教化]]的理性替代方案。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 20, 22–24)]]
 > - **[[Critical Thinking\|批判性思维]]与现代教育哲学** 康德的“Sapere aude!”与定言律令将受教育者从被动服从权威教条中解放出来，奠定了现代[[Critical Thinking\|批判性思维]]、道德自律与民主公民教育的法哲学基座。
 
@@ -171,7 +171,7 @@ updated: 2026-09-24
 
 ## 关系网络
 
-康德的思想深度嵌合在欧洲[[Rationalism in International Relations|理性主义]]传统的对话、超越与现代展开之中：
+康德的思想深度嵌合在欧洲理性主义传统的对话、超越与现代展开之中：
 
 > [!person-network] 关系网络
 > - **思想激荡与唤醒者** 大卫·休谟（David Hume） — 其经验怀疑论打破了康德的“独断论迷梦”，逼使康德转向批判哲学以重建因果律与科学知识的客观必然性。
@@ -196,7 +196,7 @@ updated: 2026-09-24
 > > [!axis] [[Revolutionism\|革命主义]]世界主义的道德激情 vs 传教干涉主义风险
 > > 怀特（Wight, 1992）指出康德式的革命主义对建立超越国家边界的人类普遍共同体怀有无限道德热忱。
 > > - **道德世界主义派（Bull, 1992）** 赞赏其消除全人类苦难、实现[[Perpetual Peace\|永久和平]]的激进人道主义伦理。
-> > - **[[Realism in International Relations\|现实主义]]批评派（[[Argument_Klerides_2023_CE\|Klerides, 2023]]）** 警惕其将世界划分为“忠于世界秩序者”与“阻碍历史进步者”的绝对道德二元论，指出这一传教性冲动在历史上容易异化为自命正义的霸权干涉与文明优越论。[[Argument_Klerides_2023_CE\|Klerides (2023, pp. 418–419)]]
+> > - **现实主义批评派（[[Argument_Klerides_2023_CE\|Klerides, 2023]]）** 警惕其将世界划分为“忠于世界秩序者”与“阻碍历史进步者”的绝对道德二元论，指出这一传教性冲动在历史上容易异化为自命正义的霸权干涉与文明优越论。[[Argument_Klerides_2023_CE\|Klerides (2023, pp. 418–419)]]
 
 > [!critique] 形式主义空洞批判
 > [[Georg Wilhelm Friedrich Hegel\|黑格尔]]与现代伦理学派批评康德的“定言律令”陷入纯粹的形式主义；其绝对命令要求不含矛盾的普遍化，但脱离了具体历史情境、社会关系与伦理生活（*Sittlichkeit*），在面临复杂伦理冲突时往往难以提供切实的实质性指引。

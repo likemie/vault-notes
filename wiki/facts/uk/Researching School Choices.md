@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 29
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Counterfactual]]"
   - "[[Hawthorne Effect]]"
-  - "[[Realism in International Relations]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Humility]]"
   - "[[Causality]]"
@@ -65,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-23
+updated: 2026-09-24
 ---
 
 # Researching School Choices
@@ -150,7 +149,7 @@ updated: 2026-09-23
 > > 争论焦点在于准实验模型是否能完全排除不可观测的学校与家庭特征干扰。
 > >
 > > - **因果原教旨立场** 认为唯有人为完全[[Random Assignment\|随机化]]才能彻底均等化所有已知与未知混淆[[Variable\|变量]]，准实验在因果阶梯中必须低人一等。
-> > - **[[Realism in International Relations\|现实主义]]方法论立场（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）** 指出当某项宏观改革根本无法在田野中随机化时，强推 RCT 只能收获虚脱的招募样本与归零的[[External Validity\|外部效度]]；依托优质大数据的严密 [[Quasi-Experimental Designs\|QED]] 是最具科学诚意的最优解。
+> > - **现实主义方法论立场（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）** 指出当某项宏观改革根本无法在田野中随机化时，强推 RCT 只能收获虚脱的招募样本与归零的[[External Validity\|外部效度]]；依托优质大数据的严密 [[Quasi-Experimental Designs\|QED]] 是最具科学诚意的最优解。
 
 > [!lessons] 经验教训与启示
 > - **[[Educational Brokerage Agency\|证据中介机构]]必须保持方法论[[Humility\|谦逊]]** 证据资助体系绝不可将特定统计方法奉为不可触碰的宗教教条；只有根据实践问题的决策层级动态调整设计工具箱，因果科学才能在错综复杂的教育现实中真正生根发芽。

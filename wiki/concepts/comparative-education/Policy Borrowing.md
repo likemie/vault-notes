@@ -7,7 +7,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 78
+related_count: 76
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -20,7 +20,6 @@ tags:
   - region/global
 related_concepts:
   - "[[Hypothesis]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Externalization]]"
   - "[[Topological Spatialisation]]"
   - "[[Assemblage]]"
@@ -47,7 +46,6 @@ related_concepts:
   - "[[PISA Shock]]"
   - "[[Concept Mapping]]"
   - "[[Rashomon Effect]]"
-  - "[[Realism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[Methodological Statism]]"
   - "[[Methodological Nationalism]]"
@@ -105,7 +103,7 @@ related_arguments:
 confidence: high
 status: stable
 created: '2026-05-01'
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Policy Borrowing
@@ -117,7 +115,7 @@ updated: 2026-09-22
 政策借用揭示了主权国家或地方教育决策者在推行改革时，如何跨越地理与文化边界调动外部经验以服务于本土政治议程。
 
 > [!def] 核心定义
-> 政策借用（Policy Borrowing），亦称教育借用（Educational Borrowing），指主权国家或地区在教育改革与制度重构中有选择地参照外部教育模式、实践与论述的复杂政治与认知过程。与[[Hypothesis\|假设]]最佳实践从中立技术角度直接跨国移植的[[Rationalism in International Relations\|理性主义]]观点不同，政策借用[[Analytic Framework\|分析框架]]指出，决策者往往是**先有国内改革议程或治理危机，再借用外部话语与制度实绩来合法化该议程**。在 19 世纪现代主义发端期，政策借用表现为以救治母国危机为导向的官方行政直接移植（如库森主笔 1833 年法国基佐法案）与政治正当性辩护（如[[Horace Mann\|霍勒斯·曼]]开创的合法化依据借用）；在当代全球化语境下，它演进为政策行动者操纵高声望国际话语以推进国内争议议程的“[[Externalization\|外化]]”修辞策略（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 482]]；[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 24–34]]）；而在数字化数据治理时代，它进一步与[[Topological Spatialisation\|拓扑空间化]]及[[Assemblage\|政策装配]]相交织，通过跨尺度[[Data Infrastructure\|数据基础设施]]将国际指标深层折叠进本土治理网络（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 135–138]]）。
+> 政策借用（Policy Borrowing），亦称教育借用（Educational Borrowing），指主权国家或地区在教育改革与制度重构中有选择地参照外部教育模式、实践与论述的复杂政治与认知过程。与[[Hypothesis\|假设]]最佳实践从中立技术角度直接跨国移植的理性主义观点不同，政策借用[[Analytic Framework\|分析框架]]指出，决策者往往是**先有国内改革议程或治理危机，再借用外部话语与制度实绩来合法化该议程**。在 19 世纪现代主义发端期，政策借用表现为以救治母国危机为导向的官方行政直接移植（如库森主笔 1833 年法国基佐法案）与政治正当性辩护（如[[Horace Mann\|霍勒斯·曼]]开创的合法化依据借用）；在当代全球化语境下，它演进为政策行动者操纵高声望国际话语以推进国内争议议程的“[[Externalization\|外化]]”修辞策略（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 482]]；[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 24–34]]）；而在数字化数据治理时代，它进一步与[[Topological Spatialisation\|拓扑空间化]]及[[Assemblage\|政策装配]]相交织，通过跨尺度[[Data Infrastructure\|数据基础设施]]将国际指标深层折叠进本土治理网络（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 135–138]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 政策借用指向外部教育模式被引入本地语境时，决策者、[[Policy Entrepreneur\|政策企业家]]与公众之间围绕政策的“外化”合法化论证、制度技术转置与“形态变异”重构关系。
@@ -327,7 +325,7 @@ updated: 2026-09-22
 > **方案先行、问题后建的社会建构** 政策借用过程遵循逆向技术流：决策者并非在发现技术问题后寻找国际经验，而是往往在引入国际参考之前，已在国内确立了偏好的解决方案。随后，为了合法化该既定方案，政府才在官方修辞中建构特定的本土体系陈旧或教育质量危机问题，使该方案显得具有不可避免的合理性。（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, pp. 486–487]]）
 
 > [!claim] Klerides, E.
-> **远距离治理的技术中介** 在[[Rationalism in International Relations\|理性主义]]多边治理机制下，比较教育中看似客观的国际标准、基准测试（benchmarking）和大数据评估（如 [[PISA]]），实质上是超国家组织和跨国机构行使远距离治理（[[Governing at a Distance]]）的软性控制技术。这些科学化指标远程工具化引导着国家教育政策调整，从而将外部施加的治理规则内化为本土教育借用的正当性强制力。（[[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]]）
+> **远距离治理的技术中介** 在理性主义多边治理机制下，比较教育中看似客观的国际标准、基准测试（benchmarking）和大数据评估（如 [[PISA]]），实质上是超国家组织和跨国机构行使远距离治理（[[Governing at a Distance]]）的软性控制技术。这些科学化指标远程工具化引导着国家教育政策调整，从而将外部施加的治理规则内化为本土教育借用的正当性强制力。（[[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]]）
 
 > [!claim] Kaloyannaki, P. & [[Andreas Kazamias\|Kazamias, A.]] M.
 > **权力结构分流与作为合法化依据的政策借用** 政策借用的政治合法化功能早在 19 世纪比较教育学发端阶段便已成熟运作。政权体制的权力结构直接决定了跨国知识的处理方式：法国中央集权官僚体制允许行政决策者（如[[Victor Cousin\|维克多·库森]]）将普鲁士经验直接写入国家实定法（1833 年基佐法案）；而在美国联邦分权与民主协商语境下，以[[Horace Mann\|霍勒斯·曼]]、[[Calvin Stowe\|卡尔文·斯托]]与[[Henry Barnard\|亨利·巴纳德]]为代表的改革者缺乏行政强制权力，被迫将外部探究从制度技术移植根本转向政治正当性辩护。改革者战略性剥离欧洲专制外壳，抽取其公学实绩作为强有力的政治合法化依据（legitimating rationales），以此反击波士顿保守学监联盟与正统教会对体罚废除与公税办学的围攻，为合众国建立普及、免费且由公税支持的公共学校确立正当性基石。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 26–34]]）
@@ -402,7 +400,7 @@ updated: 2026-09-22
 > - **2012 — 政治借用与实质学习的系统区隔** 施泰纳-哈姆西系统界定“政治借用”（选择性、仪式性）与“实质学习”（开放、交流性）的分野。
 > - **2018 — 媒介化全球治理与罗生门借用模型** 格雷与莫里斯（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）揭示以 [[PISA]] 为代表的大规模跨国测评时代政策借用的新特征：政策借用从传统的官方行政调研升级为高度依赖大众媒介公关的“媒介化借用”；决策者通过“遗漏话语”剪裁外部卓越样板（如上海），而新闻媒体的[[Policy Avoidance\|政策规避]]使得未经检验的合法化借用得以逃避民主问责，使政策借用与[[Rashomon Effect\|罗生门效应]]深度咬合。
 > - **2018 — 拓扑[[Assemblage\|政策装配]]与[[Data Infrastructure\|数据基础设施]]转向** [[Sigrid Hartong\|西格丽德·哈通]]（Sigrid Hartong, 2018）批判正统政策借用对技术物质性与拓扑尺度的忽视，指出跨尺度数据基础设施（如题库、[[Center of Calculation\|计算中心]]与平台）将国际基准直接折叠进微观教学实践，重构了跨国借用与国内治理的边界。（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）
-> - **2023 — 怀特三大传统地缘解构** [[Eleftherios Klerides\|克莱里德斯]]（Eleftherios Klerides）将国际关系三大思想传统（[[Realism in International Relations\|现实主义]]、[[Rationalism in International Relations\|理性主义]]和[[Revolutionism\|革命主义]]）引入[[Policy Mobility\|政策流动]]研究，将政策借用与地缘政治焦虑深度绑定，完成了概念的批判性地缘政治学转向。（[[Argument_Klerides_2023_CE\|Klerides, 2023]]）
+> - **2023 — 怀特三大传统地缘解构** [[Eleftherios Klerides\|克莱里德斯]]（Eleftherios Klerides）将国际关系三大思想传统（现实主义、理性主义和[[Revolutionism\|革命主义]]）引入[[Policy Mobility\|政策流动]]研究，将政策借用与地缘政治焦虑深度绑定，完成了概念的批判性地缘政治学转向。（[[Argument_Klerides_2023_CE\|Klerides, 2023]]）
 > - **2025 — 威权与高压政治语境下的分析失效边界** 政策借用作为合法化工具的理论适用性被明确界定在“半开放协商政治”的权力边界内，高压威权与行政命令直接接管的现象为该框架确立了失效边界。（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025]]）
 
 ---
@@ -450,5 +448,5 @@ updated: 2026-09-22
 > - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — 综述 PISA 国际排名如何将东亚与芬兰等确立为全球[[Reference Society\|参考社会]]，剖析韩国政策借用从日本模式向芬兰模式动态切换的制度化历程。
 > - [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] — 批判传统政策借用局限于国家官方书面文本的静态[[Hypothesis\|假设]]，从[[Network Governance\|网络治理]]视角揭示去中心化非官方网络中话语权力的微观流转与转译机制。
 > - [[Argument_Amos_2022_Springer\|Amos (2022)]] — 剖析[[Michael Sadler\|迈克尔·萨德勒]]和迈克尔·考恩的学术遗产，说明政策借用如何随着现代性社会系统翻转从偶发外交变成常规合法化手段。
-> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 将国际关系三大思想传统（[[Realism in International Relations\|现实主义]]、[[Rationalism in International Relations\|理性主义]]和[[Revolutionism\|革命主义]]）引入[[Policy Mobility\|政策流动]]研究，系统解构政策借用背后的地缘政治与生存焦虑底色。
+> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 将国际关系三大思想传统（现实主义、理性主义和[[Revolutionism\|革命主义]]）引入[[Policy Mobility\|政策流动]]研究，系统解构政策借用背后的地缘政治与生存焦虑底色。
 

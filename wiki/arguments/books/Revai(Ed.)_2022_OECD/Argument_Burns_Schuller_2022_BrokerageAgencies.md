@@ -7,7 +7,7 @@ title: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_key: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_display_title: "History and evolution of brokerage agencies in education"
 argument_kind: "book-chapter"
-argument_related_count: 91
+argument_related_count: 90
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -50,7 +50,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Recommendations for Practice]]"
   - "[[Lifelong Learning]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Epistemology]]"
   - "[[Evidence Backlash]]"
   - "[[Technocognition]]"
@@ -244,7 +243,7 @@ updated: 2026-09-24
 
 #### 1. 后真相算法茧房与反科学情绪动摇客观理性预设，证据治理亟需采纳“技术认知法”主动免疫
 
-2007 年经合组织（OECD）发布《教育中的证据：连接研究与政策》时，知识治理预设建立在经典[[Rationalism in International Relations|理性主义]]之上，但横跨二十年的危机现实彻底打破了这一理想化假定（pp. 56–57）：
+2007 年经合组织（OECD）发布《教育中的证据：连接研究与政策》时，知识治理预设建立在经典理性主义之上，但横跨二十年的危机现实彻底打破了这一理想化假定（pp. 56–57）：
 
 > [!assumptions] 古典循证政策的理性自洽[[Hypothesis\|假设]]及其危机冲击
 > - **理论前提：知识供给与渠道畅通即能导向理性决策** 假定实证研究具有自明的客观效力，政策制定的迟滞主要被归咎于证据供给不足、传播渠道受阻或学术争议；只要假以时日，科学共同体的自我纠错机制终能凝聚共识并指导理性决策。（pp. 56–57）

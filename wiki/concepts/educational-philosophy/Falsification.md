@@ -10,7 +10,7 @@ aliases:
 summary: "波普尔提出的科学划界与检验标准，主张科学理论的标志在于其承担被经验反驳的风险；在教育研究中既驱动了比较假说的实证化转型，又因方法论简化与不完全决定性引发广泛反思"
 type: concept
 domain: "educational-philosophy"
-related_count: 44
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Growth]]"
   - "[[Operationalization]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
   - "[[Critical Thinking]]"
@@ -72,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Falsification
@@ -156,7 +155,7 @@ updated: 2026-09-17
 ### 命题一　科学理论的本质在于明确界定可被反驳的经验条件而非累积归纳证实
 
 > [!concept-lens] 科学划界与推测反驳逻辑
-> 探讨波普尔批判[[Rationalism in International Relations\|理性主义]]如何通过否定经验归纳的确证效能，确立以承担被反驳风险为标志的科学划界基石。
+> 探讨波普尔批判理性主义如何通过否定经验归纳的确证效能，确立以承担被反驳风险为标志的科学划界基石。
 
 > [!claim] Popper, K. / [[Louis Cohen\|Cohen, L.]] et al.
 > **科学划界准绳与推测反驳循环** 波普尔确立科学理论的标志在于可证伪性；科学并非通过经验归纳积累证实，而是通过提出大胆推测并承受严格检验反驳来推进。任何免疫于反驳、能够解释一切可能发生事态的理论，均丧失了经验内容，属于非科学或形而上学。科学探索必须在推测与反驳的循环中持续剔除错误命题。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, Ch. 1)]]
@@ -210,7 +209,7 @@ updated: 2026-09-17
 
 > [!dev-timeline] 概念演变
 > - **1934/1959 — 波普尔《科学发现的逻辑》确立证伪划界标准** 波普尔出版《科学发现的逻辑》（*Logik der Forschung*），明确批判逻辑[[Positivism\|实证主义]]的归纳证实主义，确立以不对称经验反驳为内核的可证伪性划界标准。
-> - **1960s — 比较教育学科大转型引入证伪主义准绳** 霍姆斯（Holmes, 1965）基于波普尔批判[[Rationalism in International Relations\|理性主义]]确立[[Problem Approach\|问题解决法]]；诺亚与埃克斯坦（Noah & Eckstein, 1969）指责传统历史学派结论仅为未经证伪检验的假说，呼吁将学科建立在经验跨国检验基础之上。[[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009, p. 53)]]
+> - **1960s — 比较教育学科大转型引入证伪主义准绳** 霍姆斯（Holmes, 1965）基于波普尔批判理性主义确立[[Problem Approach\|问题解决法]]；诺亚与埃克斯坦（Noah & Eckstein, 1969）指责传统历史学派结论仅为未经证伪检验的假说，呼吁将学科建立在经验跨国检验基础之上。[[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009, p. 53)]]
 > - **1967 — 预测划界标准引发金与霍姆斯的科学大论战** [[Edmund King\|埃德蒙·金]]批评预测在社会事务中因自由意志而不可行；霍姆斯坚称预测为科学划界标尺，主张概率性推断与政策失效排除。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, p. 67)]]
 > - **1970 — 拉卡托斯提出科学研究纲领方法论** 拉卡托斯（Imre Lakatos）反思朴素证伪主义，指出面对反常科学家会设立辅助[[Hypothesis\|假设]]保护理论硬核，提出精致证伪主义与纲领进步/退化判定准则。
 > - **1981 — 霍姆斯系统阐明假说-演绎问题法与可反驳假说** 霍姆斯出版《比较教育方法论》，指责归纳经验法只能在自身框架内证实偏见，倡导从可反驳假说推导预测后果并与实施事实比对。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 63, 66–67)]]
@@ -233,7 +232,7 @@ updated: 2026-09-17
 > > 争论焦点在于比较教育研究应当通过搜集大样本数据寻找统计共变，还是通过问题情境推演政策假说的预期后果。
 > >
 > > - **美国行为实证学派（Noah & Eckstein, 1969; Anderson, 1977）** 主张将所有质性论断[[Transfer Translation Transformation\|转译]]为跨国可测量的统计[[Variable\|变量]]，通过经验归纳验证跨国[[Causality\|因果关系]]。[[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009, p. 53)]]; [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, p. 65)]]
-> > - **批判[[Rationalism in International Relations\|理性主义]]情境学派（Holmes, 1981）** 指出归纳协变只能在先验假说框架内证实主观偏见，唯有提出可反驳假说并在具体制度与规范情境中推导概率预测，方具科学有效性。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 63, 66–67)]]
+> > - **批判理性主义情境学派（Holmes, 1981）** 指出归纳协变只能在先验假说框架内证实主观偏见，唯有提出可反驳假说并在具体制度与规范情境中推导概率预测，方具科学有效性。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 63, 66–67)]]
 >
 > > [!axis] 预测作为科学划界标准 vs 自由意志与社会情境不可预测性
 > > 争论焦点在于预测能否以及是否应当作为社会与教育科学的唯一划界标尺。

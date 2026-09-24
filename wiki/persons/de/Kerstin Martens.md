@@ -6,7 +6,7 @@ summary: "德国不来梅大学国际关系与全球社会政策教授，德国�
 type: person
 nationality: "de"
 person_region: "de"
-person_related_count: 27
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
   - "[[Document]]"
-  - "[[Realism in International Relations]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Dialogue in Education]]"
 related_theories: []
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Kerstin Martens
@@ -151,7 +150,7 @@ updated: 2026-09-17
 > [!debates] 学术争议
 >
 > > [!axis] 硬[[Soft Power by Hard Facts\|事实软实力]]的有效性边界：主权抵制 vs 认知屈服
-> > 传统[[Realism in International Relations\|现实主义]]国际关系学者质疑缺乏强制力的国际组织指标是否真能改变大国内政。
+> > 传统现实主义国际关系学者质疑缺乏强制力的国际组织指标是否真能改变大国内政。
 > >
 > > - **结构现实主义学者** 坚称大国只有在国际指标符合本国核心地缘利益时才会采纳，否则随时可以弃之不顾。
 > > - **Martens & Niemann（2013）** 运用德国 [[PISA]] 冲击的深度案例证实，即使在工业大国，指标所激发的国内公众舆论焦虑与[[Façade of Rationality\|理性表象]]压力亦足以逼迫政权开启结构性内政重组。

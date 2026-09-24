@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 77
+fact_related_count: 75
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -49,8 +49,6 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Document]]"
   - "[[Epistemology]]"
-  - "[[Realism in International Relations]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Revolutionism]]"
   - "[[Banal Imperialism]]"
   - "[[Avatar]]"
@@ -109,7 +107,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # OECD
@@ -220,8 +218,8 @@ updated: 2026-09-17
 > > [!axis] 国际政治理论透镜下的[[Governmentality\|治理性]]质交锋
 > > 批判学者从不同[[Wight's Three Traditions of International Theory\|国际关系理论]]视角对 OECD 的角色性质与权力运作展开了深刻剖析。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 420–425)]]
 > >
-> > - **[[Realism in International Relations\|现实主义]]透镜** 将 OECD 判定为主权国家地缘政治与经济竞争的战略工具。冷战时期作为西方阵营防范社会主义扩张的智库阵地；后冷战时代则成为各国监控自身科技竞争力、缓解落后焦虑并开展防御性[[Human Capital Theory\|人力资本]]竞赛的竞技场。
-> > - **[[Rationalism in International Relations\|理性主义]]透镜** 将 OECD 视为多边理性协调与功能主义治理的典范。它构建起跨国“认知共同体”，在不侵犯国家主权的前提下通过技术标准磋商、数据互通与最佳实践扩散有效化解了集体行动困境。
+> > - **现实主义透镜** 将 OECD 判定为主权国家地缘政治与经济竞争的战略工具。冷战时期作为西方阵营防范社会主义扩张的智库阵地；后冷战时代则成为各国监控自身科技竞争力、缓解落后焦虑并开展防御性[[Human Capital Theory\|人力资本]]竞赛的竞技场。
+> > - **理性主义透镜** 将 OECD 视为多边理性协调与功能主义治理的典范。它构建起跨国“认知共同体”，在不侵犯国家主权的前提下通过技术标准磋商、数据互通与最佳实践扩散有效化解了集体行动困境。
 > > - **[[Revolutionism\|革命主义]]与去殖民透镜** 将 OECD 判定为“知识新帝国”与“[[Banal Imperialism\|平庸帝国主义]]”的当代[[Avatar\|化身]]。学者批评其通过输出单一同质化的新自由主义效率标准，将教育完全工具化为资本积累的附庸，并在无形中再生产了对非西方教育文明传统的边缘化与认知压制。
 >
 > > [!axis] 方法论垄断与[[Governing at a Distance\|远处治理]]的合法性危机

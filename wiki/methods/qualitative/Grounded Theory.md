@@ -9,7 +9,7 @@ summary: "源自社会学的经典质性研究设计，通过理论抽样、多�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 60
+method_related_count: 59
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -50,7 +50,6 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Causal Processes]]"
   - "[[Concept Mapping]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Scaffolding]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -89,7 +88,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-30
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Grounded Theory
@@ -252,7 +251,7 @@ updated: 2026-09-22
 
 > [!tension] 经验真实[[Emergence\|涌现]] vs 理论[[Paradigm\|范式]]强加的学术论争
 > - **施特劳斯的系统规范性** 强调运用严密的三级[[Coding in Qualitative Research\|编码]]和六要素范式模型，使扎根理论具备可被同行复现的操作程序与科学[[Reliability\|信度]]。
-> - **格拉瑟的范式强加批评** 尖锐批评施特劳斯-科宾学派的六要素范式模型退化为繁复的[[Rationalism in International Relations\|理性主义]][[Scaffolding\|脚手架]]，容易导致研究者将外部范式强加于文本（forcing data into paradigm），扼杀了真正理论自下而上的鲜活涌现。
+> - **格拉瑟的范式强加批评** 尖锐批评施特劳斯-科宾学派的六要素范式模型退化为繁复的理性主义[[Scaffolding\|脚手架]]，容易导致研究者将外部范式强加于文本（forcing data into paradigm），扼杀了真正理论自下而上的鲜活涌现。
 
 > [!critique] 离散切片导致的去情境化风险
 > 阿曼达·考菲（Amanda Coffey）与保罗·阿特金森（Paul Atkinson）警示，质性编码在对文本进行逐行切片与离散检索时，存在割裂时序脉络与生活情境的系统性风险。当某一特定行为在不同时空场景下的深层意涵完全不同时，机械归纳容易抹平真实差异；扎根理论分析者必须通过保留情境化叙事记录与[[Rich and Thick Description\|深描]]，对冲过度理论抽象带来的失真（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, p. 562]]）。

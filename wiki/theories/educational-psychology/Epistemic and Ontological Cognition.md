@@ -7,7 +7,7 @@ aliases:
 summary: "一种整合个人认识论发展阶段论与多维信念系统论的概念模型。该模型将关于知识本质的信念界定为本体论认知，将关于认知本质的信念界定为认识论认知，并以三类维度的组合轮廓检验理论位置。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 19
+theory_related_count: 16
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -16,15 +16,12 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Epistemic Cognition]]"
-  - "[[Realism in International Relations]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Domain Specificity]]"
   - "[[Epistemological Beliefs]]"
   - "[[Operationalization]]"
   - "[[Scale of Measurement]]"
   - "[[Educational Level]]"
   - "[[Academic Achievement]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"

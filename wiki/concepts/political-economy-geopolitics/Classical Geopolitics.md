@@ -155,7 +155,7 @@ updated: 2026-09-17
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Moisio_2022_Springer\|Moisio (2022)]] — 界定古典地缘政治的核心逻辑，并通过中美技术竞争（如限制华为运营等科技政治案例）分析其在当代科技竞争与数字时代的延伸运作。
-> - [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] — 以 Dalby [[Realism in International Relations\|现实主义]]古典地缘政治为对照基线，指出纯粹国家间权力斗争视角难以解释当代高等教育的跨国社会想象与网络化关系，主张转向[[Critical Geopolitics\|批判地缘政治学]]视角。
+> - [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] — 以 Dalby 现实主义古典地缘政治为对照基线，指出纯粹国家间权力斗争视角难以解释当代高等教育的跨国社会想象与网络化关系，主张转向[[Critical Geopolitics\|批判地缘政治学]]视角。
 > - [[Argument_Partaken_2022_Springer\|Partaken (2022)]] — 追溯“geopolitics”词源及其从神学属性到地缘政治教义的演变，并以[[Sino-American Trade War\|中美贸易战]]为例剖析古典领土权力逻辑在当代的典型体现。
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] — 论述古典领土权力逻辑在当代仍与[[Relational Space\|关系性空间]]想象共构运作，并作为理解高等教育从民族国家框架中“脱嵌”的对照基线。
 > - [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]] — 以 Massey 关系性空间理论重新定义地缘政治，超越古典国家中心与领土绝对主义框架。

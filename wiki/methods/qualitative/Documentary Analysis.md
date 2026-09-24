@@ -8,7 +8,7 @@ summary: "一种通过系统评估文献的真实性、可靠性、意义和语�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 32
+method_related_count: 34
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -51,9 +51,11 @@ related_arguments:
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Helgetun_2022_JEP]]"
   - "[[Argument_Kelly_2025_ROE]]"
+  - "[[Argument_Edmondson_2005_EPAA]]"
 related_facts:
   - "[[OECD]]"
   - "[[What Works Network]]"
+  - "[[Reading Excellence Act]]"
 confidence: medium
 status: draft
 created: 2026-06-24

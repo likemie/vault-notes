@@ -8,7 +8,7 @@ aliases:
 summary: "黑格尔主义教育哲学中的一个学生隐喻，指在尚未填充具体课程内容时虽缺乏实质知识储备，但被设想为天然具备理性精神潜能，能够通过辩证否定走向绝对精神的认知主体。"
 type: concept
 domain: "educational-philosophy"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Empiricism]]"
   - "[[Big Ideas]]"
   - "[[Knowledge Questions]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Empty Knower
@@ -58,7 +57,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 这个概念指向课程设计中将学生预设为缺乏实质内容、充满理性精神、能够通过外部指引走向普遍真理的认知主体。（p.212）
-> - **用途** 它帮助课程研究者透视传统[[Rationalism in International Relations\|理性主义]]和应试导向课程如何将学生异化为被动填充、机械质疑的符号表演工具。（pp.212–213）
+> - **用途** 它帮助课程研究者透视传统理性主义和应试导向课程如何将学生异化为被动填充、机械质疑的符号表演工具。（pp.212–213）
 > - **边界** 它不适合解释强调具身经验、欲望流动和情感参与的学习过程，容易与[[Empiricism\|经验主义]]的白板说混淆。（p.212）
 
 > [!boundary]- 概念边界
@@ -82,7 +81,7 @@ updated: 2026-09-17
 ### 命题一　空无的认知者预设在课程实践中容易导致理性异化与机械应试
 
 > [!concept-lens] 课程实践中的理性异化
-> 探讨空无的认知者这一[[Rationalism in International Relations\|理性主义]]预设在具体教学环境中如何与应试评估体制发生冲突，以及如何导致学生表面化、策略性地应对[[Knowledge Questions\|知识问题]]。
+> 探讨空无的认知者这一理性主义预设在具体教学环境中如何与应试评估体制发生冲突，以及如何导致学生表面化、策略性地应对[[Knowledge Questions\|知识问题]]。
 
 > [!claim] Cole, D. R.
 > **理性的学科性[[Disciplina and Doctrina\|规训]]与考试化异化** 空无的认知者预设在[[Theory of Knowledge\|知识论]]课堂中会导致理性的异化。当教师被迫将哲学和逻辑碎片作为客观内容填充给学生时，学生由于缺乏情感和想象力的具身支撑，往往倾向于将这些[[Reflexivity\|反思性]]规则和术语当作备考的[[Rote Learning\|死记硬背]]材料，使[[Critical Thinking\|批判性思维]]流于表面的学术表演和词汇堆砌，无法达成真正的自我解放。[[Argument_Cole_2005_JRIE\|(Cole, 2005, pp. 212–213, 221)]]

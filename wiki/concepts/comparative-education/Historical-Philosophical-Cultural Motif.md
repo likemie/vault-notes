@@ -10,7 +10,7 @@ aliases:
 summary: "19世纪末至20世纪中叶主导比较教育学的核心认识论母题，将学科界定为探究历史因果与文化精神的广义人文科学，以民族国家与国民性为解释单元，服务于历史改良主义与自由民主价值"
 type: concept
 domain: "comparative-education"
-related_count: 47
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Bildung]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Independent Variable]]"
   - "[[Whole Person Education]]"
   - "[[Scientism]]"
@@ -77,7 +76,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Historical-Philosophical-Cultural Motif
@@ -206,7 +205,7 @@ updated: 2026-09-17
 > 该维度揭示历史学派对抗狭隘技术官僚[[Disciplina and Doctrina\|规训]]、坚守以人为中心文明关切的崇高伦理旨趣。
 
 > [!claim] [[Robert Ulich\|Ulich, R.]]
-> **西方两千年思想史长河中的全人教化沉思** 乌利希将比较教育置于西方文明思想史的宏阔纵深中，主张比较研究必须超越孤立主权国家的微观学校技术细节，探寻中世纪、文艺复兴、[[Rationalism in International Relations\|理性主义]]与工业科技四大历史浪潮中人性观念的演进。比较教育学绝非单纯传授办学技巧的技术科学，而是一门以人为中心（Anthropocentric）的人文知识体系，其终极使命在于直面文明危机，涵养受过教育的人的古典全人[[Bildung\|教化]]（*[[Paideia]]*）情怀。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 51–52, 56–57)]]
+> **西方两千年思想史长河中的全人教化沉思** 乌利希将比较教育置于西方文明思想史的宏阔纵深中，主张比较研究必须超越孤立主权国家的微观学校技术细节，探寻中世纪、文艺复兴、理性主义与工业科技四大历史浪潮中人性观念的演进。比较教育学绝非单纯传授办学技巧的技术科学，而是一门以人为中心（Anthropocentric）的人文知识体系，其终极使命在于直面文明危机，涵养受过教育的人的古典全人[[Bildung\|教化]]（*[[Paideia]]*）情怀。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 51–52, 56–57)]]
 
 > [!claim] Kazamias, A. M.
 > **抵御[[Technical Rationality\|技术理性]]异化并坚守人本伦理防线** 卡扎米亚斯总结指出，萨德勒、坎德尔、汉斯与乌利希的核心洞见在于拒绝将教育窄化为去情境化、可测量的工具性学校教育（Schooling）。在当代[[Technical Rationality\|技术理性]]与狭隘量化工具主义盛行的背景下，坚守历史-哲学-文化母题构成了捍卫比较教育人文品格、直面人类政治、社会与伦理大问题的坚固防线。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]

@@ -8,7 +8,7 @@ aliases:
 summary: "基于因果分析解释一整套干预措施为何及如何达成特定变化的循证理论框架，通过识别底层假设、活动投入、因果链条与中介行为改变要素，为项目评价与知识中介提供可检验的机制说明"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 56
+theory_related_count: 55
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
-  - "[[Realism in International Relations]]"
   - "[[Formative Assessment]]"
   - "[[Causality]]"
   - "[[Knowledge Co-production]]"
@@ -84,7 +83,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-13
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Theory of Change
@@ -215,7 +214,7 @@ updated: 2026-09-22
 
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 将教育改革与知识转化视为复杂社会系统中的非线性因果演进过程，否定机械工程论，肯定行动者的专业能动性与制度制约。
-> - **[[Epistemology\|认识论]]** 坚持[[Realism in International Relations\|现实主义]]解释（Realist Explanation）与机制论立场，主张干预评价不仅要回答“什么有效”，更要阐明“在何种情境下、通过何种机制对谁有效”。
+> - **[[Epistemology\|认识论]]** 坚持现实主义解释（Realist Explanation）与机制论立场，主张干预评价不仅要回答“什么有效”，更要阐明“在何种情境下、通过何种机制对谁有效”。
 > - **方法含义** 要求结合[[Mixed Methods Research\|混合方法研究]]（Mixed Methods Research）、[[Formative Assessment\|形成性评估]]与严谨[[Causality\|因果推断]]（如理论驱动型多臂 [[Randomised Controlled Trials\|RCT]]、[[Difference-in-Differences\|双重差分]]模型）。
 > - **不能直接推出的东西** 拥有清晰的变革理论不能自动保证干预在所有情境下成功，亦不能替代实施过程中的本土情境调试与[[Implementation Fidelity\|实施保真度]]监控。
 

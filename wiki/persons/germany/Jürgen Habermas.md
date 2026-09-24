@@ -15,7 +15,7 @@ summary: "德国当代哲学家与社会理论家，法兰克福学派第二代�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 45
+person_related_count: 44
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -52,7 +52,6 @@ related_concepts:
   - "[[Grand Theory]]"
   - "[[Heterogeneity]]"
   - "[[Incommensurability]]"
-  - "[[Realism in International Relations]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Transfer Translation Transformation]]"
 related_theories:
@@ -86,7 +85,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Jürgen Habermas
@@ -229,7 +228,7 @@ updated: 2026-09-22
 > > 批判学者对哈贝马斯设想的“免除一切权力强制的纯粹理性沟通”是否具有现实可行性存在争议。
 > >
 > > - **批判肯定派（Kemmis, 2014）** 认为理想言说情境并非描述现实状态，而是作为规制性理想（Regulative Ideal），为诊断现实沟通中的权力扭曲与意识形态压迫提供不可或缺的参照坐标。
-> > - **权力[[Realism in International Relations\|现实主义]]派（Foucault 学派）** 认为话语与权力不可分割，任何被视为“纯粹理性”的公共审议背后均深嵌着知识-权力的微观[[Disciplina and Doctrina\|规训]]，不存在绝对无污染的语言绿洲。
+> > - **权力现实主义派（Foucault 学派）** 认为话语与权力不可分割，任何被视为“纯粹理性”的公共审议背后均深嵌着知识-权力的微观[[Disciplina and Doctrina\|规训]]，不存在绝对无污染的语言绿洲。
 
 > [!warning] 理论边界与当代反思
 > 面对数字时代社交媒体算法推荐、假新闻泛滥与微观极化政治，传统基于实体印刷报刊与咖啡馆对话构建的“资产阶级公共领域”面临深层瓦解；哈贝马斯在晚年著作中亦反思了算法资本对公共审议的新型“再封建化”冲击，促使教育学必须将批判媒介素养与数字公共领域治理纳入商谈伦理的新议程。

@@ -5,10 +5,10 @@ aliases:
 summary: "Diane Stone (2020) 与 Steiner-Khamsi 等倡导的方法论立场，主张超越方法论民族主义与线性层级霸权观，将国家与全球视作相互依存的关系性空间，聚焦全球/国家联结。"
 type: concept
 domain: "comparative-education"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/comparative-education
   - theme/global-governance
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Space of Flows and Space of Places]]"
   - "[[Policy Network]]"
   - "[[Governing by Numbers]]"
-  - "[[Realism in International Relations]]"
   - "[[Variable]]"
   - "[[Document]]"
 related_methods:
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Methodological Transnationalism
@@ -177,7 +176,7 @@ updated: 2026-09-22
 > > 争论过于强调关系性与相互依存是否会导致对国家硬实力和地缘对抗的低估。
 > >
 > > - **跨国学派** 坚持全球化网络已经重塑了治理本体，单纯依赖国家领土视角无法解释跨国规范流通。
-> > - **新[[Realism in International Relations\|现实主义]]/地缘学派** 批评方法论跨国主义在解释大国竞争、地缘政治封锁以及主权教育安全防御时可能脱离物质权力现实。
+> > - **新现实主义/地缘学派** 批评方法论跨国主义在解释大国竞争、地缘政治封锁以及主权教育安全防御时可能脱离物质权力现实。
 >
 > > [!axis] 解构国家实体是否会导致政策执行归因碎片化
 > > 探讨在高度强调职能与尺度细分时，是否会稀释中央政权对重大教育战略方向的根本决定权。

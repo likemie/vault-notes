@@ -11,7 +11,7 @@ aliases:
 summary: "起源于福柯治理术谱系并经罗斯、米勒与拉图尔发展、在批判教育社会学与拓扑学中深化的空间治理理论，指权力不依赖直接行政命令或物理在场，而是通过将宏观政治抱负转译为技术标准、计算中心、不变移动物与自适应数据基础设施，在“远处”重塑主体认知与微观实践的非接触式权力机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 41
+theory_related_count: 40
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Champ]]"
   - "[[Teacher Professional Agency]]"
-  - "[[Rationalism in International Relations]]"
   - "[[Output-Oriented Governance]]"
   - "[[Assemblage]]"
   - "[[Educational Brokerage Agency]]"
@@ -72,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-09-18
+updated: 2026-09-24
 ---
 
 # Governing at a Distance
@@ -202,7 +201,7 @@ updated: 2026-09-18
 >
 > > [!axis] 技术中立效能 vs 霸权权力隐藏
 > > 争论远处治理输出的标准化数据是促进去中心化合作的“中立公共产品”，还是掩盖西方中心主义与新自由主义渗透的“政治护身符”。
-> > - **[[Rationalism in International Relations\|理性主义]]立场** 强调数据基准为发展中国家与地方学校提供了低成本诊断工具，促进了[[Output-Oriented Governance\|循证治理]]与公平质量改进。
+> > - **理性主义立场** 强调数据基准为发展中国家与地方学校提供了低成本诊断工具，促进了[[Output-Oriented Governance\|循证治理]]与公平质量改进。
 > > - **批判政治经济学立场** 批评远处治理在科学外衣下将教育去政治化，抹杀了不平等权力结构并将公共品彻底商品化。（[[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]]）
 > >
 > > [!axis] 拓扑有效整合 vs 地方文化主权虚化
@@ -220,7 +219,7 @@ updated: 2026-09-18
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 整合 [[Actor-Network Theory\|ANT]] [[Center of Calculation\|计算中心]]理论与拓扑地理学，深入剖析[[Gesamtstrategie zum Bildungsmonitoring\|德国国家教育监测总体战略]]、[[Institute for Educational Quality Improvement\|IQB]] 计算中心及 [[Vergleichsarbeiten\|VERA]] 测评基础设施如何实现跨尺度的远处治理与政策重组。
-> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 系统梳理了分散权威空间下基准数据和 [[PISA]] 测验作为[[Rationalism in International Relations\|理性主义]]比较教育远处治理政治手段的发展史。
+> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 系统梳理了分散权威空间下基准数据和 [[PISA]] 测验作为理性主义比较教育远处治理政治手段的发展史。
 > - [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]] — 分析了新自由主义理性如何通过循证方法（[[Single-Case Design\|SCD]]）和学术标准设计，实现对科研人员及评价体制的远距治理与主体性塑造。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合无生命客体[[Assemblage\|装配]]框架，揭示国家[[Educational Brokerage Agency\|证据中介机构]]如何借助因果量规和企业法人法条实现跨时空的远处治理与权力垄断。
 

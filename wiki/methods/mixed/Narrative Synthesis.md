@@ -7,7 +7,7 @@ summary: "由 Jennie Popay 等人（2006）系统化制定的系统综述证据�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 31
+method_related_count: 30
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
   - "[[Paradigm]]"
-  - "[[Realism in International Relations]]"
   - "[[Concept Mapping]]"
   - "[[Logic Model]]"
   - "[[Reliability]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-24
 ---
 
 # Narrative Synthesis
@@ -91,7 +90,7 @@ updated: 2026-09-18
 > - **不声称回答的问题** 不能提供高度同质化干预措施的统合数学效应量，亦不能在缺乏微观原始数据的情况下替代初级量化因果识别。
 
 > [!method-stack] 方法层级
-> - **研究设计** 混合证据[[Systematic Review\|系统综述]]（Mixed Studies Systematic Review）、[[Realism in International Relations\|现实主义]]综述或复杂干预整合设计。
+> - **研究设计** 混合证据[[Systematic Review\|系统综述]]（Mixed Studies Systematic Review）、现实主义综述或复杂干预整合设计。
 > - **数据收集** 跨数据库系统检索、前瞻性与追溯性引文追踪、灰色文献搜集与多学科同行推荐。
 > - **分析方法** 主题分析（Thematic Analysis）、[[Content Analysis\|内容分析]]、投票计数（Vote Counting）、[[Concept Mapping\|概念图]]示（Concept Mapping）及跨案例模式匹配。
 > - **辅助技术** 质性分析辅助软件（如 NVivo、Atlas.ti）、文献矩阵表及叙事汇总可视化工具。

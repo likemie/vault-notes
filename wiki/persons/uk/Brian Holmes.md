@@ -22,7 +22,6 @@ tags:
   - critical-rationalism
   - policy-science
 related_concepts:
-  - "[[Rationalism in International Relations]]"
   - "[[Nomothetic]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Problem Solving]]"
@@ -45,6 +44,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Technical Rationality]]"
   - "[[Incommensurability]]"
+  - "[[Rationalism in International Relations]]"
   - "[[Four Forms of Understanding of Comparative Education]]"
   - "[[Factorial Interpretive Framework]]"
 related_theories: []
@@ -93,7 +93,7 @@ updated: 2026-09-17
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国比较教育学家、科学哲学家，伦敦大学教育学院（Institute of Education, IOE）比较教育学教授兼系主任（1975–1985），世界比较教育学会联合会（World Council of Comparative Education Societies, WCCES）前主席。
-> - **核心角色** 战后比较教育“科学化运动”三大奠基流派之一（问题学派）的领袖；将[[Karl Popper\|卡尔·波普尔]]批判[[Rationalism in International Relations\|理性主义]]与[[John Dewey\|杜威]]反思思维方法论化，将学科重塑为面向未来决策的[[Nomothetic\|通则式]]预测与[[Policy Science in Comparative Education\|政策科学]]。
+> - **核心角色** 战后比较教育“科学化运动”三大奠基流派之一（问题学派）的领袖；将[[Karl Popper\|卡尔·波普尔]]批判理性主义与[[John Dewey\|杜威]]反思思维方法论化，将学科重塑为面向未来决策的[[Nomothetic\|通则式]]预测与[[Policy Science in Comparative Education\|政策科学]]。
 > - **代表贡献** 创立比较教育“[[Problem Solving\|问题解决]]法（[[Problem Approach]]）”分析程序；提出“批判的二元论（[[Critical Dualism]]）”与教育“文化滞后/时代不同步（Asynchrony）”理论；系统批判老派历史学派的回溯性归因与贝雷迪的经验归纳进路。
 
 > [!citation-card] 考恩论霍姆斯作为问题法与预测科学的开拓者
@@ -108,7 +108,7 @@ updated: 2026-09-17
 > [!timeline] 生平与职涯
 > - **1920** **约克郡出身与物理学实证科学底色** 出生于英格兰约克郡威格顿（Wigton），中学就读于贵格会名校威格顿朋友中学（Friends' School, Wigton）；后考入伦敦大学学院（UCL）攻读物理学，1941 年获理学学士（B.Sc.）学位。这门现代自然科学训练为其日后建构假说-演绎模型、寻求因果普遍法则奠定了[[Positivism\|实证主义]]与科学哲学底色。
 > - **1941–1946** **二战期间皇家空军技术军官与雷达气象经历** 二战爆发后应征入伍，在英国皇家空军（RAF）担任雷达与气象技术军官。战时在极端不确定环境中依靠数理模型与数据观测预测空中战局与天气演进的实战历练，塑造了他后来坚信“科学理解的唯一试金石在于成功预测未来而非事后解释过去”的[[Epistemic Stances\|认识论立场]]。
-> - **1946–1951** **战后完全中学物理教学与伦敦教育学院转型** 退役后在英格兰多所公立完全中学担任物理学科主任（Physics Master）；1951 年考入伦敦大学教育学院攻读教育学研究生文凭（Dip.Ed.），深受比较教育领袖约瑟夫·劳威斯（[[Joseph Lauwerys]]）赏识；在此期间赴伦敦政治经济学院（London School of Economics and Political Science, LSE）系统研修科学哲学，深受[[Karl Popper\|卡尔·波普尔]]（[[Karl Popper]]）批判[[Rationalism in International Relations\|理性主义]]哲学（[[Falsification\|证伪主义]]与反归纳主义）的强烈震撼。
+> - **1946–1951** **战后完全中学物理教学与伦敦教育学院转型** 退役后在英格兰多所公立完全中学担任物理学科主任（Physics Master）；1951 年考入伦敦大学教育学院攻读教育学研究生文凭（Dip.Ed.），深受比较教育领袖约瑟夫·劳威斯（[[Joseph Lauwerys]]）赏识；在此期间赴伦敦政治经济学院（London School of Economics and Political Science, LSE）系统研修科学哲学，深受[[Karl Popper\|卡尔·波普尔]]（[[Karl Popper]]）批判理性主义哲学（[[Falsification\|证伪主义]]与反归纳主义）的强烈震撼。
 > - **1953–1964** **任教伦敦大学教育学院与合编《世界教育年鉴》** 1953 年受聘为伦敦大学教育学院比较教育学讲师，与劳威斯、[[Nicholas Hans\|尼古拉斯·汉斯]]（[[Nicholas Hans]]）共同构筑伦敦比较教育研究中心；长期深度参与主编国际权威年刊《世界教育年鉴》（*The Year Book of Education* / *World Year Book of Education*, 1953–1970），开展跨国教育规划与现代化转型的战略调查。
 > - **1961** **参与创设[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE）** 与劳威斯、佩德罗·罗塞略（Pedro Rosselló）等共同发起创设欧洲比较教育学会（CESE），长期出任学会秘书长与副主席，成为联结战后欧洲与跨大西洋比较教育学术共同体的关键组织枢纽。
 > - **1964** **获伦敦大学哲学博士学位奠定[[Problem Approach\|问题法]]哲学基础** 完成博士学位论文，系统将波普尔的[[Critical Dualism\|批判二元论]]、情境逻辑与[[John Dewey\|约翰·杜威]]（[[John Dewey]]）的[[Reflective Thinking\|反思性思维]]理论相熔铸，奠定“[[Problem Solving\|问题解决]]法（Problem Approach）”的理论架构。
@@ -142,7 +142,7 @@ updated: 2026-09-17
 ## 核心思想
 
 > [!claim] 核心主张
-> 比较教育必须是一门以[[Nomothetic\|通则式]]“预测（prediction）”为核心标志的概括性[[Policy Science in Comparative Education\|政策科学]]；反对无假说的经验归纳与沉溺于过去的制度历史溯源，主张以[[John Dewey\|杜威]]反思思维和波普尔批判[[Rationalism in International Relations\|理性主义]]为基石，通过“问题甄别—假说提出—初始条件与环境模式分析—逻辑演绎推导—政策后果预测”程序，精准诊断由于制度变革与深层传统观念不同步（文化滞后）引发的教育危机，指导具有现实可操作性的零星社会工程改革。
+> 比较教育必须是一门以[[Nomothetic\|通则式]]“预测（prediction）”为核心标志的概括性[[Policy Science in Comparative Education\|政策科学]]；反对无假说的经验归纳与沉溺于过去的制度历史溯源，主张以[[John Dewey\|杜威]]反思思维和波普尔批判理性主义为基石，通过“问题甄别—假说提出—初始条件与环境模式分析—逻辑演绎推导—政策后果预测”程序，精准诊断由于制度变革与深层传统观念不同步（文化滞后）引发的教育危机，指导具有现实可操作性的零星社会工程改革。
 
 > [!citation-card] 通则式预测优于回顾性历史解释
 > 科学比较教育必须以概括性通则与因果预测为生命线。教育政策制定者迫切需要的是知晓某种既定政策干预在未来的可能后果，而非导致当前不满的漫长历史原因。真正的理解来自于成功的预测；老一代历史学派面向过去而非面向未来，无法为紧迫的现实教育改革提供可靠的预测工具。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 53–54; Holmes, 1965, pp. 19–21)]]

@@ -5,6 +5,22 @@
       "path": "wiki/arguments/journal-articles/American Journal of Education/Argument_McDonnell_2013_AJE.md"
     },
     {
+      "basename": "Research Utilization",
+      "path": "wiki/concepts/educational-policy-reform/Research Utilization.md"
+    },
+    {
+      "basename": "TIMSS",
+      "path": "wiki/facts/global/TIMSS.md"
+    },
+    {
+      "basename": "Common Core State Standards",
+      "path": "wiki/facts/us/Common Core State Standards.md"
+    },
+    {
+      "basename": "Professional Judgment",
+      "path": "wiki/concepts/educational-policy-reform/Professional Judgment.md"
+    },
+    {
       "basename": "The Education Trust",
       "path": "wiki/facts/us/The Education Trust.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "Policy Entrepreneur",
       "path": "wiki/concepts/educational-policy-reform/Policy Entrepreneur.md"
-    },
-    {
-      "basename": "Common Core State Standards",
-      "path": "wiki/facts/us/Common Core State Standards.md"
     },
     {
       "basename": "Argument_Edmondson_2005_EPAA",
@@ -187,18 +199,6 @@
     {
       "basename": "Humility",
       "path": "wiki/concepts/chinese-philosophy/Humility.md"
-    },
-    {
-      "basename": "Creative Deskilling",
-      "path": "wiki/concepts/learning-science-cognitive-science/Creative Deskilling.md"
-    },
-    {
-      "basename": "Intelligent Tutoring Systems",
-      "path": "wiki/concepts/educational-technology/Intelligent Tutoring Systems.md"
-    },
-    {
-      "basename": "Extended Mind Theory",
-      "path": "wiki/theories/learning-science-cognitive-science/Extended Mind Theory.md"
     }
   ],
   "omittedPaths": [],
