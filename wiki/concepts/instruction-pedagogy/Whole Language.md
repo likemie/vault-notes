@@ -6,10 +6,10 @@ aliases:
 summary: "强调儿童在真实完整语境中整体学习语言与读写的教学哲学，反对把阅读拆成孤立技能训练，并长期处于识字教学的证据与方法论争议中心。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 27
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 38
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - whole-language
   - literacy
@@ -26,17 +26,19 @@ related_concepts:
   - "[[Simple View of Reading]]"
   - "[[Direct Instruction]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Paradigm]]"
+  - "[[Causality]]"
   - "[[Visible Learning]]"
   - "[[Homework]]"
   - "[[Self-Efficacy]]"
   - "[[Variable]]"
   - "[[Global Education Reform Movement]]"
-related_theories:
-  - "[[Elite Theory]]"
-  - "[[Subgovernment Theory]]"
-  - "[[Critical Pluralism]]"
-  - "[[Neocorporatism]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Open-Mindedness]]"
+  - "[[Teacher Professional Agency]]"
+related_theories: []
 related_methods:
+  - "[[Action Research]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Coding in Qualitative Research]]"
@@ -48,17 +50,16 @@ related_persons:
   - "[[Steven Stahl]]"
   - "[[Jean-Jacques Rousseau]]"
 related_facts:
+  - "[[Reading Excellence Act]]"
+  - "[[International Reading Association]]"
+  - "[[National Reading Panel]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Open Court Reading]]"
   - "[[Rose Report]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
-  - "[[Reading Excellence Act]]"
-  - "[[National Reading Panel]]"
-  - "[[International Reading Association]]"
-  - "[[House Committee on Education and the Workforce]]"
-  - "[[Open Court Reading]]"
 related_arguments:
-  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Edmondson_2005_EPAA]]"
+  - "[[Argument_Snook_2009_NZJES]]"
 part_of: ''
 status: draft
 created: 2026-05-03
@@ -118,10 +119,10 @@ citation_aliases: []
 >   - 全语言运动在美、澳等国兴起。其诞生不仅是教学法的发展，更吸收了民权运动等进步社会运动的养分，强调 child-centered（以儿童为中心）教学对不同阶层和种族背景儿童的尊重 (p.149-150)。
 > - **1980年代－1990年代：阅读战争爆发**
 >   - 全语言在英语国家广泛传播并进入主流政策，但在 1990 年代遭到保守派猛烈反弹，围绕“系统拼读”与“全语言”爆发了持久的“阅读战争”（Reading Wars）(p.144)。
-> - **1997年－1998年：《卓越阅读法案》立法阻击战与法制清洗序幕**
->   - 面对美国国会《[[Reading Excellence Act|卓越阅读法案]]》（REA）草案试图以法律形式将全语言定性为“非科学”并排斥在联邦拨款之外，全美读写教育界爆发空前抗争。逾 100,000 名公立学校教师与学者联名向国会寄送信件请愿，坚决反对由联邦政府强制界定单一阅读定义或教学研究模式。然而，由于次政府铁三角的阻挠与[[International Reading Association|国际阅读协会]]（IRA）高层的闭门妥协，这一草根抗争未能彻底扭转立法方向，反而确立了“[[Scientifically Based Research|科学本位阅读研究]]”（SBRR）的排他性法律门槛，为三年后全语言在联邦层面的彻底被清洗拉开了序幕。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 5–7; Goodman, 1999)]]
-> - **2000年：[[National Reading Panel|国家阅读委员会]]（NRP）里程碑报告推行范式垄断**
->   - NRP 发布旗舰报告《教儿童阅读》，以因果推断实验设计为唯一准入门槛，系统性排除了全语言依赖的质性、叙事与课堂行动研究，将早期阅读强行归约为拼读等五大技能支柱，从“实证证据”层面对全语言实施了范式封杀。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 9–10)]]
+> - **1997年－1998年：《[[Reading Excellence Act|卓越阅读法案]]》立法阻击战与法制清洗序幕**
+>   - 面对美国国会《[[Reading Excellence Act|卓越阅读法案]]》（REA）草案试图以法律形式将全语言定性为“非科学”并排斥在联邦拨款之外，全美读写教育界爆发空前抗争。逾 100,000 名公立学校教师与学者联名向国会寄送信件请愿，坚决反对由联邦政府强制界定单一阅读定义或教学研究模式。然而，由于次政府铁三角的阻挠与[[International Reading Association|国际阅读协会]]（IRA）高层的闭门妥协，这一草根抗争未能彻底扭转立法方向，反而确立了“科学本位阅读研究”（SBRR）的排他性法律门槛，为三年后全语言在联邦层面的彻底被清洗拉开了序幕。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 5–7; Goodman, 1999)]]
+> - **2000年：[[National Reading Panel|国家阅读委员会]]（NRP）里程碑报告推行[[Paradigm|范式]]垄断**
+>   - NRP 发布旗舰报告《教儿童阅读》，以[[Causality|因果推断]]实验设计为唯一准入门槛，系统性排除了全语言依赖的质性、叙事与课堂[[Action Research|行动研究]]，将早期阅读强行归约为拼读等五大技能支柱，从“实证证据”层面对全语言实施了范式封杀。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 9–10)]]
 > - **2001年：[[No Child Left Behind Act 2001|NCLB]] 法案政策清洗**
 >   - 在美国福音派基督教团体与共和党右翼推动下，布什政府颁布《不让一个孩子掉队法案》（No Child Left Behind Act, NCLB），禁止联邦资金流向不推广系统合成拼读的学区，全语言在政策层面遭到清洗 (p.147)。
 > - **2009年：[[Visible Learning\|可见的学习]]（Visible Learning，VL）的低效应评估**
@@ -152,8 +153,8 @@ citation_aliases: []
 > - **教育工业化与绩效管理** 新自由主义[[Global Education Reform Movement|全球教育改革运动]]（GERM）将阅读过程还原为可以按月测量的标准化增量，导致全语言以意义为中心、注重儿童社会文化发展的质性价值被遮蔽，强行推行自上而下的效率考核 (p.149)。
 
 > [!critique] 次政府利益同盟与教科书商业寻租
-> - **政商学铁三角的利益制造** [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]]、肯·古德曼（Goodman, 1999）与施特劳斯（Strauss, 2001）指出，全语言运动遭遇的所谓“科学失败”标签，本质上是一场由联邦科研行政官僚（NICHD）、国会保守派领导层（众议院教育委员会）与商业教材出版集团（麦格劳-希尔/《[[Open Court Reading]]》）组成的次政府铁三角（[[Subgovernment Theory|Subgovernment Iron Triangle]]）联手主导的政治经济清洗。
-> - **反抗商业规训与教师去专业化** 全语言强调儿童文学的开放性、情境化阅读与教师的教学专业自主裁量（[[Teacher Professional Agency]]），难以被打包为可批量采购、高额收费的商业练习册与脚本化教材；而次政府利益同盟借由推崇机械拼读，成功将全美数十亿美元的联邦公共教育预算转化为少数教科书寡头的垄断利润，全语言因而成为政商旋转门寻租与技术官僚规训的牺牲品。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–10)]]
+> - **政商学铁三角的利益制造** [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]]、[[Ken Goodman|肯·古德曼]]（Goodman, 1999）与施特劳斯（Strauss, 2001）指出，全语言运动遭遇的所谓“科学失败”标签，本质上是一场由联邦科研行政官僚（NICHD）、国会保守派领导层（众议院教育委员会）与商业教材出版集团（麦格劳-希尔/《[[Open Court Reading]]》）组成的次政府铁三角（Subgovernment Iron Triangle）联手主导的政治经济清洗。
+> - **反抗商业[[Disciplina and Doctrina|规训]]与教师去专业化** 全语言强调儿童文学的[[Open-Mindedness|开放性]]、情境化阅读与教师的教学专业自主裁量（[[Teacher Professional Agency]]），难以被打包为可批量采购、高额收费的商业练习册与脚本化教材；而次政府利益同盟借由推崇机械拼读，成功将全美数十亿美元的联邦公共教育预算转化为少数教科书寡头的垄断利润，全语言因而成为政商旋转门寻租与技术官僚规训的牺牲品。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–10)]]
 
 ---
 

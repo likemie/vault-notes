@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -37,9 +37,9 @@ related_persons: []
 related_facts:
   - "[[House Committee on Education and the Workforce]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[International Reading Association]]"
   - "[[Open Court Reading]]"
   - "[[National Reading Panel]]"
-  - "[[International Reading Association]]"
 related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
 confidence: high

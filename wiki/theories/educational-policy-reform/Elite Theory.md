@@ -7,6 +7,11 @@ aliases:
   - Power Elite Theory
 summary: "政治学与政策科学核心理论，主张公共政策是由拥有高度同质化利益与价值偏好的少数权力精英自上而下制定；在教育政策中常用于解构国家专家委员会以专业中立为掩护制造排他性科学共识的权力机制。"
 type: theory
+theory_field: "educational-policy-reform"
+theory_related_count: 21
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory
   - policy/educational-policy
@@ -15,28 +20,31 @@ tags:
   - theme/expert-consensus
   - field/political-sociology
 related_concepts:
-  - "[[Scientifically Based Research]]"
-  - "[[Evidence Standards]]"
-  - "[[Technical Rationality]]"
-  - "[[Ontology]]"
+  - "[[Champ]]"
+  - "[[Epoché]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
+  - "[[Whole Language]]"
+  - "[[Research Question]]"
+  - "[[Problem Finding]]"
+  - "[[Technical Rationality]]"
   - "[[Epistemology]]"
 related_theories:
-  - "[[Subgovernment Theory]]"
-  - "[[Neocorporatism]]"
   - "[[Critical Pluralism]]"
-  - "[[Critical Theory]]"
+  - "[[Neocorporatism]]"
+  - "[[Subgovernment Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Qualitative Research]]"
+  - "[[Meta-analysis]]"
   - "[[Action Research]]"
+  - "[[Qualitative Research]]"
+  - "[[Randomised Controlled Trials]]"
 related_instruments: []
 related_persons:
-  - "[[Plato]]"
+  - "[[Max Weber]]"
 related_facts:
   - "[[National Reading Panel]]"
   - "[[Reading Excellence Act]]"
-  - "[[House Committee on Education and the Workforce]]"
 related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
 confidence: high
@@ -53,9 +61,9 @@ updated: 2026-09-24
 
 > [!theory-position] 理论定位
 > - **解释对象** 宏观国家政策制定与议程设置中少数政治领袖、官僚中枢、商业巨头与主流学术权威对公共决策的垄断控制机制。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, pp. 2–3, 9–10)]]
-> - **理论问题** 强力批判多元主义关于“社会多元群体公平竞争且权力高度分散”的虚假预设，揭示在高度专业化与技术化的决策场域中，普通公众与一线从业人员的真实偏好如何被系统性悬置。
-> - **理论类型** 解释性政治社会学理论与批判性政策分析框架。
-> - **知识位置** 植根于古典政治学与批判社会学，与多元主义（Pluralism）、法团主义（[[Neocorporatism\|Corporatism]]）及次政府理论（[[Subgovernment Theory\|Subgovernments]]）共同构成现代公共政策制定的四大经典理论谱系。[[Argument_Edmondson_2005_EPAA\|(Theodoulou & Cahn, 1995; Edmondson, 2005, p. 3)]]
+> - **理论问题** 强力[[Critical Pluralism|批判多元主义]]关于“社会多元群体公平竞争且权力高度分散”的虚假预设，揭示在高度专业化与技术化的决策[[Champ|场域]]中，普通公众与一线从业人员的真实偏好如何被系统性[[Epoché|悬置]]。
+> - **理论类型** 解释性政治社会学理论与批判性政策[[Analytic Framework|分析框架]]。
+> - **知识位置** 植根于古典政治学与批判社会学，与多元主义（Pluralism）、[[Neocorporatism|法团主义]]（[[Neocorporatism\|Corporatism]]）及[[Subgovernment Theory|次政府理论]]（[[Subgovernment Theory\|Subgovernments]]）共同构成现代公共政策制定的四大经典理论谱系。[[Argument_Edmondson_2005_EPAA\|(Theodoulou & Cahn, 1995; Edmondson, 2005, p. 3)]]
 
 > [!claim] 核心判断
 > 公共政策并非反映全体公民的公意，而是由分享高度一致意识形态与阶级利益的极少数“权力精英”相互协调的产物；在教育政策领域，官方通过设立高规格国家专家委员会制造看似中立客观的“学术共识”，实质上构成了排他性议程控制并剥夺了基层教育者的专业自决权。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, pp. 9–10)]]
@@ -67,8 +75,8 @@ updated: 2026-09-24
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 查尔斯·赖特·米尔斯（C. Wright Mills）在《权力精英》（*The Power Elite*, 1956）中系统确立了现代精英理论框架；拉尔夫·米利班德（Ralph Miliband）在《资本主义社会中的国家》（*The State in Capitalist Society*, 1969）中深化了国家机器与统治阶级精英的人脉与意识形态同质性分析。
 > - **原初问题** 资本主义代议制民主宣称主权在民，但实际公共资源的分配、战争动员与法律规制却始终受控于互通款曲的少数上层阶级。
-> - **理论资源与材料** 吸收了马克斯·韦伯的科层官僚统治理论、帕累托与莫斯卡的政治精英循环论，以及约瑟夫·熊彼特（Joseph Schumpeter, 1942/1976）关于精英民主与议程操纵的经验经济学批判。
-> - **形成路径** 从剖析政治高层、军队首脑与跨国企业董事会的核心圈流动入手，证明政策本质上是权力精英实现社会规训与利益再生产的权威性工具。
+> - **理论资源与材料** 吸收了[[Max Weber|马克斯·韦伯]]的科层官僚统治理论、帕累托与莫斯卡的政治精英循环论，以及约瑟夫·熊彼特（Joseph Schumpeter, 1942/1976）关于精英民主与议程操纵的经验经济学批判。
+> - **形成路径** 从剖析政治高层、军队首脑与跨国企业董事会的核心圈流动入手，证明政策本质上是权力精英实现社会[[Disciplina and Doctrina|规训]]与利益再生产的权威性工具。
 
 ### 后续演变与教育政策拓展
 
@@ -88,8 +96,8 @@ updated: 2026-09-24
 > |:-----|:-----|:--------------|
 > | 权力精英（Power Elite） | 概念 | 把持国家核心决策管辖权、科研基金流向与主流意识形态话语的极少数关键行动者。 |
 > | 操纵性公共议程（Manufactured Agenda） | 机制 | 通过由少数精英挑选和设计的公共议题与测评标准，自上而下塑模民众认知并引导舆论共识。 |
-> | 同质化专家委员会（Homogenous Expert Panels） | 制度载体 | 官方以去政治化的“专业资格”为准则遴选但实际上高度依附于单一学术范式的高规格评审团队。 |
-> | 技术性合法化（Technocratic Legitimation） | 机制 | 借由严密的量化元分析和实证科学标签，将精英自身的阶级与范式偏好包装为全社会客观真理。 |
+> | 同质化专家委员会（Homogenous Expert Panels） | 制度载体 | 官方以去政治化的“专业资格”为准则遴选但实际上高度依附于单一学术[[Paradigm\|范式]]的高规格评审团队。 |
+> | 技术性合法化（Technocratic Legitimation） | 机制 | 借由严密的量化[[Meta-analysis\|元分析]]和实证科学标签，将精英自身的阶级与范式偏好包装为全社会客观真理。 |
 
 ---
 
@@ -101,7 +109,7 @@ updated: 2026-09-24
 > **应用实例** 在美国《[[Reading Excellence Act\|卓越阅读法案]]》审议期间，全美逾十万名公立学校一线教师致信国会反对法案对自然拼读的狭隘规制，但国会教育委员会领导层与少数政商精英直接通过口头表决（voice vote）强行通过法案，基层民意在封闭的精英决策中完全失效。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, pp. 6, 8)]]
 
 > [!theory-proposition] 命题二｜国家级专家委员会以技术客观性为面具组建同质化精英同盟并制造排他性科学共识
-> **解释** 在高度依赖专业知识的教育与社会政策领域，统治精英往往不直接诉诸政治强权，而是通过设立享有崇高声誉的国家级专家委员会来行使精英控制职能。遴选机制表面上高呼“把政治热情留在门外，唯专业能力是举”，实质上却通过预设的方法论偏好精准挑选来自量化实验、神经医学等主流同质化背景的学者，系统性排斥质性、行动研究与社会文化视角的学者。通过这种方式出台的国家评估报告看似汇集了全国最高学术共识，实为精英寡头巩固自身知识霸权与商业同盟的强力杠杆。[[Argument_Edmondson_2005_EPAA\|(Schumpeter, 1976; Edmondson, 2005, pp. 9–10)]]
+> **解释** 在高度依赖专业知识的教育与社会政策领域，统治精英往往不直接诉诸政治强权，而是通过设立享有崇高声誉的国家级专家委员会来行使精英控制职能。遴选机制表面上高呼“把政治热情留在门外，唯专业能力是举”，实质上却通过预设的方法论偏好精准挑选来自量化实验、神经医学等主流同质化背景的学者，系统性排斥质性、[[Action Research|行动研究]]与社会文化视角的学者。通过这种方式出台的国家评估报告看似汇集了全国最高学术共识，实为精英寡头巩固自身知识霸权与商业同盟的强力杠杆。[[Argument_Edmondson_2005_EPAA\|(Schumpeter, 1976; Edmondson, 2005, pp. 9–10)]]
 >
 > **应用实例** 国家研究委员会（NRC）的《预防幼童阅读困难》报告以及随后的[[National Reading Panel\|国家阅读委员会]]（NRP），成员绝大多数来自实证认知心理学与医学背景，其得出的“五大阅读技能”被直接写入联邦法律，而反对机械技能切片的质性学者与[[Whole Language\|全语言]]教育者被扣上“反科学”标签并彻底逐出国家政策咨询体系。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, p. 10)]]
 
@@ -110,18 +118,18 @@ updated: 2026-09-24
 ## 转化为分析框架
 
 > [!theory-use] 框架入口
-> - **研究问题** 某项教育改革或科研评价政策的法定标准究竟由谁定义？国家专家评审机制是否实质上构成了同质化精英对决策议程的封闭垄断？
+> - **[[Research Question|研究问题]]** 某项教育改革或科研评价政策的法定标准究竟由谁定义？国家专家评审机制是否实质上构成了同质化精英对决策议程的封闭垄断？
 > - **分析对象与单位** 官方专家委员会的委员专业背景构成、国家重大咨询报告遴选规程、高利害立法中的听证专家言论与利益声明。
-> - **需要的材料** 专家委员会遴选标准会议实录、委员过往科研项目资助来源与企业关联清单、重大政策出台过程中的不同范式学者的排斥与被采纳记录。
+> - **需要的材料** 专家委员会遴选标准会议实录、委员过往科研项目资助来源与企业关联清单、重大政策出台过程中的不同[[Paradigm|范式]]学者的排斥与被采纳记录。
 > - **解释目标** 揭示政策技术话语背后的精英议程操纵机制，破除公众对“官方中立专家共识”的盲信。
 
 > [!theory-framework] 精英理论分析维度与判读规则
 >
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---|:---|:---|:---|
-> | 议程设置控制（Schumpeter, 1976; [[Argument_Edmondson_2005_EPAA\|Edmondson, 2005, p. 10]]） | **问题界定权归属** 政策要解决的“核心危机”是由谁提出的？是否属于精英自上而下的议程灌输？ | 国家危机报告文本、主流媒体与智库对特定学业赤字的话语放大。 | 若政策议题完全由国家科研官僚与商业资本提出而基层教师缺乏发起权，支持精英控制判断。 |
-> | 委员会同质性（[[Argument_Edmondson_2005_EPAA\|Edmondson, 2005, p. 10]]） | **专家构成与范式排他性** 专家委员会是否排斥了多元研究传统？委员的学术范式是否高度同质？ | 委员会成员学科分布、方法学背景、有无质性研究与一线教师代表。 | 若关键方法论决策全部由同一样本范式（如单一量化 RCT）学者掌控，表明存在精英范式垄断。 |
-> | 利益合谋与再生产（Mills, 1956; [[Argument_Edmondson_2005_EPAA\|Edmondson, 2005, p. 9]]） | **政策收益归宿** 最终政策文本与财政资助使谁获益？是否巩固了精英既得利益？ | 联邦巨额拨款的主要流向、商业教材公司垄断率、资助向委员会委员所在机构的回流。 | 若政策排他性地锁定了特定商业出版集团与受资助科研机构的利益，强力确证精英同盟再生产。 |
+> | 议程设置控制（Schumpeter, 1976; [[Argument_Edmondson_2005_EPAA\|Edmondson, 2005, p. 10]]） | **[[Problem Finding\|问题界定]]权归属** 政策要解决的“核心危机”是由谁提出的？是否属于精英自上而下的议程灌输？ | 国家危机报告文本、主流媒体与智库对特定学业赤字的话语放大。 | 若政策议题完全由国家科研官僚与商业资本提出而基层教师缺乏发起权，支持精英控制判断。 |
+> | 委员会同质性（Wigdor, 1998; [[Argument_Edmondson_2005_EPAA\|Edmondson, 2005, p. 9]]） | **专家构成与范式排他性** 专家委员会是否排斥了多元研究传统？委员的学术范式是否高度同质？ | 委员会成员学科分布、方法学背景、有无[[Qualitative Research\|质性研究]]与一线教师代表。 | 若关键方法论决策全部由同一样本范式（如单一量化 [[Randomised Controlled Trials\|RCT]]）学者掌控，表明存在精英范式垄断。 |
+> | 利益合谋与再生产（Mills, 1956; Metcalf, 2002; [[Argument_Edmondson_2005_EPAA\|Edmondson, 2005, p. 8]]） | **政策收益归宿** 最终政策文本与财政资助使谁获益？是否巩固了精英既得利益？ | 联邦巨额拨款的主要流向、商业教材公司垄断率、资助向委员会委员所在机构的回流。 | 若政策排他性地锁定了特定商业出版集团与受资助科研机构的利益，强力确证精英同盟再生产。 |
 
 ---
 
@@ -143,7 +151,7 @@ updated: 2026-09-24
 > | [[Subgovernment Theory]] | 理论 | 并列政策理论，聚焦专委会、官僚与企业构成的具体铁三角寻租同盟。 |
 > | [[Neocorporatism]] | 理论 | 并列政策理论，解释垄断性全国行业组织介入密室协商导致的代表性异化。 |
 > | [[Critical Pluralism]] | 理论 | 替代与超越理论，在打破精英垄断的基础上建构平权性的公众多元参与模型。 |
-> | [[National Reading Panel]] | 事实 | 精英理论在教育政策中的标志性案型，展现了国家专家委员会的范式排他性。 |
+> | [[National Reading Panel]] | 事实 | 精英理论在教育政策中的标志性案型，展现了国家专家委员会的[[Paradigm\|范式]]排他性。 |
 > | [[Reading Excellence Act]] | 事实 | 由国会权力精英与科研主管推动设立且排斥基层民意的典型联邦教育立法。 |
-> | [[Technical Rationality]] | 概念 | 精英集团用来掩盖自身价值偏好并实施技术合法化的核心认识论武器。 |
+> | [[Technical Rationality]] | 概念 | 精英集团用来掩盖自身价值偏好并实施技术合法化的核心[[Epistemology\|认识论]]武器。 |
 > | [[Whole Language]] | 概念 | 被国家权力精英与实证心理学委员会排斥并贴上反科学标签的教育哲学。 |
