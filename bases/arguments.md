@@ -84,10 +84,10 @@ views:
       - property: updated
         direction: DESC
 
-  - type: table
+  - type: cards
     name: 按创建时间
+    image: argument_related_color
     order:
-      - argument_display_title
       - summary
       - authors
       - created
