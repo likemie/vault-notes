@@ -8,7 +8,7 @@ aliases:
 summary: "政治学与政策科学核心理论，主张公共政策是由拥有高度同质化利益与价值偏好的少数权力精英自上而下制定；在教育政策中常用于解构国家专家委员会以专业中立为掩护制造排他性科学共识的权力机制。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Epistemology]]"
 related_theories:
   - "[[Critical Pluralism]]"
+  - "[[Pluralism]]"
   - "[[Neocorporatism]]"
   - "[[Subgovernment Theory]]"
 related_methods:
@@ -63,7 +64,7 @@ updated: 2026-09-24
 > - **解释对象** 宏观国家政策制定与议程设置中少数政治领袖、官僚中枢、商业巨头与主流学术权威对公共决策的垄断控制机制。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, pp. 2–3, 9–10)]]
 > - **理论问题** 强力[[Critical Pluralism|批判多元主义]]关于“社会多元群体公平竞争且权力高度分散”的虚假预设，揭示在高度专业化与技术化的决策[[Champ|场域]]中，普通公众与一线从业人员的真实偏好如何被系统性[[Epoché|悬置]]。
 > - **理论类型** 解释性政治社会学理论与批判性政策[[Analytic Framework|分析框架]]。
-> - **知识位置** 植根于古典政治学与批判社会学，与多元主义（Pluralism）、[[Neocorporatism|法团主义]]（[[Neocorporatism\|Corporatism]]）及[[Subgovernment Theory|次政府理论]]（[[Subgovernment Theory\|Subgovernments]]）共同构成现代公共政策制定的四大经典理论谱系。[[Argument_Edmondson_2005_EPAA\|(Theodoulou & Cahn, 1995; Edmondson, 2005, p. 3)]]
+> - **知识位置** 植根于古典政治学与批判社会学，与[[Pluralism|多元主义]]（Pluralism）、[[Neocorporatism|法团主义]]（[[Neocorporatism\|Corporatism]]）及[[Subgovernment Theory|次政府理论]]（[[Subgovernment Theory\|Subgovernments]]）共同构成现代公共政策制定的四大经典理论谱系。[[Argument_Edmondson_2005_EPAA\|(Theodoulou & Cahn, 1995; Edmondson, 2005, p. 3)]]
 
 > [!claim] 核心判断
 > 公共政策并非反映全体公民的公意，而是由分享高度一致意识形态与阶级利益的极少数“权力精英”相互协调的产物；在教育政策领域，官方通过设立高规格国家专家委员会制造看似中立客观的“学术共识”，实质上构成了排他性议程控制并剥夺了基层教育者的专业自决权。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, pp. 9–10)]]

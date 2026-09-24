@@ -6,7 +6,7 @@ aliases:
 summary: "Sakwa 提出的概念，指以自由主义普遍主义和反多元立场为基础、支持干预主义和政权更迭的国际主义取向。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,7 +18,8 @@ related_concepts:
   - "[[Sovereign Internationalism]]"
   - "[[Classical Geopolitics]]"
   - "[[Interventionist Strategy]]"
-related_theories: []
+related_theories:
+  - "[[Pluralism]]"
 related_methods: []
 related_persons: []
 related_facts: []
@@ -27,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: '2026-05-18'
+updated: 2026-09-24
 ---
 
 # Radical Liberal Internationalism
@@ -55,7 +56,7 @@ updated: '2026-05-18'
 > [!note]-
 > Sakwa（2023）将演变追溯为三个步骤：
 > - **1945 年** 宪章国际体系建立，以 [[Sovereign Internationalism\|主权国际主义]] 为核心理念，容忍多元政治制度
-> - **冷战后** 美国例外论取代多元主义，激进自由国际主义成为主导——Fukuyama（1992）"历史终结论"是其理论宣言
+> - **冷战后** 美国例外论取代[[Pluralism|多元主义]]，激进自由国际主义成为主导——Fukuyama（1992）"历史终结论"是其理论宣言
 > - **2000 年代后** 演变为英美"基于规则的秩序"，Marginson 指出这一"秩序"从未成为全球共识——"它是一个霸权集团的信条，其拥护者假定自身在所有方面均具有优越性"([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 14]])
 >
 > Marginson 进一步评论，这种征伐式自由主义令人联想到 19 世纪英国帝国主义——后者以自我定义的"文明标准"为由要求世界主导权。

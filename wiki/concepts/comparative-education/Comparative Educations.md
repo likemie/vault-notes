@@ -8,10 +8,10 @@ aliases:
 summary: "指 1970 年代中叶以降，由于战后实证主义单一全包容科学范式在治理现实、物理学量子转向与后现代思潮中全面破裂，比较教育学演进为多个理论学派、研究取向与多元真理体制并存竞争的复数化学科格局。"
 type: concept
 domain: "comparative-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - comparative-education
   - disciplinary-history
@@ -39,6 +39,7 @@ related_concepts:
 related_theories:
   - "[[Critical Theory]]"
   - "[[Postmodernism]]"
+  - "[[Pluralism]]"
 related_methods:
   - "[[Quantitative Research]]"
 related_instruments: []
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Comparative Educations
@@ -92,7 +93,7 @@ updated: 2026-09-22
 > |------|---|---|---|
 > | **分析对象** | 1970 年代中叶以降学科内多元流派并立的多极化[[Epistemology\|认识论]]生态与体制格局。 | 1960 年代占统治地位的单一、实证量化、跨国共变全包容[[Paradigm\|研究范式]]。 | 随地缘政治与社会变迁而在不同历史时期主导比较教育学的核心关切主题。 |
 > | **核心机制** | 现实规划失败、量子不确定性转向与后现代解构导致单一真理独断破灭，学派林立。 | 确立[[Hypothesis\|假设]]演绎检验、大样本统计与无时空限制规律，驱逐主观人文传统。 | 外部历史脉动驱动学科研究重心在技术、经济、认同等问题域之间转换。 |
-> | **学科定位** | 承认多元真理体制（regimes of truth）与方法多元主义的后实证学科常态。 | [[Positivism\|实证主义]]全盛期对“硬科学”属性与政策工具效用的单向度追求。 | 学科史研究中把握问题意识变迁与历史分期的解释透镜。 |
+> | **学科定位** | 承认多元真理体制（regimes of truth）与方法[[Pluralism\|多元主义]]的后实证学科常态。 | [[Positivism\|实证主义]]全盛期对“硬科学”属性与政策工具效用的单向度追求。 | 学科史研究中把握问题意识变迁与历史分期的解释透镜。 |
 
 ---
 
@@ -181,7 +182,7 @@ updated: 2026-09-22
 > [!debates] 学术争议
 >
 > > [!axis] 复数化是学科走向成熟还是陷入碎片化危机
-> > 围绕[[Paradigm\|范式]]多元主义究竟促进了学术繁荣，还是导致了学科认同的解体展开争论。
+> > 围绕[[Paradigm\|范式]][[Pluralism|多元主义]]究竟促进了学术繁荣，还是导致了学科认同的解体展开争论。
 > >
 > > - **多元主义支持者** 认为摆脱单一[[Scientific Paradigm\|科学范式]]的神话是学科成熟的标志，探索多元真理体制使得比较教育学能够更敏锐地回应复杂的本土情境与文化脉络。
 > > - **统一学科倡导者** 担忧过度碎片化会导致比较教育学丧失核心方法论共识与理论边界，沦为缺乏凝聚力的跨学科附庸，削弱与国家宏观政策对话的集体力量。

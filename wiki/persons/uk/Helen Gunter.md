@@ -7,7 +7,7 @@ summary: "英国教育学者，教育领导力知识政治与政策批判研究�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,7 +25,8 @@ related_concepts:
   - "[[Transformative Leadership]]"
   - "[[School Leadership]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Critical Policy Analysis]]"
 related_persons:
   - "[[Jorunn Møller]]"
   - "[[Carolyn Shields]]"
@@ -36,12 +37,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Helen Gunter，英国教育研究者，以对教育领导力的批判性政策分析和知识政治研究著称。她主张教育领导力研究需要认识到"教育领导力是一个政治议题，其中关于成功学校的竞争性版本正在展开争夺"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.379]])，以及"教育领域是多元人群和利益的集合体，社会科学学科知识是资源机会而非既定方法论的集合"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.382]])。
+> - **身份位置** Helen Gunter，英国教育研究者，以对教育领导力的[[Critical Policy Analysis|批判性政策分析]]和知识政治研究著称。她主张教育领导力研究需要认识到"教育领导力是一个政治议题，其中关于成功学校的竞争性版本正在展开争夺"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.379]])，以及"教育领域是多元人群和利益的集合体，社会科学学科知识是资源机会而非既定方法论的集合"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.382]])。
 
 ## 核心思想
 

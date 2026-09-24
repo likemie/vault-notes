@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[National Institute of Child Health and Human Development]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Lindamood Phoneme Sequencing]]"
 related_arguments:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Intensive Reading Remediation
@@ -59,7 +60,7 @@ updated: 2026-09-17
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **Intensive Reading Remediation（密集阅读补救，[[Document\|文献]]中常称 Blachman 密集干预模型）**是由雪城大学（Syracuse University）著名特殊教育与阅读障碍学者贝妮塔·布拉奇曼（Benita A. Blachman）领衔研发、受美国国家儿童健康与人类发育研究所（NICHD）资助的小学中低年级重度阅读困难专业教师一对一临床救济方案；其核心战略是针对小学二至三年级经过常规教学与早期初步辅导依然深陷严重阅读障碍（Dyslexia 边缘）的高危儿童，实施长达整整一学年、每日 50 分钟的高强度显性系统拼读救济。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **Intensive Reading Remediation（密集阅读补救，[[Document\|文献]]中常称 Blachman 密集干预模型）**是由雪城大学（Syracuse University）著名特殊教育与阅读障碍学者贝妮塔·布拉奇曼（Benita A. Blachman）领衔研发、受美国国家儿童健康与人类发育研究所（[[National Institute of Child Health and Human Development|NICHD]]）资助的小学中低年级重度阅读困难专业教师一对一临床救济方案；其核心战略是针对小学二至三年级经过常规教学与早期初步辅导依然深陷严重阅读障碍（Dyslexia 边缘）的高危儿童，实施长达整整一学年、每日 50 分钟的高强度显性系统拼读救济。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 研发始于 1990 年代末，在纽约州多所公立学区开展大规模[[Randomised Controlled Trials\|随机对照试验]]，2004 年发表标志性因果评估报告。

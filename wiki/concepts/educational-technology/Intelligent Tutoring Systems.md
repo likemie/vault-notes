@@ -10,7 +10,7 @@ aliases:
 summary: "利用人工智能算法对学习者认知状态、知识掌握与解题步骤（以及科学探究过程）进行细致建模并提供自适应个性化教学指导的计算机系统，涵盖良构问题解题分步支架与探究式智能导师系统（Inq-ITS），由领域模型、学生模型、教学模型与交互界面四大经典构件组成。"
 type: concept
 domain: "educational-technology"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -61,6 +61,7 @@ related_concepts:
 related_theories:
   - "[[Cognitive Load Theory]]"
   - "[[Virtue Epistemology]]"
+  - "[[Pluralism]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-09-23
+updated: 2026-09-24
 ---
 
 # Intelligent Tutoring Systems
@@ -280,7 +281,7 @@ updated: 2026-09-23
 > >
 > > - **生成式颠覆论** 认为传统 ITS 规则库僵硬封闭，大语言模型的开放对话将全面取代传统领域模型。
 > > - **[[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026, pp. 3–5)]]** 指出传统 ITS 的关键优势在于其评价准则与步骤逻辑完全透明且受控，仅提供过程性协助而不会越界掠夺学生的[[Evaluative Judgement\|评价性判断]]；未来智能导师的演进方向是将生成式语言界面的灵活性与 ITS 严谨的规则校验图谱相结合，守持认知可恢复性的教学底线。
-> > - **[[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 364–366)]]** 提出双轨支架矩阵（技术侧[[Chain-of-Thought Prompting\|思维链提示]]与教学侧同伴评议），将传统 ITS 的结构化脚手架理念与生成式大模型的发散共创优势有机结合，引导学生从绝对主义/多元主义向评价主义演进，化解纯技术协助导致的[[Epistemic Dependence\|认识依赖]]与消极[[Cognitive Offloading\|认知卸载]]。
+> > - **[[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 364–366)]]** 提出双轨支架矩阵（技术侧[[Chain-of-Thought Prompting\|思维链提示]]与教学侧同伴评议），将传统 ITS 的结构化脚手架理念与生成式大模型的发散共创优势有机结合，引导学生从绝对主义/[[Pluralism|多元主义]]向评价主义演进，化解纯技术协助导致的[[Epistemic Dependence\|认识依赖]]与消极[[Cognitive Offloading\|认知卸载]]。
 > > - **[[Argument_Naeem_2026_Episteme\|Naeem (2026, pp. 274–278)]]** 从教育哲学立场提出更根本性的批判：传统 ITS 即便逐步提示，其底层逻辑仍以答案为终点，当学习者触达最底层线索时实质上发生了认知外包；真正的解决方案不是优化答案输出的质量，而是彻底逆转交互逻辑——将 AI 配置为专门提出问题、拒绝输出答案的提问型导师（Q-Tutor），使学习者在主动追问中内化智力技能与[[Epistemic Virtues and Vices|理智美德]]。
 
 > [!tension] 核心张力

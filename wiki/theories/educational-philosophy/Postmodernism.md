@@ -7,7 +7,7 @@ aliases:
 summary: "反抗启蒙现代性与实证主义决定论的思想思潮；在教育研究中解构宏大元叙事，肯定断裂、差异与本土微观情境，揭示知识的社会建构性与权力纽带，并以变色龙般的亲和性连接诠释范式、复杂性理论与批判理论。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 38
+theory_related_count: 39
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -47,6 +47,7 @@ related_theories:
   - "[[Critical Theory]]"
   - "[[Post-structuralism]]"
   - "[[Knowledge Building Theory]]"
+  - "[[Pluralism]]"
   - "[[Critical Realism]]"
 related_methods:
   - "[[Narrative Research]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Postmodernism
@@ -194,7 +195,7 @@ updated: 2026-09-22
 
 > [!debates] 学术争议
 >
-> > [!axis] 解放性多元主义 vs 政治行动的相对主义瘫痪
+> > [!axis] 解放性[[Pluralism|多元主义]] vs 政治行动的相对主义瘫痪
 > > 争论后现代解构究竟是促进了教育公平与民主，还是导致了[[Analytical Stance\|批判立场]]的彻底瘫痪。
 > >
 > > - **后现代倡导阵营（Lather, 1991; Jameson, 1991）** 主张消解普适真理能打破统治阶级的话语霸权，让受压迫者的边缘声音重获学术合法性。

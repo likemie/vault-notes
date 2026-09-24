@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -41,6 +41,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[National Institute of Child Health and Human Development]]"
   - "[[Institute of Education Sciences]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Sound Partners]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Lindamood Phoneme Sequencing
@@ -64,7 +65,7 @@ updated: 2026-09-17
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 方案雏形形成于 1970 年代初，经历 Lindamood-Bell 专业机构数十年的临床打磨与公立学校多中心试验，长盛不衰至今。
-> - **发起方与资助机制** 由 Lindamood-Bell 研发机构运营，美国国立儿童健康与人类发展研究所（NICHD）与联邦教育部[[Institute of Education Sciences\|教育科学研究院]]（IES）提供多项重大[[Randomised Controlled Trials\|随机对照试验]]（RCT）科研资助。
+> - **发起方与资助机制** 由 Lindamood-Bell 研发机构运营，美国国立儿童健康与人类发展研究所（[[National Institute of Child Health and Human Development|NICHD]]）与联邦教育部[[Institute of Education Sciences\|教育科学研究院]]（IES）提供多项重大[[Randomised Controlled Trials\|随机对照试验]]（RCT）科研资助。
 > - **覆盖范围与对象** 全美各州公立小学中在语音意识（Phonological Awareness）与音素切分上处于严重病理缺陷的高危学生，尤其是被诊断为发展性阅读障碍的儿童。
 > - **核心问题导向** 攻克传统“仅凭听觉和视觉”拼读教学对音素感知盲区儿童无效的顽疾，开创以发音口腔动觉为中介的神经认知补偿路径。
 
@@ -91,7 +92,7 @@ updated: 2026-09-17
 
 > [!dev-timeline] LiPS 发展历程
 > - **1970–1980 年代 — 临床创立与 ADD [[Paradigm\|范式]]成型** 林达穆德夫妇在临床言语矫正中提炼出“动作—听觉—视觉”多感官语音感知体系，出版《深入听觉辨别训练》手册。
-> - **1990 年代 — NICHD 国家阅读认知危机攻关** 托尔格森团队在佛罗里达州开展里程碑式的长期追踪 [[Randomised Controlled Trials\|RCT]]（Torgesen et al., 1997），证实 LiPS 在一年级严重阅读障碍儿童中取得了突破性的[[Decodification\|解码]]增益（[[Effect Size\|效应量]]超 $+0.60$），确立了其全美学术声誉。
+> - **1990 年代 — [[National Institute of Child Health and Human Development|NICHD]] 国家阅读认知危机攻关** 托尔格森团队在佛罗里达州开展里程碑式的长期追踪 [[Randomised Controlled Trials\|RCT]]（Torgesen et al., 1997），证实 LiPS 在一年级严重阅读障碍儿童中取得了突破性的[[Decodification\|解码]]增益（[[Effect Size\|效应量]]超 $+0.60$），确立了其全美学术声誉。
 > - **2000–2010 年代 — 计算机辅助与多学段评估** 托尔格森等学者进一步开发结合计算机软件的综合干预（Torgesen et al., 2010），在 K–2 年级多中心实验中再次验证了 $+0.69$ 的超额效应量。
 > - **2015–至今 — 法定 [[Every Student Succeeds Act\|ESSA]] 强证据金标准** 在《每一个学生成功法》（ESSA）证据分级中，LiPS 作为极少数在 Tier 2 与 Tier 3 均达到 Strong 评级的经典方案，被全美各州学区广泛采纳为特殊教育分流前的最后拦截屏障。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 

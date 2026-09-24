@@ -14,7 +14,7 @@ aliases:
 summary: "由 Ray Pawson 与 Nick Tilley 创立并经 Bonell 等人发展的科学实在论评估理论与实验范式，主张干预通过在特定背景中向受试者提供资源并激活其推理而产生非线性结果，倡导以多臂析因设计与过程评估打破因果黑箱。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 42
+theory_related_count: 43
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Professional Judgment]]"
 related_theories:
   - "[[Critical Realism]]"
+  - "[[Pluralism]]"
   - "[[Theory of Change]]"
 related_methods:
   - "[[Implementation and Process Evaluation]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-06-19'
-updated: 2026-09-18
+updated: 2026-09-24
 ---
 
 # Realist Evaluation
@@ -151,7 +152,7 @@ updated: 2026-09-18
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 深度实在论（Depth Realism）。现实世界是分层、多维且复杂的；结构与因果机制真实存在，其因果力量独立于研究者的经验观察。
 > - **[[Epistemology\|认识论]]** [[Interpretive Paradigm\|反实证主义]][[Empiricism\|经验主义]]。知识具有概念中介性；[[Causality\|因果关系]]不等于表观统计相关，而是机制在开放生态中的生成性[[Emergence\|涌现]]。
-> - **方法含义** 方法论多元主义。融合质性实地观察、访谈、[[Multi-Arm Trial\|多臂试验]]与结构方程中介建模，重在追踪因果链条的机制转化。
+> - **方法含义** 方法论[[Pluralism|多元主义]]。融合质性实地观察、访谈、[[Multi-Arm Trial\|多臂试验]]与结构方程中介建模，重在追踪因果链条的机制转化。
 > - **不能直接推出的结论** 不能直接推导出可机械移植、放之四海而皆准的标准化操作处方，亦不能将平均[[Effect Size\|效应量]]视作评估决策的唯一黄金准则。
 
 > [!theory-use] 如何用于研究

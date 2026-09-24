@@ -6,7 +6,7 @@ aliases:
 summary: "强调儿童在真实完整语境中整体学习语言与读写的教学哲学，反对把阅读拆成孤立技能训练，并长期处于识字教学的证据与方法论争议中心。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -54,6 +54,7 @@ related_facts:
   - "[[International Reading Association]]"
   - "[[National Reading Panel]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[National Institute of Child Health and Human Development]]"
   - "[[Open Court Reading]]"
   - "[[Rose Report]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
@@ -153,7 +154,7 @@ citation_aliases: []
 > - **教育工业化与绩效管理** 新自由主义[[Global Education Reform Movement|全球教育改革运动]]（GERM）将阅读过程还原为可以按月测量的标准化增量，导致全语言以意义为中心、注重儿童社会文化发展的质性价值被遮蔽，强行推行自上而下的效率考核 (p.149)。
 
 > [!critique] 次政府利益同盟与教科书商业寻租
-> - **政商学铁三角的利益制造** [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]]、[[Ken Goodman|肯·古德曼]]（Goodman, 1999）与施特劳斯（Strauss, 2001）指出，全语言运动遭遇的所谓“科学失败”标签，本质上是一场由联邦科研行政官僚（NICHD）、国会保守派领导层（众议院教育委员会）与商业教材出版集团（麦格劳-希尔/《[[Open Court Reading]]》）组成的次政府铁三角（Subgovernment Iron Triangle）联手主导的政治经济清洗。
+> - **政商学铁三角的利益制造** [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]]、[[Ken Goodman|肯·古德曼]]（Goodman, 1999）与施特劳斯（Strauss, 2001）指出，全语言运动遭遇的所谓“科学失败”标签，本质上是一场由联邦科研行政官僚（[[National Institute of Child Health and Human Development|NICHD]]）、国会保守派领导层（众议院教育委员会）与商业教材出版集团（麦格劳-希尔/《[[Open Court Reading]]》）组成的次政府铁三角（Subgovernment Iron Triangle）联手主导的政治经济清洗。
 > - **反抗商业[[Disciplina and Doctrina|规训]]与教师去专业化** 全语言强调儿童文学的[[Open-Mindedness|开放性]]、情境化阅读与教师的教学专业自主裁量（[[Teacher Professional Agency]]），难以被打包为可批量采购、高额收费的商业练习册与脚本化教材；而次政府利益同盟借由推崇机械拼读，成功将全美数十亿美元的联邦公共教育预算转化为少数教科书寡头的垄断利润，全语言因而成为政商旋转门寻租与技术官僚规训的牺牲品。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–10)]]
 
 ---

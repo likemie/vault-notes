@@ -9,7 +9,7 @@ title: "Argument_Wrigley_2018_BERJ"
 argument_key: "Argument_Wrigley_2018_BERJ"
 argument_display_title: "The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -55,6 +55,7 @@ related_concepts:
 related_theories:
   - "[[Critical Realism]]"
   - "[[Realist Evaluation]]"
+  - "[[Pluralism]]"
   - "[[Theory of Mind]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -107,7 +108,7 @@ citation_aliases:
 > [!concept-lens]- 阅读透镜
 > - **对象** 证据本位教学（Evidence-Based Teaching）的方法论内核，尤其是作为其金标准的 [[Randomised Controlled Trials\|RCT]]、[[Meta-analysis\|元分析]]以及 [[Meta-meta-analysis\|元-元分析]]。
 > - **张力** 统计平均值追求的“客观、普适、去情境”的量化规则性，与教育实践作为“开放系统”固有的递归性、符号意义交互性以及人类意志主体性之间的根本张力。
-> - **贡献** 借助 [[Critical Realism\|批判实在论]]（Critical Realism）的分层 [[Ontology\|本体论]]（Ontology），解构了 EBE 统计聚合的三级失真机制；剖析了“新起点（Fresh Start）”等关键项目，揭示了政治压力下的“糟糕 [[Random Assignment\|随机分配]]”幻象；提出了以“[[Realist Evaluation\|实在论综合]]（Realist Synthesis）”与“方法论多元主义”作为重建教师专业反思能力的替代方案。
+> - **贡献** 借助 [[Critical Realism\|批判实在论]]（Critical Realism）的分层 [[Ontology\|本体论]]（Ontology），解构了 EBE 统计聚合的三级失真机制；剖析了“新起点（Fresh Start）”等关键项目，揭示了政治压力下的“糟糕 [[Random Assignment\|随机分配]]”幻象；提出了以“[[Realist Evaluation\|实在论综合]]（Realist Synthesis）”与“方法论[[Pluralism|多元主义]]”作为重建教师专业反思能力的替代方案。
 
 ---
 
@@ -256,7 +257,7 @@ citation_aliases:
 
 ### 论证步骤五：方法论多元主义与替代方案
 
-> [!claim] 必须跳出扁平[[Empiricism\|经验主义]]，转向方法论多元主义与[[Realist Evaluation\|实在论综合]]
+> [!claim] 必须跳出扁平[[Empiricism\|经验主义]]，转向方法论[[Pluralism|多元主义]]与[[Realist Evaluation\|实在论综合]]
 > 真正的教育改善不能依赖单调的均值表，而必须承认教育是包含多层分层（治理-学校文化-课堂-个体）的开放系统，通过多元方法探究复杂的因果机制与 [[Emergence\|涌现]]结果。
 
 > [!pathways] 走向“实在论综合”与多元改进路径

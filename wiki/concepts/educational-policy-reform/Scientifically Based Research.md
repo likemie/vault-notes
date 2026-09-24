@@ -9,7 +9,7 @@ aliases:
 summary: "由 2001 年美国《不让一个孩子掉队法》（NCLB）与 2002 年《教育科学改革法》（ESRA）确立的联邦法定证据准入标准，强调运用严谨、系统与客观的实证程序（优先青睐实验与准实验设计）获取教育有效知识，后因缺乏操作化分级及对原则与评估的混淆，在 2015 年 ESSA 中被四级循证标准替代"
 type: concept
 domain: "educational-policy-reform"
-related_count: 44
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -51,6 +51,7 @@ related_persons:
   - "[[Robert Slavin]]"
   - "[[Zewelanji N. Serpell]]"
   - "[[Keith Morrison]]"
+  - "[[G. Reid Lyon]]"
 related_facts:
   - "[[Reading Excellence Act]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -61,6 +62,9 @@ related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[Investing in Innovation Program]]"
   - "[[Education Innovation and Research]]"
+  - "[[National Institute of Child Health and Human Development]]"
+  - "[[National Reading Panel]]"
+  - "[[International Reading Association]]"
   - "[[Foundations for Evidence-Based Policymaking Act of 2018]]"
 related_arguments:
   - "[[Argument_Slavin_2002_ER]]"
@@ -198,14 +202,14 @@ updated: 2026-09-24
 > 探讨法定科学证据标准如何超越纯技术属性，成为行政官僚、立法领导与商业出版集团结成次政府铁三角、排斥异质学术[[Paradigm|范式]]并进行利益再生产的制度化工具。
 
 > [!claim] [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]]
-> **次政府政商学同盟对科学标准的排他性建构** 杰奎琳·埃德蒙森（Jacqueline Edmondson, 2005）深入考察 1998 年《[[Reading Excellence Act|卓越阅读法案]]》与后续 NCLB 的立法机制指出，法定“科学本位研究”并非中立的科学演进结果，而是由国家行政官僚（NICHD 里德·里昂）、国会专委会核心领导（比尔·古德林）与商业出版财团（麦格劳-希尔等）结成的次政府利益同盟共同建构的产物。该同盟通过官方挑选的同质化专家委员会（NRC 与 NRP）制造排他性的官方共识，将特定实证干预范式上升为法律规范，系统性排斥质性、行动与社会文化研究，并在法案资助中实现定向商业利益输送（Strauss, 2001; Metcalf, 2002）。因此，科学证据标准从根本上是负载权威价值观与政商利益的社会建构。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–11)]]
+> **次政府政商学同盟对科学标准的排他性建构** 杰奎琳·埃德蒙森（Jacqueline Edmondson, 2005）深入考察 1998 年《[[Reading Excellence Act|卓越阅读法案]]》与后续 NCLB 的立法机制指出，法定“科学本位研究”并非中立的科学演进结果，而是由国家行政官僚（[[National Institute of Child Health and Human Development|NICHD]] [[G. Reid Lyon|里德·里昂]]）、国会专委会核心领导（比尔·古德林）与商业出版财团（麦格劳-希尔等）结成的次政府利益同盟共同建构的产物。该同盟通过官方挑选的同质化专家委员会（NRC 与 [[National Reading Panel|NRP]]）制造排他性的官方共识，将特定实证干预范式上升为法律规范，系统性排斥质性、行动与社会文化研究，并在法案资助中实现定向商业利益输送（Strauss, 2001; Metcalf, 2002）。因此，科学证据标准从根本上是负载权威价值观与政商利益的社会建构。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–11)]]
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1998 年 — 法定渊源与立法博弈** 1998 年《[[Reading Excellence Act|卓越阅读法案]]》（REA）首次在联邦成文法中对阅读与“科学本位阅读研究”（SBRR）做出法定界定；众议院初版曾试图推行“可靠且可复制的研究”，后在参议院经国际阅读协会游说折衷确立为 SBRR，为后续 [[No Child Left Behind Act 2001|NCLB]] 的通盘移植奠定了法律文本模板。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4–5, 7)]]
+> - **1998 年 — 法定渊源与立法博弈** 1998 年《[[Reading Excellence Act|卓越阅读法案]]》（REA）首次在联邦成文法中对阅读与“科学本位阅读研究”（SBRR）做出法定界定；众议院初版曾试图推行“可靠且可复制的研究”，后在参议院经[[International Reading Association|国际阅读协会]]游说折衷确立为 SBRR，为后续 [[No Child Left Behind Act 2001|NCLB]] 的通盘移植奠定了法律文本模板。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4–5, 7)]]
 > - **2001 年 — 联邦法定义务全面确立** 联邦签署《不让一个孩子掉队法》（NCLB），全文 110 次写入“科学本位研究”（SBR），首次将[[Positivism|实证主义]]方法学规范确立为联邦法定义务。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 16)]]
 > - **2002 年 — 独立技术支撑平台设立** 联邦颁布《教育科学改革法》（ESRA），设立独立的[[Institute of Education Sciences|教育科学研究院]]（IES）与证据清理平台 [[What Works Clearinghouse|WWC]]，旨在为 SBR 提供审核技术支撑；Slavin 发表莱特兄弟类比，指出概念[[Operationalization|操作化]]缺陷。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 18–19)]]
 > - **2010 年 — 资助梯度试点推行** 奥巴马政府设立[[Investing in Innovation Program|创新投资项目]]（i3），首次在联邦资助中尝试推行按证据确定资助额度的三级梯度模型。
@@ -228,7 +232,7 @@ updated: 2026-09-24
 > > 争论 SBR 标准究属客观科学演进，抑或政商集团垄断资源与话语的工具。
 > >
 > > - **国家管理与行政官僚立场（Lyon, 1997; Goodling, 1997）** 将国家资助的量化医学[[Experimental Research|实验研究]]包装为唯一的科学定论，声称直接且系统的语音拼读教学是唯一经验证的科学方案。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 8)]]
-> > - **批判性政策[[Analytical Stance|分析立场]]（Strauss, 2001; [[Argument_Edmondson_2005_EPAA|Edmondson, 2005]]）** 尖锐质询 SBR 背后行政官僚（NICHD）、国会专门委员会与商业教材巨头（麦格劳-希尔）结成的次政府铁三角利益同盟，指出其借由官方专家委员会垄断科学共识，将特定意识形态偏好包装为客观规范，剥夺了公众学术审议权并将纳税人公帑导向特定同盟企业。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–10)]]
+> > - **批判性政策[[Analytical Stance|分析立场]]（Strauss, 2001; [[Argument_Edmondson_2005_EPAA|Edmondson, 2005]]）** 尖锐质询 SBR 背后行政官僚（[[National Institute of Child Health and Human Development|NICHD]]）、国会专门委员会与商业教材巨头（麦格劳-希尔）结成的次政府铁三角利益同盟，指出其借由官方专家委员会垄断科学共识，将特定意识形态偏好包装为客观规范，剥夺了公众学术审议权并将纳税人公帑导向特定同盟企业。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–10)]]
 
 ---
 

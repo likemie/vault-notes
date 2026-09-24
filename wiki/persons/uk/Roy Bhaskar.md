@@ -7,7 +7,7 @@ summary: "英国哲学家，批判实在论创始人，为教育研究在实证�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -34,6 +34,7 @@ related_concepts:
 related_theories:
   - "[[Critical Realism]]"
   - "[[Realist Evaluation]]"
+  - "[[Pluralism]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Roy Bhaskar
@@ -126,7 +127,7 @@ updated: 2026-09-17
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]
 > - [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]] — 将巴斯卡的开放系统和因果机制概念应用于[[Evidence-Based Education\|证据本位教育]]，剖析 [[Education Endowment Foundation\|EEF]] 评估案例中的简单民间科学观。
-> - [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018]] — 运用批判实在论的分层本体论解构循证教学中 RCT 的实验神话以及元分析对因果机制的遮蔽，并主张以基于实在论的多元主义代替单一排行。
+> - [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018]] — 运用批判实在论的分层本体论解构循证教学中 RCT 的实验神话以及元分析对因果机制的遮蔽，并主张以基于实在论的[[Pluralism|多元主义]]代替单一排行。
 
 ---
 

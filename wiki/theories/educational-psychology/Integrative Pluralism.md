@@ -6,7 +6,7 @@ aliases:
 summary: "一种承认认知发生在个体、个体-交互及活动系统等多个层级，并主张通过建立不同层级的局部模型进行因果跨层协作，以取代寻找大一统理论的理论范式。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Hypothesis]]"
 related_theories:
+  - "[[Pluralism]]"
   - "[[Situative Perspective]]"
 related_methods:
   - "[[Accounts]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Integrative Pluralism
@@ -62,7 +63,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 整合的多元主义（Integrative Pluralism）是一种旨在化解学科[[Paradigm Wars\|范式战争]]的元[[Theoretical Perspective\|理论视角]]。它承认复杂的现象（如认知）可以在多个聚合层级（levels of aggregation）上同时存在并被独立建模。它主张彻底放弃寻找单一的“大一统理论（grand unifying theory）”，转而承认各理论[[Paradigm\|范式]]在其特定层级上的合法性，并通过在不同层级模型之间建立“因果解释链条”来推进科学理解。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 480)]]
+> 整合的[[Pluralism|多元主义]]（Integrative Pluralism）是一种旨在化解学科[[Paradigm Wars\|范式战争]]的元[[Theoretical Perspective\|理论视角]]。它承认复杂的现象（如认知）可以在多个聚合层级（levels of aggregation）上同时存在并被独立建模。它主张彻底放弃寻找单一的“大一统理论（grand unifying theory）”，转而承认各理论[[Paradigm\|范式]]在其特定层级上的合法性，并通过在不同层级模型之间建立“因果解释链条”来推进科学理解。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 480)]]
 
 > [!citation-card]- 关键表述
 > 鉴于[[Epistemic Cognition\|认识论认知]]现被视为发生于极其广泛的情境之中，以及关于其如何发生的各种不同视角，对这些无数情境中发现的整合，理应成为下个世纪研究的核心焦点。进展取决于对当前研究趋势的拓展，显而易见，要在多重分析层级上整合理论解释，必须对这些层级本身有清晰的阐述。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 480)]]
@@ -96,7 +97,7 @@ updated: 2026-09-22
 > [!proposition-chain] 核心命题二｜整合的本质不是相对主义的混搭，而是跨层级的因果机制缝合。
 > - **前提一** 如果只是承认多元，容易滑向“什么都行（anything goes）”的相对主义或大杂烩。
 > - **前提二** 真正的整合需要清晰地描绘出层级之间的制约（constraints）与生成（[[Emergence]]）关系。
-> - **推导** 在教育研究中，整合多元主义要求研究者探明：宏观的课堂制度与认识论氛围（层级三）是如何结构化地限制了学生小组对话的可能性（层级二），进而这种特定的对话模式又是如何重塑了个体内在的认知资源提取路径（层级一）。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
+> - **推导** 在教育研究中，整合[[Pluralism|多元主义]]要求研究者探明：宏观的课堂制度与认识论氛围（层级三）是如何结构化地限制了学生小组对话的可能性（层级二），进而这种特定的对话模式又是如何重塑了个体内在的认知资源提取路径（层级一）。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
 
 > [!mechanism-map]- 多层级整合机制图
 > ```mermaid
@@ -127,14 +128,14 @@ updated: 2026-09-22
 
 > [!theory-boundary] 适用边界
 > - **适合解释** 跨越微观与宏观的复杂社会-认知现象（如课堂学习、科学共同体的[[Knowledge Production\|知识生产]]、公众对[[Socioscientific Issues\|社会科学议题]]的信任危机）。
-> - **常见误用** 极易被新手误读为“折中主义（Eclecticism）”或“相对主义”。整合多元主义要求严格的因果链条论证，而不是在论文的讨论部分把所有理论堆砌在一起说“都有道理”。
+> - **常见误用** 极易被新手误读为“折中主义（Eclecticism）”或“相对主义”。整合[[Pluralism|多元主义]]要求严格的因果链条论证，而不是在论文的讨论部分把所有理论堆砌在一起说“都有道理”。
 
 ---
 
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **2003 — 生物学复杂系统的起源** 哲学家 Sandra Mitchell 在《Biological Complexity and Integrative Pluralism》一书中首次提出，用于解决生物学中由于系统复杂性导致的多重局部模型冲突问题。
+> - **2003 — 生物学复杂系统的起源** 哲学家 Sandra Mitchell 在《Biological Complexity and Integrative [[Pluralism]]》一书中首次提出，用于解决生物学中由于系统复杂性导致的多重局部模型冲突问题。
 > - **2015 — 引入学习科学** 学习科学先驱 James Greeno 在回顾领域发展时，呼吁借用此视角来解决教育学内部认知派与情境派的长期分裂。
 > - **2016 — [[Epistemic Cognition\|认识论认知]]领域的[[Paradigm\|范式]]奠基** [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] 正式将该理论引入认识论认知研究，将其作为终结该领域“方法论危机”和“发展轨迹合法性危机”的唯一出路。
 
@@ -147,7 +148,7 @@ updated: 2026-09-22
 > > [!axis] 整合的实操性危机：如何真正融合不同的[[Epistemology\|认识论假设]]？
 > > 各方对跨层级整合在方法论上是否具有实操性存在分歧。
 > >
-> > - **乐观的多元主义者** 认为只要采用[[Mixed Methods Research\|混合方法]]（如视频观察+事后认知访谈），就能同时锁定不同层级的数据。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
+> > - **乐观的[[Pluralism|多元主义]]者** 认为只要采用[[Mixed Methods Research\|混合方法]]（如视频观察+事后认知访谈），就能同时锁定不同层级的数据。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
 > > - **[[Paradigm\|范式]]不可[[Commensuration\|通约]]论者（[[Incommensurability]]）** 警告，不同层级的测量方法底层预设了完全对立的[[Ontology\|本体论假设]]。强行将“关注隐性实践的[[Discourse Analysis\|话语分析]]”与“[[Hypothesis\|假设]]内部信念存在的自陈[[Questionnaire\|问卷]]”缝合，极易在论文中产生严重的逻辑撕裂。
 
 ---
@@ -155,4 +156,4 @@ updated: 2026-09-22
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] — 系统性回顾了[[Epistemic Cognition\|认识论认知]]的四大断层，正式倡导整合的多元主义，指出必须同时考察个体、互动与活动系统三个层级。
+> - [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] — 系统性回顾了[[Epistemic Cognition\|认识论认知]]的四大断层，正式倡导整合的[[Pluralism|多元主义]]，指出必须同时考察个体、互动与活动系统三个层级。

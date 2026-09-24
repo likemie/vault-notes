@@ -57,6 +57,7 @@ related_concepts:
   - "[[Epistemic Practices]]"
   - "[[Causality]]"
 related_theories:
+  - "[[Pluralism]]"
   - "[[Reflective Judgment Model]]"
   - "[[AIR Model of Epistemic Cognition]]"
   - "[[Situative Perspective]]"
@@ -96,7 +97,7 @@ title: "Argument_Greene_2018_JEP"
 argument_key: "Argument_Greene_2018_JEP"
 argument_display_title: "A meta-analytic review of the relationship between epistemic cognition and academic achievement"
 argument_kind: "journal-article"
-argument_related_count: 64
+argument_related_count: 65
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -129,7 +130,7 @@ issuing_organization: ""
 
 > [!quad-grid] [[Epistemic Cognition\|认识论认知]]（[[Epistemic Cognition]]）的四大类理论模型
 > - **发展模型 (Developmental Models)**
->   发端于 Perry (1970)。认为认识论认知遵循阶段性演进：从**绝对主义**（知识简单确定且由权威赋予）、经历**多元主义**（知识皆为主观意见），最终走向**评价主义**（知识是情境建构的，需要基于证据评估）。代表模型包括 Kuhn (1991) 的论证发展模型，以及 King & Kitchener (1994) 的[[Reflective Judgment Model\|反思性判断模型]]。
+>   发端于 Perry (1970)。认为认识论认知遵循阶段性演进：从**绝对主义**（知识简单确定且由权威赋予）、经历**[[Pluralism|多元主义]]**（知识皆为主观意见），最终走向**评价主义**（知识是情境建构的，需要基于证据评估）。代表模型包括 Kuhn (1991) 的论证发展模型，以及 King & Kitchener (1994) 的[[Reflective Judgment Model\|反思性判断模型]]。
 > - **多维模型 (Multidimensional Models)**
 >   发端于 Schommer (1990)。认为[[Epistemology\|认识论]]是由若干相对独立的“信念维度”组成，而非整体式的阶段。[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 将其经典化，划分为**知识的性质**（简单性、确定性）与**认识的性质（[[Source of Knowledge\|知识的来源]]、知识的证成）**两大核心簇。
 > - **哲学驱动模型 (Philosophically Driven Models)**
@@ -241,7 +242,7 @@ issuing_organization: ""
 > |---|---|
 > | **[[Development of Knowledge\|知识的发展]] (Development of knowledge)** | 认识到知识是不断演化和发展的。 |
 > | **一般认识论认知 (General epistemic cognition)** | 将多维度的不同认识论信念加总求和的整体粗略得分。 |
-> | **Kuhn 的发展层次 (Kuhn's levels)** | 测试学生所处阶段（绝对主义、多元主义、评价主义）。 |
+> | **Kuhn 的发展层次 (Kuhn's levels)** | 测试学生所处阶段（绝对主义、[[Pluralism\|多元主义]]、评价主义）。 |
 > | **知识的证成 (Justification of knowledge)** | 关注如何评估知识主张以及何种证据能使其成立。 |
 > | **多源证成 (Multiple justification)** | 认为需要整合多个来源的证据来交叉验证知识。 |
 > | **学习速度 (Quick learning)** | 认为学习要么很快发生，要么永远学不会（归为智力内隐理论）。 |

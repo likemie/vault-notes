@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -48,6 +48,7 @@ related_facts:
   - "[[Reading Excellence Act]]"
   - "[[Committee for the Accreditation of Teacher Education]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[National Institute of Child Health and Human Development]]"
   - "[[National Reading Panel]]"
   - "[[House Committee on Education and the Workforce]]"
 related_arguments:
@@ -131,7 +132,7 @@ updated: 2026-09-24
 > > - **学科自主权的重大让渡** [[Whole Language|全语言]]理论先驱[[Ken Goodman|肯·古德曼]]（Ken Goodman, 1999）与丹尼·泰勒（Denny Taylor, 1998）指出，IRA 高层为了争取联邦师资培训专项补贴，在原则上认可了“联邦立法有权界定阅读学科内涵与科研方法标准”这一危险前提，实质上出卖了专业共同体的学术自决权，为后续小布什政府 [[No Child Left Behind Act 2001|NCLB]] 法案以法律手段全面剿灭全语言、强推脚本拼读埋下了祸根。
 >
 > > [!axis] 面对次政府强权的绥靖主义争议
-> > 协会被指责在面对由 NICHD 官僚与商业出版巨头构成的次政府利益同盟时采取了妥协绥靖立场，未能坚决捍卫以儿童为中心与社会文化取向的[[Qualitative Research|质性研究]]合法性，导致[[Positivism|实证主义]]与[[Technical Rationality|技术理性]]彻底反客为主。
+> > 协会被指责在面对由 [[National Institute of Child Health and Human Development|NICHD]] 官僚与商业出版巨头构成的次政府利益同盟时采取了妥协绥靖立场，未能坚决捍卫以儿童为中心与社会文化取向的[[Qualitative Research|质性研究]]合法性，导致[[Positivism|实证主义]]与[[Technical Rationality|技术理性]]彻底反客为主。
 
 > [!citation-card] 肯·古德曼对行业协会秘密妥协的批评（Ken Goodman, 1999）
 > 当专业协会的高层领导人在没有经过全体会员民主充分授权的情况下，擅自在闭门密室中就阅读的法定定义与政府展开交易时，他们不仅没有保护我们的专业，反而将学科的灵魂抵押给了官僚与政治权力。我们获得的微薄联邦师资拨款，其代价是全美教师永久丧失了对教学法的自主裁量权。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 7)]]

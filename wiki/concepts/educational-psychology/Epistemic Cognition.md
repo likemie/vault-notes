@@ -5,7 +5,7 @@ aliases:
 summary: "涵盖个体关于知识和认知过程的所有显性或隐性信念与认知实践活动的总括性术语。是理解学习过程、批判性思维与情境适应的核心变量。"
 type: concept
 domain: "educational-psychology"
-related_count: 75
+related_count: 76
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Evaluativist]]"
 related_theories:
+  - "[[Pluralism]]"
   - "[[Reflective Judgment Model]]"
   - "[[AIR Model of Epistemic Cognition]]"
   - "[[Situative Perspective]]"
@@ -95,7 +96,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-09-23
+updated: 2026-09-24
 ---
 # Epistemic Cognition
 （[[Epistemology|认识论]]认知）
@@ -128,7 +129,7 @@ updated: 2026-09-23
 
 > [!taxonomy] [[Epistemology\|认识论]]认知的五大理论流派
 > 综合 [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] 的历史梳理与当代最新进展，认识论认知的理论演进可划分为五种代表性[[Paradigm\|范式]]：
-> - **发展模型（Developmental Models）** 发端于 Perry (1970)。该流派认为认识论认知遵循严格的宏观阶段性演进：从早期的绝对主义（Absolutism，知识由权威赋予且简单确定），经历多元主义（Multiplism，知识皆为主观意见），最终走向成熟的评价主义（Evaluatism，知识是情境建构的，需基于证据进行客观评估）。其代表模型还包括 Kuhn (1991) 的论证发展模型，以及 King & Kitchener (1994) 的[[Reflective Judgment Model\|反思性判断模型]]。
+> - **发展模型（Developmental Models）** 发端于 Perry (1970)。该流派认为认识论认知遵循严格的宏观阶段性演进：从早期的绝对主义（Absolutism，知识由权威赋予且简单确定），经历[[Pluralism|多元主义]]（Multiplism，知识皆为主观意见），最终走向成熟的评价主义（Evaluatism，知识是情境建构的，需基于证据进行客观评估）。其代表模型还包括 Kuhn (1991) 的论证发展模型，以及 King & Kitchener (1994) 的[[Reflective Judgment Model\|反思性判断模型]]。
 > - **多维模型（Multidimensional Models）** 以 Schommer (1990) 为开创者。该流派彻底打破了单向线性发展的[[Hypothesis\|假设]]，认为认识论是由若干相对独立、不必同步发展的信念维度组成的系统。[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 进一步将其经典化，划分为知识的性质（Nature of knowledge，如简单性、确定性）与认识的性质（Nature of knowing，如[[Source of Knowledge\|知识的来源]]、知识的证成）两大核心[[Construct\|构念]]簇。
 > - **哲学驱动模型（Philosophically Driven Models）** 旨在解决早期心理学模型缺乏分析认识论哲学根基的根本缺陷。以 [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] 及 Chinn, Rinehart & Buckland (2014) 提出的 [[AIR Model of Epistemic Cognition\|AIR]] 框架为代表，该流派将认识论认知拆解为微观网络：包含探究目标的[[Epistemic Aims\|认识论目标]]（Epistemic aims）、评估证据与模型的[[Epistemic Ideals\|认识论理想]]（Epistemic ideals）以及实现这些目标的[[Reliable Epistemic Processes\|可靠认识论过程]]（Reliable processes）。[[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] 进一步将其拓展至科学论证与实践评估，指出认识论认知并非脱域的逻辑运算，而是与学科实体知识、元[[Epistemological Understanding\|认识论理解]]及共同体[[Epistemic Agency\|认识主体性]]深度纠缠。
 > - **学科/领域驱动模型（Discipline-Driven Models）** 受[[Situative Perspective\|情境认知]]（Situated cognition）理论深度启发，强调认识论并不是跨领域的稳定特质，而是高度依赖特定任务情境的。例如，Elby & Hammer (2001) 提出的[[Epistemic Resources\|认识论资源]]模型明确指出，学生在分析历史史料与解决物理方程时，会瞬间动态激活完全不同的认识论预设；而 Muis et al. (2006) 则进一步系统化了这种[[Domain Specificity\|领域特异性]]的理论框架。

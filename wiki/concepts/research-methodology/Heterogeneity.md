@@ -6,7 +6,7 @@ aliases:
 summary: "跨研究或同一群体内部超出抽样误差的系统性变异；在量化元分析中表征效应量分布发散并指导调节变量分析，在复杂系统与混合方法中揭示均值遮蔽的质性动因多样性，并在教学实验中解构干预构念子维度与学习者认知背景的异质效应。"
 type: concept
 domain: "research-methodology"
-related_count: 65
+related_count: 66
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
 related_theories:
   - "[[Complexity Theory]]"
+  - "[[Pluralism]]"
   - "[[Realist Evaluation]]"
   - "[[Critical Realism]]"
   - "[[Cognitive Load Theory]]"
@@ -90,7 +91,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-09-23
+updated: 2026-09-24
 ---
 
 # Heterogeneity
@@ -104,7 +105,7 @@ updated: 2026-09-23
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念涵盖统计层面的效应量跨研究变异、解释层面的个体行动动因分化，以及本体层面的复杂开放系统多元共生。
-> - **用途** 在量化综合中评估合并研究的合理性并指导[[Moderator Analysis\|调节变量分析]]；在混合方法中运用质性数据透视统计均值背后的微观因果机制；在复杂系统研究中确立方法论与[[Paradigm\|范式]]多元主义。
+> - **用途** 在量化综合中评估合并研究的合理性并指导[[Moderator Analysis\|调节变量分析]]；在混合方法中运用质性数据透视统计均值背后的微观因果机制；在复杂系统研究中确立方法论与[[Paradigm\|范式]][[Pluralism|多元主义]]。
 > - **边界** 异质性不应被视为需要通过数学手段彻底“清洗”的统计噪声，而应被视为深入探索因果机制、边界条件与行动者主观意义的核心线索。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, p. 13)]]
 
 > [!citation-card] 统计均值遮蔽下的质性解释异质性
@@ -222,7 +223,7 @@ updated: 2026-09-23
 > - **1970s–1980s — [[Meta-analysis\|元分析]]确立与初衷警示** 格拉斯（[[Gene Glass]]）开创元分析方法，但明确警告其最终呈现“绝不应只是一个冰冷的平均数，而应是一张展示效果异质性与变异模式的分布图”。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, p. 9)]]
 > - **1990s — [[Grand Theory\|宏大理论]]批判与医学统计反思** 莱德（Layder, 1994）与默顿（Merton）等批判宏大叙事无视世界的流动与异质性；流行病学家 Feinstein（1995）指斥脱离临床异质性的元分析为“21 世纪统计炼金术”。
 > - **2000s — 测量学批评与[[Realist Evaluation\|实在论综合]]** Coe（2002）指出将不同测量工具的[[Effect Size\|效应量]]强行平均在数学上缺乏意义；Pawson（2006）确立“背景-机制-结果”的[[Realist Evaluation\|实在论评估]][[Paradigm\|范式]]，主张将异质性作为理论生成源泉。
-> - **2010s — [[Mixed Methods Research\|混合方法]]与复杂性前沿转向** Cohen, Manion & Morrison（2011）系统论证混合方法如何以质性证据破解单一统计量掩盖的解释异质性，并确立[[Complexity Theory\|复杂性理论]]中“异质性是核心关切”的方法论多元主义原则。
+> - **2010s — [[Mixed Methods Research\|混合方法]]与复杂性前沿转向** Cohen, Manion & Morrison（2011）系统论证混合方法如何以质性证据破解单一统计量掩盖的解释异质性，并确立[[Complexity Theory\|复杂性理论]]中“异质性是核心关切”的方法论[[Pluralism|多元主义]]原则。
 > - **2022 — [[Epistemic Governance\|知识治理]]与多源异质性建构** [[OECD\|经合组织]]（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022]]）揭示教育知识生态中研究者、政策制定者与教师群体各具“内部异质性与外部异质性”，瓦解了线性单向推送模型；并在跨国元中介治理框架下，确立了将质性、量化及本土情境等多源异质数据纳入系统性综合的前沿方法学议程。
 > - **2023 — 教学[[Construct\|构念]]维度与微观认知异质性整合** [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 基于国际大规模测评与认知负荷实证证据，解构了[[Inquiry-Based Learning\|探究式教学]]的子维度异质性（动手实验促进表现 vs 盲目辩论损害表现）及学习者认知特征异质性（先前知识逆转效应、[[Executive Function\|执行功能]][[Inhibitory Control\|抑制控制]]），确立了教学干预与学习者特征的适资交互（ATI）边界。
 

@@ -8,7 +8,7 @@ aliases:
 summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动、适合目的与方法自由）。"
 type: concept
 domain: "educational-philosophy"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Research Ethics]]"
 related_theories:
+  - "[[Pluralism]]"
   - "[[Social Justice Theory]]"
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-09-18
+updated: 2026-09-24
 ---
 
 # Pragmatic Paradigm
@@ -169,7 +170,7 @@ updated: 2026-09-18
 ### 命题二（方法论层次）　实用主义研究范式以研究问题为中心并视方法为适合目的的工具
 
 > [!concept-lens] 方法论层次：[[Research Question\|研究问题]]驱动与方法选择自由
-> [[Mixed Methods Research\|混合方法研究]]学者随后将古典实用主义哲学[[Operationalization\|操作化]]为方法论[[Paradigm\|范式]]：放弃无休止的[[Paradigm Wars\|范式战争]]，以研究问题为最高准则，推行适应目的的方法多元主义。
+> [[Mixed Methods Research\|混合方法研究]]学者随后将古典实用主义哲学[[Operationalization\|操作化]]为方法论[[Paradigm\|范式]]：放弃无休止的[[Paradigm Wars\|范式战争]]，以研究问题为最高准则，推行适应目的的方法[[Pluralism|多元主义]]。
 
 > [!claim] [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch.1)]]
 > **方法选择的选择自由** 实用主义范式打破了单一形而上学体系的限制，研究者有自由选择最能满足研究问题需求的方法与技术。

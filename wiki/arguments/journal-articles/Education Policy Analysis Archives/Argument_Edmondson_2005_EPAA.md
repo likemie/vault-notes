@@ -32,6 +32,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Visual Data]]"
 related_theories:
+  - "[[Pluralism]]"
   - "[[Neocorporatism]]"
   - "[[Subgovernment Theory]]"
   - "[[Elite Theory]]"
@@ -41,13 +42,18 @@ related_methods:
   - "[[Documentary Analysis]]"
   - "[[Qualitative Research]]"
   - "[[Action Research]]"
+  - "[[Critical Policy Analysis]]"
 related_instruments: []
 related_persons:
+  - "[[G. Reid Lyon]]"
+  - "[[Patrick Shannon]]"
   - "[[Plato]]"
 related_facts:
   - "[[Reading Excellence Act]]"
   - "[[International Reading Association]]"
   - "[[House Committee on Education and the Workforce]]"
+  - "[[National Council of Teachers of English]]"
+  - "[[National Institute of Child Health and Human Development]]"
   - "[[Open Court Reading]]"
   - "[[National Reading Panel]]"
 related_arguments: []
@@ -63,9 +69,9 @@ title: "Argument_Edmondson_2005_EPAA"
 argument_key: "Argument_Edmondson_2005_EPAA"
 argument_display_title: "Policymaking in education: Understanding influences on the Reading Excellence Act"
 argument_kind: "journal-article"
-argument_related_count: 25
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 31
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Education Policy Analysis Archives"
 book_title: ""
@@ -83,7 +89,7 @@ issuing_organization: ""
 > 尽管学界持续呼吁语言与读写领域的教育者和科研人员积极参与国家政策制定，但教育工作者长期缺乏对政策生成深层动力与制度机制的战略性理解，在面对自上而下的法规时往往陷入政治无能感与消极应对的境地。面对美国 1998 年《[[Reading Excellence Act|卓越阅读法案]]》（Reading Excellence Act, REA）首次将特定阅读教学[[Paradigm|范式]]与科学本位实证标准强制写入联邦法律的制度转折，既有的公共政策制定理论究竟如何解释其中的立法动因与各方博弈？这些理论在阐明教育专业人员的角色时存在哪些盲区？教育工作者又该如何建构替代性的政策分析模型以走出被动附庸地位并重塑民主协商？
 
 > [!claim] 核心主张
-> 传统的多元主义、[[Neocorporatism|法团主义]]、[[Subgovernment Theory|次政府理论]]与[[Elite Theory|精英理论]]分别揭示了《卓越阅读法案》立法演进中群众动员受挫、专业协会闭门妥协、政商学铁三角垄断以及官方专家委员会合谋的权力图景，但均将教育者置于无能为力或合法性分裂的困境；唯有确立融合[[Critical Theory|批判理论]]与参与式民主的[[Critical Pluralism|批判性多元主义]]（Critical Pluralism）框架，统整功能主义、沟通性与批判性三类政策研究，依托地方学区合宪抵制、跨界公众广泛结盟与学术伦理正面交锋，教育者才能实现真正有原则的民主政治参与。
+> 传统的[[Pluralism|多元主义]]、[[Neocorporatism|法团主义]]、[[Subgovernment Theory|次政府理论]]与[[Elite Theory|精英理论]]分别揭示了《卓越阅读法案》立法演进中群众动员受挫、专业协会闭门妥协、政商学铁三角垄断以及官方专家委员会合谋的权力图景，但均将教育者置于无能为力或合法性分裂的困境；唯有确立融合[[Critical Theory|批判理论]]与参与式民主的[[Critical Pluralism|批判性多元主义]]（Critical Pluralism）框架，统整功能主义、沟通性与批判性三类政策研究，依托地方学区合宪抵制、跨界公众广泛结盟与学术伦理正面交锋，教育者才能实现真正有原则的民主政治参与。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 美国 1998 年《卓越阅读法案》（众议院 H.R. 2614 草案与参议院 P.L. 105-277 成文法案）的立法文本演进、国会听证会辩论记录、专业协会游说档案以及围绕[[Scientifically Based Research|科学本位研究]]（Scientifically Based Research, SBR）的规制机制。
@@ -99,7 +105,7 @@ issuing_organization: ""
 > [!row-contrast] 政策制定四种传统理论的特征与局限（Theodoulou & Cahn, 1995; p. 3）
 > | 理论流派 | 核心描述与理论渊源 | 在教育政策中的典型表现与局限 |
 > |:---|:---|:---|
-> | **多元主义（Pluralism）** | 主张公共政策是社会各群体相互竞争与博弈的产物。不同群体向政府施加压力以争取有利政策；与戴维·杜鲁门（David Truman, 1971）和罗伯特·达尔（Robert Dahl, 1967）的研究相联系。 | 预设多元群体平等参与，但忽略了基层教师在面对国家立法机器时语言资本与政治资源的严重匮乏。（pp. 3, 6） |
+> | **[[Pluralism\|多元主义]]（Pluralism）** | 主张公共政策是社会各群体相互竞争与博弈的产物。不同群体向政府施加压力以争取有利政策；与戴维·杜鲁门（David Truman, 1971）和罗伯特·达尔（Robert Dahl, 1967）的研究相联系。 | 预设多元群体平等参与，但忽略了基层教师在面对国家立法机器时语言资本与政治资源的严重匮乏。（pp. 3, 6） |
 > | **[[Elite Theory\|精英理论]]（Elite Theory）** | 主张政策由持有相似信念的小规模有影响力的领导集团制定。政策由权力精英（power elite）的偏好决定；与 C. 赖特·米尔斯（C. Wright Mills, 1956）、拉尔夫·米利班德（Ralph Miliband, 1969）以及戴维·亚克和拉里·古巴（Tyack & Cuban, 1995）的研究相关。 | 将政策视为少数政界与学术权威意志的单向投射，使普通教师和公众沦为被动执行者。（pp. 3, 9–10） |
 > | **[[Neocorporatism\|法团主义]]（Corporatism）** | 将政策制定解释为受利益集团影响的过程，这些利益集团成为决策和执行体系的有机组成部分，替政府管理社会；与菲利普·施密特（Philippe Schmitter, 1979）的研究联系最密。 | 大型专业组织通过闭门妥协换取立法成果，导致基层会员被代表和被出卖的信任断层。（pp. 3, 7） |
 > | **[[Subgovernment Theory\|次政府理论]]（Subgovernments）** | 强调政府分支部门与利益集团密切协同制定政策，由国会议员、行政官僚机构与行业利益集团结成联盟，围绕专门领域垄断政策制定；源自休·赫克洛（Hugh Heclo, 1978）的铁三角模型。 | 形成高度封闭的专业知识与资源垄断，将纳税人公帑导向特定同盟企业，剥夺公众民主审议权。（pp. 3, 8–9） |
@@ -131,7 +137,7 @@ issuing_organization: ""
 > | 样本层面 | 构成 |
 > |---|---|
 > | **立法文本** | 众议院 H.R. 2614 法案文本、参议院教育委员会审议修正案、第 105 届国会公法第 277 号（P.L. 105-277）。 |
-> | **机构声明** | 全美英语教师委员会（National Council of Teachers of English, NCTE）及联合专业组织联名政策声明、国际阅读协会（International Reading Association, IRA）官方游说通报。 |
+> | **机构声明** | [[National Council of Teachers of English\|全美英语教师委员会]]（National Council of Teachers of English, NCTE）及联合专业组织联名政策声明、国际阅读协会（International Reading Association, IRA）官方游说通报。 |
 > | **听证记录** | 1997 年众议院教育委员会听证会证词、比尔·古德林议员国会辩论发言及学者公开质询信。 |
 
 ---
@@ -166,9 +172,9 @@ issuing_organization: ""
 > - **排他性的科研门槛** 把合格研究限定在可靠且可复制的研究，规定只有大样本、实验对照设计的客观经验研究才属合规科学，为后续把资金排他性地导向实验心理学[[Paradigm|范式]]设立了前置法律门槛。
 
 > [!case] 案例分析：十万名教师联名抗议为何未能阻止国会强推法案（pp. 4, 6）
-> - **联合抗议与专业声明** 面对草案对教学专业性与学术研究的干涉，全美英语教师委员会（National Council of Teachers of English, NCTE）、国家研究委员会（National Research Council, NRC）相关学者以及全美语言与读写研究大会联合发起抗议，代表全美逾 10 万名教育工作者向国会议员寄送抗议信，明确指出国会不具备定义阅读科学的专业资格，不应强制推行单一拼读教学或人为限制科研学术范式。
+> - **联合抗议与专业声明** 面对草案对教学专业性与学术研究的干涉，[[National Council of Teachers of English|全美英语教师委员会]]（National Council of Teachers of English, NCTE）、国家研究委员会（National Research Council, NRC）相关学者以及全美语言与读写研究大会联合发起抗议，代表全美逾 10 万名教育工作者向国会议员寄送抗议信，明确指出国会不具备定义阅读科学的专业资格，不应强制推行单一拼读教学或人为限制科研学术范式。
 > - **立法机器的冷遇与逆向反弹** 众议院完全无视基层呼声，于 1997 年 12 月以口头表决方式迅速通过包含排他性定义的初版法案。[[International Reading Association|国际阅读协会]]（International Reading Association, IRA）政府关系联络员理查德·朗（Richard Long）证实，基层信件产生了意料之外的负面效果：立法者认为信件措辞激烈、指责议员伤害儿童，古德林议员亦向媒体抱怨遭到深夜电话骚扰；这些情绪化表达被国会视作既得利益团体的固步自封，反而坚定了强推立法的决心。（p. 6）
-> - **多元主义民主的现实困境** 多元主义民主理论（Dahl, 1967; Truman, 1971）预设各利益群体在政治市场中能平等发声，但现实中基层教师严重匮乏能够影响立法议程的制度性政治资本与游说渠道。
+> - **[[Pluralism|多元主义]]民主的现实困境** 传统多元主义民主理论（Pluralism; Dahl, 1967; Truman, 1971）预设各利益群体在政治市场中能平等发声，但现实中基层教师严重匮乏能够影响立法议程的制度性政治资本与游说渠道。
 
 #### 2. 专业协会高层通过秘密谈判促成措辞折衷，却牺牲了基层民主代表性
 
@@ -195,13 +201,13 @@ issuing_organization: ""
 ### 论证步骤二　政商学三方铁三角与精英学者垄断了阅读立法的话语权与商业利益
 
 > [!claim] 步骤二核心主张
-> 国家儿童健康与人类发展研究所（National Institute of Child Health and Human Development, NICHD）、国会教育委员会核心领导层与商业出版财团形成了封闭共生的铁三角同盟，借由国家专家委员会制造排他性的科学共识，将特定实证干预范式上升为法律规范，直接服务于政商集团的利益再生产。（pp. 8–10）
+> [[National Institute of Child Health and Human Development|国家儿童健康与人类发展研究所]]（National Institute of Child Health and Human Development, NICHD）、国会教育委员会核心领导层与商业出版财团形成了封闭共生的铁三角同盟，借由国家专家委员会制造排他性的科学共识，将特定实证干预范式上升为法律规范，直接服务于政商集团的利益再生产。（pp. 8–10）
 
 #### 1. 联邦官员、国会领导与商业出版商形成封闭同盟，将特定拼读教材推向垄断地位
 
 > [!theory-components] 《[[Reading Excellence Act|卓越阅读法案]]》次政府铁三角的三方支柱（pp. 8–9）
 > - **行政官僚中枢（NICHD）**
->   国家儿童健康与人类发展研究所（NICHD）儿童发展与行为分支负责人里德·里昂（G. Reid Lyon）拥有神经心理学博士背景并掌管联邦阅读科研经费分配。在 1997 年国会听证会上，里昂以医学与认知心理学权威自居，将受其资助的拼读研究包装为无可争议的科学定论，坚称直接且系统的拼读教学是唯一经验证的有效方法。
+>   国家儿童健康与人类发展研究所（NICHD）儿童发展与行为分支负责人[[G. Reid Lyon|里德·里昂]]（G. Reid Lyon）拥有神经心理学博士背景并掌管联邦阅读科研经费分配。在 1997 年国会听证会上，里昂以医学与认知心理学权威自居，将受其资助的拼读研究包装为无可争议的科学定论，坚称直接且系统的拼读教学是唯一经验证的有效方法。
 > - **立法领导层（国会教育委员会）**
 >   众议院教育与劳动力委员会主席比尔·古德林（Bill Goodling）全面采纳里昂的听证证词，在国会发言时几乎原封不动照搬里昂的字句，直接将其转化为法案条款与辩论讲稿。（p. 8）
 > - **商业出版巨头与保守派智库**
@@ -288,11 +294,12 @@ issuing_organization: ""
 > 许多教育者之所以在政策面前感到无所适从，是因为他们把政策误认为由技术官僚设计的、中立解决教育问题的科学蓝图。政治学者安妮·施耐德（Anne Schneider）与海伦·英格拉姆（Helen Ingram, 1997）一针见血地指出：任何公共政策从根本上都是关于人们应当如何共同生活的权威宣告，带着制定者对理想社会秩序的主观预设。为了看清政策的实质，必须将多种政策研究取向融会贯通。（p. 11）
 
 > [!dimension] 支撑批判性多元主义的三类政策研究（Shannon, 1991; pp. 11–12）
+> 批判读写教育学者[[Patrick Shannon|帕特里克·香农]]（Patrick Shannon, 1991）指出，政策研究存在三种不同取向，教育者唯有将其统整才能洞悉政策背后的权力运作：
 > - **功能主义政策研究（Functionalist Research）**
 >   关注政策在学校现场的操作过程与实际效果。回答法案落实之后，学生的真实表现如何、学校运转受到何种具体影响。
 > - **沟通性政策研究（Communicative Research）**
 >   运用质性调查与访谈，考察政策出台过程中的沟通与协商机制。还原不同行动者进入谈判桌时的动机、话语策略与利益妥协。（pp. 11–12）
-> - **批判性政策研究（Critical Policy Study）**
+> - **[[Critical Policy Analysis|批判性政策研究]]（Critical Policy Study）**
 >   将政策视为历史与政治产物。剖析法案背后所隐藏的权力关系、意识形态偏好，以及哪些群体被剥夺了发声机会。（p. 12）
 > - **三类研究的[[Epistemology|认识论]]统整**
 >   如果只做功能主义研究，教育者如同[[Plato|柏拉图]]洞穴中的囚徒只看见投影；唯有统整沟通性与批判性研究，才能明白技术标准的制定深植于政治博弈，从而破除对官方客观科学话语的技术迷信。
@@ -314,7 +321,7 @@ issuing_organization: ""
 > [!finding-cards] 核心发现
 > 1. **法案确立了联邦直接规制教学法与科研标准的立法先例** 《[[Reading Excellence Act|卓越阅读法案]]》开创了美国联邦成文法直接对学科概念（阅读）与学术证据（科学本位阅读研究）做出强制性法律界定的治理制度先例。（pp. 4–5）
 > 2. **传统参与模式导致基层严重失语与代表性断裂** 基层教师的群众抗议无法撼动立法机器，而专业组织高层的[[Neocorporatism|法团主义]]妥协虽调整了部分措辞，却造成了专业共同体内部的深层裂痕与认同危机。（pp. 6–7）
-> 3. **次政府同盟与专家垄断排斥了民主审议** NICHD、国会委员会核心领导与商业教材出版集团组成的铁三角紧密结盟，利用官方专家委员会垄断科学共识，将其他学术[[Paradigm|范式]]排斥出国家资助体系。（pp. 8–10）
+> 3. **次政府同盟与专家垄断排斥了民主审议** [[National Institute of Child Health and Human Development|NICHD]]、国会委员会核心领导与商业教材出版集团组成的铁三角紧密结盟，利用官方专家委员会垄断科学共识，将其他学术[[Paradigm|范式]]排斥出国家资助体系。（pp. 8–10）
 > 4. **[[Critical Pluralism|批判性多元主义]]为教育者赋权提供了理论与行动蓝图** 政策是承载权威价值的社会建构，教育者必须统合三类政策研究，通过学区本土抵制、多元跨界结盟与学术伦理对质赢回民主主体地位。（pp. 10–14）
 
 ---
@@ -334,7 +341,7 @@ issuing_organization: ""
 > [!citation-card] 次政府封闭同盟对公共学术审议的封锁
 > 联邦科研机构与美国企业界纯粹商业议程之间的紧密契合，迫使我们不得不质问：你们是否真的欢迎来自学术共同体尤其是广大研究者的挑战，以及你们的既定目标最终究竟符合谁的利益。（p. 9）
 >
-> *The dovetailing of [NICHD’s] work with the strictly business agenda of corporate America obligates us to question whether you really do welcome challenge from academic folks, not to mention the academic and research community, and if your goals are ultimately in their interest.*
+> *The dovetailing of [[National Institute of Child Health and Human Development|NICHD]]’s] work with the strictly business agenda of corporate America obligates us to question whether you really do welcome challenge from academic folks, not to mention the academic and research community, and if your goals are ultimately in their interest.*
 
 ---
 

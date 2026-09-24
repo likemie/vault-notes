@@ -9,7 +9,7 @@ aliases:
 summary: "学习科学与认识论认知中的核心构念，指个体对特定知识主张采取的差异化态度或姿态（如坚信、怀疑、暂且接受、作为工作假设）；在人机协同探究中深化为根据技术中介形态与任务需求动态调适的主体反思姿态。"
 type: concept
 domain: "educational-psychology"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -45,7 +45,8 @@ related_concepts:
   - "[[Variable]]"
   - "[[Literature Search]]"
   - "[[Primary and Secondary Documents]]"
-related_theories: []
+related_theories:
+  - "[[Pluralism]]"
 related_methods:
   - "[[Chain-of-Thought Prompting]]"
   - "[[Role-playing]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Epistemic Stances
@@ -165,7 +166,7 @@ updated: 2026-09-22
 ### 命题三　双轨干预支架矩阵有效促成认识立场向评价主义演进并规避认知卸载退化
 
 > [!concept-lens] 双轨支架与认识立场转化机制
-> 探讨如何通过技术侧提示词工程与教学侧同行评议的双轨协同，引导学习者由绝对主义/多元主义向评价主义立场跨越。
+> 探讨如何通过技术侧提示词工程与教学侧同行评议的双轨协同，引导学习者由绝对主义/[[Pluralism|多元主义]]向评价主义立场跨越。
 
 > [!claim] Wu et al.
 > **双轨支架驱动认识立场演进** 依靠单纯放任学生与大模型交互极易诱发绝对论顺从，必须构建双轨支架干预矩阵：

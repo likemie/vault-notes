@@ -9,7 +9,7 @@ aliases:
 summary: "贯穿研究规划与循证治理的核心方法论与认识论原则；主张研究设计、方法选择、效应量解释与证据评价必须由具体的研究与实践目的决定，而非受制于研究者个人偏好或去情境化的单一证据等级制"
 type: concept
 domain: "research-methodology"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Causality]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
+  - "[[Pluralism]]"
 related_methods:
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-19
-updated: 2026-09-18
+updated: 2026-09-24
 ---
 
 # Fitness for Purpose
@@ -222,7 +223,7 @@ updated: 2026-09-18
 
 > [!debates] 学术争议
 >
-> > [!axis] 黄金标准等级制 vs 目的适配多元主义
+> > [!axis] 黄金标准等级制 vs 目的适配[[Pluralism|多元主义]]
 > > 证据评级应当遵循统一硬性等级（如 [[Randomised Controlled Trials\|RCT]] 垄断塔尖），还是依据实践问题类型采取平权适配。
 > >
 > > - **[[Pragmatism in China\|实验主义]]与[[What Works Movement\|什么有效运动]]（What Works / [[Education Endowment Foundation\|EEF]]）** 主张[[Causality\|因果推断]]必须依赖严格随机试验与[[Meta-analysis\|元分析]]排行榜。

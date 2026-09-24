@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[National Institute of Child Health and Human Development]]"
   - "[[Institute of Education Sciences]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Lightning Squad]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Read, Write, & Type
@@ -64,7 +65,7 @@ updated: 2026-09-17
 > **Read, Write, & Type（读写与打字，[[Document\|文献]]中亦写作 Read, Write, and Type!）**是由美国会说话的手指软件公司（Talking Fingers）让妮特·赫隆（Jeannine Herron）研发、佛罗里达州立大学著名阅读心理学者约瑟夫·托格森（Joseph K. Torgesen）学术团队开展因果评估的小学一年级早期读写技术辅助小组干预方案；其核心目标是通过将 40 个英语音素与计算机键盘触控按键、语音合成及打字动画相结合，由专任教师指导高危学困儿童在 1:3 小组中开展多感官互动输入训练，实现音素[[Decodification\|解码]]与文字书写的自动化。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
-> - **立项时间与周期** 软件原型于 1990 年代中期推出，经美国联邦 NICHD 与[[Institute of Education Sciences\|教育科学研究院]]持续资助田野试验，被托格森团队纳入长期多中心比较 [[Randomised Controlled Trials\|RCT]] 评估。
+> - **立项时间与周期** 软件原型于 1990 年代中期推出，经美国联邦 [[National Institute of Child Health and Human Development|NICHD]] 与[[Institute of Education Sciences\|教育科学研究院]]持续资助田野试验，被托格森团队纳入长期多中心比较 [[Randomised Controlled Trials\|RCT]] 评估。
 > - **发起方与资助机制** Talking Fingers 联合研发，联邦儿童健康与人类发育研究所（NICHD）提供技术评估科研资助。
 > - **覆盖范围与对象** 小学一年级在语音解码与早期字母拼写上表现滞后的高危学生。
 > - **核心问题导向** 攻克部分手部精细动作发育迟缓的儿童因握笔困难而排斥书写、进而阻碍语音与字形绑定的生理认知障碍，借助键盘触控打字开辟多感官读写新通道。

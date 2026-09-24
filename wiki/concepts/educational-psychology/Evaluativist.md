@@ -9,7 +9,7 @@ aliases:
 summary: "认识论模型中的最高层级，认为知识虽由主观建构，但可以通过论证与证据的客观标准进行优劣评估；在人机共生学习中表现为主动协调多源证据、批判性审视算法输出并保持共享认识主体性。"
 type: concept
 domain: "educational-psychology"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Pure Evaluation]]"
   - "[[Areas of Knowledge]]"
 related_theories:
+  - "[[Pluralism]]"
   - "[[Argumentative Reasoning]]"
 related_methods:
   - "[[Triangulation]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-16
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Evaluativist
@@ -66,7 +67,7 @@ updated: 2026-09-22
 > [!concept-lens] 概念透镜
 > - **含义** 作为认识论成熟的最终标志，体现了在主观建构与客观评估标准之间的辩证协调。
 > - **用途** 识别具备深度[[Critical Thinking\|批判性思维]]、能在错综复杂冲突与算法生成中做出审慎判断的个体。
-> - **人机共生视界** 在人机协同中，评价主义者不盲从算法输出（规避绝对主义顺从），也不在多种生成方案中迷失（规避多元主义虚无），而是主动践行高阶认知协调与[[Metacognition\|元认知]]反思。
+> - **人机共生视界** 在人机协同中，评价主义者不盲从算法输出（规避绝对主义顺从），也不在多种生成方案中迷失（规避[[Pluralism|多元主义]]虚无），而是主动践行高阶认知协调与[[Metacognition\|元认知]]反思。
 > - **边界** 评价论并非自然成熟的智力属性，在普通人群中达成率极低；在人机交互中同样需要提示词与教学反思双轨支架的显式促发。
 
 > [!citation-card] 评价主义立场在人机共生学习中的证据协调机制
@@ -130,7 +131,7 @@ updated: 2026-09-22
 > 揭示学习者如何在[[Generative Artificial Intelligence\|生成式人工智能]]协作中保持高阶批判力，通过证据协调与双轨支架实现评价主义进阶。
 
 > [!claim] Wu et al.
-> **证据协调与双轨支架赋能下的评价主义进阶** 在生成式人工智能介入的学习情境中，持评价主义立场的学习者能够维持积极的高阶认知投入，避免陷入消极[[Cognitive Offloading\|认知卸载]]。他们通过将 AI 视作平等的“认知协作者”而非“万能权威”或“随机意见库”，在多轮对话中对算法生成的逻辑漏洞进行追问与修正。实证研究表明，结合模型侧提示词约束（引导算法自我暴露局限）与教学侧反思评议（组织同行论辩与方案推演）的双轨支架，能显著促使绝对主义与多元主义学习者向评价主义立场迁移，从而达成稳固的人机共享[[Epistemic Agency\|认识主体性]]。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–366)]]
+> **证据协调与双轨支架赋能下的评价主义进阶** 在生成式人工智能介入的学习情境中，持评价主义立场的学习者能够维持积极的高阶认知投入，避免陷入消极[[Cognitive Offloading\|认知卸载]]。他们通过将 AI 视作平等的“认知协作者”而非“万能权威”或“随机意见库”，在多轮对话中对算法生成的逻辑漏洞进行追问与修正。实证研究表明，结合模型侧提示词约束（引导算法自我暴露局限）与教学侧反思评议（组织同行论辩与方案推演）的双轨支架，能显著促使绝对主义与[[Pluralism|多元主义]]学习者向评价主义立场迁移，从而达成稳固的人机共享[[Epistemic Agency\|认识主体性]]。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–366)]]
 
 ---
 

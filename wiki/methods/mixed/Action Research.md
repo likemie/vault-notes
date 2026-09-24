@@ -6,7 +6,7 @@ summary: "研究者与实践者合作，通过计划—行动—观察—反思�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 65
+method_related_count: 66
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -83,6 +83,7 @@ related_arguments:
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
 related_facts:
   - "[[Reading Excellence Act]]"
+  - "[[National Reading Panel]]"
   - "[[International Schools Examination Syndicate]]"
   - "[[Complex Instruction Programme]]"
 confidence: high
@@ -168,7 +169,7 @@ updated: 2026-09-24
 > [!tension] 行动研究的两大流派阵营与政策遭遇
 > - **反思性实践传统（Elliott, Stenhouse, Schön）** 主张在个体能力与微观情境范围内优化专业实践，以[[Teacher-as-Researcher\|教师即研究者]]为核心，赋权意味着专业自主与知情判断。
 > - **[[Emancipatory Action Research\|批判性行动研究]]传统（Carr & Kemmis）** 将行动研究置于宏观政治与制度批判框架内，赋权意味着打破压迫性结构并主导自身生活（Kemmis, 1997, p. 177）。
-> - **国家技术主义霸权对行动研究的排斥与本土反制（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005]]）** 在自上而下的国家量化循证政策（如美国《[[Reading Excellence Act]]》与国家阅读委员会 NRP）中，官方专委会以“唯实验论”彻底排斥一线教师在真实课堂中开展的行动研究，将教师由主动探究者降格为机械执行预置教材脚本的技术工。然而，在[[Critical Pluralism\|批判多元主义]]视域下，解放性行动研究延伸为学区与教师共同体维护课程自主权的战略防线——正如宾夕法尼亚州学区通过坚实的校本实践证据毅然拒领附带严苛教学规制的联邦巨额资助，展示了行动研究从课堂微观反思升华为抵制异化政策与争取民主自决的制度批判力量。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, pp. 8, 10, 13–14)]]
+> - **国家技术主义霸权对行动研究的排斥与本土反制（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005]]）** 在自上而下的国家量化循证政策（如美国《[[Reading Excellence Act]]》与[[National Reading Panel|国家阅读委员会]] NRP）中，官方专委会以“唯实验论”彻底排斥一线教师在真实课堂中开展的行动研究，将教师由主动探究者降格为机械执行预置教材脚本的技术工。然而，在[[Critical Pluralism\|批判多元主义]]视域下，解放性行动研究延伸为学区与教师共同体维护课程自主权的战略防线——正如宾夕法尼亚州学区通过坚实的校本实践证据毅然拒领附带严苛教学规制的联邦巨额资助，展示了行动研究从课堂微观反思升华为抵制异化政策与争取民主自决的制度批判力量。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, pp. 8, 10, 13–14)]]
 
 > [!feature] 温特（Richard Winter, 1996）的[[Epistemology\|认识论]]六原则
 > - **[[Reflexivity\|反思性]]批判（Reflexive critique）** 深刻意识到自身的知觉偏见，将研究者自我作为反思与审视的对象。

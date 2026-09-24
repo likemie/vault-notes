@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Fieldwork]]"
+  - "[[Critical Policy Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-24
 ---
 
 # Education GPS
@@ -113,7 +114,7 @@ updated: 2026-09-12
 > > - **比较教育批评** 绝大多数教育挑战最严峻的低收入国家并非经合组织成员，其国情与政策环境在平台中的代表性极为有限；平台的存在客观上强化了全球教育政策讨论中高收入国家经验的中心地位。
 
 > [!warning] 适用局限
-> Education GPS 展示的是汇总后的系统层面统计，无法捕捉各国内部的制度差异与地区分化；作为政策决策工具，须与深度国别[[Fieldwork\|田野研究]]和批判性政策分析相结合，而非单独作为政策处方的唯一依据。
+> Education GPS 展示的是汇总后的系统层面统计，无法捕捉各国内部的制度差异与地区分化；作为政策决策工具，须与深度国别[[Fieldwork\|田野研究]]和[[Critical Policy Analysis|批判性政策分析]]相结合，而非单独作为政策处方的唯一依据。
 
 ---
 

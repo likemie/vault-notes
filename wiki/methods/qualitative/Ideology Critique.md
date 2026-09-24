@@ -6,7 +6,7 @@ summary: "批判理论的核心方法论，通过四阶段反思实践揭示社�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Action Research]]"
   - "[[Participant Observation]]"
+  - "[[Critical Policy Analysis]]"
   - "[[Participatory Research]]"
   - "[[Feminist Research]]"
 related_persons:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-16
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Ideology Critique
@@ -106,7 +107,7 @@ updated: 2026-09-22
 > - **资料质量** 关注文本背后被隐藏的利益和声音；需要识别"缺席"——谁的知识和视角未被包含。
 > - **分析策略** 利益分析、意识形态运作机制识别、可普遍化利益检验、权力关系映射。
 > - **质量控制** 多方视角交叉验证，反思研究者自身立场，与参与者对话确认分析。
-> - **输出形式** 权力与利益分析报告、变革建议、批判性政策分析。
+> - **输出形式** 权力与利益分析报告、变革建议、[[Critical Policy Analysis|批判性政策分析]]。
 
 ---
 

@@ -7,7 +7,7 @@ summary: "希腊裔比较教育学者，倡导历史和人文主义视角与普�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 43
+person_related_count: 44
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Comparative History of Comparative Education]]"
   - "[[Four Forms of Understanding of Comparative Education]]"
 related_theories:
+  - "[[Pluralism]]"
   - "[[Postmodernism]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Andreas Kazamias
@@ -117,7 +118,7 @@ updated: 2026-09-22
 >   - **阶段转向** 厘清实然与应然界限，援引[[Crane Brinton\|布林顿]]比较史学确立历史研究的中程归纳机制，确立历史比较法的现代科学合法性。
 > - **1970年代–1980年代 — 威斯康星教席与学科[[Paradigm\|范式]]反思** 面对社会科学量化实证范式席卷北美的现实，系统反思学科过度技术官僚化与工具主义危机。
 >   - **代表著作** *Comparative Education: The State of the Art* (1977).
->   - **关键概念／方法** [[Positivism\|实证主义]]批判、范式多元主义。
+>   - **关键概念／方法** [[Positivism\|实证主义]]批判、范式[[Pluralism|多元主义]]。
 >   - **阶段转向** 抵制将复杂的学校教育系统窄化为离散[[Variable\|变量]]与统计模型，维系教育制度的情境性与历史深邃感。
 > - **1990年代–2010年代 — 世纪之交学科史重构与欧洲领航** 与考恩深度合作，系统挖掘学科先驱与被遗忘母题，为比较教育学奠定面向未来的历史诠释学基石。
 >   - **代表著作** *International Handbook of Comparative Education* (2009); *The Modernist Beginnings of Comparative Education* (2009); *Forgotten Men, Forgotten Themes* (2009). [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–36)]]；[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 37–58)]]

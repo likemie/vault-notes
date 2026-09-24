@@ -8,7 +8,7 @@ aliases:
 summary: "以多元行动者横向协作、关系协调与异层结构替代垂直科层或纯粹市场的公共治理方式；在批判教育政策中揭示国家并未空心化退场，而是演化为积极特许赋权、资助中介并缔造教育准市场的异层担保人。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -48,6 +48,7 @@ related_concepts:
 related_theories:
   - "[[Governing at a Distance]]"
   - "[[Neocorporatism]]"
+  - "[[Pluralism]]"
   - "[[Educational Governance Framework]]"
 related_methods:
   - "[[Network Analysis]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-04
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Network Governance
@@ -293,7 +294,7 @@ updated: 2026-09-22
 > > [!axis] 民主创新与敏捷协同论 vs 民主赤字与寡头合谋论
 > > 争论网络治理究竟是打破官僚僵化、吸纳社会活力的治理现代化[[Paradigm\|范式]]，还是跨国资本俘获公共教育的特洛伊木马。
 > >
-> > - **新公共治理与多元主义支持者（Traill, 2016; Thompson, 1991）** 坚信公私伙伴网络能够引入顶尖商业管理纪律、前沿数字技术与多元社会力量，使公共服务更加灵活敏捷，能精准回应多元群体的个性化需求。
+> > - **新公共治理与[[Pluralism|多元主义]]支持者（Traill, 2016; Thompson, 1991）** 坚信公私伙伴网络能够引入顶尖商业管理纪律、前沿数字技术与多元社会力量，使公共服务更加灵活敏捷，能精准回应多元群体的个性化需求。
 > > - **批判政治经济学者（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023]]; Ball, 2007; [[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]）** 尖锐指出网络治理构筑了排他的寡头联盟；通过公司法注册外壳[[Screening Off\|屏蔽]]公众信息审查，使商业金融资本以中立慈善为幌子，行财政利益输送与公私利益合谋之实。
 >
 > > [!axis] 国家空心化退场论 vs 异层国家权力强化与再分配重构论

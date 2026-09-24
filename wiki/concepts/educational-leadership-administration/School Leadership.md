@@ -6,7 +6,7 @@ aliases:
 summary: "围绕学校方向设定、人员发展、组织改进与信任建立展开的教育实践，在证据知情视域下依托榜样示范与制度化排程促成高质量研究使用与学校变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -48,6 +48,7 @@ related_facts:
   - "[[Monash Q Project]]"
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Critical Policy Analysis]]"
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
   - "[[In-depth Interview]]"
@@ -64,7 +65,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # School Leadership
@@ -198,7 +199,7 @@ updated: 2026-09-22
 > - **20 世纪中叶 — 特质论与伟人领导力模型** 侧重研究优秀校长的个人心理特质与行政权威，预设卓越领导者具有先天的超凡个人魅力。
 > - **1980s–1990s — 教学领导与变革型领导兴起** 随着有效学校运动推进，领导力重心转向指导课堂教学（[[Instructional Leadership]]）以及激发教工组织承诺（Transformational Leadership）。
 > - **2000s — ISSPP 跨国项目与分布式领导转向** [[OECD\|经合组织]]（OECD）启动改进学校领导力项目（ISL），国际成功学校校长项目（ISSPP）在 20 多个国家展开长期追踪，确立领导力的情境特异性与分布式领导（Distributed Leadership）共识。[[Argument_Møller_2017_EERJ\|(Møller, 2017, pp. 376–380)]]
-> - **2010s — 批判性政策研究与管理主义反思** 学界运用[[Critical Theory\|批判理论]]与[[Pierre Bourdieu\|布迪厄]][[Champ\|场域]]视角，深刻反思[[New Public Management\|新公共管理]]（NPM）对校长职业身份的扭曲，倡导将教育问题提出与争辩作为替代性领导[[Habitus\|习性]]。[[Argument_Eacott_2011_JEAH\|(Eacott, 2011, pp. 45–58)]]
+> - **2010s — [[Critical Policy Analysis|批判性政策研究]]与管理主义反思** 学界运用[[Critical Theory\|批判理论]]与[[Pierre Bourdieu\|布迪厄]][[Champ\|场域]]视角，深刻反思[[New Public Management\|新公共管理]]（NPM）对校长职业身份的扭曲，倡导将教育问题提出与争辩作为替代性领导[[Habitus\|习性]]。[[Argument_Eacott_2011_JEAH\|(Eacott, 2011, pp. 45–58)]]
 > - **2010s 至今 — 德语区产出导向与校长角色转型** 随着国家教育标准与数据监测体系确立，欧陆中小学校长逐步打破兼课教师传统，在路径自主架构下转型为以教学诊断和质量保障为核心的教育企业管理者。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 19–21, 30–33)]]
 > - **2020s — [[Evidence-Informed Practice\|证据知情实践]]中的组织使能重塑** 莫纳什大学 Q 项目在[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]（QURE）中，将榜样型领导力与制度化排程确立为促进循证实践的组织使能支柱，完成从行政管辖向循证培育的[[Paradigm\|范式]]跃升。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022, pp. 187–192)]]
 

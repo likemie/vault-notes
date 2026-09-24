@@ -1128,7 +1128,6 @@
     "path": "wiki/concepts/comparative-education/Rationalism in International Relations.md",
     "aliases": [
       "理性主义 (国际关系)",
-      "理性主义",
       "Grotian tradition",
       "格劳秀斯传统",
       "rationalist tradition in comparative education"
@@ -1150,7 +1149,6 @@
     "path": "wiki/concepts/comparative-education/Realism in International Relations.md",
     "aliases": [
       "现实主义 (国际关系)",
-      "现实主义",
       "Machiavellian tradition",
       "马基雅维利传统",
       "realist tradition in comparative education"
@@ -12409,6 +12407,17 @@
     ]
   },
   {
+    "title": "Pluralism",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Pluralism.md",
+    "aliases": [
+      "多元主义",
+      "传统多元主义",
+      "经典多元主义",
+      "利益集团多元主义"
+    ]
+  },
+  {
     "title": "Quality Use of Research Evidence Framework",
     "type": "theory",
     "path": "wiki/theories/educational-policy-reform/Quality Use of Research Evidence Framework.md",
@@ -14196,6 +14205,17 @@
       "critical incident technique",
       "关键事件技术",
       "critical events"
+    ]
+  },
+  {
+    "title": "Critical Policy Analysis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Critical Policy Analysis.md",
+    "aliases": [
+      "批判性政策分析",
+      "CPA",
+      "批判性政策研究",
+      "Critical Policy Study"
     ]
   },
   {
@@ -20035,6 +20055,16 @@
     ]
   },
   {
+    "title": "G. Reid Lyon",
+    "type": "person",
+    "path": "wiki/persons/us/G. Reid Lyon.md",
+    "aliases": [
+      "Reid Lyon",
+      "里德·里昂",
+      "G·里德·里昂"
+    ]
+  },
+  {
     "title": "Gene Glass",
     "type": "person",
     "path": "wiki/persons/us/Gene Glass.md",
@@ -20424,6 +20454,15 @@
       "Nancy A. Madden",
       "N. A. Madden",
       "Madden, N. A."
+    ]
+  },
+  {
+    "title": "Patrick Shannon",
+    "type": "person",
+    "path": "wiki/persons/us/Patrick Shannon.md",
+    "aliases": [
+      "帕特里克·香农",
+      "帕特里克·夏农"
     ]
   },
   {
@@ -25512,6 +25551,16 @@
     ]
   },
   {
+    "title": "National Council of Teachers of English",
+    "type": "fact",
+    "path": "wiki/facts/us/National Council of Teachers of English.md",
+    "aliases": [
+      "NCTE",
+      "全美英语教师委员会",
+      "全国英语教师协会"
+    ]
+  },
+  {
     "title": "National Dropout Prevention Center",
     "type": "fact",
     "path": "wiki/facts/us/National Dropout Prevention Center.md",
@@ -25537,6 +25586,17 @@
     "aliases": [
       "国家教育政策中心",
       "NEPC"
+    ]
+  },
+  {
+    "title": "National Institute of Child Health and Human Development",
+    "type": "fact",
+    "path": "wiki/facts/us/National Institute of Child Health and Human Development.md",
+    "aliases": [
+      "NICHD",
+      "国家儿童健康与人类发展研究所",
+      "尤妮斯·肯尼迪·施莱佛国家儿童健康与人类发展研究所",
+      "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
     ]
   },
   {

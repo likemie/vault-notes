@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -35,12 +35,14 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[G. Reid Lyon]]"
   - "[[Russell J. Skiba]]"
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[Higher Education Act of 1965]]"
   - "[[Reading Excellence Act]]"
+  - "[[National Institute of Child Health and Human Development]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Open Court Reading]]"
@@ -75,7 +77,7 @@ updated: 2026-09-24
 > [!dev-timeline] 组织发展历程
 > - **1867–1964 — 奠基与战后教育联邦化前夕** 经历了从单一的教育咨询向实质性立法权的过渡，在二战后主导审议了著名的退伍军人权利法案（G.I. Bill）与《国防教育法》（NDEA 1958），开启了联邦资金直接干预地方教育的先河。
 > - **1965–1996 — 伟大社会民权立法与大发展** 在林登·约翰逊总统“伟大社会”计划推动下，委员会主导起草并审议了奠定当代联邦教育治理格局的两大基石：《1965 年[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]》（ESEA）和《[[Higher Education Act of 1965\|高等教育法]]》（HEA），确立了联邦支持贫困儿童受教育权的民权导向。
-> - **1997–1998 — 主导《[[Reading Excellence Act|卓越阅读法案]]》确立科研规制先例** 委员会主席比尔·古德林（Bill Goodling）提出 H.R. 2614，全面采信 NICHD 行政官员里德·里昂的拼读与实验[[Paradigm|范式]]听证证词，以口头表决强推法案并规避十万名教师的抗议信，开创了联邦法律对学科教学法与科研范式实施排他性管辖的先河。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 6–8)]]
+> - **1997–1998 — 主导《[[Reading Excellence Act|卓越阅读法案]]》确立科研规制先例** 委员会主席比尔·古德林（Bill Goodling）提出 H.R. 2614，全面采信 [[National Institute of Child Health and Human Development|NICHD]] 行政官员[[G. Reid Lyon|里德·里昂]]的拼读与实验[[Paradigm|范式]]听证证词，以口头表决强推法案并规避十万名教师的抗议信，开创了联邦法律对学科教学法与科研范式实施排他性管辖的先河。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 6–8)]]
 > - **2001–至今 — 循证问责与现代联邦再平衡** 主导了 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）的剧烈两党辩论，将“科学[[Blue Skies Research\|基础研究]]”与高利害问责写入法典；并在 2015 年主导起草并全票通过《[[Every Student Succeeds Act\|每个学生成功法]]》（ESSA），实现了联邦强权与州级自主的再平衡。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 43–45)]]
 
 ---
@@ -118,7 +120,7 @@ updated: 2026-09-24
 > [!critique] 争论与反思
 > - **高度极化党派博弈导致的立法瘫痪** 随着美国两党政治极化加剧，委员会日益成为文化战争（如批判性种族理论审查、跨性别学生权益、平权招生等议题）的交锋前沿，理性实证证据在激烈的党派争斗中常常遭遇意识形态挑拣或搁置。
 > - **两党轮替导致的政策朝令夕改** 每次国会中期选举多数党易手，委员会的主席与议题焦点便发生剧烈反转，导致联邦教育科研资助重点与问责规程缺乏长期连续性。
-> - **次政府铁三角与政商旋转门寻租（Subgovernment Iron Triangle & Revolving-Door Conflict）** 委员会在特定立法（如 1998 年《[[Reading Excellence Act]]》）中暴露出狭隘的次政府运作模式。委员会领导层（如主席比尔·古德林）、联邦科研行政官员（里德·里昂）与商业教科书巨头（麦格劳-希尔，[[Sponsored Research Agreement|SRA]]/[[Open Court Reading]]）结成闭门同盟，高级幕僚（如罗伯特·斯威特）在官方委员会与商业倡导组织之间频繁流动。在立法审议期间，委员会完全无视全美逾十万名一线教师对学科窄化与剥夺专业自主权的抗议信件，通过口头表决强推排他性的科研规制，使委员会沦为商业资本与技术官僚主导的寻租与去专业化工具。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 6, 8–9)]]
+> - **次政府铁三角与政商旋转门寻租（Subgovernment Iron Triangle & Revolving-Door Conflict）** 委员会在特定立法（如 1998 年《[[Reading Excellence Act]]》）中暴露出狭隘的次政府运作模式。委员会领导层（如主席比尔·古德林）、联邦科研行政官员（[[G. Reid Lyon|里德·里昂]]）与商业教科书巨头（麦格劳-希尔，[[Sponsored Research Agreement|SRA]]/[[Open Court Reading]]）结成闭门同盟，高级幕僚（如罗伯特·斯威特）在官方委员会与商业倡导组织之间频繁流动。在立法审议期间，委员会完全无视全美逾十万名一线教师对学科窄化与剥夺专业自主权的抗议信件，通过口头表决强推排他性的科研规制，使委员会沦为商业资本与技术官僚主导的寻租与去专业化工具。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 6, 8–9)]]
 
 ---
 

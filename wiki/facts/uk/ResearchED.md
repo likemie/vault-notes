@@ -7,9 +7,9 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - researched
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
 related_theories:
   - "[[Theory of Mind]]"
+  - "[[Pluralism]]"
   - "[[Realist Evaluation]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-09-18
+updated: 2026-09-24
 ---
 
 # ResearchED
@@ -113,7 +114,7 @@ updated: 2026-09-18
 
 > [!tension] 争议焦点
 > - **自主草根运动 vs. 官方权力工具** 运动标榜的“赋权教师、去除权威”与教育部高官对其深度绑定的现实存在直接矛盾，批评者认为其已成为政府利益的传声筒([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 3]])。
-> - **单一实验[[Paradigm\|范式]] vs. 方法论多元主义** 争论在于教育改善是应盲目遵循去情境化的“黄金标准”数据，还是承认教育是包含多层嵌套的开放系统，从而采用[[Qualitative Observation\|质性观察]]、[[Realist Evaluation\|实在论综合]]等多元研究路径([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, pp. 14–15]])。
+> - **单一实验[[Paradigm\|范式]] vs. 方法论[[Pluralism|多元主义]]** 争论在于教育改善是应盲目遵循去情境化的“黄金标准”数据，还是承认教育是包含多层嵌套的开放系统，从而采用[[Qualitative Observation\|质性观察]]、[[Realist Evaluation\|实在论综合]]等多元研究路径([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, pp. 14–15]])。
 
 ---
 

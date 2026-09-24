@@ -52,6 +52,7 @@ related_concepts:
   - "[[Source Evaluation]]"
 related_theories:
   - "[[Integrative Pluralism]]"
+  - "[[Pluralism]]"
   - "[[Cognitive Constructivism]]"
   - "[[Theory of Mind]]"
   - "[[Reliabilism]]"
@@ -86,7 +87,7 @@ title: "Argument_Sandoval_2016_RRE"
 argument_key: "Argument_Sandoval_2016_RRE"
 argument_display_title: "Understanding and Promoting Thinking About Knowledge: Origins, Issues, and Future Directions of Research on Epistemic Cognition"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -106,7 +107,7 @@ issuing_organization: ""
 > [[Epistemology\|认识论]]认知（[[Epistemic Cognition]]）研究在过去半个世纪中经历了怎样的多学科源流交汇？当前不同学术阵营存在哪些阻碍理论整合的核心断层线（fault lines）？如何跨越这些断层线以迈向连贯的理论建构？
 
 > [!claim] 核心主张
-> 认识论认知研究处于充满活力但极度分裂的状态。跨越知识概念化、领域普遍性与情境性、发展轨迹、测量方法等四大核心断层线，并采用[[Integrative Pluralism\|整合的多元主义]]（integrative pluralism）视角统合个体内在认知与社会文化情境，是指导复杂信息时代教育实践的前提。
+> 认识论认知研究处于充满活力但极度分裂的状态。跨越知识概念化、领域普遍性与情境性、发展轨迹、测量方法等四大核心断层线，并采用[[Integrative Pluralism\|整合的多元主义]]（integrative [[Pluralism]]）视角统合个体内在认知与社会文化情境，是指导复杂信息时代教育实践的前提。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 心理学与教育学关于认识论认知与个人[[Epistemology\|认识论]]（personal epistemology）的267篇高被引核心[[Document\|文献]]。
@@ -125,7 +126,7 @@ issuing_organization: ""
 > | **整合的多元主义**<br>[[Integrative Pluralism]] | 作为解决多学科模型冲突的统合框架，主张在个体、个体交互、活动系统等多个层级同时开展研究并建立关联。 |
 
 > [!warrant]- 理论如何支撑论证
-> 自然化认识论和情境学习理论构成了批判传统个人认识论的基石。基于自然化认识论中社会网络与探究实践的观点，可反证出基于[[Questionnaire\|问卷]]的量表模型将知识视为头脑中脱离语境的孤立信念的局限性，进而确立采用整合多元主义的必要性。
+> 自然化认识论和情境学习理论构成了批判传统个人认识论的基石。基于自然化认识论中社会网络与探究实践的观点，可反证出基于[[Questionnaire\|问卷]]的量表模型将知识视为头脑中脱离语境的孤立信念的局限性，进而确立采用整合[[Pluralism|多元主义]]的必要性。
 
 ---
 
@@ -201,7 +202,7 @@ issuing_organization: ""
 
 > [!exegesis]- 理论妥协尝试与底层断层后果
 > - **认知情境主义（Cognitive Contextualist）的折中** 部分学者试图在两极之间搭建桥梁。例如，Muis et al. (2006) 提出通用信念是在特定的社会文化生态中发育的；而 Hammer & Elby (2002) 提出了“[[Epistemic Resources\|认识论资源]]（epistemic resources）”模型，主张微观粒度的认知资源会在具体活动语境中被有条件地激活，并通过反复使用凝结成认识框架。
-> - **不可[[Commensuration\|通约]]的争论** 这种妥协并未完全平息争议。Packer & Goicoechea (2000) 尖锐地指出，个体建构与情境主义在底层[[Ontology\|本体论]]上是彻底“不可通约（incommensurate）”的；虽然 Greeno (2015) 试图缓和这一对立，认为它们只是在处理不同抽象层级的解释（即统合多元主义）。
+> - **不可[[Commensuration\|通约]]的争论** 这种妥协并未完全平息争议。Packer & Goicoechea (2000) 尖锐地指出，个体建构与情境主义在底层[[Ontology\|本体论]]上是彻底“不可通约（incommensurate）”的；虽然 Greeno (2015) 试图缓和这一对立，认为它们只是在处理不同抽象层级的解释（即统合[[Pluralism|多元主义]]）。
 > - **分歧引发的研究撕裂** 本体论分歧直接撕裂了实证研究的设计逻辑——建构派致力于探究如何改变个体头脑中的稳定观念维度（因而热衷脱离情境的分发标准化问卷）；情境派则侧重探究个体如何适应并改变特定的社区认识论规范（[[Epistemic Climate]]）（因而坚持深入现场进行真实活动的[[Discourse Analysis\|话语分析]]）。
 
 ---

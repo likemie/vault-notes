@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_display_title: "Research Methods in Education · Ch12"
 argument_kind: "book-chapter"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -69,6 +69,8 @@ related_methods:
 sources:
   - "[[books/Cohen_Manion_Morrison_2011_Routledge/Cohen_Manion_Morrison_2011_Routledge|Cohen_Manion_Morrison_2011_Routledge]]"
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+related_theories:
+  - "[[Pluralism]]"
 status: draft
 created: 2026-06-24
 updated: '2026-08-27'
@@ -439,7 +441,7 @@ Jupp & Norris（1993）将文献分析的多元理论路径归纳为三种一般
 > - **文献 × 档案 × 其他数据** 大学课程的变化可以通过机构正式记录（政策文件、课程大纲）、个人文献（教师讲稿、学生日记）以及，如果存在的话，口述历史访谈来多角度评估（Slee, 1986; Soffer, 1994）。
 > - **文献 × 访谈** 将教师关于课程与教学实践的访谈与过去三十年间这些领域的政策文献证据进行比对（McCulloch et al., 2000）。前者揭示实践层面的意义和策略，后者揭示制度层面的规定和变迁方向，二者的交叉或矛盾，往往是最有分析价值的地方。Saran（1985）也展示了档案研究和访谈研究的有效结合。
 
-> [!conclusion] 方法论多元主义
+> [!conclusion] 方法论[[Pluralism|多元主义]]
 > 历史与文献研究提供了一种促进**方法论多元主义（methodological pluralism）**的路径。在一个像教育这样多样且充满挑战的研究领域中，没有单一方法能够充分捕捉其全部复杂性。文献研究正是衔接不同方法的桥梁之一。
 
 ---

@@ -8,7 +8,7 @@ aliases:
 summary: "论辩推理模型中的中间认识论立场，主张知识纯属主观意见，所有观点都同等有效；在人机共生学习中表现为意识到大模型输出的多样性但缺乏客观评判标准，导致选择迷失与批判性比较匮乏。"
 type: concept
 domain: "educational-psychology"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,7 +29,8 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Dialogue in Education]]"
   - "[[Homework]]"
-related_theories: []
+related_theories:
+  - "[[Pluralism]]"
 related_arguments:
   - "[[Argument_Kuhn_2000_CD]]"
   - "[[Argument_Wu_2025_ER]]"
@@ -44,7 +45,7 @@ related_methods:
   - "[[Correlational Research]]"
 status: active
 created: 2026-08-15
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Multiplist
@@ -54,7 +55,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 多元论者（Multiplist）是 Kuhn 等人（1991, 2000）[[Epistemology\|认识论]]模型中的关键过渡立场。当绝对论受到现实争议挑战时，个体转向承认认知的主观维度，认为知识完全是个人视角的产物。因此，所有争议仅仅是主观偏好（“意见”）的不同，所有观点都同等有效，缺乏去评估比较不同观点优劣的动机与客观依据。在[[Generative Artificial Intelligence\|生成式人工智能]]学习环境中，多元主义立场表现为学习者能够主动引导大语言模型（Large Language Model, LLM）生成多种替代方案或视角，但因缺乏明确的评价标准与证据约束，无法对不同方案进行深层权衡，陷入相对主义的选择迷失或虚无。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 310)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–364)]]
+> 多元论者（Multiplist）是 Kuhn 等人（1991, 2000）[[Epistemology\|认识论]]模型中的关键过渡立场。当绝对论受到现实争议挑战时，个体转向承认认知的主观维度，认为知识完全是个人视角的产物。因此，所有争议仅仅是主观偏好（“意见”）的不同，所有观点都同等有效，缺乏去评估比较不同观点优劣的动机与客观依据。在[[Generative Artificial Intelligence\|生成式人工智能]]学习环境中，[[Pluralism|多元主义]]立场表现为学习者能够主动引导大语言模型（Large Language Model, LLM）生成多种替代方案或视角，但因缺乏明确的评价标准与证据约束，无法对不同方案进行深层权衡，陷入相对主义的选择迷失或虚无。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 310)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–364)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 标志着个体从盲从权威的绝对客观，彻底滑向了相对主义的主观立场，完全被主观维度主导。
@@ -118,7 +119,7 @@ updated: 2026-09-22
 ### 命题三　生成式人工智能环境下多元主义立场导致选择迷失与批判性比较匮乏
 
 > [!concept-lens] 人机共生中的相对主义瓶颈
-> 揭示大语言模型输出的多样性如何成为多元主义者的认知陷阱，以及如何通过支架干预实现评价论跃迁。
+> 揭示大语言模型输出的多样性如何成为[[Pluralism|多元主义]]者的认知陷阱，以及如何通过支架干预实现评价论跃迁。
 
 > [!claim] Wu et al.
 > **算法多元呈现下的评价性缺失与双轨干预** [[Generative Artificial Intelligence\|生成式人工智能]]具备强大的多视角生成能力，能够根据提示词瞬间提供三到五种不同解法。持有多元主义立场的学生虽能意识到不同解法并存（例如追问[[Chi-Squared Test\|卡方检验]]与[[Pearson Product-Moment Correlation\|皮尔逊相关]]系数的异同），但由于缺乏依据数据分布、[[Scale of Measurement\|测量尺度]]与统计[[Hypothesis\|假设]]进行权衡的评价标准，极易在多种选项前迷失或随意定夺。要突破多元主义的相对主义瓶颈，教学中必须引入技术侧提示词支架（要求模型显式输出每种方案的前提假设与边界）与教学侧同行评审支架（迫使学生向同伴公开辩护方案选择理由），驱动其[[Epistemic Stances\|认识立场]]向评价主义演进。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–366)]]
@@ -141,7 +142,7 @@ updated: 2026-09-22
 > [!dev-timeline] 概念演变
 > - **1970–2000 年 — 相对主义过渡态的确立** Perry（1970）与 [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 将多元论界定为[[Epistemology\|认识论]]发展的瓶颈期，标志着对确定性权威的破除与对主观意见平权的执着。
 > - **2011 年 — 情境化多元怀疑立场** Chinn 等人（2011）指出多元论在科学探究中可表现为主观怀疑或对相互冲突模型的平等接纳姿态。
-> - **2025 年 — 人机共生中多元主义选择困境与支架干预** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 揭示大模型生成多样性给多元主义者带来的选择迷失，并提出通过提示词与同行评议双轨支架跨越相对主义瓶颈的实践路径。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
+> - **2025 年 — 人机共生中[[Pluralism|多元主义]]选择困境与支架干预** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 揭示大模型生成多样性给多元主义者带来的选择迷失，并提出通过提示词与同行评议双轨支架跨越相对主义瓶颈的实践路径。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
 
 ---
 
@@ -168,7 +169,7 @@ updated: 2026-09-22
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出人机自适应[[Epistemic Stances\|认识立场]]框架，系统解构多元主义立场在与生成式 AI 交互中的选择迷失与评价匮乏，并建立双轨支架干预机制。
+> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出人机自适应[[Epistemic Stances\|认识立场]]框架，系统解构[[Pluralism|多元主义]]立场在与生成式 AI 交互中的选择迷失与评价匮乏，并建立双轨支架干预机制。
 > - [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] — 在梳理[[Epistemology\|认识论]]发展模型时，将其作为对权威破灭后走向极端相对主义的结构性阶段。
 > - [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] — 将多元论定位为认识论演进的最庞大瓶颈期，实证揭示了向多元论过渡的极速性，以及成年人在价值观领域对多元论的迷恋。
 

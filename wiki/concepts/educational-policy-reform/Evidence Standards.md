@@ -9,7 +9,7 @@ aliases:
 summary: "指知识中介机构与证据门户用于规范、筛选和评定研究证据可信度与相关性的方法学准则、报告标准及功效主张判定体系，用于防范未获充分实证支持的结论误导政策与教学实践"
 type: concept
 domain: "educational-policy-reform"
-related_count: 78
+related_count: 79
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -100,6 +100,7 @@ related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
 related_theories:
   - "[[Organizational Culture]]"
+  - "[[Pluralism]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
   - "[[EMMIE Framework]]"
@@ -107,7 +108,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Evidence Standards
@@ -329,7 +330,7 @@ updated: 2026-09-22
 
 > [!debates] 学术争议
 >
-> > [!axis] 方法论纯洁主义 vs 决策问题适切多元主义
+> > [!axis] 方法论纯洁主义 vs 决策问题适切[[Pluralism|多元主义]]
 > > 争论聚焦于证据标准是否应当无条件捍卫以实验设计为核心的单一方法等级制。
 > >
 > > - **方法纯洁派（[[Argument_Slavin_2002_ER\|Slavin, 2002]]; WWC）** 坚持唯有[[Randomised Controlled Trials\|随机对照试验]]与严谨准实验才能排除因果混杂，标准妥协必然导致伪科学干预侵蚀公共教育财政。

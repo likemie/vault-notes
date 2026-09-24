@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -27,7 +27,8 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Asset Mapping]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Critical Policy Analysis]]"
 related_persons: []
 related_facts:
   - "[[Tech Square at Georgia Tech]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-09-24
 ---
 
 # TUFF
@@ -49,7 +50,7 @@ updated: 2026-05-28
 
 TUFF 的起源可追溯到 Georgia Tech 时任校长 Joseph Pettit 对研究事业的三项授权：以私营部门交付模式建设高质量研究设施；采用低于市场的租赁结构（以匹配公共融资成本）；最大化联邦资金机会。TUFF 的首个项目是 Georgia Tech 的 J. Frank Smith Centennial Research Building（p.123）。
 
-TUFF 现任总裁兼 CEO 为 Kevin T. Byrne（Wharton MBA），首席财务官为 Victor R. Clements（CPA，35 年以上公共会计和高管财务经验，管理超过 20 亿美元的资本市场交易）（p.140）。
+TUFF 现任总裁兼 CEO 为 Kevin T. Byrne（Wharton MBA），首席财务官为 Victor R. Clements（[[Critical Policy Analysis|CPA]]，35 年以上公共会计和高管财务经验，管理超过 20 亿美元的资本市场交易）（p.140）。
 
 ## 实践框架
 

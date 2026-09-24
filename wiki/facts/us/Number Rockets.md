@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 19
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -44,6 +44,7 @@ related_instruments: []
 related_persons:
   - "[[Jack Douglas]]"
 related_facts:
+  - "[[National Institute of Child Health and Human Development]]"
   - "[[Institute of Education Sciences]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Fraction Face-Off!]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Number Rockets
@@ -63,7 +64,7 @@ updated: 2026-09-17
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **Number Rockets（数字火箭）**是由范德堡大学（Vanderbilt University）林恩·富克斯（Lynn S. Fuchs）与[[Jack Douglas\|道格拉斯]]·富克斯（Douglas Fuchs）学术团队领衔研发、受美国国家儿童健康与人类发育研究所（NICHD）资助的小学一年级早期数学小组干预方案；其核心目标是在小学一年级早期精准甄别数学学习困难高危儿童，通过受训辅导教师开展高结构化的小组显性教学，在[[Response to Intervention\|干预反应模型]]（RTI）的 Tier 2 防线阻断终身数学学习失能的形成。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **Number Rockets（数字火箭）**是由范德堡大学（Vanderbilt University）林恩·富克斯（Lynn S. Fuchs）与[[Jack Douglas\|道格拉斯]]·富克斯（Douglas Fuchs）学术团队领衔研发、受美国国家儿童健康与人类发育研究所（[[National Institute of Child Health and Human Development|NICHD]]）资助的小学一年级早期数学小组干预方案；其核心目标是在小学一年级早期精准甄别数学学习困难高危儿童，通过受训辅导教师开展高结构化的小组显性教学，在[[Response to Intervention\|干预反应模型]]（RTI）的 Tier 2 防线阻断终身数学学习失能的形成。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 研发始于 2000 年代初，经 NICHD 与联邦[[Institute of Education Sciences\|教育科学研究院]]（IES）多项科研课题资助，于 2005 年发布里程碑式对照试验成果，常态化运用于全美学区干预实践。

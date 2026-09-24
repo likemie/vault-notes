@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 35
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -56,7 +56,8 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[G. Reid Lyon]]"
 related_facts:
   - "[[Reading Excellence Act]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -65,6 +66,7 @@ related_facts:
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[Best Evidence Encyclopedia]]"
   - "[[House Committee on Education and the Workforce]]"
+  - "[[National Institute of Child Health and Human Development]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Edmondson_2005_EPAA]]"
@@ -119,7 +121,7 @@ updated: 2026-09-24
 > [!actor-grid] 利益相关方协同与次政府网络
 > - **商业出版巨头（[[Sponsored Research Agreement|SRA]]/McGraw-Hill）** 课程的产权所有者与发行方，通过资金捐赠、行业倡导组织（如全国正确阅读基金会 NRRF）与政治献金维持华盛顿立法影响力。
 > - **立法与政策幕僚（[[House Committee on Education and the Workforce]]）** 委员会资深幕僚（如罗伯特·斯威特）在国会与商业游说机构之间形成旋转门流动，确保法律条文为 OCR 量身定制准入门槛。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, p. 8)]]
-> - **联邦科研行政机构（NICHD）** 官员（如里德·里昂）在国会听证会上力挺拼读[[Experimental Research|实验研究]]，为以 OCR 为代表的课程方案赋予“受联邦科学验证”的最高学术合法性光环。
+> - **联邦科研行政机构（[[National Institute of Child Health and Human Development|NICHD]]）** 官员（如[[G. Reid Lyon|里德·里昂]]）在国会听证会上力挺拼读[[Experimental Research|实验研究]]，为以 OCR 为代表的课程方案赋予“受联邦科学验证”的最高学术合法性光环。
 > - **基层执行教师（一线公立学校）** 被强制要求按秒执行教材脚本，原本作为知识转化与情境判断主体的[[Teacher Professional Agency|教师专业自主权]]被剥离，退化为被动的技术执行者。
 
 ---

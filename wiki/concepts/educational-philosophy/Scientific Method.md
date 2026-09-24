@@ -9,7 +9,7 @@ aliases:
 summary: "以经验观察、受控检验与假设证伪为基础的系统性探究程序，传统实证主义将其预设为贯通自然与社会的普适法则，而当代科学哲学与科学教育将其重构为多元、情境化且受价值制约的社会认识论实践。"
 type: concept
 domain: "educational-philosophy"
-related_count: 68
+related_count: 69
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[School Effectiveness]]"
 related_theories:
+  - "[[Pluralism]]"
   - "[[Inquiry Cycle]]"
   - "[[Critical Theory]]"
 related_methods:
@@ -96,7 +97,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Scientific Method
@@ -163,7 +164,7 @@ updated: 2026-09-22
 > - **[[Determinism\|决定论]]与经验性假设（Determinism & [[Empiricism]]）** 预设世界运转具有客观规律且由先行情境决定，一切有效知识的最终合法性均依赖于可检验的感官经验证据。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, p. 112)]]
 > - **简约法则与普遍性概括（Parsimony & Generality）** 追求以最经济的概念与因果链条解释最为广泛的现象（[[Principle of Parsimony\|奥卡姆剃刀]]），致力于将个别观察提升为具有预测力的普遍理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, p. 113)]]
 > - **假说演义与[[Falsification\|可证伪性]]检验（Hypothesis-Deduction & Falsifiability）** 科学家借助思辨想象提出推测性假设，并设定严格的反驳与检验条件，在受控观察中暴露于潜在证伪风险之中（Popper, 1968）。
-> - **方法多元主义与情境建模（Methodological Pluralism & Modeling）** 摒弃单一实验霸权，视具体学科对象灵活运用生态建模、天文观察、受控干预或历史推演。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, p. 638)]]
+> - **方法[[Pluralism|多元主义]]与情境建模（Methodological Pluralism & Modeling）** 摒弃单一实验霸权，视具体学科对象灵活运用生态建模、天文观察、受控干预或历史推演。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, p. 638)]]
 > - **社会性论证与共同体说服（Social Argumentation & Persuasion）** 科学事实并非客体世界的单向镜像投射，而是研究者在共同体内通过数据表征、修辞辩论与同行评议达成的暂定性共识。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, p. 639)]]
 > - **道德改良与社会秩序统摄（Melioristic Subordination）** 在 19 世纪启蒙现代性奠基期，科学方法的经验分类与数据收集始终服从于全人[[Bildung\|教化]]与社会病理诊断的崇高目的，而非中立的技术拜物教。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 13–14)]]
 
@@ -217,7 +218,7 @@ Hitchcock & Hughes (1995) 提出的八阶段模型展现了传统科学方法的
 
 ### 命题二　科学探究的实践本质依赖于情境化多元方法与社会性论证建构
 
-> [!concept-lens] 方法多元主义与[[Practical Epistemology\|实践认识论]]
+> [!concept-lens] 方法[[Pluralism|多元主义]]与[[Practical Epistemology\|实践认识论]]
 > 该维度消解“单一机械方法”的神话，将科学探究视作社会共同体内的动态建构、模型拟合与修辞论证过程。
 
 > [!claim] [[William A. Sandoval|Sandoval, W. A.]]

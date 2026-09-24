@@ -8,10 +8,10 @@ aliases:
 summary: "在数字经济与海量知识制造时代，针对同一公共政策议题的研究成果、实证数据与咨询报告在数量上发生爆炸式增长并超过决策系统认知与处理负荷的生态现象。该现象打破了“证据越丰富政策越理性”的传统启蒙假设，反而加剧了政策歧义性（Policy Ambiguity）与信息孤岛，促使政治决策者更倾向于策略性“选秀”证据，并为政策中介机构对海量数据进行二次提炼、认证包装与权威背书创造了垄断性的制度中介空间。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/policy-studies
   - theme/policy-brokerage
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Variable]]"
 related_theories:
   - "[[Two-Communities Theory]]"
+  - "[[Pluralism]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Surplus of Evidence
@@ -168,7 +169,7 @@ updated: 2026-09-22
 > > [!axis] 开放证据市场的思想繁荣 vs 民主审议的认知迷失
 > > 自由主义[[Epistemology\|认识论]]与批判政策学派的博弈。
 > >
-> > - **自由主义倡导者** 认为证据过剩体现了[[Academic Freedom\|学术自由]]与科研民主化，任何观点都能找到实证支撑正是多元主义社会的健康特征。
+> > - **自由主义倡导者** 认为证据过剩体现了[[Academic Freedom\|学术自由]]与科研民主化，任何观点都能找到实证支撑正是[[Pluralism|多元主义]]社会的健康特征。
 > > - **批判政策学者** 痛斥证据过剩实质上摧毁了共识的可能，使财力雄厚的利益集团能够通过资助特定研究来混淆视听（如烟草公司资助吸烟无害研究在教育界的翻版）。
 
 > [!critique] 外部批评

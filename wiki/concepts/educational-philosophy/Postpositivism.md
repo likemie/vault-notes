@@ -9,7 +9,7 @@ aliases:
 summary: "一种挑战经典实证主义绝对确定性与机械决定论的研究哲学立场，主张知识具有本质上的推测性、理论负荷性与可错性；在承认客观实在持续存在的同时包容多元实在与情境阐释，倡导以非普适探索性假说推进科学反思与广义人文探究。"
 type: concept
 domain: "educational-philosophy"
-related_count: 65
+related_count: 66
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -55,6 +55,7 @@ related_theories:
   - "[[Postmodernism]]"
   - "[[Phenomenology]]"
   - "[[Complexity Theory]]"
+  - "[[Pluralism]]"
   - "[[Critical Theory]]"
 related_methods:
   - "[[Quantitative Research]]"
@@ -93,7 +94,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-22
+updated: 2026-09-24
 ---
 
 # Postpositivism
@@ -263,7 +264,7 @@ updated: 2026-09-22
 > - **1960 年代 — 科学哲学历史转向与学科反思** 托马斯·库恩（1962）发表《科学革命的结构》，揭示科学常态运行与范式转换的社会历史性；卡扎米亚斯（Kazamias, 1961, 1963）直面英美比较教育实证主义科学化运动，率先援引比较史学[[Crane Brinton\|布林顿]]非普适探索性假说，捍卫历史比较传统广义科学合法性。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009)]]
 > - **1970–1980 年代 — [[Paradigm Wars\|范式战争]]爆发与实证垄断解体** 拉卡托斯（Lakatos, 1970）提出科学研究纲领方法论，费耶阿本德（1975）反对教条方法论；社会科学界爆发激烈“范式战争”（Paradigm Wars），古巴与林肯（Guba & Lincoln, 1985）等学者系统确立后实证与[[Constructivist Paradigm\|建构主义]]的独立范式地位。
 > - **2000 年代 — 经验量化后实证主义规范化** 菲利普斯与伯布尔斯（Phillips & Burbules, 2000）出版《教育研究中的后实证主义与教育实践》，克雷斯威尔（Creswell, 2003/2022）系统将后实证主义确立为现代严谨[[Quantitative Research\|量化研究]]与混合方法的核心哲学基石。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022)]]
-> - **2010 年代至今 — 复杂系统、历史母题复兴与方法论多元主义** 复杂性理论（Complexity Theory）作为后实证动态实在论的前沿拓展蓬勃兴起；卡扎米亚斯（2009）与考恩（Cowen, 2009）系统呼吁重拾被实证派遗忘的“人与文化[[Bildung\|教化]]（*anthropos* / *[[Paideia]]*）”[[Historical-Philosophical-Cultural Motif\|历史人文主义母题]]，后实证主义成为抵御技术官僚数据霸权的核心理论阵地。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 804)]]; [[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
+> - **2010 年代至今 — 复杂系统、历史母题复兴与方法论[[Pluralism|多元主义]]** 复杂性理论（Complexity Theory）作为后实证动态实在论的前沿拓展蓬勃兴起；卡扎米亚斯（2009）与考恩（Cowen, 2009）系统呼吁重拾被实证派遗忘的“人与文化[[Bildung\|教化]]（*anthropos* / *[[Paideia]]*）”[[Historical-Philosophical-Cultural Motif\|历史人文主义母题]]，后实证主义成为抵御技术官僚数据霸权的核心理论阵地。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 804)]]; [[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
 
 ---
 

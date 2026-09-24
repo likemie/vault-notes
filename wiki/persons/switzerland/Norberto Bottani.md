@@ -7,7 +7,7 @@ summary: "瑞士教育政策研究者和OECD指标专家，INES项目创始人�
 type: person
 nationality: switzerland
 person_region: "switzerland"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -29,7 +29,8 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Performativity]]"
   - "[[Science and Technology Studies]]"
-related_theories: []
+related_theories:
+  - "[[Pluralism]]"
 related_methods:
   - "[[Accounts]]"
 related_persons: []
@@ -43,7 +44,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-11
+updated: 2026-09-24
 ---
 ## 简介
 
@@ -89,7 +90,7 @@ updated: 2026-09-11
 
 > [!note-] [[OECD]] 职业历程([[Argument_Gorur_2014_Discourse\|Gorur, 2014, p.5]])
 > - **1976–1983** OECD 早期工作，专注早期儿童教育
-> - **1983–1987** 领导 OECD 的教育、文化与语言多元主义项目（Education, Cultural and Linguistic Pluralism）
+> - **1983–1987** 领导 OECD 的教育、文化与语言[[Pluralism|多元主义]]项目（Education, Cultural and Linguistic Pluralism）
 > - **1984–1987**（原文为 1994–1987，疑似笔误）：担任 OECD 教育统计与指标处处长
 > - **1988–1997** 担任 [[International Indicators of Education Systems\|INES]] 项目负责人，这是[[International Education\|国际教育]]指标体系的关键塑造时期
 > - 约在 [[PISA]] 概念化和开发的时期离任

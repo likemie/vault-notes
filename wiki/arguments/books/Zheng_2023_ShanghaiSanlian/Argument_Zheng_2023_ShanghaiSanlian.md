@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 105
+argument_related_count: 106
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -117,6 +117,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Interview Protocol]]"
   - "[[Matching]]"
+  - "[[Critical Policy Analysis]]"
   - "[[Axial Coding]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
@@ -971,7 +972,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 - **梓桐**（云南农村→南方大学→学术职业）：转变始于听讲座和与优秀同学的接触→观察到"最有想法的那些人绩点都不好"→对绩点失去执念。关键是跟导师做学术项目的经历——导师的"先把该做的东西做掉，该读的东西读懂"的学者价值图式通过密切交往被梓桐内化。最终以张载"为天地立心，为生民立命，为往圣继绝学，为万世开太平"作为人生目标。他将转变归功于大学：通过接触这些人，"你能切身感受到一种感召"
 - **高程**（福建农村→北方大学→选调生）：从"最优秀的人都去跨国公司赚大钱"到放弃年薪 20 万和北京户口选择月薪 3000 的选调生。转变机制：学生工作经历（"学生会团委像政府一样"）→接触放弃高薪去基层的学长学姐→树立公共服务志向→策略性转专业→担任学生会主席→辅导员"双肩挑"→顺利录用为选调生
 - **初晓** 大三受绩点冲击后幡然醒悟→"一个最初的方向比你一个劲地努力要更重要"→大四主动接触导师→间隔年积累经历→英国硕士→上海外资医疗器械公司
-- **鹏程** 大二暑假放弃 500 强实习机会（"太累太无聊"）→大三醒悟→接连 4 份名企实习→针对目标公司精准准备（三次参加招聘活动、提前自学 CPA 财务管理）→成功入职通信科技巨头（起薪 15 万+）。他总结："我比身边很多人早出去忙了一学期"
+- **鹏程** 大二暑假放弃 500 强实习机会（"太累太无聊"）→大三醒悟→接连 4 份名企实习→针对目标公司精准准备（三次参加招聘活动、提前自学 [[Critical Policy Analysis|CPA]] 财务管理）→成功入职通信科技巨头（起薪 15 万+）。他总结："我比身边很多人早出去忙了一学期"
 
 **（f）本章小结与理论贡献**
 

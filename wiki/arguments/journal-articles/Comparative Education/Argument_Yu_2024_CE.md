@@ -10,7 +10,7 @@ title: "Argument_Yu_2024_CE"
 argument_key: "Argument_Yu_2024_CE"
 argument_display_title: "Confucianism in multicultural China: 'official knowledge' vs marginalised views"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Research Practicability]]"
 related_theories:
+  - "[[Pluralism]]"
   - "[[Hegemony]]"
 related_methods:
   - "[[In-depth Interview]]"
@@ -90,7 +91,7 @@ citation_aliases:
 
 > [!concept-lens] 阅读透镜
 > - **对象** 中小学六门必修科目217册国家审查教科书中的官方儒家叙事，以及37名少数民族与宗教背景大学生的[[In-depth Interview\|深度访谈]]经验。
-> - **张力** 教科书“一元论/同化主义”的[[Official Knowledge\|官方知识]]建构，与边缘学生“多元主义/跨文化反思”的主观认知之间的深层断裂。
+> - **张力** 教科书“一元论/同化主义”的[[Official Knowledge\|官方知识]]建构，与边缘学生“[[Pluralism|多元主义]]/跨文化反思”的主观认知之间的深层断裂。
 > - **贡献** 突破了既有研究默认“儒家即全体中国人普遍哲学”的汉人中心偏见，首次从文化边缘视角揭示了单向度同化教育在多元民族社会中引发[[Cultural Disembedding\|文化脱嵌]]与疏离的反讽后果。
 
 ---
@@ -226,7 +227,7 @@ citation_aliases:
 > [!evidence-grid-b] 主题B：灵性、生态与终极关怀的跨文化反思
 >
 > - **反思人类中心主义（藏族女学生，社会科学专业）** 引入藏传佛教“众生平等”的视角，批评儒家仅关注人际伦理而漠视自然与非人类生命：“儒家传统只强调对人类的关怀，却极少顾及世界上其他生灵；而藏传佛教要求尊重一切生命形式，主张众生平等。” (p. 70)。
-> - **抵制一元化的仕途成功观（西北汉族基督教女学生，新闻专业）** 结合自身作为宗教少数群体的边缘体验，反抗儒家对功名与世俗成功的垄断：“儒家期望每个人都去追求同一种生活方式，即在官场或仕途中取得成功。但在现代社会，人们有不同的追求，社会理应支持多元主义，因为世界本质上就是多元的。” (p. 69)。
+> - **抵制一元化的仕途成功观（西北汉族基督教女学生，新闻专业）** 结合自身作为宗教少数群体的边缘体验，反抗儒家对功名与世俗成功的垄断：“儒家期望每个人都去追求同一种生活方式，即在官场或仕途中取得成功。但在现代社会，人们有不同的追求，社会理应支持[[Pluralism|多元主义]]，因为世界本质上就是多元的。” (p. 69)。
 > - **指出终极关怀与灵性安顿的缺失（东乡族穆斯林学生，中国文学专业）** 详细对比了儒学与伊斯兰教的宇宙观深度：“宗教能告诉我们关于世界的根本问题，比如宇宙的起源、生命的终极去向；而儒家主要关注人际社会关系，教人怎么为人处世。相比之下，儒家无法解释人从生到死的全过程，不能提供一个完整的世界观。”
 > - **对比道德约束与灵魂解脱（汉族佛教徒学生，新闻专业）** 深刻总结道：“儒家倾向于给人们施加道德束缚（moral constraints），而佛教则能赋予人们力量，将灵魂从各种现实压力中解放出来。儒家显然不具备这样的力量。”
 
