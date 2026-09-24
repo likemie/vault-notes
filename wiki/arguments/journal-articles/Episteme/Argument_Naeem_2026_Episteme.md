@@ -75,7 +75,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-22
-updated: 2026-09-24
+updated: 2026-09-25
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Naeem_2026_Episteme"
@@ -134,7 +134,7 @@ issuing_organization: ""
 > | **德性责任论[[Virtue Epistemology\|美德认识论]]**<br>Virtue Responsibilism (Zagzebski, 1996; Roberts & Wood, 2007; Baehr, 2011) | 将理智美德严谨界定为认识主体的稳定性格特质，指出美德由**能力构件**（熟练的智力操作技能）与**动机成分**（对真理、知识与理解等认知善品的真诚热爱）共同构成。这解释了为何掌握解题与[[Skill of Questioning\|提问技能]]的学生仍可能沦为诡辩者，揭示了将外在技能转化为内在品格的[[Necessary and Sufficient Conditions\|必要条件]]。（pp. 272–274, 279–280） |
 > | **[[Extended Mind Theory\|延展心智理论]]与认知支架论**<br>Extended Cognition & Scaffolding (Clark & Chalmers, 1998; Pritchard, 2014, 2016; Carter, 2018) | 辨析人类大脑与外部认知工具的耦合边界：严格区分作为辅助训练、移走后机体能力得以保留的可撤除[[Scaffolding\|脚手架]]（如算盘），与作为技能不可分割一部分的构成性脚手架（如计算机）。确立了良性认知延展必须保留机体核心认知挣扎的规范边界。（pp. 270–272） |
 > | **情感认识论**<br>Virtue Epistemology of Emotion (Brady, 2019; Battaly, 2006) | 阐明好奇、惊异、着迷与敬畏等[[Intellectual Emotions\|理智情感]]在认知探究中的动力学功能。理智情感能够调控注意力指向、产生积极的效价与探索动机，充当将外显的提问练习内化为对真理自发热爱的关键心理催化桥梁。（pp. 273–274, 280–282） |
-> | **理智治疗学说**<br>Intellectual Therapy (Porter, 2016; Naeem, 2026) | 借鉴心理治疗的非指令性对话模式，强调教育者不应强加现成结论，而应通过[[Open-Mindedness\|开放性]]反思提问帮助学习者探索自身信念体系与独特生活背景，为重构 Q-Tutor 的对话风格提供哲学参照。（pp. 280–281） |
+> | **理智治疗学说**<br>Intellectual Therapy (Porter, 2016) | 借鉴心理治疗的非指令性对话模式，强调教育者不应强加现成结论，而应通过[[Open-Mindedness\|开放性]]反思提问帮助学习者探索自身信念体系与独特生活背景，为重构 Q-Tutor 的对话风格提供哲学参照。（pp. 280–281） |
 
 > [!warrant]- 理论如何支撑论证
 > 德性责任论与教育认识论共同表明：智力技能仅代表认识主体能够做什么（具有工具价值与[[Value Neutrality|价值中立]]性），而理智美德才界定了认识主体究竟是谁（具有内在价值与求真承诺）。当生成式 AI 充当代做[[Homework|作业]]、直接输出答案的黑箱时，学生不仅被剥夺了维持内生大脑机能所必需的认知挣扎，更错失了掌握提问与推理技能的练习机会，因而从根基上失去了养成理智美德的可能性。要扭转[[Cognitive Deskilling|去技能化]]，技术系统必须扮演严格限制答案输出、专门示范并训练提问技能的认知脚手架；同时，唯有借助情感认识论所强调的好奇与着迷等理智情感，才能将外在的提问技术升华为学生内心深处对真理和理解的持久热爱。（pp. 270–274, 280–282）

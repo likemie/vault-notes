@@ -4,15 +4,15 @@ aliases:
   - 国际数学与科学趋势研究
   - 国际数学与科学趋势调查
   - Trends in International Mathematics and Science Study
-summary: "国际教育成就评价协会（IEA）主办的全球中小学数学与科学素养周期性跨国测评项目，以课程对标和4年周期追踪4年级与8年级学生学业趋势"
+summary: "国际教育成就评价协会（IEA）主办的全球中小学数学与科学素养周期性跨国测评项目，以课程对标和4年周期追踪4年级与8年级学生学业趋势；既作为国家教育监测基准，亦在宏观改革中充当诊断国家课程病理与催化政策议程的核心实证工具。"
 type: fact
 subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 17
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 25
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1995–至今"
 initiator_organization: "International Association for the Evaluation of Educational Achievement"
@@ -27,7 +27,12 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[School Leadership]]"
   - "[[Evaluation Research]]"
+  - "[[Policy Entrepreneur]]"
   - "[[School Inspection]]"
+  - "[[Variable]]"
+  - "[[International Large-Scale Assessments]]"
+  - "[[Research Utilization]]"
+  - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Document]]"
 related_theories: []
 related_methods:
@@ -35,6 +40,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Item Response Theory]]"
   - "[[Matching]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -42,15 +48,17 @@ related_facts:
   - "[[PIRLS]]"
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[Common Core State Standards]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
   - "[[Vergleichsarbeiten]]"
 related_arguments:
   - "[[Argument_Dedering_2009_EERJ]]"
+  - "[[Argument_McDonnell_2013_AJE]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-25
 ---
 
 # TIMSS
@@ -94,7 +102,8 @@ updated: 2026-09-18
 
 > [!dev-timeline] 项目推进历程
 > - **1995 年 — 奠基与规模突破** 开展首轮 40 多个国家参与的测试，创下当时国际比较教育史上最大规模实证测评纪录。
-> - **2000 年代 — 融入各国国家监测战略** 德国等国在经历 [[PISA]] 震荡后，由[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（KMK）于 2006 年将 TIMSS 连同 PISA 和 [[PIRLS]] 正式确立为[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]第一支柱。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, p. 484)]]
+> - **1990 年代末至 2000 年代初 — 跨国课程对比与美国课程病理诊断** 密歇根州立大学教授兼 TIMSS 美国国家研究协调员威廉·H·施密特（William H. Schmidt）扮演[[Policy Entrepreneur|政策企业家]]角色，依据跨国课程对比数据诊断美国课程“一英里宽、一英寸深”，为后续州[[Common Core State Standards|共同核心标准]]（[[Common Core State Standards|CCSS]]）的研制奠定国际基准与议程基础。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 11–13)]]
+> - **2000 年代 — 融入各国国家监测战略** 德国等国在经历 [[PISA]] 震荡后，由[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（KMK）于 2006 年将 TIMSS 连同 PISA 和 [[PIRLS]] 正式确立为[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]第一支柱。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 484)]]
 > - **2019 年至今 — 数字化与交互测评转型** 全面过渡至计算机化数字测评（eTIMSS），引入基于模拟情境的复杂科学探究与数学交互解题模块。
 
 ---
@@ -102,9 +111,17 @@ updated: 2026-09-18
 ## 治理功能与局限性
 
 > [!finding-cards] 治理功能与实证反思
-> - **宏观方位导向价值** 为参与国在国际数理教育格局中提供客观坐标，明确本国课程标准在全球视野中的高低位置。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, p. 494)]]
-> - **微观治理指导效力不足** [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] 对德国教育行政科层的跟踪研究表明，教育官员清醒认识到 TIMSS 仅具宏观参考价值；由于其依赖抽样、概括性强且解释空间过大，无法直接指导单体学校的教学微调与薄弱校干预，其实际治理价值显著低于覆盖全量学校的[[Vergleichsarbeiten\|校际比较测试]]（[[Vergleichsarbeiten\|VERA]]）与过程性[[School Inspection\|学校督导]]。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 494–495)]]
+> - **宏观方位导向价值** 为参与国在国际数理教育格局中提供客观坐标，明确本国课程标准在全球视野中的高低位置。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 494)]]
+> - **国家课程病理诊断与议程设置催化** 跨国课程分析揭示不同教育体制的课程广度与深度差异。例如在推进美国 [[Common Core State Standards|CCSS]] 运动中，TIMSS 比较课程数据被[[Policy Entrepreneur|政策企业家]]转化为诊断美国各州数学标准缺乏连贯性与深度的核心实证工具，有力推动建立精简、连贯且严格之国家级标准的政策共识。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 11–13)]]
+> - **微观治理指导效力不足** [[Argument_Dedering_2009_EERJ|Dedering (2009)]] 对德国教育行政科层的跟踪研究表明，教育官员清醒认识到 TIMSS 仅具宏观参考价值；由于其依赖抽样、概括性强且解释空间过大，无法直接指导单体学校的教学微调与薄弱校干预，其实际治理价值显著低于覆盖全量学校的[[Vergleichsarbeiten|校际比较测试]]（VERA）与过程性[[School Inspection|学校督导]]。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 494–495)]]
 > - **产出局限性** 仅测试学业产出终点数据，缺乏对学校内部微观管理、校风文化及师生互动的过程性现场穿透。
+
+> [!citation-card] 政策企业家利用 TIMSS 诊断国家课程病理
+> 政策企业家将 TIMSS 跨国课程数据作为撬动全美课程改革议程的核心杠杆：
+> 
+> 密歇根州立大学教授兼 TIMSS 美国国家研究协调员威廉·H·施密特（William H. Schmidt）扮演了关键的政策企业家角色。他走访全美各州进行巡回宣讲，展示 TIMSS 比较课程数据，证明典型的美国州数学课程是“一英里宽、一英寸深”；与在 TIMSS 中表现优异的高分国家（如新加坡、韩国、日本）相比，美国课程每年试图覆盖过多的碎片化主题，缺乏内在的知识深度与逻辑进阶。这一国际基准对标结论有力推动了跨州统一标准的立项。（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013, pp. 11–13]]）
+> 
+> *William H. Schmidt, an MSU professor and national research coordinator for TIMSS in the United States, acted as a key policy entrepreneur. Presenting TIMSS comparative curriculum data across states, he demonstrated that typical US state curricula were "a mile wide and an inch deep," covering far too many topics superficially compared to top-performing countries that focused on coherent, in-depth progressions.*
 
 ---
 
@@ -118,8 +135,26 @@ updated: 2026-09-18
 > > - **批评者** 指出若某国课程大纲在 4 年级尚未教授特定几何或代数内容，直接测验必然造成人为的结构性分数压低。
 > > - **组织方立场** [[IEA]] 通过考前由各国专家联合执行“测试-课程匹配分析（Test-Curriculum [[Matching]] Analysis, TCMA）”，测算各题与本国课程的重合度并校准偏差。
 > >
+> > [!axis] 跨国课程对标的国际竞逐 vs 本土情境的自主选择
+> > 探讨依据 TIMSS 国际高分国课程模式重构本土课程标准是否具有普适性。
+> >
+> > - **国际基准对标倡导者** 认为吸收高表现国在 TIMSS 中展现的课程聚焦度与进阶逻辑，是提升国家整体教育质量与经济竞争力的必然路径。
+> > - **本土情境审议者** 担忧盲目复制他国课程结构可能忽视本国多元文化、地方分权传统与薄弱校师资实际承载力，诱发课程落地脱节。
+> >
 > > [!axis] 政治化排位炒作与虚假因果归因
 > > 媒体与政界倾向于将 TIMSS 均分排位简化为对本国基础教育成败的裁决，忽视家庭阶层资本与宏观社会经济背景对数理学业的关键中介作用。
+
+---
+
+## 实证数据
+
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> <span class="fact-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013, pp. 11–13)]] | 美国 50 州数学课程标准与高表现国课程对比 | 跨国课程对标与政策追踪分析 | 课程广度、深度与逻辑连贯性 | 证实美国州课程覆盖主题过多且缺乏深度（“一英里宽、一英寸深”）；高表现国聚焦少数核心概念深度进阶 | — | 为美国启动跨州统一标准（[[Common Core State Standards\|CCSS]]）提供了关键的国际基准与议程合法性 |
+> | [[Argument_Dedering_2009_EERJ\|Dedering (2009, pp. 494–495)]] | 德国教育行政科层官员访谈 | 追踪定性访谈与政策分析 | 国际测评在各州教育治理中的功能认知 | 官员普遍认同 TIMSS 具备宏观定位功能，但明确指出其无法直接推导微观改进举措 | — | 确立[[International Large-Scale Assessments\|国际大规模评估]]主要发挥宏观方位导向而非微观教学指导功能 |
 
 ---
 
@@ -129,10 +164,14 @@ updated: 2026-09-18
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
+> | [[Common Core State Standards]] | Fact (Policy) | 美国受 TIMSS 课程比较诊断催化而研制实施的跨州统一学术标准。 |
+> | [[Policy Entrepreneur]] | Concept | 运用 TIMSS 证据将课程问题与经济危机耦合以撬动政策议程的行动者理论。 |
+> | [[Research Utilization]] | Concept | 阐释 TIMSS 数据在宏观议程设置中发挥概念性与[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]功能的理论框架。 |
 > | [[PISA]] | Fact (Program) | [[OECD]] 主办的全球测评，与 TIMSS 在素养导向 vs 课程导向上形成互补参照。 |
 > | [[PIRLS]] | Fact (Program) | [[IEA]] 旗下的姊妹项目，专门针对小学 4 年级阅读素养进行跨国评估。 |
 > | [[Gesamtstrategie zum Bildungsmonitoring]] | Fact (Policy) | 德国将 TIMSS 纳为国家教育监测第一支柱的纲领性政策。 |
 > | [[Vergleichsarbeiten]] | Fact (Program) | 德国全域校际比较测试，与 TIMSS 在宏观抽样 vs 微观全域上形成功能分工。 |
 > | [[School Inspection]] | Concept | 现场过程督导机制，弥补 TIMSS 纯量化产出测试的机制缺失。 |
 > | [[Standing Conference of the Ministers of Education and Cultural Affairs]] | Fact (Organization) | 决定德国参与 TIMSS 并协调跨州测试结果的国家最高教育协调机构。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 剖析 TIMSS 数据在全美议程设置与 CCSS 课程改革中充当概念催化剂的实证[[Document\|文献]]。 |
 > | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 实证评估 TIMSS 在德国教育部行政决策中宏观方位功能与治理局限性的期刊[[Document\|文献]]。 |
