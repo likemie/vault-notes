@@ -5,6 +5,22 @@
       "path": "wiki/arguments/journal-articles/American Journal of Education/Argument_McDonnell_2013_AJE.md"
     },
     {
+      "basename": "The Education Trust",
+      "path": "wiki/facts/us/The Education Trust.md"
+    },
+    {
+      "basename": "Six-Stage Model of Policymaking",
+      "path": "wiki/theories/educational-policy-reform/Six-Stage Model of Policymaking.md"
+    },
+    {
+      "basename": "Policy Entrepreneur",
+      "path": "wiki/concepts/educational-policy-reform/Policy Entrepreneur.md"
+    },
+    {
+      "basename": "Common Core State Standards",
+      "path": "wiki/facts/us/Common Core State Standards.md"
+    },
+    {
       "basename": "Argument_Edmondson_2005_EPAA",
       "path": "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Extended Mind Theory",
       "path": "wiki/theories/learning-science-cognitive-science/Extended Mind Theory.md"
-    },
-    {
-      "basename": "Scaffolding",
-      "path": "wiki/concepts/instruction-pedagogy/Scaffolding.md"
-    },
-    {
-      "basename": "Virtue Epistemology",
-      "path": "wiki/theories/educational-philosophy/Virtue Epistemology.md"
-    },
-    {
-      "basename": "Intellectual Emotions",
-      "path": "wiki/concepts/educational-psychology/Intellectual Emotions.md"
-    },
-    {
-      "basename": "Epistemic Virtues and Vices",
-      "path": "wiki/concepts/educational-psychology/Epistemic Virtues and Vices.md"
     }
   ],
   "omittedPaths": [],
