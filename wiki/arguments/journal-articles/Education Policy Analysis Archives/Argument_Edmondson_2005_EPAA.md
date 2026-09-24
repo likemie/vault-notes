@@ -168,9 +168,6 @@ issuing_organization: ""
 
 #### 2. 专业协会高层通过秘密谈判促成措辞折衷，却牺牲了基层民主代表性
 
-> [!figure]- 法案版本演变图（p. 5）
-> ![](https://img.mylikemie.icu/sources/Edmondson_2005_EPAA/figures/Edmondson_2005_EPAA_Fig2_Language_Changes.jpg)
-
 > [!contrast-table] 众议院初版草案与参议院最终通过版本条文对比（p. 5）
 > | 比较维度 | 众议院初版法案（H.R. 2614） | 参议院妥协通过版（P.L. 105-277） |
 > |:---|:---|:---|

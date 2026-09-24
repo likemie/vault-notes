@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Plato",
+      "path": "wiki/persons/greece/Plato.md"
+    },
+    {
       "basename": "Argument_Edmondson_2005_EPAA",
       "path": "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md"
+    },
+    {
+      "basename": "Action Research",
+      "path": "wiki/methods/mixed/Action Research.md"
+    },
+    {
+      "basename": "Qualitative Research",
+      "path": "wiki/methods/qualitative/Qualitative Research.md"
     },
     {
       "basename": "Open Court Reading",
@@ -63,10 +75,6 @@
     {
       "basename": "Lev Vygotsky",
       "path": "wiki/persons/russia/Lev Vygotsky.md"
-    },
-    {
-      "basename": "Plato",
-      "path": "wiki/persons/greece/Plato.md"
     },
     {
       "basename": "Meno",
@@ -191,14 +199,6 @@
     {
       "basename": "Epistemology",
       "path": "wiki/concepts/educational-philosophy/Epistemology.md"
-    },
-    {
-      "basename": "Creativity",
-      "path": "wiki/concepts/competency-and-assessment/Creativity.md"
-    },
-    {
-      "basename": "Dialogue in Education",
-      "path": "wiki/concepts/educational-philosophy/Dialogue in Education.md"
     }
   ],
   "omittedPaths": [],

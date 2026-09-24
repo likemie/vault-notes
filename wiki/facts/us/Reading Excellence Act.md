@@ -10,9 +10,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 11
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 17
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "美国国会（United States Congress）"
 tags:
@@ -70,9 +70,6 @@ updated: 2026-09-24
 > - **适用对象** 全美各州教育行政部门、地方学区、K–3 年级阅读教师、处于阅读落后风险的儿童及家庭扫盲项目。
 > - **政策工具** 联邦竞争性专项拨款、排他性法定术语界定、指定教材与科研方法学审查门槛。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4–5)]]
 > - **约束机制** 将教学方案和科研项目是否符合联邦法定定义作为学区获取专项资助的强制前置条件。
-
-> [!figure]- 法案版本演变图（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005, p. 5]]）
-> ![](https://img.mylikemie.icu/sources/Edmondson_2005_EPAA/figures/Edmondson_2005_EPAA_Fig2_Language_Changes.jpg)
 
 > [!contrast-table] 众议院初版草案与参议院最终通过版本条文对比（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005, p. 5]]）
 > | 比较维度 | 众议院初版法案（H.R. 2614） | 参议院妥协通过版（P.L. 105-277） |
@@ -168,7 +165,7 @@ updated: 2026-09-24
 > > 争论联邦政府是否有权通过附带条件的专项资金规制地方教学法。
 > >
 > > - **国会与联邦官员（Goodling, Lyon）** 强调阅读能力是国家经济竞争力基石，联邦有权通过财政杠杆统一教学与科研标准。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 8)]]
-> > - **地方学区与宪政法学学者（Linn, 2003; [[Argument_Edmondson_2005_EPAA|Edmondson, 2005]]）** 指出美国宪法并未赋予联邦管理课程的权力，以专项经费胁迫地方放弃多元读写课程属于规制越权。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 13)]]
+> > - **地方学区与宪政法学学者（Linn, 2003）** 指出美国宪法并未赋予联邦管理课程的权力，以专项经费胁迫地方放弃多元读写课程属于规制越权。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 13)]]
 >
 > > [!axis] 科学研究标准的实证垄断与学术多元之争
 > > 争论官方推行的实证干预[[Paradigm|范式]]是否构成了学术话语霸权。

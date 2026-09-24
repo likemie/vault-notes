@@ -25073,17 +25073,6 @@
     ]
   },
   {
-    "title": "Open Court Reading",
-    "type": "fact",
-    "path": "wiki/facts/us/Open Court Reading.md",
-    "aliases": [
-      "开放式阅读教材",
-      "Open Court Reading (OCR)",
-      "开放式阅读",
-      "OCR"
-    ]
-  },
-  {
     "title": "Pajaro Dunes Statement of 1982",
     "type": "fact",
     "path": "wiki/facts/us/Pajaro Dunes Statement of 1982.md",
@@ -26149,6 +26138,17 @@
     "aliases": [
       "数字火箭",
       "数字火箭项目"
+    ]
+  },
+  {
+    "title": "Open Court Reading",
+    "type": "fact",
+    "path": "wiki/facts/us/Open Court Reading.md",
+    "aliases": [
+      "开放式阅读教材",
+      "Open Court Reading (OCR)",
+      "开放式阅读",
+      "OCR"
     ]
   },
   {
