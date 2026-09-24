@@ -203,6 +203,43 @@ issuing_organization: ""
 > - **商业出版巨头与保守派智库**
 >   麦格劳-希尔（McGraw-Hill）旗下《开放法院阅读》（[[Open Court Reading]]）商业教材集团，以及保守派全美阅读权利基金会（National Right to Read Foundation）骨干，与委员会幕僚保持直接利益纽带，意图通过法律强制学校购买拼读教材。
 
+> [!mechanism] 《卓越阅读法案》次政府利益铁三角与[[Disciplina and Doctrina|规训]]反制网络（pp. 8–10, 13–14）
+> ```mermaid
+> flowchart LR
+>     %% 核心利益主体：次政府铁三角与旋转门
+>     subgraph IronTriangle ["次政府封闭利益铁三角 (Subgovernment Iron Triangle)"]
+>         direction TB
+>         Leg["国会教育委员会 (古德林/斯威特)<br/>• 掌握立法权与预算授权<br/>• 诉求：以资金换取政治控制"]
+>         Bur["联邦科研官僚 (NICHD 里昂/NRP)<br/>• 掌管科研经费分配<br/>• 诉求：确立医学与定量实验霸权"]
+>         Corp["商业出版巨头 (麦格劳-希尔/Open Court)<br/>• 垄断拼读教材与标准化测试<br/>• 诉求：锁定政府补贴与商业利润"]
+>         Door["政商旋转门枢纽 (全美正确阅读基金会 NRRF)<br/>• 幕僚斯威特任主席，连接国会与企业"]
+> 
+>         Leg <-->|"提供权威听证背书 / 确立排他性法律定义"| Bur
+>         Bur <-->|"钦定教材为唯一科学标准 / 输送研发资助与席位"| Corp
+>         Corp <-->|"政治献金与游说 / 锁定数十亿美元教材采购市场"| Leg
+>         Leg --- Door
+>         Door --- Corp
+>     end
+> 
+>     %% 规训与边缘化主体
+>     subgraph Excluded ["利益规训与边缘化客体 (Marginalized Groups)"]
+>         direction TB
+>         Teachers["一线公立学校与基层教师<br/>• 专业能动性被剥夺，沦为脚本执行者<br/>• 十万封请愿抗议信遭国会漠视"]
+>         Scholars["多元学术共同体 (质性/行动研究/全语言)<br/>• 遭官方专家委员会系统排斥<br/>• 被扣上反科学意识形态帽子"]
+>         Public["纳税人与学生群体<br/>• 公共财政税金转化为企业垄断利润<br/>• 接受机械去情境的技能规训"]
+>     end
+> 
+>     %% 权力规训与利益抽取
+>     Leg -->|"附带严苛教学限制的联邦专项拨款"| Teachers
+>     Bur -->|"剥夺学术合法性并封杀非实验研究资助"| Scholars
+>     Corp -->|"垄断性倾销昂贵教材与高利害测试"| Teachers
+>     Public -->|"公共税收注资"| Leg
+> 
+>     %% 基层与批判反制
+>     Teachers -.->|"行使合宪自治权拒领拨款 (如宾州学区)"| Leg
+>     Scholars -.->|"批判政策研究揭露政商寻租 (Strauss/Goodman)"| IronTriangle
+> ```
+
 > [!critique] 学界对次政府利益输送与政商同盟的公开质询（Strauss, 2001; Metcalf, 2002）
 > - **政企结盟与学术争鸣受抑** 语言学家兼神经学家史蒂文·施特劳斯（Steven Strauss, 2001）在《教育研究者》（Educational Researcher）发表公开信，尖锐质问联邦科研机构与企业圆桌会议（Business Roundtable）的深度结盟是否真正欢迎学术争鸣，其确立的政策规范最终究竟是在服务儿童，还是在服务商业出版商的利润。（p. 9）
 > - **幕僚身份重叠与商业寻租** 调查揭示众议院委员会多数党资深幕僚罗伯特·斯威特（Robert Sweet）同时是全美阅读权利基金会的创始人，而该基金会与推广拼读教材的出版巨头存在千丝万缕的利益往来（Metcalf, 2002），暴露出次政府铁三角高度封闭的政商寻租闭环。
@@ -232,9 +269,6 @@ issuing_organization: ""
 
 > [!claim] 步骤三核心主张
 > [[Critical Pluralism|批判性多元主义]]将政策重新定义为负载权威价值观的人为建构；教育者应当综合运用功能、沟通与批判三类政策研究看清政策背后的权力偏向，并通过学区抵制附条件拨款、联合社会大众维权以及抵制商业利益合谋，在民主政治中重夺专业自主权。（pp. 11–14）
-
-> [!figure]- 批判性多元主义框架图（p. 11）
-> ![](https://img.mylikemie.icu/sources/Edmondson_2005_EPAA/figures/Edmondson_2005_EPAA_Fig3_Critical_Pluralism.jpg)
 
 > [!row-contrast] 批判性多元主义框架的核心要素与实践要求（p. 11）
 > | 框架维度 | 核心主张与规范内涵 |

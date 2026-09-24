@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Plato",
-      "path": "wiki/persons/greece/Plato.md"
-    },
-    {
       "basename": "Argument_Edmondson_2005_EPAA",
       "path": "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md"
+    },
+    {
+      "basename": "Visual Data",
+      "path": "wiki/concepts/research-methodology/Visual Data.md"
+    },
+    {
+      "basename": "Plato",
+      "path": "wiki/persons/greece/Plato.md"
     },
     {
       "basename": "Action Research",
@@ -195,10 +199,6 @@
     {
       "basename": "Skill of Questioning",
       "path": "wiki/concepts/instruction-pedagogy/Skill of Questioning.md"
-    },
-    {
-      "basename": "Epistemology",
-      "path": "wiki/concepts/educational-philosophy/Epistemology.md"
     }
   ],
   "omittedPaths": [],

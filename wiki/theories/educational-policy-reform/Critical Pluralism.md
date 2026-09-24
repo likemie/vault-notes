@@ -81,9 +81,6 @@ updated: 2026-09-24
 
 ## 关键概念与理论构件
 
-> [!figure]- 批判性多元主义框架图（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005, p. 11]]）
-> ![](https://img.mylikemie.icu/sources/Edmondson_2005_EPAA/figures/Edmondson_2005_EPAA_Fig3_Critical_Pluralism.jpg)
-
 > [!row-contrast] 批判性多元主义框架核心要素（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005, p. 11]]）
 > | 框架要素 | 理论界定与行动要求 |
 > |:---|:---|
