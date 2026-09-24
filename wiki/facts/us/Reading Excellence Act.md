@@ -38,6 +38,8 @@ related_facts:
   - "[[House Committee on Education and the Workforce]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Open Court Reading]]"
+  - "[[National Reading Panel]]"
+  - "[[International Reading Association]]"
 related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
 confidence: high
@@ -91,7 +93,7 @@ updated: 2026-09-24
 > - 1997 年 10 月 [[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]主席比尔·古德林（Bill Goodling）正式提出众议院第 2614 号法案（H.R. 2614）。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 8)]]
 > - 1997 年 10 月 6 日 古德林议员在国会发表演说，全面引述国家儿童健康与人类发展研究所（NICHD）儿童发展与行为分支负责人里德·里昂（G. Reid Lyon）的听证会证词，将语音拼读确立为立法基石。
 > - 1997 年 12 月 众议院通过口头表决迅速通过 H.R. 2614；引发全美英语教师委员会（NCTE）等学会联合 10 万名教育工作者发起广泛写信抗议。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 6)]]
-> - 1998 年 春季 参议院教育委员会审议法案，国际阅读协会（IRA）政府关系联络员理查德·朗（Richard Long）展开密集幕后游说，利用委员会幕僚既希望提供补助又担忧过度规制的心态促成词汇修改。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 7)]]
+> - 1998 年 春季 参议院教育委员会审议法案，[[International Reading Association|国际阅读协会]]（IRA）政府关系联络员理查德·朗（Richard Long）展开密集幕后游说，利用委员会幕僚既希望提供补助又担忧过度规制的心态促成词汇修改。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 7)]]
 > - 1998 年 10 月 参议院通过两党折衷方案，由克林顿总统签署为联邦公法（P.L. 105-277）。
 > - 2001 年 法案确立的阅读与科研定义被原封不动平移进《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》中的阅读优先计划。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 13)]]
 
@@ -118,7 +120,7 @@ updated: 2026-09-24
 > - **高权力 · 高利益 — 关键行动者** 国会教育委员会核心领导层（比尔·古德林）与联邦官僚机构（NICHD 里德·里昂），直接掌控立法程序与科研证据话语霸权。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 8)]]
 > - **高权力 · 低利益 — 潜在否决者或盟友** 参议院两党温和派议员，关注教育专项经费分配但缺乏对阅读学术细节的深究，在获得各方妥协方案后迅速放行。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 7)]]
 > - **低权力 · 高利益 — 受影响群体** 基层中小学阅读教师与[[Normal School|师范教育]]者，直接受制于联邦经费绑定的教学规范，虽通过十万封写信抗议表达反对，但因缺乏制度化资本而难以撼动核心法条。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 6)]]
-> - **高利益 · 中等权力 — 调解中介** 专业组织（如国际阅读协会 IRA 与全美英语教师委员会 NCTE），借助专业声望介入立法谈判，推动有限的词汇修正。
+> - **高利益 · 中等权力 — 调解中介** 专业组织（如[[International Reading Association|国际阅读协会]] IRA 与全美英语教师委员会 NCTE），借助专业声望介入立法谈判，推动有限的词汇修正。
 
 > [!prop-table]- 关键行动者属性
 > | 行动者 | 资源类型 | 核心利益 | 立场 | 策略 |
@@ -126,7 +128,7 @@ updated: 2026-09-24
 > | 国会教育与劳动力委员会 | 权威资源、立法管辖权 | 树立问责政绩，平息公众对阅读危机的恐慌 | 支持强干预 | 主导立法规程，将医学实证心理学证据上升为国家标准 |
 > | NICHD（里德·里昂） | 科研拨款、行政权威、专业声望 | 确立神经认知与直接拼读[[Paradigm\|范式]]为国家唯一权威标准 | 支持强干预 | 向国会听证会密集输入受资助学者成果并直接指导法条起草 |
 > | 商业出版集团（如麦格劳-希尔） | 雄厚资金、商业网络、政治献金 | 垄断与联邦标准绑定的基础读本和测试工具市场 | 支持标准收紧 | 游说国会，赞助保守派智库与阅读基金会（如全国阅读权利基金会） |
-> | 国际阅读协会（IRA） | 会员网络、学术声誉、专业代表性 | 保障联邦对薄弱学校的经费投入，维系自身政策影响力 | 妥协型参与 | 开展幕后闭门游说，促成参议院文本扩大定义宽容度 |
+> | [[International Reading Association\|国际阅读协会]]（IRA） | 会员网络、学术声誉、专业代表性 | 保障联邦对薄弱学校的经费投入，维系自身政策影响力 | 妥协型参与 | 开展幕后闭门游说，促成参议院文本扩大定义宽容度 |
 > | 全美英语教师委员会（NCTE）及教师联盟 | 基层动员力、公共言论 | 捍卫[[Teacher Professional Agency\|教师专业自主权]]，反对联邦强制规定教学法与科研模式 | 坚决反对 | 起草公开抗议声明，发动基层会员开展全国信件抗议活动 |
 
 > [!tension]- 联盟结构与冲突
@@ -170,7 +172,7 @@ updated: 2026-09-24
 > > [!axis] 科学研究标准的实证垄断与学术多元之争
 > > 争论官方推行的实证干预[[Paradigm|范式]]是否构成了学术话语霸权。
 > >
-> > - **NICHD 与量化心理学学者（Lyon, NRP）** 坚称直接且系统的拼读教学与实验对照研究是唯一经过科学验证的方法。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8, 10)]]
+> > - **NICHD 与量化心理学学者（Lyon, [[National Reading Panel|NRP]]）** 坚称直接且系统的拼读教学与实验对照研究是唯一经过科学验证的方法。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8, 10)]]
 > > - **读写学者与一线教师（Strauss, 2001; Goodman, 1999; NCTE）** 指责官方以科学共识为名行利益垄断之实，将质性、文化与[[Action Research|行动研究]]排除在外，实质上服务于商业出版集团的利润。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 6, 9–10)]]
 
 > [!citation-card] 学界对次政府封闭同盟的公开质问

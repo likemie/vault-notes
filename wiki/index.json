@@ -12322,6 +12322,17 @@
     ]
   },
   {
+    "title": "Elite Theory",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Elite Theory.md",
+    "aliases": [
+      "精英理论",
+      "精英主义政策模型",
+      "权力精英理论",
+      "Power Elite Theory"
+    ]
+  },
+  {
     "title": "Four Generations of Research Use",
     "type": "theory",
     "path": "wiki/theories/educational-policy-reform/Four Generations of Research Use.md",
@@ -25458,6 +25469,18 @@
     ]
   },
   {
+    "title": "International Reading Association",
+    "type": "fact",
+    "path": "wiki/facts/us/International Reading Association.md",
+    "aliases": [
+      "IRA",
+      "国际阅读协会",
+      "国际读写协会",
+      "International Literacy Association",
+      "ILA"
+    ]
+  },
+  {
     "title": "Massachusetts Department of Elementary and Secondary Education",
     "type": "fact",
     "path": "wiki/facts/us/Massachusetts Department of Elementary and Secondary Education.md",
@@ -25514,6 +25537,16 @@
     "aliases": [
       "国家教育政策中心",
       "NEPC"
+    ]
+  },
+  {
+    "title": "National Reading Panel",
+    "type": "fact",
+    "path": "wiki/facts/us/National Reading Panel.md",
+    "aliases": [
+      "NRP",
+      "国家阅读委员会",
+      "全美阅读专家小组"
     ]
   },
   {

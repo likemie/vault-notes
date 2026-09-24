@@ -31,7 +31,11 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Variable]]"
   - "[[Global Education Reform Movement]]"
-related_theories: []
+related_theories:
+  - "[[Elite Theory]]"
+  - "[[Subgovernment Theory]]"
+  - "[[Critical Pluralism]]"
+  - "[[Neocorporatism]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
@@ -47,12 +51,18 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Rose Report]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
+  - "[[Reading Excellence Act]]"
+  - "[[National Reading Panel]]"
+  - "[[International Reading Association]]"
+  - "[[House Committee on Education and the Workforce]]"
+  - "[[Open Court Reading]]"
 related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Edmondson_2005_EPAA]]"
 part_of: ''
 status: draft
 created: 2026-05-03
-updated: 2026-06-17
+updated: 2026-09-24
 year: 2020
 doi: ""
 citation_aliases: []
@@ -108,7 +118,11 @@ citation_aliases: []
 >   - 全语言运动在美、澳等国兴起。其诞生不仅是教学法的发展，更吸收了民权运动等进步社会运动的养分，强调 child-centered（以儿童为中心）教学对不同阶层和种族背景儿童的尊重 (p.149-150)。
 > - **1980年代－1990年代：阅读战争爆发**
 >   - 全语言在英语国家广泛传播并进入主流政策，但在 1990 年代遭到保守派猛烈反弹，围绕“系统拼读”与“全语言”爆发了持久的“阅读战争”（Reading Wars）(p.144)。
-> - **2001年：[[No Child Left Behind Act 2001\|NCLB]] 法案政策清洗**
+> - **1997年－1998年：《卓越阅读法案》立法阻击战与法制清洗序幕**
+>   - 面对美国国会《[[Reading Excellence Act|卓越阅读法案]]》（REA）草案试图以法律形式将全语言定性为“非科学”并排斥在联邦拨款之外，全美读写教育界爆发空前抗争。逾 100,000 名公立学校教师与学者联名向国会寄送信件请愿，坚决反对由联邦政府强制界定单一阅读定义或教学研究模式。然而，由于次政府铁三角的阻挠与[[International Reading Association|国际阅读协会]]（IRA）高层的闭门妥协，这一草根抗争未能彻底扭转立法方向，反而确立了“[[Scientifically Based Research|科学本位阅读研究]]”（SBRR）的排他性法律门槛，为三年后全语言在联邦层面的彻底被清洗拉开了序幕。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 5–7; Goodman, 1999)]]
+> - **2000年：[[National Reading Panel|国家阅读委员会]]（NRP）里程碑报告推行范式垄断**
+>   - NRP 发布旗舰报告《教儿童阅读》，以因果推断实验设计为唯一准入门槛，系统性排除了全语言依赖的质性、叙事与课堂行动研究，将早期阅读强行归约为拼读等五大技能支柱，从“实证证据”层面对全语言实施了范式封杀。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 9–10)]]
+> - **2001年：[[No Child Left Behind Act 2001|NCLB]] 法案政策清洗**
 >   - 在美国福音派基督教团体与共和党右翼推动下，布什政府颁布《不让一个孩子掉队法案》（No Child Left Behind Act, NCLB），禁止联邦资金流向不推广系统合成拼读的学区，全语言在政策层面遭到清洗 (p.147)。
 > - **2009年：[[Visible Learning\|可见的学习]]（Visible Learning，VL）的低效应评估**
 >   - [[John Hattie\|约翰·哈蒂]] (John Hattie) 在其代表作《VL》中将全语言的[[Effect Size\|效应量]]评为 d = 0.06，宣告全语言对阅读阅读“影响可忽略不计”，引起全球证据本位政策的震荡 (p.142)。
@@ -133,24 +147,32 @@ citation_aliases: []
 > - **非对称审查与选择性修正**[[John Hattie\|哈蒂]]对报告极端负面（d = -0.65）的 [[William Jeynes\|杰尼斯]]与利特尔（Jeynes & Littell, 2000）算错的研究未加任何审查即全盘接受；却唯独对显示正面效应的 Gee (1995)（d = 0.65）手动删除三项正面研究，强行将[[Effect Size\|效应量]]修正为零 (p.148)。
 > - **研究者偏见与政治镜头** 哈蒂对[[Direct Instruction\|直接教学]]偏爱，对[[Jean-Jacques Rousseau\|卢梭]]式[[Constructivist Paradigm\|建构主义]]敌视，导致其选择性忽略了 [[William Jeynes\|杰尼斯]]福音派传教士身份的保守派右翼政治偏见，并在《VL》中对正反数据采取了双重审查标准 (p.147-148)。
 
-> [!critique-logic] [[Technical Rationality\|技术理性]]与标准化问责的劫持
-> - **[[Variable\|变量]][[Coding in Qualitative Research\|编码]]的模糊性** [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] 指出，“全语言教学”在不同的元分析中操作定义极度模糊，这导致不同研究的简单量化合成失去了科学比较的前提。
-> - **教育工业化与绩效管理** 新自由主义[[Global Education Reform Movement\|全球教育改革运动]]（GERM）将阅读过程还原为可以按月测量的标准化增量，导致全语言以意义为中心、注重儿童社会文化发展的质性价值被遮蔽，强行推行自上而下的效率考核 (p.149)。
+> [!critique-logic] [[Technical Rationality|技术理性]]与标准化问责的劫持
+> - **[[Variable|变量]][[Coding in Qualitative Research|编码]]的模糊性** [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 指出，“全语言教学”在不同的元分析中操作定义极度模糊，这导致不同研究的简单量化合成失去了科学比较的前提。
+> - **教育工业化与绩效管理** 新自由主义[[Global Education Reform Movement|全球教育改革运动]]（GERM）将阅读过程还原为可以按月测量的标准化增量，导致全语言以意义为中心、注重儿童社会文化发展的质性价值被遮蔽，强行推行自上而下的效率考核 (p.149)。
+
+> [!critique] 次政府利益同盟与教科书商业寻租
+> - **政商学铁三角的利益制造** [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]]、肯·古德曼（Goodman, 1999）与施特劳斯（Strauss, 2001）指出，全语言运动遭遇的所谓“科学失败”标签，本质上是一场由联邦科研行政官僚（NICHD）、国会保守派领导层（众议院教育委员会）与商业教材出版集团（麦格劳-希尔/《[[Open Court Reading]]》）组成的次政府铁三角（[[Subgovernment Theory|Subgovernment Iron Triangle]]）联手主导的政治经济清洗。
+> - **反抗商业规训与教师去专业化** 全语言强调儿童文学的开放性、情境化阅读与教师的教学专业自主裁量（[[Teacher Professional Agency]]），难以被打包为可批量采购、高额收费的商业练习册与脚本化教材；而次政府利益同盟借由推崇机械拼读，成功将全美数十亿美元的联邦公共教育预算转化为少数教科书寡头的垄断利润，全语言因而成为政商旋转门寻租与技术官僚规训的牺牲品。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–10)]]
 
 ---
 
 ## 应用案例
 
-> [!case] Case 1: Dahl & Freppon (1994) 双城[[Cohort Study\|追踪研究]]
+> [!case] Case 1: Dahl & Freppon (1994) 双城[[Cohort Study|追踪研究]]
 > 该研究追踪了低收入内城区学校的 8 个班级两年（幼儿园到一年级），结果表明虽然量化阅读测试得分相似，但全语言班学生能生成更多故事语言的句法与词汇特征，并建立起极强的读写坚持性与 ownership（学习所有权），而技能本位班只有最 proficiency 的学生才有此类倾向 (p.146-147)。
 
 > [!case] Case 2: Trachtenburg & Ferruggia (1989) 共享大书实验
-> 该研究针对高风险初学者，通过故事大书进行“共享阅读体验”。学生每天自主选择想学的词，教师基于儿童口头复述材料制作拼读教具，实现技能教学在文学情境下的自然流动，达成了 d = 1.7 的高效益，但被[[John Hattie\|哈蒂]]以“使用了单词表和[[Decodification\|解码]]技术”为由选择性剔除 (p.148)。
+> 该研究针对高风险初学者，通过故事大书进行“共享阅读体验”。学生每天自主选择想学的词，教师基于儿童口头复述材料制作拼读教具，实现技能教学在文学情境下的自然流动，达成了 d = 1.7 的高效益，但被[[John Hattie|哈蒂]]以“使用了单词表和[[Decodification|解码]]技术”为由选择性剔除 (p.148)。
 
 ---
 
 ## 相关事实与政策
 
 - [[No Child Left Behind Act 2001]] — 2001年美国法案，要求强制推行系统拼读以取消全语言拨款。
+- [[Reading Excellence Act]] — 1998年美国法案，首次在联邦法律中引入排他性科学本位阅读研究标准，开启对全语言的政策边缘化。
+- [[National Reading Panel]] — 2000年美国国家专家委员会，确立五大拼读技能支柱，在循证证据层面排斥全语言多元研究。
+- [[International Reading Association]] — 代表全美读写教师但因闭门妥协出卖全语言专业自主权而遭批判的行业协会。
+- [[Open Court Reading]] — 麦格劳-希尔旗下商业拼读教材，借由打压全语言垄断数十亿美元联邦采购。
 - [[Rose Report]] — 2006年英国报告，以“[[Simple View of Reading|简单阅读观]]”为依据，推广强制合成语音教学。
 - [[Victorian HITS and Literacy Toolkit]] — 澳大利亚维多利亚州官方教学政策，以VL[[Effect Size|效应量]]排名为最高证据支持。

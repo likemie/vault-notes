@@ -30,11 +30,13 @@ related_concepts:
   - "[[Definition of Terms]]"
   - "[[Epistemology]]"
   - "[[Visual Data]]"
+  - "[[Whole Language]]"
 related_theories:
   - "[[Neocorporatism]]"
   - "[[Subgovernment Theory]]"
   - "[[Critical Theory]]"
   - "[[Critical Pluralism]]"
+  - "[[Elite Theory]]"
 related_methods:
   - "[[Documentary Analysis]]"
   - "[[Qualitative Research]]"
@@ -46,6 +48,8 @@ related_facts:
   - "[[Reading Excellence Act]]"
   - "[[House Committee on Education and the Workforce]]"
   - "[[Open Court Reading]]"
+  - "[[National Reading Panel]]"
+  - "[[International Reading Association]]"
 related_arguments: []
 sources:
   - "[[sources/Edmondson_2005_EPAA/Edmondson_2005_EPAA|Edmondson_2005_EPAA]]"
@@ -174,16 +178,16 @@ issuing_organization: ""
 > | **阅读定义** | 阅读是指依赖以下能力理解书面文本含义的过程：<br>(A) 运用语音拼读技能（即字母和发音的知识）快速且毫不费力地对印刷词汇进行默读和朗读解码的能力；<br>(B) 运用先前习得的阅读理解策略的能力；<br>(C) 对文本的含义、信息和审美价值进行批判性思考的能力。 | 阅读是指从印刷品中获取意义的复合系统，必须同时具备以下全部要素：<br>(A) 理解音位（语音）如何与印刷符号相连接的技能与知识；<br>(B) 解码生词的能力；<br>(C) 流畅阅读的能力；<br>(D) 促进阅读理解所必需的充分背景信息与词汇；<br>(E) 发展从印刷品建构意义的主动策略；<br>(F) 形成并维系阅读动机。 |
 > | **科研标准定义** | **可靠且可复制的研究**——指客观、有效的科学研究：<br>(A) 包含足够庞大且具有代表性的严格界定受试样本，足以支持得出的普遍结论；<br>(B) 依赖符合已确立信效度标准的测量工具；<br>(C) 当存在多种竞争性理论时对其进行检验；<br>(D) 成果出版前经过同行评议；<br>(E) 发现提高阅读技能的有效策略。 | **科学本位阅读研究（Scientifically Based Reading Research, SBRR）**——<br>(A) 运用严密、系统和客观的程序以获取与阅读发展、阅读教学和阅读困难相关的有效知识；<br>(B) 且应包括以下研究：<br>　(i) 采用借鉴观察或实验的系统性经验方法；<br>　(ii) 涉及足以检验预设假设并论证得出普遍结论的严密数据分析；<br>　(iii) 依赖能够跨观察者、跨测量工具及跨研究提供可靠有效数据的测量方法；<br>　(iv) 经过同行评议并被接受出版。 |
 
-> [!tension-table] 国际阅读协会游说中的[[Neocorporatism|法团主义]]妥协张力（p. 7）
-> | 利益诉求维度 | 国会参议院委员会幕僚立场 | 国际阅读协会（IRA）高层策略 | 基层会员与学术界反弹 |
+> [!tension-table] [[International Reading Association|国际阅读协会（International Reading Association, IRA）]]游说中的[[Neocorporatism|法团主义]]妥协张力（p. 7）
+> | 利益诉求维度 | 国会参议院委员会幕僚立场 | [[International Reading Association\|国际阅读协会]]（IRA）高层策略 | 基层会员与学术界反弹 |
 > |:---|:---|:---|:---|
 > | **财政资源** | 希望向阅读成绩持续偏低的学校定向投放专项经费 | 极力确保联邦阅读补助基金的顺利落地，维系自身政策分量 | 批评资金附带强制性规约，可能演变为对学校的财政胁迫（p. 13） |
 > | **[[Definition of Terms\|术语定义]]** | 倾向平衡方案，不愿联邦政府过度机械定义阅读 | 抓住参议院审议窗口，推动扩大阅读与科研的内涵 | 质疑修正案依然保留实证控制框架，未能代表专业真实心声 |
 > | **代表性合法性** | 仅与具备全国影响力的官方组织代表对话 | 以全行业唯一合法代言人自居与议员幕僚谈判 | 会员强烈不满高层秘密妥协，质疑组织是否出卖了学术自主权 |
 
 > [!critique] 对法团主义闭门妥协的代表性与合法性质疑（Goodman, 1999; Taylor, 1999; Dahl, 1985; p. 7）
-> - **密室谈判的运作机制** 在法案移交参议院审议阶段，政策博弈转向法团主义（Corporatism）路径。参议院教育委员会幕僚一方面急于向薄弱学校投放联邦师资培训经费，另一方面又不愿由联邦政府对教学法做出过于死板的界定。IRA 政府事务负责人理查德·朗介入幕后密室谈判，成功游说幕僚将法案中阅读定义扩充为包含背景知识、理解策略和阅读动机的复合体系，并将研究标准改写为科学本位阅读研究（Scientifically Based Reading Research, SBRR）。（pp. 5, 7）
-> - **学术界与基层会员的反弹** 尽管 IRA 高层视之为务实胜利，但妥协在学术界和一线教师中引发了强烈的信任危机（Goodman, 1999; Taylor, 1999）。罗伯特·达尔（Robert Dahl, 1985）指出，法团主义机制往往用少数精英的秘密交易取代了广泛的民主商议。
+> - **密室谈判的运作机制** 在法案移交参议院审议阶段，政策博弈转向法团主义（Corporatism）路径。参议院教育委员会幕僚一方面急于向薄弱学校投放联邦师资培训经费，另一方面又不愿由联邦政府对教学法做出过于死板的界定。[[International Reading Association|国际阅读协会]]（IRA）政府事务负责人理查德·朗介入幕后密室谈判，成功游说幕僚将法案中阅读定义扩充为包含背景知识、理解策略和阅读动机的复合体系，并将研究标准改写为科学本位阅读研究（Scientifically Based Reading Research, SBRR）。（pp. 5, 7）
+> - **学术界与基层会员的反弹** 尽管 IRA 高层视之为务实胜利，但妥协在学术界和一线教师中引发了强烈的信任危机（Goodman, 1999; Taylor, 1999）。针对这一妥协对[[Whole Language|全语言]]阵营造成的冲击，罗伯特·达尔（Robert Dahl, 1985）指出，法团主义机制往往用少数精英的秘密交易取代了广泛的民主商议。
 > - **代表性脱节与学科自主权的让渡** IRA 高层未经会员民主授权，擅自接受了联邦政府对学科概念进行法律管辖的前提，将教育学者置于被动附庸地位，造成了专业协会代表性与基层民意的严重脱节。
 
 ---
@@ -249,16 +253,16 @@ issuing_organization: ""
 > [!quad-grid] 政策制定四种传统理论的比较与诊断
 > - **多元主义（Pluralism）**
 >   预设多元群体公平竞争。诊断：无视政治经济不平等，基层教师的请愿信被轻易规避。（pp. 3, 6）
-> - **法团主义（Corporatism）**
+> - **[[Neocorporatism|法团主义（Corporatism）]]**
 >   大型行业协会直接参与决策。诊断：导致非民主的闭门妥协，加剧组织内部的合法性危机。（pp. 3, 7）
-> - **[[Subgovernment Theory|次政府理论]]（Subgovernments）**
+> - **[[Subgovernment Theory|次政府理论（Subgovernments）]]**
 >   立法专委会、官僚与商业利益的铁三角。诊断：形成专业知识与利益分配的排他性寡头垄断。（pp. 3, 8–9）
-> - **精英理论（Elite Theory）**
+> - **[[Elite Theory|精英理论（Elite Theory）]]**
 >   同质化专家与权力精英掌控议程。诊断：借由官方报告生产垄断性共识，剥夺公众自决权。（pp. 3, 9–10）
 
 > [!case] 案例分析：国家专家委员会（NRC 与 NRP）对科学共识的话语垄断（Schumpeter; p. 10）
 > - **精英民主与议程控制** 约瑟夫·熊彼特（Joseph Schumpeter）揭示，在精英民主体制下，普通公民往往无法自主决定公共议程，议程总是由少数社会精英预先设计并强加给社会。国家权力通过设立高规格专家委员会生产看似中立客观的学术共识，从而在合法性层面上彻底压制异见。
-> - **专家构成的高度同质化** 国家研究委员会（NRC）于 1998 年发布的《预防幼童阅读困难》报告，以及随后国会依《卓越阅读法案》授权设立的国家阅读委员会（National Reading Panel, NRP），成员绝大多数来自量化心理学与认知医学领域。（p. 10）
+> - **专家构成的高度同质化** 国家研究委员会（NRC）于 1998 年发布的《预防幼童阅读困难》报告，以及随后国会依《卓越阅读法案》授权设立的[[National Reading Panel|国家阅读委员会（National Reading Panel, NRP）]]，成员绝大多数来自量化心理学与认知医学领域。（p. 10）
 > - **范式排他性与科学标签化** 官方支持的权威委员会以总结唯一科学真理的面目出现，系统性地把[[Qualitative Research|质性研究]]、[[Action Research|行动研究]]、儿童文学与社会文化学派的学者排斥在决策范围之外。特定群体的意识形态偏好被包装为全社会的客观标准，使得教师和学校只要偏离拼读路线，就会被扣上反科学的标签。
 
 ---
