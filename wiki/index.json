@@ -25701,6 +25701,18 @@
     ]
   },
   {
+    "title": "Common Core State Standards",
+    "type": "fact",
+    "path": "wiki/facts/us/Common Core State Standards.md",
+    "aliases": [
+      "共同核心州立标准",
+      "共同核心标准",
+      "共同核心国家标准",
+      "共同核心课程标准",
+      "CCSS"
+    ]
+  },
+  {
     "title": "Common Rule 2018",
     "type": "fact",
     "path": "wiki/facts/us/Common Rule 2018.md",
@@ -26960,6 +26972,11 @@
     "title": "Argument_Glitz_2020_AER",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/American Economic Review/Argument_Glitz_2020_AER.md"
+  },
+  {
+    "title": "Argument_McDonnell_2013_AJE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/American Journal of Education/Argument_McDonnell_2013_AJE.md"
   },
   {
     "title": "Argument_Bolton_2017_ArchPsych",

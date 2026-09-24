@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-09-23
+updated: 2026-09-24
 ---
 
 # Elite Interview
@@ -172,4 +172,5 @@ updated: 2026-09-23
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] — 对 20 位具备英格兰教育政策内部准入资格的高级官员、政府顾问与学者展开精英访谈，揭示了[[Evidence Era\|证据时代]]教师教育治理中政府守门与[[Policy-Based Evidence-Making\|逆向证据生产]]机制。
+> - [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] — 对全美及加利福尼亚、印第安纳、马萨诸塞与田纳西四个州的 111 位国家与州级政策制定者、标准起草专家、教师工会领袖及批评者开展结构化精英访谈，结合 1,500 余份政策档案实施过程追踪，系统阐明了[[Common Core State Standards|共同核心州立标准]]在问题界定、方案设计与政策采纳三阶段中实证研究与专业经验、政治价值的动态整合机制。
 

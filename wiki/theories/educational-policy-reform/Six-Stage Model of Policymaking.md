@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-24
 ---
 
 # Six-Stage Model of Policymaking
@@ -158,7 +158,7 @@ updated: 2026-09-17
 > - **1951–1956 年** 哈罗德·拉斯韦尔首创[[Policy Science in Comparative Education\|政策科学]]七阶段决策模型（情报、建议、规定、调用、应用、终止、评估），确立阶段分析传统。
 > - **1975–1980 年** 詹姆斯·安德森与查尔斯·琼斯提炼形成经典的五阶段政策过程模型（[[Problem Finding\|问题界定]]、议程确立、方案拟定、政策采纳、执行与评估）。
 > - **1990 年代** 萨巴蒂尔批评阶段模型缺乏因果解释力，政策学界[[Emergence\|涌现]]倡导联盟框架、间断均衡理论及[[Multiple Streams Framework\|多源流模型]]，阶段模型逐渐被定位为宏观启发式框架。
-> - **2013 年** 奥克利等人（Oakley, Pesta, Ciftci, & Blomberg, 2013）在《政治与法律学刊》（*Journal of Politics and Law*）发表论文，对政策全过程六阶段模型进行系统建构与实证检验。
+> - **2013 年** 奥克利等人（Oakley, Pesta, Ciftci, & Blomberg, 2013）在《政治与法律学刊》（*Journal of Politics and Law*）发表论文，对政策全过程六阶段模型进行系统建构与实证检验；同年麦克唐纳与韦瑟福德（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013]]）在《美国教育学刊》（*American Journal of Education*）发表研究，运用过程追踪法考察共同核心州立标准运动，实证揭示了实证证据在问题界定、方案设计与政策采纳三阶段中与专业判断、价值叙事的差异化整合规律。
 > - **2020 年** 塞佩尔在《教育心理学家》（*Educational Psychologist*）将六阶段模型系统引入教育立法研究，聚焦前四阶段构建出[[Navigational Framework for Educational Researchers\|教育研究者政策导航框架]]。
 
 ---
