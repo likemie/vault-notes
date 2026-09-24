@@ -92,9 +92,6 @@ issuing_organization: ""
 
 为解析《[[Reading Excellence Act|卓越阅读法案]]》的生成机制及其对专业群体的排斥，研究引入斯黛拉·西奥杜卢（Stella Theodoulou）与马修·卡恩（Matthew Cahn）在 1995 年归纳的政策制定四分类型学，并在此基础上发展出批判性替代模型。（pp. 2–4, 10–11）
 
-> [!figure]- 政策制定四种传统理论类型图（Theodoulou & Cahn, 1995）
-> ![](https://img.mylikemie.icu/sources/Edmondson_2005_EPAA/figures/Edmondson_2005_EPAA_Fig1_Policymaking_Typology.jpg)
-
 > [!row-contrast] 政策制定四种传统理论的特征与局限（Theodoulou & Cahn, 1995; p. 3）
 > | 理论流派 | 核心描述与理论渊源 | 在教育政策中的典型表现与局限 |
 > |:---|:---|:---|

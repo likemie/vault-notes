@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md"
     },
     {
+      "basename": "Edmondson_2005_EPAA",
+      "path": "sources/Edmondson_2005_EPAA/Edmondson_2005_EPAA.md"
+    },
+    {
       "basename": "Documentary Analysis",
       "path": "wiki/methods/qualitative/Documentary Analysis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Epistemic Deference",
       "path": "wiki/concepts/educational-philosophy/Epistemic Deference.md"
-    },
-    {
-      "basename": "Automation Bias",
-      "path": "wiki/concepts/educational-technology/Automation Bias.md"
     }
   ],
   "omittedPaths": [],
