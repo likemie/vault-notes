@@ -53,6 +53,7 @@ related_facts:
   - "[[Education Innovation and Research]]"
   - "[[What Works Clearinghouse]]"
   - "[[Success for All]]"
+  - "[[Bill & Melinda Gates Foundation]]"
   - "[[Reading Recovery]]"
   - "[[Institute of Education Sciences]]"
   - "[[National Center for Education Evaluation and Regional Assistance]]"
@@ -98,7 +99,7 @@ updated: 2026-09-17
 
 > [!policy-design]- 方案设计与管理细则
 > - **项目目标** 孵化有前途的草根创新教学法，验证具备中等效应的干预措施，并向全国推广已被严格证明能显著提升弱势学生[[Academic Achievement\|学业成绩]]的成熟全校改革方案（如 全员成功方案（[[Success for All]], SFA））。
-> - **资金杠杆效应** 强制要求私人慈善配比，撬动了彭博慈善基金会、盖茨基金会等跨国慈善资本共同注入公共教育实证试验。
+> - **资金杠杆效应** 强制要求私人慈善配比，撬动了彭博慈善基金会、[[Bill & Melinda Gates Foundation|盖茨基金会]]等跨国慈善资本共同注入公共教育实证试验。
 > - **评估监管要求** 依据 2002 年《教育科学改革法案》（Education Sciences Reform Act, ESRA），受资助者必须指定独立于自身的第三方评估团队采集数据并向教育部提交最终评估报告。
 
 > [!citation-card] 核心方案条文／立项纲要

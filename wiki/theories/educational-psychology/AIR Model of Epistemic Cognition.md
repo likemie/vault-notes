@@ -8,7 +8,7 @@ aliases:
 summary: "当代教育心理学与学习科学的核心认识论认知模型，将认识实践解构为认识目标、认识论理想与可靠认识论过程三大相互交织的构件。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 45
+theory_related_count: 46
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -73,7 +73,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # AIR Model of Epistemic Cognition

@@ -8,10 +8,10 @@ aliases:
 summary: "教师布置并在校外非教学时段由学生独立或在支持下完成的学习任务，其学业效果受学段认知发展高度调节，并在元分析构念聚合与比较基线不对等上面临方法学争议"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/instructional-design
   - theme/academic-achievement
@@ -76,7 +76,7 @@ related_instruments:
 confidence: high
 status: active
 created: '2026-06-08'
-updated: 2026-09-23
+updated: 2026-09-26
 ---
 
 # Homework

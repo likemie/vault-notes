@@ -12,7 +12,7 @@ summary: "以真实情境中的多轮迭代循环为核心的混合方法论：�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 34
+method_related_count: 35
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-12
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 # Design-Based Research
 

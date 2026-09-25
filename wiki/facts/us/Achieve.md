@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 12
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: think-tank
 headquarters: "华盛顿哥伦比亚特区"
@@ -40,7 +40,9 @@ related_persons: []
 related_facts:
   - "[[Common Core State Standards]]"
   - "[[National Education]]"
+  - "[[Bill & Melinda Gates Foundation]]"
   - "[[Cram Schools]]"
+  - "[[American Diploma Project]]"
   - "[[The Education Trust]]"
   - "[[National Governors Association]]"
   - "[[Council of Chief State School Officers]]"
@@ -65,7 +67,7 @@ updated: 2026-09-26
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 创设于 1996 年。在纽约州帕利塞兹召开的全美教育峰会（[[National Education]] Summit）上，国际商业机器公司（IBM）董事长郭士纳（Louis V. Gerstner Jr.）与威斯康星州州长汤米·汤普森（Tommy Thompson）联合各界提议组建一个永久性独立机构，专责监督并推动各州落实高水平学术标准与问责制。
 > - **总部地点 / 业务辐射** 总部设于华盛顿哥伦比亚特区，业务深度嵌入全美绝大多数州的教育部、州督学公署与立法咨询委员会。
-> - **法人属性与经费基础** 独立的 501(c)(3) 非营利免税研究智库；运营资金高度依赖企业慈善基金会（如比尔与梅琳达·盖茨基金会、卡内基基金会、保诚基金会等）的千万美元级资助，以及承接各州政府的技术咨询采购合同。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 22)]]
+> - **法人属性与经费基础** 独立的 501(c)(3) 非营利免税研究智库；运营资金高度依赖企业慈善基金会（如[[Bill & Melinda Gates Foundation|比尔与梅琳达·盖茨基金会]]、卡内基基金会、保诚基金会等）的千万美元级资助，以及承接各州政府的技术咨询采购合同。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 22)]]
 > - **核心宗旨与法定职责** 确保所有美国高中毕业生具备免修大学[[Cram Schools|补习班]]和在现代高薪行业就业所需的读写、定量与[[Critical Thinking|批判性思维]]能力，消除高中文凭背后的质量注水现象。
 
 ---
@@ -74,7 +76,7 @@ updated: 2026-09-26
 
 > [!dev-timeline] 组织发展历程
 > - **1996–2003年 — 创设与各州课标质量体检期** 成立后重点对各州现行课程标准开展外部学术审查，发布多期《各州标准质量基准报告》，尖锐指出各州大纲过宽过浅、与大学招生要求严重脱节的弊端。
-> - **2004–2008年 — 美国文凭项目（ADP）与前瞻孵化** 联合[[The Education Trust|教育信托]]（The Education Trust）和福特汉姆基金会启动美国文凭项目（American Diploma Project, ADP），吸引 35 个州自愿参与；首次确立了[[College and Career Readiness|大学与职业就绪]]（CCR）实证框架，并联合研发跨州代数二（Algebra II）统测试卷，为后续 [[Common Core State Standards|CCSS]] 奠定了技术底座。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9, 21)]]
+> - **2004–2008年 — [[American Diploma Project|美国文凭项目]]（ADP）与前瞻孵化** 联合[[The Education Trust|教育信托]]（The Education Trust）和福特汉姆基金会启动美国文凭项目（American Diploma Project, ADP），吸引 35 个州自愿参与；首次确立了[[College and Career Readiness|大学与职业就绪]]（CCR）实证框架，并联合研发跨州代数二（Algebra II）统测试卷，为后续 [[Common Core State Standards|CCSS]] 奠定了技术底座。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9, 21)]]
 > - **2009–2020年 — 主导 CCSS 技术研制与 PARCC 统测联盟运营** 作为技术主笔方联合[[National Governors Association|全国州长协会]]（NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（CCSSO）起草全美通用标准；后续作为项目管理者长期主导大学与职业就绪评估联盟（PARCC）的研发与运营；2020 年随着标准常态化，其核心技术团队与数字化资源整体合并入非营利测评机构全美学生测量协会（NWEA）。
 
 ---
@@ -96,7 +98,7 @@ updated: 2026-09-26
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **美国文凭项目（American Diploma Project, ADP）** 覆盖全美 35 州，代表了美国首个跨州自主联合的大学与职业学术基准网络，直接催生了通用代数标准。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 9)]]
+> - **[[American Diploma Project|美国文凭项目]]（American Diploma Project, ADP）** 覆盖全美 35 州，代表了美国首个跨州自主联合的大学与职业学术基准网络，直接催生了通用代数标准。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 9)]]
 > - **《迈向成功的基准》奠基报告** 2008 年联合 [[National Governors Association|NGA]] 和 [[Council of Chief State School Officers|CCSSO]] 出版，以国际测评为镜鉴，奠定了制定全国通用学术标准的顶层战略共识。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 10)]]
 > - **州级对标报告库（Crosswalk Reports）** 针对马萨诸塞等重点阻力州，出具权威比对研究，证实 [[Common Core State Standards|CCSS]] 能够完整继承其 80%–90% 的严谨内容，促成州教育委员会投票过关。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 18)]]
 > - **下一代科学标准（Next Generation Science Standards, NGSS）** 后续联合国家科学教师协会等机构牵头主持全美基础教育新一代科学课程标准的编制与推广。
@@ -134,6 +136,6 @@ updated: 2026-09-26
 > | [[National Governors Association]] | 组织机构 | 共同发起创建 Achieve 并联合推动 [[Common Core State Standards\|CCSS]] 的州长权力枢纽。 |
 > | [[Council of Chief State School Officers]] | 组织机构 | 与 Achieve 长期保持紧密技术协作的各州教育行政联盟。 |
 > | [[Common Core State Standards]] | 政策事实 | Achieve 全程提供核心技术研制与各州对标支撑的课程标准。 |
-> | [[The Education Trust]] | 智库机构 | 与 Achieve 早期联合发起美国文凭项目（ADP）的倡导伙伴。 |
+> | [[The Education Trust]] | 智库机构 | 与 Achieve 早期联合发起[[American Diploma Project\|美国文凭项目]]（ADP）的倡导伙伴。 |
 > | [[National Assessment of Educational Progress]] | 评估事实 | Achieve 动员以证明各州现行标准普遍失效的国家级数据基准。 |
 > | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证[[Document\|文献]] | 详细记录 Achieve 如何动员微观对标数据攻克各州表决关口的研究。 |

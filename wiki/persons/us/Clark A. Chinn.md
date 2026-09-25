@@ -8,7 +8,7 @@ summary: "美国教育心理学家与学习科学家，罗格斯大学教授，�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -72,7 +72,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # Clark A. Chinn

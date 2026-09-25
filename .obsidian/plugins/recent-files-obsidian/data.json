@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/American Journal of Education/Argument_McDonnell_2013_AJE.md"
     },
     {
+      "basename": "Bill & Melinda Gates Foundation",
+      "path": "wiki/facts/us/Bill & Melinda Gates Foundation.md"
+    },
+    {
       "basename": "Race to the Top",
       "path": "wiki/facts/us/Race to the Top.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "High-Stakes Testing",
       "path": "wiki/concepts/educational-policy-reform/High-Stakes Testing.md"
-    },
-    {
-      "basename": "Argument_Jovchevski_2026_PT",
-      "path": "wiki/arguments/journal-articles/Philosophy & Technology/Argument_Jovchevski_2026_PT.md"
     }
   ],
   "omittedPaths": [],

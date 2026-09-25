@@ -62,6 +62,7 @@ related_facts:
   - "[[Building Evidence in Education]]"
   - "[[Learning Data Compact]]"
   - "[[PISA]]"
+  - "[[Bill & Melinda Gates Foundation]]"
   - "[[Education International]]"
   - "[[Research in Schools Evaluation]]"
   - "[[THE Impact Ranking]]"
@@ -144,7 +145,7 @@ updated: 2026-09-18
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 核心规制中枢** [[UNESCO\|联合国教科文组织]]（UNESCO，法定指标协调中枢）、[[World Bank\|世界银行]]（依托庞大资金借贷与自指性[[Quantitative Research\|量化研究]]帝国推行硬性指标合规）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
-> - **高权力 · 低/中利益 — 准外部标杆与资助垄断方** [[OECD\|经合组织]]（依托 [[PISA]] 与跨国比较指标输出标准）、美欧跨国私人慈善基金会（比尔及梅琳达·盖茨基金会、休利特-帕卡德基金会、万事达卡基金会、乐高基金会等，掌握关键课题定向资助权）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
+> - **高权力 · 低/中利益 — 准外部标杆与资助垄断方** [[OECD\|经合组织]]（依托 [[PISA]] 与跨国比较指标输出标准）、美欧跨国私人慈善基金会（比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]、休利特-帕卡德基金会、万事达卡基金会、乐高基金会等，掌握关键课题定向资助权）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
 > - **低权力 · 高利益 — 政策承受者与知识执行体** 全球南方主权受援国教育部门、跨国研究型大学师生、贫困边缘学龄儿童群体。
 > - **低权力 · 低利益 — 传统非教育区域协调组织** 单一专业性边缘多边实体。
 

@@ -8,7 +8,7 @@ summary: "比利时比较教育学者与国际教育政策专家，曾任根特�
 type: person
 nationality: belgium
 person_region: "belgium"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # Dirk Van Damme

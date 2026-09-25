@@ -6,7 +6,7 @@ aliases:
 summary: "由 David A. Chambers、Russell E. Glasgow 与 Kurt C. Stange（2013）提出的实施科学与系统变革理论，彻底颠覆干预成效随时间衰减的传统‘电压降’假设，主张干预措施、实践现场与宏观生态系统三者处于持续的自适应调适、双向学习与动态拟合之中，以实现长效可持续性。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 30
+theory_related_count: 31
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-26
 ---
 
 # Dynamic Sustainability Framework

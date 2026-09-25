@@ -47,6 +47,7 @@ related_methods:
   - "[[Comparative Textbook Analysis]]"
 related_persons:
   - "[[Jiang Shigong]]"
+  - "[[William H. Schmidt]]"
 related_facts:
   - "[[National Security Law]]"
   - "[[Citizenship and Social Development]]"
@@ -233,7 +234,7 @@ citation_aliases:
 > - **政治生活作为忠诚表演的舞台** 转型后的政治生活不再是公民能动性（civic agency）实践的竞技场，而是退化为表演爱国忠诚的单向舞台（p.155）。
 > - **去殖民化叙事在非西方威权情境下的理论盲区** 盎格鲁学术界广泛流行去殖民化（decoloniality）[[Grand Theory\|宏大叙事]]，导致部分学者将香港的本土诉求机械地归结为西方地缘政治操纵或殖民遗毒，甚至在国际学术讨论中将民主抗议者斥为文化叛徒（cultural renegades）（p.154）。
 > - **观念起源谱系迷恋与本土能动性背叛的理论共谋** 针对这种过度关注思想出身（pedigree）的去殖民化思维，泰沃（Olúfẹ́mi Táíwò）指出，仅仅因为香港的法治和自由源于英国殖民主义的历史积淀便否定其正当性，实际上剥夺了本土人（native agency）选择保留何种制度的自决权（pp.154–155）。去殖民学者与威权主义国家在虚无主义的文化相对论上达成共谋，为强制性的权力扩张提供了理论辩护。
-> - **卡尔·施密特主权逻辑在香港宪制体制中的落地** 北京宪制学者[[Jiang Shigong\|强世功]]（Jiang Shigong）将卡尔·施米特（Carl Schmitt）的主权决定[[Schmittian Sovereignty\|例外状态]]（state of exception）理论与福柯的“权力即知识”观念结合，论证中央对香港的绝对主权在于拥有定义和解释法律的最终权力。2020年颁布的《特区维护国家安全法》正是施密特式主权逻辑在香港宪制体制中的落地，将香港的宪政基础从“法治”转变为“以法而治”（rule by law），使中国Pedigree成为了无法抗拒的宿命。
+> - **卡尔·[[William H. Schmidt|施密特]]主权逻辑在香港宪制体制中的落地** 北京宪制学者[[Jiang Shigong\|强世功]]（Jiang Shigong）将卡尔·施米特（Carl Schmitt）的主权决定[[Schmittian Sovereignty\|例外状态]]（state of exception）理论与福柯的“权力即知识”观念结合，论证中央对香港的绝对主权在于拥有定义和解释法律的最终权力。2020年颁布的《特区维护国家安全法》正是施密特式主权逻辑在香港宪制体制中的落地，将香港的宪政基础从“法治”转变为“以法而治”（rule by law），使中国Pedigree成为了无法抗拒的宿命。
 
 > [!warrant]- 学者的良知与概念重建
 > 在批判西方殖民主义的同时，必须保持对以反殖民或去殖民名义进行的威权压迫的理论警惕。重申本地人的能动性，而非机械地审查社会制度的殖民血统，是重建学术责任与重构分析概念的关键。

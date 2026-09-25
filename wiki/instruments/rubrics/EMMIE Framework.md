@@ -7,7 +7,7 @@ aliases:
 summary: "由英国警务有效性中心推行的五维证据评价与质评量规矩阵，涵盖效应（Effect）、机制（Mechanism）、调节变量（Moderator）、实施（Implementation）与经济学评价（Economics）五个维度，各维度配备0–4级质评评分锚点，推动证据标准从单一效应量等级向多维因果机制与情境适切性量规演进。"
 type: instrument
 instrument_type: rubric
-instrument_related_count: 39
+instrument_related_count: 40
 instrument_related_level: 6
 instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
 instrument_related_color: "#fecdd3"
@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-17
+updated: 2026-09-26
 ---
 
 # EMMIE Framework

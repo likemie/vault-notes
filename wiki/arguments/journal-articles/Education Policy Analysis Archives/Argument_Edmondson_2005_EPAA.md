@@ -45,6 +45,7 @@ related_methods:
   - "[[Critical Policy Analysis]]"
 related_instruments: []
 related_persons:
+  - "[[William H. Schmidt]]"
   - "[[G. Reid Lyon]]"
   - "[[Patrick Shannon]]"
   - "[[Plato]]"
@@ -70,7 +71,7 @@ title: "Argument_Edmondson_2005_EPAA"
 argument_key: "Argument_Edmondson_2005_EPAA"
 argument_display_title: "Policymaking in education: Understanding influences on the Reading Excellence Act"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -108,7 +109,7 @@ issuing_organization: ""
 > |:---|:---|:---|
 > | **[[Pluralism\|多元主义]]（Pluralism）** | 主张公共政策是社会各群体相互竞争与博弈的产物。不同群体向政府施加压力以争取有利政策；与戴维·杜鲁门（David Truman, 1971）和罗伯特·达尔（Robert Dahl, 1967）的研究相联系。 | 预设多元群体平等参与，但忽略了基层教师在面对国家立法机器时语言资本与政治资源的严重匮乏。（pp. 3, 6） |
 > | **[[Elite Theory\|精英理论]]（Elite Theory）** | 主张政策由持有相似信念的小规模有影响力的领导集团制定。政策由权力精英（power elite）的偏好决定；与 C. 赖特·米尔斯（C. Wright Mills, 1956）、拉尔夫·米利班德（Ralph Miliband, 1969）以及戴维·亚克和拉里·古巴（Tyack & Cuban, 1995）的研究相关。 | 将政策视为少数政界与学术权威意志的单向投射，使普通教师和公众沦为被动执行者。（pp. 3, 9–10） |
-> | **[[Neocorporatism\|法团主义]]（Corporatism）** | 将政策制定解释为受利益集团影响的过程，这些利益集团成为决策和执行体系的有机组成部分，替政府管理社会；与菲利普·施密特（Philippe Schmitter, 1979）的研究联系最密。 | 大型专业组织通过闭门妥协换取立法成果，导致基层会员被代表和被出卖的信任断层。（pp. 3, 7） |
+> | **[[Neocorporatism\|法团主义]]（Corporatism）** | 将政策制定解释为受利益集团影响的过程，这些利益集团成为决策和执行体系的有机组成部分，替政府管理社会；与菲利普·[[William H. Schmidt\|施密特]]（Philippe Schmitter, 1979）的研究联系最密。 | 大型专业组织通过闭门妥协换取立法成果，导致基层会员被代表和被出卖的信任断层。（pp. 3, 7） |
 > | **[[Subgovernment Theory\|次政府理论]]（Subgovernments）** | 强调政府分支部门与利益集团密切协同制定政策，由国会议员、行政官僚机构与行业利益集团结成联盟，围绕专门领域垄断政策制定；源自休·赫克洛（Hugh Heclo, 1978）的铁三角模型。 | 形成高度封闭的专业知识与资源垄断，将纳税人公帑导向特定同盟企业，剥夺公众民主审议权。（pp. 3, 8–9） |
 
 > [!framework-table] 理论工具箱

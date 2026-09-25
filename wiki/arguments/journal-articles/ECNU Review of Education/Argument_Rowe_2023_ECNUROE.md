@@ -76,6 +76,7 @@ related_facts:
   - "[[Australian Schools Plus]]"
   - "[[Evidence for Learning]]"
   - "[[Australian Education Research Organisation]]"
+  - "[[Bill & Melinda Gates Foundation]]"
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Gonski 2.0]]"
@@ -182,7 +183,7 @@ updated: 2026-09-20
 > [!feature] 风险慈善与传统慈善的本质断裂
 > - **投资逻辑替代无偿赠款** 风险慈善（[[Venture Philanthropy]]）在行业内部被直接指称为[[Philanthrocapitalism\|慈善资本主义]]（Philanthrocapitalism），其核心特征是要求明确的[[Return on Investment\|投资回报]]（Bishop & Green, 2008）；回报形式表现为高层政府委员会的要职任命、企业商业咨询合同的获取、忠实客户群体的培养，或者直接的合法避税。（pp. 520–521）
 > - **全球万亿级教育市场的资本凝视** 华尔街金融机构与跨国咨询寡头高度关注公共教育的潜在商业变现空间；美洲银行-美林证券将教育行业估值为 4.3 万亿美元，麦肯锡公司将其定义为 700 亿美元的庞大市场；教育改革从主权国家的独立事务转变为跨国资本全球兜售的商业机遇。
-> - **跨国基金会的战略渗透与政治造势** 比尔及梅琳达·盖茨基金会（Bill & Melinda Gates Foundation）开创的证据导向[[Catalytic Philanthropy\|催化慈善]]模式成为全球范本；在推进特许学校的政策运动中，盖茨基金会的资金占据了倡导联盟总预算的近 80%（Fontdevila et al., 2021）；雷克豪（Sarah Reckhow, 2013）指出，在总统大选后，全美教育界领袖并非齐聚华盛顿聆听总统施政演讲，而是齐聚西雅图聆听盖茨夫妇宣讲基金会的教育优先议程。
+> - **跨国基金会的战略渗透与政治造势** 比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]（Bill & Melinda Gates Foundation）开创的证据导向[[Catalytic Philanthropy\|催化慈善]]模式成为全球范本；在推进特许学校的政策运动中，盖茨基金会的资金占据了倡导联盟总预算的近 80%（Fontdevila et al., 2021）；雷克豪（Sarah Reckhow, 2013）指出，在总统大选后，全美教育界领袖并非齐聚华盛顿聆听总统施政演讲，而是齐聚西雅图聆听盖茨夫妇宣讲基金会的教育优先议程。
 > - **董事会进步主义者的权力集中** 这一网络被金融家与企业顾问牢牢把控，雷克豪（Sarah Reckhow）将其形象地称作董事会进步主义者（boardroom progressives）；非民选的商业巨头在不承担任何民主问责的条件下，深度掌控了国家教育改革议程的制定权。（p. 521）
 
 跨国资本的治理雄心与金融化话语，直接驱动了全澳范围内以 [[Social Ventures Australia|SVA]] 为核心的[[Policy Network|政策网络]]拓扑构建。

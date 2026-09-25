@@ -9,7 +9,7 @@ summary: "一线教师与教育领导者在自身真实教育情境中开展的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 29
+method_related_count: 30
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-26
 ---
 
 # Practitioner Enquiry

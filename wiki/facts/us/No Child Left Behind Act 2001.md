@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 53
+fact_related_count: 56
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -89,7 +89,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-25
+updated: 2026-09-26
 ---
 
 # No Child Left Behind Act 2001

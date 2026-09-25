@@ -11,7 +11,7 @@ aliases:
 summary: "指认识主体在探究过程中有效构思、表达、调整和深化问题的可习得认知程序性技能。区别于作为理智品格的美德，提问技能聚焦于问题结构的精细化与探究路径的定向。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-09-23
+updated: 2026-09-26
 ---
 
 # Skill of Questioning

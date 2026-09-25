@@ -7,7 +7,7 @@ summary: "英国杜伦大学教育学教授（曾任职于华威大学与UCL教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -52,7 +52,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-09-21
+updated: 2026-09-26
 ---
 
 # Chris Brown

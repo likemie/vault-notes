@@ -10,7 +10,7 @@ summary: "不操纵自变量而以量化资料分析变量共变、预测模式�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 60
+method_related_count: 61
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -90,7 +90,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-17
+updated: 2026-09-26
 ---
 
 # Correlational Research

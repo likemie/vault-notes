@@ -7,7 +7,7 @@ title: "Argument_Gorard_2020_ROE"
 argument_key: "Argument_Gorard_2020_ROE"
 argument_display_title: "What is the evidence on the best way to get evidence into use in education? Review of Education, 8(2), 570–610"
 argument_kind: "journal-article"
-argument_related_count: 77
+argument_related_count: 78
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"

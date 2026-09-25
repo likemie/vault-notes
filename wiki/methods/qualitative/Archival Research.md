@@ -7,7 +7,7 @@ summary: "一种通过访问、筛查和分析档案馆与记录办公室中保�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -35,7 +35,7 @@ related_concepts:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-09-17
+updated: 2026-09-26
 ---
 
 # Archival Research

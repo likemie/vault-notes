@@ -42,7 +42,8 @@ related_methods:
   - "[[Matching]]"
   - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[William H. Schmidt]]"
 related_facts:
   - "[[IEA]]"
   - "[[PIRLS]]"
@@ -102,7 +103,7 @@ updated: 2026-09-25
 
 > [!dev-timeline] 项目推进历程
 > - **1995 年 — 奠基与规模突破** 开展首轮 40 多个国家参与的测试，创下当时国际比较教育史上最大规模实证测评纪录。
-> - **1990 年代末至 2000 年代初 — 跨国课程对比与美国课程病理诊断** 密歇根州立大学教授兼 TIMSS 美国国家研究协调员威廉·H·施密特（William H. Schmidt）扮演[[Policy Entrepreneur|政策企业家]]角色，依据跨国课程对比数据诊断美国课程“一英里宽、一英寸深”，为后续州[[Common Core State Standards|共同核心标准]]（[[Common Core State Standards|CCSS]]）的研制奠定国际基准与议程基础。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 11–13)]]
+> - **1990 年代末至 2000 年代初 — 跨国课程对比与美国课程病理诊断** 密歇根州立大学教授兼 TIMSS 美国国家研究协调员[[William H. Schmidt|威廉·H·施密特]]（William H. Schmidt）扮演[[Policy Entrepreneur|政策企业家]]角色，依据跨国课程对比数据诊断美国课程“一英里宽、一英寸深”，为后续州[[Common Core State Standards|共同核心标准]]（[[Common Core State Standards|CCSS]]）的研制奠定国际基准与议程基础。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 11–13)]]
 > - **2000 年代 — 融入各国国家监测战略** 德国等国在经历 [[PISA]] 震荡后，由[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（KMK）于 2006 年将 TIMSS 连同 PISA 和 [[PIRLS]] 正式确立为[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]第一支柱。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 484)]]
 > - **2019 年至今 — 数字化与交互测评转型** 全面过渡至计算机化数字测评（eTIMSS），引入基于模拟情境的复杂科学探究与数学交互解题模块。
 
@@ -119,7 +120,7 @@ updated: 2026-09-25
 > [!citation-card] 政策企业家利用 TIMSS 诊断国家课程病理
 > 政策企业家将 TIMSS 跨国课程数据作为撬动全美课程改革议程的核心杠杆：
 > 
-> 密歇根州立大学教授兼 TIMSS 美国国家研究协调员威廉·H·施密特（William H. Schmidt）扮演了关键的政策企业家角色。他走访全美各州进行巡回宣讲，展示 TIMSS 比较课程数据，证明典型的美国州数学课程是“一英里宽、一英寸深”；与在 TIMSS 中表现优异的高分国家（如新加坡、韩国、日本）相比，美国课程每年试图覆盖过多的碎片化主题，缺乏内在的知识深度与逻辑进阶。这一国际基准对标结论有力推动了跨州统一标准的立项。（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013, pp. 11–13]]）
+> 密歇根州立大学教授兼 TIMSS 美国国家研究协调员[[William H. Schmidt|威廉·H·施密特]]（William H. Schmidt）扮演了关键的政策企业家角色。他走访全美各州进行巡回宣讲，展示 TIMSS 比较课程数据，证明典型的美国州数学课程是“一英里宽、一英寸深”；与在 TIMSS 中表现优异的高分国家（如新加坡、韩国、日本）相比，美国课程每年试图覆盖过多的碎片化主题，缺乏内在的知识深度与逻辑进阶。这一国际基准对标结论有力推动了跨州统一标准的立项。（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013, pp. 11–13]]）
 > 
 > *William H. Schmidt, an MSU professor and national research coordinator for TIMSS in the United States, acted as a key policy entrepreneur. Presenting TIMSS comparative curriculum data across states, he demonstrated that typical US state curricula were "a mile wide and an inch deep," covering far too many topics superficially compared to top-performing countries that focused on coherent, in-depth progressions.*
 

@@ -130,6 +130,7 @@ related_facts:
   - "[[Learning Data Compact]]"
   - "[[UNICEF]]"
   - "[[Multiple Indicator Cluster Surveys]]"
+  - "[[Bill & Melinda Gates Foundation]]"
   - "[[Definition and Selection of Competencies]]"
 related_arguments: []
 sources:
@@ -362,7 +363,7 @@ issuing_organization: ""
 > [!case] 联合国儿童基金会开辟[[Social-Emotional Learning\|社会情感学习]]（SEL）引发的组织利基争夺案例
 > - **开辟未受关注的新兴政策优先事项** 在全球教育规制市场高度拥挤的背景下，国际组织竞相寻找未被开发的全新政策领域以确立比较优势；联合国儿童基金会率先将[[Social-Emotional Learning\|社会情感学习]]（Social-Emotional Learning，SEL）推向全球政策议程，开辟出自身专属的政策中介蓝海。
 > - **两大巨头的跨界跟进与空间挤压** 一旦 SEL 的政策号召力与规制潜力得到验证，经合组织与联合国教科文组织迅速跨界介入该领域，相继推出各自的社会情感能力测验与监测框架，直接挤压儿童基金会的先发利基。
-> - **对私人慈善基金会有限资源的零和争夺** 这一利基争夺的背后是多边机构对非传统资金的依赖加深；五大多边机构（世行、经合组织、教科文组织、儿童基金会、[[Global Partnership for Education\|全球教育伙伴关系]]）不仅在地理空间上因经合组织 PISA 扩展至非成员国而高度重叠，更在比尔及梅琳达·盖茨基金会（Bill & Melinda Gates Foundation）、惠普基金会、乐高基金会等私人慈善资本的赠款竞争中短兵相接。（p.545）
+> - **对私人慈善基金会有限资源的零和争夺** 这一利基争夺的背后是多边机构对非传统资金的依赖加深；五大多边机构（世行、经合组织、教科文组织、儿童基金会、[[Global Partnership for Education\|全球教育伙伴关系]]）不仅在地理空间上因经合组织 PISA 扩展至非成员国而高度重叠，更在比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]（Bill & Melinda Gates Foundation）、惠普基金会、乐高基金会等私人慈善资本的赠款竞争中短兵相接。（p.545）
 > - **制度启示** 表面上的跨国数据共享与多边协作网络并未消除竞争，各大组织在规范设定权与外部资金的双重压力下，始终处于动态的领地防守与利基抢占博弈之中。
 
 尽管各大组织在公开修辞中普遍倡导多边协作，并在数字平台上提供免费数据与研讨资源，但在争夺私人基金会资助与核心规制话语权时，却表现出深刻的排他性结盟倾向。（pp.545–546）

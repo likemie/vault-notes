@@ -37,7 +37,8 @@ related_theories:
 related_methods:
   - "[[Network Analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[William H. Schmidt]]"
 related_facts:
   - "[[YOUNG_ADULLLT]]"
   - "[[International Reading Association]]"
@@ -61,7 +62,7 @@ updated: 2026-09-24
 > - **解释对象** 国家将特定具有行业代表垄断地位的社会伙伴（如雇主协会、全国性工会或大型专业学术协会）纳入决策与执行系统，通过制度化协商网络进行政策妥协、社会规约与利益分配的治理模式。
 > - **理论问题** [[Pluralism|传统多元主义]]预设无数利益群体平等分散竞争；新法团主义指出国家倾向于赋予少数代表性组织垄断性对话特权，以换取社会稳定与政策顺利落地，但往往造成非民主的闭门妥协与基层代表性危机。
 > - **理论类型** 中观政治经济学制度理论与治理[[Network Analysis|网络分析]]框架。
-> - **知识位置** 源自菲利普·施密特（Philippe Schmitter, 1979）对法团主义的现代重构，以及罗伯特·达尔（Robert Dahl, 1985）对法团主义民主合法性赤字的批判；在教育研究中广泛用于解释欧洲职业培训三方共治（[[Argument_Rambla_2022_Springer|Rambla, 2022]]）及美英专业协会与国家的闭门立法博弈（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005]]）。
+> - **知识位置** 源自菲利普·[[William H. Schmidt|施密特]]（Philippe Schmitter, 1979）对法团主义的现代重构，以及罗伯特·达尔（Robert Dahl, 1985）对法团主义民主合法性赤字的批判；在教育研究中广泛用于解释欧洲职业培训三方共治（[[Argument_Rambla_2022_Springer|Rambla, 2022]]）及美英专业协会与国家的闭门立法博弈（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005]]）。
 
 > [!claim] 核心判断
 > 政策制定通过将垄断性利益代表纳入国家权力网络以实现利益折衷与行政吸纳，在宏观上能缓冲单向市场化或规制逻辑的侵蚀，但在微观上容易用少数精英的密室交易取代民主审议，诱发组织代表性与基层民意的深层断裂。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 172–174)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 7)]]
@@ -71,7 +72,7 @@ updated: 2026-09-24
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 菲利普·施密特（Philippe Schmitter, 1979）奠定现代法团主义理论基础；达尔（Robert Dahl, 1985）在《经济民主的前景》中系统反思其民主合法性；拉姆布拉（Xavier Rambla, 2022）将其引入欧盟[[Lifelong Learning|终身学习]]治理比较；埃德蒙森（Jacqueline Edmondson, 2005）将其用于剖析专业协会在联邦阅读立法中的政治博弈。
+> - **提出者与原始文本** 菲利普·[[William H. Schmidt|施密特]]（Philippe Schmitter, 1979）奠定现代法团主义理论基础；达尔（Robert Dahl, 1985）在《经济民主的前景》中系统反思其民主合法性；拉姆布拉（Xavier Rambla, 2022）将其引入欧盟[[Lifelong Learning|终身学习]]治理比较；埃德蒙森（Jacqueline Edmondson, 2005）将其用于剖析专业协会在联邦阅读立法中的政治博弈。
 > - **原初问题** 为何现代国家在多元利益分化的压力下，并未走向彻底自由放任的多元博弈，而是倾向于与特定全国性组织结成特许伙伴；在教育领域，为何专业学会与工会经常与国家高层达成违背基层诉求的妥协。
 > - **理论资源与材料** 欧洲社会民主党与工会/雇主协会的三方谈判历史档案、欧盟终身学习治理案例（[[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]）、以及美国国会立法中专业协会（如[[International Reading Association|国际阅读协会]] IRA）的幕后游说记录。
 > - **形成路径** 通过对比不同国家与政策场景中制度化伙伴网络的介入深度，提炼出法团主义在“政策缓冲”与“民主脱节”两极之间的张力机制。

@@ -44,6 +44,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Social Ventures Australia]]"
+  - "[[Bill & Melinda Gates Foundation]]"
   - "[[Evidence for Learning]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Australian Education Research Organisation]]"
@@ -73,7 +74,7 @@ updated: 2026-09-26
 > - **边界** 区别于单纯的企业社会责任（CSR）公关活动，也区别于针对特定学校危房修缮或奖学金发放的个案直捐。
 
 > [!citation-card] 证据催化慈善的原型复刻
-> “在制定其教育改革议程时，[[Social Ventures Australia\|SVA]] 竭力效仿盖茨基金会（Bill & Melinda Gates Foundation）‘以证据为基础的催化慈善’模式。”[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 519]]
+> “在制定其教育改革议程时，[[Social Ventures Australia\|SVA]] 竭力效仿[[Bill & Melinda Gates Foundation|盖茨基金会]]（Bill & Melinda Gates Foundation）‘以证据为基础的催化慈善’模式。”[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 519]]
 >
 > *"In developing its education reform agendas, SVA seeks to emulate the Gates Foundation's model of 'evidence-based catalytic philanthropy' (SVA, 2013b; Traill, 2016a)."*
 
@@ -129,7 +130,7 @@ updated: 2026-09-26
 > **催化干预对政府公共资源的战术撬动** 现代催化慈善的核心战略并非取代政府，而是“俘获”政府的资源调配权。催化型基金会凭借灵活不受问责的资金优势开发政策方案，通过战略游说与公私合作谈判，促使国家将巨额税收预算定向倾斜至基金会预设的改革轨道，实现了私人意图在公共政策领域的合法放大（Kramer, 2009; Reckhow, 2013）。
 
 > [!claim] [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]
-> **[[Social Ventures Australia\|SVA]] 催化[[Assemblage\|装配]]三大中介的澳洲实证** 澳大利亚经验揭示了催化慈善的完整闭环：SVA 借鉴盖茨基金会的证据催化模式，首先以少量民间资本发起亮点学校连接试点与全资子公司 [[Evidence for Learning\|E4L]]，随后向联邦与州政府展开多轮定向游说，成功推动联邦出台专项税法修正案设立 [[Australian Schools Plus\|Schools Plus]]，并最终撬动联邦与各州联合注资 5000 万澳元设立法定国家机构 [[Australian Education Research Organisation\|AERO]]，完成了国家教育科研体制的系统性捕获。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 519, 524–531)]]
+> **[[Social Ventures Australia\|SVA]] 催化[[Assemblage\|装配]]三大中介的澳洲实证** 澳大利亚经验揭示了催化慈善的完整闭环：SVA 借鉴[[Bill & Melinda Gates Foundation|盖茨基金会]]的证据催化模式，首先以少量民间资本发起亮点学校连接试点与全资子公司 [[Evidence for Learning\|E4L]]，随后向联邦与州政府展开多轮定向游说，成功推动联邦出台专项税法修正案设立 [[Australian Schools Plus\|Schools Plus]]，并最终撬动联邦与各州联合注资 5000 万澳元设立法定国家机构 [[Australian Education Research Organisation\|AERO]]，完成了国家教育科研体制的系统性捕获。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 519, 524–531)]]
 
 ---
 
@@ -184,13 +185,13 @@ updated: 2026-09-26
 > | 研究 | 慈善机构与催化对象 | 核心催化手段 | 撬动公共财政与政策产出 | 治理影响 |
 > |---|---|---|---|---|
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | [[Social Ventures Australia\|SVA]] 催化全澳公立教育改革 | 发起亮点学校连接试点、孵化全资中介 [[Evidence for Learning\|E4L]] | 撬动联邦通过 [[Deductible Gift Recipient\|DGR1]] 减税法案，撬动 5000 万澳元设立国家法定机构 [[Australian Education Research Organisation\|AERO]] | 促使国家蜕变为私营中介的催化平台，学校受制于商业考评 |
-> | Reckhow (2013) | 盖茨基金会（Gates）催化全美特许学校扩张 | 资[[Teaching Assistant\|助教]]育倡导联盟（占据倡导预算近 80%） | 撬动联邦“[[Race to the Top\|力争上游]]”（Race to the Top）数十亿美元国家竞赛拨款 | 非民选“董事会进步主义者”实质主导全美教育核心议程 |
+> | Reckhow (2013) | [[Bill & Melinda Gates Foundation\|盖茨基金会]]（Gates）催化全美特许学校扩张 | 资[[Teaching Assistant\|助教]]育倡导联盟（占据倡导预算近 80%） | 撬动联邦“[[Race to the Top\|力争上游]]”（Race to the Top）数十亿美元国家竞赛拨款 | 非民选“董事会进步主义者”实质主导全美教育核心议程 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 深入解构 [[Social Ventures Australia\|SVA]] 如何践行盖茨基金会的“以证据为基础的催化慈善”模型，在澳大利亚公共教育中撬动国家设立三大中介。
+> - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 深入解构 [[Social Ventures Australia\|SVA]] 如何践行[[Bill & Melinda Gates Foundation|盖茨基金会]]的“以证据为基础的催化慈善”模型，在澳大利亚公共教育中撬动国家设立三大中介。
 > - Kramer, M. R. (2009) — 奠基之作，系统提出并阐释“催化慈善”的概念[[Paradigm\|范式]]与实践原则。
 > - Reckhow, S. (2013) — 实证考察催化慈善在纽约与洛杉矶学校改革中的资金流动与权力网络。

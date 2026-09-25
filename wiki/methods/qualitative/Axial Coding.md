@@ -9,7 +9,7 @@ summary: "扎根理论质性数据分析的三级编码枢纽，在开放编码�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 32
+method_related_count: 33
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # Axial Coding

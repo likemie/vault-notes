@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -46,7 +46,9 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Common Core State Standards]]"
+  - "[[Bill & Melinda Gates Foundation]]"
   - "[[Achieve]]"
+  - "[[American Diploma Project]]"
   - "[[National Assessment of Educational Progress]]"
   - "[[American Federation of Teachers]]"
   - "[[House Committee on Education and the Workforce]]"
@@ -71,7 +73,7 @@ updated: 2026-09-26
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1990 年代初最初作为美国高等教育学会（American Association for Higher Education, AAHE）的一个倡导合作项目启动，旨在弥合中小学教育与大学升学之间的体制割裂；1996 年在著名教育改革倡导者卡蒂·海科克（Kati Haycock）主导下正式独立注册为全美非营利法人实体。
 > - **总部地点 / 业务辐射** 总部设于美国华盛顿特区（毗邻国会山[[Policy Network|政策网络]]），并在加利福尼亚州、纽约州、得克萨斯州、路易斯安那州、田纳西州等关键州设立常设办公室，辐射全美各级学区与州议会。
-> - **法人属性与经费基础** 独立无党派非营利研究与倡导组织；运营经费依托全国性大型独立慈善基金会（如比尔及梅琳达·盖茨基金会、福特基金会、休利特基金会、鲁米那基金会等）的资助与社会公益捐赠。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 22)]]
+> - **法人属性与经费基础** 独立无党派非营利研究与倡导组织；运营经费依托全国性大型独立慈善基金会（如比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]、福特基金会、休利特基金会、鲁米那基金会等）的资助与社会公益捐赠。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 22)]]
 > - **核心宗旨与法定职责** 坚守让每一所学校与大学都为弱势群体学生提供高水准学术准备的使命，通过数据驱动的政策分析、[[Legislative Policy Brief|立法政策简报]]草拟、民权联盟动员与公共舆论倡导，推动制度性教育公平改革。
 
 ---
@@ -80,7 +82,7 @@ updated: 2026-09-26
 
 > [!dev-timeline] 组织发展历程
 > - **1990–1996 — 创设与独立奠基期** 聚焦于揭示全美[[Academic Achievement|学业成就]]鸿沟的严峻现实，率先利用国家教育统计数据绘制州与学区层面的种族与收入学力差距图谱，打破当时学界与公众对贫困学生无法达到高学业标准的刻板赤字观念。
-> - **1997–2008 — 介入联邦问责立法与跨州标准联盟** 深度介入 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）立法辩论，推动将亚群数据分解写入法案；与此同时，联合[[Achieve|阿奇夫]]（Achieve）与福特汉姆基金会（Thomas B. Fordham Foundation）发起美国文凭项目（ADP），持续发布各州标准质量评价报告，成为跨州标准改革的核心智囊。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
+> - **1997–2008 — 介入联邦问责立法与跨州标准联盟** 深度介入 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）立法辩论，推动将亚群数据分解写入法案；与此同时，联合[[Achieve|阿奇夫]]（Achieve）与福特汉姆基金会（Thomas B. Fordham Foundation）发起[[American Diploma Project|美国文凭项目]]（ADP），持续发布各州标准质量评价报告，成为跨州标准改革的核心智囊。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
 > - **2009–2014 — 推动[[Common Core State Standards|共同核心标准]]与民权价值绑定** 作为推动[[Common Core State Standards|共同核心州立标准]]（CCSS）的关键[[Policy Entrepreneur|政策企业家]]之一，卡蒂·海科克等机构领袖密集动员[[National Assessment of Educational Progress|全国教育进展评估]]（NAEP）映射数据，揭露各州自设标准虚假高及格率的向下沉沦现象，成功将统一学术标准与消除教育不平等、促进社会流动的民权叙事深度绑定。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–11)]]
 > - **2015–至今 — 跨部门多元治理与高等教育公平扩展** 在 2015 年《每个学生都成功法》（[[Every Student Succeeds Act|ESSA]]）制定过程中，积极捍卫弱势亚群问责底线；同时将研究与倡导职能系统拓展至高等教育领域，重点攻坚大学资助分配不均、低收入学生毕业率差距及少数族裔师资队伍建设等系统性议题。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–42)]]
 
@@ -119,14 +121,14 @@ updated: 2026-09-26
 ## 影响与体系成效
 
 > [!indicators]- 影响力维度与指标
-> - **资源与资助网络** 作为全美最具实力的 18 家教育组织之一，获得盖茨基金会数千万美元专项资助支持，常态化参与全美每周教育政策策略协调会。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 20, 22)]]
+> - **资源与资助网络** 作为全美最具实力的 18 家教育组织之一，获得[[Bill & Melinda Gates Foundation|盖茨基金会]]数千万美元专项资助支持，常态化参与全美每周教育政策策略协调会。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 20, 22)]]
 > - **政策与制度渗透** 主导将学生亚群数据分解写入联邦 [[No Child Left Behind Act 2001|NCLB]] 法案；与 [[Achieve]] 联合构建的跨州标准网络为 45 州采纳 [[Common Core State Standards|CCSS]] 奠定了早期制度基础。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–42)]]; [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8, 16)]]
 > - **公共话语与观念重构** 将单纯的学术测试指标升华为衡量民权与教育正义的国家标尺，打破了长期以来掩盖薄弱学校与弱势学生学业失败的平均主义繁荣假象。
 
 > [!finding-cards] 关键成效与辐射影响
 > 1. **重塑联邦教育问责基石** EdTrust 是推动联邦立法确立按学生亚群拆解公布[[Academic Achievement|学业成绩]]这一制度性规范的最关键推手，彻底终结了以往用全校平均分掩盖少数族裔和贫困学生失败的局面，奠定了全美循证问责的法理框架。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 45)]]
 > 2. **充当学术研究与立法决策的高效连接器** 在教育立法生态分析中，EdTrust 被列为最具代表性的全国性中介机构之一，成功打通了大学[[Blue Skies Research|基础研究]]象牙塔与国会山立法中枢之间的信息壁垒，将学术因果分析转化为直接的立法燃料。
-> 3. **奠定共同核心标准改革的早期基石** 通过美国文凭项目（ADP）与持续的各州标准质量评价报告，联合州长与跨国企业领袖建立起追求高标准跨州网络，为随后 CCSS 运动在全美 45 州的快速过关提供了前期组织准备。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 16)]]
+> 3. **奠定共同核心标准改革的早期基石** 通过[[American Diploma Project|美国文凭项目]]（ADP）与持续的各州标准质量评价报告，联合州长与跨国企业领袖建立起追求高标准跨州网络，为随后 CCSS 运动在全美 45 州的快速过关提供了前期组织准备。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 16)]]
 > 4. **推动教育资助公式公平化改革** 凭借详实的跨学区资金差距计量研究，迫使全美数十个州法院与州议会承认现行基于房产税的学校资助体制存在系统性倾斜，推动了针对高需求学区的加权资助公式落地。
 
 > [!stat-cards]- 核心规模数据

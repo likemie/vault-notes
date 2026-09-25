@@ -9,7 +9,7 @@ summary: "质性数据分析中把新获取数据与既有数据、类别和理�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 11
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-09-17
+updated: 2026-09-26
 ---
 
 # Constant Comparison

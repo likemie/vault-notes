@@ -23,6 +23,7 @@ related_theories: []
 related_methods:
   - "[[Correlational Research]]"
 related_persons:
+  - "[[William H. Schmidt]]"
   - "[[Jiang Shigong]]"
 related_facts:
   - "[[Citizenship and Social Development]]"
@@ -97,7 +98,7 @@ updated: 2026-09-17
 > **一国两制解释由边界保障向从属授权的转换**
 > - **基本法契约论的退场** 在通识科时代，教材将基本法描绘为划分中央与特区政府治理边界的宪制契约，强调其最高法律地位是保障香港高度自治和限制行政权力的基础。
 > - **单一制主权压倒论的制度化** 在[[Citizenship and Social Development\|公民与社会发展科]]教材中，一国两制被重塑为单一制国家授权模型。通过展示中国地图将香港与新疆、西藏等民族自治区并置，从概念和视觉上消除关于高度自治边界的任何幻想，并引入剩余权力概念，证明香港的高度自治权完全取决于中央授权（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.149–150]]）。
-> - **[[Schmittian Sovereignty\|例外状态]]对两制法治的重构** 北京宪制学者将卡尔·施密特的主权决定例外状态理论与一国两制结合，论证中央对香港的绝对主权在于拥有定义和解释法律的最终权力，将香港宪制基础从“法治”转变为“以法而治”（p.155）。
+> - **[[Schmittian Sovereignty\|例外状态]]对两制法治的重构** 北京宪制学者将卡尔·[[William H. Schmidt|施密特]]的主权决定例外状态理论与一国两制结合，论证中央对香港的绝对主权在于拥有定义和解释法律的最终权力，将香港宪制基础从“法治”转变为“以法而治”（p.155）。
 
 ---
 

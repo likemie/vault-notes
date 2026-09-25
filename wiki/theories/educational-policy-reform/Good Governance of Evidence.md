@@ -7,7 +7,7 @@ aliases:
 summary: "由 Justin Parkhurst（2017）提出的公共政策与教育治理理论，主张超越技术理性对证据‘何者有效’的工具主义迷思，确立证据利用在程序正当性、透明度、多元代表性与可争辩性维度的治理规范，使科学证据与民主价值审议达成有效平衡。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 27
+theory_related_count: 28
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-26
 ---
 
 # Good Governance of Evidence

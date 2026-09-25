@@ -47,6 +47,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[UNICEF]]"
   - "[[Global Partnership for Education]]"
+  - "[[Bill & Melinda Gates Foundation]]"
   - "[[Building Evidence in Education]]"
   - "[[Learning Data Compact]]"
   - "[[PISA]]"
@@ -105,7 +106,7 @@ updated: 2026-09-17
 > [!feature] 核心要素
 > - **五大组织核心网络（The Big Five）** 复合体的常设支柱包括[[OECD\|经合组织]]（OECD）、[[World Bank\|世界银行]]（World Bank）、[[UNESCO\|联合国教科文组织]]（UNESCO）、[[UNICEF\|联合国儿童基金会]]（UNICEF）与[[Global Partnership for Education\|全球教育伙伴关系]]（GPE），各方在治理资源、合法性来源与主导工具上存在结构性互补与竞合。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
 > - **非教育机构的跨界渗透** 经济协调与金融类国际组织（如经合组织、世界银行、区域开发银行）凭借资金实力与数据技术，以“教育促进经济增长”为合法性修辞深度介入教育议程，占据全部涉教育国际组织的三分之一。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
-> - **公私伙伴关系与慈善资本联结** 私人基金会（如盖茨基金会）与跨国教育企业（如培生集团）通过专项资助与联合项目嵌入治理中枢，重塑公共政策议程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 548)]]
+> - **公私伙伴关系与慈善资本联结** 私人基金会（如[[Bill & Melinda Gates Foundation|盖茨基金会]]）与跨国教育企业（如培生集团）通过专项资助与联合项目嵌入治理中枢，重塑公共政策议程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 548)]]
 > - **排他性联盟与利基竞争** 复合体内部并非均质铁板一块，各组织在围绕全球规范制定与项目资金展开激烈竞争的同时，组建差异化排他性联盟（如世界银行主导的[[Building Evidence in Education\|构建教育证据联盟]]（Building Evidence in Education，BE2）、联合国体系主导的[[Learning Data Compact\|学习数据协定]]）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
 
 > [!logic-map]- 全球教育治理复合体拓扑架构

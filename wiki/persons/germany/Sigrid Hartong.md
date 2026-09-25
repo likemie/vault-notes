@@ -45,6 +45,7 @@ related_methods:
   - "[[Case Study]]"
 related_instruments: []
 related_persons:
+  - "[[William H. Schmidt]]"
   - "[[Rob Kitchin]]"
   - "[[Wendy Espeland]]"
 related_facts:
@@ -70,7 +71,7 @@ updated: 2026-09-18
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 德国教育社会学与教育治理学者，汉堡联邦国防军大学／赫尔穆特·施密特大学（Helmut Schmidt University Hamburg）人文与社会科学学院教育科学与治理教授。
+> - **身份位置** 德国教育社会学与教育治理学者，汉堡联邦国防军大学／赫尔穆特·[[William H. Schmidt|施密特]]大学（Helmut Schmidt University Hamburg）人文与社会科学学院教育科学与治理教授。
 > - **核心角色** 欧洲教育数据化与批判性数据研究（Critical Data Studies）领域的领军学者，德国科学基金会（DFG）资助课题“数字化时代治理与教育数据管理”主持人；在教育政策研究中引入拓扑学空间分析与社会-技术网络视角，打破了将数据监测视作客观中立工具的[[Positivism\|实证主义]]传统。
 > - **代表贡献** 揭示教育治理中的隐秘数据中介（Hidden Data Mediators）与政策[[Topological Spatialisation\|拓扑学重组]]（Topological Re-[[Assemblage]]）；构建州级教育行政机关做数据张力（Doing Data Discrepancies）[[Analytic Framework\|分析框架]]；倡导超越孤立数据集识读的[[Data Infrastructure\|数据基础设施]]素养（Data Infrastructure Literacy）。
 
@@ -86,7 +87,7 @@ updated: 2026-09-18
 > [!timeline] 生平与职涯
 > - **2000–2010 — 学术训练与[[Positivism\|实证主义]]政策审视** 于德国哥廷根大学与汉诺威大学接受社会学、政治学与教育学训练并获博士学位，前期研究聚焦[[Global Education Reform Movement\|全球教育改革运动]]（GERM）、标准化教育改革及比较教育治理。
 > - **2011–2016 — 历时追踪与数据中介批判发轫** 在汉诺威大学与科隆大学从事博士后研究，历时考察德国各州在[[PISA\|国际学生评估项目]]（PISA）震荡后推进国家教育标准与实证监测的制度演化；2016 年发表里程碑论文，首次系统剖析教育大数据中隐秘数据中介（Hidden Data Mediators）的技术规制权力。
-> - **2017–至今 — 领衔跨国重大课题与治理研究拓展** 受聘为汉堡赫尔穆特·施密特大学正教授；主持德国科学基金会（DFG）跨国实证课题“数字化时代的治理与教育数据管理（HA 7367/2-1）”，深入美德两地州级教育行政中枢开展田野访谈与数字基础设施解剖，兼任多份国际批判社会学与教育政策学术期刊特约审稿专家。
+> - **2017–至今 — 领衔跨国重大课题与治理研究拓展** 受聘为汉堡赫尔穆特·[[William H. Schmidt|施密特]]大学正教授；主持德国科学基金会（DFG）跨国实证课题“数字化时代的治理与教育数据管理（HA 7367/2-1）”，深入美德两地州级教育行政中枢开展田野访谈与数字基础设施解剖，兼任多份国际批判社会学与教育政策学术期刊特约审稿专家。
 
 ---
 
@@ -141,7 +142,7 @@ updated: 2026-09-18
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **学术合作者** 安妮娜·弗施勒（Annina Förschler） — 赫尔穆特·施密特大学长期研究助理与重要论文合著者。
+> - **学术合作者** 安妮娜·弗施勒（Annina Förschler） — 赫尔穆特·[[William H. Schmidt|施密特]]大学长期研究助理与重要论文合著者。
 > - **理论思想渊源** [[Rob Kitchin\|罗伯·基钦]]（[[Rob Kitchin]]）、温迪·埃斯佩兰（[[Wendy Espeland]]）、本·威廉姆森（Ben Williamson）、尼尔·塞尔温（Neil Selwyn） — 为其提供[[Data Infrastructure\|数据汇聚体]]、[[Commensuration\|数量通约化]]与批判性数字社会学的理论滋养。
 > - **田野考察机构** [[Massachusetts Department of Elementary and Secondary Education\|马萨诸塞州中小学教育部]]（DESE）、[[Institute for Educational Monitoring and Quality Improvement\|汉堡教育监测与质量发展研究所]]（IfBQ）、[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（KMK）、[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB） — 构成其揭开数据治理黑箱的核心经验考察对象。
 

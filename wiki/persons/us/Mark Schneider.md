@@ -7,7 +7,7 @@ summary: "美国政治学者与教育科研管理专家，曾任美国教育科�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -54,7 +54,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # Mark Schneider

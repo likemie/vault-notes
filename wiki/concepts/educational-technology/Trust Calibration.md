@@ -10,7 +10,7 @@ aliases:
 summary: "人类操作者对自动化与智能系统赋予的主观信任水平与系统客观实际能力及情境边界相匹配的动态平衡状态，其失调（过度信任）是诱发认识论顺从与强自动化偏差的根本根源。"
 type: concept
 domain: "educational-technology"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # Trust Calibration

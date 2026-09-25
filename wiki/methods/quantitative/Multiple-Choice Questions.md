@@ -12,9 +12,9 @@ summary: "教育测量与心理测验中最经典的客观量化题型，由题�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 24
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-28
-updated: 2026-09-23
+updated: 2026-09-26
 ---
 
 # Multiple-Choice Questions

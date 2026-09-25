@@ -35,6 +35,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Common Core State Standards]]"
+  - "[[Bill & Melinda Gates Foundation]]"
   - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[National Governors Association]]"
@@ -61,7 +62,7 @@ updated: 2026-09-26
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 成立于 1927 年。随着 20 世纪初美国各州公立教育管理体制的专业化与制度化，各州教育首长亟需建立一个常设行业协会以共享行政经验并协调联邦教育法规的执行。
 > - **总部地点 / 业务辐射** 总部位于美国首都华盛顿哥伦比亚特区，业务直接辐射全美 50 个州及相关属地的州教育厅（State Department of Education, SDE）。
-> - **法人属性与经费基础** 独立的无党派非营利专业法人（501(c)(3)）；经费来源于各州教育厅缴纳的机构会费、联邦政府专项技术资助协议，以及比尔与梅琳达·盖茨基金会等大型慈善资本的定向项目拨款。
+> - **法人属性与经费基础** 独立的无党派非营利专业法人（501(c)(3)）；经费来源于各州教育厅缴纳的机构会费、联邦政府专项技术资助协议，以及[[Bill & Melinda Gates Foundation|比尔与梅琳达·盖茨基金会]]等大型慈善资本的定向项目拨款。
 > - **核心宗旨与法定职责** 赋权与支持各州教育行政首长，提供跨州学业测评政策指导、教师执照互认准则、特殊教育支持方案以及具有国际可比性的学术标准研发框架。
 
 ---

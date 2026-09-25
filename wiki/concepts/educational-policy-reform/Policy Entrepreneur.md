@@ -6,10 +6,10 @@ aliases:
 summary: "在教育系统内外通过网络、合作和机会识别推动政策变革的行动者，常兼具知识传播、议程设置和组织动员功能。在理性主义比较教育传统中，政策企业家是全球治理与多行动者网络的核心协调力量；在新自由主义教育私有化改革中，他们通过在公共福利、非营利与营利性载体间无缝切换，实现学术知识产权的商业化和远处治理；在公共教育制度改革中，他们通过跨界网络、策略性证据打包与去政治化防卫，突破各州分散垄断以促成重大政策变迁。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 36
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 theory_related_count: 5
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Eleftherios Klerides]]"
+  - "[[William H. Schmidt]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[National Assessment of Educational Progress]]"
@@ -57,6 +58,9 @@ related_facts:
   - "[[Cognition Education]]"
   - "[[Common Core State Standards]]"
   - "[[Achieve]]"
+  - "[[American Diploma Project]]"
+  - "[[Bill & Melinda Gates Foundation]]"
+  - "[[Hunt Institute]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[National Governors Association]]"
   - "[[Council of Chief State School Officers]]"
@@ -177,9 +181,9 @@ updated: 2026-09-26
 > [!example] 典型案例一：[[Common Core State Standards|共同核心标准]]运动中的跨界政策企业家联合网络
 > 在美国[[Common Core State Standards|共同核心州立标准]]（CCSS）推进过程中，跨界政策企业家组建了高度协同的行动者矩阵，瓦解了各州标准的百年割裂局面：
 > - **资深政界领袖穿梭协调** 前州长詹姆斯·B·亨特（James B. Hunt Jr.）与鲍勃·怀斯（Bob Wise）凭借跨党派人脉，主动邀请美国国家科学研究委员会（NRC）召开研讨会起草《教育领导力蓝图》，为两党州长确立国家标准改革合法性。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]
-> - **倡导机构与智库研制工具** [[Achieve|阿奇夫]]（Achieve）长期主持美国文凭项目（ADP），联合[[The Education Trust|教育信托]]发布各州标准虚假及格率报告，并为各州立法表决量身定制逐条对标分析（Crosswalks）。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 17–18)]]
-> - **学术领军者巡回游说** 密歇根州立大学威廉·H·施密特（William H. Schmidt）教授兼具学者与倡导者双重身份，以 [[TIMSS]] 跨国数据在各州巡回宣讲美国课程宽一英里深一英寸的危机。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
-> - **慈善资本构建全国网络** 盖茨基金会投入 8,900 万美元，为 18 家国家组织、10 家技术服务商和 20 个州教育局提供经费，亨特研究所每周召开例行协调会，统领全美推进节奏。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 20, 22)]]
+> - **倡导机构与智库研制工具** [[Achieve|阿奇夫]]（Achieve）长期主持[[American Diploma Project|美国文凭项目]]（ADP），联合[[The Education Trust|教育信托]]发布各州标准虚假及格率报告，并为各州立法表决量身定制逐条对标分析（Crosswalks）。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 17–18)]]
+> - **学术领军者巡回游说** 密歇根州立大学[[William H. Schmidt|威廉·H·施密特]]（William H. Schmidt）教授兼具学者与倡导者双重身份，以 [[TIMSS]] 跨国数据在各州巡回宣讲美国课程宽一英里深一英寸的危机。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
+> - **慈善资本构建全国网络** [[Bill & Melinda Gates Foundation|盖茨基金会]]投入 8,900 万美元，为 18 家国家组织、10 家技术服务商和 20 个州教育局提供经费，[[Hunt Institute|亨特研究所]]每周召开例行协调会，统领全美推进节奏。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 20, 22)]]
 
 > [!example] 典型案例二：约翰·海蒂与 [[Visible Learning]] 的品牌商业化
 > 约翰·海蒂（[[John Hattie]]）被 O'Neill 等描述为新西兰公立学校政策行动者的典型。其轨迹呈现为公共福利、非营利与营利创业的无缝融合：
@@ -234,7 +238,7 @@ updated: 2026-09-26
 > |---|---|---|---|---|---|---|
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, p. xv)]] | 新西兰注册慈善机构数据库（包含 6,059 个教育慈善组织） | 数据库财务与结构统计分析 | 政府拨款依赖度与贸易收入占比 | 仅 4.5% 机构主要依赖政府拨款，仅 3.9% 依赖服务与贸易收入 | — | 表明绝大多数所谓教育慈善组织在运营资金结构上并非传统的政府承包商，具有高度的非官方独立运作和潜在的政策创业自由度。 |
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, pp. 47–51)]] | 新西兰[[Educational Management Organisation\|教育管理组织]]与慈善基金会财务数据（2007–2015） | 财务报表个案审计研究 | 慈善性直接捐赠占集团总收入或投资收益的比例 | Cognition Education (2015) 直接捐赠比例仅占集团收入 0.9%；[[Foundation North Māori and Pasifika Education Initiative\|Foundation North]] (2010–2015) 投资收益分配为捐赠的比例仅为 23.3% | — | 说明所谓非营利性政策创业主体以慈善或利他话语运作，但在实际财务流动中，其大部分盈余流向了集团权益积累或运营费用，向学校返还的慈善价值微乎其微。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013, pp. 7, 22)]] | 全美及 4 个重点州（加州、印第安纳、马萨诸塞、田纳西）政策精英与关键中介 | 过程追踪与 111 场[[In-depth Interview\|深度访谈]] | 政策企业家资金动员与联盟覆盖规模 | 盖茨基金会向 18 个全国组织注资 5,000 万美元，向 10 家服务商与 20 个州注资 3,900 万美元；亨特研究所每周召集 7–14 家机构协同 | — | 实证揭示出政策企业家通过巨额私人资本与例行协调机制，能够在极短时间内跨越分权体制障碍，动员全美范围的政策采纳网络。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013, pp. 7, 22)]] | 全美及 4 个重点州（加州、印第安纳、马萨诸塞、田纳西）政策精英与关键中介 | 过程追踪与 111 场[[In-depth Interview\|深度访谈]] | 政策企业家资金动员与联盟覆盖规模 | [[Bill & Melinda Gates Foundation\|盖茨基金会]]向 18 个全国组织注资 5,000 万美元，向 10 家服务商与 20 个州注资 3,900 万美元；[[Hunt Institute\|亨特研究所]]每周召集 7–14 家机构协同 | — | 实证揭示出政策企业家通过巨额私人资本与例行协调机制，能够在极短时间内跨越分权体制障碍，动员全美范围的政策采纳网络。 |
 
 ---
 

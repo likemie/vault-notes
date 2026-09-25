@@ -41,6 +41,7 @@ related_facts:
   - "[[Multiple Indicator Cluster Surveys]]"
   - "[[OECD]]"
   - "[[Learning Data Compact]]"
+  - "[[Bill & Melinda Gates Foundation]]"
   - "[[Global Partnership for Education]]"
   - "[[PISA]]"
   - "[[UN Sustainable Development Goals]]"
@@ -76,7 +77,7 @@ updated: 2026-09-12
 > - **1946–1989 — 人道战后紧急救援与儿童基本生存保障期** 早期集中于救济口粮、疫苗接种与母婴卫生保健等生命救援；1960 年代起逐步意识到儿童心智发展与基础初等教育对阻断代际贫困的关键意义，开始资助农村小学初级卫生与女童识字培训。
 > - **1989–2000 — 《儿童权利公约》与宗迪恩 [[Exploratory Factor Analysis\|EFA]] 联盟共建期** 1989 年联合国大会通过《儿童权利公约》（UNCRC），确立“以儿童最大利益为首要考量”法律原则；1990 年联合[[UNESCO\|教科文组织]]、[[World Bank\|世行]]在泰国宗迪恩联合发起《[[Education for All\|全民教育]]》（EFA）全球倡议；1995 年正式研发实施[[Multiple Indicator Cluster Surveys\|多指标聚类调查]]（MICS），填补了全球南方底层家庭儿童福祉微观数据的空白。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **2000–2015 — 女童教育倡议与爱生学校模式全球推广期** 发起联合国女童教育倡议（UNGEI），推动撒哈拉以南非洲和南亚女童入学率跨越式提升；系统研发并推广“爱生学校”（Child-Friendly Schools, CFS）标准框架，倡导健康、安全、保护儿童免受暴力的人文教学环境。
-> - **2015–至今 — [[Social-Emotional Learning\|社会情感学习]]先驱与数据契约共治期** 敏锐捕捉儿童身心健康与心理韧性危机，在全球多边机构中率先系统倡导并推行“社会情感学习”（SEL）框架（随后被 [[OECD]] 和 UNESCO 广泛跟进吸纳）；联合 UNESCO 与世界银行结成[[Learning Data Compact\|学习数据契约]]同盟，同时与盖茨基金会、乐高基金会等私人慈善资本深度结网，在紧急冲突与数字化教育转型中占据关键生态利基。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
+> - **2015–至今 — [[Social-Emotional Learning\|社会情感学习]]先驱与数据契约共治期** 敏锐捕捉儿童身心健康与心理韧性危机，在全球多边机构中率先系统倡导并推行“社会情感学习”（SEL）框架（随后被 [[OECD]] 和 UNESCO 广泛跟进吸纳）；联合 UNESCO 与世界银行结成[[Learning Data Compact\|学习数据契约]]同盟，同时与[[Bill & Melinda Gates Foundation|盖茨基金会]]、乐高基金会等私人慈善资本深度结网，在紧急冲突与数字化教育转型中占据关键生态利基。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 
 ---
 
@@ -140,7 +141,7 @@ updated: 2026-09-12
 > > [!axis] 自愿筹资脆弱性与多边同侪资金争夺
 > > 100% 依赖自愿捐款使其极易卷入全球多边机构间的残酷筹资内卷。
 > >
-> > - **全球治理生态分析（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]）** 揭示，五大国际组织近年来竞争日益白热化，部分原因在于它们正在争夺同一批私人慈善基金会（比尔及梅琳达·盖茨基金会、惠普基金会、乐高基金会、博蒂克斯基金会等）的有限赠款配额；为吸引资助，儿童基金会往往被迫不断迎合捐助者偏好打造新潮概念，带来政策议程漂移风险。
+> > - **全球治理生态分析（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]）** 揭示，五大国际组织近年来竞争日益白热化，部分原因在于它们正在争夺同一批私人慈善基金会（比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]、惠普基金会、乐高基金会、博蒂克斯基金会等）的有限赠款配额；为吸引资助，儿童基金会往往被迫不断迎合捐助者偏好打造新潮概念，带来政策议程漂移风险。
 > > - **机构治理回应** 强调多利益相关方资金组合构成了抗击单一国家政治霸权胁迫的缓冲阀，能更灵活地将资源输送给被地缘政治边缘化的苦难儿童。
 
 > [!citation-card] 五大国际组织争夺私人慈善资本的竞争生态

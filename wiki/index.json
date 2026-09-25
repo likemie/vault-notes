@@ -4556,6 +4556,18 @@
     ]
   },
   {
+    "title": "Policy Window",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Policy Window.md",
+    "aliases": [
+      "政策之窗",
+      "政策机会之窗",
+      "政策窗口",
+      "window of opportunity",
+      "policy windows"
+    ]
+  },
+  {
     "title": "Policy-Based Evidence-Making",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Policy-Based Evidence-Making.md",
@@ -4985,6 +4997,18 @@
       "Tiered Evidence Grantmaking",
       "Tiered Evidence Framework",
       "Tiered Funding"
+    ]
+  },
+  {
+    "title": "Venue Shopping",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Venue Shopping.md",
+    "aliases": [
+      "制度场所转换",
+      "政策场所搜寻",
+      "场所转换",
+      "制度论坛转移",
+      "venue shopping"
     ]
   },
   {
@@ -25498,6 +25522,16 @@
     ]
   },
   {
+    "title": "Brookings Institution",
+    "type": "fact",
+    "path": "wiki/facts/us/Brookings Institution.md",
+    "aliases": [
+      "布鲁金斯学会",
+      "布鲁金斯研究所",
+      "Brookings"
+    ]
+  },
+  {
     "title": "California Evidence Based Clearinghouse for Child Social and Economic Welfare",
     "type": "fact",
     "path": "wiki/facts/us/California Evidence Based Clearinghouse for Child Social and Economic Welfare.md",
@@ -25723,6 +25757,17 @@
     ]
   },
   {
+    "title": "National Research Council",
+    "type": "fact",
+    "path": "wiki/facts/us/National Research Council.md",
+    "aliases": [
+      "美国国家科学研究委员会",
+      "国家科学研究委员会",
+      "国家研究委员会",
+      "NRC"
+    ]
+  },
+  {
     "title": "National Science Foundation",
     "type": "fact",
     "path": "wiki/facts/us/National Science Foundation.md",
@@ -25758,6 +25803,18 @@
     "aliases": [
       "EdTrust",
       "教育信托"
+    ]
+  },
+  {
+    "title": "Thomas B. Fordham Institute",
+    "type": "fact",
+    "path": "wiki/facts/us/Thomas B. Fordham Institute.md",
+    "aliases": [
+      "托马斯·B·福特汉姆研究所",
+      "福特汉姆基金会",
+      "福特汉姆研究所",
+      "Thomas B. Fordham Foundation",
+      "Fordham Institute"
     ]
   },
   {
@@ -26097,7 +26154,6 @@
     "path": "wiki/facts/us/American Diploma Project.md",
     "aliases": [
       "美国文凭项目",
-      "ADP 项目",
       "ADP"
     ]
   },

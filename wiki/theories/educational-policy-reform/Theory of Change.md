@@ -8,7 +8,7 @@ aliases:
 summary: "基于因果分析解释一整套干预措施为何及如何达成特定变化的循证理论框架，通过识别底层假设、活动投入、因果链条与中介行为改变要素，为项目评价与知识中介提供可检验的机制说明"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 55
+theory_related_count: 56
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -84,7 +84,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-13
-updated: 2026-09-24
+updated: 2026-09-26
 ---
 
 # Theory of Change

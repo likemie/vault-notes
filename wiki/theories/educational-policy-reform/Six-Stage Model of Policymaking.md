@@ -11,7 +11,7 @@ aliases:
 summary: "将公共政策全生命周期解构为问题识别、议程设置、政策制定、政策合法化、政策实施与政策评估六个连贯阶段的分析框架，揭示政策制定的内在秩序、驱动力量以及实证研究证据与专业经验、政治价值的动态阶段权变整合机制"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 37
+theory_related_count: 39
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
