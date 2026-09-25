@@ -124,7 +124,7 @@ updated: 2026-09-18
 > - **独立监督与同行评审委员会** 设立国家教育科学委员会（National Board for Education Sciences, NBES），由独立学者与公众代表组成，监督科研资助的公正性、科学严谨性与非党派属性。
 
 ```mermaid
-graph TD
+flowchart LR
     ED["美国教育部<br/>(U.S. Department of Education)"] --> IES["美国教育科学研究院<br/>(Institute of Education Sciences, IES)"]
     NBES["国家教育科学委员会<br/>(NBES · 独立监督与顾问)"] -. 监督与战略审议 .-> IES
 

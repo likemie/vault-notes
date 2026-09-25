@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Gatekeepers",
+      "path": "wiki/concepts/research-methodology/Gatekeepers.md"
+    },
+    {
       "basename": "Argument_McDonnell_2013_AJE",
       "path": "wiki/arguments/journal-articles/American Journal of Education/Argument_McDonnell_2013_AJE.md"
+    },
+    {
+      "basename": "Institute of Education Sciences",
+      "path": "wiki/facts/us/Institute of Education Sciences.md"
+    },
+    {
+      "basename": "Technical Rationality",
+      "path": "wiki/concepts/educational-philosophy/Technical Rationality.md"
+    },
+    {
+      "basename": "National Education Association",
+      "path": "wiki/facts/us/National Education Association.md"
+    },
+    {
+      "basename": "Peer Debriefing",
+      "path": "wiki/methods/qualitative/Peer Debriefing.md"
     },
     {
       "basename": "Learning Progression",
@@ -93,10 +113,6 @@
       "path": "wiki/concepts/teacher-education/Teacher Professional Agency.md"
     },
     {
-      "basename": "Technical Rationality",
-      "path": "wiki/concepts/educational-philosophy/Technical Rationality.md"
-    },
-    {
       "basename": "Critical Theory",
       "path": "wiki/theories/educational-philosophy/Critical Theory.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Critical Pedagogy",
       "path": "wiki/concepts/educational-philosophy/Critical Pedagogy.md"
-    },
-    {
-      "basename": "STEM Education",
-      "path": "wiki/concepts/educational-policy-reform/STEM Education.md"
-    },
-    {
-      "basename": "Brainstorming",
-      "path": "wiki/concepts/instruction-pedagogy/Brainstorming.md"
-    },
-    {
-      "basename": "Cognitive Deskilling",
-      "path": "wiki/concepts/educational-technology/Cognitive Deskilling.md"
-    },
-    {
-      "basename": "Paulo Freire",
-      "path": "wiki/persons/brazil/Paulo Freire.md"
     }
   ],
   "omittedPaths": [],

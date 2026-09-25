@@ -95,6 +95,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Massachusetts Department of Elementary and Secondary Education]]"
   - "[[Institute for Educational Monitoring and Quality Improvement]]"
+  - "[[Common Core State Standards]]"
 related_arguments:
   - "[[Argument_Nelson_2017_ER]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
@@ -105,10 +106,11 @@ related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
+  - "[[Argument_McDonnell_2013_AJE]]"
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-09-24
+updated: 2026-09-25
 ---
 
 # Technical Rationality
@@ -220,18 +222,21 @@ updated: 2026-09-24
 > [!claim] [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]]
 > **法定阅读科学中的技术理性修辞与政商学同盟垄断** 埃德蒙森深入解构了美国 1998 年《[[Reading Excellence Act|卓越阅读法案]]》确立的技术理性机制。国会立法者与联邦行政官员借由“科学本位阅读研究”（Scientifically Based Reading Research, SBRR）的技术客观性修辞，将复杂的阅读教学机械窄化为字母发音[[Decodification|解码]]技能，将合格研究门槛严格限定于可复制的大样本实验对照设计。这种技术理性不仅将十万名基层教师和专业学者的联合请愿贬低为反科学的固步自封，彻底剥夺了一线教师的教学专业判断，更充当了遮蔽国会领导层、联邦官僚与商业出版集团结成封闭利益铁三角的意识形态工具。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4–10)]]
 
+> [!claim] [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]]
+> **宏观政策生命周期中技术理性线性工程假说的破产与三元共生重构** 麦克唐奈与韦瑟福德通过对全美[[Common Core State Standards|共同核心州立标准]]（CCSS）运动的历时追踪，系统证伪了公共政策领域中“科学知识直接驱动决策”的技术理性线性工程假说。技术理性预设决策者会依据高质量科研成果按图索骥制定政策，但全美课程标准的演进确证：证据的形态与政治功能随决策阶段发生权变演变（议程设置期作为破局的象征动员符号，方案制定阶段化为技术防卫护盾，法定采纳期收敛为微观工具对比）。面对高阶标准因果实证文献的严重空白，政策研制并未陷入瘫痪，而是依靠学科公理推演与一线教师专业审慎经验（AFT 物理剪裁、NEA 骨干审读）进行补位。这表明科学证据绝非去情境化的技术指令，而是与专业经验、政治价值紧密交织的三元共生网络的一部分。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 1–3, 18–19)]]
+
 ---
 
 ### 命题三　超越技术理性要求从单向线性研究供给转向基于专业判断与社会互动的知识动员与证据知情实践
 
 > [!concept-lens] 终结自上而下输送模型与确立多元证据知情生态
-> 克服技术理性在教育中的弊端不能退回非理性的[[Subjectivism\|主观主义]]，而是要以社会建构的[[Knowledge Mobilisation\|知识动员]]与情境审议取代单向的“科学搬运”。
+> 克服技术理性在教育中的弊端不能退回非理性的[[Subjectivism|主观主义]]，而是要以社会建构的[[Knowledge Mobilisation|知识动员]]与情境审议取代单向的“科学搬运”。
 
-> [!claim] [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] / Bryk et al. (2015)
-> **摒弃自上而下输送与培育肥沃土壤** 长期以来，教育政策界误将证据推进构想为自上而下的“技术-理性”研究供给过程。[[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 127)]] 指出，这种线性传递因忽视学校中介条件与教师专业准备度而频遭受挫，并触发了以 [[ResearchED]] 为代表的草根教师证据运动。推动真正的[[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP），必须确立[[Professional Judgment\|专业判断]]为整合研究、系统数据与课堂情境的核心枢纽，将知识流动理解为多方协同共创的[[Knowledge Mobilisation\|知识动员]]社会互动过程。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 127–131)]]
+> [!claim] [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] / Bryk et al. (2015)
+> **摒弃自上而下输送与培育肥沃土壤** 长期以来，教育政策界误将证据推进构想为自上而下的“技术-理性”研究供给过程。[[Argument_Nelson_2017_ER|Nelson & Campbell (2017, p. 127)]] 指出，这种线性传递因忽视学校中介条件与教师专业准备度而频遭受挫，并触发了以 [[ResearchED]] 为代表的草根教师证据运动。推动真正的[[Evidence-Informed Practice|证据知情实践]]（Evidence-Informed Practice, EIP），必须确立[[Professional Judgment|专业判断]]为整合研究、系统数据与课堂情境的核心枢纽，将知识流动理解为多方协同共创的[[Knowledge Mobilisation|知识动员]]社会互动过程。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 127–131)]]
 
-> [!claim] [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] / Coburn et al. (2009)
-> **破除“证据自身发声”迷思与确立“深思熟虑参与”的质量基准** 柯伯恩等（Coburn et al., 2009）与马克·里克森等（Mark Rickinson et al., 2022a）剖析了循证运动中技术理性的关键盲区——深信“证据会自行发声”（Evidence speaks for itself）。跨卫生、社会关照、教育与公共政策四大领域的[[Systematic Review\|系统综述]]表明，单纯聚焦于优质研究供给的线性模式在各部门普遍遭遇实践落空。[[Quality Use of Research Evidence Framework\|QURE]] 框架从认识论上确立了替代路径：[[Research Utilization\|证据使用]]质量并非取决于去情境化的技术套用，而是“适切研究证据”（Appropriate Research Evidence）与实践主体“深思熟虑参与”（Thoughtful Engagement）的双核互构。克服技术理性，必须将证据视作激发专业判断与集体探究的对话媒介，而非规训一线行为的操作处方。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 139–142)]]
+> [!claim] [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] / Coburn et al. (2009)
+> **破除“证据自身发声”迷思与确立“深思熟虑参与”的质量基准** 柯伯恩等（Coburn et al., 2009）与马克·里克森等（Mark Rickinson et al., 2022a）剖析了循证运动中技术理性的关键盲区——深信“证据会自行发声”（Evidence speaks for itself）。跨卫生、社会关照、教育与公共政策四大领域的[[Systematic Review|系统综述]]表明，单纯聚焦于优质研究供给的线性模式在各部门普遍遭遇实践落空。[[Quality Use of Research Evidence Framework|QURE]] 框架从认识论上确立了替代路径：[[Research Utilization|证据使用]]质量并非取决于去情境化的技术套用，而是“适切研究证据”（Appropriate Research Evidence）与实践主体“深思熟虑参与”（Thoughtful Engagement）的双核互构。克服技术理性，必须将证据视作激发专业判断与集体探究的对话媒介，而非规训一线行为的操作处方。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 139–142)]]
 
 ---
 
@@ -241,8 +246,8 @@ updated: 2026-09-24
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认识论批判命题** | 揭示技术理性手段-目的计算在复杂、不确定专业情境中的失效与错配 | 课堂教学、临床诊断等不确定性专业实践 | Schön; Nielsen & Klitmøller |
-> | **社会学与治理批判命题** | 揭示技术理性在教育治理中引发的[[Cognitive Deskilling\|去技能化]]、认识论断裂、人本精神失落与合法化危机 | [[Evidence-Based Education\|循证教育]]问责、新公共管理、数字化监测基础设施与国际指标测度 | Habermas; Biesta; Kazamias; Helgetun & Menter; Serpell; Raudenbush; [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]]; [[Argument_Edmondson_2005_EPAA\|Edmondson (2005)]] |
-> | **实践重构与替代命题** | 倡导以专业判断为枢纽、破除“证据自身发声”迷误，转向适切证据与深思熟虑参与双核互构 | 证据知情学校改进、[[Research-Practice Partnership\|研究-实践伙伴关系]]、高质量证据使用 | Nelson & Campbell; Bryk; Rickinson et al.; Coburn et al. |
+> | **社会学与治理批判命题** | 揭示技术理性在教育治理中引发的[[Cognitive Deskilling|去技能化]]、认识论断裂、人本精神失落与合法化危机 | [[Evidence-Based Education|循证教育]]问责、新公共管理、数字化监测基础设施、国际指标测度与国家课程标准研制 | Habermas; Biesta; Kazamias; Helgetun & Menter; Serpell; Raudenbush; [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]]; [[Argument_Edmondson_2005_EPAA\|Edmondson (2005)]]; [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] |
+> | **实践重构与替代命题** | 倡导以专业判断为枢纽、破除“证据自身发声”迷误，转向适切证据与深思熟虑参与双核互构 | 证据知情学校改进、[[Research-Practice Partnership|研究-实践伙伴关系]]、高质量证据使用 | Nelson & Campbell; Bryk; Rickinson et al.; Coburn et al. |
 
 ---
 
@@ -309,8 +314,9 @@ updated: 2026-09-24
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]] — 跨国实证解构州级教育监测的技术基础设施，批判自动化即时闭环的技术理性修辞，揭示试错烹饪、算法选择性与五维做数据张力。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]] — 系统证伪“科学研究直接驱动政策”的技术理性线性工程假说，提出证据形态随政策生命周期演变的三阶段权变模型，揭示科学研究、专业经验与政治价值三元共生的现实因果机制。（pp. 1–3, 18–19）
+> - [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] — 跨国实证解构州级教育监测的技术基础设施，批判自动化即时闭环的技术理性修辞，揭示试错烹饪、算法选择性与五维做数据张力。
 > - [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review\|系统综述]]提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架，从[[Epistemology\|认识论]]层面剖析“证据自身发声”的技术理性致命伤，确立适切证据与深思熟虑参与的双核质量基准。
 > - [[Argument_Serpell_2020_EP\|Serpell (2020)]] — 批判联邦教育治理中将单一实验金标准作为准入门槛的规制型技术理性，揭示 [[No Child Left Behind Act 2001\|NCLB]] 问责异化与劳登布什[[Learning Gain\|增值评价]]治理悖论，倡导情境敏感的发展型政策进路。
 > - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 批判教育政策中长期主导的“技术-理性”研究灌输模型，系统阐述以[[Professional Judgment\|专业判断]]为核心的多源[[Evidence-Informed Practice\|证据知情实践]]与全系统[[Knowledge Mobilisation\|知识动员]]。
