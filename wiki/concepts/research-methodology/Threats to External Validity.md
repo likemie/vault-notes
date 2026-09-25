@@ -7,7 +7,7 @@ aliases:
 summary: "在量化研究中限制研究发现从样本推广到更广泛总体、情境和时间的系统性偏差来源，Campbell and Stanley 经典框架列出九种量化威胁，Lincoln and Guba 将其扩展至自然主义研究中的四种威胁"
 type: concept
 domain: "research-methodology"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -57,7 +57,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-06-23
-updated: 2026-09-14
+updated: 2026-09-26
 ---
 # Threats to External Validity
 

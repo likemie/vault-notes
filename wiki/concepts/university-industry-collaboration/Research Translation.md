@@ -12,7 +12,7 @@ aliases:
 summary: "连接科学研究发现与实际应用的跨界转化过程，在产学合作中体现为技术成果商业化漏斗，在学校教育中体现为基于因果行动理论的情境再脉络化与微观课例探究，在宏观治理中体现为立足政策时间生态、运用立法政策简报法条化与极简定调法则驱动法律实质采纳的动态转化系统。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 59
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -93,7 +93,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-03
-updated: 2026-09-17
+updated: 2026-09-26
 ---
 
 # Research Translation

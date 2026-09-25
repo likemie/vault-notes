@@ -9,7 +9,7 @@ aliases:
 summary: "由 2001 年美国《不让一个孩子掉队法》（NCLB）与 2002 年《教育科学改革法》（ESRA）确立的联邦法定证据准入标准，强调运用严谨、系统与客观的实证程序（优先青睐实验与准实验设计）获取教育有效知识，后因缺乏操作化分级及对原则与评估的混淆，在 2015 年 ESSA 中被四级循证标准替代"
 type: concept
 domain: "educational-policy-reform"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-24
+updated: 2026-09-26
 ---
 
 # Scientifically Based Research

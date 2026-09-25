@@ -8,7 +8,7 @@ aliases:
 summary: "借鉴布朗芬布伦纳的生物生态学时间系统概念，阐明政策制定深受特定历史时空、社会危机与突发事件驱动的动态时间生态，解释政治决策极速响应与学术研究长周期之间的结构性时间错配"
 type: concept
 domain: "educational-policy-reform"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-24
+updated: 2026-09-26
 ---
 
 # Policymaking Chronosystem

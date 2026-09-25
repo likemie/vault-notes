@@ -7,7 +7,7 @@ aliases:
 summary: "结合实证研究综述、政策诉求与专业律师起草的法定示范条文于一体的专业政策沟通载体，遵循极简定调原则，旨在消除科学证据与立法语言之间的制度性隔阂，直接为国会与立法机构提供可操作的法案条文草案。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # Legislative Policy Brief

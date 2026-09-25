@@ -8,7 +8,7 @@ aliases:
 summary: "在比较教育与政策借用研究中，指被特定国家用作自身教育体制改革、政策辩护或合法化重构的外部参照范例或制度模板。概念源自施赖弗（Jürgen Schriewer）的“外化假说”与卢曼系统论，强调系统对外部参照点的内部建构以应对政策情境的偶然性与不确定性。在当代全球量化治理中，经合组织通过外向型同行比较建构参考社会，而世界银行则展现出以自身工具与项目为依归的自指性中介特征。"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-05
-updated: 2026-09-24
+updated: 2026-09-26
 ---
 
 # Reference Society

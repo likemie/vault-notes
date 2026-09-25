@@ -12,9 +12,9 @@ subtype: policy
 region: "us"
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 30
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 33
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "National Governors Association & Council of Chief State School Officers"
 tags:

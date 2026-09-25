@@ -7,10 +7,10 @@ aliases:
 summary: "指公共政策制定中针对同一客观情境或治理问题同时并存多种互不相容、无法通约的思考方式与价值取向的生态特征。在信息过量时代，更多知识证据无法自发消除歧义性，反而加剧解释撕裂，促使决策者将数字作为理性表象的脚手架以应对多元分歧。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - concept/educational-policy-reform
   - theme/policy-process
@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-18
+updated: 2026-09-26
 ---
 
 # Policy Ambiguity

@@ -7,7 +7,7 @@ aliases:
 summary: "由英国公共政策学者桑德拉·纳特利等于 2002 年提出的中层分析框架，系统提炼了决定政策制定者是否关注、接纳与吸纳特定实证研究证据的四大核心维度：决策者个人特质、研究契合度、制度情境以及政策执行可行性。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-09-18
+updated: 2026-09-26
 ---
 
 # Nutley's Four-Dimension Framework for Research Uptake

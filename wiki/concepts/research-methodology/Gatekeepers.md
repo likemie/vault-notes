@@ -12,7 +12,7 @@ aliases:
 summary: "涵盖微观质性研究准入审查者、中观学校组织变革过滤者（如校长）与宏观政策生命周期中决定方案去留的制度把关人（政治领袖、同行专家与法定表决机构）；其通过权力裁量、价值选择与认知过滤，决定了田野调查能否开展、校本变革如何落地以及政策证据形态的阶段演化。"
 type: concept
 domain: "research-methodology"
-related_count: 67
+related_count: 68
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"

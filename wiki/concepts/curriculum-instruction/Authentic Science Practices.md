@@ -9,7 +9,7 @@ aliases:
 summary: "当代科学教育的核心范式：倡导学生像专业科学家共同体一样直面科学不确定性、构建与修订因果解释、展开基于证据的论辩并享有认识能动性，而非机械执行预设教案"
 type: concept
 domain: "curriculum-instruction"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-09-23
+updated: 2026-09-26
 ---
 
 # Authentic Science Practices

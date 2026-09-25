@@ -9,10 +9,10 @@ aliases:
 summary: "由约翰·金登（John Kingdon）创立并由尼古拉斯·扎哈利亚迪斯（Nikolaos Zahariadis）深化的公共政策分析框架；将政策制定过程解构为相对独立的问题流、政策流与政治流，阐明在决策歧义性与信息过载情境下，政策企业家如何抓住政策之窗实现三流耦合以促成改革议程设定。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 23
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 24
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theory/policy-process
   - theory/agenda-setting

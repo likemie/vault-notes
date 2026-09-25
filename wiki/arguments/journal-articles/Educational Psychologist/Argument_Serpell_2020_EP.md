@@ -92,7 +92,7 @@ title: "Argument_Serpell_2020_EP"
 argument_key: "Argument_Serpell_2020_EP"
 argument_display_title: "Supporting the integration of evidence into federal educational policy and reform efforts: A navigational framework for educational researchers"
 argument_kind: "journal-article"
-argument_related_count: 61
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"

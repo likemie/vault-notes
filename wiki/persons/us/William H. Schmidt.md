@@ -9,7 +9,7 @@ summary: "密歇根州立大学杰出教授、国际数学与科学趋势研究�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

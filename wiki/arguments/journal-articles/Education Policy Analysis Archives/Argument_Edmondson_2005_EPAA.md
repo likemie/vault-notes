@@ -72,7 +72,7 @@ title: "Argument_Edmondson_2005_EPAA"
 argument_key: "Argument_Edmondson_2005_EPAA"
 argument_display_title: "Policymaking in education: Understanding influences on the Reading Excellence Act"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"

@@ -8,7 +8,7 @@ aliases:
 summary: "指教育与公共政策领域科学研究与政府政策制定之间的结构性脱节，表现为政治选举周期与学术周期的非对称时间错配、意识形态与政治意愿阻碍、科研委托与需求诊断倒挂，以及单向信息分发替代深层互动的治理困局。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-24
+updated: 2026-09-26
 ---
 
 # Research-Policy Gap

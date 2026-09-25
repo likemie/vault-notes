@@ -9,7 +9,7 @@ summary: "美国教育心理学家，弗吉尼亚联邦大学教授，曾任国�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-09-18
+updated: 2026-09-26
 ---
 
 # Zewelanji N. Serpell

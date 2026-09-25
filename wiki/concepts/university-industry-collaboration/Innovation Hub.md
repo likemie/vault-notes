@@ -10,7 +10,7 @@ aliases:
 summary: "基于地点的跨部门联合体，将区域内大学、企业、投资者和政府组织起来围绕共同愿景进行大规模创新投资，TUFF 以四个信条和六项优先领域为其实践框架，目标是提升社区居民生活水平"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # Innovation Hub

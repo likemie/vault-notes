@@ -8,7 +8,7 @@ aliases:
 summary: "政治学与政策科学核心理论，主张公共政策是由拥有高度同质化利益与价值偏好的少数权力精英自上而下制定；在教育政策中常用于解构国家专家委员会以专业中立为掩护制造排他性科学共识的权力机制。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 22
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-09-24
+updated: 2026-09-26
 ---
 
 # Elite Theory

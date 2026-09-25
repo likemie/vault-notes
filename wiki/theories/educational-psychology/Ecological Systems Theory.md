@@ -8,7 +8,7 @@ aliases:
 summary: "由尤里·布朗芬布伦纳开创的发展心理学与教育学经典理论，主张个体发展是由嵌套于彼此之中的多层环境系统（微系统、中系统、外系统、宏系统及历时系统）共同交互塑造的动态生态过程，其历时系统构想为政策制定时间生态分析提供了跨学科基础。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 11
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # Ecological Systems Theory

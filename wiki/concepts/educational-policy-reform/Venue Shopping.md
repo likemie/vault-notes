@@ -8,7 +8,7 @@ aliases:
 summary: "断裂平衡理论中政策企业家用于打破制度垄断的关键策略，指行动者在原有决策体制因既得利益阻碍陷入僵局时，策略性搜寻并转向对自身政策理念更为友好的替代性制度场所（如联邦法院、行政委员会、州际横向组织或私人慈善网络），通过转移博弈主场以重构政策形象并实现合法化破局。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
