@@ -24,6 +24,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Value Neutrality]]"
   - "[[Research Utilization]]"
+  - "[[Policy Window]]"
   - "[[Research-Policy Gap]]"
   - "[[Policymaking Chronosystem]]"
 related_theories:
@@ -112,7 +113,7 @@ updated: 2026-09-22
 > |---|---|---|
 > | **决策者个人维度（Personal）** | 政策制定者是否相信将证据作为支持专家意见的有效手段？ | 摸清目标议员的个人专业背景，识别其对数据与实证知识的信赖程度。 |
 > | **研究契合度维度（Research Fit）** | 实证证据是否清晰、相关，并且能否有力支持决策者现有的意识形态信念？ | 将研究论点与议员的既定政见挂钩，证明该证据能为其政治抱负提供辩护支撑。 |
-> | **制度情境维度（Contextual）** | 研究成果是否适逢其时？研究方法是否争议较少？[[Research Utilization\|研究使用]]者是否共同参与了证据生产？是否有强力倡导团体支持？ | 紧盯政策窗口与立法日历，采用业界公认的严谨设计，并同政策倡导联盟紧密结盟。 |
+> | **制度情境维度（Contextual）** | 研究成果是否适逢其时？研究方法是否争议较少？[[Research Utilization\|研究使用]]者是否共同参与了证据生产？是否有强力倡导团体支持？ | 紧盯[[Policy Window\|政策窗口]]与立法日历，采用业界公认的严谨设计，并同政策倡导联盟紧密结盟。 |
 > | **政策执行维度（Implementation）** | 依据该研究所制定的政策在落地执行时是否稳健可靠？若未来形势有变，政策路线是否具备可逆性（reversible）？ | 在立法简报中提供具备操作弹性的制度方案，详细说明执行风险规避与动态修正预案。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]] |
 
 ---

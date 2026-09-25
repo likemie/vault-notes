@@ -12,7 +12,7 @@ subtype: policy
 region: "us"
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 26
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[College and Career Readiness]]"
   - "[[Learning Progression]]"
+  - "[[Policy Window]]"
   - "[[Policy Entrepreneur]]"
   - "[[Scaffolding]]"
   - "[[Academic Achievement]]"
@@ -54,7 +55,9 @@ related_facts:
   - "[[Race to the Top]]"
   - "[[Achieve]]"
   - "[[The Education Trust]]"
+  - "[[Thomas B. Fordham Institute]]"
   - "[[Hunt Institute]]"
+  - "[[National Research Council]]"
   - "[[American Federation of Teachers]]"
   - "[[National Education Association]]"
   - "[[Bill & Melinda Gates Foundation]]"
@@ -101,11 +104,11 @@ updated: 2026-09-26
 ## 时间线
 
 > [!dev-timeline] 共同核心标准演进脉络
-> - **2001 — 早期探索阶段** [[Achieve|阿奇夫]]（Achieve）联合[[The Education Trust|教育信托]]（The Education Trust）与福特汉姆基金会（Thomas B. Fordham Foundation）发起[[American Diploma Project|美国文凭项目]]（ADP），启动多州学术标准对标与高等教育衔接试点。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 8)]]
-> - **2007–2008 — 议程突破阶段** [[Hunt Institute|亨特研究所]]邀请美国国家科学研究委员会（National Research Council, NRC）举办专题研讨会，发布政策简报《教育领导力蓝图》；[[National Governors Association|NGA]]、[[Council of Chief State School Officers|CCSSO]] 与 Achieve 联合发布《迈向成功的基准》报告，正式确立研制跨州国际基准标准的共识。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]
+> - **2001 — 早期探索阶段** [[Achieve|阿奇夫]]（Achieve）联合[[The Education Trust|教育信托]]（The Education Trust）与[[Thomas B. Fordham Institute|福特汉姆基金会]]（Thomas B. Fordham Foundation）发起[[American Diploma Project|美国文凭项目]]（ADP），启动多州学术标准对标与高等教育衔接试点。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 8)]]
+> - **2007–2008 — 议程突破阶段** [[Hunt Institute|亨特研究所]]邀请[[National Research Council|美国国家科学研究委员会]]（National Research Council, NRC）举办专题研讨会，发布政策简报《教育领导力蓝图》；[[National Governors Association|NGA]]、[[Council of Chief State School Officers|CCSSO]] 与 Achieve 联合发布《迈向成功的基准》报告，正式确立研制跨州国际基准标准的共识。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]
 > - **2009 — 标准启动与起草** NGA 与 CCSSO 联合发起标准动议；成立数学与 ELA 专家团队，自上而下倒推研制高中毕业 [[College and Career Readiness|CCR]] 标准。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8, 13)]]
 > - **2010 — 评审认证与正式公布** 3 月公布草案并征集 10,000 份公众意见；6 月 29 人独立验证委员会完成学术审查（25 人签字，4 人拒签），标准终稿正式面向全美发布。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 15–16, 23)]]
-> - **2010–2011 — 各州法定采纳高潮** 借助联邦 43.5 亿美元[[Race to the Top|力争上游]]（RTTT）竞争性拨款政策窗口与逐条对标分析（Crosswalks），全美 45 个州和哥伦比亚特区迅速通过州教育委员会行政程序完成法定采纳。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 16–18)]]
+> - **2010–2011 — 各州法定采纳高潮** 借助联邦 43.5 亿美元[[Race to the Top|力争上游]]（RTTT）竞争性拨款[[Policy Window|政策窗口]]与逐条对标分析（Crosswalks），全美 45 个州和哥伦比亚特区迅速通过州教育委员会行政程序完成法定采纳。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 16–18)]]
 
 ---
 

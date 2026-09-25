@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 57
+fact_related_count: 58
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -78,6 +78,7 @@ related_facts:
   - "[[National Assessment of Educational Progress]]"
   - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Brookings Institution]]"
   - "[[Common Core State Standards]]"
   - "[[Education Innovation and Research]]"
   - "[[Best Evidence Encyclopedia]]"
@@ -237,7 +238,7 @@ flowchart LR
 > > [!axis] 宏观统一标准与真实学业产出脱钩争议（国家标准 vs 课程教材）
 > > 围绕统一课程标准能否切实提升学生[[Academic Achievement|学业成就]]，IES 创始领导层与政策倡导者展开了持久的实证交锋。
 > >
-> > - **标准无效论与教材[[Determinism|决定论]]（质疑立场）** IES 创始院长格罗弗·J·怀特赫斯特（Grover J. Whitehurst, 2009）与布鲁金斯学会研究员汤姆·洛夫利斯（Tom Loveless, 2012）基于全美宏观数据指出，各州以往课程标准的质量评级与该州实际 [[National Assessment of Educational Progress|NAEP]] 统考成绩之间完全不存在统计相关性（相关系数接近于 0）；标准评级被评为“极弱”的州与评为“极强”的州成绩无异。怀特赫斯特力陈政策层过度迷信自上而下的抽象标准，而忽视了真正进入教室的具体课程教材；课程教材的提分潜力和[[Effect Size|效应量]]远大于空泛的标准文本。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 21)]]
+> > - **标准无效论与教材[[Determinism|决定论]]（质疑立场）** IES 创始院长格罗弗·J·怀特赫斯特（Grover J. Whitehurst, 2009）与[[Brookings Institution|布鲁金斯学会]]研究员汤姆·洛夫利斯（Tom Loveless, 2012）基于全美宏观数据指出，各州以往课程标准的质量评级与该州实际 [[National Assessment of Educational Progress|NAEP]] 统考成绩之间完全不存在统计相关性（相关系数接近于 0）；标准评级被评为“极弱”的州与评为“极强”的州成绩无异。怀特赫斯特力陈政策层过度迷信自上而下的抽象标准，而忽视了真正进入教室的具体课程教材；课程教材的提分潜力和[[Effect Size|效应量]]远大于空泛的标准文本。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 21)]]
 > > - **课程一致性提分论（支持立场）** [[William H. Schmidt|威廉·H·施密特]]与理查德·T·黄（William H. Schmidt & Richard T. Houang, 2012）构建课程一致性模型反驳指出，在控制贫困率和标准切分点后，原先州标准越接近 [[Common Core State Standards|CCSS]] 的州，NAEP 实际成绩越高且提分更快，力证严谨连贯的宏观标准对提升教育质量具备长远牵引力。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
 
 > [!citation-card] 施奈德论拆解干预构件与终结混杂药丸袋黑箱

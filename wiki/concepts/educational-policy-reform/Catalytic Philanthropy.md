@@ -9,7 +9,7 @@ aliases:
 summary: "指慈善捐助者不以直接提供社会救济或维持日常运营为目的，而是将私营资本作为政策杠杆与催化剂，以撬动公共财政配资、重塑国家法定教育议程、推销因果循证量规并孵化新型中介实体为核心诉求的策略性慈善范式。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

@@ -27,6 +27,7 @@ related_concepts:
   - "[[Categorical Funding]]"
   - "[[Research-Practice Partnership]]"
   - "[[Dialogue in Education]]"
+  - "[[Policy Window]]"
   - "[[Research Utilization]]"
   - "[[Policymaking Chronosystem]]"
   - "[[Informationalization]]"
@@ -110,7 +111,7 @@ updated: 2026-09-24
 ## 核心要素
 
 > [!feature] 核心要素
-> - **时间维度的非对称错配（Temporal Mismatch）** 学术研究严谨的同行评议与实证检验周期长达数月乃至数年，而政策制定受制于内阁更迭、议会选举日程与危机事件应对，往往要求在数周内提出方案，导致研究成果与政策窗口发生结构性错过。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 106)]] 在宏观立法实务中，受特定社会历史事件驱动的政策时间系统更显现出极速响应压力，政治家常在危机发生数小时内亮明立场，与长达数年乃至十年的科学发现周期产生剧烈断层。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 41–42)]]
+> - **时间维度的非对称错配（Temporal Mismatch）** 学术研究严谨的同行评议与实证检验周期长达数月乃至数年，而政策制定受制于内阁更迭、议会选举日程与危机事件应对，往往要求在数周内提出方案，导致研究成果与[[Policy Window|政策窗口]]发生结构性错过。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 106)]] 在宏观立法实务中，受特定社会历史事件驱动的政策时间系统更显现出极速响应压力，政治家常在危机发生数小时内亮明立场，与长达数年乃至十年的科学发现周期产生剧烈断层。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 41–42)]]
 > - **政治意愿与意识形态壁垒（Political Will and Ideological Barriers）** 政策制定本质上涉及价值判断与选民诉求平衡。实证证据常与执政党政治纲领、部门利益发生冲突，成为政策端特有的非理性排斥机制。[[OECD\|经合组织]]跨国调查显示，32% 的教育系统明确将政治意愿缺乏或政策优先事项冲突列为政策端使用研究的主要障碍。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 113)]] 政策决策者往往将研究证据用于支持预先确立的政治信念与施政口号（political mantra），导致证据被高度策略性地挑选（cherry-picked）与工具化利用。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 42–43)]]
 > - **科研委托与需求识别的倒挂（Commissioning vs Need-Mapping Inversion）** 系统虽然设立了高比例的定向委托机制（62% 的教育系统通过资助委托政策研究），但仅有 51% 建立了常态化、系统化识别政策知识缺口的机制，导致政策委托缺乏明确的证据需求靶向，陷入政策供需的无序匹配。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 114)]]
 > - **机制部署的互动性贫乏（Interactive Mechanism Deficit）** 在促进[[Research Utilization\|研究利用]]的机制部署中，政策制定端高度依赖单向的信息分发（73%）与内部能力培训（49%），而旨在促进深度对话的互动机制（如联合攻关、政策驻场研究员）仅占 45%，显著低于实践端的部署比例（65%）。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 111)]]

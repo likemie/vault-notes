@@ -61,6 +61,7 @@ related_facts:
   - "[[Web-based Inquiry Science Environment]]"
   - "[[PhET Interactive Simulations]]"
   - "[[National Science Foundation]]"
+  - "[[National Research Council]]"
 related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
@@ -190,7 +191,7 @@ updated: 2026-09-22
 以美国为代表的创新型国家，通过系统的立法形式将 STEM 教育确立为国家级优先事务：
 - **政策与法案确立** 通过《美国竞争法案》（America COMPETES Act）等核心法规，将 STEM 纳入联邦与各州核心教育问责体系；
 - **顶层协调机制** 由[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）、美国国家科学技术委员会（National Science and Technology Council, NSTC）及教育部统筹联邦 STEM 战略规划，定期发布国家五年战略报告；
-- **课程标准研制** 美国国家科学研究委员会（National Research Council, NRC）于 2012 年发布《K-12 科学教育框架》，随后指导研制《新一代科学教育标准》（Next Generation Science Standards, NGSS），明确确立科学与工程实践的核心地位。
+- **课程标准研制** [[National Research Council|美国国家科学研究委员会]]（National Research Council, NRC）于 2012 年发布《K-12 科学教育框架》，随后指导研制《新一代科学教育标准》（Next Generation Science Standards, NGSS），明确确立科学与工程实践的核心地位。
 
 ### 2. 资金投入与规模化资助
 - **财政预算倾斜** 联邦政府设立了专属 STEM 资助计划，年度预算规模稳定在数十亿美元区间，涵盖 K-12 教师专业发展、少数族裔与女性 STEM 参与促进行动及顶尖科研实验室学徒计划；
@@ -213,7 +214,7 @@ updated: 2026-09-22
 > [!dev-timeline] 概念演变
 > - **1990s — 术语起源与国家战略萌芽** [[National Science Foundation\|美国国家科学基金会]]（NSF）正式整合科学、数学、工程与技术项目，提出“STEM”缩写，确立跨学科国家创新人才战略。
 > - **2007 — 立法确立与财政扩张** 美国国会通过《美国竞争法案》（America COMPETES Act），将 STEM 教育提升为保障国家经济安全与全球竞争力的法定核心支柱。
-> - **2012 — 实践导向与国家课程标准确立** 美国国家科学研究委员会（NRC）发布《K-12 科学教育框架》，将“科学与工程实践”（SEPs）并列确立为核心维度，推动 STEM 走向教学法深水区。
+> - **2012 — 实践导向与国家课程标准确立** [[National Research Council|美国国家科学研究委员会]]（NRC）发布《K-12 科学教育框架》，将“科学与工程实践”（SEPs）并列确立为核心维度，推动 STEM 走向教学法深水区。
 > - **2018 — [[Epistemic Practices\|认识论实践]]与学科[[Heterogeneity\|异质性]]深化** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] 提出 STEM 各领域的认识论实践比较矩阵，破除教条式[[Scientific Method\|科学方法]]，强化工程折中与[[Socioscientific Issues\|社会科学议题]]审议。
 > - **2023 — 学习科学视角下的教学法调和** [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 系统总结数十年实证证据，确立[[Inquiry-Based Learning\|指导式探究]]与时序整合在 STEM 概念掌握与[[Epistemology\|认识论]]素养培育上的共识[[Paradigm\|范式]]。
 

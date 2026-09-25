@@ -9,9 +9,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 22
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: ngo
 headquarters: "Washington, D.C., USA"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Blue Skies Research]]"
   - "[[Examination-Oriented Education]]"
+  - "[[Policy Window]]"
   - "[[Problem Finding]]"
 related_theories:
   - "[[Six-Stage Model of Policymaking]]"
@@ -48,6 +49,7 @@ related_facts:
   - "[[Common Core State Standards]]"
   - "[[Bill & Melinda Gates Foundation]]"
   - "[[Achieve]]"
+  - "[[Thomas B. Fordham Institute]]"
   - "[[American Diploma Project]]"
   - "[[National Assessment of Educational Progress]]"
   - "[[American Federation of Teachers]]"
@@ -82,7 +84,7 @@ updated: 2026-09-26
 
 > [!dev-timeline] 组织发展历程
 > - **1990–1996 — 创设与独立奠基期** 聚焦于揭示全美[[Academic Achievement|学业成就]]鸿沟的严峻现实，率先利用国家教育统计数据绘制州与学区层面的种族与收入学力差距图谱，打破当时学界与公众对贫困学生无法达到高学业标准的刻板赤字观念。
-> - **1997–2008 — 介入联邦问责立法与跨州标准联盟** 深度介入 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）立法辩论，推动将亚群数据分解写入法案；与此同时，联合[[Achieve|阿奇夫]]（Achieve）与福特汉姆基金会（Thomas B. Fordham Foundation）发起[[American Diploma Project|美国文凭项目]]（ADP），持续发布各州标准质量评价报告，成为跨州标准改革的核心智囊。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
+> - **1997–2008 — 介入联邦问责立法与跨州标准联盟** 深度介入 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）立法辩论，推动将亚群数据分解写入法案；与此同时，联合[[Achieve|阿奇夫]]（Achieve）与[[Thomas B. Fordham Institute|福特汉姆基金会]]（Thomas B. Fordham Foundation）发起[[American Diploma Project|美国文凭项目]]（ADP），持续发布各州标准质量评价报告，成为跨州标准改革的核心智囊。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
 > - **2009–2014 — 推动[[Common Core State Standards|共同核心标准]]与民权价值绑定** 作为推动[[Common Core State Standards|共同核心州立标准]]（CCSS）的关键[[Policy Entrepreneur|政策企业家]]之一，卡蒂·海科克等机构领袖密集动员[[National Assessment of Educational Progress|全国教育进展评估]]（NAEP）映射数据，揭露各州自设标准虚假高及格率的向下沉沦现象，成功将统一学术标准与消除教育不平等、促进社会流动的民权叙事深度绑定。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–11)]]
 > - **2015–至今 — 跨部门多元治理与高等教育公平扩展** 在 2015 年《每个学生都成功法》（[[Every Student Succeeds Act|ESSA]]）制定过程中，积极捍卫弱势亚群问责底线；同时将研究与倡导职能系统拓展至高等教育领域，重点攻坚大学资助分配不均、低收入学生毕业率差距及少数族裔师资队伍建设等系统性议题。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–42)]]
 
@@ -164,7 +166,7 @@ updated: 2026-09-26
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Common Core State Standards]] | Fact (Policy) | 核心改革案例：EdTrust 深度参与早期标准对标与民权价值绑定，推动全美 45 州法定采纳。 |
-> | [[Policy Entrepreneur]] | Concept | 理论定位：EdTrust 充当跨界政策企业家，敏锐捕捉政策窗口，整合差距数据与民权叙事。 |
+> | [[Policy Entrepreneur]] | Concept | 理论定位：EdTrust 充当跨界政策企业家，敏锐捕捉[[Policy Window\|政策窗口]]，整合差距数据与民权叙事。 |
 > | [[Six-Stage Model of Policymaking]] | Theory | [[Analytic Framework\|分析框架]]：展示 EdTrust 作为[[Educational Brokerage Agency\|知识经纪]]机构在前端[[Problem Finding\|问题界定]]、议程设置与方案起草中的渗透机制。 |
 > | [[Educational Brokerage Agency]] | Concept | 机构功能：作为连接大学学术研究象牙塔与立法决策中枢的典型知识经纪中介。 |
 > | [[No Child Left Behind Act 2001]] | Fact (Policy) | 历史立法渊源：EdTrust 推动将亚群数据分解写入法案，确立了联邦循证问责的法理框架。 |

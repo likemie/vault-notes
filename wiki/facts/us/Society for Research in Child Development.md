@@ -24,6 +24,7 @@ tags:
   - theme/human-development
   - theme/science-communication
 related_concepts:
+  - "[[Policy Window]]"
   - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods:
@@ -32,6 +33,7 @@ related_instruments: []
 related_persons:
   - "[[Urie Bronfenbrenner]]"
 related_facts:
+  - "[[National Research Council]]"
   - "[[Rapid Assessment and Response Strategy]]"
 related_arguments:
   - "[[Argument_Serpell_2020_EP]]"
@@ -51,7 +53,7 @@ updated: 2026-09-17
 > **儿童发展研究学会（Society for Research in Child Development, SRCD）**是全球规模最大、历史最悠久的跨学科儿童发展专业学术学会（501(c)(3)）。学会汇聚了来自全美及全球 50 多个国家的 5,500 余名发展心理学、儿科学、教育学、精神病学、神经科学及公共政策领域的顶级学者，致力于促进跨学科儿童科学研究，并通过前沿的敏捷科学传播机制将实证发现转化为国家儿童福祉与公共教育政策。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 47)]]
 
 > [!org-context] 机构背景
-> - **成立时间与创设背景** 1933 年由美国国家科学院国家研究委员会（National Research Council, NRC）儿童发展委员会发起设立，旨在打破单一学科壁垒，统合医学、心理学与教育学力量应对大萧条时期的全美儿童营养与发育危机。
+> - **成立时间与创设背景** 1933 年由美国国家科学院[[National Research Council|国家研究委员会]]（National Research Council, NRC）儿童发展委员会发起设立，旨在打破单一学科壁垒，统合医学、心理学与教育学力量应对大萧条时期的全美儿童营养与发育危机。
 > - **总部地点与辐射网络** 总部设于美国华盛顿特区，与国会山及联邦卫生与公众服务部（HHS）、教育部保持紧密沟通；会员横跨全球大学研究机构、临床医学中心与联合国相关儿童发展机构。
 > - **法人属性与经费基础** 独立学术法人社团；经费主要来源于会员会费、出版版税、两年一度的国际大会注册费以及来自联邦机构与独立基金会的专项资助。
 > - **核心宗旨与法定职责** 推进高标准的跨学科人类发展科学；培养新一代多元背景的发展科学家；消除科学研究与公共政策之间的鸿沟，保护弱势儿童免受系统性创伤与贫困侵害。
@@ -75,7 +77,7 @@ updated: 2026-09-17
 > - **跨学科同行评议编委会** 主持严谨的盲审出版体系，确保所有对外发布的科学证据均具备无可争议的因果实证水准。
 
 > [!pathways]- 业务运行机制
-> - **快速响应机制** 依托 [[Rapid Assessment and Response Strategy\|RARS]] 战略，当边境移民儿童分离危机或重大公共危机爆发时，委员会在数小时内甄选学科领军专家，极速聚合[[Meta-analysis\|元分析]]与实证综述，在黄金政策窗口期出具权威反应声明。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 47)]]
+> - **快速响应机制** 依托 [[Rapid Assessment and Response Strategy\|RARS]] 战略，当边境移民儿童分离危机或重大公共危机爆发时，委员会在数小时内甄选学科领军专家，极速聚合[[Meta-analysis\|元分析]]与实证综述，在黄金[[Policy Window|政策窗口]]期出具权威反应声明。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 47)]]
 > - **政策研究员选派与驻留** 每年选拔优秀儿童发展博士后与青年学者，资助其前往美国国会两院委员会或联邦行政部委担任为期一年的全职科学政策顾问（SRCD Policy Fellows）。
 
 ---

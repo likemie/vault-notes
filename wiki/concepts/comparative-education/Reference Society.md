@@ -25,6 +25,7 @@ related_concepts:
   - "[[Scientific Uncertainty]]"
   - "[[Policy Brokerage]]"
   - "[[Cross-National Attraction]]"
+  - "[[Policy Window]]"
   - "[[Recontextualization]]"
   - "[[Creativity]]"
   - "[[Nordic Model of Education]]"
@@ -97,7 +98,7 @@ updated: 2026-09-24
 
 > [!boundary] 概念边界
 > - **不等于最佳实践（Best Practices）** 最佳实践预设技术上的客观最优性；参考社会的选择本质上是文化和政治建构，甚至包含西方中心主义偏见（如西方长期忽视东亚优异表现）。
-> - **不等于[[Cross-National Attraction\|跨国吸引力]]（Cross-National Attraction）** 跨国吸引力描述的是外国模式引发本土政治兴趣与政策之窗打开的动态心理动力，参考社会则是这一吸引力所投射的特定实体结构。
+> - **不等于[[Cross-National Attraction\|跨国吸引力]]（Cross-National Attraction）** 跨国吸引力描述的是外国模式引发本土政治兴趣与[[Policy Window|政策之窗]]打开的动态心理动力，参考社会则是这一吸引力所投射的特定实体结构。
 > - **不等于反面参照体系（Negative Reference Society）** 政策制定者同样会建构“反参考社会”（如将邻国或冷战对手描绘为混乱失败的警示教材）以反衬本国改革的紧迫性。
 
 ---

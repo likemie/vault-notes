@@ -28,6 +28,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Value Neutrality]]"
   - "[[Technical Rationality]]"
+  - "[[Policy Window]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Predictive Validity]]"
   - "[[Paradigm]]"
@@ -102,7 +103,7 @@ updated: 2026-09-18
 > - **前提一** 国会与州议会遵循严格的立法日历与重新授权周期，对实证研究的响应需求呈现“时效紧迫性（Urgency）”。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 44, 46)]]
 > - **前提二** 极具争议或非主流的方法论设计容易沦为反对派质询的攻击抓手，而方法论争议较少的成熟证据更容易在两党谈判中作为公分母被保留。
 > - **前提三** 研究证据若仅孤立存在于学术刊物中，无法穿透国会山大门，必须借助利益相关者与中介组织的联合倡导。
-> - **推导** 当严谨、公认的实证证据适逢政策之窗开启之时，若有受信任的[[Educational Brokerage Agency\|教育知识经纪机构]]（如 [[The Education Trust\|EdTrust]]）及政策共同体协同助推，证据吸纳的效率将呈指数级跃升。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 45–46)]]
+> - **推导** 当严谨、公认的实证证据适逢[[Policy Window|政策之窗]]开启之时，若有受信任的[[Educational Brokerage Agency\|教育知识经纪机构]]（如 [[The Education Trust\|EdTrust]]）及政策共同体协同助推，证据吸纳的效率将呈指数级跃升。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 45–46)]]
 
 > [!proposition-chain] 核心命题四｜政策落地的执行稳健性与可逆性划定了决策者的政治风险底线
 > - **前提一** 任何立法的通过都伴随着巨大的选民问责与政治选举风险；不可控、不可逆的政策失败将对决策者的政治生命造成毁灭性打击。

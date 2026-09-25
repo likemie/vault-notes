@@ -27,6 +27,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Emergence]]"
   - "[[Paradigm]]"
+  - "[[Policy Window]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Operationalization]]"
 related_theories: []
@@ -100,7 +101,7 @@ updated: 2026-09-22
 > [!proposition-chain] 核心命题四｜突发历史事件与制度时间周期构成的历时系统支配着系统的突变与重构
 > - **前提一** 人类生命历程与社会制度的发展绝非静止平稳的线性流转，而是深受重大历史转折点所切割。
 > - **前提二** 外部环境中的极端偶发危机（如战争、瘟疫、突发惨案）会在极短时间内打破生态系统的内稳态，迫使各层系统发生剧烈适应性重组。
-> - **推导** 历时系统赋予了生态模型动态历史观。在公共治理领域，这一机制直接解释了为何政策演进常受危机事件驱动，突发事件瞬间打开政策窗口，迫使决策者在短时间内重塑宏观法律秩序。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]
+> - **推导** 历时系统赋予了生态模型动态历史观。在公共治理领域，这一机制直接解释了为何政策演进常受危机事件驱动，突发事件瞬间打开[[Policy Window|政策窗口]]，迫使决策者在短时间内重塑宏观法律秩序。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]
 
 ---
 

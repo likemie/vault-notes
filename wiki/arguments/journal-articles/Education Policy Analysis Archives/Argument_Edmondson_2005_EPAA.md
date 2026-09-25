@@ -55,6 +55,7 @@ related_facts:
   - "[[House Committee on Education and the Workforce]]"
   - "[[National Council of Teachers of English]]"
   - "[[National Assessment of Educational Progress]]"
+  - "[[National Research Council]]"
   - "[[National Institute of Child Health and Human Development]]"
   - "[[Open Court Reading]]"
   - "[[National Reading Panel]]"
@@ -71,7 +72,7 @@ title: "Argument_Edmondson_2005_EPAA"
 argument_key: "Argument_Edmondson_2005_EPAA"
 argument_display_title: "Policymaking in education: Understanding influences on the Reading Excellence Act"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -174,7 +175,7 @@ issuing_organization: ""
 > - **排他性的科研门槛** 把合格研究限定在可靠且可复制的研究，规定只有大样本、实验对照设计的客观经验研究才属合规科学，为后续把资金排他性地导向实验心理学[[Paradigm|范式]]设立了前置法律门槛。
 
 > [!case] 案例分析：十万名教师联名抗议为何未能阻止国会强推法案（pp. 4, 6）
-> - **联合抗议与专业声明** 面对草案对教学专业性与学术研究的干涉，[[National Council of Teachers of English|全美英语教师委员会]]（National Council of Teachers of English, NCTE）、国家研究委员会（National Research Council, NRC）相关学者以及全美语言与读写研究大会联合发起抗议，代表全美逾 10 万名教育工作者向国会议员寄送抗议信，明确指出国会不具备定义阅读科学的专业资格，不应强制推行单一拼读教学或人为限制科研学术范式。
+> - **联合抗议与专业声明** 面对草案对教学专业性与学术研究的干涉，[[National Council of Teachers of English|全美英语教师委员会]]（National Council of Teachers of English, NCTE）、[[National Research Council|国家研究委员会]]（National Research Council, NRC）相关学者以及全美语言与读写研究大会联合发起抗议，代表全美逾 10 万名教育工作者向国会议员寄送抗议信，明确指出国会不具备定义阅读科学的专业资格，不应强制推行单一拼读教学或人为限制科研学术范式。
 > - **立法机器的冷遇与逆向反弹** 众议院完全无视基层呼声，于 1997 年 12 月以口头表决方式迅速通过包含排他性定义的初版法案。[[International Reading Association|国际阅读协会]]（International Reading Association, IRA）政府关系联络员理查德·朗（Richard Long）证实，基层信件产生了意料之外的负面效果：立法者认为信件措辞激烈、指责议员伤害儿童，古德林议员亦向媒体抱怨遭到深夜电话骚扰；这些情绪化表达被国会视作既得利益团体的固步自封，反而坚定了强推立法的决心。（p. 6）
 > - **[[Pluralism|多元主义]]民主的现实困境** 传统多元主义民主理论（Pluralism; Dahl, 1967; Truman, 1971）预设各利益群体在政治市场中能平等发声，但现实中基层教师严重匮乏能够影响立法议程的制度性政治资本与游说渠道。
 

@@ -54,6 +54,7 @@ related_facts:
   - "[[American Association for the Advancement of Science]]"
   - "[[American Educational Research Association]]"
   - "[[Institute of Education Sciences]]"
+  - "[[Brookings Institution]]"
   - "[[CHIPS and Science Act]]"
 related_arguments:
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
@@ -161,7 +162,7 @@ updated: 2026-09-21
 > > [!axis] 区域资源平衡与精英名校集中度博弈
 > > 对联邦科研资金在全美地理与机构分布不均衡的制度反思。
 > >
-> > - **区域公平诉求** 历史数据显示，NSF 大部分科研经费长期高度集中于沿海少数顶尖研究型大学，加剧了区域科研生态与经济发展的不平衡。布鲁金斯学会与国会立法者在《芯片法案》中明确要求，新增创新资助必须重点投向非传统科技聚集区和产业基础薄弱的内陆地区。[[Argument_Byrne_2025_InnovationCenters\|(Byrne & Clements, 2025, pp. 134, 137)]]
+> > - **区域公平诉求** 历史数据显示，NSF 大部分科研经费长期高度集中于沿海少数顶尖研究型大学，加剧了区域科研生态与经济发展的不平衡。[[Brookings Institution|布鲁金斯学会]]与国会立法者在《芯片法案》中明确要求，新增创新资助必须重点投向非传统科技聚集区和产业基础薄弱的内陆地区。[[Argument_Byrne_2025_InnovationCenters\|(Byrne & Clements, 2025, pp. 134, 137)]]
 
 > [!citation-card] 代表性跨界融合反思论述
 > 面对当代前沿科技与社会变革的深度交织，技术挑战与社会挑战不可分割；认识到多学科协同与产学协同的必要性，代表了现代国家科学创新政策的核心转向。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 14–15)]]

@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: think-tank
 headquarters: "美国北卡罗来纳州卡里"
@@ -40,12 +40,14 @@ related_persons: []
 related_facts:
   - "[[Common Core State Standards]]"
   - "[[Bill & Melinda Gates Foundation]]"
+  - "[[National Research Council]]"
   - "[[National Governors Association]]"
   - "[[Council of Chief State School Officers]]"
   - "[[American Federation of Teachers]]"
   - "[[National Education Association]]"
   - "[[TIMSS]]"
   - "[[PISA]]"
+  - "[[Thomas B. Fordham Institute]]"
 related_arguments:
   - "[[Argument_McDonnell_2013_AJE]]"
 confidence: high
@@ -75,7 +77,7 @@ updated: 2026-09-26
 
 > [!dev-timeline] 组织发展历程
 > - **2001–2006年 — 创设与州长教育专题峰会制度化** 设立旗舰项目“州长教育专题研讨会”（Governors Education Symposium），每年邀请 20 余位在任州长及其核心幕僚开展闭门研讨，打造了两党州长直接对话顶尖教育学者的体制性渠道。
-> - **2007–2011年 — 策动国家研究委员会研讨并主导 [[Common Core State Standards|CCSS]] 协调网络** 亨特州长敏锐捕捉到国家标准转机，主动商请美国国家科学研究委员会（National Research Council, NRC）召开证据专题研讨会，发布奠基性简报《教育领导力蓝图》（*Blueprint for Education Leadership*）；在 CCSS 推进全周期每周主持 14 家伙伴机构的全国协调会议。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 20)]]
+> - **2007–2011年 — 策动[[National Research Council|国家研究委员会]]研讨并主导 [[Common Core State Standards|CCSS]] 协调网络** 亨特州长敏锐捕捉到国家标准转机，主动商请美国国家科学研究委员会（National Research Council, NRC）召开证据专题研讨会，发布奠基性简报《教育领导力蓝图》（*Blueprint for Education Leadership*）；在 CCSS 推进全周期每周主持 14 家伙伴机构的全国协调会议。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 20)]]
 > - **2012年–至今 — 跨州政策辐射与全美立法者培育** 将服务对象从州长拓展至州议员、副州长与各州高等教育主管，常态化发布各州教育成效雷达报告，成为美国州际教育治理中最具威望的协调平台之一。
 
 ---
@@ -97,13 +99,13 @@ updated: 2026-09-26
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **《教育领导力蓝图》（Blueprint for Education Leadership）** 2007 年依托 NRC 专题研讨成果编制的政策简报，系统梳理了基于标准的学业问责实证证据，直接为后续 [[National Governors Association|NGA]] 和 [[Council of Chief State School Officers|CCSSO]] 启动通用标准立论。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]
+> - **《教育领导力蓝图》（Blueprint for Education Leadership）** 2007 年依托 [[National Research Council|NRC]] 专题研讨成果编制的政策简报，系统梳理了基于标准的学业问责实证证据，直接为后续 [[National Governors Association|NGA]] 和 [[Council of Chief State School Officers|CCSSO]] 启动通用标准立论。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]
 > - **[[Common Core State Standards|CCSS]] 全国推进协调网络（Weekly Coalition Calls）** 组织全美 7 至 14 家核心倡导机构开展长达数年的每周协调，形成空前紧密的政策同盟。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 20)]]
 > - **州长教育专题研讨会（Governors Education Symposium）** 全美唯一定期为在任州长量身定制的教育政策闭门研讨峰会，促进跨党派[[Policy Borrowing|政策借用]]。
 > - **全美教育立法者学院（Hunt State Policy Fellows）** 专门针对州议会教育委员会骨干议员设立的实证研究政策训练营。
 
 > [!citation-card] 亨特研究所搭建的跨机构协同中枢
-> 亨特研究所的工作人员调动了丰富的过程性资料，其中包括该所发起并召集的推进 CCSS 实施的每周电话会议的[[Participant Observation|参与观察]]笔记。该电话协调会议始于 2010 年 9 月，由 7 到 14 个‘倡导伙伴’机构组成（包括州首席教育官理事会、全国州长协会、[[American Federation of Teachers|全美教师联盟]]、全国教育协会、福特汉姆基金会等），其核心目的在于协调各方力量共同为推进共同核心标准奔走效力。
+> 亨特研究所的工作人员调动了丰富的过程性资料，其中包括该所发起并召集的推进 CCSS 实施的每周电话会议的[[Participant Observation|参与观察]]笔记。该电话协调会议始于 2010 年 9 月，由 7 到 14 个‘倡导伙伴’机构组成（包括州首席教育官理事会、全国州长协会、[[American Federation of Teachers|全美教师联盟]]、全国教育协会、[[Thomas B. Fordham Institute|福特汉姆基金会]]等），其核心目的在于协调各方力量共同为推进共同核心标准奔走效力。
 >
 > *Among sources that the Hunt Institute staff drew upon are participant observer notes from weekly conference calls the institute convened among groups engaged in implementing the CCSS. The calls began in September 2010 with 7–14 “advocacy partners” (e.g., CCSSO, NGA, the teachers unions, parent organizations, and think tanks) for the purpose of coordinating their efforts on behalf of the CCSS.* [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 20)]]
 
@@ -138,6 +140,6 @@ updated: 2026-09-26
 > | [[Bill & Melinda Gates Foundation]] | 慈善基金 | 亨特研究所推进 CCSS 全国协调网络的核心战略资助方。 |
 > | [[American Federation of Teachers]] | 教师工会 | 参与亨特研究所每周策略协调会议并参与草案审读的工会伙伴。 |
 > | [[National Education Association]] | 教师工会 | 参与亨特研究所例行推进会议并就条文提出专业修改建议的工会实体。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证[[Document\|文献]] | 详细记录亨特研究所如何组织 NRC 研讨会及 14 家机构每周协同的研究。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证[[Document\|文献]] | 详细记录亨特研究所如何组织 [[National Research Council\|NRC]] 研讨会及 14 家机构每周协同的研究。 |
 
 ---

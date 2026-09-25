@@ -30,6 +30,7 @@ related_concepts:
   - "[[Progressive Education]]"
   - "[[Document]]"
   - "[[International Baccalaureate]]"
+  - "[[Policy Window]]"
   - "[[Cross-National Attraction]]"
   - "[[Governing by Numbers]]"
   - "[[Technical Rationality]]"
@@ -98,7 +99,7 @@ updated: 2026-09-26
 >   - 1982 委员会在全美举行多场公开听证会，广泛搜集学界、企业界与公众对公立中学基础学科软弱、教师资质不足与有效学习时间偏短的抱怨。
 >   - 1983-04 委员会正式向里根总统呈交报告《国家处于危险之中：教育改革势在必行》，以开篇震撼性的军事战争隐喻将教育提升至国家生存安全战略高度。
 > - **1983–1988 — 国内政策震荡与跨国经验汲取** 说明全美各州核心学术课程改革浪潮与对日本教育的密集危机化借用。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, pp. 234–235)]]
->   - 1983-05 报告在全美引发狂风暴雨般的公共辩论，成为里根政府最轰动的国内政策[[Document\|文献]]；促使全美各州迅速出台强化高中毕业核心学术课程（“新五门基础课程”）的硬性规定，并为[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）在北美公立高中的合法化采纳打开了政策窗口。[[Argument_Peterson_1987_OpenCourt_Ch06\|(Peterson, 1987, pp. 137–139)]]
+>   - 1983-05 报告在全美引发狂风暴雨般的公共辩论，成为里根政府最轰动的国内政策[[Document\|文献]]；促使全美各州迅速出台强化高中毕业核心学术课程（“新五门基础课程”）的硬性规定，并为[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）在北美公立高中的合法化采纳打开了[[Policy Window|政策窗口]]。[[Argument_Peterson_1987_OpenCourt_Ch06\|(Peterson, 1987, pp. 137–139)]]
 >   - 1984–1987 美国教育界与联邦政府对日本教育爆发高强度的[[Cross-National Attraction\|跨国吸引力]]与危机化（Scandalization）操作，将日本高强度课程、长学时与全国统一标准树立为正面镜像，并于 1987 年由联邦教育部专设发布《今日日本教育》（*Japanese Education Today*）。
 > - **1987 至今 — 跨国指标委托与全球[[Governing by Numbers\|数字治理]]制度化** 说明美国推动[[OECD\|经合组织]]创建指标项目，开启全球教育治数而治的跨国演变。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 >   - 1987–1988 面对国内各州数据缺乏可比性及跨国实证的匮乏，美国联邦政府直接向经济合作与发展组织（Organisation for Economic Co-operation and Development，OECD）施压并注资，力推创建[[International Education\|国际教育]]指标；[[Centre for Educational Research and Innovation\|经合组织教育研究与创新中心]]（Centre for Educational Research and Innovation，CERI）正式设立[[International Indicators of Education Systems\|国际教育系统指标项目]]（International Indicators of Education Systems，INES）。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 8, 12)]]
@@ -152,7 +153,7 @@ updated: 2026-09-26
 > [!finding-cards] 关键历史后果
 > - **催生国际指标项目** 报告将[[Performance Indicators\|教育指标]]决策的主导权从学者与心理测量学家手中夺走，交到了政府高级行政官员与政策制定者手中，直接促成 OECD 启动 INES 项目，奠定了全球跨国教育数据基准。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 12)]]
 > - **跨国借用与对日镜像** 触发了 1980 年代美国对日本教育体制长达数年的高度迷恋与危机化投射，将日本刻画为兼具高学术水准与经济活力的正面参照，见证了[[Cross-National Attraction\|跨国吸引力]]的运作。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, pp. 234–235)]]
-> - **课程改革政策窗口** 建议大学预备学生学习 4 年英语、3 年数学、3 年科学、3 年社会研究和半年计算机，为[[International Baccalaureate\|国际文凭]]（IB）在北美公立高中的普及铺平了道路，地方公立学校将 IB 视为回应“平庸之潮”现成解决方案。[[Argument_Peterson_1987_OpenCourt_Ch06\|(Peterson, 1987, pp. 137–139)]]
+> - **课程改革[[Policy Window|政策窗口]]** 建议大学预备学生学习 4 年英语、3 年数学、3 年科学、3 年社会研究和半年计算机，为[[International Baccalaureate\|国际文凭]]（IB）在北美公立高中的普及铺平了道路，地方公立学校将 IB 视为回应“平庸之潮”现成解决方案。[[Argument_Peterson_1987_OpenCourt_Ch06\|(Peterson, 1987, pp. 137–139)]]
 > - **危机治理范式常规化** 开创了“国际测评发布 → 危机叙事动员 → [[Policy Borrowing\|政策借用]]合法化”的治数而治循环机制，使危机情境从偶然例外演变为主权国家与国际组织的常规治理技术。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 
 > [!stat-cards]- 核心历史数据

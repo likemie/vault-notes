@@ -45,6 +45,7 @@ related_concepts:
   - "[[Lesson Study]]"
   - "[[Phronesis]]"
   - "[[Problem Finding]]"
+  - "[[Policy Window]]"
   - "[[Professional Learning Community]]"
   - "[[Academic Engagement Team]]"
   - "[[Paradigm]]"
@@ -175,7 +176,7 @@ updated: 2026-09-17
 >   5. 系统化沉淀与全域扩散：提炼成熟模式并反哺全系统知识库。
 > - **场域三：宏观国家立法四阶段研究转化导航模型（[[Argument_Serpell_2020_EP\|Serpell, 2020]]）**
 >   1. 阶段一：[[Problem Finding\|问题界定]]——以知情选民与[[Boundary Spanner\|知识经纪人]]身份深入选区，将实证证据与选民切身体验建立情感共鸣；
->   2. 阶段二：议程设置——追踪国会专业政治媒体，识别逼近的政策之窗，与两党立法幕僚培育长效专业互信；
+>   2. 阶段二：议程设置——追踪国会专业政治媒体，识别逼近的[[Policy Window|政策之窗]]，与两党立法幕僚培育长效专业互信；
 >   3. 阶段三：政策制定——紧抓重大教育法案定期重新授权周期，向国会常设委员会听证会呈递无可替代的专家证词；
 >   4. 阶段四：政策合法化——深度参与象征性法案（Messaging Bills）起草，提前将实证主张储备为法律示范条文。
 
@@ -305,7 +306,7 @@ updated: 2026-09-17
 > | **高教产学技术转化** | 3–8 年 | 从技术许可至商业化产品上市部署 | 业务部门原型匹配失败、跨部门监护权交接断层 | Pressman et al. (2022); [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]] |
 > | **生物医药临床转化** | 10 年以上 | 从 I 期[[Clinical Trial\|临床试验]]至监管机构最终上市许可 | 人体生理复杂性失效、安全性与有效性无法平衡 | Thomas et al. (2021) |
 > | **中小学微观教学转化** | 5–10 年 | 经 [[Randomised Controlled Trials\|RCT]] 验证至进入国家课程与[[Business as Usual\|常态教学]]规范 | 形式化模仿导致[[Activity Traps\|活动陷阱]]、缺乏行动理论审思 | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]]; [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] |
-> | **宏观国家立法转化** | 2–7 年 | 从象征性法案起草至法典重新授权条文采纳 | 政治意识形态相悖、缺乏示范法条、错过政策窗口 | [[Argument_Serpell_2020_EP\|Serpell (2020)]]; Weiss (1989) |
+> | **宏观国家立法转化** | 2–7 年 | 从象征性法案起草至法典重新授权条文采纳 | 政治意识形态相悖、缺乏示范法条、错过[[Policy Window\|政策窗口]] | [[Argument_Serpell_2020_EP\|Serpell (2020)]]; Weiss (1989) |
 
 ---
 

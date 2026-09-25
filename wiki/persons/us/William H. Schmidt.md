@@ -9,10 +9,10 @@ summary: "密歇根州立大学杰出教授、国际数学与科学趋势研究�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 22
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1945"
 died: ""
 lifespan: "1945–至今"
@@ -45,6 +45,7 @@ related_facts:
   - "[[TIMSS]]"
   - "[[Common Core State Standards]]"
   - "[[IEA]]"
+  - "[[Brookings Institution]]"
   - "[[National Governors Association]]"
   - "[[Council of Chief State School Officers]]"
   - "[[National Assessment of Educational Progress]]"
@@ -83,7 +84,7 @@ updated: 2026-09-26
 > - **1990年代** 担任[[IEA|国际教育成就评价协会]]（IEA）旗下 [[TIMSS]] 项目全美国家研究协调员，主导开展了针对全球数十个国家数学与科学教科书及教学大纲的大规模跨国比较研究。
 > - **1997–2002年** 连续发表《多元的追求》（*A Splintered Vision*）与《为什么学校至关重要》（*Why Schools Matter*），以量化实证指出美国各州自设课程标准庞杂无序，直接导致美国学生在国际测评中表现平庸。
 > - **2007–2010年** 带着跨国课程对标数据在全美各州首府巡回游说，向各州州长、议会领袖及教育厅长宣讲国际经验；其研究成果被直接写入奠基性政策报告《迈向成功的基准》（*Benchmarking for Success*）。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–11)]]
-> - **2012年** 针对布鲁金斯学会关于“高标准不能提分”的怀疑派论断，联合理查德·T·黄（Richard T. Houang）发表重磅实证论文，以严密控制[[Variable|变量]]模型证实原有标准越接近 [[Common Core State Standards|CCSS]] 的州其实际学业进步越快。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
+> - **2012年** 针对[[Brookings Institution|布鲁金斯学会]]关于“高标准不能提分”的怀疑派论断，联合理查德·T·黄（Richard T. Houang）发表重磅实证论文，以严密控制[[Variable|变量]]模型证实原有标准越接近 [[Common Core State Standards|CCSS]] 的州其实际学业进步越快。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
 
 ---
 
@@ -116,7 +117,7 @@ updated: 2026-09-26
 > [!influence-path] 影响路径
 > - **理论路径** 深刻丰富了比较教育学与课程社会学关于“学习机会”与[[Institutional Isomorphism|制度同构]]的理论传统，打破了唯社会阶层[[Determinism|决定论]]，确立了课程内容结构对学业产出的独立因果机制。
 > - **政策路径** 直接奠定了美国 [[Common Core State Standards|CCSS]] 数学标准的核心起草原则；其跨国比较数据成为[[National Governors Association|全美州长协会]]（NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（CCSSO）动员两党州长打破宪政分权垄断最犀利的实证武器。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–11)]]
-> - **学术辩护路径** 在 CCSS 遭到布鲁金斯学会等智库从实证层面的猛烈质疑时，施密特挺身而出构建复杂的跨期控制模型，成为捍卫国家标准学术声誉的最强学术护盾。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
+> - **学术辩护路径** 在 CCSS 遭到[[Brookings Institution|布鲁金斯学会]]等智库从实证层面的猛烈质疑时，施密特挺身而出构建复杂的跨期控制模型，成为捍卫国家标准学术声誉的最强学术护盾。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
 
 ---
 
@@ -127,7 +128,7 @@ updated: 2026-09-26
 > > [!axis] 课程标准严格度能否带来统考成绩提升？
 > > [[Common Core State Standards|CCSS]] 通过后，学术界围绕“仅靠统一高标准能否真正提升学生实际成绩”爆发了激烈的实证交锋。
 > >
-> > - **布鲁金斯学会学者汤姆·洛夫利斯（Tom Loveless, 2012）与[[Grover Whitehurst|格罗弗·怀特赫斯特]]（Grover J. Whitehurst, 2009）** 批评派拿出长达十余年的各州统考数据指出，各州以往课程标准的严格度评级与学生在[[National Assessment of Educational Progress|全国教育进展评估]]（[[National Assessment of Educational Progress|NAEP]]）上的实际得分完全不存在统计相关性（$r \approx 0$），高标准不过是政客的纸上谈兵。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 21)]]
+> > - **[[Brookings Institution|布鲁金斯学会]]学者汤姆·洛夫利斯（Tom Loveless, 2012）与[[Grover Whitehurst|格罗弗·怀特赫斯特]]（Grover J. Whitehurst, 2009）** 批评派拿出长达十余年的各州统考数据指出，各州以往课程标准的严格度评级与学生在[[National Assessment of Educational Progress|全国教育进展评估]]（[[National Assessment of Educational Progress|NAEP]]）上的实际得分完全不存在统计相关性（$r \approx 0$），高标准不过是政客的纸上谈兵。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 21)]]
 > > - **威廉·H·施密特与理查德·T·黄（William H. Schmidt & Richard T. Houang, 2012）** 支持派反驳指出，以往各州所谓的高标准彼此割裂且缺乏系统连贯性；施密特团队通过精确控制各州贫困率并重新建模，实证证明原先标准与 CCSS 越吻合的州，其 NAEP 统考成绩显著更高，且学业进步速度显著更快。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
 
 ---

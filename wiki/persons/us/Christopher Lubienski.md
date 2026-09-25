@@ -40,6 +40,7 @@ related_instruments: []
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
+  - "[[Thomas B. Fordham Institute]]"
   - "[[OECD]]"
   - "[[World Bank]]"
   - "[[American Educational Research Association]]"
@@ -86,7 +87,7 @@ updated: 2026-09-22
 >   - **代表著作** *The Public School Advantage* (University of Chicago Press, 2014)（与 Sarah Lubienski 合著）——系统证明控制社经[[Variable\|变量]]后公立学校数学成绩优于私立学校。
 >   - **关键概念** Charter Schools, Voucher Programs, Market-based Education Reform.
 >   - **阶段转向** 从单纯的实证效果研究转向追问"为何明明效果不佳的教育改革仍能在政策市场中大行其道"。
-> - **中期 — 思想市场与教育智库政治学** 系统研究教育政策智库（Cato Institute, Heritage Foundation, Thomas B. Fordham Institute 等）如何生产、包装与推销契合意识形态目标的"研究证据"。
+> - **中期 — 思想市场与教育智库政治学** 系统研究教育政策智库（Cato Institute, Heritage Foundation, [[Thomas B. Fordham Institute]] 等）如何生产、包装与推销契合意识形态目标的"研究证据"。
 >   - **代表著作** "Advocacy Organizations and the Politics of Information in Education Policy" (*Peabody Journal of Education*, 2014); *Thinking for a Living: Think Tanks, the Policy Process, and the Case of Education Reform* (series articles, 2019)。
 >   - **关键概念** Marketplace of Ideas、智库（Think Tanks）、Policy Advocacy Research、[[Surplus of Evidence]]中介化。
 >   - **阶段转向** 建立对政策[[Knowledge Production\|知识生产]]政治经济学的系统批判框架，为 Steiner-Khamsi 等人的"证据过剩"分析提供了重要经验基础。

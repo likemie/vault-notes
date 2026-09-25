@@ -34,6 +34,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Problem Finding]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Policy Window]]"
   - "[[Governing by Numbers]]"
   - "[[Performance Indicators]]"
   - "[[Knowledge Mediation]]"
@@ -151,7 +152,7 @@ updated: 2026-09-18
 > 揭示量化指标如何同时实现“对外压制价值争论”与“对内保留政治阐释自由”的双重功能。
 
 > [!claim] Zahariadis, N.
-> **多源流中的[[Problem Finding\|问题界定]]与歧义性操纵** [[Policy Entrepreneur\|政策企业家]]在多源流耦合过程中的核心本领，在于利用指标和聚焦事件重新界定政策问题；通过将复杂的价值冲突转化为简单的指标差距，政策企业家能够引导官僚注意力，促成政策之窗的开启。
+> **多源流中的[[Problem Finding\|问题界定]]与歧义性操纵** [[Policy Entrepreneur\|政策企业家]]在多源流耦合过程中的核心本领，在于利用指标和聚焦事件重新界定政策问题；通过将复杂的价值冲突转化为简单的指标差距，政策企业家能够引导官僚注意力，促成[[Policy Window|政策之窗]]的开启。
 
 > [!claim] Espeland, W.
 > **数字通约性对歧义价值的遮蔽与叙事赋权** 质性叙事不可避免地暴露背后的意识形态与阶级立场，从而使歧义性彻底公开化；而数字指标通过抹平具体的社会文化脉络构筑起理性与普适的表象，但由于数字天然“激发叙事”，政治家得以在表面客观的数字掩护下，自由讲述符合自身政党利益的“指标故事”。(Espeland, 2015, p. 65; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024, p. 539]])

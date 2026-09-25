@@ -44,6 +44,7 @@ related_instruments: []
 related_persons:
   - "[[Max Weber]]"
 related_facts:
+  - "[[National Research Council]]"
   - "[[National Reading Panel]]"
   - "[[Reading Excellence Act]]"
 related_arguments:
@@ -85,7 +86,7 @@ updated: 2026-09-24
 > - **1956 — 经典权力精英模型奠定** C. Wright Mills 确立政、商、军三位一体权力精英模型，揭示政策由高层密室非正式协调产生。
 > - **1976 — 精英民主与议程操纵批判** 经济学家熊彼特（Joseph Schumpeter）深刻指出，在精英统治体制下，民众既无法自主提出议题也无法做出实质决断，决定公众命运的议程总是由少数社会精英预先设计并强加给全社会。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, p. 10; Schumpeter, 1976, p. 264)]]
 > - **1995 — 公共政策学规范分类确立** 斯黛拉·西奥杜卢与马修·卡恩（Stella Theodoulou & Matthew Cahn, 1995）将精英理论正式纳为分析公共政策制定的核心分析透镜。
-> - **2005 — 国家专家委员会知识垄断解构** 杰奎琳·埃德蒙森（Jacqueline Edmondson）将精英理论引入教育读写立法批判，揭示官方挑选的国家专家委员会（如国家研究委员会 NRC 与[[National Reading Panel\|国家阅读委员会]] NRP）如何以“唯专业能力论”为幌子组建同质化精英同盟，借由“科学共识”标签合法化自上而下的课程规训。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, pp. 9–10)]]
+> - **2005 — 国家专家委员会知识垄断解构** 杰奎琳·埃德蒙森（Jacqueline Edmondson）将精英理论引入教育读写立法批判，揭示官方挑选的国家专家委员会（如[[National Research Council|国家研究委员会]] NRC 与[[National Reading Panel\|国家阅读委员会]] NRP）如何以“唯专业能力论”为幌子组建同质化精英同盟，借由“科学共识”标签合法化自上而下的课程规训。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, pp. 9–10)]]
 
 ---
 
@@ -112,7 +113,7 @@ updated: 2026-09-24
 > [!theory-proposition] 命题二｜国家级专家委员会以技术客观性为面具组建同质化精英同盟并制造排他性科学共识
 > **解释** 在高度依赖专业知识的教育与社会政策领域，统治精英往往不直接诉诸政治强权，而是通过设立享有崇高声誉的国家级专家委员会来行使精英控制职能。遴选机制表面上高呼“把政治热情留在门外，唯专业能力是举”，实质上却通过预设的方法论偏好精准挑选来自量化实验、神经医学等主流同质化背景的学者，系统性排斥质性、[[Action Research|行动研究]]与社会文化视角的学者。通过这种方式出台的国家评估报告看似汇集了全国最高学术共识，实为精英寡头巩固自身知识霸权与商业同盟的强力杠杆。[[Argument_Edmondson_2005_EPAA\|(Schumpeter, 1976; Edmondson, 2005, pp. 9–10)]]
 >
-> **应用实例** 国家研究委员会（NRC）的《预防幼童阅读困难》报告以及随后的[[National Reading Panel\|国家阅读委员会]]（NRP），成员绝大多数来自实证认知心理学与医学背景，其得出的“五大阅读技能”被直接写入联邦法律，而反对机械技能切片的质性学者与[[Whole Language\|全语言]]教育者被扣上“反科学”标签并彻底逐出国家政策咨询体系。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, p. 10)]]
+> **应用实例** [[National Research Council|国家研究委员会]]（NRC）的《预防幼童阅读困难》报告以及随后的[[National Reading Panel\|国家阅读委员会]]（NRP），成员绝大多数来自实证认知心理学与医学背景，其得出的“五大阅读技能”被直接写入联邦法律，而反对机械技能切片的质性学者与[[Whole Language\|全语言]]教育者被扣上“反科学”标签并彻底逐出国家政策咨询体系。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, p. 10)]]
 
 ---
 

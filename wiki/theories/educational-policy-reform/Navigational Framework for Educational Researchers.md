@@ -28,6 +28,7 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Boundary Spanner]]"
   - "[[Value Neutrality]]"
+  - "[[Policy Window]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -135,7 +136,7 @@ updated: 2026-09-24
 > - **推导** 研究者必须打破纯粹[[Value Neutrality\|价值中立]]的神话，学会以精炼明确的语言呈现坚定结论，遵循国会山“少即是多”原则，并借助整合专业律师起草法定示范条文（Model Statutory Language）的[[Legislative Policy Brief\|立法政策简报]]打通通往法案文本的瓶颈。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 
 > [!proposition-chain]- 延伸命题
-> - **推论一（双速时间系统适应）** 从核心命题一推导出：面对[[Policymaking Chronosystem\|政策制定时间系统]]的急性突发事件，学术组织必须打破传统同行评议数月的惰性，设立如[[Society for Research in Child Development\|儿童发展研究学会]]（SRCD）“[[Rapid Assessment and Response Strategy\|快速评估与响应战略]]”（RARS）专家团队，在数日乃至数小时内快速聚合实证证据并出具政策声明，实现与突发政策窗口的敏捷咬合。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 47)]]
+> - **推论一（双速时间系统适应）** 从核心命题一推导出：面对[[Policymaking Chronosystem\|政策制定时间系统]]的急性突发事件，学术组织必须打破传统同行评议数月的惰性，设立如[[Society for Research in Child Development\|儿童发展研究学会]]（SRCD）“[[Rapid Assessment and Response Strategy\|快速评估与响应战略]]”（RARS）专家团队，在数日乃至数小时内快速聚合实证证据并出具政策声明，实现与突发[[Policy Window|政策窗口]]的敏捷咬合。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 47)]]
 > - **推论二（沉浸式制度培育通道）** 从核心命题一与命题二推导出：要克服学术界对政治运作的神秘感与偏见，必须建立全职浸润式的国会政策研究员机制（Congressional Fellowships）。学者通过一年全职幕僚实践掌握政策隐性知识（Tacit Knowledge），在离任后持续辐射行政资助、委员会运作与高校跨界培养。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 46–47)]]
 > - **应用命题（四维证据吸纳审视）** 结合纳特利等（Nutley et al., 2002）框架，研究者在推动证据转化前，必须系统评估目标决策者的个人信念（Personal）、研究与意识形态契合度（Research Fit）、制度情境时机（Contextual）以及政策落地执行的可逆性（Implementation）。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 
@@ -218,7 +219,7 @@ updated: 2026-09-24
 > [!dev-timeline] 发展脉络
 > - **1951 — [[Policy Science in Comparative Education\|政策科学]][[Paradigm\|范式]]奠基** 哈罗德·拉斯韦尔（Harold Lasswell）确立政策科学传统，开创政策阶段模型雏形。
 > - **1970s — [[Research Utilization Models\|研究利用模型]]与价值冲突论** [[Carol Weiss\|卡罗尔·韦斯]]（Weiss, 1977）指出公共政策本质关乎价值选择，研究主要发挥概念启蒙而非直接工具决策功能。
-> - **1984 / 2003 — 多源流与政策之窗模型** 约翰·金登（Kingdon）提出政策之窗概念，揭示议程设置中的政治偶发性。
+> - **1984 / 2003 — 多源流与[[Policy Window|政策之窗]]模型** 约翰·金登（Kingdon）提出政策之窗概念，揭示议程设置中的政治偶发性。
 > - **2000s — [[Evidence-Based Education\|循证教育]]运动与规制型[[Technical Rationality\|技术理性]]** 乔治·布什签署《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]），将“[[Scientifically Based Research\|基于科学的研究]]”固化为法定指标，推崇单一 [[Randomised Controlled Trials\|RCT]] 标准。
 > - **2015 — [[Every Student Succeeds Act\|每一个学生成功法案]]与发展型转向** 奥巴马签署重新授权的《每一个学生成功法案》（[[Every Student Succeeds Act\|ESSA]]），从单一惩戒转向综合支持体系，拓宽[[Research Utilization\|证据使用]]边界。
 > - **2020 — 政策导航框架的正式提出** 塞佩尔（[[Argument_Serpell_2020_EP\|Serpell, 2020]]）发表奠基性论文，基于国会全职研究员经历提出教育研究者政策导航框架，确立四阶段行动模型、时间系统分析与法条化传播规范。

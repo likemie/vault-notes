@@ -51,6 +51,7 @@ related_facts:
   - "[[Declaration on Research Assessment]]"
   - "[[Schlegel-UW Research Institute for Aging]]"
   - "[[University of Waterloo Global Futures Framework]]"
+  - "[[National Research Council]]"
   - "[[European Standards and Guidelines]]"
 related_arguments: []
 sources:
@@ -162,7 +163,7 @@ citation_aliases:
 
 11. **共同选址（[[University-Industry Co-location|co-location]]）**是缩短认知距离的最激进形式。当产业人员进驻大学校园——甚至进入合作教师的特定实验室——互动从安排一次会议变为日常的、非正式的接触。共同选址还可以催生更广泛的组织形式：研究开发集群、[[Innovation Park|研究园区]]、联合体、专用设备和服务的共享使用，以及招聘会、[[Industry Advisory Board|行业咨询委员会]]和赞助等非研究密集型活动(p.249)。
 
-12. 滑铁卢大学推动共同选址的一个实例是**加拿大国家研究理事会（NRC）与滑铁卢大学合作中心**。该中心聚焦人工智能、物联网和网络安全，为学生、政府和教师提供共同工作的物理空间，目标是在培养 HQP 技能的同时创造多样视角交汇的环境(p.249)。
+12. 滑铁卢大学推动共同选址的一个实例是**加拿大国家研究理事会（[[National Research Council|NRC]]）与滑铁卢大学合作中心**。该中心聚焦人工智能、物联网和网络安全，为学生、政府和教师提供共同工作的物理空间，目标是在培养 HQP 技能的同时创造多样视角交汇的环境(p.249)。
 
 > NRC 合作中心说明了共同选址的一个微妙功能：它不仅仅是地理上的在一起，更是创造了一个**中立空间**——来自不同组织背景（大学、政府研究机构、企业）的人在日常互动中自然产生思想交叉，而这种交叉在正式的会议场景中很难发生。
 
@@ -289,7 +290,7 @@ citation_aliases:
 > [!success]
 > 1. **政府配资项目构成最直接的硬性激励**。NSERC Alliance Advantage and Mitacs Accelerate 的 1:1 配资要求通过项目叠加可产生最高 3:1 的杠杆效应。过去五年滑铁卢大学一个学院的产业及产业杠杆经费占总经费的 34%，其中 NSERC 资助中 41% 来自产业配资项目。这一比例本身就是对不参与合作的系统性惩罚(p.243)。
 > 2. **行政支持的核心功能是消除信息不对称**。教师对[[University-Industry Collaboration\|产学合作]]的顾虑（知识产权、发表自由、合同复杂性）在实证研究中未被发现与实际合作能力之间存在关联(Sjöo & Hellström, 2019)。研究办公室的合同团队和早期职业研究者工作坊的实质作用是让教师在有充分信息和制度后盾的前提下做出判断(pp.247–248)。
-> 3. **共同选址缩短了从认知距离到信任的距离**。多伦多-滑铁卢走廊的 15,000 家科技公司和短途 commute 条件使定期面对面互动成为可能；NRC 合作中心和 [[Schlegel-UW Research Institute for Aging\|RIA]] 的实践表明，当研究者和终端用户在同一物理空间中日常共处时，反馈循环从以月计缩短为以走廊计(pp.248–249, 253–254)。
+> 3. **共同选址缩短了从认知距离到信任的距离**。多伦多-滑铁卢走廊的 15,000 家科技公司和短途 commute 条件使定期面对面互动成为可能；[[National Research Council|NRC]] 合作中心和 [[Schlegel-UW Research Institute for Aging\|RIA]] 的实践表明，当研究者和终端用户在同一物理空间中日常共处时，反馈循环从以月计缩短为以走廊计(pp.248–249, 253–254)。
 > 4. **[[Research Security\|研究安全]]不应被回避，而应转化为制度性的风险管理服务**。滑铁卢大学保障研究团队的原则——在透明性、可预测性、[[Academic Freedom\|学术自由]]和开放科学之间寻求平衡——将安全从阻碍合作的壁垒转变为促进信任的机制(pp.249–250)。
 > 5. **研究评估制度使产学合作在教师的理性计算中成为不计入成绩的课外活动**。终身教职评审中，专利、[[Technology Transfer\|技术转移]]和产学合作的[[Research Impact\|社会经济影响]]几乎没有权重。[[Declaration on Research Assessment\|DORA]] 倡导的全面评估视角——关注影响力而非[[Document\|文献]]计量指标——是使合作从负资产变为正资产的制度前提(pp.250–251)。
 > 6. **RIA 案例证明多重机制的协同运作产生了超过各部分之和的整体效应**。Schlegel 家族的 5000 万加元投入通过资金杠杆撬动了额外资源，共同选址创造了即时反馈循环，嵌入式[[Knowledge Mobilisation\|知识动员]]网络（功能性体适能评估方案中的脑血管生物标志物检测）实现了从实验室到临床的即时转化，跨院系参与通过同伴示范降低了其他教师的合作门槛(pp.251–254)。

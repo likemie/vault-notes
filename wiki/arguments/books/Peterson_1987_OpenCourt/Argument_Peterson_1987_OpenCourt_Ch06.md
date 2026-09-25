@@ -44,6 +44,7 @@ related_concepts:
   - "[[Creativity, Action, Service]]"
   - "[[Reliability]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Policy Window]]"
   - "[[Heterogeneity]]"
   - "[[Preregistration]]"
   - "[[Creativity]]"
@@ -477,7 +478,7 @@ updated: 2026-09-16
 > | **政府** | 加拿大外交部门 | 每年 5,000 加元 | 支持加拿大活动；向各省教育部长理事会寻求补充资助未成功，只有艾伯塔省单独出资。 |
 > | **半官方组织** | International Schools Services | 早期合计超过 17,000 美元 | 支持服务美国海外学校的项目。 |
 > | **基金会** | Andrew W. Mellon Foundation | 启动期累计 330,000 美元 | Hegeler Institute 初始资助后的首个主要支持者，由哈波·汉森协商取得，也是三大基金会中贡献最多者。 |
-> | **基金会** | Exxon Education Foundation | 1978 年先承诺三年 50,000 美元，启动期累计 100,000 美元 | 尼科尔上任首年，Exxon 恰好短期试探中等教育资助；既有联系使 IBNA 能抓住政策窗口。 |
+> | **基金会** | Exxon Education Foundation | 1978 年先承诺三年 50,000 美元，启动期累计 100,000 美元 | 尼科尔上任首年，Exxon 恰好短期试探中等教育资助；既有联系使 IBNA 能抓住[[Policy Window\|政策窗口]]。 |
 > | **基金会** | Geraldine R. Dodge Foundation | 1978 年首笔 25,000 美元，启动期累计 85,000 美元 | 同样由尼科尔既有关系推动，并成为该基金会的首次相关资助。 |
 > | **专项基金会** | Alfred P. Sloan Foundation | 原文未列金额 | 支持科学课程发展等专项；不属于 IBNA 希望摆脱的一般运营资助。 |
 > | **企业及企业基金会** | Anderson and Company Foundation、Dresdner Bank、New York Times Foundation、Western Electric | 多为连续若干年每年约 1,000 美元的小额捐助 | 在三大基金会之外分散补充启动资金。 |

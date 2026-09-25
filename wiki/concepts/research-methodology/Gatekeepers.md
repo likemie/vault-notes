@@ -54,6 +54,7 @@ related_concepts:
   - "[[Interactional Expertise]]"
   - "[[Policy Entrepreneur]]"
   - "[[Heterogeneity]]"
+  - "[[Policy Window]]"
   - "[[Operationalization]]"
   - "[[Research Utilization]]"
   - "[[Technical Rationality]]"
@@ -400,7 +401,7 @@ Bogdan & Biklen（1992）提出了把关人在审查研究方案时核心关切�
 > 探讨政策生命周期中不同权力节点的制度把关人如何迫使科学证据从宏观象征符号向微观技术工具发生功能质变。
 
 > [!claim] [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]]
-> **政策生命周期把关人驱动证据权变假说** 麦克唐奈与韦瑟福德剖析了全美[[Common Core State Standards|共同核心州立标准]]（CCSS）跨越三阶段的推进历程，指出政策能否成功破局取决于能否有效回应不同阶段制度把关人（Institutional Gatekeepers）的[[Heterogeneity|异质性]]博弈诉求。在议程设置阶段，面对守卫现状的政策垄断把关人，政策企业家必须动员具有震撼力的宏观指标（[[National Assessment of Educational Progress|NAEP]]/TIMSS）与两党核心价值话语撬开政策之窗；在方案设计阶段，面对手握技术与教学否决权的专家及教师工会把关人，证据形态从宏观符号收敛为学科逻辑演绎与物理实操审读（AFT/NEA）；在法定采纳阶段，面对警惕联邦集权与地方主权受损的州立表决把关人，宏观学术[[Document|文献]]完全隐退，高度[[Operationalization|操作化]]的州级逐条比对（Crosswalks）成为决定政策能否落地的决定性证据。这表明[[Research Utilization|证据使用]]并非单向[[Technical Rationality|技术理性]]过程，而是受制度把关人的权力结构与政治任务深度塑造的权变互动。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–6, 18–19)]]
+> **政策生命周期把关人驱动证据权变假说** 麦克唐奈与韦瑟福德剖析了全美[[Common Core State Standards|共同核心州立标准]]（CCSS）跨越三阶段的推进历程，指出政策能否成功破局取决于能否有效回应不同阶段制度把关人（Institutional Gatekeepers）的[[Heterogeneity|异质性]]博弈诉求。在议程设置阶段，面对守卫现状的政策垄断把关人，政策企业家必须动员具有震撼力的宏观指标（[[National Assessment of Educational Progress|NAEP]]/TIMSS）与两党核心价值话语撬开[[Policy Window|政策之窗]]；在方案设计阶段，面对手握技术与教学否决权的专家及教师工会把关人，证据形态从宏观符号收敛为学科逻辑演绎与物理实操审读（AFT/NEA）；在法定采纳阶段，面对警惕联邦集权与地方主权受损的州立表决把关人，宏观学术[[Document|文献]]完全隐退，高度[[Operationalization|操作化]]的州级逐条比对（Crosswalks）成为决定政策能否落地的决定性证据。这表明[[Research Utilization|证据使用]]并非单向[[Technical Rationality|技术理性]]过程，而是受制度把关人的权力结构与政治任务深度塑造的权变互动。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–6, 18–19)]]
 
 ---
 

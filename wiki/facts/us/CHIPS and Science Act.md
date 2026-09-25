@@ -35,6 +35,7 @@ related_concepts:
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Semiconductor Research Corporation]]"
+  - "[[Brookings Institution]]"
   - "[[Universal Parallel Computing Research Centers]]"
 related_arguments:
   - "[[Argument_Byrne_2025_InnovationCenters]]"
@@ -86,7 +87,7 @@ updated: 2026-09-22
 ## 实施特点
 
 > [!example]
-> 根据布鲁金斯学会（Brookings Institution）的分析，联邦新增创新支出的很大比例将指向基础设施和产业基础较弱、历史上联邦研发资金份额较低的地区。这意味着新一批 [[Innovation Hub\|创新中心]] 将面临与硅谷或波士顿截然不同的挑战（p.137）。
+> 根据[[Brookings Institution|布鲁金斯学会]]（Brookings Institution）的分析，联邦新增创新支出的很大比例将指向基础设施和产业基础较弱、历史上联邦研发资金份额较低的地区。这意味着新一批 [[Innovation Hub\|创新中心]] 将面临与硅谷或波士顿截然不同的挑战（p.137）。
 
 [[National Science Foundation|NSF TIP]] 在授予 10 个十年期大型资助之前，已先向全国各地的团队授予了 44 项能力建设资助（p.134）。这一"先小后大"的模式与 Tech Hubs 计划的 12 个能力建设资助点形成了双层资助结构。
 

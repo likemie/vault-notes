@@ -45,6 +45,7 @@ related_persons:
   - "[[Ken Goodman]]"
 related_facts:
   - "[[Reading Excellence Act]]"
+  - "[[National Research Council]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Every Student Succeeds Act]]"
   - "[[International Reading Association]]"
@@ -80,7 +81,7 @@ updated: 2026-09-24
 > [!dev-timeline] 组织发展历程
 > - **1911–1930s — 创设与进步主义语文教育奠基** 确立反抗僵化外部规约的办会传统，创办旗舰学术期刊《英语杂志》（*English Journal*）与《小学英语》（*Language Arts*），积极吸纳[[John Dewey|约翰·杜威]]（John Dewey）[[Progressive Education|进步主义教育]]哲学。
 > - **1960s–1980s — 读写过程运动与[[Constructivist Paradigm|建构主义]]繁荣** 成立大学写作与交流大会（CCCC），大力支持读写作为社会文化实践的研究，成为[[Whole Language|全语言]]运动（[[Whole Language]]）与儿童文学情境教学的最坚实支持阵地。
-> - **1997–1998 — 领衔反抗《[[Reading Excellence Act|卓越阅读法案]]》的[[Pluralism|多元主义]]抗争** 面对国会试图将阅读定义法定窄化为机械拼读[[Decodification|解码]]，NCTE 联合国家研究委员会（NRC）质性学者与语言读写研究全国会议（NCRLL），代表逾 100,000 名教育工作者起草联合抗议声明，并发动全美基层教师向国会议员寄送信件请愿，成为该时期草根多元主义参政的代表性典范。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 6)]]
+> - **1997–1998 — 领衔反抗《[[Reading Excellence Act|卓越阅读法案]]》的[[Pluralism|多元主义]]抗争** 面对国会试图将阅读定义法定窄化为机械拼读[[Decodification|解码]]，NCTE 联合[[National Research Council|国家研究委员会]]（NRC）质性学者与语言读写研究全国会议（NCRLL），代表逾 100,000 名教育工作者起草联合抗议声明，并发动全美基层教师向国会议员寄送信件请愿，成为该时期草根多元主义参政的代表性典范。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 6)]]
 > - **2001–至今 — 抵制高利害标准化测试与当代倡导** 在 [[No Child Left Behind Act 2001|NCLB]] 与 [[Every Student Succeeds Act|ESSA]] 时代，持续发布关于反思过度标准化考试、捍卫多元文化儿童读物与反思[[Generative Artificial Intelligence|生成式人工智能]]写作伦理的国家指导意见。
 
 ---
@@ -106,7 +107,7 @@ updated: 2026-09-24
 >   - 《语言艺术》（*Language Arts*）——面向小学早期读写教学的旗舰期刊。
 >   - 《英语杂志》（*English Journal*）——面向中学英语教师的经典期刊。
 >   - 《大学写作与交流》（*College Composition and Communication, CCC*）。
-> - **抵制联邦规制标志性联合声明（1997）** 联合 NRC 与 NCRLL 代表逾 10 万名教育工作者向国会发表的严正声明，提出了著名的“三个绝不”原则。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 6)]]
+> - **抵制联邦规制标志性联合声明（1997）** 联合 [[National Research Council|NRC]] 与 NCRLL 代表逾 10 万名教育工作者向国会发表的严正声明，提出了著名的“三个绝不”原则。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 6)]]
 > - **反审查与知识自由倡导** 设立知识自由常设基金，常年为遭受政治审查与禁书困扰的公立学校教师提供法律与专业支持。
 
 > [!citation-card] NCTE 联合声明：对联邦强行规制阅读教学的坚决抵制（NCTE, 1997）

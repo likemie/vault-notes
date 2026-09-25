@@ -63,6 +63,7 @@ related_facts:
   - "[[Investing in Innovation Program]]"
   - "[[Education Innovation and Research]]"
   - "[[National Institute of Child Health and Human Development]]"
+  - "[[National Research Council]]"
   - "[[National Reading Panel]]"
   - "[[International Reading Association]]"
   - "[[Foundations for Evidence-Based Policymaking Act of 2018]]"
@@ -202,7 +203,7 @@ updated: 2026-09-24
 > 探讨法定科学证据标准如何超越纯技术属性，成为行政官僚、立法领导与商业出版集团结成次政府铁三角、排斥异质学术[[Paradigm|范式]]并进行利益再生产的制度化工具。
 
 > [!claim] [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]]
-> **次政府政商学同盟对科学标准的排他性建构** 杰奎琳·埃德蒙森（Jacqueline Edmondson, 2005）深入考察 1998 年《[[Reading Excellence Act|卓越阅读法案]]》与后续 NCLB 的立法机制指出，法定“科学本位研究”并非中立的科学演进结果，而是由国家行政官僚（[[National Institute of Child Health and Human Development|NICHD]] [[G. Reid Lyon|里德·里昂]]）、国会专委会核心领导（比尔·古德林）与商业出版财团（麦格劳-希尔等）结成的次政府利益同盟共同建构的产物。该同盟通过官方挑选的同质化专家委员会（NRC 与 [[National Reading Panel|NRP]]）制造排他性的官方共识，将特定实证干预范式上升为法律规范，系统性排斥质性、行动与社会文化研究，并在法案资助中实现定向商业利益输送（Strauss, 2001; Metcalf, 2002）。因此，科学证据标准从根本上是负载权威价值观与政商利益的社会建构。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–11)]]
+> **次政府政商学同盟对科学标准的排他性建构** 杰奎琳·埃德蒙森（Jacqueline Edmondson, 2005）深入考察 1998 年《[[Reading Excellence Act|卓越阅读法案]]》与后续 NCLB 的立法机制指出，法定“科学本位研究”并非中立的科学演进结果，而是由国家行政官僚（[[National Institute of Child Health and Human Development|NICHD]] [[G. Reid Lyon|里德·里昂]]）、国会专委会核心领导（比尔·古德林）与商业出版财团（麦格劳-希尔等）结成的次政府利益同盟共同建构的产物。该同盟通过官方挑选的同质化专家委员会（[[National Research Council|NRC]] 与 [[National Reading Panel|NRP]]）制造排他性的官方共识，将特定实证干预范式上升为法律规范，系统性排斥质性、行动与社会文化研究，并在法案资助中实现定向商业利益输送（Strauss, 2001; Metcalf, 2002）。因此，科学证据标准从根本上是负载权威价值观与政商利益的社会建构。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–11)]]
 
 ---
 

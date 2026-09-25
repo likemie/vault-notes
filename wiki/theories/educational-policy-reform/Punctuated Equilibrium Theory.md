@@ -24,11 +24,13 @@ tags:
   - theme/educational-reform
 related_concepts:
   - "[[Policy Entrepreneur]]"
+  - "[[Venue Shopping]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Research Question]]"
   - "[[Policy Mobility]]"
   - "[[Ontology]]"
   - "[[Determinism]]"
+  - "[[Policy Window]]"
   - "[[Theories of Policy Change]]"
   - "[[Document]]"
 related_theories:
@@ -70,7 +72,7 @@ updated: 2026-09-26
 > - **知识位置** 政治学政策过程理论（Policy Process Theories）三大经典支柱之一（与多流模型、倡导联盟框架并列），融合了[[Bounded Rationality|有限理性]]、注意力分配与[[Complexity Theory|复杂适应系统]]视角。
 
 > [!claim] 核心判断
-> 政治体制的制度设计天然偏向维持现状，形成了由特定利益集团把守的“政策垄断”（Policy Monopoly）；但当外部环境变化诱发宏观注意力聚焦时，[[Policy Entrepreneur|政策企业家]]通过重塑“政策形象”（Policy Image）瓦解垄断合法性，并积极开辟新的“制度场所”（Venue Shopping），原本封闭的子系统将被迅速击穿，推动政策系统由渐进稳态进入间断剧变期。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5)]]
+> 政治体制的制度设计天然偏向维持现状，形成了由特定利益集团把守的“政策垄断”（Policy Monopoly）；但当外部环境变化诱发宏观注意力聚焦时，[[Policy Entrepreneur|政策企业家]]通过重塑“政策形象”（Policy Image）瓦解垄断合法性，并积极开辟新的“制度场所”（[[Venue Shopping]]），原本封闭的子系统将被迅速击穿，推动政策系统由渐进稳态进入间断剧变期。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5)]]
 
 ---
 
@@ -117,7 +119,7 @@ updated: 2026-09-26
 >
 > **应用实例** 在 [[Common Core State Standards|CCSS]] 议程设置中，政策企业家动员美国国家教育统计中心（NCES, 2007）实证映射研究，揭露各州为应付统考考核竞相调低及格切分点（Race to the bottom）的丑闻，并援引 [[TIMSS]] 跨国数据批判美国课程“宽一英里、深一英寸”，成功将“各州地方自主”的正向形象摧毁并重塑为“削弱全美[[Knowledge-Based Economy|知识经济]]国际竞争力与拉大社会阶层不平等”的危机叙事。
 
-> [!theory-proposition] 命题三｜制度场所转换能够突破既有政策子系统的否决壁垒实现间断突变
+> [!theory-proposition] 命题三｜[[Venue Shopping|制度场所转换]]能够突破既有政策子系统的否决壁垒实现间断突变
 > **解释** 当既有决策场所由保守势力把持且充斥否决点时，政策企业家会主动开展场所转换（Venue Shopping），在传统管辖边界之外开辟具有替代性裁决权的新制度通道。新场所往往带来不同的参与规则、利益相关者构成与选民压力，从而绕过垄断联盟的阻挠，在极短时间内推动系统性政策突变。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 5–6, 8–9, 16–18)]]
 >
 > **应用实例** 面对联邦国会立法场所的政治死局，CCSS 倡导者将行动阵地战略性地转移至[[National Governors Association|全国州长协会]]（NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（CCSSO）构成的横向州际自愿联盟这一全新场所；随后更借助联邦教育部[[Race to the Top|力争上游]]（RTTT）43.5 亿美元竞争性资助杠杆，迫使各州教育委员会在数月内打破分散垄断，促成 45 个州的历史性跨越。
@@ -130,7 +132,7 @@ updated: 2026-09-26
 > - **[[Research Question|研究问题]]** 解释某项重大教育制度改革为何能打破长期体制僵局，或为何长期呼吁改革却始终深陷惰性稳态。
 > - **分析对象与单位** 政策议程变迁史、国家或区域教育法律与标准修订过程中的文本、听证记录与精英博弈网络。
 > - **需要的材料** 官方听证会记录、政策评估报告、新闻报道情感与框架分析、关键决策者访谈、立法表决档案。
-> - **解释目标** 厘清政策垄断的结构性基础，追踪实证指标与政策形象演变轨迹，判定场所转换策略对最终政策突破的因果贡献。
+> - **解释目标** 厘清政策垄断的结构性基础，追踪实证指标与政策形象演变轨迹，判定[[Venue Shopping|场所转换]]策略对最终政策突破的因果贡献。
 
 > [!theory-framework] 命题如何转化为分析维度
 >
@@ -166,7 +168,7 @@ updated: 2026-09-26
 > > 争论政策垄断的打破究竟归因于企业家的巧妙策略，还是宏观经济政治危机的外生决定。
 > >
 > > - **结构[[Determinism|决定论]]** 认为 2008 年金融大衰退与奥巴马政府执政等外生大环境才是打破垄断的唯一决定性因素。
-> > - **行动者网络视角** 强调若无政策企业家前期长达数年的指标准备、话语建构与场所铺垫，外部政策窗口根本无法转化为实际制度突破。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–10)]]
+> > - **行动者网络视角** 强调若无政策企业家前期长达数年的指标准备、话语建构与场所铺垫，外部[[Policy Window|政策窗口]]根本无法转化为实际制度突破。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–10)]]
 
 ---
 
@@ -176,9 +178,9 @@ updated: 2026-09-26
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Multiple Streams Framework]] | Theory | 另一经典政策过程理论，与间断均衡理论在政策窗口、问题流与政治流动态上形成深度互补。 |
+> | [[Multiple Streams Framework]] | Theory | 另一经典政策过程理论，与间断均衡理论在[[Policy Window\|政策窗口]]、问题流与政治流动态上形成深度互补。 |
 > | [[Six-Stage Model of Policymaking]] | Theory | 提供政策生命周期的阶段分析标尺，间断均衡理论侧重解释议程设置与政策采纳阶段的突变动力学。 |
-> | [[Policy Entrepreneur]] | Concept | 间断均衡理论中负责重构政策形象、捕捉注意力与开展制度场所转换的核心行动主体。 |
+> | [[Policy Entrepreneur]] | Concept | 间断均衡理论中负责重构政策形象、捕捉注意力与开展[[Venue Shopping\|制度场所转换]]的核心行动主体。 |
 > | [[Theories of Policy Change]] | Concept | 间断均衡理论所属的宏观政策变迁理论家族。 |
 > | [[Common Core State Standards]] | Fact (Policy) | 间断均衡理论在当代教育研究中最为经典的实证案例之一，展现各州标准垄断的破局过程。 |
 > | [[Race to the Top]] | Fact (Program) | 政策倡导者开展场所转换与动员外生财政杠杆、将采纳进程急剧压缩为间断突变的核心国家工程。 |

@@ -60,6 +60,7 @@ related_persons:
   - "[[Tina Seidel]]"
 related_facts:
   - "[[American Educational Research Association]]"
+  - "[[National Research Council]]"
   - "[[Institute of Education Sciences]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Clearing House Unterricht]]"
@@ -106,7 +107,7 @@ updated: 2026-09-22
 > [!work-line] 主要著作
 > - **1976 — *Self-Concept: Validation of [[Construct]] Interpretations* (with J. J. Hubner & G. C. Stanton)** 提出著名的多层级、分领域自我概念理论模型（Shavelson Model），确立顶层总体自我概念与底层学科具体自我概念的结构分化，成为当代人格与自我概念研究的经典[[Paradigm\|范式]]。
 > - **1991 — *[[External Validity\|generalizability]] Theory: A Primer* (with N. M. Webb)** 系统总结概化理论的核心数学与测量框架，运用[[Analysis of Variance\|方差分析]]（ANOVA）技术将[[Classical Test Theory\|经典测验理论]]单一的“真实分数+误差”模型解构为多重测量变异来源的精细识别。
-> - **2002 — *Scientific Research in Education* (with L. Towne, Eds.)** 主持美国国家科学院（NRC）委员会起纲，明确界定实证教育科学研究的六项核心规范原则，成为美国[[Institute of Education Sciences\|教育科学研究院]]（IES）与[[Evidence-Based Education\|循证教育]]政策立法的权威学术准则。
+> - **2002 — *Scientific Research in Education* (with L. Towne, Eds.)** 主持美国国家科学院（[[National Research Council|NRC]]）委员会起纲，明确界定实证教育科学研究的六项核心规范原则，成为美国[[Institute of Education Sciences\|教育科学研究院]]（IES）与[[Evidence-Based Education\|循证教育]]政策立法的权威学术准则。
 > - **2007 — *Teaching Effectiveness Research in the Past Decade: The Role of Theory and Research Design in Disentangling [[Meta-analysis]] Results* (with T. Seidel)** 在 *Review of Educational Research* 发表元分析长篇综述，批判传统盲目叠加[[Effect Size\|效应量]]而缺乏理论支持的缺陷，建构教学有效性的成分中介模型。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
 > - **2010 — *Measuring College Learning Fully: Toward a New System for Assessing College Education*** 系统论证高等教育质量评估无法依赖传统标准化[[Multiple-Choice Questions\|多项选择题]]，必须依托情境化[[Authentic Assessment\|表现性评价]]工具（如 [[Collegiate Learning Assessment\|CLA]]）考查高阶分析、因果推理与有效沟通能力。
 > - **2020 — *Research on teaching and the education of teachers: Brokering the gap*** 深刻剖析学术界“理论建构与知识演进”生产逻辑与一线学校“微观行动与情境抉择”实践逻辑之间的深层断裂，论证引入第三方教育[[Knowledge Mediation\|知识中介]]（Knowledge Brokerage）的历史必然性与机制路径。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 13)]]
@@ -130,7 +131,7 @@ updated: 2026-09-22
 > [!influence-path] 影响路径
 > - **理论路径** 沙维尔森自我概念层级模型被广泛引用于发展心理学、教育心理学与学业动机研究；其关于教育研究理论逻辑与实践逻辑差异的论断，成为国际[[Knowledge Transfer\|知识转移]]与教育中介理论的基石。
 > - **方法路径** 与李·克隆巴赫共同奠定的概化理论（G-Theory），成为心理测量学中超越[[Classical Test Theory\|经典测验理论]]（CTT）处理复杂评定者[[Reliability\|信度]]、题本[[Sampling Error\|抽样误差]]的标准分析工具；推动了[[Authentic Assessment\|表现性评价]]与情境测验的严格计量规范。
-> - **政策路径** 主持编撰美国国家研究委员会（NRC）《教育中的科学研究》（2002），直接为美国 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）与联邦[[Institute of Education Sciences\|教育科学研究院]]（IES）的因果[[Evidence Standards\|证据标准]]提供了权威界定。
+> - **政策路径** 主持编撰美国[[National Research Council|国家研究委员会]]（NRC）《教育中的科学研究》（2002），直接为美国 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）与联邦[[Institute of Education Sciences\|教育科学研究院]]（IES）的因果[[Evidence Standards\|证据标准]]提供了权威界定。
 > - **跨国与跨领域传播** 长期与欧洲顶尖学者协同，直接启发并指导了德国慕尼黑工业大学团队创建教学研究清算中心（[[Clearing House Unterricht\|CHU]]），使[[Knowledge Mediation\|知识中介]]理论在欧陆[[Normal School\|师范教育]]体系中实现[[Going Native\|本土化]]制度沉淀。
 
 ---

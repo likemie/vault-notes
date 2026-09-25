@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Policymaking Chronosystem]]"
   - "[[Policy Brokerage]]"
+  - "[[Policy Window]]"
   - "[[Paradigm]]"
   - "[[APA Style]]"
   - "[[Policy Mobility]]"
@@ -97,7 +98,7 @@ updated: 2026-09-18
 ## 成效评估与实证发现
 
 > [!finding-cards] 关键成效与示范价值
-> - **打通突发政策窗口的敏捷通道** 成功证明学术社群能够在不牺牲科学底线的前提下，适应政治世界的极速节律，实现了学术知识库对国家突发立法的即时供给。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 47)]]
+> - **打通突发[[Policy Window|政策窗口]]的敏捷通道** 成功证明学术社群能够在不牺牲科学底线的前提下，适应政治世界的极速节律，实现了学术知识库对国家突发立法的即时供给。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 47)]]
 > - **提升学术组织的公共能见度与话语权** 改变了传统专业学会仅在年度例会发表学术见解的被动状态，使学术学会转型为积极介入公共政策辩论的知识行动者。
 > - **为其他学科组织提供机制[[Paradigm\|范式]]** 启发了包括 [[American Educational Research Association\|AERA]]、[[APA Style\|APA]] 在内的诸多社会科学组织建立快速科学传播与政策突击工作组。
 

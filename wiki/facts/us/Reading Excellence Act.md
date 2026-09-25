@@ -43,6 +43,7 @@ related_facts:
   - "[[National Council of Teachers of English]]"
   - "[[International Reading Association]]"
   - "[[Open Court Reading]]"
+  - "[[National Research Council]]"
   - "[[National Reading Panel]]"
 related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
@@ -139,7 +140,7 @@ updated: 2026-09-26
 >
 > | 维度 | 支持联盟 | 反对联盟 |
 > |:---|:---|:---|
-> | 核心行动者 | 国会教育委员会、NICHD、麦格劳-希尔、《开放法院阅读》、全美阅读权利基金会 | 全美英语教师委员会（NCTE）、NRC 质性学者、全美逾十万名抗议教师、地方自治学区 |
+> | 核心行动者 | 国会教育委员会、NICHD、麦格劳-希尔、《开放法院阅读》、全美阅读权利基金会 | 全美英语教师委员会（NCTE）、[[National Research Council\|NRC]] 质性学者、全美逾十万名抗议教师、地方自治学区 |
 > | 资源基础 | 立法裁决权、联邦财政拨款、商业出版网络、主流媒体危机公关 | 专业教学经验、基层联名抗议、多元学术范式研究成果、地方宪法管辖权 |
 > | 利益框架 | 将阅读界定为拼读[[Decodification\|解码]]，推行实验医学研究标准，确保国家经济安全与出版商业利益 | 捍卫教师专业自主权，主张阅读涵盖意义理解与动机，维护学术范式多元与教育民主 |
 > | 主要策略 | 听证会权威证词输入、口头快速表决强推法案、闭门立法交易 | 跨组织联合抗议声明、动员基层联名信请愿、公开学术质询、学区拒领拨款 |

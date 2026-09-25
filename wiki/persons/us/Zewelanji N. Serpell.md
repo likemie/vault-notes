@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Policymaking Chronosystem]]"
   - "[[Research Impact]]"
+  - "[[Policy Window]]"
   - "[[Policy Brokerage]]"
 related_theories:
   - "[[Navigational Framework for Educational Researchers]]"
@@ -55,7 +56,7 @@ updated: 2026-09-18
 > - **代表贡献** 创立指导学术研究介入宏观立法的[[Navigational Framework for Educational Researchers\|教育研究者政策导航框架]]；开创性提出解释政治立法极速响应生态的[[Policymaking Chronosystem\|政策制定时间系统]]视角。
 
 > [!citation-card] 局内反思与行动倡导
-> 在作为国会研究员在众议院教育与劳动力委员会服务一年后，笔者深切体会到教育研究界与政策制定界之间的巨大鸿沟。然而，这一鸿沟的根源早已被揭示，其核心在于转化困境。教育研究者若仅仅沉湎于内部金标准而脱离立法实务，其[[Research Impact\|研究影响力]]将大打折扣。研究者必须深刻理解政策世界的时间节律、中介协同与沟通技巧，在政策窗口开启时积极主动发声。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 40–42)]]
+> 在作为国会研究员在众议院教育与劳动力委员会服务一年后，笔者深切体会到教育研究界与政策制定界之间的巨大鸿沟。然而，这一鸿沟的根源早已被揭示，其核心在于转化困境。教育研究者若仅仅沉湎于内部金标准而脱离立法实务，其[[Research Impact\|研究影响力]]将大打折扣。研究者必须深刻理解政策世界的时间节律、中介协同与沟通技巧，在[[Policy Window|政策窗口]]开启时积极主动发声。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 40–42)]]
 >
 > *There is enormous potential for policy decisions to be better informed by evidence, but the research-to-policy divide in American education is a vast chasm. This was the impression I had as an academic doing school-based research... and this was what I came to know again, after a year of working in the political sphere as a congressional fellow.*
 

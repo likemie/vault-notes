@@ -59,6 +59,7 @@ related_persons:
 related_facts:
   - "[[National Institute of Child Health and Human Development]]"
   - "[[Reading Excellence Act]]"
+  - "[[National Research Council]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Open Court Reading]]"
   - "[[House Committee on Education and the Workforce]]"
@@ -91,7 +92,7 @@ updated: 2026-09-24
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1997–1998 — 筹建与专家选拔期** 美国国会通过拨款法案指令成立 NRP。美国国家科学院（NAS）与国家研究委员会（NRC）高级官员亚历山德拉·威格多（Alexandra Wigdor）与 [[National Institute of Child Health and Human Development|NICHD]] 负责人[[G. Reid Lyon|里德·里昂]]（G. Reid Lyon）主导遴选规则，确立“以专业知识为唯一标准、将政治意识形态关在门外”的专家准入原则，最终组建由马里兰大学校长唐纳德·兰根伯格（Donald N. Langenberg）为主席的 14 人专家委员会。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 9–10)]]
+> - **1997–1998 — 筹建与专家选拔期** 美国国会通过拨款法案指令成立 NRP。美国国家科学院（NAS）与[[National Research Council|国家研究委员会]]（NRC）高级官员亚历山德拉·威格多（Alexandra Wigdor）与 [[National Institute of Child Health and Human Development|NICHD]] 负责人[[G. Reid Lyon|里德·里昂]]（G. Reid Lyon）主导遴选规则，确立“以专业知识为唯一标准、将政治意识形态关在门外”的专家准入原则，最终组建由马里兰大学校长唐纳德·兰根伯格（Donald N. Langenberg）为主席的 14 人专家委员会。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 9–10)]]
 > - **1998–2000 — 循证审查与里程碑报告发布** 委员会召开多次全国公开听证会，设立语音意识、拼读、流畅性、词汇、理解及计算机辅[[Teaching Assistant|助教]]学等亚专业小组。2000 年 4 月，委员会向国会正式提交旗舰报告《教儿童阅读：阅读科学[[Document|文献]]的循证评估及其对教学的启示》（*Teaching Children to Read*），确立了著名的“五大阅读支柱”（Big Five）。委员会任务完成后于 2000 年底正式解散。
 > - **2001–至今 — 制度化遗产与政治化发酵** NRP 报告的审查标准与核心结论被小布什政府几乎原封不动写入 2001 年《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB），直接催生了年均预算达 10 亿美元的“阅读优先”（Reading First）联邦专项拨款，成为塑造 21 世纪美国识字教育政策的最核心制度遗产。
 

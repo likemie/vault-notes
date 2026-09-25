@@ -9,7 +9,7 @@ aliases:
 summary: "指高中毕业生进入无须补习的高等学科学分课程或具备发展前景的高技能职业培训所需具备的综合核心素养；它颠覆了传统普通高中学术升学与职业就业的双轨二元割裂，被共同核心州立标准（CCSS）确立为十二年一贯制逆向推导与标准设计的顶层锚点。"
 type: concept
 domain: "curriculum"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

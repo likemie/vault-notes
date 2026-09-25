@@ -44,6 +44,7 @@ related_facts:
   - "[[Purdue Discovery Park]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Science Foundation]]"
+  - "[[Brookings Institution]]"
   - "[[University City Science Center]]"
   - "[[Advanced Manufacturing Research Centre]]"
 related_arguments:
@@ -210,7 +211,7 @@ updated: 2026-09-22
 > - **学术纯洁性文化** 大学如果缺乏[[Technology Transfer\|技术转移]]经验，可能对产业伙伴持怀疑态度。"学术纯洁性"（academic purity）的传统至今仍会在部分院校存留，限制了全校范围的产学协作([[Argument_Byrne_2025_InnovationCenters\|Byrne & Clements, 2025, pp.127–128]])
 > - **协调与一致性问题** 如果创业中心和更广泛的[[Innovation Park\|研究园区]]之间协调有限——如物理距离过远，或活动设计未有效鼓励互动——合作就会因空间和制度隔阂而自然减少（p.128）
 > - **长期投入的要求** 创新中心建设需要长期投资心态，几乎不会有快速见效的方案。最新一代学生和早期职业工作者的优先事项不断变化，需要在[[University-Industry Collaboration\|产学合作]]中创造一致的激励（p.128）
-> - **联邦资金的区域分布不均** 根据布鲁金斯学会的分析，联邦新增创新支出的很大比例将指向基础设施和产业基础较弱的地区。新一批创新中心将面临与硅谷或波士顿截然不同的挑战，包括市场波动、立法障碍和技术商业可行性的下降（pp.137–138）
+> - **联邦资金的区域分布不均** 根据[[Brookings Institution|布鲁金斯学会]]的分析，联邦新增创新支出的很大比例将指向基础设施和产业基础较弱的地区。新一批创新中心将面临与硅谷或波士顿截然不同的挑战，包括市场波动、立法障碍和技术商业可行性的下降（pp.137–138）
 > - **"复制粘贴"的风险** 区域合作不能从外部"进口"。试图从区域外部捕捉趋势或依赖单一外部伙伴来"照搬"创新中心，大概率会失败（p.131）
 
 ---

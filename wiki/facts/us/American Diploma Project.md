@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_persons: []
 related_facts:
   - "[[Achieve]]"
   - "[[The Education Trust]]"
+  - "[[Thomas B. Fordham Institute]]"
   - "[[Common Core State Standards]]"
   - "[[Bill & Melinda Gates Foundation]]"
   - "[[National Governors Association]]"
@@ -54,7 +55,7 @@ updated: 2026-09-26
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 美国文凭项目（American Diploma Project, ADP）是由独立教育智库[[Achieve|阿奇夫]]（Achieve）联合[[The Education Trust|教育信托]]（The Education Trust）及托马斯·B·福特汉姆基金会于 2004 年共同发起的一项全美跨州公立高中学术标准对标计划。该项目首创了以终点真实能力需求倒推中小学大纲的[[Paradigm|范式]]，吸引了涵盖全美 85% 公立高中生的 35 个州自愿加盟；它不仅成功证明了各州在自愿协商下制定统一学术基准的技术可行性，更成为后续[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）最核心的制度与方法论母体。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]
+> 美国文凭项目（American Diploma Project, ADP）是由独立教育智库[[Achieve|阿奇夫]]（Achieve）联合[[The Education Trust|教育信托]]（The Education Trust）及托马斯·B·[[Thomas B. Fordham Institute|福特汉姆基金会]]于 2004 年共同发起的一项全美跨州公立高中学术标准对标计划。该项目首创了以终点真实能力需求倒推中小学大纲的[[Paradigm|范式]]，吸引了涵盖全美 85% 公立高中生的 35 个州自愿加盟；它不仅成功证明了各州在自愿协商下制定统一学术基准的技术可行性，更成为后续[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）最核心的制度与方法论母体。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2004 年正式启动，历经 6 年深化推进，于 2010 年 CCSS 国家标准正式发布后完成历史使命并平稳并轨。
@@ -75,7 +76,7 @@ updated: 2026-09-26
 > - **跨州通用结业统考（End-of-Course Exams）** 组织 15 个州跨越州界壁垒，联合命题并实施代数二（Algebra II）通用结业统测，首次实现多州共享高质量试题库与评分量表。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 9)]]
 
 > [!citation-card] 美国文凭项目对通用标准的开拓意义
-> 2004 年，[[Achieve|阿奇夫组织]]（Achieve）与[[The Education Trust|教育信托]]、福特汉姆基金会等机构发起成立了美国文凭项目网络，这一网络随后迅速扩张至 35 个州。该项目对大学教师与企业雇主开展调查，指明了学生顺利通过大学学分课程及入职培训项目所必须掌握的知识与技能。16 个州同意根据这些调查得出的基准来调整其高中毕业标准；随后，15 个州同意联合研发一份通用的代数二（Algebra II）统测试卷……正如一位受访精英所总结的那样，这实质上构成了‘证明多州之间能够达成共同标准的现实证据’。
+> 2004 年，[[Achieve|阿奇夫组织]]（Achieve）与[[The Education Trust|教育信托]]、[[Thomas B. Fordham Institute|福特汉姆基金会]]等机构发起成立了美国文凭项目网络，这一网络随后迅速扩张至 35 个州。该项目对大学教师与企业雇主开展调查，指明了学生顺利通过大学学分课程及入职培训项目所必须掌握的知识与技能。16 个州同意根据这些调查得出的基准来调整其高中毕业标准；随后，15 个州同意联合研发一份通用的代数二（Algebra II）统测试卷……正如一位受访精英所总结的那样，这实质上构成了‘证明多州之间能够达成共同标准的现实证据’。
 >
 > *In 2004, Achieve formed the American Diploma Project (ADP) network, which subsequently grew to 35 states.... Achieve surveyed postsecondary education faculty and businesses indicating what knowledge and skills students needed to pass college-level courses and workplace training programs. Sixteen states agreed to align their high school graduation requirements with the benchmarks derived from the surveys. Subsequently, 15 states agreed to develop a common assessment in Algebra II, and later, nine states agreed to do the same for high school English. These ADP actions served, in the words of one interviewee, as “existence proof that you could get common standards.”* [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 9)]]
 

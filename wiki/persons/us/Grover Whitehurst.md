@@ -26,6 +26,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Evidence-Based Reform]]"
   - "[[Evidence-Based Education]]"
+  - "[[Policy Window]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -75,4 +76,4 @@ updated: 2026-09-18
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> Whitehurst 的政策行动与 Slavin 的学术倡导形成**互补但独立的推动力** Slavin 从学术和项目开发者立场论证[[Evidence-Based Reform\|证据本位改革]]的必要性，Whitehurst 从联邦研究资助机构的制度权力出发将其付诸实施。两者的合力在 2000 年代初期创造了[[Evidence-Based Education\|证据本位教育]]政策的"政策窗口"。
+> Whitehurst 的政策行动与 Slavin 的学术倡导形成**互补但独立的推动力** Slavin 从学术和项目开发者立场论证[[Evidence-Based Reform\|证据本位改革]]的必要性，Whitehurst 从联邦研究资助机构的制度权力出发将其付诸实施。两者的合力在 2000 年代初期创造了[[Evidence-Based Education\|证据本位教育]]政策的"[[Policy Window|政策窗口]]"。
