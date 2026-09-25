@@ -10,7 +10,7 @@ title: "Argument_Bolton_2017_ArchPsych"
 argument_key: "Argument_Bolton_2017_ArchPsych"
 argument_display_title: "Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Variable]]"
 related_theories:
   - "[[Piaget's Theory of Cognitive Development]]"
+  - "[[Punctuated Equilibrium Theory]]"
   - "[[Neo-Piagetian Theories]]"
   - "[[Miyake's Unity and Diversity Framework of Executive Function]]"
 related_methods:
@@ -81,7 +82,7 @@ citation_aliases:
 
 > [!feature]+ 一页读懂
 > - **对象** 0–16岁儿童的认知发展阶段与脑神经发育 (前额叶皮层解剖生理、[[Synaptogenesis\|突触发生]]与修剪及[[Myelination\|髓鞘化]]) 以及执行功能 (抑制、转换、更新)。
-> - **工具** 将传统经验观察的认知阶段，与硬核脑成像数据 ([[Functional Magnetic Resonance Imaging\|功能性磁共振成像]] [[Functional Magnetic Resonance Imaging\|fMRI]]、[[Electroencephalography\|脑电图]] [[Electroencephalography\|EEG]]、近红外光谱 NIRS、正电子发射断层扫描 PET) 及脑解剖数据进行横向对齐。
+> - **工具** 将传统经验观察的认知阶段，与硬核脑成像数据 ([[Functional Magnetic Resonance Imaging\|功能性磁共振成像]] [[Functional Magnetic Resonance Imaging\|fMRI]]、[[Electroencephalography\|脑电图]] [[Electroencephalography\|EEG]]、近红外光谱 NIRS、正电子发射断层扫描 [[Punctuated Equilibrium Theory|PET]]) 及脑解剖数据进行横向对齐。
 > - **张力** 心理学对阶段过渡物理层机制解释力的匮乏，同大脑生理学对高阶认知控制缺乏宏观阶段性发展视野之间的张力。
 > - **结论** 皮亚杰认知发展阶段与 PFC 的解剖生理发育及 EF 发展轨迹存在高度时间平行性；认知发展阶段过渡是执行功能随脑成熟发育而发展的函数（p.1, p.13）。
 
@@ -239,7 +240,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - **心理学与神经影像学的年龄鸿沟** 大部分[[Functional Magnetic Resonance Imaging\|功能性磁共振成像]] (fMRI) 和正电子发射断层扫描 (PET) 研究仅招募 7 岁以上的儿童，导致 7 岁以下（如感觉运动与前运算早期）脑区功能的实时影像学数据极为匮乏，尚待高密度[[Electroencephalography\|脑电图]] (EEG) 等技术进一步补充（p.9）。
+> - **心理学与神经影像学的年龄鸿沟** 大部分[[Functional Magnetic Resonance Imaging\|功能性磁共振成像]] (fMRI) 和正电子发射断层扫描 ([[Punctuated Equilibrium Theory|PET]]) 研究仅招募 7 岁以上的儿童，导致 7 岁以下（如感觉运动与前运算早期）脑区功能的实时影像学数据极为匮乏，尚待高密度[[Electroencephalography\|脑电图]] (EEG) 等技术进一步补充（p.9）。
 > - **认知[[Executive Function\|执行功能]]界定的变动性与测量困境** 执行功能 (EF) 成分界定复杂，测量任务也高度混杂，不同任务形式的发展进程因特定知识素养要求而不同（pp.19–20）。
 > - **个体差异与外部环境干扰** 该模型仅描述普遍发展轨迹，未考虑巨大个体差异。例如双语环境能显著加速儿童 EF 发展，而低社会经济地位 (Low Socioeconomic Status, Low SES)、压力、药物或虐待则会导致 [[Prefrontal Cortex\|PFC]] 结构与 EF 表现缩水。
 > - **教育干预与年龄推迟** 未探讨特定教育教学干预的影响。例如研究显示，由于学校过度强调浅表思维，学生进入形式运算阶段的平均年龄已推迟至约 15 岁，不能生硬死板地将特定认知能力与生理年龄挂钩（p.20）。

@@ -7,7 +7,7 @@ title: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_key: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_display_title: "Working Out What Works: The Case of the Education Endowment Foundation in England"
 argument_kind: "journal-article"
-argument_related_count: 131
+argument_related_count: 132
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -148,6 +148,7 @@ related_facts:
   - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[Investing in Innovation Program]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Race to the Top]]"
   - "[[Sutton Trust]]"
   - "[[Impetus]]"
   - "[[What Works Network]]"
@@ -254,7 +255,7 @@ updated: 2026-09-18
 > - **对照组受挫脱落** 学校被随机分配至无干预对照组后受挫感强烈，早期平均流失率高达 24%，严重侵蚀基线平衡与统计功效。
 
 > [!dev-timeline] EEF 创设与学校动员关键节点（pp. 47–49）
-> - **2010 — 动议提出** 英国教育大臣[[Michael Gove\|迈克尔·戈夫]]（Michael Gove）受美国奥巴马政府“争向顶峰”计划启发，宣布设立独立基金会以改善英格兰处境不利学校。
+> - **2010 — 动议提出** 英国教育大臣[[Michael Gove\|迈克尔·戈夫]]（Michael Gove）受美国奥巴马政府“[[Race to the Top|争向顶峰]]”计划启发，宣布设立独立基金会以改善英格兰处境不利学校。
 > - **2011 — 竞标创设与种子基金** [[Sutton Trust\|萨顿信托]]联合[[Impetus\|动力信托]]（Impetus）在 14 家竞标机构中胜出，依托英国教育部 1.25 亿英镑初始捐赠创设 EEF，规划 15 年法定运营期并撬动超 2 亿英镑资助，由萨顿信托创始人[[Peter Lampl\|彼得·兰普尔爵士]]（Sir Peter Lampl）出任创始理事会主席以确立独立治理架构。
 > - **2013 — 国家有效机构认定** 英国政府正式将 EEF 与萨顿信托联合认定为英国教育领域的有效机构，纳入覆盖超 2,500 亿英镑公共支出的国家[[What Works Network\|有效性网络]]（What Works Network）。
 > - **2018 — 跨国证据生态战略启动** 获得[[BHP Foundation\|必和必拓基金会]]（BHP Foundation）资助开展为期 5 年的全球教学[[Evidence Ecosystem\|证据生态系统]]建设项目（[[Building a Global Evidence Ecosystem for Teaching]]，后升格制度化为常设多边[[Evidence for Education Network\|教育证据网络]]），向澳大拉西亚（[[Evidence for Learning\|E4L]]）与拉丁美洲（[[SUMMA]]）输出经验。

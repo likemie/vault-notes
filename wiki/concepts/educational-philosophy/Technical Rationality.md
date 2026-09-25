@@ -10,7 +10,7 @@ aliases:
 summary: "将专业实践与教育治理窄化为手段-目的因果计算与去情境化技术控制的实证主义模型；在微观教学中剥夺教师专业判断，在宏观政策与比较教育中将教育退化为劳动力技能规训并侵蚀全人教化"
 type: concept
 domain: "educational-philosophy"
-related_count: 81
+related_count: 82
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -91,6 +91,7 @@ related_facts:
   - "[[Carter Review of Initial Teacher Training]]"
   - "[[Reading Excellence Act]]"
   - "[[Common Core State Standards]]"
+  - "[[American Federation of Teachers]]"
   - "[[National Education Association]]"
   - "[[ResearchED]]"
   - "[[Education Endowment Foundation]]"
@@ -111,7 +112,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-09-25
+updated: 2026-09-26
 ---
 
 # Technical Rationality
@@ -224,7 +225,7 @@ updated: 2026-09-25
 > **法定阅读科学中的技术理性修辞与政商学同盟垄断** 埃德蒙森深入解构了美国 1998 年《[[Reading Excellence Act|卓越阅读法案]]》确立的技术理性机制。国会立法者与联邦行政官员借由“科学本位阅读研究”（Scientifically Based Reading Research, SBRR）的技术客观性修辞，将复杂的阅读教学机械窄化为字母发音[[Decodification|解码]]技能，将合格研究门槛严格限定于可复制的大样本实验对照设计。这种技术理性不仅将十万名基层教师和专业学者的联合请愿贬低为反科学的固步自封，彻底剥夺了一线教师的教学专业判断，更充当了遮蔽国会领导层、联邦官僚与商业出版集团结成封闭利益铁三角的意识形态工具。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4–10)]]
 
 > [!claim] [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]]
-> **宏观政策生命周期中技术理性线性工程假说的破产与三元共生重构** 麦克唐奈与韦瑟福德通过对全美[[Common Core State Standards|共同核心州立标准]]（CCSS）运动的历时追踪，系统[[Falsification|证伪]]了公共政策领域中“科学知识直接驱动决策”的技术理性线性工程假说。技术理性预设决策者会依据高质量科研成果按图索骥制定政策，但全美课程标准的演进确证：证据的形态与政治功能随决策阶段发生权变演变（议程设置期作为破局的象征动员符号，方案制定阶段化为技术防卫护盾，法定采纳期收敛为微观工具对比）。面对高阶标准因果实证[[Document|文献]]的严重空白，政策研制并未陷入瘫痪，而是依靠学科公理推演与一线教师专业审慎经验（AFT 物理剪裁、[[National Education Association|NEA]] 骨干审读）进行补位。这表明科学证据绝非去情境化的技术指令，而是与专业经验、政治价值紧密交织的三元共生网络的一部分。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 1–3, 18–19)]]
+> **宏观政策生命周期中技术理性线性工程假说的破产与三元共生重构** 麦克唐奈与韦瑟福德通过对全美[[Common Core State Standards|共同核心州立标准]]（CCSS）运动的历时追踪，系统[[Falsification|证伪]]了公共政策领域中“科学知识直接驱动决策”的技术理性线性工程假说。技术理性预设决策者会依据高质量科研成果按图索骥制定政策，但全美课程标准的演进确证：证据的形态与政治功能随决策阶段发生权变演变（议程设置期作为破局的象征动员符号，方案制定阶段化为技术防卫护盾，法定采纳期收敛为微观工具对比）。面对高阶标准因果实证[[Document|文献]]的严重空白，政策研制并未陷入瘫痪，而是依靠学科公理推演与一线教师专业审慎经验（[[American Federation of Teachers|AFT]] 物理剪裁、[[National Education Association|NEA]] 骨干审读）进行补位。这表明科学证据绝非去情境化的技术指令，而是与专业经验、政治价值紧密交织的三元共生网络的一部分。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 1–3, 18–19)]]
 
 ---
 

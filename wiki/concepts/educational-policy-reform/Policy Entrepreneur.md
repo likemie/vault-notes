@@ -6,7 +6,7 @@ aliases:
 summary: "在教育系统内外通过网络、合作和机会识别推动政策变革的行动者，常兼具知识传播、议程设置和组织动员功能。在理性主义比较教育传统中，政策企业家是全球治理与多行动者网络的核心协调力量；在新自由主义教育私有化改革中，他们通过在公共福利、非营利与营利性载体间无缝切换，实现学术知识产权的商业化和远处治理；在公共教育制度改革中，他们通过跨界网络、策略性证据打包与去政治化防卫，突破各州分散垄断以促成重大政策变迁。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -42,6 +42,7 @@ related_concepts:
 related_theories:
   - "[[Governing at a Distance]]"
   - "[[Human Capital Theory]]"
+  - "[[Punctuated Equilibrium Theory]]"
 related_methods:
   - "[[In-depth Interview]]"
   - "[[Correlational Research]]"
@@ -65,7 +66,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-09-24
+updated: 2026-09-26
 ---
 
 # Policy Entrepreneur
@@ -152,7 +153,7 @@ updated: 2026-09-24
 > 关注政策企业家如何在不同决策阶段，将科学研究、实证指标与规范性价值诉求策略性组合，打破僵化的既有体制并构建改革支持联盟。
 
 > [!claim] McDonnell, L. M. & Weatherford, M. S.
-> **阶段权变的证据整合与去政治化倡导** 论证了政策企业家在推动重大制度变迁时，并非单向依凭纯粹学术证据，而是依据政策周期各阶段的政治目标灵活整合多元证据：在[[Problem Finding|问题界定]]阶段，策略性筛选国际测评与州际落差指标，将其与[[Human Capital Theory|人力资本]]竞争力价值框架结合以打破分散标准的政策垄断；在方案设计阶段，将诉诸实证研究作为去政治化策略以规避意识形态争端，并在研究证据有限处以专家和一线教师的专业经验填补空白；在采纳阶段，重构共识叙事并注入州级细分对标数据（Crosswalks）以构建法定通过联盟。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 1–4, 18–19)]]
+> **阶段权变的证据整合与去政治化倡导** 论证了政策企业家在推动重大制度变迁时，并非单向依凭纯粹学术证据，而是依据政策周期各阶段的政治目标灵活整合多元证据：在[[Problem Finding|问题界定]]阶段，策略性筛选国际测评与州际落差指标，将其与[[Human Capital Theory|人力资本]]竞争力价值框架结合以打破分散标准的[[Punctuated Equilibrium Theory|政策垄断]]；在方案设计阶段，将诉诸实证研究作为去政治化策略以规避意识形态争端，并在研究证据有限处以专家和一线教师的专业经验填补空白；在采纳阶段，重构共识叙事并注入州级细分对标数据（Crosswalks）以构建法定通过联盟。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 1–4, 18–19)]]
 
 ---
 
@@ -190,7 +191,7 @@ updated: 2026-09-24
 > - **1984 — 议程设置与政策溪流模型** 约翰·W·金登（John W. Kingdon, 1984）在其经典著作中首创政策企业家概念，描述其如何将问题、方案与政治溪流耦合。
 > - **2000 — 教育系统内政策创业** 迈克尔·明特罗姆（Michael Mintrom, 2000）首次系统化探讨教育系统内部自下而上的政策创业行为，关注其打破行政僵化、促进学校[[School Choice|择校]]创新的机制。
 > - **2012 — 跨国[[Policy Network|政策网络]]拓展** 斯蒂芬·J·鲍尔（Stephen J. Ball, 2012）将概念拓展至全球[[Network Governance|网络化治理]]维度，揭示商业资本与智库如何穿透国家主权边界。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. viii)]]
-> - **2013 — 政策周期中的证据利用与去政治化** 洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013]]）将政策企业家理论与多阶段证据利用相结合，揭示其如何在各阶段将实证研究、指标数据与价值叙事策略性打包[[Assemblage|装配]]，以突破政策垄断并推进[[Common Core State Standards|共同核心标准]]采纳。
+> - **2013 — 政策周期中的证据利用与去政治化** 洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013]]）将政策企业家理论与多阶段证据利用相结合，揭示其如何在各阶段将实证研究、指标数据与价值叙事策略性打包[[Assemblage|装配]]，以突破[[Punctuated Equilibrium Theory|政策垄断]]并推进[[Common Core State Standards|共同核心标准]]采纳。
 > - **2016 — 混合政策创业诊断** 约翰·奥尼尔等人（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）通过对新西兰公立学校改革的研究，细化了政策企业家在公共福利、非营利与营利动机间无缝融合的微观运作机制。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 47–64)]]
 
 ---
@@ -238,4 +239,4 @@ updated: 2026-09-24
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] — 系统使用并细化了该概念，深入剖析了新西兰公立教育体系中 [[John Hattie]] 等政策企业家在公共福利、非营利与营利三种运作动机间无缝跨界运作的路径与后果。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 将政策企业家概念引入理性主义比较教育发展的第三阶段，用以解释数据[[Governing at a Distance|远处治理]]与分散权威空间的多行动者协调机制。
-> - [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] — 将政策企业家理论与多阶段证据利用相结合，系统揭示了跨界行动者如何动员差距指标、筑牢技术护栏并提供对标工具，突破政策垄断并推动 [[Common Core State Standards|CCSS]] 法定采纳。
+> - [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] — 将政策企业家理论与多阶段证据利用相结合，系统揭示了跨界行动者如何动员差距指标、筑牢技术护栏并提供对标工具，突破[[Punctuated Equilibrium Theory|政策垄断]]并推动 [[Common Core State Standards|CCSS]] 法定采纳。

@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 31
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 32
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "professional-association-union"
 headquarters: "美国华盛顿特区（Washington, D.C., United States）"
@@ -53,6 +53,7 @@ related_facts:
   - "[[National Education]]"
   - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[Common Core State Standards]]"
+  - "[[American Federation of Teachers]]"
   - "[[OECD]]"
   - "[[Education International]]"
   - "[[International Summits on the Teaching Profession]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-09-25
+updated: 2026-09-26
 ---
 
 # National Education Association
@@ -92,7 +93,7 @@ updated: 2026-09-25
 > - **1960–2000 年代 — 劳工工会化转型与联邦教育立法攻坚** 1960 年代伴随公立雇员集体谈判权兴起，NEA 逐步从传统专业协会转型为具有强大集体谈判权与基层动员能力的现代劳工工会；1979 年通过强有力的两党游说推动卡特政府设立美国内阁级教育部（US Department of Education）；此后在《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]案》（ESEA）历次再授权中坚定捍卫公立学校财政拨款与教师编制。
 > - **2000 年代至今 — 21 世纪技能引领与跨国循证共治突破** 
 >   - **国家课程标准审读与专业纠偏（2009–2010）** 在[[Common Core State Standards|共同核心州立标准]]（CCSS）方案设计阶段，面对学术实证[[Document|文献]]的广泛空白，全美教育协会抽调全美委员会认证教师（National-Board Certified Members）组成专家审查组，对草案进行多轮次封闭审读，并与起草团队面对面对质。NEA 教师团队重点针对英语语言艺术（ELA）标准提出关键专业修正，坚持将“评估信息的价值与相关性”（judging the worthiness and relevance of information）纳入核心阅读素养，并严格区分“支撑性技能（enabling skills）”与“终极教学目标（goals）”，清理脱离课堂现实的晦涩学术行话，成为保障国家标准具备教学可行性的关键专业力量。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 15, 20)]]
->   - **跨国循证协商建制（2011）** 2011 年联合美国教育部前部长阿恩·邓肯（Arne Duncan）、美国教师联盟（AFT）、[[OECD|经合组织]]（OECD）及[[Education International|国际教育协会]]（EI）共同创设[[International Summits on the Teaching Profession|国际教师职业峰会]]（International Summits on the Teaching Profession, ISTP），成为全球唯一实现民选教育部长与教师工会领袖闭门平等协商的跨国治理平台。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 211)]]
+>   - **跨国循证协商建制（2011）** 2011 年联合美国教育部前部长阿恩·邓肯（Arne Duncan）、[[American Federation of Teachers|美国教师联盟]]（AFT）、[[OECD|经合组织]]（OECD）及[[Education International|国际教育协会]]（EI）共同创设[[International Summits on the Teaching Profession|国际教师职业峰会]]（International Summits on the Teaching Profession, ISTP），成为全球唯一实现民选教育部长与教师工会领袖闭门平等协商的跨国治理平台。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 211)]]
 >   - **4C 核心技能框架确立（2012）** 2012 年发布里程碑式指南《为全球社会培养 21 世纪学生：教育者 4C 指南》，将[[Critical Thinking|批判性思维]]、[[Problem Solving|问题解决]]、沟通、协作以及[[Creativity|创造力]]与创新确立为全美基础教育[[21st Century Skills and Competencies Discourse|核心素养]]支柱。[[Argument_Park_2026_TSC|(Park et al., 2026, p. 1)]]
 >   - **抵制片面测试与主办第 11 届 ISTP 峰会（2015–2021）** 2015 年深度推动《[[Every Student Succeeds Act|每个学生成功法]]案》（ESSA 2015）通过，终结有缺陷的狭隘高利害统考惩罚机制；2021 年在华盛顿联合主办第 11 届 ISTP 峰会，围绕后疫情时代教育重建、教师身心福祉与[[Whole Person Education|全人教育]]达成全球共识。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 216)]]
 
@@ -137,7 +138,7 @@ updated: 2026-09-25
 > - **学术研究引用** NEA 发布的 4C 框架被 [[Argument_Park_2026_TSC|Park et al. (2026)]] 等大规模[[Meta-analysis|元分析]]学者引为实证论证[[Critical Thinking|批判性思维]]与[[Creativity|创造力]]共生关系的国家级机构依据。[[Argument_Park_2026_TSC|(Park et al., 2026, p. 1)]]
 
 > [!finding-cards] 关键成效与辐射影响
-> - **充当宏观政策方案可行性[[Gatekeepers|把关人]]与合法化支柱** 在 [[Common Core State Standards|CCSS]] 等重大国家教育改革中，NEA 与 AFT 作为全美教师的组织化代表，不仅行使了严格的专业把关职能（消除脱离实践的行话与设计断层），更通过对研制诚信与专业过程的认可，为自愿性统一国家标准在全美 40 余州的顺利采纳提供了不可替代的教师合法性背书。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 15–16, 20)]]
+> - **充当宏观政策方案可行性[[Gatekeepers|把关人]]与合法化支柱** 在 [[Common Core State Standards|CCSS]] 等重大国家教育改革中，NEA 与 [[American Federation of Teachers|AFT]] 作为全美教师的组织化代表，不仅行使了严格的专业把关职能（消除脱离实践的行话与设计断层），更通过对研制诚信与专业过程的认可，为自愿性统一国家标准在全美 40 余州的顺利采纳提供了不可替代的教师合法性背书。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 15–16, 20)]]
 > - **重塑课堂教学范式** 推动批判性思维与创造力走出心理学象牙塔，成为全美乃至全球数万间中小学课堂的教学设计与量规支柱。
 > - **法治与专业保障** 通过集体谈判确立全美公立学校教师工资底线、工时保障与职业安全规范，奠定现代专业教学的制度底座。
 

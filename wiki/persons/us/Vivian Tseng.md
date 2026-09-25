@@ -7,7 +7,7 @@ summary: "美国心理学者与教育资助慈善战略专家，曾任威廉·T�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -40,6 +40,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_facts:
   - "[[William T. Grant Foundation]]"
+  - "[[Race to the Top]]"
 related_persons:
   - "[[Mark Schneider]]"
   - "[[Dirk Van Damme]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # Vivian Tseng
@@ -87,7 +88,7 @@ updated: 2026-09-22
 >   - **关键概念／方法** 少数族裔青少年福祉、[[Network Analysis\|社会网络分析]]、[[Mixed Methods Research]]。
 >   - **阶段转向** 深刻认识到个体层面的心理干预若无宏观制度与政策系统的循证支持，难以从根本上化解系统性种族与贫困不平等。
 > - **2010–2017 — 研究证据利用（URE）与伙伴关系建制化** 开拓政策与实践中“证据如何被真实使用”的元科学实证研究，倡导走出单向线性转化（Translation）迷思。
->   - **代表著作** *The Uses of Research in Policy and Practice* (2012)、*Toward the Race to the Top? [[Research-Practice Partnership\|Research-Practice Partnerships]] in education* (2013, with Coburn & Penuel)。
+>   - **代表著作** *The Uses of Research in Policy and Practice* (2012)、*Toward the [[Race to the Top]]? [[Research-Practice Partnership\|Research-Practice Partnerships]] in education* (2013, with Coburn & Penuel)。
 >   - **关键概念／方法** [[Research Utilization]]、[[Research-Practice Partnership]]、[[Boundary Spanner]]。
 >   - **阶段转向** 从单纯考察证据利用的认知与组织过程，转向构建大学与学区长期协同的结构性中介机制（RPP）。
 > - **2017–至今 — 终结榨取式科研与[[Democratising Evidence\|证据民主化]]** 全面质询高校[[Knowledge Production\|知识生产]]的权力垄断与道德赤字，构建以弱势社群赋权为核心的证据民主化[[Paradigm\|范式]]。

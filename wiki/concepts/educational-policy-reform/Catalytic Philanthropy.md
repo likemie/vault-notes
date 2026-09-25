@@ -9,7 +9,7 @@ aliases:
 summary: "指慈善捐助者不以直接提供社会救济或维持日常运营为目的，而是将私营资本作为政策杠杆与催化剂，以撬动公共财政配资、重塑国家法定教育议程、推销因果循证量规并孵化新型中介实体为核心诉求的策略性慈善范式。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -49,12 +49,13 @@ related_facts:
   - "[[Australian Education Research Organisation]]"
   - "[[Australian Schools Plus]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Race to the Top]]"
 related_arguments:
   - "[[Argument_Rowe_2023_ECNUROE]]"
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # Catalytic Philanthropy
@@ -183,7 +184,7 @@ updated: 2026-09-22
 > | 研究 | 慈善机构与催化对象 | 核心催化手段 | 撬动公共财政与政策产出 | 治理影响 |
 > |---|---|---|---|---|
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | [[Social Ventures Australia\|SVA]] 催化全澳公立教育改革 | 发起亮点学校连接试点、孵化全资中介 [[Evidence for Learning\|E4L]] | 撬动联邦通过 [[Deductible Gift Recipient\|DGR1]] 减税法案，撬动 5000 万澳元设立国家法定机构 [[Australian Education Research Organisation\|AERO]] | 促使国家蜕变为私营中介的催化平台，学校受制于商业考评 |
-> | Reckhow (2013) | 盖茨基金会（Gates）催化全美特许学校扩张 | 资[[Teaching Assistant\|助教]]育倡导联盟（占据倡导预算近 80%） | 撬动联邦“力争上游”（Race to the Top）数十亿美元国家竞赛拨款 | 非民选“董事会进步主义者”实质主导全美教育核心议程 |
+> | Reckhow (2013) | 盖茨基金会（Gates）催化全美特许学校扩张 | 资[[Teaching Assistant\|助教]]育倡导联盟（占据倡导预算近 80%） | 撬动联邦“[[Race to the Top\|力争上游]]”（Race to the Top）数十亿美元国家竞赛拨款 | 非民选“董事会进步主义者”实质主导全美教育核心议程 |
 
 ---
 

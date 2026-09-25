@@ -9,7 +9,7 @@ aliases:
 summary: "阐释政策制定由国会专门委员会、行政官僚机构与特定利益集团三方紧密结盟所垄断的政治学分析框架，揭示封闭铁三角对专业话语、科研资助与法定标准的排他性支配"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 20
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Open-Mindedness]]"
 related_theories:
   - "[[Pluralism]]"
+  - "[[Punctuated Equilibrium Theory]]"
 related_methods:
   - "[[Experimental Research]]"
   - "[[Qualitative Research]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-24
-updated: 2026-09-24
+updated: 2026-09-26
 ---
 
 # Subgovernment Theory
@@ -66,7 +67,7 @@ updated: 2026-09-24
 > - **知识位置** 源自美国[[Policy Science in Comparative Education|政策科学]]中的铁三角（Iron Triangle）模型，后被拓展为分析教育改革中官僚集权与商业资本渗透的核心分析工具。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–9)]]
 
 > [!claim] 核心判断
-> 政策制定在高度专业化的领域往往并非通过公开的民主协商展开，而是由掌握立法权、财政分配权与商业利益的立法委员会、官僚机构及行业巨头组成相互依存的铁三角所把控，形成排斥异见的政策垄断。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–9)]]
+> 政策制定在高度专业化的领域往往并非通过公开的民主协商展开，而是由掌握立法权、财政分配权与商业利益的立法委员会、官僚机构及行业巨头组成相互依存的铁三角所把控，形成排斥异见的[[Punctuated Equilibrium Theory|政策垄断]]。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–9)]]
 
 ---
 
@@ -75,7 +76,7 @@ updated: 2026-09-24
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 休·赫克洛（Hugh Heclo）在 1978 年对其做出了经典政治学系统界定；后经斯黛拉·西奥杜卢（Stella Theodoulou）与马修·卡恩（Matthew Cahn）在 1995 年将其提炼为公共政策制定的基础类型；史蒂文·施特劳斯（Steven Strauss）与杰奎琳·埃德蒙森（Jacqueline Edmondson）在 2001 年与 2005 年将其深度引入美国基础教育与阅读政策分析。
 > - **原初问题** 为何美国联邦教育立法会固执推行单一且饱受学界争议的拼读与硬科学实证[[Paradigm|范式]]，而广大基层教师和多元研究者的抗议屡屡失效。
-> - **理论资源与材料** 汇集了美国国会委员会与联邦行政机构的权力分配机制、商业游说网络的研究，以及关于政策垄断和纳税人资金滥用的批评[[Document|文献]]。
+> - **理论资源与材料** 汇集了美国国会委员会与联邦行政机构的权力分配机制、商业游说网络的研究，以及关于[[Punctuated Equilibrium Theory|政策垄断]]和纳税人资金滥用的批评[[Document|文献]]。
 > - **形成路径** 通过追踪[[National Institute of Child Health and Human Development|国家儿童健康与人类发展研究所]]（National Institute of Child Health and Human Development, NICHD）、[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]核心政客以及麦格劳-希尔（McGraw-Hill）等商业教材巨头在立法中的互动，确立了次政府理论在教育政策中的实证适用性。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–10)]]
 
 ### 理论源流与演变

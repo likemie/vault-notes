@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 43
+fact_related_count: 44
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -65,6 +65,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Education International]]"
   - "[[National Education Association]]"
+  - "[[American Federation of Teachers]]"
   - "[[International Summits on the Teaching Profession]]"
   - "[[Strengthening the Impact of Education Research Project]]"
   - "[[Definition and Selection of Competencies]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-11
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # Centre for Educational Research and Innovation
@@ -105,7 +106,7 @@ updated: 2026-09-22
 > - **1968–1970 年代 — 概念突破与前瞻实验期** 1968 年创立后，CERI 迅速打破传统[[OECD\|经合组织]]单纯依赖劳动力宏观预测的局限，积极吸收欧洲激进教育学与[[Lifelong Learning\|终身学习]]思想；1973 年发布里程碑式报告《循环教育：终身学习策略》（*Recurrent Education: A Strategy for Lifelong Learning*），率先将教育从青年期终结的封闭形态重塑为贯穿个体生命全程的弹性制度；同期发起首批跨国指标试错探索。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 10)]]
 > - **1980–1990 年代 — 指标孵化与实证帝国奠基** 1983 年美国《国家处在危险之中》报告发布后，里根政府教育部门转向 CERI 寻求跨国比较方案；在 CERI 资深主管 [[Jarl Bengtsson]] 推动下，该中心于 1988 年正式孵化设立[[International Indicators of Education Systems\|国际教育系统指标]]（International Indicators of Education Systems, INES）项目网络，由教育社会学家 [[Norberto Bottani]] 挂帅长达十年，成功奠定了《[[Education at a Glance\|教育概览]]》（Education at a Glance, EAG）的生产母体，并直接催生了后来的[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]; [[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 5, 8)]]
 > - **2000 年代至今 — 未来学校构想、[[Epistemic Governance\|知识治理]]探索与高阶素养量规研发** 进入 21 世纪，随着大型评测与常规指标转交教育与技能司行政流水线，CERI 全面深化其前瞻实验室与教育知识治理智库定位：
->   - **工会参与治理与跨国证据协商机制突破（2010–2011）** 2010 年，[[Education International\|国际教育协会]]（Education International, EI）通过经合组织工会咨询委员会（Trade Union Advisory Committee to the OECD, TUAC）成功争取到在 CERI 领导理事会（Governing Board）的常设观察员席位，制度化确立跨国调查数据归政策当局与广大教师及其工会组织共同所有的原则；2011 年联合美国教育部、[[National Education Association\|全美教育协会]]（NEA）、美国教师联盟（AFT）与 EI 联合创设[[International Summits on the Teaching Profession\|国际教师职业峰会]]（International Summits on the Teaching Profession, ISTP）。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212, 216)]]
+>   - **工会参与治理与跨国证据协商机制突破（2010–2011）** 2010 年，[[Education International\|国际教育协会]]（Education International, EI）通过经合组织工会咨询委员会（Trade Union Advisory Committee to the OECD, TUAC）成功争取到在 CERI 领导理事会（Governing Board）的常设观察员席位，制度化确立跨国调查数据归政策当局与广大教师及其工会组织共同所有的原则；2011 年联合美国教育部、[[National Education Association\|全美教育协会]]（NEA）、[[American Federation of Teachers|美国教师联盟]]（AFT）与 EI 联合创设[[International Summits on the Teaching Profession\|国际教师职业峰会]]（International Summits on the Teaching Profession, ISTP）。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212, 216)]]
 >   - **知识管理与证据治理深耕** 2000/2003 年率先开展跨部门知识治理与教育研发调查，2007 年出版划时代专著《Evidence in Education: Linking Research and Policy》；2010 年发布《The Nature of Learning》；实施覆盖 29 国 37 个教育系统的[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]，开创涵盖结构、关系、质量、文化与能力的[[Evidence Ecosystem\|证据生态系统]]宏观政策诊断工具。[[Argument_Revai_2022_ChangingLandscape\|(OECD, 2000, 2003, 2007; Révai, 2022, pp. 16–27)]]
 >   - **前瞻情境、高阶素养量规与多利益相关方论辩（2019–2022）** 2019 年研制发布跨学科[[Higher-Order Thinking Skills\|高阶思维]]评价量规；2022 年由编者诺拉·雷瓦伊主持设计跨越学术建制派（[[Dirk Van Damme\|范达默]]）、官方资助派（[[Mark Schneider\|施奈德]]）、全球工会派（班斯与亨利）、一线实践派（纳吉）、国家试点派（普勒茨）、慈善民主派（[[Vivian Tseng\|曾薇薇安]]）与批判伦理派（友利田）的 7 大利益相关者群体论辩矩阵，全面反思供给侧质量赤字与学术榨取，推动迈向[[Democratising Evidence\|证据民主化]]与专业受托伦理。[[Argument_Bouckaert_2023_OECD\|(Vincent-Lancrin et al., 2019; Bouckaert, 2023, pp. 28, 30)]]; [[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 200–234)]]
 

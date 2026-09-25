@@ -10,7 +10,7 @@ aliases:
 summary: "大学与企业之间有目的的、对齐的合作关系，涵盖研究与学术、教育与学习、公共效益三大维度，区别于单纯的产学关系，强调正式协议框架下的深度参与"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 100
+related_count: 101
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -81,6 +81,7 @@ related_theories:
   - "[[Human Capital Theory]]"
   - "[[Values Alignment Model]]"
   - "[[King-Persily Model]]"
+  - "[[Punctuated Equilibrium Theory]]"
 related_methods:
   - "[[Case Study]]"
   - "[[Correlational Research]]"
@@ -127,7 +128,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # University-Industry Collaboration
@@ -511,7 +512,7 @@ AET 的资助结构直接决定了产学合作在企业内部关注什么、忽�
 ## 相关案例
 
 > [!example]
-- IBM 与斯坦福大学合作开发无需铂等重金属的催化技术，发现了一种解聚聚对苯二甲酸乙二醇酯（PET）的方法，为回收塑料瓶和聚酯纤维提供了新途径（p.7）
+- IBM 与斯坦福大学合作开发无需铂等重金属的催化技术，发现了一种解聚聚对苯二甲酸乙二醇酯（[[Punctuated Equilibrium Theory|PET]]）的方法，为回收塑料瓶和聚酯纤维提供了新途径（p.7）
 - 波音与谢菲尔德大学合作建立[[Advanced Manufacturing Research Centre|先进制造研究中心]]（AMRC），截至 2024 年拥有 600 多名研究人员、技术人员和支持人员，120 多个行业成员，年研究经费约 4000 万英镑（pp.7–8）
 - Houston Methodist and Medtronic 合作开展经导管主动脉瓣置换术（Transcatheter Aortic Valve Replacement, TAVR）的产学合作：从 2007 年起通过四轮递进式[[Clinical Trial|临床试验]]（极端风险→高风险→中等风险→低风险），将 TAVR 发展为主动脉瓣狭窄全风险谱系的标准疗法。30 天死亡率从 7.2% 降至 2.5%，2019 年 TAVR 年手术量首次超过传统外科手术([[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025, pp.192–194]])
 - Mars 与加州大学戴维斯分校和阿肯色大学合作研究水稻"干湿交替"（AWD）灌溉技术，显著减少用水和温室气体排放而不降低产量（p.8）

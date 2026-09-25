@@ -8,7 +8,7 @@ summary: "脑电图（EEG）：通过测量相邻神经元群落激活记录脑�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 5
+method_related_count: 6
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"
@@ -21,7 +21,8 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Prefrontal Cortex]]"
   - "[[Research Utilization]]"
-related_theories: []
+related_theories:
+  - "[[Punctuated Equilibrium Theory]]"
 related_methods:
   - "[[Functional Magnetic Resonance Imaging]]"
 related_persons: []
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-09-11
+updated: 2026-09-26
 ---
 
 ## 定义
@@ -55,11 +56,11 @@ EEG 通过在头皮上放置电极，测量相邻神经元群落的同步电活�
 ## 局限性
 
 > [!warning] 局限性
-> - 空间分辨率弱于 [[Functional Magnetic Resonance Imaging\|fMRI]] 和 PET([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.2]])
+> - 空间分辨率弱于 [[Functional Magnetic Resonance Imaging\|fMRI]] 和 [[Punctuated Equilibrium Theory|PET]]([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.2]])
 
 ## 与其他技术的比较
 
-- **vs [[Functional Magnetic Resonance Imaging|fMRI]]** — EEG 时间分辨率优于空间分辨率；fMRI and PET 在空间分辨率上更佳。EEG 可测量毫秒级脑活动增量([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.2]])
+- **vs [[Functional Magnetic Resonance Imaging|fMRI]]** — EEG 时间分辨率优于空间分辨率；fMRI and [[Punctuated Equilibrium Theory|PET]] 在空间分辨率上更佳。EEG 可测量毫秒级脑活动增量([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.2]])
 - EEG 可与 fMRI 或 PET 单独或联合使用，以关联认知功能表现与大脑特定区域([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.2]])
 - 便携式 EEG 的发展使研究者能在更自然的场景中测试年幼儿童，克服了 fMRI 对年幼儿童研究的限制([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.9]])
 

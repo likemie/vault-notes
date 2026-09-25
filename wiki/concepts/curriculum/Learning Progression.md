@@ -8,7 +8,7 @@ aliases:
 summary: "刻画学生在特定学科领域中理解与能力从初阶向高阶演进的连续性发展轨迹，为课程标准编制、形成性评价与教学干预提供共同参照语言；在标准研制中呈现出由早期学段经验心理学测绘向高阶学段学科逻辑演绎的证据形态分化"
 type: concept
 domain: "curriculum"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,13 +38,14 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[Common Core State Standards]]"
+  - "[[American Federation of Teachers]]"
 related_arguments:
   - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_McDonnell_2013_AJE]]"
 confidence: high
 status: active
 created: '2026-09-16'
-updated: 2026-09-25
+updated: 2026-09-26
 ---
 
 # Learning Progression
@@ -139,7 +140,7 @@ updated: 2026-09-25
 > 探讨学习进阶在不同教育阶段构建时的证据来源差异，以及高阶推论性进阶如何通过一线教师同行审读获得实践有效性。
 
 > [!claim] [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]]
-> **学段间证据基础的分化与实践校准必要性** 全美[[Common Core State Standards|共同核心州立标准]]（CCSS）数学标准研制经验表明，学习进阶并非拥有均质的实证支撑。小学低段（K–2）依托道格·克莱门茨（Doug Clements, 2011）等儿童认知心理学实证研究，拥有清晰且经严格验证的自然学习轨迹；然而初高中高阶数学几乎完全缺乏实证学习进阶数据，进阶序列本质上是基于数学学科公理体系的推论性假说。为防止学术推演脱离课堂现实，必须依托全美教师联盟（AFT）等一线骨干教师的“物理剪裁审查”，通过逐条比对草案与真实课堂教学规律，方能将推论性进阶修正为具有可行性的教学进阶序列。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 14–15, 22–23)]]
+> **学段间证据基础的分化与实践校准必要性** 全美[[Common Core State Standards|共同核心州立标准]]（CCSS）数学标准研制经验表明，学习进阶并非拥有均质的实证支撑。小学低段（K–2）依托道格·克莱门茨（Doug Clements, 2011）等儿童认知心理学实证研究，拥有清晰且经严格验证的自然学习轨迹；然而初高中高阶数学几乎完全缺乏实证学习进阶数据，进阶序列本质上是基于数学学科公理体系的推论性假说。为防止学术推演脱离课堂现实，必须依托[[American Federation of Teachers|全美教师联盟]]（AFT）等一线骨干教师的“物理剪裁审查”，通过逐条比对草案与真实课堂教学规律，方能将推论性进阶修正为具有可行性的教学进阶序列。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 14–15, 22–23)]]
 
 ---
 
@@ -166,7 +167,7 @@ updated: 2026-09-25
 
 ## 应用示例
 
-> [!case] 全美 [[Common Core State Standards|CCSS]] 数学标准研制中的 K–2 实证轨迹与 AFT 物理剪裁审读
+> [!case] 全美 [[Common Core State Standards|CCSS]] 数学标准研制中的 K–2 实证轨迹与 [[American Federation of Teachers|AFT]] 物理剪裁审读
 > 在研制全美[[Common Core State Standards|共同核心州立标准]]（CCSS）数学标准时，设计团队在 K–2 年级直接采纳了儿童认知发展心理学的成熟学习轨迹，确保了早期数感与运算法则进阶的实证科学性；而在高中阶段因缺乏实证数据，编写组依靠学科逻辑演绎生成假说性进阶，并交由全美教师联盟（AFT）教师团队将标准打印剪贴在墙面上进行整整两天的物理可行性审查，对衔接断层与脱节表述进行纠偏。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 14–15, 22–23)]]
 
 ---

@@ -8,7 +8,7 @@ aliases:
 summary: "以硬事实施展软权力由 Dennis Niemann、Kerstin Martens 与 Christian Ydesen 等提出，指涉国际组织在缺乏法定强制制裁权的前提下，通过生产标准化、可量化与可比较的硬性实证数据（如 PISA、教育指标、投资回报率），赋予政策倡议以客观科学表象并实施远处治理与绩效问责的核心规制机制。"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Performance Indicators]]"
 related_theories:
   - "[[Governing at a Distance]]"
+  - "[[Punctuated Equilibrium Theory]]"
   - "[[Human Capital Theory]]"
   - "[[World Society Theory]]"
 related_methods:
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-26
 ---
 
 # Soft Power by Hard Facts
@@ -151,7 +152,7 @@ updated: 2026-09-17
 > 批判硬事实背后的利益垄断、[[Paradigm\|范式]]排他以及与跨国商业资本的共生关系。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]
-> **知识武器化** 当代信息过载并未削弱国际组织的影响，反而促使其将特定类型的可量化、可比较知识深度武器化；各机构通过组建排他性同盟（如[[World Bank\|世行]]主导的 [[Building Evidence in Education\|BE2]]）并争夺私人慈善资本，在数字平台共享的掩护下维持各自的政策垄断，硬事实本质上是全球治理复合体维系制度霸权的政治利基工具。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538, 545)]]
+> **知识武器化** 当代信息过载并未削弱国际组织的影响，反而促使其将特定类型的可量化、可比较知识深度武器化；各机构通过组建排他性同盟（如[[World Bank\|世行]]主导的 [[Building Evidence in Education\|BE2]]）并争夺私人慈善资本，在数字平台共享的掩护下维持各自的[[Punctuated Equilibrium Theory|政策垄断]]，硬事实本质上是全球治理复合体维系制度霸权的政治利基工具。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538, 545)]]
 
 ---
 
@@ -172,7 +173,7 @@ updated: 2026-09-17
 > - **2000 年代初 — [[PISA]] 冲击与认知软治理萌芽** 伴随[[OECD\|经合组织]] PISA 2000 年首轮测验引发德国等国“PISA 冲击”，比较学者开始关注无直接行政权的跨国机构如何通过数据与基准塑造国家教育政策议程（Grek, 2009）。
 > - **2018 — Niemann & Martens 正式提出“以硬事实施展[[Soft Power\|软权力]]”** 明确界定国际组织通过制造可量化、可比较与标准化的“硬事实”，将[[Epistemology\|认识论]]与方法论权威转化为政治规制力的[[Construct\|理论构念]]。
 > - **2019 — Ydesen 提出“[[Global Education Governing Complex\|全球教育治理复合体]]”** 将概念由单一国际组织扩展至涵盖多边机构、私人慈善基金会与跨国商业资本的混合治理网络。
-> - **2024 — [[Governing by Numbers\|数字治理]] 2.0 时代的知识武器化深化** [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 进一步深化该构念，揭示信息过载如何反向促使国际组织将硬事实武器化，并通过排他性战略同盟维持政策垄断。
+> - **2024 — [[Governing by Numbers\|数字治理]] 2.0 时代的知识武器化深化** [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 进一步深化该构念，揭示信息过载如何反向促使国际组织将硬事实武器化，并通过排他性战略同盟维持[[Punctuated Equilibrium Theory|政策垄断]]。
 
 ---
 

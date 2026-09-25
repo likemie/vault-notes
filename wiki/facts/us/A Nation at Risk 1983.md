@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -58,6 +58,7 @@ related_facts:
   - "[[PISA]]"
   - "[[National Education Association]]"
   - "[[National Education]]"
+  - "[[American Federation of Teachers]]"
   - "[[Coleman Report 1966]]"
   - "[[American Attraction to Japanese Education 1980s]]"
 related_arguments:
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # A Nation at Risk 1983
@@ -132,7 +133,7 @@ updated: 2026-09-22
 >
 > | 维度 | 卓越主义改革阵营（联邦/商业界） | 民主公立维权阵营（教师工会/进步派） |
 > |:---|:---|:---|
-> | 核心行动者 | 里根政府、NCEE 委员会、工商企业领袖、各州保守派州长 | 全美教育协会（NEA）、美国教师联盟（American Federation of Teachers，AFT）、进步教育学者 |
+> | 核心行动者 | 里根政府、NCEE 委员会、工商企业领袖、各州保守派州长 | 全美教育协会（NEA）、[[American Federation of Teachers\|美国教师联盟]]（American Federation of Teachers，AFT）、进步教育学者 |
 > | 阶级／社会基础 | 跨国大工商业资本、保守派政治精英、郊区中产阶层 | 公立学校基层教师、工会力量、多元文化与少数族裔社区代表 |
 > | 核心价值话语 | 卓越标准、国家安全、经济竞争力、责任问责、绩效评估 | 教育公平、民主参与、公民权保障、全人发展、批判性思考 |
 > | 斗争策略 | 媒体危机动员、跨国横向比较数据借力、州立法硬性达标 | 质疑测试有效性、揭露财政拨款短缺、抗议去专业化与污名化 |

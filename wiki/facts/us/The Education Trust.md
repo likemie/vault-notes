@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 19
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -46,6 +46,7 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Common Core State Standards]]"
+  - "[[American Federation of Teachers]]"
   - "[[House Committee on Education and the Workforce]]"
 related_arguments:
   - "[[Argument_Serpell_2020_EP]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-09-24
+updated: 2026-09-26
 ---
 
 # The Education Trust
@@ -89,7 +90,7 @@ updated: 2026-09-24
 > - **理事会（Board of Directors）** 汇聚全美民权领袖、前联邦及州教育行政长官、知名学者、商界与慈善界公共事务专家，负责确立宏观战略方向、监督资金使用合规性并维护非党派独立信誉。
 > - **执行团队与业务部门** 由全国总裁统一领导（历任领袖包括卡蒂·海科克、前美国教育部长约翰·金 John B. King Jr. 等），下设 K–12 政策与研究部、高等教育政策部、政府关系与立法事务部、战略传播部及各州分支。
 > - **数据分析与[[Quantitative Research|量化研究]]团队** 配备专业的计量经济学、教育测量学与公共政策分析师，独立清洗与挖掘联邦、州及学区教育大数据，确保所有倡导主张均建立在可复核的实证数据基础之上。
-> - **跨界合作与民权联盟网络** 与全美有色人种协进会（NAACP）、城市联盟（National Urban League）等民权组织以及全美教师联盟（AFT）保持紧密协同，构建多主体政策倡导同盟。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 11)]]
+> - **跨界合作与民权联盟网络** 与全美有色人种协进会（NAACP）、城市联盟（National Urban League）等民权组织以及[[American Federation of Teachers|全美教师联盟]]（AFT）保持紧密协同，构建多主体政策倡导同盟。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 11)]]
 
 > [!pathways]- 业务运行机制
 > - **数据挖掘与危机识别** 追踪美国国家教育进步评估（NAEP）、公民权利民意数据（CRDC）及联邦综合高等教育数据系统（IPEDS），将各州自设考试的虚假达标率与 NAEP 严密对照，制造各州标准普遍失效的危机证据。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]

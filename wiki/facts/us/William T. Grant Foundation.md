@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Democratising Evidence]]"
   - "[[Bildung]]"
   - "[[Scientific Method]]"
+  - "[[Discipline-Based Theory]]"
   - "[[Document]]"
   - "[[Academic Freedom]]"
   - "[[Blue Skies Research]]"
@@ -42,18 +43,21 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Action Research]]"
+  - "[[Cohort Study]]"
 related_instruments: []
 related_persons:
   - "[[Vivian Tseng]]"
 related_facts:
+  - "[[Common Core State Standards]]"
   - "[[Institute of Education Sciences]]"
 related_arguments:
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
   - "[[Argument_Li_2012_Cambridge]]"
+  - "[[Argument_McDonnell_2013_AJE]]"
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-16
+updated: 2026-09-26
 ---
 
 # William T. Grant Foundation
@@ -101,10 +105,10 @@ updated: 2026-09-16
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **研究证据利用（URE）资助专项** 全美唯一长期持续资助“关于[[Research Utilization\|证据使用]]的科学研究”（Research on research use）的常设基金，深刻阐明证据转化的微观组织生态与关系网络。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 220)]]
-> - **机构挑战资助（Institutional Challenge Grants）** 与斯宾塞基金会等联合设立，专项支持高校制度改革，促成大学在终身教职评审（Tenure review）中承认跨界社会服务，并允许学者为深度参与政策而暂停长聘评审计时钟。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 222–223)]]
-> - **《[[Research-Practice Partnership\|RPP]] 五维有效性评价框架》（Henrick et al., 2017）** 资助研制并发布的权威行业标准，从培育信任、严谨[[Action Research\|行动研究]]、支持学区目标、产出外溢知识与跨界能力建设五个维度评价伙伴关系。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 223)]]
-> - **全美教育研究-实践伙伴关系网络（NNERPP）扶持** 为连接各学区与高校的跨界 RPP 组织提供核心孵化与能力建设支持。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 221)]]
+> - **研究证据利用（URE）资助专项** 全美唯一长期持续资助“关于[[Research Utilization|证据使用]]的科学研究”（Research on research use）的常设基金，旨在将证据利用研究与政治学、社会学等更广阔的[[Discipline-Based Theory|学科理论]]深度整合。例如设立专项基金资助麦克唐奈与韦瑟福德团队开展全美[[Common Core State Standards|共同核心州立标准]]（CCSS）推进历程的重大实证追踪，揭示出实证研究如何与政治规范价值、专业实践经验在不同决策阶段发生阶段权变性融合，开创了宏观政策周期中多源证据互动的实证研究先河。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 220)]]; [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8, 20)]]
+> - **机构挑战资助（Institutional Challenge Grants）** 与斯宾塞基金会等联合设立，专项支持高校制度改革，促成大学在终身教职评审（Tenure review）中承认跨界社会服务，并允许学者为深度参与政策而暂停长聘评审计时钟。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 222–223)]]
+> - **《[[Research-Practice Partnership|RPP]] 五维有效性评价框架》（Henrick et al., 2017）** 资助研制并发布的权威行业标准，从培育信任、严谨[[Action Research|行动研究]]、支持学区目标、产出外溢知识与跨界能力建设五个维度评价伙伴关系。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 223)]]
+> - **全美教育研究-实践伙伴关系网络（NNERPP）扶持** 为连接各学区与高校的跨界 RPP 组织提供核心孵化与能力建设支持。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 221)]]
 
 > [!citation-card] 威廉·T·格兰特基金会使命与[[Democratising Evidence\|证据民主化]]宗旨
 > 长期以来，研究者与科研出资方对科研议题的设定拥有不成比例的支配权，导致研究往往只服务于填补学术期刊[[Document\|文献]]的空白，而非解决实践或政策的真实困境。如果我们把学生及其所在社区视为教育研究的最终受益人，那么他们的切身利益就必须处于研究设计的中心。推进证据民主化意味着科研议题必须由包括边缘社区在内的多元利益相关者共同审议决定。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
@@ -165,3 +169,5 @@ updated: 2026-09-16
 > | [[Boundary Spanner]] | Concept | 基金会要求在 RPP 资助预算中必须设立并支持的关键跨界协调员角色。 |
 > | [[Institute of Education Sciences]] | Fact (Organization) | 与格兰特基金会共同构成美国教育科研资助“官方国家队-独立慈善界”互补双中枢的联邦科学机构。 |
 > | [[Deficit Framing]] | Concept | 基金会严厉批判并要求在受资助研究中全面杜绝的将弱势学生视作能力匮乏的陈旧范式。 |
+> | [[Common Core State Standards]] | Fact (Policy) | 基金会 URE 资助项目所支持深度[[Cohort Study\|追踪研究]]的全美重大国家课程标准改革政策。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 获得基金会 URE 专项资助、剖析 CCSS 推进全周期证据利用与政治价值权变整合的代表性成果。 |

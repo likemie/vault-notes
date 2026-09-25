@@ -2029,6 +2029,18 @@
     ]
   },
   {
+    "title": "College and Career Readiness",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/College and Career Readiness.md",
+    "aliases": [
+      "大学与职业就绪",
+      "大学和职业就绪",
+      "CCR",
+      "升学与就业就绪",
+      "大学与职业准备"
+    ]
+  },
+  {
     "title": "Concurrency of Learning",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Concurrency of Learning.md",
@@ -12415,6 +12427,21 @@
       "传统多元主义",
       "经典多元主义",
       "利益集团多元主义"
+    ]
+  },
+  {
+    "title": "Punctuated Equilibrium Theory",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Punctuated Equilibrium Theory.md",
+    "aliases": [
+      "断裂平衡理论",
+      "间断均衡理论",
+      "间断平衡理论",
+      "PET",
+      "政策间断均衡理论",
+      "政策断裂平衡理论",
+      "Policy Monopoly",
+      "政策垄断"
     ]
   },
   {
@@ -25408,6 +25435,17 @@
     ]
   },
   {
+    "title": "American Federation of Teachers",
+    "type": "fact",
+    "path": "wiki/facts/us/American Federation of Teachers.md",
+    "aliases": [
+      "全美教师联盟",
+      "美国教师联合会",
+      "美国教师联盟",
+      "AFT"
+    ]
+  },
+  {
     "title": "Best Evidence Encyclopedia",
     "type": "fact",
     "path": "wiki/facts/us/Best Evidence Encyclopedia.md",
@@ -26308,6 +26346,18 @@
       "Quick Reads",
       "极速阅读",
       "快速阅读项目"
+    ]
+  },
+  {
+    "title": "Race to the Top",
+    "type": "fact",
+    "path": "wiki/facts/us/Race to the Top.md",
+    "aliases": [
+      "力争上游",
+      "力争上游计划",
+      "争向顶峰",
+      "争向顶峰计划",
+      "RTTT"
     ]
   },
   {

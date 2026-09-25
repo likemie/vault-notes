@@ -11,7 +11,7 @@ subtype: organization
 region: "us"
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 42
+fact_related_count: 43
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -60,6 +60,7 @@ related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[What Works Clearinghouse]]"
   - "[[Education Resources Information Center]]"
+  - "[[Race to the Top]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Education Endowment Foundation]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # National Center for Education Evaluation and Regional Assistance
@@ -100,7 +101,7 @@ updated: 2026-09-22
 
 > [!dev-timeline]- 组织发展历程
 > - **2002–2008 — 奠基与金标准确立期** ESRA 法案通过后设立 NCEE，启动[[What Works Clearinghouse\|有效干预清算中心]]（WWC），明确将高质量[[Randomised Controlled Trials\|随机对照试验]]（RCT）确立为识别因果有效性的黄金标准。2007 年资助并发布全美大规模教育软件现场实验（Dynarski et al., 2007），系统测试 16 款主流阅读与数学软件，首次在国家级评估中揭示了因果效应的高度情境[[Heterogeneity\|异质性]]。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]
-> - **2009–2015 — 规模化扩张与分层证据驱动** 配合奥巴马政府《美国复苏与再投资法案》（ARRA）和争向顶峰（Race to the Top）计划，受托承担总规模达 14 亿美元的投资创新项目（i3）独立评价监督，全面确立分层因果证据审查体系。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 50)]]
+> - **2009–2015 — 规模化扩张与分层证据驱动** 配合奥巴马政府《美国复苏与再投资法案》（ARRA）和[[Race to the Top|争向顶峰]]（Race to the Top）计划，受托承担总规模达 14 亿美元的投资创新项目（i3）独立评价监督，全面确立分层因果证据审查体系。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 50)]]
 > - **2016–至今 — 证据法典深化与英美跨国互鉴** 对接《每个学生都成功法案》（[[Every Student Succeeds Act\|ESSA]]）四大证据层级要求，持续升级 WWC 评价手册至第 5 版；与英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）共同构成全球教育现场因果评估的最大双引擎，其资助的试验构成了国际[[Evidence-Based Education\|循证教育]][[Meta-analysis\|元分析]]的基石。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]
 
 ---

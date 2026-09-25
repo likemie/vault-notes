@@ -6,7 +6,7 @@ aliases:
 summary: "教师在复杂、非线性的教学情境中整合研究证据、伦理标准、教育学原则与实践经验做出决策的核心专业能力，是 EIP 多源整合的枢纽与抵御技术官僚主义去专业化的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 65
+related_count: 66
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -73,6 +73,7 @@ related_persons: []
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
   - "[[Common Core State Standards]]"
+  - "[[American Federation of Teachers]]"
   - "[[Education Endowment Foundation]]"
   - "[[Social Ventures Australia]]"
 related_arguments:
@@ -91,7 +92,7 @@ related_instruments:
 confidence: high
 status: completed
 created: "2026-05-03"
-updated: 2026-09-25
+updated: 2026-09-26
 ---
 
 # Professional Judgment
@@ -173,7 +174,7 @@ updated: 2026-09-25
 > [!exegesis]- 实践理解与应用示例
 > 1. **课堂[[Teaching Assistant|教学助理]]（TA）配置决策** 面对外部工具包中教学助理低[[Effect Size|效应量]]的粗糙评级，具有专业判断力的学校管理者深入分析其低效源于缺乏备课沟通与协同规划，进而通过重组 TA 培训与备课时间表，将 TA 转化为提升弱势学生学业与心理支持的关键支柱。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 12)]]
 > 2. **复杂改革评估结果的多样化解读** 在巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 数字化教学改革中，面对复杂的[[Formative Assessment|形成性评估]]报告，校董、校长与一线教师运用专业判断，从各自关注的战略推进、预算可持续性与课堂教学负担等不同价值维度展开对话，避免了单一量化指标对复杂改革的武断扼杀。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, pp. 122–123)]]
-> 3. **宏观课程标准研制中的实证补位与可行性审查** 在美国州[[Common Core State Standards|共同核心标准]]（CCSS）研制中，面对高中数学高阶内容与文本复杂度等缺乏因果实证的领域，起草组依托菲尔·达罗（Phil Daro）、威廉·麦卡勒姆（William McCallum）与贾森·津巴（Jason Zimba）等数学家的学科逻辑演绎确定[[Epistemic Ascent|概念进阶]]，并由全美教师联合会（American Federation of Teachers, AFT）一线教师通过为期 2 天的逐条打印、剪贴并上墙比对进行实际教学可行性检验；最终 29 位跨学科验证委员会成员中有 25 位签名认可，其依据并非每项标准均有现成 [[Randomised Controlled Trials|RCT]] 数据，而是对起草过程中系统审慎运用专业判断的同行互信。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 14–16, 19)]]
+> 3. **宏观课程标准研制中的实证补位与可行性审查** 在美国州[[Common Core State Standards|共同核心标准]]（CCSS）研制中，面对高中数学高阶内容与文本复杂度等缺乏因果实证的领域，起草组依托菲尔·达罗（Phil Daro）、威廉·麦卡勒姆（William McCallum）与贾森·津巴（Jason Zimba）等数学家的学科逻辑演绎确定[[Epistemic Ascent|概念进阶]]，并由全美教师联合会（[[American Federation of Teachers]], AFT）一线教师通过为期 2 天的逐条打印、剪贴并上墙比对进行实际教学可行性检验；最终 29 位跨学科验证委员会成员中有 25 位签名认可，其依据并非每项标准均有现成 [[Randomised Controlled Trials|RCT]] 数据，而是对起草过程中系统审慎运用专业判断的同行互信。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 14–16, 19)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid

@@ -34,7 +34,8 @@ related_concepts:
   - "[[General Education]]"
   - "[[Literature Search]]"
   - "[[Operationalization]]"
-related_theories: []
+related_theories:
+  - "[[Punctuated Equilibrium Theory]]"
 related_methods:
   - "[[Cohort Study]]"
   - "[[Effect Size]]"
@@ -57,7 +58,7 @@ title: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_key: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_display_title: "Metrics, Incentives, Rewards, and Culture for Impact"
 argument_kind: "book"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -187,7 +188,7 @@ citation_aliases:
 > IBM 与意大利 Turin 大学合作，为其硕士项目的研究生提供 9–12 个月的实习机会。欧洲大学的制度环境使这一模式能够运转：许多欧洲大学要求工业经验作为研究生学位的一部分，意大利政府甚至资助学生实习(p.91)。Turin 大学通过竞争性申请筛选最佳学生进入实习，IBM 获得了在真实项目中表现优异的学生，学生获得了学位要求的工业经验并可能产出论文或参与 IP 创造。这是一个多赢结构：大学提升了硕士项目的吸引力（实习机会让项目"备受学生追捧"），企业以较低成本识别和筛选未来雇员，政府资助降低了各方的财务负担。这里的度量简单直接：招聘成功率和人才管道的持续运营。
 
 > [!example] Stanford 有机催化项目（小型 · 探索性研究）
-> IBM 的一位研究者与 Stanford 的一位教授合作，目标是启动一个不需要铂等重金属的催化领域（organocatalysis）。合作成功产出了一族能有效催化聚合和解聚合反应的有机分子，进而发现了一种解聚合聚对苯二甲酸乙二醇酯（polyethylene terephthalate, PET）的方法，可以回收塑料瓶和日益用于运动服装的聚酯纤维(p.92)。这里的度量看会议论文、出版物和 IP。值得注意的细节是创新路径的意外性：研究最初的关注点是催化本身，回收塑料瓶是研究过程中浮现的附带应用。这是探索性研究的典型特征，结果往往偏离最初的预期方向，度量也需要为这种意外发现留有空间。
+> IBM 的一位研究者与 Stanford 的一位教授合作，目标是启动一个不需要铂等重金属的催化领域（organocatalysis）。合作成功产出了一族能有效催化聚合和解聚合反应的有机分子，进而发现了一种解聚合聚对苯二甲酸乙二醇酯（polyethylene terephthalate, [[Punctuated Equilibrium Theory|PET]]）的方法，可以回收塑料瓶和日益用于运动服装的聚酯纤维(p.92)。这里的度量看会议论文、出版物和 IP。值得注意的细节是创新路径的意外性：研究最初的关注点是催化本身，回收塑料瓶是研究过程中浮现的附带应用。这是探索性研究的典型特征，结果往往偏离最初的预期方向，度量也需要为这种意外发现留有空间。
 
 > [!example] Notre Dame–IBM 科技伦理实验室（小型 · 科技伦理）
 > 聚焦大语言模型（large language models, LLMs）研究前沿的伦理挑战(p.92)。这类合作处于探索性研究和公共责任的交叉地带。科技伦理问题既是学术研究的前沿议题，也是企业社会责任（Responsibility 维度）中日益重要的组成部分。三所大学之间的小型合作项目各自独立运作，但六 R 框架使 GUP 团队能够在全球尺度上追踪每个领域的总投资和总产出。

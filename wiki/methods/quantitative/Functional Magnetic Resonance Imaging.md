@@ -8,9 +8,9 @@ summary: "功能性磁共振成像（fMRI）：通过测量脑区血液成分记
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 4
+method_related_count: 5
 method_related_level: 0
-method_related_stars: "☆"
+method_related_stars: ""
 method_related_color: "#dcfce7"
 tags:
 - fmri
@@ -20,7 +20,8 @@ tags:
 related_concepts:
   - "[[Prefrontal Cortex]]"
   - "[[Research Utilization]]"
-related_theories: []
+related_theories:
+  - "[[Punctuated Equilibrium Theory]]"
 related_methods:
   - "[[Electroencephalography]]"
 related_persons: []
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: 2026-09-26
 ---
 
 ## 定义
@@ -52,12 +53,12 @@ fMRI 测量特定脑区血液成分的存在，基于以下原理：活跃的脑
 
 > [!warning] 局限性
 > - 更适合确定空间信息（脑区位置），而非时间信息([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.2]])
-> - 大多数使用 fMRI 或 PET 技术的研究集中于 7 岁以上的儿童，对年幼儿童的研究较少([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.9]])
+> - 大多数使用 fMRI 或 [[Punctuated Equilibrium Theory|PET]] 技术的研究集中于 7 岁以上的儿童，对年幼儿童的研究较少([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.9]])
 
 ## 与其他技术的比较
 
 - **vs [[Electroencephalography|EEG]]** — fMRI 空间分辨率优于时间分辨率；EEG 可测量毫秒级脑活动增量，时间分辨率更佳([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.2]])
-- fMRI and PET 均可单独使用或与 EEG 结合使用，以关联认知功能任务表现与特定脑区([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.2]])
+- fMRI and [[Punctuated Equilibrium Theory|PET]] 均可单独使用或与 EEG 结合使用，以关联认知功能任务表现与特定脑区([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.2]])
 
 ## 相关研究
 

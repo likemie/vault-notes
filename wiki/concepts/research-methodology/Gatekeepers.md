@@ -12,7 +12,7 @@ aliases:
 summary: "涵盖微观质性研究准入审查者、中观学校组织变革过滤者（如校长）与宏观政策生命周期中决定方案去留的制度把关人（政治领袖、同行专家与法定表决机构）；其通过权力裁量、价值选择与认知过滤，决定了田野调查能否开展、校本变革如何落地以及政策证据形态的阶段演化。"
 type: concept
 domain: "research-methodology"
-related_count: 62
+related_count: 64
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -89,12 +89,15 @@ related_facts:
   - "[[TIMSS]]"
   - "[[PISA]]"
   - "[[National Education Association]]"
+  - "[[American Federation of Teachers]]"
   - "[[Common Core State Standards]]"
   - "[[No Child Left Behind Act 2001]]"
+related_theories:
+  - "[[Punctuated Equilibrium Theory]]"
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-09-25
+updated: 2026-09-26
 ---
 
 # Gatekeepers
@@ -365,7 +368,7 @@ Bogdan & Biklen（1992）提出了把关人在审查研究方案时核心关切�
 ### 3.1 核心定义与概念透镜
 
 > [!def] 核心定义
-> **宏观政策制度把关人（Macro-Policy Institutional Gatekeepers）** 指在公共政策制定与立法周期的关键关口（议程设置、方案设计、法定采纳）掌控政策选项通行动量与合法性授权的核心权威主体（涵盖民选行政首长、立法专委会主席、学科技术验证委员会、教师专业利益组织领袖与法定教育委员会）。政策并非在真空中自我推进，各阶段的制度把关人依据迥异的政治激励、问责风险与合法性逻辑对政策方案及其实证证据实施严格筛选；[[Policy Entrepreneur|政策企业家]]必须针对把关人的诉求形态提供权变证据（由宏观危机象征证据转向微观可行性证据与州级对照工具），方能打破既有政策垄断、通过专业可行性审查并最终实现法定采纳。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–6, 18–19)]]
+> **宏观政策制度把关人（Macro-Policy Institutional Gatekeepers）** 指在公共政策制定与立法周期的关键关口（议程设置、方案设计、法定采纳）掌控政策选项通行动量与合法性授权的核心权威主体（涵盖民选行政首长、立法专委会主席、学科技术验证委员会、教师专业利益组织领袖与法定教育委员会）。政策并非在真空中自我推进，各阶段的制度把关人依据迥异的政治激励、问责风险与合法性逻辑对政策方案及其实证证据实施严格筛选；[[Policy Entrepreneur|政策企业家]]必须针对把关人的诉求形态提供权变证据（由宏观危机象征证据转向微观可行性证据与州级对照工具），方能打破既有[[Punctuated Equilibrium Theory|政策垄断]]、通过专业可行性审查并最终实现法定采纳。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–6, 18–19)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 宏观政策[[Champ|场域]]中拥有议程否决权、专业合规审查权或法定表决权的制度枢纽节点。
@@ -383,7 +386,7 @@ Bogdan & Biklen（1992）提出了把关人在审查研究方案时核心关切�
 > | 政策阶段 | 核心制度把关人 | 把关人的核心考量与博弈逻辑 | 把关人所要求的证据形态与诉求 | 代表性把关案例 |
 > |---|---|---|---|---|
 > | **议程设置阶段（Problem Definition）** | 政治把关人：各州州长（NGA）、立法领袖、商业联盟领袖 | 核心价值契合度（国家经济竞争力、社会公平）；能否打破“政策垄断”（Policy Monopolies） | 宏观危机指标组合（NAEP 及格鸿沟、[[TIMSS]]/[[PISA]] 国际落差）与两党价值叙事 | 国家州长协会（NGA）与州首席教育官理事会（CCSSO）的高层政策动员（pp. 3–5, 8–10） |
-> | **方案设计阶段（Policy Design）** | 技术与专业把关人：29 人验证委员会、教师工会审查组（AFT、[[National Education Association\|NEA]]） | 真实课堂“是否行得通（feasible）”、逻辑连贯性、规避脱节晦涩的学术行话 | 学科公理逻辑推演、微观物理剪裁（AFT 切割贴墙测试）、同行专业审慎声誉 | AFT 教师两日物理剪裁对质、NEA 认证名师纠偏 ELA 技能与目标界定（pp. 6, 14–16, 20） |
+> | **方案设计阶段（Policy Design）** | 技术与专业把关人：29 人验证委员会、教师工会审查组（AFT、[[National Education Association\|NEA]]） | 真实课堂“是否行得通（feasible）”、逻辑连贯性、规避脱节晦涩的学术行话 | 学科公理逻辑推演、微观物理剪裁（[[American Federation of Teachers\|AFT]] 切割贴墙测试）、同行专业审慎声誉 | AFT 教师两日物理剪裁对质、NEA 认证名师纠偏 ELA 技能与目标界定（pp. 6, 14–16, 20） |
 > | **法定采纳阶段（Policy Enactment）** | 法定表决把关人：各州教育委员会（SBE）、州教育总监（Chiefs）、州议会专委会 | 本州宪法主权与既有法律兼容性、选民偏好与行政问责风险 | 微观逐条跨州比对工具（State-specific Crosswalks）、对国家级研制程序的政治信任 | 45 个州州立教育委员会闭门听证与表决批准（pp. 6, 16–18） |
 
 ### 3.3 核心理论命题

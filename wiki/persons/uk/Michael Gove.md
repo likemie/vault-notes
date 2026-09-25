@@ -8,7 +8,7 @@ summary: "英国保守党核心政治家、前教育大臣（2010–2014），�
 type: person
 nationality: "uk"
 person_region: "uk"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -47,6 +47,7 @@ related_facts:
   - "[[Pupil Premium]]"
   - "[[Ofsted]]"
   - "[[The Importance of Teaching]]"
+  - "[[Race to the Top]]"
   - "[[Sutton Trust]]"
   - "[[Impetus]]"
   - "[[Gaokao]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # Michael Gove
@@ -75,7 +76,7 @@ updated: 2026-09-22
 > - **代表贡献** 推动设立英国[[Education Endowment Foundation\|教育捐赠基金会]]留本基金（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）；主导推行[[Pupil Premium\|学生津贴]]与[[The Importance of Teaching\|《教学的重要性》]]白皮书；主导 2010–2014 英格兰基础教育结构性重塑与[[Mediatised Governance\|媒介化治理]]实践（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）。
 
 > [!citation-card] 创设独立教育捐赠基金会的战略决断（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）
-> 2010 年末，时任英国教育大臣迈克尔·戈夫（Michael Gove）受美国奥巴马政府“力争上游”（Race to the Top）计划启发，正式宣布设立独立基金会以改善英格兰处境不利学校的教学标准。2011 年初，由[[Peter Lampl\|彼得·兰普尔爵士]]（Sir Peter Lampl）领导的[[Sutton Trust\|萨顿信托]]联合 [[Impetus]] 在公开招标中胜出，政府正式向新设立的教育捐赠基金会（EEF）划拨 1.25 亿英镑初始留本基金，开启了英格兰在国家尺度上成规模推进因果试验的制度先河。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 47)]]
+> 2010 年末，时任英国教育大臣迈克尔·戈夫（Michael Gove）受美国奥巴马政府“[[Race to the Top|力争上游]]”（Race to the Top）计划启发，正式宣布设立独立基金会以改善英格兰处境不利学校的教学标准。2011 年初，由[[Peter Lampl\|彼得·兰普尔爵士]]（Sir Peter Lampl）领导的[[Sutton Trust\|萨顿信托]]联合 [[Impetus]] 在公开招标中胜出，政府正式向新设立的教育捐赠基金会（EEF）划拨 1.25 亿英镑初始留本基金，开启了英格兰在国家尺度上成规模推进因果试验的制度先河。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 47)]]
 >
 > *“In late 2010, Michael Gove, the then Secretary of State for Education, inspired by the Obama administration’s Race to the Top initiative, announced the establishment of an independent foundation to RAiSE standards in England’s underperforming schools... In 2011, the Sutton Trust in partnership with Impetus Trust was awarded the £125 million grant to establish the EEF.”*
 

@@ -37,6 +37,7 @@ related_concepts:
   - "[[Innovation Hub]]"
 related_theories:
   - "[[Triple Helix]]"
+  - "[[Punctuated Equilibrium Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Case Study]]"
@@ -63,7 +64,7 @@ title: "Argument_Boccanfuso_Hall_2025_Alignment"
 argument_key: "Argument_Boccanfuso_Hall_2025_Alignment"
 argument_display_title: "Alignment, Engagement, and Public Benefits"
 argument_kind: "book"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -165,7 +166,7 @@ citation_aliases:
 **步骤 5：成功——但不容易**
 
 四个案例展示了产学合作的可能性和多样性(pp.7–8)：
-- **IBM-斯坦福** 合作研发无需铂等贵金属的催化技术，发现了回收 PET 塑料瓶和聚酯纤维的新方法
+- **IBM-斯坦福** 合作研发无需铂等贵金属的催化技术，发现了回收 [[Punctuated Equilibrium Theory|PET]] 塑料瓶和聚酯纤维的新方法
 - **波音-谢菲尔德大学** 建立[[Advanced Manufacturing Research Centre|先进制造研究中心]]（AMRC），截至 2024 年拥有 600+ 研究人员、120+ 行业成员、年经费约 4000 万英镑
 - **Houston Methodist-Medtronic** 合作开展经导管主动脉瓣置换术（TAVR）的临床试验，改变了心脏瓣膜修复的[[Paradigm|范式]]
 - **Mars-UC Davis-阿肯色大学** 合作研究水稻"干湿交替"（AWD）灌溉技术，显著减少用水和温室气体排放而不减产

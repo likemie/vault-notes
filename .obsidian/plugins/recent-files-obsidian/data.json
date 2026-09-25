@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "William T. Grant Foundation",
-      "path": "wiki/facts/us/William T. Grant Foundation.md"
-    },
-    {
       "basename": "Argument_McDonnell_2013_AJE",
       "path": "wiki/arguments/journal-articles/American Journal of Education/Argument_McDonnell_2013_AJE.md"
+    },
+    {
+      "basename": "Race to the Top",
+      "path": "wiki/facts/us/Race to the Top.md"
+    },
+    {
+      "basename": "Epistemic Ascent",
+      "path": "wiki/concepts/curriculum/Epistemic Ascent.md"
+    },
+    {
+      "basename": "In-depth Interview",
+      "path": "wiki/methods/qualitative/In-depth Interview.md"
+    },
+    {
+      "basename": "Elite Interview",
+      "path": "wiki/methods/qualitative/Elite Interview.md"
+    },
+    {
+      "basename": "William T. Grant Foundation",
+      "path": "wiki/facts/us/William T. Grant Foundation.md"
     },
     {
       "basename": "Gatekeepers",
@@ -31,10 +47,6 @@
     {
       "basename": "Learning Progression",
       "path": "wiki/concepts/curriculum/Learning Progression.md"
-    },
-    {
-      "basename": "Epistemic Ascent",
-      "path": "wiki/concepts/curriculum/Epistemic Ascent.md"
     },
     {
       "basename": "Knowledge-Based Economy",
@@ -187,18 +199,6 @@
     {
       "basename": "Argument_Jovchevski_2026_PT",
       "path": "wiki/arguments/journal-articles/Philosophy & Technology/Argument_Jovchevski_2026_PT.md"
-    },
-    {
-      "basename": "Miranda Fricker",
-      "path": "wiki/persons/uk/Miranda Fricker.md"
-    },
-    {
-      "basename": "Alien Intelligence",
-      "path": "wiki/concepts/educational-technology/Alien Intelligence.md"
-    },
-    {
-      "basename": "Banking Model of Education",
-      "path": "wiki/concepts/educational-philosophy/Banking Model of Education.md"
     }
   ],
   "omittedPaths": [],
