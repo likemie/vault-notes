@@ -88,6 +88,7 @@ related_methods:
 related_facts:
   - "[[PISA]]"
   - "[[TIMSS]]"
+  - "[[National Assessment of Educational Progress]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
@@ -564,7 +565,7 @@ Borg & Gall (1979, p. 291)对队列研究和面板研究做出了关键区分。
 > [!def] 趋势研究的运作机制
 > 趋势研究关注**因素而非人群**，持续研究这些因素随时间的变化。在数据收集的每个阶段抽取**新样本**，但聚焦**相同因素**。每次抽取不同样本可以避免**反应性（reactivity）**问题：在追踪同一批人的纵向研究中，首次调查本身可能改变参与者的认知或行为——例如健康调查提醒了吸烟的危害，使受访者在第二轮前主动戒烟，此时记录的变化是调查"制造"的而非自然发生的（即[[Pre-test Sensitisation\|预试敏感化]]，pre-test sensitisation）。趋势研究通过每轮更换样本切断了这种"自我污染"的链条，每一轮的数据都来自对调查主题完全新鲜的受访者（p.269）。
 
-趋势或预测研究对教育管理者或规划者具有明显的重要性。趋势研究检查已记录的数据以建立已发生的变化模式，从而预测未来可能发生的情况。在趋势研究中，两项或更多横截面研究在多个时间点对相同年龄组进行，以便进行跨时间比较，如美国学术能力与成就测试（Scholastic Aptitude and Achievement tests）(Keeves, 1997a, p. 141)和美国国家教育进展评估（National Assessment of Educational Progress，NAEP）结果(Lietz & Keeves, 1997, p. 122)。
+趋势或预测研究对教育管理者或规划者具有明显的重要性。趋势研究检查已记录的数据以建立已发生的变化模式，从而预测未来可能发生的情况。在趋势研究中，两项或更多横截面研究在多个时间点对相同年龄组进行，以便进行跨时间比较，如美国学术能力与成就测试（Scholastic Aptitude and Achievement tests）(Keeves, 1997a, p. 141)和美国国家教育进展评估（[[National Assessment of Educational Progress]]，NAEP）结果(Lietz & Keeves, 1997, p. 122)。
 
 > [!warning] 趋势研究的两个主要困难
 > 1. **不可预测因素的侵入** 使基于过去数据的预测失效。因此**短期趋势研究往往比长期分析更准确**。

@@ -46,6 +46,8 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Common Core State Standards]]"
+  - "[[Achieve]]"
+  - "[[National Assessment of Educational Progress]]"
   - "[[American Federation of Teachers]]"
   - "[[House Committee on Education and the Workforce]]"
 related_arguments:
@@ -78,8 +80,8 @@ updated: 2026-09-26
 
 > [!dev-timeline] 组织发展历程
 > - **1990–1996 — 创设与独立奠基期** 聚焦于揭示全美[[Academic Achievement|学业成就]]鸿沟的严峻现实，率先利用国家教育统计数据绘制州与学区层面的种族与收入学力差距图谱，打破当时学界与公众对贫困学生无法达到高学业标准的刻板赤字观念。
-> - **1997–2008 — 介入联邦问责立法与跨州标准联盟** 深度介入 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）立法辩论，推动将亚群数据分解写入法案；与此同时，联合阿奇夫（Achieve）与福特汉姆基金会（Thomas B. Fordham Foundation）发起美国文凭项目（ADP），持续发布各州标准质量评价报告，成为跨州标准改革的核心智囊。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
-> - **2009–2014 — 推动[[Common Core State Standards|共同核心标准]]与民权价值绑定** 作为推动[[Common Core State Standards|共同核心州立标准]]（CCSS）的关键[[Policy Entrepreneur|政策企业家]]之一，卡蒂·海科克等机构领袖密集动员全国教育进展评估（NAEP）映射数据，揭露各州自设标准虚假高及格率的向下沉沦现象，成功将统一学术标准与消除教育不平等、促进社会流动的民权叙事深度绑定。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–11)]]
+> - **1997–2008 — 介入联邦问责立法与跨州标准联盟** 深度介入 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）立法辩论，推动将亚群数据分解写入法案；与此同时，联合[[Achieve|阿奇夫]]（Achieve）与福特汉姆基金会（Thomas B. Fordham Foundation）发起美国文凭项目（ADP），持续发布各州标准质量评价报告，成为跨州标准改革的核心智囊。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
+> - **2009–2014 — 推动[[Common Core State Standards|共同核心标准]]与民权价值绑定** 作为推动[[Common Core State Standards|共同核心州立标准]]（CCSS）的关键[[Policy Entrepreneur|政策企业家]]之一，卡蒂·海科克等机构领袖密集动员[[National Assessment of Educational Progress|全国教育进展评估]]（NAEP）映射数据，揭露各州自设标准虚假高及格率的向下沉沦现象，成功将统一学术标准与消除教育不平等、促进社会流动的民权叙事深度绑定。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–11)]]
 > - **2015–至今 — 跨部门多元治理与高等教育公平扩展** 在 2015 年《每个学生都成功法》（[[Every Student Succeeds Act|ESSA]]）制定过程中，积极捍卫弱势亚群问责底线；同时将研究与倡导职能系统拓展至高等教育领域，重点攻坚大学资助分配不均、低收入学生毕业率差距及少数族裔师资队伍建设等系统性议题。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–42)]]
 
 ---
@@ -93,7 +95,7 @@ updated: 2026-09-26
 > - **跨界合作与民权联盟网络** 与全美有色人种协进会（NAACP）、城市联盟（National Urban League）等民权组织以及[[American Federation of Teachers|全美教师联盟]]（AFT）保持紧密协同，构建多主体政策倡导同盟。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 11)]]
 
 > [!pathways]- 业务运行机制
-> - **数据挖掘与危机识别** 追踪美国国家教育进步评估（NAEP）、公民权利民意数据（CRDC）及联邦综合高等教育数据系统（IPEDS），将各州自设考试的虚假达标率与 NAEP 严密对照，制造各州标准普遍失效的危机证据。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
+> - **数据挖掘与危机识别** 追踪美国国家教育进步评估（[[National Assessment of Educational Progress|NAEP]]）、公民权利民意数据（CRDC）及联邦综合高等教育数据系统（IPEDS），将各州自设考试的虚假达标率与 NAEP 严密对照，制造各州标准普遍失效的危机证据。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
 > - **双向[[Transfer Translation Transformation|转译]]与立法塑形** 将学术界高度专业化的计量模型和因果评估发现，[[Transfer Translation Transformation|转译]]为国会幕僚与州议员立即可读的图表、对比清单与立法建议备忘录，并协助议员起草示范法案条文。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 45)]]
 > - **价值绑定与联盟动员** 将冰冷的数据嵌入教育机会均等与民权保护的核心价值框架中，使政策方案能够跨越党派壁垒，同时赢得自由派民权团体与温和派立法者的支持。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 10–11)]]
 
@@ -118,7 +120,7 @@ updated: 2026-09-26
 
 > [!indicators]- 影响力维度与指标
 > - **资源与资助网络** 作为全美最具实力的 18 家教育组织之一，获得盖茨基金会数千万美元专项资助支持，常态化参与全美每周教育政策策略协调会。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 20, 22)]]
-> - **政策与制度渗透** 主导将学生亚群数据分解写入联邦 [[No Child Left Behind Act 2001|NCLB]] 法案；与 Achieve 联合构建的跨州标准网络为 45 州采纳 [[Common Core State Standards|CCSS]] 奠定了早期制度基础。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–42)]]; [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8, 16)]]
+> - **政策与制度渗透** 主导将学生亚群数据分解写入联邦 [[No Child Left Behind Act 2001|NCLB]] 法案；与 [[Achieve]] 联合构建的跨州标准网络为 45 州采纳 [[Common Core State Standards|CCSS]] 奠定了早期制度基础。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–42)]]; [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8, 16)]]
 > - **公共话语与观念重构** 将单纯的学术测试指标升华为衡量民权与教育正义的国家标尺，打破了长期以来掩盖薄弱学校与弱势学生学业失败的平均主义繁荣假象。
 
 > [!finding-cards] 关键成效与辐射影响
@@ -129,7 +131,7 @@ updated: 2026-09-26
 
 > [!stat-cards]- 核心规模数据
 > - **18 家** 获得盖茨基金会核心资助推动全国统一学术标准的全国性骨干机构数量（EdTrust 位列其中）。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 22)]]
-> - **50 州** EdTrust 长期开展学术标准质量评估与 NAEP 成绩映射比对所覆盖的美国州级系统总数。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
+> - **50 州** EdTrust 长期开展学术标准质量评估与 [[National Assessment of Educational Progress|NAEP]] 成绩映射比对所覆盖的美国州级系统总数。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
 > - **5 个** EdTrust 在加利福尼亚、纽约、得克萨斯、田纳西、路易斯安那等教育大州设立的常设州级办公室数量。
 > - **1996 年** EdTrust 在卡蒂·海科克领导下正式独立注册为全国非营利法人的年份。
 
@@ -165,5 +167,5 @@ updated: 2026-09-26
 > | [[Educational Brokerage Agency]] | Concept | 机构功能：作为连接大学学术研究象牙塔与立法决策中枢的典型知识经纪中介。 |
 > | [[No Child Left Behind Act 2001]] | Fact (Policy) | 历史立法渊源：EdTrust 推动将亚群数据分解写入法案，确立了联邦循证问责的法理框架。 |
 > | [[Every Student Succeeds Act]] | Fact (Policy) | 后续法案转型：EdTrust 积极介入法案重新授权辩论，捍卫弱势群体的民权问责底线。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 核心实证来源：系统分析 EdTrust 与 Achieve 等智库在通用标准议程设置中的证据动员逻辑。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 核心实证来源：系统分析 EdTrust 与 [[Achieve]] 等智库在通用标准议程设置中的证据动员逻辑。 |
 > | [[Argument_Serpell_2020_EP\|Serpell (2020)]] | Argument | 核心实证来源：将 EdTrust 作为国会立法生态中典型的全国性知识经纪中介进行案例剖析。 |

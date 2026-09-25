@@ -73,6 +73,7 @@ related_methods:
   - "[[Participant Observation]]"
   - "[[In-depth Interview]]"
   - "[[Case Study]]"
+  - "[[Process Tracing]]"
   - "[[Experimental Research]]"
   - "[[Elite Interview]]"
 related_persons:
@@ -345,7 +346,7 @@ updated: 2026-09-17
 > | **实验设计与因果识别** | [[Randomised Controlled Trials\|RCT（个体/整群随机分配）]]、高控制实验室测试 | 准实验、自然实验、工具[[Variable\|变量]]估计（IV）、断点回归（RD）、双重差分（DID）、合成控制 |
 > | **证据聚合与知识综合** | 统计[[Meta-analysis\|元分析]]、[[Effect Size\|效应量]]汇总排名（如 [[EEF Teaching and Learning Toolkit\|EEF Toolkit]]） | [[Realism in International Relations\|现实主义]]综合、质性元[[Ethnography\|人种志]]、定性比较分析（[[Qualitative Content Analysis\|QCA]]）、范围综述 |
 > | **机制探究与微观过程** | 课堂干预黑箱测试（输入干预 → 测后分数） | 问卷调查、[[Participant Observation\|参与观察]]、[[In-depth Interview\|深度访谈]]、[[Case Study\|案例研究]]、课堂微观话语分析 |
-> | **动态推论与宏观叙事** | 跨情境线性平均效应外推 | 过程追踪、分析性历史叙事、制度比较分析、复杂系统建模 |
+> | **动态推论与宏观叙事** | 跨情境线性平均效应外推 | [[Process Tracing\|过程追踪]]、分析性历史叙事、制度比较分析、复杂系统建模 |
 
 > [!row-contrast] 循证教育方法与证据危机代表性实证研究对比
 > | 研究[[Document\|文献]] | 考察对象与核心样本 | 核心实证发现与统计指标 | 揭示的 EBE 局限与方法学意义 |

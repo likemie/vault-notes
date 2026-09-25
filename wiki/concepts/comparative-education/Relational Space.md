@@ -51,6 +51,7 @@ related_theories:
 related_methods:
   - "[[Network Analysis]]"
   - "[[Effect Size]]"
+  - "[[Process Tracing]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[Jason Beech]]"
@@ -233,7 +234,7 @@ updated: 2026-09-24
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 挪威能力课程改革（5 个专家委员会[[Document\|文献]] vs 最终部长令）；全球 30 个涉教育国际组织 | 跨国政策咨询文献引用网络追踪；国际组织职能分类数据库 | 政策咨询采纳率；经济类国际组织在教育领域的占比 | 专家委员会共引 464 篇文献，最终部长令急剧收缩至 22 篇（其中 20 篇被[[OECD\|经合组织]]审查组垄断）；涉教育国际组织中 33.3% 属于经济协调类 | — | 实证揭示主权国家在关系性[[Transfer Space\|转移空间]]中跨周期的剧烈行政过滤，以及跨界经济组织在关系性网络中的优势地位 |
-> | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]; [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 澳大利亚公立教育政策网络与国家级证据中介（[[Social Ventures Australia\|SVA]]、[[Australian Philanthropic Services\|APS]]、[[Australian Schools Plus]]、[[Evidence for Learning\|E4L]]、[[Australian Education Research Organisation\|AERO]] 历时二十年网络） | 质性网络拓扑测绘（Gephi）、监管档案调档、税法与公司法文本追踪（过程追踪与社会-物质分析） | 组织间[[Co-affiliation\|共同从属度]]；董事会兼职频次；立法特许条款与免税资质获批 | 揭示 4 层控股网络及跨界投行精英在 5 个中介实体间高度重叠兼职；推动《1997年所得税评估法》修正特许 [[Deductible Gift Recipient\|DGR1]] 避税资质；获得 5000 万澳元公私联合注资及 1500 万澳元非公开竞标 | — | 实证证明关系性空间通过法律规章与中介实体等耐用客体得以物理化锚定，生成独立于科层管辖的异层治理秩序 |
+> | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]; [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 澳大利亚公立教育政策网络与国家级证据中介（[[Social Ventures Australia\|SVA]]、[[Australian Philanthropic Services\|APS]]、[[Australian Schools Plus]]、[[Evidence for Learning\|E4L]]、[[Australian Education Research Organisation\|AERO]] 历时二十年网络） | 质性网络拓扑测绘（Gephi）、监管档案调档、税法与公司法文本追踪（[[Process Tracing\|过程追踪]]与社会-物质分析） | 组织间[[Co-affiliation\|共同从属度]]；董事会兼职频次；立法特许条款与免税资质获批 | 揭示 4 层控股网络及跨界投行精英在 5 个中介实体间高度重叠兼职；推动《1997年所得税评估法》修正特许 [[Deductible Gift Recipient\|DGR1]] 避税资质；获得 5000 万澳元公私联合注资及 1500 万澳元非公开竞标 | — | 实证证明关系性空间通过法律规章与中介实体等耐用客体得以物理化锚定，生成独立于科层管辖的异层治理秩序 |
 
 ---
 

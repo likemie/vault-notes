@@ -115,6 +115,7 @@ related_persons:
   - "[[John Bangs]]"
 related_facts:
   - "[[TIMSS]]"
+  - "[[National Assessment of Educational Progress]]"
   - "[[Ofsted]]"
   - "[[Education International]]"
   - "[[National Education Association]]"
@@ -207,7 +208,7 @@ updated: 2026-09-25
 > - **三种基本使用形态（Weiss, 1979）** [[Conceptual, Instrumental, and Symbolic Use of Research|概念性使用]]（启发思维与更新观念）、[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]（直接指导具体决策）与象征性使用（为既定立场背书）。
 > - **四种经典过程模型（Weiss, 1991b）** 研发模型（线性流水线转化）、[[Problem Solving|问题解决]]模型（按需调用工具箱）、互动模型（研究者与决策者多边对话）与战术模型（政治推诿与辩护）。
 > - **三代知识到行动演进模型（Best & Holmes, 2010）** 第一代关注线性单向的“知识推送”（Push model）；第二代强调生产者与使用者的关系型“[[Knowledge Co-production|协同生产]]”（Co-production）；第三代迈向“系统与程序路径”（Systems and procedural approach），拆解政策各阶段的证据利用能力与支持生态。
-> - **政策全生命周期阶段依随型证据利用模型（Stage-Contingent Utilization Model; [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013]]）** 破除线性[[Technical Rationality|技术理性]]转化假定，实证揭示研究在政策不同阶段扮演截然不同的功能形态：① **议程设置（Agenda Setting）**，概念性启发与象征性动员，利用跨国评估数据（如 [[TIMSS]]、NAEP）将教育短板包装为关乎国家经济竞争力的生存危机；② **方案研制（Policy Formulation）**，去政治化护盾与知识补位，研究证据提供政治避风港以抵御利益集团压力，在因果实证断层处由学科专家逻辑演绎与一线教师[[Professional Judgment|专业判断]]协同补位；③ **政策采纳（Policy Adoption）**，微观工具性比对与同行信任代理，依托交叉比对分析（Crosswalks）证明合规性，并通过多学科专家验证委员会的同行声誉完成[[Epistemology|认识论]]信任委托。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 11–16, 19)]]
+> - **政策全生命周期阶段依随型证据利用模型（Stage-Contingent Utilization Model; [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013]]）** 破除线性[[Technical Rationality|技术理性]]转化假定，实证揭示研究在政策不同阶段扮演截然不同的功能形态：① **议程设置（Agenda Setting）**，概念性启发与象征性动员，利用跨国评估数据（如 [[TIMSS]]、[[National Assessment of Educational Progress|NAEP]]）将教育短板包装为关乎国家经济竞争力的生存危机；② **方案研制（Policy Formulation）**，去政治化护盾与知识补位，研究证据提供政治避风港以抵御利益集团压力，在因果实证断层处由学科专家逻辑演绎与一线教师[[Professional Judgment|专业判断]]协同补位；③ **政策采纳（Policy Adoption）**，微观工具性比对与同行信任代理，依托交叉比对分析（Crosswalks）证明合规性，并通过多学科专家验证委员会的同行声誉完成[[Epistemology|认识论]]信任委托。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 11–16, 19)]]
 > - **研究证据质量使用（[[Quality Use of Research Evidence Framework|QURE]]）双核构件** 马克·里克森（[[Mark Rickinson]]）等基于跨四大实践领域 112 篇核心[[Document|文献]]的[[Systematic Review|系统综述]]，打破侧重“证据生产质量”或二元采纳的局限，确立高质量使用的双核心构件：① **适切研究证据（Appropriate Research Evidence）**，要求研究证据兼具方法学严谨性与针对具体教育问题、现场情境脉络及预期用途的三维适配（Nutley et al., 2013）；② **审慎参与和实施（Thoughtful Engagement and Implementation）**，要求教育者克服证据自行发声的幻想（Coburn et al., 2009），能动地开展批判研读、集体审议与日常情境化整合（Sharples, 2013）。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 140–145)]]
 
 基础形态学确立了研究利用的分类基础与历史范式；然而，研究成果能否真正转化为实践效能，关键取决于微观一线专业人员的心理认知驱动与教学行为情境。

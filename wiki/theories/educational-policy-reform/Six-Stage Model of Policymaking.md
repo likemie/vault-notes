@@ -52,11 +52,13 @@ related_methods:
   - "[[Observation Method]]"
   - "[[Expert Interview]]"
   - "[[Correlational Research]]"
+  - "[[Process Tracing]]"
 related_instruments: []
 related_persons:
   - "[[John Dewey]]"
 related_facts:
   - "[[Common Core State Standards]]"
+  - "[[National Assessment of Educational Progress]]"
   - "[[TIMSS]]"
   - "[[American Federation of Teachers]]"
   - "[[Race to the Top]]"
@@ -134,7 +136,7 @@ updated: 2026-09-26
 > [!theory-proposition] 命题二｜实证证据的形态与功能随政策生命周期发生阶段权变性演变
 > **解释** 传统的循证决策理论往往抱持[[Technical Rationality|技术理性]]假说，误以为学术研究能像工程图纸一样单向决定政策方案。然而，实证研究证据在政策生命周期中展现出强烈的阶段权变性：在前端阶段，证据主要充当概念性与象征性工具，与两党根本价值绑定以制造危机共识；在中端方案研制阶段，诉诸科学证据主要充当抵御外部政治与意识形态游说的技术护栏，且面对实证匮乏必须依赖专家的内在学科逻辑与一线教师的实践经验补位；在后端合法化阶段，宏观学术[[Document|文献]]退居幕后，高度[[Operationalization|操作化]]的逐条对标工具（Crosswalks）与财政激励成为促成表决的关键。实证研究永远无法脱离行动者的专业经验和政治价值而独立发挥作用。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 1–3, 18–19)]]; [[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 43–46)]]
 >
-> **应用实例** 在美国[[Common Core State Standards|共同核心州立标准]]（CCSS）改革全流程中：在议程设置阶段，倡导者整合 NAEP 及格鸿沟与 [[TIMSS]] 国际落差等宏观实证指标，同国家经济竞争力和教育公平话语绑定，打破百年分散标准的[[Punctuated Equilibrium Theory|政策垄断]]；在方案设计阶段，起草团队确立实证至上原则抵御利益集团谈判，面对高年级实证缺乏，依托数学家公理推演与 [[American Federation of Teachers|AFT]] 骨干教师连续两日物理剪裁条文完成定稿；在各州法定采纳阶段，学术论文淡出听证会，各州教委依靠智库制作的逐条对标报告（Crosswalks）与 43.5 亿美元[[Race to the Top|力争上游]]（RTTT）拨款窗口迅速完成法定采纳。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–18)]]
+> **应用实例** 在美国[[Common Core State Standards|共同核心州立标准]]（CCSS）改革全流程中：在议程设置阶段，倡导者整合 [[National Assessment of Educational Progress|NAEP]] 及格鸿沟与 [[TIMSS]] 国际落差等宏观实证指标，同国家经济竞争力和教育公平话语绑定，打破百年分散标准的[[Punctuated Equilibrium Theory|政策垄断]]；在方案设计阶段，起草团队确立实证至上原则抵御利益集团谈判，面对高年级实证缺乏，依托数学家公理推演与 [[American Federation of Teachers|AFT]] 骨干教师连续两日物理剪裁条文完成定稿；在各州法定采纳阶段，学术论文淡出听证会，各州教委依靠智库制作的逐条对标报告（Crosswalks）与 43.5 亿美元[[Race to the Top|力争上游]]（RTTT）拨款窗口迅速完成法定采纳。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–18)]]
 
 > [!theory-proposition] 命题三｜末端政策评估与前端[[Problem Finding|问题界定]]构成动态非线性回流反馈闭环
 > **解释** 政策过程并非单向不可逆的线性流水线，而是螺旋式迭代的闭环系统。第六阶段的政策评估不仅是对过往干预措施成效的终结性评判，更是新一轮政策周期的触发器。当[[Implementation and Process Evaluation|实施评估]]揭示出既有政策存在严重目标偏移、负向副效应或规制失灵时，评估结果将直接回流至第一阶段，重新定义社会问题并促成现行法律的废除、更新或重大修正。评估活动具有承上启下的双重属性，既是上一轮周期的终点，也是下一轮周期的起点。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 43)]]
@@ -212,5 +214,5 @@ updated: 2026-09-26
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Serpell_2020_EP\|Serpell (2020)]] — 结合美国国会立法实务，将六阶段模型引入教育立法研究，构建面向教育研究者的前瞻[[Navigational Framework for Educational Researchers|政策导航框架]]。
-> - [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] — 运用阶段启发式透镜过程追踪[[Common Core State Standards|共同核心标准]]运动，实证提炼出实证研究、专业经验与政治价值的三阶段权变整合理论。
+> - [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] — 运用阶段启发式透镜[[Process Tracing|过程追踪]][[Common Core State Standards|共同核心标准]]运动，实证提炼出实证研究、专业经验与政治价值的三阶段权变整合理论。
 > - Oakley et al. (2013) — 对公共政策全过程六阶段模型进行系统建构与实证检验，奠定标准六阶段框架的现代实证基础。

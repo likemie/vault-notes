@@ -110,6 +110,7 @@ related_facts:
   - "[[Literacy Octopus]]"
   - "[[National Pupil Database]]"
   - "[[Scientific Advisory Group for Emergencies]]"
+  - "[[Achieve]]"
 related_instruments:
   - "[[EMMIE Framework]]"
 status: draft
@@ -618,7 +619,7 @@ sources:
 > [!citation-card] [[Evidence Ecosystem\|证据生态系统]]的双层嵌套与外层大系统主导性
 > 证据活动绝非孤立存在。它们深嵌于科研之外极其复杂的系统之中，其中交织着多元行动者与主导力量，各方均拥有自身的优先事项、工作节奏、制度流程与内在动机——例如政策体系、改进体系、资助体系以及问责体系。在这一系统模型下，知识中介机构唯有同外部组织及其运转系统深度融合时，方能真正发挥效力。简言之，即便你在理论上打造了一个流程极其严谨、构件紧密相连的优雅证据生态系统，但如果这些活动未能在外层大系统中获得实质性的制度牵引力，其最终产生的影响也将微乎其微。（p. 150）
 >
-> *Evidence activities do not work in isolation. They sit within complex systems outside of research, with multiple actors and influences, each with their own priorities, processes, timescales and motivations e.g. policy, improvement, funding, accountability systems. In this type of "systems" model, KBIs are effective when they integrate well with external organisations and the systems in which they operate. Put another way, you could, in theory, create an elegant evidence ecosystem with excellent, well-connected processes yet have little impact if those activities fail to achieve traction in the wider systems.*
+> *Evidence activities do not work in isolation. They sit within complex systems outside of research, with multiple actors and influences, each with their own priorities, processes, timescales and motivations e.g. policy, improvement, funding, accountability systems. In this type of "systems" model, KBIs are effective when they integrate well with external organisations and the systems in which they operate. Put another way, you could, in theory, create an elegant evidence ecosystem with excellent, well-connected processes yet have little impact if those activities fail to [[Achieve]] traction in the wider systems.*
 
 > [!citation-card] 单纯信息传播[[Hypothesis\|假设]]的实证破产
 > 传播研究发现往往被视作支持用户参与和决策的默认捷径。然而，来自关于研究应用的研究的大量实证表明，单纯传播研究发现本身，与这些研究发现被实际利用之间没有任何必然联系。英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）针对向教师传播识字研究成果所开展的多臂[[Randomised Controlled Trials\|随机对照试验]]证明了这一点：没有任何证据表明单一传播策略在孤立状态下能够产生任何显著效果。传递证据绝不等于保证它会被付诸使用。（p. 152）

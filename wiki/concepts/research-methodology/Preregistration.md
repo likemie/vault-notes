@@ -56,6 +56,7 @@ related_methods:
   - "[[Generalized Estimating Equations]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Grounded Theory]]"
+  - "[[Process Tracing]]"
   - "[[Correlational Research]]"
 related_instruments:
   - "[[TIDieR]]"
@@ -270,7 +271,7 @@ updated: 2026-09-22
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | Connolly et al. (2018) | 全球 1980–2016 年 1,017 项教育试验（见 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]） | 历史[[Document\|文献]]元调查 | 试验中包含[[Implementation and Process Evaluation\|过程评估]]（IPE）的比例 | 38% | — | 说明早期教育试验缺乏方案预注册与过程追踪，普遍处于机制黑箱状态 |
+> | Connolly et al. (2018) | 全球 1980–2016 年 1,017 项教育试验（见 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]） | 历史[[Document\|文献]]元调查 | 试验中包含[[Implementation and Process Evaluation\|过程评估]]（IPE）的比例 | 38% | — | 说明早期教育试验缺乏方案预注册与[[Process Tracing\|过程追踪]]，普遍处于机制黑箱状态 |
 > | The EEF (2019c) 评估集 | 英格兰公立中小学 150+ 项 [[Education Endowment Foundation\|EEF]] 资助的大规模学校 [[Randomised Controlled Trials\|RCT]]（逾 8,000 校次） | 制度运行与[[Literature Review\|文献回顾]] | 方案预注册、[[Statistical Analysis Plan\|SAP]] 公开及获 3 锁以上评级比例 | 方案与 SAP 100% 事前预注册与公开；85% 的已发表评估报告获得 3 把锁及以上安全评级 | 平均[[Attrition\|流失]]率严格控制在 30% 以下（早期为 24%） | 证明强制预注册与三方独立协议可有效保障大规模现场试验的方法学质量 |
 > | Xiao et al. (2016) 复算审计 | 杜伦大学对 EEF 早期 17 项已归档 RCT 的四模型复算研究 | 开放数据二次复算 | 简单均值、[[Covariate Adjustment\|协变量调整]]、HLM 与 GEE 四种模型的估计差异 | 统计分析模型设定导致效应量估计值大幅漂移 | 模型间差异具统计实质性 | 实证证明若不预先在 SAP 中刚性锁定模型与协变量，[[Researcher Degrees of Freedom\|研究者自由度]]极易扭曲结论 |
 > | EEF-NPD 开放档案库 | 英格兰[[National Pupil Database\|国家学生数据库]]（NPD）对接试验微观数据库 | 纵向行政档案关联 | 完整关联行政大数据的预注册试验归档数量 | 105 项独立试验微观数据完整归档并对学界开放 | — | 为长期因果效应追踪与第三方复算提供了全球首个国家级教育微观数据库 |

@@ -65,6 +65,7 @@ related_persons:
 related_facts:
   - "[[Civil Service Examination]]"
   - "[[Gaokao]]"
+  - "[[Achieve]]"
 related_arguments: []
 sources:
   - "[[sources/Wang_2025_CE|Wang_2025_CE]]"
@@ -323,7 +324,7 @@ citation_aliases:
 > [!citation-card]- 权力共享的结构性硬边界
 > 学生不可能参与决定他们想学什么或考什么。在中国，课程标准和考试大纲是统一且刚性的，教师的任务是在这个框架内引导学生达成优秀。（p. 599）
 >
-> *“Students cannot co-decide what they want to learn or how they will be assessed. In China, curriculum standards and examination outlines are unified and rigid. Teachers' role is to guide students to achieve excellence within this framework.” (Urban 2-Teacher 2, p. 599)*
+> *“Students cannot co-decide what they want to learn or how they will be assessed. In China, curriculum standards and examination outlines are unified and rigid. Teachers' role is to guide students to [[Achieve]] excellence within this framework.” (Urban 2-Teacher 2, p. 599)*
 
 ---
 

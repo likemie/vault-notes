@@ -53,6 +53,7 @@ related_facts:
   - "[[International Reading Association]]"
   - "[[House Committee on Education and the Workforce]]"
   - "[[National Council of Teachers of English]]"
+  - "[[National Assessment of Educational Progress]]"
   - "[[National Institute of Child Health and Human Development]]"
   - "[[Open Court Reading]]"
   - "[[National Reading Panel]]"
@@ -166,7 +167,7 @@ issuing_organization: ""
 #### 1. 基层教师的大规模信件请愿难以抗衡国会对拼读技能的强硬立法
 
 > [!policy-context] 众议院初版草案（H.R. 2614）的立法动因与排他性规制（pp. 4–5）
-> - **立法动因与危机叙事** 1997 年，[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]主席比尔·古德林（Bill Goodling）提出众议院第 2614 号法案（H.R. 2614，即《卓越阅读法案》草案）。当时国家教育进展评估（National Assessment of Educational Progress, NAEP）数据显示四年级学生阅读分数多年平稳、并未显著上升，政策精英借此向公众渲染全美阅读危机，声称如果不干预将直接威胁国家竞争力与全球经济地位。
+> - **立法动因与危机叙事** 1997 年，[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]主席比尔·古德林（Bill Goodling）提出众议院第 2614 号法案（H.R. 2614，即《卓越阅读法案》草案）。当时国家教育进展评估（[[National Assessment of Educational Progress]], NAEP）数据显示四年级学生阅读分数多年平稳、并未显著上升，政策精英借此向公众渲染全美阅读危机，声称如果不干预将直接威胁国家竞争力与全球经济地位。
 > - **四大法定发展目标** 确保所有儿童在小学三年级前学会阅读；依据可靠且可复制的研究提升教学质量；扩大高质量家庭扫盲项目；防止学生因早期阅读不力被误诊为特殊教育对象。（p. 4）
 > - **狭隘的技能化界定** 草案把阅读狭隘定义为基于字母发音的机械[[Decodification|解码]]技能，排除了儿童对文本的意义理解、文化语境以及自主阅读兴趣。（p. 5）
 > - **排他性的科研门槛** 把合格研究限定在可靠且可复制的研究，规定只有大样本、实验对照设计的客观经验研究才属合规科学，为后续把资金排他性地导向实验心理学[[Paradigm|范式]]设立了前置法律门槛。

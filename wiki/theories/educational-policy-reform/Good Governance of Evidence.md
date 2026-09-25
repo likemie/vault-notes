@@ -42,6 +42,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
   - "[[Experimental Research]]"
+  - "[[Process Tracing]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -151,7 +152,7 @@ updated: 2026-09-18
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 将公共决策视作制度规范、政治权力和社会价值交织的复杂社会建构过程，否认存在脱离社会情境与规范价值的纯粹中立政策客体。
 > - **[[Epistemology\|认识论]]** 秉持[[Critical Realism\|批判实在论]]与民主审议认识论；认为科学证据能够揭示现实因果倾向，但对证据的阐释、权衡与转化必须通过公共交往理性与主体间审议达成共识。
-> - **方法含义** 倡导多方法融合与多元证据综合，强调在宏观制度分析中结合政策文本分析、权力结构解构与决策协商过程追踪。
+> - **方法含义** 倡导多方法融合与多元证据综合，强调在宏观制度分析中结合政策文本分析、权力结构解构与决策协商[[Process Tracing|过程追踪]]。
 > - **不能直接推出的东西** 不能直接断定某一特定政策方案或教学干预是否在实质成效上绝对优于替代方案，亦不能替代具体的因果识别。
 
 > [!theory-use] 如何用于研究

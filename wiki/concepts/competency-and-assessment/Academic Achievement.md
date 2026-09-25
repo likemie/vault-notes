@@ -133,6 +133,7 @@ related_facts:
   - "[[Using Data Intervention]]"
   - "[[Research Learning Communities]]"
   - "[[Research in Schools Evaluation]]"
+  - "[[National Assessment of Educational Progress]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
 related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
@@ -347,7 +348,7 @@ updated: 2026-09-22
 > 探讨单纯增加结构性资源投入（经费、生师比、教师学历）为何无法自动转化为宏观学业成就的提高。
 
 > [!claim] [[Argument_Hattie_2005_ACER\|Hattie (2005, pp. 12–13)]]
-> **汉努舍克 40 年资源投入悖论（Hanushek, 2005）** 援引埃里克·汉努舍克对美国 1970 至 2000 年近 40 年公立学校长期追踪数据：在此期间，美国公立学校实际生均教育支出激增 **212%**，生师比大幅下降 **33%**，拥有硕士及以上学历的教师比例增加 **137%**；然而，全国教育进展评估（National Assessment of Educational Progress, NAEP）17 岁学生在数学（290 点）、阅读（285 点）和科学（280 点）上的学业成绩历经 40 年呈现完全持平的“地平线（Flat-line）”。这证实：如果投入的资源未能转化为微观课堂中教师教学法、反馈机制与学生深层认知的实质改变，任何宏观的结构性注资与测验问责都无法跨越与终端学业成就之间的断裂鸿沟。
+> **汉努舍克 40 年资源投入悖论（Hanushek, 2005）** 援引埃里克·汉努舍克对美国 1970 至 2000 年近 40 年公立学校长期追踪数据：在此期间，美国公立学校实际生均教育支出激增 **212%**，生师比大幅下降 **33%**，拥有硕士及以上学历的教师比例增加 **137%**；然而，[[National Assessment of Educational Progress|全国教育进展评估]]（National Assessment of Educational Progress, NAEP）17 岁学生在数学（290 点）、阅读（285 点）和科学（280 点）上的学业成绩历经 40 年呈现完全持平的“地平线（Flat-line）”。这证实：如果投入的资源未能转化为微观课堂中教师教学法、反馈机制与学生深层认知的实质改变，任何宏观的结构性注资与测验问责都无法跨越与终端学业成就之间的断裂鸿沟。
 
 > [!claim] [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024, pp. 164–165, 174–177)]]
 > **[[Title I of the Elementary and Secondary Education Act\|Title I]] 联邦补偿性财政注资与学业成就脱节困境（Compensatory Education Hypotheses）** 美国联邦政府旨在改善处境不利学生阅读与数学学业成就的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 计划已持续推行近六十年，年均拨款逾 165 亿美元（累计数千亿美元），但长期关于其对学生学业成就影响的实证研究结论严重分歧：Borman & D'Agostino (1996) 与 Torgesen et al. (2007) 发现了微弱积极效果，而 Puma et al. (1997)、van der Klaauw (2008)、Deke et al. (2012) 及 Sousa & Armor (2016) 均未发现显著提分影响。Dynarski & Kainz (2015) 明确提出两大核心理论假说：其一是生均拨款强度过低不足以实质改变学习经历；其二是巨额资金被耗散在缺乏稳定实效的常规实践之中。此外，Gordon (2004) 证实地方财政在获得联邦资助后会产生挤出效应（crowd-out effect），导致实际总教育投入并未增加。[[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] 首次通过微观财务细项与证据库的逐笔穿透式审计，量化证实了第二项假说：学区高达 42% 至 51% 的 Title I 资金被固锁在缺乏全量证据稳定支持的常规人事与商业采购中，揭示了宏观财政注资为何未能在微观教学层面稳定转化为弱势学生学业成就增长的制度根源。
@@ -394,7 +395,7 @@ updated: 2026-09-22
 > - **早期阶段：单一维度的粗放输出** 学业成就长期被简单等同于学生自报的总体 GPA 或统考总分，被视作静态智力与勤奋程度的简单产物，忽略了其内部复杂的认知加工层级与任务情境差异。
 > - **中期演进：认知加工深度的精细解构** 随着[[Epistemic Cognition\|认识论认知]]与[[Constructivist Paradigm\|建构主义]]理论的发展，学者开始将学业成就细分为程序性、陈述性、概念性与论证性等不同认知加工层级，揭示深层认知信念对高阶成就的特异性贡献。[[Argument_Greene_2018_JEP\|(Greene et al., 2018)]]
 > - **当代深化：微观[[Task Structure\|任务结构]]与情境动力学整合** 近年研究进一步将学业成就置于微观教学情境中，强调任务结构（良构 vs 劣构）对学业表现的边界调节作用，并将[[Reflexivity\|反思性]]判断、认识动机与[[Self-Regulated Learning\|自我调节学习]]纳入统一解释框架。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007)]]
-> - **2005 年：多层方差分解、资源脱节悖论与[[Learning Progression\|学业进阶]]评价** [[Argument_Hattie_2005_ACER\|Hattie (2005)]] 确立了学业成就的六大方差源分解（教师占 30% 可控核心），援引 Hanushek (2005) 40 年数据揭示资源注资与 NAEP 成绩的脱节悖论，并依托 [[Assessment Tools for Teaching and Learning\|asTTle]] 系统推动学业成就从横截面统考向多层级[[Learning Progression\|学业进阶]]与形成性反馈的评价转向。
+> - **2005 年：多层方差分解、资源脱节悖论与[[Learning Progression\|学业进阶]]评价** [[Argument_Hattie_2005_ACER\|Hattie (2005)]] 确立了学业成就的六大方差源分解（教师占 30% 可控核心），援引 Hanushek (2005) 40 年数据揭示资源注资与 [[National Assessment of Educational Progress|NAEP]] 成绩的脱节悖论，并依托 [[Assessment Tools for Teaching and Learning\|asTTle]] 系统推动学业成就从横截面统考向多层级[[Learning Progression\|学业进阶]]与形成性反馈的评价转向。
 > - **2018 年：全球数据治理与学业成就的政治化再造** [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] 突破微观心理测量视角，揭示在以 [[PISA]] 为代表的跨国评估中，宏观学业成就指标因指标交错与去脉络化而具备极高可塑性，客观平稳的成绩在国家政治[[Champ\|场域]]中易被剪裁为“停滞衰退”的危机修辞以推行新自由主义政策。
 > - **2019 年：独立测验质控刚性化与分层循证消除学业差距** [[Argument_Slavin_2019_EP\|Slavin (2019)]] 在《教育心理学家》发表里程碑论文，确立独立标准化测验为衡量真实学业成就的法定质控标尺（坚决剔除自编测验），并系统阐述以经过验证的教学方案与[[Teaching Assistant\|助教]]分层辅导消除薄弱学校学业差距的因果机制。
 - **2019 年：多级治理因果链条与远端学业解耦机理** [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] 结合欧陆[[Output-Oriented Governance|产出导向治理]]理论，揭示从宏观治理工具到微观学业成就需跨越五级多层因果链条；基层校长的认知把关过滤（七成以上校长未采纳循证发展取向）导致政策因果动力在第二级发生严重衰减，从多层治理与微观阻滞视角解释了大规模监控与督导改革对终端学生学业成就难以产生直接净效应的结构性规律。
@@ -477,7 +478,7 @@ updated: 2026-09-22
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 全球数百项元分析综合及多国中小学数据 | 多层方差分解与元分析综合 | 学业成就总变异来源比例 | 学生个体差异 50%；教师效能 30%；家庭 5–10%；学校 5–10%；同伴 5–10%；校长间接 | — | 宏观方差分解模型；确立教师效能为教育系统内部最大可控因果震源 |
-> | Hanushek (2005)（引自 Hattie, 2005, pp. 12–13） | 美国 1970–2000 年 40 年公立教育纵向追踪 | 宏观时间序列比较与国家统考分析 | 生均支出、生师比、硕士教师比例 vs NAEP 17 岁统考分（数学、阅读、科学） | 生均支出实际增长 212%，生师比下降 33%，硕士教师增加 137%；NAEP 数学（290）、阅读（285）、科学（280）成绩历经 40 年完全持平 | 历时趋势无统计学显著增长 | 证实脱离微观课堂教学互动的结构性注资无法提高宏观学业成就 |
+> | Hanushek (2005)（引自 Hattie, 2005, pp. 12–13） | 美国 1970–2000 年 40 年公立教育纵向追踪 | 宏观时间序列比较与国家统考分析 | 生均支出、生师比、硕士教师比例 vs [[National Assessment of Educational Progress\|NAEP]] 17 岁统考分（数学、阅读、科学） | 生均支出实际增长 212%，生师比下降 33%，硕士教师增加 137%；NAEP 数学（290）、阅读（285）、科学（280）成绩历经 40 年完全持平 | 历时趋势无统计学显著增长 | 证实脱离微观课堂教学互动的结构性注资无法提高宏观学业成就 |
 > | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 447 名加拿大十年级科学课学生（公立与独立教会学校） | [[Survey Research\|调查研究]]、多元分层回归与 MANOVA | 总体学业成就预估（EOAA）、固定快速学习（FQAL）、[[Simplicity of Knowledge\|简单知识]]（SK）、确定知识（CK） | 自报 EOAA 与官方实际总评成绩 OAA 相关 $r = .91$；控制 CK 后，FQAL 和 SK 显著负向预测 EOAA（增量 $\Delta R^2 = .08$）；高成就组在 FQAL 和 SK 上均显著成熟于低成就组（$M = -.22$ vs $.21$ 与 $-.21$ vs $.18$） | 回归增量 $F(3,436) = 12.09, p < .001$；学业组别 MANOVA 主效应 $F(6,874) = 5.52, p < .001, \eta^2 = .04$ | 证实长期平时总评学业成绩与能力可塑性及知识网络化信念高度挂钩 |
 > | Lodewyk（实验子样本） | 89 名加拿大十年级中学生（独立学校实验子样本） | 平衡顺序组内对比设计 | [[Task Structure\|良构任务]]（Well-Structured Task, WST）表现、劣构任务（Ill-Structured Task, IST）表现、[[Reflexivity\|反思性]]判断（[[Reflective Judgment Model\|Reflective Judgment]], RJ）得分 | WST 均分 70.30，IST 均分 67.72；认识论三因子无法预测 WST（$R^2 = .04, p = .37$），但显著预测 IST（$R^2 = .12, p = .01$）与 RJ（$R^2 = .10, p = .04$）；SK 是 IST 与 RJ 的核心负向预测源（$\beta = -.24, p = .02$） | 两任务均分差异 $t(88) = -1.38, p = .17, ES = 0.15$；IST 模型 $F(3,85) = 3.80, p = .01$；RJ 模型 $F(3,85) = 2.97, p = .04$ | 确立[[Task Structure\|任务结构]]对学业表现[[Epistemology\|认识论]]制约效应的关键调节作用 |
 > | Lodewyk（性别差异分析） | 447 名全样本及 89 名实验子样本 | 性别差异对比分析（独立样本 t 检验与 [[Multivariate Analysis of Variance\|MANOVA]]） | 生理性别（男/女）、EOAA、WST 表现、IST 表现、认识论三因子 | 女生在各维度学业成就上全面显著优于男生：EOAA（$76.90\%$ vs $72.05\%$）、WST（$75.60$ vs $65.12$）、IST（$71.64$ vs $63.88$）；女生在 FQAL 和 CK 信念成熟度上显著超越男生 | EOAA 性别差异 $t(444) = 3.99, p < .001$；WST 性别差异 $t(87) = 2.92, p = .004, ES = .58$；IST 性别差异 $t(87) = 2.08, p = .04, ES = .44$；MANOVA 性别主效应 $F(3,437) = 12.82, p < .001, \eta^2 = .08$ | 表明性别在长期与短期学业成就上的优势受更成熟的能力观与真理观支撑 |
@@ -507,7 +508,7 @@ updated: 2026-09-22
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Hattie_2005_ACER\|Hattie (2005)]] — 确立了学业成就的六大方差源分解（教师占 30% 系统内最大可控核心），揭示 40 年宏观资源投入与 NAEP 成绩脱节悖论，并依托 [[Assessment Tools for Teaching and Learning\|asTTle]] 系统推动基于[[Learning Progression\|学业进阶]]与形成性反馈的评价模式。
+> - [[Argument_Hattie_2005_ACER\|Hattie (2005)]] — 确立了学业成就的六大方差源分解（教师占 30% 系统内最大可控核心），揭示 40 年宏观资源投入与 [[National Assessment of Educational Progress|NAEP]] 成绩脱节悖论，并依托 [[Assessment Tools for Teaching and Learning\|asTTle]] 系统推动基于[[Learning Progression\|学业进阶]]与形成性反馈的评价模式。
 > - [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] — 通过大样本调查与组内平衡任务实验，揭示了中学生长期总体学业成就（EOAA）的[[Epistemology\|认识论]]预测源，实证确立了[[Task Structure\|任务结构]]（良构 vs 劣构）对学业表现认识论制约效应的调节作用，并提供了[[Gender Differences in Academic Achievement\|学业成就性别差异]]与效标锚定（$r = .91$）的关键证据。
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 通过大规模[[Meta-analysis\|元分析]]系统考察了[[Epistemic Cognition\|认识论认知]]对不同类型学业成就的预测力，确立了认知加工深度[[Matching\|匹配法]]则（概念性/论证 vs 程序性）以及测试客观性[[Measurement Alignment\|对齐法则]]。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 针对 26 项实验与准实验[[Intervention Research\|干预研究]]开展[[Meta-analysis\|元分析]]，证实认识论认知教学干预对学业成就具有中等因果提升作用（Cohen's $d = 0.509$），并确立了成就类型的认知加工层级敏感性（论证 $d = 1.047$、概念 $d = 0.557$）与[[Inquiry-Based Learning\|指导式探究]]的优势。

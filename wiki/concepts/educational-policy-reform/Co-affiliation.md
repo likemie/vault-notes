@@ -38,6 +38,7 @@ related_theories:
 related_methods:
   - "[[Network Analysis]]"
   - "[[Network Ethnography]]"
+  - "[[Process Tracing]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -231,7 +232,7 @@ updated: 2026-09-22
 > > - **[[New Public Management\|新公共管理]]与社会创投支持者（Traill, 2016）** 认为公私跨界兼职打破了官僚科层的僵化壁垒，为公共教育带来了顶尖商业管理纪律、慈善捐赠杠杆与前沿数据分析工具，是解决复杂社会问题的创新协作路径。
 
 > [!critique] 外部批评
-> - **因果推论的弱链接风险** 部分实证学者指出，仅仅绘制出行动者之间的董事重叠拓扑图，并不必然证明其在具体政策决议中存在实质性的合谋或违法寻租行为；[[Network Ethnography\|网络民族志]]需要补充更为详尽的过程追踪（process tracing）与内部决策实证记录。
+> - **因果推论的弱链接风险** 部分实证学者指出，仅仅绘制出行动者之间的董事重叠拓扑图，并不必然证明其在具体政策决议中存在实质性的合谋或违法寻租行为；[[Network Ethnography\|网络民族志]]需要补充更为详尽的[[Process Tracing|过程追踪]]（process tracing）与内部决策实证记录。
 
 > [!warning] 适用局限
 > 共同从属概念高度适用于市场化程度高、社会慈善捐赠体系发达、允许公私董事兼职的自由主义民主国家；在对官员跨界兼职实施绝对禁止、政商界限高度严苛的体制中，该概念的解释力受限。

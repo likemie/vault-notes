@@ -50,6 +50,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Council of Chief State School Officers]]"
   - "[[InTASC Standards]]"
   - "[[Educational Testing Service]]"
 related_arguments:
@@ -68,7 +69,7 @@ updated: 2026-08-28
 
 > [!instrument-profile] 教学知识测验 (TTK)
 > - **工具类型** 教师专业胜任力标准化表现性测验（Performance-Based Standardized Assessment）。
-> - **开发者与年份** 美国州立学校首席官员理事会（CCSSO / [[InTASC Standards\|InTASC]]）联合[[Educational Testing Service\|美国教育考试服务中心]]（ETS）（2016）。[[Argument_Bouckaert_2023_OECD\|(CCSSO, 2016; Bouckaert, 2023, pp. 21, 28)]]
+> - **开发者与年份** 美国州立学校首席官员理事会（[[Council of Chief State School Officers|CCSSO]] / [[InTASC Standards\|InTASC]]）联合[[Educational Testing Service\|美国教育考试服务中心]]（ETS）（2016）。[[Argument_Bouckaert_2023_OECD\|(CCSSO, 2016; Bouckaert, 2023, pp. 21, 28)]]
 > - **测量目的** 评估职前师范生与在职教师满足《InTASC 核心教学标准》的能力，特别是在课堂教学中培养学生[[Critical Thinking\|批判性思维]]与[[Creativity\|创造力]]的专业实践素养。
 > - **实施方式** 标准化机考或纸笔测试，由一系列基于真实教育情境的建构反应题（Constructed-Response Items）组成。
 

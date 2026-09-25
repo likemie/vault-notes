@@ -47,6 +47,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Analytic Framework]]"
   - "[[Random Sampling]]"
+  - "[[Process Tracing]]"
   - "[[Effect Size]]"
   - "[[Random Assignment]]"
 related_persons: []
@@ -111,7 +112,7 @@ citation_aliases:
 > > “即使是对许多高质量 RCT 进行的[[Systematic Review\|系统综述]]或元分析，也不能为将其应用于新人群提供多少认识论保证。”
 > ("Even a systematic review or meta-analysis of many high-quality RCTs provides little epistemic warrant for applying to a new population.") (p. 5)
 >
-> 其他方法（准实验、自然实验、工具[[Variable\|变量]]、差异中差、定性方法如过程追踪和分析性叙事）在特定条件下可能提供更准确的政策效应估计。
+> 其他方法（准实验、自然实验、工具[[Variable\|变量]]、差异中差、定性方法如[[Process Tracing|过程追踪]]和分析性叙事）在特定条件下可能提供更准确的政策效应估计。
 >
 > ### 2. 官僚[[Knowledge Questions\|知识问题]]（Tullock 的应用）
 >

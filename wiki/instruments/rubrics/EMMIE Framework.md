@@ -64,6 +64,7 @@ related_methods:
   - "[[Regression Discontinuity Design]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
+  - "[[Process Tracing]]"
   - "[[Mixed Methods Research]]"
   - "[[Mechanism Experiments]]"
   - "[[Meta-regression]]"
@@ -147,7 +148,7 @@ updated: 2026-09-17
 > | **0 级** | 缺失机制解释 | 仅报告输入与输出关系，完全未阐述干预起效的内在因果机理 | 纯黑箱实证测试 |
 > | **1 级** | 纯理论[[Hypothesis\|假设]] | 提出了干预触发因果改变的理论假说，但属于事后推测，无任何实证数据支撑 | 纯理论推导或未经检验的[[Logic Model\|逻辑模型]] |
 > | **2 级** | 间接相关测量 | 测量了预期中介变量的变化，但未建立中介变化与最终产出之间的因果检验 | 单纯的前后测中间指标描述 |
-> | **3 级** | 实证机制支撑 | 通过质性过程追踪或定量中介分析，证明干预激活了中间机制并促进了最终产出 | [[Mixed Methods Research\|混合方法]][[Implementation and Process Evaluation\|过程评估]]或初步中介效应分析 |
+> | **3 级** | 实证机制支撑 | 通过质性[[Process Tracing\|过程追踪]]或定量中介分析，证明干预激活了中间机制并促进了最终产出 | [[Mixed Methods Research\|混合方法]][[Implementation and Process Evaluation\|过程评估]]或初步中介效应分析 |
 > | **4 级** | 严密机制因果链 | 具备先验[[Preregistration\|预注册]]机制假设，通过多重中介模型或因果中介分析彻底证实因果传导路径 | 严格中介分析或系统化[[Mechanism Experiments\|机制实验]] |
 
 ### 调节变量量规

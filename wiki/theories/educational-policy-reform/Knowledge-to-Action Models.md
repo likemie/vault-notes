@@ -49,6 +49,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Process Tracing]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
@@ -154,7 +155,7 @@ updated: 2026-09-24
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 将政策决策视为复杂的非线性自适应系统，证据并非独立于制度环境的客观实体，而是嵌入在特定权力关系与程序流程中的意义载体。
 > - **[[Epistemology\|认识论]]** 强调知识的可操作性与情境偶联性，真正的知识转化发生在证据与特定制度[[Absorptive Capacity\|吸收能力]]相互交融的时刻。
-> - **方法含义** 要求研究者采用追踪证据流动的过程追踪法（Process Tracing）、[[Policy Network\|政策网络]]分析与多尺度案例比较。
+> - **方法含义** 要求研究者采用追踪证据流动的[[Process Tracing|过程追踪法]]（Process Tracing）、[[Policy Network\|政策网络]]分析与多尺度案例比较。
 > - **不能直接推出的东西** 该理论不能直接保证政策制定的科学有效性，也不能证明采纳了第三代生态学模型的政策就必然带来更高的[[Academic Achievement\|学业成绩]]。
 
 > [!theory-use] 如何用于研究

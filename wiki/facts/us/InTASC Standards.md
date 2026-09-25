@@ -34,6 +34,7 @@ related_instruments:
   - "[[Test of Teaching Knowledge]]"
 related_persons: []
 related_facts:
+  - "[[Council of Chief State School Officers]]"
   - "[[Educational Testing Service]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
@@ -50,7 +51,7 @@ updated: 2026-08-27
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1987 年设立、2011/2013 年修订，由美国各州首席教育官理事会（Council of Chief State School Officers, CCSSO）主持发布。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 18)]]
+> - **发布时间 / 发布主体** 1987 年设立、2011/2013 年修订，由美国各[[Council of Chief State School Officers|州首席教育官理事会]]（Council of Chief State School Officers, CCSSO）主持发布。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 18)]]
 > - **适用地区 / 对象** 全美各州教育厅、[[Normal School\|师范教育]]机构、新入职与在职骨干教师。
 > - **问题背景** 21 世纪学生[[21st Century Skills and Competencies Discourse\|核心素养]]要求学生具备高阶思辨与创新探究能力，但传统教师评价标准偏重学科知识记忆与课堂秩序管控。
 > - **制度位置** 全美公立学校教师执业资格认证、师范专业认证（CAEP）与教师绩效评估的最高国家级参照基准。

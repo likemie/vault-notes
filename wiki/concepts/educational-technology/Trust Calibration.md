@@ -44,7 +44,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Socrates]]"
-related_facts: []
+related_facts:
+  - "[[Achieve]]"
 related_arguments:
   - "[[Argument_Jovchevski_2026_PT]]"
 confidence: high
@@ -70,7 +71,7 @@ updated: 2026-09-22
 > [!citation-card] 信任校准的客观属性与自信解耦（[[Argument_Jovchevski_2026_PT|Jovchevski et al., 2026]]）
 > 信任校准关注的是操作者所赋予的信任是否与其对系统当前情境极限的合理把握相吻合。即使一个操作者对自身的独立判断缺乏绝对信心（例如信贷员自评信心仅为中等），只要其明知当前案例属于系统训练集未覆盖的边缘群体，依然选择顺从算法推荐，这一决策在客观上依然构成失调的过度信任，因为操作者手中掌握了在当前具体案例中不应信任系统的充分反常理由。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 8–10)]]
 >
-> *Trust calibration is about whether the operator's level of trust corresponds to what they have reason to believe the system can reliably achieve in this specific setting... even if self-confidence is low, deferring when one has [[Defeater|Defeaters]] still constitutes overtrust.*
+> *Trust calibration is about whether the operator's level of trust corresponds to what they have reason to believe the system can reliably [[Achieve]] in this specific setting... even if self-confidence is low, deferring when one has [[Defeater|Defeaters]] still constitutes overtrust.*
 
 > [!boundary]- 概念边界
 > - 不等于 用户满意度（User Satisfaction）— 满意度是基于交互体验与输出流畅感的情感偏好；信任校准是对系统因果效能与[[Reliability|可靠性]]边界的理性认知匹配。

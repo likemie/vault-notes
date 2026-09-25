@@ -36,6 +36,7 @@ related_instruments: []
 related_persons:
   - "[[G. Reid Lyon]]"
 related_facts:
+  - "[[National Assessment of Educational Progress]]"
   - "[[House Committee on Education and the Workforce]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[National Institute of Child Health and Human Development]]"
@@ -60,7 +61,7 @@ updated: 2026-09-24
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 政策由美国国会于 1998 年 10 月通过并经克林顿总统签署生效，正式编号为第 105 届国会公法第 277 号（Public Law 105-277）。
 > - **适用地区 / 对象** 面向全美各州教育行政部门与地方学区，重点覆盖幼儿至小学低年级阅读教学、处于阅读困难风险中的儿童、在职与职前教师培训以及高需求弱势学区。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 4)]]
-> - **问题背景** 源于 20 世纪 90 年代全美对国家教育进展评估（National Assessment of Educational Progress, NAEP）四年级学生阅读分数长期平稳停滞的深层恐慌；政治上作为[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]主席比尔·古德林（Bill Goodling）等共和党高层对克林顿政府美国阅读挑战（America Reads Challenge）的强硬立法回应，在新自由主义叙事下将阅读达标直接与维系国家经济竞争力和全球霸权相捆绑。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 7)]]
+> - **问题背景** 源于 20 世纪 90 年代全美对国家教育进展评估（[[National Assessment of Educational Progress]], NAEP）四年级学生阅读分数长期平稳停滞的深层恐慌；政治上作为[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]主席比尔·古德林（Bill Goodling）等共和党高层对克林顿政府美国阅读挑战（America Reads Challenge）的强硬立法回应，在新自由主义叙事下将阅读达标直接与维系国家经济竞争力和全球霸权相捆绑。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 7)]]
 > - **制度位置** 政策作为联邦政府运用财政专项拨款撬动地方课程与科研规范的治理载体，是 2001 年《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（No Child Left Behind Act, NCLB）中阅读优先（Reading First）重大项目的直接立法蓝本与母体。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 13)]]
 
 ---

@@ -51,6 +51,7 @@ related_facts:
   - "[[Centre for Educational Research and Innovation]]"
   - "[[Education Innovation and Research]]"
   - "[[Strengthening the Impact of Education Research Project]]"
+  - "[[Achieve]]"
   - "[[PISA]]"
   - "[[Teaching and Learning International Survey]]"
 related_persons:
@@ -133,7 +134,7 @@ updated: 2026-09-22
 > [!citation-card] 警惕政治行动主义与向政策界过度兜售
 > 许多研究者深受政治行动主义驱动，其研究设计和推论受政治偏好左右；更严重的是，研究界为了争夺有限的经费，向公众过度兜售实证证据的能力，宣称实证研究能为教育中的一切疑难提供解答，掩盖了科学证据只能解答极少数确定性问题的真相。（pp. 205–206）
 >
-> *Many researchers are driven by political activism, leading their design and conclusions to reflect ideological preferences. Worse still, researchers over-promise what evidence can achieve in an effort to secure funding, obscuring the reality that [[Scientific Method\|empirical science]] can only resolve a narrow set of questions.*
+> *Many researchers are driven by political activism, leading their design and conclusions to reflect ideological preferences. Worse still, researchers over-promise what evidence can [[Achieve]] in an effort to secure funding, obscuring the reality that [[Scientific Method\|empirical science]] can only resolve a narrow set of questions.*
 
 ---
 

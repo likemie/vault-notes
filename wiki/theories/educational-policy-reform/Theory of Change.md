@@ -52,6 +52,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Evidence Ecosystem]]"
 related_facts:
+  - "[[Achieve]]"
   - "[[Education Endowment Foundation]]"
   - "[[Literacy Octopus]]"
   - "[[Ofsted]]"
@@ -104,7 +105,7 @@ updated: 2026-09-24
 > [!citation-card] [[Knowledge Mediation\|知识中介]]对变革理论的诉求
 > 知识中介机构日益认识到制定变革理论的重要性，即建立在因果分析基础之上、解释一组干预措施何以被预期能够带来特定变化的证据化合理性阐释。通过明确变革理论，中介机构能够清晰阐明其具体方法将如何达成其根本目标；然而，仍有部分中介机构默认某种方法必然有效且有用，却从未清晰阐明其背后的机制依据。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 152)]]
 >
-> *KBIs are increasingly developing Theories of Change i.e. an evidence-based rationale that builds on causal analysis and explains how a set of interventions is expected to lead to a specific change. In doing so, they are explicit about how their methods will achieve their fundamental aims.*
+> *KBIs are increasingly developing Theories of Change i.e. an evidence-based rationale that builds on causal analysis and explains how a set of interventions is expected to lead to a specific change. In doing so, they are explicit about how their methods will [[Achieve]] their fundamental aims.*
 
 ---
 

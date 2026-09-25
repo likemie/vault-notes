@@ -58,7 +58,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Rom Harré]]"
-related_facts: []
+related_facts:
+  - "[[Achieve]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
@@ -94,7 +95,7 @@ updated: 2026-09-22
 > [!citation-card] 作为计划制定与自我监控行动者的人因取向
 > 人因取向这一形容词表达了一种将人类视为个人的观点，即人类是制定计划、自我监控的行动者，能够意识到自身目标并有意识地考虑达成目标的最佳途径。人因研究代表了探究社会行为的另一种截然不同的进路，其方法与传统教育研究中常用的实证量化方法形成了鲜明对比。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|(Cohen et al., 2011, Ch. 22, pp. 441–442)]]
 >
-> *Ethogenic, an adjective which expresses a view of the human being as a person, that is, a plan-making, self-monitoring agent, aware of goals and deliberately considering the best ways to achieve them. Ethogenic studies represent an alternative approach to the study of social behaviour, an approach which contrasts sharply with the methods commonly used in educational research.*
+> *Ethogenic, an adjective which expresses a view of the human being as a person, that is, a plan-making, self-monitoring agent, aware of goals and deliberately considering the best ways to [[Achieve]] them. Ethogenic studies represent an alternative approach to the study of social behaviour, an approach which contrasts sharply with the methods commonly used in educational research.*
 
 ---
 

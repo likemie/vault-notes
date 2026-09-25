@@ -14882,6 +14882,18 @@
     ]
   },
   {
+    "title": "Process Tracing",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Process Tracing.md",
+    "aliases": [
+      "过程追踪法",
+      "过程追踪",
+      "过程追踪分析",
+      "过程追踪研究",
+      "process tracing method"
+    ]
+  },
+  {
     "title": "Progressive Focussing",
     "type": "method",
     "path": "wiki/methods/qualitative/Progressive Focussing.md",
@@ -20739,6 +20751,17 @@
     ]
   },
   {
+    "title": "William H. Schmidt",
+    "type": "person",
+    "path": "wiki/persons/us/William H. Schmidt.md",
+    "aliases": [
+      "威廉·H·施密特",
+      "威廉·施密特",
+      "施密特",
+      "William Schmidt"
+    ]
+  },
+  {
     "title": "William Jeynes",
     "type": "person",
     "path": "wiki/persons/us/William Jeynes.md",
@@ -25388,6 +25411,16 @@
     ]
   },
   {
+    "title": "Achieve",
+    "type": "fact",
+    "path": "wiki/facts/us/Achieve.md",
+    "aliases": [
+      "阿奇夫",
+      "阿奇夫组织",
+      "Achieve, Inc."
+    ]
+  },
+  {
     "title": "Alliance for Southern California Innovation",
     "type": "fact",
     "path": "wiki/facts/us/Alliance for Southern California Innovation.md",
@@ -25455,6 +25488,16 @@
     ]
   },
   {
+    "title": "Bill & Melinda Gates Foundation",
+    "type": "fact",
+    "path": "wiki/facts/us/Bill & Melinda Gates Foundation.md",
+    "aliases": [
+      "比尔与梅琳达·盖茨基金会",
+      "盖茨基金会",
+      "Gates Foundation"
+    ]
+  },
+  {
     "title": "California Evidence Based Clearinghouse for Child Social and Economic Welfare",
     "type": "fact",
     "path": "wiki/facts/us/California Evidence Based Clearinghouse for Child Social and Economic Welfare.md",
@@ -25495,6 +25538,16 @@
     ]
   },
   {
+    "title": "Council of Chief State School Officers",
+    "type": "fact",
+    "path": "wiki/facts/us/Council of Chief State School Officers.md",
+    "aliases": [
+      "州首席教育官理事会",
+      "全美州首席教育官理事会",
+      "CCSSO"
+    ]
+  },
+  {
     "title": "Education Resources Information Center",
     "type": "fact",
     "path": "wiki/facts/us/Education Resources Information Center.md",
@@ -25522,6 +25575,17 @@
       "Committee on Education and the Workforce",
       "众议院教育与劳动力委员会",
       "众议院教育和劳工委员会"
+    ]
+  },
+  {
+    "title": "Hunt Institute",
+    "type": "fact",
+    "path": "wiki/facts/us/Hunt Institute.md",
+    "aliases": [
+      "亨特研究所",
+      "亨特教育领导力与政策研究所",
+      "詹姆斯·B·亨特教育领导力与政策研究所",
+      "The Hunt Institute"
     ]
   },
   {
@@ -25624,6 +25688,17 @@
     "aliases": [
       "国家教育政策中心",
       "NEPC"
+    ]
+  },
+  {
+    "title": "National Governors Association",
+    "type": "fact",
+    "path": "wiki/facts/us/National Governors Association.md",
+    "aliases": [
+      "全国州长协会",
+      "美国全国州长协会",
+      "全美州长协会",
+      "NGA"
     ]
   },
   {
@@ -26017,6 +26092,16 @@
     ]
   },
   {
+    "title": "American Diploma Project",
+    "type": "fact",
+    "path": "wiki/facts/us/American Diploma Project.md",
+    "aliases": [
+      "美国文凭项目",
+      "ADP 项目",
+      "ADP"
+    ]
+  },
+  {
     "title": "APLU Innovation and Economic Prosperity Program",
     "type": "fact",
     "path": "wiki/facts/us/APLU Innovation and Economic Prosperity Program.md",
@@ -26263,6 +26348,18 @@
       "MN-IP Create",
       "明尼苏达大学IP创新计划",
       "University of Minnesota MN-IP Create"
+    ]
+  },
+  {
+    "title": "National Assessment of Educational Progress",
+    "type": "fact",
+    "path": "wiki/facts/us/National Assessment of Educational Progress.md",
+    "aliases": [
+      "全国教育进展评估",
+      "美国全国教育进展评估",
+      "国家成绩单",
+      "The Nation's Report Card",
+      "NAEP"
     ]
   },
   {

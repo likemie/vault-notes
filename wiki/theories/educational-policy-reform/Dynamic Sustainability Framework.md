@@ -43,6 +43,7 @@ related_methods:
   - "[[Implementation and Process Evaluation]]"
   - "[[Design-Based Research]]"
   - "[[Mixed Methods Research]]"
+  - "[[Process Tracing]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Correlational Research]]"
@@ -147,7 +148,7 @@ updated: 2026-09-18
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 将组织、制度与实践变革视作开放、非线性的[[Complexity Theory\|复杂适应系统]]（Complex Adaptive Systems），否定还原主义与确定性因果链。
 > - **[[Epistemology\|认识论]]** 秉持[[Pragmatic Paradigm\|实用主义]]与情境化认识论；认为证据知识的效力是条件性、脉络化的，知识价值在与具体行动情境的持续互动中得以生成与确证。
-> - **方法含义** 强调[[Formative Assessment\|形成性评估]]、设计型研究（[[Design-Based Research]]）、[[Mixed Methods Research\|混合方法]]过程追踪与实施科学评价，反对单一的事后断点测量。
+> - **方法含义** 强调[[Formative Assessment\|形成性评估]]、设计型研究（[[Design-Based Research]]）、[[Mixed Methods Research\|混合方法]][[Process Tracing|过程追踪]]与实施科学评价，反对单一的事后断点测量。
 > - **不能直接推出的东西** 不能直接断定一切现场随意变动皆具合理性；调适必须接受严谨的机理审查与效果监测。
 
 > [!theory-use] 如何用于研究

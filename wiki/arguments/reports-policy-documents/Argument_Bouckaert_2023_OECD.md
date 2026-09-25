@@ -134,6 +134,7 @@ related_facts:
   - "[[Higher Education Funding Council for England]]"
   - "[[InTASC Standards]]"
   - "[[Educational Testing Service]]"
+  - "[[Council of Chief State School Officers]]"
   - "[[Melbourne Declaration]]"
   - "[[Hunt Report]]"
   - "[[New Teacher Education Scheme]]"
@@ -321,7 +322,7 @@ updated: 2026-09-18
 >   - **资金与协作规模** [[Higher Education Funding Council for England\|英格兰高等教育拨款委员会]]（HEFCE）注资 400 万英镑设立国家专项，联合全英 70 多所高校开展 13 个试点项目，探索标准化测试、纵向学业增益、[[Student Engagement\|学生投入]]与[[Learning Analytics\|学习分析]]大数据的多元路径。
 >   - **增益机制探索** 其中两个项目重点将 CLA+ 适配至英国高教语境，开展大一入学至大三毕业的纵向队列追踪，精确绘制了批判性思维在本科阶段的增长轨迹，有力推动了参与高校对日常考核中缺乏高阶思维任务的制度反思。（pp. 17–18）
 > - **美国州际新教师评估与支持联盟（[[InTASC Standards\|InTASC]]）与[[Educational Testing Service\|美国教育考试服务中心]]（ETS）教师[[Test of Teaching Knowledge\|教学知识测验]]（Test of Teaching Knowledge, TTK）：生成性情境执业评估**
->   - **跨州政策联盟** 美国各州首席教育官理事会（Council of Chief State School Officers, CCSSO）下属州际新教师评估与支持联盟（InTASC）联合 15 个州教育厅与[[Educational Testing Service\|美国教育考试服务中心]]（Educational Testing Service, ETS）联合研制。
+>   - **跨州政策联盟** 美国各[[Council of Chief State School Officers|州首席教育官理事会]]（Council of Chief State School Officers, CCSSO）下属州际新教师评估与支持联盟（InTASC）联合 15 个州教育厅与[[Educational Testing Service\|美国教育考试服务中心]]（Educational Testing Service, ETS）联合研制。
 >   - **[[Construct\|构念]]与题型创新** 将“促进学生批判性思维与创造性探究的教学能力”确立为核心胜任力，摒弃纯[[Multiple-Choice Questions\|客观选择题]]，采用高度真实的教学情境生成性任务（Constructed-Response Items），要求考生对学习困难诊断、教学策略调整与思维支架设计进行开放论述。
 >   - **多维评价体系** 结合学科内容测试与真实教学实践档案袋（Teaching Portfolios），构建起贯通[[Normal School\|师范教育]]与教师准入资格认证的[[Authentic Assessment\|表现性评价]]链条。（p. 18）
 

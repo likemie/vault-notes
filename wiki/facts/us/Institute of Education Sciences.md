@@ -74,6 +74,7 @@ related_facts:
   - "[[Using Data Intervention]]"
   - "[[Foundations for Evidence-Based Policymaking Act of 2018]]"
   - "[[Education Resources Information Center]]"
+  - "[[National Assessment of Educational Progress]]"
   - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
   - "[[Common Core State Standards]]"
@@ -167,7 +168,7 @@ flowchart LR
 > - **SEER 循证卓越标准体系** 针对传统实证研究痛点研制出台九大[[Operationalization\|操作化]]准则，重构国家教育实证研究的设计、评价与结项准则。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206–209)]]
 > - **[[What Works Clearinghouse\|有效干预清算中心]]（WWC）** 针对全球教育[[Intervention Research\|干预研究]]开展系统性方法学审查，依据严格[[Causality\|因果推断]]标准发布实践指南（Practice Guides）与干预效果报告。
 > - **开放测量工具库（EdInstruments）** 资助建立当代教育研究高质量通用测量工具开放目录，强制要求使用成熟第三方标准测验，根除[[Developer-Made Measures\|开发者自编测验]]夸大成效的假象。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 207–208)]]
-> - **全美教育进展评估与国家统计监测** 由 NCES 主导实施全美教育进展评估（NAEP，常称国家成绩单）以及覆盖学前至成人教育的国家级纵向教育追踪数据库建设。
+> - **全美教育进展评估与国家统计监测** 由 NCES 主导实施全美教育进展评估（[[National Assessment of Educational Progress|NAEP]]，常称国家成绩单）以及覆盖学前至成人教育的国家级纵向教育追踪数据库建设。
 
 > [!ref-table]- SEER 循证卓越标准九大操作化准则矩阵
 > | SEER 准则 | 传统科研缺陷与挑战 | IES 官方规程与落地工具 | 破解的核心科研弊端 |
@@ -193,7 +194,7 @@ flowchart LR
 
 > [!indicators]- 影响力维度与指标
 > - **资源与网络规模** 年度教育科研专属预算约 1.5 亿美元（USD 150 million）；统辖四大常设国家研究中心与区域教育实验室（Regional Educational Laboratories, REL）网络；资助项目覆盖全美数十万学生与教师群体。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206, 209)]]
-> - **学术与[[Knowledge Production\|知识生产]]** 建立全球公认的因果实证评级体系 [[What Works Clearinghouse\|WWC]]；推动全美教育实证研究复现率与[[Preregistration\|预注册]]制度化；建立 EdInstruments 工具库打破测量割裂；主持编制权威的国家成绩单 NAEP。
+> - **学术与[[Knowledge Production\|知识生产]]** 建立全球公认的因果实证评级体系 [[What Works Clearinghouse\|WWC]]；推动全美教育实证研究复现率与[[Preregistration\|预注册]]制度化；建立 EdInstruments 工具库打破测量割裂；主持编制权威的[[National Assessment of Educational Progress|国家成绩单]] NAEP。
 > - **政策与制度渗透** 成为《2001年不让一个孩子掉队法》（No Child Left Behind Act of 2001, NCLB）及《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）法定循证标准的基石，各级学区与州政府依据其指南决定数十亿美元联邦教育拨款的干预投向。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 598–600)]]
 
 > [!finding-cards] 关键成效与辐射影响
@@ -235,7 +236,7 @@ flowchart LR
 > > [!axis] 宏观统一标准与真实学业产出脱钩争议（国家标准 vs 课程教材）
 > > 围绕统一课程标准能否切实提升学生[[Academic Achievement|学业成就]]，IES 创始领导层与政策倡导者展开了持久的实证交锋。
 > >
-> > - **标准无效论与教材[[Determinism|决定论]]（质疑立场）** IES 创始院长格罗弗·J·怀特赫斯特（Grover J. Whitehurst, 2009）与布鲁金斯学会研究员汤姆·洛夫利斯（Tom Loveless, 2012）基于全美宏观数据指出，各州以往课程标准的质量评级与该州实际 NAEP 统考成绩之间完全不存在统计相关性（相关系数接近于 0）；标准评级被评为“极弱”的州与评为“极强”的州成绩无异。怀特赫斯特力陈政策层过度迷信自上而下的抽象标准，而忽视了真正进入教室的具体课程教材；课程教材的提分潜力和[[Effect Size|效应量]]远大于空泛的标准文本。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 21)]]
+> > - **标准无效论与教材[[Determinism|决定论]]（质疑立场）** IES 创始院长格罗弗·J·怀特赫斯特（Grover J. Whitehurst, 2009）与布鲁金斯学会研究员汤姆·洛夫利斯（Tom Loveless, 2012）基于全美宏观数据指出，各州以往课程标准的质量评级与该州实际 [[National Assessment of Educational Progress|NAEP]] 统考成绩之间完全不存在统计相关性（相关系数接近于 0）；标准评级被评为“极弱”的州与评为“极强”的州成绩无异。怀特赫斯特力陈政策层过度迷信自上而下的抽象标准，而忽视了真正进入教室的具体课程教材；课程教材的提分潜力和[[Effect Size|效应量]]远大于空泛的标准文本。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 21)]]
 > > - **课程一致性提分论（支持立场）** 威廉·H·施密特与理查德·T·黄（William H. Schmidt & Richard T. Houang, 2012）构建课程一致性模型反驳指出，在控制贫困率和标准切分点后，原先州标准越接近 [[Common Core State Standards|CCSS]] 的州，NAEP 实际成绩越高且提分更快，力证严谨连贯的宏观标准对提升教育质量具备长远牵引力。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
 
 > [!citation-card] 施奈德论拆解干预构件与终结混杂药丸袋黑箱
@@ -252,7 +253,7 @@ flowchart LR
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | Whitehurst (2009); Loveless (2012)，引自 [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013, p. 21)]] | 全美各州历年课程标准质量评级与 NAEP 统考历史数据库 | 宏观政策评价与跨州相关分析 | 州立课程标准评级 vs NAEP 实际[[Academic Achievement\|学业成绩]]相关性 | 外部机构评定的州标准质量等级与 NAEP 成绩相关系数为 **0**（无统计相关性） | $r \approx 0$ | IES 创始领导层以此实证结果质疑国家标准运动，力陈课程教材对学业的效应远大于宏观标准 |
+> | Whitehurst (2009); Loveless (2012)，引自 [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013, p. 21)]] | 全美各州历年课程标准质量评级与 [[National Assessment of Educational Progress\|NAEP]] 统考历史数据库 | 宏观政策评价与跨州相关分析 | 州立课程标准评级 vs NAEP 实际[[Academic Achievement\|学业成绩]]相关性 | 外部机构评定的州标准质量等级与 NAEP 成绩相关系数为 **0**（无统计相关性） | $r \approx 0$ | IES 创始领导层以此实证结果质疑国家标准运动，力陈课程教材对学业的效应远大于宏观标准 |
 > | Schmidt & Houang (2012)，引自 [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013, pp. 21–22)]] | 全美各州 2009 年数学标准文本及 NAEP 纵向学业数据 | 课程连贯性建模与[[Multiple Regression\|多元回归]]分析（控制贫困率及切分点） | 州标准与 [[Common Core State Standards\|CCSS]] 相似度（Proximity）vs NAEP 成绩增益 | 原标准与 CCSS 相似度越高的州，NAEP 成绩显著更高且增速更快 | $p < .05$ | 证实严谨连贯的宏观标准具有长效提分效应，反驳了标准与学业脱钩的虚无主义论点 |
 > | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] | 美国联邦教育科研资助与 SEER 框架全美落地生态 | 官方政策报告与科研治理分析 | 年科研投资额（约 1.5 亿美元）、SEER 九大准则、十万级数字学习平台用户覆盖 | 强制实施方案[[Preregistration\|预注册]]、干预构件拆解、真实成本核算及第三方通用独立测量 | — | 确立联邦最高教育科研机构从单一[[Internal Validity\|内部效度]]走向多维科研卓越的制度标杆（pp. 206–209） |
 > | [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] | IES 资助的佛罗里达 [[Using Data Intervention\|Using Data]] 数据使用干预试验（117 所学校，439 名教师） | 4 级最高因果等级整群[[Randomised Controlled Trials\|随机对照试验]]（RCT） | 教师密集数据培训、教师协作行为变化与全州学生统考成绩增益 | 教师协作与数据研讨行为显著上升，但学生统考阅读与数学增益为零（$ES = 0.02$） | 不显著 | 实证揭示单纯教师数据培训与学生学业产出脱节的因果困境（pp. 571, 592） |

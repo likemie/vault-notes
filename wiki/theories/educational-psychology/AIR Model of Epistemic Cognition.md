@@ -68,6 +68,8 @@ related_arguments:
   - "[[Argument_Cartiff_2021_JEP]]"
 related_instruments:
   - "[[Model-Evidence-Link Matrix]]"
+related_facts:
+  - "[[Achieve]]"
 confidence: high
 status: active
 created: 2026-09-10
@@ -92,7 +94,7 @@ updated: 2026-09-22
 > [!citation-card] AIR模型的核心架构界定
 > 我们的理论框架扎根于认识论认知与认识实践的 AIR 模型（目标、理想与可靠过程）。简言之，AIR 模型提出了认识论推理的三个核心组成部分：（a）目标是个体和共同体设定的所要达成的目标，例如具有说服力的论证或解释性模型；（b）认识论理想是用于评估所得科学产出（如论证或模型）质量的标准，例如与高质量证据的契合度；（c）可靠认识论过程是用于达成认识目标的多元流程，例如执行观察的规程或在综述中选择纳入证据的方法。（p. 202）
 >
-> *Our theoretical framework is grounded in the Aims, Ideals, and Reliable processes of the AIR model of epistemic cognition and [[Epistemic Practices]]. Briefly, the AIR model posits three central components of epistemic reasoning: (a) Aims are goals that individuals and communities set to achieve, such as convincing arguments or explanatory models. (b) Epistemic Ideals are the criteria used to evaluate the quality of resulting scientific products (e.g., arguments or models), such as fit with high-quality evidence. (c) Reliable epistemic processes are the diverse processes used to achieve epistemic aims, such as protocols for carrying out observations or methods for selecting evidence to include in a review synthesis.*
+> *Our theoretical framework is grounded in the Aims, Ideals, and Reliable processes of the AIR model of epistemic cognition and [[Epistemic Practices]]. Briefly, the AIR model posits three central components of epistemic reasoning: (a) Aims are goals that individuals and communities set to [[Achieve]], such as convincing arguments or explanatory models. (b) Epistemic Ideals are the criteria used to evaluate the quality of resulting scientific products (e.g., arguments or models), such as fit with high-quality evidence. (c) Reliable epistemic processes are the diverse processes used to achieve epistemic aims, such as protocols for carrying out observations or methods for selecting evidence to include in a review synthesis.*
 
 ---
 

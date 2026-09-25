@@ -86,6 +86,7 @@ related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[What Works Clearinghouse]]"
   - "[[PISA]]"
+  - "[[National Assessment of Educational Progress]]"
 confidence: high
 status: active
 created: 2026-05-05
@@ -222,7 +223,7 @@ updated: 2026-09-17
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - **探索性前期阶段** 在未开展昂贵干预试验之前，识别[[Variable\|变量]]间的潜在关联模式，为构建因果理论模型提供[[Hypothesis\|假设]]来源。[[Argument_Brady_2023_EPR\|(Brady et al., 2023, p. 2)]]
->   - **大规模自然调查** 依托大型国家或跨国教育数据库（如[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）、全国教育进展评估（National Assessment of Educational Progress, NAEP）），分析[[Academic Achievement\|学业成就]]与背景变量的广泛分布规律。
+>   - **大规模自然调查** 依托大型国家或跨国教育数据库（如[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）、[[National Assessment of Educational Progress|全国教育进展评估]]（National Assessment of Educational Progress, NAEP）），分析[[Academic Achievement\|学业成就]]与背景变量的广泛分布规律。
 >   - **无法操纵[[Independent Variable\|自变量]]的现实议题** 针对家庭背景、性别差异、学校既有[[Organizational Culture\|组织文化]]等在伦理上或实际上无法进行随机操纵的变量。[[Argument_Lekhal_2015_Paideia\|(Lekhal et al., 2015, pp. 79–83)]]
 > - **谨慎使用**
 >   - 在[[Multiple Regression\|多元回归]]中使用带有因果指向的统计术语（如“主效应”、“中介路径”、“影响机制”）；此类修辞极易向一线教育决策者传递虚假确定性。

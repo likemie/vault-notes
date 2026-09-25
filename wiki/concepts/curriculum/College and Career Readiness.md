@@ -41,6 +41,9 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Common Core State Standards]]"
+  - "[[Achieve]]"
+  - "[[National Governors Association]]"
+  - "[[Council of Chief State School Officers]]"
   - "[[Race to the Top]]"
   - "[[American Federation of Teachers]]"
   - "[[National Education Association]]"
@@ -120,7 +123,7 @@ updated: 2026-09-26
 > 探讨高等学术深造与知识密集型职场所需底层思维能力的关系，打破历史上普通教育与职业教育的人为割裂。
 
 > [!claim] [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]]
-> **升学与就业底层认知同构假说** 麦克唐奈与韦瑟福德指出，Achieve 智库开展的美国文凭项目（ADP）与 ACT 实证调查颠覆了传统二元假定；数据证实，在现代[[Knowledge-Based Economy|知识经济]]中，无论是升入大学修读学术学分课程，还是进入高技术行业参与职业学徒培训，青年学生面临失败的首要原因均在于缺乏足够的复杂文本阅读理解能力与量化代数推理能力。现代高技能职场不再需要只会机械操作的纯劳力，而是需要具备批判性分析、清晰论证与数据解构能力的知识工作者。因此，将大学就绪与职业就绪合并为统一的国家标准锚点，不仅在理论上契合了当代劳动力市场的发展趋势，更为消除弱势群体因过早被分流至低质职业轨而承受的阶层固化提供了制度可能。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9, 13)]]
+> **升学与就业底层认知同构假说** 麦克唐奈与韦瑟福德指出，[[Achieve]] 智库开展的美国文凭项目（ADP）与 ACT 实证调查颠覆了传统二元假定；数据证实，在现代[[Knowledge-Based Economy|知识经济]]中，无论是升入大学修读学术学分课程，还是进入高技术行业参与职业学徒培训，青年学生面临失败的首要原因均在于缺乏足够的复杂文本阅读理解能力与量化代数推理能力。现代高技能职场不再需要只会机械操作的纯劳力，而是需要具备批判性分析、清晰论证与数据解构能力的知识工作者。因此，将大学就绪与职业就绪合并为统一的国家标准锚点，不仅在理论上契合了当代劳动力市场的发展趋势，更为消除弱势群体因过早被分流至低质职业轨而承受的阶层固化提供了制度可能。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9, 13)]]
 
 ---
 
@@ -159,9 +162,9 @@ updated: 2026-09-26
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2001–2004 年 — 美国文凭项目（ADP）萌芽** Achieve 智库联合多州启动美国文凭项目，首次系统测算高校新生高额补课率，正式提出基础教育必须确立面向大学与职场的共通学术基准。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 9)]]
+> - **2001–2004 年 — 美国文凭项目（ADP）萌芽** [[Achieve]] 智库联合多州启动美国文凭项目，首次系统测算高校新生高额补课率，正式提出基础教育必须确立面向大学与职场的共通学术基准。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 9)]]
 > - **2006 年 — ACT《字里行间》实证突破** 美国大学测验组织发布里程碑报告《字里行间》（*Reading Between the Lines*），证实能否理解复杂非虚构文本是决定大学学术成败的第一分水岭，确立了文本复杂度在 CCR 中的核心[[Construct|构念]]地位。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 14)]]
-> - **2009–2010 年 — [[Common Core State Standards|CCSS]] 国家标准顶层锚定** 全国州长协会（NGA）与州首席教育官理事会（CCSSO）正式将 CCR 确立为全美共同核心标准的立纲统领，并在 2010 年发布大学与职业就绪锚点标准终稿。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 12–16)]]
+> - **2009–2010 年 — [[Common Core State Standards|CCSS]] 国家标准顶层锚定** [[National Governors Association|全国州长协会]]（NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（CCSSO）正式将 CCR 确立为全美共同核心标准的立纲统领，并在 2010 年发布大学与职业就绪锚点标准终稿。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 12–16)]]
 
 ---
 

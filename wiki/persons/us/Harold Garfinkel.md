@@ -43,7 +43,8 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Alfred Schutz]]"
-related_facts: []
+related_facts:
+  - "[[Achieve]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -136,7 +137,7 @@ updated: 2026-09-22
 > [!citation-card] Burrell 与 Morgan 论常人方法学对社会成就的内部透视
 > 常人方法学关注人们如何理解自身的日常世界。更具体而言，它针对参与者在社会相遇中达成并维系互动的机制——他们所作的[[Hypothesis\|假设]]、所采用的惯例以及所采纳的实践。常人方法学因此寻求以其自身的话语来理解社会成就；它致力于从内部去理解它们。（Burrell & Morgan, 1979；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]）
 >
-> *[[Ethnomethodology]], then, is concerned with how people make sense of their everyday world. More especially, it is directed at the mechanisms by which participants achieve and sustain interaction in a social encounter – the assumptions they make, the conventions they utilize and the practices they adopt. Ethnomethodology thus seeks to understand social accomplishments in their own terms; it is concerned to understand them from within.*
+> *[[Ethnomethodology]], then, is concerned with how people make sense of their everyday world. More especially, it is directed at the mechanisms by which participants [[Achieve]] and sustain interaction in a social encounter – the assumptions they make, the conventions they utilize and the practices they adopt. Ethnomethodology thus seeks to understand social accomplishments in their own terms; it is concerned to understand them from within.*
 
 ---
 

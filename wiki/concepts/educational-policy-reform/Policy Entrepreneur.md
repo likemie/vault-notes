@@ -50,12 +50,16 @@ related_persons:
   - "[[Eleftherios Klerides]]"
   - "[[John Hattie]]"
 related_facts:
+  - "[[National Assessment of Educational Progress]]"
   - "[[TIMSS]]"
   - "[[The Education Trust]]"
   - "[[Teach First New Zealand]]"
   - "[[Cognition Education]]"
   - "[[Common Core State Standards]]"
+  - "[[Achieve]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
+  - "[[National Governors Association]]"
+  - "[[Council of Chief State School Officers]]"
   - "[[Foundation North Māori and Pasifika Education Initiative]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
@@ -110,7 +114,7 @@ updated: 2026-09-26
 > [!feature] 核心要素
 > - **政策机会窗口敏锐捕捉（Policy Window Coupling）** 密切监控社会问题、政治动向与财政激励，在危机爆发或联邦资助开启的短暂窗口期，迅速将既有改革方案与痛点问题精确耦合。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–5)]]
 > - **跨界网络协同与联盟构建（Cross-Sector Networked Agency）** 依托资深政客声望、智库专业知识与学术领袖公信力，绕过科层阻隔，建立涵盖两党官员、企业界与教师工会的多边战略同盟。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]
-> - **实证证据与两党价值策略性打包（Strategic Framing & Evidence Packaging）** 将冰冷的量化差距指标（如 NAEP 鸿沟、[[TIMSS]] 课程落差）与国家经济安全、阶层向上流动等两党根本价值符号深度绑定，制造危机共识。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 10–12)]]
+> - **实证证据与两党价值策略性打包（Strategic Framing & Evidence Packaging）** 将冰冷的量化差距指标（如 [[National Assessment of Educational Progress|NAEP]] 鸿沟、[[TIMSS]] 课程落差）与国家经济安全、阶层向上流动等两党根本价值符号深度绑定，制造危机共识。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 10–12)]]
 > - **诉诸实证研究的技术性防卫（Technocratic Shielding）** 高举以证据为基础的大旗，将争议极大的方案设计定义为中立的学术与技术[[Homework|作业]]，以此作为抵御外部意识形态干预的制度盾牌。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 13, 19)]]
 > - **跨公私载体无缝切换与知识商业化（Seamless Straddling & Monetisation）** 在公共福利（提供学术测试）、非营利信托与营利性商业公司之间灵活流转，实现学术成果的品牌化运作与全球[[Governing at a Distance|远处治理]]。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. viii–ix)]]
 
@@ -173,7 +177,7 @@ updated: 2026-09-26
 > [!example] 典型案例一：[[Common Core State Standards|共同核心标准]]运动中的跨界政策企业家联合网络
 > 在美国[[Common Core State Standards|共同核心州立标准]]（CCSS）推进过程中，跨界政策企业家组建了高度协同的行动者矩阵，瓦解了各州标准的百年割裂局面：
 > - **资深政界领袖穿梭协调** 前州长詹姆斯·B·亨特（James B. Hunt Jr.）与鲍勃·怀斯（Bob Wise）凭借跨党派人脉，主动邀请美国国家科学研究委员会（NRC）召开研讨会起草《教育领导力蓝图》，为两党州长确立国家标准改革合法性。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]
-> - **倡导机构与智库研制工具** 阿奇夫（Achieve）长期主持美国文凭项目（ADP），联合[[The Education Trust|教育信托]]发布各州标准虚假及格率报告，并为各州立法表决量身定制逐条对标分析（Crosswalks）。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 17–18)]]
+> - **倡导机构与智库研制工具** [[Achieve|阿奇夫]]（Achieve）长期主持美国文凭项目（ADP），联合[[The Education Trust|教育信托]]发布各州标准虚假及格率报告，并为各州立法表决量身定制逐条对标分析（Crosswalks）。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 17–18)]]
 > - **学术领军者巡回游说** 密歇根州立大学威廉·H·施密特（William H. Schmidt）教授兼具学者与倡导者双重身份，以 [[TIMSS]] 跨国数据在各州巡回宣讲美国课程宽一英里深一英寸的危机。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
 > - **慈善资本构建全国网络** 盖茨基金会投入 8,900 万美元，为 18 家国家组织、10 家技术服务商和 20 个州教育局提供经费，亨特研究所每周召开例行协调会，统领全美推进节奏。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 20, 22)]]
 
@@ -209,7 +213,7 @@ updated: 2026-09-26
 > > [!axis]- 去政治化技术防护 vs 宪法代议制民主问责
 > > 争论政策企业家运用中立科学证据绕过公众辩论的做法，是否侵蚀了代议制民主的合法性根基。
 > >
-> > - **公法与地方分权批评者（2013）** 指责政策企业家依托未受民选监督的跨州非营利机构（NGA/CCSSO）与私人基金会注资制定统一规则，实质架空了各州宪法赋予立法机关与地方学区的教育决策权。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 16–17)]]
+> > - **公法与地方分权批评者（2013）** 指责政策企业家依托未受民选监督的跨州非营利机构（[[National Governors Association|NGA]]/[[Council of Chief State School Officers|CCSSO]]）与私人基金会注资制定统一规则，实质架空了各州宪法赋予立法机关与地方学区的教育决策权。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 16–17)]]
 > > - **政策企业家与倡导联盟（2013）** 坚称诉诸实证研究是克服党派政治极化、避免全国教育标准沦落为无休止意识形态讨价还价的必要护栏。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 13, 19)]]
 
 > [!critique] 外部批评

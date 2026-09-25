@@ -59,6 +59,7 @@ related_arguments:
 related_facts:
   - "[[PRACCIS]]"
   - "[[National Science Foundation]]"
+  - "[[Achieve]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Questionnaire]]"
@@ -136,7 +137,7 @@ updated: 2026-09-22
 > [!citation-card] 论[[Epistemic Cognition\|认识论认知]]的 [[AIR Model of Epistemic Cognition\|AIR]] 三元构架
 > 认识论认知不是静止的心理特质，而是学习者在特定情境中对[[Epistemic Aims\|认识目标]]（寻求真理或理解）、[[Epistemic Ideals\|认识论理想]]（评估知识质量的标准，如因果机制、预测力与观察[[Reliability\|可靠性]]）以及可靠认识过程（生成符合理想的知识主张的程序与方法）的协调与反思。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–223)]]; [[Argument_Chinn_2011_EP\|(Chinn et al., 2011, pp. 142–144)]]
 >
-> *The AIR model conceptualizes epistemic cognition as comprised of epistemic aims, epistemic ideals used to evaluate epistemic products, and [[Reliable Epistemic Processes]] used to achieve those aims.*
+> *The AIR model conceptualizes epistemic cognition as comprised of epistemic aims, epistemic ideals used to evaluate epistemic products, and [[Reliable Epistemic Processes]] used to [[Achieve]] those aims.*
 
 ---
 

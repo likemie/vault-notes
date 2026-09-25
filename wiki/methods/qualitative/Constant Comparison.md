@@ -32,7 +32,8 @@ related_methods:
   - "[[Analytic Induction]]"
   - "[[Correlational Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Achieve]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29]]"
 confidence: medium
@@ -51,7 +52,7 @@ updated: 2026-09-17
 > [!citation-card]- 关键定义
 > 持续比较中，研究者把新获取数据与既有数据、已生成的类别和理论比较，以实现数据与类别、理论之间的完美契合。负面案例或挑战既有类别与理论的数据导致它们被修改，直到完全容纳所有数据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|Cohen et al. (2011)]]（29.5）
 >
-> *In constant comparison the researcher compares newly acquired data with existing data and categories and theories that have been devised and which are emerging, in order to achieve a perfect fit between these and the data.*
+> *In constant comparison the researcher compares newly acquired data with existing data and categories and theories that have been devised and which are emerging, in order to [[Achieve]] a perfect fit between these and the data.*
 
 > [!method-scope] 方法范围
 > - **研究对象** 正在分析的质性数据（访谈、观察、文档等）及其生成的类别与[[Coding in Qualitative Research\|编码]]。

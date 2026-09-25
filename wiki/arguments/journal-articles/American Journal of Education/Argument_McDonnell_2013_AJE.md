@@ -48,14 +48,23 @@ related_theories:
   - "[[Six-Stage Model of Policymaking]]"
   - "[[Punctuated Equilibrium Theory]]"
 related_methods:
+  - "[[Process Tracing]]"
   - "[[Elite Interview]]"
   - "[[In-depth Interview]]"
   - "[[Peer Debriefing]]"
   - "[[Triangulation]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[William H. Schmidt]]"
 related_facts:
   - "[[Common Core State Standards]]"
+  - "[[National Governors Association]]"
+  - "[[Council of Chief State School Officers]]"
+  - "[[Achieve]]"
+  - "[[National Assessment of Educational Progress]]"
+  - "[[Bill & Melinda Gates Foundation]]"
+  - "[[Hunt Institute]]"
+  - "[[American Diploma Project]]"
   - "[[American Federation of Teachers]]"
   - "[[National Education Association]]"
   - "[[The Education Trust]]"
@@ -78,9 +87,9 @@ title: "Argument_McDonnell_2013_AJE"
 argument_key: "Argument_McDonnell_2013_AJE"
 argument_display_title: "Evidence use and the Common Core State Standards movement: From problem definition to policy adoption"
 argument_kind: "journal-article"
-argument_related_count: 44
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "American Journal of Education"
 book_title: ""
@@ -138,14 +147,14 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **过程追踪法**<br>Process Tracing | 采用政治学质性[[Causality\|因果推断]]的核心路径，追踪 [[Common Core State Standards\|CCSS]] 在 5 年内从概念动议跃升为国家级政策的微观决策因果机制与关键转折节点。（pp. 7–8） |
+> | **[[Process Tracing\|过程追踪法]]**<br>Process Tracing | 采用政治学质性[[Causality\|因果推断]]的核心路径，追踪 [[Common Core State Standards\|CCSS]] 在 5 年内从概念动议跃升为国家级政策的微观决策因果机制与关键转折节点。（pp. 7–8） |
 > | **精英访谈法**<br>[[Elite Interview]] | 针对全美核心决策层及四个代表性州的关键行动者开展 111 场结构化[[In-depth Interview\|深度访谈]]，核验[[Research Utilization\|证据使用]]动机、未采纳证据及政治权衡逻辑。 |
 > | **文献与档案三角互证**<br>Documentary Analysis & Triangulation | 搜集整理约 1,500 份政策报告、国会听证证词、公开演讲、新闻发布及会议备忘录，与口述证词相互交叉印证。（p. 20） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **访谈样本** | 111 位精英受访者。国家层面 49 位（涵盖全国州长协会（National Governors Association, NGA）、州首席教育官理事会（Council of Chief State School Officers, CCSSO）、布鲁金斯学会、[[American Federation of Teachers\|全美教师联盟]]（American Federation of Teachers, AFT）、全国教育协会（[[National Education Association]], NEA）、[[The Education Trust\|教育信托]]等）；州层面深度案例覆盖加利福尼亚、印第安纳、马萨诸塞与田纳西四个政治文化与改革基础截然不同的州。（pp. 7–8, 20） |
+> | **访谈样本** | 111 位精英受访者。国家层面 49 位（涵盖[[National Governors Association\|全国州长协会]]（National Governors Association, NGA）、[[Council of Chief State School Officers\|州首席教育官理事会]]（Council of Chief State School Officers, CCSSO）、布鲁金斯学会、[[American Federation of Teachers\|全美教师联盟]]（American Federation of Teachers, AFT）、全国教育协会（[[National Education Association]], NEA）、[[The Education Trust\|教育信托]]等）；州层面深度案例覆盖加利福尼亚、印第安纳、马萨诸塞与田纳西四个政治文化与改革基础截然不同的州。（pp. 7–8, 20） |
 > | **文本样本** | 1,500 余份政策档案；包括 2008 年《迈向成功的基准》报告、2010 年公开征求意见的 10,000 份公众反馈汇总以及 29 人验证委员会审查备忘。（pp. 8, 20, 23） |
 > | **研究情境** | 获得[[William T. Grant Foundation\|威廉·T·格兰特基金会]]（William T. Grant Foundation）研究证据使用项目资助，访谈采用匿名机制以规避受访者公关辞令。（pp. 8, 19–20） |
 
@@ -184,16 +193,16 @@ issuing_organization: ""
 
 > [!actor-grid] 推动通用标准议程的核心组织网络
 > - **资深政界领袖** 北卡罗来纳州前州长詹姆斯·B·亨特（James B. Hunt Jr.）及其创立的亨特研究所（Hunt Institute）、西弗吉尼亚州前州长鲍勃·怀斯（Bob Wise，卓越教育联盟负责人），凭借在两党州长间的声望穿梭协调；亨特于2007年主动邀请美国国家科学研究委员会（National Research Council, NRC）召开两次专题研讨会，梳理基于标准的问责制实证证据，形成政策简报《教育领导力蓝图》（*Blueprint for Education Leadership*），为通用标准立论。（pp. 8–9, 21）
-> - **专业智库与倡导机构** 阿奇夫（Achieve，由州长与跨国企业领袖联合发起，长期主持美国文凭项目（American Diploma Project, ADP））、[[The Education Trust|教育信托]]（The Education Trust，负责人卡蒂·海科克（Kati Haycock））与托马斯·B·福特汉姆基金会（Thomas B. Fordham Foundation，负责人切斯特·E·芬恩（Chester E. Finn Jr.）），持续发布各州标准质量评价报告，充当核心智囊。（pp. 9, 21）
+> - **专业智库与倡导机构** [[Achieve|阿奇夫]]（Achieve，由州长与跨国企业领袖联合发起，长期主持美国文凭项目（American Diploma Project, ADP））、[[The Education Trust|教育信托]]（The Education Trust，负责人卡蒂·海科克（Kati Haycock））与托马斯·B·福特汉姆基金会（Thomas B. Fordham Foundation，负责人切斯特·E·芬恩（Chester E. Finn Jr.）），持续发布各州标准质量评价报告，充当核心智囊。（pp. 9, 21）
 > - **高校学术领军者** 密歇根州立大学教授、[[TIMSS|国际数学与科学趋势研究]]（Trends in International Mathematics and Science Study, TIMSS）全美负责人威廉·H·施密特（William H. Schmidt），兼具国际知名学者与政策倡导者双重身份，带着跨国课程比较数据在全美各州巡回游说。（pp. 9–10, 21）
-> - **跨州教育行政首脑联合会** 全国州长协会（NGA）与州首席教育官理事会（CCSSO），代表全美 50 州教育行政最高负责人共同发起并主导该项动议，确立了自下而上的合法性。
+> - **跨州教育行政首脑联合会** [[National Governors Association|全国州长协会]]（NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（CCSSO），代表全美 50 州教育行政最高负责人共同发起并主导该项动议，确立了自下而上的合法性。
 
 #### 2. 政策企业家动员四组实证指标，制造各州现行标准普遍失效的危机共识
 
 单纯呼吁改革无法撼动既有利益格局，政策企业家必须为早已构思好的通用标准方案寻找具有震撼力的危机证据。（pp. 3–4, 9–10）
 
 > [!quad-grid] 议程设置阶段动员的核心实证指标组合
-> - **州考与全国评估的巨大鸿沟（NAEP 差距）** 动员美国国家教育统计中心（National Center for Education Statistics, NCES, 2007）的实证映射研究，严密比对各州自设的标准通过率与全国教育进展评估（National Assessment of Educational Progress, NAEP）的实际成绩，揭露各州为应付《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）严苛的充分学业进展（Adequate Yearly Progress, AYP）考核，蓄意调低合格切分点、制造虚假高及格率的竞相向下沉沦（Race to the bottom）现象。（p. 9）
+> - **州考与全国评估的巨大鸿沟（[[National Assessment of Educational Progress|NAEP]] 差距）** 动员美国国家教育统计中心（National Center for Education Statistics, NCES, 2007）的实证映射研究，严密比对各州自设的标准通过率与[[National Assessment of Educational Progress|全国教育进展评估]]（National Assessment of Educational Progress, NAEP）的实际成绩，揭露各州为应付《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）严苛的充分学业进展（Adequate Yearly Progress, AYP）考核，蓄意调低合格切分点、制造虚假高及格率的竞相向下沉沦（Race to the bottom）现象。（p. 9）
 > - **国际课程与测评差距（TIMSS / [[PISA]]）** 援引施密特等人的跨国比较研究，结合国际学生评估项目（Programme for International Student Assessment, PISA）数据，指出高绩效国家（如新加坡、韩国、日本）的课程具有深度与系统连贯性，而美国各州课程内容庞杂浅薄，呈现典型的宽一英里、深一英寸（A mile wide and an inch deep）碎片化特征。（pp. 9–10）
 > - **大学新生高额补习率** 动员 Achieve 主导的 ADP 调查数据，展示大量普通高中毕业生升入大学后不得不自费补修高中水平非学分补习课程的严峻事实，凸显文凭水分。
 > - **企业劳动力技能短缺数据** 联合全美主要商界协会，用雇主调研数据说明多数高中毕业生缺乏应对现代[[Knowledge-Based Economy|知识经济]]所需的复杂阅读理解与定量推理能力。

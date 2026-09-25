@@ -17,6 +17,7 @@ tags:
 related_methods:
   - "[[Internal Consistency]]"
   - "[[Case Study]]"
+  - "[[Process Tracing]]"
   - "[[Triangulation]]"
   - "[[Documentary Analysis]]"
   - "[[Archival Correspondence Analysis]]"
@@ -63,7 +64,7 @@ updated: 2026-09-17
 > - **不声称回答的问题** 档案研究无法直接观察事件本身（只能通过记录重构），无法弥补已遗失[[Document\|文献]]造成的证据空白，也不能假定幸存文献具有统计代表性。
 
 > [!method-stack] 方法层级
-> - **研究设计** 历史[[Case Study\|个案研究]]、政策过程追踪、制度变迁分析、多档案比较研究。
+> - **研究设计** 历史[[Case Study\|个案研究]]、政策[[Process Tracing|过程追踪]]、制度变迁分析、多档案比较研究。
 > - **数据收集** 档案目录检索、文件调阅、手稿识别与抄录、数字档案远程访问。
 > - **分析方法** 来源批评（真实性验证）、文件交叉比对、草稿与终稿差异分析、文件系列之间的关联追踪。
 > - **辅助技术** 档案目录在线预检、数字扫描与索引、文件编目与时间线重建。
@@ -119,4 +120,4 @@ updated: 2026-09-17
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]] — 本章系统介绍了档案的四种来源类型、研究操作程序与挑战，并通过新西兰青少年帮派调查委员会档案案例展示了档案研究在政策过程追踪中的应用。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]] — 本章系统介绍了档案的四种来源类型、研究操作程序与挑战，并通过新西兰青少年帮派调查委员会档案案例展示了档案研究在政策[[Process Tracing|过程追踪]]中的应用。

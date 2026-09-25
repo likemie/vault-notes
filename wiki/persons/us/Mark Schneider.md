@@ -42,6 +42,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_facts:
   - "[[Institute of Education Sciences]]"
+  - "[[National Assessment of Educational Progress]]"
 related_persons:
   - "[[Robert Slavin]]"
   - "[[Vivian Tseng]]"
@@ -79,7 +80,7 @@ updated: 2026-09-22
 > [!timeline] 生平与职涯
 > - **1974** 获北卡罗来纳大学教堂山分校政治学博士学位，随后任教于纽约州立大学石溪分校，晋升为政治学杰出教授。
 > - **2000** 出版经典代表作《选择学校：消费者、社区与学校系统的改善》（*Choosing Schools*），深入考察家长[[School Choice\|择校]]行为与社会资本运作机制，荣获美国政策研究组织阿隆·维尔达夫斯基最佳著作奖。
-> - **2005–2008** 获总统任命出任美国国家教育统计中心专员，主管全美教育进展评估（National Assessment of Educational Progress, NAEP）与跨州纵向数据系统建设。
+> - **2005–2008** 获总统任命出任美国国家教育统计中心专员，主管全美教育进展评估（[[National Assessment of Educational Progress]], NAEP）与跨州纵向数据系统建设。
 > - **2008–2018** 担任美国研究学会副总裁兼学术研究员，发起创立大学测度（College Measures）项目，深入探索高等教育产出、毕业生薪资透明化与问责政策；出版《走向毕业》（*Getting to Graduation*, 2012）与《隔壁的大学》（*The University Next Door*, 2014）。
 > - **2018–2024** 被任命为[[Institute of Education Sciences\|美国教育科学院]]院长，大刀阔斧推行 SEER 科研立项标准改革，设立教育因果实验数字学习平台与 XPrize 快速复现竞赛机制。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206–209)]]
 

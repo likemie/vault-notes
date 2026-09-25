@@ -82,6 +82,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
+  - "[[National Assessment of Educational Progress]]"
   - "[[Te Kotahitanga]]"
 related_arguments: []
 sources:
@@ -210,7 +211,7 @@ sources:
 
 面对公众对统一测验的狂热诉求，盲目归咎于政客是片面的；政治诉求的激化源于过去 40 年公共财政巨额投入与[[Academic Achievement|学业成就]]停滞之间的巨大反差，以及学校长期无法向家长提供可信的学业反馈（pp. 12–13）。
 
-> [!row-contrast] 过去 40 年美国公立学校资源投入与 NAEP 成绩对比表（Hanushek, 2005）
+> [!row-contrast] 过去 40 年美国公立学校资源投入与 [[National Assessment of Educational Progress|NAEP]] 成绩对比表（Hanushek, 2005）
 > | 观察指标（1960–2000） | 1960 年基线数据 | 1970 年数据 | 1980 年数据 | 1990 年数据 | 2000 年终期数据 | 四十年变迁态势与结论 |
 > |---|---|---|---|---|---|---|
 > | **实际生均支出（2000-01美元）** | \$2,235 | \$4,008 | \$5,124 | \$6,867 | \$7,591 | **翻了两番以上**，增长率达 240% |

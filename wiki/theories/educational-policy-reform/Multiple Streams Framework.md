@@ -37,6 +37,7 @@ related_concepts:
   - "[[Construct]]"
 related_theories: []
 related_methods:
+  - "[[Process Tracing]]"
   - "[[Discourse Analysis]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
@@ -138,7 +139,7 @@ updated: 2026-09-24
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 拒绝将政策系统视为机械的理性因果机器；政策世界是复杂的“有组织的无序状态（Organized Anarchy）”，充满了结构性歧义、流动的参与者与偏好的不确定性。
 > - **[[Epistemology\|认识论]]** 强调证据的使用具有高度的情境依赖性与建构性；研究成果不是直接转化为行动的硬因果，而是行动者在博弈中用于界定问题与包装方案的符号资源。
-> - **方法含义** 倡导过程追踪法（Process Tracing）、历史制度分析与政策[[Discourse Analysis\|话语分析]]，重点追踪特定方案何时、由谁、以何种话语修辞被装入政策议程。
+> - **方法含义** 倡导[[Process Tracing|过程追踪法]]（Process Tracing）、历史制度分析与政策[[Discourse Analysis\|话语分析]]，重点追踪特定方案何时、由谁、以何种话语修辞被装入政策议程。
 > - **不能直接推出的东西** 不能根据三流耦合的事实自动推导该政策方案在微观实践中具备实质教育有效性；该框架解释的是“议程如何确立”，而非“政策是否科学”。
 
 > [!theory-use] 如何用于研究

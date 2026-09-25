@@ -97,6 +97,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[PISA]]"
+  - "[[Achieve]]"
   - "[[Research in Schools Evaluation]]"
 related_arguments: []
 sources:
@@ -515,7 +516,7 @@ updated: '2026-08-27'
 > | 因素（Factors） | 哪些因素在起作用？ | 影响教师留任的关键因素有哪些？ |
 > | 评价（Evaluation） | 某个方案是否有效？ | 该课后辅导计划是否提高了学生成绩？ |
 > | 功能或目的（Function/Purpose） | 它是做什么用的？ | 学校排名系统的社会功能是什么？ |
-> | 如何达成某结果（How to achieve outcomes） | 怎么做才能成功？ | 如何在学校中有效推广协作式教学？ |
+> | 如何达成某结果（How to [[Achieve]] outcomes） | 怎么做才能成功？ | 如何在学校中有效推广协作式教学？ |
 > | 类型（Types） | 有哪些种类？ | 教育[[Policy Borrowing\|政策借用]]有哪几种类型？ |
 > | 属性与特征（Properties/Characteristics） | 它有什么特征？ | 高效教师团队有哪些共同属性？ |
 > | 阶段（Stages） | 经过哪些阶段？ | 教师专业身份发展经历了哪些阶段？ |
@@ -719,7 +720,7 @@ Box 6.1 将全章散落在各节的实操建议精炼为36条清单，按逻辑�
 > [!citation-card]- 吃大象：研究的范围边界
 > 我们建议一项研究保持狭窄和有限的范围，以实现可管理性和严谨性。俗话说"吃大象的最佳方式是一次一口"！研究者必须为研究设定清晰、可感知、现实、公平和可管理的边界。失控的研究可能漫游各处，实际上哪里也去不了。（第6章, pp.92–93）
 >
-> Principally, we advise a single piece of research to be narrow and limited in scope in order to achieve manageability as well as rigour. As the saying goes 'the best way to eat an elephant is one bite at a time'! Researchers will need to put clear, perceptible, realistic, fair and manageable boundaries round their research. If this cannot be done straightforwardly then maybe the researcher should reconsider whether to proceed with the planned enterprise, as uncontrolled research may wander everywhere and actually arrive nowhere.
+> Principally, we advise a single piece of research to be narrow and limited in scope in order to [[Achieve]] manageability as well as rigour. As the saying goes 'the best way to eat an elephant is one bite at a time'! Researchers will need to put clear, perceptible, realistic, fair and manageable boundaries round their research. If this cannot be done straightforwardly then maybe the researcher should reconsider whether to proceed with the planned enterprise, as uncontrolled research may wander everywhere and actually arrive nowhere.
 
 > [!citation-card]- 小样本的力量
 > 小样本、窄聚焦的研究可以产生卓越的成果。例如 Axline 的 *Dibs in Search of Self* (1964) 聚焦一个孩子的游戏治疗效果，Piaget (1932) 的 *The Moral Judgement of the Child* 聚焦少数几个孩子——两者都通过详细而谨慎限定边界的研究，为教育工作者带来了巨大收益。（第6章, p.93）

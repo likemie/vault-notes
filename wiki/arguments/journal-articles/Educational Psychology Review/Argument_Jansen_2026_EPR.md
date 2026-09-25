@@ -54,6 +54,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[Visible Learning Meta-X]]"
+  - "[[Achieve]]"
 related_arguments: []
 sources:
   - "[[sources/Jansen_2026_EPR/Jansen_2026_EPR|Jansen_2026_EPR]]"
@@ -290,7 +291,7 @@ issuing_organization: ""
 > [!citation-card] 大模型提取精度逼近人类专家基准
 > 研究结果表明，大语言模型在数据提取准确性上达到了与人类专家相当的水平。我们在 156 项调查学生[[Academic Achievement\|学业成就]]的教育[[Meta-analysis\|元分析]]中比较了三种大语言模型与人类专家的准确性。大模型与金标准的[[Intraclass Correlation Coefficient\|组内相关系数]]达到 0.96–0.97，一致率达到 77%–81%。（p. 1）
 >
-> *The results demonstrate that LLMs achieve data extraction accuracy comparable to that of human experts. We compare the accuracy of three LLMs with that of human experts extracting data from 156 educational meta-analyses investigating students' achievement... Accuracy reached ICCs of 0.95/0.81 for the two human experts, and 0.96/0.97/0.96 for LLMs, with percentage agreement of 86%/80% (humans) and 81%/78%/77% (LLMs).*
+> *The results demonstrate that LLMs [[Achieve]] data extraction accuracy comparable to that of human experts. We compare the accuracy of three LLMs with that of human experts extracting data from 156 educational meta-analyses investigating students' achievement... Accuracy reached ICCs of 0.95/0.81 for the two human experts, and 0.96/0.97/0.96 for LLMs, with percentage agreement of 86%/80% (humans) and 81%/78%/77% (LLMs).*
 
 > [!citation-card] 证据综合中有意义人类控制与验证条件
 > 证据综合中负责任使用人工智能指南明确要求，必须通过[[Evaluation Research\|评估研究]]确定 AI 在特定语境下是否表现充分。我们的研究为大语言模型负责任地用于数据提取提供了实证基础，并阐明了在何种条件下人类、模型或人机混合提取的数据可被视为经过有效验证。（pp. 3, 24）

@@ -45,6 +45,8 @@ related_persons:
 related_facts:
   - "[[Common Core State Standards]]"
   - "[[TIMSS]]"
+  - "[[National Governors Association]]"
+  - "[[Council of Chief State School Officers]]"
   - "[[Race to the Top]]"
   - "[[American Federation of Teachers]]"
 related_arguments:
@@ -118,7 +120,7 @@ updated: 2026-09-26
 > [!theory-proposition] 命题三｜制度场所转换能够突破既有政策子系统的否决壁垒实现间断突变
 > **解释** 当既有决策场所由保守势力把持且充斥否决点时，政策企业家会主动开展场所转换（Venue Shopping），在传统管辖边界之外开辟具有替代性裁决权的新制度通道。新场所往往带来不同的参与规则、利益相关者构成与选民压力，从而绕过垄断联盟的阻挠，在极短时间内推动系统性政策突变。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 5–6, 8–9, 16–18)]]
 >
-> **应用实例** 面对联邦国会立法场所的政治死局，CCSS 倡导者将行动阵地战略性地转移至全国州长协会（NGA）与州首席教育官理事会（CCSSO）构成的横向州际自愿联盟这一全新场所；随后更借助联邦教育部[[Race to the Top|力争上游]]（RTTT）43.5 亿美元竞争性资助杠杆，迫使各州教育委员会在数月内打破分散垄断，促成 45 个州的历史性跨越。
+> **应用实例** 面对联邦国会立法场所的政治死局，CCSS 倡导者将行动阵地战略性地转移至[[National Governors Association|全国州长协会]]（NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（CCSSO）构成的横向州际自愿联盟这一全新场所；随后更借助联邦教育部[[Race to the Top|力争上游]]（RTTT）43.5 亿美元竞争性资助杠杆，迫使各州教育委员会在数月内打破分散垄断，促成 45 个州的历史性跨越。
 
 ---
 

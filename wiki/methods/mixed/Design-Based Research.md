@@ -53,6 +53,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Discourse Analysis]]"
   - "[[Ethnography]]"
+  - "[[Process Tracing]]"
   - "[[Triangulation]]"
   - "[[Peer Debriefing]]"
   - "[[Experimental Research]]"
@@ -154,7 +155,7 @@ updated: 2026-09-22
 ## 局限性
 
 > [!method-limits] 方法局限与应对策略
-> - **生态混淆[[Variable|变量]]与推论保证** 真实课堂中存在大量不可控的环境因素，如何证明成效确由设计干预带来而非其他变量导致？应对策略：采用长周期过程追踪与多模态数据[[Triangulation|三角互证]]，呈现完整的因果链条（Shavelson et al., 2003, p. 25）。
+> - **生态混淆[[Variable|变量]]与推论保证** 真实课堂中存在大量不可控的环境因素，如何证明成效确由设计干预带来而非其他变量导致？应对策略：采用长周期[[Process Tracing|过程追踪]]与多模态数据[[Triangulation|三角互证]]，呈现完整的因果链条（Shavelson et al., 2003, p. 25）。
 > - **推广性受限** 扎根于特定班级与学校文化的发现难以直接机械推广。应对策略：提供丰富厚密的描述（[[Rich and Thick Description|thick description]]），支持读者的[[Naturalistic Generalization|自然主义概括]]与情境迁移评估。
 > - **叙事循环与解释偏误** 研究者既是设计者又是评估者，容易陷入自我证实的循环论证。应对策略：引入双人独立[[Coding in Qualitative Research|编码]]检验、[[Reflexivity|反思性]]备忘录与外部[[Peer Debriefing|同行审议]]（Shavelson et al., 2003, p. 27）。
 > - **缺乏标准化失败判准** 工程设计具备明确的失效阈值，而教育设计往往对“局部失败”缺乏规范定义。应对策略：在研究设计中预先界定机制失效与[[Hypothesis|假设]]修正的判读规则（Sloane & Gorard, 2003）。

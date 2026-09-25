@@ -52,7 +52,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Socrates]]"
-related_facts: []
+related_facts:
+  - "[[Achieve]]"
 related_arguments:
   - "[[Argument_Naeem_2026_Episteme]]"
 confidence: high
@@ -78,7 +79,7 @@ updated: 2026-09-23
 > [!citation-card] 善于提问作为通往[[Epistemic Virtues and Vices|理智美德]]的技能基石
 > 善于提问是一项能够通过练习被掌握的关键理智技能。学生唯有学会如何构思有价值的问题，才能自主引导高尚的探究，将新知识与已有图式联结以实现深度理解。然而，提问技能只有在注入对真理和理解的热爱时，才能升华为真正的理智美德。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 273–275)]]
 >
-> *Good questioning is an intellectual skill that can be acquired through practice and instruction. Learning to question effectively enables students to lead worthwhile inquiries, make meaningful connections with prior knowledge, and achieve deeper understanding, serving as a vital foundation for cultivating intellectual virtues.*
+> *Good questioning is an intellectual skill that can be acquired through practice and instruction. Learning to question effectively enables students to lead worthwhile inquiries, make meaningful connections with prior knowledge, and [[Achieve]] deeper understanding, serving as a vital foundation for cultivating intellectual virtues.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Socratic Dialogue|苏格拉底式对话]] — 提问技能是个体层面的认知操作能力，而苏格拉底式对话是人际或人机之间的辩证交互法与教学组织形式。

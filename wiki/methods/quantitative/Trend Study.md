@@ -43,6 +43,8 @@ related_methods:
   - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
+related_facts:
+  - "[[National Assessment of Educational Progress]]"
 confidence: medium
 status: draft
 created: 2026-07-09
@@ -62,7 +64,7 @@ updated: 2026-09-17
 > - **[[Unit of Analysis\|分析单位]]** 因素或[[Variable\|变量]]层面的聚合数据，非个体。
 > - **输出形式** 趋势线、预测模型、跨时间点比较和聚合统计。
 
-趋势或预测研究对教育管理者或规划者具有明显的重要性：检查已记录的数据以建立已发生的变化模式，从而预测未来可能发生的情况。在趋势研究中，两项或更多[[Cross-sectional Study|横截面研究]]在多个时间点对相同年龄组进行，以便进行跨时间比较——如美国学术能力与成就测试（Scholastic Aptitude and Achievement tests）(Keeves, 1997a, p. 141)和美国国家教育进展评估（National Assessment of Educational Progress，NAEP）(Lietz & Keeves, 1997, p. 122)（p.269）。
+趋势或预测研究对教育管理者或规划者具有明显的重要性：检查已记录的数据以建立已发生的变化模式，从而预测未来可能发生的情况。在趋势研究中，两项或更多[[Cross-sectional Study|横截面研究]]在多个时间点对相同年龄组进行，以便进行跨时间比较——如美国学术能力与成就测试（Scholastic Aptitude and Achievement tests）(Keeves, 1997a, p. 141)和美国国家教育进展评估（[[National Assessment of Educational Progress]]，NAEP）(Lietz & Keeves, 1997, p. 122)（p.269）。
 
 > [!citation-card]- 关键定义
 > 趋势研究关注因素而非人群，这些因素随时间被研究。在数据收集的每个阶段抽取新样本，但聚焦于相同的因素。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|Cohen et al. (2011)]]

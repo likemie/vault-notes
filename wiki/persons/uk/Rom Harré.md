@@ -20,6 +20,8 @@ related_concepts:
 related_methods:
   - "[[Ethogenic Approach]]"
   - "[[Accounts]]"
+related_facts:
+  - "[[Achieve]]"
 confidence: medium
 status: draft
 created: 2026-07-22
@@ -42,7 +44,7 @@ updated: 2026-09-11
 > [!citation-card]- 关键表述
 > [[Ethogenic Approach\|人因取向]]（ethogenic）这个形容词表达了一种将人类视为**个人**——即制定计划、自我监控的行动者，意识到目标并有意识地考虑达成目标的最好方式——的观点。人因研究代表了研究社会行为的另一种取向，其方法与教育研究中常用的方法形成鲜明对比。（第22章, pp.441–442）
 >
-> *Ethogenic, an adjective which expresses a view of the human being as a person, that is, a plan-making, self-monitoring agent, aware of goals and deliberately considering the best ways to achieve them.*
+> *Ethogenic, an adjective which expresses a view of the human being as a person, that is, a plan-making, self-monitoring agent, aware of goals and deliberately considering the best ways to [[Achieve]] them.*
 
 ## 条目关联
 

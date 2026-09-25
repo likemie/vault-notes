@@ -46,6 +46,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Pre-test and Post-test]]"
   - "[[In-depth Interview]]"
+  - "[[Process Tracing]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Correlational Research]]"
@@ -92,7 +93,7 @@ updated: 2026-09-18
 > [!method-stack] 方法层级
 > - **研究设计** 扎根现场的质性行动探究、微观[[Case Study\|个案研究]]或准实验前[[Pre-test and Post-test\|后测]]反思设计。
 > - **数据收集** 课堂观察记录、学生[[Homework\|作业]]文本分析、师生[[In-depth Interview\|深度访谈]]、形成性测评数据与教学反思日志。
-> - **分析方法** 质性主题分析、教学互动过程追踪、[[Coding in Qualitative Research\|质性编码]]与微观学情归纳。
+> - **分析方法** 质性主题分析、教学互动[[Process Tracing|过程追踪]]、[[Coding in Qualitative Research\|质性编码]]与微观学情归纳。
 > - **辅助机制** 大学—中小学跨界研讨工作坊、同侪案例会商（Kollegiale Fallberatung）与 [[General Teaching Council for Scotland\|GTCS]] 专业更新平台。
 
 ---

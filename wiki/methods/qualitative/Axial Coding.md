@@ -43,6 +43,7 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Story Line]]"
   - "[[Case Study]]"
+  - "[[Process Tracing]]"
   - "[[In-depth Interview]]"
   - "[[Participant Observation]]"
   - "[[Constant Comparison]]"
@@ -94,7 +95,7 @@ updated: 2026-09-22
 > - **不声称回答的问题** 主轴编码本身并不直接确立唯一的最终核心理论（该任务由[[Selective Coding\|选择性编码]]完成），亦不脱离质性情境追求[[Positivism\|实证主义]]的普遍统计因果律。
 
 > [!method-stack] 方法层级
-> - **研究设计** [[Grounded Theory\|扎根理论]]（施特劳斯学派）、质性[[Case Study\|案例研究]]、过程追踪分析。
+> - **研究设计** [[Grounded Theory\|扎根理论]]（施特劳斯学派）、质性[[Case Study\|案例研究]]、[[Process Tracing|过程追踪分析]]。
 > - **数据收集** 半结构化[[In-depth Interview\|深度访谈]]、[[Participant Observation\|参与观察]]记录、[[Reflexivity\|反思性]]自述、组织[[Document\|文献]]。
 > - **分析方法** [[Open Coding\|开放编码]]、[[Paradigm\|范式]]模型匹配、[[Constant Comparison\|持续比较法]]、属性维度化展开、[[Domain Analysis\|领域分析]]。
 > - **辅助技术** 质性分析软件（[[Qualitative Computer Software\|CAQDAS]]）网络视图模型、[[Causality\|因果关系]]图、理论备忘录（[[Memos]]）、大语言模型[[Meaningful Human Control|人在回路]]（HITL）关系矩阵抽取。

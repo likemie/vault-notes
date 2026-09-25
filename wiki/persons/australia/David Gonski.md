@@ -48,6 +48,7 @@ related_facts:
   - "[[Gonski 2.0]]"
   - "[[Australian Education Research Organisation]]"
   - "[[Social Ventures Australia]]"
+  - "[[Achieve]]"
   - "[[Evidence for Learning]]"
   - "[[PISA]]"
 related_arguments:
@@ -95,7 +96,7 @@ updated: 2026-09-22
 
 > [!work-line] 标志性政策审查报告
 > - **2011 — *Review of Funding for Schooling: Final Report*（Gonski 1.0）** 确立资源分配公平基准，提出“学校资源标准”（Schooling Resource Standard，SRS）加弱势附加拨款模型，主张根据原住民、残疾、社会经济不利及偏远地理等指标实行差异化补偿拨款，并建议设立公立学校民间慈善募捐机制（[[Gonski Reforms]]；[[Argument_Keddie_2020_IJLE\|Keddie et al., 2020b, p. 11]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
-> - **2018 — *[[Gonski 2.0\|Through Growth to Achievement]]: Report of the Review to Achieve Educational Excellence in Australian Schools*（Gonski 2.0）** 战略重心由“经费投入平等”转向“教育成果增益与个性化成长”（Progress and [[Growth]]）；核心提出设立独立国家教育证据机构（Recommendation 23），以统筹协调全国教育科研与因果证据转化（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
+> - **2018 — *[[Gonski 2.0\|Through Growth to Achievement]]: Report of the Review to [[Achieve]] Educational Excellence in Australian Schools*（Gonski 2.0）** 战略重心由“经费投入平等”转向“教育成果增益与个性化成长”（Progress and [[Growth]]）；核心提出设立独立国家教育证据机构（Recommendation 23），以统筹协调全国教育科研与因果证据转化（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
 
 > [!claim] 核心政策哲学与治理主张
 > 冈斯基的核心政策主张立足于“自由主义功绩制与商业管理有效性”的结合。在财政分配上，他坚信教育拨款不应沦为政党分赃或身份固化的工具，而必须精准锚定于可测量的个体处境不利性，实现“让每一个儿童都有机会充分发挥其潜能”；而在教育生产上，他推崇将商业管理主义的绩效审计、因果证据工具与企业慈善资本引入公共教育系统，主张通过独立的准市场化中介破除行政科层僵化（Gonski, 2015；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 5]]）。

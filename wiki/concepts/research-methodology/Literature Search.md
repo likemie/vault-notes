@@ -49,6 +49,7 @@ related_facts:
   - "[[British Educational Research Association]]"
   - "[[PISA]]"
   - "[[Education at a Glance]]"
+  - "[[National Assessment of Educational Progress]]"
   - "[[Institute of Education Sciences]]"
   - "[[Comparative and International Education Society]]"
 related_arguments:
@@ -218,7 +219,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > | [UK Data Service](https://ukdataservice.ac.uk) | 英国社会科学数据仓储，含大型追踪调查数据 |
 > | [UNESCO](https://www.unesco.org) | 全球教育、科学、文化统计与政策报告 |
 > | [OECD Education](https://www.oecd.org/education) | PISA、TALIS、[[Education at a Glance]] 等国际比较数据 |
-> | [NCES](https://nces.ed.gov) | 美国教育统计，含 NAEP、Digest of Education Statistics |
+> | [NCES](https://nces.ed.gov) | 美国教育统计，含 [[National Assessment of Educational Progress\|NAEP]]、Digest of Education Statistics |
 > | [World Bank](https://www.worldbank.org) | 全球发展数据，含教育支出、入学率等跨国指标 |
 > | [EU Gateway](https://european-union.europa.eu) | 欧盟政策、统计（Eurostat）与法律文件 |
 > | [CESSDA](https://www.cessda.org) | 欧洲社会科学数据档案联盟，跨国数据检索 |

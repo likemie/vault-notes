@@ -41,6 +41,8 @@ related_facts:
   - "[[Common Core State Standards]]"
   - "[[National Education Association]]"
   - "[[American Federation of Teachers]]"
+  - "[[Achieve]]"
+  - "[[National Assessment of Educational Progress]]"
   - "[[National Center for Education Evaluation and Regional Assistance]]"
 related_arguments:
   - "[[Argument_McDonnell_2013_AJE]]"
@@ -104,7 +106,7 @@ updated: 2026-09-26
 > - **联邦资助与裁决机构** 美国教育部设立专门的评审监督办公室，组织外部跨学科专家实施独立双盲评审，依据打分矩阵裁定拨款分配，并行使年度履约审计权。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 50)]]
 > - **州级领导与协调主体** 各州州长、州教育委员会（SBE）与州教育厅（SDE）充当法定申请主体，负责协调州议会修改法律、清理特许学校数量上限，并推动标准落地。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 17)]]
 > - **地方学区与教师工会** 基层学区负责编制具体实施计划，教师工会参与签署合作谅解备忘录，但其对绩效挂钩条款的保留态度构成了持续的政治博弈点。
-> - **慈善资本与中介智库** 比尔与梅琳达·盖茨基金会（Bill & Melinda Gates Foundation）提供数千万美元的配套催化资金，资助 Achieve 智库与独立顾问团队进驻各州协助编制申请文本与撰写对标报告。
+> - **慈善资本与中介智库** 比尔与梅琳达·盖茨基金会（Bill & Melinda Gates Foundation）提供数千万美元的配套催化资金，资助 [[Achieve]] 智库与独立顾问团队进驻各州协助编制申请文本与撰写对标报告。
 
 > [!pathways]- 实施路径与管理
 > - **政策机会窗口的极端压缩** 联邦设定的递交截止日期极其严格，直接将各州原需数年充分论证与公众辩论的法定采纳程序压缩为数月甚至数周的火速表决，形成行政驱动对民主审议的程序替代。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 17–18)]]
@@ -117,7 +119,7 @@ updated: 2026-09-26
 > [!indicators]- 评估指标体系
 > - **投入指标** 43.5 亿美元联邦国库现金拨付到位率；各州地方财政与慈善配套资金撬动比例。
 > - **过程与制度指标** 全美各州完成跨州通用标准法定采纳的普及率；各州废除限制特许学校法律条款的比例；纵向数据平台连通率。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 16–18)]]
-> - **产出与学业指标** 全国教育进展评估（NAEP）达标率变动轨迹；高中毕业率与大学免补习录取率。
+> - **产出与学业指标** [[National Assessment of Educational Progress|全国教育进展评估]]（NAEP）达标率变动轨迹；高中毕业率与大学免补习录取率。
 
 > [!finding-cards] 核心实证结论
 > - **闪电重塑全美学术标准版图** 巨额资金诱导在极短时间内产生了惊人的同构效应：在不到两年时间内，全美 45 个州及哥伦比亚特区火速通过立法或行政表决采纳了 [[Common Core State Standards|CCSS]]，实现了自美国建国以来前所未有的国家学术标准大统一。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 16–17)]]

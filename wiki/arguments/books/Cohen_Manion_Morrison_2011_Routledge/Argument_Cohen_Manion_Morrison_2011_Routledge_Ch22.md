@@ -83,6 +83,8 @@ related_methods:
 related_persons:
   - "[[Rom Harré]]"
   - "[[Jürgen Habermas]]"
+related_facts:
+  - "[[Achieve]]"
 status: draft
 created: 2026-07-22
 updated: 2026-09-18
@@ -545,7 +547,7 @@ Heath（1982）的经典研究是陈述法在教育研究中应用的最完整�
 > [!citation-card]- Harré 的 [[Ethogenic Approach\|ethogenic]] 人类形象
 > 人因取向（ethogenic）这个形容词表达了一种将人类视为**个人**，即制定计划、自我监控的行动者，意识到目标并有意识地考虑达成目标的最好方式。人因研究代表了研究社会行为的另一种取向，其方法与教育研究中常用的方法形成鲜明对比。（第22章, pp.441–442）
 >
-> *Ethogenic, an adjective which expresses a view of the human being as a person, that is, a plan-making, self-monitoring agent, aware of goals and deliberately considering the best ways to achieve them.*
+> *Ethogenic, an adjective which expresses a view of the human being as a person, that is, a plan-making, self-monitoring agent, aware of goals and deliberately considering the best ways to [[Achieve]] them.*
 
 > [!citation-card]- Kitwood 论经验取样的[[Epistemology\|认识论]]立场
 > 因为[[Experience Sampling Method\|经验取样法]]避免审问式提问，浮现的材料比从紧密结构化访谈中获得的材料更少组织化。因此，成功处理个体陈述要求研究者极其熟悉访谈内容，并朝着逐步浮现的尝试性解释图式努力，在研究进行中不断修改、确认或[[Falsification\|证伪]]。（第22章, p.447）

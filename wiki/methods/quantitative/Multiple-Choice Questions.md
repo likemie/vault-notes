@@ -49,6 +49,7 @@ related_methods:
   - "[[Item Analysis]]"
   - "[[Item Response Theory]]"
   - "[[Inter-Rater Reliability]]"
+  - "[[Process Tracing]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -117,7 +118,7 @@ updated: 2026-09-23
 >
 > | 研究[[Document\|文献]] | 考察对象与样本 | 研究设计 | 核心发现与统计结论 | 测量学解释边界 |
 > |---|---|---|---|---|
-> | Frederiksen (1984); Lane (2004)，引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, pp. 24–25)]] | 高等教育与中等教育大规模测验数据 | 题型因子分析与认知过程追踪 | 证实选择反应题与建构反应题在认知加工上加载于不同潜在特质因子，选择题无法有效预测开放情境下的[[Problem Solving\|问题解决]]生成力 | 确立了再认与生成在心理测量学上的质性差异 |
+> | Frederiksen (1984); Lane (2004)，引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, pp. 24–25)]] | 高等教育与中等教育大规模测验数据 | 题型因子分析与认知[[Process Tracing\|过程追踪]] | 证实选择反应题与建构反应题在认知加工上加载于不同潜在特质因子，选择题无法有效预测开放情境下的[[Problem Solving\|问题解决]]生成力 | 确立了再认与生成在心理测量学上的质性差异 |
 > | Shavelson, Baxter & Pine (1991); Linn, Baker & Dunbar (1991)，引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, p. 24)]] | 科学探究与[[Higher-Order Thinking Skills\|高阶思维]]表现测验 | 概化理论（[[External Validity\|generalizability]] Theory）方差分量分析 | 表现性任务跨任务情境变异大导致任务信度受限，而多项选择题虽具备高评分信度，但以牺牲任务的[[Ecological Validity\|生态效度]]为代价 | 揭示了信度（选择题优势）与效度（表现任务优势）之间的经典测量学张力 |
 
 ---

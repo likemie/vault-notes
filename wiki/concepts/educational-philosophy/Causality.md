@@ -66,6 +66,7 @@ related_methods:
   - "[[Pretest-Posttest Control Group Design]]"
   - "[[Difference-in-Differences]]"
   - "[[Factorial Design]]"
+  - "[[Process Tracing]]"
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Mixed Methods Research]]"
@@ -203,7 +204,7 @@ updated: 2026-09-23
 ### 命题三　前向干预实验与后向机制追溯构成因果识别的互补双翼
 
 > [!concept-lens] 两种因果研究策略
-> 量化实验回答“原因之效果”，质性过程追踪回答“效果之原因”。
+> 量化实验回答“原因之效果”，质性[[Process Tracing|过程追踪]]回答“效果之原因”。
 
 > [!claim] [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]]
 > **前向操纵与后向追溯的互补性** 量化实验通过前向施加干预来估计原因的平均效果大小；[[Qualitative Research\|质性研究]]（[[Ethnography\|民族志]]、[[Action Narratives\|行动叙事]]）则通过后向追溯深入行动者头脑，揭示因果链条中的动机、理解与情境互动机制。两者的结合能同时回答因果关系的“发生与否（Whether）”与“如何发生（How）”。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, pp. 56–58)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, pp. 74–92)]]
@@ -252,7 +253,7 @@ updated: 2026-09-23
 > 3. **核查基线等值性与[[Attrition\|流失]]边界** 严格检验对照组基线等值性（差值 $< 0.05\text{ SD}$），套用 WWC 流失模型排查样本流失偏倚风险([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
 > 4. **规范实施[[Intent-to-Treat Analysis\|意向治疗分析]]（[[Initial Teacher Training\|ITT]]）** 保留所有[[Random Assignment\|随机化]]入组样本，防范处理依从性（Compliance）选择偏倚对因果识别的破坏。
 > 5. **开展敏感性与多重[[Hypothesis\|假设]]校正** 针对多重比较实施 Benjamini-Hochberg 校正，开展混杂敏感性分析检验因果结论的稳健性。
-> 6. **结合质性过程追踪** 嵌入[[Action Narratives\|行动叙事]]与[[Implementation Fidelity\|实施忠实度]]监控，打开因果起效的微观机制黑箱([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 71–74]])。
+> 6. **结合质性[[Process Tracing|过程追踪]]** 嵌入[[Action Narratives\|行动叙事]]与[[Implementation Fidelity\|实施忠实度]]监控，打开因果起效的微观机制黑箱([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 71–74]])。
 
 ---
 
@@ -285,7 +286,7 @@ updated: 2026-09-23
 > |:---|:---|:---|:---|:---|:---|
 > | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 10 个清算中心审查的 1,359 个去重教育项目 | 因果设计分级与跨平台综合评级 | 因果识别设计（[[Randomised Controlled Trials\|RCT]]/[[Quasi-Experimental Designs\|QED]]/RDD）与综合门槛 | 证明单项研究的因果识别（[[Internal Validity\|内部效度]]）不等于宏观评级收敛；35.4% 的极端评级冲突源于独立复制与随访门槛差异 | 宏观清算体系元评估 |
 > | [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] | [[What Works Clearinghouse\|WWC]] [[Single-Subject Design\|单一被试设计]]（[[Single-Case Design\|SCD]]）审查标准 | [[ABAB Design\|ABAB 设计]]与多基线设计 (SCD) | 阶段撤回与多基线阶梯式介入 | 证明 SCD 凭借密集的阶段内重复测量与阶段间对比，与组间 RCT 共享相同的排除成熟/历史替代解释逻辑 | 单一个案因果推断 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] | 阅读时间增加与阅读能力提升案例 | 机制展开与过程追踪 | 阅读动机、专注度、文本难度、教师支架 | 证明单一输入变量并非简单因果，背后包含至少 18 个微观维度的动态交互与能动性转化过程 | 复杂[[Causal Processes\|因果过程]]模型 |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] | 阅读时间增加与阅读能力提升案例 | 机制展开与[[Process Tracing\|过程追踪]] | 阅读动机、专注度、文本难度、教师支架 | 证明单一输入变量并非简单因果，背后包含至少 18 个微观维度的动态交互与能动性转化过程 | 复杂[[Causal Processes\|因果过程]]模型 |
 > | [[Compound Causes\|复合原因]]哲学案例 (Morrison, 2009) | 冰面摔倒骨折经典案例 | [[Necessary and Sufficient Conditions\|必要条件]]与充分条件析因 | 冰面、视力不佳、鞋底光滑、平衡感差、骨质疏松 | 证明冰面仅为贡献原因之一，需与其他条件结合构成充分条件组合，揭示复合原因本质 | 哲学因果分析 |
 
 ---

@@ -43,7 +43,8 @@ related_persons:
   - "[[Andreas Kazamias]]"
   - "[[Robert Ulich]]"
   - "[[Victor Cousin]]"
-related_facts: []
+related_facts:
+  - "[[Achieve]]"
 related_arguments:
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
 confidence: high
@@ -105,7 +106,7 @@ updated: 2026-09-22
 > [!citation-card] 国家作为全民族代表性行动力量与文化的实现
 > 教育的终极目标在于培育文化，而文化若无国家的积极干预绝无法达成。阿诺德将国家界定为全民族在集体与法人意义上的代表性行动力量，强调国家行动并非外在强加的专制压迫，而是全民族集体最高理性与道德自我的自我实现。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 38)]]
 >
-> *Culture is not possible without the State. The State is the nation in its collective and corporate character. The action of the State is the action of each of us, acting through the whole nation, to achieve what no single individual could achieve alone.*
+> *Culture is not possible without the State. The State is the nation in its collective and corporate character. The action of the State is the action of each of us, acting through the whole nation, to [[Achieve]] what no single individual could achieve alone.*
 
 > [!citation-card] 批判自由放任市侩主义并确立[[Paideia\|古典教化]]的屏障功能
 > 面对维多利亚时代自由放任资本主义所滋生的缺乏甘美与光明的市侩庸人，阿诺德深刻指出，将自由窄化为不受政府管制的放任自由是一种危险的迷思。放任自流必然导致商业暴发户的精神贫瘠与下层民众的无政府骚乱；唯有依靠国家建立普及中等学校，向全民播撒整全的人文教化，才能构筑抵御野蛮化的文明防线。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 38–39)]]

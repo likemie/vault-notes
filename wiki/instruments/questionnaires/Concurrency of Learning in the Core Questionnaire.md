@@ -40,6 +40,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[My School Website]]"
+  - "[[Achieve]]"
 related_arguments:
   - "[[Argument_Metli_2022_IJER]]"
 confidence: high
@@ -97,7 +98,7 @@ updated: 2026-09-23
 > | 8 | Coherence in the core is required for interdisciplinary learning. | 同意程度 |
 > | 9 | Coherence in the core is important for the interconnectedness of learning. | 同意程度 |
 > | 10 | My school struggles in finding connections between the core components. *(注：可能为反向题)* | 同意程度 |
-> | 11 | Reflection helps achieve concurrency of learning in the core at my school. | 同意程度 |
+> | 11 | Reflection helps [[Achieve]] concurrency of learning in the core at my school. | 同意程度 |
 > | 12 | The application of ethical knowledge plays an important role in achieving concurrency of learning at my school. | 同意程度 |
 > | 13 | [[Experiential Learning]] helps achieve concurrency of learning at my school. | 同意程度 |
 > | 14 | The links and relationships are evident among the core components at my school. | 同意程度 |

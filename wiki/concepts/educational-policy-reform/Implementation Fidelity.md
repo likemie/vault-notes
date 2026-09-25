@@ -59,6 +59,7 @@ related_methods:
   - "[[Intent-to-Treat Analysis]]"
   - "[[Complier Average Causal Effect]]"
   - "[[Random Assignment]]"
+  - "[[Process Tracing]]"
   - "[[Black Box RCTs]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Sample Size Determination]]"
@@ -122,7 +123,7 @@ updated: 2026-09-18
 > | **分析对象** | 干预传递与执行是否符合设计蓝图 | 学校结合本地资源与学情所做的校本重构 | 依据初始[[Random Assignment\|随机分配]]方案确立的分析群体 | 实际高度依从并完成规定剂量的干预接受者 |
 > | **核心机制** | 测量方案活性成分落实率与执行质量损耗 | 动态权衡情境嵌入性与设计原则底线 | 保留随机化带来的基线无偏性，容忍实施衰减 | 借助工具[[Variable\|变量]]模型剔除未依从与低剂量稀释效应 |
 > | **对偏离的定性** | 偏离通常被视为削弱[[Internal Validity\|内部效度]]的潜在威胁 | 偏离被视为项目本土扎根与可持续运行的[[Necessary and Sufficient Conditions\|必要条件]] | 将所有未执行与[[Attrition\|流失]]合并视为现实有效性损失 | 将偏离作为内生依从行为进行统计剥离校正 |
-> | **适用评估场景** | [[Efficacy Trial\|效力试验]]、方案标准化认证与机制归因 | 复杂组织变革、质性过程追踪与校本改进 | 政策决策层面的整体干预可获得性评估 | 检验干预在理想充分实施下的最大理论潜能 |
+> | **适用评估场景** | [[Efficacy Trial\|效力试验]]、方案标准化认证与机制归因 | 复杂组织变革、质性[[Process Tracing\|过程追踪]]与校本改进 | 政策决策层面的整体干预可获得性评估 | 检验干预在理想充分实施下的最大理论潜能 |
 
 ---
 

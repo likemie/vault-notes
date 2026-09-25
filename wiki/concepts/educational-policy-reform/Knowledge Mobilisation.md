@@ -66,6 +66,7 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
 related_theories: []
 related_methods:
+  - "[[Process Tracing]]"
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
   - "[[In-depth Interview]]"
@@ -218,7 +219,7 @@ updated: 2026-09-22
 > - **制度化教研时间** 为一线教师参与研究审议与跨校研讨提供排课与编制保障。
 > - **稳定的专项中介资助** 设立独立于短期学术竞争课题的长期动员与转译基金。
 > - **跨专业共同体文化** 打破象牙塔与中小学阶层区隔，培育平等对话的探究规范。
-> - **情境自适应评估反馈** 引入[[Formative Assessment\|形成性评估]]与过程追踪，替代机械的结果指标问责。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 130–131)]]
+> - **情境自适应评估反馈** 引入[[Formative Assessment\|形成性评估]]与[[Process Tracing|过程追踪]]，替代机械的结果指标问责。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 130–131)]]
 > - **双轨动员通道协同（Formal vs Informal Channels）** 校内知识动员依赖正式制度（全员专业发展与包容性教研共同体）与非正式信任网络（日常同伴交流）的深度互补；若缺乏正式分享论坛的有力支撑，[[Professional Learning Community\|专业学习共同体]]（PLCs）极易退化为少数骨干的孤立“任务小组”（isolated task forces），无法撬动全校层面的深度知识动员。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 124–125)]]
 
 > [!exegesis]- 实践理解与应用示例

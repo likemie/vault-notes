@@ -43,6 +43,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Case Study]]"
+  - "[[Process Tracing]]"
   - "[[In-depth Interview]]"
   - "[[Qualitative Content Analysis]]"
   - "[[Transcription in Qualitative Research]]"
@@ -95,7 +96,7 @@ updated: 2026-09-22
 > - **不声称回答的问题** 不能直接用于推断总体行为发生率或精确测量[[Variable\|变量]]间的量化因果[[Effect Size\|效应量]]。
 
 > [!method-stack] 方法层级
-> - **研究设计** 探索性[[Case Study\|案例研究]]、跨案例横截面比较设计、政策执行过程追踪。
+> - **研究设计** 探索性[[Case Study\|案例研究]]、跨案例横截面比较设计、政策执行[[Process Tracing|过程追踪]]。
 > - **数据收集** 半结构化专家访谈指南、个别[[In-depth Interview\|深度访谈]]、小型专家[[Focus Group\|焦点小组]]访谈（2–4人）。
 > - **分析方法** [[Qualitative Content Analysis\|质性内容分析]]、主题分析、类型学归纳与跨部门比较分析。
 > - **辅助技术** 逐字录音[[Transcription in Qualitative Research\|转录]]、计算机辅助质性分析软件（如 MAXQDA）。

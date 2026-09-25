@@ -42,6 +42,7 @@ related_persons:
   - "[[Alan Daly]]"
 related_facts:
   - "[[Research Learning Communities]]"
+  - "[[Achieve]]"
 related_arguments:
   - "[[Argument_Brown_2017_ER]]"
   - "[[Argument_Brown_Greany_2018_LPS]]"
@@ -68,7 +69,7 @@ updated: 2026-09-21
 > [!citation-card] 布朗论数据决策与研究证据的协同探究
 > 循证实践在教育中应当作为一种整体性的决策方法，在作出重大改进决策之前对不同形态的证据进行批判性审验；将基于数据的决策与研究知情实践系统结合，融通校本数据、专业经验与外部研究，方能兼顾两界之长并达成有效、高效且公平的教育改进。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 154–156)]]
 >
-> *An effective strategy for [[Evidence-Informed Practice]] is to achieve 'the best of two worlds' by integrating data-based decision-making and research-informed practice into a holistic approach to educational decision-making.*
+> *An effective strategy for [[Evidence-Informed Practice]] is to [[Achieve]] 'the best of two worlds' by integrating data-based decision-making and research-informed practice into a holistic approach to educational decision-making.*
 
 ---
 

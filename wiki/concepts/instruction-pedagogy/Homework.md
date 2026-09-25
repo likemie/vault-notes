@@ -53,6 +53,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Process Tracing]]"
   - "[[Correlational Research]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -186,7 +187,7 @@ updated: 2026-09-23
 > | **反馈机制与全班转向** | 作业效能取决于形成性反馈闭环而非工时耗费；全班集中反馈可替代逐本批改内卷并保障学业增益。 | 教师日常作业设计、课后作业批改与讲评改革 | Edovald & Nevill |
 > | **构念异质拼盘批判** | 总体效应量 $d = 0.29$ 掩盖了活动形态的巨大异质性，仅 21% 的班级能获得可感知的提分增益。 | 循证政策审查、元分析方法学评估与教学指导 | Higgins; Terhart |
 > | **对照基线倒错扭曲** | 原始研究控制组基线混乱（无作业、常规作业、半批作业），致使元分析合成效应失去明确反事实比较意义。 | 因果推断实证设计、元分析纳入标准与质量审查 | Simpson |
-> | **过程追踪与可恢复性** | 唯成品考核在 AI 时代效度崩塌，作业需前移至思维日志、对抗查错与无技术迁移测试。 | 智能化时代作业重构、大学学术写作与高阶评价改革 | Du & Yuan |
+> | **[[Process Tracing\|过程追踪]]与可恢复性** | 唯成品考核在 AI 时代效度崩塌，作业需前移至思维日志、对抗查错与无技术迁移测试。 | 智能化时代作业重构、大学学术写作与高阶评价改革 | Du & Yuan |
 
 ---
 
@@ -218,7 +219,7 @@ updated: 2026-09-23
 > > - **书面工匠式批改传统** 认为逐本打分和手写评语体现了教师对每个学生的个性化关怀与专业责任，是学校管理考核的硬指标。
 > > - **形成性因果效能立场** 循证试验表明，高负荷书面批改往往引发严重的教师职业倦怠，且极少被学生有效内化；转向快速诊断错误模式并开展全班集中形成性反馈，不仅大幅解放教师精力，更提升了课堂交互重构深度。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]
 >
-> > [!axis] 静态成品作业考核（Polished Product Assessment） vs 全流程思维追踪（Process Tracing & Recoverability）
+> > [!axis] 静态成品作业考核（Polished Product Assessment） vs 全流程思维追踪（[[Process Tracing]] & Recoverability）
 > > 争论在生成式 AI 普及后，作业布置是否仍应以提交完整的静态论文或解答为核心，还是应转向考核探究过程与思维决策。
 > >
 > > - **传统成果考核论** 认为只要最终成果符合学术标准，借助何种工具属于效率问题。
@@ -261,7 +262,7 @@ updated: 2026-09-23
 > - [[Argument_Terhart_2011_JCS\|Terhart (2011)]] — 通过身高类比与 21% 班级提分概率换算，具象化解构 Hattie $d = 0.29$ 效应量背后的真实微弱性与 35% 负面/中性研究事实。
 > - [[Argument_Simpson_2017_JEP\|Simpson (2017)]] — 以经典家庭作业[[Meta-analysis\|元分析]]为例，深入揭示不同研究中对照组基线定义的混乱倒错，论证基线不对等性对合成因果效应量的破坏。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 记录[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在 2018 年启动的“[[Teacher Choices\|教师选择]]”新型微型试验试点，探索采用被试内设计检验逐本批改作业与全班集中反馈对学业产出与教师负担的因果影响。
-> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 阐明[[Generative Artificial Intelligence\|生成式人工智能]]一键生成对静态成品作业的颠覆性冲击，提出向全流程推导过程追踪、反思决策日志与无技术迁移测试转型的作业重构方案。
+> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 阐明[[Generative Artificial Intelligence\|生成式人工智能]]一键生成对静态成品作业的颠覆性冲击，提出向全流程推导[[Process Tracing|过程追踪]]、反思决策日志与无技术迁移测试转型的作业重构方案。
 
 ---
 

@@ -130,6 +130,7 @@ related_facts:
   - "[[Centre for Educational Research and Innovation]]"
   - "[[Institute of Education Sciences]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Achieve]]"
 related_arguments: []
 sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch03_Burns_Schuller_2022|Ch03_Burns_Schuller_2022]]"
@@ -517,7 +518,7 @@ updated: 2026-09-24
 > [!citation-card] Burns & Schuller 论跨机构协同与累积性知识基石愿景
 > 与医学不同，教育在持续发展和提炼一套准普遍被公认为建立在坚实基础之上的知识体系方面，显得异常薄弱。设计并支持一个高效的教育研发系统是实现这一目标的重要一步。中介机构能够在指定最新的权威知识增量并在它们之间建立连接方面发挥重大作用。尽管确保单一机构与倡议的质量与有效性至关重要，但这仍远远不够。正如研究综合本身已经从关注单篇论文迈向二阶[[Systematic Review\|系统综述]]一样，中介的结构与流程同样需要在机构与系统之间协同运作，以支持累积性的努力。（p. 66）
 >
-> *Unlike medicine, education is conspicuously weak in its ability to continuously develop and refine a body of knowledge that is quasi-universally acknowledged as well founded. Designing and supporting an effective educational R&D system is one step to achieve this. Brokerage agencies can play a major part in designating the most recent authoritative additions to the knowledge pile and connecting between them. While ensuring the quality and effectiveness of individual agencies and initiatives is important, it is not enough. Just as research synthesis itself has moved beyond a focus on individual research papers to systematic reviews of reviews, so too do the structures and processes of brokerage need to work together across institutions and systems to support a cumulative effort.*
+> *Unlike medicine, education is conspicuously weak in its ability to continuously develop and refine a body of knowledge that is quasi-universally acknowledged as well founded. Designing and supporting an effective educational R&D system is one step to [[Achieve]] this. Brokerage agencies can play a major part in designating the most recent authoritative additions to the knowledge pile and connecting between them. While ensuring the quality and effectiveness of individual agencies and initiatives is important, it is not enough. Just as research synthesis itself has moved beyond a focus on individual research papers to systematic reviews of reviews, so too do the structures and processes of brokerage need to work together across institutions and systems to support a cumulative effort.*
 
 > [!citation-card] Burns & Schuller 论批判性[[Research Literacy\|研究素养]]与捍卫民主权利
 > 最后，我们必须设计教师教育与公务员公职培训，以磨砺其批判性审视与使用多元方法论各类研究的能力。这是捍卫作为一项基本民主权利的[[Scientific Literacy\|科学素养]]的必要步骤，也是在教育内外重申科学重要性并重建对科学过程信任的核心关键。（p. 69）

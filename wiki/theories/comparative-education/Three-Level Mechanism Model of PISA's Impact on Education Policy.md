@@ -35,6 +35,7 @@ related_theories:
 related_methods:
   - "[[Systematic Review]]"
   - "[[Comparative Case Study]]"
+  - "[[Process Tracing]]"
   - "[[Discourse Analysis]]"
   - "[[Case Study]]"
   - "[[Network Analysis]]"
@@ -124,7 +125,7 @@ updated: 2026-09-17
 
 > [!theory-stance] [[Epistemology\|认识论]]立场
 > - **[[Ontology\|本体论]]** 教育政策不是国家封闭系统内的自主决策，而是在超国家—国家—内部行动者三层开放系统中被共同塑造的。[[PISA]] 的影响不是从 [[OECD]] 到国家的线性因果传递，而是多层行动者交互[[Emergence\|涌现]]的结果。
-> - **认识论** 需要[[Comparative Case Study\|比较案例研究]]、过程追踪和[[Discourse Analysis\|话语分析]]来揭示各层级机制在不同国家情境中的具体运作方式。单一层级的分析（仅关注国家政策、仅关注 OECD 话语或仅关注国内政治）会遗漏关键机制。
+> - **认识论** 需要[[Comparative Case Study\|比较案例研究]]、[[Process Tracing|过程追踪]]和[[Discourse Analysis\|话语分析]]来揭示各层级机制在不同国家情境中的具体运作方式。单一层级的分析（仅关注国家政策、仅关注 OECD 话语或仅关注国内政治）会遗漏关键机制。
 > - **方法含义** 该模型支持跨国比较[[Case Study\|案例研究]]设计，要求在超国家政策话语分析、国家政策文本分析和内部行动者[[Network Analysis\|网络分析]]三个层面同时收集和分析资料。
 > - **不能直接推出的东西** 该模型描述的是 PISA 影响教育政策的机制条件，而非预测特定国家政策回应的因果定律——特定国家的政策结果取决于三层机制在独特历史、文化和政治条件下的具体交互，不可直接外推。
 
