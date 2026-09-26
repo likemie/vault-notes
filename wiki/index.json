@@ -4528,6 +4528,16 @@
     ]
   },
   {
+    "title": "Policy Image",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Policy Image.md",
+    "aliases": [
+      "政策形象",
+      "政策意象",
+      "政策符号表征"
+    ]
+  },
+  {
     "title": "Policy Mobility",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Policy Mobility.md",
@@ -20416,7 +20426,6 @@
     "aliases": [
       "约翰·W·金登",
       "约翰·金登",
-      "金登",
       "John Kingdon"
     ]
   },
@@ -25886,6 +25895,17 @@
       "WT Grant Foundation",
       "W. T. Grant Foundation",
       "格兰特基金会"
+    ]
+  },
+  {
+    "title": "Adequate Yearly Progress",
+    "type": "fact",
+    "path": "wiki/facts/us/Adequate Yearly Progress.md",
+    "aliases": [
+      "充分学业进展",
+      "适度年度进展",
+      "AYP",
+      "学年充分进展"
     ]
   },
   {

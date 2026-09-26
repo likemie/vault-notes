@@ -7,7 +7,7 @@ title: "Argument_Hattie_2005_ACER"
 argument_key: "Argument_Hattie_2005_ACER"
 argument_display_title: "What is the nature of evidence that makes a difference to learning? In Using data to support learning: Proceedings of the ACER Research Conference 2005 (pp. 11–21)"
 argument_kind: "conference-paper"
-argument_related_count: 46
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -82,6 +82,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Adequate Yearly Progress]]"
   - "[[National Assessment of Educational Progress]]"
   - "[[Te Kotahitanga]]"
 related_arguments: []
@@ -196,7 +197,7 @@ sources:
 
 > [!critique-method] 美国《不让一个孩子掉队》（No Child Left Behind, [[No Child Left Behind Act 2001\|NCLB]]）法案的负面效应解剖
 > - **机械应试与课程割裂** 迫使教师完全“为考而教（Teaching to the Test）”，将未受统考测试的非核心科目（体育、音乐、艺术、自尊教育）彻底清除出日常课程表，严重削减脆弱学生急需的高中职业教育项目。
-> - **分数操纵与制度投机** 为达成年度渐进目标（Adequate Yearly Progress, AYP），学校系统性调低课程标准，并通过拒绝招生、[[Grade Retention\|留级]]、停课或将特殊教育学生迁出考场等手段，人为拔高平均达标率。
+> - **分数操纵与制度投机** 为达成年度渐进目标（[[Adequate Yearly Progress]], AYP），学校系统性调低课程标准，并通过拒绝招生、[[Grade Retention\|留级]]、停课或将特殊教育学生迁出考场等手段，人为拔高平均达标率。
 > - **宏观目标的不可达成性** 罗伯特·林恩（Robert Linn, 2003）的精算表明，依照以往十年的实际改进速率，NCLB 设定的 2012 年目标在数学领域需要漫长岁月才能达成，这种脱离现实的政策要求从根本上摧毁了问责的合理性。（p. 12）
 
 针对 NCLB 法案设定的百分之百达标指标，林恩的量化建模给出了极具震撼力的测算数据。

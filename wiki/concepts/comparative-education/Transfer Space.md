@@ -8,7 +8,7 @@ aliases:
 summary: "Osmany Porto de Oliveira 与 Cecilia Osorio Gonnet (2023) 提出的分析空间概念，指全球与国家/地方尺度交互缠绕的关系性竞技场，用于解构国家内部不同功能部门对外部政策证据的差异化接收、翻译、抗拒与投射机制。"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-18
+updated: 2026-09-26
 ---
 
 # Transfer Space

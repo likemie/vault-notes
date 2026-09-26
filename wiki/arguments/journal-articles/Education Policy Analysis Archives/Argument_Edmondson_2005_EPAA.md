@@ -216,7 +216,7 @@ issuing_organization: ""
 > - **商业出版巨头与保守派智库**
 >   麦格劳-希尔（McGraw-Hill）旗下《开放法院阅读》（[[Open Court Reading]]）商业教材集团，以及保守派全美阅读权利基金会（National Right to Read Foundation）骨干，与委员会幕僚保持直接利益纽带，意图通过法律强制学校购买拼读教材。
 
-> [!mechanism] 《卓越阅读法案》次政府利益铁三角与[[Disciplina and Doctrina|规训]]反制网络（pp. 8–10, 13–14）
+> [!mechanism]- 《卓越阅读法案》次政府利益铁三角与[[Disciplina and Doctrina|规训]]反制网络（pp. 8–10, 13–14）
 > ```mermaid
 > flowchart LR
 >     %% 核心利益主体：次政府铁三角与旋转门

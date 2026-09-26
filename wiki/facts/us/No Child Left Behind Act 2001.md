@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 56
+fact_related_count: 57
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -62,6 +62,7 @@ related_facts:
   - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Comprehensive School Reform Program]]"
+  - "[[Adequate Yearly Progress]]"
   - "[[American Educational Research Association]]"
   - "[[Common Core State Standards]]"
   - "[[National Governors Association]]"
@@ -120,7 +121,7 @@ updated: 2026-09-26
 >   - **Early Reading First** — 学前阶段早期阅读项目；
 >   - **Comprehensive School Reform (CSR)** — [[Comprehensive School Reform Program\|综合学校改革项目]]。
 > - **规制型治理进路（Regulatory Approach）** 法案采取了典型的规制型政策进路，设定强制性法定框架以监督并纠正违规办学行为；将[[Scientifically Based Research\|基于科学的研究]]与单一量化达标作为拨款准入的硬性门槛，明确规定了严苛的不达标惩戒后果。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 41)]]
-> - **约束机制** 实行严格的学年充分学业进展（Adequate Yearly Progress, AYP）绩效问责制；对未达标学校实施阶梯式行政与财务制裁（包括学生转学、补充教育服务、重组管理层直至学校关闭）；要求获得联邦资助的教学项目必须严格符合“[[Scientifically Based Research\|科学本位研究]]”标准。
+> - **约束机制** 实行严格的学年[[Adequate Yearly Progress|充分学业进展]]（Adequate Yearly Progress, AYP）绩效问责制；对未达标学校实施阶梯式行政与财务制裁（包括学生转学、补充教育服务、重组管理层直至学校关闭）；要求获得联邦资助的教学项目必须严格符合“[[Scientifically Based Research\|科学本位研究]]”标准。
 
 > [!citation-card] 关键条文：科学本位研究法定定义
 > “采用严格、系统和客观程序以获得有效知识的研究”，包括“使用实验或准实验设计进行评估”的研究，最好使用[[Random Assignment\|随机分配]]。(U.S. Congress, 2001, cited in [[Argument_Slavin_2002_ER\|Slavin, 2002, p. 16]])
@@ -135,7 +136,7 @@ updated: 2026-09-26
 > - **2001** — NCLB 在布什政府上任初期获国会参众两院跨党派高票通过，作为 [[Elementary and Secondary Education Act of 1965\|ESEA]] 的重新授权法案。
 > - **2002** — 布什总统于 1 月正式签署生效。Robert E. Slavin 发表专题分析，指出 NCLB 法定“[[Scientifically Based Research\|科学本位研究]]”概念界定缺乏[[Operationalization\|操作化]]标准化，任何教学项目都能寻得支持性[[Document\|文献]]，尚未产生实质性实践约束。([[Argument_Slavin_2002_ER\|Slavin, 2002, pp. 16, 18–19]])
 > - **2003** — 美国教育研究协会（[[American Educational Research Association\|AERA]]）前主席罗伯特·林恩（Robert Linn）发表著名会长演说，通过数学外推指出：按过去十年的实际进步速率，四年级数学达成 100% 达标需 150 年，八年级数学需 160 年；要求 2013–2014 年全员达标属于不可企及的政治幻想，除非出现具有“原子弹级规模”的颠覆性技术创新。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 12)]]; Linn (2003)
-> - **2002–2014** — NCLB 的 AYP 问责条款引发全美范围的治理反弹与学术争议；要求至 2014 年实现 100% 熟练水平的法定红线被普遍批评为违背统计规律与教育现实。
+> - **2002–2014** — NCLB 的 [[Adequate Yearly Progress|AYP]] 问责条款引发全美范围的治理反弹与学术争议；要求至 2014 年实现 100% 熟练水平的法定红线被普遍批评为违背统计规律与教育现实。
 > - **2015** — 贝拉克·奥巴马（Barack Obama）总统签署《[[Every Student Succeeds Act\|每个学生成功法]]案》（Every Student Succeeds Act，ESSA），正式替代 NCLB。ESSA 废除了严苛的联邦统一处罚机制，将过于笼统的“[[Scientifically Based Research\|科学本位研究]]”重构为四级操作化证据层级（强证据、中等证据、有希望证据与理论依据）。([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]])
 
 ---
@@ -146,7 +147,7 @@ updated: 2026-09-26
 > - **发布与主导主体** 美国联邦教育部（ED），负责制定统一规章、审批各州实施计划并监督专项拨款拨付。
 > - **执行主体** 各州教育厅（制定本州学术标准与年度测试量度）与地方学区（组织统考与落实干预措施）。
 > - **适用对象** K–12 公立学校管理团队、学科任课教师及全体在读学生。
-> - **政策工具** 联邦财政专项资助杠杆、AYP 阶梯式问责制裁、全州统考量化排名与“[[Scientifically Based Research\|科学本位研究]]”合规性审核。
+> - **政策工具** 联邦财政专项资助杠杆、[[Adequate Yearly Progress|AYP]] 阶梯式问责制裁、全州统考量化排名与“[[Scientifically Based Research\|科学本位研究]]”合规性审核。
 
 > [!pathways]- 实施路径与评估机制转向
 > - **中央标准与地方测试落实** 各州依据联邦框架制定阅读与数学学术标准，并在 3–8 年级及高中阶段推行年度全员统考；学校与学区被强制要求公开发布按种族、家庭收入、特殊教育需求及英语学习者（EL）分层的学生学业细分报告。
@@ -160,7 +161,7 @@ updated: 2026-09-26
 ## 效果与评价
 
 > [!finding-cards] 效果与评价
-> - **制度异化催生“竞相向下沉沦”并反向催化 [[Common Core State Standards|CCSS]] 运动** [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013, pp. 8–9)]] 考证指出，NCLB 严苛的高利害 AYP 问责与各州自主划定熟练线相结合，诱发了全美范围内的“竞相向下沉沦”（race to the bottom）。各州为制造达标假象不断降低及格门槛，致使州立测验通过率与 [[National Assessment of Educational Progress|NAEP]] 真实表现产生巨大断层（NCES, 2007）。这一由联邦政策逆向激励催生的国家教育质量信任危机，成为了政策倡导者（如国家州长协会 [[National Governors Association|NGA]]、[[Council of Chief State School Officers|州首席教育官理事会]] CCSSO）将政策议程转向制定自愿性国家标准（CCSS）的关键证据催化剂。
+> - **制度异化催生“竞相向下沉沦”并反向催化 [[Common Core State Standards|CCSS]] 运动** [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013, pp. 8–9)]] 考证指出，NCLB 严苛的高利害 [[Adequate Yearly Progress|AYP]] 问责与各州自主划定熟练线相结合，诱发了全美范围内的“竞相向下沉沦”（race to the bottom）。各州为制造达标假象不断降低及格门槛，致使州立测验通过率与 [[National Assessment of Educational Progress|NAEP]] 真实表现产生巨大断层（NCES, 2007）。这一由联邦政策逆向激励催生的国家教育质量信任危机，成为了政策倡导者（如国家州长协会 [[National Governors Association|NGA]]、[[Council of Chief State School Officers|州首席教育官理事会]] CCSSO）将政策议程转向制定自愿性国家标准（CCSS）的关键证据催化剂。
 > - **催生并固化第一代[[Data-Based Decision Making|基于数据的决策]]模式** [[Argument_Brown_2017_ER|Brown et al. (2017, p. 157)]] 考证指出，现代[[Data-Based Decision Making|基于数据的决策]]（DBDM）历史发源于美国的问责政策，尤其是 NCLB 的出台将数据使用强制绑定于大规模标准化考试成绩与行政达标监控，催生了以终结性测试和高利害奖惩为特征的第一代 DBDM [[Paradigm|范式]]。这一模式不仅确立了数据作为学校治理核心依据的国际潮流，其过于窄化的唯分数论缺陷也直接倒逼后续国际学界（如荷兰与瑞典的[[Data Team Intervention|数据团队]]项目）反思并转向形成性改进与协作探究。
 > - **开启[[Evidence-Based Education|循证教育]]政策规范化进程** NCLB 首次将“研究必须指导实践”确立为联邦法定义务，全文 110 次强调“[[Scientifically Based Research|科学本位研究]]”，为后续[[What Works Clearinghouse|WWC]]的设立以及 [[Every Student Succeeds Act|ESSA]] 四级证据框架奠定了制度基石。相比 NCLB 时代的模糊表述，后续体系将实验证据正式转化为了各州采购与项目审核的可操作门槛。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, p. 109)]]; [[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–24)]]
 > - **法定授权与经常性预算形成的制度护城河** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022, pp. 64–65)]] 纵向追踪[[OECD|经合组织]] 2007 年考察的 6 家标杆[[Educational Brokerage Agency|知识中介机构]]在 15 年间的存续演变发现，绝大多数机构因受制于政党更迭与 2 至 3 年短期专项拨款周期而陷入关停或休眠（如[[Danish Clearinghouse for Educational Research|丹麦教育研究清算中心]]因合同未续关停、加拿大[[Lifelong Learning|终身学习]]委员会因联邦拨款撤销而解散、[[Kenniskamer|荷兰教育部知识室]]因部长离任停摆）。唯有美国的 [[What Works Clearinghouse|WWC]] 依托 NCLB 及 2002 年《教育科学改革法》（Education Sciences Reform Act, ESRA）确立的法定强制授权与经常性联邦专项预算，成功跨越了政治选举周期与短期财政紧缩的剧烈冲击，证明国家立法授权与制度化经常性预算是保障证据中介机构长期存续的根本制度护城河。

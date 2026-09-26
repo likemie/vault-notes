@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
+  - "[[Adequate Yearly Progress]]"
   - "[[Foundations for Evidence-Based Policymaking Act of 2018]]"
   - "[[Institute of Education Sciences]]"
 related_arguments:
@@ -52,7 +53,7 @@ related_persons: []
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-09-18
+updated: 2026-09-26
 ---
 
 # Elementary and Secondary Education Act of 1965
@@ -96,7 +97,7 @@ updated: 2026-09-18
 > [!dev-timeline]- 母法演进与历次重大重新授权
 > - **1965** 约翰逊总统签署初等与中等教育法（ESEA, P.L. 89-10），确立第一条款等五大分编，奠定联邦补偿性财政支持框架。
 > - **1968–1994** 经历多次定期重新授权（Reauthorization），陆续扩充第七条款（双语教育）及第九条款；1994 年克林顿政府签署《改善美国学校法案》（IASA），首次将基于标准的改革理念引入 ESEA。
-> - **2001** 乔治·W·布什总统签署《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（NCLB），实现 ESEA 历史上干预性最强的重大修订，首次将“[[Scientifically Based Research\|基于科学的研究]]”（SBR）作为刚性法定义务写入法条，强力推行年度全员标准化测试与严苛的“年级充分学业进展”（AYP）问责。
+> - **2001** 乔治·W·布什总统签署《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（NCLB），实现 ESEA 历史上干预性最强的重大修订，首次将“[[Scientifically Based Research\|基于科学的研究]]”（SBR）作为刚性法定义务写入法条，强力推行年度全员标准化测试与严苛的“年级[[Adequate Yearly Progress|充分学业进展]]”（AYP）问责。
 > - **2015** 巴拉克·奥巴马总统签署《[[Every Student Succeeds Act\|每一个学生成功法案]]》（ESSA），对 ESEA 实施第七次全面重新授权，吸取 NCLB 问责异化教训，将评价自主权重新赋予各州，转向包含学术与学校环境的多重评估指标，并正式确立四级分级[[Evidence Standards\|证据标准]]。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 41)]]
 > - **2019** 特朗普总统签署《[[Foundations for Evidence-Based Policymaking Act of 2018\|2018年循证决策基础法案]]》，为跨部门安全调用和分析 ESEA 第一条款等国家级纵向教育行政微观数据确立全政府治理规范。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 42–43)]]
 

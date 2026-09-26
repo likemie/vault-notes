@@ -11,7 +11,7 @@ aliases:
 summary: "在校学生在完成既定学业或获得法定文凭证书之前非自愿或自愿脱离学校教育系统的现象，由制度性惩戒排斥、高利害问责推挤、学业挫败及社会经济压力等多维机制引发，是教育公平、学校治理与辍学预防的核心议题"
 type: concept
 domain: "educational-policy-reform"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -50,6 +50,7 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Adequate Yearly Progress]]"
   - "[[National Dropout Prevention Center]]"
   - "[[Every Student Succeeds Act]]"
 related_arguments:
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # Academic Attrition
@@ -170,7 +171,7 @@ updated: 2026-09-22
 > 考察当宏观政策将学校存续与单一标准化测验分数紧密绑定时，基层学校管理层所采取的防御性生源排斥策略。
 
 > [!claim] [[Yong Zhao\|Zhao, Y.]]
-> **指标异化下的合规淘汰机制** 赵勇（[[Argument_Zhao_2017_JEC\|Zhao, 2017]]）援引 Nichols & Berliner (2007) 对全美高风险测试政策的研究指出，在《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）的 AYP 达标硬性约束下，学校面临未达标即遭重组或关闭的严酷威胁。为确保达标率，部分学区管理者与学校被迫发展出防御性规避策略：系统性地将成绩处于临界线以下的后进生归入免考残障分类，或在考前对学困生施加过度惩戒以促使其“自愿转学”或弃学。这种受坎贝尔定律驱动的政策扭曲，实质上将学业流失异化为了学校保全自身绩效达标的排异工具，严重背离了法案公平正义的立法宗旨。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, pp. 13–15)]]
+> **指标异化下的合规淘汰机制** 赵勇（[[Argument_Zhao_2017_JEC\|Zhao, 2017]]）援引 Nichols & Berliner (2007) 对全美高风险测试政策的研究指出，在《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）的 [[Adequate Yearly Progress|AYP]] 达标硬性约束下，学校面临未达标即遭重组或关闭的严酷威胁。为确保达标率，部分学区管理者与学校被迫发展出防御性规避策略：系统性地将成绩处于临界线以下的后进生归入免考残障分类，或在考前对学困生施加过度惩戒以促使其“自愿转学”或弃学。这种受坎贝尔定律驱动的政策扭曲，实质上将学业流失异化为了学校保全自身绩效达标的排异工具，严重背离了法案公平正义的立法宗旨。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, pp. 13–15)]]
 
 ---
 

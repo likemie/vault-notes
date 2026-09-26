@@ -12,7 +12,7 @@ aliases:
 summary: "弗兰克·R·鲍姆加特纳与布莱恩·D·琼斯于1993年提出的公共政策变迁经典理论；指出大多数公共政策在绝大多数时期处于由专属制度场所与正面政策形象构筑的政策垄断稳态之中，但当政策企业家通过重构政策形象并开展制度场所转换时，长期惰性稳态将在短时间内发生断裂式剧变。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
   - theme/educational-reform
 related_concepts:
   - "[[Policy Entrepreneur]]"
+  - "[[Policy Image]]"
   - "[[Venue Shopping]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Research Question]]"
@@ -72,7 +73,7 @@ updated: 2026-09-26
 > - **知识位置** 政治学政策过程理论（Policy Process Theories）三大经典支柱之一（与多流模型、倡导联盟框架并列），融合了[[Bounded Rationality|有限理性]]、注意力分配与[[Complexity Theory|复杂适应系统]]视角。
 
 > [!claim] 核心判断
-> 政治体制的制度设计天然偏向维持现状，形成了由特定利益集团把守的“政策垄断”（Policy Monopoly）；但当外部环境变化诱发宏观注意力聚焦时，[[Policy Entrepreneur|政策企业家]]通过重塑“政策形象”（Policy Image）瓦解垄断合法性，并积极开辟新的“制度场所”（[[Venue Shopping]]），原本封闭的子系统将被迅速击穿，推动政策系统由渐进稳态进入间断剧变期。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5)]]
+> 政治体制的制度设计天然偏向维持现状，形成了由特定利益集团把守的“政策垄断”（Policy Monopoly）；但当外部环境变化诱发宏观注意力聚焦时，[[Policy Entrepreneur|政策企业家]]通过重塑“[[Policy Image|政策形象]]”（Policy Image）瓦解垄断合法性，并积极开辟新的“制度场所”（[[Venue Shopping]]），原本封闭的子系统将被迅速击穿，推动政策系统由渐进稳态进入间断剧变期。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5)]]
 
 ---
 
@@ -87,7 +88,7 @@ updated: 2026-09-26
 ### 后续修订与扩展
 
 > [!dev-timeline] 理论版本与贡献
-> - **1993 年 — 原初奠基** 鲍姆加特纳与琼斯系统确立政策垄断、政策形象与制度场所三大核心构件，解释美国国内政策子系统的稳态与破裂。
+> - **1993 年 — 原初奠基** 鲍姆加特纳与琼斯系统确立政策垄断、[[Policy Image|政策形象]]与制度场所三大核心构件，解释美国国内政策子系统的稳态与破裂。
 > - **2005 年 — 跨国比较议程项目（CAP）扩展** 琼斯与鲍姆加特纳等人将研究推向比较议程项目（Comparative Agendas Project, CAP），在西欧多国检验间断均衡的普遍性，证实信息处理摩擦是导致所有民主体制出现厚尾分布（Kurtosis）与间断跳跃的根本成因。
 > - **2013 年 — 教育政策生命周期应用** 洛兰·M·麦克唐奈（Lorraine M. McDonnell）与M·斯蒂芬·韦瑟福德（M. Stephen Weatherford）将理论引入全美[[Common Core State Standards|共同核心州立标准]]（CCSS）运动研究，阐明[[Policy Entrepreneur|政策企业家]]如何在政策生命周期中将实证差距指标与两党规范价值相结合，摧毁各州分散割裂的百年政策垄断。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–10)]]
 
@@ -103,13 +104,13 @@ updated: 2026-09-26
 > | **政策形象**<br>Policy Image | 解释机制 | 政策议题在公众和精英心目中的符号化表征与社会建构，决定了政策被界定为“地方民主自治”还是“国家竞争力危机”。 |
 > | **制度场所**<br>Institutional Venue | 制度构件 | 拥有特定法案起草、审议或表决管辖权的机构实体（如国会专门委员会、联邦行政机构、州教育委员会）。 |
 > | **场所转换**<br>Venue Shopping | 行动策略 | [[Policy Entrepreneur\|政策企业家]]主动绕开对其不友好的既有垄断管辖场所，寻找对新政策理念持开放态度的新机构入口。 |
-> | **正反馈与注意力级联**<br>Positive Feedback & Cascade | 系统动力学 | 当负面政策形象突破临界阈值时，引发媒体密集曝光、跨党派领导人介入与公众恐慌，形成雪崩式改革浪潮。 |
+> | **正反馈与注意力级联**<br>Positive Feedback & Cascade | 系统动力学 | 当负面[[Policy Image\|政策形象]]突破临界阈值时，引发媒体密集曝光、跨党派领导人介入与公众恐慌，形成雪崩式改革浪潮。 |
 
 ---
 
 ## 核心命题
 
-> [!theory-proposition] 命题一｜政策垄断依赖排他性制度场所与积极政策形象的双重维系
+> [!theory-proposition] 命题一｜政策垄断依赖排他性制度场所与积极[[Policy Image|政策形象]]的双重维系
 > **解释** 在常规政治时期，政策子系统呈现极强的制度惯性。特定利益联盟通过将自身权力锚定在排他性的制度场所内，并对外输出符合主流价值观的正面政策形象，能够有效将外部反对意见隔绝在正式决策议程之外，形成稳固的政策垄断。在教育领域，美国各州教育厅与地方学区依据宪法第十修正案形成的地方分权格局，长期维系着各自制定标准的政策垄断，其正面形象正是崇高的地方民主与防止联邦干预。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
 >
 > **应用实例** 美国长期以来各州自主制定课程标准的格局：1990 年代联邦自上而下推行国家标准的尝试遭遇惨败，保守派指责其侵蚀州权，自由派指责其加剧考试不公，促使分散割裂的各州标准垄断进一步固化。
@@ -132,7 +133,7 @@ updated: 2026-09-26
 > - **[[Research Question|研究问题]]** 解释某项重大教育制度改革为何能打破长期体制僵局，或为何长期呼吁改革却始终深陷惰性稳态。
 > - **分析对象与单位** 政策议程变迁史、国家或区域教育法律与标准修订过程中的文本、听证记录与精英博弈网络。
 > - **需要的材料** 官方听证会记录、政策评估报告、新闻报道情感与框架分析、关键决策者访谈、立法表决档案。
-> - **解释目标** 厘清政策垄断的结构性基础，追踪实证指标与政策形象演变轨迹，判定[[Venue Shopping|场所转换]]策略对最终政策突破的因果贡献。
+> - **解释目标** 厘清政策垄断的结构性基础，追踪实证指标与[[Policy Image|政策形象]]演变轨迹，判定[[Venue Shopping|场所转换]]策略对最终政策突破的因果贡献。
 
 > [!theory-framework] 命题如何转化为分析维度
 >

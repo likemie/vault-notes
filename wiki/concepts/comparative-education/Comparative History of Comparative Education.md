@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育学学科史编纂方法论纲领，主张超越孤立的国别学科史与合法性起源神话，将比较视野、多中心历史、边缘学者与批判史学反思引入学科发展研究"
 type: concept
 domain: "comparative-education"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -63,7 +63,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-09-24
+updated: 2026-09-26
 ---
 
 # Comparative History of Comparative Education

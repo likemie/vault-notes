@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "G. Reid Lyon",
+      "path": "wiki/persons/us/G. Reid Lyon.md"
+    },
+    {
+      "basename": "Argument_Edmondson_2005_EPAA",
+      "path": "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md"
+    },
+    {
       "basename": "Argument_McDonnell_2013_AJE",
       "path": "wiki/arguments/journal-articles/American Journal of Education/Argument_McDonnell_2013_AJE.md"
+    },
+    {
+      "basename": "Adequate Yearly Progress",
+      "path": "wiki/facts/us/Adequate Yearly Progress.md"
+    },
+    {
+      "basename": "John W. Kingdon",
+      "path": "wiki/persons/us/John W. Kingdon.md"
     },
     {
       "basename": "Bill & Melinda Gates Foundation",
@@ -91,10 +107,6 @@
     {
       "basename": "Six-Stage Model of Policymaking",
       "path": "wiki/theories/educational-policy-reform/Six-Stage Model of Policymaking.md"
-    },
-    {
-      "basename": "Argument_Edmondson_2005_EPAA",
-      "path": "wiki/arguments/journal-articles/Education Policy Analysis Archives/Argument_Edmondson_2005_EPAA.md"
     },
     {
       "basename": "Visual Data",
@@ -187,18 +199,6 @@
     {
       "basename": "Divergent Thinking",
       "path": "wiki/concepts/competency-and-assessment/Divergent Thinking.md"
-    },
-    {
-      "basename": "Reflexivity",
-      "path": "wiki/concepts/research-methodology/Reflexivity.md"
-    },
-    {
-      "basename": "Learned Helplessness",
-      "path": "wiki/concepts/educational-psychology/Learned Helplessness.md"
-    },
-    {
-      "basename": "High-Stakes Testing",
-      "path": "wiki/concepts/educational-policy-reform/High-Stakes Testing.md"
     }
   ],
   "omittedPaths": [],

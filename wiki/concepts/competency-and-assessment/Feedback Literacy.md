@@ -9,7 +9,7 @@ aliases:
 summary: "学习者在多源反馈生态中理解反馈价值、调控情绪抗拒、协同做出评价性判断并将其转化为后续实质性改进决策的核心胜任力与行动倾向。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # Feedback Literacy

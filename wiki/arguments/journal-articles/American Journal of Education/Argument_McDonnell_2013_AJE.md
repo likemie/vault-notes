@@ -25,10 +25,10 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Policy Window]]"
   - "[[Problem Finding]]"
+  - "[[Policy Image]]"
   - "[[Venue Shopping]]"
   - "[[Theories of Policy Change]]"
   - "[[Heterogeneity]]"
-  - "[[Document]]"
   - "[[Variable]]"
   - "[[Reliability]]"
   - "[[Causality]]"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[College and Career Readiness]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Document]]"
   - "[[Epistemic Ascent]]"
   - "[[Learning Progression]]"
   - "[[Scaffolding]]"
@@ -78,6 +79,7 @@ related_facts:
   - "[[TIMSS]]"
   - "[[National Assessment of Educational Progress]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Adequate Yearly Progress]]"
   - "[[PISA]]"
   - "[[Bill & Melinda Gates Foundation]]"
   - "[[Race to the Top]]"
@@ -95,7 +97,7 @@ title: "Argument_McDonnell_2013_AJE"
 argument_key: "Argument_McDonnell_2013_AJE"
 argument_display_title: "Evidence use and the Common Core State Standards movement: From problem definition to policy adoption"
 argument_kind: "journal-article"
-argument_related_count: 57
+argument_related_count: 59
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -131,7 +133,7 @@ issuing_organization: ""
 > |---|---|
 > | **政策企业家理论**<br>[[Policy Entrepreneur]] | 解释具有公信力与政治技巧的跨界行动者（如前州长、智库学者、非营利组织领袖），如何捕捉[[Policy Window\|政策之窗]]，策略性动员研究证据与规范符号以瓦解既有制度垄断。（pp. 2–5） |
 > | **政策过程阶段模型**<br>[[Six-Stage Model of Policymaking]] | 将复杂的公共决策过程解构为[[Problem Finding\|问题界定]]与议程设置、政策方案设计以及政策采纳三大关键阶段，作为映射证据类型与政治目标匹配规律的分析坐标。（pp. 3–7） |
-> | **断裂平衡理论与政策垄断**<br>[[Punctuated Equilibrium Theory]] | 鲍姆加特纳与琼斯的断裂平衡理论揭示美国长期以来各州宪法性分权割裂标准的制度垄断（Policy Monopoly），以及倡导者如何通过重塑政策形象（Policy Image）与[[Venue Shopping\|制度场所转换]]（Venue Shopping）打破稳态体制。（pp. 3–5, 8–9） |
+> | **断裂平衡理论与政策垄断**<br>[[Punctuated Equilibrium Theory]] | 鲍姆加特纳与琼斯的断裂平衡理论揭示美国长期以来各州宪法性分权割裂标准的制度垄断（Policy Monopoly），以及倡导者如何通过重塑[[Policy Image\|政策形象]]（Policy Image）与[[Venue Shopping\|制度场所转换]]（Venue Shopping）打破稳态体制。（pp. 3–5, 8–9） |
 
 > [!warrant]- 理论如何支撑论证
 > [[John W. Kingdon|约翰·W·金登]]（John W. Kingdon）的议程设置与政策企业家理论指明了[[Theories of Policy Change|政策变革]]的动力主体，但未详尽刻画企业家如何处理证据[[Heterogeneity|异质性]]；结合公共政策阶段论与[[Deborah Stone|德博拉·斯通]]（Deborah Stone）的问题界定建构理论，研究得以将实证研究剥离出中立真理的单一假象，还原为在不同制度关口服务于动员共识、去政治化协商或阻击反对意见的策略性政治资源。（pp. 3–6, 18–19）
@@ -208,7 +210,7 @@ issuing_organization: ""
 单纯呼吁改革无法撼动既有利益格局，政策企业家必须为早已构思好的通用标准方案寻找具有震撼力的危机证据。（pp. 3–4, 9–10）
 
 > [!quad-grid] 议程设置阶段动员的核心实证指标组合
-> - **州考与全国评估的巨大鸿沟（[[National Assessment of Educational Progress|NAEP]] 差距）** 动员美国国家教育统计中心（National Center for Education Statistics, NCES, 2007）的实证映射研究，严密比对各州自设的标准通过率与[[National Assessment of Educational Progress|全国教育进展评估]]（National Assessment of Educational Progress, NAEP）的实际成绩，揭露各州为应付《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）严苛的充分学业进展（Adequate Yearly Progress, AYP）考核，蓄意调低合格切分点、制造虚假高及格率的竞相向下沉沦（Race to the bottom）现象。（p. 9）
+> - **州考与全国评估的巨大鸿沟（[[National Assessment of Educational Progress|NAEP]] 差距）** 动员美国国家教育统计中心（National Center for Education Statistics, NCES, 2007）的实证映射研究，严密比对各州自设的标准通过率与[[National Assessment of Educational Progress|全国教育进展评估]]（National Assessment of Educational Progress, NAEP）的实际成绩，揭露各州为应付《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）严苛的[[Adequate Yearly Progress|充分学业进展]]（Adequate Yearly Progress, AYP）考核，蓄意调低合格切分点、制造虚假高及格率的竞相向下沉沦（Race to the bottom）现象。（p. 9）
 > - **国际课程与测评差距（TIMSS / [[PISA]]）** 援引施密特等人的跨国比较研究，结合国际学生评估项目（Programme for International Student Assessment, PISA）数据，指出高绩效国家（如新加坡、韩国、日本）的课程具有深度与系统连贯性，而美国各州课程内容庞杂浅薄，呈现典型的宽一英里、深一英寸（A mile wide and an inch deep）碎片化特征。（pp. 9–10）
 > - **大学新生高额补习率** 动员 Achieve 主导的 ADP 调查数据，展示大量普通高中毕业生升入大学后不得不自费补修高中水平非学分补习课程的严峻事实，凸显文凭水分。
 > - **企业劳动力技能短缺数据** 联合全美主要商界协会，用雇主调研数据说明多数高中毕业生缺乏应对现代[[Knowledge-Based Economy|知识经济]]所需的复杂阅读理解与定量推理能力。

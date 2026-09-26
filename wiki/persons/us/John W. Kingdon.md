@@ -3,19 +3,18 @@ title: John W. Kingdon
 aliases:
   - 约翰·W·金登
   - 约翰·金登
-  - 金登
   - John Kingdon
 summary: "美国著名政治学者，密歇根大学政治学荣休教授，美国文理科学院院士；多源流分析框架（Multiple Streams Framework）的创立者，首次系统提出政策之窗（Policy Window）与政策企业家（Policy Entrepreneur）等经典概念，将组织决策的垃圾桶模型发展为解释公共政策议程设置与政策变迁的核心理论典范。"
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 19
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1940"
 died: ""
-lifespan: "1940–至今"
+lifespan: 1940–至今
 tags:
   - person/us
   - political-science

@@ -13,7 +13,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_facts:
   - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Every Student Succeeds Act]]"
+  - "[[Adequate Yearly Progress]]"
   - "[[What Works Clearinghouse]]"
   - "[[Evidence for ESSA]]"
 related_arguments:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-26
 ---
 
 # Title I of the Elementary and Secondary Education Act
@@ -90,7 +91,7 @@ updated: 2026-09-17
 
 > [!timeline] 政策时间线
 > - 1965 年 约翰逊总统签署《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]》，正式设立 Title I 专项补偿拨款。
-> - 2001 年 布什总统签署《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（NCLB），强化以标准化测验与适度年度进展（Adequate Yearly Progress, AYP）为导向的惩罚性行政问责。
+> - 2001 年 布什总统签署《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（NCLB），强化以标准化测验与[[Adequate Yearly Progress|适度年度进展]]（Adequate Yearly Progress, AYP）为导向的惩罚性行政问责。
 > - 2015 年 奥巴马总统签署《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA），废除惩罚性问责，首次确立四级法定[[Evidence Standards\|证据标准]]（Tier 1–4），并将 Title I 学校改进专项拨款与循证实践采纳刚性绑定。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, p. 162)]]
 > - 2017 年 2017–2018 学年全美学区开始正式执行 ESSA 证据要求。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, p. 175)]]
 
@@ -172,7 +173,7 @@ updated: 2026-09-17
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Every Student Succeeds Act]] | 授权母法 | 2015 年再授权法案，确立四级[[Evidence Standards\|证据标准]]并与 Title I 学校改进资金硬性绑定 |
-> | [[No Child Left Behind Act 2001]] | 前身法案 | 2001 年再授权法案，确立适度年度进展（AYP）与惩罚性行政问责 |
+> | [[No Child Left Behind Act 2001]] | 前身法案 | 2001 年再授权法案，确立[[Adequate Yearly Progress\|适度年度进展]]（AYP）与惩罚性行政问责 |
 > | [[Categorical Funding]] | 财政属性 | 联邦针对贫困弱势学生群体设立的体量最大的专项转移支付 |
 > | [[Evidence Standards]] | 规约标准 | ESSA 框架下规范 Title I 资金采纳项目的因果证据层级与质量门槛 |
 > | [[Evidence-Based Education]] | 改革[[Paradigm\|范式]] | 推动公共教育财政从行政惯性向实证因果成效驱动转型的核心理念 |

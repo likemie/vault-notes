@@ -8,10 +8,10 @@ summary: "美国著名政策学者，布兰代斯大学公共政策荣休教授�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1948"
 died: ""
 lifespan: "1948–至今"

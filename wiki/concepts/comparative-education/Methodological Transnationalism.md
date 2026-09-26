@@ -5,10 +5,10 @@ aliases:
 summary: "Diane Stone (2020) 与 Steiner-Khamsi 等倡导的方法论立场，主张超越方法论民族主义与线性层级霸权观，将国家与全球视作相互依存的关系性空间，聚焦全球/国家联结。"
 type: concept
 domain: "comparative-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - subject/comparative-education
   - theme/global-governance
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-24
+updated: 2026-09-26
 ---
 
 # Methodological Transnationalism

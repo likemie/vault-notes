@@ -16,7 +16,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 41
+fact_related_count: 42
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -61,6 +61,7 @@ related_persons: []
 related_facts:
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Adequate Yearly Progress]]"
   - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[What Works Clearinghouse]]"
   - "[[Evidence for ESSA]]"
@@ -80,7 +81,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-09-16
-updated: 2026-09-17
+updated: 2026-09-26
 ---
 # Every Student Succeeds Act
 
@@ -91,7 +92,7 @@ updated: 2026-09-17
 > [!policy-context] 政策背景
 > - **发布时间 / 签署主体** 美国国会于 2015 年 12 月两党压倒性高票通过（参议院 85:12，众议院 359:64），由贝拉克·奥巴马（Barack Obama）总统正式签署生效。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 23)]]
 > - **适用地区 / 覆盖对象** 全美 50 州公立中小学校（K–12），重点规范接受联邦 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资助的学校，尤其是[[Academic Achievement\|学业表现]]处于全州倒数 5% 的综合支持与改进学校（Comprehensive Support and Improvement, CSI）以及存在群体差距的针对性支持与改进学校（Targeted Support and Improvement, TSI）。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 25)]]
-> - **问题背景** 全面修正 2001 年《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]（No Child Left Behind Act, NCLB）》中僵化严苛的联邦全面达标要求（Adequate Yearly Progress, AYP）与惩罚性行政问责机制；在向各州下放教育治理与评价自主权的同时，建立以因果证据为导向的精准改进与财政激励体系。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–23)]]
+> - **问题背景** 全面修正 2001 年《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]（No Child Left Behind Act, NCLB）》中僵化严苛的联邦全面达标要求（[[Adequate Yearly Progress]], AYP）与惩罚性行政问责机制；在向各州下放教育治理与评价自主权的同时，建立以因果证据为导向的精准改进与财政激励体系。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–23)]]
 > - **制度位置** 属于美国 1965 年《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]（Elementary and Secondary Education Act of 1965, ESEA）》的第七次全面重新授权。在宪法第十修正案确立的教育州权分权体制下，法案深刻吸取了 NCLB 诱发应试操练与集体舞弊的异化教训，标志着美国基础教育治理从僵化规制向发展型治理进路、从单一测试问责向证据分级激励的历史性跨越。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 41)]]
 
 ---

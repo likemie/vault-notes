@@ -8,7 +8,7 @@ aliases:
 summary: "由 Zewelanji N. Serpell 提出的政策导航框架，将宏观立法过程解构为问题识别、议程设置、政策制定与政策合法化四个阶段，指导教育研究者把握动态机会窗口并策略性注入实证证据"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 42
+theory_related_count: 43
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"

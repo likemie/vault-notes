@@ -9,7 +9,7 @@ aliases:
 summary: "公共政策多源流框架的核心概念，指问题流、政策方案流与政治流三者汇聚时短暂开启的有利于政策采纳的关键机遇期；在教育循证改革中，政策之窗的时间压缩特性直接决定了证据的形态选择，促使行动者转向专业经验、同行信任与微观对标分析等高效能替代证据。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -132,7 +132,7 @@ updated: 2026-09-26
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1984年 — [[John W. Kingdon|金登]]创立多源流分析** 金登在《议程、备选方案与公共政策》中正式确立政策之窗概念，指出政治流与问题流的交汇创造了窗口。
+> - **1984年 — 金登创立多源流分析** 金登在《议程、备选方案与公共政策》中正式确立政策之窗概念，指出政治流与问题流的交汇创造了窗口。
 > - **2000年代 — 制度主义与断裂平衡拓展** 学界将政策之窗与[[Punctuated Equilibrium Theory|政策垄断]]打破、[[Venue Shopping|制度场所转换]]相结合，分析窗口期制度摩擦的瓦解。
 > - **2013年 — 循证决策与证据形态演化** 麦克唐纳与韦瑟福德将政策之窗引入教育证据利用研究，确立了政策窗口时间压力决定学术证据与专业经验配比的权变模型。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–6, 16–19)]]
 

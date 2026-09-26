@@ -9,9 +9,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 国际发展政策研究与智库网络（International Public Policy Research Network）
 headquarters: 新德里（New Delhi，初始发起于华盛顿特区）
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # Global Development Network

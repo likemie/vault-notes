@@ -6,7 +6,7 @@ aliases:
 summary: "主张所有社会现象、制度演进与集体结果必须且只能通过个体行动者的动机、信念、决策与互动来解释的方法论与认识论原则"
 type: concept
 domain: "comparative-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -52,7 +52,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-22
+updated: 2026-09-26
 ---
 
 # Methodological Individualism

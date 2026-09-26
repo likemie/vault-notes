@@ -7,7 +7,7 @@ aliases:
 summary: "戴安娜·斯通（Diane Stone）于 2000 年提出的概念，指世界银行在 1990 年代从传统发展放贷机构向以知识生产、研究分发与政策咨询为核心业务的全球知识中枢转型的制度性演变。知识银行转型是世界银行成为教育领域政策中介先行者的制度基础，也是其将自身研究产品与贷款条件深度绑定的权力重构节点。"
 type: concept
 domain: "comparative-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-09-26
 ---
 
 # Knowledge Bank
