@@ -48,6 +48,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Michael Traill]]"
+  - "[[David Coleman]]"
 related_facts:
   - "[[OECD]]"
   - "[[National Center for Education Evaluation and Regional Assistance]]"
@@ -179,7 +180,7 @@ updated: 2026-09-26
 > > 围绕教育不平等根源的政治解释学翻转展开史学论辩。
 > >
 > > - **社会学制度史视角** 指出该报告标志着美国教育政治话语的根本性倒转：1966 年[[Coleman Report 1966\|科尔曼报告]]将学业差距归因于家庭与社会背景曾被视为保守立场，而到了 1983 年，保守派已全面倒向将学校界定为全部问题的根源，以学校内部效能掩盖深层资本主义结构不平等。[[Argument_Downey_2016_SoE\|(Downey & Condron, 2016, p. 2)]]
-> > - **激进左翼批判传统** 认为无论是科尔曼还是 1983 报告，本质上都未能直面资本主义阶级再生产机器的本质，只是在不同历史时期为了维护统治秩序而轮换替罪羊。
+> > - **激进左翼批判传统** 认为无论是[[David Coleman|科尔曼]]还是 1983 报告，本质上都未能直面资本主义阶级再生产机器的本质，只是在不同历史时期为了维护统治秩序而轮换替罪羊。
 >
 > > [!axis] 战后全球危机动员链的历时演变（战后早期动员 vs 80年代比较转向）
 > > 围绕 *A Nation at Risk* 在全球教育治理演进中的历史地位与功能延续性展开学术评述。

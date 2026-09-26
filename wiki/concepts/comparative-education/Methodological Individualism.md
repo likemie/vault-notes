@@ -47,6 +47,8 @@ related_arguments:
 related_theories:
   - "[[Knowledge Integration]]"
   - "[[Rational Action Theory]]"
+related_persons:
+  - "[[David Coleman]]"
 confidence: high
 status: draft
 created: 2026-08-26
@@ -98,7 +100,7 @@ updated: 2026-09-22
 > - **个体能力与素养聚焦（Competence & Attitude Focus）** 实证研究高度依赖量表与[[Questionnaire\|问卷]]，侧重测量教师的信息素养、[[Literature Search\|文献检索]]能力与对研究的态度（Williams & Coles, 2007）。
 > - **还原主义推论倾向（Reductionist Implications）** 面向实践改进时，往往倾向于开出针对个体补短板的培训处方，忽视组织与制度生态的支持结构（[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, pp. 6–7]]）。
 
-> [!logic-map]- 科尔曼之船（Coleman’s Boat）与个体主义解释链条
+> [!logic-map]- [[David Coleman|科尔曼]]之船（Coleman’s Boat）与个体主义解释链条
 > ```mermaid
 > flowchart TD
 >     Macro1["宏观环境（如循证政策号召、新课程改革）"] -->|"情境约束与刺激"| Micro1["微观个体认知（教师信念、态度与研究素养）"]
@@ -148,7 +150,7 @@ updated: 2026-09-22
 > [!dev-timeline] 概念演变
 > - **1900s–1920s — 经典社会学与经济学奠基** Schumpeter（1908）正式提出术语；Max Weber（1922）确立理解社会学纲领，强调社会现象必须追溯至个体有意义的行动。
 > - **1940s–1960s — 科学哲学与反历史[[Determinism\|决定论]]深化** Karl Popper（1945）在《开放社会及其敌人》中将方法论个体主义确立为反极权主义与反历史主义[[Epistemology\|认识论]]的核心支柱。
-> - **1980s–1990s — 分析马克思主义与理性选择社会学** Jon Elster（1989）与 Raymond Boudon（1982）推进微观基础理论，提出科尔曼之船（Coleman, 1990）微观-宏观连结模型。
+> - **1980s–1990s — 分析马克思主义与理性选择社会学** Jon Elster（1989）与 Raymond Boudon（1982）推进微观基础理论，提出[[David Coleman|科尔曼]]之船（Coleman, 1990）微观-宏观连结模型。
 > - **2000s–2010s — [[Evidence-Based Education\|循证教育]]研究中的个体主义转向** 大量教育[[Document\|文献]]将[[Research Utilization\|研究使用]][[Operationalization\|操作化]]为教师个人的信息素养与态度测量（Williams & Coles, 2007; Brown & Zhang, 2016）。
 > - **2025 — [[Critical Review\|批判性综述]]对教育领域个体主义[[Paradigm\|范式]]的反思** [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] 系统批判方法论个体主义在过去 30 年中对研究使用文献的统治，呼吁转向组织生态与专业敏感型新范式。
 

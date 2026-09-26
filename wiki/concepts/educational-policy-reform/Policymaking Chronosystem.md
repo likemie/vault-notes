@@ -41,6 +41,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Urie Bronfenbrenner]]"
+  - "[[John W. Kingdon]]"
 related_facts:
   - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[Higher Education Act of 1965]]"
@@ -76,7 +77,7 @@ updated: 2026-09-26
 > *Borrowing from Bronfenbrenner and Ceci's (1994) theory about human development, policy development does not happen in a vacuum and has a particular chronosystem or a set of changing conditions determined by sociohistorical circumstance and environmental events that emerge over the life course and prompt change... The federal education policymaking process is often activated by a salient event that occurs in a particular cultural context at a particular point in time, like a school shooting (Sandy Hook) or a catastrophic weather event (Hurricane Katrina).*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Policy Window|政策机会之窗]]（Policy Windows） — 约翰·金登（John Kingdon）的多源流框架聚焦问题流、政策流与政治流交汇时短暂开启的窗口，侧重微观政治机会的把握；政策制定时间系统则是一个更为宏观的生态历时架构，涵盖长期的社会历史沉淀、制度性法律重新授权周期与急性突发事件的复合时间节律。
+> - 不等于 [[Policy Window|政策机会之窗]]（Policy Windows） — [[John W. Kingdon|约翰·金登]]（John Kingdon）的多源流框架聚焦问题流、政策流与政治流交汇时短暂开启的窗口，侧重微观政治机会的把握；政策制定时间系统则是一个更为宏观的生态历时架构，涵盖长期的社会历史沉淀、制度性法律重新授权周期与急性突发事件的复合时间节律。
 > - 不等于 单纯的选举周期（Electoral Cycle） — 选举周期仅刻画以选票为导向的定期任期更替日历，而时间系统强调偶发性危机（如自然灾害或校园枪击惨案）对既定政治日历的突发性颠覆与议程重构。
 > - 不等于 法定审议日历（Legislative Calendar） — 委员会排期与法案读会只是技术性的议事规程，时间系统涵盖了公众情绪、媒体议程与政治家公开承诺所构成的综合心理与社会时间[[Champ\|场域]]。
 
@@ -174,7 +175,7 @@ updated: 2026-09-26
 
 > [!dev-timeline] 时间系统概念在政策研究中的演化脉络
 > - **1994 — 生物生态学历时系统理论提出** [[Urie Bronfenbrenner\|布朗芬布伦纳]]与塞西（Bronfenbrenner & Ceci, 1994）在人类发展模型中确立历时系统（Chronosystem），阐明社会历史条件与生命历程突发事件对个体成长的决定性塑造。
-> - **1984 / 2003 — 政策议程多源流与机会之窗** 金登（Kingdon）提出[[Policy Window|政策之窗]]理论，揭示政策偶发性与政治时机对议程设置的驱动，为政策时间维度的非线性思考奠定基石。
+> - **1984 / 2003 — 政策议程多源流与机会之窗** [[John W. Kingdon|金登]]（Kingdon）提出[[Policy Window|政策之窗]]理论，揭示政策偶发性与政治时机对议程设置的驱动，为政策时间维度的非线性思考奠定基石。
 > - **2000s — [[Evidence-Based Education\|循证教育]]运动的静态时间幻觉** 随着《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）的颁布，循证教育政策预设了无时间摩擦的“研究生产-证据清算-政策采纳”线性链条，忽视了宏观政策的政治时间节律。
 > - **2020 — 政策制定时间系统理论化确立** 塞佩尔（[[Argument_Serpell_2020_EP\|Serpell, 2020]]）正式将生物生态学时间系统引介至教育政策与[[Output-Oriented Governance\|循证治理]]领域，系统论证政策时间生态对证据利用的制约，提出兼顾法定重新授权与突发事件的[[Navigational Framework for Educational Researchers\|政策导航框架]]。
 

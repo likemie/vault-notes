@@ -34,6 +34,7 @@ related_persons:
   - "[[Alec Peterson]]"
   - "[[Gerard Renaud]]"
   - "[[Christopher Martin]]"
+  - "[[Deborah Stone]]"
   - "[[John Goormaghtigh]]"
 related_facts:
   - "[[International School of Geneva]]"
@@ -111,7 +112,7 @@ updated: 2026-09-24
 > 《日内瓦论坛报》编辑、二十世纪基金受托人乔治-亨利·[[Christopher Martin|马丁]]（Georges-Henri Martin）把 ISES 带入基金会视野。基金会委托马丁·梅耶（Martin Mayer）撰写可行性调查结果，并资助 Mayer and [[International School of Geneva\|Ecolint]] 教师吉恩·沃拉克（Gene Wallach）访问可能采用项目的国际学校。资金因而同时产生行政能力和外部检验证据，学校的课程需求、升学方向与采用意愿也开始进入组织决策。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 20–22)]]
 
 > [!case] Café de Remor 外的凌晨谈话把兼职困境转化为全职安排
-> 一次令人挫折的行政会议结束后，Desmond Cole、Harlan Hanson and [[Alec Peterson]] 凌晨一点在日内瓦 Café de Remor 外继续讨论。三人判断，没有人全职承担，项目便无法启动。Alec Peterson 原计划在学术休假期间前往伯克利教学，Harlan Hanson 随即协调伯克利教育学院，把教学压缩到 1967 年夏季一个学期。新的时间安排使 Alec Peterson 可以从 1966 年末起集中近一年推进项目。随后，他与 Harlan Hanson 在纽约同谢普·斯通（Shep Stone）会谈约一小时，完成福特基金 300,000 美元资助的最后确认。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 23–24)]]
+> 一次令人挫折的行政会议结束后，Desmond Cole、Harlan Hanson and [[Alec Peterson]] 凌晨一点在日内瓦 Café de Remor 外继续讨论。三人判断，没有人全职承担，项目便无法启动。Alec Peterson 原计划在学术休假期间前往伯克利教学，Harlan Hanson 随即协调伯克利教育学院，把教学压缩到 1967 年夏季一个学期。新的时间安排使 Alec Peterson 可以从 1966 年末起集中近一年推进项目。随后，他与 Harlan Hanson 在纽约同谢普·[[Deborah Stone|斯通]]（Shep Stone）会谈约一小时，完成福特基金 300,000 美元资助的最后确认。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 23–24)]]
 
 > [!feature] 可行性必须同时满足五项条件
 > - **共同课程与考试** 把 1962 年以来的学科会议成果整合为统一结构、双语大纲和可实施考试。

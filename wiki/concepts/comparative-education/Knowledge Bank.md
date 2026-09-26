@@ -32,7 +32,8 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Deborah Stone]]"
 related_facts:
   - "[[World Bank]]"
   - "[[UNESCO]]"
@@ -54,7 +55,7 @@ updated: 2026-09-12
 ## 定义
 
 > [!def] 核心定义
-> 知识银行（Knowledge Bank）是戴安娜·斯通（Diane Stone）于 2000 年提出的分析概念，指[[World Bank\|世界银行]]在 1990 年代完成的制度性转型：从以项目贷款与基础设施融资为核心的传统开发银行，演变为以全球[[Knowledge Production\|知识生产]]、研究数据库建设与政策处方推销为主轴的全球知识权威中枢。这一转型使世界银行超越了传统意义上的金融机构身份，确立了其作为全球教育治理领域最具影响力的知识权威与[[Policy Brokerage\|政策中介]]先行者的机构地位。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
+> 知识银行（Knowledge Bank）是戴安娜·[[Deborah Stone|斯通]]（Diane Stone）于 2000 年提出的分析概念，指[[World Bank\|世界银行]]在 1990 年代完成的制度性转型：从以项目贷款与基础设施融资为核心的传统开发银行，演变为以全球[[Knowledge Production\|知识生产]]、研究数据库建设与政策处方推销为主轴的全球知识权威中枢。这一转型使世界银行超越了传统意义上的金融机构身份，确立了其作为全球教育治理领域最具影响力的知识权威与[[Policy Brokerage\|政策中介]]先行者的机构地位。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
 
 > [!concept-lens] 概念背景
 > 知识银行概念的核心张力在于：世界银行究竟是一个透过知识分享赋能各国政府的开放型学习平台，还是一个将特定发展意识形态（新自由主义结构调整、教育回报率思维、私立化方案）包装为客观知识的规制权力机构？这一张力贯穿了自 1990 年代以来所有围绕世界银行教育治理角色的学术争论。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
@@ -95,7 +96,7 @@ updated: 2026-09-12
 > > - **批判性研究视角（Stone 2000; Steiner-Khamsi et al. 2024）** 指出知识银行模式将特定发展经济学[[Paradigm\|范式]]（尤其是[[Human Capital Theory\|人力资本理论]]与私立化方案）包装为[[Value Neutrality\|价值中立]]的科学知识；在技术援助与贷款条件的双重机制下，全球南方政府事实上面临以"知识权威"为形式的软性规制压力。
 
 > [!warning] 概念局限
-> "知识银行"最初是斯通（Stone 2000）在相对中性的制度分析语境下提出的描述性概念；后续研究者（包括 Steiner-Khamsi 等批判比较教育学者）在使用时往往赋予其更强的批判性内涵。读者应注意区分描述性使用与批判性使用的语境差异。
+> "知识银行"最初是[[Deborah Stone|斯通]]（Stone 2000）在相对中性的制度分析语境下提出的描述性概念；后续研究者（包括 Steiner-Khamsi 等批判比较教育学者）在使用时往往赋予其更强的批判性内涵。读者应注意区分描述性使用与批判性使用的语境差异。
 
 ---
 

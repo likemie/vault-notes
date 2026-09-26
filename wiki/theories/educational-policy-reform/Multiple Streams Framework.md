@@ -43,7 +43,8 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[John W. Kingdon]]"
 related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
@@ -66,7 +67,7 @@ updated: 2026-09-26
 > - **解释对象** 公共政策制定中议程如何确立、方案如何被选择，尤其是在高度不确定、信息过载与认知分歧交织的复杂政策生态中。
 > - **理论问题** 彻底打破传统理性主义“[[Problem Finding\|问题界定]] → 方案搜索 → 综合权衡 → 决策执行”的线性推导神话，解释为何政策方案往往先于问题存在，以及为何公共决策长期深陷“针对同一情境存在多种不可调和思维方式”的[[Policy Ambiguity\|决策歧义性]]（Ambiguity）。
 > - **理论类型** 中层理论 / 政策议程设定机制与动态决策过程模型。
-> - **知识位置** 发轫于科恩、马奇与奥尔森（Cohen, March, & Olsen, 1972）对“有组织无序状态”的洞见与垃圾桶模型（Garbage Can Model），由约翰·金登（John Kingdon, 1984）系统创立，后经尼古拉斯·扎哈利亚迪斯（Nikolaos Zahariadis, 2003, 2017）扩展深化，成为当代教育政策改革与全球治理中分析[[Policy Brokerage\|政策中介]]（[[Policy Brokerage]]）与量化指标规制（[[Governing by Numbers]]）的经典理论基石。
+> - **知识位置** 发轫于科恩、马奇与奥尔森（Cohen, March, & Olsen, 1972）对“有组织无序状态”的洞见与垃圾桶模型（Garbage Can Model），由[[John W. Kingdon|约翰·金登]]（John Kingdon, 1984）系统创立，后经尼古拉斯·扎哈利亚迪斯（Nikolaos Zahariadis, 2003, 2017）扩展深化，成为当代教育政策改革与全球治理中分析[[Policy Brokerage\|政策中介]]（[[Policy Brokerage]]）与量化指标规制（[[Governing by Numbers]]）的经典理论基石。
 
 > [!claim] 核心主张
 > 公共政策议程的启动并非理性的逻辑推导，而是问题流、政策流与政治流三股相对独立潮流在特定历史时刻的偶然交汇。在政策决策充满“歧义性（Ambiguity）”的情境下，单纯增加科研知识供给不仅不会自发消除分歧，反而会加剧注意力赤字与解释冲突；唯有当重大危机叙事、指标异常或政权更迭开启短暂的“[[Policy Window|政策之窗]]（Policy Window）”时，[[Policy Entrepreneur\|政策企业家]]（或政策中介机构）通过策略性操纵数字指标的[[Façade of Rationality\|理性表象]]，将预设的政策方案与浮现的问题界定及政治意图强行耦合，政策变迁方得以发生。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
@@ -174,7 +175,7 @@ updated: 2026-09-26
 
 > [!dev-timeline] 发展脉络
 > - **1972 — 垃圾桶模型奠基** 迈克尔·科恩、詹姆斯·马奇与约翰·奥尔森发表经典论文，提出组织内部决策往往是问题、解决方案、参与者与选择机会在垃圾桶内的偶然碰撞。
-> - **1984 — 金登创立多源流分析法** 约翰·金登出版专著《议程、备选方案与公共政策》（*Agendas, Alternatives, and Public Policies*），将政策过程明确化为问题流、政策流与政治流三流模型。
+> - **1984 — [[John W. Kingdon|金登]]创立多源流分析法** 约翰·金登出版专著《议程、备选方案与公共政策》（*Agendas, Alternatives, and Public Policies*），将政策过程明确化为问题流、政策流与政治流三流模型。
 > - **2003/2017 — 扎哈利亚迪斯深化歧义性分析** 扎哈利亚迪斯将多源流模型扩展至比较政治与对外政策分析，系统引入“歧义性（Ambiguity）”[[Construct\|构念]]，奠定了当代政策过程理论的第四版综合框架。
 > - **2024 — 拓展至全球教育治理与[[Policy Brokerage\|政策中介]]研究** 施泰纳-哈姆西等学者（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]）将多源流框架引入信息过载时代的全球教育政策中介研究，阐明国际组织如何操纵数字表象搭建理性[[Scaffolding\|脚手架]]，推动三流耦合以实现跨国规制。
 
@@ -187,7 +188,7 @@ updated: 2026-09-26
 > > [!axis] 三大源流的绝对独立性 vs 实践中的结构性相互渗透
 > > 批评学者质疑现实中的问题流与政策流是否真的完全独立。
 > >
-> > - **金登与扎哈利亚迪斯** 坚持三流的逻辑独立性是该框架的核心解释力所在，正因为方案独立演进，才解释了为何决策往往充斥着“为了答案找问题”的现象。
+> > - **[[John W. Kingdon|金登]]与扎哈利亚迪斯** 坚持三流的逻辑独立性是该框架的核心解释力所在，正因为方案独立演进，才解释了为何决策往往充斥着“为了答案找问题”的现象。
 > > - **制度主义批评者** 指出在高度专业化的部门官僚体制中，[[Problem Finding\|问题界定]]与技术方案研发高度共生，人为割裂三流割裂了政策主体的连贯理性。
 >
 > > [!axis] [[Policy Window|政策之窗]]的随机偶发性 vs 全球资本与霸权的结构性锁定

@@ -57,7 +57,10 @@ related_methods:
   - "[[Triangulation]]"
 related_instruments: []
 related_persons:
+  - "[[John W. Kingdon]]"
+  - "[[Deborah Stone]]"
   - "[[William H. Schmidt]]"
+  - "[[David Coleman]]"
 related_facts:
   - "[[Common Core State Standards]]"
   - "[[National Governors Association]]"
@@ -92,7 +95,7 @@ title: "Argument_McDonnell_2013_AJE"
 argument_key: "Argument_McDonnell_2013_AJE"
 argument_display_title: "Evidence use and the Common Core State Standards movement: From problem definition to policy adoption"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 57
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -131,9 +134,7 @@ issuing_organization: ""
 > | **断裂平衡理论与政策垄断**<br>[[Punctuated Equilibrium Theory]] | 鲍姆加特纳与琼斯的断裂平衡理论揭示美国长期以来各州宪法性分权割裂标准的制度垄断（Policy Monopoly），以及倡导者如何通过重塑政策形象（Policy Image）与[[Venue Shopping\|制度场所转换]]（Venue Shopping）打破稳态体制。（pp. 3–5, 8–9） |
 
 > [!warrant]- 理论如何支撑论证
-> 约翰·W·金登（John W. Kingdon）的议程设置与政策企业家理论指明了[[Theories of Policy Change|政策变革]]的动力主体，但未详尽刻画企业家如何处理证据[[Heterogeneity|异质性]]；结合公共政策阶段论与德博拉·斯通（Deborah Stone）的问题界定建构理论，研究得以将实证研究剥离出中立真理的单一假象，还原为在不同制度关口服务于动员共识、去政治化协商或阻击反对意见的策略性政治资源。（pp. 3–6, 18–19）
-
-政策分析[[Document|文献]]表明，政策制定者是否使用以及如何使用研究证据，取决于多重现实约束条件的相互作用。（pp. 2–3）
+> [[John W. Kingdon|约翰·W·金登]]（John W. Kingdon）的议程设置与政策企业家理论指明了[[Theories of Policy Change|政策变革]]的动力主体，但未详尽刻画企业家如何处理证据[[Heterogeneity|异质性]]；结合公共政策阶段论与[[Deborah Stone|德博拉·斯通]]（Deborah Stone）的问题界定建构理论，研究得以将实证研究剥离出中立真理的单一假象，还原为在不同制度关口服务于动员共识、去政治化协商或阻击反对意见的策略性政治资源。（pp. 3–6, 18–19）
 
 > [!factors] 决定实证研究在政策中是否被使用的关键[[Variable|变量]]
 > - **研究可得性与供给充分性**
@@ -252,7 +253,7 @@ issuing_organization: ""
 
 > [!proc] 防范外部政治干预的研制程序
 > 1. **确立实证至上原则** 州首席教育官理事会（CCSSO）负责人吉恩·威洛伊特（Gene Wilhoit）公开声明标准完全由研究证据驱动，拒绝将起草过程变成各利益团体的政治交易与谈判妥协。（p. 13）
-> 2. **明确专业起草团队与广泛工作组** 数学标准由新标准项目前主任菲尔·达罗（Phil Daro）、亚利桑那大学数学系教授威廉·麦卡勒姆（William McCallum）及本宁顿学院物理与数学学者贾森·津巴（Jason Zimba）主持；英语语言艺术（English Language Arts, ELA）标准由学生成就伙伴组织创始人戴维·科尔曼（David Coleman）与标准工作组织联合创始人休·皮门特尔（Sue Pimentel）主持；各团队配备约 50 人的跨学科工作组（涵盖认知发展、评估设计、英语学习者专家）与 20 余人的同行反馈组。（pp. 13, 22）
+> 2. **明确专业起草团队与广泛工作组** 数学标准由新标准项目前主任菲尔·达罗（Phil Daro）、亚利桑那大学数学系教授威廉·麦卡勒姆（William McCallum）及本宁顿学院物理与数学学者贾森·津巴（Jason Zimba）主持；英语语言艺术（English Language Arts, ELA）标准由学生成就伙伴组织创始人[[David Coleman|戴维·科尔曼]]（David Coleman）与标准工作组织联合创始人休·皮门特尔（Sue Pimentel）主持；各团队配备约 50 人的跨学科工作组（涵盖认知发展、评估设计、英语学习者专家）与 20 余人的同行反馈组。（pp. 13, 22）
 > 3. **自上而下逆向推导** 率先确立高中毕业生升入大学与职场所必须掌握的[[College and Career Readiness|大学与职业就绪]]（College and Career Ready, CCR）终极目标，再从十二年级向下逐级倒推（Backward Mapping）至幼儿园，确保各学段技能梯度的因果连贯。
 > 4. **组建独立验证委员会** 设立由 29 位跨学科顶尖学者与评估专家组成的外部把关委员会，依据证据充分性、清晰度与国际可比性三大原则实施质量认证。（pp. 15–16, 23）
 

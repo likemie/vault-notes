@@ -55,6 +55,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[John W. Kingdon]]"
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
   - "[[PISA]]"
@@ -83,7 +84,7 @@ updated: 2026-09-26
 > - **边界** 必须严格区别于“信息不足所导致的[[Scientific Uncertainty\|认知不确定性]]（Uncertainty）”；歧义性关涉的是意义、价值与框架的[[Multiplicity\|多重性]]，而非事实数据的多寡。
 
 > [!citation-card] 决策歧义性在多源流政策过程中的核心地位
-> 扎哈里亚迪斯（2017）关于约翰·金登[[Multiple Streams Framework\|多源流分析框架]]的观察同样适用于大多数其他政策过程理论：必须找到一个能够“解释国家政府在歧义性条件下如何制定政策”的视角或[[Analytic Framework\|分析框架]]。歧义性概念捕捉了“对同一环境或现象存在多种思考方式的状态”（Feldman 1989, p. 5）。这些不同的思考方式并不一定能够调和，迫使行使治理权者——广义上的政府——做出艰难抉择。如果认为更多的知识能够减少歧义性并促进循证决策，那就大错特错了；事实恰恰相反。当今的信息过载为那些选择性利用研究、将研究结果转化为证据、进而将证据翻译为政策用途的个人与机构的繁荣滋长提供了肥沃土壤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
+> 扎哈里亚迪斯（2017）关于[[John W. Kingdon|约翰·金登]][[Multiple Streams Framework\|多源流分析框架]]的观察同样适用于大多数其他政策过程理论：必须找到一个能够“解释国家政府在歧义性条件下如何制定政策”的视角或[[Analytic Framework\|分析框架]]。歧义性概念捕捉了“对同一环境或现象存在多种思考方式的状态”（Feldman 1989, p. 5）。这些不同的思考方式并不一定能够调和，迫使行使治理权者——广义上的政府——做出艰难抉择。如果认为更多的知识能够减少歧义性并促进循证决策，那就大错特错了；事实恰恰相反。当今的信息过载为那些选择性利用研究、将研究结果转化为证据、进而将证据翻译为政策用途的个人与机构的繁荣滋长提供了肥沃土壤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
 >
 > *Zahariadis’ (2017, 65) observation concerning John Kingdon's multiple streams approach also applies to most other theories of the policy process: the need to find a lens, perspective, or framework 'that explains how national governments make policies under conditions of ambiguity.' The concept of ambiguity captures the 'state of having many ways of thinking about the same circumstances or phenomena' (Feldman 1989, 5). These different ways of thinking are not necessarily reconcilable, forcing those who govern – the 'government' broadly conceived – to make choices. It would be wrong to assume that more knowledge reduces ambiguity and facilitates evidence-informed policymaking. The opposite applies. Today’s information overload constitutes fertile ground for the flourishing of individuals and institutions that selectively draw on research, transform research findings into evidence, and then translate that evidence for policy use.*
 

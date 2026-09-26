@@ -43,6 +43,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
+  - "[[Deborah Stone]]"
 related_facts:
   - "[[OECD]]"
   - "[[Definition and Selection of Competencies]]"
@@ -69,7 +70,7 @@ updated: 2026-09-18
 > - **边界** 转移空间是一个关系性与分析性的功能场域，而非物理地理意义上的行政区划或跨国组织办公场所。
 
 > [!citation-card] 转移空间的分析价值与跨国关系透镜
-> 针对公共政策的研究极易陷入[[Methodological Nationalism\|方法论民族主义]]的陷阱。……鉴于我们对比较政策研究的偏好，我们不准备放弃“国家”与“全球”实体这些概念，因为这两个[[Unit of Analysis\|分析单元]]之间的关联在一定程度上解释了国家政府的政策制定。我们将国家与全球视为相互依存的空间，而非截然分割的场所。正因如此，我们并不认为全球是国家政策制定的外部因素。我们发现，在旷日持久的政策僵局发生特定时刻，政策行动者往往倾向于工具性地动员全球行动者，仿佛它们是外部政治力量一样。我们对政府全球与国家层面之间关系维度的关注，高度契合戴安·斯通倡导坚定致力于[[Methodological Transnationalism\|方法论跨国主义]]的主张。这种方法论路径在比较政策分析中是极为本真的，而比较政策分析本身就是政策转移研究的基因。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
+> 针对公共政策的研究极易陷入[[Methodological Nationalism\|方法论民族主义]]的陷阱。……鉴于我们对比较政策研究的偏好，我们不准备放弃“国家”与“全球”实体这些概念，因为这两个[[Unit of Analysis\|分析单元]]之间的关联在一定程度上解释了国家政府的政策制定。我们将国家与全球视为相互依存的空间，而非截然分割的场所。正因如此，我们并不认为全球是国家政策制定的外部因素。我们发现，在旷日持久的政策僵局发生特定时刻，政策行动者往往倾向于工具性地动员全球行动者，仿佛它们是外部政治力量一样。我们对政府全球与国家层面之间关系维度的关注，高度契合戴安·[[Deborah Stone|斯通]]倡导坚定致力于[[Methodological Transnationalism\|方法论跨国主义]]的主张。这种方法论路径在比较政策分析中是极为本真的，而比较政策分析本身就是政策转移研究的基因。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
 >
 > *Given our affinity with comparative policy studies, we are not prepared to dismiss the notions of 'national' and 'global' entities because the nexus between the two units of analysis explains, to some extent, the policymaking of (national) governments. We conceive of the national and the global as interdependent spaces rather than distinct places. For this reason, we do not view the 'global' as 'external' to national policymaking (Gulson et al. 2023; Hartong and Nikolai 2017). We found that policy actors at particular moments of protracted policy constellations tend to instrumentally mobilise global actors as if they were external political forces (Steiner-Khamsi 2021; Steiner-Khamsi and Waldow 2012). Our focus on the relational aspect between the global and national levels of government is very much in line with Stone's (2020, 7) encouragement to unabashedly commit to 'methodological transnationalism.' Such a methodological approach is genuine in comparative policy analysis, which in turn 'is the DNA of policy transfer studies' (Porto de Oliveira and Osorio Gonnet 2023, 368).*
 

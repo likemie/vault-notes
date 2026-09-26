@@ -48,6 +48,7 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Correlational Research]]"
 related_persons:
+  - "[[John W. Kingdon]]"
   - "[[Eleftherios Klerides]]"
   - "[[William H. Schmidt]]"
   - "[[John Hattie]]"
@@ -86,7 +87,7 @@ updated: 2026-09-26
 ## 定义
 
 > [!def] 核心定义
-> 政策企业家（Policy Entrepreneur，又称政策创业者）是指在教育系统内外，愿意投入自身时间、精力、声望与资金等关键资源，通过建立跨界社交网络、识别并捕捉政策机会窗口（[[Policy Window]]），策略性整合实证证据与价值话语，以实质性影响公共政策议程设置、方案设计与法定采纳的能动行动者。该概念由约翰·W·金登（John W. Kingdon）引入公共政策分析，迈克尔·明特罗姆（Michael Mintrom, 2000）进一步阐释了其在教育系统内推动学校自主的自下而上创业过程；斯蒂芬·J·鲍尔（Stephen J. Ball, 2012）将其扩展至全球[[Network Governance|网络治理]]与私有化流动维度；洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（Lorraine M. McDonnell & M. Stephen Weatherford, 2013）则将其拓展为在政策生命周期中动态动员多源证据以打破既有制度垄断的政治中介理论。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. viii, 47)]]; [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–5)]]
+> 政策企业家（Policy Entrepreneur，又称政策创业者）是指在教育系统内外，愿意投入自身时间、精力、声望与资金等关键资源，通过建立跨界社交网络、识别并捕捉政策机会窗口（[[Policy Window]]），策略性整合实证证据与价值话语，以实质性影响公共政策议程设置、方案设计与法定采纳的能动行动者。该概念由[[John W. Kingdon|约翰·W·金登]]（John W. Kingdon）引入公共政策分析，迈克尔·明特罗姆（Michael Mintrom, 2000）进一步阐释了其在教育系统内推动学校自主的自下而上创业过程；斯蒂芬·J·鲍尔（Stephen J. Ball, 2012）将其扩展至全球[[Network Governance|网络治理]]与私有化流动维度；洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（Lorraine M. McDonnell & M. Stephen Weatherford, 2013）则将其拓展为在政策生命周期中动态动员多源证据以打破既有制度垄断的政治中介理论。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. viii, 47)]]; [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–5)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 这个概念指向一种能够跨越公共行政、智库非营利组织与商业资本等传统分立界限，具有高超政治技巧与资源整合能力的跨界网络能动者。
@@ -198,7 +199,7 @@ updated: 2026-09-26
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1984 — 议程设置与政策溪流模型** 约翰·W·金登（John W. Kingdon, 1984）在其经典著作中首创政策企业家概念，描述其如何将问题、方案与政治溪流耦合。
+> - **1984 — 议程设置与政策溪流模型** [[John W. Kingdon|约翰·W·金登]]（John W. Kingdon, 1984）在其经典著作中首创政策企业家概念，描述其如何将问题、方案与政治溪流耦合。
 > - **2000 — 教育系统内政策创业** 迈克尔·明特罗姆（Michael Mintrom, 2000）首次系统化探讨教育系统内部自下而上的政策创业行为，关注其打破行政僵化、促进学校[[School Choice|择校]]创新的机制。
 > - **2012 — 跨国[[Policy Network|政策网络]]拓展** 斯蒂芬·J·鲍尔（Stephen J. Ball, 2012）将概念拓展至全球[[Network Governance|网络化治理]]维度，揭示商业资本与智库如何穿透国家主权边界。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. viii)]]
 > - **2013 — 政策周期中的证据利用与去政治化** 洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013]]）将政策企业家理论与多阶段证据利用相结合，揭示其如何在各阶段将实证研究、指标数据与价值叙事策略性打包[[Assemblage|装配]]，以突破[[Punctuated Equilibrium Theory|政策垄断]]并推进[[Common Core State Standards|共同核心标准]]采纳。

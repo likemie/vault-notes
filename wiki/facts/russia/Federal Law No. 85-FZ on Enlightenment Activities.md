@@ -28,6 +28,8 @@ related_facts:
   - "[[Project 5-100]]"
 related_arguments:
   - "[[Argument_Dezhina_2022_ECO]]"
+related_persons:
+  - "[[Deborah Stone]]"
 confidence: medium
 status: draft
 created: '2026-06-26'
@@ -64,7 +66,7 @@ updated: '2026-06-26'
 ## 时间线
 
 > [!timeline] 政策时间线
-> - **2012** 俄罗斯通过第121-FZ号“外国代理人”法案，拉开对涉外非政府组织和科研团体的审查序幕。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 44]])
+> - **2012** 俄罗[[Deborah Stone|斯通]]过第121-FZ号“外国代理人”法案，拉开对涉外非政府组织和科研团体的审查序幕。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 44]])
 > - **2015** 签署第129-FZ号“非友好组织”法案，切断外部学术资助渠道。
 > - **2019** 教育部发布严苛的涉外交流指令，要求外宾会面必须提前审批（后于2020年撤销）。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 45–46]])
 > - **2021** 第85-FZ号教育法修正案于4月正式颁布，将涉外学术签约行政审批常态化与制度化。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 46]])

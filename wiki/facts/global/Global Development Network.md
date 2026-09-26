@@ -37,7 +37,8 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Correlational Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Deborah Stone]]"
 related_facts:
   - "[[World Bank]]"
   - "[[Systems Approach for Better Education Results]]"
@@ -70,7 +71,7 @@ updated: 2026-09-22
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1999–2001 — [[World Bank\|世行]]内部孵化与“[[Knowledge Bank\|知识银行]]”转型里程碑** 1990 年代世界银行全面加速拓展教育与社会部门的研究职能；1999 年发起成立 GDN，被政治学家黛安·斯通（Diane Stone, 2000）定性为世行脱胎换骨走向[[Knowledge Mediation\|知识中介]]的关键里程碑，高调许诺将研究预算与选题自主权下沉至国别本土层面。
+> - **1999–2001 — [[World Bank\|世行]]内部孵化与“[[Knowledge Bank\|知识银行]]”转型里程碑** 1990 年代世界银行全面加速拓展教育与社会部门的研究职能；1999 年发起成立 GDN，被政治学家黛安·[[Deborah Stone|斯通]]（Diane Stone, 2000）定性为世行脱胎换骨走向[[Knowledge Mediation\|知识中介]]的关键里程碑，高调许诺将研究预算与选题自主权下沉至国别本土层面。
 > - **2001–2005 — 法律独立重组与秘书处南迁新德里** 为摆脱世行直接附属机构的政治烙印，GDN 于 2001 年在瑞士日内瓦注册为独立国际组织，并于 2005 年正式将总部迁往印度新德里，确立了全球南方区域研究网络（Regional Network Partners）协作机制。
 > - **2006–至今 — 倡议受挫与被总部集权项目边缘化** 随着世界银行重心全面转向由华盛顿总部集中研制的大型指标体系（如教育领域的 [[Systems Approach for Better Education Results\|SABER]] 项目、[[Randomised Controlled Trials\|随机对照试验]] RCTs 与量化数据仓库），GDN 原初承诺的“本土去中心化政策[[Knowledge Production\|知识生产]]”逐渐丧失世行高层政治与财务支持，退居边缘化地位。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
 

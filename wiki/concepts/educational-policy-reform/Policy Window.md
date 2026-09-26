@@ -34,7 +34,8 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Process Tracing]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[John W. Kingdon]]"
 related_facts:
   - "[[Race to the Top]]"
   - "[[Common Core State Standards]]"
@@ -56,7 +57,7 @@ updated: 2026-09-26
 ## 定义
 
 > [!def] 核心定义
-> 政策之窗（Policy Window，亦称政策机会之窗）是约翰·W·金登（John W. Kingdon）在[[Multiple Streams Framework|多源流分析框架]]中提出的核心分析概念，指特定历史时期在政策体系中短暂开启、允许倡导者推动其既定方案或将注意力聚焦于特定紧迫问题的关键机会窗口。当问题流（社会危机与关键指标）、政策方案流（成熟的技术方案）与政治流（民意转变或政府更替）三者在特定契机下交汇耦合时，政策之窗即告打开；但该窗口具有极强的暂时性与脆弱性，一旦关闭，重大制度变革的契机将迅速流逝。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–4, 6)]]
+> 政策之窗（Policy Window，亦称政策机会之窗）是[[John W. Kingdon|约翰·W·金登]]（John W. Kingdon）在[[Multiple Streams Framework|多源流分析框架]]中提出的核心分析概念，指特定历史时期在政策体系中短暂开启、允许倡导者推动其既定方案或将注意力聚焦于特定紧迫问题的关键机会窗口。当问题流（社会危机与关键指标）、政策方案流（成熟的技术方案）与政治流（民意转变或政府更替）三者在特定契机下交汇耦合时，政策之窗即告打开；但该窗口具有极强的暂时性与脆弱性，一旦关闭，重大制度变革的契机将迅速流逝。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–4, 6)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 政策制定系统中由于外生事件冲击或内生政治周期交替而产生的短暂决策机遇期。
@@ -131,7 +132,7 @@ updated: 2026-09-26
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1984年 — 金登创立多源流分析** 金登在《议程、备选方案与公共政策》中正式确立政策之窗概念，指出政治流与问题流的交汇创造了窗口。
+> - **1984年 — [[John W. Kingdon|金登]]创立多源流分析** 金登在《议程、备选方案与公共政策》中正式确立政策之窗概念，指出政治流与问题流的交汇创造了窗口。
 > - **2000年代 — 制度主义与断裂平衡拓展** 学界将政策之窗与[[Punctuated Equilibrium Theory|政策垄断]]打破、[[Venue Shopping|制度场所转换]]相结合，分析窗口期制度摩擦的瓦解。
 > - **2013年 — 循证决策与证据形态演化** 麦克唐纳与韦瑟福德将政策之窗引入教育证据利用研究，确立了政策窗口时间压力决定学术证据与专业经验配比的权变模型。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–6, 16–19)]]
 

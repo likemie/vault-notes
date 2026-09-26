@@ -41,6 +41,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
 related_persons:
+  - "[[Deborah Stone]]"
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
   - "[[OECD]]"
@@ -69,7 +70,7 @@ updated: 2026-09-24
 > - **边界** 并不主张国家消亡或忽视主权边界，而是拒绝赋予国家独占的认识论垄断地位。
 
 > [!citation-card] 方法论跨国主义与全球/国家联结
-> 考虑到我们对比较政策研究的偏好，我们并不准备放弃“国家”和“全球”实体这些[[Construct\|构念]]，因为这两个[[Unit of Analysis\|分析单位]]之间的关联在某种程度上解释了（国家）政府的政策制定。我们将国家与全球理解为相互依赖的空间，而非彼此孤立的物理场所。出于这一原因，我们不认为“全球”对于国家政策制定而言是某种纯粹的“外部力量”。我们在处于胶着状态的特定政策时刻发现，政策行动者往往习惯于工具性地动员全球行动者，仿佛后者是外部政治力量一样。我们对国家与全球治理层级之间关系性维度的关注，与斯通（Stone, 2020, p. 7）关于坚定秉持“方法论跨国主义”的倡议高度一致。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
+> 考虑到我们对比较政策研究的偏好，我们并不准备放弃“国家”和“全球”实体这些[[Construct\|构念]]，因为这两个[[Unit of Analysis\|分析单位]]之间的关联在某种程度上解释了（国家）政府的政策制定。我们将国家与全球理解为相互依赖的空间，而非彼此孤立的物理场所。出于这一原因，我们不认为“全球”对于国家政策制定而言是某种纯粹的“外部力量”。我们在处于胶着状态的特定政策时刻发现，政策行动者往往习惯于工具性地动员全球行动者，仿佛后者是外部政治力量一样。我们对国家与全球治理层级之间关系性维度的关注，与[[Deborah Stone|斯通]]（Stone, 2020, p. 7）关于坚定秉持“方法论跨国主义”的倡议高度一致。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
 >
 > *Given our affinity with comparative policy studies, we are not prepared to dismiss the notions of 'national' and 'global' entities because the nexus between the two units of analysis explains, to some extent, the policymaking of (national) governments. We conceive of the national and the global as interdependent spaces rather than distinct places. For this reason, we do not view the 'global' as 'external' to national policymaking... Our focus on the relational aspect between the global and national levels of government is very much in line with Stone’s (2020, 7) encouragement to unabashedly commit to 'methodological transnationalism.'*
 

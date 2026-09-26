@@ -55,6 +55,7 @@ related_instruments: []
 related_persons:
   - "[[Russell J. Skiba]]"
   - "[[Carol Weiss]]"
+  - "[[John W. Kingdon]]"
 related_facts:
   - "[[The Education Trust]]"
   - "[[American Association for the Advancement of Science]]"
@@ -219,7 +220,7 @@ updated: 2026-09-26
 > [!dev-timeline] 发展脉络
 > - **1951 — [[Policy Science in Comparative Education\|政策科学]][[Paradigm\|范式]]奠基** 哈罗德·拉斯韦尔（Harold Lasswell）确立政策科学传统，开创政策阶段模型雏形。
 > - **1970s — [[Research Utilization Models\|研究利用模型]]与价值冲突论** [[Carol Weiss\|卡罗尔·韦斯]]（Weiss, 1977）指出公共政策本质关乎价值选择，研究主要发挥概念启蒙而非直接工具决策功能。
-> - **1984 / 2003 — 多源流与[[Policy Window|政策之窗]]模型** 约翰·金登（Kingdon）提出政策之窗概念，揭示议程设置中的政治偶发性。
+> - **1984 / 2003 — 多源流与[[Policy Window|政策之窗]]模型** [[John W. Kingdon|约翰·金登]]（Kingdon）提出政策之窗概念，揭示议程设置中的政治偶发性。
 > - **2000s — [[Evidence-Based Education\|循证教育]]运动与规制型[[Technical Rationality\|技术理性]]** 乔治·布什签署《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]），将“[[Scientifically Based Research\|基于科学的研究]]”固化为法定指标，推崇单一 [[Randomised Controlled Trials\|RCT]] 标准。
 > - **2015 — [[Every Student Succeeds Act\|每一个学生成功法案]]与发展型转向** 奥巴马签署重新授权的《每一个学生成功法案》（[[Every Student Succeeds Act\|ESSA]]），从单一惩戒转向综合支持体系，拓宽[[Research Utilization\|证据使用]]边界。
 > - **2020 — 政策导航框架的正式提出** 塞佩尔（[[Argument_Serpell_2020_EP\|Serpell, 2020]]）发表奠基性论文，基于国会全职研究员经历提出教育研究者政策导航框架，确立四阶段行动模型、时间系统分析与法条化传播规范。
