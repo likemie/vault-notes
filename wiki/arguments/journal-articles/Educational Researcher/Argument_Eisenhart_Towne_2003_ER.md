@@ -42,7 +42,6 @@ related_concepts:
   - "[[Champ]]"
 related_theories: []
 related_methods:
-  - "[[Implementation and Process Evaluation]]"
   - "[[Process Tracing]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Experimental Research]]"
@@ -52,10 +51,14 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Quantitative Research]]"
   - "[[Regression Discontinuity Design]]"
+  - "[[Single-Subject Design]]"
+  - "[[Time Series Design]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
-related_instruments: []
-related_persons: []
+related_instruments:
+  - "[[Study Design and Implementation Assessment Device]]"
+related_persons:
+  - "[[Richard J. Shavelson]]"
 related_facts:
   - "[[Reading Excellence Act]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -66,6 +69,7 @@ related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[National Reading Panel]]"
   - "[[Higher Education Act of 1965]]"
+  - "[[Office of Educational Research and Improvement]]"
   - "[[American Educational Research Association]]"
   - "[[National Education]]"
 related_arguments:
@@ -82,9 +86,9 @@ title: "Argument_Eisenhart_Towne_2003_ER"
 argument_key: "Argument_Eisenhart_Towne_2003_ER"
 argument_display_title: "Contestation and change in national policy on \\\"scientifically based\\\" education research"
 argument_kind: "journal-article"
-argument_related_count: 41
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Educational Researcher"
 book_title: ""
@@ -105,7 +109,7 @@ issuing_organization: ""
 > 华盛顿各项政策文本中的科学本位研究绝非铁板一块，而是存在规范服务资金合规与规范科研资助范围的根本制度功能区分；更为重要的是，国家政策对科学研究的界定并非一成不变的政治定论，而是在持续的争鸣中不断修正。学术共同体的专业质证与公共审议能够发挥实质性制衡作用，推动法定标准从狭隘的量化实验偏好转向尊重多元探究与强调方法契合问题的包容性框架。（pp. 31–32, 36–37）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 美国联邦《[[Reading Excellence Act|卓越阅读法]]》（Reading Excellence Act, REA）、《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|No Child Left Behind Act]], NCLB）、《[[Education Sciences Reform Act 2002|教育科学改革法]]》（Education Sciences Reform Act, ESRA）、美国[[National Research Council|国家研究委员会]]（National Research Council, NRC）报告《教育科学研究》（Scientific Research in Education, SRE）以及[[What Works Clearinghouse|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses|Clearinghouse]], WWC）的设计与[[Implementation and Process Evaluation|实施评估]]规程（Study Design and Implementation Assessment Device, Study DIAD）。
+> - **对象** 美国联邦《[[Reading Excellence Act|卓越阅读法]]》（Reading Excellence Act, REA）、《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|No Child Left Behind Act]], NCLB）、《[[Education Sciences Reform Act 2002|教育科学改革法]]》（Education Sciences Reform Act, ESRA）、美国[[National Research Council|国家研究委员会]]（National Research Council, NRC）报告《教育科学研究》（Scientific Research in Education, SRE）以及[[What Works Clearinghouse|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses|Clearinghouse]], WWC）的[[Study Design and Implementation Assessment Device|研究设计与实施评估规程]]（Study Design and Implementation Assessment Device, Study DIAD）。
 > - **张力** 学界普遍将华盛顿政策视作[[Positivism|实证主义]]对教育科研的单向行政压制，与实际立法流变中因学者介入而促成标准放宽之间的认知反差。
 > - **贡献** 揭示了国家科研立法中的功能分野机制与公共审议演进路径，打破了科学标准被政治力量单向垄断的悲观宿命论，确立了学术共同体通过专业参与重塑政策规则的行动空间。
 
@@ -132,13 +136,13 @@ issuing_organization: ""
 > |------|----------------|
 > | **立法与政策文本对比考证** | 纵向梳理 1999 年至 2002 年间国会法案草案、正式成文法（P.L. 105-277、P.L. 107-110、P.L. 107-279）、联邦战略规划及行政规程文本，逐条对比科学界定之措辞流变。（pp. 32–36） |
 > | **参与式政策亲历考证** | 基于两位作者作为 [[National Research Council\|NRC]] 科学原则委员会核心成员（Eisenhart）与研究主任（Towne）亲历 SRE 报告研制及国会众议院听证质证的一手制度经历进行历史还原。（pp. 31–34） |
-> | **行政规程评议[[Process Tracing\|过程追踪]]** | 追踪 [[What Works Clearinghouse\|WWC]] 于 2002 年 11 月至 2003 年 3 月发布的 Study DIAD 规程草案及其收到的 47 份公众评议意见，分析行政机构对学界反馈的吸收机制。（pp. 35–36） |
+> | **行政规程评议[[Process Tracing\|过程追踪]]** | 追踪 [[What Works Clearinghouse\|WWC]] 于 2002 年 11 月至 2003 年 3 月发布的 [[Study Design and Implementation Assessment Device\|Study DIAD]] 规程草案及其收到的 47 份公众评议意见，分析行政机构对学界反馈的吸收机制。（pp. 35–36） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **成文法案样本** | 1998/1999 年 REA（P.L. 105-277）、2000 年 H.R. 4875（Castle 草案）、2001 年 NCLB（P.L. 107-110）、2002 年 ESRA（P.L. 107-279 / H.R. 3801）。（pp. 32–36） |
-> | **行政与咨询文件** | 2002 年 NRC 报告 SRE、美国教育部 2002–2007 年战略规划、2002 财年教育部绩效报告、WWC 2002/2003 年 Study DIAD 规程文本。（pp. 33–36） |
+> | **行政与咨询文件** | 2002 年 NRC 报告 SRE、美国教育部 2002–2007 年战略规划、2002 财年教育部绩效报告、WWC 2002/2003 年 [[Study Design and Implementation Assessment Device\|Study DIAD]] 规程文本。（pp. 33–36） |
 > | **口述与质证材料** | 2003 年 7 月 16 日[[House Committee on Education and the Workforce\|众议院教育与劳动力委员会]]资深幕僚罗伯特·斯威特（Robert Sweet）专访；2002 年 2 月 28 日 NRC 代表在国会众议院教育改革小组委员会之书面及口头质证记录。（pp. 32, 34） |
 
 ---
@@ -186,8 +190,8 @@ issuing_organization: ""
 > [!tension-table] 联邦科学标准的双重制度功能对比
 > | 制度维度 | 教育服务提供类立法（Service Statutes） | 科研资助管理类立法（Research Statutes） |
 > |:---|:---|:---|
-> | **代表性法案** | 1999 年 REA、2001 年 NCLB、《残疾人教育法》（Individuals with Disabilities Education Act, IDEA）、《[[Higher Education Act of 1965\|高等教育法]]》（Higher Education Act, HEA） | 2000 年 Castle 草案（H.R. 4875）、2002 年 ESRA（H.R. 3801） |
-> | **适用主体** | 地方学区、受资助学校及教育服务提供机构 | 联邦科研资助机构（IES）及大学、研究机构学者 |
+> | **代表性法案** | 1999 年 REA、2001 年 NCLB、《残疾人教育法》（Individuals with Disabilities Education Act, IDEA）、《[[Higher Education Act of 1965\|高等教育法]]》（Higher Education Act, HEA） | 2000 年 Castle 草案（H.R. 4875 重新授权 [[Office of Educational Research and Improvement\|OERI]]）、2002 年 ESRA（H.R. 3801 设立 IES） |
+> | **适用主体** | 地方学区、受资助学校及教育服务提供机构 | 联邦科研资助机构（[[Office of Educational Research and Improvement\|OERI]] / [[Institute of Education Sciences\|IES]]）及大学、研究机构学者 |
 > | **核心制度意图** | 规约受助者证明资金合规，要求财政拨款只能用于经证实有效的方案 | 设定国家公共资金资助学术研究的质量标准与准入门槛 |
 > | **条文表述特征** | 严格限定于预设[[Hypothesis\|假设]]检验与实验/准实验对照设计 | 侧重探究原则，强调研究设计与具体探究问题的内在契合 |
 
@@ -220,7 +224,7 @@ issuing_organization: ""
 > | **原则 5：在跨研究中进行复验与推广**<br>*(Replicate and Generalize Across Studies)* | 科学发现需要通过跨情境、跨样本的重复检验与整合，明确结论的适用边界与外推条件。 | 强调科学知识的累积性与情境约束。 |
 > | **原则 6：公开研究以促进专业审视与同行批判**<br>*(Disclose Research to Encourage Professional Scrutiny and Critique)* | 原始数据、研究规程与分析细节必须公开透明，接受同行共同体的独立审查与学术争鸣。 | 确立专业共同体自治原则，抵御外部行政武断干预。 |
 >
-> 2002 年 2 月，NRC 代表在国会众议院教育改革小组委员会听证会上直面指出：任何学科的科学进步都来自专业共同体内部的批判与审议，联邦法律绝不能用行政命令直接规定研究必须采取何种方法。（p. 34）
+> 2000 年末，面对卡斯尔草案对 [[Office of Educational Research and Improvement|OERI]] 重新授权引发的学界焦虑，国家教育研究政策与优先事项委员会（NERPPB）正式委托 NRC 组建由[[Richard J. Shavelson|理查德·沙维尔森]]（Richard J. Shavelson）主持的科学原则委员会；2002 年 2 月，NRC 代表在国会众议院教育改革小组委员会听证会上直面指出：任何学科的科学进步都来自专业共同体内部的批判与审议，联邦法律绝不能用行政命令直接规定研究必须采取何种方法。（pp. 31–34）
 
 #### 2. 《教育科学改革法》吸纳学者质证，彻底废除对质性研究的贬抑并确立“方法契合问题”
 
@@ -258,11 +262,11 @@ issuing_organization: ""
 
 #### 3. 有效干预清算中心在公众评议推动下修正审查规程，承认定量实验并非科学的唯一标准
 
-> [!contrast-table] WWC Study DIAD 规程根据公众评议（n=47）作出的调整
+> [!contrast-table] [[Study Design and Implementation Assessment Device|WWC Study DIAD]] 规程根据公众评议（n=47）作出的调整
 > | 调整维度 | 公众评议关切焦点 | WWC 采纳并实施的制度修正 |
 > |:---|:---|:---|
 > | **[[Quantitative Research\|量化研究]]取向** | 众多学者抗议 WWC 过度偏向定量实验而忽视质性研究，建议制定平行的质性研究指南。 | 在规程引言中正式改写声明，明确强调：(a) WWC 聚焦评估因果有效性的最佳方法，但 (b) WWC 绝不认为定量方法是唯一可被称为科学的方法。 |
-> | **不同研究设计处理** | 学者质询除随机对照试验外，其他设计如何被 Study DIAD 容纳。 | 增设独立的[[Regression Discontinuity Design\|断点回归设计]]（Regression Discontinuity Design, RDD）评估专章；将实验与准实验拆分为两个独立审查部分；预留单被试与时间序列设计模块。 |
+> | **不同研究设计处理** | 学者质询除随机对照试验外，其他设计如何被 Study DIAD 容纳。 | 增设独立的[[Regression Discontinuity Design\|断点回归设计]]（Regression Discontinuity Design, RDD）评估专章；将实验与准实验拆分为两个独立审查部分；预留[[Single-Subject Design\|单被试设计]]与[[Time Series Design\|时间序列设计]]模块。 |
 > | **重要设计特征[[Coding in Qualitative Research\|编码]]** | 评议者提出大量应纳入编码的设计与实施特征。 | 将原仅提及的附录正式纳入规程，列出 30 多项涉及研究设计与实施情境的特征，作为[[Effect Size\|效应量]]的潜在调节[[Variable\|变量]]进行编码。 |
 > | **干预与测量指标对齐** | 学界担忧干预方案与测量结果之间的过度重合或脱节偏差。 | 增设对齐审查：排查关联过小（如教数学测阅读）与过度重合（如测试题直接包含干预材料原文而对照组未接触）的效度扭曲。 |
 
@@ -293,14 +297,14 @@ issuing_organization: ""
 > [!finding-cards] 核心发现
 > 1. **华盛顿政策文本存在根本制度功能分野** 规约教育服务提供者证明经费支出的标准（如 [[Reading Excellence Act|REA]]、[[No Child Left Behind Act 2001|NCLB]]）偏好狭隘的实验因果检验；而规范联邦科研机构资助范围的标准（如 [[Education Sciences Reform Act 2002|ESRA]]）则确立了研究方法契合具体问题的宽泛探究原则。（pp. 32–34）
 > 2. **专业质证实质性扭转了科研立法的狭隘化取向** 2000 年初始 Castle 草案（H.R. 4875）对[[Qualitative Research|质性研究]]的贬低与硬性[[Hypothesis|假设]]检验门槛，经由 [[National Research Council|NRC]] 科学原则委员会报告（SRE）及国会质证的全力抗辩，在正式颁行的 ESRA（2002）中被彻底删除。（pp. 33–35）
-> 3. **行政执行层面的微观规程同样具备政策可变性** [[What Works Clearinghouse|WWC]] 在推行初版 Study DIAD 规程后，吸纳了来自学界的 47 条公众评议，在正式修正案中承认量化非唯一科学、增设[[Regression Discontinuity Design|断点回归]]及 30 余项调节[[Variable|变量]][[Coding in Qualitative Research|编码]]。（pp. 35–36）
+> 3. **行政执行层面的微观规程同样具备政策可变性** [[What Works Clearinghouse|WWC]] 在推行初版 [[Study Design and Implementation Assessment Device|Study DIAD]] 规程后，吸纳了来自学界的 47 条公众评议，在正式修正案中承认量化非唯一科学、增设[[Regression Discontinuity Design|断点回归]]及 30 余项调节[[Variable|变量]][[Coding in Qualitative Research|编码]]。（pp. 35–36）
 > 4. **共同体公共参与是维系探究多元的关键保障** 科学标准的界定绝非封闭定论，若学界因抵触而放弃参与，政治力量必将迅速收拢并垄断科研标准；持续且富有建设性的公共审议是守护学术多元的决定性纽带。（pp. 36–37）
 
 > [!stat-cards]- 核心数据
 > - **20–25 人** 国会资深幕僚罗伯特·斯威特（Robert Sweet）在起草 REA 科学定义时咨询并传阅草案的高校学者人数（主要是认知心理学背景）。（p. 32）
 > - **75 人** NRC 组建教育科学原则委员会时从全美各界征集候选专家名单的规模。（p. 31）
 > - **75% 与 100%** 联邦教育部规划设定的因果研究[[Random Assignment|随机分配]]资助目标比例，以及 [[Institute of Education Sciences|IES]] 在 2002 财年资助因果主张项目中的实际达标比例。
-> - **1850 万美元** 2002 年 8 月联邦 OERI 资助有效干预清算中心（WWC）的初始合同金额。（p. 34）
+> - **1850 万美元** 2002 年 8 月联邦[[Office of Educational Research and Improvement|教育研究与改进办公室]]（OERI）资助有效干预清算中心（WWC）的初始合同金额。（p. 34）
 > - **47 条** WWC 在 2002 年 11–12 月就 Study DIAD 规程草案公开征求意见期间收到的公众反馈条数。（p. 35）
 
 ---

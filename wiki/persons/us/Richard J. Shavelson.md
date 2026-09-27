@@ -10,7 +10,7 @@ summary: "美国当代著名教育心理学家与心理测量学家，斯坦福�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 35
+person_related_count: 36
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -66,11 +66,12 @@ related_facts:
   - "[[Clearing House Unterricht]]"
   - "[[What Works Clearinghouse]]"
 related_arguments:
+  - "[[Argument_Eisenhart_Towne_2003_ER]]"
   - "[[Argument_Knogler_2025_BB]]"
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-09-26
+updated: 2026-09-28
 ---
 
 # Richard J. Shavelson
@@ -107,7 +108,7 @@ updated: 2026-09-26
 > [!work-line] 主要著作
 > - **1976 — *Self-Concept: Validation of [[Construct]] Interpretations* (with J. J. Hubner & G. C. Stanton)** 提出著名的多层级、分领域自我概念理论模型（Shavelson Model），确立顶层总体自我概念与底层学科具体自我概念的结构分化，成为当代人格与自我概念研究的经典[[Paradigm\|范式]]。
 > - **1991 — *[[External Validity\|generalizability]] Theory: A Primer* (with N. M. Webb)** 系统总结概化理论的核心数学与测量框架，运用[[Analysis of Variance\|方差分析]]（ANOVA）技术将[[Classical Test Theory\|经典测验理论]]单一的“真实分数+误差”模型解构为多重测量变异来源的精细识别。
-> - **2002 — *Scientific Research in Education* (with L. Towne, Eds.)** 主持美国国家科学院（[[National Research Council|NRC]]）委员会起纲，明确界定实证教育科学研究的六项核心规范原则，成为美国[[Institute of Education Sciences\|教育科学研究院]]（IES）与[[Evidence-Based Education\|循证教育]]政策立法的权威学术准则。
+> - **2002 — *Scientific Research in Education* (with L. Towne, Eds.)** 主持美国国家科学院（[[National Research Council|NRC]]）委员会起纲，明确界定实证教育科学研究的六项核心规范原则，成为美国[[Institute of Education Sciences|教育科学研究院]]（IES）与[[Evidence-Based Education|循证教育]]政策立法的权威学术准则。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 31–34)]]
 > - **2007 — *Teaching Effectiveness Research in the Past Decade: The Role of Theory and Research Design in Disentangling [[Meta-analysis]] Results* (with T. Seidel)** 在 *Review of Educational Research* 发表元分析长篇综述，批判传统盲目叠加[[Effect Size\|效应量]]而缺乏理论支持的缺陷，建构教学有效性的成分中介模型。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
 > - **2010 — *Measuring College Learning Fully: Toward a New System for Assessing College Education*** 系统论证高等教育质量评估无法依赖传统标准化[[Multiple-Choice Questions\|多项选择题]]，必须依托情境化[[Authentic Assessment\|表现性评价]]工具（如 [[Collegiate Learning Assessment\|CLA]]）考查高阶分析、因果推理与有效沟通能力。
 > - **2020 — *Research on teaching and the education of teachers: Brokering the gap*** 深刻剖析学术界“理论建构与知识演进”生产逻辑与一线学校“微观行动与情境抉择”实践逻辑之间的深层断裂，论证引入第三方教育[[Knowledge Mediation\|知识中介]]（Knowledge Brokerage）的历史必然性与机制路径。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 13)]]

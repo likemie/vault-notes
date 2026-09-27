@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 60
+fact_related_count: 61
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -69,6 +69,7 @@ related_persons:
   - "[[William H. Schmidt]]"
 related_facts:
   - "[[Education Sciences Reform Act 2002]]"
+  - "[[Office of Educational Research and Improvement]]"
   - "[[What Works Clearinghouse]]"
   - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[Investing in Innovation Program]]"
@@ -93,7 +94,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 
 # Institute of Education Sciences
@@ -106,7 +107,7 @@ updated: 2026-09-27
 > **美国教育科学研究院（Institute of Education Sciences, IES）**是美国教育部下辖的核心官方科学与统计管理机构，依据《[[Education Sciences Reform Act 2002|2002年教育科学改革法]]案》（Education Sciences Reform Act of 2002）组建，旨在通过资助与推行严格、客观、透明且具有实践行动力的因果实证研究与大规模教育统计，重塑全美教育决策的科学基石，促进学生[[Academic Achievement\|学业成就]]的实质改善。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206–207, 209)]]; [[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 571)]]
 
 > [!org-context] 机构背景
-> - **成立时间与创设背景** 2002 年依据美国联邦立法创设，取代原有的教育研究与改进办公室（Office of Educational Research and Improvement, OERI），旨在从制度层面确立教育科学研究的专业独立性，摆脱党派政治与意识形态对教育科研立项与数据发布的干预。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 206)]]
+> - **成立时间与创设背景** 2002 年依据美国联邦立法创设，取代原有的[[Office of Educational Research and Improvement|教育研究与改进办公室]]（Office of Educational Research and Improvement, OERI），旨在从制度层面确立教育科学研究的专业独立性，摆脱党派政治与意识形态对教育科研立项与数据发布的干预。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 206)]]
 > - **总部地点与辐射范围** 总部位于美国华盛顿特区，资助与业务辐射覆盖全美学前教育、初等教育、中等教育、高等教育以及成人[[Lifelong Learning\|终身教育]]的全生命周期教育科学研究。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 209)]]
 > - **法人属性与经费基础** 属于联邦政府法定科研机构，享有独立联邦财政预算拨款，年度教育科研专属投资预算约为 1.5 亿美元（USD 150 million），是全球资金规模最大的官方教育实证科研出资主体之一。
 > - **核心宗旨与法定职责** 资助高标准因果实证研究、国家教育统计监测、干预方案大规模有效性评估及研究成果实践转化，推动教育系统由直觉信念驱动向循证知识系统转型。

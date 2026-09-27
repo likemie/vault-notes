@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 127
+method_related_count: 129
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -121,6 +121,7 @@ related_facts:
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Office of Educational Research and Improvement]]"
   - "[[Institute of Education Sciences]]"
   - "[[Education Sciences Reform Act 2002]]"
   - "[[National Research Council]]"
@@ -151,11 +152,12 @@ related_arguments:
   - "[[Argument_Berk_2011_ER]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_DeJong_2023_ERR]]"
-related_instruments: []
+related_instruments:
+  - "[[Study Design and Implementation Assessment Device]]"
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 
 # Randomised Controlled Trials
@@ -188,8 +190,8 @@ updated: 2026-09-27
 >   - 1985–1989 — 田纳西星级[[Class Size\|班级规模]]实验（[[Tennessee STAR Project 1985-1989]]）实施，成为全美教育干预因果评估的里程碑。
 >   - 2000 — 教育经验文章中[[Intervention Research\|干预研究]]占比达 40%，受控实验仍占据核心主导地位。
 >   - 2001 — 美国国会通过《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]），成文法全文 110 次提及“[[Scientifically Based Research|科学本位研究]]”，明确写入“优先青睐随机分配实验”，以财政拨款为杠杆强推 RCT 门槛（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, p. 34]]）。
->   - 2002 — 联邦教育部成立有效教育清算所（[[What Works Clearinghouse\|WWC]]）并由 OERI 拨付 1850 万美元初始合同，以医学[[Clinical Trial|临床试验]]为原型启动审查；美国教育部 2002–2007 战略规划要求至 2004 年 75% 的因果资助必须采用随机设计，且 [[Institute of Education Sciences|IES]] 在 2002 财年资助的因果项目 100% 采用随机实验（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 34–35]]）。
->   - 2002–2003 — 国会通过《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA 2002），在[[National Research Council|国家研究委员会]]（NRC）科学原则报告与[[Richard J. Shavelson|理查德·沙维尔森]]等学者质证推动下，打破对单一 RCT 的立法预设，确立非随机设计亦可合法检验因果主张；随后 WWC 根据 47 条公众评议修正初版 Study DIAD，将[[Regression Discontinuity Design|断点回归]]与准实验列为独立审查模块（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 34–36]]）。
+>   - 2002 — 联邦教育部成立有效教育清算所（[[What Works Clearinghouse\|WWC]]）并由 [[Office of Educational Research and Improvement|OERI]] 拨付 1850 万美元初始合同，以医学[[Clinical Trial|临床试验]]为原型启动审查；美国教育部 2002–2007 战略规划要求至 2004 年 75% 的因果资助必须采用随机设计，且 [[Institute of Education Sciences|IES]] 在 2002 财年资助的因果项目 100% 采用随机实验（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 34–35]]）。
+>   - 2002–2003 — 国会通过《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA 2002），在[[National Research Council|国家研究委员会]]（NRC）科学原则报告与[[Richard J. Shavelson|理查德·沙维尔森]]等学者质证推动下，打破对单一 RCT 的立法预设，确立非随机设计亦可合法检验因果主张；随后 WWC 根据 47 条公众评议修正初版 [[Study Design and Implementation Assessment Device|Study DIAD]]，将[[Regression Discontinuity Design|断点回归]]与准实验列为独立审查模块（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 34–36]]）。
 >   - 2007 — Dynarski et al. 完成 [[Institute of Education Sciences\|IES]] 资助的全美大规模教育软件 RCT，揭示整体零显著差异与强烈的情境[[Heterogeneity\|异质性]]（班级规模、师生比与教师整合能力），有力破除实验净效应可脱离情境普遍复制的迷思（[[Argument_Serpell_2020_EP\|Serpell, 2020, p. 42]]）。
 >
 > - **2010–2023 — 规模扩张、实效反思与[[Evidence Era\|证据时代]][[Rationalized Myth\|合理化神话]]** 英国 [[Education Endowment Foundation\|EEF]] 等机构资助数百项大规模实地试验，但实效阶段[[Fade-out Effect\|效应衰减]]、清算中心多机构评级冲突与依策造据风险引发[[Epistemology\|认识论]]与治理反思。

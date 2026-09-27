@@ -13,7 +13,7 @@ summary: "基于连续驱动变量在特定阈值处的刚性或概率性分配�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 36
+method_related_count: 37
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -54,7 +54,8 @@ related_methods:
   - "[[Manipulation Check]]"
   - "[[Sample Size Determination]]"
   - "[[Time Series Design]]"
-related_instruments: []
+related_instruments:
+  - "[[Study Design and Implementation Assessment Device]]"
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
@@ -154,7 +155,7 @@ updated: 2026-09-28
 >    $$\tau_{\text{Fuzzy}} = \frac{\lim_{x \downarrow c} E[Y_i \mid X_i = x] - \lim_{x \uparrow c} E[Y_i \mid X_i = x]}{\lim_{x \downarrow c} E[D_i \mid X_i = x] - \lim_{x \uparrow c} E[D_i \mid X_i = x]} = \frac{\text{结果变量跳跃量}}{\text{处理概率跳跃量}}$$
 
 > [!policy-context] RDD 在清算体系规程中的制度起源与演进
-> 早期[[What Works Clearinghouse|有效干预清算中心]]（[[What Works Clearinghouse|WWC]]）在研制初步审查规程（Study DIAD）时，原本仅粗线条预设了实验与常规准实验；在 2002 年底公开征求学界意见期间，多位学者严正质询清算中心除纯粹[[Randomised Controlled Trials|随机对照试验]]外如何公正容纳其他严谨因果设计。WWC 吸纳公众评议后，正式在修正规程中为断点回归设计（RDD）增设了独立的专门评估章节，不仅将其从一般准实验中剥离出来，更开创性地在联邦循证审查中确立了高质量 RDD 享有与随机实验同等最高准入资质（Meets Standards Without Reservations）的法理基准。([[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 35–36]])
+> 早期[[What Works Clearinghouse|有效干预清算中心]]（[[What Works Clearinghouse|WWC]]）在研制初步审查规程（[[Study Design and Implementation Assessment Device|Study DIAD]]）时，原本仅粗线条预设了实验与常规准实验；在 2002 年底公开征求学界意见期间，多位学者严正质询清算中心除纯粹[[Randomised Controlled Trials|随机对照试验]]外如何公正容纳其他严谨因果设计。WWC 吸纳公众评议后，正式在修正规程中为断点回归设计（RDD）增设了独立的专门评估章节，不仅将其从一般准实验中剥离出来，更开创性地在联邦循证审查中确立了高质量 RDD 享有与随机实验同等最高准入资质（Meets Standards Without Reservations）的法理基准。([[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 35–36]])
 
 > [!framework-table] 循证清算中心（[[What Works Clearinghouse\|WWC]] / [[Home Visiting Evidence of Effectiveness\|HomVEE]]）对 RDD 的审查规程与门槛（基于 Wadhwa et al., 2024）
 > | 审查维度 | WWC / HomVEE 规定技术门槛 | 违规或不达标处理结果 |
@@ -206,4 +207,4 @@ updated: 2026-09-28
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011)]] — 详述 Campbell & Stanley 创立的断点回归设计原理、符号模型、前[[Pre-test and Post-test\|后测]]跳跃与效度特征(Ch. 16, pp. 320–324)。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 比较 12 所清算中心对 RDD 因果设计的审查规程（RDD=3），揭示 [[What Works Clearinghouse\|WWC]] 与 [[Home Visiting Evidence of Effectiveness\|HomVEE]] 对强迫[[Variable\|变量]][[Manipulation Check\|操纵检验]]与带宽拟合的技术标准(pp. 8–11)。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 阐释断点回归作为高级[[Quasi-Experimental Designs\|准实验设计]]在教育政策门槛评估中的实证应用规程(Ch. 8, p. 1327)。
-> - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] — 记录美国有效干预清算中心（WWC）在 2002–2003 年 Study DIAD 规程征求意见中，吸纳学者评议意见并将断点回归（RDD）正式设立专门评估章节的制度史料（pp. 35–36）。
+> - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] — 记录美国有效干预清算中心（WWC）在 2002–2003 年 [[Study Design and Implementation Assessment Device|Study DIAD]] 规程征求意见中，吸纳学者评议意见并将断点回归（RDD）正式设立专门评估章节的制度史料（pp. 35–36）。

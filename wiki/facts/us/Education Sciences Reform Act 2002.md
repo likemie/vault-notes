@@ -12,9 +12,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 22
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "美国国会（United States Congress）"
 tags:
@@ -40,6 +40,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Implementation and Process Evaluation]]"
 related_facts:
+  - "[[Office of Educational Research and Improvement]]"
   - "[[Institute of Education Sciences]]"
   - "[[House Committee on Education and the Workforce]]"
   - "[[National Research Council]]"
@@ -49,10 +50,12 @@ related_facts:
 related_arguments:
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
   - "[[Argument_Slavin_2002_ER]]"
+related_instruments:
+  - "[[Study Design and Implementation Assessment Device]]"
 confidence: high
 status: draft
 created: 2026-09-27
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 
 # Education Sciences Reform Act 2002
@@ -64,7 +67,7 @@ updated: 2026-09-27
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2002 年 11 月 5 日由美国第 107 届国会通过，总统乔治·W·布什（George W. Bush）签署生效（Public Law 107-279）。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 34)]]
 > - **适用地区 / 对象** 全美联邦教育科研机构、联邦资助的大学及智库研究人员、各州及地方教育科研评估项目。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]
-> - **问题背景** 联邦教育研究与改进办公室（Office of Educational Research and Improvement, OERI）长期饱受政治干预严重、研究方法松散、成果缺乏公信力等广泛批评；国会试图通过法定重组提升国家教育科研的严谨性与专业独立性。
+> - **问题背景** [[Office of Educational Research and Improvement|教育研究与改进办公室]]（Office of Educational Research and Improvement, OERI）长期饱受政治干预严重、研究方法松散、成果缺乏公信力等广泛批评；国会试图通过法定重组提升国家教育科研的严谨性与专业独立性。
 > - **制度位置** 承接并替代 1994 年《教育研究、发展、传播与改进法案》（Educational Research, Development, Dissemination, and Improvement Act of 1994），作为统领全美联邦教育科研资助、国家统计与项目评估的根本成文法。
 
 ---
@@ -72,7 +75,7 @@ updated: 2026-09-27
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 法案正式废除教育研究与改进办公室（OERI），设立独立于政治干预的[[Institute of Education Sciences|教育科学研究院]]（Institute of Education Sciences, IES），并在法律文本中确立了以探究问题适配性为导向的[[Scientifically Based Research|科学本位研究]]标准（Scientifically Based Research Standards），奠定了国家教育科学治理体系。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–36)]]
+> 法案正式废除[[Office of Educational Research and Improvement|教育研究与改进办公室]]（OERI），设立独立于政治干预的[[Institute of Education Sciences|教育科学研究院]]（Institute of Education Sciences, IES），并在法律文本中确立了以探究问题适配性为导向的[[Scientifically Based Research|科学本位研究]]标准（Scientifically Based Research Standards），奠定了国家教育科学治理体系。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–36)]]
 
 > [!policy-design]- 政策设计
 > - **政策目标** 摆脱联邦教育研究的政治化干扰与信誉危机，建立高标准的国家教育科学研究体系，为教育决策与实践提供可靠、客观的实证知识基础。
@@ -105,9 +108,9 @@ updated: 2026-09-27
 ## 时间线
 
 > [!timeline] 政策时间线
-> - 2000 年[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]提出迈克尔·卡斯尔（Michael Castle）议员草案（H.R. 4875），试图以量化实验与质性探索的二元标准重组 OERI。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]
+> - 2000 年[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]提出迈克尔·卡斯尔（Michael Castle）议员草案（H.R. 4875），试图以量化实验与质性探索的二元标准重组 [[Office of Educational Research and Improvement|OERI]]。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]
 > - 2001 年国家教育研究政策与优先事项委员会（NERPPB）委托美国[[National Research Council|国家研究委员会]]（NRC）开展教育科学原则专项研究，发布《教育科学研究》（Scientific Research in Education, SRE）前言报告。
-> - 2002 年 2 月国会众议院就 OERI 重新授权举行听证，NRC 专家证词依据 SRE 原则直接质疑立法设定狭隘方法清单的做法。
+> - 2002 年 2 月国会众议院就 [[Office of Educational Research and Improvement|OERI]] 重新授权举行听证，NRC 专家证词依据 SRE 原则直接质疑立法设定狭隘方法清单的做法。
 > - 2002 年秋经修订的法案版本（H.R. 3801）获得国会通过并由布什总统签署为法律（Public Law 107-279），《教育科学改革法》正式颁行。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 33–34)]]
 
 ---
@@ -121,9 +124,9 @@ updated: 2026-09-27
 > - **政策工具** 设立具有法律保障的科研基金、资助指南规范、同行审查系统与成果评估平台。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–36)]]
 
 > [!pathways]- 实施路径
-> - **中央架构重组** 彻底终结 OERI 架构，建立具有独立行政预算与专业自主权的 IES，设置任期六年的院长以隔离短周期党派政治轮替。
+> - **中央架构重组** 彻底终结 [[Office of Educational Research and Improvement|OERI]] 架构，建立具有独立行政预算与专业自主权的 IES，设置任期六年的院长以隔离短周期党派政治轮替。
 > - **资助规程转型** 从早期 Castle 草案死板的方法学划界，转向根据[[Research Question|研究问题]]性质综合评估实证设计，明确允许非随机对照设计在排除竞争性解释的基础上作出因果主张。
-> - **配套评估延伸** 资助设立[[What Works Clearinghouse|有效干预清算中心]]（WWC），研制设计与[[Implementation and Process Evaluation|实施评估]]规程（Study DIAD），逐步确立全国教育干预的实证审核基准。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–36)]]
+> - **配套评估延伸** 资助设立[[What Works Clearinghouse|有效干预清算中心]]（WWC），研制设计与[[Implementation and Process Evaluation|实施评估]]规程（[[Study Design and Implementation Assessment Device|Study DIAD]]），逐步确立全国教育干预的实证审核基准。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–36)]]
 
 ---
 

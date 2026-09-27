@@ -9,7 +9,7 @@ aliases:
 summary: "由 2001 年美国《不让一个孩子掉队法》（NCLB）与 2002 年《教育科学改革法》（ESRA）确立的联邦法定证据准入标准，强调运用严谨、系统与客观的实证程序（优先青睐实验与准实验设计）获取教育有效知识，后因缺乏操作化分级及对原则与评估的混淆，在 2015 年 ESSA 中被四级循证标准替代"
 type: concept
 domain: "educational-policy-reform"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -51,7 +51,8 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Action Research]]"
   - "[[Experimental Research]]"
-related_instruments: []
+related_instruments:
+  - "[[Study Design and Implementation Assessment Device]]"
 related_persons:
   - "[[Robert Slavin]]"
   - "[[Zewelanji N. Serpell]]"
@@ -87,7 +88,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 
 # Scientifically Based Research
@@ -236,7 +237,7 @@ updated: 2026-09-27
 > - 2000 年初始卡斯尔草案（H.R. 4875）试图将实证假说检验强加为唯一科研标准，并将质性方法降格为仅供提出初步假说的边缘工具；
 > - 国家研究委员会（[[National Research Council]], NRC）受托发布《教育科学研究》（Scientific Research in Education, SRE）报告，提炼出跨学科通用的六大科学探究原则，并由[[Richard J. Shavelson|理查德·沙维尔森]]（Richard Shavelson）在国会听证会上提供专业质证，有力论证了“任何方法学清单都无法定义科学，科学性取决于方法与[[Research Question|研究问题]]的逻辑契合”；
 > - 国会最终在 2002 年通过的 ESRA 第 102(18) 节中彻底删除了卡斯尔草案对质性方法的歧视性条款，确立了“研究设计与方法切合待决问题”的包容性科学标准；
-> - 随后的有效干预清算中心（[[What Works Clearinghouse]], WWC）研究设计与实施方案（Study DIAD）在吸纳 47 项公共评议后，亦主动打破对实验的排他性垄断，将[[Regression Discontinuity Design|断点回归]]等准实验与深入的[[Implementation and Process Evaluation|过程评估]]纳入审查规程。
+> - 随后的有效干预清算中心（[[What Works Clearinghouse]], WWC）研究设计与实施方案（[[Study Design and Implementation Assessment Device|Study DIAD]]）在吸纳 47 项公共评议后，亦主动打破对实验的排他性垄断，将[[Regression Discontinuity Design|断点回归]]等准实验与深入的[[Implementation and Process Evaluation|过程评估]]纳入审查规程。
 > 
 > 这确凿表明，学术共同体有理有据的专业介入与公开辩论，能够有效发挥制度杠杆效应，阻止政策对科学研究定义进行狭隘政治垄断。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 31–37)]]
 

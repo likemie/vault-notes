@@ -17234,6 +17234,18 @@
     ]
   },
   {
+    "title": "Study Design and Implementation Assessment Device",
+    "type": "instrument",
+    "path": "wiki/instruments/checklists/Study Design and Implementation Assessment Device.md",
+    "aliases": [
+      "研究设计与实施评估规程",
+      "研究设计与实施评估工具",
+      "Study DIAD",
+      "DIAD",
+      "WWC Study DIAD"
+    ]
+  },
+  {
     "title": "TIDieR",
     "type": "instrument",
     "path": "wiki/instruments/checklists/TIDieR.md",
@@ -25901,6 +25913,16 @@
       "NSF",
       "NSF TIP",
       "NSF TIP Directorate"
+    ]
+  },
+  {
+    "title": "Office of Educational Research and Improvement",
+    "type": "fact",
+    "path": "wiki/facts/us/Office of Educational Research and Improvement.md",
+    "aliases": [
+      "教育研究与改进办公室",
+      "美国教育部教育研究与改进办公室",
+      "OERI"
     ]
   },
   {
