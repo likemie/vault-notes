@@ -9,7 +9,7 @@ aliases:
 summary: "国家政权自上而下通过行政特许、强制规训与庇护网络将工人、教师、学生等社会群体编入单一垄断性代表机构的政治治理模式，在教育领域表现为执政同盟将教育政策作为补偿性合法化手段以维护国家霸权"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 13
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
