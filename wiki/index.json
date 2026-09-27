@@ -724,6 +724,16 @@
     ]
   },
   {
+    "title": "Financial-Intellectual Complex",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Financial-Intellectual Complex.md",
+    "aliases": [
+      "金融-智识复合体",
+      "财智复合体",
+      "transnational financial-intellectual complex"
+    ]
+  },
+  {
     "title": "Floating Signifier",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Floating Signifier.md",
@@ -3428,6 +3438,18 @@
     ]
   },
   {
+    "title": "Politicity of Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Politicity of Education.md",
+    "aliases": [
+      "教育的政治性",
+      "教育政治性",
+      "politicidade da educação",
+      "inherent politicity of education",
+      "politicity"
+    ]
+  },
+  {
     "title": "Positivism",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Positivism.md",
@@ -3837,6 +3859,17 @@
       "多重从属性",
       "Co-affiliations",
       "Interlocking Directorship"
+    ]
+  },
+  {
+    "title": "Compensatory Legitimation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Compensatory Legitimation.md",
+    "aliases": [
+      "补偿性合法化",
+      "教育补偿性合法化",
+      "Compensatory Legitimacy",
+      "补偿合法化"
     ]
   },
   {
@@ -11876,6 +11909,18 @@
     ]
   },
   {
+    "title": "Conditioned State Theory",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Conditioned State Theory.md",
+    "aliases": [
+      "受制国家理论",
+      "依附受制国家理论",
+      "Theory of the Conditioned State",
+      "Conditioned State",
+      "受制国家"
+    ]
+  },
+  {
     "title": "Convergence Theory in Comparative Education",
     "type": "theory",
     "path": "wiki/theories/comparative-education/Convergence Theory in Comparative Education.md",
@@ -13299,6 +13344,18 @@
       "定居殖民主义",
       "settler colonialism",
       "定居者殖民主义"
+    ]
+  },
+  {
+    "title": "State Corporatism",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/State Corporatism.md",
+    "aliases": [
+      "国家法团主义",
+      "国家合作主义",
+      "权威主义法团主义",
+      "authoritarian corporatism",
+      "state corporatist politics"
     ]
   },
   {
@@ -17892,6 +17949,17 @@
     "aliases": [
       "Beech, J.",
       "贾森·比奇"
+    ]
+  },
+  {
+    "title": "Liliana Esther Olmos",
+    "type": "person",
+    "path": "wiki/persons/argentina/Liliana Esther Olmos.md",
+    "aliases": [
+      "莉莉安娜·埃丝特·奥尔莫斯",
+      "奥尔莫斯",
+      "Olmos, L. E.",
+      "Liliana E. Olmos"
     ]
   },
   {
@@ -27040,6 +27108,11 @@
     "title": "Argument_Mattheou_2009_ScientificParadigm",
     "type": "argument",
     "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md"
+  },
+  {
+    "title": "Argument_Olmos_Torres_2009_StateTheories",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Olmos_Torres_2009_StateTheories.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

@@ -8,10 +8,10 @@ aliases:
 summary: "1970 年代至 1980 年代初兴起于比较教育的新马克思主义理论路径，以中心与边缘分析框架取代国家比较单位，将西方剥削和资本主义世界秩序视为第三世界欠发展的真正原因。后于 1990 年代至 2010 年代初演化为对高等教育领域“学术依附”与“学术新殖民主义”的地缘政治非自觉批判。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 19
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 25
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theory/dependency
   - subject/comparative-education
@@ -26,6 +26,8 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Teaching Assistant]]"
   - "[[Geopolitics of Higher Education]]"
+  - "[[Dual School System]]"
+  - "[[Financial-Intellectual Complex]]"
   - "[[Revolutionism]]"
   - "[[Methodological Statism]]"
   - "[[Methodological Nationalism]]"
@@ -34,20 +36,24 @@ related_concepts:
   - "[[Paradigm]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Conditioned State Theory]]"
 related_methods:
   - "[[Correlational Research]]"
+  - "[[Analytic Framework]]"
 related_persons:
   - "[[Eleftherios Klerides]]"
 related_facts:
   - "[[OECD]]"
+  - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Yu_Xie_2025_JHE]]"
+  - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 related_instruments: []
 confidence: medium
 status: active
 created: 2026-06-08
-updated: 2026-09-24
+updated: 2026-09-28
 ---
 
 # Dependency Theory
@@ -144,6 +150,7 @@ updated: 2026-09-24
 > - **1980 — 世界体系引入与慈善批判** Arnove 将沃勒斯坦的世界体系论引入比较教育；并撰文批判洛克菲勒等慈善基金会作为文化帝国主义软支配工具的本质；Watson 梳理第三世界教育中的依附结构。(Arnove, 1980; Watson, 1980, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 426–427]])
 > - **1990 — 第三世界社会过渡探讨** Carnoy & Samoff 出版 *Education and Social Transition*，探究越南、古巴、莫桑比克等国在资本主义向社会主义过渡期，如何借[[Teaching Assistant\|助教]]育革命打破旧阶级结构。(Carnoy & Samoff, 1990, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 427–428]])
 > - **1990s–2010s — 高教领域的“非自觉地缘政治”演化** 随着全球化浪潮的高涨，传统的二元对抗被乐观的世界主义和大学第四职能话语掩盖。在此背景下，Altbach 等人（2004, 2007）继续以中心-边缘理论和依附论解构“学术依附”与“学术新殖民主义”，成为[[Geopolitics of Higher Education\|高等教育地缘政治]]研究从非自觉走向自觉的桥梁。([[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊, 2025, pp. 4–5]])
+> - **2009 — [[Conditioned State Theory|受制国家]]与拉美教育扩张批判** Olmos 与 Torres 将依附论推向教育政治社会学前沿，建构[[Conditioned State Theory|受制国家理论]]，剖析世界体系边缘从属地位与本土阶级结构如何催生依附性[[Dual School System|双轨学制]]，并批判新自由主义结构调整下[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的去主权化[[Disciplina and Doctrina|规训]]。([[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, pp. 83–85]])
 
 ---
 
@@ -183,3 +190,4 @@ updated: 2026-09-24
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 将依附理论比较教育置于[[Revolutionism\|革命主义]]国际关系传统中，详述了其在拒绝缺失解释、批判文化帝国主义与社会过渡教育方面的历史发展脉络。
 > - [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊, 2025]] — 揭示了[[Geopolitics of Higher Education\|高等教育地缘政治]]研究的发展阶段，分析了冷战后 Altbach 等学者非自觉地以依附论和中心-边缘框架探讨学术新殖民主义与全球高等教育不平等机制的作用。
+> - [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres, 2009]] — 提出[[Conditioned State Theory|受制国家理论]]与政治经济学[[Analytic Framework|分析框架]]，剖析拉美教育扩张与新自由主义全球化下[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的政策[[Disciplina and Doctrina|规训]]。

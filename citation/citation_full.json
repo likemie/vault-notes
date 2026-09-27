@@ -5585,6 +5585,42 @@
       "title": "Argument_ONeill_2012_NZJES",
       "year": "2012"
     },
+    "Olmos & Torres (2009)": {
+      "aliases": [
+        "Olmos & Torres, 2009",
+        "Olmos & Torres (2009)"
+      ],
+      "argument": "Argument_Olmos_Torres_2009_StateTheories",
+      "authors": [
+        "[[Liliana Esther Olmos|Olmos, L. E.]]",
+        "[[Carlos Alberto Torres|Torres, C. A.]]"
+      ],
+      "citation": "Olmos, L. E. & Torres, C. A. (2009). Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 73–86). Dordrecht: Springer.",
+      "doi": "",
+      "isbn": "978-1-4020-6402-9",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Olmos_Torres_2009_StateTheories.md",
+      "source_language": "en",
+      "title": "Argument_Olmos_Torres_2009_StateTheories",
+      "year": "2009"
+    },
+    "Olmos & Torres, 2009": {
+      "aliases": [
+        "Olmos & Torres, 2009",
+        "Olmos & Torres (2009)"
+      ],
+      "argument": "Argument_Olmos_Torres_2009_StateTheories",
+      "authors": [
+        "[[Liliana Esther Olmos|Olmos, L. E.]]",
+        "[[Carlos Alberto Torres|Torres, C. A.]]"
+      ],
+      "citation": "Olmos, L. E. & Torres, C. A. (2009). Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 73–86). Dordrecht: Springer.",
+      "doi": "",
+      "isbn": "978-1-4020-6402-9",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Olmos_Torres_2009_StateTheories.md",
+      "source_language": "en",
+      "title": "Argument_Olmos_Torres_2009_StateTheories",
+      "year": "2009"
+    },
     "Oxford & UIDP (2019)": {
       "aliases": [
         "Oxford & UIDP, 2019",

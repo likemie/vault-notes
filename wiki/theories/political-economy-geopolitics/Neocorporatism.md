@@ -10,7 +10,7 @@ aliases:
 summary: "国家将少数垄断性社会伙伴（如雇主协会、全国性工会或大型专业协会）正式纳入政策制定与执行的制度化协商网络，在教育治理中表现为职业培训三方共治机制或行业协会闭门立法妥协"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Paradigm]]"
 related_theories:
   - "[[Pluralism]]"
+  - "[[State Corporatism]]"
   - "[[Theory of Change]]"
 related_methods:
   - "[[Network Analysis]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-14
-updated: 2026-09-26
+updated: 2026-09-28
 ---
 
 # Neocorporatism
@@ -80,7 +81,7 @@ updated: 2026-09-26
 ### 理论源流与演变
 
 > [!dev-timeline] 理论演变脉络
-> - **1979 — 经典法团主义现代重构** 施密特（Schmitter）明确区分国家法团主义与社会法团主义（新法团主义），揭示国家通过赋予组织特许垄断地位来管理社会利益。
+> - **1979 — 经典法团主义现代重构** 施密特（Schmitter）明确区分[[State Corporatism|国家法团主义]]与社会法团主义（新法团主义），揭示国家通过赋予组织特许垄断地位来管理社会利益。
 > - **1985 — 民主合法性赤字批判** 达尔（Robert Dahl, 1985）指出法团主义用少数精英的秘密交易替代了公民平权的民主商议，造成严重的合法性危机。
 > - **2005 — 教育立法密室妥协实证** 埃德蒙森（Edmondson）将法团主义引入基础教育立法分析，揭示国际阅读协会（IRA）高层如何在参议院开展密室谈判，为换取联邦经费而让渡学科自主权。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 7)]]
 > - **2022 — 终身学习多国治理比较** 拉姆布拉（Rambla）在欧盟研究中将新法团主义确立为比较治理[[Variable|变量]]，证实其在缓冲选择性与维持社会对话中的制度功能。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 172–174)]]

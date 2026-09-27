@@ -8,7 +8,7 @@ summary: "塞浦路斯比较教育与教育史学者，塞浦路斯大学副教�
 type: person
 nationality: cyprus
 person_region: "cyprus"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Comparative Educations]]"
   - "[[Readings of the Global]]"
   - "[[Epistemology]]"
+  - "[[Politicity of Education]]"
   - "[[Cross-National Attraction]]"
   - "[[Policy Borrowing]]"
 related_theories:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-09-24
+updated: 2026-09-28
 ---
 
 # Eleftherios Klerides
@@ -97,7 +98,7 @@ updated: 2026-09-24
 ## 争议与批评
 
 > [!warning] 未解问题与边界
-> - **宏观结构解释的简化风险** 尽管怀特的三大传统为解构比较教育的政治性提供了极强的解释力，但有学者指出，这种高度宏观的地缘政治分析可能在一定程度上简化了国家内部微观政策行动者（如教师、课程设计者）在面对外部转移时的能动性与杂糅式创造。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 431)]]
+> - **宏观结构解释的简化风险** 尽管怀特的三大传统为解构比较[[Politicity of Education|教育的政治性]]提供了极强的解释力，但有学者指出，这种高度宏观的地缘政治分析可能在一定程度上简化了国家内部微观政策行动者（如教师、课程设计者）在面对外部转移时的能动性与杂糅式创造。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 431)]]
 
 ---
 
