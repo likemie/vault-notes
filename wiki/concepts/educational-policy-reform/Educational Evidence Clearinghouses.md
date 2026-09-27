@@ -14,7 +14,7 @@ aliases:
 summary: "循证教育治理中的制度化中介机构，指通过设定因果证据标准、审查实证研究并发布项目有效性评级的专业实体平台；在更广泛的知识治理中涵盖部委嵌入、自主资助与独立慈善等多元制度谱系；实证研究表明其评级面临显著的跨机构门槛分歧与构念效度挑战，且在长效存续上面临2至3年短期政治预算周期的制度性制约。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 141
+related_count: 143
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -85,6 +85,7 @@ related_concepts:
   - "[[Scientifically Based Research]]"
   - "[[Visible Learning]]"
   - "[[Selectivity]]"
+  - "[[Hypothesis]]"
   - "[[Cognitive Deskilling]]"
   - "[[Response to Proven Instruction]]"
 related_theories:
@@ -178,11 +179,12 @@ related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
+  - "[[Argument_Manitius_vanHolt_2019_BzS]]"
   - "[[Argument_Hitchcock_2015_JBE]]"
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 
 # Educational Evidence Clearinghouses
@@ -411,7 +413,7 @@ updated: 2026-09-24
 > - **2011 — 英国 [[Education Endowment Foundation\|EEF]] 设立与实践工具箱下沉** 英国教育部注资 1.25 亿英镑设立教育捐赠基金会（EEF），推出教学与学习工具箱，以额外进展月数与成本为核心指标，开创了面向教师与[[School Leadership\|学校领导]]的实践中介模式([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 142]])。
 > - **2015 — [[Every Student Succeeds Act\|ESSA]] 四级[[Evidence Standards\|证据标准]]驱动平台多元化** 美国《每个学生都成功法案》（ESSA）正式出台四级证据框架，推动清算中心评级深度嵌入全美学区采购；约翰斯·霍普金斯大学推出 [[Evidence for ESSA]] 等实践平台，形成多中心格局——WWC 服务政策研究者、[[Best Evidence Encyclopedia\|BEE]] 面向学术界、Evidence for ESSA 则专为校长学区直接采购设计，月活跃用户超 7 万（[[Argument_Slavin_2019_EP\|Slavin, 2019, pp. 24–25]]）。
 > - **2016–2018 — 动态元数据库上线与跨国商业转化机制** [[John Hattie\|约翰·哈蒂]]团队上线 [[Visible Learning]] MetaX 全球动态数据库，汇聚数千项[[Meta-analysis\|元分析]]与超 3 亿学生样本，以 $d \ge 0.40$ 为铰接点发布影响因素气压计，并通过 Corwin 商业网络实现全球培训转化。
-> - **2017–2019 — 政治周期冲击与体制调整分化** 丹麦清算中心因政府短期合同未续签被迫关停；新西兰 [[Best Evidence Synthesis\|BES]] 停止资助新综述并转向视频；挪威知识中心下放至斯塔万格大学开展平行评审改革；荷兰创设 [[Netherlands Initiative for Education Research\|NRO]] 知识问答环岛([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 62–65]])。
+> - **2017–2019 — 政治周期冲击与体制调整分化** 丹麦清算中心因政府短期合同未续签被迫关停；新西兰 [[Best Evidence Synthesis\|BES]] 停止资助新综述并转向视频；[[Kunnskapssenter for utdanning|挪威知识中心]]下放至斯塔万格大学开展平行评审改革；荷兰创设 [[Netherlands Initiative for Education Research\|NRO]] 知识问答环岛([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 62–65]])。
 > - **2018 — 私人资本注资与全球生态复制（[[Evidence for Learning\|E4L]] 落地）** 英国 EEF 获得[[BHP Foundation\|必和必拓基金会]]资助启动全球教育证据生态计划，联合[[Social Ventures Australia\|澳大利亚社会创投]]基金（SVA）正式成立澳大利亚有效学习组织（Evidence for Learning, E4L），将教学工具箱深度[[Going Native\|本土化]]引入大洋洲公立与原住民学校系统([[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 49]])。
 > - **2021–2022 — 新旗舰诞生与十五年纵向演进审思** 澳大利亚联邦新建国家级中介 [[Australian Education Research Organisation\|AERO]]；经合组织发表 Burns & Schuller 十五年追踪报告，揭示机构高淘汰率与政治预算周期[[Determinism\|决定论]]，正式倡导推进“中介的中介”以建构全球累积性知识大厦([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 64–68]])。
 > - **2024 — 评级[[Convergent and Discriminant Validity\|收敛效度]]实证检验与元标准协调诉求** 学界首次完成 12 个教育清算中心全景比较，实证揭示多重评级一致性仅约 30.5% 与综合门槛断层，推动[[Evidence-Based Education\|循证教育]]界反思单一标签崇拜，呼吁建立跨平台元标准与穿透式审查体系([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 3–5, 26–30]])。
@@ -445,7 +447,8 @@ updated: 2026-09-24
 > - **严出导向（[[Blueprints for Healthy Youth Development\|Blueprints]] / 临床医学型）** 设立极高过滤门槛（独立第三方评估 + 12 个月随访 + 零[[Iatrogenic Effects in Education\|医源性伤害]]），宁缺毋滥，严防财政浪费与不良副作用。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 14–15)]]
 
 > [!critique] 外部批评与异化风险
-> - **[[Construct Validity\|构念效度]]危机** 清算中心评级高度依附于特定机构审查细则，“基于证据”缺乏跨平台的一致涵义，难以作为无偏的客观特质([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 26]])。
+> - **底层转移模型与因果作用[[Hypothesis|假设]]的理论化匮乏** 德语区及国际清算平台建设普遍将工作重心置于将实证[[Meta-analysis|元分析]]提炼为通俗简评，却普遍缺乏对底层转移模型、中介策略与因果作用假设（Wirkannahmen）的学术反省；且此类机构能否切实达成预期的实践改进目标，国际范围内的实证成效证据依然极度匮乏([[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 10]])。
+> - **[[Construct Validity|构念效度]]危机** 清算中心评级高度依附于特定机构审查细则，“基于证据”缺乏跨平台的一致涵义，难以作为无偏的客观特质([[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, p. 26]])。
 > - **商业营销挪用与“自利操纵者”崛起** “证据知情”沦为商业教育科技企业与咨询机构推销产品的公关护身符，客观公正的中介面临被自利操纵者（Spinners）挤压排挤的危机([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 60]])。
 > - **实践采购信息缺失** 评级页面高度浓缩于抽象统计指标，未提供成本预算、教师培训负担与本地生源适配等实施关键信息([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 121]])。
 > - **算法规则削弱教师临床[[Professional Judgment\|专业判断]]** 借鉴循证医学危机镜鉴，警惕将教学拆解（Unbundling）为标准化离散任务和自动化提示，防止教师职业发生[[Cognitive Deskilling|去技能化]]（Deskilling；[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 65–67]]）。

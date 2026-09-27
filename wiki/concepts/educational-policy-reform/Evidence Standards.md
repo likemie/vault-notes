@@ -9,7 +9,7 @@ aliases:
 summary: "指知识中介机构与证据门户用于规范、筛选和评定研究证据可信度与相关性的方法学准则、报告标准及功效主张判定体系，用于防范未获充分实证支持的结论误导政策与教学实践"
 type: concept
 domain: "educational-policy-reform"
-related_count: 79
+related_count: 82
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -45,10 +45,10 @@ related_concepts:
   - "[[Predictive Validity]]"
   - "[[Scientifically Based Research]]"
   - "[[Paradigm]]"
+  - "[[Research Question]]"
   - "[[Evaluator Independence]]"
   - "[[Research Impact]]"
   - "[[Null Hypothesis]]"
-  - "[[Research Question]]"
   - "[[Access and Acceptance in Research]]"
   - "[[Professional Judgment]]"
   - "[[Months of Progress]]"
@@ -64,7 +64,7 @@ related_methods:
   - "[[Hierarchical Linear Model]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Narrative Synthesis]]"
-  - "[[Qualitative Research]]"
+  - "[[Regression Discontinuity Design]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Mixed Methods Research]]"
   - "[[Correlational Research]]"
@@ -83,6 +83,8 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Education Innovation and Research]]"
   - "[[Evidence for ESSA]]"
+  - "[[National Research Council]]"
+  - "[[Education Sciences Reform Act 2002]]"
   - "[[What Works Network]]"
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -96,6 +98,7 @@ related_arguments:
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Gorard_2020_ROE]]"
+  - "[[Argument_Eisenhart_Towne_2003_ER]]"
   - "[[Argument_Slavin_2002_ER]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
 related_theories:
@@ -108,7 +111,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 
 # Evidence Standards
@@ -316,7 +319,8 @@ updated: 2026-09-24
 
 > [!dev-timeline] 概念演变
 > - **1970s–1990s — [[Internal Validity\|内部效度]]等级制与医学循证[[Paradigm\|范式]]** Campbell & Stanley 确立因果推论内部效度层级，奠定对照试验在排除混杂[[Variable\|变量]]上的优先地位；随后医学领域考克兰协作网（Cochrane Collaboration）与 GRADE 体系将[[Randomised Controlled Trials\|随机对照试验]]与[[Meta-analysis\|元分析]]确立为临床证据的黄金标准。
-> - **2000–2015 — 教育清算机构兴起与分级门槛法定化** 美国教育部设立[[What Works Clearinghouse\|有效干预清算中心]]（[[What Works Clearinghouse\|WWC]]）确立严格的因果证据标准；英国设立[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）推行挂锁评级；美国《[[Every Student Succeeds Act\|每个学生成功法]]案》（ESSA 2015）首次以联邦法律形式确立四级法定证据标准。
+> - **2000–2003 — 证据标准的法定博弈与清算机制初创** 2000 年国会卡斯尔草案（H.R. 4875）试图将实验检验列为法定科研硬门槛；[[National Research Council|国家研究委员会]]（[[National Research Council]], NRC）发布《教育科学研究》（SRE）确立跨方法六大科学原则，推动 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）在立法中确立“方法契合[[Research Question|研究问题]]”的包容性证据准则；同年设立的[[What Works Clearinghouse|有效干预清算中心]]（WWC）在发布研究设计与实施方案（Study DIAD）后，吸纳学界 47 项公共评议，打破对实验设计的排他垄断，补充纳入[[Regression Discontinuity Design|断点回归]]（RDD）与 30 余项实施过程调节变量。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 33–36)]]
+> - **2004–2015 — 教育清算机构兴起与分级门槛法定化** WWC 逐步成熟并确立因果证据三级定性审查规程（无保留达标 / 有保留达标 / 未达标）；英国设立[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）推行挂锁评级；美国《[[Every Student Succeeds Act\|每个学生成功法]]案》（ESSA 2015）首次以联邦法律形式确立四级法定证据标准。
 > - **2016–2018 — 多维评价架构探索与 [[EMMIE Framework\|EMMIE]] 框架创立** 针对单一效果指标无法解释复杂社会情境的局限，英国[[What Works Network\|有效性网络]]创立 EMMIE 框架，推动证据标准由单一效果评价拓展为效应、机制、调节变量、实施与经济学评价五维综合架构。
 > - **2018–2022 — 适切性（Fit-for-Purpose）范式与中介自我标准反思** Gough & White (2018) 开展国际 15 个证据门户跨案例调查，揭示打包项目门户“100% 依据 1–2 项单兵研究断言有效”的系统性危机；Gough (2021, 2022) 提炼出六大[[Operationalization\|操作化]]证据标准维度，确立方法学严谨性与决策情境适切性有机融合的元治理范式。
 > - **2019 — 斯莱文系统化分级证据架构与 [[Evidence for ESSA]] 实践** [[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin, 2019）总结全美循证改革经验，对比 [[No Child Left Behind Act 2001\|NCLB]] 与 ESSA，确立以高质量独立测验、$\ge 12$ 周周期、[[Evaluator Independence\|第三方独立评估]]、方案[[Preregistration\|预注册]]与整群多层分析为核心的五大质量约束，依托 Evidence for ESSA 平台推行法定分级审查。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–26)]]
@@ -334,7 +338,7 @@ updated: 2026-09-24
 > > 争论聚焦于证据标准是否应当无条件捍卫以实验设计为核心的单一方法等级制。
 > >
 > > - **方法纯洁派（[[Argument_Slavin_2002_ER\|Slavin, 2002]]; WWC）** 坚持唯有[[Randomised Controlled Trials\|随机对照试验]]与严谨准实验才能排除因果混杂，标准妥协必然导致伪科学干预侵蚀公共教育财政。
-> > - **适切多元派（Biesta, 2007; Gorard, 2007; Gough, 2021）** 批判方法等级制的狭隘[[Epistemology\|认识论]]，强调不存在普适的最好方法，只有针对具体[[Research Question\|研究问题]]与决策风险的最适切方法；[[Qualitative Research\|质性研究]]与教师实践经验同样是合法证据标准的核心组成。
+> > - **适切多元派（Biesta, 2007; Gorard, 2007; Gough, 2021; [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003]]）** 批判方法等级制的狭隘[[Epistemology\|认识论]]，强调不存在普适的最好方法，只有针对具体[[Research Question\|研究问题]]与决策风险的最适切方法；国家立法不应预设狭隘方法清单，证据标准应确立“设计与方法切合所提问题”的原则，且清算机构需吸纳质性实施过程与准实验方案。
 >
 > > [!axis] 打包干预项目评级 vs 通用教学策略综合
 > > 争论围绕网络证据门户应当优先评定商业化打包方案还是提炼通用行动原则。
@@ -417,3 +421,4 @@ updated: 2026-09-24
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 系统总结全美循证改革三十年经验，阐述《[[Every Student Succeeds Act\|每个学生成功法]]案》（ESSA 2015）四级法定证据标准的制度演进，提出防范[[Effect Size\|效应量]]虚高的五大方法学硬约束与 [[Evidence for ESSA]] 评价规程。
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — [[Mark Schneider]] 系统论述美国 [[Institute of Education Sciences\|IES]] 推行的 SEER 九大循证卓越标准，推动证据评价从孤立的因果[[Internal Validity\|内部效度]]走向构件解构、成本分析、通用测量与社会公平。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 系统解构英国 [[Education Endowment Foundation\|EEF]] 前八年大规模学校 [[Randomised Controlled Trials\|RCT]] 的证据标准演进；深度剖析[[EEF Padlock Security Rating\|挂锁安全评级]]的沟通边界与统计不确定性争议，确立禁止自编测验、优先锚定国家统考（NPD）以及强制整合[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）的循证标准体系。
+> - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne (2003)]] — 系统辨析华盛顿成文法与国家清算平台证据标准的功能分野，深入考证卡斯尔草案、[[Education Sciences Reform Act 2002|ESRA 2002]] 与 [[What Works Clearinghouse|WWC]] 早期实施方案中的方法学博弈，揭示学术界公共质证如何推动证据标准从狭隘预设清单迈向“方法契合[[Research Question|研究问题]]”与吸纳准实验、过程[[Variable|变量]]的动态机制。

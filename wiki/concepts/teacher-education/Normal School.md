@@ -11,7 +11,7 @@ aliases:
 summary: "18世纪起源于欧洲、19世纪经由法美与拉美跨国流通确立的教师专业化培养专门机构，通过国家垄断资格准入、规范化教学法训练与人道纪律塑造公共教育核心师资"
 type: concept
 domain: "teacher-education"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Grammar of Schooling]]"
   - "[[Relational Space]]"
   - "[[Circular Transfer]]"
+  - "[[Recontextualization]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Faculty Psychology]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-07
-updated: 2026-09-22
+updated: 2026-09-27
 ---
 
 # Normal School
@@ -115,7 +116,7 @@ updated: 2026-09-22
 > [!contrast-table] 概念辨析
 > | 维度 | 师范学校（Normal School） | [[Grammar of Schooling\|学校的语法]] | [[Relational Space\|关系性空间]] | [[Circular Transfer\|循环转移]] |
 > |---|---|---|---|---|
-> | **分析对象** | 教师专门化培养的组织建制与专业实体 | 学校划分时空、分班分级与编配教学内容的共同制度模式 | 全球教育空间由流动、互动网络建构的拓扑拓扑学关系 | 政策思想在多节点间往返折射与本土重构的非线性轨迹 |
+> | **分析对象** | 教师专门化培养的组织建制与专业实体 | 学校划分时空、分班分级与编配教学内容的共同制度模式 | 全球教育空间由流动、互动网络建构的拓扑拓扑学关系 | 政策思想在多节点间往返折射与[[Recontextualization\|本土重构]]的非线性轨迹 |
 > | **核心机制** | 统一教学大纲、模范学校实习操练与国家执照准入 | 组织结构的惰性维系与日常教学实践的格式化[[Disciplina and Doctrina\|规训]] | 制度在跨地流通过程中被差异化协商与情境化赋予意义 | 破除单向中心—边缘扩散，展现思想的多向回流与转化 |
 > | **在此处的关系** | 专职承担生产、维护与践行标准化学校语法的核心师资母体 | 构成师范生在校内必须熟练掌握并带入日常课堂的操作规范 | 师范学校的制度规范是在跨大西洋与跨洲流动中被共同建构的 | 记录师范学校从普法到北美、再[[Transfer Translation Transformation\|转译]]至拉美并回流欧洲的流变 |
 

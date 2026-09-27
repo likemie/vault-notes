@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_display_title: "Research Methods in Education · Ch12"
 argument_kind: "book-chapter"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -70,6 +70,8 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_theories:
   - "[[Pluralism]]"
+related_facts:
+  - "[[Schulen im Team]]"
 status: draft
 created: 2026-06-24
 updated: '2026-08-27'
@@ -465,7 +467,7 @@ Jupp & Norris（1993）将文献分析的多元理论路径归纳为三种一般
 > [!citation-card]- 论[[Archival Research\|档案研究]]的现实
 > 你整天坐着阅读，以这个行业的特定方式阅读，以节省时间和金钱，并确信在你破译的一千行笔迹中，你也许只会用到一两行。（Steedman, 2001, p. 29，转引自第12章，p.16）
 >
-> *You sit all day long, reading in the particular manner of the trade, to save time and money, and in the sure knowledge that out of the thousand lines of handwriting you decipher, you will perhaps use one or two.*
+> *You [[Schulen im Team|SiT]] all day long, reading in the particular manner of the trade, to save time and money, and in the sure knowledge that out of the thousand lines of handwriting you decipher, you will perhaps use one or two.*
 
 > [!citation-card]- 论文献的不完整性
 > 存在未跟进的事件的挫败感、未被明确识别的个人、含糊不清的叙述，或那些刚好遗漏了最被迫切寻求的细节的丰富记录。（Andrew, 1985, p. 156，转引自第12章，p.16）

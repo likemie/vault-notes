@@ -8,7 +8,7 @@ aliases:
 summary: "在比较教育与政策借用研究中，指被特定国家用作自身教育体制改革、政策辩护或合法化重构的外部参照范例或制度模板。概念源自施赖弗（Jürgen Schriewer）的“外化假说”与卢曼系统论，强调系统对外部参照点的内部建构以应对政策情境的偶然性与不确定性。在当代全球量化治理中，经合组织通过外向型同行比较建构参考社会，而世界银行则展现出以自身工具与项目为依归的自指性中介特征。"
 type: concept
 domain: "comparative-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Positivism]]"
   - "[[Technical Rationality]]"
+  - "[[Transfer Science]]"
   - "[[Opportunist Mode]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Soft Power by Hard Facts]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-05
-updated: 2026-09-26
+updated: 2026-09-27
 ---
 
 # Reference Society
@@ -192,7 +193,7 @@ updated: 2026-09-26
 > > [!axis] [[Technical Rationality\|技术理性]]选优 vs 文化帝国主义与西方中心偏见
 > > 国际机构宣称参考社会由严密因果数据客观筛选产生；批判比较学者指责其本质是西方新自由主义治理话语的特权背书。
 > >
-> > - **[[Positivism\|实证主义]]政策转移学者** 坚信 [[PISA]] 等标准化大数据提供了跨越国界的客观基准，高位参考社会承载了最前沿的教育生产力。
+> > - **[[Positivism\|实证主义]]政策[[Transfer Science|转移学]]者** 坚信 [[PISA]] 等标准化大数据提供了跨越国界的客观基准，高位参考社会承载了最前沿的教育生产力。
 > > - **批判后殖民学者（[[Argument_Klerides_2023_CE\|Klerides, 2023]]; [[Argument_Li_2025_HSSC\|Li et al., 2025]]）** 揭示西方国家对非西方参考社会的系统性降格，指出模范社会的加冕往往充当了新自由主义绩效问责与去语境化政策推销的特洛伊木马。
 >
 > > [!axis] 实质性制度改进 vs 国内政治相持下的[[Opportunist Mode\|机会主义]][[Externalization\|外化]]

@@ -9,7 +9,7 @@ aliases:
 summary: "教育与社会科学中建立原因与效果之间关系的推理体系，涵盖概率因果、反事实潜在结果模型、因果识别设计层级（RCT/QED/RDD/SCD）以及生成性因果机制与筛选隔离逻辑。"
 type: concept
 domain: "educational-philosophy"
-related_count: 64
+related_count: 68
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -84,6 +84,9 @@ related_facts:
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[Home Visiting Evidence of Effectiveness]]"
   - "[[Top Institute for Evidence-Based Education Research]]"
+  - "[[Education Sciences Reform Act 2002]]"
+  - "[[National Research Council]]"
+  - "[[No Child Left Behind Act 2001]]"
   - "[[Institute of Education Sciences]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -91,10 +94,11 @@ related_arguments:
   - "[[Argument_Hitchcock_2015_JBE]]"
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
+  - "[[Argument_Eisenhart_Towne_2003_ER]]"
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-09-26
+updated: 2026-09-28
 ---
 
 # Causality
@@ -240,6 +244,7 @@ updated: 2026-09-26
 > - **1956 — [[Screening Off\|筛选隔离]]原理提出** Hans Reichenbach 提出筛选隔离（Screening Off）概念，为用统计控制排除共同原因混杂奠定理论基础。
 > - **1974–1986 — 潜在结果模型与[[Counterfactual\|反事实]]革命** Donald Rubin 与 Paul Holland 建立[[Potential Outcomes Framework\|潜在结果框架]]，提出“因果推断基本问题”，奠定当代计量经济学与实验因果推断的数理基石。
 > - **1990 年代 — 因果图模型与有向无环图** Judea Pearl 创立因果图（DAGs）与 do-calculus 演算体系，形式化了因果识别中的混杂路径切断规则。
+> - **2002 — 法定因果推断边界的学界修正** 美国国会通过《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA），吸纳[[National Research Council|国家研究委员会]]（NRC）科学原则与学者质证，打破了《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）对[[Random Assignment|随机分配]]实验的单一优先垄断，首次在联邦公法中确立“在实质上排除合理竞争性解释的其他设计同样具备因果主张合法性”的法理标准。([[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, p. 34]])
 > - **2002–2015 — 联邦循证门控标准确立** Shadish et al. (2002) 体系化[[Internal Validity\|内部效度]]；[[Institute of Education Sciences\|IES]]/[[What Works Clearinghouse\|WWC]] 正式建立以内部效度为先导的因果审查门控程序（[[Gating Procedure]]）([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, pp. 461–467]])。
 > - **2024 — 清算体系因果综合反思** Wadhwa, Zheng & Cook 全景检验 10 所清算中心 1,359 个项目，实证揭示各机构在单项因果识别与跨研究综合门槛上的割裂，推动因果推断从“微观实验识别”走向“宏观证据生态审思”([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 3–5, 26–30]])。
 
@@ -298,3 +303,4 @@ updated: 2026-09-26
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 明确量化因果推断三要件（关联证据、时间顺序、排除替代解释）及[[Causal Modeling\|因果建模]]路径。
 > - [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] — 论证单一被试实验（[[Single-Case Design\|SCD]]）与组间实验的因果推断同构性及[[Internal Validity\|内部效度]]门控机制。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]] — 建立清算中心 0–3 级因果识别设计分级标准，揭示微观因果证据向宏观政策[[Transfer Translation Transformation\|转译]]时的综合门槛割裂。
+> - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] — 系统考据美国国家立法对“因果关系主张合法性边界”的界定流变，揭示从 [[No Child Left Behind Act 2001|NCLB]] 强制偏向随机对照到 [[Education Sciences Reform Act 2002|ESRA]] 确立“在实质上排除竞争性解释即可推断因果”的法理演进（pp. 33–35）。

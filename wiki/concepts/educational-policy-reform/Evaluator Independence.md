@@ -10,7 +10,7 @@ aliases:
 summary: "要求实证干预评估由与项目开发者无经济利益或学术隶属关联的独立团队完成的方法学准则，用于消除研发者自研自评导致的效应量夸大并确立循证最高认证。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -67,6 +67,7 @@ related_facts:
   - "[[National Pupil Database]]"
   - "[[Education Innovation and Research]]"
   - "[[Every Student Succeeds Act]]"
+  - "[[Education Sciences Reform Act 2002]]"
   - "[[Institute of Education Sciences]]"
   - "[[Investing in Innovation Program]]"
   - "[[Success for All]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-09-17
+updated: 2026-09-27
 ---
 
 # Evaluator Independence
@@ -207,7 +208,7 @@ updated: 2026-09-17
 
 > [!dev-timeline] 概念演变
 > - **1970–1990 年代 — 开发者自研自评主导期** 早期教育干预评估主要由课程发明人及其团队自行开展，自编测验盛行，[[Effect Size\|效应量]]普遍高达 $d = 0.80 \sim 1.50$，但外部推广时频现复现失败。
-> - **2002 年 — ESRA 立法与美国 [[Institute of Education Sciences\|IES]] 设立** 美国通过《教育科学改革法》（ESRA），设立教育科学研究院（IES），在法律上首次提出独立评估要求，但执行中允许受资助者自主选聘评估方。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 50)]]
+> - **2002 年 — [[Education Sciences Reform Act 2002|ESRA]] 立法与美国 [[Institute of Education Sciences\|IES]] 设立** 美国通过《教育科学改革法》（ESRA），设立教育科学研究院（IES），在法律上首次提出独立评估要求，但执行中允许受资助者自主选聘评估方。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 50)]]
 > - **2009–2011 年 — i3 计划与英国 [[Education Endowment Foundation\|EEF]] 三方协议制度创新** 联邦 i3 计划投入 14 亿美元强制要求独立评估；英国 EEF 创立“专家库竞标 + 三方独立资助协议”模式，将评估独立性推向制度化巅峰。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 24)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–51)]]
 > - **2015 年至今 — [[Every Student Succeeds Act\|ESSA]] 时代与清算中心标准分化** ESSA 四级[[Evidence Standards\|证据标准]]实施，全球清算中心在独立性审查上形成两极分化（[[Blueprints for Healthy Youth Development\|Blueprints]]/EEF 刚性约束 vs [[What Works Clearinghouse\|WWC]]/[[Best Evidence Encyclopedia\|BEE]] 技术包容）。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 11–15)]]
 

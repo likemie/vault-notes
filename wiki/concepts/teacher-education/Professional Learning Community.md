@@ -10,10 +10,10 @@ aliases:
 summary: "以改善学生学业与福祉为共享愿景、依托合作探究与反思性对话深化教学实践并制度化研读转化外部证据的学校协同组织形态。"
 type: concept
 domain: "teacher-education"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - field/teacher-education
   - field/educational-leadership-administration
@@ -73,12 +73,13 @@ related_persons:
   - "[[Alan Daly]]"
   - "[[Chris Brown]]"
 related_facts:
+  - "[[Schulen im Team]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Research Learning Communities]]"
 confidence: high
 status: active
 created: 2026-09-14
-updated: 2026-09-22
+updated: 2026-09-28
 ---
 
 # Professional Learning Community
@@ -98,7 +99,7 @@ updated: 2026-09-22
 > [!citation-card] Rickinson et al. 论 PLC 专有时间对[[Research Utilization\|研究使用]]的庇护功能
 > 我们拥有围坐在一起探讨问题、解释要义并研读研究要点的专门时间……这让大家有机会在不确定时主动发问……而不是在全校教职工大会上被仓促挤兑过去。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, p. 188)]]
 >
-> *Having designated time to sit together, unpick things, talk about what the research meant ... gave people the opportunity to question if they were unsure ... rather than having it rushed through in a staff meeting.*
+> *Having designated time to [[Schulen im Team|SiT]] together, unpick things, talk about what the research meant ... gave people the opportunity to question if they were unsure ... rather than having it rushed through in a staff meeting.*
 
 > [!citation-card] Rickinson et al. 论审慎参与的集体审议与社会化学习实质
 > 审慎参与和实施体现了教育工作者对研究证据的批判性研读、对其内涵与教育意义的共同审议（shared deliberation），以及将证据要素有效整合进日常教学的过程。这种使用绝非孤立个体的技术性消费，而是在团队与共同体中依托互信人际关系展开的去私密化社会学习实践。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 141–143)]]

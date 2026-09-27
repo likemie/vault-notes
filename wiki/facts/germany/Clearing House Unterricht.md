@@ -4,16 +4,16 @@ aliases:
   - 德国教学研究清算中心
   - 慕尼黑工业大学教学清算中心
   - CHU
-summary: "2017年慕尼黑工业大学创设的德语区首个教育科学证据清算中介机构，经历联邦项目孵化、大学实体运行与私人基金会接续资助三阶段，以理科教学有效性元分析为基底，与德国国际比较中心（ZIB）开展宏微观协同，面向教师教育者提供简评与学院培训。"
+summary: "2017年慕尼黑工业大学创设的德语区首个教育科学证据清算中介机构，经历联邦项目孵化、大学实体运行与私人基金会接续资助三阶段，以理科教学有效性元分析为基底，与德国国际比较中心（ZIB）开展宏微观协同，重点面向大学教师教育者与研训骨干提供简评与学院培训，但其底层单向改写的转移作用假设面临实证成效赤字批判。"
 type: fact
 subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 38
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
-fact_related_color: "#dcfce7"
+fact_related_count: 44
+fact_related_level: 5
+fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_color: "#fecdd3"
 org_type: academic-clearinghouse
 headquarters: "Munich, Germany"
 established: "2017"
@@ -44,6 +44,10 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Paradigm]]"
   - "[[Business as Usual]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Hypothesis]]"
+  - "[[International Education]]"
+  - "[[Academic Achievement]]"
   - "[[Educational Science Communication]]"
 related_theories: []
 related_methods:
@@ -67,13 +71,15 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Education Endowment Foundation]]"
   - "[[Forschungsmonitor Schule]]"
+  - "[[EPPI-Centre]]"
 related_arguments:
   - "[[Argument_Knogler_2025_BB]]"
+  - "[[Argument_Manitius_vanHolt_2019_BzS]]"
   - "[[Argument_Besa_2024_UW]]"
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-21
+updated: 2026-09-27
 ---
 
 # Clearing House Unterricht
@@ -83,14 +89,14 @@ updated: 2026-09-21
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 德国教学研究清算中心（Clearing House Unterricht, CHU）是设立于慕尼黑工业大学（Technische Universität München, TUM）的学术性[[Educational Evidence Clearinghouses\|教育证据清算中心]]与教育[[Educational Brokerage Agency\|知识中介机构]]。作为德语区教育科学领域首个常设清算平台，其核心使命是系统搜集、筛选与二次加工国际教学有效性实证研究（重点[[FocusMath\|聚焦数学]]、信息学、自然科学与技术［Mathematik, Informatik, Naturwissenschaften und Technik, MINT］学科），促进前沿科研证据向教师教育与学校课堂实践的专业化转移。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 13–14)]]
+> 德国教学研究清算中心（Clearing House Unterricht, CHU）是设立于慕尼黑工业大学（Technische Universität München, TUM）的学术性[[Educational Evidence Clearinghouses\|教育证据清算中心]]与教育[[Educational Brokerage Agency\|知识中介机构]]（Seidel et al., 2017）。作为德语区教育科学领域首个常设清算平台，其核心使命是系统搜集、筛选与二次加工国际教学有效性实证研究（重点[[FocusMath\|聚焦数学]]、信息学、自然科学与技术［Mathematik, Informatik, Naturwissenschaften und Technik, MINT］学科），促进前沿科研证据向教师教育与学校课堂实践的专业化转移。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 13–14)]]; [[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 机构于 2017 年正式上线运行，创设背景在于德语区长期缺乏[[Going Native\|本土化]]教育证据清算中介，且实证教育研究[[Document\|文献]]激增与中小学一线教学实践之间存在深刻的[[Research-Practice Gap\|研究-实践鸿沟]]（Transferproblem）。
 > - **总部地点与官方门户** 总部设于德国慕尼黑，由慕尼黑工业大学教师教育与教学研究团队运营；官方门户为 [www.clearinghouse.edu.tum.de](https://www.clearinghouse.edu.tum.de/)（亦支持 [www.clearinghouse-unterricht.de](https://www.clearinghouse-unterricht.de/)），面向全德语区教育系统提供开放获取服务。
 > - **法人属性与经费资助谱系** 属于公立大学依托型非营利学术服务实体。其发展历经联邦项目孵化 → 大学建设运行 → 私人基金会接续资助的典型治理演进轨迹：创设初期由[[Federal Ministry of Education and Research\|德国联邦教育与研究部]]（BMBF）通过[[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]（QLB）全额专项注资；后期成功引入威廉·施特默基金会（Wilhelm Stemmer Stiftung）至少 6 年的战略注资，资金保障刚性延续至 2029 年。
 > - **资助方渊源与 MINT 战略** 威廉·施特默基金会由慕尼黑知名工业家、机器视觉技术先驱威廉·施特默创立，专注于长期扶持青少年与教师的数学、信息学、自然科学与技术（MINT）教育；自 2012 年起，该基金会便长期资助弗劳恩霍夫智能分析与信息系统研究所（Fraunhofer IAIS）开展 Roberta——用机器人学习（Roberta – Lernen mit Robotern）项目，已资助巴伐利亚州超百名 MINT 教师培训并捐赠机器人实验教具。基金会对 CHU 的接续资助旨在通过支持师资培养源头，全面激发中小学生对 MINT 学科的志趣。
-> - **核心宗旨与服务对象** 宗旨是提供具有高度科学[[Reliability\|信度]]与实践可用性的循证服务，以提升教师教育专业化水平；优先将大学教师教育者（Lehrkräftebildende）与进修主管定位为核心[[Knowledge Mediation\|知识中介]]乘数群体，并辐射在读师范生、见习实习教师（Referendare）与职后在岗教师。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 14–15)]]
+> - **核心宗旨与服务对象** 宗旨是提供具有高度科学[[Reliability\|信度]]与实践可用性的循证服务，以提升教师教育专业化水平；优先将大学教师教育者（Lehrkräftebildner/innen）与在职进修研训主管定位为核心[[Knowledge Mediation\|知识中介]]乘数群体，着力化解师训骨干直接研读一级实证文献的认知负荷，并进而辐射在读师范生、见习实习教师（Referendare）与一线在岗教师。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 14–15)]]; [[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, pp. 10, 12)]]
 
 ---
 
@@ -163,12 +169,19 @@ updated: 2026-09-21
 
 ## 争议、批评与反思
 
-> [!debates] 核心制度反思
+> [!debates] 核心制度反思与成效争议
 >
-> > - **项目制思维（Projektitis）与中介机构可持续机制建设** 德国乃至欧洲诸多教育清算机构（如丹麦 DPU 清算所）均依附于政府为期 2–3 年的短期课题合同，在合同期满后往往面临资金断裂甚至实体解散的困局；CHU 创设早期同样依托联邦 [[Qualitätsoffensive Lehrerbildung\|QLB]] 阶段性课题（2015/2016–2023），但其通过迅速建立高质量产品矩阵与广泛用户网络，在联邦项目收官之际成功获得威廉·施特默基金会延续至 2029 年的长期慈善注资，开辟了政府项目孵化—高校常设支持—私人基金会长期资助支持的混合中介治理新[[Paradigm\|范式]]。
+> > [!axis] 项目制思维（Projektitis）与中介机构可持续机制建设
+> > 德国乃至欧洲诸多教育清算机构（如丹麦 DPU 清算所）均依附于政府为期 2–3 年的短期课题合同，在合同期满后往往面临资金断裂甚至实体解散的困局；CHU 创设早期同样依托联邦 [[Qualitätsoffensive Lehrerbildung\|QLB]] 阶段性课题（2015/2016–2023），但其通过迅速建立高质量产品矩阵与广泛用户网络，在联邦项目收官之际成功获得威廉·施特默基金会延续至 2029 年的长期慈善注资，开辟了政府项目孵化—高校常设支持—私人基金会长期资助支持的混合中介治理新[[Paradigm\|范式]]。
 >
 > > [!axis] 乘数群体的支持依赖与最终穿透链路
-> > 将资源重点配置于教师教育者与进修负责人（乘数群体）虽能实现杠杆扩散，但这批骨干群体自身同样高度依赖成套易用的教学工具；且与 [[Forschungsmonitor Schule\|学校研究监测平台]] 相比，CHU 重点聚焦 MINT 学科及高阶[[Meta-analysis\|元分析]]，其学术成果从大学研训课堂向中小学[[Business as Usual\|常态教学]]法渗透的链路较长，仍需各州在职进修督导体制与大众化科学传播格式的深度协同。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 16)]]; [[Argument_Besa_2024_UW\|(Besa, 2024, pp. 256–257)]]
+> > 将资源重点配置于大学教师教育者与在职进修负责人（乘数群体）虽能实现杠杆扩散，但这批骨干群体自身同样高度依赖成套易用的教学工具；且与 [[Forschungsmonitor Schule\|学校研究监测平台]] 相比，CHU 重点聚焦 MINT 学科及高阶[[Meta-analysis\|元分析]]，其学术成果从大学研训课堂向中小学[[Business as Usual\|常态教学]]法渗透的链路较长，仍需各州在职进修督导体制与大众化科学传播格式的深度协同。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 16)]]; [[Argument_Besa_2024_UW\|(Besa, 2024, pp. 256–257)]]
+>
+> > [!axis] 底层转移模型的反思贫困与微观教学有效性证据赤字
+> > 清算平台的迅猛扩增掩盖了其底层[[Knowledge Transfer|知识转移]]模型与因果作用[[Hypothesis|假设]]（Wirkannahmen）的学术反思贫困。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
+> >
+> > - **供给端理性预设** 清算机制暗含一种“信息改写即能引发实践变革”的单向理性假设，假定只要将元分析成果解构改写为结构化简评（Kurzreviews）并降低阅读门槛，实践者就会自发阅读、认同并主动调整教学行动。
+> > - **实证成效赤字批判** [[International Education|国际教育]]清算机构（如美国[[What Works Clearinghouse|有效干预清算中心]] WWC、英国[[Educational Evidence Clearinghouses|教育证据清算机构]] [[EPPI-Centre]] 与丹麦 DPU 清算所）的长线跟踪表明，信息中介供给与学校微观教学常态之间存在巨大阻隔。清算平台在德语区虽然获得了高校研训者的主观满意度评分，但其产出的证据评介究竟在多大程度上改变了一线教师的深层教育信念、重构了真实课堂的师生互动，并最终转化为学生[[Academic Achievement|学业成绩]]的提升，迄今为止在实证层面依然极度匮乏严格的经验检验。
 
 ---
 
@@ -186,3 +199,4 @@ updated: 2026-09-21
 > | [[Educational Evidence Clearinghouses]] | 概念 | 德语区首个常设清算实体，代表高校依托与混合资助模式的创新范本。 |
 > | [[Educational Brokerage Agency]] | 概念 | 实践[[Knowledge Mediation\|知识中介]]理论的典型机构实体，以教师教育者为核心乘数载体。 |
 > | [[Educational Science Communication]] | 概念 | 平台是开展实证教学证据通俗[[Transfer Translation Transformation\|转译]]与专业科学传播的典型载体。 |
+> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | 论证 (论文) | 批判清算机构底层转移模型与作用[[Hypothesis\|假设]]的理论贫困，指出微观课堂实效证据依然匮乏。 |

@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 33
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -39,9 +39,11 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Heterogeneity]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Hypothesis]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Boundary Spanner]]"
-related_theories: []
+related_theories:
+  - "[[Organizational Culture]]"
 related_methods:
   - "[[Systematic Review]]"
   - "[[Mixed Methods Research]]"
@@ -61,14 +63,16 @@ related_facts:
   - "[[Campbell Collaboration]]"
   - "[[Education Endowment Foundation]]"
   - "[[Research Schools Network]]"
+  - "[[Kunnskapssenter for utdanning]]"
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
+  - "[[Argument_Manitius_vanHolt_2019_BzS]]"
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-09-14
+updated: 2026-09-27
 ---
 
 # EPPI-Centre
@@ -155,11 +159,17 @@ updated: 2026-09-14
 > >
 > > - **外部批判观点** [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] 等学者指出，EPPI-Centre 虽然有效解决了证据可及性与审查严谨性，但无法自动保障研究结论的外部效度。若将脱离特定制度情境的综合证据直接作为通用指南推行，极易遭遇地方微观教学实际的排异反应。
 > > - **机构方法回应** 中心大力开发主题综合与实施环境分析模块，强调综述报告必须系统呈现干预在不同社会阶层、文化背景与制度条件下的[[Heterogeneity\|异质性]]表现。
->
+> >
 > > [!axis] 关系型中介与全系统生态网络（Ecosystem）的距离
 > > 探讨依托精英大学的研究中心能否充分激发一线教师的主动实践变革。
 > >
 > > - **[[Knowledge Mediation\|知识中介]]演进批判** [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] 指出，尽管 EPPI-Centre 积极探索多方协作与能力建设，但其运行重心依然偏向大学象牙塔内的“证据生产与[[Transfer Translation Transformation\|转译]]供给”；相比于 [[Education Endowment Foundation\|EEF]] 构建的“[[Research Schools Network\|研究学校网络]]”（Research Schools Network）扎根学校基层、驱动一线主动“拉动”（Pull）证据的全系统生态模型，传统学术证据中心依然存在一定程度的供给侧偏斜。
+> >
+> > [!axis] 清算中介因果作用[[Hypothesis|假设]]与微观转移实效知之甚少
+> > 探讨清算机构模式在推动微观教育教学常态化变革中的实证成效赤字。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
+> >
+> > - **国际转移目标达成度证据匮乏** [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] 指出，包括英国 EPPI-Centre、美国 [[What Works Clearinghouse|WWC]] 及丹麦清算所在内的国际代表性机构，虽然在宏观政策与学术界广受赞誉，但关于此类清算机构究竟在多大程度上真正达成了预期的转移目标（intendierte Transferziele），迄今为止在实证层面依然极度匮乏严格检验。
+> > - **底层转移模型反思滞后** 清算平台往往默认高质量的证据综合与严密的综述软件便能自动赋能政策与实践，缺乏对“知识如何穿透复杂学校[[Organizational Culture|组织文化]]并在微观课堂生根”这一深层因果作用假设（Wirkannahmen）的经验解构与理论审视。
 
 ---
 
@@ -175,6 +185,8 @@ updated: 2026-09-14
 > | [[Evidence-Informed Practice]] | Concept | 中心致力于通过严格证据综合指导政策制定与一线专业决策。 |
 > | [[What Works Clearinghouse]] | Fact (Organization) | 美国官方旗舰清算中心，与 EPPI-Centre 共同构成 [[OECD]] 标杆中十五年持续活跃的二元标杆。 |
 > | [[Education Endowment Foundation]] | Fact (Organization) | 英国新一代生态型证据机构，在 EPPI-Centre 奠定的[[Systematic Review\|系统综述]]基础上进一步拓展了基层研究学校网络。 |
+> | [[Kunnskapssenter for utdanning]] | Fact (Organization) | 挪威教育知识中心，深受 EPPI-Centre 多元证据综合方法论启发并开创平行评审机制。 |
 > | [[EU Evidence-Informed Education Policy Initiatives]] | Fact (Policy) | EPPI-Centre 牵头发起并深度协调的泛欧洲证据知情政策与实践合作网络（EIPPEE）。 |
 > | [[Boundary Spanner]] | Concept | 机构在大学学术研究界与公共政策/一线教育社群之间承担的关键跨界协调功能。 |
 > | [[Systematic Review]] | Method | 机构研发、拓展与制度化推广的核心证据综合方法体系。 |
+> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | Argument | 剖析 EPPI-Centre 等国际清算中介底层转移作用[[Hypothesis\|假设]]的反思贫困与预期目标达成度验证赤字。 |

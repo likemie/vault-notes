@@ -1,6 +1,190 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Eisenhart_Towne_2003_ER",
+      "path": "wiki/arguments/journal-articles/Educational Researcher/Argument_Eisenhart_Towne_2003_ER.md"
+    },
+    {
+      "basename": "American Educational Research Association",
+      "path": "wiki/facts/us/American Educational Research Association.md"
+    },
+    {
+      "basename": "Regression Discontinuity Design",
+      "path": "wiki/methods/quantitative/Regression Discontinuity Design.md"
+    },
+    {
+      "basename": "Causality",
+      "path": "wiki/concepts/educational-philosophy/Causality.md"
+    },
+    {
+      "basename": "Random Assignment",
+      "path": "wiki/methods/quantitative/Random Assignment.md"
+    },
+    {
+      "basename": "In-depth Interview",
+      "path": "wiki/methods/qualitative/In-depth Interview.md"
+    },
+    {
+      "basename": "Participant Observation",
+      "path": "wiki/methods/qualitative/Participant Observation.md"
+    },
+    {
+      "basename": "Narrative Analysis",
+      "path": "wiki/methods/qualitative/Narrative Analysis.md"
+    },
+    {
+      "basename": "Quasi-Experimental Designs",
+      "path": "wiki/methods/quantitative/Quasi-Experimental Designs.md"
+    },
+    {
+      "basename": "Eisenhart_Towne_2003_ER",
+      "path": "sources/Eisenhart_Towne_2003_ER/Eisenhart_Towne_2003_ER.md"
+    },
+    {
+      "basename": "Qualitative Research",
+      "path": "wiki/methods/qualitative/Qualitative Research.md"
+    },
+    {
+      "basename": "Higher Education Act of 1965",
+      "path": "wiki/facts/us/Higher Education Act of 1965.md"
+    },
+    {
+      "basename": "National Reading Panel",
+      "path": "wiki/facts/us/National Reading Panel.md"
+    },
+    {
+      "basename": "Experimental Research",
+      "path": "wiki/methods/quantitative/Experimental Research.md"
+    },
+    {
+      "basename": "Randomised Controlled Trials",
+      "path": "wiki/methods/quantitative/Randomised Controlled Trials.md"
+    },
+    {
+      "basename": "Argument_Slavin_2002_ER",
+      "path": "wiki/arguments/journal-articles/Educational Researcher/Argument_Slavin_2002_ER.md"
+    },
+    {
+      "basename": "House Committee on Education and the Workforce",
+      "path": "wiki/facts/us/House Committee on Education and the Workforce.md"
+    },
+    {
+      "basename": "Positivism",
+      "path": "wiki/concepts/educational-philosophy/Positivism.md"
+    },
+    {
+      "basename": "What Works Clearinghouse",
+      "path": "wiki/facts/us/What Works Clearinghouse.md"
+    },
+    {
+      "basename": "Education Sciences Reform Act 2002",
+      "path": "wiki/facts/us/Education Sciences Reform Act 2002.md"
+    },
+    {
+      "basename": "No Child Left Behind Act 2001",
+      "path": "wiki/facts/us/No Child Left Behind Act 2001.md"
+    },
+    {
+      "basename": "Reading Excellence Act",
+      "path": "wiki/facts/us/Reading Excellence Act.md"
+    },
+    {
+      "basename": "Evidence Standards",
+      "path": "wiki/concepts/educational-policy-reform/Evidence Standards.md"
+    },
+    {
+      "basename": "Scientifically Based Research",
+      "path": "wiki/concepts/educational-policy-reform/Scientifically Based Research.md"
+    },
+    {
+      "basename": "Argument_Manitius_vanHolt_2019_BzS",
+      "path": "wiki/arguments/journal-articles/Beiträge zur Schulentwicklung/Argument_Manitius_vanHolt_2019_BzS.md"
+    },
+    {
+      "basename": "Professional Judgment",
+      "path": "wiki/concepts/educational-policy-reform/Professional Judgment.md"
+    },
+    {
+      "basename": "Complexity Theory",
+      "path": "wiki/theories/educational-philosophy/Complexity Theory.md"
+    },
+    {
+      "basename": "Evidence-Based Education",
+      "path": "wiki/concepts/educational-policy-reform/Evidence-Based Education.md"
+    },
+    {
+      "basename": "Kunnskapssenter for utdanning",
+      "path": "wiki/facts/norway/Kunnskapssenter for utdanning.md"
+    },
+    {
+      "basename": "EPPI-Centre",
+      "path": "wiki/facts/uk/EPPI-Centre.md"
+    },
+    {
+      "basename": "Danish Clearinghouse for Educational Research",
+      "path": "wiki/facts/denmark/Danish Clearinghouse for Educational Research.md"
+    },
+    {
+      "basename": "Forschungsmonitor Schule",
+      "path": "wiki/facts/germany/Forschungsmonitor Schule.md"
+    },
+    {
+      "basename": "Clearing House Unterricht",
+      "path": "wiki/facts/germany/Clearing House Unterricht.md"
+    },
+    {
+      "basename": "Federal Ministry of Education and Research",
+      "path": "wiki/facts/germany/Federal Ministry of Education and Research.md"
+    },
+    {
+      "basename": "Gesamtstrategie zum Bildungsmonitoring",
+      "path": "wiki/facts/germany/Gesamtstrategie zum Bildungsmonitoring.md"
+    },
+    {
+      "basename": "Organizational Culture",
+      "path": "wiki/theories/sociology-of-education/Organizational Culture.md"
+    },
+    {
+      "basename": "Academic Achievement",
+      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
+    },
+    {
+      "basename": "Vergleichsarbeiten",
+      "path": "wiki/facts/germany/Vergleichsarbeiten.md"
+    },
+    {
+      "basename": "Centre for Educational Research and Innovation",
+      "path": "wiki/facts/global/Centre for Educational Research and Innovation.md"
+    },
+    {
+      "basename": "Technical Rationality",
+      "path": "wiki/concepts/educational-philosophy/Technical Rationality.md"
+    },
+    {
+      "basename": "Knowledge Transfer",
+      "path": "wiki/concepts/university-industry-collaboration/Knowledge Transfer.md"
+    },
+    {
+      "basename": "Knowledge Mediation",
+      "path": "wiki/concepts/educational-policy-reform/Knowledge Mediation.md"
+    },
+    {
+      "basename": "German State Educational Institutes and Quality Agencies",
+      "path": "wiki/facts/germany/German State Educational Institutes and Quality Agencies.md"
+    },
+    {
+      "basename": "Transfer Science",
+      "path": "wiki/concepts/science-communication/Transfer Science.md"
+    },
+    {
+      "basename": "School Inspection",
+      "path": "wiki/concepts/educational-policy-reform/School Inspection.md"
+    },
+    {
+      "basename": "Argument_Knogler_2025_BB",
+      "path": "wiki/arguments/journal-articles/berufsbildung Zeitschrift für Theorie-Praxis-Dialog/Argument_Knogler_2025_BB.md"
+    },
+    {
       "basename": "G. Reid Lyon",
       "path": "wiki/persons/us/G. Reid Lyon.md"
     },
@@ -15,190 +199,6 @@
     {
       "basename": "Adequate Yearly Progress",
       "path": "wiki/facts/us/Adequate Yearly Progress.md"
-    },
-    {
-      "basename": "John W. Kingdon",
-      "path": "wiki/persons/us/John W. Kingdon.md"
-    },
-    {
-      "basename": "Bill & Melinda Gates Foundation",
-      "path": "wiki/facts/us/Bill & Melinda Gates Foundation.md"
-    },
-    {
-      "basename": "Race to the Top",
-      "path": "wiki/facts/us/Race to the Top.md"
-    },
-    {
-      "basename": "Epistemic Ascent",
-      "path": "wiki/concepts/curriculum/Epistemic Ascent.md"
-    },
-    {
-      "basename": "In-depth Interview",
-      "path": "wiki/methods/qualitative/In-depth Interview.md"
-    },
-    {
-      "basename": "Elite Interview",
-      "path": "wiki/methods/qualitative/Elite Interview.md"
-    },
-    {
-      "basename": "William T. Grant Foundation",
-      "path": "wiki/facts/us/William T. Grant Foundation.md"
-    },
-    {
-      "basename": "Gatekeepers",
-      "path": "wiki/concepts/research-methodology/Gatekeepers.md"
-    },
-    {
-      "basename": "Institute of Education Sciences",
-      "path": "wiki/facts/us/Institute of Education Sciences.md"
-    },
-    {
-      "basename": "Technical Rationality",
-      "path": "wiki/concepts/educational-philosophy/Technical Rationality.md"
-    },
-    {
-      "basename": "National Education Association",
-      "path": "wiki/facts/us/National Education Association.md"
-    },
-    {
-      "basename": "Peer Debriefing",
-      "path": "wiki/methods/qualitative/Peer Debriefing.md"
-    },
-    {
-      "basename": "Learning Progression",
-      "path": "wiki/concepts/curriculum/Learning Progression.md"
-    },
-    {
-      "basename": "Knowledge-Based Economy",
-      "path": "wiki/concepts/political-economy-geopolitics/Knowledge-Based Economy.md"
-    },
-    {
-      "basename": "PISA",
-      "path": "wiki/facts/global/PISA.md"
-    },
-    {
-      "basename": "No Child Left Behind Act 2001",
-      "path": "wiki/facts/us/No Child Left Behind Act 2001.md"
-    },
-    {
-      "basename": "Policy Entrepreneur",
-      "path": "wiki/concepts/educational-policy-reform/Policy Entrepreneur.md"
-    },
-    {
-      "basename": "Research Utilization",
-      "path": "wiki/concepts/educational-policy-reform/Research Utilization.md"
-    },
-    {
-      "basename": "TIMSS",
-      "path": "wiki/facts/global/TIMSS.md"
-    },
-    {
-      "basename": "Common Core State Standards",
-      "path": "wiki/facts/us/Common Core State Standards.md"
-    },
-    {
-      "basename": "Professional Judgment",
-      "path": "wiki/concepts/educational-policy-reform/Professional Judgment.md"
-    },
-    {
-      "basename": "The Education Trust",
-      "path": "wiki/facts/us/The Education Trust.md"
-    },
-    {
-      "basename": "Six-Stage Model of Policymaking",
-      "path": "wiki/theories/educational-policy-reform/Six-Stage Model of Policymaking.md"
-    },
-    {
-      "basename": "Visual Data",
-      "path": "wiki/concepts/research-methodology/Visual Data.md"
-    },
-    {
-      "basename": "Plato",
-      "path": "wiki/persons/greece/Plato.md"
-    },
-    {
-      "basename": "Action Research",
-      "path": "wiki/methods/mixed/Action Research.md"
-    },
-    {
-      "basename": "Qualitative Research",
-      "path": "wiki/methods/qualitative/Qualitative Research.md"
-    },
-    {
-      "basename": "Open Court Reading",
-      "path": "wiki/facts/us/Open Court Reading.md"
-    },
-    {
-      "basename": "House Committee on Education and the Workforce",
-      "path": "wiki/facts/us/House Committee on Education and the Workforce.md"
-    },
-    {
-      "basename": "Reading Excellence Act",
-      "path": "wiki/facts/us/Reading Excellence Act.md"
-    },
-    {
-      "basename": "Argument_Naeem_2026_Episteme",
-      "path": "wiki/arguments/journal-articles/Episteme/Argument_Naeem_2026_Episteme.md"
-    },
-    {
-      "basename": "Teacher Professional Agency",
-      "path": "wiki/concepts/teacher-education/Teacher Professional Agency.md"
-    },
-    {
-      "basename": "Critical Theory",
-      "path": "wiki/theories/educational-philosophy/Critical Theory.md"
-    },
-    {
-      "basename": "Edmondson_2005_EPAA",
-      "path": "sources/Edmondson_2005_EPAA/Edmondson_2005_EPAA.md"
-    },
-    {
-      "basename": "Documentary Analysis",
-      "path": "wiki/methods/qualitative/Documentary Analysis.md"
-    },
-    {
-      "basename": "Neocorporatism",
-      "path": "wiki/theories/political-economy-geopolitics/Neocorporatism.md"
-    },
-    {
-      "basename": "Subgovernment Theory",
-      "path": "wiki/theories/educational-policy-reform/Subgovernment Theory.md"
-    },
-    {
-      "basename": "Scientifically Based Research",
-      "path": "wiki/concepts/educational-policy-reform/Scientifically Based Research.md"
-    },
-    {
-      "basename": "Critical Pluralism",
-      "path": "wiki/theories/educational-policy-reform/Critical Pluralism.md"
-    },
-    {
-      "basename": "Socrates",
-      "path": "wiki/persons/greece/Socrates.md"
-    },
-    {
-      "basename": "Lev Vygotsky",
-      "path": "wiki/persons/russia/Lev Vygotsky.md"
-    },
-    {
-      "basename": "Meno",
-      "path": "wiki/concepts/educational-philosophy/Meno.md"
-    },
-    {
-      "basename": "Argument_Smith_2026_SPE",
-      "path": "wiki/arguments/journal-articles/Studies in Philosophy and Education/Argument_Smith_2026_SPE.md"
-    },
-    {
-      "basename": "AI Hallucination",
-      "path": "wiki/concepts/educational-technology/AI Hallucination.md"
-    },
-    {
-      "basename": "Examination-Oriented Education",
-      "path": "wiki/concepts/educational-policy-reform/Examination-Oriented Education.md"
-    },
-    {
-      "basename": "Divergent Thinking",
-      "path": "wiki/concepts/competency-and-assessment/Divergent Thinking.md"
     }
   ],
   "omittedPaths": [],

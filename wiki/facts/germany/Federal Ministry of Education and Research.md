@@ -5,13 +5,13 @@ aliases:
   - 德国联邦教育及研究部
   - BMBF
   - Bundesministerium für Bildung und Forschung
-summary: "德国联邦最高教育与科研行政主管部委，在文化联邦制宪法框架下统筹国家重大科技创新资助、产学研协同及全国性教育质量攻坚工程（如 QLB），联合KMK创设国际比较中心（ZIB）、委托编撰国家教育报告（DIPF）并立项出资孵化德国教学研究清算中心（CHU）。"
+summary: "德国联邦最高教育与科研行政主管部委，在文化联邦制宪法框架下统筹国家重大科技创新资助、产学研协同、实证教育研究框架规划（设转移与实施专项）及全国性教育质量攻坚工程（如 QLB），联合 KMK 创设国际比较中心（ZIB）、委托编撰国家教育报告（DIPF）并立项出资孵化德国教学研究清算中心（CHU）。"
 type: fact
 subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -33,6 +33,10 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
+  - "[[Champ]]"
+  - "[[Positivism]]"
+  - "[[Experiential Learning]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[International Education]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Research-Practice Gap]]"
@@ -57,10 +61,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Knogler_2025_BB]]"
   - "[[Argument_Hartong_2018_GSE]]"
+  - "[[Argument_Manitius_vanHolt_2019_BzS]]"
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-27
 ---
 
 # Federal Ministry of Education and Research
@@ -86,7 +91,7 @@ updated: 2026-09-18
 > - **1955–1969 — 战后科技重建与早期设立** 1955 年设立联邦原子事务部，标志着联邦层面介入尖端科技研发资助；1962 年扩展为联邦科学研究部，重点恢复与壮大国家科研基础设施。
 > - **1969–1994 — 教育职能确立与部委分立** 1969 年德国修订《基本法》（Grundgesetz）赋予联邦在高等教育扩招与职业教育立法上的有限权力，分立设立联邦教育与科学部（BMBW）和联邦研究与技术部（BMFT）。
 > - **1994–2009 — 两德统一部委合并与 [[PISA]] 震荡响应** 1994 年两部正式合并为现行体制的 BMBF；2000 年首轮 [[PISA]] 震荡后，BMBF 深度参与 [[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]（Gesamtstrategie zum Bildungsmonitoring）建设，联合资助国家教育报告（Bildungsbericht）编制。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 139–141)]]
-> - **2010–至今 — [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]] 联合创设、教师教育攻坚与循证中介孵化** 2010 年联合 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 在慕尼黑工业大学（TUM）正式创设[[Zentrum für internationale Bildungsvergleichsstudien\|德国国际教育比较研究中心]]（ZIB）；联合各州推出“[[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]”（QLB，总预算 5 亿欧元）；2017 年专项立项并出资孵化慕尼黑工业大学教学研究清算中心（[[Clearing House Unterricht\|CHU]]），确立德语区教育证据转化国家级基础设施。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
+> - **2010–至今 — [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]] 联合创设、教师教育攻坚与循证中介孵化** 2010 年联合 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 在慕尼黑工业大学（TUM）正式创设[[Zentrum für internationale Bildungsvergleichsstudien\|德国国际教育比较研究中心]]（ZIB）；依据 2013 年联邦-州行政协议（Bund-Länder-Vereinbarung, BLV）联合各州推出“[[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]”（QLB，总预算 5 亿欧元）；2017 年发布新一期《实证教育研究框架规划》（Rahmenprogramm empirische Bildungsforschung），首次将“创新研究、实施研究与转移研究”（Innovations-, Implementations- und Transferforschung）确立为国家专项资助重点；同年专项立项并出资孵化慕尼黑工业大学教学研究清算中心（[[Clearing House Unterricht\|CHU]]），确立德语区教育证据转化国家级基础设施。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]; [[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, pp. 10, 12–13)]]
 
 ---
 
@@ -137,7 +142,8 @@ updated: 2026-09-18
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务与国家资助矩阵
-> - **重大教育质量工程** 主导实施“[[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]”（QLB，资助超 70 所高校、近百个改革项目），全面重塑师范生培养与实证证据融合。
+> - **实证教育研究框架规划与转移实施专项** 2017 年发布国家规划（Rahmenprogramm empirische Bildungsforschung, BMBF, 2017），专门确立“创新研究、实施研究与转移研究”（Innovations-, Implementations- und Transferforschung）专项资金，系统探索教育科研成果向学校实践与师训系统有效渗透的机制。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
+> - **重大教育质量工程** 主导实施“[[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]”（QLB，依据联邦-州行政协议注资 5 亿欧元，资助超 70 所高校、近百个改革项目），全面重塑师资培养全周期与实证证据融合。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, pp. 12–13)]]
 > - **国家科研证据清算中介孵化** 2017 年专项资助设立慕尼黑工业大学教学研究清算中心（[[Clearing House Unterricht\|CHU]]），打破德语区长期缺乏本土清算平台的困局。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
 > - **国家测评与报告联合资助** 联合 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 出资设立 [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]] 统筹 [[PISA]] 测评，联合资助 [[Leibniz Institute for Educational Research and Educational Information\|DIPF]] 编撰国家综合教育报告（*[[Bildung]] in Deutschland*）。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–145)]]
 > - **教育数字化与基础设施战略** 出资数百亿欧元推进“学校数字化公约”（DigitalPakt Schule），支持全德中小学与职业学校宽带网络、数字化教学工具与终端配置。
@@ -166,6 +172,12 @@ updated: 2026-09-18
 > >
 > > [!axis] 项目制资助周期与中介平台可持续性风险
 > > BMBF 的立项资助通常以 3–5 年为期，期满后需依赖地方州政府或民间资本接续；丹麦 DPU 清算所因政府合同未续签而关停的先例表明，完全依附于国家部委阶段性课题的项目制资助在长线中介建设上存在天然的脆弱性，这也正是 [[Clearing House Unterricht\|CHU]] 后期主动引入施泰默基金会长期注资的重要体制背景。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
+> >
+> > [!axis] 国家专项资助的行政规约 vs 大学学术生态的多元[[Paradigm|范式]]张力
+> > BMBF 通过 [[Qualitätsoffensive Lehrerbildung|QLB]] 等重大攻坚计划以巨额专项经费引导全国高校师资培养与循证转化，但在大学学术[[Champ|场域]]内部遭遇了多范式治理冲突与自主性抵制。[[Argument_Manitius_vanHolt_2019_BzS\|(Heinrich & Streblow, 2019; Manitius & van Holt, 2019, p. 13)]]
+> >
+> > - **自上而下政策导向（BMBF 与[[Positivism|实证主义]]取向）** 试图将实证证据、因果效能与清算转化确立为高校师资培养的法定基准，强调以国家项目指标考核倒逼大学内部组织变革。
+> > - **大学内部多范式反思（学术自治与学科多元派）** 指出大学教师教育历来由普通教育学（人文学派哲学思辨）、学科教学论（Fachdidaktik）与[[Experiential Learning|经验教育]]心理学等多重范式共存构成，国家自上而下的行政专项资助易被异化为对学术自主的[[Disciplina and Doctrina|规训]]；若忽略大学内部异质学科文化的协商对话与制度土壤，单纯依靠国家行政协议与项目制资金注入难以催生内生性的教学实践改进。
 
 ---
 
@@ -187,3 +199,4 @@ updated: 2026-09-18
 > | [[Research-Practice Gap]] | Concept | BMBF 长期政策议程的核心主线，致力于消解国家科研成果与课堂实践之间的转移阻滞。 |
 > | [[Argument_Knogler_2025_BB\|Knogler et al., 2025]] | Argument | 剖析 BMBF 在 QLB 框架下孵化 CHU 清算中心并协同 ZIB 的[[Document\|文献]]。 |
 > | [[Argument_Hartong_2018_GSE\|Hartong, 2018]] | Argument | 剖析 BMBF 在国家教育监测总体战略与跨尺度[[Data Infrastructure\|数据基础设施]]中的联邦治理定位。 |
+> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | Argument | 剖析 BMBF 实证教育研究框架规划（聚焦转移与实施研究）与 QLB 教师教育攻坚中的多[[Paradigm\|范式]]治理张力。 |

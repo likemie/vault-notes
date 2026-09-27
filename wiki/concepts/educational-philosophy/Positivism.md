@@ -9,10 +9,10 @@ aliases:
 summary: "一种主张真正知识唯独建立在感官经验、观察与实验基础之上的认识论立场，预设自然与社会遵循同质客观法则；在启蒙发轫期曾从属于全人道德教化与社会改良，而在20世纪演化为追求价值中立与法则概括的统治性实证范式。"
 type: concept
 domain: "educational-philosophy"
-related_count: 96
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_count: 101
+related_level: 6
+related_stars: "⭐⭐⭐⭐⭐⭐"
+related_color: "#ddd6fe"
 tags:
   - paradigm/positivism
   - theme/epistemology
@@ -85,9 +85,9 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Problem Approach]]"
   - "[[Sample Size Determination]]"
+  - "[[Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Intervention Research]]"
-  - "[[Qualitative Research]]"
   - "[[Correlational Research]]"
   - "[[Quantitative Research]]"
   - "[[Random Assignment]]"
@@ -112,19 +112,24 @@ related_facts:
   - "[[PISA]]"
   - "[[IEA]]"
   - "[[OECD]]"
+  - "[[Reading Excellence Act]]"
+  - "[[No Child Left Behind Act 2001]]"
+  - "[[National Research Council]]"
+  - "[[Education Sciences Reform Act 2002]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Skourdoumbis_2024_AER]]"
+  - "[[Argument_Eisenhart_Towne_2003_ER]]"
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Sandoval_2005_SE]]"
   - "[[Argument_Cowen_2009_CE]]"
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 
 # Positivism
@@ -318,6 +323,7 @@ updated: 2026-09-24
 > - **20 世纪前半叶 — 逻辑实证主义鼎盛与波普尔[[Falsification\|证伪主义]]超越** 维也纳学派追求经验证实与物理主义统一语言；波普尔（[[Karl Popper]]）提出证伪原则打破归纳证实神话，推动实证主义由粗糙证实向批判理性主义跃迁。
 > - **20 世纪 60 年代 — 比较教育实证[[Scientific Paradigm\|科学范式]]确立与流派分野** 战后自然科学工程突破与行为主义革命共同推动科学化运动达到鼎盛；诺亚与埃克斯坦（Noah & Eckstein）、霍姆斯（[[Brian Holmes]]）与芝加哥学派（Anderson & Foster）确立可测量假设检验与预测标准，围绕法则性质展开认识论争鸣，并将历史传统贬斥为“前科学”。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009)]]；[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 53–56)]]
 > - **20 世纪 70 年代 — 规划承诺破灭、[[Interpretive Paradigm\|反实证主义]]交锋与范式复数化** 经济滞胀戳破了实证规划神话，[[Thomas Kuhn\|托马斯·库恩]]（Thomas Kuhn）范式理论打破[[Value Neutrality\|价值中立]]信念，法兰克福学派[[Critical Theory\|批判理论]]、诠释学与[[Post-structuralism\|后结构主义]]共同涌入，学科走向复数的“[[Comparative Educations\|多个比较教育学]]（Comparative Educations）”。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]
+> - **2000–2003 年 — 法定实证主义（Statutory Positivism）垄断尝试与后实证审议纠偏** 美国国会通过《[[Reading Excellence Act|卓越阅读法]]》（REA）与《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）试图以成文法形式将实证主义假设检验与[[Randomised Controlled Trials|随机对照试验]]确立为国家唯一科研标准，甚至在卡斯尔草案（H.R. 4875）中试图贬低[[Qualitative Research|质性研究]]；[[National Research Council|国家研究委员会]]（NRC）发布《教育科学研究》（SRE）确立跨方法六大原则，并在国会听证中捍卫探究方法随问题而定的[[Postpositivism|后实证主义]]常态科学观，最终在《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA 2002）中扭转了法定实证主义的方法清单垄断。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 31–36)]]
 > - **21 世纪 — 跨国治理量化惯性与[[Evidence-Based Education\|循证教育]]新实证主义回潮** 在全球教育治理驱动下，实证量化模式在 [[IEA]] 测评与 [[OECD]] [[PISA]] 中展现出顽强的制度惯性；以 [[Randomised Controlled Trials\|RCT]] 黄金法则和[[Meta-analysis\|元分析]]为代表的“新实证主义”在循证教育中强势复兴，并引发学界对数据霸权与教学[[Ontology\|本体论]]抽空的深刻反思。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024)]]；[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 69)]]
 
 ---
@@ -390,6 +396,7 @@ updated: 2026-09-24
 > - [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] — 揭示中小学科学教育深受教条实证主义影响，将科学探究扭曲为呆板的线性实验室规程，进而呼吁突破幼稚的[[Formal Epistemology\|形式认识论]]，转向关注学生在真实探究情境中的[[Practical Epistemology\|实践认识论]]。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] — 剖析当代[[Evidence-Based Education\|循证教育]]狂热标榜的实证主义科学话语，揭示将教学质量简化为[[Meta-analysis\|元分析]][[Effect Size\|效应量]]与量化控制[[Variable\|变量]]，本质上是对微观教学实践关系性[[Ontology\|本体论]]的粗暴抽空。
 > - [[Argument_Cowen_2009_CE\|Cowen (2009b)]] — 回顾比较教育学科发展史，指出以美国 1960 年代科学实证派（如诺亚与埃克斯坦）为代表的实证主义霸权曾试图将跨国比较改造为脱离情境的假设检验与定律发现，最终在学科反思中被“转移-[[Transfer Translation Transformation\|转译]]-变形”的后实证视角所解构。
+> - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne (2003)]] — 系统考证 2000–2003 年美国联邦立法中“法定实证主义”（以卡斯尔草案和 [[No Child Left Behind Act 2001|NCLB]] 强制量化实验假设检验为代表）与后实证科学原则（NRC SRE 与 ESRA 2002 方法契合问题）的历史争鸣，论证学术界公共审议在反制实证主义行政垄断中的关键作用。
 
 ---
 

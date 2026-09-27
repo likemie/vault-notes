@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -42,6 +42,7 @@ related_persons: []
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[Elementary and Secondary Education Act of 1965]]"
+  - "[[Education Sciences Reform Act 2002]]"
   - "[[Every Student Succeeds Act]]"
   - "[[What Works Clearinghouse]]"
   - "[[Evidence for ESSA]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-09-18
+updated: 2026-09-27
 ---
 
 # Education Resources Information Center
@@ -78,7 +79,7 @@ updated: 2026-09-18
 > [!dev-timeline] 组织发展历程
 > - **1964–1970 年代 — 分散清算所网络奠基期** 初期采取分布式网络架构，在全美知名大学与科研机构设立十余个专业分科清算所（Clearinghouses，如阅读、初等教育、测试评价、高等教育等），负责分头采集并加工特定学科领域的学术[[Document\|文献]]与灰色报告。
 > - **1980–1990 年代 — 光盘索引向互联网检索转型** 引入计算机微缩胶片与光盘检索（CD-ROM），随后全面接入万维网，发布《ERIC 叙词表》（Thesaurus of ERIC Descriptors），成为[[International Education\|国际教育]]实证研究通用的受控标引规范。
-> - **2002–2004 年 — [[Institute of Education Sciences\|IES]] 成立与中央集权化重构** 随着美国通过《2002 年教育科学改革法》设立 IES，联邦政府撤并了分散在各大学的 16 个专业清算所，将采购、编目与网络运维集中化，建立了统一管理的单点在线门户与更严格的同行评议文献遴选标准。
+> - **2002–2004 年 — [[Institute of Education Sciences\|IES]] 成立与中央集权化重构** 随着美国通过《2002 年[[Education Sciences Reform Act 2002|教育科学改革法]]》设立 IES，联邦政府撤并了分散在各大学的 16 个专业清算所，将采购、编目与网络运维集中化，建立了统一管理的单点在线门户与更严格的同行评议文献遴选标准。
 > - **2015 年至今 — [[Every Student Succeeds Act\|ESSA]] 循证浪潮下的公共证据中枢** 作为免费公开的国家公共数字文献库，与 [[What Works Clearinghouse\|WWC]]、[[Evidence for ESSA]] 等专用证据分级平台相互补充，成为学区管理者与科研人员检索因果[[Experimental Research\|实验研究]]与全量证据体的基础平台。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, p. 171)]]
 
 ---

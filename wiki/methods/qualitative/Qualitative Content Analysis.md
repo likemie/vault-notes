@@ -9,7 +9,7 @@ summary: "将规则主导的系统性程序与质性诠释深度融合的文本�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 52
+method_related_count: 53
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Operationalization]]"
   - "[[Saturation]]"
+  - "[[Recontextualization]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
   - "[[Classroom Management]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-09-22
+updated: 2026-09-27
 ---
 
 # Qualitative Content Analysis
@@ -172,7 +173,7 @@ flowchart LR
 1. **划定待解构的模糊段落** 精确圈定存在语义障碍或矛盾陈述的文本切片；
 2. **窄语境检验（Narrow Context）** 仔细审视该语句前后紧邻的段落、对话上下文与副语言线索（如停顿、叹息、语气转变）；
 3. **宽语境发掘（Broad Context）** 调取文本之外的社会历史背景、作者生平传记、机构规章制度以及[[Qualitative Observation|田野观察]]备忘录；
-4. **拟定阐释释义陈述** 结合双重语境重构该片段的真实意涵，消除歧义性；
+4. **拟定阐释释义陈述** 结合双重[[Recontextualization|语境重构]]该片段的真实意涵，消除歧义性；
 5. **形成解释性备忘条目** 将澄清后的意涵纳为正式的分析证据。
 
 ---

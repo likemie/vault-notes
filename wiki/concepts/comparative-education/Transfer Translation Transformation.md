@@ -22,11 +22,11 @@ related_concepts:
   - "[[Shape-Shifting]]"
   - "[[Data Infrastructure]]"
   - "[[Champ]]"
+  - "[[Recontextualization]]"
   - "[[Policy Borrowing]]"
   - "[[Space of Flows and Space of Places]]"
   - "[[Going Native]]"
   - "[[Cross-National Attraction]]"
-  - "[[Recontextualization]]"
   - "[[Praxis]]"
   - "[[Floating Signifier]]"
   - "[[Paradigm]]"
@@ -98,7 +98,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 
 # Transfer Translation Transformation
@@ -115,7 +115,7 @@ updated: 2026-09-24
 > [!concept-lens] 概念透镜
 > - **含义** 将复杂的教育知识跨国流动分解为三个串联的分析切片：物理空间跨越（转移）、本土文本重[[Coding in Qualitative Research\|编码]]（转译）与本土权力[[Champ\|场域]]重塑（转化）。
 > - **用途** 提供分析教育政策跨国借用时意义扭曲与形态变形的系统工具，避免了将转移简化为单纯“成功/失败”或“忠实/误读”的二元评价。
-> - **边界** 涵盖从空间移动、本土内化到语境重构的完整生命周期；非静态的[[Policy Borrowing\|政策借用]]模式，可与空间社会学（如[[Space of Flows and Space of Places\|流动空间]]）与[[Wight's Three Traditions of International Theory\|国际关系理论]]有机结合。
+> - **边界** 涵盖从空间移动、本土内化到[[Recontextualization|语境重构]]的完整生命周期；非静态的[[Policy Borrowing\|政策借用]]模式，可与空间社会学（如[[Space of Flows and Space of Places\|流动空间]]）与[[Wight's Three Traditions of International Theory\|国际关系理论]]有机结合。
 
 > [!citation-card] 罗伯特·考恩论空间移动与太空门时刻
 > 转移是教育思想或实践在超国家、跨国或国际空间中的移动，即太空门时刻。（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 255]]）

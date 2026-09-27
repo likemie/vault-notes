@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 
 # Pragmatic Paradigm
@@ -238,5 +238,5 @@ updated: 2026-09-24
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 详述实用主义作为[[Mixed Methods Research\|混合方法研究]]取向的哲学前提与[[Fitness for Purpose\|适合目的]]原则。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 阐释实用主义世界观（Pragmatic Worldview）在研究设计与方法选择中的具体应用。
-> - [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]] — 揭示实用主义[[Paradigm\|范式]]（民主目标与渐进方法）在民国中国跨国转移中的拆解与本土重构。
+> - [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]] — 揭示实用主义[[Paradigm\|范式]]（民主目标与渐进方法）在民国中国跨国转移中的拆解与[[Recontextualization|本土重构]]。
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 追踪实用主义范式在建国后中国教育政治话语中的三重变形。

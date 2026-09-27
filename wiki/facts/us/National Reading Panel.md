@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 35
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Scientifically Based Research]]"
   - "[[Document]]"
   - "[[Teaching Assistant]]"
+  - "[[Teacher Professional Agency]]"
   - "[[Causality]]"
   - "[[Decodification]]"
   - "[[Evidence Standards]]"
@@ -40,7 +41,6 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Professional Judgment]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Teacher Professional Agency]]"
 related_theories:
   - "[[Elite Theory]]"
   - "[[Subgovernment Theory]]"
@@ -59,17 +59,19 @@ related_persons:
 related_facts:
   - "[[National Institute of Child Health and Human Development]]"
   - "[[Reading Excellence Act]]"
+  - "[[House Committee on Education and the Workforce]]"
   - "[[National Research Council]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Schulen im Team]]"
   - "[[Open Court Reading]]"
-  - "[[House Committee on Education and the Workforce]]"
   - "[[International Reading Association]]"
 related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
+  - "[[Argument_Eisenhart_Towne_2003_ER]]"
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-09-26
+updated: 2026-09-27
 ---
 
 # National Reading Panel
@@ -82,7 +84,7 @@ updated: 2026-09-26
 > 国家阅读委员会（National Reading Panel, NRP）是根据美国国会法令授权，由[[National Institute of Child Health and Human Development|国家儿童健康与人类发展研究所]]（NICHD）协同联邦教育部于 1997 年正式召集的国家级法定科学咨询委员会。其核心法定使命是对全美现有阅读教学实证研究展开系统性评估，确立国家认可的阅读教学科学规范，为联邦早期阅读立法与数百亿美元财政拨款提供排他性的循证证据基准。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–10)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1997 年由国会指令正式召集，直接呼应了《[[Reading Excellence Act|卓越阅读法案]]》（REA）立法进程中对“[[Scientifically Based Research|科学本位研究]]”的制度化诉求。国会要求 NICHD 联合教育部组织跨学科专家，彻底平息旷日持久的“阅读战争”。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 9–10)]]
+> - **成立时间 / 创设背景** 1997 年由国会指令正式召集，直接呼应了《[[Reading Excellence Act|卓越阅读法案]]》（REA）立法进程中对“[[Scientifically Based Research|科学本位研究]]”的制度化诉求。时任[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]主席比尔·古德林（Bill Goodling）及其资深幕僚罗伯特·斯威特（Robert Sweet）急于在立法中建立科研指导教学的硬性纽带，恰逢[[National Research Council|国家研究委员会]]（[[National Research Council]], NRC）斯诺团队出版《预防幼儿阅读困难》（Snow et al., 1998）；国会遂指令 NICHD 联合教育部组织专门委员会，旨在系统梳理实证研究以彻底平息旷日持久的“阅读战争”。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 32)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 9–10)]]
 > - **总部地点 / 业务辐射** 依托马里兰州贝塞斯达的 NICHD 总部开展常设会务，其发布的报告与规程辐射全美 50 州的公立 K-12 学校系统、师资培训大学及联邦资助项目。
 > - **法人属性与经费基础** 联邦政府特设法定咨询专家机构，活动经费由联邦国会专项拨款及 NICHD 预算全额支持。
 > - **核心宗旨与法定职责** 审查全美已发表的儿童阅读科研[[Document|文献]]；筛选符合严格科学标准的实证研究；提炼基于实证证据的有效阅读教学方法；向美国国会、白宫及教育部长提交综合评估报告。
@@ -92,9 +94,9 @@ updated: 2026-09-26
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1997–1998 — 筹建与专家选拔期** 美国国会通过拨款法案指令成立 NRP。美国国家科学院（NAS）与[[National Research Council|国家研究委员会]]（NRC）高级官员亚历山德拉·威格多（Alexandra Wigdor）与 [[National Institute of Child Health and Human Development|NICHD]] 负责人[[G. Reid Lyon|里德·里昂]]（G. Reid Lyon）主导遴选规则，确立“以专业知识为唯一标准、将政治意识形态关在门外”的专家准入原则，最终组建由马里兰大学校长唐纳德·兰根伯格（Donald N. Langenberg）为主席的 14 人专家委员会。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 9–10)]]
+> - **1997–1998 — 筹建与专家选拔期** 美国国会通过拨款法案指令成立 NRP。美国国家科学院（NAS）与[[National Research Council|国家研究委员会]]（NRC）高级官员亚历山德拉·威格多（Alexandra Wigdor）与 [[National Institute of Child Health and Human Development|NICHD]] 负责人[[G. Reid Lyon|里德·里昂]]（G. Reid Lyon）主导遴选规则，确立“以专业知识为唯一标准、将政治意识形态关在门外”的专家准入原则，最终组建由马里兰大学校长唐纳德·兰根伯格（Donald N. Langenberg）为主席的 14 人专家委员会。与此同时，国会资深幕僚斯威特查阅包括 NRC 在内的科研机构资料并咨询 20–25 位认知心理学专家，将 NRP 关注的拼读与实验标准内化为 [[Reading Excellence Act|REA]] 的法定定义。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 32)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 9–10)]]
 > - **1998–2000 — 循证审查与里程碑报告发布** 委员会召开多次全国公开听证会，设立语音意识、拼读、流畅性、词汇、理解及计算机辅[[Teaching Assistant|助教]]学等亚专业小组。2000 年 4 月，委员会向国会正式提交旗舰报告《教儿童阅读：阅读科学[[Document|文献]]的循证评估及其对教学的启示》（*Teaching Children to Read*），确立了著名的“五大阅读支柱”（Big Five）。委员会任务完成后于 2000 年底正式解散。
-> - **2001–至今 — 制度化遗产与政治化发酵** NRP 报告的审查标准与核心结论被小布什政府几乎原封不动写入 2001 年《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB），直接催生了年均预算达 10 亿美元的“阅读优先”（Reading First）联邦专项拨款，成为塑造 21 世纪美国识字教育政策的最核心制度遗产。
+> - **2001–至今 — 制度化遗产与政治化发酵** NRP 报告的审查标准与核心结论被小布什政府几乎原封不动写入 2001 年《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB），直接催生了年均预算达 10 亿美元的“阅读优先”（Reading First）联邦专项拨款，成为塑造 21 世纪美国识字教育政策的最核心制度遗产。但在随后实施中，该标准的排他性实验偏好引发了关于限制学术多元与[[Teacher Professional Agency|教师专业自主权]]的激烈反弹。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 31–33)]]
 
 ---
 
@@ -127,7 +129,7 @@ updated: 2026-09-26
 > [!citation-card] 遴选专家的精英主义准则宣示（Alexandra Wigdor, 1998）
 > 我们的委员会成员纯粹依据其专业知识（expertise）进行选拔，仅此而已……这是首要准则。在此前提下，我们力求在年龄、区域、族裔及相关科学家谱系上保持多元，但最根本的标准始终是专业知识。成员出席委员会并非代表任何团体、利益共同体或既定政策立场；事实上，我们要求所有人把各自的政治主张留在门外。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 9)]]
 >
-> *Members of our committees are selected for their expertise, period… That is the first criterion. Given that we then select members to try to have a rich and valuable representation of age, region, ethnicity, and obviously the various scientists that need to be there but the primary criterion is always expertise. Members do not sit on our committee as representative of any group or any community of interests, or any policy position and, indeed, we ask that you leave politics at the door.*
+> *Members of our committees are selected for their expertise, period… That is the first criterion. Given that we then select members to try to have a rich and valuable representation of age, region, ethnicity, and obviously the various scientists that need to be there but the primary criterion is always expertise. Members do not [[Schulen im Team|SiT]] on our committee as representative of any group or any community of interests, or any policy position and, indeed, we ask that you leave politics at the door.*
 
 ---
 

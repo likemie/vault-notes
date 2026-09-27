@@ -12,9 +12,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 31
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 32
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
 initiator_organization: "美国联邦教育部（U.S. Department of Education, ED）"
 period: "2009–2016"
@@ -54,6 +54,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Success for All]]"
   - "[[Bill & Melinda Gates Foundation]]"
+  - "[[Education Sciences Reform Act 2002]]"
   - "[[Reading Recovery]]"
   - "[[Institute of Education Sciences]]"
   - "[[National Center for Education Evaluation and Regional Assistance]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-09-26
+updated: 2026-09-27
 ---
 
 # Investing in Innovation Program
@@ -100,7 +101,7 @@ updated: 2026-09-26
 > [!policy-design]- 方案设计与管理细则
 > - **项目目标** 孵化有前途的草根创新教学法，验证具备中等效应的干预措施，并向全国推广已被严格证明能显著提升弱势学生[[Academic Achievement\|学业成绩]]的成熟全校改革方案（如 全员成功方案（[[Success for All]], SFA））。
 > - **资金杠杆效应** 强制要求私人慈善配比，撬动了彭博慈善基金会、[[Bill & Melinda Gates Foundation|盖茨基金会]]等跨国慈善资本共同注入公共教育实证试验。
-> - **评估监管要求** 依据 2002 年《教育科学改革法案》（Education Sciences Reform Act, ESRA），受资助者必须指定独立于自身的第三方评估团队采集数据并向教育部提交最终评估报告。
+> - **评估监管要求** 依据 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]案》（Education Sciences Reform Act, ESRA），受资助者必须指定独立于自身的第三方评估团队采集数据并向教育部提交最终评估报告。
 
 > [!citation-card] 核心方案条文／立项纲要
 > 创新投资项目（i3）开创性地将公共资金配置与严谨的因果证据层级深度绑定。到 2016 年收官时，i3 共资助了 171 个项目，耗资逾 14 亿美元，其中绝大部分资金被刚性投向针对这些干预方案的第三方、通常为[[Random Assignment\|随机分配]]的评估。这不仅彻底重构了美国教育研发管线，更为随后《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）确立国家循证标准奠定了基石。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 23–24)]]
@@ -160,7 +161,7 @@ updated: 2026-09-26
 > > [!axis] 委托机制与[[Evaluator Independence\|评估者独立性]]漏洞：美国 i3 模式 vs 英国 [[Education Endowment Foundation\|EEF]] 模式对比
 > > 关于评估机构受雇于被评估项目开发者所导致的潜在利益冲突与方法学妥协。
 > >
-> > - **美国 i3 模式缺陷** 美国 ESRA 法案虽要求由外部专家开展评估，但在 i3 具体操作中由受资助者自行选聘评估团队并管理预算，导致评估者受制于开发者的商业考量，难以坚持高难度的严格 [[Randomised Controlled Trials\|RCT]]。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 50)]]
+> > - **美国 i3 模式缺陷** 美国 [[Education Sciences Reform Act 2002|ESRA]] 法案虽要求由外部专家开展评估，但在 i3 具体操作中由受资助者自行选聘评估团队并管理预算，导致评估者受制于开发者的商业考量，难以坚持高难度的严格 [[Randomised Controlled Trials\|RCT]]。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 50)]]
 > > - **英国 EEF 独立中介创新** 英国 EEF 吸取了 i3 漏洞，建立彻底的三方资助隔离机制：由中介机构直接向独立专家库招标，分别与开发者和评估团队签订相互独立的法律合同，强制保障了 89% 的项目采用大样本 RCT，且 85% 达成[[Attrition\|流失]]率低于 30% 的高安全水准。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 51)]]
 
 > [!lessons] 经验教训与启示

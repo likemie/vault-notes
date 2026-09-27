@@ -8,9 +8,9 @@ summary: "以故事为意义建构与表达的基本形式，通过时间序列�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 18
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Emergence]]"
   - "[[Abstract]]"
+  - "[[Paradigm]]"
   - "[[Causality]]"
 related_theories: []
 related_methods:
@@ -35,13 +36,15 @@ related_methods:
   - "[[Stories as Research Data]]"
   - "[[Correlational Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Education Sciences Reform Act 2002]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29]]"
+  - "[[Argument_Eisenhart_Towne_2003_ER]]"
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-09-17
+updated: 2026-09-28
 ---
 
 # Narrative Analysis
@@ -105,10 +108,11 @@ updated: 2026-09-17
 
 ## 局限性
 
-> [!method-limits] 方法局限
+> [!method-limits] 方法局限与政策遭遇
 > - **偏误来源** 叙事与传记无法记录所有事件，选择性聚焦取决于研究者判据，可能带来选择性。
 > - **适用边界** 叙事分析须权衡整体与碎片化的张力；[[Coding in Qualitative Research\|编码]]式分析可能使文本脱离语境（disembodied text），叙事则保留文本与内容的整合。
 > - **误用风险** 把叙事当作可推广的事实；忽略研究者自身建构叙事的[[Reflexivity\|反身性]]问题。
+> - **政策制定中的法定贬抑与[[Paradigm|范式]]抗辩** 在美国 2000 年卡斯尔草案（H.R. 4875, Sec. 6）中，叙事分析被直接点名定性为“源自人文学科历史传统”的数据收集与分析方式，在成文法中被明文贬抑为仅在因素“尚未充分提炼、理解或无法进行实验控制时”使用的“初步形式”（Preliminary Form），要求事后必须通过量化[[Hypothesis|假设]]检验予以补充确证；直至 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）在学界抗争下彻底删除歧视性清单，确立了“方法契合所提问题”的统一科学标准（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 33–34]]）。
 > - **补救方式** 以忠实于文本为检验标准，考虑替代诠释，配研究者的诠释性评论与反身性。
 
 ## 相关理论与方法
@@ -127,3 +131,4 @@ updated: 2026-09-17
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|Cohen et al. (2011, Ch. 29)]] — 系统介绍叙事与传记分析进路：以 Bruner 的故事理论、Labov 的叙事结构、传记的时序重构与最终叙事的多种建构方式说明如何以叙事形式组织质性数据。
+> - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] — 记录美国 2000 年卡斯尔草案（H.R. 4875）将叙事分析法定定性为“源自人文学科传统、仅在因素无法控制时采用的初步形式”的立法史料，论证学术界如何依托六大科学探究原则反驳这种等级规制（pp. 33–34）。

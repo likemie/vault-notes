@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 8
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -28,22 +28,26 @@ tags:
   - level/higher-education
 related_concepts:
   - "[[Normal School]]"
+  - "[[Scientifically Based Research]]"
+  - "[[Hypothesis]]"
   - "[[International Education]]"
 related_theories:
   - "[[Navigational Framework for Educational Researchers]]"
 related_methods: []
 related_facts:
   - "[[Elementary and Secondary Education Act of 1965]]"
+  - "[[Reading Excellence Act]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Every Student Succeeds Act]]"
   - "[[House Committee on Education and the Workforce]]"
 related_arguments:
   - "[[Argument_Serpell_2020_EP]]"
+  - "[[Argument_Eisenhart_Towne_2003_ER]]"
 related_persons: []
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-09-22
+updated: 2026-09-27
 ---
 
 # Higher Education Act of 1965
@@ -56,7 +60,7 @@ updated: 2026-09-22
 > - **发布时间 / 发布主体** 1965 年 11 月 8 日由林登·约翰逊（Lyndon B. Johnson）总统在其母校西南得克萨斯州立[[Normal School\|师范学院]]签署生效（公法编号：P.L. 89-329），由美国第 89 届国会通过。
 > - **适用地区 / 对象** 全美四年制公私立大学、两年制社区学院、职业技术院校、在校本专科生与研究生、中低收入家庭学生以及少数族裔服务高校。
 > - **问题背景** 20 世纪 60 年代伴随二战后婴儿潮与民权运动深化，全美对高等教育大众化的需求急剧上升，但高昂学费构成了低收入家庭与少数族裔学生不可逾越的门槛。约翰逊政府将高等教育视作实现“伟大社会”（Great Society）与“向贫困宣战”（War on Poverty）的根本阶梯，通过立法确立联邦政府对保障高等教育机会均等与经济可负担性的法定兜底责任。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 41)]]
-> - **制度位置** 属于美国联邦高等教育治理的根本母法，与主管中小学基础教育的《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]（Elementary and Secondary Education Act of 1965, ESEA）》并立为 1965 年联邦教育立法的两大基石支柱。
+> - **制度位置与功能定性** 属于美国联邦高等教育治理的根本母法，与主管中小学基础教育的《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]（Elementary and Secondary Education Act of 1965, ESEA）》并立为 1965 年联邦教育立法的两大基石支柱。在制度功能上，HEA 属于典型的“服务支出规制法案”（Service Statute）：其立法核心在于为受助高校和机构使用联邦公共资金提供教育服务划定合规边界；在后续再授权过程中，该法亦吸收了 1998 年《[[Reading Excellence Act|卓越阅读法]]》确立的“[[Scientifically Based Research|科学本位研究]]”模式，要求师资培训等受资助项目必须证明其采购方案符合严格实证[[Hypothesis|假设]]检验。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]
 
 ---
 

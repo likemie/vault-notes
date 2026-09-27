@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: parliamentary-committee
 headquarters: "Washington, D.C., USA"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Gatekeepers]]"
   - "[[Paradigm]]"
+  - "[[Research Question]]"
   - "[[Blue Skies Research]]"
   - "[[Document]]"
   - "[[Research Utilization]]"
@@ -36,6 +37,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[G. Reid Lyon]]"
+  - "[[Richard J. Shavelson]]"
   - "[[Russell J. Skiba]]"
 related_facts:
   - "[[Institute of Education Sciences]]"
@@ -43,16 +45,19 @@ related_facts:
   - "[[Higher Education Act of 1965]]"
   - "[[Reading Excellence Act]]"
   - "[[National Institute of Child Health and Human Development]]"
+  - "[[Education Sciences Reform Act 2002]]"
+  - "[[National Research Council]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Open Court Reading]]"
 related_arguments:
   - "[[Argument_Serpell_2020_EP]]"
+  - "[[Argument_Eisenhart_Towne_2003_ER]]"
   - "[[Argument_Edmondson_2005_EPAA]]"
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-24
+updated: 2026-09-27
 ---
 
 # House Committee on Education and the Workforce
@@ -77,7 +82,8 @@ updated: 2026-09-24
 > [!dev-timeline] 组织发展历程
 > - **1867–1964 — 奠基与战后教育联邦化前夕** 经历了从单一的教育咨询向实质性立法权的过渡，在二战后主导审议了著名的退伍军人权利法案（G.I. Bill）与《国防教育法》（NDEA 1958），开启了联邦资金直接干预地方教育的先河。
 > - **1965–1996 — 伟大社会民权立法与大发展** 在林登·约翰逊总统“伟大社会”计划推动下，委员会主导起草并审议了奠定当代联邦教育治理格局的两大基石：《1965 年[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]》（ESEA）和《[[Higher Education Act of 1965\|高等教育法]]》（HEA），确立了联邦支持贫困儿童受教育权的民权导向。
-> - **1997–1998 — 主导《[[Reading Excellence Act|卓越阅读法案]]》确立科研规制先例** 委员会主席比尔·古德林（Bill Goodling）提出 H.R. 2614，全面采信 [[National Institute of Child Health and Human Development|NICHD]] 行政官员[[G. Reid Lyon|里德·里昂]]的拼读与实验[[Paradigm|范式]]听证证词，以口头表决强推法案并规避十万名教师的抗议信，开创了联邦法律对学科教学法与科研范式实施排他性管辖的先河。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 6–8)]]
+> - **1997–1998 — 主导《[[Reading Excellence Act|卓越阅读法案]]》确立科研规制先例** 委员会主席比尔·古德林（Bill Goodling）急于建立科研与政策的纽带，资深多数党幕僚罗伯特·斯威特（Robert Sweet）查阅华盛顿研究机构网站并咨询 20–25 位认知心理学学者草拟了“科学本位阅读研究”（SBRR）的初始法定定义；委员会全面采信 [[National Institute of Child Health and Human Development|NICHD]] 行政官员[[G. Reid Lyon|里德·里昂]]的实验[[Paradigm|范式]]听证证词，以口头表决强推法案（P.L. 105-277），开创了以方法学清单规制联邦服务支出的立法先例。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 32)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 6–8)]]
+> - **2000–2002 — 主导 OERI 改革与《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）立法博弈** 委员会资深成员迈克尔·卡斯尔（Michael Castle）提出 H.R. 4875，试图确立量化实验与质性初步探索的二元割裂标准；经[[National Research Council|国家研究委员会]]（[[National Research Council]], NRC）代表[[Richard J. Shavelson|理查德·沙维尔森]]（Richard Shavelson）在教育改革小组委员会听证会上的严正质证，委员会最终摒弃预设方法清单，主导通过了确立“方法契合[[Research Question|研究问题]]”的《[[Education Sciences Reform Act 2002|教育科学改革法]]》（H.R. 3801 / P.L. 107-279），正式设立 [[Institute of Education Sciences|IES]]。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–34)]]
 > - **2001–至今 — 循证问责与现代联邦再平衡** 主导了 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）的剧烈两党辩论，将“科学[[Blue Skies Research\|基础研究]]”与高利害问责写入法典；并在 2015 年主导起草并全票通过《[[Every Student Succeeds Act\|每个学生成功法]]》（ESSA），实现了联邦强权与州级自主的再平衡。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 43–45)]]
 
 ---
@@ -86,8 +92,8 @@ updated: 2026-09-24
 
 > [!actor-grid] 组织治理架构
 > - **委员会领导层（Leadership）** 由多数党推选的委员会主席（Chair）与少数党首席议员（Ranking Member）共同执掌，负责排定立法日程、指定听证会议题并掌控法案表决节奏。
-> - **专门小组委员会（Subcommittees）** 下设早期教育、初等与中等教育小组委员会（Early Childhood, Elementary, and Secondary Education）、高等教育与劳动力发展小组委员会、劳工保护小组委员会等，承担具体法案的逐条质询与证据审查。
-> - **常设专业幕僚团队（Committee Staff）** 包括两党各自聘任的高级政策主任、立法法律顾问（Counsel）与资深研究分析员。这些幕僚多拥有法学博士或教育政策顶尖博士学位，任期稳定，是立法语言与学术证据的核心[[Gatekeepers\|把关人]]。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]] 与此同时，部分资深多数党幕僚（如罗伯特·斯威特 / Robert Sweet）同时担任全国正确阅读基金会（NRRF）主席并深度关联教科书出版巨头，其通过政商旋转门直接主导起草了法案中具有商业排他性的条文定义。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 6, 8)]]
+> - **专门小组委员会（Subcommittees）** 下设早期教育、初等与中等教育小组委员会（Early Childhood, Elementary, and Secondary Education）、教育改革小组委员会（Subcommittee on Education Reform）、高等教育与劳动力发展小组委员会等，承担具体法案的逐条质询与证据审查。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 34)]]
+> - **常设专业幕僚团队（Committee Staff）** 包括两党各自聘任的高级政策主任、立法法律顾问（Counsel）与资深研究分析员。这些幕僚多拥有法学博士或教育政策顶尖博士学位，任期稳定，是立法语言与学术证据的核心[[Gatekeepers\|把关人]]。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]] 与此同时，部分资深多数党幕僚（如罗伯特·斯威特 / Robert Sweet）受主席委派在数月内独立草拟法定科学定义，同时兼任全国正确阅读基金会（NRRF）主席并深度关联教科书出版巨头，其通过政商旋转门直接影响了法案中具有商业排他性的条文定义。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 32)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 6, 8)]]
 > - **专家证人与咨询网络** 在举行重大听证会时，依法由多数党和少数党分别延请权威学者、智库领袖及一线实践者到场作证。
 
 > [!pathways]- 业务运行机制

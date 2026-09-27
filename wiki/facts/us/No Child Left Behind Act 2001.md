@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 57
+fact_related_count: 63
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -42,6 +42,8 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[Knowledge Production]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Hypothesis]]"
+  - "[[Research Question]]"
   - "[[Causality]]"
   - "[[Internal Validity]]"
   - "[[Phronesis]]"
@@ -54,6 +56,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Intervention Research]]"
   - "[[Questionnaire]]"
+  - "[[Standard Error]]"
   - "[[Experimental Research]]"
 related_persons: []
 related_facts:
@@ -61,6 +64,7 @@ related_facts:
   - "[[National Assessment of Educational Progress]]"
   - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[Every Student Succeeds Act]]"
+  - "[[Reading Excellence Act]]"
   - "[[Comprehensive School Reform Program]]"
   - "[[Adequate Yearly Progress]]"
   - "[[American Educational Research Association]]"
@@ -72,10 +76,12 @@ related_facts:
   - "[[OECD]]"
   - "[[Danish Clearinghouse for Educational Research]]"
   - "[[Kenniskamer]]"
+  - "[[Education Sciences Reform Act 2002]]"
   - "[[Institute of Education Sciences]]"
 related_arguments:
   - "[[Argument_Slavin_2002_ER]]"
   - "[[Argument_Hattie_2005_ACER]]"
+  - "[[Argument_Eisenhart_Towne_2003_ER]]"
   - "[[Argument_Serpell_2020_EP]]"
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Downey_2016_SoE]]"
@@ -90,7 +96,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-26
+updated: 2026-09-27
 ---
 
 # No Child Left Behind Act 2001
@@ -103,7 +109,7 @@ updated: 2026-09-26
 > - **发布时间 / 发布主体** 2001 年由美国国会通过，乔治·沃克·布什（George W. Bush）总统于 2002 年 1 月签署颁布，是布什政府第一项重大国内立法倡议。([[Argument_Slavin_2002_ER\|Slavin, 2002, pp. 15–16]])
 > - **适用地区 / 对象** 全美公立初等与中等教育学校（K–12），重点覆盖接受 [[Title I of the Elementary and Secondary Education Act\|Title I]] 联邦专项资助的高贫困学校及各学区。
 > - **问题背景与资源悖论** 旨在回应 1990 年代以来全美对学生[[Academic Achievement\|学业成就]]差距与教育质量平庸的担忧。埃里克·汉努舍克（Eric Hanushek, 2005）的实证考证揭示了深层动因：1960 至 2000 年间，全美公立学校生均实际支出激增 240%（从 \$2,235 升至 \$7,591 美元），生师比从 25.8 降至 17.3，硕士学历师资占比翻倍（24% 升至 56%），但全美教育进展评估（[[National Assessment of Educational Progress|NAEP]]）17 岁学生的读写、数学与科学成绩在过去 30 年中呈现近乎完全平缓的停滞曲线；巨额财政投入与学业产出的严重脱钩引发了公众与政界的系统性焦虑，倒逼国会推行严苛的高利害测试问责。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 12–13)]]
-> - **制度位置** 政策是对 1965 年《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]（Elementary and Secondary Education Act of 1965, ESEA）》的重大重新授权，是美国联邦教育法历史上干预性最强的一版，也是后续《[[Every Student Succeeds Act\|每一个学生成功法案]]（Every Student Succeeds Act, ESSA 2015）》的直接前身。依据美国宪法第十修正案，联邦政府无权直接决定课程与教学基准，法案通过强化 ESEA 第一条款（[[Title I of the Elementary and Secondary Education Act\|Title I]]）补偿性专项拨款的法定前置约束，开启了联邦以刚性财政杠杆强推实证标准与绩效问责的历史纪元。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 41)]]
+> - **制度位置与功能属性** 政策是对 1965 年《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]（Elementary and Secondary Education Act of 1965, ESEA）》的重大重新授权，是美国联邦教育法历史上干预性最强的一版，也是后续《[[Every Student Succeeds Act\|每一个学生成功法案]]（Every Student Succeeds Act, ESSA 2015）》的直接前身。在制度功能上，NCLB 属于典型的“服务支出规制法案”（Service Statute）：其立法核心在于规约受助学区如何使用联邦数百亿美元公帑购买教学服务；依据美国宪法第十修正案，联邦无权直接规定地方课程，因此法案通过将 1998 年《[[Reading Excellence Act|卓越阅读法案]]》确立的“[[Scientifically Based Research|科学本位研究]]”表述高密度平移（全文 110 次提及），以刚性财政支出审查杠杆强推实证控制与高利害问责。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]; [[Argument_Serpell_2020_EP|(Serpell, 2020, p. 41)]]
 
 ---
 
@@ -123,8 +129,11 @@ updated: 2026-09-26
 > - **规制型治理进路（Regulatory Approach）** 法案采取了典型的规制型政策进路，设定强制性法定框架以监督并纠正违规办学行为；将[[Scientifically Based Research\|基于科学的研究]]与单一量化达标作为拨款准入的硬性门槛，明确规定了严苛的不达标惩戒后果。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 41)]]
 > - **约束机制** 实行严格的学年[[Adequate Yearly Progress|充分学业进展]]（Adequate Yearly Progress, AYP）绩效问责制；对未达标学校实施阶梯式行政与财务制裁（包括学生转学、补充教育服务、重组管理层直至学校关闭）；要求获得联邦资助的教学项目必须严格符合“[[Scientifically Based Research\|科学本位研究]]”标准。
 
+> [!figure]- 图 1　NCLB 法案中关于科学本位研究的法定定义（Title IX, Sec. 9101(37)）
+> ![](https://img.mylikemie.icu/sources/Eisenhart_Towne_2003_ER/figures/Eisenhart_Towne_2003_ER_Fig3_NCLB_Definition_SBR.jpg)
+
 > [!citation-card] 关键条文：科学本位研究法定定义
-> “采用严格、系统和客观程序以获得有效知识的研究”，包括“使用实验或准实验设计进行评估”的研究，最好使用[[Random Assignment\|随机分配]]。(U.S. Congress, 2001, cited in [[Argument_Slavin_2002_ER\|Slavin, 2002, p. 16]])
+> “采用严格、系统和客观程序以获得有效知识的研究”，包括“使用实验或准实验设计进行评估”的研究，最好使用[[Random Assignment\|随机分配]]。(U.S. Congress, 2001, cited in [[Argument_Slavin_2002_ER\|Slavin, 2002, p. 16]]; [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, p. 34]])
 >
 > *"The term 'scientifically based research' means research that involves the application of rigorous, systematic, and objective procedures to obtain reliable and valid knowledge relevant to education activities and programs... includes experimental or quasi-experimental designs... with a preference for random-assignment experiments."*
 
@@ -164,7 +173,7 @@ updated: 2026-09-26
 > - **制度异化催生“竞相向下沉沦”并反向催化 [[Common Core State Standards|CCSS]] 运动** [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013, pp. 8–9)]] 考证指出，NCLB 严苛的高利害 [[Adequate Yearly Progress|AYP]] 问责与各州自主划定熟练线相结合，诱发了全美范围内的“竞相向下沉沦”（race to the bottom）。各州为制造达标假象不断降低及格门槛，致使州立测验通过率与 [[National Assessment of Educational Progress|NAEP]] 真实表现产生巨大断层（NCES, 2007）。这一由联邦政策逆向激励催生的国家教育质量信任危机，成为了政策倡导者（如国家州长协会 [[National Governors Association|NGA]]、[[Council of Chief State School Officers|州首席教育官理事会]] CCSSO）将政策议程转向制定自愿性国家标准（CCSS）的关键证据催化剂。
 > - **催生并固化第一代[[Data-Based Decision Making|基于数据的决策]]模式** [[Argument_Brown_2017_ER|Brown et al. (2017, p. 157)]] 考证指出，现代[[Data-Based Decision Making|基于数据的决策]]（DBDM）历史发源于美国的问责政策，尤其是 NCLB 的出台将数据使用强制绑定于大规模标准化考试成绩与行政达标监控，催生了以终结性测试和高利害奖惩为特征的第一代 DBDM [[Paradigm|范式]]。这一模式不仅确立了数据作为学校治理核心依据的国际潮流，其过于窄化的唯分数论缺陷也直接倒逼后续国际学界（如荷兰与瑞典的[[Data Team Intervention|数据团队]]项目）反思并转向形成性改进与协作探究。
 > - **开启[[Evidence-Based Education|循证教育]]政策规范化进程** NCLB 首次将“研究必须指导实践”确立为联邦法定义务，全文 110 次强调“[[Scientifically Based Research|科学本位研究]]”，为后续[[What Works Clearinghouse|WWC]]的设立以及 [[Every Student Succeeds Act|ESSA]] 四级证据框架奠定了制度基石。相比 NCLB 时代的模糊表述，后续体系将实验证据正式转化为了各州采购与项目审核的可操作门槛。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, p. 109)]]; [[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–24)]]
-> - **法定授权与经常性预算形成的制度护城河** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022, pp. 64–65)]] 纵向追踪[[OECD|经合组织]] 2007 年考察的 6 家标杆[[Educational Brokerage Agency|知识中介机构]]在 15 年间的存续演变发现，绝大多数机构因受制于政党更迭与 2 至 3 年短期专项拨款周期而陷入关停或休眠（如[[Danish Clearinghouse for Educational Research|丹麦教育研究清算中心]]因合同未续关停、加拿大[[Lifelong Learning|终身学习]]委员会因联邦拨款撤销而解散、[[Kenniskamer|荷兰教育部知识室]]因部长离任停摆）。唯有美国的 [[What Works Clearinghouse|WWC]] 依托 NCLB 及 2002 年《教育科学改革法》（Education Sciences Reform Act, ESRA）确立的法定强制授权与经常性联邦专项预算，成功跨越了政治选举周期与短期财政紧缩的剧烈冲击，证明国家立法授权与制度化经常性预算是保障证据中介机构长期存续的根本制度护城河。
+> - **法定授权与经常性预算形成的制度护城河** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022, pp. 64–65)]] 纵向追踪[[OECD|经合组织]] 2007 年考察的 6 家标杆[[Educational Brokerage Agency|知识中介机构]]在 15 年间的存续演变发现，绝大多数机构因受制于政党更迭与 2 至 3 年短期专项拨款周期而陷入关停或休眠（如[[Danish Clearinghouse for Educational Research|丹麦教育研究清算中心]]因合同未续关停、加拿大[[Lifelong Learning|终身学习]]委员会因联邦拨款撤销而解散、[[Kenniskamer|荷兰教育部知识室]]因部长离任停摆）。唯有美国的 [[What Works Clearinghouse|WWC]] 依托 NCLB 及 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（Education Sciences Reform Act, ESRA）确立的法定强制授权与经常性联邦专项预算，成功跨越了政治选举周期与短期财政紧缩的剧烈冲击，证明国家立法授权与制度化经常性预算是保障证据中介机构长期存续的根本制度护城河。
 > - **“基于研究”与“经过评估”的本质混淆** [[Argument_Slavin_2002_ER|Slavin (2002, pp. 18–19)]] 在法案生效之初便尖锐指出，任何教育项目都能声称自身符合“科学本位研究”的某种抽象原理，导致该标准无法过滤劣质干预。Slavin 提出著名的“莱特兄弟类比”：其他航空发明家同样依据真实的流体力学科学原理，但只有莱特兄弟的飞机真正离开地面并经过反复测试。教育改革需要的是项目本身在真实课堂经受严格实验评估并证明有效，而非仅借用科学理论的概念包装。
 > - **高利害问责反噬与系统性治理异化** [[Argument_Zhao_2017_JEC|Zhao (2017, pp. 13–15)]] 与 [[Argument_Serpell_2020_EP|Serpell (2020, p. 41)]] 考证指出，高利害问责将标准化测验分数与教师考核、[[Performance Pay|绩效工资]]及学校关停直接绑定，在严苛达标压力下引发了坎贝尔定律（Campbell's Law）视角下的系统性异化：约 10% 的管理者与教师迫于压力存在篡改答案与泄题等作弊行为，并在佐治亚州亚特兰大等地爆发了特大有组织集体舞弊丑闻；部分学校为拔高通过率更系统性地将后进生划入免考分类，直接背离了不让学生掉队的立法初衷。
 > - **应试导向下课程生态的结构性窄化** 在单一量化统考的高压规制下，学校普遍陷入“为考而教”（teaching to the test）的应试操练，教学资源被极度向阅读与数学两门统考科目倾斜；与此同时，科学、社会研究、艺术、体育等未纳入全员统考的科目课时被大幅挤占甚至边缘化。这一现象在薄弱与弱势学校中尤为严重，导致基础教育人文素养培育与全面育人功能受到深层侵蚀，确凿证实了死板的[[Technical Rationality|技术理性]]指标规制对一线教育实践的反噬。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–42)]]; [[Argument_Zhao_2017_JEC|(Zhao, 2017, p. 15)]]
@@ -203,6 +212,7 @@ updated: 2026-09-26
 > > 联邦政府借助财政杠杆对教育研究范式进行行政规制，引发[[Knowledge Production\|知识生产]]生态的深层失衡。
 > >
 > > - **[[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] & Fazekas & Burns (2012)** NCLB 作为国家立法强行规定教育研究议程的典型案例，通过财政拨款限制（funding restrictions）将研究资助严苛绑定于特定实证方法（尤其是大规模量化 [[Randomised Controlled Trials\|RCT]]），对国家教育科研生产方式进行强力[[Disciplina and Doctrina\|规训]]。
+> > - **[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne (2003, pp. 31–34)]] 的制度功能分野剖析** 指出学界早期对 NCLB 的抗议往往将其与整个联邦教育科研体系（如 ESRA 2002 与 IES）混为一谈；NCLB 的法定定义本质上是服务支出法案（Service Statute）下的财务合规门槛，用于规约受助学区证明联邦公帑采购方案的有效性，因此必然偏向控制论下的严格实验[[Hypothesis|假设]]检验；但如果将这种服务支出[[Standard Error|标准误]]用为全域科学研究的唯一准则，则会严重扼杀探索性与理论性研究。后续 [[Education Sciences Reform Act 2002|ESRA 2002]] 在国会听证与专业质证下确立“方法契合[[Research Question|研究问题]]”，正是对 NCLB 单一实验垄断的制度纠偏。
 > > - **[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022, pp. 60–65)]]** 尽管这种以单一[[Causality\|因果推断]]为核心的标准保障了 [[What Works Clearinghouse\|WWC]] 的高[[Internal Validity\|内部效度]]并赢得了制度化预算，但其严苛门槛导致干预方案筛选通过率畸低，且在制度上排斥了复杂的本土[[Phronesis\|实践智慧]]与质性证据，甚至使“证据知情”标签容易沦为商业利益集团的营销工具。这种方法学垄断危机直接促使后续 ESSA (2015) 走向包容性更强的四级[[Operationalization\|操作化]]分级框架。
 > > - **知识生态扭曲效应** 这种方法学垄断压制了非[[Experimental Research|实验研究]]、质性探索与理论建构空间，忽视了复杂教育情境中不同类型知识的互补性，导致教育研究成果与一线复杂的实践生态脱节。
 

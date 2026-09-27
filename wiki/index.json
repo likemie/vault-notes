@@ -1159,7 +1159,10 @@
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Recontextualization.md",
     "aliases": [
-      "再脉络化"
+      "再脉络化",
+      "Re-Kontextualisierung",
+      "本土重构",
+      "语境重构"
     ]
   },
   {
@@ -9813,6 +9816,18 @@
     ]
   },
   {
+    "title": "Transfer Science",
+    "type": "concept",
+    "path": "wiki/concepts/science-communication/Transfer Science.md",
+    "aliases": [
+      "转移科学",
+      "转化科学",
+      "转移学",
+      "Transferwissenschaft",
+      "知识转移科学"
+    ]
+  },
+  {
     "title": "Upstream Public Engagement",
     "type": "concept",
     "path": "wiki/concepts/science-communication/Upstream Public Engagement.md",
@@ -14571,7 +14586,6 @@
     "path": "wiki/methods/qualitative/In-depth Interview.md",
     "aliases": [
       "深度访谈",
-      "in-depth interview",
       "in-depth interviews"
     ]
   },
@@ -22050,6 +22064,18 @@
     ]
   },
   {
+    "title": "Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung",
+    "type": "fact",
+    "path": "wiki/facts/germany/Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung.md",
+    "aliases": [
+      "联邦与各州教育规划与科研促进委员会",
+      "联邦与各州教育规划与研究资助委员会",
+      "BLK",
+      "Bund-Länder-Kommission",
+      "Commission of the Federation and the Länder for Educational Planning and Research Promotion"
+    ]
+  },
+  {
     "title": "Clearing House Unterricht",
     "type": "fact",
     "path": "wiki/facts/germany/Clearing House Unterricht.md",
@@ -22078,6 +22104,19 @@
       "学校研究监测平台",
       "德国学校研究监测网",
       "FMS"
+    ]
+  },
+  {
+    "title": "German State Educational Institutes and Quality Agencies",
+    "type": "fact",
+    "path": "wiki/facts/germany/German State Educational Institutes and Quality Agencies.md",
+    "aliases": [
+      "德国各州立教育研训与质量机构",
+      "州立学校研究所与质量机构",
+      "Landesinstitute",
+      "Landesinstitute und Qualitätseinrichtungen der Länder",
+      "德国州立教育研究所",
+      "州立学校研究所"
     ]
   },
   {
@@ -22201,6 +22240,16 @@
     ]
   },
   {
+    "title": "Chemie im Kontext",
+    "type": "fact",
+    "path": "wiki/facts/germany/Chemie im Kontext.md",
+    "aliases": [
+      "情境中的化学",
+      "CHiK",
+      "CHiK-Projekt"
+    ]
+  },
+  {
     "title": "German Excellence Initiative",
     "type": "fact",
     "path": "wiki/facts/germany/German Excellence Initiative.md",
@@ -22257,6 +22306,18 @@
     ]
   },
   {
+    "title": "NuBiL",
+    "type": "fact",
+    "path": "wiki/facts/germany/NuBiL.md",
+    "aliases": [
+      "教师对教育研究成果的利用项目",
+      "教师教育科研成果使用项目",
+      "NuBiL-Projekt",
+      "Nutzung von Bildungsforschung durch Lehrpersonen",
+      "Teachers' Use of Educational Research"
+    ]
+  },
+  {
     "title": "Qualitätsoffensive Lehrerbildung",
     "type": "fact",
     "path": "wiki/facts/germany/Qualitätsoffensive Lehrerbildung.md",
@@ -22264,6 +22325,29 @@
       "教师教育质量攻坚计划",
       "QLB",
       "Quality Campaign for Teacher Education"
+    ]
+  },
+  {
+    "title": "Schulen im Team",
+    "type": "fact",
+    "path": "wiki/facts/germany/Schulen im Team.md",
+    "aliases": [
+      "团队中的学校",
+      "团队学校项目",
+      "鲁尔区校际网络项目",
+      "Schulen im Team – Unterricht gemeinsam entwickeln",
+      "SiT"
+    ]
+  },
+  {
+    "title": "SINUS",
+    "type": "fact",
+    "path": "wiki/facts/germany/SINUS.md",
+    "aliases": [
+      "提高数理教学效率联合改革试验",
+      "SINUS-Transfer",
+      "SINUS-Programm",
+      "Steigerung der Effizienz des mathematisch-naturwissenschaftlichen Unterrichts"
     ]
   },
   {
@@ -23620,7 +23704,9 @@
     "aliases": [
       "Norwegian Knowledge Centre for Education",
       "挪威教育知识中心",
-      "Knowledge Centre for Education"
+      "挪威知识中心",
+      "Knowledge Centre for Education",
+      "KSU"
     ]
   },
   {
@@ -25953,6 +26039,18 @@
     ]
   },
   {
+    "title": "Education Sciences Reform Act 2002",
+    "type": "fact",
+    "path": "wiki/facts/us/Education Sciences Reform Act 2002.md",
+    "aliases": [
+      "教育科学改革法",
+      "2002年教育科学改革法",
+      "ESRA",
+      "ESRA 2002",
+      "Education Sciences Reform Act"
+    ]
+  },
+  {
     "title": "Elementary and Secondary Education Act of 1965",
     "type": "fact",
     "path": "wiki/facts/us/Elementary and Secondary Education Act of 1965.md",
@@ -27257,6 +27355,11 @@
     "path": "wiki/arguments/journal-articles/Australian Journal of Language and Literacy/Argument_OConnor_2020_AJLL.md"
   },
   {
+    "title": "Argument_Manitius_vanHolt_2019_BzS",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Beiträge zur Schulentwicklung/Argument_Manitius_vanHolt_2019_BzS.md"
+  },
+  {
     "title": "Argument_Knogler_2025_BB",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/berufsbildung Zeitschrift für Theorie-Praxis-Dialog/Argument_Knogler_2025_BB.md"
@@ -27560,6 +27663,11 @@
     "title": "Argument_Mausethagen_2025_ERR",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Educational Research Review/Argument_Mausethagen_2025_ERR.md"
+  },
+  {
+    "title": "Argument_Eisenhart_Towne_2003_ER",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Educational Researcher/Argument_Eisenhart_Towne_2003_ER.md"
   },
   {
     "title": "Argument_Kraft_2023_ER",

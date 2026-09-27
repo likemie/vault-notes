@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪末兴起于英美澳等国的公共治理与教育改革运动，主张以因果推断量化证据识别有效干预，依托法定知识中介组织转化证据，重塑公共财政配置与专业实践。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 59
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -78,6 +78,7 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[National Pupil Database]]"
   - "[[Every Student Succeeds Act]]"
+  - "[[Education Sciences Reform Act 2002]]"
 related_persons:
   - "[[Gert Biesta]]"
 related_arguments:
@@ -88,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-09-22
+updated: 2026-09-27
 ---
 
 # What Works Movement
@@ -229,7 +230,7 @@ updated: 2026-09-22
 
 > [!dev-timeline] 发展脉络
 > - **1990 年代末 — [[New Public Management\|新公共管理]]与布莱尔政权倡议** 英美兴起新公共管理思潮，英国工党政府提出“重要在于何者有效”（What matters is what works），倡导基于实证的现代化决策。
-> - **2001–2002 年 — 美国联邦法律制度化突破** 美国通过《不让一个孩子掉队法》（NCLB 2001）与《教育科学改革法案》（ESRA 2002），正式创设[[Institute of Education Sciences\|教育科学研究院]]（IES）与什么样的有效清算所（[[What Works Clearinghouse\|WWC]]）。
+> - **2001–2002 年 — 美国联邦法律制度化突破** 美国通过《不让一个孩子掉队法》（NCLB 2001）与《[[Education Sciences Reform Act 2002|教育科学改革法]]案》（ESRA 2002），正式创设[[Institute of Education Sciences\|教育科学研究院]]（IES）与什么样的有效清算所（[[What Works Clearinghouse\|WWC]]）。
 > - **2011 年 — 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）创立** 英国教育部拨款 1.25 亿英镑注资设立 EEF，开启国家尺度的大规模学校[[Randomised Controlled Trials\|随机对照试验]]资助时代。
 > - **2013 年 — 英国 [[What Works Network]] 国家网络成立** 英国将循证中介扩展至医疗、警务、老龄化及地方经济等领域，建立覆盖 2,500 亿英镑公共支出的国家中介网络（White, 2019）。
 > - **2015 年 — 美国 [[Every Student Succeeds Act\|ESSA]] 法案确立四级证据层级** 《每一个学生成功法》（ESSA）以法律条文明确了由强到弱的四级[[Evidence Standards\|证据标准]]，将联邦基金划拨与循证等级刚性挂钩。

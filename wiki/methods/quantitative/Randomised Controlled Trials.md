@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 119
+method_related_count: 127
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -27,6 +27,8 @@ related_concepts:
   - "[[Causality]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Class Size]]"
+  - "[[Scientifically Based Research]]"
+  - "[[Clinical Trial]]"
   - "[[Heterogeneity]]"
   - "[[Evidence Era]]"
   - "[[Rationalized Myth]]"
@@ -82,6 +84,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Intervention Research]]"
+  - "[[Regression Discontinuity Design]]"
   - "[[Confidence Interval]]"
   - "[[True Experimental Design]]"
   - "[[Pre-test and Post-test]]"
@@ -113,10 +116,14 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Karl Pearson]]"
+  - "[[Richard J. Shavelson]]"
 related_facts:
   - "[[Tennessee STAR Project 1985-1989]]"
+  - "[[No Child Left Behind Act 2001]]"
   - "[[What Works Clearinghouse]]"
   - "[[Institute of Education Sciences]]"
+  - "[[Education Sciences Reform Act 2002]]"
+  - "[[National Research Council]]"
   - "[[Education Endowment Foundation]]"
   - "[[Foundations for Evidence-Based Policymaking Act of 2018]]"
   - "[[World Bank]]"
@@ -129,6 +136,7 @@ related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Brady_2023_EPR]]"
+  - "[[Argument_Eisenhart_Towne_2003_ER]]"
   - "[[Argument_Serpell_2020_EP]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Helgetun_2022_JEP]]"
@@ -147,7 +155,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-09-21
+updated: 2026-09-27
 ---
 
 # Randomised Controlled Trials
@@ -179,7 +187,9 @@ updated: 2026-09-21
 >   - 1983 — 教育心理学经验期刊中近半数论文采用随机分配实验（[[Argument_Brady_2023_EPR\|Brady et al., 2023, pp. 6–7]]）。
 >   - 1985–1989 — 田纳西星级[[Class Size\|班级规模]]实验（[[Tennessee STAR Project 1985-1989]]）实施，成为全美教育干预因果评估的里程碑。
 >   - 2000 — 教育经验文章中[[Intervention Research\|干预研究]]占比达 40%，受控实验仍占据核心主导地位。
->   - 2002 — 美国教育部成立有效教育清算所（[[What Works Clearinghouse\|WWC]]），形式化将 RCT 确立为教育证据层级的最高准则。
+>   - 2001 — 美国国会通过《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]），成文法全文 110 次提及“[[Scientifically Based Research|科学本位研究]]”，明确写入“优先青睐随机分配实验”，以财政拨款为杠杆强推 RCT 门槛（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, p. 34]]）。
+>   - 2002 — 联邦教育部成立有效教育清算所（[[What Works Clearinghouse\|WWC]]）并由 OERI 拨付 1850 万美元初始合同，以医学[[Clinical Trial|临床试验]]为原型启动审查；美国教育部 2002–2007 战略规划要求至 2004 年 75% 的因果资助必须采用随机设计，且 [[Institute of Education Sciences|IES]] 在 2002 财年资助的因果项目 100% 采用随机实验（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 34–35]]）。
+>   - 2002–2003 — 国会通过《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA 2002），在[[National Research Council|国家研究委员会]]（NRC）科学原则报告与[[Richard J. Shavelson|理查德·沙维尔森]]等学者质证推动下，打破对单一 RCT 的立法预设，确立非随机设计亦可合法检验因果主张；随后 WWC 根据 47 条公众评议修正初版 Study DIAD，将[[Regression Discontinuity Design|断点回归]]与准实验列为独立审查模块（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 34–36]]）。
 >   - 2007 — Dynarski et al. 完成 [[Institute of Education Sciences\|IES]] 资助的全美大规模教育软件 RCT，揭示整体零显著差异与强烈的情境[[Heterogeneity\|异质性]]（班级规模、师生比与教师整合能力），有力破除实验净效应可脱离情境普遍复制的迷思（[[Argument_Serpell_2020_EP\|Serpell, 2020, p. 42]]）。
 >
 > - **2010–2023 — 规模扩张、实效反思与[[Evidence Era\|证据时代]][[Rationalized Myth\|合理化神话]]** 英国 [[Education Endowment Foundation\|EEF]] 等机构资助数百项大规模实地试验，但实效阶段[[Fade-out Effect\|效应衰减]]、清算中心多机构评级冲突与依策造据风险引发[[Epistemology\|认识论]]与治理反思。
@@ -378,3 +388,4 @@ updated: 2026-09-21
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 深度复盘英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）十年来资助超 200 项大规模教育 RCT 的制度演进，系统剖析独立评估人机制、[[Preregistration\|预注册]][[Statistical Analysis Plan\|统计分析计划]]（SAP）、[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）整合、[[School Choice\|学校选择]]与[[Teacher Choices\|教师选择]]新设计，以及应对[[Effect Size\|效应量]]衰减与不确定性报告的方法学突破。
 > - [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] — 实证解剖英格兰[[Evidence Era\|证据时代]]将临床医学 RCT 奉为[[Rationalized Myth\|合理化神话]]的政策话语建构，剖析从研究设计到政策转化中[[Epistemological Coherence\|认识论连贯性]]的断裂，以及由此衍生的依策造据风险。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统反驳认知负荷学派对探究教学缺乏纯粹实验室 RCT 的指责，援引 Lazonder & Harmsen (2016) 元分析实证检验确立 RCT 与准实验在效应量量级上无显著差异，基于 Schuster et al. (2018) 课堂严格 RCT 证实探究教学的深层概念优势，并为复杂教育情境中涵盖多元组件的“项目式研究”（Program-based RCTs）之[[Ecological Validity\|生态效度]]与常态对照组（[[Business as Usual\|BAU]]）设计提供方法学辩护（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4–6]]）。
+> - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne (2003)]] — 系统考证美国联邦成文法（NCLB 与 ESRA 2002）及 [[What Works Clearinghouse|WWC]] 创设初期的 RCT 制度化历史，揭示行政规程对随机实验的强烈惯性偏好（如 [[Institute of Education Sciences|IES]] 首期因果资助 100% 为随机实验），并深入论述学术共同体如何依托 [[National Research Council|NRC]] 六大原则与国会质证推动联邦立法打破单一 RCT 垄断，确立问题导向的方法适配观。

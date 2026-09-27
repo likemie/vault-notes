@@ -10,7 +10,7 @@ aliases:
 summary: "将专业实践与教育治理窄化为手段-目的因果计算与去情境化技术控制的实证主义模型；在微观教学中剥夺教师专业判断，在宏观政策与比较教育中将教育退化为劳动力技能规训并侵蚀全人教化"
 type: concept
 domain: "educational-philosophy"
-related_count: 82
+related_count: 88
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -42,6 +42,8 @@ related_concepts:
   - "[[Epoché]]"
   - "[[Doxa]]"
   - "[[Scientifically Based Research]]"
+  - "[[Feedback]]"
+  - "[[Praxis]]"
   - "[[Visible Learning]]"
   - "[[Problem Finding]]"
   - "[[New Public Management]]"
@@ -63,6 +65,8 @@ related_concepts:
   - "[[Research-Practice Partnership]]"
   - "[[Paradigm]]"
   - "[[What Works Movement]]"
+  - "[[School Inspection]]"
+  - "[[Literature Review]]"
   - "[[Effective Teaching]]"
   - "[[Causality]]"
   - "[[Champ]]"
@@ -88,6 +92,7 @@ related_persons:
   - "[[Jürgen Habermas]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Vergleichsarbeiten]]"
   - "[[Carter Review of Initial Teacher Training]]"
   - "[[Reading Excellence Act]]"
   - "[[Common Core State Standards]]"
@@ -104,6 +109,7 @@ related_arguments:
   - "[[Argument_Rickinson_2022_ER]]"
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
   - "[[Argument_Serpell_2020_EP]]"
+  - "[[Argument_Manitius_vanHolt_2019_BzS]]"
   - "[[Argument_Helgetun_2022_JEP]]"
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_McDonnell_2013_AJE]]"
@@ -112,7 +118,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-09-26
+updated: 2026-09-27
 ---
 
 # Technical Rationality
@@ -169,7 +175,8 @@ updated: 2026-09-26
 > - **自动化闭环修辞与算法中立迷思（Automated Loop Rhetoric & Neutrality Fallacy）** 预设学校监测系统能够实现从数据抽取、模型拟合到即时反馈的自动化闭环，以技术中立修辞掩盖代码脚本的选择性、指标加权的政治裁决与做数据微观调配中的即兴妥协。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 4–5)]]
 > - **去政治化技术官僚[[Disciplina and Doctrina\|规训]]（Technocratic Schooling De-politicisation）** 将教育矮化为去情境化、可测量的工具性“学校教育”（Schooling），用量化生产力与[[Human Capital Theory\|人力资本]]测算取代对社会正义与人类文明危机的哲学追问。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
 > - **规制型法定指标与高利害问责（Regulatory Statutory Metrics & High-Stakes Accountability）** 将技术理性以联邦立法形式刚性固化，如《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）将“[[Scientifically Based Research\|基于科学的研究]]”与学生统考成绩强行绑定在人事惩戒上，误以为通过手段-目的工具控制即可直线提高学业产出，实质上诱发教学窄化与集体舞弊等系统性异化。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 41)]]
-> - **“证据自身发声”的去主体迷误（The "Evidence Speaks for Itself" Fallacy）** 假定研究证据具有先验的确定性与自足性，忽视实践者在特定组织与社会文化脉络下的深思熟虑参与（Thoughtful Engagement）与专业重构，误以为证据产出的方法学优度可直接替代专业主体的认知转化与情境判断。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 139–141)]]
+> - **“证据自身发声”的去主体迷误（The "Evidence Speaks for Itself" Fallacy）** 假定研究证据具有先验的确定性与自足性，忽视实践者在特定组织与社会文化脉络下的深思熟虑参与（Thoughtful Engagement）与专业重构，误以为证据产出的方法学优度可直接替代专业主体的认知转化与情境判断。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 139–141)]]
+> - **全域监测与数据回传的技术理性闭环幻觉（The Closed-Loop [[Feedback]] Fallacy of Large-Scale Assessment & Inspection）** 治理系统预设通过统考（如全域比较联考（[[Vergleichsarbeiten]], VERA））和学校外部督导（Schulinspektion, SI）收集量化数据并向学校回传反馈报告，学校便能据此在因果逻辑下自动完成微观教学改进；实证研究证实这种手段-目的自动闭环在现实中普遍遭遇成效缺失（mangelnde Effekte），重现了经典的理论-实践困境（Theorie-[[Praxis]]-Problem）（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 9]]）。
 
 > [!logic-map]- 要素关系与批判逻辑
 > ```mermaid
@@ -227,6 +234,9 @@ updated: 2026-09-26
 > [!claim] [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]]
 > **宏观政策生命周期中技术理性线性工程假说的破产与三元共生重构** 麦克唐奈与韦瑟福德通过对全美[[Common Core State Standards|共同核心州立标准]]（CCSS）运动的历时追踪，系统[[Falsification|证伪]]了公共政策领域中“科学知识直接驱动决策”的技术理性线性工程假说。技术理性预设决策者会依据高质量科研成果按图索骥制定政策，但全美课程标准的演进确证：证据的形态与政治功能随决策阶段发生权变演变（议程设置期作为破局的象征动员符号，方案制定阶段化为技术防卫护盾，法定采纳期收敛为微观工具对比）。面对高阶标准因果实证[[Document|文献]]的严重空白，政策研制并未陷入瘫痪，而是依靠学科公理推演与一线教师专业审慎经验（[[American Federation of Teachers|AFT]] 物理剪裁、[[National Education Association|NEA]] 骨干审读）进行补位。这表明科学证据绝非去情境化的技术指令，而是与专业经验、政治价值紧密交织的三元共生网络的一部分。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 1–3, 18–19)]]
 
+> [!claim] [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]]
+> **德语区新治理调控工具的技术理性成效缺失与理论-实践困境重现** 维罗妮卡·马尼蒂乌斯与诺伯特·范霍尔特（Veronika Manitius & Norbert van Holt, 2019）剖析了德语区新治理调控工具背后的技术理性假定。政策系统设想通过标准化统考（如全域比较联考（[[Vergleichsarbeiten]], VERA））与学校外部督导（Schulinspektion, SI）生成监测数据，并以此向单体学校回传以倒逼教学质量改进。然而，实证研究证实这种手段-目的式的直接技术回传在单体学校普遍面临成效缺失（mangelnde Effekte），并未自发转化为微观教学行为的改善。这一实践失败表明，将宏观监测数据直接等同于微观改进处方的技术理性闭环不仅严重脱离学校复杂生态，更让经典的理论-实践问题（Theorie-[[Praxis]]-Problem）在新治理技术包装下再次重现。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 9)]]
+
 ---
 
 ### 命题三　超越技术理性要求从单向线性研究供给转向基于专业判断与社会互动的知识动员与证据知情实践
@@ -248,7 +258,7 @@ updated: 2026-09-26
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认识论批判命题** | 揭示技术理性手段-目的计算在复杂、不确定专业情境中的失效与错配 | 课堂教学、临床诊断等不确定性专业实践 | Schön; Nielsen & Klitmøller |
-> | **社会学与治理批判命题** | 揭示技术理性在教育治理中引发的[[Cognitive Deskilling\|去技能化]]、认识论断裂、人本精神失落与合法化危机 | [[Evidence-Based Education\|循证教育]]问责、新公共管理、数字化监测基础设施、国际指标测度与国家课程标准研制 | Habermas; Biesta; Kazamias; Helgetun & Menter; Serpell; Raudenbush; [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]]; [[Argument_Edmondson_2005_EPAA\|Edmondson (2005)]]; [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] |
+> | **社会学与治理批判命题** | 揭示技术理性在教育治理中引发的[[Cognitive Deskilling\|去技能化]]、认识论断裂、人本精神失落与合法化危机 | [[Evidence-Based Education\|循证教育]]问责、新公共管理、数字化监测基础设施、国际指标测度与国家课程标准研制 | Habermas; Biesta; Kazamias; Helgetun & Menter; Serpell; Raudenbush; [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]]; [[Argument_Edmondson_2005_EPAA\|Edmondson (2005)]]; [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]]; [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] |
 > | **实践重构与替代命题** | 倡导以专业判断为枢纽、破除“证据自身发声”迷误，转向适切证据与深思熟虑参与双核互构 | 证据知情学校改进、[[Research-Practice Partnership\|研究-实践伙伴关系]]、高质量证据使用 | Nelson & Campbell; Bryk; Rickinson et al.; Coburn et al. |
 
 ---
@@ -265,16 +275,17 @@ updated: 2026-09-26
 > - **2001 — [[No Child Left Behind Act 2001\|NCLB]] 将技术理性固化为联邦规制法条** 乔治·布什签署《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]），延续并扩大[[Scientifically Based Research|基于科学的研究]]标准，将标准化测验与人事考核刚性绑定。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 41)]]
 > - **2009 — 卡扎米亚斯批判技术官僚理性并重申全人[[Bildung\|教化]]** 卡扎米亚斯系统批判技术官僚理性对比较教育人文传统的剥离，重申古典全人教化（*[[Paideia]]*）的人本底线。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
 > - **2017 — 证据知情视阈下对技术理性线性供给的反思** [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] 批判自上而下的技术-理性灌输模型，倡导以[[Professional Judgment\|专业判断]]为核心的全系统[[Knowledge Mobilisation\|知识动员]]。
-> - **2019 — 数字化学校监测中技术理性修辞的批判性解构** [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]] 展开美德跨国[[Comparative Case Study\|比较案例研究]]，揭示全域监测系统中自动化即时闭环的技术理性修辞如何被即兴试错烹饪、算法选择性与五维做数据张力深刻击碎。
-> - **2020 — [[Navigational Framework for Educational Researchers\|政策导航框架]]对单一黄金标准的技术理性批判** 塞佩尔（[[Argument_Serpell_2020_EP\|Serpell, 2020]]）基于国会立法实务，全面反思规制型进路与单一实验金标准在宏观治理中的方法论脱节，呼吁转向考量地方情境的发展型政策进路（Developmental Approach）。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 41–42)]]
-> - **2022 — 教师教育[[Evidence Era\|证据时代]]的[[Epistemological Break\|认识论断裂]]与[[Rationalized Myth\|合理化神话]]** [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] 揭示技术理性在当代政策中演进为主导性合理化神话，通过自上而下的[[Policy-Based Evidence-Making\|逆向证据生产]]（PBEM）维系国家对教师教育准入的集权控制。
-> - **2022 — [[Quality Use of Research Evidence Framework\|QURE]] 框架对“证据自身发声”技术理性迷误的跨领域诊断** [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] 基于跨卫生、教育、社会关照与公共政策的[[Systematic Review\|系统综述]]，诊断循证运动中技术理性的核心致命伤在于[[Hypothesis\|假设]]“证据会自行发声”，提出以适切证据与深思熟虑参与构成的 QURE 框架，系统瓦解单向供给迷思。
+> - **2019 — 数字化学校监测中技术理性修辞的批判性解构** [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] 展开美德跨国[[Comparative Case Study|比较案例研究]]，揭示全域监测系统中自动化即时闭环的技术理性修辞如何被即兴试错烹饪、算法选择性与五维做数据张力深刻击碎。
+> - **2019 — 德语区学校改进反思新治理调控工具的技术理性成效缺失** 马尼蒂乌斯与范霍尔特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019]]）系统审视德语区二十年新治理改革，指出基于全域测评回传与外部督导的技术理性假定在单体学校遭遇成效缺失，重申教育改进不能依赖机械数据灌输。
+> - **2020 — [[Navigational Framework for Educational Researchers|政策导航框架]]对单一黄金标准的技术理性批判** 塞佩尔（[[Argument_Serpell_2020_EP|Serpell, 2020]]）基于国会立法实务，全面反思规制型进路与单一实验金标准在宏观治理中的方法论脱节，呼吁转向考量地方情境的发展型政策进路（Developmental Approach）。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–42)]]
+> - **2022 — 教师教育[[Evidence Era|证据时代]]的[[Epistemological Break|认识论断裂]]与[[Rationalized Myth|合理化神话]]** [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] 揭示技术理性在当代政策中演进为主导性合理化神话，通过自上而下的[[Policy-Based Evidence-Making|逆向证据生产]]（PBEM）维系国家对教师教育准入的集权控制。
+> - **2022 — [[Quality Use of Research Evidence Framework|QURE]] 框架对“证据自身发声”技术理性迷误的跨领域诊断** [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] 基于跨卫生、教育、社会关照与公共政策的[[Systematic Review|系统综述]]，诊断循证运动中技术理性的核心致命伤在于[[Hypothesis|假设]]“证据会自行发声”，提出以适切证据与深思熟虑参与构成的 QURE 框架，系统瓦解单向供给迷思。
 
 ---
 
 ## 实证数据
 
-> [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
@@ -284,6 +295,7 @@ updated: 2026-09-26
 > | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022, pp. 78–92)]] | 涵盖 29 个[[OECD\|经合组织]]国家的 37 个教育系统 | 跨国政策[[Questionnaire\|问卷调查]]与典型案例考证 | 证据生产与实践促成角色分布、教师参与阶段与制度激励 | 逾 85% 系统中生产类别显著多于促成类别；高校科研人员在 7 个阶段处于绝对主导，一线教师高度窄化于数据收集（18 系统） | — | 确证宏观政策配置中的技术官僚供给偏误与教师作为被动执行者的异化格局 |
 > | [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019, pp. 4–5, 10)]] | 美国[[Massachusetts Department of Elementary and Secondary Education\|马萨诸塞州中小学教育部]]（DESE）、德国汉堡市学校与职业教育局（BSB）及[[Institute for Educational Monitoring and Quality Improvement\|汉堡教育监测与质量发展研究所]]（IfBQ） | 跨国[[Comparative Case Study\|比较案例研究]]与半结构化专家访谈（16 场 / 20 位官员） | 监测基础设施自动化闭环修辞与实际行政数据实践之间的断裂 | 受访官员一致证实系统并非线性自动化闭环，而是充斥着即兴试错烹饪、检索代码选择性过滤与多方政治妥协；算法次级表象重塑了治理能见度 | 质性深度饱和 | 从批判性数据研究视阈证伪了教育数字化监测中的技术理性中立神话 |
 > | [[Argument_Edmondson_2005_EPAA\|Edmondson (2005, pp. 4–10)]] | 美国联邦立法草案（H.R. 2614 与 P.L. 105-277）、国会听证会实录及逾 10 万名教师抗议公函 | 批判性政策[[Documentary Analysis\|文献分析]]与话语溯源 | 技术理性科学定义演变、铁三角利益同盟与基层教师[[Professional Judgment\|专业判断]]受抑程度 | 证实国会以科学客观性修辞排他性界定拼读与实验[[Paradigm\|范式]]，规避十万名教师请愿并赋权政商出版集团垄断 | 质性政策文本饱和分析 | 揭示技术理性在宏观立法中充当封闭次政府寡头利益掩护机制的深层政治属性 |
+> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 9)]] | 德语区全域学校系统与新治理调控工具（[[Vergleichsarbeiten\|VERA]]、[[School Inspection\|外部学校督导]]） | [[Literature Review\|文献综述]]与治理实证评估 | 监测数据回传对微观教学与单体学校改进的有效性 | 外部督导与全域统考的数据回传在单体学校普遍缺乏显著的改进成效（mangelnde Effekte） | 质性综述确证 | 确证技术理性闭环反馈假定在单体学校微观运作中的因果失效，击碎数据倒逼改进神话 |
 
 ---
 
@@ -294,23 +306,23 @@ updated: 2026-09-26
 > > [!axis] 技术官僚控制 vs 育人人文本体
 > > 教育的核心追求究竟是提高去情境化的可测量产出效率，还是涵养受过教育的人的精神自由与道德品格。
 > >
-> > - **技术理性[[Paradigm\|范式]]（1960s 至今）** 将教育视为劳动力生产与[[Human Capital Theory\|人力资本]]投资的闭合工程，追求[[Effect Size\|效应量]]最大化与投入产出可控性。
-> > - **批判与人文传统（Schön, Habermas, Kazamias）** 坚信教育是关乎善、正义与全人[[Bildung\|教化]]的开放生活世界，排斥将人原子化为指标[[Variable\|变量]]的技术控制。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
+> > - **技术理性[[Paradigm|范式]]（1960s 至今）** 将教育视为劳动力生产与[[Human Capital Theory|人力资本]]投资的闭合工程，追求[[Effect Size|效应量]]最大化与投入产出可控性。
+> > - **批判与人文传统（Schön, Habermas, Kazamias）** 坚信教育是关乎善、正义与全人[[Bildung|教化]]的开放生活世界，排斥将人原子化为指标[[Variable|变量]]的技术控制。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
 >
 > > [!axis] 线性研究指令 vs 情境专业审议
 > > 外部科学证据是否可以直接推导出具体的实践处方与政策指令。
 > >
-> > - **证据等级制主导者（[[Education Endowment Foundation\|EEF]] / What Works）** 主张以黄金标准实验证据直接指导教学干预。
-> > - **证据知情与专业实践者（Nelson & Campbell, Biesta, Rickinson et al.）** 论证外部研究仅能为专业审议提供参考，必须通过教师的[[Phronesis\|实践智慧]]（Phronesis）、深思熟虑参与与情境反思加以再创造。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 127–131)]]; [[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 139–141)]]
+> > - **证据等级制主导者（[[Education Endowment Foundation|EEF]] / What Works）** 主张以黄金标准实验证据直接指导教学干预。
+> > - **证据知情与专业实践者（Nelson & Campbell, Biesta, Rickinson et al.）** 论证外部研究仅能为专业审议提供参考，必须通过教师的[[Phronesis|实践智慧]]（Phronesis）、深思熟虑参与与情境反思加以再创造。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 127–131)]]; [[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 139–141)]]
 
 > [!critique] 外部批评
 > - **消除主体意向性与价值神圣化** 将教师和学生还原为刺激-反应输入输出变量，预设既定目标不容置疑，排斥对教育伦理目的的追问。
-> - **去情境化有效性追求的合法化悖论** 越是以技术理性手段追求去情境化的“[[Effective Teaching\|有效教学]]”，越容易削弱师生的内在认同，诱发职业倦怠与意义危机。
-> - **对比较教育人文科学属性的系统剥离** 卡扎米亚斯针砭指出技术官僚理性抹杀了历史深度与文化脉络，使比较研究退化为无[[Reflexivity\|反思性]]的官僚测量工具。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
-> - **[[Epistemological Break\|认识论断裂]]与逆向合法化工具** 忽视科研转化中的情境衰减，使技术理性退化为服务于既定政治议程的合理化外壳。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 96)]]
+> - **去情境化有效性追求的合法化悖论** 越是以技术理性手段追求去情境化的“[[Effective Teaching|有效教学]]”，越容易削弱师生的内在认同，诱发职业倦怠与意义危机。
+> - **对比较教育人文科学属性的系统剥离** 卡扎米亚斯针砭指出技术官僚理性抹杀了历史深度与文化脉络，使比较研究退化为无[[Reflexivity|反思性]]的官僚测量工具。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 56–57)]]
+> - **[[Epistemological Break|认识论断裂]]与逆向合法化工具** 忽视科研转化中的情境衰减，使技术理性退化为服务于既定政治议程的合理化外壳。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 96)]]
 
 > [!warning] 适用局限
-> 技术理性仅适用于具有高度可预测性、[[Causality\|因果关系]]清晰且价值目标完全闭合的技术工程领域；在面对包含多元价值冲突、动态情境生成与师生生命成长的真实教育[[Champ\|场域]]中，技术理性存在根本性的[[Epistemology\|认识论]]盲区。
+> 技术理性仅适用于具有高度可预测性、[[Causality|因果关系]]清晰且价值目标完全闭合的技术工程领域；在面对包含多元价值冲突、动态情境生成与师生生命成长的真实教育[[Champ|场域]]中，技术理性存在根本性的[[Epistemology|认识论]]盲区。
 
 ---
 
@@ -319,14 +331,15 @@ updated: 2026-09-26
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]] — 系统[[Falsification|证伪]]“科学研究直接驱动政策”的技术理性线性工程假说，提出证据形态随政策生命周期演变的三阶段权变模型，揭示科学研究、专业经验与政治价值三元共生的现实因果机制。（pp. 1–3, 18–19）
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] — 跨国实证解构州级教育监测的技术基础设施，批判自动化即时闭环的技术理性修辞，揭示试错烹饪、算法选择性与五维做数据张力。
-> - [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review\|系统综述]]提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架，从[[Epistemology\|认识论]]层面剖析“证据自身发声”的技术理性致命伤，确立适切证据与深思熟虑参与的双核质量基准。
-> - [[Argument_Serpell_2020_EP\|Serpell (2020)]] — 批判联邦教育治理中将单一实验金标准作为准入门槛的规制型技术理性，揭示 [[No Child Left Behind Act 2001\|NCLB]] 问责异化与劳登布什[[Learning Gain\|增值评价]]治理悖论，倡导情境敏感的发展型政策进路。
-> - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 批判教育政策中长期主导的“技术-理性”研究灌输模型，系统阐述以[[Professional Judgment\|专业判断]]为核心的多源[[Evidence-Informed Practice\|证据知情实践]]与全系统[[Knowledge Mobilisation\|知识动员]]。
-> - [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] — 剖析英格兰 35 年教师教育改革中技术理性的[[Epistemological Break\|认识论断裂]]，揭示证据作为[[Rationalized Myth\|合理化神话]]在政策逆向生产中的政治把关功能。
-> - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] — 思想史批判指出 1960 年代实证转型以技术官僚理性取代历史-哲学-文化传统，将教育异化为狭隘的学校技能[[Disciplina and Doctrina\|规训]]，重申以人为中心的全人[[Bildung\|教化]]防线。
+> - [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review|系统综述]]提出 [[Quality Use of Research Evidence Framework|QURE]] 框架，从[[Epistemology|认识论]]层面剖析“证据自身发声”的技术理性致命伤，确立适切证据与深思熟虑参与的双核质量基准。
+> - [[Argument_Serpell_2020_EP|Serpell (2020)]] — 批判联邦教育治理中将单一实验金标准作为准入门槛的规制型技术理性，揭示 [[No Child Left Behind Act 2001|NCLB]] 问责异化与劳登布什[[Learning Gain|增值评价]]治理悖论，倡导情境敏感的发展型政策进路。
+> - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 批判教育政策中长期主导的“技术-理性”研究灌输模型，系统阐述以[[Professional Judgment|专业判断]]为核心的多源[[Evidence-Informed Practice|证据知情实践]]与全系统[[Knowledge Mobilisation|知识动员]]。
+> - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] — 剖析英格兰 35 年教师教育改革中技术理性的[[Epistemological Break|认识论断裂]]，揭示证据作为[[Rationalized Myth|合理化神话]]在政策逆向生产中的政治把关功能。
+> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 思想史批判指出 1960 年代实证转型以技术官僚理性取代历史-哲学-文化传统，将教育异化为狭隘的学校技能[[Disciplina and Doctrina|规训]]，重申以人为中心的全人[[Bildung|教化]]防线。
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 剖析美国《[[Reading Excellence Act|卓越阅读法案]]》立法中的技术理性规制机制，揭示法定“[[Scientifically Based Research|科学本位研究]]”如何剥夺教师专业判断并充当政商铁三角的利益掩护工具。
-> - Nielsen & Klitmøller (2021) — 运用 Schön 和 Habermas 的[[Critical Theory\|批判理论]]，系统剖析 [[Visible Learning]] 的技术理性内核及其行为主义理论谱系。
-> - Schön (1983) — 奠基性著作《[[Reflexivity\|反思性]]实践者》，系统界定技术理性并阐明反思性实践作为专业[[Epistemology\|认识论]]的替代方案。
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 审视德语区新治理调控工具（全域统考 [[Vergleichsarbeiten|VERA]]、学校外部督导）的技术理性成效缺失，揭示数据自动倒逼改进假说的破产与理论-实践困境重现。（p. 9）
+> - Nielsen & Klitmøller (2021) — 运用 Schön 和 Habermas 的[[Critical Theory|批判理论]]，系统剖析 [[Visible Learning]] 的技术理性内核及其行为主义理论谱系。
+> - Schön (1983) — 奠基性著作《[[Reflexivity|反思性]]实践者》，系统界定技术理性并阐明反思性实践作为专业[[Epistemology|认识论]]的替代方案。
 > - Habermas (1976) — 阐明技术理性作为晚期资本主义治理媒介对生活世界的侵蚀与合法化危机生成机制。
 
 

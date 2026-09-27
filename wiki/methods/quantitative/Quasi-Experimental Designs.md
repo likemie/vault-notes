@@ -11,7 +11,7 @@ summary: "在无法实现随机分配的真实教育情境中通过非等对控�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 76
+method_related_count: 78
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -77,9 +77,9 @@ related_methods:
   - "[[Hierarchical Linear Model]]"
   - "[[Experimental Research]]"
   - "[[Standard Error]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Qualitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Single-Subject Design]]"
 related_instruments: []
 related_persons: []
@@ -88,6 +88,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Gaokao]]"
+  - "[[Education Sciences Reform Act 2002]]"
   - "[[Best Evidence Encyclopedia]]"
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[National Dropout Prevention Center]]"
@@ -103,11 +104,12 @@ related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Ginsberg_2024_EP]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
+  - "[[Argument_Eisenhart_Towne_2003_ER]]"
   - "[[Argument_Hitchcock_2015_JBE]]"
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-09-23
+updated: 2026-09-28
 ---
 
 # Quasi-Experimental Designs
@@ -224,6 +226,10 @@ updated: 2026-09-23
 
 ## 政策与清算体系中的审查标准
 
+> [!policy-context] 准实验设计在联邦立法与证据审查中的制度定位与法理突破
+> - **从法定等级偏好到因果合法性确立** 在 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）中，联邦公法明文写入“优先青睐[[Random Assignment|随机分配]]实验（with a preference for random-assignment experiments）”，将准实验（QEDs）置于从属的二等地位；然而在 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）中，国会吸纳学术界质证，确立了更为严谨的[[Causality|因果推断]]法理：明确规定因果关系主张不仅限于随机实验，只要“在实质上排除所获结果合理竞争性解释的其他设计（other designs to the extent such designs substantially eliminate plausible competing explanations）”，准实验设计同样具备提出因果主张的法定合法性（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, p. 34]]）。
+> - **[[What Works Clearinghouse|有效干预清算中心]]（WWC）审查规程的分离与细化** 在早期 Study DIAD 规程草案中，准实验与实验一度被混合评估，引发学界对单一实验模板裁量准实验设计的抗议；WWC 在吸纳 47 条公众评议后，正式在规程中将准实验与随机实验拆分为两个独立审查部分，设立专章容纳[[Regression Discontinuity Design|断点回归设计]]（RDD），并增设 30 多项实施情境与设计特征作为因果调节[[Variable|变量]]进行[[Coding in Qualitative Research|编码]]（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 35–36]]）。
+
 > [!framework-table] 循证清算中心对 QED 的准入门槛与评级待遇对比（基于 Wadhwa et al., 2024）
 > | 清算中心 / 政策法规 | 对 QED 因果设计的描述强度 | 允许获得的最高评级待遇 | 关键限制条件与特殊要求 |
 > |:---|:---:|:---|:---|
@@ -302,3 +308,4 @@ updated: 2026-09-23
 > - [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] — 论证准实验、[[Single-Subject Design\|单一被试设计]]与组间 [[Randomised Controlled Trials\|RCT]] 在排除历史与成熟威胁上的同构逻辑与效度门控机制（pp. 461–464）。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 总结英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在学校拒绝[[Random Assignment\|随机分配]]宏观政策背景下，设立“[[Researching School Choices\|研究学校选择]]”资助序列、利用系统自然变异推进准实验因果评估的方法学制度演进（pp. 55–56）。
 > - [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] — 审计大型城市学区 2.88 亿美元支出流水，实证揭示单项 QED 法定中等证据门槛下超过 95% 的名义合规假象、学段科研供给断层及微观复合实践归因局限（pp. 162–165, 174–178）。
+> - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] — 考证联邦立法从 NCLB 优先青睐随机分配实验向 ESRA（2002）法定承认准实验在排除竞争性解释时具备[[Causality|因果推断]]合法性的制度转折，记录 WWC 在公众评议下将准实验从实验模板中独立拆分的规程变革（pp. 34–36）。

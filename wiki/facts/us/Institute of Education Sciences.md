@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 59
+fact_related_count: 60
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -68,6 +68,7 @@ related_persons:
   - "[[Robert Slavin]]"
   - "[[William H. Schmidt]]"
 related_facts:
+  - "[[Education Sciences Reform Act 2002]]"
   - "[[What Works Clearinghouse]]"
   - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[Investing in Innovation Program]]"
@@ -92,7 +93,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-26
+updated: 2026-09-27
 ---
 
 # Institute of Education Sciences
@@ -102,7 +103,7 @@ updated: 2026-09-26
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **美国教育科学研究院（Institute of Education Sciences, IES）**是美国教育部下辖的核心官方科学与统计管理机构，依据《2002年教育科学改革法案》（Education Sciences Reform Act of 2002）组建，旨在通过资助与推行严格、客观、透明且具有实践行动力的因果实证研究与大规模教育统计，重塑全美教育决策的科学基石，促进学生[[Academic Achievement\|学业成就]]的实质改善。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206–207, 209)]]; [[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 571)]]
+> **美国教育科学研究院（Institute of Education Sciences, IES）**是美国教育部下辖的核心官方科学与统计管理机构，依据《[[Education Sciences Reform Act 2002|2002年教育科学改革法]]案》（Education Sciences Reform Act of 2002）组建，旨在通过资助与推行严格、客观、透明且具有实践行动力的因果实证研究与大规模教育统计，重塑全美教育决策的科学基石，促进学生[[Academic Achievement\|学业成就]]的实质改善。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206–207, 209)]]; [[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 571)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 2002 年依据美国联邦立法创设，取代原有的教育研究与改进办公室（Office of Educational Research and Improvement, OERI），旨在从制度层面确立教育科学研究的专业独立性，摆脱党派政治与意识形态对教育科研立项与数据发布的干预。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 206)]]
@@ -233,7 +234,7 @@ flowchart LR
 > > 批评该机构植根于大样本[[Statistical Significance|统计显著性]]与正态分布[[Hypothesis|假设]]的研究规程，是否会系统性遮蔽处于两端的极端处境不利群体。
 > >
 > > - **批评视角（反方）** 友利田真木人（Makito Yurita）等批判学者指出，以大样本统计与可用性为基准的科研取向，追求的是总体均值效应与主流群体的干预效率，极易将少数族裔、被剥夺权利者及特殊需求学生贬斥为统计离群值，背离了教育作为公共服务对弱势群体承担的受托照护使命。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 225–227)]]
-> > - **机构立场（正方）** IES 坚决捍卫公共科研资助的正义底色，不仅在《2002年教育科学改革法案》中将缩小处境不利学生学业鸿沟确立为法定立项基准，更在 SEER 标准中将积极回应教育不平等列为强制准则，要求研究必须对不同亚群体进行[[Heterogeneity|异质性]]效应分析与公平评估。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 208)]]
+> > - **机构立场（正方）** IES 坚决捍卫公共科研资助的正义底色，不仅在《[[Education Sciences Reform Act 2002|2002年教育科学改革法]]案》中将缩小处境不利学生学业鸿沟确立为法定立项基准，更在 SEER 标准中将积极回应教育不平等列为强制准则，要求研究必须对不同亚群体进行[[Heterogeneity|异质性]]效应分析与公平评估。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 208)]]
 > >
 > > [!axis] 宏观统一标准与真实学业产出脱钩争议（国家标准 vs 课程教材）
 > > 围绕统一课程标准能否切实提升学生[[Academic Achievement|学业成就]]，IES 创始领导层与政策倡导者展开了持久的实证交锋。

@@ -9,9 +9,9 @@ subtype: organization
 region: denmark
 fact_region: "denmark"
 fact_kind: "organization"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 29
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "academic-clearinghouse"
 headquarters: "Copenhagen, Denmark"
@@ -34,7 +34,11 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Knowledge Mediation]]"
   - "[[Incubation]]"
+  - "[[Hypothesis]]"
+  - "[[International Education]]"
+  - "[[Knowledge Transfer]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Going Native]]"
   - "[[Scientific Method]]"
 related_theories: []
 related_methods:
@@ -50,13 +54,15 @@ related_facts:
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[Campbell Collaboration]]"
   - "[[EPPI-Centre]]"
+  - "[[Kunnskapssenter for utdanning]]"
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
+  - "[[Argument_Manitius_vanHolt_2019_BzS]]"
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-09-13
+updated: 2026-09-27
 ---
 
 # Danish Clearinghouse for Educational Research
@@ -139,6 +145,12 @@ updated: 2026-09-13
 > > - **行政与财政逻辑（官方做法）** 政府部门倾向于将清算中心视为采购外部服务的“临时项目”，以便在政党换届或财政吃紧时随时缩减开支。
 > > - **中介组织存续规律（Burns & Schuller, 2022 批判）** [[Educational Brokerage Agency\|知识中介机构]]的信任建立与实践渗透需要漫长的[[Incubation\|潜伏期]]；2 至 3 年的政党轮替与合同周期与教育改革周期发生致命错配，直接扼杀了欧洲先驱机构的生命力([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])。
 >
+> > [!axis] 清算机构底层转移[[Hypothesis|假设]]与实证成效验证赤字
+> > 丹麦清算中心作为欧洲大陆早期探索的先驱，其发展与夭折反映了[[International Education|国际教育]]清算机制在底层[[Knowledge Transfer|知识转移]]模型与因果作用假设（Wirkannahmen）上的深刻理论反思赤字。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
+> >
+> > - **转移目标达成度知之甚少** [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] 指出，包括丹麦教育研究清算中心、美国 [[What Works Clearinghouse|WWC]]、英国 [[EPPI-Centre]] 在内的国际代表性清算机构，关于其在多大程度上真正达成预期的转移目标（intendierte Transferziele），迄今为止在实证层面依然极度匮乏严格的经验检验。
+> > - **单向供给假设掩盖实践吸收黑箱** 清算机构普遍默认将学术研究改写为通俗[[Systematic Review|系统综述]]便能自然驱动实践者阅读与教学改进；而丹麦中心在长达 11 年的存续期内几乎未接受过系统性的长效转移成效与[[Return on Investment|投资回报]]评估，最终在新一届政府财政紧缩时轻易遭到撤资关停，印证了脱离实践吸收支持的单向供给模型在制度上的极度脆弱性。
+>
 > > [!axis] 跨国证据协调匮乏与资源浪费
 > > 探讨各自为战的国家级清算中心在欧洲跨国知识生态中的局限。
 > >
@@ -158,4 +170,6 @@ updated: 2026-09-13
 > | [[EU Evidence-Informed Education Policy Initiatives]] | Fact (Policy) | 机构深度参与的泛欧洲证据知情政策倡议与 EIPPEE 协作网络。 |
 > | [[What Works Clearinghouse]] | Fact (Organization) | 美国联邦清算中心，与丹麦中心形成“法定预算持久存续 vs 短期合同被迫夭折”的制度对照。 |
 > | [[EPPI-Centre]] | Fact (Organization) | 英国学术型证据先驱，与丹麦中心共同构成欧洲系统综述中介的早期核心力量。 |
+> | [[Kunnskapssenter for utdanning]] | Fact (Organization) | 挪威教育知识中心，北欧地区共同探索证据清算与[[Going Native\|本土化]]中介机制的兄弟机构。 |
 > | [[Systematic Review]] | Method | 机构赖以开展证据审查的核心[[Scientific Method\|科学方法]]。 |
+> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | Argument | 剖析丹麦清算中心等国际机构在底层转移模型与因果作用[[Hypothesis\|假设]]上的反思贫困及成效验证赤字。 |

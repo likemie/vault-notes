@@ -7,10 +7,10 @@ aliases:
 summary: "组织识别、吸收并情境化应用外部知识的能力；在教育与治理中取决于实践者认知基础、内部沟通网络与支持性领导，调节科研证据向微观行动的转化成效。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 48
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - field/educational-leadership-administration
   - theme/knowledge-mobilisation
@@ -33,19 +33,26 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
+  - "[[Heterogeneity]]"
+  - "[[Knowledge Transfer]]"
   - "[[Evidence-Informed Practice]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Transfer Science]]"
+  - "[[Educational Evidence Clearinghouses]]"
   - "[[Push and Pull Models of Knowledge Mobilisation]]"
   - "[[Formative Assessment]]"
   - "[[Literature Review]]"
   - "[[Interaction Effect]]"
-related_theories: []
+  - "[[Document]]"
+related_theories:
+  - "[[Organizational Culture]]"
 related_arguments:
   - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_Rickinson_2022_UsingResearchWell]]"
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Glitz_2020_AER]]"
   - "[[Argument_Cohen_2025_JTT]]"
+  - "[[Argument_Manitius_vanHolt_2019_BzS]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
@@ -53,6 +60,7 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Formative Program Evaluation]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Network Analysis]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[Keith Morrison]]"
@@ -62,10 +70,11 @@ related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
   - "[[Monash Q Project]]"
   - "[[OECD]]"
+  - "[[Schulen im Team]]"
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-09-22
+updated: 2026-09-27
 ---
 
 # Absorptive Capacity
@@ -75,7 +84,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> **吸收能力（Absorptive Capacity）** 指组织识别外部新知识的价值、消化同化该知识并将其[[Creativity\|创造性]]应用于实践终端以实现既定目标的组织能力与系统特性（Cohen & Levinthal, 1990, p. 128）。在教育改革与[[Knowledge Mobilisation\|知识动员]]视域下，吸收能力不仅体现在个别教师的[[Research Literacy\|研究素养]]与甄别技能，更是一种扎根于微观学校组织生态的系统性学习条件，涵盖教师开放对话习惯、[[Professional Learning Community\|专业学习共同体]]（PLCs）架构、领导者躬身示范以及受制度保障的专有工时（Ross & Morrison, 2021；[[Argument_Torres_2022_KMModels\|Torres, 2022b, pp. 43–45]]；[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022, pp. 183–187, 193–195]]）。
+> **吸收能力（Absorptive Capacity）** 指组织识别外部新知识的价值、消化同化该知识并将其[[Creativity\|创造性]]应用于实践终端以实现既定目标的组织能力与系统特性（Cohen & Levinthal, 1990, p. 128）。在教育改革与[[Knowledge Mobilisation\|知识动员]]视域下，吸收能力不仅体现在个别教师的[[Research Literacy\|研究素养]]与甄别技能，更是一种扎根于微观学校组织生态的系统性学习条件，涵盖教师开放对话习惯、[[Professional Learning Community\|专业学习共同体]]（PLCs）架构、领导者躬身示范以及受制度保障的专有工时（Ross & Morrison, 2021；[[Argument_Torres_2022_KMModels\|Torres, 2022b, pp. 43–45]]；[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, pp. 183–187, 193–195]]）。
 
 > [!concept-lens] 概念透镜
 > - **核心指向** 组织在面对外部知识、学术证据或技术情报时的主动消化、批判性整合与情境化转化机制。
@@ -88,7 +97,7 @@ updated: 2026-09-22
 > *The ability of a firm to recognize the value of new, external information, assimilate it, and apply it to commercial ends is critical to its innovative capabilities.*
 
 > [!citation-card] Rickinson et al. 论需求端吸收能力与使能条件
-> 传统的努力过度聚焦于研究发现的单向传播与综合，忽视了对证据采纳与落地的实质性支持。改善教育实践中的证据利用，必须在需求端大力投资教师的批判性审思技能、[[School Leadership\|学校领导力]]示范与制度化排程工时，全面夯实一线组织的吸收使能基础。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022, pp. 183, 193–195)]]
+> 传统的努力过度聚焦于研究发现的单向传播与综合，忽视了对证据采纳与落地的实质性支持。改善教育实践中的证据利用，必须在需求端大力投资教师的批判性审思技能、[[School Leadership\|学校领导力]]示范与制度化排程工时，全面夯实一线组织的吸收使能基础。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 183, 193–195)]]
 >
 > *Efforts need to shift from a primary focus on the production and pushing of research towards supporting the thoughtful engagement with and implementation of appropriate research evidence by practitioners.*
 
@@ -118,7 +127,7 @@ updated: 2026-09-22
 > [!feature] 组织吸收能力的四维支撑支柱
 > - **认知基础与知识素养（Cognitive Base & Skillsets）** 组织内部成员对专业领域基础知识的理解存量，以及获取、评估并解读外部成果的专业能力。
 > - **内部开放沟通与共同体研讨（Internal Dialogue & [[Professional Learning Community\|PLCs]]）** 打破部门壁垒与教师孤岛的协作架构，依托制度化教研共同体展开[[Reflexivity\|反思性]]对话。
-> - **支持性领导示范与心理安全（Supportive Leadership & Trust）** 管理层躬身示范新知识转化，确立容忍试错的互信文化，支持团队开展渐进式创新。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022, pp. 187–188, 191)]]
+> - **支持性领导示范与心理安全（Supportive Leadership & Trust）** 管理层躬身示范新知识转化，确立容忍试错的互信文化，支持团队开展渐进式创新。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 187–188, 191)]]
 > - **制度化时空缓冲与排程保障（Protected Time & Infrastructure）** 在日常繁忙运作中为深思熟虑研读留出受保护的时空，抵御行政杂务的残酷挤占。
 
 > [!logic-map]- 吸收能力在[[Knowledge Mobilisation\|知识动员]]中的中枢转化机制
@@ -153,7 +162,7 @@ updated: 2026-09-22
 > 批判将教育改进简化为学术成果单向分发的供给偏误，阐明学校吸收能力建设在破解实践落地困境中的决定性意义。
 
 > [!claim] Rickinson et al.; Torres
-> **组织使能与需求端吸收** 在基础教育循证改革中，单向学术成果推送（Push）假定教师能自动将论文转化为教学，这种线性[[Hypothesis\|假设]]遭遇了大面积失败。[[Mark Rickinson\|马克·里金森]]（Mark Rickinson）与米格尔·[[Carlos Alberto Torres\|托雷斯]]（Miguel Torres）等学者证实，中小学一线实践者普遍面临质量判断信心匮乏与检索困难等吸收短板，更遭遇压倒性的时间赤字挤压；唯有通过[[School Leadership\|学校领导]]者的躬身示范、制度化[[Professional Learning Community\|专业学习共同体]]（PLCs）以及刚性排程工时保障，才能实质提升学校的组织吸收能力，完成从被动接收到主动需求牵引（Pull）的[[Paradigm\|范式]]跃迁。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022, pp. 183–187, 191–195)]]；[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 43–45)]]
+> **组织使能与需求端吸收** 在基础教育循证改革中，单向学术成果推送（Push）假定教师能自动将论文转化为教学，这种线性[[Hypothesis\|假设]]遭遇了大面积失败。[[Mark Rickinson\|马克·里金森]]（Mark Rickinson）与米格尔·[[Carlos Alberto Torres\|托雷斯]]（Miguel Torres）等学者证实，中小学一线实践者普遍面临质量判断信心匮乏与检索困难等吸收短板，更遭遇压倒性的时间赤字挤压；唯有通过[[School Leadership\|学校领导]]者的躬身示范、制度化[[Professional Learning Community\|专业学习共同体]]（PLCs）以及刚性排程工时保障，才能实质提升学校的组织吸收能力，完成从被动接收到主动需求牵引（Pull）的[[Paradigm\|范式]]跃迁。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 183–187, 191–195)]]；[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 43–45)]]
 
 ---
 
@@ -167,14 +176,25 @@ updated: 2026-09-22
 
 ---
 
+### 命题四　学校微观组织异质性与文化土壤对外部创新转移的吸收能力构成关键制约
+
+> [!concept-lens] 组织[[Heterogeneity|异质性]]与文化土壤制约
+> 探讨教育系统微观组织的非均质特征，揭示单体学校微观生态与教师文化对外部创新吸收能力的深层决定机制。
+
+> [!claim] [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, pp. 9, 11–12)]]; van Holt (2014); Koch (2011)
+> **组织异质性与情境化重构土壤** 外部教育科学成果与教学改进方案向实践界的转移绝非自动发生的均质过程。德语区区域学校网络协同改进项目（如鲁尔区“组团办学”，德语：Schulen im Team；van Holt, 2014）与学校发展实证研究确证，单所学校的组织异质性（Heterogenität）对[[Knowledge Transfer|知识转移]]吸收能力具有深刻制约；外部学术成果与教研方案必须经历深度的校本情境化重构（Re-Kontextualisierung；Koch, 2011），并依托学校内部微观[[Organizational Culture|组织文化]]土壤与[[Reflexivity|反思性]]对话习惯，才能被真正消化吸纳。若忽视单体学校微观组织文化差异与吸收能力的现实短板，单纯依靠外部中介平台（如教学清算中心）自上而下推送标准化证据，极易遭遇被动抵制或符号化搁置，导致转移成效的系统性衰减。
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认知基础先决** | 外部知识转化取决于既有认知存量与内部开放沟通网络 | 组织学习、学区评价使用与技术追赶 | Cohen & Levinthal (1990); [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] |
-> | **需求吸收使能** | 单向推送无法突破落地瓶颈，吸收能力依赖领导示范与排程工时 | 中小学[[Evidence-Informed Practice\|证据知情实践]]与[[Knowledge Mobilisation\|知识动员]]改革 | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]]; [[Argument_Torres_2022_KMModels\|Torres (2022b)]] |
+> | **需求吸收使能** | 单向推送无法突破落地瓶颈，吸收能力依赖领导示范与排程工时 | 中小学[[Evidence-Informed Practice\|证据知情实践]]与[[Knowledge Mobilisation\|知识动员]]改革 | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]]; [[Argument_Torres_2022_KMModels\|Torres (2022b)]] |
 > | **合作收益调节** | 吸收能力调节[[University-Industry Collaboration\|产学合作]]创新收益，并产生资助分配马太效应 | 产学研发合作与国家创新体系治理 | [[Argument_Cohen_2025_JTT\|Cohen et al. (2025)]] |
+> | **组织异质与文化土壤** | 创新转移受制于单校组织异质性与微观文化，依赖本土情境重构与吸收能力 | 区域学校协作网络、微观学校改进与[[Transfer Science\|知识转移科学]] | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]]; van Holt (2014) |
 
 ---
 
@@ -183,9 +203,10 @@ updated: 2026-09-22
 > [!dev-timeline] 概念演变
 > - **1990 — 工业研发创新领域的奠基** 韦斯利·科恩（Wesley Cohen）与丹尼尔·莱文萨尔（Daniel Levinthal）发表《吸收能力：学习与创新的新视角》，奠定组织识别、吸收与应用外部知识的三维[[Analytic Framework\|分析框架]]。
 > - **2002 — 潜在与实现吸收能力的分化** 沙哈拉与乔治（Zahra & George, 2002）将吸收能力重新构架为“潜在吸收能力”（获取与消化）与“实现吸收能力”（转化与利用），深化了组织知识转化的过程论模型。
+> - **2019 — 德语区教育[[Transfer Science|转移科学]]与微观[[Organizational Culture|组织文化]]土壤** 曼尼蒂乌斯与范霍尔特（[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019]]）在确立教育科学作为[[Transfer Science\|转移科学]]（Transferwissenschaft）的学科对话中，系统反思了各类清算机构（[[Educational Evidence Clearinghouses|Clearinghouse]]）被动供给的局限，强调转移成效从根本上受制于单体学校现场的微观组织文化土壤与异质吸收能力（Absorptionskapazität），主张依托全周期教师教育与中层研训机构重塑吸收转化生态。
 > - **2020 — 宏观经济与技术追赶中的经验确证** 格利茨与迈尔森（[[Argument_Glitz_2020_AER\|Glitz & Meyersson, 2020]]）基于冷战时期东德工业间谍数据，证实只有接近西德技术前沿的行业才能有效消化科技情报，实证确立了认知距离对吸收能力的决定作用。[[Argument_Glitz_2020_AER\|(Glitz & Meyersson, 2020, p. 1096)]]
 > - **2021 — K-12 教育学区改革评价吸纳** 罗斯与[[Keith Morrison\|莫里森]]结合巴尔的摩 [[Students and Teachers Accessing Tomorrow\|STAT]] 项目，将吸收能力引入教育行政与评价利用，揭示项目理解与开放沟通对评价证据转化的支撑。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 122–124)]]
-> - **2022 — [[Push and Pull Models of Knowledge Mobilisation\|知识动员推拉模型]]与学校使能生态** [[Monash Q Project\|莫纳什 Q 项目]]与 [[OECD]] [[Knowledge Mobilisation\|知识动员]]模型将吸收能力确立为克服单向供给推送偏误的核心支柱，量化揭示时间赤字与领导示范对学校吸收能力的决定性影响。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 43–45)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022, pp. 183–187)]]
+> - **2022 — [[Push and Pull Models of Knowledge Mobilisation\|知识动员推拉模型]]与学校使能生态** [[Monash Q Project\|莫纳什 Q 项目]]与 [[OECD]] [[Knowledge Mobilisation\|知识动员]]模型将吸收能力确立为克服单向供给推送偏误的核心支柱，量化揭示时间赤字与领导示范对学校吸收能力的决定性影响。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 43–45)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 183–187)]]
 
 ---
 
@@ -193,14 +214,20 @@ updated: 2026-09-22
 
 > [!debates] 学术争议
 >
+> > [!axis] 清算平台供给扩张 vs 学校端吸收能力贫困
+> > 探讨各类证据清算机构迅猛发展背后忽视学校吸收能力的供给侧偏误。
+> >
+> > - **供给[[Hypothesis|假设]]偏误** 预设只要将学术论文改写为通俗摘要并在数字化平台分发，一线实践者就会自发检索并阅读采纳。
+> > - **吸收土壤制约** 学校缺乏支持专业对话的探究文化、持续的专家陪伴与深层组织吸收能力，使得单纯平台层面的二次加工难以穿透微观实践屏障，在国际实证评估中普遍缺乏微观教学转化证据（[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019, pp. 10–12]]）。
+> >
 > > [!axis] 事前可测量指标匮乏与概念套套逻辑
 > > 批判学者指出，吸收能力在实证研究中经常沦为“事后诸葛亮”式的解释框架——合作成功的企业或改革成功的学校被归因于吸收能力强，而合作失败则被归因于吸收能力弱，缺乏事前标准化的测量工具。[[Argument_Cohen_2025_JTT\|(Cohen et al., 2025, p. 353)]]
->
+> >
 > > [!axis] 资助政策中的马太效应与公平失衡
 > > 政府在创新资助或教育改革试点中偏好选择吸收能力成熟的单位，导致资源向优势学校或龙头企业集聚，加剧了弱势单位在资源匮乏中的自我封闭。
 
 > [!warning] 适用局限
-> - **时间赤字对吸收能力的体制性扼杀** 澳大利亚调查显示，高达 76% 的教师在校缺乏时间、61% 感到转化耗时不划算；在缺乏排程工时保障的科层体制中，教师个体的吸收意愿极易被日常杂务彻底扼杀。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022, pp. 192–193)]]
+> - **时间赤字对吸收能力的体制性扼杀** 澳大利亚调查显示，高达 76% 的教师在校缺乏时间、61% 感到转化耗时不划算；在缺乏排程工时保障的科层体制中，教师个体的吸收意愿极易被日常杂务彻底扼杀。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 192–193)]]
 > - **无法完全消解利益与意识形态冲突** 即使组织具备良好吸收能力，在涉及核心办学理念或政治利益冲突时，利益相关者仍倾向于选择性解释复杂证据。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 122–123)]]
 
 ---
@@ -212,18 +239,20 @@ updated: 2026-09-22
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]] | 澳大利亚 4 州中小学 906 名教育者（两轮标准化[[Questionnaire\|问卷]]）及 29 名访谈者 | 两轮李克特问卷调查与主题分析[[In-depth Interview\|深度访谈]] | 实践端吸收障碍（质量甄别信心、检索能力、时间赤字）及组织使能条件 | 64% 报告检索适切研究困难；44% 自陈缺乏判断质量信心；76% 遭遇日常时间赤字；61% 因转化耗时过长认为使用不划算；校内[[Professional Learning Community\|专业学习共同体]]显著提升常规使用概率 | $p < .05$（Fisher 精确检验显著） | 基于澳大利亚基础教育教师与管理者自陈，证实了需求端吸收能力建设对突破落地瓶颈的决定性意义 |
+> | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] | 澳大利亚 4 州中小学 906 名教育者（两轮标准化[[Questionnaire\|问卷]]）及 29 名访谈者 | 两轮李克特问卷调查与主题分析[[In-depth Interview\|深度访谈]] | 实践端吸收障碍（质量甄别信心、检索能力、时间赤字）及组织使能条件 | 64% 报告检索适切研究困难；44% 自陈缺乏判断质量信心；76% 遭遇日常时间赤字；61% 因转化耗时过长认为使用不划算；校内[[Professional Learning Community\|专业学习共同体]]显著提升常规使用概率 | $p < .05$（Fisher 精确检验显著） | 基于澳大利亚基础教育教师与管理者自陈，证实了需求端吸收能力建设对突破落地瓶颈的决定性意义 |
 > | [[Argument_Glitz_2020_AER\|Glitz & Meyersson (2020)]] | 冷战时期东德工业部门与西方技术情报数据库 | 准实验计量经济分析与生产函数估计 | 工业间谍对东德部门[[Total Factor Productivity\|全要素生产率]]（TFP）的因果效应及技术差距调节 | 间谍情报对 TFP 增长的促进效应在初始与西德 TFP 差距较小的行业中最强，在落后行业中不显著 | 计量模型显著 | 强力实证支持了吸收能力假说：具备认知基础与技术存量的部门才能有效转化外部情报 |
 > | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] | 巴尔的摩县公立学区 [[Students and Teachers Accessing Tomorrow\|STAT]] 技术改革利益相关者 | [[Formative Program Evaluation\|形成性项目评价]]、问卷与案例分析 | [[Formative Assessment\|形成性评价]]证据对学区决策、持续实施及丑闻后改革延续的支撑 | 多方证实形成性反馈在学监辞职后仍支持了项目延续；项目理解与开放沟通促成了评价证据进入实践 | — | 质性证实学区层面的吸收能力在保障复杂教育改革延续中的关键功能 |
 > | [[Argument_Cohen_2025_JTT\|Cohen et al. (2025)]] | 产学研发合作（UICs）多国企业实证样本 | 跨国实证[[Literature Review\|文献综述]]与[[Meta-meta-analysis\|元综合]] | 吸收能力对企业从[[University-Industry Collaboration\|产学合作]]中获取创新绩效的[[Interaction Effect\|调节效应]] | 吸收能力薄弱的企业在正式合作中未能获得显著创新提升；高吸收力企业展现显著转化优势与资助偏向 | 综述多项计量研究结论 | 实证确立了吸收能力在产学合作创新转化中的门槛与调节效应 |
+> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]]（引述 van Holt, 2014; Koch, 2011） | 德国鲁尔区区域学校协作网络项目（[[Schulen im Team]]）及多州学校发展样本 | 追踪评估、多案例[[Network Analysis\|网络分析]]与[[Document\|文献]]综合批判 | 学校组织[[Heterogeneity\|异质性]]与本土情境重构 vs 外部教研成果转移吸收能力 | 实证揭示单校组织异质性深刻制约外部教研方案的消化吸收；缺乏[[Reflexivity\|反思性]]校本对话与文化土壤支持的学校无法有效转化网络合作经验 | 质性与个案实证确证 | 确立学校组织异质性与微观文化对吸收能力的决定性制约，证实情境化重构是外部创新存活的前提 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]] — 结合全澳中小学调查，系统论证需求端吸收能力与学校组织使能条件是打破供给驱动偏误、实现高质量[[Research Utilization\|证据使用]]的核心支柱。
+> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 结合全澳中小学调查，系统论证需求端吸收能力与学校组织使能条件是打破供给驱动偏误、实现高质量[[Research Utilization\|证据使用]]的核心支柱。
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 评述[[Knowledge Mobilisation\|知识动员三代演进模型]]，剖析 [[OECD]] 国家在供给推送与实践端吸收能力建设上的政策失衡与演变进路。
 > - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] — 通过巴尔的摩 [[Students and Teachers Accessing Tomorrow\|STAT]] 项目，检验项目理解与开放沟通对学区吸收和转化评价证据的支撑机制。
 > - [[Argument_Glitz_2020_AER\|Glitz & Meyersson (2020)]] — 基于东德工业间谍数据，实证检验认知距离对技术情报吸收同化效率的调节作用。
 > - [[Argument_Cohen_2025_JTT\|Cohen et al. (2025)]] — 探讨产学研发合作中吸收能力的门槛与放大效应，揭示其对企业创新绩效的决定性调节机制。
+> - [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] — 结合德语区学校改革与区域协作网络实证，阐明单校组织[[Heterogeneity|异质性]]与微观文化土壤对外部科学知识吸收能力的制约机制，反思清算中心供给模式的局限。

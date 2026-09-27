@@ -7,7 +7,7 @@ title: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_key: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_display_title: "Perspectives on education research (N. Révai, Ed.)"
 argument_kind: "book-chapter"
-argument_related_count: 82
+argument_related_count: 83
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -124,6 +124,7 @@ related_facts:
   - "[[Complex Instruction Programme]]"
   - "[[Swedish ULF Project]]"
   - "[[William T. Grant Foundation]]"
+  - "[[Education Sciences Reform Act 2002]]"
   - "[[PISA]]"
   - "[[National Education Association]]"
   - "[[National Education]]"
@@ -266,7 +267,7 @@ updated: 2026-09-14
 作为全球最大的官方教育科研出资机构负责人，[[Mark Schneider|马克·施奈德]]从资助实践出发，证实了供给侧单纯追求因果内部效度的局限：[[Institute of Education Sciences|美国教育科学院]]（IES）在成立的前二十年中全力推动随机对照试验（RCT），但实践证明，仅仅知道某项干预有效远远不够（simply knowing that something works is not enough）。必须通过构建更高维度的科学标准体系，全面重构知识供给质量。
 
 > [!policy-context] Box 10.1　美国教育科学院（Institute of Education Sciences, IES）
-> **机构性质** 美国联邦教育部（US Department of Education）内部设立的核心官方科学办公室，依据《2002 年教育科学改革法案》（Education Sciences Reform Act of 2002）组建。
+> **机构性质** 美国联邦教育部（US Department of Education）内部设立的核心官方科学办公室，依据《2002 年[[Education Sciences Reform Act 2002|教育科学改革法]]案》（Education Sciences Reform Act of 2002）组建。
 > **投资规模** 年度教育科研专属投资预算约为 **1.5 亿美元**，系全球资金规模最大的官方教育科研出资主体之一。
 > **业务覆盖** 资助范围横跨学前教育、初等教育、中等教育、高等教育以及成人[[Lifelong Learning\|终身教育]]的全生命周期教育科学研究。
 > **法定宗旨** 自 2002 年成立以来，IES 始终专注于资助透明、可执行、高度聚焦关键成果且具备实质提升学生学业潜力的严谨教育科研。（p. 209）

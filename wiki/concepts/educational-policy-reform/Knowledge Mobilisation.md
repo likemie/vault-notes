@@ -12,7 +12,7 @@ aliases:
 summary: "教育研究利用领域的全系统构念，指研究知识通过沟通传播、能力建设、伙伴关系与系统化方法进入政策与实践的社会交互与多方共创过程，旨在克服证据供需脱节与双向能力赤字。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 64
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Paradigm Wars]]"
   - "[[Technical Rationality]]"
+  - "[[Recontextualization]]"
   - "[[Epistemology]]"
   - "[[Practice-Based Evidence]]"
   - "[[Research Utilization]]"
@@ -96,7 +97,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-21"
-updated: 2026-09-26
+updated: 2026-09-27
 ---
 
 # Knowledge Mobilisation
@@ -267,7 +268,7 @@ updated: 2026-09-26
 
 > [!tension] 知识流动本体[[Paradigm Wars\|范式之争]]：线性管道输送 vs 多方社会共创
 > - **[[Technical Rationality\|技术理性]]单向交付（蓝方）** 预设研究知识为标准化静态货品，通过自上而下的管道（Pipeline）向一线被动输送，将实践者定位为接受容器。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 130)]]
-> - **社会建构协作共创（红方）** 视动员为研究者、决策者与教师在真实教学情境中共同界定难题、协同生产与本土重构的持续迭代过程。[[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, p. 66)]]
+> - **社会建构协作共创（红方）** 视动员为研究者、决策者与教师在真实教学情境中共同界定难题、协同生产与[[Recontextualization|本土重构]]的持续迭代过程。[[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, p. 66)]]
 
 > [!warrant]- 为什么单纯增加研究供给无法打破实践壁垒
 > [[Theoretical Knowledge\|理论知识]]与[[Phronesis\|实践智慧]]存在[[Ontology\|本体论]]与[[Epistemology\|认识论]]鸿沟，若缺乏双向对话与情境转译，去情境化的学术成果即使物理可及，也无法转化为教师在复杂课堂现场的内生行动。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 19)]]

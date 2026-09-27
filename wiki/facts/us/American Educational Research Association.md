@@ -9,9 +9,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 21
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 28
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: academic-society
 headquarters: "Washington, D.C., USA"
@@ -29,20 +29,26 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Academic Achievement]]"
   - "[[Paradigm]]"
+  - "[[Scientifically Based Research]]"
+  - "[[Research Question]]"
   - "[[Output-Oriented Governance]]"
   - "[[APA Style]]"
   - "[[Teaching Assistant]]"
   - "[[Theory of Knowledge]]"
   - "[[Value Neutrality]]"
+  - "[[Educational Brokerage Agency]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[National Education Association]]"
   - "[[Institute of Education Sciences]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Education Sciences Reform Act 2002]]"
+  - "[[National Research Council]]"
   - "[[Every Student Succeeds Act]]"
   - "[[AERA Congressional Fellowship Program]]"
   - "[[House Committee on Education and the Workforce]]"
@@ -51,10 +57,11 @@ related_facts:
   - "[[Higher Education Act of 1965]]"
 related_arguments:
   - "[[Argument_Serpell_2020_EP]]"
+  - "[[Argument_Eisenhart_Towne_2003_ER]]"
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-09-22
+updated: 2026-09-28
 ---
 
 # American Educational Research Association
@@ -80,7 +87,8 @@ updated: 2026-09-22
 > - **1916–1930 — 测量与测验运动奠基期** 伴随 20 世纪初心理测验学与[[Positivism\|实证主义]]教育科学的兴起，早期核心聚焦于标准化测验、[[Academic Achievement\|学业成就]]测评方法与学校行政统计数据的规范化。
 > - **1931–1967 — 跨学科拓展与学术独立建制** 学会逐步吸纳社会学、发展心理学、历史学、哲学与人类学等多元学科视角，于 1968 年正式脱离[[National Education Association\|全美教育协会]]成为完全自治的跨学科全国性联合会，并创办旗舰期刊《美国教育研究杂志》（AERJ）。
 > - **1968–2000 — 政策倡导制度化与方法论多元化** 在华盛顿建立常设政府关系办公室，积极参与联邦民权教育立法与科研拨款审议；在理论上见证了[[Qualitative Research\|质性研究]][[Paradigm\|范式]]与实证量化范式的激烈对话与制度化整合。
-> - **2001–至今 — [[Output-Oriented Governance\|循证治理]]时代与公共科学传播转型** 面对联邦《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）与《[[Every Student Succeeds Act\|每个学生成功法]]》（ESSA）对实证证据的强制要求，AERA 主导发起[[AERA Congressional Fellowship Program\|国会政策研究员计划]]，举办年度国会山学术走访微培训，并在联邦法庭审理教育平权法案时系统提交“法庭之友”（Amicus Curiae）专家简报，全面深化了学术社团在宏观立法中的制度化穿透力。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 46–47)]]
+> - **2001–2003 — [[Scientifically Based Research|科学本位研究]]大争鸣与公共审议平台** 面对《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）与《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）对“科学本位研究”的硬性界定，AERA 旗舰期刊《教育研究者》（Educational Researcher）成为全美学术共同体抵御单一实验崇拜、捍卫多元探究生态的关键公共讨论平台；学会通过支持[[National Research Council|国家研究委员会]]（NRC）研制六大科学探究原则及积极组织国会听证质证，实质性推动了联邦法律废除对质性研究的贬抑条款，确立了“方法契合[[Research Question|研究问题]]”的法定原则。([[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 31–37]])
+> - **2004–至今 — [[Output-Oriented Governance\|循证治理]]时代与公共科学传播转型** 面对联邦《[[Every Student Succeeds Act\|每个学生成功法]]》（ESSA）对实证证据的持续要求，AERA 主导发起[[AERA Congressional Fellowship Program\|国会政策研究员计划]]，举办年度国会山学术走访微培训，并在联邦法庭审理教育平权法案时系统提交“法庭之友”（Amicus Curiae）专家简报，全面深化了学术社团在宏观立法中的制度化穿透力。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 46–47)]]
 
 ---
 
@@ -132,3 +140,8 @@ updated: 2026-09-22
 
 ---
 
+## 相关论证
+
+> [!evidence-grid-a] [[Correlational Research|相关研究]]与论证索引
+> - [[Argument_Serpell_2020_EP\|Serpell (2020)]] — 详述 AERA 的组织制度沿革、国会政策研究员机制以及学术社团在联邦教育[[Policy Network|政策网络]]中的[[Educational Brokerage Agency|知识经纪]]角色（pp. 46–47）。
+> - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] — 系统阐明 AERA 会刊《教育研究者》（ER）如何成为[[Scientifically Based Research|科学本位研究]]大争鸣的核心阵地，论证学术社团依托专业声誉与民主审议成功抵御了联邦法案对教育科研方法的单一窄化（pp. 31–37）。

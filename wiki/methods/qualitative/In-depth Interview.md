@@ -2,13 +2,12 @@
 title: In-depth Interview
 aliases:
   - 深度访谈
-  - in-depth interview
   - in-depth interviews
 summary: "质性访谈中最核心的变体，通过与受访者进行持续深入的对话，理解其对自身经验与行动意义的主观建构，以悬置、渐进聚焦和生活史为操作核心"
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 52
+method_related_count: 58
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -35,6 +34,8 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Analytic Generalization]]"
   - "[[Causality]]"
+  - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Space Production]]"
   - "[[Peidu]]"
   - "[[School Choice]]"
@@ -60,15 +61,19 @@ related_methods:
   - "[[Progressive Focussing]]"
   - "[[Member Checking]]"
   - "[[Questionnaire]]"
+  - "[[Participant Observation]]"
   - "[[Correlational Research]]"
   - "[[Focus Group]]"
   - "[[Qualitative Codebook]]"
 related_persons: []
 related_facts:
+  - "[[National Research Council]]"
+  - "[[Education Sciences Reform Act 2002]]"
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
+  - "[[Argument_Eisenhart_Towne_2003_ER]]"
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Cai_Gao_Liu_2025_HE]]"
   - "[[Argument_Yu_2024_CE]]"
@@ -78,7 +83,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-23
+updated: 2026-09-28
 ---
 
 # In-depth Interview
@@ -187,10 +192,11 @@ updated: 2026-09-23
 
 ## 局限性
 
-> [!method-limits] 方法局限
+> [!method-limits] 方法局限与政策遭遇
 > - **偏误来源** 受访者记忆的选择性和动机性（Gadd, 2004, p. 384）；社会期望偏差；研究者自身的投射和解释偏差。
 > - **适用边界** 深度访谈不追求统计推广——将发现从少量个案推广到总体是不恰当的。
 > - **误用风险** 最常见的误用是将受访者叙述等同于客观事实，或将少数个体的发现直接推广到总体。
+> - **政策制定中的法定贬抑与[[Paradigm|范式]]抗辩** 在美国 2000 年卡斯尔草案（H.R. 4875, Sec. 6）中，深度访谈与[[Participant Observation|参与观察]]、[[Document|文献]]收集等质性方法在联邦法案草案中被统一定性为仅在机制因素“尚未充分提炼、理解或无法进行实验控制时”使用的“初步形式”（Preliminary Form）；[[National Research Council|国家研究委员会]]（NRC）六大科学原则与学术共同体的抗辩成功纠正了该狭隘取向，促成 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）删除了歧视[[Qualitative Interview|质性访谈]]的条款，确立了方法选择服务于[[Research Question|研究问题]]性质的原则（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 33–34]]）。
 > - **补救方式** [[Triangulation\|三角互证]]、人员校验、跟踪式设计、[[Reflexivity\|反身性]]记录、明确区分[[Analytic Generalization\|分析性推广]]与统计性推广。
 
 ---
@@ -219,4 +225,5 @@ updated: 2026-09-23
 > - [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] — 多元文化视角儒家传统，37 名 15 个民族大学生。
 > - [[Argument_Teng_2025_CE\|Teng & Wang (2025)]] — 农村[[Peidu\|陪读]][[School Choice\|择校]]，128 人（家长、教师、官员），2018 + 2023 回访。
 > - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 中国学校 [[Learner-Centred Education\|LCE]] [[Going Native\|本土化]]，4 位校长 9 位教师。
-> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022, pp. 182–199)]] — 在[[OECD\|经合组织]]（OECD）编著第九章中，对来自澳大利亚 4 个州的 27 场半结构化深度访谈（共 29 名中小学教师与[[School Leadership\|学校领导]]者）进行质性调查，借助 NVivo 软件采用 Braun & Clarke 的法典式主题分析（[[Qualitative Codebook\|codebook]] Thematic Analysis），深入提炼一线教育工作者对[[Quality Use of Research Evidence Framework\|高质量研究使用]]与[[Poor Research Use\|劣质研究使用]]的实质性理解与六大核心特征。
+> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b, pp. 182–199)]] — 在[[OECD\|经合组织]]（OECD）编著第九章中，对来自澳大利亚 4 个州的 27 场半结构化深度访谈（共 29 名中小学教师与[[School Leadership\|学校领导]]者）进行质性调查，借助 NVivo 软件采用 Braun & Clarke 的法典式主题分析（[[Qualitative Codebook\|codebook]] Thematic Analysis），深入提炼一线教育工作者对[[Quality Use of Research Evidence Framework\|高质量研究使用]]与[[Poor Research Use\|劣质研究使用]]的实质性理解与六大核心特征。
+> - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] — 记录美国 2000 年卡斯尔草案（H.R. 4875）试图将深度访谈法案降级为“初步形式”的公案，分析学术共同体如何依托 [[National Research Council|NRC]] 六大原则捍卫质性深入对话在教育探究中的不可替代价值（pp. 33–34）。

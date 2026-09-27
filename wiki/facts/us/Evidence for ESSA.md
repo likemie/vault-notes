@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 37
+fact_related_count: 38
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -58,6 +58,7 @@ related_facts:
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Education Endowment Foundation]]"
   - "[[Education Resources Information Center]]"
+  - "[[Education Sciences Reform Act 2002]]"
   - "[[Success for All]]"
   - "[[Open Court Reading]]"
   - "[[Investing in Innovation Program]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-22
+updated: 2026-09-27
 ---
 
 # Evidence for ESSA
@@ -143,7 +144,7 @@ updated: 2026-09-22
 > [!contrast-table] 平台运行机制与服务导向对比：Evidence for [[Every Student Succeeds Act\|ESSA]] vs 美国教育部 [[What Works Clearinghouse\|WWC]]
 > | 比较维度 | Evidence for ESSA（JHU CRRE） | [[What Works Clearinghouse\|What Works Clearinghouse]]（WWC / IES） |
 > |---|---|---|
-> | **创立背景与使命** | 针对 ESSA 2015 实施痛点设立，专为中小学校长与学区采购决策提供极简指引 | 依据 ESRA 2002 设立，作为联邦官方因果科学审查与方法学基准平台 |
+> | **创立背景与使命** | 针对 ESSA 2015 实施痛点设立，专为中小学校长与学区采购决策提供极简指引 | 依据 [[Education Sciences Reform Act 2002\|ESRA 2002]] 设立，作为联邦官方因果科学审查与方法学基准平台 |
 > | **评级呈现结构** | 采用整体项目瓷砖卡片（Tile），直接标注 ESSA [[Top Institute for Evidence-Based Education Research\|TIER]] 1/2/3 标签并附带成本与培训数据 | 采用微观结果域独立评级（如阅读理解、词汇分别定级），技术条文繁复晦涩 |
 > | **更新与响应速度** | **极速响应** [[Document\|文献]]发布后数周至 1 个月内完成质评并上线 | **周期冗长** 官方审查与指南研制周期往往长达数年，更新滞后 |
 > | **对[[Developer-Made Measures\|开发者自编测验]]的态度** | **一票否决** 强制要求独立标准化测验，坚决排除过度对齐自编测验 | 历史上曾允许自编测验入库，导致部分项目[[Effect Size\|效应量]]虚高（近年逐步收紧） |

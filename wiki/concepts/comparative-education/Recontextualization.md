@@ -2,10 +2,13 @@
 title: Recontextualization
 aliases:
   - 再脉络化
+  - Re-Kontextualisierung
+  - 本土重构
+  - 语境重构
 summary: "知识与教育话语脱离原始生产场所并被接受者选择性挪用、重新定位、改造并嵌入本土秩序与制度架构的过程"
 type: concept
 domain: "comparative-education"
-related_count: 40
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -20,6 +23,8 @@ related_concepts:
   - "[[Floating Signifier]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Learner-Centred Education]]"
+  - "[[Transfer Science]]"
+  - "[[Absorptive Capacity]]"
   - "[[Going Native]]"
   - "[[Quality Education]]"
   - "[[Heterogeneity]]"
@@ -27,6 +32,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Critical Thinking]]"
   - "[[Dialogue in Education]]"
+  - "[[School Inspection]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[Document]]"
@@ -47,18 +53,21 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[Gaokao]]"
+  - "[[SINUS]]"
   - "[[NZ Curriculum Refresh 2021-2026]]"
 related_arguments:
   - "[[Argument_McPhail_2023_JCS]]"
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
   - "[[Argument_Wang_2025_CE]]"
   - "[[Argument_Beech_2009_CE]]"
+  - "[[Argument_Manitius_vanHolt_2019_BzS]]"
 related_theories:
+  - "[[Organizational Culture]]"
   - "[[Knowledge Building Theory]]"
-confidence: medium
-status: draft
+confidence: high
+status: active
 created: 2026-05-26
-updated: 2026-09-17
+updated: 2026-09-27
 ---
 
 # Recontextualization
@@ -107,6 +116,7 @@ updated: 2026-09-17
 > - **双重驱动力** [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] 识别出想象的亲和性（发现外来思想与本土传统的契合）与感知的不可兼容性（将其判定为威胁本土核心价值），两者可赋予同一元素相反评价。[[Argument_Schulte_2009_EncuentrosEducacion\|(Schulte, 2009, p. 70)]]
 > - **三层空间变形** [[Argument_Beech_2009_CE\|Beech (2009)]] 揭示话语在全球层被掏空为[[Floating Signifier\|漂浮能指]]，在国家层与本土话语矛盾并置，在实践层受地缘物质条件制约发生功能突变。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 353–361)]]
 > - **[[Pragmatic Paradigm\|实用主义]]与结构硬边界** [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] 发现 [[Learner-Centred Education\|LCE]] 被实用主义[[Transfer Translation Transformation\|转译]]为提分与效率工具，与儒家对话传统亲和，但受限于[[Gaokao\|高考]]大纲而保留权力共享硬边界。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 601–603)]]
+> - **单体学校组织吸纳与本土重构** 在德语区学校发展与[[Transfer Science\|转移科学]]视域下，再脉络化（德语：Re-Kontextualisierung）被界定为单体学校面对外部科研成果、诊断测评工具或行政改革要求时，必须经历的内部组织同化与转化过程（Koch, 2011; Jäger, 2004; [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019, pp. 9, 11]]）。外部实证证据绝不能“开箱即用”地直接指导微观课堂，它必须穿透学校特定的[[Organizational Culture\|组织文化]]与[[Absorptive Capacity\|组织吸收能力]]，在教师专业共同体的对话协商中，与本土教学经验和校本情境规则重新嵌合。
 
 > [!logic-map]- 全球—国家—实践三层再脉络化与本土制度重构机制
 > ```mermaid
@@ -129,6 +139,7 @@ updated: 2026-09-17
 > |---|---|---|---|
 > | **跨系统转移中的意义再造机制** | 教育思想与话语在跨国或跨系统转移中必然经历接受者的选择性挪用、重构与意义再造 | 跨国思想传播、教育[[Policy Borrowing\|政策借用]]与历史接受史 | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]]; [[Argument_Beech_2009_CE\|Beech (2009)]]; [[Argument_McPhail_2023_JCS\|McPhail et al. (2023, p. 33)]] |
 > | **本土制度约束与权力共享硬边界** | 外来教育模式的再脉络化受制于本土制度架构与文化传统的[[Selective Affinity\|选择性亲和]]，并形成不可跨越的权力共享硬边界 | 东亚高利害考试文化、课程改革与教学法[[Going Native\|本土化]] | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]; [[Argument_McPhail_2023_JCS\|McPhail et al. (2023, pp. 33–40)]] |
+> | **学校组织吸收与本土重构机制** | 外部创新成果在进入单体学校时必须经历基于[[Absorptive Capacity\|组织吸收能力]]与文化土壤的本土重构，否则必然遭遇成效缺失与象征性依从 | 学校发展研究、数据驱动问责与教学转移 | Koch (2011); Jäger (2004); [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, pp. 9, 11)]] |
 
 ---
 
@@ -158,12 +169,23 @@ updated: 2026-09-17
 
 ---
 
+### 命题三　学校组织对外部研究证据的吸纳取决于微观组织文化中的本土重构
+
+> [!concept-lens] 学校发展中的本土重构机制
+> 围绕德语区[[Transfer Science|转移科学]]与学校发展研究展开，揭示外部研究成果向单体学校扩散时微观组织生态的筛选与重塑机制。
+
+> [!claim] Koch (2011); Jäger (2004); [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]]
+> **单体学校[[Organizational Culture|组织文化]]与本土重构的非线性吸收** 宏观政策工具（如统测数据、[[School Inspection|学校督导]]报告或清算中心推荐干预）在单体学校层面的成效缺失（mangelnde Effekte），印证了知识无法以线性方式直接注射入教学现场。学校是具备自身[[Organizational Culture\|组织文化]]、日常惯习与[[Absorptive Capacity\|组织吸收能力]]的自组织系统。外部创新成果与实践研究发现（如 [[SINUS]] 教学模块）若要存活并产生实质教学改进，必须经历本土重构（Re-Kontextualisierung）——即实践者结合本校生源特质、教研氛围与制度环境对其进行意义再诠释与功能适配；若缺乏这一本土重构过程，单纯依靠外部行政问责或平台灌输，改革必然退化为表面应付的象征性依从。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, pp. 9, 11; Koch, 2011; Jäger, 2004)]]
+
+---
+
 ## 概念演变
 
 > [!dev-timeline] 概念演变
 > - **2000 — 语篇再脉络化[[Champ\|场域]]理论** Bernstein 提出再脉络化概念，划分官方再脉络化场域（ORF）与教育再脉络化场域（PRF），分析知识从生产场所到教学语篇的转化。[[Argument_McPhail_2023_JCS\|(McPhail et al., 2023, p. 33)]]
 > - **2009 — 跨国教育思想转移视角扩展** Schulte 将再脉络化发展为跨国教育转移[[Analytic Framework\|分析框架]]，通过[[John Dewey\|杜威]]在中国的百年接受史展现本土行动者的选择性挪用与重写机制。[[Argument_Schulte_2009_EncuentrosEducacion\|(Schulte, 2009, pp. 68–69)]]
 > - **2009 — 全球—国家—实践三层变异模型** Beech 提出全球教育话语的三层再脉络化，揭示[[Floating Signifier\|漂浮能指]]在国家政策并置与学校地缘物质条件约束下的层级变形。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 353–361)]]
+> - **2010s — 学校发展与[[Transfer Science|转移科学]]中的本土重构** Koch (2011)、Jäger (2004) 与 [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] 将再脉络化（Re-Kontextualisierung）确立为学校吸收实践研究与新治理工具的核心机制，指出未经理性本土重构的外部干预必然在单体学校层面遭遇成效缺失（mangelnde Effekte）。
 > - **2023 — 国家课程改革多重原则重构** McPhail et al. 分析[[NZ Curriculum Refresh 2021-2026\|新西兰课程改革]]中双文化主义、地方化与道德原则的再脉络化及隐伏的[[Epistemology\|认识论]]张力。[[Argument_McPhail_2023_JCS\|(McPhail et al., 2023, pp. 33–40)]]
 > - **2025 — 高压考试文化下的[[Pragmatic Paradigm\|实用主义]]转向与硬边界** Wang & McLaughlin 揭示中国高利害[[Test-Based Accountability\|考试问责]]环境下，[[Learner-Centred Education\|LCE]] 被实用主义再脉络化为提分与效率工具，与儒家对话传统亲和但保留权力共享硬边界。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 601–603)]]
 
@@ -211,3 +233,4 @@ updated: 2026-09-17
 > - [[Argument_Beech_2009_CE\|Beech (2009)]] — 提出全球—国家—实践三层再脉络化模型，分析教育话语如何被抽象化为[[Floating Signifier\|漂浮能指]]并在不同层级发生功能性变形。
 > - [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] — 分析[[NZ Curriculum Refresh 2021-2026\|新西兰课程改革]]中官方再脉络化[[Champ\|场域]]运用双文化主义、地方化与道德原则重构话语秩序的实践与张力。
 > - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 揭示中国高利害考试文化下以学生为中心教育（[[Learner-Centred Education\|LCE]]）被[[Pragmatic Paradigm\|实用主义]]再脉络化为提分与效率工具、与儒家对话传统亲和但保留权力共享硬边界的机制。
+> - [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, pp. 9, 11)]] — 引入学校发展与[[Absorptive Capacity|组织吸收能力]]视角，论证外部实证研究与治理工具在单体学校发生真实转化的前提是经历本土重构（Re-Kontextualisierung）。
