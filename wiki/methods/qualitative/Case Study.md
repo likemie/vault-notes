@@ -7,7 +7,7 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 67
+method_related_count: 68
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -44,9 +44,12 @@ related_concepts:
   - "[[Business as Usual]]"
   - "[[Center of Calculation]]"
   - "[[Data Infrastructure]]"
+  - "[[Rich and Thick Description]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Knowledge Building Theory]]"
+  - "[[State Corporatism]]"
+  - "[[Conditioned State Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Analytic Framework]]"
@@ -109,15 +112,15 @@ updated: 2026-09-28
 > - **输出形式** 叙事报告、主题分析、跨案例比较、理论建构
 
 > [!feature] 核心特征：[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]]的六项特点与 Hitchcock & Hughes（1995）的七项标志
-> - **整体性** 解释研究对象的整体现象，[[Variable\|变量]]难以控制分离表现出综合性。Hitchcock & Hughes 补充：最终报告要描绘案例的丰富和饱满（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]]; Hitchcock & Hughes, 1995）
-> - **深入性与丰富描述** 个案数量少，能对现象的动态过程和机制展开深入细致研究；关注与案例相关的事件，提供生动而非干瘪的叙述（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]]; Hitchcock & Hughes, 1995）
-> - **多重功能性** 可建构和检验理论，也可探索、描述与解释现象。融合对事件的描述与分析，不只描述发生了什么，还分析为什么发生（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]]; Hitchcock & Hughes, 1995）
-> - **研究的自然性，研究者深度卷入** 不对变量进行控制，在自然情境下展开研究；研究者不是中立的旁观者，其人格和判断会影响研究（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]]; Hitchcock & Hughes, 1995）
-> - **资料来源与收集方法的多样性** 从多种渠道、运用多种方式收集资料，通过数据之间形成[[Chain of Evidence\|证据链]]以实现整体性（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]]）
+> - **整体性** 解释研究对象的整体现象，[[Variable\|变量]]难以控制分离表现出综合性。Hitchcock & Hughes 补充：最终报告要描绘案例的丰富和饱满（Hitchcock & Hughes, 1995）
+> - **深入性与丰富描述** 个案数量少，能对现象的动态过程和机制展开深入细致研究；关注与案例相关的事件，提供生动而非干瘪的叙述（Hitchcock & Hughes, 1995）
+> - **多重功能性** 可建构和检验理论，也可探索、描述与解释现象。融合对事件的描述与分析，不只描述发生了什么，还分析为什么发生（Hitchcock & Hughes, 1995）
+> - **研究的自然性，研究者深度卷入** 不对变量进行控制，在自然情境下展开研究；研究者不是中立的旁观者，其人格和判断会影响研究（Hitchcock & Hughes, 1995）
+> - **资料来源与收集方法的多样性** 从多种渠道、运用多种方式收集资料，通过数据之间形成[[Chain of Evidence\|证据链]]以实现整体性
 > - **时间叙事** 按时间顺序讲述事件，让读者看到事情如何一步步展开（Hitchcock & Hughes, 1995）
 > - **聚焦行动者及其感知** 关注具体的人（个体或群体），理解他们如何看待和体验事件（Hitchcock & Hughes, 1995）
 > - **突出关键事件** 从大量材料中筛出真正重要的特定事件，不是面面俱到（Hitchcock & Hughes, 1995）
-> - **经验性** 研究前需要建立[[Hypothesis\|研究假设]]，根据假设收集经验数据以检验假设，但结论常包含情绪和主观成分（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]]）
+> - **经验性** 研究前需要建立[[Hypothesis\|研究假设]]，根据假设收集经验数据以检验假设，但结论常包含情绪和主观成分
 
 ## 方法定位
 
@@ -187,8 +190,8 @@ Yin（2009, p. 35）补充：理论生成应包含在个案研究的研究设计
 > | 研究动机 | Stake（1994） | 本质性：为理解特定案例本身<br>工具性：通过案例洞察议题或理论<br>集合性：成组研究获得更完整画面 |
 > | 方法论传统 | Sturman（1999） | 民族志个案研究：单一深度研究<br>行动研究个案研究<br>评价性个案研究<br>教育个案研究 |
 > | 分析对象 | Robson（2002） | 个体个案研究<br>一组个体个案研究<br>社会群体研究<br>组织和机构研究<br>事件/角色/关系研究 |
-> | 案例数量 | [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] | 单案例研究：需典型性或极端性<br>多案例研究：比较性，遵循复制原则 |
-> | 案例层级 | [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] | 整体性：仅研究案例整体层面<br>嵌入性：包含多个分析单位层级 |
+> | 案例数量 | 齐梅 | 单案例研究：需典型性或极端性<br>多案例研究：比较性，遵循复制原则 |
+> | 案例层级 | 齐梅 | 整体性：仅研究案例整体层面<br>嵌入性：包含多个分析单位层级 |
 > | 理论贡献 | Lijphart | 非理论型 / 解释性 / 产生[[Hypothesis\|假设]] / 理论证实 / 理论[[Falsification\|证伪]] / 偏离常规（后两类理论价值最大） |
 
 ---
@@ -220,19 +223,19 @@ Yin告诫在单案例设计中要谨慎：通常会忽视多案例的可能好�
 
 > [!evidence-grid] 多位学者的优势汇总
 > - **现实感强，情境真实** 个案研究数据贴近现实、接地气，与读者自身经验协调；在真实场景中收集数据，支撑结论有效性（Adelman et al., 1980; Nisbet & Watt, 1984; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]]）
-> - **研究对象广阔，可推广** 从小到微观个体、大到民族国家均可研究；允许从实例到类别的推广，关注案例的微妙性和复杂性（Adelman et al., 1980; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]]）
-> - **研究功能与方法多样** 探索、描述、解释、理解多重功能；观察、访谈、[[Questionnaire\|问卷]]、[[Document\|文献]]等可混合使用，可与实证研究和解释学研究互补（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]]）
+> - **研究对象广阔，可推广** 从小到微观个体、大到民族国家均可研究；允许从实例到类别的推广，关注案例的微妙性和复杂性（Adelman et al., 1980）
+> - **研究功能与方法多样** 探索、描述、解释、理解多重功能；观察、访谈、[[Questionnaire\|问卷]]、[[Document\|文献]]等可混合使用，可与实证研究和解释学研究互补
 > - **结果更易被广泛受众理解** 常用日常、非专业语言书写，立即清晰易懂（Nisbet & Watt, 1984）
 > - **识别社会真理的复杂性和嵌入性** 呈现参与者观点之间的差异或冲突，最好的个案研究能为替代解释提供支持（Adelman et al., 1980）
 > - **形成可再解释的档案，捕捉独特特征** 作为产品可形成足够丰富的描述性材料档案；捕捉大规模数据中可能丢失的独特特征（Adelman et al., 1980; Nisbet & Watt, 1984）
-> - **通向行动的步骤，结论有针对性** 开始于行动世界，见解可直接用于人员发展、机构反馈、[[Formative Assessment\|形成性评价]]和政策制定；深入详细了解个案具有解决问题的借鉴价值（Adelman et al., 1980; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]]）
+> - **通向行动的步骤，结论有针对性** 开始于行动世界，见解可直接用于人员发展、机构反馈、[[Formative Assessment\|形成性评价]]和政策制定；深入详细了解个案具有解决问题的借鉴价值（Adelman et al., 1980）
 > - **更公开可及，可由单人承担** 语言和形式不那么深奥，能服务多重受众；不需要完整研究团队，灵活接纳未预期事件和未控制[[Variable\|变量]]（Adelman et al., 1980; Nisbet & Watt, 1984）
 
 > [!method-limits] 综合弱点与操作风险
 > - **推广性受限** 结果可能不可推广，除非其他读者看到其应用；分析式归纳受主观因素影响（Nisbet & Watt, 1984; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]]）
-> - **偏误风险与技术局限** 不易接受[[Cross-checking\|交叉检查]]，自报可能有偏误，依赖个体记忆，无标准化方法，弹性大（Nisbet & Watt, 1984; Shaughnessy et al., 2003, pp. 290–299; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]]）
-> - **选择与推断混合，报告冗长** 阅读个案研究时选择过程已发生，知识与推断难以分离；深入性和主观性导致报告篇幅过大（Dyer, 1995, pp. 48–52; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]]）
-> - **缺乏控制，耗时费力** 处理很少被系统控制却同时应用，外部变量难以控制，[[Causality\|因果推断]]困难；各环节均需密集劳动投入（Shaughnessy et al., 2003, pp. 290–299; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]]）
+> - **偏误风险与技术局限** 不易接受[[Cross-checking\|交叉检查]]，自报可能有偏误，依赖个体记忆，无标准化方法，弹性大（Nisbet & Watt, 1984; Shaughnessy et al., 2003, pp. 290–299）
+> - **选择与推断混合，报告冗长** 阅读个案研究时选择过程已发生，知识与推断难以分离；深入性和主观性导致报告篇幅过大（Dyer, 1995, pp. 48–52）
+> - **缺乏控制，耗时费力** 处理很少被系统控制却同时应用，外部变量难以控制，[[Causality\|因果推断]]困难；各环节均需密集劳动投入（Shaughnessy et al., 2003, pp. 290–299）
 > - **五项应避免的操作问题** 新闻主义（挑轰动特征扭曲叙述）、选择性报告（只选支持结论的证据）、轶事风格（低层次插图取代深度分析）、浮夸（从低层次数据推深刻理论）、平淡（只接受受访者观点，回避分歧）（Nisbet & Watt, 1984, p. 91）
 
 ## 相关理论与方法
@@ -266,3 +269,4 @@ Yin告诫在单案例设计中要谨慎：通常会忽视多案例的可能好�
 > - [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]] — 以卡拉奇一所私立学校的 [[IB Diploma Programme\|IBDP]] 项目为质性案例研究，探究 [[Theory of Knowledge\|TOK]] 课程中学习者的自主性角色与[[Knowledge Building Theory|知识建构]]过程
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 以英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）为单一机构案例研究，从内部评估决策者视角系统剖析其在学校现场推动大规模[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials，RCT）的制度设计、独立评估机制、[[Implementation and Process Evaluation\|实施与过程评估]]（Implementation and Process Evaluation，IPE）演进以及在[[Business as Usual\|常态教学]]背景下评估干预效应所面临的方法学挑战
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 采用多层级纵向质性个案研究设计，结合全国性政策法规文本、技术白皮书梳理与针对联邦及各州教育部高级决策者、测量学家的[[Expert Interview\|专家访谈]]，深入剖析[[Gesamtstrategie zum Bildungsmonitoring\|德国国家教育监测总体战略]]下[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB）作为国家[[Center of Calculation\|计算中心]]的崛起历程与跨尺度绩效[[Data Infrastructure\|数据基础设施]]的拓扑运作机制。
+> - [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]] — 综合运用墨西哥[[State Corporatism|国家法团主义]]成人扫盲补偿、智利新自由主义教育券私有化与阿根廷布宜诺斯艾利斯大学（UBA）重构三项典型国别个案研究，[[Rich and Thick Description|深描]][[Conditioned State Theory|受制国家]]在依附性积累与新自由主义全球化下教育政策的具体机制与阶级效应。
