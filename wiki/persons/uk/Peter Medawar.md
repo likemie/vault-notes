@@ -9,7 +9,7 @@ summary: "英国免疫学家与科学哲学家，1960年诺贝尔生理学或医
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Scientific Method]]"
   - "[[Hypothesis]]"
+  - "[[Praxis]]"
   - "[[Scientism]]"
   - "[[Creativity]]"
   - "[[Research Topic]]"
@@ -41,7 +42,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-24
+updated: 2026-09-28
 ---
 
 # Peter Medawar
@@ -78,7 +79,7 @@ updated: 2026-09-24
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1967 — *The Art of the Soluble*** 提出“科学是可解的艺术”，系统阐发假说作为直觉先入之见的四重特性，重塑科学探究的实践哲学。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Medawar, 1981 via Cohen et al., 2011, Ch. 1, p. 16)]]
+> - **1967 — *The Art of the Soluble*** 提出“科学是可解的艺术”，系统阐发假说作为直觉先入之见的四重特性，重塑科学探究的[[Praxis|实践哲学]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Medawar, 1981 via Cohen et al., 2011, Ch. 1, p. 16)]]
 > - **1969 — *Induction and Intuition in Scientific Thought*** 深入论证科学创造中直觉与猜想的决定性作用，彻底解构培根式无假说纯粹归纳论神话。
 > - **1979 — *Advice to a Young Scientist*** 从科学选题、假说筛选、实验设计到心理韧性，全面传授严谨且务实的科研心智模型。
 > - **1982 — *Pluto's Republic*** 批判各种伪科学与极权唯[[Scientism\|科学主义]]，捍卫理性主义与人文关怀在科学探究中的统一。

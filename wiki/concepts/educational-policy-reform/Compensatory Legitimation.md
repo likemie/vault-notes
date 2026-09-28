@@ -8,7 +8,7 @@ aliases:
 summary: "资本主义或法团主义国家在面对资本积累矛盾与深刻社会不平等引发的合法性赤字时，将教育扩张（特别是成人教育、扫盲与入学机会扩增）作为代偿性政治整合机制，以在不触动阶级支配结构的前提下换取大众顺从与政治霸权维护"
 type: concept
 domain: "educational-policy-reform"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Dual School System]]"
   - "[[Critical Pedagogy]]"
+  - "[[Popular Education]]"
   - "[[Variable]]"
   - "[[Falsification]]"
 related_theories:
@@ -152,7 +153,7 @@ updated: 2026-09-28
 > > 争论大众教育扩张与扫盲运动究竟是国家维护阶级统识的麻醉剂，还是被压迫大众获取解放武器的客观契机。
 > >
 > > - **[[State Corporatism|国家法团主义]]批判者 ([[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres, 2009, pp. 83–84]])** 强调补偿性合法化由国家自上而下掌控，旨在收编底层反抗，缺乏再分配实质。
-> > - **[[Critical Pedagogy|批判教育学]]与民众教育倡导者 ([[Paulo Freire]])** 认为哪怕是国家出于维稳发起的识字教育，底层人民也能在实践中将其改造为觉醒阶级意识的文化行动。
+> > - **[[Critical Pedagogy|批判教育学]]与[[Popular Education|民众教育]]倡导者 ([[Paulo Freire]])** 认为哪怕是国家出于维稳发起的识字教育，底层人民也能在实践中将其改造为觉醒阶级意识的文化行动。
 
 ---
 

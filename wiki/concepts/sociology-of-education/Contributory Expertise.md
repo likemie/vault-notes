@@ -8,7 +8,7 @@ aliases:
 summary: "实践者在特定物理与社会情境中通过长期实践积累的、兼具默会性与具身性的实践智慧与手艺知识，能够应对现场偶发挑战并促成实际成效的专门知识类型。"
 type: concept
 domain: "sociology-of-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,6 +18,7 @@ tags:
   - craft-knowledge
   - professional-judgment
 related_concepts:
+  - "[[Praxis]]"
   - "[[Champ]]"
   - "[[Phronesis]]"
   - "[[Interactional Expertise]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-09-28
 ---
 
 # Contributory Expertise
@@ -65,7 +66,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> **贡献型专长（Contributory Expertise，亦称贡献专门知识、贡献专长）** 是专长社会学与实践哲学中的基石概念，源于柯林斯（Harry Collins）与埃文斯（Robert Evans）的专长理论，后经埃亚尔（Gil Eyal）深化并引入公共政策与教育治理分析。该概念指行动者在具体实践[[Champ\|场域]]中，通过长期的经验浸润与受训反思所获得的默会知识、具身手艺（craft knowledge）与[[Phronesis\|实践智慧]]（实践智慧，phronesis）。具有贡献型专长的行动者能够直接克服现场的偶发性挑战与不确定性，“把事情做成”（get things done），其专业合法性直接根植于实践效能与情境化解决力。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 7–8)]]
+> **贡献型专长（Contributory Expertise，亦称贡献专门知识、贡献专长）** 是专长社会学与[[Praxis|实践哲学]]中的基石概念，源于柯林斯（Harry Collins）与埃文斯（Robert Evans）的专长理论，后经埃亚尔（Gil Eyal）深化并引入公共政策与教育治理分析。该概念指行动者在具体实践[[Champ\|场域]]中，通过长期的经验浸润与受训反思所获得的默会知识、具身手艺（craft knowledge）与[[Phronesis\|实践智慧]]（实践智慧，phronesis）。具有贡献型专长的行动者能够直接克服现场的偶发性挑战与不确定性，“把事情做成”（get things done），其专业合法性直接根植于实践效能与情境化解决力。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 7–8)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向行动者身体与现场历史中沉淀的默会、情境依附性实践能力，与脱离现场的纯语言性[[Interactional Expertise\|交互型专长]]相对立。

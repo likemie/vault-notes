@@ -9,7 +9,7 @@ title: "Argument_Moisio_2022_Springer"
 argument_key: "Argument_Moisio_2022_Springer"
 argument_display_title: "In what sense a geopolitical knowledge-based economy? In M"
 argument_kind: "book"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Definition of Terms]]"
   - "[[Knowledge Production]]"
   - "[[Classical Geopolitics]]"
+  - "[[Post-Fordism]]"
   - "[[Flow]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Innovation Hub]]"
@@ -66,7 +67,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-07'
-updated: 2026-08-20
+updated: 2026-09-28
 year: 2022
 doi: ""
 citation_aliases:
@@ -160,7 +161,7 @@ Moisio 首先论证 [[Knowledge-Based Economy|KBE]] 并非天然、必然的经�
 
 **3d. Porter 的悖论：全球化强化国家角色**
 
-Moisio 引入 Porter(1990)的 [[National Competitive Advantage|国家竞争优势]] 理论作为关键的地缘政治想象例证。Porter 的核心主张——"竞争优势通过高度本地化的过程被创造和维持……虽然竞争全球化看似使国家变得不那么重要，但实际上使其更加重要"——具有巨大的话语力量(p.27)。同时期，经济地理学家 Storper & Harrison(1991)和 Scott(1991)也论证了后福特主义中"子国家'区域'"对网络发展和经济增长的重要性——本地基础设施、传统、专业化服务、以及"组织和个人之间的相互信任和关系"。
+Moisio 引入 Porter(1990)的 [[National Competitive Advantage|国家竞争优势]] 理论作为关键的地缘政治想象例证。Porter 的核心主张——"竞争优势通过高度本地化的过程被创造和维持……虽然竞争全球化看似使国家变得不那么重要，但实际上使其更加重要"——具有巨大的话语力量(p.27)。同时期，经济地理学家 Storper & Harrison(1991)和 Scott(1991)也论证了[[Post-Fordism|后福特主义]]中"子国家'区域'"对网络发展和经济增长的重要性——本地基础设施、传统、专业化服务、以及"组织和个人之间的相互信任和关系"。
 
 **3e. Hub and [[Flow]] 想象的崛起**
 

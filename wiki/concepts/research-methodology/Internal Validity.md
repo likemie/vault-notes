@@ -6,7 +6,7 @@ aliases:
 summary: "研究对某一特定事件、问题或数据集的解释实际上能为数据所支撑的程度，在量化研究中关乎因果推断的可信性，在质性研究中转化为可信性、真实性和可确认性等标准"
 type: concept
 domain: "research-methodology"
-related_count: 61
+related_count: 62
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Interpretive Paradigm]]"
   - "[[Ecological Validity]]"
+  - "[[Praxis]]"
   - "[[Evidence Standards]]"
   - "[[Preregistration]]"
   - "[[Implementation Fidelity]]"
@@ -81,7 +82,7 @@ related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
 status: draft
 created: 2026-05-31
-updated: 2026-09-22
+updated: 2026-09-28
 ---
 # Internal Validity
 
@@ -237,7 +238,7 @@ updated: 2026-09-22
 > - **1992–1993 — 真实性维度与务实层级化体系** 哈默斯利（Hammersley, 1992b）提出合理性与主张类型的务实三层次；勒孔特与普赖斯勒（LeCompte & Preissle, 1993）系统构建五大真实性与八种质性效度操作类型。
 > - **2006 — 跨[[Paradigm\|范式]]混合威胁体系拓展** 奥恩韦布兹与利奇（Onwuegbuzie & Leech, 2006b）将[[Threats to Internal Validity\|内部效度威胁]]拓展至质性与[[Mixed Methods Research\|混合方法研究]]，系统梳理了 12 种跨范式推断威胁。
 > - **2011–2022 — 现代教材规范化与实验手册确立** 科恩等（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011]]）与克雷斯威尔等（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）将内部效度标准化整合为教育与社会科学实证研究的核心设计指南。
-> - **2022 — [[Quality Use of Research Evidence Framework\|QURE]] 框架确立“适切证据”去等级制多维拟合** 里克森等（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a]]）跨四大领域[[Systematic Review\|系统综述]]，提出内部效度（方法学严谨性）必须与议题适用性、情境适配性动态权衡，打破唯内部效度等级制，奠定“适切研究证据”的实践哲学。
+> - **2022 — [[Quality Use of Research Evidence Framework\|QURE]] 框架确立“适切证据”去等级制多维拟合** 里克森等（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a]]）跨四大领域[[Systematic Review\|系统综述]]，提出内部效度（方法学严谨性）必须与议题适用性、情境适配性动态权衡，打破唯内部效度等级制，奠定“适切研究证据”的[[Praxis|实践哲学]]。
 
 ---
 

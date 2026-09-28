@@ -5,7 +5,7 @@ aliases:
 summary: "Porter 提出的理论，认为国家竞争优势通过高度本地化的产业、制度和创新条件被创造和维持。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economization]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Post-Fordism]]"
   - "[[Flow]]"
   - "[[Paradigm]]"
   - "[[Economic Patriotism]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: 2026-09-28
 ---
 
 ## 定义
@@ -72,7 +73,7 @@ updated: '2026-05-18'
 
 
 > [!note-] 对经济地理学的影响
-> 1990 年代，经济地理学对 Porter 的理论进行了空间化发展。Storper & Harrison（1991）和 Scott（1991）论证"子国家'区域'"在后福特主义中对网络发展和经济增长的核心重要性——本地基础设施、传统、专业化服务及"组织与个人之间的相互信任和关系"成为竞争优势的关键要素([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.27]])。这为后来的 Hub and [[Flow]] 城市政策（集群、创意城市、创业城市）提供了学术合法性。
+> 1990 年代，经济地理学对 Porter 的理论进行了空间化发展。Storper & Harrison（1991）和 Scott（1991）论证"子国家'区域'"在[[Post-Fordism|后福特主义]]中对网络发展和经济增长的核心重要性——本地基础设施、传统、专业化服务及"组织与个人之间的相互信任和关系"成为竞争优势的关键要素([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.27]])。这为后来的 Hub and [[Flow]] 城市政策（集群、创意城市、创业城市）提供了学术合法性。
 
 
 > [!note-] Moisio 的批判性分析

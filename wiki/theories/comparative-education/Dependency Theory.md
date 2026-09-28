@@ -8,7 +8,7 @@ aliases:
 summary: "兴起于拉丁美洲并拓展至比较教育的新马克思主义批判路径。拒绝现代化理论将欠发展归结为内部缺失的技术主义假设，主张从全球资本主义世界体系的中心-边缘结构性支配、跨国垄断资本掠夺、受制国家阶级联盟及文化帝国主义机制出发，解释第三世界国家教育不平等、双轨分流及学术依附"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 43
+theory_related_count: 44
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Epistemology]]"
   - "[[Grand Theory]]"
+  - "[[Praxis]]"
   - "[[Causal Over-determination]]"
   - "[[Creativity]]"
   - "[[Network Governance]]"
@@ -203,7 +204,7 @@ updated: 2026-09-28
 > > [!axis] 社会主义普遍性替代 vs 后殖民[[Epistemology|认识论]]彻底去殖民化
 > > 争论打破西方宗主国脑力控制的路径，是通过沿袭马克思主义与世界体系过渡路线的社会主义革命，还是与一切西方现代性[[Grand Theory|宏大叙事]]彻底脱钩以引入南方本土知识体系。
 > >
-> > - **依附论马克思主义学者（Carnoy, 1974; Torres, 2009）** 主张沿袭历史唯物主义传统，通过构建广泛的反抗联盟重构实践哲学与[[Critical Pedagogy|解放教育学]]。
+> > - **依附论马克思主义学者（Carnoy, 1974; Torres, 2009）** 主张沿袭历史唯物主义传统，通过构建广泛的反抗联盟重构[[Praxis|实践哲学]]与[[Critical Pedagogy|解放教育学]]。
 > > - **后/去殖民学者（Silova, 2020; Mignolo, 2007）** 批评依附论的社会主义方案依然没有脱离欧洲中心主义的普遍理性化框架，主张必须彻底解构西方认识型。
 >
 > > [!axis] 宏观结构[[Causal Over-determination|过度决定]]论 vs 边缘主体微观抗争能动性

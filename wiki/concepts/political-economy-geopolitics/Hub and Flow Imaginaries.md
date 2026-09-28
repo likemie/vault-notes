@@ -7,7 +7,7 @@ aliases:
 summary: "把世界想象为由枢纽中心和边缘区域构成流动结构的空间想象，用于解释知识经济中的集中、连接和不平等。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Knowledge-Based Economy]]"
   - "[[National Competitive Advantage]]"
+  - "[[Post-Fordism]]"
   - "[[Economic Patriotism]]"
   - "[[Spatial Sortings]]"
   - "[[International Education Hubs]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: '2026-05-19'
+updated: 2026-09-28
 ---
 
 ## 定义
@@ -90,7 +91,7 @@ Moisio 借用 Jessop（2005）对"想象"（imaginaries）的分析——想象�
 > 枢纽与流动想象的知识根基来自多条学术和政策脉络：
 
 - **Porter（1990）的[[National Competitive Advantage|国家竞争优势]]理论** Porter 论证"竞争优势通过高度本地化的过程被创造和维持……国家价值、文化和制度深刻贡献于竞争成功"，这为 枢纽与流动想象提供了关键的学术表达([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])
-- **后福特主义经济地理学（1990 年代）** Storper & Harrison（1991）和 Scott（1991）论证，后福特主义时代中"子国家'区域'"对网络发展和经济增长至关重要——本地基础设施、产业传统、专业化服务和"组织与个人之间的相互信任和关系"构成了区域竞争力的基础，为 枢纽与流动想象提供了空间经济学的学术支撑([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
+- **[[Post-Fordism|后福特主义]]经济地理学（1990 年代）** Storper & Harrison（1991）和 Scott（1991）论证，后福特主义时代中"子国家'区域'"对网络发展和经济增长至关重要——本地基础设施、产业传统、专业化服务和"组织与个人之间的相互信任和关系"构成了区域竞争力的基础，为 枢纽与流动想象提供了空间经济学的学术支撑([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
 - **Gramsci（1971）的[[Hegemony|霸权理论]]** Moisio 援引 Gramsci 来解释 枢纽与流动想象为何有效——"资本积累体制的巩固依赖于智识、政治和道德领导力的行使"，枢纽想象正是这种领导力在认知层面的具体运作：它让决策者和公众接受一种特定的世界空间秩序为"理所当然"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.26]])
 - **Jessop（2005）的[[Cultural Political Economy|文化政治经济学]]** Moisio 借用 Jessop 的"想象"概念——想象在资本积累体制中扮演"构成性和履行性角色"——来论证 枢纽与流动想象不只是对经济现实的"反映"，而是主动参与生产它所描述的空间秩序([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])
 
@@ -126,7 +127,7 @@ Moisio 借用 Jessop（2005）对"想象"（imaginaries）的分析——想象�
 > - 枢纽与流动想象将复杂的世界空间简化为"枢纽"与"边缘"的二元对立，遮蔽了那些既非枢纽也非边缘的"中间地带"——比如区域性的中等城市、不以创新经济为主导的产业城镇——的空间经验和政策需求
 - 该想象内含的增长逻辑——"无限增长的诱人承诺"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.24]])——与生态可持续性之间存在根本张力：枢纽的繁荣以高密度的资源消耗和碳排放为代价
 - Moisio 提醒，作为 枢纽与流动想象政治基底的"[[Progressive Neoliberalism|进步新自由主义]]"和"硅谷世界观"可能正在消退——民粹民族主义的回潮和地缘政治对抗的加剧正在催生替代性的空间想象，可能根本性地重构枢纽与流动的空间逻辑([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.31–32]])
-- **枢纽逻辑依赖落差而非绝对优势**[[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 对教育枢纽的实证研究揭示了一个被 Moisio 理论化但未被充分经验验证的机制——枢纽通过制造和维持区域"空隙"来繁荣，这使该想象内含的不平等逻辑具有了**自我强化**的属性：成功的枢纽有意维持周边地区的低高教发展水平以确保持续的优势地位([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.211]])。详见 [[Argument_Erfurth_2022_education-hubs#步骤三：导出地缘政治意涵]]
+- **枢纽逻辑依赖落差而非绝对优势** 对教育枢纽的实证研究揭示了一个被 Moisio 理论化但未被充分经验验证的机制——枢纽通过制造和维持区域"空隙"来繁荣，这使该想象内含的不平等逻辑具有了**自我强化**的属性：成功的枢纽有意维持周边地区的低高教发展水平以确保持续的优势地位（[[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p. 211]]）。详见该文步骤三的地缘政治意涵论述。
 
 ---
 

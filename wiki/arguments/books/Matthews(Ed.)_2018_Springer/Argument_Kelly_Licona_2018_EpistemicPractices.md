@@ -7,7 +7,7 @@ title: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_key: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_display_title: "Epistemic practices and science education"
 argument_kind: "book-chapter"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Practical Epistemology]]"
   - "[[Retrodiction]]"
   - "[[Scientific Literacy]]"
+  - "[[Praxis]]"
   - "[[Dialogue in Education]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
@@ -91,7 +92,7 @@ sources:
   - "[[books/Matthews(Ed.)_2018_Springer/Ch05_Kelly_Licona_2018|Ch05_Kelly_Licona_2018]]"
 status: draft
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-09-28
 ---
 # Argument_Kelly_Licona_2018_EpistemicPractices
 
@@ -108,7 +109,7 @@ updated: 2026-09-22
 > [!concept-lens] 阅读透镜
 > - **对象** 中小学与大学科学课堂、高中物理振动实验小组、小学工程设计团队、大学地质学论文写作，以及社会科学议题辩论场景。
 > - **张力** 哲学上预设的普遍理性标准与实际科学活动中情境复杂性之间的张力；教科书普适线性的科学方法与各学科高度异质的实际研究规程之间的断裂。
-> - **贡献** 提出并实证阐明了认识论实践的四维行动框架（提出、沟通、评估、合法化）与四大本体特征（交互性、情境性、互文性、后果性），系统构建了三大教育取向在学习目标与实践规程上的对比矩阵，为破除单一科学方法教条、培育面向现实生活的公共科学素养提供了实践哲学基础。
+> - **贡献** 提出并实证阐明了认识论实践的四维行动框架（提出、沟通、评估、合法化）与四大本体特征（交互性、情境性、互文性、后果性），系统构建了三大教育取向在学习目标与实践规程上的对比矩阵，为破除单一科学方法教条、培育面向现实生活的公共科学素养提供了[[Praxis|实践哲学]]基础。
 
 ---
 

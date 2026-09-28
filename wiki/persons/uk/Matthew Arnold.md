@@ -7,7 +7,7 @@ summary: "维多利亚时代英国皇家学校督学、诗人与文化批评家�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Paideia]]"
   - "[[Conatus]]"
   - "[[Creativity]]"
+  - "[[Popular Education]]"
   - "[[State Educational Sovereignty]]"
   - "[[Avatar]]"
   - "[[Intangible Spiritual Forces]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-09-26
+updated: 2026-09-28
 ---
 
 # Matthew Arnold
@@ -91,7 +92,7 @@ updated: 2026-09-26
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1861 — *The Popular Education of France*** 首倡国家积极介入平民教育，论述民主社会的自由必须依托国家公共权威保障。
+> - **1861 — *The [[Popular Education]] of France*** 首倡国家积极介入平民教育，论述民主社会的自由必须依托国家公共权威保障。
 > - **1864 — *A French Eton; or, Middle Class Education and the State*** 以法国图卢兹公学为实证个案，论证建立由国家资助与督导的高品质公立中等教育体系是提升中产阶级精神风貌的唯一出路。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 38)]]
 > - **1868 — *Schools and Universities on the Continent*** 详尽对比德、法、瑞、意中等与高等教育，赞赏普鲁士文理中学的严谨学术标准与专业师资，力劝英国效仿欧陆确立[[State Educational Sovereignty\|国家教育权]]。
 > - **1869 — *Culture and Anarchy*** 提出文化即追求“甘美与光明（Sweetness and Light）”，深刻剖析英国社会的野蛮人（贵族）、市侩庸人（中产阶级）与平民大众，倡导以国家作为最高理性的[[Avatar\|化身]]推进普遍[[Bildung\|教化]]。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 38–39)]]

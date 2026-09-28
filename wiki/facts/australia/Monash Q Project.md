@@ -11,7 +11,7 @@ subtype: program
 region: australia
 fact_region: "australia"
 fact_kind: "program"
-fact_related_count: 40
+fact_related_count: 41
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Reflective Thinking]]"
   - "[[Absorptive Capacity]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Praxis]]"
   - "[[Poor Research Use]]"
   - "[[Push and Pull Models of Knowledge Mobilisation]]"
   - "[[Transfer Translation Transformation]]"
@@ -72,7 +73,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-18
+updated: 2026-09-28
 ---
 
 # Monash Q Project
@@ -184,7 +185,7 @@ updated: 2026-09-18
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Quality Use of Research Evidence Framework]] | Theory | 项目孵化建构的核心理论框架（QURE） |
-> | [[Evidence-Informed Practice]] | Concept | 项目依托的实践哲学基础与实践导向 |
+> | [[Evidence-Informed Practice]] | Concept | 项目依托的[[Praxis\|实践哲学]]基础与实践导向 |
 > | [[Contributory Expertise]] | Concept | 一线实践者具身手艺与默会专长，构成检验 Q 项目系统理性[[Hypothesis\|假设]]的核心概念透镜 |
 > | [[Interactional Expertise]] | Concept | 证据中介与研究者所具备的交互型专长，与一线贡献型专长存在结构性张力 |
 > | [[Poor Research Use]] | Concept | 项目从一线经验中系统提炼的病态使用反面范畴 |

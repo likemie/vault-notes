@@ -9,7 +9,7 @@ summary: "阿根廷裔比较教育社会学者，加州大学洛杉矶分校拉�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Critical Pedagogy]]"
   - "[[Document]]"
+  - "[[Praxis]]"
 related_theories:
   - "[[Conditioned State Theory]]"
   - "[[State Corporatism]]"
@@ -116,7 +117,7 @@ updated: 2026-09-28
 
 > [!person-network] 关系网络
 > - **长期合作者** [[Carlos Alberto Torres]] — 共同撰写多篇关于国家理论、全球化与拉美教育政治经济学的奠基性[[Document|文献]]。
-> - **理论传统** [[Paulo Freire]]、Antonio Gramsci、Karl Marx — 汲取[[Critical Pedagogy|批判教育学]]与实践哲学思想养分。
+> - **理论传统** [[Paulo Freire]]、Antonio Gramsci、Karl Marx — 汲取[[Critical Pedagogy|批判教育学]]与[[Praxis|实践哲学]]思想养分。
 > - **[[Analytic Framework|分析框架]]** [[Conditioned State Theory]]、[[Compensatory Legitimation]]、[[Financial-Intellectual Complex]]。
 
 ---

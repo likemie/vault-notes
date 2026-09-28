@@ -9,7 +9,7 @@ aliases:
 summary: "批判教育学揭示的教育本质属性，拒绝技术官僚主义的价值中立虚构，主张教育在认识论、分析与伦理维度上天然内嵌于权力关系、国家意志与意识形态对抗之中，学校教育本质上是多元社会政治经济方案博弈的争鸣场域"
 type: concept
 domain: "educational-philosophy"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Banking Model of Education]]"
   - "[[Compensatory Legitimation]]"
   - "[[Knowledge Production]]"
+  - "[[Popular Education]]"
   - "[[Financial-Intellectual Complex]]"
   - "[[Positivism]]"
   - "[[Determinism]]"
@@ -163,7 +164,7 @@ updated: 2026-09-28
 > |---|---|---|---|
 > | **认识论权力筛选命题** | 课程与教学绝非技术中立，而是官方知识与文化霸权的筛选再生产 | 课程政策、教材编审与官方标准化评估制定 | Freire (1970, p. 54); Apple (1993); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, pp. 77–78)]] |
 > | **国家理论暗含命题** | 任何教育政策的“危机”诊断与改革解法均内生于特定的国家阶级本质 | 宏观教育政策出台、公共预算分配与新自由主义改革 | Carnoy (1992); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, pp. 73–74)]] |
-> | **伦理中立合谋命题** | 在结构性不平等现实中，标榜价值中立客观上是在维护统治阶级现状 | 教育改革辩论、学术探究立场抉择与民众教育实践 | Freire (1970, p. 68); [[Carlos Alberto Torres\|Torres (1992)]] |
+> | **伦理中立合谋命题** | 在结构性不平等现实中，标榜价值中立客观上是在维护统治阶级现状 | 教育改革辩论、学术探究立场抉择与[[Popular Education\|民众教育]]实践 | Freire (1970, p. 68); [[Carlos Alberto Torres\|Torres (1992)]] |
 
 ---
 

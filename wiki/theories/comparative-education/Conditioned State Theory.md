@@ -9,7 +9,7 @@ aliases:
 summary: "比较教育政治社会学与依附论视阈下的国家理论，主张外围资本主义国家受制于其在全球资本积累中的从属边缘地位与内部后封建政治结构的双重制约，统治精英结成支配同盟使国家沦为代用国家，从而导致公共教育扩张与民主化进程深陷外生与内生矛盾"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Compensatory Legitimation]]"
+  - "[[Post-Fordism]]"
   - "[[Dual School System]]"
   - "[[Research Question]]"
   - "[[Determinism]]"
@@ -112,7 +113,7 @@ updated: 2026-09-28
 > **应用实例** 墨西哥革命制度党（PRI）统治时期，公立基础教育资源的分配被执政同盟严格掌控，虽然设立了面向工农的名义学校网络，但优质教育资源始终被控制在城市特权官僚子弟手中，底层学校长期面临设施破败和师资匮乏。
 
 > [!theory-proposition] 命题二｜主权界限的外部决定性削弱了国家教育规划的自主权
-> **解释** 受制国家的国内市场边界由跨国公司与世界霸权中心外部界定，导致国家对宏观政治经济动态丧失自主调控能力。外围教育体系无法自主对接民族经济与本土产业需求，其教育规划常沦为对外部资本积累阶段性需求（如从福特制标准化到后福特制灵活化积累）的被动响应，甚至直接沦为跨国金融智识复合体的政策试验场。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
+> **解释** 受制国家的国内市场边界由跨国公司与世界霸权中心外部界定，导致国家对宏观政治经济动态丧失自主调控能力。外围教育体系无法自主对接民族经济与本土产业需求，其教育规划常沦为对外部资本积累阶段性需求（如从福特制标准化到[[Post-Fordism|后福特制]]灵活化积累）的被动响应，甚至直接沦为跨国金融智识复合体的政策试验场。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 >
 > **应用实例** 1990 年代阿根廷在[[World Bank|世界银行]]结构调整贷款压力下，被迫按照跨国专家的方案全面重构布宜诺斯艾利斯大学（UBA）等国立综合大学，强行推行研究生收费化和技术官僚指标考核，削弱了本土高等教育对民族发展议题的批判性研究。
 

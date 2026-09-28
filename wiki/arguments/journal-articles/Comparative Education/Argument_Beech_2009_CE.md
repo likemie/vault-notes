@@ -36,6 +36,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Commensuration]]"
   - "[[Document]]"
+  - "[[Post-Fordism]]"
   - "[[Policy Network]]"
   - "[[Global Citizenship]]"
   - "[[Teaching Assistant]]"
@@ -72,16 +73,16 @@ sources:
 part_of:
 status: draft
 created: 2026-06-08
-updated: 2026-09-15
+updated: 2026-09-28
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Beech_2009_CE"
 argument_key: "Argument_Beech_2009_CE"
 argument_display_title: "Policy spaces, mobile discourses, and the definition of educated identities"
 argument_kind: "journal-article"
-argument_related_count: 44
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Comparative Education
 book_title: ""
@@ -221,7 +222,7 @@ Castells 据此区分了两种空间逻辑：
 为了具体展示同一套话语在三个空间层面中的逐层转化，本文选择两个概念作为贯穿全文的追踪线索：
 
 > [!line-a] 追踪线索一：能力发展（Development of Competencies）
-> 主张学校知识的价值应以学生能够用知识做什么来衡量，而非以记住了多少事实知识来定义。该概念源自企业管理和职业培训，与后福特主义劳动组织对高素养工人的新需求相关(De Ketele, 2008, 引自 pp.353–354)。
+> 主张学校知识的价值应以学生能够用知识做什么来衡量，而非以记住了多少事实知识来定义。该概念源自企业管理和职业培训，与[[Post-Fordism|后福特主义]]劳动组织对高素养工人的新需求相关(De Ketele, 2008, 引自 pp.353–354)。
 
 > [!line-b] 追踪线索二：尊重多样性（Respect for Diversity）
 > 被[[World Bank\|世界银行]]、[[OECD]]、[[UNESCO]]、[[UNICEF\|联合国儿童基金会]]（United Nations Children's Fund，UNICEF）和[[Education International\|国际教育协会]]（Education International，[[Education International]]）等意识形态立场各异的机构共同倡导。许多历史上以文化同质性为核心目标的教育系统，也在官方修辞层面接受了该口号(Gvirtz & Beech, 2008, 引自 p.354)。
@@ -304,7 +305,7 @@ Castells 据此区分了两种空间逻辑：
 > > Castells（2000c, p.22）指出，在流动空间中，符号共存而不参照经验。文化成为“真实虚拟的文化”，混合一切并掏空任何具体信息在特定语境之外的意义(引自 p.353)。这系统性地决定了全球政策话语必须被抽象化为漂浮能指，其价值在于“可被用来说什么”，而非“说了什么”。
 
 > [!exegesis] 能力发展如何成为漂浮能指
-> 能力概念有其特定的历史起源。它来自企业管理和职业培训，与从泰勒制到丰田制（后福特主义）的转型相关。传统课程（OECD 1990, 100–101）中，教师拥有一套客观事实，学生只需记忆并在测试中复制，正确与错误非常明晰；而能力概念要求学生“用知识做事”，发展出智力和人际技能（UNESCO 1996; De Ketele 2008）。
+> 能力概念有其特定的历史起源。它来自企业管理和职业培训，与从泰勒制到丰田制（[[Post-Fordism|后福特主义]]）的转型相关。传统课程（OECD 1990, 100–101）中，教师拥有一套客观事实，学生只需记忆并在测试中复制，正确与错误非常明晰；而能力概念要求学生“用知识做事”，发展出智力和人际技能（UNESCO 1996; De Ketele 2008）。
 >
 > 但一旦这个话语进入全球政策空间，这些具体的历史起源（职业培训、经济效率、企业劳动控制）就被模糊化了。OECD 的报告中不谈工厂车间，只将能力抽象为一个关于 21 世纪学习者应该具备什么素养的普遍教育命题。这种去历史化的“空洞”特征，正是它能够被全球广泛接受的原因(p.354)。
 

@@ -7,7 +7,7 @@ aliases:
 summary: "Gita Gita Steiner-Khamsi (2006)提出的概念，指二战后领土帝国崩溃、冷战超级大国争夺新独立国家背景下，比较教育的资金、焦点和方法系统性转向发展中国家教育的过程。在冷战地缘博弈和科学主义的合谋下，该转向将教育规划重构为经济投资，并在后冷战时期演变为新自由主义全球治理下的“最佳实践”输出机制。"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Methodological Statism]]"
   - "[[Scientism]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Post-Fordism]]"
   - "[[Evidence-Based Education]]"
   - "[[Unit of Analysis]]"
 related_theories:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-09-24
+updated: 2026-09-28
 ---
 
 # Development Turn in Comparative Education
@@ -135,7 +136,7 @@ updated: 2026-09-24
 > **发展话语演变为全球新自由主义霸权** 提出最初为遏制共产主义和推广美国发展模式而发明的话语，在冷战后转化为支配性的新自由主义“最佳实践”标准。这一过程继续将西方的教育现代化范本施加于全球，扮演着“知识新帝国”的角色。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 422–428]])
 
 > [!claim] Brehm (2023)
-> **技术官僚规规训与他者化再生产** 指出当今由数据、评估和标准化指标（如 [[PISA]]）主导的全球治理，看似是中立、去情境化的最佳实践推广，实则是通过技术官僚的话语，规训非西方教育系统以适应后福特主义的全球资本积累网络。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 422]])
+> **技术官僚规规训与他者化再生产** 指出当今由数据、评估和标准化指标（如 [[PISA]]）主导的全球治理，看似是中立、去情境化的最佳实践推广，实则是通过技术官僚的话语，规训非西方教育系统以适应[[Post-Fordism|后福特主义]]的全球资本积累网络。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 422]])
 
 ---
 
@@ -153,7 +154,7 @@ updated: 2026-09-24
 
 > [!dev-timeline] 概念演变
 > - **1950s–1970s — 冷战驱动的发展转向与多边建制化** [[Sputnik Shock 1957\|Sputnik]]人造卫星发射成功在美国激发了地缘与科技恐慌，直接催生了[[Economics of Education Movement\|教育经济学运动]]。芝加哥大学Anderson中心促进了学科融合，协助[[Human Capital Theory\|人力资本理论]]在国际项目（如[[Mediterranean Regional Project\|地中海区域项目]]）中全球扩散；[[OECD\|经合组织]]（1961年）与[[International Education\|国际教育]]规划研究所（1963年）等机构在此时期成立，为发展中国家教育规划提供技术援助。
-> - **1990s 至今 — 新自由主义[[Governing at a Distance\|远处治理]]下的“最佳实践”输出** 苏联解体后，“发展[[Paradigm\|范式]]”平稳过渡为新自由主义的全球标准话语。OECD通过[[PISA]]测验等量化指标实施远处治理，将早期的“技术援助”升级为制造高效教育系统模型的“最佳实践”，以维持后福特主义的全球资本积累与西方知识霸权。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 422]])
+> - **1990s 至今 — 新自由主义[[Governing at a Distance\|远处治理]]下的“最佳实践”输出** 苏联解体后，“发展[[Paradigm\|范式]]”平稳过渡为新自由主义的全球标准话语。OECD通过[[PISA]]测验等量化指标实施远处治理，将早期的“技术援助”升级为制造高效教育系统模型的“最佳实践”，以维持[[Post-Fordism|后福特主义]]的全球资本积累与西方知识霸权。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 422]])
 
 ---
 

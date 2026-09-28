@@ -419,7 +419,7 @@ Total entries: **287**
 > - [[Argument_Fredens_2015_Paideia]] — Kjeld Fredens 对 Hattie & Yates Synlig læring og læringens anatomi 的丹麦语书评，提炼九条学习原则，提出反馈文化概念并补充默认网络功能批评
 > - [[Argument_Hansen_2015_Paideia]] — 作为 Paideia 可见的学习（Visible Learning，VL）主题号导言，梳理支持、修正与方法审查三类文章，主张 Visible Learning 应从教师效应自评与协作改进出发，而非只读干预排名
 > - [[Argument_Hattie_2015_Paideia]] — 以自传式方法论回顾回应 Visible Learning 的常见批评，主张核心不是照搬高效应量清单，而是让教师集体评估自身影响并持续检验证据解释
-> - [[Argument_Håkansson_2015_Paideia]] — 追踪 Hattie 在瑞典引发的教学转向，论证系统改进正从结果治理转向课堂近端策略、教师协作与长期能力建设
+> - [[Argument_Håkansson_2015_Paideia]] — 追踪 Hattie 在瑞典引发的教学转向，论证系统改进正从结果治理转向课堂近端策略、教师协作与长期能力建设
 > - [[Argument_Laursen_2015_Paideia]] — 比较 Hattie、Meyer、Helmke 国际有效教学综合与丹麦 SFI 等研究，论证其核心结论在丹麦总体有效，国家文化影响弱于学生社会背景
 > - [[Argument_Lekhal_2015_Paideia]] — 挪威 48 校 4128 名学生研究：性别本身对成绩直接解释力极小（约 0.2%），差异主要通过学校规范适应与学习动机等校内变量间接生成
 > - [[Argument_Nordahl_2015_Paideia]] — 把 Visible Learning 放进斯堪的纳维亚学校改进语境，主张教育系统应以学习结果与研究证据为改进基准，并通过能力建设把证据转成教师行动。

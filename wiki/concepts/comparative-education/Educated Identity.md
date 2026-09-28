@@ -6,7 +6,7 @@ aliases:
 summary: "比较教育的核心概念之一，指教育系统所塑造的理想人格与文化期望，Cowen 将其与转移并列为学科未来发展的两大伦理与学术问题"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Encyclopaedism]]"
   - "[[Lifelong Learning]]"
   - "[[Floating Signifier]]"
+  - "[[Post-Fordism]]"
   - "[[Paradigm]]"
   - "[[International Education]]"
   - "[[Operationalization]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-09-22
+updated: 2026-09-28
 ---
 
 # Educated Identity
@@ -90,7 +91,7 @@ updated: 2026-09-22
 > [!feature] 核心要素
 > - **理想人格与文化期望（Cultural Expectations）** 定义在特定的社会经济条件下，何为合格的“受教育者”，体现社会的主流文化与伦理共识。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 336]])
 > - **领土附着性与历史惯性（National Territoriality）** 受教育身份历史上由民族国家主权教育系统定义，与国民身份建构（如阿根廷、巴西对[[Encyclopaedism\|百科全书主义]]的不同吸收）紧密交织。([[Argument_Beech_2009_CE\|Beech, 2009, p. 355]])
-> - **超国家网络去历史化建构（Global Construction）** 在[[Network Society\|网络社会]]中，超国家机构在[[Global Policy Space\|全球政策空间]]中将受教育身份重塑为“能力开发”和“[[Lifelong Learning\|终身学习]]”等抽象的、去语境化的[[Floating Signifier\|漂浮能指]]，服务于后福特主义的全球劳动力需求。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 353–355]])
+> - **超国家网络去历史化建构（Global Construction）** 在[[Network Society\|网络社会]]中，超国家机构在[[Global Policy Space\|全球政策空间]]中将受教育身份重塑为“能力开发”和“[[Lifelong Learning\|终身学习]]”等抽象的、去语境化的[[Floating Signifier\|漂浮能指]]，服务于[[Post-Fordism|后福特主义]]的全球劳动力需求。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 353–355]])
 > - **多级[[Transfer Translation Transformation\|转译]]与微观[[Shape-Shifting\|形变]]（Local Translation and Shape-shifting）** 抽象的全球理想身份在向国家政策和学校教室降落时，受到地方历史话语（如百科全书分科）和物质条件（如贫困）的强烈制约而发生实质性形变，甚至演变为“尊重贫困”等与原初意图相反的结果。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 358–361]])
 > - **伦理与政治见证的学术手段（Ethical and Political Witnessing）** [[Argument_Cowen_2023_CE\|Cowen (2023)]] 提出，该概念必须作为见证我们以教育之名对全世界的孩子做了什么的道德手段，去拷问和记录地缘政治剧变、战争冲突（如乌克兰战争、阿富汗情境）或极端政治干预（如[[National Security Law\|香港国安法]]下的课程变迁）对儿童受教育生命状态的实际人道后果。(p.336)
 > - **道德形容词的震荡工具（Shock Tools of Moral Vocabulary）** 在分析受教育身份的生存境遇时，应直接引入“英雄的”（heroic）、“陌生的”（strange）与“野蛮的”（barbaric）等道德形容词，打破专业中立与精致的相对主义滤镜，直面教育背后的国家暴力与伦理灾难。(p.335)

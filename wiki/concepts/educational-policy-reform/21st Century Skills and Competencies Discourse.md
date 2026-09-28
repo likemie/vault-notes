@@ -12,7 +12,7 @@ aliases:
 summary: "由全球教育治理中的多边组织、国家政府和跨国智库共同推动的政策修辞与规范框架，旨在界定未来劳动力市场所需关键能力并塑造教育政策与自我企业家主体性；实证研究揭示其存在技能空心化、实践转译断裂以及高教宏观倡导与微观评价滞后的制度脱节，二阶元分析证实合作学习对21世纪综合高阶技能具有显著赋能效应（ES = 0.76/0.84）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 63
+related_count: 64
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -57,6 +57,7 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Authentic Assessment]]"
   - "[[Reliability]]"
+  - "[[Post-Fordism]]"
   - "[[Problem Solving]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
@@ -98,7 +99,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-20
-updated: 2026-09-22
+updated: 2026-09-28
 ---
 
 # 21st Century Skills and Competencies Discourse
@@ -226,7 +227,7 @@ updated: 2026-09-22
 ## 概念演变
 
 > [!dev-timeline] 话语演变与跨国扩散五阶段
-> - **阶段零（历史-物质起源） — 后福特主义生产组织转型** 能力（Competence）概念源于企业管理由泰勒制向丰田制的转型，后福特主义劳动组织要求新型工人具备流程改善与团队协作能力；进入[[Global Policy Space\|全球政策空间]]后，其具体的资本主义车间历史起源被抽象化为普世教育命题。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 353–355)]]
+> - **阶段零（历史-物质起源） — [[Post-Fordism|后福特主义]]生产组织转型** 能力（Competence）概念源于企业管理由泰勒制向丰田制的转型，后福特主义劳动组织要求新型工人具备流程改善与团队协作能力；进入[[Global Policy Space\|全球政策空间]]后，其具体的资本主义车间历史起源被抽象化为普世教育命题。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 353–355)]]
 > - **第一阶段（2000 年代初） — 美国国家框架主导** enGauge（2003）与美国 P21（2009）框架确立 4C 技能（[[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]、协作、沟通）雏形，强调数字时代素养。
 > - **第二阶段（2010 年代） — 跨国协调与多边私营共建** ATCS 跨国评估项目、美国 NRC 报告（2012）与世界经济论坛（WEF, 2016）加入，私营部门直接介入技能标准设定，确立标准化测量意图。
 > - **第三阶段（2010 年代末至 2020 年代初） — 全球指标趋同与产品下沉** [[OECD]]《学习罗盘 2030》（2019）与欧盟八大关键素养高度同质化；[[PISA]] 通过创新领域（协作[[Problem Solving\|问题解决]]、创造性思维）实现跨国测量落地。（OECD, 2019; [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, p. 254]]）

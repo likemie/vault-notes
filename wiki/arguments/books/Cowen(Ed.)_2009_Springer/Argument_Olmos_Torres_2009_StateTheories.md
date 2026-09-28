@@ -26,6 +26,7 @@ related_concepts:
   - "[[Compensatory Legitimation]]"
   - "[[Financial-Intellectual Complex]]"
   - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Praxis]]"
   - "[[Hypothesis]]"
   - "[[Construct]]"
   - "[[Politicity of Education]]"
@@ -36,8 +37,11 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Value Neutrality]]"
   - "[[Epistemology]]"
+  - "[[Post-Fordism]]"
   - "[[Educational Level]]"
-  - "[[Praxis]]"
+  - "[[Popular Education]]"
+  - "[[Bildung]]"
+  - "[[Conscientization]]"
   - "[[Creativity]]"
 related_theories:
   - "[[World Society Theory]]"
@@ -76,7 +80,7 @@ title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches"
 argument_kind: "book-chapter"
-argument_related_count: 37
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -96,7 +100,7 @@ issuing_organization: ""
 > 20 世纪下半叶波及全球的教育扩张为何无法通过功能主义或世界体系/[[World Society Theory|世界文化理论]]的同质化大爆炸假说得到合理解释？在跨国资本积累、全球化[[Disciplina and Doctrina|规训]]与本土阶级矛盾交织的背景下，民族国家的制度性质如何塑造公共教育政策？为何拉丁美洲等第三世界国家在经历了 1960 年代创纪录的教育扩张后，非但未能实现实质政治民主化与社会公平，反而在新自由主义结构调整中陷入公共教育退化、阶级双轨固化与公民身份商品化的多重危机？（pp. 73–76）
 
 > [!claim] 核心主张
-> 教育绝非政治中立的技术技能分配体系，而是深刻嵌入资本主义国家资本积累与社会合法化双重矛盾职能的争鸣[[Champ|场域]]；外围资本主义国家受制于全球资本积累的边缘地位与本土后封建政治结构，演化出排他性的[[Conditioned State Theory|受制国家]]与[[State Corporatism|国家法团主义]]体制，并借助双轨教育系统和[[Compensatory Legitimation|补偿性合法化]]维系阶级霸权；在新自由主义全球化下，以[[World Bank|世界银行]]（World Bank, WB）为核心的[[Financial-Intellectual Complex|金融-智识复合体]]通过结构性调整强推[[Endogenous and Exogenous Privatisation|教育私有化]]、分权化与使用者付费，实质上是以市场逻辑剥夺大众政治主体地位的阶级策略，唯有重构马克思主义实践哲学与广泛的批判联盟方能开辟民主解放路径。（pp. 73–85）
+> 教育绝非政治中立的技术技能分配体系，而是深刻嵌入资本主义国家资本积累与社会合法化双重矛盾职能的争鸣[[Champ|场域]]；外围资本主义国家受制于全球资本积累的边缘地位与本土后封建政治结构，演化出排他性的[[Conditioned State Theory|受制国家]]与[[State Corporatism|国家法团主义]]体制，并借助双轨教育系统和[[Compensatory Legitimation|补偿性合法化]]维系阶级霸权；在新自由主义全球化下，以[[World Bank|世界银行]]（World Bank, WB）为核心的[[Financial-Intellectual Complex|金融-智识复合体]]通过结构性调整强推[[Endogenous and Exogenous Privatisation|教育私有化]]、分权化与使用者付费，实质上是以市场逻辑剥夺大众政治主体地位的阶级策略，唯有重构马克思主义[[Praxis|实践哲学]]与广泛的批判联盟方能开辟民主解放路径。（pp. 73–85）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 现代国家理论与教育扩张的互动关系，以 20 世纪战后拉丁美洲（重点考证墨西哥、阿根廷、哥斯达黎加与智利）的教育发展史、工业化转型与新自由主义结构调整为核心经验案例。（pp. 73–74, 81–84）
@@ -117,7 +121,7 @@ issuing_organization: ""
 > | **[[Financial-Intellectual Complex\|金融-智识复合体]]** | 剖析[[World Bank\|世界银行]]将巨额贷款与定向[[Categorical Funding\|委托研究]]深度绑定，推行新古典教育经济学霸权与结构调整政策的机制。（pp. 80–81） |
 
 > [!warrant]- 理论如何支撑论证
-> 两位作者以历史唯物主义辩证总体性视角为基座，将资本积累机制与政治合法化矛盾确立为贯穿国家教育政策的核心分析支柱。通过引入受制国家与国家[[Neocorporatism|法团主义]]框架，作者打通了“世界体系边缘从属地位 ➔ 本土代用国家异化 ➔ 教育制度阶级双轨化 ➔ 新自由主义跨国金融[[Disciplina and Doctrina|规训]] ➔ 大众批判反抗与实践哲学复兴”的完整逻辑链条，有力证成了教育扩张绝非[[Technical Rationality|技术理性]]的自然演化，而是国家在深刻历史阶级矛盾中维系统治秩序与资本积累的制度妥协。（pp. 75–76, 83–85）
+> 两位作者以历史唯物主义辩证总体性视角为基座，将资本积累机制与政治合法化矛盾确立为贯穿国家教育政策的核心分析支柱。通过引入受制国家与国家[[Neocorporatism|法团主义]]框架，作者打通了“世界体系边缘从属地位 ➔ 本土代用国家异化 ➔ 教育制度阶级双轨化 ➔ 新自由主义跨国金融[[Disciplina and Doctrina|规训]] ➔ 大众批判反抗与[[Praxis|实践哲学]]复兴”的完整逻辑链条，有力证成了教育扩张绝非[[Technical Rationality|技术理性]]的自然演化，而是国家在深刻历史阶级矛盾中维系统治秩序与资本积累的制度妥协。（pp. 75–76, 83–85）
 
 ---
 
@@ -234,10 +238,10 @@ issuing_organization: ""
 > - **行政管理与财政甩包袱（分权化改革）**
 >   中央政府以权力下放、自主管理为借口，将学校筹资和运营负担转移给财力孱弱的地方政府和贫困社区，导致区域校际鸿沟进一步拉大。
 
-学校组织模式的根本转变，根源于资本主义生产方式从福特制向后福特制的跃迁。
+学校组织模式的根本转变，根源于资本主义生产方式从福特制向[[Post-Fordism|后福特制]]的范式转型。
 
 > [!continuum] 生产方式转变如何直接重塑学校教育目标
-> **福特制流水线集中大工业** **后福特制跨国弹性灵活积累**
+> **福特制流水线集中大工业** **[[Post-Fordism|后福特制]]跨国弹性灵活积累**
 >
 > - 集中在工厂的大规模标准化流水线生产
 > - 跨国离散分布、随时调整的弹性生产网络
@@ -313,7 +317,7 @@ issuing_organization: ""
 
 三个典型国别实证案例揭示了受制国家机制在基层的具体落地形态：
 
-> [!case] 墨西哥国家法团主义恩庇体系与成人扫盲补偿（Torres & Morales-Gómez）
+> [!case] 墨西哥国家[[Neocorporatism|法团主义]]恩庇体系与成人扫盲补偿（Torres & Morales-Gómez）
 > 墨西哥政府在法律上确立了全国教育工作者工会（Sindicato Nacional de Trabajadores de la Educación, SNTE）对公立学校教师的绝对代表权，将数十万教师牢牢绑定在革命制度党（Partido Revolucionario Institucional, PRI）恩庇体系中。面对数以百万计的失学农民和文盲，政府于 1980 年代成立全国成人教育学会（Instituto Nacional para la Educación de los Adultos, INEA），在全国推行扫盲运动。托雷斯（Torres, 1991）与莫拉莱斯-戈麦斯（Morales-Gómez）的实证研究表明，这项扫盲政策的主要功能并不是为了实质提升工农的政治经济地位，而是作为补偿性合法化的关键手段：通过给予底层大众受教育的象征性希望，平息社会不满，巩固一党威权体制。（pp. 83–84）
 
 > [!case] 智利新自由主义教育券私有化与中产阶级受挫（Lomnitz & Melnick, 1991）
@@ -321,6 +325,11 @@ issuing_organization: ""
 
 > [!case] 世界银行贷款附加条件与阿根廷布宜诺斯艾利斯大学重构（Schugurensky, 1994）
 > 丹尼尔·舒古伦斯基（Daniel Schugurensky）对阿根廷历史最悠久、规模最大的布宜诺斯艾利斯大学（Universidad de Buenos Aires, UBA）的[[Case Study|个案研究]]表明，世界银行利用结构调整贷款作为施压工具，要求阿根廷政府压缩国立大学财政预算，强行要求公立大学在研究生阶段开征学费、面向企业创收自筹资金，并推行技术官僚考核。这项干预旨在削弱拉美大学传统上浓厚的人文社会科学批判传统，迫使高深学府沦为依附于跨国资本积累的职业技能培训所。（pp. 81, 85）
+
+面对受制国家机器与法团主义官僚恩庇，拉美基层社会孕育了自主的批判教育抵抗传统。
+
+> [!claim] 核心判断：[[Popular Education|民众教育]]解构“[[Bildung|教化]]主权者”神话，确立工农大众历史主体性
+> 尽管拉美自由主义国家试图通过扩大公立教育确立其统治合法性，并将政策理由总结为“教化主权者”（educate the sovereign），但 1960 年代伴随受压迫者教育学、[[Conscientization|批判意识觉醒]]与[[Popular Education|民众教育]]（Educación Popular）的兴起，这一资产阶级恩赐假定遭到了彻底解构。民众教育坚决反对国家法团主义将成人扫盲蜕变为换取政治顺从的恩庇工具，主张教育必须扎根大众生活现实，通过对等对话激发批判意识，成为被压迫阶级自我赋权与民主反抗的自主武器。（p. 84）
 
 ---
 
@@ -347,7 +356,7 @@ issuing_organization: ""
 > [!claim] 核心判断：新自由主义危机的时间差，为外围社会构筑反抗同盟提供了客观契机
 > 新自由主义模式的演进在中心国家与外围国家呈现出非对称节奏。在欧美中心国家，新自由主义模式的弊端早已暴露并引发广泛的学术和政治危机；然而在拉美外围国家，依附于跨国资本的本土买办精英却依然在死抱教条、变本加厉地推行私有化。这种时代错位不仅激化了国内矛盾，更促使学生、工会、贫困社群和知识分子看清现实，为建立广泛的抵抗联盟创造了客观条件。（p. 85）
 
-> [!warrant] 走出危机的方法：联合冷面科学分析与炽热道德乌托邦的实践哲学
+> [!warrant] 走出危机的方法：联合冷面科学分析与炽热道德乌托邦的[[Praxis|实践哲学]]
 > 借由丹尼尔·本赛德（Daniel Bensaïd, 1999）对马克思当代意义的阐释，走出当前教育和政治危机的唯一出路，在于重构马克思主义作为行动指南的辩证实践哲学（[[Praxis]]）。批判学者不能停留在书斋里的空洞叹息，必须把严谨求实的制度分析（冷面科学）与捍卫人类尊严的道德追求（炽热乌托邦）结合起来，将理论转化为联合教师工会、学生运动与劳工大众的具体政治实践，共同构筑捍卫公共教育尊严、实现民主解放的替代道路。（pp. 84–85）
 
 ---
@@ -358,7 +367,7 @@ issuing_organization: ""
 > 1. **教育扩张受制于资本积累与殖民遗产** 战后全球教育扩张不是世界文化均质趋同的产物，而是受制于接入世界体系的历史阶段与前殖民阶级遗产，外围国家普遍演化出双轨分选教育格局。（pp. 74–76）
 > 2. **教育政策天然具备固有政治性** 任何教育诊断均暗含特定的国家理论假定，学校教育是国家维系资本积累与政治合法性妥协的争鸣[[Champ|场域]]，技术中立修辞掩盖了阶级支配本质。（pp. 73–74, 77–78）
 > 3. **[[Conditioned State Theory|受制国家]]推行[[Neocorporatism|法团主义]][[Compensatory Legitimation|补偿性合法化]]** 拉美外围国家受跨国资本与本土后封建寡头双重约束，演化为排他性受制国家，通过自上而下控制工会与推行大众扫盲以边际福利换取底层顺从。（pp. 83–84）
-> 4. **[[Financial-Intellectual Complex|金融-智识复合体]]通过市场化剥夺公民权** [[World Bank|世界银行]]操纵跨国智识与贷款复合体，强推私有化与分权化削减公共开支，唯有联合社会各阶层重构批判实践哲学方能开辟解放路径。（pp. 80–81, 84–85）
+> 4. **[[Financial-Intellectual Complex|金融-智识复合体]]通过市场化剥夺公民权** [[World Bank|世界银行]]操纵跨国智识与贷款复合体，强推私有化与分权化削减公共开支，唯有联合社会各阶层重构批判[[Praxis|实践哲学]]方能开辟解放路径。（pp. 80–81, 84–85）
 
 ---
 
@@ -374,7 +383,7 @@ issuing_organization: ""
 >
 > *The theory of the "conditioned states" in the Third World, expanding upon and clarifying the notion of the dependent state, argues that the state is conditioned "by the nature of the peripheral role that its economy plays in the world system and the significant (postfeudal) elements in its own political system". Therefore, Latin American "conditioned states" have not been able to carry out their public functions properly for a number of reasons. On the one hand, the fragility of local economies made local dominant groups unwilling to allow the pluralist participation of the masses in the selection of the state bureaucracy. On the other hand, since the state historically has been identified by the popular sectors more as a pact of domination by the dominant classes, or a surrogate state, it has not been seen as an independent state working on behalf of the citizenry.*
 
-> [!citation-card] 葛兰西与萨特视阈下实践哲学的重构
+> [!citation-card] 葛兰西与萨特视阈下[[Praxis|实践哲学]]的重构
 > 重构作为方法与认识之道的辩证法，将马克思主义“冰冷”的一面（科学）与其“炽热”的一面（乌托邦）、知识与实践紧密结合，唯有如此，对现实的[[Creativity|创造性]]与革命性阐释才能得以展开，使马克思主义一如葛兰西所言，真正成为一门“实践哲学”。（p. 85）
 >
 > *Constructing partial synthesis and successive approximations, reconstructing the dialectic as a method and way of knowing, and associating the "cold" side of Marxism (science) with its "hot" phase (utopia), knowledge and [[Praxis]], will be how the creation and revolutionary interpretation of reality develops, so that Marxism continues to be as Gramsci said, a "Philosophy of Praxis."*
@@ -385,7 +394,7 @@ issuing_organization: ""
 
 > [!warning] 原文自述理论局限与经验边界
 > - **微观教学过程经验研究匮乏** 作者明确承认，关于国家国际化与全球化对微观层面的具体教育政策、教科书内容以及实际课堂课程编制的深层渗透，学界迄今仍极度缺乏系统的经验与理论实证研究。（p. 80）
-> - **跨国战略对话缺位削弱政治效能** 马克思主义作为批判传统与实践哲学，当前正受到政治联合项目缺乏战略性对话的负面制约，难以有效整合各方抵抗力量，必须在行动策略上进一步克服碎片化。（p. 77）
+> - **跨国战略对话缺位削弱政治效能** 马克思主义作为批判传统与[[Praxis|实践哲学]]，当前正受到政治联合项目缺乏战略性对话的负面制约，难以有效整合各方抵抗力量，必须在行动策略上进一步克服碎片化。（p. 77）
 > - **案例区域特殊性限制** 尽管关于国家理论、资本积累与教育扩张的核心论断适用于广泛的发展中国家，但本章主要基于拉丁美洲社会（特别是墨西哥等具备典型[[Neocorporatism|法团主义]]传统的国别经验）进行历史推演，对其他非西方外围区域（如非洲部落社会或东亚发展型国家）的适用性仍需因地制宜展开具体历史情境检验。（pp. 74, 83–84）
 
 ---

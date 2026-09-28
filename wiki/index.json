@@ -714,7 +714,7 @@
   {
     "title": "Façade of Rationality",
     "type": "concept",
-    "path": "wiki/concepts/comparative-education/Façade of Rationality.md",
+    "path": "wiki/concepts/comparative-education/Façade of Rationality.md",
     "aliases": [
       "理性表象",
       "理性外衣",
@@ -2749,7 +2749,6 @@
     "aliases": [
       "批判意识觉醒",
       "conscientização",
-      "conscientization",
       "critical consciousness"
     ]
   },
@@ -3041,7 +3040,7 @@
   {
     "title": "Epoché",
     "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Epoché.md",
+    "path": "wiki/concepts/educational-philosophy/Epoché.md",
     "aliases": [
       "悬置",
       "现象学悬置",
@@ -3508,8 +3507,9 @@
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Praxis.md",
     "aliases": [
-      "praxis",
       "Freirean praxis",
+      "实践哲学",
+      "philosophy of praxis",
       "informed action"
     ]
   },
@@ -6785,6 +6785,15 @@
     "aliases": [
       "现象本位学习",
       "PhBL"
+    ]
+  },
+  {
+    "title": "Popular Education",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Popular Education.md",
+    "aliases": [
+      "民众教育",
+      "educación popular"
     ]
   },
   {
@@ -10398,6 +10407,16 @@
     "aliases": [
       "政治算术",
       "political arithmetic tradition"
+    ]
+  },
+  {
+    "title": "Post-Fordism",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Post-Fordism.md",
+    "aliases": [
+      "后福特制",
+      "后福特主义",
+      "post-Fordist education"
     ]
   },
   {
@@ -18283,7 +18302,7 @@
   {
     "title": "José Manuel Torres",
     "type": "person",
-    "path": "wiki/persons/chile/José Manuel Torres.md",
+    "path": "wiki/persons/chile/José Manuel Torres.md",
     "aliases": [
       "Torres, J. M.",
       "何塞·曼努埃尔·托雷斯",
@@ -18639,7 +18658,7 @@
   {
     "title": "François Guizot",
     "type": "person",
-    "path": "wiki/persons/france/François Guizot.md",
+    "path": "wiki/persons/france/François Guizot.md",
     "aliases": [
       "弗朗索瓦·基佐",
       "基佐",
@@ -18649,7 +18668,7 @@
   {
     "title": "Jean-François Lyotard",
     "type": "person",
-    "path": "wiki/persons/france/Jean-François Lyotard.md",
+    "path": "wiki/persons/france/Jean-François Lyotard.md",
     "aliases": [
       "Lyotard, J. F.",
       "让-弗朗索瓦·利奥塔",
@@ -18804,7 +18823,7 @@
   {
     "title": "Jürgen Habermas",
     "type": "person",
-    "path": "wiki/persons/germany/Jürgen Habermas.md",
+    "path": "wiki/persons/germany/Jürgen Habermas.md",
     "aliases": [
       "尤尔根·哈贝马斯",
       "哈贝马斯",
@@ -19119,7 +19138,7 @@
   {
     "title": "Torsten Husén",
     "type": "person",
-    "path": "wiki/persons/sweden/Torsten Husén.md",
+    "path": "wiki/persons/sweden/Torsten Husén.md",
     "aliases": [
       "托斯滕·胡森",
       "托斯滕·胡森教授",
@@ -20205,7 +20224,7 @@
   {
     "title": "Donald A. Schön",
     "type": "person",
-    "path": "wiki/persons/us/Donald A. Schön.md",
+    "path": "wiki/persons/us/Donald A. Schön.md",
     "aliases": [
       "Schön, D. A.",
       "Donald Schön",
@@ -21244,7 +21263,7 @@
   {
     "title": "Schulqualität Allgemeinbildung",
     "type": "fact",
-    "path": "wiki/facts/austria/Schulqualität Allgemeinbildung.md",
+    "path": "wiki/facts/austria/Schulqualität Allgemeinbildung.md",
     "aliases": [
       "SQA",
       "奥地利普通学校质量管理体系",
@@ -22064,7 +22083,7 @@
   {
     "title": "Revue encyclopédique",
     "type": "fact",
-    "path": "wiki/facts/france/Revue encyclopédique.md",
+    "path": "wiki/facts/france/Revue encyclopédique.md",
     "aliases": [
       "百科评论",
       "百科评论杂志",
@@ -22263,7 +22282,7 @@
   {
     "title": "Zentrum für internationale Bildungsvergleichsstudien",
     "type": "fact",
-    "path": "wiki/facts/germany/Zentrum für internationale Bildungsvergleichsstudien.md",
+    "path": "wiki/facts/germany/Zentrum für internationale Bildungsvergleichsstudien.md",
     "aliases": [
       "德国国际教育比较研究中心",
       "ZIB",
@@ -22411,7 +22430,7 @@
   {
     "title": "Qualitätsoffensive Lehrerbildung",
     "type": "fact",
-    "path": "wiki/facts/germany/Qualitätsoffensive Lehrerbildung.md",
+    "path": "wiki/facts/germany/Qualitätsoffensive Lehrerbildung.md",
     "aliases": [
       "教师教育质量攻坚计划",
       "QLB",
@@ -23427,7 +23446,7 @@
   {
     "title": "Centro Nacional de Evaluación para la Educación Superior",
     "type": "fact",
-    "path": "wiki/facts/mexico/Centro Nacional de Evaluación para la Educación Superior.md",
+    "path": "wiki/facts/mexico/Centro Nacional de Evaluación para la Educación Superior.md",
     "aliases": [
       "CENEVAL",
       "墨西哥国家高等教育评估中心",
@@ -28086,9 +28105,9 @@
     "path": "wiki/arguments/journal-articles/Paideia/Argument_Hattie_2015_Paideia.md"
   },
   {
-    "title": "Argument_Håkansson_2015_Paideia",
+    "title": "Argument_Håkansson_2015_Paideia",
     "type": "argument",
-    "path": "wiki/arguments/journal-articles/Paideia/Argument_Håkansson_2015_Paideia.md"
+    "path": "wiki/arguments/journal-articles/Paideia/Argument_Håkansson_2015_Paideia.md"
   },
   {
     "title": "Argument_Laursen_2015_Paideia",
