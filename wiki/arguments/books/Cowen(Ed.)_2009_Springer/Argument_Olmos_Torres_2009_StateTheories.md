@@ -54,6 +54,8 @@ related_theories:
   - "[[World-Systems Theory]]"
   - "[[Cultural Models]]"
   - "[[Dependency Theory]]"
+  - "[[Post-Imperialism Theory]]"
+  - "[[Liberal-Pluralist Theory of the State]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Historical-Comparative Method]]"
@@ -72,11 +74,17 @@ related_persons:
   - "[[Daniel Bensaïd]]"
   - "[[Ernesto Schiefelbein]]"
   - "[[Daniel Schugurensky]]"
+  - "[[Theotonio Dos Santos]]"
+  - "[[Adriana Puiggrós]]"
+  - "[[David Held]]"
+  - "[[Atilio Borón]]"
 related_facts:
   - "[[World Bank]]"
   - "[[OECD]]"
   - "[[UNESCO]]"
   - "[[Business Roundtable]]"
+  - "[[SNTE]]"
+  - "[[INEA]]"
 related_arguments: []
 sources:
   - "[[books/Cowen(Ed.)_2009_Springer/Ch06_Olmos_Torres_2009|Ch06_Olmos_Torres_2009]]"
@@ -90,7 +98,7 @@ title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches"
 argument_kind: "book-chapter"
-argument_related_count: 51
+argument_related_count: 59
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -206,7 +214,7 @@ issuing_organization: ""
 > 在政策讨论中，官员和国际咨询专家常常使用提高成本效益、实现技术升级等专业术语，将教育改革描绘成纯粹客观的科学工程。然而，任何具体的教育诊断、质量标准与改革方案，背后都默认了一套关于国家应当服务于谁的理论假定；抽离国家权力去空谈教育改革，是对客观现实的严重遮蔽。（pp. 73–74）
 
 > [!claim] 核心判断：标榜技术中立的教育规划掩盖了国家作为阶级权力工具的本质
-> 正如[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy, 1992）所指出的，绝大多数教育政策分析都暗含着一种国家理论。自由主义假定国家是中立的仲裁者，新马克思主义则揭示国家是维系统治阶级政治经济利益的暴力与统识工具。如果研究者不澄清自己依赖的国家观，就会无意识地沦为既有权力秩序的辩护士。（pp. 73–74）
+> 正如[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy, 1992）所指出的，绝大多数教育政策分析都暗含着一种国家理论。[[Liberal-Pluralist Theory of the State|自由多元主义国家观]]假定国家是中立的仲裁者，新马克思主义则揭示国家是维系统治阶级政治经济利益的暴力与统识工具。如果研究者不澄清自己依赖的国家观，就会无意识地沦为既有权力秩序的辩护士。（pp. 73–74, 78）
 
 > [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论国家理论对教育规划的前提性支配
 > 界定教育的“真实”问题以及最适宜（如最具成本效益、伦理上可接受且具有合法性）的解决方案，在很大程度上取决于支撑、证成并指引教育诊断与提议方案的国家理论。然而，正如[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy, 1992）所指出的，大多数教育问题分析都暗含着一种国家理论，但在教育研究与实践中，这种理论的根本前提却极少被识别或阐明。对我们自身的理论假定保持自我审思，是开展扎实学术研究的前提条件。（pp. 73–74）
@@ -236,7 +244,7 @@ issuing_organization: ""
 > 从 20 世纪 70 年代末开始，资本主义全球扩张改变了民族国家与公共教育的关系。跨国金融资本为了压低用工成本、拓展投资市场，联合国际组织对发展中国家施加强大压力，迫使国家从公共福利领域撤退，并将教育从基本公民权利彻底重组为由个人买单的私人物品。（pp. 79–80）
 
 > [!claim] 核心判断：市场化改革不是为了提升教育质量，而是统治阶层削减公共开支的阶级策略
-> 戴维·赫尔德（David Held）等学者的分析表明，跨国公司（Transnational Corporations, TNCs）推动的全球化让跨国资本获得了逃避国家监管和税收的巨大自由，而民族国家为了吸引外资，转而向国内大众推行紧缩政策。[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen Ball, 1993）指出，推崇教育市场竞争、把学校推向自负盈亏，本质上是一场精巧的阶级策略：国家将教育投资失败的责任转嫁给底层家庭，同时让拥有财富的优势阶层在私立教育市场中牢牢锁定阶层优势。（pp. 79–80）
+> [[David Held|戴维·赫尔德]]（David Held, 1991）等学者的分析表明，跨国公司（Transnational Corporations, TNCs）推动的全球化让跨国资本获得了逃避国家监管和税收的巨大自由，而民族国家为了吸引外资，转而向国内大众推行紧缩政策。[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen Ball, 1993）指出，推崇教育市场竞争、把学校推向自负盈亏，本质上是一场精巧的阶级策略：国家将教育投资失败的责任转嫁给底层家庭，同时让拥有财富的优势阶层在私立教育市场中牢牢锁定阶层优势。（pp. 79–80）
 
 国际金融组织在此背景下通过[[Structural Adjustment Programs|结构调整方案]]（Structural Adjustment Programs, SAPs）向外围国家推行了一整套紧缩性政策组合。
 
@@ -248,7 +256,9 @@ issuing_organization: ""
 > - **行政管理与财政甩包袱（分权化改革）**
 >   中央政府以权力下放、自主管理为借口，将学校筹资和运营负担转移给财力孱弱的地方政府和贫困社区，导致区域校际鸿沟进一步拉大。
 
-学校组织模式的根本转变，根源于资本主义生产方式从福特制向[[Post-Fordism|后福特制]]的范式转型。正如[[Michael W. Apple|迈克尔·W·阿普尔]]（Michael W. Apple, 1982）所指出的，劳动过程从福特制向后福特制的转变，深刻重塑了劳动力的技能化与去技能化进程，并将技术控制逻辑强力植入学校课程形态之中。（p. 79）
+学校组织模式的根本转变，根源于资本主义生产方式从福特制向[[Post-Fordism|后福特制]]的范式转型。正如[[Michael W. Apple|迈克尔·W·阿普尔]]（Michael W. Apple, 1982）所指出的，劳动过程从福特制向后福特制的转变，深刻重塑了劳动力的技能化与去技能化进程，并将技术控制逻辑强力植入学校课程形态之中。
+
+与此相伴随的是外围国家对公共教育的制度性撤资。托雷斯与[[Adriana Puiggrós|阿德里亚娜·普伊格罗斯]]（Torres & Puiggrós, 1995）深刻揭示，国家削减公立教育开支并转嫁成本，其直接后果是彻底摧毁了公立学校将底层大众塑造为具备民主权利与反思能力的“教育主体”（Pedagogical Subjects）的宪法功能，将公民降格为孤立自负的劳动力商品。（p. 79）
 
 > [!continuum] 生产方式转变如何直接重塑学校教育目标
 > **福特制流水线集中大工业** **[[Post-Fordism|后福特制]]跨国弹性灵活积累**
@@ -308,10 +318,10 @@ issuing_organization: ""
 
 > [!quad-grid] 解释外围国家困境的四大发展学派谱系（pp. 82–83）
 > - **[[Dependency Theory|依附理论]]学派**
->   以特奥托尼奥·多斯桑托斯（Theotonio Dos Santos）为代表，指出外围国家的落后是世界资本主义体系不平等交换与剥削造成的，缺乏自主资本积累能力。
+>   以[[Theotonio Dos Santos|特奥托尼奥·多斯桑托斯]]（Theotonio Dos Santos）为代表，指出外围国家的落后是世界资本主义体系不平等交换与剥削造成的，缺乏自主资本积累能力。
 > - **现代化理论学派**
 >   主张落后根源在于第三世界国家自身缺乏现代价值观念、存在传统文化阻碍以及制度效率低下。
-> - **后帝国主义理论**
+> - **[[Post-Imperialism Theory|后帝国主义理论]]**
 >   强调跨国大资产阶级如何与发展中国家本土权贵结盟，共同分肥并压制工农阶级。
 > - **国内政治经济学派**
 >   注重分析一国国内不同利益集团之间的政策博弈，认为国内政治力量对比直接决定了公共支出流向。
@@ -330,7 +340,7 @@ issuing_organization: ""
 三个典型国别实证案例揭示了受限国家机制在基层的具体落地形态：
 
 > [!case] 墨西哥国家[[Neocorporatism|法团主义]]恩庇体系与成人扫盲补偿（Torres & Morales-Gómez）
-> 墨西哥政府在法律上确立了全国教育工作者工会（Sindicato Nacional de Trabajadores de la Educación, SNTE）对公立学校教师的绝对代表权，将数十万教师牢牢绑定在革命制度党（Partido Revolucionario Institucional, PRI）恩庇体系中。面对数以百万计的失学农民和文盲，政府于 1980 年代成立全国成人教育学会（Instituto Nacional para la Educación de los Adultos, INEA），在全国推行扫盲运动。托雷斯（Torres, 1991）与莫拉莱斯-戈麦斯（Morales-Gómez）的实证研究表明，这项扫盲政策的主要功能并不是为了实质提升工农的政治经济地位，而是作为补偿性合法化的关键手段：通过给予底层大众受教育的象征性希望，平息社会不满，巩固一党威权体制。（pp. 83–84）
+> 墨西哥政府在法律上确立了[[SNTE|全国教育工作者工会]]（Sindicato Nacional de Trabajadores de la Educación, SNTE）对公立学校教师的绝对代表权，将数十万教师牢牢绑定在革命制度党（Partido Revolucionario Institucional, PRI）恩庇体系中。面对数以百万计的失学农民和文盲，政府于 1980 年代成立[[INEA|全国成人教育学会]]（Instituto Nacional para la Educación de los Adultos, INEA），在全国推行扫盲运动。托雷斯（Torres, 1991）与莫拉莱斯-戈麦斯（Morales-Gómez）的实证研究表明，这项扫盲政策的主要功能并不是为了实质提升工农的政治经济地位，而是作为补偿性合法化的关键手段：通过给予底层大众受教育的象征性希望，平息社会不满，巩固一党威权体制。（pp. 83–84）
 
 > [!case] 智利新自由主义教育券私有化与中产阶级受挫（Lomnitz & Melnick, 1991）
 > 智利皮诺切特军政权按照世界银行和新自由主义经济学的标准处方，激进推行学校私有化、发放教育券并全面推行使用者付费。洛姆尼茨与梅尔尼克（Lomnitz & Melnick, 1991）的[[Fieldwork|实地调查]]记录了这场改革对智利社会的残酷冲击：公立学校名誉扫地、设施破败；曾经体面的普通中产家庭为了让子女进入私立学校，不得不承担极其沉重的债务负担。这场改革撕下了自由选择的面具，证明了市场化教育实质上是资产阶级剥夺大众平民受教育权的制度暴力。（pp. 79, 85）
@@ -369,7 +379,7 @@ issuing_organization: ""
 > 新自由主义模式的演进在中心国家与外围国家呈现出非对称节奏。在欧美中心国家，新自由主义模式的弊端早已暴露并引发广泛的学术和政治危机；然而在拉美外围国家，依附于跨国资本的本土买办精英却依然在死抱教条、变本加厉地推行私有化。这种时代错位不仅激化了国内矛盾，更促使学生、工会、贫困社群和知识分子看清现实，为建立广泛的抵抗联盟创造了客观条件。（p. 85）
 
 > [!warrant] 走出危机的方法：联合冷面科学分析与炽热道德乌托邦的[[Praxis|实践哲学]]
-> 借由[[Daniel Bensaïd|达尼埃尔·本萨义德]]（Daniel Bensaïd, 1999）对马克思当代意义的阐释，走出当前教育和政治危机的唯一出路，在于重构马克思主义作为行动指南的辩证实践哲学（[[Praxis]]）。批判学者不能停留在书斋里的空洞叹息，必须把严谨求实的制度分析（冷面科学）与捍卫人类尊严的道德追求（炽热乌托邦）结合起来，将理论转化为联合教师工会、学生运动与劳工大众的具体政治实践，共同构筑捍卫公共教育尊严、实现民主解放的替代道路。（pp. 84–85）
+> 借由[[Atilio Borón|阿蒂利奥·博隆]]（Atilio Borón, 2006）与[[Daniel Bensaïd|达尼埃尔·本萨义德]]（Daniel Bensaïd, 1999）对马克思当代批判力量的阐释，走出当前教育和政治危机的唯一出路，在于重构马克思主义作为行动指南的辩证实践哲学（[[Praxis]]）。正如博隆所指出的，只要资本主义无法克服其制度所内生的剥削、贫困与自然破坏，马克思主义就依然是当代社会科学不可逾越的批判地平线。批判学者不能停留在书斋里的空洞叹息，必须把严谨求实的制度分析（冷面科学）与捍卫人类尊严的道德追求（炽热乌托邦）结合起来，将理论转化为联合教师工会、学生运动与劳工大众的具体政治实践，共同构筑捍卫公共教育尊严、实现民主解放的替代道路。（pp. 76–77, 84–85）
 
 ---
 

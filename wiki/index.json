@@ -12031,12 +12031,36 @@
     ]
   },
   {
+    "title": "Liberal-Pluralist Theory of the State",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Liberal-Pluralist Theory of the State.md",
+    "aliases": [
+      "自由多元主义国家理论",
+      "自由主义多元国家观",
+      "自由多元主义国家观",
+      "Liberal-Pluralist State Theory",
+      "自由多元主义国家论"
+    ]
+  },
+  {
     "title": "Nation Building through Education",
     "type": "theory",
     "path": "wiki/theories/comparative-education/Nation Building through Education.md",
     "aliases": [
       "教育建国",
       "教育国家建构"
+    ]
+  },
+  {
+    "title": "Post-Imperialism Theory",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Post-Imperialism Theory.md",
+    "aliases": [
+      "后帝国主义理论",
+      "后帝国主义学派",
+      "Theory of Post-Imperialism",
+      "Post-Imperialism",
+      "后帝国主义"
     ]
   },
   {
@@ -18003,12 +18027,33 @@
     ]
   },
   {
+    "title": "Adriana Puiggrós",
+    "type": "person",
+    "path": "wiki/persons/argentina/Adriana Puiggrós.md",
+    "aliases": [
+      "阿德里亚娜·普伊格罗斯",
+      "普伊格罗斯",
+      "Puiggrós, A."
+    ]
+  },
+  {
     "title": "Alejandro Artopoulos",
     "type": "person",
     "path": "wiki/persons/argentina/Alejandro Artopoulos.md",
     "aliases": [
       "Artopoulos, A.",
       "亚历杭德罗·阿尔托普洛斯"
+    ]
+  },
+  {
+    "title": "Atilio Borón",
+    "type": "person",
+    "path": "wiki/persons/argentina/Atilio Borón.md",
+    "aliases": [
+      "阿蒂利奥·博隆",
+      "博隆",
+      "Borón, A.",
+      "Boron, A."
     ]
   },
   {
@@ -18206,6 +18251,16 @@
     "aliases": [
       "Branco, R. C.",
       "理查德·卡斯特洛·布兰科"
+    ]
+  },
+  {
+    "title": "Theotonio Dos Santos",
+    "type": "person",
+    "path": "wiki/persons/brazil/Theotonio Dos Santos.md",
+    "aliases": [
+      "特奥托尼奥·多斯桑托斯",
+      "多斯桑托斯",
+      "Dos Santos, T."
     ]
   },
   {
@@ -19379,6 +19434,16 @@
     "aliases": [
       "戴维·高夫",
       "D. Gough"
+    ]
+  },
+  {
+    "title": "David Held",
+    "type": "person",
+    "path": "wiki/persons/uk/David Held.md",
+    "aliases": [
+      "戴维·赫尔德",
+      "赫尔德",
+      "Held, D."
     ]
   },
   {
@@ -23563,6 +23628,28 @@
       "CENEVAL",
       "墨西哥国家高等教育评估中心",
       "墨西哥高等教育评估中心"
+    ]
+  },
+  {
+    "title": "INEA",
+    "type": "fact",
+    "path": "wiki/facts/mexico/INEA.md",
+    "aliases": [
+      "墨西哥全国成人教育学会",
+      "Instituto Nacional para la Educación de los Adultos",
+      "全国成人教育学会",
+      "National Institute for Adult Education"
+    ]
+  },
+  {
+    "title": "SNTE",
+    "type": "fact",
+    "path": "wiki/facts/mexico/SNTE.md",
+    "aliases": [
+      "墨西哥全国教育工作者工会",
+      "Sindicato Nacional de Trabajadores de la Educación",
+      "全国教育工作者工会",
+      "National Union of Education Workers"
     ]
   },
   {
