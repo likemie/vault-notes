@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-17
+updated: 2026-09-29
 ---
 
 # Historical-Comparative Method

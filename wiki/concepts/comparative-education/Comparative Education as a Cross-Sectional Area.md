@@ -21,7 +21,7 @@ tags:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 
 # Comparative Education as a Cross-Sectional Area
@@ -61,7 +61,7 @@ updated: 2026-09-28
 
 > [!feature] 核心要素
 > - **母体学科根基（Allgemeine Pädagogik）** 始终将受教育者的教化、人的形成以及教育体系与社会的内在价值关联作为核心问题意识，避免沦为缺乏价值反思的纯工程技术。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
-> - **历史学维度（Historical Depth）** 强调对教育制度的理解必须溯源其制度发生学脉络，汲取史料文献考证与思想史诠释方法。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 97)]]
+> - **历史学维度（Historical Depth）** 强调对教育制度的理解必须溯源其制度发生学脉络，汲取史料文献考证与思想史诠释方法。
 > - **社会学维度（Sociological Breadth）** 引入社会结构、阶级分层、国家政治形态与全球资本流动的结构性分析视角，使比较分析具备扎实的经验解释力。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 97)]]
 > - **跨国横截面视角（Transnational Cross-Section）** 突破单一民族国家的国别容器，以多国横向对比作为照亮本国与外国体制隐蔽特征的棱镜。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–88)]]
 
