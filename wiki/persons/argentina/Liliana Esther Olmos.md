@@ -27,16 +27,18 @@ related_concepts:
   - "[[Financial-Intellectual Complex]]"
   - "[[Emergence]]"
   - "[[Dual School System]]"
-  - "[[Document]]"
+  - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Critical Pedagogy]]"
+  - "[[Document]]"
 related_theories:
   - "[[Conditioned State Theory]]"
   - "[[State Corporatism]]"
-  - "[[World-Systems Theory]]"
   - "[[World Society Theory]]"
+  - "[[Neocorporatism]]"
 related_methods:
   - "[[Accounts]]"
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Carlos Alberto Torres]]"
@@ -91,7 +93,7 @@ updated: 2026-09-28
 > [!claim] 拒绝非历史的普世扩张论，主张资本积累与政治合法化的双重视角
 > 奥尔莫斯强调研究第三世界国家的教育扩张，绝不能套用欧美发达国家的均质化现代化叙事，亦不能采纳假定战后存在单一文化体系的普世[[World Society Theory|世界社会理论]]。必须回到资本积累与政治合法化的历史辩证法，考察特定民族国家接入全球资本体系的时点与方式、前殖民与殖民教育遗产，以及本土阶级结构，方能深刻理解拉美教育系统长期存在的阶级分选[[Dual School System|双轨学制]]与公共职能脆弱性。
 
-> [!citation-card] 外围资本主义受制国家的双重危机
+> [!citation-card] 外围资本主义[[Conditioned State Theory|受制国家]]的双重危机
 > 外围受制国家不仅在资本积累上高度受制于跨国垄断资本与外部债务，而且在政治上必须面对尖锐的分配不平等；国家因此不得不依赖教育扩张所发放的边际文凭作为政治红利，实施[[Compensatory Legitimation|补偿性合法化]]，而教育体系本身亦随之分裂为服务于精英的高阶轨道与束缚底层的劣质初等公学轨道。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–82)]]
 >
 > *The dependent state in peripheral capitalism operates under double structural constraints: external conditioning by transnational capital and debt, and internal crisis of legitimacy stemming from acute class disparities.*
@@ -103,9 +105,9 @@ updated: 2026-09-28
 > [!influence-path] 影响路径
 > - **理论路径** 推进了比较教育社会学对国家机器自主性与依附性边界的辩证认识，将[[Conditioned State Theory|受制国家理论]]确立为剖析第三世界教育不平等的重要典范。
 > - **政策批判路径** 揭穿了以[[World Bank|世界银行]]为代表的国际金融组织将教育新自由主义化、私有化（[[Endogenous and Exogenous Privatisation|内生与外生私有化]]）的霸权话语，揭示[[Financial-Intellectual Complex|金融-智识复合体]]的技术官僚议程。
-> - **区域研究路径** 深化了拉美批判教育学与成人扫盲运动对国家法团主义（[[State Corporatism]]）机制的警惕，促使研究者直面双轨教育不平等背后的结构性阶级压迫。
+> - **区域研究路径** 深化了拉美[[Critical Pedagogy|批判教育学]]与成人扫盲运动对[[State Corporatism|国家法团主义]]（[[State Corporatism]]）机制的警惕，促使研究者直面双轨教育不平等背后的结构性阶级压迫。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 系统阐明马克思主义国家理论、受制国家与新自由主义全球化对比较教育扩张研究的核心解释力。
 
 ---
@@ -125,11 +127,11 @@ updated: 2026-09-28
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Conditioned State Theory]] | 理论 | 与托雷斯共同拓展并系统阐述该理论对第三世界教育扩张与结构依附的解释机制。 |
+> | [[Conditioned State Theory]] | 理论 | 与[[Carlos Alberto Torres\|托雷斯]]共同拓展并系统阐述该理论对第三世界教育扩张与结构依附的解释机制。 |
 > | [[Compensatory Legitimation]] | 理论 | 剖析受制国家如何利用教育文凭供给向大众阶层实施合法化政治补偿。 |
-> | [[State Corporatism]] | 理论 | 分析拉美国家如何通过法团主义架构操控教师工会与民众联盟，稳定资本积累秩序。 |
+> | [[State Corporatism]] | 理论 | 分析拉美国家如何通过[[Neocorporatism\|法团主义]]架构操控教师工会与民众联盟，稳定资本积累秩序。 |
 > | [[World Society Theory]] | 理论 | 批判该理论忽视阶级权力对抗、帝国主义宰制与物质利益冲突的非历史普世主义偏见。 |
-> | [[Financial-Intellectual Complex]] | 概念 | 揭示世界银行等国际多边机构将贷款资本与意识形态话语紧密捆绑的智识垄断机制。 |
+> | [[Financial-Intellectual Complex]] | 概念 | 揭示[[World Bank\|世界银行]]等国际多边机构将贷款资本与意识形态话语紧密捆绑的智识垄断机制。 |
 > | [[Dual School System]] | 概念 | 刻画第三世界外围资本主义国家中精英高阶轨道与大众劣质公学并存的结构性区隔。 |
 > | [[World Bank]] | 机构事实 | 批判其作为新自由主义教育改革主要推手对发展中国家公共教育主权的侵害。 |
 > | [[Carlos Alberto Torres]] | 人物 | 长期学术合作搭档，共同发展拉美教育政治社会学与批判国家理论。 |

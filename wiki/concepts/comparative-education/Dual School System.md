@@ -32,14 +32,17 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Going Native]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Compensatory Legitimation]]"
   - "[[Cultural Capital]]"
   - "[[Policy Borrowing]]"
   - "[[School Choice]]"
+  - "[[Variable]]"
   - "[[General Education]]"
 related_theories:
-  - "[[Technological Trajectories]]"
   - "[[Conditioned State Theory]]"
+  - "[[Technological Trajectories]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -47,23 +50,24 @@ related_persons:
   - "[[Horace Mann]]"
   - "[[Robert Cowen]]"
   - "[[Andreas Kazamias]]"
+  - "[[Liliana Esther Olmos]]"
+  - "[[Carlos Alberto Torres]]"
   - "[[Johann Wilhelm Süvern]]"
   - "[[Calvin Stowe]]"
   - "[[Henry Barnard]]"
   - "[[Pierre Bourdieu]]"
   - "[[François Guizot]]"
-  - "[[Carlos Alberto Torres]]"
-  - "[[Liliana Esther Olmos]]"
 related_facts:
   - "[[Common School Movement]]"
   - "[[Guizot Law of 1833]]"
   - "[[1904 Educational System]]"
+  - "[[UNESCO]]"
   - "[[Prussian Draft Education Law of 1819]]"
   - "[[Report on the State of Public Instruction in Prussia]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
-  - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
+  - "[[Argument_Li_2012_Cambridge]]"
 confidence: high
 status: draft
 created: 2026-09-06
@@ -185,7 +189,7 @@ updated: 2026-09-28
 ### 命题三　外围受制国家的依附性资本积累催生了质量隔离与阶层固化的外围双轨教育体系
 
 > [!concept-lens] 依附性资本积累与外围双轨制
-> 揭示第三世界受制国家在跨国资本与本土寡头联盟支配下，如何形成公私分立、阶层隔离且资源极度失衡的双轨教育体系。
+> 揭示第三世界[[Conditioned State Theory|受制国家]]在跨国资本与本土寡头联盟支配下，如何形成公私分立、阶层隔离且资源极度失衡的双轨教育体系。
 
 > [!claim] [[Liliana Esther Olmos|Olmos, L. E.]] and [[Carlos Alberto Torres|Torres, C. A.]]
 > **外围资本主义国家的双轨教育分选与合法化补偿** 奥尔莫斯与托雷斯指出，在第三世界外围资本主义国家中，教育系统的扩张并非普惠性的民主化过程，而是演化出了结构性的双轨系统：富裕阶层与特权精英垄断优质私立教育与公立高等教育资源，而下层劳工与边缘群体则被限制在资源匮乏、质量低劣的初等与职业公立轨道中；国家通过非生产性的教育膨胀向大众提供边际文凭，行使[[Compensatory Legitimation|补偿性合法化]]职能，掩盖外围资本积累体制内在的依附性与分配危机。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 81–82)]]
@@ -212,7 +216,7 @@ updated: 2026-09-28
 > - **1830s–1860s — 跨大西洋抗衡与单轨公学模式崛起** 北美[[Horace Mann\|霍勒斯·曼]]、[[Calvin Stowe\|卡尔文·斯托]]与[[Henry Barnard\|亨利·巴纳德]]掀起[[Common School Movement\|公共学校运动]]，拒绝欧陆双轨分选架构，奠定了单轨制教育传统，形成世界近现代学制发展的两大基本路向。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 31–33)]]
 > - **19世纪末至20世纪初 — 东方借用与双轨制在亚洲移植** 清末 1904 年“[[1904 Educational System\|癸卯学制]]”与日本明治维新学制大量吸收德日双轨经验，设立实业初等与文理大学两歧系统，成为近代后发国家组织现代学校教育的早期蓝本。
 > - **1960s–1970s — 综合中学革命与法定双轨学的解体** 随着二战后教育民主化与阶层流动呼声高涨，英国（1965 年综合中学通告）、法国（1975 年阿比法案颁布“统一初中” *collège unique*）相继拆除了初中阶段的双轨隔离，法定双轨学制在西欧绝大多数国家宣告终结。
-> - **1960s–1990s — 外围受制国家依附性双轨体系的固化** 随着第三世界国家卷入依附性资本积累与债务危机，教育扩张呈现严重畸变：中等与高等教育在国家财政资助下超速扩张，而基础初等教育与成人扫盲长期滞后，形成了精英垄断优质公立高等与昂贵私立、劳工大众滞留劣质初等公立的外围典型双轨结构。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 81–82)]]
+> - **1960s–1990s — 外围[[Conditioned State Theory|受制国家]]依附性双轨体系的固化** 随着第三世界国家卷入依附性资本积累与债务危机，教育扩张呈现严重畸变：中等与高等教育在国家财政资助下超速扩张，而基础初等教育与成人扫盲长期滞后，形成了精英垄断优质公立高等与昂贵私立、劳工大众滞留劣质初等公立的外围典型双轨结构。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 81–82)]]
 > - **当代延伸 — 显性学制废除与隐性分流分轨延续** 法定双轨学制瓦解后，阶级分选机制由学校间的法理割裂转向现代综合中学内部的隐性分流（[[Tracking]]）以及基于家庭经济与[[Cultural Capital\|文化资本]]的[[School Choice\|择校]]（School Choice）博弈。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 98–99)]]
 
 ---
@@ -239,12 +243,12 @@ updated: 2026-09-28
 
 ## 实证数据
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]] | 拉丁美洲地区（1960–1970年统计） | 宏观统计趋势比较（联合国教科文组织数据） | 各教育阶段入学增长率与成人文盲率 | 中等教育增长 258.3%；高等教育增长 247.9%；初等教育增长 167.6%；成人文盲绝对规模维持恒定（无显著下降） | — | 说明外围资本主义受制国家教育扩张呈现倒金字塔式双轨分化：优先补偿性满足精英对高阶文凭需求，而基础识字与初等大众教育被相对剥夺 |
+> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]] | 拉丁美洲地区（1960–1970年统计） | 宏观统计趋势比较（[[UNESCO\|联合国教科文组织]]数据） | 各教育阶段入学增长率与成人文盲率 | 中等教育增长 258.3%；高等教育增长 247.9%；初等教育增长 167.6%；成人文盲绝对规模维持恒定（无显著下降） | — | 说明外围资本主义[[Conditioned State Theory\|受制国家]]教育扩张呈现倒金字塔式双轨分化：优先补偿性满足精英对高阶文凭需求，而基础识字与初等大众教育被相对剥夺 |
 
 ---
 
@@ -266,7 +270,7 @@ updated: 2026-09-28
 > | [[Victor Cousin]] | 人物 | 在 1831 年报告与法国中等教育改革中极力捍卫并设计四级阶级分选双轨学制。 |
 > | [[Horace Mann]] | 人物 | 严厉批判欧陆双轨制的阶级压迫本质，开创美国不分阶级的单轨公共学校体系。 |
 > | [[Calvin Stowe]] | 人物 | 将欧洲公学考察实绩[[Transfer Translation Transformation\|转译]]为美国各州建立世俗公学的武器，同时规避了欧陆双轨阶级区隔。 |
-> | [[Liliana Esther Olmos]] | 人物 | 与托雷斯共同剖析第三世界外围受制国家中的教育扩张畸变与外围双轨教育结构。 |
+> | [[Liliana Esther Olmos]] | 人物 | 与[[Carlos Alberto Torres\|托雷斯]]共同剖析第三世界外围受制国家中的教育扩张畸变与外围双轨教育结构。 |
 > | [[Carlos Alberto Torres]] | 人物 | 提出受制国家理论，深刻揭示资本主义外围国家的教育扩张、财政危机与双轨学校隔离。 |
 
 ---
@@ -276,4 +280,4 @@ updated: 2026-09-28
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 深度剖析 19 世纪法国[[Victor Cousin\|库森]]、[[François Guizot\|基佐]]基于普鲁士经验构建的阶级分选双轨学制，以及[[Horace Mann\|霍勒斯·曼]]在北美开创的单轨[[Common School Movement\|公学运动]]抗衡路径。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 探讨宏观双轨学制历史瓦解后，学校内部微观分轨（[[Tracking]]）如何继续与能力固定信念相互强化并制度化再生产学业不平等。
-> - [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]] — 揭示第三世界外围受制国家在依附性资本积累与政治合法化压力下，中高等精英教育超速膨胀与基础初等大众教育匮乏并存的“外围双轨教育”结构。\n
+> - [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]] — 揭示第三世界外围[[Conditioned State Theory|受制国家]]在依附性资本积累与政治合法化压力下，中高等精英教育超速膨胀与基础初等大众教育匮乏并存的“外围双轨教育”结构。\n

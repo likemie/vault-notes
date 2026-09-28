@@ -8,7 +8,7 @@ summary: "阿根廷裔批判教育社会学者，加州大学洛杉矶分校杰�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,27 +29,33 @@ related_concepts:
   - "[[Compensatory Legitimation]]"
   - "[[Financial-Intellectual Complex]]"
   - "[[Politicity of Education]]"
+  - "[[Value Neutrality]]"
+  - "[[Dual School System]]"
   - "[[Epistemology]]"
   - "[[Champ]]"
+  - "[[Official Knowledge]]"
 related_theories:
   - "[[Conditioned State Theory]]"
   - "[[State Corporatism]]"
   - "[[Critical Theory]]"
+  - "[[World Society Theory]]"
+  - "[[World-Systems Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Participatory Action Research]]"
 related_persons:
   - "[[Paulo Freire]]"
   - "[[Liliana Esther Olmos]]"
-  - "[[Christopher Martin]]"
-related_arguments:
-  - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 related_facts:
   - "[[World Bank]]"
+related_arguments:
+  - "[[Argument_Olmos_Torres_2009_StateTheories]]"
+confidence: high
 status: draft
 created: 2026-07-19
 updated: 2026-09-28
 ---
+
 # Carlos Alberto Torres
 
 ---
@@ -59,42 +65,88 @@ updated: 2026-09-28
 > [!person-profile] 人物档案
 > - **身份位置** 阿根廷裔[[Critical Pedagogy|批判教育学]]与教育政治社会学者，加州大学洛杉矶分校（UCLA）杰出教授，[[Paulo Freire|弗莱雷]]研究所（Paulo Freire Institute）创始主任。
 > - **核心角色** 将[[Paulo Freire|弗莱雷]]的批判教育学传统、新马克思主义国家理论与政治经济学深度整合，为比较教育学奠定拉美外围国家视角的宏观政治社会学[[Analytic Framework|分析框架]]。
-> - **代表贡献** 提出[[Participatory Action Research|参与式行动研究]]（PAR）五项原则（1992）；系统阐发外围国家的[[Conditioned State Theory|受制国家理论]]；揭示拉美[[State Corporatism|国家法团主义]]下的教育[[Compensatory Legitimation|补偿性合法化]]机制；批判新自由主义全球化与[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]。
+> - **代表贡献** 提出[[Participatory Action Research|参与式行动研究]]（PAR）五项原则（1992）；系统阐发外围国家的[[Conditioned State Theory|受制国家理论]]；揭示拉美[[State Corporatism|国家法团主义]]下的教育[[Compensatory Legitimation|补偿性合法化]]机制；批判新自由主义全球化与[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的话语垄断。
 
-> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论国家理论与教育政策
-> 界定教育的“真实”问题以及最适宜的解决方案，在很大程度上取决于支撑、证成并指引教育诊断与方案提议的国家理论。然而，正如[[Christopher Martin|马丁]]·卡诺伊（Martin Carnoy）所指出的，大多数教育问题分析都暗含着一种国家理论，但在教育研究与实践中，这种理论的根本前提却极少被识别或阐明。对我们自身的理论假定保持自我审思，是开展扎实学术研究的前提条件。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 73)]]
+> [!citation-card]- 奥尔莫斯与托雷斯论国家理论与教育政策诊断
+> 界定教育的“真实”问题以及最适宜的解决方案，在很大程度上取决于支撑、证成并指引教育诊断与方案提议的国家理论。然而，正如马丁·卡诺伊（Martin Carnoy, 1992）所指出的，大多数教育问题分析都暗含着一种国家理论，但在教育研究与实践中，这种理论的根本前提却极少被识别或阐明。对我们自身的理论假定保持自我审思，是开展扎实学术研究的前提条件。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 73)]]
 >
 > *Defining the "real" problems of education and the most appropriate solutions depends greatly on the theories of the state that underpin, justify, and guide the educational diagnosis and proponed solutions. There is, however, a permanent challenge here. As Martin Carnoy (1992) has argued, most analyses of educational problems have implicit in them a theory of the state but seldom are the fundamentals of that theory recognized or spelled out in educational research and practice.*
 
 ---
 
-## 条目关联
+## 生平与职涯
 
-> [!entry-map] 关键学术贡献
->
-> | 条目 | 类型 | 贡献 |
-> |:-----|:-----|:-----|
-> | [[Conditioned State Theory]] | 理论 | 提出外围受制国家受制于世界体系边缘从属地位与本土阶级结构，导致公共教育扩张深陷合法化矛盾 |
-> | [[State Corporatism]] | 理论 | 阐明拉美后革命威权政体如何通过垄断性工会与庇护网络将教育体制纳入国家霸权运作 |
-> | [[Compensatory Legitimation]] | 概念 | 揭示国家在面临积累危机时利用成人教育与入学机会扩张作为缓和社会矛盾的代偿性治理工具 |
-> | [[Politicity of Education]] | 概念 | 继承并深化[[Paulo Freire\|弗莱雷]]思想，论证教育政策在[[Epistemology\|认识论]]、分析与伦理维度天然内嵌于权力博弈与争鸣[[Champ\|场域]] |
-> | [[Participatory Action Research]] | 方法 | 提出 PAR 五项原则（1992）：明确的社会政治意图、大众参与、知识作为社会转型动因、批判认识论基础与意识提升 |
+> [!timeline] 生平与职涯
+> - **1950** 出生于阿根廷布宜诺斯艾利斯，早年求学于阿根廷与墨西哥拉丁美洲社会科学院（FLACSO），受[[Paulo Freire|弗莱雷]]与拉美依附学派思想熏陶。
+> - **1980s** 赴加拿大斯坦福大学与多伦多大学进修并获得教育社会学博士学位；长期在拉美开展成人教育政策、识字运动与工会政治实证考察。
+> - **1990s** 任职于加州大学洛杉矶分校教育研究生院，1993 年创立 UCLA 保罗·弗莱雷研究所并出任创始主任；系统提出参与式行动研究的五项批判原则（1992）。
+> - **2000s–2010s** 晋升 UCLA 杰出教育学教授，历任世界比较教育学会联合会（WCCES）主席（2013–2016）与联合国教科文组织全球公民教育教席；与[[Liliana Esther Olmos|奥尔莫斯]]合著多篇关于受制国家与全球化教育政治经济学的奠基性文献。
+
+---
+
+## 主要著作与思想发展
+
+> [!work-line] 主要著作
+> - **1990 — *The Politics of Nonformal Education in Latin America*** 系统剖析拉美非正规教育中法团主义国家的权力控制逻辑与底层民众阶层的抵抗空间。
+> - **1992 — *Participatory Action Research and Popular Education in Latin America*** 明确确立参与式行动研究（[[Participatory Action Research|PAR]]）的五大认识论与实践原则。
+> - **1998 — *Education, Power, and Personal Biography: Dialogues with Critical Educators*** 与迈克尔·阿普尔（Michael Apple）等学者对话，深化批判教育学对国家权力与意识形态再生产的解构。
+> - **2009 — *Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches*** （与 [[Liliana Esther Olmos|奥尔莫斯]]合著，收录于《比较教育学国际手册》）系统构建国家理论与教育扩张的宏观政治经济学框架，确立[[Conditioned State Theory|受制国家理论]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 73–86)]]
+> - **2011 — *In the Shadow of Neoliberalism: Thirty Years of Educational Reform in North America*** （与 [[Liliana Esther Olmos|奥尔莫斯]]等合编）深度剖析新自由主义对北美及拉美公共教育公平与民主公民身份的系统性侵蚀。
 
 ---
 
 ## 核心思想
 
 > [!claim] 教育政策与改革根植于隐含的国家理论与资本积累矛盾
-> Torres 强调教育绝非技术中立的技能分配系统，而是国家履行资本积累与社会合法化双重功能的核心争鸣[[Champ|场域]]。在拉美等外围资本主义国家，依附性的国家机器（[[Conditioned State Theory|受制国家]]）受制于跨国资本与本土统治集团结成的“支配同盟”，公共教育系统呈现出精英与底层割裂的双轨形态；[[State Corporatism|国家法团主义]]则通过成人扫盲与边际机会扩张推行[[Compensatory Legitimation|补偿性合法化]]以维系政权霸权。全球化背景下新自由主义结构调整迫使公共教育退缩、推行使用者付费与私有化，实质上是以市场逻辑剥夺大众公民身份的阶级策略。
+> 托雷斯强调教育绝非技术中立的技能分配系统，而是国家履行资本积累与社会合法化双重功能的核心争鸣[[Champ|场域]]。在拉美等外围资本主义国家，依附性的国家机器（[[Conditioned State Theory|受制国家]]）受制于跨国垄断资本与本土统治集团结成的“支配同盟”，公共教育系统呈现出精英与底层割裂的双轨形态；[[State Corporatism|国家法团主义]]则通过成人扫盲与边际机会扩张推行[[Compensatory Legitimation|补偿性合法化]]以维系政权统治。全球化背景下新自由主义结构调整迫使公共教育退缩、推行使用者付费与私有化，实质上是以市场逻辑剥夺大众公民身份的阶级策略。
 
-> [!claim] [[Participatory Action Research|参与式行动研究]]必须植根于明确的社会政治意图
-> Torres 的五项原则构成了 PAR 的拉美批判框架：PAR 必须以明确的社会和政治意图开始，与受支配和贫困的阶级和群体相呼应；研究过程必须涉及大众参与，具有社会基础；知识被视为社会整体转型的动因，由此构成对将知识与实践分离的观点的有力批判；其[[Epistemology|认识论]]基础植根于[[Critical Theory|批判理论]]及其对主客体关系的批判；最终目标是提升个体、群体和国家的意识。
+> [!claim] 参与式行动研究必须植根于明确的社会政治意图
+> 托雷斯的五项原则构成了 PAR 的拉美批判框架：PAR 必须以明确的社会和政治意图开始，与受支配和贫困的阶级和群体相呼应；研究过程必须涉及大众参与，具有社会基础；知识被视为社会整体转型的动因，由此构成对将知识与实践分离的观点的有力批判；其[[Epistemology|认识论]]基础植根于[[Critical Theory|批判理论]]及其对主客体关系的批判；最终目标是提升个体、群体和国家的意识。
+
+> [!citation-card] 教育固有的政治性与反技术中立神话
+> 尽管倡导技术官僚或技术主义取向的教育研究与政策制定者坚信教育可以脱离政治，但教育既非政治中立，亦非技术客观。正如保罗·弗莱雷在其著作中所一贯主张的那样，教育具有固有的政治性，这种政治性具有认识论、分析与伦理层面的深远意涵。这种政治性首先关乎教育与权力之间明晰而微妙的纽带；同时，它也关乎国家与公共教育作为争鸣场域的政治本质。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 77–78)]]
+>
+> *Despite what those advocating "technocratic" or "technicist" views of educational research, curriculum, and educational policy would like to believe education is neither politically neutral nor technically "objective." As Paulo Freire has consistently claimed in his work, there is an inherent "politicity" of education that has epistemological, analytical, and ethical implications.*
+
+---
+
+## 影响路径
+
+> [!influence-path] 影响路径
+> - **理论路径** 融合法兰克福学派批判理论、葛兰西文化霸权学说与拉美依附论，构建起剖析发展中国家教育政策与扩张困境的“受制国家”宏观政治社会学分析框架。
+> - **方法路径** 规范并推广参与式行动研究（PAR）的政治导向与民众赋权原则，打破了将研究对象视作被动被测者的实证主义主客二分传统。
+> - **政策批判路径** 深刻解构以[[World Bank|世界银行]]为代表的国际金融组织所推行的新自由主义教育私有化话语，揭示[[Financial-Intellectual Complex|金融-智识复合体]]的技术官僚议程。
+> - **学术建制与跨国传播** 依托 UCLA 弗莱雷研究所与世界比较教育学会联合会（WCCES），搭建全球批判教育学与民众教育学术网络，推动全球公民教育理念落地。
+
+> [!evidence-grid-a]- 相关研究索引
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 系统阐明马克思主义国家理论、受制国家与新自由主义全球化对比较教育扩张研究的核心解释力。
 
 ---
 
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **思想渊源** [[Paulo Freire]] — 弗莱雷的[[Critical Pedagogy|批判教育学]]和意识化概念是其学术生涯的思想基座
-> - **学术合作** [[Liliana Esther Olmos]]、Martin Carnoy、Adriana Puiggrós、Robert Arnove — 共同推进比较教育政治经济学与国家理论
-> - **学术机构** 弗莱雷研究所（Paulo Freire Institute, UCLA） — 创始主任，推动全球批判教育学与民众教育实践研究
+> - **思想渊源** [[Paulo Freire]] — 弗莱雷的[[Critical Pedagogy|批判教育学]]、意识化与对话实践是其学术生涯的思想基座。
+> - **学术合作** [[Liliana Esther Olmos]]、Martin Carnoy、Adriana Puiggrós、Robert Arnove — 共同推进比较教育政治经济学与批判国家理论研究。
+> - **学术机构** 弗莱雷研究所（Paulo Freire Institute, UCLA） — 创始主任，推动全球批判教育学与民众教育实践研究。
+> - **国际组织** 世界比较教育学会联合会（WCCES）、联合国教科文组织（UNESCO）全球公民教育教席。
+
+---
+
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Conditioned State Theory]] | 理论 | 提出外围受制国家受制于世界体系边缘从属地位与本土阶级结构，导致公共教育扩张深陷合法化矛盾。 |
+> | [[State Corporatism]] | 理论 | 阐明拉美后革命威权政体如何通过垄断性工会与庇护网络将教育体制纳入国家霸权运作。 |
+> | [[Compensatory Legitimation]] | 理论 | 揭示国家在面临积累危机时利用成人教育与入学机会扩张作为缓和社会矛盾的代偿性治理工具。 |
+> | [[Politicity of Education]] | 概念 | 继承并深化[[Paulo Freire\|弗莱雷]]思想，论证教育政策在[[Epistemology\|认识论]]、分析与伦理维度天然内嵌于权力博弈与争鸣[[Champ\|场域]]。 |
+> | [[Value Neutrality]] | 概念 | 坚决否定教育政策与学术研究的技术中立神话，揭示去政治化修辞对阶级支配的合谋。 |
+> | [[Dual School System]] | 概念 | 刻画外围受制国家中精英垄断优质高阶教育与大众滞留劣质初等公立的双轨教育结构。 |
+> | [[Financial-Intellectual Complex]] | 概念 | 批判国际金融组织将资本借贷与意识形态研究议程捆绑的技术官僚垄断。 |
+> | [[Participatory Action Research]] | 方法 | 提出 PAR 五项原则（1992）：明确的社会政治意图、大众参与、知识作为社会转型动因、批判认识论基础与意识提升。 |
+> | [[World Bank]] | 机构事实 | 批判其作为新自由主义结构调整推手对第三世界公共教育福利属性的剥夺。 |
+> | [[Liliana Esther Olmos]] | 人物 | 长期学术合作者，共同发展宏观国家理论与比较教育扩张分析框架。 |
+> | [[Paulo Freire]] | 人物 | 精神导师与思想源流，指引其批判教育学与拉美民众教育学术探索。 |
