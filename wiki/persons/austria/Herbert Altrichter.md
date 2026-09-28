@@ -8,7 +8,7 @@ summary: "奥地利教育学家、林茨大学荣休讲席教授，德语区教�
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[School Autonomy]]"
   - "[[School Inspection]]"
+  - "[[Import Substitution Industrialisation]]"
   - "[[Reflexivity]]"
   - "[[Output-Oriented Governance]]"
   - "[[Dialogue in Education]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-28
 ---
 
 # Herbert Altrichter
@@ -80,7 +81,7 @@ updated: 2026-09-18
 > - **1994–2022** 担任奥地利林茨大学（JKU Linz）教育学与教育心理学正教授（Ordinarius）、教育学系主任兼学校与教育研究所所长。
 > - **2000 年代初** 创办奥地利教育研究与发展学会（ÖFEB）并担任主席，深度参与德奥应对 [[PISA]] 冲击的国家教育标准与督导制度设计。
 > - **2011** 联合创办斯普林格旗下德文核心学术期刊《教育研究杂志》（*Zeitschrift für Bildungsforschung*, ZfB）并长期出任创刊主编。
-> - **2012–2016** 深度主持欧盟跨国合作项目“[[School Inspection\|学校督导]]对教与学的影响”（ISI-TL），主编出版《学校系统新治理手册》（Springer VS）。
+> - **2012–2016** 深度主持欧盟跨国合作项目“[[School Inspection\|学校督导]]对教与学的影响”（[[Import Substitution Industrialisation|ISI]]-TL），主编出版《学校系统新治理手册》（Springer VS）。
 > - **2022** 自林茨大学荣休，继续活跃于欧洲教育治理与教师教育咨询领域。
 
 ---

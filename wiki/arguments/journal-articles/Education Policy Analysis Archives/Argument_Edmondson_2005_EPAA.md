@@ -58,6 +58,7 @@ related_facts:
   - "[[National Research Council]]"
   - "[[National Institute of Child Health and Human Development]]"
   - "[[Open Court Reading]]"
+  - "[[Business Roundtable]]"
   - "[[National Reading Panel]]"
 related_arguments: []
 sources:
@@ -72,7 +73,7 @@ title: "Argument_Edmondson_2005_EPAA"
 argument_key: "Argument_Edmondson_2005_EPAA"
 argument_display_title: "Policymaking in education: Understanding influences on the Reading Excellence Act"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -254,7 +255,7 @@ issuing_organization: ""
 > ```
 
 > [!critique] 学界对次政府利益输送与政商同盟的公开质询（Strauss, 2001; Metcalf, 2002）
-> - **政企结盟与学术争鸣受抑** 语言学家兼神经学家史蒂文·施特劳斯（Steven Strauss, 2001）在《教育研究者》（Educational Researcher）发表公开信，尖锐质问联邦科研机构与企业圆桌会议（Business Roundtable）的深度结盟是否真正欢迎学术争鸣，其确立的政策规范最终究竟是在服务儿童，还是在服务商业出版商的利润。（p. 9）
+> - **政企结盟与学术争鸣受抑** 语言学家兼神经学家史蒂文·施特劳斯（Steven Strauss, 2001）在《教育研究者》（Educational Researcher）发表公开信，尖锐质问联邦科研机构与企业圆桌会议（[[Business Roundtable]]）的深度结盟是否真正欢迎学术争鸣，其确立的政策规范最终究竟是在服务儿童，还是在服务商业出版商的利润。（p. 9）
 > - **幕僚身份重叠与商业寻租** 调查揭示众议院委员会多数党资深幕僚罗伯特·斯威特（Robert Sweet）同时是全美阅读权利基金会的创始人，而该基金会与推广拼读教材的出版巨头存在千丝万缕的利益往来（Metcalf, 2002），暴露出次政府铁三角高度封闭的政商寻租闭环。
 
 #### 2. 官方挑选的专家委员会以科学共识为名，排除了多元学术传统与批判视角

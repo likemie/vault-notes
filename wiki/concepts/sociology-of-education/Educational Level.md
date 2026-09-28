@@ -10,7 +10,7 @@ aliases:
 summary: "衡量个体或群体接受正规学校教育的时长与最高学历层级的社会学与人口学范畴。在微观层面是认知成熟与认识论信念演化的解释变量，在宏观政治经济学层面是国家财政分配、阶级再生产与双轨分流的制度化阶梯"
 type: concept
 domain: "sociology-of-education"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Document]]"
   - "[[Compensatory Legitimation]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Credential Inflation]]"
   - "[[Heterogeneity]]"
@@ -142,7 +143,7 @@ updated: 2026-09-28
 > 剖析国际金融机构推行的新自由主义改革如何通过学费政策截断底层群体向上攀升受教育阶梯的通道。
 
 > [!claim] [[Stephen Ball|Ball, S.]] J. / [[Carlos Alberto Torres|Torres, C. A.]]
-> **高阶受教育水平的市场化阶级壁垒** 在[[World Bank|世界银行]]结构调整处方下，公立大学与学术高中被强制推行“使用者自费”与私有化改革；这一阶级策略将中高受教育水平重新定义为由家庭财力购买的私人投资品，使底层贫困子弟因无力支付高昂学杂费而被迫滞留于低阶教育水平，彻底固化了代际阶级藩篱。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 83–85)]]
+> **高阶受教育水平的市场化阶级壁垒** 在[[World Bank|世界银行]][[Structural Adjustment Programs|结构调整]]处方下，公立大学与学术高中被强制推行“使用者自费”与私有化改革；这一阶级策略将中高受教育水平重新定义为由家庭财力购买的私人投资品，使底层贫困子弟因无力支付高昂学杂费而被迫滞留于低阶教育水平，彻底固化了代际阶级藩篱。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 83–85)]]
 
 ---
 
@@ -206,7 +207,7 @@ updated: 2026-09-28
 > | [[Compensatory Legitimation]] | 理论 | 解释[[Conditioned State Theory\|受限国家]]为何在基础初等水平欠债的情况下过度扩张中高等受教育层级以安抚精英。 |
 > | [[Conditioned State Theory]] | 理论 | 阐释外围依附性国家机器在受教育层级资源分配上的阶级妥协与结构扭曲。 |
 > | [[UNESCO]] | 机构事实 | 1974 年宏观统计报告为揭示全球南方教育层级倒金字塔式扩张提供了权威数据基准。 |
-> | [[World Bank]] | 机构事实 | 在结构调整方案中要求发展中国家高阶教育层级推行使用者自费与私有化改革。 |
+> | [[World Bank]] | 机构事实 | 在[[Structural Adjustment Programs\|结构调整方案]]中要求发展中国家高阶教育层级推行使用者自费与私有化改革。 |
 > | [[Carlos Alberto Torres]] | 人物 | 深刻剖析拉美教育层级扩张的政治经济学动因与阶级合法化功能。 |
 > | [[Liliana Esther Olmos]] | 人物 | 与托雷斯合作系统论证受限国家各教育层级扩张与新自由主义重构的互动逻辑。 |
 

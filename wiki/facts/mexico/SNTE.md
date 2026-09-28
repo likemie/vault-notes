@@ -25,20 +25,20 @@ tags:
   - corporatism
   - region/mexico
 related_concepts:
+  - "[[Normal School]]"
+  - "[[Performance Pay]]"
   - "[[Compensatory Legitimation]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Popular Education]]"
 related_theories:
   - "[[State Corporatism]]"
   - "[[Neocorporatism]]"
-  - "[[Conditioned State Theory]]"
-related_methods:
-  - "[[Case Study]]"
+  - "[[Hegemony]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Carlos Alberto Torres]]"
-  - "[[Liliana Esther Olmos]]"
 related_facts:
+  - "[[World Bank]]"
   - "[[INEA]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
@@ -55,11 +55,11 @@ updated: 2026-09-28
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 墨西哥全国教育工作者工会（Sindicato Nacional de Trabajadores de la Educación, SNTE）是拉丁美洲及美洲大陆会员规模最大（逾百万成员）的行业工会组织，在墨西哥现代政治中长期充当国家法团主义（State Corporatism）制度架构的基石之一与官僚恩庇的核心中介。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
+> 墨西哥全国教育工作者工会（Sindicato Nacional de Trabajadores de la Educación, SNTE）是拉丁美洲及美洲大陆会员规模最大（逾百万成员）的行业工会组织，在墨西哥现代政治中长期充当[[State Corporatism|国家法团主义]]（State [[Neocorporatism|Corporatism]]）制度架构的基石之一与官僚恩庇的核心中介。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 成立于 1943 年；由墨西哥总统曼努埃尔·阿维拉·卡马乔（Manuel Ávila Camacho）政府主导统一全国分裂的教师组织，旨在建立国家全面统合的单一体官方工会。
-> - **总部地点 / 业务辐射** 总部位于墨西哥城；分支机构覆盖全国 31 个州及联邦区所有公立初等、中等及师范学校。
+> - **总部地点 / 业务辐射** 总部位于墨西哥城；分支机构覆盖全国 31 个州及联邦区所有公立初等、中等及[[Normal School|师范学校]]。
 > - **法人属性与经费基础** 官方承认的垄断性代表工会；拥有通过国家教育部直接扣缴全体公立在编教师会费的特权，并掌控巨额养老金、住房与福利基金。
 > - **核心宗旨与法定职责** 法律赋予其代表全体墨西哥公立教育工作者与联邦及各州政府进行劳资协议集体谈判的唯一排他性权力，实质上承担着调控教师劳动力与维护国家政治稳定的双重职能。
 
@@ -70,7 +70,7 @@ updated: 2026-09-28
 > [!dev-timeline] 组织发展历程
 > - **1943–1970 年代 — 法团统合与政党绑定** 确立为革命制度党（PRI）的劳工法团部门支柱；工会领导层直接参与国民议会席位分配与教育部官员任命，形成高度官僚化的“领袖世袭制”（caciquismo）。
 > - **1979–1989 年代 — 异议反抗与新霸权确立** 南部贫困州基层激进教师发起“全国教育工作者协调委员会”（CNTE）抗议运动；1989 年总统萨利纳斯罢黜原工会头目，扶植埃尔巴·埃丝特·戈尔迪略（Elba Esther Gordillo）掌权，工会转型为更具技术威权特征的跨党派政治掮客。
-> - **1990 年代至今 — 新自由主义妥协与结构挑战** 深度参与 1992 年教育现代化与分权化改革协议；在世界银行与国家推行教师考评及绩效工资时，工会既充当平息教师大罢工的减震器，又利用其强大的选票动员能力捍卫工会既得编制与经济特权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
+> - **1990 年代至今 — 新自由主义妥协与结构挑战** 深度参与 1992 年教育现代化与分权化改革协议；在[[World Bank|世界银行]]与国家推行教师考评及[[Performance Pay|绩效工资]]时，工会既充当平息教师大罢工的减震器，又利用其强大的选票动员能力捍卫工会既得编制与经济特权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 
 ---
 
@@ -89,10 +89,10 @@ updated: 2026-09-28
 
 ## 在比较教育研究中的学术意义
 
-> [!citation-card] 托雷斯论 SNTE 在墨西哥国家法团主义与教育政策形成中的核心角色
-> 在墨西哥等实行国家法团主义体制的国家，公立教育对于后革命政权的合法性建构以及维护国家统识起到了决定性作用。国家通过立法确立全国教育工作者工会（SNTE）对全体教师的垄断性代表权，将工会制度深度整合为政党恩庇的输送管道；这种法团主义结构深刻决定了教育政策的组织、实施与评估路径。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
+> [!citation-card] [[Carlos Alberto Torres|托雷斯]]论 SNTE 在墨西哥[[State Corporatism|国家法团主义]]与教育政策形成中的核心角色
+> 在墨西哥等实行国家[[Neocorporatism|法团主义]]体制的国家，公立教育对于后革命政权的合法性建构以及维护国家统识起到了决定性作用。国家通过立法确立全国教育工作者工会（SNTE）对全体教师的垄断性代表权，将工会制度深度整合为政党恩庇的输送管道；这种法团主义结构深刻决定了教育政策的组织、实施与评估路径。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 >
-> *Drawing from the tradition of political corporatism, the notion of state corporatism from the political sociology of education has been employed to study the peculiar characteristics of political regimes in the region, in particular educational policy formation in Mexico... Education has played a fundamental role in the legitimation of the postrevolutionary state, and has contributed to state hegemony in Mexico.*
+> *Drawing from the tradition of political corporatism, the notion of state corporatism from the political sociology of education has been employed to study the peculiar characteristics of political regimes in the region, in particular educational policy formation in Mexico... Education has played a fundamental role in the legitimation of the postrevolutionary state, and has contributed to state [[Hegemony]] in Mexico.*
 
 ---
 
@@ -104,7 +104,7 @@ updated: 2026-09-28
 > > 争论聚焦于 SNTE 的制度性质。
 > >
 > > - **官方与工会建制派** 坚称其保障了拉美最庞大教师队伍的最低工资与就业安全，抵御了激进私有化浪潮。
-> > - **批判学者与独立教师运动（CNTE / Torres, 1991）** 尖锐揭露 SNTE 丧失了工会的自治品格，沦为压制基层民众教育与反思批判的法团主义镇压杠杆。
+> > - **批判学者与独立教师运动（CNTE / Torres, 1991）** 尖锐揭露 SNTE 丧失了工会的自治品格，沦为压制基层[[Popular Education|民众教育]]与反思批判的[[Neocorporatism|法团主义]]镇压杠杆。
 
 ---
 
@@ -114,6 +114,6 @@ updated: 2026-09-28
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[State Corporatism]] | 理论 | 作为国家法团主义控制公共劳动力与维系政治霸权的最经典经验案例。 |
+> | [[State Corporatism]] | 理论 | 作为国家[[Neocorporatism\|法团主义]]控制公共劳动力与维系政治霸权的最经典经验案例。 |
 > | [[Compensatory Legitimation]] | 概念 | 揭示国家如何通过工会恩庇网络发放边际利益以换取政治顺从。 |
 > | [[INEA]] | 事实 | 协同国家成人教育学会参与扫盲与扫盲教师调配动员。 |

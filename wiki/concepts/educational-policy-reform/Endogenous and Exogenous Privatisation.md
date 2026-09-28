@@ -9,10 +9,10 @@ aliases:
 summary: "由斯蒂芬·鲍尔（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell）系统区分的两种教育私有化形态。内生私有化指将私营部门的市场逻辑、绩效评估与新公共管理引入公立教育体系内部；外生私有化指通过特许学校、合同外包与公私伙伴关系将公共教育供给转移至私营部门。鲍尔与托雷斯等学者进一步将其定性为新自由主义国家重构教育权力的阶级策略。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/educational-policy
   - privatisation
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Paradigm]]"
   - "[[International Education]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Variable]]"
   - "[[Policy Network]]"
   - "[[Network Governance]]"
@@ -177,7 +178,7 @@ updated: 2026-09-28
 > [!dev-timeline] 概念演变
 > - **1993 — 市场化作为阶级策略确立** [[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）发表《教育市场、选择与社会阶级》，深刻揭露教育准市场化是国家主导的阶级再生产策略。
 > - **2008 — 内生与外生私有化[[Paradigm|范式]]提出** 鲍尔与尤德尔（Ball & Youdell）在为[[International Education|国际教育]]组织（[[Education International]]）撰写的全球报告中，首次系统界定公立教育内部运作企业化（内生）与外部服务私营化（外生）的双轨模型。
-> - **2009 — 发展中国家结构调整视阈拓展** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]（Olmos & Torres）将私有化论题延伸至[[Conditioned State Theory|受限国家]]的结构调整方案中，揭示[[World Bank|世界银行]]与国际货币基金组织如何以紧缩贷款迫使拉美国家推行使用者自费与教育分权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
+> - **2009 — 发展中国家[[Structural Adjustment Programs|结构调整]]视阈拓展** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]（Olmos & Torres）将私有化论题延伸至[[Conditioned State Theory|受限国家]]的结构调整方案中，揭示[[World Bank|世界银行]]与国际货币基金组织如何以紧缩贷款迫使拉美国家推行使用者自费与教育分权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 > - **2016 — 精英网络与政策暗箱化实证深化** 奥尼尔等人（O'Neill et al.）以新西兰基础教育为样本，记录了私有化从单纯合同外包走向跨国精英网络幕后操纵政策议程的演进轨迹。
 > - **2022 — [[Internationalization of Higher Education|高等教育国际化]]因果链整合** 里兹维（Rizvi）将该理论框架运用于全球高教流动分析，揭示国际教育贸易如何将大学固化在内生私有化的循环逻辑中。
 
@@ -210,7 +211,7 @@ updated: 2026-09-28
 > |---|---|---|---|---|---|---|
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, p. 8)]] | 新西兰基础教育系统，2008–2016 年政策演化期 | 政策文本与政商网络[[Cohort Study\|追踪研究]] | 典型外生私有化与公私伙伴项目覆盖范围 | 记录 9 项重大私有化实例（含特许学校、[[Public-Private Partnership in Research\|PPP]] 学校基础设施合同、[[Assessment Tools for Teaching and Learning\|asTTle]] 评价商业化及 PLD 认证外包） | — | 实证展示外生私有化如何从周边非核心服务迅速渗透至核心课程评估与校舍产权 |
 > | [[Argument_Rizvi_2022_Springer\|Rizvi (2022, p. 97)]] | 澳大利亚高等教育系统，1990–2020 年代国际化扩张期 | 宏观政治经济案例分析 | 国际留学生学费收入占大学整体运营预算比重 | 国际学生学费收入跃升为诸多顶尖公立大学的最大单项收入来源，替代经常性公共财政拨款 | — | 解释外部生源市场依赖如何直接倒逼内部行政架构全面转向[[New Public Management\|新公共管理]]企业化运营 |
-> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, pp. 83–84)]] | 拉丁美洲发展中国家，1980–2000 年代新自由主义结构调整期 | 区域宏观历史政策分析 | 公共教育预算缩减与使用者自费（User Fees）推广程度 | 普遍推行教育服务成本向家庭转嫁的使用者收费政策，大幅核减公立学校经常性投资并推行行政分权 | — | 证明外围国家在新自由主义[[Disciplina and Doctrina\|规训]]下将教育私有化作为转嫁国家合法性危机与财政债务的核心手段 |
+> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, pp. 83–84)]] | 拉丁美洲发展中国家，1980–2000 年代新自由主义[[Structural Adjustment Programs\|结构调整]]期 | 区域宏观历史政策分析 | 公共教育预算缩减与使用者自费（User Fees）推广程度 | 普遍推行教育服务成本向家庭转嫁的使用者收费政策，大幅核减公立学校经常性投资并推行行政分权 | — | 证明外围国家在新自由主义[[Disciplina and Doctrina\|规训]]下将教育私有化作为转嫁国家合法性危机与财政债务的核心手段 |
 
 ---
 
@@ -228,7 +229,7 @@ updated: 2026-09-28
 > | [[Stephen Ball]] | 人物 | 奠基者，与尤德尔共同提出内外生私有化[[Analytic Framework\|分析框架]]，并确立“市场化作为阶级策略”的经典论断。 |
 > | [[Carlos Alberto Torres]] | 人物 | [[Critical Pedagogy\|批判教育学]]者，将私有化置于受限国家依附性与公共教育双轨分化的宏观政治经济学框架中考察。 |
 > | [[Liliana Esther Olmos]] | 人物 | 与托雷斯合作剖析新自由主义紧缩政策下使用者自费与教育私有化对外围国家的阶级撕裂。 |
-> | [[World Bank]] | 机构事实 | 新自由主义教育私有化与分权化改革的跨国主要推手，以结构调整贷款强制推行使用者付费。 |
+> | [[World Bank]] | 机构事实 | 新自由主义教育私有化与分权化改革的跨国主要推手，以[[Structural Adjustment Programs\|结构调整]]贷款强制推行使用者付费。 |
 
 ---
 
@@ -237,4 +238,4 @@ updated: 2026-09-28
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 细致解剖新西兰公立教育体系在内生与外生双轨私有化下的演化历程与非正式精英[[Network Governance|网络治理]]。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 揭示[[Internationalization of Higher Education|高等教育国际化]]与国际留学生学费市场如何驱动公立大学不可逆的永久性内生私有化。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 将教育私有化定性为新自由主义国家的阶级策略，揭示其在拉美[[Conditioned State Theory|受限国家]]伴随结构调整而推进的成本转嫁机制。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 将教育私有化定性为新自由主义国家的阶级策略，揭示其在拉美[[Conditioned State Theory|受限国家]]伴随[[Structural Adjustment Programs|结构调整]]而推进的成本转嫁机制。

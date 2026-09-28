@@ -8,10 +8,10 @@ summary: "阿根廷裔批判教育社会学者，加州大学洛杉矶分校杰�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 28
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 34
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1950"
 died: ""
 lifespan: "1950–至今"
@@ -33,6 +33,8 @@ related_concepts:
   - "[[Popular Education]]"
   - "[[Epistemology]]"
   - "[[Champ]]"
+  - "[[Pact of Domination]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Politicity of Education]]"
   - "[[Positivism]]"
   - "[[Endogenous and Exogenous Privatisation]]"
@@ -53,6 +55,10 @@ related_methods:
 related_persons:
   - "[[Paulo Freire]]"
   - "[[Liliana Esther Olmos]]"
+  - "[[Martin Carnoy]]"
+  - "[[Michael W. Apple]]"
+  - "[[Adriana Puiggrós]]"
+  - "[[Robert Arnove]]"
 related_facts:
   - "[[World Bank]]"
   - "[[UNESCO]]"
@@ -76,7 +82,7 @@ updated: 2026-09-28
 > - **代表贡献** 提出[[Participatory Action Research|参与式行动研究]]（PAR）五项原则（1992）；系统阐发外围国家的[[Conditioned State Theory|受限国家理论]]；揭示拉美[[State Corporatism|国家法团主义]]下的教育[[Compensatory Legitimation|补偿性合法化]]机制；批判新自由主义全球化与[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的话语垄断。
 
 > [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论国家理论与教育政策诊断
-> 界定教育的“真实”问题以及最适宜的解决方案，在很大程度上取决于支撑、证成并指引教育诊断与方案提议的国家理论。然而，正如马丁·卡诺伊（Martin Carnoy, 1992）所指出的，大多数教育问题分析都暗含着一种国家理论，但在教育研究与实践中，这种理论的根本前提却极少被识别或阐明。对我们自身的理论假定保持自我审思，是开展扎实学术研究的前提条件。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 73)]]
+> 界定教育的“真实”问题以及最适宜的解决方案，在很大程度上取决于支撑、证成并指引教育诊断与方案提议的国家理论。然而，正如[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy, 1992）所指出的，大多数教育问题分析都暗含着一种国家理论，但在教育研究与实践中，这种理论的根本前提却极少被识别或阐明。对我们自身的理论假定保持自我审思，是开展扎实学术研究的前提条件。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 73)]]
 >
 > *Defining the "real" problems of education and the most appropriate solutions depends greatly on the theories of the state that underpin, justify, and guide the educational diagnosis and proponed solutions. There is, however, a permanent challenge here. As Martin Carnoy (1992) has argued, most analyses of educational problems have implicit in them a theory of the state but seldom are the fundamentals of that theory recognized or spelled out in educational research and practice.*
 
@@ -97,7 +103,7 @@ updated: 2026-09-28
 > [!work-line] 主要著作
 > - **1990 — *The Politics of Nonformal Education in Latin America*** 系统剖析拉美非正规教育中[[Neocorporatism|法团主义]]国家的权力控制逻辑与底层民众阶层的抵抗空间。
 > - **1992 — *[[Participatory Action Research]] and [[Popular Education]] in Latin America*** 明确确立参与式[[Action Research|行动研究]]（[[Participatory Action Research|PAR]]）的五大[[Epistemology|认识论]]与实践原则。
-> - **1998 — *Education, Power, and Personal Biography: Dialogues with Critical Educators*** 与迈克尔·阿普尔（Michael Apple）等学者对话，深化[[Critical Pedagogy|批判教育学]]对国家权力与意识形态再生产的解构。
+> - **1998 — *Education, Power, and Personal Biography: Dialogues with Critical Educators*** 与[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）等学者对话，深化[[Critical Pedagogy|批判教育学]]对国家权力与意识形态再生产的解构。
 > - **2009 — *Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches*** （与 [[Liliana Esther Olmos|奥尔莫斯]]合著，收录于《比较教育学国际手册》）系统构建国家理论与教育扩张的宏观政治经济学框架，确立[[Conditioned State Theory|受限国家理论]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 73–86)]]
 > - **2011 — *In the Shadow of Neoliberalism: Thirty Years of Educational Reform in North America*** （与 [[Liliana Esther Olmos|奥尔莫斯]]等合编）深度剖析新自由主义对北美及拉美公共教育公平与民主公民身份的系统性侵蚀。
 
@@ -106,7 +112,7 @@ updated: 2026-09-28
 ## 核心思想
 
 > [!claim] 教育政策与改革根植于隐含的国家理论与资本积累矛盾
-> 托雷斯强调教育绝非技术中立的技能分配系统，而是国家履行资本积累与社会合法化双重功能的核心争鸣[[Champ|场域]]。在拉美等外围资本主义国家，依附性的国家机器（[[Conditioned State Theory|受限国家]]）受制于跨国垄断资本与本土统治集团结成的“支配同盟”，公共教育系统呈现出精英与底层割裂的双轨形态；[[State Corporatism|国家法团主义]]则通过成人扫盲与边际机会扩张推行[[Compensatory Legitimation|补偿性合法化]]以维系政权统治。全球化背景下新自由主义结构调整迫使公共教育退缩、推行使用者付费与私有化，实质上是以市场逻辑剥夺大众公民身份的阶级策略。
+> 托雷斯强调教育绝非技术中立的技能分配系统，而是国家履行资本积累与社会合法化双重功能的核心争鸣[[Champ|场域]]。在拉美等外围资本主义国家，依附性的国家机器（[[Conditioned State Theory|受限国家]]）受制于跨国垄断资本与本土统治集团结成的“[[Pact of Domination|支配同盟]]”，公共教育系统呈现出精英与底层割裂的双轨形态；[[State Corporatism|国家法团主义]]则通过成人扫盲与边际机会扩张推行[[Compensatory Legitimation|补偿性合法化]]以维系政权统治。全球化背景下新自由主义[[Structural Adjustment Programs|结构调整]]迫使公共教育退缩、推行使用者付费与私有化，实质上是以市场逻辑剥夺大众公民身份的阶级策略。
 
 > [!claim] [[Participatory Action Research|参与式行动研究]]必须植根于明确的社会政治意图
 > 托雷斯的五项原则构成了 PAR 的拉美批判框架：PAR 必须以明确的社会和政治意图开始，与受支配和贫困的阶级和群体相呼应；研究过程必须涉及大众参与，具有社会基础；知识被视为社会整体转型的动因，由此构成对将知识与实践分离的观点的有力批判；其[[Epistemology|认识论]]基础植根于[[Critical Theory|批判理论]]及其对主客体关系的批判；最终目标是提升个体、群体和国家的意识。
@@ -135,7 +141,7 @@ updated: 2026-09-28
 
 > [!person-network] 关系网络
 > - **思想渊源** [[Paulo Freire]] — 弗莱雷的[[Critical Pedagogy|批判教育学]]、意识化与对话实践是其学术生涯的思想基座。
-> - **学术合作** [[Liliana Esther Olmos]]、Martin Carnoy、Adriana Puiggrós、Robert Arnove — 共同推进比较教育政治经济学与批判国家理论研究。
+> - **学术合作** [[Liliana Esther Olmos]]、[[Martin Carnoy]]、[[Adriana Puiggrós]]、[[Robert Arnove]] — 共同推进比较教育政治经济学与批判国家理论研究。
 > - **学术机构** 弗莱雷研究所（Paulo Freire Institute, UCLA） — 创始主任，推动全球批判教育学与[[Popular Education|民众教育]]实践研究。
 > - **国际组织** 世界比较教育学会联合会（WCCES）、[[UNESCO|联合国教科文组织]]（UNESCO）[[Global Citizenship|全球公民教育]]教席。
 
@@ -155,6 +161,6 @@ updated: 2026-09-28
 > | [[Dual School System]] | 概念 | 刻画外围受限国家中精英垄断优质高阶教育与大众滞留劣质初等公立的双轨教育结构。 |
 > | [[Financial-Intellectual Complex]] | 概念 | 批判国际金融组织将资本借贷与意识形态研究议程捆绑的技术官僚垄断。 |
 > | [[Participatory Action Research]] | 方法 | 提出 PAR 五项原则（1992）：明确的社会政治意图、大众参与、知识作为社会转型动因、批判认识论基础与意识提升。 |
-> | [[World Bank]] | 机构事实 | 批判其作为新自由主义结构调整推手对第三世界公共教育福利属性的剥夺。 |
+> | [[World Bank]] | 机构事实 | 批判其作为新自由主义[[Structural Adjustment Programs\|结构调整]]推手对第三世界公共教育福利属性的剥夺。 |
 > | [[Liliana Esther Olmos]] | 人物 | 长期学术合作者，共同发展宏观国家理论与比较教育扩张[[Analytic Framework\|分析框架]]。 |
 > | [[Paulo Freire]] | 人物 | 精神导师与思想源流，指引其[[Critical Pedagogy\|批判教育学]]与拉美[[Popular Education\|民众教育]]学术探索。 |

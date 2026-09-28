@@ -9,7 +9,7 @@ subtype: policy
 region: belgium
 fact_region: "belgium"
 fact_kind: "policy"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - policy/compulsory-education
 related_concepts:
   - "[[Grade Retention]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Evidence-Based Education]]"
   - "[[Normal School]]"
   - "[[Inclusive Evidence Validation Typology]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-24
+updated: 2026-09-28
 ---
 
 # Pact for Educational Excellence
@@ -64,7 +65,7 @@ updated: 2026-05-24
 ## 政策文本摘要
 
 > [!abstract]
-> 教育卓越公约不是单一课程文件，而是一组围绕教育绩效、公平和系统结构调整展开的改革方案。它把利益相关者协商、结构性改革和证据本位项目验证结合起来，并在官方建议文本中承认需要试点、验证并按有效性扩大教育项目([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.170-171, 182]])。
+> 教育卓越公约不是单一课程文件，而是一组围绕教育绩效、公平和系统[[Structural Adjustment Programs|结构调整]]展开的改革方案。它把利益相关者协商、结构性改革和证据本位项目验证结合起来，并在官方建议文本中承认需要试点、验证并按有效性扩大教育项目([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.170-171, 182]])。
 
 改革计划包括七类主要结构变化：在能力本位基础上重新引入知识定义；从 5 岁起使学前教育成为义务教育并建立合适标准；把共同核心课程从 3 岁延伸到 15 岁；以“定向取向模式”替代主要由失败和困难驱动的早期分流；到 2030 年将[[Grade Retention|留级]]率降低 50%；调整学校日历为 7 周上课和 2 周假期交替，并缩短暑假；把小学和初中教师初始培养从 3 年延长到 4 年并加入大学组成部分([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, pp.172-173]])。
 

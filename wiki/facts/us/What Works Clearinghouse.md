@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 90
+fact_related_count: 91
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -89,6 +89,7 @@ related_instruments:
   - "[[Study Design and Implementation Assessment Device]]"
   - "[[EEF Padlock Security Rating]]"
 related_persons:
+  - "[[Mark Ginsburg]]"
   - "[[Robert Slavin]]"
 related_facts:
   - "[[Institute of Education Sciences]]"
@@ -287,7 +288,7 @@ updated: 2026-09-28
 > > [!axis] 单研究法定合规漏洞与证据体整合的结构性断裂
 > > 争论 [[Every Student Succeeds Act\|ESSA]] 仅要求单项符合 WWC 标准的研究即可申领联邦拨款，是否制造了系统性的循证采购虚假性。
 > >
-> > - **金斯伯格等（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024]]）财务审计视角** 对美国南方联合学区（SUD）2.88 亿美元教育经费支出开展实证审计，在 4 个核心公共证据库（WWC、Evidence for ESSA、EEF、[[Education Resources Information Center\|ERIC]]）中检索 129 项采购实践所对应的 4,000 余条证据记录，发现了两类结构性漏洞：其一，学区在法律上完全可以援引来自 WWC 或其他单一库的单项研究（即 ESSA 所谓"强证据"的最低要求，Tier I–III）为采购辩护，却对本库内及其他清算中心平行存在的大量反驳证据视而不见；其二，有 26 项采购实践在 WWC 等任一库中均找不到**任何**针对目标学段的研究（"全面证据匮乏"），仍被合规采购（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 173–174]]）。
+> > - **[[Mark Ginsburg|金斯伯格]]等（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024]]）财务审计视角** 对美国南方联合学区（SUD）2.88 亿美元教育经费支出开展实证审计，在 4 个核心公共证据库（WWC、Evidence for ESSA、EEF、[[Education Resources Information Center\|ERIC]]）中检索 129 项采购实践所对应的 4,000 余条证据记录，发现了两类结构性漏洞：其一，学区在法律上完全可以援引来自 WWC 或其他单一库的单项研究（即 ESSA 所谓"强证据"的最低要求，Tier I–III）为采购辩护，却对本库内及其他清算中心平行存在的大量反驳证据视而不见；其二，有 26 项采购实践在 WWC 等任一库中均找不到**任何**针对目标学段的研究（"全面证据匮乏"），仍被合规采购（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 173–174]]）。
 > > - **跨学段降维推断的系统性风险** 审计中发现典型案例：以"校外实地考察"为例，WWC 库中仅有一项针对初中青少年项目的研究（Whitesell, 2016），却被用于为小学阶段的采购提供证据背书，形成跨学段降维推断。此类"降维引用"在被审计的支出项目中普遍存在，揭示了以单一清算中心数据为基准的合规体系在年级与[[Domain Specificity\|学科特异性]]上的系统性盲区（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 170–171]]）。
 > > - **单清算中心合规 vs 多库整合证据的合规率差** 基于单库单研究门槛，被审计学区 95%–99% 的采购实践可找到至少一项符合 ESSA Tier I–III 的合规研究；但若切换至跨 4 库证据体综合的视角，合规率骤降至 49%–58%（保守敏感性分析下进一步压缩至 20%），揭示了现行 ESSA 法定证据门槛与真实循证采购标准之间的结构性鸿沟（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, p. 173]]）。
 

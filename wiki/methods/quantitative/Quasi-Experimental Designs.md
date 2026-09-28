@@ -11,7 +11,7 @@ summary: "在无法实现随机分配的真实教育情境中通过非等对控�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 79
+method_related_count: 80
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -83,7 +83,8 @@ related_methods:
   - "[[Single-Subject Design]]"
 related_instruments:
   - "[[Study Design and Implementation Assessment Device]]"
-related_persons: []
+related_persons:
+  - "[[Mark Ginsburg]]"
 related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[What Works Clearinghouse]]"
@@ -241,7 +242,7 @@ updated: 2026-09-28
 > | **[[National Dropout Prevention Center\|国家预防辍学中心（National Dropout Prevention Center, NDPC）]]** | 1 级 (宽松包容) | **Strong Evidence** (允许 QED 获评最高级) | 准入门槛包容，仅要求存在显著正向 QED 证据且方案在学校现场实际运行满 3 年。 |
 
 > [!critique] 单项 QED 法定门槛下的合规假象与科研供给断层（基于 Ginsberg et al., 2024）
-> 约娜·金斯伯格（Yona Ginsberg）等学者对全美大型城市学区三年总计 2.88 亿美元联邦 [[Title I of the Elementary and Secondary Education Act\|Title I]] 支出流水与四大公共证据库（WWC、[[Evidence for ESSA]]、[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）、[[Education Resources Information Center\|教育资源信息中心]]（Education Resources Information Center, ERIC））的实证审计，揭示了 QED 在当代证据治理中的制度困境（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 162–165, 174–178]]）：
+> 约娜·[[Mark Ginsburg|金斯伯格]]（Yona Ginsberg）等学者对全美大型城市学区三年总计 2.88 亿美元联邦 [[Title I of the Elementary and Secondary Education Act\|Title I]] 支出流水与四大公共证据库（WWC、[[Evidence for ESSA]]、[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）、[[Education Resources Information Center\|教育资源信息中心]]（Education Resources Information Center, ERIC））的实证审计，揭示了 QED 在当代证据治理中的制度困境（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 162–165, 174–178]]）：
 > 1. **法定单项 QED 门槛下的形式化合规偏差** 《每个学生都成功法案》（[[Every Student Succeeds Act\|ESSA]]）法定规则允许“仅凭单项设计良好的实验（Tier I）或准实验（Tier II）研究呈现显著正向效应”，即可认定整笔教育采购合法合规。实证发现，基于单项合格研究门槛，学区超过 95%（直接按全校项目计达 99%）的资金均符合法定标准；然而，一旦引入“全量证据体综合评价[[Paradigm\|范式]]”（Full Body of Evidence Paradigm），全面审视同一实践在各数据库中的所有 QED 与 RCT 结果，获稳定积极实证支持的资金比重降至 49%–58%，表明单项 QED 门槛极易被学区用作挑选樱桃（cherry-picking）的合规工具。
 > 2. **目标学段 QED 实证研究供给不足** 基础教育科研界在大规模 QED 生产上存在明显的学段断层。实证发现，样本学校采购的教育实践中，有多达 26 项实践在相关目标学段（如高中国语或特定小学学段）根本不存在任何 QED 或 RCT 因果证据；学区被迫在缺乏目标学段因果支持的情况下进行跨学段推论。
 > 3. **微观复合实践的因果识别局限** 现有 QED 研究大多针对宏观打包课程方案（如全校性数学项目或青少年综合发展计划），而极少对学区实际采购的微观交付构件（如面对面微课辅导、驻校咨询、实地考察 [[Champ\|field]] trips）进行独立的准实验因果识别，导致大量财政资金投入到未经因果检验的细分环节之中。

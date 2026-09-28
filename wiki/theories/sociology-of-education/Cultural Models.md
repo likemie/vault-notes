@@ -10,7 +10,7 @@ aliases:
 summary: "由历史文化过程积淀并持续演进的共享概念框架，在微观层面指文化成员用以解释、预测与指导学习及社会行动的原型图式（如东西方学习模型），在宏观跨国层面指世界社会理论所论述的普世化制度脚本（如国民经济发展、公民资产与国家可改进性信念）。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 34
+theory_related_count: 35
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Confucian Heritage Cultures]]"
   - "[[Student Attitude]]"
   - "[[Bildung]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Research Question]]"
   - "[[Self-Cultivation]]"
   - "[[Lifelong Learning]]"
@@ -143,7 +144,7 @@ updated: 2026-09-28
 > |---|---|---|---|
 > | **认知引导与非决定命题** | 文化模型通过语言与原型影响认知，个体在社会化中呈现偏离 | 跨文化心理学、微观课堂[[Student Attitude\|学习态度]]与家庭[[Bildung\|教养]]模式 | [[Argument_Li_2012_Cambridge\|Li (2012, pp. 88–89)]] |
 > | **全球制度趋同命题** | 四大普世文化信念驱动主权国家模仿并建立同质大众教育架构 | 战后现代国家建制、多边国际组织政策扩散 | Meyer et al. (1997); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 74)]] |
-> | **依附与[[Ideology Critique\|意识形态批判]]命题** | 普世文化模型掩盖核心-外围不平等，无法抹杀依附国家的双轨现实 | 外围国家教育政策史、新自由主义结构调整评估 | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, pp. 75–76)]] |
+> | **依附与[[Ideology Critique\|意识形态批判]]命题** | 普世文化模型掩盖核心-外围不平等，无法抹杀依附国家的双轨现实 | 外围国家教育政策史、新自由主义[[Structural Adjustment Programs\|结构调整]]评估 | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, pp. 75–76)]] |
 
 ---
 

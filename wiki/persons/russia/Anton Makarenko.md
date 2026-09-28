@@ -8,7 +8,7 @@ summary: "苏联教育改革家，因其教育思想与实践被西方学界称�
 type: person
 nationality: russia
 person_region: "russia"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Normal School]]"
   - "[[APA Style]]"
+  - "[[Pedagogical Subject]]"
   - "[[International Education]]"
   - "[[Progressive Education]]"
   - "[[Experiential Learning]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-09-12
+updated: 2026-09-28
 ---
 # Anton Makarenko
 
@@ -106,7 +107,7 @@ updated: 2026-09-12
 ### 集体作为教育机制
 
 > [!tip]-
-> 马卡连柯的核心命题是：教育不是教师对孤立儿童的单向塑造，而是通过有目的、有结构、有责任分配的**集体生活**来重建儿童的社会关系。集体既是教育环境，也是教育主体。
+> 马卡连柯的核心命题是：教育不是教师对孤立儿童的单向塑造，而是通过有目的、有结构、有责任分配的**集体生活**来重建儿童的社会关系。集体既是教育环境，也是[[Pedagogical Subject|教育主体]]。
 
 在高尔基工学团和捷尔任斯基劳动公社中，儿童被组织进小组、委员会和共同劳动项目中。集体生活并不只是"大家在一起"，而是通过共同任务、公共评价、轮换责任和集体荣誉，使儿童学习如何成为一个能够承担责任的社会成员（Filonov, 1994; Halvorsen, 2014）。
 

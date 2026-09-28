@@ -20,25 +20,25 @@ tags:
   - comparative-education
   - paradigm/liberal-pluralism
 related_concepts:
-  - "[[Value Neutrality]]"
+  - "[[Paradigm]]"
+  - "[[Construct]]"
+  - "[[Hypothesis]]"
   - "[[Technical Rationality]]"
+  - "[[Return on Investment]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Value Neutrality]]"
   - "[[Politicity of Education]]"
-  - "[[Categorical Funding]]"
+  - "[[Epistemology]]"
 related_theories:
   - "[[Pluralism]]"
   - "[[Conditioned State Theory]]"
-  - "[[State Corporatism]]"
-  - "[[World Society Theory]]"
-related_methods:
-  - "[[Analytic Framework]]"
+related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Carlos Alberto Torres]]"
-  - "[[Liliana Esther Olmos]]"
-  - "[[Martin Carnoy]]"
   - "[[Paulo Freire]]"
 related_facts:
   - "[[OECD]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 confidence: high
@@ -56,8 +56,8 @@ updated: 2026-09-28
 > [!theory-position] 理论定位
 > - **解释对象** 现代国家机构、法律秩序与公共政策（包括公共教育系统）的合法性基础、运作动力与社会功能。
 > - **理论问题** 解释在一个多元利益集团竞逐资源的民主社会中，公共政策如何达成妥协并维护全社会的普遍福祉。
-> - **理论类型** 规范性与解释性政治学理论范式。
-> - **知识位置** 洛克、密尔古典自由主义政治哲学与现代罗伯特·达尔（Robert Dahl）多元主义民主理论的交汇点；是主流技术官僚教育规划的默认哲学底座。
+> - **理论类型** 规范性与解释性政治学理论[[Paradigm|范式]]。
+> - **知识位置** 洛克、密尔古典自由主义政治哲学与现代罗伯特·达尔（Robert Dahl）[[Pluralism|多元主义]]民主理论的交汇点；是主流技术官僚教育规划的默认哲学底座。
 
 > [!claim] 核心判断
 > 自由多元主义国家理论将国家构想为一个自主的政治体系，独立于生产方式与阶级结构之外；国家表现为一个中立的裁判者，监督并调控不同利益集团与精英之间的资源竞争，并将国家视作个体成员的集体创造物，旨在向绝大多数公民提供包括国防、法治与公共教育在内的均质共同社会产品。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 78)]]
@@ -80,23 +80,23 @@ updated: 2026-09-28
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | 中立裁判者（Neutral Referee） | 构念 | 设定国家在阶级与利益集团冲突中不偏不倚，仅负责程序公正。 |
+> | 中立裁判者（Neutral Referee） | [[Construct\|构念]] | 设定国家在阶级与利益集团冲突中不偏不倚，仅负责程序公正。 |
 > | 共同社会产品（Common Social Goods） | 概念 | 将国防、司法与公共教育视为全体公民共享的无排他性公共福利。 |
-> | 利益集团竞争（Interest Group Pluralism） | 机制 | 假设不同社会力量均有平等的组织与抗辩渠道，政策是妥协的均衡解。 |
+> | 利益集团竞争（Interest Group [[Pluralism]]） | 机制 | [[Hypothesis\|假设]]不同社会力量均有平等的组织与抗辩渠道，政策是妥协的均衡解。 |
 
 ---
 
 ## 核心命题
 
 > [!theory-proposition] 命题一｜国家独立于阶级统治，致力于提供均质公共产品
-> **解释** 自由多元主义理论假定国家意志是个体公民公意的契约式汇聚，国家机器本身不具备偏向资本家的阶级属性，其首要目标是保障基本权利与社会现代化；在此视角下，公共教育被视为纯粹促进社会阶层流动与公民资格建构的政治中立资源。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 78)]]
+> **解释** 自由[[Pluralism|多元主义]]理论假定国家意志是个体公民公意的契约式汇聚，国家机器本身不具备偏向资本家的阶级属性，其首要目标是保障基本权利与社会现代化；在此视角下，公共教育被视为纯粹促进社会阶层流动与公民资格建构的政治中立资源。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 78)]]
 >
 > **应用实例** 主流教育政策常假定只要增加公立学校总经费投入、提供标准化统考，就能自动实现教育机会均等，忽视了阶级出身与资本积累规律对实际教学结果的压倒性支配。
 
-> [!theory-proposition] 命题二｜教育政策与规划属于非政治性的技术理性工程
-> **解释** 既然国家是中立的，那么教育政策的制定就被降格为寻找“最具成本效益、最高投资回报率”的技术寻优过程；教育社会学与哲学的阶级权力反思被技术官僚模型所边缘化。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 73–74, 78)]]
+> [!theory-proposition] 命题二｜教育政策与规划属于非政治性的[[Technical Rationality|技术理性]]工程
+> **解释** 既然国家是中立的，那么教育政策的制定就被降格为寻找“最具成本效益、最高[[Return on Investment|投资回报率]]”的技术寻优过程；教育社会学与哲学的阶级权力反思被技术官僚模型所边缘化。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 73–74, 78)]]
 >
-> **应用实例** 经合组织（OECD）推行的 PISA 排名与能力指标，往往将教育改革包装为与意识形态无关的技术参数调整，遮蔽了跨国资本规训劳工技能的实质目的。
+> **应用实例** [[OECD|经合组织]]（OECD）推行的 [[PISA]] 排名与能力指标，往往将教育改革包装为与意识形态无关的技术参数调整，遮蔽了跨国资本[[Disciplina and Doctrina|规训]]劳工技能的实质目的。
 
 ---
 
@@ -107,8 +107,8 @@ updated: 2026-09-28
 > > [!axis] 国家是中立中介还是资本积累与阶级维稳的工具
 > > 争论聚焦于国家是否具备超越生产关系的独立性。
 > >
-> > - **自由多元主义学派（Dahl 等）** 坚称国家自主于经济基础，是多元精英互动的平台。
-> > - **批判政治经济学与马克思主义学派（Carnoy, 1992; Torres, 2007; Olmos & Torres, 2009）** 尖锐指出，自由多元主义假定彻底遮蔽了国家必须履行的“资本积累”与“政治合法化”双重矛盾职能；在外围资本主义社会中，所谓中立国家更是虚妄神话，国家不可避免地沦为地主买办阶级的掠夺性同盟（受限国家）。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74, 78, 83)]]
+> > - **自由[[Pluralism|多元主义]]学派（Dahl 等）** 坚称国家自主于经济基础，是多元精英互动的平台。
+> > - **批判政治经济学与马克思主义学派（Carnoy, 1992; Torres, 2007; [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）** 尖锐指出，自由多元主义假定彻底遮蔽了国家必须履行的“资本积累”与“政治合法化”双重矛盾职能；在外围资本主义社会中，所谓中立国家更是虚妄神话，国家不可避免地沦为地主买办阶级的掠夺性同盟（[[Conditioned State Theory|受限国家]]）。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74, 78, 83)]]
 
 ---
 
@@ -118,7 +118,7 @@ updated: 2026-09-28
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Technical Rationality]] | 概念 | 揭示自由多元主义如何利用技术官僚中立修辞掩盖阶级支配。 |
+> | [[Technical Rationality]] | 概念 | 揭示自由[[Pluralism\|多元主义]]如何利用技术官僚中立修辞掩盖阶级支配。 |
 > | [[Value Neutrality]] | 概念 | 批判该理论预设的政策分析价值中立假定。 |
 > | [[Conditioned State Theory]] | 理论 | 以受限国家的残酷外围现实对中立裁判者神话进行根本性对质。 |
-> | [[Politicity of Education]] | 概念 | 以弗莱雷思想解构自由主义将教育视为技术技能中立传授的认识论谬误。 |
+> | [[Politicity of Education]] | 概念 | 以[[Paulo Freire\|弗莱雷]]思想解构自由主义将教育视为技术技能中立传授的[[Epistemology\|认识论]]谬误。 |

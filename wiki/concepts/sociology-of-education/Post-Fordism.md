@@ -7,7 +7,7 @@ aliases:
 summary: "描述全球资本积累由流水线集中生产转向弹性灵活积累的生产组织范式，在教育系统体现为由标准化大众供给转向技能模块化、绩效问责与市场竞争性治理"
 type: concept
 domain: "sociology-of-education"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Knowledge Production]]"
   - "[[Champ]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Creativity]]"
   - "[[Epistemology]]"
@@ -40,6 +41,7 @@ related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
+  - "[[Michael W. Apple]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
 related_facts: []
@@ -95,7 +97,7 @@ updated: 2026-09-28
 
 > [!feature] 后福特主义教育转型的三重运作维度
 > - **弹性技能与[[Cognitive Deskilling|去技能化]]/再技能化辩证法** 资本不再保障长周期终身雇佣，要求学校破除传统人文知识体系，拆解出高度可拆卸、即插即用的模块化技能；在此过程中，劳动者对生产过程的整体理解力被剥离（去技能化），同时被要求持续学习碎片化软件与操作规程（再技能化）（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, p. 79]]）。
-> - **课程形式的技术控制逻辑** 遵循迈克尔·阿普尔（Michael Apple, 1982）的批判分析，后福特制将[[Technical Rationality|技术理性]]内置于课程设计中，通过标准化测试、行为目标量规与教案脚本化，剥夺一线教师的专业自主权，将其降格为课程生产流水线的[[Assemblage|组装]]工。
+> - **课程形式的技术控制逻辑** 遵循[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple, 1982）的批判分析，后福特制将[[Technical Rationality|技术理性]]内置于课程设计中，通过标准化测试、行为目标量规与教案脚本化，剥夺一线教师的专业自主权，将其降格为课程生产流水线的[[Assemblage|组装]]工。
 > - **公共性收缩与市场化准准则注入** 伴随跨国资本对公共财政支出的挤压，国家逐步削减基础教育与高等教育的无偿转移支付，引入使用者付费（User Fees）、教育券制度与院校绩效竞争，将教育转变为个体积累竞争优势的私人商品。
 
 > [!logic-map]- 后福特制生产[[Paradigm|范式]]对教育系统的结构重组机制
@@ -130,7 +132,7 @@ updated: 2026-09-28
 > [!concept-lens] 课程[[Disciplina and Doctrina|规训]]与技术官僚治理
 > 探讨后福特制如何将原本外在于学校的生产管理控制技术内化为教育评价与课程设计规范。
 
-> [!claim] Apple, M. W.
+> [!claim] [[Michael W. Apple|Apple, M. W.]]
 > **课程形式中的技术控制与占有性个人主义塑造** 阿普尔指出，后福特制生产关系伴随着对[[Knowledge Production|知识生产]]与分配过程的精细技术控制。通过将课程细化为可精确测量、可标准考评的行为模块，国家与教育官僚在形式上赋予学生“自由选择”与“自主进度”的外观，实质上却在潜移默化中建构出契合市场竞争的占有性个人主义（Possessive Individualism），从而以科学中立的绩效考评抹杀了教育批判反思的社会功能（Apple, 1982; 见 [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, p. 79]] 引证）。
 
 ---
@@ -142,7 +144,7 @@ updated: 2026-09-28
 > |---|---|---|---|
 > | **经济与劳动力维度** | 跨国弹性积累打破终身雇佣，迫使教育转向模块化技能与脆弱化劳动力供给 | 全球化产业链分工与职业教育变革 | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]]; Brown & Lauder (1996) |
 > | **文化与课程维度** | 课程细分与标准化能力指标将技术官僚控制深度植入日常教学与评估 | 基础教育与高等教育课程改革 | Apple (1982); Ball (1993) |
-> | **制度与治理维度** | 削减公共福利开支与推行使用者付费，使市场逻辑全面替代福利国家供给契约 | 发展中国家结构调整与西方福利收缩 | Samoff (1992); Torres (2007) |
+> | **制度与治理维度** | 削减公共福利开支与推行使用者付费，使市场逻辑全面替代福利国家供给契约 | 发展中国家[[Structural Adjustment Programs\|结构调整]]与西方福利收缩 | Samoff (1992); Torres (2007) |
 
 ---
 
@@ -150,7 +152,7 @@ updated: 2026-09-28
 
 > [!dev-timeline] 后福特制理论演进
 > - **1970s — 调节学派奠基** 法国调节学派（Regulation School，阿格列塔、波斯塔）系统剖析福特制危机，提出跨国弹性专精生产模式（Flexible Specialization）的兴起。
-> - **1980s — 文化与[[Ideology Critique|意识形态批判]]** 迈克尔·阿普尔（Apple, 1982）将后福特制劳动过程分析引入教育学，揭示课程[[Coding in Qualitative Research|编码]]中的技术控制逻辑。
+> - **1980s — 文化与[[Ideology Critique|意识形态批判]]** [[Michael W. Apple|迈克尔·阿普尔]]（Apple, 1982）将后福特制劳动过程分析引入教育学，揭示课程[[Coding in Qualitative Research|编码]]中的技术控制逻辑。
 > - **1990s — 教育市场化与比较研究** 布朗与劳德（Brown & Lauder, 1992, 1996）系统辨析福特制与后福特制教育路线分歧；鲍尔（Ball, 1993）指出教育市场化实质是后福特资本主义下维系优势阶层特权的新阶级策略。
 > - **2000s — 全球化与外围批判** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）将后福特制置于世界体系与拉美外围国家依附发展情境，揭示跨国金融机构如何通过后福特制修辞将教育剥削机制输出至全球南方。
 

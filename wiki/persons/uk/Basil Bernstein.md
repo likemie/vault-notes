@@ -9,7 +9,7 @@ summary: "英国当代教育社会学与社会语言学奠基理论家，开创�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 44
+person_related_count: 45
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -60,6 +60,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Coding in Qualitative Research]]"
 related_persons:
+  - "[[Michael W. Apple]]"
   - "[[Pierre Bourdieu]]"
   - "[[Stephen Ball]]"
   - "[[Michael Young]]"
@@ -75,7 +76,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-05-23
-updated: 2026-09-22
+updated: 2026-09-28
 ---
 
 # Basil Bernstein
@@ -165,7 +166,7 @@ updated: 2026-09-22
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 深刻启发了国际[[Critical Pedagogy\|批判教育学]]与课程社会学（如迈克尔·阿普尔、亨利·吉鲁）；其晚期弟子与后继学者将其思想发展为当代教育学的重要理论阵地——[[Social Realism\|社会实在论]]（Social Realism）与合法化代码理论（Legitimation Code Theory, LCT）。
+> - **理论路径** 深刻启发了国际[[Critical Pedagogy\|批判教育学]]与课程社会学（如[[Michael W. Apple|迈克尔·阿普尔]]、亨利·吉鲁）；其晚期弟子与后继学者将其思想发展为当代教育学的重要理论阵地——[[Social Realism\|社会实在论]]（Social Realism）与合法化代码理论（Legitimation Code Theory, LCT）。
 > - **方法路径** 为课程文本分析与课堂[[Discourse Analysis\|话语分析]]提供了极高操作度的分析矩阵（如分类与框架指数、[[Recontextualization\|再脉络化]]规则链条、[[Curriculum Design Coherence Model\|CDCM]] 课程设计连贯性模型），使宏观意识形态分析能够精准落地为对教材篇章结构与课堂师生问答的微观测量。
 > - **政策路径** 其“代码差异非文化赤字”的科学定性直接冲击了 1970 年代英国盲目的补偿教育政策，并在当代成为评估国家课程改革失衡风险的重要预警工具（如[[NZ Curriculum Refresh 2021-2026\|新西兰课程改革]]中概念知识[[Attrition\|流失]]的反思）。[[Argument_McPhail_2023_JCS\|McPhail et al., 2023]]
 > - **跨国传播** 广泛传播至澳大利亚、南非、拉美、北欧及东亚，成为探究社会阶层固化、教育公平治理与现代性符号暴力的世界性学术母语。

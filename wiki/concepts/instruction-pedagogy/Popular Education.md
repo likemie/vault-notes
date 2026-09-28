@@ -6,10 +6,10 @@ aliases:
 summary: "发端于拉丁美洲的解放教育范式，主张立足被压迫工农大众的生活经验与阶级境遇，通过提问式对话教学激发批判意识觉醒，培养改造社会结构的政治能动性，与国家威权自上而下的补偿性恩庇扫盲相对立"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - field/instruction-pedagogy
   - field/educational-philosophy
@@ -23,9 +23,11 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Conscientization]]"
   - "[[Compensatory Legitimation]]"
+  - "[[Pact of Domination]]"
   - "[[Generative Themes]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Epistemology]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Praxis]]"
   - "[[Politicity of Education]]"
@@ -39,7 +41,8 @@ related_persons:
   - "[[Paulo Freire]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Liliana Esther Olmos]]"
-related_facts: []
+related_facts:
+  - "[[INEA]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 confidence: high
@@ -68,8 +71,8 @@ updated: 2026-09-28
 > *The policy rationale was clearly synthesized by the premise that the state should "educate the sovereign". A critical extension but also de-construction of this premise emerged in the 1960s with the notion of a pedagogy of the oppressed, conscientization, and popular education.*
 
 > [!boundary]- 概念边界
-> - 不等于 官僚[[Neocorporatism|法团主义]]补偿性扫盲（如墨西哥 INEA 项目） — 后者由国家自上而下组织，旨在以微薄的识字文凭换取底层对执政党的政治顺从；民众教育由基层社区自主发起，旨在挑战现存权力结构。
-> - 不等于 传统公民教育（Civic Education） — 传统公民教育向学生灌输现行宪制与选举程序，预设国家是中立的保护者；民众教育揭示国家作为阶级支配同盟的本质。
+> - 不等于 官僚[[Neocorporatism|法团主义]]补偿性扫盲（如墨西哥 [[INEA]] 项目） — 后者由国家自上而下组织，旨在以微薄的识字文凭换取底层对执政党的政治顺从；民众教育由基层社区自主发起，旨在挑战现存权力结构。
+> - 不等于 传统公民教育（Civic Education） — 传统公民教育向学生灌输现行宪制与选举程序，预设国家是中立的保护者；民众教育揭示国家作为阶级[[Pact of Domination|支配同盟]]的本质。
 
 ---
 
@@ -126,7 +129,7 @@ updated: 2026-09-28
 > 探讨自主民众教育如何与威权国家机器争夺大众文化领导权，抵制[[Compensatory Legitimation|补偿性合法化]]策略。
 
 > [!claim] [[Liliana Esther Olmos|Olmos, L. E.]] & Torres, C. A.
-> **抵制国家将扫盲转化为维护威权的政治减震器** 两位学者基于拉美特别是墨西哥的历史经验指出，面对合法性危机，威权国家往往通过垄断性工会推行大规模国家扫盲（如 INEA），企图以微小的边际福利将大众重新吸纳进一党制恩庇体系中。民众教育运动正是在与这种官方收编的激烈博弈中成长起来的，它坚决拒绝脱离政治经济批判的功能性识字，始终坚持将教育权与土地改革、劳动者自治及打破[[Conditioned State Theory|受限国家]]寡头支配的总体斗争紧密捆绑（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, pp. 83–84]]）。
+> **抵制国家将扫盲转化为维护威权的政治减震器** 两位学者基于拉美特别是墨西哥的历史经验指出，面对合法性危机，威权国家往往通过垄断性工会推行大规模国家扫盲（如 [[INEA]]），企图以微小的边际福利将大众重新吸纳进一党制恩庇体系中。民众教育运动正是在与这种官方收编的激烈博弈中成长起来的，它坚决拒绝脱离政治经济批判的功能性识字，始终坚持将教育权与土地改革、劳动者自治及打破[[Conditioned State Theory|受限国家]]寡头支配的总体斗争紧密捆绑（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, pp. 83–84]]）。
 
 ---
 
@@ -137,7 +140,7 @@ updated: 2026-09-28
 > |---|---|---|---|
 > | **认识论与主体性维度** | 解构“教化主权者”神话，确立被压迫大众在对话中的自我解放主体地位 | [[Critical Pedagogy\|批判教育学]]与反霸权识字运动 | Freire (1970); Torres (2007) |
 > | **制度博弈维度** | 抵抗[[State Corporatism\|国家法团主义]]的去政治化收编，揭露补偿性扫盲的恩庇本质 | 拉美威权政权与第三世界国家政策分析 | Morales-Gómez & Torres (1990); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]] |
-> | **当代反抗维度** | 在新自由主义结构调整与公共教育商品化面前，构筑捍卫公共尊严的草根共同体 | 社区另类全球化运动与原住民教育 | Puiggrós (2007); Apple (1982) |
+> | **当代反抗维度** | 在新自由主义[[Structural Adjustment Programs\|结构调整]]与公共教育商品化面前，构筑捍卫公共尊严的草根共同体 | 社区另类全球化运动与原住民教育 | Puiggrós (2007); Apple (1982) |
 
 ---
 

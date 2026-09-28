@@ -12,7 +12,7 @@ subtype: event
 region: "latin-america"
 fact_region: "latin-america"
 fact_kind: "event"
-fact_related_count: 15
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -23,25 +23,23 @@ tags:
   - latin-america
   - neoliberalism
 related_concepts:
-  - "[[Structural Adjustment Programs]]"
   - "[[Import Substitution Industrialisation]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Compensatory Legitimation]]"
   - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Paradigm]]"
 related_theories:
+  - "[[Neocorporatism]]"
   - "[[Conditioned State Theory]]"
-  - "[[State Corporatism]]"
-  - "[[Dependency Theory]]"
-related_methods:
-  - "[[Historical-Comparative Method]]"
+  - "[[Human Capital Theory]]"
+related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Carlos Alberto Torres]]"
   - "[[Liliana Esther Olmos]]"
-  - "[[Larissa Adler Lomnitz]]"
+  - "[[Carlos Alberto Torres]]"
 related_facts:
   - "[[World Bank]]"
   - "[[INEA]]"
-  - "[[SNTE]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 confidence: high
@@ -71,18 +69,18 @@ updated: 2026-09-28
 
 > [!dev-timeline] 事件推进历程
 > - **1982 — 危机全面爆发** 墨西哥、巴西与阿根廷先后陷入主权债务违约，国际私人借贷市场彻底对拉美关闭，各国面临严重的恶性通货膨胀与财政枯竭。
-> - **1980 年代中期 — 结构调整强加与公共教育撤资** 世界银行与 IMF 介入救援，将放贷条件与[[Structural Adjustment Programs|结构调整方案]]（SAPs）强制捆绑，强迫各国压缩公共教育与卫生开支，推行学校分权化甩包袱与使用者付费。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–81)]]
-> - **1980 年代末至 1990 年代 — 法团主义代偿与私有化确立** 面对失学激增与社会骚乱，墨西哥等国设立[[INEA|全国成人教育学会]]推行扫盲以实施[[Compensatory Legitimation|补偿性合法化]]；智利与阿根廷等国全面放开教育私有化，拉美公共教育体系深陷阶层撕裂。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–85)]]
+> - **1980 年代中期 — [[Structural Adjustment Programs|结构调整]]强加与公共教育撤资** [[World Bank|世界银行]]与 IMF 介入救援，将放贷条件与[[Structural Adjustment Programs|结构调整方案]]（SAPs）强制捆绑，强迫各国压缩公共教育与卫生开支，推行学校分权化甩包袱与使用者付费。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–81)]]
+> - **1980 年代末至 1990 年代 — [[Neocorporatism|法团主义]]代偿与私有化确立** 面对失学激增与社会骚乱，墨西哥等国设立[[INEA|全国成人教育学会]]推行扫盲以实施[[Compensatory Legitimation|补偿性合法化]]；智利与阿根廷等国全面放开[[Endogenous and Exogenous Privatisation|教育私有化]]，拉美公共教育体系深陷阶层撕裂。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–85)]]
 
 ---
 
 ## 对教育政策的深远冲击
 
-> [!tension-table] 债务危机前后拉美教育政策范式大逆转
+> [!tension-table] 债务危机前后拉美教育政策[[Paradigm|范式]]大逆转
 > | 比较维度 | 债务危机前（1960–1970 年代） | 债务危机后（1980 年代至今） |
 > |---|---|---|
-> | **国家角色** | 积极扩大公立学校建设的投资型国家 | 削减教育财政开支、推卸统筹责任的受限国家 |
-> | **教育地位** | 支撑工业化转型与政权合法性的公共品 | 由个人买单的自负盈亏人力资本商品 |
+> | **国家角色** | 积极扩大公立学校建设的投资型国家 | 削减教育财政开支、推卸统筹责任的[[Conditioned State Theory\|受限国家]] |
+> | **教育地位** | 支撑工业化转型与政权合法性的公共品 | 由个人买单的自负盈亏[[Human Capital Theory\|人力资本]]商品 |
 > | **政策取向** | 追求全民基础教育普及与高等教育扩招 | 强推使用者付费、公立学校分权化与教育券私有化 |
 > | **社会后果** | 虽存在双轨但中产阶级受教育规模激增 | 公立学校破败，贫民与工薪中产陷入生存与负债危机 |
 
@@ -90,8 +88,8 @@ updated: 2026-09-28
 
 ## 历史定性
 
-> [!citation-card] 奥尔莫斯与托雷斯论债务危机与结构调整对拉美教育的重塑
-> 历史和哲学上，新自由主义在拉美的推行始终与债务危机后的结构调整方案形影相随。从政治经济学视角看，经济危机的爆发成为了重组教育政策的基石，而结构调整处方非但未能治愈经济弊病，反而严重恶化了该地区的教育扩张质量与教育机会均等，彻底改变了教师组织、受限国家与跨国金融机构之间的政治力量博弈格局。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 82)]]
+> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论债务危机与[[Structural Adjustment Programs|结构调整]]对拉美教育的重塑
+> 历史和哲学上，新自由主义在拉美的推行始终与债务危机后的结构调整方案形影相随。从政治经济学视角看，经济危机的爆发成为了重组教育政策的基石，而结构调整处方非但未能治愈经济弊病，反而严重恶化了该地区的教育扩张质量与教育机会均等，彻底改变了教师组织、[[Conditioned State Theory|受限国家]]与跨国金融机构之间的政治力量博弈格局。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 82)]]
 >
 > *From a political economy of education perspective, the performance of the economy is a major issue underpinning educational policies. The question is to what extent the prescribed recipes of structural adjustment as a cure to the economic malaise will help or hinder educational expansion, quality of education, and equality of educational opportunity in the region.*
 

@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -35,7 +35,8 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Mark Ginsburg]]"
 related_facts:
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Cram Schools]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-09-28
 ---
 
 # Advancement Via Individual Determination
@@ -87,7 +88,7 @@ updated: 2026-09-17
 > - **受试学生群体** 签署自愿承诺书，承诺保持良好出勤、自律管理与完成大学申请全流程。
 
 > [!pathways]- 基层学区的资金映射与采购实践
-> 金斯伯格等（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, p. 170]]）对美国大型城市学区微观财务账目的实证穿透揭示，在高中学段，学校管理层将联邦 Title I 补偿性资金的相当比例定点采购于 AVID 项目及其配套的辅导服务。这表明 AVID 已成为美国大城市弱势高中改善大学准备度、提升高校录取率最主要的制度化采购选择之一。
+> [[Mark Ginsburg|金斯伯格]]等（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, p. 170]]）对美国大型城市学区微观财务账目的实证穿透揭示，在高中学段，学校管理层将联邦 Title I 补偿性资金的相当比例定点采购于 AVID 项目及其配套的辅导服务。这表明 AVID 已成为美国大城市弱势高中改善大学准备度、提升高校录取率最主要的制度化采购选择之一。
 
 ---
 

@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten Men, Forgotten Themes: The Historical-philosophical-cultural and Liberal Humanist Motif in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 78
+argument_related_count: 79
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -105,6 +105,7 @@ related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Plato]]"
   - "[[Aristotle]]"
+  - "[[Martin Carnoy]]"
   - "[[René Descartes]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[Johann Heinrich Pestalozzi]]"
@@ -301,7 +302,7 @@ updated: 2026-09-07
 > - **公民塑造奠基论**
 >   你期望国家呈现何种面貌，就必须将其置于学校之中（What you want in the state, you must put in the school）。国家制度与宪制秩序的再生产，依赖学校有意识地塑造符合其政治哲学规范的良好公民（The good citizen）；公民培育的方向与边界直接由国家政体的存续需要所定义。（Kandel, 1933: 275; p.48）
 > - **国家自变量的学科首创与批判回响**
->   坎德尔在学科史上首次将国家作为核心情境解释自变量，开创了从国家政体与权力运作审视教育制度的比较范式。卡扎米亚斯高度肯定这一开创性洞见，指出抛开其自由主义偏见，坎德尔对国家视角的奠立超前预示了 1970 至 1980 年代卡诺伊与戴尔等学者在批判范式下对国家理论（The return of the state）的重新引入。（p.48）
+>   坎德尔在学科史上首次将国家作为核心情境解释自变量，开创了从国家政体与权力运作审视教育制度的比较范式。卡扎米亚斯高度肯定这一开创性洞见，指出抛开其自由主义偏见，坎德尔对国家视角的奠立超前预示了 1970 至 1980 年代[[Martin Carnoy|卡诺伊]]与戴尔等学者在批判范式下对国家理论（The return of the state）的重新引入。（p.48）
 
 在方法论与认识论层面，坎德尔坚决抵制 20 世纪初日渐兴起的量化统计[[Positivism|实证主义]]。他在 1933 年著作中尖锐指出，统计测验与量化指标固然能够精确测量某些局部范围内的机械产出与行为常模，却“绝无可能定义教育的目的与意义，更无法确立任何质性价值标准（Qualitative standards）”（Kandel, 1933: xxiii; p.41）。承接萨德勒关于校外无形精神力量的洞见，坎德尔将比较研究的核心锚定在对历史因果机制的质性阐释上，提出了经典的因果探究三阶段流程，并提炼出以思想形态为灵魂的唯心主义认识论。（pp.40, 46–47）
 

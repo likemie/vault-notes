@@ -11,7 +11,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - theme/global-south
   - theme/educational-governance
 related_concepts:
+  - "[[Structural Adjustment Programs]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Performance Indicators]]"
   - "[[Document]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-12
+updated: 2026-09-28
 ---
 
 # Poverty Reduction Strategy Papers
@@ -55,7 +56,7 @@ updated: 2026-09-12
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1999 年 9 月由[[World Bank\|世界银行]]（World Bank）与国际货币基金组织（IMF）发展委员会暨执委会联合正式确立并发布。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - **适用地区 / 对象** 全球南方重债穷国（Heavily Indebted Poor Countries，HIPC）及所有申请国际开发协会（IDA）优惠无息贷款与减贫增长信贷（PRGF）的发展中国家。
-> - **问题背景** 20 世纪 80–90 年代“华盛顿共识”推行的激进结构调整计划（SAPs）严重削减了发展中国家的公共教育与医疗开支，引发广泛的人道主义危机与合法性声讨；布雷顿森林机构急需重构一套兼顾减贫修辞与财政紧缩监督的替代治理工具。
+> - **问题背景** 20 世纪 80–90 年代“华盛顿共识”推行的激进[[Structural Adjustment Programs|结构调整]]计划（SAPs）严重削减了发展中国家的公共教育与医疗开支，引发广泛的人道主义危机与合法性声讨；布雷顿森林机构急需重构一套兼顾减贫修辞与财政紧缩监督的替代治理工具。
 > - **制度位置** 构成了借贷国获取国际多边债务减免、受援国公共财政预算重组及教育部门五年规划的前置性刚性规制框架。
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-09-12
 ## 时间线
 
 > [!timeline] 政策时间线
-> - 1999 [[World Bank\|世界银行]]与国际货币基金组织正式引入 PRSP 框架，替代传统的结构调整计划。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> - 1999 [[World Bank\|世界银行]]与国际货币基金组织正式引入 PRSP 框架，替代传统的[[Structural Adjustment Programs|结构调整]]计划。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - 2002 [[Global Partnership for Education\|全球教育伙伴关系]]前身“全民教育快车道倡议”（[[Exploratory Factor Analysis\|EFA]]-FTI）要求受援国以 PRSP 为基础提交国家教育规划。
 > - 2005 巴黎援助实效高级别论坛强调“国家自主权（Country Ownership）”，PRSP 成为衡量受援国体制成熟度的核心凭证。
 > - 2015 至今 PRSP 演变为对接[[UN Sustainable Development Goals\|联合国可持续发展目标]]（SDG 4）的跨部门国家综合融资框架。

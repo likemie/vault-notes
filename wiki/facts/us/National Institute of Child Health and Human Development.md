@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -55,12 +55,13 @@ related_facts:
   - "[[House Committee on Education and the Workforce]]"
   - "[[What Works Clearinghouse]]"
   - "[[Open Court Reading]]"
+  - "[[Business Roundtable]]"
 related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-09-24
+updated: 2026-09-28
 ---
 
 # National Institute of Child Health and Human Development
@@ -140,7 +141,7 @@ updated: 2026-09-24
 > > [!axis] 医学霸权对教育学自主性的侵蚀
 > > 学界对 NICHD 以医学[[Paradigm|范式]]强加于复杂人文社科领域的做法提出尖锐抗议。
 > >
-> > - **范式排他性抗议** 语言学家兼神经学家史蒂文·施特劳斯（Steven Strauss, 2001）在《教育研究者》上向里昂发表公开信，尖锐质问 NICHD 与企业圆桌会议（Business Roundtable）的深度结盟是否真正欢迎学术争鸣，其确立的政策规范最终究竟是在服务儿童，还是在服务商业出版商的利润。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 9)]]
+> > - **范式排他性抗议** 语言学家兼神经学家史蒂文·施特劳斯（Steven Strauss, 2001）在《教育研究者》上向里昂发表公开信，尖锐质问 NICHD 与企业圆桌会议（[[Business Roundtable]]）的深度结盟是否真正欢迎学术争鸣，其确立的政策规范最终究竟是在服务儿童，还是在服务商业出版商的利润。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 9)]]
 
 > [!citation-card] 史蒂文·施特劳斯对 NICHD 次政府政企合谋的公开质询（Steven Strauss, 2001）
 > 联邦科研机构与美国企业界纯粹商业议程之间的紧密契合，迫使我们不得不质问：你们是否真的欢迎来自学术共同体尤其是广大研究者的挑战，以及你们的既定目标最终究竟符合谁的利益。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 9)]]

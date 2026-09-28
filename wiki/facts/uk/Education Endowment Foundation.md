@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 115
+fact_related_count: 116
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -94,6 +94,7 @@ related_persons:
   - "[[Michael Barber]]"
   - "[[Peter Lampl]]"
   - "[[Sir Kevan Collins]]"
+  - "[[Mark Ginsburg]]"
 related_facts:
   - "[[Sutton Trust]]"
   - "[[Impetus]]"
@@ -147,7 +148,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-09-24
+updated: 2026-09-28
 ---
 
 # Education Endowment Foundation
@@ -307,7 +308,7 @@ updated: 2026-09-24
 > - **战略领域系统拓展** 证据资助与实践转化重点向学前早期教育（Early Years，特别是学前读写与数学基础能力）、16–19 岁青年教育系统延伸，并重点推进高成效方案（如 Maths Champions）的跨区域规模化落地，持续应对后疫情时期的学业差距危机。
 > - **全球镜像组织辐射** 成功输出模式，深度主导或孵化了澳大利亚 [[Australian Education Research Organisation\|AERO]]、澳大利亚 [[Evidence for Learning\|E4L]] 以及拉美 [[SUMMA]] 等国家与跨国中介机构。
 > - **跨国政策话语权** 其[[Evidence Standards\|证据标准]]直接被英美澳等国纳入入职教师培训（[[Initial Teacher Training]]，ITT）核心大纲([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])。
-> - **美国联邦审计的国际权威认可** 金斯伯格等（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024]]）对美国南方联合学区（SUD）2.88 亿美元《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）[[Title I of the Elementary and Secondary Education Act\|Title I]] 经费的实证审计，在 4 个核心公共证据库中明确将 EEF 纳入并列，与美国本土的[[What Works Clearinghouse\|有效干预清算中心]]（WWC）及 [[Evidence for ESSA]] 平台同等对待，系统检索其覆盖 129 项采购实践的证据记录，表明 EEF 已超越英国本土，成为国际学界追踪 K-12 教育证据体时不可回避的全球性权威参照库（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 165–166, 170]]）。
+> - **美国联邦审计的国际权威认可** [[Mark Ginsburg|金斯伯格]]等（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024]]）对美国南方联合学区（SUD）2.88 亿美元《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）[[Title I of the Elementary and Secondary Education Act\|Title I]] 经费的实证审计，在 4 个核心公共证据库中明确将 EEF 纳入并列，与美国本土的[[What Works Clearinghouse\|有效干预清算中心]]（WWC）及 [[Evidence for ESSA]] 平台同等对待，系统检索其覆盖 129 项采购实践的证据记录，表明 EEF 已超越英国本土，成为国际学界追踪 K-12 教育证据体时不可回避的全球性权威参照库（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 165–166, 170]]）。
 
 
 > [!critique-data]- 最终受益人评估与[[Research Schools Network\|研究学校网络]]（RSN）3年实证结果

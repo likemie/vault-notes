@@ -8,10 +8,10 @@ summary: "英国当代社会学家与社会理论家，系统提出结构化理�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 39
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 40
+person_related_level: 5
+person_related_stars: "⭐⭐⭐⭐⭐"
+person_related_color: "#ffedd5"
 born: "1938"
 died: ""
 lifespan: 1938–至今
@@ -61,6 +61,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[David Held]]"
   - "[[Jürgen Habermas]]"
   - "[[Auguste Comte]]"
   - "[[Rom Harré]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-14
-updated: 2026-09-22
+updated: 2026-09-28
 ---
 
 # Anthony Giddens
@@ -106,7 +107,7 @@ updated: 2026-09-22
 > - **1959–1961** 先后毕业于赫尔大学（获心理学与社会学联合学位）与伦敦政治经济学院（LSE，获社会学硕士学位）；随后进入莱斯特大学社会学系任教。
 > - **1970–1976** 任教于剑桥大学社会与政治科学委员会及国王学院；1975 年出版《[[Positivism|实证主义]]与社会学》，提炼实证主义社会学的方法论统一假定与产出同构假定；1976 年出版《社会学方法的新规则》，正式创立[[Double Hermeneutic|双重诠释学]]说。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 7, 18)]]
 > - **1979–1984** 出版《社会理论的核心问题》（1979）与里程碑著作《社会的构成》（1984），系统建构结构化理论，奠定当代英美社会理论的重要基石。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, p. 181)]]
-> - **1985** 与戴维·赫尔德（David Held）等学者联合创立政体出版社（Polity Press），使其发展为全球社会科学与人文学科的核心学术出版阵地。
+> - **1985** 与[[David Held|戴维·赫尔德]]（David Held）等学者联合创立政体出版社（Polity Press），使其发展为全球社会科学与人文学科的核心学术出版阵地。
 > - **1990–1994** 出版《现代性的后果》（1990）与《后传统社会的生存》（1994），深入探究晚期现代性的时空脱域机制、制度[[Reflexivity|反思性]]与全球风险。
 > - **1997–2003** 出任伦敦政治经济学院（LSE）校长，担任英国首相托尼·布莱尔的核心智囊；出版《第三条道路》（1998）与《失控的世界》（2000），对全球社会民主主义与教育[[Theories of Policy Change|政策变革]]产生深远影响。
 > - **2004** 获封终身贵族（Baron Giddens of Southgate），进入英国上议院履职。

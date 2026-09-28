@@ -7,7 +7,7 @@ aliases:
 summary: "由 William Davies (2022) 批判提出并由 Smith (2026) 引入教育哲学的批判社会学概念，指在标准化改革与高利害测验压力下，读写教育系统性向计算机优势能力（信息处理与模式识别）靠拢，从而边缘化并驱逐人类独有的主观阐释与深层理解；在生成式 AI 时代，算法代劳与套路八股形成恶性共谋，前置并加剧了成长性认识不正义。"
 type: concept
 domain: "sociology-of-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -39,14 +39,15 @@ related_theories:
   - "[[Formative Epistemic Injustice]]"
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Michael W. Apple]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Smith_2026_SPE]]"
 confidence: high
 status: draft
 created: 2026-09-23
-updated: 2026-09-24
+updated: 2026-09-28
 ---
 
 # Computerization of Education
@@ -145,7 +146,7 @@ updated: 2026-09-24
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1974 — 英语课程史批判奠基** 阿瑟·阿普尔比（Arthur Applebee）出版《英语教学的传统与改革：一部历史》，系统梳理美国文学与读写教学从道德神学探究走向技能化八股的历程。Applebee (1974)
+> - **1974 — 英语课程史批判奠基** 阿瑟·[[Michael W. Apple|阿普尔]]比（Arthur Applebee）出版《英语教学的传统与改革：一部历史》，系统梳理美国文学与读写教学从道德神学探究走向技能化八股的历程。Applebee (1974)
 > - **2022 — “教育计算机化”概念提出** 英国社会学家威廉·戴维斯（William Davies）在《伦敦书评》发表文章，敏锐指出标准化公式写作本质是向计算机的信息处理与模式识别对齐，正式命名“读写教育的计算机化”。Davies (2022)
 > - **2026 — 引入生成式 AI 与成长性认识正义批判** 斯宾塞·J·史密斯（Spencer J. Smith）将教育计算机化作为解释生成式 AI 课堂危害的制度前置条件，指出应试八股与大模型代劳达成了扼杀学生心智发育的恶性共谋。[[Argument_Smith_2026_SPE|Smith (2026)]]
 

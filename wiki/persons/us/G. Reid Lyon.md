@@ -8,7 +8,7 @@ summary: "美国神经心理学家与联邦教育科研高级官员，曾任 NIC
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -45,12 +45,13 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[National Reading Panel]]"
   - "[[Open Court Reading]]"
+  - "[[Business Roundtable]]"
 related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-09-24
+updated: 2026-09-28
 ---
 
 # G. Reid Lyon
@@ -139,7 +140,7 @@ updated: 2026-09-24
 > > [!axis] 次政府利益铁三角与政企合谋
 > > 批判学者指责里昂深度卷入了由官僚机构（[[National Institute of Child Health and Human Development|NICHD]]）、立法领袖（古德林）与教材巨头（麦格劳-希尔）构成的次政府铁三角。
 > >
-> > - **施特劳斯（Strauss, 2001）** 质问里昂与企业圆桌会议（Business Roundtable）的深度同盟是否属于利益合谋，指出其打压多元学术共同体，实质上是在为企业利润铺路。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 9)]]
+> > - **施特劳斯（Strauss, 2001）** 质问里昂与企业圆桌会议（[[Business Roundtable]]）的深度同盟是否属于利益合谋，指出其打压多元学术共同体，实质上是在为企业利润铺路。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 9)]]
 > > - **里昂的回应（Lyon, 2001）** 坚称自己始终站在受阅读障碍困扰的儿童立场，指责批评者是在用后现代意识形态阻碍科学进步。
 >
 > > [!axis] 医学[[Paradigm|范式]]对教育学专业自主权的剥夺

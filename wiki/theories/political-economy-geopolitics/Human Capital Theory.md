@@ -7,7 +7,7 @@ aliases:
 summary: "将教育与培训视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论。二战后在冷战地缘博弈中成为经合组织（OECD）推行技术官僚式人力规划与世界银行构建跨国放贷指标帝国的核心理论支柱。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 37
+theory_related_count: 38
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Total Factor Productivity]]"
   - "[[Independent Variable]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Variable]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-09-17
+updated: 2026-09-28
 ---
 
 # Human Capital Theory
@@ -152,7 +153,7 @@ updated: 2026-09-17
 > ```
 
 > [!exegesis]- 教育规划与综合中学运动的实证案例
-> 在 1960 年代 OECD 推动的地中海地区项目（[[Mediterranean Regional Project]]，MRP）以及英美等国的综合学校（Comprehensive School）运动中，政策制定者深度动用了人力资本理论。一方面，技术官僚依据帕恩斯（Herbert Parnes, 1962）的人力需求模型，测算未来二十年工业升级所需的工程师与技术人员配额，以此作为中央财政向中等与高等教育大幅追加拨款的铁证；另一方面，当经济陷入周期性失业或文凭贬值时，行政部门便以“劳动力市场结构调整与滞[[Pre-test and Post-test\|后测]]算”为技术由头规避问责，充分展现了该理论作为政策护甲与合法化借口的双重功能。
+> 在 1960 年代 OECD 推动的地中海地区项目（[[Mediterranean Regional Project]]，MRP）以及英美等国的综合学校（Comprehensive School）运动中，政策制定者深度动用了人力资本理论。一方面，技术官僚依据帕恩斯（Herbert Parnes, 1962）的人力需求模型，测算未来二十年工业升级所需的工程师与技术人员配额，以此作为中央财政向中等与高等教育大幅追加拨款的铁证；另一方面，当经济陷入周期性失业或文凭贬值时，行政部门便以“劳动力市场[[Structural Adjustment Programs|结构调整]]与滞[[Pre-test and Post-test\|后测]]算”为技术由头规避问责，充分展现了该理论作为政策护甲与合法化借口的双重功能。
 > 
 > 在跨国治理维度上，世界银行自 1980 年代起依托 Psacharopoulos 主导的教育收益率大样本跨国数据库，持续将初等教育的高回报率作为强加给第三世界借款国的政策处方，将原本具有高度不确定性的教育过程简化为确定性的金融贴现资产，构成了冷战后国际组织以数据统治教育的经典案例。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 

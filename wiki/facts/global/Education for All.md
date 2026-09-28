@@ -11,7 +11,7 @@ subtype: policy
 region: "global"
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
   - theme/educational-development
   - theme/benchmarking
 related_concepts:
+  - "[[Structural Adjustment Programs]]"
   - "[[International Education]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Disciplina and Doctrina]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-28
 ---
 
 # Education for All
@@ -62,7 +63,7 @@ updated: 2026-09-17
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1990 年 3 月由[[UNESCO\|联合国教科文组织]]（UNESCO）、[[World Bank\|世界银行]]（World Bank）、[[UNICEF\|联合国儿童基金会]]（UNICEF）与联合国开发计划署（UNDP）联合在泰国宗滴恩（Jomtien）世界全民教育大会上正式发布《世界全民教育宣言：满足基本学习需求》（*World Declaration on Education for All: Meeting Basic Learning Needs*）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **适用地区 / 对象** 全球联合国成员国，重点覆盖撒哈拉以南非洲、南亚与拉丁美洲等全球南方发展中国家。
-> - **问题背景** 经历 1980 年代第三世界结构调整与严重债务危机，全球逾 1 亿学龄儿童流落街头或失学，近 10 亿成年人处于文盲状态；伴随冷战对抗降温，国际社会迫切需要跨越意识形态对抗，就基础教育权利凝聚全球共识。
+> - **问题背景** 经历 1980 年代第三世界[[Structural Adjustment Programs|结构调整]]与严重债务危机，全球逾 1 亿学龄儿童流落街头或失学，近 10 亿成年人处于文盲状态；伴随冷战对抗降温，国际社会迫切需要跨越意识形态对抗，就基础教育权利凝聚全球共识。
 > - **制度位置** 战后[[International Education\|国际教育]]发展史上最具标志性的制度分水岭；它不仅促成国际受教育权从抽象伦理倡导向具体量化行动的转向，更标志着全球南方国家首次被统一纳入多边国际组织的量化指标规制网络，直接孕育了后续《达喀尔行动纲领》（2000）、联合国千年发展目标（MDGs）与 [[UN Sustainable Development Goals\|SDG 4]] 监测框架。
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-09-17
 
 > [!actor-grid] 实施角色分工
 > - **多边协调与统计监测方** [[UNESCO\|联合国教科文组织]]（UNESCO）掌握全球议程倡导权，下属统计研究所（[[UNESCO Institute for Statistics\|UIS]]）统一制定跨国比较指标并发布《[[Global Education Monitoring Report\|全球教育监测报告]]》（GEMR）。
-> - **财政筹资与条件规制方** [[World Bank\|世界银行]]（World Bank）依托[[Poverty Reduction Strategy Papers\|减贫战略文件]]（PRSPs）与结构调整项目，将 [[Exploratory Factor Analysis\|EFA]] 目标转化为放贷前置约束，牢牢掌控资金流向。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **财政筹资与条件规制方** [[World Bank\|世界银行]]（World Bank）依托[[Poverty Reduction Strategy Papers\|减贫战略文件]]（PRSPs）与[[Structural Adjustment Programs|结构调整]]项目，将 [[Exploratory Factor Analysis\|EFA]] 目标转化为放贷前置约束，牢牢掌控资金流向。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **实地弱势干预方** [[UNICEF\|联合国儿童基金会]]（UNICEF）聚焦边缘化女童、战乱冲突与难民营地，在一线实地推动全纳教育方案。
 > - **国家履约主体** 受援国教育部与财政部，设立专门国家协调小组编制 EFA 计划，并向国际组织提供统计台账。
 
@@ -158,7 +159,7 @@ updated: 2026-09-17
 > > - **[[World Bank\|世界银行]]与捐助国** 认为国际指标基准是保障纳税人援助资金使用效率不可或缺的问责手段。
 > > - **后殖民批判学者** 指责西方大国将教育援助与新自由主义经济改革绑架，受援国为了达标不得不牺牲中高等教育与本土课程自主权。
 
-> [!citation-card] 全民教育目标下的结构调整与量化依赖
+> [!citation-card] 全民教育目标下的[[Structural Adjustment Programs|结构调整]]与量化依赖
 > 世界银行对发展中国家教育的影响源于其资金实力以及对管理主义-科学效率的宣称，其典型代表是高度官僚化的贷款周期和[[Poverty Reduction Strategy Papers\|减贫战略文件]]等管理工具。伴随全民教育的推进，这种量化指标体系迅速膨胀，最终构筑起对整个受援国教育系统的深层规制。(Elfert & Ydesen, 2023, p. 100; 引自 Steiner-Khamsi et al., 2024, p. 541)
 
 ---

@@ -8,7 +8,7 @@ aliases:
 summary: "以标准化高利害考试成绩为教育质量与个体价值核心衡量指标的制度化教学与评价体系。在中国根植于科举文化传统并由高考多层问责机制维持；在当代全球语境下表现为与教育计算机化对齐的模式识别与公式套路化规训，前置性造成未成年学习者的成长性认识不正义。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -49,7 +49,8 @@ related_methods:
   - "[[Implementation and Process Evaluation]]"
   - "[[Discourse Analysis]]"
   - "[[Correlational Research]]"
-related_persons: []
+related_persons:
+  - "[[Michael W. Apple]]"
 related_facts:
   - "[[Civil Service Examination]]"
   - "[[Gaokao]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-24
+updated: 2026-09-28
 ---
 
 # Examination-Oriented Education
@@ -99,7 +100,7 @@ updated: 2026-09-24
 
 > [!dev-timeline] 历史演变与跨文化演进
 > - **6 世纪至 1905 年 — 中国[[Civil Service Examination|科举制度]]确立“以考选士”传统** 建立统一规范的标准化选拔，将考试胜出与政治精英权力、社会向上流动深度捆绑，奠定了全社会重考崇文的集体无意识。
-> - **20 世纪初至 1970 年代 — 现代选拔考试的确立与工具化蜕变** 中国废科举后现代学校体系仍以大学联考为轴心；而在西方，阿瑟·阿普尔比（Arthur Applebee, 1974）与罗斯·柯林（Ross Collin, 2024）指出，原本以道德神学与社会至善探究为核心的读写教学，逐步蜕变顺从于政客要求的标准化技能考核。
+> - **20 世纪初至 1970 年代 — 现代选拔考试的确立与工具化蜕变** 中国废科举后现代学校体系仍以大学联考为轴心；而在西方，阿瑟·[[Michael W. Apple|阿普尔]]比（Arthur Applebee, 1974）与罗斯·柯林（Ross Collin, 2024）指出，原本以道德神学与社会至善探究为核心的读写教学，逐步蜕变顺从于政客要求的标准化技能考核。
 > - **1977 年至今 — [[Gaokao|高考]]制度恢复与应试教育机制的固化** 高考被确立为最公平且具备社会共识的阶层流动天梯；学校被卷入逐级目标分解的成绩问责网络，形成了学校、教师、家长与学生合力维系的坚固系统（[[Argument_Wang_2025_CE|Wang & McLaughlin, 2025]]）。
 > - **1990 年代至今 — [[Quality Education|素质教育]]政策推行与“双轨平行”分化** 官方将素质教育确立为核心国策，旨在纠偏应试恶疾；然而政策分析表明，应试教育在“现实和实质中”主导学校日常，素质教育则多停留在“修辞与形式中”，形成二元共存（You, 2019; [[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009]]）。
 > - **2020 年代 — [[High-Stakes Testing|高利害测验]]与[[Computerization of Education|教育计算机化]]批判** 朱莉·埃尔·勒恩德（Julie E. Learned et al., 2020）揭示西方标准化考试迫使教师推行公式套路写作并诱发情绪创伤；威廉·戴维斯（William Davies, 2022）与斯宾塞·J·史密斯（Spencer J. Smith, 2026）进一步论证，应试体系对模式识别的推崇构成了[[Computerization of Education|教育计算机化]]，并在生成式 AI 时代前置性诱发并系统放大了学习者的[[Formative Epistemic Injustice|成长性认识不正义]]。

@@ -7,7 +7,7 @@ aliases:
 summary: "一种将课程与教学视为文化政治斗争场域的批判教育哲学，主张以学生的活经验为起点，通过对话式提问、批判意识觉醒与可能性的语言，解构传统储蓄式教育与当代数智异化中的权力压迫，旨在培育具有自主性与社会解放潜能的批判求知者。"
 type: concept
 domain: "educational-philosophy"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -58,6 +58,7 @@ related_persons:
   - "[[Lawrence Manion]]"
   - "[[Keith Morrison]]"
   - "[[Bob Darwish]]"
+  - "[[Michael W. Apple]]"
   - "[[Jürgen Habermas]]"
 related_facts: []
 related_arguments:
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-09-24
+updated: 2026-09-28
 ---
 
 # Critical Pedagogy
@@ -201,7 +202,7 @@ updated: 2026-09-24
 
 > [!dev-timeline] 概念演变
 > - **1960–1970s — 解放实践奠基期** [[Paulo Freire|保罗·弗莱雷]]在巴西贫困农村扫盲运动中践行批判意识培养，1968/1972 年出版《被压迫者教育学》，提出[[Banking Model of Education|储蓄式教育]]批判、[[Problem-Posing Education|提问式教育]]与反思实践（[[Praxis]]），确立批判教育学的理论基石。
-> - **1980–1990s — 北美理论建构与文化政治转向** 亨利·吉鲁（Henry Giroux）、彼得·麦克拉伦（Peter McLaren）与迈克尔·阿普尔（Michael Apple）等学者将法兰克福学派[[Critical Theory|批判理论]]引入北美课程领域，提出可能性的语言与抵制理论，将学校定义为阶级、种族与性别话语争夺的文化政治[[Champ|场域]]。
+> - **1980–1990s — 北美理论建构与文化政治转向** 亨利·吉鲁（Henry Giroux）、彼得·麦克拉伦（Peter McLaren）与[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）等学者将法兰克福学派[[Critical Theory|批判理论]]引入北美课程领域，提出可能性的语言与抵制理论，将学校定义为阶级、种族与性别话语争夺的文化政治[[Champ|场域]]。
 > - **2000–2010s — 全球化反思与去殖民批评** 批判教育学进一步与[[Post-colonial Theory|后殖民理论]]、全球南方视角以及[[Geopolitics of Knowledge|知识地缘政治]]交织，学者运用储蓄式教育概念剖析[[Forced Knowledge Transfer|强制知识转移]]与跨国[[Policy Borrowing|政策借用]]中的隐性权力梯度（[[Argument_Partaken_2022_Springer|Partaken, 2022]]）。
 > - **2020s — 数智异化与生成式 AI 批判重构** 面对大语言模型的全面渗透，[[Argument_Smith_2026_SPE|Smith (2026)]] 将弗莱雷的批判传统与[[Posthumanism|后人类主义]]技术哲学相融通，针对算法代劳造成的[[Formative Epistemic Injustice|成长性认识不正义]]，提出[[Alien Intelligence|异己智能]]（Alien Intelligence）审问与思维步骤全外显（Showing Steps）方案，开启批判教育学的数智技术防御转向。
 

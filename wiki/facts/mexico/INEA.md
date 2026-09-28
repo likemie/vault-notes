@@ -11,7 +11,7 @@ subtype: organization
 region: "mexico"
 fact_region: "mexico"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -25,23 +25,20 @@ tags:
   - corporatism
   - region/mexico
 related_concepts:
+  - "[[Attrition]]"
   - "[[Compensatory Legitimation]]"
   - "[[Popular Education]]"
-  - "[[Educational Level]]"
-  - "[[Categorical Funding]]"
 related_theories:
+  - "[[Neocorporatism]]"
   - "[[State Corporatism]]"
-  - "[[Conditioned State Theory]]"
-related_methods:
-  - "[[Case Study]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Carlos Alberto Torres]]"
-  - "[[Liliana Esther Olmos]]"
   - "[[Paulo Freire]]"
 related_facts:
+  - "[[World Bank]]"
   - "[[SNTE]]"
-  - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 confidence: high
@@ -71,8 +68,8 @@ updated: 2026-09-28
 
 > [!dev-timeline] 组织发展历程
 > - **1981–1988 年 — 创设与全国扫盲运动** 建立全国三级成人教育网络，发起国家扫盲计划（PRONALF），动用数十万志愿青年开展大规模扫盲，成为威权国家平息底层怨气的重要社会干预工程。
-> - **1990 年代 — 分权化与模块化转型** 响应世界银行与联邦政府分权化改革，将办学运营职能下放给各州成人教育学会（IEEA），并引入模块化生命与工作教育模式（MEVyT）。
-> - **2000 年代至今 — 社区数字化与原住民双语扫盲** 设立遍布全国的“社区广场”（Plazas Comunitarias），引入信息技术与原住民语言扫盲，但受制于财政预算缩水，成人教育依然面临生均投入微薄与流失率高的困境。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
+> - **1990 年代 — 分权化与模块化转型** 响应[[World Bank|世界银行]]与联邦政府分权化改革，将办学运营职能下放给各州成人教育学会（IEEA），并引入模块化生命与工作教育模式（MEVyT）。
+> - **2000 年代至今 — 社区数字化与原住民双语扫盲** 设立遍布全国的“社区广场”（Plazas Comunitarias），引入信息技术与原住民语言扫盲，但受制于财政预算缩水，成人教育依然面临生均投入微薄与[[Attrition|流失]]率高的困境。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 
 ---
 
@@ -91,8 +88,8 @@ updated: 2026-09-28
 
 ## 在批判教育政治社会学中的学术定性
 
-> [!citation-card] 托雷斯与莫拉莱斯-戈麦斯论 INEA 扫盲工程的补偿性合法化实质
-> 在墨西哥后革命国家的法团主义体制下，教育政策深受执政党维系统治统识的驱动。面对严重的社会不平等与底层抗争，国家并非致力于深层的社会财富再分配，而是将成人教育（以 INEA 为载体）作为全面推行补偿性合法化（Compensatory Legitimation）的综合工程，用微薄的边际教育资源换取大众对威权国家政治秩序的顺从与支持。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
+> [!citation-card] [[Carlos Alberto Torres|托雷斯]]与莫拉莱斯-戈麦斯论 INEA 扫盲工程的[[Compensatory Legitimation|补偿性合法化]]实质
+> 在墨西哥后革命国家的[[Neocorporatism|法团主义]]体制下，教育政策深受执政党维系统治统识的驱动。面对严重的社会不平等与底层抗争，国家并非致力于深层的社会财富再分配，而是将成人教育（以 INEA 为载体）作为全面推行补偿性合法化（Compensatory Legitimation）的综合工程，用微薄的边际教育资源换取大众对威权国家政治秩序的顺从与支持。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 >
 > *It has been argued that the corporatist nature of the postrevolutionary state has deeply conditioned the way educational policy has been organized, implemented, and evaluated, and that education (particularly adult education) in Mexico is part of a comprehensive project of compensatory legitimation.*
 
@@ -105,6 +102,6 @@ updated: 2026-09-28
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Compensatory Legitimation]] | 概念 | 作为批判教育社会学中补偿性合法化概念的最典型国家机构案例。 |
-> | [[State Corporatism]] | 理论 | 展现后革命国家如何利用扫盲机构将边缘阶层纳入法团主义庇护体系。 |
-> | [[Popular Education]] | 概念 | 其自上而下的官僚化扫盲模式与弗莱雷式自主批判的民众教育形成鲜明张力。 |
+> | [[State Corporatism]] | 理论 | 展现后革命国家如何利用扫盲机构将边缘阶层纳入[[Neocorporatism\|法团主义]]庇护体系。 |
+> | [[Popular Education]] | 概念 | 其自上而下的官僚化扫盲模式与[[Paulo Freire\|弗莱雷]]式自主批判的民众教育形成鲜明张力。 |
 > | [[SNTE]] | 事实 | 与全国教育工会在师资调配与成人扫盲政策上紧密互动。 |

@@ -8,7 +8,7 @@ summary: "国际著名教育经济学家、世界银行资深教育顾问与人�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Evaluation Research]]"
   - "[[International Education]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Policy Brokerage]]"
   - "[[Growth]]"
   - "[[Causality]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-28
 ---
 
 # George Psacharopoulos
@@ -105,7 +106,7 @@ updated: 2026-09-17
 > [!influence-path] 影响路径
 > - **理论路径** 将芝加哥学派[[Human Capital Theory\|人力资本理论]]转化为可操作的宏观公共政策分析工具，使教育经济学从一门纯理论学派跃升为指导全球南方教育政策的主导[[Paradigm\|范式]]。
 > - **机构转型路径** 亲手缔造了[[World Bank\|世界银行]]“自指性政策[[Evaluation Research\|应用研究]]帝国”，通过将借贷决策与明瑟回报率估算绑定，彻底终结了战后[[UNESCO\|联合国教科文组织]]在[[International Education\|国际教育]]发展领域的人文主义话语垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 542, 548)]]
-> - **政策转移路径** 主导了 1980 至 1990 年代撒哈拉以南非洲与拉美地区结构调整方案中的教育政策重组，推动了发展中国家基础教育免费与高等教育成本分担（收取学费）的全球普及。
+> - **政策转移路径** 主导了 1980 至 1990 年代撒哈拉以南非洲与拉美地区[[Structural Adjustment Programs|结构调整方案]]中的教育政策重组，推动了发展中国家基础教育免费与高等教育成本分担（收取学费）的全球普及。
 
 ---
 

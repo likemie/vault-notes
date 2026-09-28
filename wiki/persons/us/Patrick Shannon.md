@@ -7,7 +7,7 @@ summary: "美国著名批判教育学者、宾夕法尼亚州立大学读写教�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -37,6 +37,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
+  - "[[Michael W. Apple]]"
   - "[[Ken Goodman]]"
   - "[[G. Reid Lyon]]"
 related_facts:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-09-24
+updated: 2026-09-28
 ---
 
 # Patrick Shannon
@@ -73,7 +74,7 @@ updated: 2026-09-24
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1981** 于明尼苏达大学获得哲学博士学位，受[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）与迈克尔·阿普尔（Michael Apple）[[Critical Pedagogy|批判教育学]]深刻启发。
+> - **1981** 于明尼苏达大学获得哲学博士学位，受[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）与[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）[[Critical Pedagogy|批判教育学]]深刻启发。
 > - **1989** 出版代表作《破碎的诺言：美国识字教学中的阅读、商业化与文化》（*Broken Promises*），开创性揭露商业拼读练习册对公立教育的异化。
 > - **1991** 发表里程碑论文《阅读教育中的政策研究》，系统界定政策导向型、沟通型与批判型三类政策[[Paradigm|研究范式]]。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 11)]]
 > - **1998–2003** 联合埃德蒙森等学者深入宾夕法尼亚州乡村学区开展追踪调查，揭示阅读贫困与学校自主抵制联邦附条件拨款的合宪实践。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 13)]]

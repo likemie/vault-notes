@@ -5,7 +5,7 @@ aliases:
 summary: "在研究开始前公开登记研究设计、结果测量和分析计划的做法，用于减少事后调整、选择性报告和可疑研究实践。"
 type: concept
 domain: "research-methodology"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Clinical Trial]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Document]]"
   - "[[Counterfactual]]"
   - "[[Variable]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-02'
-updated: 2026-09-26
+updated: 2026-09-28
 ---
 
 # Preregistration
@@ -103,7 +104,7 @@ updated: 2026-09-26
 > [!citation-card] 独立评估规程与方案时间戳锁定
 > 借鉴[[Clinical Trial\|临床试验]]规范，所有资助试验必须在干预开展前公开发布预先制定的评估方案与统计分析计划（SAP），并在国际标准[[Randomised Controlled Trials\|随机对照试验]][[Coding in Qualitative Research\|编码]]（[[ISRCTN\|International Standard Randomised Controlled Trial Number]]，ISRCTN）注册平台登记，以此杜绝选择性报告并应对科学可复现性危机。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 51)]]
 >
-> *"All evaluations are protocol-driven and are pre-registered on the International Standard Randomised Controlled Trial Number (ISRCTN) registry... protocols and SAPs are published online ahead of trials starting, thereby preventing cherry-picking of results."*
+> *"All evaluations are protocol-driven and are pre-registered on the International Standard Randomised Controlled Trial Number (ISRCTN) registry... protocols and [[Structural Adjustment Programs|SAPs]] are published online ahead of trials starting, thereby preventing cherry-picking of results."*
 
 > [!boundary] 概念边界
 > - 不等于 [[Publication Bias\|发表偏倚]] 发表偏倚是[[Document\|文献]]库中系统性过滤零结果的宏观现象；预注册是微观与中观层面的前置解决方案。

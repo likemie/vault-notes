@@ -9,7 +9,7 @@ aliases:
 summary: "批判教育学揭示的教育本质属性，拒绝技术官僚主义的价值中立虚构，主张教育在认识论、分析与伦理维度上天然内嵌于权力关系、国家意志与意识形态对抗之中，学校教育本质上是多元社会政治经济方案博弈的争鸣场域"
 type: concept
 domain: "educational-philosophy"
-related_count: 34
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -53,6 +53,8 @@ related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
   - "[[Carlos Alberto Torres]]"
+  - "[[Michael W. Apple]]"
+  - "[[Martin Carnoy]]"
   - "[[Liliana Esther Olmos]]"
 related_facts:
   - "[[World Bank]]"
@@ -125,7 +127,7 @@ updated: 2026-09-28
 > [!claim] [[Paulo Freire|Freire, P.]] & [[Carlos Alberto Torres|Torres, C. A.]]
 > **知识的阶级筛选与灌输批判** 弗莱雷与托雷斯指出，任何教学法都内生着政治立场。将教育假定为中立信息传递的“[[Banking Model of Education|储蓄教育]]”（Banking Education）模式，本质上是统治阶级将自己的世界观强加于被压迫者的认知驯化手段；真正具有解放性的教育必须通过提问式对话，让受教育者意识到现实是被社会政治力量建构的，从而获得历史行动者的主体性。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 77–78)]]
 
-> [!claim] Apple, M. W.
+> [!claim] [[Michael W. Apple|Apple, M. W.]]
 > **[[Official Knowledge|官方知识]]的[[Hegemony|文化霸权]]再生产** 迈克尔·阿普尔指出，学校传授的知识从来不是中立或普遍适用的，而是特定统治群体精心筛选的“[[Official Knowledge|官方知识]]”；国家通过标准化大纲与高利害考试，将有助于维护资本积累与合法性统治的知识合法化，同时边缘化少数群体与工人阶级的经验世界。
 
 ---
@@ -135,7 +137,7 @@ updated: 2026-09-28
 > [!concept-lens] 政策诊断背后的国家理论透视
 > 阐明技术官僚对“教育危机”的界定绝非纯粹科学发现，而是服务于国家维系积累与合法化平衡的政治策略。
 
-> [!claim] Carnoy, M. & [[Carlos Alberto Torres|Torres, C. A.]]
+> [!claim] [[Martin Carnoy|Carnoy, M.]] & [[Carlos Alberto Torres|Torres, C. A.]]
 > **教育问题诊断内生于隐蔽的国家理论假定** 马丁·卡诺伊与托雷斯指出，界定教育的真实问题及适宜解法，根本上取决于支撑该诊断的国家理论。大多数教育政策研究自诩中立，却从未明确审视其理论前提；一旦将国家还原为资本积累与政治统治的工具，便可发现诸如“办学效率低下”、“教师问责不力”等危机诊断，本质上是国家为了削减公共开支、转移积累危机而推行的阶级话语。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 73, 77–78)]]
 
 > [!claim] [[Liliana Esther Olmos|Olmos, L. E.]] & [[Carlos Alberto Torres|Torres, C. A.]]
@@ -171,7 +173,7 @@ updated: 2026-09-28
 
 > [!dev-timeline] 概念演变
 > - **1968–1970 — [[Paulo Freire|弗莱雷]]奠定教育政治性[[Ontology|本体论]]基石** [[Paulo Freire|保罗·弗莱雷]]在流亡期间出版《被压迫者教育学》，正式提出教育具有固有的政治性（Politicidade），开创[[Critical Pedagogy|批判教育学]]传统。
-> - **1980s–1990s — 批判教育学与国家理论的深度结合** 迈克尔·阿普尔（Michael Apple）与亨利·吉鲁（Henry Giroux）等学者将政治性命题拓展至西方发达资本主义国家的意识形态国家机器分析与课程社会学研究。
+> - **1980s–1990s — 批判教育学与国家理论的深度结合** [[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）与亨利·吉鲁（Henry Giroux）等学者将政治性命题拓展至西方发达资本主义国家的意识形态国家机器分析与课程社会学研究。
 > - **2000s–2010s — [[Conditioned State Theory|受限国家]]与新自由主义全球化批判重构** [[Carlos Alberto Torres|托雷斯]]与[[Liliana Esther Olmos|奥尔莫斯]]（2009）将教育政治性理论引入外围依附性国家与新自由主义重组批判，揭露[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的技术中立欺骗性。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 77–80)]]
 > - **当代延伸 — 跨国量化测评与数字审计治理的去政治化解构** 当代批判学者运用教育政治性透镜，批判[[OECD|经合组织]]（OECD）[[PISA]] 测评与新自由主义以“中立科学数据”名义剥夺教师与公民对教育终极目的的民主审议权。
 

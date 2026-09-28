@@ -7,7 +7,7 @@ summary: "丹麦奥尔堡大学教育社会学与全球治理教授、牛津大�
 type: person
 nationality: "dk"
 person_region: "dk"
-person_related_count: 40
+person_related_count: 41
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Creativity]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Soft Power]]"
 related_theories:
   - "[[Hegemony]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-22
+updated: 2026-09-28
 ---
 
 # Christian Ydesen
@@ -174,7 +175,7 @@ updated: 2026-09-22
 > > 争论全球治理复合体是否低估了广大发展中国家对西方指标体系的本土[[Transfer Translation Transformation\|转译]]与抵抗能力。
 > >
 > > - **后殖民批判学者** 指出许多受援国官员在实践中对[[World Bank\|世行]]与 OECD 指标采取了象征性合规（Mock Compliance）策略。
-> > - **Elfert & Ydesen（2023）** 承认本土抵抗的存在，但强调债务结构调整与援助解付挂钩使得制度性依附在结构上难以撼动。
+> > - **Elfert & Ydesen（2023）** 承认本土抵抗的存在，但强调债务[[Structural Adjustment Programs|结构调整]]与援助解付挂钩使得制度性依附在结构上难以撼动。
 
 > [!warning] 未解问题与边界
 > 伊德森的研究主要立足于跨国组织总部与欧美核心成员国的历史档案，对于全球南方草根学校社区如何在微观日常实践中消化和对抗这些跨国指标规制，仍有待更多跨学科田野[[Ethnography\|民族志]]予以补充。

@@ -5,7 +5,7 @@ aliases:
 summary: "强调个体在关系中成其为人的非洲关系性伦理哲学，并在现代技术哲学与教育学中用于重构算法治理、促进共情与化解认识不正义。"
 type: concept
 domain: "educational-philosophy"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Transhumanism]]"
   - "[[Knowledge Production]]"
   - "[[Theory of Knowledge]]"
+  - "[[Pedagogical Subject]]"
   - "[[Creativity]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Critical Pedagogy]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: active
 created: '2026-05-08'
-updated: 2026-09-24
+updated: 2026-09-28
 ---
 
 # Ubuntu
@@ -137,7 +138,7 @@ updated: 2026-09-24
 
 本命题将乌班图外推至当代智能技术治理领域，为打破算法垄断与保护求知者主体性提供规范依据。
 
-> [!concept-lens] 算法伦理与教育主体性防御
+> [!concept-lens] 算法伦理与[[Pedagogical Subject|教育主体]]性防御
 > 聚焦自动化预测与生成式模型在专业实践中引发的信任危机与主体剥夺，构建对抗技术霸权的伦理防线。
 
 > [!claim] Ferlito, B., & De Proost, M.

@@ -11,10 +11,10 @@ aliases:
 summary: "在多元教育情境中对前人干预方案或实证发现进行独立重复检验的方法学机制，旨在克服小样本偏倚、开发者利益冲突与自编测验虚夸，确立研究成果的外部概化效度与实践可靠性"
 type: concept
 domain: "research-methodology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - replication
   - research-methodology
@@ -42,6 +42,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
+  - "[[Mark Ginsburg]]"
   - "[[Mark Schneider]]"
 related_facts:
   - "[[Institute of Education Sciences]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-17'
-updated: 2026-09-17
+updated: 2026-09-28
 ---
 
 # Replication in Education Research
@@ -105,7 +106,7 @@ updated: 2026-09-17
 > 探讨如何通过系统改变关键实施参数，克服单纯直接复现无法指导现实复杂采办的供给断层。
 
 > [!claim] [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]]
-> **多维参数扰动的改良型复现克服证据情境衰减** 金斯伯格等（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024]]）对大型城市学区 2.88 亿美元教育经费审计发现，单纯依靠在完全相同情境下重复实施的原样直接复现（Direct Replication），根本无法满足地方学区在多元现实生态中的采办需求。实证审计中有多达 26 项采购实践在目标学段检索不到任何实证研究，且大量研究呈现出严重的跨学段与跨群体情境迁移衰减。为此，研究者援引[[Mark Schneider\|施奈德]]（Schneider, 2021）的方法学主张，呼吁将科研资助重点转向**改良型复现（Modified Replications）**与**情境迁移研究（Transferability Studies）**——通过系统性地主动改变受试学生群体（如英语学习者、特殊教育）、学段层次（小学 vs 初高中）、区域生态（城市、郊区、农村）或交付机制（在岗教练辅导 vs 微课交付 vs 软件辅助）等一至多项核心[[Variable\|变量]]，精确测绘因果干预在不同现实条件下的有效性边界，防止学区因证据供给断层而滥用跨学段降维推断。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 177–180)]]
+> **多维参数扰动的改良型复现克服证据情境衰减** [[Mark Ginsburg|金斯伯格]]等（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024]]）对大型城市学区 2.88 亿美元教育经费审计发现，单纯依靠在完全相同情境下重复实施的原样直接复现（Direct Replication），根本无法满足地方学区在多元现实生态中的采办需求。实证审计中有多达 26 项采购实践在目标学段检索不到任何实证研究，且大量研究呈现出严重的跨学段与跨群体情境迁移衰减。为此，研究者援引[[Mark Schneider\|施奈德]]（Schneider, 2021）的方法学主张，呼吁将科研资助重点转向**改良型复现（Modified Replications）**与**情境迁移研究（Transferability Studies）**——通过系统性地主动改变受试学生群体（如英语学习者、特殊教育）、学段层次（小学 vs 初高中）、区域生态（城市、郊区、农村）或交付机制（在岗教练辅导 vs 微课交付 vs 软件辅助）等一至多项核心[[Variable\|变量]]，精确测绘因果干预在不同现实条件下的有效性边界，防止学区因证据供给断层而滥用跨学段降维推断。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 177–180)]]
 
 ---
 

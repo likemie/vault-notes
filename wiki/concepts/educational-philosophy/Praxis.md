@@ -8,7 +8,7 @@ aliases:
 summary: "指批判性反思与改造现实的行动之辩证统一，既是批判教育学中学习者打破压迫结构的行动准则，也是历史唯物主义融合冷面制度科学与炽热解放乌托邦的认识与行动哲学"
 type: concept
 domain: "educational-philosophy"
-related_count: 33
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -34,7 +34,9 @@ related_concepts:
   - "[[Avatar]]"
   - "[[Construct]]"
   - "[[Positivism]]"
+  - "[[Pedagogical Subject]]"
   - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Paradigm]]"
   - "[[Reflexivity]]"
   - "[[Metacognition]]"
@@ -50,6 +52,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
+  - "[[Daniel Bensaïd]]"
   - "[[Aristotle]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
@@ -70,7 +73,7 @@ updated: 2026-09-28
 ## 定义
 
 > [!def] 核心定义
-> 实践（Praxis / 实践哲学）在[[Critical Pedagogy|批判教育学]]与批判社会理论中，是指**批判性反思（Critical Reflection）与变革现实的自觉行动（Transformative Action）之间不可分割的辩证统一**。它拒斥将知识矮化为纯粹书斋式的经院思辨或技术官僚式的实用操作。在[[Paulo Freire\|弗莱雷]]（Paulo Freire）的解放教育学脉络中，实践是学习者突破“[[Culture of Silence|沉默文化]]”与实现人性化的唯一载体（[[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 8, 10]]）；在安东尼奥·葛兰西（Antonio Gramsci）、让-保罗·萨特（Jean-Paul Sartre）与丹尼尔·本赛德（Daniel Bensaïd）的马克思主义谱系中，实践哲学（Philosophy of Praxis）更进一步升华为一种将求实冷面的制度科学分析与炽热道德乌托邦融为一体、动员被压迫者建立广泛反抗联盟以重构国家与公共教育的总体性历史[[Epistemology|认识论]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, pp. 76–77, 85]]）。
+> 实践（Praxis / 实践哲学）在[[Critical Pedagogy|批判教育学]]与批判社会理论中，是指**批判性反思（Critical Reflection）与变革现实的自觉行动（Transformative Action）之间不可分割的辩证统一**。它拒斥将知识矮化为纯粹书斋式的经院思辨或技术官僚式的实用操作。在[[Paulo Freire\|弗莱雷]]（Paulo Freire）的解放教育学脉络中，实践是学习者突破“[[Culture of Silence|沉默文化]]”与实现人性化的唯一载体（[[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 8, 10]]）；在安东尼奥·葛兰西（Antonio Gramsci）、让-保罗·萨特（Jean-Paul Sartre）与[[Daniel Bensaïd|丹尼尔·本赛德]]（Daniel Bensaïd）的马克思主义谱系中，实践哲学（Philosophy of Praxis）更进一步升华为一种将求实冷面的制度科学分析与炽热道德乌托邦融为一体、动员被压迫者建立广泛反抗联盟以重构国家与公共教育的总体性历史[[Epistemology|认识论]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, pp. 76–77, 85]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调人类对世界的认识必须在具体的社会历史实践中生成、检验与发展；思维的真理性本质上是一个实践问题而非经院哲学争论。
@@ -96,7 +99,7 @@ updated: 2026-09-28
 ## 概念辨析
 
 > [!contrast-table] 思想史脉络中不同实践概念谱系的比较
-> | 维度 | [[Aristotle\|亚里士多德]]古典实践观（Praxis） | [[Paulo Freire\|弗莱雷]][[Critical Pedagogy\|批判教育学]]实践（Freirean Praxis） | 葛兰西/本赛德历史唯物主义实践哲学（Philosophy of Praxis） |
+> | 维度 | [[Aristotle\|亚里士多德]]古典实践观（Praxis） | [[Paulo Freire\|弗莱雷]][[Critical Pedagogy\|批判教育学]]实践（Freirean Praxis） | 葛兰西/[[Daniel Bensaïd\|本赛德]]历史唯物主义实践哲学（Philosophy of Praxis） |
 > |------|--------------------------------|-----------------------------------------|----------------------------------------------------------|
 > | **终极追求** | 自由城邦公民的善生活与至善德性（Eudaimonia） | 被压迫者的[[Conscientization\|批判意识觉醒]]、人性化与社会解放 | 瓦解资本主义文化与制度霸权，建立社会主义另类世界 |
 > | **主体构成** | 拥有闲暇的城邦精英公民（排斥奴隶与女性） | 处于边缘与被边缘化地位的受压迫大众与工农群体 | 批判知识分子与工人、农民、教师及大众运动结成的反抗历史联盟 |
@@ -148,7 +151,7 @@ updated: 2026-09-28
 > [!concept-lens] 马克思主义认识论重构
 > 探讨批判社会理论如何摆脱[[Positivism|实证主义]]的技术官僚冷血与空想社会主义的道德狂热，在历史辩证法中完成认识与行动的升华。
 
-> [!claim] [[Liliana Esther Olmos|Olmos, L. E.]], [[Carlos Alberto Torres|Torres, C. A.]] & Bensaïd, D.
+> [!claim] [[Liliana Esther Olmos|Olmos, L. E.]], [[Carlos Alberto Torres|Torres, C. A.]] & [[Daniel Bensaïd|Bensaïd, D.]]
 > **冷热双相融合赋予[[Critical Theory|批判理论]]不可替代的生命力** 两位学者承继本赛德与萨特的论断指出，资本主义无法解决自身派生的贫困、异化与生态浩劫，因而以实践哲学为核心的马克思主义始终是不可逾越的批判地平线。走出当代教育危机绝不能依赖技术官僚的指标修复，必须重构辩证法作为方法与认识之道，把求实的社会科学分析（冷面）与追求普遍解放的伦理乌托邦（炽热）紧密结合，从而在改造现实的具体斗争中不断激活实践的[[Creativity|创造力]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, pp. 76–77, 85]]）。
 
 ---
@@ -156,7 +159,7 @@ updated: 2026-09-28
 ### 命题三　教育实践是突破国家恩庇与跨国规训的集体政治组织行动
 
 > [!concept-lens] 政治社会学与反霸权斗争
-> 阐明实践如何从教育主体的自我意识拓展为社会各阶层的组织化政治实践，打破新自由主义寡头垄断。
+> 阐明实践如何从[[Pedagogical Subject|教育主体]]的自我意识拓展为社会各阶层的组织化政治实践，打破新自由主义寡头垄断。
 
 > [!claim] Olmos, L. E. & Torres, C. A.
 > **通过实践建立跨阶层广泛反抗同盟** 奥尔莫斯与托雷斯指出，新自由主义全球化模式在外围与中心国家的演进存在时间差与内在矛盾，依附国家的本土统治集团正变本加厉强推[[Endogenous and Exogenous Privatisation|教育私有化]]与分权化。单纯依赖孤立的个人抵制注定失败，必须将实践哲学落实为政治策略：联合被边缘化的教师工会、激进学生运动、工农社群与批判知识分子，形成广泛的反抗同盟，唯有通过这种组织化的集体实践，才能从根本上抵御金融智识复合体对公共教育的侵蚀（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, pp. 84–85]]）。
@@ -170,7 +173,7 @@ updated: 2026-09-28
 > |---|---|---|---|
 > | **教育认识论维度** | 实践是反思与行动的辩证统一，是衡量主动成长与克服沉默文化的唯一基准 | 批判课堂教学与师生主体性重塑 | Freire (1970); Darwish (2009) |
 > | **方法与哲学维度** | 实践哲学必须熔铸冷面制度剖析与炽热解放乌托邦，构成不可逾越的批判认识论 | 宏观教育政策政治经济学诊断 | Gramsci; Sartre; Bensaïd (1999); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]] |
-> | **政治与社会行动维度** | 真正的实践必须超越个体化修辞，演化为联合工会与大众运动的集体组织抗争 | 抵制教育私有化与结构调整运动 | Apple (1982); Torres (2007) |
+> | **政治与社会行动维度** | 真正的实践必须超越个体化修辞，演化为联合工会与大众运动的集体组织抗争 | 抵制教育私有化与[[Structural Adjustment Programs\|结构调整]]运动 | Apple (1982); Torres (2007) |
 
 ---
 

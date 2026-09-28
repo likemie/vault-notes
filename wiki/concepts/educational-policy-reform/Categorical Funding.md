@@ -11,7 +11,7 @@ aliases:
 summary: "由政府机构、研究理事会或多边金融机构预先限定研究主题、目标与方法学规程的资助模式，研究者通过竞标以合同工形式承接项目。在当代教育治理中，它推动了教育研究从学术自发探索（蓝天研究）向服务于赞助方政策目标与意识形态规训的系统性转变。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
   - "[[New Public Management]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Variable]]"
 related_theories:
@@ -42,6 +43,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
 related_persons:
+  - "[[Joel Samoff]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
 related_facts:
@@ -146,7 +148,7 @@ updated: 2026-09-28
 > [!concept-lens] 全球治理与跨国智力霸权维度
 > 探讨定向委托研究如何在跨国层面上与信贷附加条件相结合，成为塑造全球南方教育体系的意识形态工具。
 
-> [!claim] Samoff, J.
+> [!claim] [[Joel Samoff|Samoff, J.]]
 > **受雇专家共同体与智力垄断** 乔尔·萨莫夫指出，[[World Bank|世界银行]]利用巨额信贷预算委托长周期定向研究，招募庞大的受雇专家共同体。这些定向研究清一色建立在新古典经济学、[[Human Capital Theory|人力资本理论]]和厂商理论之上，通过将成本效益与收益率计算裁定为唯一合法的评价准则，系统性压制了第三世界本土学者的批判性思考。[[Argument_Olmos_Torres_2009_StateTheories|(Samoff, 1992, 1993, cited in Olmos & Torres, 2009, pp. 80–81)]]
 
 ---
@@ -167,7 +169,7 @@ updated: 2026-09-28
 > [!dev-timeline] 概念演变
 > - **1980年代 — 英国与西方[[New Public Management|新公共管理]]兴起** 撒切尔主义与新公共管理（NPM）重构公共科研资助体制，政府部门开始大规模压缩无条件的大学区块拨款，转向针对具体政策目标的定向分类招标。
 > - **1993 — 学术自主性危机反思** 伯吉斯（Burgess）与桑戴（Sanday）发表经典论文，系统揭示分类资助如何通过合同劳工化与数据所有权转让，对教育学术独立性造成结构性破坏。
-> - **1990–2000年代 — 跨国多边金融机构全球化扩张** 以[[World Bank|世界银行]]为核心的国际组织将定向委托研究机制推向全球，通过雇佣跨国专家团队，将量化投入产出分析与结构调整挂钩。
+> - **1990–2000年代 — 跨国多边金融机构全球化扩张** 以[[World Bank|世界银行]]为核心的国际组织将定向委托研究机制推向全球，通过雇佣跨国专家团队，将量化投入产出分析与[[Structural Adjustment Programs|结构调整]]挂钩。
 > - **2009 — [[Conditioned State Theory|受限国家]]视阈下的政治经济整合** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]将跨国定向委托研究正式定性为[[Financial-Intellectual Complex|金融-智识复合体]]的霸权运作机制。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 
 ---

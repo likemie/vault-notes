@@ -9,7 +9,7 @@ aliases:
 summary: "比较教育学在两次世界大战之间形成的政治哲学二元类型学，深刻区分以国家强权、意识形态灌输与政治极权动员为特征的政治民族主义，与以文化传统传承、公民健全心智发展及国际主义理解为导向的文化民族主义。"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,6 +37,7 @@ related_persons:
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
   - "[[Andreas Kazamias]]"
+  - "[[David Held]]"
 related_facts:
   - "[[UNESCO]]"
 related_arguments:
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-22
+updated: 2026-09-28
 ---
 
 # Cultural Nationalism vs. Political Nationalism
@@ -152,7 +153,7 @@ updated: 2026-09-22
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **19 世纪末至 20 世纪初 — 浪漫主义文化自觉向侵略性帝国沙文主义蜕变** 赫尔德尔（Herder）早期倡导的语言文化认同逐渐被第一次世界大战前列强争霸的帝国政治民族主义所绑架，引发全球文明危机。
+> - **19 世纪末至 20 世纪初 — 浪漫主义文化自觉向侵略性帝国沙文主义蜕变** [[David Held|赫尔德]]尔（Herder）早期倡导的语言文化认同逐渐被第一次世界大战前列强争霸的帝国政治民族主义所绑架，引发全球文明危机。
 > - **1930 年代 — [[Isaac Kandel\|坎德尔]]奠定二元类型学与极权主义批判** 坎德尔在 1933 年《比较教育》与 1934 年《纳粹的塑造》中系统确立文化民族主义与政治民族主义的对立范畴，为民主国家在极权围剿中提供防线。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933; Kazamias, 2009: 48–49)]]
 > - **战后初期 — [[UNESCO\|联合国教科文组织]]（UNESCO）与国际理解教育实践** 二战结束后，坎德尔与汉斯作为国际机构顾问，将文化民族主义与国际主义的辩证逻辑转化为联合国教科文组织推动战后精神重建与多元文化教育的行动纲领。
 > - **冷战至今 — 后冷战民族复兴与全球[[Going Native\|本土化]]反思** 随着全球化浪潮与新民粹主义抬头，文化民族主义再次成为学者反思全球同质化与新排外主义张力的重要理论透镜。

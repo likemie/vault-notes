@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Document]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Return on Investment]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Development Turn in Comparative Education]]"
@@ -154,7 +155,7 @@ updated: 2026-09-28
 > > [!axis] 放贷权力缺失下的多边边缘化争议：规范倡导 vs 制度牙齿
 > > 比较教育政治学长期批评教科文组织“倡导有余、执行乏力”。
 > >
-> > - **批判制度学者（King, 2007; Mundy, 1998; Elfert & Ydesen, 2023）** 指出，与手握巨额资金和结构调整附加条件的[[World Bank\|世界银行]]相比，教科文组织缺乏直接的金融放贷杠杆和刚性惩戒手段；自 1980 年代世界银行自立门户以来，教科文组织在全球南方教育治理中的实际制度权重遭到显著稀释，常沦为务虚峰会召集者与软性宣言起草者。
+> > - **批判制度学者（King, 2007; Mundy, 1998; Elfert & Ydesen, 2023）** 指出，与手握巨额资金和[[Structural Adjustment Programs|结构调整]]附加条件的[[World Bank\|世界银行]]相比，教科文组织缺乏直接的金融放贷杠杆和刚性惩戒手段；自 1980 年代世界银行自立门户以来，教科文组织在全球南方教育治理中的实际制度权重遭到显著稀释，常沦为务虚峰会召集者与软性宣言起草者。
 > > - **教科文组织立场** 强调教育的根本性质是文化、精神与人格的自由养成，不能屈从于金融机构的短期[[Return on Investment\|投资回报]]率；道德权威、多边民主协商与普遍合法性正是防范教育全面私有化与工具化的最后防线。
 > >
 > > [!axis] 财政依附、官僚迟钝与地缘政治瘫痪

@@ -59,6 +59,7 @@ related_persons:
   - "[[Miranda Fricker]]"
   - "[[Christopher Martin]]"
   - "[[Paulo Freire]]"
+  - "[[Michael W. Apple]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -73,7 +74,7 @@ title: "Argument_Smith_2026_SPE"
 argument_key: "Argument_Smith_2026_SPE"
 argument_display_title: "Generative artificial intelligence, formative epistemic injustice, and educators’ solutions"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -200,7 +201,7 @@ issuing_organization: ""
 #### 1. 读写教育的工具化蜕变：从道德真理探究退化为模式识别套路
 
 > [!theory-position] 英语教育史的工具化演变：从探究至善退化为技术套路
-> 追溯英语教育史，阿瑟·阿普尔比（Arthur Applebee, 1974）与罗斯·柯林（Ross Collin, 2024）指出，美国早期读写教育的初衷是让学生通过阅读理解道德与神学真理，探索生命与社会的至善。然而，随着中小学教育全面屈从于政客要求的技能培训，读写教学被严重异化：“人们阅读不再是为了探索善，而是为了寻找中心句和圈出过渡词。”（Collin, 2024, p. 16/149; p. 5）
+> 追溯英语教育史，阿瑟·[[Michael W. Apple|阿普尔]]比（Arthur Applebee, 1974）与罗斯·柯林（Ross Collin, 2024）指出，美国早期读写教育的初衷是让学生通过阅读理解道德与神学真理，探索生命与社会的至善。然而，随着中小学教育全面屈从于政客要求的技能培训，读写教学被严重异化：“人们阅读不再是为了探索善，而是为了寻找中心句和圈出过渡词。”（Collin, 2024, p. 16/149; p. 5）
 
 > [!tension] 高利害测验催生套路写作与师生焦虑
 > 这种狭隘的技能导向与[[High-Stakes Testing|高利害测验]]（High-Stakes Testing）深度捆绑。朱莉·埃尔·勒恩德等（Julie E. Learned et al., 2020）实证指出，高利害测验导致学生产生严重的情绪困扰，并迫使教师在课堂中推行套路化公式写作（Formulaic Writing）。威廉·戴维斯（William Davies, 2022）尖锐指出，这种套路写作高度依赖信息处理与模式识别，彻底驱逐了读写中最宝贵的人文心智——主观阐释与深层理解；而计算机最擅长这种信息处理。这种将读写教学向计算机算力对齐的倾向，构成了[[Computerization of Education|教育计算机化]]（Computerization of Literacy Education）。（pp.5–6）

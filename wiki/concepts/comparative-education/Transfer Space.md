@@ -8,7 +8,7 @@ aliases:
 summary: "Osmany Porto de Oliveira 与 Cecilia Osorio Gonnet (2023) 提出的分析空间概念，指全球与国家/地方尺度交互缠绕的关系性竞技场，用于解构国家内部不同功能部门对外部政策证据的差异化接收、翻译、抗拒与投射机制。"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Methodological Transnationalism]]"
   - "[[Relational Space]]"
   - "[[Variable]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Attrition]]"
   - "[[Document]]"
   - "[[Externalization]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-26
+updated: 2026-09-28
 ---
 
 # Transfer Space
@@ -87,7 +88,7 @@ updated: 2026-09-26
 > |---|---|---|---|
 > | **国家认知本体** | 解构的国家：区分咨询、行政与立法功能层析 | 均质封闭黑箱：视民族国家为统一政策行动者 | 被动从属体：国家沦为核心帝国的受宰制客体 |
 > | **全球与本土关系** | 相互依存的[[Relational Space\|关系性空间]]，内外界限流动 | 内外截然二元分立，“国际”被视为外在环境[[Variable\|变量]] | 单向垂直灌输，全球力量具有绝对霸权与依附性 |
-> | **证据流动特征** | 周期性断裂：议程设置高调动员，行政出台深度过滤 | 视为纯粹国内利益博弈或理性政策学习结果 | 强制性政策捆绑与全盘结构调整依附 |
+> | **证据流动特征** | 周期性断裂：议程设置高调动员，行政出台深度过滤 | 视为纯粹国内利益博弈或理性政策学习结果 | 强制性政策捆绑与全盘[[Structural Adjustment Programs\|结构调整]]依附 |
 > | **代表性分析视角** | [[Methodological Transnationalism\|方法论跨国主义]]与关系性网络治理 | 传统比较政治学与国家中心主义 | 世界体系论与激进[[Dependency Theory\|依附理论]] |
 
 ---

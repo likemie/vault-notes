@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -38,7 +38,8 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Mark Ginsburg]]"
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[Elementary and Secondary Education Act of 1965]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-09-27
+updated: 2026-09-28
 ---
 
 # Education Resources Information Center
@@ -115,7 +116,7 @@ updated: 2026-09-27
 > > [!axis] 通用[[Document\|文献]]索引 vs 专用证据分级清算
 > > 关于 ERIC 与 [[What Works Clearinghouse\|WWC]] / [[Evidence for ESSA]] 等专用证据平台职能定位的辨析。
 > >
-> > - **证据库广度优势（文献发现中枢）** 金斯伯格等（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, p. 171]]）在审计学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 采购实践时，将 ERIC 与 WWC、Evidence for [[Every Student Succeeds Act\|ESSA]] 及 [[Education Endowment Foundation\|EEF]] 并列为 4 个核心检索来源。相比后三者只收录经过严格因果质评过滤的少数标准化项目，ERIC 能够提供跨越各细分学科与边缘形态的更广泛实证文献。
+> > - **证据库广度优势（文献发现中枢）** [[Mark Ginsburg|金斯伯格]]等（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, p. 171]]）在审计学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 采购实践时，将 ERIC 与 WWC、Evidence for [[Every Student Succeeds Act\|ESSA]] 及 [[Education Endowment Foundation\|EEF]] 并列为 4 个核心检索来源。相比后三者只收录经过严格因果质评过滤的少数标准化项目，ERIC 能够提供跨越各细分学科与边缘形态的更广泛实证文献。
 > > - **证据评级缺位（实践筛选门槛高）** ERIC 本质上是[[Literature Search\|文献检索]]与索引系统，不提供类似 WWC 的因果[[Effect Size\|效应量]]、挂锁评级或 ESSA Tier I–IV 官方认证标志。一线中小学管理者若缺乏足够的科研素养，极难从数千篇相互冲突的检索结果中辨析研究设计的[[Internal Validity\|内部效度]]与偏倚风险。
 
 ---

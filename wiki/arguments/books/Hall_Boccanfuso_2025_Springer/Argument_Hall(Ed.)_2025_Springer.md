@@ -10,7 +10,7 @@ title: "Argument_Hall(Ed.)_2025_Springer"
 argument_key: "Argument_Hall(Ed.)_2025_Springer"
 argument_display_title: "University-Industry Collaboration: Innovation at the Interface"
 argument_kind: "book"
-argument_related_count: 89
+argument_related_count: 90
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -88,6 +88,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[National Science Foundation]]"
+  - "[[Business Roundtable]]"
   - "[[European Standards and Guidelines]]"
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
@@ -162,7 +163,7 @@ citation_aliases:
 > [!info]- 核心数据
 > 在美国，企业通常只支持不到 6% 的大学研究总支出。即便是产业资助最大的大学（UT M.D. Anderson、Duke、UPenn、MIT，均超过每年 1.5 亿美元），也只占到其研究总支出的 20%（[[National Science Foundation\|NSF]], 2023）。联邦政府才是大学研究的最大资助方，占比远超过一半(p.5)。这意味着产学合作的驱动力不应是大学的财务需求——产业资金在大学预算中始终是次要角色。
 
-弗里德曼(Friedman, 1970)的股东至上论——"企业的社会责任就是增加利润"——与商业圆桌会议(Business Roundtable, 2019)的多方利益相关者宣言，代表了企业目的观的两种极端立场；[[European Standards and Guidelines|ESG]] 投资和社会目的公司（Social Purpose and Benefit Corporations）则提供了中间路径(pp.5–6)。理解这些不同的企业目的观，是理解"在何处对齐、在何处妥协"的前提。
+弗里德曼(Friedman, 1970)的股东至上论——"企业的社会责任就是增加利润"——与[[Business Roundtable|商业圆桌会]]议(Business Roundtable, 2019)的多方利益相关者宣言，代表了企业目的观的两种极端立场；[[European Standards and Guidelines|ESG]] 投资和社会目的公司（Social Purpose and Benefit Corporations）则提供了中间路径(pp.5–6)。理解这些不同的企业目的观，是理解"在何处对齐、在何处妥协"的前提。
 
 ### 结构性挑战
 

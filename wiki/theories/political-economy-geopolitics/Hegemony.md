@@ -9,7 +9,7 @@ aliases:
 summary: "Antonio Gramsci (1971) 的权力理论：区分强制与霸权，指支配群体通过法律、教育、媒体、科学、大学及智能算法等文化制度，正当化其统治并赢得被统治者积极同意的治理机制。在教育中，学校课程、全球大学排名与平台技术嵌入充当了制造文化共识与自然化中心—边缘等级的霸权装置。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 38
+theory_related_count: 39
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -64,6 +64,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
+  - "[[Michael W. Apple]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Marginson_2025_ECNUROE]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-13
-updated: 2026-09-22
+updated: 2026-09-28
 ---
 
 # Hegemony
@@ -105,7 +106,7 @@ updated: 2026-09-22
 
 > [!dev-timeline] 理论版本与贡献
 > - **1929–1935 — 葛兰西狱中奠基** Antonio Gramsci 区分直接强制与文化霸权，确立国家不仅是镇压机器，更是通过教育和文化装置教育被统治者以取得积极同意的伦理实体。
-> - **1970–1980 年代 — 英语学术圈拓展与[[Critical Pedagogy\|批判教育学]]** 随着英译本出版，斯图亚特·霍尔（Stuart Hall）将其引入文化研究；[[Paulo Freire\|保罗·弗莱雷]]与迈克尔·阿普尔（Michael Apple）将其转化为[[Critical Pedagogy\|批判教育学]]，剖析国家教科书作为“[[Official Knowledge\|官方知识]]”的霸权筛选机制。
+> - **1970–1980 年代 — 英语学术圈拓展与[[Critical Pedagogy\|批判教育学]]** 随着英译本出版，斯图亚特·霍尔（Stuart Hall）将其引入文化研究；[[Paulo Freire\|保罗·弗莱雷]]与[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）将其转化为[[Critical Pedagogy\|批判教育学]]，剖析国家教科书作为“[[Official Knowledge\|官方知识]]”的霸权筛选机制。
 > - **2024 — 课程话语与边缘群体反思抵抗** [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] 分析 217 册必修教材与少数民族学生访谈，实证展示课程如何通过“师生隐喻”自然化汉文化中心霸权，以及边缘主体利用自身文化资源实施的反霸权解构。
 > - **2025 — [[Geopolitics of Higher Education\|高等教育地缘政治]]理论化** [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]] 将霸权理论全面引入[[Geopolitics of Higher Education\|高等教育地缘政治]]，替代[[World-Systems Theory\|世界体系理论]]，论证英美大学全球扩张与[[Global Universities Rankings\|全球大学排名]]如何制造全球学术共识与自我[[Disciplina and Doctrina\|规训]]。
 > - **2026 — 算法文化霸权与制度化嵌入批判** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 揭示[[Generative Artificial Intelligence\|生成式人工智能]]在训练数据中深度固化强势文化与精英规范，批判高校集中采购与平台捆绑将学术工作推向制度化依赖，指责其在抹平证据[[Heterogeneity\|异质性]]的同时隐蔽再生产主导阶层文化霸权，侵害认识正义。

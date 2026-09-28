@@ -8,10 +8,10 @@ aliases:
 summary: "资本主义或法团主义国家在面对资本积累矛盾与深刻社会不平等引发的合法性赤字时，将教育扩张（特别是成人教育、扫盲与入学机会扩增）作为代偿性政治整合机制，以在不触动阶级支配结构的前提下换取大众顺从与政治霸权维护"
 type: concept
 domain: "educational-policy-reform"
-related_count: 16
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/educational-policy
   - political-economy
@@ -20,7 +20,10 @@ tags:
   - corporatism
 related_concepts:
   - "[[Social Science as Legitimation Alibi]]"
+  - "[[Pact of Domination]]"
   - "[[Dual School System]]"
+  - "[[Import Substitution Industrialisation]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Critical Pedagogy]]"
   - "[[Popular Education]]"
   - "[[Variable]]"
@@ -38,7 +41,8 @@ related_persons:
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Paulo Freire]]"
-related_facts: []
+related_facts:
+  - "[[Latin American Debt Crisis of 1982]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 confidence: high
@@ -111,7 +115,7 @@ updated: 2026-09-28
 > 探讨威权或依附型国家如何在不触动根本经济所有制与财富分配的前提下，通过动用教育福利作为政治减震器。
 
 > [!claim] [[Liliana Esther Olmos|Olmos, L. E.]] & [[Carlos Alberto Torres|Torres, C. A.]]
-> **阶级冲突的象征性吸纳** 在资本主义外围[[Conditioned State Theory|受限国家]]中，统治同盟面对深重的经济停滞与群众抗议时，无法推行根本性的收入再分配，因而将大众教育普及（尤其是初等识字与成人教育）作为政治替代品；通过向被排斥群体施予受教育的象征性希望，国家成功平抑了潜在的革命危机，维系了政权霸权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
+> **阶级冲突的象征性吸纳** 在资本主义外围[[Conditioned State Theory|受限国家]]中，[[Pact of Domination|统治同盟]]面对深重的经济停滞与群众抗议时，无法推行根本性的收入再分配，因而将大众教育普及（尤其是初等识字与成人教育）作为政治替代品；通过向被排斥群体施予受教育的象征性希望，国家成功平抑了潜在的革命危机，维系了政权霸权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 
 ---
 
@@ -130,8 +134,8 @@ updated: 2026-09-28
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **危机吸纳命题** | 教育作为边际福利替代财富再分配，平息政权合法性危机 | 威权后革命国家、拉美债务危机期 | Morales-Gómez & Torres (1990); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 83)]] |
-> | **双轨分层命题** | 规模扩张伴随质量隔离，名义平等巩固实质阶级固化 | 外围依附国家、进口替代工业化后期 | Schiefelbein (1998); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 82)]] |
+> | **危机吸纳命题** | 教育作为边际福利替代财富再分配，平息政权合法性危机 | 威权后革命国家、[[Latin American Debt Crisis of 1982\|拉美债务危机]]期 | Morales-Gómez & Torres (1990); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 83)]] |
+> | **双轨分层命题** | 规模扩张伴随质量隔离，名义平等巩固实质阶级固化 | 外围依附国家、[[Import Substitution Industrialisation\|进口替代工业化]]后期 | Schiefelbein (1998); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 82)]] |
 
 ---
 
@@ -141,7 +145,7 @@ updated: 2026-09-28
 > - **1973 — 积累与合法化危机理论** 詹姆斯·奥康纳（James O'Connor）在《国家的财政危机》中提出资本主义国家必须兼顾积累与合法化双重矛盾职能，奠定理论前驱。
 > - **1980年代 — 魏勒论教育合法化** 汉斯·魏勒（Hans N. Weiler）系统分析现代国家如何将教育规划与科研作为平抑治理矛盾的补偿性合法化机制。
 > - **1990/1991 — [[State Corporatism|国家法团主义]]结合** [[Carlos Alberto Torres|托雷斯]]（Torres）与莫拉莱斯-戈麦斯将该概念植入拉美国家[[Neocorporatism|法团主义]]分析，明确指出成人扫盲是墨西哥政权的补偿性工程。
-> - **2009 — 全球化结构调整视阈拓展** [[Liliana Esther Olmos|奥尔莫斯]]（Olmos）与托雷斯（Torres）将补偿性合法化拓展至新自由主义全球化下[[Conditioned State Theory|受限国家]]的应对策略，揭示市场化改革中的边际福利吸纳功能。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
+> - **2009 — 全球化[[Structural Adjustment Programs|结构调整]]视阈拓展** [[Liliana Esther Olmos|奥尔莫斯]]（Olmos）与托雷斯（Torres）将补偿性合法化拓展至新自由主义全球化下[[Conditioned State Theory|受限国家]]的应对策略，揭示市场化改革中的边际福利吸纳功能。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 
 ---
 
