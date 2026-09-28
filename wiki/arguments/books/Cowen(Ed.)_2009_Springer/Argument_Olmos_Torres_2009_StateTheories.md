@@ -45,6 +45,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Import Substitution Industrialisation]]"
   - "[[Structural Adjustment Programs]]"
+  - "[[Permeable State]]"
 related_theories:
   - "[[World Society Theory]]"
   - "[[Conditioned State Theory]]"
@@ -78,6 +79,10 @@ related_persons:
   - "[[Adriana Puiggrós]]"
   - "[[David Held]]"
   - "[[Atilio Borón]]"
+  - "[[Robert Arnove]]"
+  - "[[Mark Ginsburg]]"
+  - "[[Neil Smelser]]"
+  - "[[Larissa Adler Lomnitz]]"
 related_facts:
   - "[[World Bank]]"
   - "[[OECD]]"
@@ -98,9 +103,9 @@ title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches"
 argument_kind: "book-chapter"
-argument_related_count: 59
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 64
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
 journal: ""
 book_title: "International Handbook of Comparative Education"
@@ -182,7 +187,7 @@ issuing_organization: ""
 > 战后主流的[[World Society Theory|世界文化理论]]认为，全球教育扩张是现代国家模仿单一世界[[Cultural Models|文化模型]]、追求公民权利与经济竞争力的自然趋同过程。然而，这种解释预设了一个仿佛在 1945 年突然降临的大爆炸假说（Big Bang），割断了历史联系，无法解释为什么第三世界国家在经历了相同名义的教育扩张后，普遍演化出富人与穷人泾渭分明的阶级[[Dual School System|双轨学制]]。（pp. 74–75）
 
 > [!claim] 核心判断：非历史的普世叙事抹杀了殖民压迫与外围资本积累的残酷现实
-> 世界文化理论假定全球存在一个均质的价值体系，各国政府建立学校只是为了培育现代化公民。但是，正如[[Colonial State Theory|殖民国家理论]]所指出的，殖民与后殖民历史表明，第三世界国家并不是主动选择学校制度的，而是在不同历史时期被动接入全球资本主义体系的结果。殖民时期的宗主国完全不需要通过教育换取被统治者的政治认同，其设立的有限学校主要用于满足资源掠夺和培养初级行政仆从；后殖民时期的教育扩张，则不可避免地承受着资本积累需求与本土历史遗产的双重制约。（pp. 74–76）
+> 世界文化理论假定全球存在一个均质的价值体系，各国政府建立学校只是为了培育现代化公民。但是，正如[[Colonial State Theory|殖民国家理论]]所指出的，殖民与后殖民历史表明，第三世界国家并不是主动选择学校制度的，而是在不同历史时期被动接入全球资本主义体系的结果。正如[[Martin Carnoy|马丁·卡诺伊]]与[[Joel Samoff|乔尔·萨莫夫]]（Carnoy & Samoff, 1990）、托雷斯（Torres, 1991）以及[[Mark Ginsburg|马克·金斯伯格]]（Mark Ginsburg, 1991）对剧烈社会转型中国家教育改革研究所阐明的，教育制度的变迁始终深刻嵌入在国家权力、意识形态与经济积累的矛盾之中。殖民时期的宗主国完全不需要通过教育换取被统治者的政治认同，其设立的有限学校主要用于满足资源掠夺和培养初级行政仆从；后殖民时期的教育扩张，则不可避免地承受着资本积累需求与本土历史遗产的双重制约。（pp. 74–76）
 
 两种分析路径在解释驱动力、历史因果与国家职能上存在根本分歧。
 
@@ -244,7 +249,7 @@ issuing_organization: ""
 > 从 20 世纪 70 年代末开始，资本主义全球扩张改变了民族国家与公共教育的关系。跨国金融资本为了压低用工成本、拓展投资市场，联合国际组织对发展中国家施加强大压力，迫使国家从公共福利领域撤退，并将教育从基本公民权利彻底重组为由个人买单的私人物品。（pp. 79–80）
 
 > [!claim] 核心判断：市场化改革不是为了提升教育质量，而是统治阶层削减公共开支的阶级策略
-> [[David Held|戴维·赫尔德]]（David Held, 1991）等学者的分析表明，跨国公司（Transnational Corporations, TNCs）推动的全球化让跨国资本获得了逃避国家监管和税收的巨大自由，而民族国家为了吸引外资，转而向国内大众推行紧缩政策。[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen Ball, 1993）指出，推崇教育市场竞争、把学校推向自负盈亏，本质上是一场精巧的阶级策略：国家将教育投资失败的责任转嫁给底层家庭，同时让拥有财富的优势阶层在私立教育市场中牢牢锁定阶层优势。（pp. 79–80）
+> [[David Held|戴维·赫尔德]]（David Held, 1991）等学者的分析表明，跨国公司（Transnational Corporations, TNCs）推动的全球化让跨国资本获得了逃避国家监管和税收的巨大自由，而民族国家为了吸引外资，转而向国内大众推行紧缩政策。正如[[Neil Smelser|尼尔·斯梅尔塞]]（Neil Smelser, 1993）所深刻指出的，生产全球化已使得原本作为公民忠诚与团结核心象征的主权国家边界变得高度多孔与通透（[[Permeable State|多孔国家]]），削弱了国家抵御外部紧缩规训的能力。[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen Ball, 1993）指出，推崇教育市场竞争、把学校推向自负盈亏，本质上是一场精巧的阶级策略：国家将教育投资失败的责任转嫁给底层家庭，同时让拥有财富的优势阶层在私立教育市场中牢牢锁定阶层优势。（pp. 79–80）
 
 国际金融组织在此背景下通过[[Structural Adjustment Programs|结构调整方案]]（Structural Adjustment Programs, SAPs）向外围国家推行了一整套紧缩性政策组合。
 
@@ -343,7 +348,7 @@ issuing_organization: ""
 > 墨西哥政府在法律上确立了[[SNTE|全国教育工作者工会]]（Sindicato Nacional de Trabajadores de la Educación, SNTE）对公立学校教师的绝对代表权，将数十万教师牢牢绑定在革命制度党（Partido Revolucionario Institucional, PRI）恩庇体系中。面对数以百万计的失学农民和文盲，政府于 1980 年代成立[[INEA|全国成人教育学会]]（Instituto Nacional para la Educación de los Adultos, INEA），在全国推行扫盲运动。托雷斯（Torres, 1991）与莫拉莱斯-戈麦斯（Morales-Gómez）的实证研究表明，这项扫盲政策的主要功能并不是为了实质提升工农的政治经济地位，而是作为补偿性合法化的关键手段：通过给予底层大众受教育的象征性希望，平息社会不满，巩固一党威权体制。（pp. 83–84）
 
 > [!case] 智利新自由主义教育券私有化与中产阶级受挫（Lomnitz & Melnick, 1991）
-> 智利皮诺切特军政权按照世界银行和新自由主义经济学的标准处方，激进推行学校私有化、发放教育券并全面推行使用者付费。洛姆尼茨与梅尔尼克（Lomnitz & Melnick, 1991）的[[Fieldwork|实地调查]]记录了这场改革对智利社会的残酷冲击：公立学校名誉扫地、设施破败；曾经体面的普通中产家庭为了让子女进入私立学校，不得不承担极其沉重的债务负担。这场改革撕下了自由选择的面具，证明了市场化教育实质上是资产阶级剥夺大众平民受教育权的制度暴力。（pp. 79, 85）
+> 智利皮诺切特军政权按照世界银行和新自由主义经济学的标准处方，激进推行学校私有化、发放教育券并全面推行使用者付费。[[Larissa Adler Lomnitz|拉里萨·阿德勒·洛姆尼茨]]与梅尔尼克（Lomnitz & Melnick, 1991）的[[Fieldwork|实地调查]]记录了这场改革对智利社会的残酷冲击：公立学校名誉扫地、设施破败；曾经体面的普通中产家庭为了让子女进入私立学校，不得不承担极其沉重的债务负担。这场改革撕下了自由选择的面具，证明了市场化教育实质上是资产阶级剥夺大众平民受教育权的制度暴力。（pp. 79, 85）
 
 > [!case] 世界银行贷款附加条件与阿根廷布宜诺斯艾利斯大学重构（Schugurensky, 1994）
 > [[Daniel Schugurensky|舒古伦斯基]]（Schugurensky, 1994）对阿根廷历史最悠久、规模最大的布宜诺斯艾利斯大学（Universidad de Buenos Aires, UBA）的[[Case Study|个案研究]]表明，世界银行利用结构调整贷款作为施压工具，要求阿根廷政府压缩国立大学财政预算，强行要求公立大学在研究生阶段开征学费、面向企业创收自筹资金，并推行技术官僚考核。这项干预旨在削弱拉美大学传统上浓厚的人文社会科学批判传统，迫使高深学府沦为依附于跨国资本积累的职业技能培训所。（pp. 81, 85）
@@ -376,7 +381,7 @@ issuing_organization: ""
 中心与外围的时空错配，激化了外围国家的社会矛盾。
 
 > [!claim] 核心判断：新自由主义危机的时间差，为外围社会构筑反抗同盟提供了客观契机
-> 新自由主义模式的演进在中心国家与外围国家呈现出非对称节奏。在欧美中心国家，新自由主义模式的弊端早已暴露并引发广泛的学术和政治危机；然而在拉美外围国家，依附于跨国资本的本土买办精英却依然在死抱教条、变本加厉地推行私有化。这种时代错位不仅激化了国内矛盾，更促使学生、工会、贫困社群和知识分子看清现实，为建立广泛的抵抗联盟创造了客观条件。（p. 85）
+> 新自由主义模式的演进在中心国家与外围国家呈现出非对称节奏。正如[[Robert Arnove|罗伯特·阿诺夫]]与托雷斯（Arnove & Torres, 2007）在全球与本土辩证法中所阐明的，全球化绝非单一维度的外部强加，它在进入本土社会时必然激化地方反抗力量的重组。在欧美中心国家，新自由主义模式的弊端早已暴露并引发广泛的学术和政治危机；然而在拉美外围国家，依附于跨国资本的本土买办精英却依然在死抱教条、变本加厉地推行私有化。这种时代错位不仅激化了国内矛盾，更促使学生、工会、贫困社群和知识分子看清现实，为建立广泛的抵抗联盟创造了客观条件。（pp. 84–85）
 
 > [!warrant] 走出危机的方法：联合冷面科学分析与炽热道德乌托邦的[[Praxis|实践哲学]]
 > 借由[[Atilio Borón|阿蒂利奥·博隆]]（Atilio Borón, 2006）与[[Daniel Bensaïd|达尼埃尔·本萨义德]]（Daniel Bensaïd, 1999）对马克思当代批判力量的阐释，走出当前教育和政治危机的唯一出路，在于重构马克思主义作为行动指南的辩证实践哲学（[[Praxis]]）。正如博隆所指出的，只要资本主义无法克服其制度所内生的剥削、贫困与自然破坏，马克思主义就依然是当代社会科学不可逾越的批判地平线。批判学者不能停留在书斋里的空洞叹息，必须把严谨求实的制度分析（冷面科学）与捍卫人类尊严的道德追求（炽热乌托邦）结合起来，将理论转化为联合教师工会、学生运动与劳工大众的具体政治实践，共同构筑捍卫公共教育尊严、实现民主解放的替代道路。（pp. 76–77, 84–85）

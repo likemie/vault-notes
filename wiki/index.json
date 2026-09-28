@@ -714,7 +714,7 @@
   {
     "title": "Façade of Rationality",
     "type": "concept",
-    "path": "wiki/concepts/comparative-education/Façade of Rationality.md",
+    "path": "wiki/concepts/comparative-education/Façade of Rationality.md",
     "aliases": [
       "理性表象",
       "理性外衣",
@@ -1034,6 +1034,19 @@
     "aliases": [
       "操演性",
       "绩效性"
+    ]
+  },
+  {
+    "title": "Permeable State",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Permeable State.md",
+    "aliases": [
+      "多孔国家",
+      "通透国家",
+      "可渗透国家",
+      "民族国家通透性",
+      "Permeability of the Nation-State",
+      "Permeable Nation-State"
     ]
   },
   {
@@ -3064,7 +3077,7 @@
   {
     "title": "Epoché",
     "type": "concept",
-    "path": "wiki/concepts/educational-philosophy/Epoché.md",
+    "path": "wiki/concepts/educational-philosophy/Epoché.md",
     "aliases": [
       "悬置",
       "现象学悬置",
@@ -18029,7 +18042,7 @@
   {
     "title": "Adriana Puiggrós",
     "type": "person",
-    "path": "wiki/persons/argentina/Adriana Puiggrós.md",
+    "path": "wiki/persons/argentina/Adriana Puiggrós.md",
     "aliases": [
       "阿德里亚娜·普伊格罗斯",
       "普伊格罗斯",
@@ -18048,7 +18061,7 @@
   {
     "title": "Atilio Borón",
     "type": "person",
-    "path": "wiki/persons/argentina/Atilio Borón.md",
+    "path": "wiki/persons/argentina/Atilio Borón.md",
     "aliases": [
       "阿蒂利奥·博隆",
       "博隆",
@@ -18415,12 +18428,23 @@
   {
     "title": "José Manuel Torres",
     "type": "person",
-    "path": "wiki/persons/chile/José Manuel Torres.md",
+    "path": "wiki/persons/chile/José Manuel Torres.md",
     "aliases": [
       "Torres, J. M.",
       "何塞·曼努埃尔·托雷斯",
       "J. M. Torres",
       "José M. Torres"
+    ]
+  },
+  {
+    "title": "Larissa Adler Lomnitz",
+    "type": "person",
+    "path": "wiki/persons/chile/Larissa Adler Lomnitz.md",
+    "aliases": [
+      "拉里萨·阿德勒·洛姆尼茨",
+      "洛姆尼茨",
+      "Lomnitz, L.",
+      "Larissa Lomnitz"
     ]
   },
   {
@@ -18752,7 +18776,7 @@
   {
     "title": "Daniel Bensaïd",
     "type": "person",
-    "path": "wiki/persons/france/Daniel Bensaïd.md",
+    "path": "wiki/persons/france/Daniel Bensaïd.md",
     "aliases": [
       "达尼埃尔·本萨义德",
       "丹尼尔·本赛德",
@@ -18784,7 +18808,7 @@
   {
     "title": "François Guizot",
     "type": "person",
-    "path": "wiki/persons/france/François Guizot.md",
+    "path": "wiki/persons/france/François Guizot.md",
     "aliases": [
       "弗朗索瓦·基佐",
       "基佐",
@@ -18794,7 +18818,7 @@
   {
     "title": "Jean-François Lyotard",
     "type": "person",
-    "path": "wiki/persons/france/Jean-François Lyotard.md",
+    "path": "wiki/persons/france/Jean-François Lyotard.md",
     "aliases": [
       "Lyotard, J. F.",
       "让-弗朗索瓦·利奥塔",
@@ -18949,7 +18973,7 @@
   {
     "title": "Jürgen Habermas",
     "type": "person",
-    "path": "wiki/persons/germany/Jürgen Habermas.md",
+    "path": "wiki/persons/germany/Jürgen Habermas.md",
     "aliases": [
       "尤尔根·哈贝马斯",
       "哈贝马斯",
@@ -19264,7 +19288,7 @@
   {
     "title": "Torsten Husén",
     "type": "person",
-    "path": "wiki/persons/sweden/Torsten Husén.md",
+    "path": "wiki/persons/sweden/Torsten Husén.md",
     "aliases": [
       "托斯滕·胡森",
       "托斯滕·胡森教授",
@@ -20360,7 +20384,7 @@
   {
     "title": "Donald A. Schön",
     "type": "person",
-    "path": "wiki/persons/us/Donald A. Schön.md",
+    "path": "wiki/persons/us/Donald A. Schön.md",
     "aliases": [
       "Schön, D. A.",
       "Donald Schön",
@@ -20788,6 +20812,17 @@
     ]
   },
   {
+    "title": "Mark Ginsburg",
+    "type": "person",
+    "path": "wiki/persons/us/Mark Ginsburg.md",
+    "aliases": [
+      "马克·金斯伯格",
+      "金斯伯格",
+      "Ginsburg, M.",
+      "Mark B. Ginsburg"
+    ]
+  },
+  {
     "title": "Mark Schneider",
     "type": "person",
     "path": "wiki/persons/us/Mark Schneider.md",
@@ -20847,6 +20882,17 @@
       "Nancy A. Madden",
       "N. A. Madden",
       "Madden, N. A."
+    ]
+  },
+  {
+    "title": "Neil Smelser",
+    "type": "person",
+    "path": "wiki/persons/us/Neil Smelser.md",
+    "aliases": [
+      "尼尔·斯梅尔塞",
+      "斯梅尔塞",
+      "Smelser, N.",
+      "Neil J. Smelser"
     ]
   },
   {
@@ -20919,6 +20965,17 @@
       "沙维尔森",
       "Shavelson, R. J.",
       "Richard Shavelson"
+    ]
+  },
+  {
+    "title": "Robert Arnove",
+    "type": "person",
+    "path": "wiki/persons/us/Robert Arnove.md",
+    "aliases": [
+      "罗伯特·阿诺夫",
+      "阿诺夫",
+      "Arnove, R.",
+      "Robert F. Arnove"
     ]
   },
   {
@@ -21440,7 +21497,7 @@
   {
     "title": "Schulqualität Allgemeinbildung",
     "type": "fact",
-    "path": "wiki/facts/austria/Schulqualität Allgemeinbildung.md",
+    "path": "wiki/facts/austria/Schulqualität Allgemeinbildung.md",
     "aliases": [
       "SQA",
       "奥地利普通学校质量管理体系",
@@ -22260,7 +22317,7 @@
   {
     "title": "Revue encyclopédique",
     "type": "fact",
-    "path": "wiki/facts/france/Revue encyclopédique.md",
+    "path": "wiki/facts/france/Revue encyclopédique.md",
     "aliases": [
       "百科评论",
       "百科评论杂志",
@@ -22459,7 +22516,7 @@
   {
     "title": "Zentrum für internationale Bildungsvergleichsstudien",
     "type": "fact",
-    "path": "wiki/facts/germany/Zentrum für internationale Bildungsvergleichsstudien.md",
+    "path": "wiki/facts/germany/Zentrum für internationale Bildungsvergleichsstudien.md",
     "aliases": [
       "德国国际教育比较研究中心",
       "ZIB",
@@ -22607,7 +22664,7 @@
   {
     "title": "Qualitätsoffensive Lehrerbildung",
     "type": "fact",
-    "path": "wiki/facts/germany/Qualitätsoffensive Lehrerbildung.md",
+    "path": "wiki/facts/germany/Qualitätsoffensive Lehrerbildung.md",
     "aliases": [
       "教师教育质量攻坚计划",
       "QLB",
@@ -23623,7 +23680,7 @@
   {
     "title": "Centro Nacional de Evaluación para la Educación Superior",
     "type": "fact",
-    "path": "wiki/facts/mexico/Centro Nacional de Evaluación para la Educación Superior.md",
+    "path": "wiki/facts/mexico/Centro Nacional de Evaluación para la Educación Superior.md",
     "aliases": [
       "CENEVAL",
       "墨西哥国家高等教育评估中心",
@@ -28314,9 +28371,9 @@
     "path": "wiki/arguments/journal-articles/Paideia/Argument_Hattie_2015_Paideia.md"
   },
   {
-    "title": "Argument_Håkansson_2015_Paideia",
+    "title": "Argument_Håkansson_2015_Paideia",
     "type": "argument",
-    "path": "wiki/arguments/journal-articles/Paideia/Argument_Håkansson_2015_Paideia.md"
+    "path": "wiki/arguments/journal-articles/Paideia/Argument_Håkansson_2015_Paideia.md"
   },
   {
     "title": "Argument_Laursen_2015_Paideia",
