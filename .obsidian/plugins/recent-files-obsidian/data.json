@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Pluralism",
+      "path": "wiki/theories/educational-policy-reform/Pluralism.md"
+    },
+    {
       "basename": "Argument_Mitter_2009_Europe",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mitter_2009_Europe.md"
+    },
+    {
+      "basename": "Bildung",
+      "path": "wiki/concepts/educational-philosophy/Bildung.md"
+    },
+    {
+      "basename": "Comparative Education as a Cross-Sectional Area",
+      "path": "wiki/concepts/comparative-education/Comparative Education as a Cross-Sectional Area.md"
+    },
+    {
+      "basename": "PISA",
+      "path": "wiki/facts/global/PISA.md"
+    },
+    {
+      "basename": "OECD",
+      "path": "wiki/facts/global/OECD.md"
+    },
+    {
+      "basename": "Navigation Metaphor in Comparative Education",
+      "path": "wiki/concepts/comparative-education/Navigation Metaphor in Comparative Education.md"
+    },
+    {
+      "basename": "Comparative Education Society in Europe",
+      "path": "wiki/facts/eu/Comparative Education Society in Europe.md"
+    },
+    {
+      "basename": "State Educational Sovereignty",
+      "path": "wiki/concepts/comparative-education/State Educational Sovereignty.md"
+    },
+    {
+      "basename": "Paradigm",
+      "path": "wiki/concepts/educational-philosophy/Paradigm.md"
     },
     {
       "basename": "Argument_Olmos_Torres_2009_StateTheories",
@@ -163,42 +199,6 @@
     {
       "basename": "Higher Education Act of 1965",
       "path": "wiki/facts/us/Higher Education Act of 1965.md"
-    },
-    {
-      "basename": "National Reading Panel",
-      "path": "wiki/facts/us/National Reading Panel.md"
-    },
-    {
-      "basename": "Experimental Research",
-      "path": "wiki/methods/quantitative/Experimental Research.md"
-    },
-    {
-      "basename": "Randomised Controlled Trials",
-      "path": "wiki/methods/quantitative/Randomised Controlled Trials.md"
-    },
-    {
-      "basename": "Argument_Slavin_2002_ER",
-      "path": "wiki/arguments/journal-articles/Educational Researcher/Argument_Slavin_2002_ER.md"
-    },
-    {
-      "basename": "House Committee on Education and the Workforce",
-      "path": "wiki/facts/us/House Committee on Education and the Workforce.md"
-    },
-    {
-      "basename": "Positivism",
-      "path": "wiki/concepts/educational-philosophy/Positivism.md"
-    },
-    {
-      "basename": "What Works Clearinghouse",
-      "path": "wiki/facts/us/What Works Clearinghouse.md"
-    },
-    {
-      "basename": "Education Sciences Reform Act 2002",
-      "path": "wiki/facts/us/Education Sciences Reform Act 2002.md"
-    },
-    {
-      "basename": "No Child Left Behind Act 2001",
-      "path": "wiki/facts/us/No Child Left Behind Act 2001.md"
     }
   ],
   "omittedPaths": [],

@@ -268,7 +268,7 @@ Total entries: **585**
 > - [[YOUNG_ADULLLT]] — EU Horizon 2020 研究项目（Grant No 693167），9 国 16 区 168 名专家访谈，考察终身学习政策区域治理
 
 > [!index-list]- Organization (1)
-> - [[Comparative Education Society in Europe]] — 1961年在战后欧洲多边主义合作和教育民主化浪潮下成立的专业学术学会。首任主席为英国首位比较教育教授 Joseph Lauwerys，学会的成立标志着比较教育在欧洲的专业化与大学建制化，是理性主义国际合作传统重塑比较教育的经典制度产物。
+> - [[Comparative Education Society in Europe]] — 1961年创设于伦敦的欧洲跨国专业学术学会，由约瑟夫·劳威斯与索尔·罗宾逊等联合发起。学会确立了跨国个人会员制与学术自主定位，是战后欧洲多边主义、教育民主化以及比较教育学科大学建制化的经典制度产物。
 
 > [!index-list]- Policy (10)
 > - [[EU Evidence-Informed Education Policy Initiatives]] — 2006年以来欧盟通过软法治理、评价文化与EIPPEE知识中介网络推动成员国在教育决策中使用多元证据，开创了从线性单向推送走向跨国元中介协同的欧洲实践进路。
