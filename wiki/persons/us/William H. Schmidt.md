@@ -3,7 +3,6 @@ title: William H. Schmidt
 aliases:
   - 威廉·H·施密特
   - 威廉·施密特
-  - 施密特
   - William Schmidt
 summary: "密歇根州立大学杰出教授、国际数学与科学趋势研究（TIMSS）全美国家研究协调员；作为兼具顶尖测量学者与政策倡导者双重身份的‘学者型政策企业家’，他以跨国测评数据提出美国课程‘宽一英里、深一英寸’的著名论断，将高绩效国家标准概括为聚焦、严谨与连贯三大原则，不仅为共同核心州立标准（CCSS）提供了核心理论依据，更在学术界强力反驳了‘标准无效论’。"
 type: person
@@ -15,7 +14,7 @@ person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
 born: "1945"
 died: ""
-lifespan: "1945–至今"
+lifespan: 1945–至今
 tags:
   - person/us
   - curriculum-studies
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-09-28
 ---
 
 # William H. Schmidt

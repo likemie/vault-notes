@@ -50,7 +50,6 @@ related_persons:
   - "[[Robert Cowen]]"
   - "[[Andreas Kazamias]]"
   - "[[Jean-Jacques Rousseau]]"
-  - "[[Christopher Martin]]"
 related_facts:
   - "[[Revue encyclopédique]]"
   - "[[UNESCO]]"
@@ -231,4 +230,4 @@ updated: 2026-09-24
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 系统考证[[Marc-Antoine Jullien\|朱利安]]如何深受[[Immanuel Kant\|康德]]启蒙自主性与[[Jean-Jacques Rousseau\|卢梭]]自然主义触动，将比较教育建构为预防政治暴力、推动欧洲永久和平的准科学人道主义工程。
-> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 阐释[[Christopher Martin|马丁]]·[[Wight's Three Traditions of International Theory\|怀特国际理论三大传统]]，揭示康德式[[Revolutionism\|革命主义]]传统的世界主义道德激情与消弭人类苦难追求对比较教育批判学术传统的深远启迪。
+> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 阐释马丁·[[Wight's Three Traditions of International Theory\|怀特国际理论三大传统]]，揭示康德式[[Revolutionism\|革命主义]]传统的世界主义道德激情与消弭人类苦难追求对比较教育批判学术传统的深远启迪。

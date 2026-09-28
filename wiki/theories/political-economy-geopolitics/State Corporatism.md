@@ -9,7 +9,7 @@ aliases:
 summary: "国家政权自上而下通过行政特许、强制规训与庇护网络将工人、教师、学生等社会群体编入单一垄断性代表机构的政治治理模式，在教育领域表现为执政同盟将教育政策作为补偿性合法化手段以维护国家霸权"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 14
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -35,7 +35,6 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
-  - "[[William H. Schmidt]]"
   - "[[Carlos Alberto Torres]]"
 related_facts: []
 related_arguments:
@@ -66,7 +65,7 @@ updated: 2026-09-28
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 菲利普·[[William H. Schmidt|施密特]]（Philippe C. Schmitter, 1974）在《[[Neocorporatism|法团主义]]的世纪依然存在吗？》中首次划界“社会法团主义”与“国家法团主义”；[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]与丹尼尔·莫拉莱斯-戈麦斯（Morales-Gómez & Torres, 1990; Torres, 1991）将其[[Creativity|创造性]]引入教育政治社会学。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]
+> - **提出者与原始文本** 菲利普·施密特（Philippe C. Schmitter, 1974）在《[[Neocorporatism|法团主义]]的世纪依然存在吗？》中首次划界“社会法团主义”与“国家法团主义”；[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]与丹尼尔·莫拉莱斯-戈麦斯（Morales-Gómez & Torres, 1990; Torres, 1991）将其[[Creativity|创造性]]引入教育政治社会学。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]
 > - **原初问题** 墨西哥后革命政权（PRI）如何在缺乏真实政治竞争的情况下，维持长达数十年对公立教育系统与数十万教师大军的稳固控制。
 > - **理论资源与材料** 结合路易·阿尔都塞（Louis Althusser）的国家意识形态机器学说与葛兰西的[[Hegemony|霸权理论]]，系统考证墨西哥全国教育工作者工会（SNTE）及国家成人教育系统的制度史。
 > - **形成路径** 从单一国家压迫论转向制度性收编与补偿分析，揭示教育政策制定是由执政同盟与法团利益代表通过非公开协商共同达成的政治契约。

@@ -56,6 +56,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
+  - "[[Educational Level]]"
   - "[[Reflexivity]]"
   - "[[Student Engagement]]"
   - "[[Student Involvement]]"
@@ -380,7 +381,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 
 > Stevens(2008)的批评："高等教育在地位获得学派的视野下，成为了如同财产一般匀质、可量化的结果，而那些极具文化性与过程性的、多样又难以测量的教育内容从他们的分析框架里消失了"（引 Stevens, Armstrong & Arum, 2008）
 
-例外：威斯康辛模型（Wisconsin Model of Educational Attainment）引入教育期望、同辈网络等社会心理因素，对黑箱有所突破。
+例外：威斯康辛模型（Wisconsin Model of [[Educational Level|educational attainment]]）引入教育期望、同辈网络等社会心理因素，对黑箱有所突破。
 
 "作为过程"的视角兴起有三股推力（引 Stuber, 2011）：
 1. 1970s 女权主义者抗议将阶级[[Operationalization|操作化]]为单一职业地位——阶层是多维度的生成过程

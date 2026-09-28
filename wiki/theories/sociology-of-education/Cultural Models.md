@@ -200,6 +200,6 @@ updated: 2026-09-28
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2012_Cambridge|Li, 2012]] — 运用[[Prototype Methods|原型方法]]系统提炼西方与东亚学习文化模型的认知人类学与文化心理学经典研究。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 深入解构[[World Society Theory|世界文化理论]]的四项核心文化信念，提出基于[[Conditioned State Theory|受制国家]]与[[Dependency Theory|依附理论]]的批判性比较[[Analytic Framework|分析框架]]。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 深入解构[[World Society Theory|世界文化理论]]的四项核心文化信念，提出基于[[Conditioned State Theory|受限国家]]与[[Dependency Theory|依附理论]]的批判性比较[[Analytic Framework|分析框架]]。
 
 ---

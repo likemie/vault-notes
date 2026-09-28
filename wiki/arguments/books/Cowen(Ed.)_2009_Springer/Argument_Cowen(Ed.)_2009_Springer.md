@@ -164,7 +164,7 @@ updated: 2026-09-28
 >   - **阅读价值** 呈现比较教育学如何从早期准科学与历史人文传统，走向 1960 年代围绕“法则、预测与经验共变”的实证科学化运动，辨析芝加哥、哥大与伦敦学派在规律性质上的[[Epistemology\|认识论]]分野，并剖析实证方法与战后国家规划合法化之间的政治共谋与[[Paradigm\|范式]]衰变。
 > - **国家理论、依附性与全球化教育扩张**
 >   - **相关章节** Ch. 06 [[Argument_Olmos_Torres_2009_StateTheories]]；Ch. 08（Arnove）；Ch. 11–20（Section 2 政治形态与教育系统）；Ch. 34（Whitty）；Ch. 64（Dale）。
->   - **阅读价值** 呈现比较教育学如何从抽象的普世现代主义叙事，走向对民族国家机器复杂性、全球资本积累阶段性、[[Conditioned State Theory\|受制国家]]双轨分选以及[[World Bank|世界银行]][[Financial-Intellectual Complex\|金融-智识复合体]][[Disciplina and Doctrina|规训]]机制的新马克思主义政治经济学解构。
+>   - **阅读价值** 呈现比较教育学如何从抽象的普世现代主义叙事，走向对民族国家机器复杂性、全球资本积累阶段性、[[Conditioned State Theory\|受限国家]]双轨分选以及[[World Bank|世界银行]][[Financial-Intellectual Complex\|金融-智识复合体]][[Disciplina and Doctrina|规训]]机制的新马克思主义政治经济学解构。
 > - **教育转移与跨国制度流动**
 >   - **相关章节** Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]；Ch. 22（Beech）；Ch. 67（Phillips）；Ch. 71（Steiner-Khamsi）。
 >   - **阅读价值** 呈现[[Policy Borrowing\|教育借用]]从经典移植论向全球治理与去[[Going Native\|本土化]]分析的[[Paradigm\|范式]]演进。
@@ -179,7 +179,7 @@ updated: 2026-09-28
 >   - Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]。Kaloyannaki 与 Kazamias 深入解构比较教育学的现代主义发端，辨析[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien）的准[[Proto-Scientific Motif\|科学人道主义母题]]与[[Victor Cousin\|维克多·库森]]（Victor Cousin）、[[Horace Mann\|霍勒斯·曼]]（Horace Mann）等人的政策导向行政[[Educational Meliorism\|改良主义]]母题，揭示借用作为政治合法化依据的机制。
 >   - Ch. 04 [[Argument_Kazamias_2009_ForgottenThemes]]。Kazamias 系统挖掘[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans\|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich\|罗伯特·乌利希]]（Robert Ulich）等学者开创的历史-哲学-文化与自由人文主义母题，阐明其广义人文科学定位、[[National Character\|国民性格]]分析[[Construct\|构念]]与历史改良主义底色，并借由[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）的有限工作[[Hypothesis\|假设]]归纳法为[[Historical-Comparative Method\|历史比较法]]确立现代合法性。
 >   - Ch. 05 [[Argument_Mattheou_2009_ScientificParadigm]]。Mattheou 系统剖析 20 世纪下半叶[[Scientific Paradigm\|比较教育学科学范式]]的兴衰，辨析芝加哥学派（安德森、福斯特）的恒常制度规律、哥大学派（诺亚、埃克斯坦）的[[Variable\|变量]]函数共变与伦敦学派（霍姆斯）基于[[Critical Dualism\|批判二元论]]的权变社会学法则及预测划界标准，揭示实证量化模式作为战后国家规划合法化工具（alibi）的政治共谋，并阐明其在现实危机、量子不确定性与后现代思潮冲击下向“[[Comparative Educations\|复数比较教育学]]”的多元解体。
->   - Ch. 06 [[Argument_Olmos_Torres_2009_StateTheories]]。Olmos 与 Torres 运用马克思主义政治经济学与批判政治社会学，解构[[World Society Theory|世界文化理论]]的均质化教育扩张叙事，提出以资本积累与政治合法化为轴心的国家理论，阐发外围资本主义[[Conditioned State Theory\|受制国家]]及[[State Corporatism\|国家法团主义]]下的阶级[[Dual School System|双轨学制]]与[[Compensatory Legitimation\|补偿性合法化]]，并批判新自由主义结构调整下[[World Bank|世界银行]][[Financial-Intellectual Complex\|金融-智识复合体]]对教育公共性与民主公民身份的侵蚀。
+>   - Ch. 06 [[Argument_Olmos_Torres_2009_StateTheories]]。Olmos 与 Torres 运用马克思主义政治经济学与批判政治社会学，解构[[World Society Theory|世界文化理论]]的均质化教育扩张叙事，提出以资本积累与政治合法化为轴心的国家理论，阐发外围资本主义[[Conditioned State Theory\|受限国家]]及[[State Corporatism\|国家法团主义]]下的阶级[[Dual School System|双轨学制]]与[[Compensatory Legitimation\|补偿性合法化]]，并批判新自由主义结构调整下[[World Bank|世界银行]][[Financial-Intellectual Complex\|金融-智识复合体]]对教育公共性与民主公民身份的侵蚀。
 > - **优先处理章节** Ch. 01（联合导论）、Ch. 10（历史反思）、Ch. 21（导论）、Ch. 61（新思维导论）、Ch. 79 与 Ch. 80（全书收束与结论）。
 > - **可暂缓章节** 专门聚焦特定国家微观细部、与全书主干理论对话相对松散的案例章节。
 > - **缺口提醒** 目前已完成 Ch. 02、Ch. 03、Ch. 04、Ch. 05 与 Ch. 06，系统夯实了学科发端期准科学、行政借用、历史人文、战后科学化运动全景以及马克思主义批判国家理论，第一板块理论奠基与方法论争鸣的主干框架已高度充实，亟需推进各板块导引章与重点理论章以充实全书结构认知。
@@ -194,7 +194,7 @@ updated: 2026-09-28
 > - **Ch. 03 — The Modernist Beginnings of Comparative Education** [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]] — 剖析[[Marc-Antoine Jullien\|朱利安]]的准[[Proto-Scientific Motif\|科学人道主义母题]]与[[Victor Cousin\|库森]]、[[Horace Mann\|霍勒斯·曼]]等人的政策导向行政[[Educational Meliorism\|改良主义]]母题，阐明制度移植与政治合法化依据的双重借用机制。
 > - **Ch. 04 — Forgotten Men, Forgotten Themes** [[Argument_Kazamias_2009_ForgottenThemes]] — 重新发掘比较教育学史上被遗忘的大师（[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯、[[Robert Ulich\|乌利希]]）与历史哲学、自由人文主义母题，确立[[Historical-Comparative Method\|历史比较法]]归纳工作[[Hypothesis\|假设]]的正当性。
 > - **Ch. 05 — The Scientific [[Paradigm]] in Comparative Education** [[Argument_Mattheou_2009_ScientificParadigm]] — 评析[[Scientific Paradigm\|比较教育学科学范式]]的兴起动因、四大派别在目标与法则上的[[Epistemology\|认识论]]分野，揭示其充当战后国家规划合法化工具的深层机制及走向多元解体的必然性。
-> - **Ch. 06 — Theories of The State, Educational Expansion, Development, and Globalizations** [[Argument_Olmos_Torres_2009_StateTheories]] — 从马克思主义政治经济学解构教育扩张的普世叙事，提出以资本积累与政治合法化为核心的[[Conditioned State Theory|受制国家]]与[[State Corporatism|国家法团主义]][[Analytic Framework|分析框架]]，批判新自由主义[[Financial-Intellectual Complex|财智复合体]]的政策[[Disciplina and Doctrina|规训]]。
+> - **Ch. 06 — Theories of The State, Educational Expansion, Development, and Globalizations** [[Argument_Olmos_Torres_2009_StateTheories]] — 从马克思主义政治经济学解构教育扩张的普世叙事，提出以资本积累与政治合法化为核心的[[Conditioned State Theory|受限国家]]与[[State Corporatism|国家法团主义]][[Analytic Framework|分析框架]]，批判新自由主义[[Financial-Intellectual Complex|财智复合体]]的政策[[Disciplina and Doctrina|规训]]。
 > - **Ch. 07 — Comparative Education in Europe** Argument_Mitter_2009_Europe — 系统梳理欧洲大陆比较教育学的发展历程与多元传统。
 > - **Ch. 08 — World-systems Analysis and Comparative Education in the Age of Globalization** Argument_Arnove_2009_WorldSystems — 阐述世界体系[[Analytic Framework\|分析框架]]在当代比较教育中的应用与启示。
 > - **Ch. 09 — Reflections on the Development of Comparative Education** Argument_Rust_2009_Reflections — 反思比较教育学会发展与知识共同体演进历程。

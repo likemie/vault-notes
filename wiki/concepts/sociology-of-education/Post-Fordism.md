@@ -176,5 +176,5 @@ updated: 2026-09-28
 > |:-----|:-----|:---------|
 > | [[Endogenous and Exogenous Privatisation]] | 概念 | 后福特制在微观办学机制与宏观制度重组层面的双重制度实现手段。 |
 > | [[Technical Rationality]] | 概念 | 后福特制课程设计与绩效评价赖以建立的[[Epistemology\|认识论]]与管理学基石。 |
-> | [[Conditioned State Theory]] | 理论 | 外围受制国家接受后福特跨国产业链[[Disciplina and Doctrina\|规训]]、裁撤公共教育投资的制度[[Analytic Framework\|分析框架]]。 |
+> | [[Conditioned State Theory]] | 理论 | 外围受限国家接受后福特跨国产业链[[Disciplina and Doctrina\|规训]]、裁撤公共教育投资的制度[[Analytic Framework\|分析框架]]。 |
 > | [[Dual School System]] | 概念 | 后福特制教育市场化下公私分立与阶级固化的制度化体现。 |

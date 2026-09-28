@@ -33,6 +33,7 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Faculty Psychology]]"
   - "[[Policy Borrowing]]"
+  - "[[Popular Education]]"
   - "[[Epistemology]]"
   - "[[Artefact]]"
   - "[[Pragmatic Paradigm]]"
@@ -175,7 +176,7 @@ updated: 2026-09-22
 > [!citation-card] 国民普及教育与宗教道德的结合（1831）
 > 感谢上帝，阁下是一位极为开明的国务活动家，绝不会认为脱离道德教育能有真正的大众教育，脱离宗教能有大众道德，或脱离教会能有大众宗教。因此，大众教育应当是宗教性的，也就是说，应当是基督教的。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 30; Cousin, 1930, p. 223)]]
 >
-> *Thank God, Sir, you are too enlightened a statesman to think that true popular instruction can exist without moral education, popular morality without religion, or popular religion without a church. Popular education, ought therefore to be religious, that is to say Christian.*
+> *Thank God, Sir, you are too enlightened a statesman to think that true popular instruction can exist without moral education, popular morality without religion, or popular religion without a church. [[Popular Education]], ought therefore to be religious, that is to say Christian.*
 
 ---
 

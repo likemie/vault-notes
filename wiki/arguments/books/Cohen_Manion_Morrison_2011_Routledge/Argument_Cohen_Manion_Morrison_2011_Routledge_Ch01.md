@@ -156,7 +156,6 @@ related_persons:
   - "[[John Rex]]"
   - "[[Basil Bernstein]]"
   - "[[John W. Creswell]]"
-  - "[[Christopher Martin]]"
   - "[[Stuart Kauffman]]"
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
@@ -740,7 +739,7 @@ updated: 2026-09-09
 
 20世纪晚期教育研究界爆发的“范式战争”造成了学科共同体的撕裂。随着研究实践的深化，学者们日益意识到将探究粗暴二分为“量化”与“质性”不仅缺乏实际建设性，更严重禁锢了[[Knowledge Production|知识生产]]的潜能（Gorard & Smith, 2006）。由阿巴斯·塔沙克里（Abbas Tashakkori）、查尔斯·特德利（Charles Teddlie）、约翰·克雷斯威尔（[[John W. Creswell]]）等学者领衔的[[Mixed Methods Research|混合方法研究]]，被公认为继[[Quantitative Research|量化研究]]与[[Qualitative Research|质性研究]]之后的**第三次方法论运动**与**第三种研究范式（Johnson & Onwuegbuzie, 2004; Denscombe, 2008）**。
 
-混合方法研究摒弃非黑即白的范式不可通约性教条，主张认识论层面的兼容互补（Ercikan & Roth, 2006）。安东尼·翁乌埃格布齐（Anthony Onwuegbuzie）与南希·里奇（Nancy Leech）主张，应当以确证性探究与探索性探究来重构量质对立，以方法论实用主义取代方法论清教徒主义（Onwuegbuzie & Leech, 2005a）。[[Christopher Martin|马丁]]·登斯库姆（Martyn Denscombe）提炼了混合方法研究所带来的四大务实效能（Denscombe, 2008）：
+混合方法研究摒弃非黑即白的范式不可通约性教条，主张认识论层面的兼容互补（Ercikan & Roth, 2006）。安东尼·翁乌埃格布齐（Anthony Onwuegbuzie）与南希·里奇（Nancy Leech）主张，应当以确证性探究与探索性探究来重构量质对立，以方法论实用主义取代方法论清教徒主义（Onwuegbuzie & Leech, 2005a）。马丁·登斯库姆（Martyn Denscombe）提炼了混合方法研究所带来的四大务实效能（Denscombe, 2008）：
 
 > [!success] 混合方法研究的四大实效（Denscombe, 2008）
 > - **提升数据准确性与核验效度** 通过多元资料来源与交叉[[Triangulation\|三角验证]]，显著降低单一方法的测量偏倚。

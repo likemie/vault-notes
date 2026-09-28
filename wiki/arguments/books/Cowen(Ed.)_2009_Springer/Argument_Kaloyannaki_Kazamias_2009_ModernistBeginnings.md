@@ -72,6 +72,7 @@ related_concepts:
   - "[[Artefact]]"
   - "[[Champ]]"
   - "[[Proto-Scientific Motif]]"
+  - "[[Popular Education]]"
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
@@ -544,7 +545,7 @@ updated: 2026-09-15
 > [!citation-card] [[Horace Mann\|霍勒斯·曼]]：知识普遍分配是共和基石，普及公共教育是自由政府的唯一保障
 > 霍勒斯·曼深刻理解自由、大众教育与共和政府之间的内在必然关联……一个国家无法在愚昧无知中长久维系自由。任何政治体制无论设计得多么巧妙，都无法天然保证公民的权利与自由，因为自由只有在知识于民众中广泛普及时才能稳固。因此，全民普及教育是共和政府赖以安身立命的唯一基石。（p.32）
 >
-> *Mann understood well the integral relationship between freedom, popular education, and republican government ... A nation cannot long remain ignorant and free. No political structure, however artfully devised, can inherently guarantee the rights and liberties of citizens, for freedom can be secure only as knowledge is widely distributed among the populace. Hence, universal popular education is the only foundation on which republican government can securely rest.*
+> *Mann understood well the integral relationship between freedom, [[Popular Education]], and republican government ... A nation cannot long remain ignorant and free. No political structure, however artfully devised, can inherently guarantee the rights and liberties of citizens, for freedom can be secure only as knowledge is widely distributed among the populace. Hence, universal popular education is the only foundation on which republican government can securely rest.*
 
 > [!citation-card] 卡洛扬纳基与卡扎米亚斯：美洲借用的实质是将外国实绩[[Transfer Translation Transformation\|转译]]为本土争议改革的合法化依据
 > 毫无疑问，与欧洲人一样，美利坚的决策者和行政官员同样受到从海外汲取有益教训这一愿望的驱动，但其目的绝非朱利安和库森所理解的那种[[Policy Borrowing\|教育借用]]或制度移植。更为确切的表述应当是：美国的[[Educational Meliorism\|改良主义]]者远赴海外寻找教训，主要是为了将其用作推进合众国国家公共教育改革的雄辩的合法化依据。（p.34）

@@ -158,7 +158,7 @@ updated: 2026-09-28
 > |---|---|---|---|
 > | **学术合同工命题** | 分类资助消解学术自主，将学者异化为资助方的政策承包工 | 政府资助体制转型、高等教育绩效问责期 | Burgess (1993, p. 1) |
 > | **评估替代与控制命题** | 定向委托促使研究全面倒向评估，资助方利用数据控制权策略性发布 | 政策[[Implementation and Process Evaluation\|实施评估]]、行政委托监测项目 | MacDonald (1987, p. 43); Sanday (1993) |
-> | **跨国方法论[[Disciplina and Doctrina\|规训]]命题** | 多边金融机构以巨额委托构建[[Financial-Intellectual Complex\|财智复合体]]，垄断全球教育研究规程 | 国际发展援助、[[Conditioned State Theory\|受制国家]]结构调整贷款 | Samoff (1992, 1993); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 80)]] |
+> | **跨国方法论[[Disciplina and Doctrina\|规训]]命题** | 多边金融机构以巨额委托构建[[Financial-Intellectual Complex\|财智复合体]]，垄断全球教育研究规程 | 国际发展援助、[[Conditioned State Theory\|受限国家]]结构调整贷款 | Samoff (1992, 1993); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 80)]] |
 
 ---
 
@@ -168,7 +168,7 @@ updated: 2026-09-28
 > - **1980年代 — 英国与西方[[New Public Management|新公共管理]]兴起** 撒切尔主义与新公共管理（NPM）重构公共科研资助体制，政府部门开始大规模压缩无条件的大学区块拨款，转向针对具体政策目标的定向分类招标。
 > - **1993 — 学术自主性危机反思** 伯吉斯（Burgess）与桑戴（Sanday）发表经典论文，系统揭示分类资助如何通过合同劳工化与数据所有权转让，对教育学术独立性造成结构性破坏。
 > - **1990–2000年代 — 跨国多边金融机构全球化扩张** 以[[World Bank|世界银行]]为核心的国际组织将定向委托研究机制推向全球，通过雇佣跨国专家团队，将量化投入产出分析与结构调整挂钩。
-> - **2009 — [[Conditioned State Theory|受制国家]]视阈下的政治经济整合** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]将跨国定向委托研究正式定性为[[Financial-Intellectual Complex|金融-智识复合体]]的霸权运作机制。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
+> - **2009 — [[Conditioned State Theory|受限国家]]视阈下的政治经济整合** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]将跨国定向委托研究正式定性为[[Financial-Intellectual Complex|金融-智识复合体]]的霸权运作机制。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 
 ---
 

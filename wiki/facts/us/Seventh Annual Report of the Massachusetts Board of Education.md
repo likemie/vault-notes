@@ -33,6 +33,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Normal School]]"
   - "[[Policy Borrowing]]"
+  - "[[Popular Education]]"
   - "[[Paradigm]]"
 related_theories: []
 related_methods: []
@@ -147,7 +148,7 @@ updated: 2026-09-22
 > [!citation-card]- 劳伦斯·克雷明论曼的共和教育哲学
 > 曼深刻理解自由、大众教育与共和政府之间的内在必然关联……一个国家无法在愚昧无知中长久维系自由。任何政治体制无论设计得多么巧妙，都无法天然保证公民的权利与自由，因为自由只有在知识于民众中广泛普及时才能稳固。因此，全民普及教育是共和政府赖以安身立命的唯一基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 32)]]
 >
-> *Mann understood well the integral relationship between freedom, popular education, and republican government ... A nation cannot long remain ignorant and free. No political structure, however artfully devised, can inherently guarantee the rights and liberties of citizens, for freedom can be secure only as knowledge is widely distributed among the populace. Hence, universal popular education is the only foundation on which republican government can securely rest.* (Cremin, 1957:7)
+> *Mann understood well the integral relationship between freedom, [[Popular Education]], and republican government ... A nation cannot long remain ignorant and free. No political structure, however artfully devised, can inherently guarantee the rights and liberties of citizens, for freedom can be secure only as knowledge is widely distributed among the populace. Hence, universal popular education is the only foundation on which republican government can securely rest.* (Cremin, 1957:7)
 
 ---
 

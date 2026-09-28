@@ -112,7 +112,6 @@ related_persons:
   - "[[John Dewey]]"
   - "[[Paulo Freire]]"
   - "[[Robert Slavin]]"
-  - "[[Christopher Martin]]"
   - "[[Andreas Schleicher]]"
 related_facts:
   - "[[Institute of Education Sciences]]"
@@ -296,7 +295,7 @@ updated: 2026-09-14
 
 #### 1. 教师工会依托独立研究院与国际协商平台成为跨国科研生产的战略倡导者
 
-[[John Bangs|约翰·班斯]]与[[Christopher Martin|马丁]]·亨利指出，教师职业的工会密度在全社会各经济部门中高居首位且保持稳定（Carter et al., 2010）。这一组织现实构成了激活实践主体的关键杠杆：教师工会绝非仅仅关注工资待遇的维权团体，而是已成长为教育科研的核心出资方与政策倡导主体。
+[[John Bangs|约翰·班斯]]与马丁·亨利指出，教师职业的工会密度在全社会各经济部门中高居首位且保持稳定（Carter et al., 2010）。这一组织现实构成了激活实践主体的关键杠杆：教师工会绝非仅仅关注工资待遇的维权团体，而是已成长为教育科研的核心出资方与政策倡导主体。
 
 > [!policy-context] Box 10.2　[[Education International\|国际教育协会]]（Education International, EI）
 > **组织性质** 全球最大的行业工会联合会，总部设于比利时布鲁塞尔。

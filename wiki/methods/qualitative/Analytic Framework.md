@@ -141,7 +141,7 @@ updated: 2026-09-28
 > | **[[Phenomenology\|现象学]]框架** | 提取本质意义陈述，组合为意义单元，生成现象本质结构 | 某种教育体验的直观共性、生活世界主观意义 | Moustakas (1994) |
 > | **[[Grounded Theory\|扎根理论]]框架** | [[Open Coding\|开放编码]]生成范畴 ➔ [[Axial Coding\|轴心编码]]建立条件-因果条件矩阵 ➔ [[Selective Coding\|选择性编码]]导出核心范畴 | 缺乏先验理论时的微观机制发现与草根理论生成 | Strauss & Corbin (1998) |
 > | **[[Case Study\|案例研究]]与[[Ethnography\|民族志]]** | 深度情境化[[Rich and Thick Description\|深描]]、场所活动解析与文化主题分类 | 特定[[Organizational Culture\|组织文化]]、特定社群内部的日常生活实践 | Stake (1995); Wolcott (1994) |
-> | **宏观比较政治经济学框架** | 运用资本积累、国家合法性危机、[[State Corporatism\|国家法团主义]]与[[Conditioned State Theory\|受制国家]]四重维度解构教育制度 | 解释发展中国家跨期教育扩张的动力矛盾与依附结构 | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, pp. 74–76)]] |
+> | **宏观比较政治经济学框架** | 运用资本积累、国家合法性危机、[[State Corporatism\|国家法团主义]]与[[Conditioned State Theory\|受限国家]]四重维度解构教育制度 | 解释发展中国家跨期教育扩张的动力矛盾与依附结构 | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, pp. 74–76)]] |
 
 ---
 
@@ -180,6 +180,6 @@ updated: 2026-09-28
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]] — 系统梳理[[Qualitative Research|质性研究]]中五大经典分析框架（叙事、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、[[Case Study|案例研究]]）的特征与操作规范。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 综合[[Dependency Theory|依附理论]]、历史唯物主义与[[Conditioned State Theory|受制国家理论]]，建构了用于剖析拉美教育扩张与国家政权演变的宏观政治经济学分析框架。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 综合[[Dependency Theory|依附理论]]、历史唯物主义与[[Conditioned State Theory|受限国家理论]]，建构了用于剖析拉美教育扩张与国家政权演变的宏观政治经济学分析框架。
 
 ---

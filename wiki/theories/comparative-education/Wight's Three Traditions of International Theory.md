@@ -48,7 +48,6 @@ related_theories:
 related_methods:
   - "[[Discourse Analysis]]"
 related_persons:
-  - "[[Christopher Martin]]"
   - "[[Eleftherios Klerides]]"
   - "[[Immanuel Kant]]"
   - "[[Michael Sadler]]"
@@ -79,7 +78,7 @@ updated: 2026-09-28
 > - **解释对象** 比较教育的学科发展史、学术体制建制、[[Policy Borrowing\|政策借用]]与流动的分析[[Paradigm\|范式]]以及跨国教育治理网络。
 > - **理论问题** 探讨比较教育中“政策借用与情境理解”、“技术治理与批判解放”等核心争论的底层政治哲学根源，回应学科在国家权力、殖民扩张和新自由主义治理下的无意识共谋。
 > - **理论类型** 国际关系理论框架、分析视角与批判范式。
-> - **知识位置** 国际关系学派中的英国学派奠基性理论，由[[Christopher Martin|马丁]]·怀特于 1950 年代末提出，并由赫德利·布尔等继承；后由[[Eleftherios Klerides\|克莱里德斯]]于 2023 年系统性地移植并发展于比较教育领域。
+> - **知识位置** 国际关系学派中的英国学派奠基性理论，由马丁·怀特于 1950 年代末提出，并由赫德利·布尔等继承；后由[[Eleftherios Klerides\|克莱里德斯]]于 2023 年系统性地移植并发展于比较教育领域。
 
 > [!claim] 核心主张
 > 比较教育在学说、制度和大学建制上均是国际关系的产物与实践。对国际社会性质和政治运作规则的不同底层[[Hypothesis\|假设]]（现实主义、理性主义和[[Revolutionism\|革命主义]]），塑造了不同的比较教育学术形态、研究路径与[[Agendas of Attention\|注意力议程]]。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 417]])

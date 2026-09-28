@@ -87,8 +87,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
 related_instruments: []
-related_persons:
-  - "[[Christopher Martin]]"
+related_persons: []
 related_facts:
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
@@ -207,7 +206,7 @@ updated: 2026-09-24
 > - **与原始数据的严格划界** 该定义明确排除了未加工的数据与原始信息；单纯的事实积累与原始数据只有在为了特定目的被系统分析与探究时，才能被视作研究。（p.18）
 
 > [!theory-stance] 证据适切性的问题导向[[Epistemic Stances\|认识论立场]]
-> - **问题导向的证据适切观** 桑德拉·纳特利（Sandra Nutley）、[[Christopher Martin|马丁]]·鲍威尔（Martin Powell）与休·戴维斯（Hugh Davies）（Nutley et al., 2013）深刻批判了不顾[[Research Question\|研究问题]]而空谈证据等级的教条主义。决策者与一线教师不仅关心某项干预“是否起作用”，更需要理解“在何种情境下、对谁有效、为何起作用、实施成本与伴生风险是什么”。
+> - **问题导向的证据适切观** 桑德拉·纳特利（Sandra Nutley）、马丁·鲍威尔（Martin Powell）与休·戴维斯（Hugh Davies）（Nutley et al., 2013）深刻批判了不顾[[Research Question\|研究问题]]而空谈证据等级的教条主义。决策者与一线教师不仅关心某项干预“是否起作用”，更需要理解“在何种情境下、对谁有效、为何起作用、实施成本与伴生风险是什么”。
 > - **质性研究的不可替代性** 探究机制运转过程（How it works）以及教育意义感知（Does it matter）的核心问题，是随机对照试验（RCT）无法回答、而必须依赖质性研究深入挖掘的知识领地（Petticrew & Roberts, 2003）。（p.17）
 
 #### 2. 研究证据与实践知识具有根本异质性，研究的功能在于启发专业判断而非提供自动化处方

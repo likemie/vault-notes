@@ -114,7 +114,7 @@ updated: 2026-09-28
 >     B --> C["新古典经济学与人力资本话语建构"]
 >     C --> D["投入产出与成本效益方法论规训"]
 >     D --> E["结构调整贷款附加条件"]
->     E --> F["受制国家教育紧缩与私有化落地"]
+>     E --> F["受限国家教育紧缩与私有化落地"]
 >     F -.->|强化依附与再借贷需求| A
 > ```
 
@@ -140,7 +140,7 @@ updated: 2026-09-28
 > 探讨该复合体如何通过限定研究方法与评价指标的合法性门槛，系统性消解[[Politicity of Education|教育的政治性]]与阶级矛盾。
 
 > [!claim] [[Liliana Esther Olmos|Olmos, L. E.]] & [[Carlos Alberto Torres|Torres, C. A.]]
-> **去政治化技术规训** 世界银行通过其雄厚的资金实力与广泛的业务网络，将成本效益分析、投入产出分析以及教育收益率测算确立为唯一正当的学术规程。这种技术官僚式的工具理性故意无视[[Conditioned State Theory|受制国家]]的历史殖民遗产与阶级支配现实，将深刻的社会不平等与教育公平问题偷换为单纯的要素配置效率问题，为紧缩政策提供伪中立的科学掩护。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
+> **去政治化技术规训** 世界银行通过其雄厚的资金实力与广泛的业务网络，将成本效益分析、投入产出分析以及教育收益率测算确立为唯一正当的学术规程。这种技术官僚式的工具理性故意无视[[Conditioned State Theory|受限国家]]的历史殖民遗产与阶级支配现实，将深刻的社会不平等与教育公平问题偷换为单纯的要素配置效率问题，为紧缩政策提供伪中立的科学掩护。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 
 ---
 
@@ -171,7 +171,7 @@ updated: 2026-09-28
 > - **1980 — 独立研究帝国奠基** [[World Bank|世界银行]]发表《教育部门政策文件》，单方面终结对[[UNESCO|教科文组织]]的技术依附，开启由华盛顿总部集中统摄的教育政策与收益率计量帝国。
 > - **1992/1993 — 财智复合体批判确立** 乔尔·萨莫夫（Joel Samoff）在非洲教育研究与国际政治学大会中首次正式提出“金融-智识复合体”，揭示世行将资金放贷与知识委托一体化的结构调整本质。
 > - **1994 — 高教领域与企业联盟亲和拓展** 丹尼尔·舒古伦斯基（Daniel Schugurensky）深入阿根廷高教案例，揭示世行如同跨国商业圆桌会议般推动高等教育商业化与学费成本分摊。
-> - **2009 — [[Conditioned State Theory|受制国家理论]]视阈下的政治经济整合** [[Liliana Esther Olmos|奥尔莫斯]]（Olmos）与[[Carlos Alberto Torres|托雷斯]]（Torres）将财智复合体纳入新自由主义国家[[Disciplina and Doctrina|规训]]分析，阐明其如何瓦解第三世界公共教育体系。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
+> - **2009 — [[Conditioned State Theory|受限国家理论]]视阈下的政治经济整合** [[Liliana Esther Olmos|奥尔莫斯]]（Olmos）与[[Carlos Alberto Torres|托雷斯]]（Torres）将财智复合体纳入新自由主义国家[[Disciplina and Doctrina|规训]]分析，阐明其如何瓦解第三世界公共教育体系。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 
 ---
 

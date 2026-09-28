@@ -44,7 +44,6 @@ related_persons:
   - "[[Michael Sadler]]"
   - "[[Robert Cowen]]"
   - "[[Immanuel Kant]]"
-  - "[[Christopher Martin]]"
 related_facts:
   - "[[OECD]]"
   - "[[Comparative Education Society in Europe]]"
@@ -201,5 +200,5 @@ updated: 2026-09-24
 > - **两次世界大战之间的教科书去民族偏见运动** 两次大战之间，国际联盟的国际知识合作组织与北欧协会等致力于通过教科书比较审查，消除历史叙事中的遗漏、歪曲和刻板印象。这一实践服务于塑造适应多边合作的“[[International Mind\|国际心智]]”，标志着理性主义和平政治对学术界注意力在场的首次大规模制度化构建。
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 系统引入[[Christopher Martin|马丁]]·怀特的三大传统，界定了比较教育学术形态下注意力议程的在场与缺席机制。
+> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 系统引入马丁·怀特的三大传统，界定了比较教育学术形态下注意力议程的在场与缺席机制。
 > - [[Argument_Cowen_2009_CE\|Cowen (2009)]] — 奠定了“[[Readings of the Global\|阅读全球]]”话语变迁与教育转移形态变形的理论脉络。

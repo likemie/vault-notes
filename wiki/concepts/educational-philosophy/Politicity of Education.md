@@ -53,7 +53,6 @@ related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
   - "[[Carlos Alberto Torres]]"
-  - "[[Christopher Martin]]"
   - "[[Liliana Esther Olmos]]"
 related_facts:
   - "[[World Bank]]"
@@ -100,7 +99,7 @@ updated: 2026-09-28
 > | **教育本质定性** | 阶级、国家与[[Hegemony\|文化霸权]]博弈的争鸣[[Champ\|场域]] | 培养[[Human Capital Theory\|人力资本]]、传授中立技能的生产工具 |
 > | **政策研究导向** | 质询“谁的知识”、“服务于谁的利益”与结构不平等 | 寻求“成本效益最优”、“可复制投入产出率” |
 > | **价值伦理态度** | 明确承认立场的政治性，致力于赋权与解放 | 标榜[[Value Neutrality\|价值中立]]（Value Neutrality）与纯技术客观 |
-> | **国家角色定位** | 阶级支配同盟或[[Conditioned State Theory\|受制国家]]，政策充满张力与妥协 | 超越利益冲突的中立仲裁者与公共福利提供者 |
+> | **国家角色定位** | 阶级支配同盟或[[Conditioned State Theory\|受限国家]]，政策充满张力与妥协 | 超越利益冲突的中立仲裁者与公共福利提供者 |
 
 ---
 
@@ -137,10 +136,10 @@ updated: 2026-09-28
 > 阐明技术官僚对“教育危机”的界定绝非纯粹科学发现，而是服务于国家维系积累与合法化平衡的政治策略。
 
 > [!claim] Carnoy, M. & [[Carlos Alberto Torres|Torres, C. A.]]
-> **教育问题诊断内生于隐蔽的国家理论假定** [[Christopher Martin|马丁]]·卡诺伊与托雷斯指出，界定教育的真实问题及适宜解法，根本上取决于支撑该诊断的国家理论。大多数教育政策研究自诩中立，却从未明确审视其理论前提；一旦将国家还原为资本积累与政治统治的工具，便可发现诸如“办学效率低下”、“教师问责不力”等危机诊断，本质上是国家为了削减公共开支、转移积累危机而推行的阶级话语。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 73, 77–78)]]
+> **教育问题诊断内生于隐蔽的国家理论假定** 马丁·卡诺伊与托雷斯指出，界定教育的真实问题及适宜解法，根本上取决于支撑该诊断的国家理论。大多数教育政策研究自诩中立，却从未明确审视其理论前提；一旦将国家还原为资本积累与政治统治的工具，便可发现诸如“办学效率低下”、“教师问责不力”等危机诊断，本质上是国家为了削减公共开支、转移积累危机而推行的阶级话语。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 73, 77–78)]]
 
 > [!claim] [[Liliana Esther Olmos|Olmos, L. E.]] & [[Carlos Alberto Torres|Torres, C. A.]]
-> **外围[[Conditioned State Theory|受制国家]]教育扩张的[[Compensatory Legitimation|补偿性合法化]]功能** 在第三世界依附性资本主义国家中，教育系统的膨胀并非源于纯粹的技术发展需求，而是国家在积累能力匮乏与外部债务约束下推行的[[Compensatory Legitimation|补偿性合法化]]策略；国家通过增发边缘教育文凭来缓和底层社会的阶级矛盾，掩盖分配正义的缺位。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 81–82)]]
+> **外围[[Conditioned State Theory|受限国家]]教育扩张的[[Compensatory Legitimation|补偿性合法化]]功能** 在第三世界依附性资本主义国家中，教育系统的膨胀并非源于纯粹的技术发展需求，而是国家在积累能力匮乏与外部债务约束下推行的[[Compensatory Legitimation|补偿性合法化]]策略；国家通过增发边缘教育文凭来缓和底层社会的阶级矛盾，掩盖分配正义的缺位。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 81–82)]]
 
 ---
 
@@ -173,7 +172,7 @@ updated: 2026-09-28
 > [!dev-timeline] 概念演变
 > - **1968–1970 — [[Paulo Freire|弗莱雷]]奠定教育政治性[[Ontology|本体论]]基石** [[Paulo Freire|保罗·弗莱雷]]在流亡期间出版《被压迫者教育学》，正式提出教育具有固有的政治性（Politicidade），开创[[Critical Pedagogy|批判教育学]]传统。
 > - **1980s–1990s — 批判教育学与国家理论的深度结合** 迈克尔·阿普尔（Michael Apple）与亨利·吉鲁（Henry Giroux）等学者将政治性命题拓展至西方发达资本主义国家的意识形态国家机器分析与课程社会学研究。
-> - **2000s–2010s — [[Conditioned State Theory|受制国家]]与新自由主义全球化批判重构** [[Carlos Alberto Torres|托雷斯]]与[[Liliana Esther Olmos|奥尔莫斯]]（2009）将教育政治性理论引入外围依附性国家与新自由主义重组批判，揭露[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的技术中立欺骗性。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 77–80)]]
+> - **2000s–2010s — [[Conditioned State Theory|受限国家]]与新自由主义全球化批判重构** [[Carlos Alberto Torres|托雷斯]]与[[Liliana Esther Olmos|奥尔莫斯]]（2009）将教育政治性理论引入外围依附性国家与新自由主义重组批判，揭露[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的技术中立欺骗性。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 77–80)]]
 > - **当代延伸 — 跨国量化测评与数字审计治理的去政治化解构** 当代批判学者运用教育政治性透镜，批判[[OECD|经合组织]]（OECD）[[PISA]] 测评与新自由主义以“中立科学数据”名义剥夺教师与公民对教育终极目的的民主审议权。
 
 ---
@@ -214,7 +213,7 @@ updated: 2026-09-28
 > | [[Critical Pedagogy]] | 概念 | 将教育政治性确立为教学与社会行动的基石，致力于通过对话与反思促成被压迫者解放。 |
 > | [[Official Knowledge]] | 概念 | 刻画国家机器与统治阶级如何将自身偏好的政治文化内容法典化为学校合法知识。 |
 > | [[Compensatory Legitimation]] | 理论 | 阐明国家在面临积累危机时，如何通过非生产性的教育机会扩张实施政治合法性补偿。 |
-> | [[Conditioned State Theory]] | 理论 | 揭示外围受制国家在跨国资本与本土阶级冲突夹击下，教育体系必然呈现的依附与分裂特征。 |
+> | [[Conditioned State Theory]] | 理论 | 揭示外围受限国家在跨国资本与本土阶级冲突夹击下，教育体系必然呈现的依附与分裂特征。 |
 > | [[Financial-Intellectual Complex]] | 概念 | 揭示国际金融机构如何利用贷款资金捆绑去政治化的技术主义研究话语。 |
 > | [[Dual School System]] | 概念 | 体现教育政治性的制度产物，由精英垄断高阶教育与大众滞留劣质公学构成结构割裂。 |
 > | [[Paulo Freire]] | 人物 | 奠基者，首次系统提出教育固有的政治性命题，开创解放教育学传统。 |

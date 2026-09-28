@@ -133,13 +133,13 @@ updated: 2026-09-28
 > - **理论路径** 将福柯的政府[[Governmentality|治理术]]与[[Basil Bernstein|伯恩斯坦]]的符号[[Societies of Control|控制社会]]学引入政策分析，开辟了“批判性教育政策社会学”研究传统。
 > - **方法路径** 推广[[Policy Network|政策网络]]拓扑学与社会网络地图绘制方法，为后继学者解构跨国教育商业化与[[Policy Entrepreneur|政策企业家]]的利益网络提供了有力工具。
 > - **政策批判路径** 为全球教师工会（如教育国际）抵制新自由主义私有化改革、反思以数据为主导的数字问责提供了坚实的理论武器。
-> - **跨国扩展** 其关于“市场化作为阶级策略”与内生/外生私有化的[[Analytic Framework|分析框架]]被比较教育学者广泛运用于欧美、大洋洲及拉美等外围[[Conditioned State Theory|受制国家]]的教育重构分析。
+> - **跨国扩展** 其关于“市场化作为阶级策略”与内生/外生私有化的[[Analytic Framework|分析框架]]被比较教育学者广泛运用于欧美、大洋洲及拉美等外围[[Conditioned State Theory|受限国家]]的教育重构分析。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 运用鲍尔关于内生/外生私有化及跨国政策创业理论，实证剖析新西兰公立学校政策网络的商业化与治理重构。
 > - [[Argument_Ball_2008_SR|Ball (2008)]] — 自行阐述教育社会学史与治理目光的变迁，解构绩效技术对现代学校的主导机制。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 引用鲍尔对新自由主义审计社会的剖析，批判[[Evidence-Based Education|循证教育]]运动如何用[[Governing by Numbers|数字治理]]代替教育的民主目的与教师的[[Professional Judgment|专业判断]]。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 援引鲍尔关于教育市场化作为阶级策略的经典论断，批判外围资本主义受制国家如何在新自由主义与[[World Bank|世界银行]][[Disciplina and Doctrina|规训]]下推行[[Endogenous and Exogenous Privatisation|教育私有化]]与分权甩包袱。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 援引鲍尔关于教育市场化作为阶级策略的经典论断，批判外围资本主义受限国家如何在新自由主义与[[World Bank|世界银行]][[Disciplina and Doctrina|规训]]下推行[[Endogenous and Exogenous Privatisation|教育私有化]]与分权甩包袱。
 
 ---
 
@@ -147,7 +147,7 @@ updated: 2026-09-28
 
 > [!person-network] 关系网络
 > - **合作者** Deborah Youdell — 共同开展公共教育隐性私有化研究，提出[[Endogenous and Exogenous Privatisation|内外生私有化]]双轨模型。
-> - **对话者／批判共鸣** [[Carlos Alberto Torres]]、[[Liliana Esther Olmos]] — 其关于市场化作为阶级策略与内生/外生私有化的框架被引入拉美[[Conditioned State Theory|受制国家]]批判分析。
+> - **对话者／批判共鸣** [[Carlos Alberto Torres]]、[[Liliana Esther Olmos]] — 其关于市场化作为阶级策略与内生/外生私有化的框架被引入拉美[[Conditioned State Theory|受限国家]]批判分析。
 > - **批评对象／论敌** [[John Hattie]] — 视其为典型的跨国[[Policy Entrepreneur|政策创业者]]，利用[[Meta-meta-analysis|元-元分析]]数字排行推动教育的绩效化与商业化治理。
 
 ---
@@ -171,6 +171,6 @@ updated: 2026-09-28
 > | [[Policy Network]] | 概念 | 分析传统的官僚与市场治理如何被非正式、跨国的政策[[Network Governance\|网络治理]]形态所补充与重构。 |
 > | [[Policy Entrepreneur]] | 概念 | 将研究视角拓展至跨国维度，指认在全球范围内游说并推销私有化、绩效化方案的跨国商业与慈善代理人。 |
 > | [[Network Governance]] | 概念 | 提供探究多中心、多利益相关者非正式网络教育治理变迁的[[Analytic Framework\|分析框架]]。 |
-> | [[Conditioned State Theory]] | 理论 | 鲍尔的私有化阶级策略被[[Carlos Alberto Torres\|托雷斯]]与[[Liliana Esther Olmos\|奥尔莫斯]]运用于剖析受制国家的新自由主义转型。 |
+> | [[Conditioned State Theory]] | 理论 | 鲍尔的私有化阶级策略被[[Carlos Alberto Torres\|托雷斯]]与[[Liliana Esther Olmos\|奥尔莫斯]]运用于剖析受限国家的新自由主义转型。 |
 > | [[Carlos Alberto Torres]] | 人物 | 批判教育社会学同道，共同关注新自由主义全球化与市场化对公共教育的重塑。 |
 > | [[Liliana Esther Olmos]] | 人物 | 在国家理论与教育扩张研究中系统吸收并引申鲍尔的市场化阶级策略论断。 |

@@ -1,5 +1,5 @@
 ---
-summary: "从马克思主义政治经济学与批判社会学视角解构战后教育扩张的普世叙事，提出以资本积累与政治合法化为轴心的国家理论，阐发外围资本主义受制国家及国家法团主义下的双轨分选与补偿性合法化机制，并批判新自由主义全球化下世界银行金融-智识复合体对公共教育与民主公民身份的侵蚀"
+summary: "从马克思主义政治经济学与批判社会学视角解构战后教育扩张的普世叙事，提出以资本积累与政治合法化为轴心的国家理论，阐发外围资本主义受限国家及国家法团主义下的双轨分选与补偿性合法化机制，并批判新自由主义全球化下世界银行金融-智识复合体对公共教育与民主公民身份的侵蚀"
 type: argument
 authors:
   - "[[Liliana Esther Olmos|Olmos, L. E.]]"
@@ -59,7 +59,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
-  - "[[Christopher Martin]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Stephen Ball]]"
@@ -100,12 +99,12 @@ issuing_organization: ""
 > 20 世纪下半叶波及全球的教育扩张为何无法通过功能主义或世界体系/[[World Society Theory|世界文化理论]]的同质化大爆炸假说得到合理解释？在跨国资本积累、全球化[[Disciplina and Doctrina|规训]]与本土阶级矛盾交织的背景下，民族国家的制度性质如何塑造公共教育政策？为何拉丁美洲等第三世界国家在经历了 1960 年代创纪录的教育扩张后，非但未能实现实质政治民主化与社会公平，反而在新自由主义结构调整中陷入公共教育退化、阶级双轨固化与公民身份商品化的多重危机？（pp. 73–76）
 
 > [!claim] 核心主张
-> 教育绝非政治中立的技术技能分配体系，而是深刻嵌入资本主义国家资本积累与社会合法化双重矛盾职能的争鸣[[Champ|场域]]；外围资本主义国家受制于全球资本积累的边缘地位与本土后封建政治结构，演化出排他性的[[Conditioned State Theory|受制国家]]与[[State Corporatism|国家法团主义]]体制，并借助双轨教育系统和[[Compensatory Legitimation|补偿性合法化]]维系阶级霸权；在新自由主义全球化下，以[[World Bank|世界银行]]（World Bank, WB）为核心的[[Financial-Intellectual Complex|金融-智识复合体]]通过结构性调整强推[[Endogenous and Exogenous Privatisation|教育私有化]]、分权化与使用者付费，实质上是以市场逻辑剥夺大众政治主体地位的阶级策略，唯有重构马克思主义[[Praxis|实践哲学]]与广泛的批判联盟方能开辟民主解放路径。（pp. 73–85）
+> 教育绝非政治中立的技术技能分配体系，而是深刻嵌入资本主义国家资本积累与社会合法化双重矛盾职能的争鸣[[Champ|场域]]；外围资本主义国家受制于全球资本积累的边缘地位与本土后封建政治结构，演化出排他性的[[Conditioned State Theory|受限国家]]与[[State Corporatism|国家法团主义]]体制，并借助双轨教育系统和[[Compensatory Legitimation|补偿性合法化]]维系阶级霸权；在新自由主义全球化下，以[[World Bank|世界银行]]（World Bank, WB）为核心的[[Financial-Intellectual Complex|金融-智识复合体]]通过结构性调整强推[[Endogenous and Exogenous Privatisation|教育私有化]]、分权化与使用者付费，实质上是以市场逻辑剥夺大众政治主体地位的阶级策略，唯有重构马克思主义[[Praxis|实践哲学]]与广泛的批判联盟方能开辟民主解放路径。（pp. 73–85）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 现代国家理论与教育扩张的互动关系，以 20 世纪战后拉丁美洲（重点考证墨西哥、阿根廷、哥斯达黎加与智利）的教育发展史、工业化转型与新自由主义结构调整为核心经验案例。（pp. 73–74, 81–84）
 > - **张力** 宏大功能主义与普世世界文化理论的非历史均质化[[Hypothesis|假设]]，对决新马克思主义政治经济学强调的资本积累阶段性、合法化危机、殖民剥削遗产与历史具体性。（pp. 74–76）
-> - **贡献** 系统提炼比较教育政治社会学[[Analytic Framework|分析框架]]，确立[[Conditioned State Theory|受制国家理论]]、[[State Corporatism|国家法团主义]]、[[Compensatory Legitimation|补偿性合法化]]与[[Financial-Intellectual Complex|金融-智识复合体]]等核心[[Construct|构念]]，推动比较教育学彻底摆脱西方中心主义的现代化叙事与技术官僚迷思。（pp. 77–85）
+> - **贡献** 系统提炼比较教育政治社会学[[Analytic Framework|分析框架]]，确立[[Conditioned State Theory|受限国家理论]]、[[State Corporatism|国家法团主义]]、[[Compensatory Legitimation|补偿性合法化]]与[[Financial-Intellectual Complex|金融-智识复合体]]等核心[[Construct|构念]]，推动比较教育学彻底摆脱西方中心主义的现代化叙事与技术官僚迷思。（pp. 77–85）
 
 ---
 
@@ -114,14 +113,14 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Conditioned State Theory\|受制国家理论]]** | 阐明外围资本主义国家受到世界体系边缘从属地位与本土阶级结构双重约束，本土精英结成排他性支配同盟，导致国家丧失自主整合市场与主权的能力。（pp. 83–84） |
+> | **[[Conditioned State Theory\|受限国家理论]]** | 阐明外围资本主义国家受到世界体系边缘从属地位与本土阶级结构双重约束，本土精英结成排他性支配同盟，导致国家丧失自主整合市场与主权的能力。（pp. 83–84） |
 > | **[[State Corporatism\|国家法团主义]]** | 解释威权后革命国家自上而下通过垄断性代表网络收编工会与教师群体，将教育体系转化为维系国家霸权体制的政治杠杆。（p. 83） |
 > | **[[Compensatory Legitimation\|补偿性合法化]]** | 揭示国家在面临严重资本积累危机与合法性匮乏时，以教育普及与成人扫盲作为平抑阶级矛盾的代偿性整合机制。（p. 84） |
 > | **[[Politicity of Education\|教育的政治性]]** | 继承[[Paulo Freire\|保罗·弗莱雷]]（Paulo Freire）思想，揭示教育在认识论、分析与伦理维度上不可剥离的权力属性，瓦解技术官僚中立神话。（pp. 77–78） |
 > | **[[Financial-Intellectual Complex\|金融-智识复合体]]** | 剖析[[World Bank\|世界银行]]将巨额贷款与定向[[Categorical Funding\|委托研究]]深度绑定，推行新古典教育经济学霸权与结构调整政策的机制。（pp. 80–81） |
 
 > [!warrant]- 理论如何支撑论证
-> 两位作者以历史唯物主义辩证总体性视角为基座，将资本积累机制与政治合法化矛盾确立为贯穿国家教育政策的核心分析支柱。通过引入受制国家与国家[[Neocorporatism|法团主义]]框架，作者打通了“世界体系边缘从属地位 ➔ 本土代用国家异化 ➔ 教育制度阶级双轨化 ➔ 新自由主义跨国金融[[Disciplina and Doctrina|规训]] ➔ 大众批判反抗与[[Praxis|实践哲学]]复兴”的完整逻辑链条，有力证成了教育扩张绝非[[Technical Rationality|技术理性]]的自然演化，而是国家在深刻历史阶级矛盾中维系统治秩序与资本积累的制度妥协。（pp. 75–76, 83–85）
+> 两位作者以历史唯物主义辩证总体性视角为基座，将资本积累机制与政治合法化矛盾确立为贯穿国家教育政策的核心分析支柱。通过引入受限国家与国家[[Neocorporatism|法团主义]]框架，作者打通了“世界体系边缘从属地位 ➔ 本土代用国家异化 ➔ 教育制度阶级双轨化 ➔ 新自由主义跨国金融[[Disciplina and Doctrina|规训]] ➔ 大众批判反抗与[[Praxis|实践哲学]]复兴”的完整逻辑链条，有力证成了教育扩张绝非[[Technical Rationality|技术理性]]的自然演化，而是国家在深刻历史阶级矛盾中维系统治秩序与资本积累的制度妥协。（pp. 75–76, 83–85）
 
 ---
 
@@ -150,7 +149,7 @@ issuing_organization: ""
 > flowchart LR
 >     A["步骤一：反思普世扩张叙事<br>资本积累与殖民遗产塑造阶级分选"] --> B["步骤二：解构技术中立神话<br>教育必然体现国家理论与政治利益"]
 >     B --> C["步骤三：剖析新自由主义规训<br>跨国金融-智识复合体将教育商品化"]
->     C --> D["步骤四：深描拉美外围经验<br>受制国家利用法团扫盲实施补偿性合法化"]
+>     C --> D["步骤四：深描拉美外围经验<br>受限国家利用法团扫盲实施补偿性合法化"]
 >     D --> E["步骤五：开辟批判替代路线<br>联合社会各阶层重构解放性实践哲学"]
 > ```
 
@@ -196,7 +195,7 @@ issuing_organization: ""
 > 在政策讨论中，官员和国际咨询专家常常使用提高成本效益、实现技术升级等专业术语，将教育改革描绘成纯粹客观的科学工程。然而，任何具体的教育诊断、质量标准与改革方案，背后都默认了一套关于国家应当服务于谁的理论假定；抽离国家权力去空谈教育改革，是对客观现实的严重遮蔽。（pp. 73–74）
 
 > [!claim] 核心判断：标榜技术中立的教育规划掩盖了国家作为阶级权力工具的本质
-> 正如[[Christopher Martin|马丁]]·卡诺伊（Martin Carnoy, 1992）所指出的，绝大多数教育政策分析都暗含着一种国家理论。自由主义假定国家是中立的仲裁者，新马克思主义则揭示国家是维系统治阶级政治经济利益的暴力与统识工具。如果研究者不澄清自己依赖的国家观，就会无意识地沦为既有权力秩序的辩护士。（pp. 73–74）
+> 正如马丁·卡诺伊（Martin Carnoy, 1992）所指出的，绝大多数教育政策分析都暗含着一种国家理论。自由主义假定国家是中立的仲裁者，新马克思主义则揭示国家是维系统治阶级政治经济利益的暴力与统识工具。如果研究者不澄清自己依赖的国家观，就会无意识地沦为既有权力秩序的辩护士。（pp. 73–74）
 
 > [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论国家理论对教育规划的前提性支配
 > 界定教育的“真实”问题以及最适宜（如最具成本效益、伦理上可接受且具有合法性）的解决方案，在很大程度上取决于支撑、证成并指引教育诊断与提议方案的国家理论。然而，正如马丁·卡诺伊（Martin Carnoy, 1992）所指出的，大多数教育问题分析都暗含着一种国家理论，但在教育研究与实践中，这种理论的根本前提却极少被识别或阐明。对我们自身的理论假定保持自我审思，是开展扎实学术研究的前提条件。（pp. 73–74）
@@ -306,16 +305,16 @@ issuing_organization: ""
 
 依附论与政治经济学的交汇，确立了理解拉美国家制度特性的核心概念。
 
-> [!claim] 核心判断：外围[[Conditioned State Theory|受制国家]]无法代表公共利益，沦为统治阶级的支配同盟
-> 外围国家并不是具有自主调控主权的国家，而是双重受限的[[Conditioned State Theory|受制国家]]（Conditioned State）：在外部，其经济受制于资本主义中心国家与跨国公司的利益边界；在内部，其政治受制于大地主与买办资产阶级结成的排他性同盟。大众在历史上从未真正拥有平等的公民参与权，国家对于底层民众而言只是统治阶层的掠夺工具。（pp. 83–84）
+> [!claim] 核心判断：外围[[Conditioned State Theory|受限国家]]无法代表公共利益，沦为统治阶级的支配同盟
+> 外围国家并不是具有自主调控主权的国家，而是双重受限的[[Conditioned State Theory|受限国家]]（Conditioned State）：在外部，其经济受制于资本主义中心国家与跨国公司的利益边界；在内部，其政治受制于大地主与买办资产阶级结成的排他性同盟。大众在历史上从未真正拥有平等的公民参与权，国家对于底层民众而言只是统治阶层的掠夺工具。（pp. 83–84）
 
-> [!logic-map] 受制国家教育政策生成的制度因果链
+> [!logic-map] 受限国家教育政策生成的制度因果链
 > 资本主义世界体系依附地位 + 内部后封建寡头结构 ➔ 统治阶层结成排他性支配同盟 ➔ 国家丧失自主规划经济与统合公共利益的能力 ➔ 面对工农抗议时推行教育大众化，但因财力受制且偏袒精英形成阶级双轨制 ➔ 遭遇外债危机时服从世界银行指示，利用[[Compensatory Legitimation|补偿性合法化]]收买底层并加速教育私有化。
 
 > [!claim] 核心判断：[[State Corporatism|国家法团主义]]将扫盲与成人教育当作换取社会顺从的补偿性合法化工程
 > 在墨西哥等实行[[State Corporatism|国家法团主义]]的国家，政府通过自上而下控制全国教师工会，将教育系统打造成维护政权稳定的减震器。当债务危机和贫富分化危及政权稳定时，国家并不是去触动根本的财富分配，而是发起大规模的扫盲和成人教育运动，作为一项[[Compensatory Legitimation|补偿性合法化]]工程，用微薄的边际福利换取工农阶级对威权统治的政治支持。（pp. 83–84）
 
-三个典型国别实证案例揭示了受制国家机制在基层的具体落地形态：
+三个典型国别实证案例揭示了受限国家机制在基层的具体落地形态：
 
 > [!case] 墨西哥国家[[Neocorporatism|法团主义]]恩庇体系与成人扫盲补偿（Torres & Morales-Gómez）
 > 墨西哥政府在法律上确立了全国教育工作者工会（Sindicato Nacional de Trabajadores de la Educación, SNTE）对公立学校教师的绝对代表权，将数十万教师牢牢绑定在革命制度党（Partido Revolucionario Institucional, PRI）恩庇体系中。面对数以百万计的失学农民和文盲，政府于 1980 年代成立全国成人教育学会（Instituto Nacional para la Educación de los Adultos, INEA），在全国推行扫盲运动。托雷斯（Torres, 1991）与莫拉莱斯-戈麦斯（Morales-Gómez）的实证研究表明，这项扫盲政策的主要功能并不是为了实质提升工农的政治经济地位，而是作为补偿性合法化的关键手段：通过给予底层大众受教育的象征性希望，平息社会不满，巩固一党威权体制。（pp. 83–84）
@@ -326,7 +325,7 @@ issuing_organization: ""
 > [!case] 世界银行贷款附加条件与阿根廷布宜诺斯艾利斯大学重构（Schugurensky, 1994）
 > 丹尼尔·舒古伦斯基（Daniel Schugurensky）对阿根廷历史最悠久、规模最大的布宜诺斯艾利斯大学（Universidad de Buenos Aires, UBA）的[[Case Study|个案研究]]表明，世界银行利用结构调整贷款作为施压工具，要求阿根廷政府压缩国立大学财政预算，强行要求公立大学在研究生阶段开征学费、面向企业创收自筹资金，并推行技术官僚考核。这项干预旨在削弱拉美大学传统上浓厚的人文社会科学批判传统，迫使高深学府沦为依附于跨国资本积累的职业技能培训所。（pp. 81, 85）
 
-面对受制国家机器与法团主义官僚恩庇，拉美基层社会孕育了自主的批判教育抵抗传统。
+面对受限国家机器与法团主义官僚恩庇，拉美基层社会孕育了自主的批判教育抵抗传统。
 
 > [!claim] 核心判断：[[Popular Education|民众教育]]解构“[[Bildung|教化]]主权者”神话，确立工农大众历史主体性
 > 尽管拉美自由主义国家试图通过扩大公立教育确立其统治合法性，并将政策理由总结为“教化主权者”（educate the sovereign），但 1960 年代伴随受压迫者教育学、[[Conscientization|批判意识觉醒]]与[[Popular Education|民众教育]]（Educación Popular）的兴起，这一资产阶级恩赐假定遭到了彻底解构。民众教育坚决反对国家法团主义将成人扫盲蜕变为换取政治顺从的恩庇工具，主张教育必须扎根大众生活现实，通过对等对话激发批判意识，成为被压迫阶级自我赋权与民主反抗的自主武器。（p. 84）
@@ -366,7 +365,7 @@ issuing_organization: ""
 > [!finding-cards] 核心发现
 > 1. **教育扩张受制于资本积累与殖民遗产** 战后全球教育扩张不是世界文化均质趋同的产物，而是受制于接入世界体系的历史阶段与前殖民阶级遗产，外围国家普遍演化出双轨分选教育格局。（pp. 74–76）
 > 2. **教育政策天然具备固有政治性** 任何教育诊断均暗含特定的国家理论假定，学校教育是国家维系资本积累与政治合法性妥协的争鸣[[Champ|场域]]，技术中立修辞掩盖了阶级支配本质。（pp. 73–74, 77–78）
-> 3. **[[Conditioned State Theory|受制国家]]推行[[Neocorporatism|法团主义]][[Compensatory Legitimation|补偿性合法化]]** 拉美外围国家受跨国资本与本土后封建寡头双重约束，演化为排他性受制国家，通过自上而下控制工会与推行大众扫盲以边际福利换取底层顺从。（pp. 83–84）
+> 3. **[[Conditioned State Theory|受限国家]]推行[[Neocorporatism|法团主义]][[Compensatory Legitimation|补偿性合法化]]** 拉美外围国家受跨国资本与本土后封建寡头双重约束，演化为排他性受限国家，通过自上而下控制工会与推行大众扫盲以边际福利换取底层顺从。（pp. 83–84）
 > 4. **[[Financial-Intellectual Complex|金融-智识复合体]]通过市场化剥夺公民权** [[World Bank|世界银行]]操纵跨国智识与贷款复合体，强推私有化与分权化削减公共开支，唯有联合社会各阶层重构批判[[Praxis|实践哲学]]方能开辟解放路径。（pp. 80–81, 84–85）
 
 ---
@@ -378,8 +377,8 @@ issuing_organization: ""
 >
 > *Samoff argues persuasively that the World Bank is a major player in an intellectual and financial complex pursuing the transnationalization of knowledge and expertise, using a community of experts for hire in a process where there is a strong confluence of research and educational financing. The world is seen as having a pivotal role in the network of power and decision making in education worldwide, influencing in peculiar ways research and policy-making in developing countries as well as influencing the international discourse in education by different means.*
 
-> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论[[Conditioned State Theory|受制国家]]与依附性危机
-> 受制国家的理论进一步拓展并澄清了依附国家的概念，指出国家受制于其经济在世界体系中扮演的外围角色以及自身政治体系中显著的后封建元素。因此，拉美受制国家无法正常履行其公共职能：一方面，本土经济的脆弱性使本土统治集团不愿允许大众以多元方式参与国家官僚机构的遴选；另一方面，底层阶级历史上更倾向于将国家视为统治阶级的支配同盟或代用国家，而非代表公民利益的独立公权力。（p. 83）
+> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论[[Conditioned State Theory|受限国家]]与依附性危机
+> 受限国家的理论进一步拓展并澄清了依附国家的概念，指出国家受制于其经济在世界体系中扮演的外围角色以及自身政治体系中显著的后封建元素。因此，拉美受限国家无法正常履行其公共职能：一方面，本土经济的脆弱性使本土统治集团不愿允许大众以多元方式参与国家官僚机构的遴选；另一方面，底层阶级历史上更倾向于将国家视为统治阶级的支配同盟或代用国家，而非代表公民利益的独立公权力。（p. 83）
 >
 > *The theory of the "conditioned states" in the Third World, expanding upon and clarifying the notion of the dependent state, argues that the state is conditioned "by the nature of the peripheral role that its economy plays in the world system and the significant (postfeudal) elements in its own political system". Therefore, Latin American "conditioned states" have not been able to carry out their public functions properly for a number of reasons. On the one hand, the fragility of local economies made local dominant groups unwilling to allow the pluralist participation of the masses in the selection of the state bureaucracy. On the other hand, since the state historically has been identified by the popular sectors more as a pact of domination by the dominant classes, or a surrogate state, it has not been seen as an independent state working on behalf of the citizenry.*
 

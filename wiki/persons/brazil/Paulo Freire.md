@@ -132,7 +132,7 @@ updated: 2026-09-28
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 将弗莱雷储蓄式教育概念拓展为知识地缘政治工具，剖析赫尔巴特五段教学法与日本殖民教育中的强制[[Knowledge Transfer|知识转移]]机制。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 系统提炼弗莱雷的[[Problem-Posing Education|提问式教育]]、[[Conscientization|批判意识觉醒]]（Conscientização）与反思实践（[[Praxis]]）[[Central Phenomenon|核心范畴]]。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 吸收弗莱雷打破压迫性权威的对话精神，针对生成式 AI 时代的成长性[[Epistemic Injustice|认识不正义]]，提出[[Alien Intelligence|异己智能]]反向审问与思维全外显防御方案。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 继承弗莱雷关于教育政治性与争夺场域的洞见，系统剖析外围[[Conditioned State Theory|受制国家]]教育扩张的阶级矛盾。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 继承弗莱雷关于教育政治性与争夺场域的洞见，系统剖析外围[[Conditioned State Theory|受限国家]]教育扩张的阶级矛盾。
 
 ---
 

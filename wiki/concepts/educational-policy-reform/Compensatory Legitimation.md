@@ -54,7 +54,7 @@ updated: 2026-09-28
 ## 定义
 
 > [!def] 核心定义
-> 补偿性合法化（Compensatory Legitimation）是指国家政权（尤其是承受深刻经济依赖或威权转型的[[Neocorporatism|法团主义]]与[[Conditioned State Theory|受制国家]]）在面临资本积累矛盾、严重社会分层与执政信任赤字时，通过自上而下大规模推行象征性的公共教育福利、入学名额扩增、成人扫盲与职业培训项目，以此作为平抑底层阶级激进化、换取大众政治顺从以及修补国家统治霸权的代偿性治理策略。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
+> 补偿性合法化（Compensatory Legitimation）是指国家政权（尤其是承受深刻经济依赖或威权转型的[[Neocorporatism|法团主义]]与[[Conditioned State Theory|受限国家]]）在面临资本积累矛盾、严重社会分层与执政信任赤字时，通过自上而下大规模推行象征性的公共教育福利、入学名额扩增、成人扫盲与职业培训项目，以此作为平抑底层阶级激进化、换取大众政治顺从以及修补国家统治霸权的代偿性治理策略。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向国家利用公共教育的包容性表象，代偿性化解经济不平等所引发的政治合法性危机。
@@ -111,7 +111,7 @@ updated: 2026-09-28
 > 探讨威权或依附型国家如何在不触动根本经济所有制与财富分配的前提下，通过动用教育福利作为政治减震器。
 
 > [!claim] [[Liliana Esther Olmos|Olmos, L. E.]] & [[Carlos Alberto Torres|Torres, C. A.]]
-> **阶级冲突的象征性吸纳** 在资本主义外围[[Conditioned State Theory|受制国家]]中，统治同盟面对深重的经济停滞与群众抗议时，无法推行根本性的收入再分配，因而将大众教育普及（尤其是初等识字与成人教育）作为政治替代品；通过向被排斥群体施予受教育的象征性希望，国家成功平抑了潜在的革命危机，维系了政权霸权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
+> **阶级冲突的象征性吸纳** 在资本主义外围[[Conditioned State Theory|受限国家]]中，统治同盟面对深重的经济停滞与群众抗议时，无法推行根本性的收入再分配，因而将大众教育普及（尤其是初等识字与成人教育）作为政治替代品；通过向被排斥群体施予受教育的象征性希望，国家成功平抑了潜在的革命危机，维系了政权霸权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 
 ---
 
@@ -141,7 +141,7 @@ updated: 2026-09-28
 > - **1973 — 积累与合法化危机理论** 詹姆斯·奥康纳（James O'Connor）在《国家的财政危机》中提出资本主义国家必须兼顾积累与合法化双重矛盾职能，奠定理论前驱。
 > - **1980年代 — 魏勒论教育合法化** 汉斯·魏勒（Hans N. Weiler）系统分析现代国家如何将教育规划与科研作为平抑治理矛盾的补偿性合法化机制。
 > - **1990/1991 — [[State Corporatism|国家法团主义]]结合** [[Carlos Alberto Torres|托雷斯]]（Torres）与莫拉莱斯-戈麦斯将该概念植入拉美国家[[Neocorporatism|法团主义]]分析，明确指出成人扫盲是墨西哥政权的补偿性工程。
-> - **2009 — 全球化结构调整视阈拓展** [[Liliana Esther Olmos|奥尔莫斯]]（Olmos）与托雷斯（Torres）将补偿性合法化拓展至新自由主义全球化下[[Conditioned State Theory|受制国家]]的应对策略，揭示市场化改革中的边际福利吸纳功能。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
+> - **2009 — 全球化结构调整视阈拓展** [[Liliana Esther Olmos|奥尔莫斯]]（Olmos）与托雷斯（Torres）将补偿性合法化拓展至新自由主义全球化下[[Conditioned State Theory|受限国家]]的应对策略，揭示市场化改革中的边际福利吸纳功能。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 
 ---
 

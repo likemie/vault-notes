@@ -184,7 +184,6 @@ related_persons:
   - "[[Wang Yangming]]"
   - "[[Catherine Lewis]]"
   - "[[Zhuangzi]]"
-  - "[[Christopher Martin]]"
 related_arguments: []
 sources:
   - "[[books/Li_2012_Cambridge/Li_2012_Cambridge|Li_2012_Cambridge]]"
@@ -3138,7 +3137,7 @@ Li 从古希腊追溯这一传统的起源——雅典娜创设的陪审团审�
 
 **3. 说话作为领导力特质（speaking as leadership）**
 
-Li 列出了一条从古至今的演说家—领导者谱系(pp.81-83)：古希腊十大阿提卡演说家 → Demosthenes → Cicero → 法国大革命的罗伯斯庇尔和丹东 → 二战时的丘吉尔和罗斯福 → [[Christopher Martin|马丁]]·路德·金 → 奥巴马。
+Li 列出了一条从古至今的演说家—领导者谱系(pp.81-83)：古希腊十大阿提卡演说家 → Demosthenes → Cicero → 法国大革命的罗伯斯庇尔和丹东 → 二战时的丘吉尔和罗斯福 → 马丁·路德·金 → 奥巴马。
 
 这条谱系传递的信息是：**在西方，政治领导力与演说能力几乎不可分离。立法机构的审议以口头辩论为首要手段；教会的兴衰可能取决于讲道的质量；企业在危机时刻更需要领导者"站出来说话"。
 

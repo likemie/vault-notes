@@ -23,6 +23,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Value Neutrality]]"
   - "[[Perpetual Peace]]"
+  - "[[Popular Education]]"
   - "[[Artefact]]"
   - "[[Policy Borrowing]]"
   - "[[Bildung]]"
@@ -124,7 +125,7 @@ updated: 2026-09-22
 > [!citation-card] [[Horace Mann\|霍勒斯·曼]]论普及教育作为自由共和唯一基石
 > 一个国家无法在愚昧无知中长久维系自由。任何政治体制无论设计得多么巧妙，都无法天然保证公民的权利与自由，因为自由只有在知识于民众中广泛普及时才能稳固。因此，全民普及教育是共和政府赖以安身立命的唯一基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 32; Cremin, 1957, p. 7)]]
 >
-> *A nation cannot long remain ignorant and free. No political structure, however artfully devised, can inherently guarantee the rights and liberties of citizens, for freedom can be secure only as knowledge is widely distributed among the populace. Hence, universal popular education is the only foundation on which republican government can securely rest.*
+> *A nation cannot long remain ignorant and free. No political structure, however artfully devised, can inherently guarantee the rights and liberties of citizens, for freedom can be secure only as knowledge is widely distributed among the populace. Hence, universal [[Popular Education]] is the only foundation on which republican government can securely rest.*
 
 在概念边界界定上，必须将其与实证主义、表面借用及[[Hegemony|文化霸权]]明确区分：
 

@@ -5,7 +5,7 @@ aliases:
   - 依附论
   - dependency lens in comparative education
   - centre-periphery in comparative education
-summary: "兴起于拉丁美洲并拓展至比较教育的新马克思主义批判路径。拒绝现代化理论将欠发展归结为内部缺失的技术主义假设，主张从全球资本主义世界体系的中心-边缘结构性支配、跨国垄断资本掠夺、受制国家阶级联盟及文化帝国主义机制出发，解释第三世界国家教育不平等、双轨分流及学术依附"
+summary: "兴起于拉丁美洲并拓展至比较教育的新马克思主义批判路径。拒绝现代化理论将欠发展归结为内部缺失的技术主义假设，主张从全球资本主义世界体系的中心-边缘结构性支配、跨国垄断资本掠夺、受限国家阶级联盟及文化帝国主义机制出发，解释第三世界国家教育不平等、双轨分流及学术依附"
 type: theory
 theory_field: "comparative-education"
 theory_related_count: 44
@@ -59,7 +59,6 @@ related_methods:
 related_persons:
   - "[[Carlos Alberto Torres]]"
   - "[[Liliana Esther Olmos]]"
-  - "[[Christopher Martin]]"
   - "[[Eleftherios Klerides]]"
 related_facts:
   - "[[World Bank]]"
@@ -103,12 +102,12 @@ updated: 2026-09-28
 ### 后续修订与扩展
 
 > [!dev-timeline] 理论版本与贡献
-> - **1974 — 学科文化帝国主义奠基** [[Christopher Martin|马丁]]·卡诺伊（Carnoy, 1974）系统批判正规学校教育在殖民与新殖民秩序中的顺从驯化功能，开创依附论比较教育[[Paradigm|研究范式]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 426)]]
+> - **1974 — 学科文化帝国主义奠基** 马丁·卡诺伊（Carnoy, 1974）系统批判正规学校教育在殖民与新殖民秩序中的顺从驯化功能，开创依附论比较教育[[Paradigm|研究范式]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 426)]]
 > - **1977–1978 — 心灵奴役与学术依附命题** 菲利普·阿尔特巴赫（Altbach, 1977）提出“心灵的奴役”（Servitude of the Mind），揭示学术期刊、科研出版与国际学位垄断如何在外围学者中再生产非自觉的学术依附。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 427)]]
 > - **1980 — 世界体系引入与慈善帝国主义批判** 罗伯特·阿诺夫（Arnove, 1980）将沃勒斯坦世界体系论引入比较教育，深刻解构西方跨国慈善基金会以援助之名巩固资本主义中心支配的实质。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 426–427)]]
 > - **1990 — 社会主义社会过渡与[[Critical Pedagogy|解放教育学]]** 卡诺伊与萨莫夫（Carnoy & Samoff, 1990）探究第三世界国家在向社会主义过渡期，如何借助激进教育革命清除依附性阶级残余。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 427–428)]]
 > - **2000s–2010s — 高教地缘政治与学术新殖民主义** 阿尔特巴赫等学者继续运用中心-边缘透镜，批判全球大学排行榜与英语学术霸权对全球南方学术主权的侵害。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 4–5)]]
-> - **2009 — [[Conditioned State Theory|受制国家理论]]与新自由主义全球化批判** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）突破世界体系论将 1945 年后视作均质同构的“大爆炸”历史虚无主义，提出“受制国家”概念，系统剖析第三世界教育扩张畸变、[[Dual School System|双轨学制]]固化及[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的去主权化规训。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–75, 81–85)]]
+> - **2009 — [[Conditioned State Theory|受限国家理论]]与新自由主义全球化批判** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）突破世界体系论将 1945 年后视作均质同构的“大爆炸”历史虚无主义，提出“受限国家”概念，系统剖析第三世界教育扩张畸变、[[Dual School System|双轨学制]]固化及[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的去主权化规训。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–75, 81–85)]]
 
 ---
 
@@ -118,7 +117,7 @@ updated: 2026-09-28
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | [[Conditioned State Theory\|受制国家]] | 概念 / 机制 | 刻画外围国家双重受限于外部跨国资本积累边界与内部寡头同盟利益，无法代表公共利益的依附性国家机器。 |
+> | [[Conditioned State Theory\|受限国家]] | 概念 / 机制 | 刻画外围国家双重受限于外部跨国资本积累边界与内部寡头同盟利益，无法代表公共利益的依附性国家机器。 |
 > | 中心-边缘利益联盟 | 机制 | 揭示“中心中的中心”（西方科研核心、多边机构）与“边缘中的中心”（本土买办精英）如何通过[[Policy Borrowing\|政策借用]]与文凭垄断共同剥削边缘大众。 |
 > | [[Dual School System\|外围双轨学制]] | 概念 / 结果 | 表征依附性资本积累下优质私立/高阶公立教育归精英所有、低劣公立初职教育沉淀工农的制度区隔。 |
 > | [[Compensatory Legitimation\|补偿性合法化]] | 机制 | 说明国家在资本积累受挫与财政债务危机时，利用过度供给边际文凭与扫盲运动换取政治顺从的代偿性治理手段。 |
@@ -136,10 +135,10 @@ updated: 2026-09-28
 
 ---
 
-> [!theory-proposition] 命题二｜跨国垄断资本与边缘买办精英结成支配同盟，将外围国家塑造成[[Conditioned State Theory|受制国家]]并推行双轨教育
-> **解释** 外围国家的国家机器缺乏自主性，沦为双重受限的[[Conditioned State Theory|受制国家]]（Conditioned State）：外部受制于跨国垄断资本的积累规则，内部受制于本土后封建寡头与买办资产阶级结成的排他性同盟。受制国家在推进教育扩张时展现出严重的阶级偏向：高等与中等教育获得不成比例的巨额财政投入以满足城市精英的文凭特权，而最基础的全民初等教育与成人扫盲长期滞后；整个教育系统由此分裂为服务富裕阶层的优质轨道与束缚底层的劣质初职公立轨道构成的外围双轨体系。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–84)]]
+> [!theory-proposition] 命题二｜跨国垄断资本与边缘买办精英结成支配同盟，将外围国家塑造成[[Conditioned State Theory|受限国家]]并推行双轨教育
+> **解释** 外围国家的国家机器缺乏自主性，沦为双重受限的[[Conditioned State Theory|受限国家]]（Conditioned State）：外部受制于跨国垄断资本的积累规则，内部受制于本土后封建寡头与买办资产阶级结成的排他性同盟。受限国家在推进教育扩张时展现出严重的阶级偏向：高等与中等教育获得不成比例的巨额财政投入以满足城市精英的文凭特权，而最基础的全民初等教育与成人扫盲长期滞后；整个教育系统由此分裂为服务富裕阶层的优质轨道与束缚底层的劣质初职公立轨道构成的外围双轨体系。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–84)]]
 >
-> **应用实例** [[UNESCO|联合国教科文组织]]（UNESCO, 1974）实证统计表明，拉美工业化初期高等教育增长 247.9%、中等教育增长 258.3%，而基础初等教育仅增长 167.6%，成人文盲绝对规模维持恒定，生动印证了受制国家优先满足精英利益的双轨教育特征。
+> **应用实例** [[UNESCO|联合国教科文组织]]（UNESCO, 1974）实证统计表明，拉美工业化初期高等教育增长 247.9%、中等教育增长 258.3%，而基础初等教育仅增长 167.6%，成人文盲绝对规模维持恒定，生动印证了受限国家优先满足精英利益的双轨教育特征。
 
 ---
 
@@ -151,7 +150,7 @@ updated: 2026-09-28
 ---
 
 > [!theory-proposition] 命题四｜债务危机与新自由主义重组将依附推向新阶段，跨国[[Financial-Intellectual Complex|金融-智识复合体]]通过结构调整剥夺教育公共性
-> **解释** 20 世纪 70 年代末世界经济转型与第三世界外债危机爆发后，依附机制由早期的国家间援助转向国际多边金融组织的强制[[Disciplina and Doctrina|规训]]。[[World Bank|世界银行]]与国际货币基金组织结成[[Financial-Intellectual Complex|金融-智识复合体]]，将结构调整贷款作为政策武器，强行要求受援国缩减公共教育预算、开征学生学杂费（使用者自费）、推行学校私有化与教育券制度。受制国家被迫将教育投资成本向底层家庭转嫁，进一步摧毁了公共教育的公益性与社会平衡功能。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80, 83–85)]]
+> **解释** 20 世纪 70 年代末世界经济转型与第三世界外债危机爆发后，依附机制由早期的国家间援助转向国际多边金融组织的强制[[Disciplina and Doctrina|规训]]。[[World Bank|世界银行]]与国际货币基金组织结成[[Financial-Intellectual Complex|金融-智识复合体]]，将结构调整贷款作为政策武器，强行要求受援国缩减公共教育预算、开征学生学杂费（使用者自费）、推行学校私有化与教育券制度。受限国家被迫将教育投资成本向底层家庭转嫁，进一步摧毁了公共教育的公益性与社会平衡功能。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80, 83–85)]]
 >
 > **应用实例** 智利皮诺切特军政权在世界银行顾问指导下激进推行学校私有化与教育券政策，导致公立学校体系破败崩塌，大批普通中产家庭为了子女教育背负沉重债务，最终沦为新自由主义市场化改革的牺牲品。
 
@@ -170,7 +169,7 @@ updated: 2026-09-28
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---------|:---------------|:-----------------|:-----------------|
 > | **中心-边缘结构支配（命题一）** | 该国教育改革是出于本土民主诉求，还是迎合中心资本与外部多边机构的政策转移？ | 国际援助协议文本、[[World Bank\|世界银行]]国家报告、外来专家主导的课程设计。 | 若政策优先考虑还贷能力与外资劳动力需求而非全民基础识字，支持依附性解释。 |
-> | **[[Conditioned State Theory\|受制国家]]阶级同盟（命题二）** | 国家公共教育投资在各层级与不同人群之间的分配是否呈现倒金字塔偏向？ | 初等、中等、高等教育阶段生均公用经费比值；公私立学校质量分流数据。 | 若高等教育获巨额财政倾斜而基础扫盲停滞，支持受制国家[[Compensatory Legitimation\|补偿性合法化]]假说。 |
+> | **[[Conditioned State Theory\|受限国家]]阶级同盟（命题二）** | 国家公共教育投资在各层级与不同人群之间的分配是否呈现倒金字塔偏向？ | 初等、中等、高等教育阶段生均公用经费比值；公私立学校质量分流数据。 | 若高等教育获巨额财政倾斜而基础扫盲停滞，支持受限国家[[Compensatory Legitimation\|补偿性合法化]]假说。 |
 > | **[[Financial-Intellectual Complex\|金融-智识复合体]][[Disciplina and Doctrina\|规训]]（命题四）** | 教育市场化与私有化改革是否伴随国际紧缩贷款强制推行？ | 使用者付费政策出台背景、教育券推行记录、公立学校经费缩减历史文件。 | 区分国家主动推进的公共管理优化与因外部债务胁迫而实施的成本转嫁。 |
 > | **学术依附与心灵奴役（命题三）** | 本土高等教育评价与课程设置是否完全仰赖西方母体规范与英语期刊索引？ | 大学科研评价指南、教材翻译引进比例、留学生外流与本土议程边缘化程度。 | 结合地缘政治与学术资本积累机制综合研判，防范泛化指责一切正常国际学术交流。 |
 
@@ -183,7 +182,7 @@ updated: 2026-09-28
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, pp. 81–82)]] | 拉丁美洲地区（1960–1970 年联合国教科文组织普查） | 宏观统计趋势比较 | 中等、高等、初等入学增长率与成人文盲规模 | 中等教育增长 258.3%；高等教育增长 247.9%；初等教育增长 167.6%；成人文盲绝对规模维持恒定 | — | 实证证明依附论关于外围[[Conditioned State Theory\|受制国家]]教育扩张优先服务精英高阶文凭需求、忽视底层基础识字的双轨依附假说 |
+> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, pp. 81–82)]] | 拉丁美洲地区（1960–1970 年联合国教科文组织普查） | 宏观统计趋势比较 | 中等、高等、初等入学增长率与成人文盲规模 | 中等教育增长 258.3%；高等教育增长 247.9%；初等教育增长 167.6%；成人文盲绝对规模维持恒定 | — | 实证证明依附论关于外围[[Conditioned State Theory\|受限国家]]教育扩张优先服务精英高阶文凭需求、忽视底层基础识字的双轨依附假说 |
 
 ---
 
@@ -224,7 +223,7 @@ updated: 2026-09-28
 > |:-----|:-----|:-----|
 > | [[Conditioned State Theory]] | 理论 | 依附论在教育社会学中的最新推进，阐明外围国家双重依附对教育扩张的扭曲机制。 |
 > | [[Dual School System]] | 概念 | 依附论在微观学制层面的关键体现，刻画边缘国家精英高阶通道与大众低阶救济的双轨分裂。 |
-> | [[Compensatory Legitimation]] | 理论 | 依附论解释受制国家利用非生产性教育文凭缓和资本积累危机的政治代偿机制。 |
+> | [[Compensatory Legitimation]] | 理论 | 依附论解释受限国家利用非生产性教育文凭缓和资本积累危机的政治代偿机制。 |
 > | [[Financial-Intellectual Complex]] | 概念 | 依附论用于解构[[World Bank\|世界银行]]等跨国金融机构智识与借贷资本捆绑霸权的核心概念。 |
 > | [[World-Systems Theory]] | 理论 | 为依附论提供宏观中心-边缘世界秩序框架，同时被[[Critical Pedagogy\|批判教育学]]者反思其缺乏本土阶级分析。 |
 > | [[World Society Theory]] | 理论 | 依附论的核心论敌，主张世界文化同质扩散，被依附论学者指责为掩盖帝国主义掠夺的普世神话。 |
@@ -239,4 +238,4 @@ updated: 2026-09-28
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 将依附理论比较教育置于[[Revolutionism|革命主义]]国际关系传统中，详述其在拒绝缺失解释、批判文化帝国主义与社会过渡教育方面的历史脉络。
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 揭示[[Geopolitics of Higher Education|高等教育地缘政治]]发展阶段，分析冷战后学者运用中心-边缘与依附论框架探讨学术新殖民主义与全球高等教育不平等机制的作用。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 建立[[Conditioned State Theory|受制国家理论]][[Analytic Framework|分析框架]]，批判普世[[World Society Theory|世界文化理论]]，深刻揭示拉美教育倒金字塔式双轨扩张与[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的政策[[Disciplina and Doctrina|规训]]。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 建立[[Conditioned State Theory|受限国家理论]][[Analytic Framework|分析框架]]，批判普世[[World Society Theory|世界文化理论]]，深刻揭示拉美教育倒金字塔式双轨扩张与[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的政策[[Disciplina and Doctrina|规训]]。

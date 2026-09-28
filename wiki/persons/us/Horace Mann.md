@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Popular Education]]"
   - "[[Normal School]]"
   - "[[Educational Meliorism]]"
   - "[[Rote Learning]]"
@@ -74,7 +75,7 @@ updated: 2026-09-17
 > [!citation-card] 人物定位的关键来源
 > 著名历史学家劳伦斯·克雷明指出：曼深刻理解自由、大众教育与共和政府之间的内在必然关联。一个国家无法在愚昧无知中长久维系自由。任何政治体制无论设计得多么巧妙，都无法天然保证公民的权利与自由，因为自由只有在知识于民众中广泛普及时才能稳固。因此，全民普及教育是共和政府赖以安身立命的唯一基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 32)]]
 >
-> *Mann understood well the integral relationship between freedom, popular education, and republican government ... A nation cannot long remain ignorant and free. No political structure, however artfully devised, can inherently guarantee the rights and liberties of citizens, for freedom can be secure only as knowledge is widely distributed among the populace. Hence, universal popular education is the only foundation on which republican government can securely rest.*
+> *Mann understood well the integral relationship between freedom, [[Popular Education]], and republican government ... A nation cannot long remain ignorant and free. No political structure, however artfully devised, can inherently guarantee the rights and liberties of citizens, for freedom can be secure only as knowledge is widely distributed among the populace. Hence, universal popular education is the only foundation on which republican government can securely rest.*
 
 ---
 
@@ -142,7 +143,7 @@ updated: 2026-09-17
 > [!citation-card] 知识普遍分配与自由共和存续（1848）
 > 曼深刻理解自由、大众教育与共和政府之间的内在必然关联……一个国家无法在愚昧无知中长久维系自由。任何政治体制无论设计得多么巧妙，都无法天然保证公民的权利与自由，因为自由只有在知识于民众中广泛普及时才能稳固。因此，全民普及教育是共和政府赖以安身立命的唯一基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 32; Cremin, 1957, p. 7)]]
 >
-> *Mann understood well the integral relationship between freedom, popular education, and republican government ... A nation cannot long remain ignorant and free. No political structure, however artfully devised, can inherently guarantee the rights and liberties of citizens, for freedom can be secure only as knowledge is widely distributed among the populace. Hence, universal popular education is the only foundation on which republican government can securely rest.*
+> *Mann understood well the integral relationship between freedom, [[Popular Education]], and republican government ... A nation cannot long remain ignorant and free. No political structure, however artfully devised, can inherently guarantee the rights and liberties of citizens, for freedom can be secure only as knowledge is widely distributed among the populace. Hence, universal popular education is the only foundation on which republican government can securely rest.*
 
 曼在阐释考察欧洲学校的原初动力时，确立了跨国探究的辩证双重视野：
 
@@ -188,7 +189,7 @@ updated: 2026-09-17
 > [!citation-card] 克雷明论大众教育与共和政体之基石
 > 自由、大众教育与共和政体之间存在内在统一：一个国家不可能既无知又自由；普遍的大众教育是共和政府赖以稳固立足的唯一基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 32)]]；引自 Cremin (1957:7)
 >
-> *Mann understood well the integral relationship between freedom, popular education, and republican government. ... A nation cannot long remain ignorant and free. ... universal popular education is the only foundation on which republican government can securely rest.*
+> *Mann understood well the integral relationship between freedom, [[Popular Education]], and republican government. ... A nation cannot long remain ignorant and free. ... universal popular education is the only foundation on which republican government can securely rest.*
 
 > [!citation-card] 唐斯论曼赴欧考察的双重自觉：警示险标与指引明灯
 > 国外著名机构强烈吸引着曼，使他充满探明外国经验是否有优长之处以促进本土改良的迫切愿望；但对曼而言，首要之务是寻找带来警示的险标，以及指引前路的明灯。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 32)]]；引自 Downs (1974:88)

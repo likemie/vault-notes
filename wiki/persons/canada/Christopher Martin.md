@@ -2,7 +2,6 @@
 title: Christopher Martin
 aliases:
   - 克里斯托弗·马丁
-  - 马丁
   - C. Martin
   - Christopher M. Martin
 summary: "加拿大教育哲学家，不列颠哥伦比亚大学副教授。从政治自由主义与民主审议理论出发，在教育哲学中首创“成长性认识不正义（Formative Epistemic Injustice）”概念，系统论证了未成年人在求知者形成期享有参与民主辩论与探究实践的根本权利。"
@@ -13,9 +12,9 @@ person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
-born: "c. 1975"
+born: c. 1975
 died: ""
-lifespan: "c. 1975–至今"
+lifespan: c. 1975–至今
 tags:
   - person
   - person/philosophy-of-education
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-09-24
+updated: 2026-09-28
 ---
 
 # Christopher Martin
