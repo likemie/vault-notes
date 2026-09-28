@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Olmos_Torres_2009_StateTheories.md"
     },
     {
+      "basename": "Larissa Adler Lomnitz",
+      "path": "wiki/persons/chile/Larissa Adler Lomnitz.md"
+    },
+    {
       "basename": "INEA",
       "path": "wiki/facts/mexico/INEA.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Reading Excellence Act",
       "path": "wiki/facts/us/Reading Excellence Act.md"
-    },
-    {
-      "basename": "Evidence Standards",
-      "path": "wiki/concepts/educational-policy-reform/Evidence Standards.md"
     }
   ],
   "omittedPaths": [],

@@ -181,9 +181,10 @@ updated: 2026-09-28
 >   - Ch. 04 [[Argument_Kazamias_2009_ForgottenThemes]]。Kazamias 系统挖掘[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans\|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich\|罗伯特·乌利希]]（Robert Ulich）等学者开创的历史-哲学-文化与自由人文主义母题，阐明其广义人文科学定位、[[National Character\|国民性格]]分析[[Construct\|构念]]与历史改良主义底色，并借由[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）的有限工作[[Hypothesis\|假设]]归纳法为[[Historical-Comparative Method\|历史比较法]]确立现代合法性。
 >   - Ch. 05 [[Argument_Mattheou_2009_ScientificParadigm]]。Mattheou 系统剖析 20 世纪下半叶[[Scientific Paradigm\|比较教育学科学范式]]的兴衰，辨析芝加哥学派（安德森、福斯特）的恒常制度规律、哥大学派（诺亚、埃克斯坦）的[[Variable\|变量]]函数共变与伦敦学派（霍姆斯）基于[[Critical Dualism\|批判二元论]]的权变社会学法则及预测划界标准，揭示实证量化模式作为战后国家规划合法化工具（alibi）的政治共谋，并阐明其在现实危机、量子不确定性与后现代思潮冲击下向“[[Comparative Educations\|复数比较教育学]]”的多元解体。
 >   - Ch. 06 [[Argument_Olmos_Torres_2009_StateTheories]]。Olmos 与 Torres 运用马克思主义政治经济学与批判政治社会学，解构[[World Society Theory|世界文化理论]]的均质化教育扩张叙事，提出以资本积累与政治合法化为轴心的国家理论，阐发外围资本主义[[Conditioned State Theory\|受限国家]]及[[State Corporatism\|国家法团主义]]下的阶级[[Dual School System|双轨学制]]与[[Compensatory Legitimation\|补偿性合法化]]，并批判新自由主义[[Structural Adjustment Programs|结构调整]]下[[World Bank|世界银行]][[Financial-Intellectual Complex\|金融-智识复合体]]对教育公共性与民主公民身份的侵蚀。
+>   - Ch. 07 [[Argument_Mitter_2009_Europe]]。Mitter 以中世纪以来的“多样性与统一性”二分法为核心结构原则，系统绘制欧洲比较教育两百年来的大学教席学术地图与专业学会网络（[[Comparative Education Society in Europe|CESE]] 跨国个人会员制及多元学会竞合），梳理三大理论范式演化期（文化历史全景、德国社会学实证主义争论、多元竞争），剖析地缘空间拓展（殖民转型、东西欧冷战对峙与跨国经验比较），辨析政策咨询立场的[[Navigation Metaphor in Comparative Education|航海隐喻]]与直接干预光谱，并反思当代国际大规模测评的技术官僚规训、跨文化教育合流与“重返欧洲维度”。
 > - **优先处理章节** Ch. 01（联合导论）、Ch. 10（历史反思）、Ch. 21（导论）、Ch. 61（新思维导论）、Ch. 79 与 Ch. 80（全书收束与结论）。
 > - **可暂缓章节** 专门聚焦特定国家微观细部、与全书主干理论对话相对松散的案例章节。
-> - **缺口提醒** 目前已完成 Ch. 02、Ch. 03、Ch. 04、Ch. 05 与 Ch. 06，系统夯实了学科发端期准科学、行政借用、历史人文、战后科学化运动全景以及马克思主义批判国家理论，第一板块理论奠基与方法论争鸣的主干框架已高度充实，亟需推进各板块导引章与重点理论章以充实全书结构认知。
+> - **缺口提醒** 目前已完成 Ch. 02、Ch. 03、Ch. 04、Ch. 05、Ch. 06 与 Ch. 07，第一板块（Section 1 学科的创建与再造）关于学科起源神话、现代主义双重母题、自由人文历史传统、实证科学化兴衰、马克思主义国家批判以及欧洲区域学科制度化全景的核心主干已高度夯实完备，亟需推进各板块导引章与重点理论章以充实全书结构认知。
 
 ---
 
@@ -196,7 +197,7 @@ updated: 2026-09-28
 > - **Ch. 04 — Forgotten Men, Forgotten Themes** [[Argument_Kazamias_2009_ForgottenThemes]] — 重新发掘比较教育学史上被遗忘的大师（[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯、[[Robert Ulich\|乌利希]]）与历史哲学、自由人文主义母题，确立[[Historical-Comparative Method\|历史比较法]]归纳工作[[Hypothesis\|假设]]的正当性。
 > - **Ch. 05 — The Scientific [[Paradigm]] in Comparative Education** [[Argument_Mattheou_2009_ScientificParadigm]] — 评析[[Scientific Paradigm\|比较教育学科学范式]]的兴起动因、四大派别在目标与法则上的[[Epistemology\|认识论]]分野，揭示其充当战后国家规划合法化工具的深层机制及走向多元解体的必然性。
 > - **Ch. 06 — Theories of The State, Educational Expansion, Development, and Globalizations** [[Argument_Olmos_Torres_2009_StateTheories]] — 从马克思主义政治经济学解构教育扩张的普世叙事，提出以资本积累与政治合法化为核心的[[Conditioned State Theory|受限国家]]与[[State Corporatism|国家法团主义]][[Analytic Framework|分析框架]]，批判新自由主义[[Financial-Intellectual Complex|财智复合体]]的政策[[Disciplina and Doctrina|规训]]。
-> - **Ch. 07 — Comparative Education in Europe** Argument_Mitter_2009_Europe — 系统梳理欧洲大陆比较教育学的发展历程与多元传统。
+> - **Ch. 07 — Comparative Education in Europe** [[Argument_Mitter_2009_Europe]] — 以“多样性与统一性”的二分法为核心结构原则，系统梳理欧洲比较教育两百年来的大学教席版图、专业学会网络、三大理论范式演进、空间拓展与政策咨询光谱（航海隐喻 vs 直接干预）。
 > - **Ch. 08 — World-systems Analysis and Comparative Education in the Age of Globalization** Argument_Arnove_2009_WorldSystems — 阐述世界体系[[Analytic Framework\|分析框架]]在当代比较教育中的应用与启示。
 > - **Ch. 09 — Reflections on the Development of Comparative Education** Argument_Rust_2009_Reflections — 反思比较教育学会发展与知识共同体演进历程。
 > - **Ch. 10 — Comparative Education: Historical Reflections** Argument_Kazamias_2009_HistoricalReflections — 总结学科第一板块的历史反思，为学科再造提供历史哲学锚点。

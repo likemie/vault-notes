@@ -86,14 +86,15 @@ updated: 2026-09-24
 
 > [!work-line] 主要著作
 > - **1948–1970 — *The Year Book of Education / World Year Book of Education*** 与 [[Nicholas Hans]]、[[Brian Holmes]] 等共同主编，持续聚焦二战后全球教育哲学、道德教育、科学教育及高等教育改革，构建起国际比较教育的实证全景。
-> - **1959 — *The Philosophical Approach to Comparative Education*** 系统阐释[[Philosophical Analysis in Education\|哲学分析]]在比较教育研究中的基础功能，强调文化深层的思想传统对国家教育形态的塑造机制。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
+> - **1958 — *Methoden der Vergleichenden Erziehungswissenschaft*** 提出著名的[[Navigation Metaphor in Comparative Education|比较教育航海隐喻]]，主张比较教育旨在为决策领航员提供备选战略方案而非直接干预决策。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
+> - **1959 — *The Philosophical Approach to Comparative Education*** 系统阐释[[Philosophical Analysis in Education|哲学分析]]在比较教育研究中的基础功能，强调文化深层的思想传统对国家教育形态的塑造机制。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心主张
-> 劳韦里斯将比较教育界定为服务于跨国理性和人类改善的合作事业。他倡导科学人道主义、民主理想与跨国理解的三位一体，主张跨国制度合作与[[Dialogue in Education\|教育对话]]能够克服狭隘的民族主义与国家竞争焦虑；在[[Epistemology\|认识论]]上，他拒绝文化主义学者对社会学的排斥立场，坚持以开放的社会科学视野与跨洲人际网络打破封闭的学术壁垒。
+> 劳韦里斯将比较教育界定为服务于跨国理性和人类改善的合作事业。他倡导科学人道主义、民主理想与跨国理解的三位一体，主张跨国制度合作与[[Dialogue in Education|教育对话]]能够克服狭隘的民族主义与国家竞争焦虑；在政策咨询定位上，他提出著名的[[Navigation Metaphor in Comparative Education|比较教育航海隐喻]]，强调比较教育研究者应当如航海图般为决策者提供多维备选路线与风险预警，而非越俎代庖操舵干涉具体政治决断；在[[Epistemology|认识论]]上，他拒绝文化主义学者对社会学的排斥立场，坚持以开放的社会科学视野与跨洲人际网络打破封闭的学术壁垒。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
 
 > [!citation-card] 跨洲思想连接与学术肖像反思
 > 贝雷迪与劳韦里斯在跨文化与跨大洲之间连接了人物与思想，并在各自机构、比较教育学会以及数代研究生中产生了深远影响，其卓越的讲课才能亦使他们在学科领域内享有盛誉。然而，这间接引出了一个更为广泛的历史学问题：我们并不真正理解自身的肖像学。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]

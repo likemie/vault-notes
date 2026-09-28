@@ -206,9 +206,10 @@ updated: 2026-09-17
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] — 卡扎米亚斯运用历史比较法梳理比较教育史中历史-哲学母题的起源、演变、[[Paradigm\|范式]]分支与[[Positivism\|实证主义]]危机，系统重构该方法论的现代合法性。
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 运用比较历史考证[[Marc-Antoine Jullien\|朱利安]]与欧美行政官员在 19 世纪的[[Document\|文献]]档案，揭示现代主义发端的双重母题。
-> - [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] — 运用比较史学方法剖析比较教育学科史编纂面临的档案隐蔽与材料匮乏困境，提出“[[Comparative History of Comparative Education\|比较教育学的比较史]]”。
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 突破传统民族国家容器限制，将历史比较法创新性应用于跨国组织演进研究，通过对[[OECD\|经合组织]]（OECD）与[[World Bank\|世界银行]]长达 50–75 年的历史档案与制度变迁进行长周期时空追踪，揭示二者如何从马歇尔计划与经济援助机构跨界扩张为教育[[Policy Brokerage\|政策中介]]巨头，并在竞争中分化出不同的实证研究帝国与组织利基。
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 卡扎米亚斯运用历史比较法梳理比较教育史中历史-哲学母题的起源、演变、[[Paradigm|范式]]分支与[[Positivism|实证主义]]危机，系统重构该方法论的现代合法性。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 运用比较历史考证[[Marc-Antoine Jullien|朱利安]]与欧美行政官员在 19 世纪的[[Document|文献]]档案，揭示现代主义发端的双重母题。
+> - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 运用比较史学方法剖析比较教育学科史编纂面临的档案隐蔽与材料匮乏困境，提出“[[Comparative History of Comparative Education|比较教育学的比较史]]”。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 米特运用历史比较与学科史制度分析，以“统一性与多样性”的二分法为宏观历史框架，系统梳理欧洲比较教育学跨越两个世纪的大学教席地理分布、学术学会竞合、三大理论范式转换期、地缘空间拓展以及政策咨询光谱演进。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 突破传统民族国家容器限制，将历史比较法创新性应用于跨国组织演进研究，通过对[[OECD|经合组织]]（OECD）与[[World Bank|世界银行]]长达 50–75 年的历史档案与制度变迁进行长周期时空追踪，揭示二者如何从马歇尔计划与经济援助机构跨界扩张为教育[[Policy Brokerage|政策中介]]巨头，并在竞争中分化出不同的实证研究帝国与组织利基。
 

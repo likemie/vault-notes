@@ -519,6 +519,19 @@
     ]
   },
   {
+    "title": "Comparative Education as a Cross-Sectional Area",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Comparative Education as a Cross-Sectional Area.md",
+    "aliases": [
+      "比较教育作为交叉领域",
+      "交叉领域",
+      "交叉学科",
+      "Querschnittsbereich",
+      "Querschnittsdisziplin",
+      "cross-sectional area"
+    ]
+  },
+  {
     "title": "Comparative Educations",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Comparative Educations.md",
@@ -1005,6 +1018,18 @@
       "国民性格",
       "National Character in Comparative Education",
       "比较教育中的国民性"
+    ]
+  },
+  {
+    "title": "Navigation Metaphor in Comparative Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Navigation Metaphor in Comparative Education.md",
+    "aliases": [
+      "比较教育的航海隐喻",
+      "航海隐喻",
+      "Navigation Metaphor",
+      "Lauwerys' Navigation Metaphor",
+      "劳威斯航海隐喻"
     ]
   },
   {
@@ -18945,6 +18970,15 @@
     ]
   },
   {
+    "title": "Friedrich Schneider",
+    "type": "person",
+    "path": "wiki/persons/germany/Friedrich Schneider.md",
+    "aliases": [
+      "Schneider, F.",
+      "弗里德里希·施奈德"
+    ]
+  },
+  {
     "title": "Georg Wilhelm Friedrich Hegel",
     "type": "person",
     "path": "wiki/persons/germany/Georg Wilhelm Friedrich Hegel.md",
@@ -19038,6 +19072,15 @@
     ]
   },
   {
+    "title": "Oskar Anweiler",
+    "type": "person",
+    "path": "wiki/persons/germany/Oskar Anweiler.md",
+    "aliases": [
+      "Anweiler, O.",
+      "奥斯卡·安维勒"
+    ]
+  },
+  {
     "title": "Sigrid Hartong",
     "type": "person",
     "path": "wiki/persons/germany/Sigrid Hartong.md",
@@ -19074,6 +19117,15 @@
     "aliases": [
       "Klafki, W.",
       "沃尔夫冈·克拉夫基"
+    ]
+  },
+  {
+    "title": "Wolfgang Mitter",
+    "type": "person",
+    "path": "wiki/persons/germany/Wolfgang Mitter.md",
+    "aliases": [
+      "Mitter, W.",
+      "沃尔夫冈·米特"
     ]
   },
   {
@@ -27462,6 +27514,11 @@
     "title": "Argument_Mattheou_2009_ScientificParadigm",
     "type": "argument",
     "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md"
+  },
+  {
+    "title": "Argument_Mitter_2009_Europe",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mitter_2009_Europe.md"
   },
   {
     "title": "Argument_Olmos_Torres_2009_StateTheories",
