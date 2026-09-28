@@ -10,7 +10,7 @@ aliases:
 summary: "主张科学研究应排除研究者主观价值偏见并保持程序中立的认识论规范；在启蒙发轫期曾被道德改良统摄，在韦伯与20世纪实证学派中被法典化为科学基石，而在批判理论与当代循证反思中被解构为服务于数字审计治理的权力意识形态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 66
+related_count: 72
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Bildung]]"
   - "[[Scientific Method]]"
+  - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
   - "[[Paradigm]]"
@@ -47,6 +48,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[What Works Movement]]"
   - "[[Evaluation Research]]"
+  - "[[Politicity of Education]]"
 related_theories:
   - "[[Transitology]]"
   - "[[Critical Theory]]"
@@ -75,6 +77,9 @@ related_persons:
   - "[[Louis Cohen]]"
   - "[[Lawrence Manion]]"
   - "[[Keith Morrison]]"
+  - "[[Liliana Esther Olmos]]"
+  - "[[Carlos Alberto Torres]]"
+  - "[[Paulo Freire]]"
   - "[[Terry Wrigley]]"
   - "[[Gert Biesta]]"
   - "[[Carol Weiss]]"
@@ -87,6 +92,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
+  - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Skourdoumbis_2024_AER]]"
@@ -95,7 +101,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-09-24
+updated: 2026-09-28
 ---
 
 # Value Neutrality
@@ -217,6 +223,9 @@ updated: 2026-09-24
 > [!claim] [[Louis Cohen\|Cohen, L.]], [[Lawrence Manion\|Manion, L.]] & [[Keith Morrison\|Morrison, K.]]
 > **政治中立呼吁的意识形态饱和性** 在充满阶级压迫与不平等的社会中，呼吁“价值中立”的研究由于拒绝反思制度性压迫，本质上就是意识形态饱和的；这种研究通过假装天真与无偏见，起到了阻遏激进变革、维系现状（Status Quo）的保守政治功能。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, p. 29)]]
 
+> [!claim] [[Liliana Esther Olmos|Olmos, L. E.]] & [[Carlos Alberto Torres|Torres, C. A.]]
+> **教育政策的技术中立假象与国家理论隐匿** 倡导技术官僚或技术主义取向的教育研究、课程设计与政策制定者，往往将自身方案包装为“价值中立”与客观科学的资源配置模型；然而，正如[[Paulo Freire|保罗·弗莱雷]]所揭示的，教育具有固有的政治性。任何对教育问题的界定与改革方案的提出，都不可避免地暗含着特定的国家理论假定；抽空政治与伦理审议的技术中立修辞，不仅掩盖了国家在资本积累与合法性维护之间的阶级妥协，更在客观上将新自由主义[[Endogenous and Exogenous Privatisation|教育私有化]]与紧缩政策包装为不可避免的客观规律，剥夺了被支配群体进行政治抵抗的话语空间。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 73, 77–78)]]
+
 ### 命题四　当代循证教育对价值中立技术修辞的操弄本质上是服务于新自由主义数字审计治理
 
 > [!concept-lens] 循证科学修辞与新自由主义审计治理合谋
@@ -259,6 +268,7 @@ updated: 2026-09-24
 > - **1977–1991 — [[Policy Science in Comparative Education\|政策科学]]解构中立[[Technical Rationality\|技术理性]]神话** [[Carol Weiss\|卡罗尔·韦斯]]（Weiss, 1977, 1991）揭示政策制定天然关乎价值权衡，确立研究主要充当政治合法化“燃料而非引擎”的经典命题。
 > - **1981 — 霍姆斯批判实证[[Operationalization\|操作化]]的假中立与价值渗透** 霍姆斯（Holmes, 1981）指出操作化指标无法脱离文化价值系统而存在，实证派的中立口号实质上服务于战后中央理性规划与国际援助机构的技术官僚治理。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 64, 66)]]
 > - **1987 — 评估方法论中价值立场的系统制度化** Smith & Glass 确立价值处理是区分科学研究与项目评估的核心分界线，承认多重价值呈现的正当性。
+> - **2009 — 批判教育政治经济学解构技术中立神话** [[Carlos Alberto Torres|托雷斯]]与[[Liliana Esther Olmos|奥尔莫斯]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）结合拉美经验与[[Paulo Freire|弗莱雷]]传统，揭示任何教育政策诊断均暗含特定的国家理论，揭穿技术官僚将[[Endogenous and Exogenous Privatisation|教育私有化]]与削减福利包装为“客观中立”的意识形态欺骗。
 > - **2010 年代至今 — [[Evidence-Based Education\|循证教育]]与新自由主义[[Governing by Numbers\|数字治理]]合谋批判** 循证教育运动以“中立证据”之名强制推行技术问责，引发 Wrigley 与 Biesta 等学者对“数字治理”（[[Governing by Numbers]]）去政治化虚伪性的全面清算。
 > - **2020 年代 — 宏观立法实务对学术中立陷阱的反思与重塑** 瑟佩尔（[[Argument_Serpell_2020_EP\|Serpell, 2020]]）从美国国会山实务出发，指出过度固守中立平衡导致学术成果被立法者边缘化，主张研究者必须体察政治时间系统与价值信念，将实证证据融入价值叙事。
 
@@ -309,6 +319,7 @@ updated: 2026-09-24
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] — 剖析脑科学证据如何被包装为“不偏不倚的自然科学真理”，从而合法化国家对初等教育课程控制权的强行收紧。
 > - [[Argument_Rambla_2022_Springer\|Rambla (2022)]] — 揭示 [[PISA]] 等国际大型测评所宣称的“客观中立比较”，实际上深度嵌入了全球资本主义竞争的政治经济学逻辑。
 > - [[Argument_Serpell_2020_EP\|Serpell (2020)]] — 基于美国国会山立法沉浸反思，揭示立法决策的价值主导本质，批判学术界固守“中立平衡”与免责声明导致证据被政治家弃置的“中立陷阱”，论证研究者必须将实证证据融入立法者的价值体系。
+> - [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]] — 结合拉美外围资本主义现实与[[Critical Pedagogy|批判教育学]]，揭示任何教育政策诊断均暗含特定的国家理论，解构技术官僚将[[Endogenous and Exogenous Privatisation|教育私有化]]与紧缩政策伪装为“价值中立科学方案”的意识形态实质。
 
 ---
 
@@ -327,4 +338,7 @@ updated: 2026-09-24
 > | [[Professional Judgment]] | 概念 | 当价值中立的技术数据被绝对化时，教师基于教育情境的专业伦理判断力遭到系统性剥夺。 |
 > | [[Evaluation Research]] | 概念 | 将价值处理列为区分纯学术研究（追求普遍中立）与实践评估（系统呈现多方利益价值）的界标。 |
 > | [[Critical Pedagogy]] | 概念 | 彻底撕下价值中立的伪善面具，主张教育探究必须旗帜鲜明地投身于反压迫与社会正义。 |
+> | [[Politicity of Education]] | 概念 | 与价值中立正面冲突的批判[[Ontology\|本体论]]命题，揭示教育在认识论、分析与伦理维度天然内嵌于权力政治。 |
 > | [[Carol Weiss]] | 人物 | 经典[[Policy Science in Comparative Education\|政策科学]]理论家，提出“政策制定关乎价值”、“研究主要充当政治合法化燃料而非引擎”等核心洞见。 |
+> | [[Carlos Alberto Torres]] | 人物 | 批判教育学者，深刻解构教育政策的技术中立修辞，揭示其背后隐匿的国家理论与资本积累矛盾。 |
+> | [[Liliana Esther Olmos]] | 人物 | 与托雷斯合作剖析新自由主义教育改革中伪价值中立话语的阶级策略本质。 |

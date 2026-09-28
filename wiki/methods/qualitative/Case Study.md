@@ -83,6 +83,7 @@ related_arguments:
   - "[[Argument_Lakhani_2012_AKUIED]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Hartong_2018_GSE]]"
+  - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
@@ -90,7 +91,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-09-22
+updated: 2026-09-28
 ---
 # Case Study
 

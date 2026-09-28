@@ -9,7 +9,7 @@ aliases:
 summary: "由斯蒂芬·鲍尔（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell）系统区分的两种教育私有化形态。内生私有化指将私营部门的市场逻辑、绩效评估与新公共管理引入公立教育体系内部；外生私有化指通过特许学校、合同外包与公私伙伴关系将公共教育供给转移至私营部门。鲍尔与托雷斯等学者进一步将其定性为新自由主义国家重构教育权力的阶级策略。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 27
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,7 +31,9 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[International Education]]"
   - "[[Variable]]"
+  - "[[Policy Network]]"
   - "[[Network Governance]]"
+  - "[[Critical Pedagogy]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Conditioned State Theory]]"
@@ -212,11 +214,27 @@ updated: 2026-09-28
 
 ---
 
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[New Public Management]] | 概念 | 内生私有化的核心管理学工具，通过产出控制与量化[[Performance Indicators\|绩效指标]]重塑公立学校内部运作。 |
+> | [[Public-Private Partnership in Research]] | 概念 | 外生私有化的典型制度形态，通过商业特许、合同外包与公私共建转移公共服务供给。 |
+> | [[Policy Entrepreneur]] | 概念 | 在跨国[[Policy Network\|政策网络]]中游说并兜售教育私有化、绩效化方案的商业与慈善代理人。 |
+> | [[Network Governance]] | 概念 | 刻画伴随私有化进程而兴起的跨越公私边界、规避民主审议的多中心治理形态。 |
+> | [[Conditioned State Theory]] | 理论 | 阐明第三世界受制国家如何在外债与国际金融组织压力下，将教育私有化作为削减公共赤字的核心工具。 |
+> | [[Stephen Ball]] | 人物 | 奠基者，与尤德尔共同提出内外生私有化[[Analytic Framework\|分析框架]]，并确立“市场化作为阶级策略”的经典论断。 |
+> | [[Carlos Alberto Torres]] | 人物 | [[Critical Pedagogy\|批判教育学]]者，将私有化置于受制国家依附性与公共教育双轨分化的宏观政治经济学框架中考察。 |
+> | [[Liliana Esther Olmos]] | 人物 | 与托雷斯合作剖析新自由主义紧缩政策下使用者自费与教育私有化对外围国家的阶级撕裂。 |
+> | [[World Bank]] | 机构事实 | 新自由主义教育私有化与分权化改革的跨国主要推手，以结构调整贷款强制推行使用者付费。 |
+
+---
+
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_ONeill_2016_Report|O'Neill et al., 2016]] — 细致解剖新西兰公立教育体系在内生与外生双轨私有化下的演化历程与非正式精英[[Network Governance|网络治理]]。
-> - [[Argument_Rizvi_2022_Springer|Rizvi, 2022]] — 揭示[[Internationalization of Higher Education|高等教育国际化]]与国际留学生学费市场如何驱动公立大学不可逆的永久性内生私有化。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 将教育私有化定性为新自由主义国家的阶级策略，揭示其在拉美[[Conditioned State Theory|受制国家]]伴随结构调整而推进的成本转嫁机制。
-
----
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 细致解剖新西兰公立教育体系在内生与外生双轨私有化下的演化历程与非正式精英[[Network Governance|网络治理]]。
+> - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 揭示[[Internationalization of Higher Education|高等教育国际化]]与国际留学生学费市场如何驱动公立大学不可逆的永久性内生私有化。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 将教育私有化定性为新自由主义国家的阶级策略，揭示其在拉美[[Conditioned State Theory|受制国家]]伴随结构调整而推进的成本转嫁机制。

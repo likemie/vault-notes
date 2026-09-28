@@ -10,9 +10,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 27
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 36
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: specialized-un-agency
 headquarters: "巴黎（法国）"
@@ -25,6 +25,7 @@ tags:
   - theme/human-rights
 related_concepts:
   - "[[Lifelong Learning]]"
+  - "[[Compensatory Legitimation]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemic Agency]]"
   - "[[International Education]]"
@@ -33,9 +34,14 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Document]]"
   - "[[Return on Investment]]"
+  - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Global Education Governing Complex]]"
+  - "[[Dual School System]]"
+  - "[[Critical Pedagogy]]"
+  - "[[Global Citizenship]]"
 related_theories:
+  - "[[Conditioned State Theory]]"
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Exploratory Factor Analysis]]"
@@ -43,6 +49,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Philip H. Coombs]]"
+  - "[[Carlos Alberto Torres]]"
+  - "[[Liliana Esther Olmos]]"
 related_facts:
   - "[[Education for All]]"
   - "[[UN Sustainable Development Goals]]"
@@ -56,11 +64,12 @@ related_facts:
   - "[[1960 Bellagio Conference]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_Wu_2025_ER]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-22
+updated: 2026-09-28
 ---
 
 # UNESCO
@@ -84,7 +93,7 @@ updated: 2026-09-22
 
 > [!dev-timeline]- 组织发展历程
 > - **1945–1964 — 战后人权奠基与全球南方启蒙期** 作为 1945 年二战结束时全球仅存的两大涉教育国际组织之一（另一为 [[International Labour Organization\|ILO]]），致力于战后废墟重建与基本扫盲；1948 年推动《世界人权宣言》将第 26 条受教育权写入国际法；1963 年在巴黎建立[[International Institute for Educational Planning\|国际教育规划研究所]]（IIEP），由[[Philip H. Coombs\|菲利普·库姆斯]]（Philip H. Coombs）掌舵，开启对第三世界新建国家的规划官僚培训业务。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541, 543)]]
-> - **1964–1980 — [[World Bank\|世行]]合作蜜月与人文路线分道扬镳** 1964 年与世界银行签署《合作协定》（Co-operative Agreement），为世行初入教育借贷提供专业技术团队背书；然而双方在理念上发生深刻断裂——教科文组织坚持人文主义与教育权利导向，断然拒绝世行将学校沦为单一经济产出投入要素的功利算计；1980 年世行正式发表政策文件宣告独立，双方合作机制名存实亡。[[Argument_Steiner-Khamsi_2024_CE\|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, pp. 541–542)]]
+> - **1964–1980 — [[World Bank\|世行]]合作蜜月与人文路线分道扬镳** 1964 年与世界银行签署《合作协定》（Co-operative Agreement），为世行初入教育借贷提供专业技术团队背书；然而双方在理念上发生深刻断裂——教科文组织坚持人文主义与教育权利导向，断然拒绝世行将学校沦为单一经济产出投入要素的功利算计；1980 年世行正式发表政策文件宣告独立，双方合作机制名存实亡。[[Argument_Steiner-Khamsi_2024_CE\|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, pp. 541–542)]]。在此期间，教科文组织在第三世界开展大规模区域教育普查，如联合联合国拉美经委会（CEPAL）与开发计划署（PNUD）开展“拉美与加勒比发展与教育项目”（1981）；其 1974 年区域统计揭示了拉美工业化初期中高等教育暴增超 240% 与基础初等教育及成人扫盲严重停滞的畸形结构，为批判学者揭示外围[[Conditioned State Theory|受制国家]]的双轨教育与[[Compensatory Legitimation|补偿性合法化]]机制提供了关键实证基准。[[Argument_Olmos_Torres_2009_StateTheories\|(UNESCO, 1974, cited in Olmos & Torres, 2009, pp. 81–82)]]
 > - **1980–2000 — 政治极化震荡与《[[Education for All\|全民教育]]》（[[Exploratory Factor Analysis\|EFA]]）崛起** 冷战后期深陷意识形态争端，美英等国因不满新世界信息秩序倡议相继于 1984–1985 年退约并冻结预算；面对财政边缘化，教科文组织于 1990 年在泰国宗迪恩联合世行、[[UNICEF\|儿童基金会]]等发起《世界全民教育大会》（EFA），1996 年发布《学习：内在的财富》（德洛尔报告），确立教育四大支柱；1999 年在蒙特利尔成立统计研究所（[[UNESCO Institute for Statistics\|UIS]]），奠定联合国统一教育统计基石。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **2000–2020 — [[UN Sustainable Development Goals\|SDG 4]] 全球协调中枢与数字时代再平衡** 2000 年达喀尔行动框架确立 EFA 六大目标并建立年度监测机制；2015 年仁川世界教育论坛通过《教育 2030 行动框架》，被联合国大会指定为《2030 年可持续发展议程》中第四项目标（[[UN Sustainable Development Goals\|SDG 4]]）的全球牵头与协调机构；2021 年发布《共同重新构想我们的未来：一种新的教育社会契约》，联合世行、UNICEF 发起[[Learning Data Compact\|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541, 545)]]
 > - **2023–至今 — 人工智能时代的以人为本教育治理与主体性倡导** 针对[[Generative Artificial Intelligence\|生成式人工智能]]引发的教育变革，相继发布《生成式人工智能在教育与研究中的应用指南》（2023）与《学生及教师人工智能能力框架》（2024），强调技术应用必须捍卫人类的[[Epistemic Agency\|认识主体性]]与伦理问责，防范技术依赖导致的批判力削弱。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360)]]
@@ -111,7 +120,7 @@ updated: 2026-09-22
 > [!finding-cards] 核心产品与业务矩阵
 > - **指南、规程与标准体系** 《[[International Education\|国际教育]]标准分类》（ISCED）；《全球高等教育学历学位互认公约》；《人工智能伦理建议书》（2021）；《[[Generative Artificial Intelligence\|生成式人工智能]]在教育与研究中的应用指南》（2023）；《学生及教师人工智能能力框架》（2024）。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360)]]
 > - **数据库、证据库与监测平台** [[UNESCO Institute for Statistics\|联合国教科文组织统计研究所]]数据库（UIS Databank，全球官方教育数据核心权威源）；[[UN Sustainable Development Goals\|SDG 4]] 进展指标基准库（Global Education Observatory）。
-> - **旗舰项目、调查与测评** 发展中国家国家教育战略规划技术援助（由 [[International Institute for Educational Planning\|IIEP]] 执行）；扫盲先锋奖；世界遗产与[[Sustainability Education\|可持续发展教育]]网络；与[[World Bank\|世行]]、[[UNICEF]] 联合发起的[[Learning Data Compact\|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
+> - **旗舰项目、调查与测评** 发展中国家国家教育战略规划技术援助（由 [[International Institute for Educational Planning\|IIEP]] 执行）；区域教育与发展长期追踪调查（如 UNESCO/CEPAL/PNUD 宏观教育普查项目）；扫盲先锋奖；世界遗产与[[Sustainability Education\|可持续发展教育]]网络；与[[World Bank\|世行]]、[[UNICEF]] 联合发起的[[Learning Data Compact\|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
 > - **旗舰出版物与咨询成果** 《[[Global Education Monitoring Report\|全球教育监测报告]]》（GEMR，年度独立报告）；《教育的未来：一种新的社会契约》（2021）；《全球水资源开发报告》与教育科学政策丛书。
 
 > [!citation-card] 教科文组织与世界银行的制度[[Paradigm\|范式]]分野
@@ -153,6 +162,9 @@ updated: 2026-09-22
 > >
 > > - **国际关系批评（Chabbott, 2003）** 指责教科文组织庞大的巴黎官僚体制运转缓慢、人浮于事，且高度脆弱于霸权大国的外交博弈（如美国多次退约并切断占五分之一的法定会费），导致机构在面临重大教育危机时财政捉襟见肘。
 > > - **多边主义捍卫者** 反驳称这恰恰反映了教科文组织不畏强权、坚守国际公平正义的一国一票民主底色，是抵抗单边霸权干涉多边治理的必要代价。
+> >
+> > [!axis] 人文主义倡导与依附性结构调整的脱节
+> > 批判政治社会学指出，教科文组织的宏观历史统计（如 1974 年拉美教育统计）如实揭示了发展中国家教育扩张呈现“高等中等暴增与初等扫盲停滞”的阶级双轨畸变；然而在 1980 年代债务危机与新自由主义重组中，缺乏金融制约杠杆的教科文组织被[[Human Capital Theory|人力资本]]与结构调整议程边缘化，无力遏制世界银行以贷款条件强制受援国推行使用者付费与[[Endogenous and Exogenous Privatisation|教育私有化]]，显露出联合国人文主义道德号召在跨国资本支配逻辑面前的制度无力。[[Argument_Olmos_Torres_2009_StateTheories\|(Olmos & Torres, 2009, pp. 81–83)]]
 
 > [!citation-card] 战后多边教育危机的普遍主义建构
 > [[Philip H. Coombs\|菲利普·库姆斯]]（Philip H. Coombs）曾任美国助理国务卿，不仅是教科文组织[[International Institute for Educational Planning\|国际教育规划研究所]]（IIEP）的首任所长，更撰写了极具影响力的奠基之作《世界教育危机》（1968）。他比任何人都更鲜明地人格化体现了西方多边体系的普遍主义主张；尽管冷战时期铁幕对岸对这部著作提出过严厉的[[Ideology Critique\|意识形态批判]]，但它成功将教育危机塑造成一个全人类共同面对的不可逆转的全球命题。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
@@ -174,3 +186,7 @@ updated: 2026-09-22
 > | [[Development Turn in Comparative Education]] | 概念 | 刻画战后 UNESCO 与世行向全球南方推动现代教育扩张的历史转向。 |
 > | [[Global Education Governing Complex]] | 概念 | 教科文组织作为五巨头之一参与其中的全球多边教育治理网络。 |
 > | [[Lifelong Learning]] | 概念 | 教科文组织通过朗格朗报告与德洛尔报告推向全球的标志性教育哲学理念。 |
+> | [[Dual School System]] | 概念 | 教科文组织 1974 年统计实证证明了第三世界中高等精英通道与初等大众文盲并存的客观外围双轨现实。 |
+> | [[Conditioned State Theory]] | 理论 | [[Critical Pedagogy\|批判教育学]]者结合教科文组织历史统计，建构外围受制国家教育扩张与合法化矛盾的宏观理论。 |
+> | [[Carlos Alberto Torres]] | 人物 | 曾任联合国教科文组织[[Global Citizenship\|全球公民教育]]教席，长期关注教科文组织人文主义愿景与批判教育学的交汇。 |
+> | [[Liliana Esther Olmos]] | 人物 | 与托雷斯合作系统运用教科文组织宏观历史数据，剖析拉美教育扩张与国家危机。 |
