@@ -1018,6 +1018,17 @@
     ]
   },
   {
+    "title": "Pact of Domination",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Pact of Domination.md",
+    "aliases": [
+      "支配同盟",
+      "统治同盟",
+      "统治契约",
+      "支配契约"
+    ]
+  },
+  {
     "title": "Paradox of the Chinese Learner",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Paradox of the Chinese Learner.md",
@@ -1025,6 +1036,17 @@
       "中国学习者悖论",
       "Chinese learner paradox",
       "CHC learner paradox"
+    ]
+  },
+  {
+    "title": "Pedagogical Subject",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Pedagogical Subject.md",
+    "aliases": [
+      "教育主体",
+      "作为教育主体的公民",
+      "Sujeto Pedagógico",
+      "Pedagogical Subjects"
     ]
   },
   {
@@ -23675,6 +23697,18 @@
     "aliases": [
       "筑波科学城",
       "Tsukuba"
+    ]
+  },
+  {
+    "title": "Latin American Debt Crisis of 1982",
+    "type": "fact",
+    "path": "wiki/facts/latin-america/Latin American Debt Crisis of 1982.md",
+    "aliases": [
+      "1982年拉美债务危机",
+      "1980年代拉美债务危机",
+      "拉美失去的十年",
+      "Latin American Debt Crisis",
+      "拉美债务危机"
     ]
   },
   {

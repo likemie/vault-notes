@@ -46,6 +46,8 @@ related_concepts:
   - "[[Import Substitution Industrialisation]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Permeable State]]"
+  - "[[Pedagogical Subject]]"
+  - "[[Pact of Domination]]"
 related_theories:
   - "[[World Society Theory]]"
   - "[[Conditioned State Theory]]"
@@ -90,6 +92,7 @@ related_facts:
   - "[[Business Roundtable]]"
   - "[[SNTE]]"
   - "[[INEA]]"
+  - "[[Latin American Debt Crisis of 1982]]"
 related_arguments: []
 sources:
   - "[[books/Cowen(Ed.)_2009_Springer/Ch06_Olmos_Torres_2009|Ch06_Olmos_Torres_2009]]"
@@ -103,7 +106,7 @@ title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches"
 argument_kind: "book-chapter"
-argument_related_count: 64
+argument_related_count: 67
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -263,7 +266,7 @@ issuing_organization: ""
 
 学校组织模式的根本转变，根源于资本主义生产方式从福特制向[[Post-Fordism|后福特制]]的范式转型。正如[[Michael W. Apple|迈克尔·W·阿普尔]]（Michael W. Apple, 1982）所指出的，劳动过程从福特制向后福特制的转变，深刻重塑了劳动力的技能化与去技能化进程，并将技术控制逻辑强力植入学校课程形态之中。
 
-与此相伴随的是外围国家对公共教育的制度性撤资。托雷斯与[[Adriana Puiggrós|阿德里亚娜·普伊格罗斯]]（Torres & Puiggrós, 1995）深刻揭示，国家削减公立教育开支并转嫁成本，其直接后果是彻底摧毁了公立学校将底层大众塑造为具备民主权利与反思能力的“教育主体”（Pedagogical Subjects）的宪法功能，将公民降格为孤立自负的劳动力商品。（p. 79）
+与此相伴随的是外围国家对公共教育的制度性撤资。托雷斯与[[Adriana Puiggrós|阿德里亚娜·普伊格罗斯]]（Torres & Puiggrós, 1995）深刻揭示，国家削减公立教育开支并转嫁成本，其直接后果是彻底摧毁了公立学校将底层大众塑造为具备民主权利与反思能力的“[[Pedagogical Subject|教育主体]]”（Pedagogical Subjects）的宪法功能，将公民降格为孤立自负的劳动力商品。（p. 79）
 
 > [!continuum] 生产方式转变如何直接重塑学校教育目标
 > **福特制流水线集中大工业** **[[Post-Fordism|后福特制]]跨国弹性灵活积累**
@@ -333,14 +336,14 @@ issuing_organization: ""
 
 依附论与政治经济学的交汇，确立了理解拉美国家制度特性的核心概念。
 
-> [!claim] 核心判断：外围[[Conditioned State Theory|受限国家]]无法代表公共利益，沦为统治阶级的支配同盟
-> 外围国家并不是具有自主调控主权的国家，而是双重受限的[[Conditioned State Theory|受限国家]]（Conditioned State）：在外部，其经济受制于资本主义中心国家与跨国公司的利益边界；在内部，其政治受制于大地主与买办资产阶级结成的排他性同盟。大众在历史上从未真正拥有平等的公民参与权，国家对于底层民众而言只是统治阶层的掠夺工具。（pp. 83–84）
+> [!claim] 核心判断：外围[[Conditioned State Theory|受限国家]]无法代表公共利益，沦为统治阶级的[[Pact of Domination|支配同盟]]
+> 外围国家并不是具有自主调控主权的国家，而是双重受限的[[Conditioned State Theory|受限国家]]（Conditioned State）：在外部，其经济受制于资本主义中心国家与跨国公司的利益边界；在内部，其政治受制于大地主与买办资产阶级结成的排他性同盟（[[Pact of Domination|支配同盟]]）。大众在历史上从未真正拥有平等的公民参与权，国家对于底层民众而言只是统治阶层的掠夺工具。（pp. 83–84）
 
 > [!logic-map] 受限国家教育政策生成的制度因果链
-> 资本主义世界体系依附地位 + 内部后封建寡头结构 ➔ 统治阶层结成排他性支配同盟 ➔ 国家丧失自主规划经济与统合公共利益的能力 ➔ 面对工农抗议时推行教育大众化，但因财力受制且偏袒精英形成阶级双轨制 ➔ 遭遇外债危机时服从世界银行指示，利用[[Compensatory Legitimation|补偿性合法化]]收买底层并加速教育私有化。
+> 资本主义世界体系依附地位 + 内部后封建寡头结构 ➔ 统治阶层结成排他性[[Pact of Domination|支配同盟]] ➔ 国家丧失自主规划经济与统合公共利益的能力 ➔ 面对工农抗议时推行教育大众化，但因财力受制且偏袒精英形成阶级双轨制 ➔ 遭遇[[Latin American Debt Crisis of 1982|债务危机]]时服从世界银行指示，利用[[Compensatory Legitimation|补偿性合法化]]收买底层并加速教育私有化。
 
 > [!claim] 核心判断：[[State Corporatism|国家法团主义]]将扫盲与成人教育当作换取社会顺从的补偿性合法化工程
-> 在墨西哥等实行[[State Corporatism|国家法团主义]]的国家，政府通过自上而下控制全国教师工会，将教育系统打造成维护政权稳定的减震器。当债务危机和贫富分化危及政权稳定时，国家并不是去触动根本的财富分配，而是发起大规模的扫盲和成人教育运动，作为一项[[Compensatory Legitimation|补偿性合法化]]工程，用微薄的边际福利换取工农阶级对威权统治的政治支持。（pp. 83–84）
+> 在墨西哥等实行[[State Corporatism|国家法团主义]]的国家，政府通过自上而下控制全国教师工会，将教育系统打造成维护政权稳定的减震器。当[[Latin American Debt Crisis of 1982|债务危机]]和贫富分化危及政权稳定时，国家并不是去触动根本的财富分配，而是发起大规模的扫盲和成人教育运动，作为一项[[Compensatory Legitimation|补偿性合法化]]工程，用微薄的边际福利换取工农阶级对威权统治的政治支持。（pp. 83–84）
 
 三个典型国别实证案例揭示了受限国家机制在基层的具体落地形态：
 
