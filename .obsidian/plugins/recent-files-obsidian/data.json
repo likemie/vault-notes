@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Olmos_Torres_2009_StateTheories.md"
     },
     {
+      "basename": "INEA",
+      "path": "wiki/facts/mexico/INEA.md"
+    },
+    {
       "basename": "Categorical Funding",
       "path": "wiki/concepts/educational-policy-reform/Categorical Funding.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Evidence Standards",
       "path": "wiki/concepts/educational-policy-reform/Evidence Standards.md"
-    },
-    {
-      "basename": "Scientifically Based Research",
-      "path": "wiki/concepts/educational-policy-reform/Scientifically Based Research.md"
     }
   ],
   "omittedPaths": [],
