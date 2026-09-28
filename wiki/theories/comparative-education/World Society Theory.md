@@ -10,10 +10,10 @@ aliases:
 summary: "将全球制度趋同阐释为世界文化模型（world culture models）扩散与模仿产物的新制度主义社会学理论。它主张全球化不是简单的功能主义或国家强权统治产物，而是以普世进步和正义规范为基础的去中心化“世界社会”在观念层面的建构，用于解释教育系统和组织形式在跨国范围内呈现的趋同趋势。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 31
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 35
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - region/global
   - paradigm/globalization
@@ -33,10 +33,13 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Policy Borrowing]]"
   - "[[Policy Mobility]]"
+  - "[[Champ]]"
+  - "[[Dual School System]]"
   - "[[Hypothesis]]"
 related_theories:
   - "[[Cultural Models]]"
   - "[[Governing at a Distance]]"
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Coding in Qualitative Research]]"
@@ -55,10 +58,11 @@ related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-09-22
+updated: 2026-09-28
 ---
 
 # World Society Theory
@@ -183,6 +187,11 @@ updated: 2026-09-22
 > > - **地方变异折射论者（Schriewer）** 强调应关注全球现象引入本土时的折射、改组与解耦变异，地方折射限制了趋同效果。
 > > - **全球—地方联结论者（Carney等）** 强调[[Policy Mobility\|政策流动]]不仅是模仿，也是地缘强权、资本主义核心-边缘不平等关系强行支配的产物 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])。
 >
+> > [!axis] 普世大爆炸假说 vs 历史唯物主义资本积累
+> > 争论战后教育扩张究竟是普世理性[[Cultural Models|文化模型]]的非历史趋同，还是全球资本积累阶段性与殖民掠夺遗产共同塑造的阶级分选。
+> > - **斯坦福学派** 假定存在单一同质的全球文化[[Champ|场域]]，将教育扩张归结为国民经济发展、公民[[Human Capital Theory|人力资本]]与国家可改进性等四项普世文化信念的扩散。
+> > - **批判政治经济学学者 ([[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres, 2009, pp. 74–76]])** 批评世界文化理论将 1945 年视为凭空产生全球体系的大爆炸（Big Bang），割裂了殖民剥削的历史延续性，抹杀了外围国家因资本依附而普遍演化出的阶级[[Dual School System|双轨学制]]。
+>
 > > [!axis] 修辞趋同与本地政治安全的可逆冲突
 > > 争论全球制度趋同假说能否在面对强力政治安全介入时保持稳健。
 > > - **斯坦福学派** [[Hypothesis\|假设]]跨国趋同是一个长期、去政治化且不可逆转的[[Cultural Models\|文化模型]]扩散过程。
@@ -194,6 +203,7 @@ updated: 2026-09-22
 > > - **去殖民学者 (Silova & Brehm, 2015)** 指出该理论以西方现代性为普世标准的假设，在客观上为“知识新帝国”的学术合法性辩护，是一种抹杀本土认识论主权的新殖民话语 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 428]])。
 
 > [!critique]- 批评索引
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 从马克思主义政治经济学解构世界文化理论的非历史大爆炸假说，指出其无法解释外围国家的阶级双轨学制与受制状态。
 > - [[Argument_Yan_2025_JCS\|Yan & Morris, 2025]] — 以香港 LS 科创设与废除的周期历史为经验依据，批评了该理论选择性只看创立期的方法论盲区，证明趋同假设无法解释国家安全的强力介入。
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 梳理了比较教育中的世界文化辩论，指出该学说在去政治化转移、遮蔽资本主义地缘剥削方面的理论缺陷。
 
@@ -203,3 +213,4 @@ updated: 2026-09-22
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Zapp_2022_Springer\|Zapp, 2022]] — 深入应用并检验了世界社会理论，展示了大学作为无私代言人（[[Otherhood]]）通过协作、中介、解释和游说四种具体知识机制嵌入多边全球治理的完整过程。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 批判性检视世界文化理论的四项核心信念，重构外围国家教育扩张的历史唯物主义[[Analytic Framework|分析框架]]。
