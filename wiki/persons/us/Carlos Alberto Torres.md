@@ -8,7 +8,7 @@ summary: "阿根廷裔批判教育社会学者，加州大学洛杉矶分校杰�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 29
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"

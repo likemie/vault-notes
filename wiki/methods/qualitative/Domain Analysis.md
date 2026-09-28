@@ -8,7 +8,7 @@ summary: "质性数据与内容分析中将离散分析单元与微观编码归�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 39
+method_related_count: 38
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-24
-updated: 2026-09-24
+updated: 2026-09-28
 ---
 
 # Domain Analysis

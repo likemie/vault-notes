@@ -9,7 +9,7 @@ aliases:
 summary: "批判教育学揭示的教育本质属性，拒绝技术官僚主义的价值中立虚构，主张教育在认识论、分析与伦理维度上天然内嵌于权力关系、国家意志与意识形态对抗之中，学校教育本质上是多元社会政治经济方案博弈的争鸣场域"
 type: concept
 domain: "educational-philosophy"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

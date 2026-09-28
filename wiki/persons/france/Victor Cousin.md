@@ -8,7 +8,7 @@ summary: "法国哲学家、七月王朝教育决策者与折衷主义自由派�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-22
+updated: 2026-09-28
 ---
 
 # Victor Cousin

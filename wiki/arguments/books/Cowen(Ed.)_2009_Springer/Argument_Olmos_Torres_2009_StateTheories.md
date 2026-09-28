@@ -43,6 +43,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Conscientization]]"
   - "[[Creativity]]"
+  - "[[Import Substitution Industrialisation]]"
 related_theories:
   - "[[World Society Theory]]"
   - "[[Conditioned State Theory]]"
@@ -62,6 +63,8 @@ related_persons:
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Stephen Ball]]"
+  - "[[Martin Carnoy]]"
+  - "[[Joel Samoff]]"
 related_facts:
   - "[[World Bank]]"
   - "[[OECD]]"
@@ -79,7 +82,7 @@ title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches"
 argument_kind: "book-chapter"
-argument_related_count: 41
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -195,10 +198,10 @@ issuing_organization: ""
 > 在政策讨论中，官员和国际咨询专家常常使用提高成本效益、实现技术升级等专业术语，将教育改革描绘成纯粹客观的科学工程。然而，任何具体的教育诊断、质量标准与改革方案，背后都默认了一套关于国家应当服务于谁的理论假定；抽离国家权力去空谈教育改革，是对客观现实的严重遮蔽。（pp. 73–74）
 
 > [!claim] 核心判断：标榜技术中立的教育规划掩盖了国家作为阶级权力工具的本质
-> 正如马丁·卡诺伊（Martin Carnoy, 1992）所指出的，绝大多数教育政策分析都暗含着一种国家理论。自由主义假定国家是中立的仲裁者，新马克思主义则揭示国家是维系统治阶级政治经济利益的暴力与统识工具。如果研究者不澄清自己依赖的国家观，就会无意识地沦为既有权力秩序的辩护士。（pp. 73–74）
+> 正如[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy, 1992）所指出的，绝大多数教育政策分析都暗含着一种国家理论。自由主义假定国家是中立的仲裁者，新马克思主义则揭示国家是维系统治阶级政治经济利益的暴力与统识工具。如果研究者不澄清自己依赖的国家观，就会无意识地沦为既有权力秩序的辩护士。（pp. 73–74）
 
 > [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论国家理论对教育规划的前提性支配
-> 界定教育的“真实”问题以及最适宜（如最具成本效益、伦理上可接受且具有合法性）的解决方案，在很大程度上取决于支撑、证成并指引教育诊断与提议方案的国家理论。然而，正如马丁·卡诺伊（Martin Carnoy, 1992）所指出的，大多数教育问题分析都暗含着一种国家理论，但在教育研究与实践中，这种理论的根本前提却极少被识别或阐明。对我们自身的理论假定保持自我审思，是开展扎实学术研究的前提条件。（pp. 73–74）
+> 界定教育的“真实”问题以及最适宜（如最具成本效益、伦理上可接受且具有合法性）的解决方案，在很大程度上取决于支撑、证成并指引教育诊断与提议方案的国家理论。然而，正如[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy, 1992）所指出的，大多数教育问题分析都暗含着一种国家理论，但在教育研究与实践中，这种理论的根本前提却极少被识别或阐明。对我们自身的理论假定保持自我审思，是开展扎实学术研究的前提条件。（pp. 73–74）
 >
 > *Defining the "real" problems of education and the most appropriate (e.g., cost-effective, ethically acceptable, and legitimate) solutions depends greatly on the theories of the state that underpin, justify, and guide the educational diagnosis and proponed solutions. There is, however, a permanent challenge here. As Martin Carnoy (1992) has argued, most analyses of educational problems have implicit in them a theory of the state but seldom are the fundamentals of that theory recognized or spelled out in educational research and practice.*
 
@@ -252,7 +255,7 @@ issuing_organization: ""
 国际金融机构是推行上述生产方式转变的关键制度中介。
 
 > [!claim] 核心判断：[[World Bank|世界银行]]构建了操纵全球教育改革的[[Financial-Intellectual Complex|金融-智识复合体]]
-> 乔尔·萨莫夫（Joel Samoff）等学者的调查揭露，世界银行在全球教育政策中扮演了霸权角色。它不仅提供紧缩性贷款，更通过垄断研究经费和学术话语，打造了一个规训第三世界的金融-智识复合体。（pp. 80–81）
+> [[Joel Samoff|乔尔·萨莫夫]]（Joel Samoff）等学者的调查揭露，世界银行在全球教育政策中扮演了霸权角色。它不仅提供紧缩性贷款，更通过垄断研究经费和学术话语，打造了一个规训第三世界的金融-智识复合体。（pp. 80–81）
 
 > [!evidence-grid] 金融-智识复合体的四重运作机制
 > - **建立受雇专家智库**
@@ -271,7 +274,7 @@ issuing_organization: ""
 拉丁美洲的工业化转型历程，集中展现了外围国家教育扩张的内在制度矛盾。
 
 > [!policy-context] 进口替代工业化下的教育扩张悖论
-> 拉丁美洲拥有全球最典型的外围资本主义历史经验。从 1960 年代进口替代工业化（Import Substitution Industrialisation, ISI）开始，拉美国家经历了极其迅猛的学校规模扩张，但这场扩张没有带来真正的社会平等，反而形成了高度断裂的社会结构。（pp. 81–82）
+> 拉丁美洲拥有全球最典型的外围资本主义历史经验。从 1960 年代[[Import Substitution Industrialisation|进口替代工业化]]（Import Substitution Industrialisation, ISI）开始，拉美国家经历了极其迅猛的学校规模扩张，但这场扩张没有带来真正的社会平等，反而形成了高度断裂的社会结构。（pp. 81–82）
 
 > [!claim] 核心判断：拉美教育大扩张掩盖了底层的严重失学与文盲常态
 > 依据[[UNESCO|联合国教科文组织]]（UNESCO, 1974）与拉加经委会（UNESCO/CEPAL/PNUD, 1981）的历史统计，拉丁美洲在 1960 至 1970 年间的高等教育规模增长了将近两倍半，创下当时全球最高增速。然而，这种繁荣主要集中在服务城市中产和精英的梯队，广大农村与城市贫民窟的基础识字教育长期停滞。（pp. 81–82）

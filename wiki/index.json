@@ -864,6 +864,18 @@
     ]
   },
   {
+    "title": "Import Substitution Industrialisation",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Import Substitution Industrialisation.md",
+    "aliases": [
+      "进口替代工业化",
+      "ISI",
+      "Import Substitution Industrialization",
+      "进口替代",
+      "进口替代发展模式"
+    ]
+  },
+  {
     "title": "Intangible Spiritual Forces",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Intangible Spiritual Forces.md",
@@ -20514,6 +20526,16 @@
     ]
   },
   {
+    "title": "Joel Samoff",
+    "type": "person",
+    "path": "wiki/persons/us/Joel Samoff.md",
+    "aliases": [
+      "乔尔·萨莫夫",
+      "萨莫夫",
+      "Samoff, J."
+    ]
+  },
+  {
     "title": "John Dewey",
     "type": "person",
     "path": "wiki/persons/us/John Dewey.md",
@@ -20649,6 +20671,16 @@
     "aliases": [
       "马克·施奈德",
       "施奈德"
+    ]
+  },
+  {
+    "title": "Martin Carnoy",
+    "type": "person",
+    "path": "wiki/persons/us/Martin Carnoy.md",
+    "aliases": [
+      "马丁·卡诺伊",
+      "卡诺伊",
+      "Carnoy, M."
     ]
   },
   {
