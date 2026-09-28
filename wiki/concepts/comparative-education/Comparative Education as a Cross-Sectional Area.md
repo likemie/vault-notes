@@ -31,7 +31,7 @@ updated: 2026-09-29
 ## 定义
 
 > [!def] 核心定义
-> **比较教育作为交叉领域（Comparative Education as a Cross-Sectional Area / Querschnittsbereich）** 是指将比较教育界定为依附于母体学科“普通教育学”（Allgemeine Pädagogik），同时向历史学、社会学与政治学等邻近学科全方位开放的交叉性知识建制形态。该概念由德国比较教育学家[[Oskar Anweiler|奥斯卡·安维勒]]（Oskar Anweiler）于 1967 年提出，旨在化解比较教育在传统人文主义哲学思辨与新兴社会科学实证化之间的身份焦虑，既防范学科脱离教育学基本关怀蜕变为外部社会学的副产品，又打破传统教育学的狭隘国别与哲学封闭性。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
+> **比较教育作为交叉领域（Comparative Education as a Cross-Sectional Area / Querschnittsbereich）** 是指将比较教育界定为依附于母体学科普通教育学（德文：Allgemeine Pädagogik），同时向历史学、社会学与政治学等邻近学科全方位开放的交叉性知识建制形态。该概念由德国比较教育学家[[Oskar Anweiler|奥斯卡·安维勒]]（Oskar Anweiler）于 1967 年提出，旨在化解比较教育在传统人文主义哲学思辨与新兴社会科学实证化之间的身份焦虑，既防范学科脱离教育学基本关怀蜕变为外部社会学的副产品，又打破传统教育学的狭隘国别与哲学封闭性。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向比较教育在大学建制与科学知识谱系中的结构性定位，即它并非与教育学平行的外部纯社会科学，也不是没有独立边界的散漫杂烩，而是横切于教育学各大分支与外部社科之间的横截面知识领域。
@@ -39,7 +39,7 @@ updated: 2026-09-29
 > - **边界** 不等于脱离教育科学体系的纯粹独立学科（如英国模式中作为独立分支模块自足存在），亦不等于取消自身边界的泛化跨学科拼盘。
 
 > [!citation-card] 交叉领域的经典界定
-> 奥斯卡·安维勒早在 20 世纪 60 年代便将其界定为参照历史与社会学邻近学科的‘交叉领域’。在这方面，他为打开学科边界走向跨学科性奠定了基础，同时并未放弃该学科对作为其‘母体学科’的‘普通教育学’的传统依附。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
+> 奥斯卡·安维勒早在 20 世纪 60 年代便将其界定为参照历史与社会学邻近学科的交叉领域。在这方面，他为打开学科边界走向跨学科性奠定了基础，同时并未放弃该学科对作为其母体学科的普通教育学的传统依附。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 >
 > *Oskar Anweiler, already in the sixties of the twentieth century – though contested in that period – defined it as a "cross-sectional area" in reference to its historical and sociological neighbours. In this respect he contributed to laying the ground for opening its borders to interdisciplinarity without, however, abandoning its traditional affiliation to 'general pedagogy' as its 'mother-discipline'.*
 
@@ -48,9 +48,9 @@ updated: 2026-09-29
 ## 概念辨析
 
 > [!contrast-table] 比较教育学科定位模式对比
-> | 维度 | 交叉领域模式（欧陆/德国） | 独立分支模式（英国） | 工具性测量模式（北美/IEA） |
+> | 维度 | 交叉领域模式（欧陆/德国） | 独立分支模式（英国） | 工具性测量模式（北美/国际教育成就评价协会，IEA） |
 > |------|--------------------------|----------------------|--------------------------|
-> | 母体学科依附 | 牢固依托“普通教育学”（Allgemeine Pädagogik）与教化哲学 | 不设统一的“普通教育学”，直接作为大学教育学院平行独立系所 | 依托心理计量学、行为科学与教育经济学 |
+> | 母体学科依附 | 牢固依托普通教育学（Allgemeine Pädagogik）与教化哲学 | 不设统一的普通教育学，直接作为大学教育学院平行独立系所 | 依托心理计量学、行为科学与教育经济学 |
 > | 跨学科接口 | 横切历史学、比较社会学、政治学与法学 | 务实吸纳社会学、地理学与区域研究 | 高度依附大样本统计、心理测量与计量经济学 |
 > | 知识生产目标 | 理解国家制度变迁与文化传统，提供宏观结构阐释 | 关注学校系统实务、政策借用与历史经验对照 | 产出跨国可比绩效数据、预测规律与排名指标 |
 > | 学科合法性来源 | 深厚的历史人文解释力与制度发生学批判 | 实用主义的专业学院建制与政策咨询经验 | 实证量化的科学实证主义与变量函数预测 |
@@ -60,10 +60,10 @@ updated: 2026-09-29
 ## 核心要素
 
 > [!feature] 核心要素
-> - **母体学科根基（Allgemeine Pädagogik）** 始终将受教育者的教化、人的形成以及教育体系与社会的内在价值关联作为核心问题意识，避免沦为缺乏价值反思的纯工程技术。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
-> - **历史学维度（Historical Depth）** 强调对教育制度的理解必须溯源其制度发生学脉络，汲取史料文献考证与思想史诠释方法。
-> - **社会学维度（Sociological Breadth）** 引入社会结构、阶级分层、国家政治形态与全球资本流动的结构性分析视角，使比较分析具备扎实的经验解释力。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 97)]]
-> - **跨国横截面视角（Transnational Cross-Section）** 突破单一民族国家的国别容器，以多国横向对比作为照亮本国与外国体制隐蔽特征的棱镜。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–88)]]
+> - **母体学科根基** 始终将受教育者的教化、人的形成以及教育体系与社会的内在价值关联作为核心问题意识，避免沦为缺乏价值反思的纯工程技术。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
+> - **历史学维度** 强调对教育制度的理解必须溯源其制度发生学脉络，汲取史料文献考证与思想史诠释方法。
+> - **社会学维度** 引入社会结构、阶级分层、国家政治形态与全球资本流动的结构性分析视角，使比较分析具备扎实的经验解释力。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 97)]]
+> - **跨国横截面视角** 突破单一民族国家的国别容器，以多国横向对比作为照亮本国与外国体制隐蔽特征的棱镜。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–88)]]
 
 ---
 
