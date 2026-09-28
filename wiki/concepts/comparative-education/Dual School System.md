@@ -12,7 +12,7 @@ aliases:
 summary: "19世纪在欧洲大陆确立的阶级分选式教育制度，由面向平民大众的初等终点性轨道与面向大资产阶级和统治精英的中等文理学术轨道构成，形成阶层固化与教育特权再生产的二元学制格局"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
