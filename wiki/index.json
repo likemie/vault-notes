@@ -18264,6 +18264,16 @@
     ]
   },
   {
+    "title": "Daniel Schugurensky",
+    "type": "person",
+    "path": "wiki/persons/canada/Daniel Schugurensky.md",
+    "aliases": [
+      "丹尼尔·舒古伦斯基",
+      "舒古伦斯基",
+      "Schugurensky, D."
+    ]
+  },
+  {
     "title": "Douglas Walton",
     "type": "person",
     "path": "wiki/persons/canada/Douglas Walton.md",
@@ -18317,6 +18327,16 @@
     "aliases": [
       "Greenfield, T. B.",
       "托马斯·巴尔·格林菲尔德"
+    ]
+  },
+  {
+    "title": "Ernesto Schiefelbein",
+    "type": "person",
+    "path": "wiki/persons/chile/Ernesto Schiefelbein.md",
+    "aliases": [
+      "埃内斯托·席费尔拜因",
+      "席费尔拜因",
+      "Schiefelbein, E."
     ]
   },
   {
@@ -18672,6 +18692,19 @@
       "Sperber, D.",
       "丹·斯珀伯",
       "斯珀伯"
+    ]
+  },
+  {
+    "title": "Daniel Bensaïd",
+    "type": "person",
+    "path": "wiki/persons/france/Daniel Bensaïd.md",
+    "aliases": [
+      "达尼埃尔·本萨义德",
+      "丹尼尔·本赛德",
+      "本萨义德",
+      "本赛德",
+      "Bensaïd, D.",
+      "Bensaid, D."
     ]
   },
   {
@@ -20729,6 +20762,17 @@
     ]
   },
   {
+    "title": "Michael W. Apple",
+    "type": "person",
+    "path": "wiki/persons/us/Michael W. Apple.md",
+    "aliases": [
+      "迈克尔·阿普尔",
+      "迈克尔·W·阿普尔",
+      "阿普尔",
+      "Apple, M. W."
+    ]
+  },
+  {
     "title": "Nancy Madden",
     "type": "person",
     "path": "wiki/persons/us/Nancy Madden.md",
@@ -20927,6 +20971,17 @@
       "Thomas S. Kuhn",
       "T. S. Kuhn",
       "T. Kuhn"
+    ]
+  },
+  {
+    "title": "Thomas S. Popkewitz",
+    "type": "person",
+    "path": "wiki/persons/us/Thomas S. Popkewitz.md",
+    "aliases": [
+      "托马斯·S·波普科维茨",
+      "托马斯·波普科维茨",
+      "波普科维茨",
+      "Popkewitz, T. S."
     ]
   },
   {
@@ -25821,6 +25876,16 @@
       "布鲁金斯学会",
       "布鲁金斯研究所",
       "Brookings"
+    ]
+  },
+  {
+    "title": "Business Roundtable",
+    "type": "fact",
+    "path": "wiki/facts/us/Business Roundtable.md",
+    "aliases": [
+      "商业圆桌会",
+      "美国商业圆桌会",
+      "BRT"
     ]
   },
   {

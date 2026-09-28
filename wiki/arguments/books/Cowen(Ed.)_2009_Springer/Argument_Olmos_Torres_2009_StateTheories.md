@@ -67,10 +67,16 @@ related_persons:
   - "[[Stephen Ball]]"
   - "[[Martin Carnoy]]"
   - "[[Joel Samoff]]"
+  - "[[Michael W. Apple]]"
+  - "[[Thomas S. Popkewitz]]"
+  - "[[Daniel Bensaïd]]"
+  - "[[Ernesto Schiefelbein]]"
+  - "[[Daniel Schugurensky]]"
 related_facts:
   - "[[World Bank]]"
   - "[[OECD]]"
   - "[[UNESCO]]"
+  - "[[Business Roundtable]]"
 related_arguments: []
 sources:
   - "[[books/Cowen(Ed.)_2009_Springer/Ch06_Olmos_Torres_2009|Ch06_Olmos_Torres_2009]]"
@@ -84,7 +90,7 @@ title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches"
 argument_kind: "book-chapter"
-argument_related_count: 45
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -141,7 +147,7 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **理论[[Document\|文献]]样本** | 涵盖卡诺伊、[[Paulo Freire\|弗莱雷]]、葛兰西、萨特、阿普尔、鲍尔、萨莫夫、多斯桑托斯及本赛德等学者的经典文本。（pp. 85–86） |
+> | **理论[[Document\|文献]]样本** | 涵盖[[Martin Carnoy\|卡诺伊]]、[[Paulo Freire\|弗莱雷]]、葛兰西、萨特、[[Michael W. Apple\|阿普尔]]、[[Stephen Ball\|鲍尔]]、[[Joel Samoff\|萨莫夫]]、多斯桑托斯及[[Daniel Bensaïd\|本萨义德]]等学者的经典文本。（pp. 85–86） |
 > | **经验与历史案例** | 重点覆盖拉丁美洲地区（墨西哥后革命国家法团体制与扫盲政策、阿根廷布宜诺斯艾利斯大学高教重构、智利新自由主义中产阶级危机）的制度演变档案。（pp. 79, 81–84） |
 > | **跨国统计与政策材料** | 世界银行教育部门政策文件、结构调整贷款协议文本、[[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）/联合国拉丁美洲和加勒比经济委员会（United Nations Economic Commission for Latin America and the Caribbean, CEPAL）/联合国开发计划署（United Nations Development Programme, PNUD）历史联合统计报告。（pp. 81, 85–86） |
 
@@ -242,7 +248,7 @@ issuing_organization: ""
 > - **行政管理与财政甩包袱（分权化改革）**
 >   中央政府以权力下放、自主管理为借口，将学校筹资和运营负担转移给财力孱弱的地方政府和贫困社区，导致区域校际鸿沟进一步拉大。
 
-学校组织模式的根本转变，根源于资本主义生产方式从福特制向[[Post-Fordism|后福特制]]的范式转型。
+学校组织模式的根本转变，根源于资本主义生产方式从福特制向[[Post-Fordism|后福特制]]的范式转型。正如[[Michael W. Apple|迈克尔·W·阿普尔]]（Michael W. Apple, 1982）所指出的，劳动过程从福特制向后福特制的转变，深刻重塑了劳动力的技能化与去技能化进程，并将技术控制逻辑强力植入学校课程形态之中。（p. 79）
 
 > [!continuum] 生产方式转变如何直接重塑学校教育目标
 > **福特制流水线集中大工业** **[[Post-Fordism|后福特制]]跨国弹性灵活积累**
@@ -254,10 +260,12 @@ issuing_organization: ""
 > - 课程注重统一步调、集体意识与标准化技能
 > - 课程转向能力模块化、注重个人竞争与考评绩效管控
 
-国际金融机构是推行上述生产方式转变的关键制度中介。
+国际金融机构与跨国多边组织是推行上述生产方式转变与社会规训的关键制度中介。正如[[Thomas S. Popkewitz|托马斯·S·波普科维茨]]等学者（Popkewitz & Pereyra, 1993）对八国教师教育改革研究所指出的，经合组织（[[OECD]]）等国际组织在推进规训教师教育的法规政策演变中扮演了关键枢纽角色。（p. 80）
 
 > [!claim] 核心判断：[[World Bank|世界银行]]构建了操纵全球教育改革的[[Financial-Intellectual Complex|金融-智识复合体]]
 > [[Joel Samoff|乔尔·萨莫夫]]（Joel Samoff）等学者的调查揭露，世界银行在全球教育政策中扮演了霸权角色。它不仅提供紧缩性贷款，更通过垄断研究经费和学术话语，打造了一个规训第三世界的金融-智识复合体。（pp. 80–81）
+>
+> 在考察世界银行对全球高等教育的渗透时，[[Daniel Schugurensky|丹尼尔·舒古伦斯基]]（Daniel Schugurensky, 1994）进一步指出，世界银行在国际层面扮演的角色，与美国[[Business Roundtable|商业圆桌会]]（Business Roundtable）在美国本土推行教育改革议程的机制高度类似；世界银行所倡导的私有化政策与商业圆桌会发端的大量新自由主义及新保守主义主张之间，存在着深刻的“选择性亲和”（elective affinity）。（p. 81）
 
 > [!evidence-grid] 金融-智识复合体的四重运作机制
 > - **建立受雇专家智库**
@@ -289,7 +297,7 @@ issuing_organization: ""
 
 实证调查清晰表明，单纯的办学指标改善无法打破根深蒂固的不平等结构。
 
-> [!feature] 希费尔拜因总结的拉美教育五项改良与其结构限度（p. 82）
+> [!feature] [[Ernesto Schiefelbein|席费尔拜因]]（Schiefelbein, 1998）总结的拉美教育五项改良与其结构限度（p. 82）
 > - **适龄儿童入学机会增加** 绝大多数儿童获得了名义上的入学资格，小学规模大幅上升。
 > - **在校[[Educational Level|受教育年限]]延长** 青少年平均在校时间逐步拉长，初高中普及率增加。
 > - **适龄入学情况有所好转** 适龄儿童按时入学比例改善，超龄就读现象略有缓解。
@@ -328,7 +336,7 @@ issuing_organization: ""
 > 智利皮诺切特军政权按照世界银行和新自由主义经济学的标准处方，激进推行学校私有化、发放教育券并全面推行使用者付费。洛姆尼茨与梅尔尼克（Lomnitz & Melnick, 1991）的[[Fieldwork|实地调查]]记录了这场改革对智利社会的残酷冲击：公立学校名誉扫地、设施破败；曾经体面的普通中产家庭为了让子女进入私立学校，不得不承担极其沉重的债务负担。这场改革撕下了自由选择的面具，证明了市场化教育实质上是资产阶级剥夺大众平民受教育权的制度暴力。（pp. 79, 85）
 
 > [!case] 世界银行贷款附加条件与阿根廷布宜诺斯艾利斯大学重构（Schugurensky, 1994）
-> 丹尼尔·舒古伦斯基（Daniel Schugurensky）对阿根廷历史最悠久、规模最大的布宜诺斯艾利斯大学（Universidad de Buenos Aires, UBA）的[[Case Study|个案研究]]表明，世界银行利用结构调整贷款作为施压工具，要求阿根廷政府压缩国立大学财政预算，强行要求公立大学在研究生阶段开征学费、面向企业创收自筹资金，并推行技术官僚考核。这项干预旨在削弱拉美大学传统上浓厚的人文社会科学批判传统，迫使高深学府沦为依附于跨国资本积累的职业技能培训所。（pp. 81, 85）
+> [[Daniel Schugurensky|舒古伦斯基]]（Schugurensky, 1994）对阿根廷历史最悠久、规模最大的布宜诺斯艾利斯大学（Universidad de Buenos Aires, UBA）的[[Case Study|个案研究]]表明，世界银行利用结构调整贷款作为施压工具，要求阿根廷政府压缩国立大学财政预算，强行要求公立大学在研究生阶段开征学费、面向企业创收自筹资金，并推行技术官僚考核。这项干预旨在削弱拉美大学传统上浓厚的人文社会科学批判传统，迫使高深学府沦为依附于跨国资本积累的职业技能培训所。（pp. 81, 85）
 
 面对受限国家机器与法团主义官僚恩庇，拉美基层社会孕育了自主的批判教育抵抗传统。
 
@@ -361,7 +369,7 @@ issuing_organization: ""
 > 新自由主义模式的演进在中心国家与外围国家呈现出非对称节奏。在欧美中心国家，新自由主义模式的弊端早已暴露并引发广泛的学术和政治危机；然而在拉美外围国家，依附于跨国资本的本土买办精英却依然在死抱教条、变本加厉地推行私有化。这种时代错位不仅激化了国内矛盾，更促使学生、工会、贫困社群和知识分子看清现实，为建立广泛的抵抗联盟创造了客观条件。（p. 85）
 
 > [!warrant] 走出危机的方法：联合冷面科学分析与炽热道德乌托邦的[[Praxis|实践哲学]]
-> 借由丹尼尔·本赛德（Daniel Bensaïd, 1999）对马克思当代意义的阐释，走出当前教育和政治危机的唯一出路，在于重构马克思主义作为行动指南的辩证实践哲学（[[Praxis]]）。批判学者不能停留在书斋里的空洞叹息，必须把严谨求实的制度分析（冷面科学）与捍卫人类尊严的道德追求（炽热乌托邦）结合起来，将理论转化为联合教师工会、学生运动与劳工大众的具体政治实践，共同构筑捍卫公共教育尊严、实现民主解放的替代道路。（pp. 84–85）
+> 借由[[Daniel Bensaïd|达尼埃尔·本萨义德]]（Daniel Bensaïd, 1999）对马克思当代意义的阐释，走出当前教育和政治危机的唯一出路，在于重构马克思主义作为行动指南的辩证实践哲学（[[Praxis]]）。批判学者不能停留在书斋里的空洞叹息，必须把严谨求实的制度分析（冷面科学）与捍卫人类尊严的道德追求（炽热乌托邦）结合起来，将理论转化为联合教师工会、学生运动与劳工大众的具体政治实践，共同构筑捍卫公共教育尊严、实现民主解放的替代道路。（pp. 84–85）
 
 ---
 
