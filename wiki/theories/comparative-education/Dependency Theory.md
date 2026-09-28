@@ -8,10 +8,10 @@ aliases:
 summary: "兴起于拉丁美洲并拓展至比较教育的新马克思主义批判路径。拒绝现代化理论将欠发展归结为内部缺失的技术主义假设，主张从全球资本主义世界体系的中心-边缘结构性支配、跨国垄断资本掠夺、受制国家阶级联盟及文化帝国主义机制出发，解释第三世界国家教育不平等、双轨分流及学术依附"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 32
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 43
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theory/dependency
   - subject/comparative-education
