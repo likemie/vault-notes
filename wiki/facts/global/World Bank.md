@@ -11,9 +11,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 26
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 33
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: multilateral-development-bank
 headquarters: "华盛顿特区（美国）"
@@ -26,6 +26,8 @@ tags:
   - theme/human-capital
 related_concepts:
   - "[[Policy Brokerage]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Financial-Intellectual Complex]]"
   - "[[Return on Investment]]"
   - "[[Performance Indicators]]"
   - "[[Knowledge Bank]]"
@@ -33,9 +35,13 @@ related_concepts:
   - "[[Document]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
+  - "[[International Education]]"
+  - "[[Selective Affinity]]"
   - "[[Soft Power by Hard Facts]]"
+  - "[[Endogenous and Exogenous Privatisation]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Conditioned State Theory]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Difference-in-Differences]]"
@@ -57,10 +63,11 @@ related_facts:
   - "[[World Education Reform Database]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-22
+updated: 2026-09-28
 ---
 
 # World Bank
@@ -70,23 +77,23 @@ updated: 2026-09-22
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 世界银行（World Bank）是二战后布雷顿森林体系确立的全球最大多边开发金融与知识援助机构，其在教育领域依托庞大的放贷权力与管理-科学效率声称，逐步演进为与[[OECD\|经合组织]]（[[OECD]]）并驾齐驱的全球教育数据驱动型[[Policy Brokerage\|政策中介]]先行中枢。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
+> 世界银行（World Bank）是二战后布雷顿森林体系确立的全球最大多边开发金融与知识援助机构。其在教育领域依托庞大的放贷权力与管理-科学效率声称，一方面逐步演进为与[[OECD|经合组织]]（[[OECD]]）并驾齐驱的全球教育数据驱动型[[Policy Brokerage|政策中介]]先行中枢（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）；另一方面也被批判政治经济学者界定为建构跨国知识垄断与结构[[Disciplina and Doctrina|规训]]的[[Financial-Intellectual Complex|金融-智识复合体]]核心枢纽，在全球教育治理中发挥着如同跨国企业集团商业圆桌会议般的政策塑形功能。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1944 年 7 月布雷顿森林会议倡议成立国际复兴开发银行（IBRD），1945 年正式运作，最初旨在资助战后欧洲重建，冷战时期转入对亚非拉新独立发展中国家的经济与社会基础设施开发贷款。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **成立时间 / 创设背景** 1944 年 7 月布雷顿森林会议倡议成立国际复兴开发银行（IBRD），1945 年正式运作，最初旨在资助战后欧洲重建，冷战时期转入对亚非拉新独立发展中国家的经济与社会基础设施开发贷款。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **总部地点 / 业务辐射** 总部设于美国华盛顿特区，在全球设立 130 余个国别代表处，业务覆盖 189 个成员国，是主导全球南方国家宏观经济与公共部门改革的最高多边信贷实体。
 > - **法人属性与经费基础** 由成员国政府持股的特许多边金融机构，经费来自国际金融市场发债筹资、成员国认缴股本以及国际开发协会（IDA）由发达捐助国定期补充的软贷款赠款。
-> - **核心宗旨与法定职责** 消除绝对贫困、促进共享繁荣；在教育领域主张通过[[Human Capital Theory\|人力资本]]投资促进经济生产率与个人收入增长，将教育规划与借贷国宏观财政平衡紧密捆绑。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
+> - **核心宗旨与法定职责** 消除绝对贫困、促进共享繁荣；在教育领域主张通过[[Human Capital Theory|人力资本]]投资促进经济生产率与个人收入增长，将教育规划与借贷国宏观财政平衡紧密捆绑。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 ---
 
 ## 历史沿革与组织演变
 
 > [!dev-timeline]- 组织发展历程
-> - **1944–1968 — 砖瓦基建与[[UNESCO\|教科文组织]]早期依附期** 初期严守硬性物理基础设施借贷，不涉足教育社会事业；1962 年向突尼斯发放首笔中等技术教育贷款；1964 年与教科文组织（UNESCO）签署《合作协定》（Co-operative Agreement），依靠 UNESCO 的专业团队物色与评估借贷国教育项目，初步敲开全球南方的教育大门。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
-> - **1968–1981 — 麦克纳马拉改革与教育研究帝国奠基期** 罗伯特·麦克纳马拉（Robert McNamara）执掌世行，将教育确立为反贫困的核心生产性支柱；聘请著名教育经济学家[[George Psacharopoulos\|乔治·萨卡罗普洛斯]]（[[George Psacharopoulos]]）等组建中央研究团队，开创覆盖全球的[[Return on Investment\|教育投资回报率]]（RORE）实证计量传统；1980 年 4 月正式发表里程碑式《教育部门政策文件》，单方面终结对教科文组织的依赖，确立完全独立的教育政策研究与借贷体系。[[Argument_Steiner-Khamsi_2024_CE\|(Psacharopoulos, 1981; Steiner-Khamsi et al., 2024, pp. 541–542)]]
-> - **1981–1999 — 结构调整贷款与量化指标急剧扩张期** 推行华盛顿共识，将削减公共开支、用户付费与基础教育分权作为结构调整贷款的严苛附加条件；全面启动指标库建设，其宏观指标体系从 1989 年 4 月的 116 项急剧扩张至后期的 1,600 项；1999 年与国际货币基金组织（IMF）联合引入《[[Poverty Reduction Strategy Papers\|减贫战略文件]]》（[[Poverty Reduction Strategy Papers\|PRSPs]]），将[[Performance Indicators\|教育指标]]纳为国家宏观多边信用评级的刚性杠杆。[[Argument_Steiner-Khamsi_2024_CE\|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, p. 542)]]
-> - **1999–至今 — [[Knowledge Bank\|知识银行]]转型与自指性政策仓库建构期** 沃尔芬森（James Wolfensohn）主导世行转型为“知识银行”（Knowledge Bank）；虽于 1999 年创设[[Global Development Network\|全球发展网络]]（GDN）探索本土去中心化[[Knowledge Production\|知识生产]]，但迅速被华盛顿总部集权的工具所取代；2011 年推出[[Systems Approach for Better Education Results\|改善教育成果系统分析法]]（SABER），联合英美双边援助机构组建[[Building Evidence in Education\|构建教育证据联盟]]（BE2），确立以[[Randomised Controlled Trials\|随机对照试验]]（[[Randomised Controlled Trials\|RCTs]]）和成熟度量规为核心的自指性[[Policy Brokerage\|政策中介]]帝国。[[Argument_Steiner-Khamsi_2024_CE\|(Stone, 2000; Steiner-Khamsi et al., 2024, pp. 543, 545, 548)]]
+> - **1944–1968 — 砖瓦基建与[[UNESCO|教科文组织]]早期依附期** 初期严守硬性物理基础设施借贷，不涉足教育社会事业；1962 年向突尼斯发放首笔中等技术教育贷款；1964 年与教科文组织（UNESCO）签署《合作协定》（Co-operative Agreement），依靠 UNESCO 的专业团队物色与评估借贷国教育项目，初步敲开全球南方的教育大门。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **1968–1981 — 麦克纳马拉改革与教育研究帝国奠基期** 罗伯特·麦克纳马拉（Robert McNamara）执掌世行，将教育确立为反贫困的核心生产性支柱；聘请著名教育经济学家[[George Psacharopoulos|乔治·萨卡罗普洛斯]]（[[George Psacharopoulos]]）等组建中央研究团队，开创覆盖全球的[[Return on Investment|教育投资回报率]]（RORE）实证计量传统；1980 年 4 月正式发表里程碑式《教育部门政策文件》，单方面终结对教科文组织的依赖，确立完全独立的教育政策研究与借贷体系。[[Argument_Steiner-Khamsi_2024_CE|(Psacharopoulos, 1981; Steiner-Khamsi et al., 2024, pp. 541–542)]]
+> - **1981–1999 — 结构调整贷款与量化指标急剧扩张期** 推行华盛顿共识，将削减公共开支、用户付费与基础教育分权作为结构调整贷款的严苛附加条件；依靠雄厚预算招募跨国受雇专家共同体，定向委托以新古典经济学、[[Human Capital Theory|人力资本理论]]和厂商理论为基底的实证研究，将成本效益、投入产出与收益率分析裁定为唯一合法的评价规程（Samoff, 1992, 1993）；全面启动指标库建设，其宏观指标体系从 1989 年 4 月的 116 项急剧扩张至后期的 1,600 项；1999 年与国际货币基金组织（International Monetary Fund, IMF）联合引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（[[Poverty Reduction Strategy Papers|PRSPs]]），将[[Performance Indicators|教育指标]]纳为国家宏观多边信用评级的刚性杠杆。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, p. 542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
+> - **1999–至今 — [[Knowledge Bank|知识银行]]转型与自指性政策仓库建构期** 沃尔芬森（James Wolfensohn）主导世行转型为“知识银行”（Knowledge Bank）；虽于 1999 年创设[[Global Development Network|全球发展网络]]（GDN）探索本土去中心化[[Knowledge Production|知识生产]]，但迅速被华盛顿总部集权的工具所取代；2011 年推出[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER），联合英美双边援助机构组建[[Building Evidence in Education|构建教育证据联盟]]（BE2），确立以[[Randomised Controlled Trials|随机对照试验]]（[[Randomised Controlled Trials|RCTs]]）和成熟度量规为核心的自指性[[Policy Brokerage|政策中介]]帝国。[[Argument_Steiner-Khamsi_2024_CE|(Stone, 2000; Steiner-Khamsi et al., 2024, pp. 543, 545, 548)]]
 
 ---
 
@@ -152,6 +159,12 @@ updated: 2026-09-22
 > >
 > > - **批判政治经济学派（Bonal, 2002; Klees, 2008）** 批评 1980–1990 年代世行推行的结构调整计划强迫借贷国冻结教师编制、引入公立学校用户收费并加速民办私立化，给撒哈拉以南非洲和拉美的公共教育系统造成毁灭性冲击，实质是以量化科学之名行经济新殖民主义之实。
 > > - **世行辩护** 强调结构性改革旨在破除发展中国家教育系统的寻租腐败与非生产性财政冗员，优先保证贫困人口享有最基本的初等读写算技能。
+> >
+> > [!axis] [[Financial-Intellectual Complex|金融-智识复合体]]与单一体信贷逻辑：技术中立政策建议 vs 跨国资本[[Disciplina and Doctrina|规训]]同盟
+> > 争论世界银行的[[Knowledge Production|知识生产]]是具有学术反思能力的多元智库，还是受贷款部门单一体支配、与跨国资本利益高度亲和的规训工具。
+> >
+> > - **组织反思论者** 强调世行内部研究人员具备多元理论视野，其学术工作论文频繁探讨教育紧缩的负面社会后果。
+> > - **批判政治经济学者 ([[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres, 2009, p. 81]])** 援引 Samoff (1992, 1993) 与 Schugurensky (1994) 的研究指出，世行负责贷款发放的管理层与微观研究者严重脱节，在实践中毫不妥协地推行单一化的市场规训逻辑，其在[[International Education|国际教育]]中发挥着类似美国商业圆桌会议的作用，与新自由主义推行私有化、削减国家投资的诉求呈现出深度的[[Selective Affinity|选择性亲和]]。
 
 > [!citation-card] 跨国政策中介中的自指性经验汲取实证
 > 借鉴世界教育改革数据库（WERD）的数据，塞策等研究学者发现，经合组织的政策报告倾向于引用其他国家的具体改革经验；相比之下，世界银行的报告在汲取政策经验时呈现出高度的自指性（Self-referential），其政策报告反复重申并循环推介其内部的最佳实践投资组合，正如同其 SABER 项目所系统记录的那样。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
@@ -175,3 +188,6 @@ updated: 2026-09-22
 > | [[OECD]] | 事实 (机构) | 与世界银行并称数据驱动全球治理两大先行者的北方智库型中枢。 |
 > | [[Human Capital Theory]] | 理论 | 为世界银行将教育借贷合法化为生产性投资的底层经济学[[Paradigm\|范式]]。 |
 > | [[Policy Brokerage]] | 概念 | 世界银行在全球教育治理中施展[[Soft Power by Hard Facts\|硬事实软权力]]的核心操作工具。 |
+> | [[Financial-Intellectual Complex]] | 概念 | 批判学者界定世行绑定信贷附加条件与定向[[Knowledge Production\|知识生产]]的跨国垄断机制。 |
+> | [[Conditioned State Theory]] | 理论 | 阐释世行结构调整贷款如何作为超国家杠杆剥夺外围借贷国教育自主性。 |
+> | [[Endogenous and Exogenous Privatisation]] | 概念 | 世行贷款附加条件推动的使用者自费（内生）与民办分权（外生）阶级策略。 |

@@ -3837,7 +3837,9 @@
       "Commissioned Research",
       "委托研究",
       "Categorical Research",
-      "分类研究"
+      "分类研究",
+      "定向委托资助",
+      "定向研究"
     ]
   },
   {
@@ -4066,7 +4068,8 @@
       "内生与外生私有化",
       "教育私有化",
       "endogenous privatization",
-      "exogenous privatization"
+      "exogenous privatization",
+      "内外生私有化"
     ]
   },
   {
@@ -13569,7 +13572,9 @@
       "文化模型",
       "cultural model",
       "culture-level models",
-      "culture-level model"
+      "culture-level model",
+      "world culture models",
+      "世界文化模型"
     ]
   },
   {
@@ -14117,7 +14122,8 @@
     "aliases": [
       "分析框架",
       "analytic tradition",
-      "analytic frameworks in qualitative research"
+      "analytic frameworks in qualitative research",
+      "理论分析框架"
     ]
   },
   {

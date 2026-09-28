@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "UNESCO",
-      "path": "wiki/facts/global/UNESCO.md"
-    },
-    {
       "basename": "Argument_Olmos_Torres_2009_StateTheories",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Olmos_Torres_2009_StateTheories.md"
+    },
+    {
+      "basename": "Case Study",
+      "path": "wiki/methods/qualitative/Case Study.md"
+    },
+    {
+      "basename": "Dependency Theory",
+      "path": "wiki/theories/comparative-education/Dependency Theory.md"
+    },
+    {
+      "basename": "Educational Level",
+      "path": "wiki/concepts/sociology-of-education/Educational Level.md"
+    },
+    {
+      "basename": "UNESCO",
+      "path": "wiki/facts/global/UNESCO.md"
     },
     {
       "basename": "Endogenous and Exogenous Privatisation",
@@ -187,18 +199,6 @@
     {
       "basename": "Complexity Theory",
       "path": "wiki/theories/educational-philosophy/Complexity Theory.md"
-    },
-    {
-      "basename": "Evidence-Based Education",
-      "path": "wiki/concepts/educational-policy-reform/Evidence-Based Education.md"
-    },
-    {
-      "basename": "Kunnskapssenter for utdanning",
-      "path": "wiki/facts/norway/Kunnskapssenter for utdanning.md"
-    },
-    {
-      "basename": "EPPI-Centre",
-      "path": "wiki/facts/uk/EPPI-Centre.md"
     }
   ],
   "omittedPaths": [],
