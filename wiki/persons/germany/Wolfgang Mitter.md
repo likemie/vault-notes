@@ -31,9 +31,9 @@ updated: 2026-09-29
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 德国比较教育学家，法兰克福国际教育研究所（Deutsches Institut für Internationale Pädagogische Forschung, DIPF）总监与所长（1972–1995），[[Comparative Education Society in Europe|欧洲比较教育学会]]（Comparative Education Society in Europe, CESE）会长（1981–1985），世界比较教育学会联合会（World Council of Comparative Education Societies, WCCES）会长（1991–1996）。
+> - **身份位置** 德国比较教育学家，德国国际教育研究所（Deutsches Institut für Internationale Pädagogische Forschung, DIPF）总监与所长（1972–1995），[[Comparative Education Society in Europe|欧洲比较教育学会]]（Comparative Education Society in Europe, CESE）会长（1981–1985），世界比较教育学会联合会（World Council of Comparative Education Societies, WCCES）会长（1991–1996）。
 > - **核心角色** 20 世纪下半叶欧洲比较教育学科制度化、东西欧教育交流以及跨国学会网络的重要组织者与理论阐释者；在冷战对峙与后冷战转型时期架设起西欧与中东欧比较教育学术沟通的桥梁。
-> - **代表贡献** 提出欧洲比较教育发展的“统一性与多样性”核心二分结构；系统考察欧洲比较教育学会与大学教席的制度化版图；辨析比较教育在政策咨询中的立场光谱；推动跨文化教育与比较教育学科的再度融合。
+> - **代表贡献** 提出欧洲比较教育发展的统一性与多样性核心二分结构；系统考察欧洲比较教育学会与大学教席的制度化版图；辨析比较教育在政策咨询中的立场光谱；推动跨文化教育与比较教育学科的再度融合。
 
 > [!citation-card] 人物定位的关键来源
 > 将比较教育置于欧洲这一区域框架内进行情境化考察，必然会导向自中世纪早期以来决定欧洲历史主流的基本结构性原则：多样性与统一性之间的二分法。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 87)]]
@@ -69,10 +69,10 @@ updated: 2026-09-29
 ## 核心思想
 
 > [!claim] 核心主张
-> 米特主张欧洲比较教育学的发展本质上受制于“统一性与多样性”的永恒张力。多样性表现为以民族国家教育主权为核心的个殊体制与国别研究，而统一性则承载于超越国界的“欧洲理念”、共同精神文化遗产与战后超国家治理一体化。在学科性质上，他肯定德国将比较教育界定为依附于普通教育学但面向社会学与历史学的交叉领域传统；在政策功能上，他主张审慎的改良主义定位，既防范将比较教育退化为技术官僚量化排名的工具附庸，又警惕脱离决策实践的纯思辨玄想。
+> 米特主张欧洲比较教育学的发展本质上受制于统一性与多样性的永恒张力。多样性表现为以民族国家教育主权为核心的个殊体制与国别研究，而统一性则承载于超越国界的欧洲理念、共同精神文化遗产与战后超国家治理一体化。在学科性质上，他肯定德国将比较教育界定为依附于普通教育学但面向社会学与历史学的交叉领域传统；在政策功能上，他主张审慎的改良主义定位，既防范将比较教育退化为技术官僚量化排名的工具附庸，又警惕脱离决策实践的纯思辨玄想。
 
 > [!citation-card] 欧洲统一性与多样性的永恒张力
-> 欧洲历史主流自中世纪早期起便由多样性与统一性的二分法所决定。在比较教育史上，这一‘欧洲理念’鲜明地反映在驱动力理论之中，表达了国家教育体系与文化形态相互关系中的趋同性。总体而言，所有这些趋势为当今全球化世界中所面临的普遍主义与文化多元主义之间的根本张力奠定了基础。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 88)]]
+> 欧洲历史主流自中世纪早期起便由多样性与统一性的二分法所决定。在比较教育史上，这一欧洲理念鲜明地反映在驱动力理论之中，表达了国家教育体系与文化形态相互关系中的趋同性。总体而言，所有这些趋势为当今全球化世界中所面临的普遍主义与文化多元主义之间的根本张力奠定了基础。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 88)]]
 >
 > *In the history of comparative education this 'European idea' was expressly reflected in the theories of the driving forces expressing convergences in the interrelations of national education systems and cultural configurations. Taken as a whole, all those trends have laid the ground for the fundamental tension between universalism and cultural pluralism which we are aware of in the globalising world of today as the modern manifestation of the perennial dichotomy mentioned at the beginning.*
 
