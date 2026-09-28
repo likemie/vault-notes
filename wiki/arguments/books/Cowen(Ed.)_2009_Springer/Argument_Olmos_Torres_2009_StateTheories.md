@@ -44,9 +44,11 @@ related_concepts:
   - "[[Conscientization]]"
   - "[[Creativity]]"
   - "[[Import Substitution Industrialisation]]"
+  - "[[Structural Adjustment Programs]]"
 related_theories:
   - "[[World Society Theory]]"
   - "[[Conditioned State Theory]]"
+  - "[[Colonial State Theory]]"
   - "[[State Corporatism]]"
   - "[[Neocorporatism]]"
   - "[[World-Systems Theory]]"
@@ -82,9 +84,9 @@ title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches"
 argument_kind: "book-chapter"
-argument_related_count: 43
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
 journal: ""
 book_title: "International Handbook of Comparative Education"
@@ -166,7 +168,7 @@ issuing_organization: ""
 > 战后主流的[[World Society Theory|世界文化理论]]认为，全球教育扩张是现代国家模仿单一世界[[Cultural Models|文化模型]]、追求公民权利与经济竞争力的自然趋同过程。然而，这种解释预设了一个仿佛在 1945 年突然降临的大爆炸假说（Big Bang），割断了历史联系，无法解释为什么第三世界国家在经历了相同名义的教育扩张后，普遍演化出富人与穷人泾渭分明的阶级[[Dual School System|双轨学制]]。（pp. 74–75）
 
 > [!claim] 核心判断：非历史的普世叙事抹杀了殖民压迫与外围资本积累的残酷现实
-> 世界文化理论假定全球存在一个均质的价值体系，各国政府建立学校只是为了培育现代化公民。但是，殖民与后殖民历史表明，第三世界国家并不是主动选择学校制度的，而是在不同历史时期被动接入全球资本主义体系的结果。殖民时期的宗主国完全不需要通过教育换取被统治者的政治认同，其设立的有限学校主要用于满足资源掠夺和培养初级行政仆从；后殖民时期的教育扩张，则不可避免地承受着资本积累需求与本土历史遗产的双重制约。（pp. 74–76）
+> 世界文化理论假定全球存在一个均质的价值体系，各国政府建立学校只是为了培育现代化公民。但是，正如[[Colonial State Theory|殖民国家理论]]所指出的，殖民与后殖民历史表明，第三世界国家并不是主动选择学校制度的，而是在不同历史时期被动接入全球资本主义体系的结果。殖民时期的宗主国完全不需要通过教育换取被统治者的政治认同，其设立的有限学校主要用于满足资源掠夺和培养初级行政仆从；后殖民时期的教育扩张，则不可避免地承受着资本积累需求与本土历史遗产的双重制约。（pp. 74–76）
 
 两种分析路径在解释驱动力、历史因果与国家职能上存在根本分歧。
 
@@ -230,9 +232,9 @@ issuing_organization: ""
 > [!claim] 核心判断：市场化改革不是为了提升教育质量，而是统治阶层削减公共开支的阶级策略
 > 戴维·赫尔德（David Held）等学者的分析表明，跨国公司（Transnational Corporations, TNCs）推动的全球化让跨国资本获得了逃避国家监管和税收的巨大自由，而民族国家为了吸引外资，转而向国内大众推行紧缩政策。[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen Ball, 1993）指出，推崇教育市场竞争、把学校推向自负盈亏，本质上是一场精巧的阶级策略：国家将教育投资失败的责任转嫁给底层家庭，同时让拥有财富的优势阶层在私立教育市场中牢牢锁定阶层优势。（pp. 79–80）
 
-新自由主义在此背景下向外围国家推行了一整套紧缩性政策组合。
+国际金融组织在此背景下通过[[Structural Adjustment Programs|结构调整方案]]（Structural Adjustment Programs, SAPs）向外围国家推行了一整套紧缩性政策组合。
 
-> [!feature] 新自由主义强加给发展中国家的三项教育紧缩处方
+> [!feature] 结构调整方案强加给发展中国家的三项教育紧缩处方
 > - **向学生收取学杂费（使用者付费）**
 >   取消初中等以上的免费教育，要求学生和家长自行负担学费与书本费，直接阻断了贫困家庭子弟向上流动的通道。
 > - **推行[[Endogenous and Exogenous Privatisation|教育私有化]]与教育券制度**

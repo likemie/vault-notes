@@ -1297,6 +1297,18 @@
     ]
   },
   {
+    "title": "Structural Adjustment Programs",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Structural Adjustment Programs.md",
+    "aliases": [
+      "结构调整方案",
+      "SAPs",
+      "Structural Adjustment",
+      "结构调整政策",
+      "结构调整"
+    ]
+  },
+  {
     "title": "Technologies of Exclusion",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Technologies of Exclusion.md",
@@ -11945,6 +11957,19 @@
       "ANT",
       "转译社会学",
       "多行动者分析"
+    ]
+  },
+  {
+    "title": "Colonial State Theory",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Colonial State Theory.md",
+    "aliases": [
+      "殖民国家理论",
+      "殖民国家与教育",
+      "Colonial State and Education",
+      "殖民国家与后殖民国家理论",
+      "Theory of the Colonial State",
+      "Colonial State"
     ]
   },
   {
