@@ -7,10 +7,10 @@ summary: "英国首任比较教育教授（1947），欧洲比较教育学会首
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 29
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1902"
 died: "1981"
 lifespan: "1902–1981"
@@ -19,6 +19,7 @@ tags:
   - theme/international-cooperation
   - theme/history-of-education
 related_concepts:
+  - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Scientific Method]]"
   - "[[International Education]]"
   - "[[Dialogue in Education]]"
@@ -29,6 +30,8 @@ related_concepts:
   - "[[Cultural Diplomacy]]"
   - "[[Comparative History of Comparative Education]]"
   - "[[Rationalism in International Relations]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[Allgemeine Pädagogik]]"
 related_theories: []
 related_methods:
   - "[[Philosophical Analysis in Education]]"
@@ -40,11 +43,14 @@ related_persons:
   - "[[Michael Sadler]]"
   - "[[George Bereday]]"
   - "[[Robert Cowen]]"
+  - "[[Wolfgang Mitter]]"
+  - "[[Oskar Anweiler]]"
 related_facts:
   - "[[Comparative Education Society in Europe]]"
   - "[[Comparative and International Education Society]]"
   - "[[UNESCO]]"
 related_arguments:
+  - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Cowen_2009_HistoryCreation]]"
 confidence: medium
@@ -62,7 +68,7 @@ updated: 2026-09-29
 > [!person-profile] 人物档案
 > - **身份位置** 英国比较教育学家，伦敦大学教育学院（Institute of Education, University of London, IOE）首任比较教育教授（1947 年就职），[[Comparative Education Society in Europe\|欧洲比较教育学会]]（[[Comparative and International Education Society\|Comparative Education Society]] in Europe, CESE）首任主席（1961–1967），[[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）早期核心顾问。
 > - **核心角色** 将比较教育学科体制化全面嵌入二战后的跨国多边合作网络，是理性主义国际关系传统在比较教育中的核心代表人物。
-> - **代表贡献** 确立英国比较教育大学独立教席与系所体制；联合创立 CESE 并构筑战后欧洲学术网络；确立以国际理解、民主理想与科学人道主义为核心的价值体系。
+> - **代表贡献** 确立英国比较教育大学独立教席与系所体制；联合创立 CESE 并通过个人会员制构筑跨越冷战阵营的学术自治网络；提出比较教育[[Navigation Metaphor in Comparative Education|航海隐喻]]，确立审慎的政策咨询导向与科学人道主义价值体系。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 89–90, 95–96)]]
 
 > [!citation-card] 人物定位的关键来源
 > 劳韦里斯作为联合国教科文组织最早的顾问之一，终身致力于国际理解、民主理想和科学人道主义。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 425)]]
@@ -77,7 +83,7 @@ updated: 2026-09-29
 > - **1947** 获任伦敦大学教育学院比较教育教授，成为英国首位比较教育教授，开创英国比较教育大学独立教席地位与体制化进程。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 425)]]
 > - **1940年代末–1950年代** 担任[[UNESCO\|联合国教科文组织]]核心顾问，深入参与教科文组织教育调查专家会议与战后重建使命，推动比较教育学者直接参与战后国际多边政策实践。
 > - **1950年代末–1960年代初** 在伦敦大学教育学院与国王学院的学术环境中，不同于当时文化主义学派对实证社会学的防范与恐惧，始终保持对跨学科社会[[Scientific Method\|科学方法]]的开放包容态度。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
-> - **1961–1967** 携手 UNESCO 汉堡教育研究所所长索尔·罗宾松（Saul Robinsohn）发起成立[[Comparative Education Society in Europe\|欧洲比较教育学会]]并当选首任主席，奠定战后跨欧洲的比较教育专业网络。
+> - **1961–1967** 携手联合国教科文组织汉堡教育研究所所长索尔·罗宾松（Saul Robinsohn）发起成立[[Comparative Education Society in Europe\|欧洲比较教育学会]]并当选首任主席；在创会宪章中力主确立“个人会员制”（而非代表各国政府或国家分支），有效抵御了各国政府行政干预，保护了冷战东西方学者开展学术对话的独立性与自由度。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 89–90)]]
 > - **1960年代–1970年代** 展开跨洲学术穿梭，深度连接日内瓦的[[Jean Piaget\|让·皮亚杰]]（Jean Piaget）与[[International Education\|国际教育]]局（International Bureau of Education, IBE）、巴西的阿尼西奥·特谢拉（Anísio Teixeira）以及日本的平冢益德（Masunori Hiratsuka），成为跨文化知识流通的枢纽节点。
 
 ---
@@ -86,7 +92,7 @@ updated: 2026-09-29
 
 > [!work-line] 主要著作
 > - **1948–1970 — *The Year Book of Education / World Year Book of Education*** 与 [[Nicholas Hans]]、[[Brian Holmes]] 等共同主编，持续聚焦二战后全球教育哲学、道德教育、科学教育及高等教育改革，构建起国际比较教育的实证全景。
-> - **1958 — *Methoden der Vergleichenden Erziehungswissenschaft*** 提出著名的[[Navigation Metaphor in Comparative Education|比较教育航海隐喻]]，主张比较教育旨在为决策领航员提供备选战略方案而非直接干预决策。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
+> - **1958 — *Methoden der Vergleichenden Erziehungswissenschaft*** 提出著名的比较教育[[Navigation Metaphor in Comparative Education|航海隐喻]]，主张比较教育旨在为决策领航员提供备选战略方案而非直接干预决策。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
 > - **1959 — *The Philosophical Approach to Comparative Education*** 系统阐释[[Philosophical Analysis in Education|哲学分析]]在比较教育研究中的基础功能，强调文化深层的思想传统对国家教育形态的塑造机制。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]
 
 ---
@@ -94,7 +100,7 @@ updated: 2026-09-29
 ## 核心思想
 
 > [!claim] 核心主张
-> 劳韦里斯将比较教育界定为服务于跨国理性和人类改善的合作事业。他倡导科学人道主义、民主理想与跨国理解的三位一体，主张跨国制度合作与[[Dialogue in Education|教育对话]]能够克服狭隘的民族主义与国家竞争焦虑；在政策咨询定位上，他提出著名的[[Navigation Metaphor in Comparative Education|比较教育航海隐喻]]，强调比较教育研究者应当如航海图般为决策者提供多维备选路线与风险预警，而非越俎代庖操舵干涉具体政治决断；在[[Epistemology|认识论]]上，他拒绝文化主义学者对社会学的排斥立场，坚持以开放的社会科学视野与跨洲人际网络打破封闭的学术壁垒。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
+> 劳韦里斯将比较教育界定为服务于跨国理性和人类改善的合作事业。他倡导科学人道主义、民主理想与跨国理解的三位一体，主张跨国制度合作与[[Dialogue in Education|教育对话]]能够克服狭隘的民族主义与国家竞争焦虑；在政策咨询定位上，他提出著名的比较教育[[Navigation Metaphor in Comparative Education|航海隐喻]]，强调比较教育研究者应当如航海图与领航员般为决策者提供多维备选路线与风险预警，而非越俎代庖操舵干涉具体政治决断；这种审慎的咨询立场与索尔·罗宾松深度介入国家立法规划的激进改革取向形成鲜明对照；在[[Epistemology|认识论]]上，他践行教育作为横断学科的综合特征，拒绝文化主义学者对社会学的排斥立场，坚持以开放的社会科学视野与跨洲人际网络打破封闭的学术壁垒。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94–96)]]
 
 > [!citation-card] 跨洲思想连接与学术肖像反思
 > 贝雷迪与劳韦里斯在跨文化与跨大洲之间连接了人物与思想，并在各自机构、比较教育学会以及数代研究生中产生了深远影响，其卓越的讲课才能亦使他们在学科领域内享有盛誉。然而，这间接引出了一个更为广泛的历史学问题：我们并不真正理解自身的肖像学。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
@@ -150,3 +156,9 @@ updated: 2026-09-29
 > | [[International Education]] | 概念 | 将国际教育局与[[UNESCO\|教科文组织]]的战后实务深度嵌入大学比较教育课程与研究。 |
 > | [[Dialogue in Education]] | 概念 | 倡导跨国学术与制度对话，以科学人道主义作为国际教育合作的伦理基石。 |
 > | [[Comparative Education Society in Europe]] | 事实 | 1961 年联合发起创立并担任首任主席，奠定欧洲比较教育区域学术共同体。 |
+> | [[Navigation Metaphor in Comparative Education]] | 概念 | 1958 年提出航海隐喻，将比较教育学者定位于为政治决策提供备选航线与暗礁警示的领航员。 |
+> | [[Comparative Education as a Cross-Sectional Area]] | 概念 | 践行横断学科理念，将哲学、科学人道主义与社会科学分析融汇于跨国教育探究。 |
+> | [[Allgemeine Pädagogik]] | 概念 | 在欧陆比较教育思想脉络中，与普通教育学所奠定的基础理论框架形成跨域学术互动。 |
+> | [[Wolfgang Mitter]] | 人物 | 在学科制度史中高度评价劳韦里斯创设 CESE 个人会员制与政策航行隐喻的里程碑贡献。 |
+> | [[Oskar Anweiler]] | 人物 | 共同依托 CESE 学会平台推动冷战时期跨越东西方意识形态阵营的学术交流。 |
+> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 考证劳韦里斯在欧洲比较教育学会创会宪章、政策咨询光谱以及航海隐喻中的制度与思想角色。 |

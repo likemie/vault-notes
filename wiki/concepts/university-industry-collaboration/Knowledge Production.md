@@ -7,7 +7,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程；在宏观场域揭示资本偏向与跨国组织自指性指标帝国，在微观教育场域指向学习者在本土协商共同体中依托证据协调与四维认识论实践自主生成新知并内化说服优于强制的民主审议价值。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 64
+related_count: 73
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -39,6 +39,10 @@ related_concepts:
   - "[[Narrative Knowledge]]"
   - "[[Artefact]]"
   - "[[Reflective Structuration]]"
+  - "[[Interpretive Paradigm]]"
+  - "[[Allgemeine Pädagogik]]"
+  - "[[National Character]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Justificatory Standards]]"
   - "[[Hypothesis]]"
   - "[[University-Industry Collaboration]]"
@@ -74,6 +78,7 @@ related_persons:
   - "[[Chin-Chung Tsai]]"
   - "[[Clark A. Chinn]]"
   - "[[Frantz Fanon]]"
+  - "[[Wolfgang Mitter]]"
   - "[[Chen Kuan-Hsing]]"
   - "[[John Sweller]]"
   - "[[Ton de Jong]]"
@@ -82,6 +87,9 @@ related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
   - "[[Systems Approach for Better Education Results]]"
+  - "[[IEA]]"
+  - "[[PISA]]"
+  - "[[Comparative Education Society in Europe]]"
 related_arguments:
   - "[[Argument_Partaken_2022_Springer]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -89,11 +97,12 @@ related_arguments:
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
   - "[[Argument_Zhang_2022_SE]]"
   - "[[Argument_Wu_2025_ER]]"
+  - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-09-23
+updated: 2026-09-29
 ---
 
 # Knowledge Production
@@ -153,6 +162,7 @@ updated: 2026-09-23
 > - **国际组织的自指性内部研究帝国** 跨国组织建立封闭的自制数据库与评估系统（如[[World Bank|世界银行]]的更好的教育结果系统方法（[[Systems Approach for Better Education Results]], SABER）），集指标制定、内部评审与项目贷款于一体，构建自产自销的自给自足体系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 > - **本土共同体协同协商与四维实践** 知识生产的主体是微观社会群体而非[[René Descartes|笛卡尔]]式的孤立个体；生产过程依赖提出、沟通、评估与合法化知识主张的四维组织化行动，并在探索发现、证据论证与交流表达三重交织情境中推进。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 140, 144–147)]]
 > - **概念制品与持续改进机制（Conceptual [[Artefact|artifacts]] & Idea Improvement）** [[Knowledge Building Theory|知识建构学派]]将课堂知识生产界定为将学生的观点作为公共客体（波普尔的世界 3）进行持续提炼与升级，通过[[Reflective Structuration|反思性结构化]]历时推进全班知识前沿。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 891–893)]]
+> - **比较教育学科知识生产的[[Paradigm|范式]]位移与跨国指标治理** 比较教育学领域的知识生产经历了从早期大学席位主导的“历史-文化[[Interpretive Paradigm|诠释范式]]”（以[[Allgemeine Pädagogik|普通教育学]]为哲学根基，依托大学讲座与学术学会探索教育的跨学科横断本质）向晚近超国家量化评估体制的深刻转向。随着跨国机构（如[[IEA|国际教育成就评价协会]]（IEA）、[[OECD|经合组织]] [[PISA]]）大规模兴起，知识生产的主导权与标准从大学学者对历史语境与[[National Character|国民性]]传统的反思，转移为跨国组织的标准化实证指标与绩效数据生产，形成了量化实证指标规约国家教育政策的新型[[Disciplina and Doctrina|规训]]机制。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 96–98)]]
 > - **人机共生协同知识建构与共享[[Epistemic Agency|认识主体性]]** 将生成式 AI 纳入知识生产系统，学习者与大模型共同构成共生认知网络；人类负责设定探究目标、设计提示词并实施证据裁决，技术提供发散线索与结构化拆解，实现人机协作建构。[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 358–360)]]
 > - **[[Epistemic Stances|认识立场]]对知识[[Justificatory Standards|确证标准]]的规制** 学习者的认识立场（绝对主义、相对主义、评价主义）决定了其如何对待 AI 生成的[[Hypothesis|假设]]与命题，评价主义立场是确保人机协同产出具备学科真实性与证据合法性的核心保障。[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 359–361)]]
 > - **知识生产共同体的核心民主与审议价值** 知识生产活动内蕴着宝贵的[[Epistemology|认识论]]规范与民主价值：崇尚以理服人（说服优于强制）、保持[[Open-Mindedness|思想开放]]（反思教条）、审慎考量备选方案，并使经验证据随时向公共审视与批判开放。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 148, 161)]]
@@ -254,6 +264,7 @@ updated: 2026-09-23
 
 > [!dev-timeline] 概念演变
 > - **1950s–1970s — 殖民知识生产批判** 弗朗茨·[[Frantz Fanon|法农]]（Frantz Fanon）揭示殖民教育如何通过语言和[[Cultural Hierarchy|文化等级]]制造附庸性知识体系；后殖民学者批判西方中心主义[[Epistemology|认识论]]。
+> - **1960s–2000s — 比较教育学科知识生产从历史诠释向跨国实证指标的[[Paradigm|范式]]位移** [[Wolfgang Mitter|沃尔夫冈·米特]]尔（Wolfgang Mitter）梳理欧洲比较教育学科史，指出知识生产最初深植于大学与学术学会（如[[Comparative Education Society in Europe|欧洲比较教育学会]]），以[[Allgemeine Pädagogik|普通教育学]]、历史文化诠释与航行隐喻（辅助政策导航）为导向；20 世纪末期以来，知识生产主导权向超国家机构（[[IEA]]、[[OECD|经合组织]]）的标准化量化评测体系（如 [[PISA]]）转移，重塑了比较教育学科的认识论合法性基础。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 96–98)]]
 > - **1990s — [[Mode 2 Knowledge Production|Mode 2 知识生产]]理论确立** 迈克尔·吉本斯（Michael Gibbons）等人提出 Mode 2 概念，强调知识生产从传统象牙塔向多主体、跨学科、应用导向与[[Reflexivity|反思性]]情境转移。
 > - **2010 — 亚洲作为方法与知识去帝国化** [[Chen Kuan-Hsing|陈光兴]]（Chen Kuan-Hsing）呼吁打破以西方为唯一样板的知识流动格局，将亚洲从分析客体转变为能动的知识生产主体。
 > - **2018 — 科学教育中的[[Epistemic Practices|认识论实践]]与本土共同体转向** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] 系统吸纳科学社会学实证成果，将知识生产主体确立为本土协商共同体，提出提出、沟通、评估与合法化的四维实践框架，并强调吸纳知识生产共同体说服优于强制的民主审议价值。
@@ -286,6 +297,13 @@ updated: 2026-09-23
 > >
 > > - **[[Argument_Wu_2025_ER|Wu et al. (2025)]]** 强调知识生产必须保持人类评价主义立场，将 AI 生成命题视作需要经过多源验证与辩论检验的中间[[Hypothesis|假设]]，在共生中建构新知。
 > > - **[[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]]** 警示无摩擦委托与不透明综合容易诱使知识生产者放弃中间论证动作，导致学术知识生产异化为统计黑箱拼贴。
+>
+> > [!axis] 大学历史文化诠释 vs 超国家标准化量化评测
+> > 围绕比较教育与教育政策知识生产的正当性基础展开的方法论与[[Epistemology|认识论]]论辩。
+> >
+> > - **历史-文化诠释派（大学学者与传统比较教育学）** 坚持知识生产应将教育置于长时段的国民历史演进、哲学传统与社会文化肌理中加以考察，发挥航行隐喻的启迪与政策咨询功能，捍卫教育作为横断学科的多元价值。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94–96)]]
+> > - **跨国实证评测派（[[OECD]]、[[IEA]] 等超国家治理机构）** 主张知识生产应依托大样本、可量化、跨国可比的实证指标数据库，为政府提供可直接计算投入产出比与治理效能的硬性政策依据。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 96–98)]]
+
 
 > [!warning] 适用局限
 > 知识生产概念侧重于有组织的制度化知识工业或结构化的课堂探究共同体；对于个体无意识的默会经验积累，其制度与社会学[[Analytic Framework|分析框架]]需要适度调适。
@@ -326,4 +344,5 @@ updated: 2026-09-23
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 系统界定探究教学中的[[Epistemology|认识论]]要素，阐释学生在探究共同体中自主生成新知与社会化证据协调的认知建构机制。
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — [[Geopolitics of Knowledge|知识地缘政治]]专著，系统辨析学术知识生产的资本化、专利所有权剥离及[[Narrative Knowledge|叙事知识]]的全球萎缩。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — [[Governing by Numbers|数字治理]] 2.0 框架下解析[[OECD|经合组织]]与[[World Bank|世界银行]]的内部自指性知识生产、工具打包与[[Policy Brokerage|政策中介]]机制。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 梳理欧洲比较教育学科两百年发展史，阐明知识生产从大学席位主导的历史-哲学与[[Allgemeine Pädagogik|普通教育学]]诠释，转向跨国组织（[[IEA]]、[[OECD]]）主导的标准化量化评测与实证指标体系的历程与制度后果。
 > - [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] — 系统揭示人工智能介入对知识确证劳动力分工的深刻重构，阐明承载判断型协助置换[[Evaluative Judgement|评价性判断]]对学术探究与知识生产发展的潜在风险。
