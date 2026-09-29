@@ -47,9 +47,9 @@ related_concepts:
   - "[[Allgemeine Pädagogik]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Positivism]]"
+  - "[[Ontology]]"
   - "[[Paradigm]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
-  - "[[Ontology]]"
   - "[[Educational Meliorism]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Going Native]]"
@@ -73,6 +73,7 @@ related_persons:
   - "[[Michael Sadler]]"
   - "[[Isaac Kandel]]"
   - "[[Matthew Arnold]]"
+  - "[[Franz Hilker]]"
   - "[[Plato]]"
   - "[[Socrates]]"
   - "[[David Held]]"
@@ -80,7 +81,6 @@ related_persons:
   - "[[Niklas Luhmann]]"
   - "[[Oskar Anweiler]]"
   - "[[Wolfgang Mitter]]"
-  - "[[Franz Hilker]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Larsen_2019_EducSci]]"
@@ -91,9 +91,9 @@ related_arguments:
   - "[[Argument_Thompson_2022_Promising_Student]]"
   - "[[Argument_Sarbiewska_2019_JSR]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
+  - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Cowen_2023_CE]]"
-  - "[[Argument_Rust_2009_Reflections]]"
 confidence: high
 status: active
 created: 2026-05-04
@@ -298,7 +298,7 @@ updated: 2026-09-29
 > >
 > > - **欧陆教化传统派（Anweiler, Mitter）** 坚持比较教育学源自哲学与神学底色的普通教育学，教化（Bildung）构成抵御外部功利技术官僚异化的核心育人内核，学科应作为依托母体的“[[Comparative Education as a Cross-Sectional Area\|交叉领域]]”存在。
 > > - **英美实用分支派** 倾向于将教育研究视为无须统一普通教育学母体的专业学系集合，追求面向学校体制运转与政策咨询的经验务实对接。
-> > - **学科定名与属性之争（Hilker, Schneider）** 20 世纪中叶德语学界围绕“比较教育学”（*Vergleichende Pädagogik*）与“比较教育科学”（*Vergleichende Erziehungswissenschaft*）的论争，直接折射出坚守实践教化艺术与追求实证科学分析的本体论张力。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 121–122)]]
+> > - **学科定名与属性之争（Hilker, Schneider）** 20 世纪中叶德语学界围绕“比较教育学”（*Vergleichende Pädagogik*）与“比较教育科学”（*Vergleichende Erziehungswissenschaft*）的论争，直接折射出坚守实践教化艺术与追求实证科学分析的[[Ontology|本体论]]张力。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 121–122)]]
 
 > [!warning] 适用局限
 > 教化理想在对抗全球化可测量[[Performance Indicators\|绩效指标]]与技术官僚治理的现实重压时，若缺乏坚实的制度机制支撑与微观教学载体，容易沦为空洞的哲学抒情而面临被边缘化的风险。[[Argument_Larsen_2019_EducSci\|(Larsen, 2019, p. 10)]]
@@ -337,7 +337,7 @@ updated: 2026-09-29
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 系统梳理德国教化作为 19 世纪支配欧洲中等课程的四大古典传统之一，深入剖析二战浩劫导致的道德神话破灭及其向[[Scientific Paradigm\|科学范式]]的跨越。
 > - [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] — 提出教化作为决定知识与技能如何使用的能力与勇气，对丹麦可见学习公立学校案例展开批判。
 > - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff (2024)]] — 结合芬兰教育史与[[Phenomenon-Based Learning\|现象本位学习]]，论述教化在文化传递与[[Epochal Key Problems\|时代关键问题]]上的课程实践。

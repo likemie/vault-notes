@@ -48,6 +48,9 @@ related_persons:
   - "[[Immanuel Kant]]"
   - "[[Johann Heinrich Pestalozzi]]"
   - "[[Wilhelm Dilthey]]"
+  - "[[Isaac Kandel]]"
+  - "[[Friedrich Schneider]]"
+  - "[[Nicholas Hans]]"
   - "[[Val D. Rust]]"
 related_facts:
   - "[[Grammar School]]"
@@ -153,9 +156,9 @@ updated: 2026-09-29
 > - **人才培养与师承网络** 在哈佛大学亲自培养了[[George Bereday\|乔治·贝雷迪]]（哥伦比亚大学比较教育领袖）、[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]（威斯康星大学教授、[[Comparative Education Society in Europe\|CESE]] 荣誉会员）以及保罗·纳什等杰出学者，构成战后比较教育思想史的核心主干。
 > - **教师教育改革** 极力倡导将教育史与比较文明哲学作为教师资格培养的必修核心，抵制行为主义技能训练对[[Normal School\|师范教育]]的侵蚀。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias, 2009]] — 卡扎米亚斯深情回顾乌利希的人文主义比较传统与其对自身史学思想的深远奠基。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 拉斯特等学者将乌利希与坎德尔、施奈德、汉斯并列为比较教育学奠基阶段具有深厚人文历史倾向的奠基先驱。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 拉斯特等学者将乌利希与[[Isaac Kandel|坎德尔]]、施奈德、汉斯并列为比较教育学奠基阶段具有深厚人文历史倾向的奠基先驱。
 
 ---
 
@@ -176,9 +179,9 @@ updated: 2026-09-29
 > *Ulich was indeed a classical humanistic scholar in the best sense of the German tradition that also included, among others, Werner Jaeger, his contemporary, who wrote the three-volume classic [[Paideia]]... Strictly speaking, he was not a 'comparativist' but a humanistic historian and a philosopher, but he inspired some of his students, specifically George Bereday and myself, to become historically-minded comparativists.*
 
 > [!citation-card] Rust et al. 论乌利希奠定比较教育学科人文历史根基
-> 拉斯特等学者在梳理比较教育两百年学术史演进时明确指出：比较教育领域的学科根基，正是由代表着深厚历史与人文倾向的一代学者所奠定的，其中包括历史学家艾萨克·坎德尔、弗里德里希·施奈德、尼古拉斯·汉斯、罗伯特·乌利希、安德烈亚斯·卡扎米亚斯等人。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–123)]]
+> 拉斯特等学者在梳理比较教育两百年学术史演进时明确指出：比较教育领域的学科根基，正是由代表着深厚历史与人文倾向的一代学者所奠定的，其中包括历史学家[[Isaac Kandel|艾萨克·坎德尔]]、[[Friedrich Schneider|弗里德里希·施奈德]]、[[Nicholas Hans|尼古拉斯·汉斯]]、罗伯特·乌利希、[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]等人。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–123)]]
 >
-> *The foundations of the field of comparative education were established by scholars representing historical and humanistic inclinations, including historians Isaac Kandel, Friedrich Schneider, Nicholas Hans, Robert Ulich, Andreas Kazamias, Claude A. Eggertsen, and William Brickman...*
+> *The foundations of the [[Champ|field]] of comparative education were established by scholars representing historical and humanistic inclinations, including historians Isaac Kandel, Friedrich Schneider, Nicholas Hans, Robert Ulich, Andreas Kazamias, Claude A. Eggertsen, and William Brickman...*
 
 ---
 
@@ -187,7 +190,7 @@ updated: 2026-09-29
 > [!person-network] 关系网络
 > - **学术同行** 维尔纳·耶格尔（Werner Jaeger） — 共同弘扬古希腊古典[[Bildung\|教化]]（[[Paideia]]）哲学传统。
 > - **指导学生** [[Andreas Kazamias]]、[[George Bereday]]、保罗·纳什（Paul Nash）、亨利·珀金森（Henry Perkinson） — 乌利希门生共同构成战后大西洋两岸比较教育与教育史学的核心领军网络。
-> - **学术史建制考据者** [[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust） — 考据乌利希与坎德尔、施奈德、汉斯共同奠定比较教育学科历史人文传统的奠基地位。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122–123)]]
+> - **学术史建制考据者** [[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust） — 考据乌利希与[[Isaac Kandel|坎德尔]]、施奈德、汉斯共同奠定比较教育学科历史人文传统的奠基地位。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122–123)]]
 
 ---
 

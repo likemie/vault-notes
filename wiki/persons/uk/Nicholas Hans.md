@@ -49,14 +49,14 @@ related_persons:
   - "[[Friedrich Schneider]]"
   - "[[Isaac Kandel]]"
   - "[[Michael Sadler]]"
+  - "[[Val D. Rust]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
-  - "[[Val D. Rust]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
-  - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Rust_2009_Reflections]]"
+  - "[[Argument_Cowen_2009_HistoryCreation]]"
 related_theories:
   - "[[Theories of the Driving Forces]]"
 confidence: high
@@ -177,7 +177,7 @@ updated: 2026-09-29
 > *Comparative Education as an academic discipline is just on the border line between humanities and sciences and thus resembles philosophy, which is the formulation of both... the purpose of Comparative Education is not only to compare existing systems but to envisage reform best suited to new social and economic conditions... thus our subject has a dynamic character with a utilitarian purpose.*
 
 > [!citation-card] Hans 论教育深植于广泛社会文化动因（Rust et al., 2009 征引）
-> 比较教育学科早期的学术奠基者（如坎德尔、汉斯与施奈德）一致论证：唯有将教育置于一个国家广泛的经济、政治、文化与社会力量脉络中，它才能被真正理解。其方法论要求不仅要详尽描述教育制度，更要通过阐释定义教育体系的经政文社条件来推导教育现象的深层意涵——教育绝非社会的孤立维度，而是深植于政治、文化与经济土壤之中。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 127–128)]]
+> 比较教育学科早期的学术奠基者（如[[Isaac Kandel|坎德尔]]、汉斯与施奈德）一致论证：唯有将教育置于一个国家广泛的经济、政治、文化与社会力量脉络中，它才能被真正理解。其方法论要求不仅要详尽描述教育制度，更要通过阐释定义教育体系的经政文社条件来推导教育现象的深层意涵——教育绝非社会的孤立维度，而是深植于政治、文化与经济土壤之中。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 127–128)]]
 >
 > *...argued that education can only be understood within the context of broad economic, political, cultural, and social forces of a country. And their methodology demanded that educational systems not only be described in detail, but that the meaning of educational phenomena be derived by interpreting the economic, political, cultural, and social conditions that defined the educational systems (Hans, 1955; Kandel, 1933; Schneider, 1961).*
 
@@ -195,7 +195,7 @@ updated: 2026-09-29
 > - **方法路径** 规范了比较教育中的[[Historical-Comparative Method\|历史比较法]]，将原本松散的观念漫谈提升为具有固定维度对照的结构化分析程序。
 > - **政策与实践** 通过主编《教育年鉴》持续介入战后欧洲教育重建与去法西斯化改革话语，推动民主公民教育理念的跨国传播。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias, 2009]] — 卡扎米亚斯系统评析汉斯的因素[[Analytic Framework\|分析框架]]及其对英美自由民主与苏联社会主义民主的辩证超越。
 > - [[Argument_Cowen_2009_HistoryCreation\|Cowen, 2009a]] — 考恩考察汉斯在战后伦敦大学比较教育学术建制中的承前启后地位。
 > - [[Argument_Mitter_2009_Europe\|Mitter, 2009]] — 米特将汉斯与施奈德并列为 20 世纪前中期（1920s–1950s）主导欧洲的“宏大历史文化全景”流派领袖，评析其以历史语境与[[National Character|国民性格]]诠释教育体系的[[Theories of the Driving Forces|驱动力理论]]，构筑抵御量化行为主义的文化主义防线。
