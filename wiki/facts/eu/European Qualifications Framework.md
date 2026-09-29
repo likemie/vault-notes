@@ -12,10 +12,10 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#bfdbfe"
+fact_related_color: "#dbeafe"
 issuing_organization: "欧洲议会与欧盟理事会"
 tags:
   - policy/qualifications-framework
@@ -27,14 +27,15 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
+  - "[[Higher-Order Thinking Skills]]"
 related_theories: []
-related_methods:
-  - "[[Comparative Case Study]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Wolfgang Mitter]]"
 related_facts:
   - "[[Comparative Education Society in Europe]]"
+  - "[[Bologna Process]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Mitter_2009_Europe]]"
@@ -79,7 +80,7 @@ updated: 2026-09-29
 > - **知识影响** 成为全球区域资格框架（如东盟 AQRF、太平洋 PQF）争相效仿的国际黄金标准。
 
 > [!citation-card] 米特论欧洲资格框架与比较教育的“务实欧洲维度”
-> [[Wolfgang Mitter|米特]]指出，自 1990 年代欧洲比较教育学会（CESE）哥本哈根会议（1994）至格拉纳达会议（2006），欧洲比较教育学界经历了一场深刻转向：学者们逐渐告别了早年对“欧洲精神”或“欧洲维度”的形而上学哲学玄思（如 Hans 或 Schneider 的经典论述），转而紧密追踪并批判性分析欧洲一体化进程中的具体政策工具。欧洲资格框架（EQF）与博洛尼亚进程（Bologna Process）、欧洲委员会倡议一同，构成了这一“务实欧洲维度”（pragmatic European dimension）的核心分析载体。比较教育学者通过对 EQF 文本及其在各国落地引发的[[Policy Borrowing|政策借用]]与制度趋同进行实证比较，使该学科深度介入欧洲教育政策与治理秩序的重塑过程。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
+> 米特指出，自 1990 年代[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）哥本哈根会议（1994）至格拉纳达会议（2006），欧洲比较教育学界经历了一场深刻转向：学者们逐渐告别了早年对“欧洲精神”或“欧洲维度”的形而上学哲学玄思（如 Hans 或 Schneider 的经典论述），转而紧密追踪并批判性分析欧洲一体化进程中的具体政策工具。欧洲资格框架（EQF）与[[Bologna Process|博洛尼亚进程]]（Bologna Process）、欧洲委员会倡议一同，构成了这一“务实欧洲维度”（pragmatic European dimension）的核心分析载体。比较教育学者通过对 EQF 文本及其在各国落地引发的[[Policy Borrowing|政策借用]]与制度趋同进行实证比较，使该学科深度介入欧洲教育政策与治理秩序的重塑过程。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
 
 ---
 
@@ -89,7 +90,7 @@ updated: 2026-09-29
 > | 关联维度 | 目标条目 | 关联说明 |
 > |---|---|---|
 > | **代表学者** | [[Wolfgang Mitter]] | 将欧洲资格框架视为欧洲比较教育学者从形而上学玄思转向超国家政策一体化实证分析的标志性载体。 |
-> | **相关论证** | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论述后冷战时期欧洲比较教育学会（CESE）如何将 EQF 与博洛尼亚进程确立为务实欧洲维度的核心经验基石。 |
-> | **相关论证** | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | 全面剖析 EQF 8 级学习成果架构及其在欧洲高等教育区中的制度立法与高阶思维能力对齐机制。 |
+> | **相关论证** | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论述后冷战时期[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE）如何将 EQF 与[[Bologna Process\|博洛尼亚进程]]确立为务实欧洲维度的核心经验基石。 |
+> | **相关论证** | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | 全面剖析 EQF 8 级学习成果架构及其在欧洲高等教育区中的制度立法与[[Higher-Order Thinking Skills\|高阶思维]]能力对齐机制。 |
 > | **相关学会** | [[Comparative Education Society in Europe\|CESE]] | 欧洲比较教育学会（CESE）将 EQF 作为研究区域一体化、资格互认与跨国教育政策趋同的经典分析对象。 |
 

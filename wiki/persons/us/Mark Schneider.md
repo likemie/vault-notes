@@ -2,7 +2,6 @@
 title: Mark Schneider
 aliases:
   - 马克·施奈德
-  - 施奈德
 summary: "美国政治学者与教育科研管理专家，曾任美国教育科学院（IES）院长与国家教育统计中心（NCES）专员，主导确立涵盖构件拆解、真实成本核算、通用测量、敏捷复现与教育公平的 SEER 循证卓越标准体系"
 type: person
 nationality: us

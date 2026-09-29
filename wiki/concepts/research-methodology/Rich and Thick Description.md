@@ -11,7 +11,7 @@ aliases:
 summary: "Geertz 提出的质性研究核心范畴，要求超越行为表面物理记录，将行动嵌入完整社会文化脉络，囊括意义、主观诠释与不可观察的情境要素，使读者获得现场共鸣并支持自然主义概括。"
 type: concept
 domain: "research-methodology"
-related_count: 50
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
+  - "[[Policy Borrowing]]"
   - "[[Trustworthiness]]"
   - "[[Evaluation Research]]"
   - "[[Double Hermeneutic]]"
@@ -42,7 +43,6 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
   - "[[Operationalization]]"
   - "[[Epistemic Agency]]"
-  - "[[Policy Borrowing]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -66,20 +66,21 @@ related_persons:
   - "[[Gilbert Ryle]]"
   - "[[Clifford Geertz]]"
   - "[[Keith Morrison]]"
+  - "[[Wolfgang Mitter]]"
   - "[[Yvonna S. Lincoln]]"
   - "[[Egon G. Guba]]"
   - "[[Robert E. Stake]]"
   - "[[Jianwei Zhang]]"
-  - "[[Wolfgang Mitter]]"
-related_facts: []
+related_facts:
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
-  - "[[Argument_Zhang_2022_SE]]"
   - "[[Argument_Mitter_2009_Europe]]"
+  - "[[Argument_Zhang_2022_SE]]"
 confidence: high
 status: draft
 created: 2026-06-01
@@ -177,7 +178,7 @@ updated: 2026-09-29
 
 > [!claim] [[Wolfgang Mitter|Mitter, W.]]
 > **跨国比较中的文化深描与情境护城河**
-> [[Wolfgang Mitter|米特]]将深描范畴提升至比较教育学的认识论防御高度。面对跨国大规模量化测验（如 PISA）引发的去情境化技术主义与表面化“[[Policy Borrowing|政策借用]]”，比较教育学者必须重申其长达两百年的学科传统——对教育制度的历史渊源与文化生态展开“丰富与厚密描述”（rich and thick description）。唯有穿透标准化测量指标的外壳，深描出深植于民族文化与社会结构中的真实教育运作机制，才能构筑起抵御业余比较与新自由主义扁平化治理的学术护城河。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 98–99)]]
+> 米特将深描范畴提升至比较教育学的认识论防御高度。面对跨国大规模量化测验（如 [[PISA]]）引发的去情境化技术主义与表面化“[[Policy Borrowing|政策借用]]”，比较教育学者必须重申其长达两百年的学科传统——对教育制度的历史渊源与文化生态展开“丰富与厚密描述”（rich and thick description）。唯有穿透标准化测量指标的外壳，深描出深植于民族文化与社会结构中的真实教育运作机制，才能构筑起抵御业余比较与新自由主义扁平化治理的学术护城河。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 98–99)]]
 
 ---
 
@@ -222,10 +223,10 @@ updated: 2026-09-29
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **命题一：情境与意义维度** | 深描要求将行动嵌入社会文化脉络并捕捉主观意义 | 诠释人类学、情境本体论、比较教育学 | Geertz (1973); Morrison (1993); [[Argument_Mitter_2009_Europe|Mitter (2009)]] |
-> | **命题二：效度与概括维度** | 深描构成质性研究可信度与自然主义概括的基石 | [[Qualitative Validity|质性效度]]、迁移性理论 | Lincoln & Guba (1985); Stake (1995) |
+> | **命题一：情境与意义维度** | 深描要求将行动嵌入社会文化脉络并捕捉主观意义 | 诠释人类学、情境本体论、比较教育学 | Geertz (1973); Morrison (1993); [[Argument_Mitter_2009_Europe\|Mitter (2009)]] |
+> | **命题二：效度与概括维度** | 深描构成质性研究可信度与自然主义概括的基石 | [[Qualitative Validity\|质性效度]]、迁移性理论 | Lincoln & Guba (1985); Stake (1995) |
 > | **命题三：文本生产纪律** | 深描是选择性写作的学术纪律而非无节制堆砌 | 质性写作学、双重诠释学 | Swain (2006); Gibbs (2007) |
-> | **命题四：微观破译效能** | 深描能穿透机械行为编码以解码索引性与默契 | 微观常人方法学、课堂[[Ethnography|民族志]] | Walker & Adelman (1975); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] |
+> | **命题四：微观破译效能** | 深描能穿透机械行为编码以解码索引性与默契 | 微观常人方法学、课堂[[Ethnography\|民族志]] | Walker & Adelman (1975); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] |
 
 ---
 
@@ -237,7 +238,7 @@ updated: 2026-09-29
 > - **1985 — 质性规范化：Lincoln & Guba 的[[Interpretive Paradigm|自然主义探究]]** 林肯与古巴在《自然主义探究》中系统确立了[[Qualitative Research|质性研究]]的四大可[[Reliability|信度]]标准，将深描正式提升为保障质性研究迁移性（transferability）的核心方法论规范。
 > - **1990s — 批判性重构与微观[[Operationalization|操作化]]** Carspecken（1996）提出[[Critical Ethnography|批判民族志]]中的低推断深描六构件；教育研究者广泛将深描用于解构课堂微观权力、教师反思实践与学生亚文化。
 > - **2000s — [[Mixed Methods Research|混合方法]]中的[[Qualitative Validity|质性效度]]共识** Creswell（2022）等学者将深描固化为质性探究与混合方法研究中公认的八大效度检验支柱之一。
-> - **2009 — 比较教育认识论抗辩：Mitter 论深描对技术官僚排名的反拨** [[Wolfgang Mitter|米特]]（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）将“深描”拓展至跨国教育体系比较，确立文化与历史深描为抵御去情境化量化基准评估（benchmarking）与表面化“[[Policy Borrowing|政策借用]]”的核心学术武器。
+> - **2009 — 比较教育[[Epistemology|认识论]]抗辩：Mitter 论深描对技术官僚排名的反拨** 米特（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）将“深描”拓展至跨国教育体系比较，确立文化与历史深描为抵御去情境化量化基准评估（benchmarking）与表面化“[[Policy Borrowing|政策借用]]”的核心学术武器。
 > - **2020s — 学习科学中的微观话语深描与典型案例追踪** [[Jianwei Zhang|张建伟]]等（[[Argument_Zhang_2022_SE|Zhang et al., 2022]]）将深描与[[Interactional Ethnography|互动民族志]]、典型案例追踪（Telling Case）深度融合，通过[[Transcription in Qualitative Research|逐字转录]]、时序事件地图与多轮探究线索追踪，细腻刻画了课堂生态中学生[[Epistemic Agency|认识能动性]]与群体知识创造的微观突现过程。
 
 ---
