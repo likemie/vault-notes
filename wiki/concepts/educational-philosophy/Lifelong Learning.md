@@ -7,10 +7,10 @@ aliases:
 summary: "指贯穿个体全生命周期的自愿性、适应性与累积性学习过程，既包含服务知识经济与劳动力重构的人力资本技能更新，更涵盖支撑公民健康、理性决策、民主协商与社会文化基础设施构建的全人发展与非正式参与生态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 44
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/curriculum
   - theme/educational-reform
@@ -34,12 +34,15 @@ related_concepts:
   - "[[AI Literacy]]"
   - "[[Theoretical Perspective]]"
   - "[[Self-Efficacy]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Scientific Literacy]]"
   - "[[Informal Science Learning]]"
   - "[[Science Capital]]"
   - "[[Praxis]]"
   - "[[Document]]"
+  - "[[Paradigm]]"
   - "[[Variable]]"
+  - "[[International Education]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Human Capital Theory]]"
@@ -47,26 +50,28 @@ related_methods:
   - "[[Cohort Study]]"
   - "[[Questionnaire]]"
   - "[[Correlational Research]]"
-related_persons: []
+related_persons:
+  - "[[Robert Arnove]]"
 related_facts:
   - "[[UNESCO]]"
+  - "[[World Bank]]"
+  - "[[OECD]]"
   - "[[EU Key Competences for Lifelong Learning]]"
   - "[[Association for Science and Discovery Centres]]"
   - "[[Big Butterfly Count]]"
   - "[[The Perception Census]]"
-  - "[[OECD]]"
-  - "[[World Bank]]"
   - "[[Public Attitudes to Science]]"
   - "[[UK Science Education Tracker]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
+  - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 
 # Lifelong Learning
@@ -92,11 +97,11 @@ updated: 2026-09-22
 ## 概念演变与范式演进
 
 > [!dev-timeline] 50 年概念演变脉络
-> - **1972 年 [[UNESCO\|联合国教科文组织]]《学会生存》报告奠基** 联合国教科文组织（UNESCO）发布《学会生存》（Learning to Be: The World of Education Today and Tomorrow，Faure 报告），首次在国际层面系统确立终身教育理念，强调教育的人本主义属性与个体自由全面发展。
-> - **1996 年 德洛尔报告确立四大支柱** 联合国教科文组织发布《教育：财富蕴藏其中》（Learning: The Treasure Within，Delors 报告），将终身学习凝练为四大支柱：学会认知（Learning to know）、学会做事（Learning to do）、学会共处（Learning to live together）以及学会生存（Learning to be）。
-> - **1990 年代末至 2000 年代初 [[Knowledge-Based Economy\|知识经济]]与[[Policy Borrowing\|政策借用]]转向** 伴随全球化进程，终身学习与[[Knowledge-Based Economy\|知识经济]]（Knowledge-Based Economy）紧密绑定，成为各国教育改革的核心话语。例如香港特区政府在 1998 年《施政报告》及 2001 年课程发展议会《学会学习》纲领中，将终身学习确立为课程改革核心目标，并作为[[Externalization\|外部化]]国内矛盾的政策借用工具。[[Argument_Yan_2025_JCS\|(Yan & Morris, 2025, p. 487)]]
-> - **2006 年与 2018 年 欧盟[[21st Century Skills and Competencies Discourse\|关键能力]]框架** 欧洲联盟（European Union, EU）发布并更新《终身学习核心素养建议书》（[[EU Key Competences for Lifelong Learning]]），确立了包括科学、数学、数字素养、公民素养及[[Learner Autonomy\|自主学习]]在内的八大终身学习关键能力。
-> - **2020 年代中 数字化、绿色化转型与社会文化基础设施跃迁** 面对[[Generative Artificial Intelligence\|生成式人工智能]]（Artificial Intelligence, AI）颠覆与气候变化危机，英国皇家学会（Royal Society, 2026）重塑终身学习[[Construct\|构念]]，提出涵盖[[Data Literacy\|数据素养]]、批判性 AI 素养与可持续发展素养的交叉素养框架，并将科技馆、探索中心及[[Citizen Science\|公民科学]]确立为保障全民终身学习的社会与文化基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 31–32)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 48)]]
+> - **1972 年 [[UNESCO|联合国教科文组织]]《学会生存》报告奠基** 联合国教科文组织（UNESCO）发布《学会生存》（Learning to Be: The World of Education Today and Tomorrow，Faure 报告），首次在国际层面系统确立终身教育理念，强调教育的人本主义属性与个体自由全面发展。
+> - **1996 年 德洛尔报告确立四大支柱与应对全球化挑战** 联合国教科文组织发布《教育：财富蕴藏其中》（Learning: The Treasure Within，Delors 报告），将终身学习凝练为四大支柱：学会认知（Learning to know）、学会做事（Learning to do）、学会共处（Learning to live together）以及学会生存（Learning to be），并警惕经济全球化与纯粹功利主义可能侵蚀社会连带；但国际多边治理主导权已开始向国际金融机构倾斜。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
+> - **1990 年代末至 2000 年代初 [[Knowledge-Based Economy|知识经济]]主导与[[Policy Borrowing|政策借用]]转向** 伴随全球化进程，终身学习被世界银行（[[World Bank]]）与 [[OECD]] 深度重塑为服务[[Knowledge-Based Economy|知识经济]]与劳动力市场[[Employability|就业能力]]的工具；各国政府亦频繁借用终身学习话语作为[[Externalization|外部化]]国内矛盾的政策工具。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 487)]]
+> - **2006 年与 2018 年 欧盟[[21st Century Skills and Competencies Discourse|关键能力]]框架** 欧洲联盟（European Union, EU）发布并更新《终身学习核心素养建议书》（[[EU Key Competences for Lifelong Learning]]），确立了包括科学、数学、数字素养、公民素养及[[Learner Autonomy|自主学习]]在内的八大终身学习关键能力。
+> - **2020 年代中 数字化、绿色化转型与社会文化基础设施跃迁** 面对[[Generative Artificial Intelligence|生成式人工智能]]（Artificial Intelligence, AI）颠覆与气候变化危机，英国皇家学会（Royal Society, 2026）重塑终身学习[[Construct|构念]]，提出涵盖[[Data Literacy|数据素养]]、批判性 AI 素养与可持续发展素养的交叉素养框架，并将科技馆、探索中心及[[Citizen Science|公民科学]]确立为保障全民终身学习的社会与文化基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 31–32)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
 
 ---
 
@@ -104,13 +109,13 @@ updated: 2026-09-22
 
 > [!dimension] 终身学习的三重理论维度与实践支柱
 > - **1. 人本主义与全人发展维度（Humanistic & Personal Development）**
->   将学习视为个体探索未知世界、丰富精神生活与提升生命福祉的内在需求。通过非正式探究、艺术科技体验与闲暇阅读，激发持久好奇心与[[Critical Thinking\|批判性思维]]，促进身心健康与认知多样性包容。
-> - **2. [[Human Capital Theory\|人力资本]]与经济适应维度（Human Capital & Economic Adaptability）**
->   服务于技术颠覆下的劳动力市场重构。重点提升成年工人的[[Data Literacy\|数据素养]]、[[AI Literacy\|人工智能素养]]以及适应低碳经济转型的绿色技能（Green Skills），防范结构性失业并支撑经济创新。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]
+>   将学习视为个体探索未知世界、丰富精神生活与提升生命福祉的内在需求。通过非正式探究、艺术科技体验与闲暇阅读，激发持久好奇心与[[Critical Thinking|批判性思维]]，促进身心健康与认知多样性包容。
+> - **2. [[Human Capital Theory|人力资本]]与经济适应维度（Human Capital & Economic Adaptability）**
+>   服务于技术颠覆下的劳动力市场重构。重点提升成年工人的[[Data Literacy|数据素养]]、[[AI Literacy|人工智能素养]]以及适应低碳经济转型的绿色技能（Green Skills），防范结构性失业并支撑经济创新。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 32)]]
 > - **3. 社会文化基础设施与非正式参与生态（Social & Cultural Infrastructure）**
->   依托公共图书馆、科技博物馆、科学探索中心（[[Association for Science and Discovery Centres\|ASDC]] 网络）、动植物园以及线上[[Citizen Science\|公民科学]]平台（如 [[Big Butterfly Count]]、[[The Perception Census]]），构建去中心化、低门槛的全民学习网络，赋能公众在医疗健康、环境治理等公共事务中开展理性民主协商。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, pp. 43, 48)]]
+>   依托公共图书馆、科技博物馆、科学探索中心（[[Association for Science and Discovery Centres|ASDC]] 网络）、动植物园以及线上[[Citizen Science|公民科学]]平台（如 [[Big Butterfly Count]]、[[The Perception Census]]），构建去中心化、低门槛的全民学习网络，赋能公众在医疗健康、环境治理等公共事务中开展理性民主协商。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, pp. 43, 48)]]
 
-> [!contrast-table] 表：终身学习三大[[Theoretical Perspective\|理论取向]]系统特征对比表
+> [!contrast-table] 表：终身学习三大[[Theoretical Perspective|理论取向]]系统特征对比表
 > | 比较维度 | 人本主义取向（Humanistic Approach） | 人力资本取向（Human Capital Approach） | 社会文化基础设施取向（Infrastructure Approach） |
 > |---|---|---|---|
 > | **理论源流** | UNESCO Faure (1972) / Delors (1996) 报告 | [[OECD]] / 世界银行[[Knowledge-Based Economy\|知识经济]]话语 | 英国国家学术院 / 皇家学会 (2026) 报告 |
@@ -126,27 +131,30 @@ updated: 2026-09-22
 
 ### 命题一　终身学习在政策实践中常被用作外部化国内矛盾与合法化课程改革的修辞工具
 
-> [!concept-lens] [[Policy Borrowing\|政策借用]]与修辞合法化
+> [!concept-lens] [[Policy Borrowing|政策借用]]与修辞合法化
 > 批判政策研究表明，国际机构倡导的终身学习话语在进入主权国家或地区的教育决策时，往往脱离原初的人本主义内核，被官方改造为转移治理压力、推动本土改革合法化的修辞策略。
 
-> [!claim] [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]]
-> **终身学习话语的[[Externalization\|外部化]]功能** 在分析香港世纪之交的课程改革时指出，官方在 1998 年《施政报告》及 2001 年《学会学习》纲领中密集引入终身学习与[[Knowledge-Based Economy\|知识经济]]话语，其核心动机在于政策外部化（[[Externalization]]）；即借用全球通行话语来将本土政治争议与制度弊端包装为顺应世界大势的必然选择，以此压制一线教师与公众对改革激进性的质疑。[[Argument_Yan_2025_JCS\|(Yan & Morris, 2025, p. 487)]]
+> [!claim] [[Argument_Yan_2025_JCS|Yan & Morris (2025)]]
+> **终身学习话语的[[Externalization|外部化]]功能** 在分析香港世纪之交的课程改革时指出，官方在 1998 年《施政报告》及 2001 年《学会学习》纲领中密集引入终身学习与[[Knowledge-Based Economy|知识经济]]话语，其核心动机在于政策外部化（[[Externalization]]）；即借用全球通行话语来将本土政治争议与制度弊端包装为顺应世界大势的必然选择，以此压制一线教师与公众对改革激进性的质疑。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 487)]]
 
 > [!claim] Elfert (2015)
 > **人本主义终身教育的工具主义异化** 揭示终身学习在过去几十年中经历了从 1970 年代 [[UNESCO]] 全人发展哲学向新自由主义经济竞争工具的退化；政策文本频繁将学习责任单向推向个体，掩盖了教育机会不均等与劳动力市场不公等深层制度问题。
+
+> [!claim] [[Robert Arnove|Arnove, R.]]
+> **国际多边格局重构与终身学习的人本主义式微** 阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）引用蒙迪（Mundy, 1999）指出，在战后以联合国教育、科学及文化组织（[[UNESCO]]）为主导的“有限再分配性多边主义”时期，终身学习被置于人道主义与社会福利的核心地位，作为实现普遍受教育权的长远愿景；然而随着 1980 年代[[World Bank|世界银行]]（[[World Bank]]）等以经济增长为导向的国际金融机构崛起，终身学习理念被深度重塑与窄化。尽管 1996 年联合国教科文组织德洛尔报告（Delors Report）试图通过“学会认知、做事、共处与生存”四大支柱挽回全人发展的社会向度，并对经济全球化侵蚀社会连带发出预警，但全球教育政策议程的实际主导权已不可逆转地被世界银行的[[Human Capital Theory|人力资本]]与成本效益模型所接管，使终身学习在实践中日益蜕变为劳动者单向度应对市场淘汰的[[Employability|就业能力]]（[[Employability]]）[[Disciplina and Doctrina|规训]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 
 ---
 
 ### 命题二　非正式科学学习生态构成终身学习不可或缺的社会与文化基础设施并具有跨生命周期的累积效应
 
 > [!concept-lens] 社会文化基础设施与资本重塑
-> [[Scientific Literacy\|科学素养]]的获取并非在义务教育阶段终结，[[Informal Science Learning\|非正式科学参与]]网络通过提供全生命周期的多感官探究与双向对话，持续重塑个体的科学认同与社会资本。
+> [[Scientific Literacy|科学素养]]的获取并非在义务教育阶段终结，[[Informal Science Learning|非正式科学参与]]网络通过提供全生命周期的多感官探究与双向对话，持续重塑个体的科学认同与社会资本。
 
-> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026)]]
-> **非正式参与的社会基础设施定位与全周期累积机制** 科学探索中心、博物馆、科学节与[[Citizen Science\|公民科学]]不仅是学校教育的课外补充，更是维系现代社会健康运行的核心社会与文化基础设施，更是维系现代社会健康运行的核心社会与文化基础设施；全英代表性调查（PAS 2025）显示 62% 的成年公众渴求更多科学信息，非正式科学遭遇伴随正规教育所产生的[[Science Capital\|科学资本]]重塑具有终身累积性，亟需国家建立长期队列追踪予以系统实证。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, pp. 42, 47, 50–52)]]
+> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society (2026)]]
+> **非正式参与的社会基础设施定位与全周期累积机制** 科学探索中心、博物馆、科学节与[[Citizen Science|公民科学]]不仅是学校教育的课外补充，更是维系现代社会健康运行的核心社会与文化基础设施；全英代表性调查（PAS 2025）显示 62% 的成年公众渴求更多科学信息，非正式科学遭遇伴随正规教育所产生的[[Science Capital|科学资本]]重塑具有终身累积性，亟需国家建立长期队列追踪予以系统实证。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, pp. 42, 47, 50–52)]]
 
-> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]]
-> **全贯通素养基础与成年期技能跨界升级** 强调终身学习能力的形成依赖于基础教育阶段扎实宽广的通识素养，过早专门化分科会剥夺学生日后跨界转型所需的智力灵活性；必须通过宽口径大纲与贯穿性交叉素养（[[Data Literacy\|数据素养]]、批判性 AI 素养与可持续发展素养），为未来公民在整个成年期持续学习与职业重塑奠定基石。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 31–34)]]
+> [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]]
+> **全贯通素养基础与成年期技能跨界升级** 强调终身学习能力的形成依赖于基础教育阶段扎实宽广的通识素养，过早专门化分科会剥夺学生日后跨界转型所需的智力灵活性；必须通过宽口径大纲与贯穿性交叉素养（[[Data Literacy|数据素养]]、批判性 AI 素养与可持续发展素养），为未来公民在整个成年期持续学习与职业重塑奠定基石。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 31–34)]]
 
 ---
 
@@ -155,7 +163,7 @@ updated: 2026-09-22
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | [[Praxis\|实践]]机制与政策含义 | 代表[[Document\|文献]] / 来源 |
 > |---|---|---|---|
-> | **政策借用与修辞合法化** | 终身学习被用作外部化国内矛盾与推动争议改革的话语工具 | 批判性审视政策文本背后的政治动因与修辞包装 | [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]]; Elfert (2015) |
+> | **政策借用与修辞合法化** | 终身学习被用作外部化国内矛盾与推动争议改革的话语工具，人本主义内核在多边金融机构主导下遭遇工具主义异化 | 批判性审视国家政策借用与国际多边治理[[Paradigm\|范式]]转型 | [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]]; Elfert (2015); [[Robert Arnove\|Arnove (2009)]] |
 > | **社会文化基础设施定位** | 终身科学参与构成与绿地、图书馆并列的核心公共品 | 建立政府采购 10% 社会价值与财税激励平权机制 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026, p. 43)]] |
 > | **全周期累积与技能重塑** | 宽基础课程支撑跨生命周期的交叉素养与职业转型 | 破除过早狭隘分科，启动国家长期队列[[Cohort Study\|追踪研究]] | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 30)]] |
 
@@ -167,17 +175,17 @@ updated: 2026-09-22
 >
 > > [!axis] 经济工具主义 vs 人本主义全人赋能
 > > 终身学习究竟是为了将劳动力驯化为适应资本积累的工具，还是为了追求人性的自由解放与生活乐趣？
-> > - **[[OECD\|经济合作与发展组织]]（OECD）与[[World Bank\|世界银行]]** 侧重[[Employability\|就业能力]]、[[Human Capital Theory\|人力资本]]回报与技能缺口填补，强调终身技能更新的经济效率。
-> > - **[[UNESCO\|联合国教科文组织]]（UNESCO）与皇家学会（2026b）** 重申好奇心、生活福祉、社会批判反思以及应对气候变化的集体能动性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 46)]]
+> > - **[[OECD|经济合作与发展组织]]（OECD）与[[World Bank|世界银行]]** 侧重[[Employability|就业能力]]、[[Human Capital Theory|人力资本]]回报与技能缺口填补，强调终身技能更新的经济效率。
+> > - **[[UNESCO|联合国教科文组织]]（UNESCO）与皇家学会（2026b）** 重申好奇心、生活福祉、社会批判反思以及应对气候变化的集体能动性，警惕经济全球化对社会连带的瓦解。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 46)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 >
 > > [!axis] 风险个体化 vs 国家制度性保障
 > > 当技术变革导致岗位淘汰时，终身学习的成本与责任应由谁承担？
 > > - **新自由主义政策话语** 将学习责任单向转嫁给个人，宣称失业是由于个人未能积极终身学习所致。
-> > - **社会批判学者与皇家学会建议四** 强调国家必须设立法定专项资金，将科普场馆与成人技能重塑确立为公共财政保障的社会基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 52)]]
+> > - **社会批判学者与皇家学会建议四** 强调国家必须设立法定专项资金，将科普场馆与成人技能重塑确立为公共财政保障的社会基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 52)]]
 
 > [!critique] 外部批评与实践落差
 > - **修辞盛宴与资源贫瘠的断层** 各国官方文件高调宣示终身学习愿景，但公共财政中用于成人非正规教育和校外科技场馆的经费屡遭削减。
-> - **[[Science Capital\|科学资本]]自选与阶层固化壁垒** 高端终身学习项目常被高社会经济地位人群垄断，欠发达地区与低技能群体因时间贫困与经济门槛面临实质性排斥。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 48)]]
+> - **[[Science Capital|科学资本]]自选与阶层固化壁垒** 高端终身学习项目常被高社会经济地位人群垄断，欠发达地区与低技能群体因时间贫困与经济门槛面临实质性排斥。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
 
 ---
 
@@ -197,9 +205,11 @@ updated: 2026-09-22
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]] — 深度剖析终身学习话语在香港课程改革中的政策[[Externalization\|外部化]]与修辞借用机制。
-> - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 倡导面向全体公民的全生命周期[[Scientific Literacy\|科学素养]]建设，以[[Data Literacy\|数据素养]]与批判性 AI 素养重构跨人生阶段的基础素养底座，并将[[Informal Science Learning\|非正式科学学习]]场馆与社区参与网络确立为国家终身学习不可或缺的公共社会文化基础设施。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] — 深度剖析终身学习话语在香港课程改革中的政策[[Externalization|外部化]]与修辞借用机制。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 倡导面向全体公民的全生命周期[[Scientific Literacy|科学素养]]建设，以[[Data Literacy|数据素养]]与批判性 AI 素养重构跨人生阶段的基础素养底座，并将[[Informal Science Learning|非正式科学学习]]场馆与社区参与网络确立为国家终身学习不可或缺的公共社会文化基础设施。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, p. 110)]] — 揭示终身学习在战后[[International Education|国际教育]]多边主义转型中的权力位移，分析[[UNESCO|联合国教科文组织]]人本主义终身教育构想如何在[[World Bank|世界银行]]等金融机构崛起中被新自由主义[[Disciplina and Doctrina|规训]]与[[Human Capital Theory|人力资本]]导向所取代。
 
 ---
+
 

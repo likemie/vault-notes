@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "template-theory",
+      "path": "wiki/templates/template-theory.md"
+    },
+    {
+      "basename": "Globalization from Below",
+      "path": "wiki/theories/comparative-education/Globalization from Below.md"
+    },
+    {
       "basename": "Argument_Arnove_2009_WorldSystems",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
+    },
+    {
+      "basename": "Shadow State",
+      "path": "wiki/concepts/comparative-education/Shadow State.md"
+    },
+    {
+      "basename": "Enlightenment",
+      "path": "wiki/concepts/educational-philosophy/Enlightenment.md"
+    },
+    {
+      "basename": "Stanford School",
+      "path": "wiki/theories/comparative-education/Stanford School.md"
     },
     {
       "basename": "World Society Theory",
@@ -15,10 +35,6 @@
     {
       "basename": "Ethnography",
       "path": "wiki/methods/qualitative/Ethnography.md"
-    },
-    {
-      "basename": "Shadow State",
-      "path": "wiki/concepts/comparative-education/Shadow State.md"
     },
     {
       "basename": "Popular Education",
@@ -105,10 +121,6 @@
       "path": "wiki/theories/sociology-of-education/Cultural Models.md"
     },
     {
-      "basename": "Enlightenment",
-      "path": "wiki/concepts/educational-philosophy/Enlightenment.md"
-    },
-    {
       "basename": "John W. Meyer",
       "path": "wiki/persons/us/John W. Meyer.md"
     },
@@ -187,10 +199,6 @@
     {
       "basename": "Case Study",
       "path": "wiki/methods/qualitative/Case Study.md"
-    },
-    {
-      "basename": "Doxa",
-      "path": "wiki/concepts/sociology-of-education/Doxa.md"
     }
   ],
   "omittedPaths": [],

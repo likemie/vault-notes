@@ -5,10 +5,10 @@ aliases:
 summary: "跨越单一国家教育边界组织人员、共同生活、课程、评价与资格承认的教育实践和制度；既包含国际理解的教育计划，也包含全球化推动的流动、比较和市场扩张。"
 type: concept
 domain: "higher-education"
-related_count: 35
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 45
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
 - region/global
 - level/k12
@@ -23,6 +23,9 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Reliability]]"
   - "[[Further Education]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Structural Adjustment Programs]]"
+  - "[[Knowledge Production]]"
   - "[[Open-Mindedness]]"
   - "[[Hypothesis]]"
   - "[[Chinese Learner]]"
@@ -30,19 +33,25 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[International Qualification Recognition]]"
   - "[[International Education Hubs]]"
-related_theories: []
+related_theories:
+  - "[[Hegemony]]"
+  - "[[Pluri-Scalar Governance]]"
 related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Alec Peterson]]"
+  - "[[Robert Arnove]]"
 related_facts:
   - "[[PISA]]"
+  - "[[UNESCO]]"
+  - "[[World Bank]]"
+  - "[[World Trade Organization]]"
+  - "[[GATS and Trade in Education Services]]"
   - "[[International Schools Examination Syndicate]]"
   - "[[Academic Ranking of World Universities]]"
   - "[[Education International]]"
   - "[[English Schools Foundation Hong Kong]]"
   - "[[OECD]]"
-  - "[[UNESCO]]"
   - "[[International Baccalaureate Six-Year Experiment]]"
   - "[[1976 Hague Intergovernmental Conference on the International Baccalaureate]]"
   - "[[Education City Doha]]"
@@ -53,11 +62,12 @@ related_arguments:
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch04]]"
+  - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Peterson_1987_OpenCourt]]"
 confidence: high
 status: active
 created: '2026-05-16'
-updated: 2026-09-23
+updated: 2026-09-29
 ---
 
 # International Education
@@ -67,20 +77,20 @@ updated: 2026-09-23
 ## 定义
 
 > [!def] 核心定义
-> 国际教育（international education）是跨越单一国家教育边界组织人员、共同生活、课程、教学、评价和资格承认的教育实践与制度。它既指以跨文化理解、共同责任和多种思维方式为目的的教育计划，也指全球化条件下学生与教师流动、课程跨境采用、[[International Schools\|国际学校]]、海外分校、跨国评价和教育市场形成的制度现象。前者强调教育要改变怎样的人与关系，后者强调教育活动如何越过国家管辖、进入全球网络。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, pp. 1–13)]] [[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, pp. 15–31)]] [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 1–5, 19–31)]]
+> 国际教育（international education）是跨越单一国家教育边界组织人员、共同生活、课程、教学、评价和资格承认的教育实践与制度。它既指以跨文化理解、共同责任和多种思维方式为目的的教育计划，也指全球化条件下学生与教师流动、课程跨境采用、[[International Schools|国际学校]]、海外分校、跨国评价和教育市场形成的制度现象。前者强调教育要改变怎样的人与关系，后者强调教育活动如何越过国家管辖、进入全球网络。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, pp. 1–13)]] [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 15–31)]] [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 1–5, 19–31)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 国家边界不再独占学生归属、课程内容、评价标准和资格效力；人与制度可在多个教育系统之间流动和组合。
 > - **用途** 用于分析跨文化共同生活如何被组织，以及学校、课程、考试、大学承认、流动市场和全球比较如何共同构成跨国教育空间。
 > - **边界** 仅有外国学生、英语教学、海外校址或全球排名，不足以自动证明教育具有跨文化理解和制度去国家化；需要继续检查课程来源、互动方式、权力结构与资格承认。
 
-> [!citation-card]- 国际教育不能停留在国际主义声明
-> [[International Baccalaureate\|国际文凭]]的创立已经不再只是国际主义理念，而成为一种实践必要。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, p. 17)]]
+> [!citation-card] 国际教育不能停留在国际主义声明
+> [[International Baccalaureate|国际文凭]]的创立已经不再只是国际主义理念，而成为一种实践必要。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, p. 17)]]
 >
 > *The creation of an international baccalaureate had ceased to be solely an internationalist idea and became a practical necessity.*
 
-> [!citation-card]- 全球化扩张的制度压力
-> 固守民族国家公民培养和本地系统、忽视更大全球力量的教育系统可能变得过时；主动回应全球化新挑战的系统则更可能繁荣。[[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 1)]]
+> [!citation-card] 全球化扩张的制度压力
+> 固守民族国家公民培养和本地系统、忽视更大全球力量的教育系统可能变得过时；主动回应全球化新挑战的系统则更可能繁荣。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p. 1)]]
 >
 > *Educational systems tied to the formation of nation-state citizens and consumers bonded to local systems to the neglect of larger global forces are likely to become obsolete, while those that proactively engage globalization's new challenges are more likely to thrive.*
 
@@ -171,6 +181,16 @@ updated: 2026-09-23
 > [!claim] 斯莱特豪格
 > **去国家化不等于文化中立** IB 所强调的开放心态和多角度思考仍可能预设西方教学方式，英语要求也会产生权力差异；反过来，西方课程框架可能忽视中国教育中知识学习与道德发展的结合。跨越国家边界因此不消除文化预设，只是使其在新的制度中重新组合。[[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 25–29)]]
 
+### 命题四　国际教育多边主义从战后有限再分配转向新自由主义规训与经贸商品化
+
+> [!concept-lens] 多边主义演进与全球教育治理[[Disciplina and Doctrina|规训]]
+> 探讨国际教育如何从战后人道主义与社会福利价值导向，演变为受跨国金融组织与自由贸易规则支配的规训性经贸系统。
+
+> [!claim] [[Robert Arnove|Arnove, R.]]
+> **从再分配多边主义到防卫性规训与经贸治理** 阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）梳理蒙迪（Mundy, 1998, 1999）对国际教育多边主义（Educational Multilateralism）历史演化的分析指出，国际教育绝非单纯的跨国人员流动或文化理解倡议，而是深刻嵌于全球政治经济格局中的制度化治理体系。战后初期（1945–1965 年），以联合国教育、科学及文化组织（[[UNESCO]]）为主导的“有限再分配性多边主义”强调人道主义价值与社会福利，支持新兴独立民族国家建立公共教育；1970 年代全球南方国家对不平等秩序展开抗争；自 1980 年代起，伴随债务危机与新自由主义崛起，国际教育治理转向以[[World Bank|世界银行]]（[[World Bank]]）为核心的“防卫性与规训性多边主义”，放弃再分配承诺，通过[[Structural Adjustment Programs|结构调整方案]]推行财政紧缩与市场化改革；至 1995 年[[World Trade Organization|世界贸易组织]]（[[World Trade Organization|WTO]]）成立并推行[[GATS and Trade in Education Services|服务贸易总协定]]（[[GATS and Trade in Education Services|GATS]]），国际教育进一步被纳入全球跨国服务贸易规制，使教育主权与公共服务面临前所未有的商品化穿透。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 国际教育的主要命题
@@ -179,23 +199,18 @@ updated: 2026-09-23
 > | **关系建构** | 多国共处必须通过共同任务和冲突协商转化为理解 | 国际学校、寄宿教育、跨文化项目 | Peterson |
 > | **制度化** | 组织、课程、评价和资格承认必须形成闭环 | 国际课程与跨国升学资格 | Peterson |
 > | **扩张与权力** | 去国家化伴随市场化、文化预设和不平等 | 国际学校产业、IB、海外分校与留学 | Slethaug |
+> | **治理与经贸规训** | 国际教育从战后人道再分配转向新自由主义紧缩规训与 WTO 跨国服务贸易 | 全球多边治理机制、WTO/GATS 规约与南方向结构调整 | [[Robert Arnove\|Arnove]]; Mundy; Robertson et al. |
 
 ---
 
 ## 概念演变
 
-> [!phase] 从国家绑定到跨国教育空间
-> - **国家教育的基线（20世纪中期以前）**
->   中小学通常由地方税收支持并反映本地选民价值，大学名称、教育研究和资格制度也深嵌地区或国家。早期海外学校多是殖民或侨民“前哨”，把母国课程移植到境外，而非建立真正共同的国际课程。[[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 3–5, 19–24)]]
->
-> - **共同生活与国际资格的制度实验（1925–1978）**
->   1925 年国际毕业会考设想缺乏现实需求；战后[[International Schools\|国际学校]]、学生流动和竞争性大学入学扩大后，多轨备考变成资源与公平问题。1950–1960 年代的大西洋学院把国际理解转化为共同生活和服务，[[International Schools Examination Syndicate\|国际学校考试辛迪加]]（International Schools Examination Syndicate，ISES）和 IBO 再把教师合作、课程、考试和大学承认组织起来；1970 年首批学生用正式 IB 成绩申请大学。此后的六年试验通过多样学校、大学承认、考试行政与资金治理检验制度可行性，1976 年海牙政府间会议及 1978 年伦敦会议则把项目转为有政府参与的常设组织。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, pp. 1–13)]] [[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, pp. 15–31)]] [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, pp. 61–97)]]
->
-> - **大众流动、全球比较与市场扩张（1978–2009）**
->   国际学生流动、国际学校、IB 和海外分校迅速增长；2000 年 [[PISA]]、2003 年[[Academic Ranking of World Universities\|世界大学学术排名]]（Academic Ranking of World Universities，ARWU）及后续排名又把国家和大学置入共同测量空间。国际教育由相对小规模的学校和资格实验，扩展为留学、声誉和教育服务产业。[[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 1–18, 22–28)]]
->
-> - **文化、公平与专业能力问题显现（21世纪初）**
->   规模扩张没有自动产生相应的跨文化师资培养，也没有消除西方课程预设、学习者刻板印象、本地公立系统受挤压和统计口径不一致等问题。国际教育的核心问题因此从“能否跨境”推进为“以谁的知识、由谁承担成本、在何种专业支持下跨境”。[[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 17–18, 25–34)]]
+> [!dev-timeline] 国际教育与多边治理的演化脉络
+> - **国家教育的基线（20 世纪中期以前）** 中小学通常由地方税收支持并反映本地选民价值，大学名称、教育研究和资格制度也深嵌地区或国家。早期海外学校多是殖民或侨民“前哨”，把母国课程移植到境外，而非建立真正共同的国际课程。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 3–5, 19–24)]]
+> - **共同生活实验与战后有限再分配多边主义（1945–1970 年代）** 联合国教育、科学及文化组织（[[UNESCO]]）主导战后多边主义，强调教育人道价值与社会福利，支持新兴民族国家扫盲与公立教育建设。同时，[[International Schools|国际学校]]与人员流动扩大；1950–1960 年代大西洋学院开展跨文化实验，[[International Schools Examination Syndicate|ISES]] 与 IBO 推动课程、考试与大学承认网络建立；1970 年首批学生获 IB 成绩，1976 年海牙政府间会议将实验确立为常设国际组织。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, pp. 1–13)]]; [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, pp. 61–97)]]
+> - **债务危机与防卫性[[Disciplina and Doctrina|规训]]多边主义（1980 年代）** 全球南方债务危机爆发后，国际教育治理主导权自联合国教科文组织转向[[World Bank|世界银行]]与国际货币基金组织；多边机构放弃再分配承诺，通过[[Structural Adjustment Programs|结构调整方案]]推行财政紧缩、削减教育预算与收取学杂费，教育被重塑为服务经济增长的工具。[[Argument_Arnove_2009_WorldSystems|Arnove (2009, p. 110)]]
+> - **大众流动、[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 贸易规制与全球比较扩张（1990 年代至 2000 年代初）** 国际学生流动与海外分校急剧增长；1995 年世贸组织成立并实施服务贸易总协定（GATS），国际教育正式确立为跨国服务贸易门类，推动资格互认与边境壁垒清除；2000 年 [[PISA]] 与 2003 年[[Academic Ranking of World Universities|ARWU]] 等排名系统将全球大学置入共同测量序列。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 1–18, 22–28)]]; [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 110–111)]]
+> - **[[Hegemony|文化霸权]]、主权侵蚀与公平反思（21 世纪初至今）** 规模扩张暴露出跨文化师资匮乏与西方课程预设偏向，弱小受援国在超国家经贸规制下丧失教育宏观调控权，教育商品化加剧跨国与本土阶级分化；国际教育研究重心从单纯的“流动可行性”转向审视“[[Knowledge Production|知识生产]]权力、主权再谈判与全球教育正义”。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 17–18, 25–34)]]; [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 110–112)]]
 
 ---
 
@@ -216,9 +231,9 @@ updated: 2026-09-23
 > | [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, pp. 67–71)]] | IB 六年试验，1970–1975 | 考试与承认规模 | 完整文凭考生由 29 人增至 377 人；截至 1973 年底，20 国给予一般承认，学生进入 25 国 175 所大学 | 样本非随机，承认用途和部分承认范围未在总数中分开 |
 
 > [!stat-cards]- 补充案例数据
-> - **40%–50%** 香港英基学校协会（English Schools Foundation，[[English Schools Foundation Hong Kong\|ESF]]）学生为本地香港华人，显示侨民学校向本地家庭开放。
-> - **61,869→140,000+** 2001–2005 年赴华外国学生增长，中国同时由留学生输出地转为目的地。[[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 18)]]
-> - **200,000 与 349,506** 《中国日报》和 IIE 对相近时期中国出国学生的估计差距近一倍，说明跨来源统计的[[Reliability\|可靠性]]问题。[[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 17–18)]]
+> - **40%–50%** 香港英基学校协会（English Schools Foundation，[[English Schools Foundation Hong Kong|ESF]]）学生为本地香港华人，显示侨民学校向本地家庭开放。
+> - **61,869→140,000+** 2001–2005 年赴华外国学生增长，中国同时由留学生输出地转为目的地。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p. 18)]]
+> - **200,000 与 349,506** 《中国日报》和 IIE 对相近时期中国出国学生的估计差距近一倍，说明跨来源统计的[[Reliability|可靠性]]问题。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 17–18)]]
 
 ---
 
@@ -227,21 +242,26 @@ updated: 2026-09-23
 > [!debates] 国际教育的核心争议
 >
 > > [!axis] 去国家化是否只是西化
-> > IB 等课程摆脱单一国家大纲，却可能继续以英语、西方课堂互动和个体[[Open-Mindedness|开放性]]为默认规范；中国教育把知识学习和道德发展结合的传统则可能被排除。国际性因此不能仅由课程来源国数量判断。[[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 25–29)]]
+> > IB 等课程摆脱单一国家大纲，却可能继续以英语、西方课堂互动和个体[[Open-Mindedness|开放性]]为默认规范；中国教育把知识学习和道德发展结合的传统则可能被排除。国际性因此不能仅由课程来源国数量判断。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 25–29)]]
+>
+> > [!axis] 公共人权福利 vs 跨国服务贸易商品
+> > 国际教育应当是[[UNESCO|联合国教科文组织]]倡导的普惠人权与公共福利，还是受[[World Trade Organization|世贸组织]]（WTO）及跨国资本规制的可盈利商业服务？
+> > - **UNESCO 与战后多边主义立场** 倡导教育是普惠社会福利与普遍受教育权，主张国际社会应支持发展中国家构建独立的公共国民教育体系。[[Argument_Arnove_2009_WorldSystems|Arnove (2009, p. 110)]]
+> > - **WTO / [[GATS and Trade in Education Services|GATS]] 与跨国教育市场化立场** 将教育界定为可跨国自由流动的服务贸易门类，主张消除边界准入与学历互认壁垒以扩大全球教育市场规模，却削弱了弱小国家的公共教育调控能力。[[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 110–111)]]
 >
 > > [!axis] 公共教育还是跨国市场
-> > [[International Schools\|国际学校]]必须以目标家庭能够支付的价格提供有需求的课程，并回应人口和经济变化；这种市场适应推动扩张，也可能使国际教育成为全球精英的升学通道，并从本地公立系统吸走学生。[[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 5, 22–26)]]
+> > [[International Schools|国际学校]]必须以目标家庭能够支付的价格提供有需求的课程，并回应人口和经济变化；这种市场适应推动扩张，也可能使国际教育成为全球精英的升学通道，并从本地公立系统吸走学生。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 5, 22–26)]]
 >
 > > [!axis] 全球共同标准还是新的课程支配
-> > [[PISA]]、排名和共同资格提高可比性与流动性，却把指标选择、考试语言和大学承认权集中到跨国组织及优势机构。不同排名可使同一大学从未入前 300 到世界第 8，说明共同尺度本身包含价值判断。[[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 6–11)]]
+> > [[PISA]]、排名和共同资格提高可比性与流动性，却把指标选择、考试语言和大学承认权集中到跨国组织及优势机构。不同排名可使同一大学从未入前 300 到世界第 8，说明共同尺度本身包含价值判断。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 6–11)]]
 
 > [!critique] 实施与证据问题
-> - **师资培养落后于机构扩张** 全球只有少数大学提供国际教育专业培养，远不足以服务约 3,000 所学校和 200 万以上学生；缺少准备的教师容易把母国教学[[Hypothesis\|假设]]和对[[Chinese Learner\|中国学习者]]的刻板印象带入课堂。[[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 31–34)]]
-> - **本地系统可能承受机会成本** [[English Schools Foundation Hong Kong\|ESF]] 等国际学校吸纳本地学生，可能加重出生率下降背景下公立学校的生源压力。[[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 5)]]
-> - **规模数据可比性不足** 国际学生和国际学校统计来自[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）、IIE、联合国教育、科学及文化组织（[[UNESCO\|United Nations Educational, Scientific and Cultural Organization]]，UNESCO）、政府和媒体，不同来源对同一现象差异很大，原研究也没有系统评估数据质量。[[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 17–18)]]
+> - **师资培养落后于机构扩张** 全球只有少数大学提供国际教育专业培养，远不足以服务约 3,000 所学校和 200 万以上学生；缺少准备的教师容易把母国教学[[Hypothesis|假设]]和对[[Chinese Learner|中国学习者]]的刻板印象带入课堂。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 31–34)]]
+> - **本地系统可能承受机会成本** [[English Schools Foundation Hong Kong|ESF]] 等国际学校吸纳本地学生，可能加重出生率下降背景下公立学校的生源压力。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p. 5)]]
+> - **规模数据可比性不足** 国际学生和国际学校统计来自[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）、IIE、联合国教育、科学及文化组织（[[UNESCO|United Nations Educational, Scientific and Cultural Organization]]，UNESCO）、政府和媒体，不同来源对同一现象差异很大，原研究也没有系统评估数据质量。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 17–18)]]
 
 > [!warning] 解释边界
-> 皮特森提供的是参与者视角的制度形成史，能够揭示国际教育设计者如何理解自己的选择，却不能单独证明长期教育效果；斯莱特豪格的材料则是二手统计和[[Document\|文献]]综合，适合描述规模与趋势，但其“国际教育”“全球化”和“[[Knowledge-Based Economy\|知识经济]]”没有被严格[[Operationalization\|操作化]]。两类材料互补，却都不能把跨国流动直接当作跨文化学习成效。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 57–59)]] [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 1, 17–18, 31–34)]]
+> 皮特森提供的是参与者视角的制度形成史，能够揭示国际教育设计者如何理解自己的选择，却不能单独证明长期教育效果；斯莱特豪格的材料则是二手统计和[[Document|文献]]综合，适合描述规模与趋势，但其“国际教育”“全球化”和“[[Knowledge-Based Economy|知识经济]]”没有被严格[[Operationalization|操作化]]。两类材料互补，却都不能把跨国流动直接当作跨文化学习成效。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 57–59)]] [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 1, 17–18, 31–34)]]
 
 ---
 
@@ -260,6 +280,7 @@ updated: 2026-09-23
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Chs. 1–4)]] — 从大西洋学院的共同生活和服务实践，追踪到教师倡议、独立组织、课程与考试设计，再以六年试验说明学校、资格承认、行政和资金如何把国际教育目标转化为常设制度。
-> - [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]] — 描述国际教育从国家绑定走向大众流动、全球比较、市场化和去国家化，并集中讨论文化预设、师资缺口与统计问题。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Peterson_1987_OpenCourt|Peterson (1987, Chs. 1–4)]] — 从大西洋学院的共同生活和服务实践，追踪到教师倡议、独立组织、课程与考试设计，再以六年试验说明学校、资格承认、行政和资金如何把国际教育目标转化为常设制度。
+> - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] — 描述国际教育从国家绑定走向大众流动、全球比较、市场化和去国家化，并集中讨论文化预设、师资缺口与统计问题。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 109–111)]] — 结合蒙迪（Mundy）与罗伯逊等人（Robertson et al.）的[[Pluri-Scalar Governance|多标度治理]]研究，系统考察国际教育多边主义从战后有限再分配向新自由主义[[Disciplina and Doctrina|规训]]与 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 跨国服务贸易的制度转变。
