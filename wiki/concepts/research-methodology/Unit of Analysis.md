@@ -13,10 +13,10 @@ aliases:
 summary: "研究设计、质性编码与内容分析中确定数据切片与分类基本边界的核心概念，涵盖抽样单位、记录单位与语境单位三层体系，以及宏观比较研究中从民族国家制度容器向超国家标准化指标空间的演进"
 type: concept
 domain: "research-methodology"
-related_count: 46
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 56
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - research-methodology
   - qualitative-research

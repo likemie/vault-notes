@@ -7,10 +7,10 @@ summary: "维多利亚时代英国皇家学校督学、诗人与文化批评家�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1822"
 died: "1888"
 lifespan: "1822–1888"
