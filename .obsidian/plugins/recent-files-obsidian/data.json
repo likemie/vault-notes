@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rust_2009_Reflections.md"
     },
     {
+      "basename": "Theoretical Perspective",
+      "path": "wiki/concepts/research-methodology/Theoretical Perspective.md"
+    },
+    {
       "basename": "Structural Adjustment Programs",
       "path": "wiki/concepts/comparative-education/Structural Adjustment Programs.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "UNESCO",
       "path": "wiki/facts/global/UNESCO.md"
-    },
-    {
-      "basename": "Policy Borrowing",
-      "path": "wiki/concepts/comparative-education/Policy Borrowing.md"
     }
   ],
   "omittedPaths": [],

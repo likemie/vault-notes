@@ -5,7 +5,7 @@ aliases:
 summary: "跨越单一国家教育边界组织人员、共同生活、课程、评价与资格承认的教育实践和制度；既包含国际理解的教育计划，也包含全球化推动的流动、比较和市场扩张。"
 type: concept
 domain: "higher-education"
-related_count: 50
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"

@@ -8,7 +8,7 @@ summary: "巴西著名教育家、哲学家，批判教育学奠基人，以《�
 type: person
 nationality: brazil
 person_region: "brazil"
-person_related_count: 40
+person_related_count: 43
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -35,11 +35,11 @@ related_concepts:
   - "[[Problem-Posing Education]]"
   - "[[Conatus]]"
   - "[[Epistemology]]"
+  - "[[Value Neutrality]]"
   - "[[Champ]]"
   - "[[Paradigm]]"
   - "[[Culture of Silence]]"
   - "[[Politicity of Education]]"
-  - "[[Value Neutrality]]"
   - "[[Received Knowledge]]"
   - "[[Epistemic Agency]]"
   - "[[Ontology]]"
@@ -63,16 +63,18 @@ related_persons:
   - "[[Carlos Alberto Torres]]"
   - "[[Martin Carnoy]]"
   - "[[Liliana Esther Olmos]]"
+  - "[[Val D. Rust]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Partaken_2022_Springer]]"
   - "[[Argument_Smith_2026_SPE]]"
   - "[[Argument_Darwish_2009_Queens]]"
+  - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 
 # Paulo Freire
@@ -92,6 +94,7 @@ updated: 2026-09-28
 > [!work-line] 主要著作
 > - **1972 — *Pedagogy of the Oppressed*** 奠定[[Critical Pedagogy|批判教育学]]的成熟代表作。基于 1960 年代巴西成人扫盲实践，系统提出[[Banking Model of Education|储蓄式教育]]批判与[[Problem-Posing Education|提问式教育]]模型，论证教育必须摆脱自上而下的驯化存取，成为受压迫者争取自身解放的文化行动。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 75–76)]]
 > - **1973 — *Education for [[Conscientization|critical consciousness]]*** 深入阐述批判意识觉醒（Conscientização）的发[[Conatus|生机]]制，分析社会从半闭塞、被动顺从向批判开放社会的历史转变，确立反思实践（[[Praxis]]）的心理学与[[Epistemology|认识论]]根基。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 5–7)]]
+> - **1987 — *A Pedagogy for Liberation: Dialogues on Transforming Education*** 与伊拉·肖尔（Ira Shor）合著。将批判对话精神推向高等教育与日常课堂教学转型，深入阐明“教育即政治（Education is inherently political）”，论证不存在[[Value Neutrality|价值中立]]的教育，教育工作者必须在维稳适应与解放赋权之间做出自觉的伦理政治抉择。[[Argument_Rust_2009_Reflections|(Shor & Freire, 1987, cited in Rust et al., 2009, p. 134)]]
 > - **1994 — *Cartas a Cristina*** （《致克里斯蒂娜的信》）晚期自传性与政治反思论著。弗莱雷在书中深刻阐明国家与公共教育绝非中立领域，而是展开商品服务交换、竞争不同政治经济规划的争夺[[Champ|场域]]（contested arena），奠定了批判政治经济学分析[[Paradigm|范式]]。[[Argument_Olmos_Torres_2009_StateTheories|(Freire, 1994, cited in Olmos & Torres, 2009, pp. 77–78, 85)]]
 > - **1998 — *Pedagogy of Freedom: Ethics, Democracy, and Civic Courage*** 晚期重要论著。将教育实践定性为一种伦理与政治介入，强调批判性求知必须捍卫受教育者的认知主体性与尊严，对全球新自由主义教育[[Disciplina and Doctrina|规训]]提出深刻警示。
 
@@ -129,12 +132,21 @@ updated: 2026-09-28
 > - **比较教育政治社会学与国家理论路径** 弗莱雷关于“公共教育作为竞争性争夺场域”和“[[Politicity of Education|教育的政治性]]”论断，为[[Carlos Alberto Torres|托雷斯]]（Torres）、[[Martin Carnoy|卡诺伊]]（Carnoy）与[[Liliana Esther Olmos|奥尔莫斯]]（Olmos）等比较学者提供了批判[[Ontology|本体论]]，直接启发了将[[Dependency Theory|依附理论]]、[[State Corporatism|国家法团主义]]与教育[[Compensatory Legitimation|补偿性合法化]]相融合的比较教育国家理论。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 77–78)]]
 > - **[[Geopolitics of Knowledge|知识地缘政治]]与去殖民路径** 其[[Banking Model of Education|储蓄式教育]]批判模型被广泛应用于[[Geopolitics of Knowledge|知识地缘政治]]（GPK）与比较教育研究中，作为揭示殖民教育、[[Forced Knowledge Transfer|强制知识转移]]及全球北方政策霸权的批判利器。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 75–76)]]
 > - **数智技术反思与认识正义路径** 进入 2020 年代[[Generative Artificial Intelligence|生成式人工智能]]时期，其解放对话与去权威化思想被教育哲学家重新激活，用于诊断大模型代写引发的数字储蓄式教育异化与[[Formative Epistemic Injustice|成长性认识不正义]]，为构建抗衡[[Cognitive Deskilling|认知去技能化]]的防御性教学法提供哲学基石。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]
+> - **比较教育全球化反思与解放实践路径** [[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）将弗莱雷“教育即政治”与反思实践（[[Praxis]] of liberation）引入比较教育学科史反思，批判将教育等同于资本主义西方工业现代性的狭隘倾向，推动比较教育学者超越跨国干涉与强制再生产，转向支持主权自决与人类福祉的人道主义解放实践。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 将弗莱雷储蓄式教育概念拓展为知识地缘政治工具，剖析赫尔巴特五段教学法与日本殖民教育中的强制[[Knowledge Transfer|知识转移]]机制。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 系统提炼弗莱雷的[[Problem-Posing Education|提问式教育]]、[[Conscientization|批判意识觉醒]]（Conscientização）与反思实践（[[Praxis]]）[[Central Phenomenon|核心范畴]]。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 吸收弗莱雷打破压迫性权威的对话精神，针对生成式 AI 时代的成长性[[Epistemic Injustice|认识不正义]]，提出[[Alien Intelligence|异己智能]]反向审问与思维全外显防御方案。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 继承弗莱雷关于教育政治性与争夺场域的洞见，系统剖析外围[[Conditioned State Theory|受限国家]]教育扩张的阶级矛盾。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 援引弗莱雷“教育即政治”命题与解放实践范式，深刻解构全球化背景下资本主义现代性对教育研究的侵蚀，为比较教育学转向主权自决与人道主义奠定伦理基石。
+
+---
+
+## 历史评价
+
+> [!citation-card] Rust, Johnstone, & Allaf 论弗莱雷对现代性迷思的解构与解放实践转向
+> 教育在本质上蕴含着鲜明的政治属性；将教育等同于资本主义现代性掩盖了跨国霸权对弱势群体的思想宰制与不平等再生产。弗莱雷确立的人道主义与解放实践，为当代教育研究摆脱帝国主义干涉、重归促进人类福祉与文化自决提供了根本伦理坐标。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 134–135)]]
 
 ---
 

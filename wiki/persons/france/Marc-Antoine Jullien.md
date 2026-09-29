@@ -10,7 +10,7 @@ summary: "法国启蒙自由主义教育家与国际主义者，1817年发表比
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 41
+person_related_count: 43
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -39,6 +39,8 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Performance Indicators]]"
   - "[[Proto-Scientific Motif]]"
+  - "[[Influences Across Cultures]]"
+  - "[[Postpositivism]]"
   - "[[Document]]"
   - "[[Artefact]]"
   - "[[State Educational Sovereignty]]"
@@ -64,6 +66,7 @@ related_persons:
   - "[[Auguste Comte]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
+  - "[[Val D. Rust]]"
   - "[[Wolfgang Mitter]]"
 related_facts:
   - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"
@@ -72,6 +75,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
+  - "[[Argument_Rust_2009_Reflections]]"
 confidence: high
 status: draft
 created: 2026-09-06
@@ -178,12 +182,16 @@ updated: 2026-09-29
 > - **世界和平与跨国治理** 突破 19 世纪民族国家的孤立竞争思维，开创了通过跨国教育经验互鉴消弭沙文主义偏见、以比较文明抗衡野蛮战争残余的国际和平教育与全球教育治理先驱传统。（pp. 22–24）
 > - **跨国改良与国家建制** 构想了以瑞士 22 个州为试点的教育经验互鉴机制，主张借用外部优良制度以培育国家意识与政治统合，开启了[[Empiricism\|经验主义]][[Policy Borrowing\|教育借用]]传统。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 14)]]
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 深入解构朱利安的准[[Proto-Scientific Motif\|科学人道主义母题]]，澄清其欧陆二级精神科学属性，有力反驳 20 世纪行为实证派指责其问卷带有主观偏见的时代倒错。
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 深入解构朱利安的准[[Proto-Scientific Motif|科学人道主义母题]]，澄清其欧陆二级精神科学属性，有力反驳 20 世纪行为实证派指责其问卷带有主观偏见的时代倒错。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 将朱利安 1816–1817 年方案置于两百年比较学术史连续统中，驳斥实证主义者将其孤立化为“史前孤立天才”的断裂叙事，确立其作为跨文化制度考证传统的思想源流。
 
 ---
 
 ## 历史评价
+
+> [!citation-card] Rust, Johnstone, & Allaf 论朱利安方案在学术史连续统中的基石地位
+> 朱利安在 1816–1817 年提出的比较教育方案，不仅开创了[[Questionnaire|问卷调查]]与事实分类分析图表，更奠定了考证[[Influences Across Cultures|跨文化影响]]的深厚学术根基。战[[Postpositivism|后实证主义]]者将其简单包装为实证科学的唯一萌芽、进而将十九世纪后继考察贬为业余故事，割裂了学科贯通古今的历史连续性。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–124)]]
 
 > [!citation-card] 帕尔默与卡洛扬纳基论“文明使徒”与“和平使徒”
 > 朱利安不仅配得上帕尔默对其“文明使徒”的定性，同样完全当得起“和平使徒”的称号。面对宗教道德纽带解体与动荡战争创伤，朱利安致力于通过国内与[[International Education\|国际教育]]的革新，实现全人类文明进步与和平共处。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 23)]]；引自 Palmer (1993)
@@ -220,6 +228,7 @@ updated: 2026-09-29
 > - **批评者／论敌** [[Harold Noah\|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein\|马克斯·埃克斯坦]]（Max Eckstein） 20 世纪科学实证派学者，指责朱利安问卷充斥先验道德[[Hypothesis\|假设]]与引导性提问，批评其调查退化为教育理念宣教。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 16–17)]]
 > - **现代学术发掘者** 斯图尔特·弗雷泽（Stewart Fraser） 1964 年出版权威英译与导论评注本[[Document\|文献]]集，确立其作为学科奠基性文献的历史地位。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 24)]]
 > - **现代思想史重构者** 罗伯特·帕尔默（R. R. Palmer） 1993 年出版思想传记《从雅各宾到自由派》，系统阐明其从激进革命工具论到宪政自由主义教育预防论的演进轨迹。（Palmer, 1993）
+> - **现代学术发掘与史学评述** [[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust） 阐明朱利安方案在两百年比较学术史连续统中的基石地位，批判将朱利安与十九世纪后继学术传统割裂对立的实证主义断裂叙事。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122–124)]]
 
 ---
 
