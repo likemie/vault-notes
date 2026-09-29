@@ -12,10 +12,10 @@ summary: "约翰·迈耶等开创的社会学新制度主义与世界社会研�
 type: person
 subtype: school
 person_region: "United States"
-person_related_count: 28
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 32
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 nationality: "United States"
 born: "1977"
 died: ""
@@ -34,6 +34,9 @@ related_concepts:
   - "[[Otherhood]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
+  - "[[Hypothesis]]"
+  - "[[Class Size]]"
+  - "[[Policy Borrowing]]"
   - "[[Document]]"
   - "[[Disciplina and Doctrina]]"
 related_theories:
@@ -53,6 +56,7 @@ related_persons:
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
   - "[[UN Sustainable Development Goals]]"
+  - "[[PISA]]"
   - "[[Comparative and International Education Society]]"
   - "[[UNESCO]]"
   - "[[World Bank]]"
@@ -99,7 +103,7 @@ updated: 2026-09-29
 ### 理论基石与解释逻辑
 
 > [!ref-table] 斯坦福学派核心理论基石与解释逻辑
-> | 理论基石 | 核心论断与假设 | 解释机制与微观运作 | 经验表征与现实映射 |
+> | 理论基石 | 核心论断与[[Hypothesis\|假设]] | 解释机制与微观运作 | 经验表征与现实映射 |
 > |:---|:---|:---|:---|
 > | **形式理性与[[Rationalized Myth\|制度神话]]** | 组织结构是对制度环境中理性神话的仪式性反映，而非追求微观生产效率的工程结果。 | 汲取[[Max Weber\|韦伯]]合理化理论，强调遵循制度神话换取合法性与资源，正式结构充当仪式化合规展示。 | 薄弱学校建立完备但闲置的咨询室与数字管理台账，以满足督导验收与专项经费门槛。 |
 > | **[[Cultural Models\|世界文化模型]]的外生性** | 战后由启蒙理性、人权规范与正义目标构成的世界文化，为民族国家确立了先验的现代性脚本。 | 主权国家在非强制情境下为了确立国际合法性，自发进行跨国模仿与[[Institutional Isomorphism\|制度同构]]。 | 非工业化新兴发展中国家在缺乏现代工业需求下，依然普遍照搬六三三学制与门类齐全的学科大纲。 |
