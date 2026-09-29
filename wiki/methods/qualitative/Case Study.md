@@ -7,7 +7,7 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 71
+method_related_count: 72
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -79,6 +79,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14]]"
+  - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Wang_2025_CE]]"
   - "[[Argument_Dezhina_2022_ECO]]"
@@ -94,7 +95,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 # Case Study
 
@@ -135,6 +136,11 @@ updated: 2026-09-28
 > - **数据收集** 访谈、观察、文件、档案记录、实物、[[Questionnaire\|问卷]]等（Yin 六类证据来源）
 > - **分析方法** 主题分析、跨案例分析、模式匹配、时间序列分析、[[Grounded Theory\|扎根理论]]、[[Coding in Qualitative Research\|编码]]
 > - **辅助技术** 个案研究数据库、[[Chain of Evidence\|证据链]]、[[Triangulation\|三角验证]]、受访者验证、[[Reflexivity\|反身性]]
+
+> [!citation-card] 米特论国别个案研究中的比较视野与容器突破
+> 尽管 20 世纪欧洲比较教育的学术产出绝大部分表现为对单一外国教育体系的深度国别个案研究，但这些研究绝非封闭孤立的区域描摹，其深层始终被比较视野所浸润；并在殖民扩张与去殖民分化、冷战东西欧阵营冲突以及宏观经验社会学比较三大路径上，实现了对单一民族国家分析容器的突破。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 94–95)]]
+>
+> *Although the scientific output has been largely dominated by in-depth country case studies of individual foreign education systems, these studies were permeated by comparative visions...*
 
 ---
 
@@ -257,6 +263,7 @@ Yin告诫在单案例设计中要谨慎：通常会忽视多案例的可能好�
 > | [[Triangulation]] | 方法 | 个案研究质量保障的核心手段之一 |
 > | [[Analytic Generalization]] | 概念 | 个案研究的推广逻辑——从案例到理论 |
 > | [[Chain of Evidence]] | 概念 | 个案研究中连接数据、分析、结论的可追踪路径 |
+> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 剖析 20 世纪比较教育中深度国别个案研究（in-depth country case studies）的比较视野浸润与跨国容器突破。 |
 
 ---
 ## 使用此方法的研究
@@ -270,3 +277,4 @@ Yin告诫在单案例设计中要谨慎：通常会忽视多案例的可能好�
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 以英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）为单一机构案例研究，从内部评估决策者视角系统剖析其在学校现场推动大规模[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials，RCT）的制度设计、独立评估机制、[[Implementation and Process Evaluation\|实施与过程评估]]（Implementation and Process Evaluation，IPE）演进以及在[[Business as Usual\|常态教学]]背景下评估干预效应所面临的方法学挑战
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 采用多层级纵向质性个案研究设计，结合全国性政策法规文本、技术白皮书梳理与针对联邦及各州教育部高级决策者、测量学家的[[Expert Interview\|专家访谈]]，深入剖析[[Gesamtstrategie zum Bildungsmonitoring\|德国国家教育监测总体战略]]下[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB）作为国家[[Center of Calculation\|计算中心]]的崛起历程与跨尺度绩效[[Data Infrastructure\|数据基础设施]]的拓扑运作机制。
 > - [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]] — 综合运用墨西哥[[State Corporatism|国家法团主义]]成人扫盲补偿、智利新自由主义教育券私有化与阿根廷布宜诺斯艾利斯大学（UBA）重构三项典型国别个案研究，[[Rich and Thick Description|深描]][[Conditioned State Theory|受限国家]]在依附性积累与新自由主义全球化下教育政策的具体机制与阶级效应。
+> - [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示学界大量产出的单一外国教育体制深度国别个案研究（in-depth country case studies）内部蕴含着强烈的比较视野，并在后殖民分化、冷战东西欧阵营对峙与跨国宏观社会学比较三大路径上突破了单一民族国家的[[Unit of Analysis|分析单元]]容器。

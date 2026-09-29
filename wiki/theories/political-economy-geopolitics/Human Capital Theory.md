@@ -7,10 +7,10 @@ aliases:
 summary: "将教育与培训视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论。二战后在冷战地缘博弈中成为经合组织（OECD）推行技术官僚式人力规划与世界银行构建跨国放贷指标帝国的核心理论支柱。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 38
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 44
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - economics-of-education
   - educational-planning
@@ -21,9 +21,11 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Return on Investment]]"
   - "[[Social Science as Legitimation Alibi]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Total Factor Productivity]]"
   - "[[Independent Variable]]"
   - "[[Structural Adjustment Programs]]"
+  - "[[Competitiveness]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Variable]]"
@@ -35,6 +37,9 @@ related_concepts:
   - "[[Development Turn in Comparative Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Technical Rationality]]"
+  - "[[Bildung]]"
+  - "[[Navigation Metaphor in Comparative Education]]"
+  - "[[Research Problem]]"
   - "[[Scientific Paradigm]]"
 related_theories:
   - "[[Governing at a Distance]]"
@@ -54,18 +59,19 @@ related_facts:
   - "[[World Bank]]"
   - "[[UNESCO]]"
   - "[[Mediterranean Regional Project]]"
+  - "[[PISA]]"
   - "[[1960 Bellagio Conference]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
-  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Li_2025_HSSC]]"
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 
 # Human Capital Theory
@@ -103,6 +109,7 @@ updated: 2026-09-28
 > | [[Social Science as Legitimation Alibi]] | 机制 | 政治决策者利用人力资本的量化预测与[[Return on Investment\|投资回报]]模型作为推卸行政责任与掩盖价值决断的科学借口。 |
 > | 教育收益率数据库与放贷门槛（Rates of Return Databank & Lending Conditionalities） | 机制 | 世界银行（George Psacharopoulos）建立的涵盖 139 国、1,120 项教育投资收益率估算的大规模数据库，将人力资本理论转化为跨国结构性调整与政策放贷的量化门槛与自指性治理帝国。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]] |
 > | 控制论人力规划（Cybernetic Manpower Planning） | 方法 | 冷战时期[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）为抗衡苏联计划经济竞争，将人力资本理论与控制论相结合的技术官僚规划范式，专注于劳动力市场中长期工程师与技术人员需求的宏观预测。[[Argument_Steiner-Khamsi_2024_CE\|(Popkewitz, 2022; Steiner-Khamsi et al., 2024, p. 541)]] |
+> | 技术官僚绩效[[Disciplina and Doctrina\|规训]]（Technocratic Disciplining Pressure） | 机制 | 经合组织（OECD）等跨国组织将人力资本逻辑转化为直接约束国家研究经费与问责指标的治理手段，迫使比较教育研究从价值反思转向服从于经济竞争力的绩效达标。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 96)]] |
 
 ---
 
@@ -156,6 +163,11 @@ updated: 2026-09-28
 > 在 1960 年代 OECD 推动的地中海地区项目（[[Mediterranean Regional Project]]，MRP）以及英美等国的综合学校（Comprehensive School）运动中，政策制定者深度动用了人力资本理论。一方面，技术官僚依据帕恩斯（Herbert Parnes, 1962）的人力需求模型，测算未来二十年工业升级所需的工程师与技术人员配额，以此作为中央财政向中等与高等教育大幅追加拨款的铁证；另一方面，当经济陷入周期性失业或文凭贬值时，行政部门便以“劳动力市场[[Structural Adjustment Programs|结构调整]]与滞[[Pre-test and Post-test\|后测]]算”为技术由头规避问责，充分展现了该理论作为政策护甲与合法化借口的双重功能。
 > 
 > 在跨国治理维度上，世界银行自 1980 年代起依托 Psacharopoulos 主导的教育收益率大样本跨国数据库，持续将初等教育的高回报率作为强加给第三世界借款国的政策处方，将原本具有高度不确定性的教育过程简化为确定性的金融贴现资产，构成了冷战后国际组织以数据统治教育的经典案例。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
+
+> [!citation-card] 米特论经合组织与国际评测对比较教育的人力资本[[Disciplina and Doctrina|规训]]
+> 随着经合组织（OECD）主导的 [[PISA]] 测试在全球确立了经济导向型教育政策，政府机构不仅日益加强对比较研究经费与研究内容的直接干预，更直接规定项目目标与问责指标，促使比较教育面临以人力资本与经济竞争力为指标的规训压力。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 96)]]
+>
+> *...promoted by the OECD... Governmental agencies not only directly or indirectly intervene in research funding, but also prescribe projects, their targets and indicators of accountability, thus subjecting comparative education to disciplining pressure oriented towards human capital and economic [[Competitiveness]].*
 
 ---
 
@@ -211,6 +223,12 @@ updated: 2026-09-28
 > >
 > > - **技术官僚学派** 认为依托人力预测模型（Parnes, 1962）能精准测算国家人才结构，实现社会资源的最优宏观配置。
 > > - **批判政治学派与马修** 指出人力资本的实证外衣在实质上充当了“[[Social Science as Legitimation Alibi\|合法化借口]]”（Alibi），政客借此推卸政策失误责任，掩饰阶级不平等与意识形态决断（[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou, 2009, pp. 67–68]]）。
+> >
+> > [!axis] 人文[[Bildung|教化]]与批判反思 vs 人力资本与经济竞争力[[Disciplina and Doctrina|规训]]
+> > 围绕比较教育究竟应当维系植根于哲学与历史传统的教化（Bildung）反思与审慎导航，还是彻底沦为服务于国家人力资本积累与经济对标的实用工具展开交锋。
+> >
+> > - **欧陆传统与米特立场** 坚持[[Navigation Metaphor in Comparative Education|比较教育的航海隐喻]]与批判启蒙价值，警惕技术官僚将学科矮化为人力资本与绩效对标的附庸。
+> > - **跨国技术官僚规训** [[OECD|经合组织]]与政府部门通过财政资助与问责指标，强制将[[Research Problem|研究议题]]锚定于提升国家经济人力资本存量与全球竞争力。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 96)]]
 
 > [!critique] 外部批评
 > - **过度学校化与异化** [[Torsten Husén\|托斯滕·胡森]]（Husén, 1982）等学者指出，将教育简化为人力资本积累导致全社会陷入非理性的学校竞赛，加剧青年人的心理异化，并未消解阶级特权。
@@ -223,3 +241,4 @@ updated: 2026-09-28
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 深度剖析人力资本理论如何作为实证[[Scientific Paradigm\|科学范式]]的理论支柱，为战后西方国家教育预算大扩张与第三世界技术援助提供合法化免责借口。
 > - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — 揭示当代全球治理中人力资本话语如何与 [[PISA]] 测评机制紧密咬合，驱动教育系统按照资本回报逻辑重组。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 梳理[[OECD\|经合组织]]与[[World Bank\|世界银行]]七十五年历时制度演变，揭示冷战[[Sputnik Shock 1957\|斯普特尼克冲击]]后国际组织如何将人力资本理论、控制论规划与教育收益率数据库工具化，打造出跨国放贷与指标治理帝国的历史轨迹。
+> - [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示跨国大规模评估（OECD/PISA）崛起后，以人力资本和经济竞争力为导向的技术官僚治理如何对比较教育的研究课题、经费分配与政策咨询施加直接的量化[[Disciplina and Doctrina|规训]]压力。

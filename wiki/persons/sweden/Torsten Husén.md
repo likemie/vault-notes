@@ -8,7 +8,7 @@ summary: "瑞典教育学家与心理测量学家，斯德哥尔摩大学国际�
 type: person
 nationality: sweden
 person_region: "sweden"
-person_related_count: 26
+person_related_count: 29
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -50,6 +50,7 @@ related_facts:
   - "[[IEA]]"
   - "[[UNESCO]]"
   - "[[OECD]]"
+  - "[[Comparative Education Society in Europe]]"
   - "[[TIMSS]]"
   - "[[PISA]]"
 related_arguments:
@@ -132,7 +133,7 @@ updated: 2026-09-29
 >
 > *‘scientific’ research and planning had failed to live up to their reassurances as to the [[Rightness\|righteousness]] and the effectiveness of their policy proposals (Húsen, 1982).*
 
-> [!citation-card] 米特论胡森与IEA在欧洲比较教育边缘的独立轨道
+> [!citation-card] 米特论胡森与[[IEA]]在欧洲比较教育边缘的独立轨道
 > 跨国实证调查（特别是胡森与波斯尔思韦特领导的 IEA 先驱研究）走出了一条独立于大学教席与学术学会的自主道路；这也解释了为何数十年来它们遭遇了文化主义与哲学-历史学派代表学者的漠视乃至公开怀疑。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 94)]]
 >
 > *It must be remembered, however, that empirical and, in particular, quantitative cross-national surveys have long remained a marginal area in comparative education in Europe. Such surveys, notably the pioneer studies of the IEA (International Association for the Evaluation of Educational Achievement), guided by Torsten Husén and Neville Postlethwaite, went their own way, quite remote from university chairs and academic societies. This may be one reason why, for decades, they met with disregard, if not open suspicion, from representatives of the culturalist and philosophical-historical approach.*
@@ -145,7 +146,7 @@ updated: 2026-09-29
 > - **合作者** 阿瑟·福谢（Arthur W. Foshay） — 1950 年代末共同在 [[UNESCO]] 汉堡教育研究所发起成立 [[IEA]]。
 > - **合作者** T. Neville Postlethwaite — 长期在 IEA 紧密合作，共同主编《[[International Education\|国际教育]]百科全书》。
 > - **学术网络** [[C. Arnold Anderson]]、[[Max Eckstein]]、[[Harold Noah]] — 共同参与战后比较教育实证[[Scientific Paradigm\|科学范式]]与跨国测量体系的开拓。
-> - **学术评价者** [[Wolfgang Mitter]] — 欧洲比较教育学会（CESE）领袖，在学科史中系统定评胡森实证测试对北欧与南欧的辐射效应及其在欧洲大学建制边缘的独立轨道。
+> - **学术评价者** [[Wolfgang Mitter]] — [[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）领袖，在学科史中系统定评胡森实证测试对北欧与南欧的辐射效应及其在欧洲大学建制边缘的独立轨道。
 > - **机构节点** [[IEA]] — 长期担任首任主席（1962–1978），确立跨国成就评价制度形态。
 
 ---

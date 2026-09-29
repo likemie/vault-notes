@@ -7,7 +7,7 @@ aliases:
 summary: "源自拉丁语更好之意且以改善社会与人类境况为根本导向的探究旨趣，是贯穿19世纪比较与国际教育发端的统治性认识论母题"
 type: concept
 domain: "comparative-education"
-related_count: 52
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Whiggism]]"
   - "[[Paradigm]]"
   - "[[Scientific Paradigm]]"
+  - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
   - "[[Operationalization]]"
   - "[[Document]]"
@@ -66,6 +67,8 @@ related_persons:
   - "[[Michael Sadler]]"
   - "[[Isaac Kandel]]"
   - "[[Robert Ulich]]"
+  - "[[Wolfgang Mitter]]"
+  - "[[Niklas Luhmann]]"
   - "[[Brian Holmes]]"
 related_facts:
   - "[[Prussian Draft Education Law of 1819]]"
@@ -75,10 +78,11 @@ related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
+  - "[[Argument_Mitter_2009_Europe]]"
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 
 # Educational Meliorism
@@ -260,9 +264,22 @@ updated: 2026-09-28
 
 ---
 
+### 命题六　航海隐喻在审慎疏离中捍卫温和改良功能，跨文化教育推进一线教学微观改良
+
+> [!concept-lens] 政策咨询光谱与微观实践改良维度
+> 该命题探讨现代比较教育政策咨询中如何通过[[Navigation Metaphor in Comparative Education|航海隐喻]]维系“适度改良功能”，以及世纪之交跨文化教育如何将改良主义引向学校微观实践。
+
+> [!claim] [[Wolfgang Mitter\|Mitter, W.]]
+> **政策咨询谱系中适度改良功能的专业坚守** 米特深入梳理欧洲比较教育政策咨询立场光谱指出，在[[Niklas Luhmann|卢曼]]系统论的绝对冷漠疏离与罗宾逊起草全面改革法案的激进直接干预之间，绝大多数欧洲主流学者坚守中间温和立场：他们“明确承认并接受学科的改良主义功能（melioristic function）”，乐于通过提供备选解决方案并预测其可能后果为政策考量提供信息；但同时严格恪守劳威斯倡导的航海隐喻，拒绝对现实决策施加直接霸权式干预。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 95–96)]]
+
+> [!claim] [[Wolfgang Mitter\|Mitter, W.]]
+> **跨文化教育微观实践的一线教学改良诉求** 米特进一步揭示，世纪之交多元文化社会的移民与多民族现实催生了跨文化教育的蓬勃兴起。与传统宏观民族制度比较不同，跨文化教育致力于通过教科书编写、课程革新与班级跨文化交往直接介入微观族群整合与偏见消除，展现出极其强烈的政策导向与一线教学改良主义（pedagogical meliorism）诉求，推动了比较教育向教育现场微观实践的范式合流。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 97–98)]]
+
+---
+
 ### 命题总览
 
-五大命题系统概括了教育改良主义从本体定义、机制分化、历史哲学升华、实证批判到现代技术异化的完整逻辑图谱：
+六大命题系统概括了教育改良主义从本体定义、机制分化、历史哲学升华、实证批判、现代技术异化到航海隐喻适度改良的完整逻辑图谱：
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
@@ -272,6 +289,7 @@ updated: 2026-09-28
 > | **历史哲学涵养命题** | 历史改良主义通过外国历史理解涵养本土哲学态度与民主自省 | 20 世纪历史-哲学传统与教育哲学比较分析 | Sadler, M.; Kandel, I. L.; Kazamias, A. M. |
 > | **史学批判与救赎命题** | 破除实证主义起源神话，重返经验事实求真与伦理关怀的统一 | 比较教育学方法论争鸣与学术传统反思 | Noah, H. & Eckstein, M.; [[Brian Holmes\|Holmes, B.]]; Kazamias, A. M. |
 > | **技术化改良异化命题** | 科学范式清洗道德辞令的同时，将改良主义异化为服务国家规划与效能控制的技术改良主义 | 战后比较教育科学化转型、国家规划理性与政策咨询分析 | Mattheou, D.; Noah, H. & Eckstein, M.; Holmes, B. |
+> | **政策咨询与实践改良命题** | 坚守航海隐喻中立预测的适度改良功能，结合跨文化微观教学改良诉求 | 政策咨询伦理边界厘定与多元文化学校教学革新分析 | [[Wolfgang Mitter\|Mitter, W.]] |
 
 ---
 
@@ -284,7 +302,8 @@ updated: 2026-09-28
 > - **1830–1850 — 民族国家建制与行政-政治改良双轨分化阶段** [[Victor Cousin\|库森]]以国家公共资源法哲学主笔 1833 年[[Guizot Law of 1833\|基佐法案]]，开创欧陆实定法直接转置范式；[[Horace Mann\|霍勒斯·曼]]发表《[[Seventh Annual Report of the Massachusetts Board of Education\|第七次年度报告]]》，开创北美动用外部实绩作为国内改革政治合法化依据的范式。（pp. 24–34）
 > - **1900–1950 — 历史改良主义与哲学涵养阶段** [[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]开创[[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]]，将改良主义由直接行政借用转向探寻[[Intangible Spiritual Forces\|校外无形精神力量]]，主张通过比较理解涵养哲学态度以服务民主自省与国际主义。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 40, 44–46)]]
 > - **1960年代 — 行为[[Positivism\|实证主义]]批判与“技术改良主义”蜕变阶段** 贝雷迪、诺亚、埃克斯坦与霍姆斯等学者指责历史学派的改良主义充斥主观愿望与道德说教；但[[Scientific Paradigm\|科学范式]]并未放弃改良，而是将改良主义从宏大道德精神理解重构为服务国家五年计划、[[Human Capital Theory\|人力资本]]预测与行政效能控制的“现代技术改良主义（Technocratic Meliorism）”。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 60–64)]]
-> - **2000年代至今 — 比较认识论问题域重构与人道主义传统复兴阶段** 卡洛扬纳基、卡扎米亚斯与考恩等学者系统解构实证主义方法论拜物教，重估改良主义对全人解放与世界治理的崇高承诺，呼吁现代学科重返经验求真与伦理关怀重新熔铸的古典人文灵魂。（pp. 11–13, 33–34）
+> - **1970s–1990s — 政策咨询光谱中的适度改良功能** 面对两德分裂与冷战现实，欧洲主流比较教育学者（如米特、安维勒）在[[Niklas Luhmann|卢曼]]激进疏离与罗宾逊激进干预之间确立温和立场，明确接受比较教育的“适度改良功能（melioristic function）”，以[[Navigation Metaphor in Comparative Education|航海隐喻]]提供方案预测而非操纵决策。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 95–96)]]
+> - **2000年代至今 — 比较认识论重构与跨文化一线微观改良合流** 卡洛扬纳基与卡扎米亚斯系统解构实证主义方法论拜物教，呼吁现代学科重返经验求真与伦理关怀重新熔铸的古典人文灵魂；同时，跨文化教育的崛起将改良主义引向教科书、课程与多元文化族群整合的一线教学论微观实践。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–13, 33–34)]]; [[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 97–98)]]
 
 ---
 
@@ -346,7 +365,9 @@ updated: 2026-09-28
 > | [[Marc-Antoine Jullien]] | 人物 | 开创准科学人道主义改良母题，将经验分类服务于全人道德[[Bildung\|教化]]与世界永久和平。 |
 > | [[Victor Cousin]] | 人物 | 开创欧陆官方行政改良路径，以国家公共资源法哲学将普鲁士经验转化为法国[[Guizot Law of 1833\|基佐法案]]。 |
 > | [[Horace Mann]] | 人物 | 开创北美政治合法化改良路径，将欧洲公学卓越实绩[[Transfer Translation Transformation\|转译]]为击溃国内保守派的论据。 |
+> | [[Wolfgang Mitter]] | 人物 | 在学科史中确立[[Navigation Metaphor in Comparative Education\|航海隐喻]]下“适度改良功能”（melioristic function）的政策咨询伦理，并阐明跨文化教育的一线教学改良诉求。 |
 > | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供改良主义本体定义、大西洋两岸双重机制分化与批判战[[Postpositivism\|后实证主义]]起源神话的系统证据。 |
+> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 系统梳理政策咨询光谱中航海隐喻对适度改良功能的坚守，以及跨文化教育一线实践改良进路。 |
 
 ---
 
@@ -356,3 +377,4 @@ updated: 2026-09-28
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 考证教育改良主义在 19 世纪大西洋两岸比较教育发端期的统摄地位，系统揭示其实定法直接转置与本土政治合法化论证的双重演进机制，批判战[[Postpositivism\|后实证主义]]对早期改良探究的贬抑神话。
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] — 梳理[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]等历史学派学者的历史改良主义进路，探讨外国探究涵养本土哲学态度与民主自省的机制，同时反思改良诉求与历史客观性之间的张力及[[Whiggism\|辉格史观]]风险。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 揭示古典历史比较学派将改良主义与唯心主义、[[Intangible Spiritual Forces\|无形精神力量]]相绑定的思想前提，剖析战后实证[[Scientific Paradigm\|科学范式]]对历史道德说教的清算，以及自身向服务国家五年计划与技术官僚效能控制的技术改良主义（Technocratic Meliorism）的深层蜕变。
+> - [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，系统厘清了比较教育政策咨询立场光谱中坚守“适度改良功能”（melioristic function）的[[Navigation Metaphor in Comparative Education|航海隐喻]]定位，并剖析了世纪之交跨文化教育兴起所带来的一线教学与多元文化整合改良进路。

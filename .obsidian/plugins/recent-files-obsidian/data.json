@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Policy Borrowing",
+      "path": "wiki/concepts/comparative-education/Policy Borrowing.md"
+    },
+    {
       "basename": "Argument_Mitter_2009_Europe",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mitter_2009_Europe.md"
+    },
+    {
+      "basename": "Educational Meliorism",
+      "path": "wiki/concepts/comparative-education/Educational Meliorism.md"
     },
     {
       "basename": "Attrition",
@@ -191,14 +199,6 @@
     {
       "basename": "World Society Theory",
       "path": "wiki/theories/comparative-education/World Society Theory.md"
-    },
-    {
-      "basename": "Dependency Theory",
-      "path": "wiki/theories/comparative-education/Dependency Theory.md"
-    },
-    {
-      "basename": "Educational Level",
-      "path": "wiki/concepts/sociology-of-education/Educational Level.md"
     }
   ],
   "omittedPaths": [],
