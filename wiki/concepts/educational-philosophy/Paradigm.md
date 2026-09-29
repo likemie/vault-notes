@@ -10,7 +10,7 @@ aliases:
 summary: "研究共同体共享的世界观、信念体系与原则集合，涵盖本体论、认识论与方法论承诺，决定何为合法的科学知识；在比较教育百年脉络中历经历史文化全景、实证主义论战与当代多元自创生范式重构。"
 type: concept
 domain: "educational-philosophy"
-related_count: 50
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[National Character]]"
   - "[[Paradigm Wars]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Intercultural Education]]"
   - "[[Research Question]]"
   - "[[Falsification]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
@@ -71,7 +72,8 @@ related_persons:
   - "[[Niklas Luhmann]]"
   - "[[Jurgen Schriewer]]"
   - "[[Mark Schneider]]"
-related_facts: []
+related_facts:
+  - "[[Positivist Dispute in German Sociology]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Mitter_2009_Europe]]"
@@ -181,7 +183,7 @@ updated: 2026-09-29
 > 揭示比较教育作为跨学科领域，其范式更迭如何映射哲学社会学思潮的演进，并在各大学重镇中呈现差异化的建制轨迹。
 
 > [!claim] [[Wolfgang Mitter|Mitter, W.]]
-> **比较教育百年历经三大标志性理论范式阶段** 沃尔夫冈·米特系统梳理了欧洲比较教育的百年范式更迭：第一阶段（1920s–1950s）由汉斯与[[Friedrich Schneider|弗里德里希·施奈德]]所主导的**宏大历史文化全景与精神[[Scientific Paradigm|科学范式]]**统摄，深究[[National Character|国民性格]]与驱动力（[[Theories of the Driving Forces|Triebkräfte]]）；第二阶段（1960s–1980s）卷入[[Karl Popper|卡尔·波普尔]]批判理性主义与[[Jürgen Habermas|尤尔根·哈贝马斯]][[Critical Theory|批判理论]]之间的**实证主义争论（Positivismusstreit）**，催生了以[[Brian Holmes|布莱恩·霍姆斯]][[Problem Approach|问题法]]为代表的[[Critical Dualism|批判二元论]]范式；第三阶段（1990s 至今）则在现代主义与[[Postmodernism|后现代主义]]、斯坦福世界体系普遍主义与文化[[Pluralism|多元主义]]对峙中走向**多元分化范式**，并由施里维尔开创了结合[[Niklas Luhmann|卢曼]]系统[[Autopoiesis|自创生]]与意义[[Externalization|外化]]的比较新范式。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–94)]]
+> **比较教育百年历经三大标志性理论范式阶段** 沃尔夫冈·米特系统梳理了欧洲比较教育的百年范式更迭：第一阶段（1920s–1950s）由汉斯与[[Friedrich Schneider|弗里德里希·施奈德]]所主导的**宏大历史文化全景与精神[[Scientific Paradigm|科学范式]]**统摄，深究[[National Character|国民性格]]与驱动力（[[Theories of the Driving Forces|Triebkräfte]]）；第二阶段（1960s–1980s）卷入[[Karl Popper|卡尔·波普尔]]批判理性主义与[[Jürgen Habermas|尤尔根·哈贝马斯]][[Critical Theory|批判理论]]之间的**[[Positivist Dispute in German Sociology|实证主义争论]]（Positivismusstreit）**，催生了以[[Brian Holmes|布莱恩·霍姆斯]][[Problem Approach|问题法]]为代表的[[Critical Dualism|批判二元论]]范式；第三阶段（1990s 至今）则在现代主义与[[Postmodernism|后现代主义]]、斯坦福世界体系普遍主义与文化[[Pluralism|多元主义]]对峙中走向**多元分化范式**，并由施里维尔开创了结合[[Niklas Luhmann|卢曼]]系统[[Autopoiesis|自创生]]与意义[[Externalization|外化]]的比较新范式。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–94)]]
 
 > [!claim] Mitter, W.
 > **欧洲学术传统坚守文化历史主干并抵抗纯实证量化异化** 尽管北美战后迅速确立以量化测量与行为主义为核心的实证范式，欧洲比较教育主流始终牢固锚定在以历史考证与文化主义为核心的质性阐释范式中；大规模跨国量化测评长期游离于欧洲比较教育学科核心建制之外，印证了多范式在不同地缘知识地貌中的独立韧性。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 94)]]
@@ -203,9 +205,9 @@ updated: 2026-09-29
 
 > [!dev-timeline] 概念演变
 > - **1962 — 库恩科学哲学奠基** [[Thomas Kuhn|托马斯·库恩]]出版《科学革命的结构》，确立常规科学、异常、危机与范式转换理论，打破了逻辑[[Positivism|实证主义]]平稳线性积累的科学进步观。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
-> - **1960s–1980s — 社会科学实证主义大论战与比较教育方法转向** 德国社会学界爆发波普尔与[[Jürgen Habermas|哈贝马斯]]的实证主义争论（Positivismusstreit），新马克思主义批判兴起；比较教育学界以[[Brian Holmes|布莱恩·霍姆斯]]引入波普尔[[Critical Dualism|批判二元论]]为契机，在伦敦大学 IOE 掀起文化主义与实证主义[[Problem Approach|问题法]]的激烈范式论战。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
+> - **1960s–1980s — 社会科学实证主义大论战与比较教育方法转向** 德国社会学界爆发波普尔与[[Jürgen Habermas|哈贝马斯]]的[[Positivist Dispute in German Sociology|实证主义争论]]（Positivismusstreit），新马克思主义批判兴起；比较教育学界以[[Brian Holmes|布莱恩·霍姆斯]]引入波普尔[[Critical Dualism|批判二元论]]为契机，在伦敦大学 IOE 掀起文化主义与实证主义[[Problem Approach|问题法]]的激烈范式论战。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
 > - **1980s–1990s — 教育研究中的“[[Paradigm Wars|范式战争]]”与[[Mixed Methods Research|混合方法]]调和** 教育学术界在定量实证范式与质性[[Constructivist Paradigm|建构主义范式]]之间展开长达十余年的“范式战争”（Paradigm Wars）；随后[[Mixed Methods Research|混合方法研究]]以[[Pragmatic Paradigm|实用主义]]（Pragmatism）为哲学底座崛起，试图架桥弥合二元对立。（Gage, 1989; Tashakkori & Teddlie, 1998）
-> - **1990s 至今 — 后现代解构、系统论[[Autopoiesis|自创生]]与跨文化融合** 斯坦福[[World-Systems Theory|世界体系理论]]、后现代文化[[Pluralism|多元主义]]与[[Niklas Luhmann|尼克拉斯·卢曼]]的自创生系统论（Autopoietic System Theory）进入比较教育；施里维尔开创意义[[Externalization|外化]]比较范式，同时比较教育与多民族移民社会的跨文化教育实现范式合流。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94, 97–98)]]
+> - **1990s 至今 — 后现代解构、系统论[[Autopoiesis|自创生]]与跨文化融合** 斯坦福[[World-Systems Theory|世界体系理论]]、后现代文化[[Pluralism|多元主义]]与[[Niklas Luhmann|尼克拉斯·卢曼]]的自创生系统论（Autopoietic System Theory）进入比较教育；施里维尔开创意义[[Externalization|外化]]比较范式，同时比较教育与多民族移民社会的[[Intercultural Education|跨文化教育]]实现范式合流。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94, 97–98)]]
 
 ---
 
@@ -253,4 +255,4 @@ updated: 2026-09-29
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统解构库恩范式理论、科学革命循环、[[Incommensurability|不可通约性]]论辩及其对教育研究多范式格局与方法论选择的深远影响。
-> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 宏观审视 20 世纪欧洲比较教育从宏大历史文化全景、[[Positivism|实证主义]]争论（Positivismusstreit）到当代后现代与[[Niklas Luhmann|卢曼]][[Autopoiesis|自创生]]系统论的范式更迭全景。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 宏观审视 20 世纪欧洲比较教育从宏大历史文化全景、[[Positivism|实证主义]]争论（[[Positivist Dispute in German Sociology|Positivismusstreit]]）到当代后现代与[[Niklas Luhmann|卢曼]][[Autopoiesis|自创生]]系统论的范式更迭全景。

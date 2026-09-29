@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪前中期主导欧洲比较教育学术研究的人文主义古典范式，由弗里德里希·施奈德与尼古拉斯·汉斯奠立；该理论主张在民族国家教育体系的多样性表象背后，探寻由民族性格、地理环境、经济生产、宗教信仰与文化哲学构成的深层驱动力（Triebkräfte），揭示国家教育形态的历史发生学机制与内在趋同性。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 22
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -48,6 +48,7 @@ related_persons:
   - "[[Wolfgang Mitter]]"
   - "[[Brian Holmes]]"
 related_facts:
+  - "[[Positivist Dispute in German Sociology]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
@@ -136,7 +137,7 @@ updated: 2026-09-29
 > [!dev-timeline] 驱动力理论的学术演变脉络
 > - **1900s — 思想萌芽：Sadler 的文化背景论** [[Michael Sadler|迈克尔·萨德勒]]指出研究外国教育必须研究生活与社会背景，开启了从关注法令向关注深层社会精神动因的转向。
 > - **1930s–1940s — 体系成熟：Schneider 的 Triebkräfte 与 Hans 的因素体系** 施奈德（1947）与汉斯（1949）分别完成驱动力理论的集大成著作，主导了二战前后欧洲比较教育的“宏大历史文化全景”[[Paradigm|范式]]。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 93)]]
-> - **1960s–1970s — 科学化冲击与[[Positivism|实证主义]]争论** 伴随[[Brian Holmes|布莱恩·霍姆斯]]（[[Brian Holmes]]）的[[Problem Approach|问题法]]、北美诺亚与埃克斯坦的[[Scientific Method|经验科学]]化，以及德国实证主义论战（Positivismusstreit），驱动力理论因其分类体系的思辨性与难以量化检验而逐渐淡出实证研究主流。
+> - **1960s–1970s — 科学化冲击与[[Positivism|实证主义]]争论** 伴随[[Brian Holmes|布莱恩·霍姆斯]]（[[Brian Holmes]]）的[[Problem Approach|问题法]]、北美诺亚与埃克斯坦的[[Scientific Method|经验科学]]化，以及德国实证主义论战（[[Positivist Dispute in German Sociology|Positivismusstreit]]），驱动力理论因其分类体系的思辨性与难以量化检验而逐渐淡出实证研究主流。
 > - **1990s 至今 — 文化主义复兴与历史脉络重估** 面对大规模测评（[[PISA]]）引发的去情境化指标泛滥，比较教育史家重新发掘驱动力理论的人文主义价值，将其视为开展文化[[Rich and Thick Description|深描]]与抵御技术官僚简单比对的核心经典思想资源。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 98–99)]]
 
 ---

@@ -9,7 +9,7 @@ summary: "伦敦大学国王学院比较教育学讲座教授，欧洲比较教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -49,6 +49,7 @@ related_persons:
 related_facts:
   - "[[Comparative Education Society in Europe]]"
   - "[[Comparative and International Education Society]]"
+  - "[[Positivist Dispute in German Sociology]]"
   - "[[1970s Methodology Debates in Comparative Education]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
@@ -85,7 +86,7 @@ updated: 2026-09-29
 > - **1953** **执教伦敦国王学院确立英国双子学术中枢** 进入伦敦大学国王学院（King's College London）教育系任教，随后开辟国王学院比较教育学教研中心并升任讲座教授。米特（[[Wolfgang Mitter]]）指出，国王学院与伦敦大学教育研究院（IOE）共同构成了战后英国比较教育教学与科研的核心网络。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90)]]
 > - **1958** 出版里程碑跨国导论教材《其他学校与我们》（*Other Schools and Ours*），以文化语境主义为导向，成为战后欧美最具影响力的比较教育著作之一。
 > - **1961–1963** **参与创立[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）与推进学术建制** 参与创立[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE），坚守跨国学者个人会员制以保障学术超政治独立性；后主导建立英国[[Comparative and International Education Society\|比较与国际教育学会]]（BCIES），推动欧洲学者的跨国学术建制化。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 91–92)]]
-> - **1967** **发表反预测长文挑起英格兰实证论辩** 在《比较教育》（*Comparative Education*）发表经典论辩长文，对[[Brian Holmes\|布赖恩·霍姆斯]]的[[Problem Approach\|问题法]]与“预测作为科学划界标准”发起猛烈清算，拉开“金—霍姆斯预测大论战”序幕。米特指出，这场交锋深嵌于席卷全欧的[[Positivism|实证主义]]争论（Positivismusstreit）之中，折射出金坚守的文化语境传统与霍姆斯[[Critical Dualism|批判二元论]]之间的深刻张力。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 63–64)]]；[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 92–93)]]
+> - **1967** **发表反预测长文挑起英格兰实证论辩** 在《比较教育》（*Comparative Education*）发表经典论辩长文，对[[Brian Holmes\|布赖恩·霍姆斯]]的[[Problem Approach\|问题法]]与“预测作为科学划界标准”发起猛烈清算，拉开“金—霍姆斯预测大论战”序幕。米特指出，这场交锋深嵌于席卷全欧的[[Positivism|实证主义]]争论（[[Positivist Dispute in German Sociology|Positivismusstreit]]）之中，折射出金坚守的文化语境传统与霍姆斯[[Critical Dualism|批判二元论]]之间的深刻张力。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 63–64)]]；[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 92–93)]]
 > - **1968** 出版方法论代表作《比较研究与教育决策》（*Comparative Studies and Educational Decision*），系统确立[[Policy Science in Comparative Education\|政策科学]]与“关键决策时刻”操作框架。
 > - **1970年代初** 领衔大规模跨国后义务教育研究项目（Post-Compulsory Education），为西欧多国政府与国际组织提供宏观政策咨询。
 > - **1979–1980** 在英格兰比较教育“方法论大分裂”（the fracturing）中公开撰文试图[[Disciplina and Doctrina\|规训]]玛格丽特·斯科特福德·阿彻的结构社会学研究，引发学界关于学科边界守旧性与排他性的深度反思。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 329)]]
@@ -151,7 +152,7 @@ updated: 2026-09-29
 > *Holmes' assertion of prediction as a demarcation criterion of science provoked a long and fierce methodological controversy with Edmund King, who emphasized that human affairs are characterized by free will and historical contingency.*
 
 > [!citation-card] 米特论金代表的伦敦文化主义传统与实证论争
-> 米特（[[Wolfgang Mitter]]）在梳理欧洲比较教育学科演进时指出，受德国社会学实证主义争论与批判理性主义的冲击，战后伦敦比较教育学界内部爆发了深层的[[Epistemology|认识论]]博弈。长期以来，伦敦大学教育研究院与国王学院由汉斯、劳威斯以及国王学院的埃德蒙·金等人维系着深厚的文化主义传统；而在 1960 至 1980 年代，霍姆斯力推以[[Critical Dualism|批判二元论]]为基础的实证主义[[Problem Approach|问题法]]，引发了持续的方法论论辩。金对物理学式预测的坚决抵制，维系了英格兰学界对文化背景与行动者复杂性的深层敏感性。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90, 92–93)]]
+> 米特（[[Wolfgang Mitter]]）在梳理欧洲比较教育学科演进时指出，受[[Positivist Dispute in German Sociology|德国社会学实证主义争论]]与批判理性主义的冲击，战后伦敦比较教育学界内部爆发了深层的[[Epistemology|认识论]]博弈。长期以来，伦敦大学教育研究院与国王学院由汉斯、劳威斯以及国王学院的埃德蒙·金等人维系着深厚的文化主义传统；而在 1960 至 1980 年代，霍姆斯力推以[[Critical Dualism|批判二元论]]为基础的实证主义[[Problem Approach|问题法]]，引发了持续的方法论论辩。金对物理学式预测的坚决抵制，维系了英格兰学界对文化背景与行动者复杂性的深层敏感性。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90, 92–93)]]
 >
 > *The Institute of Education and King's College London had long held a culturalist tradition represented by Hans, Lauwerys, and Edmund King at King's College; however, in the 1960s to 1980s, [[Brian Holmes]] promoted a positivist 'critical dualism' and problem approach, igniting continuous epistemological controversies across London.*
 

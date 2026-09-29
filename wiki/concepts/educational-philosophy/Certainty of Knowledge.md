@@ -10,7 +10,7 @@ aliases:
 summary: "关于知识本质的底层认知假设与哲学追求。在西方思想史中体现为以数学和逻辑为范式追求客观永恒真知的文化传统；在教育心理学中则是衡量个体认识论成熟度（绝对固定 vs 相对演变）的核心维度，实证表明其独立负向预测学业成绩并受学科选择与社会化的双重塑造。"
 type: concept
 domain: "educational-philosophy"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Disciplinary Socialization]]"
   - "[[Hypothesis]]"
   - "[[Task Structure]]"
+  - "[[Intercultural Education]]"
   - "[[Ontology]]"
   - "[[Heterogeneity]]"
   - "[[Epistemological Beliefs]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 
 # Certainty of Knowledge
@@ -232,7 +233,7 @@ updated: 2026-09-28
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **文化哲学根基命题** | 知识的确定性是西方科学与哲学传统的根基，追求超越感官的客观真理 | 跨文化教育比较、中西学习传统哲学溯源 | Li |
+> | **文化哲学根基命题** | 知识的确定性是西方科学与哲学传统的根基，追求超越感官的客观真理 | [[Intercultural Education\|跨文化教育]]比较、中西学习传统哲学溯源 | Li |
 > | **心理认知维度命题** | 知识确定性是衡量个体认识论成熟度的连续谱系，决定元认知策略与高阶学业表现 | 学习心理学、阅读理解、认识论认知干预 | Hofer & Pintrich; Cartiff et al. |
 > | **学业与学科双重塑造命题** | 确定性信念独立负向预测毕业成绩，并在大学专业中表现出“先验自我选择—后继学科社会化”双重机制 | 大规模纵向评估、高等教育选拔与学科文化研究 | Trautwein & Lüdtke |
 > | **办学导向与性别分化命题** | 独立学校思辨课程与女性认识方式显著促进对知识不确定性的包容 | 办学模式比较、性别差异与认识论发展 | Lodewyk |

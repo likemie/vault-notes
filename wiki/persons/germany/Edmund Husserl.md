@@ -40,10 +40,10 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Correlational Research]]"
 related_persons:
-  - "[[Mark Schneider]]"
   - "[[Immanuel Kant]]"
   - "[[René Descartes]]"
   - "[[Alfred Schutz]]"
+  - "[[Wilhelm Dilthey]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
@@ -53,7 +53,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 
 # Edmund Husserl
@@ -80,7 +80,7 @@ updated: 2026-09-28
 > - **1859年** 出生于奥地利帝国摩拉维亚的普罗斯尼茨（Proßnitz，现捷克普罗斯捷约夫）一个德语犹太中产家庭。
 > - **1876–1883年** 先后在莱比锡大学、柏林大学和维也纳大学攻读数学、天文与物理。期间听取威廉·冯特（Wilhelm Wundt）的哲学讲座，并结识托马斯·加里格·马萨里克（[[Theory of Mind\|ToM]]áš Garrigue Masaryk）。1883年在维也纳大学师从利奥·柯尼希斯贝格尔（Leo Königsberger）获得数学博士学位，论文为《变分法理论的贡献》（*Beiträge zur Variationsrechnung*）。
 > - **1884–1886年** 在维也纳大学旁听弗朗茨·布伦塔诺（Franz Brentano）的哲学与经验心理学讲座，深受其意向性概念启发，决意终身转向哲学研究。
-> - **1886–1887年** 受布伦塔诺推荐追随卡尔·施图姆普夫（Carl Stumpf）前往哈勒大学，于1887年完成大学授课资格论文（Habilitation）《论数的概念》（*Über den Begriff der Zahl*）。同年与马尔维娜·施泰因[[Mark Schneider\|施奈德]]（Malvine Steinschneider）结婚并改信基督教路德宗。
+> - **1886–1887年** 受布伦塔诺推荐追随卡尔·施图姆普夫（Carl Stumpf）前往哈勒大学，于1887年完成大学授课资格论文（Habilitation）《论数的概念》（*Über den Begriff der Zahl*）。同年与马尔维娜·施泰因施奈德（Malvine Steinschneider）结婚并改信基督教路德宗。
 > - **1887–1901年** 在哈勒大学担任无薪私人讲师（Privatdozent）。1891年发表《算术哲学》（*Philosophie der Arithmetik*），1894年遭遇哥特洛布·弗雷格（Gottlob Frege）针对该书心理学主义立场的严厉书评，促使其深刻反思并转向纯粹逻辑研究。
 > - **1900–1901年** 出版两卷本《逻辑研究》（*Logical Investigations*），系统性驳斥心理学主义，确立纯粹逻辑的客观理想性，标志着[[Phenomenology\|现象学]]作为独立哲学校派的正式诞生。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 2]]
 > - **1901–1916年** 任教于哥廷根大学，期间形成哥廷根现象学圈子。1913年发表《纯粹现象学和现象学哲学的观念第一卷》（*Ideas I*），确立“先验现象学”纲领，将意识阐发为万物意义的源泉，并系统阐发[[Epoché\|悬置]]（epoché）方法。
@@ -178,7 +178,7 @@ updated: 2026-09-28
 >   - **赫尔曼·凡·布雷达（Herman Van Breda）** 比利时方济各会修士，在二战前夕将胡塞尔手稿密运至鲁汶，成立胡塞尔档案馆。
 > - **批评者／论敌**
 >   - **哥特洛布·弗雷格（Gottlob Frege）** 现代逻辑奠基人，其1894年发表的批评促使胡塞尔清算心理学主义。
->   - **威廉·狄尔泰（Wilhelm Dilthey）** 历史主义哲学家，胡塞尔撰写《哲学作为严格的科学》批判其历史主义世界观中的相对主义危机。
+>   - **[[Wilhelm Dilthey|威廉·狄尔泰]]（Wilhelm Dilthey）** 历史主义哲学家，胡塞尔撰写《哲学作为严格的科学》批判其历史主义世界观中的相对主义危机。
 >   - **海因里希·李凯尔特（Heinrich Rickert）** 新[[Immanuel Kant\|康德]]主义者，围绕科学奠基与价值哲学展开论辩。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 2]]
 
 ---

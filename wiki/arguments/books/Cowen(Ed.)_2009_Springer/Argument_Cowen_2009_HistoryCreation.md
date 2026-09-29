@@ -7,7 +7,7 @@ title: "Argument_Cowen_2009_HistoryCreation"
 argument_key: "Argument_Cowen_2009_HistoryCreation"
 argument_display_title: "On History and on The Creation of Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -64,6 +64,7 @@ related_persons:
 related_facts:
   - "[[Comparative Education Society in Europe]]"
   - "[[Comparative and International Education Society]]"
+  - "[[World Council of Comparative Education Societies]]"
   - "[[UNESCO]]"
 related_arguments: []
 sources:
@@ -183,7 +184,7 @@ updated: 2026-09-29
 
 > [!evidence-grid] 学科史研究结构性困境的文献与案例证据
 > - **体制激励的倒错** 青年学者深知从事档案开掘难以产出高频指标，口述史虽有[[Gita Steiner-Khamsi\|吉塔·斯泰纳-哈姆西]]（Gita Steiner-Khamsi）等人开创先河，但[[Comparative Education Society in Europe\|欧洲比较教育学会]]（[[Comparative and International Education Society\|Comparative Education Society]] in Europe, CESE）等机构迟迟未能制度化推进。（p.7）
-> - **个案攻坚的沉重代价** 米格尔·佩雷拉（Miguel Pereyra）对 [[Isaac Kandel]] 的深入研究需要耗费巨大心血与长途跨国差旅，中坚学者虽能勉力支撑，但缺乏任何稳定的体制资助；Masemann, Bray & Manzon (2007) 在编纂世界比较教育学会联合会（World Council of Comparative Education Societies, WCCES）通史时的鸣谢词同样直陈此类工程的极度艰辛。（pp.7–8）
+> - **个案攻坚的沉重代价** 米格尔·佩雷拉（Miguel Pereyra）对 [[Isaac Kandel]] 的深入研究需要耗费巨大心血与长途跨国差旅，中坚学者虽能勉力支撑，但缺乏任何稳定的体制资助；Masemann, Bray & Manzon (2007) 在编纂[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（World Council of Comparative Education Societies, WCCES）通史时的鸣谢词同样直陈此类工程的极度艰辛。（pp.7–8）
 > - **资料密度的悬殊差距** 主流史学如 Dalrymple (2007) 依赖全新解密的国家档案，Herman (2006) 依赖浩繁的既有专题文献，Judt (2007) 与 Davies (1997) 的参考书目动辄需要专章篇幅罗列；即便在专门领域史中，Collins (1998)《哲学社会学》、Friedrichs (1970) 或 Bartholomew (1989) 日本科学史的实证密度，亦令比较教育学史相形见绌。（p.8）
 
 > [!exegesis] 坎德尔档案攻坚与 WCCES 通史项目

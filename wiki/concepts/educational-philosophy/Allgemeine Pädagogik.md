@@ -8,7 +8,7 @@ aliases:
 summary: "欧陆尤其是德语区教育科学的奠基性母体学科。起源于哲学与神学传统，以人的教化（Bildung）与教育引导（Erziehung）为核心本体，为比较教育、学校教育学等各应用分支学科提供根本的价值规范、概念范畴与认识论反思，构成抵御技术官僚功利化与纯粹工具性实证主义的理论底座。"
 type: concept
 domain: "educational-philosophy"
-related_count: 24
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,12 +40,15 @@ related_persons:
   - "[[Oskar Anweiler]]"
   - "[[Wolfgang Mitter]]"
   - "[[Dietrich Benner]]"
+  - "[[Wilhelm Dilthey]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
 related_theories:
   - "[[Knowledge Integration]]"
 related_methods:
   - "[[Correlational Research]]"
+related_facts:
+  - "[[Positivist Dispute in German Sociology]]"
 confidence: high
 status: active
 created: 2026-09-29
@@ -149,8 +152,8 @@ updated: 2026-09-29
 
 > [!dev-timeline] 概念演变
 > - **1806 — 科学教育学奠基** 约翰·弗里德里希·赫尔巴特（Johann Friedrich Herbart）出版《从教育目的引出的普通教育学》，标志着普通教育学作为独立科学门类的诞生；其体系以[[Praxis|实践哲学]]（伦理学）规定教育目的，以心理学阐明教学途径。
-> - **19世纪末–20世纪中叶 — 精神科学教育学派的深化** 狄尔泰（Wilhelm Dilthey）、诺尔（Herman Nohl）等人确立精神科学教育学（Geisteswissenschaftliche Pädagogik），将普通教育学巩固为以历史文化理解、生命体验与人的[[Bildung|教化]]为核心的人文科学母体。
-> - **1960s–1980s — 实证论战与[[Comparative Education as a Cross-Sectional Area|交叉领域]]建制重构** 在德国社会学[[Positivism|实证主义]]争论（Positivismusstreit）冲击下，[[Oskar Anweiler|奥斯卡·安维勒]]提出将比较教育定性为横切历史与社会的“[[Comparative Education as a Cross-Sectional Area|交叉领域]]”，推动普通教育学打破封闭思辨，开启跨学科接口。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
+> - **19世纪末–20世纪中叶 — 精神科学教育学派的深化** [[Wilhelm Dilthey|狄尔泰]]（Wilhelm Dilthey）、诺尔（Herman Nohl）等人确立精神科学教育学（Geisteswissenschaftliche Pädagogik），将普通教育学巩固为以历史文化理解、生命体验与人的[[Bildung|教化]]为核心的人文科学母体。
+> - **1960s–1980s — 实证论战与[[Comparative Education as a Cross-Sectional Area|交叉领域]]建制重构** 在德国社会学[[Positivism|实证主义]]争论（[[Positivist Dispute in German Sociology|Positivismusstreit]]）冲击下，[[Oskar Anweiler|奥斯卡·安维勒]]提出将比较教育定性为横切历史与社会的“[[Comparative Education as a Cross-Sectional Area|交叉领域]]”，推动普通教育学打破封闭思辨，开启跨学科接口。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 > - **21世纪初至今 — 抵抗新自由主义指标异化与全球趋同** 面对以跨国大规模评估与可测量[[Performance Indicators|绩效指标]]为代表的全球教育治理，当代学者重拾普通教育学母体传统，捍卫教育活动的不可度量性与伦理尊严。
 
 ---

@@ -22,6 +22,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[State Educational Sovereignty]]"
   - "[[Navigation Metaphor in Comparative Education]]"
+  - "[[Intercultural Education]]"
   - "[[Positivism]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Heterogeneity]]"
@@ -63,20 +64,24 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Marc-Antoine Jullien]]"
+  - "[[Wilhelm Dilthey]]"
   - "[[Joseph Lauwerys]]"
   - "[[Saul B. Robinsohn]]"
+  - "[[Franz Hilker]]"
   - "[[Victor Cousin]]"
   - "[[Horace Mann]]"
   - "[[Matthew Arnold]]"
   - "[[Michael Sadler]]"
   - "[[Nicholas Hans]]"
   - "[[Brian Holmes]]"
+  - "[[Janusz Tomiak]]"
   - "[[Robert Cowen]]"
   - "[[Edmund King]]"
   - "[[Friedrich Schneider]]"
   - "[[Oskar Anweiler]]"
   - "[[Wolfgang Mitter]]"
   - "[[Jurgen Schriewer]]"
+  - "[[Le Thanh Khoi]]"
   - "[[Torsten Husén]]"
   - "[[Karl Popper]]"
   - "[[Jürgen Habermas]]"
@@ -98,6 +103,8 @@ related_facts:
   - "[[UNESCO]]"
   - "[[World Bank]]"
   - "[[Office of Special Inquiries and Reports]]"
+  - "[[Positivist Dispute in German Sociology]]"
+  - "[[World Council of Comparative Education Societies]]"
   - "[[European Qualifications Framework]]"
 related_arguments: []
 sources:
@@ -112,7 +119,7 @@ title: "Argument_Mitter_2009_Europe"
 argument_key: "Argument_Mitter_2009_Europe"
 argument_display_title: "Comparative Education in Europe"
 argument_kind: "book-chapter"
-argument_related_count: 77
+argument_related_count: 84
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -130,7 +137,7 @@ publisher: "Springer"
 > 欧洲作为现代科学、工业技术与公共教育体制的发源地，其比较教育学科在两百年来的形成、大学建制化与跨国扩散中，如何受到贯穿欧洲文明深层张力——多样性与统一性二分法的深刻制约？主要国家的大学教席与独立研究机构呈现怎样的学术地理分布？各级专业学会在学术自主、精英定位与行政实务之间如何竞合格局？学科在百年来经历了怎样的理论[[Paradigm|范式]]更迭？在地缘空间拓展（后殖民转型、冷战阵营对抗与跨区域实证研究）及政策咨询角色（中立的航海图模式、直接的体制干预与国际测评量化[[Disciplina and Doctrina|规训]]）上面临哪些抉择与[[Epistemology|认识论]]危机？（pp.87–89, 98–99）
 
 > [!claim] 核心主张
-> 欧洲比较教育学的百年演进，始终由多样性（以现代民族[[State Educational Sovereignty|国家教育主权]]与个殊学制为载体）与统一性（以共享精神文化遗产与欧洲一体化理想为载体）之间的辩证运动所驱动。在组织建制上，该学科形成了以英、德为双核心并向全欧扩散的学术网络，并在 1961 年通过确立跨国个人会员制创设了以学术自主和精英主义为特征的[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative and International Education Society|Comparative Education Society]] in Europe, CESE）；在理论范式上，欧洲学界始终坚守以历史考证与文化主义为主流的学术传统，未盲从北美的行为主义量化实证范式；在政策咨询定位上，形成了以劳威斯审慎中立的[[Navigation Metaphor in Comparative Education|航海隐喻]]与罗宾逊积极干预的改革规划为两极的光谱；而在当代全球化语境下，该学科正面临[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）等大规模测评带来的经济主义治理压力、跨文化教育的合流挑战以及重返欧洲维度的务实制度转向。（pp.87–88, 91–92, 93–94, 95–96, 98–99）
+> 欧洲比较教育学的百年演进，始终由多样性（以现代民族[[State Educational Sovereignty|国家教育主权]]与个殊学制为载体）与统一性（以共享精神文化遗产与欧洲一体化理想为载体）之间的辩证运动所驱动。在组织建制上，该学科形成了以英、德为双核心并向全欧扩散的学术网络，并在 1961 年通过确立跨国个人会员制创设了以学术自主和精英主义为特征的[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative and International Education Society|Comparative Education Society]] in Europe, CESE）；在理论范式上，欧洲学界始终坚守以历史考证与文化主义为主流的学术传统，未盲从北美的行为主义量化实证范式；在政策咨询定位上，形成了以劳威斯审慎中立的[[Navigation Metaphor in Comparative Education|航海隐喻]]与罗宾逊积极干预的改革规划为两极的光谱；而在当代全球化语境下，该学科正面临[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）等大规模测评带来的经济主义治理压力、[[Intercultural Education|跨文化教育]]的合流挑战以及重返欧洲维度的务实制度转向。（pp.87–88, 91–92, 93–94, 95–96, 98–99）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 19 世纪初至 21 世纪初，欧洲（以英、德为双核辐射全欧）比较教育在大学教席、独立研究所与学术学会中的建制化历程，及其理论范式与政策咨询功能的历史演进。（pp.87–91）
@@ -158,7 +165,7 @@ publisher: "Springer"
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **历史制度分析**<br>[[Historical-Comparative Method]] | 追踪自 19 世纪初[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）、学校督学与教育考察者、威廉·狄尔泰（Wilhelm Dilthey）以来，欧洲比较教育学跨越两个世纪的学科起源、大学教席设立、独立研究所创设与专业学会演进脉络。（pp.87–92） |
+> | **历史制度分析**<br>[[Historical-Comparative Method]] | 追踪自 19 世纪初[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）、学校督学与教育考察者、[[Wilhelm Dilthey\|威廉·狄尔泰]]（Wilhelm Dilthey）以来，欧洲比较教育学跨越两个世纪的学科起源、大学教席设立、独立研究所创设与专业学会演进脉络。（pp.87–92） |
 > | **学术地理绘图**<br>Institutional and Cartographic Mapping | 绘制欧洲学术地理图谱，系统梳理英国、德国、法国、南欧（意、西、希、马耳他）、低地与北欧以及前苏联东欧阵营核心重镇的学者谱系、大学教席与研究所分布。（pp.89–91） |
 > | **理论范式变迁考察**<br>Paradigm Shift Analysis | 划分 20 世纪欧洲比较教育三大理论发展时期（1920s–1950s 宏大历史文化全景、1960s–1980s 德国社会学实证主义争论与新马克思主义、1990s 以后多元竞争），解构文化主义与[[Positivism\|实证主义]]之争。（pp.92–94） |
 > | **政策咨询光谱定位**<br>Policy-Advisory Typology | 以约瑟夫·劳威斯（[[Joseph Lauwerys]]）与索尔·罗宾逊（[[Saul B. Robinsohn\|Saul Robinsohn]]）为两极，构建比较教育政策咨询功能类型学，审视战后西德学者选择审慎立场的制度逻辑，并剖析[[IEA\|国际教育成就评价协会]]（International Association for the Evaluation of Educational Achievement, IEA）与[[PISA\|国际学生评估项目]]（PISA）兴起带来的技术官僚重组。（pp.95–96） |
@@ -166,7 +173,7 @@ publisher: "Springer"
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **[[Document\|文献]]与文本样本** | 涵盖 19 世纪经典著作（Jullien, Dilthey）、20 世纪学科奠基专著（Sadler, Hans, Schneider, Hilker, Lauwerys, Holmes, Robinsohn, King, Anweiler, Schriewer）以及当代前沿文献与学会论文集（1994 哥本哈根、2006 格拉纳达）。（pp.98–99） |
+> | **[[Document\|文献]]与文本样本** | 涵盖 19 世纪经典著作（Jullien, Dilthey）、20 世纪学科奠基专著（Sadler, Hans, Schneider, [[Franz Hilker\|Hilker]], Lauwerys, Holmes, Robinsohn, King, Anweiler, Schriewer）以及当代前沿文献与学会论文集（1994 哥本哈根、2006 格拉纳达）。（pp.98–99） |
 > | **机构与组织样本** | 英国伦敦大学教育研究院（Institute of Education, IOE）、国王学院、牛津大学、剑桥大学；德国汉堡大学、波鸿大学、海德堡大学、[[Leibniz Institute for Educational Research and Educational Information\|德国国际教育研究所]]（Deutsches Institut für Internationale Pädagogische Forschung, DIPF）、[[Max Planck Institute for Human Development\|柏林马克斯·普朗克教育研究所]]、柏林洪堡大学；法国国际教学研究中心（Centre international d'études pédagogiques, CIEP）；[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE）及各国国家、区域和语言学会；国际组织：[[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、[[OECD\|经济合作与发展组织]]（OECD）、国际教育成就评价协会（IEA）、[[World Bank\|世界银行]]（World Bank）。（pp.89–92） |
 > | **历史时空覆盖** | 覆盖 19 世纪拿破仑战争后、一战后、二战后冷战时期、两德统一与东欧剧变、世纪之交欧洲一体化深入推进全周期。（pp.87–98） |
 
@@ -218,8 +225,8 @@ flowchart LR
 >   立足理性主义与[[Enlightenment|启蒙哲学]]，设计了结构严密、指标详尽的标准化[[Questionnaire|问卷]]与指标调查表格，系统收集欧洲各国教育体系的事实与统计数据，试图通过实证证据推动学制协调改进，成为 20 世纪[[Positivism|实证主义]]比较范式的最早先驱。
 > - **教育考察者与学校督学的政策改良进路**
 >   以[[Victor Cousin|维克多·库森]]（Victor Cousin）、[[Horace Mann|霍勒斯·曼]]（Horace Mann）及[[Matthew Arnold|马修·阿诺德]]（Matthew Arnold）等政府督学为代表，远赴国外查阅法案公文、收集统计并访谈教育官员与教师，旨在通过借鉴外国经验服务本国教育立法与学制改良，同时具备将考察所得置于社会政治与文化母体中加以理解的历史解释素养。
-> - **狄尔泰的历史解释学哲学进路（Wilhelm Dilthey）**
->   植根于德语精神科学（Geisteswissenschaften）传统，主张在历史考证与阐释学理解的基础上展开教育体系比较，确立了欧洲比较教育深厚的人文主义底色。（pp.88–89）
+> - **[[Wilhelm Dilthey|狄尔泰]]的历史解释学哲学进路（Wilhelm Dilthey）**
+>   植根于德语精神科学（Geisteswissenschaften）传统，威廉·狄尔泰主张在历史考证与阐释学理解的基础上展开教育体系比较，确立了欧洲比较教育深厚的人文主义底色。（pp.88–89）
 
 ---
 
@@ -230,15 +237,15 @@ flowchart LR
 在大学教席与实体机构层面，英国与德国构成了 20 世纪欧洲比较教育的两大支柱性核心，并在战后逐步向全欧扩散：（pp.89–91）
 
 > [!line-a] 英国学术脉络：从[[Michael Sadler|萨德勒]]遗产到伦敦大学教育研究院知识高地
-> 现代大学比较教育首先在英国生根。[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）推动英国政府创设[[Office of Special Inquiries and Reports|特别查询与报告办公室]]（[[Office of Special Inquiries and Reports]]），以德国为核心参照系开创了系统的比较研究；此后，伦敦大学教育研究院（IOE）全面发扬萨德勒的学术遗产，先后汇聚了约瑟夫·劳威斯（[[Joseph Lauwerys]]）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）、[[Brian Holmes|布莱恩·霍姆斯]]（Brian Holmes）、雅努什·托米亚克（Janusz Tomiak）、[[Robert Cowen|罗伯特·考恩]]（Robert Cowen）与马丁·麦克莱恩（Martin McLean）等代表性学者。与此同时，伦敦国王学院（[[Edmund King|埃德蒙·金]]）、牛津大学（哈尔斯、菲利普斯）与剑桥大学（图拉谢维奇）等名校相继跟进，形成了紧密的学科网络。（pp.88, 89–90）
+> 现代大学比较教育首先在英国生根。[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）推动英国政府创设[[Office of Special Inquiries and Reports|特别查询与报告办公室]]（[[Office of Special Inquiries and Reports]]），以德国为核心参照系开创了系统的比较研究；此后，伦敦大学教育研究院（IOE）全面发扬萨德勒的学术遗产，先后汇聚了约瑟夫·劳威斯（[[Joseph Lauwerys]]）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）、[[Brian Holmes|布莱恩·霍姆斯]]（Brian Holmes）、[[Janusz Tomiak|雅努什·托米亚克]]（Janusz Tomiak）、[[Robert Cowen|罗伯特·考恩]]（Robert Cowen）与马丁·麦克莱恩（Martin McLean）等代表性学者。与此同时，伦敦国王学院（[[Edmund King|埃德蒙·金]]）、牛津大学（哈尔斯、菲利普斯）与剑桥大学（图拉谢维奇）等名校相继跟进，形成了紧密的学科网络。（pp.88, 89–90）
 
 > [!line-b] 德国学术脉络：从天主教人文全景到冷战阵营研究与两德融合
-> 德国比较教育早期主要依靠[[Friedrich Schneider|弗里德里希·施奈德]]（Friedrich Schneider）与弗朗茨·希尔克（Franz Hilker）的个人专著奠基。战后，汉堡大学、马堡大学、海德堡大学、波鸿鲁尔大学（[[Oskar Anweiler|奥斯卡·安维勒]]、阿迪克）、明斯特大学，以及[[Leibniz Institute for Educational Research and Educational Information|德国国际教育研究所]]（DIPF，舒尔策、[[Wolfgang Mitter|沃尔夫冈·米特]]）和[[Max Planck Institute for Human Development|柏林马克斯·普朗克教育研究所]]（罗宾逊、戈尔德施密特）先后设立教席与研究实体。两德统一后，西德部分大学虽因财政紧缩出现教席收缩，但学科重心向东部转移，柏林洪堡大学（[[Jurgen Schriewer|于尔根·施里韦尔]]主持）、莱比锡大学（赫尔纳）与德累斯顿工业大学（瓦特坎普）成为新的学术重镇。（pp.89–90）
+> 德国比较教育早期主要依靠[[Friedrich Schneider|弗里德里希·施奈德]]（Friedrich Schneider）与[[Franz Hilker|弗朗茨·希尔克]]（Franz Hilker）的个人专著奠基。战后，汉堡大学、马堡大学、海德堡大学、波鸿鲁尔大学（[[Oskar Anweiler|奥斯卡·安维勒]]、阿迪克）、明斯特大学，以及[[Leibniz Institute for Educational Research and Educational Information|德国国际教育研究所]]（DIPF，舒尔策、[[Wolfgang Mitter|沃尔夫冈·米特]]）和[[Max Planck Institute for Human Development|柏林马克斯·普朗克教育研究所]]（罗宾逊、戈尔德施密特）先后设立教席与研究实体。两德统一后，西德部分大学虽因财政紧缩出现教席收缩，但学科重心向东部转移，柏林洪堡大学（[[Jurgen Schriewer|于尔根·施里韦尔]]主持）、莱比锡大学（赫尔纳）与德累斯顿工业大学（瓦特坎普）成为新的学术重镇。（pp.89–90）
 
 除了英德双核，全欧范围内的学术机构呈现出多元繁荣格局：（pp.90–91）
 
 > [!feature] 全欧多中心学术版图的区域拓展
-> - **法国中心与独立学派** 塞夫尔的国际教学研究中心（CIEP）在埃德梅·阿廷盖（Edmée Hatinguais）领导下成为核心学术枢纽，后由德博韦、奥利维尔与勒克莱尔接续；黎成魁于 1981 年出版巨著《比较教育》，以宏大文化史与社会学视野开创了法兰西独立学派。（p.90）
+> - **法国中心与独立学派** 塞夫尔的国际教学研究中心（CIEP）在埃德梅·阿廷盖（Edmée Hatinguais）领导下成为核心学术枢纽，后由德博韦、奥利维尔与勒克莱尔接续；[[Le Thanh Khoi|黎成魁]]于 1981 年出版巨著《比较教育》，以宏大文化史与社会学视野开创了法兰西独立学派。（p.90）
 > - **南欧与北欧的制度跃升** 意大利、西班牙、荷兰、比利时以及北欧诸国在[[Torsten Husén|托斯滕·胡森]]（Torsten Husén）跨国研究奠基上迅速发展；希腊在卡扎米亚斯与马特乌推动下确立学术重镇，马耳他紧随其后。（pp.90–91）
 > - **前苏联与东欧阵营探索转型** 冷战时期虽受意识形态制约，苏联、波兰、捷克斯洛伐克、匈牙利仍维系学术探索；东德马克思列宁主义比较教育学随政权瓦解而终结；1990 年代剧变后中东欧学者迅速实现学科重建。（p.91）
 
@@ -261,8 +268,8 @@ flowchart LR
 
 > [!dev-timeline]- 欧洲比较教育百年理论范式更迭阶段
 > - **1920s–1950s — 宏大历史文化全景与精神科学传统** 这一时期由英格兰的[[Nicholas Hans|尼古拉斯·汉斯]]与德国的[[Friedrich Schneider|弗里德里希·施奈德]]（深受天主教思想影响）所构建的宏大历史文化全景所主导，意大利的达尔卡伊斯与西班牙的图斯克茨亦在战后推进类似探索。学者深入考察塑造民族教育体系的历史背景与精神驱动力（driving forces），汉斯所主张的“将每个国家体系置于其历史背景中、研究其与[[National Character|国民性格]]和文化发展的紧密联系”成为这一时期的灵魂注脚。（pp.93–94）
-> - **1960s–1980s — 德国社会学实证主义争论与跨国范式分化** 德国社会学界在[[Karl Popper|卡尔·波普尔]]（Karl Popper）的批判理性主义与[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas）的法兰克福学派[[Critical Theory|批判理论]]之间爆发了著名的实证主义争论（德文：Positivismusstreit）。这场论战迅速席卷欧洲，重塑了比较教育的[[Research Problem|研究议题]]与方法论基础，新马克思主义观点亦进一步拓展了理论视野。在此背景下，伦敦大学教育研究院（IOE）经历了从汉斯、劳威斯的文化主义向布莱恩·霍姆斯（Brian Holmes）实证主义[[Critical Dualism|批判二元论]]的转向；波鸿鲁尔大学则经历了从安维勒的苏联东欧研究向阿迪克的全球化与[[World-Systems Theory|世界体系理论]]转向。（pp.92–93）
-> - **1990s 至今 — 现代主义与[[Postmodernism|后现代主义]]对峙下的多元分化** 呈现为[[Convergence Theory in Comparative Education|趋同理论]]与趋异理论之间的激烈竞争，集中体现为现代主义与后现代主义的抗衡，以及以斯坦福学派为代表的世界体系普遍主义与文化多元主义之间的内在张力。性别研究、教育规划、[[Lifelong Learning|终身学习]]、职业教育以及跨文化教育等新兴领域蓬勃兴起。（p.94）
+> - **1960s–1980s — [[Positivist Dispute in German Sociology|德国社会学实证主义争论]]与跨国范式分化** 德国社会学界在[[Karl Popper|卡尔·波普尔]]（Karl Popper）的批判理性主义与[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas）的法兰克福学派[[Critical Theory|批判理论]]之间爆发了著名的[[Positivist Dispute in German Sociology|德国社会学实证主义争论]]（德文：Positivismusstreit）。这场论战迅速席卷欧洲，重塑了比较教育的[[Research Problem|研究议题]]与方法论基础，新马克思主义观点亦进一步拓展了理论视野。在此背景下，伦敦大学教育研究院（IOE）经历了从汉斯、劳威斯的文化主义向布莱恩·霍姆斯（Brian Holmes）实证主义[[Critical Dualism|批判二元论]]的转向；波鸿鲁尔大学则经历了从安维勒的苏联东欧研究向阿迪克的全球化与[[World-Systems Theory|世界体系理论]]转向。（pp.92–93）
+> - **1990s 至今 — 现代主义与[[Postmodernism|后现代主义]]对峙下的多元分化** 呈现为[[Convergence Theory in Comparative Education|趋同理论]]与趋异理论之间的激烈竞争，集中体现为现代主义与后现代主义的抗衡，以及以斯坦福学派为代表的世界体系普遍主义与文化多元主义之间的内在张力。性别研究、教育规划、[[Lifelong Learning|终身学习]]、职业教育以及[[Intercultural Education|跨文化教育]]等新兴领域蓬勃兴起。（p.94）
 
 理论范式的演进并非均质铺展，而是在各大学学派的微观探索中呈现出断裂与重构：（pp.92–93）
 
@@ -277,7 +284,7 @@ flowchart LR
 地缘政治动荡亦催生了欧洲与北美之间的大规模智力流动，深刻重塑了跨大西洋的学术合作格局。（p.93）
 
 > [!case]- 跨大西洋智力流动与比较教育学派互动
-> 自 1930 年代欧洲知识分子流亡北美避难开始，以[[Isaac Kandel|艾萨克·坎德尔]]、[[Robert Ulich|罗伯特·乌利希]]、[[George Bereday|乔治·贝雷迪]]、[[Harold Noah|哈罗德·诺亚]]、[[Max Eckstein|马克斯·埃克斯坦]]、[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]与汉斯·魏勒为代表的流亡学者，将欧洲深厚的文化历史底蕴带入北美，并反向推动了跨大西洋的深度合作，例如布莱恩·霍姆斯倡议设立的世界比较教育学会联合会（World Council of Comparative Education Societies, WCCES）理论转型委员会。（p.93）
+> 自 1930 年代欧洲知识分子流亡北美避难开始，以[[Isaac Kandel|艾萨克·坎德尔]]、[[Robert Ulich|罗伯特·乌利希]]、[[George Bereday|乔治·贝雷迪]]、[[Harold Noah|哈罗德·诺亚]]、[[Max Eckstein|马克斯·埃克斯坦]]、[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]与汉斯·魏勒为代表的流亡学者，将欧洲深厚的文化历史底蕴带入北美，并反向推动了跨大西洋的深度合作，例如布莱恩·霍姆斯倡议设立的[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（[[World Council of Comparative Education Societies|WCCES]]）理论转型委员会。（p.93）
 
 ---
 
@@ -291,7 +298,7 @@ flowchart LR
 > - **殖民扩张与去殖民地发展中国家教育分化**
 >   英法等宗主国学者将本国教育体系向殖民地的扩张与后殖民遗存转化为研究对象。由于一线考察人员发现传统比较教育教席无法满足实践需求，伦敦大学等重镇分化出独立的发展中国家教育研究所；而海德堡大学（勒尔斯、伦哈特）则成功将发展中国家教育研究吸纳整合于比较教育学科教席之内。（pp.94–95）
 > - **冷战前沿的东西欧社会主义阵营教育对峙**
->   西德学者在铁幕与国家分裂的直接地缘压力下，开创了系统的西-东阵营冲突教育研究，伦敦的托米亚克亦深度参与。以安维勒、弗勒泽、米特等具有中东欧血统的学者为代表，其扎实的第[[Primary and Secondary Documents|一手文献]]考据在冷战结束后被原社会主义阵营学者公认为当时极其珍贵且客观可靠的学术档案。（p.95）
+>   西德学者在铁幕与国家分裂的直接地缘压力下，开创了系统的西-东阵营冲突教育研究，伦敦的[[Janusz Tomiak|托米亚克]]亦深度参与。以安维勒、弗勒泽、米特等具有中东欧血统的学者为代表，其扎实的第[[Primary and Secondary Documents|一手文献]]考据在冷战结束后被原社会主义阵营学者公认为当时极其珍贵且客观可靠的学术档案。（p.95）
 > - **跨越阵营与国界的宏观经验社会学比较项目**
 >   [[Saul B. Robinsohn|索尔·罗宾逊]]（Saul Robinsohn）在柏林马普所主持的《社会进程中的学校改革》项目，首次以明确的社会学视角比较了七个欧洲国家的社会因素对学制改革的结构性影响；埃德蒙·金则针对五个西欧国家开展后义务教育（Post-Compulsory Education）比较研究，深入考察职业教育新趋势对青年进入劳动力市场的影响。
 
@@ -370,7 +377,7 @@ flowchart LR
 > - **统一性与多样性的结构性主轴** 欧洲比较教育学的百年脉络本质上由民族[[State Educational Sovereignty|国家教育主权]]的多样性与欧洲共享精神文化遗产的统一性二分法所驱动，并在当代重构为普遍主义与文化[[Pluralism|多元主义]]的张力。（pp.87–88）
 > - **文化主义与历史传统的顽强主流地位** 欧洲比较教育始终未如北美一般全盘转向行为主义与量化统计，以汉斯、[[Friedrich Schneider|弗里德里希·施奈德]]、考恩、卡扎米亚斯与施里维尔为代表的文化-历史传统始终占据[[Discipline-Based Theory|学科理论]]高地，而大规模测评（[[IEA]]/[[PISA]]）长期游离于学科建制之外。（pp.93–94）
 > - **政策咨询从审慎航海转向技术官僚[[Disciplina and Doctrina|规训]]** 欧洲学界传统上以劳威斯的[[Navigation Metaphor in Comparative Education|航海隐喻]]抵御政治工具化，但在[[OECD|经合组织]]与大规模测评支配下，经济导向的证据治理迫使比较研究直接受制于行政目标与[[Performance Indicators|绩效指标]]。（pp.95–96）
-> - **跨文化融合与欧洲维度的务实转向** 比较教育正成功吸纳微观多民族整合的跨文化教育议程，并在欧盟超国家治理背景下，从抽象欧洲统一哲学走向对欧洲教育政策与跨国实证数据的务实制度分析。（pp.97–98）
+> - **跨文化融合与欧洲维度的务实转向** 比较教育正成功吸纳微观多民族整合的[[Intercultural Education|跨文化教育]]议程，并在欧盟超国家治理背景下，从抽象欧洲统一哲学走向对欧洲教育政策与跨国实证数据的务实制度分析。（pp.97–98）
 
 ---
 

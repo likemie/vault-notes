@@ -4,7 +4,7 @@ aliases: [唯意志论, 唯意志主义, voluntaristic assumption, voluntarist a
 summary: "关于人类本质特性的本体论假设，主张个体是自身行动的自主发起者，具有自由意志、反思意识与创造力，能够在主观意向与社会互动中积极创造并改造其生存环境。"
 type: concept
 domain: "educational-philosophy"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -40,6 +40,7 @@ related_methods:
 related_persons:
   - "[[Rom Harré]]"
   - "[[Thomas Barr Greenfield]]"
+  - "[[Wilhelm Dilthey]]"
   - "[[Carl Rogers]]"
   - "[[Anthony Giddens]]"
   - "[[Pierre Bourdieu]]"
@@ -55,7 +56,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-17
+updated: 2026-09-29
 ---
 
 # Voluntarism
@@ -167,7 +168,7 @@ updated: 2026-09-17
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **19 世纪末 — 精神[[Scientific Autarky\|科学自主]]性觉醒** 威廉·狄尔泰（Wilhelm Dilthey）划分自然科学与精神科学，确立人类心灵体验、自由意志与理解（Verstehen）在人文研究中的核心地位。
+> - **19 世纪末 — 精神[[Scientific Autarky\|科学自主]]性觉醒** [[Wilhelm Dilthey|威廉·狄尔泰]]（Wilhelm Dilthey）划分自然科学与精神科学，确立人类心灵体验、自由意志与理解（Verstehen）在人文研究中的核心地位。
 > - **1960s–1970s — 人本心理学与拟人化运动突破** [[Carl Rogers\|卡尔·罗杰斯]]（Carl Rogers）提出以人为中心的自我实现理论，[[Rom Harré\|罗姆·哈雷]]（[[Rom Harré]]）与保罗·塞考德确立[[Anthropomorphic Model\|拟人化模型]]，向行为主义机械客体观发起正面清算。
 > - **1979 — 社会科学人性坐标经典确立** 伯勒尔与摩根（Burrell & Morgan, 1979）将唯意志论明确定义为[[Subjectivism\|主观主义范式]]的人性基石，与[[Determinism\|决定论]]形成鲜明对照。
 > - **1980s 至今 — 结构与能动性的辩证综合** [[Anthony Giddens\|安东尼·吉登斯]]（[[Anthony Giddens]]）的结构化理论与[[Pierre Bourdieu\|皮埃尔·布迪厄]]的惯习理论尝试超越单纯唯意志论与单纯决定论的二元对立，揭示能动性在结构约束中的生产机制。

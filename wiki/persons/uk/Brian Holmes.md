@@ -8,7 +8,7 @@ summary: "英国著名比较教育学家与科学哲学家，伦敦大学教育�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 55
+person_related_count: 57
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -75,7 +75,9 @@ related_persons:
   - "[[Philip Foster]]"
 related_facts:
   - "[[Comparative Education Society in Europe]]"
+  - "[[World Council of Comparative Education Societies]]"
   - "[[UNESCO]]"
+  - "[[Positivist Dispute in German Sociology]]"
   - "[[National Education in Europe]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
@@ -96,7 +98,7 @@ updated: 2026-09-29
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国比较教育学家、科学哲学家，伦敦大学教育学院（Institute of Education, IOE）比较教育学教授兼系主任（1975–1985），[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）奠基人之一，世界比较教育学会联合会（World Council of Comparative Education Societies, WCCES）前主席。
+> - **身份位置** 英国比较教育学家、科学哲学家，伦敦大学教育学院（Institute of Education, IOE）比较教育学教授兼系主任（1975–1985），[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）奠基人之一，[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（World Council of Comparative Education Societies, WCCES）前主席。
 > - **核心角色** 战后比较教育“科学化运动”三大奠基流派之一（问题学派）的领袖；将[[Karl Popper\|卡尔·波普尔]]批判理性主义与[[John Dewey\|杜威]]反思思维方法论化，将学科重塑为面向未来决策的[[Nomothetic\|通则式]]预测与[[Policy Science in Comparative Education\|政策科学]]。米特（[[Wolfgang Mitter]]）指出，霍姆斯在 1960 至 1980 年代力推以波普尔[[Critical Dualism|批判二元论]]为基础的[[Positivism|实证主义]]转向，在 IOE 内部与汉斯、劳威斯的文化主义传统爆发了持续的[[Epistemology|认识论]]论辩；同时在组织建制上以学者个人会员制创设 CESE 捍卫学术自主，并设立 WCCES 理论转型委员会推动跨大西洋对话。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 91–93)]]
 > - **代表贡献** 创立比较教育“[[Problem Solving\|问题解决]]法（[[Problem Approach]]）”分析程序；提出“批判的二元论（[[Critical Dualism]]）”与教育“文化滞后/时代不同步（Asynchrony）”理论；系统批判老派历史学派的回溯性归因与贝雷迪的经验归纳进路。
 
@@ -118,7 +120,7 @@ updated: 2026-09-29
 > - **1964** **获伦敦大学哲学博士学位奠定[[Problem Approach\|问题法]]哲学基础** 完成博士学位论文，系统将波普尔的[[Critical Dualism\|批判二元论]]、情境逻辑与[[John Dewey\|约翰·杜威]]（[[John Dewey]]）的[[Reflective Thinking\|反思性思维]]理论相熔铸，奠定“[[Problem Solving\|问题解决]]法（Problem Approach）”的理论架构。
 > - **1965** **出版《教育问题：一种比较进路》与跨大西洋方法论围论** 出版方法论里程碑名著《教育问题：一种比较进路》（*Problems in Education: A Comparative Approach*），晋升为伦敦大学比较教育学读者（Reader）。他在书中高调向老派历史学派宣战，断言比较教育必须是一门以[[Nomothetic\|通则式]]“预测”为标志的[[Policy Science in Comparative Education\|政策科学]]，对汉斯、[[Isaac Kandel\|坎德尔]]的回溯性历史归因发起系统挑战，并在伦敦大学教育研究院（IOE）内部引发了实证主义转向与汉斯、劳威斯文化主义传统的[[Epistemology|认识论]]大论辩，同时与[[George Bereday\|乔治·贝雷迪]]、[[Harold Noah\|哈罗德·诺亚]]、[[Max Eckstein\|马克斯·埃克斯坦]]及[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]展开长达十余年的跨大西洋方法论大论战。[[Argument_Kazamias_2009_ForgottenThemes\|(Holmes, 1965: 19–21, 30; Kazamias, 2009: 53–54)]]；[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 92–93)]]
 > - **1975–1985** **执掌伦敦大学教育学院比较教育系主任** 接替荣休的劳威斯，荣任伦敦大学教育学院比较教育学正教授兼系主任（Head of Department），全面确立享誉全球的“伦敦问题学派”，培养了遍布英联邦与国际组织的教育决策专家。
-> - **1977–1983** **主政世界比较教育学会联合会（WCCES）推动国际治理** 当选并连任世界比较教育学会联合会（WCCES）主席，倡议设立 WCCES 理论转型委员会以深化跨大西洋与跨区域方法论对话；深度受聘为[[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、日内瓦[[International Education\|国际教育]]局（International Bureau of Education, IBE）与欧洲委员会高级咨询专家，主持撰写《国际教育系统指南》（*International Guide to Education Systems*, 1979）。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 93)]]
+> - **1977–1983** **主政[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）推动国际治理** 当选并连任世界比较教育学会联合会（WCCES）主席，倡议设立 WCCES 理论转型委员会以深化跨大西洋与跨区域方法论对话；深度受聘为[[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、日内瓦[[International Education\|国际教育]]局（International Bureau of Education, IBE）与欧洲委员会高级咨询专家，主持撰写《国际教育系统指南》（*International Guide to Education Systems*, 1979）。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 93)]]
 > - **1981** **出版《比较教育：方法论的若干思考》深化分析模型** 出版方法论专著《比较教育：方法论的若干思考》（*Comparative Education: Some Considerations of Method*），系统完善涵盖规范模式、体制模式、精神模式与自然环境模式的四维理想类型，深化“文化滞后”与“时代不同步（Asynchrony）”[[Analytic Framework\|分析框架]]。
 > - **1985** **从伦敦大学教育学院荣休** 正式卸任教职与系主任职务。
 > - **1993** **逝世于伦敦与政策科学传统定评** 逝世于英国伦敦，享年 73 岁。[[Robert Cowen\|罗伯特·考恩]]（[[Robert Cowen]]）高度评价其学术生涯，称其为 1960 年代[[Ontology\|本体论]]大论战的中流砥柱，奠定了比较教育作为预测性政策科学的坚实基石。[[Argument_Cowen_2023_CE\|(Cowen, 2023, pp. 328, 333)]]
@@ -136,7 +138,7 @@ updated: 2026-09-29
 >   - **代表著作** *Problems in Education: A Comparative Approach* (1965)。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 53–54)]]
 >   - **关键概念／方法** [[Problem Solving]]、[[Policy Science in Comparative Education]]、文化滞后与[[Critical Dualism\|批判二元论]]。
 >   - **阶段转向** 明确提出“[[Nomothetic\|通则式]]预测优于回顾性解释”，断言科学比较教育的唯一试金石是“预测（prediction）”。
-> - **1970s–1980s — 国际制度化深化与模式完善期** 领导 IOE 比较教育学系与 WCCES，深化规范模式、体制模式、精神模式与自然环境模式四维理想[[Typological Analysis\|类型分析]]。
+> - **1970s–1980s — 国际制度化深化与模式完善期** 领导 IOE 比较教育学系与 [[World Council of Comparative Education Societies|WCCES]]，深化规范模式、体制模式、精神模式与自然环境模式四维理想[[Typological Analysis\|类型分析]]。
 >   - **代表著作** *Comparative Education: Some Considerations of Method* (1981)。
 >   - **关键概念／方法** 理想类型分类法、时代不同步（Asynchrony）。
 >   - **阶段转向** 将问题法系统扩展至第三世界发展中国家教育政策规划与去殖民化现代转型。
@@ -183,7 +185,7 @@ updated: 2026-09-29
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] — 梳理霍姆斯以科学预测为标尺对历史学派发起的实证围剿与[[Paradigm\|范式]]冲击。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 评析霍姆斯运用批判二元论解构美国普遍因果律、以问题法综合历史文化与社会科学的[[Epistemology\|认识论]]建构，以及在官方资助市场的边缘化遭遇。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 引用霍姆斯对巴纳德百科全书式比较调查的极高赞誉与思想史平反。
-> - [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 米特系统考察霍姆斯引入波普尔批判二元论对欧洲比较教育学科的[[Positivism|实证主义]]重塑，梳理其在 IOE 内部与汉斯、劳威斯文化主义传统的认识论论辩，以及联合创立 [[Comparative Education Society in Europe|CESE]] 与 WCCES 理论转型委员会的建制贡献。
+> - [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 米特系统考察霍姆斯引入波普尔批判二元论对欧洲比较教育学科的[[Positivism|实证主义]]重塑，梳理其在 IOE 内部与汉斯、劳威斯文化主义传统的认识论论辩，以及联合创立 [[Comparative Education Society in Europe|CESE]] 与 [[World Council of Comparative Education Societies|WCCES]] 理论转型委员会的建制贡献。
 
 ---
 
@@ -205,7 +207,7 @@ updated: 2026-09-29
 > *Reflecting perhaps the influence of the English (and European) humanistic tradition in comparative education, the problem-solving approach reserved a place for history... Thus, in a way, the Holmesian [[Scientific Method\|scientific approach]] came, in my judgement, closer to satisfying Kazamias appeal for a synthesis of history and social science.*
 
 > [!citation-card] 米特论霍姆斯的[[Positivism|实证主义]]转向与伦敦学派内部论辩
-> 米特（[[Wolfgang Mitter]]）指出，受德国社会学实证主义争论与波普尔批判理性主义的席卷影响，20 世纪 60 至 80 年代伦敦大学教育研究院（IOE）经历了深刻的范式震荡。布莱恩·霍姆斯力推以波普尔批判二元论为基石的[[Problem Approach|问题解决法]]，主张以假说演绎模型与政策预测改造学科，在学院内部同汉斯、劳威斯长期坚守的文化主义与历史传统爆发了持续深入的[[Epistemology|认识论]]论辩。与此同时，霍姆斯在推动跨国组织建制上功勋卓著，不仅在 [[Comparative Education Society in Europe|CESE]] 创立中坚持学者个人会员制以保障学术自主，更在出任 WCCES 主席期间设立理论转型委员会，极大推进了跨大西洋的[[Discipline-Based Theory|学科理论]]互动。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 91–93)]]
+> 米特（[[Wolfgang Mitter]]）指出，受[[Positivist Dispute in German Sociology|德国社会学实证主义争论]]与波普尔批判理性主义的席卷影响，20 世纪 60 至 80 年代伦敦大学教育研究院（IOE）经历了深刻的范式震荡。布莱恩·霍姆斯力推以波普尔批判二元论为基石的[[Problem Approach|问题解决法]]，主张以假说演绎模型与政策预测改造学科，在学院内部同汉斯、劳威斯长期坚守的文化主义与历史传统爆发了持续深入的[[Epistemology|认识论]]论辩。与此同时，霍姆斯在推动跨国组织建制上功勋卓著，不仅在 [[Comparative Education Society in Europe|CESE]] 创立中坚持学者个人会员制以保障学术自主，更在出任 [[World Council of Comparative Education Societies|WCCES]] 主席期间设立理论转型委员会，极大推进了跨大西洋的[[Discipline-Based Theory|学科理论]]互动。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 91–93)]]
 >
 > *Under the influence of the Positivismusstreit, the Institute of Education in London experienced a turn from Hans's and Lauwerys's culturalism to Brian Holmes's positivist 'critical dualism' and problem approach... Holmes co-founded CESE based on individual membership to preserve autonomy, and as WCCES President set up the Theory Transition Committee.*
 
@@ -218,7 +220,7 @@ updated: 2026-09-29
 > - **论辩同行（英国本土）** [[Edmund King|埃德蒙·金]]（[[Edmund King]]） — 就[[Nomothetic\|通则式]]预测[[Policy Science in Comparative Education\|政策科学]] vs 地方生态学语境相对主义展开长达数十年辩鸣；
 > - **论辩同行（美国实证学派）** [[C. Arnold Anderson]]、[[Harold Noah]]、[[Max Eckstein]] — 围绕恒常普遍规律 vs 权变情境法则展开跨大西洋论辩；
 > - **论辩同行** [[George Bereday]] — 就演绎[[Problem Approach\|问题法]] vs 归纳区域研究比较展开跨大西洋大论战；
-> - **史学评价者与学会同行** [[Wolfgang Mitter]] — 评析霍姆斯的[[Positivism|实证主义]]转向及在 [[Comparative Education Society in Europe|CESE]] 与 WCCES 中的学术建制开拓；
+> - **史学评价者与学会同行** [[Wolfgang Mitter]] — 评析霍姆斯的[[Positivism|实证主义]]转向及在 [[Comparative Education Society in Europe|CESE]] 与 [[World Council of Comparative Education Societies|WCCES]] 中的学术建制开拓；
 > - **实证批评对象** [[Isaac Kandel]]、[[Michael Sadler]] — 历史学派代表，被霍姆斯批评缺乏政策预测力；
 > - **机构领导** 伦敦大学教育学院（IOE）、世界比较教育学会联合会（WCCES）。
 

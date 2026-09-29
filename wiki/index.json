@@ -901,6 +901,17 @@
     ]
   },
   {
+    "title": "Intercultural Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Intercultural Education.md",
+    "aliases": [
+      "跨文化教育",
+      "跨文化教育学",
+      "Interkulturelle Pädagogik",
+      "Intercultural Pedagogy"
+    ]
+  },
+  {
     "title": "International Large-Scale Assessments",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/International Large-Scale Assessments.md",
@@ -18909,6 +18920,17 @@
     ]
   },
   {
+    "title": "Le Thanh Khoi",
+    "type": "person",
+    "path": "wiki/persons/france/Le Thanh Khoi.md",
+    "aliases": [
+      "Lê Thành Khôi",
+      "黎成魁",
+      "黎成柯",
+      "Khoi, L. T."
+    ]
+  },
+  {
     "title": "Marc-Antoine Jullien",
     "type": "person",
     "path": "wiki/persons/france/Marc-Antoine Jullien.md",
@@ -18994,6 +19016,17 @@
       "埃德蒙德·胡塞尔",
       "Edmund G. A. Husserl",
       "Edmund Gustav Albrecht Husserl"
+    ]
+  },
+  {
+    "title": "Franz Hilker",
+    "type": "person",
+    "path": "wiki/persons/germany/Franz Hilker.md",
+    "aliases": [
+      "弗朗茨·希尔克",
+      "弗兰茨·希尔克",
+      "希尔克",
+      "Hilker, F."
     ]
   },
   {
@@ -19147,6 +19180,16 @@
     "aliases": [
       "乌尔里希·特劳特温",
       "U. Trautwein"
+    ]
+  },
+  {
+    "title": "Wilhelm Dilthey",
+    "type": "person",
+    "path": "wiki/persons/germany/Wilhelm Dilthey.md",
+    "aliases": [
+      "威廉·狄尔泰",
+      "狄尔泰",
+      "Dilthey, W."
     ]
   },
   {
@@ -19401,7 +19444,7 @@
   {
     "title": "Torsten Husén",
     "type": "person",
-    "path": "wiki/persons/sweden/Torsten Husén.md",
+    "path": "wiki/persons/sweden/Torsten Husén.md",
     "aliases": [
       "托斯滕·胡森",
       "托斯滕·胡森教授",
@@ -19703,6 +19746,17 @@
     "aliases": [
       "伊恩·门特",
       "Menter, I."
+    ]
+  },
+  {
+    "title": "Janusz Tomiak",
+    "type": "person",
+    "path": "wiki/persons/uk/Janusz Tomiak.md",
+    "aliases": [
+      "雅努什·托米亚克",
+      "托米亚克",
+      "Tomiak, J.",
+      "Tomiak, J. J."
     ]
   },
   {
@@ -22522,6 +22576,19 @@
     ]
   },
   {
+    "title": "Positivist Dispute in German Sociology",
+    "type": "fact",
+    "path": "wiki/facts/germany/Positivist Dispute in German Sociology.md",
+    "aliases": [
+      "德意志实证主义大论战",
+      "德国社会学实证主义争论",
+      "实证主义争论",
+      "Positivismusstreit",
+      "German Positivist Dispute",
+      "Positivist Dispute"
+    ]
+  },
+  {
     "title": "TOSCA",
     "type": "fact",
     "path": "wiki/facts/germany/TOSCA.md",
@@ -23197,6 +23264,17 @@
       "World Bank Group",
       "世行",
       "国际复兴开发银行"
+    ]
+  },
+  {
+    "title": "World Council of Comparative Education Societies",
+    "type": "fact",
+    "path": "wiki/facts/global/World Council of Comparative Education Societies.md",
+    "aliases": [
+      "WCCES",
+      "世界比较教育学会联合会",
+      "世界比较教育学社联合会",
+      "World Council of Comparative Education"
     ]
   },
   {
