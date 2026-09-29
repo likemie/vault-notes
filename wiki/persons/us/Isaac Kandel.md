@@ -69,12 +69,14 @@ related_persons:
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[Brian Holmes]]"
+  - "[[Val D. Rust]]"
 related_facts:
   - "[[Australian Council for Educational Research]]"
   - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
+  - "[[Argument_Rust_2009_Reflections]]"
 confidence: medium
 status: draft
 created: 2026-09-05
@@ -193,9 +195,10 @@ updated: 2026-09-29
 > - **极权主义与政治反思** 首次将国家作为核心解释[[Variable\|变量]]，其对法西斯极权教育的跨国揭露成为政治社会学与教育[[Critical Theory\|批判理论]]的经典[[Document\|文献]]。
 > - **机构档案与史学挖掘** 西班牙学者米格尔·佩雷拉（Miguel Pereyra）长期致力于开掘坎德尔散落于大西洋两岸的档案，[[Robert Cowen\|罗伯特·考恩]]（Robert Cowen）借此案例揭示推进高质量学科史研究所面临的巨大现实阻力与制度资助缺失。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] — 卡扎米亚斯全面评析坎德尔的历史哲学唯心主义、国家解释变量与[[Educational Meliorism\|改良主义]]，同时深入剖析其实证派论敌批评与内在史学缺陷。
-> - [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] — 考恩引用佩雷拉对坎德尔档案发掘的现实困境，诊断比较教育史编纂学在制度支持与文献密度上的结构性贫乏。
+> [!evidence-grid-a]- 相关研究索引
+> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 卡扎米亚斯全面评析坎德尔的历史哲学唯心主义、国家解释变量与[[Educational Meliorism|改良主义]]，同时深入剖析其实证派论敌批评与内在史学缺陷。
+> - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 考恩引用佩雷拉对坎德尔档案发掘的现实困境，诊断比较教育史编纂学在制度支持与文献密度上的结构性贫乏。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 拉斯特等学者将坎德尔论教育折射国家深层政治文化抱负的经典命题，确立为两百年比较教育学术史演进中理解国家教育目的的核心基石。
 
 ---
 

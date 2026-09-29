@@ -34,6 +34,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Positivism]]"
   - "[[Variable]]"
+  - "[[Influences Across Cultures]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -44,6 +45,7 @@ related_persons:
   - "[[Victor Cousin]]"
   - "[[Calvin Stowe]]"
   - "[[Henry Barnard]]"
+  - "[[Val D. Rust]]"
 related_facts:
   - "[[Common School Movement]]"
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"
@@ -51,10 +53,11 @@ related_facts:
   - "[[Boston Schoolmasters Controversy]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
+  - "[[Argument_Rust_2009_Reflections]]"
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 
 # Horace Mann
@@ -206,6 +209,9 @@ updated: 2026-09-28
 >
 > *Unlike Jullien’s, the American discourse was only tangentially about comparative education, and like Cousin’s, it was more about foreign education, or to use Fraser’s and Brickman’s terminology, it was Auslandspadagogik.*
 
+> [!citation-card] Rust, Johnstone, & Allaf 论曼在跨文化影响与政策借用史学中的奠基地位
+> 霍勒斯·曼 1844 年的《第七次年度报告》以及卡尔文·斯托（Stowe）、达拉斯·贝奇（Bache）、亨利·巴纳德（Barnard）等人的欧洲考察，决非战后实证主义者所贬抑的“非科学游记故事”，而是 19 世纪大西洋两岸对跨文化教育影响所作的极具学术深度的经验考证。曼通过批判性甄别普鲁士公共教育经验，旨在通过汲取国外先进体制来完善美利坚自由共和国的基础设施，奠定了后世跨国政策借用理论不可割裂的实证史学源流。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124–126)]]
+
 ---
 
 ## 关系网络
@@ -220,6 +226,7 @@ updated: 2026-09-28
 > - **宗教论敌** 加尔文主义正统教会派 抨击曼的无宗派道德教育是在驱逐《圣经》，给公立学校扣上“无神论温床”罪名，要求由教会把持学校。（p. 32）
 > - **政治前驱与精神导师** 约翰·昆西·亚当斯（John Quincy Adams） 美国前总统、国会反奴隶制旗帜，曼在亚当斯病逝后接任其众议院席位，继承其废奴与捍卫人权政治衣钵。
 > - **现代权威研究者** 劳伦斯·克雷明（Lawrence A. Cremin）与罗伯特·唐斯（Robert B. Downs） 著名历史学家与传记作家，系统阐明曼的自由共和教育哲学与传记历史地位。（Cremin, 1957; Downs, 1974）
+> - **比较学术史重构者** [[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust） 阐明曼 1844 年欧洲考察在两百年跨文化制度考证传统中的基石坐标，驳斥实证主义将其贬低为“业余游记”的偏见。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 124–126)]]
 
 ---
 
@@ -245,6 +252,7 @@ updated: 2026-09-28
 
 > [!critique]- 批评索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 记录了保守校长联盟对曼浮光掠影考察外国的猛烈抨击，以及[[Positivism\|实证主义]]学派对其文献缺乏严格[[Variable\|变量]]因果解释的学术评价。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 驳斥战后实证主义派将 19 世纪曼等人的跨大西洋考察贬为粗糙游记的断裂论断，确立其作为政策借用与跨文化影响实证传统的基石地位（pp. 124–126）。
 
 > [!warning] 未解问题与边界
 > - **新教文化偏向与后世多元文化张力** 曼所构想的“超宗派基督教共同道德”本质上植根于新英格兰白人自由派新教文化语境；随着 19 世纪中后期大量爱尔兰与南欧天主教移民涌入，这一理念遭到天主教会对公立学校新教潜意识倾向的强烈抗议，最终促使美国宪政走向更严格的政教分离。
@@ -263,6 +271,9 @@ updated: 2026-09-28
 > | [[Common School Movement]] | 概念 | 作为新英格兰公学运动的灵魂领袖，主导确立公共学校制度信条与师范标准。 |
 > | [[Educational Meliorism]] | 概念 | 将外国教育考察转化为捍卫合众国自由共和政体存续的强大改良动能。 |
 > | [[Policy Borrowing]] | 概念 | 开创以国际成功范例作为国内争议改革合法化论据的经典比较借用路径。 |
+> | [[Influences Across Cultures]] | 概念 | 曼的赴欧考察构成了 19 世纪跨文化影响经验考据与双向流动的核心典范。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 124–125)]] |
 > | [[Auslandspadagogik]] | 概念 | 1844 年《第七次年度报告》构成了 19 世纪美洲外国教育学叙事的划时代[[Document\|文献]]。 |
 > | [[Victor Cousin]] | 人物 | 吸纳其普鲁士报告中的师范建制与国家督导经验，作为自身赴欧考察与改革的先导。 |
+> | [[Val D. Rust]] | 人物 | 阐述曼在跨文化影响与制度借用学术谱系中的先驱地位。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, p. 126)]] |
 > | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供曼的共和教育公理、欧洲考察文本、波士顿校长大论战与合法化借用论证链的系统证据。 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 考据曼 1844 年报告在比较教育学科制度化与跨文化借用传统演进中的坐标。 |

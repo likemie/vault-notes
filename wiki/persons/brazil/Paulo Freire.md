@@ -8,7 +8,7 @@ summary: "巴西著名教育家、哲学家，批判教育学奠基人，以《�
 type: person
 nationality: brazil
 person_region: "brazil"
-person_related_count: 43
+person_related_count: 42
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"

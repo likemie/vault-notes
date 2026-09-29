@@ -27,6 +27,9 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Positivism]]"
   - "[[European Education Space]]"
+  - "[[Intercultural Education]]"
+  - "[[Policy Borrowing]]"
+  - "[[Going Native]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
   - "[[Scientific Paradigm]]"
@@ -39,9 +42,9 @@ related_instruments: []
 related_persons:
   - "[[Wolfgang Mitter]]"
   - "[[Nicholas Hans]]"
+  - "[[Val D. Rust]]"
   - "[[Michael Sadler]]"
   - "[[Joseph Lauwerys]]"
-  - "[[Mark Schneider]]"
 related_facts:
   - "[[National Education]]"
   - "[[Comparative Education Society in Europe]]"
@@ -133,12 +136,16 @@ updated: 2026-09-29
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 米特系统评析施奈德与汉斯共同开创的欧洲宏大历史文化全景范式，阐释其驱动力理论在发掘欧洲统一性与抗衡量化行为主义中的核心地位。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 将施奈德 1931 年创刊的《国际教育学评论》与 1943 年德国教育海外影响考证置于[[Influences Across Cultures|跨文化影响]]研究传统中，确立其在学科建制化与比较学术史中的里程碑地位（pp. 122–123, 126）。
 
 ---
 
 ## 历史评价
 
 米特（[[Wolfgang Mitter]]）从欧洲比较教育两百年演进的宏观高度，系统界定了施奈德的宗师地位与理论贡献。
+
+> [!citation-card] Rust, Johnstone, & Allaf 论施奈德在[[Influences Across Cultures|跨文化影响]]与建制化史中的奠基贡献
+> 施奈德 1931 年创立《[[International Education|国际教育]]学评论》，在创刊号中系统绘制了比较教育学的历史体系与方法边界，为学科制度化确立了规范的学术术语；其 1943 年对德国教育学在海外地位与影响的宏大学术考证，构成了研究[[Intercultural Education|跨文化教育]]影响不可或缺的历史基石，深刻启迪了战后跨国[[Policy Borrowing|政策借用]]与[[Going Native|本土化]]研究。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–123, 126)]]
 
 > [!citation-card] 米特论施奈德与欧洲宏大全景[[Paradigm|范式]]
 > 米特（[[Wolfgang Mitter]]）指出，在 20 世纪 20 年代至 50 年代期间，主导欧洲比较教育学术图景的是“宏大历史文化全景”（grand historical-cultural panorama），这一范式主要由德国的弗里德里希·施奈德与英国的[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）共同奠定。深受传统罗马天主教思想影响的施奈德，展现了对教育史及其驱动力中普遍的、尤其是欧洲维度的深刻洞察。这一流派深入探究各民族教育系统的历史背景与文化动力，确立了欧洲比较教育深厚的人文主义与[[Geisteswissenschaften|精神科学]]主干，有力抵御了战后大西洋彼岸量化行为主义的简单化移植。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]
@@ -152,6 +159,7 @@ updated: 2026-09-29
 > [!person-network] 关系网络
 > - **跨国学派双璧** [[Nicholas Hans]] — 20 世纪前中期（1920s–1950s）欧洲“宏大历史文化全景”流派的代表领袖，分据英德两国遥相呼应，分别以[[Theories of the Driving Forces|驱动力理论]]与三维因素框架奠定文化主义主干。
 > - **史学评价者与学术后继** [[Wolfgang Mitter]] — 系统总结施奈德在德国与欧洲比较教育学史上的奠基地位，并在 [[Leibniz Institute for Educational Research and Educational Information|DIPF]] 延续德国比较教育的建制开拓。
+> - **比较学术史评述者** [[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust） 阐明施奈德创刊与德国教育海外影响考证在跨文化借用学术谱系中的关键坐标。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122–123, 126)]]
 > - **精神源流与历史先驱** [[Michael Sadler]] — 继承萨德勒关于教育深植于民族文化活的精神这一历史人文传统。
 > - **战后欧洲学会同行** [[Joseph Lauwerys]] — 战后共同致力于恢复全欧学者的学术对话，推动 [[Comparative Education Society in Europe|CESE]] 早期欧洲学术共同体理念的萌芽。
 > - **关联学术实体** 萨尔茨堡比较教育研究所（创办人）、慕尼黑大学（教育学教席）、《[[International Education|国际教育]]学评论》（创办人）。
@@ -184,5 +192,7 @@ updated: 2026-09-29
 > | [[State Educational Sovereignty]] | 概念 | 阐明国家教育主权下的多样性与欧洲共同精神遗产统一性之间的二分动态张力。 |
 > | [[Historical-Comparative Method]] | 方法 | 奠定德语区历史发生学与文化解释学相结合的规范化比较[[Paradigm\|研究范式]]。 |
 > | [[Nicholas Hans]] | 人物 | 跨国学派双璧，共同开创 20 世纪前中期欧洲宏大历史文化全景与精神[[Scientific Paradigm\|科学范式]]。 |
-> | [[Wolfgang Mitter]] | 人物 | 系统评析[[Mark Schneider\|施奈德]]在德国大学教席建制与欧洲宏大全景范式中的宗师地位。 |
+> | [[Wolfgang Mitter]] | 人物 | 系统评析施奈德在德国大学教席建制与欧洲宏大全景范式中的宗师地位。 |
+> | [[Val D. Rust]] | 人物 | 阐述施奈德在比较教育学术期刊制度化及跨文化影响研究传统中的先驱地位。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 122–123, 126)]] |
 > | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 提供施奈德驱动力理论、欧洲统一性理想及德语区比较教育学制演进的关键史学依据。 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 考据施奈德 1931 年创刊与 1943 年海外辐射专著在比较教育学科制度化历程中的关键坐标。 |

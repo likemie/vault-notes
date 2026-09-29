@@ -3037,7 +3037,7 @@ Total entries: **2935**
 > - [[Business Roundtable]] — 美国最具影响力的顶级大企业首席执行官（CEO）游说组织，深度介入美国基础教育与高等教育改革议程，主张以商业管理主义、绩效问责、标准测试与技能匹配重塑公立教育，与世界银行在全球南方推行的新自由主义教育政策具有强烈的选择性亲和
 > - [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] — 加利福尼亚州社会服务部（CDSS）资助建立的多领域公共证据清算中心，专注于儿童福利与教育干预，最高评级（Well-Supported）强制要求至少2项高质量RCT及干预后12个月持续效果。
 > - [[Clearinghouse for Military Family Readiness Continuum of Evidence]] — 美国国防部（DoD）、农业部（USDA）与宾夕法尼亚州立大学联合建立的公共证据清算中心，针对军人家庭及子女教育与身心发展，为RCT与QED均制定了详尽标准。
-> - [[Comparative and International Education Society]] — 1956 年在美国创立的专业学术组织，原名比较教育学会（CES），1969 年正式更名为比较与国际教育学会（CIES）。学会的建制与更名进程折射了二战后结构功能主义社会学对美国比较教育认识型的塑造，以及向第三世界技术援助和多边规训整合的发展转向，是全球规模最大、最具建制影响力的比较教育学术共同体。
+> - [[Comparative and International Education Society]] — 1956 年在美国创立的专业学术组织，原名比较教育学会（CES），1969 年更名为比较与国际教育学会（CIES），创办旗舰会刊《比较教育评论》（CER）。作为全球规模最大、历史最悠久的比较教育学术共同体，其半个世纪的演变折射了二战后结构功能主义与冷战对外援助对学科认识型的深刻塑造，见证了学科研究策略向经验量化拓展、理论范式由单一正统走向 26 种取向并存的理论多元主义，并主导推动了世界比较教育学会联合会（WCCES）的全球网络建构。
 > - [[Council for Aid to Education]] — 美国著名高等教育评价与非营利研究机构，2002年开创大学学习评估（CLA/CLA+），率先将真实情境文档库表现任务引入大学生批判性思维与高阶决策增益评价。
 > - [[Council of Chief State School Officers]] — 由美国各州、哥伦比亚特区及外岛公立基础教育最高行政首脑（州督学/州教育厅长）组成的非营利无党派组织，代表州级公共教育官僚体系行使行业领导权；作为共同核心州立标准（CCSS）的联合发起方与官方版权所有者，主导了标准的技术起草管理、去政治化实证护栏构建与跨州行政审读。
 > - [[Education Resources Information Center]] — 由美国联邦教育部教育科学研究院（IES）赞助维护的全球最大教育学公共数字文献数据库与索引系统，为基础教育决策者、政策制定者与科研人员提供涵盖同行评议期刊与灰色文献的免费循证检索门户
@@ -3580,7 +3580,7 @@ Total entries: **2935**
 > - [[Argument_Fredens_2015_Paideia]] — Kjeld Fredens 对 Hattie & Yates Synlig læring og læringens anatomi 的丹麦语书评，提炼九条学习原则，提出反馈文化概念并补充默认网络功能批评
 > - [[Argument_Hansen_2015_Paideia]] — 作为 Paideia 可见的学习（Visible Learning，VL）主题号导言，梳理支持、修正与方法审查三类文章，主张 Visible Learning 应从教师效应自评与协作改进出发，而非只读干预排名
 > - [[Argument_Hattie_2015_Paideia]] — 以自传式方法论回顾回应 Visible Learning 的常见批评，主张核心不是照搬高效应量清单，而是让教师集体评估自身影响并持续检验证据解释
-> - [[Argument_Håkansson_2015_Paideia]] — 追踪 Hattie 在瑞典引发的教学转向，论证系统改进正从结果治理转向课堂近端策略、教师协作与长期能力建设
+> - [[Argument_Håkansson_2015_Paideia]] — 追踪 Hattie 在瑞典引发的教学转向，论证系统改进正从结果治理转向课堂近端策略、教师协作与长期能力建设
 > - [[Argument_Laursen_2015_Paideia]] — 比较 Hattie、Meyer、Helmke 国际有效教学综合与丹麦 SFI 等研究，论证其核心结论在丹麦总体有效，国家文化影响弱于学生社会背景
 > - [[Argument_Lekhal_2015_Paideia]] — 挪威 48 校 4128 名学生研究：性别本身对成绩直接解释力极小（约 0.2%），差异主要通过学校规范适应与学习动机等校内变量间接生成
 > - [[Argument_Nordahl_2015_Paideia]] — 把 Visible Learning 放进斯堪的纳维亚学校改进语境，主张教育系统应以学习结果与研究证据为改进基准，并通过能力建设把证据转成教师行动。
@@ -3640,7 +3640,7 @@ Total entries: **2935**
 > - [[Argument_Smith_2026_SPE]] — 立足批判社会认识论与写作学前沿，批判将生成式人工智能类比为计算器的分配平权假象，系统提出私厨隐喻以揭示其剥夺学生烹饪技能培育的成长性认识不正义本质；通过解构写作教学中灵感生成、提纲拟定与反思修改三大高增益环节的外包危害，确立了知识阻断、实践剥夺与信度失真的三重检验判据，并提出了将 AI 重塑为异己智能以引导反思性自我评估的教学防线。
 
 > [!index-list]- Teachers and Teaching (1)
-> - [[Argument_Håkansson_2015_TT]] — 以43项教学研究综述的比较元综合审视瑞典结构化教学政策，主张成绩危机不能靠讲坛式回归解决，关键在教师结构与师生互动的平衡。
+> - [[Argument_Håkansson_2015_TT]] — 以43项教学研究综述的比较元综合审视瑞典结构化教学政策，主张成绩危机不能靠讲坛式回归解决，关键在教师结构与师生互动的平衡。
 
 > [!index-list]- Technological Forecasting and Social Change (1)
 > - [[Argument_Caraca_2009_TFSC]] — 回顾过去五十年科学在创新中角色的演变，从线性模型到链式模型再到多通道互动学习模型，论证科学已从创新的自主主导因素转变为贯穿全过程的无处不在的要素，同时警告将大学转化为专利生产者而忽视其培养批判性人才这一根本功能的政策倾向
