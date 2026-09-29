@@ -10,7 +10,7 @@ summary: "法国启蒙自由主义教育家与国际主义者，1817年发表比
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 35
+person_related_count: 39
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Proto-Scientific Motif]]"
   - "[[Document]]"
   - "[[Artefact]]"
+  - "[[State Educational Sovereignty]]"
   - "[[Faculty Psychology]]"
   - "[[Scientific Method]]"
   - "[[Hypothesis]]"
@@ -56,20 +57,23 @@ related_persons:
   - "[[Immanuel Kant]]"
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
+  - "[[Michael Sadler]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[Auguste Comte]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
+  - "[[Wolfgang Mitter]]"
 related_facts:
   - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"
   - "[[UNESCO]]"
   - "[[Revue encyclopédique]]"
 related_arguments:
+  - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 
 # Marc-Antoine Jullien
@@ -81,7 +85,7 @@ updated: 2026-09-22
 > [!person-profile] 人物档案
 > - **身份位置** 法国启蒙自由主义教育理论家、外交官、国民公会战地记者、百科全书编纂者与跨国社会活动家，跨越法国大革命恐怖统治至 1848 年二月革命的重要自由派知识分子。
 > - **核心角色** 现代比较教育学的学科奠基人与公认先驱，跨国教育与[[Perpetual Peace\|世界和平治理]]运动的早期开拓者；确立了以跨国经验观察、实证事实分类诊断社会病理，并服务于全人道德[[Bildung\|教化]]、消除战争野蛮与维系世界和平的学术[[Paradigm\|范式]]。
-> - **代表贡献** 1817 年出版奠基性专论《[[Esquisse d'un ouvrage sur l'éducation comparée\|关于比较教育的一项著作的计划与初步观点]]》（*Esquisse*），首创比较教育准实证科学（*science positive*）构想与标准化[[Questionnaire\|问卷调查]]法；编制覆盖六大领域的比较观察表（Comparative Observation Tables）；系统构想包含常设特别教育委员会、示范师训学院与多语种通报网络的跨国教育共同体与世界和平治理蓝图，为 20 世纪[[International Education\|国际教育]]局（IBE）与[[UNESCO\|联合国教科文组织]]（UNESCO）提供了早期组织原型。
+> - **代表贡献** 1817 年出版奠基性专论《[[Esquisse d'un ouvrage sur l'éducation comparée\|关于比较教育的一项著作的计划与初步观点]]》（*Esquisse*），首次界定贯穿学科两百年历史的“科学/理论与实践/借用双重目的”；首创比较教育准实证科学（*science positive*）构想与标准化[[Questionnaire\|问卷调查]]法；编制覆盖六大领域的比较观察表（Comparative Observation Tables）；系统构想包含常设特别教育委员会、示范师训学院与多语种通报网络的跨国教育共同体与世界和平治理蓝图，为 20 世纪[[International Education\|国际教育]]局（IBE）与[[UNESCO\|联合国教科文组织]]（UNESCO）提供了早期组织原型。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 88)]]
 
 > [!citation-card] 人物定位的关键来源
 > 自 1940 年代朱利安的《计划》被重新发掘至今，比较教育学者普遍认定他是比较教育学发展的先驱，甚至尊称他为这门现代科学之父。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 20)]]
@@ -114,7 +118,7 @@ updated: 2026-09-22
 > - **1810–1817 — 准实证科学构想与比较观察指标体系的系统确立** 受到居维叶比较解剖学分类法与自然[[Empiricism\|经验主义]][[Epistemology\|认识论]]启发，试图使教育学摆脱形而上学玄思与神学宗派束缚。
 >   - **代表著作** 《关于比较教育的一项著作的计划与初步观点》（*Esquisse et vues préliminaires sur un ouvrage sur l’éducation comparée*, 1817）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–13)]]
 >   - **关键概念／方法** 比较解剖学类比、分析图表（Analytical Charts）、比较观察表（Comparative Observation Tables）、审慎[[Policy Borrowing\|政策借用]]。
->   - **阶段转向** 吸收解剖学经验分类与经验-演绎法，以客观事实分类诊断各国教育机体的患病断层，开创现代经验比较研究的设计原型。
+>   - **阶段转向** 吸收解剖学经验分类与经验-演绎法，以客观事实分类诊断各国教育机体的患病断层，开创现代经验比较研究的设计原型；首次奠定比较教育学科的两大基本目的——搜集与系统化事实的“科学/理论目的”以及为国家改革提供借鉴的“实践/应用目的”，这一双重任务界定构成了后继两百年欧洲比较教育演进的核心主线。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 88)]]
 > - **1818–1848 — 欧陆二级精神科学定位与世界主义[[Perpetual Peace\|永久和平]]蓝图** 扩展学术视野至全球文明交往与世界和平，将比较科学上升为全人类精神觉醒、消除战争野蛮与道德复兴的世界和平治理工程。
 >   - **代表著作** 《人类知识总表》（1819）、《[[Revue encyclopédique\|百科评论]]》（1819–1830）、《致英格兰民族书》（*A Letter to the English Nation*, 1833）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 17–18, 21–24)]]
 >   - **关键概念／方法** 欧陆人文科学（Sciences Humaines）、世界公民（Cosmopolites）、特别教育委员会、多语种教育通报、比较文明学（Comparative Civilisation）、永久和平治理。
@@ -194,6 +198,11 @@ updated: 2026-09-22
 >
 > *We have no evidence that Jullien’s comparative methodology or his ideas and proposals about comparative and international education as presented in his Plan and preliminary views for a work in comparative education were adopted or had any significant influence in the subsequent development of the two related epistemic domains. As historians of comparative education, we concur with what Stewart Fraser in his authoritative edition and evaluation of Jullien’s Plan wrote back in 1964. Agreeing with the historical judgement of Franz Hilker, Isaac Kandel and Nicholas Hans... that Jullien 'was unable to influence the development of comparative education to any great extent'...*
 
+> [!citation-card] 米特论朱利安的双重目的与 19 世纪欧洲大学教席的历史缺位
+> 欧洲比较教育学的学科开端普遍归功于朱利安 1817 年的《计划》。朱利安首次阐明了贯穿学科演进的双重目的——搜集与系统化事实的科学目的与为政策改革提供借鉴的实践目的。然而在整个 19 世纪，欧洲大学教席并未采纳朱利安的学术蓝图；相反，比较教育是在大学之外，通过为新兴民族[[State Educational Sovereignty|国家教育主权]]建设服务的行政视察员与旅行家调查（如库赞、阿诺德、[[Michael Sadler|萨德勒]]、曼恩）而经验性自发发展的。朱利安的学术方案被遗忘了近一个世纪，直至 20 世纪才在国际教育局与学术史编纂中被重新发掘并追认为学科始祖。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88–89)]]
+>
+> *The birth of this discipline is widely attributed to Marc-Antoine Jullien de Paris whose 'Esquisse d’un ouvrage sur l’éducation comparée' appeared in 1817... He laid down the 'two-fold purpose' of comparative education which has remained valid up to the present day: the scientific purpose... and the practical purpose...*
+
 ---
 
 ## 关系网络
@@ -250,3 +259,6 @@ updated: 2026-09-22
 > | [[Policy Borrowing]] | 概念 | 开启基于跨国经验事实比较进行选择性制度借用与改良的现代话语传统。 |
 > | [[Comparative History of Comparative Education]] | 概念 | 作为学科起源神话与[[Positivism\|实证主义]][[Paradigm\|范式]]建构的关键历史分析对象。 |
 > | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供朱利安思想史、方法论指标体系、政治信念演变与[[Epistemology\|认识论]]争鸣的系统文本证据。 |
+> | [[State Educational Sovereignty]] | 概念 | 19 世纪欧洲国家教育主权的兴起绕过了朱利安的学术蓝图，以行政视察员的国家借用推动比较教育实践演进。 |
+> | [[Wolfgang Mitter]] | 人物 | 在学科制度史中系统考证朱利安“双重目的”的开创性及其在 19 世纪欧洲大学中被遗忘的历史机制。 |
+> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 考证朱利安作为欧洲比较教育学科起点的定位、双重任务界定及其与 19 世纪行政借用时期的历史断裂。 |

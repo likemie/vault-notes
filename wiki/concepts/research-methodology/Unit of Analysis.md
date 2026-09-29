@@ -10,10 +10,10 @@ aliases:
   - 记录单位
   - 语境单位
   - 抽样单位
-summary: "研究设计、质性编码与内容分析中确定数据切片与分类基本边界的核心概念，涵盖抽样单位、记录单位与语境单位三层体系及其对分析信效度的制约机制"
+summary: "研究设计、质性编码与内容分析中确定数据切片与分类基本边界的核心概念，涵盖抽样单位、记录单位与语境单位三层体系，以及宏观比较研究中从民族国家制度容器向超国家标准化指标空间的演进"
 type: concept
 domain: "research-methodology"
-related_count: 43
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -28,22 +28,29 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Rich and Thick Description]]"
   - "[[Operationalization]]"
+  - "[[Nordic Model of Education]]"
+  - "[[Performance Indicators]]"
   - "[[Teacher Professional Agency]]"
   - "[[Empiricism]]"
   - "[[Reliability]]"
   - "[[Ecological Fallacy]]"
   - "[[Emergence]]"
   - "[[Document]]"
+  - "[[State Educational Sovereignty]]"
+  - "[[Doxa]]"
   - "[[Positivism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Meaningful Human Control]]"
+  - "[[Commensuration]]"
   - "[[Presence]]"
   - "[[Champ]]"
   - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[Central Phenomenon]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Complexity Theory]]"
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Content Analysis]]"
@@ -64,10 +71,16 @@ related_instruments: []
 related_persons:
   - "[[Yvonna S. Lincoln]]"
   - "[[Egon G. Guba]]"
+  - "[[Wolfgang Mitter]]"
   - "[[Keith Morrison]]"
-related_facts: []
+related_facts:
+  - "[[IEA]]"
+  - "[[OECD]]"
+  - "[[PISA]]"
+  - "[[National Education]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
@@ -75,7 +88,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 
 # Unit of Analysis
@@ -88,19 +101,19 @@ updated: 2026-09-22
 > **分析单位（Unit of Analysis，又称分析单元）** 是指在经验研究设计、[[Coding in Qualitative Research\|质性编码]]与[[Content Analysis\|内容分析]]中，被观察、测量、描述和解释的基本实体、信息载体或文本片段。在[[Qualitative Research\|质性研究]]与[[Content Analysis\|内容分析]]中，分析单位界定了数据拆解切片、赋予编码与范畴聚合的最小操作基准与最大语境边界（Krippendorff, 2004；[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 565]]）。分析单位的界定直接决定了研究结论的可推广范围、统计推论的聚合尺度以及理论命题的解释力度。
 
 > [!concept-lens] 概念透镜
-> - **含义** 研究者在收集和分析数据时聚焦审视的最小独立实体，从微观的词汇、句子、意群，到中观的命题、事件、段落，直至宏观的个体、学校、学区、政策文本或国家。
+> - **含义** 研究者在收集和分析数据时聚焦审视的最小独立实体，从微观的词汇、句子、意群，到中观的命题、事件、段落，直至宏观的个体、学校、学区、政策文本，以及宏观比较教育中的民族国家制度容器与跨国测评度量空间。
 > - **用途** 为质性编码与量化比较建立稳定一致的分析基准，防止在同一范畴内混合不同抽象层级的材料，保障数据聚合与跨案比较的有效性。
-> - **边界** 不等于分析范畴（Category）或[[Variable\|变量]]（Variable）。分析单位是承载变量与范畴属性的具体实体载体，而非属性特征本身；亦不同于研究对象（Object of Study）的抽象议题。
+> - **边界** 不等于分析范畴（Category）或[[Variable|变量]]（Variable）。分析单位是承载变量与范畴属性的具体实体载体，而非属性特征本身；亦不同于研究对象（Object of Study）的抽象议题。
 
 > [!citation-card] Krippendorff 论编码单位与语境单位的界限
-> 编码单位界定了可被分析的材料的最小元素，而语境单位界定了在单一范畴中可出现的最大文本单位。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, p. 565)]]
+> 编码单位界定了可被分析的材料的最小元素，而语境单位界定了在单一范畴中可出现的最大文本单位。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 565)]]
 >
 > *The coding unit defines the smallest element of material that can be analysed, whilst the contextual unit defines the largest textual unit that may appear in a single category. (Krippendorff, 2004, pp. 99–101)*
 
 > [!boundary]- 概念边界
 > - 不等于 分析范畴（Category）— 分析范畴是研究者基于理论建构的概念类属；分析单位是被赋码并归入该类属的具体数据片段或实体。
-> - 不等于 [[Variable\|变量]]（Variable）— 变量是分析单位所具备的某种可变属性（如教师的“工作压力水平”）；分析单位是拥有该属性的主体实体（如“受访教师个体”）。
-> - 不等于 抽样个体（Respondent）— 在[[Longitudinal Study\|纵向研究]]或多阶段设计中，受访个体可能提供数百个相互独立的“事件单位”或“陈述单位”，此时分析单位是具体的事件或陈述而非受访者本人。
+> - 不等于 [[Variable|变量]]（Variable）— 变量是分析单位所具备的某种可变属性（如教师的“工作压力水平”）；分析单位是拥有该属性的主体实体（如“受访教师个体”）。
+> - 不等于 抽样个体（Respondent）— 在[[Longitudinal Study|纵向研究]]或多阶段设计中，受访个体可能提供数百个相互独立的“事件单位”或“陈述单位”，此时分析单位是具体的事件或陈述而非受访者本人。
 
 ---
 
@@ -123,23 +136,28 @@ updated: 2026-09-22
 在[[Content Analysis|内容分析]]与质性探究体系中，分析单位呈现为结构化的多层嵌套体系（Krippendorff, 2004；Lincoln & Guba, 1985；[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 565]]）：
 
 > [!taxonomy] Krippendorff 的三层分析单位体系
-> - **抽样单位（Sampling units）** 进入或被排除在分析视野之外的宏观独立单元，属于选择单位（units of selection）。例如特定年份的报纸期号、抽取的整份访谈[[Transcription in Qualitative Research\|转录]]稿、一部完整教科书。
-> - **记录/[[Coding in Qualitative Research\|编码]]单位（Recording/coding units）** 包含于抽样单位之内且小于抽样单位的具体分析片段，属于描述与赋码单位（units of description）。例如具体的字词、短语、单句、段落或核心命题。
+> - **抽样单位（Sampling units）** 进入或被排除在分析视野之外的宏观独立单元，属于选择单位（units of selection）。例如特定年份的报纸期号、抽取的整份访谈[[Transcription in Qualitative Research|转录]]稿、一部完整教科书。
+> - **记录/[[Coding in Qualitative Research|编码]]单位（Recording/coding units）** 包含于抽样单位之内且小于抽样单位的具体分析片段，属于描述与赋码单位（units of description）。例如具体的字词、短语、单句、段落或核心命题。
 > - **语境单位（Context units）** 为记录单位的阐释设定信息边界的最大文本范围。编码者在判断记录单位的真实意涵、修辞色彩与潜在动机时，所需参考的上下文广度（如该记录单位所在的整个章节或完整对话轮次）。
+
+> [!taxonomy] 宏观比较教育空间分析单位的三重形态（Mitter, 2009）
+> - **民族国家制度容器（The Nation-State Container）** 19 至 20 世纪随着现代民族国家确立对教育主权的垄断，以领土主权为边界的国民教育学制成为最主导、最持久且被视为理所当然的经验分析单位。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87, 94)]]
+> - **次区域地缘板块（Sub-regional / Transnational Blocs）** 突破单一国家边界的跨国地缘与政治文化单元，如[[Nordic Model of Education|北欧模式]]、地中海区域、冷战时期的社会主义东欧阵营等，在阵营对抗与区域一体化进程中展现出结构性分析意义。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 91–92, 95)]]
+> - **超国家标准化度量空间（Supranational Metric Assessment Space）** 20 世纪末期由国际大规模测评（如 [[IEA]]、[[OECD]]/[[PISA]]）所构建的去情境化、以量化[[Performance Indicators|绩效指标]]和通用胜任力为导向的数据空间，将分析基准从历史文化国别容器重构为跨国能力度量衡网络。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
 
 > [!feature] 五类抽样与记录单位形态（Krippendorff, 2004）
 > - **物理单位（Physical units）** 以时间、空间、篇幅或物理尺寸界定（如报纸版面尺寸、电视广播时长、社交媒体单条推文）。
 > - **句法单位（Syntactical units）** 依据语言学语法自然停顿界定（如独立单词、词组、完整句子、自然段落）。
-> - **范畴单位（Categorical units）** 依据具有某种共同先验特征的成员资格界定（如所有指涉“[[Teacher Professional Agency\|教师专业自主权]]”的文本）。
+> - **范畴单位（Categorical units）** 依据具有某种共同先验特征的成员资格界定（如所有指涉“[[Teacher Professional Agency|教师专业自主权]]”的文本）。
 > - **命题单位（Propositional units）** 按照特定的命题结构或完整的因果/判断性陈述界定（包含主谓宾的独立判断）。
-> - **主题单位（Thematic units）** 围绕特定核心概念或[[Empiricism\|经验论]]述展开的连贯文本组合，通常跨越句法边界但保持意义完整。
+> - **主题单位（Thematic units）** 围绕特定核心概念或[[Empiricism|经验论]]述展开的连贯文本组合，通常跨越句法边界但保持意义完整。
 
 > [!info] 意义单位与单位化（Unitizing）
-> 林肯（[[Yvonna S. Lincoln]]）与古巴（[[Egon G. Guba]]）指出，质性分析的首要任务是实施单位化（unitizing）过程：研究者将原始转录文本切分成各自具备独立完整意涵的“意义单位（meaning unit）”，要求每个单位在脱离上下文时仍可被独立理解，作为后续范畴归纳的基本构件（Lincoln & Guba, 1985；[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 565]]）。
+> 林肯（[[Yvonna S. Lincoln]]）与古巴（[[Egon G. Guba]]）指出，质性分析的首要任务是实施单位化（unitizing）过程：研究者将原始转录文本切分成各自具备独立完整意涵的“意义单位（meaning unit）”，要求每个单位在脱离上下文时仍可被独立理解，作为后续范畴归纳的基本构件（Lincoln & Guba, 1985；[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 565]]）。
 
-> [!logic-map]- 三层分析单位嵌套与[[Multi-phase Sampling\|多阶段抽样]]机制
+> [!logic-map]- 三层分析单位嵌套与[[Multi-phase Sampling|多阶段抽样]]机制
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["抽样单位 (Sampling Unit)<br>如：整份访谈转录稿 / 政策文本"] --> B["语境单位 (Context Unit)<br>如：特定讨论议题所在的完整段落与对话轮次"]
 >     B --> C["记录/编码单位 (Recording Unit)<br>如：独立句子 / 核心命题 / 概念词汇"]
 >     C --> D["概念范畴 (Analytical Category)<br>如：体制管理失职 / 专业诚信妥协"]
@@ -196,6 +214,21 @@ updated: 2026-09-22
 
 ---
 
+### 命题五　宏观比较研究的分析单位由民族国家制度容器向超国家标准化指标网络历史性迁移
+
+> [!concept-lens] 宏观比较空间分析单位的去容器化演变
+> 本命题探讨宏观比较教育研究中，分析单位如何从以领土主权为边界的国民学制容器，向全球量化治理主导的去情境化指标度量空间迁移。
+
+> [!claim] [[Wolfgang Mitter|Mitter, W.]]
+> **民族国家容器与超国家度量空间的分析单位跃迁** 沃尔夫冈·米特（[[Wolfgang Mitter]]）指出，自 19 世纪民族国家确立对公共教育主权的垄断以来，以主权领土为边界的国民教育学制构成了比较教育学最主导、最持久且被视为理所当然的经验分析单位（container）。然而，冷战阵营对抗与次区域地缘板块（如北欧、地中海、东欧）拓展打破了均质单一国家单位；世纪之交，以 [[IEA]] 与 [[OECD]]/[[PISA]] 为代表的国际大规模测评兴起，构建起一个去情境化、以[[Human Capital Theory|人力资本]]与标准化绩效为导向的超国家度量衡指标网络，促使分析单位从富含历史文化个殊性的民族国家制度容器，向去国界化的跨国量化数据空间迁移。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–88, 94–96)]]
+
+> [!citation-card] 米特论民族国家作为比较教育最持久经验容器的确立与突破
+> 19 世纪民族国家对公共教育主权的垄断，使得以领土为边界的国民教育体制成为比较教育最主要、最持久的分析单元；然而 20 世纪后期通过殖民遗存分化、冷战阵营对抗及跨区域社会学项目，比较空间逐步突破了单一国家容器。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87, 94–95)]]
+>
+> *In the nineteenth and twentieth centuries the nation-states established their total monopoly on educational sovereignty, so that the [[National Education]] systems, bounded by their territories, became the primary and, in the course of history, most persistent units of analysis in comparative education.*
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 分析单位核心理论命题总览
@@ -205,24 +238,33 @@ updated: 2026-09-22
 > | **去情境化命题** | 微观切片过度碎化导致时序断裂与多义词误判，须依托语境单位平衡[[Rich and Thick Description\|深描]] | 语境单位约束、同形多义词甄别 | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, pp. 562, 573)]] |
 > | **层级推论命题** | 跨层级分析单位错位直接诱发生态谬误与原子谬误，须严格多维对齐 | 宏微观聚合尺度、比较分析多维立方体 | Robinson (1950); Bray & Thomas (1995) |
 > | **生态重构命题** | 打破个体与机构机械割裂，分析单位演变为围绕奇异吸引子的共生生态网络 | 整体论涌现、宏微观贯通、生态系统网络 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 31)]]; Capra (1996) |
+> | **空间迁移命题** | 宏观比较分析单位由领土主权边界的民族国家容器向去情境化的超国家标准化指标空间演进 | [[State Educational Sovereignty\|国家教育主权]]垄断、地缘阵营重组、大规模测评治理 | [[Wolfgang Mitter\|Mitter (2009)]]; [[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 87, 94–96)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
+> - **19 世纪中叶–20 世纪 — 民族国家制度容器确立** 随着现代民族国家确立公共教育主权垄断，以领土主权为边界的国民教育学制成为比较教育学最持久、最主要且被视为[[Doxa|不言自明]]的经验分析单位。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 87, 94)]]
 > - **1950s — [[Positivism\|实证主义]]量化单元确立** 经典传播学与社会调查确立分析单位概念，聚焦于[[Questionnaire\|问卷]]个体受访者与报刊印刷行数等物理测量单元，强调统计独立性。
 > - **1980s — 传播[[Content Analysis\|内容分析]]三级体系** 克里彭多夫（Krippendorff, 1980, 2004）系统提出抽样单位、记录单位与语境单位的三层划分，奠定内容分析单位化标准。
 > - **1985 — 质性自然主义单位化规程** 林肯与古巴（Lincoln & Guba, 1985）将单位化（Unitizing）引入[[Interpretive Paradigm\|自然主义探究]]，确立具有独立语义完整性的“意义单位（Meaning units）”。
 > - **1990s — 聚合[[Reliability\|信度]]律与多层比较模型** 罗伯特·韦伯（Weber, 1990）总结聚合尺度与信度的反比关系；布雷与托马斯（Bray & Thomas, 1995）构建比较教育多维分析单位立方体框架。
 > - **2000s–2010s — [[Complexity Theory\|复杂性理论]]的生态网络转向** [[Keith Morrison\|莫里森]]（Morrison, 2008）与卡普拉（Capra, 1996）推动分析单位从离散原子实体转向围绕奇异吸引子生成的共生生态系统，实现宏微观研究的方法论贯通。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 31)]]
-> - **2020s — 计算文本分块与语境窗口重构** 随着自然语言处理与大语言模型（LLM）的兴起，文本分块（Chunking）、词元（Token）与上下文窗口（Context Window）重塑了分析单位的技术形态，[[Meaningful Human Control|人在回路]]（HITL）审校成为维护宏观语境与微观分块平衡的核心机制。
+> - **2000s 至今 — 超国家标准化度量指标空间** 伴随 [[OECD]]/[[PISA]] 等国际大规模测评的支配性影响，以跨国统一技能与[[Performance Indicators|绩效指标]]为载体的超国家数据空间成为新型分析单位，与传统历史文化容器形成剧烈张力。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 95–96)]]
+> - **2020s — 计算文本分块与语境窗口重构** 随着自然语言处理与大语言模型（LLM）的兴起，文本分块（Chunking）、词元（Token）与上下文窗口（Context Window）重塑了分析单位的技术形态，[[Meaningful Human Control\|人在回路]]（HITL）审校成为维护宏观语境与微观分块平衡的核心机制。
 
 ---
 
 ## 争议与批评
 
 > [!debates] 学术争议
+>
+> > [!axis] 民族国家领土容器 vs 超国家去情境化指标空间
+> > 争论宏观比较教育的分析单位应当坚守富含历史文化个殊性的民族国家学制容器，还是拥抱由跨国测评构建的去情境化度量空间。
+> >
+> > - **文化主义与历史制度取向（Mitter, 2009）** 强调教育制度深嵌于国家政治主权与文化传统，分析单位必须保持对国别历史脉络与制度[[Heterogeneity|异质性]]的[[Rich and Thick Description|深描]]，反对将国家粗暴降格为均质测评点。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87, 94)]]
+> > - **国际测评与经济主义治理取向（[[OECD]]/[[PISA]]）** 将学生个体标准化测试表现与技能指标作为可跨国直接[[Commensuration|通约]]的基本分析单位，追求指标跨国等值与通用政策推论。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
 >
 > > [!axis] 原子化离散切分 vs 整体性语境保留
 > > 争论文本分析单位究竟应当尽量细切以追求[[Coding in Qualitative Research\|编码]]精度，还是保持较大篇幅以维护经验叙事的完整感。
@@ -270,16 +312,20 @@ updated: 2026-09-22
 > | [[Coding in Qualitative Research\|质性研究编码]] | 方法 | 分析单位构成了质性编码的操作载体；编码是对分析单位赋予概念化标签的过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 560)]] |
 > | [[Domain Analysis\|领域分析]] | 概念 | 领域分析是建立分析单位之后的关键第二步，旨在将切碎的微观编码单元重新聚合为上位领域范畴。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 440)]] |
 > | [[Content Analysis\|内容分析]] | 方法 | 分析单位的科学划分（抽样、记录、语境单位）是内容分析 11 步标准化操作规程的核心前置环节。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, pp. 564–565)]] |
+> | [[State Educational Sovereignty\|国家教育主权]] | 概念 | 现代民族国家对公共教育主权的垄断，奠定了以主权领土为边界的国民学制作为宏观比较教育最持久的经验分析单位容器。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 87, 94)]] |
+> | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 梳理欧洲比较教育宏观空间分析单位的演进，揭示民族国家容器、次区域地缘板块与超国家度量空间的结构张力。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 87–88, 94–96)]] |
 > | [[Variable\|变量]] | 概念 | 变量是分析单位所呈现的量化或定性属性，分析单位则是承载变量取值的主体物理实体。 |
 > | [[Central Phenomenon\|核心现象]] | 概念 | 在扎根理论主轴编码中，核心现象往往作为处于分析中心位置的统摄性主题单位存在。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 561)]] |
 > | [[Emergence\|涌现]] | 概念 | 复杂系统分析单位所展现的核心特征，整体属性无法简单还原为个体分析单位的线性相加。 |
+> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 系统阐明欧洲比较教育学科两百年演进中分析单位的历史重组，批判大规模测评带来的去情境化[[Disciplina and Doctrina\|规训]]压力。 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 31)]] — 提出[[Complexity Theory\|复杂性理论]]重构分析单位的理论命题，论述从个体/机构原子切片走向围绕奇异吸引子的生态共生网络。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 系统阐释[[Content Analysis\|内容分析]]中三级分析单位的划分原则、五类抽样与记录单位形态，以及聚合尺度与[[Reliability\|信度]]的反比权衡规律（Ch. 30）。
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 规范[[Qualitative Research\|质性研究]]与[[Mixed Methods Research\|混合方法]]设计中分析单位的选择，强调避免在不同分析阶段混淆个体与群体聚合单位（Ch. 9, 10）。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 31)]] — 提出[[Complexity Theory|复杂性理论]]重构分析单位的理论命题，论述从个体/机构原子切片走向围绕奇异吸引子的生态共生网络。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 系统阐释[[Content Analysis|内容分析]]中三级分析单位的划分原则、五类抽样与记录单位形态，以及聚合尺度与[[Reliability|信度]]的反比权衡规律（Ch. 30）。
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 规范[[Qualitative Research|质性研究]]与[[Mixed Methods Research|混合方法]]设计中分析单位的选择，强调避免在不同分析阶段混淆个体与群体聚合单位（Ch. 9, 10）。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 阐释宏观比较教育学科演进中，分析单位从 19 世纪民族国家制度容器与冷战地缘阵营向 21 世纪初超国家标准化测评度量空间的重大迁移（pp. 87–88, 94–96）。
 
