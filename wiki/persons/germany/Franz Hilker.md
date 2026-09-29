@@ -9,7 +9,7 @@ summary: "德国比较教育学家与国际教育交流专家，黑森州教育�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

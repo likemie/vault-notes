@@ -10,9 +10,9 @@ type: person
 nationality: us
 person_region: "us"
 person_related_count: 25
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1907"
 died: "1990"
 lifespan: "1907–1990"
