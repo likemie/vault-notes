@@ -6,7 +6,7 @@ aliases:
 summary: "国际文凭大学预科项目的必修核心要素，通过学生自主选题、长期研究、导师指导和外部评价，把个人兴趣转化为一项可纳入跨国文凭的独立学术探究。"
 type: concept
 domain: "curriculum"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -55,10 +55,11 @@ related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
   - "[[Argument_Darwish_2009_Queens]]"
   - "[[Argument_Metli_2022_IJER]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch07]]"
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 
 # Extended Essay
@@ -154,6 +155,7 @@ updated: 2026-09-22
 > - **1960 年代后期　六学科之外增加个人研究** 六学科及深度选项提供通识与专门化的平衡，学生仍缺少自主提出问题并持续研究的正式空间。EE 由此成为所有文凭候选人的个人研究要求。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 43–45)]]
 > - **早期实施　形成四至六个月、约 4,000 字、导师指导和外部评价的基本形态** 研究通常安排在两年课程中段，由学生主要使用自己的时间完成，教师给予指导，外部考官负责评价。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]
 > - **早期调整　提交期限因学生过度投入而提前** 一些学生沉浸于自选题目，开始忽视其他课程并危及文凭考试。[[International Baccalaureate\|国际文凭]]办公室（International Baccalaureate Office，IBO）把截止日期提前到课程结束前数月，为六学科恢复学习时间。
+> - **1970 年代至 1985 年　选题指导与外部评价逐步成熟** 学生需要避免过宽、资料不可得和超过 4,000 字的题目，并形成学术态度。历史论文从集中于政治强人逐步扩展到地方史，科学论文常使用长期田野或实验，少数成果进入学术期刊。外部考官结合导师报告评分，可奖励 1–2 分，严重缺乏投入则扣 1 分。1985 年有 1,471 人获 1 分、310 人获 2 分、234 人被扣 1 分。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 181–182)]]
 > - **2009 年所记录的制度　EE 与 [[Theory of Knowledge\|TOK]] 共同进入核心奖励分矩阵** 两项外部评价等级交叉换算零至三分奖励分，EE 的最低等级还与文凭资格直接相连。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 18–19)]]
 > - **2022 年　EE 被进一步理解为核心组件之间的连接点** TOK 的知识审查可以进入 EE 的研究设计和[[Document\|文献]]评价，CAS 的经验可以生成[[Research Question\|研究问题]]，EE 的发现也可以转化为 CAS 行动。学校实践中的连接仍经常停留在表层。[[Argument_Metli_2022_IJER\|Metli & Akış (2022, pp. 226–230)]]
 
@@ -174,6 +176,9 @@ updated: 2026-09-22
 
 > [!case] 过度投入促成截止日期调整
 > 早期学生反馈同时显示价值与风险。许多学生认为 EE 最有助于适应大学学习；一些学生则深度投入自选题目，忽视其余课程并可能影响文凭考试。学校投诉促使 IBO 把提交日期提前到全部课程结束前数月。调整没有削弱自主选题，而是用制度时间边界重新平衡个人研究和[[Concurrency of Learning\|并发学习]]。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]
+
+> [!case] 地方材料与长期实验把个人研究带出课堂[[Homework|作业]]
+> 成熟期 EE 的较强案例包括法国大革命时期戛纳地方史、斯里兰卡农业与食品营销体系，以及持续时间超过普通实验课的科学田野和实验。题目质量来自问题范围、资料条件和持续研究的匹配，而不是题材宏大。少数科学论文达到期刊发表水平，但章内没有提供全部论文的系统质量分布。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 181)]]
 
 > [!case] 涂鸦主题连接经验、知识判断与学科研究
 > 学生可以先在 CAS 中参与涂鸦相关的创作或社区项目，再在 [[Theory of Knowledge\|TOK]] 中讨论艺术定义、艺术家的伦理权利及艺术与法律的关系，最后把问题收束为视觉艺术 EE，研究涂鸦如何影响社会视觉文化。同一主题经过经验、[[Epistemology\|认识论]]反思和独立研究三次转化，避免三项核心成为相互隔离的任务。[[Argument_Metli_2022_IJER\|Metli & Akış (2022, pp. 228–229)]]
@@ -197,5 +202,6 @@ updated: 2026-09-22
 
 > [!evidence-grid] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987)]] 记录 EE 从六学科课程缺口中产生的原因、早期四至六个月研究形态、外部评价、学生反馈及期限调整。
+> - [[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 181–182)]] 记录成熟期 EE 的选题问题、地方史与科学研究案例、外部评分规则及 1985 年奖励分分布。
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] 说明 [[IB Diploma Programme\|IBDP]] 核心结构以及 EE 与 [[Theory of Knowledge\|TOK]] 的奖励分转换矩阵。
 > - [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] 分析 EE 如何通过[[Concurrency of Learning\|并发学习]]与 TOK 和 CAS 形成证据审查、[[Research Question\|研究问题]]与现实行动的双向联系，并记录学校实施障碍。

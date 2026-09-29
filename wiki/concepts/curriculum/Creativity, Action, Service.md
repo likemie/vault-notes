@@ -10,7 +10,7 @@ aliases:
 summary: "国际文凭预科项目（IB DP）的三项必修核心要素之一，要求学生参与课堂之外的艺术创意、体育活动与社区服务体验，促进全人发展与体验式学习。"
 type: concept
 domain: "curriculum"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,11 +46,12 @@ related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch04]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch07]]"
   - "[[Argument_Peterson_1987_OpenCourt]]"
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-09-17
+updated: 2026-09-29
 ---
 
 # Creativity, Action, Service
@@ -74,7 +75,7 @@ updated: 2026-09-17
 > [!feature] 核心要素
 > - **创意（[[Creativity]]）** 涵盖艺术、戏剧、音乐、创作以及探索性设计项目，培养创造性思维与表达。它为学生提供了通过艺术途径探究社会问题的手段，例如结合研究“涂鸦”在破坏与艺术间的张力 [[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, p. 229)]]。
 > - **行动（Action/Activity）** 身体锻炼、户外拓展与体育竞技，培养坚毅品质与健康生活习惯。
-> - **服务（Service）** 切入社区参与、环保、扶贫等社会公益，培养国际理解与实践责任感 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 14, p. 22)]]。服务活动可直接将学生的学术研究成果（如生态学研究）转化为社区宣导与环保行动闭环 同上。
+> - **服务（Service）** 切入社区参与、环保、扶贫等社会公益，培养国际理解与实践责任感 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 14, 22)]]。服务活动可将学生的学术研究成果转化为社区宣导与环保行动。
 
 ---
 
@@ -108,6 +109,12 @@ updated: 2026-09-17
 >
 > 两案共同说明，CASS 的可迁移部分是时间保障、真实任务和学生责任，而不是一套固定活动清单。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 80–81)]]；[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 157–159)]]
 
+> [!case] 第二个十年把救援扩展为地方需要与日常陪伴
+> 大西洋学院和美国西部书院继续开展海上及山地救援，哥伦比亚和坦桑尼亚学校发展自然保护，城市学校则更多帮助老人、病人和处境不利者。服务价值不只来自身体危险，也来自学生克服与陌生人交往的心理困难，以及受助者能否获得稳定关系。共同要求因此从固定救援模式转向“当地真正需要什么”。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 168–169, 184–185)]]
+
+> [!tension] 质量保障不能等同于强制计分
+> 学校数量增长使“踢球或看电影是否算 CASS”之类边界问题难以靠个人联络解决。1984–1985 年调查只收到 134 所文凭学校中 54 所回应；北美学生自组织传统、发展中国家对家长主义的担忧及部分国家对学生社会服务的限制又使统一评价困难。彼得森主张加强教师指导和文凭档案，而不以文凭资格强迫每名学生参与或把活动纳入分数体系。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 182–184)]]
+
 ---
 
 ## 围绕概念形成的命题
@@ -127,6 +134,7 @@ updated: 2026-09-17
 
 > [!warning] 适用局限
 > - **系统性实践脱节** 尽管跨组件联动意义重大，但受制于繁重的课业压力（特别是公立系统中并行的国家课程和[[Gaokao\|高考]]要求）、课表的僵化限制，CAS 在实际运作中很容易退化成孤立（operate in isolation）的任务打卡项，未能真正与学科教学和其余核心组件形成连贯性。此外，学生还经常面临缺乏真实、多元化的反思机制等操作层面挑战 [[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, pp. 221, 226)]]。
+> - **强制参与的反作用** 若文凭资格依赖学生形式上完成活动，少数抵制者可能只做最低动作，并损害真正参与者的共同经验；IBO 又没有督学体系独立验证个人参与。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 182–183)]]
 
 ---
 
@@ -134,5 +142,6 @@ updated: 2026-09-17
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Peterson_1987_OpenCourt\|Peterson (1987)]] — 追溯 CASS 从“保护非学术学习时间”的最低制度要求（Ch. 3），到莫希[[International Schools\|国际学校]]结合坦桑尼亚自力更生原则形成社区服务（Ch. 4），再到 Bellaire 高中以学生自我组织强调责任和就业准备的本地化路径（Ch. 6）。
+> - [[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 161–191)]] — 比较救援、自然保护和城市日常照护，分析 CASS 定义、强制参与与跨文化评价的成熟期争议。
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 分析 CAS 在 IB 课程架构中的定位及其与 [[Theory of Knowledge\|TOK]] 的跨领域印证机制。
 > - [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] — 探讨在 [[IB Diploma Programme\|IBDP]] 中促进 CAS and TOK、EE 之间[[Concurrency of Learning\|并发学习]]（Concurrency of Learning）的整合策略，主张通过[[Experiential Learning\|经验学习]]将[[Epistemology\|认识论]]思考转化为本地社区服务行动。

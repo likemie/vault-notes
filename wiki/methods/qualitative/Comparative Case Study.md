@@ -4,41 +4,61 @@ aliases:
   - 比较案例研究
   - CCS
   - Comparative Case Study Approach
-summary: "Bartlett and Vavrus 提出的比较案例研究方法，通过水平、垂直和横贯三个轴同时对案例进行跨地点、跨尺度和历时比较，适合分析复杂连接的教育政策与治理现象"
+summary: "Bartlett 与 Vavrus 提出的突破传统封闭单元的比较研究方法，通过水平、垂直和横贯三个分析轴同时对现象开展跨地点、跨尺度和历时维度的立体比较，适合透视复杂连接的全球教育政策与治理现象"
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 35
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
-- comparative-case-study
-- case-study
-- comparative-education
-- policy-analysis
-- method/qualitative
+  - comparative-case-study
+  - case-study
+  - comparative-education
+  - policy-analysis
+  - method/qualitative
 related_concepts:
+  - "[[Hypothesis]]"
+  - "[[State Educational Sovereignty]]"
+  - "[[Unit of Analysis]]"
+  - "[[Policy Mobility]]"
+  - "[[Rich and Thick Description]]"
   - "[[Epistemology]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Theoretical Perspective]]"
+  - "[[Reflexivity]]"
+  - "[[Variable]]"
   - "[[International Education Hubs]]"
-  - "[[Cultural Diplomacy]]"
-  - "[[Scale in Higher Education]]"
+  - "[[Paradigm]]"
   - "[[Graduate Attributes]]"
   - "[[Data Infrastructure]]"
 related_theories:
   - "[[Cultural Political Economy]]"
+  - "[[Pluri-Scalar Governance]]"
 related_methods:
   - "[[Case Study]]"
+  - "[[Triangulation]]"
+  - "[[Effect Size]]"
+  - "[[Fieldwork]]"
+  - "[[Semi-structured Interview]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Qualitative Observation]]"
+  - "[[Documentary Analysis]]"
+  - "[[Experimental Research]]"
   - "[[Mixed Methods Research]]"
-related_persons: []
+  - "[[Correlational Research]]"
+related_persons:
+  - "[[Robert Arnove]]"
+related_facts:
+  - "[[World Trade Organization]]"
+  - "[[GATS and Trade in Education Services]]"
+  - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_SpronkenSmith_2024_AEHE]]"
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
-related_facts:
-  - "[[GATS and Trade in Education Services]]"
 confidence: high
 status: draft
 created: 2026-05-19
@@ -47,71 +67,107 @@ updated: 2026-09-29
 
 # Comparative Case Study
 
+---
+
 ## 定义
 
-> [!info]
-> 比较[[Case Study\|案例研究]]（Comparative [[Case Study]], CCS）是 Bartlett & Vavrus (2017) 在 *Rethinking Case Study Research: A Comparative Approach* 中提出的比较研究方法。与传统案例研究不同，CCS 不将案例视为封闭的、有边界的单元，而是采用**过程性的"做案例"（casing）**理解——案例不是预先给定的，而是在研究过程中被持续建构和界定的([[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, p.202]])。
+> [!def] 方法定义
+> 比较[[Case Study|案例研究]]（Comparative Case Study, CCS）是由巴特利特与瓦夫鲁斯（Bartlett & Vavrus, 2017）提出的一种突破传统封闭单元[[Hypothesis|假设]]的质性比较研究方法。CCS 拒绝将案例视作预先给定且边界固定的容器，而是确立了**过程性的“建构案例”（casing）**取向——案例是在研究过程中被理论与实证选择持续生产出来的。通过**水平轴**（跨地点比较复杂连接的政策展开）、**垂直轴**（跨越微观、国家与超国家多重尺度）与**横贯轴**（历时性追溯历史沿革）的三维协同运作，实现对复杂社会与教育治理现象的立体剖析。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, p. 202)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
 
-CCS 的核心操作是通过三个分析轴同时对现象进行比较：
+> [!method-scope] 方法范围
+> - **研究对象** 深度嵌入全球与区域网络、跨越多重空间尺度且随历史演进的教育政策、制度革新、多边治理项目及微观课堂实践。
+> - **问题类型** 全球化模式在地方的转化、协商与抵制机制；超国家规约与民族[[State Educational Sovereignty|国家教育主权]]的再谈判；跨越不同地缘环境的政策混合体（policy-mix）比较。
+> - **[[Unit of Analysis|分析单位]]** 跨尺度的网络节点，涵盖微观教室与社区行动者、中观地方与国家行政机构，以及宏观超国家经贸与金融组织。
+> - **输出形式** 三维比较案例矩阵、多标度[[Policy Mobility|政策流动]]图景、历时生成性制度叙事与[[Rich and Thick Description|深描]]案例集。
 
-- **水平轴（horizontal axis）** 比较相似政策如何在不同的、社会性地生产且"复杂连接"的地点展开
-- **垂直轴（vertical axis）** 坚持同时关注并跨越不同尺度（地方、国家、跨国／全球）
-- **横贯轴（transversal axis）** 历时性地追溯所考察的过程或关系的历史变迁
-
-> [!quote]
-> "The horizontal axis compares how similar policies unfold in distinct locations that are socially produced […] and 'complexly connected' […] The vertical axis insists on simultaneous attention to and across scales […] The transversal comparison historically situates the processes or relations under consideration." (Bartlett & Vavrus, 2017a, p.3, cited in [[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, p.202]])
+> [!citation-card] 三轴并进的比较案例分析法
+> 水平轴比较相似政策如何在不同的、社会性生产且复杂连接的地点展开……垂直轴坚持同时关注不同尺度并跨越尺度……横贯比较则将所考察的过程或关系置于历史变迁的语境中。(Bartlett & Vavrus, 2017a, p. 3，引自 [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p. 202]])
 >
-> 水平轴比较相似政策如何在不同的、社会性生产的且复杂连接的地点展开……垂直轴坚持同时关注不同尺度并跨越尺度……横贯比较将所考察的过程或关系置于历史语境中。
+> *The horizontal axis compares how similar policies unfold in distinct locations that are socially produced […] and 'complexly connected' […] The vertical axis insists on simultaneous attention to and across scales […] The transversal comparison historically situates the processes or relations under consideration.*
 
 ---
 
-## 认识论立场
+## 方法定位
 
-> [!abstract]
-> CCS 反对将案例视为"自然存在"的孤立单元。其过程性[[Epistemology\|认识论]]主张：案例是研究者通过[[Theoretical Perspective\|理论视角]]和方法选择**制造**出来的——"casing"是一个主动的分析行为，而非简单的对象选择。这一立场与[[Cultural Political Economy\|文化政治经济学]]等强调建构性的理论框架兼容，适合分析那些边界模糊、跨越多重尺度的复杂现象（如教育枢纽同时涉及地方教育政策、国家发展战略和全球地缘政治）([[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, pp.202, 205]])。
+> [!method-position] [[Epistemology|认识论]]与方法定位
+> - **知识观** 关系性、过程性与批判[[Constructivist Paradigm|建构主义]]；坚持案例并非“自然存在”的实体，而是研究者借助[[Theoretical Perspective|理论视角]]和方法操作主动建构的分析范畴（casing），与[[Cultural Political Economy|文化政治经济学]]及世界体系分析高度契合。
+> - **研究者角色** 跨尺度政策追踪者与多地点[[Reflexivity|反思性]]对话者，既保持宏观体系的政治经济学洞察，又扎根微观实地开展[[Rich and Thick Description|深描]]，秉持兼顾全球规范与本土能动的“双重视野”（double vision；Anderson-Levitt, 2003; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）。
+> - **有效性标准** 垂直跨尺度追踪的链条完整性、水平地点的复杂连接性、横贯历史脉络的解释融贯性与多源证据的[[Triangulation|三角互证]]。
+> - **不声称回答的问题** 不用于孤立[[Variable|变量]]的实验室因果[[Effect Size|效应量]]测量；不追求脱离社会历史情境的统计总体普适推论。
+
+> [!method-stack] 方法层级
+> - **研究设计** 多地点多标度比较案例设计（Multi-sited, Multi-scalar Comparative Design）。
+> - **数据收集** 跨国/国家/地方多级政策文本、多地点[[Fieldwork|田野调查]]、关键知情人[[Semi-structured Interview|半结构化访谈]]、历史档案与国际评价数据。
+> - **分析方法** 三维轴向协同[[Coding in Qualitative Research|编码]]、跨尺度网络流动追踪、跨地点对比矩阵分析、历时制度生成追踪。
+> - **辅助技术** [[Pluri-Scalar Governance|多标度治理]]矩阵表、[[Policy Mobility|政策流动]]轨迹可视化图、历时变迁事件年表。
+
+---
+
+## 三维分析轴体系
+
+> [!contrast-table] 比较[[Case Study|案例研究]]（CCS）的三维分析轴体系
+> | 分析轴向 | 比较与考察重点 | 核心操作逻辑 | 典型研究示例 |
+> |---|---|---|---|
+> | **水平轴（Horizontal Axis）** | 比较相似政策或制度在不同地点展开的差异化形态 | 关注彼此复杂连接而非相互孤立的地点，考察地方社会结构与微观行动者的转化 | 新加坡与阿联酋教育枢纽比较（[[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, p. 202]]）；几内亚、美、法三国阅读教学比较（Anderson-Levitt, 2003） |
+> | **垂直轴（Vertical Axis）** | 跨越微观、中观与宏观多个尺度考察[[Policy Mobility\|政策流动]]与权力博弈 | 同时关注自上而下的政策渗透与自下而上的协商抵抗，解构[[Pluri-Scalar Governance\|多标度治理]]下的权力损耗 | 追踪国际指标从世行/联合国，经国家教育部、地方学区到课堂教学的层层转译（[[Argument_Arnove_2009_WorldSystems\|Arnove, 2009]]） |
+> | **横贯轴（Transversal Axis）** | 历时性追溯现象的历史起源、宏观冲击与长期演化轨迹 | 将当前实践嵌入历史政治经济脉络，考察关键事件（冷战终结、金融危机）对体制的重塑 | 追溯 1990–2018 年间全球金融危机与地缘格局对教育枢纽政策变迁的影响（[[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, p. 204]]） |
 
 ---
 
 ## 研究程序
 
-> [!example]
-
-CCS 的研究操作不遵循固定的线性步骤，而是通过三个轴的**同时性**分析展开([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.202, 204]])：
-
-1. **水平比较** 选择两个或多个地点，追踪相似政策如何在各自的社会、政治和经济条件下以不同方式展开。在 [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 中，新加坡和阿联酋的教育枢纽政策构成水平比较的两个案例
-2. **垂直追踪** 在每个案例中，追踪政策如何在不同尺度（国家政策文件、酋长国／部委层面的执行、国际组织的背书与评价）之间流动和转化
-3. **横贯追溯** 将现象放在历史脉络中，考察 1990–2018 年间教育枢纽如何随全球政治经济变迁（冷战结束、亚洲金融危机、全球金融危机）而演变。本章因着重讨论社会政治条件，重点使用横贯维度（Bartlett & Vavrus, 2017, p.92）
-
-三个轴在实际操作中不是先后执行的步骤，而是**同时进行**的分析运动——研究者在分析政策文件时，同时注意跨地点比较（水平）、跨尺度关联（垂直）和历时变迁（横贯）。
+> [!proc] CCS 的三轴协同研究程序
+> 1. **界定“案例生成”（Casing）** 明确拟解释的复杂教育或政策现象，打破单一行政边界设定，识别涉及的核心空间尺度与制度节点。
+> 2. **水平选点与连接性考量** 遴选两个或多个具有内在社会连接与对比价值的实地场景，建立跨地点的田野进入路径。
+> 3. **垂直跨尺度资料搜集与追踪** 从超国家规约（如 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]、[[World Bank|世界银行]]方案）顺流而下，深入国家教育部政策文本，最终沉降至微观学校与社区的[[Qualitative Observation|田野观察]]与访谈。
+> 4. **嵌入横贯历史脉络** 收集历史档案与政策沿革材料，明确案例现象所处的历史发展阶段与宏观结构变迁。
+> 5. **三轴协同综合分析与撰写** 在分析每一具体政策事实时，同时保持跨地点对比、跨尺度穿透与历时追溯的“同时性”审视，揭示全球与本土辩证互动的深层机制。
 
 ---
 
 ## 适用场景
 
-> [!success]
-- 适合分析**边界模糊**的现象——当研究对象无法被清晰界定为某一国家的、某一尺度的或某一时段的"案例"时，CCS 的过程性案例观尤其有用
-- 适合**政策比较研究**——特别是涉及全球化、跨国流动和国际组织影响的政策现象（如[[International Education Hubs|国际教育枢纽]]、跨境高等教育、[[GATS and Trade in Education Services|教育服务贸易]]）
-- 适合**治理与制度变迁研究**——当分析需要在国家以下层面（如阿联酋的酋长国层面）和国家以上层面（国际组织、全球话语）之间来回移动时
-- [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 认为 CCS 特别适合分析教育枢纽现象，因为该现象的"政策混合体"（policy-mix）囊括高等教育政策、发展经济学、[[Cultural Diplomacy|文化外交]]和地缘政治等多个领域，传统单案例分析难以捕捉其全貌([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.205]])
+> [!method-fit] 适用判断
+> - **适合使用**
+>   - 分析**边界模糊、多尺度交织**的现象——如[[International Education Hubs|国际教育枢纽]]、跨境高等教育、[[GATS and Trade in Education Services|教育服务贸易]]与国际组织规约在地方的转化。
+>   - 考察**全球与本土辩证互动**——当研究旨在揭示全球同质化话语如何在微观学校遭遇变通、抵制与重构时（如 Arnove 2009 评述的多国比较案例）。
+>   - 跨越国家内部（地方与国家）与国家外部（跨国与区域治理）的多标度制度与治理变迁研究。
+> - **谨慎使用**
+>   - 仅依赖二手政策文本作为单一数据来源的研究，极易退化为案头[[Documentary Analysis|文献分析]]，无法充分激活多尺度与田野互证的优势（[[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp. 212–213]]）。
+>   - 时间与经费高度受限、无法维持多地点深度田野的项目。
+> - **不适合使用**
+>   - 寻求严密控制混杂[[Variable|变量]]以测量特定单一干预净效应的微观[[Experimental Research|实验研究]]。
+>   - 要求进行大样本无偏统计概率推论的量化普查。
 
 ---
 
-## 局限性
+## 局限性与操作挑战
 
-> [!warning]
-- CCS 对研究者的**多[[Scale in Higher Education|尺度分析]]能力**要求较高——需要同时在三个分析轴上运作，可能导致分析过于宽泛而牺牲深度（基于 Erfurth, 2022, pp.212–213）
-- 如 [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 自述，仅比较两个案例、主要依赖政策文件作为单一数据来源时，CCS 的优势（多尺度、过程性）可能无法充分发挥（pp.212–213）
-- 三个轴的**同时性**在实际操作中面临挑战——研究者往往只能在某一时刻聚焦于一个或两个轴，完全的"同时性"更接近理想类型
+> [!method-limits] 方法局限
+> - **广度与深度的张力** 要求研究者同时在水平、垂直与横贯三个维度展开深挖，极易因线索过于繁杂而分散精力，导致分析过于宏大宽泛而削弱微观[[Rich and Thick Description|深描]]的质感。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, pp. 212–213)]]
+> - **三轴“同时性”的实践困境** 在真实分析流程中，研究者受认知负荷限制往往在某一阶段重点突出某一个轴向（如横贯历史轴或水平对比轴），三轴完全等权的同时性更多作为一种理想指导准则。
+> - **跨国田野协调的高壁垒** 多地点[[Fieldwork|实地调查]]需要协调不同国家的语言、文化、制度准入与伦理审批，对团队跨国协作与资源保障提出了极高要求。
+
+---
+
+## 相关理论与方法
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Case Study]] | 基础[[Paradigm\|范式]] | CCS 是对传统静态、封闭式案例研究在[[Epistemology\|认识论]]与操作架构上的重大革新。 |
+> | [[Cultural Political Economy]] | 理论支撑 | 文化政治经济学对语义、制度与结构的选择保留机制为 CCS 提供理论底座。 |
+> | [[Fieldwork]] | 核心技术 | 深入微观学校与社区的多地点田野调查为 CCS 垂直轴底层提供厚实的实证材料。 |
+> | [[Mixed Methods Research]] | 组合设计 | CCS 常与量化统计结合，利用混合方法[[Triangulation\|三角互证]]增强跨尺度推论说服力。 |
+> | [[Robert Arnove]] | 人物 | 倡导运用多地点比较案例研究示范全球与本土辩证互动的跨尺度“双重视野”。 |
 
 ---
 
 ## 使用此方法的研究
 
-> [!example]
-> - [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]] — 评析全球化比较教育研究中的多层次比较[[Case Study|案例研究]]设计，结合 Anderson-Levitt（跨国阅读教学多地点案例）、Benavot & Resh（以色列分权案例）、Stacki（印度教师案例）与 Demerath（巴新乡村案例），示范了贯通跨国标准、国家中介与微观课堂实践的跨尺度“双重视野”分析策略。
-> - [[Argument_Erfurth_2022_education-hubs\|Erfurth (2022)]] — 以 CCS 比较新加坡和阿联酋的教育枢纽项目，聚焦横贯维度追溯 1990–2018 年间的现象变迁
-> - [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024)]] — 采用比较[[Case Study\|案例研究]]加[[Mixed Methods Research\|混合方法]]，比较两所美国大学和一所新西兰大学的 PhD [[Graduate Attributes\|毕业生特质]]发展与职场应用，以制度不同的三校一致性模式推论博士培养的系统性偏向
-> - [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]] — 采用比较案例研究设计，对比美德两国联邦体制下的教育数据化先锋州（马萨诸塞州与汉堡），系统考察州级教育行政机构中[[Data Infrastructure\|数据基础设施]]的社会-技术实践与多维做数据张力
-
----
-
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 108–110, 112)]] — 评析比较教育学者如何通过精细的多地点多标度比较[[Case Study|案例研究]]（CCS），结合几内亚与美法阅读教学、以色列分权改革、印度女教师培训、巴布亚新几内亚乡村反抗及巴勒斯坦幼教机构，示范贯通跨国标准、国家中介与微观课堂的跨尺度“双重视野”分析策略。
+> - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] — 运用 CCS 框架比较新加坡与阿联酋的[[International Education Hubs|国际教育枢纽]]建设，重点利用横贯维度追溯 1990–2018 年间全球金融危机与地缘政治对多领域政策混合体的历史重塑。
+> - [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]] — 采用比较案例研究设计结合[[Mixed Methods Research|混合方法]]，对比两所美国大学和一所新西兰大学的博士[[Graduate Attributes|毕业生特质]]发展与职场迁移，以制度差异下的模式一致性推断博士培养的结构性特征。
+> - [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] — 采用比较案例研究设计，对比美德两国联邦体制下的教育数据化先锋州（马萨诸塞州与汉堡），系统考察州级教育行政机构中[[Data Infrastructure|数据基础设施]]的社会-技术实践与治理张力。

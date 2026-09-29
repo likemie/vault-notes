@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -30,15 +30,18 @@ related_persons:
   - "[[Louis Mountbatten]]"
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch05]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch07]]"
 related_facts:
   - "[[Education Resources Information Center]]"
+  - "[[Simon Bolivar United World Institute of Experimental Agriculture]]"
+  - "[[Armand Hammer United World College of the American West]]"
   - "[[United World Colleges Associated Schools Policy 1977]]"
 related_theories:
   - "[[Transitology]]"
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-18
+updated: 2026-09-29
 ---
 
 # United World Colleges
@@ -95,6 +98,19 @@ UWC 的形成不是把一所学校完整复制到其他国家。早期加拿大�
 > - **1975 年　两种成员模式同时获得确认** 莱斯特·B·皮尔逊书院以国家支持、寄宿和全奖目标代表经典强模式；东南亚书院则由全龄城市[[International Schools\|国际学校]]转为正式成员。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 115–122)]]
 > - **1977–1982 年　关联路径制度化** 1977年关联学校政策设置非正式联系期，沃特福德再经关联、课程转换和财政协议成为正式成员。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 123–126)]]
 > - **1982–1984 年　地方政府支持的村落书院落地** 亚得里亚海书院以地方和中央政府资金、全奖政策及分散式村落空间形成另一种强模式。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 126–129)]]
+> - **1978–1985 年　使命向农业发展与地方社会问题扩展** Ditchley Park “Indaba”要求从人民关系、毕业生终身行动和地方真正需要重新解释服务。[[Simon Bolivar United World Institute of Experimental Agriculture\|西蒙·玻利瓦尔联合世界实验农业学院]]把国际理解与农业管理、粮食及营养问题结合，但截至 1985 年仍因跨部门许可未能开学。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 168–174)]]
+> - **1981–1982 年　美国西部书院快速成立** [[Armand Hammer United World College of the American West\|阿曼德·哈默美国西部联合世界书院]]依靠单一资助者同时提供校址、赤字担保、未来捐赠和执行资源，在一年多内完成选址、治理和首届招生。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 175–178)]]
+
+## 第二个十年的使命调整
+
+> [!claim] 服务由救援模式扩展为回应地方社会需要
+> UWC 的和平教育最初强调潜在领导者、跨国理解和作为“战争的道德等价物”的救援服务。第二个十年把战争风险进一步联系到世界饥饿、南北差距和处境不利，并主张单个书院应反映区域位置。服务由海上、山地救援扩展到农业技术、自然保护、老人照护和地方社区关系。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 168–170, 184–185)]]
+
+> [!tension] 地方适应与共同身份
+> 农业学院可能更符合拉丁美洲与加勒比的时代需要，却也引出它是正式 UWC 还是接受 UWC 咨询的国家学院之争。地方化因此既是地理与政治平衡的条件，也是成员边界持续需要判断的原因。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 170–174)]]
+
+> [!stat-cards]- 1985 年网络覆盖
+> UWC 校友约 6,000 人。德国进入各书院的学生为 392 人，挪威 243 人，法国只有 59 人；网络扩大没有消除国家与文化代表失衡。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 188)]]
 
 ## 成员模型与身份边界
 
@@ -128,3 +144,5 @@ UWC 的形成不是把一所学校完整复制到其他国家。早期加拿大�
 > | [[United World Colleges Associated Schools Policy 1977]] | 政策 | 以非正式校际联系维持关联资格与正式成员身份的层级。 |
 > | [[Boarding Schools]] | 概念 | 经典 UWC 使用寄宿共同体强化跨文化关系，但网络也接受非经典学校。 |
 > | [[Louis Mountbatten]] | 人物 | 把单校扩展倡议组织成国际理事会、公司、办公室和国家委员会网络。 |
+> | [[Simon Bolivar United World Institute of Experimental Agriculture]] | 项目 | 把 UWC 使命延伸到农业职业教育、世界粮食问题与地方服务。 |
+> | [[Armand Hammer United World College of the American West]] | 组织 | 以集中慈善资源实现美国书院快速创校。 |

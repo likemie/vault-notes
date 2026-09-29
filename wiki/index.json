@@ -22709,6 +22709,16 @@
     ]
   },
   {
+    "title": "International Option of the French Baccalaureate",
+    "type": "fact",
+    "path": "wiki/facts/france/International Option of the French Baccalaureate.md",
+    "aliases": [
+      "法国业士文凭国际选项",
+      "Option internationale du baccalauréat",
+      "OIB"
+    ]
+  },
+  {
     "title": "Positivist Dispute in German Sociology",
     "type": "fact",
     "path": "wiki/facts/germany/Positivist Dispute in German Sociology.md",
@@ -23087,6 +23097,17 @@
     ]
   },
   {
+    "title": "1985 Trieste Intergovernmental Conference on the International Baccalaureate",
+    "type": "fact",
+    "path": "wiki/facts/global/1985 Trieste Intergovernmental Conference on the International Baccalaureate.md",
+    "aliases": [
+      "1985年的里雅斯特国际文凭政府间会议",
+      "1985 年的里雅斯特国际文凭政府间会议",
+      "第四次国际文凭政府间会议",
+      "Fourth Intergovernmental Conference on the International Baccalaureate"
+    ]
+  },
+  {
     "title": "2014 Open Letter on PISA",
     "type": "fact",
     "path": "wiki/facts/global/2014 Open Letter on PISA.md",
@@ -23337,6 +23358,15 @@
       "经济合作与发展组织",
       "Organisation for Economic Co-operation and Development",
       "经合组织"
+    ]
+  },
+  {
+    "title": "Standing Conference of Governments of the International Baccalaureate",
+    "type": "fact",
+    "path": "wiki/facts/global/Standing Conference of Governments of the International Baccalaureate.md",
+    "aliases": [
+      "国际文凭政府常设会议",
+      "Standing Conference of Governments"
     ]
   },
   {
@@ -26399,6 +26429,15 @@
     ]
   },
   {
+    "title": "Armand Hammer United World College of the American West",
+    "type": "fact",
+    "path": "wiki/facts/us/Armand Hammer United World College of the American West.md",
+    "aliases": [
+      "阿曼德·哈默美国西部联合世界书院",
+      "United World College of the American West"
+    ]
+  },
+  {
     "title": "Best Evidence Encyclopedia",
     "type": "fact",
     "path": "wiki/facts/us/Best Evidence Encyclopedia.md",
@@ -27616,6 +27655,15 @@
     ]
   },
   {
+    "title": "Simon Bolivar United World Institute of Experimental Agriculture",
+    "type": "fact",
+    "path": "wiki/facts/venezuela/Simon Bolivar United World Institute of Experimental Agriculture.md",
+    "aliases": [
+      "西蒙·玻利瓦尔联合世界实验农业学院",
+      "Simon Bolivar United World College of Agriculture"
+    ]
+  },
+  {
     "title": "Argument_Bates_2017_CognitionEducationTrust",
     "type": "argument",
     "path": "wiki/arguments/books/Argument_Bates_2017_CognitionEducationTrust.md"
@@ -28044,6 +28092,11 @@
     "title": "Argument_Peterson_1987_OpenCourt_Ch06",
     "type": "argument",
     "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md"
+  },
+  {
+    "title": "Argument_Peterson_1987_OpenCourt_Ch07",
+    "type": "argument",
+    "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch07.md"
   },
   {
     "title": "Argument_QiMei_2015_EducationalResearchMethods",

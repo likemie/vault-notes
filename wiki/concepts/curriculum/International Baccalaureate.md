@@ -7,7 +7,7 @@ aliases:
 summary: "起源于国际学校共同课程与跨国升学需求的国际课程体系，通过学科组、核心组件和统一评估平衡通识教育、专业准备与国际理解。"
 type: concept
 domain: "curriculum"
-related_count: 45
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -55,6 +55,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[International Schools Examination Syndicate]]"
   - "[[International Baccalaureate North America]]"
+  - "[[Standing Conference of Governments of the International Baccalaureate]]"
   - "[[Founding of the International Baccalaureate]]"
   - "[[International Baccalaureate Six-Year Experiment]]"
   - "[[United World Colleges]]"
@@ -66,10 +67,11 @@ related_arguments:
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch05]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch07]]"
 confidence: medium
 status: draft
 created: 2026-05-17
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 
 # International Baccalaureate
@@ -168,6 +170,7 @@ updated: 2026-09-22
 > - **1970–1976 — 制度可行性验证** 六年试验把考试实施、学校采用、家长信任、大学承认、行政能力和持续资金作为相互依赖的系统来建设。到 1973 年底，20 国给予一般承认，学生进入 25 国 175 所大学；1976 年海牙政府间会议把政府资助和治理参与纳入常设结构。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 61–97)]]
 > - **1980–1982 — 十一月考试提前实施** 沃特福德卡姆拉巴按南半球学年组织课程，多数学生需要申请南非大学。国际文凭组织（International Baccalaureate Organization，IBO）承担额外成本，把原计划长期服务澳大拉西亚和南美学校的十一月考试季提前分阶段实施。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 125–126)]]
 > - **1977–1984 — 北美公立高中扩张** 精英预科学校和社区学院没有形成持续采用路径，地方课程自主的公立高中成为主要增长点。[[International Baccalaureate North America\|国际文凭北美公司]]（International Baccalaureate North America，IBNA）以基金会启动资金、介绍会和教师培训支持学校采用；北美授权学校由 1977 年 10 所增至 1984 年 126 所。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 131–152)]]
+> - **1981–1985 — 政府参与、功能分权与课程核心成熟** [[Standing Conference of Governments of the International Baccalaureate\|国际文凭政府常设会议]]把成员国出资与理事代表制度化；日内瓦中央行政、巴斯考试办公室和区域办事处形成分工。TOK、EE 与 [[Creativity, Action, Service|CASS]] 又分别发展外部调节、外部评分和指导性档案等质量保障方式。1985 年政府贡献约占 IBO 收入略高于 10%，说明公共治理仍受财政承诺制约。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 161–168, 178–190)]]
 
 > [!ref-table]- 详细史实
 > [[Founding of the International Baccalaureate\|国际文凭创立]]记录 1924–1970 年间的行动者、组织、资助、课程决策与大学承认时间轴；[[International Schools Examination Syndicate\|国际学校考试辛迪加]]与 1967 年塞夫尔会议分别展开其组织载体和资格试验机制；[[International Baccalaureate Six-Year Experiment\|国际文凭六年试验]]记录考试、学校、承认、财务与治理怎样把方案转为常设制度；海牙政府间会议展开实验结束时的政府出资与治理安排。
@@ -198,6 +201,7 @@ updated: 2026-09-22
 > | [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 67–68)]] | 1970–1975 年正式考试 | 完整文凭考生与通过率 | 考生由 29 人增至 377 人；1971–1975 年通过率为 70%、63%、79%、80%、75% | 学生与学校并非[[Random Sampling\|随机样本]]，数量和通过率不能单独证明课程效果 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, p. 71)]] | 截至 1973 年底 | 承认范围 | 20 国给予一般承认，学生进入 25 国 175 所大学 | 入学、分班、免修和部分承认未在总数中分开 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 131, 151–153)]] | 1977–1984 年北美扩张 | 授权学校与教师培训规模 | 北美授权学校由 10 所增至 126 所；1978 年培训 97 名教师、覆盖 26 校，1984 年培训 579 名教师、覆盖 106 所授权学校 | 组织记录描述扩张和实施支持，不构成课程效果或因果评价 |
+> | [[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 180–182, 188–190)]] | 1985 年成熟期 | 核心课程与组织规模 | [[Theory of Knowledge\|TOK]] 2,227 名文凭考生中 620 人获奖励分、58 人被扣分；EE 1,471 人获 1 分、310 人获 2 分、234 人被扣分；同年颁发第 10,000 份 IB 文凭 | 奖励分分布和累计文凭数只能描述制度规模，不能证明课程效果 |
 
 > [!effect-table]- [[Critical Thinking\|批判性思维]]与学术成就 ([[Argument_Cole_2015_AJE\|Cole et al., 2015]])
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
@@ -224,7 +228,7 @@ updated: 2026-09-22
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Peterson_1987_OpenCourt\|Peterson (1987)]] — 系统记录 IB 的创生与制度化历程：涵盖六年试验期将课程、考试、行政与资格承认整合为常设国际资格的运行机制（Ch. 4）、沃特福德加入 [[United World Colleges\|UWC]] 推动十一月考试季确立对全球考试周期的重构（Ch. 5），以及地方课程自主与教师培训怎样使 IB 转化为北美公立高中的改革工具（Ch. 6）。
+> - [[Argument_Peterson_1987_OpenCourt\|Peterson (1987)]] — 系统记录 IB 的创生与制度化历程：六年试验把课程、考试、行政与资格承认整合为常设国际资格（Ch. 4），沃特福德加入 [[United World Colleges\|UWC]] 推动十一月考试季（Ch. 5），地方课程自主与教师培训使 IB 成为北美公立高中的改革工具（Ch. 6），政府参与、功能分权和核心课程评价又支撑第二个十年的成熟运行（Ch. 7）。
 > - [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]] — 分析了 IB 在[[International Education\|国际教育]]中的扩张，并讨论了其质量保障机制及被引入非西方语境时的文化张力。
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 提供了澳大利亚 IB 毕业生在[[Critical Thinking\|批判性思维]]和学术成就上的大规模量化实证数据。
 > - [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] — 聚焦 [[IB Diploma Programme\|IBDP]] 的核心组件，从机制层面探讨了如何通过“[[Concurrency of Learning\|并发学习]]（Concurrency of Learning）”来实现其标榜的整体学习理念。

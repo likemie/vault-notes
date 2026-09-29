@@ -19668,6 +19668,9 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 .callout[data-callout="theory-framework"] {
   --callout-color: 31, 119, 128;
   --callout-icon: lucide-table-2;
+  container-type: inline-size;
+  min-width: 0;
+  max-width: 100%;
   border: 1px solid rgba(var(--callout-color), 0.25);
   border-left: 5px solid rgb(var(--callout-color));
   background:
@@ -19730,6 +19733,8 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 }
 
 .callout[data-callout="theory-framework"] > .callout-content {
+  min-width: 0;
+  max-width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
 }
@@ -19737,11 +19742,12 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 .callout[data-callout="theory-framework"] table {
   display: table;
   width: 100%;
-  min-width: 48rem;
+  min-width: 0;
+  max-width: 100%;
   margin: 0.5rem 0 0.25rem;
   border-collapse: separate;
   border-spacing: 0;
-  table-layout: fixed;
+  table-layout: auto;
 }
 
 .callout[data-callout="theory-framework"] th {
@@ -19754,6 +19760,8 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
   font-weight: 750;
   text-align: left;
   white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .callout[data-callout="theory-framework"] td {
@@ -19765,16 +19773,23 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
   line-height: 1.55;
   vertical-align: top;
   overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
-.callout[data-callout="theory-framework"] th:nth-child(1),
-.callout[data-callout="theory-framework"] td:nth-child(1) { width: 19%; }
-.callout[data-callout="theory-framework"] th:nth-child(2),
-.callout[data-callout="theory-framework"] td:nth-child(2) { width: 23%; }
-.callout[data-callout="theory-framework"] th:nth-child(3),
-.callout[data-callout="theory-framework"] td:nth-child(3) { width: 27%; }
-.callout[data-callout="theory-framework"] th:nth-child(4),
-.callout[data-callout="theory-framework"] td:nth-child(4) { width: 31%; }
+.callout[data-callout="theory-framework"] :is(th, td) a {
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+/* Standard four-column framework: use balanced proportions only when there are exactly four columns. */
+.callout[data-callout="theory-framework"] table:has(thead tr > th:nth-child(4):last-child) {
+  table-layout: fixed;
+}
+
+.callout[data-callout="theory-framework"] table:has(thead tr > th:nth-child(4):last-child) :is(th, td):nth-child(1) { width: 19%; }
+.callout[data-callout="theory-framework"] table:has(thead tr > th:nth-child(4):last-child) :is(th, td):nth-child(2) { width: 23%; }
+.callout[data-callout="theory-framework"] table:has(thead tr > th:nth-child(4):last-child) :is(th, td):nth-child(3) { width: 27%; }
+.callout[data-callout="theory-framework"] table:has(thead tr > th:nth-child(4):last-child) :is(th, td):nth-child(4) { width: 31%; }
 
 .callout[data-callout="theory-framework"] tbody tr:nth-child(even) td {
   background: color-mix(in srgb, var(--background-primary) 94%, rgb(var(--callout-color)) 6%);
@@ -19782,6 +19797,78 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 
 .callout[data-callout="theory-framework"] tbody tr:hover td {
   background: color-mix(in srgb, var(--background-primary) 88%, rgb(var(--callout-color)) 12%);
+}
+
+/* Standard four-column framework becomes readable cards inside a narrow pane. */
+@container (max-width: 680px) {
+  .callout[data-callout="theory-framework"] table:has(thead tr > th:nth-child(4):last-child),
+  .callout[data-callout="theory-framework"] table:has(thead tr > th:nth-child(4):last-child) tbody,
+  .callout[data-callout="theory-framework"] table:has(thead tr > th:nth-child(4):last-child) tr {
+    display: block;
+    width: 100%;
+  }
+
+  .callout[data-callout="theory-framework"] table:has(thead tr > th:nth-child(4):last-child) thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  .callout[data-callout="theory-framework"] table:has(thead tr > th:nth-child(4):last-child) tbody {
+    display: grid;
+    gap: 0.75rem;
+  }
+
+  .callout[data-callout="theory-framework"] table:has(thead tr > th:nth-child(4):last-child) tbody tr {
+    overflow: hidden;
+    border: 1px solid rgba(var(--callout-color), 0.20);
+    border-radius: 9px;
+    background: color-mix(in srgb, var(--background-primary) 96%, rgb(var(--callout-color)) 4%);
+  }
+
+  .callout[data-callout="theory-framework"] table:has(thead tr > th:nth-child(4):last-child) td {
+    display: grid;
+    grid-template-columns: minmax(7.2rem, 31%) minmax(0, 1fr);
+    gap: 0.6rem;
+    width: auto !important;
+    padding: 0.58rem 0.65rem;
+    border: 0;
+    border-bottom: 1px solid rgba(var(--callout-color), 0.12);
+    background: transparent;
+  }
+
+  .callout[data-callout="theory-framework"] table:has(thead tr > th:nth-child(4):last-child) td:last-child {
+    border-bottom: 0;
+  }
+
+  .callout[data-callout="theory-framework"] table:has(thead tr > th:nth-child(4):last-child) td::before {
+    color: rgb(var(--callout-color));
+    font-size: var(--fs-caption);
+    font-weight: 760;
+    line-height: 1.45;
+  }
+
+  .callout[data-callout="theory-framework"] table:has(thead tr > th:nth-child(4):last-child) td:nth-child(1)::before { content: "理论依据"; }
+  .callout[data-callout="theory-framework"] table:has(thead tr > th:nth-child(4):last-child) td:nth-child(2)::before { content: "分析维度与提问"; }
+  .callout[data-callout="theory-framework"] table:has(thead tr > th:nth-child(4):last-child) td:nth-child(3)::before { content: "可观察线索与材料"; }
+  .callout[data-callout="theory-framework"] table:has(thead tr > th:nth-child(4):last-child) td:nth-child(4)::before { content: "判读规则与边界"; }
+
+  .callout[data-callout="theory-framework"] table:has(thead tr > th:nth-child(4):last-child) tbody tr:hover td {
+    background: transparent;
+  }
+}
+
+@container (max-width: 420px) {
+  .callout[data-callout="theory-framework"] table:has(thead tr > th:nth-child(4):last-child) td {
+    grid-template-columns: 1fr;
+    gap: 0.2rem;
+  }
 }
 
 .callout[data-callout="theory-proposition"] {
@@ -19845,4 +19932,179 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 
 .theme-dark .callout[data-callout="theory-proposition"] {
   --callout-color: 211, 154, 219;
+}
+
+/* Theory: hierarchical dimensions and terminal indicators */
+.callout[data-callout="theory-hierarchy"] {
+  --callout-color: 67, 101, 151;
+  --callout-icon: lucide-network;
+  container-type: inline-size;
+  border: 1px solid rgba(var(--callout-color), 0.24);
+  border-left: 5px solid rgb(var(--callout-color));
+  background:
+    linear-gradient(145deg, rgba(var(--callout-color), 0.10), transparent 48%),
+    var(--background-primary);
+  box-shadow: 0 8px 20px rgba(var(--callout-color), 0.08);
+}
+
+.callout[data-callout="theory-hierarchy"] > .callout-title {
+  color: rgb(var(--callout-color));
+  font-weight: 760;
+}
+
+.callout[data-callout="theory-hierarchy"] > .callout-title .callout-title-inner::before {
+  content: "HIERARCHY";
+  display: inline-block;
+  margin-right: 0.55rem;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: rgba(var(--callout-color), 0.14);
+  color: rgb(var(--callout-color));
+  font-size: var(--fs-label);
+  font-weight: 820;
+  letter-spacing: 0.07em;
+  vertical-align: middle;
+}
+
+.callout[data-callout="theory-hierarchy"] > .callout-content {
+  padding: 0.85rem 1rem 1rem;
+}
+
+.callout[data-callout="theory-hierarchy"] ul {
+  list-style: none;
+}
+
+/* Level 1: the broad theoretical dimension */
+.callout[data-callout="theory-hierarchy"] > .callout-content > ul {
+  display: grid;
+  gap: 0.9rem;
+  margin: 0;
+  padding: 0;
+}
+
+.callout[data-callout="theory-hierarchy"] > .callout-content > ul > li {
+  margin: 0;
+  padding: 0.85rem 0.9rem 0.9rem;
+  border: 1px solid rgba(var(--callout-color), 0.20);
+  border-radius: 10px;
+  background: color-mix(in srgb, var(--background-primary) 91%, rgb(var(--callout-color)) 9%);
+}
+
+.callout[data-callout="theory-hierarchy"] > .callout-content > ul > li > strong:first-child,
+.callout[data-callout="theory-hierarchy"] > .callout-content > ul > li > p:first-child > strong:first-child {
+  color: rgb(var(--callout-color));
+  font-size: var(--fs-lead);
+  letter-spacing: 0.015em;
+}
+
+/* Level 2: branches within a dimension */
+.callout[data-callout="theory-hierarchy"] > .callout-content > ul > li > ul {
+  display: grid;
+  gap: 0.65rem;
+  margin: 0.75rem 0 0 0.3rem;
+  padding: 0 0 0 1rem;
+  border-left: 2px solid rgba(var(--callout-color), 0.30);
+}
+
+.callout[data-callout="theory-hierarchy"] > .callout-content > ul > li > ul > li {
+  position: relative;
+  margin: 0;
+  padding: 0.68rem 0.75rem;
+  border-radius: 8px;
+  background: color-mix(in srgb, var(--background-primary) 95%, rgb(var(--callout-color)) 5%);
+}
+
+.callout[data-callout="theory-hierarchy"] > .callout-content > ul > li > ul > li::before {
+  content: "";
+  position: absolute;
+  left: -1.05rem;
+  top: 1.15rem;
+  width: 0.75rem;
+  height: 2px;
+  background: rgba(var(--callout-color), 0.30);
+}
+
+.callout[data-callout="theory-hierarchy"] > .callout-content > ul > li > ul > li > strong:first-child,
+.callout[data-callout="theory-hierarchy"] > .callout-content > ul > li > ul > li > p:first-child > strong:first-child {
+  color: color-mix(in srgb, rgb(var(--callout-color)) 84%, var(--text-normal) 16%);
+  font-weight: 740;
+}
+
+/* Level 3: terminal dimensions or indicators */
+.callout[data-callout="theory-hierarchy"] > .callout-content > ul > li > ul > li > ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+  gap: 0.6rem;
+  margin: 0.65rem 0 0;
+  padding: 0;
+}
+
+.callout[data-callout="theory-hierarchy"] > .callout-content > ul > li > ul > li > ul > li {
+  margin: 0;
+  padding: 0.68rem 0.75rem;
+  border: 1px solid rgba(var(--callout-color), 0.15);
+  border-radius: 8px;
+  background: var(--background-primary);
+  box-shadow: 0 3px 9px rgba(var(--callout-color), 0.05);
+}
+
+.callout[data-callout="theory-hierarchy"] > .callout-content > ul > li > ul > li > ul > li > strong:first-child,
+.callout[data-callout="theory-hierarchy"] > .callout-content > ul > li > ul > li > ul > li > p:first-child > strong:first-child {
+  color: rgb(var(--callout-color));
+  font-weight: 720;
+}
+
+/* Leaf metadata: meaning, evidence, reading rule, provenance */
+.callout[data-callout="theory-hierarchy"] > .callout-content > ul > li > ul > li > ul > li > ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.38rem;
+  margin: 0.55rem 0 0;
+  padding: 0;
+}
+
+.callout[data-callout="theory-hierarchy"] > .callout-content > ul > li > ul > li > ul > li > ul > li {
+  margin: 0;
+  padding: 0.42rem 0.5rem;
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--background-primary) 92%, rgb(var(--callout-color)) 8%);
+  font-size: var(--fs-table);
+  line-height: 1.5;
+}
+
+.callout[data-callout="theory-hierarchy"] > .callout-content > ul > li > ul > li > ul > li > ul > li > strong:first-child {
+  display: block;
+  margin-bottom: 0.12rem;
+  color: rgb(var(--callout-color));
+  font-size: var(--fs-caption);
+}
+
+@media (max-width: 700px) {
+  .callout[data-callout="theory-hierarchy"] > .callout-content > ul > li > ul > li > ul > li > ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+@container (max-width: 520px) {
+  .callout[data-callout="theory-hierarchy"] > .callout-content {
+    padding-inline: 0.7rem;
+  }
+
+  .callout[data-callout="theory-hierarchy"] > .callout-content > ul > li {
+    padding-inline: 0.7rem;
+  }
+
+  .callout[data-callout="theory-hierarchy"] > .callout-content > ul > li > ul {
+    margin-left: 0;
+    padding-left: 0.75rem;
+  }
+
+  .callout[data-callout="theory-hierarchy"] > .callout-content > ul > li > ul > li > ul,
+  .callout[data-callout="theory-hierarchy"] > .callout-content > ul > li > ul > li > ul > li > ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+.theme-dark .callout[data-callout="theory-hierarchy"] {
+  --callout-color: 125, 166, 224;
 }

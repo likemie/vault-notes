@@ -5,12 +5,48 @@
       "path": "wiki/templates/template-theory.md"
     },
     {
-      "basename": "Globalization from Below",
-      "path": "wiki/theories/comparative-education/Globalization from Below.md"
+      "basename": "Stanford School",
+      "path": "wiki/theories/comparative-education/Stanford School.md"
     },
     {
       "basename": "Argument_Arnove_2009_WorldSystems",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
+    },
+    {
+      "basename": "Pluri-Scalar Governance",
+      "path": "wiki/theories/comparative-education/Pluri-Scalar Governance.md"
+    },
+    {
+      "basename": "template-argument-edited-volume",
+      "path": "wiki/templates/template-argument-edited-volume.md"
+    },
+    {
+      "basename": "Argument_Peterson_1987_OpenCourt_Ch06",
+      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md"
+    },
+    {
+      "basename": "template-argument-monograph",
+      "path": "wiki/templates/template-argument-monograph.md"
+    },
+    {
+      "basename": "template-argument-textbook",
+      "path": "wiki/templates/template-argument-textbook.md"
+    },
+    {
+      "basename": "template-argument",
+      "path": "wiki/templates/template-argument.md"
+    },
+    {
+      "basename": "CALLOUTS-PREVIEW",
+      "path": "wiki/templates/CALLOUTS-PREVIEW.md"
+    },
+    {
+      "basename": "Argument_Steiner-Khamsi_2024_CE",
+      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
+    },
+    {
+      "basename": "Globalization from Below",
+      "path": "wiki/theories/comparative-education/Globalization from Below.md"
     },
     {
       "basename": "Shadow State",
@@ -19,10 +55,6 @@
     {
       "basename": "Enlightenment",
       "path": "wiki/concepts/educational-philosophy/Enlightenment.md"
-    },
-    {
-      "basename": "Stanford School",
-      "path": "wiki/theories/comparative-education/Stanford School.md"
     },
     {
       "basename": "World Society Theory",
@@ -167,38 +199,6 @@
     {
       "basename": "Disciplina and Doctrina",
       "path": "wiki/concepts/educational-philosophy/Disciplina and Doctrina.md"
-    },
-    {
-      "basename": "Discipline-Based Theory",
-      "path": "wiki/concepts/research-methodology/Discipline-Based Theory.md"
-    },
-    {
-      "basename": "European Qualifications Framework",
-      "path": "wiki/facts/eu/European Qualifications Framework.md"
-    },
-    {
-      "basename": "Policy Borrowing",
-      "path": "wiki/concepts/comparative-education/Policy Borrowing.md"
-    },
-    {
-      "basename": "Educational Meliorism",
-      "path": "wiki/concepts/comparative-education/Educational Meliorism.md"
-    },
-    {
-      "basename": "Attrition",
-      "path": "wiki/concepts/research-methodology/Attrition.md"
-    },
-    {
-      "basename": "Human Capital Theory",
-      "path": "wiki/theories/political-economy-geopolitics/Human Capital Theory.md"
-    },
-    {
-      "basename": "OECD",
-      "path": "wiki/facts/global/OECD.md"
-    },
-    {
-      "basename": "Case Study",
-      "path": "wiki/methods/qualitative/Case Study.md"
     }
   ],
   "omittedPaths": [],

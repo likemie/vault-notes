@@ -7,7 +7,7 @@ aliases:
 summary: "教育资格在另一机构或国家被接受为入学、选拔、分班、课程豁免或任职依据的制度过程，强调资格效力由使用者、主管机关和具体用途共同赋予。"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,20 +19,23 @@ tags:
 related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Conatus]]"
+  - "[[International Schools]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Alec Peterson]]"
-related_facts: []
+related_facts:
+  - "[[International Option of the French Baccalaureate]]"
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch04]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch02]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch07]]"
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-09-17
+updated: 2026-09-29
 ---
 
 # International Qualification Recognition
@@ -134,6 +137,7 @@ updated: 2026-09-17
 > - **1968–1970 年 — 分散与集中路径并行** 英美逐校谈判，法国、瑞典和德国通过法令、等值或特殊程序建立初始承认。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 68–71)]]
 > - **1973 年 — 承认网络达到跨国规模** 20 国给予一般承认，其他国家部分承认，学生进入 25 国 175 所大学；资格由少数承诺转化为实际使用网络（p. 71）。
 > - **1974–1978 年 — 承认国进入治理** 海牙政府间会议把 1977—1978 年考试资助与出资国理事代表权连接；1978 年支持国常设会议获得三分之一理事提名权。接受方不再只是外部评价资格，也开始参与维持组织和治理标准（pp. 90–97）。
+> - **1981–1985 年 — 指定学校承认成为国家公平与跨国流动的折中** 法国以国家业士文凭国际选项维持专业准入，德国担心本国富裕学生借 IB 绕过 Abitur 公共竞争。彼得森主张只在少数获准学校承认本国学生的 IB，使[[International Schools|国际学校]]能与东道国学生保持文化接触，同时限制替代资格扩张为普遍后门。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 163–164, 190–191)]]
 
 ## 争议与批评
 
@@ -144,6 +148,9 @@ updated: 2026-09-17
 >
 > > [!axis] 一般承认是否掩盖用途差异
 > > “被 20 国承认”能够说明网络范围，却不说明每国允许直接入学、参加考试、分班还是免修，也不说明公共任职效力。比较承认程度必须拆分具体用途（pp. 68–78）。
+>
+> > [!axis] 双文化国家资格能否替代多文化国际资格
+> > [[International Option of the French Baccalaureate\|法国业士文凭国际选项]]以伙伴国共同设计的外语和历史／地理部分连接两种文化，并保留法国国家资格效力。对于经历多个国家或就读于多国籍学校的学生，双边路径会重新分组，仍需要共同国际资格。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 163–164, 190)]]
 
 > [!warning] 适用局限
 > IB 六年试验说明资格承认如何在一个新国际考试组织周围形成，不能据此假定所有学历、专业资格或跨境学分都遵循相同程序。其证据主要来自彼得森的参与者叙述，国家法令与大学政策仍需以相应原始文件核验。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 68–82)]]
@@ -162,4 +169,5 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4)]] — 通过 IB 六年试验比较自治大学、中央教育机关、指定学校和公共任职等不同承认路径，展示国际资格如何从有限承诺发展为跨国使用网络。
+> - [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 67–71)]] — 通过 IB 六年试验比较自治大学、中央教育机关、指定学校和公共任职等不同承认路径，展示国际资格如何从有限承诺发展为跨国使用网络。
+> - [[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 161–191)]] — 以法国国际选项和德国 Abitur 争议说明，成熟国际资格仍须在多文化流动、专业准入与国内统一竞争之间协商有限承认。

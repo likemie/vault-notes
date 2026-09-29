@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt"
 argument_key: "Argument_Peterson_1987_OpenCourt"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 argument_kind: "book"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -68,12 +68,13 @@ related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch04]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch05]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch07]]"
 sources:
   - "[[books/Peterson_1987_OpenCourt/Peterson_1987_OpenCourt|Peterson_1987_OpenCourt]]"
 part_of:
 status: draft
 created: 2026-08-17
-updated: 2026-09-01
+updated: 2026-09-29
 ---
 # Argument_Peterson_1987_OpenCourt
 
@@ -136,6 +137,7 @@ updated: 2026-09-01
 > - **Ch. 4 — The Six-Year Experiment with the IB** 把课程方案置入真实学校、考试、大学承认与财务环境，说明 [[International Qualification Recognition\|国际资格承认]]、学校多样性、考试行政和收入结构如何共同决定 IB 能否从试验转为常设制度。
 > - **Ch. 5 — Mountbatten and the Expansion of the United World Colleges** 追踪[[Louis Mountbatten\|路易斯·蒙巴顿]]如何把单校扩展倡议重组为[[United World Colleges\|联合世界书院]]国际网络，并以加拿大、新加坡、斯威士兰与意大利案例说明共同使命如何在自治治理、奖学金融资和多种学校模型中实现。
 > - **Ch. 6 — The International Baccalaureate in North America** 说明 IB 在精英预科学校和社区学院路径失败后，如何借北美地方课程自主、[[Advanced Placement Program\|大学先修课程项目]]先例、教育质量焦虑、[[International Baccalaureate North America\|IBNA]] 区域筹资与教师培训网络进入公立高中。
+> - **Ch. 7 — The Second Decade and Today** 说明 IB 与 UWC 如何以政府参与、功能分权、课程核心评价和多样化书院项目扩大规模，并持续处理公共身份、国家承认和地方适应的制度张力。
 
 > [!chapter-index] 章节索引
 > - **Ch. 1 — The Founding of Atlantic College** _Ch01 — 大西洋学院的组织创办与课程难题。
@@ -144,6 +146,7 @@ updated: 2026-09-01
 > - **Ch. 4 — The Six-Year Experiment with the IB** _Ch04 — 追踪 1967–1976 年的正式考试、跨国承认、学校案例、资金危机、行政分权和政府参与，解释 IB 如何取得制度可行性。
 > - **Ch. 5 — Mountbatten and the Expansion of the United World Colleges** _Ch05 — 说明 UWC 怎样从复制大西洋学院转向分层网络，并在经典寄宿书院、全龄国际学校、关联学校和地方政府支持书院之间协商成员边界。
 > - **Ch. 6 — The International Baccalaureate in North America** _Ch06 — 解释北美公立高中为何成为意外的扩张载体，以及区域法人、基金会启动资金、介绍会和教师培训如何形成规模化机制。
+> - **Ch. 7 — The Second Decade and Today** _Ch07 — 解释第二个十年的混合治理、区域分权、核心课程成熟和 UWC 使命多样化，并以 1985 年两场会议呈现尚未解决的财政与承认问题。
 
 > [!textbook-overview] 章节叙事表
 > | 章节 | 内容概要 | 主要关联条目 |
@@ -154,12 +157,14 @@ updated: 2026-09-01
 > | _Ch04 | 第4章 [[International Baccalaureate Six-Year Experiment\|国际文凭六年试验]] | 说明考试实施、大学承认、学校扩展、语言折中、业务分权和资金组合如何相互强化，使改革项目成为常设国际资格组织。 |
 > | _Ch05 | 第5章 蒙巴顿与联合世界书院扩展 | 追踪国际理事会、国际办公室、国家委员会和自治书院如何形成网络，并比较政府全奖书院、城市国际学校、关联学校与村落型书院。 |
 > | _Ch06 | 第6章 国际文凭在北美 | 说明地方课程自主、教育质量焦虑、IBNA 筹资和教师培训网络如何把 IB 从少数国际学校扩展至北美公立高中。 |
+> | _Ch07 | 第7章 第二个十年与当下 | 说明政府参与、区域分权、课程核心评价与多样化书院项目如何支撑成熟期运行，并揭示财政和国家承认仍是持续约束。 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch01\|第1章]] | | |
 > | [[Argument_Peterson_1987_OpenCourt_Ch02\|第2章]] | | |
 > | [[Argument_Peterson_1987_OpenCourt_Ch03\|第3章]] | | |
 > | [[Argument_Peterson_1987_OpenCourt_Ch04\|第4章]] | | |
 > | [[Argument_Peterson_1987_OpenCourt_Ch05\|第5章]] | | |
 > | [[Argument_Peterson_1987_OpenCourt_Ch06\|第6章]] | | |
+> | [[Argument_Peterson_1987_OpenCourt_Ch07\|第7章]] | | |
 
 ## 跨章综合
 
@@ -174,6 +179,7 @@ updated: 2026-09-01
 > - **财务危机推动组织制度化** 基金会启动资金、考试费、学校年费、政府资助和业务分权逐步形成收入与治理组合。1976 年海牙会议把项目生存从少数个人和基金会责任转化为学校与政府共同责任（第 4 章，pp. 83–97）。
 > - **扩展把复制问题转化为身份治理** 第 5 章显示，[[United World Colleges\|UWC]] 无法只复制大西洋学院。皮尔逊书院、东南亚书院、沃特福德和亚得里亚海书院以不同方式组合寄宿、奖学金、IB、社区服务、政府支持和学校自治，共同身份因而依赖持续的成员判断（第 5 章，pp. 99–129）。
 > - **区域扩张依赖制度生态** 第 6 章显示，北美增长并非课程质量的自动结果。地方课程权、AP 建立的外部课程先例、学术标准危机、[[International Baccalaureate North America\|IBNA]] 的本地筹资与[[Gilbert Nicol\|吉尔伯特·尼科尔]]建立的教师支持网络共同构成扩张条件（第 6 章，pp. 131–152）。
+> - **成熟制度依赖混合治理与差异化质量保障** 第 7 章显示，政府席位、学校费用、区域办公室、考试中心和课程专家共同维持 IB；TOK、EE 与 CASS 又需不同评价机制。UWC 的农业学院和美国西部书院表明地方化可以扩大使命，也会增加身份、许可与财政协调成本（第 7 章，pp. 161–190）。
 
 > [!finding-cards] 综合发现
 > - **双重制度建设** 国际学校共同体与国际课程资格是相互依赖的两项建设任务（第 1 章，pp. 9–13）。
@@ -183,6 +189,7 @@ updated: 2026-09-01
 > - **试验的结果是组织而不只是证据** 六年试验以多样学校和真实升学使用检验适用性，最终产出考试流程、承认网络、收入结构与代表性治理，而非一项孤立的课程效果结论（第 4 章，pp. 61–97）。
 > - **国际网络依靠共同规则与地方差异共存** UWC 的扩展通过国际治理和国家委员会维持共同方向，同时让各书院对政策、财政和行政负责；多样性由此成为规模增长的条件，也成为成员身份争议的来源（第 5 章，pp. 104–128）。
 > - **课程规模化需要区域实施基础设施** IB 在北美的增长依靠区域法人、大学关系、推广、教师培训和学校订阅收入形成反馈循环；国际标准与区域自主必须同时维持（第 6 章，pp. 140–152）。
+> - **制度成熟表现为冲突进入常设治理** 第二个十年的成就不是消除公共／私人、中央／区域或国际／国家之间的冲突，而是以政府常设会议、区域分工、课程调节和成员判断持续处理这些冲突（第 7 章，pp. 161–191）。
 
 ## 关键引用
 
