@@ -7,7 +7,7 @@ aliases:
 summary: "以相对风险规避为核心机制解释不同阶层教育选择差异的中层社会学理论，主张教育决策是个体在阶级约束条件下对成本、风险和收益的理性权衡。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 29
+theory_related_count: 30
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_methods:
   - "[[Cohort Study]]"
   - "[[Fieldwork]]"
   - "[[Qualitative Interview]]"
+  - "[[Analytic Framework]]"
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Correlational Research]]"
@@ -143,7 +144,7 @@ updated: 2026-09-29
 > - **需要的材料** 纵向队列追踪数据、各阶层收支与储蓄指标、[[Academic Achievement|学业成绩]]标准化测验数据、升学志愿填报记录、以及[[Qualitative Interview|质性访谈]]中对求学成本、成败风险与职业回报的主观感知口述。
 > - **解释目标** 识别驱动选择分化的次属效应权重，区分客观财务瓶颈与相对风险规避心理，并检验是否存在超越经济效用的文化与伦理边界。
 
-> [!theory-framework] 命题如何转化为分析维度
+> [!theory-framework] 理性行动理论教育分流决策[[Analytic Framework|分析框架]]
 >
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---------|:---------------|:-----------------|:-----------------|

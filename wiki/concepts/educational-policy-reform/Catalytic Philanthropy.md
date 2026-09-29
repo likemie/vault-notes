@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-09-26
+updated: 2026-09-29
 ---
 
 # Catalytic Philanthropy
@@ -73,7 +73,7 @@ updated: 2026-09-26
 > - **用途** 破除“慈善即纯粹利他奉献”的浪漫化迷思，揭示富豪基金会与[[Venture Philanthropy\|风险慈善]]中介如何凭借相对微额的私营资本，统摄国家公共教育政策话语权并规避民主审查。
 > - **边界** 区别于单纯的企业社会责任（CSR）公关活动，也区别于针对特定学校危房修缮或奖学金发放的个案直捐。
 
-> [!citation-card] 证据催化慈善的原型复刻
+> [!citation-card] [[Social Ventures Australia|SVA]] 效仿[[Bill & Melinda Gates Foundation|盖茨基金会]]的证据催化慈善模式
 > “在制定其教育改革议程时，[[Social Ventures Australia\|SVA]] 竭力效仿[[Bill & Melinda Gates Foundation|盖茨基金会]]（Bill & Melinda Gates Foundation）‘以证据为基础的催化慈善’模式。”[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 519]]
 >
 > *"In developing its education reform agendas, SVA seeks to emulate the Gates Foundation's model of 'evidence-based catalytic philanthropy' (SVA, 2013b; Traill, 2016a)."*

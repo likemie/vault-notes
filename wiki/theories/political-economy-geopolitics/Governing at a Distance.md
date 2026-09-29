@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-09-24
+updated: 2026-09-29
 ---
 
 # Governing at a Distance
@@ -173,7 +173,7 @@ updated: 2026-09-24
 
 ### 整体分析示例
 
-> [!exegesis]- 从理论到材料的一次完整分析：[[Gesamtstrategie zum Bildungsmonitoring\|德国国家教育监测总体战略]]的拓扑远处治理解构
+> [!exegesis]- [[Gesamtstrategie zum Bildungsmonitoring|德国国家教育监测总体战略]]的拓扑远处治理解构
 > - **现象与问题** 德国联邦宪法明确赋予 16 个州文化主权（Kulturhoheit），严禁设立联邦中央集权的教育部或全国学校排名。但在 2000 年 [[PISA]] 震荡后，德国各州教育实践迅速呈现高度协同与标准统一步调。
 > - **维度与材料** [[Sigrid Hartong\|哈通]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）综合调取了：① [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]]《国家教育监测总体战略》决议文本（2006/2015）；② 柏林 [[Institute for Educational Quality Improvement\|IQB]] 题库开发与 [[Item Response Theory\|IRT]] 参数校准技术文档；③ [[Vergleichsarbeiten\|VERA]] 全域测试实施细则与在线数字练习平台架构；④ 地方学校管理系统（如北威州 SVP 软件）与教师访谈。
 > - **综合判读**

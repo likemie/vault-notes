@@ -118,7 +118,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-07-01
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 
 # Metacognition
@@ -364,7 +364,7 @@ updated: 2026-09-22
 > 3. **在智能工具交互中嵌入“[[Epistemic Friction\|认识论摩擦]]”反思支架** 严禁无思考地直接复制 AI 生成结果；要求学生提交提示词修改链（Prompt Trail），强制回答“为什么发出此指令”、“AI 输出有何漏洞”、“依据何种标准修正”，用显性反思激活元认知防御；
 > 4. **推行以反思为导向的[[Formative Assessment\|形成性评价]]** 采用档案袋评价（Portfolio）、多轮草图迭代展评与量规自评，引导学生从“关注分数结果”转向“关注自己认知策略的有效性与优化空间”。
 
-> [!case] 实证案例复刻：[[Evaluativist\|评价论者]]（Student C）与 ChatGPT 的 7 轮元认知深度审问全景
+> [!case] [[Evaluativist|评价论者]]（Student C）与 ChatGPT 的 7 轮元认知深度审问案例
 > 在评估 8 名学生在 4 点[[Likert Scale\|李克特量表]]上回答 2 个题项的一致性任务中，Student C 展现了典型的元认知监控回路：
 > 1. **初始提问与初筛** 询问该问题是否可使用[[Chi-Squared Test\|卡方检验]]，ChatGPT 初步建议采用卡方独立性检验。
 > 2. **压力测试与自相矛盾暴露** 再次输入相同情境确认，ChatGPT 改推卡方齐性检验；学生凭借元认知监控指出 8 名学生属于同一批被试而非独立总体，推翻齐性检验。

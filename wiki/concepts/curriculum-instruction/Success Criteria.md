@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-09-23
+updated: 2026-09-29
 ---
 
 # Success Criteria
@@ -97,7 +97,7 @@ updated: 2026-09-23
 
 ---
 
-## 典型案例复刻
+## 典型案例
 
 > [!example] 毛利历史单元成功标准的分层架构（Clarke, Timperley, & Hattie, 2003；Hattie, 2005）
 > - **单元[[Learning Intentions\|学习意图]]** 理解形塑特定人群生存历史的关键事件的原因与后果。
@@ -159,4 +159,4 @@ updated: 2026-09-23
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - **[[Argument_Hattie_2005_ACER\|Hattie (2005)]]** 系统复刻毛利历史单元范例，论证分层成功标准与因果评估任务是消除课堂形式主义、达成可见学习的核心工具。
+> - **[[Argument_Hattie_2005_ACER|Hattie (2005)]]** 系统呈现毛利历史单元范例，论证分层成功标准与因果评估任务是消除课堂形式主义、达成可见学习的核心工具。

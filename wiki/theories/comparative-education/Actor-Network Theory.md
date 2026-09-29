@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-09-24
+updated: 2026-09-29
 ---
 
 # Actor-Network Theory
@@ -197,7 +197,7 @@ updated: 2026-09-24
 
 ### 整体分析示例
 
-> [!exegesis]- 从理论到材料的一次完整分析：以国家[[Educational Brokerage Agency\|证据中介机构]]（[[Australian Education Research Organisation\|AERO]]）的[[Network Ethnography\|网络民族志]]解构为例
+> [!exegesis]- 澳大利亚[[Educational Brokerage Agency|证据中介机构]]（[[Australian Education Research Organisation|AERO]]）的[[Network Ethnography|网络民族志]]解构
 > - **现象与问题** 澳大利亚教育研究组织（AERO）宣称自身为“超党派、客观中立的独立证据经纪人”，旨在依靠严格的[[Randomised Controlled Trials\|随机对照试验]]量规消除课堂政治分歧。研究旨在探究其客观中立表象背后的真实治理网络。
 > - **维度与材料** 罗威（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）运用 ANT 与网络[[Ethnography\|民族志]]方法，采集了四类异质材料：① ASIC 付费提取的企业登记档案与公司章程；② 《公共治理、绩效与问责规则》2020 年修正案；③ 跨国[[Venture Philanthropy\|风险慈善]]机构（[[Social Ventures Australia\|SVA]]、英国 [[Education Endowment Foundation\|EEF]]、[[Sutton Trust\|萨顿信托]]）历年财务报表；④ 董事会成员跨机构多重任职名单。
 > - **综合判读** 

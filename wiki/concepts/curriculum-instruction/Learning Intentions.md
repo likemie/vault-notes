@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-09-23
+updated: 2026-09-29
 ---
 
 # Learning Intentions
@@ -100,7 +100,7 @@ updated: 2026-09-23
 
 ---
 
-## 典型案例复刻
+## 典型案例
 
 > [!example] 毛利历史单元学习意图与误区对比（Clarke, Timperley, & Hattie, 2003；Hattie, 2005）
 > - **学生的初始形式化误区** 调查发现学生普遍认为历史写作优秀的标准是“篇幅长达一页纸”、“卷面没有涂改”以及“所有地名拼写正确”，完全脱离历史思维本身。
