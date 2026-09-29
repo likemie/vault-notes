@@ -6,7 +6,7 @@ aliases:
 summary: "高等教育跨越国家边界组织流动、合作和制度安排的过程，涵盖学生流动、跨境合作、国际课程和全球战略布局。"
 type: concept
 domain: "higher-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -35,6 +35,7 @@ related_persons: []
 related_facts:
   - "[[Australia in the Asian Century White Paper]]"
   - "[[GATS and Trade in Education Services]]"
+  - "[[World Trade Organization]]"
 related_arguments:
   - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Argument_Marginson_2025_ECNUROE]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 
 # Internationalization of Higher Education
@@ -122,5 +123,5 @@ updated: 2026-09-22
 
 > [!example]
 > - [[Australia in the Asian Century White Paper]] — 澳大利亚将自身定位为亚洲世纪的受益者，推动与亚洲的高等教育和研究合作
-> - [[GATS and Trade in Education Services]] — WTO 服务贸易总协定将高等教育视为可交易商品，植入并合法化了新自由主义的高等教育转型
+> - [[GATS and Trade in Education Services]] — [[World Trade Organization|WTO]] 服务贸易总协定将高等教育视为可交易商品，植入并合法化了新自由主义的高等教育转型
 

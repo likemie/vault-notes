@@ -9,7 +9,7 @@ title: "Argument_Zapp_2022_Springer"
 argument_key: "Argument_Zapp_2022_Springer"
 argument_display_title: "Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks"
 argument_kind: "book"
-argument_related_count: 38
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Research Impact]]"
   - "[[Research Problem]]"
+  - "[[Intercultural Education]]"
   - "[[University Social Responsibility]]"
   - "[[Scientization of Politics]]"
   - "[[Epistemic Drift]]"
@@ -60,6 +61,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[European Standards and Guidelines]]"
   - "[[Higher Education Act of 1965]]"
+  - "[[World Trade Organization]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[Research Excellence Framework]]"
   - "[[THE Impact Ranking]]"
@@ -155,7 +157,7 @@ Zapp 论证大学经历了两个层次的身份变化(pp.147–149)：
 
 **机制二：教学对齐（Aligning Teaching）**。大学用课程和学位项目培养全球治理的专业人才。Zapp 列举了丰富的案例：Oxford 开设 MSc in Global Governance and Diplomacy，Copenhagen 开设 MSc in Climate Change，KTH 开设 MA in Sustainable Technology，Manchester 提供关于发展中国家水供应与卫生政策的大规模开放在线课程（Massive Open Online Courses, MOOCs）和 Global Health and Humanitarianism 课程，Bologna 大学报告 1174 个与 SDGs 相关的课程单元，McMaster 开设全球卫生博士项目，Gothenburg 开设"从研究到政策促进可持续发展"跨学科博士项目(pp.151–152)。
 
-在宏观层面，Zapp & Lerch (2020) 分析全球近 465,000 个学位项目，发现超过 22,451 个明确具有国际取向——国际商务、比较法、全球发展、跨文化教育等。这不是零星的个别现象，而是全球高等教育教学的结构性转型。
+在宏观层面，Zapp & Lerch (2020) 分析全球近 465,000 个学位项目，发现超过 22,451 个明确具有国际取向——国际商务、比较法、全球发展、[[Intercultural Education|跨文化教育]]等。这不是零星的个别现象，而是全球高等教育教学的结构性转型。
 
 > 例：二十年前，一个想在发展中国家做水供应项目的学生只能学土木工程，然后自己在工作中积累政策知识。现在，他可以直接申请 Manchester 的"Water Supply and Sanitation Policy in Developing Countries" MOOC 或 Gothenburg 的"From Research to Policy for Sustainable Development"博士项目。大学已经提前把"全球治理专家"这个职业路径课程化了。
 
@@ -185,7 +187,7 @@ Zapp 在前四步论证了知识如何进入治理，第五步翻转视角——
 - 总统国事访问的行程中，大学取代了军事基地成为重要的"打卡点"
 - 各国推出"卓越计划"（excellence initiatives）和大规模研究资助来提升本国科学和[[Systems of Innovation|创新系统]](Zapp et al., 2018)
 - 建设 "[[International Education Hubs|国际教育枢纽]]"、"知识村""智慧城市"和"技术极"（technopoles）以吸引外国人才和资本(Knight, 2018; Moisio, 2018)
-- 高等教育是世界贸易组织（World Trade Organization, WTO）《[[GATS and Trade in Education Services|服务贸易总协定]]》（General Agreement on Trade in Services, GATS）中被最频繁纳入的行业(WTO, 2020)，详见 [[GATS and Trade in Education Services]]
+- 高等教育是[[World Trade Organization|世界贸易组织]]（World Trade Organization, WTO）《[[GATS and Trade in Education Services|服务贸易总协定]]》（General Agreement on Trade in Services, GATS）中被最频繁纳入的行业(WTO, 2020)，详见 [[GATS and Trade in Education Services]]
 - 二十国集团（G20）开始实施研究计分卡评估各国研究系统表现(Web of Science Group, 2019)
 
 > 例：想象一个场景——一所大学的研究者在国际期刊上发表了一篇关于人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]], AI）的论文，这篇论文被硅谷公司用来开发新产品，同时也被另一国政府视为"我们需要赶上"的信号。该国随即推出"AI 卓越计划"，投入数十亿美元，同时限制本国 AI 人才出境，并加强对来自竞争对手国家的研究生的签证审查。一篇纯粹的[[Theory of Knowledge\|知识论]]文，就这样被卷入了地缘政治的漩涡。Moisio & Kangas (2016) 说得更尖锐：所谓的"国际化"和"全球性"的知识空间——包括大学——往往掩盖了城市、区域、国家和超国家实体持有者的领土主张和市场利益（参见 [[Geopolitics of Knowledge]]）。
@@ -216,7 +218,7 @@ Zapp 的最终判断(p.157)：大学已经跃入全球治理的舞台，但它�
 ### 教学对齐：培养全球治理专家
 
 - 全球多所大学新设全球治理学位项目：Oxford（MSc Global Governance and Diplomacy）、Copenhagen（MSc Climate Change）、KTH（MA Sustainable Technology）、Manchester（Water Supply and Sanitation Policy in Developing Countries and Global Health and Humanitarianism 的 MOOCs）、Bologna（1174 个 SDG 相关课程单元）、McMaster（PhD Global Health）、Gothenburg（跨学科 PhD 可持续发展）(pp.151–152)
-- Zapp & Lerch (2020) 分析全球近 465,000 个学位项目，识别出 22,451 个明确具有国际取向的项目，涵盖国际商务、比较法、全球发展、跨文化教育等领域(p.152)
+- Zapp & Lerch (2020) 分析全球近 465,000 个学位项目，识别出 22,451 个明确具有国际取向的项目，涵盖国际商务、比较法、全球发展、[[Intercultural Education|跨文化教育]]等领域(p.152)
 
 ### 内部政策对齐：大学社会责任的制度化
 

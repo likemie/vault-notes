@@ -11,9 +11,9 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 4
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
@@ -27,17 +27,21 @@ tags:
 related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Doxa]]"
+  - "[[Pluri-Scalar Governance]]"
+  - "[[Knowledge Production]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[World Trade Organization]]"
 related_arguments:
   - "[[Argument_Rizvi_2022_Springer]]"
-confidence: medium
+  - "[[Argument_Arnove_2009_WorldSystems]]"
+confidence: high
 status: draft
 created: '2026-05-10'
-updated: 2026-08-20
+updated: 2026-09-29
 ---
 
 # GATS and Trade in Education Services
@@ -45,7 +49,7 @@ updated: 2026-08-20
 ## 背景
 
 > [!info]
-> 在 2000 年代初期，世界贸易组织（WTO）主导了推动教育服务全球贸易的努力。其《服务贸易总协定》（General Agreement on Trade in Services, GATS）是一项多边协定，鼓励 WTO 成员接受服务贸易的自愿自由化([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, p.97]])。
+> 在 2000 年代初期，[[World Trade Organization|世界贸易组织]]（WTO）主导了推动教育服务全球贸易的努力。其《服务贸易总协定》（General Agreement on Trade in Services, GATS）是一项多边协定，鼓励 WTO 成员接受服务贸易的自愿自由化([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, p.97]])。
 
 ## 政策文本摘要
 
@@ -58,7 +62,7 @@ updated: 2026-08-20
 ## 时间线
 
 > [!note]-
-> - 1995 WTO 成立，GATS 生效
+> - 1995 [[World Trade Organization|WTO]] 成立，GATS 生效
 > - 2000 年代初 WTO 推动教育服务贸易自由化
 > - 2007 Collins 发表对 GATS 的系统批判
 
@@ -77,11 +81,14 @@ updated: 2026-08-20
 > [!warning]
 > - Collins (2007) 批判 GATS 反映了"新帝国主义"——"更强大的国家将发展中国家保留为市场，并在其中继续在智识上进行统治"（Collins, 2007, p.283, cited in [[Argument_Rizvi_2022_Springer\|Rizvi, 2022, p.97]]）
 > - Rizvi 指出 GATS 的核心效应不在于强制合规，而在于其意识形态影响——它使新自由主义的高等教育议程获得了"常识"地位([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.97–98]])
-> - Robertson, Bonal & Dale (2002) 分析了 GATS 在教育服务产业中的规模政治和全球再领土化效应
+> - Robertson, Bonal & Dale (2002) 提出[[Pluri-Scalar Governance|多标度治理]]模型，系统分析 GATS 在教育服务产业中的规模政治与全球再领土化机制，指出其致力于建构无边界的全球教育系统，促使学历互认与[[Knowledge Production|知识生产]]跨国流动，但同时也遭到不同主权国家的策略性重组。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
 ## 相关概念／理论
 
 > [!tip]-
+> - [[Pluri-Scalar Governance]] — GATS 推动教育权力在超国家、国家与次国家标度以及国家、市场、社区间的再领土化重组
+> - [[World Trade Organization]] — GATS 的主持与裁决机构，重塑全球教育商品化与服务贸易规制
 > - [[Internationalization of Higher Education]] — GATS 是推动国际化从发展主义理性转向市场理性的关键制度机制
 > - [[Geopolitics of Knowledge]] — GATS 体现了知识地缘政治中教育商品化的制度维度
+
 

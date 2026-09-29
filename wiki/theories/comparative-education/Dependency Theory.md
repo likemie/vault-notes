@@ -8,10 +8,10 @@ aliases:
 summary: "兴起于拉丁美洲并拓展至比较教育的新马克思主义批判路径。拒绝现代化理论将欠发展归结为内部缺失的技术主义假设，主张从全球资本主义世界体系的中心-边缘结构性支配、跨国垄断资本掠夺、受限国家阶级联盟及文化帝国主义机制出发，解释第三世界国家教育不平等、双轨分流及学术依附"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 49
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_count: 50
+theory_related_level: 6
+theory_related_stars: "⭐⭐⭐⭐⭐⭐"
+theory_related_color: "#fef3c7"
 tags:
   - theory/dependency
   - subject/comparative-education
@@ -64,6 +64,7 @@ related_persons:
   - "[[Robert Arnove]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Liliana Esther Olmos]]"
+  - "[[Immanuel Wallerstein]]"
   - "[[Joel Samoff]]"
   - "[[Eleftherios Klerides]]"
 related_facts:
@@ -77,7 +78,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 
 # Dependency Theory
@@ -110,7 +111,7 @@ updated: 2026-09-28
 > [!dev-timeline] 理论版本与贡献
 > - **1974 — 学科文化帝国主义奠基** [[Martin Carnoy|马丁·卡诺伊]]（Carnoy, 1974）系统批判正规学校教育在殖民与新殖民秩序中的顺从驯化功能，开创依附论比较教育[[Paradigm|研究范式]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 426)]]
 > - **1977–1978 — 心灵奴役与学术依附命题** 菲利普·阿尔特巴赫（Altbach, 1977）提出“心灵的奴役”（Servitude of the Mind），揭示学术期刊、科研出版与国际学位垄断如何在外围学者中再生产非自觉的学术依附。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 427)]]
-> - **1980 — 世界体系引入与慈善帝国主义批判** [[Robert Arnove|罗伯特·阿诺夫]]（Arnove, 1980）将沃勒斯坦世界体系论引入比较教育，深刻解构西方跨国慈善基金会以援助之名巩固资本主义中心支配的实质。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 426–427)]]
+> - **1980 — 世界体系引入与慈善帝国主义批判** [[Robert Arnove|罗伯特·阿诺夫]]（Arnove, 1980）将[[Immanuel Wallerstein|沃勒斯坦]]世界体系论引入比较教育，深刻解构西方跨国慈善基金会以援助之名巩固资本主义中心支配的实质。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 426–427)]]
 > - **1990 — 社会主义社会过渡与[[Critical Pedagogy|解放教育学]]** 卡诺伊与[[Joel Samoff|萨莫夫]]（Carnoy & Samoff, 1990）探究第三世界国家在向社会主义过渡期，如何借助激进教育革命清除依附性阶级残余。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 427–428)]]
 > - **2000s–2010s — 高教地缘政治与学术新殖民主义** 阿尔特巴赫等学者继续运用中心-边缘透镜，批判全球大学排行榜与英语学术霸权对全球南方学术主权的侵害。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 4–5)]]
 > - **2009 — [[Conditioned State Theory|受限国家理论]]与新自由主义全球化批判** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）突破世界体系论将 1945 年后视作均质同构的“大爆炸”历史虚无主义，提出“受限国家”概念，系统剖析第三世界教育扩张畸变、[[Dual School System|双轨学制]]固化及[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的去主权化规训。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–75, 81–85)]]

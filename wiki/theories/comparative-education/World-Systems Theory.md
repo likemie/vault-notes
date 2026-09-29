@@ -6,10 +6,10 @@ aliases:
 summary: "把全球资本主义组织为中心、半边缘和边缘三层结构的历史社会理论，用于分析国家与地区在世界体系中的不平等位置和依附关系"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 7
-theory_related_level: 0
-theory_related_stars: ""
-theory_related_color: "#e5e7eb"
+theory_related_count: 14
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - region/global
 - theme/geopolitics
@@ -20,17 +20,24 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Multiplicity]]"
   - "[[Open-Mindedness]]"
+  - "[[Paradigm]]"
+  - "[[Pluri-Scalar Governance]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge Production]]"
 related_theories: []
 related_methods: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Immanuel Wallerstein]]"
+related_facts:
+  - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Marginson_2025_ECNUROE]]"
-confidence: medium
+  - "[[Argument_Arnove_2009_WorldSystems]]"
+confidence: high
 status: draft
 created: '2026-05-12'
-updated: 2026-09-23
+updated: 2026-09-29
 ---
 
 # World-Systems Theory
@@ -38,7 +45,7 @@ updated: 2026-09-23
 ## 核心主张
 
 > [!tip]-
-> 世界体系理论（world-systems theory）由 Immanuel Wallerstein（1974, 2006）提出，将全球空间想象为三层结构：欧美中心（core）、由较弱西方国家和少数其他国家组成的"半边缘"（semi-periphery），以及大多数前殖民地所在的"边缘"（periphery）。各国是全球资本主义经济关系"总体性"的函数，"不存在'国家发展'这回事"（Wallerstein, 1974, p. 390）。这一等级体系是固定的——世界层面的"剩余"有限，一国之上升必须以另一国之衰落为代价（Wallerstein, 1976, p. 466）。Wallerstein 是欧洲中心主义的批评者，但认为除非资本主义被废除，否则这一格局不可避免([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 12–13]])。
+> 世界体系理论（world-systems theory）由 [[Immanuel Wallerstein]]（1974, 2006）提出，将全球空间想象为三层结构：欧美中心（core）、由较弱西方国家和少数其他国家组成的"半边缘"（semi-periphery），以及大多数前殖民地所在的"边缘"（periphery）。各国是全球资本主义经济关系"总体性"的函数，"不存在'国家发展'这回事"（Wallerstein, 1974, p. 390）。这一等级体系是固定的——世界层面的"剩余"有限，一国之上升必须以另一国之衰落为代价（Wallerstein, 1976, p. 466）。Wallerstein 是欧洲中心主义的批评者，但认为除非资本主义被废除，否则这一格局不可避免([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 12–13]])。
 
 > [!quote]
 > "There is no such thing as 'national development'"（Wallerstein, 1974, p. 390）
@@ -81,13 +88,26 @@ updated: 2026-09-23
 > - **忽视国家尺度的相对自主性** — 国家尺度与全球尺度互动但不完全由其决定（Marginson & Xu, 2023）。中国、韩国、印度、伊朗、巴西等国的科学产出增长与政治经济的相关性各不相同，说明高等教育和科学具有相对自主的演化能力([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 13]])
 > - **无法容纳变革** — 该理论的刚性空间性无法解释非经济领域的自主演进。但其核心洞察——全球政治经济存在不平等的权力结构——不应被完全抛弃
 > - **与 Massey [[Multiplicity\|多重性]] 的对比** — Massey 认为总是有松散的末端，任何权力系统都不是永久固定的；Wallerstein 则认为中心-边缘结构在资本主义框架内不可改变。二者对空间[[Open-Mindedness|开放性]]的预设根本不同([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 6–7, 12–13]])
-... Applied fuzzy match at line 38-80.
+
+---
+
+## 发展脉络与比较教育学引入
+
+> [!note]-
+> - 1974 Wallerstein 出版 *The Modern World-System I*，提出资本主义世界经济与中心-半边缘-边缘的核心框架。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 101)]]
+> - 1976 Wallerstein 在 *Review* 期刊中系统阐述零和剩余[[Hypothesis\|假设]]。
+> - 1980 Arnove 在《比较教育评论》发表专论，率先将世界体系分析引入比较教育学，指出必须将教育改革置于国际资本主义经济秩序中考察，开创了宏观国际体系与微观课堂变革相连接的分析路径。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 102, 106)]]
+> - 2006 Wallerstein 在 *World-Systems Analysis* 中重申核心命题，直面全球地缘政治与经济多极化挑战。
+> - 2009 Arnove 在《比较教育学国际手册》系统总结世界体系分析与全球化研究的交融，辨析共识取向（新制度主义世界文化流派）与冲突取向（政治现实主义流派）的[[Paradigm|范式]]竞合，推进[[Pluri-Scalar Governance|多标度治理]]与本土抗争分析。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–114)]]
+> - 2019 Olechnicka et al. 将世界体系理论直接应用于全球科学分析，认为科学领域的全球关系由政治经济决定([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 12–13]])。
+
 ---
 
 ## 相关研究
 
 > [!example]
-> - [[Argument_Marginson_2025_ECNUROE]] — 以过去三十年全球高等教育和科学的发展经验系统批评世界体系理论，尤其是其零和[[Hypothesis\|假设]]和刚性空间性
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统梳理世界体系分析在比较教育学中的引入、与全球化研究的结合、跨国援助机构与非政府组织的角色重塑以及自下而上全球化运动
+> - [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] — 以过去三十年全球高等教育和科学的发展经验系统批评世界体系理论，尤其是其零和[[Hypothesis\|假设]]和刚性空间性
 > - Olechnicka et al.（2019） — 将世界体系理论直接应用于全球科学分析，但 Marginson 认为其分析同样未能解释中国等国的科学崛起
 
 ---
@@ -95,8 +115,10 @@ updated: 2026-09-23
 ## 应用领域
 
 > [!success]
-> - [[Geopolitics of Knowledge]] — 世界体系理论是分析知识地缘政治的重要参照，但其零和[[Hypothesis\|假设]]需要被修正
-> - 全球高等教育研究 — 该理论提醒研究者关注全球不平等结构，但不应预设这些结构是固定的
+> - 比较教育学宏观政治经济学 — 解释国际金融与援助机构（[[World Bank|世界银行]]、IMF、跨国基金会）对第三世界教育政策的[[Disciplina and Doctrina|规训]]，以及为何外部引进的教育改革往往未能实现结构性变革
+> - [[Geopolitics of Knowledge]] — 世界体系理论是分析知识地缘政治的重要参照，揭示全球[[Knowledge Production|知识生产]]中心与边缘的不平等交换格局
+> - 全球高等教育研究 — 警示研究者关注跨国学术依附与全球文凭主义，但需警惕预设等级结构绝对刚性的[[Methodological Globalism|方法论全球主义]]偏差
+
 
 ---
 

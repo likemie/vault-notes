@@ -825,6 +825,16 @@
     ]
   },
   {
+    "title": "Globalization from Below",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Globalization from Below.md",
+    "aliases": [
+      "自下而上的全球化",
+      "基层的全球化",
+      "草根全球化"
+    ]
+  },
+  {
     "title": "Government to Governance Shift",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Government to Governance Shift.md",
@@ -1170,6 +1180,16 @@
     ]
   },
   {
+    "title": "Pluri-Scalar Governance",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Pluri-Scalar Governance.md",
+    "aliases": [
+      "多标度治理",
+      "多尺度治理",
+      "Pluri-scalar Governance of Education"
+    ]
+  },
+  {
     "title": "Policy Borrowing",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Policy Borrowing.md",
@@ -1336,6 +1356,16 @@
     "aliases": [
       "选择性亲和",
       "Wahlverwandtschaft"
+    ]
+  },
+  {
+    "title": "Shadow State",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Shadow State.md",
+    "aliases": [
+      "影子国家",
+      "shadow state in education",
+      "非政府组织影子国家化"
     ]
   },
   {
@@ -12133,6 +12163,17 @@
     ]
   },
   {
+    "title": "Dialectic of the Global and the Local",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Dialectic of the Global and the Local.md",
+    "aliases": [
+      "全球与本土的辩证法",
+      "全球与地方辩证法",
+      "全球化与本土实践的辩证法",
+      "Dialectic of the Global and Local"
+    ]
+  },
+  {
     "title": "Hofstede's Cultural Dimensions",
     "type": "theory",
     "path": "wiki/theories/comparative-education/Hofstede's Cultural Dimensions.md",
@@ -20820,6 +20861,17 @@
     ]
   },
   {
+    "title": "Immanuel Wallerstein",
+    "type": "person",
+    "path": "wiki/persons/us/Immanuel Wallerstein.md",
+    "aliases": [
+      "伊曼努尔·沃勒斯坦",
+      "沃勒斯坦",
+      "Wallerstein, I.",
+      "Immanuel Maurice Wallerstein"
+    ]
+  },
+  {
     "title": "Isaac Kandel",
     "type": "person",
     "path": "wiki/persons/us/Isaac Kandel.md",
@@ -23337,6 +23389,17 @@
       "世界比较教育学会联合会",
       "世界比较教育学社联合会",
       "World Council of Comparative Education"
+    ]
+  },
+  {
+    "title": "World Trade Organization",
+    "type": "fact",
+    "path": "wiki/facts/global/World Trade Organization.md",
+    "aliases": [
+      "世界贸易组织",
+      "世贸组织",
+      "WTO",
+      "World Trade Organisation"
     ]
   },
   {
@@ -27702,6 +27765,11 @@
     "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30",
     "type": "argument",
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
+  },
+  {
+    "title": "Argument_Arnove_2009_WorldSystems",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
   },
   {
     "title": "Argument_Cowen(Ed.)_2009_Springer",

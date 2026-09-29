@@ -5,7 +5,7 @@ aliases:
 summary: "Diane Stone (2020) 与 Steiner-Khamsi 等倡导的方法论立场，主张超越方法论民族主义与线性层级霸权观，将国家与全球视作相互依存的关系性空间，聚焦全球/国家联结。"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Policy Borrowing]]"
   - "[[Policy Mobility]]"
+  - "[[Pluri-Scalar Governance]]"
   - "[[Policy Brokerage]]"
   - "[[Going Native]]"
   - "[[Space of Flows and Space of Places]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-26
+updated: 2026-09-29
 ---
 
 # Methodological Transnationalism
@@ -134,7 +135,7 @@ updated: 2026-09-26
 > 分析传统政策研究将国家均质化造成的认知盲区，主张在细分治理层级中辨析[[Policy Mobility\|政策流动]]的断裂与重组。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]
-> **多尺度治理实体的分离与冲突** 将国家政府视为均质统一体的[[Hypothesis\|假设]]遮蔽了不同部门对跨国政策的异质反应；必须将政府拆解为咨询、行政与立法等不同职能主体。实证研究表明，政府委任的专家咨询委员会所采纳的跨国知识，往往在进入行政部门起草法定法令阶段遭到大规模过滤或选择性遗弃，这种政策周期的断裂只有在解构国家主体的视角下才能被准确捕捉。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540, 546–547)]]
+> **[[Pluri-Scalar Governance|多尺度治理]]实体的分离与冲突** 将国家政府视为均质统一体的[[Hypothesis\|假设]]遮蔽了不同部门对跨国政策的异质反应；必须将政府拆解为咨询、行政与立法等不同职能主体。实证研究表明，政府委任的专家咨询委员会所采纳的跨国知识，往往在进入行政部门起草法定法令阶段遭到大规模过滤或选择性遗弃，这种政策周期的断裂只有在解构国家主体的视角下才能被准确捕捉。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540, 546–547)]]
 
 ---
 
