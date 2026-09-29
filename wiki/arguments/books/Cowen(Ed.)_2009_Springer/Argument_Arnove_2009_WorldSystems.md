@@ -175,7 +175,7 @@ updated: 2026-09-29
 20 世纪 60 年代末兴起的世界体系研究形成了两条不同的理论路径，斯坦福大学的社会学团队侧重全球共同文化理念的传播，而拉美[[Dependency Theory|依附论]]与[[Immanuel Wallerstein|沃勒斯坦]]则聚焦资本积累与不平等的国际秩序。
 
 > [!tension-table] 世界体系分析两大流派的核心分歧
-> | 比较维度 | 斯坦福学派新制度主义（共识取向） | 沃勒斯坦政治现实主义（冲突取向） |
+> | 比较维度 | [[World Society Theory\|斯坦福学派]]新制度主义（共识取向） | 沃勒斯坦政治现实主义（冲突取向） |
 > |---|---|---|
 > | **代表学者** | [[John W. Meyer\|约翰·迈耶]]、约翰·博利（John Boli）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）等。（p.101） | [[Immanuel Wallerstein\|伊曼努尔·沃勒斯坦]]、萨米尔·阿明（Samir Amin）、沃尔特·罗德尼（Walter Rodney）等。（p.101） |
 > | **理论思想渊源** | 组织社会学制度学派、[[Enlightenment\|启蒙运动]]以来的理性主义文化信念。（pp.101–102） | 马克思主义政治经济学、拉丁美洲[[Dependency Theory\|依附理论]]及法国年鉴学派长时段历史学。（pp.101, 104） |
@@ -298,7 +298,7 @@ updated: 2026-09-29
 
 ## 关键引用
 
-> [!citation-card] 迈耶论世界文化普遍规范对主权国家的制度塑形
+> [!citation-card] [[John W. Meyer|迈耶]]论世界文化普遍规范对主权国家的制度塑形
 > 我们的孤岛社会显然将成为由民族国家和个人构成的世界共同体的完全成员候选者。人权、国家保护的公民权利和民主形式将成为其天然的权利要求。一个按照理性化术语界定与衡量、并在国家规约下以增长为导向的经济系统将会出现。一套正式的国家政体将是不可或缺的，包括宪法、公民身份、法律、教育结构以及开放的参与和沟通形式。（pp.103–104）
 >
 > *Our island society would obviously become a candidate for full membership in the world community of national and individuals. Human rights, state-protected citizen rights, and democratic forms would become natural entitlements. An economy would emerge, defined, and measured in rationalized terms and oriented to [[Growth]] under state regulations. A formal national polity would be essential, including a constitution, citizenship, laws, educational structures, and open forms of participation and communication.*

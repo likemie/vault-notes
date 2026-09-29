@@ -10,10 +10,10 @@ aliases:
 summary: "18世纪欧洲以理性批判、经验科学、世俗化与普遍人权为核心的现代性奠基运动，主张摆脱未成熟状态，将公共教育确立为培育自主公民、重构公共领域、推进立宪法权与实现永久和平的本体机制；当代延伸至通过科学实践中的证据协商与理性说服培育民主公共审议素养。"
 type: concept
 domain: "educational-philosophy"
-related_count: 37
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 44
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/enlightenment
   - theme/modernity
@@ -51,23 +51,30 @@ related_persons:
   - "[[Jean-François Lyotard]]"
   - "[[Johann Heinrich Pestalozzi]]"
   - "[[Andreas Kazamias]]"
+  - "[[Immanuel Wallerstein]]"
+  - "[[Robert Arnove]]"
+  - "[[John W. Meyer]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
+  - "[[Argument_Arnove_2009_WorldSystems]]"
 related_theories:
   - "[[Postmodernism]]"
+  - "[[Cultural Models]]"
   - "[[Critical Theory]]"
   - "[[Hegemony]]"
+  - "[[World Society Theory]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Observation Method]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_facts:
   - "[[Common School Movement]]"
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-09-21
+updated: 2026-09-29
 ---
 
 # Enlightenment
@@ -202,12 +209,13 @@ updated: 2026-09-21
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **18世纪中后期 — 启蒙哲学奠基与理性觉醒** [[Jean-Jacques Rousseau\|卢梭]]发表《爱弥儿》（1762）、[[Immanuel Kant\|康德]]发表《回答这个问题：什么是启蒙？》（1784），确立自然自由与公开运用理性的哲学纲领。
-> - **1790s–1830s — 大革命法制试验与比较教育现代主义发端** 孔多塞与塔列朗起草国民公学法案；[[Marc-Antoine Jullien\|朱利安]]发表《比较教育工作计划》（1817），将启蒙理性转化为准[[Observation Method\|科学观察]]表与[[Perpetual Peace\|永久和平]]蓝图；普鲁士聚芬草案（1819）与法国基佐法案（1833）将启蒙教育权法典化。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 11–14, 26–29)]]
-> - **1830s–1860s — 北美[[Common School Movement\|公学运动]]与世俗公民体制确立** [[Horace Mann\|霍勒斯·曼]]领导马萨诸塞州公学运动，将启蒙理性落地为公共税收维持、面向全体平民的非宗派世俗公立学校。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 31–34)]]
+> - **18世纪中后期 — 启蒙哲学奠基与理性觉醒** [[Jean-Jacques Rousseau|卢梭]]发表《爱弥儿》（1762）、[[Immanuel Kant|康德]]发表《回答这个问题：什么是启蒙？》（1784），确立自然自由与公开运用理性的哲学纲领。
+> - **1790s–1830s — 大革命法制试验与比较教育现代主义发端** 孔多塞与塔列朗起草国民公学法案；[[Marc-Antoine Jullien|朱利安]]发表《比较教育工作计划》（1817），将启蒙理性转化为准[[Observation Method|科学观察]]表与[[Perpetual Peace|永久和平]]蓝图；普鲁士聚芬草案（1819）与法国基佐法案（1833）将启蒙教育权法典化。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 11–14, 26–29)]]
+> - **1830s–1860s — 北美[[Common School Movement|公学运动]]与世俗公民体制确立** [[Horace Mann|霍勒斯·曼]]领导马萨诸塞州公学运动，将启蒙理性落地为公共税收维持、面向全体平民的非宗派世俗公立学校。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 31–34)]]
 > - **20世纪中叶 — 启蒙辩证法反思与极权主义批判** 霍克海默与阿多诺在《启蒙辩证法》（1947）中深刻反思工具理性异化，指出盲目崇拜技术算计与控制自然会导致启蒙走向神话反面。
-> - **20世纪末 — [[Jürgen Habermas\|哈贝马斯]]坚守交往理性与未完成的现代性工程** 哈贝马斯提出交往行动理论与宪政爱国主义，主张通过主体间无强迫的理性商谈守护启蒙的批判解放潜能，坚守现代性是一项未完成的崇高工程。
-> - **21世纪 — 科学[[Practical Epistemology\|实践认识论]]与公共民主审议素养** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] 结合当代科学实践研究，将启蒙理性的公共运用落实到科学教育视阈中以证据评估与理性说服为核心的微观[[Epistemic Practices\|认识论实践]]，服务于现代民主公共生活。
+> - **20世纪后半叶 — 启蒙理性的世界文化扩散与世界体系批判** 斯坦福新制度主义学派（Meyer et al., 1997）将战后全球大众教育普及与公民权扩展追溯至源自启蒙理性的普遍[[Cultural Models|文化模型]]扩散；而[[Immanuel Wallerstein|沃勒斯坦]]与[[Robert Arnove|阿诺夫]]（1980, 2009）等现实主义学者则批判其掩盖了资本主义世界经济中核心对边缘的剩余剥削与依附固化。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–106)]]
+> - **20世纪末 — [[Jürgen Habermas|哈贝马斯]]坚守交往理性与未完成的现代性工程** 哈贝马斯提出交往行动理论与宪政爱国主义，主张通过主体间无强迫的理性商谈守护启蒙的批判解放潜能，坚守现代性是一项未完成的崇高工程。
+> - **21世纪 — 科学[[Practical Epistemology|实践认识论]]与公共民主审议素养** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] 结合当代科学实践研究，将启蒙理性的公共运用落实到科学教育视阈中以证据评估与理性说服为核心的微观[[Epistemic Practices|认识论实践]]，服务于现代民主公共生活。
 
 ---
 
@@ -217,14 +225,20 @@ updated: 2026-09-21
 >
 > > [!axis] 理性解放潜能 vs 工具理性统治与启蒙辩证异化
 > > - **启蒙捍卫派（Kant; Habermas）** 坚定理性是人类克服专制压迫与摆脱蒙昧的唯一可靠工具，主张通过健全的公共领域交往商谈修复现代性缺陷。
-> > - **[[Critical Theory\|批判理论]]与法兰克福学派（Horkheimer & Adorno）** 深刻警示启蒙理性极易退化为纯粹手段-目的的工具理性，沦为官僚统治、资本宰制与科技极权操纵人性的冷酷机器。
->
+> > - **[[Critical Theory|批判理论]]与法兰克福学派（Horkheimer & Adorno）** 深刻警示启蒙理性极易退化为纯粹手段-目的的工具理性，沦为官僚统治、资本宰制与科技极权操纵人性的冷酷机器。
+> >
+> > [!axis] 启蒙理性共识神话 vs 资本主义世界体系依附与分层剥削
+> > 争论全球教育的大规模扩张是启蒙理性主义与人权文化的普世胜利，还是跨国资本积累在全球边缘地带维系统治与阶级再生产的道义掩护。
+> >
+> > - **世界文化流派（Meyer et al., 1997）** 坚称源自启蒙运动的普遍理性[[Cultural Models|文化模型]]促使民族国家自发采纳宪法、人权与正规学校，孤岛实验证明了启蒙文化模型的普遍理性吸引力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
+> > - **政治现实主义与世界体系学派（Wallerstein, 1974; Arnove, 1980, 2009）** 深刻批评将现代学校视为启蒙理性自然馈赠的观点，揭示外部援助与国际经贸规约在边缘国家导致严重的辍学、失业与依附分层，掩盖了跨国资本掠夺的政治经济学现实。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
+> >
 > > [!axis] 普世人权标准 vs 西方中心主义与殖民知识霸权
 > > - **自由主义世界主义学派** 主张启蒙所倡导的人人平等、科学理性与基本人权具备跨越地域文化的普遍规范价值。
-> > - **后殖民与去殖民理论学者** 批判启蒙运动以“理性 vs 野蛮”的二元对立话语将欧洲文明自封为历史终极尺度，在历史上成为西方殖民征服、[[Hegemony\|文化霸权]]输出与压制非西方本土[[Epistemology\|认识论]]的道义掩护。
+> > - **后殖民与去殖民理论学者** 批判启蒙运动以“理性 vs 野蛮”的二元对立话语将欧洲文明自封为历史终极尺度，在历史上成为西方殖民征服、[[Hegemony|文化霸权]]输出与压制非西方本土[[Epistemology|认识论]]的道义掩护。
 
 > [!warning] 适用边界
-> 启蒙现代性[[Paradigm\|范式]]是一种宏观文明转型理论与规范价值传统；在分析具体的微观教育实践与不同文化传统时，必须警惕以均质化、去历史化的“理性进步主义”暴力抹杀本土经验的多样性与地方性知识的自足价值。
+> 启蒙现代性[[Paradigm|范式]]是一种宏观文明转型理论与规范价值传统；在分析具体的微观教育实践与不同文化传统时，必须警惕以均质化、去历史化的“理性进步主义”暴力抹杀本土经验的多样性与地方性知识的自足价值。
 
 ---
 
@@ -234,6 +248,8 @@ updated: 2026-09-21
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
+> | [[World Society Theory]] | 理论 | 将源自启蒙运动的普遍理性[[Cultural Models\|文化模型]]视为战后民族国家与大众教育全球扩张的根本动力。 |
+> | [[Cultural Models]] | 理论 | 揭示启蒙理性被[[Coding in Qualitative Research\|编码]]为指导现代国家建制与学校课程设置的共享制度脚本。 |
 > | [[Proto-Scientific Motif]] | 概念 | 启蒙理性在比较教育学科发端期的直接方法论结晶，开创准科学人道[[Paradigm\|范式]]。 |
 > | [[Perpetual Peace]] | 概念 | 启蒙政治哲学与世界主义国际主义的终极治理愿景。 |
 > | [[State Educational Sovereignty]] | 概念 | 启蒙运动剥离教会神权垄断后建立世俗现代国家教育权的制度产物。 |
@@ -246,11 +262,16 @@ updated: 2026-09-21
 > | [[Marc-Antoine Jullien]] | 人物 | 启蒙自由派学者，将启蒙理性转化为比较教育[[Questionnaire\|问卷]]表与世界和平工程。 |
 > | [[Jürgen Habermas]] | 人物 | 当代哲学家，将启蒙精神重构为交往理性并坚守现代性工程。 |
 > | [[Victor Cousin]] | 人物 | 将启蒙理性转化为国家公共资源法哲学与立宪折衷政治。 |
+> | [[John W. Meyer]] | 人物 | 斯坦福学派领袖，将启蒙理性世界文化模型用于解释现代组织与大众教育同构。 |
+> | [[Robert Arnove]] | 人物 | 比较教育泰斗，结合世界体系分析批判启蒙理性趋同神话掩盖阶级再生产。 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 系统阐明比较教育学的现代主义发端如何扎根于启蒙运动的现代性[[Paradigm\|范式]]，由[[Jean-Jacques Rousseau\|卢梭]]的自然自由、[[Immanuel Kant\|康德]]的启蒙自主性、[[Marc-Antoine Jullien\|朱利安]]的准科学图表与[[Jürgen Habermas\|哈贝马斯]]的公共领域重构共同熔铸。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] — 阐释科学教育中以证据评估与理性说服为核心的[[Epistemic Practices\|认识论实践]]，如何作为启蒙民主理性传统在当代学校教育与公共公民审议中的微观实现（pp. 147–148, 161）。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 系统阐明比较教育学的现代主义发端如何扎根于启蒙运动的现代性[[Paradigm|范式]]，由[[Jean-Jacques Rousseau|卢梭]]的自然自由、[[Immanuel Kant|康德]]的启蒙自主性、[[Marc-Antoine Jullien|朱利安]]的准科学图表与[[Jürgen Habermas|哈贝马斯]]的公共领域重构共同熔铸。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 阐释科学教育中以证据评估与理性说服为核心的[[Epistemic Practices|认识论实践]]，如何作为启蒙民主理性传统在当代学校教育与公共公民审议中的微观实现（pp. 147–148, 161）。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 追溯启蒙理性主义对新制度主义[[World Society Theory|世界文化理论]]的深刻塑形，并结合世界体系政治经济学批判启蒙趋同神话背后的中心-边缘剥削与依附固化。
+
+---

@@ -1180,16 +1180,6 @@
     ]
   },
   {
-    "title": "Pluri-Scalar Governance",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Pluri-Scalar Governance.md",
-    "aliases": [
-      "多标度治理",
-      "多尺度治理",
-      "Pluri-scalar Governance of Education"
-    ]
-  },
-  {
     "title": "Policy Borrowing",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Policy Borrowing.md",
@@ -12218,6 +12208,18 @@
     ]
   },
   {
+    "title": "Pluri-Scalar Governance",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Pluri-Scalar Governance.md",
+    "aliases": [
+      "多标度治理",
+      "多尺度治理",
+      "多标度教育治理",
+      "Pluri-scalar Governance of Education",
+      "Multi-scalar Governance"
+    ]
+  },
+  {
     "title": "Post-Imperialism Theory",
     "type": "theory",
     "path": "wiki/theories/comparative-education/Post-Imperialism Theory.md",
@@ -12269,8 +12271,6 @@
       "世界社会理论",
       "world polity theory",
       "世界政体理论",
-      "Stanford school",
-      "斯坦福学派",
       "World Culture Theory",
       "世界文化理论",
       "world society perspective"
@@ -21002,7 +21002,8 @@
     "aliases": [
       "Meyer, J. W.",
       "John Meyer",
-      "约翰·迈耶"
+      "约翰·迈耶",
+      "迈耶"
     ]
   },
   {

@@ -7,7 +7,7 @@ aliases:
 summary: "布雷彻等学者提出并由阿诺夫引入比较教育的批判概念，指跨国界基层社会运动、原住民团体与教师工会等民间力量通过跨国团结网络，抗衡新自由主义自上而下的政策规训，争取教育公平与社会正义"
 type: concept
 domain: "comparative-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -27,6 +27,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Robert Arnove]]"
+  - "[[John W. Meyer]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
@@ -68,7 +69,7 @@ updated: 2026-09-29
 
 > [!proc] 自下而上全球化的促成机制
 > 1. **资本积累危机的推波助澜** 跨国公司在全球范围内追逐廉价、易受剥削或兼具低成本高技能的劳动力（如中国、印度班加罗尔、墨西哥等），导致大批传统产业劳工失业与工会权利受挫，激化了世界体系内部的阶级与社会矛盾，为草根抗争提供了结构性势能。[[Argument_Arnove_2009_WorldSystems|(Wallerstein, 1997, cited in Arnove, 2009, pp. 113–114)]]
-> 2. **世界文化人权理念的赋权反哺** 联合国机构及世界社会所广泛扩散的普世人权、民主权利与受教育权规范（如迈耶等学者所阐发），为弱势群体反思并质疑剥削性现实提供了现成的话语资源与道德武器。[[Argument_Arnove_2009_WorldSystems|(Meyer et al., 1997, cited in Arnove, 2009, pp. 113–114)]]
+> 2. **世界文化人权理念的赋权反哺** 联合国机构及世界社会所广泛扩散的普世人权、民主权利与受教育权规范（如[[John W. Meyer|迈耶]]等学者所阐发），为弱势群体反思并质疑剥削性现实提供了现成的话语资源与道德武器。[[Argument_Arnove_2009_WorldSystems|(Meyer et al., 1997, cited in Arnove, 2009, pp. 113–114)]]
 > 3. **以太空间的时空压缩赋能** 现代信息通信技术（ICT）打破了地理隔绝，构筑了爱德华兹与厄舍（Edwards & Usher, 2000）所谓的“流散空间”（diaspora space），使不同国家的边缘群体、原住民与[[Progressive Education|进步教育]]学者能够实时交换经验、共建全球连带，将分散抗争汇聚成全球性反抗浪潮。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 112–113)]]
 
 ---

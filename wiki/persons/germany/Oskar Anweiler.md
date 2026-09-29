@@ -7,7 +7,7 @@ summary: "德国比较教育学家与历史学家，波鸿鲁尔大学教育学�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Paradigm]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Geisteswissenschaften]]"
   - "[[State Educational Sovereignty]]"
 related_theories:
   - "[[World-Systems Theory]]"
@@ -144,7 +145,7 @@ updated: 2026-09-29
 > [!person-network] 关系网络
 > - **学术同盟与德国学术领袖** [[Wolfgang Mitter]] — 战后西德比较教育学界的双子领袖，安维勒坐镇波鸿鲁尔大学，米特执掌法兰克福 [[Leibniz Institute for Educational Research and Educational Information|DIPF]]，共同开创东欧教育研究并维系 DGfE 比较分会建制。
 > - **学术继承者与[[Paradigm|范式]]推进者** 克里斯蒂尔·阿迪克（Christel Adick） — 安维勒在波鸿鲁尔大学教席的继任者，将安维勒的东欧极权体制剖析传统拓展为对全球化与斯坦福学派[[World-Systems Theory|世界体系理论]]的研究。
-> - **精神源流先驱** [[Friedrich Schneider]]、[[Nicholas Hans]] — 承继德国精神科学与历史学派传统，但在具体研究中摆脱了前代的形而上学玄思，走向扎实的制度[[Document|文献]]学考证。
+> - **精神源流先驱** [[Friedrich Schneider]]、[[Nicholas Hans]] — 承继德国[[Geisteswissenschaften|精神科学]]与历史学派传统，但在具体研究中摆脱了前代的形而上学玄思，走向扎实的制度[[Document|文献]]学考证。
 > - **机构阵地** 波鸿鲁尔大学（东欧教育研究中心主任）、德国教育学会（DGfE 比较分会奠基人）、[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE 骨干成员）。
 
 ---
