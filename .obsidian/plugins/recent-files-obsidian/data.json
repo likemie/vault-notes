@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "template-theory",
-      "path": "wiki/templates/template-theory.md"
-    },
-    {
       "basename": "Stanford School",
       "path": "wiki/theories/comparative-education/Stanford School.md"
     },
@@ -13,12 +9,20 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
     },
     {
-      "basename": "Pluri-Scalar Governance",
-      "path": "wiki/theories/comparative-education/Pluri-Scalar Governance.md"
+      "basename": "template-theory",
+      "path": "wiki/templates/template-theory.md"
+    },
+    {
+      "basename": "Argument_Eisenhart_Towne_2003_ER",
+      "path": "wiki/arguments/journal-articles/Educational Researcher/Argument_Eisenhart_Towne_2003_ER.md"
     },
     {
       "basename": "template-argument-edited-volume",
       "path": "wiki/templates/template-argument-edited-volume.md"
+    },
+    {
+      "basename": "Pluri-Scalar Governance",
+      "path": "wiki/theories/comparative-education/Pluri-Scalar Governance.md"
     },
     {
       "basename": "Argument_Peterson_1987_OpenCourt_Ch06",
@@ -195,10 +199,6 @@
     {
       "basename": "Performance Indicators",
       "path": "wiki/concepts/educational-policy-reform/Performance Indicators.md"
-    },
-    {
-      "basename": "Disciplina and Doctrina",
-      "path": "wiki/concepts/educational-philosophy/Disciplina and Doctrina.md"
     }
   ],
   "omittedPaths": [],
