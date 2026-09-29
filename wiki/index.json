@@ -825,16 +825,6 @@
     ]
   },
   {
-    "title": "Globalization from Below",
-    "type": "concept",
-    "path": "wiki/concepts/comparative-education/Globalization from Below.md",
-    "aliases": [
-      "自下而上的全球化",
-      "基层的全球化",
-      "草根全球化"
-    ]
-  },
-  {
     "title": "Government to Governance Shift",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Government to Governance Shift.md",
@@ -12161,6 +12151,18 @@
       "全球与地方辩证法",
       "全球化与本土实践的辩证法",
       "Dialectic of the Global and Local"
+    ]
+  },
+  {
+    "title": "Globalization from Below",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Globalization from Below.md",
+    "aliases": [
+      "自下而上的全球化",
+      "基层的全球化",
+      "草根全球化",
+      "草根全球化理论",
+      "自下而上的全球化理论"
     ]
   },
   {

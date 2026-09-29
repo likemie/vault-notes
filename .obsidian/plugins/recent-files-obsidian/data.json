@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
     },
     {
+      "basename": "World Society Theory",
+      "path": "wiki/theories/comparative-education/World Society Theory.md"
+    },
+    {
       "basename": "Epistemology",
       "path": "wiki/concepts/educational-philosophy/Epistemology.md"
     },
@@ -73,10 +77,6 @@
       "path": "wiki/concepts/research-methodology/Rich and Thick Description.md"
     },
     {
-      "basename": "World Society Theory",
-      "path": "wiki/theories/comparative-education/World Society Theory.md"
-    },
-    {
       "basename": "Robert Arnove",
       "path": "wiki/persons/us/Robert Arnove.md"
     },
@@ -95,10 +95,6 @@
     {
       "basename": "World Bank",
       "path": "wiki/facts/global/World Bank.md"
-    },
-    {
-      "basename": "Globalization from Below",
-      "path": "wiki/concepts/comparative-education/Globalization from Below.md"
     },
     {
       "basename": "Dialectic of the Global and the Local",

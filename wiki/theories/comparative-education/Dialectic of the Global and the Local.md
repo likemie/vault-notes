@@ -25,11 +25,9 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Champ]]"
   - "[[Shadow State]]"
-  - "[[Pluri-Scalar Governance]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Recontextualization]]"
   - "[[Creativity]]"
-  - "[[Globalization from Below]]"
   - "[[Class Size]]"
   - "[[Falsification]]"
   - "[[Disciplina and Doctrina]]"
@@ -48,6 +46,8 @@ related_concepts:
 related_theories:
   - "[[World-Systems Theory]]"
   - "[[World Society Theory]]"
+  - "[[Pluri-Scalar Governance]]"
+  - "[[Globalization from Below]]"
   - "[[Cultural Models]]"
   - "[[Rational Action Theory]]"
   - "[[Conditioned State Theory]]"
@@ -196,7 +196,7 @@ updated: 2026-09-29
 ## 局限性与适用边界
 
 > [!theory-boundary] 局限性与适用边界
-> - **适合分析** 跨国[[Policy Borrowing|政策借用]]与本土落地冲突、多标度教育治理重构、基层教育社会运动。
+> - **适合分析** 跨国[[Policy Borrowing|政策借用]]与本土落地冲突、[[Pluri-Scalar Governance|多标度教育治理]]重构、基层教育社会运动。
 > - **成立条件** 需要研究者兼备宏观政治经济学制度分析能力与微观人类学长时段[[Qualitative Observation|田野观察]]能力。
 > - **解释不足** 容易将复杂的因果链条泛化为一切皆是辩证互动，若缺乏对具体中介机制的严密追踪，可能退化为描述性套话。
 > - **不能直接推出** 不能单凭地方存在文化变通就浪漫化地断定地方行动者能够彻底颠覆全球资本主义霸权；地方能动性始终受到严苛的物质匮乏与权力不对等制约。

@@ -28,8 +28,6 @@ related_concepts:
   - "[[Shadow State]]"
   - "[[Popular Education]]"
   - "[[Global Citizenship]]"
-  - "[[Pluri-Scalar Governance]]"
-  - "[[Globalization from Below]]"
   - "[[Disciplina and Doctrina]]"
   - "[[State Educational Sovereignty]]"
   - "[[Champ]]"
@@ -42,8 +40,10 @@ related_concepts:
   - "[[Rich and Thick Description]]"
 related_theories:
   - "[[Dialectic of the Global and the Local]]"
+  - "[[Pluri-Scalar Governance]]"
   - "[[World-Systems Theory]]"
   - "[[Hegemony]]"
+  - "[[Globalization from Below]]"
   - "[[Dependency Theory]]"
   - "[[Conditioned State Theory]]"
   - "[[World Society Theory]]"
@@ -85,7 +85,7 @@ updated: 2026-09-29
 > [!person-profile] 人物档案
 > - **身份位置** 罗伯特·阿诺夫（Robert F. Arnove），美国当代著名比较教育学泰斗、教育社会学家；印第安纳大学布卢明顿分校荣誉总理教授（Chancellor's Professor Emeritus），[[Comparative and International Education Society|比较与国际教育学会]]（Comparative and [[International Education]] Society, CIES）前会长（2000–2001）。
 > - **核心角色** 批判比较教育学与全球化教育政治经济学的旗帜性领军学者。阿诺夫率先于 1980 年将[[Immanuel Wallerstein|沃勒斯坦]]的世界体系分析引入比较教育学，打破了抽象的现代化趋同迷思；随后与[[Carlos Alberto Torres|托雷斯]]共同开创“[[Dialectic of the Global and the Local|全球化与本土实践的辩证法]]”（Dialectic of the Global and the Local）[[Analytic Framework|分析框架]]，系统解构跨国新自由主义治理与非政府组织（Non-Governmental Organizations, NGOs）外包异化，为自下而上的教育公平与全球社会民主抗争奠定了理论基石。
-> - **代表贡献** 创立全球与本土辩证法[[Paradigm|范式]]（与 Torres 合作出版权威论著《比较教育：全球与本土的辩证法》）；开创批判性基金会与跨国援助研究（出版奠基之作《慈善与文化帝国主义：福特、洛克菲勒与卡内基基金会》）；提出[[Shadow State|影子国家]]（[[Shadow State]]）与多标度教育治理批判框架；系统推进拉美[[Popular Education|民众教育]]实证调研（《桑地诺尼加拉瓜的教育与革命》）。
+> - **代表贡献** 创立全球与本土辩证法[[Paradigm|范式]]（与 Torres 合作出版权威论著《比较教育：全球与本土的辩证法》）；开创批判性基金会与跨国援助研究（出版奠基之作《慈善与文化帝国主义：福特、洛克菲勒与卡内基基金会》）；提出[[Shadow State|影子国家]]（[[Shadow State]]）与[[Pluri-Scalar Governance|多标度教育治理]]批判框架；系统推进拉美[[Popular Education|民众教育]]实证调研（《桑地诺尼加拉瓜的教育与革命》）。
 
 > [!citation-card] 阿诺夫论世界体系分析恢复比较教育的国际政治经济维度
 > 世界体系分析不仅拓展了宏观分析，将真正国际体系中的教育机构行为纳入视野，而且深化了我们对学校和课堂微观系统中变革与冲突根源的理解……将教育政策倡议与国际经济秩序的运作联系起来，有助于解释为何在如此多的案例中，扩张与改革都未能实现教育或社会的结构性变革，以及外部引发的教育革新为何可能反而固化了国内外既有的分层系统。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 106)]]
