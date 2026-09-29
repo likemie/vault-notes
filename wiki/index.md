@@ -2042,7 +2042,7 @@ Total entries: **2919**
 
 ### Schools
 
-> [!index-list]- schools (1)
+> [!index-list]- Academic Schools (1)
 > - [[Stanford School]] — 约翰·迈耶等开创的社会学新制度主义与世界社会研究学派，主张全球大众教育、民族国家建构与现代组织形式的跨国同构源于启蒙理性世界文化模型的合法性扩散与模仿，揭示了制度神话、无私代理人与正式结构去耦合的核心机制。
 
 ### Se

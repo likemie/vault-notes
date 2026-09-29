@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Argument_Arnove_2009_WorldSystems",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
+      "basename": "CALLOUTS",
+      "path": "wiki/templates/CALLOUTS.md"
     },
     {
-      "basename": "template-theory",
-      "path": "wiki/templates/template-theory.md"
+      "basename": "TEMPLATE-SPEC",
+      "path": "wiki/templates/TEMPLATE-SPEC.md"
+    },
+    {
+      "basename": "template-person",
+      "path": "wiki/templates/template-person.md"
+    },
+    {
+      "basename": "Argument_Manitius_vanHolt_2019_BzS",
+      "path": "wiki/arguments/journal-articles/Beiträge zur Schulentwicklung/Argument_Manitius_vanHolt_2019_BzS.md"
     },
     {
       "basename": "Argument_Eisenhart_Towne_2003_ER",
@@ -15,6 +23,18 @@
     {
       "basename": "template-argument-edited-volume",
       "path": "wiki/templates/template-argument-edited-volume.md"
+    },
+    {
+      "basename": "template-school",
+      "path": "wiki/templates/template-school.md"
+    },
+    {
+      "basename": "Argument_Arnove_2009_WorldSystems",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
+    },
+    {
+      "basename": "template-theory",
+      "path": "wiki/templates/template-theory.md"
     },
     {
       "basename": "Pluri-Scalar Governance",
@@ -179,22 +199,6 @@
     {
       "basename": "Dependency Theory",
       "path": "wiki/theories/comparative-education/Dependency Theory.md"
-    },
-    {
-      "basename": "Argument_Mitter_2009_Europe",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mitter_2009_Europe.md"
-    },
-    {
-      "basename": "Theories of the Driving Forces",
-      "path": "wiki/theories/comparative-education/Theories of the Driving Forces.md"
-    },
-    {
-      "basename": "Joseph Lauwerys",
-      "path": "wiki/persons/uk/Joseph Lauwerys.md"
-    },
-    {
-      "basename": "Performance Indicators",
-      "path": "wiki/concepts/educational-policy-reform/Performance Indicators.md"
     }
   ],
   "omittedPaths": [],

@@ -11,12 +11,12 @@ aliases:
 summary: "约翰·迈耶等开创的社会学新制度主义与世界社会研究学派，主张全球大众教育、民族国家建构与现代组织形式的跨国同构源于启蒙理性世界文化模型的合法性扩散与模仿，揭示了制度神话、无私代理人与正式结构去耦合的核心机制。"
 type: person
 subtype: school
-nationality: schools
-person_region: "schools"
-person_related_count: 34
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_region: "United States"
+person_related_count: 28
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
+nationality: "United States"
 born: "1977"
 died: ""
 lifespan: "1977–至今"
@@ -27,46 +27,40 @@ tags:
   - world-society
   - school-of-thought
 related_concepts:
+  - "[[Determinism]]"
   - "[[Rationalized Myth]]"
-  - "[[Enlightenment]]"
+  - "[[Organizational Actorhood]]"
   - "[[Falsification]]"
   - "[[Otherhood]]"
   - "[[Paradigm]]"
-  - "[[Class Size]]"
-  - "[[Research Question]]"
-  - "[[International Education]]"
-  - "[[Policy Borrowing]]"
-  - "[[Structural Adjustment Programs]]"
-  - "[[Business as Usual]]"
-  - "[[Constructivist Paradigm]]"
-  - "[[Creativity]]"
+  - "[[Knowledge Production]]"
+  - "[[Document]]"
   - "[[Disciplina and Doctrina]]"
 related_theories:
-  - "[[Dependency Theory]]"
-  - "[[World Society Theory]]"
   - "[[Cultural Models]]"
+  - "[[World Society Theory]]"
   - "[[Institutional Isomorphism]]"
-  - "[[Human Capital Theory]]"
-  - "[[Pluralism]]"
+  - "[[Dependency Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Ethnography]]"
-  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
-  - "[[Immanuel Wallerstein]]"
   - "[[John W. Meyer]]"
   - "[[Max Weber]]"
   - "[[Robert Arnove]]"
+  - "[[Immanuel Wallerstein]]"
+  - "[[Gita Steiner-Khamsi]]"
 related_facts:
-  - "[[World Bank]]"
+  - "[[UN Sustainable Development Goals]]"
+  - "[[Comparative and International Education Society]]"
   - "[[UNESCO]]"
-  - "[[OECD]]"
-  - "[[PISA]]"
+  - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
-  - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Zapp_2022_Springer]]"
+  - "[[Argument_Mitter_2009_Europe]]"
 confidence: high
 status: active
 created: 2026-09-29

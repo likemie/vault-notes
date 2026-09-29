@@ -1160,6 +1160,11 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
             if died is not None and str(died).strip() != "":
                 if not PERSON_YEAR_PATTERN.match(str(died).strip()):
                     issues.append(Issue("ERROR", rel(path), f"invalid died year format: {died!r}", line=frontmatter_line_number(fm, "died"), code="PERSON_DIED_FORMAT"))
+            if "wiki/persons/schools/" in rel(path):
+                if data.get("subtype") != "school":
+                    issues.append(Issue("WARN", rel(path), "school entry under wiki/persons/schools/ should specify subtype: school", line=frontmatter_line_number(fm, "subtype"), code="PERSON_SCHOOL_SUBTYPE_MISSING"))
+                if data.get("nationality") == "schools":
+                    issues.append(Issue("WARN", rel(path), "school nationality should be a country/region, not 'schools'", line=frontmatter_line_number(fm, "nationality"), code="PERSON_NATIONALITY_INVALID"))
 
     if typ == "instrument":
         allowed_instrument_types = {

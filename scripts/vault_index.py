@@ -1182,10 +1182,13 @@ def maintain_fact_base_fields(dry_run: bool = False, check: bool = False) -> int
 
 def person_region_for(path: Path, meta: dict[str, Any]) -> str:
     nationality = str(meta.get("nationality") or "").strip()
-    if nationality:
+    if nationality and nationality != "schools":
         return nationality
     try:
-        return path.relative_to(PERSONS_DIR).parts[0]
+        part = path.relative_to(PERSONS_DIR).parts[0]
+        if part == "schools":
+            return nationality if (nationality and nationality != "schools") else "global"
+        return part
     except (IndexError, ValueError):
         return "unknown"
 
@@ -1217,6 +1220,9 @@ def upsert_person_generated_fields(raw_frontmatter: str, fields: dict[str, Any])
     insert_at = 0
     for idx, line in enumerate(filtered):
         if re.match(r"^nationality:\s*", line):
+            insert_at = idx + 1
+            break
+        if re.match(r"^subtype:\s*", line):
             insert_at = idx + 1
             break
         if re.match(r"^type:\s*", line) and insert_at == 0:
@@ -1253,9 +1259,17 @@ def update_person_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[b
     except (IndexError, ValueError):
         folder_nat = ""
 
+    current_subtype = str(meta.get("subtype") or "").strip()
     current_nat = str(meta.get("nationality") or "").strip()
-    if folder_nat and current_nat != folder_nat:
-        raw_frontmatter = set_frontmatter_value(raw_frontmatter, "nationality", folder_nat, [r"^type:\s*"])
+
+    if folder_nat == "schools":
+        if current_subtype != "school":
+            raw_frontmatter = set_frontmatter_value(raw_frontmatter, "subtype", "school", [r"^type:\s*"])
+        if current_nat == "schools":
+            raw_frontmatter = set_frontmatter_value(raw_frontmatter, "nationality", "global", [r"^subtype:\s*", r"^type:\s*"])
+        region = person_region_for(path, meta)
+    elif folder_nat and current_nat != folder_nat:
+        raw_frontmatter = set_frontmatter_value(raw_frontmatter, "nationality", folder_nat, [r"^subtype:\s*", r"^type:\s*"])
         region = folder_nat
     else:
         region = person_region_for(path, meta)

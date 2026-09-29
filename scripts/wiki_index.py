@@ -97,6 +97,7 @@ SECOND_LEVEL_LABELS = {
     "methodology": "Methodology",
     "global": "Global",
     "multi": "Multi-country",
+    "schools": "Schools",
     "us": "US",
     "uk": "UK",
     "eu": "EU",
@@ -284,6 +285,8 @@ def third_level(entry: dict[str, Any]) -> str:
         return entry.get("subtype") or "unknown"
 
     if typ == "person":
+        if second == "schools" or entry.get("subtype") == "school":
+            return "school"
         return entry.get("nationality") or "unknown"
 
     return ""
@@ -508,6 +511,10 @@ def append_fact_dashboard(lines: list[str], facts: list[dict[str, Any]]) -> None
 def third_label(typ: str, value: str) -> str:
     if typ == "fact":
         return title_case_slug(value)
+    if typ == "person":
+        if value == "school":
+            return "Academic Schools"
+        return value or "Unknown"
     return value or "Unknown"
 
 
