@@ -343,7 +343,7 @@ Total entries: **585**
 > - [[German State Educational Institutes and Quality Agencies]] — 德国 16 个联邦州设立的承担中层教育治理与专业支持职能的法定机构群体（如北莱茵-威斯特法伦州 QUA-LiS NRW、巴伐利亚州 ISB 等），负责课程大纲编制、教师职后研训（Lehrerfortbildung）、学校发展支持与研究知识中介，并于 2018 年联合签署发布《关于研究知识转移的联合立场文件》。
 > - [[Institute for Educational Monitoring and Quality Improvement]] — 德国汉堡市直属的专业化教育质量监测与研究机构，隶属于汉堡学校与职业教育局（BSB），主导开发汉堡社会指数、实施全州统一测试（KERMIT/VERA）、制作学校一览表（SchÜb），构建低利害形成性数据反馈与同侪案例会商机制，并承担向德国各州教育与文化部长常设会议（KMK）汇总呈报全域数据的技术枢纽职能
 > - [[Institute for Educational Quality Improvement]] — 德国16个联邦州联合创设于柏林洪堡大学的国家级教育监测与质量研究中枢，受各州教育与文化部长常设会议（KMK）委托主导研发国家教育标准题库、组织实施联邦州学业水平趋势比较（IQB-Bildungstrend）、统筹协调全德校际比较测试（VERA）并运营全国教育研究数据中心（FDZ），构成德国教育循证治理的核心国家计算中心
-> - [[Leibniz Institute for Educational Research and Educational Information]] — 1951年始建于法兰克福的国家级非大学教育科研与信息基础设施中枢，莱布尼茨学会成员机构；受KMK与BMBF委托主导编撰国家综合教育报告（Bildungsbericht）、主导开发计算机化测评（TBA），并协同TUM与IPN联合运营国家国际教育比较研究中心（ZIB）。
+> - [[Leibniz Institute for Educational Research and Educational Information]] — 1951年始建于法兰克福的国家级非大学教育科研与信息基础设施中枢，战后德国比较教育研究的双子学术实体之一（曾由舒尔策与米特领衔），莱布尼茨学会成员机构；受KMK与BMBF委托主导编撰国家综合教育报告（Bildungsbericht）、主导开发计算机化测评（TBA），并协同运营国家国际教育比较研究中心（ZIB）。
 > - [[Standing Conference of the Ministers of Education and Cultural Affairs]] — 德国16个联邦州负责教育、高校与文化事务主管部长的宪制性常设协调机构，主导制定国家教育监测总体战略与跨州统一教育标准，并通过元治理协调IQB等国家计算中心与全德数据基础设施
 > - [[Zentrum für internationale Bildungsvergleichsstudien]] — 2010年由德国联邦教育与研究部（BMBF）与各州文教部长联席会议（KMK）联合创设的国家级学术联合体，设于慕尼黑工业大学，由TUM、DIPF与IPN三方联合运营，负责统筹执行PISA等国际大型教育测评并产出宏观系统知识。
 

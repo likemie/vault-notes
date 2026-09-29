@@ -227,7 +227,7 @@ flowchart LR
 在大学教席与实体机构层面，英国与德国构成了 20 世纪欧洲比较教育的两大支柱性核心，并在战后逐步向全欧扩散：（pp.89–91）
 
 > [!line-a] 英国学术脉络：从[[Michael Sadler|萨德勒]]遗产到伦敦大学教育研究院知识高地
-> 现代大学比较教育首先在英国生根。[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）推动英国政府创设特别查询与报告办公室（[[Office of Special Inquiries and Reports]]），以德国为核心参照系开创了系统的比较研究；此后，伦敦大学教育研究院（IOE）全面发扬萨德勒的学术遗产，先后汇聚了约瑟夫·劳威斯（[[Joseph Lauwerys]]）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）、[[Brian Holmes|布莱恩·霍姆斯]]（Brian Holmes）、雅努什·托米亚克（Janusz Tomiak）、[[Robert Cowen|罗伯特·考恩]]（Robert Cowen）与马丁·麦克莱恩（Martin McLean）等代表性学者。与此同时，伦敦国王学院（[[Edmund King|埃德蒙·金]]）、牛津大学（哈尔斯、菲利普斯）与剑桥大学（图拉谢维奇）等名校相继跟进，形成了紧密的学科网络。（pp.88, 89–90）
+> 现代大学比较教育首先在英国生根。[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）推动英国政府创设[[Office of Special Inquiries and Reports|特别查询与报告办公室]]（[[Office of Special Inquiries and Reports]]），以德国为核心参照系开创了系统的比较研究；此后，伦敦大学教育研究院（IOE）全面发扬萨德勒的学术遗产，先后汇聚了约瑟夫·劳威斯（[[Joseph Lauwerys]]）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）、[[Brian Holmes|布莱恩·霍姆斯]]（Brian Holmes）、雅努什·托米亚克（Janusz Tomiak）、[[Robert Cowen|罗伯特·考恩]]（Robert Cowen）与马丁·麦克莱恩（Martin McLean）等代表性学者。与此同时，伦敦国王学院（[[Edmund King|埃德蒙·金]]）、牛津大学（哈尔斯、菲利普斯）与剑桥大学（图拉谢维奇）等名校相继跟进，形成了紧密的学科网络。（pp.88, 89–90）
 
 > [!line-b] 德国学术脉络：从天主教人文全景到冷战阵营研究与两德融合
 > 德国比较教育早期主要依靠[[Friedrich Schneider|弗里德里希·施奈德]]（Friedrich Schneider）与弗朗茨·希尔克（Franz Hilker）的个人专著奠基。战后，汉堡大学、马堡大学、海德堡大学、波鸿鲁尔大学（[[Oskar Anweiler|奥斯卡·安维勒]]、阿迪克）、明斯特大学，以及[[Leibniz Institute for Educational Research and Educational Information|德国国际教育研究所]]（DIPF，舒尔策、[[Wolfgang Mitter|沃尔夫冈·米特]]）和柏林马克斯·普朗克教育研究所（罗宾逊、戈尔德施密特）先后设立教席与研究实体。两德统一后，西德部分大学虽因财政紧缩出现教席收缩，但学科重心向东部转移，柏林洪堡大学（于尔根·施里维尔主持）、莱比锡大学（赫尔纳）与德累斯顿工业大学（瓦特坎普）成为新的学术重镇。（pp.89–90）

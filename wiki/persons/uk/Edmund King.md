@@ -5,11 +5,11 @@ aliases:
   - 埃德蒙·金
   - Edmund J. King
   - E. J. King
-summary: "伦敦大学国王学院比较教育学讲座教授，战后英国比较教育政策科学学派代表，提出关键决策时刻概念，因在 1967 年预测争鸣与 1970 年代规训阿彻事件中的核心角色而备受学界关注。"
+summary: "伦敦大学国王学院比较教育学讲座教授，欧洲比较教育学会（CESE）奠基人之一；坚守萨德勒以来的文化主义传统，在实证主义争论中抵御机械物理学预测，提出关键决策时刻理论与政策科学定位，因规训阿彻事件引发对学科守门机制的深刻反思。"
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 25
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -24,8 +24,9 @@ related_concepts:
   - "[[Policy Science in Comparative Education]]"
   - "[[Epistemology]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Typification]]"
   - "[[Positivism]]"
+  - "[[Critical Dualism]]"
+  - "[[Typification]]"
   - "[[Paradigm]]"
   - "[[Scientism]]"
   - "[[Scientific Paradigm]]"
@@ -33,7 +34,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Gatekeepers]]"
   - "[[Falsification]]"
-  - "[[Critical Dualism]]"
 related_theories: []
 related_methods:
   - "[[Problem Approach]]"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:
+  - "[[Wolfgang Mitter]]"
   - "[[Brian Holmes]]"
   - "[[Robert Cowen]]"
   - "[[Michael Sadler]]"
@@ -50,12 +51,13 @@ related_facts:
   - "[[Comparative and International Education Society]]"
   - "[[1970s Methodology Debates in Comparative Education]]"
 related_arguments:
+  - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Cowen_2023_CE]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
 confidence: high
 status: draft
 created: 2026-06-06
-updated: 2026-09-24
+updated: 2026-09-29
 ---
 
 # Edmund King
@@ -65,8 +67,8 @@ updated: 2026-09-24
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国著名比较教育学家，伦敦大学国王学院（King's College London, KCL）比较教育学讲座教授与比较教育研究中心主任，英国与欧洲比较教育学术建制的重要奠基人。
-> - **核心角色** 战后英国比较教育[[Policy Science in Comparative Education\|政策科学]]（Policy Science）理解形式的领航人物；与伦敦大学教育学院（IOE）的[[Brian Holmes\|布赖恩·霍姆斯]]（Brian Holmes）并称为 1960–1970 年代英格兰比较教育学界影响力最大的学术双子星与论辩对手。
+> - **身份位置** 英国著名比较教育学家，伦敦大学国王学院（King's College London, KCL）比较教育学讲座教授与比较教育研究中心主任，[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）奠基人之一。
+> - **核心角色** 战后英国比较教育[[Policy Science in Comparative Education\|政策科学]]（Policy Science）理解形式的领航人物。米特（[[Wolfgang Mitter]]）指出，金在伦敦大学国王学院开辟了与伦敦教育学院（IOE）并肩的英国学术双子中枢，坚守文化语境主义与历史传统，在 1960–1980 年代与 IOE 的[[Brian Holmes|布赖恩·霍姆斯]]（[[Brian Holmes]]）就假说演绎预测展开长达十余年的[[Epistemology|认识论]]大论辩，构筑了抵御量化实证侵蚀的英格兰理论阵地。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90, 92–93)]]
 > - **代表贡献** 提出关键决策时刻（critical points of decision）理论；代表作《其他学校与我们》（*Other Schools and Ours*, 1958）风行英语世界数十年；在 1967 年论战中对物理学式实证预测发起[[Epistemology\|认识论]]批判；在 1970 年代英格兰方法论大分裂中以学科元老姿态[[Disciplina and Doctrina\|规训]]新兴社会学视角。
 
 > [!citation-card] [[Robert Cowen\|罗伯特·考恩]]论金的政策科学立场与民主权力结盟
@@ -80,10 +82,10 @@ updated: 2026-09-24
 
 > [!timeline] 生平与职涯
 > - **1914** 出生于英国曼彻斯特，先后在曼彻斯特大学与伦敦大学接受古典人文学与教育学训练。
-> - **1953** 进入伦敦大学国王学院（King's College London）教育系任教，随后开辟国王学院比较教育学教研中心并升任讲座教授。
+> - **1953** **执教伦敦国王学院确立英国双子学术中枢** 进入伦敦大学国王学院（King's College London）教育系任教，随后开辟国王学院比较教育学教研中心并升任讲座教授。米特（[[Wolfgang Mitter]]）指出，国王学院与伦敦大学教育研究院（IOE）共同构成了战后英国比较教育教学与科研的核心网络。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90)]]
 > - **1958** 出版里程碑跨国导论教材《其他学校与我们》（*Other Schools and Ours*），以文化语境主义为导向，成为战后欧美最具影响力的比较教育著作之一。
-> - **1961–1963** 参与创立[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE），后主导建立英国[[Comparative and International Education Society\|比较与国际教育学会]]（BCIES），推动欧洲学者的跨国学术建制化。
-> - **1967** 在《比较教育》（*Comparative Education*）发表经典论辩长文，对[[Brian Holmes\|布赖恩·霍姆斯]]的[[Problem Approach\|问题法]]与“预测作为科学划界标准”发起猛烈清算，拉开“金—霍姆斯预测大论战”序幕。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 63–64)]]
+> - **1961–1963** **参与创立[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）与推进学术建制** 参与创立[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE），坚守跨国学者个人会员制以保障学术超政治独立性；后主导建立英国[[Comparative and International Education Society\|比较与国际教育学会]]（BCIES），推动欧洲学者的跨国学术建制化。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 91–92)]]
+> - **1967** **发表反预测长文挑起英格兰实证论辩** 在《比较教育》（*Comparative Education*）发表经典论辩长文，对[[Brian Holmes\|布赖恩·霍姆斯]]的[[Problem Approach\|问题法]]与“预测作为科学划界标准”发起猛烈清算，拉开“金—霍姆斯预测大论战”序幕。米特指出，这场交锋深嵌于席卷全欧的[[Positivism|实证主义]]争论（Positivismusstreit）之中，折射出金坚守的文化语境传统与霍姆斯[[Critical Dualism|批判二元论]]之间的深刻张力。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 63–64)]]；[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 92–93)]]
 > - **1968** 出版方法论代表作《比较研究与教育决策》（*Comparative Studies and Educational Decision*），系统确立[[Policy Science in Comparative Education\|政策科学]]与“关键决策时刻”操作框架。
 > - **1970年代初** 领衔大规模跨国后义务教育研究项目（Post-Compulsory Education），为西欧多国政府与国际组织提供宏观政策咨询。
 > - **1979–1980** 在英格兰比较教育“方法论大分裂”（the fracturing）中公开撰文试图[[Disciplina and Doctrina\|规训]]玛格丽特·斯科特福德·阿彻的结构社会学研究，引发学界关于学科边界守旧性与排他性的深度反思。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 329)]]
@@ -132,6 +134,7 @@ updated: 2026-09-24
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 考证金与霍姆斯围绕科学划界标准与社会预测可行性展开的长年激烈方法论争鸣。
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 批判金在 1970 年代方法论大分裂中试图规训阿彻的学术霸权，并反思其政策科学立场与国家权力的危险结盟。
+> - [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 米特考察金在伦敦国王学院开辟的学术中枢地位，评析其代表的文化主义传统在 1960–1980 年代与霍姆斯[[Positivism|实证主义]][[Problem Approach|问题法]]之间的认识论博弈。
 
 ---
 
@@ -147,6 +150,11 @@ updated: 2026-09-24
 >
 > *Holmes' assertion of prediction as a demarcation criterion of science provoked a long and fierce methodological controversy with Edmund King, who emphasized that human affairs are characterized by free will and historical contingency.*
 
+> [!citation-card] 米特论金代表的伦敦文化主义传统与实证论争
+> 米特（[[Wolfgang Mitter]]）在梳理欧洲比较教育学科演进时指出，受德国社会学实证主义争论与批判理性主义的冲击，战后伦敦比较教育学界内部爆发了深层的[[Epistemology|认识论]]博弈。长期以来，伦敦大学教育研究院与国王学院由汉斯、劳威斯以及国王学院的埃德蒙·金等人维系着深厚的文化主义传统；而在 1960 至 1980 年代，霍姆斯力推以[[Critical Dualism|批判二元论]]为基础的实证主义[[Problem Approach|问题法]]，引发了持续的方法论论辩。金对物理学式预测的坚决抵制，维系了英格兰学界对文化背景与行动者复杂性的深层敏感性。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90, 92–93)]]
+>
+> *The Institute of Education and King's College London had long held a culturalist tradition represented by Hans, Lauwerys, and Edmund King at King's College; however, in the 1960s to 1980s, [[Brian Holmes]] promoted a positivist 'critical dualism' and problem approach, igniting continuous epistemological controversies across London.*
+
 ---
 
 ## 关系网络
@@ -156,6 +164,7 @@ updated: 2026-09-24
 > - **跨学科论争与[[Disciplina and Doctrina\|规训]]对象** 玛格丽特·斯科特福德·阿彻（Margaret Scotford Archer） — 1979–1980 年金公开试图以传统学科正统权威规训阿彻的教育系统形态社会学，成为 1970 年代方法论断裂的标志性事件。
 > - **批判审视者与后辈学者** [[Robert Cowen\|罗伯特·考恩]] — 深入解剖金在[[Policy Science in Comparative Education\|政策科学]]中与权力的结盟，以及规训阿彻对英国比较教育跨学科生态造成的严重创伤。
 > - **历史人文同盟与学术先驱** [[Michael Sadler\|迈克尔·萨德勒]]、[[Nicholas Hans\|尼古拉斯·汉斯]] — 继承萨德勒对文化情境与活的精神的敏感性；汉斯曾长期执教于伦敦大学国王学院，金承继了该机构的深厚人文学统。
+> - **史学评价者与学会同行** [[Wolfgang Mitter]] — 评析金在伦敦大学国王学院的建制贡献及其在欧洲[[Positivism|实证主义]]论争中的文化主义定位。
 > - **机构与组织** 伦敦大学国王学院（讲座教授、中心主任）、[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE 奠基成员）、英国[[Comparative and International Education Society\|比较与国际教育学会]]（BCIES 领袖）。
 
 ---
@@ -201,3 +210,5 @@ updated: 2026-09-24
 > | [[Critical Dualism]] | 概念 | 认同文化规范与制度环境的区分，但反对将社会学法则上升为具有预测力的必然规律。 |
 > | [[Historical-Comparative Method]] | 方法 | 扎根[[Michael Sadler\|萨德勒]]历史人文传统，强调对各民族独特文化背景与教育现实的生态化体察。 |
 > | [[1970s Methodology Debates in Comparative Education]] | 事实 | 英格兰方法论分裂的核心当事人，其规训行动与政策主张构成了该历史事件的重要剖面。 |
+> | [[Wolfgang Mitter]] | 人物 | 评析金在伦敦国王学院开辟的学术中枢及其文化主义在实证争鸣中的立场。 |
+> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 提供金在战后英国双子学术中枢及欧洲[[Positivism\|实证主义]]论辩中的权威史学依据。 |
