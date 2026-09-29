@@ -210,11 +210,17 @@ updated: 2026-09-29
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-| [[National Education in Europe]] | 政策 | 巴纳德全景式记录欧洲公共教育体制的百科全书巨著，为美国公学运动提供权威法典与统计参照。 |
+> | [[National Education in Europe]] | 政策 | 巴纳德全景式记录欧洲公共教育体制的百科全书巨著，为美国公学运动提供权威法典与统计参照。 |
 > | [[Horace Mann]] | 人物 | 公学运动的灵魂领袖，主导马萨诸塞州改革并确立公共学校四大信条。 |
 > | [[Calvin Stowe]] | 人物 | 撰写 1837 年欧洲报告，推动公学运动在中西部边疆俄亥俄州完成立法突破。 |
 > | [[Henry Barnard]] | 人物 | 编纂跨国教育百科全书，推进康涅狄格与罗得岛公学改革并出任首任联邦专员。 |
 > | [[Policy Borrowing]] | 概念 | 公学运动展示了将外国教育实绩[[Transfer Translation Transformation\|转译]]为国内政治合法化依据的跨国政策借用机制。 |
 > | [[Educational Meliorism]] | 概念 | 公学运动是教育改良主义母题在 19 世纪美洲最重要的实践形态。 |
-| [[Seventh Annual Report of the Massachusetts Board of Education]] | 政策 | 曼欧洲考察后提交的报告，将普鲁士公学经验转译为公学运动核心政治合法化依据。 |
-| [[Boston Schoolmasters Controversy]] | 事件 | 因第七次报告引发的公学改革派与传统[[Grammar School\|文法学校]]保守派的大决战。 |\n
+> | [[Seventh Annual Report of the Massachusetts Board of Education]] | 政策 | 曼欧洲考察后提交的报告，将普鲁士公学经验转译为公学运动核心政治合法化依据。 |
+> | [[Boston Schoolmasters Controversy]] | 事件 | 因第七次报告引发的公学改革派与传统[[Grammar School\|文法学校]]保守派的大决战。 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 确认美国公学在制度上几乎直接复制普鲁士国民学校，指出师范学校虽沿用法语词汇实为德国教师讲习所翻版；阐明"恶政与良教在自然上可分"是美国改革者回应保守派指控的核心论辩。 |
+
+> [!evidence-grid-a]- 相关研究索引
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 系统重构公学运动作为"政策导向行政改良主义"的经典范式，深度剖析霍勒斯·曼、斯托与巴纳德如何将欧陆经验转译为击退本土保守势力的政治合法化依据。
+> - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 在比较教育学科史脉络中确认美国公学制度模仿普鲁士国民学校，阐明"恶政与良教在自然上可分"作为方法论公理如何回应保守派对引进专制工具的指控。[(Rust et al., 2009, pp. 124–125)]
+\n
