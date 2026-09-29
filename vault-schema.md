@@ -141,7 +141,7 @@ wiki/
 | Theory | `wiki/theories/<field>/` | 只放可作为理论框架、解释机制或分析视角的理论／框架／模型 |
 | Method | `wiki/methods/qualitative/`、`quantitative/`、`mixed/` | 只放研究方法、研究设计、资料收集／分析方法、项目评价方法；课堂教学法放 Concept |
 | Instrument | `wiki/instruments/<instrument-type>/` | 放命名量表、问卷、测验、清单、评分规程、观察工具和访谈工具。标准子目录为 `tests/`（最高表现测验）、`scales/`（典型表现量表）、`questionnaires/`（事实与经历问卷）、`inventories/`（倾向清单/存表）、`rubrics/`（表现评价量规）、`checklists/`（方法学质评核查表）、`observation-tools/`（观察编码规程）、`interview-tools/`（访谈与焦点小组指南）；构念放 Concept，通用程序放 Method |
-| Person | `wiki/persons/<nationality-or-region>/` | 按国籍／地区；不明或跨国身份放 `global` |
+| Person | `wiki/persons/<nationality-or-region>/`、`wiki/persons/schools/` | 按国籍／地区；不明或跨国身份放 `global`；学术流派／学派放 `schools`（使用学派模板） |
 | Fact | `wiki/facts/<region>/` | 按地区；全球性放 `global`；多国比较放 `multi`；`subtype` 固定为 `policy`（政策法案）、`event`（历史事件）、`organization`（组织机构）、`program`（重大项目）四大标准类别 |
 | Argument | `wiki/arguments/journal-articles/<journal-name>/`、`wiki/arguments/books/<book-folder>/`、`wiki/arguments/reports-policy-documents/` | 按文献类型；期刊论文 Argument 按 `journal` 字段对应的期刊名称分组；书籍 Argument 再按具体书籍文件夹分组 |
 
