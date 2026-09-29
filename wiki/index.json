@@ -698,6 +698,18 @@
     ]
   },
   {
+    "title": "Educational Multilateralism",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Educational Multilateralism.md",
+    "aliases": [
+      "国际教育多边主义",
+      "教育多边主义",
+      "教育多边合作",
+      "多边教育治理",
+      "Multilateralism in Education"
+    ]
+  },
+  {
     "title": "Encyclopaedism",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Encyclopaedism.md",
@@ -1449,6 +1461,17 @@
       "比较教育中的民族国家单位",
       "Nation-State as the Unit of Analysis",
       "Nation-State as Unit of Comparison"
+    ]
+  },
+  {
+    "title": "Time-Space Compression",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Time-Space Compression.md",
+    "aliases": [
+      "时空压缩",
+      "空间-时间压缩",
+      "时空收缩",
+      "Space-Time Compression"
     ]
   },
   {
@@ -6376,6 +6399,19 @@
     ]
   },
   {
+    "title": "New Managerialism",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/New Managerialism.md",
+    "aliases": [
+      "教育新管理主义",
+      "高等教育新管理主义",
+      "新管理主义",
+      "经理主义",
+      "管理主义转向",
+      "New Public Management in Education"
+    ]
+  },
+  {
     "title": "New Professionalism",
     "type": "concept",
     "path": "wiki/concepts/higher-education/New Professionalism.md",
@@ -6533,6 +6569,17 @@
       "大学社会责任",
       "USR",
       "university corporate social responsibility"
+    ]
+  },
+  {
+    "title": "Virtual University",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Virtual University.md",
+    "aliases": [
+      "虚拟大学",
+      "网络大学",
+      "跨国虚拟大学",
+      "Online University"
     ]
   },
   {
@@ -12163,6 +12210,17 @@
       "草根全球化",
       "草根全球化理论",
       "自下而上的全球化理论"
+    ]
+  },
+  {
+    "title": "Globally Structured Agenda for Education",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Globally Structured Agenda for Education.md",
+    "aliases": [
+      "全球结构化教育议程",
+      "全球结构化议程",
+      "GSAE",
+      "Globally Structured Agenda"
     ]
   },
   {
@@ -18541,6 +18599,15 @@
     ]
   },
   {
+    "title": "Karen Mundy",
+    "type": "person",
+    "path": "wiki/persons/canada/Karen Mundy.md",
+    "aliases": [
+      "凯伦·曼迪",
+      "Mundy, K."
+    ]
+  },
+  {
     "title": "Marlene Scardamalia",
     "type": "person",
     "path": "wiki/persons/canada/Marlene Scardamalia.md",
@@ -20244,6 +20311,15 @@
     ]
   },
   {
+    "title": "Roger Dale",
+    "type": "person",
+    "path": "wiki/persons/uk/Roger Dale.md",
+    "aliases": [
+      "罗杰·戴尔",
+      "Dale, R."
+    ]
+  },
+  {
     "title": "Rom Harré",
     "type": "person",
     "path": "wiki/persons/uk/Rom Harré.md",
@@ -20321,6 +20397,15 @@
     ]
   },
   {
+    "title": "Susan L. Robertson",
+    "type": "person",
+    "path": "wiki/persons/uk/Susan L. Robertson.md",
+    "aliases": [
+      "苏珊·罗伯逊",
+      "Robertson, S. L."
+    ]
+  },
+  {
     "title": "Terry Wrigley",
     "type": "person",
     "path": "wiki/persons/uk/Terry Wrigley.md",
@@ -20375,6 +20460,16 @@
       "瓦尔特·博德默尔",
       "沃尔特·博德默",
       "Sir Walter Bodmer"
+    ]
+  },
+  {
+    "title": "Aaron Benavot",
+    "type": "person",
+    "path": "wiki/persons/us/Aaron Benavot.md",
+    "aliases": [
+      "阿隆·贝纳沃特",
+      "贝纳沃特",
+      "Benavot, A."
     ]
   },
   {
@@ -21033,6 +21128,15 @@
     ]
   },
   {
+    "title": "Kathryn Anderson-Levitt",
+    "type": "person",
+    "path": "wiki/persons/us/Kathryn Anderson-Levitt.md",
+    "aliases": [
+      "凯瑟琳·安德森-莱维特",
+      "Anderson-Levitt, K. M."
+    ]
+  },
+  {
     "title": "Ken Goodman",
     "type": "person",
     "path": "wiki/persons/us/Ken Goodman.md",
@@ -21333,6 +21437,17 @@
       "Eddy, S.",
       "宣夏德",
       "谢伍德·埃迪"
+    ]
+  },
+  {
+    "title": "Stephen P. Heyneman",
+    "type": "person",
+    "path": "wiki/persons/us/Stephen P. Heyneman.md",
+    "aliases": [
+      "斯蒂芬·海尼曼",
+      "海尼曼",
+      "Heyneman, S. P.",
+      "Heyneman, S."
     ]
   },
   {
@@ -23312,6 +23427,16 @@
       "国际劳工组织",
       "国际劳工局",
       "International Labour Office"
+    ]
+  },
+  {
+    "title": "International Monetary Fund",
+    "type": "fact",
+    "path": "wiki/facts/global/International Monetary Fund.md",
+    "aliases": [
+      "国际货币基金组织",
+      "货币基金组织",
+      "IMF"
     ]
   },
   {
