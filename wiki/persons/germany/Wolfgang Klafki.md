@@ -7,7 +7,7 @@ summary: "德国教育学家和 Didaktik 代表人物，批判建设性教学论
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -50,7 +50,7 @@ related_methods:
 confidence: high
 status: draft
 created: '2026-05-06'
-updated: 2026-09-23
+updated: 2026-09-29
 ---
 
 # Wolfgang Klafki

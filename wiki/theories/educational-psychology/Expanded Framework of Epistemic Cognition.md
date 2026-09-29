@@ -6,7 +6,7 @@ aliases:
 summary: "分析框架附加整合哲学观念的五组件模型。取代或扩展了传统简单的认识论信念维度。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 20
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-09-17
+updated: 2026-09-29
 ---
 
 # Expanded Framework of Epistemic Cognition

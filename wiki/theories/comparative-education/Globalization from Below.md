@@ -9,10 +9,10 @@ aliases:
 summary: "布雷彻等创立、阿诺夫引入比较教育学的批判社会运动与教育改革理论，指跨国界基层社会运动、原住民团体与教师工会依托数字通信构筑的以太流散空间，利用普世人权话语反哺抗争新自由主义自上而下的政策规训，通过跨国社会连带争取教育公平并推动世界体系向全球社会民主转型"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 30
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 32
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 domain: "comparative-education"
 related_count: 8
 related_level: 0

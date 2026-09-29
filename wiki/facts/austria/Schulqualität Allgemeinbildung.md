@@ -11,7 +11,7 @@ subtype: policy
 region: "austria"
 fact_region: "austria"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 
 # Schulqualität Allgemeinbildung

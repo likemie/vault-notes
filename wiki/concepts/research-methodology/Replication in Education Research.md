@@ -11,10 +11,10 @@ aliases:
 summary: "在多元教育情境中对前人干预方案或实证发现进行独立重复检验的方法学机制，旨在克服小样本偏倚、开发者利益冲突与自编测验虚夸，确立研究成果的外部概化效度与实践可靠性"
 type: concept
 domain: "research-methodology"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - replication
   - research-methodology
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-17'
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 
 # Replication in Education Research

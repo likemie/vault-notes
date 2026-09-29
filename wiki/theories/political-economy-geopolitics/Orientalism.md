@@ -5,7 +5,7 @@ aliases:
 summary: "通过知识生产把东方建构为被观看、被解释和被支配对象的批判概念，用于揭示文化优越感和殖民想象的再生产"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -55,7 +55,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-09-23
+updated: 2026-09-29
 ---
 
 ## 定义

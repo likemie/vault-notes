@@ -7,7 +7,7 @@ summary: "挪威教育领导力学者，学校治理与问责研究者，为教�
 type: person
 nationality: norway
 person_region: "norway"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -37,7 +37,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-02'
-updated: 2026-09-11
+updated: 2026-09-29
 ---
 ## 简介
 

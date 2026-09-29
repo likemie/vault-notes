@@ -7,10 +7,10 @@ summary: "加拿大著名比较教育学者，多伦多大学安大略教育研�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 6
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 22
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "c. 1962"
 died: ""
 lifespan: "c. 1962–至今"

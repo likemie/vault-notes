@@ -4,10 +4,10 @@ aliases: [唯意志论, 唯意志主义, voluntaristic assumption, voluntarist a
 summary: "关于人类本质特性的本体论假设，主张个体是自身行动的自主发起者，具有自由意志、反思意识与创造力，能够在主观意向与社会互动中积极创造并改造其生存环境。"
 type: concept
 domain: "educational-philosophy"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags: [theme/ontology, theme/human-nature, theme/research-philosophy, paradigm/interpretivist]
 related_concepts:
   - "[[Ontology]]"

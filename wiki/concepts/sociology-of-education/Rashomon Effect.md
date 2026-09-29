@@ -8,7 +8,7 @@ aliases:
 summary: "源自黑泽明电影的社会科学概念，指同一事件或数据集被不同利益行动者基于自身立场建构出矛盾且不可兼容的多重因果叙事，在质性研究中体现为因果的多重性，在全球治理中体现为数据可塑性引发的政策罗生门"
 type: concept
 domain: "sociology-of-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -60,7 +60,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 
 # Rashomon Effect

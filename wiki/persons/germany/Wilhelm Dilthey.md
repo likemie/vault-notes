@@ -8,7 +8,7 @@ summary: "德国历史主义哲学家与教育学家，柏林大学哲学教授�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

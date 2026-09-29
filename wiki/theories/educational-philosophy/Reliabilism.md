@@ -6,7 +6,7 @@ aliases:
 summary: "一种外部主义认识论理论，主张信念的确证依赖于产生该信念的因果过程是否可靠，促成了哲学向实证科学的自然主义转向，扩展了认识论认知的研究范畴。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 19
+theory_related_count: 20
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-09-17
+updated: 2026-09-29
 ---
 
 # Reliabilism

@@ -8,7 +8,7 @@ aliases:
 summary: "欧陆尤其是德语区教育科学的奠基性母体学科。起源于哲学与神学传统，以人的教化（Bildung）与教育引导（Erziehung）为核心本体，为比较教育、学校教育学等各应用分支学科提供根本的价值规范、概念范畴与认识论反思，构成抵御技术官僚功利化与纯粹工具性实证主义的理论底座。"
 type: concept
 domain: "educational-philosophy"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

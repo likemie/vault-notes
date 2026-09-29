@@ -8,7 +8,7 @@ summary: "美国比较教育学家与非洲政治发展学者，斯坦福大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 
 # Joel Samoff

@@ -11,7 +11,7 @@ summary: "哥伦比亚大学师范学院比较教育学讲座教授，《比较�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 35
+person_related_count: 37
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 
 # George Bereday

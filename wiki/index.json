@@ -914,6 +914,17 @@
     ]
   },
   {
+    "title": "Influences Across Cultures",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Influences Across Cultures.md",
+    "aliases": [
+      "跨文化影响",
+      "教育跨文化影响",
+      "Cross-Cultural Influences in Education",
+      "跨文化影响考证"
+    ]
+  },
+  {
     "title": "Insider-Outsider Perspective in Comparative Education",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Insider-Outsider Perspective in Comparative Education.md",
@@ -12313,6 +12324,18 @@
     ]
   },
   {
+    "title": "Typology of Educational Responses to Globalization",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Typology of Educational Responses to Globalization.md",
+    "aliases": [
+      "全球化教育响应类型学",
+      "接受-抵制-恢复-再生产模型",
+      "Four Responses to Globalization in Education",
+      "Receptivity-Resistance-Restoration-Reproduction Model",
+      "教育对全球化的响应类型"
+    ]
+  },
+  {
     "title": "Wight's Three Traditions of International Theory",
     "type": "theory",
     "path": "wiki/theories/comparative-education/Wight's Three Traditions of International Theory.md",
@@ -21519,6 +21542,17 @@
     ]
   },
   {
+    "title": "Val D. Rust",
+    "type": "person",
+    "path": "wiki/persons/us/Val D. Rust.md",
+    "aliases": [
+      "Rust, V. D.",
+      "Val Rust",
+      "瓦尔·D·拉斯特",
+      "瓦尔·拉斯特"
+    ]
+  },
+  {
     "title": "Vivian Tseng",
     "type": "person",
     "path": "wiki/persons/us/Vivian Tseng.md",
@@ -27997,6 +28031,11 @@
     "title": "Argument_Olmos_Torres_2009_StateTheories",
     "type": "argument",
     "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Olmos_Torres_2009_StateTheories.md"
+  },
+  {
+    "title": "Argument_Rust_2009_Reflections",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rust_2009_Reflections.md"
   },
   {
     "title": "Argument_Creswell_2022_SAGE",

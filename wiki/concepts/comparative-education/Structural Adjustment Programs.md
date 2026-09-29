@@ -9,7 +9,7 @@ aliases:
 summary: "世界银行与国际货币基金组织在华盛顿共识下向债务危机国推行的宏观紧缩与市场化贷款附加方案；在教育领域通过推行使用者付费、私有化与分权化削减公共开支，是导致全球南方国家教育主权沦丧与阶级分化的核心外生制度杠杆"
 type: concept
 domain: "comparative-education"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

@@ -9,7 +9,7 @@ aliases:
 summary: "由斯蒂芬·鲍尔（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell）系统区分的两种教育私有化形态。内生私有化指将私营部门的市场逻辑、绩效评估与新公共管理引入公立教育体系内部；外生私有化指通过特许学校、合同外包与公私伙伴关系将公共教育供给转移至私营部门。鲍尔与托雷斯等学者进一步将其定性为新自由主义国家重构教育权力的阶级策略。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 
 # Endogenous and Exogenous Privatisation

@@ -7,7 +7,7 @@ summary: "英国哲学家，批判实在论创始人，为教育研究在实证�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -52,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-09-24
+updated: 2026-09-29
 ---
 
 # Roy Bhaskar

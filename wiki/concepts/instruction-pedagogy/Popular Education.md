@@ -6,7 +6,7 @@ aliases:
 summary: "发端于拉丁美洲的解放教育范式，主张立足被压迫工农大众的生活经验与阶级境遇，通过提问式对话教学激发批判意识觉醒，培养改造社会结构的政治能动性，与国家威权自上而下的补偿性恩庇扫盲相对立"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

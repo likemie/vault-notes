@@ -9,10 +9,10 @@ aliases:
 summary: "政治地理学与批判性教育政策研究的核心概念，指在全球化与治理转型过程中，国家规约权力与政策空间在跨国、国家、次国家/州与地方市镇等不同尺度之间发生的质性重构与再分配，强调空间尺度并非天然给定的物理容器，而是由政策流动、制度博弈与数据基础设施不断生产与重构的关系构型。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/educational-policy-reform
   - theme/spatial-governance
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-29
 ---
 
 # Rescaling

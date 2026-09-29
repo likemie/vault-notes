@@ -10,7 +10,7 @@ summary: "俄裔英国比较教育学家，伦敦大学国王学院读者，20 �
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"

@@ -6,7 +6,7 @@ aliases:
 summary: "描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -56,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-09-18
+updated: 2026-09-29
 ---
 
 # Global Education Reform Movement

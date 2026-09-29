@@ -10,10 +10,10 @@ aliases:
 summary: "斯坦福学派新制度主义社会学理论，将全球大众教育和国家体制的跨国趋同阐释为世界文化模型扩散与模仿的产物。主张去中心化的世界社会依赖无私代理人的他者性机制输出进步与正义规范，同时该理论面临政治现实主义与批判政治经济学关于掩盖中心边缘依附剥削、实质不平等及微观抵制能动性的深刻批评。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 39
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 41
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - region/global
   - paradigm/globalization

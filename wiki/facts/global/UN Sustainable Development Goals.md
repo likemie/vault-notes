@@ -14,7 +14,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-09-26
+updated: 2026-09-29
 ---
 
 # UN Sustainable Development Goals

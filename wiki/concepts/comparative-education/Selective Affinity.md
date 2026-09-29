@@ -6,7 +6,7 @@ aliases:
 summary: "源自歌德与马克斯·韦伯的社会学概念，指两种不同的思想、信仰或制度要素在特定文化/社会条件下产生的互惠吸引、契合与相互强化机制，常用于解释跨文化政策借用与本土传统共振"
 type: concept
 domain: "comparative-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-07-22'
-updated: 2026-09-17
+updated: 2026-09-29
 ---
 # Selective Affinity
 

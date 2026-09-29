@@ -8,7 +8,7 @@ aliases:
 summary: "指跨国私营战略咨询公司（如麦肯锡、波士顿咨询、贝恩及四大核数所）深度嵌入并系统主导国家公共政策制定、机构重组与教育改革方案的政治治理现象，伴随公共行政能力外包与商业量规对民主审议的置换。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 
 # Consultocracy

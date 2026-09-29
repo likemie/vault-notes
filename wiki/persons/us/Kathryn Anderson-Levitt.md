@@ -7,10 +7,10 @@ summary: "美国教育人类学家与比较教育学者，密歇根大学迪尔�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 17
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "c. 1949"
 died: ""
 lifespan: "c. 1949–至今"

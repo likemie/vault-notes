@@ -158,6 +158,9 @@ updated: 2026-09-20
 > [!claim] Downs, R. B.
 > **指引之光与警示之标的双重视角** 罗伯特·唐斯指出，霍勒斯·曼在考察欧洲时确立了辩证的借用原则：既寻找“引路的指引之光（lights to guide）”，也辨识“令人戒惧的警示之标（beacons to terrify）”。他严厉拒斥普鲁士专制政体对公民自由的践踏，但果断借用其师资培育与无宗派教学的技术优长，形成了降维打击本土反对派的话语优势。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 31)]]；引自 Downs (1974:88)
 
+> [!claim] [[Val D. Rust|Rust, V. D.]], Johnstone, B., and Allaf, C.
+> **恶政与良教自然可分原则与国民学校制度复刻** [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] 指出，十九世纪美国公学改革先驱（斯托、贝奇、霍勒斯·曼、巴纳德）在面临保守派指责其引进普鲁士君主专制奴化工具时，做出了精细的方法论与哲学辩驳：他们承认普鲁士制度与专制政治的结合，但确立了“恶政与良教在自然上可分”的核心公理。人类的心智官能具有普适性，因此若普鲁士教师能用一半时间教会基础读写算，美国完全能够学习其先进教学法而不采纳其政治奴化内容，借此赋能共和民主；在此论证下，美国公学在制度建构上构成了普鲁士国民学校（Volksschule）的几乎精确复刻，师范学校（Normal School）亦复刻了德国教师讲习所。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 124–125)]]
+
 ---
 
 ### 命题总览

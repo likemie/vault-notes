@@ -8,10 +8,10 @@ summary: "美国著名教育经济学家、高级外交官与国际教育规划�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1915"
 died: "2006"
 lifespan: "1915–2006"
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-09-29
 ---
 
 # Philip H. Coombs

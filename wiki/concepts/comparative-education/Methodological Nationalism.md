@@ -5,7 +5,7 @@ aliases:
 summary: "把民族国家视为现代社会自然单位的方法论立场，容易遮蔽全球联系、跨尺度过程和空间关系的复杂性"
 type: concept
 domain: "comparative-education"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-12
-updated: 2026-09-23
+updated: 2026-09-29
 ---
 
 # Methodological Nationalism

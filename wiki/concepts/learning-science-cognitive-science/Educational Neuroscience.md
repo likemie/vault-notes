@@ -11,7 +11,7 @@ aliases:
 summary: "将神经科学发现应用于教育实践的跨学科领域，主张以大脑学习机制为依据设计教学。被批评为简化主义，忽视社会互动和情境因素，且在历史上曾被用于为压迫性政策提供科学依据。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-09-17
+updated: 2026-09-29
 ---
 
 # Educational Neuroscience

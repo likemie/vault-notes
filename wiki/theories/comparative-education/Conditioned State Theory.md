@@ -11,10 +11,10 @@ aliases:
 summary: "比较教育政治社会学与依附论视阈下的国家理论，主张外围资本主义国家受制于其在全球资本积累中的从属边缘地位与内部后封建政治结构的双重制约，统治精英结成支配同盟使国家沦为代用国家，从而导致公共教育扩张与民主化进程深陷外生与内生矛盾"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 31
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 32
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/comparative-education
   - theory/state
@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 
 # Conditioned State Theory

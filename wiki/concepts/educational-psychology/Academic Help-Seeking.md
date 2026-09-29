@@ -8,7 +8,7 @@ aliases:
 summary: "学习者在面临学业困难或知识盲区时，主动识别障碍、调动外部社会或技术资源以维持学习进程的自我调节学习与认识论策略，涵盖工具性求助、执行性求助与人机交互低威胁求助"
 type: concept
 domain: "educational-psychology"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -55,7 +55,7 @@ related_arguments:
   - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Li_2012_Cambridge]]"
 created: 2026-09-22
-updated: 2026-09-24
+updated: 2026-09-29
 ---
 
 # Academic Help-Seeking

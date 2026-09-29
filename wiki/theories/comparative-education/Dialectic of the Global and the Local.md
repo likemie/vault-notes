@@ -8,7 +8,7 @@ aliases:
 summary: "阿诺夫与托雷斯开创的批判比较教育学核心理论框架，强调全球经济、政治与文化力量并非单向决定本土教育，而是与民族国家和基层社区的能动力量发生持续的相互渗透、中介过滤与冲突重塑。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 45
+theory_related_count: 47
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"

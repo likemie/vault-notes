@@ -1,6 +1,7 @@
 ---
 citation: "Rust, V. D., Johnstone, B., & Allaf, C. (2009). Reflections on the Development of Comparative Education. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 121–138). Dordrecht: Springer."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Rust_2009_Reflections]]"
 processed_date: 2026-09-29
 part_of: "[[Cowen(Ed.)_2009_Springer]]"
 ---

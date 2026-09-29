@@ -11,9 +11,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "White House Office of Science and Technology Policy"
 tags:
@@ -37,7 +37,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 
 # US Innovation Policy System

@@ -7,7 +7,7 @@ aliases:
 summary: "指国际组织在面临教育技术赤字与未来不确定性时，将其治理权威建立在对教育未来的期许与危机规避允诺之上的正当化机制。国际组织将未来危机描绘为当下脆弱现实的逻辑延伸，并向各国政府推销即可采取行动的循证方案以生产确定性。"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-18
+updated: 2026-09-29
 ---
 
 # Promissory Legitimacy

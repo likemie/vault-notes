@@ -6,7 +6,7 @@ aliases:
 summary: "在教育研究与全球化社会学中，指代默认主权国家是教育的唯一提供者、出资者与监管者，并将“教育治理”等同于“国家行政管理”的方法论还原主义偏误。它是 Roger Dale 提出的阻碍全球化教育研究的“三大方法论陷阱”之一。"
 type: concept
 domain: "comparative-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-09-24
+updated: 2026-09-29
 ---
 
 # Methodological Statism

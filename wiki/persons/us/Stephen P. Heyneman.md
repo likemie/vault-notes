@@ -9,10 +9,10 @@ summary: "美国著名国际教育政策与比较教育学者，范德堡大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 5
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "c. 1941"
 died: ""
 lifespan: "c. 1941–至今"

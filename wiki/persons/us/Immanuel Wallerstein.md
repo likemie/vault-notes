@@ -9,7 +9,7 @@ summary: "美国历史社会学家，世界体系分析创始人。提出资本�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

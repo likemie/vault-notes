@@ -9,10 +9,10 @@ aliases:
 summary: "指由三个及以上主权国家基于普遍行为原则建立的制度化教育协调与援助机制，其历史演进经历了从战后教科文组织主导的有限再分配模式，到后殖民抗争，再到新自由主义防御性与规训性模式的重大范式转型。"
 type: concept
 domain: "comparative-education"
-related_count: 3
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 24
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/comparative-education
   - theme/educational-governance

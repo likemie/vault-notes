@@ -9,10 +9,10 @@ aliases:
 summary: "20世纪前中期主导欧洲比较教育学术研究的人文主义古典范式，由弗里德里希·施奈德与尼古拉斯·汉斯奠立；该理论主张在民族国家教育体系的多样性表象背后，探寻由民族性格、地理环境、经济生产、宗教信仰与文化哲学构成的深层驱动力（Triebkräfte），揭示国家教育形态的历史发生学机制与内在趋同性。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 23
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 24
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 domain: "comparative-education"
 theory_level: 1
 theory_stars: "⭐"

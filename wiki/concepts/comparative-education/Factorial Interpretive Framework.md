@@ -10,10 +10,10 @@ aliases:
 summary: "20世纪经典比较教育学中由汉斯集大成的核心分析范式，通过自然、宗教与世俗三维恒久力量解释民族国家教育制度的相貌生成与精神特质"
 type: concept
 domain: "comparative-education"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - comparative-education
   - historical-comparative
@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 
 # Factorial Interpretive Framework

@@ -10,10 +10,10 @@ aliases:
 summary: "指将私营企业的市场逻辑、绩效问责、契约管理与成本中心核算移植到公共教育特别是高等教育机构中的治理范式，强调通过目标量化、审计文化与行政集权重构学术组织。"
 type: concept
 domain: "higher-education"
-related_count: 1
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 15
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/higher-education
   - theme/educational-governance

@@ -8,7 +8,7 @@ summary: "澳大利亚教育心理学家，中国学习者悖论的核心研究�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-09-11
+updated: 2026-09-29
 ---
 # David Watkins
 

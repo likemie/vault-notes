@@ -8,7 +8,7 @@ aliases:
 summary: "在循证教育改革与量化政策评估中，指依据高斯正态分布假说，将平均效应量与集中趋势作为衡量干预有效性最高标尺的认识论与治理机制；该机制在方法学上将正态分布两端的异质性个体与极端弱势群体视为可忽略的离群值（Outliers），在治理上迎合追求高性价比（Value for Money）的政治多数派修辞，从而在制度层面造成对边缘学童的系统性忽视并剥夺教师的情境化专业判断权。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 
 # Statistical Normalisation

@@ -10,7 +10,7 @@ aliases:
 summary: "经典政治学、公共政策与比较教育核心理论。一方面在政策治理中主张社会权力分散于多元竞争的利益集团之间，公共政策是多群体公开民主博弈与妥协的产物；另一方面在比较教育与文化哲学中主张文化多元主义（Cultural Pluralism），强调教育深植于多元语言、宗教、族群与地方环境之中，构成抗衡世界体系单一普遍主义（Universalism）与超国家标准化技术规训的关键认识论屏障。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 28
+theory_related_count: 29
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"

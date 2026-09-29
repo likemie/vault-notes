@@ -10,7 +10,7 @@ aliases:
 summary: "由历史文化过程积淀并持续演进的共享概念框架，在微观层面指文化成员用以解释、预测与指导学习及社会行动的原型图式（如东西方学习模型），在宏观跨国层面指世界社会理论所论述的普世化制度脚本（如国民经济发展、公民资产与国家可改进性信念）。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 43
+theory_related_count: 44
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"

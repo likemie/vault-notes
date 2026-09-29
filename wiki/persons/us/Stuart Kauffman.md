@@ -9,7 +9,7 @@ summary: "美国理论生物学家、复杂系统科学先驱、圣塔菲研究�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-18
+updated: 2026-09-29
 ---
 
 # Stuart Kauffman

@@ -12,7 +12,7 @@ summary: "约翰·迈耶等开创的社会学新制度主义与世界社会研�
 type: person
 subtype: school
 person_region: "United States"
-person_related_count: 32
+person_related_count: 34
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"

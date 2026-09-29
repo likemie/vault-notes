@@ -7,10 +7,10 @@ summary: "英国批判教育社会学家与比较教育学者，布里斯托尔�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 9
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 21
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "c. 1942"
 died: ""
 lifespan: "c. 1942–至今"

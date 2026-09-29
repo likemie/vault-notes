@@ -7,7 +7,7 @@ summary: "德国天主教教育学家，德语区比较教育学奠基人，曾�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -90,13 +90,13 @@ updated: 2026-09-29
 
 > [!thought-timeline] 思想发展阶段
 > - **1920年代–1930年代 — 跨国比较探索与国际学术网络奠基** 探索超越德国传统思辨教育学的实证制度比较，创办跨国学术期刊搭建国际对话平台。
->   - **代表著作** 创办《[[International Education|国际教育]]学评论》（*Internationale Zeitschrift für Erziehungswissenschaft*, 1931）。
+>   - **代表著作** 创办《[[International Education|国际教育]]学评论》（*Internationale Zeitschrift für Erziehungswissenschaft*, 1931）。在创刊号中，施奈德系统勾勒了比较教育学的历史、体系、方法、宗旨与贡献，并致力于为这门学科确立统一规范的术语基底。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122–123)]]
 >   - **关键概念／方法** 国际学术交流、[[Geisteswissenschaften|精神科学]]教育学、跨国期刊建制。
 >   - **阶段转向** 突破孤立的国别视野，尝试通过跨国多语种学术平台探寻欧洲教育体系的共同根基，但研究因纳粹迫害而被迫中断。
-> - **1940年代–1950年代 — [[Theories of the Driving Forces|驱动力理论]]建构与欧洲统一性发掘** 战后依托萨尔茨堡与慕尼黑大学，系统提炼决定教育体系深层形态的动因结构。
->   - **代表著作** 《各民族教育学的驱动力》（*Triebkräfte der Pädagogik der Völker*, 1947）；《教育科学导论》（*Einführung in die Erziehungswissenschaft*, 1953）。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 93)]]
->   - **关键概念／方法** 驱动力理论（Triebkräfte）、[[National Character|国民性格]]、欧洲统一性（European Unity）、天主教人文主义。
->   - **阶段转向** 从描述性外在制度比照，深化为探究塑造各民族教育体系深层精神力量的发生学解释，将天主教普世主义与欧洲精神遗产熔铸为理论基底。
+> - **1940年代–1950年代 — [[Theories of the Driving Forces|驱动力理论]]建构与海外跨文化影响考证** 战后依托萨尔茨堡与慕尼黑大学，系统提炼决定教育体系深层形态的动因结构，并在流亡期间专注考证德国教育在国外的辐射。
+>   - **代表著作** 《德国教育学在国外的地位与影响》（*Geltung und Einflüsse der deutschen Pädagogik im Ausland*, 1943）[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 126)]]；《各民族教育学的驱动力》（*Triebkräfte der Pädagogik der Völker*, 1947）；《教育科学导论》（*Einführung in die Erziehungswissenschaft*, 1953）。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 93)]]
+>   - **关键概念／方法** 驱动力理论（Triebkräfte）、[[Influences Across Cultures|跨文化影响]]、[[National Character|国民性格]]、欧洲统一性（European Unity）、天主教人文主义。
+>   - **阶段转向** 从描述性外在制度比照，深化为探究塑造各民族教育体系深层精神力量的发生学解释，并将视角拓殖至本国教育观念在海外的跨文化流动与反向影响。
 > - **1960年代 — 比较教育学科系统化与大学建制总结** 总结毕生治学心得，为比较教育学确立自足的学科规范、历史脉络与教学体系。
 >   - **代表著作** 《比较教育科学：历史、研究与教学》（*Vergleichende Erziehungswissenschaft*, 1961）。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93, 98)]]
 >   - **关键概念／方法** 比较教育科学（Vergleichende Erziehungswissenschaft）、学科史编纂、大学比较教学法。

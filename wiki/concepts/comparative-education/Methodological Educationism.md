@@ -6,7 +6,7 @@ aliases:
 summary: "将“教育”等同于“学校教育”（schooling）的还原论认识论倾向。在比较教育研究中，它被用于批判将复杂的教育社会化过程狭隘地等同于正式学校制度和国家课程的局限性；它常与方法论国家主义和方法论国家中心主义叠加，构成传统国民教育研究的限制性视角。"
 type: concept
 domain: "comparative-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-07-09
-updated: 2026-09-24
+updated: 2026-09-29
 ---
 
 # Methodological Educationism

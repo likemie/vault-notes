@@ -9,10 +9,10 @@ aliases:
 summary: "源自古希腊城邦文明的整全公民培育与灵魂转向哲学，统合智性沉思、伦理德性与审美和谐，是西方全人教育与比较教育以人为本（anthropos）思想史传统的始源母题。"
 type: concept
 domain: "educational-philosophy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/paideia
   - theme/humanism
@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 
 # Paideia

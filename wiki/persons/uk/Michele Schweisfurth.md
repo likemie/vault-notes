@@ -6,7 +6,7 @@ summary: "格拉斯哥大学比较与国际教育学教授，以以学生为中�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 9
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-07-22'
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 # Michele Schweisfurth
 

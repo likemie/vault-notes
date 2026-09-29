@@ -7,10 +7,10 @@ summary: "德国教育学家，一般教育学代表人物和 Bildung/Erziehung 
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 6
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1941"
 died: ""
 lifespan: "1941–至今"
@@ -35,7 +35,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 ## 简介
 

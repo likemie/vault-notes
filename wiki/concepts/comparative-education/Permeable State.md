@@ -10,10 +10,10 @@ aliases:
 summary: "全球化理论与批判政治社会学核心概念，指在跨国生产离散化、全球金融资本流动与超国家治理规训下，民族国家的地理与主权边界发生高度多孔化与通透化，致使国家失去独立调控公共政策的主权完整性"
 type: concept
 domain: "comparative-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 concept_field: "comparative-education"
 tags:
   - concept/comparative-education
@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 
 # Permeable State

@@ -7,10 +7,10 @@ summary: "英国著名教育社会学家与批判全球化理论家，剑桥大�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 18
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "c. 1955"
 died: ""
 lifespan: "c. 1955–至今"

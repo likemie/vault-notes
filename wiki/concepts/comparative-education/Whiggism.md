@@ -10,7 +10,7 @@ aliases:
 summary: "历史学中以当代价值、标准或进步结果逆向剪裁历史演化过程的史学倾向；在比较教育学中特指混淆实然因果阐释与应然民主改良，或以当代实证量化尺度评判历史先驱的时代倒错。"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 
 # Whiggism

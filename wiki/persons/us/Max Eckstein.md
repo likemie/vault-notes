@@ -9,7 +9,7 @@ summary: "纽约城市大学皇后学院比较教育学教授，CIES 前会长�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 44
+person_related_count: 45
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -75,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 
 # Max Eckstein

@@ -8,10 +8,10 @@ aliases:
 summary: "指依托现代信息通信技术开展纯线上或混合式高等教育教学、跨国学位授予与课程特许经营的高等教育机构形态，它打破了实体校园的地理边界，但同时也引发了学术商品化、文凭去脉络化以及大学公共民主职能流失的深刻危机。"
 type: concept
 domain: "higher-education"
-related_count: 2
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/higher-education
   - theme/educational-technology

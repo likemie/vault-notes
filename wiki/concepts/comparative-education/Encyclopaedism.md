@@ -5,10 +5,10 @@ aliases:
 summary: "一种以广泛覆盖既定学科知识和准确复现事实为通识教育标准的课程范式，可解释多科目课程的浅层学习、考试反拨以及能力改革中旧有分科结构的延续。"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/curriculum-theory
   - theme/educational-tradition
@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-09-17
+updated: 2026-09-29
 ---
 
 # Encyclopaedism

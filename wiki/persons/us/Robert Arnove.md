@@ -9,7 +9,7 @@ summary: "美国著名比较教育学泰斗，比较与国际教育学会（CIES
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 41
+person_related_count: 44
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
