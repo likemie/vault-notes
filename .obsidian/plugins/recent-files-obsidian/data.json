@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mitter_2009_Europe.md"
     },
     {
+      "basename": "Theories of the Driving Forces",
+      "path": "wiki/theories/comparative-education/Theories of the Driving Forces.md"
+    },
+    {
       "basename": "Joseph Lauwerys",
       "path": "wiki/persons/uk/Joseph Lauwerys.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Value Neutrality",
       "path": "wiki/concepts/educational-philosophy/Value Neutrality.md"
-    },
-    {
-      "basename": "Christopher Martin",
-      "path": "wiki/persons/canada/Christopher Martin.md"
     }
   ],
   "omittedPaths": [],

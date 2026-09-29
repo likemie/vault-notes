@@ -32,6 +32,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Enlightenment]]"
+  - "[[Geisteswissenschaften]]"
   - "[[National Character]]"
   - "[[Research Problem]]"
   - "[[Critical Dualism]]"
@@ -106,6 +107,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[World Bank]]"
   - "[[Office of Special Inquiries and Reports]]"
+  - "[[British Association for International and Comparative Education]]"
   - "[[Mediterranean Society of Comparative Education]]"
   - "[[Positivist Dispute in German Sociology]]"
   - "[[World Council of Comparative Education Societies]]"
@@ -124,7 +126,7 @@ title: "Argument_Mitter_2009_Europe"
 argument_key: "Argument_Mitter_2009_Europe"
 argument_display_title: "Comparative Education in Europe"
 argument_kind: "book-chapter"
-argument_related_count: 89
+argument_related_count: 91
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -231,7 +233,7 @@ flowchart LR
 > - **教育考察者与学校督学的政策改良进路**
 >   以[[Victor Cousin|维克多·库森]]（Victor Cousin）、[[Horace Mann|霍勒斯·曼]]（Horace Mann）及[[Matthew Arnold|马修·阿诺德]]（Matthew Arnold）等政府督学为代表，远赴国外查阅法案公文、收集统计并访谈教育官员与教师，旨在通过借鉴外国经验服务本国教育立法与学制改良，同时具备将考察所得置于社会政治与文化母体中加以理解的历史解释素养。
 > - **[[Wilhelm Dilthey|狄尔泰]]的历史解释学哲学进路（Wilhelm Dilthey）**
->   植根于德语精神科学（Geisteswissenschaften）传统，威廉·狄尔泰主张在历史考证与阐释学理解的基础上展开教育体系比较，确立了欧洲比较教育深厚的人文主义底色。（pp.88–89）
+>   植根于德语[[Geisteswissenschaften|精神科学]]（Geisteswissenschaften）传统，威廉·狄尔泰主张在历史考证与阐释学理解的基础上展开教育体系比较，确立了欧洲比较教育深厚的人文主义底色。（pp.88–89）
 
 ---
 
@@ -260,7 +262,7 @@ flowchart LR
 > | 组织类型 | 代表学会 | 成员资格原则 | 组织宗旨与实践取向 |
 > |---|---|---|---|
 > | **跨国综合性学会** | 欧洲比较教育学会（CESE，1961） | 跨国个人会员制（否决联邦国家代表制） | 坚持学术自主与非政治化，早期带有鲜明的纯学术精英主义取向，与纯实务从业者保持审慎距离。（pp.91–92） |
-> | **独立国家学会** | 英国国际与比较教育学会（British Association for International and Comparative Education, BAICE）、希腊学会、波兰学会、西班牙学会、保加利亚学会、土耳其学会 | 国家公民资格与本国学术建制 | 维护本国比较教育专业身份，深度对接国家教育政策咨询与学科教学。 |
+> | **独立国家学会** | [[British Association for International and Comparative Education\|英国国际与比较教育学会]]（British Association for International and Comparative Education, BAICE）、希腊学会、波兰学会、西班牙学会、保加利亚学会、土耳其学会 | 国家公民资格与本国学术建制 | 维护本国比较教育专业身份，深度对接国家教育政策咨询与学科教学。 |
 > | **国家教育学会分会** | 德国教育学会（Deutsche Gesellschaft für Erziehungswissenschaft, DGfE）比较分会、捷克、匈牙利教育学会分会 | 依托本国母体教育学会二级建制 | 体现欧陆将比较教育视作教育学内部[[Comparative Education as a Cross-Sectional Area\|交叉学科]]的建制传统。 |
 > | **跨国区域/语言学会** | 北欧学会（Nordic Society）、[[Mediterranean Society of Comparative Education\|地中海比较教育学会]]（Mediterranean Society of Comparative Education, MESCE）、法语比较教育学会（Association Francophone d'Éducation Comparée, AFEC）、荷兰语学会 | 跨国地缘板块或共同语言文化圈 | 突破单一国家局限，凝聚区域认同（如庞帕尼尼创立的地中海学会覆盖南欧、北非与中东）或特定语系共同体。 |
 > | **实践导向学会** | 法国比较教育与交流发展学会（Association Francophone d'Éducation Comparée et d'Échanges, AFDECE） | 开放吸纳一线教师与政策实践者 | 强调比较教育知识向教育体系实务领域的扩散与转化。（p.92） |
@@ -272,7 +274,7 @@ flowchart LR
 考察欧洲比较教育百年的理论演进，可以清晰辨识出三大发展时期的理论范式更迭，折射出社会政治思潮与邻近人文社会科学的深刻影响：（pp.92–94）
 
 > [!dev-timeline]- 欧洲比较教育百年理论范式更迭阶段
-> - **1920s–1950s — 宏大历史文化全景与精神科学传统** 这一时期由英格兰的[[Nicholas Hans|尼古拉斯·汉斯]]与德国的[[Friedrich Schneider|弗里德里希·施奈德]]（深受天主教思想影响）所构建的宏大历史文化全景所主导，意大利的达尔卡伊斯与西班牙的图斯克茨亦在战后推进类似探索。学者深入考察塑造民族教育体系的历史背景与精神驱动力（driving forces），汉斯所主张的“将每个国家体系置于其历史背景中、研究其与[[National Character|国民性格]]和文化发展的紧密联系”成为这一时期的灵魂注脚。（pp.93–94）
+> - **1920s–1950s — 宏大历史文化全景与[[Geisteswissenschaften|精神科学]]传统** 这一时期由英格兰的[[Nicholas Hans|尼古拉斯·汉斯]]与德国的[[Friedrich Schneider|弗里德里希·施奈德]]（深受天主教思想影响）所构建的宏大历史文化全景所主导，意大利的达尔卡伊斯与西班牙的图斯克茨亦在战后推进类似探索。学者深入考察塑造民族教育体系的历史背景与精神驱动力（driving forces），汉斯所主张的“将每个国家体系置于其历史背景中、研究其与[[National Character|国民性格]]和文化发展的紧密联系”成为这一时期的灵魂注脚。（pp.93–94）
 > - **1960s–1980s — [[Positivist Dispute in German Sociology|德国社会学实证主义争论]]与跨国范式分化** 德国社会学界在[[Karl Popper|卡尔·波普尔]]（Karl Popper）的批判理性主义与[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas）的法兰克福学派[[Critical Theory|批判理论]]之间爆发了著名的[[Positivist Dispute in German Sociology|德国社会学实证主义争论]]（德文：Positivismusstreit）。这场论战迅速席卷欧洲，重塑了比较教育的[[Research Problem|研究议题]]与方法论基础，新马克思主义观点亦进一步拓展了理论视野。在此背景下，伦敦大学教育研究院（IOE）经历了从汉斯、劳威斯的文化主义向布莱恩·霍姆斯（Brian Holmes）实证主义[[Critical Dualism|批判二元论]]的转向；波鸿鲁尔大学则经历了从安维勒的苏联东欧研究向阿迪克的全球化与[[World-Systems Theory|世界体系理论]]转向。（pp.92–93）
 > - **1990s 至今 — 现代主义与[[Postmodernism|后现代主义]]对峙下的多元分化** 呈现为[[Convergence Theory in Comparative Education|趋同理论]]与趋异理论之间的激烈竞争，集中体现为现代主义与后现代主义的抗衡，以及以斯坦福学派为代表的世界体系普遍主义与文化多元主义之间的内在张力。性别研究、教育规划、[[Lifelong Learning|终身学习]]、职业教育以及[[Intercultural Education|跨文化教育]]等新兴领域蓬勃兴起。（p.94）
 

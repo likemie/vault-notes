@@ -3253,6 +3253,20 @@
     ]
   },
   {
+    "title": "Geisteswissenschaften",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Geisteswissenschaften.md",
+    "aliases": [
+      "精神科学",
+      "德语精神科学传统",
+      "精神科学传统",
+      "人文科学",
+      "Human Sciences",
+      "Geisteswissenschaft",
+      "精神科学进路"
+    ]
+  },
+  {
     "title": "General Education",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/General Education.md",
@@ -24748,6 +24762,17 @@
       "AMRC UK",
       "英国医学研究慈善联合会",
       "医学研究慈善协会"
+    ]
+  },
+  {
+    "title": "British Association for International and Comparative Education",
+    "type": "fact",
+    "path": "wiki/facts/uk/British Association for International and Comparative Education.md",
+    "aliases": [
+      "BAICE",
+      "英国国际与比较教育学会",
+      "英国比较与国际教育学会",
+      "British Association for International and Comparative Education (BAICE)"
     ]
   },
   {
