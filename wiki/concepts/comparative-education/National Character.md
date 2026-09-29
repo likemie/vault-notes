@@ -55,13 +55,15 @@ related_persons:
   - "[[Andreas Kazamias]]"
   - "[[Joseph Lauwerys]]"
   - "[[David Held]]"
+  - "[[Friedrich Schneider]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
+  - "[[Argument_Mitter_2009_Europe]]"
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 
 # National Character
@@ -102,6 +104,7 @@ updated: 2026-09-28
 > | **[[Michael Sadler\|Sadler]]** | 民族生活的隐秘运作与活体有机体 | 历史抗争遗留、[[Intangible Spiritual Forces\|无形精神力量]]与内生代偿救治潜能 | 强调学校制度既反映国民性格弱点，又本能地加以救治 |
 > | **[[Isaac Kandel\|Kandel]]** | 民族群体特性的真实[[Externalization\|外化]] | 政治国家意志、文化理想与民族主义投射 | 英国教育的重经验与缺乏规划 vs 法国教育的重理性与条理秩序 |
 > | **[[Nicholas Hans\|Hans]]** | 自然、宗教与世俗历史因素的外在表现 | 历史因果因素综合作用下的国家相貌（Physiognomy） | 历史因素在语言、法治、教派与学校传统中的客观沉淀 |
+> | **[[Friedrich Schneider\|Schneider]]** | 深层内生与外生驱动力（Triebkräfte）的交织网络 | 将国民性格内嵌于地理、经济、宗教与历史文化合力中，在多样性深处探寻欧洲精神统一性 | 教育体系作为民族性格与欧洲共同文化传统博弈融合的动态演进形态 |
 > | **Mallinson** | 思想、情感与行为倾向的总和 | 文化心理连续性与跨世代代际传承 | 教育作为国民性格的函数（Function），承载文化再生产使命 |
 
 ---
@@ -153,6 +156,9 @@ updated: 2026-09-28
 
 > [!claim] [[Nicholas Hans\|Hans, N.]]
 > **历史因果综合力量沉淀为国民相貌与制度形态** 汉斯主张，国家教育体制如同宪法与文学，是国民性格的直接外部呈现。民族在地理、宗教与世俗历史三大动力长期碰撞中积淀形成的集体心理相貌，决定了各国应对普世现代性教育课题时采取的制度进路。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 40–41)]]
+
+> [!claim] [[Friedrich Schneider\|Schneider, F.]]
+> **国民性格作为深层驱动力网络的有机组成部分** 施奈德强调，不能孤立、静态地看待国民性格，而应将其置于决定教育发展的一系列深层内生与外生驱动力（*Triebkräfte*）的网络之中。国民性格与地理环境、经济结构、宗教信仰及国家政治相互激荡，共同决定了民族教育的独特相貌，同时在多样性表象下折射出欧洲共同的文化历史底色。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 93–94)]]
 
 ---
 

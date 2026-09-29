@@ -5,6 +5,30 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mitter_2009_Europe.md"
     },
     {
+      "basename": "Attrition",
+      "path": "wiki/concepts/research-methodology/Attrition.md"
+    },
+    {
+      "basename": "Human Capital Theory",
+      "path": "wiki/theories/political-economy-geopolitics/Human Capital Theory.md"
+    },
+    {
+      "basename": "OECD",
+      "path": "wiki/facts/global/OECD.md"
+    },
+    {
+      "basename": "Case Study",
+      "path": "wiki/methods/qualitative/Case Study.md"
+    },
+    {
+      "basename": "Doxa",
+      "path": "wiki/concepts/sociology-of-education/Doxa.md"
+    },
+    {
+      "basename": "National Character",
+      "path": "wiki/concepts/comparative-education/National Character.md"
+    },
+    {
       "basename": "Torsten Husén",
       "path": "wiki/persons/sweden/Torsten Husén.md"
     },
@@ -101,10 +125,6 @@
       "path": "wiki/concepts/comparative-education/Comparative Education as a Cross-Sectional Area.md"
     },
     {
-      "basename": "OECD",
-      "path": "wiki/facts/global/OECD.md"
-    },
-    {
       "basename": "Navigation Metaphor in Comparative Education",
       "path": "wiki/concepts/comparative-education/Navigation Metaphor in Comparative Education.md"
     },
@@ -173,32 +193,12 @@
       "path": "wiki/theories/comparative-education/World Society Theory.md"
     },
     {
-      "basename": "Case Study",
-      "path": "wiki/methods/qualitative/Case Study.md"
-    },
-    {
       "basename": "Dependency Theory",
       "path": "wiki/theories/comparative-education/Dependency Theory.md"
     },
     {
       "basename": "Educational Level",
       "path": "wiki/concepts/sociology-of-education/Educational Level.md"
-    },
-    {
-      "basename": "UNESCO",
-      "path": "wiki/facts/global/UNESCO.md"
-    },
-    {
-      "basename": "Endogenous and Exogenous Privatisation",
-      "path": "wiki/concepts/educational-policy-reform/Endogenous and Exogenous Privatisation.md"
-    },
-    {
-      "basename": "Stephen Ball",
-      "path": "wiki/persons/uk/Stephen Ball.md"
-    },
-    {
-      "basename": "Politicity of Education",
-      "path": "wiki/concepts/educational-philosophy/Politicity of Education.md"
     }
   ],
   "omittedPaths": [],
