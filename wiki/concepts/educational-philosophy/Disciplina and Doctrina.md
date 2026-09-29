@@ -27,16 +27,18 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
-related_persons: []
+related_persons:
+  - "[[Wolfgang Mitter]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
+  - "[[Argument_Mitter_2009_Europe]]"
 confidence: high
 status: draft
 created: 2026-06-22
-updated: 2026-09-17
+updated: 2026-09-29
 ---
 
 # Disciplina and Doctrina
