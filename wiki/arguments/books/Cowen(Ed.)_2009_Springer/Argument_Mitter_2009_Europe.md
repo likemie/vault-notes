@@ -40,9 +40,11 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Doxa]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Insider-Outsider Perspective in Comparative Education]]"
   - "[[Attrition]]"
   - "[[Educational Meliorism]]"
   - "[[Policy Borrowing]]"
+  - "[[Dilution of Comparative Education]]"
   - "[[Rich and Thick Description]]"
   - "[[Discipline-Based Theory]]"
   - "[[Performance Indicators]]"
@@ -92,6 +94,7 @@ related_persons:
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[Andreas Kazamias]]"
+  - "[[Bogdan Suchodolski]]"
 related_facts:
   - "[[Comparative Education Society in Europe]]"
   - "[[Comparative and International Education Society]]"
@@ -103,8 +106,10 @@ related_facts:
   - "[[UNESCO]]"
   - "[[World Bank]]"
   - "[[Office of Special Inquiries and Reports]]"
+  - "[[Mediterranean Society of Comparative Education]]"
   - "[[Positivist Dispute in German Sociology]]"
   - "[[World Council of Comparative Education Societies]]"
+  - "[[Post-Compulsory Education Project]]"
   - "[[European Qualifications Framework]]"
 related_arguments: []
 sources:
@@ -119,7 +124,7 @@ title: "Argument_Mitter_2009_Europe"
 argument_key: "Argument_Mitter_2009_Europe"
 argument_display_title: "Comparative Education in Europe"
 argument_kind: "book-chapter"
-argument_related_count: 84
+argument_related_count: 89
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -257,7 +262,7 @@ flowchart LR
 > | **跨国综合性学会** | 欧洲比较教育学会（CESE，1961） | 跨国个人会员制（否决联邦国家代表制） | 坚持学术自主与非政治化，早期带有鲜明的纯学术精英主义取向，与纯实务从业者保持审慎距离。（pp.91–92） |
 > | **独立国家学会** | 英国国际与比较教育学会（British Association for International and Comparative Education, BAICE）、希腊学会、波兰学会、西班牙学会、保加利亚学会、土耳其学会 | 国家公民资格与本国学术建制 | 维护本国比较教育专业身份，深度对接国家教育政策咨询与学科教学。 |
 > | **国家教育学会分会** | 德国教育学会（Deutsche Gesellschaft für Erziehungswissenschaft, DGfE）比较分会、捷克、匈牙利教育学会分会 | 依托本国母体教育学会二级建制 | 体现欧陆将比较教育视作教育学内部[[Comparative Education as a Cross-Sectional Area\|交叉学科]]的建制传统。 |
-> | **跨国区域/语言学会** | 北欧学会（Nordic Society）、地中海比较教育学会（Mediterranean Society of Comparative Education, MESCE）、法语比较教育学会（Association Francophone d'Éducation Comparée, AFEC）、荷兰语学会 | 跨国地缘板块或共同语言文化圈 | 突破单一国家局限，凝聚区域认同（如庞帕尼尼创立的地中海学会覆盖南欧、北非与中东）或特定语系共同体。 |
+> | **跨国区域/语言学会** | 北欧学会（Nordic Society）、[[Mediterranean Society of Comparative Education\|地中海比较教育学会]]（Mediterranean Society of Comparative Education, MESCE）、法语比较教育学会（Association Francophone d'Éducation Comparée, AFEC）、荷兰语学会 | 跨国地缘板块或共同语言文化圈 | 突破单一国家局限，凝聚区域认同（如庞帕尼尼创立的地中海学会覆盖南欧、北非与中东）或特定语系共同体。 |
 > | **实践导向学会** | 法国比较教育与交流发展学会（Association Francophone d'Éducation Comparée et d'Échanges, AFDECE） | 开放吸纳一线教师与政策实践者 | 强调比较教育知识向教育体系实务领域的扩散与转化。（p.92） |
 
 ---
@@ -300,7 +305,7 @@ flowchart LR
 > - **冷战前沿的东西欧社会主义阵营教育对峙**
 >   西德学者在铁幕与国家分裂的直接地缘压力下，开创了系统的西-东阵营冲突教育研究，伦敦的[[Janusz Tomiak|托米亚克]]亦深度参与。以安维勒、弗勒泽、米特等具有中东欧血统的学者为代表，其扎实的第[[Primary and Secondary Documents|一手文献]]考据在冷战结束后被原社会主义阵营学者公认为当时极其珍贵且客观可靠的学术档案。（p.95）
 > - **跨越阵营与国界的宏观经验社会学比较项目**
->   [[Saul B. Robinsohn|索尔·罗宾逊]]（Saul Robinsohn）在柏林马普所主持的《社会进程中的学校改革》项目，首次以明确的社会学视角比较了七个欧洲国家的社会因素对学制改革的结构性影响；埃德蒙·金则针对五个西欧国家开展后义务教育（Post-Compulsory Education）比较研究，深入考察职业教育新趋势对青年进入劳动力市场的影响。
+>   [[Saul B. Robinsohn|索尔·罗宾逊]]（Saul Robinsohn）在柏林马普所主持的《社会进程中的学校改革》项目，首次以明确的社会学视角比较了七个欧洲国家的社会因素对学制改革的结构性影响；埃德蒙·金则针对五个西欧国家开展后义务教育项目（[[Post-Compulsory Education Project]]）比较研究，深入考察职业教育新趋势对青年进入劳动力市场的影响。
 
 ---
 
@@ -332,7 +337,7 @@ flowchart LR
 置身 21 世纪初的新全球化语境，欧洲比较教育在地理跨度与学术语言上面临双重前沿挑战：（pp.96–97）
 
 > [!challenges] 跨洲比较视界扩张与学术语言张力
-> - **内部洞察与审慎疏离视界的平衡** 全球化要求展开跨大洲横向比较，研究者必须将本土专家的深度内部洞察与外来学者的审慎疏离视界辩证结合，克服各自的认知盲区。（pp.96–97）
+> - **[[Insider-Outsider Perspective in Comparative Education|内外视角]]的辩证平衡** 全球化要求展开跨大洲横向比较，研究者必须将本土专家的深度内部洞察与外来学者的审慎疏离视界（Verfremdung）辩证结合，确立[[Insider-Outsider Perspective in Comparative Education|比较教育中的内外视角]]，克服各自的认知盲区。（pp.96–97）
 > - **通用语支配与本土学术传统的[[Attrition|流失]]** 英语作为全球学术通用语加速了研究成果的流通，但也带来了学术训练同质化以及本土特有学术概念与语言表达流失的长期隐忧。（p.97）
 
 在研究对象上，传统的单一民族国家制度比较正受到移民潮与多民族社会现实的深刻冲击，促成了与跨文化教育的范式合流：（pp.97–98）
@@ -358,7 +363,7 @@ flowchart LR
 > [!phase] 欧洲比较教育从哲学玄思走向务实欧洲维度
 > - **形而上学哲学玄思阶段（1920s–1950s）**
 >
->   以汉斯、施奈德为代表，沉浸于欧洲共同精神、天主教普世主义与驱动力的宏大历史文化哲学玄想。（pp.88, 93）
+>   以汉斯（[[Nicholas Hans]]）、施奈德（[[Friedrich Schneider]]）与波兰学者[[Bogdan Suchodolski|博格丹·苏霍多尔斯基]]（Bogdan Suchodolski）为代表，沉浸于欧洲共同精神、天主教普世主义与驱动力的宏大历史文化哲学玄想，奠定了充满理想主义的“欧洲维度”。（pp.88, 93, 98）
 >
 > - **务实政策与实证分析阶段（1990s 至今）**
 >
@@ -367,7 +372,7 @@ flowchart LR
 面对日益普遍的跨国比较热潮，米特在全篇收束处对学科的未来提出了深刻的认识论警示：（pp.98–99）
 
 > [!implication]- 学科泛化风险与认识论自我捍卫
-> 米特在结语中警示：当泛化浅层比较与自称比较学者的实务热潮蔓延时，比较教育正面临失去其特定学科轮廓的危险。大量欠缺理论与方法学严密训练的浅层对照，稀释了比较研究的学术品质。欧洲比较教育唯有坚守两个世纪以来在历史哲学考证、制度发生学阐释与文化脉络[[Rich and Thick Description|深描]]中铸就的认识论身份，方能真正在全球比较知识版图中发挥不可替代的批判启蒙价值。（pp.98–99）
+> 米特在结语中警示：当泛化浅层比较与自称比较学者的实务热潮蔓延时，比较教育正面临失去其特定学科轮廓的危险，陷入[[Dilution of Comparative Education|比较教育的稀释]]（Dilution of Comparative Education）危机。大量欠缺理论与方法学严密训练的浅层对照，稀释了比较研究的学术品质。欧洲比较教育唯有坚守两个世纪以来在历史哲学考证、制度发生学阐释与文化脉络[[Rich and Thick Description|深描]]中铸就的认识论身份，方能真正在全球比较知识版图中发挥不可替代的批判启蒙价值。（pp.98–99）
 
 ---
 
@@ -393,7 +398,7 @@ flowchart LR
 >
 > *[[Joseph Lauwerys]] expressly perceived similarity of comparative education with navigation, insofar as both are only aimed at providing the navigator or the policy-maker, respectively with information on alternative strategies without trying to exercise influence on their decision-making.*
 
-> [!citation-card] 泛化比较趋势下的[[Epistemology|认识论]]身份危机
+> [!citation-card] [[Dilution of Comparative Education|比较教育的稀释]]与[[Epistemology|认识论]]身份危机
 > 观察者不应忽视当下学界因“人人都在比较并自称比较学者”所引发的忧虑——人们担心比较教育学正因此丧失其鲜明的学科轮廓。许多此类研究往往缺乏针对本学科比较根基的系统理论与方法论训练，也放弃了对学科认识论身份的持续界定。（p.98）
 >
 > *The observer should not overlook the shadows either which are caused by fears that comparative education might lose its specific contours when realising that 'everybody compares and claims to be a comparativist'. Such claims often lack the requirements of theoretical and methodical training concerning the particularities of the comparative foundations of the discipline including the continuity of the efforts to define its epistemological identity.*

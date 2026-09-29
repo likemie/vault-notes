@@ -629,6 +629,19 @@
     ]
   },
   {
+    "title": "Dilution of Comparative Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Dilution of Comparative Education.md",
+    "aliases": [
+      "比较教育的稀释",
+      "比较教育学泛化",
+      "学科稀释",
+      "比较教育泛化风险",
+      "认识论稀释",
+      "Dilution of the Discipline"
+    ]
+  },
+  {
     "title": "Dual School System",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Dual School System.md",
@@ -886,6 +899,20 @@
       "Import Substitution Industrialization",
       "进口替代",
       "进口替代发展模式"
+    ]
+  },
+  {
+    "title": "Insider-Outsider Perspective in Comparative Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Insider-Outsider Perspective in Comparative Education.md",
+    "aliases": [
+      "比较教育中的内外视角",
+      "内外视角",
+      "局内人与局外人视角",
+      "局内-局外视界",
+      "内部与外部视角",
+      "Insider-Outsider Perspective",
+      "Insider and Outsider Perspective"
     ]
   },
   {
@@ -19360,6 +19387,16 @@
     ]
   },
   {
+    "title": "Bogdan Suchodolski",
+    "type": "person",
+    "path": "wiki/persons/poland/Bogdan Suchodolski.md",
+    "aliases": [
+      "博格丹·苏霍多尔斯基",
+      "苏霍多尔斯基",
+      "B. Suchodolski"
+    ]
+  },
+  {
     "title": "Anatoly Lunacharsky",
     "type": "person",
     "path": "wiki/persons/russia/Anatoly Lunacharsky.md",
@@ -22415,6 +22452,17 @@
     "aliases": [
       "SID",
       "部门创新数据库"
+    ]
+  },
+  {
+    "title": "Mediterranean Society of Comparative Education",
+    "type": "fact",
+    "path": "wiki/facts/europe/Mediterranean Society of Comparative Education.md",
+    "aliases": [
+      "MESCE",
+      "地中海比较教育学会",
+      "地中海比较教育学社",
+      "Mediterranean Society of Comparative Education (MESCE)"
     ]
   },
   {
@@ -25501,6 +25549,17 @@
       "佩里比奇斯辅导",
       "佩里比奇斯辅导方案",
       "Perry Beeches Coaching Program"
+    ]
+  },
+  {
+    "title": "Post-Compulsory Education Project",
+    "type": "fact",
+    "path": "wiki/facts/uk/Post-Compulsory Education Project.md",
+    "aliases": [
+      "后义务教育比较研究项目",
+      "埃德蒙·金后义务教育项目",
+      "King's Post-Compulsory Education Project",
+      "Post-Compulsory Education in Western Europe"
     ]
   },
   {
