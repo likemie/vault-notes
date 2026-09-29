@@ -2673,6 +2673,17 @@
     ]
   },
   {
+    "title": "Allgemeine Pädagogik",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Allgemeine Pädagogik.md",
+    "aliases": [
+      "普通教育学",
+      "General Pedagogy",
+      "德意志普通教育学",
+      "Allgemeine Erziehungswissenschaft"
+    ]
+  },
+  {
     "title": "Anthropomorphic Model",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Anthropomorphic Model.md",

@@ -25,6 +25,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Heterogeneity]]"
+  - "[[Allgemeine Pädagogik]]"
   - "[[Bildung]]"
   - "[[Knowledge Production]]"
   - "[[Document]]"
@@ -83,6 +84,7 @@ related_persons:
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[Andreas Kazamias]]"
+  - "[[Mark Schneider]]"
 related_facts:
   - "[[Comparative Education Society in Europe]]"
   - "[[Comparative and International Education Society]]"
@@ -107,7 +109,7 @@ title: "Argument_Mitter_2009_Europe"
 argument_key: "Argument_Mitter_2009_Europe"
 argument_display_title: "Comparative Education in Europe"
 argument_kind: "book-chapter"
-argument_related_count: 72
+argument_related_count: 73
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -140,11 +142,11 @@ publisher: "Springer"
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **统一性与多样性的二分法**<br>Dichotomy between Diversity and Unity | 解释欧洲文明与教育体系的核心结构性原则。多样性体现为民族国家学制的独特性、制度[[Heterogeneity\|异质性]]与国别边界分割；统一性体现为共享的哲学、科学、艺术精神传统与趋同驱动力，二者构成了现代普遍主义与文化[[Pluralism\|多元主义]]张力的历史原型。（pp.87–88） |
-> | **比较教育作为交叉领域**<br>[[Comparative Education as a Cross-Sectional Area]] | 阐明欧陆（特别是德国）教育科学体系中比较教育的建制形态：在学科母体上深度依托普通教育学（德文：Allgemeine Pädagogik）与[[Bildung\|教化]]哲学，在问题意识与研究工具上面向历史学、政治学与社会学纵深切入，实现规范反思与经验解释的统一。（pp.97–98） |
+> | **比较教育作为交叉领域**<br>[[Comparative Education as a Cross-Sectional Area]] | 阐明欧陆（特别是德国）教育科学体系中比较教育的建制形态：在学科母体上深度依托[[Allgemeine Pädagogik\|普通教育学]]（Allgemeine Pädagogik）与[[Bildung\|教化]]哲学，在问题意识与研究工具上面向历史学、政治学与社会学纵深切入，实现规范反思与经验解释的统一。（pp.97–98） |
 > | **比较教育的航海隐喻**<br>[[Navigation Metaphor in Comparative Education]] | 厘定比较教育研究在政策咨询中的职业伦理边界，将研究者定位为提供多重航线备选方案与潜在暗礁风险预测的罗盘与地图供给者，学者恪守学术中立，绝不代替决策者掌舵操盘。（pp.95–96） |
 
 > [!warrant]- 理论如何支撑论证
-> 作者以统一性与多样性的二分法作为贯穿全章的总透镜，将欧洲复杂的学术地理分布（英国、德国、法国、南欧、北欧与中东欧）与学会组织模式（跨国 [[Comparative Education Society in Europe|CESE]] 与各国国家学会）解释为统一性诉求与多样性现实的动态博弈；引入交叉领域概念，澄清欧陆比较教育学为何长期依附普通教育学母体，又如何兼收实证社会学与历史解释学的跨学科工具；运用航海隐喻及其与激进改革论、国际测评工具论的对比，搭建起评价比较教育参与现实政策程度的理论光谱，使两个世纪的学科史不仅是一部人物与机构编年史，更成为一部透视[[Knowledge Production|知识生产]]、政治权力和地缘变迁的批判制度社会学。（pp.87–99）
+> 作者以统一性与多样性的二分法作为贯穿全章的总透镜，将欧洲复杂的学术地理分布（英国、德国、法国、南欧、北欧与中东欧）与学会组织模式（跨国 [[Comparative Education Society in Europe|CESE]] 与各国国家学会）解释为统一性诉求与多样性现实的动态博弈；引入交叉领域概念，澄清欧陆比较教育学为何长期依附[[Allgemeine Pädagogik|普通教育学]]母体，又如何兼收实证社会学与历史解释学的跨学科工具；运用航海隐喻及其与激进改革论、国际测评工具论的对比，搭建起评价比较教育参与现实政策程度的理论光谱，使两个世纪的学科史不仅是一部人物与机构编年史，更成为一部透视[[Knowledge Production|知识生产]]、政治权力和地缘变迁的批判制度社会学。（pp.87–99）
 
 ---
 
@@ -336,7 +338,7 @@ flowchart LR
 > [!contrast-table] 德英比较教育学科建制双轨模式对比（pp.89, 97–98）
 > | 维度 | 德国交叉领域模式 | 英国独立分支模式 |
 > |---|---|---|
-> | 学科母体依托 | 牢固依附普通教育学母体与[[Bildung\|教化]]哲学 | 不设抽象的普通教育学，与各分支平行并列 |
+> | 学科母体依托 | 牢固依附[[Allgemeine Pädagogik\|普通教育学]]母体与[[Bildung\|教化]]哲学 | 不设抽象的普通教育学，与各分支平行并列 |
 > | [[Knowledge Production\|知识生产]]目标 | 兼顾形而上学价值反思与历史社会学经验解释 | 面向专业实践、[[Policy Borrowing\|政策借用]]与国别实务对比 |
 > | 组织建制形态 | 依托教育学系二级建制，横切邻近学科 | 设立独立的大学系所与专门研究中心 |
 > | 当代演变归宿 | 走向全球跨学科合作，传统二元界线逐步消解 | 融入超学科网络，强化多学科联合攻关 |
@@ -346,7 +348,7 @@ flowchart LR
 > [!phase] 欧洲比较教育从哲学玄思走向务实欧洲维度
 > - **形而上学哲学玄思阶段（1920s–1950s）**
 >
->   以汉斯、施奈德为代表，沉浸于欧洲共同精神、天主教普世主义与驱动力的宏大历史文化哲学玄想。（pp.88, 93）
+>   以汉斯、[[Mark Schneider|施奈德]]为代表，沉浸于欧洲共同精神、天主教普世主义与驱动力的宏大历史文化哲学玄想。（pp.88, 93）
 >
 > - **务实政策与实证分析阶段（1990s 至今）**
 >
