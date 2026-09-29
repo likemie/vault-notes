@@ -34,9 +34,9 @@ related_concepts:
   - "[[Champ]]"
   - "[[Dual School System]]"
   - "[[Epistemology]]"
+  - "[[Time-Space Compression]]"
   - "[[Policy Borrowing]]"
 related_theories:
-  - "[[Stanford School]]"
   - "[[Cultural Models]]"
   - "[[Human Capital Theory]]"
   - "[[Phenomenology]]"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_persons:
+  - "[[Stanford School]]"
   - "[[John W. Meyer]]"
   - "[[Immanuel Wallerstein]]"
   - "[[Max Weber]]"
@@ -56,6 +57,7 @@ related_facts:
   - "[[UN Sustainable Development Goals]]"
   - "[[Citizenship and Social Development]]"
   - "[[World Bank]]"
+  - "[[International Monetary Fund]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Zapp_2022_Springer]]"
@@ -209,7 +211,7 @@ updated: 2026-09-29
 > > 争论世界体系的核心动力究竟是普世理性[[Cultural Models|文化模型]]的非强制扩散，还是欧美中心国家对边缘地区的资本积累剥削与霸权维系。
 > >
 > > - **[[John W. Meyer|约翰·迈耶]]与[[Stanford School|斯坦福学派]]（1997）** 假定国际体系由形式平等的民族国家组成，现代教育扩张受普及公民权与发展潜能的普世理性文化驱动，入学率和课程门类在世界范围呈现高度趋同。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–103)]]
-> > - **[[Robert Arnove|阿诺夫]]与沃勒斯坦学派（1980, 2009）** 批判新制度主义用抽象形式趋同掩盖了真实的不平等交换与阶级剥削；指出国际援助机构（[[World Bank|世界银行]]、IMF）推广教育革新实质上是巩固既有的中心-边缘分层体系，长期与中心贸易的边缘地区并未因接触而现代化。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
+> > - **[[Robert Arnove|阿诺夫]]与沃勒斯坦学派（1980, 2009）** 批判新制度主义用抽象形式趋同掩盖了真实的不平等交换与阶级剥削；指出国际援助机构（[[World Bank|世界银行]]、[[International Monetary Fund|IMF]]）推广教育革新实质上是巩固既有的中心-边缘分层体系，长期与中心贸易的边缘地区并未因接触而现代化。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
 >
 > > [!axis] 普世大爆炸假说 vs 历史唯物主义资本积累
 > > 争论战后教育扩张究竟是普世理性文化模型的去历史扩散，还是全球资本积累阶段性与殖民掠夺遗产共同塑造的阶级分选。
@@ -246,7 +248,7 @@ updated: 2026-09-29
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统对比斯坦福新制度主义与[[Immanuel Wallerstein|沃勒斯坦]]现实主义两大流派，剖析新自由主义时空压缩与微观本土抵制，重构全球与本土辩证法框架。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统对比斯坦福新制度主义与[[Immanuel Wallerstein|沃勒斯坦]]现实主义两大流派，剖析新自由主义[[Time-Space Compression|时空压缩]]与微观本土抵制，重构全球与本土辩证法框架。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 深入应用并检验世界社会理论，展示大学作为无私代言人（[[Otherhood]]）通过协作、中介、解释和游说四种知识机制嵌入多边全球治理的过程。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 批判性检视世界文化理论的核心信念，重构外围国家教育扩张的历史唯物主义[[Analytic Framework|分析框架]]。
 > - [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] — 检验香港通识科创立到废除的全周期演变，揭示全球趋同话语在主权政治危机下的工具性与可逆性。

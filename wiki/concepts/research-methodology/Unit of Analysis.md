@@ -23,7 +23,6 @@ tags:
   - content-analysis
   - data-analysis
 related_concepts:
-  - "[[Pluri-Scalar Governance]]"
   - "[[Variable]]"
   - "[[Construct]]"
   - "[[Heterogeneity]]"
@@ -51,6 +50,7 @@ related_concepts:
   - "[[Central Phenomenon]]"
   - "[[Disciplina and Doctrina]]"
 related_theories:
+  - "[[Pluri-Scalar Governance]]"
   - "[[Complexity Theory]]"
   - "[[Human Capital Theory]]"
   - "[[World-Systems Theory]]"

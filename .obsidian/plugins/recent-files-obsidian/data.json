@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Arnove_2009_WorldSystems",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
+    },
+    {
+      "basename": "Journal of Comparative and International Education_20260502_2300",
+      "path": "information/Journal of Comparative and International Education_20260502_2300.md"
+    },
+    {
+      "basename": "template-fact-organization",
+      "path": "wiki/templates/template-fact-organization.md"
+    },
+    {
       "basename": "template-school",
       "path": "wiki/templates/template-school.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Stanford School",
       "path": "wiki/persons/schools/Stanford School.md"
-    },
-    {
-      "basename": "Argument_Arnove_2009_WorldSystems",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
     },
     {
       "basename": "template-argument-edited-volume",
@@ -191,14 +199,6 @@
     {
       "basename": "World Trade Organization",
       "path": "wiki/facts/global/World Trade Organization.md"
-    },
-    {
-      "basename": "Unit of Analysis",
-      "path": "wiki/concepts/research-methodology/Unit of Analysis.md"
-    },
-    {
-      "basename": "Analytic Framework",
-      "path": "wiki/methods/qualitative/Analytic Framework.md"
     }
   ],
   "omittedPaths": [],

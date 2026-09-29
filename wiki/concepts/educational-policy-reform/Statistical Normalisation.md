@@ -49,7 +49,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Dirk Van Damme]]"
-  - "[[Mark Schneider]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[OECD]]"
@@ -197,7 +196,7 @@ updated: 2026-09-22
 > > [!axis] 技术实证改良 vs [[Epistemology\|认识论]]根本重构
 > > 针对统计正态化的弊端，学界在应对路径上存在渐进修补与根本替代的分歧。
 > >
-> > - **[[Mark Schneider\|施奈德]]与技术改良派** 主张通过完善 SEER 卓越标准，强制在实验中拆解干预构件并报告亚组效应，在量化框架内解决两极不均问题。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 207–208)]]
+> > - **施奈德与技术改良派** 主张通过完善 SEER 卓越标准，强制在实验中拆解干预构件并报告亚组效应，在量化框架内解决两极不均问题。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 207–208)]]
 > > - **友利田与[[Dirk Van Damme\|范达默]]** 强调单纯增加测量构件治标不治本，必须从哲学高度确立学科自主演绎建制，恢复质性反思与临床[[Phronesis\|实践智慧]]的崇高合法性。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 204–205, 226)]]
 
 > [!warning] 适用局限

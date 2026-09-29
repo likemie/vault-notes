@@ -27,12 +27,14 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Proto-Scientific Motif]]"
   - "[[Educational Meliorism]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Perpetual Peace]]"
   - "[[Value Neutrality]]"
   - "[[Policy Borrowing]]"
   - "[[Scientific Method]]"
   - "[[Scientism]]"
   - "[[Hypothesis]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Determinism]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Rich and Thick Description]]"
@@ -173,7 +175,7 @@ updated: 2026-09-28
 > 探讨如何通过细读 19 世纪原始文本，解构将比较教育学发端单向度归结为实证[[Empiricism\|经验主义]]的辉格史叙事。
 
 > [!claim] Kaloyannaki, P. & Kazamias, A. M.
-> **准科学与行政改良的双重母题交织** 佩拉·卡洛扬纳基（Pella Kaloyannaki）与安德烈亚斯·卡扎米亚斯（Andreas Kazamias）指出，比较教育学的现代主义发端并非单一[[Positivism\|实证主义]]科学的线性演进，而是由启蒙后现代性所催生的两种母题交织驱动：其一是[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）开创的准[[Proto-Scientific Motif\|科学人道主义母题]]，其二是[[Victor Cousin\|维克多·库森]]（Victor Cousin）与[[Horace Mann\|霍勒斯·曼]]（Horace Mann）等改革者推进的政策导向行政[[Educational Meliorism\|改良主义]]母题。将早期文献置于历史语境中审视揭示出：朱利安的准实证构想本质上是启蒙人文科学（*sciences humaines*）与全人道德重生的[[Perpetual Peace\|世界主义和平]]工程，而非 20 世纪[[Value Neutrality\|价值无涉]]的极端实证论；而英美法的行政考察则在欧陆表现为以国家为中心的选择性制度借鉴，在北美表现为将外部经验作为国内争议改革合法化依据的政治动员。这一辨析从根本上瓦解了早期线性起源神话的狭隘性，为建立多元批判的比较教育学比较史奠定了坚实的史料基础。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–13, 33–34)]]
+> **准科学与行政改良的双重母题交织** 佩拉·卡洛扬纳基（Pella Kaloyannaki）与安德烈亚斯·卡扎米亚斯（Andreas Kazamias）指出，比较教育学的现代主义发端并非单一[[Positivism\|实证主义]]科学的线性演进，而是由启蒙后现代性所催生的两种母题交织驱动：其一是[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）开创的准[[Proto-Scientific Motif\|科学人道主义母题]]，其二是[[Victor Cousin\|维克多·库森]]（Victor Cousin）与[[Horace Mann\|霍勒斯·曼]]（Horace Mann）等改革者推进的政策导向行政[[Educational Meliorism\|改良主义]]母题。将早期文献置于历史语境中审视揭示出：朱利安的准实证构想本质上是启蒙[[Geisteswissenschaften|人文科学]]（*sciences humaines*）与全人道德重生的[[Perpetual Peace\|世界主义和平]]工程，而非 20 世纪[[Value Neutrality\|价值无涉]]的极端实证论；而英美法的行政考察则在欧陆表现为以国家为中心的选择性制度借鉴，在北美表现为将外部经验作为国内争议改革合法化依据的政治动员。这一辨析从根本上瓦解了早期线性起源神话的狭隘性，为建立多元批判的比较教育学比较史奠定了坚实的史料基础。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–13, 33–34)]]
 
 ---
 
@@ -207,7 +209,7 @@ updated: 2026-09-28
 > > [!axis] 建制化专业合法性 vs 批判史学去神圣化
 > > 围绕学科史是否应当保留清晰的奠基人神话与线性成长叙事，学界存在建制功能主义与批判诠释学的深刻分歧。
 > >
-> > - **Harold Noah & Max Eckstein（1969）** 认为规范、清晰的起源历史是新兴交叉学科确立自身专业边界、赢得大学系所教席与同行认可的制度化护照，有助于维系学科共同体的专业认同。
+> > - **Harold Noah & Max Eckstein（1969）** 认为规范、清晰的起源历史是新兴[[Comparative Education as a Cross-Sectional Area|交叉学科]]确立自身专业边界、赢得大学系所教席与同行认可的制度化护照，有助于维系学科共同体的专业认同。
 > > - **Robert Cowen（2009a）** 指出学科早已跨越需要脆弱神话维持合法性的阶段，非反思的起源崇拜构成了[[Epistemology\|认识论]]障碍，必须通过多元批判的比较史解构[[Academic Iconography\|学科肖像学]]并直面历史复杂性。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–9)]]
 >
 > > [!axis] 档案[[Positivism\|实证主义]] vs 诠释学当下与未来[[Determinism\|决定论]]

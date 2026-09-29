@@ -14,6 +14,7 @@ related_concepts:
   - "[[General Education]]"
   - "[[University-Industry Collaboration]]"
   - "[[Translational Research]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Applied Medical Innovation]]"
   - "[[Physician-Scientist]]"
 related_theories: []
@@ -59,7 +60,7 @@ updated: 2026-05-28
 > [!abstract]
 > T 型技能包含两个不可分割的维度（p.96）：
 > 1. 纵向深度 — 在一个学科领域内具备扎实的专业知识和解决复杂问题的能力。这是 T 型技能的"根基"。
-> 2. 横向广度 — 具备跨学科的沟通能力，能够理解其他学科的术语、方法和思维方式，并在交叉领域有效协作。
+> 2. 横向广度 — 具备跨学科的沟通能力，能够理解其他学科的术语、方法和思维方式，并在[[Comparative Education as a Cross-Sectional Area|交叉领域]]有效协作。
 
 Narayan and Spohrer 指出这一需求不仅落在四年制学位项目上，也落在社区学院和高中教育上（p.96）。
 

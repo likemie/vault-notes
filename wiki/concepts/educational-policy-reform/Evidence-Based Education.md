@@ -65,6 +65,7 @@ related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Positivism]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Allgemeine Pädagogik]]"
   - "[[Academic Freedom]]"
   - "[[Business as Usual]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
@@ -446,7 +447,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > > EBE 政策试图将实证证据与标准化指标强制嵌入大学师范培养与职后研训（如德国 [[Qualitätsoffensive Lehrerbildung|QLB]] 工程），但在高校内部遭遇了学术生态的深层抵制。[[Argument_Manitius_vanHolt_2019_BzS\|(Heinrich & Streblow, 2019; Manitius & van Holt, 2019, p. 13)]]
 > >
 > > - **自上而下[[Positivism|实证主义]][[Disciplina and Doctrina|规训]]** 政策制定者倾向于将实证因果效能作为检验师资培养质量的唯一法定基准，强调以国家项目指标倒逼大学内部组织变革。
-> > - **学术自治与学科多元范式反弹** 大学教师教育长期由普通教育学（人文学派哲学思辨）、学科教学论（Fachdidaktik）与经验心理学等多元范式共存构成；自上而下的行政强制移植易被视作对[[Academic Freedom|学术自由]]的干预，若缺乏内部异质范式的协商对话，政策注资往往演化为表面的象征性履约。
+> > - **学术自治与学科多元范式反弹** 大学教师教育长期由[[Allgemeine Pädagogik|普通教育学]]（人文学派哲学思辨）、学科教学论（Fachdidaktik）与经验心理学等多元范式共存构成；自上而下的行政强制移植易被视作对[[Academic Freedom|学术自由]]的干预，若缺乏内部异质范式的协商对话，政策注资往往演化为表面的象征性履约。
 
 ---
 

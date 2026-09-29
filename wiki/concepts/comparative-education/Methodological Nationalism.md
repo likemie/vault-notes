@@ -48,6 +48,7 @@ related_persons:
   - "[[Jason Beech]]"
   - "[[Doreen Massey]]"
   - "[[Alejandro Artopoulos]]"
+  - "[[Roger Dale]]"
 related_facts:
   - "[[OECD]]"
   - "[[Definition and Selection of Competencies]]"
@@ -161,7 +162,7 @@ updated: 2026-09-23
 > [!concept-lens] 治理网络解构与跨国主义替代
 > 揭示国家中心预设与[[Methodological Educationism\|教育主义]]、国家主义的共谋，确立超越国家自足容器与单向霸权假定的[[Methodological Transnationalism\|方法论跨国主义]]进路。
 
-> [!claim] Dale, R. & Robertson, S.
+> [!claim] [[Roger Dale|Dale, R.]] & Robertson, S.
 > **三主义叠加对跨国治理网络的系统性遮蔽** 全球化时代的教育研究不仅受限于方法论民族主义，更与[[Methodological Statism\|方法论国家中心主义]]（将国家视为唯一法定治理行动者）和[[Methodological Educationism\|方法论教育主义]]（将教育等同于制度化学校教育）相互纠缠、层叠强化，导致分析视角严重遮蔽跨国治理网络、非国家中介组织以及学校围墙之外的全球教育实践。[[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]]
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]

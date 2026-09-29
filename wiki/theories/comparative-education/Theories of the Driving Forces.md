@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Positivism]]"
+  - "[[Geisteswissenschaften]]"
   - "[[National Character]]"
   - "[[Empiricism]]"
   - "[[Life Power]]"
@@ -82,7 +83,7 @@ updated: 2026-09-29
 > | 维度 | 施奈德的驱动力体系（Triebkräfte, 1947） | 汉斯的因素与传统体系（Factors & Traditions, 1949） |
 > |---|---|---|
 > | **代表著作** | 《各民族教育学的驱动力》（*Triebkräfte der Pädagogik der Völker*） | 《比较教育：教育因素与传统研究》（*Comparative Education*） |
-> | **哲学母体** | 德语精神科学教育学（Geisteswissenschaften）与天主教普世人文主义 | 英国唯实主义经验历史学与自由人文主义哲学 |
+> | **哲学母体** | 德语[[Geisteswissenschaften\|精神科学]]教育学（Geisteswissenschaften）与天主教普世人文主义 | 英国唯实主义经验历史学与自由人文主义哲学 |
 > | **分类架构** | **内发驱动力** [[National Character\|民族性格]]、生活空间（地理）、文化与经济、宗教、科学哲学、国家与政治、社会分层、外来影响；<br>**内生驱动力** 教育理论自身的发展自律。 | **自然因素** 种族、语言、地理与经济环境；<br>**宗教因素** 天主教、英国国教、清教主义、东正教；<br>**世俗因素** 人文主义、社会主义、民族主义、民主主义。 |
 > | **统一性诉求** | 强调天主教欧洲的精神合一与各民族教育传统的价值交融。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 93)]] | 强调共同的欧洲理性主义遗产与现代世俗民主思潮的跨国扩散。 |
 > | **分析重点** | 教育思想与制度背后活生生的“民族灵魂”与精神生态。 | 历史力量与制度演变中各因素的相互牵制与立法沉淀。 |

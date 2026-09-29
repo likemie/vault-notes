@@ -36,6 +36,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Bildung]]"
   - "[[Positivism]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Paradigm]]"
   - "[[Educational Meliorism]]"
   - "[[Leading Questions]]"
@@ -125,7 +126,7 @@ updated: 2026-09-06
 > - **1817–1930s** 长期沉寂与历史遗忘：由于缺乏主权国家的行政财力支撑与常设机构承接，《计划》出版后在 19 世纪欧陆并未演化为大规模的实地调研项目，[[Document\|文献]]在图书馆书架上湮没了整整一个多世纪。（p. 11）
 > - **1935–1943** 偶然重新发掘：在[[International Education\|国际教育]]局（IBE）第一任局长[[Jean Piaget\|皮亚杰]]（Jean Piaget）与研究学者佩罗塞尔（P. Rosselló）等人的发掘下，《计划》重新面世，国际比较教育学界正式追认朱利安为“比较教育学之父”。（Fraser, 1964; Gautherin, 1993）
 > - **1964** 斯特沃特·弗雷泽（Stewart Fraser）将《计划》英译并在哥伦比亚大学出版（*Jullien's Plan for Comparative Education 1816–1817*），引发英美学界的系统研讨与[[Positivism\|实证主义]]重新诠释。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11, 35)]]
-> - **1990s–2000s** 思想史回归：帕尔默（R. R. Palmer, 1993）与卡洛扬纳基、卡扎米亚斯（2009）等学者突破单纯实证主义视角，将其置于法国大革命、启蒙自由主义与欧洲“精神科学”脉络中进行历史唯物主义与人文主义重估。（pp. 16–20）
+> - **1990s–2000s** 思想史回归：帕尔默（R. R. Palmer, 1993）与卡洛扬纳基、卡扎米亚斯（2009）等学者突破单纯实证主义视角，将其置于法国大革命、启蒙自由主义与欧洲“[[Geisteswissenschaften|精神科学]]”脉络中进行历史唯物主义与人文主义重估。（pp. 16–20）
 
 ---
 
@@ -150,7 +151,7 @@ updated: 2026-09-06
 > > - **Harold Noah & Max Eckstein (1969)** 批评朱利安的问卷体系过于臃肿复杂，且充斥着浓厚的个人先验主观价值预设（bias），多处采用诱导性提问（[[Leading Questions]]），其实质不是中立地记录“事实”，而是向受访者宣扬其自身的道德与儿童中心教学法主张。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 16; Noah & Eckstein, 1969:29)]]
 > > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]]** 指出朱利安在道德宗教与心智教育类目下的确频繁使用带有强烈赞赏色彩的修辞（如推崇[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]算法、批评死板教理问答），但将其完全判定为“不合格的科学”脱离了历史情境。（pp. 16–17）
 >
-> > [!axis] 自然实证科学 vs 欧洲大陆精神科学（Human Sciences）
+> > [!axis] 自然实证科学 vs 欧洲大陆[[Geisteswissenschaften|精神科学]]（Human Sciences）
 > > 欧洲大陆人文主义与思想史学者强调不能用 20 世纪美国行为主义量化实证观来机械裁剪朱利安的 19 世纪文本。
 > >
 > > - **R. R. Palmer (1993)** 考证指出，朱利安在其 1819 年《人类知识分类总表》中明确将教育学列入涉及心灵与道德经验的“二级精神科学（second order sciences）”；其所谓的“科学”指称一切崇高的人类理性反思，绝非狭隘的统计指标计算。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 17–18]]; Palmer, 1993:176–178）

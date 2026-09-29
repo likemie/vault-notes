@@ -21,10 +21,10 @@ related_concepts:
 related_theories:
   - "[[Nation Building through Education]]"
   - "[[World Society Theory]]"
-  - "[[Stanford School]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
-related_persons: []
+related_persons:
+  - "[[Stanford School]]"
 related_facts:
   - "[[Citizenship and Social Development]]"
 related_arguments:

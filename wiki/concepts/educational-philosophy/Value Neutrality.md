@@ -30,6 +30,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Bildung]]"
   - "[[Scientific Method]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
@@ -190,7 +191,7 @@ updated: 2026-09-28
 > 该维度澄清比较教育学与教育科学的历史源流，阐明其早期体系不仅不追求价值中立，反而明确将经验调查统摄于全人[[Bildung\|教化]]与社会改良的崇高目的之中。
 
 > [!claim] Kaloyannaki, P. & [[Andreas Kazamias\|Kazamias, A.]] M.
-> **早期准实证教育科学对价值无涉的明确拒斥** 19 世纪初现代主义先驱[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien）的比较教育[[Questionnaire\|问卷]]与跨国观察表，从一开始就明确拒绝现代价值无涉的实证论；朱利安将教育学划归为欧陆“二级精神科学”，其经验事实搜集始终全面服从于服务全人道德教化（[[Bildung]]）、预防流血革命并促进欧洲持久和平的启蒙伦理。20 世纪美国行为实证派（Noah & Eckstein, 1969）以现代“价值中立”标尺指责其问卷带有引导性提问与主观偏见，完全陷入了时代倒错的辉格史谬误，忽视了教育探究在发轫期天然具有的道德改良属性（[[Educational Meliorism]]）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 16–18)]]
+> **早期准实证教育科学对价值无涉的明确拒斥** 19 世纪初现代主义先驱[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien）的比较教育[[Questionnaire\|问卷]]与跨国观察表，从一开始就明确拒绝现代价值无涉的实证论；朱利安将教育学划归为欧陆“二级[[Geisteswissenschaften|精神科学]]”，其经验事实搜集始终全面服从于服务全人道德教化（[[Bildung]]）、预防流血革命并促进欧洲持久和平的启蒙伦理。20 世纪美国行为实证派（Noah & Eckstein, 1969）以现代“价值中立”标尺指责其问卷带有引导性提问与主观偏见，完全陷入了时代倒错的辉格史谬误，忽视了教育探究在发轫期天然具有的道德改良属性（[[Educational Meliorism]]）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 16–18)]]
 
 > [!claim] Palmer, R. R.
 > **启蒙科学的广义精神活动与伦理统一** 在 19 世纪初的欧陆知识体系中，科学不仅不排除道德，反而将事实与伦理规范高度统一；朱利安的准实证方案致力于以经验理性驱散神学教条，其设计的指标题项直接体现了人道主义启蒙理想。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 17–18)]]
@@ -314,7 +315,7 @@ updated: 2026-09-28
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 系统梳理西方研究方法论中价值中立的缘起、[[Positivism\|实证主义]]预设及其遭受的批判，剖析[[Reflexivity\|反身性]]与价值负荷对客观中立神话的解构。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 剖析战后实证学派如何通过清除“价值负荷”确立科学身份，同时系统梳理霍姆斯对实证派指标[[Operationalization\|操作化]]假中立的尖锐批判，揭示中立口号与战后理性规划技术官僚体制的共生关系。
 > - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] — 深入剖析英国 [[Education Endowment Foundation\|EEF]] 工具包等循证实践，揭示技术官僚如何借助“价值中立证据”的科学修辞，回避关于工人阶层贫困与资本主义教育不平等的根本性政治辩论，消解教师的[[Professional Judgment\|专业判断力]]。
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 系统剖析早期比较教育文献，指出[[Marc-Antoine Jullien\|朱利安]][[Questionnaire\|问卷]]对道德宗教与全人[[Bildung\|教化]]的鲜明预设绝非研究“缺陷”，而是欧陆精神科学中经验事实服从于社会伦理改良的必然要求，强力清算了实证派的教条指责。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 系统剖析早期比较教育文献，指出[[Marc-Antoine Jullien\|朱利安]][[Questionnaire\|问卷]]对道德宗教与全人[[Bildung\|教化]]的鲜明预设绝非研究“缺陷”，而是欧陆[[Geisteswissenschaften|精神科学]]中经验事实服从于社会伦理改良的必然要求，强力清算了实证派的教条指责。
 > - [[Argument_Biesta_2010_SPE\|Biesta (2010)]] — 论述教育不仅关乎技能传授的效率，更关乎民主公民的培育与自主主体的生成；将教育决策托付给去价值的中立实证数据，是对教育民主本质的重大背叛。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] — 剖析脑科学证据如何被包装为“不偏不倚的自然科学真理”，从而合法化国家对初等教育课程控制权的强行收紧。
 > - [[Argument_Rambla_2022_Springer\|Rambla (2022)]] — 揭示 [[PISA]] 等国际大型测评所宣称的“客观中立比较”，实际上深度嵌入了全球资本主义竞争的政治经济学逻辑。

@@ -39,7 +39,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Epistemology]]"
 related_theories:
-  - "[[Stanford School]]"
   - "[[World Society Theory]]"
   - "[[Cultural Models]]"
   - "[[Institutional Isomorphism]]"
@@ -52,6 +51,8 @@ related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
+  - "[[Stanford School]]"
+  - "[[Aaron Benavot]]"
   - "[[Robert Arnove]]"
   - "[[Immanuel Wallerstein]]"
 related_facts:
@@ -98,7 +99,7 @@ updated: 2026-09-29
 > - **1966–2000s** 任教于斯坦福大学社会学系，并长期在斯坦福教育学院开展交叉研究，开创享誉国际的[[Stanford School|斯坦福新制度主义学派]]（Stanford School of Neo-Institutionalism）。
 > - **1971–1979** 聚焦全球教育扩张动力研究，发表早期代表作《经济与政治对国家教育入学模式的影响》（Meyer, 1971），并与迈克尔·汉南（Michael T. Hannan）合著《国家发展与世界体系》（Meyer & Hannan, 1979），发现跨国教育大扩张无法被各国自身经济政治发展水平解释，必须引入世界体系的宏观解释视角。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–102)]]
 > - **1977** 与布赖恩·罗文（Brian Rowan）合作发表《制度化组织：作为神话与仪式的正式结构》，奠定新制度主义组织社会学的理论基石。
-> - **1980s–1990s** 组建斯坦福跨学科研究团队，包括约翰·博利（John Boli）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、乔治·托马斯（George M. Thomas）、阿伦·贝纳沃特（Aaron Benavot）以及早期博士生[[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove）等，系统建立起跨越社会学、比较教育学与国际组织研究的全球学术网络。
+> - **1980s–1990s** 组建斯坦福跨学科研究团队，包括约翰·博利（John Boli）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、乔治·托马斯（George M. Thomas）、阿伦·[[Aaron Benavot|贝纳沃特]]（Aaron Benavot）以及早期博士生[[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove）等，系统建立起跨越社会学、比较教育学与国际组织研究的全球学术网络。
 > - **1997** 合作发表宏篇力作《世界社会与民族国家》（Meyer et al., 1997），提出著名的孤岛社会假想，标志着[[World Society Theory|世界社会理论]]作为独立宏观解释[[Paradigm|范式]]的全面成熟。
 > - **2000s–至今** 当选斯坦福大学社会学系荣休教授，持续与戴维·约翰·弗兰克（David John Frank）、帕特丽夏·布罗姆利（Patricia Bromley）推进超组织化（Hyper-organization）、[[Organizational Actorhood|组织行动者身份]]与大学在全球知识社会中的角色研究。
 
@@ -175,7 +176,7 @@ updated: 2026-09-29
 
 > [!person-network] 关系网络
 > - **合作者／学派奠基学者** 布赖恩·罗文（Brian Rowan）、约翰·博利（John Boli）、乔治·托马斯（George M. Thomas）、罗纳德·杰珀森（Ronald L. Jepperson）— 共同创立新制度主义组织理论、[[World Society Theory|世界社会理论]]与能动者文化建构理论。
-> - **学生／学术传承者** [[Robert Arnove|罗伯特·阿诺夫]]（早期博士生，后将体系分析引入比较教育学，兼具世界文化与政治经济学双重视野）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、戴维·贝克（David P. Baker）、阿伦·贝纳沃特（Aaron Benavot）、帕特丽夏·布罗姆利（Patricia Bromley）、戴维·约翰·弗兰克（David John Frank）— 持续拓展[[Stanford School|斯坦福学派]]在跨国教育、人权与大学组织领域的实证研究。
+> - **学生／学术传承者** [[Robert Arnove|罗伯特·阿诺夫]]（早期博士生，后将体系分析引入比较教育学，兼具世界文化与政治经济学双重视野）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、戴维·贝克（David P. Baker）、阿伦·[[Aaron Benavot|贝纳沃特]]（Aaron Benavot）、帕特丽夏·布罗姆利（Patricia Bromley）、戴维·约翰·弗兰克（David John Frank）— 持续拓展[[Stanford School|斯坦福学派]]在跨国教育、人权与大学组织领域的实证研究。
 > - **批评者／学术论敌** [[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]（Wallerstein）、萨米尔·阿明（Samir Amin）— 马克思主义政治经济学与世界体系分析现实主义流派代表，批判迈耶将帝国主义霸权与资本积累的不平等依附掩盖在普遍启蒙理性的世界文化共识之中。
 > - **机构阵地** 斯坦福大学社会学系（Department of Sociology, Stanford University）、斯坦福教育学院 — 斯坦福新制度主义学派的核心摇篮与全球学术阵地。
 

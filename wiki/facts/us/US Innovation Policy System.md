@@ -27,6 +27,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Technology Transfer]]"
   - "[[STEM Education]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -113,7 +114,7 @@ updated: 2026-09-22
 > [!note]-
 > - 2020 发布首份《关键和新兴技术清单》；设立174个[[STEM Education\|STEM]]项目（年度预算36.8亿美元）
 > - 2021 能源部推出"能源攻关计划"（10-15年）；17个制造业创新研究所整合2300余家创新主体
-> - 2022 发布第二份《关键和新兴技术清单》；新增22个前沿交叉学科
+> - 2022 发布第二份《关键和新兴技术清单》；新增22个前沿[[Comparative Education as a Cross-Sectional Area|交叉学科]]
 > - 2023 增设8个新兴专业；全球前2%顶尖科学家中美国占50%
 > - 2024 发布第三份《关键和新兴技术清单》；NITRD AI研发预算增至31亿美元；SBICCT计划设立13支基金（40亿美元）；参议院AI政策路线图（年投入320亿美元）
 

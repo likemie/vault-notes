@@ -56,7 +56,6 @@ related_theories:
   - "[[World-Systems Theory]]"
   - "[[Postmodernism]]"
   - "[[Convergence Theory in Comparative Education]]"
-  - "[[Stanford School]]"
   - "[[Autopoiesis]]"
   - "[[Human Capital Theory]]"
 related_methods:
@@ -89,6 +88,7 @@ related_persons:
   - "[[Torsten Husén]]"
   - "[[Karl Popper]]"
   - "[[Jürgen Habermas]]"
+  - "[[Stanford School]]"
   - "[[Niklas Luhmann]]"
   - "[[Isaac Kandel]]"
   - "[[Robert Ulich]]"

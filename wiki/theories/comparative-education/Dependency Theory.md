@@ -28,7 +28,6 @@ related_concepts:
   - "[[Import Substitution Industrialisation]]"
   - "[[Paradigm]]"
   - "[[Critical Pedagogy]]"
-  - "[[Pluri-Scalar Governance]]"
   - "[[Financial-Intellectual Complex]]"
   - "[[Dual School System]]"
   - "[[Policy Borrowing]]"
@@ -49,7 +48,6 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Causal Over-determination]]"
   - "[[Creativity]]"
-  - "[[Globalization from Below]]"
   - "[[Network Governance]]"
   - "[[Attrition]]"
   - "[[Revolutionism]]"
@@ -58,7 +56,9 @@ related_theories:
   - "[[Human Capital Theory]]"
   - "[[Critical Theory]]"
   - "[[Hegemony]]"
+  - "[[Pluri-Scalar Governance]]"
   - "[[Conditioned State Theory]]"
+  - "[[Globalization from Below]]"
   - "[[Dialectic of the Global and the Local]]"
   - "[[World-Systems Theory]]"
   - "[[World Society Theory]]"
@@ -79,6 +79,7 @@ related_facts:
   - "[[World Trade Organization]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[UNESCO]]"
+  - "[[International Monetary Fund]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Klerides_2023_CE]]"
@@ -170,7 +171,7 @@ updated: 2026-09-29
 ---
 
 > [!theory-proposition] 命题四｜债务危机与新自由主义重组将依附推向新阶段，跨国[[Financial-Intellectual Complex|金融-智识复合体]]与[[Shadow State|影子国家]]侵蚀公共教育主权
-> **解释** 20 世纪 80 年代以来，[[International Education|国际教育]]多边主义经历了从注重福利再分配向新自由主义[[Disciplina and Doctrina|规训]]与防卫的深刻转向（Mundy, 1998）。[[World Bank|世界银行]]与国际货币基金组织结成金融-智识复合体，通过[[Structural Adjustment Programs|结构调整]]贷款强制受援国削减公共教育开支、推行[[Endogenous and Exogenous Privatisation|教育私有化]]与使用者付费。与此同时，援助机构绕过国家政府，将公共教育服务大量外包给非政府组织，使其退化为去政治化的“影子国家”；跨国经贸协定（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）进一步将教育商品化，使经济薄弱的边缘国家丧失了统筹国民教育与宏观调控的主权能力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80, 83–85)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
+> **解释** 20 世纪 80 年代以来，[[International Education|国际教育]]多边主义经历了从注重福利再分配向新自由主义[[Disciplina and Doctrina|规训]]与防卫的深刻转向（Mundy, 1998）。[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]结成金融-智识复合体，通过[[Structural Adjustment Programs|结构调整]]贷款强制受援国削减公共教育开支、推行[[Endogenous and Exogenous Privatisation|教育私有化]]与使用者付费。与此同时，援助机构绕过国家政府，将公共教育服务大量外包给非政府组织，使其退化为去政治化的“影子国家”；跨国经贸协定（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）进一步将教育商品化，使经济薄弱的边缘国家丧失了统筹国民教育与宏观调控的主权能力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80, 83–85)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
 >
 > **应用实例** 约旦河西岸的学前教育民间组织深陷于西方捐助者的考核指标、自治政府的政治控制与本土社区诉求之间，丧失了批判能动性并演化为影子国家；智利在军政权时期推行激进教育券制与私有化，严重摧毁了公立基础教育的公共性。
 

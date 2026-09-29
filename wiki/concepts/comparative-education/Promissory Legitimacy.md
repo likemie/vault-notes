@@ -37,6 +37,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
+  - "[[Susan L. Robertson]]"
   - "[[Jason Beech]]"
 related_facts:
   - "[[OECD]]"
@@ -123,7 +124,7 @@ updated: 2026-09-18
 > [!claim] [[Gita Steiner-Khamsi\|Steiner-Khamsi, G.]]
 > **教育因果迟滞催生前瞻合法性需求** 教育作为以未来人为对象的社会系统，其效能无法像工业[[Assemblage\|装配]]线那样在投入产出之间建立即时可测的确定性因果链条；这一根本性的技术赤字使得任何教育改革在当下都难以通过确凿的实证成果获得绝对辩护，从而为兜售未来愿景与避险允诺的国际组织提供了不可或缺的制度生态位。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
 
-> [!claim] Robertson, S. L.
+> [!claim] [[Susan L. Robertson|Robertson, S. L.]]
 > **允诺作为国际组织合法性谈判的核心通货** 国际组织之所以能够在后冷战时代重塑全球教育议程，核心在于它们成功掌握了“允诺的语法”；通过描绘工业 4.0、人工智能与[[Knowledge-Based Economy\|知识经济]]时代的颠覆性变革，国际组织将自身塑造为唯一能够看清未来地平线的先知，使成员国在对落后于未来的群体恐慌中自愿让渡政策主权。
 
 ---

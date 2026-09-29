@@ -50,9 +50,11 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[John W. Meyer]]"
+  - "[[Aaron Benavot]]"
   - "[[Max Weber]]"
   - "[[Robert Arnove]]"
   - "[[Immanuel Wallerstein]]"
+  - "[[Kathryn Anderson-Levitt]]"
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
   - "[[UN Sustainable Development Goals]]"
@@ -79,7 +81,7 @@ updated: 2026-09-29
 
 > [!person-profile] 学派档案
 > - **学术重镇与发源** 斯坦福大学社会学系与教育学院（Stanford University），发轫于 20 世纪 70 年代，为社会学新制度主义（Sociological Institutionalism）与世界社会研究的学术大本营。
-> - **领军人物与代表学者** 奠基领袖为[[John W. Meyer|约翰·迈耶]]（John W. Meyer）；核心学者包括布赖恩·罗恩（Brian Rowan）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、约翰·博利（John Boli）、乔治·托马斯（George M. Thomas）；后继学者涵盖戴维·贝克（David P. Baker）、阿伦·贝纳沃特（Aaron Benavot）、帕特丽夏·布罗姆利（Patricia Bromley）与戴维·约翰·弗兰克（David John Frank）等。
+> - **领军人物与代表学者** 奠基领袖为[[John W. Meyer|约翰·迈耶]]（John W. Meyer）；核心学者包括布赖恩·罗恩（Brian Rowan）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、约翰·博利（John Boli）、乔治·托马斯（George M. Thomas）；后继学者涵盖戴维·贝克（David P. Baker）、阿伦·[[Aaron Benavot|贝纳沃特]]（Aaron Benavot）、帕特丽夏·布罗姆利（Patricia Bromley）与戴维·约翰·弗兰克（David John Frank）等。
 > - **核心研究纲领** 突破传统社会科学中的技术功能论（效率[[Determinism|决定论]]）与经济冲突论（阶级支配论），主张现代民族国家组织与大众教育体系并非微观生产力协调的产物，而是由超越国界的启蒙理性“[[Cultural Models|世界文化模型]]”与合法性仪式塑造而成；揭示普世规范扩散中的非强制同构与政策去耦合机制。
 > - **代表性理论贡献** 创立[[World Society Theory|世界社会理论]]与组织社会学新制度主义；提炼出[[Institutional Isomorphism|制度同构]]、[[Rationalized Myth|制度神话]]与仪式、结构去耦合（Structural Decoupling）、他者性与无私代理、[[Organizational Actorhood|组织行动者身份]]（Organizational Actorhood）等奠基性构件。
 
@@ -94,7 +96,7 @@ updated: 2026-09-29
 > - **1970s — 组织制度主义奠基** [[John W. Meyer|迈耶]]与罗恩（Meyer & Rowan, 1977）发表《制度化组织：作为神话与仪式的正式结构》，针对美国学校内部“松散联结”（loose coupling）与宏观合法性并存的悖论，首次阐明正式结构迎合[[Rationalized Myth|制度神话]]的去耦合机制。
 > - **1977–1987 — 大众教育大扩张跨国实证转向** 迈耶、拉米雷斯与博利等学者（Meyer et al., 1977; Ramirez & Boli, 1987）运用大样本跨国时间序列回归，[[Falsification|证伪]]了大众教育取决于国内工业化水平的功能主义假说，论证国家构建与成员身份界定是驱动全球义务教育普及的政治文化动力。[[Argument_Amos_2022_Springer|(Amos, 2022, pp. 54–55)]]
 > - **1990s — [[World Society Theory|世界社会理论]]系统化** 迈耶等（Meyer, Boli, Thomas, & Ramirez, 1997）在《美国社会学期刊》发表集大成之作《世界社会与民族国家》，界定去中心化的理性化[[Cultural Models|世界文化模型]]、[[Otherhood|为他者行动]]与主权形式趋同，学派跃升为跨国治理与全球化研究主流[[Paradigm|范式]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
-> - **2000s 至今 — 全球评估、人权课程与组织能动性拓展** 贝纳沃特、布罗姆利、弗兰克与扎普（Zapp）等后继学者，将理论版图拓展至全球课程标准化、人权教育渗透、现代大学作为理性化完全组织的能动性演变，以及国际组织在[[UN Sustainable Development Goals|可持续发展目标]]（SDGs）多边治理中的[[Knowledge Production|知识生产]]。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 148–154)]]
+> - **2000s 至今 — 全球评估、人权课程与组织能动性拓展** [[Aaron Benavot|贝纳沃特]]、布罗姆利、弗兰克与扎普（Zapp）等后继学者，将理论版图拓展至全球课程标准化、人权教育渗透、现代大学作为理性化完全组织的能动性演变，以及国际组织在[[UN Sustainable Development Goals|可持续发展目标]]（SDGs）多边治理中的[[Knowledge Production|知识生产]]。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 148–154)]]
 
 ---
 
@@ -129,12 +131,12 @@ updated: 2026-09-29
 > - **核心骨干学者** 弗朗西斯科·拉米雷斯（Francisco O. Ramirez，跨国教育大纲与大学社会学研究权威）、约翰·博利（John Boli，世界体系跨国非政府组织研究权威）、布赖恩·罗恩（Brian Rowan，组织社会学制度主义奠基学者）、乔治·托马斯（George M. Thomas）。
 > - **学术师承与学生梯队** 
 >   - [[Robert Arnove|罗伯特·阿诺夫]]（Robert Arnove） — 迈耶早期博士门生，后将[[Immanuel Wallerstein|沃勒斯坦]]世界体系与[[Dependency Theory|依附论]]视野融入比较教育，成为学派长期兼具同情与批判的学术对话者。
->   - 戴维·贝克（David P. Baker）与阿伦·贝纳沃特（Aaron Benavot） — 推进全球课程标准化与教育社会学大规模比较实证研究。
+>   - 戴维·贝克（David P. Baker）与阿伦·[[Aaron Benavot|贝纳沃特]]（Aaron Benavot） — 推进全球课程标准化与教育社会学大规模比较实证研究。
 >   - 帕特丽夏·布罗姆利（Patricia Bromley）与戴维·约翰·弗兰克（David John Frank） — 开拓全球人权教育、环境制度化与大学能动性前沿。
 >   - 麦克·扎普（Mike Zapp） — 检验当代大学在世界社会多边治理与[[Knowledge Production|知识生产]]中的代理机制。
 > - **主要学术论敌 / 批判对话方** 
 >   - 伊曼纽尔·沃勒斯坦（Immanuel Wallerstein） — 冲突取向的政治现实主义世界体系流派，批评斯坦福学派掩盖中心对边缘的资本积累剥削。
->   - 凯瑟琳·安德森-莱维特（Kathryn Anderson-Levitt）与[[Gita Steiner-Khamsi|吉塔·斯泰纳-哈姆西]]（Gita Steiner-Khamsi） — 微观[[Ethnography|民族志]]与借用借贷学派，批评宏观趋同掩盖了本土实质抵制与变通。
+>   - [[Kathryn Anderson-Levitt|凯瑟琳·安德森-莱维特]]（Kathryn Anderson-Levitt）与[[Gita Steiner-Khamsi|吉塔·斯泰纳-哈姆西]]（Gita Steiner-Khamsi） — 微观[[Ethnography|民族志]]与借用借贷学派，批评宏观趋同掩盖了本土实质抵制与变通。
 > - **依托学术重镇** 斯坦福大学社会学系（Stanford Sociology）、斯坦福教育研究生院（Stanford GSE）、[[Comparative and International Education Society|比较与国际教育学会]]（CIES）、[[UNESCO|联合国教科文组织]]与[[World Bank|世界银行]]政策研究网络。
 
 ---

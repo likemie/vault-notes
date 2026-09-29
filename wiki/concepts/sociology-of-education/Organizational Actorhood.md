@@ -21,6 +21,7 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[Global Universities Rankings]]"
   - "[[University Social Responsibility]]"
+  - "[[Intercultural Education]]"
   - "[[Global Citizenship]]"
 related_theories:
   - "[[World Society Theory]]"
@@ -110,7 +111,7 @@ updated: '2026-05-18'
 > - 大学-社会关系正变得更加渗透性（permeable），传统的"象牙塔"模式日益失去合法性。大学不再能仅以"追求真理"为由与社会保持距离——它被期待说明其研究如何惠及纳税人、如何应对气候变化、如何促进社会公正([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.149]])
 > - 2005 年 Carnegie Foundation 引入社区参与分类（community engagement classification），标志着大学社会嵌入性在美国高等教育中的正式制度化（Driscoll, 2009，引自）
 > - [[UN Sustainable Development Goals\|SDGs]] 为大学的组织能动者身份提供了全球性"演练场"：大学通过四种机制——研究对齐、教学对齐、内部政策对齐和网络对齐——系统性地将组织议程与全球治理目标绑定，详见 [[Argument_Zapp_2022_Springer#第四步：SDGs 作为催化剂——四种嵌入机制]]([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.150–154]])
-> - Zapp & Lerch (2020) 分析全球近 465,000 个学位项目，识别出 22,451 个具有明确国际取向——全球治理、国际发展、比较法、跨文化教育等。这不仅是教学内容的更新，更是大学将自身重新定位为全球治理行动者的结构性证据([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.152]])
+> - Zapp & Lerch (2020) 分析全球近 465,000 个学位项目，识别出 22,451 个具有明确国际取向——全球治理、国际发展、比较法、[[Intercultural Education|跨文化教育]]等。这不仅是教学内容的更新，更是大学将自身重新定位为全球治理行动者的结构性证据([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.152]])
 
 > [!info]- 核心数据
 > - 全球 **200+ 所**大学发布 CSR/可持续发展报告，大多数在过去 **5 年内**首次发布（Corporate Register, 2019，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.152–153]]）

@@ -44,6 +44,7 @@ related_persons:
 related_facts:
   - "[[Latin American Debt Crisis of 1982]]"
   - "[[World Bank]]"
+  - "[[International Monetary Fund]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 confidence: high
@@ -135,7 +136,7 @@ updated: 2026-09-28
 > 探讨依附性经济结构内生的国际收支危机如何瓦解进口替代模式，迫使国家从公共教育供给全面后撤。
 
 > [!claim] Olmos, L. E. & Torres, C. A.
-> **进口替代破产与[[Conditioned State Theory|受限国家]]的新自由主义转型** 进口替代工业化并未真正摆脱对核心帝国主义国家的依附：外围国家为了制造消费品，必须从西方进口昂贵的高端技术设备和资本品，导致结构性外汇短缺与高额主权外债累积。当 1970 年代末全球资本积累转向[[Post-Fordism|后福特主义]]灵活积累并引发 1980 年代[[Latin American Debt Crisis of 1982|拉美债务危机]]时，拉美国家陷入严峻的财政断裂。在[[World Bank|世界银行]]与国际货币基金组织的紧缩施压下，国家丧失了维系公共教育投资的财政主权（沦为[[Conditioned State Theory|受限国家]]），进口替代时期的国家全面供给模式彻底解体，教育系统随即被迫滑入削减预算、使用者付费与全面市场化私有化的轨道。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–83)]]
+> **进口替代破产与[[Conditioned State Theory|受限国家]]的新自由主义转型** 进口替代工业化并未真正摆脱对核心帝国主义国家的依附：外围国家为了制造消费品，必须从西方进口昂贵的高端技术设备和资本品，导致结构性外汇短缺与高额主权外债累积。当 1970 年代末全球资本积累转向[[Post-Fordism|后福特主义]]灵活积累并引发 1980 年代[[Latin American Debt Crisis of 1982|拉美债务危机]]时，拉美国家陷入严峻的财政断裂。在[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]的紧缩施压下，国家丧失了维系公共教育投资的财政主权（沦为[[Conditioned State Theory|受限国家]]），进口替代时期的国家全面供给模式彻底解体，教育系统随即被迫滑入削减预算、使用者付费与全面市场化私有化的轨道。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–83)]]
 
 ---
 
@@ -155,7 +156,7 @@ updated: 2026-09-28
 > - **1930s–1950s — 起源阶段** 面对大萧条与二战导致的国际贸易断绝，阿根廷、巴西、墨西哥等拉美大国自发开启工业品进口替代；联合国拉加经委会（ECLAC/CEPAL）经济学家劳尔·普雷维什（Raúl Prebisch）系统提出[[Dependency Theory|依附理论]]与中心-外围不平等贸易理论，为国家主导的进口替代提供学理合法性。
 > - **1960s — 黄金期与教育大扩张** 进口替代工业化进入重工业与耐用消费品阶段；[[Human Capital Theory|人力资本理论]]与国家发展规划深度结合，拉美迎来历史上规模最大的中高等教育大爆发，年增长率高居全球榜首。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–82)]]
 > - **1970s — 结构瓶颈与社会抗争** 市场规模有限与缺乏财富二次分配导致内需饱和，工业利润率下滑；中高等教育毕业生[[Credential Inflation|文凭通胀]]与就业不足加剧，青年学生运动与城市游击队运动频发。
-> - **1980s — 模式破产与新自由主义转轨** [[Latin American Debt Crisis of 1982|拉美债务危机]]全面爆发，进口替代发展模式彻底走向终结；[[World Bank|世界银行]]与 IMF 推行华盛顿共识与[[Structural Adjustment Programs|结构调整]]，教育领域转向去补贴、收取学杂费与市场化私有化。
+> - **1980s — 模式破产与新自由主义转轨** [[Latin American Debt Crisis of 1982|拉美债务危机]]全面爆发，进口替代发展模式彻底走向终结；[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 推行华盛顿共识与[[Structural Adjustment Programs|结构调整]]，教育领域转向去补贴、收取学杂费与市场化私有化。
 
 ---
 

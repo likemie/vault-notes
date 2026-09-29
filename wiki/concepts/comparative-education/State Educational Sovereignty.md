@@ -22,7 +22,6 @@ tags:
   - theme/secularization
   - theme/nineteenth-century
 related_concepts:
-  - "[[Pluri-Scalar Governance]]"
   - "[[Epistemology]]"
   - "[[Normal School]]"
   - "[[Champ]]"
@@ -37,6 +36,7 @@ related_concepts:
   - "[[Dual School System]]"
   - "[[Academic Freedom]]"
 related_theories:
+  - "[[Pluri-Scalar Governance]]"
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Correlational Research]]"

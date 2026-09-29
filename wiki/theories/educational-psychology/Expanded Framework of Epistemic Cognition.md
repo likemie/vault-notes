@@ -15,6 +15,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Cognition]]"
   - "[[Consequential Validity]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Epistemological Naturalism]]"
   - "[[Epistemic Aims]]"
   - "[[Reliable Epistemic Processes]]"
@@ -54,7 +55,7 @@ updated: 2026-09-17
 > - **解释对象** 个体的[[Epistemology\|认识论]]认知（[[Epistemic Cognition]]）涵盖的信念与性情维度的全貌。
 > - **理论问题** 回应了以往心理学认识论认知模型维度过少与测量粒度过粗导致预测学习[[Consequential Validity\|结果效度]]偏低的问题。
 > - **理论类型** [[Analytic Framework\|分析框架]]。
-> - **知识位置** 教育心理学与哲学[[Epistemology\|认识论]]交叉领域，系统吸收了[[Virtue Epistemology\|美德认识论]]、[[Reliabilism\|可靠主义]]与[[Epistemological Naturalism\|自然化认识论]]的理论资源。
+> - **知识位置** 教育心理学与哲学[[Epistemology\|认识论]][[Comparative Education as a Cross-Sectional Area|交叉领域]]，系统吸收了[[Virtue Epistemology\|美德认识论]]、[[Reliabilism\|可靠主义]]与[[Epistemological Naturalism\|自然化认识论]]的理论资源。
 
 > [!claim] 核心主张
 > 认识论认知是由相互关联的认知构成的网络，取代了简单的维度叠加。该网络包含[[Epistemic Aims\|认识目标]]与价值、知识的结构、来源与确证与立场、美德与恶习，以及达到目标的[[Reliable Epistemic Processes\|可靠过程]]五个组件。这些信念与评价标准高度依附于特定情境，需要在微观细粒度层面展开研究与预测。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011)]]

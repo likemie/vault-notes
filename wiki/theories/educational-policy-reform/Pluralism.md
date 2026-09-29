@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
+  - "[[Intercultural Education]]"
   - "[[Epistemology]]"
   - "[[Cultural Capital]]"
   - "[[Policy Network]]"
@@ -71,7 +72,7 @@ updated: 2026-09-29
 > - **18 世纪中叶 — 民主与民意基础奠基** 让-雅克·[[Jean-Jacques Rousseau|卢梭]]（Jean-Jacques Rousseau, 1968）在社会契约论中提出“被统治者应当成为统治者”的民主原则，主张广泛的社会公众参与是公共[[Knowledge Production|知识生成]]与合法治理的核心基石。
 > - **20 世纪 50–70 年代 — 经典利益集团多元主义形成** 戴维·杜鲁门（David Truman, 1971）与罗伯特·达尔（Robert Dahl, 1967）奠定多元主义经典[[Paradigm|范式]]，论证现代民主体制是由多个自发组织的社会、经济与族群集团相互竞争、妥协而维系政治均衡的“多头政体”（Polyarchy），权力并不集中于单一阶级。
 > - **20 世纪 70–80 年代 — 利益集团俘获与权力批判转向** 西奥多·洛威（Theodore Lowi, 1964/1979）批评利益集团自由主义导致公共政治被特殊利益瓦解；米歇尔·福柯（Michel Foucault, 1980）揭示权力并非静态实体，而是流动且弥散于多元社会微观主体之间的关系网络。
-> - **20 世纪 80 年代至 21 世纪初 — 比较教育中的文化多元主义与跨文化转向** 在比较教育学科史上，奠基学者（Sadler、Kandel、Hans）将语言、宗教与族群的文化多元性视为教育制度发生学的核心动力；20 世纪末面对[[World-Systems Theory|世界体系理论]]的单一普遍主义（Universalism）与超国家量化趋同压力，文化多元主义（Cultural Pluralism）被重构为抗衡全球同质化指标治理、促进跨文化教育的[[Epistemology|认识论]]支柱。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 97, 98–99)]]
+> - **20 世纪 80 年代至 21 世纪初 — 比较教育中的文化多元主义与跨文化转向** 在比较教育学科史上，奠基学者（Sadler、Kandel、Hans）将语言、宗教与族群的文化多元性视为教育制度发生学的核心动力；20 世纪末面对[[World-Systems Theory|世界体系理论]]的单一普遍主义（Universalism）与超国家量化趋同压力，文化多元主义（Cultural Pluralism）被重构为抗衡全球同质化指标治理、促进[[Intercultural Education|跨文化教育]]的[[Epistemology|认识论]]支柱。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 97, 98–99)]]
 > - **当代教育政策应用与批判反思** 塞奥杜卢与卡恩（Theodoulou & Cahn, 1995）将多元主义确立为政策制定的四大基准理论之一；[[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] 结合美国联邦阅读立法，指出传统多元主义忽视[[Cultural Capital|文化资本]]不平等与制度门槛，进而催生了吸纳[[Critical Theory|批判理论]]的[[Critical Pluralism|批判性多元主义]]。
 
 > [!citation-card] 罗伯特·达尔论多头政治中的权力分散（Robert Dahl, 1967）

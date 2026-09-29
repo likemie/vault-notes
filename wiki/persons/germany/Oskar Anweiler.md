@@ -32,13 +32,13 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
 related_theories:
   - "[[World-Systems Theory]]"
-  - "[[Stanford School]]"
 related_methods:
   - "[[Documentary Analysis]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Wolfgang Mitter]]"
+  - "[[Stanford School]]"
   - "[[Friedrich Schneider]]"
   - "[[Nicholas Hans]]"
 related_facts:

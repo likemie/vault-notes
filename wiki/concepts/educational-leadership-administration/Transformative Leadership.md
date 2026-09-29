@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[School Leadership]]"
   - "[[Champ]]"
+  - "[[New Managerialism]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods: []
@@ -67,7 +68,7 @@ updated: '2026-05-18'
 
 [[Argument_Møller_2017_EERJ|Møller (2017, p.381)]]论证了变革型领导力之所以必要，是因为：
 
-1. 过去 30 年西方教育系统经历了以新管理主义理念为主导的重大改革
+1. 过去 30 年西方教育系统经历了以[[New Managerialism|新管理主义]]理念为主导的重大改革
 2. 绩效问责体制将教育不平等框定为技术问题，掩盖了权力结构的作用
 3. 需要在两条战线上同时行动：既要改善学校实践，也要让问责体系的设计者为其设计负责([[Argument_Møller_2017_EERJ|Møller, 2017, p.382-383]])
 

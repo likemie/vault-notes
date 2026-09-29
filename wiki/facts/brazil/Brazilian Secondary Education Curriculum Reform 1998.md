@@ -24,6 +24,7 @@ related_concepts:
   - "[[Encyclopaedism]]"
   - "[[Creativity]]"
   - "[[Problem Solving]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Floating Signifier]]"
   - "[[Governance by Spin]]"
   - "[[Transfer Translation Transformation]]"
@@ -67,7 +68,7 @@ updated: 2026-09-12
 
 - **语言、[[Coding in Qualitative Research|编码]]及其技术（Languages, Codes and their Technologies）**
 - **自然科学、数学及其技术（Natural Sciences, Mathematics and their Technologies）**
-- **人文科学及其技术（Human Sciences and their Technologies）**
+- **[[Geisteswissenschaften|人文科学]]及其技术（Human Sciences and their Technologies）**
 
 [[Argument_Beech_2009_CE|(Ministerio da Educação, 1998, 引自 Beech, 2009, p. 356)]]
 

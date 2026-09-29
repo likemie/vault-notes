@@ -23,6 +23,7 @@ tags:
   - theme/educational-planning
   - theme/policy-brokerage
 related_concepts:
+  - "[[Educational Multilateralism]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Paradigm]]"
   - "[[Policy Brokerage]]"
@@ -59,7 +60,7 @@ updated: 2026-09-28
 > - **发布时间 / 发布主体** 1964 年 6 月，由[[UNESCO\|联合国教科文组织]]（UNESCO）总干事勒内·马厄（René Maheu）与[[World Bank\|国际复兴开发银行]]（世界银行）行长乔治·[[Peter Woods\|伍兹]]（George Woods）分别在巴黎与华盛顿签署生效。
 > - **适用地区 / 对象** 面向亚非拉新独立的全球南方发展中国家，规范多边机构对其教育援助贷款与技术规划的审查流程。
 > - **问题背景** 战后去殖民化浪潮导致新兴国家教育财政需求井喷，世行急欲涉足教育投资以遏制苏联意识形态扩张，但自身缺乏教育专业人员；UNESCO 拥有深厚的教育专业声誉，却极度匮乏资本金。
-> - **制度位置** 战后国际组织多边合作史上的标志性契约，奠定了早期多边教育治理“教科文组织负责智力规划、世界银行负责项目放贷”的双寡头制度格局。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **制度位置** 战后国际组织多边合作史上的标志性契约，奠定了早期[[Educational Multilateralism|多边教育治理]]“教科文组织负责智力规划、世界银行负责项目放贷”的双寡头制度格局。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
 
 ---
 

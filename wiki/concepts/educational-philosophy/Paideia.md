@@ -21,6 +21,7 @@ tags:
   - country/greece
 related_concepts:
   - "[[Bildung]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Humanistic Episteme]]"
   - "[[Scientific Paradigm]]"
   - "[[Culture Générale]]"
@@ -68,7 +69,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 古希腊[[Bildung\|教化]]（Paideia，亦作 *Paedeia* 或 *Klassiki Paedeia*，中文通译为古典教化或古风教化）源自古希腊城邦（Polis）文明的古典哲学与教育传统。它超越了单纯的儿童抚养或职业技能操练，是指通过文法、修辞、辩证法、音乐、几何以及体育哲学的全面熏陶，促成个体灵魂发生深刻转向（*periagoge*），实现智性卓越（*arete*）、道德自律与审美身心和谐，从而将个体锻造成具备城邦公共奉献精神与政治决断力的卓越公民。在比较教育思想史中，该概念构成了欧洲古典人文教化传统的历史源头，并被确立为以人为本（*anthropos*）的人文科学（[[Humanistic Episteme]]）元范畴，用于抵御将教育降格为技术官僚工具化学校教育（Schooling）的深层危机。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 59)]]；[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
+> 古希腊[[Bildung\|教化]]（Paideia，亦作 *Paedeia* 或 *Klassiki Paedeia*，中文通译为古典教化或古风教化）源自古希腊城邦（Polis）文明的古典哲学与教育传统。它超越了单纯的儿童抚养或职业技能操练，是指通过文法、修辞、辩证法、音乐、几何以及体育哲学的全面熏陶，促成个体灵魂发生深刻转向（*periagoge*），实现智性卓越（*arete*）、道德自律与审美身心和谐，从而将个体锻造成具备城邦公共奉献精神与政治决断力的卓越公民。在比较教育思想史中，该概念构成了欧洲古典人文教化传统的历史源头，并被确立为以人为本（*anthropos*）的[[Geisteswissenschaften|人文科学]]（[[Humanistic Episteme]]）元范畴，用于抵御将教育降格为技术官僚工具化学校教育（Schooling）的深层危机。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 59)]]；[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
 
 > [!concept-lens] 概念透镜
 > - **城邦公共性透镜** 揭示个体教化始终与城邦政治命运紧密捆绑，教化的最高目的不在于私性利益的最大化，而在于培育对城邦正义与公共善（*to kalon*）的担当意识。
@@ -101,7 +102,7 @@ updated: 2026-09-22
 > |---|---|---|---|---|
 > | **始源时空** | 古希腊城邦雅典与斯巴达（公元前 5 世纪） | 18–19 世纪普鲁士与德意志诸邦 | 17–19 世纪法兰西中央集权体制 | 18–19 世纪英国维多利亚帝国 |
 > | **终极追求** | 城邦公民身心和谐、智性卓越与灵魂转向 | 个体精神在开放未知未来的自主人格塑造 | [[René Descartes\|笛卡尔]]理性、严整心智纪律与普遍批判力 | 超功利的文雅品格、绅士风度与道德教化 |
-> | **核心经典范畴** | 七艺（自由艺术）、哲学辩证法与城邦广场修辞 | 精神科学、哲学辩证否定与大学纯粹探究 | 文理折衷融通、古典语文学与哲学长篇写作 | 希腊罗马古典文学、公学体育与寄宿社团自治 |
+> | **核心经典范畴** | 七艺（自由艺术）、哲学辩证法与城邦广场修辞 | [[Geisteswissenschaften\|精神科学]]、哲学辩证否定与大学纯粹探究 | 文理折衷融通、古典语文学与哲学长篇写作 | 希腊罗马古典文学、公学体育与寄宿社团自治 |
 > | **国家权力关系** | 公民即城邦主体，追求至善的政治共同体 | 洪堡倡导大学免受国家干预的[[Academic Freedom\|学术自由]] | 国家直接管理并垄断选拔的[[Gaokao\|高考]]与行政网络 | 相对独立于中央政权的自治公学与皇家特许学院 |
 
 ---
@@ -153,7 +154,7 @@ updated: 2026-09-22
 > 该命题探讨比较教育历史学派大师如何借用 *Paideia* 概念，建立以人（*Anthropos*）为中心的宏大思想史比较[[Paradigm\|范式]]。
 
 > [!claim] [[Andreas Kazamias\|Kazamias, A.]] M.
-> **超越微观学校教育的人本科学传统** 卡扎米亚斯回顾[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]等学科奠基者的历史母题时指出：大师们始终坚持从广义的文化教化（*paideia/culture*）而非狭隘的学校教学（*schooling*）审视跨国教育现象。他们将比较教育确立为以人为本的人文科学（[[Humanistic Episteme]]），时刻保持着对人类政治、社会与道德危机的敏锐洞察，坚决抗拒将教育研究退化为纯粹行政管理和技术控制的处方手册。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
+> **超越微观学校教育的人本科学传统** 卡扎米亚斯回顾[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]等学科奠基者的历史母题时指出：大师们始终坚持从广义的文化教化（*paideia/culture*）而非狭隘的学校教学（*schooling*）审视跨国教育现象。他们将比较教育确立为以人为本的[[Geisteswissenschaften|人文科学]]（[[Humanistic Episteme]]），时刻保持着对人类政治、社会与道德危机的敏锐洞察，坚决抗拒将教育研究退化为纯粹行政管理和技术控制的处方手册。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
 
 > [!claim] [[Robert Ulich\|Ulich, R.]]
 > **抵御[[Technical Rationality\|技术理性]]异化的两千年文明长河防线** 乌利希在《民族教育》中考证西方教育史演进，指出工业化大生产与科技极权使得现代社会充斥着工具理性的异化危险；唯有重拾古希腊 *Paideia* 与早期基督教人文精神所赋予的人性尊严尺度，现代比较研究才能超越主权国家的狭隘功利利益，成为促进人类相互理解与自我净化的崇高事业。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 51–52)]]

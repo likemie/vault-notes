@@ -21,6 +21,7 @@ tags:
   - philosophy/idealism
 related_concepts:
   - "[[Paideia]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Operationalization]]"
   - "[[Humanistic Episteme]]"
   - "[[Critical Thinking]]"
@@ -43,6 +44,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Scientific Paradigm]]"
   - "[[Critical Pedagogy]]"
+  - "[[Allgemeine Pädagogik]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Positivism]]"
   - "[[Paradigm]]"
@@ -105,7 +107,7 @@ updated: 2026-09-29
 
 
 > [!def] 核心定义
-> 教化（Bildung，通常译为教养，古希腊语对应为 *[[Paideia]]*，英文亦作 character formation 或 edification of character）源自德国精神科学传统（*geisteswissenschaftliche Tradition*）与古希腊古典人文主义，是指超越外在技术性知识传授和工具化技能训练的自主人格形成与精神提升过程。在教育哲学与比较教育思想史视阈下，该概念主张教育的终极本体在于对人（*Anthropos*）的整全教化与自我发现，要求个人在无法预设终点的开放未来中，持续实现人性的自我完善。
+> 教化（Bildung，通常译为教养，古希腊语对应为 *[[Paideia]]*，英文亦作 character formation 或 edification of character）源自德国[[Geisteswissenschaften|精神科学传统]]（*geisteswissenschaftliche Tradition*）与古希腊古典人文主义，是指超越外在技术性知识传授和工具化技能训练的自主人格形成与精神提升过程。在教育哲学与比较教育思想史视阈下，该概念主张教育的终极本体在于对人（*Anthropos*）的整全教化与自我发现，要求个人在无法预设终点的开放未来中，持续实现人性的自我完善。
 > 
 > 教化是人类决定其知识与技能如何以远超外在被要求和被期望的方式被使用的能力与勇气，具有不可度量性、不可形式化与不可[[Operationalization\|操作化]]的内在尊严。它不仅指向个体在与生活世界独立交互中的主体性觉醒，更在文明演进与比较教育视阈中被确立为以人为本的人文科学（[[Humanistic Episteme]]）底线，用以抵御将教育降格为技术官僚流水线[[Human Capital Theory\|人力资本]]加工（*Schooling*）的异化危险。[[Argument_Larsen_2019_EducSci\|(Larsen, 2019, p. 8)]]；[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
 
@@ -226,7 +228,7 @@ updated: 2026-09-29
 > **文明思想史中抵御技术异化的全人防线与德国教化悲剧** 科技革命与工业化大生产打破了古典[[Liberal Education\|文雅教育]]对社会生活的垄断，带来了工具理性的恶性膨胀与人的深层异化。德国历史的发展呈现出洪堡新人文主义全人教化（*Bildung*）理想与军国主义威权国家机器之间的悲剧性分裂；比较研究必须立足两千年西方思想史长河，将教育定位于抵御技术机械化、唤醒人（*Anthropos*）之神圣尊严的最后屏障。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 51–52)]]；引自 Ulich (1961)
 
 > [!claim] [[Andreas Kazamias\|Kazamias, A.]] M.
-> **以广义文化教化超越狭隘学校教育与[[Technical Rationality\|技术理性]]** [[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与乌利希等奠基学者拒绝将教育窄化为微观课堂、技能训练与考试选拔（Schooling），而是将其锚定在希腊古风教化（*Paideia*）与新人文主义全人培育的宏阔视野中；比较教育学本质上是以人为中心的“人文科学”（[[Humanistic Episteme]]），在技术官僚理性主义将学校降格为[[Human Capital Theory\|人力资本]]加工厂的浪潮中，维系了对人类政治、社会与伦理危机的根本哲学关怀。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
+> **以广义文化教化超越狭隘学校教育与[[Technical Rationality\|技术理性]]** [[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与乌利希等奠基学者拒绝将教育窄化为微观课堂、技能训练与考试选拔（Schooling），而是将其锚定在希腊古风教化（*Paideia*）与新人文主义全人培育的宏阔视野中；比较教育学本质上是以人为中心的“[[Geisteswissenschaften|人文科学]]”（[[Humanistic Episteme]]），在技术官僚理性主义将学校降格为[[Human Capital Theory\|人力资本]]加工厂的浪潮中，维系了对人类政治、社会与伦理危机的根本哲学关怀。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
 
 > [!claim] [[Matthew Arnold\|Arnold, M.]]
 > **国家干预与古典教化作为抵御庸俗放任的屏障** 面对维多利亚时代自由放任资本主义所滋生的缺乏甜蜜与光明（Sweetness and Light）的市侩庸人（Philistines），马修·阿诺德（Matthew Arnold）论证指出，唯有依靠现代国家的积极干预，将涵盖古典人文精神的普遍教化确立为公共教育的灵魂，才能抵御社会的野蛮化堕落。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 38–39)]]
@@ -255,7 +257,7 @@ updated: 2026-09-29
 > - **19世纪中叶 — 英国文化批判转向** 阿诺德发表《文化与无政府状态》，以欧洲大陆公学考察倡导以国家支持的古典教化抵御市侩庸人信条。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 38)]]
 > - **20世纪中叶 — 文明危机中的全人教化防线** [[Robert Ulich\|乌利希]]发表《民族教育：历史视重视角下的比较》（1961），梳理西方思想史四阶段，将教化升华为战后比较教育抵御技术官僚异化的人文底线；克拉夫基（Klafki）提出结合[[Epochal Key Problems\|时代关键问题]]的[[Critical Pedagogy|批判教学论]]教化观。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 51–52)]]；[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, pp. 6–7)]]
 > - **1940s–1950s — 二战浩劫与[[Scientific Paradigm\|比较教育科学范式]]转型** 欧洲受教育精英与法西斯极权合流的残酷事实打破了古典教化的道德神话，比较教育学全面反思唯心主义历史学派的局限，开启了追求因果规律、教育规划与政策处方的[[Scientific Paradigm\|科学范式]]转型。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–60)]]
-> - **1960s–1990s — 欧陆母体学科依托与两德制度比较** 在欧洲比较教育学科建制化过程中，安维勒与米特将教化（Bildung）及其母体学科普通教育学（Allgemeine Pädagogik）确立为学科根基；通过将比较教育定义为横切历史与社会学的“[[Comparative Education as a Cross-Sectional Area\|交叉领域]]”，成功开展了跨越冷战意识形态对立的两德教化与教育制度宏大比较工程（Anweiler, 1990），确立了教化作为欧陆比较研究核心规范价值的地位。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 96–98)]]
+> - **1960s–1990s — 欧陆母体学科依托与两德制度比较** 在欧洲比较教育学科建制化过程中，安维勒与米特将教化（Bildung）及其母体学科[[Allgemeine Pädagogik|普通教育学]]（Allgemeine Pädagogik）确立为学科根基；通过将比较教育定义为横切历史与社会学的“[[Comparative Education as a Cross-Sectional Area\|交叉领域]]”，成功开展了跨越冷战意识形态对立的两德教化与教育制度宏大比较工程（Anweiler, 1990），确立了教化作为欧陆比较研究核心规范价值的地位。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 96–98)]]
 > - **21世纪初至今 — 抵抗数字化算法治理与技能原子化** 面临[[Learnification\|学习化]]（Learnification）、[[Visible Learning\|可见的学习]]（Hattie）及在线自我评估（[[Online Self-Assessment\|OSA]]）的算法挤压，学界重拾教化哲学以捍卫不可度量的生命体验与开放未来。[[Argument_Larsen_2019_EducSci\|(Larsen, 2019, p. 8)]]；[[Argument_Thompson_2022_Promising_Student\|(Thompson et al., 2022, p. 227)]]
 
 ---
@@ -289,7 +291,7 @@ updated: 2026-09-29
 > > - **制度反思派（Cowen）** 主张肯定经验制度化成就的同时保有深邃历史自觉。
 >
 > > [!axis] 德意志教化母体传统 vs 英美实用独立建制模式
-> > 围绕比较教育研究是否应将哲学教化与普通教育学作为不可动摇的母体学科。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 97–98)]]
+> > 围绕比较教育研究是否应将哲学教化与[[Allgemeine Pädagogik|普通教育学]]作为不可动摇的母体学科。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 97–98)]]
 > >
 > > - **欧陆教化传统派（Anweiler, Mitter）** 坚持比较教育学源自哲学与神学底色的普通教育学，教化（Bildung）构成抵御外部功利技术官僚异化的核心育人内核，学科应作为依托母体的“[[Comparative Education as a Cross-Sectional Area\|交叉领域]]”存在。
 > > - **英美实用分支派** 倾向于将教育研究视为无须统一普通教育学母体的专业学系集合，追求面向学校体制运转与政策咨询的经验务实对接。
@@ -319,7 +321,7 @@ updated: 2026-09-29
 > | [[Educational Meliorism]] | 概念 | 早期准科学人道主义改良将经验事实分类全面服从于全人道德教化与世界和平。 |
 > | [[Phenomenon-Based Learning]] | 概念 | 芬兰跨学科教学改革在实践中落实教化三维关系的[[Going Native\|本土化]]载体。 |
 > | [[Epochal Key Problems]] | 概念 | 克拉夫基[[Critical Pedagogy\|批判教学论]]将教化与现实全球危机相结合的课程组织原则。 |
-> | [[Comparative Education as a Cross-Sectional Area]] | 概念 | 安维勒提出的学科建制概念，将教化所在的普通教育学作为比较教育不可脱离的母体学科。 |
+> | [[Comparative Education as a Cross-Sectional Area]] | 概念 | 安维勒提出的学科建制概念，将教化所在的[[Allgemeine Pädagogik\|普通教育学]]作为比较教育不可脱离的母体学科。 |
 > | [[Robert Ulich]] | 人物 | 编纂两千年思想史四阶段，确立以人（*Anthropos*）为中心的比较教化防线。 |
 > | [[Andreas Kazamias]] | 人物 | 系统重构历史母题中广义教化超越微观学校教育（*schooling*）的方法论价值。 |
 > | [[Oskar Anweiler]] | 人物 | 主持两德教化与教育制度大型比较项目、提出比较教育交叉领域论的德国学者。 |
@@ -338,5 +340,5 @@ updated: 2026-09-29
 > - [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge (2022)]] — 运用三维关系结构批判高等教育数字化治理中的算法控制与技能碎片化。
 > - [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022)]] — 揭示在线自我评估与[[Learning Analytics\|学习分析]]如何压缩学生未来的[[Open-Mindedness|开放性]]，主张教化对未知的开放探索。
 > - [[Argument_Sarbiewska_2019_JSR\|Sarbiewska (2019)]] — 基于本纳相对独立性理论，论证教化行动必须独立于普通社会化[[Disciplina and Doctrina\|规训]]。
-> - [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 阐释德国及中东欧比较教育如何以普通教育学中的教化（Bildung）哲学为母体，通过[[Comparative Education as a Cross-Sectional Area|交叉领域]]建制连接历史与社会学。
+> - [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 阐释德国及中东欧比较教育如何以[[Allgemeine Pädagogik|普通教育学]]中的教化（Bildung）哲学为母体，通过[[Comparative Education as a Cross-Sectional Area|交叉领域]]建制连接历史与社会学。
 

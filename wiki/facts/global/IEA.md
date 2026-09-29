@@ -127,7 +127,7 @@ updated: 2026-09-29
 > - **IEA 官方与测量学视角** 强调其评估紧扣参与国官方课程大纲（Intended, Implemented, and Achieved Curriculum），坚持学术非营利与专业测量标准，旨在通过实证调查辅助学校教学改进。
 > - **批判比较教育学视角** 批评 IEA 将冷战地缘博弈包装为技术军备竞赛，使比较教育沦为生产官僚[[Social Science as Legitimation Alibi\|合法化借口]]（Alibi）与效率指标的工具性产业。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]; [[Argument_Cowen_2023_CE\|(Cowen, 2023, pp. 330–334)]]
 > - **[[PISA]] / [[OECD]] 竞争视角** 批评 IEA 的测试结构过于依赖各国学校课程的既定内容，缺乏面向未来社会[[Knowledge-Based Economy\|知识经济]]与成年生活核心竞争力的跨学科前瞻性。[[Argument_Zhao_2020_JEC\|(Zhao, 2020)]]
-> - **比较教育学科史视角** 米特尔（Mitter, 2009）指出，IEA 大规模实证[[Quantitative Research|量化研究]]依托高级统计与心理测量技术，在大学学会网络之外开辟了独立技术官僚通道，虽确立了跨国实证严谨性，但也深刻改写了比较教育服务国家政策的咨询生态，构成了晚近超国家指标治理的制度先导。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 96–98)]]
+> - **比较教育学科史视角** 米特尔（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）指出，IEA 大规模实证[[Quantitative Research|量化研究]]依托高级统计与心理测量技术，在大学学会网络之外开辟了独立技术官僚通道，虽确立了跨国实证严谨性，但也深刻改写了比较教育服务国家政策的咨询生态，构成了晚近超国家指标治理的制度先导。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 96–98)]]
 
 > [!tension] 跨国测评的核心张力
 > - **课程本位知识测量（蓝方）** IEA 坚持测验必须基于各国实际教授的课程大纲（Curriculum-based Assessment），尊重学校教育的知识传承逻辑。

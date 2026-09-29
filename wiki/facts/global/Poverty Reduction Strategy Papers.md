@@ -35,6 +35,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[World Bank]]"
+  - "[[International Monetary Fund]]"
   - "[[Global Partnership for Education]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Systems Approach for Better Education Results]]"
@@ -54,7 +55,7 @@ updated: 2026-09-28
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1999 年 9 月由[[World Bank\|世界银行]]（World Bank）与国际货币基金组织（IMF）发展委员会暨执委会联合正式确立并发布。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> - **发布时间 / 发布主体** 1999 年 9 月由[[World Bank\|世界银行]]（World Bank）与[[International Monetary Fund|国际货币基金组织]]（IMF）发展委员会暨执委会联合正式确立并发布。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - **适用地区 / 对象** 全球南方重债穷国（Heavily Indebted Poor Countries，HIPC）及所有申请国际开发协会（IDA）优惠无息贷款与减贫增长信贷（PRGF）的发展中国家。
 > - **问题背景** 20 世纪 80–90 年代“华盛顿共识”推行的激进[[Structural Adjustment Programs|结构调整]]计划（SAPs）严重削减了发展中国家的公共教育与医疗开支，引发广泛的人道主义危机与合法性声讨；布雷顿森林机构急需重构一套兼顾减贫修辞与财政紧缩监督的替代治理工具。
 > - **制度位置** 构成了借贷国获取国际多边债务减免、受援国公共财政预算重组及教育部门五年规划的前置性刚性规制框架。
@@ -64,7 +65,7 @@ updated: 2026-09-28
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 减贫战略文件（PRSPs）是由借贷国政府名义上主导编制、实质严格遵循[[World Bank\|世界银行]]与 IMF 规程的全国宏观中长期减贫路线图；它将教育领域的初等教育普及、女孩入学率、教师绩效问责等量化指标与多边资金解付深度挂钩，构成了世界银行凭借信贷资本实施管理主义-科学效率规制的核心载体。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> 减贫战略文件（PRSPs）是由借贷国政府名义上主导编制、实质严格遵循[[World Bank\|世界银行]]与 [[International Monetary Fund|IMF]] 规程的全国宏观中长期减贫路线图；它将教育领域的初等教育普及、女孩入学率、教师绩效问责等量化指标与多边资金解付深度挂钩，构成了世界银行凭借信贷资本实施管理主义-科学效率规制的核心载体。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 
 > [!policy-design]- 政策设计
 > - **政策目标** 承诺在保障宏观经济稳定与财政可持续性的前提下，实现世界银行倡导的基础教育投资优先化，降低学习贫困率。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
@@ -82,7 +83,7 @@ updated: 2026-09-28
 ## 时间线
 
 > [!timeline] 政策时间线
-> - 1999 [[World Bank\|世界银行]]与国际货币基金组织正式引入 PRSP 框架，替代传统的[[Structural Adjustment Programs|结构调整]]计划。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> - 1999 [[World Bank\|世界银行]]与[[International Monetary Fund|国际货币基金组织]]正式引入 PRSP 框架，替代传统的[[Structural Adjustment Programs|结构调整]]计划。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - 2002 [[Global Partnership for Education\|全球教育伙伴关系]]前身“全民教育快车道倡议”（[[Exploratory Factor Analysis\|EFA]]-FTI）要求受援国以 PRSP 为基础提交国家教育规划。
 > - 2005 巴黎援助实效高级别论坛强调“国家自主权（Country Ownership）”，PRSP 成为衡量受援国体制成熟度的核心凭证。
 > - 2015 至今 PRSP 演变为对接[[UN Sustainable Development Goals\|联合国可持续发展目标]]（SDG 4）的跨部门国家综合融资框架。
@@ -92,7 +93,7 @@ updated: 2026-09-28
 ## 实施情况
 
 > [!actor-grid] 实施角色分工
-> - **发布主体** [[World Bank\|世界银行]]集团教育全球实践局、国际货币基金组织执委会。
+> - **发布主体** [[World Bank\|世界银行]]集团教育全球实践局、[[International Monetary Fund|国际货币基金组织]]执委会。
 > - **执行主体** 借贷国财政部（主导预算编制）、教育部（负责[[Performance Indicators\|教育指标]]细化与数据采集）。
 > - **适用对象** 全国公立教育系统师生、私立非营利及商业教育机构。
 > - **政策工具** 优惠借款、赠款匹配资金、EMIS 教育管理信息系统诊断软件。
@@ -108,7 +109,7 @@ updated: 2026-09-28
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 关键掌控者** [[World Bank\|世界银行]]信贷官、借贷国财政部技术官僚 — 控制数十亿美元资金流转与国家宏观经济大权。
-> - **高权力 · 低利益 — 制度盟友** 国际货币基金组织（IMF）— 严密监督受援国总薪酬封顶与通胀控制，对教育内容本身并不关心。
+> - **高权力 · 低利益 — 制度盟友** [[International Monetary Fund|国际货币基金组织]]（IMF）— 严密监督受援国总薪酬封顶与通胀控制，对教育内容本身并不关心。
 > - **低权力 · 高利益 — 基层受影响者** 公立学校正规教师与工会组织 — 往往直接承受编制冻结、工资削减及转为低薪非正规合同工的改革代价。
 > - **低权力 · 低利益 — 地方社区** 名义上参与公共咨询，实质往往沦为世行展现“广泛民主参与”的象征性装饰。
 

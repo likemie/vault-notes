@@ -22,6 +22,7 @@ tags:
   - idealism
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Epistemology]]"
   - "[[National Character]]"
   - "[[Intangible Spiritual Forces]]"
@@ -63,6 +64,7 @@ related_persons:
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
   - "[[Robert Ulich]]"
+  - "[[Friedrich Schneider]]"
   - "[[Marc-Antoine Jullien]]"
   - "[[Victor Cousin]]"
   - "[[Horace Mann]]"
@@ -88,7 +90,7 @@ updated: 2026-09-24
 历史-哲学-文化母题（Historical-Philosophical-Cultural Motif），全称为历史-哲学-文化与自由人文主义母题（The Historical-Philosophical-Cultural and Liberal Humanist Motif），是指发端于 19 世纪中后期、并在 20 世纪上半叶由[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich|罗伯特·乌利希]]（Robert Ulich）等学者集大成的主导性比较教育[[Paradigm|研究范式]]。
 
 > [!def] 核心定义
-> 历史-哲学-文化母题是将比较教育界定为**广义人文科学（Human Science / Wissenschaft / Episteme）**的[[Epistemology\|认识论]]传统。该母题拒绝将比较教育降格为技术官僚导向的实证社会科学或纯统计测量，主张比较探究的根本任务在于通过历史学、哲学与文化分析，揭示塑造各民族国家教育制度独特风貌的深层历史力量、政治传统、宗教遗产、[[National Character\|民族性格]]与[[Intangible Spiritual Forces\|无形精神力量]]；同时，该母题坚持历史[[Educational Meliorism\|改良主义]]，坚信通过理解外国教育背后的思想与制度生成逻辑，能够涵养教育工作者的哲学态度，从而推动本国民主制度与教育实践的审慎革新。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 38–42)]]
+> 历史-哲学-文化母题是将比较教育界定为**广义[[Geisteswissenschaften|人文科学]]（Human Science / Wissenschaft / Episteme）**的[[Epistemology\|认识论]]传统。该母题拒绝将比较教育降格为技术官僚导向的实证社会科学或纯统计测量，主张比较探究的根本任务在于通过历史学、哲学与文化分析，揭示塑造各民族国家教育制度独特风貌的深层历史力量、政治传统、宗教遗产、[[National Character\|民族性格]]与[[Intangible Spiritual Forces\|无形精神力量]]；同时，该母题坚持历史[[Educational Meliorism\|改良主义]]，坚信通过理解外国教育背后的思想与制度生成逻辑，能够涵养教育工作者的哲学态度，从而推动本国民主制度与教育实践的审慎革新。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 38–42)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指称 20 世纪中叶前主导比较教育学的经典学术范式，其特征为推崇文化整体论、历史因果探寻、哲学观念比较与自由民主人文主义关怀。
@@ -96,7 +98,7 @@ updated: 2026-09-24
 > - **边界** 该母题不追求构建去情境化的普遍规律或因果预测公式，也不等同于纯粹描述外国制度现状的事实汇编，其分析聚焦于特定时空坐标中教育传统的精神底色与制度生成。
 
 > [!citation-card] 比较教育的人文科学性质与历史因果探寻
-> 比较教育并非经验性或[[Positivism\|实证主义]]的“社会科学”，而是一门广义上的“人文科学”，一如德语中的 *Wissenschaft* 与希腊语中的 *Episteme* 所指。汉斯、坎德尔、乌利希以及弗里德里希·施耐德（Friedrich Schneider）所理解的比较教育，更接近于德语的比较教育科学（Vergleichende Erziehungswissenschaft），类似于比较宗教学、比较法学与比较解剖学，其比较不局限于当代现状，而是延伸至法律、宗教或语言制度的起源与演进探究。它是一门解释与诠释性学科，旨在理解与诠释各民族教育系统何以发展为当下形态，而非追求预测或政策工具主义的实用社会科学。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 39–40)]]
+> 比较教育并非经验性或[[Positivism\|实证主义]]的“社会科学”，而是一门广义上的“人文科学”，一如德语中的 *Wissenschaft* 与希腊语中的 *Episteme* 所指。汉斯、坎德尔、乌利希以及弗里德里希·施耐德（[[Friedrich Schneider]]）所理解的比较教育，更接近于德语的比较教育科学（Vergleichende Erziehungswissenschaft），类似于比较宗教学、比较法学与比较解剖学，其比较不局限于当代现状，而是延伸至法律、宗教或语言制度的起源与演进探究。它是一门解释与诠释性学科，旨在理解与诠释各民族教育系统何以发展为当下形态，而非追求预测或政策工具主义的实用社会科学。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 39–40)]]
 >
 > *Comparative education is not an empirical or a positivistic 'social science'. It is a 'human science' in the broad meaning of the term 'science' as signified by the German word Wissenschaft and the Greek equivalent Episteme. As interpreted by Hans, Kandel, Ulich and I may add, Schneider, the term comparative education (CE) was nearer to the German Vergleichende Erziehungswissenschaft... It was analogous to such studies as Comparative Religion, Comparative Law and Comparative Anatomy in that 'comparisons were not limited to contemporary actual situations but were extended to the study of the origin and evolution of present systems of law, religion or language'. ... Comparative Education is an explanatory/interpretive episteme, that aims at 'understanding' and 'interpretation' of how national systems of education developed to be what they are, not a predictive or a policy-oriented or practical/applied social science.*
 
@@ -115,7 +117,7 @@ updated: 2026-09-24
 > | 维度 | [[Proto-Scientific Motif\|准科学母题]]（Proto-Scientific） | 行政改良母题（Administrative-Meliorist） | 历史-哲学-文化母题（Historical-Humanist） | 实证科学范式（[[Positivism\|positivist paradigm]]） |
 > |---|---|---|---|---|
 > | **代表学者** | [[Marc-Antoine Jullien\|Jullien]] | [[Victor Cousin\|Cousin]], [[Horace Mann\|Mann]], Arnold | [[Michael Sadler\|Sadler]], [[Isaac Kandel\|Kandel]], [[Nicholas Hans\|Hans]], [[Robert Ulich\|Ulich]] | [[Harold Noah\|Noah]], [[Max Eckstein\|Eckstein]], Holmes |
-> | **学科性质** | 准实证自然科学类比（比较解剖学） | 行政考察与政策咨询经验学 | 广义人文科学（Vergleichende Erziehungswissenschaft） | [[Empiricism\|经验主义]]社会科学与行为科学 |
+> | **学科性质** | 准实证自然科学类比（比较解剖学） | 行政考察与政策咨询经验学 | 广义[[Geisteswissenschaften\|人文科学]]（Vergleichende Erziehungswissenschaft） | [[Empiricism\|经验主义]]社会科学与行为科学 |
 > | **核心方法** | 标准分类[[Questionnaire\|问卷调查]]与事实对比表 | 官方视察报告、机构考察评注 | 历史[[Document\|文献]]考证、观念史比较、因素[[Analytic Framework\|分析框架]] | 跨国大[[Sample Size Determination\|样本量]]化抽样、多元统计、[[Hypothesis\|假设]]演绎模型 |
 > | **[[Unit of Analysis\|分析单位]]** | 跨国办学经验事实与指标 | 机构制度与法律法令条文 | 民族国家、文化传统与[[National Character\|国民性格]] | [[Operationalization\|操作化]][[Variable\|变量]]、指标测度、体系产出 |
 > | **核心关切** | 经验事实归纳与普遍公理推导 | 解决本国危机、立法辩护与直接借用 | 揭示历史动因、精神力量与内在生命 | 验证跨国规律、因果预测与技术控制 |
@@ -128,7 +130,7 @@ updated: 2026-09-24
 历史-哲学-文化母题由七大互为支撑的[[Epistemology|认识论]]基石构成：
 
 > [!feature] 历史-哲学-文化母题的七大基石
-> - **广义人文科学定位（Human Science / Wissenschaft）** 拒绝[[Positivism\|实证主义]]狭隘科学定义，将比较教育建基为贯通科学与人文学术、探求文化演化渊源与价值规范的跨学科体系。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 39)]]
+> - **广义[[Geisteswissenschaften|人文科学]]定位（Human Science / Wissenschaft）** 拒绝[[Positivism\|实证主义]]狭隘科学定义，将比较教育建基为贯通科学与人文学术、探求文化演化渊源与价值规范的跨学科体系。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 39)]]
 > - **因果因素与历史解释学（Explanatory/Interpretive Episteme）** 将探究重点置于解释教育制度何以形成当前面貌，通过剖析政治、经济、宗教与文化“力量与因素”探寻制度生成的内在根由。
 > - **历史[[Educational Meliorism\|改良主义]]旨趣（Historical-Meliorism）** 坚持研究旨在涵养健全的哲学态度与批判眼光，反对机械政策移植，坚信对历史的深刻理解能滋养本国民主改革。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 40)]]
 > - **民族国家与[[National Character\|国民性]][[Unit of Analysis\|分析单元]]（Nation-State & National Character）** 以主权国家及其教育体系为基本单位，将国民性格视为主导学校组织、课程取向与治理模式的深层无形动因。
@@ -241,7 +243,7 @@ updated: 2026-09-24
 > [!debates] 学术争议
 >
 > > [!axis] 狭隘经验实证科学（Science）vs 德语广义科学（Wissenschaft / Episteme）
-> > 比较教育究竟应当狭义等同于可检验预测的量化经验社会科学，还是涵盖质性历史演进与价值沉思的广义人文科学体系。
+> > 比较教育究竟应当狭义等同于可检验预测的量化经验社会科学，还是涵盖质性历史演进与价值沉思的广义[[Geisteswissenschaften|人文科学]]体系。
 > >
 > > - **Noah & Eckstein（1969）** 将[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]与汉斯归为前科学力量与因素阶段，指责其结论依赖个人私人洞察力，缺乏判定各因素相对重要性的客观标准。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 53)]]
 > > - **Hans（1959）/ [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]]** 坚持比较教育学坐落于人文科学与自然科学的交界边缘，属于德语比较教育科学（*Vergleichende Erziehungswissenschaft*），探求事物演进根由的质性阐释天然具备科学合法性。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 39, 56)]]
@@ -268,7 +270,7 @@ updated: 2026-09-24
 > [!entry-map] 历史-哲学-文化母题在学术网络中的关联结构
 > | 关联构件 | 链接条目 | 理论关联说明 |
 > |---|---|---|
-> | **[[Epistemology\|认识论]]定位** | [[Epistemology]]；[[Paradigm]] | 将学科锚定于德语广义人文科学（*Wissenschaft*）与古典真知（*Episteme*）范式 |
+> | **[[Epistemology\|认识论]]定位** | [[Epistemology]]；[[Paradigm]] | 将学科锚定于德语广义[[Geisteswissenschaften\|人文科学]]（*Wissenschaft*）与古典真知（*Episteme*）范式 |
 > | **核心分析方法** | [[Historical-Comparative Method]] | 贯彻深耕具体历史事实、观念史比较与有限工作[[Hypothesis\|假设]]检验的历史比较法 |
 > | **核心分析[[Construct\|构念]]** | [[National Character]] | 早期历史学者用于解释跨国制度独特性与文化活体有机体的核心分析构念 |
 > | **价值与伦理导向** | [[Educational Meliorism]]；[[Bildung]] | 服务于审慎的历史改良主义，旨在涵养哲学态度与促进全人教化以抵御专制与虚无 |

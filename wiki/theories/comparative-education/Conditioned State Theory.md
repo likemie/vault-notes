@@ -57,6 +57,7 @@ related_persons:
 related_facts:
   - "[[World Bank]]"
   - "[[UNESCO]]"
+  - "[[International Monetary Fund]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 confidence: high
@@ -163,7 +164,7 @@ updated: 2026-09-28
 > - **现象与问题** 智利在 1970–1980 年代军政府统治下，率先推行激进的学校分权化、教育券私有化与使用者付费，导致社会发生剧烈分化。
 > - **维度与材料** 
 >   1. *政权性质*：[[Larissa Adler Lomnitz|洛姆尼茨]]与梅尔尼克（Lomnitz & Melnick, 1991）的人类学调查表明，军政权排斥工农与教师参与，依附于跨国新自由主义经济精英；
->   2. *外部规训*：教育政策严格执行国际货币基金组织与世界银行的紧缩方案；
+>   2. *外部规训*：教育政策严格执行[[International Monetary Fund|国际货币基金组织]]与世界银行的紧缩方案；
 >   3. *双轨现实*：公立学校生均预算被削减，家庭被迫举债进入私立教育市场。
 > - **综合判读** 智利的改革并非基于教育效率提升的纯粹技术实验，而是外围受限国家利用国家暴力强行推行新自由主义阶级策略、掠夺普通大众公民权以服务跨国资本积累的典型例证。
 > - **结论强度** 该案例充分验证了受限国家理论的核心命题，表明外部资本依附与内部独裁统治结合必然导致教育公共性的彻底瓦解。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 85)]]

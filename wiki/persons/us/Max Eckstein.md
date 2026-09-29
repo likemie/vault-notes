@@ -38,6 +38,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Critical Dualism]]"
   - "[[Bildung]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Empiricism]]"
   - "[[Epistemic Value]]"
   - "[[Value Neutrality]]"
@@ -202,7 +203,7 @@ updated: 2026-09-22
 > > 埃克斯坦与诺亚将国家系统作为检验普遍因果律的准实验场，批判历史学派依赖个人洞察力、缺乏因素重要性判别准则，其论断充其量只是待检验的假说。以卡扎米亚斯为代表的历史学者反驳指出，实证学派建立在英语狭隘的自然科学（Science）定义上，抽空了历史具体情境与哲学[[Bildung\|教化]]维度；[[Historical-Comparative Method\|历史比较法]]依托有限工作[[Hypothesis\|假设]]与德语广义科学（*Wissenschaft*），同样具备严密的理论建构与解释效力。
 > >
 > > - **Harold Noah & Max Eckstein（1969）** 坚信客观测量和控制[[Variable\|变量]]能克服主观偏见，将历史学者视为沉溺于溯因的知识分子而非政策行动者。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 53–54)]]
-> > - **Andreas Kazamias（2009）** 捍卫历史比较的人文科学合法性，指出历史中程归纳能够兼顾个殊事实与规律检验。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 56)]]
+> > - **Andreas Kazamias（2009）** 捍卫历史比较的[[Geisteswissenschaften|人文科学]]合法性，指出历史中程归纳能够兼顾个殊事实与规律检验。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 56)]]
 >
 > > [!axis] 变量函数共变 vs 假说-演绎[[Vignettes in Research\|情境问题法]]
 > > 战后英美[[Scientific Paradigm\|科学范式]]内部的方法论路线分歧。埃克斯坦与诺亚立足美国社会科学[[Positivism\|实证主义]]传统，主张通过经验归纳与多国跨系统统计，寻求[[Independent Variable\|自变量]]与[[Dependent Variable\|因变量]]之间的函数共变关系（以“随 $x$ 变化，$y$ 亦相应变化”为典型数学表述），并强调因果解释是比较教育研究的终极目标；[[Brian Holmes\|布赖恩·霍姆斯]]则坚持波普尔[[Critical Dualism\|批判二元论]]与假说-演绎法，批判纯粹经验归纳与共变关系的盲目性，主张通过问题分析、假说提出与情境逻辑理性重建来预测教育政策的制度阻滞与非预期后果。

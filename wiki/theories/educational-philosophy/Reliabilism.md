@@ -18,6 +18,7 @@ related_concepts:
   - "[[Epistemic Cognition]]"
   - "[[Reliability]]"
   - "[[Paradigm]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Metacognition]]"
   - "[[Reliable Epistemic Processes]]"
   - "[[Epistemic Stances]]"
@@ -72,7 +73,7 @@ updated: 2026-09-17
 > |:-----|:-----|:--------------|
 > | [[Causal Processes]] | 机制 | [[Epistemology\|认识论]]的评估对象从静态命题转向了生成信念的动态因果过程（如视觉感知、记忆提取、社会协作）。 |
 > | [[Reliability]] | 评价标准 | 替代了传统的“不可错性（infallibility）”与“内部理由”，成为确证知识的最高标准。 |
-> | [[Epistemological Naturalism]] | [[Paradigm\|范式]] | 可靠主义促成的宏观哲学转向，将认识论从纯粹的先验逻辑哲学转变为一门需要实证科学介入的交叉学科。 |
+> | [[Epistemological Naturalism]] | [[Paradigm\|范式]] | 可靠主义促成的宏观哲学转向，将认识论从纯粹的先验逻辑哲学转变为一门需要实证科学介入的[[Comparative Education as a Cross-Sectional Area\|交叉学科]]。 |
 
 ---
 

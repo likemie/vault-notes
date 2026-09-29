@@ -27,7 +27,6 @@ tags:
 related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Pluri-Scalar Governance]]"
   - "[[Commensuration]]"
   - "[[Growth]]"
   - "[[Paradigm]]"
@@ -39,6 +38,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Doxa]]"
 related_theories:
+  - "[[Pluri-Scalar Governance]]"
   - "[[World-Systems Theory]]"
 related_methods:
   - "[[Peer Debriefing]]"

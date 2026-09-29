@@ -25,6 +25,7 @@ related_concepts:
   - "[[Social Episodes]]"
   - "[[Document]]"
   - "[[Scientific Autarky]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Subjectivism]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Interpretive Paradigm]]"
@@ -168,7 +169,7 @@ updated: 2026-09-29
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **19 世纪末 — 精神[[Scientific Autarky\|科学自主]]性觉醒** [[Wilhelm Dilthey|威廉·狄尔泰]]（Wilhelm Dilthey）划分自然科学与精神科学，确立人类心灵体验、自由意志与理解（Verstehen）在人文研究中的核心地位。
+> - **19 世纪末 — 精神[[Scientific Autarky\|科学自主]]性觉醒** [[Wilhelm Dilthey|威廉·狄尔泰]]（Wilhelm Dilthey）划分自然科学与[[Geisteswissenschaften|精神科学]]，确立人类心灵体验、自由意志与理解（Verstehen）在人文研究中的核心地位。
 > - **1960s–1970s — 人本心理学与拟人化运动突破** [[Carl Rogers\|卡尔·罗杰斯]]（Carl Rogers）提出以人为中心的自我实现理论，[[Rom Harré\|罗姆·哈雷]]（[[Rom Harré]]）与保罗·塞考德确立[[Anthropomorphic Model\|拟人化模型]]，向行为主义机械客体观发起正面清算。
 > - **1979 — 社会科学人性坐标经典确立** 伯勒尔与摩根（Burrell & Morgan, 1979）将唯意志论明确定义为[[Subjectivism\|主观主义范式]]的人性基石，与[[Determinism\|决定论]]形成鲜明对照。
 > - **1980s 至今 — 结构与能动性的辩证综合** [[Anthony Giddens\|安东尼·吉登斯]]（[[Anthony Giddens]]）的结构化理论与[[Pierre Bourdieu\|皮埃尔·布迪厄]]的惯习理论尝试超越单纯唯意志论与单纯决定论的二元对立，揭示能动性在结构约束中的生产机制。

@@ -28,6 +28,7 @@ tags:
   - educational-psychology
 related_concepts:
   - "[[Learned Helplessness]]"
+  - "[[Intercultural Education]]"
   - "[[Evidence-Based Education]]"
   - "[[Construct]]"
   - "[[Talent Assumption]]"
@@ -86,7 +87,7 @@ updated: 2026-09-24
 > - **解释对象** 学习者对智力与人类能力本质的内隐信念（Implicit Beliefs），及其对成就动机、挫折应对、努力评价、同伴互动与长期学业轨迹的深层调节机制。
 > - **理论问题** 回应为何能力水平相当的学生在面临学术挫折时会表现出截然相反的行为模式（即有的陷入[[Learned Helplessness\|习得性无助]]并迅速放弃，有的则坚持不懈并视失败为掌握契机），以及文化信念与同伴生态如何型构个体对“努力”与“聪明”的社会知觉。
 > - **理论类型** 中层认知心理与动机成就理论、社会文化[[Analytic Framework\|分析框架]]。
-> - **知识位置** 认知心理学、动机心理学与学习科学；代表人物为卡罗尔·德韦克（Carol Dweck），后经文化心理学学者拓展至跨文化教育比较领域，并在当代[[Evidence-Based Education\|循证教育]]试验中成为规模化复制与去魅反思的焦点议题。
+> - **知识位置** 认知心理学、动机心理学与学习科学；代表人物为卡罗尔·德韦克（Carol Dweck），后经文化心理学学者拓展至[[Intercultural Education|跨文化教育]]比较领域，并在当代[[Evidence-Based Education\|循证教育]]试验中成为规模化复制与去魅反思的焦点议题。
 
 > [!claim] 核心主张
 > 个体持有的智力内隐信念构成了组织其成就动机与解释学习体验的核心心理架构：持有智力实体观（固定型思维）者将智力视作天赋给予且难以变更的固定实体，倾向于将努力视作能力匮乏的负面表征，面对挑战易诱发防御性放弃与[[Learned Helplessness\|习得性无助]]；持有智力增长观（成长型思维）者视智力为可通过刻意练习、策略探索与持续投入而不断拓展的发展性属性，视挫折为掌握过程中的信息反馈，表现出更高的韧性与抗逆力。然而，成长型思维在常态教育体系中的规模化落地受制于学校既有教学基线与微观生态，并非能够自动消除处境不利学业鸿沟的独立灵丹妙药。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 58–59)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 54, 57)]]

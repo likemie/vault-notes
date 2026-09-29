@@ -33,6 +33,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[Postpositivism]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Hypothesis]]"
   - "[[Scientific Method]]"
   - "[[Geopolitics of Knowledge]]"
@@ -132,7 +133,7 @@ updated: 2026-09-24
 > [!claim] 核心主张
 > 卡扎米亚斯坚持历史学与古典人文主义是比较教育学的生命线。在学科转型期，他扮演了反思者与捍卫者的双重角色：对内，他率先检讨历史学派混淆实然与应然的“[[Whiggism\|辉格史观]]”以及将制度差异轻率归咎于“[[National Character\|国民性格]]”的循环论证；对外，他直面战[[Postpositivism\|后实证主义]]对历史传统的清洗，揭露英语“科学”（Science）概念对经验量化与自然科学[[Paradigm\|范式]]的狭隘垄断，力倡德语广义科学（*Wissenschaft*）与古希腊理知（*Episteme*）传统，并援引[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）史学理论论证历史比较依托“非普适探索性假说”建立中程解释理论的合法性。他坚信比较教育的本体根基在于对人的整全[[Bildung\|教化]]（*[[Paideia]]*）与人（*Anthropos*）的终极关怀。
 
-> [!citation-card] 广义科学观与人文科学的[[Epistemology\|认识论]]合法性
+> [!citation-card] 广义科学观与[[Geisteswissenschaften|人文科学]]的[[Epistemology\|认识论]]合法性
 > [[Positivism\|实证主义]]者对历史比较教育‘非科学’的批评，本身是建立在对英语‘科学’（science）一词的狭隘解释之上，这种狭隘理解往往仅仅指涉自然科学或经验实证社会科学。然而，科学在其他语言中（如德语的 Wissenschaft 或希腊语的 Episteme）同样指涉对社会、文化和人类现象的系统化研究及其认识策略。若在广义人文科学的意义上理解，[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]的历史比较研究完全有资格被称为科学研究。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 56)]]
 >
 > *The criticism that historical comparative education was 'unscientific' was itself based on the restrictive interpretation of the English term 'science'... But the word 'science' might also refer, as indeed it does in other languages, to the 'human sciences' or to the systematic study of social, cultural and human phenomena... If 'science' is interpreted in the broader sense of episteme or Wissenschaft, then Sadler's, Kandel's, Hans' and Ulich's versions of historical comparative education could legitimately be called 'scientific'.*

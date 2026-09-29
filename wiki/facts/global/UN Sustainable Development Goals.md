@@ -29,6 +29,7 @@ related_concepts:
   - "[[Third Mission]]"
   - "[[Lifelong Learning]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[University Social Responsibility]]"
   - "[[Knowledge Production]]"
   - "[[Grand Theory]]"
@@ -136,7 +137,7 @@ updated: 2026-09-26
 > - **全球南方基础教育层面的量化基准[[Transfer Translation Transformation\|转译]]** 通过将 SDG 4 的 10 项具体目标分解为一系列微观基准，国际多边组织直接介入借款国的国家中期教育部门规划（ESDP），强制推动行政数据和测评指标的对接。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **高等教育系统多渠道嵌入与对齐** 大学通过四大支柱全面融入 SDGs 治理框架（Grau et al., 2017; Kaldeway, 2018; Trencher et al., 2013; 引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, pp. 150–154]]）：
 >   - **研究对齐（Research Alignment）** 全球大学主动将前沿研究重定向至 SDGs 优先领域。例如曼彻斯特大学研制碳足迹计算工具，不列颠哥伦比亚大学研发保护生物多样性的传感器与算法，奥克兰大学与航运业合作追踪鲸鱼迁徙路线以遏制致命碰撞，苏黎世联邦理工学院推行“2000瓦特社会”能源效率试验项目，奥伯林学院实施“奥伯林项目”打造全美首批气候积极型示范社区（pp. 150–151）。
->   - **教学对齐（Teaching Alignment）** 密集设立全球治理与可持续发展交叉学科专业。牛津大学开设全球治理与外交硕士，哥本哈根大学开设气候变化理学硕士，皇家理工学院开设可持续技术文学硕士，博洛尼亚大学设立 1,174 个 SDG 关联课程单元，麦克马斯特大学与哥德堡大学分别创设全球卫生与可持续发展跨学科博士项目（pp. 151–152）。
+>   - **教学对齐（Teaching Alignment）** 密集设立全球治理与可持续发展[[Comparative Education as a Cross-Sectional Area|交叉学科]]专业。牛津大学开设全球治理与外交硕士，哥本哈根大学开设气候变化理学硕士，皇家理工学院开设可持续技术文学硕士，博洛尼亚大学设立 1,174 个 SDG 关联课程单元，麦克马斯特大学与哥德堡大学分别创设全球卫生与可持续发展跨学科博士项目（pp. 151–152）。
 >   - **内部运营与[[University Social Responsibility\|大学社会责任]]（[[University Social Responsibility\|USR]]）** 全球超过 200 所大学公开发布企业社会责任与可持续发展独立审计报告，将校园物理空间转化为绿色转型的“活实验室”（Living Labs）（pp. 152–153）。
 
 ---

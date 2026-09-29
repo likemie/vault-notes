@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Variable]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -150,7 +151,7 @@ updated: 2026-09-22
 > [!debates] 理论争议
 >
 > > [!axis] 跨学科交叉与学科边界模糊
-> > 随着当代交叉学科（生物信息学、计算社会科学）的兴起，传统的纯粹硬/软划分面临挑战。
+> > 随着当代[[Comparative Education as a Cross-Sectional Area|交叉学科]]（生物信息学、计算社会科学）的兴起，传统的纯粹硬/软划分面临挑战。
 > > - **新一代学者** 提出应从动态学科网络而非静态象限来理解学科认知[[Paradigm\|范式]]。
 
 ---

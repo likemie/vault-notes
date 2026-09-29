@@ -41,6 +41,7 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Doxa]]"
   - "[[Nomothetic]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Postpositivism]]"
   - "[[Positivism]]"
   - "[[Interpretive Validity]]"
@@ -246,7 +247,7 @@ updated: 2026-09-22
 > **政策预测力优于回溯性先行原因发现** 布赖恩·霍姆斯（Brian Holmes）指出，科学比较教育必须以“[[Nomothetic\|通则式]]预测（prediction）”为标志，而非回顾性“解释（explanation）”；教育决策者最迫切需要的是知晓当下改革方案的未来后果，而非导致当前不满的历史先行原因，因素框架沉溺于探究过去的因果力量，无法提供行动层面的精准预测。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 53–54; Holmes, 1965, pp. 19–21)]]
 
 > [!claim] Kazamias, A. M.
-> **捍卫广义科学观并重估因素框架的因果解释合法性** 卡扎米亚斯坚决反驳了实证派的狭隘指责，指出将科学等同于量化统计是对科学（*Wissenschaft* / *Episteme*）概念的英语霸权垄断；历史学派运用因素框架探求现象背后的因果机制完全符合广义人文科学的严谨准则；只要借鉴[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）的方法，将因素框架作为“非普适探索性假说”在不同国别案例中持续检验与修正，因素分析法便能展现出兼顾具体情境与理论建构的强大生命力。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 55–57; Kazamias, 1963, p. 396)]]
+> **捍卫广义科学观并重估因素框架的因果解释合法性** 卡扎米亚斯坚决反驳了实证派的狭隘指责，指出将科学等同于量化统计是对科学（*Wissenschaft* / *Episteme*）概念的英语霸权垄断；历史学派运用因素框架探求现象背后的因果机制完全符合广义[[Geisteswissenschaften|人文科学]]的严谨准则；只要借鉴[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）的方法，将因素框架作为“非普适探索性假说”在不同国别案例中持续检验与修正，因素分析法便能展现出兼顾具体情境与理论建构的强大生命力。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 55–57; Kazamias, 1963, p. 396)]]
 
 ---
 
@@ -272,7 +273,7 @@ updated: 2026-09-22
 > - **1933 — 国家政治因果力量深化阶段** [[Isaac Kandel\|坎德尔]]出版《比较教育》，将政治哲学与国家意志作为主导解释[[Variable\|变量]]，奠定从外部政治生态剖析教育内部机制的框架原型。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 47–48; Kandel, 1933)]]
 > - **1949 — 三维阶梯因素[[Analytic Framework\|分析框架]]集大成阶段** 汉斯出版《比较教育：教育因素与传统研究》，正式提出由自然、宗教与世俗三大群组构成的分类学体系，并确立民主与教育的终极评价准绳，标志着该[[Paradigm\|范式]]达到理论成熟巅峰。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 49–51; Hans, 1949)]]
 > - **1960年代 — 行为[[Positivism\|实证主义]]的方法论清洗阶段** 诺亚与埃克斯坦、[[Brian Holmes\|布赖恩·霍姆斯]]等人将因素框架判定为缺乏相对权重与可操作性的“前科学”形态，力推跨国统计变量回归与假说演绎预测模型。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 53–54; Noah & Eckstein, 1969)]]
-> - **2000年代至今 — 历史诠释学平反与广义科学重建阶段** 卡扎米亚斯与考恩等学者解构实证主义的方法论神话，重估汉斯因素框架在抵御技术官僚量化拜物教、捍卫以人为中心的人文科学品格中的当代意义。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 55–57)]]
+> - **2000年代至今 — 历史诠释学平反与广义科学重建阶段** 卡扎米亚斯与考恩等学者解构实证主义的方法论神话，重估汉斯因素框架在抵御技术官僚量化拜物教、捍卫以人为中心的[[Geisteswissenschaften|人文科学]]品格中的当代意义。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 55–57)]]
 
 ---
 

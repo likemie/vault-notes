@@ -40,6 +40,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Bildung]]"
   - "[[Paideia]]"
+  - "[[Geisteswissenschaften]]"
   - "[[National Character]]"
   - "[[Construct]]"
   - "[[Whiggism]]"
@@ -110,6 +111,7 @@ related_persons:
   - "[[Jean-Jacques Rousseau]]"
   - "[[Johann Heinrich Pestalozzi]]"
   - "[[Joseph Lauwerys]]"
+  - "[[Friedrich Schneider]]"
 related_facts:
   - "[[Office of Special Inquiries and Reports]]"
   - "[[Grammar School]]"
@@ -131,7 +133,7 @@ updated: 2026-09-07
 > 20 世纪上半叶由[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans\|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich\|罗伯特·乌利希]]（Robert Ulich）等学者奠立的历史-哲学-文化与自由人文主义母题究竟包含哪些深层[[Epistemology\|认识论]]基石与内部[[Paradigm\|范式]]分殊？在 1960 年代战[[Postpositivism\|后实证主义]]、量化主义与结构功能主义的科学化围剿下，该传统何以被贬斥为前科学或神秘主义？比较教育学者应如何超越狭隘[[Positivism\|实证主义]]，重构[[Historical-Comparative Method\|历史比较法]]的现代学科合法性？
 
 > [!claim] 核心主张
-> 历史-哲学-文化与自由人文主义母题建基于广义科学观（*Wissenschaft* / *Episteme*），是以国家制度起源演进与全人[[Bildung\|教化]]（*[[Paideia]]*）为内核的深层人文科学传统；尽管其[[National Character\|国民性格]][[Construct\|构念]]与[[Whiggism\|辉格史观]]存在时代局限，但通过引入[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）的非普适探索性假说归纳法，历史比较法展现出严谨的因果解释与理论建构效能，成为抵抗当代[[Technical Rationality\|技术理性]]与实证工具主义、捍卫以人为中心的教育研究的坚实学术防线。
+> 历史-哲学-文化与自由人文主义母题建基于广义科学观（*Wissenschaft* / *Episteme*），是以国家制度起源演进与全人[[Bildung\|教化]]（*[[Paideia]]*）为内核的深层[[Geisteswissenschaften|人文科学]]传统；尽管其[[National Character\|国民性格]][[Construct\|构念]]与[[Whiggism\|辉格史观]]存在时代局限，但通过引入[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）的非普适探索性假说归纳法，历史比较法展现出严谨的因果解释与理论建构效能，成为抵抗当代[[Technical Rationality\|技术理性]]与实证工具主义、捍卫以人为中心的教育研究的坚实学术防线。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 19 世纪末至 20 世纪中叶英美跨大西洋比较教育思想史文本，重点考据[[Matthew Arnold\|马修·阿诺德]]（Matthew Arnold）、[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]的原著论述，以及 1960 年代[[Harold Noah\|哈罗德·诺亚]]（Harold Noah）、[[Max Eckstein\|马克斯·埃克斯坦]]（Max Eckstein）、[[Brian Holmes\|布赖恩·霍姆斯]]（Brian Holmes）等人的批判[[Document\|文献]]。
@@ -226,7 +228,7 @@ updated: 2026-09-07
 ### 论证步骤二　战间期四大学者将比较教育奠定为以民族国家、质性因果与观念形态为核心的广义人文科学
 
 > [!claim] 步骤二核心主张
-> 萨德勒、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]在 20 世纪上半叶建立的知识母题，以广义人文科学（*Wissenschaft*）定位、因果力量解释学、历史改良主义、民族国家与[[National Character\|国民性]][[Unit of Analysis\|分析单元]]、质性优位、自由民主信念以及唯心主义思想比较七大[[Epistemology\|认识论]]基石为支撑，确立了独立于经验实证社会科学的质性诠释传统。（pp.39–42）
+> 萨德勒、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]在 20 世纪上半叶建立的知识母题，以广义[[Geisteswissenschaften|人文科学]]（*Wissenschaft*）定位、因果力量解释学、历史改良主义、民族国家与[[National Character\|国民性]][[Unit of Analysis\|分析单元]]、质性优位、自由民主信念以及唯心主义思想比较七大[[Epistemology\|认识论]]基石为支撑，确立了独立于经验实证社会科学的质性诠释传统。（pp.39–42）
 
 #### 1. 历史学派将学科锚定于德语广义科学与因果因素分析以探求制度生成根由
 
@@ -522,7 +524,7 @@ flowchart LR
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **历史学派母题的七大[[Epistemology\|认识论]]基石** [[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]共同奠立了以广义人文科学、因果因素解释学、历史[[Educational Meliorism\|改良主义]]、民族国家单元、质性优位、自由民主信念与观念唯心比较为支柱的学术[[Paradigm\|范式]]。（pp.39–42）
+> 1. **历史学派母题的七大[[Epistemology\|认识论]]基石** [[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]共同奠立了以广义[[Geisteswissenschaften|人文科学]]、因果因素解释学、历史[[Educational Meliorism\|改良主义]]、民族国家单元、质性优位、自由民主信念与观念唯心比较为支柱的学术[[Paradigm\|范式]]。（pp.39–42）
 > 2. **奠基学者独特的范式分支贡献** 萨德勒立足特别调查署实践开创[[Intangible Spiritual Forces\|校外无形精神力量]]情境论；坎德尔首创国家意志与政体解释[[Variable\|变量]]；汉斯建立自然、宗教与世俗三维阶梯式因素框架并敏锐指出英美与苏联民主在教育公平上的共同缺陷；乌利希贯通西方思想文明四阶段开辟以人为本的[[Bildung\|教化]]史路径。（pp.42–52）
 > 3. **1960年代实证危机的本质是话语垄断** [[Positivism\|实证主义]]者对历史学派前科学、主观神秘与缺乏预测的指责，源于战后英美[[Empiricism\|经验主义]]对科学（Science）概念的狭隘语义垄断，抹杀了德语 *Wissenschaft* 与希腊语 *Episteme* 的深厚人文科学传统。（pp.52–56）
 > 4. **非普适探索性假说确立[[Historical-Comparative Method\|历史比较法]]现代科学合法性** 援引[[Crane Brinton\|克莱恩·布林顿]]的比较史学理论，论证历史研究能够经由归纳提炼中程的非普适探索性假说，在特殊与一般之间建立双向循环检验，从而打破个殊性不可比较的实证主义神话，确立了以人（*Anthropos*）为中心的现代学科防线。（pp.56–57）
@@ -557,7 +559,7 @@ flowchart LR
 > *'What do we compare?' Kandel asked in 1956, to which he responded: 'The answer should be the comparison of ideas, ideals and forms'.*
 
 > [!citation-card] 汉斯论比较教育作为跨越人文与科学边缘的哲学品格
-> 汉斯精辟指出：‘比较教育学作为一门学术学科，恰恰坐落于人文科学与自然科学的交界边缘，因此类似于哲学，后者正是两者的共同表述。’(pp. 39–40)；引自 Hans (1959:299)
+> 汉斯精辟指出：‘比较教育学作为一门学术学科，恰恰坐落于[[Geisteswissenschaften|人文科学]]与自然科学的交界边缘，因此类似于哲学，后者正是两者的共同表述。’(pp. 39–40)；引自 Hans (1959:299)
 >
 > *Comparative Education as an academic discipline is just on the border line between humanities and sciences and thus resembles philosophy, which is the formulation of both.*
 
@@ -582,7 +584,7 @@ flowchart LR
 
 > [!warning] 原文自述局限与[[Research Scope\|研究边界]]
 > - **个人学术亲历者立场的双重张力** 卡扎米亚斯明确自述其学术生平卷入的双重张力：一方面，作为战后新一代青年学者，他曾率先激烈批判[[Isaac Kandel\|坎德尔]]的历史主义方法（指出其[[Whiggism\|辉格史观]]与[[National Character\|国民性格]]偏见）；另一方面，他又在哈佛大学亲炙[[Robert Ulich\|乌利希]]教授（并合编文集向恩师致敬），这使其在反思历史学派时既带有敏锐的批判锋芒，又带有深刻的学脉同情与代际反思张力。（pp.52, 54）
-> - **主要聚焦于英美与跨大西洋代表性人物** 本章对历史-哲学母题的考察主要聚焦于英美语境中的四位核心学者（[[Michael Sadler\|萨德勒]]、坎德尔、汉斯、乌利希）及先驱阿诺德，对欧洲大陆同属该传统的其他重要学者（如德国的弗里德里希·施耐德 Friedrich Schneider、法国相关比较学者）仅作了简略提及，未作同等深度的专门[[Document\|文献]]剖析。（pp.38–39）
+> - **主要聚焦于英美与跨大西洋代表性人物** 本章对历史-哲学母题的考察主要聚焦于英美语境中的四位核心学者（[[Michael Sadler\|萨德勒]]、坎德尔、汉斯、乌利希）及先驱阿诺德，对欧洲大陆同属该传统的其他重要学者（如德国的弗里德里希·施耐德 [[Friedrich Schneider]]、法国相关比较学者）仅作了简略提及，未作同等深度的专门[[Document\|文献]]剖析。（pp.38–39）
 > - **历史学派奠基者自身的阶级与意识形态盲区** 卡扎米亚斯客观指出，包括坎德尔在内的老一代历史学者带有明显的西方资产阶级自由民主制偏见与先验[[Educational Meliorism\|改良主义]]预设，未能深入探究发达资本主义社会内部的阶级对抗、种族主义与深层权力不平等，在社会批判的彻底性上具有时代局限性。（pp.48, 55）
 
 ---

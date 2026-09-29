@@ -23,6 +23,7 @@ related_concepts:
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
+  - "[[Time-Space Compression]]"
   - "[[Champ]]"
   - "[[Shadow State]]"
   - "[[Structural Adjustment Programs]]"
@@ -48,7 +49,6 @@ related_theories:
   - "[[Globalization from Below]]"
   - "[[Cultural Models]]"
   - "[[Rational Action Theory]]"
-  - "[[Stanford School]]"
   - "[[Conditioned State Theory]]"
 related_methods:
   - "[[Ethnography]]"
@@ -63,6 +63,8 @@ related_persons:
   - "[[Carlos Alberto Torres]]"
   - "[[Immanuel Wallerstein]]"
   - "[[John W. Meyer]]"
+  - "[[Aaron Benavot]]"
+  - "[[Stanford School]]"
 related_facts:
   - "[[World Trade Organization]]"
   - "[[GATS and Trade in Education Services]]"
@@ -98,7 +100,7 @@ updated: 2026-09-29
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove）与[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（Carlos Alberto Torres）在合编著作《比较教育：全球与本土的辩证法》（*Comparative Education: The Dialectic of the Global and the Local*, 1999, 2003, 2007）中系统提出。
 > - **原初问题** 20 世纪 90 年代全球化成为比较教育学最具支配性的议题，但学界往往将全球化简单等同于新自由主义[[Policy Borrowing|政策借用]]或世界文化的同形扩散，忽略了具体国家与微观行动者的反应差异与抵抗策略。
-> - **理论资源与材料** 批判性吸收了[[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein）的世界体系分析、[[John W. Meyer|迈耶]]（Meyer）等人的[[World Society Theory|世界文化理论]]、哈维（Harvey）的时空压缩理论以及全球人类学与多地点[[Ethnography|民族志研究]]。
+> - **理论资源与材料** 批判性吸收了[[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein）的世界体系分析、[[John W. Meyer|迈耶]]（Meyer）等人的[[World Society Theory|世界文化理论]]、哈维（Harvey）的[[Time-Space Compression|时空压缩]]理论以及全球人类学与多地点[[Ethnography|民族志研究]]。
 > - **形成路径** 从宏观体系分析走向多层次双重视野（double vision），将全球力量在民族国家和微观[[Champ|场域]]中的具体遭遇界定为辩证互动过程。
 
 ### 后续修订与扩展
@@ -136,7 +138,7 @@ updated: 2026-09-29
 > [!theory-proposition] 命题二｜民族国家与中间制度对全球外部政策模板具有关键的中介过滤与重构功能
 > **解释** 全球教育模式无法绕过民族国家与地方中间制度直接决定微观结果；国家在全球体系中的权力标度、国内阶级力量对比以及行政分权政策，深刻重组了外部政策的分配后果。在宏观官方课程大纲或形式指标趋同的表象之下，微观制度实践往往因社会阶层与资源动员能力的差异而发生实质分化。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108, 110–111)]]
 >
-> **应用实例** 贝纳沃特与雷什（Benavot & Resh, 2001）考察以色列初中课程发现，在[[Cultural Models|世界文化模型]]推动数理课时全球趋同的背景下，国家推行权力下放反而加剧了阶层断裂：优势阶层学校动员校外资源加码高阶数理科目，而弱势社区学校因疲于应付补救教学而大幅削减数理课时，宏观形式趋同掩盖了微观教学供给的严重阶层分化。
+> **应用实例** [[Aaron Benavot|贝纳沃特]]与雷什（Benavot & Resh, 2001）考察以色列初中课程发现，在[[Cultural Models|世界文化模型]]推动数理课时全球趋同的背景下，国家推行权力下放反而加剧了阶层断裂：优势阶层学校动员校外资源加码高阶数理科目，而弱势社区学校因疲于应付补救教学而大幅削减数理课时，宏观形式趋同掩盖了微观教学供给的严重阶层分化。
 
 > [!theory-proposition] 命题三｜微观行动者的本土文化抵制[[Falsification|证伪]]了抽象理性选择模型并构筑自下而上全球化的反抗基石
 > **解释** 处于边缘地位的微观行动者绝非外部政策的消极受体，其文化反抗与能动博弈能够有效打破自上而下的新自由主义[[Disciplina and Doctrina|规训]]；这种抵抗不仅证伪了将个体假定为功利计算工具的[[Rational Action Theory|理性选择理论]]，而且在信息网络支持下能够汇聚为跨越国界的自下而上全球化运动，开辟争取教育正义的替代道路。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 109, 113–114)]]

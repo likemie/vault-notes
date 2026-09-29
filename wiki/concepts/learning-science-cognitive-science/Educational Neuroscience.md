@@ -22,6 +22,7 @@ tags:
   - cognitive-science
   - policy-analysis
 related_concepts:
+  - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Screening Off]]"
   - "[[What Works Movement]]"
   - "[[Working Memory]]"
@@ -51,7 +52,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 教育神经科学
-> 教育神经科学（Educational Neuroscience，又称“基于脑的教育”或“脑科学教育”）是将神经科学发现应用于教育实践的跨学科领域。它涵盖了神经生物学、认知神经科学、行为神经科学、认知心理学等多个交叉学科，主张通过探明大脑的学习机制来为教育实践提供科学指导。
+> 教育神经科学（Educational Neuroscience，又称“基于脑的教育”或“脑科学教育”）是将神经科学发现应用于教育实践的跨学科领域。它涵盖了神经生物学、认知神经科学、行为神经科学、认知心理学等多个[[Comparative Education as a Cross-Sectional Area|交叉学科]]，主张通过探明大脑的学习机制来为教育实践提供科学指导。
 
 > [!concept-lens] 跨学科视角
 > 该领域试图通过[[Functional Magnetic Resonance Imaging\|功能性磁共振成像]]（fMRI）等神经影像技术与认知心理学实验，将脑部的生理活动（如神经元连接、脑区激活）映射为人类的学习行为（如识字、计算、记忆）。

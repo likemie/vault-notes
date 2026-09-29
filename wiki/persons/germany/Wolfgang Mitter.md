@@ -177,7 +177,7 @@ updated: 2026-09-29
 > > [!axis] 审慎航海领航 vs 激进干预与技术官僚证据治理
 > > 围绕比较教育在国家政策咨询中的功能角色定位爆发的长期争论。
 > >
-> > - **Wolfgang Mitter（[[Navigation Metaphor in Comparative Education|航海隐喻]]）** 恪守劳威斯航海隐喻，主张学者仅提供航线备选方案与暗礁警示，恪守学术中立与批判距离，绝不代替决策者掌舵。（Mitter, 2009, pp. 95–96）
+> > - **Wolfgang Mitter（[[Navigation Metaphor in Comparative Education|航海隐喻]]）** 恪守劳威斯航海隐喻，主张学者仅提供航线备选方案与暗礁警示，恪守学术中立与批判距离，绝不代替决策者掌舵。（[[Argument_Mitter_2009_Europe|Mitter, 2009, pp. 95–96]]）
 > > - **激进干预与国际测评学派（[[OECD]]/[[PISA]]）** 主张比较研究应当直接对接国家改革目标，以标准化量化指标提供确定性处方，介入具体的教育政策干预。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
 
 > [!warning] 学科泛化风险与[[Epistemology|认识论]]自我捍卫

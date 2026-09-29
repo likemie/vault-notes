@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Critical Thinking]]"
   - "[[Didaktik]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Hypothesis]]"
   - "[[Theory of Knowledge]]"
   - "[[International Baccalaureate]]"
@@ -80,7 +81,7 @@ updated: 2026-09-17
 > - **解释对象** 如何最有效地在各级教育中发展和培养学生的[[Critical Thinking\|批判性思维]]技能与倾向。
 > - **理论问题** 批判性思维应当作为独立课程显性教授，还是作为各学科内容的副产品隐性培养？这一争论涉及课程设计、教师培训和学生学习迁移等核心教育问题。
 > - **理论类型** 中层[[Didaktik\|教学理论]]（mid-level pedagogical theory），在认知心理学和教育实证研究的基础上，对教学路径的有效性做出可检验的预测。
-> - **知识位置** 教育心理学与课程研究的交叉领域。关键文本包括 [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 的[[Meta-analysis\|元分析]]、Marin & Halpern（2011）的[[Experimental Research\|实验研究]]，以及 Facione（1990）的 Delphi 报告。
+> - **知识位置** 教育心理学与课程研究的[[Comparative Education as a Cross-Sectional Area|交叉领域]]。关键文本包括 [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 的[[Meta-analysis\|元分析]]、Marin & Halpern（2011）的[[Experimental Research\|实验研究]]，以及 Facione（1990）的 Delphi 报告。
 
 > [!claim] 核心主张
 > 批判性思维技能通过显性的、有目的的独立课程教授，比通过在各学科内部隐性融入的方式更能有效提升学生的批判性思维能力和倾向；这一效果在教师接受专门培训且教学受到评估时最为显著。

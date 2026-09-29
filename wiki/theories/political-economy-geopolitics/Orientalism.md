@@ -25,6 +25,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Epistemology]]"
   - "[[Chinese Learner]]"
+  - "[[Intercultural Education]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Ways of Knowing]]"
   - "[[International Education]]"
@@ -66,7 +67,7 @@ updated: 2026-09-23
 
 
 > [!info] 在[[Chinese Learner\|中国学习者]]刻板印象中的应用
-> [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010, p.40)]]在对[[Chinese Learner\|中国学习者]]刻板印象的批判中援引 Said 的东方主义框架——Wie Watkins & Biggs（2001, p.4）所指出："Chinese-ness is in effect defined in terms of deviance from Western norms"（中国性实际上是以偏离西方规范来定义的）。这表明东方主义的运作不仅限于殖民语境中的政治统治，也在当代跨文化教育中以"缺陷型刻板印象"——将中国学习者的特征构造为西方学术规范的"反面"——的形式被隐性再生产([[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010, pp.39–40]])。详见 [[Argument_Ryan_2010_ChineseLearner]]。
+> [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010, p.40)]]在对[[Chinese Learner\|中国学习者]]刻板印象的批判中援引 Said 的东方主义框架——Wie Watkins & Biggs（2001, p.4）所指出："Chinese-ness is in effect defined in terms of deviance from Western norms"（中国性实际上是以偏离西方规范来定义的）。这表明东方主义的运作不仅限于殖民语境中的政治统治，也在当代[[Intercultural Education|跨文化教育]]中以"缺陷型刻板印象"——将中国学习者的特征构造为西方学术规范的"反面"——的形式被隐性再生产([[Argument_Ryan_2010_ChineseLearner\|Ryan, 2010, pp.39–40]])。详见 [[Argument_Ryan_2010_ChineseLearner]]。
 >
 
 ## 概念辨析

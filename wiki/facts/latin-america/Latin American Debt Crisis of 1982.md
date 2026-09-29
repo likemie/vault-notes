@@ -39,6 +39,7 @@ related_persons:
   - "[[Carlos Alberto Torres]]"
 related_facts:
   - "[[World Bank]]"
+  - "[[International Monetary Fund]]"
   - "[[INEA]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
@@ -59,7 +60,7 @@ updated: 2026-09-28
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1982 年全面爆发，波及整个 1980 年代（史称“失去的十年”）；席卷墨西哥、巴西、阿根廷、智利等整个拉丁美洲。
-> - **核心当事主体** 拉美各国政府、国际商业银行财团、[[World Bank|世界银行]]（World Bank）、国际货币基金组织（IMF）。
+> - **核心当事主体** 拉美各国政府、国际商业银行财团、[[World Bank|世界银行]]（World Bank）、[[International Monetary Fund|国际货币基金组织]]（IMF）。
 > - **深层制度与社会背景** 1970 年代欧美商业银行在拉美大量投放低息石油美元，各国政府举借巨额外债投资工业化；1979 年美联储大幅加息导致国际利率飙升，同时全球原材料价格暴跌，拉美出口创汇断崖式下滑。
 > - **直接导火索** 1982 年 8 月，墨西哥财政部长正式宣布无力偿还到期外债本息，随后引发拉美多国连锁主权违约危机。
 
@@ -69,7 +70,7 @@ updated: 2026-09-28
 
 > [!dev-timeline] 事件推进历程
 > - **1982 — 危机全面爆发** 墨西哥、巴西与阿根廷先后陷入主权债务违约，国际私人借贷市场彻底对拉美关闭，各国面临严重的恶性通货膨胀与财政枯竭。
-> - **1980 年代中期 — [[Structural Adjustment Programs|结构调整]]强加与公共教育撤资** [[World Bank|世界银行]]与 IMF 介入救援，将放贷条件与[[Structural Adjustment Programs|结构调整方案]]（SAPs）强制捆绑，强迫各国压缩公共教育与卫生开支，推行学校分权化甩包袱与使用者付费。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–81)]]
+> - **1980 年代中期 — [[Structural Adjustment Programs|结构调整]]强加与公共教育撤资** [[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 介入救援，将放贷条件与[[Structural Adjustment Programs|结构调整方案]]（SAPs）强制捆绑，强迫各国压缩公共教育与卫生开支，推行学校分权化甩包袱与使用者付费。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–81)]]
 > - **1980 年代末至 1990 年代 — [[Neocorporatism|法团主义]]代偿与私有化确立** 面对失学激增与社会骚乱，墨西哥等国设立[[INEA|全国成人教育学会]]推行扫盲以实施[[Compensatory Legitimation|补偿性合法化]]；智利与阿根廷等国全面放开[[Endogenous and Exogenous Privatisation|教育私有化]]，拉美公共教育体系深陷阶层撕裂。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–85)]]
 
 ---

@@ -34,6 +34,7 @@ related_concepts:
   - "[[Attrition]]"
 related_theories:
   - "[[Educational Governance Framework]]"
+  - "[[Globally Structured Agenda for Education]]"
   - "[[Dependency Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -42,6 +43,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Bob Jessop]]"
+  - "[[Roger Dale]]"
+  - "[[Susan L. Robertson]]"
   - "[[Robert Arnove]]"
 related_facts:
   - "[[World Trade Organization]]"
@@ -65,7 +68,7 @@ updated: 2026-09-29
 > - **解释对象** 全球化时代教育公共领域在空间维度、权力主体与制度功能上的跨国重组机制，尤其是跨国服务贸易规则（如[[World Trade Organization|世贸组织]]《[[GATS and Trade in Education Services|服务贸易总协定]]》）对传统民族[[State Educational Sovereignty|国家教育权]]力的渗透与再领土化（Re-territorialization）过程。[[Argument_Arnove_2009_WorldSystems|(Robertson, Bonal, & Dale, 2002, cited in Arnove, 2009, pp. 110–111)]]
 > - **理论问题** 传统比较教育学与公共政策分析长期受制于“[[Methodological Nationalism|方法论民族主义]]”（Methodological Nationalism），将民族国家预设为唯一封闭、自足的教育治理容器；多标度治理框架旨在打破这一国家中心主义假定，解释跨国规约、商业市场与次国家行动者如何打破并重构国家对公共教育的传统垄断。
 > - **理论类型** 空间[[Educational Governance Framework|治理分析框架]]（Spatial Governance [[Analytic Framework]]）、批判政治经济学解释理论。
-> - **知识位置** 植根于地理政治经济学的空间转向（Spatial Turn）与批判比较教育学，汲取了[[Bob Jessop|鲍勃·杰索普]]（Bob Jessop）的国家空间再标度化理论（[[Rescaling]] of the State）与罗杰·戴尔（Roger Dale）的全球结构化教育议程（Globally Structured Agenda for Education, GSAE）。
+> - **知识位置** 植根于地理政治经济学的空间转向（Spatial Turn）与批判比较教育学，汲取了[[Bob Jessop|鲍勃·杰索普]]（Bob Jessop）的国家空间再标度化理论（[[Rescaling]] of the State）与[[Roger Dale|罗杰·戴尔]]（Roger Dale）的[[Globally Structured Agenda for Education|全球结构化教育议程]]（Globally Structured Agenda for Education, GSAE）。
 
 > [!claim] 核心判断
 > 教育治理已不再是单一民族国家领土管辖下的封闭科层体系，而是由空间标度（超国家/国家/次国家）、治理实体（国家/市场/社区/家庭）与治理活动（筹资/产权/提供/规约）交织构成的动态多标度网络；以跨国经贸协定为代表的超国家力量在穿透传统国家教育主权的同时，促使民族国家在多标度空间中进行战略性权力重组与再领土化。[[Argument_Arnove_2009_WorldSystems|(Robertson et al., 2002; Arnove, 2009, pp. 110–111)]]
@@ -75,7 +78,7 @@ updated: 2026-09-29
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 苏珊·罗伯逊（Susan L. Robertson）、哈维尔·博纳尔（Xavier Bonal）与罗杰·戴尔（Roger Dale）于 2002 年在《比较教育评论》（*Comparative Education Review*）发表奠基性专论《[[GATS and Trade in Education Services|GATS]] 与教育服务产业：标度政治与全球再领土化》（*GATS and the Education Service Industry: The Politics of Scale and Global Re-territorialization*）。
+> - **提出者与原始文本** [[Susan L. Robertson|苏珊·罗伯逊]]（Susan L. Robertson）、哈维尔·博纳尔（Xavier Bonal）与[[Roger Dale|罗杰·戴尔]]（Roger Dale）于 2002 年在《比较教育评论》（*Comparative Education Review*）发表奠基性专论《[[GATS and Trade in Education Services|GATS]] 与教育服务产业：标度政治与全球再领土化》（*GATS and the Education Service Industry: The Politics of Scale and Global Re-territorialization*）。
 > - **原初问题** 1995 年[[World Trade Organization|世界贸易组织]]（World Trade Organization, WTO）成立并正式生效《[[GATS and Trade in Education Services|服务贸易总协定]]》（General Agreement on Trade in Services, GATS），首次将教育明确界定为可跨国交易的商业服务部门；学界面临核心理论谜题：跨国贸易规则如何穿透国家主权边界？原本由国家统合的“公共教育”正在被分解重组为什么样的新形态？
 > - **理论资源与材料** 批判性吸纳了人文地理学关于标度生产（Production of Scale）与空间修复的理论（Harvey, 1989; Smith, 1992）、[[Bob Jessop|鲍勃·杰索普]]关于国家标度相对化（Relativisation of Scale）与去国家化（Destatisation）的策略关系分析，以及 WTO 乌拉圭回合谈判文本、GATS 服务部门分类表与各国教育服务开放承诺表。
 > - **形成路径** 打破传统的“自上而下 vs 自下而上”简单二分法，将教育治理活动分解为筹资、产权、供给、规约四个基本功能，并将治理实体由单一政府扩展为国家、市场、社区与家庭，从而构建起“标度 × 实体 × 活动”的三维立方体分析矩阵。
@@ -83,7 +86,7 @@ updated: 2026-09-29
 ### 后续修订与扩展
 
 > [!dev-timeline] 理论演变与扩展
-> - **1999 — 全球结构化议程奠基** 罗杰·戴尔（Dale, 1999）提出全球结构化教育议程（GSAE），确立全球化通过强加、协调与渗透等非传统机制影响国家政策，奠定了超越国家容器的治理问题域。
+> - **1999 — [[Globally Structured Agenda for Education|全球结构化议程]]奠基** 罗杰·戴尔（Dale, 1999）提出全球结构化教育议程（GSAE），确立全球化通过强加、协调与渗透等非传统机制影响国家政策，奠定了超越国家容器的治理问题域。
 > - **2002 — 三维多标度治理框架成型** 罗伯逊、博纳尔与戴尔（Robertson, Bonal, & Dale, 2002）系统确立三维多标度治理模型，提出 WTO 正在构建一个“消除边境壁垒的假想全球教育系统”，引起[[International Education|国际教育]]学界广泛轰动。
 > - **2007–2009 — [[Robert Arnove|阿诺夫]]的世界体系整合与非对称权力批判** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove, 2009）将多标度治理模型系统吸纳进世界体系分析中，揭示超国家多标度规则在核心大国与边缘脆弱经济体之间造成的非对称战略空间鸿沟。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 

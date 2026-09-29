@@ -28,6 +28,8 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Epistemology]]"
   - "[[Comparative History of Comparative Education]]"
+  - "[[Geisteswissenschaften]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Scientific Explanation]]"
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
@@ -123,7 +125,7 @@ updated: 2026-09-22
 ## 核心思想
 
 > [!claim] 核心主张
-> 比较教育学是一门立足于“教育的地理学视角”（geographical perspective of education）、融合人文科学与社会科学工具的交叉学科。学科不应再停留在直觉性的游记白描或主观价值偏好上，而必须遵循严密的经验归纳程序。区域研究（区域事实的系统描述与历史人文解释）是比较研究必不可少的基础，但真正的跨国比较研究必须通过横向标准并列，在同一[[Analytic Framework\|分析框架]]下开展综合分析（total analysis），从而揭示“所有教育体制据以构建的内在普遍力量”，最终推导出具有[[Scientific Explanation\|科学解释]]力的跨国普遍法则或结构类型学。
+> 比较教育学是一门立足于“教育的地理学视角”（geographical perspective of education）、融合[[Geisteswissenschaften|人文科学]]与社会科学工具的[[Comparative Education as a Cross-Sectional Area|交叉学科]]。学科不应再停留在直觉性的游记白描或主观价值偏好上，而必须遵循严密的经验归纳程序。区域研究（区域事实的系统描述与历史人文解释）是比较研究必不可少的基础，但真正的跨国比较研究必须通过横向标准并列，在同一[[Analytic Framework\|分析框架]]下开展综合分析（total analysis），从而揭示“所有教育体制据以构建的内在普遍力量”，最终推导出具有[[Scientific Explanation\|科学解释]]力的跨国普遍法则或结构类型学。
 
 > [!proc] 乔治·贝雷迪比较研究四步归纳程序
 > 1. **地理与制度描述（Description）** 系统搜集特定国家的地理环境、人口结构、学制法令与基础教育统计，建立完整详实的客观事实档案，属于单国区域研究的实证起点。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 61)]]

@@ -75,6 +75,7 @@ related_persons:
   - "[[Jürgen Habermas]]"
   - "[[Edmund King]]"
   - "[[Stephen Ball]]"
+  - "[[Roger Dale]]"
   - "[[Horace Mann]]"
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
@@ -205,7 +206,7 @@ citation_aliases:
 
 > [!chain-link] 证据到判断
 > - **方法论断裂与规训惩罚的历史** 1970年代初的方法论论战（Methodology Debates）是一场学术惨剧，可被称为方法论分裂（the fracturing）。在这个过程中，偏离传统路径者被强行贴上偏差者（deviants）的标签。一个标志性事件是 [[Edmund King\|埃德蒙·金]]（Edmund King）试图以权威姿态去[[Disciplina and Doctrina\|规训]]Margaret Scotford Archer（Edmund King, 1979; Edmund King and Margaret Scotford Archer, 1980）。这场公开的学术规训冲突，暴露了当时以 King 为代表的英格兰比较教育学界对结构社会学（无论是历史社会学还是其他流派）的完全排斥与共鸣缺乏。
-> - **当代社会学转向的进步** 当代英格兰社会学和历史社会学学者（如 [[Stephen Ball]]、Roger Dale、Martin Lawn、Gemma Moss、Jenny Ozga、Susan Robertson 等）做出了重大贡献。一些修正主义与批判作品（如 Peter Ninnes and Greg Burnett, 2003; Marianne Larsen and Sandip Mehta, 2008; Stephen Carney 等, 2012; Terri Seddon and Sandford Levin, 2013）也成功成为理论经典。
+> - **当代社会学转向的进步** 当代英格兰社会学和历史社会学学者（如 [[Stephen Ball]]、[[Roger Dale]]、Martin Lawn、Gemma Moss、Jenny Ozga、Susan Robertson 等）做出了重大贡献。一些修正主义与批判作品（如 Peter Ninnes and Greg Burnett, 2003; Marianne Larsen and Sandip Mehta, 2008; Stephen Carney 等, 2012; Terri Seddon and Sandford Levin, 2013）也成功成为理论经典。
 
 > [!warning] 去殖民化讨论的区域局限与精确警示
 > 当下关于殖民主义与去殖民化的讨论（如 Keita Takayama, Arathi Sriprakash and Raewyn Connell, 2017; Edward Vickers, 2020）正方兴未艾。然而，要避免使其堕为偏差者或门徒（disciples）的口水战，学术界必须对非西方殖民（Non-Western colonisation）保持高度敏感与精确的区域警示。(p.329)

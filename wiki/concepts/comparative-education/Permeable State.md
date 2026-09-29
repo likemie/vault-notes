@@ -34,6 +34,7 @@ related_persons:
 related_facts:
   - "[[World Bank]]"
   - "[[OECD]]"
+  - "[[International Monetary Fund]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 confidence: high
@@ -67,7 +68,7 @@ updated: 2026-09-28
 
 > [!feature] 多孔国家的三大驱动机制
 > - **跨国生产与弹性积累的离散化** 工业流水线被分散到全球多个低成本节点，企业随时可以撤资逃离，迫使国家撤除资本进出壁垒，削弱了国家征税与劳工保护权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80, 84–85)]]
-> - **准超国家治理机构的借贷[[Disciplina and Doctrina|规训]]** 跨国金融组织（如[[World Bank|世界银行]]、IMF）通过[[Structural Adjustment Programs|结构调整]]贷款协议，将压缩公共教育财政、收取学杂费与推行私有化作为放贷条件，直接穿透国家议会与教育部的政策主权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
+> - **准超国家治理机构的借贷[[Disciplina and Doctrina|规训]]** 跨国金融组织（如[[World Bank|世界银行]]、[[International Monetary Fund|IMF]]）通过[[Structural Adjustment Programs|结构调整]]贷款协议，将压缩公共教育财政、收取学杂费与推行私有化作为放贷条件，直接穿透国家议会与教育部的政策主权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 > - **跨国信息流动与公民认同的撕裂** 全球即时通讯与跨国意识形态网络削弱了传统公立学校在塑造单一民族国家公民忠诚方面的独占地位，国家内部阶级与族群分化加剧。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80)]]
 
 ---

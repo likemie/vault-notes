@@ -29,6 +29,7 @@ related_concepts:
   - "[[Decodification]]"
   - "[[School Leadership]]"
   - "[[New Public Management]]"
+  - "[[New Managerialism]]"
   - "[[Evidence Standards]]"
   - "[[Visible Learning]]"
   - "[[Ontology]]"
@@ -134,7 +135,7 @@ updated: 2026-09-16
 > - OECD 同时推崇两种相互矛盾的测量与治理逻辑：(1) 将学校从科层制转变为专业实践共同体的"最佳实践"话语；(2) 新公共管理的外部控制和绩效问责话语
 > - 二者并非相互替代，而是**并行运作**——构成测量既是赋权工具又是控制工具的矛盾现象
 >
-> **教育语言侵蚀([[Argument_Møller_2017_EERJ\|Møller, 2017, p.382]])** 教育中新管理主义语言的采纳可能"侵蚀关于公民教育和社会正义的更广泛的长期讨论"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.382, citing Møller, 2007]])
+> **教育语言侵蚀([[Argument_Møller_2017_EERJ\|Møller, 2017, p.382]])** 教育中[[New Managerialism|新管理主义]]语言的采纳可能"侵蚀关于公民教育和社会正义的更广泛的长期讨论"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.382, citing Møller, 2007]])
 >
 > **问责制的双重标准([[Argument_Møller_2017_EERJ\|Møller, 2017, p.382-383]])** Henig (2013: xi) 指出："将问责体系写入立法和官僚实践的速度超越了支持它的证据——尽管问责体系的设计者同时也是科学本位决策的声援者。"这构成了 performativity 的一个独特案例：测量系统本身规避了其要求他人接受的[[Evidence Standards\|证据标准]]。
 

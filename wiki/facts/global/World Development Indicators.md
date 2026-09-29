@@ -44,6 +44,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[UNESCO Institute for Statistics]]"
   - "[[OECD]]"
+  - "[[International Monetary Fund]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[UNICEF]]"
   - "[[Multiple Indicator Cluster Surveys]]"
@@ -70,7 +71,7 @@ updated: 2026-09-18
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 世界银行自 1978 年起系统收集全球发展统计数据；1989 年正式出版《世界发展指标》年度报告（印刷版）；1997 年推出在线数据库（CD-ROM 版），2004 年实现全面免费网络开放，此后持续扩充指标集与地理覆盖范围。
-> - **发起方与资助机制** 由世界银行数据组（Development Data Group，DECDG）主导，与[[UNESCO\|联合国教科文组织]]统计研究所（[[UNESCO Institute for Statistics\|UIS]]）、[[OECD\|经合组织]]、国际货币基金组织（IMF）及各国国家统计局合作汇聚数据。
+> - **发起方与资助机制** 由世界银行数据组（Development Data Group，DECDG）主导，与[[UNESCO\|联合国教科文组织]]统计研究所（[[UNESCO Institute for Statistics\|UIS]]）、[[OECD\|经合组织]]、[[International Monetary Fund|国际货币基金组织]]（IMF）及各国国家统计局合作汇聚数据。
 > - **覆盖范围** 涵盖全球 217 个国家和地区、1,400 余项时间序列指标，教育领域指标自 1989 年的 116 项急剧扩充至 2018 年的逾 1,600 项。
 > - **核心问题导向** 为世界银行设计教育贷款条件、开展[[Systems Approach for Better Education Results\|改善教育成果系统分析法]]（SABER）评估及发布《人力资本指数》（Human Capital Index，HCI）提供可比基准数据，也为全球学术界的[[Return on Investment\|教育投资回报率]]计量研究提供不可替代的原始数据来源。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
@@ -106,7 +107,7 @@ updated: 2026-09-18
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** [[World Bank\|世界银行]]集团（World Bank Group），由发展数据组（DECDG）主导维护。
-> - **数据供应伙伴** [[UNESCO Institute for Statistics\|联合国教科文组织统计研究所]]（UIS）负责教育数据、[[OECD\|经合组织]]提供高收入国家部分指标、IMF 提供宏观财政数据、[[International Labour Organization\|国际劳工组织]]（[[International Labour Organization\|ILO]]）提供劳动力市场数据。
+> - **数据供应伙伴** [[UNESCO Institute for Statistics\|联合国教科文组织统计研究所]]（UIS）负责教育数据、[[OECD\|经合组织]]提供高收入国家部分指标、[[International Monetary Fund|IMF]] 提供宏观财政数据、[[International Labour Organization\|国际劳工组织]]（[[International Labour Organization\|ILO]]）提供劳动力市场数据。
 > - **受益与使用群体** 各国政府财政部与教育部决策者、世界银行内部经济学家、国际学术研究者、全球南方政策顾问与非政府组织倡导团体。
 
 ---

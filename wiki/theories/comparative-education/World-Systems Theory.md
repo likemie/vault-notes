@@ -21,16 +21,17 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Open-Mindedness]]"
   - "[[Paradigm]]"
-  - "[[Pluri-Scalar Governance]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
-related_theories: []
+related_theories:
+  - "[[Pluri-Scalar Governance]]"
 related_methods: []
 related_persons:
   - "[[Immanuel Wallerstein]]"
 related_facts:
   - "[[World Bank]]"
+  - "[[International Monetary Fund]]"
 related_arguments:
   - "[[Argument_Marginson_2025_ECNUROE]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
@@ -115,7 +116,7 @@ updated: 2026-09-29
 ## 应用领域
 
 > [!success]
-> - 比较教育学宏观政治经济学 — 解释国际金融与援助机构（[[World Bank|世界银行]]、IMF、跨国基金会）对第三世界教育政策的[[Disciplina and Doctrina|规训]]，以及为何外部引进的教育改革往往未能实现结构性变革
+> - 比较教育学宏观政治经济学 — 解释国际金融与援助机构（[[World Bank|世界银行]]、[[International Monetary Fund|IMF]]、跨国基金会）对第三世界教育政策的[[Disciplina and Doctrina|规训]]，以及为何外部引进的教育改革往往未能实现结构性变革
 > - [[Geopolitics of Knowledge]] — 世界体系理论是分析知识地缘政治的重要参照，揭示全球[[Knowledge Production|知识生产]]中心与边缘的不平等交换格局
 > - 全球高等教育研究 — 警示研究者关注跨国学术依附与全球文凭主义，但需警惕预设等级结构绝对刚性的[[Methodological Globalism|方法论全球主义]]偏差
 

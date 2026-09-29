@@ -30,6 +30,7 @@ related_concepts:
   - "[[Liberal Education]]"
   - "[[Enlightenment]]"
   - "[[Paradigm]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
   - "[[Epoché]]"
@@ -46,6 +47,7 @@ related_persons:
   - "[[Jean-Jacques Rousseau]]"
   - "[[Immanuel Kant]]"
   - "[[Johann Heinrich Pestalozzi]]"
+  - "[[Wilhelm Dilthey]]"
 related_facts:
   - "[[Grammar School]]"
   - "[[Comparative Education Society in Europe]]"
@@ -145,7 +147,7 @@ updated: 2026-09-24
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 继承并弘扬了威廉·狄尔泰与维尔纳·耶格尔（Werner Jaeger）的德国精神科学与古典[[Bildung\|教化]]（[[Paideia]]）传统，使美国战后比较教育学保留了深厚的历史文化底色。
+> - **理论路径** 继承并弘扬了[[Wilhelm Dilthey|威廉·狄尔泰]]与维尔纳·耶格尔（Werner Jaeger）的德国[[Geisteswissenschaften|精神科学]]与古典[[Bildung\|教化]]（[[Paideia]]）传统，使美国战后比较教育学保留了深厚的历史文化底色。
 > - **人才培养与师承网络** 在哈佛大学亲自培养了[[George Bereday\|乔治·贝雷迪]]（哥伦比亚大学比较教育领袖）、[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]（威斯康星大学教授、[[Comparative Education Society in Europe\|CESE]] 荣誉会员）以及保罗·纳什等杰出学者，构成战后比较教育思想史的核心主干。
 > - **教师教育改革** 极力倡导将教育史与比较文明哲学作为教师资格培养的必修核心，抵制行为主义技能训练对[[Normal School\|师范教育]]的侵蚀。
 

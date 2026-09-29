@@ -42,7 +42,6 @@ related_concepts:
 related_theories:
   - "[[Rational Action Theory]]"
   - "[[World Society Theory]]"
-  - "[[Stanford School]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Randomised Controlled Trials]]"
@@ -50,6 +49,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Stanford School]]"
   - "[[John W. Meyer]]"
 related_facts:
   - "[[Committee for the Accreditation of Teacher Education]]"

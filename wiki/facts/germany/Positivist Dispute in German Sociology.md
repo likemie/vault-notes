@@ -34,6 +34,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Document]]"
   - "[[Scientific Method]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Postpositivism]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -104,4 +105,4 @@ updated: 2026-09-29
 > - **1961-10 — 蒂宾根会议交锋** 波普尔在大会发表《社会科学的逻辑》（*The Logic of the Social Sciences*）提出 27 条命题；阿多诺作对应报告，指出孤立事实在脱离社会总体性时将丧失真实意义。
 > - **1963–1965 — [[Jürgen Habermas|哈贝马斯]]与阿尔伯特的论战升级** 哈贝马斯发表《实证主义批判分析社会科学》（批判分析科学与社会学批判），阿尔伯特随即撰写《总体理性背后的神话》反击，论战由方法论拓展至哲学[[Ontology|本体论]]。
 > - **1969 — 论战文集正式出版** 达伦多夫（Ralf Dahrendorf）、阿多诺等将双方代表性[[Document|文献]]结集出版《德国社会学中的实证主义争论》（*Der Positivismusstreit in der deutschen Soziologie*），成为战后社会科学哲学的必读经典。
-> - **1970s–1980s — 辐射至教育科学与比较教育学** 在西德教育学会（DGfE）及全欧比较教育学界引发长期关于“教育科学是[[Scientific Method|经验科学]]还是精神科学”的[[Paradigm|范式]]论辩，催生了教育研究中多范式共存的[[Postpositivism|后实证主义]]格局。
+> - **1970s–1980s — 辐射至教育科学与比较教育学** 在西德教育学会（DGfE）及全欧比较教育学界引发长期关于“教育科学是[[Scientific Method|经验科学]]还是[[Geisteswissenschaften|精神科学]]”的[[Paradigm|范式]]论辩，催生了教育研究中多范式共存的[[Postpositivism|后实证主义]]格局。

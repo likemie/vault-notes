@@ -20,6 +20,8 @@ tags:
 - region/germany
 related_concepts:
   - "[[Bildung]]"
+  - "[[Geisteswissenschaften]]"
+  - "[[Allgemeine Pädagogik]]"
   - "[[Hypothesis]]"
   - "[[Democratic Education]]"
   - "[[Evidence-Based Education]]"
@@ -38,7 +40,7 @@ updated: 2026-09-22
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 德国教育学家（Pedagogue），以对 [[Bildung]]（品格陶成）与 Erziehung（教育）的区分以及修正版教学三角模型著称。其工作根植于德国精神科学教育学传统。
+> - **身份位置** 德国教育学家（Pedagogue），以对 [[Bildung]]（品格陶成）与 Erziehung（教育）的区分以及修正版教学三角模型著称。其工作根植于德国[[Geisteswissenschaften|精神科学]]教育学传统。
 
 ## 生平与职涯
 
@@ -48,7 +50,7 @@ updated: 2026-09-22
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Benner, D. (2018). Allgemeine Pädagogik und Sonderpädagogik. Überlegungen zum Verhältnis von Inklusion und Exklusion aus der Sicht Dreier Kausalitäten in Erziehungs- und Bildungsprozessen. *Człowiek – Niepełnosprawność – Społeczeństwo*, 4(42). — 提出修正版教学三角模型
+> - Benner, D. (2018). [[Allgemeine Pädagogik]] und Sonderpädagogik. Überlegungen zum Verhältnis von Inklusion und Exklusion aus der Sicht Dreier Kausalitäten in Erziehungs- und Bildungsprozessen. *Człowiek – Niepełnosprawność – Społeczeństwo*, 4(42). — 提出修正版教学三角模型
 > - Benner, D. (2017). [[John Dewey]], a Modern Thinker: On Education (as [[Bildung]] and Erziehung) and Democracy (as a Political System and a Mode of Associated Living). In L. Waks & A. English (eds.), *John Dewey's Democracy and Education: A Centennial Handbook*. Cambridge University Press. — 阐述 Bildung and Erziehung 的区分
 
 ## 核心思想

@@ -229,7 +229,7 @@ flowchart LR
 > > 批评该机构是否过分推崇单一量化实验设计，将学校复杂情境降维为控制变量，从而导致研究与生动的教育现场脱节。
 > >
 > > - **批评视角（反方）** 批判与实践取向学者指出，IES 长期将随机对照试验（RCT）奉为绝对金标准，过度聚焦内部效度，将学校课堂复杂的生态情境视作需要排除的噪音，导致黑箱化；昂贵冗长的实验周期亦难以快速响应一线政策与课堂紧迫的即时挑战。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 204–205, 208)]]
-> > - **机构立场（正方）** IES 院长[[Mark Schneider\|施奈德]]强调，离开严谨的[[Causality\|因果推断]]，教育政策就会沦为未经验证的直觉与时尚；同时 IES 正通过 SEER 改革走出单纯 RCT 的狭隘误区，通过要求详尽记录实施反差、[[Counterfactual\|反事实]]情境并依托数字平台开展快速试错迭代，兼顾科学严密性与情境[[Ecological Validity\|生态效度]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206–208)]]
+> > - **机构立场（正方）** IES 院长施奈德强调，离开严谨的[[Causality\|因果推断]]，教育政策就会沦为未经验证的直觉与时尚；同时 IES 正通过 SEER 改革走出单纯 RCT 的狭隘误区，通过要求详尽记录实施反差、[[Counterfactual\|反事实]]情境并依托数字平台开展快速试错迭代，兼顾科学严密性与情境[[Ecological Validity\|生态效度]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206–208)]]
 > >
 > > [!axis] [[Statistical Normalisation|统计正态化]]追求均值 vs 离群弱势群体的受托照护
 > > 批评该机构植根于大样本[[Statistical Significance|统计显著性]]与正态分布[[Hypothesis|假设]]的研究规程，是否会系统性遮蔽处于两端的极端处境不利群体。

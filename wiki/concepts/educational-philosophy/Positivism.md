@@ -29,6 +29,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Variable]]"
   - "[[Value Neutrality]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Bildung]]"
   - "[[Source of Knowledge]]"
   - "[[Scientism]]"
@@ -163,7 +164,7 @@ updated: 2026-09-29
 值得注意的是，在 19 世纪初启蒙现代性发轫之初，早期先驱构想的实证科学与 20 世纪的技术化实证主义存在根本差异。
 
 > [!citation-card] 启蒙现代性发轫期的准实证科学构想
-> 与其同时代的法国实证主义哲学家社会学家[[Auguste Comte\|奥古斯特·孔德]]相似，[[Marc-Antoine Jullien\|朱利安]]坚信科学方法可以应用于人类与社会事务。作为一门实证科学，比较教育学应聚焦于客观可测定且系统收集的事实与观察。朱利安构建分析图表以推进事实分类，但这一早期准实证构想并非现代[[Value Neutrality\|价值无涉]]的技术论，而是归属于欧陆二级精神科学，全面服从于全人[[Bildung\|教化]]与社会改良。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 13–14)]]
+> 与其同时代的法国实证主义哲学家社会学家[[Auguste Comte\|奥古斯特·孔德]]相似，[[Marc-Antoine Jullien\|朱利安]]坚信科学方法可以应用于人类与社会事务。作为一门实证科学，比较教育学应聚焦于客观可测定且系统收集的事实与观察。朱利安构建分析图表以推进事实分类，但这一早期准实证构想并非现代[[Value Neutrality\|价值无涉]]的技术论，而是归属于欧陆二级[[Geisteswissenschaften|精神科学]]，全面服从于全人[[Bildung\|教化]]与社会改良。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 13–14)]]
 >
 > *Like his contemporary French scientific positivist philosopher-sociologist Auguste Comte (1798–1857), Jullien believed that the scientific method could be applied to human and social affairs. As a positive science, therefore, comparative education should focus on objectively determinable and systematically collected facts and observations.*
 
@@ -252,7 +253,7 @@ updated: 2026-09-29
 > 该维度澄清历史思想源流，阐明 19 世纪初现代主义时期的实证构想并非[[Value Neutrality\|价值中立]]的技术操作，而是全面服从于崇高的人道伦理与社会改良。
 
 > [!claim] Kaloyannaki, P. & [[Andreas Kazamias\|Kazamias, A.]] M.
-> **准实证科学归属二级精神科学并服从全人[[Bildung\|教化]]** 19 世纪初现代主义先驱[[Marc-Antoine Jullien\|马克-安托万·朱利安]]倡导的比较教育“准实证科学”，借用居维叶比较解剖学类比与机械工艺方法收集事实并编制跨国分析图表，其目的绝非 20 世纪逻辑实证论所标榜的去价值、去情境化的技术测量；朱利安将教育学归入欧陆“二级精神科学”，其经验分类始终服从于诊断法国大革命后社会道德危机、推进全人身心协调发展（[[Bildung]]）并实现欧洲[[Perpetual Peace\|永久和平]]的启蒙改良使命（[[Educational Meliorism]]）。20 世纪行为主义实证派指责其[[Questionnaire\|问卷]]带有主观偏见，本质上犯了时代错置的辉格史错误。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 13–18)]]
+> **准实证科学归属二级[[Geisteswissenschaften|精神科学]]并服从全人[[Bildung\|教化]]** 19 世纪初现代主义先驱[[Marc-Antoine Jullien\|马克-安托万·朱利安]]倡导的比较教育“准实证科学”，借用居维叶比较解剖学类比与机械工艺方法收集事实并编制跨国分析图表，其目的绝非 20 世纪逻辑实证论所标榜的去价值、去情境化的技术测量；朱利安将教育学归入欧陆“二级精神科学”，其经验分类始终服从于诊断法国大革命后社会道德危机、推进全人身心协调发展（[[Bildung]]）并实现欧洲[[Perpetual Peace\|永久和平]]的启蒙改良使命（[[Educational Meliorism]]）。20 世纪行为主义实证派指责其[[Questionnaire\|问卷]]带有主观偏见，本质上犯了时代错置的辉格史错误。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 13–18)]]
 
 > [!claim] Palmer, R. R.
 > **启蒙科学范畴的广义精神活动定位** 启蒙现代性时期的“科学”（Science）范畴具有深刻的历史情境性，绝非后世狭隘的实证命题检验集，而是指代人类心灵的一切理性精神活动（*toute activité de l'esprit*），涵盖道德哲学、政治经济与人文艺术，事实的经验收集天然从属于理智启蒙与人道重建。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 17–18)]]
@@ -321,7 +322,7 @@ updated: 2026-09-29
 
 > [!timeline] 思想演进脉络
 > - **17 世纪 — 培根经验归纳法奠定近代科学基础** [[Francis Bacon\|弗朗西斯·培根]]提出唯有经验观察与渐进归纳才能排除心智偏见，为后世实证主义奠定了反经院形而上学的方法论胚胎。
-> - **1810–1830 年代 — 启蒙现代性准实证构想与道德改良统摄** [[Marc-Antoine Jullien\|朱利安]]与孔德坚信[[Scientific Method\|科学方法]]可推广至社会事务；朱利安创立比较教育分析图表与跨国[[Questionnaire\|问卷]]，其实证操作始终归属于欧陆二级精神科学并服从于全人[[Bildung\|教化]]与教育改良。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009)]]
+> - **1810–1830 年代 — 启蒙现代性准实证构想与道德改良统摄** [[Marc-Antoine Jullien\|朱利安]]与孔德坚信[[Scientific Method\|科学方法]]可推广至社会事务；朱利安创立比较教育分析图表与跨国[[Questionnaire\|问卷]]，其实证操作始终归属于欧陆二级[[Geisteswissenschaften|精神科学]]并服从于全人[[Bildung\|教化]]与教育改良。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009)]]
 > - **1830–1850 年代 — 孔德确立实证哲学[[Epistemology\|认识论]]总纲** 孔德出版六卷本《实证哲学教程》，系统确立神学—形而上学—实证三阶段法则，确立社会物理学/社会学的独立学科地位与跨领域方法论统一[[Hypothesis\|假设]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 113)]]
 > - **20 世纪前半叶 — 逻辑实证主义鼎盛与波普尔[[Falsification\|证伪主义]]超越** 维也纳学派追求经验证实与物理主义统一语言；波普尔（[[Karl Popper]]）提出证伪原则打破归纳证实神话，推动实证主义由粗糙证实向批判理性主义跃迁。
 > - **20 世纪 60 年代 — 比较教育实证[[Scientific Paradigm\|科学范式]]确立与流派分野** 战后自然科学工程突破与行为主义革命共同推动科学化运动达到鼎盛；诺亚与埃克斯坦（Noah & Eckstein）、霍姆斯（[[Brian Holmes]]）与芝加哥学派（Anderson & Foster）确立可测量假设检验与预测标准，围绕法则性质展开认识论争鸣，并将历史传统贬斥为“前科学”。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009)]]；[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 53–56)]]
@@ -394,7 +395,7 @@ updated: 2026-09-29
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 113)]] — 系统复原孔德实证主义的起源、四大科学[[Hypothesis\|假设]]、Giddens 识别的方法论统一与产出同构双重预设，并综合存在主义（克尔凯郭尔）、法兰克福学派（[[Jürgen Habermas\|哈贝马斯]]）与社会学内部批评，展现当代教育研究向后实证与批判[[Paradigm\|范式]]演进的完整版图。
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 剖析比较教育学奠基人[[Marc-Antoine Jullien\|朱利安]]构建的准实证科学体系，澄清其事实分析图表与跨国[[Questionnaire\|问卷]]归属于欧陆二级精神科学，揭示其经验收集始终从属于全人[[Bildung\|教化]]与社会改良，强力反驳 20 世纪行为主义实证派以[[Value Neutrality\|价值中立]]为由指责其带有主观偏见的辉格史错置。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 剖析比较教育学奠基人[[Marc-Antoine Jullien\|朱利安]]构建的准实证科学体系，澄清其事实分析图表与跨国[[Questionnaire\|问卷]]归属于欧陆二级[[Geisteswissenschaften|精神科学]]，揭示其经验收集始终从属于全人[[Bildung\|教化]]与社会改良，强力反驳 20 世纪行为主义实证派以[[Value Neutrality\|价值中立]]为由指责其带有主观偏见的辉格史错置。
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] — 系统梳理 20 世纪 60 年代诺亚与埃克斯坦（Noah & Eckstein）、霍姆斯（Holmes）、安德森（Anderson）与埃普斯坦（Epstein）等实证主义学者对历史比较学派发起的范式围剿，揭示实证派如何从依赖私人洞察力、缺乏因果预测力、个殊事实无法抽象以及涉嫌神秘主义四个维度将历史传统贬为“前科学”，并反思实证科学对英语 *Science* 狭隘词义垄断的[[Epistemology\|认识论]]局限。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 深入剖析 20 世纪 60 年代比较教育实证[[Scientific Paradigm\|科学范式]]内部围绕“法则性质”的深刻分野（芝加哥学派的恒常规律 vs 哥大学派的[[Variable\|变量]]函数共变 vs 霍姆斯的权变社会学法则与预测划界），揭示实证主义之所以在实践中胜出，根源于其充当了战后国家五年计划与技术援助的政治[[Social Science as Legitimation Alibi\|合法化借口]]（alibi），并追踪其在现实危机、量子不确定性转向与后现代思潮冲击下向多元范式演进的终结轨迹。
 > - [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] — 揭示中小学科学教育深受教条实证主义影响，将科学探究扭曲为呆板的线性实验室规程，进而呼吁突破幼稚的[[Formal Epistemology\|形式认识论]]，转向关注学生在真实探究情境中的[[Practical Epistemology\|实践认识论]]。

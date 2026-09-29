@@ -37,7 +37,8 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Network Analysis]]"
   - "[[Correlational Research]]"
-related_persons: []
+related_persons:
+  - "[[Roger Dale]]"
 related_facts:
   - "[[World Bank]]"
   - "[[OECD]]"
@@ -69,7 +70,7 @@ updated: 2026-09-24
 
 ## 概念辨析
 
-> [!contrast-table] Roger Dale 三大方法论陷阱对照表
+> [!contrast-table] [[Roger Dale]] 三大方法论陷阱对照表
 > | 维度 | Methodological Statism ([[Methodological Statism\|方法论国家主义]]) | [[Methodological Nationalism\|Methodological Nationalism (方法论民族主义)]] | [[Methodological Educationism\|Methodological Educationism (方法论教育主义)]] |
 > |------|---------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 > | **还原对象** | 将教育治理还原为“主权国家政府的科层行政”。 | 将社会与文化边界还原为“民族国家领土边界”。 | 将宽泛的教育功能与形式还原为“正规学校教育”。 |
@@ -105,7 +106,7 @@ updated: 2026-09-24
 > [!concept-lens] 治理转向与去国家化
 > 这一命题探讨为何传统的国家政策[[Analytic Framework\|分析框架]]在解释全球化改革时失效。
 
-> [!claim] Dale, R. & Robertson, S.
+> [!claim] [[Roger Dale|Dale, R.]] & Robertson, S.
 > **多边主义与去中心治理的崛起** 指出，在跨国资本主义和全球化背景下，教育政策的制定权正在经历“向上让渡”（至超国家组织）与“向下扩散”（至地方和市场主体）。如果研究者依然固守方法论国家主义，仅仅在“国家教育部做出了什么决定”的层面开展比较，就无法看清诸如 [[OECD]] 等机构通过 benchmarking 数据行使的**[[Governing at a Distance\|远处治理]]**。这不仅是一种学术上的[[Epistemology\|认识论]]落后，更在客观上配合了新自由主义地缘政治将实质性治理冲突“技术化”和“去政治化”的策略。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
 
 ---
@@ -113,7 +114,7 @@ updated: 2026-09-24
 ## 概念演变
 
 > [!dev-timeline] 发展脉络
-> - **2005 — 概念系统化** Roger Dale 撰文讨论全球化对教育研究方法论的挑战，系统界定了方法论 statism，并与 nationalism、educationism 结盟，构成教育社会学批判的基础。 (Dale, 2005)
+> - **2005 — 概念系统化** [[Roger Dale]] 撰文讨论全球化对教育研究方法论的挑战，系统界定了方法论 statism，并与 nationalism、educationism 结盟，构成教育社会学批判的基础。 (Dale, 2005)
 > - **2009 — 去国家中心框架细化** Dale and Robertson 进一步论证全球化时代教育“三大治理功能”（提供、资助、监管）在多边组织中的解耦，清算学科内的方法论 ISMS。
 > - **2023 — 理性主义国关传统的结合** Klerides 指出在理性主义传统下，比较教育必须摆脱方法论国家主义的限制，将研究对象从“ mass schooling ”和“ state-run systems ”解放出来，彻底转向[[Relational Space\|关系空间]]和[[Policy Mobility\|政策流动]]的[[Network Analysis\|网络分析]]。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
 

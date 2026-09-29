@@ -29,6 +29,7 @@ related_concepts:
   - "[[Encyclopaedism]]"
   - "[[Rationalism in International Relations]]"
   - "[[Epistemology]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Cultural Capital]]"
   - "[[Paradigm]]"
   - "[[Scientific Paradigm]]"
@@ -97,7 +98,7 @@ updated: 2026-09-17
 > | 维度 | 法国 · 普通文化（*Culture Générale*） | 德国 · 精神教化（[[Bildung]]） | 英国 · 自由教育（[[Liberal Education]]） | 希腊 · 古典教化（[[Paideia]]） |
 > |---|---|---|---|---|
 > | **思想哲学渊源** | [[René Descartes\|笛卡尔]][[Rationalism in International Relations\|理性主义]]与 19 世纪折衷主义 | 德国唯心主义、新人文主义与狂飙突进 | [[Aristotle\|亚里士多德]]博雅传统与绅士品格伦理 | 古希腊城邦公民沉思与至善和谐德性 |
-> | **心理与[[Epistemology\|认识论]]基础** | [[Faculty Psychology\|官能心理学]]与心智训练（文理融通） | 精神科学、辩证否定与内在主体性觉醒 | 自由学术的超功利性与文雅品味熏陶 | 灵魂转向、智性沉思与身心和谐统一 |
+> | **心理与[[Epistemology\|认识论]]基础** | [[Faculty Psychology\|官能心理学]]与心智训练（文理融通） | [[Geisteswissenschaften\|精神科学]]、辩证否定与内在主体性觉醒 | 自由学术的超功利性与文雅品味熏陶 | 灵魂转向、智性沉思与身心和谐统一 |
 > | **核心制度载体** | 国立文理中学（Lycée）、大学校预科与高中会考 | 文理中学（Gymnasium）与洪堡式研究型大学 | 顶层公学（Public Schools）与牛剑古典学院 | 古典文法中学（Gymnasia）与哲学学院 |
 > | **社会政治功能** | 为中央集权国家选拔具备卓越行政才能的官僚精英 | 塑造追求纯粹真理的学者与忠诚负责的民族公民 | 培育服务大英帝国政治治理与道德教化的绅士领袖 | 培养具有城邦奉献精神与城邦美德的政治公民 |
 

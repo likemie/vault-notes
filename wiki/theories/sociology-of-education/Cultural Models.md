@@ -40,7 +40,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Paradigm]]"
 related_theories:
-  - "[[Stanford School]]"
   - "[[World Society Theory]]"
   - "[[Human Capital Theory]]"
   - "[[Hegemony]]"
@@ -56,12 +55,14 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons:
+  - "[[Stanford School]]"
   - "[[Jin Li]]"
   - "[[John W. Meyer]]"
   - "[[Robert Arnove]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Socrates]]"
+  - "[[Aaron Benavot]]"
 related_facts:
   - "[[UNESCO]]"
   - "[[World Bank]]"
@@ -108,7 +109,7 @@ updated: 2026-09-29
 
 > [!dev-timeline] 理论演变与扩展
 > - **1987 — 人类学认知模型确立** Holland & Quinn 出版《语言与文化中的文化模型》，确立了文化图式作为知识组织和意义建构共享工具的理论地位。
-> - **1992 — 基础教育课程范畴的世界模型** 迈耶、卡门斯与贝纳沃特（Meyer, Kamens, & Benavot, 1992）出版《大众学校知识》，系统证明全球各国在小学课程门类与数理课时分配上高度趋同，确立了世界文化模型在具体知识体制中的扩散证据。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 108)]]
+> - **1992 — 基础教育课程范畴的世界模型** 迈耶、卡门斯与[[Aaron Benavot|贝纳沃特]]（Meyer, Kamens, & Benavot, 1992）出版《大众学校知识》，系统证明全球各国在小学课程门类与数理课时分配上高度趋同，确立了世界文化模型在具体知识体制中的扩散证据。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 108)]]
 > - **1997 — 宏观世界文化模型扩展与孤岛实验** 迈耶等（Meyer et al., 1997）提出著名的孤岛思想实验（Island Society Experiment），论证即使是孤立社会被发现后也会自发建立宪法、人权、民主与正规学校，确立了现代世界文化模型的弥漫性特征。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 103–104)]]
 > - **2009 — 批判政治经济学解构与本土折射** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]批判性检视了世界文化模型中的四项核心信念；阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）系统揭示普世文化模型掩盖核心-边缘不平等的阶级属性，并引入微观民族志说明地方行动者对全球模型的变通与抵制。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–76)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–109)]]
 > - **2012 — 学习文化模型实证体系成型** 李瑾系统构建了西方“心智倾向”（Mind Orientation）与东亚“美德倾向”（Virtue Orientation）学习文化模型的实证对偶框架。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 87–105)]]

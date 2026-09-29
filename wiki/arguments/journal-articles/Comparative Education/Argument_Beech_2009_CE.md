@@ -43,6 +43,7 @@ related_concepts:
   - "[[Symbolic Boundary]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Rote Learning]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Technical Rationality]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -67,6 +68,7 @@ related_facts:
   - "[[Bolivian Education Reform 1994]]"
   - "[[UNICEF]]"
   - "[[Education International]]"
+  - "[[International Monetary Fund]]"
 related_arguments: []
 sources:
   - "[[sources/Beech_2009_CE|Beech_2009_CE]]"
@@ -265,7 +267,7 @@ Castells 据此区分了两种空间逻辑：
 #### 1.1 谁在参与：多元行动者与流动的网络
 
 > [!actor-grid] 全球教育政策空间中的四类主要行动者
-> - **国际多边机构**[[OECD]]、[[World Bank\|世界银行]]、[[UNESCO]]、国际货币基金组织（International Monetary Fund，IMF）等。它们之间有悠久的协作历史，但竞争和势力范围的划分同样显著(Jones & Coleman, 2005, 引自 p.351)。
+> - **国际多边机构**[[OECD]]、[[World Bank\|世界银行]]、[[UNESCO]]、[[International Monetary Fund|国际货币基金组织]]（International Monetary Fund，IMF）等。它们之间有悠久的协作历史，但竞争和势力范围的划分同样显著(Jones & Coleman, 2005, 引自 p.351)。
 > - **[[Global Citizenship\|全球公民]]社会与非政府组织（Non-Governmental Organization，NGO）** 多边组织越来越多地与被视作新兴"全球公民社会"代表的 NGO 协作，形成跨国倡导联盟(Mundy & Murphy, 2001, p.86, 引自 p.351)。
 > - **跨国教育服务企业** 以 剑桥教育（Cambridge Education） 为代表的私营公司，向泰国、中国省级政府、美国各州及孟加拉国、柬埔寨等地直接出售“教育政策方案”(Ball, 2009)。
 > - **智库与亲市场基金会** 如 弗雷泽研究所（Fraser Institute）、邓普顿基金会（John Templeton Foundation，Templeton Foundation）、卡托研究所（Cato Institute）和 弗里德曼基金会（Friedman Foundation），为跨国企业在各地的政策咨询和公共服务角色提供理论与合法性支持(Ball, 2007, 2009)。
@@ -355,7 +357,7 @@ Castells 据此区分了两种空间逻辑：
 > [!case] 巴西 1990 年代课程改革：革新与保守的共存
 > 1990 年代阿根廷、巴西和智利的中等教育改革中，官方修辞强烈批判传统的百科全书主义（强调事实知识的[[Rote Learning\|死记硬背]]），宣布转向“能力导向课程”(Braslavsky, 1998; Berger Filho, 2001; Cox, 2004)。
 > 
-> 巴西教育部（Ministerio da Educação，MEC，1998）出台的中等教育指南将课程重组为三大领域（语言、自然科学与数学、人文科学及其技术），并大力宣传“跨学科工作（interdisciplinary work）”的革新口号，以打破去语境化、割裂的传统分科模式。
+> 巴西教育部（Ministerio da Educação，MEC，1998）出台的中等教育指南将课程重组为三大领域（语言、自然科学与数学、[[Geisteswissenschaften|人文科学]]及其技术），并大力宣传“跨学科工作（interdisciplinary work）”的革新口号，以打破去语境化、割裂的传统分科模式。
 > 
 > 然而，深入分析其课程文件的细则会发现：虽然在名义上以三大跨学科领域为基本结构，但每一个领域内部又被细分为多个传统科目（如物理、化学、历史等）。所有这些科目加在一起，不多不少正好是 14 门，与改革前的百科全书式分科结构完全相同。跨学科能力发展（革新）与百科全书式分科知识（保守）在同一份官方文件中达成了奇妙的和平共存(p.356)。
 

@@ -33,6 +33,8 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Sigrid Hartong]]"
+  - "[[Susan L. Robertson]]"
+  - "[[Roger Dale]]"
   - "[[John Allen]]"
 related_facts:
   - "[[OECD]]"
@@ -126,7 +128,7 @@ updated: 2026-09-18
 > [!concept-lens] 领土政治与多层级博弈维度
 > 剖析全球化与尺度重组过程中地方路径依赖、国家主权强化与次国家防御的复杂共存状态。
 
-> [!claim] Brenner, N.; [[Sigrid Hartong\|Hartong, S.]]; Robertson, S. L.
+> [!claim] Brenner, N.; [[Sigrid Hartong\|Hartong, S.]]; [[Susan L. Robertson|Robertson, S. L.]]
 > **尺度重组中的领土防御与制度妥协** 尺度重组决非线性的去国家化，而是伴随着强烈的再领土化（Re-territorialisation）防御与制度再协商。在德国个案中，尽管 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 与 IQB 建立了跨尺度的统一测评网络，但各联邦州依然牢牢掌控着[[School Inspection\|学校督导]]权与具体人事财政权，并在法律上明文禁止发布公立学校绩效排行榜，以捍卫各州的文化主权（Kulturhoheit）。这表明尺度重组是在旧有的制度路径依赖与新型跨尺度治理技术之间的持续博弈与妥协构型（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 140–145]]）。
 
 ---
@@ -145,7 +147,7 @@ updated: 2026-09-18
 
 > [!dev-timeline] 尺度重组概念的理论演进
 > - **1990 年代末–2004 年 — 批判性城市与国家空间地理学奠基** 尼尔·布伦纳（Neil Brenner）在《新国家空间》（*New State Spaces*, 2004）中系统提出国家尺度重组理论，批判全球化导致国家终结的肤浅论断，提出国家空间性的多标量重构。
-> - **2000 年代中后期 — 引入批判性比较教育学** 苏珊·罗伯逊（Susan Robertson）与罗杰·戴尔（Roger Dale）将尺度重组框架引入全球教育政策研究，提出“教育集合体”（Education Ensembles）与跨国空间治理。
+> - **2000 年代中后期 — 引入批判性比较教育学** [[Susan L. Robertson|苏珊·罗伯逊]]（Susan Robertson）与[[Roger Dale|罗杰·戴尔]]（Roger Dale）将尺度重组框架引入全球教育政策研究，提出“教育集合体”（Education Ensembles）与跨国空间治理。
 > - **2010 年代至今 — 数字化与拓扑学转向的融合** [[Sigrid Hartong\|西格丽德·哈通]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）等学者将尺度重组与[[John Allen\|约翰·艾伦]]（John Allen）的[[Topological Spatialisation\|拓扑空间化]]理论有机融合，开创了通过[[Data Infrastructure\|数据基础设施]]分析政策尺度重构的微观技术视角。
 
 ---

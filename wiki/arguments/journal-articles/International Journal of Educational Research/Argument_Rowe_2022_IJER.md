@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Policy Mobility]]"
   - "[[Going Native]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Social Impact Investing]]"
@@ -229,7 +230,7 @@ SVA 作为全澳最大的社会创投机构，管理着 1.5 亿澳元基金，�
 > ![](https://img.mylikemie.icu/sources/Rowe_2022_IJER/figures/Rowe_2022_IJER_Fig4_AERO_Directors_Coaffiliations.jpg)
 
 > [!feature] AERO 核心董事的跨界多重网络从属（pp. 9–10）
-> - **莉萨·奥布莱恩（Lisa O'Brien）** AERO 董事会主席，曾于 2011–2013 年担任 SVA 董事，长期主导慈善与公共政策交叉领域的非营利机构运营。
+> - **莉萨·奥布莱恩（Lisa O'Brien）** AERO 董事会主席，曾于 2011–2013 年担任 SVA 董事，长期主导慈善与公共政策[[Comparative Education as a Cross-Sectional Area|交叉领域]]的非营利机构运营。
 > - **[[Sir Kevan Collins\|柯文·科林斯爵士]]（Sir Kevan Collins）** 英国 EEF 创设时期的首任首席执行官，直接将英国有效性运动的治理[[Paradigm\|范式]]与工具体系输入澳大利亚。
 > - **罗杰·马西-格林（Roger Massy-Greene）** AERO 董事，力拓集团（Rio Tinto）与美洲银行前高管，自 2015 年起作为 SVA 的长期主要捐赠人（[[Australian Schools Plus\|Schools Plus]] 慈善先锋网络）；其配偶 Belinda Hutchinson 担任 SVA 子公司[[Australian Philanthropic Services\|澳大利亚慈善服务社]]（APS）董事，与 David Gonski 及 [[Michael Traill]] 长期共事。
 > - **莱斯利·洛布尔（Leslie Loble）** 保罗·拉姆齐基金会（Paul Ramsay Foundation）会士，而该基金会董事会主席正是 SVA 前首席执行官 Michael Traill，董事包括 SVA 联合创始人 Rob McLean。

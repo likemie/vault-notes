@@ -37,6 +37,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Hypothesis]]"
   - "[[Value Neutrality]]"
+  - "[[Geisteswissenschaften]]"
 related_theories:
   - "[[Cognitive Constructivism]]"
 related_methods:
@@ -193,7 +194,7 @@ updated: 2026-09-06
 > > 20 世纪下半叶科学实证派与现代思想史学派对[[Marc-Antoine Jullien\|朱利安]]问卷中大量关于官能培养的设问做出了截然对立的评判。
 > >
 > > - **Noah & Eckstein (1969)** 严厉批评朱利安问卷充斥着“引导性提问与主观偏见”，指责其在智育设问中强行将拉罗米吉埃的三官能学说预设为绝对真理，严重违背了[[Value Neutrality\|价值无涉]]与客观数据收集的科学规范。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 16–17)]]
-> > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]]** 批驳实证派的时代倒错：朱利安处于启蒙现代性发轫期，其科学观植根于欧陆整全性的“人文精神科学（sciences humaines）”；运用当时最前沿的官能心理学设计题项，是为了探查学校是否有效克服经院死背并促进儿童全人发展，构成了极具历史开创性的跨国经验操作化。（pp. 17–18）
+> > - **[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]]** 批驳实证派的时代倒错：朱利安处于启蒙现代性发轫期，其科学观植根于欧陆整全性的“人文[[Geisteswissenschaften|精神科学]]（sciences humaines）”；运用当时最前沿的官能心理学设计题项，是为了探查学校是否有效克服经院死背并促进儿童全人发展，构成了极具历史开创性的跨国经验操作化。（pp. 17–18）
 
 > [!warning] 未解问题与理论局限
 > 官能心理学最大的理论盲区在于其朴素的形式训练（Formal Discipline）与心智肌肉隐喻：它错误地[[Hypothesis\|假设]]大脑存在一套脱离具体知识内容的通用逻辑肌肉，导致其后续衍生出的极端口径盲目迷信死记古典语法规则对心智的锻炼价值，从而在 19 世纪后期逐渐异化为阻碍现代自然科学与实用知识进入中学课程的保守借口。

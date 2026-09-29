@@ -359,7 +359,7 @@ updated: 2026-09-28
 > > - **法定单项门槛派（ESSA Section 8101）** 主张只要有 1 项良好设计的实验或准实验证明正向效果即可赋予法律准入资格，以降低地方学区行政搜寻成本并包容早期探索。
 > > - **全量证据综合派（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024]]; ED, 2016）** 证实单项合格门槛营造了 95% 以上资金合规的繁荣假象，实质导致逾四成公款被锁定在缺乏稳定证据支持的实践中；必须建立整合多源实证异质性与适用学段的全量证据综合评价机制。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 163, 177–180)]]
 
-> [!citation-card] [[Mark Schneider\|施奈德]]论拆解干预构件与终结混杂药丸袋黑箱
+> [!citation-card] 施奈德论拆解干预构件与终结混杂药丸袋黑箱
 > 许多教育干预完全就像一袋混杂的药丸：由一大堆构件拼凑而成，其中许多构件从未被清晰识别过，更谈不上被独立评估。[[Institute of Education Sciences\|IES]] 正全力推动教育研究者明确界定干预的各项构件，进而分离每一项构件的独立效应与实施成本。（p. 207）
 >
 > *Yet, far too many education interventions are exactly like the bag of pills – a collection of parts, many of which have never been clearly identified, let alone evaluated. IES has been pushing hard to get education researchers to identify the components of an intervention and then work to isolate the effects (and the costs) of each component.*

@@ -27,6 +27,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Compensatory Legitimation]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Educational Multilateralism]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemic Agency]]"
   - "[[International Education]]"
@@ -58,8 +59,10 @@ related_instruments: []
 related_persons:
   - "[[Philip H. Coombs]]"
   - "[[Robert Arnove]]"
+  - "[[John W. Meyer]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Liliana Esther Olmos]]"
+  - "[[Stephen P. Heyneman]]"
 related_facts:
   - "[[Education for All]]"
   - "[[UN Sustainable Development Goals]]"
@@ -104,7 +107,7 @@ updated: 2026-09-29
 > [!dev-timeline]- 组织发展历程
 > - **1945–1965 — 战后人权奠基与有限再分配性多边主义** 作为二战结束时全球仅存的两大涉教育国际组织之一（另一为[[International Labour Organization|国际劳工组织]]，ILO），致力于战后废墟重建与基本扫盲；1948 年推动《世界人权宣言》将第 26 条受教育权写入国际法；卡伦·蒙迪（Mundy, 1998）指出，这一时期确立了以教科文组织为中枢的“有限再分配性多边主义”（Limited Redistributive Multilateralism），强调人道主义价值与社会福利，支持新兴独立国家建设公共教育体系；1963 年在巴黎建立[[International Institute for Educational Planning|国际教育规划研究所]]（IIEP），由[[Philip H. Coombs|菲利普·库姆斯]]掌舵，开启对第三世界新建国家的规划官僚培训业务。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541, 543)]]
 > - **1965–1980 — 争辩性多边主义、[[World Bank|世行]]合作与人文路线分立** 发展中国家掀起不结盟运动并要求建立国际经济新秩序（NIEO），主导了“争辩性多边主义”（Contested Multilateralism）阶段，教科文组织成为亚非拉国家争取国家社会福利发展模式与教育去殖民化的主要讲坛；与此同时，1964 年与世界银行签署《合作协定》（Co-operative Agreement），为世行初入教育借贷提供专业技术团队背书；然而双方在理念上发生深刻断裂——教科文组织坚持人文主义与普遍受教育权，断然拒绝世行将学校沦为单一经济产出投入要素的功利算计；1980 年世行正式发表政策文件宣告独立，终结对教科文组织的业务依赖。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, pp. 541–542)]]。在此期间，教科文组织在第三世界开展大规模区域教育普查（如 CEPAL/PNUD/UNESCO 1981 拉美项目），其 1974 年区域统计揭示了拉美外围国家中高等教育膨胀与初等扫盲停滞的畸形结构，为批判学者剖析外围[[Conditioned State Theory|受限国家]]的双轨教育与[[Compensatory Legitimation|补偿性合法化]]提供了关键实证基准。[[Argument_Olmos_Torres_2009_StateTheories|(UNESCO, 1974, cited in Olmos & Torres, 2009, pp. 81–82)]]
-> - **1980–2000 — [[Disciplina and Doctrina|规训]]性多边主义冲击、财政边缘化与《[[Education for All|全民教育]]》（[[Exploratory Factor Analysis|EFA]]）** 美英等国因不满新世界信息秩序相继于 1984–1985 年退约并冻结经常性会费，全球教育多边主义转入新自由主义主导的“防卫性与规训性多边主义”（Defensive and Disciplinary Multilateralism），教科文组织在设定全球教育政策方向上的主导权被信贷资本雄厚的世界银行所取代；面对话语与财政边缘化，教科文组织于 1990 年在泰国宗迪恩联合发起《世界全民教育大会》（EFA），1996 年发布里程碑式《德洛尔报告》（*Learning: The Treasure Within*），确立教育四大支柱，并深刻指出技术变革与经济全球化正在迅速侵蚀既有社会政策、工作结构与全球公平；1999 年在蒙特利尔成立统计研究所（[[UNESCO Institute for Statistics|UIS]]），奠定联合国统一教育统计基石。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]; [[Argument_Arnove_2009_WorldSystems|(Mundy, 1998, 1999; Heyneman, 2003, cited in Arnove, 2009, p. 110)]]
+> - **1980–2000 — [[Disciplina and Doctrina|规训]]性多边主义冲击、财政边缘化与《[[Education for All|全民教育]]》（[[Exploratory Factor Analysis|EFA]]）** 美英等国因不满新世界信息秩序相继于 1984–1985 年退约并冻结经常性会费，全球[[Educational Multilateralism|教育多边主义]]转入新自由主义主导的“防卫性与规训性多边主义”（Defensive and Disciplinary Multilateralism），教科文组织在设定全球教育政策方向上的主导权被信贷资本雄厚的世界银行所取代；面对话语与财政边缘化，教科文组织于 1990 年在泰国宗迪恩联合发起《世界全民教育大会》（EFA），1996 年发布里程碑式《德洛尔报告》（*Learning: The Treasure Within*），确立教育四大支柱，并深刻指出技术变革与经济全球化正在迅速侵蚀既有社会政策、工作结构与全球公平；1999 年在蒙特利尔成立统计研究所（[[UNESCO Institute for Statistics|UIS]]），奠定联合国统一教育统计基石。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]; [[Argument_Arnove_2009_WorldSystems|(Mundy, 1998, 1999; Heyneman, 2003, cited in Arnove, 2009, p. 110)]]
 > - **2000–2020 — [[UN Sustainable Development Goals|SDG 4]] 全球协调中枢与数字时代再平衡** 2000 年达喀尔行动框架确立 EFA 六大目标并建立年度监测机制；2015 年仁川世界教育论坛通过《教育 2030 行动框架》，被联合国大会指定为《2030 年可持续发展议程》中第四项目标（[[UN Sustainable Development Goals|SDG 4]]）的全球牵头与协调机构；2021 年发布《共同重新构想我们的未来：一种新的教育社会契约》，联合世行、[[UNICEF]] 发起[[Learning Data Compact|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541, 545)]]
 > - **2023–至今 — 人工智能时代的以人为本教育治理与主体性倡导** 针对[[Generative Artificial Intelligence|生成式人工智能]]引发的教育变革，相继发布《生成式人工智能在教育与研究中的应用指南》（2023）与《学生及教师人工智能能力框架》（2024），强调技术应用必须捍卫人类的[[Epistemic Agency|认识主体性]]与伦理问责，防范技术依赖导致的批判力削弱。[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 358–360)]]
 
@@ -200,7 +203,7 @@ updated: 2026-09-29
 > | [[UN Sustainable Development Goals]] | 事实 (政策) | 教科文组织被联大指定为全球教育目标（SDG 4）的唯一牵头与协调中枢。 |
 > | [[1960 Bellagio Conference]] | 事实 (峰会) | 催生 IIEP 成立与西方多边教育援助共识的标志性峰会。 |
 > | [[Development Turn in Comparative Education]] | 概念 | 刻画战后 UNESCO 与世行向全球南方推动现代教育扩张的历史转向。 |
-> | [[Global Education Governing Complex]] | 概念 | 教科文组织作为五巨头之一参与其中的全球多边教育治理网络。 |
+> | [[Global Education Governing Complex]] | 概念 | 教科文组织作为五巨头之一参与其中的全球[[Educational Multilateralism\|多边教育治理]]网络。 |
 > | [[Lifelong Learning]] | 概念 | 教科文组织通过朗格朗报告与德洛尔报告推向全球的标志性教育哲学理念。 |
 > | [[Dual School System]] | 概念 | 教科文组织 1974 年统计实证证明了第三世界中高等精英通道与初等大众文盲并存的客观外围双轨现实。 |
 > | [[Conditioned State Theory]] | 理论 | [[Critical Pedagogy\|批判教育学]]者结合教科文组织历史统计，建构外围受限国家教育扩张与合法化矛盾的宏观理论。 |
@@ -215,7 +218,7 @@ updated: 2026-09-29
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合蒙迪（Mundy, 1998, 1999）与海尼曼（Heyneman, 2003）研究，梳理多边主义从有限再分配向[[Disciplina and Doctrina|规训]]性阶段演进中教科文组织主导权的[[Attrition|流失]]，并辨析其 6-3-3 学制模板与儿童中心教学规范在本土落地时的适切性张力（pp. 106, 108, 110）。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合蒙迪（Mundy, 1998, 1999）与[[Stephen P. Heyneman|海尼曼]]（Heyneman, 2003）研究，梳理多边主义从有限再分配向[[Disciplina and Doctrina|规训]]性阶段演进中教科文组织主导权的[[Attrition|流失]]，并辨析其 6-3-3 学制模板与儿童中心教学规范在本土落地时的适切性张力（pp. 106, 108, 110）。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 剖析教科文组织与[[World Bank|世界银行]]从 1964 年合作协定到[[Paradigm|范式]]分道扬镳的组织演进历程，揭示其在当代全球[[Learning Data Compact|学习数据契约]]中的再平衡定位（pp. 541–545）。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 援引教科文组织历史宏观教育普查数据，揭示第三世界外围[[Conditioned State Theory|受限国家]]中高等教育膨胀与基础教育停滞的结构性矛盾（pp. 81–83）。
 > - [[Argument_Wu_2025_ER|Wu et al. (2025)]] — 评析教科文组织在人工智能时代推出的[[Generative Artificial Intelligence|生成式人工智能]]应用指南与师生能力框架，强调捍卫[[Epistemic Agency|认识主体性]]与伦理底线（pp. 358–360）。

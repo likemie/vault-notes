@@ -24,6 +24,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Artefact]]"
   - "[[Lifelong Learning]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Informationalization]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Normal School]]"
@@ -52,6 +53,7 @@ related_facts:
   - "[[National Assessment of Educational Progress]]"
   - "[[Institute of Education Sciences]]"
   - "[[Comparative and International Education Society]]"
+  - "[[British Association for International and Comparative Education]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
@@ -283,7 +285,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > | [课程·教材·教法](https://navi.cnki.net/knavi/journals/KJJF/detail) | 人民教育出版社主办，中小学课程改革与教材教法理论研究 |
 > | [清华大学教育研究](https://navi.cnki.net/knavi/journals/QHDJ/detail) | 清华大学主办，高等教育理论与工程教育学科前沿 |
 > | [全球教育展望](https://navi.cnki.net/knavi/journals/WGJN/detail) | 华东师范大学主办，比较课程论与国际教育发展前沿 |
-> | [苏州大学学报（教育科学版）](https://navi.cnki.net/knavi/journals/SZJK/detail) | 苏州大学主办，教育哲学、实证探索与交叉学科研究 |
+> | [苏州大学学报（教育科学版）](https://navi.cnki.net/knavi/journals/SZJK/detail) | 苏州大学主办，教育哲学、实证探索与[[Comparative Education as a Cross-Sectional Area\|交叉学科]]研究 |
 > | [特殊教育研究学刊](https://specedu.ntnu.edu.tw/) | 国立台湾师范大学特殊教育学系主办，特殊教育核心学术期刊（TSSCI / CSSCI 来源） |
 > | [外国教育研究](https://navi.cnki.net/knavi/journals/WGJY/detail) | 东北师范大学主办，各国教育制度变革与国际比较研究 |
 > | [现代大学教育](https://navi.cnki.net/knavi/journals/YSJG/detail) | 中南大学、湖南省高等教育学会主办，高等教育理论与文化研究 |
@@ -326,7 +328,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > | [比较教育学报](https://navi.cnki.net/knavi/journals/BJJX/detail) | — | 1982 | 上海师范大学主办，比较教育理论与国别区域教育研究（CSSCI 扩展版） |
 > | [Comparative Education Review](https://www.journals.uchicago.edu/toc/cer/current) | 比较教育评论 | 1957 | 美国[[Comparative and International Education Society\|比较与国际教育学会]]（Comparative and International Education Society, CIES）主办，芝加哥大学出版社出版 |
 > | [Comparative Education](https://www.tandfonline.com/toc/cced20/current) | 比较教育 | 1964 | 英国牛津大学与伦敦国王学院学者主编，Taylor & Francis 出版 |
-> | [Compare](https://www.tandfonline.com/toc/pcom20/current) | 比较 | 1970 | 英国国际与比较教育协会（British Association for International and Comparative Education, BAICE）主办，Taylor & Francis 出版 |
+> | [Compare](https://www.tandfonline.com/toc/pcom20/current) | 比较 | 1970 | 英国国际与比较教育协会（[[British Association for International and Comparative Education]], BAICE）主办，Taylor & Francis 出版 |
 > | [Globalisation, Societies and Education](https://www.tandfonline.com/toc/cgse20/current) | 全球化、社会与教育 | 2003 | Taylor & Francis 出版，聚焦全球化背景下的教育、社会与国际政治经济学前沿 |
 
 > [!index-table] 搜索引擎

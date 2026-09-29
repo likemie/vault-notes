@@ -44,6 +44,7 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Rationalism in International Relations]]"
   - "[[Knowledge Questions]]"
   - "[[Open-Mindedness]]"
@@ -498,7 +499,7 @@ updated: 2026-08-17
 > 1. **语言与逻辑** 原称逻辑符号，后来修订为 Language and Logic。
 > 2. **科学活动与科学概念的形成** 通过示例考察科学知识怎样产生。
 > 3. **数学与现实** 讨论数学形式与现实世界之间的关系。
-> 4. **人文科学的构成** 通过一个例子分析人文科学如何建立研究对象和解释。
+> 4. **[[Geisteswissenschaften|人文科学]]的构成** 通过一个例子分析人文科学如何建立研究对象和解释。
 > 5. **历史知识** 考察史料、解释、视角与历史主张的根据。
 > 6. **道德与政治判断的性质和基础** 区分事实陈述、价值判断及其论证根据。
 > 7. **审美判断的性质和基础** 探索审美经验是否以及如何获得公共讨论的理由。

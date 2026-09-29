@@ -37,6 +37,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Vergegenkunft]]"
   - "[[Educational Technology Industry]]"
+  - "[[Virtual University]]"
   - "[[Lifelong Learning]]"
   - "[[Learning Analytics]]"
   - "[[Learner Autonomy]]"
@@ -161,7 +162,7 @@ citation_aliases:
 >
 > Amos 拆解了数字化被推动的三重动机，只有理解了这三重动机的同时运作，才能理解为什么数字化是"不可逆"的(pp.56–57)：
 >
-> **(1) 利润（Profit）** EdTech 是门大生意，股票市场份额持续增长。Google、Apple、Microsoft 都设有庞大的教育部门。K-12 领域有 Sylvan Learning Systems et al.提供商；高等教育领域有 Udacity et al.虚拟大学，通常绑定[[Lifelong Learning\|终身学习]]（lifelong learning）叙事。
+> **(1) 利润（Profit）** EdTech 是门大生意，股票市场份额持续增长。Google、Apple、Microsoft 都设有庞大的教育部门。K-12 领域有 Sylvan Learning Systems et al.提供商；高等教育领域有 Udacity et al.[[Virtual University|虚拟大学]]，通常绑定[[Lifelong Learning\|终身学习]]（lifelong learning）叙事。
 >
 > > 例：Google 的 Jaime Casap 被称为"教育布道者"（education evangelist），在全球平台上推广 Google 教育工具。他不仅仅是"卖产品"——他是在塑造一种信念：技术是教育问题的解决之道。当 Google Classroom 被免费提供给学校，谷歌获得的不是直接收入，而是下一代用户的数据和习惯——这就是"利润"逻辑的深层运作方式。(p.57)
 >

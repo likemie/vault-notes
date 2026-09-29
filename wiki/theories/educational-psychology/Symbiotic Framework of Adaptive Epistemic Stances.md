@@ -23,6 +23,7 @@ related_concepts:
   - "[[Cognitive Offloading]]"
   - "[[Epistemology]]"
   - "[[Epistemic Agency]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Epistemic Stances]]"
   - "[[Assemblage]]"
   - "[[Homework]]"
@@ -76,7 +77,7 @@ updated: 2026-09-23
 > - **解释对象** 学习者与[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）交互时的[[Epistemic Cognition\|认识论认知]]机制、[[Knowledge Building Theory|知识建构]]过程与人机权能分配模式。
 > - **理论问题** 生成式大模型输出的流畅性与打包性易导致学习者产生盲目顺从与[[Cognitive Offloading\|认知卸载]]，传统个体[[Epistemology\|认识论]]发展理论无法解释人机技术中介下[[Epistemic Agency\|认识能动性]]的重构与分化。
 > - **理论类型** 整合解释性机制与教学干预维度的学习科学理论框架。
-> - **知识位置** 处于[[Epistemic Cognition\|认识论认知]]、人机交互与教育技术学的交叉领域，直接承袭并发展了[[Chin-Chung Tsai\|蔡今中]]（Chin-Chung Tsai, 2004）的网络学习认识论假说。
+> - **知识位置** 处于[[Epistemic Cognition\|认识论认知]]、人机交互与教育技术学的[[Comparative Education as a Cross-Sectional Area|交叉领域]]，直接承袭并发展了[[Chin-Chung Tsai\|蔡今中]]（Chin-Chung Tsai, 2004）的网络学习认识论假说。
 
 > [!claim] 核心判断
 > 人机协同学习并非单向的人类操纵机器或算法替代人类，而是一个人机共享认识能动性的共生系统；学习者能否在人机交互中实现深层认知理解，取决于其[[Epistemic Stances\|认识立场]]、先验知识与知识辩护方式的适配程度，且唯有依托系统化教学反思支架与技术提示，频繁的人机交互才能有效促进学习者认识立场向评价论演进。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360, 364–366)]]

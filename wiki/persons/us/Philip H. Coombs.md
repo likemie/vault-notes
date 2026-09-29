@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Cultural Diplomacy]]"
+  - "[[Educational Multilateralism]]"
   - "[[Paradigm]]"
   - "[[Policy Brokerage]]"
   - "[[Technology Deficit of Education]]"
@@ -55,7 +56,7 @@ updated: 2026-09-17
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国经济学家、高级外交官、[[International Education\|国际教育]]规划学奠基人，冷战时期美国跨国[[Cultural Diplomacy\|文化外交]]与国际多边教育治理的核心架构师。
+> - **身份位置** 美国经济学家、高级外交官、[[International Education\|国际教育]]规划学奠基人，冷战时期美国跨国[[Cultural Diplomacy\|文化外交]]与国际[[Educational Multilateralism|多边教育治理]]的核心架构师。
 > - **核心角色** 兼具美国政府高官与联合国机构掌舵人双重身份，将西方[[Human Capital Theory\|人力资本]]经济学与跨国系统分析方法深度注入国际教育政策，开辟并制度化了全球“教育危机叙事”与多边规划[[Paradigm\|范式]]。
 > - **代表贡献** 创立[[International Institute for Educational Planning\|国际教育规划研究所]]（International Institute for Educational Planning，IIEP）并任首任所长；组织 1967 年[[1967 Williamsburg Conference on the World Crisis in Education\|威廉斯堡世界教育危机大会]]；出版里程碑著作《世界教育危机：系统分析》（*The World Education Crisis: A Systems Analysis*）。
 

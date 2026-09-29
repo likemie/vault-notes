@@ -24,6 +24,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Further Education]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Educational Multilateralism]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Knowledge Production]]"
   - "[[Open-Mindedness]]"
@@ -48,6 +49,7 @@ related_facts:
   - "[[World Trade Organization]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[International Schools Examination Syndicate]]"
+  - "[[International Monetary Fund]]"
   - "[[Academic Ranking of World Universities]]"
   - "[[Education International]]"
   - "[[English Schools Foundation Hong Kong]]"
@@ -187,7 +189,7 @@ updated: 2026-09-29
 > 探讨国际教育如何从战后人道主义与社会福利价值导向，演变为受跨国金融组织与自由贸易规则支配的规训性经贸系统。
 
 > [!claim] [[Robert Arnove|Arnove, R.]]
-> **从再分配多边主义到防卫性规训与经贸治理** 阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）梳理蒙迪（Mundy, 1998, 1999）对国际教育多边主义（Educational Multilateralism）历史演化的分析指出，国际教育绝非单纯的跨国人员流动或文化理解倡议，而是深刻嵌于全球政治经济格局中的制度化治理体系。战后初期（1945–1965 年），以联合国教育、科学及文化组织（[[UNESCO]]）为主导的“有限再分配性多边主义”强调人道主义价值与社会福利，支持新兴独立民族国家建立公共教育；1970 年代全球南方国家对不平等秩序展开抗争；自 1980 年代起，伴随债务危机与新自由主义崛起，国际教育治理转向以[[World Bank|世界银行]]（[[World Bank]]）为核心的“防卫性与规训性多边主义”，放弃再分配承诺，通过[[Structural Adjustment Programs|结构调整方案]]推行财政紧缩与市场化改革；至 1995 年[[World Trade Organization|世界贸易组织]]（[[World Trade Organization|WTO]]）成立并推行[[GATS and Trade in Education Services|服务贸易总协定]]（[[GATS and Trade in Education Services|GATS]]），国际教育进一步被纳入全球跨国服务贸易规制，使教育主权与公共服务面临前所未有的商品化穿透。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
+> **从再分配多边主义到防卫性规训与经贸治理** 阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）梳理蒙迪（Mundy, 1998, 1999）对[[Educational Multilateralism|国际教育多边主义]]（Educational Multilateralism）历史演化的分析指出，国际教育绝非单纯的跨国人员流动或文化理解倡议，而是深刻嵌于全球政治经济格局中的制度化治理体系。战后初期（1945–1965 年），以联合国教育、科学及文化组织（[[UNESCO]]）为主导的“有限再分配性多边主义”强调人道主义价值与社会福利，支持新兴独立民族国家建立公共教育；1970 年代全球南方国家对不平等秩序展开抗争；自 1980 年代起，伴随债务危机与新自由主义崛起，国际教育治理转向以[[World Bank|世界银行]]（[[World Bank]]）为核心的“防卫性与规训性多边主义”，放弃再分配承诺，通过[[Structural Adjustment Programs|结构调整方案]]推行财政紧缩与市场化改革；至 1995 年[[World Trade Organization|世界贸易组织]]（[[World Trade Organization|WTO]]）成立并推行[[GATS and Trade in Education Services|服务贸易总协定]]（[[GATS and Trade in Education Services|GATS]]），国际教育进一步被纳入全球跨国服务贸易规制，使教育主权与公共服务面临前所未有的商品化穿透。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
 ---
 
@@ -208,7 +210,7 @@ updated: 2026-09-29
 > [!dev-timeline] 国际教育与多边治理的演化脉络
 > - **国家教育的基线（20 世纪中期以前）** 中小学通常由地方税收支持并反映本地选民价值，大学名称、教育研究和资格制度也深嵌地区或国家。早期海外学校多是殖民或侨民“前哨”，把母国课程移植到境外，而非建立真正共同的国际课程。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 3–5, 19–24)]]
 > - **共同生活实验与战后有限再分配多边主义（1945–1970 年代）** 联合国教育、科学及文化组织（[[UNESCO]]）主导战后多边主义，强调教育人道价值与社会福利，支持新兴民族国家扫盲与公立教育建设。同时，[[International Schools|国际学校]]与人员流动扩大；1950–1960 年代大西洋学院开展跨文化实验，[[International Schools Examination Syndicate|ISES]] 与 IBO 推动课程、考试与大学承认网络建立；1970 年首批学生获 IB 成绩，1976 年海牙政府间会议将实验确立为常设国际组织。[[Argument_Peterson_1987_OpenCourt_Ch01|Peterson (1987, pp. 1–13)]]; [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, pp. 61–97)]]
-> - **债务危机与防卫性[[Disciplina and Doctrina|规训]]多边主义（1980 年代）** 全球南方债务危机爆发后，国际教育治理主导权自联合国教科文组织转向[[World Bank|世界银行]]与国际货币基金组织；多边机构放弃再分配承诺，通过[[Structural Adjustment Programs|结构调整方案]]推行财政紧缩、削减教育预算与收取学杂费，教育被重塑为服务经济增长的工具。[[Argument_Arnove_2009_WorldSystems|Arnove (2009, p. 110)]]
+> - **债务危机与防卫性[[Disciplina and Doctrina|规训]]多边主义（1980 年代）** 全球南方债务危机爆发后，国际教育治理主导权自联合国教科文组织转向[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]；多边机构放弃再分配承诺，通过[[Structural Adjustment Programs|结构调整方案]]推行财政紧缩、削减教育预算与收取学杂费，教育被重塑为服务经济增长的工具。[[Argument_Arnove_2009_WorldSystems|Arnove (2009, p. 110)]]
 > - **大众流动、[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 贸易规制与全球比较扩张（1990 年代至 2000 年代初）** 国际学生流动与海外分校急剧增长；1995 年世贸组织成立并实施服务贸易总协定（GATS），国际教育正式确立为跨国服务贸易门类，推动资格互认与边境壁垒清除；2000 年 [[PISA]] 与 2003 年[[Academic Ranking of World Universities|ARWU]] 等排名系统将全球大学置入共同测量序列。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 1–18, 22–28)]]; [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 110–111)]]
 > - **[[Hegemony|文化霸权]]、主权侵蚀与公平反思（21 世纪初至今）** 规模扩张暴露出跨文化师资匮乏与西方课程预设偏向，弱小受援国在超国家经贸规制下丧失教育宏观调控权，教育商品化加剧跨国与本土阶级分化；国际教育研究重心从单纯的“流动可行性”转向审视“[[Knowledge Production|知识生产]]权力、主权再谈判与全球教育正义”。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 17–18, 25–34)]]; [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 110–112)]]
 
@@ -283,4 +285,4 @@ updated: 2026-09-29
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Peterson_1987_OpenCourt|Peterson (1987, Chs. 1–4)]] — 从大西洋学院的共同生活和服务实践，追踪到教师倡议、独立组织、课程与考试设计，再以六年试验说明学校、资格承认、行政和资金如何把国际教育目标转化为常设制度。
 > - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] — 描述国际教育从国家绑定走向大众流动、全球比较、市场化和去国家化，并集中讨论文化预设、师资缺口与统计问题。
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 109–111)]] — 结合蒙迪（Mundy）与罗伯逊等人（Robertson et al.）的[[Pluri-Scalar Governance|多标度治理]]研究，系统考察国际教育多边主义从战后有限再分配向新自由主义[[Disciplina and Doctrina|规训]]与 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 跨国服务贸易的制度转变。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 109–111)]] — 结合蒙迪（Mundy）与罗伯逊等人（Robertson et al.）的[[Pluri-Scalar Governance|多标度治理]]研究，系统考察[[Educational Multilateralism|国际教育多边主义]]从战后有限再分配向新自由主义[[Disciplina and Doctrina|规训]]与 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 跨国服务贸易的制度转变。

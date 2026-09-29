@@ -29,6 +29,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Global Education Governing Complex]]"
+  - "[[Educational Multilateralism]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
   - "[[Educational Governance Framework]]"
@@ -172,7 +173,7 @@ updated: 2026-09-29
 > | [[Learning Data Compact]] | 事实 (项目) | 儿童基金会与[[UNESCO\|教科文组织]]、[[World Bank\|世界银行]]联手发起的学习数据全球契约。 |
 > | [[UN Sustainable Development Goals]] | 事实 (政策) | 儿童基金会共同推动并监督儿童受教育权与儿童福祉维度的发展目标。 |
 > | [[Building Evidence in Education]] | 事实 (机构) | 儿童基金会作为轮值联合国机构深度参与的跨国实证教育同盟。 |
-> | [[Global Education Governing Complex]] | 概念 | 儿童基金会作为五巨头之一深嵌其中的全球多边教育治理网络。 |
+> | [[Global Education Governing Complex]] | 概念 | 儿童基金会作为五巨头之一深嵌其中的全球[[Educational Multilateralism\|多边教育治理]]网络。 |
 > | [[Policy Brokerage]] | 概念 | 儿童基金会通过将[[Social-Emotional Learning\|社会情感学习]]和微观调查打造为全球规范的中介工具。 |
 > | [[Robert Arnove]] | 人物 | 在全球体系与比较教育分析中评述儿童基金会教师援助项目与基层能动性。 |
 > | [[Pluri-Scalar Governance]] | 理论 | 儿童基金会作为超国家行动者参与的多层级[[Educational Governance Framework\|教育治理理论]]。 |

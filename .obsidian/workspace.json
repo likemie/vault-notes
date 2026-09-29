@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/templates/template-school.md",
+                "file": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "template-school"
+              "title": "Argument_Arnove_2009_WorldSystems"
             }
           },
           {
@@ -272,6 +272,11 @@
   },
   "active": "3e17d8b5a663e069",
   "lastOpenFiles": [
+    "books/Cowen(Ed.)_2009_Springer/Ch09_Rust_Johnstone_Allaf_2009.md",
+    "books/Cowen(Ed.)_2009_Springer/Ch09_Rust_Johnstone_Allaf_2009.pdf",
+    "information/Journal of Comparative and International Education_20260502_2300.md",
+    "wiki/templates/template-fact-organization.md",
+    "wiki/templates/template-school.md",
     "wiki/persons/us/Aaron Benavot.md",
     "wiki/persons/us/Stephen P. Heyneman.md",
     "wiki/concepts/higher-education/Virtual University.md",
@@ -288,7 +293,6 @@
     "wiki/templates/TEMPLATE-SPEC.md",
     "wiki/persons/schools/Stanford School.md",
     "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md",
-    "wiki/templates/template-school.md",
     "wiki/templates/template-argument-edited-volume.md",
     "wiki/arguments/journal-articles/Beiträge zur Schulentwicklung/Argument_Manitius_vanHolt_2019_BzS.md",
     "wiki/templates/template-person.md",
@@ -296,9 +300,6 @@
     "wiki/arguments/journal-articles/Educational Researcher/Argument_Eisenhart_Towne_2003_ER.md",
     "wiki/theories/comparative-education/Stanford School.md",
     "wiki/persons/schools",
-    "wiki/theories/comparative-education/Pluri-Scalar Governance.md",
-    "wiki/facts/us/Armand Hammer United World College of the American West.md",
-    "wiki/facts/global/1985 Trieste Intergovernmental Conference on the International Baccalaureate.md",
     "wiki/facts/united-states",
     "wiki/facts/venezuela",
     "books/Cowen(Ed.)_2009_Springer/Ch08_Arnove_2009.pdf",
@@ -311,7 +312,6 @@
     "sources/Eisenhart_Towne_2003_ER/figures/Eisenhart_Towne_2003_ER_Fig2_NRC_SRE_Scientific_Principles.jpg",
     "sources/Eisenhart_Towne_2003_ER/figures/Eisenhart_Towne_2003_ER_Fig1_Castle_Bill_HR4875_Standards.jpg",
     "sources/Eisenhart_Towne_2003_ER/figures",
-    "sources/Eisenhart_Towne_2003_ER/Eisenhart_Towne_2003_ER.pdf",
     "tmp/pdfs/greene-p13-13.png",
     "tmp/pdfs/greene-p8-08.png",
     "tmp/pdfs/greene-p7-07.png",

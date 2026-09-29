@@ -29,7 +29,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Policy Borrowing]]"
   - "[[Policy Mobility]]"
-  - "[[Pluri-Scalar Governance]]"
   - "[[Policy Brokerage]]"
   - "[[Going Native]]"
   - "[[Space of Flows and Space of Places]]"
@@ -50,6 +49,8 @@ related_facts:
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Beech_2009_CE]]"
+related_theories:
+  - "[[Pluri-Scalar Governance]]"
 confidence: high
 status: draft
 created: 2026-09-11

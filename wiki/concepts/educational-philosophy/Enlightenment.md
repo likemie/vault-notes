@@ -51,6 +51,7 @@ related_persons:
   - "[[Jean-François Lyotard]]"
   - "[[Johann Heinrich Pestalozzi]]"
   - "[[Andreas Kazamias]]"
+  - "[[Stanford School]]"
   - "[[Immanuel Wallerstein]]"
   - "[[Robert Arnove]]"
   - "[[John W. Meyer]]"
@@ -60,7 +61,6 @@ related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
 related_theories:
   - "[[Postmodernism]]"
-  - "[[Stanford School]]"
   - "[[Cultural Models]]"
   - "[[Critical Theory]]"
   - "[[Hegemony]]"

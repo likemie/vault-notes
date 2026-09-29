@@ -24,6 +24,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Growth]]"
   - "[[Operationalization]]"
   - "[[Heterogeneity]]"
@@ -114,7 +115,7 @@ updated: 2026-09-24
 > [!contrast-table] 科学检验方法论辨析
 > | 维度 | 逻辑[[Positivism\|实证主义]]经验证实（Verificationism） | 波普尔朴素证伪主义（Popperian Falsification） | 拉卡托斯科学研究纲领（Lakatosian Programmes） | 布林顿比较史学有限工作[[Hypothesis\|假设]]（Brinton / Kazamias） |
 > |---|---|---|---|---|
-> | **[[Epistemology\|认识论]]基础** | 归纳主义；经验感觉经验累积 | 演绎主义；推测与反驳批判理性 | 历史主义与方法论整体论；硬核与保护带 | 广义人文科学（*Wissenschaft*）；历史情境因果解释 |
+> | **[[Epistemology\|认识论]]基础** | 归纳主义；经验感觉经验累积 | 演绎主义；推测与反驳批判理性 | 历史主义与方法论整体论；硬核与保护带 | 广义[[Geisteswissenschaften\|人文科学]]（*Wissenschaft*）；历史情境因果解释 |
 > | **科学划界标准** | 意义标准：可经验证实即有意义 | 划界标准：具备经验可反驳性即属科学 | 启发法与纲领[[Growth\|生长]]能力：是否具有预测进步性 | 理论阐释效能：是否能系统照亮制度演化根由 |
 > | **对待反常方式** | 将反常视作未纳入统计模型的残差 | 单个反常证据在逻辑上足以彻底证伪理论 | 调动辅助假设保护硬核，通过退化或进步判定替换 | 经验反哺与边界重构，反思理论假设的情境限定性 |
 > | **教育研究适用** | 跨国大规模指标统计与经验归纳建模 | 明确[[Operationalization\|操作化]]因果假说的演绎检验与反驳 | 理论流派的[[Paradigm\|范式]]竞争与综合评估（如循证范式演进） | 跨国教育制度转型与历史因果机制比较分析 |

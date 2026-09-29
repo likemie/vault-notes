@@ -29,6 +29,7 @@ related_concepts:
   - "[[Perpetual Peace]]"
   - "[[Scientific Method]]"
   - "[[Hypothesis]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
   - "[[Auslandspadagogik]]"
@@ -83,7 +84,7 @@ updated: 2026-09-17
 > [!concept-lens] 概念透镜
 > - **含义** 指称现代比较教育学在告别古代轶事游记、迈向现代学科形态时所确立的“准实证科学化（almost nearly a positive science）”冲动与其不可分割的启蒙人文主义底色。
 > - **用途** 破解后世实证派学者将朱利安机械割裂为“单纯实证量化先驱”的史学曲解，揭示早期比较教育学如何在[[Scientific Method\|经验科学]]工具与宏观人类博爱伦理之间达成有机互构。
-> - **边界** 严格区别于 20 世纪下半叶行为主义实证派（如 Noah & Eckstein）所主张的严格去价值化、纯[[Hypothesis\|假设]]检验与数理统计分析；准科学母题中的问卷充满指导性价值预设，本质上属于欧洲传统的“人文科学（sciences humaines）”范畴。
+> - **边界** 严格区别于 20 世纪下半叶行为主义实证派（如 Noah & Eckstein）所主张的严格去价值化、纯[[Hypothesis\|假设]]检验与数理统计分析；准科学母题中的问卷充满指导性价值预设，本质上属于欧洲传统的“[[Geisteswissenschaften|人文科学]]（sciences humaines）”范畴。
 
 > [!citation-card]- 关键表述：教育比拟于解剖学的准实证科学奠基
 > 马克-安托万·朱利安在 1817 年《工作计划》中确立了这一准科学母题的经典公理：教育与所有其他科学及艺术一样，皆由事实与观察构成。因此，为教育编制排列在分析图表中的事实与观察汇编显得尤为必要，以便对它们进行关联与比较，从中推导出确定原则与规程，从而使教育几乎成为一门实证科学；对比较解剖学的研究推进了人体解剖学，同样，对比较教育的研究必将为完善教育科学提供新的手段。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 12)]]；引自 Fraser (1964:40–41)
@@ -104,7 +105,7 @@ updated: 2026-09-17
 > | 维度 | 准科学人道改良母题（Proto-Scientific Motif） | 行政[[Educational Meliorism\|改良主义]]母题（Administrative-Meliorist Motif） | 二十世纪逻辑实证[[Paradigm\|范式]]（[[Positivism\|positivist paradigm]]） |
 > |---|---|---|---|
 > | **代表学者** | [[Marc-Antoine Jullien\|朱利安]] | [[Victor Cousin\|库森]]、[[Horace Mann\|霍勒斯·曼]]、[[Calvin Stowe\|斯托]] | [[Harold Noah\|诺亚]]、[[Max Eckstein\|埃克斯坦]]、贝雷迪 |
-> | **核心认识论** | 自然科学归纳法、比较解剖学类比与人文科学统一 | 外国教育学（[[Auslandspadagogik\|Auslandspadagogik]]）政策借用 | 行为科学实证主义、数理统计与[[Hypothesis\|假设]]演绎法 |
+> | **核心认识论** | 自然科学归纳法、比较解剖学类比与[[Geisteswissenschaften\|人文科学]]统一 | 外国教育学（[[Auslandspadagogik\|Auslandspadagogik]]）政策借用 | 行为科学实证主义、数理统计与[[Hypothesis\|假设]]演绎法 |
 > | **调查工具** | 标准化[[Questionnaire\|问卷]]表、多语种通报、特别教育委员会 | 官方行政考察报告、立法草案引证、游记评注 | 大规模跨国量化抽样、[[Multiple Regression\|多元回归]]分析、[[Scale of Measurement\|测量量表]] |
 > | **价值立场** | **强烈的人道改良主义与全人[[Bildung\|教化]]伦理** | **主权国家行政建制与立法合法化辩护** | **标榜[[Value Neutrality\|价值无涉]]（Value Neutrality）与科学客观** |
 > | **终极依归** | [[Perpetual Peace\|欧洲与世界永久和平]]、预防流血革命 | 民族国家体制巩固、公立学校法案辩护 | 建立中立的教育因果跨国预测定律 |
@@ -167,7 +168,7 @@ updated: 2026-09-17
 > **[[Positivism\|实证主义]]视阈下早期母题的方法论缺陷** 诺亚与埃克斯坦基于 20 世纪下半叶逻辑实证主义与社会科学标准指出，朱利安的[[Questionnaire\|问卷]]体系过于繁复宏大，且充斥着大量带有强烈道德教育偏见的主观“引导性提问（[[Leading Questions]]）”，未能在方法论上实现事实与价值的严格分离，因此未能建立起现代意义上严谨可检验的因果假说验证机制。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 16–17)]]；引自 Noah & Eckstein (1969:29)
 
 > [!claim] Kaloyannaki, P. and Kazamias, A. M.
-> **准科学母题本属于欧洲人文科学传统而非数理实证主义** 卡洛扬纳基与卡扎米亚斯批判了实证派的狭隘历史偏见，指出将现代实证主义标尺强加于 19 世纪初的朱利安是对启蒙语境的历史误读；朱利安所追求的“准实证科学”实质上属于法德人文科学（*sciences humaines*）传统，其将[[Scientific Method\|科学方法]]与道德教化、世界公民意识相结合，恰恰构成了对当代去伦理化技术测量主义的深刻历史警示。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 17–18, 33–34)]]
+> **准科学母题本属于欧洲[[Geisteswissenschaften|人文科学]]传统而非数理实证主义** 卡洛扬纳基与卡扎米亚斯批判了实证派的狭隘历史偏见，指出将现代实证主义标尺强加于 19 世纪初的朱利安是对启蒙语境的历史误读；朱利安所追求的“准实证科学”实质上属于法德人文科学（*sciences humaines*）传统，其将[[Scientific Method\|科学方法]]与道德教化、世界公民意识相结合，恰恰构成了对当代去伦理化技术测量主义的深刻历史警示。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 17–18, 33–34)]]
 
 ---
 

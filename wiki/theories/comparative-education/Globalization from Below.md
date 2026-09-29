@@ -30,6 +30,7 @@ related_concepts:
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Determinism]]"
   - "[[Paradigm]]"
+  - "[[Time-Space Compression]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Shadow State]]"
   - "[[Champ]]"
@@ -44,7 +45,6 @@ related_concepts:
 related_theories:
   - "[[Convergence Theory in Comparative Education]]"
   - "[[Dialectic of the Global and the Local]]"
-  - "[[Stanford School]]"
   - "[[Pluri-Scalar Governance]]"
   - "[[Human Capital Theory]]"
   - "[[Hegemony]]"
@@ -55,11 +55,13 @@ related_instruments: []
 related_persons:
   - "[[Robert Arnove]]"
   - "[[Immanuel Wallerstein]]"
+  - "[[Stanford School]]"
   - "[[John W. Meyer]]"
 related_facts:
   - "[[World Trade Organization]]"
   - "[[World Bank]]"
   - "[[UNESCO]]"
+  - "[[International Monetary Fund]]"
   - "[[Education for All]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
@@ -91,7 +93,7 @@ updated: 2026-09-29
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 杰里米·布雷彻（Jeremy Brecher）、蒂姆·科斯特洛（Tim Costello）与布伦丹·史密斯（Brendan Smith）在其经典著作 *Globalization from Below: The Power of Solidarity*（2000）中系统确立了草根跨国抗争理论；[[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove, 2005, 2009）将其系统引入比较教育研究，建构了教育改革发起方位与目标取向的双轴四象限[[Analytic Framework|分析框架]]。[[Argument_Arnove_2009_WorldSystems|(Brecher et al., 2000; Arnove, 2005, 2009, pp. 113–114)]]
 > - **原初问题** 20 世纪 90 年代以来，[[World Trade Organization|世界贸易组织]]（World Trade Organization, WTO）、[[World Bank|世界银行]]（World Bank, WB）与跨国资本推动教育全面商品化与外包，各国外围劳工、乡村青年与原住民群体面临空前的阶层分化与公共教育权利剥夺，亟需解释分散的反全球化浪潮与教育抗争的理论[[Paradigm|范式]]。
-> - **理论资源与材料** 汲取[[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 1997）关于资本主义历史体系终极危机的宏观政治经济学诊断；吸收戴维·哈维（David Harvey, 1989）的时空压缩概念与爱德华兹与厄舍（Edwards & Usher, 2000）的流散空间概念；整合鲍尔斯顿与勒鲁瓦（Paulston & Leroy, 1980）的教育改革平衡与冲突四象限拓扑模型；借鉴[[Stanford School|斯坦福学派]][[John W. Meyer|约翰·迈耶]]（Meyer et al., 1997）关于普世人权作为世界文化话语资源的论断。
+> - **理论资源与材料** 汲取[[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 1997）关于资本主义历史体系终极危机的宏观政治经济学诊断；吸收戴维·哈维（David Harvey, 1989）的[[Time-Space Compression|时空压缩]]概念与爱德华兹与厄舍（Edwards & Usher, 2000）的流散空间概念；整合鲍尔斯顿与勒鲁瓦（Paulston & Leroy, 1980）的教育改革平衡与冲突四象限拓扑模型；借鉴[[Stanford School|斯坦福学派]][[John W. Meyer|约翰·迈耶]]（Meyer et al., 1997）关于普世人权作为世界文化话语资源的论断。
 > - **形成路径** 从 1999 年西雅图抗议与跨国劳工维权等经验现象出发，阿诺夫等学者打破了将教育改革局限于“主权国家官方政策转移”的传统视野，将民间跨国网络提炼为与官方资本[[Disciplina and Doctrina|规训]]抗衡的替代极，构筑了自下而上全球化教育分析模型。
 
 ### 后续修订与扩展
@@ -123,7 +125,7 @@ updated: 2026-09-29
 
 ## 核心命题
 
-> [!theory-proposition] 命题一｜资本积累危机与以太时空压缩为分散的基层抗争构筑了跨国流散空间与动员势能
+> [!theory-proposition] 命题一｜资本积累危机与以太[[Time-Space Compression|时空压缩]]为分散的基层抗争构筑了跨国流散空间与动员势能
 > **解释** 跨国公司在世界范围内追逐廉价与易受剥削的劳动力，激化了世界体系内部的就业动荡与阶层矛盾，构成[[Immanuel Wallerstein|沃勒斯坦]]所指认的历史资本主义体系的“终极危机”；与此同时，信息通信技术（Information and Communications Technology, ICT）引发的时空压缩构筑了跨国界的以太“流散空间”（diaspora space），使长期处于分散、孤立与边缘地位的各国民间行动者得以实时共享生存困境与抗争经验，使地方性抗争迅速转化为跨国维权网络。[[Argument_Arnove_2009_WorldSystems|(Wallerstein, 1997; Edwards & Usher, 2000; Arnove, 2009, pp. 112–114)]]
 >
 > **应用实例** 在跨国自由贸易协定签署后，墨西哥与美国教师工会利用互联网建立跨国联络阵线，实时交换抗议跨国私立化教育法案的策略与教学资源，抵御新自由主义对公共教育系统的冲击。
@@ -168,7 +170,7 @@ updated: 2026-09-29
 >     由国际金融多边机构、中央政府部委与跨国资本同盟单向推行的规训模式。
 >     - **D1.1.1｜外生性政策强加与条件绑定指标**
 >       - **含义** 国际金融机构将教育分权、[[Structural Adjustment Programs|结构调整]]与公立预算削减作为贷款的前提硬性约束。
->       - **观察线索** [[World Bank|世界银行]]与国际货币基金组织贷款协定备忘录、中央教育部强制下达法令。
+>       - **观察线索** [[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]贷款协定备忘录、中央教育部强制下达法令。
 >       - **判读规则** 缺乏基层民主协商且带有财政惩戒与强制合规条款，判定为自上而下主导。
 >       - **归属与出处** 依据 [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106, 112–114)]]。
 >     - **D1.1.2｜[[Shadow State|影子国家]]化收编指标**

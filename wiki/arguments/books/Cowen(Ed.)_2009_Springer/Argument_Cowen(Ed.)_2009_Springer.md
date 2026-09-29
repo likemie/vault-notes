@@ -41,7 +41,6 @@ related_concepts:
   - "[[Comparative History of Comparative Education]]"
   - "[[Shape-Shifting]]"
   - "[[Geopolitics of Knowledge]]"
-  - "[[Pluri-Scalar Governance]]"
   - "[[Financial-Intellectual Complex]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Policy Borrowing]]"
@@ -64,7 +63,7 @@ related_concepts:
   - "[[Intercultural Education]]"
   - "[[State Educational Sovereignty]]"
   - "[[Shadow State]]"
-  - "[[Globalization from Below]]"
+  - "[[Time-Space Compression]]"
   - "[[Theoretical Standpoint]]"
   - "[[Heterogeneity]]"
 related_theories:
@@ -72,9 +71,11 @@ related_theories:
   - "[[Post-colonial Theory]]"
   - "[[Critical Theory]]"
   - "[[Conditioned State Theory]]"
+  - "[[Pluri-Scalar Governance]]"
   - "[[World Society Theory]]"
   - "[[State Corporatism]]"
   - "[[World-Systems Theory]]"
+  - "[[Globalization from Below]]"
   - "[[Postmodernism]]"
 related_methods:
   - "[[Discourse Analysis]]"
@@ -198,7 +199,7 @@ updated: 2026-09-29
 >   - Ch. 05 [[Argument_Mattheou_2009_ScientificParadigm]]。Mattheou 系统剖析 20 世纪下半叶[[Scientific Paradigm\|比较教育学科学范式]]的兴衰，辨析芝加哥学派（安德森、福斯特）的恒常制度规律、哥大学派（诺亚、埃克斯坦）的[[Variable\|变量]]函数共变与伦敦学派（霍姆斯）基于[[Critical Dualism\|批判二元论]]的权变社会学法则及预测划界标准，揭示实证量化模式作为战后国家规划合法化工具（alibi）的政治共谋，并阐明其在现实危机、量子不确定性与后现代思潮冲击下向“[[Comparative Educations\|复数比较教育学]]”的多元解体。
 >   - Ch. 06 [[Argument_Olmos_Torres_2009_StateTheories]]。Olmos 与 Torres 运用马克思主义政治经济学与批判政治社会学，解构[[World Society Theory|世界文化理论]]的均质化教育扩张叙事，提出以资本积累与政治合法化为轴心的国家理论，阐发外围资本主义[[Conditioned State Theory\|受限国家]]及[[State Corporatism\|国家法团主义]]下的阶级[[Dual School System|双轨学制]]与[[Compensatory Legitimation\|补偿性合法化]]，并批判新自由主义[[Structural Adjustment Programs|结构调整]]下[[World Bank|世界银行]][[Financial-Intellectual Complex\|金融-智识复合体]]对教育公共性与民主公民身份的侵蚀。
 >   - Ch. 07 [[Argument_Mitter_2009_Europe]]。Mitter 以中世纪以来的“多样性与统一性”二分法为核心结构原则，系统绘制欧洲比较教育两百年来的大学教席学术地图与专业学会网络（[[Comparative Education Society in Europe|CESE]] 跨国个人会员制及多元学会竞合），梳理三大理论[[Paradigm|范式]]演化期（文化历史全景、德国社会学[[Positivism|实证主义]]争论、多元竞争），剖析地缘空间拓展（殖民转型、东西欧冷战对峙与跨国经验比较），辨析政策咨询立场的[[Navigation Metaphor in Comparative Education|航海隐喻]]与直接干预光谱，并反思当代国际大规模测评的技术官僚[[Disciplina and Doctrina|规训]]、[[Intercultural Education|跨文化教育]]合流与“重返欧洲维度”。
->   - Ch. 08 [[Argument_Arnove_2009_WorldSystems]]。Arnove 系统回顾世界体系分析（WSA）在比较教育学中的引入与演进，辨析共识取向（[[John W. Meyer|迈耶]]等人的新制度主义[[World Society Theory|世界文化理论]]）与冲突取向（[[Immanuel Wallerstein|沃勒斯坦]]等人的政治现实主义[[World-Systems Theory|世界体系理论]]）在解释教育同形与依附不平等上的[[Epistemology|认识论]]分野；阐明世界体系分析与全球化研究的汇融，揭示跨国金融与贸易机构（世行、[[World Trade Organization|WTO]] / [[GATS and Trade in Education Services|GATS]]）在[[Pluri-Scalar Governance|多标度治理]]中对[[State Educational Sovereignty|国家教育主权]]的重构、非政府组织向[[Shadow State|影子国家]]蜕变的异化风险，并通过多层次[[Comparative Case Study|比较案例研究]]示范了全球与本土互动的“双重视野”，最终提出以时空压缩和流散空间为载体、联合草根力量抵御新自由主义的自下而上全球化抗争范式。
+>   - Ch. 08 [[Argument_Arnove_2009_WorldSystems]]。Arnove 系统回顾世界体系分析（WSA）在比较教育学中的引入与演进，辨析共识取向（[[John W. Meyer|迈耶]]等人的新制度主义[[World Society Theory|世界文化理论]]）与冲突取向（[[Immanuel Wallerstein|沃勒斯坦]]等人的政治现实主义[[World-Systems Theory|世界体系理论]]）在解释教育同形与依附不平等上的[[Epistemology|认识论]]分野；阐明世界体系分析与全球化研究的汇融，揭示跨国金融与贸易机构（世行、[[World Trade Organization|WTO]] / [[GATS and Trade in Education Services|GATS]]）在[[Pluri-Scalar Governance|多标度治理]]中对[[State Educational Sovereignty|国家教育主权]]的重构、非政府组织向[[Shadow State|影子国家]]蜕变的异化风险，并通过多层次[[Comparative Case Study|比较案例研究]]示范了全球与本土互动的“双重视野”，最终提出以[[Time-Space Compression|时空压缩]]和流散空间为载体、联合草根力量抵御新自由主义的自下而上全球化抗争范式。
 > - **优先处理章节** Ch. 01（联合导论）、Ch. 10（历史反思）、Ch. 21（导论）、Ch. 61（新思维导论）、Ch. 79 与 Ch. 80（全书收束与结论）。
 > - **可暂缓章节** 专门聚焦特定国家微观细部、与全书主干理论对话相对松散的案例章节。
 > - **缺口提醒** 目前已完成 Ch. 02、Ch. 03、Ch. 04、Ch. 05、Ch. 06、Ch. 07 与 Ch. 08，第一板块（Section 1 学科的创建与再造）关于学科起源神话、现代主义双重母题、自由人文历史传统、实证科学化兴衰、马克思主义国家批判、欧洲区域制度化以及世界体系分析与全球化前沿的核心主干已高度夯实完备，亟需推进各板块导引章与重点理论章以充实全书结构认知。

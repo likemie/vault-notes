@@ -33,6 +33,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Operationalization]]"
   - "[[Democratic Education]]"
+  - "[[Geisteswissenschaften]]"
   - "[[National Character]]"
   - "[[Educational Meliorism]]"
   - "[[Falsification]]"
@@ -161,7 +162,7 @@ updated: 2026-09-22
 > 本类命题聚焦战[[Postpositivism\|后实证主义]]兴起过程中学科史叙事的认识论偏误，剖析以后发量化[[Hypothesis\|假设]]检验尺度裁判 19 世纪欧陆人文先驱所造成的历史认知扭曲。
 
 > [!claim] Kaloyannaki, P. & Kazamias, A. M.
-> **以 20 世纪量化公理裁量 19 世纪启蒙先驱构成了严重的时代倒错** 战后实证学派以[[Value Neutrality\|价值中立]]、[[Variable\|变量]]控制和假说检验等 20 世纪下半叶才确立的标准，苛责[[Marc-Antoine Jullien\|朱利安]]、[[Victor Cousin\|库森]]、曼与斯托等人带有主观偏见与政策诱导，完全无视早期先驱在欧陆二级精神科学范畴内将经验分类统摄于全人[[Bildung\|教化]]（*Bildung*）与社会解困的启蒙母题；这套辉格叙事将早期探索贬为盲目借用，遮蔽了先驱作为教育编年史官与[[Ethnography\|民族志]]学者的本体性贡献。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 17–18, 32–33)]]
+> **以 20 世纪量化公理裁量 19 世纪启蒙先驱构成了严重的时代倒错** 战后实证学派以[[Value Neutrality\|价值中立]]、[[Variable\|变量]]控制和假说检验等 20 世纪下半叶才确立的标准，苛责[[Marc-Antoine Jullien\|朱利安]]、[[Victor Cousin\|库森]]、曼与斯托等人带有主观偏见与政策诱导，完全无视早期先驱在欧陆二级[[Geisteswissenschaften|精神科学]]范畴内将经验分类统摄于全人[[Bildung\|教化]]（*Bildung*）与社会解困的启蒙母题；这套辉格叙事将早期探索贬为盲目借用，遮蔽了先驱作为教育编年史官与[[Ethnography\|民族志]]学者的本体性贡献。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 17–18, 32–33)]]
 
 > [!claim] [[Harold Noah\|Noah, H. J.]] & [[Max Eckstein\|Eckstein, M. A.]]
 > **前科学阶段向实证科学阶段进化的学科阶梯神话** 比较教育学的发展历经了早期旅行者传闻、制度借用、历史因素分析，最终走向由量化假说驱动的实证科学阶段；前实证阶段的学者多依赖私人主观洞察，未能建立变量[[Operationalization\|操作化]]与可重复检验的[[Analytic Framework\|分析框架]]，因而在学科体系中仅属于前科学探索。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 32–33; Noah & Eckstein, 1969)]]

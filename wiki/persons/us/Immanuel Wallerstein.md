@@ -34,7 +34,6 @@ related_theories:
   - "[[Dependency Theory]]"
   - "[[World-Systems Theory]]"
   - "[[Globalization from Below]]"
-  - "[[Stanford School]]"
   - "[[Cultural Models]]"
   - "[[World Society Theory]]"
 related_methods:
@@ -43,10 +42,12 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Robert Arnove]]"
+  - "[[Stanford School]]"
   - "[[John W. Meyer]]"
 related_facts:
   - "[[International Schools Association]]"
   - "[[World Bank]]"
+  - "[[International Monetary Fund]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
 confidence: high
@@ -118,7 +119,7 @@ updated: 2026-09-29
 > [!influence-path] 影响路径
 > - **理论路径** 深刻影响了新马克思主义政治经济学、[[Dependency Theory|依附理论]]与发展社会学；在比较教育学中，[[Robert Arnove|罗伯特·阿诺夫]]（Robert Arnove, 1980）将其系统引入，开辟了与[[Stanford School|斯坦福学派]]世界文化论正面对峙的“现实主义世界体系分析”传统。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–106)]]
 > - **方法路径** 倡导“长时段历史分析”与跨国宏微观贯通，促使比较教育研究打破单一国家容器（[[Methodological Nationalism|方法论民族主义]]），将微观学校[[Ethnography|民族志]]与全球资本分工机制相结合。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104, 106–107)]]
-> - **政策与机构批判** 为解构[[World Bank|世界银行]]、IMF 等多边金融组织以及大型跨国基金会的教育援助政策提供了锐利武器，揭示外部援助固化依附性分层的实质。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]
+> - **政策与机构批判** 为解构[[World Bank|世界银行]]、[[International Monetary Fund|IMF]] 等多边金融组织以及大型跨国基金会的教育援助政策提供了锐利武器，揭示外部援助固化依附性分层的实质。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 全面系统梳理沃勒斯坦长时段历史观与世界体系分析对比较教育学的深层奠基，对比现实主义冲突论与斯坦福新制度主义的[[Paradigm|范式]]分歧。

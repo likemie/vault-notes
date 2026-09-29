@@ -42,6 +42,7 @@ related_persons:
   - "[[Carlos Alberto Torres]]"
 related_facts:
   - "[[World Bank]]"
+  - "[[International Monetary Fund]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 confidence: high
@@ -62,7 +63,7 @@ updated: 2026-09-28
 > - **代表贡献** 提出拉美边缘群体与中产阶级互助生存网络模型；出版《边缘人如何生存：墨西哥城棚户区的互助网络》（1975/1977）与《智利中产阶级：新自由主义下的生存斗争》（与安娜·梅尔尼克合著，1991）。
 
 > [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论洛姆尼茨等学者对新自由主义[[Structural Adjustment Programs|结构调整]]与智利社会危机的实证剖析
-> 洛姆尼茨与梅尔尼克（Lomnitz & Melnick, 1991）指出，在历史和哲学层面上，新自由主义始终与结构调整方案紧密捆绑在一起。结构调整进而通常被描述为[[World Bank|世界银行]]、国际货币基金组织以及其他跨国金融机构所推荐的一整套紧缩政策……其对智利中产阶级生活史的[[Fieldwork|田野调查]]深刻证实，推行使用者付费与学校私有化实质上是残酷瓦解公共福利的阶级暴力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 85–86)]]
+> 洛姆尼茨与梅尔尼克（Lomnitz & Melnick, 1991）指出，在历史和哲学层面上，新自由主义始终与结构调整方案紧密捆绑在一起。结构调整进而通常被描述为[[World Bank|世界银行]]、[[International Monetary Fund|国际货币基金组织]]以及其他跨国金融机构所推荐的一整套紧缩政策……其对智利中产阶级生活史的[[Fieldwork|田野调查]]深刻证实，推行使用者付费与学校私有化实质上是残酷瓦解公共福利的阶级暴力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 85–86)]]
 >
 > *Lomnitz & Melnick (1991) argue that, historically and philosophically, neoliberalism has been associated with structural adjustment programs. Structural adjustment, in turn, is usually described as a broad range of policies recommended by the World Bank, the International Monetary Fund, and other financial organizations.*
 

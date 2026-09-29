@@ -29,6 +29,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Paradigm]]"
   - "[[International Education]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Educational Meliorism]]"
   - "[[Empiricism]]"
   - "[[Epistemology]]"
@@ -54,6 +55,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Johann Heinrich Pestalozzi]]"
+  - "[[Franz Hilker]]"
   - "[[Immanuel Kant]]"
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
@@ -103,7 +105,7 @@ updated: 2026-09-29
 > - **1798–1801** 作为拿破仑·波拿巴（Napoleon Bonaparte）远征埃及军团的战争专员前往北非；亲历军阀专制残暴、政治清洗与帝国侵略战争后，对政治暴力产生深刻幻灭，随之游历英格兰、苏格兰与欧洲大陆。（Palmer, 1993:ix）
 > - **1805–1810** 思想发生根本转向，投身教育与社会改良研究；1808 年出版《教育总论》；1810 年实地考察瑞士伊弗东（Yverdon）[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]（J. H. Pestalozzi）学校与霍夫维尔费伦伯格（P. E. Fellenberg）学校，奠定以儿童为中心的自然主义与人道主义教育哲学；同年致信美国前总统杰斐逊（Thomas Jefferson）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 12, 19–20)]]
 > - **1817** 发表比较教育奠基之作《[[Esquisse d'un ouvrage sur l'éducation comparée\|关于比较教育的一项著作的计划与初步观点]]》（*Esquisse*），系统阐发比较解剖学类比、经验分类学与跨国[[Questionnaire\|问卷调查]]规程。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–13)]]
-> - **1819–1830** 创办并主编《[[Revue encyclopédique\|百科评论]]》（*Revue encyclopédique*），提出 1819 年《人类知识总表》，将教育学归入关涉心灵与道德的二级精神科学；践行培根式的科学统一思想与世界公民理念，广泛刊载各大洲的公共教育与文化进展。（Palmer, 1993:176–181）
+> - **1819–1830** 创办并主编《[[Revue encyclopédique\|百科评论]]》（*Revue encyclopédique*），提出 1819 年《人类知识总表》，将教育学归入关涉心灵与道德的二级[[Geisteswissenschaften|精神科学]]；践行培根式的科学统一思想与世界公民理念，广泛刊载各大洲的公共教育与文化进展。（Palmer, 1993:176–181）
 > - **1830–1848** 赞同 1830 年七月革命与 1848 年二月革命；积极投身伦敦“和平之友协会”（Association of Friends for Peace），在 1833 年《致英格兰民族书》中将比较解剖学类比升华为“比较文明学”，呼吁以跨国教育协作荡涤旧时代野蛮战争残余；1848 年在巴黎逝世，数周后路易-拿破仑·波拿巴当选法兰西第二共和国总统。（Palmer, 1993:ix, 205; [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 19]], 22–24）
 
 ---
@@ -119,7 +121,7 @@ updated: 2026-09-29
 >   - **代表著作** 《关于比较教育的一项著作的计划与初步观点》（*Esquisse et vues préliminaires sur un ouvrage sur l’éducation comparée*, 1817）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–13)]]
 >   - **关键概念／方法** 比较解剖学类比、分析图表（Analytical Charts）、比较观察表（Comparative Observation Tables）、审慎[[Policy Borrowing\|政策借用]]。
 >   - **阶段转向** 吸收解剖学经验分类与经验-演绎法，以客观事实分类诊断各国教育机体的患病断层，开创现代经验比较研究的设计原型；首次奠定比较教育学科的两大基本目的——搜集与系统化事实的“科学/理论目的”以及为国家改革提供借鉴的“实践/应用目的”，这一双重任务界定构成了后继两百年欧洲比较教育演进的核心主线。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 88)]]
-> - **1818–1848 — 欧陆二级精神科学定位与世界主义[[Perpetual Peace\|永久和平]]蓝图** 扩展学术视野至全球文明交往与世界和平，将比较科学上升为全人类精神觉醒、消除战争野蛮与道德复兴的世界和平治理工程。
+> - **1818–1848 — 欧陆二级[[Geisteswissenschaften|精神科学]]定位与世界主义[[Perpetual Peace\|永久和平]]蓝图** 扩展学术视野至全球文明交往与世界和平，将比较科学上升为全人类精神觉醒、消除战争野蛮与道德复兴的世界和平治理工程。
 >   - **代表著作** 《人类知识总表》（1819）、《[[Revue encyclopédique\|百科评论]]》（1819–1830）、《致英格兰民族书》（*A Letter to the English Nation*, 1833）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 17–18, 21–24)]]
 >   - **关键概念／方法** 欧陆人文科学（Sciences Humaines）、世界公民（Cosmopolites）、特别教育委员会、多语种教育通报、比较文明学（Comparative Civilisation）、永久和平治理。
 >   - **阶段转向** 确立经验事实服务于伦理规范的二级精神科学地位，突破狭隘民族国家壁垒，构建以特别教育委员会、统一[[Questionnaire\|问卷]]观察表、示范师训机构与多语种通报为支撑的超国家治理网络，将跨国教育协作确立为捍卫世界[[Perpetual Peace\|永久和平]]的根本机制。
@@ -170,7 +172,7 @@ updated: 2026-09-29
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 开启了比较教育学[[Positivism\|实证主义]]与[[Scientism\|科学主义]]传统先河；同时奠定了经验事实研究与全人伦理规范、国际和平关怀深度交织的欧陆人文科学传统。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 17–18)]]
+> - **理论路径** 开启了比较教育学[[Positivism\|实证主义]]与[[Scientism\|科学主义]]传统先河；同时奠定了经验事实研究与全人伦理规范、国际和平关怀深度交织的欧陆[[Geisteswissenschaften|人文科学]]传统。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 17–18)]]
 > - **方法路径** 首创了涵盖初等大众至中等古典等六大领域的结构化多题项[[Questionnaire\|问卷]]与横向比较观察表，为跨国[[Performance Indicators\|教育指标]]体系与大规模统计调查奠定了方法原型。
 > - **政策与超国家制度原型** 提议设立由国际学者组成的常设特别教育委员会、培育良师的示范[[Normal School\|师范学院]]以及多语种[[International Education\|国际教育]]公报，这些构想在 20 世纪国际教育局（IBE）和[[UNESCO\|联合国教科文组织]]（UNESCO）的组织架构与职能运作中得到了惊人的制度兑现。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 21–22)]]
 > - **世界和平与跨国治理** 突破 19 世纪民族国家的孤立竞争思维，开创了通过跨国教育经验互鉴消弭沙文主义偏见、以比较文明抗衡野蛮战争残余的国际和平教育与全球教育治理先驱传统。（pp. 22–24）
@@ -194,7 +196,7 @@ updated: 2026-09-29
 > *While Jullien may not necessarily qualify as the principal instigator or exponent of comparative pedagogy in the nineteenth century his Plan remains one of the most important [[Artefact\|artifacts]] in the science. Technically, and in fact, Jullien never developed a thoroughgoing comparative methodology in education, nor did he live to see his ideas for institutes of international education become established, but he has been widely identified as one of the first to consolidate these useful ideas into a preliminary draft of such potential magnitude that he cannot be ignored today.*
 
 > [!citation-card] 卡洛扬纳基与卡扎米亚斯论朱利安生前效力局限与学科追认
-> 尚无证据表明朱利安在《计划》中提出的比较方法或国际教育设想在生前被采纳或对学科后续发展产生实质影响。卡洛扬纳基与卡扎米亚斯赞同希尔克（Franz Hilker）、[[Immanuel Kant\|康德]]尔（[[Isaac Kandel]]）与汉斯（[[Nicholas Hans]]）等 20 世纪先驱的史学判断，指出朱利安生前未能实质性影响比较教育的发展，其奠基地位是 20 世纪手稿被重构后的追认。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 24)]]
+> 尚无证据表明朱利安在《计划》中提出的比较方法或国际教育设想在生前被采纳或对学科后续发展产生实质影响。卡洛扬纳基与卡扎米亚斯赞同[[Franz Hilker|希尔克]]（Franz Hilker）、[[Immanuel Kant\|康德]]尔（[[Isaac Kandel]]）与汉斯（[[Nicholas Hans]]）等 20 世纪先驱的史学判断，指出朱利安生前未能实质性影响比较教育的发展，其奠基地位是 20 世纪手稿被重构后的追认。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 24)]]
 >
 > *We have no evidence that Jullien’s comparative methodology or his ideas and proposals about comparative and international education as presented in his Plan and preliminary views for a work in comparative education were adopted or had any significant influence in the subsequent development of the two related epistemic domains. As historians of comparative education, we concur with what Stewart Fraser in his authoritative edition and evaluation of Jullien’s Plan wrote back in 1964. Agreeing with the historical judgement of Franz Hilker, Isaac Kandel and Nicholas Hans... that Jullien 'was unable to influence the development of comparative education to any great extent'...*
 
@@ -225,7 +227,7 @@ updated: 2026-09-29
 
 > [!debates] 学术争议
 >
-> > [!axis] 现代[[Value Neutrality\|价值中立]]实证论 vs 启蒙欧陆人文科学[[Paradigm\|范式]]
+> > [!axis] 现代[[Value Neutrality\|价值中立]]实证论 vs 启蒙欧陆[[Geisteswissenschaften|人文科学]][[Paradigm\|范式]]
 > > 20 世纪下半叶科学[[Positivism\|实证主义]]学者批评朱利安的[[Questionnaire\|问卷]]过度冗长、复杂，且充斥着强烈的主观道德预设和诱导性提问，未能实现真正的价值中立与客观经验测量。围绕这一批评，学界形成了两种根本对立的[[Epistemology\|认识论]]评价视角：[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 16–18)]]
 > >
 > > - **Harold Noah & Max Eckstein (1969)** 认为朱利安对教育正当目标的预先[[Hypothesis\|假设]]严重影响了其提问方式，在宗教和道德题项中进行价值诱导，带有浓厚的理念宣传动机而非纯粹客观归纳。（pp. 16–17）

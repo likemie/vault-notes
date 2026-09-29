@@ -32,6 +32,7 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Construct Validity]]"
   - "[[Domain Specificity]]"
+  - "[[Intercultural Education]]"
 related_theories: []
 related_methods:
   - "[[Inter-Rater Reliability]]"
@@ -115,4 +116,4 @@ updated: 2026-09-23
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
 > | 原始法文版（EPoC） | 法语（法国） | 中小学生至大学生成人 | 4 项大任务 | 确立 2 领域 × 2 过程的系统化常模体系 | Lubart et al. (2011) |
-> | 国际英文修订版 | 英语（国际版） | 跨文化教育与心理测评 | 4 项大任务 | 完成多国跨文化评分标准与[[Measurement Invariance\|测量等值性]]验证 | Barbot et al. (2016) |
+> | 国际英文修订版 | 英语（国际版） | [[Intercultural Education\|跨文化教育]]与心理测评 | 4 项大任务 | 完成多国跨文化评分标准与[[Measurement Invariance\|测量等值性]]验证 | Barbot et al. (2016) |

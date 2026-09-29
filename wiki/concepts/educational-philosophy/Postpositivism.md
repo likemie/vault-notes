@@ -38,6 +38,7 @@ related_concepts:
   - "[[Paideia]]"
   - "[[Bildung]]"
   - "[[Empiricism]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Scientific Paradigm]]"
   - "[[Emergence]]"
   - "[[Paradigm Wars]]"
@@ -206,7 +207,7 @@ updated: 2026-09-24
 ### 命题二　后实证认识论破除狭隘实证科学垄断并将广义科学范畴向人文探究开放
 
 > [!concept-lens] 科学概念溯源与跨文化认识论体系重建
-> 该维度关注卡扎米亚斯与当代科学哲学家如何打破战后英美[[Empiricism\|经验主义]]对“科学”话语的技术性垄断，恢复欧陆博大人文科学传统的合法地位。
+> 该维度关注卡扎米亚斯与当代科学哲学家如何打破战后英美[[Empiricism\|经验主义]]对“科学”话语的技术性垄断，恢复欧陆博大[[Geisteswissenschaften|人文科学]]传统的合法地位。
 
 > [!claim] [[Andreas Kazamias\|Kazamias, A.]] M.
 > **德语 Wissenschaft 与希腊语 Episteme 破除英语 Science 的实证霸权** 20 世纪 60 年代实证学派对历史与哲学比较传统的贬斥，根源于其将“科学”（Science）狭隘垄断为自然科学与数理统计实证主义的语义霸权。在欧洲大陆思想史中，德语词 *Wissenschaft* 与古希腊词 *Episteme* 始终指代统辖自然、社会、文化与人文学科的系统化、规范化理性知识体系。一旦突破英语 *Science* 的技术狭义化，关注制度历史演化根由与文化意涵的历史比较探究，完全符合规范科学的严密标准。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 56)]]

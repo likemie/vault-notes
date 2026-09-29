@@ -55,6 +55,7 @@ related_instruments: []
 related_persons:
   - "[[George Psacharopoulos]]"
   - "[[Robert Arnove]]"
+  - "[[Stephen P. Heyneman]]"
 related_facts:
   - "[[UNESCO]]"
   - "[[OECD]]"
@@ -69,6 +70,7 @@ related_facts:
   - "[[Chartered College of Teaching]]"
   - "[[World Education Reform Database]]"
   - "[[Business Roundtable]]"
+  - "[[International Monetary Fund]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -166,7 +168,7 @@ updated: 2026-09-29
 > > [!axis] [[Structural Adjustment Programs|结构调整]]与市场原教旨主义的后殖民破坏
 > > 发展社会学家与全球南方批评家指控世行贷款长期推行新自由主义紧缩政策。
 > >
-> > - **批判政治经济学派与世行内部反思（Bonal, 2002, 2004; Klees, 2008; Heyneman, 2003）** 批评 1980–1990 年代世行推行的结构调整计划强迫借贷国冻结教师编制、引入公立学校用户收费并加速民办私立化，给撒哈拉以南非洲和拉美公共教育系统造成严重冲击；世行前资深教育专员海尼曼（Stephen Heyneman, 2003）亦坦承，世行长期主导的成本效益分析与教育生产函数框架存在根本性缺陷，给更具公平性与效能的教育政策带来了严重的消极后果。[[Argument_Arnove_2009_WorldSystems|(Heyneman, 2003, cited in Arnove, 2009, p. 110)]]
+> > - **批判政治经济学派与世行内部反思（Bonal, 2002, 2004; Klees, 2008; Heyneman, 2003）** 批评 1980–1990 年代世行推行的结构调整计划强迫借贷国冻结教师编制、引入公立学校用户收费并加速民办私立化，给撒哈拉以南非洲和拉美公共教育系统造成严重冲击；世行前资深教育专员[[Stephen P. Heyneman|海尼曼]]（Stephen Heyneman, 2003）亦坦承，世行长期主导的成本效益分析与教育生产函数框架存在根本性缺陷，给更具公平性与效能的教育政策带来了严重的消极后果。[[Argument_Arnove_2009_WorldSystems|(Heyneman, 2003, cited in Arnove, 2009, p. 110)]]
 > > - **世行辩护** 强调结构性改革旨在破除发展中国家教育系统的寻租腐败与非生产性财政冗员，优先保证贫困人口享有最基本的初等读写算技能。
 >
 > > [!axis] [[Financial-Intellectual Complex|金融-智识复合体]]与单一体信贷逻辑：技术中立政策建议 vs 跨国资本[[Disciplina and Doctrina|规训]]同盟
@@ -182,7 +184,7 @@ updated: 2026-09-29
 > > - **世行援助官方立场** 辩称外部援助与民间组织合作能够绕开腐败低效的官僚机构，将资源更直接有效地送达基层贫困人口。
 
 > [!citation-card] 阿诺夫论跨国金融机构教育援助固化国际分层
-> 世界银行、国际货币基金组织以及大型跨国基金会在受援国推广的教育革新，实质上并没有打破既有的依附格局，反而体系化地固化了国际分工与借贷国内部既有的阶层分化结构。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]
+> 世界银行、[[International Monetary Fund|国际货币基金组织]]以及大型跨国基金会在受援国推广的教育革新，实质上并没有打破既有的依附格局，反而体系化地固化了国际分工与借贷国内部既有的阶层分化结构。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]
 >
 > *Educational innovations promoted by the World Bank, the IMF, and major foundations systematically function to stabilize internal and international stratification systems rather than democratizing society.*
 

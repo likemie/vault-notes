@@ -28,6 +28,7 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Paradigm]]"
   - "[[Development Turn in Comparative Education]]"
+  - "[[New Managerialism]]"
   - "[[Performance Indicators]]"
   - "[[Epistemic Governance]]"
   - "[[Governing by Numbers]]"
@@ -141,7 +142,7 @@ updated: 2026-09-29
 >   - 1958 [[Comparative Education Center at Chicago 1958\|芝加哥大学比较教育中心]]建立，推动教育经济学与比较教育深度融合。
 > - **1961–1970s — OECD 改组与冷战“[[Development Turn in Comparative Education\|发展转向]]”** 1961 年 OECD 正式取代 OEEC，美欧国家共同将其打造成抗衡苏联意识形态竞争的制度堡垒。在[[Economics of Education Movement\|教育经济学运动]]影响下，OECD 系统确立将教育视为经济增长“生产性投资”的新范式，与[[International Institute for Educational Planning\|联合国教科文组织国际教育规划研究所]]（International Institute for Educational Planning，IIEP）形成双翼，推动了比较教育的[[Development Turn in Comparative Education\|发展转向]]。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 420–423)]]
 >   - 1962 启动著名的地中海地区项目（[[Mediterranean Regional Project]]，MRP），将[[Human Capital Theory\|人力资本理论]]系统转化为南欧各国的国家教育发展规划。
-> - **1980s–1990s — 指标体系建构与管理主义转向** 1983 年美国《国家处在危险之中》（*[[A Nation at Risk 1983\|A Nation at Risk]]*）报告发布后引发教育危机恐慌，时任美国教育部助理部长 Chester Finn Jr. 转向经合组织下设的[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（Centre for Educational Research and Innovation，CERI），委托并资助 CERI 主管 [[Jarl Bengtsson]] 团队研发跨国[[Performance Indicators\|教育指标]]体系。这一关键转向促成了 1988 年[[International Indicators of Education Systems\|国际教育系统指标]]（International Indicators of Education Systems，INES）项目网络的正式启动，标志着 OECD 彻底从传统的投入端与粗放人力核算转向关注教育系统的产出效能与质量问责，随后于 1992 年推出旗舰年度报告《[[Education at a Glance\|教育概览]]》（Education at a Glance，EAG），为后来的跨国测试奠定了方法论与组织基础。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
+> - **1980s–1990s — 指标体系建构与[[New Managerialism|管理主义转向]]** 1983 年美国《国家处在危险之中》（*[[A Nation at Risk 1983\|A Nation at Risk]]*）报告发布后引发教育危机恐慌，时任美国教育部助理部长 Chester Finn Jr. 转向经合组织下设的[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（Centre for Educational Research and Innovation，CERI），委托并资助 CERI 主管 [[Jarl Bengtsson]] 团队研发跨国[[Performance Indicators\|教育指标]]体系。这一关键转向促成了 1988 年[[International Indicators of Education Systems\|国际教育系统指标]]（International Indicators of Education Systems，INES）项目网络的正式启动，标志着 OECD 彻底从传统的投入端与粗放人力核算转向关注教育系统的产出效能与质量问责，随后于 1992 年推出旗舰年度报告《[[Education at a Glance\|教育概览]]》（Education at a Glance，EAG），为后来的跨国测试奠定了方法论与组织基础。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
 > - **2000–至今 — 大数据时代、[[Governing at a Distance\|远处治理]]与[[Epistemic Governance\|知识治理]]体系深化** 2000 年推出首轮 [[PISA]] 测评，随后扩展至[[Teaching and Learning International Survey\|教师教学国际调查]]（Teaching and Learning International Survey，TALIS）、[[Programme for the International Assessment of Adult Competencies\|国际成人能力评估项目]]（Programme for the International Assessment of Adult Competencies，PIAAC）及面向全球南方的发展型 PISA（[[PISA for Development]]，PISA-D）。经合组织不仅开创了跨国量化排名的[[Governing by Numbers\|数字治理]]（Governing by Numbers）模式，更通过深度工具打包与外向型国别横向借鉴演进为全球教育政策规范制定者。与此同时，OECD 下属[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI）自 2000 年起开启了长达二十余年的教育知识管理与知识治理体系探索（2000/2003 部门知识治理调查、2007 年《Evidence in Education》旗舰专著、2010 年《The Nature of Learning》学习科学工程、教师知识调查 TKS 及 2021 年启动的[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]），推动成员国从被动接受指标排名转向主动建构国家级[[Evidence Ecosystem\|证据生态系统]]。这一由 OECD 驱动的经济导向教育政策与大规模量化测试，深刻改变了比较教育的政策咨询生态，瓦解了战后劳威斯倡导的超然航海咨询模式，使比较研究深度卷入主权国家人力资本问责与技术官僚治理之中。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 424–425)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 543–545)]]; [[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 16–27)]]; [[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 95–96)]]
 
 ---
@@ -246,7 +247,7 @@ updated: 2026-09-29
 > > [!axis] 比较教育学科认识论侵蚀与咨询[[Paradigm|范式]]异化
 > > 探讨经合组织指标治理对传统比较教育学科自主性、认识论深度与政策咨询伦理的深层冲击。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 95–96, 98–99)]]
 > >
-> > - **学科史批判视角（Mitter, 2009）** 欧洲比较教育学科史学者指出，经合组织主导的经济导向政策与大规模量化测评，瓦解了比较教育自战后确立的“[[Navigation Metaphor in Comparative Education\|航海隐喻]]”传统。经合组织将比较研究从呈现多元历史情境与制度备选方案的审慎中介，异化为直接绑定政府拨款与硬性问责的技术工具；这种由超国家官僚机构直接设定研究目标与评价指标的机制，不仅削弱了大学比较学者的独立探究自主权，更以去语境化的浅层排名掩盖了教育制度与本土文化土壤之间的深层生态共生关系。
+> > - **学科史批判视角（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）** 欧洲比较教育学科史学者指出，经合组织主导的经济导向政策与大规模量化测评，瓦解了比较教育自战后确立的“[[Navigation Metaphor in Comparative Education\|航海隐喻]]”传统。经合组织将比较研究从呈现多元历史情境与制度备选方案的审慎中介，异化为直接绑定政府拨款与硬性问责的技术工具；这种由超国家官僚机构直接设定研究目标与评价指标的机制，不仅削弱了大学比较学者的独立探究自主权，更以去语境化的浅层排名掩盖了教育制度与本土文化土壤之间的深层生态共生关系。
 > > - **机构治理效能视角** 经合组织坚称，基于标准化指标与跨国可比数据的量化对标，能够打破传统经院式比较教育无法为现实决策提供精准证据的弊端，为成员国识别技能差距、优化公共资源配置并提升全球竞争力提供关键实证杠杆。
 
 > [!citation-card] 《[[PISA]] 2000：测量学生知识与技能》前言（2000年）

@@ -23,6 +23,7 @@ related_concepts:
   - "[[Cross-National Attraction]]"
   - "[[Praxis]]"
   - "[[Growth]]"
+  - "[[Time-Space Compression]]"
 related_theories:
   - "[[Network Society]]"
 related_methods:
@@ -76,7 +77,7 @@ updated: 2026-09-17
 ## 核心要素
 
 > [!feature] 核心要素
-> - **移动即变形命题** 教育流动不是物理意义上的平移，而是社会学意义上的[[Recontextualization\|再脉络化]]。任何跨境流动的教育符号，都会由于时空压缩和地方权力的压缩而改变其原有的核心配置。([[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 315]])
+> - **移动即变形命题** 教育流动不是物理意义上的平移，而是社会学意义上的[[Recontextualization\|再脉络化]]。任何跨境流动的教育符号，都会由于[[Time-Space Compression|时空压缩]]和地方权力的压缩而改变其原有的核心配置。([[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 315]])
 > - **形状分析维度的缺失** 比较教育长期缺乏描述制度形状的系统概念（如外部治理、内部管理、教学关系和研究承诺）。这使得研究者难以精准刻画制度形态在形变前后的具体差异。([[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 322]])
 > - **国家层面的杂糅式并置** 形变在政策层常表现为革新与保守的矛盾并存——政策文本表面上采纳全球化新词（如能力、跨学科），但其实际结构依然保留传统体制（如百科全书分科）。([[Argument_Beech_2009_CE\|Beech, 2009, p. 356]])
 > - **微观实践的[[Going Native\|本土化]]变形** 形变最终在微观学校层面发生质的偏离，即地方行动者在既有认知框架 与物质（如贫困）约束下对概念进行重新释义，甚至导致与初衷相反的结果。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 360–361]])

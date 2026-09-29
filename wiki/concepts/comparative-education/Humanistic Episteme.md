@@ -23,6 +23,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Bildung]]"
   - "[[Paideia]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Technical Rationality]]"
   - "[[Performance Indicators]]"
   - "[[Disciplina and Doctrina]]"
@@ -71,7 +72,7 @@ updated: 2026-09-07
 ## 定义
 
 > [!def] 核心定义
-> **人本[[Epistemology\|认识论]]（Humanistic Episteme）**，亦称**以人为中心的比较教育学（Anthropocentric Comparative Education）**，是指[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]在重估比较教育学术思想史时系统提炼的核心元认识论范畴。该范畴主张比较教育学绝非单纯测量学校组织效能、劳动力产出或政策工具移植的应用社会科学，而是一门以古希腊“全人[[Bildung\|教化]]”（*[[Paideia]]*）与德意志“精神教养”（[[Bildung\|教化]]）为本体基石的广义人文科学（*Wissenschaft* / *Episteme*）。其核心使命是把“人（*Anthropos*）”及其精神自由、文化尊严与道德完善置于跨国研究的绝对中心，直面人类在现代文明演进中所遭遇的重大政治、社会与伦理危机。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
+> **人本[[Epistemology\|认识论]]（Humanistic Episteme）**，亦称**以人为中心的比较教育学（Anthropocentric Comparative Education）**，是指[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]在重估比较教育学术思想史时系统提炼的核心元认识论范畴。该范畴主张比较教育学绝非单纯测量学校组织效能、劳动力产出或政策工具移植的应用社会科学，而是一门以古希腊“全人[[Bildung\|教化]]”（*[[Paideia]]*）与德意志“精神教养”（[[Bildung\|教化]]）为本体基石的广义[[Geisteswissenschaften|人文科学]]（*Wissenschaft* / *Episteme*）。其核心使命是把“人（*Anthropos*）”及其精神自由、文化尊严与道德完善置于跨国研究的绝对中心，直面人类在现代文明演进中所遭遇的重大政治、社会与伦理危机。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向比较教育学在认知对象与终极目的上的最高哲学定位：研究的焦点不是冷冰冰的体制条文与量化指标，而是制度背后作为主体的人之生成与生存境况。

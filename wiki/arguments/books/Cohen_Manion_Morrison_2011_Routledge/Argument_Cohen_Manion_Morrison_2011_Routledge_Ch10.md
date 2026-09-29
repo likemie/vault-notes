@@ -91,6 +91,7 @@ related_concepts:
   - "[[Definition of Terms]]"
   - "[[Unit of Analysis]]"
   - "[[Reflexivity]]"
+  - "[[Insider-Outsider Perspective in Comparative Education]]"
   - "[[Metainferences]]"
   - "[[Order Effects]]"
   - "[[Axiology]]"
@@ -892,7 +893,7 @@ Onwuegbuzie & Johnson (2006) 主张在混合方法研究中用**"合法化"（le
 > [!dimension] 混合方法研究的九个合法化维度
 > - **样本整合（Sample integration）**
 >   不同种类和规模的样本结合（或相同样本在量化和质性中同时使用）在多大程度上能产生**高质量推断**
-> - **内外视角（Inside-outside）**
+> - **[[Insider-Outsider Perspective in Comparative Education|内外视角]]（Inside-outside）**
 >   研究者在描述和解释中如何使用、结合和平衡**内部人视角（emic）**和**外部人视角（etic）**
 > - **弱点最小化（Weakness minimization）**
 >   一种方法的**弱点**在多大程度上被另一种方法的**优势**所补偿——并适当加权这些优势和弱势

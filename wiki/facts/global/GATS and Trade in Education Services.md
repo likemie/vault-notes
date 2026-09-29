@@ -36,9 +36,9 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Analytical Stance]]"
   - "[[Attrition]]"
-  - "[[Pluri-Scalar Governance]]"
   - "[[Geopolitics of Knowledge]]"
-related_theories: []
+related_theories:
+  - "[[Pluri-Scalar Governance]]"
 related_methods:
   - "[[Correlational Research]]"
 related_instruments: []

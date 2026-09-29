@@ -46,6 +46,7 @@ related_facts:
   - "[[Comparative and International Education Society]]"
   - "[[Comparative Education Society in Europe]]"
   - "[[Mediterranean Society of Comparative Education]]"
+  - "[[British Association for International and Comparative Education]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
 confidence: high
@@ -86,7 +87,7 @@ updated: 2026-09-29
 
 > [!actor-grid] 治理架构与运作网络
 > - **决策机构（世界理事会执行委员会）** 由各成员学会推举的代表、会长（President）、副会长及秘书长组成，负责审议大会承办权、新成员学会资格审查及重大战略政策。
-> - **成员学会体系（Constituent Societies）** 包括区域性学会（如欧洲 [[Comparative Education Society in Europe|CESE]]、北欧 NOCIES、地中海 [[Mediterranean Society of Comparative Education|MESCE]]）与主权国家学会（如美国 [[Comparative and International Education Society|CIES]]、英国 BAICE、德国 DGfE 比较教育分会、中国 CIES、日本 JCES 等数十个国家学会）。
+> - **成员学会体系（Constituent Societies）** 包括区域性学会（如欧洲 [[Comparative Education Society in Europe|CESE]]、北欧 NOCIES、地中海 [[Mediterranean Society of Comparative Education|MESCE]]）与主权国家学会（如美国 [[Comparative and International Education Society|CIES]]、英国 [[British Association for International and Comparative Education|BAICE]]、德国 DGfE 比较教育分会、中国 CIES、日本 JCES 等数十个国家学会）。
 > - **常设审议机构** 包括理论转型委员会（Commission on Theory Shifts）、研究常设委员会（Research Standing Committee）、出版与跨国传播委员会。
 > - **旗舰学术盛会** 每三年举办一届的世界比较教育大会，是全球比较教育研究者规模最大、覆盖议题最广的学术盛会。
 

@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Chinese Learner]]"
   - "[[Rote Learning]]"
+  - "[[Intercultural Education]]"
   - "[[Dialogue in Education]]"
   - "[[Stereotype Threat]]"
   - "[[Meta-Cultural Sensitivity]]"
@@ -71,7 +72,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 西方教育界对[[Chinese Learner\|中国学习者]]持有的刻板印象——既包括"缺陷型"（被动、[[Rote Learning\|死记硬背]]、缺乏批判思维）也包括"优势型"（勤奋、数学好、合作性强）——是否准确、有效？这些本质化的归类对身处跨文化教育环境中的学生和教师造成了什么影响？如何超越"大文化"解释框架，建立基于相互尊重和当代现实理解的跨文化[[Dialogue in Education\|教育对话]]？
+> 西方教育界对[[Chinese Learner\|中国学习者]]持有的刻板印象——既包括"缺陷型"（被动、[[Rote Learning\|死记硬背]]、缺乏批判思维）也包括"优势型"（勤奋、数学好、合作性强）——是否准确、有效？这些本质化的归类对身处[[Intercultural Education|跨文化教育]]环境中的学生和教师造成了什么影响？如何超越"大文化"解释框架，建立基于相互尊重和当代现实理解的跨文化[[Dialogue in Education\|教育对话]]？
 
 ## 理论框架
 

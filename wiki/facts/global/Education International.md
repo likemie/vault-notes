@@ -41,6 +41,7 @@ related_persons: []
 related_facts:
   - "[[World Trade Organization]]"
   - "[[GATS and Trade in Education Services]]"
+  - "[[International Monetary Fund]]"
   - "[[World Bank]]"
   - "[[OECD]]"
   - "[[International Summits on the Teaching Profession]]"
@@ -78,7 +79,7 @@ updated: 2026-09-29
 
 > [!dev-timeline]- 组织发展历程
 > - **1993–2000 — 全球统一与反新自由主义旗帜确立** 冷战结束后正式合并建立，确立对[[World Trade Organization|世界贸易组织]]（WTO）《[[GATS and Trade in Education Services\|服务贸易总协定]]》（GATS）及新自由主义[[Endogenous and Exogenous Privatisation\|教育私有化]]浪潮的坚决抵制立场，将教育界定为不可买卖的基本人权与公共品。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 352–353)]]
-> - **2000–2010 — [[Performativity\|操演性]]生存与悖论性金融多边结盟** 面对新自由主义多边机构对全球教育治理的主导，EI 采取基于[[Performativity\|操演性]]逻辑的[[Pragmatic Paradigm\|实用主义]]结盟策略，主动与国际货币基金组织（IMF）及[[World Bank\|世界银行]]展开项目级战术协作，借由与金融巨头的接触扩大其在[[Policy Network\|政策网络]]中的话语权与能见度。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 351–353)]]
+> - **2000–2010 — [[Performativity\|操演性]]生存与悖论性金融多边结盟** 面对新自由主义多边机构对全球教育治理的主导，EI 采取基于[[Performativity\|操演性]]逻辑的[[Pragmatic Paradigm\|实用主义]]结盟策略，主动与[[International Monetary Fund|国际货币基金组织]]（IMF）及[[World Bank\|世界银行]]展开项目级战术协作，借由与金融巨头的接触扩大其在[[Policy Network\|政策网络]]中的话语权与能见度。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 351–353)]]
 > - **2010–至今 — 科研自主建制与跨国循证共治突破** EI 深度推进研究证据与教师政策的融合，设立独立运作的[[International Education\|国际教育]]协会研究院（EI Research Institute）；成功争取在[[OECD\|经合组织]]核心理事会的常设观察员席位；2011 年联合发起[[International Summits on the Teaching Profession\|国际教师职业峰会]]（International Summits on the Teaching Profession, ISTP），实现由抗争型工会向基于客观证据的高层战略协商伙伴转型。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–213, 216)]]
 
 ---
@@ -139,7 +140,7 @@ updated: 2026-09-29
 > > [!axis] 意识形态反新自由主义修辞 vs 务实[[Performativity\|操演性]]金融多边结盟
 > > 批评该组织在核心价值立场与实际联盟策略之间的深层悖论。
 > >
-> > - **批评视角（反方）** [[Argument_Beech_2009_CE\|Beech (2009)]] 等批判学者指出，EI 在官方宣言中高举反新自由主义、反对教育商品化的鲜明旗帜，但在实践中却与国际货币基金组织（IMF）和[[World Bank\|世界银行]]建立紧密合作；这种结盟并非基于教育价值观契合，而是为了在[[Global Policy Space\|全球政策空间]]中追求[[Performativity\|操演性]]的可见度与影响力广度，导致其批判锋芒被新自由主义[[Governmentality\|治理术]]吸纳与杂合。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 351–353)]]
+> > - **批评视角（反方）** [[Argument_Beech_2009_CE\|Beech (2009)]] 等批判学者指出，EI 在官方宣言中高举反新自由主义、反对教育商品化的鲜明旗帜，但在实践中却与[[International Monetary Fund|国际货币基金组织]]（IMF）和[[World Bank\|世界银行]]建立紧密合作；这种结盟并非基于教育价值观契合，而是为了在[[Global Policy Space\|全球政策空间]]中追求[[Performativity\|操演性]]的可见度与影响力广度，导致其批判锋芒被新自由主义[[Governmentality\|治理术]]吸纳与杂合。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 351–353)]]
 > > - **机构立场（正方）** EI 辩护认为，面对多边金融机构对发展中国家教育财政的绝对主导权，唯有通过制度化介入与战术性合作，才能将免费公共教育与保障教师权益的红线内嵌于援助贷款协议中；空洞的外部抗议无法阻止[[Structural Adjustment Programs|结构调整]]对教育的破坏。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 352–353)]]
 >
 > > [!axis] 跨国建制精英化协商 vs 基层工会成员日常生计诉求

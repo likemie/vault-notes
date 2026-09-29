@@ -31,6 +31,7 @@ related_theories:
 related_methods:
   - "[[Correlational Research]]"
 related_persons:
+  - "[[Roger Dale]]"
   - "[[Eleftherios Klerides]]"
 related_facts:
   - "[[PISA]]"
@@ -50,7 +51,7 @@ updated: 2026-09-24
 ## 定义
 
 > [!def] 核心定义
-> 方法论教育主义（Methodological Educationism）是指在教育研究和政策制定中，将广义的“教育”（education）无意识地简化或等同于正式的“学校教育”（schooling，即由国家和行政力量主导的正式学校体制、班级授课制与制度化课程体系）的还原论[[Epistemology\|认识论]]立场。这一概念主要由 Roger Dale 提出，用于批判传统研究忽视非正式学习、家庭与社群教育，以及过度依赖学校体制改革来解决深层社会问题的局限性。它常与[[Methodological Statism\|方法论国家主义]]（[[Methodological Nationalism]]）及[[Methodological Statism\|方法论国家中心主义]]（Methodological Statism）叠加运作。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
+> 方法论教育主义（Methodological Educationism）是指在教育研究和政策制定中，将广义的“教育”（education）无意识地简化或等同于正式的“学校教育”（schooling，即由国家和行政力量主导的正式学校体制、班级授课制与制度化课程体系）的还原论[[Epistemology\|认识论]]立场。这一概念主要由 [[Roger Dale]] 提出，用于批判传统研究忽视非正式学习、家庭与社群教育，以及过度依赖学校体制改革来解决深层社会问题的局限性。它常与[[Methodological Statism\|方法论国家主义]]（[[Methodological Nationalism]]）及[[Methodological Statism\|方法论国家中心主义]]（Methodological Statism）叠加运作。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 一种将复杂的社会化与知识传递过程还原为单一“学校机构”的认识论偏差。
@@ -110,7 +111,7 @@ updated: 2026-09-24
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2005 — 提出三位一体还原论** Roger Dale 系统梳理了支配全球化教育研究的三重方法论陷阱，明确界定了“方法论教育主义”将教育等同于学校教育的性质。(Dale, 2005, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
+> - **2005 — 提出三位一体还原论** [[Roger Dale]] 系统梳理了支配全球化教育研究的三重方法论陷阱，明确界定了“方法论教育主义”将教育等同于学校教育的性质。(Dale, 2005, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
 > - **2009 — [[Knowledge-Based Economy\|知识经济]]批判拓展** Dale & Robertson 进一步分析在知识经济浪潮中，方法论教育主义如何配合新自由主义国家，将学生的“全球竞争力”转化为可以通过学校课程直接生产的商品特质。(Dale & Robertson, 2009)
 > - **2023 — 比较教育学科演进检视** Klerides 追溯比较教育史，指出[[Global Citizenship\|全球公民]]、人权与生态身份挑战了基于“方法论教育主义”定义的传统国民学校身份，倡导引入[[Relational Space\|关系空间]]以打破三者叠加对研究的禁锢。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])
 

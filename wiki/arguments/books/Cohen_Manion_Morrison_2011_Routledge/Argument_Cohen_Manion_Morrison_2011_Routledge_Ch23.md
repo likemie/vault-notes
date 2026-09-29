@@ -65,6 +65,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Observer Drift]]"
   - "[[Habituation]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Rich and Thick Description]]"
 related_theories:
   - "[[Situative Perspective]]"
@@ -1006,7 +1007,7 @@ Lofland（1971, pp. 104–106）为克服信度问题提出了田野笔记书写
 >
 > 观察可以是非常有用的研究工具，但它也需要付出代价：可能需要**长时间**才能捕捉到所需行为或现象，在**时间和精力**上可能昂贵，并且容易出现**解释或推断数据含义**的困难。
 >
-> 最重要的是，这或许是本章最核心的论点，观察将**观察者置于道德领域**。仅仅将观察描述为非侵入性、非干预性技术从而推卸对参与者的责任是不够的。与人文科学中的其他数据收集形式一样，**观察不是道德中立的事业**。观察者和其他研究者一样，**对参与者和研究社群都负有义务**。（23.13 节）
+> 最重要的是，这或许是本章最核心的论点，观察将**观察者置于道德领域**。仅仅将观察描述为非侵入性、非干预性技术从而推卸对参与者的责任是不够的。与[[Geisteswissenschaften|人文科学]]中的其他数据收集形式一样，**观察不是道德中立的事业**。观察者和其他研究者一样，**对参与者和研究社群都负有义务**。（23.13 节）
 
 ---
 
@@ -1033,7 +1034,7 @@ Lofland（1971, pp. 104–106）为克服信度问题提出了田野笔记书写
 > *By being immersed in a particular context over time not only will the salient features of the situation emerge and present themselves but a more holistic view will be gathered of the interrelationships of factors. (Morrison, 1993, p. 88)*
 
 > [!citation-card]- 观察不是道德中立的事业
-> 与人文科学中的其他数据收集形式一样，观察不是道德中立的事业。观察者和其他研究者一样，对参与者和研究社群都负有义务。（第23章，23.13 节）
+> 与[[Geisteswissenschaften|人文科学]]中的其他数据收集形式一样，观察不是道德中立的事业。观察者和其他研究者一样，对参与者和研究社群都负有义务。（第23章，23.13 节）
 >
 > *Like other forms of data collection in the human sciences, observation is not a morally neutral enterprise. Observers, like other researchers, have obligations to participants as well as to the research community.*
 

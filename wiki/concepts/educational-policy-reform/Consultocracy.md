@@ -26,6 +26,7 @@ related_concepts:
   - "[[Co-affiliation]]"
   - "[[Confidentiality]]"
   - "[[Champ]]"
+  - "[[New Managerialism]]"
   - "[[Assemblage]]"
   - "[[Policy Network]]"
   - "[[Attrition]]"
@@ -153,7 +154,7 @@ updated: 2026-09-22
 
 > [!dev-timeline] 概念演变
 > - **1990s — [[New Public Management\|新公共管理]]与“外部咨询采购”萌发** 伴随撒切尔与里根政府推行公共部门私有化，英美政府开始引入商业顾问削减公共开支，开启行政服务市场化探索。
-> - **2000 — 顾问统治（Consultocracy）概念的正式提出** 政治学者 Saint-Martin 出版《构建新管理主义国家》，系统界定商业咨询公司在英美加三国官僚体制中的制度化崛起，正式提出顾问统治概念。
+> - **2000 — 顾问统治（Consultocracy）概念的正式提出** 政治学者 Saint-Martin 出版《构建[[New Managerialism|新管理主义]]国家》，系统界定商业咨询公司在英美加三国官僚体制中的制度化崛起，正式提出顾问统治概念。
 > - **2010s — 麦肯锡主义与教育交付体系全球扩张** [[Michael Barber\|迈克尔·巴伯]]将麦肯锡咨询工具与交付单元（Delivery Unit）推向全球教育系统，把国家教育改革转化为可量化考核的商业交付项目。
 > - **2015 — 教育政策顾问统治批判的深化** Gunter, Hall, & Mills 在《Journal of Education Policy》发文，深入剖析咨询寡头在英格兰学校重组、私有化与特许化改革中的话语霸权。
 > - **2023 — 异层治理与顾问统治的本土[[Assemblage\|装配]]实证** [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] 结合澳大利亚人均咨询支出居全球首位的实证背景，揭示前麦肯锡高管如何依托 [[Social Ventures Australia\|SVA]] [[Policy Network\|政策网络]]将咨询治国理念与国家科研体制深度咬合。

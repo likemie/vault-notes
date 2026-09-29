@@ -50,6 +50,7 @@ related_persons:
   - "[[Carlos Alberto Torres]]"
 related_facts:
   - "[[World Bank]]"
+  - "[[International Monetary Fund]]"
   - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
@@ -111,7 +112,7 @@ updated: 2026-09-28
 > *The World Bank’s logic of analysis cannot be characterized as pluralistic. Although not free from tensions and contradictions, the organization is quite monolithic (Samoff, 1992, 1993)... there is a diversity of theoretical perspectives within the ranks of the World Bank’s researchers. But he points out that the organization’s logic is implacably applied in the context of its lending and that the workings of its managers in charge of lending are distant from the theoretical and empirical analysis of its researchers.*
 
 > [!citation-card] [[Structural Adjustment Programs|结构调整]]话语的概念模糊与政治强制
-> 结构调整通常被描绘为世界银行、国际货币基金组织和其他金融机构推荐的一整套广泛政策。虽然世界银行试图在宏观稳定化、结构调整与部门调整政策之间做出概念区分，但正如萨莫夫所指出的，世界银行自身也承认，在日常实践中这些关键术语的通俗使用往往是模糊且前后矛盾的，但它们作为强制贷款附加条件的刚性却从未减弱。[[Argument_Olmos_Torres_2009_StateTheories|(Samoff, 1990; Olmos & Torres, 2009, p. 80)]]
+> 结构调整通常被描绘为世界银行、[[International Monetary Fund|国际货币基金组织]]和其他金融机构推荐的一整套广泛政策。虽然世界银行试图在宏观稳定化、结构调整与部门调整政策之间做出概念区分，但正如萨莫夫所指出的，世界银行自身也承认，在日常实践中这些关键术语的通俗使用往往是模糊且前后矛盾的，但它们作为强制贷款附加条件的刚性却从未减弱。[[Argument_Olmos_Torres_2009_StateTheories|(Samoff, 1990; Olmos & Torres, 2009, p. 80)]]
 >
 > *Although the World Bank differentiates among stabilization, structural adjustment, and adjustment policies, it acknowledges that the general use of these terms "is often imprecise and inconsistent" (Samoff, 1990).*
 

@@ -33,6 +33,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Further Education]]"
   - "[[Activity Traps]]"
+  - "[[Intercultural Education]]"
   - "[[Normal School]]"
   - "[[Academic Achievement]]"
   - "[[Going Native]]"
@@ -165,7 +166,7 @@ updated: 2026-09-22
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **微观实证反思命题** | 论证以个案学童微观证据为载体的课例研讨对打破教学私有化的决定性功能 | 课堂教学诊断、学科教学知识（PCK）提炼 | Stigler & Hiebert (1999); Dudley (2013) |
-> | **移植边界与代价命题** | 揭示西方学校在缺乏课时豁免与专业引领时推行课例研究的时间挤出与零效应风险 | 跨文化教育模式引进、教研减负政策制定 | Murphy et al. (2017); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
+> | **移植边界与代价命题** | 揭示西方学校在缺乏课时豁免与专业引领时推行课例研究的时间挤出与零效应风险 | [[Intercultural Education\|跨文化教育]]模式引进、教研减负政策制定 | Murphy et al. (2017); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
 > | **JPD 循证融通命题** | 确立课例研究为融通实践者自主探究与外部[[Research Utilization\|研究使用]]、支撑 PLC 试错微调的核心 JPD 载体 | 证据知情学校建设、教研组循证改课规程设计 | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]]; Sebba et al. (2012) |
 
 ---

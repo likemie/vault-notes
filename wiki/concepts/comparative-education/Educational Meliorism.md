@@ -35,6 +35,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Postpositivism]]"
   - "[[Variable]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Whiggism]]"
   - "[[Paradigm]]"
   - "[[Scientific Paradigm]]"
@@ -232,7 +233,7 @@ updated: 2026-09-29
 > **将早期改良主义贬抑为前科学借用期** 诺亚与埃克斯坦基于战后[[Positivism\|实证主义]]科学观，严苛指责早期先驱的调查充斥着先验道德预设与主观改良偏见，轻率将 19 世纪贬为非科学的“粗劣借用期”，主张用剥离价值偏好的跨国量化[[Variable\|变量]]检验取代传统的改良主义叙事。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 16–17, 33; Noah & Eckstein, 1969, pp. 25–26)]]
 
 > [!claim] Kaloyannaki, P. & Kazamias, A. M.
-> **打破技术自满并重返事实求真与伦理关怀相统一的传统** 卡洛扬纳基与卡扎米亚斯深刻批判了战后实证主义的方法论拜物教，指出将“科学”狭隘等同于自然科学统计建模彻底割裂了学科脱胎于欧陆人文精神科学的原初母体；现代学者若沉溺于去情境化的技术指标演算，必将使学科沦为无灵魂的技术拼盘；唯有重返现代主义发端奠定的伟大传统，将实证事实求真与人性尊严、社会正义及世界和平的崇高伦理关怀重新熔铸为一体，才能找回比较教育学失落的批判与人文灵魂。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–13, 33–34)]]
+> **打破技术自满并重返事实求真与伦理关怀相统一的传统** 卡洛扬纳基与卡扎米亚斯深刻批判了战后实证主义的方法论拜物教，指出将“科学”狭隘等同于自然科学统计建模彻底割裂了学科脱胎于欧陆人文[[Geisteswissenschaften|精神科学]]的原初母体；现代学者若沉溺于去情境化的技术指标演算，必将使学科沦为无灵魂的技术拼盘；唯有重返现代主义发端奠定的伟大传统，将实证事实求真与人性尊严、社会正义及世界和平的崇高伦理关怀重新熔铸为一体，才能找回比较教育学失落的批判与人文灵魂。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–13, 33–34)]]
 
 ---
 
@@ -318,7 +319,7 @@ updated: 2026-09-29
 > > 围绕早期先驱强烈的道德改良动机，学界形成了两大对立视角的学术交锋：[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 16–18, 33–34)]]
 > >
 > > - **Harold Noah & Max Eckstein (1969)** 批评早期改良主义充斥着强烈的价值诱导设问与主观行政偏见，严重损害了经验调查的客观性，未能达到真正[[Value Neutrality\|价值无涉]]的科学标准。
-> > - **Pella Kaloyannaki & Andreas Kazamias (2009)** 坚决驳斥这种时代倒错的[[Scientism\|科学主义]]自满，论证指出早期科学原本归属于关涉心灵与道德的欧陆精神科学；正是改良主义对人性尊严、社会正义与世界和平的崇高承诺，才赋予了比较求知以真正的灵魂与行动力。
+> > - **Pella Kaloyannaki & Andreas Kazamias (2009)** 坚决驳斥这种时代倒错的[[Scientism\|科学主义]]自满，论证指出早期科学原本归属于关涉心灵与道德的欧陆[[Geisteswissenschaften|精神科学]]；正是改良主义对人性尊严、社会正义与世界和平的崇高承诺，才赋予了比较求知以真正的灵魂与行动力。
 >
 > > [!axis] 规范性制度转置有效性 vs 跨国借用去情境化的合法性风险
 > > 针对改良主义在政策实践中的制度化形态，学者反思其外在应用后果：

@@ -37,6 +37,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Ways of Knowing]]"
   - "[[Areas of Knowledge]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Hypothesis]]"
   - "[[Feedback]]"
   - "[[Examination-Oriented Education]]"
@@ -176,7 +177,7 @@ issuing_organization: "International Baccalaureate Organization"
 > 
 > 在此哲学原点之上，课程被具象化为两大核心分析矩阵：
 > - **八大[[Areas of Knowledge\|知识领域]]（AOKs）**
->   伦理学、历史、人文科学、本土知识系统、数学、自然科学、宗教知识系统、艺术。作为分类不同知识属性的框架。
+>   伦理学、历史、[[Geisteswissenschaften|人文科学]]、本土知识系统、数学、自然科学、宗教知识系统、艺术。作为分类不同知识属性的框架。
 > - **八大[[Ways of Knowing\|认知方式]]（WOKs）**
 >   情感、信仰、想象、本能、直觉、语言、记忆、理性、感官知觉。作为探究人类如何获取和加工知识的工具。
 

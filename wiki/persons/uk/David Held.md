@@ -25,6 +25,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Emergence]]"
   - "[[Paradigm]]"
+  - "[[Time-Space Compression]]"
   - "[[Global Citizenship]]"
   - "[[Policy Borrowing]]"
   - "[[Structural Adjustment Programs]]"
@@ -91,7 +92,7 @@ updated: 2026-09-28
 >   - **代表著作** *Models of Democracy*（1987）；*Political Theory and the Modern State*（1989）。
 >   - **关键概念／方法** 民主模型、国家自主性、合法化危机。
 >   - **阶段转向** 厘清了自由主义、[[Pluralism|多元主义]]与马克思主义在国家职能上的核心分歧。
-> - **1990 年代 — 全球化转型与多维联结机制** 应对冷战终结与跨国资本激增，系统提出全球化作为超越时空压缩的制度重构。
+> - **1990 年代 — 全球化转型与多维联结机制** 应对冷战终结与跨国资本激增，系统提出全球化作为超越[[Time-Space Compression|时空压缩]]的制度重构。
 >   - **代表著作** *Political Theory Today*（1991）；*Global Transformations: Politics, Economics and Culture*（1999）。
 >   - **关键概念／方法** 全球化强度、跨国决策网络、准超国家机构。
 >   - **阶段转向** 从孤立的民族国家政治制度研究，全面转向透视跨国网络对国家政策制定主权的穿透效应。

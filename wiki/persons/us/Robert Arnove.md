@@ -28,11 +28,13 @@ related_concepts:
   - "[[Shadow State]]"
   - "[[Popular Education]]"
   - "[[Global Citizenship]]"
+  - "[[Time-Space Compression]]"
   - "[[Disciplina and Doctrina]]"
   - "[[State Educational Sovereignty]]"
   - "[[Champ]]"
   - "[[Determinism]]"
   - "[[Policy Borrowing]]"
+  - "[[New Managerialism]]"
   - "[[Dual School System]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Falsification]]"
@@ -65,6 +67,7 @@ related_persons:
 related_facts:
   - "[[Comparative and International Education Society]]"
   - "[[World Bank]]"
+  - "[[International Monetary Fund]]"
   - "[[World Trade Organization]]"
   - "[[GATS and Trade in Education Services]]"
 related_arguments:
@@ -117,7 +120,7 @@ updated: 2026-09-29
 >   - **代表著作** *Comparative Education and World-Systems Analysis* (1980); *Philanthropy and Cultural Imperialism: The Foundations at Home and Abroad* (1980); *Education and Revolution in Nicaragua* (1986). [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 105–106)]]
 >   - **关键概念／方法** 世界体系分析、文化帝国主义、文化霸权、[[Popular Education|民众教育]]、历史-比较方法。
 >   - **阶段转向** 彻底决裂于结构功能主义与古典现代化理论，将[[International Education|国际教育]]关系置于跨国劳动分工与不平等交换的现实框架中考察。
-> - **1990 年代至今 — [[Dialectic of the Global and the Local|全球与本土的辩证法]]、[[Pluri-Scalar Governance|多标度治理]]与[[Globalization from Below|自下而上的全球化]]** 应对技术时空压缩与新自由主义全球扩张，构建贯通宏观体系与微观课堂的辩证分析框架，揭示多标度治理与[[Shadow State|影子国家]]异化，探索跨国草根反抗路径。
+> - **1990 年代至今 — [[Dialectic of the Global and the Local|全球与本土的辩证法]]、[[Pluri-Scalar Governance|多标度治理]]与[[Globalization from Below|自下而上的全球化]]** 应对技术[[Time-Space Compression|时空压缩]]与新自由主义全球扩张，构建贯通宏观体系与微观课堂的辩证分析框架，揭示多标度治理与[[Shadow State|影子国家]]异化，探索跨国草根反抗路径。
 >   - **代表著作** *Comparative Education: The Dialectic of the Global and the Local* (1999/2007/2013); *Civil Society or Shadow State? State/NGO Relations in Education* (2004); *World-systems Analysis and Comparative Education in the Age of Globalization* (2009). [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–114)]]
 >   - **关键概念／方法** [[Dialectic of the Global and the Local|全球与本土的辩证法]]、双重视野（Double Vision）、[[Pluri-Scalar Governance|多标度治理]]、[[Shadow State|影子国家]]、[[Globalization from Below|自下而上的全球化]]、改革双轴分析矩阵。
 >   - **阶段转向** 兼顾宏观世界体系的结构性制约与地方主体的微观能动性，由单纯的霸权批判延伸至支持边缘群体跨国联合争取全球社会民主的实践构想。
@@ -135,7 +138,7 @@ updated: 2026-09-29
 > *The [[Dialectic of the Global and the Local]] involves understanding globalization not merely as an overarching imposition, but as a contradictory process where external pressures meet internal contestation, accommodation, and resistance.*
 
 > [!citation-card] 阿诺夫论教育改革的发起方位与目标取向矩阵
-> 面对全球资本积累的深层危机与时空压缩，世界上的教育改革展现为截然不同的维度：自上而下的官方改革主要受新自由主义议程驱动，旨在生产适应跨国柔性生产的劳动力并维护政治统治秩序；而依托数字信息网络联合起来的自下而上草根社会运动，则以社区互助生计、原住民教育主权捍卫、女权网络与全球社会民主为目标，开辟了争取真正教育公平与社会正义的替代出路。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 113–114)]]
+> 面对全球资本积累的深层危机与[[Time-Space Compression|时空压缩]]，世界上的教育改革展现为截然不同的维度：自上而下的官方改革主要受新自由主义议程驱动，旨在生产适应跨国柔性生产的劳动力并维护政治统治秩序；而依托数字信息网络联合起来的自下而上草根社会运动，则以社区互助生计、原住民教育主权捍卫、女权网络与全球社会民主为目标，开辟了争取真正教育公平与社会正义的替代出路。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 113–114)]]
 >
 > *[[Globalization from Below]]... networks of scholars, researchers, and progressive labor, environmental, and human rights activists... have formed an alternative vision of globalization based on peace, social justice, and international solidarity.*
 
@@ -146,7 +149,7 @@ updated: 2026-09-29
 > [!influence-path] 影响路径
 > - **理论路径** 与[[Carlos Alberto Torres|托雷斯]]共同开创的全球与本土辩证法[[Paradigm|范式]]已成为比较教育学的基准[[Analytic Framework|分析框架]]，打破了世界文化学派单一的同形趋同叙事与古典[[Dependency Theory|依附论]]的机械[[Determinism|决定论]]，为当代批判比较教育学树立了多标度、多维度的解释典范。
 > - **方法路径** 倡导“双重视野”（Double Vision）与宏微观贯通的比较案例设计（[[Comparative Case Study]], CCS），开创了将跨国宏观制度分析与微观人类学课堂[[Ethnography|民族志]]深度融合的方法论传统。
-> - **政策与机构批判** 对[[World Bank|世界银行]]、国际货币基金组织以及大型跨国慈善基金会（福特、洛克菲勒、卡内基）的批判性政治经济学解构，深刻启发了全球教育学术界对跨国[[Policy Borrowing|政策借用]]、新管理主义与[[Shadow State|影子国家]]外包风险的反思。
+> - **政策与机构批判** 对[[World Bank|世界银行]]、[[International Monetary Fund|国际货币基金组织]]以及大型跨国慈善基金会（福特、洛克菲勒、卡内基）的批判性政治经济学解构，深刻启发了全球教育学术界对跨国[[Policy Borrowing|政策借用]]、[[New Managerialism|新管理主义]]与[[Shadow State|影子国家]]外包风险的反思。
 > - **学术共同体与跨国传播** 作为 [[Comparative and International Education Society|CIES]] 前会长与国际比较教育学界的精神领袖，阿诺夫长期致力于推动南北学术平等对话，支持拉美、非洲与亚洲青年学者开展反思资本主义霸权本土经验的批判研究。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引

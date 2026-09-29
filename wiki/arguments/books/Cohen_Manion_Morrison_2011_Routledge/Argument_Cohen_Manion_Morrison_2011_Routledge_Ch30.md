@@ -48,6 +48,7 @@ related_concepts:
   - "[[Saturation]]"
   - "[[Homework]]"
   - "[[Rich and Thick Description]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Dependent Variable]]"
   - "[[Hawthorne Effect]]"
   - "[[Hypothesis]]"
@@ -306,7 +307,7 @@ updated: 2026-09-08
 > - **用途** 兼具非介入性观察、大规模文献缩减、开放题编码、主题频次统计与文化趋势推断，广泛应用于跨学科社会结构与互动研究（Weber, 1990；Anderson & Arsenault, 1998）。
 > - **边界** 仅适用于留存的永久性文本；文本不具备独立于读者的自明客观性，脱离语境的机械字面统计容易导致深层语义误判。
 
-内容分析最初起源于对大众传媒和公共政治演说的分析，随后扩展至所有形式的结构化与非结构化传播材料。罗伯特·韦伯（Robert Weber）指出，内容分析可广泛应用于文化、社会结构与社会互动的交叉领域、实验设计中[[Dependent Variable|因变量]]的生成，以及将特定群体作为社会缩影的微观考察（Weber, 1990, p. 11）。
+内容分析最初起源于对大众传媒和公共政治演说的分析，随后扩展至所有形式的结构化与非结构化传播材料。罗伯特·韦伯（Robert Weber）指出，内容分析可广泛应用于文化、社会结构与社会互动的[[Comparative Education as a Cross-Sectional Area|交叉领域]]、实验设计中[[Dependent Variable|因变量]]的生成，以及将特定群体作为社会缩影的微观考察（Weber, 1990, p. 11）。
 
 > [!strength] 内容分析的核心方法优势与学术特征（pp. 563–564）
 > - **非介入性观察技术（Unobtrusive Technique）** 研究者可以在不介入、不打扰行动者的情况下静默观察与分析，避免了研究者在场带来的[[Hawthorne Effect\|霍桑效应]]与观察者反应偏差（Robson, 1993, p. 280；Krippendorff, 2004, p. 40）。

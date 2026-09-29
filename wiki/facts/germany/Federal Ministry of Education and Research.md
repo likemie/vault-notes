@@ -35,6 +35,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Champ]]"
   - "[[Positivism]]"
+  - "[[Allgemeine Pädagogik]]"
   - "[[Experiential Learning]]"
   - "[[Disciplina and Doctrina]]"
   - "[[International Education]]"
@@ -177,7 +178,7 @@ updated: 2026-09-27
 > > BMBF 通过 [[Qualitätsoffensive Lehrerbildung|QLB]] 等重大攻坚计划以巨额专项经费引导全国高校师资培养与循证转化，但在大学学术[[Champ|场域]]内部遭遇了多范式治理冲突与自主性抵制。[[Argument_Manitius_vanHolt_2019_BzS\|(Heinrich & Streblow, 2019; Manitius & van Holt, 2019, p. 13)]]
 > >
 > > - **自上而下政策导向（BMBF 与[[Positivism|实证主义]]取向）** 试图将实证证据、因果效能与清算转化确立为高校师资培养的法定基准，强调以国家项目指标考核倒逼大学内部组织变革。
-> > - **大学内部多范式反思（学术自治与学科多元派）** 指出大学教师教育历来由普通教育学（人文学派哲学思辨）、学科教学论（Fachdidaktik）与[[Experiential Learning|经验教育]]心理学等多重范式共存构成，国家自上而下的行政专项资助易被异化为对学术自主的[[Disciplina and Doctrina|规训]]；若忽略大学内部异质学科文化的协商对话与制度土壤，单纯依靠国家行政协议与项目制资金注入难以催生内生性的教学实践改进。
+> > - **大学内部多范式反思（学术自治与学科多元派）** 指出大学教师教育历来由[[Allgemeine Pädagogik|普通教育学]]（人文学派哲学思辨）、学科教学论（Fachdidaktik）与[[Experiential Learning|经验教育]]心理学等多重范式共存构成，国家自上而下的行政专项资助易被异化为对学术自主的[[Disciplina and Doctrina|规训]]；若忽略大学内部异质学科文化的协商对话与制度土壤，单纯依靠国家行政协议与项目制资金注入难以催生内生性的教学实践改进。
 
 ---
 

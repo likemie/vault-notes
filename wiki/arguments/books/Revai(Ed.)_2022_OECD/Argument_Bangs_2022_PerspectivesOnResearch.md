@@ -105,8 +105,8 @@ related_methods:
   - "[[Mixed Methods Research]]"
 related_persons:
   - "[[Dirk Van Damme]]"
-  - "[[Mark Schneider]]"
   - "[[Vivian Tseng]]"
+  - "[[Mark Schneider]]"
   - "[[John Bangs]]"
   - "[[Tine S. Prøitz]]"
   - "[[John Dewey]]"
@@ -167,7 +167,7 @@ updated: 2026-09-14
 > | **[[Action Research]]**<br>校本合作行动研究 | 揭示一线学校教师作为[[Knowledge Co-production\|知识共创]]者而非被动受试者的微观机制，阐明校本行动研究如何与国家教师职业生涯阶梯相结合，驱动薄弱学校转型为内生型的知识创造型组织。（pp. 213–216） |
 
 > [!warrant]- 理论透镜如何支撑多方论辩推导
-> 上述理论透镜构成了环环相扣的推导桥梁：[[Dirk Van Damme\|范达默]]与[[Mark Schneider\|施奈德]]从实证科学与[[Theory of Knowledge\|知识论]]高度出发，确立了教育研究摆脱认识论危机必须依赖高标准的**学科建制规范**；班斯、亨利与纳吉引入教师专业性与行动研究视角，证明了缺乏实践者**主体所有权**的科研注定陷入应用瘫痪；普勒茨与[[Vivian Tseng\|曾薇薇安]]则借助伙伴关系与证据民主化理论，从权力关系重组与资助机制重构的高度打破了研究者对[[Knowledge Production\|知识生产]]的**排他性垄断**；最后友利田运用批判社会学与专业伦理透镜，对狭隘工具主义的可用性话语提出警告，确保教育研究始终承担起**捍卫社会弱势群体**的根本受托使命。（pp. 201–202, 227–231）
+> 上述理论透镜构成了环环相扣的推导桥梁：[[Dirk Van Damme\|范达默]]与施奈德从实证科学与[[Theory of Knowledge\|知识论]]高度出发，确立了教育研究摆脱认识论危机必须依赖高标准的**学科建制规范**；班斯、亨利与纳吉引入教师专业性与行动研究视角，证明了缺乏实践者**主体所有权**的科研注定陷入应用瘫痪；普勒茨与[[Vivian Tseng\|曾薇薇安]]则借助伙伴关系与证据民主化理论，从权力关系重组与资助机制重构的高度打破了研究者对[[Knowledge Production\|知识生产]]的**排他性垄断**；最后友利田运用批判社会学与专业伦理透镜，对狭隘工具主义的可用性话语提出警告，确保教育研究始终承担起**捍卫社会弱势群体**的根本受托使命。（pp. 201–202, 227–231）
 
 ---
 
@@ -512,7 +512,7 @@ updated: 2026-09-14
 >
 > *The road to upgrading educational research so that education systems become evidence-based knowledge systems is a long and winding one. In the meantime, let’s be respectful of how policy makers and practitioners solve their knowledge needs. The challenge lies with the research community, not with teachers and policy makers.*
 
-> [!citation-card] [[Mark Schneider\|施奈德]]论拆解干预构件与终结混杂药丸袋黑箱
+> [!citation-card] 施奈德论拆解干预构件与终结混杂药丸袋黑箱
 > 许多教育干预完全就像一袋混杂的药丸：由一大堆构件拼凑而成，其中许多构件从未被清晰识别过，更谈不上被独立评估。[[Institute of Education Sciences\|IES]] 正全力推动教育研究者明确界定干预的各项构件，进而分离每一项构件的独立效应与实施成本。（p. 207）
 >
 > *Yet, far too many education interventions are exactly like the bag of pills – a collection of parts, many of which have never been clearly identified, let alone evaluated. IES has been pushing hard to get education researchers to identify the components of an intervention and then work to isolate the effects (and the costs) of each component.*

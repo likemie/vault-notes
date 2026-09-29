@@ -55,7 +55,6 @@ related_persons:
   - "[[Jarl Bengtsson]]"
   - "[[Norberto Bottani]]"
   - "[[Dirk Van Damme]]"
-  - "[[Mark Schneider]]"
   - "[[Vivian Tseng]]"
 related_facts:
   - "[[OECD]]"
@@ -108,7 +107,7 @@ updated: 2026-09-26
 > - **2000 年代至今 — 未来学校构想、[[Epistemic Governance\|知识治理]]探索与高阶素养量规研发** 进入 21 世纪，随着大型评测与常规指标转交教育与技能司行政流水线，CERI 全面深化其前瞻实验室与教育知识治理智库定位：
 >   - **工会参与治理与跨国证据协商机制突破（2010–2011）** 2010 年，[[Education International\|国际教育协会]]（Education International, EI）通过经合组织工会咨询委员会（Trade Union Advisory Committee to the OECD, TUAC）成功争取到在 CERI 领导理事会（Governing Board）的常设观察员席位，制度化确立跨国调查数据归政策当局与广大教师及其工会组织共同所有的原则；2011 年联合美国教育部、[[National Education Association\|全美教育协会]]（NEA）、[[American Federation of Teachers|美国教师联盟]]（AFT）与 EI 联合创设[[International Summits on the Teaching Profession\|国际教师职业峰会]]（International Summits on the Teaching Profession, ISTP）。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212, 216)]]
 >   - **知识管理与证据治理深耕** 2000/2003 年率先开展跨部门知识治理与教育研发调查，2007 年出版划时代专著《Evidence in Education: Linking Research and Policy》；2010 年发布《The Nature of Learning》；实施覆盖 29 国 37 个教育系统的[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]，开创涵盖结构、关系、质量、文化与能力的[[Evidence Ecosystem\|证据生态系统]]宏观政策诊断工具。[[Argument_Revai_2022_ChangingLandscape\|(OECD, 2000, 2003, 2007; Révai, 2022, pp. 16–27)]]
->   - **前瞻情境、高阶素养量规与多利益相关方论辩（2019–2022）** 2019 年研制发布跨学科[[Higher-Order Thinking Skills\|高阶思维]]评价量规；2022 年由编者诺拉·雷瓦伊主持设计跨越学术建制派（[[Dirk Van Damme\|范达默]]）、官方资助派（[[Mark Schneider\|施奈德]]）、全球工会派（班斯与亨利）、一线实践派（纳吉）、国家试点派（普勒茨）、慈善民主派（[[Vivian Tseng\|曾薇薇安]]）与批判伦理派（友利田）的 7 大利益相关者群体论辩矩阵，全面反思供给侧质量赤字与学术榨取，推动迈向[[Democratising Evidence\|证据民主化]]与专业受托伦理。[[Argument_Bouckaert_2023_OECD\|(Vincent-Lancrin et al., 2019; Bouckaert, 2023, pp. 28, 30)]]; [[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 200–234)]]
+>   - **前瞻情境、高阶素养量规与多利益相关方论辩（2019–2022）** 2019 年研制发布跨学科[[Higher-Order Thinking Skills\|高阶思维]]评价量规；2022 年由编者诺拉·雷瓦伊主持设计跨越学术建制派（[[Dirk Van Damme\|范达默]]）、官方资助派（施奈德）、全球工会派（班斯与亨利）、一线实践派（纳吉）、国家试点派（普勒茨）、慈善民主派（[[Vivian Tseng\|曾薇薇安]]）与批判伦理派（友利田）的 7 大利益相关者群体论辩矩阵，全面反思供给侧质量赤字与学术榨取，推动迈向[[Democratising Evidence\|证据民主化]]与专业受托伦理。[[Argument_Bouckaert_2023_OECD\|(Vincent-Lancrin et al., 2019; Bouckaert, 2023, pp. 28, 30)]]; [[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 200–234)]]
 
 ---
 
@@ -165,7 +164,7 @@ updated: 2026-09-26
 > > [!axis] 官方科学卓越规制 vs 实践者主体赋权
 > > 在证据生态治理方向上，建制派与批判实践派存在深刻论辩。
 > >
-> > - **建制学者立场（[[Dirk Van Damme\|范达默]] / [[Mark Schneider\|施奈德]]）** 强调如果供给侧缺乏严格的自主演绎理论、SEER 卓越标准与独立复现，向实践界推介的成果就如同未拆解的药丸袋黑箱，缺乏公信力。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 202–209)]]
+> > - **建制学者立场（[[Dirk Van Damme\|范达默]] / 施奈德）** 强调如果供给侧缺乏严格的自主演绎理论、SEER 卓越标准与独立复现，向实践界推介的成果就如同未拆解的药丸袋黑箱，缺乏公信力。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 202–209)]]
 > > - **工会与赋权学者立场（班斯 / [[Vivian Tseng\|曾薇薇安]] / 友利田）** 指出单纯从出资人角度拔高技术标准只会进一步剥夺一线教师所有权，造成高校对社区的榨取式科研与均值正态化排斥，必须推进[[Democratising Evidence\|证据民主化]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209–227)]]
 
 ---

@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Recontextualization]]"
+  - "[[Intercultural Education]]"
   - "[[Dialogue in Education]]"
   - "[[Decodification]]"
   - "[[Praxis]]"
@@ -51,7 +52,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 外来政策/理念与本土既有文化信念之间基于内在结构相似性与价值重合而发生的互惠结合与相互借力机制。
-> - **用途** 帮助研究者超越单向的“政策移植”或“文化抵制”二元对立视角，解释跨文化教育借用中自下而上的主动吸收与本土主体性重构。
+> - **用途** 帮助研究者超越单向的“政策移植”或“文化抵制”二元对立视角，解释[[Intercultural Education|跨文化教育]]借用中自下而上的主动吸收与本土主体性重构。
 > - **边界** 不等于单向的强制服从，亦不等于全盘同一或无摩擦融合；选择性亲和只在特定的重叠维度（如[[Dialogue in Education|对话教学]]与深度思考）上发生。
 
 ---

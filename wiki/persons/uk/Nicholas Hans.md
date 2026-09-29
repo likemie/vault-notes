@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Factorial Interpretive Framework]]"
   - "[[National Character]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Epistemic Stances]]"
@@ -72,7 +73,7 @@ updated: 2026-09-29
 > [!person-profile] 人物档案
 > - **身份位置** 俄裔英国比较教育学家、教育史学家，伦敦大学国王学院（King's College London）比较教育学读者（Reader），与约瑟夫·劳威斯（[[Joseph Lauwerys]]）长期共同主编《世界教育年鉴》（*World Year Book of Education*）。
 > - **核心角色** 20 世纪历史-哲学学派最具方法论系统性的奠基学者，开创闻名学界的“[[Factorial Interpretive Framework|因素解释框架]]”。米特（[[Wolfgang Mitter]]）将其与德国的[[Friedrich Schneider|弗里德里希·施奈德]]并列为 20 世纪前中期（1920s–1950s）主导欧洲比较教育的“宏大历史文化全景”流派领袖，坚守欧洲文化主义主流，为抵御北美量化实证与行为主义侵蚀奠定了深厚的方法论防线。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]
-> - **代表贡献** 确立包含自然、宗教与世俗三大维度的因素分析法；提出以历史背景、[[National Character|国民性格]]与精神驱动力诠释学制的分析原则；将比较教育定位为具有动态改良使命、处于人文与科学边缘的广义人文科学（Vergleichende Erziehungswissenschaft）；深刻辨析英美政治自由与苏联社会平等两种民主[[Paradigm|范式]]的教育局限。
+> - **代表贡献** 确立包含自然、宗教与世俗三大维度的因素分析法；提出以历史背景、[[National Character|国民性格]]与精神驱动力诠释学制的分析原则；将比较教育定位为具有动态改良使命、处于人文与科学边缘的广义[[Geisteswissenschaften|人文科学]]（Vergleichende Erziehungswissenschaft）；深刻辨析英美政治自由与苏联社会平等两种民主[[Paradigm|范式]]的教育局限。
 
 > [!citation-card] 人物定位的关键来源
 > A. R. 特雷瑟韦（A. R. Tretheway）指出，尼古拉斯·汉斯（Nicholas Hans）的卓越贡献并非提供[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）方法的跨大西洋翻版，尽管二者分享诸多共通之处；他的独特贡献在于构建了一个由各种“因素”组成的比较研究框架。汉斯坚信这些因素代表了塑造民族及其教育系统的内在与永久力量，该框架的巨大价值在于为原本可能难以驾驭的海量相关历史数据赋予了秩序与严整结构。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 49–50)]]；引自 Tretheway (1976:63–64)
@@ -146,7 +147,7 @@ updated: 2026-09-29
 > - **应用学科的动态改良使命（An Applied Subject for Institutional Reform）**
 >   区别于比较解剖学或比较宗教学等纯描述分类学术，比较教育的根本使命不仅在于记录现有制度，更在于设想最适合新社会与经济条件的制度改革方案。Hans (1952: 57)；引自 [[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 51)]]
 > - **跨越人文与科学边缘的哲学品格（Borderline Discipline Resembling Philosophy）**
->   比较教育学坐落于人文科学与自然科学的交界边缘，区别于机械的政策工程学；它依托教育哲学确立价值目的，依托历史学、社会学与经济学奠定经验事实根基。(Hans, 1959: 299)
+>   比较教育学坐落于[[Geisteswissenschaften|人文科学]]与自然科学的交界边缘，区别于机械的政策工程学；它依托教育哲学确立价值目的，依托历史学、社会学与经济学奠定经验事实根基。(Hans, 1959: 299)
 > - **质性品质与文化[[Incommensurability\|不可通约性]]防线（Qualitative Integrity against Psychometrics）**
 >   统计测验与心理测量在跨国应用时受制于文化不可[[Commensuration\|通约]]性障碍；量化数据绝无法定义教育目标，比较研究的核心仍须锁定在学校体系所依托的深层文化氛围与制度质性品质。(Hans, 1959: 447)
 
@@ -205,7 +206,7 @@ updated: 2026-09-29
 米特（[[Wolfgang Mitter]]）进一步从欧洲学术史全景高度，界定了汉斯在 20 世纪前中期欧洲比较教育学科建构中的断代领袖地位。
 
 > [!citation-card] 米特论汉斯与欧洲宏大历史文化全景[[Paradigm|范式]]
-> 米特（[[Wolfgang Mitter]]）指出，在 1920 年代至 1950 年代期间，主导欧洲比较教育学术图景的是“宏大历史文化全景”（grand historical-cultural panorama），这一范式主要由德国的[[Friedrich Schneider|弗里德里希·施奈德]]（[[Friedrich Schneider]]）与英国的尼古拉斯·汉斯共同奠定。汉斯将“把每个国家体系置于其历史背景中，研究其与[[National Character|国民性格]]和文化发展的紧密联系”作为核心研究纲领，深入探究教育制度背后的深层精神与文化驱动力。这一宏大全景构筑了欧洲比较教育深厚的精神科学与文化主义主流，为抵御北美量化行为主义的简单化移植提供了强有力的理论与历史防线。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 93–94)]]
+> 米特（[[Wolfgang Mitter]]）指出，在 1920 年代至 1950 年代期间，主导欧洲比较教育学术图景的是“宏大历史文化全景”（grand historical-cultural panorama），这一范式主要由德国的[[Friedrich Schneider|弗里德里希·施奈德]]（[[Friedrich Schneider]]）与英国的尼古拉斯·汉斯共同奠定。汉斯将“把每个国家体系置于其历史背景中，研究其与[[National Character|国民性格]]和文化发展的紧密联系”作为核心研究纲领，深入探究教育制度背后的深层精神与文化驱动力。这一宏大全景构筑了欧洲比较教育深厚的[[Geisteswissenschaften|精神科学]]与文化主义主流，为抵御北美量化行为主义的简单化移植提供了强有力的理论与历史防线。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 93–94)]]
 >
 > *In the period between the 1920s and 1950s the 'grand historical-cultural panorama' dominated the comparative education scene, primarily shaped by Friedrich Schneider in Germany and Nicholas Hans in England... Hans made it his claim 'to put each national system in its historical context, studying its close connection with national character and cultural developments'...*
 

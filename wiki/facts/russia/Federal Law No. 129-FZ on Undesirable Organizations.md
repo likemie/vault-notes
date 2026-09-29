@@ -23,6 +23,7 @@ tags:
   - "region/russia"
 related_concepts:
   - "[[Blue Skies Research]]"
+  - "[[Geisteswissenschaften]]"
   - "[[Scientific Autarky]]"
 related_theories: []
 related_methods: []
@@ -90,7 +91,7 @@ updated: '2026-06-30'
 ## 效果与评价
 
 > [!finding-cards] 效果与评价
-> - **国际竞争性资助“归零”** 导致境外学术基金会（如ORF等）在俄分支彻底清零，致使大量青年学者丧失了本就紧缺的竞争性研究资金，尤其重创了社科与人文科学领域。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 46–47]])
+> - **国际竞争性资助“归零”** 导致境外学术基金会（如ORF等）在俄分支彻底清零，致使大量青年学者丧失了本就紧缺的竞争性研究资金，尤其重创了社科与[[Geisteswissenschaften|人文科学]]领域。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 46–47]])
 > - **消解了引智网络与合作平台** 导致如美俄“尤里卡”联合项目、CRDF Global在23所高校建设的科研教育中心（SECs）全部夭折，前期积累的多边学术网络和青年研究平台被迫解体。
 > - **逼迫学术资助走向行政垄断** 境外资助的消失直接促成了俄罗斯科学基金（RSF）对国家竞争性科研资助的绝对垄断，极大地压缩了非主流研究和前沿探索性课题的生存空间。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 47]])
 

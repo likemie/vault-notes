@@ -42,7 +42,8 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Sample Size Determination]]"
   - "[[Ethnography]]"
-related_persons: []
+related_persons:
+  - "[[Kathryn Anderson-Levitt]]"
 related_facts:
   - "[[French Class Size Reduction]]"
   - "[[Campbell Collaboration]]"
@@ -131,7 +132,7 @@ updated: 2026-09-29
 > - **1978 — Glass & Smith 的开拓性[[Meta-analysis|元分析]]** 收集 77 项研究、725 项比较、近 90 万学生数据，首次用回归分析揭示班级规模与成就的负相关；发现控制质量是关键调节[[Variable|变量]]——且控制不充分的研究反而**低估**了班级规模效应，这一发现颠覆了方法粗糙必然夸大效果的直觉（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.357–360]]）。
 > - **1985–1989 — STAR 随机试验** 田纳西州大型随机试验，小班 13–17 人 与 22–26 人的大班进行比较，为班级规模效应提供了最严格实验证据。
 > - **1996 — 加州全州推广** 试图将 STAR 证据全州推广，因合格教师和教室不足导致效果稀释，成为 [[Randomised Controlled Trials|RCT]] 外推争论的关键反例。
-> - **2003–2004 — 比较教育与全球南方视角** 凯瑟琳·安德森-莱维特（Kathryn M. Anderson-Levitt, 2003, 2004; 引自 [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 108–109]]）跨国比较几内亚、法国与美国课堂，指出几内亚的大班额与教材匮乏构成了吸收全球通用教学规范的物质屏障，确立了班级规模作为宏观制度与微观实践交互约束的“双重视野”（Double Vision）。
+> - **2003–2004 — 比较教育与全球南方视角** [[Kathryn Anderson-Levitt|凯瑟琳·安德森-莱维特]]（Kathryn M. Anderson-Levitt, 2003, 2004; 引自 [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 108–109]]）跨国比较几内亚、法国与美国课堂，指出几内亚的大班额与教材匮乏构成了吸收全球通用教学规范的物质屏障，确立了班级规模作为宏观制度与微观实践交互约束的“双重视野”（Double Vision）。
 > - **2000s–至今 — 证据分化与政策争议** 班级规模证据呈现年龄、学科、社会经济背景的分化模式，政策讨论从"是否有效"转向"对谁有效、以什么成本、在什么条件下"。
 
 ---

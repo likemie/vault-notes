@@ -53,6 +53,7 @@ related_persons:
 related_facts:
   - "[[Education International]]"
   - "[[World Bank]]"
+  - "[[International Monetary Fund]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
@@ -178,7 +179,7 @@ updated: 2026-09-28
 > [!dev-timeline] 概念演变
 > - **1993 — 市场化作为阶级策略确立** [[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）发表《教育市场、选择与社会阶级》，深刻揭露教育准市场化是国家主导的阶级再生产策略。
 > - **2008 — 内生与外生私有化[[Paradigm|范式]]提出** 鲍尔与尤德尔（Ball & Youdell）在为[[International Education|国际教育]]组织（[[Education International]]）撰写的全球报告中，首次系统界定公立教育内部运作企业化（内生）与外部服务私营化（外生）的双轨模型。
-> - **2009 — 发展中国家[[Structural Adjustment Programs|结构调整]]视阈拓展** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]（Olmos & Torres）将私有化论题延伸至[[Conditioned State Theory|受限国家]]的结构调整方案中，揭示[[World Bank|世界银行]]与国际货币基金组织如何以紧缩贷款迫使拉美国家推行使用者自费与教育分权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
+> - **2009 — 发展中国家[[Structural Adjustment Programs|结构调整]]视阈拓展** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]（Olmos & Torres）将私有化论题延伸至[[Conditioned State Theory|受限国家]]的结构调整方案中，揭示[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]如何以紧缩贷款迫使拉美国家推行使用者自费与教育分权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 > - **2016 — 精英网络与政策暗箱化实证深化** 奥尼尔等人（O'Neill et al.）以新西兰基础教育为样本，记录了私有化从单纯合同外包走向跨国精英网络幕后操纵政策议程的演进轨迹。
 > - **2022 — [[Internationalization of Higher Education|高等教育国际化]]因果链整合** 里兹维（Rizvi）将该理论框架运用于全球高教流动分析，揭示国际教育贸易如何将大学固化在内生私有化的循环逻辑中。
 

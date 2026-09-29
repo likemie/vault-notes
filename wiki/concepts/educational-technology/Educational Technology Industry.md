@@ -19,6 +19,7 @@ tags:
 - region/global
 related_concepts:
   - "[[STEM Education]]"
+  - "[[Virtual University]]"
   - "[[Lifelong Learning]]"
   - "[[Learning Analytics]]"
   - "[[Self-Directed Learning]]"
@@ -61,7 +62,7 @@ updated: 2026-09-22
 
 
 > [!abstract] 利润（Profit）
-> EdTech 是股票市场增长最快的板块之一。ICT 巨头——Google、Apple、Microsoft——均设有大型教育部门，涵盖 K-12 到高等教育的全链条。K-12 领域的提供商包括 Sylvan Learning Systems 等；高等教育领域出现了 Udacity、Coursera 等虚拟大学，通常与[[Lifelong Learning\|终身学习]]叙事绑定。
+> EdTech 是股票市场增长最快的板块之一。ICT 巨头——Google、Apple、Microsoft——均设有大型教育部门，涵盖 K-12 到高等教育的全链条。K-12 领域的提供商包括 Sylvan Learning Systems 等；高等教育领域出现了 Udacity、Coursera 等[[Virtual University|虚拟大学]]，通常与[[Lifelong Learning\|终身学习]]叙事绑定。
 >
 > > 例：Google 的 Jaime Casap 被称为"教育布道者"（education evangelist）——在全球平台上推广 Google 教育工具。当 Google Classroom 被免费提供给学校，Google 获得的不是直接收入，而是下一代用户的习惯和数据。"免费"是 EdTech 商业模式中最有效的获客策略([[Argument_Amos_2022_Springer\|Amos, 2022, p.57]])。
 
