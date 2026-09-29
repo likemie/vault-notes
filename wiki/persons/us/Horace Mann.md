@@ -8,10 +8,10 @@ summary: "美国公立学校运动领袖与马萨诸塞州教育委员会首任�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 22
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 27
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1796"
 died: "1859"
 lifespan: "1796–1859"
@@ -31,10 +31,12 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Policy Borrowing]]"
   - "[[Auslandspadagogik]]"
-  - "[[Document]]"
-  - "[[Positivism]]"
-  - "[[Variable]]"
   - "[[Influences Across Cultures]]"
+  - "[[Postpositivism]]"
+  - "[[Intercultural Education]]"
+  - "[[Positivism]]"
+  - "[[Document]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -209,8 +211,8 @@ updated: 2026-09-29
 >
 > *Unlike Jullien’s, the American discourse was only tangentially about comparative education, and like Cousin’s, it was more about foreign education, or to use Fraser’s and Brickman’s terminology, it was Auslandspadagogik.*
 
-> [!citation-card] Rust, Johnstone, & Allaf 论曼在跨文化影响与政策借用史学中的奠基地位
-> 霍勒斯·曼 1844 年的《第七次年度报告》以及卡尔文·斯托（Stowe）、达拉斯·贝奇（Bache）、亨利·巴纳德（Barnard）等人的欧洲考察，决非战后实证主义者所贬抑的“非科学游记故事”，而是 19 世纪大西洋两岸对跨文化教育影响所作的极具学术深度的经验考证。曼通过批判性甄别普鲁士公共教育经验，旨在通过汲取国外先进体制来完善美利坚自由共和国的基础设施，奠定了后世跨国政策借用理论不可割裂的实证史学源流。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124–126)]]
+> [!citation-card] Rust, Johnstone, & Allaf 论曼在[[Influences Across Cultures|跨文化影响]]与[[Policy Borrowing|政策借用]]史学中的奠基地位
+> 霍勒斯·曼 1844 年的《[[Seventh Annual Report of the Massachusetts Board of Education|第七次年度报告]]》以及[[Calvin Stowe|卡尔文·斯托]]（Stowe）、达拉斯·贝奇（Bache）、[[Henry Barnard|亨利·巴纳德]]（Barnard）等人的欧洲考察，决非战[[Postpositivism|后实证主义]]者所贬抑的“非科学游记故事”，而是 19 世纪大西洋两岸对[[Intercultural Education|跨文化教育]]影响所作的极具学术深度的经验考证。曼通过批判性甄别普鲁士公共教育经验，旨在通过汲取国外先进体制来完善美利坚自由共和国的基础设施，奠定了后世跨国政策借用理论不可割裂的实证史学源流。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124–126)]]
 
 ---
 
@@ -226,7 +228,7 @@ updated: 2026-09-29
 > - **宗教论敌** 加尔文主义正统教会派 抨击曼的无宗派道德教育是在驱逐《圣经》，给公立学校扣上“无神论温床”罪名，要求由教会把持学校。（p. 32）
 > - **政治前驱与精神导师** 约翰·昆西·亚当斯（John Quincy Adams） 美国前总统、国会反奴隶制旗帜，曼在亚当斯病逝后接任其众议院席位，继承其废奴与捍卫人权政治衣钵。
 > - **现代权威研究者** 劳伦斯·克雷明（Lawrence A. Cremin）与罗伯特·唐斯（Robert B. Downs） 著名历史学家与传记作家，系统阐明曼的自由共和教育哲学与传记历史地位。（Cremin, 1957; Downs, 1974）
-> - **比较学术史重构者** [[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust） 阐明曼 1844 年欧洲考察在两百年跨文化制度考证传统中的基石坐标，驳斥实证主义将其贬低为“业余游记”的偏见。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 124–126)]]
+> - **比较学术史重构者** [[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust） 阐明曼 1844 年欧洲考察在两百年跨文化制度考证传统中的基石坐标，驳斥[[Positivism|实证主义]]将其贬低为“业余游记”的偏见。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 124–126)]]
 
 ---
 
@@ -252,7 +254,7 @@ updated: 2026-09-29
 
 > [!critique]- 批评索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 记录了保守校长联盟对曼浮光掠影考察外国的猛烈抨击，以及[[Positivism\|实证主义]]学派对其文献缺乏严格[[Variable\|变量]]因果解释的学术评价。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 驳斥战后实证主义派将 19 世纪曼等人的跨大西洋考察贬为粗糙游记的断裂论断，确立其作为政策借用与跨文化影响实证传统的基石地位（pp. 124–126）。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 驳斥战[[Postpositivism|后实证主义]]派将 19 世纪曼等人的跨大西洋考察贬为粗糙游记的断裂论断，确立其作为[[Policy Borrowing|政策借用]]与[[Influences Across Cultures|跨文化影响]]实证传统的基石地位（pp. 124–126）。
 
 > [!warning] 未解问题与边界
 > - **新教文化偏向与后世多元文化张力** 曼所构想的“超宗派基督教共同道德”本质上植根于新英格兰白人自由派新教文化语境；随着 19 世纪中后期大量爱尔兰与南欧天主教移民涌入，这一理念遭到天主教会对公立学校新教潜意识倾向的强烈抗议，最终促使美国宪政走向更严格的政教分离。

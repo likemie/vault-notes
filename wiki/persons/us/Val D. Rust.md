@@ -9,10 +9,10 @@ summary: "美国比较教育学家，加州大学洛杉矶分校（UCLA）荣休
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 35
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1934"
 lifespan: "1934–至今"
 tags:
@@ -35,23 +35,30 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Critical Pedagogy]]"
   - "[[Academic Freedom]]"
+  - "[[Structural Adjustment Programs]]"
+  - "[[Commensuration]]"
 related_theories:
   - "[[Pluralism]]"
   - "[[Typology of Educational Responses to Globalization]]"
+  - "[[Critical Theory]]"
+  - "[[Dependency Theory]]"
 related_methods:
   - "[[Ethnography]]"
   - "[[Questionnaire]]"
+  - "[[Correlational Research]]"
 related_persons:
-  - "[[Friedrich Schneider]]"
+  - "[[Marc-Antoine Jullien]]"
   - "[[Horace Mann]]"
+  - "[[Friedrich Schneider]]"
   - "[[Isaac Kandel]]"
   - "[[Paulo Freire]]"
-  - "[[Marc-Antoine Jullien]]"
 related_facts:
   - "[[Comparative and International Education Society]]"
   - "[[World Council of Comparative Education Societies]]"
   - "[[UNESCO]]"
   - "[[Education for All]]"
+  - "[[World Bank]]"
+  - "[[International Monetary Fund]]"
 related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
 confidence: high
@@ -115,11 +122,11 @@ updated: 2026-09-29
 
 > [!influence-path] 影响路径
 > - **史学与跨文化考据路径** 平反 19 世纪跨文化制度借用传统的学术地位，批判战后行为实证派割裂学科历史的傲慢，构建了贯通两百年的比较学术史连续统。
-> - **理论范式多元化路径** 依托对《比较教育评论》（CER）半个世纪发表成果的大规模文献计量与 UCLA 调查，实证确立了涵盖 26 种范式的“健康多元主义”，抵制虚无主义的碎片化焦虑，捍卫学者的[[Academic Freedom|学术自由]]。
-> - **政策借用模型路径** 基于挪威长程制度演进实证提炼出政策借用的四阶段模型，丰富了跨国制度移植与本土调适的动力学机制。
-> - **全球化批判理论路径** 提出[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]（接受、抵制、恢复与强制再生产），为解构新自由主义跨国霸权与彰显第三世界主权自决提供了强有力的概念分析工具。
+> - **理论[[Paradigm|范式]]多元化路径** 依托对《比较教育评论》（CER）半个世纪发表成果的大规模[[Document|文献]]计量与 UCLA 调查，实证确立了涵盖 26 种范式的“[[Pluralism|健康多元主义]]”，抵制虚无主义的碎片化焦虑，捍卫学者的[[Academic Freedom|学术自由]]。
+> - **[[Policy Borrowing|政策借用]]模型路径** 基于挪威长程制度演进实证提炼出政策借用的四阶段模型，丰富了跨国制度移植与本土调适的动力学机制。
+> - **全球化[[Critical Theory|批判理论]]路径** 提出[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]（接受、抵制、恢复与强制再生产），为解构新自由主义跨国霸权与彰显第三世界主权自决提供了强有力的概念分析工具。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 拉斯特及其团队为《比较教育学国际手册》撰写的奠基性学科史反思专章，系统总结两百年学科发端、方法演进与全球化批判前沿。
 
 ---
@@ -127,17 +134,17 @@ updated: 2026-09-29
 ## 历史评价
 
 > [!citation-card] Rust, Johnstone, & Allaf 论比较教育学超越单一霸权正统的成熟心智
-> 比较教育学在战后半个世纪的演变证实，学科正在走向富有生命力的理论多元主义，而非陷入无序的碎片化。多元主义是学科打破 1950 年代至 1960 年代初窒息学术探索的一元教条正统的标志，它赋予学者根据丰富多样的现实自由选用理论工具的学术自由，是学科走向心智成熟的根本标志。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 132)]]
+> 比较教育学在战后半个世纪的演变证实，学科正在走向富有生命力的理论[[Pluralism|多元主义]]，而非陷入无序的碎片化。多元主义是学科打破 1950 年代至 1960 年代初窒息学术探索的一元教条正统的标志，它赋予学者根据丰富多样的现实自由选用理论工具的[[Academic Freedom|学术自由]]，是学科走向心智成熟的根本标志。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 132)]]
 
 ---
 
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **学术先驱与史学考证对象** [[Marc-Antoine Jullien|朱利安]]（开创问卷调查与事实分类观察表）、[[Horace Mann|霍勒斯·曼]]（1844 年欧洲考察确立借用作为本土合法化论据）、[[Friedrich Schneider|弗里德里希·施奈德]]（1931 年创刊确立学术术语与 1943 年考证德国教育海外辐射）、[[Isaac Kandel|艾萨克·坎德尔]]（确立教育反映国家深层政治文化抱负的经典命题）。
+> - **学术先驱与史学考证对象** [[Marc-Antoine Jullien|朱利安]]（开创[[Questionnaire|问卷调查]]与事实分类观察表）、[[Horace Mann|霍勒斯·曼]]（1844 年欧洲考察确立借用作为本土合法化论据）、[[Friedrich Schneider|弗里德里希·施奈德]]（1931 年创刊确立学术术语与 1943 年考证德国教育海外辐射）、[[Isaac Kandel|艾萨克·坎德尔]]（确立教育反映国家深层政治文化抱负的经典命题）。
 > - **理论对话者与批判思想源流** [[Paulo Freire|保罗·弗莱雷]]（“教育即政治”命题与反抗跨国霸权意志）、亨利·吉鲁（再生产理论批判资本主义现代性）。
-> - **学会与学术建制领导** 曾任[[Comparative and International Education Society|比较与国际教育学会]]（CIES）会长（1988–1989 年），依托会刊《比较教育评论》（CER）半个世纪文献计量推进元认识论反思。
-> - **全球学会与多边机构研究** 深度考察[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）的全球扩展；援引[[UNESCO|联合国教科文组织]] 2006 年《[[Education for All|全民教育]]》监测报告实证检验全球化结构调整对受援国的负面冲击与古巴主权动员典范。
+> - **学会与学术建制领导** 曾任[[Comparative and International Education Society|比较与国际教育学会]]（CIES）会长（1988–1989 年），依托会刊《比较教育评论》（CER）半个世纪[[Document|文献]]计量推进元[[Epistemology|认识论]]反思。
+> - **全球学会与多边机构研究** 深度考察[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）的全球扩展；援引[[UNESCO|联合国教科文组织]] 2006 年《[[Education for All|全民教育]]》监测报告实证检验全球化[[Structural Adjustment Programs|结构调整]]对受援国的负面冲击与古巴主权动员典范。
 
 ---
 
@@ -145,20 +152,20 @@ updated: 2026-09-29
 
 > [!debates] 学术争议
 >
-> > [!axis] 理论多元主义（学科繁荣） vs 理论碎片化（标准丧失）
+> > [!axis] 理论[[Pluralism|多元主义]]（学科繁荣） vs 理论碎片化（标准丧失）
 > > 围绕比较教育学放弃单一功能主义核心后的学科认同展开持久争鸣。
 > >
-> > - **学科碎片化忧虑（传统实证派）** 担忧 26 种并存理论范式会导致比较教育失去学科统一核心，沦为互不通约、缺乏共同标准的学术碎片。
-> > - **健康多元主义辩护（[[Val D. Rust|拉斯特]]等）** 坚信多元主义是学科摆脱狭隘意识形态与教条正统窒息的必要标志，赋予学者根据复杂现实选用异质工具的[[Academic Freedom|学术自由]]。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 132)]]
+> > - **学科碎片化忧虑（传统实证派）** 担忧 26 种并存理论[[Paradigm|范式]]会导致比较教育失去学科统一核心，沦为互不[[Commensuration|通约]]、缺乏共同标准的学术碎片。
+> > - **健康多元主义辩护（拉斯特等）** 坚信多元主义是学科摆脱狭隘意识形态与教条正统窒息的必要标志，赋予学者根据复杂现实选用异质工具的[[Academic Freedom|学术自由]]。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 132)]]
 >
-> > [!axis] 跨国自由政策借用 vs 强制结构再生产
-> > 针对全球化背景下政策借用的性质存在显著的认识论分歧。
+> > [!axis] 跨国自由[[Policy Borrowing|政策借用]] vs 强制结构再生产
+> > 针对全球化背景下政策借用的性质存在显著的[[Epistemology|认识论]]分歧。
 > >
 > > - **技术功能主义借用论** 认为全球化推动了最佳教育实践的跨国自愿借鉴与趋同。
-> > - **批判依附论（拉斯特等）** 揭示受援国接受外部政策往往并非自愿借用，而是受制于世界银行与国际货币基金组织的贷款硬约束，实质是强制再生产与新自由主义市场化霸权。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 134–135)]]
+> > - **批判[[Dependency Theory|依附论]]（拉斯特等）** 揭示受援国接受外部政策往往并非自愿借用，而是受制于[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]的贷款硬约束，实质是强制再生产与新自由主义市场化霸权。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 134–135)]]
 
 > [!warning] 未解问题与适用边界
-> - **文献计量抽样的截面局限** 其团队关于 26 种范式的统计主要基于 UCLA 对核心英语期刊作者的问卷调查，未能充分覆盖非英语学术圈与边缘国家的本土出版物。
+> - **[[Document|文献]]计量抽样的截面局限** 其团队关于 26 种范式的统计主要基于 UCLA 对核心英语期刊作者的[[Questionnaire|问卷调查]]，未能充分覆盖非英语学术圈与边缘国家的本土出版物。
 > - **非西方边缘学者的能见度困境** 尽管世界学会网络大幅扩展，但在全球学术政治经济不平等制约下，低人类发展指数国家的学者在国际核心刊物中的代表性依然显著不足。
 
 ---

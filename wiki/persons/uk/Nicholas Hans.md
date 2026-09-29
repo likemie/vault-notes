@@ -10,10 +10,10 @@ summary: "俄裔英国比较教育学家，伦敦大学国王学院读者，20 �
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 31
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 32
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1888"
 died: "1969"
 lifespan: "1888–1969"
@@ -51,11 +51,12 @@ related_persons:
   - "[[Michael Sadler]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
-  - "[[Mark Schneider]]"
+  - "[[Val D. Rust]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Cowen_2009_HistoryCreation]]"
+  - "[[Argument_Rust_2009_Reflections]]"
 related_theories:
   - "[[Theories of the Driving Forces]]"
 confidence: high
@@ -111,6 +112,10 @@ updated: 2026-09-29
 >   - **代表著作** 《比较教育的历史研究法》（*The Historical Approach to Comparative Education*, 1959）；与劳威斯联合主编跨国《教育年鉴》（*World Year Book of Education*）。
 >   - **关键概念** 应用学科、跨学科边缘哲学品格、质性价值防线。
 >   - **阶段转向** 明确论证比较教育坐落于人文与科学交界的边缘地位，主张以动态改革为导向，依托教育哲学确立目标，依托历史学与社会科学奠定事实基石。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 56)]]
+> - **1960年代 — 冷战意识形态对话与跨国学术传播阶段** 直面美苏冷战背景下两大阵营的教育理念交锋，致力于通过客观学术对话增进对苏联教育体系深层动因的理性认知。
+>   - **代表著作** 《苏联比较教育进路》（*The Soviet approach to comparative education*, 1964, *CER* 8(4): 90–93）。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 132)]]
+>   - **关键概念** 冷战教育比较、意识形态宣传与客观学术对话。
+>   - **阶段转向** 推动西方学术界以开放视野研读苏联学者的教育分析，反思教育在冷战宣传与比较理解中的复杂功能。
 
 ---
 
@@ -171,6 +176,16 @@ updated: 2026-09-29
 >
 > *Comparative Education as an academic discipline is just on the border line between humanities and sciences and thus resembles philosophy, which is the formulation of both... the purpose of Comparative Education is not only to compare existing systems but to envisage reform best suited to new social and economic conditions... thus our subject has a dynamic character with a utilitarian purpose.*
 
+> [!citation-card] Hans 论教育深植于广泛社会文化动因（Rust et al., 2009 征引）
+> 比较教育学科早期的学术奠基者（如坎德尔、汉斯与施奈德）一致论证：唯有将教育置于一个国家广泛的经济、政治、文化与社会力量脉络中，它才能被真正理解。其方法论要求不仅要详尽描述教育制度，更要通过阐释定义教育体系的经政文社条件来推导教育现象的深层意涵——教育绝非社会的孤立维度，而是深植于政治、文化与经济土壤之中。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 127–128)]]
+>
+> *...argued that education can only be understood within the context of broad economic, political, cultural, and social forces of a country. And their methodology demanded that educational systems not only be described in detail, but that the meaning of educational phenomena be derived by interpreting the economic, political, cultural, and social conditions that defined the educational systems (Hans, 1955; Kandel, 1933; Schneider, 1961).*
+
+> [!citation-card] Hans 论早期比较借用旨在审慎改良国家制度（Rust et al., 2009 征引）
+> 随着比较教育成为一门学术专业领域，其奠基先驱通常更敏锐地关注借鉴外国模式以“通过调适与变革完善国家体系”的可能性，而非仅仅在分析中涵盖来自国外的历史影响。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 126)]]
+>
+> *...its founders were generally more sensitive about the possibilities of drawing on foreign models with the purpose of 'perfecting national systems with modifications and changes' than of including past influences from abroad in their own analyses of a nation's educational system (Hans, 1955).*
+
 ---
 
 ## 影响路径
@@ -180,10 +195,11 @@ updated: 2026-09-29
 > - **方法路径** 规范了比较教育中的[[Historical-Comparative Method\|历史比较法]]，将原本松散的观念漫谈提升为具有固定维度对照的结构化分析程序。
 > - **政策与实践** 通过主编《教育年鉴》持续介入战后欧洲教育重建与去法西斯化改革话语，推动民主公民教育理念的跨国传播。
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias, 2009]] — 卡扎米亚斯系统评析汉斯的因素[[Analytic Framework\|分析框架]]及其对英美自由民主与苏联社会主义民主的辩证超越。
 > - [[Argument_Cowen_2009_HistoryCreation\|Cowen, 2009a]] — 考恩考察汉斯在战后伦敦大学比较教育学术建制中的承前启后地位。
 > - [[Argument_Mitter_2009_Europe\|Mitter, 2009]] — 米特将汉斯与施奈德并列为 20 世纪前中期（1920s–1950s）主导欧洲的“宏大历史文化全景”流派领袖，评析其以历史语境与[[National Character|国民性格]]诠释教育体系的[[Theories of the Driving Forces|驱动力理论]]，构筑抵御量化行为主义的文化主义防线。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 拉斯特等学者确证汉斯将教育深植于广泛社会文化动因的方法论奠基地位，并考据其在冷战时期对苏联比较教育研究的客观引介。
 
 ---
 
@@ -218,6 +234,7 @@ updated: 2026-09-29
 > - **师承／精神源流** [[Michael Sadler]]、[[Isaac Kandel]] — 汉斯公开承认在历史学派方法论上深受萨德勒与坎德尔的启发。
 > - **同行／合作者** [[Joseph Lauwerys]] — 共同在伦敦大学奠定战后英国比较教育学的黄金时代；[[Friedrich Schneider]] — 20 世纪前中期欧洲“宏大历史文化全景”与精神[[Scientific Paradigm|科学范式]]的跨国学术双璧。
 > - **史学评价者** [[Wolfgang Mitter]] — 系统界定汉斯在欧洲比较教育史中的断代[[Paradigm|范式]]地位。
+> - **学术史方法论重构者** [[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust） — 阐述汉斯因素分析法在学科两百年方法论传统与冷战比较研究演进中的基石地位。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 127–128, 132)]]
 > - **论敌／批判者** [[Harold Noah]]、[[Max Eckstein]] — 1960 年代实证派学者将汉斯的因素分析法批评为缺乏实证检验与权重判断的“前科学阶段”。
 
 ---
@@ -251,6 +268,8 @@ updated: 2026-09-29
 > | [[National Character]] | 概念 | 将国民性格[[Operationalization\|操作化]]为历史因素共同铸就的国家相貌并加以考察。 |
 > | [[Historical-Comparative Method]] | 方法 | 确立历史因果考证与制度跨国比较相结合的规范化研究步骤。 |
 > | [[Democratic Education]] | 概念 | 将保障文化自由与实质受教育机会均等确立为衡量教育制度发展的终极伦理归宿。 |
-> | [[Wolfgang Mitter]] | 人物 | 评析汉斯与[[Mark Schneider\|施奈德]]共同开创的欧洲宏大历史文化全景与精神[[Scientific Paradigm\|科学范式]]地位。 |
+> | [[Wolfgang Mitter]] | 人物 | 评析汉斯与[[Friedrich Schneider\|施奈德]]共同开创的欧洲宏大历史文化全景与精神[[Scientific Paradigm\|科学范式]]地位。 |
 > | [[Friedrich Schneider]] | 人物 | 与汉斯并列为 20 世纪前中期（1920s–1950s）欧洲文化主义比较教育学派的领袖。 |
+> | [[Val D. Rust]] | 人物 | 阐发汉斯因素分析法在学科两百年方法论演进与冷战比较中的坐标。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 127–128)]] |
 > | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 提供 20 世纪欧洲比较教育历史演进与汉斯文化主义学术定位的关键史学依据。 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 征引汉斯关于教育深植于社会文化力量与制度审慎借用的经典方法论命题。 |

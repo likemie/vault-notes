@@ -9,10 +9,10 @@ summary: "哥伦比亚大学师范学院比较教育学讲座教授，《教育�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 48
-person_related_level: 5
-person_related_stars: "⭐⭐⭐⭐⭐"
-person_related_color: "#ffedd5"
+person_related_count: 50
+person_related_level: 6
+person_related_stars: "⭐⭐⭐⭐⭐⭐"
+person_related_color: "#fef3c7"
 born: "1881"
 died: "1965"
 lifespan: "1881–1965"
@@ -68,8 +68,8 @@ related_persons:
   - "[[Roger Dale]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
-  - "[[Brian Holmes]]"
   - "[[Val D. Rust]]"
+  - "[[Brian Holmes]]"
 related_facts:
   - "[[Australian Council for Educational Research]]"
   - "[[UNESCO]]"
@@ -195,7 +195,7 @@ updated: 2026-09-29
 > - **极权主义与政治反思** 首次将国家作为核心解释[[Variable\|变量]]，其对法西斯极权教育的跨国揭露成为政治社会学与教育[[Critical Theory\|批判理论]]的经典[[Document\|文献]]。
 > - **机构档案与史学挖掘** 西班牙学者米格尔·佩雷拉（Miguel Pereyra）长期致力于开掘坎德尔散落于大西洋两岸的档案，[[Robert Cowen\|罗伯特·考恩]]（Robert Cowen）借此案例揭示推进高质量学科史研究所面临的巨大现实阻力与制度资助缺失。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 卡扎米亚斯全面评析坎德尔的历史哲学唯心主义、国家解释变量与[[Educational Meliorism|改良主义]]，同时深入剖析其实证派论敌批评与内在史学缺陷。
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 考恩引用佩雷拉对坎德尔档案发掘的现实困境，诊断比较教育史编纂学在制度支持与文献密度上的结构性贫乏。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 拉斯特等学者将坎德尔论教育折射国家深层政治文化抱负的经典命题，确立为两百年比较教育学术史演进中理解国家教育目的的核心基石。
@@ -214,6 +214,11 @@ updated: 2026-09-29
 >
 > *Kandel's examination of education from the political prism of the state was, in my judgement, an important epistemological and methodological insight... [However, it] was marred by at least three weaknesses: First, his categorisation of contemporary states into two 'ideal types', namely 'totalitarian' and 'democratic'; Second, his bias... in favour of Western 'liberal democracies'... and Third... his compounding of the 'normative' with the 'descriptive' in his conceptualisation of the state.*
 
+> [!citation-card] Kandel 论教育折射国家深层政治文化抱负（Rust et al., 2009 征引）
+> 正因为一个民族试图通过教育来塑造其国民的性格，并由此映照其政治、社会、经济与文化的深层目标，因此，对本研究界定的教育体系展开探究，便如同直接剖析其国家大政方针一样，能极为深刻地增进对该国整体抱负与历史诉求的理解。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 135)]]；引自 Kandel (1933/1955)
+>
+> *Because a nation seeks through education to mould the character of its citizens and so reflects its aims – political, social, economic, and cultural – a study of its educational system, as here defined, can contribute as richly to an understanding of its aims in general as a direct study of its political policies.*
+
 ---
 
 ## 关系网络
@@ -223,6 +228,7 @@ updated: 2026-09-29
 > - **同道与后继** [[Nicholas Hans\|尼古拉斯·汉斯]]、[[Robert Ulich\|罗伯特·乌利希]]（同为历史-哲学学派巨擘）；[[George Bereday\|乔治·贝雷迪]]（哥大后继讲座教授，撰文深情继承并总结其学术遗产）；[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]（历史-哲学遗产的辩护者与[[Reflexivity\|反思性]]批评者）。
 > - **学术论敌与论战者** 早期[[Positivism\|实证主义]][[Policy Borrowing\|教育借用]]论者；战后实证科学化派（[[Harold Noah\|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein\|马克斯·埃克斯坦]]（Max Eckstein）等人批评历史哲学方法缺乏[[Variable\|变量]]控制与可检验性）。
 > - **史学追索与研究者** 米格尔·佩雷拉（Miguel Pereyra，西班牙比较教育学家，长期开展坎德尔跨国档案攻坚）。
+> - **比较学术史重构者** [[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust） 阐发坎德尔关于“教育反映国家深层政治文化诉求”的经典命题在现代学科两百年演进中的理论基石地位。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 135)]]
 > - **机构与组织** 哥伦比亚大学[[Normal School\|师范学院]]国际研究所（核心教授）、《教育年鉴》（创办主编）、[[UNESCO\|联合国教科文组织]]（资深顾问）。
 
 ---
@@ -269,3 +275,5 @@ updated: 2026-09-29
 > | [[Historical-Comparative Method]] | 方法 | 践行历史溯源与政治哲学辨析相结合的比较教育分析路径。 |
 > | [[Comparative History of Comparative Education]] | 概念 | 展现比较教育历史-哲学传统奠基与跨国档案挖掘困境的核心案例。 |
 > | [[Michael Sadler]] | 人物 | 继承其历史文化整体观并将其系统化为具有严密学科规程的历史-哲学比较分析[[Paradigm\|范式]]。 |
+> | [[Val D. Rust]] | 人物 | 阐发坎德尔国家教育目的镜像论在学科史演进中的基石地位。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, p. 135)]] |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 征引并确证坎德尔 1933/1955 年经典命题在两百年学科史反思中的坐标。 |
