@@ -10,7 +10,7 @@ subtype: program
 region: "germany"
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -46,13 +46,14 @@ related_facts:
   - "[[IQB-Bildungstrend]]"
   - "[[Leibniz Institute for Educational Research and Educational Information]]"
   - "[[Institute for Educational Quality Improvement]]"
+  - "[[Max Planck Institute for Human Development]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
 related_arguments:
   - "[[Argument_Hartong_2018_GSE]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-29
 ---
 
 # National Educational Panel Study
@@ -111,7 +112,7 @@ updated: 2026-09-18
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** [[Federal Ministry of Education and Research\|德国联邦教育与研究部]]（BMBF）与 16 个联邦州政府联合资助。
 > - **统筹与数据托管中枢** 莱布尼茨教育轨迹研究所（LIfBi）负责项目总体运营、[[Questionnaire\|问卷]]测量研发与 FDZ 数据发布平台维护。
-> - **协同研究网络** 包括德国青年研究所（DJI）、马克斯·普朗克人类发展研究所（MPIB）、[[Leibniz Institute for Educational Research and Educational Information\|DIPF]]、WZB 柏林社会科学研究中心等全德 20 余所核心科研机构。
+> - **协同研究网络** 包括德国青年研究所（DJI）、[[Max Planck Institute for Human Development|马克斯·普朗克人类发展研究所]]（MPIB）、[[Leibniz Institute for Educational Research and Educational Information\|DIPF]]、WZB 柏林社会科学研究中心等全德 20 余所核心科研机构。
 > - **数据调查执行中介** 委托专业调查机构（如 infas、Kantar Public）进行严格保密的大规模入户面访、学校机考及电话追踪。
 
 > [!logic-map]- NEPS 组织协同与数据流转架构

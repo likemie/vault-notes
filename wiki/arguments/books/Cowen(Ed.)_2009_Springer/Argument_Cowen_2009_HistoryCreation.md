@@ -7,9 +7,9 @@ title: "Argument_Cowen_2009_HistoryCreation"
 argument_key: "Argument_Cowen_2009_HistoryCreation"
 argument_display_title: "On History and on The Creation of Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 authors:
   - "[[Robert Cowen|Cowen, R.]]"
@@ -58,6 +58,7 @@ related_persons:
   - "[[Joseph Lauwerys]]"
   - "[[Andreas Kazamias]]"
   - "[[Gita Steiner-Khamsi]]"
+  - "[[Wolfgang Mitter]]"
   - "[[John Dewey]]"
   - "[[Jean Piaget]]"
 related_facts:
@@ -70,7 +71,7 @@ sources:
 part_of: "[[Argument_Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-05
-updated: 2026-09-06
+updated: 2026-09-29
 ---
 # Argument_Cowen_2009_HistoryCreation
 
@@ -206,7 +207,7 @@ updated: 2026-09-06
 > | **美国比较教育传统** | 哥伦比亚大学、芝加哥大学等建制学者 | 深度浸润于结构功能主义（Structural-Functionalism）社会学与现代化理论，追求[[Nomothetic\|通则式]]（Nomothetic）预测与实证测量。 | 对法兰克福学派（Frankfurt School）[[Critical Theory\|批判理论]]（Critical Theory）保持惊人的漠视与排斥，忽视阶级再生产与权力批判。（p.9） |
 > | **英国伦敦学派传统** | 伦敦大学教育学院（Institute of Education, University of London, IOE）与伦敦国王学院（King's College London）文化主义学派 | 1950 年代末至 1960 年代初深受文化主义（Culturalism）支配，其核心特征是对社会学抱有深刻的恐惧与防范。 | 长期以历史与[[National Character\|民族性格]]特质抵制社会学量化与结构分析，但其内部不同学者（如 Lauwerys）态度分化。 |
 > | **拉丁美洲经验** | 阿根廷 Sarmiento；巴西 Teixeira | 深度嵌入国家建设、世俗教育与民主化实践，具有极强的务实比较与跨国反思取向。 | 印刷出版物中至今不存在系统性的阿根廷或巴西比较教育史，仅存期刊中的零星提示。（pp.8–9） |
-> | **欧洲大陆传统** | 法国、德国、意大利诸国独立脉络；沃尔夫冈·米特尔（Wolfgang Mitter）探索 | 法国[[Rationalism in International Relations\|理性主义]]行政考察、德国精神科学与历史学传统、意大利民族国家构建。 | 各国史料各自分立，至今从未被真正以横向对照的方式加以综合，缺少跨国比较整合。 |
+> | **欧洲大陆传统** | 法国、德国、意大利诸国独立脉络；[[Wolfgang Mitter\|沃尔夫冈·米特]]尔（Wolfgang Mitter）探索 | 法国[[Rationalism in International Relations\|理性主义]]行政考察、德国精神科学与历史学传统、意大利民族国家构建。 | 各国史料各自分立，至今从未被真正以横向对照的方式加以综合，缺少跨国比较整合。 |
 > | **被边缘化的女性学者** | Ann Dryland（英国 IOE 比较教育研究者）、Madame Hattinguais（法国） | 在机构初创、国际交流、教学实践与学术网络联结中承担了关键实质性工作。 | 她们真实地存在于历史之中，却在所有现存的学科正史与英雄谱系中集体被隐形。 |
 
 > [!evidence-grid] 边缘经验、隐形主体与认识论分化的事实支撑

@@ -7,7 +7,7 @@ summary: "英国首任比较教育教授（1947），欧洲比较教育学会首
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 29
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_methods:
   - "[[Philosophical Analysis in Education]]"
   - "[[Problem Approach]]"
 related_persons:
+  - "[[Saul B. Robinsohn]]"
   - "[[Jean Piaget]]"
   - "[[Nicholas Hans]]"
   - "[[Brian Holmes]]"
@@ -83,7 +84,7 @@ updated: 2026-09-29
 > - **1947** 获任伦敦大学教育学院比较教育教授，成为英国首位比较教育教授，开创英国比较教育大学独立教席地位与体制化进程。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 425)]]
 > - **1940年代末–1950年代** 担任[[UNESCO\|联合国教科文组织]]核心顾问，深入参与教科文组织教育调查专家会议与战后重建使命，推动比较教育学者直接参与战后国际多边政策实践。
 > - **1950年代末–1960年代初** 在伦敦大学教育学院与国王学院的学术环境中，不同于当时文化主义学派对实证社会学的防范与恐惧，始终保持对跨学科社会[[Scientific Method\|科学方法]]的开放包容态度。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
-> - **1961–1967** 携手联合国教科文组织汉堡教育研究所所长索尔·罗宾松（Saul Robinsohn）发起成立[[Comparative Education Society in Europe\|欧洲比较教育学会]]并当选首任主席；在创会宪章中力主确立“个人会员制”（而非代表各国政府或国家分支），有效抵御了各国政府行政干预，保护了冷战东西方学者开展学术对话的独立性与自由度。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 89–90)]]
+> - **1961–1967** 携手联合国教科文组织汉堡教育研究所所长索尔·罗宾松（[[Saul B. Robinsohn|Saul Robinsohn]]）发起成立[[Comparative Education Society in Europe\|欧洲比较教育学会]]并当选首任主席；在创会宪章中力主确立“个人会员制”（而非代表各国政府或国家分支），有效抵御了各国政府行政干预，保护了冷战东西方学者开展学术对话的独立性与自由度。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 89–90)]]
 > - **1960年代–1970年代** 展开跨洲学术穿梭，深度连接日内瓦的[[Jean Piaget\|让·皮亚杰]]（Jean Piaget）与[[International Education\|国际教育]]局（International Bureau of Education, IBE）、巴西的阿尼西奥·特谢拉（Anísio Teixeira）以及日本的平冢益德（Masunori Hiratsuka），成为跨文化知识流通的枢纽节点。
 
 ---

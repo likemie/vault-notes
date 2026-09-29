@@ -8,7 +8,7 @@ aliases:
 summary: "在比较教育与政策借用研究中，指被特定国家用作自身教育体制改革、政策辩护或合法化重构的外部参照范例或制度模板。概念源自施赖弗（Jürgen Schriewer）的“外化假说”与卢曼系统论，强调系统对外部参照点的内部建构以应对政策情境的偶然性与不确定性。在当代全球量化治理中，经合组织通过外向型同行比较建构参考社会，而世界银行则展现出以自身工具与项目为依归的自指性中介特征。"
 type: concept
 domain: "comparative-education"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -50,6 +50,7 @@ related_methods:
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
+  - "[[Jurgen Schriewer]]"
   - "[[Niklas Luhmann]]"
   - "[[David Phillips]]"
 related_facts:
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-05
-updated: 2026-09-27
+updated: 2026-09-29
 ---
 
 # Reference Society
@@ -75,7 +76,7 @@ updated: 2026-09-27
 ## 定义
 
 > [!def] 核心定义
-> 参考社会（Reference Society，亦称参照社会或模范社会），在比较教育学与公共政策转移研究中，指被主权国家决策者或特定教育系统视为[[Policy Borrowing\|政策借用]]（Policy Borrowing）、制度改革或话语合法化之理想典范的他国或地区社会。概念植根于施赖弗（Jürgen Schriewer）的“[[Externalization\|外化]]假说”（Externalisation Thesis）与[[Niklas Luhmann\|卢曼]]（Niklas Luhmann）的社会系统论，强调教育系统为了应对内部决策所固有的偶然性、价值争议与[[Scientific Uncertainty\|认知不确定性]]，在内部能动建构出指向外部世界的“权威参照点”。在当代全球量化治理生态下，参考社会不仅由国际大型测评（如 [[PISA]]）排名所催生，更深受地缘政治关系、文化亲近性与意识形态亲和力的深层制约。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540, 545)]]
+> 参考社会（Reference Society，亦称参照社会或模范社会），在比较教育学与公共政策转移研究中，指被主权国家决策者或特定教育系统视为[[Policy Borrowing\|政策借用]]（Policy Borrowing）、制度改革或话语合法化之理想典范的他国或地区社会。概念植根于施赖弗（[[Jurgen Schriewer|Jürgen Schriewer]]）的“[[Externalization\|外化]]假说”（Externalisation Thesis）与[[Niklas Luhmann\|卢曼]]（Niklas Luhmann）的社会系统论，强调教育系统为了应对内部决策所固有的偶然性、价值争议与[[Scientific Uncertainty\|认知不确定性]]，在内部能动建构出指向外部世界的“权威参照点”。在当代全球量化治理生态下，参考社会不仅由国际大型测评（如 [[PISA]]）排名所催生，更深受地缘政治关系、文化亲近性与意识形态亲和力的深层制约。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540, 545)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种被社会系统在内部主动“投射”和“建构”出的外部理想范本，用以为国内备受争议的改革方案提供不可抗拒的外部合法性与理性依据。
@@ -179,7 +180,7 @@ updated: 2026-09-27
 ## 概念演变
 
 > [!dev-timeline] 概念演变历程
-> - **1990 — 施赖弗奠定“[[Externalization\|外化]]假说”理论根基** 施赖弗（Jürgen Schriewer）发表《比较方法与外化需求》，正式确立参考社会作为社会系统为解决内部争议而主动建构的“外部观察点”，打破了传统比较教育中将外国范例视作客观实体朴素存在的[[Positivism\|实证主义]]盲区。
+> - **1990 — 施赖弗奠定“[[Externalization\|外化]]假说”理论根基** 施赖弗（[[Jurgen Schriewer|Jürgen Schriewer]]）发表《比较方法与外化需求》，正式确立参考社会作为社会系统为解决内部争议而主动建构的“外部观察点”，打破了传统比较教育中将外国范例视作客观实体朴素存在的[[Positivism\|实证主义]]盲区。
 > - **2000–2003 — [[PISA]] 首轮冲击与“芬兰神话”的全球化** PISA 2000 的公布彻底打破了传统的跨国[[Policy Borrowing\|政策借用]]地理版图。芬兰迅速成为全球公认的超级参考社会，德国等国因“PISA 震撼”启动国家标准的重大转型，参考社会的确立自此与跨国量化测评紧密绑定。
 > - **2009–2018 — 上海崛起与东亚参照体系的[[Epistemology\|认识论]]震荡** PISA 2009 上海的夺冠在欧美引发了堪比苏联斯普特尼克的心理冲击。尽管遭受西方学界的去脉络化指责，东亚体系依然被不可逆转地推入全球参考社会版图，迫使西方反思自身参照体系的文化排他性。
 > - **2020年至今 — [[Governing by Numbers\|数字治理]] 2.0 时代的中介分化与自指性重构** 比较教育学界（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]; Seitzer et al., 2023）超越传统的国家间静态模仿叙事，揭示参考社会在全球治理复合体中的差异化运用：[[OECD]] 维持横向同行参考社会网络，而[[World Bank\|世行]]推行自指性指标中介，参考社会演变为多边机构深耕组织利基与施展软治理权力的战略工具。

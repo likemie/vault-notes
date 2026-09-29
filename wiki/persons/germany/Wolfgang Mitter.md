@@ -7,7 +7,7 @@ summary: "德国比较教育学家，曾任法兰克福德国国际教育研究�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Scientific Paradigm]]"
 related_theories:
+  - "[[Theories of the Driving Forces]]"
   - "[[Pluralism]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -120,7 +121,7 @@ updated: 2026-09-29
 > 欧洲比较教育学的百年演进由民族[[State Educational Sovereignty|国家教育主权]]的多样性与欧洲共享精神文化遗产的统一性二分法所驱动。比较教育不仅是国别制度的编年史，更是透视[[Knowledge Production|知识生产]]、政治权力和地缘变迁的批判制度社会学。米特主张，欧陆传统将比较教育定位为依附于[[Allgemeine Pädagogik|普通教育学]]但面向历史学与社会学的[[Comparative Education as a Cross-Sectional Area|交叉学科]]领域；在政策参与上，他恪守[[Navigation Metaphor in Comparative Education|航海隐喻]]，主张学者应作为罗盘与地图的提供者，审慎提示多重航线备选方案与潜在暗礁风险，坚决拒绝沦为替政治掌舵或为行政[[Performance Indicators|绩效指标]]背书的技术官僚工具。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–88, 95–98)]]
 
 > [!citation-card] 欧洲统一性与多样性的永恒张力
-> 欧洲历史主流自中世纪早期起便由多样性与统一性的二分法所决定。在比较教育史上，这一欧洲理念鲜明地反映在驱动力理论之中，表达了国家教育体系与文化形态相互关系中的趋同性。总体而言，所有这些趋势为当今全球化世界中所面临的普遍主义与[[Pluralism|文化多元主义]]之间的根本张力奠定了基础。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 88)]]
+> 欧洲历史主流自中世纪早期起便由多样性与统一性的二分法所决定。在比较教育史上，这一欧洲理念鲜明地反映在[[Theories of the Driving Forces|驱动力理论]]之中，表达了国家教育体系与文化形态相互关系中的趋同性。总体而言，所有这些趋势为当今全球化世界中所面临的普遍主义与[[Pluralism|文化多元主义]]之间的根本张力奠定了基础。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 88)]]
 >
 > *In the history of comparative education this 'European idea' was expressly reflected in the theories of the driving forces expressing convergences in the interrelations of [[National Education]] systems and cultural configurations. Taken as a whole, all those trends have laid the ground for the fundamental tension between universalism and cultural pluralism which we are aware of in the globalising world of today as the modern manifestation of the perennial dichotomy mentioned at the beginning.*
 

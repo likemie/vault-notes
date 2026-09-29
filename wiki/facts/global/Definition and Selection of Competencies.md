@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -55,13 +55,14 @@ related_facts:
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[PISA]]"
+  - "[[Max Planck Institute for Human Development]]"
   - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 
 # Definition and Selection of Competencies
@@ -114,7 +115,7 @@ updated: 2026-09-22
 > [!actor-grid] 实施协同矩阵
 > - **发起方与管理中枢（[[OECD]] / [[Centre for Educational Research and Innovation\|CERI]]）** 经合组织教育与技能司与教育研究与[[Innovation Hub\|创新中心]]（CERI）负责总体政治授权与战略方向把控。
 > - **研发与执行秘书处（瑞士联邦统计局 SFSO）** Dominique Simone Rychen 团队主持日常科研协调、[[Document\|文献]]综合、跨学科对话组织与报告起草。
-> - **跨学科专家顾问团队** 包括德国马克斯·普朗克人类发展研究所心理学家 Franz Weinert、瑞士日内瓦大学社会学家 Perrenoud 等，负责夯实理论逻辑。
+> - **跨学科专家顾问团队** 包括德国[[Max Planck Institute for Human Development|马克斯·普朗克人类发展研究所]]心理学家 Franz Weinert、瑞士日内瓦大学社会学家 Perrenoud 等，负责夯实理论逻辑。
 > - **成员国政策转化枢纽** 各国教育部指派的高级顾问与国家委员会，负责将跨国理论框架[[Transfer Translation Transformation\|转译]]为符合本土政治诉求的课程指导纲要。
 
 > [!pathways]- 实施路径与管理
@@ -159,7 +160,7 @@ updated: 2026-09-22
 > > - **教育哲学家** 批评测验实践异化了 DeSeCo 的初衷，丢弃了[[Reflective Thinking\|反思性思维]]的批判灵魂，沦为技术官僚的管治工具。
 >
 > [!lessons] 经验教训与启示
-> - **理论建构的政治生命力** DeSeCo 的成功表明，国际组织必须依托长周期的跨学科基础理论沉淀，才能为后续的大规模指标规制赢得长达数十年的学理合法性。
+> - **理论建构的政治生命力** DeSeCo 的成功表明，国际组织必须依托长周期的跨[[Discipline-Based Theory|学科基础理论]]沉淀，才能为后续的大规模指标规制赢得长达数十年的学理合法性。
 > - **主权政策转译的异化风险** 顶层概念极易被主权国家作为推卸本土改革争议的“外部合法化盾牌”，引发名义采纳与实践脱嵌（Decoupling）。
 
 ---

@@ -10,7 +10,7 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Problem Approach]]"
 related_persons:
   - "[[Joseph Lauwerys]]"
+  - "[[Saul B. Robinsohn]]"
   - "[[Edmund King]]"
   - "[[Wolfgang Mitter]]"
   - "[[Brian Holmes]]"
@@ -80,7 +81,7 @@ updated: 2026-09-29
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1961 — 伦敦大会创立与组织模式确立** 约瑟夫·劳威斯（[[Joseph Lauwerys]]，首任主席）与时任 [[UNESCO]] 教育研究所所长索尔·罗宾逊（Saul Robinsohn）密切合作，联络西欧学者在伦敦大学教育研究院正式成立 CESE；大会明确否决了以民族国家为单元的联邦代表制，确立了跨国个人会员资格与学术自主原则。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 91)]]
+> - **1961 — 伦敦大会创立与组织模式确立** 约瑟夫·劳威斯（[[Joseph Lauwerys]]，首任主席）与时任 [[UNESCO]] 教育研究所所长[[Saul B. Robinsohn|索尔·罗宾逊]]（Saul Robinsohn）密切合作，联络西欧学者在伦敦大学教育研究院正式成立 CESE；大会明确否决了以民族国家为单元的联邦代表制，确立了跨国个人会员资格与学术自主原则。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 91)]]
 > - **1961–1972 — 劳威斯与罗宾逊任期及多边智囊网络深化** 劳威斯将国际理解、民主理想与科学人道主义植入学会信条，深度对接 UNESCO 战后重建使命；索尔·罗宾逊接任主席后，学会通过两年一度的双年会为欧洲综合中学改革（Comprehensive School Reform）提供系统的跨国比较论证，推动了学科在大学层面的教席独立。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 424)]]
 > - **1970s–1980s — 欧洲学会生态分化与多元竞合格局** CESE 早期尝试设立的英德等国别分支迅速独立，演变为独立的国家学会（如英国 BAICE、希腊学会、波兰学会、西班牙学会等）或本国母体教育学会下设分会（如德国教育学会 DGfE 比较分会）；同时地缘板块学会（北欧学会、地中海学会 MESCE）与语言圈学会（法语学会 AFEC、荷兰语学会）相继建立，形成了以 CESE 为枢纽的多层次竞合网络。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 92)]]
 > - **1990s–2000s — 冷战后中东欧重构与重返欧洲维度转向** 苏联解体与两德统一后，中东欧学者迅速实现学科重建并深度融入 CESE；从第 16 届哥本哈根双年会（1994）至第 22 届格拉纳达双年会（2006），学会见证了欧洲比较教育从早期的宏大形而上学哲学玄思，转向对欧盟教育政策文本、[[European Qualifications Framework|欧洲资格框架]]（EQF）与跨国实证数据的严肃再分析。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
@@ -144,7 +145,7 @@ CESE 的演进催生并伴随了欧洲比较教育学术学会的多中心分化
 >
 > > [!axis] 超然学术精英主义 vs 基层实务开放与政策直接干预
 > > - **审慎中立航海派（Lauwerys; Mitter）** 主张学会应恪守学术中立与研究深度，研究者仅提供航线风险信息而不直接替政客操舵决策，避免学术沦为党派政治与行政官僚的工具。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
-> > - **激进干预与实践派（Robinsohn; AFDECE）** 索尔·罗宾逊主张比较学者应直接参与教育法案起草与宏观体制改革；实践导向学会（如 AFDECE）则批评 CESE 早期过于封闭在大学象牙塔内，呼吁向中小学一线教师全面敞开大门。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92, 96)]]
+> > - **激进干预与实践派（Robinsohn; AFDECE）** [[Saul B. Robinsohn|索尔·罗宾逊]]主张比较学者应直接参与教育法案起草与宏观体制改革；实践导向学会（如 AFDECE）则批评 CESE 早期过于封闭在大学象牙塔内，呼吁向中小学一线教师全面敞开大门。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92, 96)]]
 >
 > > [!axis] 泛化比较蔓延下的学会[[Epistemology|认识论]]危机
 > > [[Wolfgang Mitter|沃尔夫冈·米特]]在回顾 CESE 历史时警示：当世纪之交“人人都在比较并自称比较学者”的实务热潮兴起，加之 [[OECD]]/[[PISA]] 等大规模跨国量化测评以技术官僚指标垄断决策舆论时，比较教育学会正面临失去特定学科轮廓的深层危机；CESE 唯有坚守历史哲学考证与文化脉络[[Rich and Thick Description|深描]]的认识论身份，方能抵抗浅层指标对照对学科的消解。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 98–99)]]

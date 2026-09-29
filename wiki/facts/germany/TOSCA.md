@@ -10,7 +10,7 @@ subtype: event
 region: "germany"
 fact_region: "germany"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -36,13 +36,14 @@ related_instruments:
   - "[[Cognitive Ability Test KFT]]"
 related_persons:
   - "[[Ulrich Trautwein]]"
-related_facts: []
+related_facts:
+  - "[[Max Planck Institute for Human Development]]"
 related_arguments:
   - "[[Argument_Trautwein_2007_CEP]]"
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-09-29
 ---
 
 # TOSCA
@@ -53,7 +54,7 @@ updated: 2026-08-19
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 2002 年（T1 高中毕业施测）至 2004 年（T2 大学升学追踪施测）；德国巴登-符腾堡州（Baden-Württemberg）。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, pp. 353–355)]]
-> - **关键主体** 马克斯·普朗克人类发展研究所（MPIB Berlin，Jürgen Baumert、Olaf Köller、Rainer Watermann、[[Ulrich Trautwein]]、Oliver Lüdtke 等研究团队）。
+> - **关键主体** [[Max Planck Institute for Human Development|马克斯·普朗克人类发展研究所]]（MPIB Berlin，Jürgen Baumert、Olaf Köller、Rainer Watermann、[[Ulrich Trautwein]]、Oliver Lüdtke 等研究团队）。
 > - **制度背景** 德国巴登-符腾堡州的高级文理中学（Gymnasium）学制改革与中学向高等教育过渡机制评估。Gymnasium 招收德国同龄人口中前 30% 的精英选拔群体，毕业生通过毕业考获取全德大学入学资格（Abitur）。
 > - **触发条件** 学界对于中学生认知智力、非认知信念、家庭背景如何共同塑造大学升学路径与[[Academic Achievement\|学业成就]]缺乏大规模、代表性的高质量因果追踪数据。
 

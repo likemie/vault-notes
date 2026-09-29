@@ -417,7 +417,7 @@ updated: 2026-09-29
 > - **1996–2000 — [[Transitology\|转型学]]宏观背景** 考恩（[[Robert Cowen]]）提出转型学双轴模型，将国际参照分析嵌入到晚期现代性社会系统翻转的宏观背景中。（[[Argument_Amos_2022_Springer\|Amos, 2022, pp. 53–56]]）
 > - **2000 — 政策借用[[Analytic Framework\|分析框架]]系统化** 施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）系统阐述政策借用分析框架，向去政治化、中立移植的理性模式发起挑战，指出教育借用本质上属于政治合法化工具。（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 482]]）
 > - **2002 — [[Cross-National Attraction\|跨国吸引力]]结构类型学** 奥克斯与菲利普斯（Ochs & Phillips）提出跨国吸引力的结构类型学，系统归纳了六类政策焦点与 13 种情境因子。（[[Argument_Rappleye_2006_RCIE\|Ochs & Phillips, 2002, 引自 Rappleye, 2006, pp. 225–226]]）
-> - **2003 — [[Externalization\|外化]]话语概念提出** 施里弗（Jürgen Schriewer）提出教育系统通过“外部化”将国内问题投射到“国际趋势”或“传统”话语中的过滤与合法化机制。（[[Argument_Rappleye_2006_RCIE\|Schriewer, 2003, 引自 Rappleye, 2006, pp. 230–232]]）
+> - **2003 — [[Externalization\|外化]]话语概念提出** 施里弗（[[Jurgen Schriewer|Jürgen Schriewer]]）提出教育系统通过“外部化”将国内问题投射到“国际趋势”或“传统”话语中的过滤与合法化机制。（[[Argument_Rappleye_2006_RCIE\|Schriewer, 2003, 引自 Rappleye, 2006, pp. 230–232]]）
 > - **2003–2004 — 四阶段循环模型系统化** 菲利普斯与奥克斯（Phillips & Ochs）整合推出跨国吸引力、决策、实施、[[Going Native\|本土化]]的四阶段循环生命周期模型。（[[Argument_Rappleye_2006_RCIE\|Phillips & Ochs, 2003, 引自 Rappleye, 2006, p. 225]]）
 > - **2006 — 跨国吸引力情境地图** 拉普莱（[[Jeremy Rappleye]]）提出推拉力情境[[Concept Mapping\|概念地图]]，理清了[[Pre-Transfer Agency\|前转移能动性]]与多层次结构因素的作用机制。（[[Argument_Rappleye_2006_RCIE\|Rappleye, 2006]]）
 > - **2009 — 形态变异理论主张** 考恩建立“转移—[[Transfer Translation Transformation\|转译]]—变形”链条，论证政策元素在跨国流动中由于微观权力的介入必然发生形态变异。（[[Argument_Cowen_2009_CE\|Cowen, 2009b]]）

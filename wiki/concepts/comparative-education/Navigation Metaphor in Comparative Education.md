@@ -9,10 +9,10 @@ aliases:
 summary: "英国比较教育学家约瑟夫·劳威斯于1958年提出的政策咨询经典隐喻。主张比较教育如同航海指南，其职能仅在于为掌舵的领航员或决策者提供不同备选航线与环境信息，而不试图直接替决策者操舵干预决策，构成了比较教育政策咨询立场光谱上的超然克制一极。"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/comparative-education
   - theme/policy-advisory
@@ -34,6 +34,7 @@ related_facts:
 related_persons:
   - "[[Joseph Lauwerys]]"
   - "[[Wolfgang Mitter]]"
+  - "[[Saul B. Robinsohn]]"
   - "[[Torsten Husén]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
@@ -115,7 +116,7 @@ updated: 2026-09-29
 > 探讨比较教育学者如何界定自身在国家政策制定中的角色。在冷战地缘博弈与国内政治动员压力下，劳威斯的航海隐喻为学者抵御技术官僚支配提供了正当性防线。
 
 > [!claim] [[Wolfgang Mitter|Mitter, W.]]
-> **超然定位的制度理性** 米特指出，劳威斯的航海隐喻与索尔·罗宾逊（Saul Robinsohn）在 1970 年代西德全面教育改革中主张直接行政干预的激进模式构成了政策咨询光谱的两极。在联邦德国四分之三世纪的实践中，大多数学者在两极之间选择了偏向劳威斯的审慎立场。这种克制表面上显得消极，实则是在东西德分裂这一高度政治化的敏感地带保护比较教育免受意识形态污染与短视政治操弄的关键机制。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 96)]]
+> **超然定位的制度理性** 米特指出，劳威斯的航海隐喻与[[Saul B. Robinsohn|索尔·罗宾逊]]（Saul Robinsohn）在 1970 年代西德全面教育改革中主张直接行政干预的激进模式构成了政策咨询光谱的两极。在联邦德国四分之三世纪的实践中，大多数学者在两极之间选择了偏向劳威斯的审慎立场。这种克制表面上显得消极，实则是在东西德分裂这一高度政治化的敏感地带保护比较教育免受意识形态污染与短视政治操弄的关键机制。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 96)]]
 
 ---
 
@@ -143,7 +144,7 @@ updated: 2026-09-29
 
 > [!dev-timeline] 概念演变
 > - **1958 — 起源奠基** 英国比较教育学家约瑟夫·劳威斯在伦敦大学教育学院提出航海隐喻，明确界定大学比较教育学者的职能如同航海顾问，旨在提供跨国航线与环境信息，拒绝替决策者掌舵操舵。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 95)]]
-> - **1960s–1970s — 激进咨询挑战与德意志经验分化** 索尔·罗宾逊（Saul Robinsohn）等学者提出积极参与国家教育立法与总体规划的激进咨询模式；然而联邦德国多数比较学者在罗宾逊与劳威斯之间，依然选择偏向航海隐喻的审慎超然立场，以防御冷战意识形态干扰。
+> - **1960s–1970s — 激进咨询挑战与德意志经验分化** [[Saul B. Robinsohn|索尔·罗宾逊]]（Saul Robinsohn）等学者提出积极参与国家教育立法与总体规划的激进咨询模式；然而联邦德国多数比较学者在罗宾逊与劳威斯之间，依然选择偏向航海隐喻的审慎超然立场，以防御冷战意识形态干扰。
 > - **1990s–至今 — 跨国测评盛行与学科[[Epistemology|认识论]]挤压** 随着 [[IEA]] 与 [[OECD]] 发起的 [[PISA]] 席卷全球，量化指标治理主导了教育政策议程。航海隐喻所依托的历史情境与多元备选项探讨被边缘化，比较教育学者面临被吸纳为技术官僚测量工匠或沦为体制旁观者的双重危机。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 96)]]
 
 ---

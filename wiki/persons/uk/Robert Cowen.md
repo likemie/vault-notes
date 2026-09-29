@@ -7,10 +7,10 @@ summary: "英国比较教育学者，以 transitology、现代／晚期现代教
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 39
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 40
+person_related_level: 5
+person_related_stars: "⭐⭐⭐⭐⭐"
+person_related_color: "#ffedd5"
 born: "1938"
 died: ""
 lifespan: "1938–至今"
@@ -50,6 +50,7 @@ related_persons:
   - "[[Wolfgang Mitter]]"
   - "[[Michael Sadler]]"
   - "[[Andreas Kazamias]]"
+  - "[[Jurgen Schriewer]]"
   - "[[John Dewey]]"
   - "[[Nicholas Hans]]"
   - "[[Friedrich Schneider]]"
@@ -79,7 +80,7 @@ updated: 2026-09-29
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国比较教育学者，伦敦大学学院教育与社会学院（UCL Institute of Education，UCL IOE）荣休教授，曾任[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE）会长，《比较教育学国际手册》（*International Handbook of Comparative Education*, 2009）联合主编。
-> - **核心角色** 比较教育理论化与批判研究的代表人物。米特（[[Wolfgang Mitter]]）指出，考恩全面继承了[[Michael Sadler|萨德勒]]在伦敦大学教育研究院（IOE）开创的学术遗产，并与卡扎米亚斯（[[Andreas Kazamias]]）、诺瓦（António Nóvoa）及施里维尔（Jürgen Schriewer）共同构成了 20 世纪末抵御北美量化行为主义侵蚀、坚守欧洲深厚历史与文化主义研究主干的领袖学者。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90, 94)]]
+> - **核心角色** 比较教育理论化与批判研究的代表人物。米特（[[Wolfgang Mitter]]）指出，考恩全面继承了[[Michael Sadler|萨德勒]]在伦敦大学教育研究院（IOE）开创的学术遗产，并与卡扎米亚斯（[[Andreas Kazamias]]）、诺瓦（António Nóvoa）及施里维尔（[[Jurgen Schriewer|Jürgen Schriewer]]）共同构成了 20 世纪末抵御北美量化行为主义侵蚀、坚守欧洲深厚历史与文化主义研究主干的领袖学者。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90, 94)]]
 > - **代表贡献** 创立 [[Transitology\|转型学]]（Transitology）与“转移—[[Transfer Translation Transformation\|转译]]—转化”（Transfer, Translation, Transformation，3T）跨国转移[[Analytic Framework\|分析框架]]；提出 [[Four Sins of Comparative Education\|比较教育的四种罪过]] 与 [[Heroic, Strange, and Barbaric\|英雄、陌生与野蛮]] 的批判震荡词汇。
 
 ---
@@ -159,7 +160,7 @@ updated: 2026-09-29
 ## 历史评价
 
 > [!citation-card] 米特论考恩与欧洲文化主义学术主干
-> 米特（[[Wolfgang Mitter]]）在考察欧洲比较教育两百年的理论演进时指出，尽管战后北美比较教育学界全面倒向[[Positivism|实证主义]]量化测量与行为主义，欧洲比较教育的主流直至 20 世纪末依然顽强地受文化主义研究所支配，并与深厚的历史学研究紧密结盟。从早期的汉斯（[[Nicholas Hans]]）、[[Friedrich Schneider|弗里德里希·施奈德]]（[[Friedrich Schneider]]），到当代的罗伯特·考恩、卡扎米亚斯（[[Andreas Kazamias]]）、诺瓦（António Nóvoa）与施里维尔（Jürgen Schriewer），无不坚守文化与历史脉络，构成了欧洲比较教育不可动摇的理论与[[Epistemology|认识论]]主干。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 94)]]
+> 米特（[[Wolfgang Mitter]]）在考察欧洲比较教育两百年的理论演进时指出，尽管战后北美比较教育学界全面倒向[[Positivism|实证主义]]量化测量与行为主义，欧洲比较教育的主流直至 20 世纪末依然顽强地受文化主义研究所支配，并与深厚的历史学研究紧密结盟。从早期的汉斯（[[Nicholas Hans]]）、[[Friedrich Schneider|弗里德里希·施奈德]]（[[Friedrich Schneider]]），到当代的罗伯特·考恩、卡扎米亚斯（[[Andreas Kazamias]]）、诺瓦（António Nóvoa）与施里维尔（[[Jurgen Schriewer|Jürgen Schriewer]]），无不坚守文化与历史脉络，构成了欧洲比较教育不可动摇的理论与[[Epistemology|认识论]]主干。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 94)]]
 >
 > *While comparative education in North America fully turned toward positivist quantitative measurement after World War II, the mainstream of European comparative education remained firmly dominated by culturalist research and closely allied with historical inquiry up to the end of the 20th century, championed by scholars from Hans and Schneider to Cowen, Kazamias, Nóvoa, and Schriewer.*
 

@@ -8,7 +8,7 @@ summary: "美国比较教育学者，政策借用与借出政治分析代表人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -49,6 +49,7 @@ related_methods:
   - "[[Network Analysis]]"
 related_persons:
   - "[[Niklas Luhmann]]"
+  - "[[Jurgen Schriewer]]"
   - "[[Kerstin Martens]]"
   - "[[Christian Ydesen]]"
   - "[[Jeremy Rappleye]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-06
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 
 # Gita Steiner-Khamsi
@@ -89,7 +90,7 @@ updated: 2026-09-22
 
 > [!timeline] 生平与职涯
 > - **1990年代–2000年代初** 长期任教于哥伦比亚大学教师学院，并在日内瓦高等国际关系与发展研究院担任双聘教授，致力于后社会主义转型国家与全球南方国家的教育改革与国际援助政策研究。
-> - **2000** 在尤尔根·施里弗（Jürgen Schriewer）主编的话语形成论文集中发表奠基论文，系统阐明教育转移的政治维度与冲突移位机制。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, p. 224)]]
+> - **2000** 在尤尔根·施里弗（[[Jurgen Schriewer|Jürgen Schriewer]]）主编的话语形成论文集中发表奠基论文，系统阐明教育转移的政治维度与冲突移位机制。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, p. 224)]]
 > - **2004** 出版纲领性论著《[[Policy Borrowing\|教育借用]]与借出的全球政治》（*The Global Politics of Educational Borrowing and Lending*），奠定当代跨国政策借用分析的基准[[Paradigm\|范式]]。
 > - **2004** 在德国教育研究协会苏黎世会议上发表论文，创新性结合社会[[Network Analysis\|网络分析]]与创新扩散理论，提出跨国教育政策中的马里斯·奥罗克效应（Maris O'Rourke Effect）。
 > - **2009** 在 Cowen 与 Kazamias 主编的《比较教育学国际手册》中，不仅系统概念化了比较教育的历史演进，还率先推动运用口述史方法抢救被遮蔽的学科个人与学会记忆。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–8)]]
@@ -145,7 +146,7 @@ updated: 2026-09-22
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **学术对话者** Jürgen Schriewer 共同推进基于系统论的[[Policy Borrowing\|教育借用]]外在化（Externalisation）理论对话。
+> - **学术对话者** [[Jurgen Schriewer|Jürgen Schriewer]] 共同推进基于系统论的[[Policy Borrowing\|教育借用]]外在化（Externalisation）理论对话。
 > - **理论延伸者** [[Jeremy Rappleye]] 在 2006 年[[Concept Mapping\|概念地图]]中将施泰纳-卡姆西的能动者分析整合为[[Pre-Transfer Agency\|前转移能动性]]模型。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, p. 224)]]
 > - **合作主编** Florian Waldow 共同主编《世界教育年鉴 2012》，推进比较政策借用分析工具标准化。
 > - **跨国治理合作者** [[Kerstin Martens]] 与 [[Christian Ydesen]] 共同开拓[[Governing by Numbers\|数字治理]] 2.0 与[[Global Education Governing Complex\|全球教育治理复合体]]研究。

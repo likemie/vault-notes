@@ -7,7 +7,7 @@ summary: "德国图宾根大学 Hector 教育科学与心理学研究所所长�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_instruments:
 related_persons: []
 related_facts:
   - "[[Institute of Education Sciences]]"
+  - "[[Max Planck Institute for Human Development]]"
   - "[[TOSCA]]"
   - "[[PISA]]"
 related_arguments:
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-09-22
+updated: 2026-09-29
 ---
 
 # Ulrich Trautwein
@@ -51,7 +52,7 @@ updated: 2026-09-22
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 德国当代教育心理学家、图宾根大学 Hector 教育科学与心理学研究所（Hector Research [[Institute of Education Sciences]] and Psychology）所长、原柏林马克斯·普朗克人类发展研究所（MPIB）核心研究员。
+> - **身份位置** 德国当代教育心理学家、图宾根大学 Hector 教育科学与心理学研究所（Hector Research [[Institute of Education Sciences]] and Psychology）所长、原柏林[[Max Planck Institute for Human Development|马克斯·普朗克人类发展研究所]]（MPIB）核心研究员。
 > - **核心角色** 德国实证教育研究（Empirical Educational Research）学派代表人物，主导多项大型国家与州级教育追踪项目（如 [[TOSCA]]）。
 > - **代表贡献** 推动将[[Epistemological Beliefs\|认识论信念]]与非认知心理特质纳入大规模[[Academic Achievement\|学业成就]]因果模型；确立大学专业分流中的[[Disciplinary Socialization\|学科社会化]]与自我选择机制。
 
@@ -66,7 +67,7 @@ updated: 2026-09-22
 
 > [!timeline] 生平与职涯
 > - **1972 年** 出生于德国。
-> - **2000–2008 年** 任职于柏林马克斯·普朗克人类发展研究所（MPIB）教育研究中心，与 Jürgen Baumert、Olaf Köller 等共同设计并主持 [[TOSCA]] 大型纵向追踪项目。
+> - **2000–2008 年** 任职于柏林[[Max Planck Institute for Human Development|马克斯·普朗克人类发展研究所]]（MPIB）教育研究中心，与 Jürgen Baumert、Olaf Köller 等共同设计并主持 [[TOSCA]] 大型纵向追踪项目。
 > - **2008 年至今** 担任图宾根大学教育科学与心理学全职教授，创办并领导 Hector 教育科学与心理学研究所，成为欧洲实证教育心理学研究重镇。
 
 ---
@@ -90,7 +91,7 @@ updated: 2026-09-22
 
 > [!person-network] 关系网络
 > - **合作者** Oliver Lüdtke — 长期方法论与统计建模合作者。
-> - **合作者** Olaf Köller — MPIB / IPN 资深合作者，共同主持 [[TOSCA]]。
+> - **合作者** Olaf Köller — [[Max Planck Institute for Human Development|MPIB]] / IPN 资深合作者，共同主持 [[TOSCA]]。
 > - **合作者** Jürgen Baumert — MPIB 教育研究中心主任、[[PISA]] 德国首席科学家。
 > - **机构／项目** [[TOSCA]] — 主导主持的里程碑式纵向追踪项目。
 

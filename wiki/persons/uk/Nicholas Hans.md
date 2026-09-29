@@ -10,7 +10,7 @@ summary: "俄裔英国比较教育学家，伦敦大学国王学院读者，20 �
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 29
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -47,14 +47,16 @@ related_persons:
   - "[[Wolfgang Mitter]]"
   - "[[Friedrich Schneider]]"
   - "[[Isaac Kandel]]"
-  - "[[Mark Schneider]]"
   - "[[Michael Sadler]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
+  - "[[Mark Schneider]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Cowen_2009_HistoryCreation]]"
+related_theories:
+  - "[[Theories of the Driving Forces]]"
 confidence: high
 status: draft
 created: 2026-09-06
@@ -180,7 +182,7 @@ updated: 2026-09-29
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias, 2009]] — 卡扎米亚斯系统评析汉斯的因素[[Analytic Framework\|分析框架]]及其对英美自由民主与苏联社会主义民主的辩证超越。
 > - [[Argument_Cowen_2009_HistoryCreation\|Cowen, 2009a]] — 考恩考察汉斯在战后伦敦大学比较教育学术建制中的承前启后地位。
-> - [[Argument_Mitter_2009_Europe\|Mitter, 2009]] — 米特将汉斯与[[Mark Schneider|施奈德]]并列为 20 世纪前中期（1920s–1950s）主导欧洲的“宏大历史文化全景”流派领袖，评析其以历史语境与[[National Character|国民性格]]诠释教育体系的驱动力理论，构筑抵御量化行为主义的文化主义防线。
+> - [[Argument_Mitter_2009_Europe\|Mitter, 2009]] — 米特将汉斯与施奈德并列为 20 世纪前中期（1920s–1950s）主导欧洲的“宏大历史文化全景”流派领袖，评析其以历史语境与[[National Character|国民性格]]诠释教育体系的[[Theories of the Driving Forces|驱动力理论]]，构筑抵御量化行为主义的文化主义防线。
 
 ---
 

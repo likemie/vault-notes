@@ -12137,6 +12137,18 @@
     ]
   },
   {
+    "title": "Theories of the Driving Forces",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Theories of the Driving Forces.md",
+    "aliases": [
+      "驱动力理论",
+      "教育驱动力理论",
+      "Triebkräfte",
+      "driving forces theory",
+      "推动力理论"
+    ]
+  },
+  {
     "title": "Three-Level Mechanism Model of PISA's Impact on Education Policy",
     "type": "theory",
     "path": "wiki/theories/comparative-education/Three-Level Mechanism Model of PISA's Impact on Education Policy.md",
@@ -19038,7 +19050,8 @@
     "path": "wiki/persons/germany/Jurgen Schriewer.md",
     "aliases": [
       "Schriewer, J.",
-      "于尔根·施里韦尔"
+      "于尔根·施里韦尔",
+      "Jürgen Schriewer"
     ]
   },
   {
@@ -19093,6 +19106,17 @@
     "aliases": [
       "Anweiler, O.",
       "奥斯卡·安维勒"
+    ]
+  },
+  {
+    "title": "Saul B. Robinsohn",
+    "type": "person",
+    "path": "wiki/persons/germany/Saul B. Robinsohn.md",
+    "aliases": [
+      "Robinsohn, S. B.",
+      "索尔·罗宾逊",
+      "萨尔·罗宾逊",
+      "Saul Robinsohn"
     ]
   },
   {
@@ -22599,6 +22623,18 @@
       "Leibniz-Institut für Bildungsforschung und Bildungsinformation",
       "Deutsches Institut für Internationale Pädagogische Forschung",
       "DIPF-Kompass"
+    ]
+  },
+  {
+    "title": "Max Planck Institute for Human Development",
+    "type": "fact",
+    "path": "wiki/facts/germany/Max Planck Institute for Human Development.md",
+    "aliases": [
+      "MPIB",
+      "柏林马克斯·普朗克人类发展与教育研究所",
+      "柏林马克斯·普朗克教育研究所",
+      "Max-Planck-Institut für Bildungsforschung",
+      "马克斯·普朗克人类发展研究所"
     ]
   },
   {
