@@ -9,7 +9,7 @@ aliases:
 summary: "布雷彻等创立、阿诺夫引入比较教育学的批判社会运动与教育改革理论，指跨国界基层社会运动、原住民团体与教师工会依托数字通信构筑的以太流散空间，利用普世人权话语反哺抗争新自由主义自上而下的政策规训，通过跨国社会连带争取教育公平并推动世界体系向全球社会民主转型"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_concepts:
 related_theories:
   - "[[Convergence Theory in Comparative Education]]"
   - "[[Dialectic of the Global and the Local]]"
+  - "[[Stanford School]]"
   - "[[Pluri-Scalar Governance]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -85,7 +86,7 @@ updated: 2026-09-29
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 杰里米·布雷彻（Jeremy Brecher）、蒂姆·科斯特洛（Tim Costello）与布伦丹·史密斯（Brendan Smith）在其经典著作 *Globalization from Below: The Power of Solidarity*（2000）中系统确立了草根跨国抗争理论；[[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove, 2005, 2009）将其系统引入比较教育研究，建构了教育改革发起方位与目标取向的双轴四象限[[Analytic Framework|分析框架]]。[[Argument_Arnove_2009_WorldSystems|(Brecher et al., 2000; Arnove, 2005, 2009, pp. 113–114)]]
 > - **原初问题** 20 世纪 90 年代以来，[[World Trade Organization|世界贸易组织]]（World Trade Organization, WTO）、[[World Bank|世界银行]]（World Bank, WB）与跨国资本推动教育全面商品化与外包，各国外围劳工、乡村青年与原住民群体面临空前的阶层分化与公共教育权利剥夺，亟需解释分散的反全球化浪潮与教育抗争的理论[[Paradigm|范式]]。
-> - **理论资源与材料** 汲取[[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 1997）关于资本主义历史体系终极危机的宏观政治经济学诊断；吸收戴维·哈维（David Harvey, 1989）的时空压缩概念与爱德华兹与厄舍（Edwards & Usher, 2000）的流散空间概念；整合鲍尔斯顿与勒鲁瓦（Paulston & Leroy, 1980）的教育改革平衡与冲突四象限拓扑模型；借鉴斯坦福学派[[John W. Meyer|约翰·迈耶]]（Meyer et al., 1997）关于普世人权作为世界文化话语资源的论断。
+> - **理论资源与材料** 汲取[[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 1997）关于资本主义历史体系终极危机的宏观政治经济学诊断；吸收戴维·哈维（David Harvey, 1989）的时空压缩概念与爱德华兹与厄舍（Edwards & Usher, 2000）的流散空间概念；整合鲍尔斯顿与勒鲁瓦（Paulston & Leroy, 1980）的教育改革平衡与冲突四象限拓扑模型；借鉴[[Stanford School|斯坦福学派]][[John W. Meyer|约翰·迈耶]]（Meyer et al., 1997）关于普世人权作为世界文化话语资源的论断。
 > - **形成路径** 从 1999 年西雅图抗议与跨国劳工维权等经验现象出发，阿诺夫等学者打破了将教育改革局限于“主权国家官方政策转移”的传统视野，将民间跨国网络提炼为与官方资本[[Disciplina and Doctrina|规训]]抗衡的替代极，构筑了自下而上全球化教育分析模型。
 
 ### 后续修订与扩展

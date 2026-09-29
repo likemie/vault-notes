@@ -9,7 +9,7 @@ summary: "美国社会学家，斯坦福学派新制度主义与世界社会理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 32
+person_related_count: 33
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Epistemology]]"
 related_theories:
+  - "[[Stanford School]]"
   - "[[World Society Theory]]"
   - "[[Cultural Models]]"
   - "[[Institutional Isomorphism]]"
@@ -73,7 +74,7 @@ updated: 2026-09-29
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 约翰·迈耶（John W. Meyer），美国当代著名社会学家，斯坦福大学社会学系荣休教授，斯坦福大学教育学院兼任教授，斯坦福学派新制度主义社会学与[[World Society Theory|世界社会理论]]的核心开创者。
+> - **身份位置** 约翰·迈耶（John W. Meyer），美国当代著名社会学家，斯坦福大学社会学系荣休教授，斯坦福大学教育学院兼任教授，[[Stanford School|斯坦福学派]]新制度主义社会学与[[World Society Theory|世界社会理论]]的核心开创者。
 > - **核心角色** 迈耶从根本上重构了社会学对全球化、现代民族国家与组织变迁的理解。他打破将民族国家视为主权封闭、按内部功能理性自发演进的古典现代化传统，开创性地指出跨国层面存在一套源于西方[[Enlightenment|启蒙运动]]理性的全球[[Cultural Models|文化模型]]；这一模型通过弥漫性的制度定义、组织脚本与“[[Otherhood|为他者行动]]”（[[Otherhood]]）机制，塑造了战后全球教育系统的高度同构与现代行动者身份（[[Organizational Actorhood]]）。
 > - **代表贡献** 创立新制度主义组织理论（与 Brian Rowan 开创[[Rationalized Myth|制度神话]]与仪式性脱节理论）、奠定世界社会理论（与 John Boli、George M. Thomas、Francisco O. Ramirez 构建宏观跨国扩散框架）、提出组织行动者身份与为他者行动理论（与 Patricia Bromley、David John Frank 系统解释现代大学与非政府组织的知识权威与去中心化治理角色）。
 
@@ -94,7 +95,7 @@ updated: 2026-09-29
 > [!timeline] 生平与职涯
 > - **1935** 出生于美国。
 > - **1965** 获得哥伦比亚大学（Columbia University）社会学博士学位，受到实证量化分析与制度社会学的深厚学术熏陶。
-> - **1966–2000s** 任教于斯坦福大学社会学系，并长期在斯坦福教育学院开展交叉研究，开创享誉国际的斯坦福新制度主义学派（Stanford School of Neo-Institutionalism）。
+> - **1966–2000s** 任教于斯坦福大学社会学系，并长期在斯坦福教育学院开展交叉研究，开创享誉国际的[[Stanford School|斯坦福新制度主义学派]]（Stanford School of Neo-Institutionalism）。
 > - **1971–1979** 聚焦全球教育扩张动力研究，发表早期代表作《经济与政治对国家教育入学模式的影响》（Meyer, 1971），并与迈克尔·汉南（Michael T. Hannan）合著《国家发展与世界体系》（Meyer & Hannan, 1979），发现跨国教育大扩张无法被各国自身经济政治发展水平解释，必须引入世界体系的宏观解释视角。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–102)]]
 > - **1977** 与布赖恩·罗文（Brian Rowan）合作发表《制度化组织：作为神话与仪式的正式结构》，奠定新制度主义组织社会学的理论基石。
 > - **1980s–1990s** 组建斯坦福跨学科研究团队，包括约翰·博利（John Boli）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、乔治·托马斯（George M. Thomas）、阿伦·贝纳沃特（Aaron Benavot）以及早期博士生[[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove）等，系统建立起跨越社会学、比较教育学与国际组织研究的全球学术网络。
@@ -145,7 +146,7 @@ updated: 2026-09-29
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 开创斯坦福学派新制度主义社会学与[[World Society Theory|世界社会理论]]，彻底改写了组织社会学关于正式结构的理性效率假定，并为比较教育学奠定了世界文化[[Paradigm|范式]]（World Culture Perspective）；与国际关系领域的[[Constructivist Paradigm|社会建构主义]]形成理论互补，推动全球治理研究从侧重物质强权的硬治理转向侧重观念、规范与知识的[[Epistemic Governance|知识治理]]。
+> - **理论路径** 开创[[Stanford School|斯坦福学派]]新制度主义社会学与[[World Society Theory|世界社会理论]]，彻底改写了组织社会学关于正式结构的理性效率假定，并为比较教育学奠定了世界文化[[Paradigm|范式]]（World Culture Perspective）；与国际关系领域的[[Constructivist Paradigm|社会建构主义]]形成理论互补，推动全球治理研究从侧重物质强权的硬治理转向侧重观念、规范与知识的[[Epistemic Governance|知识治理]]。
 > - **方法路径** 倡导大规模、长时段的跨国量化比较研究方法，通过建立战后全球多国入学率数据库、国家课程纲要分类与课时比例数据库、人权与环境条约签署数据库等，奠定了运用宏观跨国面板数据检验微观[[Institutional Isomorphism|制度同构]]效应的研究设计规范。
 > - **政策路径** 深刻影响了联合国教育、科学及文化组织（[[UNESCO]]）、[[OECD|经济合作与发展组织]]（OECD）等跨国机构的监测逻辑与政策话语；迈耶揭示的“理性神话与仪式性脱节”成为评估全球教育改革[[Policy Borrowing|政策借用]]、标准化问责制异化与政策执行落差的标准分析工具。
 > - **跨国／跨领域传播** 斯坦福学派形成了庞大的跨国学术传承，研究脉络从中小学学科知识构成（Benavot）、妇女公民参政权扩展（Ramirez）延伸至当代研究型大学向完全组织的转型（Zapp, Bromley），成为现代高等教育学、国际比较教育学与公共政策分析的核心理论渊源。
@@ -174,7 +175,7 @@ updated: 2026-09-29
 
 > [!person-network] 关系网络
 > - **合作者／学派奠基学者** 布赖恩·罗文（Brian Rowan）、约翰·博利（John Boli）、乔治·托马斯（George M. Thomas）、罗纳德·杰珀森（Ronald L. Jepperson）— 共同创立新制度主义组织理论、[[World Society Theory|世界社会理论]]与能动者文化建构理论。
-> - **学生／学术传承者** [[Robert Arnove|罗伯特·阿诺夫]]（早期博士生，后将体系分析引入比较教育学，兼具世界文化与政治经济学双重视野）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、戴维·贝克（David P. Baker）、阿伦·贝纳沃特（Aaron Benavot）、帕特丽夏·布罗姆利（Patricia Bromley）、戴维·约翰·弗兰克（David John Frank）— 持续拓展斯坦福学派在跨国教育、人权与大学组织领域的实证研究。
+> - **学生／学术传承者** [[Robert Arnove|罗伯特·阿诺夫]]（早期博士生，后将体系分析引入比较教育学，兼具世界文化与政治经济学双重视野）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、戴维·贝克（David P. Baker）、阿伦·贝纳沃特（Aaron Benavot）、帕特丽夏·布罗姆利（Patricia Bromley）、戴维·约翰·弗兰克（David John Frank）— 持续拓展[[Stanford School|斯坦福学派]]在跨国教育、人权与大学组织领域的实证研究。
 > - **批评者／学术论敌** [[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]（Wallerstein）、萨米尔·阿明（Samir Amin）— 马克思主义政治经济学与世界体系分析现实主义流派代表，批判迈耶将帝国主义霸权与资本积累的不平等依附掩盖在普遍启蒙理性的世界文化共识之中。
 > - **机构阵地** 斯坦福大学社会学系（Department of Sociology, Stanford University）、斯坦福教育学院 — 斯坦福新制度主义学派的核心摇篮与全球学术阵地。
 
@@ -185,7 +186,7 @@ updated: 2026-09-29
 > [!debates] 学术争议
 >
 > > [!axis] 共识[[Convergence Theory in Comparative Education|趋同论]]与依附冲突论的[[Paradigm|范式]]对立
-> > 围绕全球教育大扩张的根本动力，形成了斯坦福学派世界文化论与[[Immanuel Wallerstein|沃勒斯坦]][[Dependency Theory|依附论]]学术传统的根本范式分野。
+> > 围绕全球教育大扩张的根本动力，形成了[[Stanford School|斯坦福学派]]世界文化论与[[Immanuel Wallerstein|沃勒斯坦]][[Dependency Theory|依附论]]学术传统的根本范式分野。
 > >
 > > - **迈耶等（1997）** 主张源自[[Enlightenment|启蒙运动]]的普遍理性[[Cultural Models|文化模型]]在全球自发扩散，使民族国家在宪法、公民权与普及义务教育上形成高度同构，国际体系是由形式上平等自主的国家构成的世界共同体。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
 > > - **沃勒斯坦与[[Robert Arnove|阿诺夫]]（1980, 2009）** 批评新制度主义以形式趋同掩盖了实质的不平等与剥削；跨国资本积累、核心国家霸权与跨国金融援助机构（如[[World Bank|世界银行]]）的[[Disciplina and Doctrina|规训]]，导致边缘国家深陷于持久的辍学、失业、阶层固化与不平等依附之中。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]

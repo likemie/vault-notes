@@ -10,7 +10,7 @@ aliases:
 summary: "由历史文化过程积淀并持续演进的共享概念框架，在微观层面指文化成员用以解释、预测与指导学习及社会行动的原型图式（如东西方学习模型），在宏观跨国层面指世界社会理论所论述的普世化制度脚本（如国民经济发展、公民资产与国家可改进性信念）。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 42
+theory_related_count: 43
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Paradigm]]"
 related_theories:
+  - "[[Stanford School]]"
   - "[[World Society Theory]]"
   - "[[Human Capital Theory]]"
   - "[[Hegemony]]"
@@ -84,7 +85,7 @@ updated: 2026-09-29
 > - **解释对象** 微观层面解释不同文化群体内部如何共享对学习、道德与自我发展的稳定认知图式；宏观层面解释全球范围内民族国家在教育制度、课程设置与发展诉求上为何呈现高度同质的文化信念。
 > - **理论问题** 回应单纯从个体心理归因或纯粹理性选择难以解释的跨文化长期认知稳定性，以及跨国教育扩张背后的全球观念扩散机制。
 > - **理论类型** 文化心理学理论、教育社会学解释框架、新制度主义世界文化分析视角。
-> - **知识位置** 跨越认知人类学（Holland & Quinn, 1987）、文化心理学（[[Argument_Li_2012_Cambridge|Li, 2012]]）与比较教育社会学斯坦福学派（Meyer et al., 1992, 1997; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）。
+> - **知识位置** 跨越认知人类学（Holland & Quinn, 1987）、文化心理学（[[Argument_Li_2012_Cambridge|Li, 2012]]）与比较教育社会学[[Stanford School|斯坦福学派]]（Meyer et al., 1992, 1997; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）。
 
 > [!claim] 核心判断
 > 文化模型是经由历史文化过程建立、并随实践演进而持续修订的共享概念框架。在微观层面，它通过语言词汇与理想原型引导（但不绝对决定）成员的思维、情感与行动；在宏观跨国层面，它构成了全球治理中被普世化的制度脚本，塑造主权国家关于发展、公民与教育进步的普遍信念，但其实际落地始终伴随着阶级再生产与地方性文化抗争。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 88–89)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–76)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
@@ -138,7 +139,7 @@ updated: 2026-09-29
 > **应用实例** 在东亚文化情境中，任何在[[Confucian Heritage Cultures|儒家文化圈]]长大的人都能清晰识别“苦读成才”、“知耻后勇”的学习模型原型；尽管具体某个现代学生可能厌学或反叛，但该文化模型作为评价与反思的参照系始终具有规范引导力。
 
 > [!theory-proposition] 命题二｜世界社会通过普世文化模型向主权国家扩散关于发展、公民与科学课程的同质脚本
-> **解释** 斯坦福学派的[[World Society Theory|世界社会理论]]主张，战后跨国教育扩张本质上是源自西方[[Enlightenment|启蒙运动]]理性的全球文化模型的同质化扩散。该共享模型不仅包含共享国家经济增长、公民资产、国家可改进性与资本主义成功的四大信念，而且通过标准化教科书与课程范畴（如在全球范围内大幅提高科学与数学课时）直接塑形主权国家的知识体系。[[John W. Meyer|迈耶]]等人通过“孤岛思想实验”指出，任何新发现的孤立社会都会自发建立宪法、人权、正规学校以及增长导向的经济体制，这源于世界文化强大的理性说服力与合法性定义。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–76)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 103–104, 108)]]
+> **解释** [[Stanford School|斯坦福学派]]的[[World Society Theory|世界社会理论]]主张，战后跨国教育扩张本质上是源自西方[[Enlightenment|启蒙运动]]理性的全球文化模型的同质化扩散。该共享模型不仅包含共享国家经济增长、公民资产、国家可改进性与资本主义成功的四大信念，而且通过标准化教科书与课程范畴（如在全球范围内大幅提高科学与数学课时）直接塑形主权国家的知识体系。[[John W. Meyer|迈耶]]等人通过“孤岛思想实验”指出，任何新发现的孤立社会都会自发建立宪法、人权、正规学校以及增长导向的经济体制，这源于世界文化强大的理性说服力与合法性定义。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–76)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 103–104, 108)]]
 >
 > **应用实例** 无论是非洲新独立国家还是拉美后革命国家，战后不仅在宪法中将普及义务教育写入基本国策，而且在小学课程改革中普遍按照世界模型调整数理学科比例，体现了全球文化模型对主权国家制度构型的深刻塑形。
 
@@ -206,7 +207,7 @@ updated: 2026-09-29
 > > [!axis] 普世理性文化模型 vs 依附性资本积累与双轨分选
 > > 争论世界范围内的教育扩张是普世文化理性的胜利，还是跨国资本积累在全球南方维系统治的工具。
 > >
-> > - **斯坦福学派 (Meyer et al., 1997)** 坚持认为现代大众教育是世界社会去中心化文化模型模仿的必然结果，孤岛实验证明了其普世吸引力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 103–104)]]
+> > - **[[Stanford School|斯坦福学派]] (Meyer et al., 1997)** 坚持认为现代大众教育是世界社会去中心化文化模型模仿的必然结果，孤岛实验证明了其普世吸引力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 103–104)]]
 > > - **批判政治经济学者 ([[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres, 2009]]; Wallerstein, 1974)** 尖锐指出该假说是一种非历史的抽象神话，掩盖了核心国家对边缘国家的剩余剥削、实际辍学率以及依附性[[Dual School System|双轨学制]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
 > >
 > > [!axis] 全球文化模型普世趋同 vs 本土微观抗争与文化折射

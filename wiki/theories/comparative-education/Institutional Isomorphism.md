@@ -9,7 +9,7 @@ aliases:
 summary: "解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学新制度主义理论，阐明组织趋同源于对制度合法性与合理化神话的追求而非纯粹的技术效率"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 33
+theory_related_count: 34
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -42,6 +42,7 @@ related_concepts:
 related_theories:
   - "[[Rational Action Theory]]"
   - "[[World Society Theory]]"
+  - "[[Stanford School]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Randomised Controlled Trials]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-18
-updated: 2026-09-17
+updated: 2026-09-29
 ---
 
 # Institutional Isomorphism
@@ -167,7 +168,7 @@ updated: 2026-09-17
 ## 制度同构与世界社会理论（World Society Theory）之辨析
 
 > [!contrast-table] 制度同构 vs. [[World Society Theory\|世界社会理论]]
-> | 维度 | 制度同构理论（DiMaggio & Powell） | 世界社会理论（Meyer, Ramirez / 斯坦福学派） |
+> | 维度 | 制度同构理论（DiMaggio & Powell） | 世界社会理论（Meyer, Ramirez / [[Stanford School\|斯坦福学派]]） |
 > |---|---|---|
 > | **分析层次** | 组织[[Champ\|场域]]（中观区域或国家行业网络） | 世界社会（宏观全球文化体系） |
 > | **核心问题** | 为何同一行业/场域内的组织结构日益趋同？ | 为何全球各民族国家的宪法、教育体系与制度高度同质化？ |

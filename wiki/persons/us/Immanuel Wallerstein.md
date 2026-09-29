@@ -9,7 +9,7 @@ summary: "美国历史社会学家，世界体系分析创始人。提出资本�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,13 +27,14 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Unit of Analysis]]"
   - "[[Popular Education]]"
-  - "[[Globalization from Below]]"
   - "[[Methodological Nationalism]]"
   - "[[Determinism]]"
   - "[[Disciplina and Doctrina]]"
 related_theories:
   - "[[Dependency Theory]]"
   - "[[World-Systems Theory]]"
+  - "[[Globalization from Below]]"
+  - "[[Stanford School]]"
   - "[[Cultural Models]]"
   - "[[World Society Theory]]"
 related_methods:
@@ -115,7 +116,7 @@ updated: 2026-09-29
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 深刻影响了新马克思主义政治经济学、[[Dependency Theory|依附理论]]与发展社会学；在比较教育学中，[[Robert Arnove|罗伯特·阿诺夫]]（Robert Arnove, 1980）将其系统引入，开辟了与斯坦福学派世界文化论正面对峙的“现实主义世界体系分析”传统。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–106)]]
+> - **理论路径** 深刻影响了新马克思主义政治经济学、[[Dependency Theory|依附理论]]与发展社会学；在比较教育学中，[[Robert Arnove|罗伯特·阿诺夫]]（Robert Arnove, 1980）将其系统引入，开辟了与[[Stanford School|斯坦福学派]]世界文化论正面对峙的“现实主义世界体系分析”传统。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–106)]]
 > - **方法路径** 倡导“长时段历史分析”与跨国宏微观贯通，促使比较教育研究打破单一国家容器（[[Methodological Nationalism|方法论民族主义]]），将微观学校[[Ethnography|民族志]]与全球资本分工机制相结合。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104, 106–107)]]
 > - **政策与机构批判** 为解构[[World Bank|世界银行]]、IMF 等多边金融组织以及大型跨国基金会的教育援助政策提供了锐利武器，揭示外部援助固化依附性分层的实质。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]
 
@@ -139,7 +140,7 @@ updated: 2026-09-29
 > - **师承与思想渊源** 费尔南·布罗代尔（Fernand Braudel） — 法国年鉴学派宗师，为沃勒斯坦提供长时段（longue durée）历史动力学分析基础；卡尔·马克思（Karl Marx） — 资本积累与国际阶级剥削理论来源。
 > - **合作者与同仁** 萨米尔·阿明（Samir Amin）、安德烈·贡德·弗兰克（Andre Gunder Frank）、乔万尼·阿瑞基（Giovanni Arrighi） — 组成世界体系与[[Dependency Theory|依附论]]四人批判网络。
 > - **学术继承与比较教育引入者** [[Robert Arnove|罗伯特·阿诺夫]]（Robert Arnove） — 于 1980 年将沃勒斯坦世界体系分析正式引入比较教育学。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 105)]]
-> - **学术论敌** [[John W. Meyer|约翰·迈耶]]（John W. Meyer） — 斯坦福学派新制度主义领袖，主张普世理性[[Cultural Models|文化模型]]自发趋同，被沃勒斯坦学派批评掩盖资本积累剥削与阶层不平等。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
+> - **学术论敌** [[John W. Meyer|约翰·迈耶]]（John W. Meyer） — [[Stanford School|斯坦福学派]]新制度主义领袖，主张普世理性[[Cultural Models|文化模型]]自发趋同，被沃勒斯坦学派批评掩盖资本积累剥削与阶层不平等。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
 
 ---
 
@@ -157,7 +158,7 @@ updated: 2026-09-29
 > > 围绕全球教育趋同的动因展开世纪争论：是普世文明信念的扩散，还是资本主义中心对边缘的[[Disciplina and Doctrina|规训]]与分层固化。
 > >
 > > - **沃勒斯坦与[[Robert Arnove|阿诺夫]]现实主义学派** 坚称教育扩张服务于国际资本积累，形式趋同掩盖了实质阶级再生产。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
-> > - **[[John W. Meyer|迈耶]]斯坦福学派** 坚信普世理性文化正在非强制地塑造平等的现代公民社会。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 102–104)]]
+> > - **[[John W. Meyer|迈耶]][[Stanford School|斯坦福学派]]** 坚信普世理性文化正在非强制地塑造平等的现代公民社会。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 102–104)]]
 
 > [!critique]- 批评索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 评述世界体系分析在解释微观课堂实践与行动者文化抵制方面的局限，提出以全球与本土辩证法予以综合发展。
@@ -175,4 +176,4 @@ updated: 2026-09-29
 > | [[Dependency Theory]] | 理论 | 沃勒斯坦将拉美依附论吸收并系统推进为具有长时段历史维度的世界体系分析。 |
 > | [[World Society Theory]] | 理论 | 沃勒斯坦现实主义冲突论的核心学术论敌，两派形成共识与冲突的鲜明对照。 |
 > | [[Robert Arnove]] | 人物 | 奠基性将沃勒斯坦世界体系分析引入比较教育学的关键学者。 |
-> | [[John W. Meyer]] | 人物 | 斯坦福学派代表人物，与沃勒斯坦在比较教育与全球化机制上形成重要辩论。 |
+> | [[John W. Meyer]] | 人物 | [[Stanford School\|斯坦福学派]]代表人物，与沃勒斯坦在比较教育与全球化机制上形成重要辩论。 |

@@ -66,7 +66,7 @@ updated: 2026-09-22
 > - **用途** 帮助研究者透视国家新自由主义市场政策或人口城镇化导流战略如何与家庭能动性发生互动，以及资源分配的马太效应。
 > - **边界** 解释义务教育和高中阶段的选择性入学行为，不涉及不具备选择权利的强制性分配和纯粹学术选拔。
 
-> [!citation-card] 关键表述
+> [!citation-card] 腾飞与王论择校的双向政策话语与实践形态
 > 在多数国家的政策话语中，择校被设计为一种通过市场竞争打破公立教育垄断、提高教育质量的自上而下改革策略。然而，它也可以表现为底层家庭在教育机会空间分配不均时，自下而上主动发起的地理随迁与家庭重组行为。[[Argument_Teng_2025_CE\|Teng & Wang (2025, p. 302)]]
 > 
 > *In the policy discourses of most countries, school choice is designed as a top-down reform strategy to dismantle the state monopoly of public schooling and to improve educational quality... However, it can also manifest as an organic family practice.*
@@ -95,6 +95,7 @@ updated: 2026-09-22
 > - **社会资本** 在非正式机制下作为拦截学位的核心工具，家庭通过强弱关系网络和裙带转介干预学校招生结果。[[Argument_Teng_2025_CE\|Teng & Wang (2025, p. 309)]]
 > - **[[Cultural Capital\|文化资本]]** 指导家庭的教育品味并提供择校甄别力，但在注重人情和关系的县域[[Champ\|场域]]中面临局部折旧。[[Argument_Teng_2025_CE\|Teng & Wang (2025, p. 310)]]
 > - **校际与校内变异比率** 实证研究中衡量择校政策有效性的关键结构参数，即学校间方差（5–10%）与校内教师间方差（30%）的相对比值。[[Argument_Hattie_2005_ACER\|Hattie (2005, pp. 13–14)]]
+> - **政策推进方位与目标取向** 在宏观政策矩阵中，择校属于典型的“自上而下发起”且以“经济效率为导向”的改革组合（[[Argument_Arnove_2009_WorldSystems\|Arnove, 2009, p. 113]]），其根本目标是将市场竞争逻辑引入公共教育部门。
 
 > [!logic-map]- 要素关系
 > ```mermaid

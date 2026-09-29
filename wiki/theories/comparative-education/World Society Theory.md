@@ -10,7 +10,7 @@ aliases:
 summary: "斯坦福学派新制度主义社会学理论，将全球大众教育和国家体制的跨国趋同阐释为世界文化模型扩散与模仿的产物。主张去中心化的世界社会依赖无私代理人的他者性机制输出进步与正义规范，同时该理论面临政治现实主义与批判政治经济学关于掩盖中心边缘依附剥削、实质不平等及微观抵制能动性的深刻批评。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 38
+theory_related_count: 39
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Policy Borrowing]]"
 related_theories:
+  - "[[Stanford School]]"
   - "[[Cultural Models]]"
   - "[[Human Capital Theory]]"
   - "[[Phenomenology]]"
@@ -78,7 +79,7 @@ updated: 2026-09-29
 > - **解释对象** 全球范围内主权国家制度结构（如学校学制、宪法、公民身份）、组织特征与个体身份认同在非强制条件下的高度趋同（isomorphism / convergence）现象。
 > - **理论问题** 为什么在政治、经济与文化传统差异巨大的国家之间会形成惊人相似的大众教育体系，全球化如何在缺乏单一世界中央政府的情况下促成制度秩序的稳步扩散。
 > - **理论类型** 宏观社会学解释理论、新制度主义组织理论、全球文化[[Analytic Framework|分析框架]]。
-> - **知识位置** 斯坦福学派（Stanford School）新制度主义组织社会学，代表人物包括[[John W. Meyer|约翰·迈耶]]（John W. Meyer）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、约翰·博利（John Boli）等；在比较教育学中常与[[Immanuel Wallerstein|沃勒斯坦]]（Immanuel Wallerstein）开创的政治现实主义与冲突取向世界体系分析形成鲜明学术张力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
+> - **知识位置** [[Stanford School|斯坦福学派]]（Stanford School）新制度主义组织社会学，代表人物包括[[John W. Meyer|约翰·迈耶]]（John W. Meyer）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、约翰·博利（John Boli）等；在比较教育学中常与[[Immanuel Wallerstein|沃勒斯坦]]（Immanuel Wallerstein）开创的政治现实主义与冲突取向世界体系分析形成鲜明学术张力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
 
 > [!claim] 核心判断
 > 在世界层面存在一个由普世理性[[Cultural Models|文化模型]]、规范和认知框架构成的“世界社会”。它缺乏传统的主权中央政府与强制暴力制裁，本质上是通过“他者性（[[Otherhood]]）”机制——即国际组织、大学和科学家充当人权、进步和正义等普遍法则的无私代理人，在全球范围内输出并合法化文化模型，从而驱动主权国家为了确立自身的现代合法性而进行制度模仿、同质化采纳与解耦运作。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 149)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–103)]]
@@ -149,7 +150,7 @@ updated: 2026-09-29
 ---
 
 > [!theory-proposition] 命题四｜宏观政策文本的仪式性采纳伴随着微观执行的“解耦”，面临国家安全与主权危机时趋同具有高度可逆性
-> **解释** 斯坦福学派指出，组织为了应对互相冲突的内部效率与外部合法性要求，普遍采取“解耦（decoupling）”策略——正式结构向全球文化模型靠拢以获得赞誉，实际运作则遵循本土惯例。批判学者进一步发现，地方决策层往往只是工具性地在宏观政策文本中植入全球教育修辞（如“[[Lifelong Learning|终身学习]]”、“[[Critical Thinking|批判性思维]]”）；一旦遭遇深层主权冲突或政治危机，国家机器会瞬间抛弃全球修辞并全面恢复政治控制，揭示出制度同构的高度脆弱性与可逆性。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, pp. 491–492)]]
+> **解释** [[Stanford School|斯坦福学派]]指出，组织为了应对互相冲突的内部效率与外部合法性要求，普遍采取“解耦（decoupling）”策略——正式结构向全球文化模型靠拢以获得赞誉，实际运作则遵循本土惯例。批判学者进一步发现，地方决策层往往只是工具性地在宏观政策文本中植入全球教育修辞（如“[[Lifelong Learning|终身学习]]”、“[[Critical Thinking|批判性思维]]”）；一旦遭遇深层主权冲突或政治危机，国家机器会瞬间抛弃全球修辞并全面恢复政治控制，揭示出制度同构的高度脆弱性与可逆性。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, pp. 491–492)]]
 >
 > **应用实例** 香港特区政府在 2000 年代课程改革中全面采纳国际通行的“批判性思维”与[[Inquiry-Based Learning|探究式学习]]，设立[[General Education|通识教育]]科（LS）；但在 2019 年社会风波后，基于主权安全维护，迅速废除该科目并重构成以国家安全和爱国认同为核心的[[Citizenship and Social Development|公民与社会发展科]]（CSD），生动展现了趋同修辞在主权政治介入下的断裂。
 
@@ -207,7 +208,7 @@ updated: 2026-09-29
 > > [!axis] 斯坦福共识[[Convergence Theory in Comparative Education|趋同论]] vs [[Immanuel Wallerstein|沃勒斯坦]]政治现实主义冲突论
 > > 争论世界体系的核心动力究竟是普世理性[[Cultural Models|文化模型]]的非强制扩散，还是欧美中心国家对边缘地区的资本积累剥削与霸权维系。
 > >
-> > - **[[John W. Meyer|约翰·迈耶]]与斯坦福学派（1997）** 假定国际体系由形式平等的民族国家组成，现代教育扩张受普及公民权与发展潜能的普世理性文化驱动，入学率和课程门类在世界范围呈现高度趋同。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–103)]]
+> > - **[[John W. Meyer|约翰·迈耶]]与[[Stanford School|斯坦福学派]]（1997）** 假定国际体系由形式平等的民族国家组成，现代教育扩张受普及公民权与发展潜能的普世理性文化驱动，入学率和课程门类在世界范围呈现高度趋同。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–103)]]
 > > - **[[Robert Arnove|阿诺夫]]与沃勒斯坦学派（1980, 2009）** 批判新制度主义用抽象形式趋同掩盖了真实的不平等交换与阶级剥削；指出国际援助机构（[[World Bank|世界银行]]、IMF）推广教育革新实质上是巩固既有的中心-边缘分层体系，长期与中心贸易的边缘地区并未因接触而现代化。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
 >
 > > [!axis] 普世大爆炸假说 vs 历史唯物主义资本积累

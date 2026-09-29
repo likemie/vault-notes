@@ -8,7 +8,7 @@ aliases:
 summary: "阿诺夫与托雷斯开创的批判比较教育学核心理论框架，强调全球经济、政治与文化力量并非单向决定本土教育，而是与民族国家和基层社区的能动力量发生持续的相互渗透、中介过滤与冲突重塑。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 46
+theory_related_count: 47
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -50,6 +50,7 @@ related_theories:
   - "[[Globalization from Below]]"
   - "[[Cultural Models]]"
   - "[[Rational Action Theory]]"
+  - "[[Stanford School]]"
   - "[[Conditioned State Theory]]"
 related_methods:
   - "[[Ethnography]]"
@@ -216,7 +217,7 @@ updated: 2026-09-29
 > > [!axis] 世界文化普世同构叙事 vs 批判政治经济学依附冲突叙事
 > > 争论全球教育体系的演进究竟是由普遍理性的[[Cultural Models|文化模型]]驱动，还是由不平等的资本积累与霸权[[Disciplina and Doctrina|规训]]所主导。
 > >
-> > - **斯坦福学派 (Meyer et al., 1997)** 强调源自[[Enlightenment|启蒙运动]]的世界文化模型促成了战后大众教育体系的形式高度同构。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
+> > - **[[Stanford School|斯坦福学派]] (Meyer et al., 1997)** 强调源自[[Enlightenment|启蒙运动]]的世界文化模型促成了战后大众教育体系的形式高度同构。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
 > > - **批判政治经济学流派 (Wallerstein, 1974; Arnove, 1980)** 指出形式同构掩盖了实质剥削与阶层再生产，辩证法正是揭示这种同构表象下激烈阶级斗争的工具。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
 
 > [!critique]- 批评索引

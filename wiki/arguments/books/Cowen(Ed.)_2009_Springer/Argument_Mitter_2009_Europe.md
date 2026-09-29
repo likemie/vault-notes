@@ -56,6 +56,7 @@ related_theories:
   - "[[World-Systems Theory]]"
   - "[[Postmodernism]]"
   - "[[Convergence Theory in Comparative Education]]"
+  - "[[Stanford School]]"
   - "[[Autopoiesis]]"
   - "[[Human Capital Theory]]"
 related_methods:
@@ -126,7 +127,7 @@ title: "Argument_Mitter_2009_Europe"
 argument_key: "Argument_Mitter_2009_Europe"
 argument_display_title: "Comparative Education in Europe"
 argument_kind: "book-chapter"
-argument_related_count: 91
+argument_related_count: 92
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -276,7 +277,7 @@ flowchart LR
 > [!dev-timeline]- 欧洲比较教育百年理论范式更迭阶段
 > - **1920s–1950s — 宏大历史文化全景与[[Geisteswissenschaften|精神科学]]传统** 这一时期由英格兰的[[Nicholas Hans|尼古拉斯·汉斯]]与德国的[[Friedrich Schneider|弗里德里希·施奈德]]（深受天主教思想影响）所构建的宏大历史文化全景所主导，意大利的达尔卡伊斯与西班牙的图斯克茨亦在战后推进类似探索。学者深入考察塑造民族教育体系的历史背景与精神驱动力（driving forces），汉斯所主张的“将每个国家体系置于其历史背景中、研究其与[[National Character|国民性格]]和文化发展的紧密联系”成为这一时期的灵魂注脚。（pp.93–94）
 > - **1960s–1980s — [[Positivist Dispute in German Sociology|德国社会学实证主义争论]]与跨国范式分化** 德国社会学界在[[Karl Popper|卡尔·波普尔]]（Karl Popper）的批判理性主义与[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas）的法兰克福学派[[Critical Theory|批判理论]]之间爆发了著名的[[Positivist Dispute in German Sociology|德国社会学实证主义争论]]（德文：Positivismusstreit）。这场论战迅速席卷欧洲，重塑了比较教育的[[Research Problem|研究议题]]与方法论基础，新马克思主义观点亦进一步拓展了理论视野。在此背景下，伦敦大学教育研究院（IOE）经历了从汉斯、劳威斯的文化主义向布莱恩·霍姆斯（Brian Holmes）实证主义[[Critical Dualism|批判二元论]]的转向；波鸿鲁尔大学则经历了从安维勒的苏联东欧研究向阿迪克的全球化与[[World-Systems Theory|世界体系理论]]转向。（pp.92–93）
-> - **1990s 至今 — 现代主义与[[Postmodernism|后现代主义]]对峙下的多元分化** 呈现为[[Convergence Theory in Comparative Education|趋同理论]]与趋异理论之间的激烈竞争，集中体现为现代主义与后现代主义的抗衡，以及以斯坦福学派为代表的世界体系普遍主义与文化多元主义之间的内在张力。性别研究、教育规划、[[Lifelong Learning|终身学习]]、职业教育以及[[Intercultural Education|跨文化教育]]等新兴领域蓬勃兴起。（p.94）
+> - **1990s 至今 — 现代主义与[[Postmodernism|后现代主义]]对峙下的多元分化** 呈现为[[Convergence Theory in Comparative Education|趋同理论]]与趋异理论之间的激烈竞争，集中体现为现代主义与后现代主义的抗衡，以及以[[Stanford School|斯坦福学派]]为代表的世界体系普遍主义与文化多元主义之间的内在张力。性别研究、教育规划、[[Lifelong Learning|终身学习]]、职业教育以及[[Intercultural Education|跨文化教育]]等新兴领域蓬勃兴起。（p.94）
 
 理论范式的演进并非均质铺展，而是在各大学学派的微观探索中呈现出断裂与重构：（pp.92–93）
 
