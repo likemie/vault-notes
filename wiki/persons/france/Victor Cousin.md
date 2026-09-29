@@ -8,10 +8,10 @@ summary: "法国哲学家、七月王朝教育决策者与折衷主义自由派�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 31
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 32
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1792"
 died: "1867"
 lifespan: "1792–1867"
