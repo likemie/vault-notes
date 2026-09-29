@@ -7,10 +7,10 @@ summary: "德国天主教教育学家，德语区比较教育学奠基人，曾�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 22
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1881"
 died: "1974"
 lifespan: "1881–1974"
@@ -95,7 +95,7 @@ updated: 2026-09-29
 >   - **代表著作** 创办《[[International Education|国际教育]]学评论》（*Internationale Zeitschrift für Erziehungswissenschaft*, 1931）。在创刊号中，施奈德系统勾勒了比较教育学的历史、体系、方法、宗旨与贡献，并致力于为这门学科确立统一规范的术语基底。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122–123)]]
 >   - **关键概念／方法** 国际学术交流、[[Geisteswissenschaften|精神科学]]教育学、跨国期刊建制。
 >   - **阶段转向** 突破孤立的国别视野，尝试通过跨国多语种学术平台探寻欧洲教育体系的共同根基，但研究因纳粹迫害而被迫中断。
-> - **1940年代–1950年代 — [[Theories of the Driving Forces|驱动力理论]]建构与海外[[Influences Across Cultures|跨文化影响考证]]** 战后依托萨尔茨堡与慕尼黑大学，系统提炼决定教育体系深层形态的动因结构，并在流亡期间专注考证德国教育在国外的辐射。
+> - **1940年代–1950年代 — [[Theories of the Driving Forces|驱动力理论]]建构与海外[[Influences Across Cultures|跨文化影响]]考证** 战后依托萨尔茨堡与慕尼黑大学，系统提炼决定教育体系深层形态的动因结构，并在流亡期间专注考证德国教育在国外的辐射。
 >   - **代表著作** 《德国教育学在国外的地位与影响》（*Geltung und Einflüsse der deutschen Pädagogik im Ausland*, 1943）[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 126)]]；《各民族教育学的驱动力》（*Triebkräfte der Pädagogik der Völker*, 1947）；《教育科学导论》（*Einführung in die Erziehungswissenschaft*, 1953）。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 93)]]
 >   - **关键概念／方法** 驱动力理论（Triebkräfte）、[[Influences Across Cultures|跨文化影响]]、[[National Character|国民性格]]、欧洲统一性（European Unity）、天主教人文主义。
 >   - **阶段转向** 从描述性外在制度比照，深化为探究塑造各民族教育体系深层精神力量的发生学解释，并将视角拓殖至本国教育观念在海外的跨文化流动与反向影响。

@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 36
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -60,7 +60,6 @@ related_persons:
   - "[[Bob Leach]]"
   - "[[John Goormaghtigh]]"
   - "[[Alec Peterson]]"
-  - "[[Deborah Stone]]"
   - "[[Gerard Renaud]]"
 related_facts:
   - "[[International Schools Examination Syndicate]]"
@@ -76,7 +75,7 @@ sources:
 part_of: "[[Argument_Peterson_1987_OpenCourt]]"
 status: draft
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-09-29
 ---
 # Argument_Peterson_1987_OpenCourt_Ch02
 
@@ -287,7 +286,7 @@ updated: 2026-08-17
 > [!case] 300,000 美元福特基金资助建立在组织承诺而非课程完成之上
 > - **扩大资助谈判一度停滞** Desmond Cole-Baker and Ecolint 小组自 1964 年已经接触福特基金，1966 年的进一步谈判却进展缓慢。基金会面对的仍是一项尚未证明可行的国际考试。
 > - **牛津与美国考试机构降低执行风险** 牛津大学允许 Alec Peterson 投入时间，美国大学入学考试委员会则通过 Harlan Hanson 提供考试和大学网络。两个机构的明确投入使项目不再只依赖日内瓦志愿小组。
-> - **一小时会谈完成资金承诺** Alec Peterson and Harlan Hanson 在纽约同谢普·[[Deborah Stone|斯通]]（Shep Stone）会谈约一小时，取得福特基金 300,000 美元。原书同时指出，此前已经进行大量准备讨论，现场会谈完成的是最后确认。
+> - **一小时会谈完成资金承诺** Alec Peterson and Harlan Hanson 在纽约同谢普·斯通（Shep Stone）会谈约一小时，取得福特基金 300,000 美元。原书同时指出，此前已经进行大量准备讨论，现场会谈完成的是最后确认。
 > - **基金会资助的是一项高风险[[Action Research\|行动研究]]** 当时没有人能够保证国际毕业会考可行。经费提供了检验课程、考试、学校和承认机制的机会，没有消除失败风险（pp. 23–24）。
 
 > [!challenges] 五项相互依赖的可行性条件

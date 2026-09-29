@@ -3,7 +3,6 @@ title: Deborah Stone
 aliases:
   - 德博拉·斯通
   - 黛博拉·斯通
-  - 斯通
 summary: "美国著名政策学者，布兰代斯大学公共政策荣休教授，政策悖论与解释主义政策分析学派代表人物；其代表作《政策悖论：政治决策的艺术》系统批判了以纯粹经济学和技术理性为核心的工程主义政策模型，确立了政策问题界定的战略性表征、因果故事叙事与量化指标符号化动员的建构主义分析范式。"
 type: person
 nationality: us
@@ -14,7 +13,7 @@ person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
 born: "1948"
 died: ""
-lifespan: "1948–至今"
+lifespan: 1948–至今
 tags:
   - person/us
   - political-science
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-09-29
 ---
 
 # Deborah Stone

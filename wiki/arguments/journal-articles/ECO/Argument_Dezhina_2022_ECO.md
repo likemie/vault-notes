@@ -44,7 +44,7 @@ sources:
 part_of:
 status: draft
 created: '2026-06-26'
-updated: 2026-07-13
+updated: 2026-09-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Dezhina_2022_ECO"
@@ -197,7 +197,7 @@ issuing_organization: ""
 >   - 边界认定扩大：将“外国代理人”的个人与组织认定范围扩大至接受任何形式境外支持或指导的主体。
 >   - 惩罚力度收紧：大幅提高了相应的刑事惩罚与行政罚款额度。
 >
-> - **2021年4月 — “启蒙活动”审查法案出台** 签署[[Federal Law No. 85-FZ on Enlightenment Activities\|第85-FZ号教育法修正案]]，将非正规教育、科普宣传和跨国学术交流等全部纳入“启蒙活动”范畴进行强监管。（p.46）
+> - **2021年4月 — “启蒙活动”审查法案出台** 签署第85-FZ号教育法修正案，将非正规教育、科普宣传和跨国学术交流等全部纳入“启蒙活动”范畴进行强监管。（p.46）
 >
 >   - 前置审批制度：规定高校或科研机构与国外学术机构或个人签署任何协议，必须经教育部或科学和高等教育部的前置审批，极大地拉高了日常国际学术合作的官僚合规壁垒。
 
