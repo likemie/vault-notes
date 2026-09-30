@@ -8,7 +8,7 @@ aliases:
 summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动、适合目的与方法自由）。"
 type: concept
 domain: "educational-philosophy"
-related_count: 31
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -49,16 +49,19 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[John Dewey]]"
+  - "[[Brian Holmes]]"
+  - "[[George Bereday]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Zhou_2024_CE]]"
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
+  - "[[Argument_Rust_2009_Reflections]]"
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-09-27
+updated: 2026-09-30
 ---
 
 # Pragmatic Paradigm
@@ -77,8 +80,8 @@ updated: 2026-09-27
 > - **第二部分：方法论层次（Creswell/Morgan 等）** 再延伸解答研究设计与技术选择自由，打破库恩[[Incommensurability\|范式不可通约性]]（incommensurability）迷信，为整合量化与质性数据提供合法性。
 > - **边界** 实用主义不是无原则的“怎么都行”（anything goes）；它在哲学层面受限于历史社会情境，在方法论层面要求严格服务于回答研究问题。
 
-> [!citation-card]- 关键表述：实用主义作为实践驱动的研究立场
-> 实用主义本质上是实践驱动的而非理想化的。它不执着于任何单一哲学或现实体系，而是以研究问题为中心，使用所有可用的方法来理解问题。（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, Ch.1]]）
+> [!citation-card] 实用主义以实践问题驱动超越形而上学体系
+> 实用主义本质上是实践驱动的而非理想化的。它不执着于任何单一哲学或现实体系，而是以研究问题为中心，使用所有可用的方法来理解问题。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 >
 > *Pragmatism is essentially practice-driven rather than idealized. It does not commit to any one system of philosophy and reality, but focuses on the research question and uses all available approaches to understand the problem.*
 
@@ -193,6 +196,19 @@ updated: 2026-09-27
 
 ---
 
+### 命题四（比较教育学方法论层）　实用主义问题求解传统催生比较教育的假设-演绎问题法与实用互动范式
+
+> [!concept-lens] 比较教育学方法论争鸣与多元范式演进
+> 探讨实用主义从杜威反思思维向比较教育学“假设-演绎问题法”及微观批判范式的演化逻辑。
+
+> [!claim] [[Brian Holmes|Holmes (1965)]] & [[Argument_Rust_2009_Reflections|Rust et al. (2009)]]
+> **杜威反思思维与假设-演绎问题法** [[Brian Holmes|布莱恩·霍姆斯]]依据[[John Dewey|杜威]]（Dewey, 1910, *How We Think*）的问题求解传统与卡尔·波普尔（Karl Popper）的批判理性主义，在比较教育学中倡导“问题法（Problem Approach）”与“假设-演绎法（Hypothetico-deductive Approach）”，向[[George Bereday|乔治·贝雷迪]]（George Bereday）的纯经验描述与归纳法传统发起有力挑战，强调在具体社会背景中检验改革假设并预测行动后果。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 128–129)]]
+
+> [!claim] [[Argument_Rust_2009_Reflections|Rust et al. (2009)]]
+> **实用互动论突破结构功能主义垄断** 约翰斯通与阿拉夫指出，“实用互动论（pragmatic interactionism）”作为 1970 年代打破单一结构功能主义霸权的 26 种核心批判范式之一，继承了实用主义情境行动与互动哲学，强调在微观学校情境中探究主体的能动协商。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 136)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -201,6 +217,7 @@ updated: 2026-09-27
 > | **行动后果与真理工具论** | 层次一：哲学层面 | 将真理定义为情境行动中经受检验的有效后果 | 认识论与探究哲学 | Dewey (1916); Cherryholmes (1992) |
 > | **问题驱动与方法自由** | 层次二：方法论层次 | 强调方法服务于研究问题，主张适合目的与技术自由 | [[Mixed Methods Research\|混合方法研究]]设计 | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] |
 > | **跨国解耦与功能性拆解** | 层次三：实践与跨国层 | 探讨危机语境下哲学理想与方法手段的解耦 | 比较教育与跨国知识转移 | [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]]; [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] |
+> | **假设-演绎与实用互动论** | 层次四：比较教育学层 | 依托杜威问题法构建假设-演绎比较范式，突破功能主义垄断 | 比较教育方法论与范式争鸣 | [[Brian Holmes\|Holmes (1965)]]; [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] |
 
 ---
 
@@ -208,6 +225,7 @@ updated: 2026-09-27
 
 > [!dev-timeline] 概念演变
 > - **19世纪末–20世纪初 — 哲学起源（哲学层面）** Peirce, James, Mead 与 [[John Dewey\|杜威]] 建立实用主义哲学体系，重构经验、探究、民主与行动后果。
+> - **1960s–1970s — 比较教育方法论论争与实用互动论（比较教育学层）** [[Brian Holmes|布莱恩·霍姆斯]]（Holmes, 1965）借鉴[[John Dewey|杜威]]问题求解逻辑提出“假设-演绎问题法”，掀起与归纳法的范式论争；“实用互动论”被确认为 1970 年代打破结构功能主义实证霸权的 26 种核心批判范式之一。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 128–129, 136)]]
 > - **1990s–2000s — 方法论[[Paradigm\|范式]]奠基（方法论层次）** Cherryholmes (1992), Patton (1990), Tashakkori & Teddlie (2010), Johnson & Onwuegbuzie (2004), Denscombe (2008), Morgan (2007) 将实用主义确立为[[Mixed Methods Research\|混合方法研究]]的官方哲学基础。
 > - **2010s至今 — 教育研究应用与跨国解构** 深入[[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]]与[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]]教材体系，同时在比较教育中被用来分析实用主义哲学在非西方社会的跨国转移与结构性拆解（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024]]）。
 
@@ -235,8 +253,9 @@ updated: 2026-09-27
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 详述实用主义作为[[Mixed Methods Research\|混合方法研究]]取向的哲学前提与[[Fitness for Purpose\|适合目的]]原则。
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 阐释实用主义世界观（Pragmatic Worldview）在研究设计与方法选择中的具体应用。
-> - [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]] — 揭示实用主义[[Paradigm\|范式]]（民主目标与渐进方法）在民国中国跨国转移中的拆解与[[Recontextualization|本土重构]]。
-> - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 追踪实用主义范式在建国后中国教育政治话语中的三重变形。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 详述实用主义作为[[Mixed Methods Research|混合方法研究]]取向的哲学前提与[[Fitness for Purpose|适合目的]]原则。
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 阐释实用主义世界观（Pragmatic Worldview）在研究设计与方法选择中的具体应用。
+> - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 梳理比较教育学术史中的范式演化，阐述霍姆斯基于杜威实用主义建立的假设-演绎问题法，并确认实用互动论在挑战功能主义单一霸权中的范式地位。
+> - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 揭示实用主义[[Paradigm|范式]]（民主目标与渐进方法）在民国中国跨国转移中的拆解与[[Recontextualization|本土重构]]。
+> - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 追踪实用主义范式在建国后中国教育政治话语中的三重变形。

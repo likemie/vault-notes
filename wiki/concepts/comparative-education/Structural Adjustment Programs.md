@@ -9,7 +9,7 @@ aliases:
 summary: "世界银行与国际货币基金组织在华盛顿共识下向债务危机国推行的宏观紧缩与市场化贷款附加方案；在教育领域通过推行使用者付费、私有化与分权化削减公共开支，是导致全球南方国家教育主权沦丧与阶级分化的核心外生制度杠杆"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -61,10 +61,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
+  - "[[Argument_Rust_2009_Reflections]]"
 confidence: high
-status: draft
+status: active
 created: 2026-09-28
-updated: 2026-09-29
+updated: 2026-09-30
 ---
 
 # Structural Adjustment Programs
@@ -215,6 +216,7 @@ updated: 2026-09-29
 > | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 80)]] | [[World Bank\|世界银行]]与 IMF 推行的结构调整紧缩政策 | 发展中国家教育公共投资水平 | 全球南方受援国 | 国家公共教育预算普遍大幅削减 | — | — | 历史制度比较；揭示跨国贷款条件导致国家公共财政全面退潮 |
 > | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 79)]] | 结构调整方案在拉美推行使用者付费与私有化 | 教育机会公平性与阶级分流 | 拉美全区域 | 贫困家庭教育负担激增，优质私校锁定特权 | — | — | 政策后果评估；证实市场化改革加剧阶层教育鸿沟 |
 > | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 82)]] | 1970–1980 年代债务危机与经济调整期 | 拉美中高等教育扩张增长指数 | 拉美全区域 | 从前期超高速骤降至 167.6% | — | — | 区域宏观统计；显示财政断裂终结了无节制规模扩张 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009, pp. 134–135)]] | 结构调整市场化方案 vs 古巴社会主义公共动员 | [[Education for All\|全民教育]]（EFA）核心指标达标率 | 拉丁美洲与加勒比国家（2000 年达喀尔评估） | 绝大多数受援国指标停滞落后；古巴成为全区唯一达成全部 EFA 指标的国家 | — | — | 宏观政策模式对照；证实结构调整紧缩破坏全民教育，而国家自主公共投入能突破发展瓶颈 |
 
 ---
 
@@ -241,3 +243,4 @@ updated: 2026-09-29
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 从[[Conditioned State Theory|受限国家理论]]与阶级策略视角，系统阐述[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 的结构调整方案如何通过贷款附加条件剥夺拉美国家的教育公共主权并加剧阶级分化。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 104–106, 110–112)]] — 运用世界体系分析透视结构调整方案的技术官僚成本效益话语，揭示公共开支削减如何导致基础教育向非政府组织外包并异化为“[[Shadow State|影子国家]]”，进而固化外围国家的依附地位。
+> - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 实证对照结构调整市场化改革对受援国全民教育（EFA）进程的阻碍与古巴自主公共教育动员的成功，揭示外部强制紧缩与市场化对全球南方教育发展造成的结构性破坏。

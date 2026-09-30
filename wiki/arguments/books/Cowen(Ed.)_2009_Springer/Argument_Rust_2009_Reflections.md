@@ -119,9 +119,9 @@ related_facts:
   - "[[World Council of Comparative Education Societies]]"
   - "[[UNESCO]]"
 confidence: high
-status: draft
+status: active
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-09-30
 ---
 # Argument_Rust_2009_Reflections
 
@@ -328,13 +328,13 @@ updated: 2026-09-29
 > [!tension] Holmes vs. Bereday：归纳与演绎的认识论分裂
 > - **霍姆斯的批评** 先描述再归纳的程序意味着研究者以无检验的直觉预设来搜集数据，搜集的材料只能在研究者自身的参照框架内自我验证，无法推导出超越特定情境的普遍有效法则；必须先有明确的问题与假说，才能赋予比较数据以科学意义。（p.128）
 > - **归纳派的回应** 霍姆斯的演绎法过于依赖先验假说，容易脱离各国鲜活的制度历史与文化脉络，落入主观剪裁材料的危险；深度描述与解释是跨国比较不可绕过的认识论前提。
-> - **拉斯特的评注** 这场争论在当代以"扎根理论"（Grounded Theory）的方法论路线之争形式延续，并未因任何一方的"胜出"而终结。（p.128）
+> - **拉斯特的评注** 这场争论在当代以"扎根理论"（Grounded Theory）的方法论路线之争形式延续，并未因任何一方的"胜出"而终结。
 
 除归纳与演绎之争外，学科内部还交织着多重横向方法论议题与认识论抉择：
 
 > [!dimension] 比较教育学内部的多重方法论张力与价值抉择
 > - **方法取向：量化控制 vs. 质性理解（Quantitative vs. Qualitative）**
->   斯泰克（[[Robert E. Stake|Robert Stake]]）指出[[Quantitative Research|量化研究]]重在解释与控制[[Variable|变量]]以寻求通则，[[Qualitative Research|质性研究]]重在理解复杂个案的内在脉络与情境意义。（p.128）
+>   斯泰克（[[Robert E. Stake|Robert Stake]]）指出[[Quantitative Research|量化研究]]重在解释与控制[[Variable|变量]]以寻求通则，[[Qualitative Research|质性研究]]重在理解复杂个案的内在脉络与情境意义。
 > - **功能定位：经验描述 vs. 规范处方（Descriptive vs. Prescriptive）**
 >   描述性研究恪守对各国体制的客观记录与系统并置，规范处方性研究则试图直接为教育改革开具政策药方。（p.128）
 > - **价值立场：[[Educational Meliorism|改良主义]]、[[Value Neutrality|价值中立]] vs. [[Ideology Critique|意识形态批判]]（Meliorism vs. Ideology Critique）**
