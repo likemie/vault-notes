@@ -2938,8 +2938,7 @@
       "建构主义世界观",
       "社会建构主义",
       "social constructivism",
-      "constructivist worldview",
-      "interpretivism"
+      "constructivist worldview"
     ]
   },
   {
@@ -3405,6 +3404,16 @@
       "自然主义探究",
       "qualitative paradigm",
       "interpretive approach"
+    ]
+  },
+  {
+    "title": "Interpretivism",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Interpretivism.md",
+    "aliases": [
+      "解释主义",
+      "诠释主义",
+      "interpretivist"
     ]
   },
   {

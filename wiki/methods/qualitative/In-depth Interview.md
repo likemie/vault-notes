@@ -7,7 +7,7 @@ summary: "质性访谈中最核心的变体，通过与受访者进行持续深�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 59
+method_related_count: 64
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -26,6 +26,9 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Open-Mindedness]]"
   - "[[Emergence]]"
+  - "[[Interviewer Effects]]"
+  - "[[Saturation]]"
+  - "[[Informed Consent]]"
   - "[[Central Question]]"
   - "[[Growth]]"
   - "[[Research Topic]]"
@@ -58,11 +61,13 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Narrative Analysis]]"
-  - "[[Progressive Focussing]]"
+  - "[[Purposeful Sampling]]"
+  - "[[Theoretical Sampling]]"
+  - "[[Snowball Sampling]]"
   - "[[Member Checking]]"
+  - "[[Progressive Focussing]]"
   - "[[Questionnaire]]"
   - "[[Participant Observation]]"
-  - "[[Correlational Research]]"
   - "[[Focus Group]]"
   - "[[Qualitative Codebook]]"
 related_persons: []
@@ -74,13 +79,13 @@ related_facts:
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
+  - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Cai_Gao_Liu_2025_HE]]"
   - "[[Argument_Yu_2024_CE]]"
   - "[[Argument_Teng_2025_CE]]"
   - "[[Argument_Wang_2025_CE]]"
   - "[[Argument_Rickinson_2022_UsingResearchWell]]"
-  - "[[Argument_Rust_2009_Reflections]]"
 confidence: medium
 status: draft
 created: 2026-07-22
@@ -138,6 +143,23 @@ updated: 2026-09-30
 
 ## 研究程序
 
+### 质性方法模块
+
+> [!sample-panel] 材料与进入现场
+> | 维度 | 信息 |
+> |---|---|
+> | 材料来源 | 访谈录音、逐字转录稿、访谈反思备忘录、现场环境观察笔记与背景档案。 |
+> | 抽样或选案 | [[Purposeful Sampling\|目的抽样]]、[[Theoretical Sampling\|理论抽样]]、[[Snowball Sampling\|滚雪球抽样]]、最大变异抽样（注重个案典型性与生活史深度）。 |
+> | 研究者位置 | “同感的理解者”角色；运用[[Epoché\|悬置]]搁置先验偏见；谨慎处理访谈互动中的权力不对称与[[Interviewer Effects\|访谈者效应]]。 |
+> | 资料边界 | 访谈场次与时长、受访者准入标准、以意义穷尽与[[Saturation\|理论饱和]]为终止准则。 |
+
+> [!proc] 深度访谈探究程序与操作规程
+> 1. **前置准备与协议设计** 编制弹性半结构化[[Interview Protocol\|访谈提纲]]，遵循渐进式聚焦原则规划从宽阔背景到核心问题的展开路径。
+> 2. **进入现场与悬置互动** 确立[[Informed Consent\|知情同意]]，营构安全、非评判的倾听场域；研究者运用[[Epoché\|悬置]]搁置理论前见，以共情姿态进入受访者的主观世界。
+> 3. **深度追问与动态聚焦** 避免封闭式预设问题，通过“为什么”、“如何发生”、“可否举例”持续深挖行动逻辑，直至能够设身处地理解受访者的选择策略。
+> 4. **资料转录与系统编码** 及时完成全文本[[Transcription in Qualitative Research\|转录]]并记录语气停顿与副语言线索；开展多层级[[Coding in Qualitative Research\|编码]]与核心主题提炼。
+> 5. **反思审计与效度校验** 撰写[[Reflexivity\|反身性]]日志区分受访者主位建构与研究者投射；实施成员检查（[[Member Checking\|成员检查]]）与多源[[Triangulation\|三角互证]]。
+
 ### 渐进式聚焦法
 
 > [!example] 渐进式聚焦法（[[Progressive Focussing\|progressive focusing]]）
@@ -153,14 +175,14 @@ updated: 2026-09-30
 
 ### 生活史的重要性
 
-> [!example]
+> [!example] 生活史叙事与同感理解
 > 理解受访者的叙述，不能脱离其个人生活史。相同的选择（如放弃考研）在不同生活轨迹中可能意味着完全不同的事物——对一些人来说是退缩，对另一些人来说是解放。研究者需要站在受访者的立场上理解其观念与策略（杨善华 & 孙飞宇, 2005），达成同感的解释（Arksey & Knight, 1999）。
 
 ---
 
 ## 效度保障
 
-> [!note]- 效度保障策略
+> [!note] 效度保障策略
 > 深度访谈的效度不依赖[[Sample Size Determination\|样本量]]，而依赖资料收集和分析过程中的严谨性：
 >
 > - **人员校验法（[[Member Checking\|member check]]）** 受访者陈述重要观点后，研究者用自身语言复述一遍与受访者确认，确保对意义的准确理解

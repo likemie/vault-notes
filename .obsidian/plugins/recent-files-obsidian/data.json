@@ -5,6 +5,22 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rust_2009_Reflections.md"
     },
     {
+      "basename": "Calvin Stowe",
+      "path": "wiki/persons/us/Calvin Stowe.md"
+    },
+    {
+      "basename": "Horace Mann",
+      "path": "wiki/persons/us/Horace Mann.md"
+    },
+    {
+      "basename": "template-argument-edited-volume",
+      "path": "wiki/templates/template-argument-edited-volume.md"
+    },
+    {
+      "basename": "Argument_Peterson_1987_OpenCourt_Ch06",
+      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md"
+    },
+    {
       "basename": "Theoretical Perspective",
       "path": "wiki/concepts/research-methodology/Theoretical Perspective.md"
     },
@@ -113,10 +129,6 @@
       "path": "wiki/facts/us/Seventh Annual Report of the Massachusetts Board of Education.md"
     },
     {
-      "basename": "Calvin Stowe",
-      "path": "wiki/persons/us/Calvin Stowe.md"
-    },
-    {
       "basename": "Victor Cousin",
       "path": "wiki/persons/france/Victor Cousin.md"
     },
@@ -127,10 +139,6 @@
     {
       "basename": "Max Eckstein",
       "path": "wiki/persons/us/Max Eckstein.md"
-    },
-    {
-      "basename": "template-argument-edited-volume",
-      "path": "wiki/templates/template-argument-edited-volume.md"
     },
     {
       "basename": "Harold Noah",
@@ -157,10 +165,6 @@
       "path": "wiki/arguments/journal-articles/Beiträge zur Schulentwicklung/Argument_Manitius_vanHolt_2019_BzS.md"
     },
     {
-      "basename": "Argument_Peterson_1987_OpenCourt_Ch06",
-      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md"
-    },
-    {
       "basename": "Bildung",
       "path": "wiki/concepts/educational-philosophy/Bildung.md"
     },
@@ -171,10 +175,6 @@
     {
       "basename": "Isaac Kandel",
       "path": "wiki/persons/us/Isaac Kandel.md"
-    },
-    {
-      "basename": "Horace Mann",
-      "path": "wiki/persons/us/Horace Mann.md"
     },
     {
       "basename": "Val D. Rust",

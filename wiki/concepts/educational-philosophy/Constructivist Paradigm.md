@@ -7,7 +7,6 @@ aliases:
   - 社会建构主义
   - social constructivism
   - constructivist worldview
-  - interpretivism
 summary: "跨越研究哲学、学习理论与社会理论的概念家族，强调意义、知识和规范在主体活动及社会历史互动中形成，并用于质性研究、课程设计与观念权力分析"
 type: concept
 domain: "educational-philosophy"

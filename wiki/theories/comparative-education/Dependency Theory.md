@@ -84,12 +84,13 @@ related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
+  - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Yu_Xie_2025_JHE]]"
 related_instruments: []
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-09-29
+updated: 2026-09-30
 ---
 
 # Dependency Theory
@@ -126,6 +127,7 @@ updated: 2026-09-29
 > - **1990 — 社会主义社会过渡与[[Critical Pedagogy|解放教育学]]** 卡诺伊与[[Joel Samoff|萨莫夫]]（Carnoy & Samoff, 1990）探究第三世界国家在向社会主义过渡期，如何借助激进教育革命清除依附性阶级残余。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 427–428)]]
 > - **2000s — 新自由主义多标度规训与[[Shadow State|影子国家]]** 阿诺夫与萨顿（Sutton & Arnove, 2004）及卡马特（Kamat, 2004）揭示依附机制的新形态：跨国经贸规制（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）与[[Pluri-Scalar Governance|多标度治理]]穿透民族国家主权，国际援助方绕过政府直接资助非政府组织提供教育，使 NGO 异化为去政治化的[[Shadow State|影子国家]]并剥夺国家公共责任。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
 > - **2009 — [[Conditioned State Theory|受限国家理论]]与[[Financial-Intellectual Complex|金融-智识复合体]]** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）提出“受限国家”概念，系统剖析第三世界教育扩张畸变、[[Dual School System|双轨学制]]固化及世界银行[[Financial-Intellectual Complex|金融-智识复合体]]的去主权化规训。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–75, 81–85)]]
+> - **2009 — 全球化响应批判与强制再生产机制** 约翰斯通与阿拉夫（Johnstone & Allaf, 2009 / [[Argument_Rust_2009_Reflections|Rust et al., 2009]]）梳理比较教育学术史范式分化，确认依附论为 1970 年代打破结构功能主义垄断的 26 种核心批判范式之一，并在全球化响应框架中提出“强制再生产（Reproduction / Forced Imposition）”类型，揭示西方核心国家与跨国金融机构如何通过隐性课程与政策强制向外围从属国家输出外部方案以维系结构依附。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 134, 136)]]
 > - **2020s — 高教地缘政治与学术新殖民主义** 余婧然与谢爱磊（2025）等学者运用中心-边缘与学术资本透镜，批判全球大学排行榜与西方学术霸权对全球南方学术主权的侵害。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 4–5)]]
 
 ---
@@ -267,5 +269,6 @@ updated: 2026-09-29
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 将世界体系与依附论结合，透视跨国援助固化国际分层、[[Pluri-Scalar Governance|多标度治理]]穿透主权、[[Shadow State|影子国家]]异化及微观底层抗争的完整政治经济学图景。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 将依附理论比较教育置于[[Revolutionism|革命主义]]国际关系传统中，详述其在拒绝缺失解释、批判文化帝国主义与社会过渡教育方面的历史脉络。
+> - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 梳理比较教育学术史范式分化，将依附论定性为突破单一功能主义垄断的关键范式，并揭示跨国资本与外部机构通过强制再生产向从属边缘国家移植方案以固化结构依附的机制。
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 揭示[[Geopolitics of Higher Education|高等教育地缘政治]]发展阶段，分析冷战后学者运用中心-边缘与依附论框架探讨学术新殖民主义与全球高等教育不平等机制的作用。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 建立[[Conditioned State Theory|受限国家理论]][[Analytic Framework|分析框架]]，批判普世[[World Society Theory|世界文化理论]]，深刻揭示拉美教育倒金字塔式双轨扩张与[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的政策[[Disciplina and Doctrina|规训]]。

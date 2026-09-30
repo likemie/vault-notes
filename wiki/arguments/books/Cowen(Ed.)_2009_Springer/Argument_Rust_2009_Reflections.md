@@ -59,6 +59,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Knowledge Production]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Interpretivism]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Discipline-Based Theory]]"
   - "[[Commensuration]]"
@@ -90,7 +91,6 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Ethnography]]"
   - "[[Participant Observation]]"
-  - "[[Exploratory Factor Analysis]]"
 related_persons:
   - "[[Paulo Freire]]"
   - "[[Marc-Antoine Jullien]]"
@@ -104,6 +104,7 @@ related_persons:
   - "[[C. Arnold Anderson]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
+  - "[[Henry Barnard]]"
   - "[[Calvin Stowe]]"
   - "[[George Bereday]]"
   - "[[Brian Holmes]]"
@@ -114,10 +115,9 @@ related_facts:
   - "[[Comparative and International Education Society]]"
   - "[[Common School Movement]]"
   - "[[Report on the State of Public Instruction in Prussia]]"
+  - "[[National Education in Europe]]"
   - "[[World Council of Comparative Education Societies]]"
   - "[[UNESCO]]"
-  - "[[Seventh Annual Report of the Massachusetts Board of Education]]"
-  - "[[National Education in Europe]]"
 confidence: high
 status: draft
 created: 2026-09-29
@@ -384,12 +384,12 @@ updated: 2026-09-29
 
 > [!feature] 比较教育实证研究维度的双重拓展
 > - **收集手段多元化** 从数十年前单一依赖[[Primary and Secondary Documents|二手文献]]与历史论文写作，大幅扩充至[[In-depth Interview|深度访谈]]、[[Ethnography|民族志]]、[[Participant Observation|参与观察]]、问卷调查、田野研究、项目评估、文本[[Content Analysis|内容分析]]及大型跨国数据库调用。（Rust et al., 1999）
-> - **分析工具实证化** 从早期的历史叙事与解释主义传统，逐步融入更多社会科学量化工具，比较教育研究者与社会学、政治学、经济学等母学科建立了更为紧密的对话机制。（Henrickson et al., 2003）
+> - **分析工具实证化** 从早期的历史叙事与[[Interpretivism|解释主义]]传统，逐步融入更多社会科学量化工具，比较教育研究者与社会学、政治学、经济学等母学科建立了更为紧密的对话机制。（Henrickson et al., 2003）
 
 #### 3. 二十六种理论范式共存打破了冷战时期的单一实证教条，标志着学科研究心智的成熟
 
 > [!info] 结构功能主义正统的建立与瓦解
-> 1950–1960 年代，比较教育学曾被结构功能主义与现代化理论（以[[Human Capital Theory|人力资本理论]]与系统论为支柱）高度垄断，形成窒息探索的单一学术正统。自 1970 年代起，随着[[Critical Theory|批判理论]]与解释主义范式的崛起，这一正统开始瓦解，令学科走向全面的理论多元化。（pp.131–132）
+> 1950–1960 年代，比较教育学曾被结构功能主义与现代化理论（以[[Human Capital Theory|人力资本理论]]与系统论为支柱）高度垄断，形成窒息探索的单一学术正统。自 1970 年代起，随着[[Critical Theory|批判理论]]与[[Interpretivism|解释主义]]范式的崛起，这一正统开始瓦解，令学科走向全面的理论多元化。（pp.131–132）
 
 > [!stat-cards] 学科成熟期的实证计量快照（UCLA 调查成果）
 > - **26** 种并存理论范式，涵盖人力资本理论、结构功能主义、系统论、[[Dependency Theory|依附理论]]、马克思主义与新马克思主义、世界体系分析、民族志、建构主义、[[Phenomenology|现象学]]、[[Symbolic Interactionism|符号互动论]]、批判理论、文化复兴主义、女性主义、后结构主义、[[Postmodernism|后现代主义]]、[[Pragmatic Paradigm|实用主义]]与新殖民主义等，单一理论垄断宣告终结。（pp.132, 135）
