@@ -7,7 +7,7 @@ aliases:
 summary: "源自拉丁语更好之意且以改善社会与人类境况为根本导向的探究旨趣，是贯穿19世纪比较与国际教育发端的统治性认识论母题"
 type: concept
 domain: "comparative-education"
-related_count: 58
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -53,6 +53,7 @@ related_theories:
   - "[[Hegemony]]"
   - "[[Human Capital Theory]]"
 related_methods:
+  - "[[Ideology Critique]]"
   - "[[Correlational Research]]"
 related_instruments:
   - "[[VALUE Rubrics]]"
@@ -72,6 +73,7 @@ related_persons:
   - "[[Wolfgang Mitter]]"
   - "[[Niklas Luhmann]]"
   - "[[Brian Holmes]]"
+  - "[[Val D. Rust]]"
 related_facts:
   - "[[Prussian Draft Education Law of 1819]]"
   - "[[Guizot Law of 1833]]"
@@ -81,10 +83,11 @@ related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Mitter_2009_Europe]]"
+  - "[[Argument_Rust_2009_Reflections]]"
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-29
+updated: 2026-09-30
 ---
 
 # Educational Meliorism
@@ -338,6 +341,12 @@ updated: 2026-09-29
 > > 
 > > - **古典历史比较学派（Sadler, Kandel, Hans, Ulich）** 坚守唯心主义与人本主义，主张通过考掘教育背后的文化理想与[[Intangible Spiritual Forces\|无形精神力量]]，涵养哲学自省、捍卫民主自由并促进文明和平。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–60)]]
 > > - **战后实证科学学派（Noah & Eckstein, Holmes, Anderson）** 坚守功能主义与实证规划理性，主张清洗空洞的人文道德说教，以严密的大样本测量与情境假说检验为规划者提供立竿见影的政策效能工具。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 63–64, 67–68)]]
+> >
+> > > [!axis] 改良主义、[[Ideology Critique|意识形态批判]]与严格[[Value Neutrality|价值中立]]的三元方法论抉择
+> > > 争论焦点在于：比较教育研究应当以改良实践为根本目的，还是应当立足意识形态批判揭露结构性压迫，抑或恪守纯粹的价值中立？[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p.128)]]
+> > >
+> > > - **[[Andreas Kazamias|Kazamias]] (1961)** 系统厘清比较教育学研究取向的基本轴线，指出学科不可回避在“改良主义（melioristic）、意识形态批判（ideological）抑或严格价值中立（strictly neutral）”之间作出认识论决断。
+> > > - **[[Val D. Rust|Rust et al.]] (2009)** 进一步强调，这三种价值立场构成了学科科学化进程中持续交织的根本方法论张力，任何单一范式都无法垄断对比较探究合法性的定义。
 
 相关[[Document|文献]]记录了对改良主义异化风险的警示：
 
@@ -370,6 +379,7 @@ updated: 2026-09-29
 > | [[Wolfgang Mitter]] | 人物 | 在学科史中确立[[Navigation Metaphor in Comparative Education\|航海隐喻]]下“适度改良功能”（melioristic function）的政策咨询伦理，并阐明跨文化教育的一线教学改良诉求。 |
 > | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供改良主义本体定义、大西洋两岸双重机制分化与批判战[[Postpositivism\|后实证主义]]起源神话的系统证据。 |
 > | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 系统梳理政策咨询光谱中航海隐喻对适度改良功能的坚守，以及[[Intercultural Education\|跨文化教育]]一线实践改良进路。 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 梳理比较教育学方法论争鸣，将改良主义置于其与意识形态批判、严格价值中立的三元坐标系中定位。 |
 
 ---
 
@@ -380,3 +390,4 @@ updated: 2026-09-29
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] — 梳理[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]等历史学派学者的历史改良主义进路，探讨外国探究涵养本土哲学态度与民主自省的机制，同时反思改良诉求与历史客观性之间的张力及[[Whiggism\|辉格史观]]风险。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 揭示古典历史比较学派将改良主义与唯心主义、[[Intangible Spiritual Forces\|无形精神力量]]相绑定的思想前提，剖析战后实证[[Scientific Paradigm\|科学范式]]对历史道德说教的清算，以及自身向服务国家五年计划与技术官僚效能控制的技术改良主义（Technocratic Meliorism）的深层蜕变。
 > - [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，系统厘清了比较教育政策咨询立场光谱中坚守“适度改良功能”（melioristic function）的[[Navigation Metaphor in Comparative Education|航海隐喻]]定位，并剖析了世纪之交[[Intercultural Education|跨文化教育]]兴起所带来的一线教学与多元文化整合改良进路。
+> - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 梳理比较教育学科方法论争鸣，将卡扎米亚斯（Kazamias, 1961）提出的“改良主义、意识形态抑或严格价值中立”界定为贯穿学科发展的三大核心取向之一。

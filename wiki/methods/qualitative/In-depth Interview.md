@@ -84,7 +84,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-29
+updated: 2026-09-30
 ---
 
 # In-depth Interview
@@ -102,8 +102,8 @@ updated: 2026-09-29
 > - **[[Unit of Analysis\|分析单位]]** 个体受访者的完整叙述及其生活史脉络。
 > - **输出形式** [[Rich and Thick Description\|深描]]文本、意义主题、行动逻辑链条、理论假设。
 
-> [!citation-card]- 关键定义
-> 深度访谈的操作核心是悬置——研究者暂时搁置自身的知识体系和前见，进入受访者的日常语境理解其行动意义。（杨善华 & 孙飞宇, 2005; Arksey & Knight, 1999）
+> [!citation-card] 杨善华 & 孙飞宇论深度访谈中的悬置
+> 深度访谈的操作核心是[[Epoché\|悬置]]——研究者暂时搁置自身的知识体系和前见，进入受访者的日常语境理解其行动意义。（杨善华 & 孙飞宇, 2005; Arksey & Knight, 1999）
 >
 > *The core of in-depth interviewing is epoché — the researcher temporarily suspends their own knowledge system and preconceptions to enter the interviewee's everyday context and understand the meaning of their actions.*
 

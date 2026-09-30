@@ -15,7 +15,7 @@ aliases:
 summary: "一手文献是由事件目击者直接记录或原始实证研究生成的文献，二手文献是通过对一手文献的分析、改写或综合形成的阐述。在循证教育中，一手与二手文献在理解门槛、信息保真度与实践转化效能上呈现出显著的方法学差异。"
 type: concept
 domain: "research-methodology"
-related_count: 33
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -50,6 +50,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Umbrella Review]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Fieldwork]]"
   - "[[Action Research]]"
   - "[[Analysis of Variance]]"
   - "[[Experimental Research]]"
@@ -58,17 +59,19 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Stephen Gorard]]"
+  - "[[Val D. Rust]]"
 related_facts:
   - "[[Literacy Octopus]]"
   - "[[Research Learning Communities]]"
 related_arguments:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Gorard_2020_ROE]]"
+  - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Brown_2017_ER]]"
-confidence: medium
+confidence: high
 status: draft
 created: 2026-06-24
-updated: 2026-09-17
+updated: 2026-09-30
 ---
 
 # Primary and Secondary Documents
@@ -116,6 +119,10 @@ updated: 2026-09-17
 > - **一手原始实证文献** 强调客观记录对照组与实验组的基线特征、[[Sample Size Determination\|样本量]]、前[[Pre-test and Post-test\|后测]]原始分数分布、测量工具独立性与标准化[[Effect Size\|效应量]]。
 > - **二手综述与中介工具包** 采用[[Umbrella Review\|伞状综述]]或[[Meta-meta-analysis\|二阶元分析]]整合全球证据，研发派生指标（如[[Months of Progress\|月度进步指标]]）与挂锁评级以降低决策门槛。
 
+> [!feature] 比较教育学与跨国研究视阈下的文献形态
+> - **一手实证田野与原始调查材料** 比较教育学深入自然情境搜集的一手经验材料，包括深入微观课堂与社区的实地[[Fieldwork|田野调查]]、民族志访谈、结构化问卷调查、官方人口普查（Census）及大型国际测验数据库。
+> - **二手文献综述与诠释性论文（Secondary Literature & Interpretive Essays）** 学科早期广泛采用的探究形态；在此“文献综述”特指基于前人出版的二手文献展开论证并形成的历史-文化诠释性论文（interpretive essays）。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 130–131)]]
+
 ---
 
 ## 围绕文献形态与证据利用形成的学术命题
@@ -152,6 +159,16 @@ updated: 2026-09-17
 
 ---
 
+### 命题四　学科早期过度依赖二手文献构建诠释性论文，学术成熟期促成了多元一手实证调查的并起
+
+> [!concept-lens] 比较教育学数据策略从二手综述向多元一手调查的历史演进
+> 该命题探讨比较教育学科史中研究者如何从早期依赖二手文献构建思辨性诠释论文，逐步走向融合多元一手实证调查（田野、问卷、人口普查）的科学成熟期。
+
+> [!claim] [[Val D. Rust|Rust et al.]] (2009)
+> **二手文献综述的诠释局限与一手实证调查策略的繁荣** 拉斯特等人指出，数十年之前比较教育学的数据搜集策略极为局限，主要依赖历史数据与“文献综述”——在此特指“基于二手文献展开论证并因此可被视作诠释性论文（interpretive essays）的研究”。随着学科迈向成熟与社会科学化，研究者大幅引入了以一手资料为基础的常规社会科学方法，包括访谈、民族志、参与观察、问卷调查、项目评估、文本内容分析及人口普查大数据库分析，实现了从二手思辨向一手实证多元主义的根本转型。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 130–131)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 围绕文献形态的核心命题归纳
@@ -160,6 +177,7 @@ updated: 2026-09-17
 > | **一手文献研读困境** | 教师直接研读专业统计一手文献面临认知过载并诱发实施致命变异 | 校本教研与教师行动研究设计 | See et al.; Gorard et al. |
 > | **二手文本改写失效** | 单纯被动提供通俗改写摘要无法改变教学行为或提升学生成绩 | 证据中介传播与工具包开发 | Lord et al.; Gough et al. |
 > | **数据报告透明重构** | 一手文献应摒弃显著性检验迷信，直接呈现透明的组别均值与标准差 | [[Experimental Research\|实验研究]]报告与因果证据审查 | Gorard et al. |
+> | **学科史实证转型** | 早期过度依赖二手文献撰写诠释论文，成熟期推动一手田野与调查大繁荣 | 比较教育学科史与方法论演化分析 | [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] |
 
 ---
 
@@ -188,3 +206,4 @@ updated: 2026-09-17
 > - [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] — 系统检验证据利用中一手原始[[Document\|文献]]与二手改写文本的实证成效，揭示直接研读一手文献的致命变异与二手改写的被动失效，提出[[Engineered Evidence\|证据工程化]]出路。
 > - [[Argument_Brown_2017_ER\|Brown et al. (2017)]] — 探讨[[Research Learning Communities\|研究学习共同体]]（RLC）中大学研究者为教师提供二手[[Transfer Translation Transformation\|转译]]简报的运行机制与现实合理性。
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] — 系统阐述教育研究中一手与二手文献的界定、分类及[[Literature Review\|文献综述]]检索方法。
+> - [[Argument_Rust_2009_Reflections\|Rust et al. (2009, pp. 130–131)]] — 考证比较教育学科数据搜集策略的演化，剖析早期研究依托二手文献（secondary literature）撰写诠释性论文的局限，以及战后逐步融入一手田野调查、问卷与人口普查数据库的多元实证转型。

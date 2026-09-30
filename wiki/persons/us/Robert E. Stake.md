@@ -9,10 +9,10 @@ summary: "美国教育评估与质性研究方法论学者，伊利诺伊大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 born: "1927"
 died: ""
 lifespan: "1927–至今"
@@ -23,20 +23,13 @@ tags:
   - field/evaluation
 related_concepts:
   - "[[Naturalistic Generalization]]"
-  - "[[Document]]"
-  - "[[Sage]]"
-  - "[[Paradigm]]"
-  - "[[Variable]]"
-  - "[[Causality]]"
-  - "[[Unit of Analysis]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
-  - "[[Quantitative Research]]"
   - "[[Case Study]]"
+  - "[[Quantitative Research]]"
 related_instruments: []
-related_persons:
-  - "[[Robert Yin]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -82,7 +75,7 @@ updated: 2026-09-30
 
 > [!work-line] 主要著作
 > - **1975 — *Evaluating the Arts in Education: A Responsive Approach*** 提出回应性评估框架，将评估对象从目标达成度转向利益相关者的关切与经验，确立了诠释性教育评估的早期范本。
-> - **1995 — *The Art of Case Study Research*** 系统建构案例研究的"艺术性"方法论，提出[[Naturalistic Generalization|自然主义概括]]概念；Creswell & Creswell（2022）将 Stake 与 Yin 并列为[[Case Study|案例研究]]两大权威来源，并频繁在案例研究章节引用。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p.67)]]
+> - **1995 — *The Art of Case Study Research*** 系统建构案例研究的"艺术性"方法论，提出[[Naturalistic Generalization|自然主义概括]]概念；[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]]将 Stake 与殷（Robert K. Yin）并列为[[Case Study|案例研究]]两大权威来源，并频繁在案例研究章节引用。（p.67）
 > - **2006 — *Multiple Case Study Analysis*** 将案例研究方法论扩展至多案例比较分析框架，强调跨案例的情境差异性与分析层次。
 > - **2010 — *Qualitative Research: Studying How Things Work*** 提炼以"理解事物如何运作"为核心的质性研究哲学，进一步整合回应性评估、案例研究与整体性研究取向。
 
@@ -108,7 +101,7 @@ updated: 2026-09-30
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **方法论路径** 其[[Case Study|案例研究]]艺术性方法论与 Robert Yin（[[Robert Yin]]）的系统化案例研究路径共同构成质性社会科学中最主流的两种案例研究范式，广泛影响了教育学、政策研究、护理学、组织管理学的质性探究设计。
+> - **方法论路径** 其[[Case Study|案例研究]]艺术性方法论与罗伯特·殷（Robert K. Yin）的系统化案例研究路径共同构成质性社会科学中最主流的两种案例研究范式，广泛影响了教育学、政策研究、护理学、组织管理学的质性探究设计。
 > - **认识论路径** [[Naturalistic Generalization|自然主义概括]]概念重构了质性研究的"推广"逻辑，使案例研究从方法论上摆脱了量化推断的"代表性样本"要求，确立了诠释性案例深描的独立合法性。
 > - **比较教育学路径** Rust 等人（2009）在梳理比较教育学方法论议题时直接引用 Stake (1995) 的经典界定，将其作为量化/质性两种研究取向根本差异的权威表述，影响了比较教育学对方法论多元主义的理论反思。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p.128)]]
 > - **教育评估路径** 回应性评估框架影响了第四代评估（Fourth Generation Evaluation）运动，推动评估从专家技术判断转向多元利益相关者参与的协商过程。

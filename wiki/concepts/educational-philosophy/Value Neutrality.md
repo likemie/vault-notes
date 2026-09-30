@@ -10,7 +10,7 @@ aliases:
 summary: "主张科学研究应排除研究者主观价值偏见并保持程序中立的认识论规范；在启蒙发轫期曾被道德改良统摄，在韦伯与20世纪实证学派中被法典化为科学基石，而在批判理论与当代循证反思中被解构为服务于数字审计治理的权力意识形态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 73
+related_count: 75
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -62,6 +62,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
+  - "[[Ideology Critique]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -99,10 +100,11 @@ related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
   - "[[Argument_Rambla_2022_Springer]]"
   - "[[Argument_Serpell_2020_EP]]"
+  - "[[Argument_Rust_2009_Reflections]]"
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-09-29
+updated: 2026-09-30
 ---
 
 # Value Neutrality
@@ -265,6 +267,7 @@ updated: 2026-09-29
 > - **1810–1830 年代 — 启蒙现代性发轫期的伦理统摄（前价值中立期）** 比较教育奠基人[[Marc-Antoine Jullien\|朱利安]]构建跨国分析图表与[[Questionnaire\|问卷调查]]，明确拒绝价值无涉，将经验数据严格统帅于全人道德重生（[[Bildung]]）与欧洲和平改良的崇高目的。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]]
 > - **1904–1917 — 韦伯确立社会学价值自由（Wertfreiheit）规范** [[Max Weber\|马克斯·韦伯]]系统阐明价值中立原则，界定经验事实解释与政策价值推崇的边界，倡导学者保持学术清醒。
 > - **1958–1969 — 比较教育[[Positivism\|实证主义]]运动发动清理“价值负荷”的[[Epistemology\|认识论]]围剿** Templeton（1958）与诺亚、埃克斯坦（1969）以价值中立为标尺，批判传统历史哲学的“价值负荷”与“主观倾向”，推动学科向纯粹量化统计与客观假说检验转型。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 61, 65)]]
+> - **1961 — 卡扎米亚斯界定比较教育学的三重价值取向轴线** [[Andreas Kazamias|卡扎米亚斯]]（Kazamias, 1961）在方法论反思中提出核心抉择：比较教育研究应当是[[Educational Meliorism|改良主义]]的（melioristic）、[[Ideology Critique|意识形态批判]]的（ideological）还是严格价值中立的（strictly neutral）；拉斯特等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009, p.128]]）将其总结为学科科学化进程中持续交织的根本方法论张力。
 > - **1970–1980 年代 — [[Critical Theory\|批判理论]]与多[[Paradigm\|范式]]大解构** [[Critical Theory\|批判理论]]、女性主义与[[Post-colonial Theory\|后殖民理论]]彻底打破价值中立神话，揭示中立修辞掩盖西方男性霸权与阶级压迫的实质。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]]
 > - **1977–1991 — [[Policy Science in Comparative Education\|政策科学]]解构中立[[Technical Rationality\|技术理性]]神话** [[Carol Weiss\|卡罗尔·韦斯]]（Weiss, 1977, 1991）揭示政策制定天然关乎价值权衡，确立研究主要充当政治合法化“燃料而非引擎”的经典命题。
 > - **1981 — 霍姆斯批判实证[[Operationalization\|操作化]]的假中立与价值渗透** 霍姆斯（Holmes, 1981）指出操作化指标无法脱离文化价值系统而存在，实证派的中立口号实质上服务于战后中央理性规划与国际援助机构的技术官僚治理。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 64, 66)]]
@@ -321,6 +324,7 @@ updated: 2026-09-29
 > - [[Argument_Rambla_2022_Springer\|Rambla (2022)]] — 揭示 [[PISA]] 等国际大型测评所宣称的“客观中立比较”，实际上深度嵌入了全球资本主义竞争的政治经济学逻辑。
 > - [[Argument_Serpell_2020_EP\|Serpell (2020)]] — 基于美国国会山立法沉浸反思，揭示立法决策的价值主导本质，批判学术界固守“中立平衡”与免责声明导致证据被政治家弃置的“中立陷阱”，论证研究者必须将实证证据融入立法者的价值体系。
 > - [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]] — 结合拉美外围资本主义现实与[[Critical Pedagogy|批判教育学]]，揭示任何教育政策诊断均暗含特定的国家理论，解构技术官僚将[[Endogenous and Exogenous Privatisation|教育私有化]]与紧缩政策伪装为“价值中立科学方案”的意识形态实质。
+> - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 梳理比较教育学内部关于研究应当是改良主义、意识形态批判抑或严格价值中立（Kazamias, 1961）的方法论交锋，将其作为学科科学化进程中的核心价值抉择。
 
 ---
 
@@ -343,3 +347,4 @@ updated: 2026-09-29
 > | [[Carol Weiss]] | 人物 | 经典[[Policy Science in Comparative Education\|政策科学]]理论家，提出“政策制定关乎价值”、“研究主要充当政治合法化燃料而非引擎”等核心洞见。 |
 > | [[Carlos Alberto Torres]] | 人物 | 批判教育学者，深刻解构教育政策的技术中立修辞，揭示其背后隐匿的国家理论与资本积累矛盾。 |
 > | [[Liliana Esther Olmos]] | 人物 | 与托雷斯合作剖析新自由主义教育改革中伪价值中立话语的阶级策略本质。 |
+> | [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] | 论证 | 梳理比较教育学方法论争鸣中卡扎米亚斯关于改良主义、意识形态批判与严格价值中立的三重轴线。 |
