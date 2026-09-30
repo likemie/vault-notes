@@ -9,10 +9,10 @@ summary: "美国教育评估与质性研究方法论学者，伊利诺伊大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
-person_related_color: "#e5e7eb"
+person_related_color: "#dbeafe"
 born: "1927"
 died: ""
 lifespan: "1927–至今"
