@@ -7,7 +7,7 @@ title: "Argument_Rust_2009_Reflections"
 argument_key: "Argument_Rust_2009_Reflections"
 argument_display_title: "Reflections on the Development of Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 77
+argument_related_count: 80
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -61,6 +61,7 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Interpretivism]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Discipline-Based Theory]]"
   - "[[Commensuration]]"
   - "[[Academic Freedom]]"
@@ -79,6 +80,8 @@ related_theories:
   - "[[Phenomenology]]"
   - "[[Symbolic Interactionism]]"
   - "[[Postmodernism]]"
+  - "[[World-Systems Theory]]"
+  - "[[Post-structuralism]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Questionnaire]]"
@@ -395,6 +398,33 @@ updated: 2026-09-30
 > - **26** 种并存理论范式，涵盖人力资本理论、结构功能主义、系统论、[[Dependency Theory|依附理论]]、马克思主义与新马克思主义、世界体系分析、民族志、建构主义、[[Phenomenology|现象学]]、[[Symbolic Interactionism|符号互动论]]、批判理论、文化复兴主义、女性主义、后结构主义、[[Postmodernism|后现代主义]]、[[Pragmatic Paradigm|实用主义]]与新殖民主义等，单一理论垄断宣告终结。（pp.132, 135）
 > - **33** 个 WCCES 成员学会，遍布全球各大洲，打破早期西方的地域封闭，确立全球学术网络。（pp.129–130）
 > - **3** 大主流母学科认同，社会学、政治学与经济学构成当代比较学者最普遍认同的母学科。（pp.130–131）
+
+> [!theory-matrix] 比较教育学期刊实证调查所见 26 种理论范式分类谱系（Henrickson et al., 2003; Rust et al., 2009, pp. 132, 136 注 7）
+>
+> | 范式集群 / 认识论谱系 | 理论范式（中英文对照） | 核心关切与分析单位 | 在比较教育学科演进中的功能定位 | 关联词条 |
+> | :--- | :--- | :--- | :--- | :--- |
+> | **实证主义与功能主义集群**<br>*(Positivist & Functionalist)* | 1. 结构功能主义<br>*(Structural Functionalism)* | 社会整合、系统均衡、角色分工、制度适应 | 1950–1960 年代冷战期学科的主导霸权正统，预设教育在社会有机体中的顺向稳定功能 | — |
+> | | 2. 现代化理论<br>*(Modernization)* | 传统向现代线性过渡、西方制度扩散、发展阶段 | 战后西方对外教育援助与政策输出的核心话语，将后发国家教育落后归咎于内部技术缺失 | — |
+> | | 3. [[Human Capital Theory\|人力资本理论]]<br>*(Human Capital)* | 教育收益率、技能人力储备、生产率与经济增长 | 将教育开支由消费品重新定性为高回报生产性投资，成为国家教育规划的计量支柱 | [[Human Capital Theory]] |
+> | | 4. 系统论<br>*(Systems Theory)* | 输入—转换—产出—反馈模型、系统边界与环境 | 借鉴控制论与工程系统模型，宏观分析教育子系统与政治经济环境的结构耦合 | — |
+> | | 5. 理性选择理论<br>*(Rational Choice)* | 效用最大化行动者、博弈均衡、成本收益核算 | 解构微观家长、师生与行政官僚在教育准入、学业分流与资源竞争中的策略博弈 | — |
+> | | 6. 组织/制度理论<br>*(Organizational / Institutional)* | 组织同构、制度神话、科层常规、仪式性认同 | 解释全球教育制度形式上的高度趋同，以及地方实施过程中的仪式性脱耦（Decoupling） | — |
+> | **马克思主义、批判与世界体系集群**<br>*(Marxian, Critical & World Systems)* | 7. [[Dependency Theory\|依附理论]]<br>*(Dependency)* | 中心-边缘结构性支配、跨国资本剥削、外围阶级依附 | 彻底颠覆现代化理论的“内部缺失”假说，揭示全球资本积累对全球南方教育体系的结构扭曲 | [[Dependency Theory]] |
+> | | 8. 马克思主义与新马克思主义<br>*(Marxian / Neo-Marxian)* | 阶级再生产、经济基础与上层建筑、文化霸权 | 批判正规学校教育在资本主义生产关系扩大再生产中的驯服顺从功能与劳动力筛选机制 | — |
+> | | 9. [[World-Systems Theory\|世界体系分析]]<br>*(World Systems)* | 核心—半边缘—边缘全球劳动分工、跨国依附网络 | 将跨国教育援助与改革置于 500 年现代世界体系历史中，揭示多边金融机构的霸权规训 | [[World-Systems Theory]] |
+> | | 10. [[Critical Theory\|批判理论]]<br>*(Critical Theory)* | 意识形态批判、启蒙反思、工具理性解构、大众解放 | 剥除技术官僚与实证量化的中立伪装，使比较研究重新回归关照社会公平与人类解放的向度 | [[Critical Theory]] |
+> | | 11. 新殖民主义理论<br>*(Neo-colonialism)* | 隐性文化帝国主义、学术依附、中心学术话语垄断 | 揭示领土殖民瓦解后，核心大都市科研中心与跨国出版机构对南方学术主权的隐性支配 | — |
+> | **解释主义与微观社会互动集群**<br>*(Interpretive & Micro-Sociological)* | 12. [[Phenomenology\|现象学]]<br>*(Phenomenology)* | 意识意向性、生活世界、悬置前设、本质直观 | 深入考察行动者在日常教育遭遇中的直接主观体验，拒绝将主体简化为被动的宏观统计指标 | [[Phenomenology]] |
+> | | 13. [[Symbolic Interactionism\|符号互动论]]<br>*(Symbolic Interactionism)* | 符号媒介、情境定义、自我镜映、互动标签 | 聚焦学校内部日常面对面互动，分析越轨标签、师生角色博弈及微观文化意义的动态生成 | [[Symbolic Interactionism]] |
+> | | 14. 实用互动论<br>*(Pragmatic Interactionism)* | 行动后果、问题情境重构、情境化探究与试错 | 继承杜威实用主义与微观互动传统，强调在鲜活的问题情境中考察主体的能动协商与政策应对 | [[Pragmatic Paradigm]] |
+> | | 15. [[Constructivist Paradigm\|建构主义]]<br>*(Constructivism)* | 主客体互动建构、多重实在、知识地方性 | 确立知识的主体间性与文化情境依赖性，打破实证主义关于单一外在绝对实在的本体论神话 | [[Constructivist Paradigm]] |
+> | | 16. [[Ethnography\|民族志范式]]<br>*(Ethnography)* | 深度田野浸润、地方性知识深描、主客体张力 | 倡导研究者长期扎根学校与本土社区开展参与观察，为跨国跨文化比较注入深厚的人文底蕴 | [[Ethnography]] |
+> | **后现代、后结构与当代跨学科批判集群**<br>*(Post-Foundational & Contemporary Orientations)* | 17. [[Post-structuralism\|后结构主义]]<br>*(Post-structuralism)* | 权力-知识共谋、话语规训、主体的被构塑性 | 追随福柯等学者，解构教育体制中被视为自然自明的“科学真理”，透视规训权力对主体的塑造 | [[Post-structuralism]] |
+> | | 18. [[Postmodernism\|后现代主义]]<br>*(Postmodernism)* | 宏大叙事解体、局部知识、差异反思、不确定性 | 瓦解西方启蒙理性的普世合法性神话，呼唤尊重本土边缘族群的多元异质叙事与地方智慧 | [[Postmodernism]] |
+> | | 19. 女性主义理论<br>*(Feminism)* | 性别权力关系、父权制解构、具身经验、照料伦理 | 揭示传统跨国比较指标中女性主体经验的系统性遮蔽，开辟性别平权与交织性分析的新视野 | — |
+> | | 20. 文化复兴主义<br>*(Cultural Revitalization)* | 原住民知识抢救、母语教育传承、去殖民文化觉醒 | 动员在西方殖民同质化中濒临消亡的边缘社群，通过学校教育抢救传统语言与生态智慧 | — |
+> | | 21. 政治[[Pluralism\|多元主义]]<br>*(Political Pluralism)* | 利益集团博弈、价值分歧调和、政策妥协均衡 | 将教育政策借用与决策视为多元利益主体在开放竞技场中博弈的过程，肯定多样性共存价值 | [[Pluralism]] |
+> | *其余实证调查范式（UCLA 调查统计共归纳 26 种）* | 22–26. 包括文化生态学、批判种族理论、交往行动理论等新兴交叉取向 | 跨学科微观、中观与宏观交织的多维视阈 | 与上述 21 种范式共同构筑起打破一元实证霸权后，比较教育学呈现出的“健康理论多元主义”全景谱系 | — |
 
 面对学者关于理论统一性丧失、学科陷入碎片化（fragmentation）的忧虑，学者内部形成了鲜明评判：
 
