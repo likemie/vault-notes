@@ -104,12 +104,14 @@ related_persons:
   - "[[Karl Popper]]"
   - "[[Søren Kierkegaard]]"
   - "[[Jürgen Habermas]]"
+  - "[[Robert E. Stake]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Brady_2023_EPR]]"
+  - "[[Argument_Rust_2009_Reflections]]"
 confidence: medium
 status: draft
 created: 2026-05-30
@@ -140,6 +142,11 @@ updated: 2026-09-17
 > 量化研究是一种通过检验变量间关系或进行群体间比较来验证客观理论的研究路径。这些变量可以通过标准化工具进行测量，从而产出可用统计程序分析的数值数据。最终报告具有严格固定的演绎结构。（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 5]]）
 >
 > *Quantitative research is an approach for testing objective theories by examining the relationship among variables or a comparison among groups. These variables, in turn, can be measured, typically on instruments, so that numbered data can be analyzed using statistical procedures. The final written report has a set structure consisting of introduction, literature and theory, methods, results, and discussion.*
+
+> [!citation-card] [[Robert E. Stake|斯塔克]]论量化研究"解释与控制"的取向本质
+> 量化研究者致力于解释与控制；质性研究者致力于理解万物之间纷繁复杂的交织关系。（Stake, 1995；引自 [[Argument_Rust_2009_Reflections|Rust et al., 2009, p.128]]）
+>
+> *"Quantitative researchers have pressed for explanation and control; qualitative researchers have pressed for understanding the complex interrelationships among all that exists."* (Stake, 1995)
 
 ---
 

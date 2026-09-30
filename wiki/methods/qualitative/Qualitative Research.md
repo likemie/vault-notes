@@ -120,6 +120,7 @@ related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
+  - "[[Argument_Rust_2009_Reflections]]"
 confidence: high
 status: draft
 created: 2026-05-05
@@ -155,6 +156,11 @@ updated: 2026-09-27
 > 在自然主义探究中，理论从数据中持续涌现而非事先设定，先验理论被扎根理论取代；研究设计随着现场浸润随时间演进，抽样边界与研究焦点亦随对情境理解的深化而动态调整。（Lincoln & Guba, 1985 via [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 22]]）
 >
 > *Theory emerges rather than is pre-ordinate. A priori theory is replaced by grounded theory. Research designs emerge over time (and as the sampling changes over time).*
+
+> [!citation-card] [[Robert E. Stake|斯塔克]]论质性与量化研究的取向根本差异
+> 量化研究者致力于解释与控制；质性研究者致力于理解万物之间纷繁复杂的交织关系。（Stake, 1995；引自 [[Argument_Rust_2009_Reflections|Rust et al., 2009, p.128]]）
+>
+> *"Quantitative researchers have pressed for explanation and control; qualitative researchers have pressed for understanding the complex interrelationships among all that exists."* (Stake, 1995)
 
 ---
 
@@ -324,3 +330,4 @@ Miller 关于新任大学校长第一年经历的博士论文方案，是质性�
 > - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 统计分析顶级教育心理学期刊中质性研究的增长趋势，警示质性[[Recommendations for Practice\|实践建议]]中的[[Causality\|因果推断]]边界。
 > - [[Argument_Edmondson_2005_EPAA\|Edmondson (2005)]] — 结合 Shannon (1991) 沟通性政策研究框架，阐发质性探究在打开政策协商黑箱中的独特价值，并深刻反思国家官方专家委员会以“科学共识”为名对质性研究的系统性排斥。
 > - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] — 详实回顾美国联邦立法中质性研究遭遇卡斯尔草案（H.R. 4875）贬为“初步形式”的历史公案，论证如何依据[[National Research Council|国家研究委员会]]（NRC）六大科学原则打破量化/质性二元对立，推动确立“方法契合所提问题”的原则。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 在比较教育学方法论史综述中，引用[[Robert E. Stake|斯塔克]] (1995) 对量化/质性研究取向根本差异的经典界定，将其纳入学科从方法论单一性走向 26 种理论并存的多元主义演进叙事之中。
