@@ -122,6 +122,12 @@ updated: 2026-09-28
 >
 > *Likewise, educational reform in societies undergoing rapid social transformation has attracted the attention of scholars (Carnoy & Samoff, 1990; Torres, 1991; Ginsburg, 1991).*
 
+> [!citation-card] 学校作为再生产力量与民主化矛盾交织的政治竞技场（Kazamias, 2009b 征引）
+> 与传统正统马克思主义的机械再生产论不同，卡诺伊强调学校绝不仅仅是资本家的压迫工具，而是一个在再生产力量（客观生产关系的再生产，即鲍尔斯与金蒂斯所称的“对应原则”）与民主化力量（个体与集体的民主权利表达，即“矛盾”）之间不断博弈的制度场所。资本主义与国家官僚社会中的学校教育虽然从根本上再生产着不平等的等级权力关系，但学校内部本身内生着不可抹杀的民主化与平等抗争矛盾。与此同时，在第三世界革命与社会转型时期，推动社会变迁的核心动力并非单纯的生产关系，而恰恰是国家机器与政治制度。[[Argument_Kazamias_2009_HistoricalReflections|(Carnoy, 1983; Carnoy & Samoff, 1990; Kazamias, 2009b, pp. 153–155)]]
+>
+> *...unlike conventional neo-Marxist writing, we argue that schools are not simply the tools of capitalists... but an institution where the tensions among the forces for reproduction... and the forces of democratization... are played out. Thus, the schools contain elements of reproduction and democracy... It is the state, much more than the production system, we argue, that is the source of the dynamic of revolutionary societies, and politics, much more than relations in production that drives their social developments (Carnoy & Samoff, 1990).*
+
+
 ---
 
 ## 影响路径
@@ -170,3 +176,5 @@ updated: 2026-09-28
 > | [[Financial-Intellectual Complex]] | 概念 | 揭露[[World Bank\|世界银行]]等跨国金融机构通过资助与实证垄断[[Disciplina and Doctrina\|规训]]第三世界教育政策的话语机器。 |
 > | [[Dependency Theory]] | 理论 | 将中心-外围依附框架引入教育制度分析，奠定战后教育依附批判传统。 |
 > | [[Conditioned State Theory]] | 理论 | 提供宏观国家[[Theoretical Perspective\|理论视角]]，断言任何教育问题诊断与方案都必然暗含前置国家理论假定。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009b)]] | 论证 | 征引卡诺伊关于学校作为资本再生产与民主化矛盾竞技场，以及国家政治在转型社会主导变革的论断。 |
+

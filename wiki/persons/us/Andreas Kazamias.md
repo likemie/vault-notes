@@ -125,9 +125,10 @@ updated: 2026-10-01
 >   - **关键概念／方法** [[Positivism\|实证主义]]批判、范式[[Pluralism|多元主义]]、结构功能主义解析、[[Educational Meliorism|改良主义]]改造社会抱负。
 >   - **阶段转向** 抵制将复杂的学校教育系统窄化为离散[[Variable\|变量]]与统计模型，维系教育制度的情境性与历史深邃感。
 > - **1990年代–2010年代 — 世纪之交学科史重构与欧洲领航** 与考恩深度合作，系统挖掘学科先驱与被遗忘母题，为比较教育学奠定面向未来的历史诠释学基石。
->   - **代表著作** *International Handbook of Comparative Education* (2009); *The Modernist Beginnings of Comparative Education* (2009); *Forgotten Men, Forgotten Themes* (2009). [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–36)]]；[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 37–58)]]
->   - **关键概念／方法** 每一代人重写其历史、德语广义科学（*Wissenschaft*）、全人教化（*Paideia*）与人（*Anthropos*）。
->   - **阶段转向** 将学科史从功能主义单线进化谱系解放出来，确立未来决定过去、反复重访传统的比较史学自觉。
+>   - **代表著作** *International Handbook of Comparative Education* (2009); *The Modernist Beginnings of Comparative Education* (2009); *Forgotten Men, Forgotten Themes* (2009); *Comparative Education: Historical Reflections* (2009). [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–36)]]；[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009a, pp. 37–58)]]；[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009b, pp. 139–157)]]
+>   - **关键概念／方法** [[Protean Episteme|普罗透斯式认识体系]]、每一代人重写其历史、德语广义科学（*Wissenschaft*）、学科历史健忘症（Historical Amnesia）、全人教化（*Paideia*）与人（*Anthropos*）。
+>   - **阶段转向** 将学科史从功能主义单线进化谱系解放出来，确立未来决定过去、反复重访传统的比较史学自觉，揭示四重论述代际更迭规律并号召抵御历史遗忘。
+
 
 ---
 
@@ -175,6 +176,8 @@ updated: 2026-10-01
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 考掘比较教育的现代主义发端，辨析[[Marc-Antoine Jullien\|朱利安]]准科学人道主义与行政借用母题。
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 考恩反思卡扎米亚斯的人文主义传统与学科半个世纪制度化成就之间的历史辩证关系。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 拉斯特等学者确证卡扎米亚斯作为学科历史主义奠基者的核心地位，征引其关于结构功能主义解析、[[Educational Meliorism|改良主义]]改造社会抱负及方法论价值抉择的经典论断。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009b)]] — 卡扎米亚斯系统界定比较教育学为“[[Protean Episteme|普罗透斯式认识体系]]”，梳理从启蒙至当代的四重论述代际演进，批判实证主义对单一方法的迷信，以期刊计量数据揭示学科面临的“历史健忘症”危机并呼吁重建历史与社会科学的理性综合。
+
 
 ---
 
@@ -245,3 +248,6 @@ updated: 2026-10-01
 > | [[Comparative Education Society in Europe]] | 事实 | 担任学会荣誉会员，在欧洲比较教育学界维系历史与人文主义思想脉络。 |
 > | [[Val D. Rust]] | 人物 | 阐述卡扎米亚斯在历史人文主义奠基谱系与结构功能主义解析中的关键坐标。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 122–123)]] |
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 征引卡扎米亚斯关于结构功能主义、[[Educational Meliorism\|改良主义]]改造社会抱负与方法论价值抉择的论断。 |
+> | [[Protean Episteme]] | 概念 | 借用希腊神话普罗透斯隐喻界定比较教育学多学科人文科学特质与四重论述代际更迭规律。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009b)]] | 论证 | 系统反思学科四重论述代际演进，批判唯方法论主义，诊断历史健忘症并确立历史与社科综合纲领。 |
+

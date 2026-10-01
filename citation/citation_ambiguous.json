@@ -147,6 +147,42 @@
         "year": "2015"
       }
     ],
+    "Kazamias, 2009": [
+      {
+        "aliases": [
+          "Kazamias, 2009a",
+          "Kazamias (2009a)"
+        ],
+        "argument": "Argument_Kazamias_2009_HistoricalReflections",
+        "authors": [
+          "[[Andreas Kazamias|Kazamias, A. M.]]"
+        ],
+        "citation": "Kazamias, A. M. (2009). Comparative Education: Historical Reflections. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 139–157). Dordrecht: Springer.",
+        "doi": "",
+        "isbn": "978-1-4020-6402-9",
+        "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md",
+        "source_language": "en",
+        "title": "Argument_Kazamias_2009_HistoricalReflections",
+        "year": "2009"
+      },
+      {
+        "aliases": [
+          "Kazamias, 2009b",
+          "Kazamias (2009b)"
+        ],
+        "argument": "Argument_Kazamias_2009_ForgottenThemes",
+        "authors": [
+          "[[Andreas Kazamias|Kazamias, A. M.]]"
+        ],
+        "citation": "Kazamias, A. M. (2009). Forgotten Men, Forgotten Themes: The Historical-philosophical-cultural and Liberal Humanist Motif in Comparative Education. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 37–58). Dordrecht: Springer.",
+        "doi": "",
+        "isbn": "978-1-4020-6402-9",
+        "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md",
+        "source_language": "en",
+        "title": "Argument_Kazamias_2009_ForgottenThemes",
+        "year": "2009"
+      }
+    ],
     "Keddie et al., 2020": [
       {
         "aliases": [

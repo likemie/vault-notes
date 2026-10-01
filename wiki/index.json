@@ -1266,6 +1266,19 @@
     ]
   },
   {
+    "title": "Protean Episteme",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Protean Episteme.md",
+    "aliases": [
+      "普罗透斯式认识体系",
+      "普罗透斯式知识体系",
+      "普罗透斯式学科形态",
+      "普罗透斯式的认识体系",
+      "protean episteme",
+      "protean nature of comparative education"
+    ]
+  },
+  {
     "title": "Proto-Scientific Motif",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Proto-Scientific Motif.md",
@@ -28235,6 +28248,11 @@
     "title": "Argument_Kazamias_2009_ForgottenThemes",
     "type": "argument",
     "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md"
+  },
+  {
+    "title": "Argument_Kazamias_2009_HistoricalReflections",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md"
   },
   {
     "title": "Argument_Mattheou_2009_ScientificParadigm",
