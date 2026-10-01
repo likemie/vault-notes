@@ -8,7 +8,7 @@ summary: "英国著名比较教育学家与科学哲学家，伦敦大学教育�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 68
+person_related_count: 67
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -88,7 +88,6 @@ related_facts:
   - "[[World Bank]]"
   - "[[Positivist Dispute in German Sociology]]"
   - "[[National Education in Europe]]"
-  - "[[Education in Europe]]"
 related_arguments:
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Cowen_2023_CE]]"
@@ -296,18 +295,18 @@ updated: 2026-10-01
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Problem Approach\|问题法]] | 方法 | 创立假说-演绎问题法，将波普尔批判理性主义与杜威反思思维操作化为五阶段比较检验程序（$L + I = P$）。 |
-> | [[Critical Dualism\|批判二元论]] | 概念 | 创立批判二元论，区分人为规范法则与权变社会学法则，为政策假说演绎与文化滞后诊断奠定[[Epistemology\\|认识论]]基石。 |
-> | [[Scientific Paradigm\|比较教育学科学范式]] | 概念 | 作为战后比较教育科学[[Paradigm\\|范式]]三大领袖之一，代表了反普遍[[Determinism\\|决定论]]、主张情境权变与政策预测的问题学派高地。 |
-> | [[Social Science as Legitimation Alibi\|实证社会科学作为合法化借口]] | 概念 | 作为第三代际实证[[Scientism\\|科学主义]]代表，其[[Value Neutrality\\|价值中立]]与预测模型受到关于充当冷战技术援助与国家规划合法化借口的历史反思。 |
-> | [[Problem Solving\|问题解决]] | 概念 | 将[[John Dewey\\|杜威]]反思思维与波普尔[[Falsification\\|证伪]]原则[[Operationalization\\|操作化]]为跨国教育政策分析的问题解决法。 |
-> | [[Policy Science in Comparative Education\|政策科学]] | 概念 | 主张比较教育作为[[Nomothetic\\|通则式]]预测与政策科学，服务于现实制度干预的后果评估。 |
-> | [[Four Forms of Understanding of Comparative Education\|比较教育的四种理解形式]] | 概念 | 代表了 1960 年代[[Ontology\\|本体论]]大论战中将比较教育理解为应用政策科学的经典形态。 |
-> | [[Factorial Interpretive Framework\|因素解释框架]] | 概念 | 批评历史动力与因素[[Analytic Framework\\|分析框架]]面向过去，确立通则预测对回溯解释的方法论超越。 |
+> | [[Critical Dualism\|批判二元论]] | 概念 | 创立批判二元论，区分人为规范法则与权变社会学法则，为政策假说演绎与文化滞后诊断奠定[[Epistemology\|认识论]]基石。 |
+> | [[Scientific Paradigm\|比较教育学科学范式]] | 概念 | 作为战后比较教育科学[[Paradigm\|范式]]三大领袖之一，代表了反普遍[[Determinism\|决定论]]、主张情境权变与政策预测的问题学派高地。 |
+> | [[Social Science as Legitimation Alibi\|实证社会科学作为合法化借口]] | 概念 | 作为第三代际实证[[Scientism\|科学主义]]代表，其[[Value Neutrality\|价值中立]]与预测模型受到关于充当冷战技术援助与国家规划合法化借口的历史反思。 |
+> | [[Problem Solving\|问题解决]] | 概念 | 将[[John Dewey\|杜威]]反思思维与波普尔[[Falsification\|证伪]]原则[[Operationalization\|操作化]]为跨国教育政策分析的问题解决法。 |
+> | [[Policy Science in Comparative Education\|政策科学]] | 概念 | 主张比较教育作为[[Nomothetic\|通则式]]预测与政策科学，服务于现实制度干预的后果评估。 |
+> | [[Four Forms of Understanding of Comparative Education\|比较教育的四种理解形式]] | 概念 | 代表了 1960 年代[[Ontology\|本体论]]大论战中将比较教育理解为应用政策科学的经典形态。 |
+> | [[Factorial Interpretive Framework\|因素解释框架]] | 概念 | 批评历史动力与因素[[Analytic Framework\|分析框架]]面向过去，确立通则预测对回溯解释的方法论超越。 |
 > | [[National Education in Europe\|欧洲国民教育]] | 事实 | 高度赞誉巴纳德编纂世界教育百科全书的本体贡献，为其早期编年史地位平反。 |
 > | [[Edmund King\|埃德蒙·金]] | 人物 | 伦敦国王学院代表学者，与霍姆斯就通则预测政策科学 vs 生态学语境主义展开长期学术论辩。 |
-> | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 评析霍姆斯引入批判理性主义与问题法对 IOE 及欧洲比较教育学科引发的[[Positivism\\|实证主义范式]]转向。 |
-> | [[Argument_Cowen_2023_CE\\|Cowen (2023)]] | 论证 | 考恩论述霍姆斯物理学式预测模型与政策科学定位在学科本体论论战中的地位。 |
-> | [[Argument_Kazamias_2009_ForgottenThemes\\|Kazamias (2009b)]] | 论证 | 梳理霍姆斯以科学预测为标尺对历史学派发起的实证围剿与范式冲击。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 阐述第三代际实证科学主义中霍姆斯伦敦学派的 $L + I = P$ 假说演绎推导与条件预测准则，以及实证政策科学充当技术援助合法化借口的反思。 |
-> | [[Argument_Mattheou_2009_ScientificParadigm\\|Mattheou (2009)]] | 论证 | 系统阐述霍姆斯在比较教育科学范式中的理论建构、批判二元论及其实用政策遭遇。 |
-> | [[Argument_Mitter_2009_Europe\\|Mitter (2009)]] | 论证 | 提供霍姆斯实证主义转向、IOE 内部认识论论辩及 [[Comparative Education Society in Europe\\|CESE]] 与 [[World Council of Comparative Education Societies\\|WCCES]] 建制历史的权威史学依据。 |
+> | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 评析霍姆斯引入批判理性主义与问题法对 IOE 及欧洲比较教育学科引发的[[Positivism\|实证主义范式]]转向。 |
+> | [[Argument_Cowen_2023_CE\|Cowen (2023)]] | 论证 | 考恩论述霍姆斯物理学式预测模型与政策科学定位在学科本体论论战中的地位。 |
+> | [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] | 论证 | 梳理霍姆斯以科学预测为标尺对历史学派发起的实证围剿与范式冲击。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 阐述第三代际实证科学主义中霍姆斯伦敦学派的 $L + I = P$ 假说演绎推导与条件预测准则，以及实证政策科学充当技术援助合法化借口的反思。 |
+> | [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] | 论证 | 系统阐述霍姆斯在比较教育科学范式中的理论建构、批判二元论及其实用政策遭遇。 |
+> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 提供霍姆斯实证主义转向、IOE 内部认识论论辩及 [[Comparative Education Society in Europe\|CESE]] 与 [[World Council of Comparative Education Societies\|WCCES]] 建制历史的权威史学依据。 |

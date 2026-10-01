@@ -10,7 +10,7 @@ summary: "法国启蒙自由主义教育家与国际主义者，1817年发表比
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 48
+person_related_count: 47
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -73,7 +73,6 @@ related_facts:
   - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"
   - "[[UNESCO]]"
   - "[[Revue encyclopédique]]"
-  - "[[Education in Europe]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
@@ -271,15 +270,15 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Revue encyclopédique\|百科评论]] | 历史事件 | 朱利安创办并主编的百科期刊，践行科学统一与世界公民理念的[[International Education\\|国际教育]]重要载体。 |
+> | [[Revue encyclopédique\|百科评论]] | 历史事件 | 朱利安创办并主编的百科期刊，践行科学统一与世界公民理念的[[International Education\|国际教育]]重要载体。 |
 > | [[Enlightenment\|启蒙运动]] | 概念 | 启蒙自由主义学者，将启蒙理性转化为比较教育准科学事实图表与世界和平蓝图。 |
 > | [[Proto-Scientific Motif\|准科学母题]] | 概念 | 朱利安开创的奠基性母题，将经验图表归纳与崇高人道主义关怀高度熔铸。 |
 > | [[Educational Meliorism\|教育改良主义]] | 概念 | 赋予比较教育以改善人类社会秩序与个体道德的整全改良主义旨趣。 |
-> | [[Faculty Psychology\|官能心理学]] | 概念 | 在 1817 年《计划》[[Questionnaire\\|问卷]]中以拉罗米吉埃官能学说为准绳设计跨国智育调查题项。 |
+> | [[Faculty Psychology\|官能心理学]] | 概念 | 在 1817 年《计划》[[Questionnaire\|问卷]]中以拉罗米吉埃官能学说为准绳设计跨国智育调查题项。 |
 > | [[Policy Borrowing\|政策借用]] | 概念 | 开启基于跨国经验事实比较进行选择性制度借用与改良的现代话语传统。 |
-> | [[Comparative History of Comparative Education\|比较教育学的比较史]] | 概念 | 作为学科起源神话与[[Positivism\\|实证主义]][[Paradigm\\|范式]]建构的关键历史分析对象。 |
-> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供朱利安思想史、方法论指标体系、政治信念演变与[[Epistemology\\|认识论]]争鸣的系统文本证据。 |
+> | [[Comparative History of Comparative Education\|比较教育学的比较史]] | 概念 | 作为学科起源神话与[[Positivism\|实证主义]][[Paradigm\|范式]]建构的关键历史分析对象。 |
+> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供朱利安思想史、方法论指标体系、政治信念演变与[[Epistemology\|认识论]]争鸣的系统文本证据。 |
 > | [[State Educational Sovereignty\|国家教育权]] | 概念 | 19 世纪欧洲国家教育主权的兴起绕过了朱利安的学术蓝图，以行政视察员的国家借用推动比较教育实践演进。 |
 > | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 在学科制度史中系统考证朱利安“双重目的”的开创性及其在 19 世纪欧洲大学中被遗忘的历史机制。 |
-> | [[Argument_Mitter_2009_Europe\\|Mitter (2009)]] | 论证 | 考证朱利安作为欧洲比较教育学科起点的定位、双重任务界定及其与 19 世纪行政借用时期的历史断裂。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 梳理第一代启蒙准科学与行政改良代际，剖析朱利安准科学设想消除专断与道德改良的双重面向。 |
+> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 考证朱利安作为欧洲比较教育学科起点的定位、双重任务界定及其与 19 世纪行政借用时期的历史断裂。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 梳理第一代启蒙准科学与行政改良代际，剖析朱利安准科学设想消除专断与道德改良的双重面向。 |

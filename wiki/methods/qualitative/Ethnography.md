@@ -10,7 +10,7 @@ summary: "源自人类学与社会学的质性研究设计，要求研究者在�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 66
+method_related_count: 59
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -44,8 +44,6 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Paradigm]]"
-  - "[[Sage]]"
-  - "[[Champ]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Organizational Culture]]"
@@ -75,14 +73,9 @@ related_methods:
   - "[[Case Study]]"
   - "[[Comparative Case Study]]"
   - "[[Correlational Research]]"
-related_persons:
-  - "[[Louis Cohen]]"
-  - "[[Lawrence Manion]]"
-  - "[[John W. Creswell]]"
-  - "[[Val D. Rust]]"
+related_persons: []
 related_facts:
   - "[[Conectar Igualdad]]"
-  - "[[Research Strategies in Comparative Education]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
@@ -246,11 +239,11 @@ updated: 2026-10-01
 > | [[Autoethnography\|自我民族志]] | 方法分支 | 将研究者自身的生命体验与情感创伤作为主要经验材料进行文化解构。 |
 > | [[Participant Observation\|参与观察]] | 核心技术 | 民族志数据获取的基石，要求研究者在“参与者”与“观察者”间保持张力。 |
 > | [[Rich and Thick Description\|厚描述]] | 核心规范 | 民族志写作的最高准则，呈现兼具细节、背景与意义赋予的完整叙事。 |
-> | [[Reflexivity\|反身性]] | [[Epistemology\\|认识论]]准则 | 承认研究者是社会世界的一部分，必须系统剖析自身的社会位置与知识偏见。 |
+> | [[Reflexivity\|反身性]] | [[Epistemology\|认识论]]准则 | 承认研究者是社会世界的一部分，必须系统剖析自身的社会位置与知识偏见。 |
 > | [[Emic and Etic\|主位与客位]] | 分析概念 | 主位（参与者内部定义）与客位（外部研究者理论建构）的双重視野平衡。 |
 > | [[Comparative Case Study\|比较案例研究]] | 关联方法 | 将多地点民族志置于横向、纵向与横断三轴框架中进行比较（Bartlett & Vavrus, 2017）。 |
-> | [[Argument_Rust_2009_Reflections\\|Rust et al. (2009)]] | 论证 | 梳理比较教育学术史中民族志从边缘走向 26 种核心理论/方法取向之一的演变。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 学科史定性；评述第四阶段课堂民族志的多元兴起与学科历史健忘症的伴生。 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 梳理比较教育学术史中民族志从边缘走向 26 种核心理论/方法取向之一的演变。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；评述第四阶段课堂民族志的多元兴起与学科历史健忘症的伴生。 |
 
 ---
 

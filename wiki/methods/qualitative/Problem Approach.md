@@ -10,9 +10,9 @@ summary: "由布赖恩·霍姆斯开创的比较教育学假说-演绎方法论�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 40
-method_related_level: 5
-method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_count: 39
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -43,7 +43,6 @@ related_concepts:
   - "[[Policy Science in Comparative Education]]"
   - "[[Problem Finding]]"
   - "[[Praxis]]"
-  - "[[Historical-Philosophical-Cultural Motif]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -197,23 +196,23 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Critical Dualism\\|批判二元论]] | 理论 | 区分人为可变的规范法则与机构运行的客观社会学法则，构成问题法初始条件调查与情境推演的核心[[Epistemology\\|认识论]]基石。 |
-> | [[Falsification\\|可证伪性]] | 概念 | 确立政策假说的经验可反驳性与检验规程，以假说-演绎（$L + I = P$）替代经验归纳派的自我证实封闭循环。 |
-> | [[Scientific Paradigm\\|科学范式]] | 概念 | 战后英格兰比较教育科学[[Paradigm\\|范式]]的代表形态，与美国量化共变范式共同推动学科走向社会科学化。 |
-> | [[Social Science as Legitimation Alibi\\|社会科学作为合法化借口]] | 概念 | 揭示实证[[Policy Science in Comparative Education\\|政策科学]]在战后冷战竞争中沦为国家五年计划与国际技术援助合法化工具的意识形态功能。 |
-> | [[Policy Science in Comparative Education\\|比较教育中的政策科学]] | 概念 | 主张比较教育服务于国家教育决策，以概率性后果推演为宏观政策干预提供理性依据。 |
-> | [[Reflective Thinking\\|反思性思维]] | 概念 | 汲取[[John Dewey\\|杜威]]五步反思思维逻辑，为教育[[Problem Finding\\|问题界定]]、假说化与解决程序提供[[Praxis\\|实践哲学]]支撑。 |
-> | [[Historical-Comparative Method\\|历史比较法]] | 方法 | 批判其主观洞察与回溯局限，但将其活的精神与规范模式转化为情境初始条件予以综合继承。 |
-> | [[Positivism\\|实证主义]] | 概念 | 批评其实证量化指标放逐文化价值与时代不同步病理，追求无情境抽象共变的实证幻象。 |
-> | [[Brian Holmes\\|布赖恩·霍姆斯]] | 人物 | 伦敦大学教育学院教授，问题法的创立者与系统建构者。 |
-> | [[Karl Popper\\|卡尔·波普尔]] | 人物 | 批判理性主义、证伪原则与情境逻辑的提出者，为问题法提供认识论支撑。 |
-> | [[Edmund King\\|埃德蒙·金]] | 人物 | 伦敦大学国王学院教授，1967 年发起论战，以自由意志与社会复杂性否定预测作为划界标准。 |
-> | [[Andreas Kazamias\\|安德烈亚斯·卡扎米亚斯]] | 人物 | 梳理第三代际学科史，高度提炼问题法的 $L + I = P$ 推导公式，阐述审慎条件预测与历史宿命论预言的本质区别。 |
-> | [[C. Arnold Anderson\\|C. 阿诺德·安德森]] | 人物 | 芝加哥学派领袖，与霍姆斯就恒常普遍规律 vs 情境权变社会学法则展开学术论辩。 |
-> | [[Harold Noah\\|哈罗德·诺亚]] | 人物 | 哥大学派领袖，与霍姆斯就[[Variable\\|变量]]替代与多元统计 vs 假说-演绎情境预测展开跨大西洋论辩。 |
-> | [[Argument_Mattheou_2009_ScientificParadigm\\|Mattheou (2009)]] | 论证 | 系统考证并评析布赖恩·霍姆斯的问题法在战后比较教育科学化运动中的理论建构、认识论争鸣及其对历史学派与实证主义的折衷综合。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 权威阐释第三代际伦敦学派的 $L + I = P$ 形式化推导公式、条件预测准则及其实证政策科学反思。 |
-> | [[Argument_Kazamias_2009_ForgottenThemes\\|Kazamias (2009b)]] | 论证 | 梳理霍姆斯以科学预测为标尺对古典历史学派发起的实证围剿及其学科史影响。 |
+> | [[Critical Dualism\|批判二元论]] | 理论 | 区分人为可变的规范法则与机构运行的客观社会学法则，构成问题法初始条件调查与情境推演的核心[[Epistemology\|认识论]]基石。 |
+> | [[Falsification\|可证伪性]] | 概念 | 确立政策假说的经验可反驳性与检验规程，以假说-演绎（$L + I = P$）替代经验归纳派的自我证实封闭循环。 |
+> | [[Scientific Paradigm\|科学范式]] | 概念 | 战后英格兰比较教育科学[[Paradigm\|范式]]的代表形态，与美国量化共变范式共同推动学科走向社会科学化。 |
+> | [[Social Science as Legitimation Alibi\|社会科学作为合法化借口]] | 概念 | 揭示实证[[Policy Science in Comparative Education\|政策科学]]在战后冷战竞争中沦为国家五年计划与国际技术援助合法化工具的意识形态功能。 |
+> | [[Policy Science in Comparative Education\|比较教育中的政策科学]] | 概念 | 主张比较教育服务于国家教育决策，以概率性后果推演为宏观政策干预提供理性依据。 |
+> | [[Reflective Thinking\|反思性思维]] | 概念 | 汲取[[John Dewey\|杜威]]五步反思思维逻辑，为教育[[Problem Finding\|问题界定]]、假说化与解决程序提供[[Praxis\|实践哲学]]支撑。 |
+> | [[Historical-Comparative Method\|历史比较法]] | 方法 | 批判其主观洞察与回溯局限，但将其活的精神与规范模式转化为情境初始条件予以综合继承。 |
+> | [[Positivism\|实证主义]] | 概念 | 批评其实证量化指标放逐文化价值与时代不同步病理，追求无情境抽象共变的实证幻象。 |
+> | [[Brian Holmes\|布赖恩·霍姆斯]] | 人物 | 伦敦大学教育学院教授，问题法的创立者与系统建构者。 |
+> | [[Karl Popper\|卡尔·波普尔]] | 人物 | 批判理性主义、证伪原则与情境逻辑的提出者，为问题法提供认识论支撑。 |
+> | [[Edmund King\|埃德蒙·金]] | 人物 | 伦敦大学国王学院教授，1967 年发起论战，以自由意志与社会复杂性否定预测作为划界标准。 |
+> | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 梳理第三代际学科史，高度提炼问题法的 $L + I = P$ 推导公式，阐述审慎条件预测与历史宿命论预言的本质区别。 |
+> | [[C. Arnold Anderson\|C. 阿诺德·安德森]] | 人物 | 芝加哥学派领袖，与霍姆斯就恒常普遍规律 vs 情境权变社会学法则展开学术论辩。 |
+> | [[Harold Noah\|哈罗德·诺亚]] | 人物 | 哥大学派领袖，与霍姆斯就[[Variable\|变量]]替代与多元统计 vs 假说-演绎情境预测展开跨大西洋论辩。 |
+> | [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] | 论证 | 系统考证并评析布赖恩·霍姆斯的问题法在战后比较教育科学化运动中的理论建构、认识论争鸣及其对历史学派与实证主义的折衷综合。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 权威阐释第三代际伦敦学派的 $L + I = P$ 形式化推导公式、条件预测准则及其实证政策科学反思。 |
+> | [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] | 论证 | 梳理霍姆斯以科学预测为标尺对古典历史学派发起的实证围剿及其学科史影响。 |
 
 ---
 

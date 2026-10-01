@@ -234,10 +234,10 @@ updated: 2026-10-01
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[National Education in Europe\|欧洲国民教育]] | 政策 / 事实 | 巴纳德比较教育学代表作，欧洲各国公共教育体制与统计百科全书。 |
-> | [[Common School Movement\|公学运动]] | 概念 | 巴纳德通过[[Document\\|文献]]整理与行政实践，为全美公学运动确立了坚实的制度与理论后盾。 |
+> | [[Common School Movement\|公学运动]] | 概念 | 巴纳德通过[[Document\|文献]]整理与行政实践，为全美公学运动确立了坚实的制度与理论后盾。 |
 > | [[Auslandspadagogik\|外国教育学]] | 概念 | 巴纳德的《国民教育》是 19 世纪前期外国教育学历史描述进路的最高峰。 |
 > | [[Educational Meliorism\|教育改良主义]] | 概念 | 巴纳德致力于通过吸取外部制度优长改善本土公共教育，体现了改良主义母题。 |
 > | [[Ethnography\|民族志]] | 方法 | 巴纳德对欧洲学校日常运作、纪律、课表与教学法的巨细靡遗的客观记述，开创了早期教育民族志的先河。 |
-> | [[Unit of Analysis\|分析单位]] | 概念 | 巴纳德代表了第一代“以校为中心”（Scholiocentric）的孤立微观办学分析单位，为[[Michael Sadler\\|萨德勒]]转向民族国家整体体系提供了制度史料基座。 |
-> | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 巴纳德汇纂欧洲教育事实服务于美国公学建制的实践，展现了比较教育[[Knowledge Production\\|知识生产]]依附于国家建制诉求的普罗透斯式特征。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 确立巴纳德在第一论述代际中的地位，揭示[[Scholiocentric Approach\\|以校为中心]]汇纂与立法政治合法化依据的历史实质。 |
+> | [[Unit of Analysis\|分析单位]] | 概念 | 巴纳德代表了第一代“以校为中心”（Scholiocentric）的孤立微观办学分析单位，为[[Michael Sadler\|萨德勒]]转向民族国家整体体系提供了制度史料基座。 |
+> | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 巴纳德汇纂欧洲教育事实服务于美国公学建制的实践，展现了比较教育[[Knowledge Production\|知识生产]]依附于国家建制诉求的普罗透斯式特征。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 确立巴纳德在第一论述代际中的地位，揭示[[Scholiocentric Approach\|以校为中心]]汇纂与立法政治合法化依据的历史实质。 |

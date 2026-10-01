@@ -459,16 +459,16 @@ updated: 2026-10-01
 > 
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Scientific Method\|科学方法]] | 概念 | 为实证主义提供系统的操作程序，贯穿[[Hypothesis\\|假设]]提出、[[Variable\\|变量]]隔离与经验检验全流程。 |
-> | [[Value Neutrality\|价值中立]] | 概念 | 构成实证主义[[Quantitative Research\\|量化研究]]效度的核心规范，要求排除研究者主观价值与政治立场。 |
-> | [[Postpositivism\|后实证主义]] | 概念 | 对经典实证主义幼稚实在论的修正范式，引入理论负荷与概率[[Falsification\\|证伪]]观念。 |
+> | [[Scientific Method\|科学方法]] | 概念 | 为实证主义提供系统的操作程序，贯穿[[Hypothesis\|假设]]提出、[[Variable\|变量]]隔离与经验检验全流程。 |
+> | [[Value Neutrality\|价值中立]] | 概念 | 构成实证主义[[Quantitative Research\|量化研究]]效度的核心规范，要求排除研究者主观价值与政治立场。 |
+> | [[Postpositivism\|后实证主义]] | 概念 | 对经典实证主义幼稚实在论的修正范式，引入理论负荷与概率[[Falsification\|证伪]]观念。 |
 > | [[Interpretive Paradigm\|诠释范式]] | 概念 | 作为实证主义的主要论敌，主张理解人类主观意图与情境意义建构。 |
 > | [[Scientism\|科学主义]] | 概念 | 实证主义膨胀为绝对意识形态的异化产物，将经验科学奉为人类唯一的知识形式。 |
-> | [[Quantitative Research\|量化研究]] | 方法 | 实证主义范式的主要经验依托，通过统计、[[Causal Modeling\\|因果建模]]与大样本测量推导规律。 |
-> | [[Randomised Controlled Trials\|随机对照试验]] | 方法 | 现代实证主义实验方法的最高代表，通过[[Random Assignment\\|随机分配]]控制无关变量以证实因果干预。 |
+> | [[Quantitative Research\|量化研究]] | 方法 | 实证主义范式的主要经验依托，通过统计、[[Causal Modeling\|因果建模]]与大样本测量推导规律。 |
+> | [[Randomised Controlled Trials\|随机对照试验]] | 方法 | 现代实证主义实验方法的最高代表，通过[[Random Assignment\|随机分配]]控制无关变量以证实因果干预。 |
 > | [[Scientific Paradigm\|比较教育学科学范式]] | 概念 | 实证主义在 20 世纪下半叶比较教育中的典型制度化范式形态，服务战后国家规划与政策预测。 |
 > | [[Evidence-Based Education\|证据本位教育]] | 概念 | 实证主义在当代教育政策领域的直接制度化体现，推崇中立证据指导教育实践。 |
 > | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 梳理欧陆对实证主义的反思史，系统阐述德国“实证主义之争”与新马克思主义对比较教育实证范式的解构。 |
 > | [[Martin Carnoy\|马丁·卡诺伊]] | 人物 | 运用新马克思主义国家理论，解构实证功能主义作为资本主义再生产“意识形态借口”的政治本质。 |
-> | [[Argument_Mitter_2009_Europe\\|Mitter (2009)]] | 论证 | 记录欧洲比较教育在 1960–1980 年代直面英美实证主义围剿与德意志“实证主义之争”的历史轨迹。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 全景式梳理实证[[Empiricism\\|唯方法论主义]]的兴衰、霍姆斯后相对论划界、卡诺伊意识形态借口批判及学科历史健忘症。 |
+> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 记录欧洲比较教育在 1960–1980 年代直面英美实证主义围剿与德意志“实证主义之争”的历史轨迹。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 全景式梳理实证[[Empiricism\|唯方法论主义]]的兴衰、霍姆斯后相对论划界、卡诺伊意识形态借口批判及学科历史健忘症。 |

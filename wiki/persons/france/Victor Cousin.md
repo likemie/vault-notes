@@ -315,11 +315,11 @@ updated: 2026-10-01
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Guizot Law of 1833\|1833年基佐法案]] | 政策 | 作为主要起草人将普鲁士考察所得转化为法国国民初等教育的奠基性实定法。 |
-> | [[Faculty Psychology\|官能心理学]] | 概念 | 运用官能心理学论证古典学与现代科学的互补性，奠定法国普通文化[[General Education\\|通识教育]]理想。 |
+> | [[Faculty Psychology\|官能心理学]] | 概念 | 运用官能心理学论证古典学与现代科学的互补性，奠定法国普通文化[[General Education\|通识教育]]理想。 |
 > | [[Policy Borrowing\|政策借用]] | 概念 | 确立以母国利益为绝对归宿的“审慎借用”公理与实定法直接转置模式。 |
 > | [[Educational Meliorism\|教育改良主义]] | 概念 | 践行行政改良主义母题，将外部事实考察直接服务于现代民族国家机器重构。 |
 > | [[Auslandspadagogik\|外国教育学]] | 概念 | 其普鲁士报告成为 19 世纪欧陆官方“外国教育学”编年记述的巅峰代表作。 |
-> | [[Unit of Analysis\|分析单位]] | 概念 | 库森代表了第一论述代际“以校为中心”（Scholiocentric）的孤立微观分析单位，成为后续[[Michael Sadler\\|萨德勒]]确立民族国家整体体系单位的历史先声。 |
-> | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 库森在启蒙与行政改良时期的借用实践，印证了比较教育[[Knowledge Production\\|知识生产]]受时代政治诉求编织的普罗透斯式特征。 |
-> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供库森考察文本、法哲学推论、[[François Guizot\\|基佐]]法案渊源与折衷统治阶级分析的系统证据。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 确立库森在第一论述代际中的地位，揭示“[[Scholiocentric Approach\\|以校为中心]]”考察与政治合法化依据的历史实质。 |
+> | [[Unit of Analysis\|分析单位]] | 概念 | 库森代表了第一论述代际“以校为中心”（Scholiocentric）的孤立微观分析单位，成为后续[[Michael Sadler\|萨德勒]]确立民族国家整体体系单位的历史先声。 |
+> | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 库森在启蒙与行政改良时期的借用实践，印证了比较教育[[Knowledge Production\|知识生产]]受时代政治诉求编织的普罗透斯式特征。 |
+> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供库森考察文本、法哲学推论、[[François Guizot\|基佐]]法案渊源与折衷统治阶级分析的系统证据。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 确立库森在第一论述代际中的地位，揭示“[[Scholiocentric Approach\|以校为中心]]”考察与政治合法化依据的历史实质。 |

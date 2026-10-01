@@ -10,7 +10,7 @@ aliases:
 summary: "波普尔提出的科学划界与检验标准，主张科学理论的标志在于其承担被经验反驳的风险；在比较教育学中驱动了从古典历史向假说检验与问题解决法（L + I = P）的转型，并引发关于历史工作假设检验性的深刻反思。"
 type: concept
 domain: "educational-philosophy"
-related_count: 46
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
   - "[[Metacognition]]"
-  - "[[Scientific Paradigm]]"
 related_theories:
   - "[[Duhem-Quine Thesis]]"
   - "[[Critical Theory]]"
@@ -63,7 +62,6 @@ related_persons:
   - "[[Brian Holmes]]"
   - "[[Andreas Kazamias]]"
   - "[[Edmund King]]"
-  - "[[Lawrence Manion]]"
 related_facts:
   - "[[Research in Schools Evaluation]]"
 related_arguments:
@@ -269,14 +267,14 @@ updated: 2026-10-01
 > [!entry-map] 证伪主义[[Construct|构念]]在学术网络中的关联结构
 > | 关联构件 | 链接条目 | 理论关联说明 |
 > |---|---|---|
-> | **[[Epistemology\\|认识论]][[Paradigm\\|范式]]** | [[Positivism\|实证主义]]；[[Postpositivism\|后实证主义]] | 作为后实证主义科学哲学的核心基石，取代实证主义归纳证实原则 |
+> | **[[Epistemology\|认识论]][[Paradigm\|范式]]** | [[Positivism\|实证主义]]；[[Postpositivism\|后实证主义]] | 作为后实证主义科学哲学的核心基石，取代实证主义归纳证实原则 |
 > | **核心方法要素** | [[Hypothesis\|假设]]；[[Operationalization\|操作化]] | 驱动科学假说的精确操作化与异质情境严格检验设计 |
 > | **学科转型碰撞** | [[Historical-Comparative Method\|历史比较法]] | 1960 年代实证学派以可证伪性为武器批评历史学派，促使历史比较引入非普适探索性工作假设 |
-> | **推导公式与[[Problem Approach\\|问题法]]** | [[Problem Approach\|问题法]] | 霍姆斯将证伪原则操作化为 $L + I = P$ 推导公式，以受约束的预测检验假设 |
+> | **推导公式与[[Problem Approach\|问题法]]** | [[Problem Approach\|问题法]] | 霍姆斯将证伪原则操作化为 $L + I = P$ 推导公式，以受约束的预测检验假设 |
 > | **反思与对话范式** | [[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]] | 历史人文母题通过广义科学定位打破实证派唯证伪主义的科学话语垄断 |
-> | **教学与[[Metacognition\\|元认知]]应用** | [[Critical Thinking\|批判性思维]]；[[Theory of Knowledge\|知识论]] | 构成 TOK 课程中关于科学划界与知识真伪审议的核心讨论主题 |
-> | **[[Critical Theory\\|批判理论]]支撑** | [[Duhem-Quine Thesis\|迪昂-蒯因论题]] | 迪昂-蒯因不完全决定性构成了反思朴素证伪主义的核心认识论反论 |
-> | **核心专著与论证** | [[Argument_Cohen_Manion_Morrison_2011_Routledge\\|Cohen et al. (2011)]]；[[Argument_Mattheou_2009_ScientificParadigm\\|Mattheou (2009)]]；[[Argument_Zemplen_2007_SciEduc\\|Zemplén (2007)]]；[[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]]；[[Argument_Kazamias_2009_ForgottenThemes\\|Kazamias (2009b)]] | 奠定[[Scientific Method\\|科学方法]]论基础，阐明比较假说演绎演化，批判教学中简化误用，反思学科史上的实证围剿与历史工作假设效能 |
+> | **教学与[[Metacognition\|元认知]]应用** | [[Critical Thinking\|批判性思维]]；[[Theory of Knowledge\|知识论]] | 构成 TOK 课程中关于科学划界与知识真伪审议的核心讨论主题 |
+> | **[[Critical Theory\|批判理论]]支撑** | [[Duhem-Quine Thesis\|迪昂-蒯因论题]] | 迪昂-蒯因不完全决定性构成了反思朴素证伪主义的核心认识论反论 |
+> | **核心专著与论证** | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]]；[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]]；[[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]；[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]]；[[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] | 奠定[[Scientific Method\|科学方法]]论基础，阐明比较假说演绎演化，批判教学中简化误用，反思学科史上的实证围剿与历史工作假设效能 |
 
 ---
 

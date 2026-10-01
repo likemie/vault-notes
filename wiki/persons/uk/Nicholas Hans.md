@@ -10,7 +10,7 @@ summary: "俄裔英国比较教育学家，伦敦大学国王学院读者，20 �
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Analytical Stance]]"
   - "[[Knowledge Production]]"
   - "[[Educational Meliorism]]"
+  - "[[Empiricism]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Scientific Paradigm]]"
   - "[[Construct]]"
@@ -232,7 +233,7 @@ updated: 2026-10-01
 卡扎米亚斯进一步将汉斯置于比较教育[[Knowledge Production|知识生产]]代际演进与“普罗透斯式认识型”的宏大谱系中，阐明其广义教育科学定位与历史-哲学学派特质。
 
 > [!citation-card] Kazamias论汉斯的广义教育科学与第二代历史-哲学传统
-> 卡扎米亚斯（Kazamias, 2009a）指出，汉斯与[[Immanuel Kant|康德]]尔、[[Robert Ulich|乌利希]]同属比较教育学界建构的“第二代”历史-哲学传统。在汉斯看来，比较教育并非狭隘的技术性学科，而是广义教育科学（*Vergleichende Erziehungswissenschaft*）不可分割的组成部分，深植于德国人文学科/[[Geisteswissenschaften|精神科学]]（*Geisteswissenschaften*）的学术土壤之中。汉斯坚信比较教育兼具人文探究与社会科学理性，其终极旨趣在于通过对历史与文化力量的深层把握推动教育改良（[[Educational Meliorism]]）。这种广义科学观为抵御随后出现的唯方法论主义（methodologism）与去情境化实证量化[[Disciplina and Doctrina|规训]]提供了深厚的[[Epistemology|认识论]]支撑。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 145–148)]]
+> 卡扎米亚斯（Kazamias, 2009a）指出，汉斯与[[Immanuel Kant|康德]]尔、[[Robert Ulich|乌利希]]同属比较教育学界建构的“第二代”历史-哲学传统。在汉斯看来，比较教育并非狭隘的技术性学科，而是广义教育科学（*Vergleichende Erziehungswissenschaft*）不可分割的组成部分，深植于德国人文学科/[[Geisteswissenschaften|精神科学]]（*Geisteswissenschaften*）的学术土壤之中。汉斯坚信比较教育兼具人文探究与社会科学理性，其终极旨趣在于通过对历史与文化力量的深层把握推动教育改良（[[Educational Meliorism]]）。这种广义科学观为抵御随后出现的[[Empiricism|唯方法论主义]]（methodologism）与去情境化实证量化[[Disciplina and Doctrina|规训]]提供了深厚的[[Epistemology|认识论]]支撑。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 145–148)]]
 >
 > *...comparative education as Vergleichende Erziehungswissenschaft, part of a wider science of education rooted in the German Geisteswissenschaften tradition, combining historical and social-scientific rationales for educational meliorism... [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a)]]*
 
@@ -283,15 +284,15 @@ updated: 2026-10-01
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 汉斯的广义教育科学与因素分析构成比较教育第二代普罗透斯式认识型的经典形态。 |
-> | [[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]] | 概念 | 将母题提炼为高度系统化的自然、宗教与世俗三维因素[[Analytic Framework\\|分析框架]]。 |
-> | [[National Character\|国民性]] | 概念 | 将国民性格[[Operationalization\\|操作化]]为历史因素共同铸就的国家相貌并加以考察。 |
+> | [[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]] | 概念 | 将母题提炼为高度系统化的自然、宗教与世俗三维因素[[Analytic Framework\|分析框架]]。 |
+> | [[National Character\|国民性]] | 概念 | 将国民性格[[Operationalization\|操作化]]为历史因素共同铸就的国家相貌并加以考察。 |
 > | [[Historical-Comparative Method\|历史比较法]] | 方法 | 确立历史因果考证与制度跨国比较相结合的规范化研究步骤。 |
 > | [[Democratic Education\|民主教育]] | 概念 | 将保障文化自由与实质受教育机会均等确立为衡量教育制度发展的终极伦理归宿。 |
-> | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 学术史家，将汉斯界定为第二代历史-哲学学派核心，阐发其[[Geisteswissenschaften\\|精神科学]]根基与教育改良旨趣。 |
-> | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 评析汉斯与[[Friedrich Schneider\\|施奈德]]共同开创的欧洲宏大历史文化全景与精神[[Scientific Paradigm\\|科学范式]]地位。 |
+> | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 学术史家，将汉斯界定为第二代历史-哲学学派核心，阐发其[[Geisteswissenschaften\|精神科学]]根基与教育改良旨趣。 |
+> | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 评析汉斯与[[Friedrich Schneider\|施奈德]]共同开创的欧洲宏大历史文化全景与精神[[Scientific Paradigm\|科学范式]]地位。 |
 > | [[Friedrich Schneider\|弗里德里希·施奈德]] | 人物 | 与汉斯并列为 20 世纪前中期（1920s–1950s）欧洲文化主义比较教育学派的领袖。 |
-> | [[Val D. Rust\|瓦尔·D·拉斯特]] | 人物 | 阐发汉斯因素分析法在学科两百年方法论演进与冷战比较中的坐标。[[Argument_Rust_2009_Reflections\\|(Rust et al., 2009, pp. 127–128)]] |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 考察汉斯在比较教育普罗透斯式认识型演进与广义教育科学传统中的学术定位。 |
-> | [[Argument_Kazamias_2009_ForgottenThemes\\|Kazamias (2009b)]] | 论证 | 深度剖析汉斯的[[Factorial Interpretive Framework\\|因素分析框架]]、冷战[[Ideology Critique\\|意识形态批判]]及其方法论局限。 |
-> | [[Argument_Mitter_2009_Europe\\|Mitter (2009)]] | 论证 | 提供 20 世纪欧洲比较教育历史演进与汉斯文化主义学术定位的关键史学依据。 |
-> | [[Argument_Rust_2009_Reflections\\|Rust et al. (2009)]] | 论证 | 征引汉斯关于教育深植于社会文化力量与制度审慎借用的经典方法论命题。 |
+> | [[Val D. Rust\|瓦尔·D·拉斯特]] | 人物 | 阐发汉斯因素分析法在学科两百年方法论演进与冷战比较中的坐标。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 127–128)]] |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 考察汉斯在比较教育普罗透斯式认识型演进与广义教育科学传统中的学术定位。 |
+> | [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] | 论证 | 深度剖析汉斯的[[Factorial Interpretive Framework\|因素分析框架]]、冷战[[Ideology Critique\|意识形态批判]]及其方法论局限。 |
+> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 提供 20 世纪欧洲比较教育历史演进与汉斯文化主义学术定位的关键史学依据。 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 征引汉斯关于教育深植于社会文化力量与制度审慎借用的经典方法论命题。 |

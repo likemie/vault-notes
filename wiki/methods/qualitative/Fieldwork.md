@@ -10,9 +10,9 @@ summary: "研究者深入研究现场进行长期观察、参与和深度体验�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 40
-method_related_level: 5
-method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_count: 37
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/data-collection
@@ -33,7 +33,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Going Native]]"
   - "[[Paradigm]]"
-  - "[[Champ]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -55,9 +54,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Robert Arnove]]"
-  - "[[Val D. Rust]]"
-related_facts:
-  - "[[Research Strategies in Comparative Education]]"
+related_facts: []
 related_arguments:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
@@ -173,11 +170,11 @@ updated: 2026-10-01
 > |:-----|:-----|:-----|
 > | [[Ethnography\|民族志]] | 上位方法 | 田野调查是民族志研究最为核心、不可或缺的资料搜集形式。 |
 > | [[Participant Observation\|参与观察]] | 核心技术 | 参与观察是田野调查现场搜集第一手行为与情境资料的最主要工具。 |
-> | [[Rich and Thick Description\|厚描述]] | 输出规范 | 深描是田野工作呈现本土文化意义与抵御抽象化还原的基本文本[[Paradigm\\|范式]]。 |
-> | [[Comparative Case Study\|比较案例研究]] | 组合方法 | 多地点田野调查为比较[[Case Study\\|案例研究]]提供跨尺度垂直与水平互证的微观厚实材料。 |
+> | [[Rich and Thick Description\|厚描述]] | 输出规范 | 深描是田野工作呈现本土文化意义与抵御抽象化还原的基本文本[[Paradigm\|范式]]。 |
+> | [[Comparative Case Study\|比较案例研究]] | 组合方法 | 多地点田野调查为比较[[Case Study\|案例研究]]提供跨尺度垂直与水平互证的微观厚实材料。 |
 > | [[Robert Arnove\|罗伯特·阿诺夫]] | 人物 | 倡导运用跨国微观田野研究透视全球化宏观政策在地方遭遇的变通与抵制。 |
-> | [[Argument_Rust_2009_Reflections\\|Rust et al. (2009)]] | 论证 | 剖析跨国比较田野调查中研究者与研究对象的权力关系伦理、女性主义田野困境与[[Going Native\\|本土化]]张力。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 学科史定性；将田野调查置于第四阶段多元转向，评述课堂回归与历史健忘症的伴生。 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 剖析跨国比较田野调查中研究者与研究对象的权力关系伦理、女性主义田野困境与[[Going Native\|本土化]]张力。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将田野调查置于第四阶段多元转向，评述课堂回归与历史健忘症的伴生。 |
 
 ---
 

@@ -10,7 +10,7 @@ summary: "美国著名历史学家、哈佛大学讲席教授与美国历史学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Postpositivism]]"
   - "[[Empiricism]]"
-  - "[[Historical-Philosophical-Cultural Motif]]"
 related_theories: []
 related_methods:
   - "[[Historical-Comparative Method]]"
@@ -149,8 +148,8 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 战后比较教育史学家，在 1963 年与 2009 年论著中系统援引布林顿史学方法捍卫[[Historical-Comparative Method\\|历史比较法]]的科学合法性。 |
+> | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 战后比较教育史学家，在 1963 年与 2009 年论著中系统援引布林顿史学方法捍卫[[Historical-Comparative Method\|历史比较法]]的科学合法性。 |
 > | [[Historical-Comparative Method\|历史比较法]] | 方法 | 布林顿关于非普适探索性假说与历史分类归纳的论述为历史比较法提供了核心因果解释依据。 |
 > | [[Hypothesis\|假设]] | 概念 | 提出“有限工作假说”（working hypotheses of a limited nature），超越全称普遍法则与个殊碎片的二元对立。 |
-> | [[Argument_Kazamias_2009_ForgottenThemes\\|Kazamias (2009b)]] | 论证 | 征引布林顿《革命的解剖》，阐明历史学者从个殊史实归纳工作假说并在新情境中检验的机制。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 重申布林顿对历史事实可比性与非普适假说建构的[[Epistemology\\|认识论]]辩护，破除[[Positivism\\|实证主义]]唯方法论偏见。 |
+> | [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] | 论证 | 征引布林顿《革命的解剖》，阐明历史学者从个殊史实归纳工作假说并在新情境中检验的机制。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 重申布林顿对历史事实可比性与非普适假说建构的[[Epistemology\|认识论]]辩护，破除[[Positivism\|实证主义]]唯方法论偏见。 |

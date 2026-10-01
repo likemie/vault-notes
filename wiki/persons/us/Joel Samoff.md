@@ -169,9 +169,9 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Financial-Intellectual Complex\|金融-智识复合体]] | 概念 | 率先提出并命名该[[Construct\\|构念]]，揭示资金垄断与智识生产合谋的跨国[[Disciplina and Doctrina\\|规训]]机制。 |
-> | [[Technical Rationality\|技术理性]] | 概念 | 批判[[World Bank\\|世界银行]]将教育降格为新古典成本收益与生均收益率等纯粹技术官僚工具理性。 |
+> | [[Financial-Intellectual Complex\|金融-智识复合体]] | 概念 | 率先提出并命名该[[Construct\|构念]]，揭示资金垄断与智识生产合谋的跨国[[Disciplina and Doctrina\|规训]]机制。 |
+> | [[Technical Rationality\|技术理性]] | 概念 | 批判[[World Bank\|世界银行]]将教育降格为新古典成本收益与生均收益率等纯粹技术官僚工具理性。 |
 > | [[Conditioned State Theory\|受限国家理论]] | 理论 | 阐发外围国家在面对跨国金融机构贷款附加条件时丧失政策自主权的受限困局。 |
 > | [[Dependency Theory\|依附理论]] | 理论 | 深化文化与智识层面的依附机制分析，揭露西方援助专家库对第三世界智识主权的再殖民化。 |
-> | [[Argument_Olmos_Torres_2009_StateTheories\\|Olmos & Torres (2009)]] | 论证 | 评析萨莫夫对世界银行金融-智识复合体、受雇专家网络及借贷政策单向垄断的批判。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 梳理第四代批判冲突[[Paradigm\\|范式]]，阐述卡诺伊与萨莫夫关于转型国家政治权力驱动教育变革的论断。 |
+> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]] | 论证 | 评析萨莫夫对世界银行金融-智识复合体、受雇专家网络及借贷政策单向垄断的批判。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 梳理第四代批判冲突[[Paradigm\|范式]]，阐述卡诺伊与萨莫夫关于转型国家政治权力驱动教育变革的论断。 |

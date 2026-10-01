@@ -9,7 +9,7 @@ summary: "美国著名比较教育学泰斗，比较与国际教育学会（CIES
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 47
+person_related_count: 46
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -42,9 +42,9 @@ related_concepts:
   - "[[Permeable State]]"
   - "[[Rich and Thick Description]]"
 related_theories:
+  - "[[World-Systems Theory]]"
   - "[[Dialectic of the Global and the Local]]"
   - "[[Pluri-Scalar Governance]]"
-  - "[[World-Systems Theory]]"
   - "[[Hegemony]]"
   - "[[Globalization from Below]]"
   - "[[Dependency Theory]]"
@@ -65,7 +65,6 @@ related_persons:
   - "[[Paulo Freire]]"
   - "[[Martin Carnoy]]"
   - "[[Michael W. Apple]]"
-  - "[[Liliana Esther Olmos]]"
 related_facts:
   - "[[Comparative and International Education Society]]"
   - "[[World Bank]]"
@@ -90,7 +89,7 @@ updated: 2026-10-01
 
 > [!person-profile] 人物档案
 > - **身份位置** 罗伯特·阿诺夫（Robert F. Arnove），美国当代著名比较教育学泰斗、教育社会学家；印第安纳大学布卢明顿分校荣誉总理教授（Chancellor's Professor Emeritus），[[Comparative and International Education Society|比较与国际教育学会]]（Comparative and [[International Education]] Society, CIES）前会长（2000–2001）。
-> - **核心角色** 批判比较教育学与全球化教育政治经济学的旗帜性领军学者。阿诺夫率先于 1980 年将[[Immanuel Wallerstein|沃勒斯坦]]的世界体系分析引入比较教育学，打破了抽象的现代化趋同迷思；随后与[[Carlos Alberto Torres|托雷斯]]共同开创“[[Dialectic of the Global and the Local|全球化与本土实践的辩证法]]”（Dialectic of the Global and the Local）[[Analytic Framework|分析框架]]，系统解构跨国新自由主义治理与非政府组织（Non-Governmental Organizations, NGOs）外包异化，为自下而上的教育公平与全球社会民主抗争奠定了理论基石。
+> - **核心角色** 批判比较教育学与全球化教育政治经济学的旗帜性领军学者。阿诺夫率先于 1980 年将[[Immanuel Wallerstein|沃勒斯坦]]的[[World-Systems Theory|世界体系分析]]引入比较教育学，打破了抽象的现代化趋同迷思；随后与[[Carlos Alberto Torres|托雷斯]]共同开创“[[Dialectic of the Global and the Local|全球化与本土实践的辩证法]]”（Dialectic of the Global and the Local）[[Analytic Framework|分析框架]]，系统解构跨国新自由主义治理与非政府组织（Non-Governmental Organizations, NGOs）外包异化，为自下而上的教育公平与全球社会民主抗争奠定了理论基石。
 > - **代表贡献** 创立全球与本土辩证法[[Paradigm|范式]]（与 Torres 合作出版权威论著《比较教育：全球与本土的辩证法》）；开创批判性基金会与跨国援助研究（出版奠基之作《慈善与文化帝国主义：福特、洛克菲勒与卡内基基金会》）；提出[[Shadow State|影子国家]]（[[Shadow State]]）与[[Pluri-Scalar Governance|多标度教育治理]]批判框架；系统推进拉美[[Popular Education|民众教育]]实证调研（《桑地诺尼加拉瓜的教育与革命》）。
 
 > [!citation-card] 阿诺夫论世界体系分析恢复比较教育的国际政治经济维度
@@ -107,7 +106,7 @@ updated: 2026-10-01
 > - **1960–1969** 先后在密歇根大学、塔夫茨大学弗莱彻法律与外交学院及斯坦福大学深造，在斯坦福大学师从[[John W. Meyer|约翰·迈耶]]（John W. Meyer）等学者，获得[[Development Education|国际发展教育]]博士学位。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 102)]]
 > - **1960 年代中期** 作为福特基金会教育顾问常驻哥伦比亚，深入参与拉美高等教育与基础教育改革评估，亲身体验到跨国资本援助话语与本土实际需求的严重脱节。
 > - **1969–2000s** 长期任教于印第安纳大学布卢明顿分校教育学院，创立国际与比较教育研究中心，培养了数代具有批判政治经济学视野的比较教育学者。
-> - **1980** 在《比较教育评论》（*Comparative Education Review*）发表纲领性论文《比较教育与世界体系分析》，正式将[[Immanuel Wallerstein|沃勒斯坦]]世界体系分析引入比较教育学；同年出版开创性著作《慈善与文化帝国主义》，揭示大型私人基金会对第三世界智力与教育主权的软性塑造。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 105)]]
+> - **1980** 在《比较教育评论》（*Comparative Education Review*）发表纲领性论文《比较教育与[[World-Systems Theory|世界体系分析]]》，正式将[[Immanuel Wallerstein|沃勒斯坦]]世界体系分析引入比较教育学；同年出版开创性著作《慈善与文化帝国主义》，揭示大型私人基金会对第三世界智力与教育主权的软性塑造。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 105)]]
 > - **1986** 深入尼加拉瓜实地调研桑地诺民族解放阵线的大规模扫盲战役与[[Popular Education|民众教育]]运动，出版《尼加拉瓜的教育与革命》。
 > - **1999** 与[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]联合推出权威学术名著《比较教育：[[Dialectic of the Global and the Local|全球与本土的辩证法]]》，确立批判比较教育学的经典分析[[Paradigm|范式]]。
 > - **2000–2001** 当选并出任[[Comparative and International Education Society|比较与国际教育学会]]（CIES）会长，发表题为重建[[Global Citizenship|全球公民]]与教育正义的会长致辞。
@@ -119,7 +118,7 @@ updated: 2026-10-01
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1970–1980 年代 — [[Hegemony|文化霸权]]批判与世界体系分析的引入** 聚焦跨国非政府基金会与国际金融援助的政治经济学机制，率先在比较教育学界确立中心-半边缘-边缘的世界体系[[Analytic Framework|分析框架]]。
+> - **1970–1980 年代 — [[Hegemony|文化霸权]]批判与[[World-Systems Theory|世界体系分析]]的引入** 聚焦跨国非政府基金会与国际金融援助的政治经济学机制，率先在比较教育学界确立中心-半边缘-边缘的世界体系[[Analytic Framework|分析框架]]。
 >   - **代表著作** *Comparative Education and World-Systems Analysis* (1980); *Philanthropy and Cultural Imperialism: The Foundations at Home and Abroad* (1980); *Education and Revolution in Nicaragua* (1986). [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 105–106)]]
 >   - **关键概念／方法** 世界体系分析、文化帝国主义、文化霸权、[[Popular Education|民众教育]]、历史-比较方法。
 >   - **阶段转向** 彻底决裂于结构功能主义与古典现代化理论，将[[International Education|国际教育]]关系置于跨国劳动分工与不平等交换的现实框架中考察。
@@ -156,7 +155,7 @@ updated: 2026-10-01
 > - **学术共同体与跨国传播** 作为 [[Comparative and International Education Society|CIES]] 前会长与国际比较教育学界的精神领袖，阿诺夫长期致力于推动南北学术平等对话，支持拉美、非洲与亚洲青年学者开展反思资本主义霸权本土经验的批判研究。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 权威代表作，全面系统梳理世界体系分析在比较教育学中的演进，对质新制度主义与政治现实主义，确立全球与本土辩证法及自下而上全球化分析框架。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 权威代表作，全面系统梳理[[World-Systems Theory|世界体系分析]]在比较教育学中的演进，对质新制度主义与政治现实主义，确立全球与本土辩证法及自下而上全球化分析框架。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 在第四阶段话语（1970–1990）学科史梳理中，高度肯定阿诺夫将[[Immanuel Wallerstein|沃勒斯坦]][[World-Systems Theory|世界体系理论]]引入比较教育学的奠基性突破，揭示跨国教育依附与支配链条，并反思批判宏观范式对历史维度的挤压。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 全面继承阿诺夫与托雷斯的全球与本土辩证法，作为分析拉美[[Conditioned State Theory|受限国家]]在依附性资本主义下的阶级[[Dual School System|双轨学制]]与教育合法化危机的核心支柱。
 
@@ -165,7 +164,7 @@ updated: 2026-10-01
 ## 历史评价
 
 > [!citation-card] 考恩与卡扎米亚斯论阿诺夫在比较教育学术史上的奠基地位
-> 罗伯特·阿诺夫是极少数成功将世界体系宏观分析、批判政治经济学与细致入微的地方教育[[Ethnography|民族志]]熔铸为一体的比较教育大家；他在 1980 年将[[Immanuel Wallerstein|沃勒斯坦]]世界体系分析引入本学科，并在 1990 年代系统确立[[Dialectic of the Global and the Local|全球与本土的辩证法]]，从根本上拓展了当代比较教育学的理论边界与批判深度。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 106)]]
+> 罗伯特·阿诺夫是极少数成功将世界体系宏观分析、批判政治经济学与细致入微的地方教育[[Ethnography|民族志]]熔铸为一体的比较教育大家；他在 1980 年将[[Immanuel Wallerstein|沃勒斯坦]][[World-Systems Theory|世界体系分析]]引入本学科，并在 1990 年代系统确立[[Dialectic of the Global and the Local|全球与本土的辩证法]]，从根本上拓展了当代比较教育学的理论边界与批判深度。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 106)]]
 >
 > *Arnove's pioneering 1980 essay urged his colleagues to take up world-systems analysis as the necessary framework... his dialectic of the global and the local established a central conceptual [[Paradigm]] for critical comparative education.*
 
@@ -184,7 +183,7 @@ updated: 2026-10-01
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承与学术渊源** [[John W. Meyer|约翰·迈耶]]（早期博士导师，后形成批判性[[Paradigm|范式]]对峙）；[[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]（世界体系分析理论基石来源）；[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire，拉美被压迫者教育学与[[Popular Education|民众教育]]先驱）。
+> - **师承与学术渊源** [[John W. Meyer|约翰·迈耶]]（早期博士导师，后形成批判性[[Paradigm|范式]]对峙）；[[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]（[[World-Systems Theory|世界体系分析]]理论基石来源）；[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire，拉美被压迫者教育学与[[Popular Education|民众教育]]先驱）。
 > - **核心学术合作者** [[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（长期联合主编《比较教育：[[Dialectic of the Global and the Local|全球与本土的辩证法]]》权威教材）；玛格丽特·萨顿（Margaret Sutton，合作主编《[[Shadow State|影子国家]]》解构非政府组织）。
 > - **学术盟友与对话者** [[Martin Carnoy|马丁·卡诺伊]]、[[Michael W. Apple|迈克尔·阿普尔]]（共享政治经济学批判视阈）；新制度主义学派（Francisco O. Ramirez, John Boli 等，展开世纪范式辩论）。
 > - **机构阵地** 印第安纳大学布卢明顿分校教育学院（长期执教）；[[Comparative and International Education Society|比较与国际教育学会]]（CIES，历任会长及终身杰出贡献学者）。
@@ -223,16 +222,16 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Dialectic of the Global and the Local\|全球与本土的辩证法]] | 理论 | 核心创立者；阐明全球规约与地方能动的双向辩证博弈，奠定当代批判比较教育学核心[[Paradigm\\|范式]]。 |
+> | [[Dialectic of the Global and the Local\|全球与本土的辩证法]] | 理论 | 核心创立者；阐明全球规约与地方能动的双向辩证博弈，奠定当代批判比较教育学核心[[Paradigm\|范式]]。 |
 > | [[World-Systems Theory\|世界体系理论]] | 理论 | 奠基引入者；1980 年率先将世界体系分析引入比较教育学，解构跨国援助与全球教育分层。 |
 > | [[Shadow State\|影子国家]] | 概念 | 合作提出者；揭示民间非政府组织在公共教育外包体制下沦为去政治化影子国家的制度困境。 |
 > | [[Globalization from Below\|自下而上的全球化]] | 概念 | 理论倡导者；剖析草根社会运动与教师工会依托跨国网络抗争新自由主义教育改革的替代路径。 |
-> | [[Pluri-Scalar Governance\|多标度治理]] | 概念 | 理论整合者；运用多标度空间分析解构[[World Trade Organization\\|世贸组织]] [[GATS and Trade in Education Services\\|GATS]] 规约与跨国经贸协定对教育主权的重塑。 |
+> | [[Pluri-Scalar Governance\|多标度治理]] | 概念 | 理论整合者；运用多标度空间分析解构[[World Trade Organization\|世贸组织]] [[GATS and Trade in Education Services\|GATS]] 规约与跨国经贸协定对教育主权的重塑。 |
 > | [[Popular Education\|民众教育]] | 概念 | 实证研究者；深入尼加拉瓜实地调研桑地诺革命扫盲与民众教育，丰富被压迫者教育学实践。 |
-> | [[Permeable State\|多孔国家]] | 概念 | 理论阐发者；分析全球化新自由主义[[Disciplina and Doctrina\\|规训]]如何穿透民族国家边界并激化本土阶级斗争。 |
+> | [[Permeable State\|多孔国家]] | 概念 | 理论阐发者；分析全球化新自由主义[[Disciplina and Doctrina\|规训]]如何穿透民族国家边界并激化本土阶级斗争。 |
 > | [[World Society Theory\|世界社会理论]] | 理论 | 批判对话者；对新制度主义世界文化理论的共识与形式同构神话进行持续政治经济学批判。 |
-> | [[Historical-Comparative Method\|历史比较法]] | 方法 | 方法倡导者；坚持将比较教育研究建立在长时段历史脉络与宏微观贯通的案例[[Rich and Thick Description\\|深描]]之上。 |
+> | [[Historical-Comparative Method\|历史比较法]] | 方法 | 方法倡导者；坚持将比较教育研究建立在长时段历史脉络与宏微观贯通的案例[[Rich and Thick Description\|深描]]之上。 |
 > | [[Carlos Alberto Torres\|卡洛斯·阿尔贝托·托雷斯]] | 人物 | 长期学术同盟；共同主编《比较教育：全球与本土的辩证法》权威教材。 |
 > | [[John W. Meyer\|约翰·迈耶]] | 人物 | 博士导师与世纪学术论敌；分别代表比较教育学中世界体系分析的共识论与冲突论两大极。 |
 > | [[Immanuel Wallerstein\|伊曼努尔·沃勒斯坦]] | 人物 | 思想渊源导师；将其现代世界体系分析批判性转化为比较教育学的基准透镜。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 学科史定性；将阿诺夫置于第四阶段世界体系跨国分析核心，评述跨国依附链条与学科历史健忘症。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将阿诺夫置于第四阶段世界体系跨国分析核心，评述跨国依附链条与学科历史健忘症。 |

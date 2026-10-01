@@ -385,23 +385,23 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[World-Systems Theory\|世界体系理论]] | 理论 | 彻底解构比较教育的方法论民族主义，主张以资本主义世界经济体整体为根本分析单位。[[Argument_Arnove_2009_WorldSystems\\|(Arnove, 2009, pp. 101, 104)]] |
-> | [[Pluri-Scalar Governance\|多标度治理]] | 概念 | 将分析单位扩展为横跨超国家、国家、次国家与社区的多标度立体空间网络。[[Argument_Arnove_2009_WorldSystems\\|(Arnove, 2009, pp. 110–111)]] |
-> | [[Dialectic of the Global and the Local\|全球与本土的辩证法]] | 理论 | 倡导通过微观比较案例研究（CCS）将宏观体系与微观生活世界作为辩证互动的分析单位。[[Argument_Arnove_2009_WorldSystems\\|(Arnove, 2009, pp. 108–110)]] |
-> | [[Complexity Theory\|复杂性理论]] | 理论 | 复杂性理论打破个体与系统的传统界限，将分析单位重构为围绕奇异吸引子演化的共生生态系统网络。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\\|(Cohen et al., 2011, Ch. 1, p. 31)]] |
-> | [[Coding in Qualitative Research\|编码]] | 方法 | 分析单位构成了质性编码的操作载体；编码是对分析单位赋予概念化标签的过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\\|(Cohen et al., 2011, p. 560)]] |
-> | [[Domain Analysis\|领域分析]] | 概念 | 领域分析是建立分析单位之后的关键第二步，旨在将切碎的微观编码单元重新聚合为上位领域范畴。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\\|(Cohen et al., 2011, p. 440)]] |
-> | [[Content Analysis\|内容分析]] | 方法 | 分析单位的科学划分（抽样、记录、语境单位）是内容分析 11 步标准化操作规程的核心前置环节。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\\|(Cohen et al., 2011, pp. 564–565)]] |
-> | [[State Educational Sovereignty\|国家教育权]] | 概念 | 现代民族国家对公共教育主权的垄断，奠定了以主权领土为边界的国民学制作为宏观比较教育最持久的经验分析单位容器。[[Argument_Mitter_2009_Europe\\|(Mitter, 2009, pp. 87, 94)]] |
-> | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 梳理欧洲比较教育宏观空间分析单位的演进，揭示民族国家容器、次区域地缘板块与超国家度量空间的结构张力。[[Argument_Mitter_2009_Europe\\|(Mitter, 2009, pp. 87–88, 94–96)]] |
-> | [[Robert Arnove\|罗伯特·阿诺夫]] | 人物 | 将沃勒斯坦世界体系引入比较教育，解构国家容器假定并发展微观多点案例分析。[[Argument_Arnove_2009_WorldSystems\\|(Arnove, 2009, pp. 101, 104, 108–111)]] |
-> | [[Michael Sadler\|迈克尔·萨德勒]] | 人物 | 1900 年牛津演讲终结“以校为中心”孤立考察，确立“民族国家教育体系”为比较分析核心单位。[[Argument_Kazamias_2009_HistoricalReflections\\|(Kazamias, 2009a, pp. 141–142)]] |
-> | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 提出普罗透斯式认识体系框架，系统梳理从第一代“以校为中心”向第二代“民族国家整体体系”的分析单位历史演变。[[Argument_Kazamias_2009_HistoricalReflections\\|(Kazamias, 2009a, pp. 140–142)]] |
+> | [[World-Systems Theory\|世界体系理论]] | 理论 | 彻底解构比较教育的方法论民族主义，主张以资本主义世界经济体整体为根本分析单位。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 101, 104)]] |
+> | [[Pluri-Scalar Governance\|多标度治理]] | 概念 | 将分析单位扩展为横跨超国家、国家、次国家与社区的多标度立体空间网络。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 110–111)]] |
+> | [[Dialectic of the Global and the Local\|全球与本土的辩证法]] | 理论 | 倡导通过微观比较案例研究（CCS）将宏观体系与微观生活世界作为辩证互动的分析单位。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 108–110)]] |
+> | [[Complexity Theory\|复杂性理论]] | 理论 | 复杂性理论打破个体与系统的传统界限，将分析单位重构为围绕奇异吸引子演化的共生生态系统网络。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 31)]] |
+> | [[Coding in Qualitative Research\|编码]] | 方法 | 分析单位构成了质性编码的操作载体；编码是对分析单位赋予概念化标签的过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 560)]] |
+> | [[Domain Analysis\|领域分析]] | 概念 | 领域分析是建立分析单位之后的关键第二步，旨在将切碎的微观编码单元重新聚合为上位领域范畴。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 440)]] |
+> | [[Content Analysis\|内容分析]] | 方法 | 分析单位的科学划分（抽样、记录、语境单位）是内容分析 11 步标准化操作规程的核心前置环节。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, pp. 564–565)]] |
+> | [[State Educational Sovereignty\|国家教育权]] | 概念 | 现代民族国家对公共教育主权的垄断，奠定了以主权领土为边界的国民学制作为宏观比较教育最持久的经验分析单位容器。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 87, 94)]] |
+> | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 梳理欧洲比较教育宏观空间分析单位的演进，揭示民族国家容器、次区域地缘板块与超国家度量空间的结构张力。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 87–88, 94–96)]] |
+> | [[Robert Arnove\|罗伯特·阿诺夫]] | 人物 | 将沃勒斯坦世界体系引入比较教育，解构国家容器假定并发展微观多点案例分析。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 101, 104, 108–111)]] |
+> | [[Michael Sadler\|迈克尔·萨德勒]] | 人物 | 1900 年牛津演讲终结“以校为中心”孤立考察，确立“民族国家教育体系”为比较分析核心单位。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 141–142)]] |
+> | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 提出普罗透斯式认识体系框架，系统梳理从第一代“以校为中心”向第二代“民族国家整体体系”的分析单位历史演变。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 140–142)]] |
 > | [[Variable\|变量]] | 概念 | 变量是分析单位所呈现的量化或定性属性，分析单位则是承载变量取值的主体物理实体。 |
-> | [[Central Phenomenon\|核心现象]] | 概念 | 在扎根理论主轴编码中，核心现象往往作为处于分析中心位置的统摄性主题单位存在。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\\|(Cohen et al., 2011, p. 561)]] |
+> | [[Central Phenomenon\|核心现象]] | 概念 | 在扎根理论主轴编码中，核心现象往往作为处于分析中心位置的统摄性主题单位存在。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 561)]] |
 > | [[Emergence\|涌现]] | 概念 | 复杂系统分析单位所展现的核心特征，整体属性无法简单还原为个体分析单位的线性相加。 |
-> | [[Argument_Mitter_2009_Europe\\|Mitter (2009)]] | 论证 | 系统阐明欧洲比较教育学科两百年演进中分析单位的历史重组，批判大规模测评带来的去情境化[[Disciplina and Doctrina\\|规训]]压力。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 论证比较教育四重论述代际中分析单位的流变，揭示从孤立学校向民族国家系统转变的方法论意义。 |
+> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 系统阐明欧洲比较教育学科两百年演进中分析单位的历史重组，批判大规模测评带来的去情境化[[Disciplina and Doctrina\|规训]]压力。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 论证比较教育四重论述代际中分析单位的流变，揭示从孤立学校向民族国家系统转变的方法论意义。 |
 
 ---
 

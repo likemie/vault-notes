@@ -394,15 +394,15 @@ updated: 2026-10-01
 > | [[Policy Borrowing\|政策借用]] | 概念 | 阐明改良主义如何转化为具体的跨国制度借鉴行为、机制转置与合法化修辞。 |
 > | [[Proto-Scientific Motif\|准科学母题]] | 概念 | 与行政改良主义母题并列为 19 世纪比较教育发端期的两大奠基母题。 |
 > | [[Scientific Paradigm\|比较教育学科学范式]] | 概念 | 展现战后科学化运动对古典改良主义的批判及其自身向现代技术改良主义的蜕变。 |
-> | [[Auslandspadagogik\|外国教育学]] | 概念 | 构成了 19 世纪改良主义探究在欧陆与美洲[[Document\\|文献]]形态上的主要经验承载形式。 |
-> | [[Comparative History of Comparative Education\|比较教育学的比较史]] | 概念 | 将改良主义确立为解构学科现代主义发端与重构比较[[Epistemology\\|认识论]]问题域的核心主线。 |
-> | [[Marc-Antoine Jullien\|马克-安托万·朱利安]] | 人物 | 开创准科学人道主义改良母题，将经验分类服务于全人道德[[Bildung\\|教化]]与世界永久和平。 |
-> | [[Victor Cousin\|维克多·库森]] | 人物 | 开创欧陆官方行政改良路径，以国家公共资源法哲学将普鲁士经验转化为法国[[Guizot Law of 1833\\|基佐法案]]。 |
-> | [[Horace Mann\|霍勒斯·曼]] | 人物 | 开创北美政治合法化改良路径，将欧洲公学卓越实绩[[Transfer Translation Transformation\\|转译]]为击溃国内保守派的论据。 |
-> | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 在学科史中确立[[Navigation Metaphor in Comparative Education\\|航海隐喻]]下“适度改良功能”（melioristic function）的政策咨询伦理，并阐明跨文化教育的一线教学改良诉求。 |
-> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供改良主义本体定义、大西洋两岸双重机制分化与批判战[[Postpositivism\\|后实证主义]]起源神话的系统证据。 |
-> | [[Argument_Mitter_2009_Europe\\|Mitter (2009)]] | 论证 | 系统梳理政策咨询光谱中航海隐喻对适度改良功能的坚守，以及[[Intercultural Education\\|跨文化教育]]一线实践改良进路。 |
-> | [[Argument_Rust_2009_Reflections\\|Rust et al. (2009)]] | 论证 | 梳理比较教育学方法论争鸣，将改良主义置于其与[[Ideology Critique\\|意识形态批判]]、严格[[Value Neutrality\\|价值中立]]的三元坐标系中定位。 |
+> | [[Auslandspadagogik\|外国教育学]] | 概念 | 构成了 19 世纪改良主义探究在欧陆与美洲[[Document\|文献]]形态上的主要经验承载形式。 |
+> | [[Comparative History of Comparative Education\|比较教育学的比较史]] | 概念 | 将改良主义确立为解构学科现代主义发端与重构比较[[Epistemology\|认识论]]问题域的核心主线。 |
+> | [[Marc-Antoine Jullien\|马克-安托万·朱利安]] | 人物 | 开创准科学人道主义改良母题，将经验分类服务于全人道德[[Bildung\|教化]]与世界永久和平。 |
+> | [[Victor Cousin\|维克多·库森]] | 人物 | 开创欧陆官方行政改良路径，以国家公共资源法哲学将普鲁士经验转化为法国[[Guizot Law of 1833\|基佐法案]]。 |
+> | [[Horace Mann\|霍勒斯·曼]] | 人物 | 开创北美政治合法化改良路径，将欧洲公学卓越实绩[[Transfer Translation Transformation\|转译]]为击溃国内保守派的论据。 |
+> | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 在学科史中确立[[Navigation Metaphor in Comparative Education\|航海隐喻]]下“适度改良功能”（melioristic function）的政策咨询伦理，并阐明跨文化教育的一线教学改良诉求。 |
+> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供改良主义本体定义、大西洋两岸双重机制分化与批判战[[Postpositivism\|后实证主义]]起源神话的系统证据。 |
+> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 系统梳理政策咨询光谱中航海隐喻对适度改良功能的坚守，以及[[Intercultural Education\|跨文化教育]]一线实践改良进路。 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 梳理比较教育学方法论争鸣，将改良主义置于其与[[Ideology Critique\|意识形态批判]]、严格[[Value Neutrality\|价值中立]]的三元坐标系中定位。 |
 
 ---
 

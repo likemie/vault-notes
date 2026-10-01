@@ -8,7 +8,7 @@ aliases:
 summary: "由沃勒斯坦创立的历史社会学宏观理论，将全球资本主义组织为中心、半边缘和边缘三层分工结构，为比较教育学打破方法论民族主义、揭示跨国教育依附链条与国际援助政治经济学提供了核心批判范式。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 42
+theory_related_count: 41
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Determinism]]"
   - "[[Attrition]]"
-  - "[[Emergence]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Dialectic of the Global and the Local]]"
@@ -189,16 +188,16 @@ updated: 2026-10-01
 > |:-----|:-----|:-------------------|
 > | [[Dependency Theory\|依附理论]] | 理论 | 核心理论渊源；世界体系分析吸收并推进了拉美依附论，构筑了长时段中心-边缘框架。 |
 > | [[World Society Theory\|世界社会理论]] | 理论 | 核心学术论敌；斯坦福新制度主义世界文化流派，主张共识同构，与体系冲突论形成鲜明对照。 |
-> | [[Dialectic of the Global and the Local\|全球与本土的辩证法]] | 理论 | 理论综合推进；[[Robert Arnove\\|阿诺夫]]为克服体系[[Determinism\\|决定论]]，贯通宏观世界体系与微观学校田野的基准[[Paradigm\\|范式]]。 |
-> | [[Methodological Nationalism\|方法论民族主义]] | 概念 | 批判靶标；[[Immanuel Wallerstein\\|沃勒斯坦]]破除将单个国家作为自足单位的[[Epistemology\\|认识论]]盲区。 |
+> | [[Dialectic of the Global and the Local\|全球与本土的辩证法]] | 理论 | 理论综合推进；[[Robert Arnove\|阿诺夫]]为克服体系[[Determinism\|决定论]]，贯通宏观世界体系与微观学校田野的基准[[Paradigm\|范式]]。 |
+> | [[Methodological Nationalism\|方法论民族主义]] | 概念 | 批判靶标；[[Immanuel Wallerstein\|沃勒斯坦]]破除将单个国家作为自足单位的[[Epistemology\|认识论]]盲区。 |
 > | [[Methodological Globalism\|方法论全球主义]] | 概念 | 批评反思；马金森指责世界体系理论将国家尺度完全化约为全球尺度决定的镜像错误。 |
 > | [[Geopolitics of Knowledge\|知识地缘政治]] | 概念 | 应用领域；分析全球学术依附、中心学术出版垄断与本土知识被边缘化的重要参照框架。 |
 > | [[Unit of Analysis\|分析单位]] | 概念 | 方法论核心；确立资本主义世界经济体为基本分析单元，颠覆传统主权国家分析模式。 |
 > | [[Immanuel Wallerstein\|伊曼努尔·沃勒斯坦]] | 人物 | 理论开创宗师；系统构筑现代世界体系理论与长时段历史动力学分析。 |
 > | [[Robert Arnove\|罗伯特·阿诺夫]] | 人物 | 比较教育奠基引介者；率先将世界体系分析引入本学科，揭示跨国教育依附传递链条。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 学科史定性；将世界体系理论确立为第四阶段话语的批判基石，并反思长时段史学悖论。 |
-> | [[Argument_Arnove_2009_WorldSystems\\|Arnove (2009)]] | 论证 | 权威专论；系统总结世界体系分析在比较教育学中的演进、跨国援助解构与本土辩证抗争。 |
-> | [[Argument_Marginson_2025_ECNUROE\\|Marginson (2025)]] | 论证 | 当代批评；以多极化全球科学事实[[Falsification\\|证伪]]零和剩余[[Hypothesis\\|假设]]，倡导国家尺度的相对自主性。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将世界体系理论确立为第四阶段话语的批判基石，并反思长时段史学悖论。 |
+> | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]] | 论证 | 权威专论；系统总结世界体系分析在比较教育学中的演进、跨国援助解构与本土辩证抗争。 |
+> | [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]] | 论证 | 当代批评；以多极化全球科学事实[[Falsification\|证伪]]零和剩余[[Hypothesis\|假设]]，倡导国家尺度的相对自主性。 |
 
 ---
 

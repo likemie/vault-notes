@@ -9,7 +9,7 @@ aliases:
 summary: "安德烈亚斯·卡扎米亚斯用希腊神话普罗透斯隐喻界定的比较教育学认识论特征，指学科在两百余年演进中因应不同时代的认识论、方法论与意识形态风尚而持续变换形态与论述代际"
 type: concept
 domain: "comparative-education"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Comparative History of Comparative Education]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[World-Systems Theory]]"
   - "[[Pluralism]]"
 related_methods:
   - "[[Problem Approach]]"
@@ -171,7 +172,7 @@ updated: 2026-10-01
 > 卡扎米亚斯剖析了比较教育学从启蒙发端至当代演进的内在谱系，论证学科每一次外貌更迭与话语转型都非纯粹内在理论推演，而是与同时期的主流社会科学理论[[Paradigm|范式]]及国家治理诉求紧密共振。
 
 > [!claim] [[Andreas Kazamias|Kazamias, A.]] M.
-> **论述代际的四阶段更迭模型** 比较教育学的发展可以理论化为四大论述代际：第一代为十八世纪末十九世纪初由[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien）开创的[[Proto-Scientific Motif|准科学母题]]以及[[Victor Cousin|库森]]（Victor Cousin）、[[Horace Mann|霍勒斯·曼]]（Horace Mann）等行政官员开创的[[Policy Borrowing|政策借用]][[Educational Meliorism|改良主义]]母题，二者皆直接植根于[[Enlightenment|启蒙运动]]的理性进步观与现代民族国家建构；第二代为二十世纪上半叶由[[Michael Sadler|萨德勒]]（Michael Sadler）、[[Isaac Kandel|坎德尔]]（Isaac Kandel）、汉斯（[[Nicholas Hans]]）和[[Robert Ulich|乌利希]]（Robert Ulich）奠定的历史-哲学与自由人文主义传统，将研究聚焦于民族国家精神、文化传统与民主公民素养，抵制技术官僚化；第三代为 1950 至 1970 年代爆发的实证科学化运动（包括芝加哥学派功能主义、诺亚与埃克斯坦的方法论[[Positivism|实证主义]]、霍姆斯的[[Problem Approach|问题法]]），顺应了战后[[Human Capital Theory|人力资本理论]]、现代化理论以及国家中央计划体制对确定性技术指标的极度渴求；第四代为新马克思主义、韦伯主义与世界体系分析等冲突范式，揭露资本主义国家机器再生产不平等的权力结构。学科正是在这四重代际的更替中展现了如普罗透斯般变幻莫测的理论面貌。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 140–155)]]
+> **论述代际的四阶段更迭模型** 比较教育学的发展可以理论化为四大论述代际：第一代为十八世纪末十九世纪初由[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien）开创的[[Proto-Scientific Motif|准科学母题]]以及[[Victor Cousin|库森]]（Victor Cousin）、[[Horace Mann|霍勒斯·曼]]（Horace Mann）等行政官员开创的[[Policy Borrowing|政策借用]][[Educational Meliorism|改良主义]]母题，二者皆直接植根于[[Enlightenment|启蒙运动]]的理性进步观与现代民族国家建构；第二代为二十世纪上半叶由[[Michael Sadler|萨德勒]]（Michael Sadler）、[[Isaac Kandel|坎德尔]]（Isaac Kandel）、汉斯（[[Nicholas Hans]]）和[[Robert Ulich|乌利希]]（Robert Ulich）奠定的历史-哲学与自由人文主义传统，将研究聚焦于民族国家精神、文化传统与民主公民素养，抵制技术官僚化；第三代为 1950 至 1970 年代爆发的实证科学化运动（包括芝加哥学派功能主义、诺亚与埃克斯坦的方法论[[Positivism|实证主义]]、霍姆斯的[[Problem Approach|问题法]]），顺应了战后[[Human Capital Theory|人力资本理论]]、现代化理论以及国家中央计划体制对确定性技术指标的极度渴求；第四代为新马克思主义、韦伯主义与[[World-Systems Theory|世界体系分析]]等冲突范式，揭露资本主义国家机器再生产不平等的权力结构。学科正是在这四重代际的更替中展现了如普罗透斯般变幻莫测的理论面貌。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 140–155)]]
 
 ---
 
@@ -256,12 +257,12 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Geisteswissenschaften\|精神科学]] | 概念 | 普罗透斯式认识体系的原初[[Epistemology\\|认识论]]母体与跨学科人文科学品格。 |
-> | [[Epistemology\|认识论]] | 概念 | 比较教育学多变形态与[[Theory of Knowledge\\|知识论]]演进的核心哲学基石。 |
+> | [[Geisteswissenschaften\|精神科学]] | 概念 | 普罗透斯式认识体系的原初[[Epistemology\|认识论]]母体与跨学科人文科学品格。 |
+> | [[Epistemology\|认识论]] | 概念 | 比较教育学多变形态与[[Theory of Knowledge\|知识论]]演进的核心哲学基石。 |
 > | [[Knowledge Production\|知识生产]] | 概念 | 揭示不同论述代际在时代政治智识语境中重塑知识生产的动态机制。 |
 > | [[Educational Meliorism\|教育改良主义]] | 概念 | 贯穿普罗透斯各代际的价值红线与政策合法化诉求。 |
 > | [[Enlightenment\|启蒙运动]] | 概念 | 催生第一代准科学与行政改良母题的历史认识论源泉。 |
-> | [[Social Science as Legitimation Alibi\|实证社会科学作为合法化借口]] | 概念 | 战[[Postpositivism\\|后实证主义]]普罗透斯形态沦为政策官僚政治护身符的批判[[Construct\\|构念]]。 |
+> | [[Social Science as Legitimation Alibi\|实证社会科学作为合法化借口]] | 概念 | 战[[Postpositivism\|后实证主义]]普罗透斯形态沦为政策官僚政治护身符的批判[[Construct\|构念]]。 |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 提出普罗透斯式认识体系、系统梳理四重论述代际并诊断历史健忘症的希腊裔泰斗。 |
 > | [[Nicholas Hans\|尼古拉斯·汉斯]] | 人物 | 奠定第二代历史-哲学传统，其广义教育科学概念被卡扎米亚斯奉为普罗透斯认识体系的思想源头。 |
 

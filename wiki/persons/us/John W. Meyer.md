@@ -44,6 +44,7 @@ related_theories:
   - "[[Cultural Models]]"
   - "[[Institutional Isomorphism]]"
   - "[[Dependency Theory]]"
+  - "[[World-Systems Theory]]"
   - "[[Convergence Theory in Comparative Education]]"
 related_methods:
   - "[[Accounts]]"
@@ -56,7 +57,6 @@ related_persons:
   - "[[Aaron Benavot]]"
   - "[[Robert Arnove]]"
   - "[[Immanuel Wallerstein]]"
-  - "[[Gary Thomas]]"
 related_facts:
   - "[[UNESCO]]"
   - "[[OECD]]"
@@ -186,7 +186,7 @@ updated: 2026-10-01
 > [!person-network] 关系网络
 > - **合作者／学派奠基学者** 布赖恩·罗文（Brian Rowan）、约翰·博利（John Boli）、乔治·托马斯（George M. Thomas）、罗纳德·杰珀森（Ronald L. Jepperson）— 共同创立新制度主义组织理论、[[World Society Theory|世界社会理论]]与能动者文化建构理论。
 > - **学生／学术传承者** [[Robert Arnove|罗伯特·阿诺夫]]（早期博士生，后将体系分析引入比较教育学，兼具世界文化与政治经济学双重视野）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、戴维·贝克（David P. Baker）、阿伦·[[Aaron Benavot|贝纳沃特]]（Aaron Benavot）、帕特丽夏·布罗姆利（Patricia Bromley）、戴维·约翰·弗兰克（David John Frank）— 持续拓展[[Stanford School|斯坦福学派]]在跨国教育、人权与大学组织领域的实证研究。
-> - **批评者／学术论敌** [[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]（Wallerstein）、萨米尔·阿明（Samir Amin）— 马克思主义政治经济学与世界体系分析现实主义流派代表，批判迈耶将帝国主义霸权与资本积累的不平等依附掩盖在普遍启蒙理性的世界文化共识之中。
+> - **批评者／学术论敌** [[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]（Wallerstein）、萨米尔·阿明（Samir Amin）— 马克思主义政治经济学与[[World-Systems Theory|世界体系分析]]现实主义流派代表，批判迈耶将帝国主义霸权与资本积累的不平等依附掩盖在普遍启蒙理性的世界文化共识之中。
 > - **机构阵地** 斯坦福大学社会学系（Department of Sociology, Stanford University）、斯坦福教育学院 — 斯坦福新制度主义学派的核心摇篮与全球学术阵地。
 
 ---
@@ -229,12 +229,12 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[World Society Theory\|世界社会理论]] | 理论 | 核心创立者；奠定世界社会由共享[[Cultural Models\\|文化模型]]构成而非中央权威统治的宏观解释传统。 |
+> | [[World Society Theory\|世界社会理论]] | 理论 | 核心创立者；奠定世界社会由共享[[Cultural Models\|文化模型]]构成而非中央权威统治的宏观解释传统。 |
 > | [[Cultural Models\|文化模型]] | 概念 | 提出核心命题；论证源于西方启蒙理性的文化模型是塑造现代国家与学校制度的元脚本。 |
 > | [[Organizational Actorhood\|组织能动者身份]] | 概念 | 合作发展四维度模型；将组织能动者身份界定为世界文化赋予的标准化合法性形式。 |
 > | [[Otherhood\|为他者行动]] | 概念 | 开创性提出；揭示现代组织与专家权威通过“为他者行动”维系去中心化全球秩序的机制。 |
 > | [[Knowledge-Based Economy\|知识经济]] | 概念 | 晚期系统拓展；论证现代研究型大学是全球知识社会的核心制度载体与完全组织典范。 |
 > | [[Epistemic Governance\|知识治理]] | 概念 | 提供理论根基；阐明观念、科学客观性与理性化脚本何以成为全球治理的核心支配机制。 |
-> | [[Robert Arnove\|罗伯特·阿诺夫]] | 人物 | 师生与学术对话；阿诺夫作为其早期学生，既继承其宏观体系视野，又结合[[Dependency Theory\\|依附论]]展开现实主义批判。 |
-> | [[Immanuel Wallerstein\|伊曼努尔·沃勒斯坦]] | 人物 | 学术论敌与对立极；共同构成世界体系分析在比较教育学中的两大对立流派（共识论 vs 冲突论）。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 学科史定性；将迈耶置于第四阶段话语跨国转向，剖析学校作为全球理性神话与学科历史维度的[[Attrition\\|流失]]。 |
+> | [[Robert Arnove\|罗伯特·阿诺夫]] | 人物 | 师生与学术对话；阿诺夫作为其早期学生，既继承其宏观体系视野，又结合[[Dependency Theory\|依附论]]展开现实主义批判。 |
+> | [[Immanuel Wallerstein\|伊曼努尔·沃勒斯坦]] | 人物 | 学术论敌与对立极；共同构成[[World-Systems Theory\|世界体系分析]]在比较教育学中的两大对立流派（共识论 vs 冲突论）。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将迈耶置于第四阶段话语跨国转向，剖析学校作为全球理性神话与学科历史维度的[[Attrition\|流失]]。 |

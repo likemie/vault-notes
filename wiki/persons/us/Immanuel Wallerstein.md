@@ -32,8 +32,8 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Disciplina and Doctrina]]"
 related_theories:
-  - "[[Dependency Theory]]"
   - "[[World-Systems Theory]]"
+  - "[[Dependency Theory]]"
   - "[[Globalization from Below]]"
   - "[[Cultural Models]]"
   - "[[World Society Theory]]"
@@ -66,7 +66,7 @@ updated: 2026-10-01
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国历史社会学家、国际政治经济学家与新马克思主义理论家；曾任国际社会学学会（[[International Schools Association|ISA]]）主席（1994–1998）、纽约州立大学宾汉姆顿分校费尔南·布罗代尔经济、历史体系与文明研究中心主任，以及耶鲁大学资深高级研究学者。
-> - **核心角色** 世界体系分析（World-Systems Analysis, WSA）的开创者；在批判传统现代化理论与拉美[[Dependency Theory|依附论]]静态模型的基础上，以资本主义世界经济的“中心—半边缘—边缘”三层结构和长时段历史动力学重塑了当代宏观社会科学，为比较教育学解构跨国资本积累、援助霸权控制以及教育制度分层固化提供了核心政治经济学支柱。
+> - **核心角色** [[World-Systems Theory|世界体系分析]]（World-Systems Analysis, WSA）的开创者；在批判传统现代化理论与拉美[[Dependency Theory|依附论]]静态模型的基础上，以资本主义世界经济的“中心—半边缘—边缘”三层结构和长时段历史动力学重塑了当代宏观社会科学，为比较教育学解构跨国资本积累、援助霸权控制以及教育制度分层固化提供了核心政治经济学支柱。
 > - **代表贡献** 创立资本主义[[World-Systems Theory|世界体系理论]]；确立长时段（la longue durée）与系统分析的结合；出版四卷本奠基性巨著《现代世界体系》（*The Modern World-System*, 1974, 1980, 1989, 2011）；倡导“反思 19 世纪社会科学”（unthinking nineteenth-century social science），弥合实证规律法则与叙事历史人文学科的二元割裂。
 
 > [!citation-card] 沃勒斯坦论世界体系分析的方法论定位与[[Epistemology|认识论]]批判
@@ -82,7 +82,7 @@ updated: 2026-10-01
 > - **1930** 出生于美国纽约市。
 > - **1950 年代** 在哥伦比亚大学获得社会学学士、硕士与博士学位；其博士论文比较了西非加纳与科特迪瓦自愿社团在民族独立运动中的角色，由此开启长达十余年的非洲政治社会学实地考察。
 > - **1960 年代** 深入非洲实地研究去殖民化进程，目睹第三世界民族国家在政治独立后依然深陷依附与贫困的残酷现实，确立了“所有严肃分析必须同时具有历史性与系统性”（simultaneously historic and systemic）的方法论信念。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 104)]]
-> - **1974** 出版《现代世界体系》第一卷（*The Modern World-System I*），以 16 世纪欧洲资本主义农业与世界经济起源为开篇，正式确立世界体系分析学术[[Paradigm|范式]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 101)]]
+> - **1974** 出版《现代世界体系》第一卷（*The Modern World-System I*），以 16 世纪欧洲资本主义农业与世界经济起源为开篇，正式确立[[World-Systems Theory|世界体系分析]]学术[[Paradigm|范式]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 101)]]
 > - **1976–1999** 在纽约州立大学宾汉姆顿分校创立并主持费尔南·布罗代尔中心，创办《评论》（*Review*）学术期刊，凝聚全球反思资本主义世界经济的批判学者共同体。
 > - **1994–1998** 担任国际社会学学会（[[International Schools Association|ISA]]）主席；领导古本江社会科学重建委员会，发表《开放社会科学》（*Open the Social Sciences*）。
 > - **2019** 在美国康涅狄格州逝世，享年 88 岁。
@@ -99,7 +99,7 @@ updated: 2026-10-01
 >   - **代表著作** *The Modern World-System*（卷一 1974，卷二 1980，卷三 1989）。
 >   - **理论推进** 提出“半边缘（semi-periphery）”缓冲机制，阐释荷兰、英国到美国霸权的兴衰更迭规律，指出孤立国家不是自足实体，资本主义世界经济体本身是唯一真实的[[Unit of Analysis|分析单位]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–105)]]
 > - **1990 年代至今 — 体系终极危机与跨国社会运动替代** 诊断当代全球资本主义面临不可克服的生产与积累危机（终极危机），探索向全球社会民主与正义社会过渡的替代出路。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 113–115)]]
->   - **代表成果** *Unthinking Social Science*（1991）；*The End of the World As We Know It*（1999）；*World-Systems Analysis: An Introduction*（2004）。
+>   - **代表成果** *Unthinking Social Science*（1991）；*The End of the World As We Know It*（1999）；*[[World-Systems Theory|World-Systems Analysis]]: An Introduction*（2004）。
 >   - **核心论断** 数字信息网络打破地理隔绝，促使各国[[Popular Education|民众教育]]网络、原住民与跨国工会结成[[Globalization from Below|自下而上的全球化]]抗争联盟。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 113–114)]]
 
 ---
@@ -119,7 +119,7 @@ updated: 2026-10-01
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 深刻影响了新马克思主义政治经济学、[[Dependency Theory|依附理论]]与发展社会学；在比较教育学中，[[Robert Arnove|罗伯特·阿诺夫]]（Robert Arnove, 1980）将其系统引入，开辟了与[[Stanford School|斯坦福学派]]世界文化论正面对峙的“现实主义世界体系分析”传统。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–106)]]
+> - **理论路径** 深刻影响了新马克思主义政治经济学、[[Dependency Theory|依附理论]]与发展社会学；在比较教育学中，[[Robert Arnove|罗伯特·阿诺夫]]（Robert Arnove, 1980）将其系统引入，开辟了与[[Stanford School|斯坦福学派]]世界文化论正面对峙的“现实主义[[World-Systems Theory|世界体系分析]]”传统。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–106)]]
 > - **方法路径** 倡导“长时段历史分析”与跨国宏微观贯通，促使比较教育研究打破单一国家容器（[[Methodological Nationalism|方法论民族主义]]），将微观学校[[Ethnography|民族志]]与全球资本分工机制相结合。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104, 106–107)]]
 > - **政策与机构批判** 为解构[[World Bank|世界银行]]、[[International Monetary Fund|IMF]] 等多边金融组织以及大型跨国基金会的教育援助政策提供了锐利武器，揭示外部援助固化依附性分层的实质。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]
 
@@ -132,7 +132,7 @@ updated: 2026-10-01
 ## 历史评价
 
 > [!citation-card] [[Robert Arnove|阿诺夫]]论沃勒斯坦长时段动态历史观与体系维度
-> 沃勒斯坦的世界体系分析为比较教育学者提供了同时把握历史情境个殊性与宏观普遍规律的关键工具；他通过考察漫长的 16 世纪资本主义世界经济起源，弥合了具体历史叙事与系统规律分析的深层裂隙。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 104)]]
+> 沃勒斯坦的[[World-Systems Theory|世界体系分析]]为比较教育学者提供了同时把握历史情境个殊性与宏观普遍规律的关键工具；他通过考察漫长的 16 世纪资本主义世界经济起源，弥合了具体历史叙事与系统规律分析的深层裂隙。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 104)]]
 >
 > *Wallerstein's world-systems analysis provided comparative educators with the tools to capture both historical specificity and macro systemic regularities, bridging the gap between narrative history and structural sociology.*
 
@@ -148,7 +148,7 @@ updated: 2026-10-01
 > [!person-network] 关系网络
 > - **师承与思想渊源** 费尔南·布罗代尔（Fernand Braudel） — 法国年鉴学派宗师，为沃勒斯坦提供长时段（longue durée）历史动力学分析基础；卡尔·马克思（Karl Marx） — 资本积累与国际阶级剥削理论来源。
 > - **合作者与同仁** 萨米尔·阿明（Samir Amin）、安德烈·贡德·弗兰克（Andre Gunder Frank）、乔万尼·阿瑞基（Giovanni Arrighi） — 组成世界体系与[[Dependency Theory|依附论]]四人批判网络。
-> - **学术继承与比较教育引入者** [[Robert Arnove|罗伯特·阿诺夫]]（Robert Arnove） — 于 1980 年将沃勒斯坦世界体系分析正式引入比较教育学。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 105)]]
+> - **学术继承与比较教育引入者** [[Robert Arnove|罗伯特·阿诺夫]]（Robert Arnove） — 于 1980 年将沃勒斯坦[[World-Systems Theory|世界体系分析]]正式引入比较教育学。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 105)]]
 > - **学术论敌** [[John W. Meyer|约翰·迈耶]]（John W. Meyer） — [[Stanford School|斯坦福学派]]新制度主义领袖，主张普世理性[[Cultural Models|文化模型]]自发趋同，被沃勒斯坦学派批评掩盖资本积累剥削与阶层不平等。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
 
 ---
@@ -158,7 +158,7 @@ updated: 2026-10-01
 > [!debates] 学术争议
 >
 > > [!axis] 宏观世界体系[[Determinism|决定论]] vs 边缘主体微观抗争能动性
-> > 批评者指出，经典世界体系分析过于强调全球资本积累结构对外围社会的支配性制约，容易将边缘群体和发展中国家降格为消极被动的受害者。
+> > 批评者指出，经典[[World-Systems Theory|世界体系分析]]过于强调全球资本积累结构对外围社会的支配性制约，容易将边缘群体和发展中国家降格为消极被动的受害者。
 > >
 > > - **传统世界体系论** 聚焦宏观资本主义劳动分工对国家上层建筑的结构性塑造。
 > > - **比较教育实证学者（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]; Monkman & Baird, 2002）** 补充提出“全球与本土辩证法”，通过微观案例证明基层教师、乡村青年与草根社会运动始终保持着强大的反抗与重构能动性。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
@@ -182,9 +182,9 @@ updated: 2026-10-01
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[World-Systems Theory\|世界体系理论]] | 理论 | 沃勒斯坦创立的核心宏观理论，奠定中心-半边缘-边缘分析架构。 |
-> | [[Unit of Analysis\|分析单位]] | 概念 | 沃勒斯坦打破[[Methodological Nationalism\\|方法论民族主义]]，确立资本主义世界经济体为基准分析单位。 |
+> | [[Unit of Analysis\|分析单位]] | 概念 | 沃勒斯坦打破[[Methodological Nationalism\|方法论民族主义]]，确立资本主义世界经济体为基准分析单位。 |
 > | [[Dependency Theory\|依附理论]] | 理论 | 沃勒斯坦将拉美依附论吸收并系统推进为具有长时段历史维度的世界体系分析。 |
 > | [[World Society Theory\|世界社会理论]] | 理论 | 沃勒斯坦现实主义冲突论的核心学术论敌，两派形成共识与冲突的鲜明对照。 |
 > | [[Robert Arnove\|罗伯特·阿诺夫]] | 人物 | 奠基性将沃勒斯坦世界体系分析引入比较教育学的关键学者。 |
-> | [[John W. Meyer\|约翰·迈耶]] | 人物 | [[Stanford School\\|斯坦福学派]]代表人物，与沃勒斯坦在比较教育与全球化机制上形成重要辩论。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 学科史定性；将沃勒斯坦置于第四阶段跨国宏观批判奠基地位，剖析长时段社会学与学科历史健忘症的悖论。 |
+> | [[John W. Meyer\|约翰·迈耶]] | 人物 | [[Stanford School\|斯坦福学派]]代表人物，与沃勒斯坦在比较教育与全球化机制上形成重要辩论。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将沃勒斯坦置于第四阶段跨国宏观批判奠基地位，剖析长时段社会学与学科历史健忘症的悖论。 |

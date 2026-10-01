@@ -373,11 +373,11 @@ updated: 2026-10-01
 > | [[Professional Judgment\|专业判断]] | 概念 | 当价值中立的技术数据被绝对化时，教师基于教育情境的专业伦理判断力遭到系统性剥夺。 |
 > | [[Evaluation Research\|评估研究]] | 概念 | 将价值处理列为区分纯学术研究（追求普遍中立）与实践评估（系统呈现多方利益价值）的界标。 |
 > | [[Critical Pedagogy\|批判教育学]] | 概念 | 彻底撕下价值中立的伪善面具，主张教育探究必须旗帜鲜明地投身于反压迫与社会正义。 |
-> | [[Politicity of Education\|教育的政治性]] | 概念 | 与价值中立正面冲突的批判[[Ontology\\|本体论]]命题，揭示教育在认识论、分析与伦理维度天然内嵌于权力政治。 |
+> | [[Politicity of Education\|教育的政治性]] | 概念 | 与价值中立正面冲突的批判[[Ontology\|本体论]]命题，揭示教育在认识论、分析与伦理维度天然内嵌于权力政治。 |
 > | [[Social Science as Legitimation Alibi\|实证社会科学作为合法化借口]] | 概念 | 价值中立被技术官僚工具化为行政免责与政治辩护的伪客观外衣。 |
-> | [[Carol Weiss\|卡罗尔·韦斯]] | 人物 | 经典[[Policy Science in Comparative Education\\|政策科学]]理论家，提出“政策制定关乎价值”、“研究主要充当政治合法化燃料而非引擎”等核心洞见。 |
+> | [[Carol Weiss\|卡罗尔·韦斯]] | 人物 | 经典[[Policy Science in Comparative Education\|政策科学]]理论家，提出“政策制定关乎价值”、“研究主要充当政治合法化燃料而非引擎”等核心洞见。 |
 > | [[Carlos Alberto Torres\|卡洛斯·阿尔贝托·托雷斯]] | 人物 | 批判教育学者，深刻解构教育政策的技术中立修辞，揭示其背后隐匿的国家理论与资本积累矛盾。 |
 > | [[Liliana Esther Olmos\|莉莉安娜·埃丝特·奥尔莫斯]] | 人物 | 与托雷斯合作剖析新自由主义教育改革中伪价值中立话语的阶级策略本质。 |
 > | [[Martin Carnoy\|马丁·卡诺伊]] | 人物 | 运用国家矛盾理论，揭示实证主义“价值中立”模型掩盖阶级剥削与再生产的意识形态本质。 |
-> | [[Argument_Rust_2009_Reflections\\|Rust et al. (2009)]] | 论证 | 梳理比较教育学方法论争鸣中卡扎米亚斯关于改良主义、[[Ideology Critique\\|意识形态批判]]与严格价值中立的三重轴线。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 历史考证比较教育四重代际，批判实证主义对价值中立的机械迷信及其作为政治借口的工具化异化。 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 梳理比较教育学方法论争鸣中卡扎米亚斯关于改良主义、[[Ideology Critique\|意识形态批判]]与严格价值中立的三重轴线。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 历史考证比较教育四重代际，批判实证主义对价值中立的机械迷信及其作为政治借口的工具化异化。 |

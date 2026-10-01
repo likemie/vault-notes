@@ -11,7 +11,7 @@ aliases:
 summary: "19世纪末由德国哲学家威廉·狄尔泰系统奠基的人文与社会研究知识传统。主张精神科学（以历史、文化、社会与教育为对象）与自然科学具有根本的认识论分野：自然科学旨在通过外在因果规律“说明”自然现象，而精神科学则通过生命体验的内在重构与历史脉络进行“理解”与“解释”。安德烈亚斯·卡扎米亚斯将其视为比较教育学作为普罗透斯式认识体系的核心学术母体，揭示其实证主义放逐所导致的历史健忘症危机。"
 type: concept
 domain: "educational-philosophy"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -58,6 +58,7 @@ related_concepts:
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Situative Perspective]]"
+  - "[[World-Systems Theory]]"
 related_methods:
   - "[[Philosophical Analysis in Education]]"
   - "[[Historical-Comparative Method]]"
@@ -226,7 +227,7 @@ updated: 2026-10-01
 > - **1900 年 — [[Michael Sadler|萨德勒]]牛津演讲确立文化[[Situative Perspective|情境主义]]** 萨德勒提出探寻学校门外[[Intangible Spiritual Forces|无形精神力量]]的原则，将精神科学的整体论视角引入英美跨国教育考察。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–142)]]
 > - **1920s–1950s — 精神科学教育学与比较教育历史-哲学学派黄金期** 欧陆诺尔与斯普朗格建立精神科学教育学；[[Isaac Kandel|坎德尔]]、汉斯、[[Robert Ulich|乌利希]]与施奈德将精神科学的历史主义与理念史分析确立为成熟学术学科的核心范式。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 143–144)]]
 > - **1950s–1970s — 战后经验实证化风潮与精神科学传统的遭遇边缘化** 诺亚、埃克斯坦、安德森与福斯特等倡导跨国量化[[Variable|变量]]检验与结构功能主义，指责精神科学传统为缺乏预测力的前科学，学科陷入[[Empiricism|唯方法论主义]]与技术官僚效能控制。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 144–151)]]
-> - **1970s–1990s — 批判冲突范式兴起与实证神话瓦解** 新马克思主义、世界体系分析与依赖理论解构[[Positivism|实证主义]]的[[Value Neutrality|价值中立]]神话，重新激活了历史唯物主义制度溯源的人文批判锋芒。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–155)]]
+> - **1970s–1990s — 批判冲突范式兴起与实证神话瓦解** 新马克思主义、[[World-Systems Theory|世界体系分析]]与依赖理论解构[[Positivism|实证主义]]的[[Value Neutrality|价值中立]]神话，重新激活了历史唯物主义制度溯源的人文批判锋芒。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–155)]]
 > - **世纪之交 — 历史健忘症危机与精神科学传统重申** 面对量化测评指标（[[PISA]]）席卷与历史维度的严重[[Attrition|流失]]，卡扎米亚斯与米特等学者呼吁找回精神科学的历史阐释灵魂，重构历史学与社会科学的理性综合。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 155–156)]]
 
 ---
@@ -262,18 +263,18 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Epistemology\|认识论]] | 概念 | 精神科学为社会与教育探究提供了独立于自然科学[[Empiricism\\|经验论]]的核心认识论合法性。 |
+> | [[Epistemology\|认识论]] | 概念 | 精神科学为社会与教育探究提供了独立于自然科学[[Empiricism\|经验论]]的核心认识论合法性。 |
 > | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 比较教育学作为普罗透斯式认识体系，其精神科学底蕴决定了其跨学科与时代变形特征。 |
 > | [[Educational Meliorism\|教育改良主义]] | 概念 | 精神科学学者将外国探究转化为涵养本土哲学态度与民主自省的历史改良主义。 |
-> | [[Historical-Comparative Method\|历史比较法]] | 方法 | 精神科学在比较教育中的直接方法论[[Avatar\\|化身]]，依托解释学与档案考掘产出工作假说。 |
+> | [[Historical-Comparative Method\|历史比较法]] | 方法 | 精神科学在比较教育中的直接方法论[[Avatar\|化身]]，依托解释学与档案考掘产出工作假说。 |
 > | [[Bildung\|教养]] | 概念 | 德语精神科学教育学的价值内核，聚焦个体生命的完整教化与理性自主。 |
-> | [[Allgemeine Pädagogik\|普通教育学]] | 概念 | 欧陆普通教育学母体，以精神科学为学统根基抵抗功利化技能[[Disciplina and Doctrina\\|规训]]。 |
-> | [[Positivism\|实证主义]] | 概念 | 精神科学的核心论敌，倡导科学一元论与[[Value Neutrality\\|价值无涉]]，战后曾对精神科学发起猛烈清洗。 |
-> | [[National Character\|国民性]] | 概念 | 精神科学传统在第二代比较教育中广泛运用的解释[[Construct\\|构念]]，探寻深层文化心理。 |
+> | [[Allgemeine Pädagogik\|普通教育学]] | 概念 | 欧陆普通教育学母体，以精神科学为学统根基抵抗功利化技能[[Disciplina and Doctrina\|规训]]。 |
+> | [[Positivism\|实证主义]] | 概念 | 精神科学的核心论敌，倡导科学一元论与[[Value Neutrality\|价值无涉]]，战后曾对精神科学发起猛烈清洗。 |
+> | [[National Character\|国民性]] | 概念 | 精神科学传统在第二代比较教育中广泛运用的解释[[Construct\|构念]]，探寻深层文化心理。 |
 > | [[Wilhelm Dilthey\|威廉·狄尔泰]] | 人物 | 精神科学哲学奠基人，确立自然说明与精神理解的认识论鸿沟。 |
-> | [[Michael Sadler\|迈克尔·萨德勒]] | 人物 | 开启比较教育文化[[Situative Perspective\\|情境主义]]转向，提炼[[Intangible Spiritual Forces\\|无形精神力量]]命题。 |
+> | [[Michael Sadler\|迈克尔·萨德勒]] | 人物 | 开启比较教育文化[[Situative Perspective\|情境主义]]转向，提炼[[Intangible Spiritual Forces\|无形精神力量]]命题。 |
 > | [[Isaac Kandel\|艾萨克·坎德尔]] | 人物 | 历史-哲学学派大师，确立政体决定学校形态与民主抵御极权传统。 |
-> | [[Nicholas Hans\|尼古拉斯·汉斯]] | 人物 | 提出自然、宗教与世俗三大历史[[Factorial Interpretive Framework\\|因素分析框架]]。 |
+> | [[Nicholas Hans\|尼古拉斯·汉斯]] | 人物 | 提出自然、宗教与世俗三大历史[[Factorial Interpretive Framework\|因素分析框架]]。 |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 阐发比较教育学作为精神科学的普罗透斯认识体系，批判唯方法论主义并诊断历史健忘症。 |
 > | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 系统梳理欧洲比较教育学中精神科学传统的发生学脉络与制度演进。 |
 

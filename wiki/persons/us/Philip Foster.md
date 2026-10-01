@@ -206,13 +206,13 @@ updated: 2026-10-01
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[C. Arnold Anderson\|阿诺德·安德森]] | 人物 | 芝加哥大学比较教育研究中心主任与福斯特导师，共同奠定实证社会学学派。 |
-> | [[Scientific Paradigm\|比较教育学科学范式]] | 概念 | 战后推动比较教育向经验社会科学转型的核心[[Paradigm\\|范式]]，主张探寻恒常制度规律。 |
+> | [[Scientific Paradigm\|比较教育学科学范式]] | 概念 | 战后推动比较教育向经验社会科学转型的核心[[Paradigm\|范式]]，主张探寻恒常制度规律。 |
 > | [[Social Science as Legitimation Alibi\|实证社会科学作为合法化借口]] | 概念 | 卡扎米亚斯批判第三代际实证社会科学充当国家规划与技术援助的合法化外衣。 |
 > | [[Human Capital Theory\|人力资本理论]] | 理论 | 芝加哥学派密切结合的经济学理论，视学校教育为人力资源配置的核心载体。 |
 > | [[Historical-Comparative Method\|历史比较法]] | 方法 | 福斯特批判的传统方法，促使比较史学派反思并重建历史解释的科学性。 |
 > | [[Comparative Education Center at Chicago 1958\|芝加哥大学比较教育中心]] | 事实 | 福斯特担任副主任并开展长期跨国实证调查的学术大本营。 |
 > | [[Comparative and International Education Society\|比较与国际教育学会]] | 事实 | 1979–1980 年出任学会会长，巩固实证社会学在北美学会的权威地位。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 确立福斯特在第三论述代际结构功能主义与合法化借口分析中的关键地位。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 确立福斯特在第三论述代际结构功能主义与合法化借口分析中的关键地位。 |
 
 ---
 

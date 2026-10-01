@@ -284,15 +284,15 @@ updated: 2026-10-01
 > 
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]] | 概念 | 开创以[[Intangible Spiritual Forces\\|校外无形精神力量]]与活体有机体为核心的历史-文化研究母题。 |
+> | [[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]] | 概念 | 开创以[[Intangible Spiritual Forces\|校外无形精神力量]]与活体有机体为核心的历史-文化研究母题。 |
 > | [[National Character\|国民性]] | 概念 | 将国民性格作为解释国家教育制度独特性与内在效能的深层依据。 |
 > | [[Historical-Comparative Method\|历史比较法]] | 方法 | 确立历史演化与深层文化考据优于纯统计数字调查的方法论传统。 |
 > | [[Policy Borrowing\|政策借用]] | 概念 | 首次系统提出情境不可移植假说，奠定了反机械化借用的规范方法论边界。 |
 > | [[Cross-National Attraction\|跨国吸引]] | 概念 | 指出国家工业实力竞争构成了向他者学习和跨国政策吸引的核心地缘心理机制。 |
 > | [[Unit of Analysis\|分析单位]] | 概念 | 首次系统将民族国家整体教育系统（而非孤立的个别学校）确立为跨国比较的核心分析单位。 |
 > | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 作为第二论述代际核心奠基人，其历史哲学思想折射了比较教育认识体系在 20 世纪初的形态流变。 |
-> | [[Wight's Three Traditions of International Theory\|怀特国际理论三大传统]] | 理论 | 作为[[Realism in International Relations\\|现实主义]]思想在比较教育实践中的最典型代拟节点，论证了学术如何服务于地缘政治自保。 |
-> | [[OECD\|经济合作与发展组织]] | 政策 | 萨德勒建立的国家竞争力调查模型，在数十年后被重塑为以基准测试为主导的多边[[Governing at a Distance\\|远处治理]]技术。 |
-> | [[Wolfgang Mitter\\|沃尔夫冈·米特]] | 人物 | 阐述萨德勒在英国率先开创大学比较教育教席、推动特别调查与报告办公室建制化的学术史地位。[[Argument_Mitter_2009_Europe\\|(Mitter, 2009, pp. 88, 89–90)]] |
-> | [[Argument_Mitter_2009_Europe\\|Mitter (2009)]] | 论证 | 梳理欧洲比较教育学科演进中萨德勒创设 [[Office of Special Inquiries and Reports\\|OSIR]]、以德国为核心参照系推动比较教育大学建制化的历史贡献。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 系统阐发萨德勒 1900 年牛津演讲如何终结第一代[[Scholiocentric Approach\\|以校为中心]]的行政借用，奠定以民族系统为分析单位的第二代自由人文代际。 |
+> | [[Wight's Three Traditions of International Theory\|怀特国际理论三大传统]] | 理论 | 作为[[Realism in International Relations\|现实主义]]思想在比较教育实践中的最典型代拟节点，论证了学术如何服务于地缘政治自保。 |
+> | [[OECD\|经济合作与发展组织]] | 政策 | 萨德勒建立的国家竞争力调查模型，在数十年后被重塑为以基准测试为主导的多边[[Governing at a Distance\|远处治理]]技术。 |
+> | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 阐述萨德勒在英国率先开创大学比较教育教席、推动特别调查与报告办公室建制化的学术史地位。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 88, 89–90)]] |
+> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 梳理欧洲比较教育学科演进中萨德勒创设 [[Office of Special Inquiries and Reports\|OSIR]]、以德国为核心参照系推动比较教育大学建制化的历史贡献。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 系统阐发萨德勒 1900 年牛津演讲如何终结第一代[[Scholiocentric Approach\|以校为中心]]的行政借用，奠定以民族系统为分析单位的第二代自由人文代际。 |

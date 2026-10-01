@@ -7,7 +7,7 @@ summary: "希腊裔比较教育学者，倡导历史和人文主义视角与普�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 52
+person_related_count: 51
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -45,7 +45,6 @@ related_concepts:
   - "[[Comparative History of Comparative Education]]"
   - "[[Four Forms of Understanding of Comparative Education]]"
   - "[[Empiricism]]"
-  - "[[Scientific Paradigm]]"
 related_theories:
   - "[[Pluralism]]"
   - "[[Postmodernism]]"
@@ -244,13 +243,13 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]] | 概念 | 系统梳理[[Michael Sadler\\|萨德勒]]、[[Isaac Kandel\\|坎德尔]]、[[Nicholas Hans\\|汉斯]]与[[Robert Ulich\\|乌利希]]的思想谱系，重构历史人文主义母题的现代价值。 |
-> | [[National Character\|国民性]] | 概念 | 从史学严谨性视角批判国民性[[Construct\\|构念]]的同义反复与证据虚妄。 |
-> | [[Historical-Comparative Method\|历史比较法]] | 方法 | 论证历史经验研究由特殊归纳工作[[Hypothesis\\|假设]]的正当性，捍卫广义人文科学的[[Epistemology\\|认识论]]尊严。 |
+> | [[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]] | 概念 | 系统梳理[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、[[Nicholas Hans\|汉斯]]与[[Robert Ulich\|乌利希]]的思想谱系，重构历史人文主义母题的现代价值。 |
+> | [[National Character\|国民性]] | 概念 | 从史学严谨性视角批判国民性[[Construct\|构念]]的同义反复与证据虚妄。 |
+> | [[Historical-Comparative Method\|历史比较法]] | 方法 | 论证历史经验研究由特殊归纳工作[[Hypothesis\|假设]]的正当性，捍卫广义人文科学的[[Epistemology\|认识论]]尊严。 |
 > | [[Comparative History of Comparative Education\|比较教育学的比较史]] | 概念 | 主编 2009 手册创建卷，确立每一代人必须重写其历史的历史诠释学基石。 |
 > | [[Four Forms of Understanding of Comparative Education\|比较教育的四种理解形式]] | 概念 | 归属于求同存异传统，以历史与情境为核心代码解释教育体系的多样性。 |
 > | [[Comparative Education Society in Europe\|欧洲比较教育学会]] | 事实 | 担任学会荣誉会员，在欧洲比较教育学界维系历史与人文主义思想脉络。 |
-> | [[Val D. Rust\|瓦尔·D·拉斯特]] | 人物 | 阐述卡扎米亚斯在历史人文主义奠基谱系与结构功能主义解析中的关键坐标。[[Argument_Rust_2009_Reflections\\|(Rust et al., 2009, pp. 122–123)]] |
-> | [[Argument_Rust_2009_Reflections\\|Rust et al. (2009)]] | 论证 | 征引卡扎米亚斯关于结构功能主义、[[Educational Meliorism\\|改良主义]]改造社会抱负与方法论价值抉择的论断。 |
-> | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 借用希腊神话普罗透斯隐喻界定比较教育学多学科[[Geisteswissenschaften\\|人文科学]]特质与四重论述代际更迭规律。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 系统反思学科四重论述代际演进，批判[[Empiricism\\|唯方法论主义]]，诊断历史健忘症并确立历史与社科综合纲领。 |
+> | [[Val D. Rust\|瓦尔·D·拉斯特]] | 人物 | 阐述卡扎米亚斯在历史人文主义奠基谱系与结构功能主义解析中的关键坐标。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 122–123)]] |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 征引卡扎米亚斯关于结构功能主义、[[Educational Meliorism\|改良主义]]改造社会抱负与方法论价值抉择的论断。 |
+> | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 借用希腊神话普罗透斯隐喻界定比较教育学多学科[[Geisteswissenschaften\|人文科学]]特质与四重论述代际更迭规律。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 系统反思学科四重论述代际演进，批判[[Empiricism\|唯方法论主义]]，诊断历史健忘症并确立历史与社科综合纲领。 |

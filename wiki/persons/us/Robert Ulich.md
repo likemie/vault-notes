@@ -248,12 +248,12 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]] | 概念 | 将母题充实为以人（anthropos）为中心的古典[[Bildung\\|教化]]哲学与西方文化史分期。 |
+> | [[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]] | 概念 | 将母题充实为以人（anthropos）为中心的古典[[Bildung\|教化]]哲学与西方文化史分期。 |
 > | [[Historical-Comparative Method\|历史比较法]] | 方法 | 实践了将西方精神运动与多国制度发生史深度熔铸的历史叙事路径。 |
 > | [[Democratic Education\|民主教育]] | 概念 | 将社会民主价值信念融入历史叙事，抵御极权统治与工具理性异化。 |
 > | [[Liberal Education\|自由教育]] | 概念 | 乌利希教育哲学的核心支柱，作为抵御极权主义与技术功利主义的精神防线。 |
-> | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 乌利希历史比较哲学所依托的多维流变认识[[Paradigm\\|范式]]，贯通文明史、哲学与社会民主价值。 |
-> | [[Unit of Analysis\|分析单位]] | 概念 | 第二代际将国家教育系统作为嵌入在深厚文化与[[National Character\\|民族性格]]中的整体分析单位。 |
-> | [[Val D. Rust\|瓦尔·D·拉斯特]] | 人物 | 阐述乌利希在比较教育两百年历史人文奠基谱系中的坐标。[[Argument_Rust_2009_Reflections\\|(Rust et al., 2009, pp. 122–123)]] |
-> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 将乌利希确立为第二论述代际（历史-哲学与自由人文主义）核心代表，并反思实证派对其传统的边缘化。 |
-> | [[Argument_Rust_2009_Reflections\\|Rust et al. (2009)]] | 论证 | 将乌利希确认为奠定比较教育学科根基的历史人文主义核心奠基人。 |
+> | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 乌利希历史比较哲学所依托的多维流变认识[[Paradigm\|范式]]，贯通文明史、哲学与社会民主价值。 |
+> | [[Unit of Analysis\|分析单位]] | 概念 | 第二代际将国家教育系统作为嵌入在深厚文化与[[National Character\|民族性格]]中的整体分析单位。 |
+> | [[Val D. Rust\|瓦尔·D·拉斯特]] | 人物 | 阐述乌利希在比较教育两百年历史人文奠基谱系中的坐标。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 122–123)]] |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 将乌利希确立为第二论述代际（历史-哲学与自由人文主义）核心代表，并反思实证派对其传统的边缘化。 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 将乌利希确认为奠定比较教育学科根基的历史人文主义核心奠基人。 |
