@@ -28,6 +28,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
+  - "[[National Institutes of Health]]"
   - "[[World Bank]]"
   - "[[National Science Foundation]]"
   - "[[ICMJE Data Sharing Requirements 2018]]"
@@ -45,7 +46,7 @@ title: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_key: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_display_title: "Data: Access, generation, use"
 argument_kind: "book"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -91,7 +92,7 @@ citation_aliases:
 
 "数据"一词在字典、联邦法规、资助方政策和产学协议中均无统一定义。Merriam-Webster 词典提供三个义项：作为推理讨论基础的事实信息（如测量数据或统计数据）、可传输或处理的数字形式信息、以及传感设备输出的信息（须经处理才能有意义）(p.290)。
 
-联邦法规的定义因机构使命而异。美国国立卫生研究院（National Institutes of Health, NIH）定义数据为"记录信息，无论形式或媒介"，并列出大量数据登记库。国防部则专门定义"技术数据"为"科学或技术性质的记录信息"，其中软件文档属于技术数据但软件本身不属于。教育部定义"教育记录"须同时满足两个条件：与学生直接相关，以及由教育机构或其代理方维护。教育记录的定义和监管由《家庭教育权利和隐私法案》（Family Educational Rights and Privacy Act, FERPA）专门规定(pp.290–291)。
+联邦法规的定义因机构使命而异。[[National Institutes of Health|美国国立卫生研究院]]（National Institutes of Health, NIH）定义数据为"记录信息，无论形式或媒介"，并列出大量数据登记库。国防部则专门定义"技术数据"为"科学或技术性质的记录信息"，其中软件文档属于技术数据但软件本身不属于。教育部定义"教育记录"须同时满足两个条件：与学生直接相关，以及由教育机构或其代理方维护。教育记录的定义和监管由《家庭教育权利和隐私法案》（Family Educational Rights and Privacy Act, FERPA）专门规定(pp.290–291)。
 
 在[[University-Industry Collaboration|产学合作]]的实践中，[[University Industry Demonstration Partnership|UIDP]] Contract Accord 14(2020)提供了更适用的定义："数据指由一方在定义条件下提供给另一方使用的一组记录信息"(p.290)。
 
@@ -245,7 +246,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success]
-> 产学协议中数据的根本问题不是技术性的，而是定义性的。联邦法规（NIH、DoD、ED）、行业标准（[[University Industry Demonstration Partnership\|UIDP]]）和普通字典提供了互不兼容的"数据"定义。缺乏统一定义导致数据在协议中被泛化地归入知识产权、发明或保密信息的宽泛范畴，丧失了作为独立议题被精确界定的机会(pp.290–292)。
+> 产学协议中数据的根本问题不是技术性的，而是定义性的。联邦法规（[[National Institutes of Health|NIH]]、DoD、ED）、行业标准（[[University Industry Demonstration Partnership\|UIDP]]）和普通字典提供了互不兼容的"数据"定义。缺乏统一定义导致数据在协议中被泛化地归入知识产权、发明或保密信息的宽泛范畴，丧失了作为独立议题被精确界定的机会(pp.290–292)。
 
 > [!success]
 > "数据所有权"是一个法律上的错误框架。[[Clinical Trial\|临床试验]]数据作为事实不可被任何人拥有。数据库虽可作为汇编受版权保护，但数据库的版权保护的是"选择与安排"而非事实本身。产学协议应将谈判焦点从所有权转移到使用权的界定：大学保留研究、发表和教育的权利，企业获得商业开发的权利，双方在时间（排他期）和范围（具体目的）上约定使用权的边界(pp.292–293)。

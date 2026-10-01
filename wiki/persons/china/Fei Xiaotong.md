@@ -7,7 +7,7 @@ summary: "中国著名人类学家与社会学家，提出了中华民族多元�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,7 +26,8 @@ related_concepts:
   - "[[Second-generation Ethnic Policy]]"
   - "[[Boarding Schools]]"
   - "[[Official Knowledge]]"
-related_theories: []
+related_theories:
+  - "[[Structural Functionalism]]"
 related_methods:
   - "[[Fieldwork]]"
   - "[[Ethnography]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-25'
-updated: 2026-09-17
+updated: 2026-10-01
 ---
 
 # Fei Xiaotong
@@ -101,7 +102,7 @@ updated: 2026-09-17
 ### 差序格局与社会整合
 
 - **波纹状社会网络** 中国传统社会的关系建立在以个人为中心的亲属与地缘网络之上，如同石头投向水面产生的波纹，由近及远、由亲及疏地向外推移。
-- **结构功能主义与冲突整合** 费孝通的整合论述受马克斯·格卢克曼（Max Gluckman, 1940）冲突整合理论影响，主张族群间的历史冲突与摩擦并不导致解体，反而充当了一种将各方锁定在更紧密共同体中的整合机制[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 105)]]。
+- **[[Structural Functionalism|结构功能主义]]与冲突整合** 费孝通的整合论述受马克斯·格卢克曼（Max Gluckman, 1940）冲突整合理论影响，主张族群间的历史冲突与摩擦并不导致解体，反而充当了一种将各方锁定在更紧密共同体中的整合机制[[Argument_Bulag_2024_CE|(Bulag, 2024, p. 105)]]。
 
 ---
 

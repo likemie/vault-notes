@@ -10,7 +10,7 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度起源�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 55
+method_related_count: 58
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Research Question]]"
+  - "[[Working Hypothesis]]"
   - "[[Whiggism]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Document]]"
@@ -39,6 +40,7 @@ related_concepts:
   - "[[National Character]]"
   - "[[Construct]]"
   - "[[Theoretical Perspective]]"
+  - "[[Historical Amnesia]]"
   - "[[Empiricism]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
@@ -66,6 +68,7 @@ related_persons:
   - "[[Crane Brinton]]"
   - "[[Oskar Anweiler]]"
   - "[[Nicholas Hans]]"
+  - "[[Marianne Larsen]]"
   - "[[Val D. Rust]]"
   - "[[Andreas Kazamias]]"
   - "[[Wolfgang Mitter]]"
@@ -134,7 +137,7 @@ updated: 2026-10-01
 > 2. **系统检索与鉴别多源史料** 全面搜集立法文本、官方考察报告、统计档案与经典论著。
 > 3. **因素解构与内在因果推导** 将制度演变拆解为政治政体、宗教传统、经济转型与文化思想等多维结构力量。
 > 4. **跨国横向矩阵对照** 识别不同国家面对相似历史挑战时的制度应对方案异同。
-> 5. **提炼中程非普适探索性假说** 形成兼具经验具体性与理论抽象性的解释命题并投射至新情境中反哺检验。
+> 5. **提炼中程非普适[[Working Hypothesis|探索性假说]]** 形成兼具经验具体性与理论抽象性的解释命题并投射至新情境中反哺检验。
 
 ### 质性方法模块
 
@@ -198,12 +201,12 @@ updated: 2026-10-01
 >   - **[[Whiggism\|辉格史观]]（Whiggism）** 容易以当代民主改良的应然愿望裁剪复杂的历史实然事实，造成史料的偏颇解读（Butterfield, 1931; Kazamias, 1961）；
 >   - **[[National Character\|国民性格]]（[[National Character]]）[[Construct\|构念]]滥用** 易将复杂的阶级政治与制度利益博弈轻率归咎于虚无飘渺的心理特质，陷入同义反复的套套逻辑；
 >   - **[[Document\|文献]]幸存者偏误** 留存至今的历史档案多出自官方精英与行政机构，容易遮蔽基层教师、边缘群体与弱势阶层的真实教育体验。
-> - **适用边界** 提炼出的理论概括属于“非普适探索性假说”，其解释力严格依附于特定的时空情境与制度母体，不能直接外推为普适规律。
+> - **适用边界** 提炼出的理论概括属于“非普适[[Working Hypothesis|探索性假说]]”，其解释力严格依附于特定的时空情境与制度母体，不能直接外推为普适规律。
 > - **误用风险** 在缺乏扎实史料支撑时，极易退化为主观臆断与缺乏证据基础的宏大玄想，招致实证学派关于“涉嫌神秘主义”的严厉指责（Epstein, 1970）。
 > - **补救方式** 坚持[[Primary and Secondary Documents\|一手文献]]与二手研究的多重[[Triangulation\|三角互证]]；公开反思研究者的价值前设与[[Theoretical Perspective\|理论视角]]；引入中程社会学理论规范因果机制推导。
 
-> [!danger] 当代危机与学科“历史健忘症”（Historical Amnesia）
-> 20 世纪下半叶经验[[Positivism|实证主义]]与[[Empiricism|唯方法论主义]]的兴起，使历史比较法遭遇严重的边缘化危机。实证学派指责历史法依赖个人主观洞见、缺乏可[[Operationalization|操作化]][[Variable|变量]]与假说检验规程，贬低其为“前科学”（Noah & Eckstein, 1969）。玛丽安·拉森（Marianne Larsen, 2001）与[[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust et al., 1999）对英美三大旗舰学术期刊（《比较教育评论》[Comparative Education Review, CER]、《比较教育》[Comparative Education, CE]、《[[International Education|国际教育]]发展杂志》[International Journal of Educational Development, IJED]）长达四十年的文献计量[[Content Analysis|内容分析]]证实，历史比较研究论文的占比从 1955–1994 年间的 10.5% 断崖式下跌至 1985–1995 年间的不足 5%。学科在沉醉于去情境化的现时性政策与纯量化调查的同时，付出了近乎彻底放逐历史维度的沉重[[Epistemology|认识论]]代价，患上了严重的“历史健忘症”。[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）疾呼必须通过历史学与社会科学的理性综合，重申历史比较法在破除技术工具主义、维系批判理性与人文底蕴方面的不可替代性。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 151–152, 155–156)]]
+> [!danger] 当代危机与学科“[[Historical Amnesia|历史健忘症]]”（Historical Amnesia）
+> 20 世纪下半叶经验[[Positivism|实证主义]]与[[Empiricism|唯方法论主义]]的兴起，使历史比较法遭遇严重的边缘化危机。实证学派指责历史法依赖个人主观洞见、缺乏可[[Operationalization|操作化]][[Variable|变量]]与假说检验规程，贬低其为“前科学”（Noah & Eckstein, 1969）。[[Marianne Larsen|玛丽安·拉森]]（Marianne Larsen, 2001）与[[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust et al., 1999）对英美三大旗舰学术期刊（《比较教育评论》[Comparative Education Review, CER]、《比较教育》[Comparative Education, CE]、《[[International Education|国际教育]]发展杂志》[International Journal of Educational Development, IJED]）长达四十年的文献计量[[Content Analysis|内容分析]]证实，历史比较研究论文的占比从 1955–1994 年间的 10.5% 断崖式下跌至 1985–1995 年间的不足 5%。学科在沉醉于去情境化的现时性政策与纯量化调查的同时，付出了近乎彻底放逐历史维度的沉重[[Epistemology|认识论]]代价，患上了严重的“历史健忘症”。[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）疾呼必须通过历史学与社会科学的理性综合，重申历史比较法在破除技术工具主义、维系批判理性与人文底蕴方面的不可替代性。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 151–152, 155–156)]]
 
 ---
 
@@ -217,7 +220,7 @@ updated: 2026-10-01
 > |:-----|:-----|:-----|
 > | [[Positivism\|实证主义]] | 理论/范式 | 历史比较法的主要论敌；实证学派曾指责历史法为缺乏预测力的前科学，历史法对此展开强力反思与抗辩。 |
 > | [[Postpositivism\|后实证主义]] | 理论/范式 | 历史比较法的现代[[Epistemology\|认识论]]基石；通过恢复德语广义科学（*Wissenschaft*）观与可错主义，确立其科学合法性。 |
-> | [[Hypothesis\|假设]] | 概念 | 核心产出构件；历史比较法产出的是中程“非普适探索性假说”，在个殊与一般之间建立循环解释。 |
+> | [[Hypothesis\|假设]] | 概念 | 核心产出构件；历史比较法产出的是中程“非普适[[Working Hypothesis\|探索性假说]]”，在个殊与一般之间建立循环解释。 |
 > | [[National Character\|国民性]] | 概念 | 经典解释[[Construct\|构念]]；历史比较学派早期将其作为[[Independent Variable\|自变量]]，战后经历了严密的方法论解构与反思。 |
 > | [[Qualitative Research\|质性研究]] | 方法 | 上位方法族系；历史比较法代表了宏观质性与历史比较分析的经典范式。 |
 > | [[Case Study\|个案研究]] | 方法 | 支撑方法；历史比较法的多国横向对比往往建立在深入扎实的国别案例追踪之上。 |
@@ -238,4 +241,4 @@ updated: 2026-10-01
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 运用比较史学方法剖析比较教育学科史编纂面临的档案隐蔽与材料匮乏困境，提出“[[Comparative History of Comparative Education|比较教育学的比较史]]”。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — [[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter）运用历史比较与学科史制度分析，以“多样性与统一性”辩证法为宏观历史框架，系统梳理欧洲比较教育学跨越两个世纪的大学教席地理分布、学术学会竞合、理论范式转换期以及安韦勒主持的西德与东德跨制度历史比较，确立历史比较法在跨意识形态与长时段学科史中的典范应用。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 突破传统民族国家容器限制，将历史比较法创新性应用于跨国组织演进研究，通过对[[OECD|经合组织]]（OECD）与[[World Bank|世界银行]]长达 50–75 年的历史档案与制度变迁进行长周期时空追踪，揭示二者如何从马歇尔计划与经济援助机构跨界扩张为教育[[Policy Brokerage|政策中介]]巨头，并在竞争中分化出不同的实证研究帝国与组织利基。
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯运用历史比较法与学科史反思，系统考察比较教育学作为“[[Protean Episteme|普罗透斯式认识体系]]”跨越两百年的代际演进与类型分化（准科学与行政改良、历史人文主义、实证[[Scientism|科学主义]]及冲突范式），以文献计量证据揭示学科面临的“历史健忘症”危机，确立历史学与社会科学综合纲领的现代合法性。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯运用历史比较法与学科史反思，系统考察比较教育学作为“[[Protean Episteme|普罗透斯式认识体系]]”跨越两百年的代际演进与类型分化（准科学与行政改良、历史人文主义、实证[[Scientism|科学主义]]及冲突范式），以文献计量证据揭示学科面临的“[[Historical Amnesia|历史健忘症]]”危机，确立历史学与社会科学综合纲领的现代合法性。

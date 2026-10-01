@@ -9,7 +9,7 @@ aliases:
 summary: "一种主张真正知识唯独建立在感官经验、观察与实验基础之上的认识论立场，预设自然与社会遵循同质客观法则；在启蒙发轫期曾从属于全人道德教化与社会改良，而在20世纪演化为追求价值中立与法则概括的统治性实证范式。"
 type: concept
 domain: "educational-philosophy"
-related_count: 111
+related_count: 114
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -59,8 +59,10 @@ related_concepts:
   - "[[International Education]]"
   - "[[Champ]]"
   - "[[Attrition]]"
+  - "[[Historical Amnesia]]"
   - "[[Document]]"
   - "[[Critique of Evidence-Based Education]]"
+  - "[[Working Hypothesis]]"
   - "[[Formal Epistemology]]"
   - "[[Practical Epistemology]]"
   - "[[Transfer Translation Transformation]]"
@@ -111,6 +113,7 @@ related_persons:
   - "[[Jürgen Habermas]]"
   - "[[Martin Carnoy]]"
   - "[[Val D. Rust]]"
+  - "[[Marianne Larsen]]"
   - "[[Francis Bacon]]"
   - "[[Karl Popper]]"
   - "[[Crane Brinton]]"
@@ -292,7 +295,7 @@ updated: 2026-10-01
 > **法则性质的认识论三重视角与[[Scientific Paradigm\|科学范式]]内部断裂** 马修指出，尽管战后比较教育科学化运动一致认同建立跨国法则的必要性，但对法则的[[Ontology\|本体论]]与认识论属性却存在深刻分歧：芝加哥学派（安德森与福斯特）坚持超越时空的恒常因果法则；哥大学派（诺亚与埃克斯坦）将其弱化为经验可检验与不断修正的[[Variable\|变量]]函数共变关系；而霍姆斯则基于相对论物理学与[[Critical Dualism\|批判二元论]]，断言社会学法则的有效性严格依赖于初始情境条件，彻底击碎了单一普适定律的实证主义教条。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 61–63)]]
 
 > [!claim] Kazamias, A. M.
-> **[[Empiricism|唯方法论主义]]的科学一元论迷信与霍姆斯的后相对论划界** 卡扎米亚斯（Kazamias, 2009a）深入剖析了战后新科学运动在认识论上的内在结构。一方面，诺亚与埃克斯坦及普[[George Psacharopoulos|萨卡罗普洛斯]]等人推行的实证主义，本质上是[[Bernard Barber|伯纳德·巴伯]]所谓的“唯方法论主义”（Methodologism）；这种思潮崇奉斯蒂芬·图尔敏（Stephen Toulmin, 1963）所批评的“科学一元论”（Scientific Monism），狂妄地假定存在一套通用于一切探究领域的全能科学方法，并误以为只要恪守特定的量化测量规程就能得出客观规律，完全无视教育现象的文化历史土壤。另一方面，霍姆斯虽然主张假说-演绎模型，却明确将其定位为波普尔式的“后相对论社会科学”（Post-relativity Social Science），断然排斥前相对论时期古典实证主义关于确定性与绝对法则的幻想，坚持预测必须受制于具体的初始制度情境（$L + I = P$）。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–151)]]
+> **[[Empiricism|唯方法论主义]]的科学一元论迷信与霍姆斯的后相对论划界** 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）深入剖析了战后新科学运动在认识论上的内在结构。一方面，诺亚与埃克斯坦及普[[George Psacharopoulos|萨卡罗普洛斯]]等人推行的实证主义，本质上是[[Bernard Barber|伯纳德·巴伯]]所谓的“唯方法论主义”（Methodologism）；这种思潮崇奉斯蒂芬·图尔敏（Stephen Toulmin, 1963）所批评的“科学一元论”（Scientific Monism），狂妄地假定存在一套通用于一切探究领域的全能科学方法，并误以为只要恪守特定的量化测量规程就能得出客观规律，完全无视教育现象的文化历史土壤。另一方面，霍姆斯虽然主张假说-演绎模型，却明确将其定位为波普尔式的“后相对论社会科学”（Post-relativity Social Science），断然排斥前相对论时期古典实证主义关于确定性与绝对法则的幻想，坚持预测必须受制于具体的初始制度情境（$L + I = P$）。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–151)]]
 
 ---
 
@@ -334,7 +337,7 @@ updated: 2026-10-01
 > 该维度关注实证唯方法论主义垄断如何导致历史学方法被急剧边缘化，使学科失去审视制度起源与文化沉淀的批判反思力。
 
 > [!claim] Kazamias, A. M.
-> **历史论文暴跌与实证霸权下的历史健忘症** 卡扎米亚斯（Kazamias, 2009a）结合[[Val D. Rust|瓦尔·拉斯特]]（Val D. Rust）团队与玛丽安·拉森（Marianne Larsen）的[[Document|文献]]计量数据指出，实证唯方法论主义对跨国变量与短期经验数据的偏执，导致英美旗舰期刊（CER、CE、IJED）中历史比较研究的论文份额从战前的绝对主导急剧暴跌至不足 5%；学科深陷“历史健忘症”（Historical Amnesia），切断了与历史意识、文化传统与哲学反思的联系，使比较研究退化为无根的技术应用。卡扎米亚斯力倡复兴历史假说检验，重申历史学与社会科学的辩证统一。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 155–156)]]
+> **历史论文暴跌与实证霸权下的[[Historical Amnesia|历史健忘症]]** 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）结合[[Val D. Rust|瓦尔·拉斯特]]（Val D. Rust）团队与[[Marianne Larsen|玛丽安·拉森]]（Marianne Larsen）的[[Document|文献]]计量数据指出，实证唯方法论主义对跨国变量与短期经验数据的偏执，导致英美旗舰期刊（CER、CE、IJED）中历史比较研究的论文份额从战前的绝对主导急剧暴跌至不足 5%；学科深陷“历史健忘症”（Historical Amnesia），切断了与历史意识、文化传统与哲学反思的联系，使比较研究退化为无根的技术应用。卡扎米亚斯力倡复兴历史假说检验，重申历史学与社会科学的辩证统一。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 155–156)]]
 
 ---
 
@@ -364,7 +367,7 @@ updated: 2026-10-01
 > - **20 世纪 60 年代 — 比较教育实证[[Scientific Paradigm\|科学范式]]确立与[[Empiricism|唯方法论主义]]盛行** 战后自然科学工程突破与行为主义革命共同推动科学化运动达到鼎盛；诺亚与埃克斯坦（Noah & Eckstein）与芝加哥学派（Anderson & Foster）确立可测量假设检验与预测标准，但被图尔敏（Toulmin, 1963）与[[Bernard Barber|巴伯]]（Barber, 1972）批评为迷信单一全能科学方法的“唯方法论主义”（Methodologism）；霍姆斯（[[Brian Holmes]]）则明确将[[Problem Approach|问题法]]界定为拒斥古典实证论的“后相对论社会科学”。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009)]]；[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 53–56)]]；[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–151)]]
 > - **1960s–1980s — 德国社会学“实证主义之争”（[[Positivist Dispute in German Sociology|Positivismusstreit]]）与欧陆反思** 在英美实证量化范式盛行之际，欧陆爆发了以波普尔（批判理性主义）与[[Jürgen Habermas|哈贝马斯]]/阿多诺（[[Critical Theory|批判理论]]）为焦点的德国社会学“实证主义之争”（*Positivismusstreit*）；米特尔指出，该争论连同新马克思主义理论深刻重塑了欧洲比较教育学，解构了实证范式所谓[[Value Neutrality|价值中立]]的假象，迫使学界直面阶级权力与社会再生产机制。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 94)]]
 > - **20 世纪 70–80 年代 — 批判政治经济学解构与实证主义意识形态借口暴露** 经济滞胀与第三世界发展危机戳破了实证预测神话；[[Martin Carnoy|马丁·卡诺伊]]（Carnoy, 1983）等激进学者揭露实证功能主义与[[Human Capital Theory|人力资本理论]]本质上充当了资本主义再生产与阶级妥协的“意识形态借口”（ideological alibi），学科走向复数的“[[Comparative Educations\|多个比较教育学]]”。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]；[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 153–154)]]
-> - **1990 年代 — 历史维度[[Attrition|流失]]与“历史健忘症”诊断** 卡扎米亚斯（Kazamias, 2009a）考证指出，实证唯方法论主义长期霸权导致学科历史论文跌破 5%，使比较教育学陷入严重的“历史健忘症”（Historical Amnesia），切断了与制度源流的活态联系；卡扎米亚斯力倡复兴历史假说检验以重建历史与科学的综合。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 155–156)]]
+> - **1990 年代 — 历史维度[[Attrition|流失]]与“[[Historical Amnesia|历史健忘症]]”诊断** 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）考证指出，实证唯方法论主义长期霸权导致学科历史论文跌破 5%，使比较教育学陷入严重的“历史健忘症”（Historical Amnesia），切断了与制度源流的活态联系；卡扎米亚斯力倡复兴历史假说检验以重建历史与科学的综合。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 155–156)]]
 > - **2000–2003 年 — 法定实证主义（Statutory Positivism）垄断尝试与后实证审议纠偏** 美国国会通过《[[Reading Excellence Act|卓越阅读法]]》（REA）与《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）试图以成文法形式将实证主义假设检验与[[Randomised Controlled Trials|随机对照试验]]确立为国家唯一科研标准，甚至在卡斯尔草案（H.R. 4875）中试图贬低[[Qualitative Research|质性研究]]；[[National Research Council|国家研究委员会]]（NRC）发布《教育科学研究》（SRE）确立跨方法六大原则，并在国会听证中捍卫探究方法随问题而定的[[Postpositivism|后实证主义]]常态科学观，最终在《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA 2002）中扭转了法定实证主义的方法清单垄断。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 31–36)]]
 > - **21 世纪 — 跨国治理量化惯性与[[Evidence-Based Education\|循证教育]]新实证主义回潮** 在全球教育治理驱动下，实证量化模式在 [[IEA]] 测评与 [[OECD]] [[PISA]] 中展现出顽强的制度惯性；以 [[Randomised Controlled Trials\|RCT]] 黄金法则和[[Meta-analysis\|元分析]]为代表的“新实证主义”在循证教育中强势复兴，并引发学界对数据霸权与教学[[Ontology\|本体论]]抽空的深刻反思。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024)]]；[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 69)]]
 
@@ -404,10 +407,10 @@ updated: 2026-10-01
 > > 争论焦点在于：是否存在一种通用于一切人类事务的普适[[Scientific Method|科学方法]]，还是必须承认社会科学的多元情境性与历史学假说检验效力？
 > > 
 > > - **实证主义一元论阵营（Noah & Eckstein, 1969; Psacharopoulos, 1990）** 坚信自然科学的因果测量模型是人类唯一成熟的探究范式，主张将教育现象彻底还原为抽象变量与统计共变。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–149)]]
-> > - **历史哲学与批判反思阵营（Sadler, 1900; Holmes, 1965; Kazamias, 2009a）** 批判单一全能方法的迷思，霍姆斯以波普尔后相对论社会科学解构绝对确定性，卡扎米亚斯借助[[Crane Brinton|布林顿]]（Crane Brinton）历史探索性假说论证历史研究的科学严谨性，捍卫历史学与社会科学的辩证综合。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 149–152)]]
+> > - **历史哲学与批判反思阵营（Sadler, 1900; Holmes, 1965; [[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）** 批判单一全能方法的迷思，霍姆斯以波普尔后相对论社会科学解构绝对确定性，卡扎米亚斯借助[[Crane Brinton|布林顿]]（Crane Brinton）[[Working Hypothesis|历史探索性假说]]论证历史研究的科学严谨性，捍卫历史学与社会科学的辩证综合。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 149–152)]]
 
 > [!critique] 对实证主义局限的多维批评
-> - **唯方法论主义与科学一元论盲信（Toulmin, 1963; Barber, 1972; Kazamias, 2009a）** 盲目推崇数理统计与量化回归等程序规程，狂热相信只要恪守技术操作即可脱离研究对象的历史文化特质获得绝对确定性，割裂了科学与伦理价值及人文精神的内在联系。
+> - **唯方法论主义与科学一元论盲信（Toulmin, 1963; Barber, 1972; [[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）** 盲目推崇数理统计与量化回归等程序规程，狂热相信只要恪守技术操作即可脱离研究对象的历史文化特质获得绝对确定性，割裂了科学与伦理价值及人文精神的内在联系。
 > - **计算崇拜与去个性化危机（Ions, 1977）** 特里·扬斯痛陈社会科学对定量计算与统计学的过度迷信正在造成普遍的去个性化，使社会研究退化为冷漠的数学分支，剥离了对人类生存困境的温情关照。
 > - **概念数学化与[[Scientism\|科学主义]]意识形态（Horkheimer, 1972）** 马克斯·霍克海默批判实证主义将质性概念强行还原为数学公式，将实证经验方法神化为唯一合法的理性形态，形成了极具压迫性的科学主义意识形态。
 > - **客观意识与自我疏离（Roszak, 1970）** 西奥多·罗斯扎克指责实证科学对所谓客观意识的偏执追逐，切断了人与自身直觉、情感及自然深层联结，直接引发了深刻的存在疏离与心理异化。
@@ -415,7 +418,7 @@ updated: 2026-10-01
 > - **复杂开放系统中的“变量恒常悖论”（Morrison, 2001）** [[Complexity Theory\|复杂性理论]]指出，教育世界处于动态生成之中，“保持变量恒定”在[[Ontology\|本体论]]上纯属虚妄，受控实验在人工环境中精确测量的仅仅是已死去的历史。
 > - **抹杀情境深度的去情境化偏向** 实证主义追求普适法则，往往通过统计控制强行剔除地方性文化、历史脉络与微观交往细节，导致研究成果高度贫瘠且脱离教育现场。
 > - **抹杀价值反思的技术自满** 将教育问题完全置换为“什么有效”（What Works）的工程学计算，直接剥夺了公众关于教育根本目的与社会公平正义的民主审议空间。
-> - **历史维度的系统性[[Attrition|流失]]与历史健忘症（Kazamias, 2009a）** 唯方法论实证主义对短期跨国变量的迷恋，导致历史比较研究在主流期刊急剧边缘化（论文占比跌破5%），使学科丧失了反思制度历史根由的文化记忆与深层审辨力。
+> - **历史维度的系统性[[Attrition|流失]]与[[Historical Amnesia|历史健忘症]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）** 唯方法论实证主义对短期跨国变量的迷恋，导致历史比较研究在主流期刊急剧边缘化（论文占比跌破5%），使学科丧失了反思制度历史根由的文化记忆与深层审辨力。
 
 > [!warning] 适用局限与[[Epistemology\|认识论]]盲区
 > 实证主义无法跨越逻辑上的休谟鸿沟——绝不能从“实然数据”直接推导“应然价值”；对于教育公平、人性尊严与道德选择等涉及终极关怀的命题，实证主义方法在原则上不具备判定权力。
@@ -442,7 +445,7 @@ updated: 2026-10-01
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 113)]] — 系统复原孔德实证主义的起源、四大科学[[Hypothesis\|假设]]、Giddens 识别的方法论统一与产出同构双重预设，并综合存在主义（克尔凯郭尔）、法兰克福学派（[[Jürgen Habermas\|哈贝马斯]]）与社会学内部批评，展现当代教育研究向后实证与批判[[Paradigm\|范式]]演进的完整版图。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 剖析比较教育学奠基人[[Marc-Antoine Jullien\|朱利安]]构建的准实证科学体系，澄清其事实分析图表与跨国[[Questionnaire\|问卷]]归属于欧陆二级[[Geisteswissenschaften|精神科学]]，揭示其经验收集始终从属于全人[[Bildung\|教化]]与社会改良，强力反驳 20 世纪行为主义实证派以[[Value Neutrality\|价值中立]]为由指责其带有主观偏见的辉格史错置。
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 系统梳理 20 世纪 60 年代诺亚与埃克斯坦（Noah & Eckstein）、霍姆斯（Holmes）、安德森（Anderson）与埃普斯坦（Epstein）等实证主义学者对历史比较学派发起的范式围剿，揭示实证派如何从依赖私人洞察力、缺乏因果预测力、个殊事实无法抽象以及涉嫌神秘主义四个维度将历史传统贬为“前科学”，并反思实证科学对英语 *Science* 狭隘词义垄断的[[Epistemology\|认识论]]局限。
-> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 剖析比较教育学两百年四重论述代际演变，揭示 20 世纪 60 年代“新科学革命”如何异化为斯蒂芬·图尔敏（Stephen Toulmin, 1963）所批评的科学一元论与[[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1972）所批判的[[Empiricism|唯方法论主义]]（Methodologism）；阐明霍姆斯（[[Brian Holmes]]）[[Problem Approach|问题法]]作为“后相对论社会科学”对古典实证论的拒斥，结合卡诺伊（Carnoy, 1983）批判揭示实证主义作为资本主义再生产“意识形态借口”的政治本质，并实证诊断实证霸权导致历史论文暴跌跌破 5% 所诱发的严重“历史健忘症”（Historical Amnesia）。
+> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 剖析比较教育学两百年四重论述代际演变，揭示 20 世纪 60 年代“新科学革命”如何异化为斯蒂芬·图尔敏（Stephen Toulmin, 1963）所批评的科学一元论与[[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1972）所批判的[[Empiricism|唯方法论主义]]（Methodologism）；阐明霍姆斯（[[Brian Holmes]]）[[Problem Approach|问题法]]作为“后相对论社会科学”对古典实证论的拒斥，结合卡诺伊（Carnoy, 1983）批判揭示实证主义作为资本主义再生产“意识形态借口”的政治本质，并实证诊断实证霸权导致历史论文暴跌跌破 5% 所诱发的严重“[[Historical Amnesia|历史健忘症]]”（Historical Amnesia）。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 深入剖析 20 世纪 60 年代比较教育实证[[Scientific Paradigm\|科学范式]]内部围绕“法则性质”的深刻分野（芝加哥学派的恒常规律 vs 哥大学派的[[Variable\|变量]]函数共变 vs 霍姆斯的权变社会学法则与预测划界），揭示实证主义之所以在实践中胜出，根源于其充当了战后国家五年计划与技术援助的政治[[Social Science as Legitimation Alibi\|合法化借口]]（alibi），并追踪其在现实危机、量子不确定性转向与后现代思潮冲击下向多元范式演进的终结轨迹。
 > - [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] — 揭示中小学科学教育深受教条实证主义影响，将科学探究扭曲为呆板的线性实验室规程，进而呼吁突破幼稚的[[Formal Epistemology\|形式认识论]]，转向关注学生在真实探究情境中的[[Practical Epistemology\|实践认识论]]。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] — 剖析当代[[Evidence-Based Education\|循证教育]]狂热标榜的实证主义科学话语，揭示将教学质量简化为[[Meta-analysis\|元分析]][[Effect Size\|效应量]]与量化控制[[Variable\|变量]]，本质上是对微观教学实践关系性[[Ontology\|本体论]]的粗暴抽空。

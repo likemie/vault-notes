@@ -9,7 +9,7 @@ summary: "英国著名社会学家，华威大学荣休教授，冲突理论与�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
 related_theories:
   - "[[Phenomenology]]"
   - "[[Symbolic Interactionism]]"
+  - "[[Structural Functionalism]]"
   - "[[Thomas Theorem]]"
 related_methods:
   - "[[Ethnography]]"
@@ -76,7 +77,7 @@ updated: 2026-10-01
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1961 — *Key Problems of Sociological Theory*** 系统批判帕森斯结构功能主义共识神话，构建以权力冲突与价值分歧为核心的社会学元理论。
+> - **1961 — *Key Problems of Sociological Theory*** 系统批判帕森斯[[Structural Functionalism|结构功能主义]]共识神话，构建以权力冲突与价值分歧为核心的社会学元理论。
 > - **1967 — *Race, Community, and Conflict: A Study of Sparkbrook*** （与 Robert Moore 合著）开创英国城市微观[[Ethnography\|民族志]]与宏观阶级冲突相结合的经典实证[[Paradigm\|范式]]。
 > - **1970 — *Race Relations in Sociological Theory*** 构建种族关系社会学的比较分析理论框架。
 > - **1974 — *Approaches to Sociology: An Introduction to Major Trends in British Sociology*** 汇聚英国社会学前沿思潮，提出微观主观报告不可替代客观视角的方法论批判。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 26)]]

@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育学学科史编纂方法论纲领，主张超越孤立的国别学科史与合法性起源神话，将比较视野、多中心历史、边缘学者与批判史学反思引入学科发展研究"
 type: concept
 domain: "comparative-education"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Rich and Thick Description]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Critical Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Comparative History of Comparative Education
@@ -111,7 +112,7 @@ updated: 2026-09-29
 > [!feature] 核心要素与研究议程
 > - **隐蔽历史与档案的可见化（Making Unseen Histories Visible）** 开掘沉睡于大学与学术机构地下室中的私人通信、口述史料与制度档案，使长期被边缘化的历史主体（特别是女性学者如安·德赖兰 [Ann Dryland] 与哈廷盖夫人 [Madame Hattinguais]）在学科史中获得显影。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7, 9)]]
 > - **跨国多中心经验的纳入（Incorporation of Non-Hegemonic Contexts）** 打破英美与西欧主导的叙事垄断，将拉丁美洲（如阿根廷的多明戈·福斯蒂诺·萨米恩托 [Domingo Faustino Sarmiento] 与巴西的阿尼西奥·特谢拉 [Anísio Teixeira]）等非核心区域的比较教育实践与思想建构纳入整体图景。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 8–9)]]
-> - **元[[Epistemology\|认识论假设]]的剖析（Dissection of Meta-Epistemic Assumptions）** 考察不同国家和地区比较教育知识背后的深层认识论预设，例如美国比较教育中结构功能主义社会学的支配地位、伦敦学派文化主义传统对社会学的警惕，以及语言转向与空间转向对不同学派的差异化影响。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 8)]]
+> - **元[[Epistemology\|认识论假设]]的剖析（Dissection of Meta-Epistemic Assumptions）** 考察不同国家和地区比较教育知识背后的深层认识论预设，例如美国比较教育中[[Structural Functionalism|结构功能主义]]社会学的支配地位、伦敦学派文化主义传统对社会学的警惕，以及语言转向与空间转向对不同学派的差异化影响。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 8)]]
 > - **[[Academic Iconography\|学科肖像学]]与传统发明批判（Critique of Iconographies and Invented Traditions）** 批判性重审学科对特定历史先驱（如[[Michael Sadler\|迈克尔·萨德勒]]爵士 [Sir Michael Sadler]）的符号化崇拜，解构被神圣化为学科图腾的经典文本，揭示学科传统如何被社会建构。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
 > - **未来决定过去的历史诠释学（Hermeneutic Paradox: Future Determines Past）** 确立历史问题永远由当下与未来关切所决定的认识论原则；档案证据虽可保持物理稳定，但历史叙事必须由每一代学者根据新的时代挑战持续重写。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 9–10)]]
 

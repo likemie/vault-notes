@@ -9,7 +9,7 @@ aliases:
 summary: "伯勒尔与摩根社会科学性质分析框架中本体论维度的核心一极，主张外部实在不存在独立于认知者的客观实体，社会实在与组织概念本质上是人类心智发明的语言标签与符号建构物。"
 type: concept
 domain: "educational-philosophy"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Voluntarism]]"
   - "[[Construct]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Phenomenology]]"
   - "[[Critical Realism]]"
 related_methods:
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-17
+updated: 2026-10-01
 ---
 
 # Nominalism
@@ -136,7 +137,7 @@ updated: 2026-09-17
 
 ### 命题二　格林菲尔德唯名论组织观对结构功能主义实体崇拜的革命性颠覆
 
-在教育领导与组织理论领域，[[Thomas Barr Greenfield|托马斯·巴尔·格林菲尔德]]（Thomas Barr Greenfield, 1975）以激进的唯名论立场掀起了一场[[Paradigm|范式]]革命。此前，由结构功能主义主导的正统行政理论将学校视作客观存在的有机实体，视其拥有自身的系统目标、组织边界与功能病理。格林菲尔德在 1974 年布里斯托尔国际英联邦教育行政大会上直言不讳地指出：组织不过是人类意义赋予所发明的社会现实；学校本身没有意志，真正拥有意志、目标与权力诉求的是生活在其中的具体校长、教师与学生。因此，所谓的“组织病理学”本质上是不同个体在追求各自目的时爆发的不可调和的价值冲突。这一唯名论转向，为教育管理研究开辟了[[Phenomenology|现象学]]与批判解释学的崭新航道。
+在教育领导与组织理论领域，[[Thomas Barr Greenfield|托马斯·巴尔·格林菲尔德]]（Thomas Barr Greenfield, 1975）以激进的唯名论立场掀起了一场[[Paradigm|范式]]革命。此前，由[[Structural Functionalism|结构功能主义]]主导的正统行政理论将学校视作客观存在的有机实体，视其拥有自身的系统目标、组织边界与功能病理。格林菲尔德在 1974 年布里斯托尔国际英联邦教育行政大会上直言不讳地指出：组织不过是人类意义赋予所发明的社会现实；学校本身没有意志，真正拥有意志、目标与权力诉求的是生活在其中的具体校长、教师与学生。因此，所谓的“组织病理学”本质上是不同个体在追求各自目的时爆发的不可调和的价值冲突。这一唯名论转向，为教育管理研究开辟了[[Phenomenology|现象学]]与批判解释学的崭新航道。
 
 ### 命题三　唯名论激进化面临的唯我论滑坡与客观制度强制的遮蔽
 

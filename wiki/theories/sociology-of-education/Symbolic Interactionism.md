@@ -7,7 +7,7 @@ aliases:
 summary: "源自微观社会学与社会心理学的核心理论范式，主张行动者基于事物对自身的主观意义采取行动，意义在符号互动与角色扮演中持续涌现、协商与修正，互动本身构成探究的基本分析单位。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 40
+theory_related_count: 41
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Theoretical Standpoint]]"
 related_theories:
   - "[[Thomas Theorem]]"
+  - "[[Structural Functionalism]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Ethnography]]"
@@ -77,7 +78,7 @@ updated: 2026-10-01
 
 > [!theory-position] 理论定位
 > - **解释对象** 人类在日常生活与面对面微观交往中主观意义的赋予、自我的形成、[[Thomas Theorem|情境定义]]以及行动协调机制。
-> - **理论问题** 彻底扬弃行为主义刺激-反应（S-R）的被动假定与结构功能主义外在事实[[Determinism|决定论]]，确立人类行动者基于符号解释、内部对话与协商妥协的主体能动性。
+> - **理论问题** 彻底扬弃行为主义刺激-反应（S-R）的被动假定与[[Structural Functionalism|结构功能主义]]外在事实[[Determinism|决定论]]，确立人类行动者基于符号解释、内部对话与协商妥协的主体能动性。
 > - **理论类型** 微观社会学理论、[[Interpretivism|解释主义]]与[[Interpretive Paradigm|诠释范式]]核心基石、社会心理学互动[[Analytic Framework|分析框架]]。
 > - **知识位置** 芝加哥社会学派核心传统，奠基于[[George Herbert Mead|乔治·赫伯特·米德]]（[[George Herbert Mead]]），经赫伯特·布卢默（Herbert Blumer）系统形式化并正式命名，在欧文·[[Michael Gove|戈夫]][[Horace Mann|曼]]（Erving Goffman）拟剧论与[[Peter Woods|彼得·伍兹]]（Peter Woods）教育[[Ethnography|民族志]]中广泛深化。
 
@@ -217,4 +218,4 @@ updated: 2026-10-01
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 25–27)]] — 系统提炼符号互动论的三大公设、互动研究单位、课堂胡闹案例[[Rich and Thick Description|深描]]以及结构学派对其展开的四重方法论批评。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 全书多处贯穿符号互动论在[[Qualitative Interview|质性访谈]]设计、角色定位管理与观察[[Coding in Qualitative Research|编码]]中的方法论映射。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132, 136)]] — 考据比较教育学理论演进史，将符号互动论确立为 1970 年代起打破结构功能主义单一霸权垄断的 26 种核心[[Theoretical Standpoint|理论立场]]之一。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132, 136)]] — 考据比较教育学理论演进史，将符号互动论确立为 1970 年代起打破[[Structural Functionalism|结构功能主义]]单一霸权垄断的 26 种核心[[Theoretical Standpoint|理论立场]]之一。

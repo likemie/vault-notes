@@ -9,7 +9,7 @@ summary: "美国当代著名社会学大师，国际社会学会（ISA）前主�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Structural Adjustment Programs]]"
   - "[[Construct]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Conditioned State Theory]]"
 related_methods: []
 related_instruments: []
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # Neil Smelser
@@ -54,7 +55,7 @@ updated: 2026-09-28
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名社会学大师、比较制度分析家；加州大学伯克利分校社会学荣休大学教授（University Professor），曾任国际社会学会（[[International Schools Association|ISA]]）主席（1994–1998）、美国社会学学会（ASA）会长（1997）及斯坦福大学行为科学高级研究中心（CASBS）主任。
-> - **核心角色** 20 世纪下半叶结构功能主义修正、经济社会学与集体行为理论的公认巨擘；在冷战后全球化初兴阶段，敏锐把握世界格局转型，系统指出了跨国生产网络对传统主权民族国家疆界的渗透与消解，为比较教育学理解民族国家在跨国[[Disciplina and Doctrina|规训]]下主权多孔化（[[Permeable State]]）提供了权威的宏观社会学定性。
+> - **核心角色** 20 世纪下半叶[[Structural Functionalism|结构功能主义]]修正、经济社会学与集体行为理论的公认巨擘；在冷战后全球化初兴阶段，敏锐把握世界格局转型，系统指出了跨国生产网络对传统主权民族国家疆界的渗透与消解，为比较教育学理解民族国家在跨国[[Disciplina and Doctrina|规训]]下主权多孔化（[[Permeable State]]）提供了权威的宏观社会学定性。
 > - **代表贡献** 与塔尔科特·帕森斯（Talcott Parsons）合著奠基性名著《经济与社会》（1956）；出版《集体行为理论》（1962）、《社会分化与社会变革》（1976）以及权威教材《社会学》（1981）。
 
 > [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论斯梅尔塞对全球化侵蚀民族国家主权边界的经典定性
@@ -83,7 +84,7 @@ updated: 2026-09-28
 > - **1950–1960 年代 — 经济社会学与结构分化理论** 运用一般行动理论框架，探讨工业化进程中社会子系统的功能分化与制度重组。
 >   - **代表著作** *Economy and Society*（with T. Parsons, 1956）；*Social Change in the Industrial Revolution*（1959）。
 >   - **关键概念／方法** 结构分化、功能整合、历史-比较方法。
->   - **阶段转向** 奠定结构功能主义对社会变革的经典解释模型。
+>   - **阶段转向** 奠定[[Structural Functionalism|结构功能主义]]对社会变革的经典解释模型。
 > - **1970–1980 年代 — 比较方法论与集体创伤** 反思功能主义的静态局限，转向制度比较与历史偶发性研究。
 >   - **代表著作** *Comparative Methods in the Social Sciences*（1976）；*Sociology*（1981）。
 >   - **关键概念／方法** 比较逻辑、宏观因果分析。

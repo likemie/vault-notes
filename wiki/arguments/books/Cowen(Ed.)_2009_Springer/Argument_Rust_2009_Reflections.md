@@ -7,7 +7,7 @@ title: "Argument_Rust_2009_Reflections"
 argument_key: "Argument_Rust_2009_Reflections"
 argument_display_title: "Reflections on the Development of Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 119
+argument_related_count: 121
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -57,6 +57,7 @@ related_concepts:
   - "[[Severability of Politics and Pedagogy]]"
   - "[[Problem Finding]]"
   - "[[Falsification]]"
+  - "[[Working Hypothesis]]"
   - "[[Variable]]"
   - "[[Educational Meliorism]]"
   - "[[Value Neutrality]]"
@@ -89,6 +90,7 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Unit of Analysis]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Pluralism]]"
   - "[[Typology of Educational Responses to Globalization]]"
   - "[[Norwegian Four-Phase Model]]"
@@ -172,7 +174,7 @@ updated: 2026-10-01
 ## 研究问题
 
 > [!question]
-> 比较教育学自近代以来的学科演进呈现何种形态？学术史叙事如何因书写者的预设立场而发生偏颇？战后学科在追求实证科学化过程中，为何贬低了十九世纪大学建制化之前的跨文化考察遗产？从 1950 年代结构功能主义一统天下走向当代多元争鸣，究竟标志着学科陷入碎片化解体，还是展现了理论成熟的[[Pluralism|多元主义]]？在全球化纵深推进与不对等跨国权力格局下，比较教育学如何超越西方资本主义现代性话语，重构关照弱势群体并推动全球正义的解放[[Paradigm|范式]]？（pp.121–123, 131–135）
+> 比较教育学自近代以来的学科演进呈现何种形态？学术史叙事如何因书写者的预设立场而发生偏颇？战后学科在追求实证科学化过程中，为何贬低了十九世纪大学建制化之前的跨文化考察遗产？从 1950 年代[[Structural Functionalism|结构功能主义]]一统天下走向当代多元争鸣，究竟标志着学科陷入碎片化解体，还是展现了理论成熟的[[Pluralism|多元主义]]？在全球化纵深推进与不对等跨国权力格局下，比较教育学如何超越西方资本主义现代性话语，重构关照弱势群体并推动全球正义的解放[[Paradigm|范式]]？（pp.121–123, 131–135）
 
 > [!claim] 核心主张
 > 比较教育学拥有贯通古今的连续性学术传统，十九世纪以来的[[Influences Across Cultures|跨文化影响]]考证构成了比肩比较文学的坚实学术根基；战后结构功能主义教条的衰落不仅未导致学科瓦解，反而催生了涵盖 26 种[[Theoretical Perspective|理论视角]]的健康多元主义；面对全球化冲击，学科必须彻底打破将教育等同于资本主义现代性的狭隘偏见，将分析视野从单向度的自愿[[Policy Borrowing|政策借用]]扩展至涵盖接受、抵制、恢复与强制再生产的四维批判分析模型，重归以人类福祉与文化自决为核心的人道主义使命。（pp.123–126, 131–135）
@@ -362,7 +364,7 @@ updated: 2026-10-01
 > [!proc] 贝雷迪四步归纳比较法（Bereday, 1964）
 > 1. **描述** 系统搜集特定国家的地理、人口、学制法令与教育统计，建立完整的客观事实档案。
 > 2. **解释** 借助历史学、政治学与社会学工具深度剖析教育事实背后的制度渊源与文化动因。
-> 3. **并置** 将不同国家的教育事实与解释依据统一框架横向并列，确立跨国可比性并提出工作假说。
+> 3. **并置** 将不同国家的教育事实与解释依据统一框架横向并列，确立跨国可比性并提出[[Working Hypothesis|工作假说]]。
 > 4. **综合分析** 在同一框架下同时比对多国数据，探寻"所有教育体制据以构建的内在普遍力量"，推导跨国法则或类型学。（pp.127–128）
 
 霍姆斯（[[Brian Holmes]]）以[[John Dewey|杜威]]探究理论与波普尔证伪主义为武器，对这一归纳进路提出了系统性挑战：
@@ -432,7 +434,7 @@ updated: 2026-10-01
 
 #### 3. 二十六种理论范式共存打破了冷战时期的单一实证教条，标志着学科研究心智的成熟
 
-> [!info] 结构功能主义正统的建立与瓦解
+> [!info] [[Structural Functionalism|结构功能主义]]正统的建立与瓦解
 > 1950–1960 年代，比较教育学曾被结构功能主义与现代化理论（以[[Human Capital Theory|人力资本理论]]与系统论为支柱）高度垄断，形成窒息探索的单一学术正统。自 1970 年代起，随着[[Critical Theory|批判理论]]与[[Interpretivism|解释主义]]范式的崛起，这一正统开始瓦解，令学科走向全面的理论多元化。（pp.131–132）
 
 > [!stat-cards] 学科成熟期的实证计量快照（UCLA 调查成果）
@@ -440,7 +442,7 @@ updated: 2026-10-01
 > - **33** 个 WCCES 成员学会，遍布全球各大洲，打破早期西方的地域封闭，确立全球学术网络。（pp.129–130）
 > - **3** 大主流母学科认同，社会学、政治学与经济学构成当代比较学者最普遍认同的母学科。（pp.130–131）
 
-> [!row-contrast] 比较教育学实证调查所见 26 种并存理论范式全景分类谱系（Henrickson et al., 2003; Rust et al., 2009, pp. 132, 136 注 7）
+> [!row-contrast] 比较教育学实证调查所见 26 种并存理论范式全景分类谱系（Henrickson et al., 2003; pp. 132, 136 注 7）
 >
 > | 序号 | 理论范式（中英文对照） | 认识论谱系集群 | 核心关切与分析视阈 | 学科演进定位与理论功能 |
 > | :---: | :--- | :--- | :--- | :--- |

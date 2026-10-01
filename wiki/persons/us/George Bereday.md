@@ -11,10 +11,10 @@ summary: "哥伦比亚大学师范学院比较教育学讲座教授，《比较�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 38
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 40
+person_related_level: 5
+person_related_stars: "⭐⭐⭐⭐⭐"
+person_related_color: "#ffedd5"
 born: "1920"
 died: "1983"
 lifespan: "1920–1983"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Geisteswissenschaften]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Scientific Explanation]]"
+  - "[[Working Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
   - "[[Critical Dualism]]"
@@ -43,6 +44,7 @@ related_concepts:
   - "[[Language Skills]]"
   - "[[Academic Iconography]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Situative Perspective]]"
 related_methods:
   - "[[Bereday's Comparative Method]]"
@@ -131,7 +133,7 @@ updated: 2026-10-01
 > [!proc] 乔治·贝雷迪比较研究四步归纳程序
 > 1. **地理与制度描述（Description）** 系统搜集特定国家的地理环境、人口结构、学制法令与基础教育统计，建立完整详实的客观事实档案，属于单国区域研究的实证起点。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 61)]]
 > 2. **历史与人文解释（Interpretation）** 借助历史学、政治学与社会学等人文社科工具，深度剖析教育事实背后的制度渊源与文化动因，解释“为何制度呈现如此形态”。
-> 3. **标准分类并置（Juxtaposition）** 将不同国家的教育事实与解释依据统一分类框架进行横向并列排布，确立跨国可比性基础，并正式确立待检验的比较工作假说。
+> 3. **标准分类并置（Juxtaposition）** 将不同国家的教育事实与解释依据统一分类框架进行横向并列排布，确立跨国可比性基础，并正式确立待检验的比较[[Working Hypothesis|工作假说]]。
 > 4. **综合分析与法则提炼（Comparison / Total Analysis）** 在同一分析框架下同时比对多国数据，探寻“所有教育体制据以构建的内在普遍力量”，最终推导出解释学校与人群复杂互动关系的跨国普遍法则或类型学。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 61–62)]]
 
 > [!citation-card] 贝雷迪论综合分析与内在普遍法则的探寻
@@ -191,7 +193,7 @@ updated: 2026-10-01
 > - **合作者与跨洲学术镜像** [[Joseph Lauwerys\|约瑟夫·劳韦里斯]]（Joseph Lauwerys） 联合主编《世界教育年鉴》，共同构成 20 世纪中期跨越大西洋、连接拉美与东亚的学术立交桥枢纽。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
 > - **方法论论敌与演绎学派** [[Brian Holmes\|布莱恩·霍姆斯]]（Brian Holmes） 就经验归纳四步法与[[Critical Dualism\|批判二元论]]演绎[[Problem Approach\|问题法]]展开学科大论战，霍姆斯指责四步归纳法陷入观察前见与无法获得普遍有效规律。
 > - **跨国量化学派与哥大后继者** [[Harold Noah\|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein\|马克斯·埃克斯坦]]（Max Eckstein） 共同执教于哥伦比亚大学师范学院，在其经验归纳框架基础上，进一步推进大[[Sample Size Determination\|样本量]]化测量、严格控制[[Variable\|变量]]与[[Hypothesis\|假设]]检验的实证[[Scientific Paradigm\|科学范式]]。
-> - **结构功能主义学派对照** C. [[C. Arnold Anderson\|阿诺德·安德森]]（C. Arnold Anderson）与[[Philip Foster\|菲利普·福斯特]]（Philip Foster） 芝加哥学派代表人物，主张探寻超越时空的恒常制度法则，与贝雷迪立足人文历史与地理视角的归纳法形成学术张力。
+> - **[[Structural Functionalism|结构功能主义]]学派对照** C. [[C. Arnold Anderson\|阿诺德·安德森]]（C. Arnold Anderson）与[[Philip Foster\|菲利普·福斯特]]（Philip Foster） 芝加哥学派代表人物，主张探寻超越时空的恒常制度法则，与贝雷迪立足人文历史与地理视角的归纳法形成学术张力。
 > - **[[Situative Perspective\|情境主义]]论辩者** [[Edmund King\|埃德蒙·金]]（Edmund King） 就教育与种族、阶级平等的跨国解释展开长期论辩，金主张情境化解释，质疑跨国普遍分类法则。
 > - **机构与组织** [[Comparative and International Education Society\|CIES]]（早期会长、创办《比较教育评论》并设立乔治·贝雷迪奖）、哥伦比亚大学师范学院。
 

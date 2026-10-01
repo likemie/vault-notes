@@ -6,7 +6,7 @@ summary: "美国社会学家，常人方法学（Ethnomethodology）创始人，
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
 related_theories:
   - "[[Ethnomethodology]]"
   - "[[Phenomenology]]"
+  - "[[Structural Functionalism]]"
 related_methods:
   - "[[Ethnography]]"
   - "[[Accounts]]"
@@ -52,7 +53,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-26
+updated: 2026-10-01
 ---
 
 # Harold Garfinkel
@@ -63,7 +64,7 @@ updated: 2026-09-26
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国社会学家，常人方法学（[[Ethnomethodology]]，亦译俗民方法学）创始人，曾长期担任加利福尼亚大学洛杉矶分校（UCLA）社会学系教授。
-> - **核心角色** 20世纪微观社会学革命的领军人物。加芬克尔从[[Alfred Schutz\|阿尔弗雷德·舒茨]]（[[Alfred Schutz]]）的生活世界[[Phenomenology\|现象学]]汲取养分，对主流结构功能主义关于社会秩序由外在客观法则决定的[[Hypothesis\|假设]]发起激进挑战；他拒绝将行动者视作被动遵从规范的“文化笨蛋”（Cultural Dopes），主张社会秩序是由行动者在日常实践推理中动态创造与维持的成就，为社会科学[[Interpretive Paradigm\|诠释范式]]与微观互动研究开辟了全新的经验调查方向。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
+> - **核心角色** 20世纪微观社会学革命的领军人物。加芬克尔从[[Alfred Schutz\|阿尔弗雷德·舒茨]]（[[Alfred Schutz]]）的生活世界[[Phenomenology\|现象学]]汲取养分，对主流[[Structural Functionalism|结构功能主义]]关于社会秩序由外在客观法则决定的[[Hypothesis\|假设]]发起激进挑战；他拒绝将行动者视作被动遵从规范的“文化笨蛋”（Cultural Dopes），主张社会秩序是由行动者在日常实践推理中动态创造与维持的成就，为社会科学[[Interpretive Paradigm\|诠释范式]]与微观互动研究开辟了全新的经验调查方向。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 > - **代表贡献** 创立常人方法学，提出[[Indexicality\|索引性]]（Indexicality）与[[Reflexivity\|反思性]]（Reflexivity）核心分析范畴，发明破坏性实验（Breaching Experiments）并催生了会话分析（Conversation Analysis）。
 
 > [!citation-card] Garfinkel 论常人方法学的探究主旨与日常现象的自身权利
@@ -91,7 +92,7 @@ updated: 2026-09-26
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1940s–1950s — 批判规范[[Determinism\|决定论]]与常人方法奠基阶段（Harvard & Early UCLA Phase）** 反思帕森斯的结构功能主义规范内化[[Hypothesis\|假设]]，结合舒茨生活世界[[Phenomenology\|现象学]]，提出实践推理与“常人方法”构想。
+> - **1940s–1950s — 批判规范[[Determinism\|决定论]]与常人方法奠基阶段（Harvard & Early UCLA Phase）** 反思帕森斯的[[Structural Functionalism|结构功能主义]]规范内化[[Hypothesis\|假设]]，结合舒茨生活世界[[Phenomenology\|现象学]]，提出实践推理与“常人方法”构想。
 >   - **代表论文／著作** 博士论文《感知他人行动者的知觉与反应研究》（1952）、陪审团决策民族志调查（1954）。
 >   - **关键概念／方法** 实践社会学推理（Practical Sociological Reasoning）、拒绝“文化笨蛋”（Rejection of Cultural Dopes）、常人方法（Ethno-methods）。
 >   - **阶段转向** 质疑正统社会学将行动者视作受外在规范与价值共识操纵的木偶，主张研究人们在微观情境中如何凭借常识推理建构行动的可理解性。

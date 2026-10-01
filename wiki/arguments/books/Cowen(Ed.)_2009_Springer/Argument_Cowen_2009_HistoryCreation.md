@@ -7,7 +7,7 @@ title: "Argument_Cowen_2009_HistoryCreation"
 argument_key: "Argument_Cowen_2009_HistoryCreation"
 argument_display_title: "On History and on The Creation of Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[International Education]]"
 related_theories:
   - "[[Critical Theory]]"
+  - "[[Structural Functionalism]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -215,7 +216,7 @@ updated: 2026-09-29
 > [!evidence-grid] 边缘经验、隐形主体与认识论分化的事实支撑
 > - **非核心地区经验的严重缺位** 尽管阿根廷的 Sarmiento 展现了惊人的比较教育实践，巴西的 Teixeira 拥有深厚的国际学术联结，但至今在印刷物中仍看不到两国的系统性比较教育史；欧洲内部（法、德、意）的独立学科史亦从未被真正以比较的方式整合。（pp.8–9）
 > - **女性学者的长期隐形** 女性在学科发展历史上切实存在，但在现存的历史编纂中却集体缺席（如 Ann Dryland 与 Madame Hattinguais 等人从未进入正统史学叙事）。
-> - **元认识论预设的深层差异** 亟需解构不同国家比较教育背后的认识论底色，例如美国比较教育受结构功能主义社会学的深刻塑造，而法兰克福学派影响微弱；伦敦学派文化主义传统（如伦敦大学教育学院 [IOE] 与国王学院）在 1950–1960 年代对社会学抱有警惕；以及学科在引入国际标签、语言转向、后现代转向和空间转向背后的思想机制。（p.9）
+> - **元认识论预设的深层差异** 亟需解构不同国家比较教育背后的认识论底色，例如美国比较教育受[[Structural Functionalism|结构功能主义]]社会学的深刻塑造，而法兰克福学派影响微弱；伦敦学派文化主义传统（如伦敦大学教育学院 [IOE] 与国王学院）在 1950–1960 年代对社会学抱有警惕；以及学科在引入国际标签、语言转向、后现代转向和空间转向背后的思想机制。（p.9）
 
 > [!exegesis] 拉美教育先驱与被遮蔽女性学者的历史考察
 > 考恩强调，一部名副其实的比较教育学比较史必须正视两类触目惊心的结构性空白：

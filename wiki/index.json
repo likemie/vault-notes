@@ -899,6 +899,16 @@
     ]
   },
   {
+    "title": "Historical Amnesia",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Historical Amnesia.md",
+    "aliases": [
+      "历史健忘症",
+      "学科历史健忘症",
+      "历史失忆症"
+    ]
+  },
+  {
     "title": "Historical-Philosophical-Cultural Motif",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Historical-Philosophical-Cultural Motif.md",
@@ -1029,6 +1039,17 @@
       "学习差距",
       "ability vs effort",
       "能力归因与努力归因"
+    ]
+  },
+  {
+    "title": "Learnology",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Learnology.md",
+    "aliases": [
+      "微观学习学",
+      "学习学",
+      "Learneology",
+      "新比较学习学"
     ]
   },
   {
@@ -2431,7 +2452,9 @@
     "aliases": [
       "国际文凭",
       "IB Diploma",
-      "国际文凭组织"
+      "国际文凭组织",
+      "International Baccalaureate Organization",
+      "IBO"
     ]
   },
   {
@@ -10052,6 +10075,17 @@
     ]
   },
   {
+    "title": "Working Hypothesis",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Working Hypothesis.md",
+    "aliases": [
+      "工作假说",
+      "历史工作假说",
+      "历史探索性假说",
+      "探索性假说"
+    ]
+  },
+  {
     "title": "Deficit Model of Science Communication",
     "type": "concept",
     "path": "wiki/concepts/science-communication/Deficit Model of Science Communication.md",
@@ -10184,6 +10218,28 @@
       "上游参与",
       "upstream engagement",
       "上游公众参与科学"
+    ]
+  },
+  {
+    "title": "Basic-Applied Research Dichotomy",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Basic-Applied Research Dichotomy.md",
+    "aliases": [
+      "基础/应用研究二分法",
+      "基础应用研究二分法",
+      "basic-applied dichotomy",
+      "基础研究与应用研究之争"
+    ]
+  },
+  {
+    "title": "Long-Term Public Utility",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Long-Term Public Utility.md",
+    "aliases": [
+      "长期公共效用",
+      "public utility",
+      "Public Utility in Research Funding",
+      "长期公共利益"
     ]
   },
   {
@@ -12151,8 +12207,6 @@
     "path": "wiki/concepts/university-industry-collaboration/Use-Inspired Basic Research.md",
     "aliases": [
       "应用启发的基础研究",
-      "Pasteur's Quadrant",
-      "巴斯德象限",
       "use-inspired research",
       "Pasteur象限"
     ]
@@ -13984,6 +14038,26 @@
     ]
   },
   {
+    "title": "Discovery-Invention Cycle",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Discovery-Invention Cycle.md",
+    "aliases": [
+      "发现-发明循环",
+      "发现发明循环"
+    ]
+  },
+  {
+    "title": "Pasteur's Quadrant",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Pasteur's Quadrant.md",
+    "aliases": [
+      "帕斯德象限",
+      "巴斯德象限",
+      "Pasteur's Quadrant model",
+      "用启发性基础研究"
+    ]
+  },
+  {
     "title": "Bacchi's WPR Approach",
     "type": "theory",
     "path": "wiki/theories/sociology-of-education/Bacchi's WPR Approach.md",
@@ -14123,6 +14197,18 @@
     "aliases": [
       "社会资本理论",
       "social capital"
+    ]
+  },
+  {
+    "title": "Structural Functionalism",
+    "type": "theory",
+    "path": "wiki/theories/sociology-of-education/Structural Functionalism.md",
+    "aliases": [
+      "结构功能主义",
+      "结构-功能范式",
+      "结构功能论",
+      "Structural-Functionalism",
+      "Functionalism"
     ]
   },
   {
@@ -18759,6 +18845,15 @@
     ]
   },
   {
+    "title": "Marianne Larsen",
+    "type": "person",
+    "path": "wiki/persons/canada/Marianne Larsen.md",
+    "aliases": [
+      "玛丽安·拉森",
+      "Marianne A. Larsen"
+    ]
+  },
+  {
     "title": "Marlene Scardamalia",
     "type": "person",
     "path": "wiki/persons/canada/Marlene Scardamalia.md",
@@ -20411,6 +20506,16 @@
     ]
   },
   {
+    "title": "Patricia Broadfoot",
+    "type": "person",
+    "path": "wiki/persons/uk/Patricia Broadfoot.md",
+    "aliases": [
+      "帕特丽夏·布罗德富特",
+      "Patricia M. Broadfoot",
+      "帕特里夏·布罗德富特"
+    ]
+  },
+  {
     "title": "Paul Morris",
     "type": "person",
     "path": "wiki/persons/uk/Paul Morris.md",
@@ -20995,6 +21100,17 @@
     ]
   },
   {
+    "title": "Donald Stokes",
+    "type": "person",
+    "path": "wiki/persons/us/Donald Stokes.md",
+    "aliases": [
+      "唐纳德·斯托克斯",
+      "Donald E. Stokes",
+      "D. E. Stokes",
+      "D. Stokes"
+    ]
+  },
+  {
     "title": "Donna Haraway",
     "type": "person",
     "path": "wiki/persons/us/Donna Haraway.md",
@@ -21558,6 +21674,16 @@
     ]
   },
   {
+    "title": "Philip Altbach",
+    "type": "person",
+    "path": "wiki/persons/us/Philip Altbach.md",
+    "aliases": [
+      "菲利普·阿特巴赫",
+      "Philip G. Altbach",
+      "阿特巴赫"
+    ]
+  },
+  {
     "title": "Philip Foster",
     "type": "person",
     "path": "wiki/persons/us/Philip Foster.md",
@@ -21779,6 +21905,25 @@
       "Val Rust",
       "瓦尔·D·拉斯特",
       "瓦尔·拉斯特"
+    ]
+  },
+  {
+    "title": "Vannevar Bush",
+    "type": "person",
+    "path": "wiki/persons/us/Vannevar Bush.md",
+    "aliases": [
+      "万尼瓦尔·布什",
+      "V. Bush"
+    ]
+  },
+  {
+    "title": "Venkatesh Narayanamurti",
+    "type": "person",
+    "path": "wiki/persons/us/Venkatesh Narayanamurti.md",
+    "aliases": [
+      "文卡泰什·纳拉亚纳穆尔提",
+      "V. Narayanamurti",
+      "Venky Narayanamurti"
     ]
   },
   {
@@ -26872,6 +27017,17 @@
     ]
   },
   {
+    "title": "Bell Labs",
+    "type": "fact",
+    "path": "wiki/facts/us/Bell Labs.md",
+    "aliases": [
+      "贝尔实验室",
+      "Bell Telephone Laboratories",
+      "AT&T Bell Laboratories",
+      "贝尔电话实验室"
+    ]
+  },
+  {
     "title": "Best Evidence Encyclopedia",
     "type": "fact",
     "path": "wiki/facts/us/Best Evidence Encyclopedia.md",
@@ -26958,6 +27114,17 @@
       "州首席教育官理事会",
       "全美州首席教育官理事会",
       "CCSSO"
+    ]
+  },
+  {
+    "title": "Department of Energy",
+    "type": "fact",
+    "path": "wiki/facts/us/Department of Energy.md",
+    "aliases": [
+      "美国能源部",
+      "DOE",
+      "United States Department of Energy",
+      "U.S. Department of Energy"
     ]
   },
   {
@@ -27123,6 +27290,17 @@
       "国家儿童健康与人类发展研究所",
       "尤妮斯·肯尼迪·施莱佛国家儿童健康与人类发展研究所",
       "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+    ]
+  },
+  {
+    "title": "National Institutes of Health",
+    "type": "fact",
+    "path": "wiki/facts/us/National Institutes of Health.md",
+    "aliases": [
+      "美国国立卫生研究院",
+      "NIH",
+      "美国国家卫生研究院",
+      "U.S. National Institutes of Health"
     ]
   },
   {
@@ -29109,6 +29287,11 @@
     "title": "Argument_Chan_2015_Intersect",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Intersect/Argument_Chan_2015_Intersect.md"
+  },
+  {
+    "title": "Argument_Narayanamurti_2013_IST",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Issues in Science & Technology/Argument_Narayanamurti_2013_IST.md"
   },
   {
     "title": "Argument_Hitchcock_2015_JBE",

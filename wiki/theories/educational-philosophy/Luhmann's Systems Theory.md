@@ -7,7 +7,7 @@ aliases:
 summary: "将社会理解为由自创生沟通构成的多重功能分化系统，严格区分社会系统与个体心理系统，以操作封闭、结构耦合与盲点机制揭示观察界限与自适应生态演化。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 33
+theory_related_count: 34
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -42,6 +42,7 @@ related_concepts:
 related_theories:
   - "[[Autopoiesis]]"
   - "[[Radical Constructivism]]"
+  - "[[Structural Functionalism]]"
   - "[[Critical Theory]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-09-17
+updated: 2026-10-01
 ---
 
 # Luhmann's Systems Theory
@@ -170,7 +171,7 @@ updated: 2026-09-17
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **1960–1961 — [[Paradigm\|范式]]决裂** [[Niklas Luhmann\|卢曼]]在哈佛大学师从 Talcott Parsons，随后决然抛弃结构功能主义的规范共识[[Hypothesis\|假设]]，开创以系统-环境区分与[[Autopoiesis\|自创生]]为基石的全新系统论。
+> - **1960–1961 — [[Paradigm\|范式]]决裂** [[Niklas Luhmann\|卢曼]]在哈佛大学师从 Talcott Parsons，随后决然抛弃[[Structural Functionalism|结构功能主义]]的规范共识[[Hypothesis\|假设]]，开创以系统-环境区分与[[Autopoiesis\|自创生]]为基石的全新系统论。
 > - **1984 — 《社会系统》（Soziale Systeme）出版** 标志着以沟通替代行动、以操作封闭与自创生为核心的社会系统理论完全成型。
 > - **1997 — 《社会的社会》（Die Gesellschaft der Gesellschaft）出版** 晚期集大成巨著，系统阐发功能分化社会的运行全景与二阶观察方法。
 > - **2002 — 《社会的教育系统》（Das Erziehungssystem der Gesellschaft）遗作出版** 详细将系统理论聚焦于教育子系统，剖析教育的“无法完结性”与不可操控悖论。

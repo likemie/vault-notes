@@ -7,10 +7,10 @@ title: "Argument_Mattheou_2009_ScientificParadigm"
 argument_key: "Argument_Mattheou_2009_ScientificParadigm"
 argument_display_title: "The Scientific Paradigm in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 74
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#fef3c7"
+argument_related_count: 75
+argument_related_level: 5
+argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_color: "#fecdd3"
 authors:
   - Mattheou, D.
 source_language: en
@@ -72,6 +72,7 @@ related_concepts:
   - "[[Development Education]]"
   - "[[Policy Borrowing]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Human Capital Theory]]"
   - "[[Postmodernism]]"
   - "[[Critical Theory]]"
@@ -144,7 +145,7 @@ updated: 2026-09-08
 > | **结构功能主义社会学**<br>[[C. Arnold Anderson]] | 引入结构功能主义社会学模型，预设教育机构与宏观社会系统之间存在稳定的功能对应关系，支撑了以[[C. Arnold Anderson\|C. 阿诺德·安德森]]（C. Arnold Anderson）为代表的芝加哥学派对非历时性、超越时空的恒常制度模式的执着探寻。（pp. 62, 65） |
 
 > [!warrant]- 理论如何支撑论证
-> 库恩范式理论为全文提供了宏观历史脉络，使战后比较教育从历史学派向科学范式的转换不再被看作单纯的方法偏好变动，而是一场争夺学科统治地位的范式革命；波普尔科学哲学与批判二元论则构成了审视霍姆斯与美国实证派分歧的微观透镜，精准揭示了双方在法则必然性与情境权变性上的深层断裂；而结构功能主义与规划合法化批判，则揭示了方法论选择背后与战后国家资本主义及国际技术援助机器的共[[Conatus\|生机]]制。（pp. 61–62, 67–68）
+> 库恩范式理论为全文提供了宏观历史脉络，使战后比较教育从历史学派向科学范式的转换不再被看作单纯的方法偏好变动，而是一场争夺学科统治地位的范式革命；波普尔科学哲学与批判二元论则构成了审视霍姆斯与美国实证派分歧的微观透镜，精准揭示了双方在法则必然性与情境权变性上的深层断裂；而[[Structural Functionalism|结构功能主义]]与规划合法化批判，则揭示了方法论选择背后与战后国家资本主义及国际技术援助机器的共[[Conatus\|生机]]制。（pp. 61–62, 67–68）
 
 ---
 
@@ -258,7 +259,7 @@ updated: 2026-09-08
 
 > [!quad-grid] 比较教育学科学范式的库恩式四维构件
 > - **研究目标与主题** 终结无序事实堆砌与个案直觉白描，旨在揭示跨国教育制度运行的内在规律、类型学建构以及对政策干预后果的精确预见。
-> - **理论框架与典范实践** 依托结构功能主义社会学模型与逻辑实证主义原则，以大样本跨国实证调查与标准化比较程序为学科示范。
+> - **理论框架与典范实践** 依托[[Structural Functionalism|结构功能主义]]社会学模型与逻辑实证主义原则，以大样本跨国实证调查与标准化比较程序为学科示范。
 > - **研究规则与规范标准** 恪守[[Value Neutrality\|价值中立]]、客观观察、概念严格操作化、假设可检验性与[[Falsification\|可证伪性]]，彻底清洗不可检验的神秘主义范畴。
 > - **应用技术与测量工具** 开发跨国标准化[[Questionnaire\|问卷]]、多元统计模型、国家指标数据库，以及服务于中央五年计划的系统预测技术。
 

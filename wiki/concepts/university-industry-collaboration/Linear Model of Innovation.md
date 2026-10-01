@@ -3,42 +3,55 @@ title: Linear Model of Innovation
 aliases:
   - 线性创新模型
   - linear innovation model
-summary: "一种预设从基础科学到技术开发再到经济增长的单向因果链的创新过程概念模型，战后成为全球科学政策资源配置的主导理论依据，因其低估其他创新来源而受到 innovation studies 的系统性质疑"
+summary: "一种预设从基础科学到技术开发再到经济增长单向因果链的概念模型；战后主导科技政策资源配置，后因忽视反馈机制、轻视工程发明的前提使能地位而遭受系统性批判"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 15
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 27
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/innovation-studies
   - theme/science-policy
   - theme/research-policy
 related_concepts:
-  - "[[Hypothesis]]"
-  - "[[Causality]]"
   - "[[Evaluation Research]]"
   - "[[Blue Skies Research]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Epistemology]]"
+  - "[[Conatus]]"
+  - "[[Doxa]]"
+  - "[[Theoretical Knowledge]]"
   - "[[Chain-linked Model]]"
-  - "[[Multi-channel Interactive Learning Model]]"
-  - "[[Learning Economy]]"
+  - "[[Innovation Models Evolution]]"
+  - "[[Long-Term Public Utility]]"
+  - "[[Hypothesis]]"
+  - "[[Causality]]"
+  - "[[Emergence]]"
+  - "[[Total Factor Productivity]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Experiential Learning]]"
-  - "[[Knowledge Exchange]]"
-related_theories: []
-related_methods: []
-related_persons: []
+  - "[[Paradigm]]"
+  - "[[Multi-channel Interactive Learning Model]]"
+related_theories:
+  - "[[Discovery-Invention Cycle]]"
+  - "[[Pasteur's Quadrant]]"
+  - "[[Systems of Innovation]]"
+related_methods:
+  - "[[Correlational Research]]"
+related_instruments: []
+related_persons:
+  - "[[Vannevar Bush]]"
+  - "[[Donald Stokes]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Lisbon Strategy]]"
-  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Caraca_2009_TFSC]]"
+  - "[[Argument_Narayanamurti_2013_IST]]"
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-09-10
+updated: 2026-10-02
 ---
 
 # Linear Model of Innovation
@@ -47,75 +60,119 @@ updated: 2026-09-10
 
 ## 定义
 
-> [!info] 核心定义
-> 线性创新模型（linear model of innovation）是一种[[Hypothesis\|假设]]从基础科学到技术开发再到经济增长存在单向[[Causality\|因果关系]]的概念模型。其基本公式为：基础科学 → [[Evaluation Research\|应用研究]] → 技术开发 → 经济增长。该模型将[[Blue Skies Research\|基础研究]]视为创新过程的首要推动力，假定公共财政对科学的投入既是创新驱动增长的[[Necessary and Sufficient Conditions\|必要条件]]，也是充分条件。[[Argument_Caraca_2009_TFSC\|João Caraça et al., 2009, pp. 862–863]]
+> [!def] 核心定义
+> 线性创新模型（Linear Model of Innovation）是一种预设创新过程遵循从基础科学、[[Evaluation Research|应用研究]]、技术开发到市场商业化单向因果链条的概念模型。其基本公式为：[[Blue Skies Research|基础研究]] → 应用研究 → 技术开发 → 商业生产 → 经济社会福祉。[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》等战后政策话语将其确立为全球科技资源配置的主导理论依据，假定公共财政对基础科学的投入是产业创新与经济增长的充分且[[Necessary and Sufficient Conditions|必要条件]]，将基础科学置于创新价值链的绝对主导地位；随后受到创新研究界（Innovation Studies）与科学技术史学家的系统性质疑。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862–863)]]
 
-> [!quote]
-> "该模型包含一个不言自明的科学研究（Research，以白大褂科学为象征）对技术开发（Development，以邋遢工程为象征）的主导预设，很快成为工业组织安排创新活动的模板。"[[Argument_Caraca_2009_TFSC\|João Caraça et al., 2009, p. 863]]
+> [!concept-lens] 概念透镜
+> - **含义** 指向一种单向、自上而下、由科学单向推导技术的创新[[Epistemology|认识论假设]]。
+> - **用途** 帮助研究者透视国家科技资助体制如何以“基础”与“应用”的单维划分来组织科研预算，以及揭示其诱导出的政策短视。
+> - **边界** 适用于解释冷战时期大科学工程的组织意识形态；但完全不适合解释现代复杂技术系统的多时间尺度演进与技术向基础科学的反向催[[Conatus|生机]]制。
+
+> [!citation-card] 线性创新模型的文化与认知偏见
+> 该模型包含一个[[Doxa|不言自明]]的科学研究（以白大褂科学为象征）对技术开发（以邋遢工程为象征）的主导预设，很快成为工业组织安排创新活动的模板。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 863)]]
+>
+> 战后科学政策建立在深层的文化偏见之上：[[Theoretical Knowledge|理论知识]]被置于崇高地位，而手艺与工程发明则被贬低为次等。这种二元对立使得政策制定者误以为只需资助纯科学，技术应用便会自然喷涌。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
+
+> [!boundary]- 概念边界
+> - 不等于 [[Chain-linked Model]] — 链式模型认为创新主要源于市场潜在需求与设计制造实践，基础研究仅在知识储备不足时被按需调用，且各环节存在多重双向反馈环。
+> - 不等于 [[Discovery-Invention Cycle]] — 发现-发明循环彻底打破动机二分法，强调发明不仅衍生于科学，更直接作为物理实验载体孕育基础科学突破，构成地位对等的动态演进网络。
 
 ---
 
 ## 概念辨析
 
-> [!example] 线性创新模型 vs 链式创新模型
-> - **线性创新模型（[[Linear Model of Innovation]]）** 预设基础科学是创新的起点 and 单向支配因素，忽略各环节之间的反馈机制与组织维度的学习。
-> - **链式创新模型（[[Chain-linked Model]]）** 主张创新源于市场需求而非[[Blue Skies Research\|基础研究]]，认为研究只是在现有知识不足时被按需调用的要素，且各个环节之间存在多重复杂的反馈循环。
-
----
-
-## 概念演变
-
-> [!timeline] 发展脉络
-> - **1939** 约翰·德斯蒙德·贝尔纳（John Desmond Bernal）率先测量了英国研发（Research and Development, R&D）占国民生产总值（Gross National Product, GNP）的比例（当时仅为 0.2%），并主张将其提高到 2.0% 以推动经济增长，首次给出了科学政策的量化倡议。（引自 [[Argument_Caraca_2009_TFSC\|João Caraça et al., 2009, p. 862]]）
-> - **1945** 万尼瓦尔·布什（Vannevar Bush）在给美国总统的报告《科学：[[Science, The Endless Frontier 1945\|无尽的前沿]]》（Science, The Endless Frontier）中提出“[[Blue Skies Research\|基础研究]]带来技术和工业进步”的政策想象，确立了二战后科学政策的核心逻辑。（引自）
-> - **1950s末** 理查德·尼尔森（Richard Nelson）和肯尼斯·阿罗（Kenneth Arrow）基于公共品理论，论证了由于科学知识的非排他性和非竞争性，政府必须主导对基础研究的公共投入，为线性模型确立了主流经济学理论基础。
-> - **1986** 斯蒂芬·克莱因（Stephen Kline）和内森·罗森伯格（Nathan Rosenberg）提出[[Chain-linked Model\|链式模型]]，系统批评了线性模型单向因果的谬误，主张创新是一个包含复杂反馈的学习过程。（引自 [[Argument_Caraca_2009_TFSC\|João Caraça et al., 2009, p. 863]]）
-> - **2000s** 欧盟[[Lisbon Strategy\|里斯本议程]]设定巴塞罗那目标（R&D 占比达到 GDP 的 2% 私人和 1% 公共投入），说明线性模型至今依然在主导着当代国家级的宏观政策指针。[[Argument_Caraca_2009_TFSC\|João Caraça et al., 2009, pp. 861–862]]
-> - **2009** 若昂·卡拉萨（João Caraça）等人提出[[Multi-channel Interactive Learning Model\|多通道互动学习模型]]，批判线性模型诱导的“大学专利化”误区，指出应在[[Learning Economy\|学习经济]]和多层[[Innovation Ecosystem\|创新生态系统]]中重新审视科学的作用。[[Argument_Caraca_2009_TFSC\|João Caraça et al., 2009, p. 865]]
+> [!contrast-table] [[Innovation Models Evolution|创新过程模型]]的核心机制辨析
+> | 维度 | 线性创新模型（[[Linear Model of Innovation]]） | 链式创新模型（[[Chain-linked Model]]） | 发现-发明循环模型（[[Discovery-Invention Cycle]]） |
+> |:---|:---|:---|:---|
+> | **起点与原动力** | 纯基础科学的好奇心探索与前沿理论突破 | 市场潜在需求牵引与工程设计制造难题 | 发现（新知）与发明（新工具）双向循环迭代 |
+> | **科学与技术关系** | 单向支配：科学是源泉，技术是下游应用 | 按需调用：技术研发为主线，科学为知识储备库 | 对称共生：发明往往作为实验物理平台催生新理论 |
+> | **时间与组织尺度** | 短期线性接力流水线（立项动机划分） | 包含即时反馈环的组织内学习网络 | 跨越 30 至 50 年的多时间尺度演进拓扑网络 |
+> | **政策资助逻辑** | 政府主导无约束[[Blue Skies Research\|基础研究]]，开发留给市场 | 优化产学研界面，支持企业研发中心 | 政府资助消除生态瓶颈，以[[Long-Term Public Utility\|长期公共效用]]为准绳 |
 
 ---
 
 ## 核心要素
 
-> [!abstract] 线性模型的[[Hypothesis\|假设]]基石
-> 线性模型在理论和政策实践中主要依赖以下三个相互关联的核心假设：[[Argument_Caraca_2009_TFSC\|João Caraça et al., 2009, pp. 862–863]]
->
-> 1. **单向[[Causality\|因果性]]** 假定创新遵循“基础科学 → [[Evaluation Research\|应用研究]] → 技术开发 → 市场推广 → 经济增长”的顺序。这是一种自上而下、单向推进的机制，忽略了市场、工程、生产实践向科学研究的反馈路径。
-> 2. **科学的支配性** 将[[Blue Skies Research\|基础研究]]置于层级结构的顶端，预设研发中“研究”天然高于且支配“开发”。
-> 3. **投入的充分性** 假定科学投入与经济产出存在自动转化关系——即只要政府持续增加公共 R&D 经费投入，产业创新与经济持续增长就会自动发生。
+> [!feature] 线性创新模型的三大[[Hypothesis|假设]]支柱
+> - **单向因果推进（Unidirectional [[Causality]]）** 假定创新严格遵循自上而下的推进逻辑，完全无视工程生产实践、仪器研制向基础科学前沿的反向知识馈送。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 863)]]
+> - **科学[[Epistemology|认识论]]层级优越性（Hierarchical Primacy of Science）** 在文化上将纯理论研究置于价值阶梯顶端，将工程工艺与技术发明贬抑为纯科学的衍生性手艺劳作。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
+> - **投入自动转化假设（Automatic Pipeline Assumption）** 假定只要国家持续向基础科学管道注入公共财政资金，工业技术突破与宏观经济增长就会如流水线末端般自动[[Emergence|涌现]]。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 862)]]
 
 ---
 
-## 理论基础
-
-> [!tip]- 经济学合理性论证
-> - **公共品理论（Public Goods Theory）** — 认为[[Blue Skies Research\|基础研究]]具有非排他性和非竞争性，私人市场难以足额提供，因此需要政府公共财政的系统资助。这为线性模型中政府对基础科学的投入提供了经济学支撑。
+## 围绕概念形成的命题
 
 ---
 
-## 实证发现
+### 命题一　线性创新模型的单向因果预设违背了现代科技演进的双向网络常态
 
-> [!success] 核心发现与反思
-> - **研发投入与创新产出的非线性关联** 欧盟在落实巴塞罗那目标时发现，增加科学投入并未能显著提振欧洲的创新效率，这一落差被学者标记为“欧洲悖论”（European Paradox），实证挑战了线性模型关于“投入即产出”的因果想象。[[Argument_Caraca_2009_TFSC\|João Caraça et al., 2009, p. 862]]
-> - **经验型学习对创新的主导贡献** 莫滕·贝格·延森（Morten Berg Jensen）等人（2007）的研究指出，企业和部门的竞争力主要依赖两种创新模式：基于研发的科学与技术模式（Science, Technology and Innovation, STI）以及基于做、用、互动的经验型模式（Doing, Using and Interacting, DUI）。后者往往不依赖前沿科学投入，实证挑战了线性模型对[[Experiential Learning\|经验学习]]的忽视。
+> [!concept-lens] 因果机制与[[Epistemology|认识论]]有效性
+> 考察科学与技术之间的作用流向究竟是单向自上而下推进，还是双向嵌套循环。
+
+> [!claim] Kline, S. & Rosenberg, N.
+> **市场与设计的牵引主导性** 创新极少直接发端于前沿基础科学研究，绝大多数技术突破源于工业企业对市场需求的感知以及工程师的试错性重新设计；科学知识在此过程中仅作为既有知识库被检索调用。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 863)]]
+
+> [!claim] Narayanamurti, V. et al.
+> **工程发明作为前沿科学的前提载体** 物理学与信息技术半个世纪的六项诺贝尔物理学奖谱系表明，重大基础科学发现必须以先前的工程技术发明（如半导体异质结、超纯晶体生长工艺、高真空仪器）为物理实验平台；线性因果预设完全颠倒了技术赋能科学的历史事实。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 33–35)]]
+
+---
+
+### 命题二　线性模型的政策转化在国家创新体系中诱导了严重的系统性扭曲
+
+> [!concept-lens] 政策治理与资源配置异化
+> 探讨依据线性模型制定的科技政策如何对大学、国家实验室与公共资助产生反噬效应。
+
+> [!claim] Caraça, J. et al.
+> **大学使命异化与欧洲悖论** 线性模型诱导政策制定者将大学狭隘地改造为专利生产流水线与商业孵化器，削弱了大学培养高素质批判性人才这一更为根本的知识扩散功能；在[[Total Factor Productivity|全要素生产率]]未达预期时又盲目指责大学转化不力，陷入政策逻辑闭环陷阱。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862, 866–867)]]
+
+> [!claim] Narayanamurti, V. et al.
+> **关键战略发明的资助断档危机** 政策制定者将线性模型与新古典经济学的市场失灵理论捆绑，规定公共财政只能资助纯[[Blue Skies Research|基础研究]]，而技术发明必须交由市场承担；然而需要长期积累、极高资金密度的根本性硬件工艺与工具发明，由于投资回收期长达数十年，私营企业无力承担，政府又因其不是纯科学而拒绝资助，导致国家[[Innovation Ecosystem|创新生态]]发生灾难性的结构性断裂。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
+
+---
+
+### 命题总览
+
+> [!contrast-table] 围绕线性模型形成的批判性命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |:---|:---|:---|:---|
+> | **演化认识论批判** | 批判单向因果预设，确立技术发明对前沿科学的反向使能机制 | 科学技术史实证考证、前沿实验物理平台演化 | Kline & Rosenberg; 纳拉亚纳穆尔提等 |
+> | **政策治理异化批判** | 揭示国家研发资助中的市场失灵教条与关键硬件资助断档 | 国家实验室考核、科技预算编制、大学商业化评估 | 卡拉萨等; 纳拉亚纳穆尔提等 |
+
+---
+
+## 概念演变
+
+> [!dev-timeline] 概念演变
+> - **1939 — 量化倡议初兴** 约翰·德斯蒙德·贝尔纳（John Desmond Bernal）测算了英国研发费用占国民生产总值的比例，首次系统性地从政策层面提出扩大科学经费投入以推动经济增长的量化主张。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 862)]]
+> - **1945 — 政策[[Paradigm|范式]]确立** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）向美国总统提交《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》报告，将基础科学描述为技术进步的终极源泉，确立了二战后西方国家科研资助体系的线性底色。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
+> - **1950s末 — 经济学理论论证** 理查德·尼尔森（Richard Nelson）与肯尼斯·阿罗（Kenneth Arrow）运用公共品理论论证了基础科学知识的非排他性与非竞争性，为政府主导[[Blue Skies Research|基础研究]]资助提供了经济学正当性，但也无意中强化了基础（公共）与应用（市场）的割裂。
+> - **1986 — [[Chain-linked Model|链式模型]]反驳** 斯蒂芬·克莱因（Stephen Kline）与内森·罗森伯格（Nathan Rosenberg）提出链式创新模型，系统论证创新始于市场与设计试错，基础研究并非线性起点。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 863)]]
+> - **1997 — [[Pasteur's Quadrant|帕斯德象限]]二维修正** [[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes）提出二维动机矩阵，打破单一维度，确立用启发性基础研究的正统地位。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
+> - **2000s — 政策惯性与反思** 欧盟[[Lisbon Strategy|里斯本议程]]设立研发占比 3% 的巴塞罗那目标；然而欧洲悖论的蔓延促使若昂·卡拉萨等人（2009）提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，警惕大学专利化扭曲。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 861–865)]]
+> - **2013 — 宣告二分法与线性论终结** 纳拉亚纳穆尔提等人以半个世纪 ICT 领域的物理学诺奖谱系为证，证明关键发明直接作为科学发现的实验物理载体，提出[[Discovery-Invention Cycle|发现-发明循环]]理论以彻底更替线性创新模型。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
 
 ---
 
 ## 争议与批评
 
-> [!warning] 理论与政策维度的系统反思
-> - **单向路径局限** 斯蒂芬·克莱因（Stephen Kline）和内森·罗森伯格（Nathan Rosenberg）指出创新始于市场需求而非研究，[[Blue Skies Research\|基础研究]]是在既有知识储备无法解决技术难题时才被按需调用的。（引自 [[Argument_Caraca_2009_TFSC\|João Caraça et al., 2009, p. 863]]）
-> - **政策扭曲效应** 受线性模型误导，政府倾向于反向要求科学“证明”其即时经济价值，强制大学转变为专利生产者、甚至直接参与商业孵化，这严重忽视了大学培养批判性毕业生这一更为根本的日常[[Knowledge Exchange\|知识交流]]功能。[[Argument_Caraca_2009_TFSC\|João Caraça et al., 2009, pp. 862, 866–867]]
-> - **指标依赖与惯性** 伯努瓦·戈丁（Benoît Godin）指出，由于国家 R&D 投入与专利数等量化指标相比于复杂的“组织学习”、“界面质量”等更容易被收集和测量，这种指标便利性反过来强化了线性模型在政策制定者心中的顽固影响力。[[Argument_Caraca_2009_TFSC\|João Caraça et al., 2009, p. 862, footnote 3]]
+> [!debates] 学术争议
+>
+> > [!axis] 指标便利性 vs. 复杂真实机制：为何线性模型在政策界久盛不衰？
+> > 尽管学术界早已从经验上驳斥了线性模型，但各国政府在编制预算和制定战略时依然高度依赖该模型。
+> >
+> > - **伯努瓦·戈丁（Benoît Godin, 2006）** 国家研发经费投入（R&D/GDP）、论文发表数与专利申请量等指标极易统计、跨国比较和向上汇报，这种官僚化测量便利性构成了线性模型顽固存在的护城河。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 862)]]
+> > - **[[Systems of Innovation|创新系统]]学派立场** 组织界面的沟通质量、跨学科人才沉浸式流动等核心创新要素极其隐蔽且无法简单量化，导致更真实的复杂网络模型在政策传播中面临阻力。
+>
+> > [!axis] 公共财政边界争议：政府能否资助关键工程硬件开发？
+> > 围绕政府介入工程发明的正当性，新古典经济学与国家[[Innovation Ecosystem|创新生态]]学派存在根本分歧。
+> >
+> > - **新古典经济学立场** 政府资助工程开发必然面临“挑选赢家”的寻租风险，且会挤出私人资本投资，公共品资助必须严格限制在纯科学领域。
+> > - **生态循环学派立场（[[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]]）** 突破性硬件工具的研发周期动辄需要数十年且具有全产业外部溢出效应，市场机制必然失灵；政府若因教条主义缺位，将导致整个国家的尖端制造与科学探索全面失去物理底座。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
 
 ---
 
-## 相关案例／政策
+## 相关研究
 
-> [!example] 巴塞罗那议程 2% + 1% 目标
-> 欧盟为回应美国竞争，在[[Lisbon Strategy\|里斯本议程]]中设定了私人研发投入占 GDP 的 2%、公共投入占 1% 的量化指标。这直接体现了线性模型关于“增加科学投入即可带来增长”的政策说服力。[[Argument_Caraca_2009_TFSC\|João Caraça et al., 2009, pp. 861–862]]
-
-> [!example] 大学商业化与欧洲悖论
-> 欧洲在面临研发投入高而创新产出低的矛盾（即“欧洲悖论”）时，并未反思线性模型前提，反而反向逼迫学术体系直接进入 market。例如在各[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）国家中强力推行要求大学创办科技园、出售专利等政策，试图把大学重塑为直接经济转化中心。[[Argument_Caraca_2009_TFSC\|João Caraça et al., 2009, p. 862]]
-
-
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Caraca_2009_TFSC|Caraça et al., 2009]] — 梳理科学在创新过程中角色的历史演进，批判线性模型引发的大学商业化偏向，提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]。
+> - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 深入批判线性模型深层的文化偏见，以六届诺贝尔物理学奖演进谱系证明工程发明对基础科学的反向催生，宣告线性创新模型的终结。

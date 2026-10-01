@@ -14,7 +14,7 @@ aliases:
 summary: "跨越政治学、文化哲学与比较教育学的核心宏观理论。在政治治理层面，主张权力分散于多元竞争的利益集团之间，政策是公开民主博弈与妥协的产物；在比较教育与文化哲学层面，主张文化多元主义（Cultural Pluralism），强调教育深植于多元语言、宗教与地方生态，抗衡世界体系单一普遍主义规训；在学科知识生产层面，主张健康多元主义（Healthy Pluralism），确立实证、批判、后现代等数十种理论视角与混合方法并存共荣的学科合法形态。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 56
+theory_related_count: 57
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Theoretical Standpoint]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[World-Systems Theory]]"
   - "[[Postmodernism]]"
   - "[[Post-structuralism]]"
@@ -102,7 +103,7 @@ updated: 2026-10-01
 
 > [!theory-position] 理论定位
 > - **解释对象** 公共政策决策中的权力分配博弈、全球化进程中教育制度与本土文化生态的互动关系，以及教育研究与比较教育学科演进中的[[Paradigm|范式]]分化、[[Knowledge Production|知识生产]]与方法论共存形态。
-> - **理论问题** 回应一元集权主义（Totalitarianism/Monism）对政治权力的垄断；反抗世界体系单一普遍主义（Universalism）对民族教育主权的[[Disciplina and Doctrina|规训]]；破解战[[Postpositivism|后实证主义]]与结构功能主义对跨国比较研究[[Epistemology|认识论]]与方法论的单边霸权。
+> - **理论问题** 回应一元集权主义（Totalitarianism/Monism）对政治权力的垄断；反抗世界体系单一普遍主义（Universalism）对民族教育主权的[[Disciplina and Doctrina|规训]]；破解战[[Postpositivism|后实证主义]]与[[Structural Functionalism|结构功能主义]]对跨国比较研究[[Epistemology|认识论]]与方法论的单边霸权。
 > - **理论类型** 兼具规范理论（规范民主参与与文化承认）、解释理论（解释多元群体妥协及教育政策分歧机制）与学科认识论/方法论[[Analytic Framework|分析框架]]（规范学术共同体对待异质范式的包容态度）。
 > - **知识位置** 跨越经典政治学（Rousseau, Truman, Dahl）、欧洲比较教育文化历史学（Sadler, Kandel, Hans, Mitter）与当代比较教育学科元研究（Rust, Johnstone, Allaf; Paulston）。
 
@@ -115,7 +116,7 @@ updated: 2026-10-01
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 政治学经典多元主义由让-雅克·[[Jean-Jacques Rousseau|卢梭]]（Rousseau, 1968）启蒙，戴维·杜鲁门（David Truman, 1971）与罗伯特·达尔（Robert Dahl, 1967）在多头政体研究中奠定；文化多元主义由[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler, 1900）、艾萨克·[[Immanuel Kant|康德]]尔（Isaac Kandel, 1933）与[[Wolfgang Mitter|沃尔夫冈·米特]]（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）在欧洲比较教育学中系统化；[[Paradigm|范式]]与学科层面的“健康多元主义”由[[Val D. Rust|瓦尔·拉斯特]]等学者（Rust et al., 1999, 2009）通过对半个世纪比较教育实证[[Document|文献]]的计量分析而正式确立。
-> - **原初问题** 政治学面对的是集权国家与单一精英垄断统治的威胁；欧洲比较教育面对的是冷战后全球同质化与世界体系单一普遍主义对本土文化传统的压制；比较教育元研究面对的是20世纪60至70年代[[Scientism|科学主义]]与结构功能主义对学科[[Epistemology|认识论]]的单极垄断，以及随后范式论争带来的“学科分裂危机”焦虑。
+> - **原初问题** 政治学面对的是集权国家与单一精英垄断统治的威胁；欧洲比较教育面对的是冷战后全球同质化与世界体系单一普遍主义对本土文化传统的压制；比较教育元研究面对的是20世纪60至70年代[[Scientism|科学主义]]与[[Structural Functionalism|结构功能主义]]对学科[[Epistemology|认识论]]的单极垄断，以及随后范式论争带来的“学科分裂危机”焦虑。
 > - **理论资源与材料** 民主契约论、西方工业社会工会与利益团体博弈实践、欧洲民族国家的语言宗教文化历史档案、比较教育学会（[[Comparative and International Education Society|CIES]]）半个世纪的旗舰期刊论文与学术年会[[Questionnaire|问卷调查]]数据。
 > - **形成路径** 从政治学关于社会团体竞争达成动态均衡的经验假说，拓展为教育制度抵抗跨国普遍主义技术[[Disciplina and Doctrina|规训]]的文化防线；最终在学科反思中，拉斯特等人借由长程文献计量揭示出26种[[Theoretical Perspective|理论视角]]的并存图谱，将范式多元论证为学科繁荣的健康常态。
 
@@ -174,7 +175,7 @@ updated: 2026-10-01
 > **应用实例** 欧洲各国在推进欧盟一体化教育基准（[[Bologna Process]]）的过程中，德国、法国与北欧国家持续保留了各具特色的[[German Dual Education System|双元制]]职业教育、大学校（Grandes Écoles）及全人综合学校传统，抵御单一量化指标的抹平。
 
 > [!theory-proposition] 命题四｜理论[[Paradigm|范式]]多元共存与方法互补构成学科成熟的“健康多元”态势
-> **解释** 一个学术领域的[[Conatus|生机]]与生命力并不取决于是否确立了排他性的“统一[[Scientific Paradigm|科学范式]]”，而取决于其容纳多元[[Epistemology|认识论]]、[[Theoretical Perspective|理论视角]]与研究方法的能力。比较教育学经历半个世纪的发展，彻底粉碎了20世纪60年代[[Positivism|实证主义]]与结构功能主义的垄断神话，形成了涵盖马克思主义、[[Postmodernism|后现代主义]]、[[Critical Theory|批判理论]]、女性主义、新制度主义等26种理论视角并存的“健康多元主义”。实证量化与质性阐释并非零和对抗，而是相互补充，为多维解构复杂跨国教育现象提供了最充沛的理论工具库。该命题由[[Val D. Rust|瓦尔·拉斯特]]等学者通过长程计量[[Meta-analysis|元分析]]（Rust et al., 1999, 2009）正式论证。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]
+> **解释** 一个学术领域的[[Conatus|生机]]与生命力并不取决于是否确立了排他性的“统一[[Scientific Paradigm|科学范式]]”，而取决于其容纳多元[[Epistemology|认识论]]、[[Theoretical Perspective|理论视角]]与研究方法的能力。比较教育学经历半个世纪的发展，彻底粉碎了20世纪60年代[[Positivism|实证主义]]与[[Structural Functionalism|结构功能主义]]的垄断神话，形成了涵盖马克思主义、[[Postmodernism|后现代主义]]、[[Critical Theory|批判理论]]、女性主义、新制度主义等26种理论视角并存的“健康多元主义”。实证量化与质性阐释并非零和对抗，而是相互补充，为多维解构复杂跨国教育现象提供了最充沛的理论工具库。该命题由[[Val D. Rust|瓦尔·拉斯特]]等学者通过长程计量[[Meta-analysis|元分析]]（Rust et al., 1999, 2009）正式论证。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]
 >
 > **应用实例** 在当代理论研究中，同一跨国教育改革政策既可被新制度主义学者解读为世界文化剧本的形式同形，亦可被批判学者解构为新自由主义话语霸权，又可被比较历史学者考证为本土文化与外部模式的[[Creativity|创造性]]双向互塑，展现出理论并存的互补释明力。
 

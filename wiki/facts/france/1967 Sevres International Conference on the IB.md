@@ -21,8 +21,8 @@ tags:
   - theme/qualification-recognition
 related_concepts:
   - "[[International Education]]"
-  - "[[International Schools]]"
   - "[[International Baccalaureate]]"
+  - "[[International Schools]]"
   - "[[Variable]]"
   - "[[Open-Mindedness]]"
 related_theories: []
@@ -52,7 +52,7 @@ updated: 2026-09-23
 
 > [!event-context] 事件背景
 > - **时间／地点** 1967 年 2 月，法国塞夫尔[[International Education\|国际教育]]研究中心。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, p. 26)]]
-> - **关键主体** [[International Schools Examination Syndicate\|ISES]]／IBO、法国研究与实验中心、九所潜在试验学校，以及保加利亚、英国、喀麦隆、法国、两个西德州、波兰、瑞典、瑞士、坦桑尼亚的政府代表；大学、[[OECD]]、[[UNESCO]]、欧洲委员会和国家考试机构也派员参加。
+> - **关键主体** [[International Schools Examination Syndicate\|ISES]]／[[International Baccalaureate|IBO]]、法国研究与实验中心、九所潜在试验学校，以及保加利亚、英国、喀麦隆、法国、两个西德州、波兰、瑞典、瑞士、坦桑尼亚的政府代表；大学、[[OECD]]、[[UNESCO]]、欧洲委员会和国家考试机构也派员参加。
 > - **制度背景** 早期教师会议已经产生课程讨论，但没有足够授权把 IB 变成大学入学资格。福特基金要求举行一场由实际承认主体参加的国际会议。
 > - **准备条件** 会前已完成六学科框架、英法双语教学大纲、考试方案与样题；九所学校愿意参与试验。会议因此评议的是可实施方案，而不是抽象愿景。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 26–30)]]
 

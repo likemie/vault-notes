@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 194
+argument_related_count: 195
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -218,6 +218,7 @@ related_persons:
   - "[[Herbert Blalock]]"
 related_facts:
   - "[[Mixed Methods International Research Association]]"
+  - "[[National Institutes of Health]]"
 related_arguments: []
 sources:
   - "[[books/Creswell_2022_SAGE/Creswell_2022_SAGE|Creswell_2022_SAGE]]"
@@ -1749,7 +1750,7 @@ Creswell & Creswell 提出混合方法研究的六个定义性特征，从核心
 > | **设计类型** | 聚敛式 | 解释性序列 | 探索性序列+复杂实验嵌入 | 社会正义解释性序列 |
 > | **整合方式** | 合并比较 | 连接（量化→质性跟进） | 连接（质性→工具→实验） | 连接+理论框架包裹 |
 > | **数据规模** | 全国数据+6组利益相关者 | QN: 136→61, QL: 21 | 质性→工具→实验 | QN: 1431, QL: 12 |
-> | **团队特征** | 双重专长团队 | 跨学科+NIH资助 | 跨国跨机构大型团队 | 单一研究者 |
+> | **团队特征** | 双重专长团队 | 跨学科+[[National Institutes of Health\|NIH]]资助 | 跨国跨机构大型团队 | 单一研究者 |
 > | **复杂度** | ★★☆ | ★★★ | ★★★★★ | ★★★☆ |
 >
 > 规律：研究复杂度与研究问题的广度和情境特殊性成正比。聚敛式适合已有明确变量和构念域的领域；序列设计适合探索机制或开发工具；复杂设计适合大规模跨文化项目；理论框架嵌入适合有明确社会变革导向的研究。

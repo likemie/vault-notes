@@ -12,7 +12,7 @@ summary: "由乔治·贝雷迪开创的比较教育学经典经验归纳研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 33
+method_related_count: 34
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - theme/comparative-methodology
   - theme/scientific-paradigm
 related_concepts:
+  - "[[Working Hypothesis]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
   - "[[Hypothesis]]"
@@ -74,7 +75,7 @@ updated: 2026-10-01
 ## 定义
 
 > [!def] 方法定义
-> 贝雷迪四步比较法是由美籍波兰裔比较教育学家[[George Bereday|乔治·贝雷迪]]（[[George Bereday|George Z. F. Bereday]]）在 1964 年经典专著《教育中的比较方法》（*Comparative Method in Education*）中系统阐明的经验归纳比较程序。该方法将跨国教育研究划分为由浅入深、逻辑连贯的四个操作阶段：以搜集单国客观事实为起点的**描述（Description）**、以跨学科人文社科视角深挖制度动因的**解释（Interpretation）**、将多国事实与解释依循统一范畴横向对照并提出工作假说的**并置（Juxtaposition）**，以及在同一[[Analytic Framework|分析框架]]下同时比对多国证据以提炼跨国通则或结构类型学的**综合分析（Comparison / Total Analysis）**。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 127–128)]]; [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 61–62)]]
+> 贝雷迪四步比较法是由美籍波兰裔比较教育学家[[George Bereday|乔治·贝雷迪]]（[[George Bereday|George Z. F. Bereday]]）在 1964 年经典专著《教育中的比较方法》（*Comparative Method in Education*）中系统阐明的经验归纳比较程序。该方法将跨国教育研究划分为由浅入深、逻辑连贯的四个操作阶段：以搜集单国客观事实为起点的**描述（Description）**、以跨学科人文社科视角深挖制度动因的**解释（Interpretation）**、将多国事实与解释依循统一范畴横向对照并提出[[Working Hypothesis|工作假说]]的**并置（Juxtaposition）**，以及在同一[[Analytic Framework|分析框架]]下同时比对多国证据以提炼跨国通则或结构类型学的**综合分析（Comparison / Total Analysis）**。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 127–128)]]; [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 61–62)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 两个或两个以上主权国家或文化区域的国民教育制度、法令规程、课程教学实践及相关宏观社会背景数据。
@@ -104,7 +105,7 @@ updated: 2026-10-01
 > - **辅助技术** 
 >   - [[Primary and Secondary Documents|原始文献]]多语种校验与跨文化语义核对；
 >   - 横向范畴对照矩阵构建；
->   - 工作假说归纳推演；
+>   - [[Working Hypothesis|工作假说]]归纳推演；
 >   - [[Theoretical Sampling|理论抽样]]与多国对比类型学提炼。
 
 ---
@@ -117,7 +118,7 @@ updated: 2026-10-01
 > 2. **解释阶段（Interpretation）**
 >    引入历史学、政治学、经济学与社会学等多学科概念工具，深入剖析上述教育事实背后的制度动因与文化脉络，回答“该制度为何在特定历史文化中呈现出此种形态”。
 > 3. **并置阶段（Juxtaposition）**
->    将各国独立的描述与解释成果，依据统一的分析范畴（如办学体制、财政分担、教师培养）进行横向对称排列，确立客观可比性基准，并在此基础上正式提出待检验的工作假说（Working [[Hypothesis|hypotheses]]）。
+>    将各国独立的描述与解释成果，依据统一的分析范畴（如办学体制、财政分担、教师培养）进行横向对称排列，确立客观可比性基准，并在此基础上正式提出待检验的[[Working Hypothesis|工作假说]]（Working [[Hypothesis|hypotheses]]）。
 > 4. **综合分析阶段（Comparison / Total Analysis）**
 >    在同一理论框架下多国数据同步综合比对，对工作假说进行深入论证与检验，探寻贯通不同体制的普遍动力学机制，最终推导出跨国普遍规律或理论类型学。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 127–128)]]; [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 61–62)]]
 
@@ -157,7 +158,7 @@ updated: 2026-10-01
 
 > [!method-limits] 方法局限
 > - **归纳滞后与理论依赖风险** 过度依赖“先描述再归纳”容易使研究者耗费巨量精力于海量资料的表层堆砌，导致理论建构迟滞；且研究者在初始资料搜集时实质上已暗含了未受检验的直觉预设。
-> - **工作假说迟置** 将假说的提出延后至第三阶段（并置），容易导致前两阶段的描述与解释缺乏清晰的问题聚焦，产生庞杂而缺乏解释针对性的国别资料包袱。
+> - **[[Working Hypothesis|工作假说]]迟置** 将假说的提出延后至第三阶段（并置），容易导致前两阶段的描述与解释缺乏清晰的问题聚焦，产生庞杂而缺乏解释针对性的国别资料包袱。
 > - **误用风险** 最常见的误用是将“并置”误认为比较研究的终点，仅做两国材料的机械罗列拼接，未能在第四阶段展开真正的跨国综合分析与法则提炼。
 > - **补救方式** 结合明确的[[Research Question|研究问题]]聚焦前置框架；在描述阶段严格设定范畴指标；结合[[Grounded Theory|扎根理论]]的[[Constant Comparison|持续比较法]]（Constant Comparison）与[[Reflexivity|反身性]]审查提升理论敏感度。
 

@@ -7,14 +7,14 @@ aliases:
 summary: "梁启超 1902 年引入的现代国族概念，经费孝通 1988 年以“多元一体”重新阐释后进入中共主流话语，指以当代物理领土或汉文化为边界、包容 56 个民族的单一国族共同体"
 type: concept
 domain: "chinese-philosophy"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
 confidence: high
 status: active
 created: '2026-05-25'
-updated: 2026-09-17
+updated: 2026-10-01
 tags:
   - region/china
   - theme/national-identity
@@ -33,7 +33,8 @@ related_concepts:
   - "[[One Country, Two Systems]]"
   - "[[Grand Theory]]"
   - "[[Retrotopia]]"
-related_theories: []
+related_theories:
+  - "[[Structural Functionalism]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
@@ -184,7 +185,7 @@ related_arguments:
 > > - **清朝身份的主权争议** — 中华民族[[Grand Theory\|宏大叙事]]无法容忍新清史学者强调清朝满族统治者内陆亚洲特异性身份的研究，官方常将其定性为分裂学术阴谋[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 106)]]。
 
 > [!critique]- 外部批评
-> - **剥夺少数民族主体性能动性** — [[Argument_Bulag_2024_CE\|Bulag (2024)]] 指出，中华民族多元一体论述滥用结构功能主义，将历史上血腥的侵略与同化包装为“不自觉的整合”，剥夺了少数民族定义中国的主体性能动性[[Argument_Bulag_2024_CE\|(Bulag, 2024, pp. 104–105)]]。
+> - **剥夺少数民族主体性能动性** — [[Argument_Bulag_2024_CE\|Bulag (2024)]] 指出，中华民族多元一体论述滥用[[Structural Functionalism|结构功能主义]]，将历史上血腥的侵略与同化包装为“不自觉的整合”，剥夺了少数民族定义中国的主体性能动性[[Argument_Bulag_2024_CE\|(Bulag, 2024, pp. 104–105)]]。
 > - **教材汉儒正统化引发的符号隔阂** — [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] 指出，基于该概念构建的官方教材高度强调汉儒传统，导致少数民族与信教学生产生[[Cultural Disembedding\|文化脱嵌]]与[[Reflexivity\|反思性]]疏离[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 
 > [!warning] 适用局限

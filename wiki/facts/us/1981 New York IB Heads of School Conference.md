@@ -54,7 +54,7 @@ updated: 2026-09-03
 ## 经过
 
 > [!dev-timeline]- 从私下猜疑到制度化处理
-> - **1979 年　早期警讯** 维也纳会议后，尼科尔获悉有人把 [[International Baccalaureate North America\|IBNA]] 描述为威胁 IBO 未来的分离主义组织。
+> - **1979 年　早期警讯** 维也纳会议后，尼科尔获悉有人把 [[International Baccalaureate North America\|IBNA]] 描述为威胁 [[International Baccalaureate|IBO]] 未来的分离主义组织。
 > - **1981 年会前　董事会预警** 雷诺向 IBNA 董事会报告，部分校长担忧 IB 可能美国化，并认为纽约办公室资金和薪酬过高、正在挤占 IBO 资源。
 > - **会议期间　极端推论公开化** 一名亚洲学校校长主张，现有资源分配最终会使 IBO 崩溃或被美国方面完全接管。
 > - **专门会议　核对治理与财务** 哈戈特邀请质疑者与 IBNA 董事会举行专门会谈，误解经具体说明得到澄清。
@@ -65,7 +65,7 @@ updated: 2026-09-03
 
 > [!tension] 区域增长与国际共同体
 > - **区域扩张威胁全球平衡（蓝方）** 北美办公室似乎拥有较高薪酬和快速增长，区域法人可能吸走全球资源、改变课程方向，甚至取得组织控制权。
-> - **区域扩张支撑全球生存（红方）** 纽约办公室实际条件简陋且同样现金短缺；北美新增学校带来的订阅和考试收入，是 IBO 减少基金会依赖和维持全球业务的重要来源。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 143–147)]]
+> - **区域扩张支撑全球生存（红方）** 纽约办公室实际条件简陋且同样现金短缺；北美新增学校带来的订阅和考试收入，是 [[International Baccalaureate|IBO]] 减少基金会依赖和维持全球业务的重要来源。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 143–147)]]
 
 > [!warrant]- 公开会议如何改变冲突性质
 > 私下传闻难以区分城市成本、象征印象和真实资源流向。会议把质疑公开化，权威董事会据此提供可核查说明，共同管理委员会再把争论转化为分配协议；其后两次区域向总部的资金支持提供了行为证据。冲突没有因价值共识自动消失，而是获得了可以反复使用的处理机制。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 146–147)]]
@@ -74,7 +74,7 @@ updated: 2026-09-03
 
 > [!finding-cards] 影响与后果
 > - **治理透明度** 校长年会成为公开检验区域费用、代表性和课程控制疑虑的场所。
-> - **跨组织协调** [[International Baccalaureate North America\|IBNA]] 领导进入 IBO 管理委员会，使区域意见与全球责任在共同机构内协商。
+> - **跨组织协调** [[International Baccalaureate North America\|IBNA]] 领导进入 [[International Baccalaureate|IBO]] 管理委员会，使区域意见与全球责任在共同机构内协商。
 > - **身份边界** 争议推动组织更明确地区分法律和财务上的区域自主，与课程和考试上的国际统一。
 > - **财务互助** 1981 与 1983 年资助显示北美增长可以反向支持日内瓦，而不只是消耗全球资源。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 146–147)]]
 

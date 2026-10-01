@@ -13,7 +13,7 @@ aliases:
 summary: "在教育政策制定与跨国治理中，实证社会科学被政治决策者和技术官僚工具化为推卸行政责任、免受道德反思与公众问责、为既定政治决策提供客观性背书的政治借口机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Governing by Numbers]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Structural Functionalism]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Problem Approach]]"
@@ -104,7 +105,7 @@ updated: 2026-10-01
 > [!citation-card] 卡扎米亚斯与卡诺伊论机构资助共谋与资本主义再生产的意识形态借口
 > 战后功能主义、发展与现代化社会理论及其衍生的教育政策处方，不仅是对战后社会经济条件的回应，更是“得到了政府、慈善基金会以及国际组织（如[[OECD|经合组织]]、[[World Bank|世界银行]]）基于自身政策利益所给予的制度性资助与强化的结果”。[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy）进一步揭示，以个体理性选择与人力资本为核心的实证主义社会科学，实质上构成了遮蔽阶级结构压迫与资本主义制度矛盾的意识形态借口（ideological alibi）。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148, 153–154)]]
 >
-> *Functionalism and social theories of modernisation/development were reinforced by institutional support from governments, foundations, and international organisations (OECD, World Bank) for their own policy interests... Carnoy (1983) exposed positivist social science as an ideological alibi for capitalist reproduction.*
+> *[[Structural Functionalism|Functionalism]] and social theories of modernisation/development were reinforced by institutional support from governments, foundations, and international organisations (OECD, World Bank) for their own policy interests... Carnoy (1983) exposed positivist social science as an ideological alibi for capitalist reproduction.*
 
 > [!boundary]- 概念边界
 > - **不等于 [[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]（Instrumental Use）** 工具性使用强调决策者直接依据研究发现来决定政策走向；而“合法化借口”属于象征性使用（Symbolic Use）的激进化形态，政策方向早已由政治意识形态预先设定，社会科学仅在事后或流程中充当免责盾牌与政治论据。
@@ -159,7 +160,7 @@ updated: 2026-10-01
 > **作为国家五年计划与政策投资的合法化借口** 马修指出，美国实证功能主义与[[Quantitative Research\|量化研究]]之所以压倒霍姆斯折衷复杂的问题法，其根源不在于[[Epistemology\|认识论]]上的优越，而在于现代国家规划体制（如中央五年计划、综合中学改革、发展中国家技术援助）急需确定性的科学依据为既定预算与路线背书；[[Positivism\|实证主义]]产出的直观回归系数与硬事实，完美充当了技术官僚推卸行政责任与逃避道德反思的科学借口（alibi）。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 64, 67–68)]]
 
 > [!claim] [[Andreas Kazamias|Kazamias, A.]] M.
-> **制度赞助与政策利益驱动下的范式强化** 卡扎米亚斯（Kazamias, 2009a）进一步揭示，战后实证功能主义与现代化发展理论在比较教育学中的支配地位，根本上是冷战地缘政治与福利国家规划相互交织的产物。这类研究之所以迅速获得官方独宠，在于其“得到了政府、慈善基金会以及国际组织（如[[OECD|经合组织]]、[[World Bank|世界银行]]）基于自身政策利益所给予的制度性资助与强化”；客观科学的修辞有效掩盖了援助项目背后的地缘政治目的与西方中心主义霸权。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148)]]
+> **制度赞助与政策利益驱动下的范式强化** 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）进一步揭示，战后实证功能主义与现代化发展理论在比较教育学中的支配地位，根本上是冷战地缘政治与福利国家规划相互交织的产物。这类研究之所以迅速获得官方独宠，在于其“得到了政府、慈善基金会以及国际组织（如[[OECD|经合组织]]、[[World Bank|世界银行]]）基于自身政策利益所给予的制度性资助与强化”；客观科学的修辞有效掩盖了援助项目背后的地缘政治目的与西方中心主义霸权。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148)]]
 
 ---
 

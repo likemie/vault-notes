@@ -8,7 +8,7 @@ aliases:
 summary: "IB 文凭项目的跨学科核心必修课程，通过比较知识形成方式、证据标准与认识边界，连接学科学习、个人经验和批判性反思。"
 type: concept
 domain: "curriculum"
-related_count: 75
+related_count: 78
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -35,6 +35,8 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Learner Autonomy]]"
   - "[[Extended Essay]]"
+  - "[[International Schools]]"
+  - "[[Homework]]"
   - "[[Rationalism in International Relations]]"
   - "[[Student Engagement]]"
   - "[[Constructed Knowledge]]"
@@ -47,7 +49,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Class Size]]"
   - "[[Teacher Beliefs]]"
-  - "[[Homework]]"
   - "[[Empty Knower]]"
   - "[[Bildung]]"
   - "[[Conatus]]"
@@ -62,12 +63,14 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[Praxis]]"
   - "[[Concurrency of Learning]]"
+  - "[[Creativity, Action, Service]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Pragma-Dialectics]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Convenience Sampling]]"
+  - "[[Analysis of Variance]]"
   - "[[Case Study]]"
   - "[[Mixed Methods Research]]"
 related_persons:
@@ -86,8 +89,8 @@ related_arguments:
   - "[[Argument_Lakhani_2012_AKUIED]]"
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Darwish_2009_Queens]]"
-  - "[[Argument_Bergeron_2019_JRIE]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch07]]"
+  - "[[Argument_Bergeron_2019_JRIE]]"
   - "[[Argument_Cole_2005_JRIE]]"
   - "[[Argument_Bergeron_2015_TeachingTOK]]"
   - "[[Argument_Zemplen_2007_SciEduc]]"
@@ -102,7 +105,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-30
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # Theory of Knowledge
@@ -204,12 +207,44 @@ updated: 2026-09-29
 > - **显性思维训练** TOK 是以独立课程形式明确提出[[Critical Thinking\|批判性思维]]目标的 DP 必修科目，但具体技能是否进入评分仍需单独检验。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, p. 247)]]
 > - **双重评估** 课程通过校外论文与校内展示或知识展演形成终结性评价，并与[[Extended Essay\|拓展论文]]组合贡献最多 3 分奖励分。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 16–18)]] [[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 38–40)]]
 
+### 课程自由只有与教师培训和外部调节结合才能维持共同质量
+
+TOK 早期允许学校自行设计课程，并可因地方文化条件省略不适合的部分。这种自由提高了教师投入，也使一些学校把课程处理成彼此无关的时事讲座。课程质量因而不能只靠大纲维持，还需要教师共同讨论、在职培训和外部调节。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 178–180)]]
+
+> [!tension] 地方设计自由与跨校共同质量
+> - **地方自由（蓝方）** 学校可以从学生已有学科经验和本地文化问题出发组织课程，不必把 TOK 教成固定的哲学史、[[Epistemology|认识论]]专课或符号逻辑课程。教师因此能够把跨学科问题转化为当地学生可参与的探究。
+> - **共同质量（红方）** 自由度过大时，课程可能退化为缺少连续结构的时事讲座。[[International Baccalaureate|国际文凭组织]]（International Baccalaureate Organization，IBO）需要通过学术顾问讨论、教师培训和评价调节，确保不同学校仍然围绕知识、证据、判断和学科方法开展反思。
+
+> [!case] 暑期学校把抽象课程理念转化为教师共同实践
+> TOK 得到教师支持的重要迹象，是世界各地暑期学校持续吸引教师和学生参加，每次平均约 35–40 人。苏·巴斯蒂安（Sue Bastian）在联合国[[International Schools|国际学校]]、卢博尔·韦莱茨基（Lubor Velecky）在南安普敦大学，帮助不熟悉法国哲学传统的英美学校教师理解课程。培训既解释 TOK 不是什么，也让教师共同讨论怎样把[[Knowledge Questions|知识问题]]组织成连续课程。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 179)]]
+
+> [!question] 共同题目既评价学生，也向新教师示范课程边界
+> - 如果道德规范只是特定社会的惯例，追求更公正的社会是否仍有意义？
+> - 阅读历史小说是否有助于理解历史？如果有，它通过什么方式发挥作用？
+> - 语言可以通过哪些方式妨碍思想？请用例子说明一般观点。
+> - 理论在一门科学的活动中发挥什么作用？请讨论并举例。
+>
+> 题目横跨道德判断、历史理解、语言与思想、科学理论，要求学生把具体例子转化为一般论证。共同性落在问题形式和推理要求，不要求所有学校教授同一套哲学结论。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 180)]]
+
+> [!ref-table] 评价机制逐步平衡课程地位、学校自主与跨校可比性
+> | 评价安排 | 具体办法 | 主要目的 | 风险与调整 |
+> |---|---|---|---|
+> | 文凭分数中的低权重位置 | 优秀表现奖励 1 分；完全不参与扣 1 分；分数作用于文凭总分，不属于任何单科 | 防止 TOK 在终结性考试压力下被学校和学生忽视 | 权重过高会把 TOK 推向普通考试学科 |
+> | 早期共同试卷 | 外部命题、校内评分、外部调节，并与其他学校评价共同决定奖励或扣分 | 在没有督学体系的条件下建立共同参照，也向新学校示范课程问题 | 共同试卷可能使 TOK 逐渐变成第七门考试学科 |
+> | 1985 年[[Homework\|作业]]样本调节 | 取消共同试卷，由学校提交课程作业样本接受外部调节 | 保留学校课程设计与教师评价，同时维持外部质量控制 | 调节质量依赖作业样本能否代表完整课程与学生表现 |
+> | 1985 年结果分布 | 2,227 名文凭考生中，620 人获得奖励分，58 人被扣分 | 描述评价机制在成熟期的实际使用规模 | 分数分布不能证明 TOK 的学习效果，也不能显示学校间实施差异 |
+
+> [!warrant]- 评价需要约束最低参与和共同标准，但不能取代课程本身
+> 完全不计入文凭会使 TOK 在考试导向环境中被边缘化，照搬学科外部考试又会压缩跨学科探究和地方设计空间。低权重加减分与作业样本外部调节共同建立最低约束，教师培训则负责提升课堂内容。三者分别处理课程地位、可比性和教学能力，缺少任何一项都难以维持质量。
+
 ### 1987 年附录一把 TOK 制度化为两年连续的反思课程
 
 > [!claim] 课程以学生作为认知者的经验为反思对象
 > TOK 是每位 IB 文凭候选人的必修课程，也是 IB 教育哲学的关键组成。课程从学生在课堂内外获得的知识和经验出发，通过分析概念、论证以及价值判断的根据，培养学生对自己和他人所知内容的批判意识。TOK 与第三组哲学选修具有相同目标，并共享一项表现标准；前者面向所有学生，后者面向希望专门学习哲学的学生。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Appendix 1, p. 221)]]
 
 > [!contrast-table] 成熟课程规范划定的内容边界
+>
+> <span class="tok-content-boundary-table-marker" aria-hidden="true"></span>
 >
 > | 可以纳入课程 | 需要避免的课程形态 |
 > |:---|:---|
@@ -257,7 +292,7 @@ updated: 2026-09-29
 
 ### 2013 年指南以知识问题连接大纲、分析工具与评估任务
 
-> [!ref-table] 2013 年 ToK 大纲、分析工具与评估
+> [!ref-table] 2013 年 TOK 大纲、分析工具与评估
 > | 结构 | 主要内容 | 在课程中的作用 |
 > |---|---|---|
 > | **TOK 中的知识** | 共享知识与个人知识 | 要求学生在学科共同体形成的知识与个人经验形成的知识之间保持平衡。 |
@@ -324,7 +359,7 @@ updated: 2026-09-29
 > **[[Knowledge Questions\|知识问题]]的枢纽作用** 知识问题把学科或生活情境中的具体知识主张转化为关于知识的一般探究，再由[[Ways of Knowing\|认知方式]]、[[Areas of Knowledge\|知识领域]]和不同观点提供分析路径。学生由此练习论证、评价和反思，但技能范围仍受课程命令词和评估任务约束。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 35–40)]]
 
 > [!claim] Bergeron, L., & Rogers, L.
-> **长效的[[Epistemology\|认识论]]迁移与“无法撤回的钟声”** TOK 的核心价值不仅停留在课堂，其赋予的[[Metacognition\|元认知]]与批判技能（如多视角分析、应对争议）会广泛迁移到常规学科和大学学习中。定性数据显示，一旦学生开始在各个知识领域间建立连接，这种深刻的认知转变就“再也无法被撤回（that bell can't be unrung）”，构成了真正改变人生的长期教育干预。[[Argument_Bergeron_2019_JRIE\|(Bergeron & Rogers, 2019, pp. 176-177)]]
+> **[[Epistemology|认识论]]反思可能形成持续迁移** TOK 的价值不只停留在本课程。多视角分析、处理争议和反思知识依据等[[Metacognition\|元认知]]活动，可能迁移到其他学科和大学学习。参与者用敲响的钟无法收回这一比喻描述变化的不可逆感，说明一旦学生开始主动连接知识领域，新的提问方式可能持续影响后续学习。[[Argument_Bergeron_2019_JRIE\|(Bergeron & Rogers, 2019, pp. 176–177)]]
 
 ---
 
@@ -358,10 +393,10 @@ updated: 2026-09-29
 > TOK 这类高度开放的[[Epistemology\|认识论]]课程对授课教师教学理念具有重塑作用，但其开放式探究在传统学校行政管理与评估体系中也遭遇制度化挑战。
 
 > [!claim] Bergeron, L., & Rogers, L.
-> **作为专业发展[[Champ\|场域]]与教学法溢出** 教授高度关注批判性反思和多视角探究的 TOK，本质上对教师也是一种深度的“认识论干预”。教师不仅在处理复杂议题时累积了效能感，更重要的是产生了**教学法的溢出效应（spill-over effect）**——他们将在 TOK 中掌握的“探究的结构化方式（thinking routines）”和以学生为中心的反思性实践，广泛迁移并重塑了其日常教授常规学科的教学模式。[[Argument_Bergeron_2019_JRIE\|(Bergeron & Rogers, 2019, pp. 177-179)]]
+> **TOK 也构成教师的专业学习[[Champ|场域]]** 教授批判性反思和多视角探究，会迫使教师重新检查自己的知识观和教学判断。教师在 TOK 中形成的结构化探究常规和以学生为中心的反思实践，可能产生教学法外溢（pedagogical spillover），进入其常规学科教学。[[Argument_Bergeron_2019_JRIE\|(Bergeron & Rogers, 2019, pp. 177–179)]]
 
 > [!claim] Bergeron, L., & Rogers, L.
-> **“高期望，低支持”的实施阻力** 尽管教师高度认同 TOK 价值，但由于其追求多视角探究、没有“唯一正确答案”，教师在评估时面临极大内耗，且官方提供的量规与实际需要的实操支持之间存在断层。同时，由于多数 TOK 教师并非专职，常伴有跨学科备课的“资质焦虑”；部分学校甚至将 TOK 排在放学后（“附加物心态”），不仅导致大[[Class Size\|班额]]难以开展高质量反思，更隐性削弱了课程的学术合法性。[[Argument_Bergeron_2019_JRIE\|(Bergeron & Rogers, 2019, pp. 180-182)]]
+> **高要求与低支持共同制造实施阻力** TOK 强调多视角探究，评价中通常不存在唯一正确答案，教师需要较强的课程判断能力。官方量规与课堂操作支持之间仍可能存在断层；多数教师还需兼教其他学科，跨学科备课容易引发能力焦虑。部分学校把 TOK 排在放学后，使课程呈现附加项目的地位，大[[Class Size\|班额]]又进一步限制高质量讨论。[[Argument_Bergeron_2019_JRIE\|(Bergeron & Rogers, 2019, pp. 180–182)]]
 
 ---
 
@@ -391,7 +426,7 @@ updated: 2026-09-29
 >
 > - **1970 年代至 1985 年的质量保障调整**
 >
->   学校设计自由促进教师投入，也使部分课程一度变成彼此无关的时事讲座。IBO 以在职培训和学术顾问持续讨论稳定课程，并用奖励 1 分、完全不参与扣 1 分的低权重办法防止 TOK 被考试科目挤出。早期评价采用外部命题、校内评分和外部调节的共同试卷；1985 年改为提交课程[[Homework|作业]]样本进行调节，以避免课程退化为普通“第七学科”。当年 2,227 名文凭考生中，620 人获奖励分，58 人被扣分。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 178–180)]]
+>   学校设计自由促进教师投入，也暴露出课程连续性和跨校可比性问题。[[International Baccalaureate|IBO]] 先以共同试卷、校内评分和外部调节建立参照，1985 年再改为课程[[Homework|作业]]样本调节。评价机制、教师暑期学校和学术顾问讨论共同支持课程成熟，具体办法见上文质量保障部分。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 178–180)]]
 >
 > - **1987 年附录记录的成熟规范**
 >
@@ -426,13 +461,13 @@ updated: 2026-09-29
 >
 > | 研究 | 比较或干预 | 结果[[Variable\|变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 254)]] | TOK 学习阶段<br>Y12 与 Y11 | [[Critical Thinking Strategies Scale\|CTSS]] 总分 | Y12 622<br>Y11 620 | Y12 4.85（1.05）<br>Y11 4.62（1.08） | Hedges’ $g = 0.216$（派生） | $t(1240) = 3.04$<br>$p < .001$ | 横断调查；自报测量；年级差异不能证明 TOK 导致能力增长 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 255)]] | TOK 学习阶段<br>Y12 与 Y11 | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ-CT]] | Y12 622<br>Y11 620 | Y12 4.69（1.15）<br>Y11 4.48（1.22） | Hedges’ $g = 0.177$（派生） | $t(1240) = 3.04$<br>$p < .01$ | 横断调查；自报测量；年级差异不能证明 TOK 导致能力增长 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 257)]] | DP 与非 DP 毕业生 | ATAR | DP 94<br>非 DP 267 | DP 94.13（6.79）<br>非 DP 89.29（12.07） | Hedges’ $g = 0.441$（派生） | $t(290) = 4.76$<br>$p < .001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 TOK 与整个 DP，也不能排除选课效应 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 258)]] | DP 与非 DP 毕业生 | [[Academic Self-Concept General Scale\|ASC]] | DP 99<br>非 DP 283 | DP 6.25（0.96）<br>非 DP 5.75（1.02） | Hedges’ $g = 0.497$（派生） | $t(380) = 4.24$<br>$p < .001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 TOK 与整个 DP，也不能排除选课效应 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 257–258)]] | DP 与非 DP 毕业生 | 预期大学成果 | DP 99<br>非 DP 283 | DP 3.43（0.43）<br>非 DP 3.32（0.47） | Hedges’ $g = 0.239$（派生） | $t(380) = 2.25$<br>$p < .001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 TOK 与整个 DP，也不能排除选课效应 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 256–258)]] | DP 与非 DP 毕业生 | [[California Critical Thinking Disposition Inventory\|CCTDI]] 总分 | DP 42<br>非 DP 126 | DP 300.95（30.05）<br>非 DP 293.98（27.75） | Hedges’ $g = 0.245$（派生） | — | 组间比较；完成者较少且存在额外登录造成的[[Attrition\|流失]]；便利样本不具代表性 |
-> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015, p. 15)]] | TOK 教师教龄<br>10年以上 与 1-3年 | [[Confidence Teaching TOK Scale\|CTT]] 教学信心总分 | 10年以上 218<br>1-3年 289 | 10年以上 3.40（0.41）<br>1-3年 3.17（0.47） | Hedges’ $g = 0.519$（派生） | ANOVA 事后比较<br>组间差异显著 | 横断调查；自报测量；教龄增长对信心的影响不能排除幸存者偏差 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 254)]] | TOK 学习阶段<br>12 年级与 11 年级 | [[Critical Thinking Strategies Scale\|批判性思维策略量表]]（Critical Thinking Strategies Scale，CTSS）总分 | 12 年级 622 人<br>11 年级 620 人 | 12 年级 4.85（1.05）<br>11 年级 4.62（1.08） | — | $t(1240)=3.04$<br>$p<.001$ | 横断调查；自报测量；年级差异不能证明 TOK 导致能力增长 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 255)]] | TOK 学习阶段<br>12 年级与 11 年级 | [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|学习动机策略问卷批判性思维分量表]]（Motivated Strategies for Learning Questionnaire Critical Thinking Subscale，MSLQ-CT） | 12 年级 622 人<br>11 年级 620 人 | 12 年级 4.69（1.15）<br>11 年级 4.48（1.22） | — | $t(1240)=3.04$<br>$p<.01$ | 横断调查；自报测量；年级差异不能证明 TOK 导致能力增长 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 257)]] | DP 与非 DP 毕业生 | 澳大利亚高等教育入学排名（Australian Tertiary Admission Rank，ATAR） | DP 94 人<br>非 DP 267 人 | DP 94.13（6.79）<br>非 DP 89.29（12.07） | — | $t(290)=4.76$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 TOK 与整个 DP，也不能排除选课效应 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 258)]] | DP 与非 DP 毕业生 | [[Academic Self-Concept General Scale\|一般学术自我概念量表]]（Academic Self-Concept General Scale，ASC） | DP 99 人<br>非 DP 283 人 | DP 6.25（0.96）<br>非 DP 5.75（1.02） | — | $t(380)=4.24$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 TOK 与整个 DP，也不能排除选课效应 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 257–258)]] | DP 与非 DP 毕业生 | 预期大学成果 | DP 99 人<br>非 DP 283 人 | DP 3.43（0.43）<br>非 DP 3.32（0.47） | — | $t(380)=2.25$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 TOK 与整个 DP，也不能排除选课效应 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 256–258)]] | DP 与非 DP 毕业生 | [[California Critical Thinking Disposition Inventory\|加利福尼亚批判性思维倾向量表]]（California Critical Thinking Disposition Inventory，CCTDI）总分 | DP 42 人<br>非 DP 126 人 | DP 300.95（30.05）<br>非 DP 293.98（27.75） | — | — | 组间比较；完成者较少且存在额外登录造成的[[Attrition\|流失]]；便利样本不具代表性 |
+> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015, p. 15)]] | TOK 教师教龄<br>10 年以上与 1–3 年 | [[Confidence Teaching TOK Scale\|TOK 教学信心量表]]（Confidence Teaching TOK Scale，CTT）总分 | 10 年以上 218 人<br>1–3 年 289 人 | 10 年以上 3.40（0.41）<br>1–3 年 3.17（0.47） | — | [[Analysis of Variance\|方差分析]]（analysis of variance，ANOVA）事后比较显示组间差异显著 | 横断调查；自报测量；教龄增长对信心的影响不能排除幸存者偏差 |
 
 ---
 
@@ -490,9 +525,9 @@ updated: 2026-09-29
 > [!case] 分权制度为课程本地化提供了双重资格接口
 > 渥太华 Ashbury College 于 1975 年采用 IB。安大略省高中毕业课程由学校和教师保有较大决定空间，并主要依靠教师评价；学校因而可以设计同时满足省级毕业与 IB 要求的共同课程。TOK 没有作为额外的无学分负担附着在文凭课程外，而被发展为十三年级哲学课程，并取得省教育部门的学分承认。学生由此可在同一学习安排中获得地方资格与国际资格。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 156–157)]]
 
-> [!evidence-grid]- Ashbury 案例拆解
+> [!evidence-grid] Ashbury 案例拆解
 > - **制度条件** 省级规则允许教师评价和学校课程设计进入毕业认证，为跨体系课程对接保留空间。
-> - **课程翻译** 学校用已有的“十三年级哲学”语言解释 TOK，使跨学科[[Epistemology\|认识论]]要求获得本地课程名称与学分位置。
+> - **课程翻译** 学校用已有的十三年级哲学课程解释 TOK，使跨学科[[Epistemology\|认识论]]要求获得本地课程名称与学分位置。
 > - **[[Teacher Professional Agency\|教师能动性]]** 具体教师对 TOK 的投入把正式兼容性转成可持续课堂；法规允许采用，却不会自动生成高质量实施。
 > - **参与层次** 完整文凭构成课程核心，外围学生仍可参加单科 IB 考试并计入省级毕业课程，形成由整体课程向外扩展的参与结构。
 > - **证据边界** Ashbury 是收费私立学校且奖学金规模有限，案例能说明制度兼容和课程翻译，不能证明进入机会公平。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 156–157)]]
@@ -519,4 +554,4 @@ updated: 2026-09-29
 > - **学校实施与批判性思维表现** 以[[Mixed Methods Research\|混合方法]]检验澳大利亚学校的 TOK 实施与批判性思维表现。[[Argument_Cole_2015_AJE\|Cole et al. (2015)]]
 > - **评估与科学教育议程** 分析 TOK 评估、教科书和科学教育议程之间的结构性冲突。[[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]
 > - **[[Teacher Beliefs\|教师信念]]与实施挑战** 以混合方法考察 TOK 课程如何重塑教师信念，以及在评估与时间管理上面临的系统性阻力。[[Argument_Bergeron_2019_JRIE\|Bergeron & Rogers (2019)]]
-> - **核心课程的[[Concurrency of Learning\|并发学习]]策略** 以混合方法探讨 TOK 与 CAS、EE 之间的跨组件连贯性及实践挑战。[[Argument_Metli_2022_IJER\|Metli & Akış (2022)]]
+> - **核心课程的[[Concurrency of Learning\|并发学习]]策略** 以混合方法探讨 TOK 与创造、行动与服务（[[Creativity, Action, Service]]，CAS）、[[Extended Essay\|拓展论文]]（Extended Essay，EE）之间的跨组件连贯性及实践挑战。[[Argument_Metli_2022_IJER\|Metli & Akış (2022)]]

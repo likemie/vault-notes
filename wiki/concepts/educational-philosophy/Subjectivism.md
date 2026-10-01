@@ -9,10 +9,10 @@ aliases:
 summary: "社会科学与教育研究的基本认识论与方法论取向，将社会世界视为主观意识、语言符号与人造意义的建构产物；在组织与方法论上持唯名论、反实证主义、意志论与个例式假定，在比较教育学史中历经战后实证范式的系统清洗、批判二元论的情境整合以及后现代思潮对多元真理体制的重新合法化。"
 type: concept
 domain: "educational-philosophy"
-related_count: 48
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - paradigm/interpretive
   - theme/epistemology
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Incommensurability]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Postmodernism]]"
   - "[[Burrell and Morgan Four Assumptions Framework]]"
 related_methods:
@@ -66,6 +67,7 @@ related_persons:
   - "[[Brian Holmes]]"
   - "[[Karl Popper]]"
   - "[[Robert Cowen]]"
+  - "[[Philip Altbach]]"
   - "[[Michael Sadler]]"
   - "[[Isaac Kandel]]"
 related_facts:
@@ -76,7 +78,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-09-24
+updated: 2026-10-01
 ---
 
 # Subjectivism
@@ -183,7 +185,7 @@ updated: 2026-09-24
 > **清洗主观主义作为确立学科科学地位的首要前提** 罗伯特·坦普尔顿（Robert G. Templeton）及战后实证派学者明确指出，比较教育学若要在学术体制中获得与现代社会科学平起平坐的合法地位，其首要前提便是彻底废除主观主义、印象主义、道德思辨、直觉洞察与先验偏见（Templeton, 1958; Epperson & Schmuck, 1963; Clayton, 1972）。批评者指责古典历史学派过度依赖学者个人的直觉顿悟与道德热望，充斥着难以检验的价值偏见与主观随意性，无法为战后迫切的制度重建提供确定可靠的经验依据。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 61–62)]]
 
 > [!claim] [[C. Arnold Anderson\|Anderson, C. A.]]
-> **量化共变与统计控制作为消除主观偏见的客观化手段** C. 阿诺德·安德森（C. Arnold Anderson）与[[Harold Noah\|哈罗德·诺亚]]（Harold Noah）等人主张，克服主观主义弊端的唯一途径是引入结构功能主义模型与严格的经验计量技术。通过严格隔离与控制[[Independent Variable\|自变量]]与[[Dependent Variable\|因变量]]、系统采集大样本客观指标、在统一尺度下进行跨国共变检验，现代统计技术使社会科学获得了克服偏向、任意性与主观偏激执拗的坚实武器（Anderson, 1977, pp. 415–416; Noah & Eckstein, 1969, p. 90），从而能够将观察者个人的主观信念与情感偏见从科学发现中彻底剔除。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 65–66)]]
+> **量化共变与统计控制作为消除主观偏见的客观化手段** C. 阿诺德·安德森（C. Arnold Anderson）与[[Harold Noah\|哈罗德·诺亚]]（Harold Noah）等人主张，克服主观主义弊端的唯一途径是引入[[Structural Functionalism|结构功能主义]]模型与严格的经验计量技术。通过严格隔离与控制[[Independent Variable\|自变量]]与[[Dependent Variable\|因变量]]、系统采集大样本客观指标、在统一尺度下进行跨国共变检验，现代统计技术使社会科学获得了克服偏向、任意性与主观偏激执拗的坚实武器（Anderson, 1977, pp. 415–416; Noah & Eckstein, 1969, p. 90），从而能够将观察者个人的主观信念与情感偏见从科学发现中彻底剔除。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 65–66)]]
 
 ---
 
@@ -196,7 +198,7 @@ updated: 2026-09-24
 > **规范法则对行动者主观精神与文化理想的情境化包容** [[Brian Holmes\|布赖恩·霍姆斯]]（Brian Holmes）对美国经验派将民族文化特质与行动者主观偏好彻底放逐的机械[[Objectivism\|客观主义]]发起了深刻清算。基于[[Karl Popper\|卡尔·波普尔]]（Karl Popper）的[[Critical Dualism\|批判二元论]]，霍姆斯将人类主观信念、道德理想与价值诉求定义为“规范法则”（由人类设立且可被人自主废除的准则），断言若要理解学校运行，就必须系统考掘这些构成制度深层背景的主观文化规范，从而在假说-演绎[[Problem Approach\|问题法]]中实现了客观机构规律与主观文化意向的辩证统一。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 62–63, 66–67)]]
 
 > [!claim] [[Robert Cowen\|Cowen, R.]]
-> **[[Grand Theory\|宏大叙事]]解构与主观阐释进路学术合法性的确立** [[Robert Cowen\|罗伯特·考恩]]（Robert Cowen）与菲利普·阿尔特巴赫（Philip Altbach）指出，1970 年代中叶西方经济滞胀戳破了实证规划神话，加之现代量子物理学揭示了微观世界的混沌与不确定性，彻底瓦解了实证客观主义追求普适铁律的霸权根基。[[Postmodernism\|后现代主义]]思潮将宏大理论贬斥为宏大叙事，促使社会科学重新接纳更具质性、参与性与主观主义色彩的研究范式，赋予其与实证研究同等的学术地位，使学科最终告别单一客观主义垄断，走向多元真理体制并存的[[Comparative Educations\|复数比较教育学]]。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 68–69)]]
+> **[[Grand Theory\|宏大叙事]]解构与主观阐释进路学术合法性的确立** [[Robert Cowen\|罗伯特·考恩]]（Robert Cowen）与菲利普·阿尔特巴赫（[[Philip Altbach]]）指出，1970 年代中叶西方经济滞胀戳破了实证规划神话，加之现代量子物理学揭示了微观世界的混沌与不确定性，彻底瓦解了实证客观主义追求普适铁律的霸权根基。[[Postmodernism\|后现代主义]]思潮将宏大理论贬斥为宏大叙事，促使社会科学重新接纳更具质性、参与性与主观主义色彩的研究范式，赋予其与实证研究同等的学术地位，使学科最终告别单一客观主义垄断，走向多元真理体制并存的[[Comparative Educations\|复数比较教育学]]。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 68–69)]]
 
 ---
 

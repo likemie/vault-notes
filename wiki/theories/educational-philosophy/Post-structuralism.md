@@ -4,10 +4,10 @@ aliases: [后结构主义, post-structuralist, poststructuralism]
 summary: "对结构功能主义决定论的反驳，强调个体能动性与内在矛盾主体，将数据与人工制品视为表演性话语与文本，主张通过解构揭示多重意义层次与意义特权化机制。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 31
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 32
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 domain: "research-methodology"
 related_count: 29
 related_level: 2
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Emergence]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Postmodernism]]"
   - "[[Critical Theory]]"
   - "[[Complexity Theory]]"
@@ -53,7 +54,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-09-23
+updated: 2026-10-01
 ---
 
 # Post-structuralism
@@ -63,7 +64,7 @@ updated: 2026-09-23
 ## 定义
 
 > [!def] 核心定义
-> **后结构主义（Post-structuralism）**是对结构功能主义与封闭系统[[Determinism\|决定论]]的核心反思，主张个体能动性（individual agency）优先于结构决定论。后结构主义认为社会成员并非系统预设角色的被动承载者，而是承载内在张力与矛盾的多元主体；教育研究中的数据（如对话、观察记录）乃至[[Artefact\|物质人工制品]]均应被视作通过表演性话语建构的多义文本（texts/discourses）。其方法论根本任务在于“解构”（deconstruction），揭示意义的多重层次及特定意义的特权化合法化机制，并在参与者、研究者、受众与读者交织的多重视角网络中开展[[Reflective Thinking\|反思性探究]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 28–29)]]
+> **后结构主义（Post-structuralism）**是对[[Structural Functionalism|结构功能主义]]与封闭系统[[Determinism\|决定论]]的核心反思，主张个体能动性（individual agency）优先于结构决定论。后结构主义认为社会成员并非系统预设角色的被动承载者，而是承载内在张力与矛盾的多元主体；教育研究中的数据（如对话、观察记录）乃至[[Artefact\|物质人工制品]]均应被视作通过表演性话语建构的多义文本（texts/discourses）。其方法论根本任务在于“解构”（deconstruction），揭示意义的多重层次及特定意义的特权化合法化机制，并在参与者、研究者、受众与读者交织的多重视角网络中开展[[Reflective Thinking\|反思性探究]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 28–29)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向语言、文本、话语与能动主体之间的建构性张力，否定客观规律预设与单一本质主义意义。
@@ -99,7 +100,7 @@ updated: 2026-09-23
 ## 核心要素
 
 > [!feature] 核心要素
-> - **反结构功能主义与能动性优先（Prominence of Individual Agency）** 坚决拒绝将社会和个体行为视为机械契合的封闭系统部件，批判将行为完全归结为阶级、地位和既定社会角色的结构[[Determinism\|决定论]]。
+> - **反[[Structural Functionalism|结构功能主义]]与能动性优先（Prominence of Individual Agency）** 坚决拒绝将社会和个体行为视为机械契合的封闭系统部件，批判将行为完全归结为阶级、地位和既定社会角色的结构[[Determinism\|决定论]]。
 > - **内在矛盾与多元张力主体（Contradictions and Tensions within Subjects）** 强调个体决非系统的提线木偶，而是异质且差异化的主体，在阶级、族裔、性别、职业和家庭等多重身份维度自身承载着深刻的矛盾与张力。
 > - **数据即表演性话语与文本（Data and Artefacts as Performed Discourses）** 课堂对话、[[Qualitative Interview\|质性访谈]]、行为观察乃至物理[[Artefact\|人工制品]]均非中立事实，而是通过话语建构并被话语不断表演的文本，具有阐释的[[Open-Mindedness|开放性]]。
 > - **解构与意义特权化揭示（Deconstruction and Layering of Meanings）** 教育探究的核心使命是解构现象中内嵌的多层意义，曝光特定官方或权威意义被特权化、排他化的隐秘意识形态过程。
@@ -131,7 +132,7 @@ updated: 2026-09-23
 ### 命题一　个体并非结构系统决定论的木偶，而是承载内在多重张力的能动主体
 
 > [!concept-lens] 主体性与能动性维度
-> 聚焦于个体在社会结构中的定位。结构功能主义将社会成员还原为宏大体系的功能承载者，而后结构主义将主体的内在差异性与反抗性置于首位。
+> 聚焦于个体在社会结构中的定位。[[Structural Functionalism|结构功能主义]]将社会成员还原为宏大体系的功能承载者，而后结构主义将主体的内在差异性与反抗性置于首位。
 
 > [!claim] Cohen, Manion & Morrison
 > **反木偶[[Determinism\|决定论]]与矛盾主体判定** 后结构主义反对将社会或行为视为整齐模式化的[[Nomothetic\|法则式]]部件，坚决否认个体行为仅仅由社会阶级或给定社会角色单向决定；相反，后结构主义确立了个体能动性的突出地位，强调人是多元而异质的，每个个体自身均承载着阶级、族裔、性别、社会群体与家庭职责等多重维度的内在张力和矛盾，因此研究者绝不能用抽象的结构标签替代参与者生动且充满张力的自我认同。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 29)]]
@@ -204,7 +205,7 @@ updated: 2026-09-23
 ## 实证数据
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 28–29)]] — 系统阐发后结构主义在教育探究中的核心特征：对结构功能主义的反思、个体能动性与内在矛盾主体、数据即文本话语、解构意义特权化以及与后实证、[[Postmodernism\|后现代主义]]的方法论互通。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 28–29)]] — 系统阐发后结构主义在教育探究中的核心特征：对[[Structural Functionalism|结构功能主义]]的反思、个体能动性与内在矛盾主体、数据即文本话语、解构意义特权化以及与后实证、[[Postmodernism\|后现代主义]]的方法论互通。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 在跨章节（特别是第 31 章和第 32 章[[Discourse Analysis\|话语分析]]专题）中深入论述话语建构、文本表演与多重视角分析在教育[[Qualitative Research\|质性研究]]中的具体操作路径。
 
 ---

@@ -9,7 +9,7 @@ summary: "芝加哥大学教育与社会学教授、比较教育研究中心主�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 29
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Scientific Paradigm]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Causal Modeling]]"
@@ -72,7 +73,7 @@ updated: 2026-10-01
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名教育社会学家、比较教育学家，芝加哥大学教育系与社会学系教授，芝加哥大学比较教育研究中心（[[Comparative Education Center at Chicago 1958\|Comparative Education Center]]）创任主任（1958–1972 年），美国[[Comparative and International Education Society\|比较与国际教育学会]]（Comparative and [[International Education]] Society, CIES）前会长（1963–1964 年）。
-> - **核心角色** 比较教育第三论述代际（社会科学与[[Positivism\|实证主义]]代际）芝加哥学派的核心领军人物；将结构功能主义社会学理论系统引入跨国比较，强力倡导摆脱历史个殊性描述，确立探寻教育制度与外部社会矩阵之间恒常规律的经验实证[[Paradigm\|范式]]。
+> - **核心角色** 比较教育第三论述代际（社会科学与[[Positivism\|实证主义]]代际）芝加哥学派的核心领军人物；将[[Structural Functionalism|结构功能主义]]社会学理论系统引入跨国比较，强力倡导摆脱历史个殊性描述，确立探寻教育制度与外部社会矩阵之间恒常规律的经验实证[[Paradigm\|范式]]。
 > - **代表贡献** 创立享誉全球的芝加哥大学比较教育研究中心并培养了包括[[Philip Foster\|菲利普·福斯特]]（Philip Foster）在内的整整一代实证社会学学者；发表纲领性论文《比较教育学的方法论》（1961 年）；与玛丽·让·鲍曼（Mary Jean Bowman）合作奠定比较教育与经济发展、[[Human Capital Theory\|人力资本]]跨国测量的基础。
 
 > [!citation-card] Kazamias论芝加哥学派的恒常规律追求与结构功能分析
@@ -106,7 +107,7 @@ updated: 2026-10-01
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1960 年代初 — 结构功能主义与方法论战书阶段** 确立实证社会学[[Paradigm|范式]]，主张以[[Variable|变量]]控制和跨国统计分析替代直觉历史叙事。
+> - **1960 年代初 — [[Structural Functionalism|结构功能主义]]与方法论战书阶段** 确立实证社会学[[Paradigm|范式]]，主张以[[Variable|变量]]控制和跨国统计分析替代直觉历史叙事。
 >   - **代表著作** *Methodology of Comparative Education* (1961); *Education, Society and Economy* (1961, 与 Halsey & Floud 合编)。
 >   - **核心概念** 抽象社会系统、恒常不变关系（Invariant Relationships）、经验测量。
 >   - **阶段转向** 建立结构功能分析模型，将教育界定为宏观社会系统的有机组成部分。
@@ -146,7 +147,7 @@ updated: 2026-10-01
 
 ### 命题三　学校教育是现代社会分流与人力资本配置的客观功能机制
 
-> [!concept-lens] 结构功能主义与教育经济学维度
+> [!concept-lens] [[Structural Functionalism|结构功能主义]]与教育经济学维度
 > 探讨学校教育在宏观人才选拔与劳动力再生产中的客观功能。
 
 > [!claim] Anderson, C. A.; Bowman, M. J.
@@ -179,7 +180,7 @@ updated: 2026-10-01
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 将结构功能主义与实证社会学[[Paradigm\|范式]]深度植入英美比较教育学，瓦解了古典历史学派在战前的学术垄断。
+> - **理论路径** 将[[Structural Functionalism|结构功能主义]]与实证社会学[[Paradigm\|范式]]深度植入英美比较教育学，瓦解了古典历史学派在战前的学术垄断。
 > - **方法路径** 倡导大规模跨国抽样、定量统计检验与跨国指标构建，直接启发了后来的[[IEA|国际教育成就评价协会]]（[[IEA]]）等大规模跨国实证调查项目。
 > - **政策路径** 与鲍曼等人开创的[[Development Education|发展教育]]研究，深度参与战后[[World Bank\|世界银行]]（World Bank）与美国国际开发署对第三世界国家的教育扩张与[[Human Capital Theory|人力资本]]规划。
 
@@ -233,7 +234,7 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Scientific Paradigm\|比较教育学科学范式]] | 概念 | 作为芝加哥学派代表，主张以结构功能主义探寻超越具体历史时空的恒常制度规律。 |
+> | [[Scientific Paradigm\|比较教育学科学范式]] | 概念 | 作为芝加哥学派代表，主张以[[Structural Functionalism\|结构功能主义]]探寻超越具体历史时空的恒常制度规律。 |
 > | [[Positivism\|实证主义]] | 概念 | 将社会学实证主义方法（[[Variable\|变量]]隔离、跨国数据收集、统计推断）引入比较教育。 |
 > | [[Social Science as Legitimation Alibi\|实证社会科学作为合法化借口]] | 概念 | 卡扎米亚斯批判其实证社会科学模型充当国家规划与技术援助的合法化借口。 |
 > | [[Human Capital Theory\|人力资本理论]] | 理论 | 与鲍曼合作将人力资本跨国测量引入学科核心，推动[[Development Education\|发展教育]]研究。 |
@@ -251,5 +252,5 @@ updated: 2026-10-01
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 详细考据比较教育第三代际芝加哥学派（Anderson & Foster）的结构功能分析，深入剖析其追求超越时空恒常规律的理论志趣，并揭示其作为战后国家计划与技术援助[[Social Science as Legitimation Alibi|合法化借口]]的政治功能（pp. 146–147, 150–151）。
-> - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 详细评析安德森所代表的芝加哥结构功能主义学派对恒常超越时空规律的追求及其方法论特征。
+> - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 详细评析安德森所代表的芝加哥[[Structural Functionalism|结构功能主义]]学派对恒常超越时空规律的追求及其方法论特征。
 > - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 论述安德森作为战后早期社会学界代表，在将常规社会科学规范与严谨分析模式引入比较教育学中的奠基性历史地位。

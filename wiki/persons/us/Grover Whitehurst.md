@@ -7,7 +7,7 @@ summary: "美国教育政策官员和研究管理者，IES 证据标准体系关
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -37,12 +37,13 @@ related_arguments:
 related_facts:
   - "[[Office of Educational Research and Improvement]]"
   - "[[Institute of Education Sciences]]"
+  - "[[National Institutes of Health]]"
   - "[[What Works Clearinghouse]]"
   - "[[American Educational Research Association]]"
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-09-28
+updated: 2026-10-02
 ---
 ## 简介
 
@@ -65,7 +66,7 @@ updated: 2026-09-28
 ## 主要贡献
 
 > [!success] 主要贡献
-> - **教育科学研究所（[[Institute of Education Sciences\|IES]]）的建立** Whitehurst 领导了将 [[Office of Educational Research and Improvement|OERI]] 重组为 IES 的过程，后者以医学 NIH 为模型建立了更严格的资助和研究标准
+> - **教育科学研究所（[[Institute of Education Sciences\|IES]]）的建立** Whitehurst 领导了将 [[Office of Educational Research and Improvement|OERI]] 重组为 IES 的过程，后者以医学 [[National Institutes of Health|NIH]] 为模型建立了更严格的资助和研究标准
 > - **[[What Works Clearinghouse]]（[[What Works Clearinghouse\|WWC]]）** 在其领导下启动，成为美国教育项目有效性审查的核心机构
 > - **学前课程[[Evaluation Research\|评估研究]]拨款项目** 首个大规模要求[[Random Assignment\|随机化]]评估的联邦教育研究拨款
 

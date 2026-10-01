@@ -3727,6 +3727,39 @@
   background: rgba(140, 152, 168, 0.1) !important;
 }
 
+/* TOK 成熟课程内容边界表：专属两栏比例，避免首列被通用 6.2rem 规则压缩。 */
+.tok-content-boundary-table-marker {
+  display: none !important;
+}
+
+.callout[data-callout="contrast-table"]:has(.tok-content-boundary-table-marker) > .callout-content {
+  overflow-x: auto;
+}
+
+.callout[data-callout="contrast-table"]:has(.tok-content-boundary-table-marker) table {
+  width: 100% !important;
+  min-width: 42rem;
+  table-layout: fixed !important;
+}
+
+.callout[data-callout="contrast-table"]:has(.tok-content-boundary-table-marker) :is(th, td):nth-child(1) {
+  width: 38% !important;
+  min-width: 0 !important;
+  max-width: none !important;
+  white-space: normal !important;
+  word-break: normal;
+  overflow-wrap: break-word;
+}
+
+.callout[data-callout="contrast-table"]:has(.tok-content-boundary-table-marker) :is(th, td):nth-child(2) {
+  width: 62% !important;
+  min-width: 0 !important;
+  max-width: none !important;
+  white-space: normal !important;
+  word-break: normal;
+  overflow-wrap: break-word;
+}
+
 /* ─── stat-cards（数据卡 — 横向刻度线，数量自适应排列） ── */
 .callout[data-callout="stat-cards"] {
   --callout-color: 72, 132, 112;

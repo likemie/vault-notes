@@ -16,9 +16,9 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Chain of Evidence]]"
   - "[[University-Industry Co-location]]"
-  - "[[Use-Inspired Basic Research]]"
   - "[[Epistemology]]"
   - "[[Blue Skies Research]]"
+  - "[[Use-Inspired Basic Research]]"
   - "[[Theoretical Perspective]]"
   - "[[Technology Transfer]]"
   - "[[Document]]"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[External Validity]]"
 related_theories:
   - "[[Stokes' Quadrant Model of Scientific Research]]"
+  - "[[Pasteur's Quadrant]]"
   - "[[Dollinger et al. Framework for UI Collaboration]]"
   - "[[Triple Helix]]"
 related_methods:
@@ -43,6 +44,8 @@ related_facts:
   - "[[African Orphan Crops Consortium]]"
   - "[[Innovation Institute for Food and Health]]"
   - "[[National Science Foundation]]"
+  - "[[National Institutes of Health]]"
+  - "[[Department of Energy]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Nagoya Protocol]]"
 related_arguments: []
@@ -58,9 +61,9 @@ title: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_key: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_display_title: "International research collaborations between universities and industry"
 argument_kind: "book"
-argument_related_count: 28
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 31
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 journal: ""
@@ -85,7 +88,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract]
-> - [[Stokes' Quadrant Model of Scientific Research]]，以[[Use-Inspired Basic Research\|巴斯德象限]]（[[Use-Inspired Basic Research\|Pasteur's Quadrant]]）为国际 UI 合作提供[[Epistemology\|认识论]]定位。大学的[[Blue Skies Research\|基础研究]]能力与产业的应用问题驱动相结合，合作自然落在"应用启发的基础研究"（use-inspired basic research）区间(p.310)
+> - [[Stokes' Quadrant Model of Scientific Research]]，以[[Pasteur's Quadrant|巴斯德象限]]（Pasteur's Quadrant）为国际 UI 合作提供[[Epistemology\|认识论]]定位。大学的[[Blue Skies Research\|基础研究]]能力与产业的应用问题驱动相结合，合作自然落在"[[Use-Inspired Basic Research|应用启发的基础研究]]"（use-inspired basic research）区间(p.310)
 > - [[Dollinger et al. Framework for UI Collaboration]]，从环境、技术和管理三个因素评估国际合作，提供操作性基准工具(pp.316–317)
 > - [[Triple Helix]]，Rossoni et al.(2023)以此为第一个[[Theoretical Perspective\|理论视角]]评估 UI 合作的障碍因素，另两个视角为关系社会资本和[[Technology Transfer\|技术转移]](p.316)
 
@@ -105,8 +108,8 @@ citation_aliases:
 
 ### 第一步：国际 UI 合作的特殊性来自基础研究与应用研究在跨国条件下的张力叠加
 
-> [!note]- [[Use-Inspired Basic Research\|巴斯德象限]]的定位功能
-> 学术界专长于[[Blue Skies Research\|基础研究]]，追求对现象的根本科学理解；产业界聚焦于[[Evaluation Research\|应用研究]]，以解决现实问题为首要目标(p.310)。两者的自然交汇点正是 Stokes(1997)四象限模型中的[[Use-Inspired Basic Research\|巴斯德象限]]：[[Use-Inspired Basic Research\|应用启发的基础研究]]，同时追求深层机制理解和实际需求驱动。
+> [!note]- [[Pasteur's Quadrant|巴斯德象限]]的定位功能
+> 学术界专长于[[Blue Skies Research\|基础研究]]，追求对现象的根本科学理解；产业界聚焦于[[Evaluation Research\|应用研究]]，以解决现实问题为首要目标(p.310)。两者的自然交汇点正是 Stokes(1997)四象限模型中的巴斯德象限：[[Use-Inspired Basic Research\|应用启发的基础研究]]，同时追求深层机制理解和实际需求驱动。
 >
 > 这种双重目标在国内合作中已产生张力：大学需要发表自由，产业需要商业保密。当合作跨越国界时，每一重张力都被额外叠加了跨境维度。发表自由不仅受产业合同约束，还受出口管制和国家安全审查约束；知识产权不仅涉及双方谈判，还涉及多国法律体系的不兼容。
 
@@ -127,7 +130,7 @@ citation_aliases:
 > [!warning] 第二层：合作经验与渠道（Know-how）
 > 即使双方目标对齐，许多机构仍缺乏启动国际合作的实务经验(p.312)。具体表现为：不知道如何找到合适的技术专家、不了解对方的预算和决策日历、不清楚国际项目的合同[[Paradigm\|范式]]和合规要求。
 >
-> 可用的辅助工具包括 Halo（AI 驱动的产学研对接平台）、Elsevier SciVal（覆盖 24000 所研究机构的合作分析工具）、EU Funding and Tenders Portal（欧盟资助项目与研究者检索），以及美国 [[National Science Foundation\|NSF]]、NIH、DOE 的资助数据库(pp.312–313)。这些工具解决的是"找谁合作"的问题，前提是双方已有初步合作意向。"为什么要合作"需要回到第一层的目标对齐。
+> 可用的辅助工具包括 Halo（AI 驱动的产学研对接平台）、Elsevier SciVal（覆盖 24000 所研究机构的合作分析工具）、EU Funding and Tenders Portal（欧盟资助项目与研究者检索），以及美国 [[National Science Foundation\|NSF]]、[[National Institutes of Health|NIH]]、[[Department of Energy|DOE]] 的资助数据库(pp.312–313)。这些工具解决的是"找谁合作"的问题，前提是双方已有初步合作意向。"为什么要合作"需要回到第一层的目标对齐。
 
 ---
 

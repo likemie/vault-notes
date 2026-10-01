@@ -8,7 +8,7 @@ summary: "哥伦比亚大学社会学教授、美国文理科学院院士，科�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -36,7 +36,8 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Scientism]]"
   - "[[Variable]]"
-related_theories: []
+related_theories:
+  - "[[Structural Functionalism]]"
 related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
@@ -77,7 +78,7 @@ updated: 2026-10-01
 
 > [!timeline] 生平与职涯
 > - **1918** 出生于美国马萨诸塞州波士顿。
-> - **1939–1948** 在哈佛大学攻读社会学，先后获得学士与博士学位，深受导师帕森斯结构功能主义与默顿科学社会学的双重滋养。
+> - **1939–1948** 在哈佛大学攻读社会学，先后获得学士与博士学位，深受导师帕森斯[[Structural Functionalism|结构功能主义]]与默顿科学社会学的双重滋养。
 > - **1948–1952** 任教于史密斯学院社会学系。
 > - **1952** 出版里程碑专著《科学与社会秩序》（*Science and the Social Order*），成为全球最早系统研究科学建制、科学家社会角色与公众信任的科学社会学经典。
 > - **1952–1988** 受聘于哥伦比亚大学巴纳德学院社会学系，历任长聘教授、系主任，长期执掌哥大社会科学[[Epistemology|认识论]]与科学社会学讲席。

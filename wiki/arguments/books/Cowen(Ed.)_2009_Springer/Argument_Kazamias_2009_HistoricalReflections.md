@@ -7,10 +7,10 @@ title: "Argument_Kazamias_2009_HistoricalReflections"
 argument_key: "Argument_Kazamias_2009_HistoricalReflections"
 argument_display_title: "Comparative Education: Historical Reflections"
 argument_kind: "book-chapter"
-argument_related_count: 70
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#fef3c7"
+argument_related_count: 80
+argument_related_level: 5
+argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_color: "#fecdd3"
 authors:
   - "[[Andreas Kazamias|Kazamias, A. M.]]"
 source_language: en
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Geisteswissenschaften]]"
   - "[[Protean Episteme]]"
   - "[[Postpositivism]]"
+  - "[[Historical Amnesia]]"
   - "[[Document]]"
   - "[[Empiricism]]"
   - "[[Knowledge Production]]"
@@ -63,13 +64,17 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Problem Solving]]"
   - "[[Hypothesis]]"
+  - "[[Determinism]]"
   - "[[Falsification]]"
+  - "[[Working Hypothesis]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Comparative Pedagogy]]"
+  - "[[Learnology]]"
   - "[[Intangible Spiritual Forces]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[World-Systems Theory]]"
+  - "[[Structural Functionalism]]"
   - "[[Dependency Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -83,7 +88,11 @@ related_instruments: []
 related_persons:
   - "[[Nicholas Hans]]"
   - "[[Bernard Barber]]"
+  - "[[Karl Popper]]"
+  - "[[Brian Holmes]]"
   - "[[Martin Carnoy]]"
+  - "[[Val D. Rust]]"
+  - "[[Marianne Larsen]]"
   - "[[Michael Sadler]]"
   - "[[Isaac Kandel]]"
   - "[[Marc-Antoine Jullien]]"
@@ -97,14 +106,15 @@ related_persons:
   - "[[George Psacharopoulos]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
-  - "[[Brian Holmes]]"
   - "[[Crane Brinton]]"
   - "[[Rolland Paulston]]"
   - "[[John W. Meyer]]"
   - "[[Robert Arnove]]"
   - "[[Immanuel Wallerstein]]"
   - "[[Joel Samoff]]"
+  - "[[Philip Altbach]]"
   - "[[Robin Alexander]]"
+  - "[[Patricia Broadfoot]]"
 related_facts:
   - "[[IEA]]"
   - "[[Research Strategies in Comparative Education]]"
@@ -126,7 +136,7 @@ updated: 2026-10-01
 > 比较教育学自 18 世纪末[[Enlightenment|启蒙运动]]奠基以来，历经准科学实证、行政[[Educational Meliorism|改良主义]]、历史-哲学人文主义、战后经验实证科学化以及批判冲突[[Paradigm|范式]]的多重代际演进，其知识形态与[[Epistemology|认识论]]内核发生了怎样的流变？在世纪之交面对多元范式并存与实证技术至上的繁荣表象时，学科究竟付出了何种认识论与方法论代价？（pp.139–140, 155–156）
 
 > [!claim] 核心主张
-> 比较教育学本质上是一门多学科交叉的[[Geisteswissenschaften|人文科学]]（Human Science, *Vergleichende Erziehungswissenschaft*），表现为一种能够因应不同时代智识思潮、方法风尚与意识形态诉求而变换装束的[[Protean Episteme|普罗透斯式认识体系]]（Protean Episteme）；战[[Postpositivism|后实证主义]]对单一普遍规律与预测功能的狂热追求使学科陷入抽离情境的方法论主义，而在世纪之交多元范式扩张的表象之下，学科因近乎彻底抛弃历史维度而患上了严重的历史健忘症（Historical Amnesia），亟需通过历史学与社会科学的理性综合重申比较史学的合法性与人文关怀。（pp.139–140, 147–149, 155–156）
+> 比较教育学本质上是一门多学科交叉的[[Geisteswissenschaften|人文科学]]（Human Science, *Vergleichende Erziehungswissenschaft*），表现为一种能够因应不同时代智识思潮、方法风尚与意识形态诉求而变换装束的[[Protean Episteme|普罗透斯式认识体系]]（Protean Episteme）；战[[Postpositivism|后实证主义]]对单一普遍规律与预测功能的狂热追求使学科陷入抽离情境的方法论主义，而在世纪之交多元范式扩张的表象之下，学科因近乎彻底抛弃历史维度而患上了严重的[[Historical Amnesia|历史健忘症]]（Historical Amnesia），亟需通过历史学与社会科学的理性综合重申比较史学的合法性与人文关怀。（pp.139–140, 147–149, 155–156）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 跨越两个世纪的比较教育学思想史[[Document|文献]]、核心代表人物著作、方法论大论战话语以及当代期刊研究策略计量调查。（pp.139–140, 156）
@@ -143,7 +153,7 @@ updated: 2026-10-01
 > | **[[Protean Episteme\|普罗透斯式认识体系]]**<br>Protean Episteme | 借用希腊神话普罗透斯能够随心所欲变换形态的隐喻，揭示比较教育学在不同历史时期身披由不同颜色[[Epistemology\|认识论]]、方法论和意识形态丝线编织的华服，其[[Knowledge Production\|知识生产]]深刻依附于时代文化与政治诉求。（pp.139–140） |
 > | **广义教育科学**<br>*Vergleichende Erziehungswissenschaft* | 承继[[Nicholas Hans\|尼古拉斯·汉斯]]（Nicholas Hans）与欧陆[[Geisteswissenschaften\|人文科学]]传统，主张科学是对人类、文化与社会现象的系统化研究，坚决抗拒英语世界将科学狭隘等同于行为量化实证的专断定义。（p.139） |
 > | **方法论主义批判**<br>Critique of Methodologism | 援引[[Bernard Barber\|伯纳德·巴伯]]（Bernard Barber）的科学社会学批判，揭露将科学简化为单一全能操作技术的虚妄，指出方法论主义将研究形式与价值、至善及不可测量之物割裂的认识论危害。（pp.147–149） |
-> | **波普尔假说-演绎法与权变社会学法则** | 借鉴卡尔·波普尔（Karl Popper）的科学哲学与布赖恩·霍姆斯（Brian Holmes）的 $L + I = P$ 架构，将科学预测建立在明确的初始情境条件之上，破除绝对宿命历史规律。（pp.149–151） |
+> | **波普尔假说-演绎法与权变社会学法则** | 借鉴[[Karl Popper\|卡尔·波普尔（Karl Popper）]]的批判理性主义科学哲学与[[Brian Holmes\|布赖恩·霍姆斯]]的 $L + I = P$ 架构，将科学预测建立在明确的初始情境条件之上，破除绝对宿命历史规律。（pp.149–151） |
 > | **修正主义新马克思主义国家理论** | 借助马丁·[[Martin Carnoy\|卡诺伊]]（Martin Carnoy）的国家理论，将学校定义为阶级再生产（对应性）与大众民主化诉求（矛盾性）激烈博弈的竞技场，破除正统马克思主义的机械单向决定论。（pp.153–154） |
 
 > [!row-contrast] 比较教育学四重论述代际对照表
@@ -157,7 +167,7 @@ updated: 2026-10-01
 > | **第四代：批判冲突与跨国宏观[[Paradigm\|范式]]** | 1970 年代至 1990 年代；资本主义滞胀、激进学生运动、新自由主义扩张 | 新马克思主义、韦伯冲突论、[[World-Systems Theory\|世界体系分析]]、依赖理论、批判政治经济学 | 资本主义世界体系、中心-外围结构、阶级对抗[[Champ\|场域]]、第三世界转型国家政体 | 历史唯物主义制度溯源、权力结构分析、意识形态霸权解构、跨国案例比较 | Paulston (1977)；Arnove (1982)；Carnoy (1974, 1983)；Carnoy & Samoff (1990) | 解构资本主义再生产不平等，揭露文化帝国主义，赋权草根社会变革（pp.152–155） |
 
 > [!warrant]- 理论如何支撑论证
-> 卡扎米亚斯以普罗透斯式认识体系为统摄轴线，将纷繁复杂的两百年学科史拆解为有序的论述代际与论述类型。通过区分自然科学一元论与欧陆广义人文科学，卡扎米亚斯为历史哲学学派确立了认识论合法性；进一步借助巴伯的方法论主义批判与卡诺伊的国家矛盾分析，深入解构战[[Postpositivism|后实证主义]]对客观确定性与[[Value Neutrality|价值中立]]的幻想，最终顺理成章地将论证推向对历史维度[[Attrition|流失]]与历史健忘症的深切诊断。（pp.139–140, 147–149, 153–156）
+> 卡扎米亚斯以普罗透斯式认识体系为统摄轴线，将纷繁复杂的两百年学科史拆解为有序的论述代际与论述类型。通过区分自然科学一元论与欧陆广义人文科学，卡扎米亚斯为历史哲学学派确立了认识论合法性；进一步借助巴伯的方法论主义批判与卡诺伊的国家矛盾分析，深入解构战[[Postpositivism|后实证主义]]对客观确定性与[[Value Neutrality|价值中立]]的幻想，最终顺理成章地将论证推向对历史维度[[Attrition|流失]]与[[Historical Amnesia|历史健忘症]]的深切诊断。（pp.139–140, 147–149, 153–156）
 
 ---
 
@@ -168,7 +178,7 @@ updated: 2026-10-01
 > |---|---|
 > | **学术史考掘与谱系溯源** | 运用[[Historical-Comparative Method\|历史比较法]]系统梳理 18 世纪末启蒙运动至 20 世纪末比较教育学的理论文献、政策档案、学会报告与经典论著，辨析不同历史阶段的主导范式与论述形态。（pp.139–156） |
 > | **论述类型学与代际重构** | 建立以问题意识、[[Epistemology\|认识论]]基础、方法论取向和意识形态功能为维度的概念类目，将学科演变划分为启蒙准科学与行政改良、历史-哲学自由人文主义、战后经验[[Positivism\|实证主义]]以及批判冲突四大代际。（pp.140–155） |
-> | **学科期刊元研究计量分析** | 结合瓦尔·拉斯特（Val D. Rust）团队（1999）与玛丽安·拉森（Marianne Larsen, 2001）对英美三大旗舰学术期刊数十年发表论文的[[Content Analysis\|内容分析]]数据，实证检验历史研究策略与理论[[Paradigm\|范式]]在长周期的份额消长。（pp.155–156） |
+> | **学科期刊元研究计量分析** | 结合[[Val D. Rust\|瓦尔·拉斯特（Val D. Rust）]]团队（1999）与[[Marianne Larsen\|玛丽安·拉森]]（Marianne Larsen, 2001）对英美三大旗舰学术期刊数十年发表论文的[[Content Analysis\|内容分析]]数据，实证检验历史研究策略与理论[[Paradigm\|范式]]在长周期的份额消长。（pp.155–156） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -283,7 +293,7 @@ updated: 2026-10-01
 
 #### 1. 战后三大实证科学流派对普遍法则的不同理解
 
-1977 年《比较教育评论》创刊二十周年专刊封面上刊登了一幅寓意深远的漫画：英国童话人物矮胖子（Humpty Dumpty）若有所思地坐在美国地图上，俯瞰着刻在地图上的一系列战后流行概念：结构功能主义、成本收益、生产、发展。这一画面生动反映了当时北美比较教育学在转向实证科学过程中经历的概念变迁。（p.145）
+1977 年《比较教育评论》创刊二十周年专刊封面上刊登了一幅寓意深远的漫画：英国童话人物矮胖子（Humpty Dumpty）若有所思地坐在美国地图上，俯瞰着刻在地图上的一系列战后流行概念：[[Structural Functionalism|结构功能主义]]、成本收益、生产、发展。这一画面生动反映了当时北美比较教育学在转向实证科学过程中经历的概念变迁。（p.145）
 
 在这一时期，追求科学化的学者内部形成了三种不同的研究路径：
 
@@ -307,7 +317,7 @@ updated: 2026-10-01
 
 #### 3. 霍姆斯情境问题法中的条件性推导框架
 
-与哥大学派试图寻找跨越时空的恒常统计关系不同，霍姆斯认为社会科学不可能找到永恒不变的历史宿命规律。他将分析逻辑概括为一个推导公式：
+与哥大学派试图寻找跨越时空的恒常统计关系不同，霍姆斯直接吸收了[[Karl Popper|卡尔·波普尔]]（Karl Popper）的批判理性主义科学哲学与“假说-演绎法”（Hypothetico-Deductive Method）。霍姆斯主张，比较教育学应被构建为一种相对论时代之后的预测性社会科学，必须坚决摒弃前相对论实证科学的绝对主义与机械[[Determinism|决定论]]。社会科学不可能找到永恒不变的历史宿命规律，一切科学法则都只能是附带条件的权变假说。他将这一分析逻辑概括为形式化推导公式：
 
 > [!formula] 霍姆斯[[Problem Approach|问题解决法]]的推导公式与原则
 > 霍姆斯将比较教育学的分析逻辑概括为形式化推导公式：
@@ -329,7 +339,7 @@ updated: 2026-10-01
 
 针对实证学派对历史传统缺乏科学性的指责，卡扎米亚斯结合[[Crane Brinton|克莱恩·布林顿]]（Crane Brinton）的比较史学理论指出，历史研究同样具有科学探索的严谨性：
 
-> [!warrant]- 历史探索性假说（Working Hypotheses）的学术效力
+> [!warrant]- [[Working Hypothesis|历史探索性假说]]（Working Hypotheses）的学术效力
 > 历史研究绝非单纯罗列不可重复的个别事件。正如布林顿在比较各国革命史时所证明的，研究者完全可以对历史事实进行分类和比较，并提炼出虽然适用范围有限、但能被后续案例检验的探索性工作假说（Working Hypotheses）。这种基于历史归纳得出的假说，能够帮助人们在遇到新的类似情境时看清问题的根源。历史学与社会科学都兼顾特殊性与一般性，两者的差异在于研究侧重点不同，绝不是水火不容的对立关系。（pp.151–152）
 
 ---
@@ -359,11 +369,11 @@ updated: 2026-10-01
 
 #### 2. 多元理论兴起与英国比较研究对本土情境的坚守
 
-到了 20 世纪 80 至 90 年代，功能主义独大的局面彻底瓦解。女性主义、人类学[[Fieldwork|田野调查]]、课堂[[Ethnography|民族志]]等方法广泛进入比较教育，学科呈现出多元并存的面貌。（p.155）
+正如[[Philip Altbach|菲利普·阿特巴赫]]（Philip Altbach, 1991）所指出的，到了 20 世纪 80 至 90 年代，[[Structural Functionalism|结构功能主义]]独大的霸权彻底瓦解；性别角色、新马克思主义意识形态、人类学[[Fieldwork|田野调查]]与课堂[[Ethnography|民族志]]等方法广泛进入比较教育，没有任何单一[[Paradigm|范式]]能够再次统摄全域，学科全面呈现出多元并存的面貌。（p.155）
 
 > [!dimension] 英国比较教育传统的三个学术特质
 > - **回归具体的课堂教学研究**
->   [[Robin Alexander|罗宾·亚历山大]]（Robin Alexander）等人开创[[Comparative Pedagogy|比较教学论]]（Comparative Pedagogy）研究路径，将研究重心重新拉回到中小学课堂与教学过程本身，关注学生究竟如何学习。
+>   [[Robin Alexander|罗宾·亚历山大]]（Robin Alexander）与[[Patricia Broadfoot|帕特丽夏·布罗德富特]]（Patricia Broadfoot）等人开创[[Comparative Pedagogy|比较教学论]]（Comparative Pedagogy）与[[Learnology|微观学习学]]（Learnology）研究路径，将研究重心重新拉回到中小学课堂与教学过程本身，关注学生究竟如何学习。
 > - **扎根文化土壤与人文关怀**
 >   始终坚持把教育放在深厚的历史文化背景中理解，研究风格相对注重人的发展，较少单纯屈从于功利的经济考量。
 > - **稳健审慎的学风**
@@ -371,9 +381,9 @@ updated: 2026-10-01
 
 #### 3. 历史研究的大幅流失与历史健忘症的实证确证
 
-然而，卡扎米亚斯极为严肃地指出，学科在迎来多元理论繁荣的同时，却付出了沉重的代价——历史维度的全面[[Attrition|流失]]。
+然而，卡扎米亚斯极为严肃地指出，学科在迎来多元理论繁荣的同时，却付出了沉重的代价——历史维度的全面[[Attrition|流失]]。这一诊断并非主观臆断，而是建立在严密的学术元研究与[[Document|文献]]计量基础之上：此前[[Val D. Rust|瓦尔·拉斯特]]（Val D. Rust）团队（Rust et al., 1999）对主流期刊长达数十年研究策略的普查揭示了实证量化取向对质性历史传统的挤压；而[[Marianne Larsen|玛丽安·拉森]]（Marianne Larsen, 2001）针对三大旗舰期刊的详尽量化考证，则彻底确证了历史研究的急剧边缘化。
 
-> [!ref-table]- 玛丽安·拉森（Marianne Larsen, 2001）关于三大旗舰期刊历史论文的统计调查
+> [!ref-table]- [[Marianne Larsen|玛丽安·拉森]]（Marianne Larsen, 2001）关于三大旗舰期刊历史论文的统计调查
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 调查时间段 | 考察的国际核心期刊范围 | 纳入分析的论文总数 | 运用历史研究方法的论文占比 | 学科研究现状定性 |
@@ -381,7 +391,7 @@ updated: 2026-10-01
 > | **1955–1994 年（四十年全期）** | IJED, CE, CER 三大国际旗舰期刊 | 近 2000 篇论文 | **10.5%** | 在近四十年的长周期中，历史研究逐步边缘化，近九成研究转向现时性政策与纯量化调查。（pp.155–156） |
 > | **1985–1995 年（近十年期）** | IJED, CE, CER 三大国际旗舰期刊 | 该十年发表的全部论文 | **不足 5%** | 历史研究比例出现断崖式下跌，历史比较方法降至极低水平。 |
 >
-> **数据解读** 这一统计数据证实，比较教育学已经严重患上了历史健忘症（Historical Amnesia），只顾眼前政策而遗忘了历史源流。（p.156）
+> **数据解读** 这一统计数据证实，比较教育学已经严重患上了[[Historical Amnesia|历史健忘症]]（Historical Amnesia），只顾眼前政策而遗忘了历史源流。（p.156）
 
 在全章结尾，卡扎米亚斯引用诗人托马斯·斯特恩斯·艾略特（T. S. Eliot）的名句：“现在的时间与过去的时间，也许都存在于未来的时间中；而未来的时间又包含在过去的时间里”（p.139）。比较教育学在面向未来创新时决不能抛弃历史；只有把历史事实的深层理解与现代社会科学的实证检验结合起来，学科才能摆脱短视的技术工具主义，真正发挥促进人类理解与社会公正的价值。（pp.139, 151–152, 156）
 
@@ -392,8 +402,8 @@ updated: 2026-10-01
 > [!finding-cards] 核心发现
 > 1. **[[Protean Episteme|普罗透斯式认识体系]]本质确立** 比较教育学从来不是均质单一的实证测量技术，而是一门因应不同历史时代的智识潮流、方法风尚与意识形态诉求而持续变换装束的多学科[[Geisteswissenschaften|人文科学]]，先后经历了启蒙准科学与行政改良、历史-哲学自由人文主义、战后经验[[Positivism|实证主义]]以及批判冲突四大论述代际演替。（pp.139–140, 155）
 > 2. **[[Empiricism|唯方法论主义]]弊端的深刻解构** 战后实证学派对超越时空的普遍因果法则与确定性预测的狂热追求，在[[Epistemology|认识论]]上异化为抽离文化情境与道德价值的方法论主义，其实质在于充当现代国家官僚规划推卸政治问责的[[Social Science as Legitimation Alibi|合法化借口]]。（pp.147–149）
-> 3. **历史假说检验的科学合法性辩护** 借鉴[[Crane Brinton|布林顿]]比较史学经验，历史研究完全能够从具体特殊事实中归纳提炼出有限范围的探索性工作假说，并在跨情境检验中照亮未知现象，从而打破实证主义将历史学排斥于科学之外的教条壁垒。（pp.151–152）
-> 4. **学科历史健忘症的确证与危机警告** 世纪之交实证工具与多元理论繁荣的背后付出了抛弃历史维度的沉重代价；权威期刊计量数据证实历史研究份额已跌破 5%，学科深陷严重的历史健忘症，亟需通过重构历史探索性假说实现历史学与社会科学的理性综合。（pp.155–156）
+> 3. **历史假说检验的科学合法性辩护** 借鉴[[Crane Brinton|布林顿]]比较史学经验，历史研究完全能够从具体特殊事实中归纳提炼出有限范围的探索性[[Working Hypothesis|工作假说]]，并在跨情境检验中照亮未知现象，从而打破实证主义将历史学排斥于科学之外的教条壁垒。（pp.151–152）
+> 4. **[[Historical Amnesia|学科历史健忘症]]的确证与危机警告** 世纪之交实证工具与多元理论繁荣的背后付出了抛弃历史维度的沉重代价；权威期刊计量数据证实历史研究份额已跌破 5%，学科深陷严重的历史健忘症，亟需通过重构历史探索性假说实现历史学与社会科学的理性综合。（pp.155–156）
 
 > [!stat-cards]- 核心数据
 > - **10.5%** 1955 至 1994 年间英美三大旗舰学术期刊（IJED, CE, CER）近 2000 篇论文中依赖史学编纂与历史研究的论文总占比。（pp.155–156）
@@ -420,7 +430,7 @@ updated: 2026-10-01
 >
 > *As is the state, so is the school... As is the school, so is the state... Every state has the type of education that it wills (Kandel, 1933: 82; 1955: 21).*
 
-> [!citation-card]- 比较历史学中非普适探索性假说的认识论辩护
+> [!citation-card]- 比较历史学中非普适[[Working Hypothesis|探索性假说]]的认识论辩护
 > 断言历史学主要处理独特而个别的事件，进而怀疑其对于以抽象、概括和规律性为前提的比较分析的价值，这一观点已被包括历史学家在内的诸多学者所驳斥。正如比较历史学家[[Crane Brinton|克莱恩·布林顿]]所示，对历史现象进行归类并为了形成概括而进行比较是完全可行的。尽管此类概括可能属于有限范围而非普适全称性质，但它们反过来可以作为工作[[Hypothesis|假设]]在其他类似情境中进行检验，以阐明新的现象。换言之，通过对具体、个别和特殊事物的审视，具有历史头脑的比较教育学者能够归纳出一种概括，并进而运用它来照亮另一个具体的事件或形式。对普遍性与特殊性的关切同时存在于社会科学与历史学之中，二者的差异在于研究侧重点与目的，绝非方法或性质的对立。（pp.151–152）
 >
 > *The assertion that history deals essentially with unique and particular events, and that consequently its value for comparative analysis, which presupposes abstraction, generalisation and regularity is questionable, has been refuted by several writers including historians. As Crane Brinton, the comparative historian, has shown, it is quite possible to categorise or classify historical phenomena and compare them for the purpose of making generalisations. Although such generalisations may be of a limited rather than a universal nature, they may in turn be used in working hypotheses to be tested in other similar situations in order to illuminate them... The concern for the general and the particular is to be found in both the social sciences and history, and the difference is one of emphasis and objectives of research rather than kind or method (Kazamias, 1963: 396).*
@@ -430,8 +440,8 @@ updated: 2026-10-01
 >
 > *...unlike conventional neo-Marxist writing, we argue that schools are not simply the tools of capitalists (in capitalist society) but an institution where the tensions among the forces for reproduction (reproduction of the objective relations of production) – which Bowles and Gintis call correspondence – and the forces of democratization (individual and collective expression) – which we call contradiction – are played out. Thus, the schools contain elements of reproduction and democracy, just as the State as a whole in capitalist and state bureaucratic societies contains these elements. Therefore, we do assume that the State in both capitalist and state bureaucratic societies fundamentally reproduces hierarchical and inequitable power relations, but that it and the educational system it uses in reproduction contain important contradictions (Carnoy, 1983).*
 
-> [!citation-card]- 期刊计量证据揭示学科深陷历史健忘症
-> 然而，这种发展是以认识论与方法论的代价为前提的，即牺牲或近乎彻底放弃比较教育研究中的历史维度。根据一项近期研究显示，“从 1955 年到 1994 年，在《[[International Education|国际教育]]发展杂志》、《比较教育》和《比较教育评论》发表的近 2000 篇论文中，仅有 10.5% 的研究策略依赖于史学编纂和历史研究”。更为令人沮丧的是：“从 1985 年到 1995 年，在所有发表的论文中，被界定为历史研究（比较历史或历史比较）的比例不足 5%”（Larsen, 2001）。这种严峻的状况促使一位评论家指出：我们这个领域正患有严重的“历史健忘症”。（pp.155–156）
+> [!citation-card]- 期刊计量证据揭示学科深陷[[Historical Amnesia|历史健忘症]]
+> 然而，这种发展是以认识论与方法论的代价为前提的，即牺牲或近乎彻底放弃比较教育研究中的历史维度。根据一项近期研究显示，“从 1955 年到 1994 年，在《[[International Education|国际教育]]发展杂志》、《比较教育》和《比较教育评论》发表的近 2000 篇论文中，仅有 10.5% 的研究策略依赖于史学编纂和历史研究”。更为令人沮丧的是：“从 1985 年到 1995 年，在所有发表的论文中，被界定为历史研究（比较历史或历史比较）的比例不足 5%”（Larsen, 2001）。这种严峻的状况促使一位评论家指出：我们这个领域正患有严重的“[[Historical Amnesia|历史健忘症]]”。（pp.155–156）
 >
 > *But such developments, I would argue, were made at an epistemological cum methodological cost, namely, the sacrifice or almost total abandonment of the historical dimension in comparative educational research. According to a recent study, '[[Research Strategies in Comparative Education]] from 1955 to 1994 revealed that only 10.5 per cent of almost 2000 articles in the International Journal of Educational Development, Comparative Education and Comparative Education Review relied on historiography and historical research'. And, even more disappointing: 'From 1985–1995, less than 5 per cent of all articles published were characterized as historical studies' (Larsen, 2001)... This state of affairs has prompted one commentator to observe that our [[Champ|field]] suffers from 'historical amnesia'.*
 

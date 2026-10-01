@@ -9,7 +9,7 @@ summary: "美国著名比较教育学泰斗，比较与国际教育学会（CIES
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 46
+person_related_count: 48
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -41,11 +41,13 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Permeable State]]"
   - "[[Rich and Thick Description]]"
+  - "[[Historical Amnesia]]"
 related_theories:
   - "[[World-Systems Theory]]"
   - "[[Dialectic of the Global and the Local]]"
   - "[[Pluri-Scalar Governance]]"
   - "[[Hegemony]]"
+  - "[[Structural Functionalism]]"
   - "[[Globalization from Below]]"
   - "[[Dependency Theory]]"
   - "[[Conditioned State Theory]]"
@@ -121,7 +123,7 @@ updated: 2026-10-01
 > - **1970–1980 年代 — [[Hegemony|文化霸权]]批判与[[World-Systems Theory|世界体系分析]]的引入** 聚焦跨国非政府基金会与国际金融援助的政治经济学机制，率先在比较教育学界确立中心-半边缘-边缘的世界体系[[Analytic Framework|分析框架]]。
 >   - **代表著作** *Comparative Education and World-Systems Analysis* (1980); *Philanthropy and Cultural Imperialism: The Foundations at Home and Abroad* (1980); *Education and Revolution in Nicaragua* (1986). [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 105–106)]]
 >   - **关键概念／方法** 世界体系分析、文化帝国主义、文化霸权、[[Popular Education|民众教育]]、历史-比较方法。
->   - **阶段转向** 彻底决裂于结构功能主义与古典现代化理论，将[[International Education|国际教育]]关系置于跨国劳动分工与不平等交换的现实框架中考察。
+>   - **阶段转向** 彻底决裂于[[Structural Functionalism|结构功能主义]]与古典现代化理论，将[[International Education|国际教育]]关系置于跨国劳动分工与不平等交换的现实框架中考察。
 > - **1990 年代至今 — [[Dialectic of the Global and the Local|全球与本土的辩证法]]、[[Pluri-Scalar Governance|多标度治理]]与[[Globalization from Below|自下而上的全球化]]** 应对技术[[Time-Space Compression|时空压缩]]与新自由主义全球扩张，构建贯通宏观体系与微观课堂的辩证分析框架，揭示多标度治理与[[Shadow State|影子国家]]异化，探索跨国草根反抗路径。
 >   - **代表著作** *Comparative Education: The Dialectic of the Global and the Local* (1999/2007/2013); *Civil Society or Shadow State? State/NGO Relations in Education* (2004); *World-systems Analysis and Comparative Education in the Age of Globalization* (2009). [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–114)]]
 >   - **关键概念／方法** [[Dialectic of the Global and the Local|全球与本土的辩证法]]、双重视野（Double Vision）、[[Pluri-Scalar Governance|多标度治理]]、[[Shadow State|影子国家]]、[[Globalization from Below|自下而上的全球化]]、改革双轴分析矩阵。
@@ -234,4 +236,4 @@ updated: 2026-10-01
 > | [[Carlos Alberto Torres\|卡洛斯·阿尔贝托·托雷斯]] | 人物 | 长期学术同盟；共同主编《比较教育：全球与本土的辩证法》权威教材。 |
 > | [[John W. Meyer\|约翰·迈耶]] | 人物 | 博士导师与世纪学术论敌；分别代表比较教育学中世界体系分析的共识论与冲突论两大极。 |
 > | [[Immanuel Wallerstein\|伊曼努尔·沃勒斯坦]] | 人物 | 思想渊源导师；将其现代世界体系分析批判性转化为比较教育学的基准透镜。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将阿诺夫置于第四阶段世界体系跨国分析核心，评述跨国依附链条与学科历史健忘症。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将阿诺夫置于第四阶段世界体系跨国分析核心，评述跨国依附链条与[[Historical Amnesia\|学科历史健忘症]]。 |

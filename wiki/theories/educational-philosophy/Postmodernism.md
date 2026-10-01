@@ -7,7 +7,7 @@ aliases:
 summary: "反抗启蒙现代性与实证主义决定论的思想思潮；在教育研究中解构宏大元叙事，肯定断裂、差异与本土微观情境，揭示知识的社会建构性与权力纽带，并以变色龙般的亲和性连接诠释范式、复杂性理论与批判理论。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 43
+theory_related_count: 44
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -44,6 +44,7 @@ related_theories:
   - "[[Post-structuralism]]"
   - "[[Complexity Theory]]"
   - "[[Critical Theory]]"
+  - "[[Structural Functionalism]]"
   - "[[Pluralism]]"
   - "[[Human Capital Theory]]"
 related_methods:
@@ -111,7 +112,7 @@ updated: 2026-10-01
 > [!dev-timeline] 理论演变历程
 > - **1979 — 元叙事合法性危机确立** 利奥塔发表《后现代状况》，将后现代明确界定为对元叙事的质疑，宣告宏大真理时代的终结。
 > - **1991 — 11 项特征系统化与文化批判** 詹姆逊系统归纳后现代主义 11 项显著特征（无深度、情境性、差异、断裂、权力纽带等），建立跨学科分析坐标系。
-> - **1970s–1990s — 比较教育学科破除西方中心论与现代化正统** 战后比较教育学中由现代化理论与结构功能主义构建的单向线性发展神话解体；拉斯特等人指出，后现代主义作为 26 种核心[[Theoretical Standpoint|理论立场]]之一，有力促成了对西方中心主义元叙事的解构，为非西方与本土经验的学术合法性确立了基础。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 131–132, 136)]]
+> - **1970s–1990s — 比较教育学科破除西方中心论与现代化正统** 战后比较教育学中由现代化理论与[[Structural Functionalism|结构功能主义]]构建的单向线性发展神话解体；拉斯特等人指出，后现代主义作为 26 种核心[[Theoretical Standpoint|理论立场]]之一，有力促成了对西方中心主义元叙事的解构，为非西方与本土经验的学术合法性确立了基础。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 131–132, 136)]]
 > - **1990s — 教育[[Qualitative Research|质性研究]]的后现代转向** 帕蒂·拉瑟（Patti Lather, 1991）与[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]）等将后现代思想全面引入课程论、政策社会学与[[Qualitative Interview|质性访谈]]，发起对研究者特权与权威文本的深度解构。
 > - **2010s 至今 — 复杂系统与多元[[Paradigm|范式]]共生前沿** Cohen, Manion & Morrison（2011）系统论述后现代主义与[[Complexity Theory|复杂性理论]]、[[Critical Theory|批判理论]]及[[Interpretive Paradigm|诠释范式]]的变色龙亲和性，奠定[[Pluralism|多元主义]]研究生态。
 

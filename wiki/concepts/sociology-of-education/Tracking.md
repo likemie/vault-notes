@@ -9,7 +9,7 @@ aliases:
 summary: "根据学术能力、测试成绩或职业取向将学生分配至不同课程轨道、教学班组或学校类型的制度化分流实践，在宏观上加剧社会阶层隔离并削弱公平与动机，在微观上强化能力固化信念与自我实现预言"
 type: concept
 domain: "sociology-of-education"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Media Logic]]"
   - "[[Document]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Human Capital Theory]]"
   - "[[Growth Mindset]]"
 related_methods:
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-09-17
+updated: 2026-10-01
 ---
 
 # Tracking
@@ -202,7 +203,7 @@ updated: 2026-09-17
 ## 概念演变
 
 > [!dev-timeline] 概念演变与学术脉络
-> - **20 世纪初至中叶 — 结构功能主义与选拔效率论** 英国 1944 年《巴特勒法案》确立文法中学、现代中学与技术学校三部制，欧洲大陆全面普及基于学力考试的多轨中等教育；此时分轨被视作依据社会分工合理分配[[Human Capital Theory\|人力资本]]的“科学效率工具”。
+> - **20 世纪初至中叶 — [[Structural Functionalism|结构功能主义]]与选拔效率论** 英国 1944 年《巴特勒法案》确立文法中学、现代中学与技术学校三部制，欧洲大陆全面普及基于学力考试的多轨中等教育；此时分轨被视作依据社会分工合理分配[[Human Capital Theory\|人力资本]]的“科学效率工具”。
 > - **1985 — 冲突论与批判教育社会学奠基** Jeannie Oakes 出版划时代著作 *Keeping Track: How Schools Structure Inequality*，开创了对校内分轨（Tracking）的系统实证批判，论证分轨如何剥夺有色人种与工人阶级子弟的优质知识获取权。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 98)]]
 > - **2000 年代初 — 文化心理学与微观认知机制深化** [[Jin Li\|李瑾]]将分轨制置于西方文化“固定自我观”与[[Talent Assumption\|天赋假设]]框架下展开跨文化解构，揭示其引发个人降级与自我实现预言的心理微观发生学机制。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 98–99, 109–110)]]
 > - **2012–2018 — 跨国量化实证与政策政治学解构** [[OECD]] 通过 [[PISA]] 跨国大样本实证确立了分轨与教育公平的负相关定律，推动去分轨综合化改革；[[Paul Morris\|Paul Morris]] 与 Sue Grey 则进一步揭示英格兰政客在[[Mediatised Governance\|媒介化治理]]中如何策略性过滤分轨负面证据并强行逆流推行选拔制度。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 114, 117–118)]]

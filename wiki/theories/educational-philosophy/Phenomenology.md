@@ -5,7 +5,7 @@ aliases:
 summary: "以主观意识和直接经验为核心的哲学传统与认识论框架，关注意识如何主动赋予世界意义，揭示具身感知与日常生活世界的主体间性本质，是诠释范式与质性研究的三大核心支柱之一。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 51
+theory_related_count: 52
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -49,6 +49,7 @@ related_concepts:
 related_theories:
   - "[[Symbolic Interactionism]]"
   - "[[Critical Realism]]"
+  - "[[Structural Functionalism]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Member Tests]]"
@@ -245,4 +246,4 @@ updated: 2026-10-01
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011, Ch. 29, p. 614)]] — 在系统质性数据[[Analytic Framework|分析框架]]中，进一步规范现象学还原与主题聚类的实施原则。
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024, p. 4)]] — 深入解析现象学作为芬兰[[Phenomenon-Based Learning|现象本位学习]]（PhBL）哲学根基的实践转化与政策抗衡。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019, p. 3)]] — 借助身体现象学与[[Bildung|教化]]哲学，全面反思可见学习对学习可见性的机械执念。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132, 136)]] — 梳理比较教育学术史，将现象学列为 1970 年代起打破战后结构功能主义垄断的 26 种核心理论/方法立场之一，支撑了学科向质性与人本主义[[Paradigm|范式]]的深刻转型。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132, 136)]] — 梳理比较教育学术史，将现象学列为 1970 年代起打破战后[[Structural Functionalism|结构功能主义]]垄断的 26 种核心理论/方法立场之一，支撑了学科向质性与人本主义[[Paradigm|范式]]的深刻转型。

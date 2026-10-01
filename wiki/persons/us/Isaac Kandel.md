@@ -9,7 +9,7 @@ summary: "哥伦比亚大学师范学院比较教育学讲座教授，《教育�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 57
+person_related_count: 59
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -45,7 +45,9 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Policy Borrowing]]"
   - "[[Operationalization]]"
+  - "[[Working Hypothesis]]"
   - "[[Hypothesis]]"
+  - "[[Historical Amnesia]]"
   - "[[Whiggism]]"
   - "[[Construct]]"
   - "[[Unit of Analysis]]"
@@ -254,7 +256,7 @@ updated: 2026-10-01
 > >
 > > - **Harold Noah & Max Eckstein（1969）** 批评历史-哲学路径缺乏客观假说检验规程，处于学科演进的“前科学力量与因素阶段”。
 > > - **[[Brian Holmes\|布赖恩·霍姆斯]]（Brian Holmes，1965）** 批评历史学派面向过去而非面向未来，认为科学比较教育的标志是预测而非回顾性解释。
-> > - **[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] 的[[Epistemology|认识论]]辩护** 卡扎米亚斯援引[[Crane Brinton|克莱恩·布林顿]]（Crane Brinton）比较史学理论指出，坎德尔等学者的历史比较绝非不可检验的主观玄思，而是能够从具体历史形态中提炼出具有有限归纳效力的探索性工作假说（Working [[Hypothesis|hypotheses]]）；战后实证学派对历史维度的武断放逐，不仅未带来真正的科学普适规律，反而导致学科陷入严重的“历史健忘症”。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 151–152, 155–156)]]
+> > - **[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] 的[[Epistemology|认识论]]辩护** 卡扎米亚斯援引[[Crane Brinton|克莱恩·布林顿]]（Crane Brinton）比较史学理论指出，坎德尔等学者的历史比较绝非不可检验的主观玄思，而是能够从具体历史形态中提炼出具有有限归纳效力的探索性[[Working Hypothesis|工作假说]]（Working [[Hypothesis|hypotheses]]）；战后实证学派对历史维度的武断放逐，不仅未带来真正的科学普适规律，反而导致学科陷入严重的“[[Historical Amnesia|历史健忘症]]”。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 151–152, 155–156)]]
 >
 > > [!axis] [[Whiggism\|辉格史观]]与[[National Character\|国民性]][[Construct\|构念]]的虚妄
 > > 卡扎米亚斯作为战后青年学者对坎德尔历史方法展开的内在方法论清算。

@@ -9,7 +9,7 @@ title: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_key: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_display_title: "Evolution of University-Industry Relationships for Driving Innovation"
 argument_kind: "book"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -62,6 +62,7 @@ related_persons: []
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[Bell Labs]]"
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
   - "[[Argument_Caraca_2009_TFSC]]"
@@ -170,7 +171,7 @@ Schot & Steinmueller(2018)与 Lindner et al.(2024)识别出三个政策[[Paradig
 
 **变化三：谁在"做"创新——[[Knowledge Production|知识生产]]的组织结构也变了。** 二十世纪经历了一次大规模的"知识生产分工重组"(Arora et al., 2020)(pp.35–42)。
 
-二十世纪早期，大企业建立[[Corporate R&D Labs|中央研发实验室]]，从基础研究到产品开发实现内部一体化。AT&T 贝尔实验室（晶体管、激光、Unix）、Xerox PARC（图形用户界面、以太网）、IBM Research 的科研水平不亚于甚至超过顶尖大学，产出了多个诺贝尔奖(p.35)。企业实验室的黄金时代建立在一种信念之上：公司自主从事科学研究可以解锁新的商业机会。
+二十世纪早期，大企业建立[[Corporate R&D Labs|中央研发实验室]]，从基础研究到产品开发实现内部一体化。AT&T [[Bell Labs|贝尔实验室]]（晶体管、激光、Unix）、Xerox PARC（图形用户界面、以太网）、IBM Research 的科研水平不亚于甚至超过顶尖大学，产出了多个诺贝尔奖(p.35)。企业实验室的黄金时代建立在一种信念之上：公司自主从事科学研究可以解锁新的商业机会。
 
 但到 1980 年代，在股东压力、全球竞争和技术复杂性上升的共同作用下，企业中央实验室开始衰落，研发从中央集中走向与产品部门挂钩，从内部封闭走向外部开放协作(Chesbrough, 2003; Laursen & Salter, 2006)(pp.36–37)。
 

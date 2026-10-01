@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -27,7 +27,8 @@ related_concepts:
 related_theories:
   - "[[Triple Helix]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Vannevar Bush]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
@@ -35,7 +36,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Rising Above the Gathering Storm 2007
@@ -43,7 +44,7 @@ updated: 2026-09-22
 ## 内容
 
 > [!info]
-> Rising Above the Gathering Storm: Energizing and Employing America for a Brighter Economic Future 是美国国家科学院、国家工程院和医学研究院（NASEM）于 2007 年联合发布的报告。报告重申了基础与开放式研究投资的战略重要性，直接呼应 Vannevar Bush 的 [[Science, The Endless Frontier 1945\|Science, The Endless Frontier]]（1945）的核心主题（p.13）。
+> Rising Above the Gathering Storm: Energizing and Employing America for a Brighter Economic Future 是美国国家科学院、国家工程院和医学研究院（NASEM）于 2007 年联合发布的报告。报告重申了基础与开放式研究投资的战略重要性，直接呼应 [[Vannevar Bush]] 的 [[Science, The Endless Frontier 1945\|Science, The Endless Frontier]]（1945）的核心主题（p.13）。
 
 ## 影响与后果
 

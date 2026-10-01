@@ -12,7 +12,7 @@ title: "Argument_Schulze-Cleven_2017_HighEduc"
 argument_key: "Argument_Schulze-Cleven_2017_HighEduc"
 argument_display_title: "The new political economy of higher education: between distributional conflicts and discursive stratification"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -68,6 +68,7 @@ related_facts:
   - "[[Academic Ranking of World Universities]]"
   - "[[Research Excellence Framework]]"
   - "[[German Excellence Initiative]]"
+  - "[[National Institutes of Health]]"
   - "[[CNRS]]"
   - "[[National Science Foundation]]"
 related_arguments: []
@@ -230,7 +231,7 @@ Slaughter & Leslie(1997)和 Slaughter & Rhoades(2004)的 [[Academic Capitalism|�
 - **Wieczorek, Beyer & Münch** 以美国化学系为案例，提出了 [[Neo-feudalism in Higher Education]] 的两种理想类型：封地封建主义（fief feudalism），研究者通过自主拨款维持相对独立性；俸禄封建主义（benefice feudalism），研究方向和产出节奏由资助方的经济适用性指令所约束。量化分析和[[Qualitative Interview|质性访谈]]共同支持了这一类型学的经验基础(pp.805–806)。
 
 > [!example] 为什么要区分封地和俸禄？
-> 两位化学教授，同在美国一所 R1 大学。A 教授获得了 NIH 的 R01 拨款，研究一个基础机制问题，他的团队可以花五年时间慢慢打磨一篇 Nature 论文。B 教授的经费来自一家制药公司的定向合同，要求每季度提交阶段性报告，他的研究被严格锁定在公司的产品开发路线上。A 教授在系里有更大的话语权、更多的博士生申请、更频繁的会议主题演讲邀请。B 教授虽然经费充裕，但在学科内部的地位远不如 A。
+> 两位化学教授，同在美国一所 R1 大学。A 教授获得了 [[National Institutes of Health|NIH]] 的 R01 拨款，研究一个基础机制问题，他的团队可以花五年时间慢慢打磨一篇 Nature 论文。B 教授的经费来自一家制药公司的定向合同，要求每季度提交阶段性报告，他的研究被严格锁定在公司的产品开发路线上。A 教授在系里有更大的话语权、更多的博士生申请、更频繁的会议主题演讲邀请。B 教授虽然经费充裕，但在学科内部的地位远不如 A。
 >
 > 在"学术资本主义"的单一标签下，两者都被归为市场化。但他们的实际处境，自主性、时间压力、学科声望、职业前景，天差地别。Wieczorek et al.的类型学正是要揭示这种市场内部的等级分化：表面上大家都在"竞争"，但不同形式的竞争对应着截然不同的权力关系和[[Academic Freedom\|学术自由]]程度。
 

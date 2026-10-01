@@ -22,9 +22,9 @@ tags:
   - theme/bilingual-education
   - theme/qualification-recognition
 related_concepts:
+  - "[[International Baccalaureate]]"
   - "[[International Schools]]"
   - "[[International Qualification Recognition]]"
-  - "[[International Baccalaureate]]"
 related_facts:
   - "[[1985 Trieste Intergovernmental Conference on the International Baccalaureate]]"
 related_arguments:
@@ -44,7 +44,7 @@ updated: 2026-09-29
 > 法国业士文凭国际选项（Option internationale du baccalauréat，OIB）在法国国家毕业资格内部设置双文化课程路径。普通课程轨道和多数考试保持法国制度，外语及历史／地理部分由法国与伙伴国共同设计和评价。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 163–164)]]
 
 > [!program-context] 项目背景
-> - **制度起点** IBO 与法国教育部的人员借调及巴黎办公室合作先后终止后，法国对 IB 的兴趣下降，转向国家文凭内部的国际选项。
+> - **制度起点** [[International Baccalaureate|IBO]] 与法国教育部的人员借调及巴黎办公室合作先后终止后，法国对 IB 的兴趣下降，转向国家文凭内部的国际选项。
 > - **核心优势** 国家资格可同时服务大学入学与专业准入；法国没有把后一效力授予非政府机构运行的 IB。
 > - **合作方式** 伙伴国参与外语和历史／地理课程，其余结构和考试仍属于法国业士文凭。
 > - **适用对象** 单一移民文化较集中的地区或传统双国学校较易组织；具有三四十个国籍的[[International Schools|国际学校]]则会被分成法美、法英、法西等不同小组。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 163–164, 190)]]

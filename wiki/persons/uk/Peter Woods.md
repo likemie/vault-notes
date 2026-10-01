@@ -8,7 +8,7 @@ summary: "英国教育社会学家，开放大学荣休教授，微观课堂民�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
 related_theories:
   - "[[Symbolic Interactionism]]"
+  - "[[Structural Functionalism]]"
   - "[[Thomas Theorem]]"
 related_methods:
   - "[[Ethnography]]"
@@ -68,7 +69,7 @@ updated: 2026-10-01
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育社会学家，英国开放大学（The Open University）教育学院荣休教授，英国微观教育[[Ethnography\|民族志]]与教育[[Symbolic Interactionism\|符号互动论]]的开拓者与领军学者。
-> - **核心角色** 在当代教育社会学中确立微观符号互动论分析[[Paradigm\|范式]]，打破宏观结构功能主义对学校生活的黑箱化遮蔽，将民族志[[Rich and Thick Description\|深描]]引入师生日常互动、生存策略与亚文化协商的研究。
+> - **核心角色** 在当代教育社会学中确立微观符号互动论分析[[Paradigm\|范式]]，打破宏观[[Structural Functionalism|结构功能主义]]对学校生活的黑箱化遮蔽，将民族志[[Rich and Thick Description\|深描]]引入师生日常互动、生存策略与亚文化协商的研究。
 > - **代表贡献** 提炼教育研究中符号互动论的三大核心公设（Woods, 1979）；开创学校师生微观生存策略经典民族志深描（《分化的学校》*The Divided School*, 1979；《学校社会学》*Sociology and the School*, 1983）；确立以“互动本身作为基本研究单位”的质性方法论纲领。
 
 ---
@@ -115,7 +116,7 @@ updated: 2026-10-01
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 推动英国教育社会学从宏观结构功能主义向微观[[Interpretivism|诠释主义]][[Paradigm\|范式]]转型，使[[Symbolic Interactionism\|符号互动论]]成为教育[[Qualitative Research\|质性研究]]的核心理论支柱。
+> - **理论路径** 推动英国教育社会学从宏观[[Structural Functionalism|结构功能主义]]向微观[[Interpretivism|诠释主义]][[Paradigm\|范式]]转型，使[[Symbolic Interactionism\|符号互动论]]成为教育[[Qualitative Research\|质性研究]]的核心理论支柱。
 > - **方法路径** 确立[[Participant Observation\|参与观察]]、[[Rich and Thick Description\|深描]]与生活史叙事在教育研究中的合法性，打破[[Flanders Interaction Analysis Categories\|弗兰德斯互动分析系统]]（FIAC）等量化行为[[Coding in Qualitative Research\|编码]]系统的垄断。
 > - **实践路径** 启迪教师理解学生“无聊”、“打趣”与“胡闹”背后的心理动机与生存诉求，为民主化[[Classroom Management\|课堂管理]]与师生沟通提供反思视角。
 

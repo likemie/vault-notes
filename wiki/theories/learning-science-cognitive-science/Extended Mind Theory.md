@@ -10,7 +10,7 @@ aliases:
 summary: "由 Andy Clark 与 David Chalmers 于 1998 年创立、后经 Clark（2025）面向生成式 AI 深化的认知哲学理论，提出宇称原则与耦合系统观，主张认知过程可跨越颅骨与身体边界延展至外部环境人造物，为认知卸载与人机协同学习提供了本体论与功能主义合法性基石。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 32
+theory_related_count: 33
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Technology Infusion]]"
   - "[[Scaffolding]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Third Generation Activity Theory]]"
   - "[[Cognitive Load Theory]]"
   - "[[Theory of Mind]]"
@@ -54,7 +55,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-23
+updated: 2026-10-01
 ---
 
 # Extended Mind Theory
@@ -66,7 +67,7 @@ updated: 2026-09-23
 > [!theory-position] 理论定位
 > - **解释对象** 心智与认知过程的空间边界，以及人类认知主体如何与外部工具、符号媒介及人工智能技术耦合成统一的认知系统。
 > - **理论问题** 批判传统[[René Descartes\|笛卡尔]]式内在主义（Cartesian Internalism）将认知等同于颅内神经计算的狭隘界定，解释外部人造物为何不仅是信息传输通道，更是认知加工回路的实质组成部分。
-> - **理论类型** [[Ontology\|本体论假设]]与认知[[Scientific Explanation\|科学解释]]框架（结合主动外在主义 Active Externalism 与计算功能主义 Functionalism）。
+> - **理论类型** [[Ontology\|本体论假设]]与认知[[Scientific Explanation\|科学解释]]框架（结合主动外在主义 Active Externalism 与计算功能主义 [[Structural Functionalism|Functionalism]]）。
 > - **知识位置** 诞生于心灵哲学与情境/具身认知科学，上承功能主义与生态心理学，与[[Third Generation Activity Theory\|活动理论]]、分布式认知（Distributed Cognition）及[[Cognitive Load Theory\|认知负荷理论]]形成互补对话。
 
 > [!claim] 核心判断

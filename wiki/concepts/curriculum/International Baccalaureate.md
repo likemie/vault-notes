@@ -4,13 +4,15 @@ aliases:
   - 国际文凭
   - IB Diploma
   - 国际文凭组织
-summary: "起源于国际学校共同课程与跨国升学需求的国际课程体系，通过学科组、核心组件和统一评估平衡通识教育、专业准备与国际理解。"
+  - International Baccalaureate Organization
+  - IBO
+summary: "从国际学校共同资格发展而来的跨国课程与质量保障体系，通过课程核心、考试评价、区域支持和公共治理协调共同标准与地方实施。"
 type: concept
 domain: "curriculum"
-related_count: 47
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 51
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - subject/curriculum
   - level/k12
@@ -24,40 +26,44 @@ related_concepts:
   - "[[Concurrency of Learning]]"
   - "[[Teaching Assistant]]"
   - "[[Approaches to Teaching and Learning]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Language Skills]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Academic Achievement]]"
   - "[[Critical Thinking]]"
-  - "[[Creativity]]"
   - "[[Academic Self-Concept]]"
   - "[[Going Native]]"
   - "[[Hypothesis]]"
   - "[[Constructivist Paradigm]]"
   - "[[Chinese Learner]]"
   - "[[Epistemology]]"
+  - "[[Knowledge Questions]]"
+  - "[[Open-Mindedness]]"
   - "[[Dependent Variable]]"
+  - "[[Attrition]]"
   - "[[Variable]]"
   - "[[International Education]]"
 related_theories:
   - "[[Theory of Mind]]"
   - "[[Knowledge Building Theory]]"
 related_methods:
+  - "[[Correlational Research]]"
   - "[[Random Sampling]]"
   - "[[Effect Size]]"
-  - "[[Correlational Research]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
   - "[[California Critical Thinking Disposition Inventory]]"
-related_persons: []
+related_persons:
+  - "[[Alec Peterson]]"
 related_facts:
   - "[[International School of Geneva]]"
   - "[[UNESCO]]"
-  - "[[International Schools Examination Syndicate]]"
-  - "[[International Baccalaureate North America]]"
   - "[[Standing Conference of Governments of the International Baccalaureate]]"
-  - "[[Founding of the International Baccalaureate]]"
+  - "[[International Schools Examination Syndicate]]"
   - "[[International Baccalaureate Six-Year Experiment]]"
+  - "[[International Baccalaureate North America]]"
+  - "[[Founding of the International Baccalaureate]]"
+  - "[[1976 Hague Intergovernmental Conference on the International Baccalaureate]]"
+  - "[[1985 Trieste Intergovernmental Conference on the International Baccalaureate]]"
   - "[[United World Colleges]]"
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch07]]"
@@ -68,10 +74,10 @@ related_arguments:
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch05]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
-confidence: medium
-status: draft
+confidence: high
+status: active
 created: 2026-05-17
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # International Baccalaureate
@@ -92,7 +98,7 @@ updated: 2026-10-01
 
 ## 概念辨析
 
-> [!contrast-table] IB、[[IB Diploma Programme|IBDP]] 与 IBO 指向不同层次
+> [!contrast-table] IB、大学预科项目与 IBO 指向不同层次
 > | 名称 | 指向对象 | 核心功能 | 使用边界 |
 > |---|---|---|---|
 > | **国际文凭（IB）** | 整体课程与资格体系 | 连接共同课程、国际评价、学校实施和资格承认 | 可泛指整个体系，具体讨论时仍需说明项目或组织层次 |
@@ -129,7 +135,7 @@ IBO 在第二个十年逐渐把政策、考试和学校支持分配到不同节�
 > |---|---|---|---|
 > | 日内瓦中央行政 | 政策、治理和国际协调 | 保持课程与组织方向的一致性 | 高成本、工作许可和多语人员招聘困难 |
 > | 巴斯考试办公室 | 命题、材料处理、阅卷与考试行政 | 集中处理高频、劳动密集的标准化工作 | 约九成学校以英语工作，多语承诺仍需另行维护 |
-> | 区域办公室与代表 | 学校联络、教师培训和发展 | 把共同要求[[Transfer Translation Transformation\|转译]]到不同地区并反馈实施问题 | 学校密度、距离和通信条件造成服务差异 |
+> | 区域办公室与代表 | 学校联络、教师培训和发展 | 把共同要求转化为适合不同地区的实施安排，并反馈实施问题 | 学校密度、距离和通信条件造成服务差异 |
 > | 政府常设会议 | 会费、理事代表和课程发展合作 | 为国际资格提供公共治理基础 | 1985 年政府出资仅占总收入略高于 10%，公共影响仍受财政投入限制 |
 
 > [!warrant]- 统一课程不要求所有工作集中在同一地点
@@ -161,18 +167,16 @@ IBO 在第二个十年逐渐把政策、考试和学校支持分配到不同节�
 
 ## 围绕概念形成的命题
 
-### 命题一　IB 课程的核心组件显著促进了学生的大学适应性与高阶认知发展
+### 命题一　IBDP 核心组件与大学准备和高阶认知表现相关
 
 > [!concept-lens] 教育效能
-> 学界广泛关注这种复合了高度学术要求与体验式学习的课程框架是否真正带来了认知红利。
+> [[Correlational Research|相关研究]]把 [[Theory of Knowledge|TOK]]、EE 与 CAS 视为连接学术学习、反思、自主研究和社会参与的机制。现有结果多为观察性比较或参与者报告，能够说明关联和可能机制，不能把差异全部归因于课程。
 
 > [!claim] Metli, A. & Akış, D.
-> **核心组件的多维效益** 
-> 国际文凭大学预科项目（[[IB Diploma Programme\|International Baccalaureate Diploma Programme]]，IBDP）的三大核心组件在实证层面展现了显著效益：[[Extended Essay\|拓展论文]]（Extended Essay，EE）与更强的独立思考、[[Inquiry-Based Learning\|探究学习]]及更高的大学平均绩点（Grade Point Average，[[Academic Achievement\|GPA]]）相关；[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）不仅促进[[Critical Thinking\|批判性思维]]，还帮助学生反思[[Knowledge Building Theory|知识建构]]；而[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Activity, Service，CAS）经验则塑造了学生的服务伦理、自信心及公民责任感（civic-mindedness）。[[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, pp. 220-221)]]
+> **核心组件承担不同但互补的教育功能** EE 与独立思考、[[Inquiry-Based Learning\|探究学习]]和大学平均绩点（Grade Point Average，[[Academic Achievement|GPA]]）相关；TOK 帮助学生反思[[Knowledge Building Theory|知识建构]]并练习[[Critical Thinking\|批判性思维]]；CAS 经验则与服务伦理、自信和公民责任感相关。三者需要相互联系，单独完成任务不等于形成整体学习。[[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, pp. 220–221)]]
 
 > [!claim] Cole, D. R. et al.
-> **批判性思维的显著增长**
-> 澳大利亚的一项大规模研究发现，完成 TOK 的 12 年级学生在批判性思维策略（[[Critical Thinking Strategies Scale\|CTSS]]）上显著高于 11 年级，且 DP 毕业生的 ATAR（大学录取排名）与[[Academic Self-Concept\|学术自我概念]]均显著优于非 DP 毕业生。[[Argument_Cole_2015_AJE\|(Cole et al., 2015)]]
+> **年级和项目组之间存在表现差异** 澳大利亚样本中，12 年级学生的[[Critical Thinking Strategies Scale|批判性思维策略量表]]（Critical Thinking Strategies Scale，CTSS）得分显著高于 11 年级学生；DP 毕业生的澳大利亚高等教育入学排名（Australian Tertiary Admission Rank，ATAR）与[[Academic Self-Concept\|学术自我概念]]也高于非 DP 毕业生。横断比较和便利样本无法排除学生选择、学校差异及整个 DP 的共同作用，结果不能单独证明 TOK 的因果效果。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 254–258)]]
 
 ---
 
@@ -182,25 +186,65 @@ IBO 在第二个十年逐渐把政策、考试和学校支持分配到不同节�
 > IB 标榜国际化和意识形态中立，但在跨文化实践中，其隐性的西方哲学[[Hypothesis\|假设]]是否普适。
 
 > [!claim] Slethaug, G.
-> **[[Constructivist Paradigm\|建构主义]]的文化不适应性** 
-> 尽管 IB 宣称不受政治宗教驱动，但其强调“多角度思考”和“开放心态”，深植于西方、盎格鲁建构主义传统。当被直接引入缺乏相应文化基础的亚洲课堂时，这些由西方预设驱动的探究式要求，会与遵循不同知识权威秩序的[[Chinese Learner\|中国学习者]]或亚洲课堂文化产生剧烈张力。[[Argument_Slethaug_2010_InternationalEducation\|(Slethaug, 2010, p. 29)]]
+> **[[Constructivist Paradigm\|建构主义]]取向需要经过本地课程翻译** IB 强调多角度思考和开放心态，课程设计带有西方、盎格鲁建构主义传统的影响。直接移植到知识权威关系和课堂互动规范不同的亚洲环境时，探究要求可能与[[Chinese Learner\|中国学习者]]或当地课堂文化发生张力。国际性不能由统一文本自动产生，还需要教师把课程原则转化为当地学生能够参与的任务。[[Argument_Slethaug_2010_InternationalEducation\|(Slethaug, 2010, p. 29)]]
+
+---
+
+### 命题三　跨国课程只有同时维持共同标准与地方实施空间才能扩张
+
+> [!concept-lens] 标准、分权与公共治理
+> IB 的扩张要求考试结果在不同国家具有可比性，也要求学校能够按当地语言、文化和制度条件实施课程。组织分权、教师培训和政府参与共同处理这一张力。
+
+> [!claim] [[Alec Peterson|Peterson, A. D. C.]]
+> **功能分权把共同标准转化为可交付服务** 日内瓦维持政策和国际治理，巴斯集中考试业务，区域办公室承担学校联络与教师培训。这个结构按照工作性质、语言环境和成本配置职能，没有在每个国家复制一套总部。它既缩短组织与学校之间的距离，也保留共同课程和考试的中央协调。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 166–168, 185–187)]]
+
+> [!claim] Peterson, A. D. C.
+> **公共身份需要出资和治理参与同时成立** 1981 年成立的[[Standing Conference of Governments of the International Baccalaureate\|国际文凭政府常设会议]]把政府会费、理事席位和发展合作结合起来，使 IB 获得国际公共教育服务的制度定位。1985 年政府贡献仍只占 IBO 收入略高于 10%，远低于此前设想的约三分之一，说明政府代表权若没有稳定财政承诺支撑，公共治理仍然脆弱。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 161–162, 188–190)]]
+
+---
+
+### 命题总览
+
+> [!contrast-table] IB 的核心命题
+> | 命题类型 | 核心指向 | 条件与边界 | 代表研究 |
+> |---|---|---|---|
+> | **核心组件与学习结果** | TOK、EE 与 CAS 分别连接知识反思、自主研究和社会参与 | 现有比较多为观察性证据，不能排除学生选择和学校差异 | [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]]；[[Argument_Cole_2015_AJE\|Cole et al. (2015)]] |
+> | **跨文化课程移植** | 统一课程原则需要转化为当地可参与的课堂任务 | 知识权威、语言和课堂互动规范可能改变实施 | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]] |
+> | **跨国制度运行** | 功能分权、教师培训、共同评价与政府参与共同维持标准 | 分权可能带来服务差异，公共治理受稳定出资限制 | [[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7)]] |
 
 ---
 
 ## 概念演变
 
-> [!timeline] 早期阶段
-> - **1925 — 理念先声** 日内瓦[[International Schools\|国际学校]]提出“国际毕业会考”设想，但国际学校和跨国流动尚不足以支撑实施。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 15)]]
-> - **1948–1955 — 现实需求形成** 国际学校扩张、大学入学竞争和国家课程分轨，使国际共同资格成为实际需要。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 15–17)]]
-> - **1961–1967 — 教师倡议制度化** 日内瓦教师网络逐步建立 [[International Schools Examination Syndicate\|ISES]]／IBO、六学科组、双语课程、[[Theory of Knowledge\|知识论]]与国际试验学校网络。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 17–31)]]
-> - **1969–1970 — 资格验证** 六年试验启动，首批 29 名学生使用正式 IB 考试结果申请大学。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 31)]]
-> - **1970–1976 — 制度可行性验证** 六年试验把考试实施、学校采用、家长信任、大学承认、行政能力和持续资金作为相互依赖的系统来建设。到 1973 年底，20 国给予一般承认，学生进入 25 国 175 所大学；1976 年海牙政府间会议把政府资助和治理参与纳入常设结构。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 61–97)]]
-> - **1980–1982 — 十一月考试提前实施** 沃特福德卡姆拉巴按南半球学年组织课程，多数学生需要申请南非大学。国际文凭组织（International Baccalaureate Organization，IBO）承担额外成本，把原计划长期服务澳大拉西亚和南美学校的十一月考试季提前分阶段实施。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 125–126)]]
-> - **1977–1984 — 北美公立高中扩张** 精英预科学校和社区学院没有形成持续采用路径，地方课程自主的公立高中成为主要增长点。[[International Baccalaureate North America\|国际文凭北美公司]]（International Baccalaureate North America，IBNA）以基金会启动资金、介绍会和教师培训支持学校采用；北美授权学校由 1977 年 10 所增至 1984 年 126 所。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 131–152)]]
-> - **1981–1985 — 政府参与、功能分权与课程核心成熟** [[Standing Conference of Governments of the International Baccalaureate\|国际文凭政府常设会议]]把成员国出资与理事代表制度化；日内瓦中央行政、巴斯考试办公室和区域办事处形成分工。TOK、EE 与 [[Creativity, Action, Service|CASS]] 又分别发展外部调节、外部评分和指导性档案等质量保障方式。1985 年政府贡献约占 IBO 收入略高于 10%，说明公共治理仍受财政承诺制约。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 161–168, 178–190)]]
+> [!phase] IB 从[[International Schools|国际学校]]方案发展为跨国公共教育服务
+>
+> - **1925–1955 年　理念先声转化为现实需求**
+>
+>   [[International School of Geneva|日内瓦国际学校]]早在 1925 年提出国际毕业考试设想。战后国际学校扩张、跨国流动增加和大学入学竞争加剧，使共同资格从和平主义理想转变为办学需要。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 15–17)]]
+>
+> - **1961–1967 年　教师倡议形成课程与组织**
+>
+>   日内瓦教师网络逐步建立[[International Schools Examination Syndicate\|国际学校考试辛迪加]]（International Schools Examination Syndicate，ISES）及后来的 IBO，并形成六学科组、双语课程、[[Theory of Knowledge|TOK]] 和国际试验学校网络。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 17–31)]]
+>
+> - **1969–1976 年　六年试验验证制度可行性**
+>
+>   1969 年启动的[[International Baccalaureate Six-Year Experiment\|国际文凭六年试验]]把考试、学校采用、家长信任、大学承认、行政能力和持续资金作为相互依赖的系统来建设。1970 年首批 29 名学生使用正式考试结果申请大学；到 1973 年底，20 国给予一般承认，学生进入 25 国 175 所大学。1976 年海牙会议又把政府资助与治理参与纳入常设安排。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 61–97)]]
+>
+> - **1977–1984 年　区域扩张改变学校基础**
+>
+>   北美精英预科学校和社区学院没有形成持续采用路径，地方课程自主的公立高中成为主要增长点。[[International Baccalaureate North America\|国际文凭北美公司]]（International Baccalaureate North America，IBNA）以基金会启动资金、介绍会和教师培训支持采用，北美授权学校由 1977 年 10 所增至 1984 年 126 所。1980–1982 年，沃特福德卡姆拉巴的南半球学年和南非升学需要又推动十一月考试季提前实施。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 125–126)]] [[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 131–152)]]
+>
+> - **1981–1985 年　公共治理、功能分权与课程质量保障成熟**
+>
+>   [[Standing Conference of Governments of the International Baccalaureate|国际文凭政府常设会议]]把成员国会费与理事代表制度化；日内瓦中央行政、巴斯考试办公室和区域办事处形成职责分工。TOK、EE 与 CAS 分别发展外部调节、外部评分和教师指导及活动档案等质量保障方式。1983 年超过 500,000 瑞士法郎的预期赤字仍迫使组织暂停课程开发、缩减总部人员并依靠特别拨款，说明制度成熟没有消除财政脆弱性。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 161–168, 178–190)]]
 
-> [!ref-table]- 详细史实
-> [[Founding of the International Baccalaureate\|国际文凭创立]]记录 1924–1970 年间的行动者、组织、资助、课程决策与大学承认时间轴；[[International Schools Examination Syndicate\|国际学校考试辛迪加]]与 1967 年塞夫尔会议分别展开其组织载体和资格试验机制；[[International Baccalaureate Six-Year Experiment\|国际文凭六年试验]]记录考试、学校、承认、财务与治理怎样把方案转为常设制度；海牙政府间会议展开实验结束时的政府出资与治理安排。
+> [!entry-map] 延伸条目
+> | 类型 | 条目 | 对理解 IB 的贡献 |
+> |---|---|---|
+> | 创立事件 | [[Founding of the International Baccalaureate\|国际文凭创立]] | 记录 1924–1970 年间的行动者、组织、资助、课程决策与大学承认时间轴 |
+> | 早期组织 | [[International Schools Examination Syndicate\|国际学校考试辛迪加]] | 说明教师网络如何形成 IB 的早期组织载体 |
+> | 制度试验 | [[International Baccalaureate Six-Year Experiment\|国际文凭六年试验]] | 展开考试、学校、资格承认、财务和治理如何共同把方案转为常设制度 |
+> | 政府参与 | [[1976 Hague Intergovernmental Conference on the International Baccalaureate\|1976 年国际文凭海牙政府间会议]]；[[1985 Trieste Intergovernmental Conference on the International Baccalaureate\|1985 年的里雅斯特国际文凭政府间会议]] | 呈现实验结束和第二个十年末的政府出资、代表与资格承认议程 |
 
 ---
 
@@ -208,13 +252,13 @@ IBO 在第二个十年逐渐把政策、考试和学校支持分配到不同节�
 
 > [!debates] 意识形态中立性争议
 >
-> > [!axis] 文化普适性 vs. 西方霸权
+> > [!axis] 文化普适性与西方中心性
 > >
 > > - **IBO 官方立场** 主张意识形态中立，致力于培养超越国界的跨文化理解。
 > > - **Drake (2004) / [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]]** 要求以英语为主要载体，且大量课程设计预设了西方[[Epistemology\|认识论]]模式，这种自上而下的引入本身就是一种带有意识形态色彩的西方化过程。[[Argument_Slethaug_2010_InternationalEducation\|(Slethaug, 2010, p. 29)]]
 
-> [!warning] ToK 冲击 (ToK-shock)
-> 学生在进入 IB 核心模块时可能会经历“ToK 冲击”，在课程初期因[[Theory of Knowledge\|知识论]]的模糊性和反思要求而陷入认知困难。但这通常被视为必要的发展阵痛。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, p. 259)]]
+> [!warning] [[Theory of Knowledge|TOK]] 初期适应困难
+> 学生刚进入 TOK 时，可能因[[Knowledge Questions|知识问题]]的[[Open-Mindedness|开放性]]和反思要求而感到困惑。部分参与者把这种经历称为 TOK 冲击（TOK shock），并报告随着课程推进才逐渐理解其价值。该现象说明课程需要明确的学习支架，不能把初期困难自动解释为必要且有益的发展过程。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, p. 259)]]
 
 ---
 
@@ -230,32 +274,29 @@ IBO 在第二个十年逐渐把政策、考试和学校支持分配到不同节�
 > | [[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 131, 151–153)]] | 1977–1984 年北美扩张 | 授权学校与教师培训规模 | 北美授权学校由 10 所增至 126 所；1978 年培训 97 名教师、覆盖 26 校，1984 年培训 579 名教师、覆盖 106 所授权学校 | 组织记录描述扩张和实施支持，不构成课程效果或因果评价 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 180–182, 188–190)]] | 1985 年成熟期 | 核心课程与组织规模 | [[Theory of Knowledge\|TOK]] 2,227 名文凭考生中 620 人获奖励分、58 人被扣分；EE 1,471 人获 1 分、310 人获 2 分、234 人被扣分；同年颁发第 10,000 份 IB 文凭 | 奖励分分布和累计文凭数只能描述制度规模，不能证明课程效果 |
 
-> [!effect-table]- [[Critical Thinking\|批判性思维]]与学术成就 ([[Argument_Cole_2015_AJE\|Cole et al., 2015]])
+> [!effect-table]- [[Critical Thinking\|批判性思维]]与学术成就
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | 同上 | DP 学生 12 年级 vs 11 年级 | [[Critical Thinking Strategies Scale\|CTSS]] 总分 | n=1,338 | Y12: 4.85 vs Y11: 4.62 | $g=0.216$ (推算) | $p < .001$ | 追踪测量，发现批判性思维随项目进程提升 |
-> | 同上 | DP 毕业生 vs 非 DP 毕业生 | [[California Critical Thinking Disposition Inventory\|CCTDI]] 总分 | — | DP: 300.95 vs 非DP: 293.98 | $g=0.245$ (推算) | — | 观察性对比 |
-> | 同上 | DP 毕业生 vs 非 DP 毕业生 | ATAR 成绩 | — | DP: 94.13 vs 非DP: 89.29 | $g=0.441$ (推算) | $p < .001$ | — |
-> | 同上 | DP 毕业生 vs 非 DP 毕业生 | [[Academic Self-Concept\|学术自我概念]] | — | DP: 6.25 vs 非DP: 5.75 | $g=0.497$ (推算) | $p < .001$ | — |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 254)]] | DP 学生 12 年级与 11 年级 | [[Critical Thinking Strategies Scale\|CTSS]] 总分 | 12 年级 622 人；11 年级 620 人 | 12 年级 4.85（1.05）；11 年级 4.62（1.08） | — | $t(1240)=3.04$；$p<.001$ | 横断调查与自报测量；年级差异不能证明 TOK 导致能力增长 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 256–258)]] | DP 与非 DP 毕业生 | [[California Critical Thinking Disposition Inventory\|加利福尼亚批判性思维倾向量表]]（California Critical Thinking Disposition Inventory，CCTDI）总分 | DP 42 人；非 DP 126 人 | DP 300.95（30.05）；非 DP 293.98（27.75） | — | — | 完成者较少且存在额外登录造成的[[Attrition\|流失]]；便利样本不具代表性 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 257)]] | DP 与非 DP 毕业生 | ATAR | DP 94 人；非 DP 267 人 | DP 94.13（6.79）；非 DP 89.29（12.07） | — | $t(290)=4.76$；$p<.001$ | 组间比较不能分离 TOK 与整个 DP，也不能排除选课效应 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 258)]] | DP 与非 DP 毕业生 | [[Academic Self-Concept\|学术自我概念]] | DP 99 人；非 DP 283 人 | DP 6.25（0.96）；非 DP 5.75（1.02） | — | $t(380)=4.24$；$p<.001$ | 组间比较不能分离 TOK 与整个 DP，也不能排除选课效应 |
 
 > [!ref-table]- 核心组件效益的其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | Inkelas et al. (2012) | IB and AP 学生对比 | 观察对比 | [[Extended Essay\|EE]] 成绩与大学 GPA | 两者具有统计学显著正相关 | 显著 | 说明 EE 具有较好的大学预测效度 (Metli, 2022 综述) |
-> | Wray (2013) / Aulls (2013) | DP 毕业生 | 追踪调查 | 探究能力与自我调节 | 在大学中表现出更高的独立思考与自我调节评分 | — | (Metli, 2022 综述) |
-> | Bergeron (2016) | DP 教师反馈 | 调查 | 跨学科联系意识 | 教师报告 [[Theory of Knowledge\|TOK]] 成功帮学生建立跨学科联系并反思预设 | — | (Metli, 2022 综述) |
-> | Billig & Good (2013) | DP 学生 | 调查 | 公民责任感与服务伦理 | [[Creativity, Action, Service\|CAS]] 提升了自我成熟度与思想开放度 | — | (Metli, 2022 综述) |
+> | [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] | 该文回顾的 [[IB Diploma Programme\|IBDP]] 学生、毕业生和教师研究 | 观察性比较、追踪调查与教师调查 | EE 与大学 [[Academic Achievement\|GPA]]；探究和自我调节；TOK 跨学科联系；CAS 公民责任感 | Inkelas et al. (2012) 报告 EE 成绩与大学 GPA 正相关；Wray (2013) 与 Aulls (2013) 报告大学阶段的独立思考和自我调节表现；Bergeron (2016) 的教师报告强调 TOK 的跨学科联系；Billig 与 Good (2013) 把 CAS 与成熟和[[Open-Mindedness\|思想开放]]联系起来 | 原综述未在条目中保留具体统计 | 二手综述把多项研究并列为核心组件的可能效益；原始样本、统计和因果边界仍需回到各项原研究核验 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Peterson_1987_OpenCourt\|Peterson (1987)]] — 系统记录 IB 的创生与制度化历程：六年试验把课程、考试、行政与资格承认整合为常设国际资格（Ch. 4），沃特福德加入 [[United World Colleges\|UWC]] 推动十一月考试季（Ch. 5），地方课程自主与教师培训使 IB 成为北美公立高中的改革工具（Ch. 6），政府参与、功能分权和核心课程评价又支撑第二个十年的成熟运行（Ch. 7）。
 > - [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]] — 分析了 IB 在[[International Education\|国际教育]]中的扩张，并讨论了其质量保障机制及被引入非西方语境时的文化张力。
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 提供了澳大利亚 IB 毕业生在[[Critical Thinking\|批判性思维]]和学术成就上的大规模量化实证数据。
-> - [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] — 聚焦 [[IB Diploma Programme\|IBDP]] 的核心组件，从机制层面探讨了如何通过“[[Concurrency of Learning\|并发学习]]（Concurrency of Learning）”来实现其标榜的整体学习理念。
+> - [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] — 聚焦 [[IB Diploma Programme|IBDP]] 核心组件，说明[[Concurrency of Learning|并发学习]]如何把学科与 [[Theory of Knowledge|TOK]]、EE、CAS 连接为整体学习经验。

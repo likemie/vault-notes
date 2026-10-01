@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten Men, Forgotten Themes: The Historical-philosophical-cultural and Liberal Humanist Motif in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 80
+argument_related_count: 82
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[National Character]]"
   - "[[Construct]]"
   - "[[Whiggism]]"
+  - "[[Working Hypothesis]]"
   - "[[Technical Rationality]]"
   - "[[Document]]"
   - "[[Falsification]]"
@@ -116,6 +117,7 @@ related_facts:
   - "[[Grammar School]]"
   - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Situative Perspective]]"
   - "[[Human Capital Theory]]"
 status: draft
@@ -129,10 +131,10 @@ updated: 2026-09-07
 ## 研究问题
 
 > [!question]
-> 20 世纪上半叶由[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans\|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich\|罗伯特·乌利希]]（Robert Ulich）等学者奠立的历史-哲学-文化与自由人文主义母题究竟包含哪些深层[[Epistemology\|认识论]]基石与内部[[Paradigm\|范式]]分殊？在 1960 年代战[[Postpositivism\|后实证主义]]、量化主义与结构功能主义的科学化围剿下，该传统何以被贬斥为前科学或神秘主义？比较教育学者应如何超越狭隘[[Positivism\|实证主义]]，重构[[Historical-Comparative Method\|历史比较法]]的现代学科合法性？
+> 20 世纪上半叶由[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans\|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich\|罗伯特·乌利希]]（Robert Ulich）等学者奠立的历史-哲学-文化与自由人文主义母题究竟包含哪些深层[[Epistemology\|认识论]]基石与内部[[Paradigm\|范式]]分殊？在 1960 年代战[[Postpositivism\|后实证主义]]、量化主义与[[Structural Functionalism|结构功能主义]]的科学化围剿下，该传统何以被贬斥为前科学或神秘主义？比较教育学者应如何超越狭隘[[Positivism\|实证主义]]，重构[[Historical-Comparative Method\|历史比较法]]的现代学科合法性？
 
 > [!claim] 核心主张
-> 历史-哲学-文化与自由人文主义母题建基于广义科学观（*Wissenschaft* / *Episteme*），是以国家制度起源演进与全人[[Bildung\|教化]]（*[[Paideia]]*）为内核的深层[[Geisteswissenschaften|人文科学]]传统；尽管其[[National Character\|国民性格]][[Construct\|构念]]与[[Whiggism\|辉格史观]]存在时代局限，但通过引入[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）的非普适探索性假说归纳法，历史比较法展现出严谨的因果解释与理论建构效能，成为抵抗当代[[Technical Rationality\|技术理性]]与实证工具主义、捍卫以人为中心的教育研究的坚实学术防线。
+> 历史-哲学-文化与自由人文主义母题建基于广义科学观（*Wissenschaft* / *Episteme*），是以国家制度起源演进与全人[[Bildung\|教化]]（*[[Paideia]]*）为内核的深层[[Geisteswissenschaften|人文科学]]传统；尽管其[[National Character\|国民性格]][[Construct\|构念]]与[[Whiggism\|辉格史观]]存在时代局限，但通过引入[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）的非普适[[Working Hypothesis|探索性假说]]归纳法，历史比较法展现出严谨的因果解释与理论建构效能，成为抵抗当代[[Technical Rationality\|技术理性]]与实证工具主义、捍卫以人为中心的教育研究的坚实学术防线。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 19 世纪末至 20 世纪中叶英美跨大西洋比较教育思想史文本，重点考据[[Matthew Arnold\|马修·阿诺德]]（Matthew Arnold）、[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]的原著论述，以及 1960 年代[[Harold Noah\|哈罗德·诺亚]]（Harold Noah）、[[Max Eckstein\|马克斯·埃克斯坦]]（Max Eckstein）、[[Brian Holmes\|布赖恩·霍姆斯]]（Brian Holmes）等人的批判[[Document\|文献]]。
@@ -153,7 +155,7 @@ updated: 2026-09-07
 > | **古典教化人本论**<br>Classical Paideia & Anthropocentric Episteme | 承接古希腊与德国新人文主义传统，将比较教育建基于对人（*Anthropos*）的终极关怀与人类伦理政治危机省察。 |
 
 > [!warrant]- 理论如何支撑论证
-> 作者通过思想史考古与概念类型学，将历史学派从杂乱的历史叙述中提炼为具有严密认识论自洽性的知识范式；继而通过认识论还原，揭示[[Positivism\|实证主义]]对历史学派的指责源于对科学概念的狭隘[[Empiricism\|经验主义]]垄断；最后依托比较史学的方法论创新（非普适探索性假说），架起连接历史个殊性与理论概括性的认识论桥梁。
+> 作者通过思想史考古与概念类型学，将历史学派从杂乱的历史叙述中提炼为具有严密认识论自洽性的知识范式；继而通过认识论还原，揭示[[Positivism\|实证主义]]对历史学派的指责源于对科学概念的狭隘[[Empiricism\|经验主义]]垄断；最后依托比较史学的方法论创新（非普适[[Working Hypothesis|探索性假说]]），架起连接历史个殊性与理论概括性的认识论桥梁。
 
 ---
 
@@ -444,7 +446,7 @@ updated: 2026-09-07
 
 #### 1. 战后新兴国家建设与实证社会科学崛起诱发将历史学派贬为前科学的范式围剿
 
-1960 年代，新兴独立国家亟需快速转化为[[Human Capital Theory|人力资本]]与经济增长的技术方案，欧美亦在福利社会重建中追求效率。在此背景下，经验社会科学与数理统计方法声誉日隆，大批接受结构功能主义与量化训练的新一代学者（New Player-comparativists）涌入学科。（pp.52–53）
+1960 年代，新兴独立国家亟需快速转化为[[Human Capital Theory|人力资本]]与经济增长的技术方案，欧美亦在福利社会重建中追求效率。在此背景下，经验社会科学与数理统计方法声誉日隆，大批接受[[Structural Functionalism|结构功能主义]]与量化训练的新一代学者（New Player-comparativists）涌入学科。（pp.52–53）
 
 实证主义者将历史学派贬斥为不具备操作价值的陈旧遗迹，发起了系统性的学科地位清算：
 
@@ -471,7 +473,7 @@ updated: 2026-09-07
 ### 论证步骤五　卡扎米亚斯激活广义科学观并借由非普适探索性假说确立历史比较法因果建构合法性与全人教化底线
 
 > [!claim] 步骤五核心主张
-> 实证主义者对历史方法的排斥建立在对科学概念的狭隘[[Empiricism\|经验主义]]垄断之上；通过恢复德语 *Wissenschaft* 的广义人文科学传统，并引入[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）比较史学中基于非普适探索性假说的归纳法，能够完全确立[[Historical-Comparative Method\|历史比较法]]在理论建构与因果阐释上的现代科学合法性，筑牢以人为中心的终极防线。（pp.56–57）
+> 实证主义者对历史方法的排斥建立在对科学概念的狭隘[[Empiricism\|经验主义]]垄断之上；通过恢复德语 *Wissenschaft* 的广义人文科学传统，并引入[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）比较史学中基于非普适[[Working Hypothesis|探索性假说]]的归纳法，能够完全确立[[Historical-Comparative Method\|历史比较法]]在理论建构与因果阐释上的现代科学合法性，筑牢以人为中心的终极防线。（pp.56–57）
 
 #### 1. 认识论溯源消解英语 Science 的狭隘垄断，为历史学派恢复德语广义科学规范的合法地位
 
@@ -526,7 +528,7 @@ flowchart LR
 > 1. **历史学派母题的七大[[Epistemology\|认识论]]基石** [[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]共同奠立了以广义[[Geisteswissenschaften|人文科学]]、因果因素解释学、历史[[Educational Meliorism\|改良主义]]、民族国家单元、质性优位、自由民主信念与观念唯心比较为支柱的学术[[Paradigm\|范式]]。（pp.39–42）
 > 2. **奠基学者独特的范式分支贡献** 萨德勒立足特别调查署实践开创[[Intangible Spiritual Forces\|校外无形精神力量]]情境论；坎德尔首创国家意志与政体解释[[Variable\|变量]]；汉斯建立自然、宗教与世俗三维阶梯式因素框架并敏锐指出英美与苏联民主在教育公平上的共同缺陷；乌利希贯通西方思想文明四阶段开辟以人为本的[[Bildung\|教化]]史路径。（pp.42–52）
 > 3. **1960年代实证危机的本质是话语垄断** [[Positivism\|实证主义]]者对历史学派前科学、主观神秘与缺乏预测的指责，源于战后英美[[Empiricism\|经验主义]]对科学（Science）概念的狭隘语义垄断，抹杀了德语 *Wissenschaft* 与希腊语 *Episteme* 的深厚人文科学传统。（pp.52–56）
-> 4. **非普适探索性假说确立[[Historical-Comparative Method\|历史比较法]]现代科学合法性** 援引[[Crane Brinton\|克莱恩·布林顿]]的比较史学理论，论证历史研究能够经由归纳提炼中程的非普适探索性假说，在特殊与一般之间建立双向循环检验，从而打破个殊性不可比较的实证主义神话，确立了以人（*Anthropos*）为中心的现代学科防线。（pp.56–57）
+> 4. **非普适[[Working Hypothesis|探索性假说]]确立[[Historical-Comparative Method\|历史比较法]]现代科学合法性** 援引[[Crane Brinton\|克莱恩·布林顿]]的比较史学理论，论证历史研究能够经由归纳提炼中程的非普适探索性假说，在特殊与一般之间建立双向循环检验，从而打破个殊性不可比较的实证主义神话，确立了以人（*Anthropos*）为中心的现代学科防线。（pp.56–57）
 
 > [!timeline]- 标志性学术史与[[Document\|文献]]里程碑
 > - **1817 年** Jullien (1817) 发表 *[[Esquisse d'un ouvrage sur l'éducation comparée]]*，提出实证科学建构构想。（p.37）
@@ -567,7 +569,7 @@ flowchart LR
 >
 > *From these examples it appears that neither the Anglo-Saxon interpretation of democracy as political freedom nor its Soviet interpretation as social equality have resulted in practice in establishing a true equality of educational opportunity for all citizens of their countries. We cannot escape the conclusion that both interpretations of democracy as practiced at present are defective.*
 
-> [!citation-card] 卡扎米亚斯援引[[Crane Brinton\|布林顿]]比较史学重构非普适探索性假说
+> [!citation-card] 卡扎米亚斯援引[[Crane Brinton\|布林顿]]比较史学重构非普适[[Working Hypothesis|探索性假说]]
 > 正如杰出的比较史学家克莱恩·布林顿所表明的，对历史现象进行归类并为了提炼概括而展开比较是完全可行的。尽管此类概括可能具有有限性而非普遍永恒性，但它们反过来可以作为工作[[Hypothesis\|假设]]，在其他类似情境中接受检验以阐释这些情境。换言之，通过对具体的、经验的和特殊事物的考察，具有历史头脑的比较教育学者能够归纳出概括性结论，并进而用其照亮另一个具体的事件或形态。(p. 56)；引自 Kazamias (1963:396)
 >
 > *As Crane Brinton has shown, it is quite possible to categorize or classify historical phenomena and compare them for the purpose of making generalizations. Although such generalizations may be of a limited rather than a universal nature, they may in turn be used as working hypotheses to be tested in other similar situations in order to illuminate them. In other words, from an examination of the specific, the concrete and the particular, the historically-minded comparative educator may induce a generalization and then use it in order to illuminate another particular event or form.*

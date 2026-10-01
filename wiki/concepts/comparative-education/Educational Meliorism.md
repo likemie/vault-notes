@@ -7,7 +7,7 @@ aliases:
 summary: "源自拉丁语更好之意且以改善社会与人类境况为根本导向的探究旨趣，是贯穿19世纪比较与国际教育发端的统治性认识论母题"
 type: concept
 domain: "comparative-education"
-related_count: 70
+related_count: 71
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Intercultural Education]]"
   - "[[Determinism]]"
   - "[[Attrition]]"
+  - "[[Historical Amnesia]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
   - "[[Operationalization]]"
   - "[[Document]]"
@@ -89,8 +90,8 @@ related_facts:
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
-  - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
+  - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Rust_2009_Reflections]]"
 confidence: high
@@ -184,7 +185,7 @@ updated: 2026-10-01
 > - **唯心主义、历史整体主义与[[Intangible Spiritual Forces\|无形精神力量]]的共生互嵌（Idealist & Holistic Meliorism）**
 >   在[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]等古典历史比较学派手中，改良主义与唯心主义哲学（思想观念支配人类行动）、历史整体主义以及不可捉摸的精神力量紧密交织；坚信教育是推动文明进步与道德净化的崇高事业，比较探究的终极抱负在于通过对文化理想与无形力量的人文洞察，促进民族间的精神理解，并在剧烈政治危机中捍卫民主制度的人道主义根基。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–60)]]
 > - **四重论述代际演进与批判解放型改良主义（Four Discourse Generations & Critical-Emancipatory Meliorism）**
->   [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Kazamias, 2009a）以两百年学科史为跨度，系统梳理了改良主义形态的四重历史代际演变：从第一代[[Enlightenment|启蒙运动]]下[[Scholiocentric Approach|以校为中心]]（scholiocentric）的“道德教育改良主义”，到第二代萨德勒与坎德尔的“历史-文化哲学有机改良主义”，再到第三代被战[[Postpositivism|后实证主义]]异化为服务国家规划与技术援助的“行政治理[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）”；最终在 1970–1990 年代第四代批判冲突[[Paradigm|范式]]（Carnoy, Arnove, Paulston）中升华为“批判解放型改良主义（Critical-Emancipatory Meliorism）”——打破国家中立[[Hypothesis|假设]]，将改良主义转化为解构资本主义意识形态再生产、揭露文化帝国主义并赋权被压迫阶级参与社会变革的批判解放工程。（pp. 139–156）
+>   [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）以两百年学科史为跨度，系统梳理了改良主义形态的四重历史代际演变：从第一代[[Enlightenment|启蒙运动]]下[[Scholiocentric Approach|以校为中心]]（scholiocentric）的“道德教育改良主义”，到第二代萨德勒与坎德尔的“历史-文化哲学有机改良主义”，再到第三代被战[[Postpositivism|后实证主义]]异化为服务国家规划与技术援助的“行政治理[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）”；最终在 1970–1990 年代第四代批判冲突[[Paradigm|范式]]（Carnoy, Arnove, Paulston）中升华为“批判解放型改良主义（Critical-Emancipatory Meliorism）”——打破国家中立[[Hypothesis|假设]]，将改良主义转化为解构资本主义意识形态再生产、揭露文化帝国主义并赋权被压迫阶级参与社会变革的批判解放工程。（pp. 139–156）
 
 上述核心要素如何在大西洋两岸分化演进并熔铸为现代比较认识论问题域，可通过以下逻辑图清晰呈现：
 
@@ -302,7 +303,7 @@ updated: 2026-10-01
 > **打破国家中立神话并确立批判解放型改良主义** 卡诺伊、阿诺夫与[[Rolland Paulston|保尔斯顿]]（Rolland Paulston）等第四代批判学者彻底重构了改良主义的性质。卡诺伊借助修正主义新马克思主义国家理论，将学校定义为阶级再生产（对应性）与大众民主化诉求（矛盾性）激烈博弈的矛盾竞技场，破除正统马克思主义的机械单向[[Determinism|决定论]]。在批判冲突范式下，改良主义不再是协助资本主义主权国家缝补社会裂痕的技术修补匠，而是升华为“批判解放型改良主义（Critical-Emancipatory Meliorism）”——致力于在资本主义世界体系与第三世界转型国家中揭露文化帝国主义与教育分层再生产机制，赋权草根被压迫群体，使跨国教育探究直接服务于广泛的社会民主化与激进制度变革。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–155)]]
 
 > [!claim] Kazamias, A. M.
-> **历史维度[[Attrition|流失]]导致改良主义在世纪之交罹患历史健忘症** 卡扎米亚斯总结两百年论述代际演进指出，第四代批判范式在丰富改良主义解放维度的同时，学科内部由于片面放逐历史-哲学传统而付出了沉重代价：世纪之交的期刊计量数据揭示出历史研究份额的断崖式跌落，比较教育学陷入了深重的“历史健忘症（Historical Amnesia）”。卡扎米亚斯警示，如果丢失了扎实的历史发生学考据与古典人道道德底座，改良主义要么退化为缺乏理论自省的技术官僚数字指标拼贴，要么沦为空洞悬浮的激进意识形态标语；唯有重建历史学与社会科学的理性综合，才能在现代语境下守护教育改良主义健康而富有批判力量的学术生命。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 155–156)]]
+> **历史维度[[Attrition|流失]]导致改良主义在世纪之交罹患[[Historical Amnesia|历史健忘症]]** 卡扎米亚斯总结两百年论述代际演进指出，第四代批判范式在丰富改良主义解放维度的同时，学科内部由于片面放逐历史-哲学传统而付出了沉重代价：世纪之交的期刊计量数据揭示出历史研究份额的断崖式跌落，比较教育学陷入了深重的“历史健忘症（Historical Amnesia）”。卡扎米亚斯警示，如果丢失了扎实的历史发生学考据与古典人道道德底座，改良主义要么退化为缺乏理论自省的技术官僚数字指标拼贴，要么沦为空洞悬浮的激进意识形态标语；唯有重建历史学与社会科学的理性综合，才能在现代语境下守护教育改良主义健康而富有批判力量的学术生命。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 155–156)]]
 
 ---
 
@@ -332,7 +333,7 @@ updated: 2026-10-01
 > - **1960年代 — 行为[[Positivism\|实证主义]]批判与“技术改良主义”[[Social Science as Legitimation Alibi|合法化借口]]阶段** 贝雷迪、诺亚、埃克斯坦与霍姆斯等学者指责历史学派充斥主观愿望与道德说教；但实证[[Scientific Paradigm|科学范式]]并未放弃改良，而是将改良主义重构为服务国家五年计划、[[Human Capital Theory\|人力资本]]预测与外援工程的“技术改良主义（Technocratic Meliorism）”，沦为技术官僚推卸决策责任的行政治理合法化借口。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 60–64)]]；[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 144–151)]]
 > - **1970s–1990s — 批判冲突范式与“批判解放型改良主义”兴起** 新马克思主义、[[World-Systems Theory|世界体系分析]]与依赖理论学者（卡诺伊、[[Robert Arnove|阿诺夫]]、[[Rolland Paulston|保尔斯顿]]）打破国家中立假象，揭示学校作为阶级矛盾博弈竞技场，将改良主义升华为解构资本主义再生产不平等与赋权第三世界草根社会变革的“批判解放型改良主义”。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 152–155)]]
 > - **1970s–1990s — 欧洲政策咨询光谱中的适度改良功能** 面对两德分裂与冷战现实，欧洲主流比较教育学者（如米特、安维勒）在[[Niklas Luhmann|卢曼]]激进疏离与罗宾逊激进干预之间确立温和立场，明确接受比较教育的“适度改良功能（melioristic function）”，以[[Navigation Metaphor in Comparative Education|航海隐喻]]提供方案预测而非操纵决策。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 95–96)]]
-> - **2000年代至今 — 历史健忘症反思与跨文化一线微观改良合流** 卡扎米亚斯诊断出学科在多元范式扩张表象下的“历史健忘症”，呼吁重构历史学与社会科学的综合纲领以守护改良主义的人文批判灵魂；同时，[[Intercultural Education|跨文化教育]]的崛起将改良主义引向教科书、课程与多元文化族群整合的一线教学论微观实践。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 155–156)]]; [[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 97–98)]]
+> - **2000年代至今 — [[Historical Amnesia|历史健忘症]]反思与跨文化一线微观改良合流** 卡扎米亚斯诊断出学科在多元范式扩张表象下的“历史健忘症”，呼吁重构历史学与社会科学的综合纲领以守护改良主义的人文批判灵魂；同时，[[Intercultural Education|跨文化教育]]的崛起将改良主义引向教科书、课程与多元文化族群整合的一线教学论微观实践。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 155–156)]]; [[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 97–98)]]
 
 ---
 
@@ -415,4 +416,4 @@ updated: 2026-10-01
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 揭示古典历史比较学派将改良主义与唯心主义、[[Intangible Spiritual Forces\|无形精神力量]]相绑定的思想前提，剖析战后实证[[Scientific Paradigm\|科学范式]]对历史道德说教的清算，以及自身向服务国家五年计划与技术官僚效能控制的技术改良主义（Technocratic Meliorism）的深层蜕变。
 > - [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，系统厘清了比较教育政策咨询立场光谱中坚守“适度改良功能”（melioristic function）的[[Navigation Metaphor in Comparative Education|航海隐喻]]定位，并剖析了世纪之交[[Intercultural Education|跨文化教育]]兴起所带来的一线教学与多元文化整合改良进路。
 > - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 梳理比较教育学科方法论争鸣，将卡扎米亚斯（Kazamias, 1961）提出的“改良主义、意识形态抑或严格[[Value Neutrality|价值中立]]”界定为贯穿学科发展的三大核心取向之一。
-> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 卡扎米亚斯系统阐明改良主义从启蒙道德改良、历史哲学、战后行政治理“[[Social Science as Legitimation Alibi|合法化借口]]”到批判冲突[[Paradigm|范式]]下“批判解放型改良主义”的四重代际演进，并以[[Document|文献]]计量数据诊断历史维度[[Attrition|流失]]导致的学科历史健忘症危机（pp. 139–156）。
+> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 卡扎米亚斯系统阐明改良主义从启蒙道德改良、历史哲学、战后行政治理“[[Social Science as Legitimation Alibi|合法化借口]]”到批判冲突[[Paradigm|范式]]下“批判解放型改良主义”的四重代际演进，并以[[Document|文献]]计量数据诊断历史维度[[Attrition|流失]]导致的[[Historical Amnesia|学科历史健忘症]]危机（pp. 139–156）。

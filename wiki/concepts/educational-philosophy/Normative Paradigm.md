@@ -4,7 +4,7 @@ aliases: [规范范式, normative model, 规则统治范式]
 summary: "道格拉斯提出的方法论上位范式，统摄实证主义与结构功能主义取向，主张人类行为本质上受规则统治，应采纳自然科学方法探究外在因果规律，追求构建普适的宏大理性大厦。"
 type: concept
 domain: "educational-philosophy"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -37,6 +37,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Complexity Theory]]"
   - "[[Phenomenology]]"
 related_methods:
@@ -53,7 +54,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-17
+updated: 2026-10-01
 ---
 
 # Normative Paradigm
@@ -63,7 +64,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> **规范[[Paradigm\|范式]]（Normative Paradigm）**，亦称**规范模型（normative model）**，是由社会学家[[Jack Douglas\|道格拉斯]]（Jack Douglas, 1973）提出并由 Cohen et al.（2011, Ch. 1, pp. 17–18）在教育研究方法论中系统阐发的上位范式概念。该范式统摄了[[Positivism\|实证主义]]、行为主义与结构功能主义的核心取向，建立在两大基本导向假定之上：其一，人类行为在本质上受规则所统治（human behaviour is essentially rule-governed）；其二，人类行为应当采纳自然科学的方法进行[[Survey Research\|调查研究]]（investigated by the methods of natural science）。规范范式将社会视为独立于行动者的客观外在集合体，以“行为”（过去前因驱动的反应）为核心研究对象，致力于通过量化与经验实证程序构建普适的宏大理性大厦（rational edifice）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 17–18)]]
+> **规范[[Paradigm\|范式]]（Normative Paradigm）**，亦称**规范模型（normative model）**，是由社会学家[[Jack Douglas\|道格拉斯]]（Jack Douglas, 1973）提出并由 Cohen et al.（2011, Ch. 1, pp. 17–18）在教育研究方法论中系统阐发的上位范式概念。该范式统摄了[[Positivism\|实证主义]]、行为主义与[[Structural Functionalism|结构功能主义]]的核心取向，建立在两大基本导向假定之上：其一，人类行为在本质上受规则所统治（human behaviour is essentially rule-governed）；其二，人类行为应当采纳自然科学的方法进行[[Survey Research\|调查研究]]（investigated by the methods of natural science）。规范范式将社会视为独立于行动者的客观外在集合体，以“行为”（过去前因驱动的反应）为核心研究对象，致力于通过量化与经验实证程序构建普适的宏大理性大厦（rational edifice）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 17–18)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将社会与教育现象视为受外在不变规则支配的客体系统，通过[[Variable\|变量]]测量、受控设计与统计检验探究规律。
@@ -170,7 +171,7 @@ updated: 2026-09-17
 
 > [!dev-timeline] 概念演变
 > - **19 世纪中叶 — [[Positivism\|实证主义]]社会学奠基** [[Auguste Comte\|奥古斯特·孔德]]（[[Auguste Comte]]）提出社会学作为“社会物理学”的构想，确立了运用自然科学经验实证方法探寻社会不变法则的规范传统。
-> - **1930s–1950s — 结构功能主义与行为主义合流** 塔尔科特·帕森斯（Talcott Parsons）建立结构功能主义[[Grand Theory\|宏大理论]]体系，约翰·华生与斯金纳确立行为主义刺激-反应模型，规范传统在社会学与教育心理学中确立统治地位。
+> - **1930s–1950s — [[Structural Functionalism|结构功能主义]]与行为主义合流** 塔尔科特·帕森斯（Talcott Parsons）建立结构功能主义[[Grand Theory\|宏大理论]]体系，约翰·华生与斯金纳确立行为主义刺激-反应模型，规范传统在社会学与教育心理学中确立统治地位。
 > - **1973–1975 — 规范[[Paradigm\|范式]]概念提炼与学术交锋** [[Jack Douglas\|杰克·道格拉斯]]（Jack Douglas, 1973）在《社会学方法规则》中正式提炼“规范范式”与“[[Interpretive Paradigm\|诠释范式]]”的二元对立；[[Thomas Barr Greenfield\|托马斯·巴尔·格林菲尔德]]（[[Thomas Barr Greenfield]], 1975）在[[International Education\|国际教育]]行政大会上发起对实证规范组织观的系统清算。
 > - **2010s 至今 — 范式多元共生与后实证重构** [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] 系统将规范范式与诠释范式作为教育研究哲学的双支柱坐标，并在[[Mixed Methods Research\|混合方法]]与[[Complexity Theory\|复杂性理论]]的交融中深化对其方法论适用边界的审视。
 

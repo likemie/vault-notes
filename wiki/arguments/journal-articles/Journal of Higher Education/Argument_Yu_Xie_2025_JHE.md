@@ -74,6 +74,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Correlational Research]]"
 related_persons:
+  - "[[Philip Altbach]]"
   - "[[Jürgen Habermas]]"
 related_facts:
   - "[[Bologna Process]]"
@@ -93,9 +94,9 @@ title: "Argument_Yu_Xie_2025_JHE"
 argument_key: "Argument_Yu_Xie_2025_JHE"
 argument_display_title: "空间、权力与高等教育：地缘政治视角下的高等教育研究"
 argument_kind: "journal-article"
-argument_related_count: 59
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 60
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "高等教育研究"
 ---
@@ -213,7 +214,7 @@ journal: "高等教育研究"
 >   冷战结束后，苏联解体，二元阵营的意识形态对立逐渐让位于全球化。高等教育的外交和安全工具属性被中性色彩的发展主义和现代化话语所掩盖。在相当长一段时期，人们被乐观的国际主义和全球化话语所鼓舞，相信地球是平的，发展、区域一体化、国际化逐渐替代了意识形态话语。国际援助、学者流动以及政策借鉴广受关注（Altbach, 1971; Arnove, 1980）。当时普遍认为历史已然终结（Fukuyama, 1992），高等教育终将被纳入一个统一的国际化体系中，高等教育国际化甚至一度被视为高校的第四职能（pp.4–5）。
 >
 >   然而体系本身可能存在着深刻的不平等：
->   - 阿特巴赫（P. Altbach）借用中心-边缘理论描述了全球高等教育秩序中的结构性不平等（Altbach, 2004; Altbach & Knight, 2007）
+>   - [[Philip Altbach|阿特巴赫]]（P. Altbach）借用中心-边缘理论描述了全球高等教育秩序中的结构性不平等（Altbach, 2004; Altbach & Knight, 2007）
 >   - 这些认识虽以世界体系论、[[Dependency Theory\|依附理论]]等为理论资源（Altbach, 1998; Dale, 2005），但理论化的方向一般指向学术依附、学术新殖民主义或高等教育全球不平等
 > - 极少有研究追溯其与地缘政治理论的深层和系统关联（Mignolo, 2000; Slater, 2004），从而把地缘政治问题发展化、历史化、技术化，在无意中弱化了这些现象的权力博弈意涵
 >

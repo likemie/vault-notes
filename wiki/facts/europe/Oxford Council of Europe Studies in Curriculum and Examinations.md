@@ -94,7 +94,7 @@ updated: 2026-08-22
 > - **组织背书** 牛津教育系的研究与人员投入增强了基金会、大学和试验学校对项目连续性的信心。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 21–31)]]
 
 > [!boundary]- 项目作用的边界
-> OCESCE 提供比较资料、学科专家和考试设计资源，课程路线由 [[International Schools Examination Syndicate\|ISES]]／IBO 团队结合学校问题、各国改革方案、基金会条件及大学承认风险共同决定。比较项目的作用集中在知识与人员支持，课程结构和资格政策还取决于更广泛的执行联盟。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 21–31)]]
+> OCESCE 提供比较资料、学科专家和考试设计资源，课程路线由 [[International Schools Examination Syndicate\|ISES]]／[[International Baccalaureate|IBO]] 团队结合学校问题、各国改革方案、基金会条件及大学承认风险共同决定。比较项目的作用集中在知识与人员支持，课程结构和资格政策还取决于更广泛的执行联盟。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 21–31)]]
 
 ---
 

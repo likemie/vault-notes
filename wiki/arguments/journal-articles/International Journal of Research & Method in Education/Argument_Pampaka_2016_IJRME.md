@@ -11,9 +11,9 @@ title: "Argument_Pampaka_2016_IJRME"
 argument_key: "Argument_Pampaka_2016_IJRME"
 argument_display_title: "Is the educational 'what works' agenda working? Critical methodological developments"
 argument_kind: "journal-article"
-argument_related_count: 9
+argument_related_count: 10
 argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_stars: ""
 argument_related_color: "#dbeafe"
 journal: International Journal of Research & Method in Education
 citation: "Pampaka, M., Williams, J., & Homer, M. (2016). Is the educational 'what works' agenda working? Critical methodological developments. International Journal of Research & Method in Education, 39(3), 231-236."
@@ -36,6 +36,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
+  - "[[Department of Energy]]"
 related_arguments: []
 sources:
   - "[[sources/Pampaka_2016_IJRME|Pampaka_2016_IJRME]]"
@@ -68,7 +69,7 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **前提** 尽管 [[Education Endowment Foundation\|EEF]]（£125M）和美国 DOE 等大量资助 [[Randomised Controlled Trials\|RCT]]，"至今很少有显著正向的教育实践在大规模上出现"(p.231)
+> 1. **前提** 尽管 [[Education Endowment Foundation\|EEF]]（£125M）和美国 [[Department of Energy|DOE]] 等大量资助 [[Randomised Controlled Trials\|RCT]]，"至今很少有显著正向的教育实践在大规模上出现"(p.231)
 > 2. **方法论进展有限** Spybrook et al.展示 CRT 精度十年间有所提高；Schweig & Pane 提供部分嵌套设计中 [[Initial Teacher Training\|ITT]] 分析的建模方案——但这些技术改进未必能解决根本问题(p.233)
 > 3. **整合路径** Hanley et al.反对将 RCT 称为"金标准"因其暗示其他方法低劣，主张将[[Implementation and Process Evaluation\|过程评估]]整合进 RCT 以了解"谁在什么情境下通过什么方式受益"；Peterson 提出"什么有效 2.0"整合实验科学与[[Improvement Science\|改进科学]](p.233-234)
 > 4. **知识传播问题** Anwaruddin 通过教师参与维基讨论揭示"[[Knowledge Transfer\|知识转移]]模型"的问题，呼吁将教师视角纳入研究；Green et al.提出"超越综合影响链"框架将利益相关者置于[[Systematic Review\|系统综述]]核心(p.234)

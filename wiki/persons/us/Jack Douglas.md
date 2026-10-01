@@ -9,7 +9,7 @@ summary: "美国社会学家，加州大学圣地亚哥分校荣休教授，存�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Paradigm Wars]]"
   - "[[Voluntarism]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Phenomenology]]"
   - "[[Symbolic Interactionism]]"
 related_methods:
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-18
+updated: 2026-10-01
 ---
 
 # Jack Douglas
@@ -68,7 +69,7 @@ updated: 2026-09-18
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国社会学家，加利福尼亚大学圣迭戈分校（UCSD）社会学系荣休教授，日常生活社会学（Sociology of Everyday Life）与存在主义社会学（Existential Sociology）的创立者与领军学者。
-> - **核心角色** 在社会[[Scientific Method\|科学方法]]论中提出划时代的“[[Normative Paradigm\|规范范式]]”（Normative [[Paradigm]]）与“[[Interpretive Paradigm\|诠释范式]]”（Interpretive Paradigm）两分模型，首次系统揭示[[Positivism\|实证主义]]与结构功能主义共享的“先验规则统治”[[Hypothesis\|假设]]，为当代教育与社会探究的方法论范式划界奠定基石。
+> - **核心角色** 在社会[[Scientific Method\|科学方法]]论中提出划时代的“[[Normative Paradigm\|规范范式]]”（Normative [[Paradigm]]）与“[[Interpretive Paradigm\|诠释范式]]”（Interpretive Paradigm）两分模型，首次系统揭示[[Positivism\|实证主义]]与[[Structural Functionalism|结构功能主义]]共享的“先验规则统治”[[Hypothesis\|假设]]，为当代教育与社会探究的方法论范式划界奠定基石。
 > - **代表贡献** 提出规范范式与诠释范式的宏观切分架构（Douglas, 1973）；开创存在主义社会学与官方统计数据建构论批判（《自杀的社会意义》*The Social Meanings of Suicide*, 1967；《理解日常生活》*Understanding Everyday Life*, 1970）；深入剖析行动与规则的复杂[[Reflexivity\|反身性]]关系。
 
 ---
@@ -102,7 +103,7 @@ updated: 2026-09-18
 > 社会学探究历史上存在两大不可[[Commensuration\|通约]]的基础[[Paradigm\|范式]]：[[Normative Paradigm\|规范范式]]（Normative Paradigm）假定人类行为完全由外在既定的、非人化的客观社会规则所支配，追求如同物理力学般的宏大理性大厦与普适规律；[[Interpretive Paradigm\|诠释范式]]（Interpretive Paradigm）则断定社会实在由行动者在具体流动情境中动态建构，人类行动源自自主赋予的未来意图与情境协商，规则本身仅仅是行动者事后用以解释合理性的[[Indexicality\|索引性]]修辞。研究者必须放弃将社会视为机械[[Determinism\|决定论]]客体的幻想，转向对生动微观日常生活的[[Rich and Thick Description\|深描]]。
 
 > [!citation-card] 道格拉斯论规范范式与诠释范式的本质分野
-> 道格拉斯指出，规范范式假定人类行为是受规则统治的，并且在很大程度上能够被规则所预测；[[Positivism\|实证主义]]、行为主义与结构功能主义均在此范式下构建宏大的普适因果大厦。相反，诠释范式认为人类行动不仅不可预测，而且是由行动者在具体情境中[[Reflexivity\|反思性]]协商、意图驱动与动态赋予意义的产物。在诠释进路中，理论不是先验推导的模型，而是贴近日常生活的[[Grounded Theory\|扎根理论]]与多面图像。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 17–18)]]
+> 道格拉斯指出，规范范式假定人类行为是受规则统治的，并且在很大程度上能够被规则所预测；[[Positivism\|实证主义]]、行为主义与[[Structural Functionalism|结构功能主义]]均在此范式下构建宏大的普适因果大厦。相反，诠释范式认为人类行动不仅不可预测，而且是由行动者在具体情境中[[Reflexivity\|反思性]]协商、意图驱动与动态赋予意义的产物。在诠释进路中，理论不是先验推导的模型，而是贴近日常生活的[[Grounded Theory\|扎根理论]]与多面图像。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 17–18)]]
 >
 > *The normative paradigm rests on two central assumptions: that human behaviour is essentially rule-governed, and that it should be investigated to discover these rules... By contrast, the interpretive paradigm views the social world as constructed through human interaction, where action is meaningful, future-oriented, and emergent from situational negotiation rather than determined by past causes. (Douglas, 1973)*
 

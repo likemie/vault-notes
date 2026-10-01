@@ -8,7 +8,7 @@ summary: "19世纪法国实证主义哲学家与社会学奠基人，提出知�
 type: person
 nationality: "france"
 person_region: "france"
-person_related_count: 36
+person_related_count: 37
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Falsification]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Critical Realism]]"
   - "[[Critical Theory]]"
 related_methods:
@@ -171,7 +172,7 @@ updated: 2026-10-01
 孔德的思想构成 19 世纪中叶以来全球社会科学与教育现代化进程中最为坚固的[[Epistemology|认识论]]底座之一。
 
 > [!influence-path] 影响路径
-> - **理论路径** 孕育了以爱弥尔·涂尔干（Émile Durkheim）为代表的法国社会学学派，确立了“将社会事实作为物来考察”的[[Objectivism\|客观主义]]传统；深刻滋养了 20 世纪结构功能主义、逻辑[[Positivism\|实证主义]]与行为主义的因果预测传统。
+> - **理论路径** 孕育了以爱弥尔·涂尔干（Émile Durkheim）为代表的法国社会学学派，确立了“将社会事实作为物来考察”的[[Objectivism\|客观主义]]传统；深刻滋养了 20 世纪[[Structural Functionalism|结构功能主义]]、逻辑[[Positivism\|实证主义]]与行为主义的因果预测传统。
 > - **方法路径** 首次系统确立了观察、实验、比较和历史演进的社会探究方法论四分法，将自然科学的标准程序引入人类现象探究，为后世的大规模[[Questionnaire\|问卷调查]]（[[Survey Research\|调查研究]]）与[[Quantitative Research\|量化研究]][[Paradigm\|范式]]铺平了道路。
 > - **现代性教育科学化路径** 启蒙现代性时期的教育改革者深受孔德实证精神感召。比较教育学奠基人[[Marc-Antoine Jullien\|马克-安托万·朱利安]]与孔德遥相呼应，将教育确立为“整个社会大厦的真正基石”，主张以严谨的分析式问题表与比较观察表诊断各国教育缺陷，确立了通过客观经验调查医治社会道德危机、实现全人[[Bildung\|教化]]与社会改良（[[Educational Meliorism]]）的古典现代主义范式。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 13–14]]
 > - **跨国与跨领域传播** 在英国，其思想受到古典自由主义思想家约翰·斯图尔特·密尔（J. S. Mill）的高度推崇与批判性转化；在拉丁美洲，其实证哲学成为 19 世纪末巴西、墨西哥等国世俗精英推翻封建神权与建设现代化国家的官方指导思想，巴西国旗上的名言“秩序与进步”（Ordem e Progresso）即直接镌刻着孔德的实证格言。

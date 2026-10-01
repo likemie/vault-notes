@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 19
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -43,6 +43,7 @@ related_facts:
   - "[[National Research Council]]"
   - "[[Education Sciences Reform Act 2002]]"
   - "[[National Science Foundation]]"
+  - "[[National Institutes of Health]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[House Committee on Education and the Workforce]]"
 related_arguments:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-02
 ---
 
 # Office of Educational Research and Improvement
@@ -123,7 +124,7 @@ updated: 2026-09-28
 
 > [!tension] 政治行政干预与学术公信力赤字
 > 在 1990 年代至 2000 年代初的国会听证与学界反思中，OERI 屡遭立法界与主流科学界的激烈批评：
-> 1. **行政随意性与党派意识形态偏向** 国会资深幕僚与学者普遍指出，OERI 的项目资助往往被教育部行政官僚把持，缺乏如同国家科学基金会（[[National Science Foundation|NSF]]）或国立卫生研究院（NIH）那般严密、公正且由专业共同体主导的同行盲审机制；
+> 1. **行政随意性与党派意识形态偏向** 国会资深幕僚与学者普遍指出，OERI 的项目资助往往被教育部行政官僚把持，缺乏如同国家科学基金会（[[National Science Foundation|NSF]]）或国立卫生研究院（[[National Institutes of Health|NIH]]）那般严密、公正且由专业共同体主导的同行盲审机制；
 > 2. **研究碎片化与累积性因果证据匮乏** 资助的研究多局限于描述性报告或短期政策迎合，无法回答“何种干预对何种学生在何种条件下真正有效”的因果核心问题，致使联邦教育投资长期被质疑为“纳税人资金的浪费”；
 > 3. **改革诉求与向 [[Institute of Education Sciences|IES]] 的制度跨越** 正是由于对 OERI 行政体制的普遍失望，才促使国会议员迈克尔·卡斯尔与两党立法者下定决心通过《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA 2002）彻底取缔 OERI，改组设立局长享有 6 年固定法定任期、脱离短期政党政治干预的教育科学研究院（IES）。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–34)]]; [[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 206)]]
 

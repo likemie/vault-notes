@@ -7,7 +7,7 @@ aliases:
 summary: "研究设计与认识论的核心概念。在宏观认识论与方法论层级上，指统领经验探究、界定问题性质与指导知识生成的解释透镜与范式立场；在微观研究方案与论文写作中，指专门阐述理论基础的独立章节或逻辑框架，通过彩虹桥梁机制连接变量与假设，为因果解释提供演绎依据。"
 type: concept
 domain: "research-methodology"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -43,6 +43,7 @@ related_concepts:
 related_theories:
   - "[[Critical Theory]]"
   - "[[Postmodernism]]"
+  - "[[Structural Functionalism]]"
   - "[[World-Systems Theory]]"
   - "[[Social Learning Theory]]"
   - "[[Pluralism]]"
@@ -177,7 +178,7 @@ updated: 2026-10-01
 > 本类命题聚焦学科发展史上理论视角的分布格局，探讨范式竞争与[[Knowledge Production|知识生产]]的关系。
 
 > [!claim] Rust, V. D.
-> **理论视角的健康多元态势** 学科的[[Conatus|生机]]不取决于是否确立唯一的正统理论视角，而取决于多元视角的并存与互补。半个世纪的比较教育学文献计量表明，该领域已彻底打破了20世纪60年代[[Positivism|实证主义]]与结构功能主义的垄断，[[Emergence|涌现]]出涵盖[[Critical Theory|批判理论]]、马克思主义、女性主义、[[Postmodernism|后现代主义]]、新制度主义等至少26种不同的理论视角。未标明明确理论视角的“盲目经验研究”比例持续下降，多元理论视角指导下的实证与阐释研究推动了学科的健康繁荣。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122–123)]]
+> **理论视角的健康多元态势** 学科的[[Conatus|生机]]不取决于是否确立唯一的正统理论视角，而取决于多元视角的并存与互补。半个世纪的比较教育学文献计量表明，该领域已彻底打破了20世纪60年代[[Positivism|实证主义]]与[[Structural Functionalism|结构功能主义]]的垄断，[[Emergence|涌现]]出涵盖[[Critical Theory|批判理论]]、马克思主义、女性主义、[[Postmodernism|后现代主义]]、新制度主义等至少26种不同的理论视角。未标明明确理论视角的“盲目经验研究”比例持续下降，多元理论视角指导下的实证与阐释研究推动了学科的健康繁荣。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122–123)]]
 
 ---
 
@@ -195,7 +196,7 @@ updated: 2026-10-01
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1950s–1960s — 隐性预设与结构功能主义单一正统垄断** 战后初期比较教育研究大量缺乏显性理论视角（拉斯特计量显示高达 32.7% 的研究未阐明[[Theoretical Standpoint|理论立场]]）；随后诺亚与埃克斯坦推动实证[[Scientism|科学主义]]，结构功能主义成为唯一的统治性显性[[Paradigm|范式]]。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]
+> - **1950s–1960s — 隐性预设与[[Structural Functionalism|结构功能主义]]单一正统垄断** 战后初期比较教育研究大量缺乏显性理论视角（拉斯特计量显示高达 32.7% 的研究未阐明[[Theoretical Standpoint|理论立场]]）；随后诺亚与埃克斯坦推动实证[[Scientism|科学主义]]，结构功能主义成为唯一的统治性显性[[Paradigm|范式]]。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]
 > - **1970s–1980s — 范式大论争与写作规范化** 冲突理论、新马克思主义与[[World-Systems Theory|世界体系理论]]正面挑战正统功能主义；同时在美国教育研究协会（[[American Educational Research Association|AERA]]）等专业共同体推动下，“理论视角”成为[[Research Proposal|课题申报]]与量化论文的必填规范章节。
 > - **1986 — 实证[[Research Writing Script|写作脚本]]经典范例确立** 克鲁奇菲尔德（Crutchfield, 1986）在学术生产力研究中完整示范了将[[Social Learning Theory|社会学习理论]]作为“理论视角”的五步阐释结构，以[[Locus of Control|控制点]]等[[Independent Variable|自变量]]演绎预测学术产出，成为方法论经典教科书范本。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 60–62)]]
 > - **1990s 至今 — 范式图谱绘制与“[[Pluralism|健康多元主义]]”确立** [[Rolland Paulston|保尔斯顿]]（Paulston, 1997, 2000）倡导社会地图法绘制理论图谱；拉斯特等学者（Rust et al., 1999, 2009）系统归纳出 26 种并存理论视角，确立了以多元范式互补、质性量化互鉴为特征的当代[[Epistemology|认识论]]共识。

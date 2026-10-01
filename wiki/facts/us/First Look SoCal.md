@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 9
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -32,12 +32,14 @@ related_persons: []
 related_facts:
   - "[[Alliance for Southern California Innovation]]"
   - "[[National Science Foundation]]"
+  - "[[National Institutes of Health]]"
+  - "[[Department of Energy]]"
   - "[[SBIR and STTR Programs]]"
 related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-10-02
 ---
 
 # First Look SoCal
@@ -53,7 +55,7 @@ updated: 2026-05-29
 > 每年从南加州地区十余所顶尖研究机构和大学中甄选 24 家衍生企业（[[Governance by Spin\|Spin]]-outs），涵盖前沿科技（frontier technology）和生命科学（life science）两大领域。参与机构包括：加州大学洛杉矶分校（University of California at Los Angeles, UCLA）、南加州大学（University of Southern California, USC）、加州理工学院（California Institute of Technology, Caltech）、加州大学圣地亚哥分校（University of California at San Diego, UCSD）等（p.144）。
 
 > 甄选出的 24 家衍生企业向由投资者和企业领袖组成的现场观众进行路演（pitch）。所有入选企业都在寻找首轮私人投资（first round of private investment），并且——这一点尤为关键——几乎全都满足以下条件（pp.144-145）：
-> - 已获得某种形式的[[Non-dilutive Funding\|非稀释性资助]]（Non-dilutive Funding），包括大学内部的"产品验证"拨款（[[Proof of Concept Programs\|proof of product]] grants），或来自 [[National Science Foundation\|NSF]]、NIH、DOE、DOD 以及 [[SBIR and STTR Programs\|SBIR]]/STTR 计划的政府资助
+> - 已获得某种形式的[[Non-dilutive Funding\|非稀释性资助]]（Non-dilutive Funding），包括大学内部的"产品验证"拨款（[[Proof of Concept Programs\|proof of product]] grants），或来自 [[National Science Foundation\|NSF]]、[[National Institutes of Health|NIH]]、[[Department of Energy|DOE]]、DOD 以及 [[SBIR and STTR Programs\|SBIR]]/STTR 计划的政府资助
 > - 拥有经[[Technology Transfer\|大学技术转移]]办公室（[[Technology Transfer Office]], TTO）尽职调查后保护的知识产权（IP）——大学已投入专利申请和法律保护费用，说明 IP 质量经过了内部审核
 
 ## 揭示的融资困境

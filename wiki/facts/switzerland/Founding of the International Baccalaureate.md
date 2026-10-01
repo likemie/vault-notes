@@ -137,7 +137,7 @@ updated: 2026-09-23
 > [!finding-cards] 影响与后果
 > - **课程结构** 六学科组在广泛通识与学科专门化之间建立折中，保留学生选择并强制跨学科分布。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 28–29)]]
 > - **理念结构** 英法双语、全体学生修读[[Theory of Knowledge\|知识论]]、整体文凭与单科证书，把语言平衡、知识反思、课程整体性和项目[[Open-Mindedness|开放性]]写入制度设计。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 29–31)]]
-> - **组织结构** 教师自发网络经 [[International Schools Examination Syndicate\|ISES]]／IBO 转化为能够筹资、开发课程、组织考试和协调国际承认的独立机构。
+> - **组织结构** 教师自发网络经 [[International Schools Examination Syndicate\|ISES]]／[[International Baccalaureate|IBO]] 转化为能够筹资、开发课程、组织考试和协调国际承认的独立机构。
 > - **资格实践** 1970 年首批 29 名学生以正式 IB 考试进入大学申请，证明国际共同资格能够超越讨论阶段进入实际使用。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 31)]]
 
 ---

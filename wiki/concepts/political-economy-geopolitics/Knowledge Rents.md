@@ -7,7 +7,7 @@ aliases:
 summary: "Drahos & Braithwaite (2002) 提出的概念，描述精英大学通过控制知识产权的法律框架和学术评估的价值标准，从公共生产的知识中持续提取超额经济回报的租金机制"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,12 +34,13 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[National Institutes of Health]]"
 related_arguments:
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-10-02
 ---
 
 # Knowledge Rents
@@ -71,7 +72,7 @@ updated: 2026-06-01
 通过专利和版权将公共资助生产的知识转化为私人可占有的资产。大学对联邦资助的研究成果申请专利（得益于 [[Bayh-Dole Act of 1980]]）→ 企业向大学支付专利许可费 → 大学和企业分享商业化收益。在这一链条中，知识的生产由公共资金支付（纳税人的钱 → 研究拨款），但知识的商业化收益由私人获取。专利制度创造了人为的稀缺，原本任何人都可以使用的研究成果，现在需要向专利权人支付费用。
 
 > [!example] 一篇论文的租金提取链
-> 美国 NIH 拨款 $2M 资助一位大学教授研究一种新的基因编辑技术。教授发表论文，大学就相关技术申请专利。一家生物技术公司支付 $5M 获得独家许可，开发出一种年销售额 $500M 的治疗方案。药品价格包含了专利溢价，患者支付的费用远超生产和研发成本。在这一链条中，纳税人的钱（NIH 拨款）→ 大学的专利所有权（Bayh-Dole 赋予）→ 企业的垄断定价（专利保护）→ 患者的超额支出。知识的生产是公共的，知识的利润是私有的。专利制度正是这条价值转移链的法律基础设施。
+> 美国 [[National Institutes of Health|NIH]] 拨款 $2M 资助一位大学教授研究一种新的基因编辑技术。教授发表论文，大学就相关技术申请专利。一家生物技术公司支付 $5M 获得独家许可，开发出一种年销售额 $500M 的治疗方案。药品价格包含了专利溢价，患者支付的费用远超生产和研发成本。在这一链条中，纳税人的钱（NIH 拨款）→ 大学的专利所有权（Bayh-Dole 赋予）→ 企业的垄断定价（专利保护）→ 患者的超额支出。知识的生产是公共的，知识的利润是私有的。专利制度正是这条价值转移链的法律基础设施。
 
 ### 评估体系租金
 

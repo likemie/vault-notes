@@ -8,7 +8,7 @@ aliases:
 summary: "指 1970 年代中叶以降，由于战后实证主义单一全包容科学范式在治理现实、物理学量子转向与后现代思潮中全面破裂，比较教育学演进为多个理论学派、研究取向与多元真理体制并存竞争的复数化学科格局。"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -47,6 +47,7 @@ related_persons:
   - "[[Robert Cowen]]"
   - "[[Nicholas Hans]]"
   - "[[Torsten Husén]]"
+  - "[[Philip Altbach]]"
   - "[[Edmund King]]"
 related_facts:
   - "[[IEA]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-09-24
+updated: 2026-10-01
 ---
 
 # Comparative Educations
@@ -150,7 +151,7 @@ updated: 2026-09-24
 > 探讨单一正统瓦解后学科内部如何重塑学术版图，以及实证范式与批判范式在不同空间[[Champ\|场域]]中的共生格局。
 
 > [!claim] [[Robert Cowen\|Cowen, R.]] & Altbach, P.
-> **多学派并立且无一支配的复数状态** 阿特巴赫与考恩明确断定，从 1980 年代起比较教育学已不存在任何占据支配地位的统一范式，因而更准确的定性是复数的“多个比较教育学”；各流派拥有自身独立的[[Ontology\|本体论]]前提与真理体制，定性、历史与批判取向获得了等同的学术合法性，多极化成为学科的核心常态。（Altbach, 1991, p. 493; Cowen, 2000; 引自 [[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]）
+> **多学派并立且无一支配的复数状态** [[Philip Altbach|阿特巴赫]]与考恩明确断定，从 1980 年代起比较教育学已不存在任何占据支配地位的统一范式，因而更准确的定性是复数的“多个比较教育学”；各流派拥有自身独立的[[Ontology\|本体论]]前提与真理体制，定性、历史与批判取向获得了等同的学术合法性，多极化成为学科的核心常态。（Altbach, 1991, p. 493; Cowen, 2000; 引自 [[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]）
 
 > [!claim] Mattheou, D.
 > **大厦租客与真理殿堂的二元共生** 马修依托汉斯的大厦隐喻指出，单一范式衰落并不意味着实证量化彻底退场；量化共变范式因为能够持续为官僚统治提供[[Social Science as Legitimation Alibi\|政策合法化借口]]（Alibi），在政策制定租客所占据的建筑中依然根深蒂固（如当代 [[IEA]] 与 [[PISA]]）；但大厦的大多数空间已回归学术共同体，成为百家争鸣、批判反思与追求真理（*episteme*）的开放场域。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 69–70)]]
@@ -172,7 +173,7 @@ updated: 2026-09-24
 > [!dev-timeline] 概念演变
 > - **1960 年代 — 单数[[Scientific Paradigm\|科学范式]]的顶峰** 战[[Postpositivism\|后实证主义]]者（如诺亚与埃克斯坦）试图构建统一的实证社会科学体系，追求发现超越时空的普适因果法则，单数形式的“比较教育学”居于支配地位。
 > - **1970 年代中叶 — [[Paradigm\|范式]]危机与大论战爆发** 规划承诺落空与量子不确定性[[Epistemology\|认识论]]扩散，引发英美比较教育学界大论战；[[Edmund King\|埃德蒙·金]]、卡扎米亚斯等学者强烈抨击实证霸权，呼唤历史诠释学与人文传统回归。
-> - **1980–1990 年代 — 复数学科形态确立** 菲利普·阿特巴赫（Altbach, 1991）指出比较教育已呈现多学派并立格局；[[Robert Cowen\|罗伯特·考恩]]（Cowen, 2000）正式倡导使用复数“Comparative Educations”，后结构、后殖民、女性主义与文化转向竞相迸发。
+> - **1980–1990 年代 — 复数学科形态确立** [[Philip Altbach|菲利普·阿特巴赫]]（Altbach, 1991）指出比较教育已呈现多学派并立格局；[[Robert Cowen\|罗伯特·考恩]]（Cowen, 2000）正式倡导使用复数“Comparative Educations”，后结构、后殖民、女性主义与文化转向竞相迸发。
 > - **21 世纪 — [[Spatial Sortings\|空间分化]]与双重延续** 一方面，政策治理领域以 [[IEA]] [[TIMSS]] 和 [[OECD]] [[PISA]] 为代表的跨国量化测评作为统治借口继续巩固；另一方面，学术共同体内部的复数真理体制与批判反思更加繁盛，确立了不可逆的复数性格局。
 
 ---

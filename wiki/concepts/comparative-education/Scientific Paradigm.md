@@ -8,7 +8,7 @@ aliases:
 summary: "20 世纪 50 至 70 年代支配英美比较教育学的知识体系与研究纲领，摒弃古典历史学派主观印象与思辨归因，通过变量控制、量化共变检验与假说-演绎问题法探寻跨国规律与政策预测，并在实践中与战后国家理性规划形成合法化共谋"
 type: concept
 domain: "comparative-education"
-related_count: 59
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Theoretical Perspective]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Post-structuralism]]"
   - "[[Critical Theory]]"
   - "[[Human Capital Theory]]"
@@ -73,6 +74,7 @@ related_persons:
   - "[[Max Eckstein]]"
   - "[[Brian Holmes]]"
   - "[[Val D. Rust]]"
+  - "[[Philip Altbach]]"
   - "[[George Bereday]]"
   - "[[Philip Foster]]"
   - "[[Michael Sadler]]"
@@ -96,7 +98,7 @@ updated: 2026-10-01
 ## 定义
 
 > [!def] 核心定义
-> 科学[[Paradigm\|范式]]（Scientific Paradigm）是指在 20 世纪 50 年代末至 70 年代初席卷英美比较教育学界的一种支配性知识体系与研究纲领。在[[Thomas Kuhn\|托马斯·库恩]]（Thomas Kuhn）的范式理论视阈下，该范式主张彻底清洗古典历史-哲学传统的[[Subjectivism\|主观主义]]、印象主义与道德思辨，将自然科学与行为经验社会科学（特别是结构功能主义社会学与计量经济学）的实证准则确立为学科规范，通过[[Variable\|变量]][[Operationalization\|操作化]]、跨国量化共变[[Hypothesis\|假设]]检验或假说-演绎[[Problem Solving\|问题解决]]程序，探寻跨国教育制度与社会结构之间的普遍或权变规律，并为现代国家规划提供确定性的政策咨询。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–62)]]
+> 科学[[Paradigm\|范式]]（Scientific Paradigm）是指在 20 世纪 50 年代末至 70 年代初席卷英美比较教育学界的一种支配性知识体系与研究纲领。在[[Thomas Kuhn\|托马斯·库恩]]（Thomas Kuhn）的范式理论视阈下，该范式主张彻底清洗古典历史-哲学传统的[[Subjectivism\|主观主义]]、印象主义与道德思辨，将自然科学与行为经验社会科学（特别是[[Structural Functionalism|结构功能主义]]社会学与计量经济学）的实证准则确立为学科规范，通过[[Variable\|变量]][[Operationalization\|操作化]]、跨国量化共变[[Hypothesis\|假设]]检验或假说-演绎[[Problem Solving\|问题解决]]程序，探寻跨国教育制度与社会结构之间的普遍或权变规律，并为现代国家规划提供确定性的政策咨询。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–62)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指涉战后比较教育学界以现代自然科学与实证社会科学为典范、探寻跨国教育制度运行客观规律与因果/共变解释的整体知识体制与规范标准。
@@ -136,7 +138,7 @@ updated: 2026-10-01
 
 > [!quad-grid] 科学范式的库恩式四维构件（p. 61）
 > - **研究目标与主题** 终结无序事实堆砌与个案直觉描述，将学科目标确立为揭示跨国教育制度运行的内在规律、类型学建构以及对政策干预后果的精确预见。
-> - **理论框架与典范** 依托结构功能主义社会学模型、[[Human Capital Theory|人力资本理论]]与波普尔情境逻辑；典范实践包括大样本跨国实证调查（如 [[IEA]] 早期研究）与标准化[[Problem Solving|问题解决]]案例。
+> - **理论框架与典范** 依托[[Structural Functionalism|结构功能主义]]社会学模型、[[Human Capital Theory|人力资本理论]]与波普尔情境逻辑；典范实践包括大样本跨国实证调查（如 [[IEA]] 早期研究）与标准化[[Problem Solving|问题解决]]案例。
 > - **研究规则与规范标准** 恪守客观性、[[Value Neutrality|价值中立]]、概念严格[[Operationalization|操作化]]、[[Hypothesis|假设]]可检验性与[[Falsification|可证伪性]]；彻底清洗无法量化或不可经验验证的范畴。
 > - **应用技术与测量工具** 开发跨国标准化[[Questionnaire|问卷]]、多元统计模型、国家指标数据库，以及服务于中央五年计划的系统预测技术。
 
@@ -220,7 +222,7 @@ updated: 2026-10-01
 > 该命题从认识论限度与知识生产演进出发，揭示将自然科学受控实验与同质[[Commensuration|通约]]变量机械套用于跨文化比较必然遭遇的客观困境，论证单一[[Positivism|实证主义]]正统解体与多元范式并存的历史必然性。
 
 > [!claim] Rust, Johnstone, & Allaf (2009)
-> **实证科学单一垄断的破灭与[[Pluralism|健康多元主义]]成熟** [[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）系统梳理了比较学科追求科学地位的历程，指出近代比较学科群（Jordan 1905 年梳理的 26 个比较学科）虽共同致力于揭示跨情境规律，但在方法论实践中必然受制于两大客观限度：其一，比较教育学面对的是深嵌于不同历史脉络的“非同质单位”（dissimilar units，Smelser, 1976），无法将文化[[Heterogeneity|异质性]]简单降维为同质变量；其二，学科无法施加无菌实验室式的变量隔离，必须完全依托自然情境下的系统变异。依托对主流期刊论文的长期[[Document|文献]]计量，拉斯特等人实证证实：1950–1960 年代结构功能主义与实证主义在冷战时期的一统天下并未能建成单一的统合科学，反而在 1970 年代后迅速瓦解；至 1990 年代，学科成熟地演进为涵盖实证主义（40.5%）、[[Postpositivism|后实证主义]]（36.1%）与非实证主义（23.4%）共 26 种理论传统的“健康多元主义”（healthy pluralism）。单一科学范式的终结并非学科碎片化衰亡，而是学者摆脱教条垄断、获得充分[[Academic Freedom|学术自由]]的研究心智成熟标志。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 126–132)]]
+> **实证科学单一垄断的破灭与[[Pluralism|健康多元主义]]成熟** [[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）系统梳理了比较学科追求科学地位的历程，指出近代比较学科群（Jordan 1905 年梳理的 26 个比较学科）虽共同致力于揭示跨情境规律，但在方法论实践中必然受制于两大客观限度：其一，比较教育学面对的是深嵌于不同历史脉络的“非同质单位”（dissimilar units，Smelser, 1976），无法将文化[[Heterogeneity|异质性]]简单降维为同质变量；其二，学科无法施加无菌实验室式的变量隔离，必须完全依托自然情境下的系统变异。依托对主流期刊论文的长期[[Document|文献]]计量，拉斯特等人实证证实：1950–1960 年代[[Structural Functionalism|结构功能主义]]与实证主义在冷战时期的一统天下并未能建成单一的统合科学，反而在 1970 年代后迅速瓦解；至 1990 年代，学科成熟地演进为涵盖实证主义（40.5%）、[[Postpositivism|后实证主义]]（36.1%）与非实证主义（23.4%）共 26 种理论传统的“健康多元主义”（healthy pluralism）。单一科学范式的终结并非学科碎片化衰亡，而是学者摆脱教条垄断、获得充分[[Academic Freedom|学术自由]]的研究心智成熟标志。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 126–132)]]
 
 ---
 
@@ -231,7 +233,7 @@ updated: 2026-10-01
 > |---|---|---|---|
 > | **法则性质与科学目标分野** | 恒常制度规律 vs 函数共变自律 vs 权变社会学法则与预测划界 | 学科方法论建构与认识论划界争鸣 | Anderson, Foster; Noah & Eckstein; Holmes |
 > | **政治合法化与权力共谋** | 实证量化数据充当国家规划与技术官僚的科学借口（alibi） | 跨国[[Policy Borrowing\|政策借用]]、教育计划体制与官方资助市场 | Mattheou, Parnes, Schultz, Halsey |
-> | **范式危机与学科复数化** | 规划落空、量子不确定性与后现代解构导致单数范式终结 | 学科史演进、当代多元范式格局反思 | Mattheou, Husén, Altbach, Cowen |
+> | **范式危机与学科复数化** | 规划落空、量子不确定性与后现代解构导致单数范式终结 | 学科史演进、当代多元范式格局反思 | Mattheou, Husén, [[Philip Altbach\|Altbach]], Cowen |
 > | **客观认识论约束与多元主义成熟** | 自然情境受限与非同质单位制约，单一实证范式解体让位于健康多元主义 | 跨国比较研究设计、理论多元格局定性、期刊实证计量 | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]]; Smelser (1976) |
 
 ---
@@ -294,7 +296,7 @@ updated: 2026-10-01
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 全景式考据比较教育学科学[[Paradigm|范式]]的兴起动因、四大派别在目标与法则上的争论、其实用政策结盟机制以及走向解体的深层[[Epistemology|认识论]]原因。
 > - Bereday (1964) — 提出描述、解释、并置、比较的四步操作程序，充当从古典历史向实证科学转型的关键过渡桥梁。
-> - Anderson (1961) — 奠定芝加哥学派结构功能主义立足点，主张探索社会系统超越时空的恒常不变关系。
+> - Anderson (1961) — 奠定芝加哥学派[[Structural Functionalism|结构功能主义]]立足点，主张探索社会系统超越时空的恒常不变关系。
 > - Noah & Eckstein (1969) — 奠定经验实证与跨国[[Variable|变量]]共变检验纲领，建立五阶段调查程序并保持拒称法则的方法论自律。
 > - Holmes (1965, 1981) — 创立[[Critical Dualism|批判二元论]]与假说-演绎[[Problem Approach|问题法]]，确立权变社会学法则与预测划界标准，实现历史与社会科学的折衷综合。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 考据比较教育学在近代 26 个比较学科群中的定位，分析自然情境与[[Dissimilar Units|非同质单位]]带来的认识论边界，实证揭示单一科学范式垄断瓦解与 26 种[[Theoretical Perspective|理论视角]][[Pluralism|健康多元主义]]的形成。

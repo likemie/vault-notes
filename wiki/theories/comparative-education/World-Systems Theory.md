@@ -8,7 +8,7 @@ aliases:
 summary: "由沃勒斯坦创立的历史社会学宏观理论，将全球资本主义组织为中心、半边缘和边缘三层分工结构，为比较教育学打破方法论民族主义、揭示跨国教育依附链条与国际援助政治经济学提供了核心批判范式。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 41
+theory_related_count: 43
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -34,8 +34,10 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Multiplicity]]"
   - "[[Determinism]]"
+  - "[[Historical Amnesia]]"
   - "[[Attrition]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Human Capital Theory]]"
   - "[[Dialectic of the Global and the Local]]"
   - "[[Globalization from Below]]"
@@ -122,7 +124,7 @@ updated: 2026-10-01
 
 > [!dev-timeline] 理论演进与学术史
 > - **1974–1980 — [[Immanuel Wallerstein|沃勒斯坦]]创立宏观分析[[Paradigm|范式]]** 沃勒斯坦深入西非去殖民化实地考察后，出版四卷本巨著首卷《现代世界体系》（*The Modern World-System I*, 1974），将资本主义世界经济起源追溯至“漫长的 16 世纪”，奠定中心-半边缘-边缘宏观理论范式。
-> - **1980–1982 — [[Robert Arnove|阿诺夫]]引入比较教育学（第四阶段话语的激进突破）** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove, 1980）发表纲领性论文《比较教育与世界体系分析》，率先将体系分析引入比较教育学；在比较教育学第四阶段话语（Discourse 4, 1970–1990）中，该理论成为颠覆结构功能主义与[[Human Capital Theory|人力资本理论]]神话的核心基石（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 152–153]]）。
+> - **1980–1982 — [[Robert Arnove|阿诺夫]]引入比较教育学（第四阶段话语的激进突破）** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove, 1980）发表纲领性论文《比较教育与世界体系分析》，率先将体系分析引入比较教育学；在比较教育学第四阶段话语（Discourse 4, 1970–1990）中，该理论成为颠覆[[Structural Functionalism|结构功能主义]]与[[Human Capital Theory|人力资本理论]]神话的核心基石（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 152–153]]）。
 > - **1990s–2000s — 全球与本土辩证法的综合发展** 为克服宏观体系决定的机械倾向，阿诺夫与卡洛斯·阿尔贝托·[[Carlos Alberto Torres|托雷斯]]（Carlos Alberto Torres, 1999）构建“[[Dialectic of the Global and the Local|全球化与本土实践的辩证法]]”，将世界体系宏观政治经济学与微观学校[[Ethnography|民族志]]相贯通，并提出[[Globalization from Below|自下而上的全球化]]抗争构想。
 > - **2010s–至今 — 全球科学网络与[[Geopolitics of Higher Education|高等教育地缘政治]]反思** 世界体系理论被广泛应用于全球高等教育与[[Geopolitics of Knowledge|知识地缘政治]]研究（Olechnicka et al., 2019）；同时，以西蒙·马金森（Simon Marginson, 2025）为代表的学者批判其刚性空间[[Hypothesis|假设]]与零和剩余偏见，推动多标度国家自主性研究。
 
@@ -133,7 +135,7 @@ updated: 2026-10-01
 > [!application] 比较教育学的理论突破与分析路径
 > - **打破技术功能主义与[[Value Neutrality|价值中立]]迷思** 实证功能主义将教育视作国家实现现代化的中立发动机；世界体系理论则揭示，教育扩张主要受跨国资本积累需求规约，边缘国家扩招往往伴随着严重的文凭贬值、过度教育与劳动力失业，固化了国际依附格局。
 > - **解构跨国援助与金融机构的[[Disciplina and Doctrina|规训]]网络** 理论为批判[[World Bank|世界银行]]、[[International Monetary Fund|国际货币基金组织]]（IMF）等国际金融机构推行的[[Structural Adjustment Programs|结构调整]]计划（Structural Adjustment Programs, SAPs）提供了尖锐透镜，证明削减公共教育开支、推进[[Endogenous and Exogenous Privatisation|教育私有化]]与用户付费是中心国家向边缘国家转移危机、重构依附关系的政治手段。
-> - **揭示双层传递的教育依附链条** [[Robert Arnove|阿诺夫]]（Arnove, 1982; Kazamias, 2009a, pp. 152–153）将世界体系具体化为教育依附传递链：发达中心国家通过学术出版垄断、课程输入与人才流动对第三世界施加[[Hegemony|文化霸权]]；而边缘国家的政治经济精英则在本土社会中维持对底层劳工与边缘群体的内部教育垄断与阶级支配。
+> - **揭示双层传递的教育依附链条** [[Robert Arnove|阿诺夫]]（Arnove, 1982; [[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 152–153]]）将世界体系具体化为教育依附传递链：发达中心国家通过学术出版垄断、课程输入与人才流动对第三世界施加[[Hegemony|文化霸权]]；而边缘国家的政治经济精英则在本土社会中维持对底层劳工与边缘群体的内部教育垄断与阶级支配。
 > - **促进微观课堂抗争与草根联合** 结合“双重视野”，世界体系视角指引学者深入微观课堂（如几内亚教师教学、巴布亚新几内亚青年反抗），考察底层行动者在面对全球资本规训时开展的文化抵抗与自下而上的社会民主抗争。
 
 > [!citation-card] 卡扎米亚斯论世界体系理论作为第四阶段话语的宏观结构基石
@@ -168,7 +170,7 @@ updated: 2026-10-01
 > > - **马金森（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025]]）** 指出沃勒斯坦理论犯了**方法论全球主义（Methodological Globalism）**的镜像错误，将国家尺度完全化约为全球尺度的函数，否定国家自主能动性；其“零和剩余假设”被过去三十年全球科学与高等教育事实[[Falsification|证伪]]（如中国、新加坡、韩国大学的多极化崛起）。[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, pp. 12–13)]]
 > > - **[[Doreen Massey|多琳·马西]]的空间[[Multiplicity|多重性]]理论 (Massey, 2005)** 批评世界体系的空间[[Determinism|决定论]]，强调空间始终具有未完成的松散末端与[[Multiplicity|多重性]]，权力和等级结构绝非永久固定不变。[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, pp. 6–7, 12–13)]]
 >
-> > [!axis] 长时段史学理论与学科“历史健忘症”的历史学悖论
+> > [!axis] 长时段史学理论与学科“[[Historical Amnesia|历史健忘症]]”的历史学悖论
 > > 争论焦点在于世界体系理论在比较教育学界普及与学科历史传统[[Attrition|流失]]之间的悖论关联。
 > >
 > > - **卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 154–156]]）** 深刻揭示了一个学术史悖论：沃勒斯坦本人的社会学建构深植于布罗代尔的长时段历史学；然而在比较教育学第四阶段话语（1970–1990）全面拥抱世界体系分析时，学者们却将全部精力投入当代宏观结构的[[Ideology Critique|意识形态批判]]与当下危机分析，在客观上加速了传统历史-哲学传统的边缘化，导致学科深陷“历史健忘症”（历史论文占比跌破 5%）。

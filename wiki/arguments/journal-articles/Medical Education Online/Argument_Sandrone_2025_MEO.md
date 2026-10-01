@@ -9,9 +9,9 @@ title: "Argument_Sandrone_2025_MEO"
 argument_key: "Argument_Sandrone_2025_MEO"
 argument_display_title: "Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees"
 argument_kind: "journal-article"
-argument_related_count: 9
+argument_related_count: 10
 argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_stars: ""
 argument_related_color: "#dbeafe"
 journal: Medical Education Online
 citation: "Sandrone, S. (2025). Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees. Medical Education Online, 30(1), 2509554."
@@ -34,6 +34,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
+  - "[[National Institutes of Health]]"
 related_arguments: []
 sources:
   - "[[sources/Sandrone_2025_MEO|Sandrone_2025_MEO]]"
@@ -135,7 +136,7 @@ citation_aliases:
 >
 > **1976 年 Baruch Blumberg**。「Oliver Smithies (who had been a graduate student of A. G. Ogston, my mentor at Oxford)」（Oliver Smithies，他曾是我在牛津的导师 A. G. Ogston 的研究生）
 >
-> **1989 年 J. Michael Bishop**。「I began my second novitiate by entering the Research Associates Program at the National Institutes of Health in Bethesda, Maryland, where my mentor was Leon Levintow」（我开始了我的第二个见习期，进入马里兰州贝塞斯达国立卫生研究院的研究 associates 项目，在那里我的导师是 Leon Levintow）
+> **1989 年 J. Michael Bishop**。「I began my second novitiate by entering the Research Associates Program at the [[National Institutes of Health]] in Bethesda, Maryland, where my mentor was Leon Levintow」（我开始了我的第二个见习期，进入马里兰州贝塞斯达国立卫生研究院的研究 associates 项目，在那里我的导师是 Leon Levintow）
 >
 > **1998 年 Louis Ignarro**。「My father encouraged a love of science by example, and it was carefully nurtured by my doctoral and postdoctoral mentors – Theodore W. Rall, who perhaps should have won a Nobel Prize, and Marshall W. Nirenberg, who did not」（我父亲以身作则鼓励我对科学的热爱，这种热爱被我的博士和博士后导师悉心培育——Theodore W. Rall，他 perhaps 应该获得诺贝尔奖，以及 Marshall W. Nirenberg，他确实获得了）
 >

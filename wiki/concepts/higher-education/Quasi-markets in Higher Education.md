@@ -7,7 +7,7 @@ aliases:
 summary: "政府通过标准化产出指标和竞争性评选来分配高等教育拨款的准市场机制，表面奖励卓越，实际作为制度化马太效应使资源向已有优势的机构进一步集中"
 type: concept
 domain: "higher-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,12 +33,13 @@ related_facts:
   - "[[Higher Education Funding Council for England]]"
   - "[[German Excellence Initiative]]"
   - "[[National Science Foundation]]"
+  - "[[National Institutes of Health]]"
 related_arguments:
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-10-02
 ---
 
 # Quasi-markets in Higher Education
@@ -92,7 +93,7 @@ updated: 2026-06-01
 
 ### 美国的多样化实践
 
-美国的准市场更为碎片化和多层次，联邦拨款机构（[[National Science Foundation|NSF]]、NIH）的同行评审系统、各州的绩效拨款公式、以及私人排名（U.S. News）共同构成了一个分散但同样有效的竞争性资源配置体系。虽然美国没有统一的全国性评估框架，但同行评审在拨款决策中的核心角色，自 1960–70 年代制度化以来，实际上起到了准市场的功能：根据"学术质量"的同行评价来决定资金的分配（Biagioli, 2002, p.123）。
+美国的准市场更为碎片化和多层次，联邦拨款机构（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]）的同行评审系统、各州的绩效拨款公式、以及私人排名（U.S. News）共同构成了一个分散但同样有效的竞争性资源配置体系。虽然美国没有统一的全国性评估框架，但同行评审在拨款决策中的核心角色，自 1960–70 年代制度化以来，实际上起到了准市场的功能：根据"学术质量"的同行评价来决定资金的分配（Biagioli, 2002, p.123）。
 
 ## 市场话语的意识形态功能
 

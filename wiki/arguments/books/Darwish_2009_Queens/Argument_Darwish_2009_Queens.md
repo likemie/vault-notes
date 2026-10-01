@@ -40,6 +40,7 @@ sources: []
 related_concepts:
   - "[[Active Learning]]"
   - "[[Epistemology]]"
+  - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Paradigm]]"
   - "[[Concept Mapping]]"
@@ -86,7 +87,6 @@ related_concepts:
   - "[[Verbalism]]"
   - "[[Humility]]"
   - "[[Open-Mindedness]]"
-  - "[[International Baccalaureate]]"
   - "[[Curriculum as Product]]"
   - "[[Positivism]]"
   - "[[Curriculum as Process]]"
@@ -111,7 +111,7 @@ related_persons:
 
 ## 总览
 
-关于[[Active Learning|主动学习]]的概念分析研究（Darwish, 2009, Queen's University），系统解构了主动学习的[[Epistemology|认识论]]根基、历史演进与教学法张力。研究立足于哲学与概念分析，通过对西方教育思想史（[[Plato|柏拉图]]、[[Aristotle|亚里士多德]]、[[John Dewey|杜威]]、[[Paulo Freire|弗莱雷]]等）及现代课程案例（IBO 与 [[Theory of Knowledge|TOK]] 课程）的深入考察，揭示了主动学习绝非简单的教学技巧（如分组讨论或动手操作），而是一种关乎学习者主体地位、批判意识与社会实践的教育[[Paradigm|范式]]重构。
+关于[[Active Learning|主动学习]]的概念分析研究（Darwish, 2009, Queen's University），系统解构了主动学习的[[Epistemology|认识论]]根基、历史演进与教学法张力。研究立足于哲学与概念分析，通过对西方教育思想史（[[Plato|柏拉图]]、[[Aristotle|亚里士多德]]、[[John Dewey|杜威]]、[[Paulo Freire|弗莱雷]]等）及现代课程案例（[[International Baccalaureate|IBO]] 与 [[Theory of Knowledge|TOK]] 课程）的深入考察，揭示了主动学习绝非简单的教学技巧（如分组讨论或动手操作），而是一种关乎学习者主体地位、批判意识与社会实践的教育[[Paradigm|范式]]重构。
 
 ## 章节
 
@@ -171,7 +171,7 @@ related_persons:
 
 > [!case] 课例1.1：IB TOK 课程中的[[Knowledge Questions\|知识问题]]探究与评估异化
 > - **教学设计意图** [[Theory of Knowledge\|TOK]] 课程旨在促使学生质疑[[Source of Knowledge\|知识的来源]]与[[Reliability\|可靠性]]，通过探究“[[Ways of Knowing\|认知方式]]”（WOK）与“[[Areas of Knowledge\|知识领域]]”（AOK）开展主动探究 (pp. 12–13)。
-> - **实践中的异化困境** 由于 IBO 采用了高度标准化的外部评估（论文与演示文稿），教师与学生在实际操作中倾向于套用固定的解题公式与应试模板，导致本应具备解放性的批判性探究重新退化为一种新型的储蓄式应试技巧 (pp. 14–16)。
+> - **实践中的异化困境** 由于 [[International Baccalaureate|IBO]] 采用了高度标准化的外部评估（论文与演示文稿），教师与学生在实际操作中倾向于套用固定的解题公式与应试模板，导致本应具备解放性的批判性探究重新退化为一种新型的储蓄式应试技巧 (pp. 14–16)。
 > - **内容筛选的理论依据** 在审视 TOK 课程内容筛选标准时，[[Hilda Taba]]（1962）的知识层次理论成为"事实与主旨有效链接"的理论依据：课程不可停留在具体事实的[[Rote Learning\|机械记忆]]，而须通过结构化设计将事实上升为抽象主旨与思维技能 (p. 21)。
 
 ---

@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -48,6 +48,7 @@ related_instruments: []
 related_persons:
   - "[[G. Reid Lyon]]"
 related_facts:
+  - "[[National Institutes of Health]]"
   - "[[National Reading Panel]]"
   - "[[Reading Excellence Act]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-09-28
+updated: 2026-10-02
 ---
 
 # National Institute of Child Health and Human Development
@@ -71,7 +72,7 @@ updated: 2026-09-28
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 国家儿童健康与人类发展研究所（National Institute of Child Health and Human Development, NICHD；后正式冠名为 Eunice Kennedy Shriver NICHD）是美国联邦卫生与公众服务部（HHS）下属国立卫生研究院（NIH）的首要生物医学与行为发展研究机构。其核心法定使命在于资助并领导人类胚胎、儿童发育、认知过程及发展性障碍的医学与行为实证研究，并在 1990 年代跨界介入基础教育领域，成为联邦政府推行早期读写科研规制与因果[[Evidence Standards|证据标准]]的核心行政官僚中枢。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 7–9)]]
+> 国家儿童健康与人类发展研究所（National Institute of Child Health and Human Development, NICHD；后正式冠名为 Eunice Kennedy Shriver NICHD）是美国联邦卫生与公众服务部（HHS）下属国立卫生研究院（[[National Institutes of Health|NIH]]）的首要生物医学与行为发展研究机构。其核心法定使命在于资助并领导人类胚胎、儿童发育、认知过程及发展性障碍的医学与行为实证研究，并在 1990 年代跨界介入基础教育领域，成为联邦政府推行早期读写科研规制与因果[[Evidence Standards|证据标准]]的核心行政官僚中枢。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 7–9)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1962 年经约翰·F·肯尼迪总统倡议并由国会立法设立，旨在打破单一疾病研究限制，从全生命周期视角攻克儿童智力残疾与发育障碍。
@@ -94,7 +95,7 @@ updated: 2026-09-28
 ## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
-> - **所长办公室（Office of the Director）** 掌管研究所全面科研方向与财政预算分配，直接对 NIH 院长及联邦卫生部长负责。
+> - **所长办公室（Office of the Director）** 掌管研究所全面科研方向与财政预算分配，直接对 [[National Institutes of Health|NIH]] 院长及联邦卫生部长负责。
 > - **儿童发展与行为分支（CDBB）** 1990 年代掌管全美阅读与学习科研资助的权力核心，由神经心理学家[[G. Reid Lyon|里德·里昂]]执掌，拥有极高的基金裁量权与行政游说空间。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 8)]]
 > - **国家咨询委员会（National Advisory Child Health and Human Development Council）** 由外部顶尖医学科学家、神经生物学家及公众代表构成的法定咨询审议机构，对重大科研基金审批行使二次审查权。
 > - **跨部门行政联络网** 与白宫国内政策委员会、联邦教育部政策规划司保持长期制度化联络。

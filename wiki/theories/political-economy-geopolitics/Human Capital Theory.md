@@ -7,7 +7,7 @@ aliases:
 summary: "将教育与培训视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论。二战后在冷战地缘博弈中成为经合组织（OECD）推行技术官僚式人力规划与世界银行构建跨国放贷指标帝国的核心理论支柱。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 47
+theory_related_count: 48
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Research Problem]]"
   - "[[Geisteswissenschaften]]"
+  - "[[Historical Amnesia]]"
   - "[[Scientific Paradigm]]"
 related_theories:
   - "[[Governing at a Distance]]"
@@ -66,8 +67,8 @@ related_facts:
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
 related_arguments:
-  - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
+  - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Li_2025_HSSC]]"
@@ -87,7 +88,7 @@ updated: 2026-10-01
 > - **解释对象** 教育与技能投资转化为个人终身收益、劳动生产率提升与国家宏观经济增长的内生因果机制。
 > - **理论问题** 破解新古典生产函数中物质资本与非技能劳动力无法完全解释的“余值增长”（索洛余值），将人类后天习得的知识与能力资本化；在战后政策中为国家追加教育公共预算、推行中央教育规划与实施跨国技术援助提供理论正当性。
 > - **理论类型** 宏观与中层经济学理论、机制模型、教育规划[[Paradigm|范式]]。
-> - **知识位置** 芝加哥学派新古典经济学（Theodore W. Schultz, Gary S. Becker, Jacob Mincer）与战后教育经济学；在比较教育学学术史中，该理论构成战后第三代“新[[Scientism|科学主义]]运动”（neo-scientific comparative education）的核心支柱，与“方法论[[Empiricism|经验主义]]”（methodological empiricism）深度结合，构筑了“教育-发展-现代化”工具性发展主义范式（instrumental-developmental paradigm）（Kazamias, 2009a）。在比较教育与发展教育领域的核心代表包括 William G. Bowen（1964）、Frederick Harbison 与 Charles A. Myers（1964）、Herbert S. Parnes（1962）、Don Adams 与 Robert Bjork（1971）、[[George Psacharopoulos]]（1981, 1987）。
+> - **知识位置** 芝加哥学派新古典经济学（Theodore W. Schultz, Gary S. Becker, Jacob Mincer）与战后教育经济学；在比较教育学学术史中，该理论构成战后第三代“新[[Scientism|科学主义]]运动”（neo-scientific comparative education）的核心支柱，与“方法论[[Empiricism|经验主义]]”（methodological empiricism）深度结合，构筑了“教育-发展-现代化”工具性发展主义范式（instrumental-developmental paradigm）（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）。在比较教育与发展教育领域的核心代表包括 William G. Bowen（1964）、Frederick Harbison 与 Charles A. Myers（1964）、Herbert S. Parnes（1962）、Don Adams 与 Robert Bjork（1971）、[[George Psacharopoulos]]（1981, 1987）。
 
 > [!claim] 核心主张
 > 人力资本理论主张，教育与技能培训是对蕴含于劳动者体内生产性知识与能力的资本投资，而非单纯的消费性福利开支；这种投资通过提升劳动者的边际生产率内生驱动宏观经济持续增长，并为国家通过科学的人力需求预测发掘社会潜在人才库、推动社会流动与经济起飞提供了必然性与合法性背书。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 67–68)]]
@@ -234,11 +235,11 @@ updated: 2026-10-01
 > > - **欧陆传统与米特立场** 坚持[[Navigation Metaphor in Comparative Education|比较教育的航海隐喻]]与批判启蒙价值，警惕技术官僚将学科矮化为人力资本与绩效对标的附庸。
 > > - **跨国技术官僚规训** [[OECD|经合组织]]与政府部门通过财政资助与问责指标，强制将[[Research Problem|研究议题]]锚定于提升国家经济人力资本存量与全球竞争力。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 96)]]
 > >
-> > [!axis] 工具性发展[[Paradigm|范式]]与唯方法论主义 vs 历史文化深度与[[Geisteswissenschaften|精神科学]]
-> > 围绕人力资本理论主导的“教育-发展-现代化”工具性发展范式是否造成学科“历史失忆症”展开论争。
+> > [!axis] 工具性发展[[Paradigm|范式]]与[[Empiricism|唯方法论主义]] vs 历史文化深度与[[Geisteswissenschaften|精神科学]]
+> > 围绕人力资本理论主导的“教育-发展-现代化”工具性发展范式是否造成学科“[[Historical Amnesia|历史失忆症]]”展开论争。
 > >
 > > - **芝加哥人力资本学派与方法论[[Empiricism|经验主义]]者（Psacharopoulos, 1987; Noah & Eckstein, 1969）** 将教育抽象为促进经济起飞与现代化的决定性[[Independent Variable|自变量]]，主张借助投入产出计量模型与跨国收益率数据库指导发展规划。
-> > - **批判学术史家与卡扎米亚斯（Kazamias, 2009a）** 揭示该范式在[[Epistemology|认识论]]上陷入去情境化、无历史性的“唯方法论主义”（methodologism），将复杂的历史文化演化抽离为单向度的经济资本积累，沦为跨国官僚机构与资助者的合法化工具。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
+> > - **批判学术史家与卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）** 揭示该范式在[[Epistemology|认识论]]上陷入去情境化、无历史性的“唯方法论主义”（methodologism），将复杂的历史文化演化抽离为单向度的经济资本积累，沦为跨国官僚机构与资助者的合法化工具。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 
 > [!critique] 外部批评
 > - **过度学校化与异化** [[Torsten Husén|托斯滕·胡森]]（Husén, 1982）等学者指出，将教育简化为人力资本积累导致全社会陷入非理性的学校竞赛，加剧青年人的心理异化，并未消解阶级特权。

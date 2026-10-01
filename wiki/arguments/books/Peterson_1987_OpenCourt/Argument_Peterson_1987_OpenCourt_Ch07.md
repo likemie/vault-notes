@@ -112,7 +112,7 @@ updated: 2026-10-01
 
 > [!event-context] 1981 年布鲁塞尔会议正式把政府出资与理事席位连在一起
 > - 比利时两位教育部长主办第三次政府间会议，六国部长和二十余国政府代表与会。
-> - 会议原则批准十年发展计划，正式建立[[Standing Conference of Governments of the International Baccalaureate|国际文凭政府常设会议]]，并把它列为 IBO 国际理事会三类组成部分之一。
+> - 会议原则批准十年发展计划，正式建立[[Standing Conference of Governments of the International Baccalaureate|国际文凭政府常设会议]]，并把它列为 [[International Baccalaureate|IBO]] 国际理事会三类组成部分之一。
 > - 成员政府建议每年缴纳 40,000–50,000 瑞士法郎。19 国加入，八国代表首先进入 IBO 理事会；1984 年理事会扩为 27 人，以便三年轮换。
 > - [[John Goormaghtigh|约翰·戈尔马蒂赫]]（John Goormaghtigh）把出资解释为共同维持一项已证明价值的国际公共教育服务，而非向慈善事业捐款（pp. 161–162）。
 

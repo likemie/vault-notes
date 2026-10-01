@@ -7,7 +7,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程；在宏观场域揭示资本偏向与跨国组织自指性指标帝国，在微观教育场域指向学习者在本土协商共同体中依托证据协调与四维认识论实践自主生成新知并内化说服优于强制的民主审议价值。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 87
+related_count: 88
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Empiricism]]"
   - "[[Social Science as Legitimation Alibi]]"
+  - "[[Historical Amnesia]]"
   - "[[Justificatory Standards]]"
   - "[[Hypothesis]]"
   - "[[University-Industry Collaboration]]"
@@ -178,7 +179,7 @@ updated: 2026-10-01
 > - **概念制品与持续改进机制（Conceptual [[Artefact|artifacts]] & Idea Improvement）** [[Knowledge Building Theory|知识建构学派]]将课堂知识生产界定为将学生的观点作为公共客体（波普尔的世界 3）进行持续提炼与升级，通过[[Reflective Structuration|反思性结构化]]历时推进全班知识前沿。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 891–893)]]
 > - **比较教育学科知识生产的[[Paradigm|范式]]位移与跨国指标治理** 比较教育学领域的知识生产经历了从早期大学席位主导的“历史-文化[[Interpretive Paradigm|诠释范式]]”（以[[Allgemeine Pädagogik|普通教育学]]为哲学根基，依托大学讲座与学术学会探索教育的跨学科横断本质）向晚近超国家量化评估体制的深刻转向。随着跨国机构（如[[IEA|国际教育成就评价协会]]（IEA）、[[OECD|经合组织]] [[PISA]]）大规模兴起，知识生产的主导权与标准从大学学者对历史语境与[[National Character|国民性]]传统的反思，转移为跨国组织的标准化实证指标与绩效数据生产，形成了量化实证指标规约国家教育政策的新型[[Disciplina and Doctrina|规训]]机制。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 96–98)]]
 > - **比较教育知识生产的地缘多极化与经验证据基础拓宽** 比较教育学知识生产不仅经历了[[Epistemology|认识论]]范式更迭，更经历了地缘政治与数据收集方式的双重变革。在地理上，该领域的知识生产在 20 世纪前叶高度局限于英美、加拿大与德国的欧洲中心主义圈子，而在 20 世纪后叶随着日本、中国、印度及拉美学者的崛起以及 [[World Council of Comparative Education Societies|WCCES]] 的建立，实现了从西方垄断向全球多中心的“国际化”演变；在方法策略上，知识生产摆脱了早期单纯依赖[[Primary and Secondary Documents|二手文献]]构建诠释性论文的单一局面，大幅扩展为融合深度[[Fieldwork|田野调查]]、[[Ethnography|民族志]]、[[Qualitative Interview|质性访谈]]与大规模[[Questionnaire|问卷调查]]的多元经验实证体系。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 129–131)]]
-> - **比较教育普罗透斯式知识生产代际与[[Empiricism|唯方法论主义]]异化** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Kazamias, 2009a, pp. 139–156）系统考察两百年学科史指出，比较教育学知识生产呈现如普罗透斯般的论述代际演化。战后实证化运动将知识生产窄化为追求数学公理与统计控制的“唯方法论主义（Methodologism）”，甚至异化为国家行政规划与对外技术援助推卸责任的“[[Social Science as Legitimation Alibi|合法化借口]]（legitimation alibi）”；而伴随史学研究断崖式下跌，学科知识生产陷入深层的“历史失忆症”，唯有重塑历史想象力并推进历史学与社会科学的理性综合，才能恢复知识生产的批判与人文根基。[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 139–141, 147–152, 155–156)]]
+> - **比较教育普罗透斯式知识生产代际与[[Empiricism|唯方法论主义]]异化** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 139–156]]）系统考察两百年学科史指出，比较教育学知识生产呈现如普罗透斯般的论述代际演化。战后实证化运动将知识生产窄化为追求数学公理与统计控制的“唯方法论主义（Methodologism）”，甚至异化为国家行政规划与对外技术援助推卸责任的“[[Social Science as Legitimation Alibi|合法化借口]]（legitimation alibi）”；而伴随史学研究断崖式下跌，学科知识生产陷入深层的“[[Historical Amnesia|历史失忆症]]”，唯有重塑历史想象力并推进历史学与社会科学的理性综合，才能恢复知识生产的批判与人文根基。[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 139–141, 147–152, 155–156)]]
 > - **人机共生协同知识建构与共享[[Epistemic Agency|认识主体性]]** 将生成式 AI 纳入知识生产系统，学习者与大模型共同构成共生认知网络；人类负责设定探究目标、设计提示词并实施证据裁决，技术提供发散线索与结构化拆解，实现人机协作建构。[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 358–360)]]
 > - **[[Epistemic Stances|认识立场]]对知识[[Justificatory Standards|确证标准]]的规制** 学习者的认识立场（绝对主义、相对主义、评价主义）决定了其如何对待 AI 生成的[[Hypothesis|假设]]与命题，评价主义立场是确保人机协同产出具备学科真实性与证据合法性的核心保障。[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 359–361)]]
 > - **知识生产共同体的核心民主与审议价值** 知识生产活动内蕴着宝贵的[[Epistemology|认识论]]规范与民主价值：崇尚以理服人（说服优于强制）、保持[[Open-Mindedness|思想开放]]（反思教条）、审慎考量备选方案，并使经验证据随时向公共审视与批判开放。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 148, 161)]]
@@ -269,7 +270,7 @@ updated: 2026-10-01
 > 揭示比较教育知识生产在战后盲目迎合自然科学量化模型所引发的方法论主义异化与历史维度放逐。
 
 > [!claim] Barber, B. R.; [[Andreas Kazamias|Kazamias, A.]] M.; Larsen, M.
-> **[[Empiricism|唯方法论主义]]拜物教与官僚行政合法化借口** 卡扎米亚斯援引[[Bernard Barber|伯纳德·巴伯]]（Bernard Barber）对战后社会科学知识生产的批判指出：当知识生产陷入“唯方法论主义（Methodologism）”时，学者将单一量化实证操作技术奉为崇拜对象，将知识生产割裂于历史文化情境与规范伦理价值之外；这种去情境化的知识生产极易被国家中央规划体制与对外援助机构收买，沦为行政官员推卸政治抉择责任的“合法化借口（legitimation alibi）”。此外，学科计量证实史学研究占全部知识生产的比例从 1950 年代的 10.5% 暴跌至不足 5%，诱发了深层的“历史失忆症（historical amnesia）”；真正的学术知识生产必须打破技术指标自满，走向历史学与社会科学的理性综合。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–152, 155–156)]]
+> **[[Empiricism|唯方法论主义]]拜物教与官僚行政合法化借口** 卡扎米亚斯援引[[Bernard Barber|伯纳德·巴伯]]（Bernard Barber）对战后社会科学知识生产的批判指出：当知识生产陷入“唯方法论主义（Methodologism）”时，学者将单一量化实证操作技术奉为崇拜对象，将知识生产割裂于历史文化情境与规范伦理价值之外；这种去情境化的知识生产极易被国家中央规划体制与对外援助机构收买，沦为行政官员推卸政治抉择责任的“合法化借口（legitimation alibi）”。此外，学科计量证实史学研究占全部知识生产的比例从 1950 年代的 10.5% 暴跌至不足 5%，诱发了深层的“[[Historical Amnesia|历史失忆症]]（historical amnesia）”；真正的学术知识生产必须打破技术指标自满，走向历史学与社会科学的理性综合。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–152, 155–156)]]
 
 ---
 
@@ -293,7 +294,7 @@ updated: 2026-10-01
 > - **1950s–1970s — 殖民知识生产批判** 弗朗茨·[[Frantz Fanon|法农]]（Frantz Fanon）揭示殖民教育如何通过语言和[[Cultural Hierarchy|文化等级]]制造附庸性知识体系；后殖民学者批判西方中心主义[[Epistemology|认识论]]。
 > - **1960s–2000s — 比较教育学科知识生产从历史诠释向跨国实证指标的[[Paradigm|范式]]位移** [[Wolfgang Mitter|沃尔夫冈·米特]]尔（Wolfgang Mitter）梳理欧洲比较教育学科史，指出知识生产最初深植于大学与学术学会（如[[Comparative Education Society in Europe|欧洲比较教育学会]]），以[[Allgemeine Pädagogik|普通教育学]]、历史文化诠释与航行隐喻（辅助政策导航）为导向；20 世纪末期以来，知识生产主导权向超国家机构（[[IEA]]、[[OECD|经合组织]]）的标准化量化评测体系（如 [[PISA]]）转移，重塑了比较教育学科的认识论合法性基础。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 96–98)]]
 > - **1990s — [[Mode 2 Knowledge Production|Mode 2 知识生产]]理论确立** 迈克尔·吉本斯（Michael Gibbons）等人提出 Mode 2 概念，强调知识生产从传统象牙塔向多主体、跨学科、应用导向与[[Reflexivity|反思性]]情境转移。
-> - **2001–2009 — 普罗透斯式知识生产代际反思与历史维度重振** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]在《比较教育》与《比较教育学国际手册》系统剖析两百余年学科知识生产的四重论述代际，批判战后经验量化知识生产沦为技术官僚“[[Social Science as Legitimation Alibi|合法化借口]]”与“[[Empiricism|唯方法论主义]]”，以期刊计量数据诊断史学研究雪崩诱发的“历史失忆症”，确立历史学与社会科学综合生产新知的理性纲领。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–157)]]
+> - **2001–2009 — 普罗透斯式知识生产代际反思与历史维度重振** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]在《比较教育》与《比较教育学国际手册》系统剖析两百余年学科知识生产的四重论述代际，批判战后经验量化知识生产沦为技术官僚“[[Social Science as Legitimation Alibi|合法化借口]]”与“[[Empiricism|唯方法论主义]]”，以期刊计量数据诊断史学研究雪崩诱发的“[[Historical Amnesia|历史失忆症]]”，确立历史学与社会科学综合生产新知的理性纲领。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–157)]]
 > - **2010 — 亚洲作为方法与知识去帝国化** [[Chen Kuan-Hsing|陈光兴]]（Chen Kuan-Hsing）呼吁打破以西方为唯一样板的知识流动格局，将亚洲从分析客体转变为能动的知识生产主体。
 > - **2018 — 科学教育中的[[Epistemic Practices|认识论实践]]与本土共同体转向** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] 系统吸纳科学社会学实证成果，将知识生产主体确立为本土协商共同体，提出提出、沟通、评估与合法化的四维实践框架，并强调吸纳知识生产共同体说服优于强制的民主审议价值。
 > - **2018–2023 — 探究教学中的认识论要素规范化** 克拉克·A·钦与拉维特·戈兰·邓肯规范界定真实探究的认识论实质；[[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] 将自主生成新知与共同体社会化建构确立为区分真实[[Inquiry-Based Learning|指导式探究]]与传统被动灌输的关键标尺。
@@ -336,7 +337,7 @@ updated: 2026-10-01
 > > 争论社会科学知识生产应当追求跨时空的抽象规律与统计控制，还是扎根于长时段历史文化肌理与价值批判。
 > >
 > > - **实证指标生产派（Noah & Eckstein, 1969）** 主张知识生产应剥离历史叙事与价值偏好，依托跨国标准化测度与统计控制建立普适因果模型。
-> > - **历史认识论综合派（Kazamias, 2009a; Barber, 1973）** 坚决批判[[Empiricism|唯方法论主义]]盲目，指出脱离历史情境的知识生产不仅沦为官僚推卸责任的[[Social Science as Legitimation Alibi|合法化借口]]，更切断了与人类精神传统的血脉联系，诱发学科“历史失忆症”。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–152, 155–156)]]
+> > - **历史认识论综合派（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]; Barber, 1973）** 坚决批判[[Empiricism|唯方法论主义]]盲目，指出脱离历史情境的知识生产不仅沦为官僚推卸责任的[[Social Science as Legitimation Alibi|合法化借口]]，更切断了与人类精神传统的血脉联系，诱发学科“[[Historical Amnesia|历史失忆症]]”。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–152, 155–156)]]
 
 
 > [!warning] 适用局限
@@ -398,6 +399,6 @@ updated: 2026-10-01
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — [[Geopolitics of Knowledge|知识地缘政治]]专著，系统辨析学术知识生产的资本化、专利所有权剥离及[[Narrative Knowledge|叙事知识]]的全球萎缩。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — [[Governing by Numbers|数字治理]] 2.0 框架下解析[[OECD|经合组织]]与[[World Bank|世界银行]]的内部自指性知识生产、工具打包与[[Policy Brokerage|政策中介]]机制。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 梳理欧洲比较教育学科两百年发展史，阐明知识生产从大学席位主导的历史-哲学与[[Allgemeine Pädagogik|普通教育学]]诠释，转向跨国组织（[[IEA]]、[[OECD]]）主导的标准化量化评测与实证指标体系的历程与制度后果。
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统反思比较教育学知识生产的四重论述代际演化，批判战后经验量化知识生产沦为行政官僚“[[Social Science as Legitimation Alibi|合法化借口]]”与“[[Empiricism|唯方法论主义]]”的认识论异化，并以实证期刊计量数据确证史学研究雪崩诱发的“历史失忆症”危机（pp. 139–157）。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统反思比较教育学知识生产的四重论述代际演化，批判战后经验量化知识生产沦为行政官僚“[[Social Science as Legitimation Alibi|合法化借口]]”与“[[Empiricism|唯方法论主义]]”的认识论异化，并以实证期刊计量数据确证史学研究雪崩诱发的“[[Historical Amnesia|历史失忆症]]”危机（pp. 139–157）。
 > - [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] — 系统揭示人工智能介入对知识确证劳动力分工的深刻重构，阐明承载判断型协助置换[[Evaluative Judgement|评价性判断]]对学术探究与知识生产发展的潜在风险。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 129–131)]] — 梳理比较教育学科发展史，揭示知识生产从早期英美欧洲中心主义向全球多中心扩展的地缘变迁，以及从依赖[[Primary and Secondary Documents|二手文献]]的诠释论文向多元质性与量化实证研究策略的技术转型。

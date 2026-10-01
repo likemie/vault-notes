@@ -12,7 +12,7 @@ subtype: organization
 region: chile
 fact_region: "chile"
 fact_kind: "organization"
-fact_related_count: 34
+fact_related_count: 35
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Metacognition]]"
   - "[[Peer-Supported Learning]]"
+  - "[[Learnology]]"
   - "[[Positivism]]"
   - "[[Technical Rationality]]"
   - "[[Critical Pedagogy]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-01
 ---
 
 # SUMMA
@@ -120,7 +121,7 @@ updated: 2026-09-18
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **有效教育实践平台（Plataforma de Prácticas Educativas Efectivas）** 核心旗舰平台（[practicasefectivas.summaedu.org](https://practicasefectivas.summaedu.org/)），将英国 [[Education Endowment Foundation\|EEF]]《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》完整[[Transfer Translation Transformation\|转译]]为西班牙语与葡萄牙语，结合拉美实证[[Document\|文献]]对 30 余项干预策略（如[[Metacognition\|元认知]]、形成性反馈、[[Peer-Supported Learning\|同伴互助]]、显性教学等）进行本土[[Effect Size\|效应量]]、成本效益与证据质量评级。
-> - **EDU-LAC 影响力基金（Fondo Impacto EDU-LAC）** 由[[BHP Foundation\|必和必拓基金会]]支持设立的专项资助平台，在智利、巴拿马等国资助多项本土干预评估，涵盖识字干预（Kit Literacy+）、协作学习学校（Escuela de Aprendizaje Colaborativo）及教师专业发展等试点。
+> - **EDU-LAC 影响力基金（Fondo Impacto EDU-LAC）** 由[[BHP Foundation\|必和必拓基金会]]支持设立的专项资助平台，在智利、巴拿马等国资助多项本土干预评估，涵盖识字干预（Kit Literacy+）、协作[[Learnology|学习学]]校（Escuela de Aprendizaje Colaborativo）及教师专业发展等试点。
 > - **评估能力发展平台（Impacta+）** 与英国 EEF 和必和必拓基金会合作开发的循证评估公共品（[impactamas.summaedu.org](https://impactamas.summaedu.org/)），为政策制定者、研究机构与非营利组织提供因果评估设计指南、方法论工具箱与质控清单。
 > - **教育创新地图（Mapa de Innovaciones）** 系统测绘收录拉美和加勒比地区极具公平推广潜力的草根教育创新与制度化改革案例，搭建区域实践互鉴网络。
 > - **[[Knowledge and Innovation Exchange\|KIX]] LAC 区域中枢（Centro KIX LAC）** 与[[Global Partnership for Education\|全球教育伙伴关系]]（[[Global Partnership for Education\|GPE]]）及加拿大 IDRC 共同运作的跨国知识交换网络，为多米尼加、萨尔瓦多、危地马拉、海地、洪都拉斯、尼加拉瓜等国提供精准循证政策技术援助。

@@ -2,7 +2,7 @@
 title: Development Education
 type: concept
 domain: "comparative-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -36,6 +36,7 @@ related_facts:
   - "[[UN Sustainable Development Goals]]"
   - "[[Comparative and International Education Society]]"
 related_persons:
+  - "[[Philip Altbach]]"
   - "[[Val D. Rust]]"
 updated: 2026-10-01
 ---
@@ -74,7 +75,7 @@ updated: 2026-10-01
 
 发展教育与比较教育学长达数十年的竞合关系反映了该领域深刻的内在张力：
 - **学术深度与应用实务之争** 传统学界曾指责发展教育偏向“政策报告”与“咨询实务”，缺乏扎实的比较方法论框架；而发展教育学者则批评传统比较教育脱离全球南方真实危机，陷入闭门造车的欧洲中心主义；
-- **学科共同体的最终整合** 如 Philip G. Altbach 与 [[Val D. Rust]] 所指出，随着全球化加深以及比较教育学会（如 [[Comparative and International Education Society|CIES]]）内部对全球南方议题的全面接纳，发展教育研究不仅未被边缘化，反而在后冷战时代成为比较与[[International Education|国际教育]]研究（Comparative and International Education）中体量最大、资金与政策影响力最广的核心支柱之一。
+- **学科共同体的最终整合** 如 [[Philip Altbach|Philip G. Altbach]] 与 [[Val D. Rust]] 所指出，随着全球化加深以及比较教育学会（如 [[Comparative and International Education Society|CIES]]）内部对全球南方议题的全面接纳，发展教育研究不仅未被边缘化，反而在后冷战时代成为比较与[[International Education|国际教育]]研究（Comparative and International Education）中体量最大、资金与政策影响力最广的核心支柱之一。
 
 ---
 

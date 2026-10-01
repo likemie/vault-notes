@@ -10,7 +10,7 @@ summary: "奥地利裔英国科学哲学家与社会哲学家，提出可证伪�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -55,11 +55,12 @@ related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
 related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-09-24
+updated: 2026-10-02
 ---
 
 # Karl Popper
@@ -204,3 +205,4 @@ updated: 2026-09-24
 > | [[Scientific Paradigm]] | 概念 | 构成战后比较教育科学范式中反普遍[[Determinism\|决定论]]、主张权变法则的理论支柱。 |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] | 论证 | 考据波普尔证伪主义、推测性知识对现代教育研究方法论[[Paradigm\|范式]]划分的奠基贡献。 |
 > | [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] | 论证 | 系统阐述波普尔批判二元论如何作为[[Epistemology\|认识论]]基石被霍姆斯用于重构比较教育学。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 卡扎米亚斯明确将波普尔的假说-演绎法作为霍姆斯战后实证科学化运动的核心哲学来源，纳入比较教育学四重论述代际谱系。 |

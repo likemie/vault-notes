@@ -8,7 +8,7 @@ summary: "英裔美籍教育社会学家与比较教育学家，芝加哥大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 28
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -35,7 +35,9 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Technical Rationality]]"
   - "[[Operationalization]]"
+  - "[[Working Hypothesis]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Questionnaire]]"
@@ -70,7 +72,7 @@ updated: 2026-10-01
 
 > [!person-profile] 人物档案
 > - **身份位置** 英裔美籍比较教育学家、教育社会学家，芝加哥大学教育与社会学系教授兼比较教育研究中心（[[Comparative Education Center at Chicago 1958\|Comparative Education Center]]）副主任，后任纽约州立大学奥尔巴尼分校杰出教授；曾任美国[[Comparative and International Education Society\|比较与国际教育学会]]（Comparative and [[International Education]] Society, CIES）主席（1979–1980 年）。
-> - **核心角色** 比较教育第三论述代际（社会科学与[[Positivism|实证主义]]代际）芝加哥学派的核心代表，与导师C·[[C. Arnold Anderson|阿诺德·安德森]]（C. Arnold Anderson）并肩引领了战后美国比较教育的“经验社会学与科学化转向”；将结构功能主义系统引入跨国比较，对战前欧洲历史-文化学派发起猛烈方法论清算，同时是国际[[Development Education\|发展教育]]学界“职业学校谬误”理论的创立者。
+> - **核心角色** 比较教育第三论述代际（社会科学与[[Positivism|实证主义]]代际）芝加哥学派的核心代表，与导师C·[[C. Arnold Anderson|阿诺德·安德森]]（C. Arnold Anderson）并肩引领了战后美国比较教育的“经验社会学与科学化转向”；将[[Structural Functionalism|结构功能主义]]系统引入跨国比较，对战前欧洲历史-文化学派发起猛烈方法论清算，同时是国际[[Development Education\|发展教育]]学界“职业学校谬误”理论的创立者。
 > - **代表贡献** 在 1960 年论文中严厉指责历史学只处理特定时空不可重复的个殊现象，断言比较教育必须转型为探求重复模式与恒常通则的经验社会科学；1965 年发表传世论文《发展规划中的职业学校谬误》，重构了发展中国家劳动力市场理性与课程改革关系的认知[[Paradigm|范式]]；其加纳实证调查开创了大规模跨国[[Questionnaire|问卷]]抽样调查的典范。
 
 > [!citation-card] Kazamias论芝加哥学派的结构功能分析与实证规律建构
@@ -141,7 +143,7 @@ updated: 2026-10-01
 
 ### 命题三　教育制度与社会矩阵之间存在超越时空的恒常结构规律
 
-> [!concept-lens] 芝加哥学派的结构功能主义维度
+> [!concept-lens] 芝加哥学派的[[Structural Functionalism|结构功能主义]]维度
 > 探讨教育系统作为社会子系统如何与宏观社会结构发生稳定的功能性关联。
 
 > [!claim] Foster, P.; [[C. Arnold Anderson|Anderson, C. A.]]
@@ -178,7 +180,7 @@ updated: 2026-10-01
 > > [!axis] 个殊历史阐释 vs 普遍社会学模式
 > > 争论焦点在于比较教育应当服务于理解深层历史文化脉络，还是致力于提炼跨国恒常法则。
 > >
-> > - **福斯特与安德森（芝加哥学派）** 坚决主张抛弃不可复制的历史个殊叙事，通过[[Variable|变量]][[Operationalization|操作化]]构建跨文化的结构功能主义普遍规律。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 146–147)]]
+> > - **福斯特与安德森（芝加哥学派）** 坚决主张抛弃不可复制的历史个殊叙事，通过[[Variable|变量]][[Operationalization|操作化]]构建跨文化的[[Structural Functionalism|结构功能主义]]普遍规律。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 146–147)]]
 > > - **卡扎米亚斯与比较史学家** 批评福斯特对历史学的理解过于教条化，指出历史比较完全能够通过克兰·[[Crane Brinton|布林顿]]式的中程假说实现规律提炼，而抽离历史脉络的量化模型极易沦为去情境化的技术空转。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 56)]]
 >
 > > [!axis] 技术中立规划 vs 依附主义合法化反思
@@ -212,13 +214,13 @@ updated: 2026-10-01
 > | [[Historical-Comparative Method\|历史比较法]] | 方法 | 福斯特批判的传统方法，促使比较史学派反思并重建历史解释的科学性。 |
 > | [[Comparative Education Center at Chicago 1958\|芝加哥大学比较教育中心]] | 事实 | 福斯特担任副主任并开展长期跨国实证调查的学术大本营。 |
 > | [[Comparative and International Education Society\|比较与国际教育学会]] | 事实 | 1979–1980 年出任学会会长，巩固实证社会学在北美学会的权威地位。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 确立福斯特在第三论述代际结构功能主义与合法化借口分析中的关键地位。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 确立福斯特在第三论述代际[[Structural Functionalism\|结构功能主义]]与合法化借口分析中的关键地位。 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 详细考证第三论述代际芝加哥学派（Anderson & Foster）的结构功能主义分析模式，评述其寻找超越时空恒常规律的志趣，并揭示其作为战后国家计划与技术援助[[Social Science as Legitimation Alibi|合法化借口]]的政治功能（pp. 146–147, 150–151）。
-> - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 梳理福斯特 1960 年论文对历史学派个殊性的猛烈批评，以及卡扎米亚斯对[[Crane Brinton|布林顿]]式历史探索性假说的辩护。
+> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 详细考证第三论述代际芝加哥学派（Anderson & Foster）的[[Structural Functionalism|结构功能主义]]分析模式，评述其寻找超越时空恒常规律的志趣，并揭示其作为战后国家计划与技术援助[[Social Science as Legitimation Alibi|合法化借口]]的政治功能（pp. 146–147, 150–151）。
+> - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 梳理福斯特 1960 年论文对历史学派个殊性的猛烈批评，以及卡扎米亚斯对[[Crane Brinton|布林顿]]式[[Working Hypothesis|历史探索性假说]]的辩护。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 评析福斯特与安德森在[[Scientific Paradigm|科学范式]]中建立的社会系统恒常关系理论。

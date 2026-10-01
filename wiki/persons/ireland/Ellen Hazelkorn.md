@@ -7,10 +7,10 @@ summary: "爱尔兰高等教育学者，全球大学排名研究代表人物，�
 type: person
 nationality: ireland
 person_region: "ireland"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1953"
 died: ""
 lifespan: "1953–至今"
@@ -29,14 +29,15 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
-related_persons: []
+related_persons:
+  - "[[Philip Altbach]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Boyadjieva_2022_Springer]]"
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-09-11
+updated: 2026-10-01
 ---
 # Ellen Hazelkorn
 
@@ -89,6 +90,6 @@ updated: 2026-09-11
 > [!success]
 > - 排名研究的奠基性工作——其 2014 年国际调查数据和 2015 年专著被后续排名研究广泛引为基础参照
 > - 影响了 [[Geopolitics of Knowledge]] 概念中关于排名作为地缘政治机制的讨论
-> - 与 Philip Altbach 联合呼吁高校"专注于使命，而非排名"（Altbach & Hazelkorn, 2017），影响了政策讨论的方向
+> - 与 [[Philip Altbach]] 联合呼吁高校"专注于使命，而非排名"（Altbach & Hazelkorn, 2017），影响了政策讨论的方向
 
 ---

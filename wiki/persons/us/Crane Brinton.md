@@ -10,7 +10,7 @@ summary: "美国著名历史学家、哈佛大学讲席教授与美国历史学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
+  - "[[Working Hypothesis]]"
   - "[[Hypothesis]]"
   - "[[Falsification]]"
   - "[[Postpositivism]]"
@@ -56,7 +57,7 @@ updated: 2026-10-01
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名历史学家、比较史学与思想史先驱，哈佛大学麦克莱恩古今史讲席教授（McLean Professor of Ancient and Modern History），曾任美国历史学会（American Historical Association）主席（1958 年）。
 > - **核心角色** 在比较教育学方法论大论战中，布林顿被[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）引为最具决定性的[[Epistemology\|认识论]]支柱，其比较史学[[Paradigm\|范式]]成功击碎了[[Positivism\|实证主义]]所谓“个殊历史事实不可比较、无法构建科学理论”的狭隘教条。
-> - **代表贡献** 著有比较史学传世经典《革命的解剖》（*The Anatomy of Revolution*, 1938）；系统论证历史学者完全能够对特定时空的具体现象进行分类归纳，提炼出中程的**非普适探索性假说（working [[Hypothesis\|hypotheses]] of a limited nature）**，为质性[[Historical-Comparative Method\|历史比较法]]在理论建构与因果阐释上确立了现代学术合法性。
+> - **代表贡献** 著有比较史学传世经典《革命的解剖》（*The Anatomy of Revolution*, 1938）；系统论证历史学者完全能够对特定时空的具体现象进行分类归纳，提炼出中程的**非普适[[Working Hypothesis|探索性假说]]（working [[Hypothesis\|hypotheses]] of a limited nature）**，为质性[[Historical-Comparative Method\|历史比较法]]在理论建构与因果阐释上确立了现代学术合法性。
 
 > [!citation-card] 卡扎米亚斯论布林顿的非普适探索性假说方法
 > 正如杰出的比较史学家克莱恩·布林顿所证明的那样，对历史现象进行归类并为了进行概括而展开比较是完全可行的。尽管此类概括可能具有有限性而非普遍性的本质，但它们反过来能够作为工作假说，在其他类似情境中接受检验以照亮那些情境。换句话说，通过对具体、特定和个殊史实的考察，具有历史眼光的比较教育学者能够归纳出一种概括，并用它来照亮另一个独特的事件或形态。(Brinton, 1938/1952; Kazamias, 1963, p. 396; [[Argument_Kazamias_2009_ForgottenThemes|Kazamias, 2009b, p. 56]])
@@ -97,7 +98,7 @@ updated: 2026-10-01
 > 布林顿展示了历史比较如何在尊重具体时空个殊性的同时，提炼出具有理论建构效能的中程假说。
 
 > [!claim] Brinton, C.
-> **非普适探索性假说在跨情境历史解释中的效能** 布林顿在《革命的解剖》中论证，历史学绝非只能罗列杂乱无章的个别事实；比较学者完全能够对历史现象加以归类比对，提炼出结构性的理论假说。这些假说虽然受到具体历史边界制约，具有“非普适性（limited rather than universal nature）”，但绝非无能的猜测；它们能作为动态运转的“探索性假说（working [[Hypothesis\|hypotheses]]）”投射至其他面临类似结构性矛盾的个案中接受检验，并反过来照亮另一个具体的历史事件。[[Argument_Kazamias_2009_ForgottenThemes\|(Brinton, 1938/1952; Kazamias, 2009b, p. 56)]]
+> **非普适[[Working Hypothesis|探索性假说]]在跨情境历史解释中的效能** 布林顿在《革命的解剖》中论证，历史学绝非只能罗列杂乱无章的个别事实；比较学者完全能够对历史现象加以归类比对，提炼出结构性的理论假说。这些假说虽然受到具体历史边界制约，具有“非普适性（limited rather than universal nature）”，但绝非无能的猜测；它们能作为动态运转的“探索性假说（working [[Hypothesis\|hypotheses]]）”投射至其他面临类似结构性矛盾的个案中接受检验，并反过来照亮另一个具体的历史事件。[[Argument_Kazamias_2009_ForgottenThemes\|(Brinton, 1938/1952; Kazamias, 2009b, p. 56)]]
 
 ---
 
@@ -129,7 +130,7 @@ updated: 2026-10-01
 > - **比较教育学[[Epistemology|认识论]]辩护** 被卡扎米亚斯在 1963 年论战及 2009 年《国际手册》两篇纲领性论著中反复援引，成为打破战[[Postpositivism|后实证主义]]对“比较”与“科学”狭隘垄断的关键史学认识论武器。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 56)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 151–152)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯在历史-哲学母题论述中援引布林顿比较史学，论证非普适工作假说在跨情境历史比较中的理论建构效能。
+> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯在历史-哲学母题论述中援引布林顿比较史学，论证非普适[[Working Hypothesis|工作假说]]在跨情境历史比较中的理论建构效能。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯在学科两百年历史反思中再次重申布林顿命题，驳斥历史仅处理独特个别事实而无法比较的实证偏见，确立历史学与社会科学在普遍性与个殊性关怀上的同构性。
 
 ---
@@ -149,7 +150,7 @@ updated: 2026-10-01
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 战后比较教育史学家，在 1963 年与 2009 年论著中系统援引布林顿史学方法捍卫[[Historical-Comparative Method\|历史比较法]]的科学合法性。 |
-> | [[Historical-Comparative Method\|历史比较法]] | 方法 | 布林顿关于非普适探索性假说与历史分类归纳的论述为历史比较法提供了核心因果解释依据。 |
+> | [[Historical-Comparative Method\|历史比较法]] | 方法 | 布林顿关于非普适[[Working Hypothesis\|探索性假说]]与历史分类归纳的论述为历史比较法提供了核心因果解释依据。 |
 > | [[Hypothesis\|假设]] | 概念 | 提出“有限工作假说”（working hypotheses of a limited nature），超越全称普遍法则与个殊碎片的二元对立。 |
 > | [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] | 论证 | 征引布林顿《革命的解剖》，阐明历史学者从个殊史实归纳工作假说并在新情境中检验的机制。 |
 > | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 重申布林顿对历史事实可比性与非普适假说建构的[[Epistemology\|认识论]]辩护，破除[[Positivism\|实证主义]]唯方法论偏见。 |

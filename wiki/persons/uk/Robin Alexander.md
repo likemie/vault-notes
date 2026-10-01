@@ -8,7 +8,7 @@ summary: "剑桥大学教育学教授、英国学术院院士，跨国课堂教�
 type: person
 nationality: "uk"
 person_region: "uk"
-person_related_count: 25
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Comparative Pedagogy]]"
   - "[[Dialogue in Education]]"
   - "[[Epistemology]]"
+  - "[[Learnology]]"
   - "[[Paradigm]]"
   - "[[Effective Teaching]]"
   - "[[Rich and Thick Description]]"
@@ -40,6 +41,7 @@ related_methods:
   - "[[Ethnography]]"
 related_instruments: []
 related_persons:
+  - "[[Patricia Broadfoot]]"
   - "[[David Phillips]]"
   - "[[Lev Vygotsky]]"
   - "[[Michael Sadler]]"
@@ -72,7 +74,7 @@ updated: 2026-10-01
 > [!citation-card] 卡扎米亚斯论亚历山大与英国比较教育微观教学转向
 > 在英国比较教育的学术景观中，展现出若干鲜明的[[Epistemology|认识论]]与方法论新取向：首先，是对微观课堂教学与学习过程本身的重新聚焦，即亚历山大所开创的‘比较教学论’；其次，是对情境与文化长久以来的坚守。这两种学术取向使英国比较教育相比于美国同行更具人道与人文关怀，看待世界的方式也更少受到机械主义与功利经济算计的驱使。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, p. 155)]]
 >
-> *On the British comparative education landscape, several other differentiating epistemological-cum-methodological characteristics and new orientations are patently visible. First, there is the renewed emphasis on what many years back we had called 'comparative pedagogy', a most important aspect of the process of education, and what Broadfoot has called 'learneology' of education (Alexander et al., 1999; Broadfoot, 1999). Second, I wish to underline the British traditional and lately reinvented emphasis on contexts and cultures... These two epistemic emphases render the British comparative education more human and humane than the American, and the way of reading the world less mechanistically and economically motivated.*
+> *On the British comparative education landscape, several other differentiating epistemological-cum-methodological characteristics and new orientations are patently visible. First, there is the renewed emphasis on what many years back we had called 'comparative pedagogy', a most important aspect of the process of education, and what Broadfoot has called '[[Learnology|Learneology]]' of education (Alexander et al., 1999; Broadfoot, 1999). Second, I wish to underline the British traditional and lately reinvented emphasis on contexts and cultures... These two epistemic emphases render the British comparative education more human and humane than the American, and the way of reading the world less mechanistically and economically motivated.*
 
 ---
 
@@ -94,7 +96,7 @@ updated: 2026-10-01
 ## 主要著作与学术建树
 
 > [!work-line] 代表著作
-> - **1999 — *Learning from Comparing: New Directions in Comparative Educational Research* (Ed.)** 与帕特丽夏·布罗德富特（Patricia Broadfoot）及戴维·菲利普斯（[[David Phillips]]）合编，奠定英国学派微观比较方法论转向。
+> - **1999 — *Learning from Comparing: New Directions in Comparative Educational Research* (Ed.)** 与[[Patricia Broadfoot|帕特丽夏·布罗德富特]]（Patricia Broadfoot）及戴维·菲利普斯（[[David Phillips]]）合编，奠定英国学派微观比较方法论转向。
 > - **2000 — *Culture and Pedagogy: International Comparisons in Primary Education*** 跨国课堂教学研究的里程碑巨著，系统建构了解析课堂微观运作与宏观文化理念的多维理论矩阵。
 > - **2006 — *Towards [[Dialogue in Education|dialogic teaching]]: Rethinking Classroom Talk*** 系统提出对话教学的五大原则（集体性、互惠性、支持性、累积性、目的性），推动全球课堂话语革命。
 > - **2010 — *Children, Their World, Their Education: Final Report and Recommendations of the Cambridge Primary Review*** 主笔全英初等教育综合调查终期报告，全方位重构初等教育目标、课程与评估框架。
@@ -131,6 +133,7 @@ updated: 2026-10-01
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Comparative Pedagogy\|比较教学论]] | 概念 | 开创宗师；通过五国初等教育跨文化比较确立该领域的核心[[Construct\|构念]]与[[Analytic Framework\|分析框架]]。 |
+> | [[Learnology\|微观学习学]] | 概念 | 与亚历山大的比较教学论相呼应，共同构成英国比较教育微观转向的双翼。 |
 > | [[Dialogue in Education\|对话教学]] | 概念 | 核心理论建构；提炼集体性、互惠性、累积性等五大原则，推动全球课堂话语变革。 |
 > | [[Intangible Spiritual Forces\|无形精神力量]] | 概念 | 继承[[Michael Sadler\|萨德勒]]思想，将潜沉在社会深处的文化精神精准定位到课堂师生互动话语中。 |
 > | [[Scholiocentric Approach\|以校为中心取向]] | 概念 | 超越早期行政视察的以校为中心表面白描，开辟了文化解释学深度的课堂教学研究。 |
@@ -138,5 +141,6 @@ updated: 2026-10-01
 > | [[Fieldwork\|田野调查]] | 方法 | 倡导深入跨国五国数十所小学教室展开长时段第一手观察与田野互动。 |
 > | [[Ethnography\|民族志]] | 方法 | 运用录像[[Rich and Thick Description\|深描]]与跨文化话语微观分析，确立了课堂民族志的标准[[Paradigm\|范式]]。 |
 > | [[Michael Sadler\|迈克尔·萨德勒]] | 人物 | 英国比较教育思想先驱，其文化情境与活体有机体观构成了亚历山大理论的精神底座。 |
+> | [[Patricia Broadfoot\|帕特丽夏·布罗德富特]] | 人物 | 英国学派长期核心合作学者，联合开辟初等教育课堂比较跨国网络。 |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 在学科史反思中将亚历山大的比较教学论定性为英国比较教育抵御美国机械[[Positivism\|实证主义]]的杰出代表。 |
 > | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 权威评述亚历山大倡导的比较教学论在英国比较教育抵御经济主义短视中的里程碑意义。 |

@@ -9,7 +9,7 @@ aliases:
 summary: "质性研究与扎根理论中探索、理解与理论建构的统摄性轴心概念，在研究设计中界定单一研究聚焦点，在主轴与选择性编码中作为具备最大解释力的核心范畴统摄全部因果机制与故事线。"
 type: concept
 domain: "research-methodology"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Construct]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Phenomenology]]"
 related_methods:
   - "[[Grounded Theory]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-31
-updated: 2026-09-23
+updated: 2026-10-01
 ---
 
 # Central Phenomenon
@@ -198,7 +199,7 @@ flowchart TD
 > > 争论理论建构是否必须强行收敛于单一核心范畴，抑或可以容纳多个并列或块茎式（Rhizomatic）的分布式理论中心。
 > >
 > > - **Strauss & Corbin (1990)** 坚持一元整合原则，认为[[Grounded Theory\|扎根理论]]必须具备一个主导性核心范畴，否则理论将失去概念聚集力与清晰的[[Story Line\|故事线]]。
-> > - **[[Constructivist Paradigm\|建构主义]]与后现代学者（Charmaz, 2006; Clarke, 2005）** 批评强求单一核心范畴是结构功能主义的简化残余，主张社会生活充满多重矛盾与去中心化特征，应允许情境分析（Situational Analysis）展现多元弥散的理论构型。
+> > - **[[Constructivist Paradigm\|建构主义]]与后现代学者（Charmaz, 2006; Clarke, 2005）** 批评强求单一核心范畴是[[Structural Functionalism|结构功能主义]]的简化残余，主张社会生活充满多重矛盾与去中心化特征，应允许情境分析（Situational Analysis）展现多元弥散的理论构型。
 >
 > > [!axis] 预先设计锚定（Pre-figured） vs 完全后生[[Emergence\|涌现]]（Emergent）
 > > 争论研究者在进入田野前是否可以在[[Purpose Statement\|目的陈述]]中预设尝试性核心现象。

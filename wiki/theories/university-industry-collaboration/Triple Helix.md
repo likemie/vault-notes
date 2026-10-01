@@ -8,7 +8,7 @@ aliases:
 summary: "Etzkowitz and Leydesdorff（1995）提出的大学-产业-政府关系模型，认为在以知识为基础的经济发展中，三个制度领域日益相互交织，形成动态的创新系统"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 33
+theory_related_count: 35
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -39,8 +39,10 @@ related_concepts:
 related_theories:
   - "[[Systems of Innovation]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Vannevar Bush]]"
 related_facts:
+  - "[[Bell Labs]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
   - "[[Bayh-Dole Act of 1980]]"
@@ -59,7 +61,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-09-18
+updated: 2026-10-02
 ---
 
 # Triple Helix
@@ -92,13 +94,13 @@ updated: 2026-09-18
 
 许多当今顶尖研究型大学在 1800 年代创立时就内嵌了服务工业和地方经济的使命（Martin, 2012）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.37–38]])：英国 UCL、KCL、伯明翰、谢菲尔德、曼彻斯特等大学致力于服务现代工业社会；MIT（1861）、Georgia Tech（1885）、帝国理工（1907）等理工学院以专业技术培训和满足产业需求为核心使命；1862/1890 年美国 Morrill Acts 通过赠地建立学院并提供农业推广服务，将大学-政府-产业互动制度化。
 
-但在二十世纪初期，大[[Corporate R&D Labs|企业中央研发实验室]]的兴起改变了三重螺旋的动态——企业建立内部科研能力，降低了对大学的依赖。AT&T 贝尔实验室、Xerox PARC、IBM Research 等企业实验室在科学产出上甚至可与顶尖大学匹敌（Arora et al., 2020）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.35–37]])。
+但在二十世纪初期，大[[Corporate R&D Labs|企业中央研发实验室]]的兴起改变了三重螺旋的动态——企业建立内部科研能力，降低了对大学的依赖。AT&T [[Bell Labs|贝尔实验室]]、Xerox PARC、IBM Research 等企业实验室在科学产出上甚至可与顶尖大学匹敌（Arora et al., 2020）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.35–37]])。
 
 ---
 
 ### 二战后：政府主导的三重螺旋（1940s–1970s）
 
-二战经验——曼哈顿计划（由 UC Berkeley 的 Oppenheimer 领导）、MIT 辐射实验室的雷达研究——戏剧性地展示了三方协作的巨大潜力。战后，Vannevar Bush 的 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）将[[Blue Skies Research|基础研究]]确立为国家战略优先事项，催生了 [[National Science Foundation|NSF]] 和国防部对大学的大规模研究资助([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.28–29]])。
+二战经验——曼哈顿计划（由 UC Berkeley 的 Oppenheimer 领导）、MIT 辐射实验室的雷达研究——戏剧性地展示了三方协作的巨大潜力。战后，[[Vannevar Bush]] 的 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）将[[Blue Skies Research|基础研究]]确立为国家战略优先事项，催生了 [[National Science Foundation|NSF]] 和国防部对大学的大规模研究资助([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, pp.28–29]])。
 
 然而这一时期的三重螺旋存在一个悖论：政府资金大幅扩张了大学研究能力，但大学与产业的具体需求反而**脱钩（decoupled）**——大学更聚焦于教师主导的基础研究和人才培养，对与产业密切合作日益怀疑甚至撤退（Arora et al., 2020; Youtie & Shapira, 2008）([[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025, p.38]])。
 

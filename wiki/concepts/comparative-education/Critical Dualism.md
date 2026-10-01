@@ -9,7 +9,7 @@ aliases:
 summary: "由布赖恩·霍姆斯从卡尔·波普尔科学哲学引入比较教育学的方法论基石，将人类教育事务严格划分为人为设立且可变更的规范法则与具有情境权变性、用于描述机构功能运行并接受经验证伪的社会学法则"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -56,10 +56,12 @@ related_persons:
   - "[[Philip Foster]]"
 related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
+related_theories:
+  - "[[Structural Functionalism]]"
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-24
+updated: 2026-10-01
 ---
 
 # Critical Dualism
@@ -83,7 +85,7 @@ updated: 2026-09-24
 
 > [!boundary]- 概念边界
 > - 不等于 [[René Descartes\|笛卡尔]]的身心二元论（Mind-Body Dualism） — 批判二元论是社会认识论与方法论范畴，而非本体论实体二元论；它划分的是“价值规范公约”与“机构功能规律”。
-> - 不等于 结构功能主义决定论 — 批判二元论确立了人类自由意志与规范反思的独立地位，坚信人类可以自主审视并重塑教育规范。
+> - 不等于 [[Structural Functionalism|结构功能主义]]决定论 — 批判二元论确立了人类自由意志与规范反思的独立地位，坚信人类可以自主审视并重塑教育规范。
 > - 不适用于 否认机构功能客观规律存在、将一切社会现实皆视为语言符号纯粹建构的激进相对主义研究。
 
 ---

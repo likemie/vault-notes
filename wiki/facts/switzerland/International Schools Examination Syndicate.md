@@ -127,7 +127,7 @@ updated: 2026-09-29
 >
 > | 行动者 | 组织位置与资源 | 对 ISES 的具体贡献 |
 > |:---|:---|:---|
-> | **[[John Goormaghtigh\|约翰·戈尔马蒂赫]]（John Goormaghtigh）** | [[International School of Geneva\|Ecolint]] 董事会主席、卡内基国际和平基金会欧洲办事处主任及国际律师。 | 接受 ISES 主席职务后不久辞去 Ecolint 主席，集中领导 ISES／IBO；以跨文化协调和法律经验维持治理连续性，任理事会主席至 1980 年。 |
+> | **[[John Goormaghtigh\|约翰·戈尔马蒂赫]]（John Goormaghtigh）** | [[International School of Geneva\|Ecolint]] 董事会主席、卡内基国际和平基金会欧洲办事处主任及国际律师。 | 接受 ISES 主席职务后不久辞去 Ecolint 主席，集中领导 ISES／[[International Baccalaureate\|IBO]]；以跨文化协调和法律经验维持治理连续性，任理事会主席至 1980 年。 |
 > | **乔治·潘绍（Georges Panchaud）** | 洛桑大学教育学教授。 | 成为最早加入项目、具有国际声誉和联系的教育学者，为教师网络增加专业信誉。 |
 > | **让·西奥蒂（Jean Siotis）** | 卡内基欧洲办事处希腊籍助理主任。 | 参加理事会并主持第一届考试委员会，负责 Ecolint 当代史试验考试。 |
 > | **[[Gerard Renaud]] and Halls** | Ecolint 哲学教师与 Oxford 比较教育研究者。 | 分别推进课程结构与学科大纲、比较课程研究、考试性质说明和样题。 |
@@ -167,7 +167,7 @@ updated: 2026-09-29
 > ```
 
 > [!case] 塞夫尔会议的期限迫使五条工作线同步完成
-> 福特基金要求召开一次主要国际会议，阿廷盖夫人提出由塞夫尔[[International Education\|国际教育]]研究中心在 1967 年 2 月承办。会议邀请掌握课程、考试、政府许可和大学录取权的代表，不再只是教师与支持者的自由聚会。[[Alec Peterson]] 负责招募地理和制度背景不同的试验学校，[[Gerard Renaud]] and Halls 完成课程、大纲、考试说明和样题。到会议召开时，ISES／IBO 已能同时提交课程结构、考试原则和九所愿意合作的学校，并要求各国大学和主管机关考虑有限承认。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 26–31)]]
+> 福特基金要求召开一次主要国际会议，阿廷盖夫人提出由塞夫尔[[International Education\|国际教育]]研究中心在 1967 年 2 月承办。会议邀请掌握课程、考试、政府许可和大学录取权的代表，不再只是教师与支持者的自由聚会。[[Alec Peterson]] 负责招募地理和制度背景不同的试验学校，[[Gerard Renaud]] and Halls 完成课程、大纲、考试说明和样题。到会议召开时，ISES／[[International Baccalaureate|IBO]] 已能同时提交课程结构、考试原则和九所愿意合作的学校，并要求各国大学和主管机关考虑有限承认。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 26–31)]]
 
 > [!finding-cards] ISES 建立的四项制度能力
 > 1. **法律与财政能力** 独立协会可以接收资金、聘任人员并对跨年度项目负责。
@@ -180,7 +180,7 @@ updated: 2026-09-29
 ## 名称、权力与叙事差异
 
 > [!term] Syndicate 的来源与法语歧义
-> ISES 名称中的 *Syndicate* 很可能借鉴剑桥普通教育证书（General Certificate of Education，GCE）考试机构 Cambridge Syndicate，显示英国考试制度对命名的影响。在英法双语组织中，这一选择并不理想，因为法语 *syndicat* 通常指工会。1967 年采用 IBO 名称后，组织名称更直接指向所管理的[[International Baccalaureate\|国际文凭]]项目。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 19, 23)]]
+> ISES 名称中的 *Syndicate* 很可能借鉴剑桥普通教育证书（General Certificate of Education，GCE）考试机构 Cambridge Syndicate，显示英国考试制度对命名的影响。在英法双语组织中，这一选择并不理想，因为法语 *syndicat* 通常指工会。1967 年采用 [[International Baccalaureate|IBO]] 名称后，组织名称更直接指向所管理的[[International Baccalaureate\|国际文凭]]项目。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 19, 23)]]
 
 > [!tension] Oxford 介入的两种当事人叙事
 > - **Martin Mayer 的接管叙事** 1965 年中至 1966 年中，ISES 经历人员、财务和学科会议危机；Ford 谈判停滞后，Oxford 坚定接管项目，执行中心随之转移。
@@ -198,7 +198,7 @@ updated: 2026-09-29
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[Founding of the International Baccalaureate]] | 事件 | ISES 是把教师倡议转化为资格制度的组织载体。 |
-> | [[1967 Sevres International Conference on the IB]] | 事件 | ISES／IBO 在会议上提交课程、考试与六年试验方案。 |
+> | [[1967 Sevres International Conference on the IB]] | 事件 | ISES／[[International Baccalaureate\|IBO]] 在会议上提交课程、考试与六年试验方案。 |
 > | [[International Baccalaureate]] | 概念 | ISES 负责早期课程和考试项目的制度化。 |
 > | [[International Schools]] | 概念 | [[International School of Geneva\|Ecolint]] and [[International Schools Association\|ISA]] 提供教师网络和初始项目空间，也因自身能力边界推动独立组织形成。 |
 > | [[John Goormaghtigh]] | 人物 | 长期主持理事会并提供国际法律与治理连续性。 |

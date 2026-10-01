@@ -6,7 +6,7 @@ summary: "批判理论的核心质性方法论，通过反思实践揭示社会�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
+method_related_count: 39
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Postpositivism]]"
 related_theories:
   - "[[Critical Theory]]"
+  - "[[Structural Functionalism]]"
   - "[[Critical Pluralism]]"
 related_methods:
   - "[[Qualitative Research]]"
@@ -189,4 +190,4 @@ updated: 2026-10-01
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011, pp. 117–149)]] — 以[[Jürgen Habermas|哈贝马斯]]三种认识兴趣为框架，对 Tyler 的课程原理和英国国家课程进行意识形态批判，揭示技术兴趣在课程中的支配地位和解放兴趣的缺失。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128, 132–133)]] — 在比较教育学科发展史综述中，将意识形态批判定位为挑战战[[Postpositivism|后实证主义]][[Value Neutrality|价值中立]]神话、打破单一结构功能主义霸权并确立[[Critical Pluralism|批判多元主义]][[Paradigm|范式]]的关键学术进路。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128, 132–133)]] — 在比较教育学科发展史综述中，将意识形态批判定位为挑战战[[Postpositivism|后实证主义]][[Value Neutrality|价值中立]]神话、打破单一[[Structural Functionalism|结构功能主义]]霸权并确立[[Critical Pluralism|批判多元主义]][[Paradigm|范式]]的关键学术进路。

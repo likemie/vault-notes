@@ -9,10 +9,10 @@ summary: "美国比较教育学家，加州大学洛杉矶分校（UCLA）荣休
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 38
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 41
+person_related_level: 5
+person_related_stars: "⭐⭐⭐⭐⭐"
+person_related_color: "#ffedd5"
 born: "1934"
 lifespan: "1934–至今"
 tags:
@@ -37,9 +37,11 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Commensuration]]"
+  - "[[Historical Amnesia]]"
 related_theories:
   - "[[Pluralism]]"
   - "[[Typology of Educational Responses to Globalization]]"
+  - "[[Structural Functionalism]]"
   - "[[Critical Theory]]"
   - "[[Dependency Theory]]"
 related_methods:
@@ -64,10 +66,11 @@ related_facts:
   - "[[International Monetary Fund]]"
 related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Val D. Rust
@@ -106,7 +109,7 @@ updated: 2026-10-01
 > - **1967 — *German Interest in Foreign Education Since World War I*** 博士学位论文，系统梳理德国现代历史上对外部国家教育体制的借鉴与反思，奠定[[Influences Across Cultures|跨文化影响]]研究的实证史学基石。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 126)]]
 > - **1989 — *The Democratic Tradition and the Evolution of Schooling in Norway*** 追踪挪威十九世纪以来的民主政治传统与学校制度演进，提出[[Policy Borrowing|政策借用]]从发起调研、凝聚共识、法定架构到落地实施的四阶段模型。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 124)]]
 > - **1999 — *[[Research Strategies in Comparative Education]]*** 与学生合作在《比较教育评论》（*CER*）发表大规模实证计量分析，系统检视 1950 年代以来比较教育研究在文本综述、量化测量、田野[[Ethnography|民族志]]与大型数据库运用上的演化轨迹。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 135)]]
-> - **2003 — *Theory in Comparative Education*** 基于对主要期刊作者的大规模学术[[Questionnaire|问卷]]，绘制包含 26 种理论传统的学科全景地图，确立学科从结构功能主义正统走向理论[[Pluralism|多元主义]]的转折。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 132)]]
+> - **2003 — *Theory in Comparative Education*** 基于对主要期刊作者的大规模学术[[Questionnaire|问卷]]，绘制包含 26 种理论传统的学科全景地图，确立学科从[[Structural Functionalism|结构功能主义]]正统走向理论[[Pluralism|多元主义]]的转折。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 132)]]
 > - **2004 — *Foreign Influences in Educational Reform*** 首次建构教育应对全球化的三维分析[[Paradigm|范式]]，将教育响应区分为主动采纳的“接受”、抵制霸权的“反抗”以及本土知识的“恢复”。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 133–134)]]
 > - **2009 — *Reflections on the Development of Comparative Education*** 总结比较教育学跨越两百年的学科史编纂学，平反前实证时期的跨文化经验研究，并将全球化响应模型拓展为涵盖“强制再生产”的批判四元论。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–138)]]
 
@@ -116,7 +119,7 @@ updated: 2026-10-01
 
 > [!contribution] 核心学术贡献
 > - **平反“[[Influences Across Cultures|跨文化影响]]”的史学遗产** 拉斯特借鉴比较文学的方法论自觉，严厉批判了战[[Postpositivism|后实证主义]]学者将十九世纪先驱作品贬低为“粗糙描述”与“功利赞歌”的傲慢偏见；他论证追溯教育观念、实践与制度在时空维度中的跨文化流动（如美德跨大西洋互动与挪威多边借用）不仅构成了比较教育学极其厚重的学科传统，更是当代[[Policy Borrowing|政策借用]]理论不可割裂的源流。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 123–126)]]
-> - **揭示理论[[Pluralism|多元主义]]的健康本质** 面对 1970 年代结构功能主义与现代化理论霸权瓦解后学术界对“学科四分五裂”的恐慌，拉斯特通过扎实的经验[[Document|文献]]计量，证明并存的 26 种[[Theoretical Perspective|理论视角]]反映的是一种极具生命力的学科成熟；多元主义是摆脱狭隘意识形态与方法论正统的必要标志，而非走向无序失控的解体。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 131–132)]]
+> - **揭示理论[[Pluralism|多元主义]]的健康本质** 面对 1970 年代[[Structural Functionalism|结构功能主义]]与现代化理论霸权瓦解后学术界对“学科四分五裂”的恐慌，拉斯特通过扎实的经验[[Document|文献]]计量，证明并存的 26 种[[Theoretical Perspective|理论视角]]反映的是一种极具生命力的学科成熟；多元主义是摆脱狭隘意识形态与方法论正统的必要标志，而非走向无序失控的解体。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 131–132)]]
 > - **开拓[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]** 拉斯特敏锐捕捉到全球化对民族[[State Educational Sovereignty|国家教育主权]]的重塑，最初提炼出接受、抵制与恢复三重响应模式；在 2009 年的对话中，他支持青年学者将[[Critical Pedagogy|批判教育学]]的再生产视角注入分析，形成涵盖不平等权力强加维度的四重分析架构，为解构资本主义现代性与推进全球教育正义提供了有力概念透镜。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 133–135)]]
 
 ---
@@ -188,7 +191,8 @@ updated: 2026-10-01
 > | [[Friedrich Schneider]] | 人物 | 阐发施奈德 1931 年创刊与 1943 年德国教育海外影响考证在跨文化借用传统中的坐标。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 122–123, 126)]] |
 > | [[Isaac Kandel]] | 人物 | 阐释坎德尔关于教育折射国家深层政治文化抱负的命题在现代学科中的基石地位。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, p. 135)]] |
 > | [[Marc-Antoine Jullien]] | 人物 | 驳斥实证主义将朱利安孤立化的断裂史观，确立其在两百年连续统中的奠基地位。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 122–124)]] |
-> | [[Paulo Freire]] | 人物 | 引入弗莱雷“教育即政治”命题与批判教育学视角解构跨国资本主义霸权。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 134–135)]] |
+> | [[Paulo Freire]] | 人物 | 引入弗莱雷"教育即政治"命题与批判教育学视角解构跨国资本主义霸权。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 134–135)]] |
 > | [[UNESCO]] | 事实 | 援引 UNESCO 2006 年 EFA 监测报告实证检验外部结构调整弊端与古巴主权动员典范。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, p. 134)]] |
 > | [[Education for All]] | 事实 | 以 EFA 监测数据为经验依据，批判外部市场化强制再生产并论证主权自决的决定性意义。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 134, 137)]] |
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 专章全面阐释学科发端、方法演化、理论多元主义与全球化批判分析。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 卡扎米亚斯将拉斯特团队（1999）关于主流期刊研究策略的大规模计量普查引为历史研究边缘化的核心证据来源之一，纳入对[[Historical Amnesia\|学科历史健忘症]]的诊断论证。 |

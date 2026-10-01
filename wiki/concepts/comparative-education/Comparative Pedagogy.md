@@ -7,7 +7,7 @@ aliases:
 summary: "20世纪末由罗宾·亚历山大等学者系统开创的比较教育学微观研究进路，主张突破宏观政策与国家制度指标的抽象局限，深入中小学具体课堂话语互动与教学过程，揭示教学法深嵌于民族国家历史、文化土壤与认知传统中的社会建构本质。"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Geisteswissenschaften]]"
   - "[[Positivism]]"
   - "[[Champ]]"
+  - "[[Learnology]]"
   - "[[Creativity]]"
   - "[[Variable]]"
   - "[[Bildung]]"
@@ -43,6 +44,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Robin Alexander]]"
+  - "[[Patricia Broadfoot]]"
   - "[[Harold Noah]]"
   - "[[George Psacharopoulos]]"
   - "[[Andreas Kazamias]]"
@@ -94,7 +96,7 @@ updated: 2026-10-01
 > | **[[Unit of Analysis\|分析单位]]** | 课堂互动过程、教学思维、文化话语 | 民族国家体制、学制结构、财政政策 | 孤立的教师行为频次、学生注意力时长 |
 > | **知识定位** | 解释学与文化人类学[[Geisteswissenschaften\|人文科学]] | 政治社会学、比较政治经济学 | 行为主义心理测量学与过程-结果实证论 |
 > | **教学法属性** | 承载历史价值与社会契约的文化实践 | 实现国家[[Human Capital Theory\|人力资本]]规划的政策工具 | 普适可通用的课堂操作技能集 |
-> | **核心代表** | [[Robin Alexander\|罗宾·亚历山大]]、帕特丽夏·布罗德富特（Patricia Broadfoot） | [[Harold Noah\|哈罗德·诺亚]]、[[George Psacharopoulos\|乔治·普萨哈罗普洛斯]] | 奈德·弗兰德斯（Ned Flanders） |
+> | **核心代表** | [[Robin Alexander\|罗宾·亚历山大]]、[[Patricia Broadfoot\|帕特丽夏·布罗德富特]] | [[Harold Noah\|哈罗德·诺亚]]、[[George Psacharopoulos\|乔治·普萨哈罗普洛斯]] | 奈德·弗兰德斯（Ned Flanders） |
 
 ---
 
@@ -102,8 +104,8 @@ updated: 2026-10-01
 
 比较教学论的兴起代表了比较教育学在 20 世纪晚期至 21 世纪初的重要[[Paradigm|范式]]转向：
 
-1. **对战后宏观[[Positivism|实证主义]]与唯方法论的纠偏** 战后第三代际实证科学化运动（诺亚与埃克斯坦、芝加哥学派）以及超国家机构（如[[World Bank|世界银行]]、[[OECD]]）将比较研究窄化为宏观投入-产出模型与去情境化的回归方程，完全忽视了教育发生的核心物理[[Champ|场域]]——学校课堂。（Kazamias, 2009a, pp. 147–149）
-2. **英国比较教育学派的文化情境坚守** [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）考据指出，在第四代际晚期，当美国比较教育学界面临[[Postmodernism|后现代主义]]碎片化与新自由主义经济指标狂潮时，英国学术共同体展现出稳健审慎的学风，率先发起微观课堂教学与“学习学”（Learneology）转向，将[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）关于校外文化精神力量的传统[[Creativity|创造性]]延伸至课堂教学法分析中。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, p. 155)]]
+1. **对战后宏观[[Positivism|实证主义]]与唯方法论的纠偏** 战后第三代际实证科学化运动（诺亚与埃克斯坦、芝加哥学派）以及超国家机构（如[[World Bank|世界银行]]、[[OECD]]）将比较研究窄化为宏观投入-产出模型与去情境化的回归方程，完全忽视了教育发生的核心物理[[Champ|场域]]——学校课堂。（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 147–149]]）
+2. **英国比较教育学派的文化情境坚守** [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）考据指出，在第四代际晚期，当美国比较教育学界面临[[Postmodernism|后现代主义]]碎片化与新自由主义经济指标狂潮时，英国学术共同体展现出稳健审慎的学风，率先发起微观课堂教学与“[[Learnology|学习学]]”（Learneology）转向，将[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）关于校外文化精神力量的传统[[Creativity|创造性]]延伸至课堂教学法分析中。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, p. 155)]]
 3. **[[Robin Alexander|亚历山大]]五国比较研究的奠基** 罗宾·亚历山大在 20 世纪 90 年代主持了举世闻名的英、法、印、俄、美五国初等教育跨文化比较研究（Alexander, 2000），通过长达数年的深入[[Fieldwork\|田野调查]]与课堂[[Ethnography\|民族志]]，彻底确立了比较教学论的概念体系与方法论规程。
 
 ---
@@ -130,6 +132,8 @@ updated: 2026-10-01
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----|
 > | [[Robin Alexander\|罗宾·亚历山大]] | 人物 | 比较教学论开创宗师，完成英法印俄美五国跨文化课堂教学里程碑研究。 |
+> | [[Patricia Broadfoot\|帕特丽夏·布罗德富特]] | 人物 | 倡导跨国教育评价与[[Learnology\|微观学习学]]，与比较教学论形成紧密的方法论互补。 |
+> | [[Learnology\|微观学习学]] | 概念 | 与比较教学论共同构成第四代际英国比较教育微观转向的双翼。 |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 在学科史反思中将比较教学论定性为英国比较教育学派回归课堂与坚守文化传统的标志。 |
 > | [[Michael Sadler\|迈克尔·萨德勒]] | 人物 | 其校外精神力量与文化生态有机论构成了比较教学论的深层思想渊源。 |
 > | [[Scholiocentric Approach\|以校为中心取向]] | 概念 | 早期行政视察的以校为中心缺乏文化深度，比较教学论实现了对其质性超越。 |
@@ -144,4 +148,4 @@ updated: 2026-10-01
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, p. 155)]] — 考证英国比较教育学界在 20 世纪末向“比较教学论”与“学习学”的微观转向，阐明其区别于北美宏观经济[[Positivism|实证主义]]的深厚文化关怀。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, p. 155)]] — 考证英国比较教育学界在 20 世纪末向“比较教学论”与“[[Learnology|学习学]]”的微观转向，阐明其区别于北美宏观经济[[Positivism|实证主义]]的深厚文化关怀。

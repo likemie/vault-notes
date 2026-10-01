@@ -10,7 +10,7 @@ summary: "一种在宏观教育与经济规划中运用的定量预测方法。�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Performance Indicators]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Structural Functionalism]]"
 related_methods:
   - "[[Network Analysis]]"
   - "[[Correlational Research]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-17
+updated: 2026-10-01
 ---
 
 # Manpower Requirements Approach
@@ -75,7 +76,7 @@ updated: 2026-09-17
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 秉持[[Positivism\|实证主义]]与结构功能主义机械观，假定经济体系是遵循固定工艺系数运作的投入产出机器，人力技能是同质化且可被精确度量的生产要素。
+> - **知识观** 秉持[[Positivism\|实证主义]]与[[Structural Functionalism|结构功能主义]]机械观，假定经济体系是遵循固定工艺系数运作的投入产出机器，人力技能是同质化且可被精确度量的生产要素。
 > - **研究者角色** 技术官僚规划师与宏观经济工程师，以科学中立的名义协助国家统筹调度全社会教育资源。
 > - **有效性标准** 预测精度（实际就业结构与规划预测值的偏离度）、劳动力供求匹配率及技能瓶颈消解程度。
 > - **不声称回答的问题** 不能识别微观教育质量的深层差异，无法解释劳动力市场的动态价格替代弹性（工资[[Interaction Effect\|调节效应]]），亦不提供教育投资的成本效益相对优序（无法替代 [[Return on Investment\|ROI]] 测算）。

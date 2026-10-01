@@ -7,7 +7,7 @@ aliases:
 summary: "与实证主义相对立的社会科学哲学与认识论立场，主张社会实在由具有意向性的人类行动者在主体间互动中建构，探究的目的不在于发现普适因果定律，而在于通过领会与深描理解行动者赋予行动的主观意义及其所处的生活世界。"
 type: concept
 domain: "educational-philosophy"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Document]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Critical Theory]]"
   - "[[Phenomenology]]"
   - "[[Symbolic Interactionism]]"
@@ -90,7 +91,7 @@ updated: 2026-10-01
 ## 定义
 
 > [!def] 核心定义
-> **解释主义（Interpretivism）**，亦称**诠释主义**，是现代社会科学与教育研究中与[[Positivism|实证主义]]根本对立的核心哲学与[[Epistemology|认识论]]立场。解释主义主张人类社会世界绝非独立于人的意识而存在的客观物理实体，而是充满主观意图、象征符号与价值赋予的意义网络；探究的根本目的不在于寻找超越时空的因果普适规律（[[Nomothetic]] Laws）并施加技术控制，而在于通过领会（Verstehen）与深入当事人的参照框架，整体性地描述、重构与理解（[[Idiographic]] Understanding）行动者在具体历史与文化情境中所经验和建构的生活世界（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, pp. 14–17]]）。在比较教育学术史中，解释主义构成了早期历史叙事与解释性专论（interpretive essays）的认识论根基，并在 1970 年代作为打破结构功能主义与实证现代化霸权的核心理论同盟，开启了学科多元化的新纪元（[[Argument_Rust_2009_Reflections|Rust et al., 2009, pp. 128, 131–132]]）。
+> **解释主义（Interpretivism）**，亦称**诠释主义**，是现代社会科学与教育研究中与[[Positivism|实证主义]]根本对立的核心哲学与[[Epistemology|认识论]]立场。解释主义主张人类社会世界绝非独立于人的意识而存在的客观物理实体，而是充满主观意图、象征符号与价值赋予的意义网络；探究的根本目的不在于寻找超越时空的因果普适规律（[[Nomothetic]] Laws）并施加技术控制，而在于通过领会（Verstehen）与深入当事人的参照框架，整体性地描述、重构与理解（[[Idiographic]] Understanding）行动者在具体历史与文化情境中所经验和建构的生活世界（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, pp. 14–17]]）。在比较教育学术史中，解释主义构成了早期历史叙事与解释性专论（interpretive essays）的认识论根基，并在 1970 年代作为打破[[Structural Functionalism|结构功能主义]]与实证现代化霸权的核心理论同盟，开启了学科多元化的新纪元（[[Argument_Rust_2009_Reflections|Rust et al., 2009, pp. 128, 131–132]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向人类行动的意向性、主观经验的不可替代性、生活世界的主体间性本质以及知识与研究者之间的[[Reflexivity|反身性]]纽带。
@@ -148,7 +149,7 @@ updated: 2026-10-01
 > | [[Symbolic Interactionism]] | 理论根基 | 为解释主义提供微观人际交往、角色扮演与[[Thomas Theorem\|情境定义]]的社会学分析机制。 |
 > | [[Ethnography]] | 实践形态 | 解释主义最典型的经验质性设计，要求研究者在自然生活现场长期沉浸。 |
 > | [[Rich and Thick Description]] | 叙事规范 | 解释主义写作的核心质量准则，呈现兼具情境脉络、意图细节与本土意义的叙事。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 学术史证据 | 论证解释主义传统在比较教育学科中的起源地位，以及在 1970 年代打破结构功能主义一统天下的范式跃迁。 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 学术史证据 | 论证解释主义传统在比较教育学科中的起源地位，以及在 1970 年代打破[[Structural Functionalism\|结构功能主义]]一统天下的范式跃迁。 |
 
 ---
 
@@ -200,7 +201,7 @@ updated: 2026-10-01
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 14–26)]] — 系统梳理[[Interpretive Paradigm|反实证主义]]、解释主义与自然主义探究的[[Epistemology|认识论]]源流，阐发[[Wilhelm Dilthey|狄尔泰]]与韦伯关于理解（Verstehen）的核心主张，以及解释主义的三大质性理论支柱。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128, 131–132)]] — 考据比较教育学术史中早期以[[Document|文献]]为基石的解释性专论传统，论证 1970 年代新兴解释主义知识共同体如何打破战后结构功能主义与实证现代化理论的霸权垄断。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128, 131–132)]] — 考据比较教育学术史中早期以[[Document|文献]]为基石的解释性专论传统，论证 1970 年代新兴解释主义知识共同体如何打破战后[[Structural Functionalism|结构功能主义]]与实证现代化理论的霸权垄断。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 详尽介绍解释主义/[[Constructivist Paradigm|建构主义世界观]]在[[Qualitative Research|质性研究]]设计、归纳性理论建构以及多重主观实在提炼中的操作性指南。
 
 ---
@@ -209,5 +210,5 @@ updated: 2026-10-01
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 14–26)]] — 系统梳理[[Interpretive Paradigm|反实证主义]]、解释主义与自然主义探究的[[Epistemology|认识论]]源流，阐发[[Wilhelm Dilthey|狄尔泰]]与韦伯关于理解（Verstehen）的核心主张，以及解释主义的三大质性理论支柱。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128, 131–132)]] — 考据比较教育学术史中早期以[[Document|文献]]为基石的解释性专论传统，论证 1970 年代新兴解释主义知识共同体如何打破战后结构功能主义与实证现代化理论的霸权垄断。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128, 131–132)]] — 考据比较教育学术史中早期以[[Document|文献]]为基石的解释性专论传统，论证 1970 年代新兴解释主义知识共同体如何打破战后[[Structural Functionalism|结构功能主义]]与实证现代化理论的霸权垄断。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 详尽介绍解释主义/[[Constructivist Paradigm|建构主义世界观]]在[[Qualitative Research|质性研究]]设计、归纳性理论建构以及多重主观实在提炼中的操作性指南。

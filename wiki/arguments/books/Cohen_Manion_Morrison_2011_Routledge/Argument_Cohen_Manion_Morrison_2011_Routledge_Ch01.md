@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 125
+argument_related_count: 126
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -106,6 +106,7 @@ related_theories:
   - "[[Phenomenology]]"
   - "[[Symbolic Interactionism]]"
   - "[[Knowledge Building Theory]]"
+  - "[[Structural Functionalism]]"
 related_methods:
   - "[[Ethogenic Approach]]"
   - "[[Grounded Theory]]"
@@ -887,7 +888,7 @@ updated: 2026-09-09
 
 #### 8.3 后结构主义（Post-structuralism）：话语、文本与去中心化主体
 
-后结构主义（以米歇尔·福柯（Michel Foucault）与雅克·德里达（Jacques Derrida）为代表）坚决批判结构功能主义将人视作社会结构中“被动承载既定角色”的决定论模型，提出了解构主义的核心探究维度：
+后结构主义（以米歇尔·福柯（Michel Foucault）与雅克·德里达（Jacques Derrida）为代表）坚决批判[[Structural Functionalism|结构功能主义]]将人视作社会结构中“被动承载既定角色”的决定论模型，提出了解构主义的核心探究维度：
 
 > [!theory-components] 后结构主义的核心解构维度
 > - **话语实践（Discourse）与文本性**

@@ -7,7 +7,7 @@ summary: "英国批判教育社会学家与比较教育学者，布里斯托尔�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 21
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -34,6 +34,8 @@ related_theories:
   - "[[World Society Theory]]"
   - "[[Globally Structured Agenda for Education]]"
   - "[[Pluri-Scalar Governance]]"
+  - "[[Structural Functionalism]]"
+  - "[[World-Systems Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
@@ -51,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Roger Dale
@@ -85,7 +87,7 @@ updated: 2026-09-29
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1980s — 国家理论与批判教育社会学** 批判结构功能主义与工具主义国家观，探索福利资本主义国家如何通过教育政策协调资本积累与社会合法性的双重危机。
+> - **1980s — 国家理论与批判教育社会学** 批判[[Structural Functionalism|结构功能主义]]与工具主义国家观，探索福利资本主义国家如何通过教育政策协调资本积累与社会合法性的双重危机。
 >   - **代表著作** *The State and Education Policy* (1989)。
 >   - **关键概念／理论** 国家相对自主性、教育政策调和矛盾功能。
 >   - **阶段转向** 早期聚焦民族国家内部政治经济张力，为后期的全球标度拓展奠定国家理论底色。
@@ -122,7 +124,7 @@ updated: 2026-09-29
 > [!person-network] 关系网络
 > - **学术合作者** [[Susan L. Robertson|苏珊·罗伯逊]]（Susan L. Robertson）——长期紧密合作者，共同创立 GSE 期刊并合著[[Pluri-Scalar Governance|多标度治理]]模型。
 > - **批评者与论敌** [[John W. Meyer|约翰·迈耶]]（John W. Meyer）——[[Stanford School|斯坦福学派]]世界文化论代表人物；戴尔长期批评其忽略资本主义经济利益与地缘政治权力。
-> - **学术同行** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove）——共同运用批判政治经济学与世界体系分析研究跨国教育治理。
+> - **学术同行** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove）——共同运用批判政治经济学与[[World-Systems Theory|世界体系分析]]研究跨国教育治理。
 
 ---
 

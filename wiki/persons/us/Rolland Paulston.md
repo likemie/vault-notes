@@ -8,10 +8,10 @@ summary: "匹兹堡大学比较教育学教授，1976年比较与国际教育学
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1929"
 died: "2006"
 lifespan: "1929–2006"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Protean Episteme]]"
   - "[[Unit of Analysis]]"
 related_theories:
+  - "[[Structural Functionalism]]"
   - "[[Hegemony]]"
   - "[[Critical Pluralism]]"
   - "[[Postmodernism]]"
@@ -64,7 +65,7 @@ updated: 2026-10-01
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国比较教育学家、匹兹堡大学（University of Pittsburgh）国际与[[Development Education|发展教育]]杰出教授、1976 年[[Comparative and International Education Society\|比较与国际教育学会]]（CIES）会长。
-> - **核心角色** 比较教育学第四代际“批判冲突[[Paradigm\|范式]]”的方法论奠基人与倡导者；在 1977 年《比较教育评论》创刊二十周年专刊中发表划时代论文，系统确立“冲突范式”（Conflict Paradigms）抗衡并打破战后结构功能主义与实证量化派对学科的垄断；1990 年代首创“社会地图学”（Social Cartography），运用后现代空间隐喻图绘多元范式竞争与知识光谱，深刻重塑了世纪之交比较教育学的[[Epistemology|认识论]]生态。
+> - **核心角色** 比较教育学第四代际“批判冲突[[Paradigm\|范式]]”的方法论奠基人与倡导者；在 1977 年《比较教育评论》创刊二十周年专刊中发表划时代论文，系统确立“冲突范式”（Conflict Paradigms）抗衡并打破战后[[Structural Functionalism|结构功能主义]]与实证量化派对学科的垄断；1990 年代首创“社会地图学”（Social Cartography），运用后现代空间隐喻图绘多元范式竞争与知识光谱，深刻重塑了世纪之交比较教育学的[[Epistemology|认识论]]生态。
 > - **代表贡献** 确立冲突范式的核心概念群（权力、剥削、统治阶级、[[Hegemony|文化霸权]]与知识控制）；开创社会地图学方法，主编《社会地图学：图绘社会与教育变迁的视角》（*Social Cartography*, 1996）；推动比较教育学从单一[[Positivism|实证主义]]走向多元范式共存。
 
 > [!citation-card] 卡扎米亚斯论保尔斯顿对比较教育冲突范式的奠基
@@ -101,7 +102,7 @@ updated: 2026-10-01
 ## 核心思想与学术贡献
 
 ### 1. 冲突范式的奠基与功能主义霸权的终结
-在 1970 年代之前，比较教育学被以芝加哥学派（安德森、福斯特）与哥大学派（诺亚、埃克斯坦）为代表的结构功能主义和量化实证论垄断。保尔斯顿深刻指出，功能主义预设了社会的和谐一致与自发均衡，将教育视作[[Value Neutrality|价值中立]]的人才筛选机器；然而在现实中，教育是统治集团维系不平等权力关系的体制工具。保尔斯顿将马克思主义、韦伯冲突论、非马克思主义乌托邦主义与[[Dependency Theory|依附理论]]等整合成“冲突[[Paradigm|范式]]”（Conflict Paradigms），为学科注入了阶级对抗、[[Hegemony|文化霸权]]与意识形态剖析等锐利工具。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 152–153)]]
+在 1970 年代之前，比较教育学被以芝加哥学派（安德森、福斯特）与哥大学派（诺亚、埃克斯坦）为代表的[[Structural Functionalism|结构功能主义]]和量化实证论垄断。保尔斯顿深刻指出，功能主义预设了社会的和谐一致与自发均衡，将教育视作[[Value Neutrality|价值中立]]的人才筛选机器；然而在现实中，教育是统治集团维系不平等权力关系的体制工具。保尔斯顿将马克思主义、韦伯冲突论、非马克思主义乌托邦主义与[[Dependency Theory|依附理论]]等整合成“冲突[[Paradigm|范式]]”（Conflict Paradigms），为学科注入了阶级对抗、[[Hegemony|文化霸权]]与意识形态剖析等锐利工具。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 152–153)]]
 
 ### 2. 社会地图学（Social Cartography）的开创
 面对 1980 年代后期比较教育学界内部日益激化的范式攻讦（实证派 vs 批判派 vs 后现代派），保尔斯顿拒绝用一种新正统取代旧正统，而是吸收[[Postmodernism|后现代主义]]去中心化思想，开创了社会地图学：

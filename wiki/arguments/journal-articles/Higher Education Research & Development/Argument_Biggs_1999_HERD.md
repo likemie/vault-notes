@@ -43,6 +43,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Norm-Referenced Test]]"
   - "[[Learning Gap]]"
+  - "[[Learnology]]"
   - "[[Problem Solving]]"
   - "[[Didaktik]]"
 related_theories:
@@ -62,7 +63,7 @@ title: "Argument_Biggs_1999_HERD"
 argument_key: "Argument_Biggs_1999_HERD"
 argument_display_title: "What the student does: Teaching for enhanced learning"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -398,7 +399,7 @@ issuing_organization: ""
 ### 案例一　问题本位学习通过专业问题实现自上而下的对齐
 
 > [!case] 案例情境
-> 专业教育长期采用先学习学科知识、再进入实践的模式。学生先分科接受陈述性知识教学，再补充部分技能训练，最后接受专业资格认证；但这并不能保证他们已经准备好从事专业工作。知识往往围绕考试要求来组织，其应用常常止于期末考试，学生解决陌生问题的能力并未得到检验。大学又以学科院系为单位组织师资和课程，使这种在行政上便利、在教学上却与专业目标脱节的模式延续下来（p. 71）。
+> 专业教育长期采用先[[Learnology|学习学]]科知识、再进入实践的模式。学生先分科接受陈述性知识教学，再补充部分技能训练，最后接受专业资格认证；但这并不能保证他们已经准备好从事专业工作。知识往往围绕考试要求来组织，其应用常常止于期末考试，学生解决陌生问题的能力并未得到检验。大学又以学科院系为单位组织师资和课程，使这种在行政上便利、在教学上却与专业目标脱节的模式延续下来（p. 71）。
 
 > [!tension-table] 传统专业课程与 PBL
 > | 维度 | 传统内容导向模式 | [[Problem-Based Learning\|问题本位学习]] |

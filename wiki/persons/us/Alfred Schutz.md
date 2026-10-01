@@ -6,7 +6,7 @@ summary: "奥地利-美国社会学家与哲学家，现象学社会学奠基人
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Hypothesis]]"
 related_theories:
   - "[[Phenomenology]]"
+  - "[[Structural Functionalism]]"
   - "[[Critical Theory]]"
   - "[[Ethnomethodology]]"
 related_methods:
@@ -54,7 +55,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-17
+updated: 2026-10-01
 ---
 
 # Alfred Schutz
@@ -149,7 +150,7 @@ updated: 2026-09-17
 >   - **[[Harold Garfinkel\|哈罗德·加芬克尔]]（Harold Garfinkel）** 常人方法学创始人，将舒茨关于日常生活中“理所当然”常识[[Hypothesis\|假设]]的论述激进化为微观实证方法。
 >   - **彼得·伯格（Peter L. Berger）与托马斯·卢克曼（Thomas Luckmann）** 博士弟子，继承其生活世界现象学并出版《实在的社会构建》，风靡全球社会学界。
 > - **批评者／学术论敌**
->   - **塔尔科特·帕森斯（Talcott Parsons）** 结构功能主义领袖，与舒茨就主观唯意志行动是否能在宏观系统框架中被客观化展开了长达两年的历史性通信论战。
+>   - **塔尔科特·帕森斯（Talcott Parsons）** [[Structural Functionalism|结构功能主义]]领袖，与舒茨就主观唯意志行动是否能在宏观系统框架中被客观化展开了长达两年的历史性通信论战。
 
 ---
 

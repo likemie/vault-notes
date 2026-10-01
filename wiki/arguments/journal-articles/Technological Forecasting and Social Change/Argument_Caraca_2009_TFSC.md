@@ -39,7 +39,8 @@ related_concepts:
 related_theories:
   - "[[Systems of Innovation]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Vannevar Bush]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Lisbon Strategy]]"
@@ -57,7 +58,7 @@ title: "Argument_Caraca_2009_TFSC"
 argument_key: "Argument_Caraca_2009_TFSC"
 argument_display_title: "The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -164,7 +165,7 @@ issuing_organization: ""
 
 > [!timeline] 知识史
 > - **1939** J. D. Bernal 率先测量英国 R&D 占 GNP 约 0.2%，主张提高到 2.0%。
-> - **1945** Vannevar Bush 在《科学：[[Science, The Endless Frontier 1945\|无尽的前沿]]》中为美国提出类似论证。
+> - **1945** [[Vannevar Bush]] 在《科学：[[Science, The Endless Frontier 1945\|无尽的前沿]]》中为美国提出类似论证。
 > - **1950s末** 经济学家基于公共品理论（非排他性、非竞争性）给出政府资助基础科学的系统性理由。
 >
 > 线性模型的构想最初来自科学家对资源配置的政治游说，而非经济学的系统论证。但它在二战后国家主导经济干预的氛围中获得了最大影响力。

@@ -8,7 +8,7 @@ aliases:
 summary: "兴起于拉丁美洲并拓展至比较教育的新马克思主义批判路径。拒绝现代化理论将欠发展归结为内部缺失的技术主义假设，主张从全球资本主义世界体系的中心-边缘结构性支配、跨国垄断资本掠夺、受限国家阶级联盟、金融-智识复合体规训及影子国家外包机制出发，解释第三世界国家教育不平等、双轨分流及学术依附；构成战后第四代际批判冲突与跨国宏观范式的核心基石。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 60
+theory_related_count: 62
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Financial-Intellectual Complex]]"
   - "[[Dual School System]]"
+  - "[[Historical Amnesia]]"
   - "[[Policy Borrowing]]"
   - "[[Hypothesis]]"
   - "[[Value Neutrality]]"
@@ -67,6 +68,7 @@ related_methods:
 related_persons:
   - "[[Martin Carnoy]]"
   - "[[Robert Arnove]]"
+  - "[[Philip Altbach]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Andreas Kazamias]]"
@@ -101,7 +103,7 @@ updated: 2026-10-01
 > - **解释对象** 资本主义世界体系中中心国家与外围国家之间的不平等支配关系；第三世界国家教育系统内部的阶级双轨分割与文凭异化；高等教育中的学术依附与新殖民主义文化控制；全球化时代多边[[Disciplina and Doctrina|规训]]下的[[State Educational Sovereignty|国家教育主权]]侵蚀与[[Shadow State|影子国家]]现象。
 > - **理论问题** 坚决解构现代化理论与[[Human Capital Theory|人力资本理论]]将后发国家“欠发展”归咎于内部技术性“缺失”或管理不善的虚伪修辞；揭示全球教育不平等本质上是帝国主义剥削与资本主义积累矛盾的地缘产物。
 > - **理论类型** 宏观历史政治经济学[[Critical Theory|批判理论]]与比较教育社会学解释框架；构成战后比较教育第四代际“批判冲突与跨国宏观[[Paradigm|范式]]”（Discourse 4, 1970–1990）的核心支柱。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–155)]]
-> - **知识位置** 植根于拉丁美洲依附论经济学传统（Prebisch, Furtado, Frank, Cardoso & Faletto, dos Santos），在比较教育学中由[[Martin Carnoy|马丁·卡诺伊]]（[[Martin Carnoy|Martin Carnoy]]）、[[Robert Arnove|罗伯特·阿诺夫]]（[[Robert Arnove|Robert Arnove]]）、菲利普·阿尔特巴赫（Philip Altbach）以及[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（[[Carlos Alberto Torres|Carlos Alberto Torres]]）与利利亚娜·埃丝特·[[Liliana Esther Olmos|奥尔莫斯]]（[[Liliana Esther Olmos|Liliana Esther Olmos]]）等学者深度拓展。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 104–106)]]
+> - **知识位置** 植根于拉丁美洲依附论经济学传统（Prebisch, Furtado, Frank, Cardoso & Faletto, dos Santos），在比较教育学中由[[Martin Carnoy|马丁·卡诺伊]]（[[Martin Carnoy|Martin Carnoy]]）、[[Robert Arnove|罗伯特·阿诺夫]]（[[Robert Arnove|Robert Arnove]]）、菲利普·阿尔特巴赫（[[Philip Altbach]]）以及[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（[[Carlos Alberto Torres|Carlos Alberto Torres]]）与利利亚娜·埃丝特·[[Liliana Esther Olmos|奥尔莫斯]]（[[Liliana Esther Olmos|Liliana Esther Olmos]]）等学者深度拓展。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 104–106)]]
 
 > [!claim] 核心判断
 > 第三世界国家的欠发展并非源于现代性制度要素的匮乏，而是西方宗主国长期剥削与资本主义世界体系结构性约束的直接产物。教育系统绝非中立的技能分配器，而是中心跨国资本与外围买办[[Pact of Domination|统治同盟]]维系政治霸权、输出文化帝国主义并推行[[Compensatory Legitimation|补偿性合法化]]的核心[[Champ|场域]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 426–427)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 73–75)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
@@ -124,11 +126,11 @@ updated: 2026-10-01
 > [!dev-timeline] 理论版本与贡献
 > - **1974 — 学科文化帝国主义奠基** 卡诺伊（Carnoy, 1974）系统批判正规学校教育在殖民与新殖民秩序中的顺从驯化功能，开创依附论比较教育[[Paradigm|研究范式]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 426)]]
 > - **1977–1978 — 心灵奴役与学术依附命题** 菲利普·阿尔特巴赫（Altbach, 1977）提出“心灵的奴役”（Servitude of the Mind），揭示学术期刊、科研出版与国际学位垄断如何在外围学者中再生产非自觉的学术依附。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 427)]]
-> - **1980–1982 — 世界体系引入与跨国不平等层层传递机制** [[Robert Arnove|阿诺夫]]（Arnove, 1980, 1982）将[[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]（[[Immanuel Wallerstein|Immanuel Wallerstein]]）世界体系论引入比较教育，指出跨国基金会与金融机构推行的教育革新固化了中心-边缘分层；卡扎米亚斯（Kazamias, 2009a）特别指出，阿诺夫揭示了中心国家主导外围、外围精英支配边缘大众的跨国不平等层层传递链条。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
+> - **1980–1982 — 世界体系引入与跨国不平等层层传递机制** [[Robert Arnove|阿诺夫]]（Arnove, 1980, 1982）将[[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]（[[Immanuel Wallerstein|Immanuel Wallerstein]]）世界体系论引入比较教育，指出跨国基金会与金融机构推行的教育革新固化了中心-边缘分层；卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）特别指出，阿诺夫揭示了中心国家主导外围、外围精英支配边缘大众的跨国不平等层层传递链条。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
 > - **1990 — 社会主义社会过渡与[[Critical Pedagogy|解放教育学]]** 卡诺伊与[[Joel Samoff|乔尔·萨莫夫]]（Carnoy & Samoff, 1990）探究第三世界国家在向社会主义过渡期，如何借助激进教育革命清除依附性阶级残余。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 427–428)]]
 > - **2000s — 新自由主义多标度规训与[[Shadow State|影子国家]]** 阿诺夫与萨顿（Sutton & Arnove, 2004）及卡马特（Kamat, 2004）揭示依附机制的新形态：跨国经贸规制（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）与[[Pluri-Scalar Governance|多标度治理]]穿透民族国家主权，国际援助方绕过政府直接资助非政府组织提供教育，使 NGO 异化为去政治化的影子国家并剥夺国家公共责任。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
 > - **2009 — [[Conditioned State Theory|受限国家理论]]与[[Financial-Intellectual Complex|金融-智识复合体]]** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）提出“受限国家”概念，系统剖析第三世界教育扩张畸变、[[Dual School System|双轨学制]]固化及世界银行[[Financial-Intellectual Complex|金融-智识复合体]]的去主权化规训。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–75, 81–85)]]
-> - **2009 — 学术史代际定性与历史健忘症悖论** 卡扎米亚斯（Kazamias, 2009a）在总结学科史四重论述代际时，高度肯定依附论打破实证功能主义与[[Human Capital Theory|人力资本理论]]的神话，但同时也深刻诊断出其宏观政治经济学偏向在客观上伴随着对历史研究方法的放逐，使学科陷入“历史健忘症（Historical Amnesia）”。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–156)]]
+> - **2009 — 学术史代际定性与[[Historical Amnesia|历史健忘症]]悖论** 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）在总结学科史四重论述代际时，高度肯定依附论打破实证功能主义与[[Human Capital Theory|人力资本理论]]的神话，但同时也深刻诊断出其宏观政治经济学偏向在客观上伴随着对历史研究方法的放逐，使学科陷入“历史健忘症（Historical Amnesia）”。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–156)]]
 > - **2020s — 高教地缘政治与学术新殖民主义** 余婧然与谢爱磊（2025）等学者运用中心-边缘与学术资本透镜，批判全球大学排行榜与西方学术霸权对全球南方学术主权的侵害。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 4–5)]]
 
 ---
@@ -215,7 +217,7 @@ updated: 2026-10-01
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 处于全球资本主义世界体系边缘或半边缘的发展中国家；遭受外部债务危机与[[Structural Adjustment Programs|结构调整]]冲击的教育体系；跨国教育援助与学术新殖民主义现象；非政府组织公共服务异化。
 > - **成立条件** 存在明显的不对称跨国权力关系与资本依附纽带；国家机器具有鲜明的买办性或受制性特征。
-> - **解释不足与历史健忘症反思** 传统依附论过于偏重宏观资本结构[[Determinism|决定论]]，在解释边缘国家本土学校师生的微观抗争能动性、本土制度杂糅与东亚后发国家通过强势国家干预实现教育跨越式发展的经验时存在理论盲区。更深刻的是，卡扎米亚斯（Kazamias, 2009a）指出，第四代际学者在高度关注跨国政治经济学结构的同时，严重边缘化了历史研究方法，导致比较教育研究深陷当下主义与历史健忘症。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 154–156)]]
+> - **解释不足与[[Historical Amnesia|历史健忘症]]反思** 传统依附论过于偏重宏观资本结构[[Determinism|决定论]]，在解释边缘国家本土学校师生的微观抗争能动性、本土制度杂糅与东亚后发国家通过强势国家干预实现教育跨越式发展的经验时存在理论盲区。更深刻的是，卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）指出，第四代际学者在高度关注跨国政治经济学结构的同时，严重边缘化了历史研究方法，导致比较教育研究深陷当下主义与历史健忘症。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 154–156)]]
 > - **不能直接推出** 不能将所有发展中国家面临的教育管理低效或财政困境均简单归咎为外部帝国主义阴谋；必须结合本土历史文化制度与阶级结构开展具体分析。
 
 ---
@@ -234,10 +236,10 @@ updated: 2026-10-01
 > > 批评者指出，经典依附论往往将外围国家简化为被动承受跨国资本宰割的受害者，在理论上抹杀了边缘本土学校、教师工会与基层社区的选择性抵抗与[[Creativity|创造性]]重构潜能。
 > >
 > > - **传统结构主义依附论** 强调资本主义世界体系对教育系统的单向塑造与剥削。
-> > - **全球与本土辩证法学者（Arnove, 2009; Monkman & Baird, 2002）** 论证边缘行动者绝非消极受害者；在巴布亚新几内亚乡村、印度女教师培训以及基层合作社网络中，底层行动者始终在通过文化抵制和[[Globalization from Below|自下而上的全球化]]展开生动的反抗。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110, 113–114)]]
+> > - **全球与本土辩证法学者（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]; Monkman & Baird, 2002）** 论证边缘行动者绝非消极受害者；在巴布亚新几内亚乡村、印度女教师培训以及基层合作社网络中，底层行动者始终在通过文化抵制和[[Globalization from Below|自下而上的全球化]]展开生动的反抗。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110, 113–114)]]
 
 > [!critique]- 批评索引
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 深刻指出第四代际批判学者虽揭露了教育维系不平等的阶级本质与依附结构，但在方法论上由于过度执迷于宏观当代社会学与政治经济学抽象模型，严重放逐了历史维度，促成了学科的历史健忘症。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 深刻指出第四代际批判学者虽揭露了教育维系不平等的阶级本质与依附结构，但在方法论上由于过度执迷于宏观当代社会学与政治经济学抽象模型，严重放逐了历史维度，促成了学科的[[Historical Amnesia|历史健忘症]]。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 批评依附论过于强调资本主义世界体系对边缘教育系统的结构性决定作用，导致边缘能动主体的杂糅与抵抗实践在理论上被过度消解。
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 指出在新自由主义全球化分散权威与多中心[[Network Governance|网络化治理]]现实下，单纯二元单向的“中心-边缘”模型难以全面涵盖跨国非政府组织与数字平台的复杂博弈。
 

@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch03"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch03"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch03"
 argument_kind: "book-chapter"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[General Education]]"
   - "[[Encyclopaedism]]"
   - "[[Paradigmatic Learning]]"
+  - "[[Learnology]]"
   - "[[International Schools]]"
   - "[[Scientific Method]]"
   - "[[Homework]]"
@@ -95,7 +96,7 @@ updated: '2026-08-27'
 > |---|---|
 > | **[[General Education\|通识教育]]是过程而非内容** | 把通识教育界定为运用语言、数学、历史、科学、道德与审美等不同思维方式理解新情境的能力（pp. 33–34, 41–44）。 |
 > | **[[Encyclopaedism\|百科全书主义]]与过早专门化** | 两者构成课程设计的双重反面：前者以广度牺牲深度，后者以深度牺牲人的完整发展（pp. 38–41）。 |
-> | **[[Paradigmatic Learning\|范例学习]]** | 以共同核心提供背景，再从若干典型问题中选择深度研究对象，使学生学习学科的思考方式，避免追求表面的知识全覆盖（pp. 43–45）。 |
+> | **[[Paradigmatic Learning\|范例学习]]** | 以共同核心提供背景，再从若干典型问题中选择深度研究对象，使学生[[Learnology\|学习学]]科的思考方式，避免追求表面的知识全覆盖（pp. 43–45）。 |
 > | **课程核心组件** | 六学科保证思维方式的分布，[[Extended Essay\|拓展论文]]训练自主深究，[[Creativity, Action, Service\|CASS]]保护直接经验与服务时间，[[Theory of Knowledge\|TOK]]使学科方法和知识前提显性化（pp. 45–48）。 |
 > | **综合评价（examen bilan）** | 用多种证据同时呈现学生的整体成熟度与特定学科准备度，服务大学总体录取和专业先修要求（pp. 49–57）。 |
 > | **效度、[[Reliability\|可靠性]]与反拨权衡** | 评价形式需要稳定、公平地评分，测量课程真正重视的能力，并避免通过备考活动扭曲教学；成本与出分速度构成现实约束（pp. 50–57）。 |
@@ -122,7 +123,7 @@ updated: '2026-08-27'
 > ```
 
 > [!chain-link] 从教育问题到课程与考试制度的因果链
-> - **制度约束迫使[[General Education\|通识教育]]目标被重新定义** [[International Schools\|国际学校]]需要共同课程，IBO 却没有国家教育系统的处方、督导和师训权力；欧陆广而浅、英国窄而深和美国大学通识又都不能直接适用，因此设计者把通识教育改写为运用多种思维方式的能力（pp. 33–43）。
+> - **制度约束迫使[[General Education\|通识教育]]目标被重新定义** [[International Schools\|国际学校]]需要共同课程，[[International Baccalaureate|IBO]] 却没有国家教育系统的处方、督导和师训权力；欧陆广而浅、英国窄而深和美国大学通识又都不能直接适用，因此设计者把通识教育改写为运用多种思维方式的能力（pp. 33–43）。
 > - **新的通识观产生分层课程结构** 六学科负责思想工具的分布，共同核心和[[Paradigmatic Learning\|范例学习]]兼顾背景与深度；学科结构仍未覆盖的自主研究、直接经验和跨学科反思，则分别由EE、[[Creativity, Action, Service\|CASS]] 与[[Theory of Knowledge\|TOK]]承担（pp. 43–48）。
 > - **课程创新反过来要求评价创新** 旧式回忆考试会通过备考破坏深究和个人判断，IB 因而在效度、[[Reliability\|可靠性]]、反拨、成本与速度之间权衡，并以口试、论文、[[Multiple-Choice Questions\|选择题]]、项目和教师评价组成 examen bilan（pp. 49–57）。
 > - **制度建成后，问题转向目标是否真正实现** 当课程和考试已经能够运行，彼得森开始检验它们是否发展了理解、改变并享受环境的能力，并指出语言理解、社会行动和休闲教育仍未充分解决（pp. 57–59）。
@@ -455,7 +456,7 @@ Peterson 对理解环境的判断接近部分实现。学生确实接触多种�
 > [!finding-cards] 课程与评价体系的历史意义
 > 1. **IB 的课程结构源于[[General Education\|通识教育]]危机** 六学科回应欧陆[[Encyclopaedism\|百科全书主义]]、英国过早专门化和美国大学通识位置争论（pp. 38–45）。
 > 2. **[[Theory of Knowledge\|TOK]]、EE 与 [[Creativity, Action, Service\|CASS]] 分别修补学术课程的三种缺口** TOK 处理学科隔离与隐性[[Epistemology\|认识论]]，EE 给予个人深究空间，CASS 保护直接经验、创造活动和社会服务（pp. 45–48）。
-> 3. **考试本身成为课程政策** 由于 IBO 缺乏国家系统的督导与师训权力，考试规则同时承担学习认证与课程实施功能；反拨因此处于制度核心（pp. 34, 50–57）。
+> 3. **考试本身成为课程政策** 由于 [[International Baccalaureate|IBO]] 缺乏国家系统的督导与师训权力，考试规则同时承担学习认证与课程实施功能；反拨因此处于制度核心（pp. 34, 50–57）。
 > 4. **IB 评价追求多种证据的平衡** 它以不同题型互补，接受口试和长论文在一定程度上的不[[Reliability\|可靠性]]，换取更高的课程效度、较好的教学反拨以及总体评价的平衡（pp. 51–57）。
 > 5. **[[Whole Person Education\|全人教育]]目标始终大于可考试课程** 章节结尾保留语言理解、社会行动、休闲与长期兴趣等无法由考试充分保证的领域（pp. 57–59）。
 

@@ -9,7 +9,7 @@ aliases:
 summary: "学习科学与认识论认知中的核心构念，指个体对特定知识主张采取的差异化态度或姿态（如坚信、怀疑、暂且接受、作为工作假设）；在人机协同探究中深化为根据技术中介形态与任务需求动态调适的主体反思姿态。"
 type: concept
 domain: "educational-psychology"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Reflexivity]]"
   - "[[Hypothesis]]"
+  - "[[Working Hypothesis]]"
   - "[[Epistemic Cognition]]"
   - "[[Educational Affordances]]"
   - "[[Generative Artificial Intelligence]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-09-24
+updated: 2026-10-01
 ---
 
 # Epistemic Stances
@@ -75,7 +76,7 @@ updated: 2026-09-24
 ## 定义
 
 > [!def] 核心定义
-> 认识立场（Epistemic Stances）是指个体或社会共同体对特定知识主张、信息来源或模型输出所持有的差异化承诺程度与[[Reflexivity\|反思性]]态度，包括绝对确信、批判性怀疑、暂且接受、作为工作[[Hypothesis\|假设]]（Working Hypothesis）推演或视其为开放可能性。在学习科学[[Epistemic Cognition\|认识论认知]]框架中，该概念取代了传统发展心理学关于“知识要么确定、要么相对”的单一静态发展阶段论；在当代人工智能中介学习环境中，该概念进一步演进为学习者与生成式系统交互时的**适应性认识立场（Adaptive Epistemic Stances）**，即根据任务风险与系统[[Educational Affordances\|可供性]]在工具性信赖、审慎核验与对抗性质疑之间动态切换的主体能力。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, p. 142)]]; [[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 3–4)]]
+> 认识立场（Epistemic Stances）是指个体或社会共同体对特定知识主张、信息来源或模型输出所持有的差异化承诺程度与[[Reflexivity\|反思性]]态度，包括绝对确信、批判性怀疑、暂且接受、作为工作[[Hypothesis\|假设]]（[[Working Hypothesis]]）推演或视其为开放可能性。在学习科学[[Epistemic Cognition\|认识论认知]]框架中，该概念取代了传统发展心理学关于“知识要么确定、要么相对”的单一静态发展阶段论；在当代人工智能中介学习环境中，该概念进一步演进为学习者与生成式系统交互时的**适应性认识立场（Adaptive Epistemic Stances）**，即根据任务风险与系统[[Educational Affordances\|可供性]]在工具性信赖、审慎核验与对抗性质疑之间动态切换的主体能力。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, p. 142)]]; [[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 3–4)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 认知主体与特定知识命题或信息代理之间信奉度与批判距离的关系度量。
@@ -117,7 +118,7 @@ updated: 2026-09-24
 > - **教条式确信（Dogmatic Certainty / 绝对论）** 将知识或 AI 输出视为不容置疑的既定真理，直接全盘接纳，诱发表面顺从与消极[[Cognitive Offloading\|认知卸载]]。
 > - **主观多元化（Radical Multiplism / 多元论）** 认识到知识与模型输出存在多种可能，但认为所有观点同等有效，缺乏评价动机，滑向虚无主义或选择困境。
 > - **评价性审问（Critical Evaluatism / 评价论）** 视大模型为具有局限的思考伙伴，通过跨信源证据核验、批判性提问与因果辩护，在人机交互中掌握核心裁决权。
-> - **工作[[Hypothesis\|假设]]姿态（Working Hypothesis Stance）** 将某一主张或 AI 提议作为推演下一步行动的临时[[Scaffolding\|脚手架]]，在后续检验中持续观察其因果解释力。
+> - **工作[[Hypothesis\|假设]]姿态（[[Working Hypothesis]] Stance）** 将某一主张或 AI 提议作为推演下一步行动的临时[[Scaffolding\|脚手架]]，在后续检验中持续观察其因果解释力。
 > - **适应性调适能力（Epistemic Adaptability）** 学习者依据任务风险（低风险[[Brainstorming\|头脑风暴]] vs 高风险评价性裁决）自适应调整对外部中介的批判距离。
 
 > [!logic-map]- 人工智能交互中适应性认识立场的动态调节机制
@@ -214,7 +215,7 @@ updated: 2026-09-24
 > - **统计推论任务中的人机交互立场分化**
 >   在面对[[Likert Scale\|李克特量表]]一致性检验的统计[[Homework\|作业]]时，绝对论学生直接采信 ChatGPT 推荐的[[Chi-Squared Test\|卡方检验]]并由讲义核对；多元论学生追问不同[[Effect Size\|效应量]]公式的区别但不作取舍；评价论学生则针对数据尺度（顺序[[Variable\|变量]]）与配对属性连续质询 ChatGPT，识别出麦克尼马尔检验的局限并结合同伴讨论最终选定斯皮尔曼相关。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–364)]]
 > - **人机协同论文写作中的双轨立场切换**
->   学生在[[Literature Search\|文献检索]]与初稿构想阶段将 ChatGPT 的输出视作“工作[[Hypothesis\|假设]]（Working Hypothesis）”，借助其发散构想拓展思路；而在进入核心因果推论与结论提炼阶段，学生立即切换为“审问与查错立场”，核对[[Primary and Secondary Documents\|原始文献]][[Chain of Evidence\|证据链]]，有效防止了算法幻觉导致的学术不端。
+>   学生在[[Literature Search\|文献检索]]与初稿构想阶段将 ChatGPT 的输出视作“工作[[Hypothesis\|假设]]（[[Working Hypothesis]]）”，借助其发散构想拓展思路；而在进入核心因果推论与结论提炼阶段，学生立即切换为“审问与查错立场”，核对[[Primary and Secondary Documents\|原始文献]][[Chain of Evidence\|证据链]]，有效防止了算法幻觉导致的学术不端。
 
 ---
 

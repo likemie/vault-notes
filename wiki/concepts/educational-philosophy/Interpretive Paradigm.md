@@ -11,7 +11,7 @@ aliases:
 summary: "与实证主义相对的研究范式，强调从行动者内部视角理解主观意义、生活世界与情境独特性，以归纳、扎根与自然主义方式整体把握人类意向行动。"
 type: concept
 domain: "educational-philosophy"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
   - "[[Rich and Thick Description]]"
+  - "[[Working Hypothesis]]"
   - "[[Emergence]]"
   - "[[Indexicality]]"
   - "[[Reliability]]"
@@ -104,7 +105,7 @@ updated: 2026-10-01
 > - **探究立场** 拒绝主客二元割裂，坚持主体间性（Intersubjectivity）与主位进路（Emic），以行动者的自我理解与[[Thomas Theorem\|情境定义]]为基点。
 > - **研究对象** 人类具有意图与[[Reflexivity\|反思性]]的“行动”（Action），而非受刺激机械驱动的“行为”（Behaviour）；涵盖日常常识、微观互动、身体体验与话语象征。
 > - **方法形态** [[Qualitative Research\|质性研究]]、[[Ethnography\|民族志]]、[[Case Study\|个案研究]]、[[Participant Observation\|参与观察]]、生活史叙事与[[Phenomenology\|现象学]][[Rich and Thick Description\|深描]]。
-> - **知识形态** 扎根于具体时空语境的工作假说、[[Rich and Thick Description\|厚描述]]与从资料中归纳[[Emergence\|涌现]]出的情境化理论，而非普适无时空的宏大因果铁律。
+> - **知识形态** 扎根于具体时空语境的[[Working Hypothesis|工作假说]]、[[Rich and Thick Description\|厚描述]]与从资料中归纳[[Emergence\|涌现]]出的情境化理论，而非普适无时空的宏大因果铁律。
 
 > [!citation-card] Beck 论诠释范式进入行动者参照框架的根本要求
 > 社会科学的核心旨归在于理解个体创造、修正和解释其身处世界的独特方式。研究者必须分享参与者的参照框架，由内而外而非由外向内地理解人们对世界的诠释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 15; Beck, 1979]]

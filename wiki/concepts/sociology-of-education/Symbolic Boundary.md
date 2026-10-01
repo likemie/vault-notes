@@ -6,14 +6,14 @@ aliases:
 summary: "Lamont 的概念，指通过赋予行为、品味和价值观以道德含义来划分我们与他们的区隔机制，被郑雅君用于高等教育微观习性分析，被 Yu & Zhao 用于国家课程宏观官方知识分析"
 type: concept
 domain: "sociology-of-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 confidence: high
 status: active
 created: '2026-05-08'
-updated: 2026-09-17
+updated: 2026-10-01
 tags:
   - symbolic-boundary
   - cultural-sociology
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Official Knowledge]]"
   - "[[Cultural Capital]]"
+  - "[[Learnology]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Confucian Heritage Cultures]]"
@@ -112,7 +113,7 @@ related_arguments:
 > 探讨大学生的阶层文化背景如何转化为道德评价话语，并在不同学业文化模式之间划出难以逾越的心理界限。
 
 > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]
-> **目标掌控者与直觉依赖者之间的道德话语对立** [[Yajun Zheng\|郑雅君]]发现，精英大学中来自优势阶层的目标掌控者与来自弱势阶层的直觉依赖者不仅存在策略差异，更各自构建了一套道德化话语来标识自我并道德拒斥他者[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, pp. 168–172)]]。目标掌控者以“自我负责、有趣”自居，将无目标生活道德判定为“不负责任”；直觉依赖者则以“淳朴、纯真、无套路”自居，将策略性套近乎与选简单课道德判定为“功利心强、动机不纯”。这种象征边界有效地阻断了弱势阶层学生向优势阶层学习学业策略的可能性[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 170)]]。
+> **目标掌控者与直觉依赖者之间的道德话语对立** [[Yajun Zheng\|郑雅君]]发现，精英大学中来自优势阶层的目标掌控者与来自弱势阶层的直觉依赖者不仅存在策略差异，更各自构建了一套道德化话语来标识自我并道德拒斥他者[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, pp. 168–172)]]。目标掌控者以“自我负责、有趣”自居，将无目标生活道德判定为“不负责任”；直觉依赖者则以“淳朴、纯真、无套路”自居，将策略性套近乎与选简单课道德判定为“功利心强、动机不纯”。这种象征边界有效地阻断了弱势阶层学生向优势阶层[[Learnology|学习学]]业策略的可能性[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 170)]]。
 
 > [!contrast-table] 两种大学模式的道德象征边界对比
 > | 模式 | 标识自我的道德话语 | 区隔他者的方式 | 典型口述与行为 |
