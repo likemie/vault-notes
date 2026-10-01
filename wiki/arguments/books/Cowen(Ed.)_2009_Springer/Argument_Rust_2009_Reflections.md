@@ -7,7 +7,7 @@ title: "Argument_Rust_2009_Reflections"
 argument_key: "Argument_Rust_2009_Reflections"
 argument_display_title: "Reflections on the Development of Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 83
+argument_related_count: 86
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -57,6 +57,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Educational Meliorism]]"
   - "[[Value Neutrality]]"
+  - "[[Dissimilar Units]]"
   - "[[Knowledge Production]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Interpretivism]]"
@@ -74,6 +75,7 @@ related_concepts:
 related_theories:
   - "[[Pluralism]]"
   - "[[Typology of Educational Responses to Globalization]]"
+  - "[[Norwegian Four-Phase Model]]"
   - "[[Human Capital Theory]]"
   - "[[Critical Theory]]"
   - "[[Dependency Theory]]"
@@ -107,6 +109,7 @@ related_persons:
   - "[[Nicholas Hans]]"
   - "[[Robert Ulich]]"
   - "[[Andreas Kazamias]]"
+  - "[[Claude A. Eggertsen]]"
   - "[[C. Arnold Anderson]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
@@ -209,7 +212,7 @@ updated: 2026-10-01
 > [!timeline] 比较教育学学科发端的多重历史锚点
 > - **古代游记与风土记录** 希罗多德（Herodotus）、色诺芬（Xenophon）、西塞罗（Cicero）与凯撒（Julius Caesar）等古典作家在游历中记录异域风土人情与[[Bildung|教化]]实践，构成了最早的经验观察萌芽。[[Franz Hilker|希尔克]]（Franz Hilker）指出，这一时期的比较探究本质上是一门教育实践艺术（educating art）。（p.121）
 > - **[[Marc-Antoine Jullien|朱利安]]实证调查倡议（1816–1817）** 马克-安托万·朱利安（Marc-Antoine Jullien）在《关于比较教育的一项工作纲要》中首次提出由跨国专家委员会使用标准化[[Questionnaire|问卷]]收集各国教育数据，建立教育改良参照系，被公认为近代科学比较教育的开端。（pp.121–122）
-> - **现代大学制度建制化（1879–1918）** 1879 年[[William H. Payne|威廉·H·佩恩]]（[[William H. Payne]]）在密歇根大学就任全美首位常设教育学教授，并在首期大学讲座中率先讲授欧洲各国的学校与教育体制，开创了大学层次比较教育讲授的先驱脉络（p.135 注 1）；随后哥伦比亚大学[[Normal School|师范学院]]于 1899 年由詹姆斯·罗素（James Russell）开设首门正式定名的比较教育大学课程；1918 年彼得·桑迪福德（Peter Sandiford）编著出版首部大学通用教材《比较教育》，确立了以国别教育为单元的教学体系。（pp.122, 135 注 1）
+> - **现代大学制度建制化（1879–1918）** 1879 年[[William H. Payne|威廉·H·佩恩]]（[[William H. Payne]]）在密歇根大学就任全美首位常设教育学教授，并在首期大学讲座中率先讲授欧洲各国的学校与教育体制，开创了大学层次比较教育讲授的先驱脉络（p.135 注 1）；随后哥伦比亚大学[[Normal School|师范学院]]于 1899 年由詹姆斯·罗素（James Russell）开设首门正式定名的比较教育大学课程；1918 年[[Peter Sandiford|彼得·桑迪福德]]（[[Peter Sandiford]]）编著出版首部大学通用教材《比较教育》，确立了以国别教育为单元的教学体系。（pp.122, 135 注 1）
 > - **专业学会与学术刊物诞生（1931–1956）** 德国[[Friedrich Schneider|弗里德里希·施奈德]]（[[Friedrich Schneider]]）于 1931 年创立《[[International Education|国际教育]]学评论》；1956 年美国比较教育学会（后更名为 [[Comparative and International Education Society|CIES]]）成立并创办会刊《比较教育评论》（CER），标志着专业学者共同体正式制度化。（pp.122–123）
 
 学科名称的演变与早期教席的设立，生动反映了这一学术谱系的形成历程：
@@ -249,7 +252,7 @@ updated: 2026-10-01
 > |---|---|---|
 > | **制度机制** | 议会与政府常设专门委员会长程指导 | 教育考察家撰写深度报告提交州议会与公众 |
 > | **考察对象** | 斯堪的纳维亚邻国、西欧工业国及北美经验 | 法国[[Report on the State of Public Instruction in Prussia\|库森报告]]、普鲁士初等国民学校与师范所 |
-> | **运行程序** | [[Norwegian Four-Phase Model|四阶段模式]]：发起调研 ➔ 凝聚共识 ➔ 确立法律框架 ➔ 推进实施 | 政治哲学辨析 ➔ 分离恶政与良教 ➔ 创设公学与师范 |
+> | **运行程序** | [[Norwegian Four-Phase Model|四阶段模式]]：发起调研 ➔ 凝聚共识 ➔ 确立法律框架 ➔ 推进实施 | 政治哲学辨析 ➔ 确立[[Severability of Politics and Pedagogy|政教可分]] ➔ 创设公学与师范 |
 > | **本土化结果** | 形成高度整合且具民主韧性的北欧福利教育模式 | 奠定北美免费公共教育体系与现代师资培养架构 |
 
 这一跨文化借用逻辑在《第七次年度报告》与巴纳德的赞评中均有鲜明体现，两人的推崇都是比较后作出的有目的选择，而非对普鲁士制度的无条件照单全收：
@@ -266,7 +269,7 @@ updated: 2026-10-01
 
 面对美国本土保守派关于引进普鲁士专制奴化工具的质疑，改革先驱展开了清晰的方法论与哲学辩驳：
 
-> [!chain-link] 恶政与良教自然可分的认识论推导链
+> [!chain-link] [[Severability of Politics and Pedagogy|恶政与教学法可分性]]的认识论推导链
 > - **前提：承认专制政体对教育的工具化控制**
 >   [[Calvin Stowe|卡尔文·斯托]]等人直面保守派质疑，承认普鲁士初等学校客观上服务于君王专制与臣民思想顺从的政治目的。
 > - **推论：心智认知规律独立于政治意志**
@@ -389,7 +392,7 @@ updated: 2026-10-01
 伴随地理范围的拓展，学科的数据收集与分析方法得到了极大丰富：
 
 > [!feature] 比较教育实证研究维度的双重拓展
-> - **收集手段多元化** 从数十年前单一依赖[[Primary and Secondary Documents|二手文献]]与历史论文写作，大幅扩充至[[In-depth Interview|深度访谈]]、[[Ethnography|民族志]]、[[Participant Observation|参与观察]]、问卷调查、田野研究、项目评估、文本[[Content Analysis|内容分析]]及大型跨国数据库调用。（Rust et al., 1999）
+> - **收集手段多元化** [[Research Strategies in Comparative Education|比较教育研究策略调查]]（Rust et al., 1999）证实，从数十年前单一依赖[[Primary and Secondary Documents|二手文献]]与历史论文写作，大幅扩充至[[In-depth Interview|深度访谈]]、[[Ethnography|民族志]]、[[Participant Observation|参与观察]]、问卷调查、田野研究、项目评估、文本[[Content Analysis|内容分析]]及大型跨国数据库调用。（pp.130–131）
 > - **分析工具实证化** 从早期的历史叙事与[[Interpretivism|解释主义]]传统，逐步融入更多社会科学量化工具，比较教育研究者与社会学、政治学、经济学等母学科建立了更为紧密的对话机制。（Henrickson et al., 2003）
 
 #### 3. 二十六种理论范式共存打破了冷战时期的单一实证教条，标志着学科研究心智的成熟

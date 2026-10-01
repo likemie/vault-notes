@@ -7711,6 +7711,21 @@
     ]
   },
   {
+    "title": "Severability of Politics and Pedagogy",
+    "type": "concept",
+    "path": "wiki/concepts/policy-borrowing/Severability of Politics and Pedagogy.md",
+    "aliases": [
+      "恶政与教学法可分性命题",
+      "恶政与教学法可分性",
+      "政教可分性命题",
+      "政治制度与教学法分离论",
+      "善治分离论",
+      "Separation of Politics and Pedagogy",
+      "Severability Principle in Educational Borrowing",
+      "Severability of Governance and Pedagogy"
+    ]
+  },
+  {
     "title": "Banal Imperialism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Banal Imperialism.md",
@@ -18691,6 +18706,15 @@
     ]
   },
   {
+    "title": "Peter Sandiford",
+    "type": "person",
+    "path": "wiki/persons/canada/Peter Sandiford.md",
+    "aliases": [
+      "彼得·桑迪福德",
+      "P. Sandiford"
+    ]
+  },
+  {
     "title": "Robbie Case",
     "type": "person",
     "path": "wiki/persons/canada/Robbie Case.md",
@@ -23402,6 +23426,19 @@
     "path": "wiki/facts/global/Regional University Alliances.md",
     "aliases": [
       "区域大学联盟"
+    ]
+  },
+  {
+    "title": "Research Strategies in Comparative Education",
+    "type": "fact",
+    "path": "wiki/facts/global/Research Strategies in Comparative Education.md",
+    "aliases": [
+      "比较教育研究策略调查",
+      "比较教育学研究策略调查",
+      "比较教育方法实证调查",
+      "加州大学洛杉矶分校比较教育期刊元研究",
+      "1999 年比较教育方法调查",
+      "Rust et al. 1999 Study"
     ]
   },
   {
