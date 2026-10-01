@@ -619,6 +619,18 @@
     ]
   },
   {
+    "title": "Development Education",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Development Education.md",
+    "aliases": [
+      "发展教育",
+      "发展中国家教育",
+      "国际发展教育",
+      "Education in Developing Countries",
+      "International Development Education"
+    ]
+  },
+  {
     "title": "Development Turn in Comparative Education",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Development Turn in Comparative Education.md",
@@ -20549,6 +20561,17 @@
     ]
   },
   {
+    "title": "W. H. G. Armytage",
+    "type": "person",
+    "path": "wiki/persons/uk/W. H. G. Armytage.md",
+    "aliases": [
+      "W·H·G·阿米蒂奇",
+      "哈里·阿米蒂奇",
+      "Harry Armytage",
+      "Walter Harry Green Armytage"
+    ]
+  },
+  {
     "title": "Walter Bodmer",
     "type": "person",
     "path": "wiki/persons/uk/Walter Bodmer.md",
@@ -20619,6 +20642,17 @@
       "亚历克斯·F·奥斯本",
       "Alex F. Osborn",
       "亚历克斯·法克尼·奥斯本"
+    ]
+  },
+  {
+    "title": "Alexander Dallas Bache",
+    "type": "person",
+    "path": "wiki/persons/us/Alexander Dallas Bache.md",
+    "aliases": [
+      "亚历山大·达拉斯·贝奇",
+      "亚历山大·贝奇",
+      "A. D. Bache",
+      "Alexander D. Bache"
     ]
   },
   {
@@ -21726,6 +21760,18 @@
       "威廉·杰恩斯",
       "威廉·杰恩斯（William H. Jeynes）",
       "杰尼斯"
+    ]
+  },
+  {
+    "title": "William T. Harris",
+    "type": "person",
+    "path": "wiki/persons/us/William T. Harris.md",
+    "aliases": [
+      "威廉·T·哈里斯",
+      "威廉·哈里斯",
+      "威廉·托里·哈里斯",
+      "W. T. Harris",
+      "William Torrey Harris"
     ]
   },
   {
@@ -27133,6 +27179,19 @@
     "aliases": [
       "美国国防高级研究计划局",
       "Defense Advanced Research Projects Agency"
+    ]
+  },
+  {
+    "title": "Education in Europe",
+    "type": "fact",
+    "path": "wiki/facts/us/Education in Europe.md",
+    "aliases": [
+      "欧洲教育报告",
+      "贝奇欧洲教育报告",
+      "欧洲教育考察报告",
+      "Report on Education in Europe",
+      "Bache's Report on Education in Europe",
+      "Education in Europe (1839)"
     ]
   },
   {

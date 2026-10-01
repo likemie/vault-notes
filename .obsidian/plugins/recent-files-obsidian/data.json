@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rust_2009_Reflections.md"
     },
     {
+      "basename": "Going Native",
+      "path": "wiki/concepts/research-methodology/Going Native.md"
+    },
+    {
       "basename": "Isaac Kandel",
       "path": "wiki/persons/us/Isaac Kandel.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Education for All",
       "path": "wiki/facts/global/Education for All.md"
-    },
-    {
-      "basename": "UNESCO",
-      "path": "wiki/facts/global/UNESCO.md"
     }
   ],
   "omittedPaths": [],

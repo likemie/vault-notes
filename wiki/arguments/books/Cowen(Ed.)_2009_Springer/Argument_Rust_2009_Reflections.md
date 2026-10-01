@@ -7,7 +7,7 @@ title: "Argument_Rust_2009_Reflections"
 argument_key: "Argument_Rust_2009_Reflections"
 argument_display_title: "Reflections on the Development of Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 86
+argument_related_count: 94
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Normal School]]"
   - "[[Going Native]]"
+  - "[[Severability of Politics and Pedagogy]]"
   - "[[Problem Finding]]"
   - "[[Falsification]]"
   - "[[Variable]]"
@@ -59,6 +60,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Dissimilar Units]]"
   - "[[Knowledge Production]]"
+  - "[[Development Education]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Interpretivism]]"
   - "[[Pragmatic Paradigm]]"
@@ -105,6 +107,8 @@ related_persons:
   - "[[Friedrich Schneider]]"
   - "[[Franz Hilker]]"
   - "[[William H. Payne]]"
+  - "[[Peter Sandiford]]"
+  - "[[William T. Harris]]"
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
   - "[[Robert Ulich]]"
@@ -113,8 +117,10 @@ related_persons:
   - "[[C. Arnold Anderson]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
-  - "[[Henry Barnard]]"
+  - "[[Alexander Dallas Bache]]"
   - "[[Calvin Stowe]]"
+  - "[[Henry Barnard]]"
+  - "[[W. H. G. Armytage]]"
   - "[[George Bereday]]"
   - "[[Brian Holmes]]"
   - "[[Robert E. Stake]]"
@@ -123,9 +129,11 @@ related_facts:
   - "[[Education for All]]"
   - "[[Comparative and International Education Society]]"
   - "[[Common School Movement]]"
+  - "[[Education in Europe]]"
   - "[[Report on the State of Public Instruction in Prussia]]"
   - "[[National Education in Europe]]"
   - "[[World Council of Comparative Education Societies]]"
+  - "[[Research Strategies in Comparative Education]]"
   - "[[UNESCO]]"
 confidence: high
 status: active
@@ -220,7 +228,7 @@ updated: 2026-10-01
 > [!term] 比较教育学术语的历史源流与概念辨析
 > - **相对优势探讨（1785）** 托马斯·杰斐逊（Thomas Jefferson）在论及美洲教育相对于欧洲的相对优势（comparative advantages）时较早使用了比较修辞。（p.121）
 > - **比较教育命名确立（1826）** 威廉·罗素（William Russell）英译朱利安法文著作时首次确立比较教育（comparative education）英文表述。
-> - **比较教学科学探索（1888–1889）** 威廉·哈里斯（William T. Harris）主张建立比较教学科学（a science of comparative pedagogy），强调探寻普遍规律。
+> - **比较教学科学探索（1888–1889）** [[William T. Harris|威廉·T·哈里斯]]（[[William T. Harris]]）主张建立比较教学科学（a science of comparative pedagogy），强调探寻普遍规律。
 > - **德语界学术辨析（至今）** 德语学术界持续辨析比较教育科学（Vergleichende Erziehungswissenschaft）与比较教育学（Vergleichende Pädagogik），区分理论探究与实务指导属性。（p.122）
 
 伴随专业教席的设立，奠基学者的人文学科背景塑造了学科早期的知识形态，并与战后实证转型形成了深层对话：
@@ -245,7 +253,7 @@ updated: 2026-10-01
 
 #### 3. 挪威教育政策形成四阶段模型与美国公学运动证明，早期制度借用兼具清醒的政治反思与精细的哲学论证
 
-战后学者常指责早期借用考察缺乏理论深度与批判眼光。然而对挪威改革委员会与美国[[Common School Movement|公学运动]]的历史考据表明，这些先驱不仅具备明确的情境意识，更在[[Epistemology|认识论]]上奠定了现代[[Policy Borrowing|政策借用]]理论的基础：（pp.124–126）
+战后学者常指责早期借用考察缺乏理论深度与批判眼光。然而对挪威改革委员会与美国[[Common School Movement|公学运动]]的历史考据表明，这些先驱不仅具备明确的情境意识，更在[[Epistemology|认识论]]上奠定了现代[[Policy Borrowing|政策借用]]理论的基础。早在 1830 年代，以[[Alexander Dallas Bache|亚历山大·达拉斯·贝奇]]（[[Alexander Dallas Bache]]）、[[Calvin Stowe|卡尔文·斯托]]、[[Horace Mann|霍勒斯·曼]]与[[Henry Barnard|亨利·巴纳德]]为代表的考察学者便相继远赴欧洲。其中，贝奇受吉拉德学院委托历时两载考察欧洲两百余所学校，于 1839 年向理事会提交里程碑式的《[[Education in Europe|欧洲教育报告]]》（[[Education in Europe|Education in Europe]], 1839），为费城乃至全美孤儿慈善教育与公立科技中学的课程规程奠定了扎实的实证比较基石。（pp.124–126）
 
 > [!contrast-table] 跨文化影响研究的两大历史案例对比
 > | 比较维度 | 挪威改革委员会制度借用（1840s 至今） | 美国公学运动汲取普鲁士模式（1830s–1850s） |
@@ -283,7 +291,7 @@ updated: 2026-10-01
 
 > [!evidence-grid] 跨文化影响研究传统的历史承续
 > - **[[Henry Barnard|亨利·巴纳德]]（Henry Barnard, 1854/1872）** 以一己之力编纂《[[National Education in Europe|欧洲国民教育]]》与 31 卷《美国教育杂志》，全景记录欧洲各国学校制度与教学法，被霍姆斯誉为独立完成了"世界教育百科全书"的宏伟目标，是 19 世纪跨文化影响调研的最高成就。（pp.124–126）
-> - **哈里·阿米蒂奇（Harry Armytage, 1967–1969）** 四卷本系统考证美、法、德、俄对英国教育体系的历史影响。
+> - **[[W. H. G. Armytage|W·H·G·阿米蒂奇]]（[[W. H. G. Armytage]]，1967–1969）** 四部曲系统考证美、法、德、俄对英国教育体系的历史影响，树立了跨国教育实证史学的典范。（p.126）
 > - **施奈德（Friedrich Schneider, 1943）** 历史考证德国教育哲学与学校规程在国外的多重辐射。
 > - **戴维·菲利普斯与金伯利·奥克斯（David Phillips & Kimberly Ochs, 2003）** 提炼出跨国政策借用的四阶段分析模型。
 > - **吉塔·施泰纳-哈姆西（Gita Steiner-Khamsi, 2004）** 推进了教育借贷政治学研究，揭示外部借用在本土政治博弈中的合法化功能。（pp.125–126）
@@ -385,7 +393,7 @@ updated: 2026-10-01
 >
 > - **非西方地区的自主[[Knowledge Production|知识生产]]崛起（1980s 至今）**
 >
->   日本建立起健全的比较教育研究体系；印度立足后殖民与南亚区域特点开辟本土研究；中国比较教育学会于 1979 年重建，至 1990 年代创办了 7 种专业期刊，中国台湾地区的国立暨南国际大学设立了 6 个专任比较教育教席；伦敦大学教育学院亦将独立的殖民地教育部与比较教育部门合并，发展中国家研究正式成为学科核心内容。（pp.130–131）
+>   日本建立起健全的比较教育研究体系；印度立足后殖民与南亚区域特点开辟本土研究；中国比较教育学会于 1979 年重建，至 1990 年代创办了 7 种专业期刊，中国台湾地区的国立暨南国际大学设立了 6 个专任比较教育教席；伦敦大学教育学院亦将长期分立的殖民地/发展中教育系与比较教育学系正式合并，使[[Development Education|发展教育]]（[[Development Education]]）全面融入并重构了学科核心议程。（pp.130–131）
 
 #### 2. 经验收集手段多样化与量化分析工具的引入，拓展了实证研究的数据深度
 
