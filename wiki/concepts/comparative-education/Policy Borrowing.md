@@ -7,7 +7,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 92
+related_count: 95
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Pre-Transfer Agency]]"
   - "[[Epistemology]]"
+  - "[[Enlightenment]]"
   - "[[Reference Society]]"
   - "[[Mediatised Governance]]"
   - "[[Performance Pay]]"
@@ -68,6 +69,7 @@ related_theories:
   - "[[Transitology]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Ethnography]]"
   - "[[Item Response Theory]]"
   - "[[Effect Size]]"
   - "[[Discourse Analysis]]"
@@ -111,6 +113,7 @@ related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Klerides_2023_CE]]"
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Beech_2015_GSE]]"
@@ -119,7 +122,7 @@ related_arguments:
 confidence: high
 status: stable
 created: '2026-05-01'
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Policy Borrowing
@@ -295,8 +298,9 @@ updated: 2026-09-29
 > - **恶政与良教的自然可分性原则（Mann's Principle of Separability）** 针对反对派借口外国专制政体抵制外部借用的指责，先驱确立的人性认知普遍性公理：外国政体的专制役使与其教学认知技术在本质上是可分割的。人类掌握读写算的心智认知规律不受政治意志支配，民主社会完全可剥离专制政治灌输，汲取其高效教学法与师范规程以服务于共和公民培育，从而奠定政策借用的学术[[Epistemology|认识论]]基石（[[Argument_Rust_2009_Reflections\|Rust et al., 2009, pp. 124–126]]）。
 > - **全球化四维响应批判框架（Four-Fold Globalization Response Framework）** 批判传统借用理论将跨国流动预设为自愿与对称互惠的盲区，建立涵盖主动借用的“接受（Receptivity）”、草根防御的“抵制（Resistance）”、本土赋权的“恢复（Restoration）”与霸权强加的“强制再生产（Reproduction）”的四维分析模型（[[Argument_Rust_2009_Reflections\|Rust et al., 2009, pp. 133–134]]）。
 > - **实定法直接转置机制（Direct Legislative Transplantation）** 欧陆官方决策精英通过跨国调研外部法典，以法哲学奠基消除正当性赤字，直接将外国技术条款法典化为母国强制立法（如基于普鲁士聚芬法案确立的法国[[Guizot Law of 1833\|1833年基佐法案]]）（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 27–29]]）。
-> - **政治合法化转译机制（Legitimation Rationale Translation）** 北美分权民主语境下，改革者（如[[Horace Mann\|霍勒斯·曼]]）战略性剥离外部专制外壳，抽取公学实绩作为反击本土保守派、为争议改革确立政治正当性的论证依据（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 31–34]]）。
-> - **翻译与变异（Translation and Morphing）** 借用的政策元素在进入本地语境时发生实质性的形态翻译与功能转译，以适应本土环境并承载不同的政治意图（[[Argument_Cowen_2009_CE\|Cowen, 2009b]]）。
+> - **政治合法化转译机制（Legitimation Rationale Translation）** 北美分权民主语境下，改革者（如[[Horace Mann|霍勒斯·曼]]）战略性剥离外部专制外壳，抽取公学实绩作为反击本土保守派、为争议改革确立政治正当性的论证依据（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 31–34]]）。
+> - **学校中心主义借用与启蒙改良合法化（Scholiocentric Borrowing & [[Enlightenment]] [[Educational Meliorism|Meliorism]]）** 19 世纪美欧先驱（如曼、巴纳德、斯托、哈里斯、库森与阿诺德）的借用具有鲜明的“准[[Ethnography|民族志]]”、“准历史”与描述性特征，聚焦于学校内部的学制与教学规程（学校中心主义，scholiocentric）。这些借用的核心驱动力是为本国改革搜寻实用方案，其实质是将外国经验作为推进国家公共教育建构与政治意识形态改良的合法化依据（legitimating rationales），深植于启蒙运动的改良主义与现代性规划精神（Kazamias & Massialas, 1965；Kazamias, 2009a）。
+> - **翻译与变异（Translation and Morphing）** 借用的政策元素在进入本地语境时发生实质性的形态翻译与功能转译，以适应本土环境并承载不同的政治意图（[[Argument_Cowen_2009_CE|Cowen, 2009b]]）。
 > - **认证效应（Certification Effect）** 跨国教育理念或实践的借用对本地教育改革产生认证效应，为本地已启动或酝酿中的改革提供声望与正当性。
 
 ---
@@ -306,8 +310,8 @@ updated: 2026-09-29
 在大规模数据监测普及的背景下，政策借用已从单纯的观念修辞借调扩展为依托物质技术网络的拓扑重组。
 
 > [!feature] 数字化时代政策借用的物质性构件
-> - **数据中介与[[Center of Calculation\|计算中心]]** 借用不再单纯通过学者考察团进行，而是依托专业评估院所（如德国 [[Institute for Educational Quality Improvement\|IQB]]、[[OECD\|经济合作与发展组织]]（OECD））构建跨国与国内数据库对接平台（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 140–144]]）。
-> - **指标[[Commensuration\|通约]]与时空折叠** 国际测试与国家标准通过[[Item Response Theory\|项目反应理论]]（IRT）实现量表等值，使遥远的国际标杆折叠为微观课堂可实时调用的练习资源（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 144–145]]）。
+> - **数据中介与[[Center of Calculation|计算中心]]** 借用不再单纯通过学者考察团进行，而是依托专业评估院所（如德国 [[Institute for Educational Quality Improvement|IQB]]、[[OECD|经济合作与发展组织]]（OECD））构建跨国与国内数据库对接平台（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 140–144]]）。
+> - **指标[[Commensuration|通约]]与时空折叠** 国际测试与国家标准通过[[Item Response Theory|项目反应理论]]（IRT）实现量表等值，使遥远的国际标杆折叠为微观课堂可实时调用的练习资源（[[Argument_Hartong_2018_GSE|Hartong, 2018, pp. 144–145]]）。
 > - **跨尺度远距离治理** 数字平台与题库使宏观政策标准得以穿透行政层级，在保持分权制度表象的同时达成对微观教学的深层规范与引导。
 
 ---
@@ -323,33 +327,36 @@ updated: 2026-09-29
 > [!dimension] 工具性借用与情境冲突维度
 > 探讨地缘政治焦虑与生存危机如何驱动国家对外借鉴，以及本土情境与文化防护对跨国移植的排异机制。
 
-> [!claim] [[Michael Sadler\|Sadler, M.]]
-> **情境的不可移植性** 教育体系并非可随时装卸的机械装置，而是民族生活的活体器官。由于教育体制与其深层社会历史、宗教文化网络深度共生，跨国移植外部教育时必须保持高度情境警觉：任何脱离其原有情境的工具性借用都会因情境不兼容而触及本土系统的自发性防护机制，遭遇本土利益相关者的防御性抵抗，引发制度排异并导致改革流产或回归传统。（[[Argument_Amos_2022_Springer\|Sadler, 1900, 引自 Amos, 2022, pp. 53–54]]）
+> [!claim] [[Michael Sadler|Sadler, M.]]
+> **情境的不可移植性** 教育体系并非可随时装卸的机械装置，而是民族生活的活体器官。由于教育体制与其深层社会历史、宗教文化网络深度共生，跨国移植外部教育时必须保持高度情境警觉：任何脱离其原有情境的工具性借用都会因情境不兼容而触及本土系统的自发性防护机制，遭遇本土利益相关者的防御性抵抗，引发制度排异并导致改革流产或回归传统。（[[Argument_Amos_2022_Springer|Sadler, 1900, 引自 Amos, 2022, pp. 53–54]]）
 
-> [!claim] [[Eleftherios Klerides\|Klerides, E.]]
-> **生存与地缘焦虑的驱动** 在国际自助竞争和主权无政府状态下，国家出于地缘竞争、工业落后恐慌或生存焦虑（如 19 世纪普法竞争、德美工业竞争、明治维新的黑船冲击、冷战[[Sputnik Shock 1957\|人造卫星冲击]]等），会将地缘位阶更高的强国体制建构为“[[Reference Society\|参考社会]]”（Reference Societies），试图将其教育经验视为保障主权安全、赶超地缘对手并提升硬实力的工具性资本进行借用。（[[Argument_Klerides_2023_CE\|Klerides, 2023, p. 420]]）
+> [!claim] [[Eleftherios Klerides|Klerides, E.]]
+> **生存与地缘焦虑的驱动** 在国际自助竞争和主权无政府状态下，国家出于地缘竞争、工业落后恐慌或生存焦虑（如 19 世纪普法竞争、德美工业竞争、明治维新的黑船冲击、冷战[[Sputnik Shock 1957|人造卫星冲击]]等），会将地缘位阶更高的强国体制建构为“[[Reference Society|参考社会]]”（Reference Societies），试图将其教育经验视为保障主权安全、赶超地缘对手并提升硬实力的工具性资本进行借用。（[[Argument_Klerides_2023_CE|Klerides, 2023, p. 420]]）
 
 ---
 
 ### 命题二　政策借用本质上是一种外化修辞策略，旨在通过全球话语为争议性本土决策提供正当性
 
-> [!dimension] [[Externalization\|外部化]]合法化与政治修辞维度
+> [!dimension] [[Externalization|外部化]]合法化与政治修辞维度
 > 聚焦政策借用背后的国内政治动因，剖析官方如何将外部声望话语作为合法化修辞来推行争议性本土方案。
 
-> [!claim] [[Gita Steiner-Khamsi\|Steiner-Khamsi, G.]]
-> **外部化合法化功能** 政策借用的深层功能并非基于理性的技术性学习，而是一种对内的政治合法化修辞。当本土决策者在国内推行触动特定利益的教育改革时，会通过将国内政策“外化”（Externalization）到具有高国际声望的全球话语（如 [[OECD]] 指标、国际评估），将其包装为顺应全球化科学趋势的唯一合理选择，从而以中立技术的外衣降解国内政治博弈，为国内争议性方案提供正当性护航并降低反对阻力。（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 482]]；引自 Steiner-Khamsi, 2012）
+> [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi, G.]]
+> **外部化合法化功能** 政策借用的深层功能并非基于理性的技术性学习，而是一种对内的政治合法化修辞。当本土决策者在国内推行触动特定利益的教育改革时，会通过将国内政策“外化”（Externalization）到具有高国际声望的全球话语（如 [[OECD]] 指标、国际评估），将其包装为顺应全球化科学趋势的唯一合理选择，从而以中立技术的外衣降解国内政治博弈，为国内争议性方案提供正当性护航并降低反对阻力。（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, p. 482]]；引自 Steiner-Khamsi, 2012）
 
 > [!claim] Steiner-Khamsi, G.
-> **方案先行、问题后建的社会建构** 政策借用过程遵循逆向技术流：决策者并非在发现技术问题后寻找国际经验，而是往往在引入国际参考之前，已在国内确立了偏好的解决方案。随后，为了合法化该既定方案，政府才在官方修辞中建构特定的本土体系陈旧或教育质量危机问题，使该方案显得具有不可避免的合理性。（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, pp. 486–487]]）
+> **方案先行、问题后建的社会建构** 政策借用过程遵循逆向技术流：决策者并非在发现技术问题后寻找国际经验，而是往往在引入国际参考之前，已在国内确立了偏好的解决方案。随后，为了合法化该既定方案，政府才在官方修辞中建构特定的本土体系陈旧或教育质量危机问题，使该方案显得具有不可避免的合理性。（[[Argument_Yan_2025_JCS|Yan & Morris, 2025, pp. 486–487]]）
 
 > [!claim] Klerides, E.
-> **远距离治理的技术中介** 在理性主义多边治理机制下，比较教育中看似客观的国际标准、基准测试（benchmarking）和大数据评估（如 [[PISA]]），实质上是超国家组织和跨国机构行使远距离治理（[[Governing at a Distance]]）的软性控制技术。这些科学化指标远程工具化引导着国家教育政策调整，从而将外部施加的治理规则内化为本土教育借用的正当性强制力。（[[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]]）
+> **远距离治理的技术中介** 在理性主义多边治理机制下，比较教育中看似客观的国际标准、基准测试（benchmarking）和大数据评估（如 [[PISA]]），实质上是超国家组织和跨国机构行使远距离治理（[[Governing at a Distance]]）的软性控制技术。这些科学化指标远程工具化引导着国家教育政策调整，从而将外部施加的治理规则内化为本土教育借用的正当性强制力。（[[Argument_Klerides_2023_CE|Klerides, 2023, p. 425]]）
 
-> [!claim] Kaloyannaki, P. & [[Andreas Kazamias\|Kazamias, A.]] M.
-> **权力结构分流与作为合法化依据的政策借用** 政策借用的政治合法化功能早在 19 世纪比较教育学发端阶段便已成熟运作。政权体制的权力结构直接决定了跨国知识的处理方式：法国中央集权官僚体制允许行政决策者（如[[Victor Cousin\|维克多·库森]]）将普鲁士经验直接写入国家实定法（1833 年基佐法案）；而在美国联邦分权与民主协商语境下，以[[Horace Mann\|霍勒斯·曼]]、[[Calvin Stowe\|卡尔文·斯托]]与[[Henry Barnard\|亨利·巴纳德]]为代表的改革者缺乏行政强制权力，被迫将外部探究从制度技术移植根本转向政治正当性辩护。改革者战略性剥离欧洲专制外壳，抽取其公学实绩作为强有力的政治合法化依据（legitimating rationales），以此反击波士顿保守学监联盟与正统教会对体罚废除与公税办学的围攻，为合众国建立普及、免费且由公税支持的公共学校确立正当性基石。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 26–34]]）
+> [!claim] Kaloyannaki, P. & [[Andreas Kazamias|Kazamias, A.]] M.
+> **权力结构分流与作为合法化依据的政策借用** 政策借用的政治合法化功能早在 19 世纪比较教育学发端阶段便已成熟运作。政权体制的权力结构直接决定了跨国知识的处理方式：法国中央集权官僚体制允许行政决策者（如[[Victor Cousin|维克多·库森]]）将普鲁士经验直接写入国家实定法（1833 年基佐法案）；而在美国联邦分权与民主协商语境下，以[[Horace Mann|霍勒斯·曼]]、[[Calvin Stowe|卡尔文·斯托]]与[[Henry Barnard|亨利·巴纳德]]为代表的改革者缺乏行政强制权力，被迫将外部探究从制度技术移植根本转向政治正当性辩护。改革者战略性剥离欧洲专制外壳，抽取其公学实绩作为强有力的政治合法化依据（legitimating rationales），以此反击波士顿保守学监联盟与正统教会对体罚废除与公税办学的围攻，为合众国建立普及、免费且由公税支持的公共学校确立正当性基石。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009, pp. 26–34]]）
 
-> [!claim] [[Argument_Grey_2018_CE\|Grey & Morris (2018, pp. 116–122)]]
-> **[[Mediatised Governance\|媒介化治理]]与跨国借用的遗漏话语操作** 当代跨国政策借用不仅依赖官方文本，更演化为政治精英操纵个人与体制媒介资本的公关战。在英格兰 2013 年教师[[Performance Pay\|绩效工资]]制（Performance-Related Pay, PRP）改革中，教育大臣动用新闻首发特权，高调借用 PISA 评估中的上海高分样板与 OECD 专家言论，声称重奖优秀教师是全球前沿趋势。然而，这一借用过程在[[Epistemology\|认识论]]上严重依赖“遗漏话语（discourse of omission）”：系统性剔除经合组织全样本数据中“绩效工资与成绩无相关性”的核心事实，并掩盖上海依托教研组开展专业合作的制度真貌。大众媒介出于时效与流量压力集体陷入[[Policy Avoidance\|政策规避]]（policy avoidance），未对借用主张的真实[[Chain of Evidence\|证据链]]展开实质审查，从而使缺乏本土民意授权与科学依据的激进私有化议程成功披上了国际循证的合法化外衣。
+> [!claim] Kazamias, A. M.
+> **学校中心主义借用与启蒙改良合法化论断** 卡扎米亚斯系统界定了 19 世纪第一代比较教育研究的政策借用性质。曼、巴纳德、斯托、哈里斯等美国行政官员与库森、阿诺德等欧洲督学开展跨国调研的支配性动机，是搜寻可供本国改革“借用”（borrow）的有用观念与实践。这一时期的借用报告多具描述性、劝诱性与“学校中心主义”（scholiocentric）特征（将学校、学制与教学法作为孤立的制度现象）。更为根本的是，借用的外国经验在深层被用作服务于政治意识形态与道德[[Educational Meliorism|教育改良主义]]（educational meliorism）的合法化依据（legitimating rationales）。直到萨德勒在 1900 年牛津演讲中提出“校外之物重于校内之物”，比较教育才实现了对素朴学校中心主义借用的[[Epistemology|认识论]]超越。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–142)]]
+
+> [!claim] [[Argument_Grey_2018_CE|Grey & Morris (2018, pp. 116–122)]]
+> **[[Mediatised Governance|媒介化治理]]与跨国借用的遗漏话语操作** 当代跨国政策借用不仅依赖官方文本，更演化为政治精英操纵个人与体制媒介资本的公关战。在英格兰 2013 年教师[[Performance Pay|绩效工资]]制（Performance-Related Pay, PRP）改革中，教育大臣动用新闻首发特权，高调借用 PISA 评估中的上海高分样板与 OECD 专家言论，声称重奖优秀教师是全球前沿趋势。然而，这一借用过程在[[Epistemology|认识论]]上严重依赖“遗漏话语（discourse of omission）”：系统性剔除经合组织全样本数据中“绩效工资与成绩无相关性”的核心事实，并掩盖上海依托教研组开展专业合作的制度真貌。大众媒介出于时效与流量压力集体陷入[[Policy Avoidance|政策规避]]（policy avoidance），未对借用主张的真实[[Chain of Evidence|证据链]]展开实质审查，从而使缺乏本土民意授权与科学依据的激进私有化议程成功披上了国际循证的合法化外衣。
 
 ---
 
@@ -418,7 +425,7 @@ updated: 2026-09-29
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **工具性借用与情境冲突** | 地缘竞争焦虑驱动工具性借鉴，常因本土历史文化防护引发体制排异 | 地缘危机恐慌期或赶超式改革语境 | Sadler; Klerides |
-> | **外部化合法化与政治修辞** | 操纵国际高声望话语进行外化论证，以合法化既有的本土政治议程 | 内部争议性大、需要寻求外部共识背书的决策 | Steiner-Khamsi; Klerides; Kaloyannaki & Kazamias; Grey & Morris |
+> | **外部化合法化与政治修辞** | 操纵国际高声望话语进行外化论证，以合法化既有的本土政治议程 | 内部争议性大、需要寻求外部共识背书的决策 | Steiner-Khamsi; Klerides; Kaloyannaki & Kazamias; Grey & Morris; [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] |
 > | **流动转译与形态变异** | 政策元素在转移中必然经历本地转译，在微观权力作用下产生实践变形 | 跨国政策移植的落地与实施阶段 | Cowen; Schriewer; Klerides |
 > | **合法化功能与行政强力边界** | 借用话语作为合法化策略，在政府拥有绝对命令权力的语境下面临失效 | 政治环境剧变、强制性行政权力接管时期 | Yan & Morris |
 > | **数据基础设施与拓扑装配** | 跨尺度数据流动与算法[[Commensuration\|通约]]取代单一文本借用，将外部基准折叠进微观教学 | 大规模数据监测普及、数字化治理与联邦多级体制 | [[Argument_Hartong_2018_GSE\|Hartong (2018)]] |
@@ -442,6 +449,7 @@ updated: 2026-09-29
 > - **2009 — 形态变异理论主张** 考恩建立“转移—[[Transfer Translation Transformation\|转译]]—变形”链条，论证政策元素在跨国流动中由于微观权力的介入必然发生形态变异。（[[Argument_Cowen_2009_CE\|Cowen, 2009b]]）
 > - **2009 — 德英双轨传统消解与浅层借用[[Epistemology|认识论]]警示** [[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter, 2009）系统对比了欧洲比较教育的德英双轨建制模式：英国面向专业实践、政策借用与实务咨询，德国依托[[Allgemeine Pädagogik|普通教育学]]（Allgemeine Pädagogik）与[[Bildung|教化]]哲学（Bildung）坚守形而上学价值反思；并在当代大规模国际测评热潮下警示：比较学者必须坚守“[[Navigation Metaphor in Comparative Education|航海隐喻]]”的中立警示职责，抵御去情境化的浅层政策借用对学科批判认识论身份的消解。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89, 95–99)]]
 > - **2009 — 全球化四重响应模型与早期借用认识论平反** [[Val D. Rust|瓦尔·拉斯特]]、约翰斯通与阿拉夫（Rust, Johnstone & Allaf, 2009）批判传统借用理论的自愿互惠[[Hypothesis|假设]]，确立涵盖“接受、抵制、恢复、强制再生产”的四维批判分析框架；同时系统考证挪威改革委员会与美国[[Common School Movement|公学运动]]，平反早期借用考察，确立“恶政良教自然可分”原则为政策借用的学术认识论基石。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 124–126, 133–134)]]
+> - **2009 — 第一代学校中心主义借用与启蒙改良合法化史学定性** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias, 2009a）系统定性 19 世纪第一代美欧先驱的借用行为：阐明其“学校中心主义”（scholiocentric）与劝诱性特征，揭示将外国经验作为国内政治与道德改良合法化依据的启蒙现代性底色，并阐述[[Michael Sadler|萨德勒]]历史文化转向对素朴借用移植的认识论批判。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–142)]]
 > - **2012 — 政治借用与实质学习的系统区隔** 施泰纳-哈姆西系统界定“政治借用”（选择性、仪式性）与“实质学习”（开放、交流性）的分野。
 > - **2018 — 媒介化全球治理与罗生门借用模型** 格雷与莫里斯（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）揭示以 [[PISA]] 为代表的大规模跨国测评时代政策借用的新特征：政策借用从传统的官方行政调研升级为高度依赖大众媒介公关的“媒介化借用”；决策者通过“遗漏话语”剪裁外部卓越样板（如上海），而新闻媒体的[[Policy Avoidance\|政策规避]]使得未经检验的合法化借用得以逃避民主问责，使政策借用与[[Rashomon Effect\|罗生门效应]]深度咬合。
 > - **2018 — 拓扑[[Assemblage\|政策装配]]与[[Data Infrastructure\|数据基础设施]]转向** [[Sigrid Hartong\|西格丽德·哈通]]（Sigrid Hartong, 2018）批判正统政策借用对技术物质性与拓扑尺度的忽视，指出跨尺度数据基础设施（如题库、[[Center of Calculation\|计算中心]]与平台）将国际基准直接折叠进微观教学实践，重构了跨国借用与国内治理的边界。（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）
@@ -509,6 +517,7 @@ updated: 2026-09-29
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 批判正统政策借用与新制度主义对微观技术物质性的忽视，以德国 [[PISA]] 震荡后教育监测改革为例，揭示跨尺度[[Data Infrastructure\|数据基础设施]]与[[Center of Calculation\|计算中心]]如何实现教育政策的[[Topological Spatialisation\|拓扑学重组]]。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 系统剖析 19 世纪欧美跨国借用的机制分野：[[Victor Cousin\|维克多·库森]]在法国推行的普鲁士教育法案“实定法直接转置”模式，与[[Horace Mann\|霍勒斯·曼]]在北美将普鲁士公学实绩作为反击保守派的“政治合法化论证依据”模式。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 阐发 19 世纪第一代学校中心主义借用如何作为政治意识形态合法化依据，以及[[Michael Sadler|萨德勒]]历史文化转向对素朴借用的超越。
 > - [[Argument_Rappleye_2006_RCIE\|Rappleye (2006)]] — 构建[[Cross-National Attraction\|跨国吸引力]]情境[[Concept Mapping\|概念地图]]，剖析[[Pre-Transfer Agency\|前转移能动性]]与吸引力四种修辞动机，并以甲午战争后中国晚清改革派与保守派基于不同政治动机共同借用日本教育体制为例展开实证分析。
 > - [[Argument_Cowen_2009_CE\|Cowen (2009b)]] — 建立“转移—[[Transfer Translation Transformation\|转译]]—形态变异”分析视角，论证教育政策元素在跨国流动中受微观权力与时空重构必然发生实质形态改变。
 > - [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]] — 追踪[[Liberal Studies\|香港通识教育科]]从创立到废除的生命周期，揭示政策借用作为本土政治议程[[Externalization\|外化]]合法化工具的运作机制，并界定高压威权行政接管下政策借用[[Analytic Framework\|分析框架]]的失效边界。

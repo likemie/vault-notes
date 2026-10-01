@@ -8,7 +8,7 @@ aliases:
 summary: "马丁·怀特将国际关系思想归纳为现实主义（马基雅维利）、理性主义（格劳秀斯）和革命主义（康德）三大传统，分别以权力、权威和武力为核心概念，克莱里德斯将其引入比较教育以解构学科的注意力议程与知识生产"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 42
+theory_related_count: 41
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -53,7 +53,6 @@ related_persons:
   - "[[Immanuel Kant]]"
   - "[[Michael Sadler]]"
   - "[[Isaac Kandel]]"
-  - "[[Martin Carnoy]]"
   - "[[Marc-Antoine Jullien]]"
 related_facts:
   - "[[Sputnik Shock 1957]]"
@@ -141,7 +140,7 @@ updated: 2026-10-01
 > [!proposition-chain] 核心命题四｜普遍共同体的革命主义设想将比较教育定位为解构资本/殖民支配并开辟去殖民可能性的道德批判事业
 > - **前提一** 革命主义将政治现实置于跨越国界的普遍人类共同体，国际政治是从属者推翻支配者压迫并重建世界的斗争，其核心在于抗争的“武力”。
 >   > [!evidence-grid]- 证据
->   > - **[[Dependency Theory\|依附理论]]与中心-边缘模型** 1970-80年代[[Martin Carnoy|卡诺伊]]、阿特巴赫等采用依附理论，指出西方资本剥削和世界秩序才是穷国教育不发展的根源，以“中心-边缘”概念重构地缘空间 (p. 427)。
+>   > - **[[Dependency Theory\|依附理论]]与中心-边缘模型** 1970-80年代卡诺伊、阿特巴赫等采用依附理论，指出西方资本剥削和世界秩序才是穷国教育不发展的根源，以“中心-边缘”概念重构地缘空间 (p. 427)。
 >   > - **教育作为激进重构的工具** 革命主义赋予教育打破社会等级角色，如越南、古巴和莫桑比克的革命政府从苏联借用“工人学院”模式，重塑工农阶级知识分子以替代旧资产阶级精英 (p. 427)。
 > - **前提二** 全球政策流动、西方评估体系及学科自身的认识型制造本质上是新殖民主义对非西方心智的“[[Re-Westernisation\|再西方化]]”奴役与剥削，必须从根本上予以解构。
 >   > [!evidence-grid]- 证据

@@ -10,7 +10,7 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度起源�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 44
+method_related_count: 47
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -45,6 +45,8 @@ related_concepts:
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Allgemeine Pädagogik]]"
   - "[[Comparative History of Comparative Education]]"
+  - "[[Protean Episteme]]"
+  - "[[Scientism]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -70,10 +72,11 @@ related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Cowen_2009_HistoryCreation]]"
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Historical-Comparative Method
@@ -83,7 +86,7 @@ updated: 2026-09-29
 ## 定义
 
 > [!def] 方法定义
-> **历史比较法（Historical-Comparative Method）** 是将**历史溯源诠释（Historical-Genetic Hermeneutics）**与**跨国横向比较（Cross-National Comparison）**有机融合的核心[[Qualitative Research\|质性研究]]方法。该方法将各民族国家的教育制度或超国家治理组织的演化置于其生成发展的具体历史脉络中，通过系统考证政治、经济、文化、宗教与地缘权力等结构性力量的长期演进，揭示制度特征形成的因果机制；拒绝将当下教育现象抽离其时空母体进行孤立切片，其核心旨趣在于通过发掘历史档案、法令条款、视察调查与思想文本中的深层动因，解释制度与治理网络“何以成为当下形态”，并在此基础上归纳提炼可用于阐明其他同类制度演变的工作[[Hypothesis\|假设]]。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 39–40, 56–57)]]；[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> **历史比较法（Historical-Comparative Method）** 是将**历史溯源诠释（Historical-Genetic Hermeneutics）**与**跨国横向比较（Cross-National Comparison）**有机融合的核心[[Qualitative Research\|质性研究]]方法。该方法将各民族国家的教育制度或超国家治理组织的演化置于其生成发展的具体历史脉络中，通过系统考证政治、经济、文化、宗教与地缘权力等结构性力量的长期演进，揭示制度特征形成的因果机制；拒绝将当下教育现象抽离其时空母体进行孤立切片，其核心旨趣在于通过发掘历史档案、法令条款、视察调查与思想文本中的深层动因，解释制度与治理网络“何以成为当下形态”，并在此基础上归纳提炼可用于阐明其他同类制度演变的工作[[Hypothesis\|假设]]。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 39–40, 56–57)]]；[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 民族国家教育体系的建制沿革、教育法令条款、课程与师资制度演化、教育哲学思想争鸣，跨国教育在“多样性（各民族历史文化独特性）与统一性（超国家文明传统与制度趋同）”辩证张力下的宏观演进轨迹，以及超国家组织（IOs）的历史演进轨迹与[[Global Education Governing Complex\|全球教育治理复合体]]的制度发生学。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–88)]]
@@ -92,7 +95,7 @@ updated: 2026-09-29
 > - **输出形式** 历史因果脉络谱系、制度演进动力模型、跨国对照[[Analytic Framework\|分析框架]]、中程工作假设（Working Hypotheses）、国际组织历史演化类型学。
 
 > [!citation-card] 历史比较法从个案归纳工作假设的[[Epistemology\|认识论]]辩护
-> 针对[[Positivism\|实证主义]]者关于历史学仅能处理孤立独特性、无法为比较研究提供抽象与普遍化基础的指责，比较历史学早已证明：对历史现象进行分类并为了形成概括而进行比较是完全可能的。正如著名历史学家[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）所示，尽管此类概括属于有限范围而非普适规律，但它们能够作为工作假设在其他类似情境中进行检验，以阐明新的教育形态；历史学与社会科学皆包含对特殊性与普遍性的关切，二者差异仅在于研究侧重点与学术目的，而非方法上的对立。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 56)]]
+> 针对[[Positivism\|实证主义]]者关于历史学仅能处理孤立独特性、无法为比较研究提供抽象与普遍化基础的指责，比较历史学早已证明：对历史现象进行分类并为了形成概括而进行比较是完全可能的。正如著名历史学家[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）所示，尽管此类概括属于有限范围而非普适规律，但它们能够作为工作假设在其他类似情境中进行检验，以阐明新的教育形态；历史学与社会科学皆包含对特殊性与普遍性的关切，二者差异仅在于研究侧重点与学术目的，而非方法上的对立。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 56)]]
 >
 > *As Crane Brinton has shown, it is quite possible to categorize or classify historical phenomena and compare them for the purpose of making generalizations. Although such generalizations may be of a limited rather than a universal nature, they may in turn be used as working hypotheses to be tested in other similar situations in order to illuminate them. In other words, from an examination of the specific, the concrete and the particular, the historically-minded comparative educator may induce a generalization and then use it in order to illuminate another particular event or form.*
 
@@ -101,7 +104,7 @@ updated: 2026-09-29
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 秉持广义科学观（*Wissenschaft* / *Episteme*），认为严谨系统的历史事实考据、因果归纳与哲学阐释同样生产可靠的客观学术知识，反对将科学狭隘等同于数理统计与行为主义测量。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 56)]]
+> - **知识观** 秉持广义科学观（*Wissenschaft* / *Episteme*），认为严谨系统的历史事实考据、因果归纳与哲学阐释同样生产可靠的客观学术知识，反对将科学狭隘等同于数理统计与行为主义测量。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 56)]]
 > - **研究者角色** 具备深厚思想史与政治学修养的文化诠释者，既深入发掘历史个案的独特性与“内在生命”，又具备跨国横向比较的结构视野。
 > - **有效性标准** 史料考据的权威性与扎实度、情境解释的完整性与深度、因果机制推演的逻辑自洽性。
 > - **不声称回答的问题** 不声称提供脱离时空情境的普适因果定律，不提供短期政策工程的技术官僚预测参数。
@@ -164,7 +167,7 @@ updated: 2026-09-29
 >   - 剖析重大教育法令、现代学校形态与课程双轨制的历史发生学渊源；
 >   - 追踪超国家组织（IOs）在长周期历史演变中如何确立其教育法定职责，以及从二战后经济重建转向全球[[Policy Brokerage\|政策中介]]与[[Soft Power by Hard Facts\|硬事实软权力]]治理的历史轨迹（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]）；
 >   - 揭示[[Policy Borrowing\|教育借用]]与政策移植过程中的文化阻抗、[[Transfer Translation Transformation\|转译]]与[[Going Native\|本土化]]机制；
->   - 建立跨国教育制度类型学并阐明各民族或国际组织的独特文化精神底色与组织利基。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 38–42)]]
+>   - 建立跨国教育制度类型学并阐明各民族或国际组织的独特文化精神底色与组织利基。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 38–42)]]
 >   - 剖析冷战或地缘政治分裂背景下，同一民族不同意识形态阵营的教育制度分化与重聚过程（如西德与东德教育体制历史比较，[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 91–92)]]）；
 >   - 解构学科制度史的演进逻辑，透视大学教席分布、学会建制与[[State Educational Sovereignty|国家教育主权]]博弈对比较教育学科[[Paradigm|范式]]的长周期塑造。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88–94)]]
 > - **谨慎使用**
@@ -219,11 +222,11 @@ updated: 2026-09-29
 ## 使用此方法的研究
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009)]] — 卡扎米亚斯运用历史比较法梳理比较教育史中历史-哲学母题的起源、演变、[[Paradigm|范式]]分支与[[Positivism|实证主义]]危机，系统重构该方法论的现代合法性。
+> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯运用历史比较法梳理比较教育史中历史-哲学母题的起源、演变、[[Paradigm|范式]]分支与[[Positivism|实证主义]]危机，系统重构该方法论的现代合法性。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 运用比较历史考证[[Marc-Antoine Jullien|朱利安]]与欧美行政官员在 19 世纪的[[Document|文献]]档案，揭示现代主义发端的双重母题。
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 运用比较史学方法剖析比较教育学科史编纂面临的档案隐蔽与材料匮乏困境，提出“[[Comparative History of Comparative Education|比较教育学的比较史]]”。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 米特运用历史比较与学科史制度分析，以“多样性与统一性”辩证法为宏观历史框架，系统梳理欧洲比较教育学跨越两个世纪的大学教席地理分布、学术学会竞合、理论范式转换期以及奥斯卡·安韦勒主持的西德与东德跨制度历史比较，确立历史比较法在跨意识形态与长时段学科史中的典范应用。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 突破传统民族国家容器限制，将历史比较法创新性应用于跨国组织演进研究，通过对[[OECD|经合组织]]（OECD）与[[World Bank|世界银行]]长达 50–75 年的历史档案与制度变迁进行长周期时空追踪，揭示二者如何从马歇尔计划与经济援助机构跨界扩张为教育[[Policy Brokerage|政策中介]]巨头，并在竞争中分化出不同的实证研究帝国与组织利基。
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009b)]] — 卡扎米亚斯运用历史比较法与学科史反思，系统考察比较教育学作为“[[Protean Episteme|普罗透斯式认识体系]]”跨越两百年的代际演进与类型分化（准科学与行政改良、历史人文主义、实证科学主义及冲突范式），以文献计量证据揭示学科面临的“历史健忘症”危机，确立历史学与社会科学综合纲领的现代合法性。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯运用历史比较法与学科史反思，系统考察比较教育学作为“[[Protean Episteme|普罗透斯式认识体系]]”跨越两百年的代际演进与类型分化（准科学与行政改良、历史人文主义、实证[[Scientism|科学主义]]及冲突范式），以文献计量证据揭示学科面临的“历史健忘症”危机，确立历史学与社会科学综合纲领的现代合法性。
 
 

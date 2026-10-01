@@ -1,164 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "World-Systems Theory",
+      "path": "wiki/theories/comparative-education/World-Systems Theory.md"
+    },
+    {
       "basename": "Argument_Kazamias_2009_HistoricalReflections",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md"
-    },
-    {
-      "basename": "Argument_Kazamias_2009_ForgottenThemes",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md"
-    },
-    {
-      "basename": "Argument_Arnove_2009_WorldSystems",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
-    },
-    {
-      "basename": "Argument_Rust_2009_Reflections",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rust_2009_Reflections.md"
-    },
-    {
-      "basename": "Argument_Peterson_1987_OpenCourt_Ch06",
-      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch06.md"
-    },
-    {
-      "basename": "Analytic Framework",
-      "path": "wiki/methods/qualitative/Analytic Framework.md"
-    },
-    {
-      "basename": "Going Native",
-      "path": "wiki/concepts/research-methodology/Going Native.md"
-    },
-    {
-      "basename": "Isaac Kandel",
-      "path": "wiki/persons/us/Isaac Kandel.md"
-    },
-    {
-      "basename": "Calvin Stowe",
-      "path": "wiki/persons/us/Calvin Stowe.md"
-    },
-    {
-      "basename": "Horace Mann",
-      "path": "wiki/persons/us/Horace Mann.md"
-    },
-    {
-      "basename": "template-argument-edited-volume",
-      "path": "wiki/templates/template-argument-edited-volume.md"
-    },
-    {
-      "basename": "Theoretical Perspective",
-      "path": "wiki/concepts/research-methodology/Theoretical Perspective.md"
-    },
-    {
-      "basename": "Structural Adjustment Programs",
-      "path": "wiki/concepts/comparative-education/Structural Adjustment Programs.md"
-    },
-    {
-      "basename": "Performance Indicators",
-      "path": "wiki/concepts/educational-policy-reform/Performance Indicators.md"
-    },
-    {
-      "basename": "Pragmatic Paradigm",
-      "path": "wiki/concepts/educational-philosophy/Pragmatic Paradigm.md"
-    },
-    {
-      "basename": "Dependency Theory",
-      "path": "wiki/theories/comparative-education/Dependency Theory.md"
-    },
-    {
-      "basename": "Postmodernism",
-      "path": "wiki/theories/educational-philosophy/Postmodernism.md"
-    },
-    {
-      "basename": "Symbolic Interactionism",
-      "path": "wiki/theories/sociology-of-education/Symbolic Interactionism.md"
-    },
-    {
-      "basename": "Phenomenology",
-      "path": "wiki/theories/educational-philosophy/Phenomenology.md"
-    },
-    {
-      "basename": "Constructivist Paradigm",
-      "path": "wiki/concepts/educational-philosophy/Constructivist Paradigm.md"
-    },
-    {
-      "basename": "Critical Theory",
-      "path": "wiki/theories/educational-philosophy/Critical Theory.md"
-    },
-    {
-      "basename": "Participant Observation",
-      "path": "wiki/methods/qualitative/Participant Observation.md"
     },
     {
       "basename": "Ethnography",
       "path": "wiki/methods/qualitative/Ethnography.md"
     },
     {
-      "basename": "In-depth Interview",
-      "path": "wiki/methods/qualitative/In-depth Interview.md"
-    },
-    {
-      "basename": "Primary and Secondary Documents",
-      "path": "wiki/concepts/research-methodology/Primary and Secondary Documents.md"
-    },
-    {
-      "basename": "Knowledge Production",
-      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
-    },
-    {
-      "basename": "World Council of Comparative Education Societies",
-      "path": "wiki/facts/global/World Council of Comparative Education Societies.md"
-    },
-    {
       "basename": "Fieldwork",
       "path": "wiki/methods/qualitative/Fieldwork.md"
     },
     {
-      "basename": "Value Neutrality",
-      "path": "wiki/concepts/educational-philosophy/Value Neutrality.md"
+      "basename": "Joel Samoff",
+      "path": "wiki/persons/us/Joel Samoff.md"
     },
     {
-      "basename": "Ideology Critique",
-      "path": "wiki/methods/qualitative/Ideology Critique.md"
+      "basename": "Disciplina and Doctrina",
+      "path": "wiki/concepts/educational-philosophy/Disciplina and Doctrina.md"
     },
     {
-      "basename": "Educational Meliorism",
-      "path": "wiki/concepts/comparative-education/Educational Meliorism.md"
+      "basename": "Immanuel Wallerstein",
+      "path": "wiki/persons/us/Immanuel Wallerstein.md"
     },
     {
-      "basename": "Robert E. Stake",
-      "path": "wiki/persons/us/Robert E. Stake.md"
+      "basename": "Robert Arnove",
+      "path": "wiki/persons/us/Robert Arnove.md"
     },
     {
-      "basename": "Quantitative Research",
-      "path": "wiki/methods/quantitative/Quantitative Research.md"
+      "basename": "John W. Meyer",
+      "path": "wiki/persons/us/John W. Meyer.md"
     },
     {
-      "basename": "Qualitative Research",
-      "path": "wiki/methods/qualitative/Qualitative Research.md"
+      "basename": "Dependency Theory",
+      "path": "wiki/theories/comparative-education/Dependency Theory.md"
     },
     {
-      "basename": "George Bereday",
-      "path": "wiki/persons/us/George Bereday.md"
+      "basename": "Crane Brinton",
+      "path": "wiki/persons/us/Crane Brinton.md"
     },
     {
-      "basename": "Brian Holmes",
-      "path": "wiki/persons/uk/Brian Holmes.md"
+      "basename": "Falsification",
+      "path": "wiki/concepts/educational-philosophy/Falsification.md"
     },
     {
-      "basename": "Henry Barnard",
-      "path": "wiki/persons/us/Henry Barnard.md"
+      "basename": "Problem Approach",
+      "path": "wiki/methods/qualitative/Problem Approach.md"
     },
     {
-      "basename": "Seventh Annual Report of the Massachusetts Board of Education",
-      "path": "wiki/facts/us/Seventh Annual Report of the Massachusetts Board of Education.md"
+      "basename": "Hypothesis",
+      "path": "wiki/concepts/research-methodology/Hypothesis.md"
     },
     {
-      "basename": "Victor Cousin",
-      "path": "wiki/persons/france/Victor Cousin.md"
-    },
-    {
-      "basename": "Common School Movement",
-      "path": "wiki/facts/us/Common School Movement.md"
+      "basename": "IEA",
+      "path": "wiki/facts/global/IEA.md"
     },
     {
       "basename": "Max Eckstein",
@@ -169,36 +69,136 @@
       "path": "wiki/persons/us/Harold Noah.md"
     },
     {
+      "basename": "Brian Holmes",
+      "path": "wiki/persons/uk/Brian Holmes.md"
+    },
+    {
       "basename": "C. Arnold Anderson",
       "path": "wiki/persons/us/C. Arnold Anderson.md"
     },
     {
-      "basename": "Andreas Kazamias",
-      "path": "wiki/persons/us/Andreas Kazamias.md"
+      "basename": "Philip Foster",
+      "path": "wiki/persons/us/Philip Foster.md"
+    },
+    {
+      "basename": "Variable",
+      "path": "wiki/concepts/research-methodology/Variable.md"
+    },
+    {
+      "basename": "Liberal Education",
+      "path": "wiki/concepts/educational-philosophy/Liberal Education.md"
+    },
+    {
+      "basename": "Causality",
+      "path": "wiki/concepts/educational-philosophy/Causality.md"
     },
     {
       "basename": "Robert Ulich",
       "path": "wiki/persons/us/Robert Ulich.md"
     },
     {
+      "basename": "Unit of Analysis",
+      "path": "wiki/concepts/research-methodology/Unit of Analysis.md"
+    },
+    {
+      "basename": "Henry Barnard",
+      "path": "wiki/persons/us/Henry Barnard.md"
+    },
+    {
+      "basename": "Horace Mann",
+      "path": "wiki/persons/us/Horace Mann.md"
+    },
+    {
+      "basename": "template-argument-edited-volume",
+      "path": "wiki/templates/template-argument-edited-volume.md"
+    },
+    {
+      "basename": "Victor Cousin",
+      "path": "wiki/persons/france/Victor Cousin.md"
+    },
+    {
+      "basename": "Isaac Kandel",
+      "path": "wiki/persons/us/Isaac Kandel.md"
+    },
+    {
+      "basename": "Michael Sadler",
+      "path": "wiki/persons/uk/Michael Sadler.md"
+    },
+    {
+      "basename": "Content Analysis",
+      "path": "wiki/methods/qualitative/Content Analysis.md"
+    },
+    {
+      "basename": "Historical-Comparative Method",
+      "path": "wiki/methods/qualitative/Historical-Comparative Method.md"
+    },
+    {
+      "basename": "Value Neutrality",
+      "path": "wiki/concepts/educational-philosophy/Value Neutrality.md"
+    },
+    {
+      "basename": "Positivism",
+      "path": "wiki/concepts/educational-philosophy/Positivism.md"
+    },
+    {
+      "basename": "Social Science as Legitimation Alibi",
+      "path": "wiki/concepts/educational-policy-reform/Social Science as Legitimation Alibi.md"
+    },
+    {
+      "basename": "Protean Episteme",
+      "path": "wiki/concepts/comparative-education/Protean Episteme.md"
+    },
+    {
+      "basename": "Human Capital Theory",
+      "path": "wiki/theories/political-economy-geopolitics/Human Capital Theory.md"
+    },
+    {
+      "basename": "Policy Borrowing",
+      "path": "wiki/concepts/comparative-education/Policy Borrowing.md"
+    },
+    {
+      "basename": "Empiricism",
+      "path": "wiki/concepts/educational-philosophy/Empiricism.md"
+    },
+    {
+      "basename": "Martin Carnoy",
+      "path": "wiki/persons/us/Martin Carnoy.md"
+    },
+    {
+      "basename": "Argument_Kazamias_2009_ForgottenThemes",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md"
+    },
+    {
       "basename": "Nicholas Hans",
       "path": "wiki/persons/uk/Nicholas Hans.md"
     },
     {
-      "basename": "Argument_Manitius_vanHolt_2019_BzS",
-      "path": "wiki/arguments/journal-articles/Beiträge zur Schulentwicklung/Argument_Manitius_vanHolt_2019_BzS.md"
+      "basename": "Knowledge Production",
+      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
     },
     {
-      "basename": "Bildung",
-      "path": "wiki/concepts/educational-philosophy/Bildung.md"
+      "basename": "Document",
+      "path": "wiki/concepts/research-methodology/Document.md"
     },
     {
-      "basename": "Franz Hilker",
-      "path": "wiki/persons/germany/Franz Hilker.md"
+      "basename": "Geisteswissenschaften",
+      "path": "wiki/concepts/educational-philosophy/Geisteswissenschaften.md"
     },
     {
-      "basename": "Val D. Rust",
-      "path": "wiki/persons/us/Val D. Rust.md"
+      "basename": "Epistemology",
+      "path": "wiki/concepts/educational-philosophy/Epistemology.md"
+    },
+    {
+      "basename": "Educational Meliorism",
+      "path": "wiki/concepts/comparative-education/Educational Meliorism.md"
+    },
+    {
+      "basename": "Enlightenment",
+      "path": "wiki/concepts/educational-philosophy/Enlightenment.md"
+    },
+    {
+      "basename": "Theory of Knowledge",
+      "path": "wiki/concepts/curriculum/Theory of Knowledge.md"
     }
   ],
   "omittedPaths": [],

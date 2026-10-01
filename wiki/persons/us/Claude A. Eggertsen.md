@@ -9,10 +9,10 @@ summary: "美国教育史学家与比较教育学家，密歇根大学比较教�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1906"
 died: "1997"
 lifespan: "1906–1997"
@@ -43,6 +43,7 @@ related_persons:
   - "[[Isaac Kandel]]"
   - "[[Robert Ulich]]"
   - "[[William H. Payne]]"
+  - "[[William W. Brickman]]"
   - "[[Harold Noah]]"
   - "[[C. Arnold Anderson]]"
 related_facts:
@@ -132,7 +133,7 @@ updated: 2026-10-01
 > [!person-network] 关系网络
 > - **学术导师与思想前辈** [[Isaac Kandel]]、[[Robert Ulich]] — 埃格特森的人文历史主义传统在学脉上深契坎德尔、乌利希开创的欧陆历史-哲学进路。
 > - **学生与学脉继承者** [[Val D. Rust]] — 埃格特森在密歇根大学指导的博士生，后成为 UCLA 比较教育学讲座教授及学科领军人物。
-> - **同侪合作者** [[William H. Payne]]（密歇根教席先驱）、威廉·布里克曼（William W. Brickman） — 在密歇根与全美比较教育学界共同捍卫史学传统的学术战友。
+> - **同侪合作者** [[William H. Payne]]（密歇根教席先驱）、[[William W. Brickman|威廉·布里克曼]]（William W. Brickman） — 在密歇根与全美比较教育学界共同捍卫史学传统的学术战友。
 > - **依托机构** 密歇根大学（University of Michigan）、[[Comparative and International Education Society|比较与国际教育学会]]（CIES）。
 
 ---

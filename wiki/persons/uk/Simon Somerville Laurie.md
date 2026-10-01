@@ -9,10 +9,10 @@ summary: "苏格兰哲学家与教育学家，1876 年受任爱丁堡大学首�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 5
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: 1829
 died: 1909
 lifespan: 1829–1909
@@ -22,7 +22,12 @@ tags:
   - university-chairs
   - teacher-training
 related_concepts:
+  - "[[Epistemology]]"
+  - "[[School Inspection]]"
+  - "[[Theory of Knowledge]]"
+  - "[[Empiricism]]"
   - "[[Scientific Paradigm]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Historical-Comparative Method]]"
@@ -47,8 +52,8 @@ updated: 2026-10-01
 
 > [!person-profile] 人物档案
 > - **身份位置** 十九世纪苏格兰著名哲学家、教育学家，爱丁堡大学首任教育学讲席教授（贝尔教席，Bell Chair of Education），大英帝国及英语世界大学设立专业教育学教席的开创者。
-> - **核心角色** 现代教育学从“师资技能作坊”跃升为高等学府自主学术学科的建制奠基人；致力于将古典哲学形而上学、认识论与现代教学论结合，开创教育史与跨国比较教学的大学讲授体系。
-> - **代表贡献** 1876 年出任爱丁堡大学首任教育学讲座教授（早于美国威廉·H·佩恩三年）；出版柯美纽斯专著《约翰·阿摩司·柯美纽斯》（1881）与体系性教育学理论《教师培训与教学方法》（1882）。
+> - **核心角色** 现代教育学从“师资技能作坊”跃升为高等学府自主学术学科的建制奠基人；致力于将古典哲学形而上学、[[Epistemology|认识论]]与现代教学论结合，开创教育史与跨国比较教学的大学讲授体系。
+> - **代表贡献** 1876 年出任爱丁堡大学首任教育学讲座教授（早于美国[[William H. Payne|威廉·H·佩恩]]三年）；出版柯美纽斯专著《约翰·阿摩司·柯美纽斯》（1881）与体系性教育学理论《教师培训与教学方法》（1882）。
 
 > [!citation-card] 英语世界大学首批教育学教席的设立
 > 大学首批教育学教授于 1876 年在苏格兰任命：西蒙·萨默维尔·劳里获得了爱丁堡大学的任命，而约翰·米勒·道·梅克尔约翰则受任于圣安德鲁斯大学。三年后的 1879 年，威廉·H·佩恩才在密歇根大学出任全美首位教育学教授。（p.135 注 1）[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 135 注 1)]]
@@ -62,11 +67,11 @@ updated: 2026-10-01
 > [!timeline] 生平与职涯
 > - **1829** 出生于苏格兰爱丁堡，后就读于爱丁堡皇家高中与爱丁堡大学。
 > - **1855–1905** 长期担任苏格兰教会教育委员会（Church of Scotland Education Committee）秘书，统筹苏格兰教师培训督导与初等学校改革。
-> - **1872** 出任迪克信托基金（Dick Bequest）督学，推动苏格兰高地与东北部乡村中等教育督导体系的现代化重组。
+> - **1872** 出任迪克信托基金（Dick Bequest）督学，推动苏格兰高地与东北部乡村中等[[School Inspection|教育督导]]体系的现代化重组。
 > - **1876** 爱丁堡大学正式创立贝尔教育学讲座（Bell Chair of Education），劳里获聘出任首任教授，成为英语世界高等教育史上首位正规大学教育学讲座教授。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 135 注 1)]]
 > - **1881** 出版经典思想史评传《约翰·阿摩司·柯美纽斯》（*John Amos Comenius, Bishop of the Moravians*），将十七世纪欧洲泛智教育与普遍学校设想重新引入现代大学视野。
 > - **1882** 出版《教师培训与教学方法》（*The Training of Teachers and Methods of Instruction*），全面论证大学开展专业教育理论研究的合法性。
-> - **1903** 自爱丁堡大学荣休；1905–1906 年出版两卷本哲学认识论巨著《综合论》（*Synthetica: Being Meditations Epistemological and Ontological*）。
+> - **1903** 自爱丁堡大学荣休；1905–1906 年出版两卷本哲学[[Epistemology|认识论]]巨著《综合论》（*Synthetica: Being Meditations Epistemological and Ontological*）。
 > - **1909** 逝世于爱丁堡，享年 79 岁。
 
 ---
@@ -74,20 +79,20 @@ updated: 2026-10-01
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1881 — *John Amos Comenius: His Life and Educational Works*** 欧洲教育思想史里程碑著作，系统考据柯美纽斯的跨国泛智教育实践与自然主义认识论。
+> - **1881 — *John Amos Comenius: His Life and Educational Works*** 欧洲教育思想史里程碑著作，系统考据柯美纽斯的跨国泛智教育实践与自然主义[[Epistemology|认识论]]。
 > - **1882 — *The Training of Teachers and Methods of Instruction*** 确立现代教师教育的学术根基，主张教师必须通晓教育哲学、伦理学与心理学，而非单纯模仿教学技巧。
 > - **1892 — *Historical Survey of Pre-Christian Education*** 跨越古埃及、巴比伦、波斯、犹太、希腊与罗马的比较文明教育史长卷，开辟大学比较教育史教学先河。
-> - **1906 — *Synthetica: Being Meditations Epistemological and Ontological*** 晚年哲学认识论集大成之作，从新实在论与唯心论的辩证融合角度奠定教育知识论基石。
+> - **1906 — *Synthetica: Being Meditations Epistemological and Ontological*** 晚年哲学认识论集大成之作，从新实在论与唯心论的辩证融合角度奠定教育[[Theory of Knowledge|知识论]]基石。
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心主张
-> 教育绝非孤立的工匠式技艺（Craft），而是一门深植于哲学认识论与人类文化精神演化史的“大学科学”（University Discipline）。唯有将教师培养置于大学学术共同体之中，使之接受严格的教育思想史、跨国体制比较与伦理批判训练，教育才能免于沦为狭隘的机械操练。
+> 教育绝非孤立的工匠式技艺（Craft），而是一门深植于哲学[[Epistemology|认识论]]与人类文化精神演化史的“大学科学”（University Discipline）。唯有将教师培养置于大学学术共同体之中，使之接受严格的教育思想史、跨国体制比较与伦理批判训练，教育才能免于沦为狭隘的机械操练。
 
 > [!citation-card] 论教育学在大学中的学科地位
-> 劳里坚持认为，大学若不接纳教育学，便割裂了知识传承与精神塑造的血脉；教育理论唯有经由历史考据与比较反思的淬炼，才能从经验经验主义升华为自足的学术科学。（pp.127, 135）[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 127, 135)]]
+> 劳里坚持认为，大学若不接纳教育学，便割裂了知识传承与精神塑造的血脉；教育理论唯有经由历史考据与比较反思的淬炼，才能从经验[[Empiricism|经验主义]]升华为自足的学术科学。（pp.127, 135）[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 127, 135)]]
 >
 > *Laurie maintained that education must be studied not merely as an art of teaching, but as an academic discipline rooted in philosophy, history, and the comparative development of civilization.*
 
@@ -126,7 +131,7 @@ updated: 2026-10-01
 > | 条目 | 类型 | 贡献 |
 > |:---|:---|:---|
 > | [[Scientific Paradigm\|比较教育学科学范式]] | 理论 | 1876 年首开苏格兰大学正规教育学讲席，为比较教育学依托母学科走向大学建制化奠定体制基石。 |
-> | [[Historical-Comparative Method\|历史比较法]] | 方法 | 著述古典古代比较教育史与柯美纽斯专论，开创教育史与跨国思想比较并举的大学学术范式。 |
+> | [[Historical-Comparative Method\|历史比较法]] | 方法 | 著述古典古代比较教育史与柯美纽斯专论，开创教育史与跨国思想比较并举的大学学术[[Paradigm\|范式]]。 |
 
 ---
 

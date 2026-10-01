@@ -7,7 +7,7 @@ title: "Argument_Cowen(Ed.)_2009_Springer"
 argument_key: "Argument_Cowen(Ed.)_2009_Springer"
 argument_display_title: "International Handbook of Comparative Education"
 argument_kind: "edited-volume"
-argument_related_count: 78
+argument_related_count: 81
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -68,6 +68,8 @@ related_concepts:
   - "[[Shadow State]]"
   - "[[Time-Space Compression]]"
   - "[[Document]]"
+  - "[[Protean Episteme]]"
+  - "[[Attrition]]"
   - "[[Theoretical Standpoint]]"
   - "[[Heterogeneity]]"
 related_theories:
@@ -111,6 +113,7 @@ related_arguments:
   - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
@@ -121,7 +124,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-05
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Argument_Cowen(Ed.)_2009_Springer
@@ -230,7 +233,7 @@ updated: 2026-09-29
 > - **Ch. 07 — Comparative [[Education in Europe]]** [[Argument_Mitter_2009_Europe]] — 以“多样性与统一性”的二分法为核心结构原则，系统梳理欧洲比较教育两百年来的大学教席版图、专业学会网络、三大理论范式演进、空间拓展与政策咨询光谱（[[Navigation Metaphor in Comparative Education|航海隐喻]] vs 直接干预）。
 > - **Ch. 08 — World-systems Analysis and Comparative Education in the Age of Globalization** [[Argument_Arnove_2009_WorldSystems]] — 阐述世界体系分析在当代比较教育中的应用与演变，辨析新制度主义世界文化流派与政治现实主义流派的理论交融，解构[[Pluri-Scalar Governance|多标度治理]]、[[Shadow State|影子国家]]与[[Globalization from Below|自下而上的全球化]]抗争。
 > - **Ch. 09 — Reflections on the Development of Comparative Education** [[Argument_Rust_2009_Reflections]] — 平反十九世纪[[Influences Across Cultures|跨文化影响]]考证遗产，揭示实证[[Pluralism|多元主义]]的健康本质，建构涵盖强制再生产的全球化四重批判响应模型。
-> - **Ch. 10 — Comparative Education: Historical Reflections** [[Argument_Kazamias_2009_HistoricalReflections]] — 确立学科作为“[[Protean Episteme|普罗透斯式认识体系]]”的四重论述代际演化，批判实证主义对单一全能方法的迷信，以期刊文献计量数据诊断历史维度的流失与“历史健忘症”危机，为学科再造奠定历史哲学与人文关怀锚点。
+> - **Ch. 10 — Comparative Education: Historical Reflections** [[Argument_Kazamias_2009_HistoricalReflections]] — 确立学科作为“[[Protean Episteme|普罗透斯式认识体系]]”的四重论述代际演化，批判[[Positivism|实证主义]]对单一全能方法的迷信，以期刊[[Document|文献]]计量数据诊断历史维度的[[Attrition|流失]]与“历史健忘症”危机，为学科再造奠定历史哲学与人文关怀锚点。
 
 
 ---

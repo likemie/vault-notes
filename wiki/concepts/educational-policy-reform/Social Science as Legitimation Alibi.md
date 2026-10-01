@@ -40,6 +40,8 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Determinism]]"
   - "[[Policy Science in Comparative Education]]"
+  - "[[Educational Meliorism]]"
+  - "[[Policy Borrowing]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
@@ -48,7 +50,10 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Andreas Kazamias]]"
+  - "[[Martin Carnoy]]"
+  - "[[Horace Mann]]"
 related_facts:
   - "[[IEA]]"
   - "[[OECD]]"
@@ -58,10 +63,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Cowen_2023_CE]]"
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
 confidence: high
-status: draft
+status: completed
 created: 2026-09-08
-updated: 2026-09-17
+updated: 2026-10-01
 ---
 
 # Social Science as Legitimation Alibi
@@ -82,6 +88,16 @@ updated: 2026-09-17
 > 在这种意义上，社会科学已经成为流行教育政治正统的便利借口（alibi）与合法化手段。基于[[Human Capital Theory\|人力资本理论]]与潜在人才库的开发利用，教育扩张及其带来的教育部门预算追加获得了合理性辩护；综合中学运动从社会学研究发现中汲取支持；向第三世界国家提供的技术援助项目在获得批准之前，也必须获得技术官僚和多位学术专家的权威祝福。那些曾经为利益相关者提供优良服务的过往[[Paradigm\|范式]]，始终难以彻底消亡。在这个层面上，共变、量化与经验取向的比较教育研究一直非常契合政客的需要；他们反复仰赖这种研究，来为自己预先设定的政策提供合法性辩护并予以强力推行。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]
 >
 > *In this sense social science had become a convenient alibi and/or a legitimising means for the prevailing political orthodoxy in education... Past paradigms that had served their stakeholders well. In this sense, the covariational, quantitative and empirical sort of comparative education has consistently served politicians well. They have repeatedly relied on it for the legitimation and promotion of their preconceived policies.*
+
+> [!citation-card] 卡扎米亚斯论跨国借用作为政治意识形态合法化的理由
+> 19 世纪以[[Horace Mann\|霍勒斯·曼]]（Horace Mann）、亨利·巴纳德（Henry Barnard）与卡尔文·斯托（Calvin Stowe）为代表的美国改良主义者考察普鲁士与欧洲教育体系，其搜集外国制度数据的首要动因并非纯粹的客观学术比较，而是为了获得“主要用于政治意识形态、道德改良与制度革新目的的合法化理由（legitimising rationales）”——具体而言，即利用外国先行经验游说各州立法机构，平息宗派阻力，并为动用公共税收建立普及公立学校制度提供正当性辩护。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 141)]]
+>
+> *Mann, Barnard, and Stowe gathered data on foreign systems which were used as 'legitimising rationales for mainly politico-ideological, melioristic and reformative purposes' to build state common school systems.*
+
+> [!citation-card] 卡扎米亚斯与卡诺伊论机构资助共谋与资本主义再生产的意识形态借口
+> 战后功能主义、发展与现代化社会理论及其衍生的教育政策处方，不仅是对战后社会经济条件的回应，更是“得到了政府、慈善基金会以及国际组织（如经合组织、世界银行）基于自身政策利益所给予的制度性资助与强化的结果”。马丁·[[Martin Carnoy\|卡诺伊]]（Martin Carnoy）进一步揭示，以个体理性选择与人力资本为核心的实证主义社会科学，实质上构成了遮蔽阶级结构压迫与资本主义制度矛盾的意识形态借口（ideological alibi）。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148, 153–154)]]
+>
+> *Functionalism and social theories of modernisation/development were reinforced by institutional support from governments, foundations, and international organisations (OECD, World Bank) for their own policy interests... Carnoy (1983) exposed positivist social science as an ideological alibi for capitalist reproduction.*
 
 > [!boundary]- 概念边界
 > - **不等于 [[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]（Instrumental Use）** 工具性使用强调决策者直接依据研究发现来决定政策走向；而“合法化借口”属于象征性使用（Symbolic Use）的激进化形态，政策方向早已由政治意识形态预先设定，社会科学仅在事后或流程中充当免责盾牌与政治论据。
@@ -105,6 +121,8 @@ updated: 2026-09-17
 
 > [!feature] 核心要素
 > - **官方资助市场的逆向淘汰机制** 科研资助机构与政客对无法得出明确处方、不支持预设方针且无法在官员任期内提供速效保证的研究（如霍姆斯揭示深层矛盾的[[Problem Approach\|问题法]]）抱有天然疑虑，促使资金向能提供直观回归系数的实证派高度集中。
+> - **机构赞助与地缘政治利益合谋（Institutional Patronage & Policy Interests）** 实证功能主义与唯方法论主义在战后的迅速扩张绝非纯粹的认识论演进，而是得到了国家政府、私人慈善基金会以及国际组织（如经合组织、世界银行）强大的制度性资助；这些资助机构出于自身的行政与地缘政策利益，系统性地将实证社会科学作为推行发展规划与技术援助的科学护照。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148)]]
+> - **历史谱系中的改良借用辩护长波（Meliorist Legitimising Rationales）** 跨国教育知识作为政治合法化借口具有深远的历史根基：早在 19 世纪，欧美行政视察官便将外国办学数据转化为游说议会、推行公共教育税收的合法化理由；战后实证主义则将这一机制升级为以多元回归与人力资本模型为国家五年计划免责背书。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 141, 149)]]
 > - **量化硬事实的去政治化包装** 实证学派借助大样本测量、[[Variable\|变量]]共变与数学方程，将高度涉及阶级利益再分配与价值偏好的政治裁决，精巧包装为中立、[[Doxa\|不言自明]]且无可争辩的自然规律。
 > - **推卸行政问责的道德避雷针** 一旦政策在现实中遭遇阻力或失败，官员可借口政策完全是“依据客观科学专家模型制定”，从而规避个人或执政党应当承担的政治问责与道德罪责。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 67–68)]]
 

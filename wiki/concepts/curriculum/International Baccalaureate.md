@@ -16,24 +16,24 @@ tags:
   - level/k12
 related_concepts:
   - "[[International Schools]]"
-  - "[[Constructivist Paradigm]]"
-  - "[[Lifelong Learning]]"
-  - "[[Critical Thinking]]"
-  - "[[IB Learner Profile]]"
-  - "[[Operationalization]]"
-  - "[[Concurrency of Learning]]"
-  - "[[Approaches to Teaching and Learning]]"
-  - "[[Theory of Knowledge]]"
-  - "[[Language Skills]]"
   - "[[IB Diploma Programme]]"
+  - "[[Theory of Knowledge]]"
   - "[[Extended Essay]]"
+  - "[[Creativity, Action, Service]]"
+  - "[[IB Learner Profile]]"
+  - "[[Concurrency of Learning]]"
+  - "[[Teaching Assistant]]"
+  - "[[Approaches to Teaching and Learning]]"
+  - "[[Transfer Translation Transformation]]"
+  - "[[Language Skills]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Academic Achievement]]"
-  - "[[Creativity, Action, Service]]"
+  - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Academic Self-Concept]]"
   - "[[Going Native]]"
   - "[[Hypothesis]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Chinese Learner]]"
   - "[[Epistemology]]"
   - "[[Dependent Variable]]"
@@ -60,6 +60,7 @@ related_facts:
   - "[[International Baccalaureate Six-Year Experiment]]"
   - "[[United World Colleges]]"
 related_arguments:
+  - "[[Argument_Peterson_1987_OpenCourt_Ch07]]"
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
   - "[[Argument_Metli_2022_IJER]]"
   - "[[Argument_Peterson_1987_OpenCourt]]"
@@ -67,11 +68,10 @@ related_arguments:
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch05]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
-  - "[[Argument_Peterson_1987_OpenCourt_Ch07]]"
 confidence: medium
 status: draft
 created: 2026-05-17
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # International Baccalaureate
@@ -81,41 +81,68 @@ updated: 2026-09-29
 ## 定义
 
 > [!def] 核心定义
-> 国际文凭（International Baccalaureate，IB）是一套由国际文凭组织（International Baccalaureate Organization，IBO）开发的、覆盖 3 至 19 岁学生的全球化国际课程体系，包括小学项目（Primary Years Programme，PYP）、中学项目（Middle Years Programme，MYP）及大学预科项目（Diploma Programme，DP）。它源于[[International Schools\|国际学校]]的教学实践，以[[Constructivist Paradigm\|建构主义]]为基础，强调跨学科的连贯性与整体学习（holistic learning），旨在通过严格的学术标准与核心体验模块，培养具备国际情怀（international-mindedness）的[[Lifelong Learning\|终身学习]]者 [[Argument_Slethaug_2010_InternationalEducation\|(Slethaug, 2010, p. 27)]] [[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, p. 210)]]。
+> 国际文凭（International Baccalaureate，IB）是一套跨国课程、资格与质量保障体系。它最初为跨国流动学生提供可被多国大学承认的高中毕业资格，后来发展为覆盖 3 至 19 岁学生的课程体系，包括小学项目（Primary Years Programme，PYP）、中学项目（Middle Years Programme，MYP）和大学预科项目（Diploma Programme，DP）。国际文凭组织（International Baccalaureate Organization，IBO）通过共同课程框架、学校授权、教师培训、内部与外部评价以及跨国治理维持标准。IB 因此既是一种课程设计，也是一套把学校、考试、大学承认和公共治理连接起来的制度安排。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 161–168, 178–187)]] [[Argument_Slethaug_2010_InternationalEducation\|(Slethaug, 2010, pp. 27–31)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** IB 不仅仅是一个教学大纲，更是一个融合了特定教育价值观（如“探究者”、“反思者”）和严格外部评估机制的标准化教育系统。
-> - **用途** 它为全球流动学生和[[International Schools\|国际学校]]提供了一种通用的教育货币，也为研究不同文化下课程移植（curriculum transfer）与教育公平提供了关键分析对象。
-> - **边界** IB 主张超越单一国家意识形态，但其内在建构主义与[[Critical Thinking\|批判性思维]]要求，使其在移植到非西方情境时容易产生文化冲突。
+> - **含义** IB 把跨学科课程、国际资格和共同评价结合起来。探究、反思和国际理解等价值，需要通过课程结构、教师工作与评价规程才能转化为学生经验。
+> - **用途** 它为全球流动学生和[[International Schools\|国际学校]]提供跨国可识别的升学资格，也可用于分析课程移植、国际标准与地方自主之间的关系。
+> - **边界** IB 不是单一教学大纲，也不能与 IBO 或其中某一个项目互换。课程的跨国可用性仍受国家资格承认、学校资源、教师能力和地方文化条件限制。
+
+---
+
+## 概念辨析
+
+> [!contrast-table] IB、[[IB Diploma Programme|IBDP]] 与 IBO 指向不同层次
+> | 名称 | 指向对象 | 核心功能 | 使用边界 |
+> |---|---|---|---|
+> | **国际文凭（IB）** | 整体课程与资格体系 | 连接共同课程、国际评价、学校实施和资格承认 | 可泛指整个体系，具体讨论时仍需说明项目或组织层次 |
+> | **[[IB Diploma Programme\|国际文凭大学预科项目]]（International Baccalaureate Diploma Programme，IBDP）** | 面向高中最后两年的文凭项目 | 以六学科组、[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）、[[Extended Essay\|拓展论文]]（Extended Essay，EE）和[[Creativity, Action, Service\|创造、行动与服务]]（Creativity, Action, Service，CAS）组成整体课程 | 不能代表 PYP、MYP 或整个 IB 体系 |
+> | **国际文凭组织（IBO）** | 负责课程、考试、授权和国际治理的组织 | 维护标准，组织考试，支持学校并协调政府、地区办公室和专业人员 | 组织本身不是课程；历史材料中的 IBO 与今日机构名称和治理结构也需按时期理解 |
 
 ---
 
 ## 核心要素
 
-> [!feature] 核心要素
-> - **价值观地基（[[IB Learner Profile\|Learner Profile]]）** 教育使命被[[Operationalization\|操作化]]为 IB 学习者特征，要求所有课程的开展都致力于培养这十项个人特质 [[Argument_Metli_2022_IJER\|(Metli & Akış, 2022)]]。
-> - **高中文凭项目架构（DP）** 由六个学科组（语言、二外、个体与社会、实验科学、数学与计算机、艺术）与三项核心要素（Core）组成 [[Argument_Slethaug_2010_InternationalEducation\|(Slethaug, 2010)]]。
-> - **连贯机制（[[Concurrency of Learning]]）** 要求学科组与核心要素之间打破孤岛，实现强烈的相互链接与[[Concurrency of Learning\|并发学习]]，教师需使用通用的[[Approaches to Teaching and Learning\|教学与学习方法]]（Approaches to Teaching and Learning，ATL）来促进跨学科迁移 同上。
-> - **标准化质量评估** 采用内部与外部双重评分机制，建立全球一致的标准，遏制分数膨胀，向大学证明毕业生的资质优良 [[Argument_Slethaug_2010_InternationalEducation\|(Slethaug, 2010, p. 31)]]。
+> [!feature] 课程体系通过四个相互依赖的要素运行
+> - **价值与学习者目标** IB [[IB Learner Profile|学习者培养目标]]把国际理解、探究、反思与责任等使命转化为可贯穿课程的学习者特征。[[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, pp. 210–213)]]
+> - **广度与深度并存的课程结构** [[IB Diploma Programme|IBDP]] 以六个学科组维持学习广度，并用高级与标准层级保留专门化空间。[[Theory of Knowledge|TOK]]、EE 与 CAS 把知识反思、自主研究和校外行动纳入共同核心。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 28–31)]]
+> - **[[Concurrency of Learning\|并发学习]]** 学科组与核心组件需要在同一学习阶段相互联系。教师借[[Teaching Assistant|助教]]学与学习方法（[[Approaches to Teaching and Learning]]，ATL）促进跨学科迁移，避免学生把六科和三项核心体验理解为彼此分离的任务。[[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, pp. 211–213)]]
+> - **共同标准与多种评价技术** 学科考试、TOK 外部调节、EE 外部评分和 CAS 活动指导处理的学习对象不同。共同标准来自相匹配的评价办法、教师培训和课程复审，而非全部采用同一种外部考试。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 178–185)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
 > flowchart TD
->     A["IB Learner Profile (价值观地基)"] --> B["六大学科组 (学术)"]
->     A --> C["三大核心组件: EE, TOK, CAS"]
->     B <-->|Concurrency of Learning| C
->     B --> D["双重标准化评估"]
+>     A["共同教育使命"] --> B["六个学科组\n广度与深度"]
+>     A --> C["TOK、EE 与 CAS\n反思、研究与行动"]
+>     B <-->|并发学习| C
+>     B --> D["考试、调节与教师培训"]
 >     C --> D
+>     D --> E["跨国可识别的资格"]
 > ```
 
-### 创制阶段形成的理念
+### 共同标准依靠功能分权和持续协作维持
+
+IBO 在第二个十年逐渐把政策、考试和学校支持分配到不同节点。日内瓦负责中央行政和国际治理，巴斯集中考试业务，伦敦及其他区域办公室负责学校发展、培训和联络。分权没有把课程标准交给各国自行决定，而是把不同工作放到语言、交通、人员和成本更合适的地点。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 166–168, 185–187)]]
+
+> [!row-contrast] 课程共同性由不同组织节点共同生产
+> | 组织节点 | 主要职责 | 为共同标准提供的条件 | 主要边界 |
+> |---|---|---|---|
+> | 日内瓦中央行政 | 政策、治理和国际协调 | 保持课程与组织方向的一致性 | 高成本、工作许可和多语人员招聘困难 |
+> | 巴斯考试办公室 | 命题、材料处理、阅卷与考试行政 | 集中处理高频、劳动密集的标准化工作 | 约九成学校以英语工作，多语承诺仍需另行维护 |
+> | 区域办公室与代表 | 学校联络、教师培训和发展 | 把共同要求[[Transfer Translation Transformation\|转译]]到不同地区并反馈实施问题 | 学校密度、距离和通信条件造成服务差异 |
+> | 政府常设会议 | 会费、理事代表和课程发展合作 | 为国际资格提供公共治理基础 | 1985 年政府出资仅占总收入略高于 10%，公共影响仍受财政投入限制 |
+
+> [!warrant]- 统一课程不要求所有工作集中在同一地点
+> 考试、政策和学校支持需要不同的人员与基础设施。把劳动密集的考试业务放在成本较低且具大学支持的地点，把培训和联络放到区域节点，同时由中央维持共同规则，可以降低扩张成本。若区域分权缺少共同课程、评价和治理，地区差异就可能演变为标准分裂。
+
+### 创制阶段把国际学校的现实困难转化为课程原则
 
 > [!feature] 从[[International Schools\|国际学校]]难题形成的设计原则
 > - **实践需求而非抽象口号** 战后国际学校高中阶段不断扩大，同一所学校不得不按瑞士、英国、法国和美国考试分班。资源浪费、国家分组和少数国籍学生无课程可循，使国际毕业考试从和平主义设想变成办学必需。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 16–17)]]
 > - **教师草根创制** 1960 年代的推进力量主要来自[[International School of Geneva\|日内瓦国际学校]]教师，而非政府、[[UNESCO\|联合国教科文组织]]或既有国际机构。有限的小额资助先支持跨校讨论，教师再逐步建立独立组织、课程小组和试验网络。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 17–20)]]
 > - **课程改革试验** 课程设计没有只提取欧美既有考试的最低共同部分，而是吸收各国改革者尚未能在本国推行的方案，把国际学校作为课程改革的实地试验场。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 24–26)]]
 > - **通识与专门化平衡** 六学科组结构试图在德国、瑞士式广泛通识和英国式三科高度专门化之间建立折中。学生保留选择，但必须跨规定学科组学习，两门语言和数学构成共同要求。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 28–29)]]
-> - **双语与知识反思** 早期方案允许全部试卷使用英语或法语，并以双语发布文件。法国要求保留哲学教育，最终转化为全体学生必修的[[Theory of Knowledge\|知识论]]短课程，而哲学本身成为学科选项。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 29–30)]]
+> - **双语与知识反思** 早期方案允许全部试卷使用英语或法语，并以双语发布文件。法国要求保留哲学教育，最终转化为全体学生必修的 TOK，而哲学本身成为学科选项。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 29–30)]]
 > - **整体文凭与开放入口** 课程保留跨学科“整体包”作为文凭，同时为未完成整套文凭者提供单科证书，试图避免 IB 在学校内部成为只面向少数精英的封闭轨道。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 30–31)]]
 
 ### 六年试验把多语言原则转化为行政分工
@@ -124,7 +151,7 @@ updated: 2026-09-29
 > 早期办公室把由个别学生自学、学校另寻辅导者的母语称为“罕见语言”。一次语言会议上，一位中国与会者以“中文大概只能算三分熟”指出，中文在世界范围并不罕见，只是在当时 IB 考生中报考较少。组织随后采用“低频开考语言”（Infrequently Offered Languages）这一名称，把分类依据从语言的世界地位改为考试系统内部的报考频率。名称变化也明确了行政责任：学生可以保留母语，学校尽量寻找辅导者，考试组织则需要匹配材料与考官。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 63–65)]]
 
 > [!claim] 语言开放度受到年度考试生产能力约束
-> IB 允许学生以多种第一语言和第二语言参加考试，但小语种试卷需要命题、翻译、校对、分发、口试与阅卷人员，不能只靠课程原则维持。1974 年，IBO 与南安普敦大学签约，把语言考试业务从日内瓦逐步转入该校语言中心；汤姆·卡特（[[Theory of Mind\|ToM]] Carter）负责学术指导，戴安娜·威廉森（Dianne Williamson）负责行政。到 1977 年，考试覆盖 24 种第一语言（Language A）和 29 种第二语言（Language B）。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 91–92)]]
+> IB 允许学生以多种第一语言和第二语言参加考试，但低频开考语言的试卷需要命题、翻译、校对、分发、口试与阅卷人员，不能只靠课程原则维持。1974 年，IBO 与南安普敦大学签约，把语言考试业务从日内瓦逐步转入该校语言中心；汤姆·卡特（[[Theory of Mind|ToM]] Carter）负责学术指导，戴安娜·威廉森（Dianne Williamson）负责行政。到 1977 年，考试覆盖 24 种第一语言和 29 种第二语言。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 91–92)]]
 
 > [!tension] 语言效度与财政可承受性
 > - **效度要求（蓝方）** 阅读与听力组合可以更完整地评价[[Language Skills\|语言能力]]，多语种覆盖又使学生不必因跨境就学放弃第一语言。

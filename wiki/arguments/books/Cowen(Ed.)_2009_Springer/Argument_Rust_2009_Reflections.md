@@ -7,7 +7,7 @@ title: "Argument_Rust_2009_Reflections"
 argument_key: "Argument_Rust_2009_Reflections"
 argument_display_title: "Reflections on the Development of Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 117
+argument_related_count: 118
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -146,6 +146,7 @@ related_persons:
   - "[[Brian Holmes]]"
   - "[[John Dewey]]"
   - "[[Robert E. Stake]]"
+  - "[[Immanuel Kant]]"
   - "[[Val D. Rust]]"
 related_facts:
   - "[[Education for All]]"
@@ -244,7 +245,7 @@ updated: 2026-10-01
 > - **古代游记与风土记录** 希罗多德（Herodotus）、[[Xenophon|色诺芬]]（Xenophon）、西塞罗（Cicero）与凯撒（Julius Caesar）等古典作家在游历中记录异域风土人情与[[Bildung|教化]]实践，构成了最早的经验观察萌芽。[[Franz Hilker|希尔克]]（Franz Hilker）指出，这一时期的比较探究本质上是一门教育实践艺术。斯图尔特·E·弗雷泽与[[William W. Brickman|威廉·W·布里克曼]]（William W. Brickman）强调，前几个世纪有关国际与比较教育的古典著述浩瀚宏大，比较教育学者的首要使命是对这些文献进行系统编目与历史抢救（Fraser & Brickman, 1968, p. 122）。
 > - **[[Marc-Antoine Jullien|朱利安]]实证调查倡议（1816–1817）** 马克-安托万·朱利安（Marc-Antoine Jullien）在《关于比较教育的一项工作纲要》中首次提出由跨国专家委员会使用标准化[[Questionnaire|问卷]]收集各国教育数据，建立教育改良参照系，被公认为近代科学比较教育的开端。（pp.121–122）
 > - **现代大学制度建制化（1879–1918）** 1879 年[[William H. Payne|威廉·H·佩恩]]（William H. Payne）在密歇根大学就任全美首位常设教育学教授，并在首期大学讲座中率先讲授欧洲各国的学校与教育体制，开创了大学层次比较教育讲授的先驱脉络（p.135 注 1）；随后哥伦比亚大学[[Normal School|师范学院]]于 1899 年由詹姆斯·罗素（James Russell）开设首门正式定名的比较教育大学课程；1918 年[[Peter Sandiford|彼得·桑迪福德]]（Peter Sandiford）编著出版首部大学通用教材《比较教育》，确立了以国别教育为单元的教学体系。（pp.122, 135 注 1）
-> - **专业学会与学术刊物诞生（1931–1956）** 德国[[Friedrich Schneider|弗里德里希·施奈德]]（Friedrich Schneider）于 1931 年创立《[[International Education|国际教育]]学评论》；1956 年布里克曼等人发起创立美国比较教育学会（CES，后更名为 [[Comparative and International Education Society|CIES]]）并创办会刊《比较教育评论》（CER），标志着专业学者共同体正式制度化。（pp.122–123）
+> - **专业学会与学术刊物诞生（1931–1956）** 德国[[Friedrich Schneider|弗里德里希·施奈德]]（Friedrich Schneider）于 1931 年创立《[[International Education|国际教育]]学评论》；1956 年布里克曼等人发起创立美国比较教育学会（[[Comparative and International Education Society|CES]]，后更名为 [[Comparative and International Education Society|CIES]]）并创办会刊《比较教育评论》（CER），标志着专业学者共同体正式制度化。（pp.122–123）
 
 学科名称的演变与早期教席的设立，生动反映了这一学术谱系的形成历程：
 
@@ -376,7 +377,7 @@ updated: 2026-10-01
 > - **方法取向：量化控制 vs. 质性理解**
 >   斯泰克（[[Robert E. Stake|Robert Stake]]）指出[[Quantitative Research|量化研究]]重在解释与控制[[Variable|变量]]以寻求通则，[[Qualitative Research|质性研究]]重在理解复杂个案的内在脉络与情境意义。
 > - **认识论取向：历史文化主义 vs. 变量实证主义**
->   包括康德尔（[[Isaac Kandel]]）、施奈德（[[Friedrich Schneider]]）、汉斯（[[Nicholas Hans]]）、乌利希（[[Robert Ulich]]）、卡扎米亚斯（[[Andreas Kazamias]]）、埃格特森（[[Claude A. Eggertsen]]）与布里克曼（[[William W. Brickman]]）在内的学者，坚持历史文化主义取向，主张教育制度不可脱离民族历史源流与文化特质；而战后实证派则试图剥离历史背景，将比较研究窄化为跨国变量的量化测量。
+>   包括[[Immanuel Kant|康德]]尔（[[Isaac Kandel]]）、施奈德（[[Friedrich Schneider]]）、汉斯（[[Nicholas Hans]]）、乌利希（[[Robert Ulich]]）、卡扎米亚斯（[[Andreas Kazamias]]）、埃格特森（[[Claude A. Eggertsen]]）与布里克曼（[[William W. Brickman]]）在内的学者，坚持历史文化主义取向，主张教育制度不可脱离民族历史源流与文化特质；而战后实证派则试图剥离历史背景，将比较研究窄化为跨国变量的量化测量。
 > - **功能定位：经验描述 vs. 规范处方**
 >   描述性研究恪守对各国体制的客观记录与系统并置，规范处方性研究则试图直接为教育改革开具政策药方。（p.128）
 > - **价值立场：[[Educational Meliorism|改良主义]]、[[Value Neutrality|价值中立]] vs. [[Ideology Critique|意识形态批判]]**

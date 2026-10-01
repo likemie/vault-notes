@@ -7,10 +7,10 @@ summary: "希腊裔比较教育学者，倡导历史和人文主义视角与普�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 48
-person_related_level: 5
-person_related_stars: "⭐⭐⭐⭐⭐"
-person_related_color: "#ffedd5"
+person_related_count: 50
+person_related_level: 6
+person_related_stars: "⭐⭐⭐⭐⭐⭐"
+person_related_color: "#fef3c7"
 born: "1927"
 died: "2020"
 lifespan: "1927–2020"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Historical-Philosophical-Cultural Motif]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
+  - "[[Protean Episteme]]"
   - "[[Postpositivism]]"
   - "[[Geisteswissenschaften]]"
   - "[[Hypothesis]]"
@@ -73,6 +74,7 @@ related_arguments:
   - "[[Argument_Cowen_2023_CE]]"
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
 confidence: medium
 status: draft
@@ -248,6 +250,6 @@ updated: 2026-10-01
 > | [[Comparative Education Society in Europe]] | 事实 | 担任学会荣誉会员，在欧洲比较教育学界维系历史与人文主义思想脉络。 |
 > | [[Val D. Rust]] | 人物 | 阐述卡扎米亚斯在历史人文主义奠基谱系与结构功能主义解析中的关键坐标。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 122–123)]] |
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 征引卡扎米亚斯关于结构功能主义、[[Educational Meliorism\|改良主义]]改造社会抱负与方法论价值抉择的论断。 |
-> | [[Protean Episteme]] | 概念 | 借用希腊神话普罗透斯隐喻界定比较教育学多学科人文科学特质与四重论述代际更迭规律。 |
+> | [[Protean Episteme]] | 概念 | 借用希腊神话普罗透斯隐喻界定比较教育学多学科[[Geisteswissenschaften\|人文科学]]特质与四重论述代际更迭规律。 |
 > | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009b)]] | 论证 | 系统反思学科四重论述代际演进，批判唯方法论主义，诊断历史健忘症并确立历史与社科综合纲领。 |
 

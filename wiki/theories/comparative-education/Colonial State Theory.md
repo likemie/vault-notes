@@ -80,8 +80,8 @@ updated: 2026-09-28
 ### 后续修订与扩展
 
 > [!dev-timeline] 理论演变脉络
-> - **1974 — 奠基阶段（文化帝国主义与依附教育）** [[Martin Carnoy|卡诺伊]]系统论述西方殖民宗主国如何通过正规学校教育灌输依附性文化，确立宗主国对殖民地思想与经济的全面支配。
-> - **1990 — 转型深化（第三世界社会主义与后殖民国家）** [[Martin Carnoy|卡诺伊]]与[[Joel Samoff|萨莫夫]]合著《第三世界的教育与社会转型》，实证追踪莫桑比克、坦桑尼亚等国脱离殖民统治后，重构国家政治认同与教育供给的曲折历程。[[Argument_Olmos_Torres_2009_StateTheories|(Carnoy & Samoff, 1990; Olmos & Torres, 2009, p. 75)]]
+> - **1974 — 奠基阶段（文化帝国主义与依附教育）** 卡诺伊系统论述西方殖民宗主国如何通过正规学校教育灌输依附性文化，确立宗主国对殖民地思想与经济的全面支配。
+> - **1990 — 转型深化（第三世界社会主义与后殖民国家）** 卡诺伊与[[Joel Samoff|萨莫夫]]合著《第三世界的教育与社会转型》，实证追踪莫桑比克、坦桑尼亚等国脱离殖民统治后，重构国家政治认同与教育供给的曲折历程。[[Argument_Olmos_Torres_2009_StateTheories|(Carnoy & Samoff, 1990; Olmos & Torres, 2009, p. 75)]]
 > - **2009 — 系统定型（殖民国家双重功能剥离与三重历史[[Determinism|决定论]]）** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]正式确立了殖民国家在积累与合法化功能上的非对称性，提出分析后殖民教育扩张的三重历史维度。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 75–76)]]
 
 ---

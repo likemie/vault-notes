@@ -7,10 +7,10 @@ aliases:
 summary: "源自微观社会学与社会心理学的核心理论范式，主张行动者基于事物对自身的主观意义采取行动，意义在符号互动与角色扮演中持续涌现、协商与修正，互动本身构成探究的基本分析单位。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 39
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 40
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theory/sociological
   - paradigm/interpretive
@@ -51,6 +51,7 @@ related_methods:
 related_persons:
   - "[[George Herbert Mead]]"
   - "[[Michael Gove]]"
+  - "[[Horace Mann]]"
   - "[[Peter Woods]]"
   - "[[John Dewey]]"
   - "[[Basil Bernstein]]"
@@ -78,7 +79,7 @@ updated: 2026-10-01
 > - **解释对象** 人类在日常生活与面对面微观交往中主观意义的赋予、自我的形成、[[Thomas Theorem|情境定义]]以及行动协调机制。
 > - **理论问题** 彻底扬弃行为主义刺激-反应（S-R）的被动假定与结构功能主义外在事实[[Determinism|决定论]]，确立人类行动者基于符号解释、内部对话与协商妥协的主体能动性。
 > - **理论类型** 微观社会学理论、[[Interpretivism|解释主义]]与[[Interpretive Paradigm|诠释范式]]核心基石、社会心理学互动[[Analytic Framework|分析框架]]。
-> - **知识位置** 芝加哥社会学派核心传统，奠基于[[George Herbert Mead|乔治·赫伯特·米德]]（[[George Herbert Mead]]），经赫伯特·布卢默（Herbert Blumer）系统形式化并正式命名，在欧文·[[Michael Gove|戈夫]]曼（Erving Goffman）拟剧论与[[Peter Woods|彼得·伍兹]]（Peter Woods）教育[[Ethnography|民族志]]中广泛深化。
+> - **知识位置** 芝加哥社会学派核心传统，奠基于[[George Herbert Mead|乔治·赫伯特·米德]]（[[George Herbert Mead]]），经赫伯特·布卢默（Herbert Blumer）系统形式化并正式命名，在欧文·[[Michael Gove|戈夫]][[Horace Mann|曼]]（Erving Goffman）拟剧论与[[Peter Woods|彼得·伍兹]]（Peter Woods）教育[[Ethnography|民族志]]中广泛深化。
 
 > [!claim] 核心主张
 > 人类行动绝非内在盲目驱力或外部客观社会事实的机械结果，而是行动者基于事物对其所具有的主观意义而开展的能动建构过程。人类同时生活在自然世界与符号社会世界中；意义在持续的社会互动中通过扮演他人角色、[[Reflexivity|反思性]]自我对话与情境定义而动态[[Emergence|涌现]]与协商；互动本身构成探究的基本[[Unit of Analysis|分析单位]]。

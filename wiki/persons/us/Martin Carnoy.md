@@ -2,19 +2,18 @@
 title: Martin Carnoy
 aliases:
   - 马丁·卡诺伊
-  - 卡诺伊
   - Carnoy, M.
 summary: "美国比较教育学与教育政治经济学奠基泰斗，斯坦福大学荣休讲席教授，开创教育依附理论与文化帝国主义批判，揭示教育政策分析必然暗含前置国家理论，并系统剖析第三世界转型社会中的教育国家关系"
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 24
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
 born: "1938"
 died: ""
-lifespan: "1938–至今"
+lifespan: 1938–至今
 tags:
   - person/theorist
   - comparative-education
@@ -29,8 +28,11 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Financial-Intellectual Complex]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Protean Episteme]]"
+  - "[[Positivism]]"
   - "[[Critical Pedagogy]]"
   - "[[Analytical Stance]]"
+  - "[[Epistemology]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Determinism]]"
   - "[[Champ]]"
@@ -42,20 +44,23 @@ related_theories:
   - "[[Conditioned State Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Joel Samoff]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
+  - "[[Andreas Kazamias]]"
   - "[[Michael W. Apple]]"
   - "[[Stephen Ball]]"
 related_facts:
   - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
 confidence: high
-status: draft
+status: completed
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # Martin Carnoy
@@ -122,11 +127,10 @@ updated: 2026-09-28
 >
 > *Likewise, educational reform in societies undergoing rapid social transformation has attracted the attention of scholars (Carnoy & Samoff, 1990; Torres, 1991; Ginsburg, 1991).*
 
-> [!citation-card] 学校作为再生产力量与民主化矛盾交织的政治竞技场（Kazamias, 2009b 征引）
-> 与传统正统马克思主义的机械再生产论不同，卡诺伊强调学校绝不仅仅是资本家的压迫工具，而是一个在再生产力量（客观生产关系的再生产，即鲍尔斯与金蒂斯所称的“对应原则”）与民主化力量（个体与集体的民主权利表达，即“矛盾”）之间不断博弈的制度场所。资本主义与国家官僚社会中的学校教育虽然从根本上再生产着不平等的等级权力关系，但学校内部本身内生着不可抹杀的民主化与平等抗争矛盾。与此同时，在第三世界革命与社会转型时期，推动社会变迁的核心动力并非单纯的生产关系，而恰恰是国家机器与政治制度。[[Argument_Kazamias_2009_HistoricalReflections|(Carnoy, 1983; Carnoy & Samoff, 1990; Kazamias, 2009b, pp. 153–155)]]
+> [!citation-card] Kazamias论卡诺伊的修正主义新马克思主义国家中心观
+> 卡扎米亚斯（[[Andreas Kazamias]]）系统剖析了卡诺伊在比较教育“第四代：批判冲突与跨国宏观[[Paradigm|范式]]”中的奠基贡献。在介入围绕比较教育“普罗透斯式认识型”（[[Protean Episteme]]）的学科论辩中，卡诺伊清晰界定了其修正主义新马克思主义国家中心路径与三大主流范式的界限：它不同于[[Positivism|实证主义]]（基于个体选择假定与主观权力观），不同于正统马克思主义（将学校完全视为资本家管理阶级客观支配的压迫工具），亦不同于仅关注外部剥削的早期[[Dependency Theory|依附理论]]。卡诺伊指出，资本主义民主国家以及转型国家中的学校，是一个在再生产力量（对应原则）与民主化力量（矛盾原则）之间激烈博弈的政治竞技场；而在第三世界转型社会（如中国、古巴、坦桑尼亚、莫桑比克和尼加拉瓜）中，驱动社会转型的核心动力恰恰是国家与政治，而非单纯的生产体系。[[Argument_Kazamias_2009_HistoricalReflections|(Carnoy, 1983; Carnoy & Samoff, 1990; Kazamias, 2009a, pp. 153–155)]]
 >
 > *...unlike conventional neo-Marxist writing, we argue that schools are not simply the tools of capitalists... but an institution where the tensions among the forces for reproduction... and the forces of democratization... are played out. Thus, the schools contain elements of reproduction and democracy... It is the state, much more than the production system, we argue, that is the source of the dynamic of revolutionary societies, and politics, much more than relations in production that drives their social developments (Carnoy & Samoff, 1990).*
-
 
 ---
 
@@ -137,6 +141,10 @@ updated: 2026-09-28
 > - **方法路径** 倡导将宏观政治经济学制度溯源与严格的定量计量模型相结合，展示了[[Analytical Stance|批判立场]]如何与扎实数据并存，破除了批判教育学“只思辨不实证”的学科偏见。
 > - **政策路径** 持续抗辩[[World Bank|世界银行]]等跨国金融机构推行的去监管化、教育券与学校私有化政策，成为全球南方国家学者抵御新自由主义教育紧缩处方的重要思想旗帜。
 
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统评析卡诺伊由芝加哥学派经济学家转向修正主义新马克思主义教育政治经济学家的心智历程，确立其国家中心观与学校矛盾博弈论在第四代比较教育范式中的奠基地位。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯评述卡诺伊关于任何教育政策分析必然暗含特定国家理论的前提性支配命题。
+
 ---
 
 ## 关系网络
@@ -146,6 +154,7 @@ updated: 2026-09-28
 > - **学术合作者** 亨利·莱文（Henry M. Levin） — 斯坦福大学经济学家与教育学家，合著《民主国家中的学校教育与工作》（1985），奠定资本积累与民主平权张力[[Analytic Framework|分析框架]]。
 > - **理论同盟** [[Carlos Alberto Torres]] — 共同推进比较教育学国家理论与拉美外围国家受限状态研究。
 > - **理论同盟** [[Michael W. Apple|迈克尔·阿普尔]]（Michael W. Apple） — 共同奠定 1970–1980 年代美国批判教育社会学与文化再生产理论阵地。
+> - **学术史家／学科[[Epistemology|认识论]]重构者** [[Andreas Kazamias]] — 将卡诺伊确立为战后第四代比较教育政治经济学与国家理论[[Paradigm|范式]]的代表人物，阐发其对[[Positivism|实证主义]]、正统马克思主义与机械再生产论的三重超越。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 153–155)]]
 > - **批判对象** [[World Bank|世界银行]]与新古典[[Human Capital Theory|人力资本]]技术官僚 — 批判其推行的教育市场化、紧缩[[Structural Adjustment Programs|结构调整]]以及抽离政治权力的纯粹技术官僚计量分析。
 
 ---
@@ -171,10 +180,13 @@ updated: 2026-09-28
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
+> | [[Protean Episteme]] | 概念 | 卡诺伊介入关于比较教育普罗透斯式认识型的争论，确立国家中心批判[[Paradigm\|范式]]。 |
 > | [[Post-Fordism]] | 概念 | 分析后福特制灵活积累对全球劳动力技能、教育分轨与工作形态的宏观重塑。 |
 > | [[Import Substitution Industrialisation]] | 概念 | 阐释依附性资本积累与早期工业化背景下拉美教育扩张的结构性动力与断裂悖论。 |
 > | [[Financial-Intellectual Complex]] | 概念 | 揭露[[World Bank\|世界银行]]等跨国金融机构通过资助与实证垄断[[Disciplina and Doctrina\|规训]]第三世界教育政策的话语机器。 |
 > | [[Dependency Theory]] | 理论 | 将中心-外围依附框架引入教育制度分析，奠定战后教育依附批判传统。 |
 > | [[Conditioned State Theory]] | 理论 | 提供宏观国家[[Theoretical Perspective\|理论视角]]，断言任何教育问题诊断与方案都必然暗含前置国家理论假定。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009b)]] | 论证 | 征引卡诺伊关于学校作为资本再生产与民主化矛盾竞技场，以及国家政治在转型社会主导变革的论断。 |
+> | [[Andreas Kazamias]] | 人物 | 学术史家，将卡诺伊列为第四代批判政治经济学与国家理论代表人物。 |
+> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]] | 论证 | 评析卡诺伊国家理论在教育政策诊断中的前置支配功能。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 征引卡诺伊关于学校作为资本再生产与民主化矛盾竞技场，以及国家政治在转型社会主导变革的论断。 |
 

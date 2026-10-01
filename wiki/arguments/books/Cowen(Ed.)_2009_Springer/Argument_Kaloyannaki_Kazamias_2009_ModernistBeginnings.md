@@ -7,7 +7,7 @@ title: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_key: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_display_title: "The Modernist Beginnings of Comparative Education: The Proto-Scientific and The Reformist-meliorist Administrative Motif"
 argument_kind: "book-chapter"
-argument_related_count: 72
+argument_related_count: 73
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -95,6 +95,7 @@ related_persons:
   - "[[Jürgen Habermas]]"
   - "[[Johann Wilhelm Süvern]]"
   - "[[François Guizot]]"
+  - "[[William W. Brickman]]"
   - "[[Brian Holmes]]"
 related_facts:
   - "[[Guizot Law of 1833]]"
@@ -116,7 +117,7 @@ sources:
 part_of: "[[Argument_Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-06
-updated: 2026-09-15
+updated: 2026-10-01
 ---
 # Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings
 
@@ -456,7 +457,7 @@ updated: 2026-09-15
 在方法论形态上，19 世纪欧美的外国教育调研普遍属于德语区所谓的 “外国教育学”（Auslandspädagogik）。尽管缺乏严密的因果控制，其客观事实汇总仍构成了现代学科演进的基础：
 
 > [!method-position] 早期“外国教育学”（Auslandspädagogik）的方法论特质与史学评价
-> - **文献史背景与演进规模** 威廉·布里克曼（Brickman, 1968）考证，19 世纪前关于“他者土地教育”文献极为贫瘠；至 19 世纪中后叶，德语区所谓的“外国教育学”（*Auslandspädagogik*）演变为由官方考察报告、旅行见闻随笔、视学通报与专业期刊构成的浩瀚“文献洪流（a flood of books and writings）”，巴纳德 1872 年两卷本《国民教育》为其集大成之作。（pp.24–25）
+> - **文献史背景与演进规模** [[William W. Brickman|威廉·布里克曼]]（Brickman, 1968）考证，19 世纪前关于“他者土地教育”文献极为贫瘠；至 19 世纪中后叶，德语区所谓的“外国教育学”（*Auslandspädagogik*）演变为由官方考察报告、旅行见闻随笔、视学通报与专业期刊构成的浩瀚“文献洪流（a flood of books and writings）”，巴纳德 1872 年两卷本《国民教育》为其集大成之作。（pp.24–25）
 > - **方法论的三重质态**
 >   1. 描述性与报道性（Descriptive and Reportorial）：异邦学校组织、法令、大纲与统计数据的百科全书式白描罗列；
 >   2. 非历史化与去情境化（Ahistorical and Non-analytic）：缺乏对制度深嵌于特定民族国家阶级结构、政教博弈历史脉络的解释学诠释（Historical Interpretation）与情境阐释（Contextual Explanation）；

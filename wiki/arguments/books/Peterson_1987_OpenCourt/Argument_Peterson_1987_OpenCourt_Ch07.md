@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch07"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch07"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -32,14 +32,13 @@ part_of: "[[Argument_Peterson_1987_OpenCourt]]"
 related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
+  - "[[Extended Essay]]"
   - "[[Creativity, Action, Service]]"
   - "[[Reliability]]"
   - "[[International Schools]]"
   - "[[General Education]]"
   - "[[International Education]]"
-  - "[[Necessary and Sufficient Conditions]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Extended Essay]]"
   - "[[Epistemology]]"
   - "[[Homework]]"
   - "[[School Choice]]"
@@ -47,6 +46,8 @@ related_concepts:
 related_persons:
   - "[[John Goormaghtigh]]"
   - "[[Gerard Renaud]]"
+  - "[[Kurt Hahn]]"
+  - "[[Louis Mountbatten]]"
   - "[[Alec Peterson]]"
 related_facts:
   - "[[United World Colleges]]"
@@ -127,7 +128,7 @@ updated: 2026-10-01
 
 > [!failure] 法国两次合作都因人员归属或伙伴冲突而终止
 > - **人员借调** 法国教育部拟以较小现金贡献加一名借调专家加强日内瓦行政。IBO 担心忠诚冲突，实际又无法为该专家取得日内瓦工作许可，安排在 1981 年 10 月结束。
-> - **巴黎办公室** IBO 随后与法国世俗教育使团（Mission Laïque）合作，为法国和法语非洲服务。伙伴机构内部危机引发双方冲突，也损害两者在法国教育部的可信度，办公室方案再次终止。
+> - **巴黎办公室** IBO 随后与法国世俗教育使团（Mission Laïque）合作，为法国和法语非洲服务。伙伴机构内部危机引发双方冲突，也损害两者在法国教育部的可[[Reliability|信度]]，办公室方案再次终止。
 > - **制度后果** 法国对 IB 的兴趣下降，转向[[International Option of the French Baccalaureate|法国业士文凭国际选项]]（International Option of the French Baccalaureate，OIB）。该选项保留法国国家资格主体，只把外语和历史／地理部分交由伙伴国共同设计与考试（pp. 162–164）。
 
 > [!contrast-table] 三种合作方式的控制权不同，结果也不同
@@ -141,7 +142,7 @@ updated: 2026-10-01
 > 借调是把法国人员派到国际总部；巴黎办公室是让 IBO 借用法国伙伴机构；国际选项则是把外国课程放进法国国家文凭。三者在谁负责、人员听命于谁、资格由谁承认等方面都不同。因此，它们不能简单归为国家分支；法国最后选择国家文凭国际选项，也正是因为这种方式仍由本国制度控制。
 
 > [!conclusion] IB 获得政府参与，但仍保持独立组织身份
-> 第二个十年的 IB 没有被[[UNESCO|联合国教育、科学及文化组织]]（United Nations Educational, Scientific and Cultural Organization，UNESCO）或任何单一国家吸收。它保留瑞士独立法人，以政府常设会议提供公共代表，以学校、考试和地区收入维持运行。这种混合结构扩大合法性，也持续暴露政府会费不足、国家制度竞争和组织伙伴失败的风险。
+> 第二个十年的 IB 没有被联合国教育、科学及文化组织（[[UNESCO|United Nations Educational, Scientific and Cultural Organization]]，UNESCO）或任何单一国家吸收。它保留瑞士独立法人，以政府常设会议提供公共代表，以学校、考试和地区收入维持运行。这种混合结构扩大合法性，也持续暴露政府会费不足、国家制度竞争和组织伙伴失败的风险。
 
 ---
 
@@ -204,7 +205,7 @@ updated: 2026-10-01
 > - **伦敦发展中心** 罗伯特·布莱克本（Robert Blackburn）自 1978 年任发展主任兼副总干事，与伦敦大学教育学院合作，承担全球扩展的重要部分。
 > - **南美共享岗位** 彼得·斯托伊尔（Peter Stoyle）在布宜诺斯艾利斯圣乔治学校办公，同时担任 IBO 区域官员与 UWC 南美国家委员会联络员，双方分担旅行成本。
 > - **东南亚共享岗位** 东南亚 UWC 的约翰·古德班（John Goodban）兼顾 IBO 利益，使两个组织借同一地区节点提供服务。
-> - **语言考试伙伴** 汤姆·卡特（Tom Carter）与南安普敦大学的安排，构成后来大学承接考试职能的先例（pp. 166–168）。
+> - **语言考试伙伴** 汤姆·卡特（[[Theory of Mind|ToM]] Carter）与南安普敦大学的安排，构成后来大学承接考试职能的先例（pp. 166–168）。
 
 > [!warrant]- 共享岗位直接减少了办公室和差旅成本
 > IBO 与 UWC 的关系不只体现在共同理念。共用地区人员、办公室、旅行和学校网络，直接降低了尚不足以支撑独立办公室地区的固定成本。协作也提高了对个人经验和伙伴机构稳定性的依赖，人员更替或机构危机可能迅速削弱服务。
@@ -230,7 +231,7 @@ UWC 早期把和平寄托于潜在领导者的跨国共同生活、救援服务�
 > - 救援和挑战也可以指帮助处境不利者摆脱社会问题，不必局限于海上或山地救生（pp. 168–169）。
 
 > [!contrast-table] UWC 使命扩展没有取消早期目标
-> | 维度 | 库尔特·哈恩（Kurt Hahn）与蒙巴顿勋爵（Lord Mountbatten）的早期重心 | 第二个十年的扩展解释 | 连续不变的制度要求 |
+> | 维度 | [[Kurt Hahn\|库尔特·哈恩]]（Kurt Hahn）与蒙巴顿勋爵（[[Louis Mountbatten\|Lord Mountbatten]]）的早期重心 | 第二个十年的扩展解释 | 连续不变的制度要求 |
 > |---|---|---|---|
 > | 和平风险 | 国家间冲突与外交失败 | 饥饿、南北差距和社会排斥也可能造成长期冲突 | 青年需要理解差异并愿意承担公共责任 |
 > | 培养对象 | 各层次潜在领导者或社会动员者 | 校友终身网络及能回应地方问题的专业人才 | 影响应延伸到离校后的行动 |
@@ -366,7 +367,7 @@ UWC 早期把和平寄托于潜在领导者的跨国共同生活、救援服务�
 
 > [!actor-grid] UWC 主席需要耐心协调，而不只是个人声望
 > - **亚历克·彼得森（[[Alec Peterson]]）** 1978 年接任国际董事会主席时已七十岁，预先限定只任两年，并把寻找继任者列为主要任务。
-> - **汤姆·西蒙斯** 曾任特伦特大学创校副校长和英联邦大学协会主席、财务主管，1980 年当选，1983 年连任。彼得森特别强调其耐心，认为国际委员会主席的关键能力是在有限时间内促成原本看似不可能的结论。
+> - **汤姆·西蒙斯** 曾任特伦特大学创校副校长和英联邦大学协会主席、财务主管，1980 年当选，1983 年连任。彼得森特别强调其耐心，认为国际委员会主席的[[21st Century Skills and Competencies Discourse|关键能力]]是在有限时间内促成原本看似不可能的结论。
 > - **金曼·布鲁斯特** 前耶鲁大学校长及美国驻英大使，于 1986 年接任，使主席序列从法国人、苏格兰人、加拿大人延伸到美国人（p. 172）。
 
 > [!actor-grid] IBO 新任总干事接手了成熟课程和严重财政危机
@@ -391,7 +392,7 @@ UWC 早期把和平寄托于潜在领导者的跨国共同生活、救援服务�
 > | [[Creativity, Action, Service\|CASS]] | 让创造、身体活动和社会服务进入完整教育 | 学校提供机会与指导，拟以档案而非分数增强记录 | 定义稀释、学校间文化差异、强制参与制造形式主义（pp. 178–185） |
 
 > [!case] TOK 用少量加减分避免被忽视，也避免变成第七门考试学科
-> TOK 由法国哲学传统参与塑造，又明确不等同于哲学史、[[Epistemology|认识论]]专课或符号逻辑。学校享有较大设计自由，并可因地方文化省略部分内容；教师热情通过每年约 35–40 人的暑期学校维持。为防止课程被忽视，优秀表现奖励 1 分，完全不参与扣 1 分；为避免成为第七门考试学科，早期共同试卷由外部命题、校内评分和外部调节组成，1985 年改为提交课程作业样本进行调节。2,227 名文凭考生中，620 人获奖励分，58 人被扣分（pp. 178–180）。
+> TOK 由法国哲学传统参与塑造，又明确不等同于哲学史、[[Epistemology|认识论]]专课或符号逻辑。学校享有较大设计自由，并可因地方文化省略部分内容；教师热情通过每年约 35–40 人的暑期学校维持。为防止课程被忽视，优秀表现奖励 1 分，完全不参与扣 1 分；为避免成为第七门考试学科，早期共同试卷由外部命题、校内评分和外部调节组成，1985 年改为提交课程[[Homework|作业]]样本进行调节。2,227 名文凭考生中，620 人获奖励分，58 人被扣分（pp. 178–180）。
 
 > [!question] TOK 问题样例显示课程重视跨学科推理
 > - 如果道德规范只是其所在社会的惯例，追求一个更公正的社会是否仍有意义？
@@ -481,7 +482,7 @@ UWC 早期把和平寄托于潜在领导者的跨国共同生活、救援服务�
 课程成熟与组织财务并不同步。罗杰·皮尔（Roger Peel）1983 年接任总干事时，教学方面健康，预算和行政却面临可能触发瑞士基金会关闭的危机。
 
 > [!warning] 半百万瑞士法郎赤字迫使组织暂停发展
-> 1983 年初步预算预计赤字超过 500,000 瑞士法郎。应对措施包括暂时停止课程开发、缩减日内瓦人员、与已较富裕的[[International Baccalaureate North America|国际文凭北美区]]（International Baccalaureate North America，IBNA）重谈条件，并再次筹集紧急捐助。UWC 促使阿曼德·哈默延续一年 30,000 美元捐款，IBNA 也提供同额特别拨款。1983／84 年预算恢复平衡，1984／85 年首次形成可观储备（pp. 185–186）。
+> 1983 年初步预算预计赤字超过 500,000 瑞士法郎。应对措施包括暂时停止课程开发、缩减日内瓦人员、与已较富裕的[[International Baccalaureate|国际文凭]]北美区（[[International Baccalaureate North America]]，IBNA）重谈条件，并再次筹集紧急捐助。UWC 促使阿曼德·哈默延续一年 30,000 美元捐款，IBNA 也提供同额特别拨款。1983／84 年预算恢复平衡，1984／85 年首次形成可观储备（pp. 185–186）。
 
 > [!row-contrast] IBO 靠削减支出、区域分担和临时捐款渡过危机
 > | 措施类别 | 具体行动 | 即时作用 | 潜在代价或边界 |
@@ -588,7 +589,7 @@ UWC 国际理事会和[[1985 Trieste Intergovernmental Conference on the Interna
 > ```
 
 > [!warrant]- 规避统一竞争的争议不只是标准高低问题
-> 反对者担心申请人以家庭财富和学校选择绕过 Abitur 公开竞争；支持者担心禁止本国学生进入国际学校会隔断国际社群与东道国文化。指定学校方案不宣称两种资格完全相同，而是通过限制使用场所，换取流动服务与国内公平之间的暂时平衡（pp. 190–191）。
+> 反对者担心申请人以家庭财富和[[School Choice|学校选择]]绕过 Abitur 公开竞争；支持者担心禁止本国学生进入国际学校会隔断国际社群与东道国文化。指定学校方案不宣称两种资格完全相同，而是通过限制使用场所，换取流动服务与国内公平之间的暂时平衡（pp. 190–191）。
 
 > [!case] 多文化流动学生表明双文化资格不是普遍答案
 > 第 10,000 份 IB 文凭获得者是芬兰学生，教育经历跨越马来西亚、泰国、莫桑比克、芬兰和坦桑尼亚。对于这类学生，法国国际选项式双文化教育无法代表实际生活世界；共同国际资格仍有独立必要性（p. 190）。

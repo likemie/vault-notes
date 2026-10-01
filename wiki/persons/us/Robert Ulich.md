@@ -8,7 +8,7 @@ summary: "德裔美籍教育哲学家与文化史学家，哈佛大学教授，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -52,6 +52,7 @@ related_persons:
   - "[[Friedrich Schneider]]"
   - "[[Nicholas Hans]]"
   - "[[Claude A. Eggertsen]]"
+  - "[[William W. Brickman]]"
   - "[[Val D. Rust]]"
 related_facts:
   - "[[Grammar School]]"
@@ -182,7 +183,7 @@ updated: 2026-10-01
 > [!citation-card] Rust et al. 论乌利希奠定比较教育学科人文历史根基
 > 拉斯特等学者在梳理比较教育两百年学术史演进时明确指出：比较教育领域的学科根基，正是由代表着深厚历史与人文倾向的一代学者所奠定的，其中包括历史学家[[Isaac Kandel|艾萨克·坎德尔]]、[[Friedrich Schneider|弗里德里希·施奈德]]、[[Nicholas Hans|尼古拉斯·汉斯]]、罗伯特·乌利希、[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]等人。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–123)]]
 >
-> *The foundations of the [[Champ|field]] of comparative education were established by scholars representing historical and humanistic inclinations, including historians Isaac Kandel, Friedrich Schneider, Nicholas Hans, Robert Ulich, Andreas Kazamias, [[Claude A. Eggertsen]], and William Brickman...*
+> *The foundations of the [[Champ|field]] of comparative education were established by scholars representing historical and humanistic inclinations, including historians Isaac Kandel, Friedrich Schneider, Nicholas Hans, Robert Ulich, Andreas Kazamias, [[Claude A. Eggertsen]], and [[William W. Brickman|William Brickman]]...*
 
 ---
 

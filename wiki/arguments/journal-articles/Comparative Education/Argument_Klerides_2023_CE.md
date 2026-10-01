@@ -9,7 +9,7 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 57
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -74,7 +74,6 @@ related_persons:
   - "[[Michael Sadler]]"
   - "[[Isaac Kandel]]"
   - "[[Marc-Antoine Jullien]]"
-  - "[[Martin Carnoy]]"
 related_facts:
   - "[[Comparative and International Education Society]]"
   - "[[OECD]]"
@@ -263,7 +262,7 @@ citation_aliases:
 
 > [!dev-timeline] 革命主义比较教育的演进脉络
 > - **1817 — 学科源头的殖民纠缠** 革命主义学者指出，[[Marc-Antoine Jullien\|朱利安]]的学科奠基计划（1817年）本身就诞生于欧洲列强帝国扩张时期的旅行、观察和差异分类技术中，带着与殖民分类学密不可分的历史烙印(Sobe, 2017)。
-> - **1970s–1980s — [[Dependency Theory\|依附理论]]与新马克思主义的介入** [[Martin Carnoy|卡诺伊]]、阿特巴赫等学者引入“中心-边缘”模型，解构西方资本主义世界秩序对穷国的剥削，将西方输出的学校系统解读为延续帝国支配、造成“心智奴役”的手段(p. 426)。
+> - **1970s–1980s — [[Dependency Theory\|依附理论]]与新马克思主义的介入** 卡诺伊、阿特巴赫等学者引入“中心-边缘”模型，解构西方资本主义世界秩序对穷国的剥削，将西方输出的学校系统解读为延续帝国支配、造成“心智奴役”的手段(p. 426)。
 >   - 1974年 卡诺伊出版《教育作为文化帝国主义》，主张通过“解放学校”打破社会阶级等级。
 >   - 1970s-1980s 越南、古巴和莫桑比克等革命政府借鉴苏联“工人学院”模式，从工农中重塑社会主义知识分子以取代资产阶级精英(Kaiser, 2015)。
 > - **2000s 至今 — 后殖民与去殖民比较教育的兴起** 摆脱了传统的二元阶级斗争框架，要求与西方认识型彻底脱钩，挑战殖民性在殖民地（通过本土精英）与宗主国（东方主义式看待东亚 PISA 表现，Takayama, 2018a）的双向延续(Silova et al., 2020)。
