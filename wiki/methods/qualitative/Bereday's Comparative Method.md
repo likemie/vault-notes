@@ -12,44 +12,27 @@ summary: "由乔治·贝雷迪开创的比较教育学经典经验归纳研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 26
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 9
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
   - subject/comparative-education
   - theme/comparative-methodology
   - theme/scientific-paradigm
-related_concepts:
-  - "[[Scientific Paradigm]]"
-  - "[[Epistemology]]"
-  - "[[Unit of Analysis]]"
-  - "[[Scientific Explanation]]"
-  - "[[Geisteswissenschaften]]"
-  - "[[Comparative Education as a Cross-Sectional Area]]"
-  - "[[Qualitative Research]]"
-  - "[[Document]]"
-  - "[[Primary and Secondary Documents]]"
-  - "[[Variable]]"
-  - "[[Hypothesis]]"
+related_concepts: []
 related_theories: []
 related_methods:
   - "[[Problem Approach]]"
   - "[[Analytic Framework]]"
-  - "[[Grounded Theory]]"
-  - "[[Analytic Induction]]"
   - "[[Historical-Comparative Method]]"
+  - "[[Grounded Theory]]"
 related_instruments: []
 related_persons:
   - "[[George Bereday]]"
-  - "[[Brian Holmes]]"
   - "[[Val D. Rust]]"
-  - "[[Isaac Kandel]]"
-  - "[[Nicholas Hans]]"
-  - "[[Friedrich Schneider]]"
-related_facts:
-  - "[[Comparative and International Education Society]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
@@ -160,7 +143,7 @@ updated: 2026-10-01
 
 > [!tension] Holmes vs. Bereday：假说演绎法与经验归纳法的世纪辩争
 > - **布赖恩·霍姆斯（Brian Holmes）的批判立场**
->   霍姆斯援引波普尔（Karl Popper）的证伪主义与杜威（John Dewey）的反思思维，对贝雷迪的归纳进路提出了系统反驳：不存在未被理论渗透的纯粹观察事实；贝雷迪主张先描述再归纳，意味着研究者以未经严密检验的潜意识偏见搜集材料，所得证据只能在自身预设的封闭体系内循环自证；科学比较研究必须先有明确的技术性问题与理论假说（即[[Problem Approach|问题法]]），才能赋予经验数据以检验价值。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 128)]]
+>   霍姆斯援引波普尔（Karl Popper）的证伪主义与杜威（John Dewey）的反思思维，对贝雷迪的归纳进路提出了系统反驳：不存在未被理论渗透的纯粹观察事实；贝雷迪主张先描述再归纳，意味着研究者以未经严密检验的潜意识偏见搜集材料，所得证据只能在自身预设的封闭体系内循环自证；科学比较研究必须先有明确的技术性问题与理论假说（即[[Problem Approach|问题法]]），才能赋予经验数据以检验价值。
 > - **贝雷迪与经验归纳派的回应立场**
 >   纯粹的假说演绎法容易沦为脱离鲜活民族历史情境与制度特殊性的空中楼阁；若没有扎实的单国地理、政治与文化脉络厚描述，演绎派极易按照主观假设任意剪裁跨国事实；深度描述与跨学科解释是跨国比较不可逾越的认识论基石。
 > - **拉斯特等人的历史定性**
@@ -184,6 +167,6 @@ updated: 2026-10-01
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Rust_2009_Reflections]] — 将贝雷迪四步归纳法确立为 1960 年代学科实证科学化历程中经验归纳进路的最系统代表形态，剖析其与霍姆斯假说演绎法的世纪论争。
-> - [[Argument_Mattheou_2009_ScientificParadigm]] — 深度评述贝雷迪《教育中的比较方法》如何充当历史学派向社会科学范式过渡的理论桥梁，并以此界定科学比较研究的四步范式。
-> - [[Argument_Cowen_2009_HistoryCreation]] — 考证贝雷迪四步法在确立战后比较教育学专业地位与跨国学术共同体网络构建中的奠基性历史作用。
+> - [[Argument_Rust_2009_Reflections|Rust et al., 2009]] — 将贝雷迪四步归纳法确立为 1960 年代学科实证科学化历程中经验归纳进路的最系统代表形态，剖析其与霍姆斯假说演绎法的世纪论争。
+> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009]] — 深度评述贝雷迪《教育中的比较方法》如何充当历史学派向社会科学范式过渡的理论桥梁，并以此界定科学比较研究的四步范式。
+> - [[Argument_Cowen_2009_HistoryCreation|Cowen, 2009a]] — 考证贝雷迪四步法在确立战后比较教育学专业地位与跨国学术共同体网络构建中的奠基性历史作用。

@@ -7,7 +7,7 @@ title: "Argument_Rust_2009_Reflections"
 argument_key: "Argument_Rust_2009_Reflections"
 argument_display_title: "Reflections on the Development of Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 81
+argument_related_count: 83
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -88,6 +88,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Content Analysis]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Bereday's Comparative Method]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Ideology Critique]]"
@@ -101,6 +102,7 @@ related_persons:
   - "[[Horace Mann]]"
   - "[[Friedrich Schneider]]"
   - "[[Franz Hilker]]"
+  - "[[William H. Payne]]"
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
   - "[[Robert Ulich]]"

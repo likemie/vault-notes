@@ -9,7 +9,7 @@ summary: "美国教育学家，密歇根大学首任教学科学与艺术讲座�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,20 +25,15 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Scientific Paradigm]]"
   - "[[Influences Across Cultures]]"
-  - "[[Knowledge Production]]"
-  - "[[Epistemology]]"
-  - "[[Document]]"
 related_theories: []
-related_methods:
-  - "[[Historical-Comparative Method]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Val D. Rust]]"
   - "[[Marc-Antoine Jullien]]"
   - "[[Horace Mann]]"
   - "[[Henry Barnard]]"
-related_facts:
-  - "[[Comparative and International Education Society]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
 confidence: high
