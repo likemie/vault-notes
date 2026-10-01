@@ -1,9 +1,16 @@
 ---
-title: Argument_Kazamias_2009_HistoricalReflections
 summary: "从普罗透斯式认识体系视角系统反思比较教育学两百余年论述代际更迭，揭示实证主义对单一方法的迷信与唯方法论主义弊端，以期刊计量数据诊断学科面临的历史健忘症危机，确立历史学与社会科学综合纲领的现代合法性"
 type: argument
 subtype: book-chapter
 publication_type: book-chapter
+title: "Argument_Kazamias_2009_HistoricalReflections"
+argument_key: "Argument_Kazamias_2009_HistoricalReflections"
+argument_display_title: "Comparative Education: Historical Reflections"
+argument_kind: "book-chapter"
+argument_related_count: 0
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#fef3c7"
 authors:
   - "[[Andreas Kazamias|Kazamias, A. M.]]"
 source_language: en
@@ -13,6 +20,9 @@ publisher: "Springer"
 year: 2009
 isbn: "978-1-4020-6402-9"
 doi: ""
+citation_aliases:
+  - "Kazamias, 2009a"
+  - "Kazamias (2009a)"
 citation: "Kazamias, A. M. (2009). Comparative Education: Historical Reflections. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 139–157). Dordrecht: Springer."
 tags:
   - subject/comparative-education
@@ -36,7 +46,6 @@ status: draft
 created: 2026-10-01
 updated: 2026-10-01
 ---
-
 # Argument_Kazamias_2009_HistoricalReflections
 
 ---
