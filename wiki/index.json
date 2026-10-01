@@ -8830,6 +8830,19 @@
     ]
   },
   {
+    "title": "Dissimilar Units",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Dissimilar Units.md",
+    "aliases": [
+      "非同质单位困境",
+      "非同质单位",
+      "异质单位比较困境",
+      "Dissimilar Units Constraint",
+      "Analysis of Dissimilar Units",
+      "跨文化异质单位"
+    ]
+  },
+  {
     "title": "Document",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Document.md",
@@ -12283,6 +12296,18 @@
     "aliases": [
       "教育建国",
       "教育国家建构"
+    ]
+  },
+  {
+    "title": "Norwegian Four-Phase Model",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Norwegian Four-Phase Model.md",
+    "aliases": [
+      "挪威教育政策形成四阶段模型",
+      "挪威政策借用模式",
+      "挪威教育改革四阶段模型",
+      "Norwegian Four-Phase Policy Borrowing Model",
+      "Four-Phase Educational Reform Model in Norway"
     ]
   },
   {
@@ -20738,6 +20763,17 @@
       "克拉克·钦",
       "Chinn, C. A.",
       "Clark Chinn"
+    ]
+  },
+  {
+    "title": "Claude A. Eggertsen",
+    "type": "person",
+    "path": "wiki/persons/us/Claude A. Eggertsen.md",
+    "aliases": [
+      "克劳德·A·埃格特森",
+      "克劳德·埃格特森",
+      "Claude Eggertsen",
+      "C. A. Eggertsen"
     ]
   },
   {
