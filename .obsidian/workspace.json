@@ -67,8 +67,7 @@
               "title": "template-argument-edited-volume"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,8 +269,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3e17d8b5a663e069",
+  "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
+    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rust_2009_Reflections.md",
     "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md",
     "wiki/concepts/comparative-education/Protean Episteme.md",
     "books/Cowen(Ed.)_2009_Springer/Ch10_Kazamias_2009.md",
@@ -280,7 +280,6 @@
     "wiki/persons/canada/Louis Henry Jordan.md",
     "wiki/persons/us/William W. Brickman.md",
     "wiki/methods/qualitative/Analytic Framework.md",
-    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rust_2009_Reflections.md",
     "wiki/persons/us/Henry Giroux.md",
     "wiki/persons/greece/Xenophon.md",
     "wiki/concepts/research-methodology/Going Native.md",
