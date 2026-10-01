@@ -262,20 +262,20 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Epistemology]] | 概念 | 精神科学为社会与教育探究提供了独立于自然科学[[Empiricism\|经验论]]的核心认识论合法性。 |
-> | [[Protean Episteme]] | 概念 | 比较教育学作为普罗透斯式认识体系，其精神科学底蕴决定了其跨学科与时代变形特征。 |
-> | [[Educational Meliorism]] | 概念 | 精神科学学者将外国探究转化为涵养本土哲学态度与民主自省的历史改良主义。 |
-> | [[Historical-Comparative Method]] | 方法 | 精神科学在比较教育中的直接方法论[[Avatar\|化身]]，依托解释学与档案考掘产出工作假说。 |
-> | [[Bildung]] | 概念 | 德语精神科学教育学的价值内核，聚焦个体生命的完整教化与理性自主。 |
-> | [[Allgemeine Pädagogik]] | 概念 | 欧陆普通教育学母体，以精神科学为学统根基抵抗功利化技能[[Disciplina and Doctrina\|规训]]。 |
-> | [[Positivism]] | 概念 | 精神科学的核心论敌，倡导科学一元论与[[Value Neutrality\|价值无涉]]，战后曾对精神科学发起猛烈清洗。 |
-> | [[National Character]] | 概念 | 精神科学传统在第二代比较教育中广泛运用的解释[[Construct\|构念]]，探寻深层文化心理。 |
-> | [[Wilhelm Dilthey]] | 人物 | 精神科学哲学奠基人，确立自然说明与精神理解的认识论鸿沟。 |
-> | [[Michael Sadler]] | 人物 | 开启比较教育文化[[Situative Perspective\|情境主义]]转向，提炼[[Intangible Spiritual Forces\|无形精神力量]]命题。 |
-> | [[Isaac Kandel]] | 人物 | 历史-哲学学派大师，确立政体决定学校形态与民主抵御极权传统。 |
-> | [[Nicholas Hans]] | 人物 | 提出自然、宗教与世俗三大历史[[Factorial Interpretive Framework\|因素分析框架]]。 |
-> | [[Andreas Kazamias]] | 人物 | 阐发比较教育学作为精神科学的普罗透斯认识体系，批判唯方法论主义并诊断历史健忘症。 |
-> | [[Wolfgang Mitter]] | 人物 | 系统梳理欧洲比较教育学中精神科学传统的发生学脉络与制度演进。 |
+> | [[Epistemology\|认识论]] | 概念 | 精神科学为社会与教育探究提供了独立于自然科学[[Empiricism\\|经验论]]的核心认识论合法性。 |
+> | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 比较教育学作为普罗透斯式认识体系，其精神科学底蕴决定了其跨学科与时代变形特征。 |
+> | [[Educational Meliorism\|教育改良主义]] | 概念 | 精神科学学者将外国探究转化为涵养本土哲学态度与民主自省的历史改良主义。 |
+> | [[Historical-Comparative Method\|历史比较法]] | 方法 | 精神科学在比较教育中的直接方法论[[Avatar\\|化身]]，依托解释学与档案考掘产出工作假说。 |
+> | [[Bildung\|教养]] | 概念 | 德语精神科学教育学的价值内核，聚焦个体生命的完整教化与理性自主。 |
+> | [[Allgemeine Pädagogik\|普通教育学]] | 概念 | 欧陆普通教育学母体，以精神科学为学统根基抵抗功利化技能[[Disciplina and Doctrina\\|规训]]。 |
+> | [[Positivism\|实证主义]] | 概念 | 精神科学的核心论敌，倡导科学一元论与[[Value Neutrality\\|价值无涉]]，战后曾对精神科学发起猛烈清洗。 |
+> | [[National Character\|国民性]] | 概念 | 精神科学传统在第二代比较教育中广泛运用的解释[[Construct\\|构念]]，探寻深层文化心理。 |
+> | [[Wilhelm Dilthey\|威廉·狄尔泰]] | 人物 | 精神科学哲学奠基人，确立自然说明与精神理解的认识论鸿沟。 |
+> | [[Michael Sadler\|迈克尔·萨德勒]] | 人物 | 开启比较教育文化[[Situative Perspective\\|情境主义]]转向，提炼[[Intangible Spiritual Forces\\|无形精神力量]]命题。 |
+> | [[Isaac Kandel\|艾萨克·坎德尔]] | 人物 | 历史-哲学学派大师，确立政体决定学校形态与民主抵御极权传统。 |
+> | [[Nicholas Hans\|尼古拉斯·汉斯]] | 人物 | 提出自然、宗教与世俗三大历史[[Factorial Interpretive Framework\\|因素分析框架]]。 |
+> | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 阐发比较教育学作为精神科学的普罗透斯认识体系，批判唯方法论主义并诊断历史健忘症。 |
+> | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 系统梳理欧洲比较教育学中精神科学传统的发生学脉络与制度演进。 |
 
 ---
 

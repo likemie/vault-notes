@@ -7,7 +7,7 @@ aliases:
 summary: "源自拉丁语更好之意且以改善社会与人类境况为根本导向的探究旨趣，是贯穿19世纪比较与国际教育发端的统治性认识论母题"
 type: concept
 domain: "comparative-education"
-related_count: 67
+related_count: 69
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Intangible Spiritual Forces]]"
   - "[[Enlightenment]]"
+  - "[[Scholiocentric Approach]]"
   - "[[Postpositivism]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Paradigm]]"
@@ -56,6 +57,7 @@ related_concepts:
 related_theories:
   - "[[Hegemony]]"
   - "[[Human Capital Theory]]"
+  - "[[World-Systems Theory]]"
 related_methods:
   - "[[Ideology Critique]]"
   - "[[Correlational Research]]"
@@ -181,7 +183,7 @@ updated: 2026-10-01
 > - **唯心主义、历史整体主义与[[Intangible Spiritual Forces\|无形精神力量]]的共生互嵌（Idealist & Holistic Meliorism）**
 >   在[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]等古典历史比较学派手中，改良主义与唯心主义哲学（思想观念支配人类行动）、历史整体主义以及不可捉摸的精神力量紧密交织；坚信教育是推动文明进步与道德净化的崇高事业，比较探究的终极抱负在于通过对文化理想与无形力量的人文洞察，促进民族间的精神理解，并在剧烈政治危机中捍卫民主制度的人道主义根基。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–60)]]
 > - **四重论述代际演进与批判解放型改良主义（Four Discourse Generations & Critical-Emancipatory Meliorism）**
->   [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Kazamias, 2009a）以两百年学科史为跨度，系统梳理了改良主义形态的四重历史代际演变：从第一代[[Enlightenment|启蒙运动]]下以校为中心（scholiocentric）的“道德教育改良主义”，到第二代萨德勒与坎德尔的“历史-文化哲学有机改良主义”，再到第三代被战[[Postpositivism|后实证主义]]异化为服务国家规划与技术援助的“行政治理[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）”；最终在 1970–1990 年代第四代批判冲突[[Paradigm|范式]]（Carnoy, Arnove, Paulston）中升华为“批判解放型改良主义（Critical-Emancipatory Meliorism）”——打破国家中立[[Hypothesis|假设]]，将改良主义转化为解构资本主义意识形态再生产、揭露文化帝国主义并赋权被压迫阶级参与社会变革的批判解放工程。（pp. 139–156）
+>   [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Kazamias, 2009a）以两百年学科史为跨度，系统梳理了改良主义形态的四重历史代际演变：从第一代[[Enlightenment|启蒙运动]]下[[Scholiocentric Approach|以校为中心]]（scholiocentric）的“道德教育改良主义”，到第二代萨德勒与坎德尔的“历史-文化哲学有机改良主义”，再到第三代被战[[Postpositivism|后实证主义]]异化为服务国家规划与技术援助的“行政治理[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）”；最终在 1970–1990 年代第四代批判冲突[[Paradigm|范式]]（Carnoy, Arnove, Paulston）中升华为“批判解放型改良主义（Critical-Emancipatory Meliorism）”——打破国家中立[[Hypothesis|假设]]，将改良主义转化为解构资本主义意识形态再生产、揭露文化帝国主义并赋权被压迫阶级参与社会变革的批判解放工程。（pp. 139–156）
 
 上述核心要素如何在大西洋两岸分化演进并熔铸为现代比较认识论问题域，可通过以下逻辑图清晰呈现：
 
@@ -314,7 +316,7 @@ updated: 2026-10-01
 > | **史学批判与救赎命题** | 破除实证主义起源神话，重返经验事实求真与伦理关怀的统一 | 比较教育学方法论争鸣与学术传统反思 | Noah, H. & Eckstein, M.; [[Brian Holmes\|Holmes, B.]]; Kazamias, A. M. |
 > | **技术化改良异化命题** | 科学范式清洗道德辞令的同时，将改良主义异化为服务国家规划与效能控制的合法化借口 | 战后比较教育科学化转型、国家规划理性与政策咨询分析 | Mattheou, D.; Noah, H. & Eckstein, M.; Holmes, B.; [[Andreas Kazamias\|Kazamias, A. M.]] |
 > | **政策咨询与实践改良命题** | 坚守航海隐喻中立预测的适度改良功能，结合跨文化微观教学改良诉求 | 政策咨询伦理边界厘定与多元文化学校教学革新分析 | [[Wolfgang Mitter\|Mitter, W.]] |
-> | **批判解放型改良命题** | 批判冲突范式打破国家中立，将改良主义升华为解构不平等再生产与赋权草根变革的批判工程 | 资本主义世界体系分析、依赖理论、阶级再生产批判与第三世界转型研究 | [[Martin Carnoy\|Carnoy, M.]]; [[Robert Arnove\|Arnove, R.]]; [[Andreas Kazamias\|Kazamias, A. M.]] |
+> | **批判解放型改良命题** | 批判冲突范式打破国家中立，将改良主义升华为解构不平等再生产与赋权草根变革的批判工程 | 资本主义[[World-Systems Theory\|世界体系分析]]、依赖理论、阶级再生产批判与第三世界转型研究 | [[Martin Carnoy\|Carnoy, M.]]; [[Robert Arnove\|Arnove, R.]]; [[Andreas Kazamias\|Kazamias, A. M.]] |
 
 ---
 
@@ -327,7 +329,7 @@ updated: 2026-10-01
 > - **1830–1850 — 民族国家建制与行政-政治改良双轨分化阶段** [[Victor Cousin\|库森]]以国家公共资源法哲学主笔 1833 年[[Guizot Law of 1833\|基佐法案]]，开创欧陆实定法直接转置范式；[[Horace Mann\|霍勒斯·曼]]发表《[[Seventh Annual Report of the Massachusetts Board of Education\|第七次年度报告]]》，开创北美动用外部实绩作为国内改革政治合法化依据的范式。（pp. 24–34）
 > - **1900–1950 — 历史改良主义与哲学涵养阶段** [[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]开创[[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]]，将改良主义由直接行政借用转向探寻[[Intangible Spiritual Forces\|校外无形精神力量]]，主张通过比较理解涵养哲学态度以服务民主自省与国际主义。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 40, 44–46)]]
 > - **1960年代 — 行为[[Positivism\|实证主义]]批判与“技术改良主义”[[Social Science as Legitimation Alibi|合法化借口]]阶段** 贝雷迪、诺亚、埃克斯坦与霍姆斯等学者指责历史学派充斥主观愿望与道德说教；但实证[[Scientific Paradigm|科学范式]]并未放弃改良，而是将改良主义重构为服务国家五年计划、[[Human Capital Theory\|人力资本]]预测与外援工程的“技术改良主义（Technocratic Meliorism）”，沦为技术官僚推卸决策责任的行政治理合法化借口。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 60–64)]]；[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 144–151)]]
-> - **1970s–1990s — 批判冲突范式与“批判解放型改良主义”兴起** 新马克思主义、世界体系分析与依赖理论学者（卡诺伊、[[Robert Arnove|阿诺夫]]、保尔斯顿）打破国家中立假象，揭示学校作为阶级矛盾博弈竞技场，将改良主义升华为解构资本主义再生产不平等与赋权第三世界草根社会变革的“批判解放型改良主义”。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 152–155)]]
+> - **1970s–1990s — 批判冲突范式与“批判解放型改良主义”兴起** 新马克思主义、[[World-Systems Theory|世界体系分析]]与依赖理论学者（卡诺伊、[[Robert Arnove|阿诺夫]]、保尔斯顿）打破国家中立假象，揭示学校作为阶级矛盾博弈竞技场，将改良主义升华为解构资本主义再生产不平等与赋权第三世界草根社会变革的“批判解放型改良主义”。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 152–155)]]
 > - **1970s–1990s — 欧洲政策咨询光谱中的适度改良功能** 面对两德分裂与冷战现实，欧洲主流比较教育学者（如米特、安维勒）在[[Niklas Luhmann|卢曼]]激进疏离与罗宾逊激进干预之间确立温和立场，明确接受比较教育的“适度改良功能（melioristic function）”，以[[Navigation Metaphor in Comparative Education|航海隐喻]]提供方案预测而非操纵决策。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 95–96)]]
 > - **2000年代至今 — 历史健忘症反思与跨文化一线微观改良合流** 卡扎米亚斯诊断出学科在多元范式扩张表象下的“历史健忘症”，呼吁重构历史学与社会科学的综合纲领以守护改良主义的人文批判灵魂；同时，[[Intercultural Education|跨文化教育]]的崛起将改良主义引向教科书、课程与多元文化族群整合的一线教学论微观实践。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 155–156)]]; [[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 97–98)]]
 
@@ -389,18 +391,18 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Policy Borrowing]] | 概念 | 阐明改良主义如何转化为具体的跨国制度借鉴行为、机制转置与合法化修辞。 |
-> | [[Proto-Scientific Motif]] | 概念 | 与行政改良主义母题并列为 19 世纪比较教育发端期的两大奠基母题。 |
-> | [[Scientific Paradigm]] | 概念 | 展现战后科学化运动对古典改良主义的批判及其自身向现代技术改良主义的蜕变。 |
-> | [[Auslandspadagogik]] | 概念 | 构成了 19 世纪改良主义探究在欧陆与美洲[[Document\|文献]]形态上的主要经验承载形式。 |
-> | [[Comparative History of Comparative Education]] | 概念 | 将改良主义确立为解构学科现代主义发端与重构比较[[Epistemology\|认识论]]问题域的核心主线。 |
-> | [[Marc-Antoine Jullien]] | 人物 | 开创准科学人道主义改良母题，将经验分类服务于全人道德[[Bildung\|教化]]与世界永久和平。 |
-> | [[Victor Cousin]] | 人物 | 开创欧陆官方行政改良路径，以国家公共资源法哲学将普鲁士经验转化为法国[[Guizot Law of 1833\|基佐法案]]。 |
-> | [[Horace Mann]] | 人物 | 开创北美政治合法化改良路径，将欧洲公学卓越实绩[[Transfer Translation Transformation\|转译]]为击溃国内保守派的论据。 |
-> | [[Wolfgang Mitter]] | 人物 | 在学科史中确立[[Navigation Metaphor in Comparative Education\|航海隐喻]]下“适度改良功能”（melioristic function）的政策咨询伦理，并阐明跨文化教育的一线教学改良诉求。 |
-> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供改良主义本体定义、大西洋两岸双重机制分化与批判战[[Postpositivism\|后实证主义]]起源神话的系统证据。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 系统梳理政策咨询光谱中航海隐喻对适度改良功能的坚守，以及[[Intercultural Education\|跨文化教育]]一线实践改良进路。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 梳理比较教育学方法论争鸣，将改良主义置于其与[[Ideology Critique\|意识形态批判]]、严格[[Value Neutrality\|价值中立]]的三元坐标系中定位。 |
+> | [[Policy Borrowing\|政策借用]] | 概念 | 阐明改良主义如何转化为具体的跨国制度借鉴行为、机制转置与合法化修辞。 |
+> | [[Proto-Scientific Motif\|准科学母题]] | 概念 | 与行政改良主义母题并列为 19 世纪比较教育发端期的两大奠基母题。 |
+> | [[Scientific Paradigm\|比较教育学科学范式]] | 概念 | 展现战后科学化运动对古典改良主义的批判及其自身向现代技术改良主义的蜕变。 |
+> | [[Auslandspadagogik\|外国教育学]] | 概念 | 构成了 19 世纪改良主义探究在欧陆与美洲[[Document\\|文献]]形态上的主要经验承载形式。 |
+> | [[Comparative History of Comparative Education\|比较教育学的比较史]] | 概念 | 将改良主义确立为解构学科现代主义发端与重构比较[[Epistemology\\|认识论]]问题域的核心主线。 |
+> | [[Marc-Antoine Jullien\|马克-安托万·朱利安]] | 人物 | 开创准科学人道主义改良母题，将经验分类服务于全人道德[[Bildung\\|教化]]与世界永久和平。 |
+> | [[Victor Cousin\|维克多·库森]] | 人物 | 开创欧陆官方行政改良路径，以国家公共资源法哲学将普鲁士经验转化为法国[[Guizot Law of 1833\\|基佐法案]]。 |
+> | [[Horace Mann\|霍勒斯·曼]] | 人物 | 开创北美政治合法化改良路径，将欧洲公学卓越实绩[[Transfer Translation Transformation\\|转译]]为击溃国内保守派的论据。 |
+> | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 在学科史中确立[[Navigation Metaphor in Comparative Education\\|航海隐喻]]下“适度改良功能”（melioristic function）的政策咨询伦理，并阐明跨文化教育的一线教学改良诉求。 |
+> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供改良主义本体定义、大西洋两岸双重机制分化与批判战[[Postpositivism\\|后实证主义]]起源神话的系统证据。 |
+> | [[Argument_Mitter_2009_Europe\\|Mitter (2009)]] | 论证 | 系统梳理政策咨询光谱中航海隐喻对适度改良功能的坚守，以及[[Intercultural Education\\|跨文化教育]]一线实践改良进路。 |
+> | [[Argument_Rust_2009_Reflections\\|Rust et al. (2009)]] | 论证 | 梳理比较教育学方法论争鸣，将改良主义置于其与[[Ideology Critique\\|意识形态批判]]、严格[[Value Neutrality\\|价值中立]]的三元坐标系中定位。 |
 
 ---
 

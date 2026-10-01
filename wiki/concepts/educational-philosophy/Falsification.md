@@ -269,14 +269,14 @@ updated: 2026-10-01
 > [!entry-map] 证伪主义[[Construct|构念]]在学术网络中的关联结构
 > | 关联构件 | 链接条目 | 理论关联说明 |
 > |---|---|---|
-> | **[[Epistemology\|认识论]][[Paradigm\|范式]]** | [[Positivism]]；[[Postpositivism]] | 作为后实证主义科学哲学的核心基石，取代实证主义归纳证实原则 |
-> | **核心方法要素** | [[Hypothesis]]；[[Operationalization]] | 驱动科学假说的精确操作化与异质情境严格检验设计 |
-> | **学科转型碰撞** | [[Historical-Comparative Method]] | 1960 年代实证学派以可证伪性为武器批评历史学派，促使历史比较引入非普适探索性工作假设 |
-> | **推导公式与[[Problem Approach\|问题法]]** | [[Problem Approach]] | 霍姆斯将证伪原则操作化为 $L + I = P$ 推导公式，以受约束的预测检验假设 |
-> | **反思与对话范式** | [[Historical-Philosophical-Cultural Motif]] | 历史人文母题通过广义科学定位打破实证派唯证伪主义的科学话语垄断 |
-> | **教学与[[Metacognition\|元认知]]应用** | [[Critical Thinking]]；[[Theory of Knowledge]] | 构成 TOK 课程中关于科学划界与知识真伪审议的核心讨论主题 |
-> | **[[Critical Theory\|批判理论]]支撑** | [[Duhem-Quine Thesis]] | 迪昂-蒯因不完全决定性构成了反思朴素证伪主义的核心认识论反论 |
-> | **核心专著与论证** | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]]；[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]]；[[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]；[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]]；[[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] | 奠定[[Scientific Method\|科学方法]]论基础，阐明比较假说演绎演化，批判教学中简化误用，反思学科史上的实证围剿与历史工作假设效能 |
+> | **[[Epistemology\\|认识论]][[Paradigm\\|范式]]** | [[Positivism\|实证主义]]；[[Postpositivism\|后实证主义]] | 作为后实证主义科学哲学的核心基石，取代实证主义归纳证实原则 |
+> | **核心方法要素** | [[Hypothesis\|假设]]；[[Operationalization\|操作化]] | 驱动科学假说的精确操作化与异质情境严格检验设计 |
+> | **学科转型碰撞** | [[Historical-Comparative Method\|历史比较法]] | 1960 年代实证学派以可证伪性为武器批评历史学派，促使历史比较引入非普适探索性工作假设 |
+> | **推导公式与[[Problem Approach\\|问题法]]** | [[Problem Approach\|问题法]] | 霍姆斯将证伪原则操作化为 $L + I = P$ 推导公式，以受约束的预测检验假设 |
+> | **反思与对话范式** | [[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]] | 历史人文母题通过广义科学定位打破实证派唯证伪主义的科学话语垄断 |
+> | **教学与[[Metacognition\\|元认知]]应用** | [[Critical Thinking\|批判性思维]]；[[Theory of Knowledge\|知识论]] | 构成 TOK 课程中关于科学划界与知识真伪审议的核心讨论主题 |
+> | **[[Critical Theory\\|批判理论]]支撑** | [[Duhem-Quine Thesis\|迪昂-蒯因论题]] | 迪昂-蒯因不完全决定性构成了反思朴素证伪主义的核心认识论反论 |
+> | **核心专著与论证** | [[Argument_Cohen_Manion_Morrison_2011_Routledge\\|Cohen et al. (2011)]]；[[Argument_Mattheou_2009_ScientificParadigm\\|Mattheou (2009)]]；[[Argument_Zemplen_2007_SciEduc\\|Zemplén (2007)]]；[[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]]；[[Argument_Kazamias_2009_ForgottenThemes\\|Kazamias (2009b)]] | 奠定[[Scientific Method\\|科学方法]]论基础，阐明比较假说演绎演化，批判教学中简化误用，反思学科史上的实证围剿与历史工作假设效能 |
 
 ---
 
@@ -288,15 +288,3 @@ updated: 2026-10-01
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 权威阐述霍姆斯以 $L + I = P$ 公式[[Operationalization|操作化]]波普尔证伪原则，辨析条件预测与不可证伪的历史宿命论预言，并借由[[Crane Brinton|布林顿]]史学论证历史探索性工作[[Hypothesis|假设]]的可检验性。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 思想史考古揭示 1960 年代霍姆斯、诺亚与埃克斯坦如何利用波普尔可证伪性准绳围剿历史比较学派，并借由布林顿比较史学归纳法重构非普适探索性假说的合法性。
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|知识论]]（TOK）教科书为经验案例，剖析证伪主义在[[Critical Thinking|批判性思维]]教学中被教条化和简化的结构性困境。
-
----
-
-## 参考文献
-
-- [[Louis Cohen|Cohen, L.]], [[Lawrence Manion|Manion, L.]], & Morrison, K. (2011). *Research methods in education* (7th ed.). Routledge.
-- Kazamias, A. M. (2009a). Comparative education: Historical reflections. In R. Cowen & A. M. Kazamias (Eds.), *International Handbook of Comparative Education* (pp. 139–157). Springer.
-- Kazamias, A. M. (2009b). Forgotten men, forgotten themes: The [[Historical-Philosophical-Cultural Motif|Historical-Philosophical-Cultural and Liberal Humanist Motif]] in comparative education. In R. Cowen & A. M. Kazamias (Eds.), *International Handbook of Comparative Education* (pp. 37–58). Springer.
-- Mattheou, D. (2009). The [[Scientific Paradigm|Scientific Paradigm in Comparative Education]]. In R. Cowen & A. M. Kazamias (Eds.), *International Handbook of Comparative Education* (pp. 59–74). Springer.
-- Popper, K. R. (1959). *The logic of scientific discovery*. Hutchinson.
-- Popper, K. R. (1963). *Conjectures and refutations: The [[Growth]] of scientific knowledge*. Routledge & Kegan Paul.
-- Zemplén, G. Á. (2007). Conflicting agendas: [[Critical Thinking]] versus science education in the [[International Baccalaureate]] [[Theory of Knowledge]] course. *Science & Education*, 16(2), 167–196.

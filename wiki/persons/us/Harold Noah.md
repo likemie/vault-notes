@@ -271,31 +271,18 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Comparative History of Comparative Education]] | 概念 | 1969 年经典著作为战后比较教育确立合法化起源叙事，成为考恩反思学科历史功能主义的核心案例。 |
-> | [[Variable]] | 概念 | 提出“用变量名称替代系统名称”的通则化方法论纲领，确立跨国[[Independent Variable\|自变量]]与[[Dependent Variable\|因变量]]测算[[Paradigm\|范式]]。 |
-> | [[Hypothesis]] | 概念 | 倡导假说检验逻辑，将跨国控制变量与统计检验确立为比较教育科学研究的核心规程。 |
-> | [[Multiple Regression]] | 概念 | 倡导运用多元统计与回归分析检验宏观社会变量与教育成就之间的函数关系。 |
-> | [[Social Science as Legitimation Alibi]] | 概念 | 作为第三代际实证[[Scientism\|科学主义]]代表，其量化模型被卡扎米亚斯揭露为充当冷战技术援助与五年计划的合法化借口。 |
-> | [[Value Neutrality]] | 概念 | 主张借助战后量化数据与新统计技术消除学科中的主观偏见、倾向性与任意武断，维护科学探究的客观中立。 |
-> | [[Scientific Paradigm]] | 概念 | 作为哥大学派领袖，与芝加哥学派、伦敦学派共同构筑战后第三代际实证科学主义运动的核心支柱。 |
-> | [[IEA]] | 事实 | 深度介入国际教育成就评价协会的大规模跨国测评数据挖掘与实证政策建模。 |
-> | [[Historical-Philosophical-Cultural Motif]] | 概念 | 将其判定为前科学的动力与因素阶段，构成战后科学化范式论战的核心靶标。 |
-> | [[Historical-Comparative Method]] | 方法 | 批判其缺乏变量控制与预测力，促发卡扎米亚斯对广义科学与工作假设的辩护。 |
-> | [[Comparative and International Education Society]] | 事实 | 1976–1977 年出任学会会长，推动学会研究与教育实证政策咨询紧密结合。 |
-> | [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] | 论证 | 考恩评析诺亚与埃克斯坦起源史叙事的学科合法化功能及其局限。 |
-> | [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] | 论证 | 梳理诺亚对古典历史学派的[[Positivism\|实证主义]]围剿，并重申[[Geisteswissenschaften\|人文科学]]传统的合法性。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 阐述第三代际哥大学派“以变量替代系统”纲领、家庭收入回归假设范例及合法化借口批判。 |
-> | [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] | 论证 | 阐述诺亚与埃克斯坦的变量函数共变模型、审慎法则观与清洗主观偏见的方法论追求。 |
-
----
-
-## 参考文献
-
-- Barber, B. (1972). *Science and the social order*. Collier Books.
-- Cowen, R. (2009a). The history, the creation and the forms of comparative education. In R. Cowen & A. M. Kazamias (Eds.), *International Handbook of Comparative Education* (pp. 7–22). Springer.
-- Kazamias, A. M. (2009a). Comparative education: Historical reflections. In R. Cowen & A. M. Kazamias (Eds.), *International Handbook of Comparative Education* (pp. 139–157). Springer.
-- Kazamias, A. M. (2009b). Forgotten men, forgotten themes: The [[Historical-Philosophical-Cultural Motif|Historical-Philosophical-Cultural and Liberal Humanist Motif]] in comparative education. In R. Cowen & A. M. Kazamias (Eds.), *International Handbook of Comparative Education* (pp. 37–58). Springer.
-- Mattheou, D. (2009). The [[Scientific Paradigm|Scientific Paradigm in Comparative Education]]. In R. Cowen & A. M. Kazamias (Eds.), *International Handbook of Comparative Education* (pp. 59–74). Springer.
-- Noah, H. J. (1973). Fast-forward: Replacing the names of systems with the names of [[Variable|variables]]. In H. J. Noah & [[Max Eckstein|M. A. Eckstein]] (Eds.), *Scientific investigations in comparative education* (pp. 147–152). Macmillan.
-- Noah, H. J., & Eckstein, M. A. (1969). *Toward a science of comparative education*. Macmillan.
-- Noah, H. J., & Eckstein, M. A. (1998). *Doing comparative education: Three decades of collaboration*. CETE.
+> | [[Comparative History of Comparative Education\|比较教育学的比较史]] | 概念 | 1969 年经典著作为战后比较教育确立合法化起源叙事，成为考恩反思学科历史功能主义的核心案例。 |
+> | [[Variable\|变量]] | 概念 | 提出“用变量名称替代系统名称”的通则化方法论纲领，确立跨国[[Independent Variable\\|自变量]]与[[Dependent Variable\\|因变量]]测算[[Paradigm\\|范式]]。 |
+> | [[Hypothesis\|假设]] | 概念 | 倡导假说检验逻辑，将跨国控制变量与统计检验确立为比较教育科学研究的核心规程。 |
+> | [[Multiple Regression\|多元回归]] | 概念 | 倡导运用多元统计与回归分析检验宏观社会变量与教育成就之间的函数关系。 |
+> | [[Social Science as Legitimation Alibi\|实证社会科学作为合法化借口]] | 概念 | 作为第三代际实证[[Scientism\\|科学主义]]代表，其量化模型被卡扎米亚斯揭露为充当冷战技术援助与五年计划的合法化借口。 |
+> | [[Value Neutrality\|价值中立]] | 概念 | 主张借助战后量化数据与新统计技术消除学科中的主观偏见、倾向性与任意武断，维护科学探究的客观中立。 |
+> | [[Scientific Paradigm\|比较教育学科学范式]] | 概念 | 作为哥大学派领袖，与芝加哥学派、伦敦学派共同构筑战后第三代际实证科学主义运动的核心支柱。 |
+> | [[IEA\|国际教育成就评价协会]] | 事实 | 深度介入国际教育成就评价协会的大规模跨国测评数据挖掘与实证政策建模。 |
+> | [[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]] | 概念 | 将其判定为前科学的动力与因素阶段，构成战后科学化范式论战的核心靶标。 |
+> | [[Historical-Comparative Method\|历史比较法]] | 方法 | 批判其缺乏变量控制与预测力，促发卡扎米亚斯对广义科学与工作假设的辩护。 |
+> | [[Comparative and International Education Society\|比较与国际教育学会]] | 事实 | 1976–1977 年出任学会会长，推动学会研究与教育实证政策咨询紧密结合。 |
+> | [[Argument_Cowen_2009_HistoryCreation\\|Cowen (2009a)]] | 论证 | 考恩评析诺亚与埃克斯坦起源史叙事的学科合法化功能及其局限。 |
+> | [[Argument_Kazamias_2009_ForgottenThemes\\|Kazamias (2009b)]] | 论证 | 梳理诺亚对古典历史学派的[[Positivism\\|实证主义]]围剿，并重申[[Geisteswissenschaften\\|人文科学]]传统的合法性。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 阐述第三代际哥大学派“以变量替代系统”纲领、家庭收入回归假设范例及合法化借口批判。 |
+> | [[Argument_Mattheou_2009_ScientificParadigm\\|Mattheou (2009)]] | 论证 | 阐述诺亚与埃克斯坦的变量函数共变模型、审慎法则观与清洗主观偏见的方法论追求。 |

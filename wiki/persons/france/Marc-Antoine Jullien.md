@@ -10,7 +10,7 @@ summary: "法国启蒙自由主义教育家与国际主义者，1817年发表比
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 45
+person_related_count: 48
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Proto-Scientific Motif]]"
   - "[[Influences Across Cultures]]"
   - "[[Postpositivism]]"
+  - "[[Construct]]"
   - "[[Document]]"
   - "[[Artefact]]"
   - "[[State Educational Sovereignty]]"
@@ -72,14 +73,16 @@ related_facts:
   - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"
   - "[[UNESCO]]"
   - "[[Revue encyclopédique]]"
+  - "[[Education in Europe]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Rust_2009_Reflections]]"
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
 confidence: high
-status: draft
+status: completed
 created: 2026-09-06
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Marc-Antoine Jullien
@@ -185,6 +188,7 @@ updated: 2026-09-29
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 深入解构朱利安的准[[Proto-Scientific Motif|科学人道主义母题]]，澄清其欧陆二级精神科学属性，有力反驳 20 世纪行为实证派指责其问卷带有主观偏见的时代倒错。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 将朱利安 1816–1817 年方案置于两百年比较学术史连续统中，驳斥实证主义者将其孤立化为“史前孤立天才”的断裂叙事，确立其作为跨文化制度考证传统的思想源流。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯反思比较教育学的现代主义与启蒙源流，系统阐述朱利安通过比较解剖学类比与分析事实图表消除统治者主观专断、开创准实证科学与道德改良双重使命的奠基性坐标。
 
 ---
 
@@ -192,6 +196,11 @@ updated: 2026-09-29
 
 > [!citation-card] Rust, Johnstone, & Allaf 论朱利安方案在学术史连续统中的基石地位
 > 朱利安在 1816–1817 年提出的比较教育方案，不仅开创了[[Questionnaire|问卷调查]]与事实分类分析图表，更奠定了考证[[Influences Across Cultures|跨文化影响]]的深厚学术根基。战[[Postpositivism|后实证主义]]者将其简单包装为实证科学的唯一萌芽、进而将十九世纪后继考察贬为业余故事，割裂了学科贯通古今的历史连续性。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–124)]]
+
+> [!citation-card] 卡扎米亚斯论朱利安的解剖学类比与消除专断的理性启蒙
+> 卡扎米亚斯在《比较教育：历史反思》中指出，朱利安 1817 年的《计划》明确借鉴了居维叶（Georges Cuvier）的比较解剖学，试图通过汇编排列在分析图表中的事实与观察，推导出确定的规则与原则，使教育几乎成为一门实证科学。朱利安提倡收集客观事实，其深层动力并非追求纯粹的技术工具，而是希望用可靠的事实知识代替执政者个人的盲目、任性与主观专断，从而通过学校的改良促进社会的整体道德进步。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 140)]]
+>
+> *Jullien drew an explicit analogy with comparative anatomy to [[Construct]] education as 'nearly a positive science'... His advocacy of collecting facts in analytical charts was designed to substitute reliable, objective knowledge for the caprice and arbitrary rule of public officials, thereby fostering moral and social improvement.*
 
 > [!citation-card] 帕尔默与卡洛扬纳基论“文明使徒”与“和平使徒”
 > 朱利安不仅配得上帕尔默对其“文明使徒”的定性，同样完全当得起“和平使徒”的称号。面对宗教道德纽带解体与动荡战争创伤，朱利安致力于通过国内与[[International Education\|国际教育]]的革新，实现全人类文明进步与和平共处。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 23)]]；引自 Palmer (1993)
@@ -262,14 +271,15 @@ updated: 2026-09-29
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Revue encyclopédique]] | 历史事件 | 朱利安创办并主编的百科期刊，践行科学统一与世界公民理念的[[International Education\|国际教育]]重要载体。 |
-> | [[Enlightenment]] | 概念 | 启蒙自由主义学者，将启蒙理性转化为比较教育准科学事实图表与世界和平蓝图。 |
-> | [[Proto-Scientific Motif]] | 概念 | 朱利安开创的奠基性母题，将经验图表归纳与崇高人道主义关怀高度熔铸。 |
-> | [[Educational Meliorism]] | 概念 | 赋予比较教育以改善人类社会秩序与个体道德的整全改良主义旨趣。 |
-> | [[Faculty Psychology]] | 概念 | 在 1817 年《计划》[[Questionnaire\|问卷]]中以拉罗米吉埃官能学说为准绳设计跨国智育调查题项。 |
-> | [[Policy Borrowing]] | 概念 | 开启基于跨国经验事实比较进行选择性制度借用与改良的现代话语传统。 |
-> | [[Comparative History of Comparative Education]] | 概念 | 作为学科起源神话与[[Positivism\|实证主义]][[Paradigm\|范式]]建构的关键历史分析对象。 |
-> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供朱利安思想史、方法论指标体系、政治信念演变与[[Epistemology\|认识论]]争鸣的系统文本证据。 |
-> | [[State Educational Sovereignty]] | 概念 | 19 世纪欧洲国家教育主权的兴起绕过了朱利安的学术蓝图，以行政视察员的国家借用推动比较教育实践演进。 |
-> | [[Wolfgang Mitter]] | 人物 | 在学科制度史中系统考证朱利安“双重目的”的开创性及其在 19 世纪欧洲大学中被遗忘的历史机制。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 考证朱利安作为欧洲比较教育学科起点的定位、双重任务界定及其与 19 世纪行政借用时期的历史断裂。 |
+> | [[Revue encyclopédique\|百科评论]] | 历史事件 | 朱利安创办并主编的百科期刊，践行科学统一与世界公民理念的[[International Education\\|国际教育]]重要载体。 |
+> | [[Enlightenment\|启蒙运动]] | 概念 | 启蒙自由主义学者，将启蒙理性转化为比较教育准科学事实图表与世界和平蓝图。 |
+> | [[Proto-Scientific Motif\|准科学母题]] | 概念 | 朱利安开创的奠基性母题，将经验图表归纳与崇高人道主义关怀高度熔铸。 |
+> | [[Educational Meliorism\|教育改良主义]] | 概念 | 赋予比较教育以改善人类社会秩序与个体道德的整全改良主义旨趣。 |
+> | [[Faculty Psychology\|官能心理学]] | 概念 | 在 1817 年《计划》[[Questionnaire\\|问卷]]中以拉罗米吉埃官能学说为准绳设计跨国智育调查题项。 |
+> | [[Policy Borrowing\|政策借用]] | 概念 | 开启基于跨国经验事实比较进行选择性制度借用与改良的现代话语传统。 |
+> | [[Comparative History of Comparative Education\|比较教育学的比较史]] | 概念 | 作为学科起源神话与[[Positivism\\|实证主义]][[Paradigm\\|范式]]建构的关键历史分析对象。 |
+> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供朱利安思想史、方法论指标体系、政治信念演变与[[Epistemology\\|认识论]]争鸣的系统文本证据。 |
+> | [[State Educational Sovereignty\|国家教育权]] | 概念 | 19 世纪欧洲国家教育主权的兴起绕过了朱利安的学术蓝图，以行政视察员的国家借用推动比较教育实践演进。 |
+> | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 在学科制度史中系统考证朱利安“双重目的”的开创性及其在 19 世纪欧洲大学中被遗忘的历史机制。 |
+> | [[Argument_Mitter_2009_Europe\\|Mitter (2009)]] | 论证 | 考证朱利安作为欧洲比较教育学科起点的定位、双重任务界定及其与 19 世纪行政借用时期的历史断裂。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 梳理第一代启蒙准科学与行政改良代际，剖析朱利安准科学设想消除专断与道德改良的双重面向。 |

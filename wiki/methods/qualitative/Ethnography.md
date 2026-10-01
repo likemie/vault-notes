@@ -242,15 +242,15 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 在方法体系中的功能与位置 |
 > |:-----|:-----|:------------------------|
-> | [[Critical Ethnography]] | 方法分支 | 融入意识形态批判，从解释“世界是什么”推进至改变不公正现状（Thomas, 1993）。 |
-> | [[Autoethnography]] | 方法分支 | 将研究者自身的生命体验与情感创伤作为主要经验材料进行文化解构。 |
-> | [[Participant Observation]] | 核心技术 | 民族志数据获取的基石，要求研究者在“参与者”与“观察者”间保持张力。 |
-> | [[Rich and Thick Description]] | 核心规范 | 民族志写作的最高准则，呈现兼具细节、背景与意义赋予的完整叙事。 |
-> | [[Reflexivity]] | [[Epistemology\|认识论]]准则 | 承认研究者是社会世界的一部分，必须系统剖析自身的社会位置与知识偏见。 |
-> | [[Emic and Etic]] | 分析概念 | 主位（参与者内部定义）与客位（外部研究者理论建构）的双重視野平衡。 |
-> | [[Comparative Case Study]] | 关联方法 | 将多地点民族志置于横向、纵向与横断三轴框架中进行比较（Bartlett & Vavrus, 2017）。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 梳理比较教育学术史中民族志从边缘走向 26 种核心理论/方法取向之一的演变。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；评述第四阶段课堂民族志的多元兴起与学科历史健忘症的伴生。 |
+> | [[Critical Ethnography\|批判民族志]] | 方法分支 | 融入意识形态批判，从解释“世界是什么”推进至改变不公正现状（Thomas, 1993）。 |
+> | [[Autoethnography\|自我民族志]] | 方法分支 | 将研究者自身的生命体验与情感创伤作为主要经验材料进行文化解构。 |
+> | [[Participant Observation\|参与观察]] | 核心技术 | 民族志数据获取的基石，要求研究者在“参与者”与“观察者”间保持张力。 |
+> | [[Rich and Thick Description\|厚描述]] | 核心规范 | 民族志写作的最高准则，呈现兼具细节、背景与意义赋予的完整叙事。 |
+> | [[Reflexivity\|反身性]] | [[Epistemology\\|认识论]]准则 | 承认研究者是社会世界的一部分，必须系统剖析自身的社会位置与知识偏见。 |
+> | [[Emic and Etic\|主位与客位]] | 分析概念 | 主位（参与者内部定义）与客位（外部研究者理论建构）的双重視野平衡。 |
+> | [[Comparative Case Study\|比较案例研究]] | 关联方法 | 将多地点民族志置于横向、纵向与横断三轴框架中进行比较（Bartlett & Vavrus, 2017）。 |
+> | [[Argument_Rust_2009_Reflections\\|Rust et al. (2009)]] | 论证 | 梳理比较教育学术史中民族志从边缘走向 26 种核心理论/方法取向之一的演变。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 学科史定性；评述第四阶段课堂民族志的多元兴起与学科历史健忘症的伴生。 |
 
 ---
 
@@ -262,13 +262,3 @@ updated: 2026-10-01
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 评述多项比较教育人类学民族志经典（Demerath, 1999; Anderson-Levitt, 2003, 2004; Stacki, 1999），论证民族志作为揭示全球化微观运行机制的核心工具，并剖析单点田野与宏观体系分析之间的尺度张力。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128, 130–131)]] — 考证比较教育学研究策略的演进，指出民族志等常规社会[[Scientific Method|科学方法]]的激增标志着学科摆脱[[Primary and Secondary Documents|二手文献]]综述；将民族志确立为打破战后单一功能主义霸权的 26 种重要[[Paradigm|范式]]传统之一。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 155–156)]] — 考证 20 世纪 80–90 年代课堂民族志（如 Robin Alexander 的教学研究）与人类学调查广泛进入比较教育学、终结功能主义垄断的历程，并警示其与学科“历史健忘症”并存的史学悖论。
-
----
-
-## 参考文献
-
-- Arnove, R. F. (2009). World-systems analysis and comparative education in the age of globalization. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 101–119). Springer.
-- [[Louis Cohen|Cohen, L.]], [[Lawrence Manion|Manion, L.]], & Morrison, K. (2011). *Research methods in education* (7th ed.). Routledge.
-- [[John W. Creswell|Creswell, J. W.]], & Creswell, J. D. (2022). *Research design: Qualitative, quantitative, and mixed methods approaches* (6th ed.). [[Sage]].
-- Kazamias, A. M. (2009a). Forgotten paths, heroes, and trailblazers: Historical reflections on comparative education. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 147–167). Springer.
-- [[Val D. Rust|Rust, V. D.]], Johnstone, C. J., & Allaf, C. (2009). Reflections on the [[Champ|field]]: [[Research Strategies in Comparative Education]]. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 121–138). Springer.

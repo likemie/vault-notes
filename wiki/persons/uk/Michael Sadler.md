@@ -8,7 +8,7 @@ summary: "英国比较教育先驱与历史主义学派代表人物，主持教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 54
+person_related_count: 55
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[National Character]]"
   - "[[Policy Borrowing]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
+  - "[[Scholiocentric Approach]]"
   - "[[Unit of Analysis]]"
   - "[[Creativity]]"
   - "[[Conatus]]"
@@ -146,7 +147,7 @@ updated: 2026-10-01
 > [!claim] 核心主张
 > **地缘工具动机与情境防护张力** 萨德勒的思想体现了地缘竞争驱动[[Policy Borrowing\|政策借用]]与情境防护阻止机械移植之间的深刻张力。他坚信教育是国家生存和工业竞争的利器，因而必须向他者学习；但他同时警告，教育系统绝非一堆可随意拆装的机械零件，而是民族生活各要素相互交织的活体有机体。脱离深层社会、历史、文化及精神脉络的教育移植，必然会遭遇本土系统的免疫排异并走向失败。唯有洞悉校外沉淀的[[Intangible Spiritual Forces\|无形精神力量]]，才能把握教育制度的真正效能。([[Argument_Amos_2022_Springer\|Sadler, 1900, 引自 Amos, 2022, pp. 53–54]])
 > 
-> 在[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）关于学科四重论述代际的考察中，萨德勒 1900 年的牛津演讲标志着学科从 19 世纪“以校为中心”（scholiocentric）的行政描述性借用，根本转向以民族国家系统为整体[[Unit of Analysis\|分析单位]]的文化情境研究，奠定了第二代“历史-哲学与自由人文”代际的基石。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 141–143)]]
+> 在[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）关于学科四重论述代际的考察中，萨德勒 1900 年的牛津演讲标志着学科从 19 世纪“[[Scholiocentric Approach|以校为中心]]”（scholiocentric）的行政描述性借用，根本转向以民族国家系统为整体[[Unit of Analysis\|分析单位]]的文化情境研究，奠定了第二代“历史-哲学与自由人文”代际的基石。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 141–143)]]
 
 萨德勒的教育哲学建立在深厚的人文底色与唯心主义哲学基础之上，展现出多重理论渊源的深度交织。
 
@@ -232,7 +233,7 @@ updated: 2026-10-01
 >
 > *Modern university comparative education first took root in the United Kingdom. Michael Sadler stimulated the British Government to set up the Office of Special Inquiries and Reports, initiating systematic comparative studies with Germany as the core system of reference... The IOE in London continued Sadler's legacy.*
 
-> [!citation-card] Kazamias论萨德勒终结以校为中心借用并开创第二论述代际
+> [!citation-card] Kazamias论萨德勒终结[[Scholiocentric Approach|以校为中心]]借用并开创第二论述代际
 > 卡扎米亚斯在《历史反思》中指出，萨德勒 1900 年的演讲标志着比较教育学由第一代“启蒙准科学与行政改良代际”向第二代“历史-哲学与自由人文代际”的决定性转向。萨德勒彻底终结了 19 世纪欧美视察官“以校为中心”（scholiocentric）的肤浅描述与孤立[[Policy Borrowing|政策借用]]，首次明确将民族国家整体教育系统界定为[[Unit of Analysis|分析单位]]，开创了探寻校外深层无形精神力量的文化阐释传统；这一传统成为后世抵御技术主义和去情境化实证狂热不可或缺的人文解毒剂。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 141–143)]]
 >
 > *Sadler's 1900 address signaled a shift from the earlier scholiocentric, descriptive and utilitarian borrowing approach of 19th-century school inspectors to the holistic study of national systems of education embedded in their socio-cultural matrices and animated by intangible spiritual forces.*
@@ -283,15 +284,15 @@ updated: 2026-10-01
 > 
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Historical-Philosophical-Cultural Motif]] | 概念 | 开创以[[Intangible Spiritual Forces\|校外无形精神力量]]与活体有机体为核心的历史-文化研究母题。 |
-> | [[National Character]] | 概念 | 将国民性格作为解释国家教育制度独特性与内在效能的深层依据。 |
-> | [[Historical-Comparative Method]] | 方法 | 确立历史演化与深层文化考据优于纯统计数字调查的方法论传统。 |
-> | [[Policy Borrowing]] | 概念 | 首次系统提出情境不可移植假说，奠定了反机械化借用的规范方法论边界。 |
-> | [[Cross-National Attraction]] | 概念 | 指出国家工业实力竞争构成了向他者学习和跨国政策吸引的核心地缘心理机制。 |
-> | [[Unit of Analysis]] | 概念 | 首次系统将民族国家整体教育系统（而非孤立的个别学校）确立为跨国比较的核心分析单位。 |
-> | [[Protean Episteme]] | 概念 | 作为第二论述代际核心奠基人，其历史哲学思想折射了比较教育认识体系在 20 世纪初的形态流变。 |
-> | [[Wight's Three Traditions of International Theory]] | 理论 | 作为[[Realism in International Relations\|现实主义]]思想在比较教育实践中的最典型代拟节点，论证了学术如何服务于地缘政治自保。 |
-> | [[OECD]] | 政策 | 萨德勒建立的国家竞争力调查模型，在数十年后被重塑为以基准测试为主导的多边[[Governing at a Distance\|远处治理]]技术。 |
-> | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 阐述萨德勒在英国率先开创大学比较教育教席、推动特别调查与报告办公室建制化的学术史地位。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 88, 89–90)]] |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 梳理欧洲比较教育学科演进中萨德勒创设 [[Office of Special Inquiries and Reports\|OSIR]]、以德国为核心参照系推动比较教育大学建制化的历史贡献。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 系统阐发萨德勒 1900 年牛津演讲如何终结第一代以校为中心的行政借用，奠定以民族系统为分析单位的第二代自由人文代际。 |
+> | [[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]] | 概念 | 开创以[[Intangible Spiritual Forces\\|校外无形精神力量]]与活体有机体为核心的历史-文化研究母题。 |
+> | [[National Character\|国民性]] | 概念 | 将国民性格作为解释国家教育制度独特性与内在效能的深层依据。 |
+> | [[Historical-Comparative Method\|历史比较法]] | 方法 | 确立历史演化与深层文化考据优于纯统计数字调查的方法论传统。 |
+> | [[Policy Borrowing\|政策借用]] | 概念 | 首次系统提出情境不可移植假说，奠定了反机械化借用的规范方法论边界。 |
+> | [[Cross-National Attraction\|跨国吸引]] | 概念 | 指出国家工业实力竞争构成了向他者学习和跨国政策吸引的核心地缘心理机制。 |
+> | [[Unit of Analysis\|分析单位]] | 概念 | 首次系统将民族国家整体教育系统（而非孤立的个别学校）确立为跨国比较的核心分析单位。 |
+> | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 作为第二论述代际核心奠基人，其历史哲学思想折射了比较教育认识体系在 20 世纪初的形态流变。 |
+> | [[Wight's Three Traditions of International Theory\|怀特国际理论三大传统]] | 理论 | 作为[[Realism in International Relations\\|现实主义]]思想在比较教育实践中的最典型代拟节点，论证了学术如何服务于地缘政治自保。 |
+> | [[OECD\|经济合作与发展组织]] | 政策 | 萨德勒建立的国家竞争力调查模型，在数十年后被重塑为以基准测试为主导的多边[[Governing at a Distance\\|远处治理]]技术。 |
+> | [[Wolfgang Mitter\\|沃尔夫冈·米特]] | 人物 | 阐述萨德勒在英国率先开创大学比较教育教席、推动特别调查与报告办公室建制化的学术史地位。[[Argument_Mitter_2009_Europe\\|(Mitter, 2009, pp. 88, 89–90)]] |
+> | [[Argument_Mitter_2009_Europe\\|Mitter (2009)]] | 论证 | 梳理欧洲比较教育学科演进中萨德勒创设 [[Office of Special Inquiries and Reports\\|OSIR]]、以德国为核心参照系推动比较教育大学建制化的历史贡献。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 系统阐发萨德勒 1900 年牛津演讲如何终结第一代[[Scholiocentric Approach\\|以校为中心]]的行政借用，奠定以民族系统为分析单位的第二代自由人文代际。 |

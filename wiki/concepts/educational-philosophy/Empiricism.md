@@ -245,11 +245,10 @@ updated: 2026-10-01
 
 ---
 
-## 实证数据
+## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 4, 15–16, 27)]] — 系统梳理经验认知途径、科学第二基本假定、Mouly 经验五步法、Barratt 经验[[Evidence Standards|证据标准]]及后实证理论渗透性。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 在跨章节论述中探讨实证测量、[[Questionnaire|问卷调查]]、实验数据收集与经验效度标准的[[Operationalization|操作化]]规范。
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 4, 15–16, 27)]] — 系统梳理经验认知途径、科学四大基本假定之经验假定、Mouly 经验科学五步法与 Barratt 经验[[Evidence Standards|证据标准]]，并在跨章节论述中探讨实证测量、[[Questionnaire|问卷调查]]与经验效度标准的[[Operationalization|操作化]]规范。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统批判战后实证派诺亚与埃克斯坦、萨查洛普洛斯等人构建的“方法论经验主义”与“唯方法论主义”，捍卫比较教育作为德语[[Geisteswissenschaften|精神科学]]的人文阐释传统。
 
 ---
@@ -261,16 +260,16 @@ updated: 2026-10-01
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----|
 > | [[Scientific Method\|科学方法]] | 概念 | 经验主义构成了科学方法最核心的[[Epistemology\|认识论]]动力，要求[[Hypothesis\|假设]]必须经受经验裁决。 |
-> | [[Protean Episteme]] | 概念 | 方法论经验主义构成战后实证[[Scientism\|科学主义]]普罗透斯式认识型的核心形态。 |
-> | [[Geisteswissenschaften]] | 概念 | 德语精神科学传统，提供抵御去情境化经验主义与唯方法论主义的[[Humanistic Episteme\|人文认识论]]防线。 |
-> | [[Social Science as Legitimation Alibi]] | 概念 | 揭示经验主义量化预测如何蜕变为官僚决策推卸责任与粉饰政绩的科学借口。 |
+> | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 方法论经验主义构成战后实证[[Scientism\|科学主义]]普罗透斯式认识型的核心形态。 |
+> | [[Geisteswissenschaften\|精神科学]] | 概念 | 德语精神科学传统，提供抵御去情境化经验主义与唯方法论主义的[[Humanistic Episteme\|人文认识论]]防线。 |
+> | [[Social Science as Legitimation Alibi\|社会科学作为合法化借口]] | 概念 | 揭示经验主义量化预测如何蜕变为官僚决策推卸责任与粉饰政绩的科学借口。 |
 > | [[Determinism\|决定论]] | 概念 | 科学四大信仰假设之一，与经验主义共同支撑因果规律的发现。 |
 > | [[Principle of Parsimony\|简约原则]] | 概念 | 科学四大信仰假设之一，在经验证据的约束范围内指导理论的精简化选择。 |
 > | [[Postpositivism\|后实证主义]] | 概念 | 对传统绝对经验主义的批判性修正，主张可错论与多元实证理据支持。 |
-> | [[Human Capital Theory]] | 理论 | 战后人力资本理论与方法论经验主义结合，推行一元化计量与教育发展规划。 |
+> | [[Human Capital Theory\|人力资本理论]] | 理论 | 战后人力资本理论与方法论经验主义结合，推行一元化计量与教育发展规划。 |
 > | [[Francis Bacon\|弗朗西斯·培根]] | 人物 | 近代科学经验主义之父，开创经验归纳与实验哲学的先河。 |
 > | [[Karl Popper\|卡尔·波普尔]] | 人物 | 现代科学哲学巨擘，批判素朴经验归纳，确立观察渗透理论与假说演绎可错论。 |
-> | [[Andreas Kazamias]] | 人物 | 学术史家，提出方法论经验主义概念并系统批判学科实证科学主义转向。 |
-> | [[Harold Noah]] | 人物 | 战后比较教育科学主义领袖，倡导假设检验与控制调查的科学比较[[Paradigm\|范式]]。 |
-> | [[Max Eckstein]] | 人物 | 与诺亚合著经典教材，主张将比较教育转型为量化实证社会科学。 |
+> | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 学术史家，提出方法论经验主义概念并系统批判学科实证科学主义转向。 |
+> | [[Harold Noah\|哈罗德·诺亚]] | 人物 | 战后比较教育科学主义领袖，倡导假设检验与控制调查的科学比较[[Paradigm\|范式]]。 |
+> | [[Max Eckstein\|马克斯·埃克斯坦]] | 人物 | 与诺亚合著经典教材，主张将比较教育转型为量化实证社会科学。 |
 > | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 考察比较教育从经验行政改良、方法论经验主义到批判反思的历史认识型演进。 |

@@ -223,25 +223,16 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Dialectic of the Global and the Local]] | 理论 | 核心创立者；阐明全球规约与地方能动的双向辩证博弈，奠定当代批判比较教育学核心[[Paradigm\|范式]]。 |
-> | [[World-Systems Theory]] | 理论 | 奠基引入者；1980 年率先将世界体系分析引入比较教育学，解构跨国援助与全球教育分层。 |
-> | [[Shadow State]] | 概念 | 合作提出者；揭示民间非政府组织在公共教育外包体制下沦为去政治化影子国家的制度困境。 |
-> | [[Globalization from Below]] | 概念 | 理论倡导者；剖析草根社会运动与教师工会依托跨国网络抗争新自由主义教育改革的替代路径。 |
-> | [[Pluri-Scalar Governance]] | 概念 | 理论整合者；运用多标度空间分析解构[[World Trade Organization\|世贸组织]] [[GATS and Trade in Education Services\|GATS]] 规约与跨国经贸协定对教育主权的重塑。 |
-> | [[Popular Education]] | 概念 | 实证研究者；深入尼加拉瓜实地调研桑地诺革命扫盲与民众教育，丰富被压迫者教育学实践。 |
-> | [[Permeable State]] | 概念 | 理论阐发者；分析全球化新自由主义[[Disciplina and Doctrina\|规训]]如何穿透民族国家边界并激化本土阶级斗争。 |
-> | [[World Society Theory]] | 理论 | 批判对话者；对新制度主义世界文化理论的共识与形式同构神话进行持续政治经济学批判。 |
-> | [[Historical-Comparative Method]] | 方法 | 方法倡导者；坚持将比较教育研究建立在长时段历史脉络与宏微观贯通的案例[[Rich and Thick Description\|深描]]之上。 |
-> | [[Carlos Alberto Torres]] | 人物 | 长期学术同盟；共同主编《比较教育：全球与本土的辩证法》权威教材。 |
-> | [[John W. Meyer]] | 人物 | 博士导师与世纪学术论敌；分别代表比较教育学中世界体系分析的共识论与冲突论两大极。 |
-> | [[Immanuel Wallerstein]] | 人物 | 思想渊源导师；将其现代世界体系分析批判性转化为比较教育学的基准透镜。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将阿诺夫置于第四阶段世界体系跨国分析核心，评述跨国依附链条与学科历史健忘症。 |
-
----
-
-## 参考文献
-
-- Arnove, R. F. (1980). Comparative education and world-systems analysis. *Comparative Education Review*, 24(1), 48–62.
-- Arnove, R. F. (2009). World-systems analysis and comparative education in the age of globalization. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 101–119). Springer.
-- Kazamias, A. M. (2009a). Forgotten paths, heroes, and trailblazers: Historical reflections on comparative education. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 147–167). Springer.
-- [[Liliana Esther Olmos|Olmos, L. E.]], & Torres, C. A. (2009). Theories of the state, educational expansion, and development in Latin America. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 73–97). Springer.
+> | [[Dialectic of the Global and the Local\|全球与本土的辩证法]] | 理论 | 核心创立者；阐明全球规约与地方能动的双向辩证博弈，奠定当代批判比较教育学核心[[Paradigm\\|范式]]。 |
+> | [[World-Systems Theory\|世界体系理论]] | 理论 | 奠基引入者；1980 年率先将世界体系分析引入比较教育学，解构跨国援助与全球教育分层。 |
+> | [[Shadow State\|影子国家]] | 概念 | 合作提出者；揭示民间非政府组织在公共教育外包体制下沦为去政治化影子国家的制度困境。 |
+> | [[Globalization from Below\|自下而上的全球化]] | 概念 | 理论倡导者；剖析草根社会运动与教师工会依托跨国网络抗争新自由主义教育改革的替代路径。 |
+> | [[Pluri-Scalar Governance\|多标度治理]] | 概念 | 理论整合者；运用多标度空间分析解构[[World Trade Organization\\|世贸组织]] [[GATS and Trade in Education Services\\|GATS]] 规约与跨国经贸协定对教育主权的重塑。 |
+> | [[Popular Education\|民众教育]] | 概念 | 实证研究者；深入尼加拉瓜实地调研桑地诺革命扫盲与民众教育，丰富被压迫者教育学实践。 |
+> | [[Permeable State\|多孔国家]] | 概念 | 理论阐发者；分析全球化新自由主义[[Disciplina and Doctrina\\|规训]]如何穿透民族国家边界并激化本土阶级斗争。 |
+> | [[World Society Theory\|世界社会理论]] | 理论 | 批判对话者；对新制度主义世界文化理论的共识与形式同构神话进行持续政治经济学批判。 |
+> | [[Historical-Comparative Method\|历史比较法]] | 方法 | 方法倡导者；坚持将比较教育研究建立在长时段历史脉络与宏微观贯通的案例[[Rich and Thick Description\\|深描]]之上。 |
+> | [[Carlos Alberto Torres\|卡洛斯·阿尔贝托·托雷斯]] | 人物 | 长期学术同盟；共同主编《比较教育：全球与本土的辩证法》权威教材。 |
+> | [[John W. Meyer\|约翰·迈耶]] | 人物 | 博士导师与世纪学术论敌；分别代表比较教育学中世界体系分析的共识论与冲突论两大极。 |
+> | [[Immanuel Wallerstein\|伊曼努尔·沃勒斯坦]] | 人物 | 思想渊源导师；将其现代世界体系分析批判性转化为比较教育学的基准透镜。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 学科史定性；将阿诺夫置于第四阶段世界体系跨国分析核心，评述跨国依附链条与学科历史健忘症。 |

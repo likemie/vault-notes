@@ -310,14 +310,14 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Hypothesis]] | 概念 | 假设是对变量之间关系的预测性陈述，变量是构成假设的基本要素。 |
-> | [[Causality]] | 概念 | 因果推断依赖于对[[Independent Variable\|自变量]]、[[Dependent Variable\|因变量]]与混淆变量的严密识别与控制。 |
-> | [[Unit of Analysis]] | 概念 | 变量依附于特定的分析单位（个体、学校、国家），分析单位决定变量的层级属性。 |
-> | [[Operationalization]] | 概念 | 将抽象[[Construct\|理论构念]]转化为可观测、可测量的具体变量的操作规程。 |
-> | [[Positivism]] | 概念 | 实证主义[[Paradigm\|范式]]将可观察、可测量的变量作为科学[[Knowledge Building Theory\|知识建构]]的核心实体。 |
-> | [[Harold Noah]] | 人物 | 开创比较教育第三论述代际，确立以变量名称替代体系名称的核心方法论原则。 |
-> | [[Andreas Kazamias]] | 人物 | 深刻评述实证派以变量替代体系的方法论转向，并反思其方法论主义盲区。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 考据第三代际[[Empiricism\|经验主义]]学者以变量替代国别名称的科学化方案及其方法学争议。 |
+> | [[Hypothesis\|假设]] | 概念 | 假设是对变量之间关系的预测性陈述，变量是构成假设的基本要素。 |
+> | [[Causality\|因果性]] | 概念 | 因果推断依赖于对[[Independent Variable\\|自变量]]、[[Dependent Variable\\|因变量]]与混淆变量的严密识别与控制。 |
+> | [[Unit of Analysis\|分析单位]] | 概念 | 变量依附于特定的分析单位（个体、学校、国家），分析单位决定变量的层级属性。 |
+> | [[Operationalization\|操作化]] | 概念 | 将抽象[[Construct\\|理论构念]]转化为可观测、可测量的具体变量的操作规程。 |
+> | [[Positivism\|实证主义]] | 概念 | 实证主义[[Paradigm\\|范式]]将可观察、可测量的变量作为科学[[Knowledge Building Theory\\|知识建构]]的核心实体。 |
+> | [[Harold Noah\|哈罗德·诺亚]] | 人物 | 开创比较教育第三论述代际，确立以变量名称替代体系名称的核心方法论原则。 |
+> | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 深刻评述实证派以变量替代体系的方法论转向，并反思其方法论主义盲区。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 考据第三代际[[Empiricism\\|经验主义]]学者以变量替代国别名称的科学化方案及其方法学争议。 |
 
 ---
 

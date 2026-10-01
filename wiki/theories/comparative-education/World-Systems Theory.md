@@ -187,36 +187,24 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 理论关联与学术功能 |
 > |:-----|:-----|:-------------------|
-> | [[Dependency Theory]] | 理论 | 核心理论渊源；世界体系分析吸收并推进了拉美依附论，构筑了长时段中心-边缘框架。 |
-> | [[World Society Theory]] | 理论 | 核心学术论敌；斯坦福新制度主义世界文化流派，主张共识同构，与体系冲突论形成鲜明对照。 |
-> | [[Dialectic of the Global and the Local]] | 理论 | 理论综合推进；[[Robert Arnove\|阿诺夫]]为克服体系[[Determinism\|决定论]]，贯通宏观世界体系与微观学校田野的基准[[Paradigm\|范式]]。 |
-> | [[Methodological Nationalism]] | 概念 | 批判靶标；[[Immanuel Wallerstein\|沃勒斯坦]]破除将单个国家作为自足单位的[[Epistemology\|认识论]]盲区。 |
-> | [[Methodological Globalism]] | 概念 | 批评反思；马金森指责世界体系理论将国家尺度完全化约为全球尺度决定的镜像错误。 |
-> | [[Geopolitics of Knowledge]] | 概念 | 应用领域；分析全球学术依附、中心学术出版垄断与本土知识被边缘化的重要参照框架。 |
-> | [[Unit of Analysis]] | 概念 | 方法论核心；确立资本主义世界经济体为基本分析单元，颠覆传统主权国家分析模式。 |
-> | [[Immanuel Wallerstein]] | 人物 | 理论开创宗师；系统构筑现代世界体系理论与长时段历史动力学分析。 |
-> | [[Robert Arnove]] | 人物 | 比较教育奠基引介者；率先将世界体系分析引入本学科，揭示跨国教育依附传递链条。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将世界体系理论确立为第四阶段话语的批判基石，并反思长时段史学悖论。 |
-> | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]] | 论证 | 权威专论；系统总结世界体系分析在比较教育学中的演进、跨国援助解构与本土辩证抗争。 |
-> | [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]] | 论证 | 当代批评；以多极化全球科学事实[[Falsification\|证伪]]零和剩余[[Hypothesis\|假设]]，倡导国家尺度的相对自主性。 |
+> | [[Dependency Theory\|依附理论]] | 理论 | 核心理论渊源；世界体系分析吸收并推进了拉美依附论，构筑了长时段中心-边缘框架。 |
+> | [[World Society Theory\|世界社会理论]] | 理论 | 核心学术论敌；斯坦福新制度主义世界文化流派，主张共识同构，与体系冲突论形成鲜明对照。 |
+> | [[Dialectic of the Global and the Local\|全球与本土的辩证法]] | 理论 | 理论综合推进；[[Robert Arnove\\|阿诺夫]]为克服体系[[Determinism\\|决定论]]，贯通宏观世界体系与微观学校田野的基准[[Paradigm\\|范式]]。 |
+> | [[Methodological Nationalism\|方法论民族主义]] | 概念 | 批判靶标；[[Immanuel Wallerstein\\|沃勒斯坦]]破除将单个国家作为自足单位的[[Epistemology\\|认识论]]盲区。 |
+> | [[Methodological Globalism\|方法论全球主义]] | 概念 | 批评反思；马金森指责世界体系理论将国家尺度完全化约为全球尺度决定的镜像错误。 |
+> | [[Geopolitics of Knowledge\|知识地缘政治]] | 概念 | 应用领域；分析全球学术依附、中心学术出版垄断与本土知识被边缘化的重要参照框架。 |
+> | [[Unit of Analysis\|分析单位]] | 概念 | 方法论核心；确立资本主义世界经济体为基本分析单元，颠覆传统主权国家分析模式。 |
+> | [[Immanuel Wallerstein\|伊曼努尔·沃勒斯坦]] | 人物 | 理论开创宗师；系统构筑现代世界体系理论与长时段历史动力学分析。 |
+> | [[Robert Arnove\|罗伯特·阿诺夫]] | 人物 | 比较教育奠基引介者；率先将世界体系分析引入本学科，揭示跨国教育依附传递链条。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 学科史定性；将世界体系理论确立为第四阶段话语的批判基石，并反思长时段史学悖论。 |
+> | [[Argument_Arnove_2009_WorldSystems\\|Arnove (2009)]] | 论证 | 权威专论；系统总结世界体系分析在比较教育学中的演进、跨国援助解构与本土辩证抗争。 |
+> | [[Argument_Marginson_2025_ECNUROE\\|Marginson (2025)]] | 论证 | 当代批评；以多极化全球科学事实[[Falsification\\|证伪]]零和剩余[[Hypothesis\\|假设]]，倡导国家尺度的相对自主性。 |
 
 ---
 
-## 相关研究索引
+## 相关研究
 
 > [!evidence-grid-a] 相关论证索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 比较教育学权威代表作，全面梳理世界体系理论从 1980 年引入至今的演变，辩证结合宏观体系分析与微观人类学课堂田野。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 152–156)]] — 系统考证比较教育学第四阶段话语中世界体系理论的激进突破、跨国教育依附链条，以及宏观结构狂潮对历史研究维度的挤压。
 > - [[Argument_Marginson_2025_ECNUROE|Marginson (2025, pp. 12–13)]] — 系统反思世界体系理论在全球高等教育与科学[[Network Analysis|网络分析]]中的局限，剖析[[Methodological Globalism|方法论全球主义]]的僵化弊端。
-
----
-
-## 参考文献
-
-- Arnove, R. F. (1980). Comparative education and world-systems analysis. *Comparative Education Review*, 24(1), 48–62.
-- Arnove, R. F. (2009). World-systems analysis and comparative education in the age of globalization. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 101–119). Springer.
-- Kazamias, A. M. (2009a). Forgotten paths, heroes, and trailblazers: Historical reflections on comparative education. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 147–167). Springer.
-- Marginson, S. (2025). The regional in higher education: Spatiality, agency and [[Emergence]]. *ECNU Review of Education*, Advance online publication, 1–25.
-- Olechnicka, A., Ploszaj, A., & Celinska-Janowicz, D. (2019). *The geography of scientific collaboration*. Routledge.
-- Wallerstein, I. (1974). *The modern world-system I: Capitalist agriculture and the origins of the European world-economy in the sixteenth century*. Academic Press.
-- Wallerstein, I. (2004). *World-systems analysis: An introduction*. Duke University Press.

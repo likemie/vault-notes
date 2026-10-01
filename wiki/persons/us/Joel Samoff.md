@@ -8,7 +8,7 @@ summary: "美国比较教育学家与非洲政治发展学者，斯坦福大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 29
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -45,18 +45,21 @@ related_methods:
   - "[[Fieldwork]]"
   - "[[Analytic Framework]]"
   - "[[Ethnography]]"
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Martin Carnoy]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
+  - "[[Andreas Kazamias]]"
 related_facts:
   - "[[World Bank]]"
   - "[[International Monetary Fund]]"
   - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
 confidence: high
-status: draft
+status: completed
 created: 2026-09-28
 updated: 2026-10-01
 ---
@@ -117,6 +120,11 @@ updated: 2026-10-01
 >
 > *Although the World Bank differentiates among stabilization, structural adjustment, and adjustment policies, it acknowledges that the general use of these terms "is often imprecise and inconsistent" (Samoff, 1990).*
 
+> [!citation-card] 卡扎米亚斯论卡诺伊与萨莫夫关于社会主义转型期国家政治的主导作用
+> 在第四代批判冲突与跨国宏观[[Paradigm|范式]]的代际演进中，卡扎米亚斯高度评价了卡诺伊与萨莫夫（Carnoy & Samoff, 1990）对第三世界转型国家（如中国、古巴、坦桑尼亚）的经验比较研究。该研究指出，在深刻的激进社会变革与过渡时期，推动教育体制发生结构性根本重塑的决定性力量，既非纯粹的经济基础再生产铁律，亦非资本主义世界市场规律，而是国家政权、政治路线与公共政策的主动作为。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 154–155)]]
+>
+> *In the empirical comparison of socialist transition states (such as China, Cuba, and Tanzania), Martin Carnoy & Joel Samoff (1990) demonstrated that during periods of radical social transformation, the decisive driving force behind the fundamental restructuring of education is state political power and policy, rather than capitalist market laws.*
+
 ---
 
 ## 影响路径
@@ -125,6 +133,11 @@ updated: 2026-10-01
 > - **理论路径** 提出的[[Financial-Intellectual Complex|金融-智识复合体]]成为国际比较教育与全球教育治理领域不可或缺的核心[[Analytic Framework|分析框架]]，为解构全球教育[[Policy Borrowing|政策借用]]与[[Disciplina and Doctrina|规训]]提供了强有力的概念武器。
 > - **方法路径** 倡导深度制度[[Ethnography|民族志]]与援助政治经济学批判，追踪资助资金流向与政策研究话语生产之间的因果链条，开创了对国际多边机构开展“[[Researching Up and Researching Down|向上研究]]”（Studying Up）的方法先河。
 > - **政策路径** 深度参与[[UNESCO|联合国教科文组织]]与非洲本土智库的政策反思，其学术成果直接推动了受援国对国际金融机构“附加条件”的合法性质疑与政策自主权争取。
+> - **转型国家政治经济学比较** 与卡诺伊合作开创对第三世界社会主义转型社会（中国、古巴、莫桑比克、坦桑尼亚）的宏观历史比较，确立国家政权与政治意志在打破依附与重塑教育体系中的主导性推动作用。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 154–155)]]
+
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]深入分析萨莫夫的金融-智识复合体理论，揭示[[World Bank|世界银行]]跨国知识垄断与放贷铁板一块机制。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯梳理第四代批判冲突与宏观[[Paradigm|范式]]，征引卡诺伊与萨莫夫（1990）关于第三世界转型国家政治权力主导教育根本转型的经验比较研究。
 
 ---
 
@@ -134,6 +147,7 @@ updated: 2026-10-01
 > - **学术合作者** [[Martin Carnoy]] — 斯坦福大学长期同事与重要学术同盟，合著《第三世界的教育与社会转型》（1990）。
 > - **理论同盟** [[Carlos Alberto Torres]] 与 [[Liliana Esther Olmos]] — 在宏观国家理论与外围教育依附研究中深度吸收萨莫夫的[[Financial-Intellectual Complex|金融-智识复合体]]模型。
 > - **批判对象** [[World Bank|世界银行]]管理层与新古典受雇专家群 — 系统解剖其如何利用定向资助和狭隘实证指标垄断[[Development Education|发展中国家教育]]政策议程。
+> - **学科史编纂与评述者** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]] — 在学科反思中将卡诺伊与萨莫夫的转型国家研究定性为第四代批判宏观[[Paradigm|范式]]的经验代表。
 
 ---
 
@@ -155,7 +169,9 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Financial-Intellectual Complex]] | 概念 | 率先提出并命名该[[Construct\|构念]]，揭示资金垄断与智识生产合谋的跨国[[Disciplina and Doctrina\|规训]]机制。 |
-> | [[Technical Rationality]] | 概念 | 批判[[World Bank\|世界银行]]将教育降格为新古典成本收益与生均收益率等纯粹技术官僚工具理性。 |
-> | [[Conditioned State Theory]] | 理论 | 阐发外围国家在面对跨国金融机构贷款附加条件时丧失政策自主权的受限困局。 |
-> | [[Dependency Theory]] | 理论 | 深化文化与智识层面的依附机制分析，揭露西方援助专家库对第三世界智识主权的再殖民化。 |
+> | [[Financial-Intellectual Complex\|金融-智识复合体]] | 概念 | 率先提出并命名该[[Construct\\|构念]]，揭示资金垄断与智识生产合谋的跨国[[Disciplina and Doctrina\\|规训]]机制。 |
+> | [[Technical Rationality\|技术理性]] | 概念 | 批判[[World Bank\\|世界银行]]将教育降格为新古典成本收益与生均收益率等纯粹技术官僚工具理性。 |
+> | [[Conditioned State Theory\|受限国家理论]] | 理论 | 阐发外围国家在面对跨国金融机构贷款附加条件时丧失政策自主权的受限困局。 |
+> | [[Dependency Theory\|依附理论]] | 理论 | 深化文化与智识层面的依附机制分析，揭露西方援助专家库对第三世界智识主权的再殖民化。 |
+> | [[Argument_Olmos_Torres_2009_StateTheories\\|Olmos & Torres (2009)]] | 论证 | 评析萨莫夫对世界银行金融-智识复合体、受雇专家网络及借贷政策单向垄断的批判。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 梳理第四代批判冲突[[Paradigm\\|范式]]，阐述卡诺伊与萨莫夫关于转型国家政治权力驱动教育变革的论断。 |

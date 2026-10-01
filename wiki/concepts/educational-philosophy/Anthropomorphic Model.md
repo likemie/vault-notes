@@ -158,7 +158,7 @@ updated: 2026-09-17
 
 ---
 
-## 参考文献
+## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 18)]] — 系统介绍拟人化模型、人的科学运动以及对传统实证心理学行为主义模型的批判。

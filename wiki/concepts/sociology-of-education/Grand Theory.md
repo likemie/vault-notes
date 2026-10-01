@@ -160,7 +160,7 @@ updated: 2026-09-23
 
 ---
 
-## 参考文献
+## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 10–11)]] — 系统界定宏大理论的元叙述性质、思辨内核及其遭遇的经验贫瘠批判。

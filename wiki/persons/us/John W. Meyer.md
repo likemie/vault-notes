@@ -229,23 +229,12 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[World Society Theory]] | 理论 | 核心创立者；奠定世界社会由共享[[Cultural Models\|文化模型]]构成而非中央权威统治的宏观解释传统。 |
-> | [[Cultural Models]] | 概念 | 提出核心命题；论证源于西方启蒙理性的文化模型是塑造现代国家与学校制度的元脚本。 |
-> | [[Organizational Actorhood]] | 概念 | 合作发展四维度模型；将组织能动者身份界定为世界文化赋予的标准化合法性形式。 |
-> | [[Otherhood]] | 概念 | 开创性提出；揭示现代组织与专家权威通过“为他者行动”维系去中心化全球秩序的机制。 |
-> | [[Knowledge-Based Economy]] | 概念 | 晚期系统拓展；论证现代研究型大学是全球知识社会的核心制度载体与完全组织典范。 |
-> | [[Epistemic Governance]] | 概念 | 提供理论根基；阐明观念、科学客观性与理性化脚本何以成为全球治理的核心支配机制。 |
-> | [[Robert Arnove]] | 人物 | 师生与学术对话；阿诺夫作为其早期学生，既继承其宏观体系视野，又结合[[Dependency Theory\|依附论]]展开现实主义批判。 |
-> | [[Immanuel Wallerstein]] | 人物 | 学术论敌与对立极；共同构成世界体系分析在比较教育学中的两大对立流派（共识论 vs 冲突论）。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将迈耶置于第四阶段话语跨国转向，剖析学校作为全球理性神话与学科历史维度的[[Attrition\|流失]]。 |
-
----
-
-## 参考文献
-
-- Arnove, R. F. (2009). World-systems analysis and comparative education in the age of globalization. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 101–119). Springer.
-- Kazamias, A. M. (2009a). Forgotten paths, heroes, and trailblazers: Historical reflections on comparative education. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 147–167). Springer.
-- Meyer, J. W. (1971). Economic and political effects on national educational enrollment patterns. *Comparative Education Review*, 15(1), 28–43.
-- Meyer, J. W., Boli, J., [[Gary Thomas|Thomas, G.]] M., & Ramirez, F. O. (1997). World society and the nation-state. *American Journal of Sociology*, 103(1), 144–181.
-- Meyer, J. W., & Rowan, B. (1977). Institutionalized organizations: Formal structure as myth and ceremony. *American Journal of Sociology*, 83(2), 340–363.
-- Zapp, M. (2022). The university as a world actor: Institutional myth or organizational reality? In *Handbook of higher education* (pp. 143–160). Springer.
+> | [[World Society Theory\|世界社会理论]] | 理论 | 核心创立者；奠定世界社会由共享[[Cultural Models\\|文化模型]]构成而非中央权威统治的宏观解释传统。 |
+> | [[Cultural Models\|文化模型]] | 概念 | 提出核心命题；论证源于西方启蒙理性的文化模型是塑造现代国家与学校制度的元脚本。 |
+> | [[Organizational Actorhood\|组织能动者身份]] | 概念 | 合作发展四维度模型；将组织能动者身份界定为世界文化赋予的标准化合法性形式。 |
+> | [[Otherhood\|为他者行动]] | 概念 | 开创性提出；揭示现代组织与专家权威通过“为他者行动”维系去中心化全球秩序的机制。 |
+> | [[Knowledge-Based Economy\|知识经济]] | 概念 | 晚期系统拓展；论证现代研究型大学是全球知识社会的核心制度载体与完全组织典范。 |
+> | [[Epistemic Governance\|知识治理]] | 概念 | 提供理论根基；阐明观念、科学客观性与理性化脚本何以成为全球治理的核心支配机制。 |
+> | [[Robert Arnove\|罗伯特·阿诺夫]] | 人物 | 师生与学术对话；阿诺夫作为其早期学生，既继承其宏观体系视野，又结合[[Dependency Theory\\|依附论]]展开现实主义批判。 |
+> | [[Immanuel Wallerstein\|伊曼努尔·沃勒斯坦]] | 人物 | 学术论敌与对立极；共同构成世界体系分析在比较教育学中的两大对立流派（共识论 vs 冲突论）。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 学科史定性；将迈耶置于第四阶段话语跨国转向，剖析学校作为全球理性神话与学科历史维度的[[Attrition\\|流失]]。 |

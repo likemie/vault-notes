@@ -256,14 +256,14 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Geisteswissenschaften]] | 概念 | 普罗透斯式认识体系的原初[[Epistemology\|认识论]]母体与跨学科人文科学品格。 |
-> | [[Epistemology]] | 概念 | 比较教育学多变形态与[[Theory of Knowledge\|知识论]]演进的核心哲学基石。 |
-> | [[Knowledge Production]] | 概念 | 揭示不同论述代际在时代政治智识语境中重塑知识生产的动态机制。 |
-> | [[Educational Meliorism]] | 概念 | 贯穿普罗透斯各代际的价值红线与政策合法化诉求。 |
-> | [[Enlightenment]] | 概念 | 催生第一代准科学与行政改良母题的历史认识论源泉。 |
-> | [[Social Science as Legitimation Alibi]] | 概念 | 战[[Postpositivism\|后实证主义]]普罗透斯形态沦为政策官僚政治护身符的批判[[Construct\|构念]]。 |
-> | [[Andreas Kazamias]] | 人物 | 提出普罗透斯式认识体系、系统梳理四重论述代际并诊断历史健忘症的希腊裔泰斗。 |
-> | [[Nicholas Hans]] | 人物 | 奠定第二代历史-哲学传统，其广义教育科学概念被卡扎米亚斯奉为普罗透斯认识体系的思想源头。 |
+> | [[Geisteswissenschaften\|精神科学]] | 概念 | 普罗透斯式认识体系的原初[[Epistemology\\|认识论]]母体与跨学科人文科学品格。 |
+> | [[Epistemology\|认识论]] | 概念 | 比较教育学多变形态与[[Theory of Knowledge\\|知识论]]演进的核心哲学基石。 |
+> | [[Knowledge Production\|知识生产]] | 概念 | 揭示不同论述代际在时代政治智识语境中重塑知识生产的动态机制。 |
+> | [[Educational Meliorism\|教育改良主义]] | 概念 | 贯穿普罗透斯各代际的价值红线与政策合法化诉求。 |
+> | [[Enlightenment\|启蒙运动]] | 概念 | 催生第一代准科学与行政改良母题的历史认识论源泉。 |
+> | [[Social Science as Legitimation Alibi\|实证社会科学作为合法化借口]] | 概念 | 战[[Postpositivism\\|后实证主义]]普罗透斯形态沦为政策官僚政治护身符的批判[[Construct\\|构念]]。 |
+> | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 提出普罗透斯式认识体系、系统梳理四重论述代际并诊断历史健忘症的希腊裔泰斗。 |
+> | [[Nicholas Hans\|尼古拉斯·汉斯]] | 人物 | 奠定第二代历史-哲学传统，其广义教育科学概念被卡扎米亚斯奉为普罗透斯认识体系的思想源头。 |
 
 ---
 

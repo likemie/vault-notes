@@ -158,18 +158,9 @@ updated: 2026-10-01
 
 ---
 
-## 论证索引
+## 相关研究
 
 > [!evidence-grid-a] 相关论证索引
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]] — 运用这一[[Paradigm|范式]]剖析了芬兰[[Phenomenon-Based Learning|现象本位学习]]在绩效评估压力下被技能原子化收纳的本质。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009, p. 96)]] — 揭示超国家治理与科研资助体系如何对比较教育学者施加规训压力，促使学术[[Knowledge Production|知识生产]]向政策问责与技术官僚规训屈从。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 153–154)]] — 在第四阶段话语梳理中引介卡诺伊批判国家理论，阐明学校在生产关系规训再生产与大众民主诉求之间的辩证张力。
-
----
-
-## 参考文献
-
-- [[Martin Carnoy|Carnoy, M.]], & Levin, H. M. (1985). *Schooling and work in the democratic state*. Stanford University Press.
-- Kazamias, A. M. (2009a). Forgotten paths, heroes, and trailblazers: Historical reflections on comparative education. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 147–167). Springer.
-- Mitter, W. (2009). Comparative [[Education in Europe]]: A historical and critical approach. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 81–99). Springer.
-- Schaffar, B., & Wolff, L.-A. (2024). [[Phenomenon-Based Learning]] and the question of knowledge. *Cogent Education*, 11(1), 1–15.

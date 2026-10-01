@@ -8,7 +8,7 @@ summary: "美国公立学校运动领袖与马萨诸塞州教育委员会首任�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 35
+person_related_count: 36
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -24,6 +24,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Scholiocentric Approach]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Popular Education]]"
   - "[[Normal School]]"
@@ -80,7 +81,7 @@ updated: 2026-10-01
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国 19 世纪自由共和主义社会改革家、政治家、律师、马萨诸塞州教育委员会首任秘书（1837–1848）、国会众议员（1848–1853）、安提阿学院首任校长（1853–1859），全美公立学校运动的最高领袖。
-> - **学科代际定位** 比较教育学第一重论述代际（“启蒙准科学与行政改良代际”）美洲核心代表；与[[Victor Cousin|维克多·库森]]、[[Henry Barnard|亨利·巴纳德]]共同确立了“以校为中心”（Scholiocentric）描述性考察外国办学经验，并以此作为游说立法机关、争取公共财政建立国民学校体系之政治合法化依据的经典模式。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 140–141)]]
+> - **学科代际定位** 比较教育学第一重论述代际（“启蒙准科学与行政改良代际”）美洲核心代表；与[[Victor Cousin|维克多·库森]]、[[Henry Barnard|亨利·巴纳德]]共同确立了“[[Scholiocentric Approach|以校为中心]]”（Scholiocentric）描述性考察外国办学经验，并以此作为游说立法机关、争取公共财政建立国民学校体系之政治合法化依据的经典模式。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 140–141)]]
 > - **核心角色** 美国公立学校运动（[[Common School Movement]]）的旗手与灵魂人物；在跨国教育借鉴中突破欧陆机械制度移植，开创“将外部经验[[Transfer Translation Transformation\|转译]]为国内争议改革政治合法化依据（Legitimating Rationale）”的比较范式。
 > - **代表贡献** 推动建立全美首批由公共税收维持、面向全体平民且无宗派偏见的公共学校（Common School）；建立马萨诸塞州列克星敦全美首所州立公立师范学校（1839）；发表 12 篇里程碑式的年度教育报告，特别是 1844 年《[[Seventh Annual Report of the Massachusetts Board of Education\|第七次年度报告]]》详尽考察欧洲与普鲁士初等学校，推行[[Johann Heinrich Pestalozzi\|约翰·海因里希·裴斯泰洛齐]]（Johann Heinrich Pestalozzi）直观教学法与温和人道纪律；确立普及公共教育是自由共和政体得以存续之唯一基石的经典政治教育学命题。
 
@@ -182,7 +183,7 @@ updated: 2026-10-01
 > [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）从比较教育思想史视野，系统揭示了霍勒斯·曼考察外国办学实况并将其转译为国内立法合法化工具的实质：
 
 > [!citation-card] Kazamias论霍勒斯·曼在第一论述代际中的行政改良与政治合法化功能
-> 法国的维克多·库森，以及美国的霍勒斯·曼与[[Henry Barnard|亨利·巴纳德]]等人受政府资助前往欧洲考察。他们撰写的考察报告主要记录外国的学校管理、课程设置与教学方法，呈现出以校为中心（scholiocentric）的特征，即把学校孤立起来当成单纯的教学场所进行描述，较少深入分析学校背后的社会结构。这些视察官员的核心关切是为本国的教育改革搜集实用方案。在现实操作中，他们将外国的成功经验带回国内，不仅作为政策制定的参考（教育借用），更主要用作游说立法机关、争取公共财政支持建立公共教育体系的政治说服工具。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 140–141)]]
+> 法国的维克多·库森，以及美国的霍勒斯·曼与[[Henry Barnard|亨利·巴纳德]]等人受政府资助前往欧洲考察。他们撰写的考察报告主要记录外国的学校管理、课程设置与教学方法，呈现出[[Scholiocentric Approach|以校为中心]]（scholiocentric）的特征，即把学校孤立起来当成单纯的教学场所进行描述，较少深入分析学校背后的社会结构。这些视察官员的核心关切是为本国的教育改革搜集实用方案。在现实操作中，他们将外国的成功经验带回国内，不仅作为政策制定的参考（教育借用），更主要用作游说立法机关、争取公共财政支持建立公共教育体系的政治说服工具。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 140–141)]]
 >
 > *Such reports ... focused on school administration, curricula, and methods of instruction and could be characterized as scholiocentric, i.e., looking at the school in isolation as an instructional place, and saying little about the social context ... Moreover, they used them not just as models to be imitated or 'borrowed', but also as legitimating rationales in their efforts to persuade their respective legislatures to establish and finance public educational systems.*
 
@@ -203,7 +204,7 @@ updated: 2026-10-01
 
 > [!evidence-grid-a]- 相关研究索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 阐释曼与斯托、巴纳德构成的美洲[[Educational Meliorism\|改良主义]]谱系，系统辨析欧陆直接制度移植与北美政治合法化论证的机制分野。
-> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 确立曼在比较教育“第一重论述代际（启蒙准科学与行政改良代际）”中的美洲旗手坐标，揭示其“以校为中心”（Scholiocentric）考察如何充当游说州立法机关与争取公共财政的政治合法化依据（pp. 140–141）。
+> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 确立曼在比较教育“第一重论述代际（启蒙准科学与行政改良代际）”中的美洲旗手坐标，揭示其“[[Scholiocentric Approach|以校为中心]]”（Scholiocentric）考察如何充当游说州立法机关与争取公共财政的政治合法化依据（pp. 140–141）。
 
 ---
 
@@ -250,7 +251,7 @@ updated: 2026-10-01
 > - **激进论敌保守联盟** 波士顿三十一位[[Grammar School\|文法学校]]校长联合会（Association of Masters of the Boston Grammar Schools） 1844 年联名发表抗辩书，誓死捍卫严酷体罚与传统师道尊严，引发震动全美教育界的大论战。（Downs, 1974:88–92; p. 32）
 > - **宗教论敌** 加尔文主义正统教会派 抨击曼的无宗派道德教育是在驱逐《圣经》，给公立学校扣上“无神论温床”罪名，要求由教会把持学校。（p. 32）
 > - **政治前驱与精神导师** 约翰·昆西·亚当斯（John Quincy Adams） 美国前总统、国会反奴隶制旗帜，曼在亚当斯病逝后接任其众议院席位，继承其废奴与捍卫人权政治衣钵。
-> - **学科代际谱系学者** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]] 将曼定性为比较教育“第一重论述代际”的美洲代表，阐发其“以校为中心”考察与政治合法化借用功能。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 140–141)]]
+> - **学科代际谱系学者** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]] 将曼定性为比较教育“第一重论述代际”的美洲代表，阐发其“[[Scholiocentric Approach|以校为中心]]”考察与政治合法化借用功能。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 140–141)]]
 > - **现代权威研究者** 劳伦斯·克雷明与罗伯特·唐斯（Robert B. Downs） 著名历史学家与传记作家，系统阐明曼的自由共和教育哲学与传记历史地位。（Cremin, 1957; Downs, 1974）
 > - **比较学术史重构者** [[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust） 阐明曼 1844 年欧洲考察在两百年跨文化制度考证传统中的基石坐标，驳斥[[Positivism|实证主义]]将其贬低为“业余游记”的偏见。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 124–126)]]
 
@@ -262,7 +263,7 @@ updated: 2026-10-01
 
 > [!debates] 学术争议
 >
-> > [!axis] “以校为中心”（Scholiocentric）描述性考察 vs [[Michael Sadler|萨德勒]]文化[[Situative Perspective|情境主义]]整体观
+> > [!axis] “[[Scholiocentric Approach|以校为中心]]”（Scholiocentric）描述性考察 vs [[Michael Sadler|萨德勒]]文化[[Situative Perspective|情境主义]]整体观
 > > 围绕第一代视察官员的研究视野与[[Unit of Analysis|分析单位]]，比较教育学史展开了[[Epistemology|认识论]]检视：[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 140–142)]]
 > >
 > > - **第一代行政改良派（Horace Mann, 1844; Victor Cousin, 1831）** 将目光聚焦于外国具体的学校管理、课程与教学方法（如[[Johann Heinrich Pestalozzi|裴斯泰洛齐]]直观法），把学校视作孤立的教学场所进行描述，追求立竿见影的行政借用与立法说服效果。
@@ -300,15 +301,15 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Common School Movement]] | 概念 | 作为新英格兰公学运动的灵魂领袖，主导确立公共学校制度信条与师范标准。 |
-> | [[Educational Meliorism]] | 概念 | 将外国教育考察转化为捍卫合众国自由共和政体存续的强大改良动能。 |
-> | [[Policy Borrowing]] | 概念 | 开创以国际成功范例作为国内争议改革合法化论据的经典比较借用路径。 |
-> | [[Influences Across Cultures]] | 概念 | 曼的赴欧考察构成了 19 世纪跨文化影响经验考据与双向流动的核心典范。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 124–125)]] |
-> | [[Auslandspadagogik]] | 概念 | 1844 年《第七次年度报告》构成了 19 世纪美洲外国教育学叙事的划时代[[Document\|文献]]。 |
-> | [[Unit of Analysis]] | 概念 | 曼代表了第一代“以校为中心”（Scholiocentric）孤立办学考察单位，成为向[[Michael Sadler\|萨德勒]]民族国家整体教育体系转变的历史前阶。 |
-> | [[Protean Episteme]] | 概念 | 曼借用外国教育经验服务于本土共和建制的实践，生动体现了比较教育[[Knowledge Production\|知识生产]]因应时代政治需求而变换的普罗透斯式特征。 |
-> | [[Victor Cousin]] | 人物 | 吸纳其普鲁士报告中的师范建制与国家督导经验，作为自身赴欧考察与改革的先导。 |
-> | [[Val D. Rust]] | 人物 | 阐述曼在跨文化影响与制度借用学术谱系中的先驱地位。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, p. 126)]] |
-> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供曼的共和教育公理、欧洲考察文本、波士顿校长大论战与合法化借用论证链的系统证据。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 考据曼 1844 年报告在比较教育学科制度化与跨文化借用传统演进中的坐标。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 确立曼在第一论述代际中的地位，揭示其“以校为中心”办学考察服务于立法游说与公共财政争取的政治合法化实质。 |
+> | [[Common School Movement\|公学运动]] | 概念 | 作为新英格兰公学运动的灵魂领袖，主导确立公共学校制度信条与师范标准。 |
+> | [[Educational Meliorism\|教育改良主义]] | 概念 | 将外国教育考察转化为捍卫合众国自由共和政体存续的强大改良动能。 |
+> | [[Policy Borrowing\|政策借用]] | 概念 | 开创以国际成功范例作为国内争议改革合法化论据的经典比较借用路径。 |
+> | [[Influences Across Cultures\|跨文化影响]] | 概念 | 曼的赴欧考察构成了 19 世纪跨文化影响经验考据与双向流动的核心典范。[[Argument_Rust_2009_Reflections\\|(Rust et al., 2009, pp. 124–125)]] |
+> | [[Auslandspadagogik\|外国教育学]] | 概念 | 1844 年《第七次年度报告》构成了 19 世纪美洲外国教育学叙事的划时代[[Document\\|文献]]。 |
+> | [[Unit of Analysis\|分析单位]] | 概念 | 曼代表了第一代“以校为中心”（Scholiocentric）孤立办学考察单位，成为向[[Michael Sadler\\|萨德勒]]民族国家整体教育体系转变的历史前阶。 |
+> | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 曼借用外国教育经验服务于本土共和建制的实践，生动体现了比较教育[[Knowledge Production\\|知识生产]]因应时代政治需求而变换的普罗透斯式特征。 |
+> | [[Victor Cousin\|维克多·库森]] | 人物 | 吸纳其普鲁士报告中的师范建制与国家督导经验，作为自身赴欧考察与改革的先导。 |
+> | [[Val D. Rust\|瓦尔·D·拉斯特]] | 人物 | 阐述曼在跨文化影响与制度借用学术谱系中的先驱地位。[[Argument_Rust_2009_Reflections\\|(Rust et al., 2009, p. 126)]] |
+> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供曼的共和教育公理、欧洲考察文本、波士顿校长大论战与合法化借用论证链的系统证据。 |
+> | [[Argument_Rust_2009_Reflections\\|Rust et al. (2009)]] | 论证 | 考据曼 1844 年报告在比较教育学科制度化与跨文化借用传统演进中的坐标。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 确立曼在第一论述代际中的地位，揭示其“[[Scholiocentric Approach\\|以校为中心]]”办学考察服务于立法游说与公共财政争取的政治合法化实质。 |

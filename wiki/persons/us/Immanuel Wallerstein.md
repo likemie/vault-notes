@@ -181,19 +181,10 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[World-Systems Theory]] | 理论 | 沃勒斯坦创立的核心宏观理论，奠定中心-半边缘-边缘分析架构。 |
-> | [[Unit of Analysis]] | 概念 | 沃勒斯坦打破[[Methodological Nationalism\|方法论民族主义]]，确立资本主义世界经济体为基准分析单位。 |
-> | [[Dependency Theory]] | 理论 | 沃勒斯坦将拉美依附论吸收并系统推进为具有长时段历史维度的世界体系分析。 |
-> | [[World Society Theory]] | 理论 | 沃勒斯坦现实主义冲突论的核心学术论敌，两派形成共识与冲突的鲜明对照。 |
-> | [[Robert Arnove]] | 人物 | 奠基性将沃勒斯坦世界体系分析引入比较教育学的关键学者。 |
-> | [[John W. Meyer]] | 人物 | [[Stanford School\|斯坦福学派]]代表人物，与沃勒斯坦在比较教育与全球化机制上形成重要辩论。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将沃勒斯坦置于第四阶段跨国宏观批判奠基地位，剖析长时段社会学与学科历史健忘症的悖论。 |
-
----
-
-## 参考文献
-
-- Arnove, R. F. (2009). World-systems analysis and comparative education in the age of globalization. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 101–119). Springer.
-- Kazamias, A. M. (2009a). Forgotten paths, heroes, and trailblazers: Historical reflections on comparative education. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 147–167). Springer.
-- Wallerstein, I. (1974). *The modern world-system I: Capitalist agriculture and the origins of the European world-economy in the sixteenth century*. Academic Press.
-- Wallerstein, I. (2004). *World-systems analysis: An introduction*. Duke University Press.
+> | [[World-Systems Theory\|世界体系理论]] | 理论 | 沃勒斯坦创立的核心宏观理论，奠定中心-半边缘-边缘分析架构。 |
+> | [[Unit of Analysis\|分析单位]] | 概念 | 沃勒斯坦打破[[Methodological Nationalism\\|方法论民族主义]]，确立资本主义世界经济体为基准分析单位。 |
+> | [[Dependency Theory\|依附理论]] | 理论 | 沃勒斯坦将拉美依附论吸收并系统推进为具有长时段历史维度的世界体系分析。 |
+> | [[World Society Theory\|世界社会理论]] | 理论 | 沃勒斯坦现实主义冲突论的核心学术论敌，两派形成共识与冲突的鲜明对照。 |
+> | [[Robert Arnove\|罗伯特·阿诺夫]] | 人物 | 奠基性将沃勒斯坦世界体系分析引入比较教育学的关键学者。 |
+> | [[John W. Meyer\|约翰·迈耶]] | 人物 | [[Stanford School\\|斯坦福学派]]代表人物，与沃勒斯坦在比较教育与全球化机制上形成重要辩论。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 学科史定性；将沃勒斯坦置于第四阶段跨国宏观批判奠基地位，剖析长时段社会学与学科历史健忘症的悖论。 |

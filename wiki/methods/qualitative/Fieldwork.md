@@ -171,13 +171,13 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Ethnography]] | 上位方法 | 田野调查是民族志研究最为核心、不可或缺的资料搜集形式。 |
-> | [[Participant Observation]] | 核心技术 | 参与观察是田野调查现场搜集第一手行为与情境资料的最主要工具。 |
-> | [[Rich and Thick Description]] | 输出规范 | 深描是田野工作呈现本土文化意义与抵御抽象化还原的基本文本[[Paradigm\|范式]]。 |
-> | [[Comparative Case Study]] | 组合方法 | 多地点田野调查为比较[[Case Study\|案例研究]]提供跨尺度垂直与水平互证的微观厚实材料。 |
-> | [[Robert Arnove]] | 人物 | 倡导运用跨国微观田野研究透视全球化宏观政策在地方遭遇的变通与抵制。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 剖析跨国比较田野调查中研究者与研究对象的权力关系伦理、女性主义田野困境与[[Going Native\|本土化]]张力。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将田野调查置于第四阶段多元转向，评述课堂回归与历史健忘症的伴生。 |
+> | [[Ethnography\|民族志]] | 上位方法 | 田野调查是民族志研究最为核心、不可或缺的资料搜集形式。 |
+> | [[Participant Observation\|参与观察]] | 核心技术 | 参与观察是田野调查现场搜集第一手行为与情境资料的最主要工具。 |
+> | [[Rich and Thick Description\|厚描述]] | 输出规范 | 深描是田野工作呈现本土文化意义与抵御抽象化还原的基本文本[[Paradigm\\|范式]]。 |
+> | [[Comparative Case Study\|比较案例研究]] | 组合方法 | 多地点田野调查为比较[[Case Study\\|案例研究]]提供跨尺度垂直与水平互证的微观厚实材料。 |
+> | [[Robert Arnove\|罗伯特·阿诺夫]] | 人物 | 倡导运用跨国微观田野研究透视全球化宏观政策在地方遭遇的变通与抵制。 |
+> | [[Argument_Rust_2009_Reflections\\|Rust et al. (2009)]] | 论证 | 剖析跨国比较田野调查中研究者与研究对象的权力关系伦理、女性主义田野困境与[[Going Native\\|本土化]]张力。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | 论证 | 学科史定性；将田野调查置于第四阶段多元转向，评述课堂回归与历史健忘症的伴生。 |
 
 ---
 
@@ -189,12 +189,3 @@ updated: 2026-10-01
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 108–110)]] — 评析比较教育学者如何通过精细的实证田野研究（fieldwork），考察以色列课程分权、几内亚与美法阅读教学、巴布亚新几内亚乡村青年文化抵抗以及印度女教师在职培训，实证确立全球与本土辩证互动的微观机制。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128–129)]] — 梳理国际与比较教育研究中的田野伦理困境，深入反思跨文化田野调查中研究者与研究对象的权力关系、女性主义田野困境及[[Going Native|本土化]]（Going Native）张力。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 155–156)]] — 考证 20 世纪 80–90 年代人类学田野调查与女性主义广泛进入比较教育学、打破功能主义垄断的多元化历程，并警示田野微观繁荣背后学科深陷“历史健忘症”的危机。
-
----
-
-## 参考文献
-
-- Arnove, R. F. (2009). World-systems analysis and comparative education in the age of globalization. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 101–119). Springer.
-- Kazamias, A. M. (2009a). Forgotten paths, heroes, and trailblazers: Historical reflections on comparative education. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 147–167). Springer.
-- [[Val D. Rust|Rust, V. D.]], Johnstone, C. J., & Allaf, C. (2009). Reflections on the [[Champ|field]]: [[Research Strategies in Comparative Education]]. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 121–138). Springer.
-- 齐梅. (2015). *教育研究方法*. 北京师范大学出版社.

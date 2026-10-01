@@ -158,7 +158,7 @@ updated: 2026-09-17
 
 ---
 
-## 参考文献
+## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 5–7)]] — 系统阐释 Burrell & Morgan 四组哲学[[Hypothesis\|假设]]中的唯名论立场，以及 Greenfield 的组织唯名论对照表。

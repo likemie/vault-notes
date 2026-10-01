@@ -157,32 +157,19 @@ updated: 2026-10-01
 > [!entry-map] 核心关联网络
 > | 条目 | 类型 | 关系说明 |
 > |:-----|:-----|:-----|
-> | [[PISA]] | Fact | 跨国大规模学生学业评价的主要竞争者与后来者，与 IEA 争夺全球教育治理话语权 |
-> | [[OECD]] | Fact | PISA 的主办机构，与 IEA 在国际测评市场与[[Governing at a Distance\|远处治理]]模式上形成竞合 |
-> | [[Scientific Paradigm]] | Concept | IEA 是 1960 年代比较教育学经验量化科学[[Paradigm\|范式]]最具代表性的跨国制度实践典范 |
-> | [[Social Science as Legitimation Alibi]] | Concept | IEA 生产的量化排位硬数据长期被各国政客与国际援助机构借用为推行预定政策的政治合法化借口 |
-> | [[Positivism]] | Concept | IEA 依托实证主义哲学，假定跨文化认知能力与教学[[Variable\|变量]]可通过标准化工具客观度量 |
-> | [[Variable]] | Concept | IEA 跨国数据为诺亚与埃克斯坦推行“以变量名称替代系统名称”提供了关键经验载体 |
-> | [[Multiple Regression]] | Method | IEA 大规模数据库结合多元统计回归，成为战后实证假说检验的标准分析技术 |
-> | [[Harold Noah]] | Person | 哥大学派领袖，依托 IEA 跨国测评数据倡导以变量替代系统国名并展开回归建模 |
-> | [[Max Eckstein]] | Person | 深度参与 IEA 跨国项目与中等教育成就评价，推动跨国经验比较实证规程的建立 |
-> | [[A Nation at Risk 1983]] | Fact | 早期 IEA 测验中美国学生数学成绩落后的外部评估直接催生了该危急报告 |
-> | [[Comparative Education Society in Europe]] | Fact | 战后欧洲大学比较教育学术共同体；IEA 评测运动在其组织网络之外平行展开，二者仅通过少数桥梁学者保持沟通 |
-> | [[Navigation Metaphor in Comparative Education]] | Concept | 战后大学学者倡导的审慎政策咨询范式，后受 IEA/PISA 实证指标问责体制冲击 |
-> | [[Wolfgang Mitter]] | Person | 梳理 IEA 在欧洲比较教育学科史中脱离学会网络独立演进及其对政策咨询模式深远影响的学者 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | Argument | 阐明 IEA 作为第三代际实证[[Scientism\|科学主义]]运动的核心数据载体、变量替代纲领及合法化借口批判 |
-> | [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] | Argument | 系统分析 IEA 跨国测评项目的兴起、实证共变方法论及其长盛不衰的政治合法化根源 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | Argument | 记录 IEA 作为跨国认知学业评估运动的兴起、学会外部制度特征及其对政策咨询光谱的重塑 |
-
----
-
-## 参考文献
-
-- Barber, B. (1972). *Science and the social order*. Collier Books.
-- Cowen, R. (2023). Thinking comparatively about education: On the history of ideas in comparative education. In R. Cowen & A. M. Kazamias (Eds.), *International Handbook of Comparative Education* (pp. 321–340). Springer.
-- Kazamias, A. M. (2009a). Comparative education: Historical reflections. In R. Cowen & A. M. Kazamias (Eds.), *International Handbook of Comparative Education* (pp. 139–157). Springer.
-- Mattheou, D. (2009). The [[Scientific Paradigm|Scientific Paradigm in Comparative Education]]. In R. Cowen & A. M. Kazamias (Eds.), *International Handbook of Comparative Education* (pp. 59–74). Springer.
-- Mitter, W. (2009). Comparative [[Education in Europe]]: A historical and cultural approach. In R. Cowen & A. M. Kazamias (Eds.), *International Handbook of Comparative Education* (pp. 89–106). Springer.
-- [[Harold Noah|Noah, H. J.]], & Eckstein, M. A. (1969). *Toward a science of comparative education*. Macmillan.
-- Rappleye, J. (2006). Theorizing educational transfer: Toward a conceptual map of the [[Champ|field]]. *Research in Comparative and [[International Education]]*, 1(3), 223–240.
-- Zhao, Y. (2020). Two decades of [[PISA]]: An unexpected consequence. *Journal of Educational Change*, 21(2), 261–273.
+> | [[PISA\|国际学生评估项目]] | Fact | 跨国大规模学生学业评价的主要竞争者与后来者，与 IEA 争夺全球教育治理话语权 |
+> | [[OECD\|经济合作与发展组织]] | Fact | PISA 的主办机构，与 IEA 在国际测评市场与[[Governing at a Distance\\|远处治理]]模式上形成竞合 |
+> | [[Scientific Paradigm\|比较教育学科学范式]] | Concept | IEA 是 1960 年代比较教育学经验量化科学[[Paradigm\\|范式]]最具代表性的跨国制度实践典范 |
+> | [[Social Science as Legitimation Alibi\|实证社会科学作为合法化借口]] | Concept | IEA 生产的量化排位硬数据长期被各国政客与国际援助机构借用为推行预定政策的政治合法化借口 |
+> | [[Positivism\|实证主义]] | Concept | IEA 依托实证主义哲学，假定跨文化认知能力与教学[[Variable\\|变量]]可通过标准化工具客观度量 |
+> | [[Variable\|变量]] | Concept | IEA 跨国数据为诺亚与埃克斯坦推行“以变量名称替代系统名称”提供了关键经验载体 |
+> | [[Multiple Regression\|多元回归]] | Method | IEA 大规模数据库结合多元统计回归，成为战后实证假说检验的标准分析技术 |
+> | [[Harold Noah\|哈罗德·诺亚]] | Person | 哥大学派领袖，依托 IEA 跨国测评数据倡导以变量替代系统国名并展开回归建模 |
+> | [[Max Eckstein\|马克斯·埃克斯坦]] | Person | 深度参与 IEA 跨国项目与中等教育成就评价，推动跨国经验比较实证规程的建立 |
+> | [[A Nation at Risk 1983\|国家处于危险中]] | Fact | 早期 IEA 测验中美国学生数学成绩落后的外部评估直接催生了该危急报告 |
+> | [[Comparative Education Society in Europe\|欧洲比较教育学会]] | Fact | 战后欧洲大学比较教育学术共同体；IEA 评测运动在其组织网络之外平行展开，二者仅通过少数桥梁学者保持沟通 |
+> | [[Navigation Metaphor in Comparative Education\|比较教育的航海隐喻]] | Concept | 战后大学学者倡导的审慎政策咨询范式，后受 IEA/PISA 实证指标问责体制冲击 |
+> | [[Wolfgang Mitter\|沃尔夫冈·米特]] | Person | 梳理 IEA 在欧洲比较教育学科史中脱离学会网络独立演进及其对政策咨询模式深远影响的学者 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\\|Kazamias (2009a)]] | Argument | 阐明 IEA 作为第三代际实证[[Scientism\\|科学主义]]运动的核心数据载体、变量替代纲领及合法化借口批判 |
+> | [[Argument_Mattheou_2009_ScientificParadigm\\|Mattheou (2009)]] | Argument | 系统分析 IEA 跨国测评项目的兴起、实证共变方法论及其长盛不衰的政治合法化根源 |
+> | [[Argument_Mitter_2009_Europe\\|Mitter (2009)]] | Argument | 记录 IEA 作为跨国认知学业评估运动的兴起、学会外部制度特征及其对政策咨询光谱的重塑 |
