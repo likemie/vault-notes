@@ -32,6 +32,8 @@ related_concepts:
   - "[[Incubation]]"
   - "[[Emergence]]"
   - "[[Evidence-Based Education]]"
+  - "[[Attrition]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Transcription in Qualitative Research]]"
@@ -63,18 +65,22 @@ related_methods:
   - "[[Winnowing]]"
   - "[[Expert Interview]]"
 related_instruments: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Val D. Rust]]"
+  - "[[Andreas Kazamias]]"
+related_facts:
+  - "[[Research Strategies in Comparative Education]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Dedering_2009_EERJ]]"
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
 confidence: high
 status: active
 created: 2026-08-16
-updated: 2026-09-22
+updated: 2026-10-01
 ---
 
 # Content Analysis
@@ -180,19 +186,25 @@ updated: 2026-09-22
 > > 12. **写作（writing）** 报告中系统呈现出现频次、情感方向、未言说的文本沉默与显著性。
 > > 13. **再思考（rethinking）** 重审研究过程并检验初始研究目标是否达成。
 
-> [!case] 案例示范：教师工作压力[[Qualitative Content Analysis\|质性内容分析]]的五阶段实操（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Section 30.4）
+> [!case] 案例示范一：教师工作压力[[Qualitative Content Analysis\|质性内容分析]]的五阶段实操（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Section 30.4）
 > - **阶段一：摘录评注与初级粗赋码** 从原始教师访谈转录中提取 33 条离散陈述，剔除冗余修辞并完成初级概括性赋码。
 > - **阶段二：确立四大主题领域** 将 33 条陈述归拢入工作负荷、体制政策、学生行为与人际支持四大领域。
 > - **阶段三：画线计票与频数统计** 运用计票单（tally sheets）统计各陈述的发生频次与分布偏态，直观揭示主要矛盾焦点。
 > - **阶段四：二级细分归组与类属包容** 依据层级包容系统（hierarchies of subsumption）细分次级类别，合并语义重叠陈述，建立清晰可控的浅层编码树。
 > - **阶段五：提炼实质性理论洞见** 从矩阵表格中提炼出 14 项实质性理论洞见，完成从离散文本片段到深层因果机制解释的跃升。
 
+> [!case] 案例示范二：学科研究策略演进与历史健忘症的期刊文献计量内容分析（[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias, 2009a, pp. 155–156]]；Larsen, 2001; Rust et al., 1999）
+> - **文本总体与多阶段抽样** 聚焦比较教育领域三大国际旗舰期刊（《比较教育评论》CER、《比较教育》CE、《国际教育发展杂志》IJED），将 1955 至 1994 年四十年间发表的近 2,000 篇学术论文作为全样本总体。
+> - **分析单位与编码范畴建构** 以单篇论文为分析单位，构建互斥互补的研究策略分类范畴（涵盖史学编纂与历史研究、跨国量化实证、国别描述性调查、哲学理论思辨等）。
+> - **纵向长周期频次统计与份额测算** 统计各研究策略在不同十年的发表频次与占比：1955–1994 年全期依赖史学编纂与历史研究的论文占比仅为 10.5%；而在 1985–1995 年近十年期，历史比较研究论文占比更是断崖式跌破 5%。
+> - **实质性推论与理论建构** 从词频与策略份额的量化骤降向学科认识论生态作出推论，实证确证了比较教育学在世纪之交多元理论繁荣的表象之下，深陷近乎彻底放逐历史维度的“历史健忘症”（Historical Amnesia），为学科开展认识论反思与方法综合提供了坚实的经验依据。
+
 ---
 
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 需要系统处理海量文本、提取核心主题、比较不同主体或群体的表述差异、检验预设理论[[Hypothesis\|假设]]，或将非结构化质性资料转化为结构化推论的研究场景。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 563)]]
+> - **适合使用** 需要系统处理海量文本、提取核心主题、比较不同主体或群体的表述差异、检验预设理论[[Hypothesis\|假设]]，或将非结构化质性资料转化为结构化推论的研究场景；以及开展学科史元研究与学术期刊长周期文献计量分析，系统追踪学科演进历程中研究策略、理论范式与方法论取向的消长规律，以可证伪的经验数据诊断学科方法论生态（如诊断学科“历史健忘症”）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 563)]]；[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 155–156)]]
 > - **谨慎使用** 文本高度隐晦、充斥深层反讽、隐喻或特殊方言时，需辅以[[Narrative Analysis\|叙事分析]]、[[Discourse Analysis\|话语分析]]或深度[[Ethnography\|民族志]]田野[[Rich and Thick Description\|深描]]，不可单纯依赖字面频次。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 574)]]
 > - **不适合使用** 仅凭机械词频计数断言强因果决定关系，或研究对象完全脱离任何书面及视听符号传播媒介的场景。
 
@@ -232,3 +244,4 @@ updated: 2026-09-22
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] — 结合[[Observation Method\|观察研究]]中的结构化[[Coding in Qualitative Research\|编码]]体系与访谈质性分析，示范如何在教育研究中通过范畴化提炼核心概念与建构理论逻辑。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 探讨内容分析在[[Mixed Methods Research\|混合方法]]与质性文本研究中的应用，强调如何通过[[Winnowing\|数据筛选]]（Winnowing）将繁复编码收敛为 5–7 个核心解释主题。
 > - [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] — 运用计算机辅助质性分析软件（MAXQDA）实施多源政策内容分析，对德国教育行政高层及督导官员的 12 场半结构化[[Expert Interview\|专家访谈]][[Transcription in Qualitative Research\|转录]]稿、2,796 篇媒体报道和 1,500 份教育部官方公文进行混合范畴编码（对接 Mayring [[Qualitative Content Analysis\|质性内容分析]]进路），系统考察[[Evidence-Based Education\|循证教育]]政策工具在科层行政实践中的概念转化与吸纳机制。
+> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 征引瓦尔·拉斯特团队（Val D. Rust et al., 1999）与玛丽安·拉森（Marianne Larsen, 2001）对英美三大旗舰期刊（CER, CE, IJED）长达四十年近 2,000 篇论文的研究策略文献计量内容分析，以历史论文占比跌破 5% 的统计证据确证学科的“历史健忘症”，示范了内容分析在宏观学科史元研究与范式消长追踪中的关键推论功能。

@@ -13,10 +13,10 @@ aliases:
 summary: "在教育政策制定与跨国治理中，实证社会科学被政治决策者和技术官僚工具化为推卸行政责任、免受道德反思与公众问责、为既定政治决策提供客观性背书的政治借口机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 41
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - topic/educational-policy
   - theme/policy-planning
@@ -30,40 +30,47 @@ related_concepts:
   - "[[Champ]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
+  - "[[Educational Meliorism]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Research Utilization]]"
   - "[[Theoretical Perspective]]"
   - "[[Reflexivity]]"
+  - "[[Empiricism]]"
+  - "[[Postpositivism]]"
   - "[[Doxa]]"
   - "[[Comparative Educations]]"
   - "[[Grand Theory]]"
   - "[[Scientific Paradigm]]"
   - "[[Determinism]]"
   - "[[Policy Science in Comparative Education]]"
-  - "[[Educational Meliorism]]"
   - "[[Policy Borrowing]]"
+  - "[[Governing by Numbers]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Problem Approach]]"
+  - "[[Multiple Regression]]"
   - "[[Quantitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
-  - "[[Andreas Kazamias]]"
-  - "[[Martin Carnoy]]"
   - "[[Horace Mann]]"
+  - "[[Henry Barnard]]"
+  - "[[Calvin Stowe]]"
+  - "[[Martin Carnoy]]"
+  - "[[Andreas Kazamias]]"
 related_facts:
-  - "[[IEA]]"
+  - "[[Common School Movement]]"
   - "[[OECD]]"
-  - "[[PISA]]"
   - "[[World Bank]]"
+  - "[[IEA]]"
+  - "[[PISA]]"
   - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
-  - "[[Argument_Cowen_2023_CE]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
+  - "[[Argument_Cowen_2023_CE]]"
 confidence: high
 status: completed
 created: 2026-09-08
@@ -90,12 +97,12 @@ updated: 2026-10-01
 > *In this sense social science had become a convenient alibi and/or a legitimising means for the prevailing political orthodoxy in education... Past paradigms that had served their stakeholders well. In this sense, the covariational, quantitative and empirical sort of comparative education has consistently served politicians well. They have repeatedly relied on it for the legitimation and promotion of their preconceived policies.*
 
 > [!citation-card] 卡扎米亚斯论跨国借用作为政治意识形态合法化的理由
-> 19 世纪以[[Horace Mann\|霍勒斯·曼]]（Horace Mann）、亨利·巴纳德（Henry Barnard）与卡尔文·斯托（Calvin Stowe）为代表的美国改良主义者考察普鲁士与欧洲教育体系，其搜集外国制度数据的首要动因并非纯粹的客观学术比较，而是为了获得“主要用于政治意识形态、道德改良与制度革新目的的合法化理由（legitimising rationales）”——具体而言，即利用外国先行经验游说各州立法机构，平息宗派阻力，并为动用公共税收建立普及公立学校制度提供正当性辩护。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 141)]]
+> 19 世纪以[[Horace Mann\|霍勒斯·曼]]（Horace Mann）、[[Henry Barnard|亨利·巴纳德]]（Henry Barnard）与[[Calvin Stowe|卡尔文·斯托]]（Calvin Stowe）为代表的美国[[Educational Meliorism|改良主义]]者考察普鲁士与欧洲教育体系，其搜集外国制度数据的首要动因并非纯粹的客观学术比较，而是为了获得“主要用于政治意识形态、道德改良与制度革新目的的合法化理由（legitimising rationales）”——具体而言，即利用外国先行经验游说各州立法机构，平息宗派阻力，并为动用公共税收建立普及公立学校制度提供正当性辩护。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 141)]]
 >
-> *Mann, Barnard, and Stowe gathered data on foreign systems which were used as 'legitimising rationales for mainly politico-ideological, melioristic and reformative purposes' to build state common school systems.*
+> *Mann, Barnard, and Stowe gathered data on foreign systems which were used as 'legitimising rationales for mainly politico-ideological, melioristic and reformative purposes' to build state [[Common School Movement|Common School]] systems.*
 
 > [!citation-card] 卡扎米亚斯与卡诺伊论机构资助共谋与资本主义再生产的意识形态借口
-> 战后功能主义、发展与现代化社会理论及其衍生的教育政策处方，不仅是对战后社会经济条件的回应，更是“得到了政府、慈善基金会以及国际组织（如经合组织、世界银行）基于自身政策利益所给予的制度性资助与强化的结果”。马丁·[[Martin Carnoy\|卡诺伊]]（Martin Carnoy）进一步揭示，以个体理性选择与人力资本为核心的实证主义社会科学，实质上构成了遮蔽阶级结构压迫与资本主义制度矛盾的意识形态借口（ideological alibi）。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148, 153–154)]]
+> 战后功能主义、发展与现代化社会理论及其衍生的教育政策处方，不仅是对战后社会经济条件的回应，更是“得到了政府、慈善基金会以及国际组织（如[[OECD|经合组织]]、[[World Bank|世界银行]]）基于自身政策利益所给予的制度性资助与强化的结果”。[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy）进一步揭示，以个体理性选择与人力资本为核心的实证主义社会科学，实质上构成了遮蔽阶级结构压迫与资本主义制度矛盾的意识形态借口（ideological alibi）。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148, 153–154)]]
 >
 > *Functionalism and social theories of modernisation/development were reinforced by institutional support from governments, foundations, and international organisations (OECD, World Bank) for their own policy interests... Carnoy (1983) exposed positivist social science as an ideological alibi for capitalist reproduction.*
 
@@ -121,8 +128,8 @@ updated: 2026-10-01
 
 > [!feature] 核心要素
 > - **官方资助市场的逆向淘汰机制** 科研资助机构与政客对无法得出明确处方、不支持预设方针且无法在官员任期内提供速效保证的研究（如霍姆斯揭示深层矛盾的[[Problem Approach\|问题法]]）抱有天然疑虑，促使资金向能提供直观回归系数的实证派高度集中。
-> - **机构赞助与地缘政治利益合谋（Institutional Patronage & Policy Interests）** 实证功能主义与唯方法论主义在战后的迅速扩张绝非纯粹的认识论演进，而是得到了国家政府、私人慈善基金会以及国际组织（如经合组织、世界银行）强大的制度性资助；这些资助机构出于自身的行政与地缘政策利益，系统性地将实证社会科学作为推行发展规划与技术援助的科学护照。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148)]]
-> - **历史谱系中的改良借用辩护长波（Meliorist Legitimising Rationales）** 跨国教育知识作为政治合法化借口具有深远的历史根基：早在 19 世纪，欧美行政视察官便将外国办学数据转化为游说议会、推行公共教育税收的合法化理由；战后实证主义则将这一机制升级为以多元回归与人力资本模型为国家五年计划免责背书。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 141, 149)]]
+> - **机构赞助与地缘政治利益合谋（Institutional Patronage & Policy Interests）** 实证功能主义与[[Empiricism|唯方法论主义]]在战后的迅速扩张绝非纯粹的[[Epistemology|认识论]]演进，而是得到了国家政府、私人慈善基金会以及国际组织（如[[OECD|经合组织]]、[[World Bank|世界银行]]）强大的制度性资助；这些资助机构出于自身的行政与地缘政策利益，系统性地将实证社会科学作为推行发展规划与技术援助的科学护照。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148)]]
+> - **历史谱系中的改良借用辩护长波（Meliorist Legitimising Rationales）** 跨国教育知识作为政治合法化借口具有深远的历史根基：早在 19 世纪，欧美行政视察官便将外国办学数据转化为游说议会、推行公共教育税收的合法化理由；战[[Postpositivism|后实证主义]]则将这一机制升级为以[[Multiple Regression|多元回归]]与[[Human Capital Theory|人力资本]]模型为国家五年计划免责背书。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 141, 149)]]
 > - **量化硬事实的去政治化包装** 实证学派借助大样本测量、[[Variable\|变量]]共变与数学方程，将高度涉及阶级利益再分配与价值偏好的政治裁决，精巧包装为中立、[[Doxa\|不言自明]]且无可争辩的自然规律。
 > - **推卸行政问责的道德避雷针** 一旦政策在现实中遭遇阻力或失败，官员可借口政策完全是“依据客观科学专家模型制定”，从而规避个人或执政党应当承担的政治问责与道德罪责。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 67–68)]]
 
@@ -151,6 +158,9 @@ updated: 2026-10-01
 > [!claim] Mattheou, D.
 > **作为国家五年计划与政策投资的合法化借口** 马修指出，美国实证功能主义与[[Quantitative Research\|量化研究]]之所以压倒霍姆斯折衷复杂的问题法，其根源不在于[[Epistemology\|认识论]]上的优越，而在于现代国家规划体制（如中央五年计划、综合中学改革、发展中国家技术援助）急需确定性的科学依据为既定预算与路线背书；[[Positivism\|实证主义]]产出的直观回归系数与硬事实，完美充当了技术官僚推卸行政责任与逃避道德反思的科学借口（alibi）。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 64, 67–68)]]
 
+> [!claim] [[Andreas Kazamias|Kazamias, A.]] M.
+> **制度赞助与政策利益驱动下的范式强化** 卡扎米亚斯（Kazamias, 2009a）进一步揭示，战后实证功能主义与现代化发展理论在比较教育学中的支配地位，根本上是冷战地缘政治与福利国家规划相互交织的产物。这类研究之所以迅速获得官方独宠，在于其“得到了政府、慈善基金会以及国际组织（如[[OECD|经合组织]]、[[World Bank|世界银行]]）基于自身政策利益所给予的制度性资助与强化”；客观科学的修辞有效掩盖了援助项目背后的地缘政治目的与西方中心主义霸权。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148)]]
+
 ---
 
 ### 命题二　合法化借口机制通过将充满争议的意识形态选择转化为技术性量化问题而消解价值问责
@@ -173,24 +183,37 @@ updated: 2026-10-01
 
 ---
 
+### 命题四　新马克思主义批判揭示实证主义与人力资本理论充当资本主义阶级再生产的意识形态借口
+
+> [!concept-lens] 激进冲突批判与资本主义再生产解构
+> 该维度关注 1970–1980 年代批判政治经济学与激进学者如何撕开实证社会科学的“客观中立”面具，揭示其服务于资本主义国家机器与阶级利益的深层本质。
+
+> [!claim] [[Martin Carnoy\|Carnoy, M.]] & Kazamias, A. M.
+> **实证主义作为掩盖阶级矛盾的意识形态借口** 马丁·卡诺伊（Carnoy, 1983）对实证主义的教育研究进路展开了尖锐的政治经济学批判。他指出，实证主义学者仅从个体理性选择（Individual Choice）、主观权能和制度均衡的角度切入教育，将复杂的社会流动窄化为技术性的人力资本积累；这种去政治化的科学模型实质上充当了一种“意识形态借口”（ideological alibi），它刻意掩盖了资本主义国家在劳动力再生产中的结构性不平等，并为统治阶级维系现状的制度安排提供了伪科学辩护。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 153–154)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **政治供需共谋命题** | 实证范式的实践支配地位由国家规划对合法化免责借口的渴求所决定 | 战后国家教育财政扩张与中央计划体制 | Mattheou |
+> | **政治供需与资助共谋命题** | 实证范式的实践支配地位由国家规划与国际赞助机构对合法化免责借口的渴求所强化 | 战后国家教育财政扩张、冷战援助与中央计划体制 | Mattheou; Kazamias |
 > | **去政治化技术包装命题** | 量化硬数据将充满党派偏见的意识形态抉择伪装为中立自然规律 | 人力资本投资、综合中学重构、技术援助 | Parnes; Schultz; Halsey |
-> | **危机反噬与制度惯性命题** | 规划破产动摇实证神话，但借口效能在跨国指标排名治理中顽强延续 | 1970年代学科范式危机及当代 IEA/PISA 跨国测评 | Husén; Cowen |
+> | **危机反噬与制度惯性命题** | 规划破产动摇实证神话，但借口效能在跨国指标排名治理中顽强延续 | 1970年代学科范式危机及当代 IEA/PISA 跨国测评 | Husén; Cowen; Mattheou |
+> | **再生产意识形态借口命题** | 实证主义个体选择与均衡模型沦为遮蔽阶级矛盾与资本主义再生产的意识形态借口 | 批判政治经济学与激进国家理论对实证范式的解构 | Carnoy; Kazamias |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1950s–1960s — 战后中央计划体制的科学联姻** 随着民族国家推行中央五年计划，政府急需科学证明追加教育投资的正当性；[[Human Capital Theory\|人力资本理论]]与人才库测算应运而生，实证量化模型与国家官僚机器确立深层共谋。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 64)]]
-> - **1960s–1970s 初 — 全球技术援助与国内结构重组的合法化顶峰** 英美综合中学运动援引社会学流动数据打破阶级双轨制；[[World Bank\|世界银行]]与[[UNESCO\|联合国教科文组织]]等技术援助项目将现代化理论作为向第三世界输出方案的科学护照。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 68)]]
+> - **1830s–1840s — 行政改良与公共教育立法合法化理由** [[Horace Mann\|霍勒斯·曼]]（Horace Mann）等美国[[Educational Meliorism|改良主义]]视察官考察普鲁士等欧洲教育体系，将外国制度数据带回国内，主要用作游说各州立法机构、动用公共税收建立普及公学体系的“合法化理由”（legitimising rationales）。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 141)]]
+> - **1950s–1960s — 战后中央计划体制与机构赞助的科学联姻** 随着民族国家推行中央五年计划，政府与国际组织（[[OECD\|经合组织]]、[[World Bank\|世界银行]]）基于自身政策利益大力资助实证研究；[[Human Capital Theory\|人力资本理论]]与人才库测算应运而生，实证量化模型与国家官僚机器确立深层共谋。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 64)]]; [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148)]]
+> - **1960s–1970s 初 — 全球技术援助与国内结构重组的合法化顶峰** 英美综合中学运动援引社会学流动数据打破阶级双轨制；世界银行与[[UNESCO\|联合国教科文组织]]等技术援助项目将现代化理论作为向第三世界输出方案的科学护照。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 68)]]
 > - **1970s 中叶 — 现实危机下的神话破灭与合法化反噬** 经济滞胀与毕业生失业戳破了实证预测神话；加上量子力学不确定性转向与后现代思潮对[[Grand Theory\|宏大叙事]]的解构，单一[[Scientific Paradigm\|科学范式]]解体为多元学派。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]
-> - **1980s 至今 — 跨国测评排位治理中的制度惯性延续** 尽管实证[[Determinism\|决定论]]在哲学上破产，但政治家依然执着于依靠 [[IEA]] 研究与 [[OECD]] [[PISA]] 等大规模量化测试，将其作为向国内推行紧缩政策、问责改革与教师绩效考评的外在合法化免责借口。[[Argument_Cowen_2023_CE\|(Cowen, 2023, pp. 333–334)]]; [[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 69)]]
+> - **1980s — 激进政治经济学批判揭示意识形态借口** [[Martin Carnoy|马丁·卡诺伊]]（Carnoy, 1983）等学者从国家理论与世界体系切入，揭露[[Positivism|实证主义]]与人力资本理论将教育窄化为个体选择与市场均衡，实质上充当了掩盖资本主义剥削与阶级再生产的“意识形态借口”（ideological alibi）。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 153–154)]]
+> - **1990s 至今 — 跨国测评排位治理中的制度惯性延续** 尽管实证[[Determinism\|决定论]]在哲学上破产，但政治家依然执着于依靠 [[IEA]] 研究与 [[OECD]] [[PISA]] 等大规模量化测试，将其作为向国内推行紧缩政策、问责改革与教师绩效考评的外在合法化免责借口。[[Argument_Cowen_2023_CE\|(Cowen, 2023, pp. 333–334)]]; [[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 69)]]
 
 ---
 
@@ -213,3 +236,25 @@ updated: 2026-10-01
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 历史社会学考证了 1960 年代比较教育学实证[[Scientific Paradigm\|科学范式]]如何作为战后国家计划、[[Human Capital Theory\|人力资本]]投资与技术援助的合法化借口（alibi），并追踪其在 1970 年代危机后的多元演变与当代 [[PISA]] 惯性。
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 揭示了冷战时期及全球化时代跨国测试（[[IEA]] 与 PISA）如何从学术性的文化理解异化为新自由主义国家机器追求治理效率与正当性的附庸工具。
+> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 梳理两百年比较教育学术史，揭示 19 世纪欧美行政改良者（[[Horace Mann|曼]]、巴纳德）如何将跨国数据用作推动公共教育立法的“合法化理由”（legitimising rationales），分析战后政府与国际组织（[[OECD]]、[[World Bank|世界银行]]）对[[Positivism|实证主义]]的制度赞助与政策利益驱动，并结合卡诺伊（Carnoy, 1983）批判阐释实证功能主义作为资本主义再生产意识形态借口（ideological alibi）的深层本质。
+
+---
+
+## 领域应用
+
+实证社会科学作为合法化借口在教育政策学、知识社会学与跨国治理分析中具有广泛的应用价值。
+
+> [!entry-map]
+> 
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Positivism]] | 概念 | 为合法化借口提供“客观、中立、确定”的[[Epistemology\|认识论]]外衣与统计模型支撑。 |
+> | [[Value Neutrality]] | 概念 | 被技术官僚滥用为去政治化修辞，将充满利益冲突的政治决断包装为无党派立场的科学规律。 |
+> | [[Human Capital Theory]] | 理论 | 充当国家追加教育预算、推行人力投资与第三世界技术援助的核心科学借口。 |
+> | [[Educational Meliorism]] | 概念 | 19 世纪欧美改良主义者利用外国教育事实充当推动本土公共教育立法的合法化理由。 |
+> | [[Policy Borrowing]] | 概念 | 政策借用过程往往并非为了解决技术问题，而是借助外国“先进模式”为本土预定方案获取政治正当性。 |
+> | [[Governing by Numbers]] | 概念 | 当代跨国测评（[[PISA]]、[[IEA]]）作为合法化借口的高阶形态，以指标排位强力推行国内紧缩与量化问责。 |
+> | [[Andreas Kazamias]] | 人物 | 考据跨国借用的合法化理由历史渊源，揭示战[[Postpositivism\|后实证主义]]背后的机构赞助与地缘政治利益。 |
+> | [[Martin Carnoy]] | 人物 | 运用新马克思主义国家理论，解构实证主义社会科学作为资本主义再生产“意识形态借口”的政治本质。 |
+> | [[Horace Mann]] | 人物 | 19 世纪美国教育改革先驱，将欧洲考察数据作为推动麻省公立学校建制与公共征税的合法化论据。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 全景式勾勒比较教育四重论述代际，剖析实证主义如何演变为国家计划与资本主义再生产的合法化借口。 |

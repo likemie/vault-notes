@@ -62,6 +62,10 @@ related_persons:
   - "[[Oskar Anweiler]]"
   - "[[Wolfgang Mitter]]"
   - "[[Marc-Antoine Jullien]]"
+  - "[[Andreas Kazamias]]"
+  - "[[Michael Sadler]]"
+  - "[[Isaac Kandel]]"
+  - "[[Nicholas Hans]]"
 related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
@@ -74,7 +78,7 @@ related_arguments:
   - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
 confidence: high
-status: draft
+status: completed
 created: 2026-09-06
 updated: 2026-10-01
 ---
@@ -95,7 +99,7 @@ updated: 2026-10-01
 > - **输出形式** 历史因果脉络谱系、制度演进动力模型、跨国对照[[Analytic Framework\|分析框架]]、中程工作假设（Working Hypotheses）、国际组织历史演化类型学。
 
 > [!citation-card] 历史比较法从个案归纳工作假设的[[Epistemology\|认识论]]辩护
-> 针对[[Positivism\|实证主义]]者关于历史学仅能处理孤立独特性、无法为比较研究提供抽象与普遍化基础的指责，比较历史学早已证明：对历史现象进行分类并为了形成概括而进行比较是完全可能的。正如著名历史学家[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）所示，尽管此类概括属于有限范围而非普适规律，但它们能够作为工作假设在其他类似情境中进行检验，以阐明新的教育形态；历史学与社会科学皆包含对特殊性与普遍性的关切，二者差异仅在于研究侧重点与学术目的，而非方法上的对立。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 56)]]
+> 针对[[Positivism\|实证主义]]者关于历史学仅能处理孤立独特性、无法为比较研究提供抽象与普遍化基础的指责，比较历史学早已证明：对历史现象进行分类并为了形成概括而进行比较是完全可能的。正如著名历史学家[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）所示，尽管此类概括属于有限范围而非普适规律，但它们能够作为探索性工作假设（Working Hypotheses）在其他类似情境中进行检验，以阐明新的教育形态；历史学与社会科学皆包含对特殊性与普遍性的关切，二者差异仅在于研究侧重点与学术目的，而非方法或性质上的对立。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 151–152)]]；[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 56)]]
 >
 > *As Crane Brinton has shown, it is quite possible to categorize or classify historical phenomena and compare them for the purpose of making generalizations. Although such generalizations may be of a limited rather than a universal nature, they may in turn be used as working hypotheses to be tested in other similar situations in order to illuminate them. In other words, from an examination of the specific, the concrete and the particular, the historically-minded comparative educator may induce a generalization and then use it in order to illuminate another particular event or form.*
 
@@ -193,6 +197,9 @@ updated: 2026-10-01
 > - **适用边界** 提炼出的理论概括属于“非普适探索性假说”，其解释力严格依附于特定的时空情境与制度母体，不能直接外推为普适规律。
 > - **误用风险** 在缺乏扎实史料支撑时，极易退化为主观臆断与缺乏证据基础的宏大玄想，招致实证学派关于“涉嫌神秘主义”的严厉指责（Epstein, 1970）。
 > - **补救方式** 坚持[[Primary and Secondary Documents\|一手文献]]与二手研究的多重[[Triangulation\|三角互证]]；公开反思研究者的价值前设与[[Theoretical Perspective\|理论视角]]；引入中程社会学理论规范因果机制推导。
+
+> [!danger] 当代危机与学科“历史健忘症”（Historical Amnesia）
+> 20 世纪下半叶经验实证主义与唯方法论主义的兴起，使历史比较法遭遇严重的边缘化危机。实证学派指责历史法依赖个人主观洞见、缺乏可操作化变量与假说检验规程，贬低其为“前科学”（Noah & Eckstein, 1969）。玛丽安·拉森（Marianne Larsen, 2001）与瓦尔·D·拉斯特（Val D. Rust et al., 1999）对英美三大旗舰学术期刊（CER, CE, IJED）长达四十年的文献计量内容分析证实，历史比较研究论文的占比从 1955–1994 年间的 10.5% 断崖式下跌至 1985–1995 年间的不足 5%。学科在沉醉于去情境化的现时性政策与纯量化调查的同时，付出了近乎彻底放逐历史维度的沉重认识论代价，患上了严重的“历史健忘症”。卡扎米亚斯疾呼必须通过历史学与社会科学的理性综合，重申历史比较法在破除技术工具主义、维系批判理性与人文底蕴方面的不可替代性。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 151–152, 155–156)]]
 
 ---
 

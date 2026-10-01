@@ -46,6 +46,8 @@ related_concepts:
   - "[[Whiggism]]"
   - "[[Construct]]"
   - "[[Comparative History of Comparative Education]]"
+  - "[[Unit of Analysis]]"
+  - "[[Protean Episteme]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
@@ -77,10 +79,11 @@ related_arguments:
   - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Rust_2009_Reflections]]"
-confidence: medium
-status: draft
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
+confidence: high
+status: completed
 created: 2026-09-05
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Isaac Kandel
