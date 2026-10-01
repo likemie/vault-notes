@@ -7,7 +7,7 @@ title: "Argument_Cowen(Ed.)_2009_Springer"
 argument_key: "Argument_Cowen(Ed.)_2009_Springer"
 argument_display_title: "International Handbook of Comparative Education"
 argument_kind: "edited-volume"
-argument_related_count: 81
+argument_related_count: 82
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -73,6 +73,7 @@ related_concepts:
   - "[[Theoretical Standpoint]]"
   - "[[Heterogeneity]]"
 related_theories:
+  - "[[World-Systems Theory]]"
   - "[[Network Society]]"
   - "[[Post-colonial Theory]]"
   - "[[Critical Theory]]"
@@ -82,7 +83,6 @@ related_theories:
   - "[[Typology of Educational Responses to Globalization]]"
   - "[[World Society Theory]]"
   - "[[State Corporatism]]"
-  - "[[World-Systems Theory]]"
   - "[[Globalization from Below]]"
   - "[[Postmodernism]]"
 related_methods:
@@ -102,6 +102,7 @@ related_persons:
   - "[[Crane Brinton]]"
   - "[[John W. Meyer]]"
   - "[[Immanuel Wallerstein]]"
+  - "[[Bernard Barber]]"
 related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
@@ -161,7 +162,7 @@ updated: 2026-10-01
 ## 全书结构与章节路线
 
 > [!volume-structure] 全书结构
-> - **Section 1 / Ch. 01–10 — 学科的创建与再造（The Creation and Re-creation of a [[Champ\|field]]）** 反思学科起源神话、现代主义源头、科学[[Paradigm\|范式]]、国家理论、世界体系分析与欧洲传统。（pp.3–157）
+> - **Section 1 / Ch. 01–10 — 学科的创建与再造（The Creation and Re-creation of a [[Champ\|field]]）** 反思学科起源神话、现代主义源头、科学[[Paradigm\|范式]]、国家理论、[[World-Systems Theory|世界体系分析]]与欧洲传统。（pp.3–157）
 > - **Section 2 / Ch. 11–20 — 政治形态与教育系统（Political Formations and Educational Systems）** 考察帝国主义与殖民遗产、民族国家建构、希腊/意大利国家形态、后社会主义转型与欧盟话语。（pp.161–334）
 > - **Section 3 / Ch. 21–30 — 民族、国际与全球（The National, The International, and The Global）** 审视教育转移、流动与移民、原教旨与世俗主义、世界性、多元文化教育、[[Development Education|国际发展教育]]以及[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）与多边银行。（pp.337–495）
 > - **Section 4 / Ch. 31–40 — 工业化、[[Knowledge-Based Economy\|知识经济]]与教育（Industrialisation, Knowledge Economies and Education）** 分析公共教育分层、职业教育、评估国家（Evaluative State）、欧洲高教区重构、亚太市场化与[[Network Society\|网络社会]]。（pp.499–650）
@@ -211,9 +212,9 @@ updated: 2026-10-01
 >   - Ch. 05 [[Argument_Mattheou_2009_ScientificParadigm]]。Mattheou 系统剖析 20 世纪下半叶[[Scientific Paradigm\|比较教育学科学范式]]的兴衰，辨析芝加哥学派（安德森、福斯特）的恒常制度规律、哥大学派（诺亚、埃克斯坦）的[[Variable\|变量]]函数共变与伦敦学派（霍姆斯）基于[[Critical Dualism\|批判二元论]]的权变社会学法则及预测划界标准，揭示实证量化模式作为战后国家规划合法化工具（alibi）的政治共谋，并阐明其在现实危机、量子不确定性与后现代思潮冲击下向“[[Comparative Educations\|复数比较教育学]]”的多元解体。
 >   - Ch. 06 [[Argument_Olmos_Torres_2009_StateTheories]]。Olmos 与 Torres 运用马克思主义政治经济学与批判政治社会学，解构[[World Society Theory|世界文化理论]]的均质化教育扩张叙事，提出以资本积累与政治合法化为轴心的国家理论，阐发外围资本主义[[Conditioned State Theory\|受限国家]]及[[State Corporatism\|国家法团主义]]下的阶级[[Dual School System|双轨学制]]与[[Compensatory Legitimation\|补偿性合法化]]，并批判新自由主义[[Structural Adjustment Programs|结构调整]]下[[World Bank|世界银行]][[Financial-Intellectual Complex\|金融-智识复合体]]对教育公共性与民主公民身份的侵蚀。
 >   - Ch. 07 [[Argument_Mitter_2009_Europe]]。Mitter 以中世纪以来的“多样性与统一性”二分法为核心结构原则，系统绘制欧洲比较教育两百年来的大学教席学术地图与专业学会网络（[[Comparative Education Society in Europe|CESE]] 跨国个人会员制及多元学会竞合），梳理三大理论[[Paradigm|范式]]演化期（文化历史全景、德国社会学[[Positivism|实证主义]]争论、多元竞争），剖析地缘空间拓展（殖民转型、东西欧冷战对峙与跨国经验比较），辨析政策咨询立场的[[Navigation Metaphor in Comparative Education|航海隐喻]]与直接干预光谱，并反思当代国际大规模测评的技术官僚[[Disciplina and Doctrina|规训]]、[[Intercultural Education|跨文化教育]]合流与“重返欧洲维度”。
->   - Ch. 08 [[Argument_Arnove_2009_WorldSystems]]。Arnove 系统回顾世界体系分析（WSA）在比较教育学中的引入与演进，辨析共识取向（[[John W. Meyer|迈耶]]等人的新制度主义[[World Society Theory|世界文化理论]]）与冲突取向（[[Immanuel Wallerstein|沃勒斯坦]]等人的政治现实主义[[World-Systems Theory|世界体系理论]]）在解释教育同形与依附不平等上的[[Epistemology|认识论]]分野；阐明世界体系分析与全球化研究的汇融，揭示跨国金融与贸易机构（世行、[[World Trade Organization|WTO]] / [[GATS and Trade in Education Services|GATS]]）在[[Pluri-Scalar Governance|多标度治理]]中对[[State Educational Sovereignty|国家教育主权]]的重构、非政府组织向[[Shadow State|影子国家]]蜕变的异化风险，并通过多层次[[Comparative Case Study|比较案例研究]]示范了全球与本土互动的“双重视野”，最终提出以[[Time-Space Compression|时空压缩]]和流散空间为载体、联合草根力量抵御新自由主义的自下而上全球化抗争范式。
+>   - Ch. 08 [[Argument_Arnove_2009_WorldSystems]]。Arnove 系统回顾[[World-Systems Theory|世界体系分析]]（WSA）在比较教育学中的引入与演进，辨析共识取向（[[John W. Meyer|迈耶]]等人的新制度主义[[World Society Theory|世界文化理论]]）与冲突取向（[[Immanuel Wallerstein|沃勒斯坦]]等人的政治现实主义[[World-Systems Theory|世界体系理论]]）在解释教育同形与依附不平等上的[[Epistemology|认识论]]分野；阐明世界体系分析与全球化研究的汇融，揭示跨国金融与贸易机构（世行、[[World Trade Organization|WTO]] / [[GATS and Trade in Education Services|GATS]]）在[[Pluri-Scalar Governance|多标度治理]]中对[[State Educational Sovereignty|国家教育主权]]的重构、非政府组织向[[Shadow State|影子国家]]蜕变的异化风险，并通过多层次[[Comparative Case Study|比较案例研究]]示范了全球与本土互动的“双重视野”，最终提出以[[Time-Space Compression|时空压缩]]和流散空间为载体、联合草根力量抵御新自由主义的自下而上全球化抗争范式。
 >   - Ch. 09 [[Argument_Rust_2009_Reflections]]。Rust、Johnstone 与 Allaf 系统梳理学科发端的多重历史锚点，借鉴比较文学平反十九世纪[[Influences Across Cultures|跨文化影响]]实证考察遗产，揭示美德跨大西洋互动中“恶政与良教自然可分”的借用公理；运用 UCLA 大规模期刊[[Document|文献]]计量与作者调查证实 26 种理论并存的“健康[[Pluralism|多元主义]]”；并在批判主流将教育等同于资本主义现代性的基础上，建构涵盖接受、抵制、恢复与强制再生产的[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]，呼吁学科回归人道主义与解放实践。
->   - Ch. 10 [[Argument_Kazamias_2009_HistoricalReflections]]。Kazamias 系统确立比较教育学作为“[[Protean Episteme|普罗透斯式认识体系]]”的学科本质，梳理从启蒙准科学与行政改良、历史-哲学自由人文主义、战后经验实证主义到批判冲突理论的四重论述代际；借助巴伯（Barber）科学社会学深刻解构将科学狭隘化为单一量化操作的“方法论主义”，并援引拉森（Larsen）等人的旗舰期刊计量数据（历史论文降至不足 5%）实证确证学科面临的“历史健忘症”危机，最终重申历史学与社会科学理性综合的现代合法性。
+>   - Ch. 10 [[Argument_Kazamias_2009_HistoricalReflections]]。Kazamias 系统确立比较教育学作为“[[Protean Episteme|普罗透斯式认识体系]]”的学科本质，梳理从启蒙准科学与行政改良、历史-哲学自由人文主义、战后经验实证主义到批判冲突理论的四重论述代际；借助[[Bernard Barber|巴伯]]（Barber）科学社会学深刻解构将科学狭隘化为单一量化操作的“方法论主义”，并援引拉森（Larsen）等人的旗舰期刊计量数据（历史论文降至不足 5%）实证确证学科面临的“历史健忘症”危机，最终重申历史学与社会科学理性综合的现代合法性。
 > - **优先处理章节** Ch. 01（联合导论）、Ch. 21（导论）、Ch. 61（新思维导论）、Ch. 79 与 Ch. 80（全书收束与结论）。
 > - **可暂缓章节** 专门聚焦特定国家微观细部、与全书主干理论对话相对松散的案例章节。
 > - **缺口提醒** 目前已完成 Ch. 02 至 Ch. 10 共 9 章，除未编入独立正文实操 Argument 的 Ch. 01 联合导论外，全书第一板块（Section 1 学科的创建与再造）关于学科起源神话、现代主义双重母题、自由人文历史传统、实证科学化兴衰、马克思主义国家批判、欧洲区域制度化、世界体系分析、全球化学科演进反思与普罗透斯式认识体系历史反思的核心主干已全部圆满夯实收束。
@@ -231,7 +232,7 @@ updated: 2026-10-01
 > - **Ch. 05 — The Scientific [[Paradigm]] in Comparative Education** [[Argument_Mattheou_2009_ScientificParadigm]] — 评析[[Scientific Paradigm\|比较教育学科学范式]]的兴起动因、四大派别在目标与法则上的[[Epistemology\|认识论]]分野，揭示其充当战后国家规划合法化工具的深层机制及走向多元解体的必然性。
 > - **Ch. 06 — Theories of The State, Educational Expansion, Development, and Globalizations** [[Argument_Olmos_Torres_2009_StateTheories]] — 从马克思主义政治经济学解构教育扩张的普世叙事，提出以资本积累与政治合法化为核心的[[Conditioned State Theory|受限国家]]与[[State Corporatism|国家法团主义]][[Analytic Framework|分析框架]]，批判新自由主义[[Financial-Intellectual Complex|财智复合体]]的政策[[Disciplina and Doctrina|规训]]。
 > - **Ch. 07 — Comparative [[Education in Europe]]** [[Argument_Mitter_2009_Europe]] — 以“多样性与统一性”的二分法为核心结构原则，系统梳理欧洲比较教育两百年来的大学教席版图、专业学会网络、三大理论范式演进、空间拓展与政策咨询光谱（[[Navigation Metaphor in Comparative Education|航海隐喻]] vs 直接干预）。
-> - **Ch. 08 — World-systems Analysis and Comparative Education in the Age of Globalization** [[Argument_Arnove_2009_WorldSystems]] — 阐述世界体系分析在当代比较教育中的应用与演变，辨析新制度主义世界文化流派与政治现实主义流派的理论交融，解构[[Pluri-Scalar Governance|多标度治理]]、[[Shadow State|影子国家]]与[[Globalization from Below|自下而上的全球化]]抗争。
+> - **Ch. 08 — [[World-Systems Theory|World-Systems Analysis]] and Comparative Education in the Age of Globalization** [[Argument_Arnove_2009_WorldSystems]] — 阐述世界体系分析在当代比较教育中的应用与演变，辨析新制度主义世界文化流派与政治现实主义流派的理论交融，解构[[Pluri-Scalar Governance|多标度治理]]、[[Shadow State|影子国家]]与[[Globalization from Below|自下而上的全球化]]抗争。
 > - **Ch. 09 — Reflections on the Development of Comparative Education** [[Argument_Rust_2009_Reflections]] — 平反十九世纪[[Influences Across Cultures|跨文化影响]]考证遗产，揭示实证[[Pluralism|多元主义]]的健康本质，建构涵盖强制再生产的全球化四重批判响应模型。
 > - **Ch. 10 — Comparative Education: Historical Reflections** [[Argument_Kazamias_2009_HistoricalReflections]] — 确立学科作为“[[Protean Episteme|普罗透斯式认识体系]]”的四重论述代际演化，批判[[Positivism|实证主义]]对单一全能方法的迷信，以期刊[[Document|文献]]计量数据诊断历史维度的[[Attrition|流失]]与“历史健忘症”危机，为学科再造奠定历史哲学与人文关怀锚点。
 

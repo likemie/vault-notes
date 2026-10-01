@@ -9,7 +9,7 @@ aliases:
 summary: "教育与社会科学中建立原因与效果之间关系的推理体系，涵盖概率因果、反事实潜在结果模型、因果识别设计层级（RCT/QED/RDD/SCD）以及生成性因果机制与筛选隔离逻辑。"
 type: concept
 domain: "educational-philosophy"
-related_count: 82
+related_count: 83
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -92,6 +92,7 @@ related_persons:
   - "[[Karl Popper]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
+  - "[[Bernard Barber]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Blueprints for Healthy Youth Development]]"
@@ -253,7 +254,7 @@ updated: 2026-10-01
 > **假说演绎法与条件因果模型（$L + I = P$）** 霍姆斯在比较教育“[[Problem Approach|问题法]]（[[Problem Approach]]）”中引入波普尔的批判理性主义，坚决抛弃古典前相对论力学的机械[[Determinism|决定论]]与历史主义因果宿命论。霍姆斯论证指出，因果推断必须依赖特定初始条件：全称假说法则 $L$ 与特定情境下的初始条件 $I$ 共同演绎出可[[Falsification|证伪]]的预测 $P$。若抽离具体的制度生态与文化传统，任何因果主张均无法在不同国家体系间自动复制或成立。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, p. 150)]]
 
 > [!claim] Barber (1972); Noah & Eckstein (1969)
-> **方法论主义因果化及其认识论反思** 20 世纪 60 至 70 年代，以[[Harold Noah|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein）为代表的实证学派试图通过以“[[Variable|变量]]”替代“国别”来识别跨国恒定因果规律。然而埃利诺·巴伯（Elinor Barber）等学者敏锐指出，将因果推断窄化为统计相关与[[Multiple Regression|多元回归]]技术的“方法论主义（[[Empiricism|Methodologism]]）”，切断了因果链条所深嵌的历史厚度、制度网络与社会伦理目的，容易将技术拟合错当为真实因果机制。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 147–149)]]
+> **方法论主义因果化及其认识论反思** 20 世纪 60 至 70 年代，以[[Harold Noah|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein）为代表的实证学派试图通过以“[[Variable|变量]]”替代“国别”来识别跨国恒定因果规律。然而埃利诺·[[Bernard Barber|巴伯]]（Elinor Barber）等学者敏锐指出，将因果推断窄化为统计相关与[[Multiple Regression|多元回归]]技术的“方法论主义（[[Empiricism|Methodologism]]）”，切断了因果链条所深嵌的历史厚度、制度网络与社会伦理目的，容易将技术拟合错当为真实因果机制。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 147–149)]]
 
 ---
 
@@ -275,7 +276,7 @@ updated: 2026-10-01
 > [!dev-timeline] 因果关系与因果推断理论演进
 > - **18 世纪 — 休谟归纳因果四准则** 大卫·休谟提出时空邻近、时间优先、恒常联结与必然联系，指出因果关系源于人类的经验归纳而非绝对先验演绎。
 > - **1956 — [[Screening Off\|筛选隔离]]原理提出** Hans Reichenbach 提出筛选隔离（Screening Off）概念，为用统计控制排除共同原因混杂奠定理论基础。
-> - **1960s–1970s — 比较[[Epistemology|认识论]]中跨国因果律与波普尔批判理性主义辩论** 比较教育第三论述代际试图通过[[Variable|变量]]化与[[Multiple Regression|多元回归]]建立跨国普遍因果律；霍姆斯引入波普尔批判理性主义确立基于初始条件（$L + I = P$）的条件因果假说演绎框架，巴伯等人提出对抽离价值与脉络的实证“方法论主义因果”的深刻批判。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 146–150)]]
+> - **1960s–1970s — 比较[[Epistemology|认识论]]中跨国因果律与波普尔批判理性主义辩论** 比较教育第三论述代际试图通过[[Variable|变量]]化与[[Multiple Regression|多元回归]]建立跨国普遍因果律；霍姆斯引入波普尔批判理性主义确立基于初始条件（$L + I = P$）的条件因果假说演绎框架，[[Bernard Barber|巴伯]]等人提出对抽离价值与脉络的实证“方法论主义因果”的深刻批判。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 146–150)]]
 > - **1974–1986 — 潜在结果模型与[[Counterfactual\|反事实]]革命** Donald Rubin 与 Paul Holland 建立[[Potential Outcomes Framework\|潜在结果框架]]，提出“因果推断基本问题”，奠定当代计量经济学与实验因果推断的数理基石。
 > - **1990 年代 — 因果图模型与有向无环图** Judea Pearl 创立因果图（DAGs）与 do-calculus 演算体系，形式化了因果识别中的混杂路径切断规则。
 > - **2002 — 法定因果推断边界的学界修正** 美国国会通过《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA），吸纳[[National Research Council|国家研究委员会]]（NRC）科学原则与学者质证，打破了《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）对[[Random Assignment|随机分配]]实验的单一优先垄断，首次在联邦公法中确立“在实质上排除合理竞争性解释的其他设计同样具备因果主张合法性”的法理标准。([[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, p. 34]])

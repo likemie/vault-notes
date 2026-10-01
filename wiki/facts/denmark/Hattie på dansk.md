@@ -9,7 +9,7 @@ subtype: event
 region: denmark
 fact_region: "denmark"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ related_methods: []
 related_persons:
   - "[[Steen Nepper Larsen]]"
   - "[[John Hattie]]"
+  - "[[Robin Alexander]]"
   - "[[Thomas Aastrup Rømer]]"
 related_facts: []
 related_arguments:
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-09-22
+updated: 2026-10-01
 ---
 ## 背景
 
@@ -57,7 +58,7 @@ updated: 2026-09-22
 > - 写道"不仅德国哲学家和社会学家 Theodor Wiesengrund Adorno 在绝望和痛苦中从坟墓深处哭泣，所有后来的[[Critical Theory\|批判理论]]家也是如此……"（Bjerre et al., 2017, p.107，引自）
 > - 将 Hattie 的分析与简单的因果系统（如"台球游戏"或机械清洁系统）进行比较，得出 Hattie 将教学简化为教学干预与学习成果之间机械关系的结论（Bjerre et al., 2017, p.104，引自）
 >
-> [[Argument_Qvortrup_2019_NordSTEP\|Qvortrup (2019, p.3-4)]]使用 Robin Alexander 的四种批判性政策话语框架分析 Larsen 的批评，识别了其中至少两种话语：
+> [[Argument_Qvortrup_2019_NordSTEP\|Qvortrup (2019, p.3-4)]]使用 [[Robin Alexander]] 的四种批判性政策话语框架分析 Larsen 的批评，识别了其中至少两种话语：
 > - **二分法话语（discourse of dichotomy）** 将一切化简为相互排斥的选项——在 Larsen 的批评中是统计与独特性的虚假对立([[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019, p.3]])
 > - **嘲弄话语（discourse of derision）** 先歪曲再嘲笑，尽可能进行人身攻击，诉诸最低的大众偏见公约数（Alexander, 2011, p.274，引自）
 >

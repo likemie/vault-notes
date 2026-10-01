@@ -12,7 +12,7 @@ aliases:
 summary: "科学探究四大基本假设之一，主张可靠知识源自感官观察与直接经验，理论必须依托经验证据支撑，奠定了实证科学方法与 Mouly 经验演化五步进程的认识论基石。"
 type: concept
 domain: "educational-philosophy"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Postpositivism]]"
 related_persons:
   - "[[René Descartes]]"
+  - "[[Bernard Barber]]"
   - "[[Andreas Kazamias]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
@@ -123,7 +124,7 @@ updated: 2026-10-01
 > - **证据的概率确认性（Probabilistic Confirmation）** 现代科学经验主义认识到经验证据无法提供绝对确定性，而是以概率统计的形式为假说提供支持度或[[Falsification|证伪]]检验。
 > - **Mouly [[Scientific Method|经验科学]]五步演进规程（Five Steps of Empirical Science）** 穆利（Mouly, 1978）系统提炼的实证演进阶梯：经验积累、分类整理、精密量化、关系发现、逼近真理。
 > - **反先验教条主义（Anti-a-priori Dogmatism）** 拒绝任何未经经验数据检验的先验教条或权威断言，坚持理论的立足性完全取决于证据质量。
-> - **方法论经验主义与唯方法论主义（Methodological Empiricism & Methodologism）** 在 20 世纪战后实证[[Scientism|科学主义]]运动中，经验主义被窄化为图尔敏（Stephen Toulmin, 1963）所界定的“一元化通用科学方法”信仰，即仅认可[[Hypothesis|假设]]检验、受控调查、[[Variable|变量]]测量与量化统计解释（Noah & Eckstein, 1969；Psacharopoulos, 1987），异化为巴伯（Bernard Barber, 1972）所批判的脱离历史文化语境与价值反思的唯方法论主义。
+> - **方法论经验主义与唯方法论主义（Methodological Empiricism & Methodologism）** 在 20 世纪战后实证[[Scientism|科学主义]]运动中，经验主义被窄化为图尔敏（Stephen Toulmin, 1963）所界定的“一元化通用科学方法”信仰，即仅认可[[Hypothesis|假设]]检验、受控调查、[[Variable|变量]]测量与量化统计解释（Noah & Eckstein, 1969；Psacharopoulos, 1987），异化为[[Bernard Barber|巴伯]]（Bernard Barber, 1972）所批判的脱离历史文化语境与价值反思的唯方法论主义。
 
 > [!proc] 经验科学的五步演化进程（Mouly, 1978）
 > 1. **经验积累（Experience）** 科学探究在最基础感官层次的起点，系统搜集原始观察材料。
@@ -212,7 +213,7 @@ updated: 2026-10-01
 > - **17–18 世纪 — 英国古典经验主义鼎盛** 洛克（[[John Locke]]）、[[George Berkeley|贝克莱]]与休谟（David Hume）系统构建白板说与经验论体系，休谟揭示归纳问题的哲学危机。
 > - **1930s — 逻辑经验主义与证实原则** 维也纳学派将经验主义推至顶峰，主张只有能够被经验证实的陈述才具备认知意义。
 > - **1960s 至今 — 后实证修正与多元经验论** 波普尔揭示观察渗透理论，[[Pragmatic Paradigm|实用主义]]与[[Mixed Methods Research|混合方法]]将经验主义改造为面向解决现实问题的工具主义与实践经验论。
-> - **1970s — 比较教育方法论经验主义批判与[[Geisteswissenschaften|精神科学]]反思** 卡扎米亚斯与施瓦茨（Kazamias & Schwartz, 1977）、巴伯（Barber, 1972）揭示并批判诺亚、埃克斯坦等实证派所确立的“方法论经验主义”与“唯方法论主义”，重申比较教育深植于精神科学的人文阐释与批判反思传统（Kazamias, 2009a）。
+> - **1970s — 比较教育方法论经验主义批判与[[Geisteswissenschaften|精神科学]]反思** 卡扎米亚斯与施瓦茨（Kazamias & Schwartz, 1977）、[[Bernard Barber|巴伯]]（Barber, 1972）揭示并批判诺亚、埃克斯坦等实证派所确立的“方法论经验主义”与“唯方法论主义”，重申比较教育深植于精神科学的人文阐释与批判反思传统（Kazamias, 2009a）。
 
 ---
 
@@ -247,8 +248,8 @@ updated: 2026-10-01
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 4, 15–16, 27)]] — 系统梳理经验认知途径、科学四大基本假定之经验假定、Mouly 经验科学五步法与 Barratt 经验[[Evidence Standards|证据标准]]，并在跨章节论述中探讨实证测量、[[Questionnaire|问卷调查]]与经验效度标准的[[Operationalization|操作化]]规范。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 4, 15–16, 27)]] — 系统梳理经验认知途径、科学四大基本假定之经验假定、Mouly [[Scientific Method|经验科学]]五步法与 Barratt 经验[[Evidence Standards|证据标准]]，并在跨章节论述中探讨实证测量、[[Questionnaire|问卷调查]]与经验效度标准的[[Operationalization|操作化]]规范。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统批判战后实证派诺亚与埃克斯坦、萨查洛普洛斯等人构建的“方法论经验主义”与“唯方法论主义”，捍卫比较教育作为德语[[Geisteswissenschaften|精神科学]]的人文阐释传统。
 
 ---

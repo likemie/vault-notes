@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 50
+fact_related_count: 51
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -61,6 +61,7 @@ related_persons:
   - "[[Wolfgang Mitter]]"
   - "[[Robert Cowen]]"
   - "[[Yong Zhao]]"
+  - "[[Bernard Barber]]"
 related_facts:
   - "[[UNESCO]]"
   - "[[Comparative Education Society in Europe]]"
@@ -139,7 +140,7 @@ updated: 2026-10-01
 
 > [!actor-grid] 评论视角
 > - **IEA 官方与测量学视角** 强调其评估紧扣参与国官方课程大纲（Intended, Implemented, and Achieved Curriculum），坚持学术非营利与专业测量标准，旨在通过实证调查辅助学校教学改进。
-> - **比较学科史与[[Epistemology|认识论]]批判视角** 卡扎米亚斯（Kazamias, 2009a）援引伯纳德·巴伯（Bernard Barber, 1972）对“方法论主义（[[Empiricism|Methodologism]]）”的批评指出，IEA 式的跨国测评将科学研究窄化为单一的数学建模与量化指标，切断了教育与价值、道德及历史土壤的联系；其实证模型在冷战时期深度扮演了国家五年计划、[[Human Capital Theory|人力资本]]规划与第三世界技术援助的政治[[Social Science as Legitimation Alibi|合法化借口]]。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
+> - **比较学科史与[[Epistemology|认识论]]批判视角** 卡扎米亚斯（Kazamias, 2009a）援引[[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1972）对“方法论主义（[[Empiricism|Methodologism]]）”的批评指出，IEA 式的跨国测评将科学研究窄化为单一的数学建模与量化指标，切断了教育与价值、道德及历史土壤的联系；其实证模型在冷战时期深度扮演了国家五年计划、[[Human Capital Theory|人力资本]]规划与第三世界技术援助的政治[[Social Science as Legitimation Alibi|合法化借口]]。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 > - **批判比较教育学视角** 考恩与马修批评 IEA 将冷战地缘博弈包装为技术军备竞赛，使比较教育沦为生产官僚合法化借口与效率指标的工具性产业，严重遮蔽了国家历史传统的特殊性。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 68–69)]]; [[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 330–334)]]
 > - **[[PISA]] / [[OECD]] 竞争视角** 批评 IEA 的测试结构过于依赖各国学校课程的既定内容，缺乏面向未来[[Knowledge-Based Economy|知识经济]]与成年生活核心竞争力的跨学科前瞻性。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 > - **学会建制史视角** 米特指出，IEA 大规模实证[[Quantitative Research|量化研究]]依托高级统计与心理测量技术，在大学学会网络之外开辟了独立技术官僚通道，虽确立了跨国实证严谨性，但也深刻改写了比较教育服务国家政策的咨询生态。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 96–98)]]

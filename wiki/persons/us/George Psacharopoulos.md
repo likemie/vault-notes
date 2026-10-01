@@ -4,14 +4,14 @@ aliases:
   - 乔治·萨卡罗普洛斯
   - 乔治·普萨查罗普洛斯
   - 萨卡罗普洛斯
-summary: "国际著名教育经济学家、世界银行资深教育顾问与人力资本理论核心践行者，开创了跨国教育投资回报率（RORE）的全球比较计量传统；其建立的涵盖 139 个国家 1,120 项估算的回报率数据库，为世界银行摆脱教科文组织、构筑自立自指的全球教育应用研究帝国奠定了实证基石。"
+summary: "国际著名教育经济学家、世界银行资深教育顾问与人力资本理论核心践行者，开创了跨国教育投资回报率（RORE）的全球比较计量传统；在比较教育学科史上，被卡扎米亚斯定性为芝加哥学派人力资本理论与战后第三代际“实证经验主义与唯方法论主义”（Methodological Empiricism）的核心代表学者。"
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 19
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 25
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1937"
 lifespan: "1937–至今"
 tags:
@@ -22,7 +22,8 @@ tags:
   - theme/rate-of-return
 related_concepts:
   - "[[Return on Investment]]"
-  - "[[Knowledge Bank]]"
+  - "[[Scientism]]"
+  - "[[Empiricism]]"
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Evaluation Research]]"
@@ -31,25 +32,30 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Growth]]"
   - "[[Causality]]"
+  - "[[Social Science as Legitimation Alibi]]"
+  - "[[Scientific Method]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
+  - "[[Epistemology]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Dependency Theory]]"
-related_methods:
-  - "[[Correlational Research]]"
+related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Bernard Barber]]"
+  - "[[Andreas Kazamias]]"
 related_facts:
   - "[[World Bank]]"
   - "[[UNESCO]]"
   - "[[Systems Approach for Better Education Results]]"
 related_arguments:
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # George Psacharopoulos
@@ -60,7 +66,7 @@ updated: 2026-09-28
 
 > [!person-profile] 人物档案
 > - **身份位置** 希腊裔美籍经济学家、教育经济学奠基人之一、[[World Bank\|世界银行]]长期首席教育顾问与前教育及社会政策部主管。
-> - **核心角色** 将芝加哥学派[[Human Capital Theory\|人力资本理论]]系统注入国际多边金融机构，建立起跨越半个多世纪的全球[[Return on Investment\|教育投资回报率]]（RORE）计量基准体系，是推动世界银行转型为“[[Knowledge Bank\|知识银行]]”与自立研究帝国的领军学者。
+> - **核心角色** 将芝加哥学派[[Human Capital Theory\|人力资本理论]]系统注入国际多边金融机构与比较教育学，建立起跨越半个多世纪的全球[[Return on Investment\|教育投资回报率]]（RORE）计量基准体系；在比较教育学科史中，被视为战后第三代际实证[[Scientism\|科学主义]]运动中“实证[[Empiricism|经验主义]]与唯方法论主义”（Methodological Empiricism）的技术经济学支柱，推动比较研究从历史文化转向跨国大样本计量回归。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 147–148)]]
 > - **代表贡献** 开创跨国教育成本效益与明瑟收益率横向比较框架；主持编制世界银行历次十年期全球教育投资回报率全景综述（1973, 1985, 1994, 2004, 2018）；推动初等教育高社会收益率理论成为世界银行向全球南方放贷的法定准则。
 
 > [!citation-card] 独立研究帝国与比较教育材料宝库
@@ -144,12 +150,19 @@ updated: 2026-09-28
 > >
 > > - **[[World Bank\|世界银行]]技术官僚** 强调国家平均收益率是宏观资源分配最清晰的效率基准。
 > > - **批判学者** 指出在不平等的劳动力市场中，弱势群体即使获得同等教育年限也难以兑现相同的回报，单一收益率掩盖了制度性压迫。
+> >
+> > [!axis] 实证唯方法论与普适经济模型 vs 历史文化情境与[[Social Science as Legitimation Alibi|合法化借口]]批判
+> > 比较教育学科史学者对战后人力资本跨国实证建模的反思与学术大论战。
+> >
+> > - **萨卡罗普洛斯与实证经济学派** 秉持自然科学一元论，坚信存在跨越时空与国界的通用单一[[Scientific Method|科学方法]]，通过大样本跨国横截面数据检验教育收益率函数。
+> > - **卡扎米亚斯与科学社会学家（[[Bernard Barber|巴伯]]）** 指责这种实证[[Empiricism|经验主义]]陷入了“唯方法论主义”（Methodologism），将客观研究与复杂的社会文化、历史情境及不可测量之物人为割裂，其模型客观上充当了战后国家发展计划与多边金融援助规避政治问责的合法化借口。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 
 > [!critique]- 批评索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 揭示萨卡罗普洛斯所主导构建的 1,120 项教育回报率数据库，是世界银行为了在国际组织竞争中独占鳌头而打造的自指性政策研究帝国，将公共教育政策全面窄化为金融资本投资逻辑。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 揭示萨卡罗普洛斯所主导构建的 1,120 项教育回报率数据库，是世界银行为了在国际组织竞争中独占鳌头而打造的自指性政策研究帝国，将公共教育政策全面窄化为金融资本投资逻辑。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 批判萨卡罗普洛斯等人将比较教育降格为单一计量实证模型，指出战后新实证[[Paradigm|范式]]本质上是用方法论的严密性遮蔽复杂的历史政治情境，充当规避问责的合法化借口。
 
 > [!warning] 未解问题与边界
-> 萨卡罗普洛斯的研究传统严重依赖横截面收入数据与明瑟收益率模型，在面对现代因果推断（如工具[[Variable\|变量]]法、孪生子设计、自然实验）对能力内生性偏差（Ability Bias）的严格识别时，早期估算普遍存在高估教育因果回报的偏误。
+> 萨卡罗普洛斯的研究传统严重依赖横截面收入数据与明瑟收益率模型，在面对现代因果推断（如工具[[Variable|变量]]法、孪生子设计、自然实验）对能力内生性偏差（Ability Bias）的严格识别时，早期估算普遍存在高估教育因果回报的偏误。
 
 ---
 
@@ -159,14 +172,13 @@ updated: 2026-09-28
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Return on Investment]] | 概念 | 终身致力于教育投资回报率（RORE）的跨国微观与宏观计量标准构建。 |
-> | [[Human Capital Theory]] | 理论 | 将舒尔茨的人力资本理论系统[[Operationalization\|操作化]]为指导第三世界教育援助的实证工具。 |
-> | [[Policy Brokerage]] | 概念 | 亲手打造[[World Bank\|世界银行]]基于回报率数据库的政策中介模式，构筑排他性自指研究利基。 |
-> | [[Systems Approach for Better Education Results]] | 政策 | 其建立的数据驱动与自指性研究传统直接催生了世行后续的 SABER 体系。 |
-
----
-
-## 相关研究
-
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 引用萨卡罗普洛斯 1981 年经典[[Document\|文献]]与 2018 年回报率数据库，剖析[[World Bank\|世界银行]]如何摆脱[[UNESCO\|教科文组织]]、打造自足自指的应用政策研究帝国。
+> | [[Return on Investment\|投资回报率]] | 概念 | 终身致力于教育投资回报率（RORE）的跨国微观与宏观计量标准构建。 |
+> | [[Human Capital Theory\|人力资本理论]] | 理论 | 将舒尔茨的人力资本理论系统[[Operationalization\|操作化]]为指导第三世界教育援助的实证工具。 |
+> | [[Policy Brokerage\|政策中介]] | 概念 | 亲手打造[[World Bank\|世界银行]]基于回报率数据库的政策中介模式，构筑排他性自指研究利基。 |
+> | [[Systems Approach for Better Education Results\|教育成果更佳系统方法]] | 政策 | 其建立的数据驱动与自指性研究传统直接催生了世行后续的 SABER 体系。 |
+> | [[Social Science as Legitimation Alibi\|社会科学作为合法化借口]] | 概念 | 跨国收益率计量被卡扎米亚斯定性为战后国家规划与多边技术援助推卸问责的合法化借口。 |
+> | [[Scientism\|科学主义]] | 概念 | 体现了战后将自然科学一元论与单一全能方法强加于比较教育的科学主义风潮。 |
+> | [[Bernard Barber\|伯纳德·巴伯]] | 人物 | 科学社会学家，其[[Empiricism\|唯方法论主义]]批判深刻击中了萨卡罗普洛斯式实证模型的[[Epistemology\|认识论]]盲区。 |
+> | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 在学科史反思中将萨卡罗普洛斯定性为第三代际经验主义与实证唯方法论主义的核心代表。 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 论证 | 剖析萨卡罗普洛斯如何借助 1,120 项回报率估算构建世界银行自指性应用政策研究帝国。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 权威阐释芝加哥学派人力资本理论在比较教育第三代际中的实证经验主义演进与合法化借口实质。 |

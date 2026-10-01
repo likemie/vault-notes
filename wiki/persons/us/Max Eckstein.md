@@ -9,7 +9,7 @@ summary: "美籍著名比较教育学家，纽约城市大学皇后学院教育�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 55
+person_related_count: 56
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -66,6 +66,7 @@ related_persons:
   - "[[Harold Noah]]"
   - "[[Andreas Kazamias]]"
   - "[[Robert Cowen]]"
+  - "[[Bernard Barber]]"
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
   - "[[George Bereday]]"
@@ -163,7 +164,7 @@ updated: 2026-10-01
 >
 > *The [[Research in Schools Evaluation|RISE]] of quantitative empirical research, the greater availability of numerical data, an improved technology for storing, manipulating and retrieving data, and the widespread use of new statistical techniques had improved the scientific character of the social science approach in dealing with problems of bias, tendentiousness and even caprice and willfulness; hence their call for the accession of comparative education into the realm of social sciences, especially as it concerns the adoption of empirical and quantitative methods of inquiry.*
 
-> [!citation-card] 巴伯的方法论主义批判与实证社会科学的[[Social Science as Legitimation Alibi|合法化借口]]
+> [!citation-card] [[Bernard Barber|巴伯]]的方法论主义批判与实证社会科学的[[Social Science as Legitimation Alibi|合法化借口]]
 > 卡扎米亚斯援引科学社会学家伯纳德·巴伯（Bernard Barber, 1972）对“方法论主义（[[Empiricism|Methodologism]]）”的批评指出，哥大学派等实证主义学者将科学简化为单一全能的统计操作技术，将研究形式与价值判断、道德伦理及不可测量的人文精神割裂开来，并用抽象变量抹杀了国家具体的历史文化土壤。在冷战与第三世界现代化热潮中，这种宣称“[[Value Neutrality|价值中立]]”的实证模型，深度充当了国家五年计划、[[Human Capital Theory|人力资本]]扩张与国际技术援助（[[World Bank|世界银行]]、美国国际开发署）的[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi），将深刻的政治选择与不平等再生产遮蔽在[[Technical Rationality|技术理性]]的外衣之下。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149, 151–152)]]
 
 ---
@@ -191,7 +192,7 @@ updated: 2026-10-01
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 考恩分析埃克斯坦与诺亚的奠基性著作对学科合法性的支持，并探讨未来重写学科史的[[Paradigm|范式]]可能。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯回顾诺亚与埃克斯坦在 1960 年代对历史比较学派的实证主义批评，并对其狭隘科学观展开[[Epistemology|认识论]]辩护。
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统梳理战后第三代际哥大学派的量化实证纲领，评析“以[[Variable|变量]]替代系统”的方法论教条与[[Multiple Regression|多元回归]][[Hypothesis|假设]]，并基于巴伯的方法论主义揭示其实证模型充当冷战技术援助[[Social Science as Legitimation Alibi|合法化借口]]的实质。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统梳理战后第三代际哥大学派的量化实证纲领，评析“以[[Variable|变量]]替代系统”的方法论教条与[[Multiple Regression|多元回归]][[Hypothesis|假设]]，并基于[[Bernard Barber|巴伯]]的方法论主义揭示其实证模型充当冷战技术援助[[Social Science as Legitimation Alibi|合法化借口]]的实质。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 评析埃克斯坦与诺亚在科学范式中建立的变量函数共变模型，及其审慎不称“法则”的方法论自省与战后政策规划取向。
 
 ---
@@ -248,7 +249,7 @@ updated: 2026-10-01
 > > 针对埃克斯坦与诺亚力推的跨国量化技术，批判学者揭露了实证主义“[[Value Neutrality|价值中立]]”面具背后的政治功能。
 > >
 > > - **Noah & Eckstein（1969）** 坚信跨国变量统计与客观测量能够根除研究中的主观偏见与政治偏好，为政策干预提供客观依据。
-> > - **[[Andreas Kazamias]] & Bernard Barber（1972, 2009a）** 揭露方法论主义将研究简化为冰冷数字汇编的危害，指出客观中立的变量模型在冷战时期深度沦为国家五年计划与第三世界技术援助的合法化借口。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
+> > - **[[Andreas Kazamias]] & [[Bernard Barber]]（1972, 2009a）** 揭露方法论主义将研究简化为冰冷数字汇编的危害，指出客观中立的变量模型在冷战时期深度沦为国家五年计划与第三世界技术援助的合法化借口。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 
 > [!critique]- 批评与局限索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 尖锐批判哥大学派“以变量替代系统”的教条抹杀了国家具体的历史土壤，揭露战后量化实证范式充当国家五年计划与国际机构技术援助合法化借口的政治功能。

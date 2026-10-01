@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md",
+                "file": "wiki/persons/germany/Wolfgang Mitter.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Kazamias_2009_HistoricalReflections"
+              "title": "Wolfgang Mitter"
             }
           }
         ],
@@ -272,12 +272,23 @@
   },
   "active": "ce0c3314a2a583a3",
   "lastOpenFiles": [
+    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mitter_2009_Europe.md",
+    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md",
+    "wiki/concepts/comparative-education/Protean Episteme.md",
+    "wiki/persons/us/Andreas Kazamias.md",
+    "wiki/persons/us/Crane Brinton.md",
+    "wiki/persons/us/Bernard Barber.md",
+    "wiki/persons/uk/Robin Alexander.md",
+    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rust_2009_Reflections.md",
+    "wiki/persons/us/Val D. Rust.md",
+    "wiki/persons/us/Rolland Paulston.md",
+    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md",
+    "wiki/concepts/comparative-education/Comparative Pedagogy.md",
     "raw/w19687.pdf",
     "raw/retrieve.pdf",
     "raw/1-s2.0-S0160791X07000668-main.pdf",
     "scratch_ch10_text.txt",
     "wiki/persons/us/Isaac Kandel.md",
-    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md",
     "wiki/concepts/research-methodology/Unit of Analysis.md",
     "wiki/concepts/comparative-education/Scholiocentric Approach.md",
     "wiki/concepts/educational-philosophy/Scientism.md",
@@ -288,19 +299,9 @@
     "wiki/concepts/educational-philosophy/Empiricism.md",
     "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md",
     "wiki/concepts/educational-philosophy/Determinism.md",
-    "wiki/concepts/comparative-education/Protean Episteme.md",
     "wiki/theories/comparative-education/World-Systems Theory.md",
     "wiki/methods/qualitative/Ethnography.md",
     "wiki/methods/qualitative/Fieldwork.md",
-    "wiki/persons/us/Joel Samoff.md",
-    "wiki/concepts/educational-philosophy/Disciplina and Doctrina.md",
-    "wiki/persons/us/Immanuel Wallerstein.md",
-    "wiki/persons/us/Robert Arnove.md",
-    "wiki/persons/us/John W. Meyer.md",
-    "wiki/theories/comparative-education/Dependency Theory.md",
-    "wiki/persons/us/Crane Brinton.md",
-    "wiki/concepts/educational-philosophy/Falsification.md",
-    "wiki/concepts/research-methodology/Hypothesis.md",
     "books/Cowen(Ed.)_2009_Springer/Ch10_Kazamias_2009.pdf",
     "wiki/concepts/policy-borrowing",
     "tmp/pdfs/ch07/page-214.png",
@@ -316,7 +317,6 @@
     "tmp/pdfs/ch07",
     "books/Cowen(Ed.)_2009_Springer/Ch09_Rust_Johnstone_Allaf_2009.pdf",
     "wiki/persons/schools",
-    "wiki/facts/united-states",
-    "wiki/facts/venezuela"
+    "wiki/facts/united-states"
   ]
 }

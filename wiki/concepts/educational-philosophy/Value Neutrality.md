@@ -10,7 +10,7 @@ aliases:
 summary: "主张科学研究应排除研究者主观价值偏见并保持程序中立的认识论规范；在启蒙发轫期曾被道德改良统摄，在韦伯与20世纪实证学派中被法典化为科学基石，而在批判理论与当代循证反思中被解构为服务于数字审计治理的权力意识形态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 83
+related_count: 84
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -73,6 +73,7 @@ related_persons:
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[Marc-Antoine Jullien]]"
+  - "[[Bernard Barber]]"
   - "[[Andreas Kazamias]]"
   - "[[Horace Mann]]"
   - "[[Michael Sadler]]"
@@ -154,7 +155,7 @@ updated: 2026-10-01
 >
 > *In empirical studies 'too little attention is usually paid to conceptual analysis prior to operationalising variables', as it is assumed that 'unambiguous and meaningful indicators can be identified and operationalised' without due consideration of the different meanings, different ideologies and value systems they endow concepts with (Holmes, 1981, p. 68).*
 
-> [!citation-card] 卡扎米亚斯与巴伯论现代主义科学对价值中立的机械幻想
+> [!citation-card] 卡扎米亚斯与[[Bernard Barber|巴伯]]论现代主义科学对价值中立的机械幻想
 > 伯纳德·巴伯（Bernard Barber, 1972）与[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Kazamias, 2009a）深刻剖析了现代主义科学观对“价值中立”的机械幻觉：这种思潮错误地预设了一种“客观、价值中立的探究形式”，宣称只要尽职地应用特定的方法与技术，便能获得[[Reliability|可靠性]]、精确性与确定性——而全然无视所研究对象的独特性质；更严重的是，这种实证方法论主义把科学从形式、价值、美与善中彻底切断，将追求客观性蜕变为推卸政治责任与忽视伦理正义的技术借口。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 148)]]
 >
 > *Modernist view of science assumes an objective, value-free form of inquiry where reliability, precision and certitude can be attained by the dutiful application of specific methods and techniques, irrespective of the nature of the subject under study... cutting science off from form, value, beauty and goodness.*
@@ -228,7 +229,7 @@ updated: 2026-10-01
 > **[[Operationalization\|操作化]]指标的假中立与概念价值渗透** 针对实证主义阵营声称的价值中立，霍姆斯（Holmes, 1981）展开了深刻的方法论反思。他指出实证派在[[Variable\|变量]]操作化之前严重缺乏概念分析，误以为能够提炼出毫无歧义的客观中立指标，却忽视了概念本身不可避免地浸润着特定的意识形态与价值体系；这种唯量化取向抽空了[[Michael Sadler\|萨德勒]]所谓的“活的精神”，且其实际推行的科学规划深度迎合了战后中央集权理性规划与国际援助机构（如[[World Bank\|世界银行]]、AID）的技术官僚政治诉求。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 64, 66–67)]]
 
 > [!claim] Barber, B. & Kazamias, A. M.
-> **现代主义科学观对价值中立的机械迷信** 伯纳德·巴伯（Bernard Barber, 1972）与安德烈亚斯·卡扎米亚斯（Kazamias, 2009a）深刻剖析了现代主义科学观对“价值中立”的机械幻觉：这种思潮错误地预设了一种“客观、价值中立的探究形式”，宣称只要尽职地应用特定的方法与技术，便能获得[[Reliability|可靠性]]、精确性与确定性——而全然无视所研究对象的独特性质；其实质是将科学探究同人文形式、伦理价值、社会目的与美善彻底切断，把对价值中立的标榜异化为免除社会伦理责任的技术主义借口。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 148)]]
+> **现代主义科学观对价值中立的机械迷信** [[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1972）与安德烈亚斯·卡扎米亚斯（Kazamias, 2009a）深刻剖析了现代主义科学观对“价值中立”的机械幻觉：这种思潮错误地预设了一种“客观、价值中立的探究形式”，宣称只要尽职地应用特定的方法与技术，便能获得[[Reliability|可靠性]]、精确性与确定性——而全然无视所研究对象的独特性质；其实质是将科学探究同人文形式、伦理价值、社会目的与美善彻底切断，把对价值中立的标榜异化为免除社会伦理责任的技术主义借口。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 148)]]
 
 > [!claim] Smith, M. L. & [[Gene Glass\|Glass, G.]] V.
 > **价值立场作为区分研究与评估的核心边界** 价值处理方式是区分纯科学研究（Research）与实践项目评估（Evaluation）的根本标尺：研究的认识论旨趣在于探寻去情境的普适因果律，因而追求价值中立；而评估是为了具体的民主决策与制度改进，必须系统收集并如实呈现多方利益相关者冲突的价值立场。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, p. 34)]]
@@ -289,7 +290,7 @@ updated: 2026-10-01
 > - **1904–1917 — 韦伯确立社会学价值自由（Wertfreiheit）规范** [[Max Weber\|马克斯·韦伯]]系统阐明价值中立原则，界定经验事实解释与政策价值推崇的边界，倡导学者保持学术清醒。
 > - **1958–1969 — 比较教育[[Positivism\|实证主义]]运动发动清理“价值负荷”的[[Epistemology\|认识论]]围剿** Templeton（1958）与诺亚、埃克斯坦（1969）以价值中立为标尺，批判传统历史哲学的“价值负荷”与“主观倾向”，推动学科向纯粹量化统计与客观假说检验转型。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 61, 65)]]
 > - **1961 — 卡扎米亚斯界定比较教育学的三重价值取向轴线** 卡扎米亚斯（Kazamias, 1961）在方法论反思中提出核心抉择：比较教育研究应当是[[Educational Meliorism|改良主义]]的（melioristic）、[[Ideology Critique|意识形态批判]]的（ideological）还是严格价值中立的（strictly neutral）；拉斯特等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009, p.128]]）将其总结为学科科学化进程中持续交织的根本方法论张力。
-> - **1960s–1970s — 现代主义科学观的价值中立迷信与唯方法论反思** 卡扎米亚斯（Kazamias, 2009a）与巴伯（Barber, 1972）指出芝加哥学派与哥大学派追求“客观、价值中立的探究形式”，将[[Reliability|可靠性]]建立在机械应用测量技术之上，割裂了科学与伦理美善的联系。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 148)]]
+> - **1960s–1970s — 现代主义科学观的价值中立迷信与唯方法论反思** 卡扎米亚斯（Kazamias, 2009a）与[[Bernard Barber|巴伯]]（Barber, 1972）指出芝加哥学派与哥大学派追求“客观、价值中立的探究形式”，将[[Reliability|可靠性]]建立在机械应用测量技术之上，割裂了科学与伦理美善的联系。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 148)]]
 > - **1970–1980 年代 — [[Critical Theory\|批判理论]]与多[[Paradigm\|范式]]大解构** [[Critical Theory\|批判理论]]、女性主义与[[Post-colonial Theory\|后殖民理论]]彻底打破价值中立神话，揭示中立修辞掩盖西方男性霸权与阶级压迫的实质。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]]
 > - **1977–1991 — [[Policy Science in Comparative Education\|政策科学]]解构中立[[Technical Rationality\|技术理性]]神话** [[Carol Weiss\|卡罗尔·韦斯]]（Weiss, 1977, 1991）揭示政策制定天然关乎价值权衡，确立研究主要充当政治合法化“燃料而非引擎”的经典命题。
 > - **1981 — 霍姆斯批判实证[[Operationalization\|操作化]]的假中立与价值渗透** 霍姆斯（Holmes, 1981）指出操作化指标无法脱离文化价值系统而存在，实证派的中立口号实质上服务于战后中央理性规划与国际援助机构的技术官僚治理。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 64, 66)]]
@@ -348,7 +349,7 @@ updated: 2026-10-01
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 剖析战后实证学派如何通过清除“价值负荷”确立科学身份，同时系统梳理霍姆斯对实证派指标[[Operationalization\|操作化]]假中立的尖锐批判，揭示中立口号与战后理性规划技术官僚体制的共生关系。
 > - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] — 深入剖析英国 [[Education Endowment Foundation\|EEF]] 工具包等循证实践，揭示技术官僚如何借助“价值中立证据”的科学修辞，回避关于工人阶层贫困与资本主义教育不平等的根本性政治辩论，消解教师的[[Professional Judgment\|专业判断力]]。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 系统剖析早期比较教育文献，指出[[Marc-Antoine Jullien\|朱利安]][[Questionnaire\|问卷]]对道德宗教与全人[[Bildung\|教化]]的鲜明预设绝非研究“缺陷”，而是欧陆[[Geisteswissenschaften|精神科学]]中经验事实服从于社会伦理改良的必然要求，强力清算了实证派的教条指责。
-> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 梳理两百年比较教育学术流变，结合巴伯（Barber, 1972）与卡诺伊（Carnoy, 1983）论述，深刻解构战[[Postpositivism|后实证主义]]对“价值中立探究”的机械幻想，揭示其抽空教育伦理关切并沦为资本主义再生产与国家规划政治借口（alibi）的意识形态本质。
+> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 梳理两百年比较教育学术流变，结合[[Bernard Barber|巴伯]]（Barber, 1972）与卡诺伊（Carnoy, 1983）论述，深刻解构战[[Postpositivism|后实证主义]]对“价值中立探究”的机械幻想，揭示其抽空教育伦理关切并沦为资本主义再生产与国家规划政治借口（alibi）的意识形态本质。
 > - [[Argument_Biesta_2010_SPE\|Biesta (2010)]] — 论述教育不仅关乎技能传授的效率，更关乎民主公民的培育与自主主体的生成；将教育决策托付给去价值的中立实证数据，是对教育民主本质的重大背叛。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] — 剖析脑科学证据如何被包装为“不偏不倚的自然科学真理”，从而合法化国家对初等教育课程控制权的强行收紧。
 > - [[Argument_Rambla_2022_Springer\|Rambla (2022)]] — 揭示 [[PISA]] 等国际大型测评所宣称的“客观中立比较”，实际上深度嵌入了全球资本主义竞争的政治经济学逻辑。

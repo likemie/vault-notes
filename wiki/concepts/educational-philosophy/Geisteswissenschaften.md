@@ -11,7 +11,7 @@ aliases:
 summary: "19世纪末由德国哲学家威廉·狄尔泰系统奠基的人文与社会研究知识传统。主张精神科学（以历史、文化、社会与教育为对象）与自然科学具有根本的认识论分野：自然科学旨在通过外在因果规律“说明”自然现象，而精神科学则通过生命体验的内在重构与历史脉络进行“理解”与“解释”。安德烈亚斯·卡扎米亚斯将其视为比较教育学作为普罗透斯式认识体系的核心学术母体，揭示其实证主义放逐所导致的历史健忘症危机。"
 type: concept
 domain: "educational-philosophy"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -76,6 +76,7 @@ related_persons:
   - "[[Wolfgang Mitter]]"
   - "[[Nicholas Hans]]"
   - "[[Andreas Kazamias]]"
+  - "[[Bernard Barber]]"
   - "[[Immanuel Kant]]"
 related_facts:
   - "[[IEA]]"
@@ -202,7 +203,7 @@ updated: 2026-10-01
 > 揭示二战后实证科学化运动放逐精神科学传统所付出的认识论代价，诊断当代学科因丢失历史而面临的认识论贫困。
 
 > [!claim] Barber, B. and Kazamias, A. M.
-> **[[Empiricism|唯方法论主义]]对实证科学神话的实质性解构** 伯纳德·巴伯（Bernard Barber, 1973）与卡扎米亚斯深刻指出，战后英美比较教育学掀起的实证运动陷入了严重的唯方法论主义（Methodologism）。该倾向错误地预设存在通行一切领域的单一通用方法，以为只要采用[[Multiple Regression|多元回归]]、[[Variable|变量]][[Operationalization|操作化]]与[[Questionnaire|问卷调查]]就能自动产出科学真理。唯方法论主义将技术工具误当成实质知识，彻底剥离了教育背后的历史文化根基与道德伦理关怀，使研究退化为服务于国家规划与技术援助的行政治理[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 148–151)]]
+> **[[Empiricism|唯方法论主义]]对实证科学神话的实质性解构** [[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1973）与卡扎米亚斯深刻指出，战后英美比较教育学掀起的实证运动陷入了严重的唯方法论主义（Methodologism）。该倾向错误地预设存在通行一切领域的单一通用方法，以为只要采用[[Multiple Regression|多元回归]]、[[Variable|变量]][[Operationalization|操作化]]与[[Questionnaire|问卷调查]]就能自动产出科学真理。唯方法论主义将技术工具误当成实质知识，彻底剥离了教育背后的历史文化根基与道德伦理关怀，使研究退化为服务于国家规划与技术援助的行政治理[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 148–151)]]
 
 > [!claim] Kazamias, A. M.
 > **放逐精神科学导致当代学科罹患历史健忘症** 卡扎米亚斯通过梳理拉斯特（Val D. Rust, 1999）与拉森（Marianne Larsen, 2001）对旗舰期刊数十年的[[Content Analysis|内容分析]]数据证实：战[[Postpositivism|后实证主义]]对精神科学与历史学传统的系统性放逐，导致学科在世纪之交面临严重的意识形态与方法论虚热——期刊发表中历史研究的份额出现雪崩式[[Attrition|流失]]，比较教育学患上了深重的历史健忘症（Historical Amnesia）。卡扎米亚斯警示，失去精神科学底蕴的比较教育学将沦为无根的技术官僚拼贴，必须重新建立历史学与社会科学的综合纲领。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 155–156)]]

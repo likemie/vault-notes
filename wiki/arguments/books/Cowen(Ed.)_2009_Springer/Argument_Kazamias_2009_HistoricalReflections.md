@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_HistoricalReflections"
 argument_key: "Argument_Kazamias_2009_HistoricalReflections"
 argument_display_title: "Comparative Education: Historical Reflections"
 argument_kind: "book-chapter"
-argument_related_count: 64
+argument_related_count: 70
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -60,10 +60,12 @@ related_concepts:
   - "[[Teaching Assistant]]"
   - "[[Causality]]"
   - "[[Liberal Education]]"
+  - "[[Return on Investment]]"
   - "[[Problem Solving]]"
   - "[[Hypothesis]]"
   - "[[Falsification]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Comparative Pedagogy]]"
   - "[[Intangible Spiritual Forces]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -80,6 +82,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Nicholas Hans]]"
+  - "[[Bernard Barber]]"
   - "[[Martin Carnoy]]"
   - "[[Michael Sadler]]"
   - "[[Isaac Kandel]]"
@@ -91,14 +94,17 @@ related_persons:
   - "[[Robert Ulich]]"
   - "[[C. Arnold Anderson]]"
   - "[[Philip Foster]]"
+  - "[[George Psacharopoulos]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[Brian Holmes]]"
   - "[[Crane Brinton]]"
+  - "[[Rolland Paulston]]"
   - "[[John W. Meyer]]"
   - "[[Robert Arnove]]"
   - "[[Immanuel Wallerstein]]"
   - "[[Joel Samoff]]"
+  - "[[Robin Alexander]]"
 related_facts:
   - "[[IEA]]"
   - "[[Research Strategies in Comparative Education]]"
@@ -136,7 +142,7 @@ updated: 2026-10-01
 > |---|---|
 > | **[[Protean Episteme\|普罗透斯式认识体系]]**<br>Protean Episteme | 借用希腊神话普罗透斯能够随心所欲变换形态的隐喻，揭示比较教育学在不同历史时期身披由不同颜色[[Epistemology\|认识论]]、方法论和意识形态丝线编织的华服，其[[Knowledge Production\|知识生产]]深刻依附于时代文化与政治诉求。（pp.139–140） |
 > | **广义教育科学**<br>*Vergleichende Erziehungswissenschaft* | 承继[[Nicholas Hans\|尼古拉斯·汉斯]]（Nicholas Hans）与欧陆[[Geisteswissenschaften\|人文科学]]传统，主张科学是对人类、文化与社会现象的系统化研究，坚决抗拒英语世界将科学狭隘等同于行为量化实证的专断定义。（p.139） |
-> | **方法论主义批判**<br>Critique of Methodologism | 援引伯纳德·巴伯（Bernard Barber）的科学社会学批判，揭露将科学简化为单一全能操作技术的虚妄，指出方法论主义将研究形式与价值、至善及不可测量之物割裂的认识论危害。（pp.147–149） |
+> | **方法论主义批判**<br>Critique of Methodologism | 援引[[Bernard Barber\|伯纳德·巴伯]]（Bernard Barber）的科学社会学批判，揭露将科学简化为单一全能操作技术的虚妄，指出方法论主义将研究形式与价值、至善及不可测量之物割裂的认识论危害。（pp.147–149） |
 > | **波普尔假说-演绎法与权变社会学法则** | 借鉴卡尔·波普尔（Karl Popper）的科学哲学与布赖恩·霍姆斯（Brian Holmes）的 $L + I = P$ 架构，将科学预测建立在明确的初始情境条件之上，破除绝对宿命历史规律。（pp.149–151） |
 > | **修正主义新马克思主义国家理论** | 借助马丁·[[Martin Carnoy\|卡诺伊]]（Martin Carnoy）的国家理论，将学校定义为阶级再生产（对应性）与大众民主化诉求（矛盾性）激烈博弈的竞技场，破除正统马克思主义的机械单向决定论。（pp.153–154） |
 
@@ -282,7 +288,7 @@ updated: 2026-10-01
 在这一时期，追求科学化的学者内部形成了三种不同的研究路径：
 
 > [!tension] 战后三大科学流派在研究取向上的分歧
-> - **芝加哥学派的结构功能分析（强调恒常社会规律）** [[C. Arnold Anderson|阿诺德·安德森]]（C. Arnold Anderson）与[[Philip Foster|菲利普·福斯特]]（Philip Foster）将社会学的功能分析引入教育研究，重点考察学校教育在社会分流、人才选拔和人力资源开发中的客观作用，试图找出不受具体时空限制的教育运行普遍规律。（pp.146–147）
+> - **芝加哥学派的结构功能分析（强调恒常社会规律）** [[C. Arnold Anderson|阿诺德·安德森]]（C. Arnold Anderson）与[[Philip Foster|菲利普·福斯特]]（Philip Foster）将社会学的功能分析引入教育研究，重点考察学校教育在社会分流、人才选拔和人力资源开发中的客观作用，试图找出不受具体时空限制的教育运行普遍规律；随后乔治·普萨哈罗普洛斯（[[George Psacharopoulos]]）等人更将[[Human Capital Theory|人力资本理论]]推向计量极致，试图以跨国[[Return on Investment|教育投资回报率]]函数建立全球通用的预测模型。（pp.146–147）
 > - **哥大学派的跨国变量因果测算（强调量化实证指标）** [[Harold Noah|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein）在 1969 年《走向比较教育科学》中，极力主张用标准化的变量名称替代具体的国别名称，通过[[IEA|国际教育成就评价协会]]（International Association for the Evaluation of Educational Achievement, IEA）等大规模跨国测试数据和多元统计分析，寻找变量之间跨越国界的因果关系。（pp.147–149）
 > - **伦敦学派的情境[[Problem Solving|问题解决]]方法（强调条件限定下的预测）** [[Brian Holmes|布赖恩·霍姆斯]]（Brian Holmes）借鉴波普尔的科学哲学，提出比较研究不能脱离具体的制度背景；科学法则必须结合各国的具体初始条件，才能对教育改革的后果做出审慎的条件性推测。（pp.149–151）
 
@@ -314,7 +320,7 @@ updated: 2026-10-01
 
 #### 4. 对过度技术化方法论的批评与对历史研究价值的重申
 
-对科学量化手段的盲目推崇很快引来了深刻反思。社会学家伯纳德·巴伯（Bernard Barber, 1972）对方法论主义（[[Empiricism|Methodologism]]）的剖析，指出了这种技术狂热的实质弊端：
+对科学量化手段的盲目推崇很快引来了深刻反思。社会学家[[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1972）对方法论主义（[[Empiricism|Methodologism]]）的剖析，指出了这种技术狂热的实质弊端：
 
 > [!critique-method] 唯方法论主义的三重弊端
 > 1. **迷信单一全能的研究方法** 错误地预设世界上存在一套通行于所有学科的统一方法，认为不管研究对象的历史和文化差异有多大，只要照搬量化指标与统计程序就能得出真理。
@@ -333,7 +339,7 @@ updated: 2026-10-01
 > [!claim] 步骤四核心主张
 > 1970 年代兴起的马克思主义、[[Dependency Theory|依附理论]]与批判政治经济学，打破了把学校视为中立育人机构的传统幻想，指出学校既是维系阶级不平等的工具，也是大众争取平等权利的博弈场所；然而，比较教育在世纪之交拥抱多元研究视角的同时，却极度边缘化了历史研究方法，导致学科严重丧失历史视野。（pp.152–156）
 
-实证功能主义在 20 世纪 70 年代遭遇了激进冲突学派的强力挑战。罗兰·保尔斯顿（Rolland Paulston）与卡扎米亚斯等人将权力、阶级剥削、意识形态支配和资本主义国家等批判概念引入比较教育，把学校从“推动社会现代化的中立钥匙”拉回到阶级利益博弈的真实社会现实中。（pp.152–153）
+实证功能主义在 20 世纪 70 年代遭遇了激进冲突学派的强力挑战。[[Rolland Paulston|罗兰·保尔斯顿]]（Rolland Paulston）与卡扎米亚斯等人将权力、阶级剥削、意识形态支配和资本主义国家等批判概念引入比较教育，把学校从“推动社会现代化的中立钥匙”拉回到阶级利益博弈的真实社会现实中。（pp.152–153）
 
 #### 1. 世界体系依附论与学校内部双重矛盾的理论突破
 
@@ -357,7 +363,7 @@ updated: 2026-10-01
 
 > [!dimension] 英国比较教育传统的三个学术特质
 > - **回归具体的课堂教学研究**
->   罗宾·亚历山大（Robin Alexander）等人将研究重心重新拉回到中小学课堂与教学过程本身，关注学生究竟如何学习。
+>   [[Robin Alexander|罗宾·亚历山大]]（Robin Alexander）等人开创[[Comparative Pedagogy|比较教学论]]（Comparative Pedagogy）研究路径，将研究重心重新拉回到中小学课堂与教学过程本身，关注学生究竟如何学习。
 > - **扎根文化土壤与人文关怀**
 >   始终坚持把教育放在深厚的历史文化背景中理解，研究风格相对注重人的发展，较少单纯屈从于功利的经济考量。
 > - **稳健审慎的学风**

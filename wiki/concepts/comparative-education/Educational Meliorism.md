@@ -7,7 +7,7 @@ aliases:
 summary: "源自拉丁语更好之意且以改善社会与人类境况为根本导向的探究旨趣，是贯穿19世纪比较与国际教育发端的统治性认识论母题"
 type: concept
 domain: "comparative-education"
-related_count: 69
+related_count: 70
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -80,6 +80,7 @@ related_persons:
   - "[[Niklas Luhmann]]"
   - "[[Martin Carnoy]]"
   - "[[Robert Arnove]]"
+  - "[[Rolland Paulston]]"
   - "[[Brian Holmes]]"
 related_facts:
   - "[[Prussian Draft Education Law of 1819]]"
@@ -298,7 +299,7 @@ updated: 2026-10-01
 > 探讨 1970–1990 年代激进政治经济学如何彻底打破改良主义的国家中立幻象，将改良主义升华为支持民主转型、抵抗[[Hegemony|文化霸权]]与赋权边缘阶级的批判解放事业。
 
 > [!claim] [[Martin Carnoy|Carnoy, M.]] & [[Robert Arnove|Arnove, R.]]
-> **打破国家中立神话并确立批判解放型改良主义** 卡诺伊、阿诺夫与保尔斯顿（Rolland Paulston）等第四代批判学者彻底重构了改良主义的性质。卡诺伊借助修正主义新马克思主义国家理论，将学校定义为阶级再生产（对应性）与大众民主化诉求（矛盾性）激烈博弈的矛盾竞技场，破除正统马克思主义的机械单向[[Determinism|决定论]]。在批判冲突范式下，改良主义不再是协助资本主义主权国家缝补社会裂痕的技术修补匠，而是升华为“批判解放型改良主义（Critical-Emancipatory Meliorism）”——致力于在资本主义世界体系与第三世界转型国家中揭露文化帝国主义与教育分层再生产机制，赋权草根被压迫群体，使跨国教育探究直接服务于广泛的社会民主化与激进制度变革。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–155)]]
+> **打破国家中立神话并确立批判解放型改良主义** 卡诺伊、阿诺夫与[[Rolland Paulston|保尔斯顿]]（Rolland Paulston）等第四代批判学者彻底重构了改良主义的性质。卡诺伊借助修正主义新马克思主义国家理论，将学校定义为阶级再生产（对应性）与大众民主化诉求（矛盾性）激烈博弈的矛盾竞技场，破除正统马克思主义的机械单向[[Determinism|决定论]]。在批判冲突范式下，改良主义不再是协助资本主义主权国家缝补社会裂痕的技术修补匠，而是升华为“批判解放型改良主义（Critical-Emancipatory Meliorism）”——致力于在资本主义世界体系与第三世界转型国家中揭露文化帝国主义与教育分层再生产机制，赋权草根被压迫群体，使跨国教育探究直接服务于广泛的社会民主化与激进制度变革。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–155)]]
 
 > [!claim] Kazamias, A. M.
 > **历史维度[[Attrition|流失]]导致改良主义在世纪之交罹患历史健忘症** 卡扎米亚斯总结两百年论述代际演进指出，第四代批判范式在丰富改良主义解放维度的同时，学科内部由于片面放逐历史-哲学传统而付出了沉重代价：世纪之交的期刊计量数据揭示出历史研究份额的断崖式跌落，比较教育学陷入了深重的“历史健忘症（Historical Amnesia）”。卡扎米亚斯警示，如果丢失了扎实的历史发生学考据与古典人道道德底座，改良主义要么退化为缺乏理论自省的技术官僚数字指标拼贴，要么沦为空洞悬浮的激进意识形态标语；唯有重建历史学与社会科学的理性综合，才能在现代语境下守护教育改良主义健康而富有批判力量的学术生命。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 155–156)]]
@@ -329,7 +330,7 @@ updated: 2026-10-01
 > - **1830–1850 — 民族国家建制与行政-政治改良双轨分化阶段** [[Victor Cousin\|库森]]以国家公共资源法哲学主笔 1833 年[[Guizot Law of 1833\|基佐法案]]，开创欧陆实定法直接转置范式；[[Horace Mann\|霍勒斯·曼]]发表《[[Seventh Annual Report of the Massachusetts Board of Education\|第七次年度报告]]》，开创北美动用外部实绩作为国内改革政治合法化依据的范式。（pp. 24–34）
 > - **1900–1950 — 历史改良主义与哲学涵养阶段** [[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]开创[[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]]，将改良主义由直接行政借用转向探寻[[Intangible Spiritual Forces\|校外无形精神力量]]，主张通过比较理解涵养哲学态度以服务民主自省与国际主义。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 40, 44–46)]]
 > - **1960年代 — 行为[[Positivism\|实证主义]]批判与“技术改良主义”[[Social Science as Legitimation Alibi|合法化借口]]阶段** 贝雷迪、诺亚、埃克斯坦与霍姆斯等学者指责历史学派充斥主观愿望与道德说教；但实证[[Scientific Paradigm|科学范式]]并未放弃改良，而是将改良主义重构为服务国家五年计划、[[Human Capital Theory\|人力资本]]预测与外援工程的“技术改良主义（Technocratic Meliorism）”，沦为技术官僚推卸决策责任的行政治理合法化借口。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 60–64)]]；[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 144–151)]]
-> - **1970s–1990s — 批判冲突范式与“批判解放型改良主义”兴起** 新马克思主义、[[World-Systems Theory|世界体系分析]]与依赖理论学者（卡诺伊、[[Robert Arnove|阿诺夫]]、保尔斯顿）打破国家中立假象，揭示学校作为阶级矛盾博弈竞技场，将改良主义升华为解构资本主义再生产不平等与赋权第三世界草根社会变革的“批判解放型改良主义”。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 152–155)]]
+> - **1970s–1990s — 批判冲突范式与“批判解放型改良主义”兴起** 新马克思主义、[[World-Systems Theory|世界体系分析]]与依赖理论学者（卡诺伊、[[Robert Arnove|阿诺夫]]、[[Rolland Paulston|保尔斯顿]]）打破国家中立假象，揭示学校作为阶级矛盾博弈竞技场，将改良主义升华为解构资本主义再生产不平等与赋权第三世界草根社会变革的“批判解放型改良主义”。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 152–155)]]
 > - **1970s–1990s — 欧洲政策咨询光谱中的适度改良功能** 面对两德分裂与冷战现实，欧洲主流比较教育学者（如米特、安维勒）在[[Niklas Luhmann|卢曼]]激进疏离与罗宾逊激进干预之间确立温和立场，明确接受比较教育的“适度改良功能（melioristic function）”，以[[Navigation Metaphor in Comparative Education|航海隐喻]]提供方案预测而非操纵决策。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 95–96)]]
 > - **2000年代至今 — 历史健忘症反思与跨文化一线微观改良合流** 卡扎米亚斯诊断出学科在多元范式扩张表象下的“历史健忘症”，呼吁重构历史学与社会科学的综合纲领以守护改良主义的人文批判灵魂；同时，[[Intercultural Education|跨文化教育]]的崛起将改良主义引向教科书、课程与多元文化族群整合的一线教学论微观实践。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 155–156)]]; [[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 97–98)]]
 

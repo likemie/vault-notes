@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Wolfgang Mitter",
+      "path": "wiki/persons/germany/Wolfgang Mitter.md"
+    },
+    {
+      "basename": "Argument_Mitter_2009_Europe",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mitter_2009_Europe.md"
+    },
+    {
       "basename": "Argument_Kazamias_2009_HistoricalReflections",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md"
+    },
+    {
+      "basename": "Protean Episteme",
+      "path": "wiki/concepts/comparative-education/Protean Episteme.md"
+    },
+    {
+      "basename": "Andreas Kazamias",
+      "path": "wiki/persons/us/Andreas Kazamias.md"
+    },
+    {
+      "basename": "Crane Brinton",
+      "path": "wiki/persons/us/Crane Brinton.md"
+    },
+    {
+      "basename": "Argument_Rust_2009_Reflections",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rust_2009_Reflections.md"
+    },
+    {
+      "basename": "Val D. Rust",
+      "path": "wiki/persons/us/Val D. Rust.md"
+    },
+    {
+      "basename": "Argument_Mattheou_2009_ScientificParadigm",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md"
     },
     {
       "basename": "Isaac Kandel",
@@ -49,10 +81,6 @@
       "path": "wiki/concepts/educational-philosophy/Determinism.md"
     },
     {
-      "basename": "Protean Episteme",
-      "path": "wiki/concepts/comparative-education/Protean Episteme.md"
-    },
-    {
       "basename": "World-Systems Theory",
       "path": "wiki/theories/comparative-education/World-Systems Theory.md"
     },
@@ -87,10 +115,6 @@
     {
       "basename": "Dependency Theory",
       "path": "wiki/theories/comparative-education/Dependency Theory.md"
-    },
-    {
-      "basename": "Crane Brinton",
-      "path": "wiki/persons/us/Crane Brinton.md"
     },
     {
       "basename": "Falsification",
@@ -175,30 +199,6 @@
     {
       "basename": "Positivism",
       "path": "wiki/concepts/educational-philosophy/Positivism.md"
-    },
-    {
-      "basename": "Human Capital Theory",
-      "path": "wiki/theories/political-economy-geopolitics/Human Capital Theory.md"
-    },
-    {
-      "basename": "Policy Borrowing",
-      "path": "wiki/concepts/comparative-education/Policy Borrowing.md"
-    },
-    {
-      "basename": "Martin Carnoy",
-      "path": "wiki/persons/us/Martin Carnoy.md"
-    },
-    {
-      "basename": "Knowledge Production",
-      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
-    },
-    {
-      "basename": "Document",
-      "path": "wiki/concepts/research-methodology/Document.md"
-    },
-    {
-      "basename": "Geisteswissenschaften",
-      "path": "wiki/concepts/educational-philosophy/Geisteswissenschaften.md"
     }
   ],
   "omittedPaths": [],

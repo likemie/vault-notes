@@ -6,7 +6,7 @@ aliases:
 summary: "实证研究与社会科学中可被测量或观察且在不同个体、组织或系统之间发生变异的特征或属性，是构建假说与检验因果关系的基本分析单位；比较教育实证主义代际通过以概念变量替代国别专名，奠定了跨系统经验假说检验的科学基石。"
 type: concept
 domain: "research-methodology"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -60,6 +60,7 @@ related_instruments: []
 related_persons:
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
+  - "[[Bernard Barber]]"
   - "[[Andreas Kazamias]]"
   - "[[Auguste Comte]]"
 related_facts: []
@@ -255,7 +256,7 @@ updated: 2026-10-01
 > 将复杂社会制度过度切割为孤立统计变量，会剥离制度的文化厚度与价值目的。
 
 > [!claim] Barber (1972); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]]
-> **方法论主义对历史脉络的抽空** 埃利诺·巴伯（Elinor Barber）与卡扎米亚斯对[[Positivism|实证主义]]的“变量崇拜”展开了深刻批评。巴伯指出，将比较探究降格为变量指标的数据拟合与多[[Meta-regression|元回归]]操作，形成了一种狭隘的“方法论主义（[[Empiricism|Methodologism]]）”。这种[[Paradigm|范式]]假定变量在不同国家间具有同质等值性，却忽略了相同名称的变量（如学校投入或教师资格）在不同文化传统与制度矩阵中所具有的完全相异的质性意义，从而割裂了教育现象与社会目的之间的有机纽带。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 147–149)]]
+> **方法论主义对历史脉络的抽空** 埃利诺·[[Bernard Barber|巴伯]]（Elinor Barber）与卡扎米亚斯对[[Positivism|实证主义]]的“变量崇拜”展开了深刻批评。巴伯指出，将比较探究降格为变量指标的数据拟合与多[[Meta-regression|元回归]]操作，形成了一种狭隘的“方法论主义（[[Empiricism|Methodologism]]）”。这种[[Paradigm|范式]]假定变量在不同国家间具有同质等值性，却忽略了相同名称的变量（如学校投入或教师资格）在不同文化传统与制度矩阵中所具有的完全相异的质性意义，从而割裂了教育现象与社会目的之间的有机纽带。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 147–149)]]
 
 ---
 
@@ -276,7 +277,7 @@ updated: 2026-10-01
 > - **19 世纪中后期 — 变量思想萌芽** [[Auguste Comte|奥古斯特·孔德]]与约翰·斯图尔特·密尔在实证哲学中提出共变法（Method of Concomitant Variations），奠定了通过可观察属性的变化推断因果联系的最初逻辑。
 > - **20 世纪初至中期 — 实验设计与测量[[Operationalization|操作化]]确立** 费希尔（Ronald Fisher）开创[[Analysis of Variance|方差分析]]与实验[[Independent Variable|自变量]]/[[Dependent Variable|因变量]]框架；坎贝尔与斯坦利（Campbell & Stanley, 1963）系统确立实验与[[Quasi-Experimental Designs|准实验设计]]中的变量控制与效度标准。
 > - **1960s–1970s — 比较研究中的“以变量替代体系”革命** 诺亚与埃克斯坦在《走向比较教育科学》（1969）及后续论著中明确提出以“概念变量名称”替代“国别体系名称”，推动比较教育从个案历史描述转向跨系统变量假说检验。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 148–149)]]
-> - **1970s — 对变量崇拜与方法论主义的反思** 巴伯发表方法论反思论文，指出将比较研究窄化为变量回归操作的方法论主义弊端，警示抽离社会政治脉络的统计变量存在解释虚妄性。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 147–149)]]
+> - **1970s — 对变量崇拜与方法论主义的反思** [[Bernard Barber|巴伯]]发表方法论反思论文，指出将比较研究窄化为变量回归操作的方法论主义弊端，警示抽离社会政治脉络的统计变量存在解释虚妄性。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 147–149)]]
 > - **1980s 至今 — [[Hierarchical Linear Model|多层线性模型]]与复杂系统整合** 多层线性模型（HLM）的兴起使研究者能够同时处理学生层、学校层与国家层的嵌套变量，兼顾宏观体系特征与微观个体变量的互动。
 
 ---

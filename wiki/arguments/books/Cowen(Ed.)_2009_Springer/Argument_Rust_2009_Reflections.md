@@ -7,7 +7,7 @@ title: "Argument_Rust_2009_Reflections"
 argument_key: "Argument_Rust_2009_Reflections"
 argument_display_title: "Reflections on the Development of Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 118
+argument_related_count: 119
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Bildung]]"
   - "[[Normal School]]"
+  - "[[Comparative Pedagogy]]"
   - "[[Going Native]]"
   - "[[Severability of Politics and Pedagogy]]"
   - "[[Problem Finding]]"
@@ -94,12 +95,12 @@ related_theories:
   - "[[Human Capital Theory]]"
   - "[[Critical Theory]]"
   - "[[Dependency Theory]]"
+  - "[[World-Systems Theory]]"
   - "[[Phenomenology]]"
   - "[[Symbolic Interactionism]]"
   - "[[Post-structuralism]]"
   - "[[Postmodernism]]"
   - "[[Hegemony]]"
-  - "[[World-Systems Theory]]"
   - "[[Thomas Theorem]]"
   - "[[Ecological Systems Theory]]"
 related_methods:
@@ -252,7 +253,7 @@ updated: 2026-10-01
 > [!term] 比较教育学术语的历史源流与概念辨析
 > - **相对优势探讨（1785）** 托马斯·杰斐逊（Thomas Jefferson）在论及美洲教育相对于欧洲的相对优势（comparative advantages）时较早使用了比较修辞。（p.121）
 > - **比较教育命名确立（1826）** 威廉·罗素（William Russell）英译朱利安法文著作时首次确立比较教育（comparative education）英文表述。
-> - **比较教学科学探索（1888–1889）** [[William T. Harris|威廉·T·哈里斯]]（[[William T. Harris]]）主张建立比较教学科学（a science of comparative pedagogy），强调探寻普遍规律。
+> - **比较教学科学探索（1888–1889）** [[William T. Harris|威廉·T·哈里斯]]（[[William T. Harris]]）主张建立比较教学科学（a science of [[Comparative Pedagogy]]），强调探寻普遍规律。
 > - **德语界学术辨析（至今）** 德语学术界持续辨析比较教育科学（Vergleichende Erziehungswissenschaft）与比较教育学（Vergleichende Pädagogik），区分理论探究与实务指导属性。（p.122）
 
 伴随专业教席的设立，奠基学者的人文学科背景塑造了学科早期的知识形态，并与战后实证转型形成了深层对话：
@@ -435,7 +436,7 @@ updated: 2026-10-01
 > 1950–1960 年代，比较教育学曾被结构功能主义与现代化理论（以[[Human Capital Theory|人力资本理论]]与系统论为支柱）高度垄断，形成窒息探索的单一学术正统。自 1970 年代起，随着[[Critical Theory|批判理论]]与[[Interpretivism|解释主义]]范式的崛起，这一正统开始瓦解，令学科走向全面的理论多元化。（pp.131–132）
 
 > [!stat-cards] 学科成熟期的实证计量快照（UCLA 调查成果）
-> - **26** 种并存理论范式，涵盖人力资本理论、结构功能主义、系统论、[[Dependency Theory|依附理论]]、马克思主义与新马克思主义、世界体系分析、民族志、[[Constructivist Paradigm|建构主义]]、[[Phenomenology|现象学]]、[[Symbolic Interactionism|符号互动论]]、批判理论、文化复兴主义、女性主义、[[Post-structuralism|后结构主义]]、[[Postmodernism|后现代主义]]、[[Pragmatic Paradigm|实用主义]]与新殖民主义等，单一理论垄断宣告终结。（pp.132, 135）
+> - **26** 种并存理论范式，涵盖人力资本理论、结构功能主义、系统论、[[Dependency Theory|依附理论]]、马克思主义与新马克思主义、[[World-Systems Theory|世界体系分析]]、民族志、[[Constructivist Paradigm|建构主义]]、[[Phenomenology|现象学]]、[[Symbolic Interactionism|符号互动论]]、批判理论、文化复兴主义、女性主义、[[Post-structuralism|后结构主义]]、[[Postmodernism|后现代主义]]、[[Pragmatic Paradigm|实用主义]]与新殖民主义等，单一理论垄断宣告终结。（pp.132, 135）
 > - **33** 个 WCCES 成员学会，遍布全球各大洲，打破早期西方的地域封闭，确立全球学术网络。（pp.129–130）
 > - **3** 大主流母学科认同，社会学、政治学与经济学构成当代比较学者最普遍认同的母学科。（pp.130–131）
 

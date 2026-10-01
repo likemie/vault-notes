@@ -8,7 +8,7 @@ aliases:
 summary: "以多元行动者横向协作、关系协调与异层结构替代垂直科层或纯粹市场的公共治理方式；在批判教育政策中揭示国家并未空心化退场，而是演化为积极特许赋权、资助中介并缔造教育准市场的异层担保人。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -62,6 +62,7 @@ related_methods:
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
+  - "[[Robin Alexander]]"
   - "[[Alec Peterson]]"
   - "[[Stephen Ball]]"
 related_facts:
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-04
-updated: 2026-09-24
+updated: 2026-10-01
 ---
 
 # Network Governance
@@ -182,7 +183,7 @@ updated: 2026-09-24
 > **多元行动者网络对传统科层交付的系统性置换** 约翰·奥尼尔（John O'Neill）等基于新西兰基础教育改革的大规模实证研究指出，公立学校教育治理正在经历深刻的结构重组；传统的中央教育部统一供给模式被私营商业赞助商、非营利[[Educational Management Organisation\|教育管理组织]]（EMOs）、毛利部族信托当局以及国际慈善网络所切分。公立教育的服务交付由单一行政序列演变为涵盖[[Public-Private Partnership in Research\|公私合作伙伴关系]]（PPP）、教育软件商业化特许、师资外包培训项目以及竞争性合同分包的多主体协同网络。这种分布式网络治理深刻改变了学校与中央政府的纵向依附纽带。（pp. vi–viii, 8–12）
 
 > [!claim] [[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987)]]
-> **跨国教育组织的分布式分层治理网络** 亚历山大·彼得森（[[Alec Peterson]]）对[[United World Colleges\|联合世界书院]]（United World Colleges, UWC）长达数十年的制度发展史分析表明，跨国非营利教育实体的运转既非依赖垂直行政指令，亦非放任各校完全孤立，而是建构了一个由国际董事会、各国国家选拔委员会、东道国政府、地方捐助基金会与自治书院所构筑的多中心治理网络。各方通过长程互赖协议分别承担土地出资、奖学金赞助与学术认证责任，以协商合意维系了全球教育网络的有机运转。（pp. 105–109, 119–129）
+> **跨国教育组织的分布式分层治理网络** [[Robin Alexander|亚历山大]]·彼得森（[[Alec Peterson]]）对[[United World Colleges\|联合世界书院]]（United World Colleges, UWC）长达数十年的制度发展史分析表明，跨国非营利教育实体的运转既非依赖垂直行政指令，亦非放任各校完全孤立，而是建构了一个由国际董事会、各国国家选拔委员会、东道国政府、地方捐助基金会与自治书院所构筑的多中心治理网络。各方通过长程互赖协议分别承担土地出资、奖学金赞助与学术认证责任，以协商合意维系了全球教育网络的有机运转。（pp. 105–109, 119–129）
 
 ---
 

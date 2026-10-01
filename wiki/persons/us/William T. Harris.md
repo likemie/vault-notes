@@ -5,7 +5,7 @@ status: stable
 created: 2026-10-01
 nationality: us
 person_region: "us"
-person_related_count: 3
+person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -25,6 +25,7 @@ aliases:
   - W. T. Harris
   - William Torrey Harris
 related_concepts:
+  - "[[Comparative Pedagogy]]"
   - "[[International Education]]"
 related_theories: []
 related_methods: []
@@ -49,7 +50,7 @@ updated: 2026-10-01
 ## 比较教育学术贡献
 
 ### 1. 首倡“比较教学科学”（A Science of Comparative Pedagogy）
-1889 年，哈里斯在为[[William H. Payne|威廉·H·佩恩]]（William H. Payne）翻译的加百列·孔佩雷（Gabriel Compayré）《教育方法论》（*Lectures on Pedagogy*）所撰写的编辑序言中，首次清晰界定了**比较教学科学（a science of comparative pedagogy）**的学科任务与理论构想：
+1889 年，哈里斯在为[[William H. Payne|威廉·H·佩恩]]（William H. Payne）翻译的加百列·孔佩雷（Gabriel Compayré）《教育方法论》（*Lectures on Pedagogy*）所撰写的编辑序言中，首次清晰界定了**比较教学科学（a science of [[Comparative Pedagogy]]）**的学科任务与理论构想：
 - **哲学基石** 深受[[Georg Wilhelm Friedrich Hegel|黑格尔]]主义影响，哈里斯主张国家与社会的政治结构、宗教传统和文化理想决定了其教育机构的基本形态与育人目标；
 - **比较视野** 他指出，唯有通过对比各国的教育法、行政组织、课程大纲与实际课堂教学，才能洞悉特定民族如何通过教育实现其自我意识（national consciousness）；
 - **超越表面借鉴** 与早期简单的“借用式”考察不同，哈里斯强调比较研究必须将教学法置于各民族的精神发展史和宏观制度文明体系中进行系统诠释。

@@ -8,7 +8,7 @@ summary: "19世纪法国实证主义哲学家与社会学奠基人，提出知�
 type: person
 nationality: "france"
 person_region: "france"
-person_related_count: 35
+person_related_count: 36
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -52,6 +52,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Robin Alexander]]"
   - "[[Marc-Antoine Jullien]]"
   - "[[Søren Kierkegaard]]"
   - "[[Jürgen Habermas]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-22
+updated: 2026-10-01
 ---
 
 # Auguste Comte
@@ -97,7 +98,7 @@ updated: 2026-09-22
 > [!timeline] 生平与职涯
 > - **1798** 出生于法国南部蒙彼利埃一个平民天主教家庭，早年展现出数学天赋，1814 年考入巴黎综合理工学院（École Polytechnique）接受严格自然科学训练，奠定了终生对确定性经验法则的崇尚。
 > - **1817–1824** 担任哲学家亨利·德·圣西门（Henri de Saint-Simon）的私人秘书与核心助手，深度卷入空想社会主义与实证社会改造构想，后因学术独立性与合作著作署名分歧宣告决裂。
-> - **1826** 在巴黎寓所正式开讲“实证哲学公开教程”，听众包括亚历山大·冯·洪堡等多位欧洲名学者，中途因严重精神衰弱与抑郁中断，后顽强康复并重启讲座。
+> - **1826** 在巴黎寓所正式开讲“实证哲学公开教程”，听众包括[[Robin Alexander|亚历山大]]·冯·洪堡等多位欧洲名学者，中途因严重精神衰弱与抑郁中断，后顽强康复并重启讲座。
 > - **1830–1842** 历时十二载相继完成并出版六卷本皇皇巨著《实证哲学教程》（*Cours de philosophie positive*），奠定了实证[[Epistemology\|认识论]]的科学阶梯与学科分类框架。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 7]]
 > - **1844–1854** 经历与克洛蒂尔德·德·沃（Clotilde de Vaux）的深挚交往及其早逝，思想发生强烈情感与世俗道义转向，撰写四卷本《实证政治体系》（*Système de politique positive*），正式创立以利他主义与人类崇拜为旨归的“人道教”（Religion of Humanity）。
 > - **1857** 逝世于巴黎；其学说在此后数十年间深刻辐射至整个欧洲乃至拉丁美洲（尤其巴西与墨西哥）的现代化国家建构实践。

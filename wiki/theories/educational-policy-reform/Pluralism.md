@@ -14,7 +14,7 @@ aliases:
 summary: "跨越政治学、文化哲学与比较教育学的核心宏观理论。在政治治理层面，主张权力分散于多元竞争的利益集团之间，政策是公开民主博弈与妥协的产物；在比较教育与文化哲学层面，主张文化多元主义（Cultural Pluralism），强调教育深植于多元语言、宗教与地方生态，抗衡世界体系单一普遍主义规训；在学科知识生产层面，主张健康多元主义（Healthy Pluralism），确立实证、批判、后现代等数十种理论视角与混合方法并存共荣的学科合法形态。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 55
+theory_related_count: 56
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -73,6 +73,7 @@ related_persons:
   - "[[Immanuel Kant]]"
   - "[[Wolfgang Mitter]]"
   - "[[Val D. Rust]]"
+  - "[[Rolland Paulston]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
 related_facts:
@@ -90,7 +91,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Pluralism
@@ -125,7 +126,7 @@ updated: 2026-09-29
 > - **20 世纪 50–70 年代 — 经典利益集团多元主义确立** 戴维·杜鲁门（David Truman, 1971）与罗伯特·达尔（Robert Dahl, 1967）奠定多元主义经典[[Paradigm|范式]]，论证现代民主体制是由多个自发组织的社会、经济与族群集团相互竞争、妥协而维系政治均衡的“多头政体”（Polyarchy），权力并不集中于单一阶级。
 > - **20 世纪 70–80 年代 — 利益集团俘获与权力批判转向** 西奥多·洛威（Theodore Lowi, 1964/1979）批评利益集团自由主义导致公共政治被特殊利益瓦解；米歇尔·福柯（Michel Foucault, 1980）揭示权力并非静态实体，而是流动且弥散于多元社会微观主体之间的关系网络。
 > - **20 世纪 80 年代至 21 世纪初 — 比较教育中的文化多元主义抗衡世界体系普遍主义** 在欧洲比较教育学科史上，奠基学者（Sadler, Kandel, Hans）将语言、宗教与族群的文化多元性视为教育制度发生学的核心动力；20 世纪末面对[[World-Systems Theory|世界体系理论]]的单一普遍主义（Universalism）与超国家量化趋同压力，文化多元主义（Cultural Pluralism）被重构为抗衡全球同质化指标治理、促进[[Intercultural Education|跨文化教育]]的[[Epistemology|认识论]]支柱。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 98–99)]]
-> - **20 世纪 90 年代至 2000 年代 — 范式论争超越与“健康多元主义”确立** 20 世纪 60 年代诺亚与埃克斯坦（Noah & Eckstein, 1969）倡导以结构功能主义与量化科学主义作为比较教育唯一合法范式；70 至 80 年代引发马克思主义、依赖理论与[[Critical Pedagogy|解放教育学]]的激烈交锋；90 年代[[Postmodernism|后现代主义]]、[[Post-structuralism|后结构主义]]、女性主义与新制度主义广泛兴起。[[Val D. Rust|瓦尔·拉斯特]]等学者（Rust et al., 1999, 2009）和罗兰·保尔斯顿（Rolland Paulston, 1997, 2000）通过长期追踪，指出学科并未陷入分裂与瓦解，而是确立了以 26 种不同理论视角共存互补、质性与量化并重为标志的“健康多元主义”（Healthy Pluralism）。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]
+> - **20 世纪 90 年代至 2000 年代 — 范式论争超越与“健康多元主义”确立** 20 世纪 60 年代诺亚与埃克斯坦（Noah & Eckstein, 1969）倡导以结构功能主义与量化科学主义作为比较教育唯一合法范式；70 至 80 年代引发马克思主义、依赖理论与[[Critical Pedagogy|解放教育学]]的激烈交锋；90 年代[[Postmodernism|后现代主义]]、[[Post-structuralism|后结构主义]]、女性主义与新制度主义广泛兴起。[[Val D. Rust|瓦尔·拉斯特]]等学者（Rust et al., 1999, 2009）和[[Rolland Paulston|罗兰·保尔斯顿]]（Rolland Paulston, 1997, 2000）通过长期追踪，指出学科并未陷入分裂与瓦解，而是确立了以 26 种不同理论视角共存互补、质性与量化并重为标志的“健康多元主义”（Healthy Pluralism）。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]
 > - **当代教育政策应用与[[Critical Pluralism|批判性多元主义]]升级** 塞奥杜卢与卡恩（Theodoulou & Cahn, 1995）将多元主义确立为政策制定的基准理论之一；[[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] 结合美国联邦阅读立法，指出传统多元主义忽视[[Cultural Capital|文化资本]]不平等与制度门槛，进而催生了吸纳[[Critical Theory|批判理论]]的[[Critical Pluralism|批判性多元主义]]。
 
 > [!citation-card] 罗伯特·达尔论多头政治中的权力分散（Robert Dahl, 1967）
