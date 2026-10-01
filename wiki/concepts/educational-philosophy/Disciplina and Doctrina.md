@@ -9,10 +9,10 @@ aliases:
 summary: "西方教育思想史上关于知识组织和传授的一对经典二元范式：disciplina 侧重既有知识的灌训与规训，doctrina 侧重知识的动态生产与开放更新"
 type: concept
 domain: "educational-philosophy"
-related_count: 16
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - educational-philosophy
   - curriculum-theory
@@ -25,6 +25,8 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Performance Indicators]]"
   - "[[Ontology]]"
+  - "[[Determinism]]"
+  - "[[Champ]]"
   - "[[New Public Management]]"
   - "[[Externalization]]"
   - "[[Paradigm]]"
@@ -33,16 +35,20 @@ related_theories:
 related_methods: []
 related_persons:
   - "[[Wolfgang Mitter]]"
+  - "[[Martin Carnoy]]"
+  - "[[Andreas Kazamias]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
+  - "[[Education in Europe]]"
 related_arguments:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
   - "[[Argument_Mitter_2009_Europe]]"
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
 confidence: high
-status: draft
+status: completed
 created: 2026-06-22
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Disciplina and Doctrina
@@ -118,6 +124,17 @@ updated: 2026-09-29
 
 ---
 
+### 命题类型四：资本主义国家、学校规训与民主抗争的辩证法（Capitalist State, Disciplining, and Democratic Struggle）
+
+> [!concept-lens] 批判政治经济学与国家理论维度
+> 这一命题群剖析学校教育在资本主义生产关系中的制度定位，打破早期机械[[Determinism|决定论]]，揭示单向阶级规训（disciplina）与底层民主反思及赋权（doctrina）在学校[[Champ|场域]]内的持久拉锯。
+
+> [!claim] [[Martin Carnoy|Carnoy, M.]] & [[Andreas Kazamias|Kazamias, A.]] M.
+> **学校作为生产关系规训再生产与民主化诉求交织的博弈场域**
+> 早期激进马克思主义往往将学校机械等同于资本主义统治阶级单向规训工人的社会控制工具（disciplina）；马丁·卡诺伊（Martin Carnoy）在 1980 年代与卡扎米亚斯在第四阶段学科史梳理中指出，学校从来不是铁板一块的单向规训场所，而是一个充满深刻内在拉锯的复杂场域：一方面，学校必须承担为资本主义经济体系维持社会分工与劳动力顺从的规训再生产任务（disciplina）；另一方面，工薪大众与底层学生始终在学校中争取平等的民主表达权利、主体解放与批判性认知（具备 doctrina 的开放探索特质）。在转型期国家中，政治国家权力的能动干预更证明了教育的规训形态绝非完全受制于经济宿命。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 153–154)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -126,6 +143,7 @@ updated: 2026-09-29
 > | **命题一：课程设计调和** | 教学须在尊重学科深度（disciplina）基础上激发跨学科创新（doctrina） | [[Phenomenon-Based Learning\|现象本位学习]]、课程理论 | [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff (2024)]] |
 > | **命题二：绩效评估异化** | 新自由主义指标体系将生命世界体验还原为纯粹的数据规训（disciplina） | 数字化治理、[[New Public Management\|新公共管理]]批判 | Foran (2020) |
 > | **命题三：学术规训压力** | 超国家治理与资助机制对学术研究施加规训压力，约束批判知识生产 | 比较教育学术史、科研体制批判 | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] |
+> | **命题四：国家与学校规训博弈** | 学校兼具劳动力规训再生产（disciplina）与底层民主化赋权（doctrina）双重张力 | 批判政治经济学、国家转型理论 | [[Martin Carnoy\|Carnoy (1985)]]、[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] |
 
 ---
 
@@ -134,8 +152,9 @@ updated: 2026-09-29
 > [!dev-timeline] 概念演变
 > - **中世纪 — 术语起源** 大学和修道院教育中分化出 `disciplina`（强调对学生行为的惩戒、纠错和规训）与 `doctrina`（强调真理的讲授和知识研究的进展）（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
 > - **现代 — 知识社会学分析** Stichweh (2001) 追溯学科建制与社会系统的演化，将二者界定为知识在“静态沉积”与“动态自我更新”之间的基本张力。
-> - **21世纪初 — 课程政策批判应用** 该二元概念被引入针对 [[OECD]]/[[PISA]] 测量风暴的政策批判，用以解释为何[[Phenomenon-Based Learning|现象本位学习]]（PhBL）在吸纳进课程政策时会发生技能原子化（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
+> - **1980s — 批判国家理论引入：Carnoy 论规训与民主化的拉锯** 卡诺伊（Carnoy & Levin, 1985）与卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 153–154]]）打破了将学校视为资本主义单向“规训”（disciplina）工具的机械论，确立了学校是经济规训再生产与民主主体赋权（doctrina）双向博弈辩证[[Champ|场域]]的核心命题。
 > - **2000s — 学术体制批判：Mitter 论规训压力的[[Externalization|外部化]]** 米特（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）将“规训”（disciplina）范畴延伸至跨国教育研究体制，揭示超国家机构与国家资助方如何通过[[Performance Indicators|绩效指标]]对学者施加规训压力，迫使自由探究（doctrina）向实用政策合规让步。
+> - **21世纪初 — 课程政策批判应用** 该二元概念被引入针对 [[OECD]]/[[PISA]] 测量风暴的政策批判，用以解释为何[[Phenomenon-Based Learning|现象本位学习]]（PhBL）在吸纳进课程政策时会发生技能原子化（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
 
 ---
 
@@ -144,3 +163,13 @@ updated: 2026-09-29
 > [!evidence-grid-a] 相关论证索引
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]] — 运用这一[[Paradigm|范式]]剖析了芬兰[[Phenomenon-Based Learning|现象本位学习]]在绩效评估压力下被技能原子化收纳的本质。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009, p. 96)]] — 揭示超国家治理与科研资助体系如何对比较教育学者施加规训压力，促使学术[[Knowledge Production|知识生产]]向政策问责与技术官僚规训屈从。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 153–154)]] — 在第四阶段话语梳理中引介卡诺伊批判国家理论，阐明学校在生产关系规训再生产与大众民主诉求之间的辩证张力。
+
+---
+
+## 参考文献
+
+- [[Martin Carnoy|Carnoy, M.]], & Levin, H. M. (1985). *Schooling and work in the democratic state*. Stanford University Press.
+- Kazamias, A. M. (2009a). Forgotten paths, heroes, and trailblazers: Historical reflections on comparative education. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 147–167). Springer.
+- Mitter, W. (2009). Comparative [[Education in Europe]]: A historical and critical approach. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 81–99). Springer.
+- Schaffar, B., & Wolff, L.-A. (2024). [[Phenomenon-Based Learning]] and the question of knowledge. *Cogent Education*, 11(1), 1–15.

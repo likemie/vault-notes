@@ -9,7 +9,7 @@ summary: "美国社会学家，斯坦福学派新制度主义与世界社会理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 34
+person_related_count: 37
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Knowledge Production]]"
   - "[[Epistemology]]"
+  - "[[Attrition]]"
 related_theories:
   - "[[World Society Theory]]"
   - "[[Cultural Models]]"
@@ -55,6 +56,7 @@ related_persons:
   - "[[Aaron Benavot]]"
   - "[[Robert Arnove]]"
   - "[[Immanuel Wallerstein]]"
+  - "[[Gary Thomas]]"
 related_facts:
   - "[[UNESCO]]"
   - "[[OECD]]"
@@ -62,10 +64,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Zapp_2022_Springer]]"
-confidence: medium
-status: draft
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
+confidence: high
+status: completed
 created: '2026-05-11'
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # John W. Meyer
@@ -154,6 +157,7 @@ updated: 2026-09-29
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统辨析迈耶的世界文化流派与[[Immanuel Wallerstein|沃勒斯坦]]的[[Dependency Theory|依附论]]流派，肯定迈耶在解释全球学校制度形式趋同上的奠基贡献，但批判其掩盖了核心国家对边缘国家的资本积累与阶层再生产。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 在第四阶段话语（1970–1990）宏观跨国转向中，评述迈耶新制度主义将现代学校阐释为全球扩散的“理性化现代化与进步神话”，同时反思当代宏观实证研究对历史维度的挤压。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 全面汲取迈耶的[[Organizational Actorhood|组织能动者身份]]（Actorhood）与[[Otherhood|为他者行动]]（Otherhood）框架，实证解构现代超级研究型大学如何通过科学客观性与[[Knowledge Production|知识生产]]，在全球去中心化治理中占据独特的合法性中心地位。
 
 ---
@@ -164,6 +168,11 @@ updated: 2026-09-29
 > 迈耶及其同事开创的世界文化与新制度主义研究，聚焦跨国文化与社会系统的运作，有力解释了二战后学校教育在世界各地的建立与扩张，特别是教育与现代公民权及民族国家建构之间的紧密关联；迈耶的跨国研究证实教育的普遍扩张独立于各个国家以往的经济、政治与社会结构约束，为比较教育学确立了超越国家孤立分析的世界宏观视野。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–102)]]
 >
 > *The more consensus-oriented approach of Meyer and associates to the workings of a transnational cultural and social system has focused on the establishment and expansion of schooling around the world, principally in the post-World War II period, and particularly in relationship to the creation of citizens and modern polities... Education everywhere expanded independent of the constraints and stimuli that economic, political, and social structures provided in previous times.*
+
+> [!citation-card] 卡扎米亚斯论迈耶制度主义对现代学校“理性化现代化与进步神话”的跨国剖析
+> 在现代世界体系中，现代学校制度不再仅仅是单个国家应对内部功能性经济需求的产物，而是演化为一种被全球广泛认同与模仿的进步神话；迈耶等人将跨国[[Cultural Models|文化模型]]引入比较教育学，揭示出主权国家争相建立正规学校体系是为获取现代民族国家的合法性仪式。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 152)]]
+>
+> *In the modern world-system, modern schooling was not simply a creature of individual state functional needs, but a globally diffused and legitimated [[Rationalized Myth]] of modernization and progress.*
 
 > [!citation-card] 扎普论迈耶制度主义对现代组织能动性建构的革命性重塑
 > 迈耶及其合作者关于[[Organizational Actorhood|组织能动者身份]]与[[Otherhood|为他者行动]]的开创性论述，深刻重塑了当代社会科学对能动性本质的认识；它打破了将行动者预设为追求自身私利的功利假定，揭示出各类组织之所以能够作为完全组织获得自主性、问责性与合法性，是因为它们在文化上被建构为追求全人类普遍理性、正义与进步的代理人，这为理解现代大学与非政府组织的治理功能提供了前所未有的理论深度。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 145, 148–149)]]
@@ -206,6 +215,7 @@ updated: 2026-09-29
 
 > [!critique]- 批评索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 批判迈耶新制度主义世界文化流派过度依赖国家层面的入学率与法律文本等宏观统计指标，完全忽略了边缘国家内部触目惊心的阶级再生产机制与跨国资本掠夺。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 强调第四阶段话语（1970–1990）虽然借助世界体系与跨国模型拓宽了宏观视野，但过度沉溺于当代实证数据集与组织趋同分析，在客观上加剧了比较教育学历史研究维度的边缘化（历史论文占比降至不足 5%）。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 指出世界社会理论过于倚重观念扩散与规范同构，可能低估了民族国家硬实力、地缘政治冲突以及商业资本利益对组织行为的直接强制干预。
 
 > [!warning] 未解问题与边界
@@ -227,5 +237,15 @@ updated: 2026-09-29
 > | [[Epistemic Governance]] | 概念 | 提供理论根基；阐明观念、科学客观性与理性化脚本何以成为全球治理的核心支配机制。 |
 > | [[Robert Arnove]] | 人物 | 师生与学术对话；阿诺夫作为其早期学生，既继承其宏观体系视野，又结合[[Dependency Theory\|依附论]]展开现实主义批判。 |
 > | [[Immanuel Wallerstein]] | 人物 | 学术论敌与对立极；共同构成世界体系分析在比较教育学中的两大对立流派（共识论 vs 冲突论）。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将迈耶置于第四阶段话语跨国转向，剖析学校作为全球理性神话与学科历史维度的[[Attrition\|流失]]。 |
 
 ---
+
+## 参考文献
+
+- Arnove, R. F. (2009). World-systems analysis and comparative education in the age of globalization. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 101–119). Springer.
+- Kazamias, A. M. (2009a). Forgotten paths, heroes, and trailblazers: Historical reflections on comparative education. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 147–167). Springer.
+- Meyer, J. W. (1971). Economic and political effects on national educational enrollment patterns. *Comparative Education Review*, 15(1), 28–43.
+- Meyer, J. W., Boli, J., [[Gary Thomas|Thomas, G.]] M., & Ramirez, F. O. (1997). World society and the nation-state. *American Journal of Sociology*, 103(1), 144–181.
+- Meyer, J. W., & Rowan, B. (1977). Institutionalized organizations: Formal structure as myth and ceremony. *American Journal of Sociology*, 83(2), 340–363.
+- Zapp, M. (2022). The university as a world actor: Institutional myth or organizational reality? In *Handbook of higher education* (pp. 143–160). Springer.

@@ -9,7 +9,7 @@ summary: "美国历史社会学家，世界体系分析创始人。提出资本�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Popular Education]]"
   - "[[Methodological Nationalism]]"
+  - "[[Value Neutrality]]"
   - "[[Determinism]]"
   - "[[Disciplina and Doctrina]]"
 related_theories:
@@ -50,10 +51,11 @@ related_facts:
   - "[[International Monetary Fund]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
 confidence: high
-status: active
+status: completed
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Immanuel Wallerstein
@@ -123,6 +125,7 @@ updated: 2026-09-29
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 全面系统梳理沃勒斯坦长时段历史观与世界体系分析对比较教育学的深层奠基，对比现实主义冲突论与斯坦福新制度主义的[[Paradigm|范式]]分歧。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 在第四阶段话语（1970–1990）跨国转向中，评述沃勒斯坦现代[[World-Systems Theory|世界体系理论]]为比较教育学打破功能主义现代化迷思提供了宏观结构基石，同时反思该阶段宏观批判与学科“历史健忘症”并存的历史学悖论。
 
 ---
 
@@ -132,6 +135,11 @@ updated: 2026-09-29
 > 沃勒斯坦的世界体系分析为比较教育学者提供了同时把握历史情境个殊性与宏观普遍规律的关键工具；他通过考察漫长的 16 世纪资本主义世界经济起源，弥合了具体历史叙事与系统规律分析的深层裂隙。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 104)]]
 >
 > *Wallerstein's world-systems analysis provided comparative educators with the tools to capture both historical specificity and macro systemic regularities, bridging the gap between narrative history and structural sociology.*
+
+> [!citation-card] 卡扎米亚斯论沃勒斯坦世界体系[[Paradigm|范式]]对比较教育批判转向的奠基与历史学悖论
+> 沃勒斯坦开创的现代[[World-Systems Theory|世界体系理论]]（经由阿诺夫的引介）构成了比较教育学第四阶段话语（Discourse 4，1970–1990）激进批判转向的宏观结构基石；它以跨国劳动分工与不平等交换彻底打破了功能主义的[[Value Neutrality|价值中立]]神话，揭示出依附链条在教育中的投射。然而，此处存在一个深层的学科史悖论：沃勒斯坦的社会学本身深深扎根于布罗代尔的长时段历史资本主义分析，但当比较教育学引入世界体系分析后，学者们却主要沉浸于当下的政治经济冲突与体制批判，反而在客观上加速了传统历史-哲学传统的边缘化，使学科陷入“历史健忘症”。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153, 155–156)]]
+>
+> *While Wallerstein's modern world-systems theory provided comparative education's critical discourse with a foundational macro-structural paradigm, there is a historiographical paradox: his sociology was rooted in Braudelian longue durée history, yet comparative education's appropriation of it was accompanied by the dramatic marginalization of historical studies.*
 
 ---
 
@@ -163,6 +171,7 @@ updated: 2026-09-29
 
 > [!critique]- 批评索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 评述世界体系分析在解释微观课堂实践与行动者文化抵制方面的局限，提出以全球与本土辩证法予以综合发展。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 揭示第四阶段世界体系批判的学科史悖论：理论原本建立在长时段历史分析之上，但在比较教育学落地过程中却主要被用于当代宏观结构批判，与学科历史研究跌至谷底（1985–1995 年历史论文不足 5%）的“历史健忘症”同频发生。
 
 ---
 
@@ -178,3 +187,13 @@ updated: 2026-09-29
 > | [[World Society Theory]] | 理论 | 沃勒斯坦现实主义冲突论的核心学术论敌，两派形成共识与冲突的鲜明对照。 |
 > | [[Robert Arnove]] | 人物 | 奠基性将沃勒斯坦世界体系分析引入比较教育学的关键学者。 |
 > | [[John W. Meyer]] | 人物 | [[Stanford School\|斯坦福学派]]代表人物，与沃勒斯坦在比较教育与全球化机制上形成重要辩论。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将沃勒斯坦置于第四阶段跨国宏观批判奠基地位，剖析长时段社会学与学科历史健忘症的悖论。 |
+
+---
+
+## 参考文献
+
+- Arnove, R. F. (2009). World-systems analysis and comparative education in the age of globalization. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 101–119). Springer.
+- Kazamias, A. M. (2009a). Forgotten paths, heroes, and trailblazers: Historical reflections on comparative education. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 147–167). Springer.
+- Wallerstein, I. (1974). *The modern world-system I: Capitalist agriculture and the origins of the European world-economy in the sixteenth century*. Academic Press.
+- Wallerstein, I. (2004). *World-systems analysis: An introduction*. Duke University Press.

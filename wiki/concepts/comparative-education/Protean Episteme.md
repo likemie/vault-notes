@@ -9,7 +9,7 @@ aliases:
 summary: "安德烈亚斯·卡扎米亚斯用希腊神话普罗透斯隐喻界定的比较教育学认识论特征，指学科在两百余年演进中因应不同时代的认识论、方法论与意识形态风尚而持续变换形态与论述代际"
 type: concept
 domain: "comparative-education"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Educational Meliorism]]"
   - "[[Scientific Method]]"
+  - "[[Empiricism]]"
   - "[[Theoretical Standpoint]]"
   - "[[Conatus]]"
   - "[[Causality]]"
@@ -180,7 +181,7 @@ updated: 2026-10-01
 > 在反思战后“科学化”狂热时，卡扎米亚斯揭示了实证主义范式将自然科学经验量化模型奉为唯一圭臬所带来的学术异化。
 
 > [!claim] Barber, B. R. & Kazamias, A. M.
-> **方法论主义对实体情境的剥离与价值放逐** 战后以诺亚（[[Harold Noah]]）、埃克斯坦（[[Max Eckstein]]）以及萨卡洛普洛斯（[[George Psacharopoulos]]）为代表的“纯科学”比较教育纲领，其核心在于一种一元论科学观（Monistic View of Science），即预设存在一种“放之四海皆准的单一[[Scientific Method|科学方法]]”（Single, All-purpose Scientific Method）。这种被伯纳德·巴伯（Bernard Barber）批判为“方法论主义”（Methodologism）的取向假定：只要忠实恪守特定的量化测量与统计控制技术，无论研究对象性质如何，都能获得客观确定性。这种进路将科学视为数学公理化网络，粗暴地将科学研究领地与形式、价值、美、至善以及所有不可测量的质性维度割裂开来，使比较教育退化为抽离制度历史语境的去情境化统计推断。[[Argument_Kazamias_2009_HistoricalReflections|(Barber, 1972; Kazamias, 2009a, pp. 147–149)]]
+> **方法论主义对实体情境的剥离与价值放逐** 战后以诺亚（[[Harold Noah]]）、埃克斯坦（[[Max Eckstein]]）以及萨卡洛普洛斯（[[George Psacharopoulos]]）为代表的“纯科学”比较教育纲领，其核心在于一种一元论科学观（Monistic View of Science），即预设存在一种“放之四海皆准的单一[[Scientific Method|科学方法]]”（Single, All-purpose Scientific Method）。这种被伯纳德·巴伯（Bernard Barber）批判为“方法论主义”（[[Empiricism|Methodologism]]）的取向假定：只要忠实恪守特定的量化测量与统计控制技术，无论研究对象性质如何，都能获得客观确定性。这种进路将科学视为数学公理化网络，粗暴地将科学研究领地与形式、价值、美、至善以及所有不可测量的质性维度割裂开来，使比较教育退化为抽离制度历史语境的去情境化统计推断。[[Argument_Kazamias_2009_HistoricalReflections|(Barber, 1972; Kazamias, 2009a, pp. 147–149)]]
 
 ---
 

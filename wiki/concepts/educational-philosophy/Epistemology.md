@@ -42,6 +42,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Reflexivity]]"
   - "[[Protean Episteme]]"
+  - "[[Empiricism]]"
   - "[[Variable]]"
   - "[[Falsification]]"
   - "[[Interpretivism]]"
@@ -57,7 +58,6 @@ related_concepts:
   - "[[Research Ethics]]"
   - "[[Theory of Knowledge]]"
   - "[[Construct]]"
-  - "[[Empiricism]]"
   - "[[Scientific Paradigm]]"
   - "[[Domain Specificity]]"
   - "[[Value Neutrality]]"
@@ -151,7 +151,7 @@ updated: 2026-10-01
 > - **主客观双维协调（Coordination of Knowing Dimensions）** 在个体心智认知中，成熟认识论经历绝对论（客观主导）→多元论（主观主导）→评价论（主客协调）的三次重构，实现基于证据与批判论证的理性判断[[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 310)]]。
 > - **批判认识论与世界体系抗争（Critical Epistemology & Epistemological Protest）** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 2000; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）将世界体系分析界定为对抗“欺骗性认识论”（deceptive epistemologies）的智识反抗，主张必须彻底反思并解构 19 世纪社会科学将学科割裂、将事实与价值绝对二分的非[[Reflexivity|反思性]]前提，确立“探寻真理”（the search for the true）与“追求正义社会”（the search for the good）在批判认识论上的内在同构与不可分割。
 > - **[[Protean Episteme|普罗透斯式认识体系]]（Protean Episteme）** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Kazamias, 2009a）将跨学科探究（如比较教育学）的知识体系定义为能够随时代智识思潮、方法风尚与意识形态诉求而不断变换装束的“[[Protean Episteme|普罗透斯式认识体系]]”，揭示了社会探究认识论历史性、流变性与多学科交叉融合的内在本质。
-> - **唯方法论主义批判（Critique of Methodologism）** 伯纳德·巴伯（Bernard Barber, 1973）与卡扎米亚斯揭示了实证主义认识论在现代社会科学中异化出的技术拜物教——将科学严谨性狭隘等同于统计建模与[[Variable|变量]]测算，误把方法工具当成实质知识本身，导致认识论深度的严重贫困与价值伦理的彻底放逐。
+> - **[[Empiricism|唯方法论主义]]批判（Critique of Methodologism）** 伯纳德·巴伯（Bernard Barber, 1973）与卡扎米亚斯揭示了实证主义认识论在现代社会科学中异化出的技术拜物教——将科学严谨性狭隘等同于统计建模与[[Variable|变量]]测算，误把方法工具当成实质知识本身，导致认识论深度的严重贫困与价值伦理的彻底放逐。
 
 > [!logic-map]- 认识论的双重视角与谱系映射
 > ```mermaid
@@ -234,7 +234,7 @@ updated: 2026-10-01
 ### 命题五　跨学科探究作为普罗透斯式认识体系必须警惕唯方法论主义并将实证技术锚定于历史与价值情境
 
 > [!concept-lens] 跨学科认识论流变与方法主义反思维度
-> 探讨社会与教育探究如何在历史演进中形成因应时代思潮的流变认识体系，以及为何必须抵御将技术工具冒充为实质知识的唯方法论主义偏误。
+> 探讨社会与教育探究如何在历史演进中形成因应时代思潮的流变认识体系，以及为何必须抵御将技术工具冒充为实质知识的[[Empiricism|唯方法论主义]]偏误。
 
 > [!claim] Barber, B. & [[Andreas Kazamias|Kazamias, A.]] M.
 > **唯方法论主义对客观确定性神话的实质解构** 伯纳德·巴伯（Bernard Barber, 1973）与[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]深入剖析指出，战后经验实证化风潮在社会探究中催生了严重的“唯方法论主义（Methodologism）”偏误：误认为存在通行一切领域的单一通用方法，以为只要照搬[[Multiple Regression|多元回归]]、跨国标准化调查与[[Variable|变量]][[Operationalization|操作化]]规程就能自动产出科学真理。唯方法论主义错误地将方法工具混同于实质认识论真理，抽离了教育所植根的历史文化土壤，使实证指标极易异化为国家五年计划与技术援助的行政治理[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 148–151)]]
@@ -285,7 +285,7 @@ updated: 2026-10-01
 > > 争论社会与教育探究是否存在放之四海皆准的单一最优方法规程，还是应当依据历史情境与问题性质因应重组的流变认识体系。
 > >
 > > - **实证主义一元论者（Noah & Eckstein, 1969; Anderson & Foster, 1961）** 坚信科学的本质在于普遍定律与预测，主张用跨国标准化变量与数理建模统一所有探究。
-> > - **普罗透斯[[Humanistic Episteme|人文认识论]]者（Kazamias, 2009a; Dilthey, 1883）** 强调人文社会探究的复杂性与历史性，主张认识论必须兼容生命体验理解、批判反思与工作假说，严正批判将技术工具冒充为真理的唯方法论主义。
+> > - **普罗透斯[[Humanistic Episteme|人文认识论]]者（Kazamias, 2009a; Dilthey, 1883）** 强调人文社会探究的复杂性与历史性，主张认识论必须兼容生命体验理解、批判反思与工作假说，严正批判将技术工具冒充为真理的[[Empiricism|唯方法论主义]]。
 
 > [!critique] 外部批评
 > - **批判认识论对[[Value Neutrality|价值中立]]假象的解构** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 2000; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）批判主流[[Positivism|实证主义]]与技术功能主义将“价值中立”作为唯一的合法[[Scientific Attitude|科学态度]]，指出这种认识论掩盖了资本主义世界体系的剥削机制与不平等现状，沦为服务于统治阶级的“欺骗性认识论”。[[Argument_Arnove_2009_WorldSystems|(Wallerstein, 2000, cited in Arnove, 2009, p. 115)]]
@@ -330,4 +330,4 @@ updated: 2026-10-01
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 在教育研究方法学经典中确立认识论在探究设计阶梯中的核心支柱地位，系统剖析[[Positivism|实证主义]]、[[Interpretive Paradigm|诠释范式]]、[[Critical Theory|批判理论]]与[[Pragmatic Paradigm|实用主义]][[Mixed Methods Research|混合方法]]的认识论分野。
 > - [[Argument_Kuhn_2000_CD|Kuhn et al. (2000)]] — 从认知发展与教育心理学视角，将认识论[[Operationalization|操作化]]为个体心智中的“[[Epistemological Understanding|认识论理解]]”，实证揭示了主客观协调的演进机制与[[Domain Specificity|领域特殊性]]。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 援引[[Immanuel Wallerstein|沃勒斯坦]]关于世界体系分析作为针对欺骗性认识论的反抗的论断，确立探寻真理与追求正义社会在批判教育研究认识论中的根本统一性（p. 115）。
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯从[[Protean Episteme|普罗透斯式认识体系]]视角系统反思比较教育学两百余年论述代际更迭，揭示实证主义对单一方法的迷信与唯方法论主义弊端，以期刊计量数据诊断学科面临的历史健忘症危机，确立历史学与社会科学综合纲领的现代合法性（pp. 139–156）。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯从[[Protean Episteme|普罗透斯式认识体系]]视角系统反思比较教育学两百余年论述代际更迭，揭示实证主义对单一方法的迷信与[[Empiricism|唯方法论主义]]弊端，以期刊计量数据诊断学科面临的历史健忘症危机，确立历史学与社会科学综合纲领的现代合法性（pp. 139–156）。

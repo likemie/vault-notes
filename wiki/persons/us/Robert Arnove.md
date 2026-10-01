@@ -9,7 +9,7 @@ summary: "美国著名比较教育学泰斗，比较与国际教育学会（CIES
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 45
+person_related_count: 47
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -65,6 +65,7 @@ related_persons:
   - "[[Paulo Freire]]"
   - "[[Martin Carnoy]]"
   - "[[Michael W. Apple]]"
+  - "[[Liliana Esther Olmos]]"
 related_facts:
   - "[[Comparative and International Education Society]]"
   - "[[World Bank]]"
@@ -73,6 +74,7 @@ related_facts:
   - "[[GATS and Trade in Education Services]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 confidence: high
 status: completed
@@ -155,6 +157,7 @@ updated: 2026-10-01
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 权威代表作，全面系统梳理世界体系分析在比较教育学中的演进，对质新制度主义与政治现实主义，确立全球与本土辩证法及自下而上全球化分析框架。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 在第四阶段话语（1970–1990）学科史梳理中，高度肯定阿诺夫将[[Immanuel Wallerstein|沃勒斯坦]][[World-Systems Theory|世界体系理论]]引入比较教育学的奠基性突破，揭示跨国教育依附与支配链条，并反思批判宏观范式对历史维度的挤压。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 全面继承阿诺夫与托雷斯的全球与本土辩证法，作为分析拉美[[Conditioned State Theory|受限国家]]在依附性资本主义下的阶级[[Dual School System|双轨学制]]与教育合法化危机的核心支柱。
 
 ---
@@ -165,6 +168,11 @@ updated: 2026-10-01
 > 罗伯特·阿诺夫是极少数成功将世界体系宏观分析、批判政治经济学与细致入微的地方教育[[Ethnography|民族志]]熔铸为一体的比较教育大家；他在 1980 年将[[Immanuel Wallerstein|沃勒斯坦]]世界体系分析引入本学科，并在 1990 年代系统确立[[Dialectic of the Global and the Local|全球与本土的辩证法]]，从根本上拓展了当代比较教育学的理论边界与批判深度。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 106)]]
 >
 > *Arnove's pioneering 1980 essay urged his colleagues to take up world-systems analysis as the necessary framework... his dialectic of the global and the local established a central conceptual [[Paradigm]] for critical comparative education.*
+
+> [!citation-card] 卡扎米亚斯论阿诺夫世界体系分析对跨国依附结构与学术史的定性
+> 阿诺夫基于沃勒斯坦的现代[[World-Systems Theory|世界体系理论]]，深刻揭示出全球教育体系中层层传递的依附关系：发达中心国家对发展中国家形成文化主导与智力控制，而发展中国家的政治经济精英又在本土社会中维持对边缘群体的支配，形成了跨国教育资源的层层倾斜与支配链条。这一洞见打破了功能主义的现代化神话，构成了比较教育学第四阶段话语（Discourse 4）的核心理论支柱。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
+>
+> *Drawing on Wallerstein's modern world-systems theory, Arnove pointed out that the global educational system was marked by a multi-tiered dependency: developed center countries exercise cultural and intellectual [[Hegemony]] over developing nations, while peripheral national elites maintain internal dominance over subaltern groups.*
 
 > [!citation-card] [[Carlos Alberto Torres|托雷斯]]论阿诺夫全球与本土辩证法对教育国家研究的重构
 > 国家、社会运动与教育改革之间的互动是理解当代比较教育演进的关键脉络。阿诺夫开创的全球化与本土社会力量冲突分析，构成了当代解构国家教育政策生成、异化与底层抗争的核心辩证轴线。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 85–86)]]
@@ -201,6 +209,7 @@ updated: 2026-10-01
 
 > [!critique]- 批评索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 阿诺夫自述警示：在运用“[[Dialectic of the Global and the Local|全球与本土的辩证法]]”时必须严防概念泛化，必须以扎实的多地点比较案例严格追踪中介机制，避免将一切现象笼统归结为无所不包的辩证互动而丧失因果解释力。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 评述第四阶段激进批判与世界体系宏观分析虽然打破了实证功能主义神话，但其对当代政治经济依附与阶级冲突的强烈倾注，客观上与学科历史维度的边缘化（历史论文占比在 1985–1995 年跌破 5% 的“历史健忘症”）在时间上高度重合。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 指出在[[Conditioned State Theory|受限国家]]与依附资本主义条件下，地方微观抵抗往往遭遇国家机器与跨国金融机构的双重围堵，自下而上全球化仍需突破制度化瓶颈。
 
 > [!warning] 未解问题与边界
@@ -226,5 +235,13 @@ updated: 2026-10-01
 > | [[Carlos Alberto Torres]] | 人物 | 长期学术同盟；共同主编《比较教育：全球与本土的辩证法》权威教材。 |
 > | [[John W. Meyer]] | 人物 | 博士导师与世纪学术论敌；分别代表比较教育学中世界体系分析的共识论与冲突论两大极。 |
 > | [[Immanuel Wallerstein]] | 人物 | 思想渊源导师；将其现代世界体系分析批判性转化为比较教育学的基准透镜。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将阿诺夫置于第四阶段世界体系跨国分析核心，评述跨国依附链条与学科历史健忘症。 |
 
 ---
+
+## 参考文献
+
+- Arnove, R. F. (1980). Comparative education and world-systems analysis. *Comparative Education Review*, 24(1), 48–62.
+- Arnove, R. F. (2009). World-systems analysis and comparative education in the age of globalization. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 101–119). Springer.
+- Kazamias, A. M. (2009a). Forgotten paths, heroes, and trailblazers: Historical reflections on comparative education. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 147–167). Springer.
+- [[Liliana Esther Olmos|Olmos, L. E.]], & Torres, C. A. (2009). Theories of the state, educational expansion, and development in Latin America. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 73–97). Springer.

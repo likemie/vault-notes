@@ -10,9 +10,9 @@ summary: "研究者深入研究现场进行长期观察、参与和深度体验�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 35
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 40
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/data-collection
@@ -26,12 +26,14 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Document]]"
   - "[[Hypothesis]]"
+  - "[[Empiricism]]"
+  - "[[Variable]]"
   - "[[Research Question]]"
   - "[[Gatekeepers]]"
-  - "[[Variable]]"
   - "[[International Education]]"
   - "[[Going Native]]"
   - "[[Paradigm]]"
+  - "[[Champ]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -53,14 +55,17 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Robert Arnove]]"
-related_facts: []
+  - "[[Val D. Rust]]"
+related_facts:
+  - "[[Research Strategies in Comparative Education]]"
 related_arguments:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Wang_2025_CE]]"
 confidence: high
-status: draft
+status: completed
 created: 2026-06-25
 updated: 2026-10-01
 ---
@@ -105,10 +110,11 @@ updated: 2026-10-01
 
 ## 田野调查的核心特征
 
-> [!feature] 田野调查的三个根本特征
+> [!feature] 田野调查的四个根本特征
 > - **实证调查（相对于纯理论思辨）** 核心旨在探寻研究对象真实、原初的生活与教学图景。通常不预设刚性封闭的[[Hypothesis|假设]]，而是从不可预知的进程中敏锐捕捉意义，形成自下而上的理论归纳与扎根建构。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch.7)]]
 > - **文化诠释（透过日常探寻意义体系）** 文化现象分散琐碎，体现在教育现场的细微言行中。田野研究不仅记录行为表象，更致力于破译行动者共享的价值代码、话语隐喻与微观权力关系。
 > - **整体性与比较视野（贯通宏观体系与微观实践）** 现代田野研究不再局限于孤立的单一村落或个案，而是从社会制度整体与跨国比较视角审视微观课堂；教育问题始终是宏观政治经济结构与微观行动者实践辩证互动的产物。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
+> - **回归真实的课堂教学生活（打破实证功能主义垄断）** 20 世纪 80 至 90 年代，随着比较教育学第四阶段话语（Discourse 4）中结构功能主义与[[Empiricism|唯方法论主义]]独大局面的瓦解，人类学田野调查广泛进入学科，促使学者摆脱抽象[[Variable|变量]]回归鲜活的课堂与教学过程本身。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
 
 ---
 
@@ -155,6 +161,7 @@ updated: 2026-10-01
 > - **跨文化/国际田野中的研究者-对象权力不对称与伦理困境（Feminist Fieldwork Dilemmas）** 比较与[[International Education|国际教育]]学者深入异质文化时面临行动与研究、研究者与研究对象的深刻权力张力；女性主义学者（Wolf, 1996; Cook & Fonow, 1991）深刻指出，外部研究者的特权地位与理论框架极易在实地调查中无意再生产支配与剥削关系，必须对主客体关系保持持续的[[Reflexivity|反身性]]警惕。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 128–129)]]
 > - **概括性与理论迁移边界** 田野调查强调深度的情境敏感性，其结论具有明确的地方性知识属性，不能直接进行去情境化的统计归纳。
 > - **“[[Going Native|本土化]]”（Going Native）与分析距离丧失** 长期深入异质文化或承受苦难的现场，容易导致研究者完全同化并丧失客观批判的分析距离，或者在单重视角与多重视角（Kellner, 1988）之间失去方法论平衡。
+> - **学科史悖论：田野微观繁荣与“历史健忘症”** 卡扎米亚斯（Kazamias, 2009a, pp. 155–156）指出，尽管 20 世纪 80–90 年代田野调查的兴起极大地丰富了微观课堂与地方实践的主位理解，但学科在转向现时性田野的同时却极度边缘化了历史-哲学传统（三大旗舰期刊历史论文占比在 1985–1995 年跌破 5%），陷入了只顾眼前政策而遗忘历史深厚土壤的“历史健忘症”。
 
 ---
 
@@ -170,6 +177,7 @@ updated: 2026-10-01
 > | [[Comparative Case Study]] | 组合方法 | 多地点田野调查为比较[[Case Study\|案例研究]]提供跨尺度垂直与水平互证的微观厚实材料。 |
 > | [[Robert Arnove]] | 人物 | 倡导运用跨国微观田野研究透视全球化宏观政策在地方遭遇的变通与抵制。 |
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 剖析跨国比较田野调查中研究者与研究对象的权力关系伦理、女性主义田野困境与[[Going Native\|本土化]]张力。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将田野调查置于第四阶段多元转向，评述课堂回归与历史健忘症的伴生。 |
 
 ---
 
@@ -180,3 +188,13 @@ updated: 2026-10-01
 > - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 深入华北某区域 4 所案例学校开展实地[[Qualitative Observation|田野观察]]并记录同行评课研讨的[[Field Notes|田野笔记]]，交叉验证校长与教师的教学改进决策。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 108–110)]] — 评析比较教育学者如何通过精细的实证田野研究（fieldwork），考察以色列课程分权、几内亚与美法阅读教学、巴布亚新几内亚乡村青年文化抵抗以及印度女教师在职培训，实证确立全球与本土辩证互动的微观机制。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128–129)]] — 梳理国际与比较教育研究中的田野伦理困境，深入反思跨文化田野调查中研究者与研究对象的权力关系、女性主义田野困境及[[Going Native|本土化]]（Going Native）张力。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 155–156)]] — 考证 20 世纪 80–90 年代人类学田野调查与女性主义广泛进入比较教育学、打破功能主义垄断的多元化历程，并警示田野微观繁荣背后学科深陷“历史健忘症”的危机。
+
+---
+
+## 参考文献
+
+- Arnove, R. F. (2009). World-systems analysis and comparative education in the age of globalization. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 101–119). Springer.
+- Kazamias, A. M. (2009a). Forgotten paths, heroes, and trailblazers: Historical reflections on comparative education. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 147–167). Springer.
+- [[Val D. Rust|Rust, V. D.]], Johnstone, C. J., & Allaf, C. (2009). Reflections on the [[Champ|field]]: [[Research Strategies in Comparative Education]]. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 121–138). Springer.
+- 齐梅. (2015). *教育研究方法*. 北京师范大学出版社.

@@ -10,7 +10,7 @@ summary: "源自人类学与社会学的质性研究设计，要求研究者在�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 58
+method_related_count: 66
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -44,6 +44,8 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Paradigm]]"
+  - "[[Sage]]"
+  - "[[Champ]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Organizational Culture]]"
@@ -73,17 +75,23 @@ related_methods:
   - "[[Case Study]]"
   - "[[Comparative Case Study]]"
   - "[[Correlational Research]]"
-related_persons: []
+related_persons:
+  - "[[Louis Cohen]]"
+  - "[[Lawrence Manion]]"
+  - "[[John W. Creswell]]"
+  - "[[Val D. Rust]]"
 related_facts:
   - "[[Conectar Igualdad]]"
+  - "[[Research Strategies in Comparative Education]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Creswell_2022_SAGE]]"
 confidence: high
-status: draft
+status: completed
 created: 2026-05-30
 updated: 2026-10-01
 ---
@@ -215,8 +223,9 @@ updated: 2026-10-01
 > | **研究者反应性偏差** | 研究者在场引发[[Hawthorne Effect\|霍桑效应]]，参与者表现失真。 | 延长驻留时间使参与者恢复常态，降低研究外显干预痕迹。 |
 > | **[[Reflexivity\|反身性]]偏见** | 研究者先验文化偏见导致对材料产生过誉（[[Halo Effect\|光环效应]]）或贬损。 | 撰写反身性日志，实施同伴汇报与研究团队三角审查。 |
 > | **微观与宏观尺度张力** | 单点[[Rich and Thick Description\|深描]]易陷入微观地方主义，难以解释宏观体系结构。 | 将微观民族志与宏观世界体系分析、国家制度背景相咬合，结合多尺度批判框架（[[Argument_Arnove_2009_WorldSystems\|Arnove, 2009, pp. 106, 110]]）。 |
-> | **外在效度与可迁移性** | 无法直接进行统计概括，容易被[[Positivism\|实证主义]]指责为“不可推广”。 | 确立“分析性概括”（[[Analytic Generalization\|analytical generalization]]），提供充沛细节供读者进行可翻译性评估。 |
-> | **数据过度浓缩损失** | 最终报告往往仅能引用田野搜集资料的不足 1%（Swain, 2006）。 | 明确陈述证据引用的筛选准则，保留完整原始资料备查。 |
+| **外在效度与可迁移性** | 无法直接进行统计概括，容易被[[Positivism\|实证主义]]指责为“不可推广”。 | 确立“分析性概括”（[[Analytic Generalization\|analytical generalization]]），提供充沛细节供读者进行可翻译性评估。 |
+| **数据过度浓缩损失** | 最终报告往往仅能引用田野搜集资料的不足 1%（Swain, 2006）。 | 明确陈述证据引用的筛选准则，保留完整原始资料备查。 |
+| **学科史悖论与历史健忘症** | 民族志微观取向的繁荣在客观上伴随着比较教育学历史维度的极度边缘化。 | 结合长时段历史比较与微观深描，避免陷入只顾眼前政策的“历史健忘症”（[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias, 2009a, pp. 155–156]]）。 |
 
 ---
 
@@ -241,6 +250,7 @@ updated: 2026-10-01
 > | [[Emic and Etic]] | 分析概念 | 主位（参与者内部定义）与客位（外部研究者理论建构）的双重視野平衡。 |
 > | [[Comparative Case Study]] | 关联方法 | 将多地点民族志置于横向、纵向与横断三轴框架中进行比较（Bartlett & Vavrus, 2017）。 |
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 梳理比较教育学术史中民族志从边缘走向 26 种核心理论/方法取向之一的演变。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；评述第四阶段课堂民族志的多元兴起与学科历史健忘症的伴生。 |
 
 ---
 
@@ -251,3 +261,14 @@ updated: 2026-10-01
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — [[Qualitative Research|质性研究]]设计专著，详细介绍文化共享群体界定、民族志提问分类法（Spradley）及[[Critical Ethnography|批判民族志]]定位。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 评述多项比较教育人类学民族志经典（Demerath, 1999; Anderson-Levitt, 2003, 2004; Stacki, 1999），论证民族志作为揭示全球化微观运行机制的核心工具，并剖析单点田野与宏观体系分析之间的尺度张力。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128, 130–131)]] — 考证比较教育学研究策略的演进，指出民族志等常规社会[[Scientific Method|科学方法]]的激增标志着学科摆脱[[Primary and Secondary Documents|二手文献]]综述；将民族志确立为打破战后单一功能主义霸权的 26 种重要[[Paradigm|范式]]传统之一。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 155–156)]] — 考证 20 世纪 80–90 年代课堂民族志（如 Robin Alexander 的教学研究）与人类学调查广泛进入比较教育学、终结功能主义垄断的历程，并警示其与学科“历史健忘症”并存的史学悖论。
+
+---
+
+## 参考文献
+
+- Arnove, R. F. (2009). World-systems analysis and comparative education in the age of globalization. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 101–119). Springer.
+- [[Louis Cohen|Cohen, L.]], [[Lawrence Manion|Manion, L.]], & Morrison, K. (2011). *Research methods in education* (7th ed.). Routledge.
+- [[John W. Creswell|Creswell, J. W.]], & Creswell, J. D. (2022). *Research design: Qualitative, quantitative, and mixed methods approaches* (6th ed.). [[Sage]].
+- Kazamias, A. M. (2009a). Forgotten paths, heroes, and trailblazers: Historical reflections on comparative education. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 147–167). Springer.
+- [[Val D. Rust|Rust, V. D.]], Johnstone, C. J., & Allaf, C. (2009). Reflections on the [[Champ|field]]: [[Research Strategies in Comparative Education]]. In R. Cowen & A. M. Kazamias (Eds.), *International handbook of comparative education* (pp. 121–138). Springer.

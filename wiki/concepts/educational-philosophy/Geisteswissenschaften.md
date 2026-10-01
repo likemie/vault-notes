@@ -27,6 +27,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Paradigm]]"
   - "[[Reflexivity]]"
+  - "[[Empiricism]]"
   - "[[Bildung]]"
   - "[[Document]]"
   - "[[Whiggism]]"
@@ -50,7 +51,6 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Positivism]]"
   - "[[Falsification]]"
-  - "[[Empiricism]]"
   - "[[Educational Meliorism]]"
   - "[[Avatar]]"
   - "[[Construct]]"
@@ -101,7 +101,7 @@ updated: 2026-10-01
 
 > [!concept-lens] 概念透镜
 > - **含义** 确立人文与社会科学独立的知识合法性，拒绝将自然科学的机械[[Determinism|决定论]]、单一方法论教条与实证量化[[Paradigm|范式]]强加于具有历史性、价值负载与意义生成的人类教育世界。
-> - **用途** 为教育哲学、历史编纂学以及比较教育学提供[[Reflexivity|反思性]]认识论基础；抵抗技术官僚主义与唯方法论主义对教育[[Bildung|教化]]灵魂的消解，支撑历史探索性假说的学术效力。
+> - **用途** 为教育哲学、历史编纂学以及比较教育学提供[[Reflexivity|反思性]]认识论基础；抵抗技术官僚主义与[[Empiricism|唯方法论主义]]对教育[[Bildung|教化]]灵魂的消解，支撑历史探索性假说的学术效力。
 > - **边界** 精神科学追求深层客观有效性与严谨的[[Document|文献]]考据、因果脉络推演，绝非不可检验的纯粹主观冥想、非理性神秘主义或随意裁剪史料的[[Whiggism|辉格史学]]。
 
 > [!citation-card] 狄尔泰论精神科学的认识论使命
@@ -201,7 +201,7 @@ updated: 2026-10-01
 > 揭示二战后实证科学化运动放逐精神科学传统所付出的认识论代价，诊断当代学科因丢失历史而面临的认识论贫困。
 
 > [!claim] Barber, B. and Kazamias, A. M.
-> **唯方法论主义对实证科学神话的实质性解构** 伯纳德·巴伯（Bernard Barber, 1973）与卡扎米亚斯深刻指出，战后英美比较教育学掀起的实证运动陷入了严重的唯方法论主义（Methodologism）。该倾向错误地预设存在通行一切领域的单一通用方法，以为只要采用[[Multiple Regression|多元回归]]、[[Variable|变量]][[Operationalization|操作化]]与[[Questionnaire|问卷调查]]就能自动产出科学真理。唯方法论主义将技术工具误当成实质知识，彻底剥离了教育背后的历史文化根基与道德伦理关怀，使研究退化为服务于国家规划与技术援助的行政治理[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 148–151)]]
+> **[[Empiricism|唯方法论主义]]对实证科学神话的实质性解构** 伯纳德·巴伯（Bernard Barber, 1973）与卡扎米亚斯深刻指出，战后英美比较教育学掀起的实证运动陷入了严重的唯方法论主义（Methodologism）。该倾向错误地预设存在通行一切领域的单一通用方法，以为只要采用[[Multiple Regression|多元回归]]、[[Variable|变量]][[Operationalization|操作化]]与[[Questionnaire|问卷调查]]就能自动产出科学真理。唯方法论主义将技术工具误当成实质知识，彻底剥离了教育背后的历史文化根基与道德伦理关怀，使研究退化为服务于国家规划与技术援助的行政治理[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 148–151)]]
 
 > [!claim] Kazamias, A. M.
 > **放逐精神科学导致当代学科罹患历史健忘症** 卡扎米亚斯通过梳理拉斯特（Val D. Rust, 1999）与拉森（Marianne Larsen, 2001）对旗舰期刊数十年的[[Content Analysis|内容分析]]数据证实：战[[Postpositivism|后实证主义]]对精神科学与历史学传统的系统性放逐，导致学科在世纪之交面临严重的意识形态与方法论虚热——期刊发表中历史研究的份额出现雪崩式[[Attrition|流失]]，比较教育学患上了深重的历史健忘症（Historical Amnesia）。卡扎米亚斯警示，失去精神科学底蕴的比较教育学将沦为无根的技术官僚拼贴，必须重新建立历史学与社会科学的综合纲领。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 155–156)]]
@@ -225,7 +225,7 @@ updated: 2026-10-01
 > - **1883 年 — [[Wilhelm Dilthey|狄尔泰]]确立[[Epistemology|认识论]]分野** 狄尔泰发表《精神科学引论》，从[[Immanuel Kant|康德]]批判哲学出发，为历史、社会与教育研究奠定不同于自然科学因果说明的理解[[Paradigm|范式]]。
 > - **1900 年 — [[Michael Sadler|萨德勒]]牛津演讲确立文化[[Situative Perspective|情境主义]]** 萨德勒提出探寻学校门外[[Intangible Spiritual Forces|无形精神力量]]的原则，将精神科学的整体论视角引入英美跨国教育考察。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–142)]]
 > - **1920s–1950s — 精神科学教育学与比较教育历史-哲学学派黄金期** 欧陆诺尔与斯普朗格建立精神科学教育学；[[Isaac Kandel|坎德尔]]、汉斯、[[Robert Ulich|乌利希]]与施奈德将精神科学的历史主义与理念史分析确立为成熟学术学科的核心范式。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 143–144)]]
-> - **1950s–1970s — 战后经验实证化风潮与精神科学传统的遭遇边缘化** 诺亚、埃克斯坦、安德森与福斯特等倡导跨国量化[[Variable|变量]]检验与结构功能主义，指责精神科学传统为缺乏预测力的前科学，学科陷入唯方法论主义与技术官僚效能控制。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 144–151)]]
+> - **1950s–1970s — 战后经验实证化风潮与精神科学传统的遭遇边缘化** 诺亚、埃克斯坦、安德森与福斯特等倡导跨国量化[[Variable|变量]]检验与结构功能主义，指责精神科学传统为缺乏预测力的前科学，学科陷入[[Empiricism|唯方法论主义]]与技术官僚效能控制。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 144–151)]]
 > - **1970s–1990s — 批判冲突范式兴起与实证神话瓦解** 新马克思主义、世界体系分析与依赖理论解构[[Positivism|实证主义]]的[[Value Neutrality|价值中立]]神话，重新激活了历史唯物主义制度溯源的人文批判锋芒。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–155)]]
 > - **世纪之交 — 历史健忘症危机与精神科学传统重申** 面对量化测评指标（[[PISA]]）席卷与历史维度的严重[[Attrition|流失]]，卡扎米亚斯与米特等学者呼吁找回精神科学的历史阐释灵魂，重构历史学与社会科学的理性综合。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 155–156)]]
 
@@ -245,7 +245,7 @@ updated: 2026-10-01
 > > 争论比较教育学应当充当国家技术官僚的短期预测工程，还是培育开阔历史视野与公民民主反思的博雅学术。
 > >
 > > - **技术工程主义派（Holmes, 1965）** 试图以假说-演绎公式（$L + I = P$）实现受约束的政策后果预测，服务于行政规划。
-> > - **历史比较批判派（Kazamias, 2009a; Barber, 1973）** 痛斥唯方法论主义的狭隘盲目，证明历史工作假说能够提供更为深刻的制度警鉴，拒绝沦为政策推卸责任的[[Social Science as Legitimation Alibi|合法化借口]]。
+> > - **历史比较批判派（Kazamias, 2009a; Barber, 1973）** 痛斥[[Empiricism|唯方法论主义]]的狭隘盲目，证明历史工作假说能够提供更为深刻的制度警鉴，拒绝沦为政策推卸责任的[[Social Science as Legitimation Alibi|合法化借口]]。
 
 > [!critique] 外部批评
 > - **实证派指责的主观性与不[[Falsification|可证伪性]]** 20 世纪中叶实证主义学者抨击精神科学传统过于依赖研究者的历史修养与个人洞察，缺乏可重复的标准化测量指标，容易滑向主观随笔与不可检验的宏大观念叙事。

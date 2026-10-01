@@ -5,10 +5,10 @@ aliases:
   - 依附论
   - dependency lens in comparative education
   - centre-periphery in comparative education
-summary: "兴起于拉丁美洲并拓展至比较教育的新马克思主义批判路径。拒绝现代化理论将欠发展归结为内部缺失的技术主义假设，主张从全球资本主义世界体系的中心-边缘结构性支配、跨国垄断资本掠夺、受限国家阶级联盟、金融-智识复合体规训及影子国家外包机制出发，解释第三世界国家教育不平等、双轨分流及学术依附。"
+summary: "兴起于拉丁美洲并拓展至比较教育的新马克思主义批判路径。拒绝现代化理论将欠发展归结为内部缺失的技术主义假设，主张从全球资本主义世界体系的中心-边缘结构性支配、跨国垄断资本掠夺、受限国家阶级联盟、金融-智识复合体规训及影子国家外包机制出发，解释第三世界国家教育不平等、双轨分流及学术依附；构成战后第四代际批判冲突与跨国宏观范式的核心基石。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 62
+theory_related_count: 63
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -22,21 +22,22 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[State Educational Sovereignty]]"
   - "[[Shadow State]]"
+  - "[[Paradigm]]"
   - "[[Pact of Domination]]"
   - "[[Compensatory Legitimation]]"
   - "[[Champ]]"
   - "[[Import Substitution Industrialisation]]"
-  - "[[Paradigm]]"
   - "[[Critical Pedagogy]]"
   - "[[Financial-Intellectual Complex]]"
   - "[[Dual School System]]"
   - "[[Policy Borrowing]]"
   - "[[Hypothesis]]"
+  - "[[Value Neutrality]]"
   - "[[Global Universities Rankings]]"
   - "[[Epistemic Governance]]"
   - "[[Positivism]]"
   - "[[Document]]"
-  - "[[International Education]]"
+  - "[[Educational Multilateralism]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Research Question]]"
@@ -50,8 +51,8 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Network Governance]]"
   - "[[Attrition]]"
-  - "[[Revolutionism]]"
   - "[[Geopolitics of Higher Education]]"
+  - "[[Research Problem]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Critical Theory]]"
@@ -64,16 +65,16 @@ related_theories:
   - "[[World Society Theory]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Fieldwork]]"
   - "[[Analytic Framework]]"
-  - "[[Correlational Research]]"
 related_persons:
   - "[[Martin Carnoy]]"
   - "[[Robert Arnove]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Liliana Esther Olmos]]"
+  - "[[Andreas Kazamias]]"
   - "[[Immanuel Wallerstein]]"
   - "[[Joel Samoff]]"
+  - "[[Val D. Rust]]"
 related_facts:
   - "[[World Bank]]"
   - "[[World Trade Organization]]"
@@ -81,16 +82,16 @@ related_facts:
   - "[[UNESCO]]"
   - "[[International Monetary Fund]]"
 related_arguments:
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
-  - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Yu_Xie_2025_JHE]]"
 related_instruments: []
 confidence: high
-status: active
+status: completed
 created: 2026-06-08
-updated: 2026-09-30
+updated: 2026-10-01
 ---
 
 # Dependency Theory
@@ -102,18 +103,21 @@ updated: 2026-09-30
 > [!theory-position] 理论定位
 > - **解释对象** 资本主义世界体系中中心国家与外围国家之间的不平等支配关系；第三世界国家教育系统内部的阶级双轨分割与文凭异化；高等教育中的学术依附与新殖民主义文化控制；全球化时代多边[[Disciplina and Doctrina|规训]]下的[[State Educational Sovereignty|国家教育主权]]侵蚀与[[Shadow State|影子国家]]现象。
 > - **理论问题** 坚决解构现代化理论与[[Human Capital Theory|人力资本理论]]将后发国家“欠发展”归咎于内部技术性“缺失”或管理不善的虚伪修辞；揭示全球教育不平等本质上是帝国主义剥削与资本主义积累矛盾的地缘产物。
-> - **理论类型** 宏观历史政治经济学[[Critical Theory|批判理论]]与比较教育社会学解释框架。
-> - **知识位置** 植根于拉丁美洲依附论经济学传统（Prebisch, Furtado, Frank, Cardoso & Faletto, dos Santos），在比较教育学中由[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy）、[[Robert Arnove|罗伯特·阿诺夫]]（Robert Arnove）、菲利普·阿尔特巴赫（Philip Altbach）以及[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（Carlos Alberto Torres）与利利亚娜·埃丝特·[[Liliana Esther Olmos|奥尔莫斯]]（Liliana Esther Olmos）等学者深度拓展。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 104–106)]]
+> - **理论类型** 宏观历史政治经济学[[Critical Theory|批判理论]]与比较教育社会学解释框架；构成战后比较教育第四代际“批判冲突与跨国宏观[[Paradigm|范式]]”（Discourse 4, 1970–1990）的核心支柱。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–155)]]
+> - **知识位置** 植根于拉丁美洲依附论经济学传统（Prebisch, Furtado, Frank, Cardoso & Faletto, dos Santos），在比较教育学中由[[Martin Carnoy|马丁·卡诺伊]]（[[Martin Carnoy|Martin Carnoy]]）、[[Robert Arnove|罗伯特·阿诺夫]]（[[Robert Arnove|Robert Arnove]]）、菲利普·阿尔特巴赫（Philip Altbach）以及[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（[[Carlos Alberto Torres|Carlos Alberto Torres]]）与利利亚娜·埃丝特·[[Liliana Esther Olmos|奥尔莫斯]]（[[Liliana Esther Olmos|Liliana Esther Olmos]]）等学者深度拓展。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 104–106)]]
 
 > [!claim] 核心判断
 > 第三世界国家的欠发展并非源于现代性制度要素的匮乏，而是西方宗主国长期剥削与资本主义世界体系结构性约束的直接产物。教育系统绝非中立的技能分配器，而是中心跨国资本与外围买办[[Pact of Domination|统治同盟]]维系政治霸权、输出文化帝国主义并推行[[Compensatory Legitimation|补偿性合法化]]的核心[[Champ|场域]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 426–427)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 73–75)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
+
+> [!citation-card] 卡扎米亚斯论依附理论破除学校中立神话与第四代际范式转向
+> [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Andreas Kazamias|Andreas Kazamias]]）指出，1970 年代兴起的马克思主义、依附理论与世界体系分析构成了学科史第四代际。批判学者将权力、阶级剥削、意识形态霸权与不依附理论引入教育研究，彻底打破了把学校视为中立育人机构的传统幻想，指出学校既是维系阶级不平等的工具，也是大众争取平等权利的博弈场所。阿诺夫等人基于[[Immanuel Wallerstein|沃勒斯坦]]世界体系论，论证全球教育呈现出深刻的依附关系：发达中心对发展中国家形成[[Hegemony|文化霸权]]，而发展中国家的政治经济精英又在本土社会中维持对边缘群体的支配，形成了跨国教育资源的层层倾斜与支配链条。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
 
 ---
 
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 20 世纪 60 年代拉美社会科学家（Raúl Prebisch, Celso Furtado, Andre Gunder Frank, Theotônio dos Santos, Fernando Henrique Cardoso）反思[[Import Substitution Industrialisation|进口替代工业化]]受阻与外债危机提出依附论；Martin Carnoy（1974）出版《作为文化帝国主义的教育》（*Education as Cultural Imperialism*），首次将依附论系统引入比较教育。
+> - **提出者与原始文本** 20 世纪 60 年代拉美社会科学家（Raúl Prebisch, Celso Furtado, Andre Gunder Frank, Theotônio dos Santos, Fernando Henrique Cardoso）反思[[Import Substitution Industrialisation|进口替代工业化]]受阻与外债危机提出依附论；卡诺伊（Carnoy, 1974）出版《作为文化帝国主义的教育》（*Education as Cultural Imperialism*），首次将依附论系统引入比较教育。
 > - **原初问题** 为什么第三世界国家在二战后获得政治独立且经历大规模教育扩张后，不仅未能实现欧美式普遍繁荣，反而深陷严重的社会阶级极化、外债危机与对西方宗主国的技术依附？
 > - **理论资源与材料** 马克思列宁主义帝国主义论、拉加经委会（CEPAL）不等价交换理论、葛兰西[[Hegemony|文化霸权]]学说，以及对亚非拉殖民教育遗产的实地历史考察。
 > - **形成路径** 从最初批判宗主国与殖民地的“文化帝国主义”与“心灵奴役”，逐步深化至剖析外围依附性国家机器的运作机制，揭示跨国资本如何通过国际金融组织（如[[World Bank|世界银行]]）对受援国实施结构性[[Disciplina and Doctrina|规训]]与政策渗透。
@@ -121,13 +125,13 @@ updated: 2026-09-30
 ### 后续修订与扩展
 
 > [!dev-timeline] 理论版本与贡献
-> - **1974 — 学科文化帝国主义奠基** [[Martin Carnoy|马丁·卡诺伊]]（Carnoy, 1974）系统批判正规学校教育在殖民与新殖民秩序中的顺从驯化功能，开创依附论比较教育[[Paradigm|研究范式]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 426)]]
+> - **1974 — 学科文化帝国主义奠基** 卡诺伊（Carnoy, 1974）系统批判正规学校教育在殖民与新殖民秩序中的顺从驯化功能，开创依附论比较教育[[Paradigm|研究范式]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 426)]]
 > - **1977–1978 — 心灵奴役与学术依附命题** 菲利普·阿尔特巴赫（Altbach, 1977）提出“心灵的奴役”（Servitude of the Mind），揭示学术期刊、科研出版与国际学位垄断如何在外围学者中再生产非自觉的学术依附。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 427)]]
-> - **1980 — 世界体系引入与慈善帝国主义批判** [[Robert Arnove|罗伯特·阿诺夫]]（Arnove, 1980）将[[Immanuel Wallerstein|沃勒斯坦]]世界体系论引入比较教育，指出跨国基金会与金融机构推行的教育革新，实质上固化了既有的中心-边缘与国内阶层分化体系。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
-> - **1990 — 社会主义社会过渡与[[Critical Pedagogy|解放教育学]]** 卡诺伊与[[Joel Samoff|萨莫夫]]（Carnoy & Samoff, 1990）探究第三世界国家在向社会主义过渡期，如何借助激进教育革命清除依附性阶级残余。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 427–428)]]
-> - **2000s — 新自由主义多标度规训与[[Shadow State|影子国家]]** 阿诺夫与萨顿（Sutton & Arnove, 2004）及卡马特（Kamat, 2004）揭示依附机制的新形态：跨国经贸规制（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）与[[Pluri-Scalar Governance|多标度治理]]穿透民族国家主权，国际援助方绕过政府直接资助非政府组织提供教育，使 NGO 异化为去政治化的[[Shadow State|影子国家]]并剥夺国家公共责任。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
+> - **1980–1982 — 世界体系引入与跨国不平等层层传递机制** [[Robert Arnove|阿诺夫]]（Arnove, 1980, 1982）将[[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]（[[Immanuel Wallerstein|Immanuel Wallerstein]]）世界体系论引入比较教育，指出跨国基金会与金融机构推行的教育革新固化了中心-边缘分层；卡扎米亚斯（Kazamias, 2009a）特别指出，阿诺夫揭示了中心国家主导外围、外围精英支配边缘大众的跨国不平等层层传递链条。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
+> - **1990 — 社会主义社会过渡与[[Critical Pedagogy|解放教育学]]** 卡诺伊与[[Joel Samoff|乔尔·萨莫夫]]（Carnoy & Samoff, 1990）探究第三世界国家在向社会主义过渡期，如何借助激进教育革命清除依附性阶级残余。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 427–428)]]
+> - **2000s — 新自由主义多标度规训与[[Shadow State|影子国家]]** 阿诺夫与萨顿（Sutton & Arnove, 2004）及卡马特（Kamat, 2004）揭示依附机制的新形态：跨国经贸规制（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）与[[Pluri-Scalar Governance|多标度治理]]穿透民族国家主权，国际援助方绕过政府直接资助非政府组织提供教育，使 NGO 异化为去政治化的影子国家并剥夺国家公共责任。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
 > - **2009 — [[Conditioned State Theory|受限国家理论]]与[[Financial-Intellectual Complex|金融-智识复合体]]** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）提出“受限国家”概念，系统剖析第三世界教育扩张畸变、[[Dual School System|双轨学制]]固化及世界银行[[Financial-Intellectual Complex|金融-智识复合体]]的去主权化规训。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–75, 81–85)]]
-> - **2009 — 全球化响应批判与强制再生产机制** 约翰斯通与阿拉夫（Johnstone & Allaf, 2009 / [[Argument_Rust_2009_Reflections|Rust et al., 2009]]）梳理比较教育学术史范式分化，确认依附论为 1970 年代打破结构功能主义垄断的 26 种核心批判范式之一，并在全球化响应框架中提出“强制再生产（Reproduction / Forced Imposition）”类型，揭示西方核心国家与跨国金融机构如何通过隐性课程与政策强制向外围从属国家输出外部方案以维系结构依附。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 134, 136)]]
+> - **2009 — 学术史代际定性与历史健忘症悖论** 卡扎米亚斯（Kazamias, 2009a）在总结学科史四重论述代际时，高度肯定依附论打破实证功能主义与[[Human Capital Theory|人力资本理论]]的神话，但同时也深刻诊断出其宏观政治经济学偏向在客观上伴随着对历史研究方法的放逐，使学科陷入“历史健忘症（Historical Amnesia）”。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–156)]]
 > - **2020s — 高教地缘政治与学术新殖民主义** 余婧然与谢爱磊（2025）等学者运用中心-边缘与学术资本透镜，批判全球大学排行榜与西方学术霸权对全球南方学术主权的侵害。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 4–5)]]
 
 ---
@@ -152,7 +156,7 @@ updated: 2026-09-30
 ## 核心命题
 
 > [!theory-proposition] 命题一｜拒绝现代化理论的内部“缺失”假定，教育欠发展是资本主义世界体系中心-边缘结构性支配的直接产物
-> **解释** 现代化理论与[[Human Capital Theory|人力资本理论]]将第三世界国家的落后视为管理能力不足、技术落后或财政匮乏的“发展缺失”，倡导通过照搬西方现代制度消除差距。依附理论彻底推翻此项[[Hypothesis|假设]]，指出欠发展的本质是资本主义中心国家为了汲取剩余价值，在世界范围内强制确立的不平等劳动分工与地缘政治从属。经验历史证实，长期与欧美中心发生紧密贸易往来的边缘地区（如巴西东北部、海地）陷入持久贫困，未能因外部接触而现代化（Frank, 1969; Wallerstein, 1974）。跨国援助机构推广的教育革新，实质上固化了既有的中心-边缘与国内阶层分层。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 426)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
+> **解释** 现代化理论与[[Human Capital Theory|人力资本理论]]将第三世界国家的落后视为管理能力不足、技术落后或财政匮乏的“发展缺失”，倡导通过照搬西方现代制度消除差距。依附理论彻底推翻此项[[Hypothesis|假设]]，指出欠发展的本质是资本主义中心国家为了汲取剩余价值，在世界范围内强制确立的不平等劳动分工与地缘政治从属。卡扎米亚斯指出，这一批判彻底打破了将学校视为[[Value Neutrality|价值中立]]育人机构的传统幻想。跨国援助机构推广的教育革新，实质上固化了既有的中心-边缘与国内阶层分层。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 426)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
 >
 > **应用实例** 20 世纪中叶西方援助机构向非洲与拉美大规模输出西方正规学校模型与课程方案，不仅未能解决受援国失业危机，反而造成大量农村劳动力脱离本土生产实践、盲目涌入城市贫民窟，进一步加深了对外部粮食与工业品的依附。
 
@@ -173,7 +177,7 @@ updated: 2026-09-30
 ---
 
 > [!theory-proposition] 命题四｜债务危机与新自由主义重组将依附推向新阶段，跨国[[Financial-Intellectual Complex|金融-智识复合体]]与[[Shadow State|影子国家]]侵蚀公共教育主权
-> **解释** 20 世纪 80 年代以来，[[International Education|国际教育]]多边主义经历了从注重福利再分配向新自由主义[[Disciplina and Doctrina|规训]]与防卫的深刻转向（Mundy, 1998）。[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]结成金融-智识复合体，通过[[Structural Adjustment Programs|结构调整]]贷款强制受援国削减公共教育开支、推行[[Endogenous and Exogenous Privatisation|教育私有化]]与使用者付费。与此同时，援助机构绕过国家政府，将公共教育服务大量外包给非政府组织，使其退化为去政治化的“影子国家”；跨国经贸协定（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）进一步将教育商品化，使经济薄弱的边缘国家丧失了统筹国民教育与宏观调控的主权能力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80, 83–85)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
+> **解释** 20 世纪 80 年代以来，[[Educational Multilateralism|国际教育多边主义]]经历了从注重福利再分配向新自由主义[[Disciplina and Doctrina|规训]]与防卫的深刻转向。[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]结成金融-智识复合体，通过[[Structural Adjustment Programs|结构调整]]贷款强制受援国削减公共教育开支、推行[[Endogenous and Exogenous Privatisation|教育私有化]]与使用者付费。与此同时，援助机构绕过国家政府，将公共教育服务大量外包给非政府组织，使其退化为去政治化的“影子国家”；跨国经贸协定（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）进一步将教育商品化，使经济薄弱的边缘国家丧失了统筹国民教育与宏观调控的主权能力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80, 83–85)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
 >
 > **应用实例** 约旦河西岸的学前教育民间组织深陷于西方捐助者的考核指标、自治政府的政治控制与本土社区诉求之间，丧失了批判能动性并演化为影子国家；智利在军政权时期推行激进教育券制与私有化，严重摧毁了公立基础教育的公共性。
 
@@ -214,7 +218,7 @@ updated: 2026-09-30
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 处于全球资本主义世界体系边缘或半边缘的发展中国家；遭受外部债务危机与[[Structural Adjustment Programs|结构调整]]冲击的教育体系；跨国教育援助与学术新殖民主义现象；非政府组织公共服务异化。
 > - **成立条件** 存在明显的不对称跨国权力关系与资本依附纽带；国家机器具有鲜明的买办性或受制性特征。
-> - **解释不足** 传统依附论过于偏重宏观资本结构[[Determinism|决定论]]，在解释边缘国家本土学校师生的微观抗争能动性、本土制度杂糅与东亚后发国家通过强势国家干预实现教育跨越式发展的经验时存在理论盲区。后续比较教育学者通过“全球与本土辩证法”以及微观[[Fieldwork|田野研究]]，补充了基层行动者的变通与抵制能动性。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
+> - **解释不足与历史健忘症反思** 传统依附论过于偏重宏观资本结构[[Determinism|决定论]]，在解释边缘国家本土学校师生的微观抗争能动性、本土制度杂糅与东亚后发国家通过强势国家干预实现教育跨越式发展的经验时存在理论盲区。更深刻的是，卡扎米亚斯（Kazamias, 2009a）指出，第四代际学者在高度关注跨国政治经济学结构的同时，严重边缘化了历史研究方法，导致比较教育研究深陷当下主义与历史健忘症。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 154–156)]]
 > - **不能直接推出** 不能将所有发展中国家面临的教育管理低效或财政困境均简单归咎为外部帝国主义阴谋；必须结合本土历史文化制度与阶级结构开展具体分析。
 
 ---
@@ -228,14 +232,15 @@ updated: 2026-09-30
 > >
 > > - **依附论马克思主义学者（Carnoy, 1974; Torres, 2009）** 主张沿袭历史唯物主义传统，通过构建广泛的反抗联盟重构[[Praxis|实践哲学]]与[[Critical Pedagogy|解放教育学]]。
 > > - **后/去殖民学者（Silova, 2020; Mignolo, 2007）** 批评依附论的社会主义方案依然没有脱离欧洲中心主义的普遍理性化框架，主张必须彻底解构西方认识型。
->
+> >
 > > [!axis] 宏观结构[[Causal Over-determination|过度决定]]论 vs 边缘主体微观抗争能动性
 > > 批评者指出，经典依附论往往将外围国家简化为被动承受跨国资本宰割的受害者，在理论上抹杀了边缘本土学校、教师工会与基层社区的选择性抵抗与[[Creativity|创造性]]重构潜能。
 > >
 > > - **传统结构主义依附论** 强调资本主义世界体系对教育系统的单向塑造与剥削。
-> > - **全球与本土辩证法学者（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]; Monkman & Baird, 2002）** 论证边缘行动者绝非消极受害者；在巴布亚新几内亚乡村、印度女教师培训以及基层合作社网络中，底层行动者始终在通过文化抵制和[[Globalization from Below|自下而上的全球化]]展开生动的反抗。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110, 113–114)]]
+> > - **全球与本土辩证法学者（Arnove, 2009; Monkman & Baird, 2002）** 论证边缘行动者绝非消极受害者；在巴布亚新几内亚乡村、印度女教师培训以及基层合作社网络中，底层行动者始终在通过文化抵制和[[Globalization from Below|自下而上的全球化]]展开生动的反抗。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110, 113–114)]]
 
 > [!critique]- 批评索引
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 深刻指出第四代际批判学者虽揭露了教育维系不平等的阶级本质与依附结构，但在方法论上由于过度执迷于宏观当代社会学与政治经济学抽象模型，严重放逐了历史维度，促成了学科的历史健忘症。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 批评依附论过于强调资本主义世界体系对边缘教育系统的结构性决定作用，导致边缘能动主体的杂糅与抵抗实践在理论上被过度消解。
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 指出在新自由主义全球化分散权威与多中心[[Network Governance|网络化治理]]现实下，单纯二元单向的“中心-边缘”模型难以全面涵盖跨国非政府组织与数字平台的复杂博弈。
 
@@ -261,14 +266,19 @@ updated: 2026-09-30
 > | [[Carlos Alberto Torres]] | 人物 | 将依附论与[[Critical Pedagogy\|批判教育学]]、国家理论结合，系统发展拉美教育政治经济学[[Analytic Framework\|分析框架]]。 |
 > | [[Liliana Esther Olmos]] | 人物 | 与托雷斯合作系统运用依附论框架剖析第三世界教育扩张畸变与全球化危机。 |
 > | [[Martin Carnoy]] | 人物 | 出版《作为文化帝国主义的教育》，开创依附论比较教育研究传统。 |
+> | [[Andreas Kazamias]] | 人物 | 确立依附理论在战后第四代际批判冲突范式中的核心地位，并提出历史健忘症的[[Epistemology\|认识论]]批评。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 权威阐明第四代际批判冲突与跨国宏观范式中依附理论的突破、跨国不平等传递链条及历史流失反思。 |
 
 ---
 
-## 相关研究
+## 参考文献
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 将世界体系与依附论结合，透视跨国援助固化国际分层、[[Pluri-Scalar Governance|多标度治理]]穿透主权、[[Shadow State|影子国家]]异化及微观底层抗争的完整政治经济学图景。
-> - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 将依附理论比较教育置于[[Revolutionism|革命主义]]国际关系传统中，详述其在拒绝缺失解释、批判文化帝国主义与社会过渡教育方面的历史脉络。
-> - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 梳理比较教育学术史[[Paradigm|范式]]分化，将依附论定性为突破单一功能主义垄断的关键范式，并揭示跨国资本与外部机构通过强制再生产向从属边缘国家移植方案以固化结构依附的机制。
-> - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 揭示[[Geopolitics of Higher Education|高等教育地缘政治]]发展阶段，分析冷战后学者运用中心-边缘与依附论框架探讨学术新殖民主义与全球高等教育不平等机制的作用。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 建立[[Conditioned State Theory|受限国家理论]][[Analytic Framework|分析框架]]，批判普世[[World Society Theory|世界文化理论]]，深刻揭示拉美教育倒金字塔式双轨扩张与[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的政策[[Disciplina and Doctrina|规训]]。
+- Arnove, R. F. (1980). Comparative education's nascent frontier: The relation of world-systems analysis to the [[Champ|field]]. *Comparative Education Review*, 24(1), 48–62.
+- Arnove, R. F. (2009). World-systems analysis and comparative education in the age of globalization. In R. Cowen & A. M. Kazamias (Eds.), *International Handbook of Comparative Education* (pp. 101–120). Springer.
+- Carnoy, M. (1974). *Education as cultural imperialism*. David McKay.
+- [[Martin Carnoy|Carnoy, M.]], & Samoff, J. (1990). *Education and social transition in the Third World*. Princeton University Press.
+- Kazamias, A. M. (2009a). Comparative education: Historical reflections. In R. Cowen & A. M. Kazamias (Eds.), *International Handbook of Comparative Education* (pp. 139–157). Springer.
+- Klerides, E. (2023). Thinking comparatively about education: On the history of ideas in comparative education. In R. Cowen & A. M. Kazamias (Eds.), *International Handbook of Comparative Education* (pp. 417–440). Springer.
+- [[Liliana Esther Olmos|Olmos, L. E.]], & Torres, C. A. (2009). Theories of the state, educational expansion, institutional diversity, and resource allocation in Latin America. In R. Cowen & A. M. Kazamias (Eds.), *International Handbook of Comparative Education* (pp. 73–88). Springer.
+- [[Val D. Rust|Rust, V. D.]], Johnstone, C., & Allaf, C. (2009). Reflections on the world-system, globalization, and the forces of reproduction and resistance. In R. Cowen & A. M. Kazamias (Eds.), *International Handbook of Comparative Education* (pp. 121–138). Springer.
+- 余婧然, 谢爱磊. (2025). [[Geopolitics of Higher Education|高等教育地缘政治]]：演进脉络、现实表征与[[Research Problem|研究议题]]. *高等教育研究*, 46(2), 1–12.
