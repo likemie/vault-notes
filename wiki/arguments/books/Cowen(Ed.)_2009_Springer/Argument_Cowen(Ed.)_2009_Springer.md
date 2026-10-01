@@ -7,7 +7,7 @@ title: "Argument_Cowen(Ed.)_2009_Springer"
 argument_key: "Argument_Cowen(Ed.)_2009_Springer"
 argument_display_title: "International Handbook of Comparative Education"
 argument_kind: "edited-volume"
-argument_related_count: 76
+argument_related_count: 78
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Champ]]"
+  - "[[Development Education]]"
   - "[[Comparative History of Comparative Education]]"
   - "[[Shape-Shifting]]"
   - "[[Geopolitics of Knowledge]]"
@@ -105,6 +106,7 @@ related_facts:
   - "[[Comparative Education Society in Europe]]"
   - "[[World Trade Organization]]"
   - "[[GATS and Trade in Education Services]]"
+  - "[[Education in Europe]]"
 related_arguments:
   - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
@@ -158,7 +160,7 @@ updated: 2026-09-29
 > [!volume-structure] 全书结构
 > - **Section 1 / Ch. 01–10 — 学科的创建与再造（The Creation and Re-creation of a [[Champ\|field]]）** 反思学科起源神话、现代主义源头、科学[[Paradigm\|范式]]、国家理论、世界体系分析与欧洲传统。（pp.3–157）
 > - **Section 2 / Ch. 11–20 — 政治形态与教育系统（Political Formations and Educational Systems）** 考察帝国主义与殖民遗产、民族国家建构、希腊/意大利国家形态、后社会主义转型与欧盟话语。（pp.161–334）
-> - **Section 3 / Ch. 21–30 — 民族、国际与全球（The National, The International, and The Global）** 审视教育转移、流动与移民、原教旨与世俗主义、世界性、多元文化教育、国际发展教育以及[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）与多边银行。（pp.337–495）
+> - **Section 3 / Ch. 21–30 — 民族、国际与全球（The National, The International, and The Global）** 审视教育转移、流动与移民、原教旨与世俗主义、世界性、多元文化教育、[[Development Education|国际发展教育]]以及[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）与多边银行。（pp.337–495）
 > - **Section 4 / Ch. 31–40 — 工业化、[[Knowledge-Based Economy\|知识经济]]与教育（Industrialisation, Knowledge Economies and Education）** 分析公共教育分层、职业教育、评估国家（Evaluative State）、欧洲高教区重构、亚太市场化与[[Network Society\|网络社会]]。（pp.499–650）
 > - **Section 5 / Ch. 41–50 — 后殖民主义（Postcolonialism）** 深入探讨[[Post-colonial Theory\|后殖民理论]]、次撒哈拉非洲、性别与暴力、人权局限与社会正义。（pp.653–806）
 > - **Section 6 / Ch. 51–60 — 文化、知识与教学法（Cultures, Knowledge and Pedagogies）** 探索儒家、印度教、伊斯兰教与基督教文化在现代性中的知识形态，反省课程与可持续教学变革。（pp.809–973）
@@ -222,7 +224,7 @@ updated: 2026-09-29
 > - **Ch. 04 — Forgotten Men, Forgotten Themes** [[Argument_Kazamias_2009_ForgottenThemes]] — 重新发掘比较教育学史上被遗忘的大师（[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯、[[Robert Ulich\|乌利希]]）与历史哲学、自由人文主义母题，确立[[Historical-Comparative Method\|历史比较法]]归纳工作[[Hypothesis\|假设]]的正当性。
 > - **Ch. 05 — The Scientific [[Paradigm]] in Comparative Education** [[Argument_Mattheou_2009_ScientificParadigm]] — 评析[[Scientific Paradigm\|比较教育学科学范式]]的兴起动因、四大派别在目标与法则上的[[Epistemology\|认识论]]分野，揭示其充当战后国家规划合法化工具的深层机制及走向多元解体的必然性。
 > - **Ch. 06 — Theories of The State, Educational Expansion, Development, and Globalizations** [[Argument_Olmos_Torres_2009_StateTheories]] — 从马克思主义政治经济学解构教育扩张的普世叙事，提出以资本积累与政治合法化为核心的[[Conditioned State Theory|受限国家]]与[[State Corporatism|国家法团主义]][[Analytic Framework|分析框架]]，批判新自由主义[[Financial-Intellectual Complex|财智复合体]]的政策[[Disciplina and Doctrina|规训]]。
-> - **Ch. 07 — Comparative Education in Europe** [[Argument_Mitter_2009_Europe]] — 以“多样性与统一性”的二分法为核心结构原则，系统梳理欧洲比较教育两百年来的大学教席版图、专业学会网络、三大理论范式演进、空间拓展与政策咨询光谱（[[Navigation Metaphor in Comparative Education|航海隐喻]] vs 直接干预）。
+> - **Ch. 07 — Comparative [[Education in Europe]]** [[Argument_Mitter_2009_Europe]] — 以“多样性与统一性”的二分法为核心结构原则，系统梳理欧洲比较教育两百年来的大学教席版图、专业学会网络、三大理论范式演进、空间拓展与政策咨询光谱（[[Navigation Metaphor in Comparative Education|航海隐喻]] vs 直接干预）。
 > - **Ch. 08 — World-systems Analysis and Comparative Education in the Age of Globalization** [[Argument_Arnove_2009_WorldSystems]] — 阐述世界体系分析在当代比较教育中的应用与演变，辨析新制度主义世界文化流派与政治现实主义流派的理论交融，解构[[Pluri-Scalar Governance|多标度治理]]、[[Shadow State|影子国家]]与[[Globalization from Below|自下而上的全球化]]抗争。
 > - **Ch. 09 — Reflections on the Development of Comparative Education** [[Argument_Rust_2009_Reflections]] — 平反十九世纪[[Influences Across Cultures|跨文化影响]]考证遗产，揭示实证[[Pluralism|多元主义]]的健康本质，建构涵盖强制再生产的全球化四重批判响应模型。
 > - **Ch. 10 — Comparative Education: Historical Reflections** Argument_Kazamias_2009_HistoricalReflections — 总结学科第一板块的历史反思，为学科再造提供历史哲学锚点。

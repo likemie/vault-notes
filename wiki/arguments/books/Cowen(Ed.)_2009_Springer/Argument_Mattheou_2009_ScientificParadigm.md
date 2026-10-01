@@ -7,7 +7,7 @@ title: "Argument_Mattheou_2009_ScientificParadigm"
 argument_key: "Argument_Mattheou_2009_ScientificParadigm"
 argument_display_title: "The Scientific Paradigm in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 73
+argument_related_count: 74
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -69,6 +69,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Knowledge Production]]"
   - "[[Champ]]"
+  - "[[Development Education]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -396,7 +397,7 @@ updated: 2026-09-08
 > - **战后中央五年计划与财政预算扩张** 赫伯特·帕恩斯（Herbert Parnes; Parnes, 1962）等经济学家主导的计划体制，仰赖实证规划模型为大幅提升国家教育财政投入提供技术支撑。
 > - **[[Human Capital Theory\|人力资本理论]]与潜在人才库测算** 西奥多·舒尔茨与威廉·鲍恩的人力资本理论与人才库调查，以数学形式将教育论证为战后经济增长的核心引擎。（Schultz, 1963; Bowen, 1964）
 > - **英美综合中学制度重组运动** 哈尔西、弗劳德与安德森等社会学家的实证数据，被直接采纳为破除阶层双轨制、推行综合中学的合法化科学旗帜。（Halsey et al., 1961）
-> - **第三世界发展教育与技术援助话语** 弗雷德里克·哈比森（Frederick Harbison）与查尔斯·迈尔斯（Charles Myers; Harbison & Myers, 1964）等人的发展理论，以客观数据为技术援助方案赋予学术祝福，遮蔽了依附关系的批判反思。（Adams & Bjork, 1971）
+> - **第三世界[[Development Education|发展教育]]与技术援助话语** 弗雷德里克·哈比森（Frederick Harbison）与查尔斯·迈尔斯（Charles Myers; Harbison & Myers, 1964）等人的发展理论，以客观数据为技术援助方案赋予学术祝福，遮蔽了依附关系的批判反思。（Adams & Bjork, 1971）
 
 #### 2. 三重危机与单一全包容科学范式的衰退与学科复数化
 
@@ -445,7 +446,7 @@ updated: 2026-09-08
 > *Normative laws are man-made and can be accepted, rejected or changed by man... Representing man's beliefs, [they] are part of the context in which schools are run... On the other hand, sociological laws, like the laws of physics, are man-made statements that apply to the functioning of societal institutions... They are hypothetical, and if they are to be scientific, should be refutable. Finally, sociological laws are not universally valid: they are contingent, in the sense that, although they constitute universal or general statements they are dependent on the conditions under which they are to be applied.*
 
 > [!citation-card] 社会科学研究沦为现存执政正统的[[Social Science as Legitimation Alibi\|合法化借口]]
-> 发展教育学派与现代化理论家凭借其充满说服力的证据，成为了世界各地教育改革的基石，政策制定者迅速援引科学研究的硬事实作为支撑。在这一层面上，社会科学已然蜕变为现存教育政治正统的便利借口与合法化手段。（pp. 67–68）
+> [[Development Education|发展教育]]学派与现代化理论家凭借其充满说服力的证据，成为了世界各地教育改革的基石，政策制定者迅速援引科学研究的硬事实作为支撑。在这一层面上，社会科学已然蜕变为现存教育政治正统的便利借口与合法化手段。（pp. 67–68）
 >
 > *Exponents of development education... and modernisation theorists... with all their reassuring evidence were the cornerstone of reform almost everywhere, with policy makers prompt to call upon the hard facts of scientific research. In this sense social science had become a convenient alibi and/or a legitimising means for the prevailing political orthodoxy in education.*
 

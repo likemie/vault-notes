@@ -11,7 +11,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Structural Adjustment Programs]]"
   - "[[Public-Private Partnership in Research]]"
+  - "[[Development Education]]"
   - "[[Performance Indicators]]"
   - "[[Document]]"
   - "[[Soft Power by Hard Facts]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Poverty Reduction Strategy Papers
@@ -74,7 +75,7 @@ updated: 2026-09-29
 > - **约束机制** 必须通过世行与 IMF 联合参谋部咨询评估（Joint Staff Advisory Note，JSAN）的严格审计，否则直接中止后续放贷周期。
 
 > [!citation-card] 世界银行通过放贷周期与减贫战略文件实施教育规制
-> 世界银行对发展中国家教育的影响源于其资金实力以及对管理-科学效率的绝对宣称，具体体现为其高度官僚化的放贷周期和《减贫战略文件》（PRSPs）等管理工具。Elfert & Ydesen (2023, p. 100, 转引自 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024, p. 542]])
+> 世界银行对[[Development Education|发展中国家教育]]的影响源于其资金实力以及对管理-科学效率的绝对宣称，具体体现为其高度官僚化的放贷周期和《减贫战略文件》（PRSPs）等管理工具。Elfert & Ydesen (2023, p. 100, 转引自 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024, p. 542]])
 >
 > *The World Bank’s influence on education in developing countries derived from its funding power and claims to managerial-scientific efficiency, exemplified by its managerial tools, such as the highly bureaucratic lending cycle and the Poverty Reduction Strategy Papers (Elfert and Ydesen 2023, 100).*
 

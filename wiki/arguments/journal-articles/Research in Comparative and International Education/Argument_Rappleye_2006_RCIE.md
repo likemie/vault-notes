@@ -9,7 +9,7 @@ title: "Argument_Rappleye_2006_RCIE"
 argument_key: "Argument_Rappleye_2006_RCIE"
 argument_display_title: "Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Causality]]"
   - "[[Externalization]]"
+  - "[[Interpretivism]]"
   - "[[Concept Mapping]]"
   - "[[Document]]"
   - "[[Hypothesis]]"
@@ -104,7 +105,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - **类型** 理论建构（概念性/分析性论文）。方法论立场属于解释主义（interpretive），追求理解和分析情境复杂性的概念工具，而非因果定律。
+> - **类型** 理论建构（概念性/分析性论文）。方法论立场属于[[Interpretivism|解释主义]]（interpretive），追求理解和分析情境复杂性的概念工具，而非因果定律。
 > - **经验基础** 对中国和美国对日本教育的[[Cross-National Attraction\|跨国吸引力]]的历史比较研究(MSc dissertation, University of Oxford, 2006)。该历史研究为[[Concept Mapping\|概念地图]]的构成要素提供了经验支撑。
 > - **建构策略** 在 Phillips & Ochs 现有模型的基础上进行重组、补充和深化。具体操作包括：(1) 将 Phillips & Ochs 的单层"推动力"拆分为结构层和人的层面的双层结构；(2) 新增"阻力侧"——结构阻力与抵制行动者；(3) 引入 Ochs (2005) 的四种吸引力"火花"作为动机分类；(4) 以美国 1980 年代对日本教育的吸引力为示范性案例，说明地图的使用方式。
 

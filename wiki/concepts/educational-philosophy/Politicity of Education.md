@@ -9,7 +9,7 @@ aliases:
 summary: "批判教育学揭示的教育本质属性，拒绝技术官僚主义的价值中立虚构，主张教育在认识论、分析与伦理维度上天然内嵌于权力关系、国家意志与意识形态对抗之中，学校教育本质上是多元社会政治经济方案博弈的争鸣场域"
 type: concept
 domain: "educational-philosophy"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -56,6 +56,7 @@ related_persons:
   - "[[Michael W. Apple]]"
   - "[[Martin Carnoy]]"
   - "[[Liliana Esther Olmos]]"
+  - "[[Henry Giroux]]"
 related_facts:
   - "[[World Bank]]"
   - "[[OECD]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # Politicity of Education
@@ -173,7 +174,7 @@ updated: 2026-09-28
 
 > [!dev-timeline] 概念演变
 > - **1968–1970 — [[Paulo Freire|弗莱雷]]奠定教育政治性[[Ontology|本体论]]基石** [[Paulo Freire|保罗·弗莱雷]]在流亡期间出版《被压迫者教育学》，正式提出教育具有固有的政治性（Politicidade），开创[[Critical Pedagogy|批判教育学]]传统。
-> - **1980s–1990s — 批判教育学与国家理论的深度结合** [[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）与亨利·吉鲁（Henry Giroux）等学者将政治性命题拓展至西方发达资本主义国家的意识形态国家机器分析与课程社会学研究。
+> - **1980s–1990s — 批判教育学与国家理论的深度结合** [[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）与[[Henry Giroux|亨利·吉鲁]]（Henry Giroux）等学者将政治性命题拓展至西方发达资本主义国家的意识形态国家机器分析与课程社会学研究。
 > - **2000s–2010s — [[Conditioned State Theory|受限国家]]与新自由主义全球化批判重构** [[Carlos Alberto Torres|托雷斯]]与[[Liliana Esther Olmos|奥尔莫斯]]（2009）将教育政治性理论引入外围依附性国家与新自由主义重组批判，揭露[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的技术中立欺骗性。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 77–80)]]
 > - **当代延伸 — 跨国量化测评与数字审计治理的去政治化解构** 当代批判学者运用教育政治性透镜，批判[[OECD|经合组织]]（OECD）[[PISA]] 测评与新自由主义以“中立科学数据”名义剥夺教师与公民对教育终极目的的民主审议权。
 
@@ -187,7 +188,7 @@ updated: 2026-09-28
 > > [[Positivism|实证主义]]与技术官僚学者批评[[Critical Pedagogy|批判教育学]]将教育政治化，认为这会导致教学与学术研究沦为特定党派或意识形态的宣教工具；批判教育学者反驳指出，指出政治性是为了打破虚伪的中立幻象，促使研究者对自身阶级立场保持高度自省，而非盲目推行政治灌输。
 >
 > > [!axis] 宏观国家[[Determinism|决定论]] vs 微观学校实践的主体抗争能动性
-> > 结构再生产论者强调国家与资本积累对教育系统政治属性的绝对决定力；而[[Post-structuralism|后结构主义]]与抵抗理论学者（如威利斯、吉鲁）则指出，学校并非完全单向服从的意识形态工厂，微观[[Champ|场域]]中始终存在着师生主体性的协商、讽刺与反叛空间。
+> > 结构再生产论者强调国家与资本积累对教育系统政治属性的绝对决定力；而[[Post-structuralism|后结构主义]]与抵抗理论学者（如威利斯、[[Henry Giroux|吉鲁]]）则指出，学校并非完全单向服从的意识形态工厂，微观[[Champ|场域]]中始终存在着师生主体性的协商、讽刺与反叛空间。
 
 > [!warning] 适用边界
 > 教育的政治性并不意味着抹杀教育学术研究与实证数据的科学严谨性，亦非主张用政治口号取代严谨的经验证据分析；它所划定的是对任何自称“绝对超越意识形态与阶级利益”的技术主义方案保持批判警惕的方法论边界。

@@ -11,9 +11,9 @@ subtype: policy
 region: "global"
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "World Bank & UNESCO"
 tags:
@@ -24,6 +24,7 @@ tags:
   - theme/policy-brokerage
 related_concepts:
   - "[[Educational Multilateralism]]"
+  - "[[Development Education]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Paradigm]]"
   - "[[Policy Brokerage]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # 1964 UNESCO-World Bank Cooperative Agreement
@@ -70,7 +71,7 @@ updated: 2026-09-29
 > 协定明确规定由[[UNESCO\|联合国教科文组织]]设立专门的教育融资处（Educational Financing Division），为[[World Bank\|世界银行]]对借贷国开展的教育项目进行前期考察、项目识别与技术可行性论证，而世界银行则保留最终放贷否决权，以此实现联合国人文智库与华盛顿金融实体的制度性借道互补。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 > [!policy-design]- 政策设计
-> - **政策目标** 协调战后联合国体系内的专业技术力量与金融资本，促进向发展中国家教育基础设施与职业技术培训投放优先贷款。
+> - **政策目标** 协调战后联合国体系内的专业技术力量与金融资本，促进向[[Development Education|发展中国家教育]]基础设施与职业技术培训投放优先贷款。
 > - **适用对象** 申请世界银行（IBRD）及国际开发协会（IDA）教育项目优惠贷款的所有第三世界主权国家。
 > - **政策工具** 设立联合工作组、派驻专家考察团（Reconnaissance Missions）、编制国别教育部门诊断报告（Country Education Sector Memoranda）。
 > - **约束机制** 世行不直接聘用庞大内部教育专员，所有教育放贷提案必须经过 UNESCO 专家团出具技术审查意见，世行承担 UNESCO 相关业务支出的 75% 经费。

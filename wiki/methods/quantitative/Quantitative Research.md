@@ -10,7 +10,7 @@ summary: "通过操作化变量、标准化测量、受控实验或抽样调查�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 86
+method_related_count: 85
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -63,6 +63,7 @@ related_methods:
   - "[[Descriptive Analysis]]"
   - "[[Effect Size]]"
   - "[[Model Fit Indices in SEM and CFA]]"
+  - "[[Qualitative Research]]"
   - "[[Blinding]]"
   - "[[Questionnaire]]"
   - "[[Internal Consistency]]"
@@ -94,14 +95,12 @@ related_methods:
   - "[[Measurement Invariance]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Exploratory Factor Analysis]]"
-  - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Correlational Research]]"
   - "[[Intervention Research]]"
   - "[[Non-intervention Research]]"
 related_instruments: []
 related_persons:
-  - "[[Robert E. Stake]]"
   - "[[Karl Popper]]"
   - "[[Søren Kierkegaard]]"
   - "[[Jürgen Habermas]]"
@@ -115,7 +114,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-09-30
+updated: 2026-10-01
 ---
 
 # Quantitative Research
@@ -143,8 +142,8 @@ updated: 2026-09-30
 >
 > *Quantitative research is an approach for testing objective theories by examining the relationship among variables or a comparison among groups. These variables, in turn, can be measured, typically on instruments, so that numbered data can be analyzed using statistical procedures. The final written report has a set structure consisting of introduction, literature and theory, methods, results, and discussion.*
 
-> [!citation-card] [[Robert E. Stake|斯塔克]]论量化研究"解释与控制"的取向本质
-> 量化研究者致力于解释与控制；质性研究者致力于理解万物之间纷繁复杂的交织关系。（Stake, 1995；引自 [[Argument_Rust_2009_Reflections|Rust et al., 2009, p.128]]）
+> [!citation-card] 斯塔克论量化研究"解释与控制"的取向本质
+> 量化研究者致力于解释与控制；[[Qualitative Research|质性研究]]者致力于理解万物之间纷繁复杂的交织关系。（Stake, 1995；引自 [[Argument_Rust_2009_Reflections|Rust et al., 2009, p.128]]）
 >
 > *"Quantitative researchers have pressed for explanation and control; qualitative researchers have pressed for understanding the complex interrelationships among all that exists."* (Stake, 1995)
 
@@ -238,4 +237,4 @@ updated: 2026-09-30
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 确立量化研究在[[Postpositivism\|后实证主义]]世界观下的操作框架与调查/实验规范流程。
 > - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 追踪教育心理学顶级期刊中量化[[Intervention Research\|干预研究]]与[[Non-intervention Research\|非干预研究]]的方法学分布与演进轨迹。
 > - [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] — 警示量化实证研究脱离伦理审视时沦为政治宣传与绩效控制工具的方法论风险。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 在比较教育学方法论史综述中，引用[[Robert E. Stake|斯塔克]] (1995) 对量化研究致力于“解释与控制”取向的经典界定，反思实证科学化追求与比较教育自然情境、非同质文化单位之间的认识论张力。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 在比较教育学方法论史综述中，引用斯塔克 (1995) 对量化研究致力于“解释与控制”取向的经典界定，反思实证科学化追求与比较教育自然情境、非同质文化单位之间的认识论张力。

@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -37,7 +37,8 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Educational Meliorism]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Johann Heinrich Pestalozzi]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Common School Movement
@@ -218,9 +219,9 @@ updated: 2026-09-29
 > | [[Educational Meliorism]] | 概念 | 公学运动是教育改良主义母题在 19 世纪美洲最重要的实践形态。 |
 > | [[Seventh Annual Report of the Massachusetts Board of Education]] | 政策 | 曼欧洲考察后提交的报告，将普鲁士公学经验转译为公学运动核心政治合法化依据。 |
 > | [[Boston Schoolmasters Controversy]] | 事件 | 因第七次报告引发的公学改革派与传统[[Grammar School\|文法学校]]保守派的大决战。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 确认美国公学在制度上几乎直接复制普鲁士国民学校，指出师范学校虽沿用法语词汇实为德国教师讲习所翻版；阐明"恶政与良教在自然上可分"是美国改革者回应保守派指控的核心论辩。 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 确认美国公学在制度上几乎直接复制普鲁士国民学校，指出[[Normal School\|师范学校]]虽沿用法语词汇实为德国教师讲习所翻版；阐明"恶政与良教在自然上可分"是美国改革者回应保守派指控的核心论辩。 |
 
-> [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 系统重构公学运动作为"政策导向行政改良主义"的经典范式，深度剖析霍勒斯·曼、斯托与巴纳德如何将欧陆经验转译为击退本土保守势力的政治合法化依据。
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 系统重构公学运动作为"政策导向行政改良主义"的经典[[Paradigm|范式]]，深度剖析霍勒斯·曼、斯托与巴纳德如何将欧陆经验转译为击退本土保守势力的政治合法化依据。
 > - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 在比较教育学科史脉络中确认美国公学制度模仿普鲁士国民学校，阐明"恶政与良教在自然上可分"作为方法论公理如何回应保守派对引进专制工具的指控。[(Rust et al., 2009, pp. 124–125)]
 \n

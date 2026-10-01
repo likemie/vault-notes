@@ -9,7 +9,7 @@ aliases:
 summary: "源自古希腊教化与德国精神科学传统的品格陶成与自我形成概念，主张教育指向人（Anthropos）在开放未知未来的自主人格塑造，构成抵御狭隘工具化学校教育（Schooling）与数字化算法预测的本体防线。"
 type: concept
 domain: "educational-philosophy"
-related_count: 68
+related_count: 69
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -73,6 +73,7 @@ related_persons:
   - "[[Michael Sadler]]"
   - "[[Isaac Kandel]]"
   - "[[Matthew Arnold]]"
+  - "[[Xenophon]]"
   - "[[Franz Hilker]]"
   - "[[Plato]]"
   - "[[Socrates]]"
@@ -97,7 +98,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Bildung
@@ -254,7 +255,7 @@ updated: 2026-09-29
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **古代希腊罗马 — 游记观察与异域教化实践萌芽** 希罗多德、色诺芬、西塞罗与凯撒等古典作家在记录异域风土人情的同时，敏锐记录不同城邦与帝国的青年品格塑造与教化实践；[[Franz Hilker|弗朗茨·希尔克]]（Franz Hilker）指出这一时期的跨国观察本质上是一门教育实践艺术（educating art），构成了现代比较教育与教化探究最早的经验雏形。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–122)]]
+> - **古代希腊罗马 — 游记观察与异域教化实践萌芽** 希罗多德、[[Xenophon|色诺芬]]、西塞罗与凯撒等古典作家在记录异域风土人情的同时，敏锐记录不同城邦与帝国的青年品格塑造与教化实践；[[Franz Hilker|弗朗茨·希尔克]]（Franz Hilker）指出这一时期的跨国观察本质上是一门教育实践艺术（educating art），构成了现代比较教育与教化探究最早的经验雏形。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–122)]]
 > - **公元前5世纪 — 古希腊 [[Paideia]] 源头** [[Plato\|柏拉图]]与[[Socrates\|苏格拉底]]确立灵魂教化与城邦公民品德培养传统，将全人塑造置于教育最高本体。
 > - **18世纪末–19世纪初 — 德国唯心主义与洪堡改革** [[David Held|赫尔德]]尔、歌德、席勒与[[Georg Wilhelm Friedrich Hegel\|黑格尔]]奠定新人文主义教化哲学；洪堡将 Bildung 确立为柏林大学[[Academic Freedom\|学术自由]]与民族教育核心理念；随后传入芬兰，由 Snellman 等人阐发为学术自由与公民修养传统。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, p. 6)]]
 > - **19世纪中叶 — 英国文化批判转向** 阿诺德发表《文化与无政府状态》，以欧洲大陆公学考察倡导以国家支持的古典教化抵御市侩庸人信条。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 38)]]

@@ -9,7 +9,7 @@ summary: "英国当代教育社会学与社会语言学奠基理论家，开创�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 45
+person_related_count: 47
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Positivism]]"
+  - "[[Interpretivism]]"
   - "[[Empiricism]]"
   - "[[Regulative and Instructional Discourse]]"
   - "[[Recontextualization]]"
@@ -61,6 +62,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Michael W. Apple]]"
+  - "[[Henry Giroux]]"
   - "[[Pierre Bourdieu]]"
   - "[[Stephen Ball]]"
   - "[[Michael Young]]"
@@ -76,7 +78,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-05-23
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # Basil Bernstein
@@ -87,7 +89,7 @@ updated: 2026-09-28
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国（1924–2000），伦敦大学教育学院（IOE）社会学荣休讲座教授（Karl Mannheim Chair），20 世纪下半叶[[International Education\|国际教育]]社会学界的核心理论家与社会语言学先驱。
-> - **核心角色** 在涂尔干宏观[[Positivism\|实证主义]]、结构主义与微观互动论之间构建符号控制理论桥梁；既是教育知识社会学的开创宗师，又是微观诠释主义“去权力化”情境协商与[[Empiricism\|经验主义]]贫乏倾向的深刻批判者。
+> - **核心角色** 在涂尔干宏观[[Positivism\|实证主义]]、结构主义与微观互动论之间构建符号控制理论桥梁；既是教育知识社会学的开创宗师，又是微观[[Interpretivism|诠释主义]]“去权力化”情境协商与[[Empiricism\|经验主义]]贫乏倾向的深刻批判者。
 > - **代表贡献** 提出限制代码与精致代码理论；奠定教育知识的分类与框架理论；确立[[Regulative and Instructional Discourse\|规约性话语与教学性话语]]的[[Recontextualization\|再脉络化]]（[[Recontextualization]]）机制；提出学科领域的[[Horizontal Knowledge Structure\|横向知识结构]]并预见[[Totally Pedagogised Society\|全盘教育化社会]]趋势。
 
 > [!citation-card] 教育知识选择、分类与传播的权力本质
@@ -166,7 +168,7 @@ updated: 2026-09-28
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 深刻启发了国际[[Critical Pedagogy\|批判教育学]]与课程社会学（如[[Michael W. Apple|迈克尔·阿普尔]]、亨利·吉鲁）；其晚期弟子与后继学者将其思想发展为当代教育学的重要理论阵地——[[Social Realism\|社会实在论]]（Social Realism）与合法化代码理论（Legitimation Code Theory, LCT）。
+> - **理论路径** 深刻启发了国际[[Critical Pedagogy\|批判教育学]]与课程社会学（如[[Michael W. Apple|迈克尔·阿普尔]]、[[Henry Giroux|亨利·吉鲁]]）；其晚期弟子与后继学者将其思想发展为当代教育学的重要理论阵地——[[Social Realism\|社会实在论]]（Social Realism）与合法化代码理论（Legitimation Code Theory, LCT）。
 > - **方法路径** 为课程文本分析与课堂[[Discourse Analysis\|话语分析]]提供了极高操作度的分析矩阵（如分类与框架指数、[[Recontextualization\|再脉络化]]规则链条、[[Curriculum Design Coherence Model\|CDCM]] 课程设计连贯性模型），使宏观意识形态分析能够精准落地为对教材篇章结构与课堂师生问答的微观测量。
 > - **政策路径** 其“代码差异非文化赤字”的科学定性直接冲击了 1970 年代英国盲目的补偿教育政策，并在当代成为评估国家课程改革失衡风险的重要预警工具（如[[NZ Curriculum Refresh 2021-2026\|新西兰课程改革]]中概念知识[[Attrition\|流失]]的反思）。[[Argument_McPhail_2023_JCS\|McPhail et al., 2023]]
 > - **跨国传播** 广泛传播至澳大利亚、南非、拉美、北欧及东亚，成为探究社会阶层固化、教育公平治理与现代性符号暴力的世界性学术母语。

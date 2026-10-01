@@ -7,7 +7,7 @@ summary: "利用个人通信、报纸报道和外交函件等一手档案资料�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 5
+method_related_count: 6
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dbeafe"
@@ -17,6 +17,7 @@ tags:
   - method/document-analysis
   - paradigm/interpretivist
 related_concepts:
+  - "[[Interpretivism]]"
   - "[[Reliability]]"
   - "[[International Education]]"
 related_theories: []
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-10-01
 ---
 
 # Archival Correspondence Analysis
@@ -45,7 +46,7 @@ updated: 2026-05-26
 ## 认识论立场
 
 > [!abstract]
-> 该方法通常依赖解释主义（interpretivist）立场——不追求从档案中提取"客观事实"，而是在不同行动者的叙述之间寻找交汇点和分歧点，理解每个来源所承载的行动者立场和意图([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, pp.107–109]])。
+> 该方法通常依赖[[Interpretivism|解释主义]]（interpretivist）立场——不追求从档案中提取"客观事实"，而是在不同行动者的叙述之间寻找交汇点和分歧点，理解每个来源所承载的行动者立场和意图([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, pp.107–109]])。
 
 三种典型资料来源各有其视角偏向：
 - **个人通信** 反映行动者的主观体验和私下态度，但不一定完整或诚实，也可能遗漏关键信息

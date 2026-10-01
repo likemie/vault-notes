@@ -13,9 +13,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 31
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 32
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "international-organization"
 headquarters: "法国巴黎（Paris, France）"
@@ -30,6 +30,7 @@ tags:
 related_concepts:
   - "[[Development Turn in Comparative Education]]"
   - "[[Paradigm]]"
+  - "[[Development Education]]"
   - "[[Attrition]]"
   - "[[Hypothesis]]"
   - "[[Scientific Method]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-09-24
+updated: 2026-10-01
 ---
 
 # International Institute for Educational Planning
@@ -103,7 +104,7 @@ updated: 2026-09-24
 > [!actor-grid] 组织治理架构
 > - **IIEP 理事会（Governing Board）** 由 12 名国际杰出专家组成（包含经[[UNESCO\|联合国教科文组织]]总干事任命的学者、联合国主要专门机构代表及知名规划实践家），负责独立审定中长期战略重点与年度预算计划。
 > - **所长与秘书处执行团队** 由具有深厚比较教育政策与发展经济学背景的资深专家领衔，统筹巴黎总部、布宜诺斯艾利斯区域中心及达喀尔非洲办事处。
-> - **全球国家规划师校友网络** 数十年间培训的数千名发展中国家教育部高级规划官员，构成支撑跨国政策知识流通的紧密行政网络。
+> - **全球国家规划师校友网络** 数十年间培训的数千名[[Development Education|发展中国家教育]]部高级规划官员，构成支撑跨国政策知识流通的紧密行政网络。
 
 > [!pathways]- 业务运行机制
 > - **高阶专业培训体系** 设立一年制教育规划高级培训课程（Advanced Training Programme，ATP）、区域密集模块及在线认证项目，系统培养发展中国家骨干技术官僚。

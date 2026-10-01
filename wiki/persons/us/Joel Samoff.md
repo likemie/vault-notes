@@ -8,7 +8,7 @@ summary: "美国比较教育学家与非洲政治发展学者，斯坦福大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Theoretical Perspective]]"
   - "[[Researching Up and Researching Down]]"
+  - "[[Development Education]]"
   - "[[Heterogeneity]]"
   - "[[Technical Rationality]]"
 related_theories:
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Joel Samoff
@@ -132,7 +133,7 @@ updated: 2026-09-29
 > [!person-network] 关系网络
 > - **学术合作者** [[Martin Carnoy]] — 斯坦福大学长期同事与重要学术同盟，合著《第三世界的教育与社会转型》（1990）。
 > - **理论同盟** [[Carlos Alberto Torres]] 与 [[Liliana Esther Olmos]] — 在宏观国家理论与外围教育依附研究中深度吸收萨莫夫的[[Financial-Intellectual Complex|金融-智识复合体]]模型。
-> - **批判对象** [[World Bank|世界银行]]管理层与新古典受雇专家群 — 系统解剖其如何利用定向资助和狭隘实证指标垄断发展中国家教育政策议程。
+> - **批判对象** [[World Bank|世界银行]]管理层与新古典受雇专家群 — 系统解剖其如何利用定向资助和狭隘实证指标垄断[[Development Education|发展中国家教育]]政策议程。
 
 ---
 

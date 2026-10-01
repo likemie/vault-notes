@@ -11,7 +11,7 @@ aliases:
 summary: "18世纪起源于欧洲、19世纪经由法美与拉美跨国流通确立的教师专业化培养专门机构，通过国家垄断资格准入、规范化教学法训练与人道纪律塑造公共教育核心师资"
 type: concept
 domain: "teacher-education"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -70,6 +70,7 @@ related_facts:
   - "[[Forschungsmonitor Schule]]"
   - "[[Prussian Draft Education Law of 1819]]"
   - "[[Report on Elementary Public Instruction in Europe]]"
+  - "[[Education in Europe]]"
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-07
-updated: 2026-09-27
+updated: 2026-10-01
 ---
 
 # Normal School
@@ -256,7 +257,7 @@ updated: 2026-09-27
 > | [[Learning Style Myth]] | 概念 | 职前师范知识时效局限与在岗研究疏离环境下在中小学实践中广为弥散的典型教育神经神话。 |
 > | [[Guizot Law of 1833]] | 政策事实 | 强制全法各省设立初等师范学校并由国家设立法定最低薪资保障，奠定法国现代师资建制。 |
 > | [[Prussian Draft Education Law of 1819]] | 政策事实 | [[Johann Wilhelm Süvern\|聚芬]]主持起草的普鲁士教育法草案，确立省立师范学校专业网络，成为欧美借用的制度蓝本。 |
-> | [[Report on Elementary Public Instruction in Europe]] | 政策事实 | 斯托向俄亥俄州议会提交的欧洲教育考察报告，在全美多州掀起师范学校立法与建制浪潮。 |
+> | [[Report on Elementary Public Instruction in Europe]] | 政策事实 | 斯托向俄亥俄州议会提交的[[Education in Europe\|欧洲教育考察报告]]，在全美多州掀起师范学校立法与建制浪潮。 |
 > | [[Seventh Annual Report of the Massachusetts Board of Education]] | 政策事实 | 曼详尽推介普鲁士师资专业素质与[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]教学法，为马萨诸塞州州立师范建制辩护。 |
 > | [[Clearing House Unterricht]] | 事实 (机构) | 德国二阶[[Educational Evidence Clearinghouses\|教育证据清算机构]]，以高校教师教育者为骨干乘数辐射职前与在岗教师。 |
 > | [[Forschungsmonitor Schule]] | 事实 (机构) | 德国跨州联合发起的全学科学校实证研究监测与教师教育中介平台。 |

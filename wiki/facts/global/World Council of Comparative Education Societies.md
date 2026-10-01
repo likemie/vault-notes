@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,8 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Global Citizenship]]"
   - "[[Epistemology]]"
+  - "[[Champ]]"
+  - "[[Growth]]"
 related_theories:
   - "[[Postmodernism]]"
 related_methods:
@@ -53,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-09-30
+updated: 2026-10-01
 ---
 
 # World Council of Comparative Education Societies
@@ -104,7 +106,7 @@ updated: 2026-09-30
 > [!citation-card] 爱泼斯坦与拉斯特论世界学会联合会与学科国际化扩展
 > 欧文·爱泼斯坦（Erwin Epstein, 1981）将比较教育学走出欧美核心圈的过程界定为“比较教育的国际化”（internationalization of comparative education）。这一领域的跨国扩展，最生动地体现在 1970 年成立的世界比较教育学会联合会（WCCES）的壮大历程中——从最初以欧美少数社团为主，稳步发展为囊括各大洲 33 个成员学会并在古巴哈瓦那等地召开多届世界大会的全球学术网络，标志着学科摆脱了单一的欧洲中心主义，走向真正的全球多中心时代。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 129–130)]]
 >
-> *"The expansion of the field is best illustrated by the growth of the World Council of Comparative Education Societies (WCCES) that was organized in 1970 to advance the field globally... 33 different comparative education societies are listed as members of the World Council."* (Epstein, 1981; cited in Rust et al., 2009, pp. 129–130)
+> *"The expansion of the [[Champ|field]] is best illustrated by the [[Growth]] of the World Council of Comparative Education Societies (WCCES) that was organized in 1970 to advance the field globally... 33 different comparative education societies are listed as members of the World Council."* (Epstein, 1981; cited in Rust et al., 2009, pp. 129–130)
 
 ---
 
@@ -119,5 +121,5 @@ updated: 2026-09-30
 > | [[Comparative Education Society in Europe]] | Fact (Org) | 1970 年倡议发起创设 WCCES 的泛欧区域学会成员，维系欧洲双重代表制。 |
 > | [[Wolfgang Mitter]] | Person | 曾任 WCCES 主席，协调冷战终结后苏东国家教育转型的国际学术评估并确立欧洲平行会员制。 |
 > | [[Brian Holmes]] | Person | 曾任 WCCES 主席，推动与 UNESCO 合作编制教育指南并创设计划理论转型委员会。 |
-> | [[Argument_Mitter_2009_Europe|Mitter (2009)]] | 论证 | 考证 WCCES 的创设历史、组织沿革以及欧洲学者在联合会内部的双重会员制理论领导力。 |
-> | [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] | 论证 | 将 WCCES 确立为 20 世纪后半叶比较教育学打破欧洲中心主义、实现全球“国际化”扩展的核心制度载体。 |
+> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 考证 WCCES 的创设历史、组织沿革以及欧洲学者在联合会内部的双重会员制理论领导力。 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 将 WCCES 确立为 20 世纪后半叶比较教育学打破欧洲中心主义、实现全球“国际化”扩展的核心制度载体。 |

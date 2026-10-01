@@ -10,7 +10,7 @@ aliases:
 summary: "跨越研究哲学、学习理论与社会理论的概念家族，强调意义、知识和规范在主体活动及社会历史互动中形成，并用于质性研究、课程设计与观念权力分析"
 type: concept
 domain: "educational-philosophy"
-related_count: 59
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Constructivist Instruction]]"
+  - "[[Interpretivism]]"
   - "[[Praxis]]"
   - "[[Reflexivity]]"
   - "[[Epistemic Governance]]"
@@ -88,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 # Constructivist Paradigm
 
@@ -108,7 +109,7 @@ updated: 2026-09-29
 
 > [!boundary]- 概念边界
 > - **建构主义世界观与[[Constructivist Instruction\|建构主义教学]]处于不同分析层级。** 前者作为哲学范式规定研究者如何理解知识、意义与经验本体，后者作为具体的课堂教学范式解释学生如何在教学情境中通过支架与活动建构概念。采用[[Qualitative Research\|质性研究]]范式不等于必须采用某种特定课堂教学法。
-> - **解释主义、社会建构主义和[[Radical Constructivism\|激进建构主义]]有重叠，但范围不同。** 解释主义强调理解行动者意义，社会建构主义突出互动与制度，[[Radical Constructivism\|激进建构主义]]对客观知识的可达性持更强怀疑立场。
+> - **[[Interpretivism|解释主义]]、社会建构主义和[[Radical Constructivism\|激进建构主义]]有重叠，但范围不同。** 解释主义强调理解行动者意义，社会建构主义突出互动与制度，[[Radical Constructivism\|激进建构主义]]对客观知识的可达性持更强怀疑立场。
 > - **建构不等于任意创造。** 经验材料、学科知识、语言资源、任务规则和权力关系都会限制可以成立的解释。Crotty 将意义概括为人在解释世界时形成、并在共同体互动中生成的产物（Crotty, 1998, as cited in Creswell & Creswell, 2022, p. 9）。
 
 ---

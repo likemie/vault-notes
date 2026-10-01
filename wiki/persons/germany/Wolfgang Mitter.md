@@ -7,7 +7,7 @@ summary: "德国比较教育学家，曾任法兰克福德国国际教育研究�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -55,6 +55,7 @@ related_facts:
   - "[[Leibniz Institute for Educational Research and Educational Information]]"
   - "[[Comparative Education Society in Europe]]"
   - "[[World Council of Comparative Education Societies]]"
+  - "[[Education in Europe]]"
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[IEA]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Wolfgang Mitter
@@ -94,7 +95,7 @@ updated: 2026-09-29
 > - **1972–1995** **执掌法兰克福 [[Leibniz Institute for Educational Research and Educational Information|DIPF]] 确立国家级非大学比较研究中枢** 出任德国[[International Education|国际教育]]研究所（DIPF）所长兼比较教育研究部主任，与瓦尔特·舒尔策（Walter Schultze）共同开辟专门比较教育研究实体与学术教席，成为西德大学体系之外最重要的国家学术智库。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 89–90)]]
 > - **1981–1985** **主政[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）架设冷战学术桥梁** 当选并连任欧洲比较教育学会（CESE）会长，恪守学者个人会员制原则，积极打破东西欧阵营壁垒，促成铁幕两侧教育学者的制度化对话。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 91–92)]]
 > - **1991–1996** **主政[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）引领全球网络重组** 在柏林墙倒塌与苏东剧变后出任 WCCES 会长，组织协调后社会主义国家的教育体制转型评估，推动跨大洲学术对话与理论重构。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
-> - **2009** **发表巨著《欧洲的比较教育》奠定两百年学科史权判定评** 为考恩与卡扎米亚斯主编的《比较教育学国际手册》撰写长篇专论《欧洲的比较教育》（*Comparative Education in Europe*），从地缘版图、[[Paradigm|范式]]更迭、学会社会学与政策光谱对欧洲比较教育两百年历史展开全景式总结。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–99)]]
+> - **2009** **发表巨著《欧洲的比较教育》奠定两百年学科史权判定评** 为考恩与卡扎米亚斯主编的《比较教育学国际手册》撰写长篇专论《欧洲的比较教育》（*Comparative [[Education in Europe]]*），从地缘版图、[[Paradigm|范式]]更迭、学会社会学与政策光谱对欧洲比较教育两百年历史展开全景式总结。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–99)]]
 > - **2014** **逝世于德国美因茨与历史定论** 逝世于德国美因茨，享年 87 岁。学术界高度评价其作为欧洲比较教育学会政治中立与理性导航守护者的崇高学术声望。
 
 ---
@@ -107,7 +108,7 @@ updated: 2026-09-29
 >   - **关键概念／方法** 东西欧学制比较、社会主义教育体制、历史发生学分析。
 >   - **阶段转向** 突破冷战意识形态对立宣传，坚持以严谨的[[Document|文献]]考证与第一手数据剖析社会主义教育的实际机能。
 > - **1990年代 — 后社会主义转型、民主重构与[[Intercultural Education|跨文化教育]]融合** 直面两德统一与东欧剧变，探索国家教育体系在民主化与市场化转型中的阵痛。
->   - **代表著作** *Education in Europe: The Concept of Democracy and the Role of the School* (1990); *Curriculum Reform in Post-Communist Countries* (1992)。
+>   - **代表著作** *[[Education in Europe]]: The Concept of Democracy and the Role of the School* (1990); *Curriculum Reform in Post-Communist Countries* (1992)。
 >   - **关键概念／方法** 转型期教育主权、民主公民教育、跨文化教育合流。
 >   - **阶段转向** 将比较教育从宏观阵营对峙分析转向制度变迁与微观多民族移民融合议题。
 > - **2000年代 — 欧洲比较教育学科制度史与[[Epistemology|认识论]]反思** 全面梳理学科两百年的[[Knowledge Production|知识生产]]方式、权力网络与政策功能。

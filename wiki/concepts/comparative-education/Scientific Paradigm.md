@@ -8,7 +8,7 @@ aliases:
 summary: "20 世纪 50 至 70 年代支配英美比较教育学的知识体系与研究纲领，摒弃古典历史学派主观印象与思辨归因，通过变量控制、量化共变检验与假说-演绎问题法探寻跨国规律与政策预测，并在实践中与战后国家理性规划形成合法化共谋"
 type: concept
 domain: "comparative-education"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[National Character]]"
   - "[[Value Neutrality]]"
   - "[[Falsification]]"
+  - "[[Dissimilar Units]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Grand Theory]]"
   - "[[Comparative Educations]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Scientific Paradigm
@@ -141,7 +142,7 @@ updated: 2026-09-29
 
 > [!feature] 科学范式在跨文化比较中的双重客观约束
 > - **无法实施实验室干预（Natural Setting Constraint）** 比较教育学无法像自然科学那样在人工控制环境下对主权国家或文化系统实施[[Variable|变量]]干预，研究必须完全依赖在自然情境中观察学校与社会的变异。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 128)]]
-> - **面对复杂的非同质单位（Dissimilar Units Constraint）** 比较探究的基本[[Unit of Analysis|分析单位]]是深嵌于特定历史文化的异质社会体系（Neil Smelser, 1976），关键概念与制度规程在不同文化语境下具有迥异的社会意涵，严禁脱离情境进行机械等值换算。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128–129)]]
+> - **面对复杂的[[Dissimilar Units|非同质单位]]（Dissimilar Units Constraint）** 比较探究的基本[[Unit of Analysis|分析单位]]是深嵌于特定历史文化的异质社会体系（Neil Smelser, 1976），关键概念与制度规程在不同文化语境下具有迥异的社会意涵，严禁脱离情境进行机械等值换算。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128–129)]]
 
 > [!logic-map]- 科学范式的结构演进拓扑
 > ```mermaid
@@ -215,7 +216,7 @@ updated: 2026-09-29
 
 ### 命题四　学科科学化受制于自然情境与非同质单位的客观约束，其单一垄断破灭催生了健康多元主义
 
-> [!concept-lens] 自然情境约束、非同质单位与范式终结维度
+> [!concept-lens] 自然情境约束、[[Dissimilar Units|非同质单位]]与范式终结维度
 > 该命题从认识论限度与知识生产演进出发，揭示将自然科学受控实验与同质[[Commensuration|通约]]变量机械套用于跨文化比较必然遭遇的客观困境，论证单一[[Positivism|实证主义]]正统解体与多元范式并存的历史必然性。
 
 > [!claim] Rust, Johnstone, & Allaf (2009)
@@ -296,4 +297,4 @@ updated: 2026-09-29
 > - Anderson (1961) — 奠定芝加哥学派结构功能主义立足点，主张探索社会系统超越时空的恒常不变关系。
 > - Noah & Eckstein (1969) — 奠定经验实证与跨国[[Variable|变量]]共变检验纲领，建立五阶段调查程序并保持拒称法则的方法论自律。
 > - Holmes (1965, 1981) — 创立[[Critical Dualism|批判二元论]]与假说-演绎[[Problem Approach|问题法]]，确立权变社会学法则与预测划界标准，实现历史与社会科学的折衷综合。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 考据比较教育学在近代 26 个比较学科群中的定位，分析自然情境与非同质单位带来的认识论边界，实证揭示单一科学范式垄断瓦解与 26 种[[Theoretical Perspective|理论视角]][[Pluralism|健康多元主义]]的形成。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 考据比较教育学在近代 26 个比较学科群中的定位，分析自然情境与[[Dissimilar Units|非同质单位]]带来的认识论边界，实证揭示单一科学范式垄断瓦解与 26 种[[Theoretical Perspective|理论视角]][[Pluralism|健康多元主义]]的形成。

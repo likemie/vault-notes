@@ -9,7 +9,7 @@ title: "Argument_Cowen_2023_CE"
 argument_key: "Argument_Cowen_2023_CE"
 argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326-340"
 argument_kind: "journal-article"
-argument_related_count: 65
+argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -77,6 +77,7 @@ related_persons:
   - "[[Stephen Ball]]"
   - "[[Roger Dale]]"
   - "[[Horace Mann]]"
+  - "[[William T. Harris]]"
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
   - "[[C. Arnold Anderson]]"
@@ -236,7 +237,7 @@ citation_aliases:
 >   5. **全球解读** 学科对外部政治与经济大叙事变化的宏观回应，直接决定了比较教育在不同历史分期中的理解风格与研究议程。
 
 > [!dev-timeline] 全球解读的历史分期演变
-> - **18世纪末至19世纪末：世俗化与民族国家建构** 最早的全球解读源于世俗化阅读，紧密连接革命政治、国家形成和新民族主义。[[Horace Mann]], Egerton Ryerson, William Torrey Harris, James Kay-Shuttleworth 等人海外考察的目的，是为了发明适合传播初等教育和培训教师的制度（如美国与加拿大对普鲁士国民教育模式的借用）。
+> - **18世纪末至19世纪末：世俗化与民族国家建构** 最早的全球解读源于世俗化阅读，紧密连接革命政治、国家形成和新民族主义。[[Horace Mann]], Egerton Ryerson, [[William T. Harris|William Torrey Harris]], James Kay-Shuttleworth 等人海外考察的目的，是为了发明适合传播初等教育和培训教师的制度（如美国与加拿大对普鲁士国民教育模式的借用）。
 > - **19世纪末至一战前：工业竞争与帝国维持** 注意力转向工业革命后果、国际经济竞争及教育系统的重新定义，以维持帝国主义。对外考察与变得现代（或保持本真的斯拉夫或日本身份，如日本明治维新与俄罗斯斯拉夫派的理论抵制）紧密相连。
 > - **两次世界大战之间：意识形态对立与专业沉默** 这一时期对法西斯主义和共产主义政治的专业比较工作极少，形成了学术上的沉默期。
 > - **1945年后至冷战时期：重建、平等与冷战测评竞争** 战后初期聚焦于重建和改善教育机会平等；1950年代自由民主与国家社会主义民主展开教育竞争；冷战期间主要努力投入到通过国际测试衡量教育成功（[[IEA]] 的兴起），并将竞争延伸至第三世界（Le tiers monde）的发展。

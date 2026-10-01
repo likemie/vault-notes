@@ -9,7 +9,7 @@ summary: "越裔法国著名比较教育学家与经济学家，巴黎第五大�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Discipline-Based Theory]]"
   - "[[Paradigm]]"
+  - "[[Development Education]]"
   - "[[Ontology]]"
   - "[[Critical Thinking Disposition]]"
 related_theories:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Le Thanh Khoi
@@ -58,7 +59,7 @@ updated: 2026-09-29
 > - **代表贡献**
 >   - **出版学科里程碑专著** 1981 年出版鸿篇巨制《比较教育》（*L'Éducation comparée*，巴黎 Armand Colin 出版社），以文化史、政治经济学与结构社会学的综合视角，重构了国际比较教育学的[[Discipline-Based Theory|学科理论]]基座。
 >   - **创立“文化历史-结构”比较[[Paradigm|范式]]** 尖锐批判将外国教育体系简化为孤立的技术指标与课程模块的浅层借用倾向，论证教育本质上是受特定文明历史积淀、阶级政治权力结构与国际经济依附关系共同制约的深层有机社会事实。
->   - **推动非西方与第三世界教育研究** 打破欧洲中心主义认知垄断，将亚非拉发展中国家教育纳为比较研究平等主体，深耕传统东方文明与殖民/后殖民教育结构的互动辩证法。
+>   - **推动非西方与第三世界教育研究** 打破欧洲中心主义认知垄断，将亚非拉[[Development Education|发展中国家教育]]纳为比较研究平等主体，深耕传统东方文明与殖民/后殖民教育结构的互动辩证法。
 
 > [!citation-card] 黎成魁开创的法兰西独立比较教育学派
 > 黎成魁基于其对文化史与社会学的广泛宏大关照所展开的比较思考，必须被视为对比较教育学的一项不可或缺的独立贡献。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 90)]]

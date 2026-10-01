@@ -40,6 +40,7 @@ related_concepts:
   - "[[Revoicing]]"
   - "[[Externalization]]"
   - "[[Doxa]]"
+  - "[[Development Education]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Insider-Outsider Perspective in Comparative Education]]"
   - "[[Attrition]]"
@@ -127,7 +128,7 @@ title: "Argument_Mitter_2009_Europe"
 argument_key: "Argument_Mitter_2009_Europe"
 argument_display_title: "Comparative Education in Europe"
 argument_kind: "book-chapter"
-argument_related_count: 92
+argument_related_count: 93
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -303,7 +304,7 @@ flowchart LR
 尽管学界大量产出的是针对单一外国教育体系的深度国别研究，但这些[[Case Study|个案研究]]内部蕴含着强烈的比较视野。在应对宏观教育政策变迁时，欧洲比较空间在三大具体方向上实现了对单一国家容器的突破：（pp.94–95）
 
 > [!dimension] 欧洲比较空间的突破方向
-> - **殖民扩张与去殖民地发展中国家教育分化**
+> - **殖民扩张与去殖民地[[Development Education|发展中国家教育]]分化**
 >   英法等宗主国学者将本国教育体系向殖民地的扩张与后殖民遗存转化为研究对象。由于一线考察人员发现传统比较教育教席无法满足实践需求，伦敦大学等重镇分化出独立的发展中国家教育研究所；而海德堡大学（勒尔斯、伦哈特）则成功将发展中国家教育研究吸纳整合于比较教育学科教席之内。（pp.94–95）
 > - **冷战前沿的东西欧社会主义阵营教育对峙**
 >   西德学者在铁幕与国家分裂的直接地缘压力下，开创了系统的西-东阵营冲突教育研究，伦敦的[[Janusz Tomiak|托米亚克]]亦深度参与。以安维勒、弗勒泽、米特等具有中东欧血统的学者为代表，其扎实的第[[Primary and Secondary Documents|一手文献]]考据在冷战结束后被原社会主义阵营学者公认为当时极其珍贵且客观可靠的学术档案。（p.95）

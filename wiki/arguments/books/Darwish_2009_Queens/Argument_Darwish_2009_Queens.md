@@ -4,7 +4,7 @@ title: "Argument_Darwish_2009_Queens"
 argument_key: "Argument_Darwish_2009_Queens"
 argument_display_title: "Argument_Darwish_2009_Queens"
 argument_kind: "books"
-argument_related_count: 65
+argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -103,6 +103,7 @@ related_persons:
   - "[[Paulo Freire]]"
   - "[[Socrates]]"
   - "[[Hilda Taba]]"
+  - "[[Henry Giroux]]"
   - "[[Carlos Alberto Torres]]"
 ---
 
@@ -558,7 +559,7 @@ related_persons:
 ---
 
 > [!theory-components] 教学法剖析一：城市边缘青年境遇的批判解码与认识论责任（Giroux & Freire 理论延伸）
-> 亨利·吉鲁（Henry Giroux）与弗莱雷关于城市边缘青年群体（Urban Marginalized Youth）如何通过提问式教育实现批判意识觉醒的研究表明 (Giroux in Shim, 2008, p. 528; Freire, 1998b, p. 41; Darwish, 2009, p. 57, p. 61)：
+> [[Henry Giroux|亨利·吉鲁]]（Henry Giroux）与弗莱雷关于城市边缘青年群体（Urban Marginalized Youth）如何通过提问式教育实现批判意识觉醒的研究表明 (Giroux in Shim, 2008, p. 528; Freire, 1998b, p. 41; Darwish, 2009, p. 57, p. 61)：
 > 
 > - **压迫境遇的感性体认与自卑异化**
 >   城市边缘青年长期遭受社会边缘化与歧视，在传统储蓄式学校中被烙上能力低下/被支配者的标签，内化了压迫者强加的负面自我形象与命运宿命论 (Darwish, 2009, p. 57)。

@@ -9,9 +9,9 @@ summary: "研究者有针对性地选择特定群体作为样本的抽样策略�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 31
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 32
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
 tags:
   - method/sampling
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
+  - "[[Interpretivism]]"
   - "[[Constructivist Paradigm]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Research Purpose]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-09-17
+updated: 2026-10-01
 ---
 # Non-probability Sampling
 
@@ -80,7 +81,7 @@ updated: 2026-09-17
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 非[[Random Sampling\|概率抽样]]通常与诠释主义、[[Constructivist Paradigm\|建构主义]]或[[Pragmatic Paradigm\|实用主义]]知识观相配合，接受研究发现的局部性和情境性。
+> - **知识观** 非[[Random Sampling\|概率抽样]]通常与[[Interpretivism|诠释主义]]、[[Constructivist Paradigm\|建构主义]]或[[Pragmatic Paradigm\|实用主义]]知识观相配合，接受研究发现的局部性和情境性。
 > - **研究者角色** 研究者主动判断和选择案例，根据[[Research Purpose\|研究目的]]和问题决定纳入/排除标准，研究者判断是方法的核心而非偏差来源。
 > - **有效性标准** 不适用统计推广标准；改用可[[Reliability\|信度]]（credibility）、可转移性（transferability）、深度和丰富性等质性标准。
 > - **不声称回答的问题** 不能声称样本统计量代表总体参数；不能进行基于概率的统计推论；不能报告误差范围。

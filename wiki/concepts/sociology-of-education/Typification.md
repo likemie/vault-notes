@@ -4,7 +4,7 @@ aliases: [类型化, 典型化, 理想类型化, typifications]
 summary: "阿尔弗雷德·舒茨现象学社会学的核心认知与互动机制，指行动者与研究者运用源自社会既有知识库的“理想类型”心智图式来理解他人行为、组织日常生活世界并在多重实在间穿梭的过程。"
 type: concept
 domain: "sociology-of-education"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Lesson Study]]"
   - "[[Value Neutrality]]"
+  - "[[Interpretivism]]"
   - "[[Postpositivism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Epoché]]"
@@ -48,7 +49,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-17
+updated: 2026-10-01
 ---
 
 # Typification
@@ -182,7 +183,7 @@ updated: 2026-09-17
 > > [!axis] 二阶科学[[Construct\|构念]]是解释还是一阶图式的附庸
 > > 争论科学研究能否超越行动者的常识类型化提出客观解释。
 > >
-> > - **激进诠释主义阵营** 主张科学只能忠实记录行动者的一阶类型化，任何超越本土范畴的二阶概括都是强加。
+> > - **激进[[Interpretivism|诠释主义]]阵营** 主张科学只能忠实记录行动者的一阶类型化，任何超越本土范畴的二阶概括都是强加。
 > > - **[[Postpositivism\|后实证主义]]与[[Critical Realism\|批判实在论]]者** 坚持科学必须穿透一阶类型化的虚假意识迷雾，揭示潜藏在常识之下的深层结构机制。
 
 > [!warning] 教育研究中的方法论局限

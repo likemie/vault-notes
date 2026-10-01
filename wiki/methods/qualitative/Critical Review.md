@@ -8,7 +8,7 @@ summary: "超越描述性文献汇总的定性研究综述方法，通过批判�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Interpretivism]]"
   - "[[Research Topic]]"
   - "[[Research Utilization]]"
   - "[[Deficit Framing]]"
@@ -52,7 +53,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-22
+updated: 2026-10-01
 ---
 
 # Critical Review
@@ -80,7 +81,7 @@ updated: 2026-09-22
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 批判解释主义：认为学术[[Document\|文献]]不仅记录了经验数据，更反映了特定时期的理论[[Hypothesis\|假设]]与思维方式；综述的核心在于看清这些知识是如何被建构出来的。
+> - **知识观** 批判[[Interpretivism|解释主义]]：认为学术[[Document\|文献]]不仅记录了经验数据，更反映了特定时期的理论[[Hypothesis\|假设]]与思维方式；综述的核心在于看清这些知识是如何被建构出来的。
 > - **研究者角色** 概念侦测者与理论重构者：不追求对统计数据的机械汇总求平均，而是通过深度文本细读，找出既有研究共同忽视的盲点、未言明的预设或循环论证。
 > - **质量评判标准** 概念分析是否透彻深刻、对文献内在矛盾的揭示是否有力、分类维度是否清晰自洽，以及提出的新概念是否具有解释力。
 > - **不适用的问题** 无法计算干预措施的平均[[Effect Size\|效应量]]，也不能替代直接深入一线的田野[[Fieldwork\|实地调查]]。

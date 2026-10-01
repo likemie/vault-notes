@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_display_title: "Research Methods in Education · Ch20"
 argument_kind: "book-chapter"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Positivism]]"
   - "[[Leading Questions]]"
+  - "[[Interpretivism]]"
   - "[[Homework]]"
   - "[[Interviewer Effects]]"
   - "[[Presence]]"
@@ -719,7 +720,7 @@ Sudman & Bradburn（1982, Ch. 3）系统讨论了问卷中纳入敏感题项的�
 >
 > **（i）避免[[Leading Questions\|引导性问题]]** 提问措辞（或其回应类别）暗示只有一种可接受的答案。例如："你偏好抽象学术型课程，还是接地气、对你的日常教学有实际回报的实践课程？"
 >
-> **（ii）避免深奥问题** 即使对复杂的受访者也应使用清晰简单的语言。例如："你希望看到当前实证主义/解释主义争论的哪些特定方面反映在一门面向教师受众的发展心理学课程中？"
+> **（ii）避免深奥问题** 即使对复杂的受访者也应使用清晰简单的语言。例如："你希望看到当前实证主义/[[Interpretivism|解释主义]]争论的哪些特定方面反映在一门面向教师受众的发展心理学课程中？"
 >
 > **（iii）避免复杂问题** 包含多个从句和选项的冗长问题导致混淆。例如："你偏好一个短期的、无学分课程（3/4/5次课），半天脱产加一晚出勤配旅行报销，还是一个较长的无学分课程（6/7/8次课），全天脱产，或者整个课程设计为半天脱产、无晚间出勤？"
 >

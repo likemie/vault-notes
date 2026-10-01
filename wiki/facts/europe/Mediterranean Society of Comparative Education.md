@@ -11,7 +11,7 @@ subtype: organization
 region: europe
 fact_region: "europe"
 fact_kind: "organization"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Knowledge Production]]"
   - "[[Methodological Nationalism]]"
+  - "[[Development Education]]"
   - "[[Dialogue in Education]]"
 related_persons:
   - "[[Wolfgang Mitter]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Mediterranean Society of Comparative Education
@@ -82,5 +83,5 @@ updated: 2026-09-29
 
 > [!impact-cards]
 > - **丰富欧洲比较教育多元学会竞合格局** [[Wolfgang Mitter|沃尔夫冈·米特]]在论述欧洲学术建制演变时，将 MESCE 视为跨国区域与语言学会的代表性范例，佐证了比较教育组织形式从单一超大跨国精英学会（如 [[Comparative Education Society in Europe|CESE]]）向多层次、特色化地缘学会扩散的历史趋势。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 92)]]
-> - **推动地中海区域教育研究的学科化** 为长期被边缘化的地中海沿岸发展中国家教育学者提供了国际发声平台与理论孵化器。
+> - **推动地中海区域教育研究的学科化** 为长期被边缘化的地中海沿岸[[Development Education|发展中国家教育]]学者提供了国际发声平台与理论孵化器。
 > - **提供跨文明比较教育的实践标杆** 在全球文明隔阂加剧的背景下，持续以[[Dialogue in Education|教育对话]]探索区域共生共处之路。

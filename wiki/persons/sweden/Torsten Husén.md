@@ -8,7 +8,7 @@ summary: "瑞典教育学家与心理测量学家，斯德哥尔摩大学国际�
 type: person
 nationality: sweden
 person_region: "sweden"
-person_related_count: 29
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -50,6 +50,7 @@ related_facts:
   - "[[IEA]]"
   - "[[UNESCO]]"
   - "[[OECD]]"
+  - "[[Education in Europe]]"
   - "[[Comparative Education Society in Europe]]"
   - "[[TIMSS]]"
   - "[[PISA]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Torsten Husén
@@ -136,7 +137,7 @@ updated: 2026-09-29
 > [!citation-card] 米特论胡森与[[IEA]]在欧洲比较教育边缘的独立轨道
 > 跨国实证调查（特别是胡森与波斯尔思韦特领导的 IEA 先驱研究）走出了一条独立于大学教席与学术学会的自主道路；这也解释了为何数十年来它们遭遇了文化主义与哲学-历史学派代表学者的漠视乃至公开怀疑。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 94)]]
 >
-> *It must be remembered, however, that empirical and, in particular, quantitative cross-national surveys have long remained a marginal area in comparative education in Europe. Such surveys, notably the pioneer studies of the IEA (International Association for the Evaluation of Educational Achievement), guided by Torsten Husén and Neville Postlethwaite, went their own way, quite remote from university chairs and academic societies. This may be one reason why, for decades, they met with disregard, if not open suspicion, from representatives of the culturalist and philosophical-historical approach.*
+> *It must be remembered, however, that empirical and, in particular, quantitative cross-national surveys have long remained a marginal area in comparative [[Education in Europe]]. Such surveys, notably the pioneer studies of the IEA (International Association for the Evaluation of Educational Achievement), guided by Torsten Husén and Neville Postlethwaite, went their own way, quite remote from university chairs and academic societies. This may be one reason why, for decades, they met with disregard, if not open suspicion, from representatives of the culturalist and philosophical-historical approach.*
 
 ---
 

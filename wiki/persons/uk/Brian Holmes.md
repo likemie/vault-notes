@@ -8,7 +8,7 @@ summary: "英国著名比较教育学家与科学哲学家，伦敦大学教育�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 57
+person_related_count: 58
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Scientific Method]]"
   - "[[Paradigm]]"
+  - "[[Development Education]]"
   - "[[National Character]]"
   - "[[Scientific Paradigm]]"
   - "[[Variable]]"
@@ -88,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Brian Holmes
@@ -141,7 +142,7 @@ updated: 2026-09-29
 > - **1970s–1980s — 国际制度化深化与模式完善期** 领导 IOE 比较教育学系与 [[World Council of Comparative Education Societies|WCCES]]，深化规范模式、体制模式、精神模式与自然环境模式四维理想[[Typological Analysis\|类型分析]]。
 >   - **代表著作** *Comparative Education: Some Considerations of Method* (1981)。
 >   - **关键概念／方法** 理想类型分类法、时代不同步（Asynchrony）。
->   - **阶段转向** 将问题法系统扩展至第三世界发展中国家教育政策规划与去殖民化现代转型。
+>   - **阶段转向** 将问题法系统扩展至第三世界[[Development Education|发展中国家教育]]政策规划与去殖民化现代转型。
 
 ---
 

@@ -44,6 +44,7 @@ related_concepts:
   - "[[Cognitive Deskilling]]"
   - "[[Pedagogical Subject]]"
   - "[[Selective Affinity]]"
+  - "[[Development Education]]"
   - "[[Import Substitution Industrialisation]]"
   - "[[Educational Level]]"
   - "[[Popular Education]]"
@@ -109,7 +110,7 @@ title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches"
 argument_kind: "book-chapter"
-argument_related_count: 70
+argument_related_count: 71
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -290,7 +291,7 @@ issuing_organization: ""
 
 > [!evidence-grid] 金融-智识复合体的四重运作机制
 > - **建立受雇专家智库**
->   动用巨额资金长期聘用特定经济学家和咨询顾问，垄断发展中国家教育政策的调研与方案起草权。
+>   动用巨额资金长期聘用特定经济学家和咨询顾问，垄断[[Development Education|发展中国家教育]]政策的调研与方案起草权。
 > - **独尊新古典量化模型**
 >   排斥教育哲学的价值探讨与社会学分析，只承认生均收益率（Rate of Return）和成本收益分析等经济学指标，把教育矮化为纯粹的个人投资。
 > - **将政策条件与贷款直接捆绑**

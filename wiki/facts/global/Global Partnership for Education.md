@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Performance Indicators]]"
   - "[[Knowledge Mediation]]"
+  - "[[Development Education]]"
   - "[[International Education]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-26
+updated: 2026-10-01
 ---
 
 # Global Partnership for Education
@@ -93,7 +94,7 @@ updated: 2026-09-26
 > [!pathways]- 业务运行机制
 > - **联合部门审查（Joint Sector Reviews，JSR）** 每年由 GPE 牵头，会同受援国教育部与外部利益相关方对国家教育系统进展进行全景式数据审议，将资金拨款与部门[[Performance Indicators\|绩效指标]]直接挂钩。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
 > - **国家教育规划（ESP）赠款协同** 要求受援国必须依据国际可比指标研制国家教育部门规划，通过审查后方可分阶段拨付教育系统改革专项赠款。
-> - **[[Knowledge and Innovation Exchange\|KIX]] 区域[[Knowledge Mediation\|知识中介]]枢纽运作** 在非洲、亚洲、拉美设立 4 大区域中介枢纽，常态化组织发展中国家教育部政策官员开展研讨会、横向同侪互学与跨国方案借鉴。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
+> - **[[Knowledge and Innovation Exchange\|KIX]] 区域[[Knowledge Mediation\|知识中介]]枢纽运作** 在非洲、亚洲、拉美设立 4 大区域中介枢纽，常态化组织[[Development Education|发展中国家教育]]部政策官员开展研讨会、横向同侪互学与跨国方案借鉴。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 
 ---
 
@@ -101,7 +102,7 @@ updated: 2026-09-26
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **大规模多边教育赠款工具箱** 涵盖系统转型赠款（System Transformation Grants）、加速资金（Accelerated Funding）与数据赋能赠款，累计配置数十亿美元[[International Education\|国际教育]]公共财政。
-> - **知识与创新交流（[[Knowledge and Innovation Exchange\|KIX]]）平台** 全球最大的发展中国家教育政策循证知识共享平台，支持 70 多个全球南方国家在课程改革、教师专业化与早期教育领域的实用研究。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
+> - **知识与创新交流（[[Knowledge and Innovation Exchange\|KIX]]）平台** 全球最大的[[Development Education|发展中国家教育]]政策循证知识共享平台，支持 70 多个全球南方国家在课程改革、教师专业化与早期教育领域的实用研究。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
 > - **《全球教育成效与伙伴关系成果报告》** 连续发布的年度旗舰监测报告，全景展现受援国[[Performance Indicators\|教育指标]]进展与系统改革瓶颈。
 > - **教育系统诊断与政策准则** 编制并推广《国家教育部门规划制定与评估指南》，为低收入国家制定教育战略提供标准化的技术框架。
 
@@ -121,7 +122,7 @@ updated: 2026-09-26
 
 > [!finding-cards] 关键成效与辐射影响
 > - **确立区域化同侪经验汲取新[[Paradigm\|范式]]** 与[[OECD\|经合组织]]偏好外向型跨国比照、[[World Bank\|世界银行]]偏好自指性最佳实践库截然不同，GPE 依托 KIX 枢纽探索出一条在相似社会经济发展水平国家间开展“区域同侪互学”（Regional Peer Exchange）的[[Policy Brokerage\|政策中介]]新模式。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
-> - **深度重构全球南方国家教育行政生态** 通过地方教育集团（LEG）与联合部门审查（JSR），GPE 将中介触角直接嵌入到数十个发展中国家教育部的日常行政流程中，实质性主导了借款国国家教育战略的编制与资源配置。
+> - **深度重构全球南方国家教育行政生态** 通过地方教育集团（LEG）与联合部门审查（JSR），GPE 将中介触角直接嵌入到数十个[[Development Education|发展中国家教育]]部的日常行政流程中，实质性主导了借款国国家教育战略的编制与资源配置。
 > - **填补脆弱情境教育公共财政缺口** 在撒哈拉以南非洲与南亚等极端缺乏财政资源的地区，GPE 赠款成为维系公立小学运转与师资薪酬底线的重要生命线。
 
 > [!stat-cards]- 核心规模数据

@@ -8,7 +8,7 @@ summary: "先以小样本进行质性探索、基于质性发现开发或修改�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Attrition]]"
+  - "[[Interpretivism]]"
   - "[[Postpositivism]]"
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-07-13
+updated: 2026-10-01
 ---
 
 # Exploratory Sequential Design
@@ -81,7 +82,7 @@ updated: 2026-07-13
 
 ## 3. 认识论立场
 
-> [!abstract] 从解释主义转向[[Postpositivism\|后实证主义]]
+> [!abstract] 从[[Interpretivism|解释主义]]转向[[Postpositivism\|后实证主义]]
 > 该设计体现了[[Epistemology\|认识论]]的转变：初始阶段采用解释主义/[[Constructivist Paradigm\|建构主义]]立场（通过深入探究捕捉参与者的意义建构），随后转向后[[Positivism\|实证主义]]立场（通过标准化测量在大样本中验证规律）。这种转换服务于[[Pragmatic Paradigm\|实用主义]]目标：将深度的质性洞见转化为可推广的量化证据。
 
 ---

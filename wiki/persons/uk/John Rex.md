@@ -9,7 +9,7 @@ summary: "英国著名社会学家，华威大学荣休教授，冲突理论与�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - paradigm/conflict-theory
   - theme/critique-of-interpretivism
 related_concepts:
+  - "[[Interpretivism]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Cultural Capital]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-17
+updated: 2026-10-01
 ---
 
 # John Rex
@@ -55,7 +56,7 @@ updated: 2026-09-17
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国著名社会学家，华威大学（University of Warwick）与阿斯顿大学（Aston University）社会学讲座教授与荣休教授，欧洲种族与族群关系研究先驱，英国社会学理论重要奠基人之一。
-> - **核心角色** 作为英国冲突理论（Conflict Theory）学派与韦伯主义社会学代表人物，在社会探究方法论中，对微观[[Phenomenology\|现象学]]、常人方法学与[[Symbolic Interactionism\|符号互动论]]提出著名的“虚假意识与客观视角缺失”批判，构筑了微观诠释主义不可回避的反思防线。
+> - **核心角色** 作为英国冲突理论（Conflict Theory）学派与韦伯主义社会学代表人物，在社会探究方法论中，对微观[[Phenomenology\|现象学]]、常人方法学与[[Symbolic Interactionism\|符号互动论]]提出著名的“虚假意识与客观视角缺失”批判，构筑了微观[[Interpretivism|诠释主义]]不可回避的反思防线。
 > - **代表贡献** 编著英国社会学理论经典《社会学研究进路》（*Approaches to Sociology: An Introduction to Major Trends in British Sociology*, 1974）；提出社会行动者可能陷入“虚假意识”（false consciousness），警示研究者绝不可将社会科学目的狭隘缩减为复述当事人的主观报告，强调社会科学家寻求客观反思视角的独立使命；创立阶级、种族与殖民冲突理论（《种族、社区与冲突》*Race, Community and Conflict*, 1967）。
 
 ---
@@ -98,7 +99,7 @@ updated: 2026-09-17
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **方法论反思路径** 构成了对素朴诠释主义、纯粹[[Phenomenology\|现象学]]与相对主义[[Ethnography\|民族志]]的最强有力制衡，确立了“研究者必须超越被研究者自我报告”的批判性原则。
+> - **方法论反思路径** 构成了对素朴[[Interpretivism|诠释主义]]、纯粹[[Phenomenology\|现象学]]与相对主义[[Ethnography\|民族志]]的最强有力制衡，确立了“研究者必须超越被研究者自我报告”的批判性原则。
 > - **教育批判社会学** 深刻启迪了教育研究者：在课堂观察中不仅要记录学生的抱怨或教师的表态，更要穿透当事人的主观话语，考察再生产机制、[[Cultural Capital\|文化资本]]分配与意识形态欺骗。
 > - **种族与移民理论** 开拓了英国族群关系社会学，奠定了住房阶级、制度性歧视与后殖民移民研究的理论传统。
 

@@ -9,7 +9,7 @@ summary: "问卷题项措辞中常见的十类陷阱，包括引导性问题、�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Leading Questions]]"
   - "[[Operationalization]]"
   - "[[Positivism]]"
+  - "[[Interpretivism]]"
   - "[[Homework]]"
 related_methods:
   - "[[Questionnaire]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-09-17
+updated: 2026-10-01
 ---
 # Questionnaire Wording
 
@@ -66,7 +67,7 @@ updated: 2026-09-17
 
 > [!feature] [[Questionnaire\|问卷]]措辞的十项警示（pp. 157–163）
 > - **（i）避免[[Leading Questions\|引导性问题]]** 提问措辞（或其回应类别）暗示只有一种可接受的答案。例如："你偏好抽象学术型课程，还是接地气、对你的日常教学有实际回报的实践课程？"——"接地气""实际回报"的措辞暗示了偏好方向。
-> - **（ii）避免深奥问题** 即使对复杂的受访者也应使用清晰简单的语言。例如："你希望看到当前[[Positivism\|实证主义]]/解释主义争论的哪些特定方面反映在一门面向教师受众的发展心理学课程中？"
+> - **（ii）避免深奥问题** 即使对复杂的受访者也应使用清晰简单的语言。例如："你希望看到当前[[Positivism\|实证主义]]/[[Interpretivism|解释主义]]争论的哪些特定方面反映在一门面向教师受众的发展心理学课程中？"
 > - **（iii）避免复杂问题** 包含多个从句和选项的冗长问题导致混淆。反问自己：这个题项是否可以拆成两个或更多简短问题？
 > - **（iv）避免令人恼火的问题或指令** 例如："如果你超过 40 岁且从未参加过在职课程，在 NEVER 框打一个勾，在 OLD 框打另一个勾。"——这种指令侮辱受访者。
 > - **（v）避免否定和双重否定** 例如："你是否认为没有家长教师协会，教师就无法清楚地向家长表达他们的观点？"——"没有"和"无法"构成双重否定，必须反复阅读才能理解（Oppenheim, 1992, p. 128）。

@@ -8,7 +8,7 @@ summary: "英裔美籍比较教育学家、教育社会学家，芝加哥大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Positivism]]"
+  - "[[Development Education]]"
   - "[[Paradigm]]"
   - "[[Scientific Paradigm]]"
   - "[[Variable]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-11
+updated: 2026-10-01
 ---
 
 # Philip Foster
@@ -58,7 +59,7 @@ updated: 2026-09-11
 
 > [!person-profile] 人物档案
 > - **身份位置** 英裔美籍比较教育学家、教育社会学家，芝加哥大学教育与社会学系教授兼比较教育研究中心（[[Comparative Education Center at Chicago 1958\|Comparative Education Center]]）副主任，后任纽约州立大学奥尔巴尼分校杰出教授；曾任美国[[Comparative and International Education Society\|比较与国际教育学会]]（CIES）主席（1979–1980 年）。
-> - **核心角色** 战后美国比较教育“科学化与社会学转向”的先锋领袖，以经验社会学与[[Positivism\|实证主义]]方法论对战前欧洲“历史-文化学派”发起猛烈清算；同时是国际发展教育学界“职业学校谬误”理论的提出者。
+> - **核心角色** 战后美国比较教育“科学化与社会学转向”的先锋领袖，以经验社会学与[[Positivism\|实证主义]]方法论对战前欧洲“历史-文化学派”发起猛烈清算；同时是[[Development Education|国际发展教育]]学界“职业学校谬误”理论的提出者。
 > - **代表贡献** 在 1960 年经典论文中指责历史学只处理特定时空不可重复的个殊现象（*unique phenomena*），断言比较教育必须转型为探求重复模式与通则规律的经验社会科学；1965 年发表《发展规划中的职业学校谬误》，重塑了全球对发展中国家技术与职业教育规划的经济理性认知。
 
 > [!citation-card] 福斯特论历史个殊性排斥比较与社会科学规律建构
@@ -87,7 +88,7 @@ updated: 2026-09-11
 > [!work-line] 主要著作
 > - **1960 — *Comparative Methodology and the Study of African Education*** 掀起 1960 年代英美比较教育方法论大论战的经典战书；严厉批评历史学派的方法局限，倡导比较教育学全面向经验社会科学（尤其是社会学与经济学）模式转型。
 > - **1965 — *Education and Social Change in Ghana*** 运用大样本[[Questionnaire\|问卷]]与[[Stratified Sampling\|分层抽样]]，系统考察后殖民非洲国家教育分层、精英吸纳与社会流动机制，成为比较教育实证社会学研究的典范。
-> - **1965 — *The Vocational School Fallacy in Development Planning*** 发展教育学史上的传世名篇；指出西方专家盲目在非洲推广职业农业教育必遭失败，论证学生的教育选择根源于劳动力市场的理性经济回报，而非课程形式。
+> - **1965 — *The Vocational School Fallacy in Development Planning*** [[Development Education|发展教育]]学史上的传世名篇；指出西方专家盲目在非洲推广职业农业教育必遭失败，论证学生的教育选择根源于劳动力市场的理性经济回报，而非课程形式。
 
 ---
 

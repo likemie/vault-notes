@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 44
+fact_related_count: 45
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Knowledge Bank]]"
   - "[[Knowledge Production]]"
   - "[[Document]]"
+  - "[[Development Education]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
   - "[[Selective Affinity]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # World Bank
@@ -146,7 +147,7 @@ updated: 2026-09-29
 > - **政策与制度渗透** 深度主导了全球南方 100 多个国家的国家教育部门计划（ESP）编制；将量化问责指标直接写入主权借贷契约，重塑了借贷国财政部与教育部之间的权力支配关系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 > [!finding-cards] 关键成效与辐射影响
-> - **学术引领** 确立了[[Human Capital Theory|人力资本理论]]在发展中国家教育政策中的绝对统治地位，推动以[[Causality|因果推断]]（RCTs、[[Difference-in-Differences|双重差分法]]）为主导的微观循证经济学[[Paradigm|范式]]成为全球教育政策研究的黄金标准。
+> - **学术引领** 确立了[[Human Capital Theory|人力资本理论]]在[[Development Education|发展中国家教育]]政策中的绝对统治地位，推动以[[Causality|因果推断]]（RCTs、[[Difference-in-Differences|双重差分法]]）为主导的微观循证经济学[[Paradigm|范式]]成为全球教育政策研究的黄金标准。
 > - **政策塑造** 迫使全球南方借贷国建立正规教育统计与公共支出追踪系统（PETS），推动初等教育免试入学与生均公用经费拨付机制建立。
 > - **学校与实践改变** 在成千上万所发展中国家乡村学校推行标准化教材配备、以考代评的绩效管理以及基于现金转移支付（[[Chartered College of Teaching|CCT]]）的入学出勤激励。
 
@@ -169,7 +170,7 @@ updated: 2026-09-29
 > > 发展社会学家与全球南方批评家指控世行贷款长期推行新自由主义紧缩政策。
 > >
 > > - **批判政治经济学派与世行内部反思（Bonal, 2002, 2004; Klees, 2008; Heyneman, 2003）** 批评 1980–1990 年代世行推行的结构调整计划强迫借贷国冻结教师编制、引入公立学校用户收费并加速民办私立化，给撒哈拉以南非洲和拉美公共教育系统造成严重冲击；世行前资深教育专员[[Stephen P. Heyneman|海尼曼]]（Stephen Heyneman, 2003）亦坦承，世行长期主导的成本效益分析与教育生产函数框架存在根本性缺陷，给更具公平性与效能的教育政策带来了严重的消极后果。[[Argument_Arnove_2009_WorldSystems|(Heyneman, 2003, cited in Arnove, 2009, p. 110)]]
-> > - **世行辩护** 强调结构性改革旨在破除发展中国家教育系统的寻租腐败与非生产性财政冗员，优先保证贫困人口享有最基本的初等读写算技能。
+> > - **世行辩护** 强调结构性改革旨在破除[[Development Education|发展中国家教育]]系统的寻租腐败与非生产性财政冗员，优先保证贫困人口享有最基本的初等读写算技能。
 >
 > > [!axis] [[Financial-Intellectual Complex|金融-智识复合体]]与单一体信贷逻辑：技术中立政策建议 vs 跨国资本[[Disciplina and Doctrina|规训]]同盟
 > > 争论世界银行的[[Knowledge Production|知识生产]]是具有学术反思能力的多元智库，还是受贷款部门单一体支配、与跨国资本利益高度亲和的规训工具。

@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ tags:
   - region/uk
 related_concepts:
   - "[[International Education]]"
+  - "[[Development Education]]"
   - "[[Paradigm]]"
   - "[[Knowledge Transfer]]"
   - "[[Policy Borrowing]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # British Association for International and Comparative Education
@@ -52,7 +53,7 @@ updated: 2026-09-29
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 英国国际与比较教育学会（British Association for International and Comparative Education, BAICE）是英国最高层级的国际与比较教育跨学科专业学术组织，[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（[[World Council of Comparative Education Societies|WCCES]]）正式成员学会。学会致力于推进[[International Education|国际教育]]、比较教育与全球南方发展教育的研究、教学与政策实践，维护英国比较教育学者的专业身份认同，并在国家教育政策咨询与跨国学术网络中扮演核心枢纽角色。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 92)]]
+> 英国国际与比较教育学会（British Association for International and Comparative Education, BAICE）是英国最高层级的国际与比较教育跨学科专业学术组织，[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（[[World Council of Comparative Education Societies|WCCES]]）正式成员学会。学会致力于推进[[International Education|国际教育]]、比较教育与全球南方[[Development Education|发展教育]]的研究、教学与政策实践，维护英国比较教育学者的专业身份认同，并在国家教育政策咨询与跨国学术网络中扮演核心枢纽角色。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 92)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 合并重组** 1997 年正式创立。由创立于 1979 年的英国[[Comparative and International Education Society|比较与国际教育学会]]（British Comparative and International Education Society, BCIES，其源头为 1966 年成立的欧洲比较教育学会英国分会）与海外教育教师与研究者协会（British Association of Teachers and Researchers in Overseas Education, BATROE）合并重组而成。

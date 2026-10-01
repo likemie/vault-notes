@@ -7,7 +7,7 @@ summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 91
+method_related_count: 92
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Postpositivism]]"
   - "[[Variable]]"
+  - "[[Interpretivism]]"
   - "[[Causality]]"
   - "[[Constructivist Paradigm]]"
   - "[[Central Question]]"
@@ -118,7 +119,7 @@ related_instruments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-09-18
+updated: 2026-10-01
 ---
 
 # Systematic Review
@@ -170,7 +171,7 @@ updated: 2026-09-18
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** [[Positivism\|实证主义]]（Positivism）与[[Postpositivism\|后实证主义]]为主轴，强调知识的可积累性与真理逼近；通过系统化规程消除研究者主观偏倚。但在纳入标准界定、质性概念提炼与情境调节[[Variable\|变量]]解释中，亦高度融合[[Critical Realism\|批判实在论]]（Critical Realism）与解释主义视角。
+> - **知识观** [[Positivism\|实证主义]]（Positivism）与[[Postpositivism\|后实证主义]]为主轴，强调知识的可积累性与真理逼近；通过系统化规程消除研究者主观偏倚。但在纳入标准界定、质性概念提炼与情境调节[[Variable\|变量]]解释中，亦高度融合[[Critical Realism\|批判实在论]]（Critical Realism）与[[Interpretivism|解释主义]]视角。
 > - **研究者角色** 中立审慎的证据检验员与知识架构师。强制要求双人独立筛选与多研究者团队协同，以制度化消除单一研究者的理论偏见。
 > - **有效性标准** 方法透明度、全流程可审计性与可重复性；检索穷尽性；双人筛选与提取的[[Intercoder Agreement\|编码者间信度]]（[[Inter-Rater Reliability]]）；偏倚风险评估（Risk of Bias Assessment）严谨性。
 > - **不声称回答的问题** 不能替代一手实证研究凭空生成初级原始数据；不能依靠综述过程直接修正原始研究内在的设计硬伤；若底层研究缺乏因果识别设计，系统综述绝不能凭空得出强[[Causality\|因果推断]]。

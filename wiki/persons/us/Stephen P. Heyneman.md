@@ -9,7 +9,7 @@ summary: "美国著名国际教育政策与比较教育学者，范德堡大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[School Effectiveness]]"
   - "[[Academic Achievement]]"
   - "[[Hypothesis]]"
+  - "[[Development Education]]"
   - "[[Paradigm]]"
   - "[[Educational Multilateralism]]"
   - "[[Structural Adjustment Programs]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Stephen P. Heyneman
@@ -87,7 +88,7 @@ updated: 2026-09-29
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1970s–1980s — [[School Effectiveness|学校效能]]与发展中国家教育投入实证** 聚焦低收入国家教育供给的客观约束，主张增加学校物质资源配置。
+> - **1970s–1980s — [[School Effectiveness|学校效能]]与[[Development Education|发展中国家教育]]投入实证** 聚焦低收入国家教育供给的客观约束，主张增加学校物质资源配置。
 >   - **代表著作** "The effect of primary-school quality on [[Academic Achievement]] across twenty-nine high- and low-income countries" (1983, with W. Loxley)。
 >   - **关键概念／方法** 海尼曼-洛克斯利效应、[[Multiple Regression|多元回归]]分析、学校效能。
 >   - **阶段转向** 论证在贫困语境下，校舍、课本与教师培训等基本教育供给具有决定性产出收益，为[[World Bank|世界银行]]大规模投资基础教育硬件提供实证依据。

@@ -10,7 +10,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -21,6 +21,7 @@ tags:
   - theme/global-governance
 related_concepts:
   - "[[Return on Investment]]"
+  - "[[Development Education]]"
   - "[[Knowledge Bank]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-10-01
 ---
 
 # World Bank Education Sector Policy Paper 1980
@@ -59,7 +60,7 @@ updated: 2026-09-12
 > - **1964** [[UNESCO]]-[[World Bank\|世界银行]]合作协定签署，世界银行借助 UNESCO 的国际合法性进入教育援助领域，但在实质政策主张上仍处于从属与协调位置。
 > - **1968–1981（麦克纳马拉时代）** 麦克纳马拉（Robert McNamara）担任行长，世界银行大幅扩展教育贷款规模，建立内部教育研究团队，逐步积累脱离 UNESCO 框架的技术与议程能力。
 > - **1980（意识形态决裂）** 独立发布《教育部门政策文件》，以[[Human Capital Theory\|人力资本理论]]与[[Return on Investment\|教育投资回报率]]经济学为核心，确立世界银行独立的教育意识形态体系，正式宣告与 UNESCO 人文主义教育哲学的决裂。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
-> - **1980 年代以后** 世界银行主导全球南方教育援助话语，UNESCO 失去对发展中国家教育援助的主导地位，退守规范性倡导。世界银行的教育回报率研究（Psacharopoulos 系列，1981–2018）成为全球教育投资决策的核心参照。
+> - **1980 年代以后** 世界银行主导全球南方教育援助话语，UNESCO 失去对[[Development Education|发展中国家教育]]援助的主导地位，退守规范性倡导。世界银行的教育回报率研究（Psacharopoulos 系列，1981–2018）成为全球教育投资决策的核心参照。
 
 ---
 

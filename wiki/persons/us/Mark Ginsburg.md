@@ -9,7 +9,7 @@ summary: "美国著名批判比较教育学家，《比较教育评论》（CER�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ tags:
   - teacher-education
   - region/us
 related_concepts:
+  - "[[Development Education]]"
   - "[[International Education]]"
   - "[[Critical Pedagogy]]"
   - "[[Cognitive Deskilling]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # Mark Ginsburg
@@ -58,7 +59,7 @@ updated: 2026-09-28
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国著名批判比较教育学家、教育社会学家；匹兹堡大学国际发展教育项目前主任、《比较教育评论》（*Comparative Education Review*, CER）前主编（1998–2003）、马里兰大学[[International Education|国际教育]]政策学院教员，曾任全球教育发展倡议组织（FHI 360）高级研究顾问。
+> - **身份位置** 美国著名批判比较教育学家、教育社会学家；匹兹堡大学[[Development Education|国际发展教育]]项目前主任、《比较教育评论》（*Comparative Education Review*, CER）前主编（1998–2003）、马里兰大学[[International Education|国际教育]]政策学院教员，曾任全球教育发展倡议组织（FHI 360）高级研究顾问。
 > - **核心角色** 将新马克思主义国家[[Critical Theory|批判理论]]、[[Dependency Theory|依附论]]与教师专业化劳动力过程深度引入比较教育学的关键领军学者；通过主编出版《全球语境下的教育改革理解》（1991），率先系统构建了“经济、意识形态与国家（Economy, Ideology, and the State）”三维互动的全球教育改革[[Analytic Framework|分析框架]]。
 > - **代表贡献** 创立全球教育改革三维结构分析模型；长期主持《比较教育评论》学术引领导向；主编出版经典《全球语境下的教育改革理解：经济、意识形态与国家》（1991）与《冲突与[[Critical Pedagogy|批判教育学]]》（1995）。
 
@@ -75,7 +76,7 @@ updated: 2026-09-28
 > - **1949** 出生于美国。
 > - **1970–1976** 先后就读于达特茅斯学院与加州大学洛杉矶分校（UCLA），获得社会学与教育学博士学位。
 > - **1976–1987** 先后任教于休斯顿大学与英国阿斯顿大学，早期重点研究教师劳动力过程与专业化[[Cognitive Deskilling|去技能化]]机制。
-> - **1987–2004** 担任匹兹堡大学教育学院教授兼国际发展教育研究所（IDEP）主任。
+> - **1987–2004** 担任匹兹堡大学教育学院教授兼[[Development Education|国际发展教育]]研究所（IDEP）主任。
 > - **1991** 汇聚全球批判学者编著出版里程碑式专著《全球语境下的教育改革理解：经济、意识形态与国家》（*Understanding Educational Reform in Global Context: Economy, Ideology, and the State*），对第三世界教育政策研究产生持久影响。
 > - **1998–2003** 连续六年出任国际比较教育旗舰期刊《比较教育评论》（CER）主编，大力提倡批判性、南半球视角与多元方法论。
 > - **2004 年至今** 加入国际非营利机构 FHI 360 并受聘于马里兰大学，在非洲、拉美和中东深入推进实证干预与教师专业发展政策研究。

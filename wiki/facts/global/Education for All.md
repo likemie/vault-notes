@@ -11,9 +11,9 @@ subtype: policy
 region: "global"
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "UNESCO, World Bank, UNICEF, UNDP"
 tags:
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Development Turn in Comparative Education]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Performance Indicators]]"
+  - "[[Development Education]]"
   - "[[Governing by Numbers]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Education for All
@@ -173,7 +174,7 @@ updated: 2026-09-29
 > > - **[[Critical Theory|批判理论]]与主权自主路线（拉斯特等）** 援引[[UNESCO|教科文组织]] 2006 年 EFA 监测报告实证数据指出，外部结构调整反而重创了发展中国家的公共教育体系，导致绝大多数受援国指标落空；相反，古巴等国抵制外部同质化借用、依靠坚定的国家政治意志与全民动员率先达成优质全民教育，证明了主权自决与公共人道主义动员才是实现全民受教育权的真正根基。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 134)]]
 
 > [!citation-card] 全民教育目标下的[[Structural Adjustment Programs|结构调整]]与量化依赖
-> 世界银行对发展中国家教育的影响源于其资金实力以及对管理主义-科学效率的宣称，其典型代表是高度官僚化的贷款周期和[[Poverty Reduction Strategy Papers|减贫战略文件]]等管理工具。伴随全民教育的推进，这种量化指标体系迅速膨胀，最终构筑起对整个受援国教育系统的深层规制。(Elfert & Ydesen, 2023, p. 100; 引自 Steiner-Khamsi et al., 2024, p. 541)
+> 世界银行对[[Development Education|发展中国家教育]]的影响源于其资金实力以及对管理主义-科学效率的宣称，其典型代表是高度官僚化的贷款周期和[[Poverty Reduction Strategy Papers|减贫战略文件]]等管理工具。伴随全民教育的推进，这种量化指标体系迅速膨胀，最终构筑起对整个受援国教育系统的深层规制。(Elfert & Ydesen, 2023, p. 100; 引自 Steiner-Khamsi et al., 2024, p. 541)
 
 ---
 

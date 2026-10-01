@@ -7,7 +7,7 @@ summary: "美国著名批判教育学者、宾夕法尼亚州立大学读写教�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Cognitive Deskilling]]"
+  - "[[Development Education]]"
   - "[[Critical Pedagogy]]"
   - "[[Professional Judgment]]"
   - "[[Disciplina and Doctrina]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # Patrick Shannon
@@ -62,7 +63,7 @@ updated: 2026-09-28
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代批判读写教育学者、宾夕法尼亚州立大学（Penn State University）教育学院荣休教授，批判读写教育学派代表人物。
 > - **核心角色** 率先将[[Critical Theory|批判理论]]、[[Hegemony|文化霸权]]分析与政治经济学引入早期读写政策研究的先驱，系统构建了读写教育政策研究的三大[[Paradigm|范式]]分类（功能、沟通与批判）。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–12)]]
-> - **代表贡献** 提出政策研究三范式分类（Shannon, 1991）；揭露商业教材公司对公立学校教师的“[[Cognitive Deskilling|去技能化]]”（deskilling）控制；与埃德蒙森合作发展教育[[Critical Pluralism|批判性多元主义]]框架。
+> - **代表贡献** 提出政策研究三范式分类（Shannon, 1991）；揭露商业教材公司对公立学校教师的“[[Cognitive Deskilling|去技能化]]”（deskilling）控制；与埃德蒙森合作[[Development Education|发展教育]][[Critical Pluralism|批判性多元主义]]框架。
 
 > [!citation-card] 香农对[[Critical Policy Analysis|批判性政策研究]]的开创性界定（Patrick Shannon, 1991）
 > 批判性政策研究从历史与政治维度考察政策，聚焦探究政策究竟提供了什么、又剥夺了什么。它拒绝将政策视为中立的技术方案，而是追问政策背后谁在获益、谁的声音被抹杀，并致力于探索教育如何真正服务于参与式民主与社会正义。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–12)]]

@@ -9,7 +9,7 @@ summary: "美国著名科学家、物理学家与教育家，本杰明·富兰�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,18 +22,23 @@ tags:
   - theme/institutional-history
   - theme/educational-borrowing
 related_concepts:
+  - "[[Bildung]]"
+  - "[[Normal School]]"
   - "[[Influences Across Cultures]]"
+  - "[[Intercultural Education]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Victor Cousin]]"
   - "[[Calvin Stowe]]"
   - "[[Horace Mann]]"
   - "[[Henry Barnard]]"
+  - "[[Victor Cousin]]"
 related_facts:
   - "[[Education in Europe]]"
   - "[[Common School Movement]]"
+  - "[[Report on the State of Public Instruction in Prussia]]"
+  - "[[Report on Elementary Public Instruction in Europe]]"
 related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
 confidence: high
@@ -50,8 +55,8 @@ updated: 2026-10-01
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国 19 世纪著名物理学家、大地测量学家与教育家，本杰明·富兰克林（Benjamin Franklin）的曾外孙，吉拉德孤儿学院（Girard College for Orphans）首任校长，美国海岸测绘局第二任局长，美国国家科学院（National Academy of Sciences, NAS）创会首任院长。
-> - **核心角色** 19 世纪美国早期欧洲教育实地考察的四大奠基学者之一（与卡尔文·斯托、霍勒斯·曼、亨利·巴纳德齐名）；以严谨的自然科学家精神与精确的实证测量眼光考察欧洲教育体制，为美国公共教育运动与现代工业技术学校建制提供了详实的经验蓝本。
-> - **代表贡献** 1836–1838 年实地走访欧洲七国 278 所学校，撰写出版长达 666 页的巨著《欧洲教育报告》（*Report on Education in Europe*, 1839）；定性普鲁士初等教育为欧洲集权体系的最高典范，系统将欧洲孤儿教养院、实科学校与工业师资培养规程引介至北美。
+> - **核心角色** 19 世纪美国早期欧洲教育实地考察的四大奠基学者之一（与[[Calvin Stowe|卡尔文·斯托]]、[[Horace Mann|霍勒斯·曼]]、[[Henry Barnard|亨利·巴纳德]]齐名）；以严谨的自然科学家精神与精确的实证测量眼光考察欧洲教育体制，为美国公共教育运动与现代工业技术学校建制提供了详实的经验蓝本。
+> - **代表贡献** 1836–1838 年实地走访欧洲七国 278 所学校，撰写出版长达 666 页的巨著《[[Education in Europe|欧洲教育报告]]》（*Report on Education in Europe*, 1839）；定性普鲁士初等教育为欧洲集权体系的最高典范，系统将欧洲孤儿[[Bildung|教养]]院、实科学校与工业师资培养规程引介至北美。
 
 > [!citation-card] 拉斯特论贝奇与 19 世纪美国欧洲考察热潮
 > 亚历山大·达拉斯·贝奇在对欧洲学校进行为期两年的深入调研后返回美国，报告指出普鲁士初等教育是中央集权体制中最完美的典范。拉斯特等人强调，贝奇与曼、巴纳德、斯托共同构成了 19 世纪美国对欧教育学习的先驱群体。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124–125)]]
@@ -65,9 +70,9 @@ updated: 2026-10-01
 > [!timeline] 生平与职涯
 > - **1806** 出生于美国宾夕法尼亚州费城，为美国国父富兰克林的外曾孙。青年时期考入西点军校，以全班第一名优异成绩毕业。
 > - **1828–1836** 受聘宾夕法尼亚大学担任自然哲学与化学教授，投身电磁学与地磁测量研究，成为美国科学界翘楚。
-> - **1836** 费城富商斯蒂芬·吉拉德捐资创办吉拉德孤儿学院，贝奇受托出任首任校长，旋即受理事会委派远赴欧洲，考察贫困孤儿教养院、初等义务教育与工业技术教育模式。
+> - **1836** 费城富商斯蒂芬·吉拉德捐资创办吉拉德孤儿学院，贝奇受托出任首任校长，旋即受理事会委派远赴欧洲，考察贫困孤儿[[Bildung|教养]]院、初等义务教育与工业技术教育模式。
 > - **1836–1838** 历时两年走访英国、法国、普鲁士、奥地利、瑞士、荷兰与意大利，深入考察 278 所各级各类学校，记录详尽的办学章程与实地数据。
-> - **1839** 正式出版 666 页的巨型考察专著《欧洲教育报告》（*Education in Europe*），震动美国教育界，成为各州立法的重要参考。
+> - **1839** 正式出版 666 页的巨型考察专著《[[Education in Europe|欧洲教育报告]]》（*Education in Europe*），震动美国教育界，成为各州立法的重要参考。
 > - **1839–1842** 兼任费城中央高中（Central High School of Philadelphia）校长，依据欧洲经验重构全美最早的高中技术与博雅课程。
 > - **1843–1867** 出任美国海岸测绘局局长，推动全国地理测绘科学化；1863 年主导创立美国国家科学院并当选首任院长。
 > - **1867** 逝世于罗德岛州纽波特。
@@ -77,7 +82,7 @@ updated: 2026-10-01
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1839 — *Report on Education in Europe, to the Trustees of the Girard College for Orphans*** 系统呈现欧洲 278 所学校的办学章程、作息课程、财政收支与教师待遇，尤以对普鲁士国民初等学校与实科中学的精确测描著称。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124, 135)]]
+> - **1839 — *[[Education in Europe|Report on Education in Europe]], to the Trustees of the Girard College for Orphans*** 系统呈现欧洲 278 所学校的办学章程、作息课程、财政收支与教师待遇，尤以对普鲁士国民初等学校与实科中学的精确测描著称。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124, 135)]]
 
 ---
 
@@ -91,7 +96,7 @@ updated: 2026-10-01
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **公学运动蓝本路径** 贝奇报告与库森报告、斯托报告相呼应，为美国各州建立免费公立学校体系与师范学校提供了极具说服力的制度依据。
+> - **[[Common School Movement|公学运动]]蓝本路径** 贝奇报告与[[Report on the State of Public Instruction in Prussia|库森报告]]、[[Report on Elementary Public Instruction in Europe|斯托报告]]相呼应，为美国各州建立免费公立学校体系与[[Normal School|师范学校]]提供了极具说服力的制度依据。
 > - **技术与实科教育建制路径** 贝奇对欧洲工科中学与职业师资培养的深入调研，直接启发了北美早期的现代综合高中与技术职业教育课程体系。
 
 ---
@@ -100,7 +105,7 @@ updated: 2026-10-01
 
 > [!person-network] 关系网络
 > - **学术先驱** [[Victor Cousin]] — 贝奇赴欧考察深受库森 1831 年普鲁士报告英译本的直接启发。
-> - **公学运动同侪** [[Calvin Stowe]]、[[Horace Mann]]、[[Henry Barnard]] — 共同构成 1830–1850 年代美国公共教育奠基期欧陆考察“四大家”。
+> - **[[Common School Movement|公学运动]]同侪** [[Calvin Stowe]]、[[Horace Mann]]、[[Henry Barnard]] — 共同构成 1830–1850 年代美国公共教育奠基期欧陆考察“四大家”。
 > - **依托机构** 吉拉德学院（Girard College）、美国国家科学院（NAS）。
 
 ---
@@ -113,4 +118,4 @@ updated: 2026-10-01
 > |:-----|:-----|:-----|
 > | [[Education in Europe]] | 事实 | 贝奇 1839 年出版的奠基性欧洲考察报告。 |
 > | [[Common School Movement]] | 事实 | 贝奇报告为美国公共学校运动提供了详实的实证档案支撑。 |
-> | [[Influences Across Cultures]] | 概念 | 示范了自然科学家如何以严密方法开展跨文化教育制度考察。 |
+> | [[Influences Across Cultures]] | 概念 | 示范了自然科学家如何以严密方法开展[[Intercultural Education\|跨文化教育]]制度考察。 |

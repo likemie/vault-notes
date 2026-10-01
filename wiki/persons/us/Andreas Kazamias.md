@@ -7,7 +7,7 @@ summary: "希腊裔比较教育学者，倡导历史和人文主义视角与普�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 47
+person_related_count: 48
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Geisteswissenschaften]]"
   - "[[Hypothesis]]"
   - "[[Scientific Method]]"
+  - "[[Value Neutrality]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Technical Rationality]]"
@@ -70,13 +71,13 @@ related_arguments:
   - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Cowen_2023_CE]]"
+  - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
-  - "[[Argument_Rust_2009_Reflections]]"
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Andreas Kazamias
@@ -121,7 +122,7 @@ updated: 2026-09-29
 >   - **阶段转向** 厘清实然与应然界限，援引[[Crane Brinton\|布林顿]]比较史学确立历史研究的中程归纳机制，确立历史比较法的现代科学合法性。
 > - **1970年代–1980年代 — 威斯康星教席与学科[[Paradigm\|范式]]反思** 面对社会科学量化实证范式席卷北美的现实，系统反思学科过度技术官僚化与工具主义危机。
 >   - **代表著作** *Comparative Education: The State of the Art* (1977); *Intellectual and Ideological Perspectives in Comparative Education: An Interpretation* (with K. Schwartz, 1977). [[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 134–135)]]
->   - **关键概念／方法** [[Positivism\|实证主义]]批判、范式[[Pluralism|多元主义]]、结构功能主义解析、改良主义改造社会抱负。
+>   - **关键概念／方法** [[Positivism\|实证主义]]批判、范式[[Pluralism|多元主义]]、结构功能主义解析、[[Educational Meliorism|改良主义]]改造社会抱负。
 >   - **阶段转向** 抵制将复杂的学校教育系统窄化为离散[[Variable\|变量]]与统计模型，维系教育制度的情境性与历史深邃感。
 > - **1990年代–2010年代 — 世纪之交学科史重构与欧洲领航** 与考恩深度合作，系统挖掘学科先驱与被遗忘母题，为比较教育学奠定面向未来的历史诠释学基石。
 >   - **代表著作** *International Handbook of Comparative Education* (2009); *The Modernist Beginnings of Comparative Education* (2009); *Forgotten Men, Forgotten Themes* (2009). [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–36)]]；[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 37–58)]]
@@ -148,10 +149,10 @@ updated: 2026-09-29
 > [!citation-card] 卡扎米亚斯论历史学与社会科学的综合纲领
 > 比较教育学亟需被更为严密的[[Scientific Method\|科学方法]]所‘感染’，但绝不能沦为缺乏理论根据的粗糙实证主义。任何未能明确阐述其理论基础的[[Variable\|变量]]共变研究，在认识论上都不能被承认为具备真正的解释效力与科学属性。比较教育的真正出路，在于实现历史学深厚的人文脉络与社会科学分析性假说检验的辩证综合。(Kazamias, 1961, p. 96; Kazamias, 1963; Kazamias & Schwartz, 1970; 见 [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou, 2009, pp. 65–67]])
 
-> [!citation-card] Kazamias & Schwartz 论结构功能主义范式与改良主义改造社会的抱负（Rust et al., 2009 征引）
-> 结构功能主义强调“社会功能、社会相互依赖、社会秩序或共识以及价值中立的科学”，力求描述教育体系与其他社会制度之间的相互关系；与此同时，比较教育领域向来具有强烈的改良主义倾向，即不仅在任何社会中扮演转变教育的实践角色，更力图利用教育去改造社会本身。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 134–135)]]
+> [!citation-card] Kazamias & Schwartz 论结构功能主义范式与[[Educational Meliorism|改良主义]]改造社会的抱负（Rust et al., 2009 征引）
+> 结构功能主义强调“社会功能、社会相互依赖、社会秩序或共识以及[[Value Neutrality|价值中立]]的科学”，力求描述教育体系与其他社会制度之间的相互关系；与此同时，比较教育领域向来具有强烈的改良主义倾向，即不仅在任何社会中扮演转变教育的实践角色，更力图利用教育去改造社会本身。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 134–135)]]
 >
-> *Structural functionalism emphasized 'social functions, societal interdependence, social order or consensus, and value free science'... the field had always had a reformist bent, a practical role in transforming not only education in any society but using education to transform society itself (Kazamias & Schwartz, 1977).*
+> *Structural functionalism emphasized 'social functions, societal interdependence, social order or consensus, and value free science'... the [[Champ|field]] had always had a reformist bent, a practical role in transforming not only education in any society but using education to transform society itself (Kazamias & Schwartz, 1977).*
 
 > [!citation-card] Kazamias 论比较教育研究的三重方法论定位与价值抉择（Rust et al., 2009 征引）
 > 比较教育方法论的核心议题在于探讨研究究竟应当具有何种程度的描述性、解释性或规范性，以及它应当秉持改良主义、意识形态立场还是严格的价值中立。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 129)]]
@@ -168,12 +169,12 @@ updated: 2026-09-29
 > - **学科史编纂** 与考恩共同主编 2009 手册，开创了学科史批判反思板块，直接激发了对比较教育学自身传统发明与[[Geopolitics of Knowledge\|知识地缘政治]]的反省。
 > - **人文主义传统** 坚守古典希腊灵魂教育（[[Paideia]]）理想，在高度技术官僚化与经济[[Pragmatic Paradigm\|实用主义]]的教育改革潮流中，为全球比较教育界维系了批判性人文关怀。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] — 考恩分析卡扎米亚斯对每一代人必须重写其历史命题的提出，及其对学科比较史学传统的开创性贡献。
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] — 卡扎米亚斯系统回顾历史-哲学母题奠基者的思想遗产，重构德语广义科学与非普适探索性假说的方法论合法性。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 考掘比较教育的现代主义发端，辨析[[Marc-Antoine Jullien\|朱利安]]准科学人道主义与行政借用母题。
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 考恩反思卡扎米亚斯的人文主义传统与学科半个世纪制度化成就之间的历史辩证关系。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 拉斯特等学者确证卡扎米亚斯作为学科历史主义奠基者的核心地位，征引其关于结构功能主义解析、改良主义改造社会抱负及方法论价值抉择的经典论断。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 拉斯特等学者确证卡扎米亚斯作为学科历史主义奠基者的核心地位，征引其关于结构功能主义解析、[[Educational Meliorism|改良主义]]改造社会抱负及方法论价值抉择的经典论断。
 
 ---
 
@@ -243,4 +244,4 @@ updated: 2026-09-29
 > | [[Four Forms of Understanding of Comparative Education]] | 概念 | 归属于求同存异传统，以历史与情境为核心代码解释教育体系的多样性。 |
 > | [[Comparative Education Society in Europe]] | 事实 | 担任学会荣誉会员，在欧洲比较教育学界维系历史与人文主义思想脉络。 |
 > | [[Val D. Rust]] | 人物 | 阐述卡扎米亚斯在历史人文主义奠基谱系与结构功能主义解析中的关键坐标。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 122–123)]] |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 征引卡扎米亚斯关于结构功能主义、改良主义改造社会抱负与方法论价值抉择的论断。 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 征引卡扎米亚斯关于结构功能主义、[[Educational Meliorism\|改良主义]]改造社会抱负与方法论价值抉择的论断。 |

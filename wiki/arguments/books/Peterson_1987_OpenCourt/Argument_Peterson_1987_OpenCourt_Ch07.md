@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch07"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch07"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 20
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -33,15 +33,21 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Creativity, Action, Service]]"
+  - "[[Reliability]]"
+  - "[[International Schools]]"
   - "[[General Education]]"
   - "[[International Education]]"
+  - "[[Necessary and Sufficient Conditions]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Extended Essay]]"
   - "[[Epistemology]]"
-  - "[[International Schools]]"
+  - "[[Homework]]"
+  - "[[School Choice]]"
   - "[[Intercultural Education]]"
 related_persons:
   - "[[John Goormaghtigh]]"
   - "[[Gerard Renaud]]"
+  - "[[Alec Peterson]]"
 related_facts:
   - "[[United World Colleges]]"
   - "[[Standing Conference of Governments of the International Baccalaureate]]"
@@ -54,6 +60,8 @@ related_facts:
   - "[[1985 Trieste Intergovernmental Conference on the International Baccalaureate]]"
 sources:
   - "[[books/Peterson_1987_OpenCourt/Peterson_1987_OpenCourt|Peterson_1987_OpenCourt]]"
+related_theories:
+  - "[[Theory of Mind]]"
 status: draft
 created: 2026-09-29
 updated: 2026-09-30
@@ -119,14 +127,14 @@ updated: 2026-09-30
 
 > [!failure] 法国的两次国家化合作都因组织边界冲突而终止
 > - **人员借调** 法国教育部拟以较小现金贡献加一名借调专家加强日内瓦行政。IBO 担心忠诚冲突，实际又无法为该专家取得日内瓦工作许可，安排在 1981 年 10 月结束。
-> - **巴黎办公室** IBO 随后与法国世俗教育使团（Mission Laïque）合作，为法国和法语非洲服务。伙伴机构内部危机引发双方冲突，也损害两者在法国教育部的可信度，办公室方案再次终止。
+> - **巴黎办公室** IBO 随后与法国世俗教育使团（Mission Laïque）合作，为法国和法语非洲服务。伙伴机构内部危机引发双方冲突，也损害两者在法国教育部的可[[Reliability|信度]]，办公室方案再次终止。
 > - **制度后果** 法国对 IB 的兴趣下降，转向[[International Option of the French Baccalaureate|法国业士文凭国际选项]]。该选项保留法国国家资格主体，只把外语和历史／地理部分交由伙伴国共同设计与考试（pp. 162–164）。
 
 > [!contrast-table] 法国先后试行的三种国际合作结构
 > | 结构 | 控制关系 | 预期收益 | 实际困难或边界 |
 > |---|---|---|---|
 > | **专家借调至日内瓦** | 法国教育部提供人员，IBO 负责日常行政 | 以低于纯现金出资的财政成本，为迅速扩大的日内瓦总部增加专业能力 | 借调人员可能面对双重忠诚；瑞士工作许可最终无法取得，1981 年 10 月终止 |
-> | **巴黎合作办公室** | IBO 不另设法人，借法国世俗教育使团服务法国与法语非洲 | 利用本国既有国际学校机构取得行政入口 | 合作方内部危机转化为组织间冲突，并损害双方在教育部的可信度 |
+> | **巴黎合作办公室** | IBO 不另设法人，借法国世俗教育使团服务法国与法语非洲 | 利用本国既有[[International Schools\|国际学校]]机构取得行政入口 | 合作方内部危机转化为组织间冲突，并损害双方在教育部的可信度 |
 > | **法国业士文凭国际选项** | 法国国家文凭为主体，伙伴国共同负责外语和历史／地理 | 保留大学与专业准入效力，同时加入双文化课程 | 回到逐国双边协议；多国籍学校必须按伙伴国分组，难以形成共同课程（pp. 162–164） |
 
 > [!warrant]- 三种结构的差异说明“本地存在”不是单一制度
@@ -196,7 +204,7 @@ updated: 2026-09-30
 > - **伦敦发展中心** 罗伯特·布莱克本（Robert Blackburn）自 1978 年任发展主任兼副总干事，与伦敦大学教育学院合作，承担全球扩展的重要部分。
 > - **南美共享岗位** 彼得·斯托伊尔（Peter Stoyle）在布宜诺斯艾利斯圣乔治学校办公，同时担任 IBO 区域官员与 UWC 南美国家委员会联络员，双方分担旅行成本。
 > - **东南亚共享岗位** 东南亚 UWC 的约翰·古德班（John Goodban）兼顾 IBO 利益，使两个组织借同一地区节点提供服务。
-> - **语言考试伙伴** 汤姆·卡特（Tom Carter）与南安普敦大学的安排，构成后来大学承接考试职能的先例（pp. 166–168）。
+> - **语言考试伙伴** 汤姆·卡特（[[Theory of Mind|ToM]] Carter）与南安普敦大学的安排，构成后来大学承接考试职能的先例（pp. 166–168）。
 
 > [!warrant]- 共享人员把组织协作变成成本结构
 > IBO 与 UWC 的关系不只体现在共同理念。共用地区人员、办公室、旅行和学校网络，直接降低了尚不足以支撑独立办公室地区的固定成本。协作也提高了对个人经验和伙伴机构稳定性的依赖，人员更替或机构危机可能迅速削弱服务。
@@ -283,7 +291,7 @@ UWC 早期把和平寄托于潜在领导者的跨国共同生活、救援服务�
 > - **财政与场地变化** 1975 年州文化部门表示未来两年无经费，城堡部分空间还要用于画廊。
 > - **资格障碍** 1976 年最终确认一半名额须留给德国人，这些学生完成 IB 后还要增加第三年，因为国内仍不承认 IB 替代年龄更晚的 Abitur。非政府资助者也没有出现，项目遂终止（pp. 174–175）。
 
-> [!contrast-table] 未成项目检验了不同必要条件
+> [!contrast-table] 未成项目检验了不同[[Necessary and Sufficient Conditions|必要条件]]
 > | 项目 | 已具备条件 | 关键缺口 | 不能据此推出 |
 > |---|---|---|---|
 > | 菲律宾 | 校址、启动捐赠 | 政治稳定、区域与国际生源、与新加坡书院的奖学金协调 | 有捐赠即可开校 |
@@ -357,8 +365,8 @@ UWC 早期把和平寄托于潜在领导者的跨国共同生活、救援服务�
 两个组织在第二个十年同时经历领导更替。交接是否成功，不只取决于继任者声望，也取决于职责是否被移交给可持续岗位，以及不同功能之间能否继续协调。
 
 > [!actor-grid] UWC 主席交接强调国际董事会的耐心协调
-> - **亚历克·彼得森（Alec Peterson）** 1978 年接任国际董事会主席时已七十岁，预先限定只任两年，并把寻找继任者列为主要任务。
-> - **汤姆·西蒙斯（Tom Symons）** 曾任 Trent University 创校副校长和英联邦大学协会主席、财务主管，1980 年当选，1983 年连任。彼得森特别强调其耐心，认为国际委员会主席的关键能力是在有限时间内促成原本看似不可能的结论。
+> - **亚历克·彼得森（[[Alec Peterson]]）** 1978 年接任国际董事会主席时已七十岁，预先限定只任两年，并把寻找继任者列为主要任务。
+> - **汤姆·西蒙斯（Tom Symons）** 曾任 Trent University 创校副校长和英联邦大学协会主席、财务主管，1980 年当选，1983 年连任。彼得森特别强调其耐心，认为国际委员会主席的[[21st Century Skills and Competencies Discourse|关键能力]]是在有限时间内促成原本看似不可能的结论。
 > - **金曼·布鲁斯特（Kingman Brewster）** 前 Yale University 校长及美国驻英大使，于 1986 年接任，使主席序列从法国人、苏格兰人、加拿大人延伸到美国人（p. 172）。
 
 > [!actor-grid] IBO 总干事交接同时承接教学健康与财政危机
@@ -383,7 +391,7 @@ UWC 早期把和平寄托于潜在领导者的跨国共同生活、救援服务�
 > | [[Creativity, Action, Service\|创造、行动与服务]]（Creativity, Action, Service，CASS） | 让创造、身体活动和社会服务进入完整教育 | 学校提供机会与指导，拟以档案而非分数增强记录 | 定义稀释、学校间文化差异、强制参与制造形式主义（pp. 178–185） |
 
 > [!case] TOK 以低权重评价保护重要性和课程自由
-> TOK 由法国哲学传统参与塑造，又明确不等同于哲学史、[[Epistemology|认识论]]专课或符号逻辑。学校享有较大设计自由，并可因地方文化省略部分内容；教师热情通过每年约 35–40 人的暑期学校维持。为防止课程被忽视，优秀表现奖励 1 分，完全不参与扣 1 分；为避免成为第七学科，早期共同试卷由外部命题、校内评分和外部调节组成，1985 年改为提交课程作业样本进行调节。2,227 名文凭考生中，620 人获奖励分，58 人被扣分（pp. 178–180）。
+> TOK 由法国哲学传统参与塑造，又明确不等同于哲学史、[[Epistemology|认识论]]专课或符号逻辑。学校享有较大设计自由，并可因地方文化省略部分内容；教师热情通过每年约 35–40 人的暑期学校维持。为防止课程被忽视，优秀表现奖励 1 分，完全不参与扣 1 分；为避免成为第七学科，早期共同试卷由外部命题、校内评分和外部调节组成，1985 年改为提交课程[[Homework|作业]]样本进行调节。2,227 名文凭考生中，620 人获奖励分，58 人被扣分（pp. 178–180）。
 
 > [!question]- TOK 共同试卷的问题样例
 > - 如果道德规范只是其所在社会的惯例，追求一个更公正的社会是否仍有意义？
@@ -580,7 +588,7 @@ UWC 国际理事会和[[1985 Trieste Intergovernmental Conference on the Interna
 > ```
 
 > [!warrant]- “后门”争议不是单纯的标准高低争议
-> 反对者担心的是申请人以家庭财富和学校选择绕过 Abitur 公开竞争；支持者担心禁止本国学生进入国际学校会隔断国际社群与东道国文化。指定学校方案不宣称两种资格完全相同，而是通过限制使用场所，换取流动服务与国内公平之间的暂时平衡（pp. 190–191）。
+> 反对者担心的是申请人以家庭财富和[[School Choice|学校选择]]绕过 Abitur 公开竞争；支持者担心禁止本国学生进入国际学校会隔断国际社群与东道国文化。指定学校方案不宣称两种资格完全相同，而是通过限制使用场所，换取流动服务与国内公平之间的暂时平衡（pp. 190–191）。
 
 > [!case] 多文化流动学生表明双文化资格不是普遍答案
 > 第 10,000 份 IB 文凭获得者是芬兰学生，教育经历跨越马来西亚、泰国、莫桑比克、芬兰和坦桑尼亚。对于这类学生，法国国际选项式双文化教育无法代表实际生活世界；共同国际资格仍有独立必要性（p. 190）。

@@ -9,7 +9,7 @@ summary: "将规则主导的系统性程序与质性诠释深度融合的文本�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 53
+method_related_count: 54
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Document]]"
   - "[[Meaningful Human Control]]"
+  - "[[Interpretivism]]"
   - "[[Positivism]]"
   - "[[Constructivist Paradigm]]"
   - "[[Reflexivity]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-09-27
+updated: 2026-10-01
 ---
 
 # Qualitative Content Analysis
@@ -133,7 +134,7 @@ updated: 2026-09-27
 > [!contrast-table] 质性内容分析与相邻文本分析方法辨析
 > | 维度 | 质性内容分析（Mayring QCA） | 经典量化内容分析（Berelson / Weber） | [[Grounded Theory\|扎根理论]]（Glaser & Strauss） | 主题分析（Braun & Clarke） |
 > |---|---|---|---|---|
-> | **[[Epistemology\|认识论]]基础** | 规则主导的质性诠释主义 | [[Positivism\|实证主义]]与逻辑实证主义 | [[Symbolic Interactionism\|符号互动论]]与[[Constructivist Paradigm\|建构主义]] | 灵活的质性范式（[[Reflexivity\|反思性]]） |
+> | **[[Epistemology\|认识论]]基础** | 规则主导的质性[[Interpretivism\|诠释主义]] | [[Positivism\|实证主义]]与逻辑实证主义 | [[Symbolic Interactionism\|符号互动论]]与[[Constructivist Paradigm\|建构主义]] | 灵活的质性范式（[[Reflexivity\|反思性]]） |
 > | **范畴生成进路** | 归纳总结与结构演绎并存，重在规则化 | 严格先验演绎预设，保持[[Operationalization\|操作化]]封闭 | 纯粹自下而上归纳，坚拒先验理论强加 | 归纳或演绎均可，重在主题网络编织 |
 > | **[[Reliability\|信度]]控制机制** | 10%–50% 节点上的**形成性复核**与规则修正 | [[Coding in Qualitative Research\|编码]]完成后计算总结性 Kappa / Alpha 指标 | [[Constant Comparison\|持续比较法]]与负面案例审视直至[[Saturation\|理论饱和]] | 强调反身性日志与研究者主观透镜审视 |
 > | **语境处理方式** | 区分窄语境与宽语境，主动引入背景阐释 | 剥离语境，将文本切分为孤立测量单元 | [[Rich and Thick Description\|深描]]情境脉络，作为主轴范畴中介条件 | 保持叙事完整性，围绕主题展开说明 |

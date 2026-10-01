@@ -9068,7 +9068,7 @@
     "path": "wiki/concepts/research-methodology/Going Native.md",
     "aliases": [
       "本土化",
-      "going native"
+      "参与观察本土化"
     ]
   },
   {
@@ -18708,6 +18708,17 @@
     ]
   },
   {
+    "title": "Louis Henry Jordan",
+    "type": "person",
+    "path": "wiki/persons/canada/Louis Henry Jordan.md",
+    "aliases": [
+      "路易斯·亨利·乔丹",
+      "路易斯·乔丹",
+      "Louis H. Jordan",
+      "L. H. Jordan"
+    ]
+  },
+  {
     "title": "Marlene Scardamalia",
     "type": "person",
     "path": "wiki/persons/canada/Marlene Scardamalia.md",
@@ -19503,6 +19514,14 @@
     "path": "wiki/persons/greece/Socrates.md",
     "aliases": [
       "苏格拉底"
+    ]
+  },
+  {
+    "title": "Xenophon",
+    "type": "person",
+    "path": "wiki/persons/greece/Xenophon.md",
+    "aliases": [
+      "色诺芬"
     ]
   },
   {
@@ -20466,6 +20485,17 @@
     ]
   },
   {
+    "title": "Simon Somerville Laurie",
+    "type": "person",
+    "path": "wiki/persons/uk/Simon Somerville Laurie.md",
+    "aliases": [
+      "西蒙·萨默维尔·劳里",
+      "西蒙·劳里",
+      "S. S. Laurie",
+      "Simon Laurie"
+    ]
+  },
+  {
     "title": "Sir Kevan Collins",
     "type": "person",
     "path": "wiki/persons/uk/Sir Kevan Collins.md",
@@ -21065,6 +21095,17 @@
       "Barnard, 1872",
       "Barnard (1854)",
       "Barnard, 1854"
+    ]
+  },
+  {
+    "title": "Henry Giroux",
+    "type": "person",
+    "path": "wiki/persons/us/Henry Giroux.md",
+    "aliases": [
+      "亨利·吉鲁",
+      "亨利·A·吉鲁",
+      "吉鲁",
+      "Henry A. Giroux"
     ]
   },
   {
@@ -21772,6 +21813,17 @@
       "威廉·托里·哈里斯",
       "W. T. Harris",
       "William Torrey Harris"
+    ]
+  },
+  {
+    "title": "William W. Brickman",
+    "type": "person",
+    "path": "wiki/persons/us/William W. Brickman.md",
+    "aliases": [
+      "威廉·W·布里克曼",
+      "威廉·布里克曼",
+      "William Brickman",
+      "W. W. Brickman"
     ]
   },
   {

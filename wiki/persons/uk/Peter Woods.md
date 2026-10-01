@@ -8,7 +8,7 @@ summary: "英国教育社会学家，开放大学荣休教授，微观课堂民�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Self-control]]"
   - "[[Construct]]"
+  - "[[Interpretivism]]"
   - "[[Classroom Management]]"
   - "[[Anthropomorphic Model]]"
   - "[[Interpretive Paradigm]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-22
+updated: 2026-10-01
 ---
 
 # Peter Woods
@@ -114,7 +115,7 @@ updated: 2026-09-22
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 推动英国教育社会学从宏观结构功能主义向微观诠释主义[[Paradigm\|范式]]转型，使[[Symbolic Interactionism\|符号互动论]]成为教育[[Qualitative Research\|质性研究]]的核心理论支柱。
+> - **理论路径** 推动英国教育社会学从宏观结构功能主义向微观[[Interpretivism|诠释主义]][[Paradigm\|范式]]转型，使[[Symbolic Interactionism\|符号互动论]]成为教育[[Qualitative Research\|质性研究]]的核心理论支柱。
 > - **方法路径** 确立[[Participant Observation\|参与观察]]、[[Rich and Thick Description\|深描]]与生活史叙事在教育研究中的合法性，打破[[Flanders Interaction Analysis Categories\|弗兰德斯互动分析系统]]（FIAC）等量化行为[[Coding in Qualitative Research\|编码]]系统的垄断。
 > - **实践路径** 启迪教师理解学生“无聊”、“打趣”与“胡闹”背后的心理动机与生存诉求，为民主化[[Classroom Management\|课堂管理]]与师生沟通提供反思视角。
 

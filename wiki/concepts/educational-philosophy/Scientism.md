@@ -5,7 +5,7 @@ aliases:
 summary: "对科学方法和科学权威的过度美化与神化，将其排他性外推至原本不适用的人类精神与社会探究领域的认识论倾向。科学主义将实证科学视为唯一合法的求真法则，以工具理性和概念数学化扼杀价值伦理辩论，在当代教育治理中表现为量化霸权与对多元认知方式的系统规训。"
 type: concept
 domain: "educational-philosophy"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Variable]]"
   - "[[Determinism]]"
+  - "[[Dissimilar Units]]"
   - "[[Commensuration]]"
   - "[[External Validity]]"
   - "[[Heterogeneity]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Scientism
@@ -128,7 +129,7 @@ updated: 2026-09-29
 > - **过度重视经验数据** 将实证量化数据视为唯一或最高形态的知识，排斥诠释学、审美体验、批判自省、道德伦理和[[Creativity|创造性]]等其他[[Ways of Knowing|认知方式]]（O'Mahony, 2017）。
 > - **研发管理主义的历史源流** 源于二战后 R&D 工业工程模式的膨胀，技术[[Determinism|决定论]]、社会工程与自由市场计量理念渗透公共行政，成为新自由主义绩效治理的意识形态基石（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 34]]）。
 > - **自然情境受控约束（Natural Setting Constraint）** 比较探究与社会科学无法像自然科学那样在无菌实验室对社会体系实施隔离操纵，探究必须完全依托真实社会历史自然情境中的变异（[[Argument_Rust_2009_Reflections|Rust et al., 2009, p. 128]]）。
-> - **非同质单位比较约束（Dissimilar Units Constraint）** 跨文化比较研究面对的是深嵌于不同历史文化土壤中的“非同质单位”（Smelser, 1976）。机械将异质社会文化降维为可[[Commensuration|通约]]的同质统计变量，是科学主义跨国还原论的典型谬误（[[Argument_Rust_2009_Reflections|Rust et al., 2009, pp. 128–129]]）。
+> - **[[Dissimilar Units|非同质单位]]比较约束（Dissimilar Units Constraint）** 跨文化比较研究面对的是深嵌于不同历史文化土壤中的“非同质单位”（Smelser, 1976）。机械将异质社会文化降维为可[[Commensuration|通约]]的同质统计变量，是科学主义跨国还原论的典型谬误（[[Argument_Rust_2009_Reflections|Rust et al., 2009, pp. 128–129]]）。
 
 > [!feature] 识别的操作信号
 > - 将“可测量”直接等同于“最重要”，反之将不可量化之物贬为虚无
@@ -211,7 +212,7 @@ updated: 2026-09-29
 > 在人文社会学科与跨文化探究建制化进程中，科学主义表现为急于通过照搬自然科学假说检验与统计建模、将学科提升为“硬科学”的学科合法性焦虑。然而，这种努力必然遭遇自然情境无法人工干预以及比较单位深刻异质的双重客观限度。
 
 > [!claim] Rust, Johnstone, & Allaf (2009)
-> **迈向科学化的实证独尊与[[Pluralism|多元主义]]反拨** 20 世纪 60 年代末，[[Harold Noah|哈罗德·诺亚]]与[[Max Eckstein|马克斯·埃克斯坦]]（Harold Noah & Max Eckstein, 1969）出版《迈向比较教育科学》（*Toward a Science of Comparative Education*），将十九世纪丰富的跨文化考察与[[Policy Borrowing|政策借用]]贬为业余的“史前时期”，主张唯有依托量化指标与跨国假设检验，学科方能确立科学合法性。然而，这种实证主义科学垄断很快遭遇认识论瓶颈：尼尔·斯梅尔瑟（Neil Smelser, 1976）指出，社会比较研究面对的是深嵌于不同历史脉络的“非同质单位”（dissimilar units），且无法像自然科学那样脱离真实情境在受控实验室中操作变量。[[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）依托期刊[[Document|文献]]计量实证证实，结构功能主义与实证主义在冷战时期的一统天下不仅未能建成“统一的科学”，反而在 1970 年代后迅速瓦解，最终让位于涵盖实证主义（40.5%）、[[Postpositivism|后实证主义]]（36.1%）与非实证主义（23.4%）共 26 种理论传统的“健康多元主义”（healthy pluralism）。跨文化探究的生命力恰恰在于包容多元范式，而非屈从于单一的科学主义规训。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–129, 131–135)]]
+> **迈向科学化的实证独尊与[[Pluralism|多元主义]]反拨** 20 世纪 60 年代末，[[Harold Noah|哈罗德·诺亚]]与[[Max Eckstein|马克斯·埃克斯坦]]（Harold Noah & Max Eckstein, 1969）出版《迈向比较教育科学》（*Toward a Science of Comparative Education*），将十九世纪丰富的跨文化考察与[[Policy Borrowing|政策借用]]贬为业余的“史前时期”，主张唯有依托量化指标与跨国假设检验，学科方能确立科学合法性。然而，这种实证主义科学垄断很快遭遇认识论瓶颈：尼尔·斯梅尔瑟（Neil Smelser, 1976）指出，社会比较研究面对的是深嵌于不同历史脉络的“[[Dissimilar Units|非同质单位]]”（dissimilar units），且无法像自然科学那样脱离真实情境在受控实验室中操作变量。[[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）依托期刊[[Document|文献]]计量实证证实，结构功能主义与实证主义在冷战时期的一统天下不仅未能建成“统一的科学”，反而在 1970 年代后迅速瓦解，最终让位于涵盖实证主义（40.5%）、[[Postpositivism|后实证主义]]（36.1%）与非实证主义（23.4%）共 26 种理论传统的“健康多元主义”（healthy pluralism）。跨文化探究的生命力恰恰在于包容多元范式，而非屈从于单一的科学主义规训。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–129, 131–135)]]
 
 ---
 
@@ -264,7 +265,7 @@ updated: 2026-09-29
 > > [!axis] 硬核实证科学主义 vs 情境历史考据与[[Pluralism|健康多元主义]]
 > > [[Intercultural Education|跨文化教育]]探究应当追求寻找跨越时空的普遍因果法则，还是深耕特定民族文化的历史语境与情境多元性？
 > > - **诺亚与埃克斯坦（Noah & Eckstein, 1969）科学主义立场** 主张摆脱[[Michael Sadler|萨德勒]]（Sadler）等早期学者的描述性与历史考据传统，借用社会学与经济学量化模型开展跨国[[Hypothesis|假设]]检验，追求建立[[Positivism|实证主义]]的“比较教育硬科学”。
-> > - **拉斯特等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）多元反思立场** 揭示跨国探究受制于斯梅尔瑟（Smelser, 1976）指出的“非同质单位”与“无法受控实验”客观约束，任何单一科学主义垄断都会导致对异质现实的误读；比较研究最终必然走向多[[Paradigm|范式]]并存的“健康多元主义”。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–126)]]
+> > - **拉斯特等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）多元反思立场** 揭示跨国探究受制于斯梅尔瑟（Smelser, 1976）指出的“[[Dissimilar Units|非同质单位]]”与“无法受控实验”客观约束，任何单一科学主义垄断都会导致对异质现实的误读；比较研究最终必然走向多[[Paradigm|范式]]并存的“健康多元主义”。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–126)]]
 
 > [!critique] 科学主义对教育生态的系统性损害
 > [[Positivism|实证主义]]与科学主义对统一控制和狭隘工具理性的狂热追求，对教育实践中开放、生成、[[Creativity|创造性]]与人道关怀的生态造成了不可逆的破坏。哈耶克强调，学生与教师是具有能动诠释能力的自由个体，根据对情境意义的主观建构采取行动，任何试图将教育改造为工业受控流水线的技术工程，最终都只能以牺牲教育的本真价值为代价。[[Argument_Johnson_2023_CE|Johnson & Janzen (2023, p. 27)]]
@@ -278,5 +279,5 @@ updated: 2026-09-29
 > - [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] — 以[[John Hattie|哈蒂]]的可见学习为典型案例，解构了当代教育治理中测量中心主义科学主义的意识话语机制与政策后果。
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|TOK]] 课程为解剖对象，揭示科学主义如何通过课程评价框架与评分细则实施隐性[[Paradigm|范式]][[Disciplina and Doctrina|规训]]。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 阐明科学主义批判的高度情境依赖性，揭示科学在不同地缘文明与历史时期的权力[[Heterogeneity|异质性]]。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理比较教育学自 1960 年代诺亚与埃克斯坦以来追求“科学化”的历程，分析自然情境与非同质单位带来的[[Epistemology|认识论]]约束，实证展示实证科学主义单一垄断向[[Pluralism|健康多元主义]]转型的知识轨迹。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理比较教育学自 1960 年代诺亚与埃克斯坦以来追求“科学化”的历程，分析自然情境与[[Dissimilar Units|非同质单位]]带来的[[Epistemology|认识论]]约束，实证展示实证科学主义单一垄断向[[Pluralism|健康多元主义]]转型的知识轨迹。
 

@@ -9,7 +9,7 @@ summary: "一种专门用于系统综述中整合质性与混合方法研究证�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 36
+method_related_count: 37
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Creativity]]"
   - "[[Epistemology]]"
+  - "[[Interpretivism]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Research Question]]"
   - "[[Critical Thinking]]"
@@ -64,7 +65,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-09-17
+updated: 2026-10-01
 ---
 
 # Thematic Synthesis
@@ -92,7 +93,7 @@ updated: 2026-09-17
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 解释主义与[[Critical Realism\|批判实在论]]折衷——承认初级[[Qualitative Research\|质性研究]]的情境独特性，同时主张通过系统、严谨与透明的归纳程序能够提炼出跨越具体情境的共同机制与模式。
+> - **知识观** [[Interpretivism|解释主义]]与[[Critical Realism\|批判实在论]]折衷——承认初级[[Qualitative Research\|质性研究]]的情境独特性，同时主张通过系统、严谨与透明的归纳程序能够提炼出跨越具体情境的共同机制与模式。
 > - **研究者角色** 证据的积极解释者与理论建构者。通过多名研究者独立[[Coding in Qualitative Research\|编码]]、交叉校验与持续比较（[[Constant Comparison]]）来控制主观偏差。
 > - **有效性标准** 编码透明性、主题对原始数据的贴近度（Groundedness）、跨研究解释力与[[Intercoder Agreement\|编码者间一致性]]（Inter-coder Agreement）。
 > - **不声称回答的问题** 不能提供精确的总体[[Effect Size\|效应量]]点估计（不能替代量化[[Meta-analysis\|元分析]]）；不能从质性共现关系中直接断言因果效应。

@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rust_2009_Reflections.md"
     },
     {
+      "basename": "Analytic Framework",
+      "path": "wiki/methods/qualitative/Analytic Framework.md"
+    },
+    {
       "basename": "Going Native",
       "path": "wiki/concepts/research-methodology/Going Native.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Friedrich Schneider",
       "path": "wiki/persons/germany/Friedrich Schneider.md"
-    },
-    {
-      "basename": "Education for All",
-      "path": "wiki/facts/global/Education for All.md"
     }
   ],
   "omittedPaths": [],

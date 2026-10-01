@@ -9,7 +9,7 @@ summary: "美国当代著名批判教育社会学者与课程理论泰斗，威�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -46,6 +46,7 @@ related_persons:
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Pierre Bourdieu]]"
+  - "[[Henry Giroux]]"
   - "[[Stephen Ball]]"
   - "[[Martin Carnoy]]"
   - "[[Paulo Freire]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # Michael W. Apple
@@ -121,7 +122,7 @@ updated: 2026-09-28
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 开创了美国批判教育社会学与意识形态课程论传统，将葛兰西统识理论与政治经济学劳动过程理论注入教育学，深刻影响了[[Carlos Alberto Torres|托雷斯]]、吉鲁（Henry Giroux）与[[Stephen Ball|斯蒂芬·鲍尔]]等学者。
+> - **理论路径** 开创了美国批判教育社会学与意识形态课程论传统，将葛兰西统识理论与政治经济学劳动过程理论注入教育学，深刻影响了[[Carlos Alberto Torres|托雷斯]]、[[Henry Giroux|吉鲁]]（Henry Giroux）与[[Stephen Ball|斯蒂芬·鲍尔]]等学者。
 > - **方法路径** 倡导意识形态文本批判、批判性[[Discourse Analysis|话语分析]]与社会学田野考察相结合，展示了如何细致解剖国家教学大纲、标准化教科书与教师工作日志背后的阶级权力运作。
 > - **实践路径** 长期介入美国与拉美教师工会、反私有化运动与草根教育行动，推动建立“民主学校”网络，践行反思与行动深度熔铸的批判实践。
 

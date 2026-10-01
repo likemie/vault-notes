@@ -42,7 +42,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Reflexivity]]"
   - "[[Falsification]]"
-  - "[[Constructivist Paradigm]]"
+  - "[[Interpretivism]]"
   - "[[Scientism]]"
   - "[[Technical Rationality]]"
   - "[[Areas of Knowledge]]"
@@ -175,7 +175,7 @@ updated: 2026-09-29
 > [!feature] 经典范式与认识论映射谱系
 > - **[[Positivism\|实证主义]]** 知识源自对客观外在现象的系统观察、测量与[[Hypothesis\|假设]]检验，追求普适性因果规律。
 > - **[[Postpositivism\|后实证主义]]（Post-positivism）** 承认现实的复杂性与观察的可错性，追求概率性规律与[[Falsification\|证伪]]检验。
-> - **诠释与建构范式（[[Constructivist Paradigm\|interpretivism]]）** 承认多重实在，强调通过参与者之眼理解情境——知识是情境化的、主体间建构的。
+> - **诠释与建构范式（[[Interpretivism]]）** 承认多重实在，强调通过参与者之眼理解情境——知识是情境化的、主体间建构的。
 > - **[[Phenomenology\|现象学]]与存在主义** 通过探究生活体验本身的本质结构与意识赋予来获取知识。
 > - **互动论与[[Ethnography\|民族志]]** 知识在日常符号互动与历时性文化意义生产中被发现与[[Rich and Thick Description\|深描]]。
 > - **[[Complexity Theory\|复杂性理论]]** 理解非线性与多重因果方向，通过审查动态[[Emergence\|涌现]]的过程和生态互动网络来认识现象。

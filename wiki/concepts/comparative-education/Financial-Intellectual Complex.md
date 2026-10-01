@@ -8,7 +8,7 @@ aliases:
 summary: "由乔尔·萨莫夫（Joel Samoff）提出、用以剖析世界银行等国际金融组织霸权机制的批判性概念。它揭示了多边信贷附加条件与定向委托研究之间的深度绑定，通过雇佣专家共同体与新古典经济学、人力资本理论及厂商理论，将投入产出与收益率分析裁定为唯一合法的方法论标准，重塑发展中国家的教育政策议程。"
 type: concept
 domain: "comparative-education"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Categorical Funding]]"
+  - "[[Development Education]]"
   - "[[Variable]]"
   - "[[Technical Rationality]]"
 related_theories:
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # Financial-Intellectual Complex
@@ -186,7 +187,7 @@ updated: 2026-09-28
 > > [!axis] 技术中立的循证开发工具 vs. 资本驱动的知识新殖民体系
 > > 争论以[[World Bank|世界银行]]为核心的[[Categorical Funding|委托研究]]是帮助贫困国家优化资源配置的客观科学工具，还是推行华盛顿共识新自由主义[[Disciplina and Doctrina|规训]]的意识形态武器。
 > >
-> > - **新古典经济学派与世行官方团队** 认为成本效益与回报率估算提供了跨国可比的客观证据，有助于克服发展中国家教育系统的寻租低效与腐败。
+> > - **新古典经济学派与世行官方团队** 认为成本效益与回报率估算提供了跨国可比的客观证据，有助于克服[[Development Education|发展中国家教育]]系统的寻租低效与腐败。
 > > - **批判政治经济学者 ([[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres, 2009, pp. 80–81]])** 指出复合体通过挑选特定模型排斥阶级公平与主权民主，实质是跨国资本积累在外围国家的制度性护航。
 > >
 > > [!axis] 组织内部研究[[Heterogeneity|异质性]] vs. 信贷执行的单一体霸权

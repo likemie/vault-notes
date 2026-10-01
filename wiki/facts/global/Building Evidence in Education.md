@@ -11,7 +11,7 @@ subtype: organization
 region: "global"
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Evidence Standards]]"
   - "[[Causality]]"
+  - "[[Development Education]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
   - "[[Emergence]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-18
+updated: 2026-10-01
 ---
 
 # Building Evidence in Education
@@ -102,7 +103,7 @@ updated: 2026-09-18
 > [!finding-cards] 核心产品与业务矩阵
 > - **方法论评估规程** 发布《教育研究证据评估指南》（*Guidance Note on Assessing the Strength of Evidence in Education*），确立[[Causality\|因果推断]]实证研究的质量评级金字塔。
 > - **成本效益核算工具** 联合开发标准化的教育干预“每单位产出成本测算模板”，将识字率、算术达标率等量化产出折算为美元效益比。
-> - **智慧型政策指南** 汇编全球教育“最佳投资（[[SMART]] Buys）”政策清单，向发展中国家教育部强力推介经 [[Randomised Controlled Trials\|RCT]] 验证的标准化教学干预包。
+> - **智慧型政策指南** 汇编全球教育“最佳投资（[[SMART]] Buys）”政策清单，向[[Development Education|发展中国家教育]]部强力推介经 [[Randomised Controlled Trials\|RCT]] 验证的标准化教学干预包。
 
 > [!citation-card] 证据评估准则与成本效益考量
 > 发展中国家面临着严峻的财政约束，每一笔教育投入都必须建立在无可置疑的严格因果证据之上。工作组的使命是确立明确的标准，剔除缺乏严谨因果推断的研究，确保捐助方与受援国政府共同依靠经过实证检验的最佳方案来提高学习成果。(BE2, 2014)

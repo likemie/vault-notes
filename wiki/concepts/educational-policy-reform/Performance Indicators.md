@@ -7,7 +7,7 @@ aliases:
 summary: "经过目的性选择和加工的派生统计量，具备“技术理性”与“权力规制”双重属性（Le Galès, 2016）。通过将异质、复杂的教育系统还原为跨国可比的数值与排名，绩效指标在提供决策信息的同时重塑行动者行为与治理关系。在数字治理 2.0 时代，绩效指标成为中介机构为充满歧义性的政策决策构筑“理性表象”的核心脚手架（Steiner-Khamsi et al., 2024）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 43
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -39,6 +39,8 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Lifelong Learning]]"
   - "[[Going Native]]"
+  - "[[Grade Retention]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Positivism]]"
   - "[[New Public Management]]"
   - "[[Critical Thinking]]"
@@ -49,6 +51,7 @@ related_concepts:
 related_theories:
   - "[[Governing at a Distance]]"
 related_methods:
+  - "[[Exploratory Factor Analysis]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -63,6 +66,8 @@ related_facts:
   - "[[World Bank]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[YOUNG_ADULLLT]]"
+  - "[[Education for All]]"
+  - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Gorur_2014_Discourse]]"
   - "[[Argument_Rambla_2022_Springer]]"
@@ -71,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-09-30
+updated: 2026-10-01
 ---
 
 # Performance Indicators
@@ -185,7 +190,7 @@ updated: 2026-09-30
 - **指标删除的体制黏性** 一旦某项指标被编制发布，即便 OECD 技术团队因方法论瑕疵希望下架，政策制定者与媒体因形成路径依赖也会强烈抵制其删除（[[Argument_Gorur_2014_Discourse|Gorur, 2014, p. 17]]）。
 - **指标体系对区域[[Heterogeneity|异质性]]的抹平与固化** 欧盟区域创新记分牌将所有成员国区域划分为“创新领导者”与“温和创新者”，年复一年的排榜不仅未能缩小差距，反而在话语和资本流动层面自我实现了马太效应（[[Argument_Rambla_2022_Springer|Rambla, 2022, p. 174]]）。
 - **地方执行中的差异化[[Transfer Translation Transformation|转译]]（[[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]实证）** 对 16 个欧盟地区、168 位[[Lifelong Learning|终身学习]]政策专家的实证调研显示：制度基础深厚的德语区与北欧能动地将指标“[[Going Native|本土化]]”为学徒制方案；而在南欧和东欧边缘区，指标因缺乏政策承接能力沦为歧视受助青年的标签工具（[[Argument_Rambla_2022_Springer|Rambla, 2022, pp. 172–173]]）。
-- **跨国指标规训与自主公共动员的绩效反差（全民教育 EFA 指标实证）** 比较教育学实证表明，国际金融机构主导的指标监控与市场化规训并不能自动转化为教育绩效的改善。在 2000 年达喀尔世界教育论坛对全民教育（EFA）核心绩效指标（初等净入学率、留级率、辍学率与识字率）的跨国评估中，绝大多数接受外部结构调整与市场化方案的非洲与拉美国家指标停滞甚至恶化；而古巴凭借完全由国家保障的公立教育系统与高强度社会动员，成为全拉丁美洲唯一达成教科文组织全部 EFA 核心指标的国家（UNESCO, 2000; Carnoy, 2007; [[Argument_Rust_2009_Reflections|Rust et al., 2009, pp. 134–135]]）。这表明剥离了国家公共投入与制度自主性的外部指标问责，无法解决底层教育发展的实质困境。
+- **跨国指标[[Disciplina and Doctrina|规训]]与自主公共动员的绩效反差（[[Education for All|全民教育]] [[Exploratory Factor Analysis|EFA]] 指标实证）** 比较教育学实证表明，国际金融机构主导的指标监控与市场化规训并不能自动转化为教育绩效的改善。在 2000 年达喀尔世界教育论坛对全民教育（EFA）核心绩效指标（初等净入学率、[[Grade Retention|留级]]率、辍学率与识字率）的跨国评估中，绝大多数接受外部[[Structural Adjustment Programs|结构调整]]与市场化方案的非洲与拉美国家指标停滞甚至恶化；而古巴凭借完全由国家保障的公立教育系统与高强度社会动员，成为全拉丁美洲唯一达成[[UNESCO|教科文组织]]全部 EFA 核心指标的国家（UNESCO, 2000; Carnoy, 2007; [[Argument_Rust_2009_Reflections|Rust et al., 2009, pp. 134–135]]）。这表明剥离了国家公共投入与制度自主性的外部指标问责，无法解决底层教育发展的实质困境。
 
 ---
 
@@ -216,7 +221,7 @@ updated: 2026-09-30
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 历史解构[[OECD|经合组织]] [[International Indicators of Education Systems|INES]] 项目与《[[Education at a Glance|教育概览]]》指标开发史，揭示科学纯度向政策可用性妥协的制度机制及测量的履行性。
 > - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 整合勒加莱斯与杰索普理论，提出绩效指标四维政策工具分析模型，以欧盟区域创新记分牌和[[Lifelong Learning|终身学习]]政策为实证检验。
-> - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 比较全民教育（EFA）核心绩效指标在拉美与非洲的落实情况，以古巴达成全部指标而结构调整受援国指标落后为证据，揭示外来市场化规训在提升教育绩效上的实质困境。
+> - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 比较[[Education for All|全民教育]]（[[Exploratory Factor Analysis|EFA]]）核心绩效指标在拉美与非洲的落实情况，以古巴达成全部指标而[[Structural Adjustment Programs|结构调整]]受援国指标落后为证据，揭示外来市场化[[Disciplina and Doctrina|规训]]在提升教育绩效上的实质困境。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 运用[[Façade of Rationality|理性表象]]与数字叙事理论，剖析国际组织如何将绩效指标工具化为[[Policy Brokerage|政策中介]]武器以施展[[Soft Power|软权力]]。
 
 ---

@@ -6,7 +6,7 @@ summary: "古希腊哲学家，西方批判性思维与省察生活的最高人�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -48,6 +48,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Plato]]"
+  - "[[Xenophon]]"
   - "[[Confucius]]"
 related_facts: []
 related_arguments:
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-09-24
+updated: 2026-10-01
 ---
 
 # Socrates
@@ -67,7 +68,7 @@ updated: 2026-09-24
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 苏格拉底（Socrates，约 470–399 BCE）是古希腊古典时期的雅典哲学家，一生不立文字，其思想与言行完全通过学生[[Plato|柏拉图]]的《对话录》以及色诺芬（Xenophon）等人的记述得以长存流传[[Argument_Li_2012_Cambridge|(Li, 2012, p. 27 脚注 1)]]。
+> - **身份位置** 苏格拉底（Socrates，约 470–399 BCE）是古希腊古典时期的雅典哲学家，一生不立文字，其思想与言行完全通过学生[[Plato|柏拉图]]的《对话录》以及[[Xenophon|色诺芬]]（Xenophon）等人的记述得以长存流传[[Argument_Li_2012_Cambridge|(Li, 2012, p. 27 脚注 1)]]。
 > - **核心角色** 苏格拉底被视为西方学习传统中“未经[[Examined Life|省察的生活]]”与“心智及其奇迹（[[Mind and Its Wonders]]）”两大支柱的最崇高人格[[Avatar|化身]]。他既是“叮咬雅典怠惰骏马的牛虻”，又是“执行审慎评判与明智评估的西方[[Sage|圣人]]”，是西方[[Critical Thinking|批判性思维]]无可争议的文化化身[[Argument_Li_2012_Cambridge|(Li, 2012, p. 33)]]。
 > - **代表贡献** 创立苏格拉底式反诘法（[[Socratic Elenchus|Elenchus]]）与精神[[Socratic Dialogue|助产术]]（Maieutics）；确立“[[Examined Life|未经省察的生活不值得过]]”这一哲学反思基石；在[[Meno|《美诺篇》]]中通过童奴几何演示创立知识即回忆说（Theory of Recollection），开启了西方启发式提问教学与先天心智传统。
 
@@ -173,7 +174,7 @@ updated: 2026-09-24
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **学生／思想记录者** [[Plato|柏拉图]]、色诺芬（Xenophon） — 柏拉图通过对话录将其塑造为西方哲学探究的永恒主角；色诺芬通过《回忆苏格拉底》记录其日常道德生活。
+> - **学生／思想记录者** [[Plato|柏拉图]]、[[Xenophon|色诺芬]]（Xenophon） — 柏拉图通过对话录将其塑造为西方哲学探究的永恒主角；色诺芬通过《回忆苏格拉底》记录其日常道德生活。
 > - **批评者／控告者** 雅典法庭（主诉人美勒托、政客阿纽图斯、修辞家吕康） — 指控其败坏青年与不敬城邦之神，最终将其处死。
 > - **当代[[Epistemology|认识论]]重构者** 纳伊姆（Naeem） — 在[[Virtue Epistemology|德性认识论]]中指出苏格拉底几何对话的收敛性预设对学习者思想作者权的剥夺，提出心理治疗对话转向。
 > - **跨文化镜像参照** [[Confucius|孔子]] — 两人均不立文字、均由弟子整理语录，但一人向外追问客观真知与概念定义，一人向内修己安人与践行伦理仁义[[Argument_Li_2012_Cambridge|(Li, 2012, p. 164)]]。

@@ -8,7 +8,7 @@ summary: "巴西著名教育家、哲学家，批判教育学奠基人，以《�
 type: person
 nationality: brazil
 person_region: "brazil"
-person_related_count: 42
+person_related_count: 43
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -59,6 +59,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Henry Giroux]]"
   - "[[Michael W. Apple]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Martin Carnoy]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Paulo Freire
@@ -128,7 +129,7 @@ updated: 2026-09-29
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论建构路径** 开创并奠定了[[Critical Pedagogy|批判教育学]]（Critical Pedagogy）学派，深刻启发了亨利·吉鲁（Henry Giroux）、[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）与彼得·麦克拉伦（Peter McLaren）等当代课程论学者，确立了学校作为文化政治[[Champ|场域]]的分析[[Paradigm|范式]]。
+> - **理论建构路径** 开创并奠定了[[Critical Pedagogy|批判教育学]]（Critical Pedagogy）学派，深刻启发了[[Henry Giroux|亨利·吉鲁]]（Henry Giroux）、[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）与彼得·麦克拉伦（Peter McLaren）等当代课程论学者，确立了学校作为文化政治[[Champ|场域]]的分析[[Paradigm|范式]]。
 > - **比较教育政治社会学与国家理论路径** 弗莱雷关于“公共教育作为竞争性争夺场域”和“[[Politicity of Education|教育的政治性]]”论断，为[[Carlos Alberto Torres|托雷斯]]（Torres）、[[Martin Carnoy|卡诺伊]]（Carnoy）与[[Liliana Esther Olmos|奥尔莫斯]]（Olmos）等比较学者提供了批判[[Ontology|本体论]]，直接启发了将[[Dependency Theory|依附理论]]、[[State Corporatism|国家法团主义]]与教育[[Compensatory Legitimation|补偿性合法化]]相融合的比较教育国家理论。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 77–78)]]
 > - **[[Geopolitics of Knowledge|知识地缘政治]]与去殖民路径** 其[[Banking Model of Education|储蓄式教育]]批判模型被广泛应用于[[Geopolitics of Knowledge|知识地缘政治]]（GPK）与比较教育研究中，作为揭示殖民教育、[[Forced Knowledge Transfer|强制知识转移]]及全球北方政策霸权的批判利器。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 75–76)]]
 > - **数智技术反思与认识正义路径** 进入 2020 年代[[Generative Artificial Intelligence|生成式人工智能]]时期，其解放对话与去权威化思想被教育哲学家重新激活，用于诊断大模型代写引发的数字储蓄式教育异化与[[Formative Epistemic Injustice|成长性认识不正义]]，为构建抗衡[[Cognitive Deskilling|认知去技能化]]的防御性教学法提供哲学基石。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]

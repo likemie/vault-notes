@@ -9,7 +9,7 @@ aliases:
 summary: "指培养学生理解气候变化、生物多样性丧失与生态系统复杂性，掌握跨学科系统思维与绿色技能，并能在生活和职业中采取可持续行动的教育模式与综合素养"
 type: concept
 domain: "curriculum"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
   - theme/sustainability
   - theme/environmental-education
 related_concepts:
+  - "[[Development Education]]"
   - "[[Paradigm]]"
   - "[[Big Ideas]]"
 related_arguments:
@@ -28,7 +29,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-09-17
+updated: 2026-10-01
 ---
 
 # Sustainability Education
@@ -38,7 +39,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 可持续发展教育是指面向 21 世纪全球气候变化、生物多样性丧失与资源环境承载力危机，培养个体掌握生态科学与复杂系统运行规律、具备跨学科批判性审思与绿色技能（Green Skills），并在日常生活、公民参与及职业实践中能够采取负责任行动的综合教育[[Paradigm\|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]
+> 可持续[[Development Education|发展教育]]是指面向 21 世纪全球气候变化、生物多样性丧失与资源环境承载力危机，培养个体掌握生态科学与复杂系统运行规律、具备跨学科批判性审思与绿色技能（Green Skills），并在日常生活、公民参与及职业实践中能够采取负责任行动的综合教育[[Paradigm\|范式]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于单一学科内的片段化环保知识点灌输，强调将生态环境议题置于自然科学、经济社会、地缘政治与伦理价值的多维交汇点上。
@@ -49,7 +50,7 @@ updated: 2026-09-17
 
 ## 核心要素
 
-> [!feature] 可持续发展教育的三大支柱
+> [!feature] 可持续[[Development Education|发展教育]]的三大支柱
 > - **全校协同模式（Whole-School Approach）** 将校园空间环境运营（节能减排、生态校园）、跨学科课程探究与社区公共行动有机统筹，营造沉浸式育人生态。
 > - **跨学科系统思维（Multidisciplinary Systems Thinking）** 打破物理、化学、生物与地理分科壁垒，理解碳循环、能源流动与全球气候模型的非线性反馈机制。
 > - **绿色技能储备（Green Skills Pipeline）** 传授可再生能源技术原理、循环经济设计、生态监测等未来绿色产业转型亟需的核心技能。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]
@@ -93,4 +94,4 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] — 系统阐述可持续发展教育在基础科学教育中的战略地位，呼吁全校协同推进绿色技能与生态素养培养。
+> - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] — 系统阐述可持续[[Development Education|发展教育]]在基础科学教育中的战略地位，呼吁全校协同推进绿色技能与生态素养培养。

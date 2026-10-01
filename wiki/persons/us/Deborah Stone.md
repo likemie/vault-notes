@@ -7,7 +7,7 @@ summary: "美国著名政策学者，布兰代斯大学公共政策荣休教授�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ tags:
   - constructivism
 related_concepts:
   - "[[Policy Science in Comparative Education]]"
+  - "[[Interpretivism]]"
   - "[[Technical Rationality]]"
   - "[[Problem Finding]]"
   - "[[Constructivist Paradigm]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Deborah Stone
@@ -59,7 +60,7 @@ updated: 2026-09-29
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代著名政治学者、[[Policy Science in Comparative Education|政策科学]]家与社会学家，布兰代斯大学（Brandeis University）海勒社会政策与管理学院荣休教授，美国文理科学院院士。
-> - **核心角色** 解释主义政策分析（Interpretive Policy Analysis）与政策修辞学派的领军学者。其里程碑著作《政策悖论》（*Policy Paradox*）奠定了对传统经济学理性选择与[[Technical Rationality|技术理性]]工程模型的系统批判，提出了“政治城邦”（Polis）分析模型，开创了关于“[[Problem Finding|问题界定]]作为战略性表征”（Strategic Representation）与“因果故事叙事”（Causal Stories）的[[Constructivist Paradigm|建构主义]]理论传统。
+> - **核心角色** [[Interpretivism|解释主义]]政策分析（Interpretive Policy Analysis）与政策修辞学派的领军学者。其里程碑著作《政策悖论》（*Policy Paradox*）奠定了对传统经济学理性选择与[[Technical Rationality|技术理性]]工程模型的系统批判，提出了“政治城邦”（Polis）分析模型，开创了关于“[[Problem Finding|问题界定]]作为战略性表征”（Strategic Representation）与“因果故事叙事”（Causal Stories）的[[Constructivist Paradigm|建构主义]]理论传统。
 > - **代表贡献** 出版经典著作《政策悖论：政治决策的艺术》（*Policy Paradox: The Art of Political Decision Making*）；系统阐发公共政策中的因果故事叙事理论；揭示统计指标与量化数据的政治象征功能。
 
 > [!citation-card] 斯通关于问题界定与因果故事叙事的权威定性
@@ -109,7 +110,7 @@ updated: 2026-09-29
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 确立了解释主义政策分析的学科合法性，将后现代哲学、政治修辞学与[[Constructivist Paradigm|社会建构主义]]注入传统的实证政策分析，与哈罗德·拉斯韦尔的民主[[Policy Science in Comparative Education|政策科学]]构成了深刻的辩证对话。
+> - **理论路径** 确立了[[Interpretivism|解释主义]]政策分析的学科合法性，将后现代哲学、政治修辞学与[[Constructivist Paradigm|社会建构主义]]注入传统的实证政策分析，与哈罗德·拉斯韦尔的民主[[Policy Science in Comparative Education|政策科学]]构成了深刻的辩证对话。
 > - **方法路径** 推动了政策[[Discourse Analysis|话语分析]]（Policy Discourse Analysis）、叙事政策框架（NPF）以及质性框架分析的发展，为解构政策报告中的数据修辞提供了锐利的方法论手术刀。
 > - **教育政策应用** 深刻启发了当代教育循证政策的批判性研究。麦克唐纳与韦瑟福德借助斯通的[[Problem Finding|问题界定]]理论，揭示出全美课程改革倡导者如何巧妙动员统考数据反差与跨国测评落后指标，编织出一套将“各州分权标准”等同于“危害国家经济安全与教育诚信”的因果危机故事。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–11)]]
 

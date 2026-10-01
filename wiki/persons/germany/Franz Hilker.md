@@ -9,10 +9,10 @@ summary: "德国比较教育学家与国际教育交流专家，黑森州教育�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1881"
 died: "1969"
 lifespan: "1881–1969"
@@ -38,6 +38,7 @@ related_concepts:
 related_theories:
   - "[[Theories of the Driving Forces]]"
 related_methods:
+  - "[[Bereday's Comparative Method]]"
   - "[[Analytic Framework]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Franz Hilker
@@ -65,7 +66,7 @@ updated: 2026-09-29
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国著名比较教育学家、教育管理与[[International Education|国际教育]]交流专家，黑森州教育部资深督学，波恩联邦教育工作中心（Pädagogische Arbeitsstelle）首任主任，[[UNESCO|联合国教科文组织]]（UNESCO）汉堡教育研究所主要倡建者之一。
-> - **核心角色** 战后西德比较教育学的学科奠基人之一。[[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter）指出，在德国大学正式广泛创设计算教席之前，西德第一时期的比较教育主要由[[Friedrich Schneider|弗里德里希·施奈德]]（Friedrich Schneider）与弗朗茨·希尔克的个人开拓性专著奠定基石。希尔克不仅在体制上推动了战后德国与国际教育体系的[[Document|文献]]重建与信息交换，更在方法论上首次系统提炼出比较教育学的**“四步比较法”**。
+> - **核心角色** 战后西德比较教育学的学科奠基人之一。[[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter）指出，在德国大学正式广泛创设计算教席之前，西德第一时期的比较教育主要由[[Friedrich Schneider|弗里德里希·施奈德]]（Friedrich Schneider）与弗朗茨·希尔克的个人开拓性专著奠定基石。希尔克不仅在体制上推动了战后德国与国际教育体系的[[Document|文献]]重建与信息交换，更在方法论上首次系统提炼出比较教育学的**“[[Bereday's Comparative Method|四步比较法]]”**。
 > - **代表贡献**
 >   - **创立“四步比较方法论”** 系统提出比较研究遵循“描述（Beschreibung）➔ 解释（Interpretation）➔ 并置（Nebeneinanderstellung）➔ 比较（Vergleich）”四个严格递进的科学认知阶梯，该框架后被贝雷迪（[[George Bereday]]）借鉴并普及为西方比较教育学界最经典的通用[[Paradigm|范式]]。
 >   - **出版学科奠基专著** 1962 年出版《比较教育学：历史、理论与实践导论》（*Vergleichende Pädagogik: Eine Einführung in ihre Geschichte, Theorie und [[Praxis]]*），成为战后欧陆比较教育学史的权威经典。
@@ -92,7 +93,7 @@ updated: 2026-09-29
 > - **1945–1947** 战后作为资深[[Democratic Education|民主教育]]专家重返公职，出任黑森州教育部顾问，投身西德教育体系的去纳粹化与民主重建。
 > - **1947** 在威斯巴登创立“教育工作中心”（Pädagogische Arbeitsstelle，后迁至波恩），系统搜集与整理外国教育法律、统计与改革文献，为战后西德教育决策提供第一手比较参考。
 > - **1951–1952** 深度参与[[UNESCO|联合国教科文组织]]在汉堡设立教育研究所的筹备工作，积极搭建战后西德与欧洲同行之间的学术合作通道。
-> - **1962** 出版总结性理论专著《比较教育学：历史、理论与实践导论》（*Vergleichende Pädagogik*），系统阐明四步比较法与学科历史演进，奠定其在国际比较教育学史上的经典地位。
+> - **1962** 出版总结性理论专著《比较教育学：历史、理论与实践导论》（*Vergleichende Pädagogik*），系统阐明[[Bereday's Comparative Method|四步比较法]]与学科历史演进，奠定其在国际比较教育学史上的经典地位。
 > - **1969** 逝世于西德波恩。
 
 ---
@@ -127,7 +128,7 @@ updated: 2026-09-29
 >    在并置基础上展开纵深交叉对质与综合分析，揭示制度要素背后的文化动力学规律与因果关联，提炼普遍趋势并为教育决策提供审慎的政策镜鉴。
 
 > [!concept-lens] 希尔克与贝雷迪比较步骤之传承
-> 希尔克的四步法深刻启迪了 1960 年代北美比较教育的方法论建构。[[George Bereday|乔治·贝雷迪]]（[[George Bereday]]）在其 1964 年经典名著《教育中的比较方法》（*Comparative Method in Education*）中直接吸收了希尔克的四阶段框架，将其概念化为“描述（Description）、解释（Interpretation）、并置（Juxtaposition）、同时比较（Simultaneous Comparison）”，从而成为 20 世纪下半叶全球比较教育方法论课程的经典教学[[Paradigm|范式]]。
+> 希尔克的四步法深刻启迪了 1960 年代北美比较教育的方法论建构。[[George Bereday|乔治·贝雷迪]]（[[George Bereday]]）在其 1964 年经典名著《教育中的比较方法》（*[[Bereday's Comparative Method|Comparative Method in Education]]*）中直接吸收了希尔克的四阶段框架，将其概念化为“描述（Description）、解释（Interpretation）、并置（Juxtaposition）、同时比较（Simultaneous Comparison）”，从而成为 20 世纪下半叶全球比较教育方法论课程的经典教学[[Paradigm|范式]]。
 
 > [!citation-card] 比较教育学学科定名与教育实践艺术属性
 > 希尔克论证指出，早期的跨国教育探究本质上属于教学与学习的实践艺术；德语学术界围绕该领域的学科定位展开了深刻辨析，即究竟应当定名为聚焦实践[[Bildung|教化]]与价值规范的“比较教育学”（*Vergleichende Pädagogik*），还是偏向实证与社会科学分析的“比较教育科学”（*Vergleichende Erziehungswissenschaft*）。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 121–122)]]
@@ -185,7 +186,7 @@ updated: 2026-09-29
 > > - **实证科学派学者** 批评传统 *Pädagogik* 具有过强的哲学唯心色彩与规范前设，主张将教育学改造为经验分析性的现代社会科学。
 >
 > > [!axis] 四步阶梯分析法的线性简化倾向
-> > 战后批判[[Paradigm|范式]]与后现代学者对四步比较法的反思。
+> > 战后批判[[Paradigm|范式]]与后现代学者对[[Bereday's Comparative Method|四步比较法]]的反思。
 > >
 > > - **后实证与批判学者** 批评“描述-解释-并置-比较”的线性步骤预设了客观中立的研究者立场和普遍可比性，在面对非西方语境与复杂权力网络时，容易忽视概念转移中的去脉络化与话语霸权。
 

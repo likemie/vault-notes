@@ -7,7 +7,7 @@ summary: "英国伦敦大学学院教育学院（UCL Institute of Education, UCL
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -46,6 +46,7 @@ related_methods:
 related_facts:
   - "[[EPPI-Centre]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
+  - "[[Education in Europe]]"
   - "[[What Works Network]]"
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-14
+updated: 2026-10-01
 ---
 
 # David Gough
@@ -84,7 +85,7 @@ updated: 2026-09-14
 > [!timeline] 生平与职涯
 > - **1990s** 加入伦敦大学教育学院（现 UCL IOE）社会科学研究部，长期领导社会科学与教育领域的[[Systematic Review\|系统综述]]方法学创新，出任 [[EPPI-Centre]] 主任。
 > - **2007** 提出奠基性的证据权重（[[Weight of Evidence Framework\|Weight of Evidence]]）多维评价框架，打破单纯依赖单一研究设计等级的狭隘[[Positivism\|实证主义]]评价模式。
-> - **2010–2013** 领衔主持欧盟委员会资助的欧洲教育证据知情政策与实践网络（Evidence Informed Policy and Practice in Education in Europe, [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]），系统调研欧洲各国教育证据利用生态与体制障壁。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, pp. 67–68)]]
+> - **2010–2013** 领衔主持欧盟委员会资助的欧洲教育证据知情政策与实践网络（Evidence Informed Policy and Practice in [[Education in Europe]], [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]），系统调研欧洲各国教育证据利用生态与体制障壁。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, pp. 67–68)]]
 > - **2016** 与 Laurenz Langer 及 Janice Tripney 合作出版里程碑式专著《[[Research Utilization\|研究使用]]之科学》（The Science of Using Science），系统梳理促进决策者运用证据的因果机制。
 > - **2018–2022** 深入考察英国有效性中心（[[What Works Network\|What Works Centres]], WWCs）与国际网络证据门户，系统阐发[[Educational Brokerage Agency\|知识中介机构]]的[[Evidence Standards\|证据标准]]、[[Theory of Change\|变革理论]]与生态系统整合路径。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 147–150)]]
 
@@ -98,7 +99,7 @@ updated: 2026-09-14
 >   - **关键概念／方法** [[Systematic Review]]、证据权重（Weight of Evidence）、方法适应性（[[Fitness for Purpose]]）。
 >   - **阶段转向** 从传统经验性[[Literature Review\|文献综述]]转向程序透明、标准严格的证据综合方法论，强调研究质量（[[Trustworthiness]]）与研究相关性（Relevance）的双重权衡。
 > - **2010s — 从单向中介到生态系统[[Analytic Framework\|分析框架]]的跃升** 领衔开展 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国研究，反思知识单向推送的局限性，提出嵌套于广义政治制度大系统之内的证据生态模型。
->   - **代表著作** *Evidence Informed Policy in Education in Europe: EIPEE Final Project Report* (et al., 2011)；*The Science of Using Science* (with Langer & Tripney, 2016)；*Clarifying differences between reviews within [[Evidence Ecosystem\|evidence ecosystems]]* (with Thomas & Oliver, 2019)。
+>   - **代表著作** *Evidence Informed Policy in [[Education in Europe]]: EIPEE Final Project Report* (et al., 2011)；*The Science of Using Science* (with Langer & Tripney, 2016)；*Clarifying differences between reviews within [[Evidence Ecosystem\|evidence ecosystems]]* (with Thomas & Oliver, 2019)。
 >   - **关键概念／方法** [[Evidence Ecosystem]]、[[Educational Brokerage Agency\|知识中介机构]]（Knowledge Brokerage Intermediary, KBI）、行为改变机制。
 >   - **阶段转向** 彻底摒弃由研究端向应用端单向线性的推力构想，在构图中将研究生产置于右侧、需求与决策置于左侧，凸显需求牵引与多主体动态反馈。
 > - **2020s — 中介机构的元治理与自我循证标准确立** 聚焦知识中介机构自身运作的科学性与正当性，全面检视有效性中心与网络门户的[[Evidence Standards\|证据标准]]、因果变革链条与系统整合困境。

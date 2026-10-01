@@ -9,7 +9,7 @@ aliases:
 summary: "指教师在宏观课程框架指引下，对教学法选择、探究实验设计、本土化课程开发与评价方式拥有充分的专业决策权与自主行动空间，并在政策博弈中具备批判性审议与多阵线民主行动能力"
 type: concept
 domain: "teacher-education"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -51,11 +51,12 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Systematic Review]]"
 related_persons:
+  - "[[Henry Giroux]]"
   - "[[Paulo Freire]]"
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-09-24
+updated: 2026-10-01
 ---
 
 # Teacher Professional Agency
@@ -180,7 +181,7 @@ updated: 2026-09-24
 ## 概念演变
 
 > [!dev-timeline] 教师专业能动性的理论演进脉络
-> - **1980s — [[Critical Pedagogy|批判教育学]]倡导教师作为“转化型知识分子”** 亨利·吉鲁（Henry Giroux）与[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）提出教师不应沦为流水线技工，而应作为具有批判意识的知识分子行使反思能动性。
+> - **1980s — [[Critical Pedagogy|批判教育学]]倡导教师作为“转化型知识分子”** [[Henry Giroux|亨利·吉鲁]]（Henry Giroux）与[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）提出教师不应沦为流水线技工，而应作为具有批判意识的知识分子行使反思能动性。
 > - **1998 — 十万名教师联合抗议与立法失语** 面对美国《[[Reading Excellence Act|卓越阅读法案]]》草案推行单一拼读规约，全美逾十万名教育工作者向国会寄送信件请愿，标志着教师群体为捍卫科研与教学自主权发起的大规模集体发声。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 6)]]
 > - **2005 — [[Critical Pluralism|批判性多元主义]]框架确立多阵线能动性模型** 埃德蒙森（Edmondson）将[[Critical Theory|批判理论]]引入教育政策，系统阐明教师专业能动性在学区抵制、社会公众结盟及反垄断伦理维度的具体行动机制。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–14)]]
 > - **2015 — 教师能动性的生态学取向奠基** 马克·普里斯特利（Mark Priestley）等出版《教师能动性：一种生态学取向》（*Teacher Agency: An Ecological Approach*），强调能动性不是教师个体内在拥有的属性，而是个体在特定情境与结构生态中达成的行动状态。

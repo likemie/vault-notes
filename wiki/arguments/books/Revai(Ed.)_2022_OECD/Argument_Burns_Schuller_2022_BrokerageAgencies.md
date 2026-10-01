@@ -7,7 +7,7 @@ title: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_key: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_display_title: "History and evolution of brokerage agencies in education"
 argument_kind: "book-chapter"
-argument_related_count: 91
+argument_related_count: 92
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -116,6 +116,7 @@ related_facts:
   - "[[Kennisrotonde]]"
   - "[[Education Media Centre]]"
   - "[[Centre for the Use of Research and Evidence in Education]]"
+  - "[[Education in Europe]]"
   - "[[Sutton Trust]]"
   - "[[Pupil Premium]]"
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -276,7 +277,7 @@ updated: 2026-09-24
 >
 > - **2010–2011 年 — 欧洲协作网络的实践维度扩充**
 >
->   欧洲联盟委员会最初资助的欧洲教育循证政策项目（Evidence Informed Policy in Education in Europe, EIPEE 2010–2011）完全针对政策制定；直到 2011 年正式扩充为涵盖实践维度的欧洲教育证据知情政策与实践网络（Evidence Informed Policy and Practice in Education in Europe, [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]），明确将教师实践确立为不可或缺的核心支柱。（Gough et al., 2011; pp. 57–58）
+>   欧洲联盟委员会最初资助的欧洲教育循证政策项目（Evidence Informed Policy in Education in Europe, EIPEE 2010–2011）完全针对政策制定；直到 2011 年正式扩充为涵盖实践维度的欧洲教育证据知情政策与实践网络（Evidence Informed Policy and Practice in [[Education in Europe]], [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]），明确将教师实践确立为不可或缺的核心支柱。（Gough et al., 2011; pp. 57–58）
 >
 > - **2011 年起 — 实践工具包的大范围普及与下沉**
 >

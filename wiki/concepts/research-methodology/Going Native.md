@@ -2,11 +2,11 @@
 title: Going Native
 aliases:
   - 本土化
-  - going native
+  - 参与观察本土化
 summary: "参与式观察中研究者过度认同被研究群体、将群体价值观和规范当作自己的、丧失研究者客观性和批判距离的现象，是完全参与角色的核心风险"
 type: concept
 domain: "research-methodology"
-related_count: 5
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,14 +17,17 @@ tags:
 related_concepts:
   - "[[Emic and Etic]]"
   - "[[Covert Research]]"
+  - "[[Epistemology]]"
 related_methods:
   - "[[Participant Observation]]"
+  - "[[Fieldwork]]"
   - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
+  - "[[Argument_Rust_2009_Reflections]]"
 status: draft
 created: 2026-07-24
-updated: 2026-09-17
+updated: 2026-10-01
 ---
 
 # Going Native
@@ -58,10 +61,12 @@ updated: 2026-09-17
 > [!tension] 参与 vs 脱离的两难
 > - **参与的必要性** 参与式观察要求研究者成为共情的、同情的群体成员，以获取内部人的行为和活动（Simpson & Tuson, 2003, p. 14）。Merriam（1998, p. 103）认为参与式观察者在某种程度上是精神分裂的——必须在吸收情境的参与和足以分析和观察情境的脱离之间取得平衡。参与越深，资料越丰富。
 > - **脱离的必要性** Hammersley & Atkinson（1983, pp. 93–95）指出比较性的脱离（观察者即参与者、完全观察者）以客观性和距离为关键特征。完全参与者的本土化风险意味着研究者可能失去视角，对他们本应研究的特殊性变得视而不见。两者都最小化反应性，但完全参与者面临本土化，完全观察者面临推断危险。
+> - **跨文化与比较教育研究中的双重张力** 在比较教育学与跨国[[Fieldwork|田野研究]]中，研究者不仅面临方法论上的“参与 vs. 脱离”，还深刻卷入文化认同与伦理边界的博弈。如 [[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 129)]] 所指出，学者在异域教育场景开展长期田野浸润时，面临既要深度融入当地文化以破除欧洲中心主义偏见，又要防止过度“本土化”（Going Native）而丧失跨国横向比较的批判反思视角的双重[[Epistemology|认识论]]挑战。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al. (2011, Ch. 23)]] — 将本土化列为完全参与者角色的核心风险（Kawulich, 2005, p. 4），与完全观察者的推断危险构成[[Participant Observation\|参与观察]]的两极困境（23.6 节）
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23)]] — 将本土化列为完全参与者角色的核心风险（Kawulich, 2005, p. 4），与完全观察者的推断危险构成[[Participant Observation|参与观察]]的两极困境（23.6 节）
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 探讨比较教育[[Fieldwork|田野调查]]中研究者融入异质文化情境与保持批判反思距离之间的伦理与[[Epistemology|认识论]]张力（p. 129）

@@ -8,7 +8,7 @@ summary: "由 Gough（2007）提出的系统综述证据评价方法，通过方
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 37
+method_related_count: 38
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Epistemic Stances]]"
   - "[[Postpositivism]]"
+  - "[[Interpretivism]]"
   - "[[Reliability]]"
   - "[[Document]]"
   - "[[Evaluation Research]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-14'
-updated: 2026-09-17
+updated: 2026-10-01
 ---
 
 # Weight of Evidence Framework
@@ -93,7 +94,7 @@ updated: 2026-09-17
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** WoE 框架采取方法适切性（[[Fitness for Purpose]]）的[[Pragmatic Paradigm\|实用主义]][[Epistemic Stances\|认识论立场]]，反对将[[Randomised Controlled Trials\|随机对照试验]]等特定研究设计奉为普遍最高标准的教条主义。在因果效力评估上认可[[Postpositivism\|后实证主义]]标准；在机制解释与情境意义研究上同样认可解释主义和[[Critical Realism\|批判实在论]]的知识贡献。评价标准随综述问题性质而灵活调整。
+> - **知识观** WoE 框架采取方法适切性（[[Fitness for Purpose]]）的[[Pragmatic Paradigm\|实用主义]][[Epistemic Stances\|认识论立场]]，反对将[[Randomised Controlled Trials\|随机对照试验]]等特定研究设计奉为普遍最高标准的教条主义。在因果效力评估上认可[[Postpositivism\|后实证主义]]标准；在机制解释与情境意义研究上同样认可[[Interpretivism|解释主义]]和[[Critical Realism\|批判实在论]]的知识贡献。评价标准随综述问题性质而灵活调整。
 > - **研究者角色** 至少两名独立审阅者在每个维度上分别评分并协商一致，体现了批判性证据审查员的角色定位。框架要求评价者明确说明裁决依据，使裁决过程具备可审计性与可问责性。
 > - **有效性标准** 评价者间[[Reliability\|信度]]（[[Inter-Rater Reliability]]）是关键质量指标；透明报告每个维度的评分依据与协商过程；综合权重的逻辑一致性与可审计性。
 > - **不声称回答的问题** WoE 框架评价的是研究对综述问题的证据贡献，不直接替代实质性数据综合；不能独立生成综述结论，须与主题综合、[[Framework Synthesis\|框架综合]]或[[Meta-analysis\|元分析]]等综合技术配合使用。

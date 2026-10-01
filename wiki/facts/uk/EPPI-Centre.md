@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 38
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -58,6 +58,7 @@ related_persons:
   - "[[David Gough]]"
 related_facts:
   - "[[OECD]]"
+  - "[[Education in Europe]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[What Works Clearinghouse]]"
   - "[[Campbell Collaboration]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-09-27
+updated: 2026-10-01
 ---
 
 # EPPI-Centre
@@ -86,7 +87,7 @@ updated: 2026-09-27
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1995 年由安·奥克利（Ann Oakley）等学者依托 UCL 教育学院社会科学研究部（Social Science Research Unit, SSRU）创建，初期以循证医学为蓝本开展卫生保健综述，随后迅速拓展至初等与中等教育、社会照护、就业及国际发展等广阔领域([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 33]])。
-> - **总部地点 / 业务辐射** 英国伦敦；业务深度融入英国中央政府、地方教育当局，并作为欧洲教育证据知情政策与实践网络（Evidence Informed Policy and Practice in Education in Europe, [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]）的核心发起方与协调枢纽辐射全球。
+> - **总部地点 / 业务辐射** 英国伦敦；业务深度融入英国中央政府、地方教育当局，并作为欧洲教育证据知情政策与实践网络（Evidence Informed Policy and Practice in [[Education in Europe]], [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]）的核心发起方与协调枢纽辐射全球。
 > - **法人属性与经费依托** 依托顶尖大学学术机构设立的非营利专业研究中心；经费采取“政府经常性专项合同 $+$ 国家科研理事会（如 ESRC）竞争性课题 $+$ 国际组织委托（WHO、OECD） $+$ 软件商业授权许可”的多元混合资助模式，成功规避了单一政府部门换届撤资的致命脆弱性([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])。
 > - **核心宗旨与法定职责** 研制适应复杂社会系统的系统综述新方法，生产高严谨性跨领域实证证据综合成果，为政策制定者、专业实践者与公众提供[[Research Utilization\|证据使用]]指南，深入探究证据进入政策与基层决策的互动机制。
 

@@ -5,7 +5,7 @@ aliases:
 summary: "以法兰克福学派与哈贝马斯认识兴趣论为基础的规范性社会理论，主张知识与政策均具利益构成性，致力于通过意识形态批判揭示支配结构，推动实践解放与实质民主"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 42
+theory_related_count: 44
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -33,9 +33,11 @@ related_concepts:
   - "[[Policy Science in Comparative Education]]"
   - "[[Research Question]]"
   - "[[Critical Pedagogy]]"
+  - "[[Theoretical Standpoint]]"
 related_theories:
   - "[[Critical Pluralism]]"
   - "[[Hegemony]]"
+  - "[[Pluralism]]"
 related_methods:
   - "[[Ideology Critique]]"
   - "[[Accounts]]"
@@ -63,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-09-30
+updated: 2026-10-01
 ---
 
 # Critical Theory
@@ -101,7 +103,7 @@ updated: 2026-09-30
 > [!dev-timeline] 理论演变历程
 > - **1930s–1940s — 法兰克福学派第一代奠基** 霍克海默、阿多诺、马尔库塞等从西方马克思主义出发，系统剖析启蒙理性的辩证倒退、文化工业对大众意识的操纵，确立意识形态解构与否定辩证法传统。
 > - **1972 — 哈贝马斯确立认识兴趣三分法** 哈贝马斯提出技术兴趣（预测与控制）、实践兴趣（理解与交往）和解放兴趣（反思与解放），奠定了批判理论区分不同[[Scientific Paradigm|科学范式]]与认识论维度的基础分析架构。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 27–31)]]
-> - **1970s — 比较教育学科霸权的瓦解与批判转向** 随着民权运动与社会多元化诉求，新兴的“批判与解释性知识共同体”（Paulston, 1993）对战后长期垄断比较教育学的结构功能主义与现代化理论发起根本性挑战，终结了实证主义单一霸权，将批判理论确立为重塑学科版图与推动理论多元化的 26 种核心范式之一。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 131–132, 136)]]
+> - **1970s — 比较教育学科霸权的瓦解与批判转向** 随着民权运动与社会多元化诉求，新兴的“批判与解释性知识共同体”（Paulston, 1993）对战后长期垄断比较教育学的结构功能主义与现代化理论发起根本性挑战，终结了实证主义单一霸权，将批判理论确立为重塑学科版图与推动理论多元化的 26 种核心[[Paradigm|范式]]之一。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 131–132, 136)]]
 > - **1980s — 教育研究与[[Action Research|行动研究]]的批判转向** 威尔弗雷德·卡尔与[[Stephen Kemmis|斯蒂芬·凯米斯]]（Wilfred Carr & Stephen Kemmis, 1986）出版《成为批判的》（*Becoming Critical*），雪莉·格兰迪（Shirley Grundy, 1987）将认识兴趣论引入课程与教学分析，构建技术性、实践性与[[Emancipatory Action Research|解放性行动研究]]类型学，开启教育批判[[Paradigm|研究范式]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–273)]]
 > - **2005 — 教育政策与立法权力的批判重构** 埃德蒙森（Edmondson）将批判理论扩展至联邦教育政策与科研管辖权分析，揭示法定科学标准背后的政商利益同盟，提出融合统整性研究与多阵线民主行动的[[Critical Pluralism|批判性多元主义]]框架。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 10–14)]]
 > - **2007 — 变革范式与[[Mixed Methods Research|混合方法研究]]统整** 唐娜·默滕斯（Donna Mertens）提出变革范式（[[Transformative Paradigm]]），将批判理论的解放关怀深度融入实证与混合方法研究程序中，赋予量化与质性工具服务弱势群体平权的行动属性。
@@ -120,7 +122,7 @@ updated: 2026-09-30
 > | **实践（[[Praxis]]）** | 行动机制 | 在理论反思指导下指向自由与正义的自觉变革行动。强调反思与行动的有机融合，使专业实践超越纯粹的技术操作。 |
 > | **政策的价值建构属性** | 概念基石 | 指出公共政策并非客观中立的科学工程，而是统治群体关于理想社会秩序的权威宣告，本质是负载利益与价值偏好的社会建构。 |
 > | **[[Critical Pluralism\|批判性多元主义]]** | 制度替代模型 | 埃德蒙森提出的批判性替代框架，要求教育者统整功能、沟通与批判三类研究，在本土拒止、社会结盟与伦理对质中重夺自主权。 |
-> | [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] | 学术史证据 | 论证 1970 年代批判与解释性知识共同体打破比较教育学结构功能主义霸权的历史转向。 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 学术史证据 | 论证 1970 年代批判与解释性知识共同体打破比较教育学结构功能主义霸权的历史转向。 |
 
 > [!mechanism-map]- 机制图：批判理论的解构与解放动力链条
 > ```mermaid
@@ -225,4 +227,4 @@ updated: 2026-09-30
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen, Manion & Morrison (2011, pp. 25–31)]] — 系统阐释批判教育研究的理论框架与应用图景：解构泰勒课程原理的[[Technical Rationality|技术理性]]预设，将课程重读为意识形态选择，阐明[[Participatory Research|参与式研究]]的社区赋权逻辑与女性主义[[Epistemology|认识论]]扩展。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|Cohen, Manion & Morrison (2011, pp. 270–276)]] — 详尽剖析批判理论在方法论层面的操作形态，界定以[[Jürgen Habermas|哈贝马斯]]认识兴趣为指引的[[Emancipatory Action Research|解放性行动研究]]与[[Ideal Speech Situation|理想言说情境]]，反思政治化研究的实践困境。
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 运用批判理论与安妮·施耐德与海伦·英格拉姆的政策价值建构论，深度剖析美国《[[Reading Excellence Act|卓越阅读法案]]》立法背后的政商学铁三角，创立统整三类研究与三维民主阵线的[[Critical Pluralism|批判性多元主义]]框架。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132, 136)]] — 考证比较教育学科演进史，揭示 1970 年代新兴批判知识共同体如何打破战后结构功能主义与现代化理论的单一霸权，确立包括批判理论在内的 26 种核心理论立场共存的理论多元主义。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132, 136)]] — 考证比较教育学科演进史，揭示 1970 年代新兴批判知识共同体如何打破战后结构功能主义与现代化理论的单一霸权，确立包括批判理论在内的 26 种核心[[Theoretical Standpoint|理论立场]]共存的理论[[Pluralism|多元主义]]。

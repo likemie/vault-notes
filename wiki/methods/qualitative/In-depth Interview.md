@@ -7,7 +7,7 @@ summary: "质性访谈中最核心的变体，通过与受访者进行持续深�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 64
+method_related_count: 69
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Interviewer Effects]]"
   - "[[Saturation]]"
   - "[[Informed Consent]]"
+  - "[[Champ]]"
   - "[[Central Question]]"
   - "[[Growth]]"
   - "[[Research Topic]]"
@@ -39,6 +40,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Paradigm]]"
   - "[[Document]]"
+  - "[[Primary and Secondary Documents]]"
   - "[[Space Production]]"
   - "[[Peidu]]"
   - "[[School Choice]]"
@@ -46,6 +48,7 @@ related_concepts:
   - "[[Going Native]]"
   - "[[School Leadership]]"
   - "[[Poor Research Use]]"
+  - "[[Scientific Method]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Quality Use of Research Evidence Framework]]"
@@ -64,12 +67,14 @@ related_methods:
   - "[[Purposeful Sampling]]"
   - "[[Theoretical Sampling]]"
   - "[[Snowball Sampling]]"
-  - "[[Member Checking]]"
   - "[[Progressive Focussing]]"
+  - "[[Member Checking]]"
   - "[[Questionnaire]]"
   - "[[Participant Observation]]"
+  - "[[Correlational Research]]"
   - "[[Focus Group]]"
   - "[[Qualitative Codebook]]"
+  - "[[Fieldwork]]"
 related_persons: []
 related_facts:
   - "[[National Research Council]]"
@@ -89,7 +94,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-30
+updated: 2026-10-01
 ---
 
 # In-depth Interview
@@ -148,17 +153,17 @@ updated: 2026-09-30
 > [!sample-panel] 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
-> | 材料来源 | 访谈录音、逐字转录稿、访谈反思备忘录、现场环境观察笔记与背景档案。 |
+> | 材料来源 | 访谈录音、[[Transcription in Qualitative Research\|逐字转录]]稿、访谈反思备忘录、现场环境观察笔记与背景档案。 |
 > | 抽样或选案 | [[Purposeful Sampling\|目的抽样]]、[[Theoretical Sampling\|理论抽样]]、[[Snowball Sampling\|滚雪球抽样]]、最大变异抽样（注重个案典型性与生活史深度）。 |
 > | 研究者位置 | “同感的理解者”角色；运用[[Epoché\|悬置]]搁置先验偏见；谨慎处理访谈互动中的权力不对称与[[Interviewer Effects\|访谈者效应]]。 |
 > | 资料边界 | 访谈场次与时长、受访者准入标准、以意义穷尽与[[Saturation\|理论饱和]]为终止准则。 |
 
 > [!proc] 深度访谈探究程序与操作规程
 > 1. **前置准备与协议设计** 编制弹性半结构化[[Interview Protocol\|访谈提纲]]，遵循渐进式聚焦原则规划从宽阔背景到核心问题的展开路径。
-> 2. **进入现场与悬置互动** 确立[[Informed Consent\|知情同意]]，营构安全、非评判的倾听场域；研究者运用[[Epoché\|悬置]]搁置理论前见，以共情姿态进入受访者的主观世界。
+> 2. **进入现场与悬置互动** 确立[[Informed Consent\|知情同意]]，营构安全、非评判的倾听[[Champ|场域]]；研究者运用[[Epoché\|悬置]]搁置理论前见，以共情姿态进入受访者的主观世界。
 > 3. **深度追问与动态聚焦** 避免封闭式预设问题，通过“为什么”、“如何发生”、“可否举例”持续深挖行动逻辑，直至能够设身处地理解受访者的选择策略。
-> 4. **资料转录与系统编码** 及时完成全文本[[Transcription in Qualitative Research\|转录]]并记录语气停顿与副语言线索；开展多层级[[Coding in Qualitative Research\|编码]]与核心主题提炼。
-> 5. **反思审计与效度校验** 撰写[[Reflexivity\|反身性]]日志区分受访者主位建构与研究者投射；实施成员检查（[[Member Checking\|成员检查]]）与多源[[Triangulation\|三角互证]]。
+> 4. **资料转录与系统[[Coding in Qualitative Research|编码]]** 及时完成全文本[[Transcription in Qualitative Research\|转录]]并记录语气停顿与副语言线索；开展多层级[[Coding in Qualitative Research\|编码]]与核心主题提炼。
+> 5. **反思审计与效度校验** 撰写[[Reflexivity\|反身性]]日志区分受访者主位建构与研究者投射；实施成员检查（成员检查）与多源[[Triangulation\|三角互证]]。
 
 ### 渐进式聚焦法
 
@@ -235,14 +240,14 @@ updated: 2026-09-30
 > | [[Member Checking]] | 方法 | 人员校验是深度访谈效度保障的核心策略之一。 |
 > | [[Triangulation]] | 方法 | 三角互证弥补单一深度访谈来源的局限。 |
 > | [[Reflexivity]] | 概念 | 反身性记录帮助区分受访者意义与研究者投射。 |
-> | [[Analytic Generalization]] | 概念 | 深度访谈的[[External Validity|可推广性]]是分析性的，将发现推广到理论而非总体。 |
-> | [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] | 证据来源 | 梳理比较教育学科方法史中深度访谈等质性手段突破二手文献垄断的经验转向。 |
+> | [[Analytic Generalization]] | 概念 | 深度访谈的[[External Validity\|可推广性]]是分析性的，将发现推广到理论而非总体。 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 证据来源 | 梳理比较教育学科方法史中深度访谈等质性手段突破[[Primary and Secondary Documents\|二手文献]]垄断的经验转向。 |
 
 ---
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 精英大学学生出路分化，两阶段 62 名毕业生，每次 2.5–3.5 小时，累计 150 万字，通过深度访谈重建学生意义世界。
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 四所 NSW 学校 ToK 课程实施研究，22 次教师访谈（40 分钟/人）、8 组学生[[Focus Group|焦点小组]]。
 > - [[Argument_Cai_Gao_Liu_2025_HE|Cai et al. (2025)]] — [[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]][[Space Production|高等教育空间生产]]，39 名教师（30 名关键节点），四城，2023 年。
@@ -251,4 +256,4 @@ updated: 2026-09-30
 > - [[Argument_Wang_2025_CE|Wang & McLaughlin (2025)]] — 中国学校 [[Learner-Centred Education|LCE]] [[Going Native|本土化]]，4 位校长 9 位教师。
 > - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022b, pp. 182–199)]] — 在[[OECD|经合组织]]（OECD）编著第九章中，对来自澳大利亚 4 个州的 27 场半结构化深度访谈（共 29 名中小学教师与[[School Leadership|学校领导]]者）进行质性调查，借助 NVivo 软件采用 Braun & Clarke 的法典式主题分析（[[Qualitative Codebook|codebook]] Thematic Analysis），深入提炼一线教育工作者对[[Quality Use of Research Evidence Framework|高质量研究使用]]与[[Poor Research Use|劣质研究使用]]的实质性理解与六大核心特征。
 > - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne (2003)]] — 记录美国 2000 年卡斯尔草案（H.R. 4875）试图将深度访谈法案降级为“初步形式”的公案，分析学术共同体如何依托 [[National Research Council|NRC]] 六大原则捍卫质性深入对话在教育探究中的不可替代价值（pp. 33–34）。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理比较教育学术史中深度访谈等常规社会科学方法的引入与激增，标志着学科从早期单一依赖二手文献的历史综述转向鲜活的经验实地调查。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理比较教育学术史中深度访谈等常规社会[[Scientific Method|科学方法]]的引入与激增，标志着学科从早期单一依赖[[Primary and Secondary Documents|二手文献]]的历史综述转向鲜活的经验[[Fieldwork|实地调查]]。

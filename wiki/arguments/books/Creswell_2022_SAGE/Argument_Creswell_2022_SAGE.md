@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 193
+argument_related_count: 194
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -86,6 +86,7 @@ related_concepts:
   - "[[Naturalistic Generalization]]"
   - "[[Self-control]]"
   - "[[Research Purpose]]"
+  - "[[Interpretivism]]"
   - "[[Narrative Thought Types]]"
   - "[[Self-Efficacy]]"
   - "[[Descriptive Research Question]]"
@@ -734,7 +735,7 @@ Rossman & Rallis (2012) 将批判和后现代视角概括为四个相互关联�
 
 不同研究路径的计划结构在这九个问题的共同基础上分化：
 
-- **质性研究计划**（两种格式）：建构主义/解释主义格式按"引言—程序—初步发现—预期影响"组织，附录建议纳入[[Interview Protocol|访谈协议]]、观察表、时间表和预算。参与式/社会正义格式增加了社会正义理论框架和合作性数据收集方式，结尾讨论预期变革。
+- **质性研究计划**（两种格式）：建构主义/[[Interpretivism|解释主义]]格式按"引言—程序—初步发现—预期影响"组织，附录建议纳入[[Interview Protocol|访谈协议]]、观察表、时间表和预算。参与式/社会正义格式增加了社会正义理论框架和合作性数据收集方式，结尾讨论预期变革。
 - **量化研究计划** 遵循 IMRD 经典结构（引言与文献综述—方法—结果—讨论），以问题陈述（含理论、[[Deficiencies in Past Literature|文献缺口]]、受众关联性）为核心。各部分顺序可能因研究而异(Rudestam & Newton, 2014)。
 - **混合方法研究计划**（最全面的格式）：独有要素包括混合方法的定义与使用理由、设计类型及效度挑战、设计流程图、整合声明、[[Joint Display|联合展示]]模板和预期整合推论（metainferences）。研究问题分量化、质性和[[Integration in Mixed Methods|混合方法整合]]三个层次。
 

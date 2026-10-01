@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 124
+argument_related_count: 125
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -67,6 +67,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Evaluation Research]]"
   - "[[Causality]]"
+  - "[[Interpretivism]]"
   - "[[Commensuration]]"
   - "[[Objectivism]]"
   - "[[Subjectivism]]"
@@ -345,7 +346,7 @@ updated: 2026-09-09
 > [!case] 科学革命与范式转换的历史典范
 > - **天文学变革** 托勒密地心说范式维持了上千年，不仅因其能够通过复杂的“本轮-均轮”模型勉强解释观测数据，更因其深度嵌入当时教会与学术权威的权力结构；随着伽利略与开普勒对反常现象的积累，哥白尼日心说范式最终取代旧说，引爆天文学革命。
 > - **物理学演进** 牛顿力学所描绘的机械、确定性宇宙观，在遭遇微观粒子与高速运动的反常数据后，最终被爱因斯坦相对论物理学与量子力学范式所超越。
-> - **社会科学转向** 追求价值中立、绝对客观与普遍通则的实证主义科学观，在教育与社会探究中遭遇人类意识复杂性的严峻挑战，促成了后实证主义、[[Critical Realism\|批判实在论]]与诠释主义范式的兴起。
+> - **社会科学转向** 追求价值中立、绝对客观与普遍通则的实证主义科学观，在教育与社会探究中遭遇人类意识复杂性的严峻挑战，促成了后实证主义、[[Critical Realism\|批判实在论]]与[[Interpretivism|诠释主义]]范式的兴起。
 
 #### 2.3 不可通约性与“范式战争”
 

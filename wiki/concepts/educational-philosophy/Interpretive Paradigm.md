@@ -11,7 +11,7 @@ aliases:
 summary: "与实证主义相对的研究范式，强调从行动者内部视角理解主观意义、生活世界与情境独特性，以归纳、扎根与自然主义方式整体把握人类意向行动。"
 type: concept
 domain: "educational-philosophy"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Going Native]]"
   - "[[Cultural Capital]]"
+  - "[[Interpretivism]]"
   - "[[Causality]]"
   - "[[Ontology]]"
   - "[[Dialogue in Education]]"
@@ -87,7 +88,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-09-17
+updated: 2026-10-01
 ---
 
 # Interpretive Paradigm
@@ -226,7 +227,7 @@ updated: 2026-09-17
 > > - **[[Keith Morrison\|莫里森]]的反思（Morrison, 2009）** 主观认知常常是扭曲的。例如，一名学生可能主观坚信“老师厌恶我”并据此展开对抗，但事实上老师始终对其充满关怀。如果研究者完全被主观感知牵引，将可能得出严重偏离真相的荒谬推论。
 
 > [!critique] 批判索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 26–27)]] — 系统记录微观诠释主义在面对虚假意识、权力不对称与微观封闭时的四重经典困境。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 26–27)]] — 系统记录微观[[Interpretivism|诠释主义]]在面对虚假意识、权力不对称与微观封闭时的四重经典困境。
 > - Bernstein (1974) — 犀利批判微观互动论回避结构强制与制度权力的浪漫主义盲区。
 > - Rex (1974) — 阐明虚假意识概念对纯粹主观定义原则的理论解构。
 > - Morrison (2009) — 剖析主观认知错觉对教育[[Causality\|因果推断]]带来的[[Reliability\|可靠性]]危机。

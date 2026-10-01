@@ -9,7 +9,7 @@ summary: "美国著名比较教育学泰斗，比较与国际教育学会（CIES
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 44
+person_related_count: 45
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Shadow State]]"
   - "[[Popular Education]]"
+  - "[[Development Education]]"
   - "[[Global Citizenship]]"
   - "[[Time-Space Compression]]"
   - "[[Disciplina and Doctrina]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Robert Arnove
@@ -101,7 +102,7 @@ updated: 2026-09-29
 
 > [!timeline] 生平与职涯
 > - **1938** 出生于美国。
-> - **1960–1969** 先后在密歇根大学、塔夫茨大学弗莱彻法律与外交学院及斯坦福大学深造，在斯坦福大学师从[[John W. Meyer|约翰·迈耶]]（John W. Meyer）等学者，获得国际发展教育博士学位。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 102)]]
+> - **1960–1969** 先后在密歇根大学、塔夫茨大学弗莱彻法律与外交学院及斯坦福大学深造，在斯坦福大学师从[[John W. Meyer|约翰·迈耶]]（John W. Meyer）等学者，获得[[Development Education|国际发展教育]]博士学位。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 102)]]
 > - **1960 年代中期** 作为福特基金会教育顾问常驻哥伦比亚，深入参与拉美高等教育与基础教育改革评估，亲身体验到跨国资本援助话语与本土实际需求的严重脱节。
 > - **1969–2000s** 长期任教于印第安纳大学布卢明顿分校教育学院，创立国际与比较教育研究中心，培养了数代具有批判政治经济学视野的比较教育学者。
 > - **1980** 在《比较教育评论》（*Comparative Education Review*）发表纲领性论文《比较教育与世界体系分析》，正式将[[Immanuel Wallerstein|沃勒斯坦]]世界体系分析引入比较教育学；同年出版开创性著作《慈善与文化帝国主义》，揭示大型私人基金会对第三世界智力与教育主权的软性塑造。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 105)]]

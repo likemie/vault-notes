@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ tags:
   - theme/human-capital
 related_concepts:
   - "[[Normal School]]"
+  - "[[Development Education]]"
   - "[[Paradigm]]"
   - "[[Assemblage]]"
   - "[[Critical Thinking Disposition]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-18
+updated: 2026-10-01
 ---
 
 # Mediterranean Regional Project
@@ -83,7 +84,7 @@ updated: 2026-09-18
 > - **项目目标** 为六个试点国制定面向 1975 年的国家宏观教育总体规划，测算达到预定经济增长目标所必需的初等、中等、职业与高等教育入学率指标。
 > - **覆盖对象** 六国中央教育规划小组、国家统计部门技术人员、各级公立教育机构与未来十五年学龄人口。
 > - **干预措施** 由[[OECD\|经合组织]]向六国派驻量化规划专家团队，建立统一的职业分类标准（ISCO）与教育层级对照表，分步实施经济产出分解、生产率外推与教育存量模拟。
-> - **实施控制** 统一采用赫伯特·帕内斯（Herbert Parnes, 1962）编写的《经济与社会发展教育需求预测手册》作为六国通用的标准化方法学指导规程。
+> - **实施控制** 统一采用赫伯特·帕内斯（Herbert Parnes, 1962）编写的《经济与社会[[Development Education|发展教育]]需求预测手册》作为六国通用的标准化方法学指导规程。
 
 > [!citation-card] 地中海区域项目的方法学宗旨与政策雄心
 > 地中海区域项目代表了一种人类历史上前所未有的制度尝试：它不再将教育预算视为社会救济或奢侈消费，而是依据现代经济计量模型，把各级学校系统严密编织进国家工业化腾飞的总体蓝图中；这是西方多边机构将教育政策彻底技术官僚化与投资化的历史起点。Parnes (1962, 转引自 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024, p. 541]])

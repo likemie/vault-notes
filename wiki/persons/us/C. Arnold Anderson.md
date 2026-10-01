@@ -9,7 +9,7 @@ summary: "芝加哥大学教育与社会学教授、比较教育研究中心主�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -25,25 +25,27 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Paradigm]]"
-  - "[[Scientific Paradigm]]"
-  - "[[Positivism]]"
   - "[[Variable]]"
   - "[[Document]]"
+  - "[[Development Education]]"
   - "[[Scientific Method]]"
   - "[[Objectivism]]"
+  - "[[Emergence]]"
+  - "[[Scientific Paradigm]]"
+  - "[[Positivism]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
-  - "[[Historical-Comparative Method]]"
   - "[[Correlational Research]]"
+  - "[[Historical-Comparative Method]]"
 related_persons:
   - "[[Philip Foster]]"
   - "[[Harold Noah]]"
+  - "[[Max Eckstein]]"
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
   - "[[Michael Sadler]]"
   - "[[Andreas Kazamias]]"
-  - "[[Max Eckstein]]"
   - "[[Val D. Rust]]"
 related_facts:
   - "[[Comparative Education Center at Chicago 1958]]"
@@ -56,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # C. Arnold Anderson
@@ -98,7 +100,7 @@ updated: 2026-09-29
 > [!work-line] 代表性著作与论文
 > - **1961 — *Methodology of Comparative Education*** 系统阐明结构功能主义比较方法论，主张以[[Variable|变量]]控制和跨国统计分析替代直觉历史叙事，建立“抽象社会系统模式”。
 > - **1961 — *Education, Society and Economy* (with A. H. Halsey & J. Floud)** 汇集战后教育社会学奠基性[[Document|文献]]的大全，奠定结构功能主义在教育与宏观经济关系研究中的支配地位。
-> - **1965 — *Education and Economic Development* (with M. J. Bowman)** 跨国考察教育投资与经济增长的内在联系，为战后“发展教育”与技术援助项目提供关键理论基石。
+> - **1965 — *Education and Economic Development* (with M. J. Bowman)** 跨国考察教育投资与经济增长的内在联系，为战后“[[Development Education|发展教育]]”与技术援助项目提供关键理论基石。
 > - **1977 — *Comparative Education over a Quarter Century: Maturity and Challenges*** 系统回顾比较教育从历史学派走向成熟[[Scientific Method|经验科学]]的转型历程，坚信实证通则研究的长期价值。
 
 ---
@@ -122,9 +124,9 @@ updated: 2026-09-29
 > [!influence-path] 学术与政策影响
 > - **理论路径** 将结构功能主义与实证社会学[[Paradigm|范式]]深度植入英美比较教育学，彻底瓦解了古典历史学派长达半个世纪的学术垄断。
 > - **方法路径** 倡导大规模跨国抽样、定量统计检验与跨国指标构建，直接启发了后来的[[IEA|国际教育成就评价协会]]（International Association for the Evaluation of Educational Achievement, IEA）等大规模跨国实证调查项目。
-> - **政策路径** 与玛丽·让·鲍曼等人开创的发展教育研究，深度参与战后[[World Bank|世界银行]]（World Bank）与美国国际开发署（United States Agency for International Development, USAID）对第三世界国家的教育扩张与[[Human Capital Theory|人力资本]]规划。
+> - **政策路径** 与玛丽·让·鲍曼等人开创的[[Development Education|发展教育]]研究，深度参与战后[[World Bank|世界银行]]（World Bank）与美国国际开发署（United States Agency for International Development, USAID）对第三世界国家的教育扩张与[[Human Capital Theory|人力资本]]规划。
 
-> [!evidence-grid-a]- 相关研究索引
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 详细评析安德森所代表的芝加哥结构功能主义学派对恒常超越时空规律的追求及其方法论特征。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 论述安德森作为战后早期社会学界代表，在将常规社会科学规范与严谨分析模式引入比较教育学中的奠基性历史地位。
 
@@ -133,7 +135,7 @@ updated: 2026-09-29
 ## 历史评价
 
 > [!citation-card] 拉斯特等评安德森确立比较教育的社会科学学科规范
-> 当然，战后早期也涌现出了一批优秀的比较教育学者，我们可以将他们与社会科学领域中更为传统的学科联系在一起，包括社会学领域的 C·阿诺德·安德森（C. Arnold Anderson）、菲利普·福斯特（Philip Foster），以及经济学领域的哈罗德·诺亚（Harold Noah）。(Rust et al., 2009, p. 123; 见 [[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 123)]])
+> 当然，战后早期也[[Emergence|涌现]]出了一批优秀的比较教育学者，我们可以将他们与社会科学领域中更为传统的学科联系在一起，包括社会学领域的 C·阿诺德·安德森（C. Arnold Anderson）、[[Philip Foster|菲利普·福斯特]]（Philip Foster），以及经济学领域的[[Harold Noah|哈罗德·诺亚]]（Harold Noah）。([[Argument_Rust_2009_Reflections|Rust et al., 2009, p. 123]]; 见 [[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 123)]])
 >
 > *Of course, there were good early comparative education scholars whom we identify with the more conventional disciplines within the social sciences, including C. Arnold Anderson in sociology, Philip Foster, and Harold Noah in economics.*
 
@@ -146,7 +148,7 @@ updated: 2026-09-29
 > - **学术搭档与门生** [[Philip Foster]]（芝加哥中心核心合作者与学生）、玛丽·让·鲍曼（Mary Jean Bowman，经济学与[[Human Capital Theory|人力资本]]研究长期合作者）。
 > - **跨国实证同盟** [[Harold Noah]]、[[Max Eckstein]]。
 > - **论战对手** 传统历史学派代表（[[Isaac Kandel]]、[[Nicholas Hans]]、[[Michael Sadler]]）及主张历史与社会科学综合的学者（[[Andreas Kazamias]]）。
-> - **学科学术史谱系** [[Val D. Rust]]（CIES 后任会长与学术史家，系统反思并评定战后安德森等常规社会科学学者的奠基意义）。
+> - **学科学术史谱系** [[Val D. Rust]]（[[Comparative and International Education Society|CIES]] 后任会长与学术史家，系统反思并评定战后安德森等常规社会科学学者的奠基意义）。
 
 ---
 
@@ -157,7 +159,7 @@ updated: 2026-09-29
 > > [!axis] 普遍规律与历史个殊性的本体冲突
 > > 历史比较学派（如[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]，Andreas Kazamias）尖锐指出，安德森追求“非历时性与超越时间”的普遍法则，实质上是将教育从其深植的民族历史、文化传统与政治斗争中硬性剥离，制造出脱离现实的空洞数学模型与去情境化偏误。
 >
-> > [!axis] 结构功能主义的保守倾向与人力资本附庸
+> > [!axis] 结构功能主义的保守倾向与[[Human Capital Theory|人力资本]]附庸
 > > 批判学者批评芝加哥学派默认现存社会秩序与劳动力市场分层的合理性，将教育视作单纯服务于经济增长的人力输入工具，掩盖了跨国教育援助背后的依附关系与不平等再生产。
 
 ---
@@ -168,10 +170,10 @@ updated: 2026-09-29
 > | 类型 | 条目 | 核心贡献与关联 |
 > |---|---|---|
 > | Concept | [[Scientific Paradigm]] | 作为芝加哥学派代表，主张以结构功能主义探寻超越具体历史时空的恒常制度规律 |
-> | Concept | [[Positivism]] | 将社会学实证主义方法（[[Variable|变量]]隔离、跨国数据收集、统计推断）引入比较教育 |
+> | Concept | [[Positivism]] | 将社会学实证主义方法（[[Variable\|变量]]隔离、跨国数据收集、统计推断）引入比较教育 |
 > | Method | [[Historical-Comparative Method]] | 严厉批评传统历史学派深陷个殊性泥潭，断言历史独特性无法支撑抽象比较科学 |
 > | Person | [[Philip Foster]] | 在芝加哥大学共事与合作的学术伙伴，共同构建战后比较教育现代化与经验社会学学派 |
 > | Person | [[Harold Noah]] | 同属战后美国实证科学化运动同盟，分别代表社会学与经济学推动学科向常规社会科学转型 |
 > | Person | [[Val D. Rust]] | 学术史家与学会后任会长，在学科发展反思中评定安德森确立常规社会科学规范的奠基角色 |
-> | Fact | [[Comparative Education Center at Chicago 1958]] | 1958 年受聘出任该中心首任主任，将其建设为跨国量化与发展教育研究的世界枢纽 |
-> | Argument | [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] | 历史反思论文，评析安德森在战后早期将社会学规范引入比较教育的学术贡献 |
+> | Fact | [[Comparative Education Center at Chicago 1958]] | 1958 年受聘出任该中心首任主任，将其建设为跨国量化与[[Development Education\|发展教育]]研究的世界枢纽 |
+> | Argument | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 历史反思论文，评析安德森在战后早期将社会学规范引入比较教育的学术贡献 |

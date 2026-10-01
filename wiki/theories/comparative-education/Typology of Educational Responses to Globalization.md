@@ -9,7 +9,7 @@ aliases:
 summary: "拉斯特等人提出的全球化教育响应四分批判分析框架，整合主动采纳的接受、草根抗衡的抵制、本土赋权的恢复以及霸权强加的强制再生产四重动力机制，打破自愿对等借用假定并确立解放实践导向。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 35
+theory_related_count: 36
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -49,6 +49,7 @@ related_methods:
   - "[[Fieldwork]]"
 related_persons:
   - "[[Paulo Freire]]"
+  - "[[Henry Giroux]]"
   - "[[Robert Arnove]]"
   - "[[Val D. Rust]]"
   - "[[Isaac Kandel]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Typology of Educational Responses to Globalization
@@ -76,7 +77,7 @@ updated: 2026-09-29
 > - **解释对象** 全球化纵深推进与跨国资本渗透背景下，民族国家、地方社区与被边缘化群体在面对外部政策[[Paradigm|范式]]、发展援助和文化干预时所采取的复杂动力学应对形态。
 > - **理论问题** 传统比较教育学、现代化理论与新制度主义普遍预设跨国教育流动是一个[[Technical Rationality|技术理性]]主导的自发趋同或自愿对等借用过程，遮蔽了跨国不平等权力格局中的暴力强加、阶级剥削、文化灭绝与草根抗争。
 > - **理论类型** 结合历史唯物主义、[[Dependency Theory|依附理论]]与[[Critical Pedagogy|批判教育学]]的宏观政治社会学[[Analytic Framework|分析框架]]。
-> - **知识位置** 承继批判教育学（[[Paulo Freire]], Henry Giroux）的再生产与抵制理论，对话安诺夫（[[Robert Arnove]]）等学者的世界体系分析与依附论，批判性扬弃主流新自由主义教育现代性叙事。
+> - **知识位置** 承继批判教育学（[[Paulo Freire]], [[Henry Giroux]]）的再生产与抵制理论，对话安诺夫（[[Robert Arnove]]）等学者的世界体系分析与依附论，批判性扬弃主流新自由主义教育现代性叙事。
 
 > [!claim] 核心判断
 > 教育系统对全球化的响应绝非单一维度的自愿理性借用，而是分化为四种性质迥异的动力学机制：自上而下主动采纳外部模型的接受（Receptivity）、激进批判力量抵御资本主义霸权的抵制（Resistance）、边缘族群复兴本土智慧的恢复（Restoration），以及中心霸权国家向外围非对称强加资本主义秩序以维系依附关系的强制再生产（Reproduction）。比较教育学唯有扬弃将教育等同于资本主义现代性的神话，才能走向增进人类福祉的主权自决与解放实践。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–135)]]
@@ -88,7 +89,7 @@ updated: 2026-09-29
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Val D. Rust|瓦尔·拉斯特]]（[[Val D. Rust]]）在 2004 年论文《教育改革中的外国影响》（*Foreign Influences in Educational Reform*）中首创三阶段类型学；随后在与布莱恩·约翰斯通（Brian Johnstone）与卡琳·阿拉夫（Carine Allaf）合著的《比较教育学发展之反思》（*Reflections on the Development of Comparative Education*, 2009）中正式升级为四维分析模型。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 133)]]
 > - **原初问题** 传统比较教育中的[[Cross-National Attraction|跨国吸引]]与[[Policy Borrowing|政策借用]]理论预设了国家间对称而互利的良性互动，无法解释后殖民时代为什么外部教育干预频频引发第三世界国家的体制动荡、原住民语言文化的急剧凋零以及全球教育不平等的持续固化。
-> - **理论资源与材料** 吸收了吉鲁（Henry Giroux）关于学校充当支配社会利益工具的再生产理论、[[Paulo Freire|保罗·弗莱雷]]（[[Paulo Freire]]）关于教育即政治与文化行动的解放实践思想，以及联合国教育、科学及文化组织（[[UNESCO|United Nations Educational, Scientific and Cultural Organization]]，UNESCO）《[[Education for All|全民教育]]》（Education for All, [[Exploratory Factor Analysis|EFA]]）的全球追踪监测实证数据。
+> - **理论资源与材料** 吸收了[[Henry Giroux|吉鲁]]（Henry Giroux）关于学校充当支配社会利益工具的再生产理论、[[Paulo Freire|保罗·弗莱雷]]（[[Paulo Freire]]）关于教育即政治与文化行动的解放实践思想，以及联合国教育、科学及文化组织（[[UNESCO|United Nations Educational, Scientific and Cultural Organization]]，UNESCO）《[[Education for All|全民教育]]》（Education for All, [[Exploratory Factor Analysis|EFA]]）的全球追踪监测实证数据。
 > - **形成路径** 从拉斯特原初基于历史改革经验提炼的主动应对范畴出发，青年一代学者敏锐指出主流比较教育缺乏对霸权国家非对称暴力强加的透视，通过嫁接批判社会学的隐蔽课程与结构依附，补足了强制再生产维度，完成从描述性分类向批判性解释模型的深化升级。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 134)]]
 
 ### 后续修订与扩展
