@@ -9,7 +9,7 @@ aliases:
 summary: "由卡罗尔·韦斯开创并经公共政策与教育研究发展的理论模型谱系，系统阐明学术研究进入政策与实践的非线性多元机制（知识驱动、问题解决、互动、政治、战术、启蒙及社会智识事业），奠定工具性、概念性与象征性使用三元分类的基础。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 57
+theory_related_count: 56
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Research Utilization Models

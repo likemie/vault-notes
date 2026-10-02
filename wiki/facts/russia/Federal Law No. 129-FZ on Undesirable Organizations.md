@@ -12,9 +12,9 @@ subtype: policy
 region: russia
 fact_region: "russia"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 4
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: "State Duma of the Russian Federation"
 tags:
@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-30'
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # Federal Law No. 129-FZ on Undesirable Organizations

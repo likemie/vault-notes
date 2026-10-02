@@ -4,9 +4,9 @@ title: "Argument_Narayanamurti_2013_IST"
 argument_key: "Argument_Narayanamurti_2013_IST"
 argument_display_title: "RIP: The basic/applied research dichotomy"
 argument_kind: "journal-articles"
-argument_related_count: 9
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 26
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#e5e7eb"
 authors:
   - Narayanamurti, V.

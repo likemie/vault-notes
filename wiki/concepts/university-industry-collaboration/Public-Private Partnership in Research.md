@@ -9,7 +9,7 @@ aliases:
 summary: "政府、企业与大学三部门联合资助和执行研究项目的合作机制，Ramming（2025）从实践者角度提出治理、竞争理论、技术战略和知识产权四维决策框架"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-04
-updated: 2026-09-10
+updated: 2026-10-02
 ---
 
 # Public-Private Partnership in Research

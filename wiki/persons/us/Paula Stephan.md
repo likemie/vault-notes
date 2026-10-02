@@ -41,6 +41,7 @@ related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
+  - "[[Department of Energy]]"
 related_arguments:
   - "[[Argument_Stephan_2013_NBER]]"
 confidence: high
@@ -102,11 +103,23 @@ updated: 2026-10-02
 
 ---
 
+## 争议与批评
+
+> [!debates] 学术争议
+>
+> > [!axis] 科研体制危机根源之辩：外生政策扭曲 vs 内生组织自利博弈
+> > 学界对战后美国科研体系陷入资金紧缩、用工失衡与风险厌恶的制度根源存在不同归因。
+> >
+> > - **主流政策批判视角** 多数科技政策学者倾向于将危机归咎于外部政治与财政环境的恶化，如国会预算紧缩、政党政治干预同行评审、以及科研通胀率过高等外生因素。
+> > - **斯蒂芬的微观经济学视角** 斯蒂芬指出，危机的根源在于大学管理层与学者在 1950–1960 年代主动重构了联邦资助契约；大学自愿将自身重塑为出租物理空间、依靠外部软钱间接成本偿债的“高档商场”，并把博士生作为廉价用工投入微观生产，这一内生正反馈机制注定了系统的脆弱性。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 2–3, 30–31, 37)]]
+
+---
+
 ## 关系网络
 
 > [!person-network] 关系网络
 > - **思想交锋与历史对话** [[Vannevar Bush]] — 斯蒂芬系统考察了布什 1945 年报告的政策设想在半个多世纪中如何被大学与联邦博弈重新诠释与偏离。
-> - **资助与研究对象机构** [[National Science Foundation]]、[[National Institutes of Health]] — 斯蒂芬长期追踪这两大资助巨头的预算变迁、资助成功率及对大学组织形态的微观激励。
+> - **资助与研究对象机构** [[National Science Foundation]]、[[National Institutes of Health]]、[[Department of Energy]] — 斯蒂芬长期追踪各大联邦机构的预算变迁、资助集中度（HHI）及对大学微观组织形态的激励导向。
 
 ---
 

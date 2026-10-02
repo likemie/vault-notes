@@ -8,7 +8,7 @@ aliases:
 summary: "Keith Pavitt 于 1984 年提出的产业创新模式分类框架，将制造业分为科学基础型、专业供应商型、规模密集型、供应商主导型四类，2016 年由 Bogliacino and Pianta 修订扩展至服务业和信息通信技术行业"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 14
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-10-02
 ---
 
 # Pavitt Taxonomy

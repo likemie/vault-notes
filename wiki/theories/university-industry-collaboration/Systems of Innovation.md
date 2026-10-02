@@ -10,7 +10,7 @@ aliases:
 summary: "Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络和市场互动进行的集体学习活动，强调制度、网络和吸收能力对创新绩效的关键作用，1980–90年代后成为多国创新政策的主导范式"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 18
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-09-18
+updated: 2026-10-02
 ---
 
 # Systems of Innovation

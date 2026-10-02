@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -37,12 +37,15 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Venkatesh Narayanamurti]]"
+  - "[[Paula Stephan]]"
 related_facts:
   - "[[Australian Philanthropic Services]]"
   - "[[National Institutes of Health]]"
+  - "[[National Science Foundation]]"
   - "[[Bell Labs]]"
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
+  - "[[Argument_Stephan_2013_NBER]]"
 confidence: high
 status: active
 created: 2026-10-02
@@ -115,6 +118,11 @@ updated: 2026-10-02
 > - **确立现代大科学研发工程[[Paradigm|范式]]** 探索出依托国家实验室将理论探索、工程制造与超算模拟高度统合的科研组织模式，成为全球国家科研中心模仿的标杆。
 > - **打破基础与应用壁垒的制度试验** 率先推行 ARPA-E 模式与能源前沿研究中心，将考评周期拉长至 10 年以上，为克服线性模型与二分法提供了联邦体制内的制度示范。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
 
+> [!stat-cards]- 核心规模与资助集中度数据
+> - **受资助高校范围** 相比于 [[National Institutes of Health|NIH]]（资助近 350 所院校）与 [[National Science Foundation|NSF]]（受资助院校数量庞大且在 1970 年代末大幅增加），DOE 资助的高校总数是四大联邦科技机构中最少的；虽然 1970 年代后期有所微增，但总体维持在高度精英化的高校窄圈层内。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 19)]]
+> - **资金集中度（HHI）** DOE 的科研资助集中度在各大机构中仅次于国防部（DOD），明显高于 NSF 和 NIH；且在 1970 年代末期，其赫芬达尔—赫希曼指数（HHI）呈现进一步走高集中趋势。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 19)]]
+> - **研究生用工支持结构** 前身美国原子能委员会（AEC）自 1950 年代起即开创了通过教授科研项目直接出资聘用大量研究生研究助理（GRA）的先河，成为联邦政府利用竞争性项目经费直接培育并吸纳学术廉价劳动力的关键先行机构。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 13)]]
+
 ---
 
 ## 争议、批评与反思
@@ -126,6 +134,12 @@ updated: 2026-10-02
 > >
 > > - **科技政策学者批评** [[Venkatesh Narayanamurti|文卡泰什·纳拉亚纳穆尔提]]（Venkatesh Narayanamurti）等学者指出，能源部长期受战后基础/应用二分法束缚，导致科学办公室专注于象牙塔式的论文产出，而应用局则受限于短周期工业改良，使高风险的战略性硬件发明（如新型光解水催化剂、高温超导电缆制造工艺）沦为“两不管”地带，陷入创新[[Valley of Death|死亡之谷]]。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
 > > - **资助治理改进建议** 学者主张能源部应彻底摒弃基于立项动机的标签分类，确立以[[Long-Term Public Utility|长期公共效用]]为导向的评价标准，延长科研考评周期，全面托底底层关键工艺与装备制造。
+>
+> > [!axis] 学术资助极度集中与高校圈层固化之辩
+> > 相比于国家科学基金会（[[National Science Foundation|NSF]]）在 1970 年代有意识地分散科研经费至更多州立大学，能源部为何长期将大学研发经费高度集中于少数顶尖学府？
+> >
+> > - **大科学与重资产门槛辩护** 辩护者认为，能源部的重大课题（高能物理、同步辐射、受控核聚变）高度依附于重型[[Megascience Installations|大科学装置]]与专业工程团队，仅极少数顶尖研究型大学具备建设配套工程与承接极重资产研发的能力，集中资助符合规模经济与技术专业化要求。
+> > - **科研经济学垄断反思** 科学经济学家[[Paula Stephan|保拉·斯蒂芬]]（Stephan）通过资助集中度（HHI）与高校受资助名单实证指出，DOE 资助的高校数量是四大机构中最少的，且 1970 年代末集中度不降反升，反映出任务导向型重资产资助更容易强化马太效应，将绝大多数新兴或地方院校实质性排斥在国家战略物理科研体系之外。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 19)]]
 
 ---
 
@@ -136,8 +150,10 @@ updated: 2026-10-02
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[National Institutes of Health]] | Fact (Organization) | 与能源部并列为美国两大任务导向型联邦科研机构典范。 |
+> | [[National Science Foundation]] | Fact (Organization) | 与能源部形成鲜明对比：NSF 资助广谱分散，DOE 资助高度集中且高校范围最小。 |
 > | [[Long-Term Public Utility]] | Concept | 能源部等任务导向机构重构科研资助的核心评价标准。 |
 > | [[Basic-Applied Research Dichotomy]] | Concept | 能源部科研体制改革亟需打破的战后动机二分法教条。 |
 > | [[Discovery-Invention Cycle]] | Theory | 能源部跨学科实验室与前沿能源中心得以运转的动态循环理论支撑。 |
 > | [[Venkatesh Narayanamurti]] | Person | 曾任能源部下属桑迪亚国家实验室副总裁，长期建言重塑能源部科研组织设计。 |
+> | [[Paula Stephan]] | Person | 经济学评估学者，实证量化了能源部资助在大学系统中的高集中度特征。 |
 > | [[Bell Labs]] | Fact (Organization) | 能源部大科学实验室与工业巨头研发中心在底层硬件攻坚上长期合作互补。 |

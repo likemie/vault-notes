@@ -5,7 +5,7 @@ aliases:
 summary: "指知识密集型资本主义的物质过程如何通过想象、指标和社会实践被话语建构并制度化的过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 42
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -66,7 +66,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-09-13
+updated: 2026-10-02
 ---
 
 ## 定义

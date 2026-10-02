@@ -8,10 +8,10 @@ aliases:
 summary: "斯托克斯（Donald Stokes）1997年提出的科研分类框架，以二维矩阵取代线性基础/应用二分法，以帕斯德象限代表同时追求理解与实用的用启发性基础研究。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 7
-theory_related_level: 0
-theory_related_stars: ""
-theory_related_color: "#e5e7eb"
+theory_related_count: 23
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theme/science-policy
   - theme/research-classification

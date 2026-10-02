@@ -8,9 +8,9 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
 fact_related_color: "#fef3c7"
 tags:
 - higher-education
@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-05-18'
+updated: 2026-10-02
 ---
 ## 背景
 

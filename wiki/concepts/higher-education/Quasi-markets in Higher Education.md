@@ -7,7 +7,7 @@ aliases:
 summary: "政府通过标准化产出指标和竞争性评选来分配高等教育拨款的准市场机制，表面奖励卓越，实际作为制度化马太效应使资源向已有优势的机构进一步集中"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 44
+fact_related_count: 43
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-08
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Comparative and International Education Society

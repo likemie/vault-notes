@@ -8,7 +8,7 @@ aliases:
 summary: "指新加坡教育体系建构的政-学-校三方枢纽驱动的知识动员与系统革新范式；由新加坡教育部（MOE）提供国家战略规划与专项资助，南洋理工大学国立教育学院（NIE/OER/CRPP）主导高水平实证研究与工具开发，依托教师学院（AST）与学校网络将研发成果转化为一线教学干预与专业实践，形成高度协调的循证政策与实践创新生态。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-02
 ---
 
 # Educational Research, Development and Innovation

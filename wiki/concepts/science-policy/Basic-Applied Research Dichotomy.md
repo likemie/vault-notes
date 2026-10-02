@@ -8,10 +8,10 @@ aliases:
 summary: "战后主导科技政策资源配置的核心分类范式，以研究者即时立项动机将科研割裂为基础与应用两轨；后因其文化阶层偏见、单向因果谬误及导致关键硬件发明资助断档而遭系统性解构"
 type: concept
 domain: "science-policy"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 18
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/science-policy
   - theme/research-classification

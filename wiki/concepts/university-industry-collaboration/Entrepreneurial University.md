@@ -6,7 +6,7 @@ aliases:
 summary: "Etzkowitz 等（2000）提出的大学模式，大学通过文化适应、组织重构和激励机制主动寻求产业合作与产业资助，区别于传统的象牙塔模式"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-09-17
+updated: 2026-10-02
 ---
 
 # Entrepreneurial University

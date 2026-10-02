@@ -6,10 +6,10 @@ aliases:
 summary: "指超国家组织通过指标、排名和协调机制对区域内高等教育进行间接治理的区域监管形式。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - regulatory-regionalism
 - higher-education-governance
@@ -44,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-09-18
+updated: 2026-10-02
 ---
 
 # Regulatory Regionalism

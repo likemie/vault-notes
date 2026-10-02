@@ -10,7 +10,7 @@ title: "Argument_Pellegrini_2021_ECNUROE"
 argument_key: "Argument_Pellegrini_2021_ECNUROE"
 argument_display_title: "Evidence-based policies in education: Initiatives and challenges in Europe"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"

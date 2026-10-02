@@ -11,7 +11,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 30
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # Federal Ministry of Education and Research
