@@ -8,10 +8,10 @@ aliases:
 summary: "Paula Stephan 提出的学术组织经济学隐喻，将现代研究型大学比作高档商业购物中心，大学专注于建设尖端物理空间并以间接成本及薪资冲销的形式向自负盈亏的学者团队出租"
 type: concept
 domain: "higher-education"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - higher-education
   - university-governance

@@ -9,7 +9,7 @@ summary: "美国当代著名科学经济学家，佐治亚州立大学经济学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

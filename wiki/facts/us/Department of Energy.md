@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 13
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 联邦内阁行政部门／国家级科研主管机构
 headquarters: 美国华盛顿特区福里斯特尔大厦（Forrestal Building, Washington, D.C.）
