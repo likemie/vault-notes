@@ -7,10 +7,10 @@ summary: "意大利裔经济学家，伦敦大学学院创新与公共目的研�
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 6
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 12
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1968"
 died: ""
 lifespan: "1968–至今"

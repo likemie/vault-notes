@@ -8,7 +8,7 @@ aliases:
 summary: "纳拉亚纳穆尔提等人在批判战后基础/应用二分法时提出的联邦科研资助最高战略准绳，主张国家财政介入的正当性不应取决于立项当下课题属于纯科学还是工程技术，而应取决于其是否在数十年尺度上服务于国家长远战略福祉并致力于化解阻碍创新循环的系统性底层瓶颈。"
 type: concept
 domain: "science-policy"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

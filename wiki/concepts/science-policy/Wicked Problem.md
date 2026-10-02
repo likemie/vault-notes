@@ -9,7 +9,7 @@ aliases:
 summary: "指缺乏明确边界和既定算法，伴随高度价值争议、系统复杂性与认知不确定性的复杂社会系统难题"
 type: concept
 domain: "science-policy"
-related_count: 18
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

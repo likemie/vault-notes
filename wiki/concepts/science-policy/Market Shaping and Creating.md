@@ -11,10 +11,10 @@ aliases:
 summary: "指国家与公共机构不局限于事后修复既有市场失灵，而是通过战略投资、标准制定与前沿引领主动构筑与共同创造新经济与技术景观的公共政策范式"
 type: concept
 domain: "science-policy"
-related_count: 5
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/science-policy
   - economics

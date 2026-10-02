@@ -6,10 +6,10 @@ aliases:
 summary: "由玛丽安娜·马祖卡托提出的使命导向创新政策分析框架，涵盖战略路径与方向（Routes）、探索型组织能力（Organizations）、公共价值动态评估（Assessment）以及风险收益对称共享（Risks and Rewards）四大核心维度"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 7
-theory_related_level: 0
-theory_related_stars: ""
-theory_related_color: "#e5e7eb"
+theory_related_count: 17
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/science-policy
   - innovation-policy
