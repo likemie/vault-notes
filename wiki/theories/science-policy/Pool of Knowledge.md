@@ -8,10 +8,10 @@ aliases:
 summary: "万尼瓦尔·布什在1945年布什报告中提出的科学政策基石理论；将大学自由探索的基础研究比作国家知识蓄水池，为工业界的应用技术创新提供活水，从非排他性与非竞争性的公共品属性论证了由联邦财政全面承担大学基础研究资助的正当性。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 0
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 20
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theme/science-policy
   - theme/innovation

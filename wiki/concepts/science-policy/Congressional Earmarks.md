@@ -9,7 +9,7 @@ aliases:
 summary: "指美国参众两院议员在联邦政府拨款法案中利用立法特权直接塞入、专款定向拨付给本选区特定大学的科研基建资金；该机制彻底绕开了同行评议竞争程序，引发学术界关于科研政治分肥、资源错配与择优公信力受损的深刻争议与反思。"
 type: concept
 domain: "science-policy"
-related_count: 0
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: 总统直属科学技术政策咨询机构
 headquarters: 美国华盛顿特区白宫（The White House, Washington, D.C., USA）
