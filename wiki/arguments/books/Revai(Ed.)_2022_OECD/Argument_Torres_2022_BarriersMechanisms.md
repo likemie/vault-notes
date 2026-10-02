@@ -57,7 +57,6 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Champ]]"
   - "[[Academic Freedom]]"
-  - "[[Blue Skies Research]]"
   - "[[Evaluation Research]]"
   - "[[Evaluator Independence]]"
   - "[[Self-report Bias]]"
@@ -438,7 +437,7 @@ updated: 2026-09-13
 >   1. **研究者主导项目** 旨在产出高水准前沿学术成果并化解研究碎片化，资助博士与博士后流动站及国际交流；
 >   2. **用户主导项目** 聚焦教育创新议题，为一线科研与实践人员提供基于现场的情境能力培训；
 >   3. **用户参与项目** 由学者与一线用户共同联合立项、联合识别需求并合作执行，双向增强学术认知与实践科研素养。
-> - **国家级合作网络枢纽** FINNUT 不仅是资助渠道，更是全国性的跨界合作交流竞技场，直接联通学术研究团队、中央与地方公共行政机构及全行业组织，实质性弥合战略[[Blue Skies Research\|基础研究]]、[[Evaluation Research\|应用研究]]与教学创新之间的鸿沟；项目依托[[Kunnskapssenter for utdanning\|挪威教育知识中心]]（Knowledge Centre for Education / Kunnskapssenter for utdanning, KSU，设于斯塔万格大学）开展高水平系统综述，并强制受资助课题制定成果传播规划。（p. 116）
+> - **国家级合作网络枢纽** FINNUT 不仅是资助渠道，更是全国性的跨界合作交流竞技场，直接联通学术研究团队、中央与地方公共行政机构及全行业组织，实质性弥合战略基础研究、[[Evaluation Research\|应用研究]]与教学创新之间的鸿沟；项目依托[[Kunnskapssenter for utdanning\|挪威教育知识中心]]（Knowledge Centre for Education / Kunnskapssenter for utdanning, KSU，设于斯塔万格大学）开展高水平系统综述，并强制受资助课题制定成果传播规划。（p. 116）
 
 在国家级专业统筹机构与全系统战略规划方面，荷兰与威尔士分别展现了卓越的制度设计。（pp. 116–117）
 

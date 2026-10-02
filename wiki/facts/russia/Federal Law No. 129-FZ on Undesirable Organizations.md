@@ -22,7 +22,6 @@ tags:
   - "level/higher-education"
   - "region/russia"
 related_concepts:
-  - "[[Blue Skies Research]]"
   - "[[Geisteswissenschaften]]"
   - "[[Scientific Autarky]]"
 related_theories: []
@@ -69,7 +68,7 @@ updated: 2026-09-29
 
 > [!timeline] 政策时间线
 > - **2015** 5月签署第129-FZ号法案，建立“不受欢迎外国组织”名录与取缔制度。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 44]])
-> - **2016** 美俄“尤里卡”（EUREKA）联合项目与CRDF Global“[[Blue Skies Research\|基础研究]]与高等教育”计划受制裁影响，被迫终止或撤出。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 46–47]])
+> - **2016** 美俄“尤里卡”（EUREKA）联合项目与CRDF Global“基础研究与高等教育”计划受制裁影响，被迫终止或撤出。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 46–47]])
 > - **2021** 6月30日，长期资助青年人文社科学者的奥克斯福德俄罗斯基金（Oxford Russia Fund）被俄罗斯官方宣布为“非友好组织”并强制关停。
 
 ---

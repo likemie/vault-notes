@@ -57,7 +57,6 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Evidence Standards]]"
   - "[[Academic Engagement]]"
-  - "[[Blue Skies Research]]"
   - "[[Knowledge Transfer]]"
 related_theories:
   - "[[Organizational Culture]]"
@@ -455,7 +454,7 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 
 #### 主题六：第六章专家研制工作组背景与学术界专家构成（Annex 1, p. 111）
 
-为研制本章关于学术科研共同体与高等教育机构公众参与的深度实证分析与战略建议，英国皇家学会组建了横跨前沿[[Blue Skies Research|基础研究]]学者、大学高层治理中枢、青年科学家代表与国家公众参与专业协调机构的专家工作组：
+为研制本章关于学术科研共同体与高等教育机构公众参与的深度实证分析与战略建议，英国皇家学会组建了横跨前沿基础研究学者、大学高层治理中枢、青年科学家代表与国家公众参与专业协调机构的专家工作组：
 
 > [!info]- 第六章专家研制工作组核心成员与跨界机构构成（Chapter 6 Working Group, Annex 1, p. 111）
 > - **工作组主席（Chair）**

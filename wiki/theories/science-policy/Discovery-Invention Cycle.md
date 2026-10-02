@@ -17,9 +17,21 @@ tags:
 related_concepts:
   - "[[Basic-Applied Research Dichotomy]]"
   - "[[Linear Model of Innovation]]"
+  - "[[Evaluation Research]]"
+  - "[[Science and Technology Studies]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Long-Term Public Utility]]"
+  - "[[Knowledge Production]]"
+  - "[[Epistemology]]"
+  - "[[Research Question]]"
+  - "[[Unit of Analysis]]"
+  - "[[Theoretical Standpoint]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
-related_methods: []
+  - "[[Systems of Innovation]]"
+related_methods:
+  - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Venkatesh Narayanamurti]]"
@@ -27,6 +39,7 @@ related_persons:
   - "[[Donald Stokes]]"
 related_facts:
   - "[[Bell Labs]]"
+  - "[[Department of Energy]]"
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
 confidence: medium
@@ -98,7 +111,7 @@ updated: 2026-10-02
 > **应用实例** 1947 年晶体管的发明与晶体管效应的发现，在此后五十年间持续激发了激光、集成电路、量子霍尔效应、超纯光纤材料与电荷耦合器件（Charge-Coupled Device, CCD）的诞生，其长远价值无法在早期通过短期效益指标予以预见。
 
 > [!theory-proposition] 命题三｜国家科技政策的核心使命是消除循环瓶颈，公共研发资助应以[[Long-Term Public Utility|长期公共效用]]为准绳
-> **解释** 创新体系的生命力在于知识流转的通畅度。当基础科学探索者与工程工艺专家在体制上被分置于互不往来的孤岛时，创新循环就会陷入停滞。因此，政府研发资助的正当性不在于项目是否属于私人资本不愿涉足的“纯[[Blue Skies Research|基础研究]]”，而在于该项目是否聚焦关乎国家长远福祉的战略方向，以及能否有效疏通[[Innovation Ecosystem|创新生态]]中的结构性堵点。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
+> **解释** 创新体系的生命力在于知识流转的通畅度。当基础科学探索者与工程工艺专家在体制上被分置于互不往来的孤岛时，创新循环就会陷入停滞。因此，政府研发资助的正当性不在于项目是否属于私人资本不愿涉足的“纯基础研究”，而在于该项目是否聚焦关乎国家长远福祉的战略方向，以及能否有效疏通[[Innovation Ecosystem|创新生态]]中的结构性堵点。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
 >
 > **应用实例** [[Department of Energy|美国能源部]]（Department of Energy, DOE）资助前沿清洁能源技术时，不应因某项探索属于工程装置开发而推给市场，也不应因其属于材料物理机理研究而推给国家科学基金会，而应依据国家能源安全与气候转型的长远公共效用，对全链条关键节点提供持续公共支持。
 
@@ -141,7 +154,7 @@ updated: 2026-10-02
 > > [!axis] 循环模型 vs. [[Pasteur's Quadrant|帕斯德象限]]：概念替代是否必要？
 > > 斯托克斯的[[Pasteur's Quadrant|帕斯德象限]]长期以来被科技政策界奉为化解二分法的经典工具；纳拉亚纳穆尔提等人认为帕斯德象限保留了基础与应用的旧词汇，依旧未能跳出动机分类的窠臼。
 > >
-> > - **斯托克斯阵营（Stokes, 1997）** 象限模型在政策实践中直观明了，通过赋予用启发性[[Blue Skies Research|基础研究]]正统地位，已足以解决纯基础与纯应用的冲突，无需彻底推翻通用术语。
+> > - **斯托克斯阵营（Stokes, 1997）** 象限模型在政策实践中直观明了，通过赋予用启发性基础研究正统地位，已足以解决纯基础与纯应用的冲突，无需彻底推翻通用术语。
 > > - **纳拉亚纳穆尔提阵营（[[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]]）** 只要继续使用基础与应用这两个带有严重等级偏见的词汇，决策者就会本能地依据研究者的立项动机去裁剪资助边界，必须用发现与发明对称双通道予以彻底革新。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
 >
 > > [!axis] 创新网络论 vs. 市场原教旨主义：公共资金的边界争议

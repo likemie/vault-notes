@@ -533,7 +533,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card]- 总体效应与调节[[Variable\|变量]]结论
-> 结论是，PBL 对学生结果具有显著且高的影响。平均[[Effect Size\|效应量]]为 d = .60 [CI = 0.49; 0.71; Q(t) = 757.75]。此外，分析显示，影响 PBL 效应变异的调节变量包括学生结果类型、地理位置、[[Blue Skies Research\|基础研究]]所采用的抽样方法、研究质量、发表年份与发表类型。（p. 950）
+> 结论是，PBL 对学生结果具有显著且高的影响。平均[[Effect Size\|效应量]]为 d = .60 [CI = 0.49; 0.71; Q(t) = 757.75]。此外，分析显示，影响 PBL 效应变异的调节变量包括学生结果类型、地理位置、基础研究所采用的抽样方法、研究质量、发表年份与发表类型。（p. 950）
 >
 > *The study concluded that PBL has a significant and high impact on student outcomes. The mean effect size is ES = .60 [CI = 0.49; 0.71; Q(t) = 757.75]. Furthermore, the analysis revealed that the moderators influencing the variability of the effects of PBL encompass the type of student outcome, geographical location, sampling methodology employed in the primary studies, research quality, publication year, and publication type.*
 

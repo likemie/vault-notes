@@ -37,7 +37,6 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Interaction Effect]]"
   - "[[Ecological Validity]]"
-  - "[[Blue Skies Research]]"
   - "[[Scaffolding]]"
   - "[[Sampling Error]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -165,7 +164,7 @@ updated: 2026-09-22
 > 分析真实课堂常态化教学干预与高度人工控制的实验室设计在捕捉同伴社会互动长周期机制时的表现差异。
 
 > [!claim] Güngör et al.
-> **真实课堂生态设计的效应优势** [[Blue Skies Research\|基础研究]]的设计类型对二阶元分析效应量产生显著调节（$Q_b(2) = 9.83, p = .01$）。基于[[Quasi-Experimental Designs\|准实验设计]]的元分析研究报告了高达 $ES = 1.11$（$95\%\text{ CI} = [0.72, 1.50], k = 3$）的高效应量，涵盖全实验与准实验混合设计的元分析表现出中等效应（$ES = 0.69, 95\%\text{ CI} = [0.54, 0.84], k = 19$），而基于严格个体[[Random Assignment\|随机化]]全实验设计的瑞士六年级拼图法元分析（Stanczak et al., 2022）效应量则为零（$ES = 0.00, 95\%\text{ CI} = [-0.58, 0.58], k = 1$）。这一反差表明，合作学习依赖班级真实社会情境、师生常态关系与持续性小组文化沉淀。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 8–11)]]
+> **真实课堂生态设计的效应优势** 基础研究的设计类型对二阶元分析效应量产生显著调节（$Q_b(2) = 9.83, p = .01$）。基于[[Quasi-Experimental Designs\|准实验设计]]的元分析研究报告了高达 $ES = 1.11$（$95\%\text{ CI} = [0.72, 1.50], k = 3$）的高效应量，涵盖全实验与准实验混合设计的元分析表现出中等效应（$ES = 0.69, 95\%\text{ CI} = [0.54, 0.84], k = 19$），而基于严格个体[[Random Assignment\|随机化]]全实验设计的瑞士六年级拼图法元分析（Stanczak et al., 2022）效应量则为零（$ES = 0.00, 95\%\text{ CI} = [-0.58, 0.58], k = 1$）。这一反差表明，合作学习依赖班级真实社会情境、师生常态关系与持续性小组文化沉淀。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 8–11)]]
 
 ---
 

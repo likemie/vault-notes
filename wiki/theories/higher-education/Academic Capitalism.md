@@ -5,10 +5,10 @@ aliases:
 summary: "Slaughter & Leslie (1997) 提出的概念，描述大学日益卷入专利商业化、产学合作和竞争性拨款等市场导向活动，学术生产与资本积累逻辑深度绑定的制度转型过程"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 16
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 27
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - academic-capitalism
   - political-economy
@@ -17,24 +17,35 @@ tags:
   - theme/marketization
   - level/higher-ed
 related_concepts:
-  - "[[Entrepreneurial University]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Corporate University]]"
-  - "[[Quasi-markets in Higher Education]]"
   - "[[Knowledge Capitalism]]"
+  - "[[Entrepreneurial University]]"
   - "[[New Public Management]]"
-  - "[[Performance Indicators]]"
   - "[[Champ]]"
-  - "[[Knowledge-Based Economy]]"
+  - "[[Technology Transfer]]"
+  - "[[Soft-Money Faculty Model]]"
+  - "[[Quasi-markets in Higher Education]]"
+  - "[[Corporate University]]"
+  - "[[Performance Indicators]]"
+  - "[[Shopping Mall Model of Research Universities]]"
+  - "[[Externalization]]"
+  - "[[PhD Overproduction in Science]]"
+  - "[[Research Proposal]]"
+  - "[[Research Question]]"
+  - "[[Technology Transfer Office]]"
   - "[[Emergence]]"
+  - "[[Cultural Capital]]"
+  - "[[Determinism]]"
   - "[[Academic Oligarchy]]"
 related_theories:
+  - "[[Dependency Theory]]"
   - "[[Varieties of Capitalism]]"
 related_methods:
   - "[[Analytic Framework]]"
 related_persons:
-  - "[[Pierre Bourdieu]]"
-related_facts: []
+  - "[[Paula Stephan]]"
+related_facts:
+  - "[[National Institutes of Health]]"
 related_arguments:
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
   - "[[Argument_Stephan_2013_NBER]]"
@@ -46,53 +57,106 @@ updated: 2026-10-02
 
 # Academic Capitalism
 
-## 定义
+---
 
-> [!info]
-> 学术资本主义（Academic Capitalism）是 Slaughter & Leslie（1997）在 Politics, Policies, and the [[Entrepreneurial University]] 中提出的概念，后由 Slaughter & Rhoades（2004）在 Academic Capitalism and the New Economy 中进一步扩展。它描述了高等教育机构和学术人员如何日益卷入市场导向的活动——包括专利商业化、[[University-Industry Collaboration\|产学合作]]、竞争性拨款和创收项目——从而将学术生产与资本积累逻辑深度绑定([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.797–798]])。
+## 理论定位
 
-该概念提供了理解大学市场化、管理治理扩张和竞争压力加剧的重要[[Analytic Framework|分析框架]]。然而，与"创业型大学"（entrepreneurial university）、"[[Corporate University|企业大学]]"（enterprise university）或"市场大学"（market university）等相关概念类似，学术资本主义只能部分解释新学术市场内外复杂的社会过程。与常规价格型市场不同，学术界中扩散的准市场（[[Quasi-markets in Higher Education|quasi-markets]]）和声望竞争并不依赖显性的货币供需机制；在许多情况下，机构并不以财务利润为导向([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.797]])。
+> [!theory-position] 理论定位
+> - **解释对象** 高等教育机构与学术人员日益卷入市场和类市场活动（专利商业化、[[University-Industry Collaboration|产学合作]]、竞争性项目拨款、学生贷款金融化与软钱雇佣），学术生产与资本积累逻辑深度绑定的制度转型过程。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, pp. 797–798)]]
+> - **理论问题** 回应传统大学自治论与功能主义高等教育观对高校组织转型的解释盲区，破除将大学视为远离市场与政治力量象牙塔的浪漫假象。
+> - **理论类型** 批判性制度政治经济学理论与高等教育组织变迁[[Analytic Framework|分析框架]]。
+> - **知识位置** 处于高等教育社会学、公共政策与马克思主义知识政治经济学交汇处，与[[Knowledge Capitalism|知识资本主义]]、[[Entrepreneurial University|创业型大学]]及[[New Public Management|新公共管理]]紧密关联。
 
-> [!quote]
-> Slaughter & Rhoades（2004）将学术资本主义定义为院校和教师为获取外部资金而采取的市场行为和类市场行为（Slaughter & Rhoades, 2004, cited in [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017]]）。
+> [!claim] 核心判断
+> 大学不再是超脱于资本积累之外的传统学术庇护所，而是深度演化为具有自利动机的经济行动者；高校通过重构内部组织治理（商场空间租赁、扣取间接成本、设置软钱岗位）以及外包学术劳动力（依赖低薪博士后与研究生），将学术追求全面嵌入外部竞争性资金获取与资本增殖循环之中。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, pp. 797–798)]]; [[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–33)]]
 
-## 概念辨析
+---
 
-> [!example]
-> - vs [[Entrepreneurial University]]：创业型大学侧重于院校层面的组织转型和创业文化，学术资本主义更侧重于制度逻辑层面——市场机制如何系统性地嵌入学术生产和治理。两者高度重叠但分析层次不同。
-> - vs [[Knowledge Capitalism]]：知识资本主义描述全球经济秩序中知识作为首要资本形式的结构转型，学术资本主义则聚焦高等教育部门内部这一转型的具体机制与过程。
-> - vs [[New Public Management]]：NPM 是管理技术层面的改革工具（[[Performance Indicators\|绩效指标]]、审计、竞争性拨款），学术资本主义则指向更深层的政治经济逻辑——学术活动如何被重构为资本积累的[[Champ\|场域]]。
+## 理论来源与形成
 
-## 核心要素
+> [!theory-origin] 提出者如何形成理论
+> - **提出者与原始文本** 希拉·斯劳特与拉里·莱斯利（Sheila Slaughter & Larry Leslie, 1997）在《学术资本主义：政治、政策与[[Entrepreneurial University|创业型大学]]》（*Academic Capitalism: Politics, Policies, and the Entrepreneurial University*）中首次提出，后由斯劳特与罗德斯（Slaughter & Gary Rhoades, 2004）在《学术资本主义与新经济》中系统扩展为涵盖学术资本主义知识体制（academic capitalism knowledge regime）的分析体系。
+> - **原初问题** 面对 1980 年代以来英美等国政府紧缩经常性高教财政拨款，大学与学者为何不仅被动应对，反而主动发起一系列商业化与市场竞争行为。
+> - **理论资源与材料** 吸收了资源[[Dependency Theory|依附理论]]（Resource Dependence Theory）、马克思主义政治经济学积累危机理论以及皮埃尔·布尔迪厄的[[Champ|场域]]与资本理论。
+> - **形成路径** 从追踪美、英、澳、加四国高校教师获取竞争性研究基金、申请专利与提供商业咨询的微观行动出发，提炼出高等教育机构如何从“公共品知识体制”向“学术资本主义知识体制”整体迁移的制度化解释。
 
-> [!abstract]
-> - **市场导向的院校行为与商场化运作** 大学通过专利商业化、[[University-Industry Collaboration\|产学合作]]研究、捐赠基金投资和竞争性项目拨款寻求外部资金([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.797–798]])；并在微观组织上演进为类似于高档购物中心的空间租赁者，通过扣取间接成本与设立软钱教职向学者课题组收取租金。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–31)]]
-> - **公共与私人资金的交织** 公共资金大量资助营利性院校的扩张——如美国营利性高校的增长在很大程度上由联邦学生贷款和拨款支撑（Douglass, 2012; Mettler, 2014; Eaton et al., 2016）
-> - **学术劳动力的重新组织与外包化** 初级学者和兼职教师面临不稳定工作条件，研究者面临增加引用数和获取拨款的激励，这可能诱发表面化甚至欺诈性行为([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.796]])；实验室课题组为了降低边际成本系统性依赖低薪的研究生与博士后流动劳动力，加剧了科学人才市场的供需脱节。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 32–33)]]
-> - **国家角色的转变** 国家从直接资助者转变为市场框架的设定者和竞争秩序的维护者，通过立法（如美国的 Bayh–Dole Act of 1980）和拨款机制重塑学术[[Champ\|场域]]([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.800–801]])
+### 后续修订与扩展
 
-## 理论背景
+> [!dev-timeline] 理论演进脉络
+> - **1997 — 原始奠基版本（Slaughter & Leslie）** 聚焦高校面临国家财政削减时的应对策略，界定院校和教师为获取外部竞争性资金而采取的市场和类市场行为。
+> - **2004 — 知识体制扩展（Slaughter & Rhoades）** 从个体行为策略跃升为制度分析，提出“学术资本主义知识体制”，关注大学管理层、中介机构（如[[Technology Transfer|技术转让]]办公室）与外部资本形成的联结网络。
+> - **2013 — 微观经济学与商场模型深化（[[Argument_Stephan_2013_NBER|Stephan, 2013]]）** 科学经济学家[[Paula Stephan|保拉·斯蒂芬]]引入商场模型与[[Soft-Money Faculty Model|软钱教职模式]]，揭示战后美国大学如何反客为主倒逼政府承担薪资与间接成本，以及实验室将研究生作为边际廉价用工的微观组织理性。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–33)]]
+> - **2017 — 福利[[Varieties of Capitalism|资本主义多样性]]整合（Schulze-Cleven et al.）** 结合[[Varieties of Capitalism|资本主义多样性]]（VoC）框架，系统比较自由主义（美）、保守主义（德）与社会民主主义（挪）国家在学术资本主义推进中的差异化路径依赖。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, pp. 803–804)]]
 
-> [!tip]-
-> - **制度变迁理论（institutional change）** 用于解释学术资本主义在不同国家和福利体制中的差异性表现——不同政治经济体在市场化进程中展现出强路径依赖([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.803–804]])
-> - **马克思主义政治经济学** 将学术资本主义置于[[Knowledge Capitalism\|知识资本主义]]的更广泛系统动力中理解，关注剥削、利润导向和阶级斗争在[[Knowledge-Based Economy\|知识经济]]中的形态(Jessop, 2007; [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.804–805]])
-> - **Bourdieu [[Champ\|场域]]理论** [[Pierre Bourdieu]] 的"学术阶级分数"（fractions of the academic class）概念被重新用于分析教授和学术官员的不同再生产模式及与统治阶级的关系(Möller, 2015; Graf, 2015; [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.799]])
+---
 
-## 学术资本主义的多样性
+## 关键概念与理论构件
 
-> [!note]-
-> Schulze-Cleven & Olson基于 Hall & Soskice（2001）的 [[Varieties of Capitalism]] 框架，区分了三种福利资本主义类型中学木资本主义的不同形态([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.803–804]])：
+> [!entry-map]
 >
-> - **自由主义国家**（以美国为代表）：亲市场规制传统，高等教育市场化最为深入，营利性院校大量[[Emergence\|涌现]]，学费和学生贷款驱动的金融化程度最高
-> - **保守主义国家**（以德国为代表）：允许社会群体自我规制，市场化改革的引入和撤回呈现拉锯——部分州在 2000 年代初引入学费后被学生抗议撤销
-> - **社会民主主义国家**（以挪威为代表）：强国家干预传统，高等教育市场化程度较低，公共供给仍占主导
+> | 构件 | 类型 | 在理论中的功能 |
+> |:-----|:-----|:--------------|
+> | [[Quasi-markets in Higher Education]] | 概念 | 刻画高校内部不依赖完全价格机制、而依赖以声望为中介的竞争性资源配置准市场。 |
+> | [[Corporate University]] | 概念 | 描述大学在管理治理结构上面向科层制企业化、追求运营[[Performance Indicators\|绩效指标]]的组织形态。 |
+> | [[Shopping Mall Model of Research Universities]] | 机制 | 将大学组织功能透视为空房出租与基础设施搭建，学者作为独立商铺自负盈亏并上缴租金税费。 |
+> | [[Soft-Money Faculty Model]] | 机制 | 大学将教师薪酬[[Externalization\|外部化]]转嫁至外部科研项目，免除自身经常性财务兜底义务。 |
+> | [[PhD Overproduction in Science]] | 机制 / 后果 | 课题组为降低边际科研交付成本而系统性过度吸纳并剥削低薪受训者，造成劳动力市场脱节。 |
+> | [[Varieties of Capitalism]] | 分类 / 框架 | 区分自由主义、保守主义与社会民主主义福利体制下学术资本主义演化的路径依赖差异。 |
+
+---
+
+## 核心命题
+
+> [!theory-proposition] 命题一｜大学组织演化为以间接成本与软钱为纽带的商场化租赁平台
+> **解释** 在竞争性科研资助驱动下，现代研究型大学的微观组织形态发生了根本异化：大学管理层致力于兴建顶尖科研楼宇与打造学术声望品牌，随后通过[[Research Proposal|课题申报]]中的间接成本提取与教师薪水冲销（salary buyout），将这些物理设施实质上转租给自负盈亏的课题组负责人。教师薪资被大量推向软钱轨道，学校以此规避办学人员的长期刚性开支并以极低边际成本扩大科研规模。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–31)]]
 >
-> 三种模式均经历了自由化（liberalization），但结果强烈路径依赖，差异反映在各国更广泛经济的组织方式和动力上。
+> **应用实例** 全美研究型医学院普遍要求全职专任教师（包括终身教授）将其薪酬的 80%–100% 通过 [[National Institutes of Health|NIH]] 等外部科研项目报销；一旦资助断档，学校不提供收入保障，学者直接面临减薪甚至实验室关闭风险。
+
+> [!theory-proposition] 命题二｜学术劳动力组织向灵活剥削与外包化重塑
+> **解释** 为在学术资本主义竞争中降低科研交付成本并维持论文发表流水线，实验室课题组负责人本能地排斥雇佣享有正规福利与晋升保障的永久性专职科学家（staff scientists），转而系统性依赖以受训为名义的高流动性、低薪资博士生与博士后。这一微观最优成本选择在宏观上导致学术劳动力再生产与行业吸纳容量严重脱节，演化为制度化的博士生产过剩与青年学者阶层分化。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 32–33)]]; [[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, p. 796)]]
+>
+> **应用实例** 欧美高校生物医学实验室内普遍由多名博士后与高年级博士生承担 80% 以上的高强度常规实验；完成训练后的博士毕业生能落实学术教职的比例持续跌破历史均值，大批学者被长期困在微薄津贴的博士后蓄水池中。
+
+> [!theory-proposition] 命题三｜国家职能由学术公共品直接提供者转向竞争秩序规制者
+> **解释** 国家并未在市场化大潮中退出高等教育，而是转变了自身的职能角色：从提供经常性生均拨款的直接赞助人，转变为制定知识产权法案（如 1980 年《拜杜法案》）、主导绩效评估审计与维护科研竞价准市场秩序的制度监管者；公共财政通过学生贷款与竞争性基金杠杆，深度撬动并规制大学的资本化运作。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, pp. 800–801)]]
+>
+> **应用实例** 美国联邦政府通过设立行政间接成本报销上限与科研绩效考核指标，引导大学将基建与设备折旧作为套取间接成本补偿的主要管道，直接刺激了各校竞相举债扩建高端实验设施的热潮。
+
+---
+
+## 转化为分析框架
+
+> [!theory-use] 框架入口
+> - **[[Research Question|研究问题]]** 解释大学组织为何会出现科研选题规避风险、青年教师生存焦虑、博士毕业生供求失衡以及高校重资产借贷等系统性制度病理。
+> - **分析对象与单位** 研究型大学管理层、学科院系、实验室课题组微观用工网络，以及国家科技资助机构政策文本。
+> - **需要的材料** 高校财务审计年报（间接成本提取率、自筹配套比例）、教师聘任合同中软钱占比、博士生助研津贴流向统计及科研项目立项明细。
+> - **解释目标** 揭示学术卓越话语背后遮蔽的微观经济成本收益激励，透视学术资本主义对大学公共使命的侵蚀机制。
+
+> [!theory-framework] 命题如何转化为分析维度
+>
+> | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
+> |:---|:---|:---|:---|
+> | 命题一：商场租赁机制<br>[[Argument_Stephan_2013_NBER\|(Stephan, 2013, pp. 30–31)]] | **机构财务转嫁维度**<br>大学在多大程度上将学术人员薪酬与运营成本转嫁给外部竞争性经费？ | 专任教师薪资中软钱报销比例、间接成本提取费率变化、启动配套包资金来源。 | 软钱薪酬占比超 50% 且缺乏校内兜底机制时，强烈支持商场模型假说；需排查全额硬钱编制的例外学院。 |
+> | 命题二：劳动力外包化<br>[[Argument_Stephan_2013_NBER\|(Stephan, 2013, pp. 32–33)]] | **学术劳动力生态维度**<br>课题组是否系统性以廉价受训者替代全职专职技术研究员？ | 实验室专职科学家与博士后/研究生数量比值、博士注册修读年限延长趋势、毕业确定去向率。 | 博士后队伍膨胀且缺乏独立建组机会，伴随专职科学家招聘冻结，支持劳动力剥削与过剩假说。 |
+> | 命题三：国家规制转型<br>[[Argument_Schulze-Cleven_2017_HighEduc\|(Schulze-Cleven et al., 2017, pp. 800–801)]] | **政策与准市场规制维度**<br>国家政策如何通过拨款规则塑造大学竞争策略？ | 竞争性基金评审准则、间接成本核算规程变化、高校[[Technology Transfer Office\|技术转移办公室]]专利营收考评指标。 | 评估政策是否直接迫使高校面向短期指标调整学科布局（如生命科学倾斜与物理工程相对紧缩）。 |
+
+---
+
+## 比较视野：学术资本主义的多样性
+
+> [!note]- 福利资本主义体制下的路径依赖差异
+> Schulze-Cleven & Olson 基于 Hall & Soskice（2001）的 [[Varieties of Capitalism]] 框架，比较了三种资本主义类型中学术资本主义的差异化表现：
+>
+> - **自由主义体制（以美国为代表）** 亲市场规制传统最深，高等教育市场化与金融化最为激进，营利性高校[[Emergence|涌现]]，软钱教职与商场化科研模型高度成熟。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, pp. 803–804)]]
+> - **保守协调体制（以德国为代表）** 拥有强大的职业社团与州政府规制传统，学术资本主义改革呈现反复拉锯，传统讲座教授终身特权对纯市场化机制形成一定对冲。
+> - **社会民主体制（以挪威为代表）** 恪守高等教育作为公民基本权利的普遍主义福利传统，公共财政仍占绝对应纳总盘，学术劳动力享有高度工会与国家福利托底。
+
+---
 
 ## 争议与批评
 
-> [!warning]
-> - 部分学者质疑古典政治经济学概念能否直接应用于学术转型——高等教育中的"市场"往往不依赖价格机制和利润动机，准市场和声望竞争与经典市场模型存在显著差异(Marginson, 2006; Rhoades & Slaughter, 2006; [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.797]])
-> - 学术资本主义概念过于侧重经济维度，忽略了高等教育的公共功能——如提供可及的知识基础设施和高质量教育(Rhoten & Calhoun, 2011;)
-> - 将大学转型简单归因于市场力量，可能低估了国家政策、[[Academic Oligarchy\|专业寡头]]和话语实践在塑造高等教育秩序中的独立作用([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.797–799]])
+> [!warning] 理论局限与学术批评
+> - **准市场与价格机制的本质差异** 高等教育领域扩散的竞争主要围绕学术声望、同行认可与权威地位展开，并不遵循经典价格机制，将企业资本积累逻辑生搬硬套至大学可能遮蔽学术[[Champ|场域]]特有的[[Cultural Capital|文化资本]]再生产机制。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, p. 797)]]
+> - **忽视高等教育公共效用的顽强韧性** 学术资本主义模型过度聚焦经济边际收益，可能低估了学者对探索真理、启蒙教学与知识公共基础设施的内在价值坚守。
+> - **单向经济[[Determinism|决定论]]风险** 容易将高校内部的一切官僚化或课题竞争简单化归因于资本逻辑，而忽略了[[Academic Oligarchy|学术寡头]]权力寻租、国家政治安全战略等非经济维度的独立塑造力量。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, pp. 797–799)]]
 

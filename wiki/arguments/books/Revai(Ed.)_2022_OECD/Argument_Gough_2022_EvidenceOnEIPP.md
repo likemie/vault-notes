@@ -86,7 +86,6 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Operationalization]]"
   - "[[Reliability]]"
-  - "[[Blue Skies Research]]"
   - "[[Internal Validity]]"
   - "[[Classroom Management]]"
   - "[[Sage]]"
@@ -463,7 +462,7 @@ sources:
 
 > [!critique-fatal] 导致知识中介功效主张丧失正当性的四大病理根源（p. 154）
 > 1. **证据库缺乏代表性** 仅凭零散、选择性研究下结论，完全忽视领域内相反实证证据的存在；
-> 2. **研究质量与切合度欠缺** [[Blue Skies Research\|基础研究]]方法学严谨性不足、存在严重偏倚风险，或评价指标与现实政策决策问题严重脱节；
+> 2. **研究质量与切合度欠缺** 基础研究方法学严谨性不足、存在严重偏倚风险，或评价指标与现实政策决策问题严重脱节；
 > 3. **证据体量与粒度不充分** 仅证明样本总体在平均意义上有效，缺乏足够的亚群数据支撑对处境不利学生的差异化推断；
 > 4. **解释与应用边界偏差** 脱离情境边界与实施条件，盲目将特定实验情境下的平均效应值推断至[[Heterogeneity\|异质性]]真实教学场景。
 

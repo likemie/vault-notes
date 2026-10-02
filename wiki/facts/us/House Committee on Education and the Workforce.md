@@ -27,7 +27,6 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[Paradigm]]"
   - "[[Research Question]]"
-  - "[[Blue Skies Research]]"
   - "[[Document]]"
   - "[[Research Utilization]]"
   - "[[Causality]]"
@@ -85,7 +84,7 @@ updated: 2026-09-28
 > - **1965–1996 — 伟大社会民权立法与大发展** 在林登·约翰逊总统“伟大社会”计划推动下，委员会主导起草并审议了奠定当代联邦教育治理格局的两大基石：《1965 年[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]》（ESEA）和《[[Higher Education Act of 1965\|高等教育法]]》（HEA），确立了联邦支持贫困儿童受教育权的民权导向。
 > - **1997–1998 — 主导《[[Reading Excellence Act|卓越阅读法案]]》确立科研规制先例** 委员会主席比尔·古德林（Bill Goodling）急于建立科研与政策的纽带，资深多数党幕僚罗伯特·斯威特（Robert Sweet）查阅华盛顿研究机构网站并咨询 20–25 位认知心理学学者草拟了“科学本位阅读研究”（SBRR）的初始法定定义；委员会全面采信 [[National Institute of Child Health and Human Development|NICHD]] 行政官员[[G. Reid Lyon|里德·里昂]]的实验[[Paradigm|范式]]听证证词，以口头表决强推法案（P.L. 105-277），开创了以方法学清单规制联邦服务支出的立法先例。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 32)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 6–8)]]
 > - **2000–2002 — 主导 [[Office of Educational Research and Improvement|OERI]] 改革与《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）立法博弈** 委员会资深成员迈克尔·卡斯尔（Michael Castle）提出 H.R. 4875，试图确立量化实验与质性初步探索的二元割裂标准；经[[National Research Council|国家研究委员会]]（[[National Research Council]], NRC）代表[[Richard J. Shavelson|理查德·沙维尔森]]（Richard Shavelson）在教育改革小组委员会听证会上的严正质证，委员会最终摒弃预设方法清单，主导通过了确立“方法契合[[Research Question|研究问题]]”的《[[Education Sciences Reform Act 2002|教育科学改革法]]》（H.R. 3801 / P.L. 107-279），正式设立 [[Institute of Education Sciences|IES]]。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–34)]]
-> - **2001–至今 — 循证问责与现代联邦再平衡** 主导了 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）的剧烈两党辩论，将“科学[[Blue Skies Research\|基础研究]]”与高利害问责写入法典；并在 2015 年主导起草并全票通过《[[Every Student Succeeds Act\|每个学生成功法]]》（ESSA），实现了联邦强权与州级自主的再平衡。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 43–45)]]
+> - **2001–至今 — 循证问责与现代联邦再平衡** 主导了 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）的剧烈两党辩论，将“科学基础研究”与高利害问责写入法典；并在 2015 年主导起草并全票通过《[[Every Student Succeeds Act\|每个学生成功法]]》（ESSA），实现了联邦强权与州级自主的再平衡。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 43–45)]]
 
 ---
 

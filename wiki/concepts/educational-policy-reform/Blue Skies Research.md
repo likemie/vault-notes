@@ -3,9 +3,7 @@ title: Blue Skies Research
 aliases:
   - 蓝天研究
   - Pure Research
-  - 纯研究
   - Basic Research
-  - 基础研究
 summary: "由研究者好奇心驱动的开放式、探索性研究，旨在贡献原创知识、扩展理论前沿，区别于理论已被给定、议程由委托方设定的评估研究或应用研究。"
 type: concept
 domain: "educational-policy-reform"
@@ -33,7 +31,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-09-17
+updated: 2026-10-02
 ---
 # Blue Skies Research
 

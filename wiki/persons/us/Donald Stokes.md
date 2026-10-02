@@ -105,7 +105,7 @@ updated: 2026-10-02
 ## 核心思想
 
 > [!claim] 核心主张
-> [[Vannevar Bush|万尼瓦尔·布什]] 1945 年报告所确立的“[[Blue Skies Research|基础研究]]与[[Evaluation Research|应用研究]]相互排斥”的一维模型与科学史经验严重脱节；科学研究应依据“是否追求根本性理解”与“是否考虑实际应用”两个独立维度，划分为玻尔象限（纯基础研究）、爱迪生象限（纯应用研究）与[[Pasteur's Quadrant|帕斯德象限]]（由[[Use-Inspired Basic Research|应用启发的基础研究]]）；兼具理论深度与重大应用价值的帕斯德象限研究，才是现代国家科技竞争力与产业创新的核心策源地。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
+> [[Vannevar Bush|万尼瓦尔·布什]] 1945 年报告所确立的“基础研究与[[Evaluation Research|应用研究]]相互排斥”的一维模型与科学史经验严重脱节；科学研究应依据“是否追求根本性理解”与“是否考虑实际应用”两个独立维度，划分为玻尔象限（纯基础研究）、爱迪生象限（纯应用研究）与[[Pasteur's Quadrant|帕斯德象限]]（由[[Use-Inspired Basic Research|应用启发的基础研究]]）；兼具理论深度与重大应用价值的帕斯德象限研究，才是现代国家科技竞争力与产业创新的核心策源地。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
 
 > [!citation-card] 斯托克斯对技术反哺科学的观察
 > 斯托克斯指出，技术往往是科学的灵感源泉，而非相反；在科学史上，技术的重大工程突破经常充当物理学家探索前沿自然法则的向导与动力。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
@@ -122,7 +122,7 @@ updated: 2026-10-02
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **政策[[Paradigm|范式]]重构路径** 终结了战后“[[Blue Skies Research|基础研究]]必须远离实用”的狭隘教条，为[[National Science Foundation|美国国家科学基金会]]（NSF）、能源部（[[Department of Energy|DOE]]）及国立卫生研究院（[[National Institutes of Health|NIH]]）设立重大战略使命导向的跨学科研究计划（如材料基因组、纳米科技行动计划计划）提供了理论合法性依据。
+> - **政策[[Paradigm|范式]]重构路径** 终结了战后“基础研究必须远离实用”的狭隘教条，为[[National Science Foundation|美国国家科学基金会]]（NSF）、能源部（[[Department of Energy|DOE]]）及国立卫生研究院（[[National Institutes of Health|NIH]]）设立重大战略使命导向的跨学科研究计划（如材料基因组、纳米科技行动计划计划）提供了理论合法性依据。
 > - **高等教育与[[University-Industry Collaboration|产学合作]]路径** 促使全球研究型大学重新审视学术评价体系，使兼顾工业转化与前沿论文发表的应用基础研究摆脱“二等学术”的偏见，直接推动了现代高校[[Technology Transfer|技术转移]]与企业联合实验室的蓬勃发展。
 > - **理论演进路径** 启发了后续学者对[[Linear Model of Innovation|线性创新模型]]的系统解构，成为纳拉亚纳穆尔提等人提出[[Discovery-Invention Cycle|发现-发明循环]]理论的重要思想前阶与对话靶标。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 32–33)]]
 
@@ -149,4 +149,4 @@ updated: 2026-10-02
 > > [[Pasteur's Quadrant|帕斯德象限]]是否真正解决了基础与[[Evaluation Research|应用研究]]的人为割裂？
 > >
 > > - **纳拉亚纳穆尔提等人的系统批评** 纳拉亚纳穆尔提等学者指出，斯托克斯框架存在两大未竟之业：第一，它依然依据研究者在立项当下的心理动机进行分类，无法解释一个最初单纯为了解决通信工程难题的项目（如晶体管或高纯异质结构制造）如何在数十年后演变为前沿微观物理的重大理论发现；第二，斯托克斯继续沿用“基础”与“应用”这两个带有历史等级偏见的旧术语，未能完整展现发明与发现在网络中跨越数十年的双向流转全貌。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 32–33)]]
-> > - **科学政策学界辩护** 斯托克斯的支持者认为，帕斯德象限直面了华盛顿联邦科研预算分配的政治现实；在国会要求科研展现现实回报的政治压力下，该框架成功保护了[[Blue Skies Research|基础研究]]免受彻底短视商业化的冲击，为战后美国学术界保全了从事重大战略问题前沿探索的预算空间。
+> > - **科学政策学界辩护** 斯托克斯的支持者认为，帕斯德象限直面了华盛顿联邦科研预算分配的政治现实；在国会要求科研展现现实回报的政治压力下，该框架成功保护了基础研究免受彻底短视商业化的冲击，为战后美国学术界保全了从事重大战略问题前沿探索的预算空间。

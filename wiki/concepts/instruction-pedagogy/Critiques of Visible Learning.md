@@ -38,7 +38,6 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Publication Bias]]"
   - "[[Heterogeneity]]"
-  - "[[Blue Skies Research]]"
   - "[[Reliability]]"
   - "[[Epistemology]]"
   - "[[Sampling Error]]"
@@ -282,7 +281,7 @@ O'Connor 指出这与元分析诞生的承诺——[[Gene Glass]]（1976, p. 3�
 #### 二级元分析的六项慢性问题（Myburgh 等）
 
 > [!finding-cards] Golovchin, 2019, p. 237
-> - **垃圾进垃圾出** [[Blue Skies Research\|基础研究]]设计差、质量低，综合后缺陷被放大
+> - **垃圾进垃圾出** 基础研究设计差、质量低，综合后缺陷被放大
 > - **[[Publication Bias\|发表偏倚]]** 正面结果优先发表，效应量系统性高估
 > - **苹果与橘子比较** 异质研究不加区分地合并平均
 > - **效应量误用** *d* 的计算与解释存在系统性错误

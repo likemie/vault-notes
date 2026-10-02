@@ -29,7 +29,6 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Paradigm]]"
   - "[[Decodification]]"
-  - "[[Blue Skies Research]]"
   - "[[Constructivist Paradigm]]"
   - "[[Document]]"
   - "[[Direct Instruction]]"
@@ -88,7 +87,7 @@ updated: 2026-10-02
 > - **1962–1980s — 基础发展医学与神经生物学奠基** 早期专注于遗传学、新生儿重症救治与智力迟滞病理研究，奠定了生物医学实验对照与硬科学实证传统。
 > - **1985–1990s — 早期读写研究计划与[[Paradigm|范式]]扩张** 设立儿童发展与行为分支（Child Development and Behavior Branch, CDBB）。自 1980 年代中期起，在[[G. Reid Lyon|里德·里昂]]（G. Reid Lyon）领导下启动大规模长期追踪与脑功能成像研究，聚焦发育性阅读障碍（Dyslexia）与儿童[[Decodification|解码]]机制，迅速构建起全美最大的阅读认知心理学学术资助网络。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 8)]]
 > - **1997–2001 — 深度介入国家教育立法与次政府形成** 里昂代表 NICHD 频繁出席国会听证会，将其资助的直接拼读[[Experimental Research|实验研究]]确立为国家唯一认可的科学基准。NICHD 协同联邦教育部组建[[National Reading Panel|国家阅读委员会]]（NRP），其产出被直接写入《[[Reading Excellence Act|卓越阅读法案]]》与《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB），确立了年预算 10 亿美元的“阅读优先”（Reading First）政策。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–10)]]
-> - **2008–至今 — 冠名重组与全生命周期健康回归** 2008 年国会立法更名为尤妮斯·肯尼迪·施莱佛国家儿童健康与人类发展研究所，其教育政策职能逐步平移交接给教育部的[[Institute of Education Sciences|教育科学研究院]]（IES），研究所重新聚焦于发育遗传学、母婴健康与神经认知[[Blue Skies Research|基础研究]]。
+> - **2008–至今 — 冠名重组与全生命周期健康回归** 2008 年国会立法更名为尤妮斯·肯尼迪·施莱佛国家儿童健康与人类发展研究所，其教育政策职能逐步平移交接给教育部的[[Institute of Education Sciences|教育科学研究院]]（IES），研究所重新聚焦于发育遗传学、母婴健康与神经认知基础研究。
 
 ---
 

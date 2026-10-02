@@ -38,7 +38,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Boundary Spanner]]"
   - "[[Heterogeneity]]"
-  - "[[Blue Skies Research]]"
   - "[[Formative Assessment]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Preregistration]]"
@@ -171,7 +170,7 @@ updated: 2026-09-23
 
 > [!taxonomy] [[Educational Brokerage Agency\|证据中介机构]]的三重功能画像与治理形态
 > 实证调查显示，证据生态中的中介行动者展现出鲜明的功能分化与体制属性：
-> - **法定双重职能型** 如丹麦国家社会科学研究中心等公资独立机构，被法律明确赋予[[Blue Skies Research\|基础研究]]产出与政策促成的双重使命，兼顾证据生产与多端扩散。
+> - **法定双重职能型** 如丹麦国家社会科学研究中心等公资独立机构，被法律明确赋予基础研究产出与政策促成的双重使命，兼顾证据生产与多端扩散。
 > - **纯转化促成型** 如英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）、智利部属[[School Leadership\|学校领导力]]中心等，完全聚焦于实践转化工具箱研发与中介网络搭建，不直接承担基础研究生产。
 > - **依附性传统型** 如芬兰国家教育评估中心（FINEEC）与[[Kunnskapssenter for utdanning\|挪威教育知识中心]]等，多依附于中央行政序列或大学母体，侧重于为部委决策提供专题监测支持与政策论证服务。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, p. 81)]]
 

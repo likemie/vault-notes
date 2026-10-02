@@ -17,9 +17,14 @@ tags:
   - theme/research-funding
   - theme/innovation
 related_concepts:
-  - "[[Basic-Applied Research Dichotomy]]"
-  - "[[Linear Model of Innovation]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Return on Investment]]"
+  - "[[Blue Skies Research]]"
+  - "[[Network Governance]]"
   - "[[Valley of Death]]"
+  - "[[Basic-Applied Research Dichotomy]]"
+  - "[[Operationalization]]"
+  - "[[Megascience Installations]]"
 related_theories:
   - "[[Discovery-Invention Cycle]]"
   - "[[Pasteur's Quadrant]]"
@@ -32,8 +37,9 @@ related_persons:
 related_facts:
   - "[[Department of Energy]]"
   - "[[National Institutes of Health]]"
-  - "[[Bell Labs]]"
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[CHIPS and Science Act]]"
+  - "[[Investing in Innovation Program]]"
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
 confidence: high
@@ -110,7 +116,7 @@ updated: 2026-10-02
 > 探讨公共资金介入研发活动应当依据何种客观标准，推翻战后以主观动机（为知识而知识）作为公共资助合法性唯一源泉的教条。
 
 > [!claim] Narayanamurti, Odumosu & Vinsel (2013)
-> **废弃动机二分判据** 二战后确立的战后科技契约虽然为纯科学争取了经费，但在实践中建立了一条机械排斥技术发明的防线；随着现代工业实验室[[Blue Skies Research|基础研究]]的萎缩，大量关乎国家前沿竞争力的重大底层工程工艺因带有实用目的而无法获得联邦资助，同时私营资本又因回报周期长达数十年而无力承担；国家研发预算最合理的介入试金石，必须从立项动机转向课题对提升全民长期福祉、国家安全与系统生产力的“长期公共效用”。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
+> **废弃动机二分判据** 二战后确立的战后科技契约虽然为纯科学争取了经费，但在实践中建立了一条机械排斥技术发明的防线；随着现代工业实验室基础研究的萎缩，大量关乎国家前沿竞争力的重大底层工程工艺因带有实用目的而无法获得联邦资助，同时私营资本又因回报周期长达数十年而无力承担；国家研发预算最合理的介入试金石，必须从立项动机转向课题对提升全民长期福祉、国家安全与系统生产力的“长期公共效用”。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
 
 ---
 
@@ -137,7 +143,7 @@ updated: 2026-10-02
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1945 — 战后动机论试金石确立** [[Vannevar Bush|万尼瓦尔·布什]]在[[Science, The Endless Frontier 1945]]中确立政府仅对无实用目的的[[Blue Skies Research|基础研究]]负有资助义务，将市场失灵作为国家介入的机械界限。
+> - **1945 — 战后动机论试金石确立** [[Vannevar Bush|万尼瓦尔·布什]]在[[Science, The Endless Frontier 1945]]中确立政府仅对无实用目的的基础研究负有资助义务，将市场失灵作为国家介入的机械界限。
 > - **1997 — 斯托克斯引入应用启发维度** [[Donald Stokes|唐纳德·斯托克斯]]在《[[Pasteur's Quadrant|帕斯德象限]]》中将公共资助扩展至兼顾理解与实用的前沿研究，但仍沿用二分法语汇。
 > - **2013 — 长期公共效用概念正式提出** 纳拉亚纳穆尔提等人在《安息吧：[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]》中正式确立“长期公共效用”作为替代二分法的新准绳，主张对称支持发现与发明。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
 > - **2016–至今 — 任务导向型创新政策全球采纳** 长期公共效用思想深刻融入马祖卡托（Mariana Mazzucato）的“使命导向型创新”（Mission-Oriented Innovation）以及美国《芯片与科学法案》（[[CHIPS and Science Act]]）等当代产业技术政策立法中。
@@ -149,7 +155,7 @@ updated: 2026-10-02
 > [!debates] 核心争议交锋
 >
 > > [!axis] “长期公共效用”界定的[[Operationalization|操作化]]模糊性争议
-> > 相比于“是否属于发表论文的[[Blue Skies Research|基础研究]]”，“长期公共效用”是否更容易被利益集团捕获而沦为政治寻租工具？
+> > 相比于“是否属于发表论文的基础研究”，“长期公共效用”是否更容易被利益集团捕获而沦为政治寻租工具？
 > >
 > > - **新古典经济学与保守派学者质疑** 批评者指出，传统基础研究标准虽然僵化，但具有较强的行政可操作性；“长期公共效用”涵盖广泛，容易导致政府官僚盲目挑选产业技术赢家（Picking Winners），引发产业补贴政治寻租并挤出私营企业的自主[[Investing in Innovation Program|创新投资]]。
 > > - **创新政策与循环理论学者辩护** 纳拉亚纳穆尔提等人强调，长期公共效用并不等同于政府替企业开发特定商品，而是聚焦于跨学科前沿平台、公共[[Megascience Installations|大科学装置]]与共性基础工艺的托底；只要建立严谨的同行专家路线图评估与 10 年以上长周期成果审计，就能有效兼顾战略使命与学术卓越。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]

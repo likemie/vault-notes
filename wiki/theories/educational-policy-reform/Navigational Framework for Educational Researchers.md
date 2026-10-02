@@ -38,7 +38,6 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Technical Rationality]]"
   - "[[Paradigm]]"
-  - "[[Blue Skies Research]]"
   - "[[Scientifically Based Research]]"
   - "[[Research Utilization]]"
   - "[[Document]]"
@@ -210,7 +209,7 @@ updated: 2026-09-26
 > [!theory-boundary] 适用边界
 > - **适合解释** 代表制代议民主体制中，国会/议会委员会立法过程、重大教育法案重新授权、智库游说与专家听证机制。
 > - **谨慎使用** 在高度集权型行政官僚主导的国家，或权力高度下放至分散社区微观学区时，由于立法常设委员会机制缺失，框架需要大幅重构。
-> - **不适合解释** 纯粹学术界内部的学科[[Paradigm\|范式]]争议，或无政治介入空间的纯粹技术性实验室[[Blue Skies Research\|基础研究]]。
+> - **不适合解释** 纯粹学术界内部的学科[[Paradigm\|范式]]争议，或无政治介入空间的纯粹技术性实验室基础研究。
 > - **常见误用** 误以为政策导航框架鼓励学者沦为无原则迎合政治偏见的政治说客；该框架强调的是在严守科学严谨底线的同时，掌握政治世界的语言与时间节律。
 
 ---

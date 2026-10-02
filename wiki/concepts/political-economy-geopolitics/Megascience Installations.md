@@ -21,7 +21,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Going Native]]"
   - "[[Scientific Autarky]]"
-  - "[[Blue Skies Research]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -105,7 +104,7 @@ updated: 2026-09-17
 > > 关于在较弱的科研预算规模下强推单边本土大科学装置是否合理的学术分歧：
 > > 
 > > - **自足立场（技术主权论）** 主张即使面临极高财政压力，在大科学装置（如同步辐射光源、中子源）上实现本土独资建设，能确保在面临外部制裁和封禁时，核心学科（甚至双重用途技术）不会停摆。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 49]])
-> > - **开放立场（财务/要素制约论）** 指出在科研总预算较小的情况下（如俄罗斯研发预算仅为美国的十三分之一），强推本土独资的Megascience项目，会严重挤占其他基础学科（如[[Blue Skies Research\|基础研究]]）的资助，且缺少国际顶尖物理学家的参与，容易使昂贵的装置退化为学术孤岛。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 48–49]])
+> > - **开放立场（财务/要素制约论）** 指出在科研总预算较小的情况下（如俄罗斯研发预算仅为美国的十三分之一），强推本土独资的Megascience项目，会严重挤占其他基础学科（如基础研究）的资助，且缺少国际顶尖物理学家的参与，容易使昂贵的装置退化为学术孤岛。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 48–49]])
 
 ---
 

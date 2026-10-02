@@ -28,7 +28,6 @@ tags:
   - region/us
 related_concepts:
   - "[[Sponsored Research Agreement]]"
-  - "[[Blue Skies Research]]"
   - "[[Evidence-Based Education]]"
   - "[[Whole Language]]"
   - "[[Direct Instruction]]"
@@ -83,7 +82,7 @@ updated: 2026-09-24
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **开放式阅读（Open Court Reading, OCR）** 是由 [[Sponsored Research Agreement\|SRA]]/McGraw-Hill 出版发行的美国学前至小学六年级（Pre-K–6）基础读写与语言艺术综合课程方案，覆盖全美成千上万所小学。在政策与学术脉络中，OCR 兼具双重典型意义：它既是 1990 年代末至 2000 年代初美国联邦通过《[[Reading Excellence Act\|卓越阅读法案]]》与《[[No Child Left Behind Act 2001\|NCLB]]》推行“科学[[Blue Skies Research\|基础研究]]”规制时商业资本与联邦技术官僚深度结盟的政策受益样本，也是当代[[Evidence-Based Education\|循证教育]]元评估中揭示三大清算中心“表面评级一致掩盖底层方法学剧烈冲突”的方法学透镜。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 22–23)]]; [[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, pp. 6, 8–9)]]
+> **开放式阅读（Open Court Reading, OCR）** 是由 [[Sponsored Research Agreement\|SRA]]/McGraw-Hill 出版发行的美国学前至小学六年级（Pre-K–6）基础读写与语言艺术综合课程方案，覆盖全美成千上万所小学。在政策与学术脉络中，OCR 兼具双重典型意义：它既是 1990 年代末至 2000 年代初美国联邦通过《[[Reading Excellence Act\|卓越阅读法案]]》与《[[No Child Left Behind Act 2001\|NCLB]]》推行“科学基础研究”规制时商业资本与联邦技术官僚深度结盟的政策受益样本，也是当代[[Evidence-Based Education\|循证教育]]元评估中揭示三大清算中心“表面评级一致掩盖底层方法学剧烈冲突”的方法学透镜。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 22–23)]]; [[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, pp. 6, 8–9)]]
 
 > [!program-context] 方案背景与制度土壤
 > - **立项时间与历史跨度** 始创于 20 世纪 60 年代，1990 年代中后期被麦格劳-希尔（McGraw-Hill）收购后，借由全美“阅读之战”（Reading Wars）与联邦阅读立法的东风实现全国性爆发式普及，至今仍是美国商业拼读教材的主导品牌之一。

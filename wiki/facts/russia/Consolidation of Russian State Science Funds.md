@@ -21,7 +21,6 @@ tags:
   - "policy/funding"
   - "region/russia"
 related_concepts:
-  - "[[Blue Skies Research]]"
   - "[[Geisteswissenschaften]]"
   - "[[Attrition]]"
   - "[[Scientific Autarky]]"
@@ -43,7 +42,7 @@ updated: 2026-09-29
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2016年至2021年间分阶段实施，由俄罗斯联邦政府主导推动。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 46–47]])
-> - **适用地区 / 对象** 覆盖俄罗斯联邦全境的[[Blue Skies Research\|基础研究]]学者、社会科学与[[Geisteswissenschaften|人文科学]]研究人员。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 46]])
+> - **适用地区 / 对象** 覆盖俄罗斯联邦全境的基础研究学者、社会科学与[[Geisteswissenschaften|人文科学]]研究人员。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 46]])
 > - **问题背景** 在国家财政收支压力增大及加强科技规划行政控制的背景下，官方试图解决原有国家科学基金在项目资助中的行政重复，建立集中化的宏观管理体制。
 > - **制度位置** 重塑了俄罗斯自苏联解体以来建立 of 多元科研竞争性资助格局，将国家资源向单一行政代理人倾斜。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 47]])
 
@@ -52,7 +51,7 @@ updated: 2026-09-29
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 俄罗斯科研基金整合政策取消了多个国家科学基金并列资助的形式，将俄罗斯[[Geisteswissenschaften|人文科学]]基金（RHF）和俄罗斯[[Blue Skies Research\|基础研究]]基金（RFBR）的主体功能及预算并入俄罗斯科学基金（RSF），使RSF成为国家竞争性科研资助的绝对垄断主体。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 46–47]])
+> 俄罗斯科研基金整合政策取消了多个国家科学基金并列资助的形式，将俄罗斯[[Geisteswissenschaften|人文科学]]基金（RHF）和俄罗斯基础研究基金（RFBR）的主体功能及预算并入俄罗斯科学基金（RSF），使RSF成为国家竞争性科研资助的绝对垄断主体。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 46–47]])
 
 > [!policy-design]- 政策设计
 > - **目标** 简化国家科学预算拨款的行政管理流程，消除多头申报与资助重叠，实现国家科研规划的单一意志贯彻。
@@ -65,7 +64,7 @@ updated: 2026-09-29
 ## 时间线
 
 > [!timeline] 整合时间线
-> - **2016** 俄罗斯联邦政府下令撤销俄罗斯[[Geisteswissenschaften|人文科学]]基金（RHF），将其整合并入俄罗斯[[Blue Skies Research\|基础研究]]基金（RFBR），直接导致社科和人文类项目的资助范围与总预算遭到削减。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 46–47]])
+> - **2016** 俄罗斯联邦政府下令撤销俄罗斯[[Geisteswissenschaften|人文科学]]基金（RHF），将其整合并入俄罗斯基础研究基金（RFBR），直接导致社科和人文类项目的资助范围与总预算遭到削减。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 46–47]])
 > - **2021** 联邦政府宣布启动RFBR的重组，取消其最重要的基本基础研究资助通道，并将其全部财务预算与项目划转给俄罗斯科学基金（RSF），基本完成国家级资助垄断化。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 47]])
 
 ---
@@ -74,7 +73,7 @@ updated: 2026-09-29
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 俄罗斯联邦政府，负责发布行政命令推行机构兼并。
-> - **执行主体** 俄罗斯科学基金会（RSF）作为兼并的直接受益者，接收并重构了全部资助方向；俄罗斯[[Blue Skies Research\|基础研究]]基金会（RFBR）则被削减资助权限并交出预算。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 47]])
+> - **执行主体** 俄罗斯科学基金会（RSF）作为兼并的直接受益者，接收并重构了全部资助方向；俄罗斯基础研究基金会（RFBR）则被削减资助权限并交出预算。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 47]])
 > - **适用对象** 俄罗斯科研人员与学术团队，被迫适应高度单一的RSF评价标准与资助渠道。
 > - **政策工具** 行政接管、基金拨款权力合并与评审专家库重组。
 

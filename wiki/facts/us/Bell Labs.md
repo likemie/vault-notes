@@ -24,7 +24,6 @@ tags:
   - theme/science-policy
   - region/us
 related_concepts:
-  - "[[Blue Skies Research]]"
   - "[[Academic Freedom]]"
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
@@ -34,6 +33,7 @@ related_concepts:
   - "[[Long-Term Public Utility]]"
   - "[[Basic-Applied Research Dichotomy]]"
   - "[[Linear Model of Innovation]]"
+  - "[[Blue Skies Research]]"
 related_theories:
   - "[[Discovery-Invention Cycle]]"
   - "[[Organizational Culture]]"
@@ -60,7 +60,7 @@ updated: 2026-10-02
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 贝尔实验室（Bell Telephone Laboratories，简称 Bell Labs）是 20 世纪美国最具代表性的工业研发机构与应用[[Blue Skies Research|基础研究]]圣地，依托母公司美国电话电报公司（AT&T）的电信垄断利润支撑，以解决通信网络现实工程瓶颈为使命，在同一屋檐下融通微观物理学理论与前沿制造工艺，创造了人类信息时代的底层硬件体系。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 33–35)]]
+> 贝尔实验室（Bell Telephone Laboratories，简称 Bell Labs）是 20 世纪美国最具代表性的工业研发机构与应用基础研究圣地，依托母公司美国电话电报公司（AT&T）的电信垄断利润支撑，以解决通信网络现实工程瓶颈为使命，在同一屋檐下融通微观物理学理论与前沿制造工艺，创造了人类信息时代的底层硬件体系。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 33–35)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1925 年由美国电话电报公司（AT&T）与西电公司（Western Electric）工程部合并重组设立，旨在为全美长途电话网络的信号衰减、自动交换与频段扩容提供长远基础研究与器件开发支持。
@@ -130,7 +130,7 @@ updated: 2026-10-02
 > > [!axis] 垄断保护伞与研发资金的可持续性争议
 > > 贝尔实验室长达半个世纪的辉煌究竟源于其优越的[[Organizational Culture|组织文化]]，还是仅仅源于 AT&T 依法享有的国家电信垄断与高额资费补贴？
 > >
-> > - **批评与制度经济学视角** 市场竞争学者指出，贝尔实验室本质上是垄断特许权下的“镀金产物”；在反垄断拆分后，私营竞争性资本无法继续承担无明确商业期限的超长周期应用[[Blue Skies Research|基础研究]]，导致实验室研究规模不可避免地剧烈缩减。
+> > - **批评与制度经济学视角** 市场竞争学者指出，贝尔实验室本质上是垄断特许权下的“镀金产物”；在反垄断拆分后，私营竞争性资本无法继续承担无明确商业期限的超长周期应用基础研究，导致实验室研究规模不可避免地剧烈缩减。
 > > - **科技政策与循环[[Theoretical Perspective|理论视角]]** 纳拉亚纳穆尔提等学者指出，贝尔实验室的衰落正是美国国家创新体系的重大损失；它表明高风险、长周期的关键硬件与底层工艺研发无法单靠私营市场资本自发维系，联邦政府若继续拘泥于基础/应用二分法而拒绝对此类工程硬件研发给予公共资助，将使整个[[Innovation Ecosystem|创新生态]]陷入断链。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
 
 > [!citation-card] 纳拉亚纳穆尔提论工业界基础研究退化与国家创新瓶颈

@@ -31,16 +31,34 @@ tags:
 related_concepts:
   - "[[Basic-Applied Research Dichotomy]]"
   - "[[Linear Model of Innovation]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Epistemology]]"
+  - "[[Long-Term Public Utility]]"
+  - "[[Cultural Hierarchy]]"
+  - "[[Blue Skies Research]]"
+  - "[[Document]]"
+  - "[[Theoretical Knowledge]]"
+  - "[[Evaluation Research]]"
+  - "[[Paradigm]]"
+  - "[[Use-Inspired Basic Research]]"
+  - "[[Conatus]]"
+  - "[[Champ]]"
+  - "[[Teaching Assistant]]"
+  - "[[Return on Investment]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
   - "[[Discovery-Invention Cycle]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[Department of Energy]]"
+  - "[[National Institutes of Health]]"
   - "[[Bell Labs]]"
 related_persons:
   - "[[Vannevar Bush]]"
   - "[[Donald Stokes]]"
   - "[[Venkatesh Narayanamurti]]"
+related_methods:
+  - "[[Analytic Framework]]"
 status: draft
 created: 2026-10-02
 updated: 2026-10-02
@@ -122,7 +140,7 @@ updated: 2026-10-02
 二战后美国科技体制的建立，深刻受制于将学术沉思与动手制作人为对立的思想传统。
 
 > [!theory-origin] 战后科技政策的文化偏见与制度固化
-> - **历史起点与政策基石** 二战结束前夕，[[Vannevar Bush|万尼瓦尔·布什]]在[[Science, The Endless Frontier 1945]]中为战后美国科技体制奠定了基石。布什成功说服政界支持基础科学研究，确立了联邦财政对纯[[Blue Skies Research|基础研究]]的长期资助义务。（pp. 31–32）
+> - **历史起点与政策基石** 二战结束前夕，[[Vannevar Bush|万尼瓦尔·布什]]在[[Science, The Endless Frontier 1945]]中为战后美国科技体制奠定了基石。布什成功说服政界支持基础科学研究，确立了联邦财政对纯基础研究的长期资助义务。（pp. 31–32）
 > - **制度化教条与边界** 联邦政府只对不追求实用目的的基础研究负有资助责任，具体的应用开发则完全交由商业市场自行解决；假定科学发现在实验室产生后会顺流而下自然转化为工业商品。
 > - **文化偏见的[[Epistemology|认识论]]根源** 深层根源在于古老的身心二元论偏见，习惯将动脑思考视作高贵事业，将动手制作贬低为低等技能劳动，武断推定理论认知天然高于技术制造。
 > - **体制机制隔离后果** 人为在制度上割裂了科学家与工程师的日常协作，导致理论探索与工程实践分居互不相通的体制孤岛。（p. 32）
@@ -303,7 +321,7 @@ updated: 2026-10-02
 > 1. **线性模型与二分法脱离了科研实际规律** 二战后基于《科学——[[Science, The Endless Frontier 1945|无尽的前沿]]》建立的二分法[[Paradigm|范式]]，将科研人为划分为两条相互隔离的平行轨道，成为妨碍制定整体性创新战略的体制障碍。（p. 31）
 > 2. **历史事实确证发明与发现能够双向转化** 瓦特蒸汽机对热力学理论的启发，以及半导体异质结构发明直接促成新型量子液体科学发现的历史脉络，有力推翻了理论认知必定先于技术发明的传统教条。（pp. 32–34）
 > 3. **斯托克斯[[Pasteur's Quadrant|帕斯德象限]]未能彻底走出旧话语** 斯托克斯框架虽拓展至二维平面，但分类基础依然停留在个人立项动机层面，且继续沿用二分法术语，未能彻底克服对科学与技术的割裂认知。（p. 32）
-> 4. **确立长远公共效用作为国家资助新准绳** 政府财政介入的合理标准应从是否属于[[Blue Skies Research|基础研究]]转向是否具备长远公共效用。公共研发基金应优先支持那些能够在数十年尺度上消除创新网络瓶颈的重大探索。（p. 36）
+> 4. **确立长远公共效用作为国家资助新准绳** 政府财政介入的合理标准应从是否属于基础研究转向是否具备长远公共效用。公共研发基金应优先支持那些能够在数十年尺度上消除创新网络瓶颈的重大探索。（p. 36）
 
 ---
 

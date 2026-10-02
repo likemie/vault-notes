@@ -24,8 +24,8 @@ related_concepts:
   - "[[Study Population and Sample]]"
   - "[[Research Purpose]]"
   - "[[Research Topic]]"
-  - "[[Blue Skies Research]]"
   - "[[Evaluation Research]]"
+  - "[[Blue Skies Research]]"
   - "[[Praxis]]"
   - "[[Positivism]]"
   - "[[Causality]]"
@@ -77,8 +77,8 @@ updated: 2026-09-17
 
 ### 基础研究与应用研究
 
-> [!contrast-table] [[Blue Skies Research\|基础研究]] vs [[Evaluation Research\|应用研究]]
-> | 维度 | 基础研究（Basic Research） | 应用研究（Applied Research） |
+> [!contrast-table] 基础研究 vs [[Evaluation Research\|应用研究]]
+> | 维度 | 基础研究（[[Blue Skies Research\|Basic Research]]） | 应用研究（Applied Research） |
 > |---|---|---|
 > | 目的 | 认识教育现象，探索本质规律，获取新知识，形成较系统的教育基础理论 | 将基础研究成果转化并应用于[[Praxis\|实践]]，解释教育问题并最终解决实际问题 |
 > | 特点 | 需要整合大量理论资料、占有大量时间、对思维研究能力要求甚高 | 具体化（将基础理论分解并联系实际目标）；实用化（以基础理论为指导，探讨新方法与途径并应用到实际工作中） |

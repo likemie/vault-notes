@@ -76,7 +76,7 @@ updated: 2026-10-02
 > [!dev-timeline] 报告编制与战后体制博弈历程
 > - **1944–1945 — 报告调研与起草** [[Vannevar Bush|万尼瓦尔·布什]]组织四个独立专门委员会（医学研究、自然科学资助、人才发现、战时知识解密）开展高强度起草；1945 年 7 月将报告正式呈交继任总统杜鲁门。
 > - **1945–1950 — 五年立法博弈与阵营对决** 布什主张设立由非政府科学家独立掌控的半自治基金会，而杜鲁门及其行政团队坚持总统任免权与公众民主监督问责，导致杜鲁门于 1947 年否决了第一版法案。1950 年双方达成妥协，杜鲁门签署法案，正式成立[[National Science Foundation|美国国家科学基金会]]（[[National Science Foundation|NSF]]）。
-> - **1950s–1980s — [[Paradigm|范式]]扩散与机构分工固化** 二分法与线性范式成为联邦预算编制的黄金法则；国家科学基金会专司大学基础科学资助，而国防部、能源部与航空航天局等任务机构则在[[Blue Skies Research|基础研究]]与应用技术攻坚的边界上持续经历体制拉扯。
+> - **1950s–1980s — [[Paradigm|范式]]扩散与机构分工固化** 二分法与线性范式成为联邦预算编制的黄金法则；国家科学基金会专司大学基础科学资助，而国防部、能源部与航空航天局等任务机构则在基础研究与应用技术攻坚的边界上持续经历体制拉扯。
 > - **1990s至今 — 系统性反思与范式重构** 唐纳德·斯托克斯（1997）提出[[Pasteur's Quadrant|帕斯德象限]]以修正其动机单维性；纳拉亚纳穆尔提等人（2013）进一步从演化网络与工程使能视角宣告二分法终结，倡导走向[[Discovery-Invention Cycle|发现-发明循环]]模型。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
 
 ---
@@ -84,9 +84,9 @@ updated: 2026-10-02
 ## 关键文献、法案与历史宣言
 
 > [!citation-card] 基础科学作为技术进步源泉的核心宣言
-> [[Blue Skies Research|基础研究]]是技术进步的起搏器。新产品和新工艺并非自发产生，它们建立在新的科学原理和新构想之上，而这些原理必须在最纯粹的科学探索中费力开发出来。如果放弃对纯基础科学的资助，工业界的应用研发很快就会陷入停滞。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
+> 基础研究是技术进步的起搏器。新产品和新工艺并非自发产生，它们建立在新的科学原理和新构想之上，而这些原理必须在最纯粹的科学探索中费力开发出来。如果放弃对纯基础科学的资助，工业界的应用研发很快就会陷入停滞。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
 >
-> *"Basic research is the pacemaker of technological progress... New products and new processes do not appear full-grown. They are founded on new principles and new conceptions, which in turn are painstakingly developed by research in the purest realms of science."*
+> *"[[Blue Skies Research|Basic Research]] is the pacemaker of technological progress... New products and new processes do not appear full-grown. They are founded on new principles and new conceptions, which in turn are painstakingly developed by research in the purest realms of science."*
 
 ---
 
@@ -120,7 +120,14 @@ updated: 2026-10-02
 > [!finding-cards] 关键历史后果
 > - **制度创生：[[National Science Foundation|NSF]] 与现代大学研究体系** 1950 年正式创建国家科学基金会；推动大学研究型实验室形成全球最具规模的基础科学探索网络，为大学-政府-产业三螺旋的形成奠定财政基座。
 > - **话语规制：二分法成为全球政策标准** [[OECD|经济合作与发展组织]]（[[OECD]]）等国际组织在其《弗拉斯卡蒂手册》（*Frascati Manual*）中全面吸收布什报告的基础/应用划分，成为全球统计研发投入的通用准绳。
-> - **政策反思：[[Pasteur's Quadrant|帕斯德象限]]与循环理论的反向重构** 促使当代科技政策界发起长达数十年的反思运动，直接催生了斯托克斯的用启发性[[Blue Skies Research|基础研究]]概念以及纳拉亚纳穆尔提等人的[[Discovery-Invention Cycle|发现-发明循环]]理论。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862–863)]]; [[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–33)]]
+> - **政策反思：[[Pasteur's Quadrant|帕斯德象限]]与循环理论的反向重构** 促使当代科技政策界发起长达数十年的反思运动，直接催生了斯托克斯的用启发性基础研究概念以及纳拉亚纳穆尔提等人的[[Discovery-Invention Cycle|发现-发明循环]]理论。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862–863)]]; [[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–33)]]
+> - **意外后果：大学微观激励异化与体制压力** 布什关于高风险容错、独立学生奖学金与学科均衡发展的三大核心设想在大学后续的主动改造中被逐步侵蚀，演变为软钱模式、博士用工依赖与生物医学过度集中。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 37)]]
+
+> [!stat-cards]- 历史量化事实
+> - **10–15 所** 二战结束时全美仅有能稳定开展高水平科学研究的大学数量。（[[Argument_Stephan_2013_NBER|Stephan, 2013, p. 4]]）
+> - **743 人** 1945 年二战低谷期全美科学与工程博士年毕业总量（相较 1940 年 1618 人腰斩）。（[[Argument_Stephan_2013_NBER|Stephan, 2013, p. 5]]）
+> - **$20M / $50M** 布什报告建议的医学研发与自然科学研发年资助目标峰值上限。（[[Argument_Stephan_2013_NBER|Stephan, 2013, p. 5]]）
+> - **68.1% $\to$ 17.1%** 全美排名前 10 位高校在全美科学工程博士授予总量中所占份额（1920–1924 年至 2011 年），反映战后资助向地方院校的广泛扩散。（[[Argument_Stephan_2013_NBER|Stephan, 2013, p. 12]]）
 
 ---
 
@@ -137,7 +144,7 @@ updated: 2026-10-02
 > > [!axis] 公共研发资助的合法性准绳争论
 > > 各方对政府公共资金究竟应当止步于市场失灵的纯基础探索，还是应深度介入关键工程工艺与战略发明存在深刻分歧。
 > >
-> > - **新古典经济学立场** 恪守布什遗产，坚持政府资助仅限于无法专有化的公共品（[[Blue Skies Research|基础研究]]），防止政府干预扭曲市场竞争。
+> > - **新古典经济学立场** 恪守布什遗产，坚持政府资助仅限于无法专有化的公共品（基础研究），防止政府干预扭曲市场竞争。
 > > - **[[Innovation Ecosystem|创新生态]]学派立场（[[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]]）** 布什报告带来的二分法教条导致了关键硬件工艺与制造工具的“资助断档”；应当以“[[Long-Term Public Utility|长期公共效用]]”彻底取代布什的立项动机分类，对具有战略长远价值的发现与发明予以全方位支持。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
 >
 > > [!axis] 制度遗产的反思：大学适应性改造与体制异化

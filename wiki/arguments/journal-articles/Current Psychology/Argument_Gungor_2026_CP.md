@@ -340,7 +340,7 @@ issuing_organization: ""
 ### 论证步骤五：真实课堂准实验成效显著，彰显常态教学的生态效度
 
 > [!claim] 真实课堂准实验展现出显著高于人工实验室全实验的[[Ecological Validity\|生态效度]]，集体主义文化情境呈现更高适配倾向
-> [[Blue Skies Research\|基础研究]]实验设计类型对效应量产生显著调节（$p = .01$），[[Quasi-Experimental Designs\|准实验设计]]（$ES = 1.11$）显著优于实验室全实验（$ES = 0.00$）；教育阶段、地理区域与发表年份虽未达统计显著，但呈现出高校阶段、非西方情境与近年研究效应量上升的实践规律。（pp. 8–11）
+> 基础研究实验设计类型对效应量产生显著调节（$p = .01$），[[Quasi-Experimental Designs\|准实验设计]]（$ES = 1.11$）显著优于实验室全实验（$ES = 0.00$）；教育阶段、地理区域与发表年份虽未达统计显著，但呈现出高校阶段、非西方情境与近年研究效应量上升的实践规律。（pp. 8–11）
 
 > [!chain-link] 证据到判断
 > - **实验设计调节效应** 基于准实验设计的元分析效应量高达 $ES = 1.11$（$95\%\text{ CI} = [0.72, 1.50], k = 3$），全实验与准实验混合设计呈现中等效应（$ES = 0.69, 95\%\text{ CI} = [0.54, 0.84], k = 19$），而唯一基于严格个体[[Random Assignment\|随机化]]全实验设计的瑞士六年级拼图法研究（Stanczak et al., 2022）效应量为零（$ES = 0.00, 95\%\text{ CI} = [-0.58, 0.58], k = 1$），组间差异显著（$Q_b(2) = 9.83, p = .01$）。（pp. 8–9）
@@ -416,7 +416,7 @@ issuing_organization: ""
 > - **$ES = 0.71$** 合作学习对综合学习产出的加权平均效应量（$95\%\text{ CI} = [0.55, 0.87], k = 23$）。（p. 6）
 > - **$ES = 0.76$** 高阶思维技能（HOTS）效应量（$95\%\text{ CI} = [0.42, 1.11], k = 4$）。（p. 9）
 > - **$ES = 2.04$** 语言学科与 CIRC 技术效应量（$95\%\text{ CI} = [1.05, 3.03]$）。（pp. 8–9）
-> - **$ES = 1.11$** 准实验设计[[Blue Skies Research\|基础研究]]效应量（$95\%\text{ CI} = [0.72, 1.50], k = 3$）。（p. 9）
+> - **$ES = 1.11$** 准实验设计基础研究效应量（$95\%\text{ CI} = [0.72, 1.50], k = 3$）。（p. 9）
 > - **$N = 4954$** 经典失安全系数（临界阈值 $5k + 10 = 125$）。（p. 8）
 > - **$I^2 = 93.70\%$** 效应量总异质性比例（$Q = 349.48, \tau^2 = 0.13$）。（p. 6）
 
@@ -425,7 +425,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card]- [[Meta-meta-analysis\|二阶元分析]]总体结论与调节分化
-> 本研究结果表明，[[Cooperative Learning\|合作学习]]对学习产出具有中等程度的影响（$ES = 0.71, 95\%\text{ CI} = [0.55, 0.87]$）。观察到合作学习对学习产出的影响在统计上因合作学习技术、学科领域以及一阶[[Meta-analysis\|元分析]]研究所涵盖的[[Blue Skies Research\|基础研究]]实验设计类型而异。（p. 1）
+> 本研究结果表明，[[Cooperative Learning\|合作学习]]对学习产出具有中等程度的影响（$ES = 0.71, 95\%\text{ CI} = [0.55, 0.87]$）。观察到合作学习对学习产出的影响在统计上因合作学习技术、学科领域以及一阶[[Meta-analysis\|元分析]]研究所涵盖的基础研究实验设计类型而异。（p. 1）
 >
 > *The results of this study reveal that CL has a moderate effect on learning outcomes (ES = 0.71 [CI = 0.55-0.87]). The impact of CL on learning outcomes was observed to statistically differ according to CL techniques, academic [[Champ\|field]], and the [[Experimental Research\|experimental design]] type of basic studies covered by FOM research.*
 
@@ -445,7 +445,7 @@ issuing_organization: ""
 
 > [!warning] 原文自述局限与[[Research Scope\|研究边界]]
 > 1. **[[Dependent Variable\|因变量]]分类受制于一阶[[Meta-analysis\|元分析]]数据实态** 尽管教育目标理论框架涵盖认知、情感与动作技能三领域，但因一阶元分析中缺乏动作技能实证数据，导致本研究被迫排除了动作技能领域。
-> 2. **教学技术分类无法在[[Blue Skies Research\|基础研究]]层面深度穿透** 纳入的一阶元分析多按研究产出而非严格按具体教学技术系统[[Coding in Qualitative Research\|编码]][[Effect Size\|效应量]]，限制了直接断言某项技术绝对优于另一项技术的推断效度。
+> 2. **教学技术分类无法在基础研究层面深度穿透** 纳入的一阶元分析多按研究产出而非严格按具体教学技术系统[[Coding in Qualitative Research\|编码]][[Effect Size\|效应量]]，限制了直接断言某项技术绝对优于另一项技术的推断效度。
 > 3. **缺失干预持续周期（Implementation Duration）数据** 纳入的一阶元分析普遍未报告干预时长数据，导致无法将实施周期长短作为调节[[Variable\|变量]]进行检验。
 > 4. **软科学[[Sample Size Determination\|样本量]]严重不足与合成图景失衡** 语言、社会科及体育学科各仅有 1 项一阶元分析，导致学科特定结论解释需保持高度审慎，暴露出当前元分析合成领域的严重失衡。
 > 5. **语言与地理区域集中度偏高** 检索主要基于英文发表[[Document\|文献]]，且样本高度集中于印尼与土耳其，存在潜在的地点与语言偏倚。

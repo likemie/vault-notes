@@ -91,7 +91,7 @@ updated: 2026-09-13
 >   1. **研究者主导项目（Investigator-driven projects）** 旨在产出高质量、高相关性的原创学术成果并化解研究碎片化，资助博士与博士后流动站、国家级及国际科研合作；
 >   2. **用户主导项目（User-driven projects）** 聚焦教育系统创新与实践改善的迫切议题，为一线科研人员与实践者提供基于教学现场的技能培训与能力建设；
 >   3. **用户参与项目（Projects with users' participation）** 由研究人员与一线用户共同联合立项、联合识别实践需求并合作执行，以此增进学术共同体对教育行业的实务认知，培育一线实践者的科研转化素养。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 115)]]
-> - **国家级协作平台功能** FINNUT 不仅是资助渠道，更作为国家级合作交流竞技场（National Cooperative Arena），直接联通学术研究团队、中央与地方公共行政机构及全行业组织，实质性弥合战略[[Blue Skies Research\|基础研究]]、[[Evaluation Research\|应用研究]]与教学创新之间的鸿沟。
+> - **国家级协作平台功能** FINNUT 不仅是资助渠道，更作为国家级合作交流竞技场（National Cooperative Arena），直接联通学术研究团队、中央与地方公共行政机构及全行业组织，实质性弥合战略基础研究、[[Evaluation Research\|应用研究]]与教学创新之间的鸿沟。
 > - **强制性传播与转化规约** 项目设立明确的成果定向分发机制；所有受资助课题团队均被赋予明确法定义务，必须制定专项传播规划（Communication and Dissemination Plans），主动向一线目标群体持续汇报与普及科研发现。
 
 > [!citation-card] 资助结构与国家协作平台定位
@@ -120,7 +120,7 @@ updated: 2026-09-13
 
 > [!pathways]- 实施路径与管理
 > - **纵向传导与支持** 顶层设计依托工作规划确立四大支柱领域，通过公开课题指南（Calls for Proposals）将国家宏观战略目标分解为具体资助课题，并强制受资助课题制定成果传播规划。
-> - **横向跨部门协同** 搭建国家级跨界竞技场（National Cooperative Arena），打破战略[[Blue Skies Research\|基础研究]]（Strategic Basic Research）、[[Evaluation Research\|应用研究]]（Applied Research）与教学现场创新之间的条块分割。
+> - **横向跨部门协同** 搭建国家级跨界竞技场（National Cooperative Arena），打破战略基础研究（Strategic [[Blue Skies Research|Basic Research]]）、[[Evaluation Research\|应用研究]]（Applied Research）与教学现场创新之间的条块分割。
 > - **动态反馈与调整** 通过中期审查与跨国政策调研动态微调项目评审准则，兼顾国际同行评议科学严谨性与一线教育实践相关性。
 
 ---

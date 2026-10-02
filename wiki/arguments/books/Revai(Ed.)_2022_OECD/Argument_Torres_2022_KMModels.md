@@ -46,7 +46,6 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Knowledge Production]]"
   - "[[Professional Judgment]]"
-  - "[[Blue Skies Research]]"
   - "[[Research Impact]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Construct]]"
@@ -234,7 +233,7 @@ Lavis et al. (2003) 在应用卫生与社会经济政策领域提出了极具组
 
 > [!feature] 知识转移战略框架的五问核心构件（Lavis et al., 2003）
 > - **传达什么？（信息）**
->   研究机构必须传递源自广泛研究[[Document\|文献]]、具有行动指导意义的核心信息，而非单一研究结论。并非所有研究都能或应当直接影响决策，[[Blue Skies Research\|基础研究]]在识别问题与发展方法上的价值同样需被承认。
+>   研究机构必须传递源自广泛研究[[Document\|文献]]、具有行动指导意义的核心信息，而非单一研究结论。并非所有研究都能或应当直接影响决策，基础研究在识别问题与发展方法上的价值同样需被承认。
 > - **传给谁？（目标受众）**
 >   将受众划分为公众/服务接受者、服务提供者、管理决策者与政策制定者四类。受众的决策情境与环境特征直接决定了传播格式与后续要素的设计。
 > - **由谁传递？（传递者）**

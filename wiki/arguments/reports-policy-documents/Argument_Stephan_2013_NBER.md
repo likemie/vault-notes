@@ -24,7 +24,6 @@ related_concepts:
   - "[[Soft-Money Faculty Model]]"
   - "[[Shopping Mall Model of Research Universities]]"
   - "[[Document]]"
-  - "[[Blue Skies Research]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Absorptive Capacity]]"
 related_theories:
@@ -139,7 +138,7 @@ issuing_organization: "National Bureau of Economic Research"
 ### 论证步骤一　战后初期联邦政府主导建立大学科研能力且资助高度集中于顶尖名校
 
 > [!claim] 步骤一核心主张
-> 二战结束时全美仅有少数大学具备[[Blue Skies Research|基础研究]]能力；在 1940 与 1950 年代，联邦政府主动设立机构、招募课题并提供独立奖学金来扶持大学，早期研发资金呈现出高度集中于顶尖名校的特征。（pp.4–11）
+> 二战结束时全美仅有少数大学具备基础研究能力；在 1940 与 1950 年代，联邦政府主动设立机构、招募课题并提供独立奖学金来扶持大学，早期研发资金呈现出高度集中于顶尖名校的特征。（pp.4–11）
 #### 1. 战后严峻的科研人才短缺与联邦机构的主动动员
 
 二战结束之际，美国面临极度匮乏的基础科学研究能力。全国仅有 10 到 15 所大学能够稳定开展高水平科学研究，战前联邦政府几乎不对大学科研提供直接常规资助（pp.4–5）。
@@ -153,7 +152,7 @@ issuing_organization: "National Bureau of Economic Research"
 为了应对科研能力断层的国家危机，[[Vannevar Bush|万尼瓦尔·布什]]在报告中勾勒了联邦资助的顶层契约，而早期执行机构则积极开展主动动员（pp.4–10）。
 
 > [!policy-design] 布什报告的制度构想与早期联邦机构的主动动员
-> - **政策目标** 由联邦出资支持大学开展高风险、不可预测的纯[[Blue Skies Research|基础研究]]，并在自由探索环境中培养科学后备英才。（pp.4–5）
+> - **政策目标** 由联邦出资支持大学开展高风险、不可预测的纯基础研究，并在自由探索环境中培养科学后备英才。（pp.4–5）
 > - **适用对象与规模** 面向具备研究潜力的大学与学者；建议资助规模相当克制（医学每年 500 万至 2000 万美元，自然科学每年 1000 万至 5000 万美元）。（p.5）
 > - **关键资助机制** 坚持项目研究与人才培养严格分离，主张通过独立的本科、研究生与博士后奖学金资助学者，绝不将奖学金绑定于具体实验项目。（p.5）
 > - **执行动员策略** 早期 [[National Institutes of Health|NIH]] 官员弗雷德·斯通差旅逾 20 万英里动员学者申报，新成立的 [[National Science Foundation|NSF]] 专职设立科学人才司发放独立博士生奖学金。（pp.7, 9–10）

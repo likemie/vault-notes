@@ -23,7 +23,6 @@ related_concepts:
   - "[[Student Satisfaction]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Blue Skies Research]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Knowledge Production]]"
   - "[[Competitiveness]]"
@@ -129,7 +128,7 @@ updated: 2026-05-20
 ## 作为地缘政治机制
 
 > [!success]
-> 排名不仅反映、也再生产全球高等教育的不平等秩序。Hazelkorn（2018, p.10）指出，排名"主要测量[[Blue Skies Research\|基础研究]]和传播——在有限的领域、以传统的方式——它们为精英大学和国家提供了竞争优势，这些国家和机构受益于数十年甚至数世纪积累的公共和/或私人财富和投资。它们反映了世界经济和全球科学的结构"([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.126]])。
+> 排名不仅反映、也再生产全球高等教育的不平等秩序。Hazelkorn（2018, p.10）指出，排名"主要测量基础研究和传播——在有限的领域、以传统的方式——它们为精英大学和国家提供了竞争优势，这些国家和机构受益于数十年甚至数世纪积累的公共和/或私人财富和投资。它们反映了世界经济和全球科学的结构"([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.126]])。
 
 排名通过以下机制运作于[[Geopolitics of Higher Education|高等教育地缘政治]]之中([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.137–138]])：
 

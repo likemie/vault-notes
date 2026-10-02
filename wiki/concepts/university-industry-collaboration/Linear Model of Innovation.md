@@ -16,7 +16,6 @@ tags:
   - theme/research-policy
 related_concepts:
   - "[[Evaluation Research]]"
-  - "[[Blue Skies Research]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Epistemology]]"
   - "[[Conatus]]"
@@ -24,6 +23,7 @@ related_concepts:
   - "[[Theoretical Knowledge]]"
   - "[[Chain-linked Model]]"
   - "[[Innovation Models Evolution]]"
+  - "[[Blue Skies Research]]"
   - "[[Long-Term Public Utility]]"
   - "[[Hypothesis]]"
   - "[[Causality]]"
@@ -61,7 +61,7 @@ updated: 2026-10-02
 ## 定义
 
 > [!def] 核心定义
-> 线性创新模型（Linear Model of Innovation）是一种预设创新过程遵循从基础科学、[[Evaluation Research|应用研究]]、技术开发到市场商业化单向因果链条的概念模型。其基本公式为：[[Blue Skies Research|基础研究]] → 应用研究 → 技术开发 → 商业生产 → 经济社会福祉。[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》等战后政策话语将其确立为全球科技资源配置的主导理论依据，假定公共财政对基础科学的投入是产业创新与经济增长的充分且[[Necessary and Sufficient Conditions|必要条件]]，将基础科学置于创新价值链的绝对主导地位；随后受到创新研究界（Innovation Studies）与科学技术史学家的系统性质疑。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862–863)]]
+> 线性创新模型（Linear Model of Innovation）是一种预设创新过程遵循从基础科学、[[Evaluation Research|应用研究]]、技术开发到市场商业化单向因果链条的概念模型。其基本公式为：基础研究 → 应用研究 → 技术开发 → 商业生产 → 经济社会福祉。[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》等战后政策话语将其确立为全球科技资源配置的主导理论依据，假定公共财政对基础科学的投入是产业创新与经济增长的充分且[[Necessary and Sufficient Conditions|必要条件]]，将基础科学置于创新价值链的绝对主导地位；随后受到创新研究界（Innovation Studies）与科学技术史学家的系统性质疑。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862–863)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种单向、自上而下、由科学单向推导技术的创新[[Epistemology|认识论假设]]。
@@ -126,7 +126,7 @@ updated: 2026-10-02
 > **大学使命异化与欧洲悖论** 线性模型诱导政策制定者将大学狭隘地改造为专利生产流水线与商业孵化器，削弱了大学培养高素质批判性人才这一更为根本的知识扩散功能；在[[Total Factor Productivity|全要素生产率]]未达预期时又盲目指责大学转化不力，陷入政策逻辑闭环陷阱。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862, 866–867)]]
 
 > [!claim] Narayanamurti, V. et al.
-> **关键战略发明的资助断档危机** 政策制定者将线性模型与新古典经济学的市场失灵理论捆绑，规定公共财政只能资助纯[[Blue Skies Research|基础研究]]，而技术发明必须交由市场承担；然而需要长期积累、极高资金密度的根本性硬件工艺与工具发明，由于投资回收期长达数十年，私营企业无力承担，政府又因其不是纯科学而拒绝资助，导致国家[[Innovation Ecosystem|创新生态]]发生灾难性的结构性断裂。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
+> **关键战略发明的资助断档危机** 政策制定者将线性模型与新古典经济学的市场失灵理论捆绑，规定公共财政只能资助纯基础研究，而技术发明必须交由市场承担；然而需要长期积累、极高资金密度的根本性硬件工艺与工具发明，由于投资回收期长达数十年，私营企业无力承担，政府又因其不是纯科学而拒绝资助，导致国家[[Innovation Ecosystem|创新生态]]发生灾难性的结构性断裂。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
 
 ---
 
@@ -145,7 +145,7 @@ updated: 2026-10-02
 > [!dev-timeline] 概念演变
 > - **1939 — 量化倡议初兴** 约翰·德斯蒙德·贝尔纳（John Desmond Bernal）测算了英国研发费用占国民生产总值的比例，首次系统性地从政策层面提出扩大科学经费投入以推动经济增长的量化主张。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 862)]]
 > - **1945 — 政策[[Paradigm|范式]]确立** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）向美国总统提交《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》报告，将基础科学描述为技术进步的终极源泉，确立了二战后西方国家科研资助体系的线性底色。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
-> - **1950s末 — 经济学理论论证** 理查德·尼尔森（Richard Nelson）与肯尼斯·阿罗（Kenneth Arrow）运用公共品理论论证了基础科学知识的非排他性与非竞争性，为政府主导[[Blue Skies Research|基础研究]]资助提供了经济学正当性，但也无意中强化了基础（公共）与应用（市场）的割裂。
+> - **1950s末 — 经济学理论论证** 理查德·尼尔森（Richard Nelson）与肯尼斯·阿罗（Kenneth Arrow）运用公共品理论论证了基础科学知识的非排他性与非竞争性，为政府主导基础研究资助提供了经济学正当性，但也无意中强化了基础（公共）与应用（市场）的割裂。
 > - **1986 — [[Chain-linked Model|链式模型]]反驳** 斯蒂芬·克莱因（Stephen Kline）与内森·罗森伯格（Nathan Rosenberg）提出链式创新模型，系统论证创新始于市场与设计试错，基础研究并非线性起点。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 863)]]
 > - **1997 — [[Pasteur's Quadrant|帕斯德象限]]二维修正** [[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes）提出二维动机矩阵，打破单一维度，确立用启发性基础研究的正统地位。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
 > - **2000s — 政策惯性与反思** 欧盟[[Lisbon Strategy|里斯本议程]]设立研发占比 3% 的巴塞罗那目标；然而欧洲悖论的蔓延促使若昂·卡拉萨等人（2009）提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，警惕大学专利化扭曲。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 861–865)]]

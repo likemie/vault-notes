@@ -43,7 +43,6 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Variable]]"
-  - "[[Blue Skies Research]]"
   - "[[Knowledge Mediation]]"
   - "[[Knowledge Transfer]]"
 related_theories: []
@@ -204,7 +203,7 @@ updated: 2026-09-26
 > > - **系统复杂性学者** 坚称将知识转化还原为简单的双向沟通严重低估了官僚体系的阻力，唯有系统论视角才能抓住政策运行的本质。
 >
 > > [!axis] 知识转化漏斗的理性主义色彩
-> > Graham et al. (2006) 的 KTA 漏斗模型是否暗含了从[[Blue Skies Research\|基础研究]]到工具研发的线性演进假定。
+> > Graham et al. (2006) 的 KTA 漏斗模型是否暗含了从基础研究到工具研发的线性演进假定。
 > >
 > > - **实证转化论者** 认为漏斗清晰刻画了知识逐步蒸馏、去粗取精并具象化为临床与教学指南的必然过程。
 > > - **系统论批判学者** 指出实践现场的知识往往直接生发于行动者的试错与默会经验，漏斗模型在很大程度上仍未能摆脱研究生产端主导的先验偏见。[[Argument_Torres_2022_KMModels\|(Torres, 2022, pp. 44–46)]]

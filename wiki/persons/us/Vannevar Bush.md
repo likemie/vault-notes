@@ -7,7 +7,7 @@ summary: "美国电机工程师、科技管理者与战后科技政策奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
+  - "[[Soft-Money Faculty Model]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
   - "[[Discovery-Invention Cycle]]"
@@ -36,6 +37,7 @@ related_instruments: []
 related_persons:
   - "[[Donald Stokes]]"
   - "[[Venkatesh Narayanamurti]]"
+  - "[[Paula Stephan]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
@@ -46,6 +48,7 @@ related_facts:
   - "[[Bell Labs]]"
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
+  - "[[Argument_Stephan_2013_NBER]]"
 confidence: high
 status: active
 created: 2026-10-02
@@ -92,9 +95,9 @@ updated: 2026-10-02
 >   - **代表著作** *As We May Think* (Atlantic Monthly, 1945)。
 >   - **关键概念／方法** 战时合同外包制、Memex 超文本概念原型、军工产学大协同。
 >   - **阶段转向** 认识到国家财政集中投资对于催生颠覆性科技成果具有不可替代的战略威力。
-> - **1945–1950s — 战后和平时期国家科学契约奠基期** 为摆脱战时军方严格管制、确保高校科学家[[Academic Freedom|学术自由]]与长期财政保障，建构[[Blue Skies Research|基础研究]]神圣性叙事。
+> - **1945–1950s — 战后和平时期国家科学契约奠基期** 为摆脱战时军方严格管制、确保高校科学家[[Academic Freedom|学术自由]]与长期财政保障，建构基础研究神圣性叙事。
 >   - **代表著作** *[[Science, The Endless Frontier 1945|Science, The Endless Frontier]]* (1945)。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
->   - **关键概念／方法** 基础研究（Basic Research）、[[Evaluation Research|应用研究]]（Applied Research）、科技蓄水池假说、国家科学基金会。
+>   - **关键概念／方法** 基础研究（[[Blue Skies Research|Basic Research]]）、[[Evaluation Research|应用研究]]（Applied Research）、科技蓄水池假说、国家科学基金会。
 >   - **阶段转向** 在政治游说中策略性地将纯求知的基础研究与商业化应用开发做严格切割，奠定了基础/应用二分法与单向线性模型的制度教条。
 
 ---
@@ -102,12 +105,12 @@ updated: 2026-10-02
 ## 核心思想
 
 > [!claim] 核心主张
-> 基础科学研究是国家技术进步与经济繁荣的源头蓄水池；[[Blue Skies Research|基础研究]]的本质特征在于完全不追求任何具体实际目标与商业应用，必须赋予科研人员绝对的学术探索自由；联邦政府的核心职责是提供稳定且无干预的财政经费保障高校纯基础研究，而应用转化与工业开发则应当完全交由私营市场自发完成。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
+> 基础科学研究是国家技术进步与经济繁荣的源头蓄水池；基础研究的本质特征在于完全不追求任何具体实际目标与商业应用，必须赋予科研人员绝对的学术探索自由；联邦政府的核心职责是提供稳定且无干预的财政经费保障高校纯基础研究，而应用转化与工业开发则应当完全交由私营市场自发完成。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
 
 > [!citation-card] 布什论基础科学作为国家创新的活水之源
 > 基础研究是在完全不考虑实际用途的情况下开展的。它产生的是一般性的知识以及对自然及其规律的深刻理解。这种普遍性知识提供了解答大量重要实用问题的方法，尽管它本身可能无法为其中任何一个问题给出完整的最终答案。基础研究就是科技资本的源泉，是所有技术进步的活水之源。
 >
-> *"Basic research is performed without thought of practical ends. It results in general knowledge and an understanding of nature and its laws... Basic research is the pacemaker of technological progress."*
+> *"[[Blue Skies Research|Basic Research]] is performed without thought of practical ends. It results in general knowledge and an understanding of nature and its laws... Basic research is the pacemaker of technological progress."*
 
 ---
 
@@ -116,7 +119,7 @@ updated: 2026-10-02
 > [!influence-path] 影响路径
 > - **政策与机构路径** 直接促成了[[National Science Foundation|美国国家科学基金会]]（NSF）的建立，确立了同行评议与大学同行自主管理的资助体制；为战后国立卫生研究院（[[National Institutes of Health|NIH]]）、能源部（[[Department of Energy|DOE]]）及国防部高级研究计划局（[[DARPA]]）的多机构竞争性格局奠定了母体框架。
 > - **高等教育路径** 使美国顶尖研究型大学由战前的教学本位彻底转变为依托联邦科研经费的研究本位体系，开创了战后美国大学在全球前沿学科的长期垄断地位。
-> - **理论[[Paradigm|范式]]路径** 其倡导的“[[Blue Skies Research|基础研究]] $\rightarrow$ [[Evaluation Research|应用研究]] $\rightarrow$ 开发制造”单向序列被[[OECD|经合组织]]（OECD）《弗拉斯卡蒂手册》采纳为全球研发统计标准，成为战后主导半个多世纪科技政策的“线性模型”。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
+> - **理论[[Paradigm|范式]]路径** 其倡导的“基础研究 $\rightarrow$ [[Evaluation Research|应用研究]] $\rightarrow$ 开发制造”单向序列被[[OECD|经合组织]]（OECD）《弗拉斯卡蒂手册》采纳为全球研发统计标准，成为战后主导半个多世纪科技政策的“线性模型”。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统反思并批判布什报告在战后制度化的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]，揭示其深植于西方贬低动手制作的文化偏见，论证该线性[[Hypothesis|假设]]已成为阻碍当代美国国家创新政策演进的体制障碍。
@@ -128,7 +131,8 @@ updated: 2026-10-02
 > [!person-network] 关系网络
 > - **政治委托人** 富兰克林·罗斯福（Franklin D. Roosevelt）、哈里·杜鲁门（Harry S. Truman） — 报告的委托总统与接收总统。
 > - **战后制度继承与反思者** [[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes） — 1997 年提出[[Pasteur's Quadrant|帕斯德象限]]以打破布什报告的一维滑动轴，但在分类语汇上仍保留了布什的旧术语。
-> - **当代全面批判者** [[Venkatesh Narayanamurti|文卡泰什·纳拉亚纳穆尔提]]（Venkatesh Narayanamurti） — 2013 年撰文宣告布什二分法终结，提出[[Discovery-Invention Cycle|发现-发明循环]]理论以取代布什的单向流水线假说。
+> - **当代科技创新批判者** [[Venkatesh Narayanamurti|文卡泰什·纳拉亚纳穆尔提]]（Venkatesh Narayanamurti） — 2013 年撰文宣告布什二分法终结，提出[[Discovery-Invention Cycle|发现-发明循环]]理论以取代布什的单向流水线假说。
+> - **高校科研契约反思者** [[Paula Stephan|保拉·斯蒂芬]]（Paula Stephan） — 2013 年系统考察战后大学对布什契约的能动改造与异化，揭示布什关于高风险容错、独立学生奖学金与学科均衡设想的迷失。
 > - **核心关联文本与机构** [[Science, The Endless Frontier 1945]]、[[National Science Foundation|美国国家科学基金会]]（NSF）、[[Bell Labs|贝尔实验室]]。
 
 ---
@@ -138,7 +142,13 @@ updated: 2026-10-02
 > [!debates] 学术争议
 >
 > > [!axis] 线性创新假说的历史失实与体制割裂
-> > 布什报告所奠定的[[Blue Skies Research|基础研究]]至上主义是否扭曲了真实的技术演进规律？
+> > 布什报告所奠定的基础研究至上主义是否扭曲了真实的技术演进规律？
 > >
 > > - **科学技术史与政策学者批评** 纳拉亚纳穆尔提等人指出，布什将科学与技术人为割裂为两条平行轨道，忽视了瓦特蒸汽机启发热力学、半导体异质结构发明催生量子物理发现等工程先于理论的历史事实；这种划分强化了轻视工艺制作的文化偏见，导致美国在长周期关键战略硬件制造与先进制造工艺上面临政府不愿投、市场投不起的系统性断裂。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
 > > - **历史语境主义辩护** 科技政策史学家指出，布什在 1945 年提出极端的“纯基础研究免受实用干扰”假定，在当时具有极其紧迫的政治防御意图：旨在阻止战后联邦官僚与军方对大学[[Academic Freedom|学术自由]]的过度管控，为战后美国学术界争取到了历史上空前慷慨且不受政治干预的自由资助空间。
+>
+> > [!axis] 布什所播之种 vs 大学能动改造：当代学术危机的历史归因
+> > 当代研究型大学科研系统面临的避险风气、博士生产过剩与学科失衡，究竟应当归咎于布什的顶层设计，还是大学的主动策略？
+> >
+> > - **外生政策归因论** 传统观点认为，布什确立的竞争性同行评议立项体制本身强化了锦标赛竞争，直接导致了大学被动卷入追求外部经费与量化指标的囚徒困境。
+> > - **大学主动重构论（[[Argument_Stephan_2013_NBER|Stephan, 2013]]）** 经济学家[[Paula Stephan|保拉·斯蒂芬]]指出，战后科研契约的转变主要是由大学自身主导推进的。大学管理层与教师自 1960 年代起主动争取以联邦课题报销专任薪酬（催生[[Soft-Money Faculty Model|软钱教职模式]]）、争取更高间接成本补偿以扩建校舍，并将学生奖学金异化为课题常规用工；布什关于“大学资助高风险研究、以独立奖学金资助研究生、保持医学与其他学科平衡”的三大洞见在大学的自利性适应中被彻底抛弃。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 37)]]

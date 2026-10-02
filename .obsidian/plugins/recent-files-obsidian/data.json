@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "National Science Foundation",
-      "path": "wiki/facts/us/National Science Foundation.md"
-    },
-    {
       "basename": "Argument_Stephan_2013_NBER",
       "path": "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
+    },
+    {
+      "basename": "Blue Skies Research",
+      "path": "wiki/concepts/educational-policy-reform/Blue Skies Research.md"
+    },
+    {
+      "basename": "Department of Energy",
+      "path": "wiki/facts/us/Department of Energy.md"
+    },
+    {
+      "basename": "Paula Stephan",
+      "path": "wiki/persons/us/Paula Stephan.md"
+    },
+    {
+      "basename": "Shopping Mall Model of Research Universities",
+      "path": "wiki/concepts/higher-education/Shopping Mall Model of Research Universities.md"
+    },
+    {
+      "basename": "Soft-Money Faculty Model",
+      "path": "wiki/concepts/higher-education/Soft-Money Faculty Model.md"
+    },
+    {
+      "basename": "Academic Capitalism",
+      "path": "wiki/theories/higher-education/Academic Capitalism.md"
+    },
+    {
+      "basename": "Externalization",
+      "path": "wiki/concepts/comparative-education/Externalization.md"
+    },
+    {
+      "basename": "Vannevar Bush",
+      "path": "wiki/persons/us/Vannevar Bush.md"
+    },
+    {
+      "basename": "National Institutes of Health",
+      "path": "wiki/facts/us/National Institutes of Health.md"
+    },
+    {
+      "basename": "National Science Foundation",
+      "path": "wiki/facts/us/National Science Foundation.md"
     },
     {
       "basename": "PhD Overproduction in Science",
@@ -19,10 +55,6 @@
     {
       "basename": "Argument_Ryabyy_2024_Maneto",
       "path": "wiki/arguments/journal-articles/Maneto The Temple University Multi-Disciplinary Undergraduate Research Journal/Argument_Ryabyy_2024_Maneto.md"
-    },
-    {
-      "basename": "Vannevar Bush",
-      "path": "wiki/persons/us/Vannevar Bush.md"
     },
     {
       "basename": "Argument_Narayanamurti_2013_IST",
@@ -167,38 +199,6 @@
     {
       "basename": "Scholiocentric Approach",
       "path": "wiki/concepts/comparative-education/Scholiocentric Approach.md"
-    },
-    {
-      "basename": "Scientism",
-      "path": "wiki/concepts/educational-philosophy/Scientism.md"
-    },
-    {
-      "basename": "Nicholas Hans",
-      "path": "wiki/persons/uk/Nicholas Hans.md"
-    },
-    {
-      "basename": "Problem Approach",
-      "path": "wiki/methods/qualitative/Problem Approach.md"
-    },
-    {
-      "basename": "Social Science as Legitimation Alibi",
-      "path": "wiki/concepts/educational-policy-reform/Social Science as Legitimation Alibi.md"
-    },
-    {
-      "basename": "Argument_Kazamias_2009_ForgottenThemes",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_ForgottenThemes.md"
-    },
-    {
-      "basename": "Empiricism",
-      "path": "wiki/concepts/educational-philosophy/Empiricism.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md"
-    },
-    {
-      "basename": "Determinism",
-      "path": "wiki/concepts/educational-philosophy/Determinism.md"
     }
   ],
   "omittedPaths": [],

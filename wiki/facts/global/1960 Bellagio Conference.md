@@ -24,7 +24,6 @@ related_concepts:
   - "[[Development Turn in Comparative Education]]"
   - "[[Paradigm]]"
   - "[[Policy Brokerage]]"
-  - "[[Blue Skies Research]]"
   - "[[Growth]]"
   - "[[Soft Power]]"
   - "[[Bildung]]"
@@ -38,6 +37,7 @@ related_concepts:
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
+  - "[[Memos]]"
   - "[[Manpower Requirements Approach]]"
 related_instruments: []
 related_persons:
@@ -78,7 +78,7 @@ updated: 2026-09-12
 
 > [!dev-timeline]- 事件推进历程
 > - **1959–1960 — 危机酝酿与跨学科筹备**
->   - 洛克菲勒基金会联合[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]（OEEC）理事会，选定贝拉吉奥作为秘密学术与[[Policy Brokerage\|政策中介]]孵化基地，邀请芝加哥大学舒尔茨等顶尖经济学家起草关于教育与经济生产力的[[Blue Skies Research\|基础研究]]备忘录。
+>   - 洛克菲勒基金会联合[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]（OEEC）理事会，选定贝拉吉奥作为秘密学术与[[Policy Brokerage\|政策中介]]孵化基地，邀请芝加哥大学舒尔茨等顶尖经济学家起草关于教育与经济生产力的基础[[Memos|研究备忘录]]。
 > - **1960-06 — 贝拉吉奥峰会召开与[[Paradigm\|范式]]对决**
 >   - 经济学家与传统教育官僚展开交锋：舒尔茨系统提出[[Human Capital Theory\|人力资本]]概念，瓦齐与刘易斯论证教育投入对国民生产总值的直接拉动效应；会议达成一致共识，正式确立“教育是生产性经济投资”的西方共同施政纲领。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - **1961–1968 — 成果制度化与全球危机叙事三部曲演进**

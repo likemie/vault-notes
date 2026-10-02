@@ -19,15 +19,31 @@ tags:
 related_concepts:
   - "[[Basic-Applied Research Dichotomy]]"
   - "[[Linear Model of Innovation]]"
+  - "[[Pragmatic Paradigm]]"
+  - "[[Hypothesis]]"
+  - "[[Variable]]"
+  - "[[Research Topic]]"
+  - "[[Evaluation Research]]"
+  - "[[Epistemology]]"
+  - "[[Research Question]]"
+  - "[[Unit of Analysis]]"
+  - "[[Reliability]]"
+  - "[[Return on Investment]]"
+  - "[[Ontology]]"
+  - "[[Academic Freedom]]"
 related_theories:
   - "[[Discovery-Invention Cycle]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Donald Stokes]]"
   - "[[Vannevar Bush]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[Brookings Institution]]"
+  - "[[DARPA]]"
+  - "[[National Institutes of Health]]"
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
 confidence: medium
@@ -43,7 +59,7 @@ updated: 2026-10-02
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **概念定性** 帕斯德象限（Pasteur's Quadrant）是美国普林斯顿大学政治学者[[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes）在其 1997 年遗著《帕斯德象限：基础科学与技术创新》中提出的科研分类理论；旨在打破[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）[[Science, The Endless Frontier 1945]]以来统治科技政策的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]与单向[[Linear Model of Innovation|线性创新模型]]，以二维动机矩阵确立了用启发性[[Blue Skies Research|基础研究]]的正统合法地位。
+> - **概念定性** 帕斯德象限（Pasteur's Quadrant）是美国普林斯顿大学政治学者[[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes）在其 1997 年遗著《帕斯德象限：基础科学与技术创新》中提出的科研分类理论；旨在打破[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）[[Science, The Endless Frontier 1945]]以来统治科技政策的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]与单向[[Linear Model of Innovation|线性创新模型]]，以二维动机矩阵确立了用启发性基础研究的正统合法地位。
 > - **解释对象** 科学研究者的立项动机结构、科研活动的属性分类，以及国家公共研发资金在基础探索与应用开发之间的配置合法性。
 > - **理论问题** 破解传统将“纯粹学术求知”与“实用技术目标”对立起来的一维二元轴，回应政策制定者将应用考量等同于损害科学自由与纯洁性的教条主义。
 > - **理论类型** 科研分类框架、科技政策规范理论与科学社会学分析模型。
@@ -94,7 +110,7 @@ updated: 2026-10-02
 > **应用实例** 曼哈顿工程中的理论物理学家，在极其具体的核武器工程研制目标的倒逼下，极大地深化了中子输运理论、状态方程与流体力学非线性计算的前沿理论认知。
 
 > [!theory-proposition] 命题二｜帕斯德象限研究应成为国家创新政策与公共研发资助的战略重心
-> **解释** 斯托克斯主张，纯[[Blue Skies Research|基础研究]]（玻尔象限）往往周期漫长且方向难以预测，纯[[Evaluation Research|应用研究]]（爱迪生象限）易于被私营部门资本化，而帕斯德象限既能产生惠及全人类的基础公共知识，又能直接针对重大国家战略需求产出解决方案，因此构成了政府科技投资最理想的重点支持领域。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
+> **解释** 斯托克斯主张，纯基础研究（玻尔象限）往往周期漫长且方向难以预测，纯[[Evaluation Research|应用研究]]（爱迪生象限）易于被私营部门资本化，而帕斯德象限既能产生惠及全人类的基础公共知识，又能直接针对重大国家战略需求产出解决方案，因此构成了政府科技投资最理想的重点支持领域。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
 >
 > **应用实例** 美国国防部高级研究计划局（[[DARPA|Defense Advanced Research Projects Agency]], DARPA）通过设立极具挑战性的现实应用目标（如隐形飞机、分布式互联网络），引导顶尖科学家在基础理论与前沿工程交汇处展开攻关，成为帕斯德象限模式在制度上的成功样板。
 

@@ -53,7 +53,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Bildung]]"
   - "[[Directional and Non-directional Hypotheses]]"
-  - "[[Blue Skies Research]]"
   - "[[Evaluation Research]]"
   - "[[Operationalization]]"
   - "[[Value Neutrality]]"
@@ -358,7 +357,7 @@ updated: 2026-09-18
 > | 演绎性假设（Deductive） | 从一般教育学原理或理论出发，推导出新的具体结论。例如赵宋光依据构建生成学习理论提出语言符号镶嵌结构教学模式。 |
 > | 研究性假设（Research） | 对变量间差异性及相关性的说明，包含[[Directional and Non-directional Hypotheses\|方向性假设]]和非方向性假设两类。 |
 
-课题论证的实践层面，首先区分三种课题类型：[[Blue Skies Research|基础研究]]与[[Evaluation Research|应用研究]]、质的研究与量的研究、描述性研究与[[Intervention Research|干预性研究]]。
+课题论证的实践层面，首先区分三种课题类型：基础研究与[[Evaluation Research|应用研究]]、质的研究与量的研究、描述性研究与[[Intervention Research|干预性研究]]。
 
 课题具有三种功能：反映研究的价值、引导研究的方向、制约研究工作的进行。
 

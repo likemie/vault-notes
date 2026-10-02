@@ -23,7 +23,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Professional Learning Community]]"
   - "[[Knowledge Production]]"
-  - "[[Blue Skies Research]]"
   - "[[Normal School]]"
   - "[[Central Phenomenon]]"
   - "[[Evidence-Based Education]]"
@@ -57,7 +56,7 @@ updated: 2026-09-18
 
 > [!concept-lens] 概念透镜
 > - **核心内涵** 强调教育[[Knowledge Production\|知识生产]]与教育改革实践不是单向线性的自上而下行政分发，而是依托高统合性体制形成的政-学-校协同网络。
-> - **理论用途** 解释高绩效集权型教育系统如何克服[[Blue Skies Research\|基础研究]]与课堂现场的“双重脱节”（相关性鸿沟与应用鸿沟），实现系统层面的实证转化。
+> - **理论用途** 解释高绩效集权型教育系统如何克服基础研究与课堂现场的“双重脱节”（相关性鸿沟与应用鸿沟），实现系统层面的实证转化。
 > - **实践边界** 根植于新加坡高度紧凑的单一体制与[[Normal School\|师范教育]]统筹结构，在分权化或联邦制分散教育治理体制下难以进行简单机械复制。
 
 > [!citation-card] 政-学-校三方枢纽驱动的教育研发与创新

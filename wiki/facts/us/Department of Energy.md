@@ -24,7 +24,6 @@ tags:
   - theme/innovation-system
   - region/us
 related_concepts:
-  - "[[Blue Skies Research]]"
   - "[[Megascience Installations]]"
   - "[[Innovation Ecosystem]]"
   - "[[Evidence Ecosystem]]"
@@ -71,7 +70,7 @@ updated: 2026-10-02
 
 > [!dev-timeline] 组织发展历程
 > - **1942–1977 — 战时军工起源与机构整合期** 源于曼哈顿工程建立的洛斯阿拉莫斯、橡树岭等绝密实验室，历经战后原子能委员会（AEC）与能源研发署（ERDA），逐步从单一核武器研制拓展至核动力、高能物理与合成燃料研发。
-> - **1977–2000 — 内阁设部与多学科[[Blue Skies Research|基础研究]]确立** 1977 年正式成立能源部，将分散的国家实验室群整合为统一的国家科研基础设施基地，科学办公室成为全美同步辐射光源、中子散射源与超级计算机中心的核心运营者。
+> - **1977–2000 — 内阁设部与多学科基础研究确立** 1977 年正式成立能源部，将分散的国家实验室群整合为统一的国家科研基础设施基地，科学办公室成为全美同步辐射光源、中子散射源与超级计算机中心的核心运营者。
 > - **2000–至今 — 清洁能源转型与组织机制重塑** 设立国家核安全局（2000）；2009 年借鉴五角大楼国防高级研究计划局模式创设高级能源研究计划局（Advanced Research Projects Agency-Energy, ARPA-E），并设立能源前沿研究中心（Energy Frontier Research Centers, EFRCs），致力于破除基础科学与工程技术之间的体制割裂。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
 
 ---

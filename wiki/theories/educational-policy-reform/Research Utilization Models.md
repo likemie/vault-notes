@@ -33,7 +33,6 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
-  - "[[Blue Skies Research]]"
   - "[[Evaluation Research]]"
   - "[[Research Translation]]"
   - "[[Enlightenment]]"
@@ -131,7 +130,7 @@ updated: 2026-09-22
 > - **前提一** 传统政策与管理学默认“线性技术模型”（[[Technical Rationality\|Technical-Rational Model]]），[[Hypothesis\|假设]]只要研究质量足够高、结论足够明确，决策者就会据此直接制定政策或调整教学行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03\|(Cohen et al., 2011, p. 43)]]
 > - **前提二** 现实中的政策制定与教学实践高度受到价值冲突、政治博弈、制度惯性与认知负荷的制约，研究证据只是多元竞争信息流中的一种输入。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 3)]]
 > - **推导** Weiss (1979) 进而提出解构线性迷思的七种经典模型，并在 1991 年进一步提炼为四种过程范式：
->   ① **知识驱动模型（Knowledge-Driven Model）** [[Blue Skies Research\|基础研究]] $\rightarrow$ [[Evaluation Research\|应用研究]] $\rightarrow$ 技术开发 $\rightarrow$ 成果应用，适用于强自然科学或工程[[Research Translation\|技术转化]]，但在复杂社会教育情境中往往受限；
+>   ① **知识驱动模型（Knowledge-Driven Model）** 基础研究 $\rightarrow$ [[Evaluation Research\|应用研究]] $\rightarrow$ 技术开发 $\rightarrow$ 成果应用，适用于强自然科学或工程[[Research Translation\|技术转化]]，但在复杂社会教育情境中往往受限；
 >   ② **[[Problem Solving\|问题解决]]模型（Problem-Solving Model）** 决策者面临明确待解难题 $\rightarrow$ 主动检索或委托针对性实证研究 $\rightarrow$ 研究提供最优方案 $\rightarrow$ 决策落地；
 >   ③ **互动模型（Interactive Model）** 研究者、政策制定者、行政人员与一线教师处于非线性的多边对话网络中，研究证据与实践者的经验智慧、政治判断相互激荡与调适；
 >   ④ **政治模型（Political Model）** 决策方案已由意识形态或既得利益预先确定，研究被选择性引用作为佐证论点、打击异见或增强合法性的“政治弹药”；
