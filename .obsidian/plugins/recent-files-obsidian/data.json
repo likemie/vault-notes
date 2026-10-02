@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Academic Capitalism",
+      "path": "wiki/theories/higher-education/Academic Capitalism.md"
+    },
+    {
       "basename": "Argument_Stephan_2013_NBER",
       "path": "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
+    },
+    {
+      "basename": "Pilot Testing",
+      "path": "wiki/methods/quantitative/Pilot Testing.md"
+    },
+    {
+      "basename": "Absorptive Capacity",
+      "path": "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md"
     },
     {
       "basename": "Blue Skies Research",
@@ -23,10 +35,6 @@
     {
       "basename": "Soft-Money Faculty Model",
       "path": "wiki/concepts/higher-education/Soft-Money Faculty Model.md"
-    },
-    {
-      "basename": "Academic Capitalism",
-      "path": "wiki/theories/higher-education/Academic Capitalism.md"
     },
     {
       "basename": "Externalization",
@@ -191,14 +199,6 @@
     {
       "basename": "Isaac Kandel",
       "path": "wiki/persons/us/Isaac Kandel.md"
-    },
-    {
-      "basename": "Unit of Analysis",
-      "path": "wiki/concepts/research-methodology/Unit of Analysis.md"
-    },
-    {
-      "basename": "Scholiocentric Approach",
-      "path": "wiki/concepts/comparative-education/Scholiocentric Approach.md"
     }
   ],
   "omittedPaths": [],
