@@ -2708,6 +2708,28 @@
     ]
   },
   {
+    "title": "Dual In-Line Package",
+    "type": "concept",
+    "path": "wiki/concepts/economics/Dual In-Line Package.md",
+    "aliases": [
+      "双列直插封装",
+      "双列直插式封装",
+      "DIP"
+    ]
+  },
+  {
+    "title": "General Purpose Technology",
+    "type": "concept",
+    "path": "wiki/concepts/economics/General Purpose Technology.md",
+    "aliases": [
+      "通用目的技术",
+      "通用技术",
+      "General-Purpose Technology",
+      "GPTs",
+      "GPT"
+    ]
+  },
+  {
     "title": "Patient Capital",
     "type": "concept",
     "path": "wiki/concepts/economics/Patient Capital.md",
@@ -27579,6 +27601,17 @@
     ]
   },
   {
+    "title": "Fairchild Semiconductor",
+    "type": "fact",
+    "path": "wiki/facts/us/Fairchild Semiconductor.md",
+    "aliases": [
+      "仙童半导体",
+      "仙童半导体公司",
+      "快捷半导体",
+      "Fairchild Semiconductor Corporation"
+    ]
+  },
+  {
     "title": "Federally Funded Research and Development Centers",
     "type": "fact",
     "path": "wiki/facts/us/Federally Funded Research and Development Centers.md",
@@ -29800,6 +29833,11 @@
     "title": "Argument_Wong_2022_HERD",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Higher Education Research & Development/Argument_Wong_2022_HERD.md"
+  },
+  {
+    "title": "Argument_Lecuyer_1999_HT",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/History and Technology/Argument_Lecuyer_1999_HT.md"
   },
   {
     "title": "Argument_Li_2025_HSSC",

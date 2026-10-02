@@ -35,7 +35,7 @@ related_concepts:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-09-26
+updated: 2026-10-03
 ---
 
 # Archival Research
@@ -119,5 +119,6 @@ updated: 2026-09-26
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]] — 本章系统介绍了档案的四种来源类型、研究操作程序与挑战，并通过新西兰青少年帮派调查委员会档案案例展示了档案研究在政策[[Process Tracing|过程追踪]]中的应用。
+> - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 莱屈耶通过调阅斯坦福大学档案馆特藏、企业技术备忘录、产品目录与原始工程应用说明书，系统重构了仙童半导体从军用转向商用市场的技术演进历程。

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Lecuyer_1999_HT",
+      "path": "wiki/arguments/journal-articles/History and Technology/Argument_Lecuyer_1999_HT.md"
+    },
+    {
       "basename": "Argument_Mazzucato_2018_ICC",
       "path": "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Mazzucato_2018_ICC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "template-argument-edited-volume",
       "path": "wiki/templates/template-argument-edited-volume.md"
-    },
-    {
-      "basename": "CNRS",
-      "path": "wiki/facts/france/CNRS.md"
     }
   ],
   "omittedPaths": [],
