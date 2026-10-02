@@ -9,7 +9,7 @@ summary: "量化研究数据分析的第一步，报告所有变量的均值、�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -29,13 +29,16 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Standard Error]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[National Science Foundation]]"
+  - "[[National Institutes of Health]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Stephan_2013_NBER]]"
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-09-11
+updated: 2026-10-02
 ---
 
 # Descriptive Analysis
@@ -81,4 +84,9 @@ updated: 2026-09-11
 > - 描述性分析只提供样本特征的总结，不能直接用于推断总体特征或检验[[Hypothesis\|假设]]。
 > - 缺失数据的处理方式可能显著影响描述统计量的估计——不同的缺失数据处理策略可能产生不同的均值估计和[[Standard Error\|标准误]]。
 > - 仅报告均值而不报告变异指标（如标准差或[[Standard Error\|标准误]]）可能导致对数据分布特征的误读。
+
+## 使用此方法的研究
+
+> [!evidence-grid-a] 方法案例
+> - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 通过对美国 1950 至 2010 年代 [[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]] 联邦资助、博士授权机构数、在读时间、HHI 资助集中度指数、科研建筑面积及医学院债务等宏观统计数据展开长时段历史描述性分析，揭示战后科研体制扩张的结构性压力。
 

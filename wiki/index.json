@@ -6536,6 +6536,18 @@
     ]
   },
   {
+    "title": "PhD Overproduction in Science",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/PhD Overproduction in Science.md",
+    "aliases": [
+      "科学博士生产过剩",
+      "博士过量生产",
+      "PhD overproduction",
+      "博士过剩",
+      "graduate student cheap labor"
+    ]
+  },
+  {
     "title": "Promising Student",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Promising Student.md",
@@ -6584,6 +6596,17 @@
     ]
   },
   {
+    "title": "Shopping Mall Model of Research Universities",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Shopping Mall Model of Research Universities.md",
+    "aliases": [
+      "研究型大学商场模型",
+      "高档商场模型",
+      "shopping mall model",
+      "购物中心模型"
+    ]
+  },
+  {
     "title": "Social Charter",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Social Charter.md",
@@ -6599,6 +6622,18 @@
     "path": "wiki/concepts/higher-education/Social Engagement.md",
     "aliases": [
       "社会性投入"
+    ]
+  },
+  {
+    "title": "Soft-Money Faculty Model",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Soft-Money Faculty Model.md",
+    "aliases": [
+      "软钱聘任制",
+      "软钱教职模式",
+      "soft-money positions",
+      "soft money faculty",
+      "软经费教职"
     ]
   },
   {
@@ -21664,6 +21699,17 @@
     ]
   },
   {
+    "title": "Paula Stephan",
+    "type": "person",
+    "path": "wiki/persons/us/Paula Stephan.md",
+    "aliases": [
+      "宝拉·斯蒂芬",
+      "保拉·斯蒂芬",
+      "Stephan, P.",
+      "Paula E. Stephan"
+    ]
+  },
+  {
     "title": "Peter Facione",
     "type": "person",
     "path": "wiki/persons/us/Peter Facione.md",
@@ -29702,6 +29748,11 @@
     "title": "Argument_Lester_2005_MIT",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/Argument_Lester_2005_MIT.md"
+  },
+  {
+    "title": "Argument_Stephan_2013_NBER",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
   },
   {
     "title": "Argument_Bouckaert_2023_OECD",

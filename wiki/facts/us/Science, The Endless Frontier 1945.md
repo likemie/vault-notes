@@ -11,7 +11,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 17
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Science and Technology Studies]]"
   - "[[Falsification]]"
   - "[[Long-Term Public Utility]]"
+  - "[[PhD Overproduction in Science]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
   - "[[Discovery-Invention Cycle]]"
@@ -46,6 +47,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
   - "[[Argument_Caraca_2009_TFSC]]"
+  - "[[Argument_Stephan_2013_NBER]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -137,6 +139,12 @@ updated: 2026-10-02
 > >
 > > - **新古典经济学立场** 恪守布什遗产，坚持政府资助仅限于无法专有化的公共品（[[Blue Skies Research|基础研究]]），防止政府干预扭曲市场竞争。
 > > - **[[Innovation Ecosystem|创新生态]]学派立场（[[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]]）** 布什报告带来的二分法教条导致了关键硬件工艺与制造工具的“资助断档”；应当以“[[Long-Term Public Utility|长期公共效用]]”彻底取代布什的立项动机分类，对具有战略长远价值的发现与发明予以全方位支持。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
+>
+> > [!axis] 制度遗产的反思：大学适应性改造与体制异化
+> > 对当代大学科研系统深层压力的历史溯源争鸣。
+> >
+> > - **布什责任论（外生政策设定说）** 倾向于将当代学术界的过度竞争、项目化生存与学科失衡归咎于战后布什报告所确立的竞争性同行评议资助框架。
+> > - **大学主动重构论（[[Argument_Stephan_2013_NBER|Stephan, 2013]]）** 强调战后科研契约的转变主要是由大学自身而非联邦政府主导；大学与教师自 1960 年代起主动推动薪资覆盖、争取更高间接成本并举债扩张设施，当代科研生态所承受的风险厌恶、[[PhD Overproduction in Science|博士过剩]]与结构性脆弱并非单纯“收获布什所播”，而是大学为迎合与套取资助而主动制度化适应的产物。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 37)]]
 
 ---
 

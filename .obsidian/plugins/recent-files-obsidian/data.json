@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Stephan_2013_NBER",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
+    },
+    {
+      "basename": "Science, The Endless Frontier 1945",
+      "path": "wiki/facts/us/Science, The Endless Frontier 1945.md"
+    },
+    {
+      "basename": "Argument_Ryabyy_2024_Maneto",
+      "path": "wiki/arguments/journal-articles/Maneto The Temple University Multi-Disciplinary Undergraduate Research Journal/Argument_Ryabyy_2024_Maneto.md"
+    },
+    {
       "basename": "Vannevar Bush",
       "path": "wiki/persons/us/Vannevar Bush.md"
     },
@@ -67,10 +79,6 @@
     {
       "basename": "Basic-Applied Research Dichotomy",
       "path": "wiki/concepts/science-policy/Basic-Applied Research Dichotomy.md"
-    },
-    {
-      "basename": "Science, The Endless Frontier 1945",
-      "path": "wiki/facts/us/Science, The Endless Frontier 1945.md"
     },
     {
       "basename": "Linear Model of Innovation",
@@ -191,14 +199,6 @@
     {
       "basename": "Ethnography",
       "path": "wiki/methods/qualitative/Ethnography.md"
-    },
-    {
-      "basename": "Fieldwork",
-      "path": "wiki/methods/qualitative/Fieldwork.md"
-    },
-    {
-      "basename": "Joel Samoff",
-      "path": "wiki/persons/us/Joel Samoff.md"
     }
   ],
   "omittedPaths": [],

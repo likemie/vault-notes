@@ -5,10 +5,10 @@ aliases:
 summary: "Slaughter & Leslie (1997) 提出的概念，描述大学日益卷入专利商业化、产学合作和竞争性拨款等市场导向活动，学术生产与资本积累逻辑深度绑定的制度转型过程"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 16
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - academic-capitalism
   - political-economy
@@ -37,10 +37,11 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
+  - "[[Argument_Stephan_2013_NBER]]"
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-09-11
+updated: 2026-10-02
 ---
 
 # Academic Capitalism
@@ -65,9 +66,9 @@ updated: 2026-09-11
 ## 核心要素
 
 > [!abstract]
-> - **市场导向的院校行为** 大学通过专利商业化、[[University-Industry Collaboration\|产学合作]]研究、捐赠基金投资和竞争性项目拨款寻求外部资金([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.797–798]])
+> - **市场导向的院校行为与商场化运作** 大学通过专利商业化、[[University-Industry Collaboration\|产学合作]]研究、捐赠基金投资和竞争性项目拨款寻求外部资金([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.797–798]])；并在微观组织上演进为类似于高档购物中心的空间租赁者，通过扣取间接成本与设立软钱教职向学者课题组收取租金。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–31)]]
 > - **公共与私人资金的交织** 公共资金大量资助营利性院校的扩张——如美国营利性高校的增长在很大程度上由联邦学生贷款和拨款支撑（Douglass, 2012; Mettler, 2014; Eaton et al., 2016）
-> - **学术劳动力的重新组织** 初级学者和兼职教师面临不稳定工作条件，研究者面临增加引用数和获取拨款的激励，这可能诱发表面化甚至欺诈性行为([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.796]])
+> - **学术劳动力的重新组织与外包化** 初级学者和兼职教师面临不稳定工作条件，研究者面临增加引用数和获取拨款的激励，这可能诱发表面化甚至欺诈性行为([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.796]])；实验室课题组为了降低边际成本系统性依赖低薪的研究生与博士后流动劳动力，加剧了科学人才市场的供需脱节。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 32–33)]]
 > - **国家角色的转变** 国家从直接资助者转变为市场框架的设定者和竞争秩序的维护者，通过立法（如美国的 Bayh–Dole Act of 1980）和拨款机制重塑学术[[Champ\|场域]]([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.800–801]])
 
 ## 理论背景
