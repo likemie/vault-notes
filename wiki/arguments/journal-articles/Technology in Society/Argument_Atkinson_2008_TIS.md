@@ -26,7 +26,10 @@ related_concepts:
   - "[[Document]]"
   - "[[Knowledge Production]]"
   - "[[Technology Transfer Office]]"
+  - "[[Megascience Installations]]"
   - "[[Technology Transfer]]"
+  - "[[Creativity]]"
+  - "[[Paradigm]]"
   - "[[Congressional Earmarks]]"
   - "[[Academic Start-up Packages]]"
 related_theories:
@@ -48,10 +51,14 @@ related_facts:
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Bell Labs]]"
   - "[[Office of Scientific Research and Development]]"
+  - "[[MIT Radiation Laboratory]]"
   - "[[CNRS]]"
+  - "[[European Research Area]]"
   - "[[Sputnik Shock 1957]]"
   - "[[President's Science Advisory Committee]]"
+  - "[[Federally Funded Research and Development Centers]]"
   - "[[Industry-University Cooperative Research Centers]]"
+  - "[[NSF Supercomputer Centers]]"
 related_arguments: []
 sources:
   - "[[sources/Atkinson_2008_TIS|Atkinson_2008_TIS]]"
@@ -65,9 +72,9 @@ title: "Argument_Atkinson_2008_TIS"
 argument_key: "Argument_Atkinson_2008_TIS"
 argument_display_title: "Research universities: Core of the US science and technology system"
 argument_kind: "journal-article"
-argument_related_count: 28
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 35
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Technology in Society"
 book_title: ""
@@ -177,7 +184,7 @@ issuing_organization: ""
 > - **制度背景** 战前高等教育脱离工农业实际，国家工业化亟需实用科技人才与农业改良技术
 > - **触发条件** 联邦转让各州公共土地（每名国会议员对应 3 万英亩）换取设立专注于农业和机械工艺的学院
 
-赠地学院初步确立了大学运用科学研究服务地方产业的实用传统，但全美整体研发依然被企业垄断，高校整体处于边缘。（pp.33–34）
+赠地学院初步确立了大学运用科学研究服务地方产业的实用传统，林肯总统亦于 1863 年签署国会法案设立[[National Academy of Sciences|美国国家科学院]]（National Academy of Sciences, NAS）以提供战争与和平时期的独立科学咨询，并于 1916 年组建作为其实体运行机构的[[National Research Council|美国国家科学研究委员会]]（National Research Council, NRC）（p.33）。然而在二战之前，全美整体研发依然被企业垄断，高校整体处于研发边缘。（pp.33–34）
 
 > [!contrast-table] 1940 年第二次世界大战前夕全美研发经费支出分布格局
 > | 部门主体 | 名义支出（1940 年） | 占比 | 折合 2000 年不变价 | 职能定位与经费来源特征 |
@@ -206,7 +213,7 @@ issuing_organization: ""
 1940 年 6 月罗斯福总统设立国家国防研究委员会（National Defense Research Committee, NDRC），并在 1941 年升格为[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（[[Office of Scientific Research and Development|OSRD]]），由万尼瓦尔·布什领衔，哈佛大学校长科南特、麻省理工学院（Massachusetts Institute of Technology, MIT）校长康普顿及贝尔实验室总裁朱厄特协同执掌。（pp.34–35）
 
 > [!proc] 战时科研动员向常态科研体系转化的机制推进
-> 1. **开创联邦政府与大学科研合同资助机制** [[Office of Scientific Research and Development|OSRD]] 改变了以往政府自建实验室的旧规，直接与大学签订研发合同，设立 MIT 辐射实验室（雷达攻关）与芝加哥大学冶金实验室（原子核链式反应），加利福尼亚大学伯克利分校主持洛斯阿拉莫斯实验室研发原子弹。（pp.34–35）
+> 1. **开创联邦政府与大学科研合同资助机制** [[Office of Scientific Research and Development|OSRD]] 改变了以往政府自建实验室的旧规，直接与大学签订研发合同，设立MIT [[MIT Radiation Laboratory|辐射实验室]]（Rad Lab，雷达攻关）与芝加哥大学冶金实验室（原子核链式反应），加利福尼亚大学伯克利分校主持洛斯阿拉莫斯实验室研发原子弹。（pp.34–35）
 > 2. **战时知识储备消耗倒逼自主基础研究供给** 战前美国工业界主要依赖欧洲学界的理论成果进行应用转化；欧洲在二战中的严重破坏促使美国决策层认识到必须依托本土大学建立基础研究供给源泉。（pp.35–36）
 > 3. **[[Pool of Knowledge|知识池隐喻]]确立基础研究的公共品属性** 布什提出[[Pool of Knowledge|知识池理论]]（Pool of Knowledge）：基础科学如同知识蓄水池，为工业创新提供活水；企业因研究成果具有公开性与非排他性而缺乏投资动力，必须由联邦政府作为公共品予以全额资助。（p.35）
 
@@ -232,7 +239,7 @@ issuing_organization: ""
 > - **布什方案（科学精英自治）** 主张基金会由非政府科学家组成的委员会完全掌控并遴选主任，免受白宫政治更迭与官僚人事行政干预，维护纯粹的探索自由。（pp.35–36）
 > - **杜鲁门方案（行政民主问责）** 坚持巨额公共财政预算必须对民选总统和纳税人负责，主任必须由总统任命并经参议院批准，杜绝公帑落入不受制约的学者行会。（pp.35–36）
 
-双方历经五年博弈最终妥协，杜鲁门于 1950 年签署《国家科学基金会法案》（P.L. 81-507），[[National Science Foundation|NSF]] 正式成立并确立了同行评议制度；与此同时，海军研究办公室（Office of Naval Research, ONR, 1946）、原子能委员会（Atomic Energy Commission, AEC, 1946）及国立卫生研究院（National Institutes of Health, NIH, 1947）等任务型联邦机构共同构筑了多元联邦资助体系。（pp.36–37）
+双方历经五年博弈最终妥协，杜鲁门于 1950 年签署《国家科学基金会法案》（P.L. 81-507），[[National Science Foundation|NSF]] 正式成立并确立了同行评议制度；与此同时，[[Office of Naval Research|海军研究办公室]]（Office of Naval Research, ONR, 1946）、原子能委员会（Atomic Energy Commission, AEC, 1946）及国立卫生研究院（National Institutes of Health, NIH, 1947）等任务型联邦机构共同构筑了多元联邦资助体系。（pp.36–37）
 
 ---
 
@@ -243,7 +250,7 @@ issuing_organization: ""
 
 #### 1. 支撑美国大学卓越地位的深层组织构件
 
-2006 年卡内基高等教育机构分类显示，全美 4,387 所高校中仅有 199 所被列为高水平研究型大学（占 4.3%），其中 RU/VH 96 所，RU/H 103 所；约三分之一为私立大学，三分之二为州立公立大学。（pp.43–44）
+2006 年[[Carnegie Classification of Institutions of Higher Education|卡内基高等教育机构分类]]显示，全美 4,387 所高校中仅有 199 所被列为高水平研究型大学（占 4.3%），其中 RU/VH 96 所，RU/H 103 所；约三分之一为私立大学，三分之二为州立公立大学。（pp.43–44）
 
 > [!dimension] 维持美国研究型大学卓越竞争力的组织生态维度
 > - **去中心化的市场分层竞争格局**
@@ -278,7 +285,7 @@ issuing_organization: ""
 > [!contrast-table] 欧洲联盟科研一体化努力与其创新转化瓶颈
 > | 比较维度 | 欧洲联盟一体化政策与产出 | 美国对应现状与制度参照 | 制度瓶颈分析 |
 > |---|---|---|---|
-> | **论文产出总量** | 2001 年占全球科学论文的 33% | 2001 年占全球科学论文的 29% | 欧盟通过欧洲研究区（ERA）与流动项目使学术论文量超越美国（p.43） |
+> | **论文产出总量** | 2001 年占全球科学论文的 33% | 2001 年占全球科学论文的 29% | 欧盟通过[[European Research Area\|欧洲研究区]]（ERA）与流动项目使学术论文量超越美国（p.43） |
 > | **专利与产业投资** | 专利转化率与高科技产业投资显著滞后 | 深度融合产业风险投资与大学专利许可 | 欧洲科研院所与产业界脱节，缺乏类似[[Bayh-Dole Act of 1980\|拜杜法案]]的高效转化激励（p.43） |
 
 ---
@@ -302,7 +309,7 @@ issuing_organization: ""
 > - **2004 年：当代多元格局**
 >   全美学术部门科研总支出达 424 亿美元（占全国 R&D 的 13.6%）；其中联邦出资占 61.5%，大学自有资金占 19.3%，非营利慈善基金会占 9.0%，工业界与州专项各占约 5%。（pp.40, 43）
 
-冷战时期由于美苏人造卫星危机（[[Sputnik Shock 1957|Sputnik Shock]]），艾森豪威尔总统曾在白宫设立[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC），使大学科学家得以直接进入核心战略决策；然而越战期间总统与学界关系恶化，尼克松总统于 1973 年解散了该委员会。（pp.38–39）为应对 1970 年代滞胀危机并重组国家科技政策，联邦政府通过法律重新恢复了科技顾问建制。（p.39）
+冷战时期由于美苏人造卫星危机（[[Sputnik Shock 1957|Sputnik Shock]]），艾森豪威尔总统曾在白宫设立[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC），使大学科学家得以直接进入核心战略决策；国会随即通过《[[National Defense Education Act of 1958|1958年国防教育法]]案》（NDEA），推动联邦财政前所未有地大规模注资大学理工科研究生奖学金与科学课程改革；同时，联邦政府通过设立由大学托管的[[Federally Funded Research and Development Centers|联邦资助研发中心]]（FFRDC，如费米实验室、伯克利实验室及双子星天文台），为高校学者提供了国家级[[Megascience Installations|大科学装置]]；然而越战期间总统与学界关系恶化，尼克松总统于 1973 年解散了科学顾问委员会。（pp.38–39）为应对 1970 年代滞胀危机并重组国家科技政策，联邦政府通过法律重新恢复了科技顾问建制。（p.39）
 
 > [!policy-context] 1976 年《国家科学技术政策、组织和优先事项法案》档案
 > - **发布主体** 美国国会与杰拉尔德·福特总统（公法 P.L. 94-282）
@@ -316,8 +323,9 @@ issuing_organization: ""
 
 > [!proc] 产学协同与[[Technology Transfer|技术转移]]机制的制度化落地
 > 1. **NSF 设立[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（[[Industry-University Cooperative Research Centers|I/UCRC]]）** 1978 年在[[Richard C. Atkinson|理查德·C·阿特金森]]（[[Richard C. Atkinson]]）担任主任期间，NSF 突破传统纯基础研究禁区，试点资助[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（Industry-University Cooperative Research Centers, I/UCRC）；后续拓展为长期资助（最长达 11 年）的工程研究中心（Engineering Research Centers, ERC）与科学技术中心（Science and Technology Centers, STC），使企业深度融入大学课题与博士生人才选拔。（pp.40–41）
-> 2. **通过 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》明确专利产权** 彻底终结了以往“联邦出资发明归政府所有、政府束之高阁”的僵化体制，将专利权直接赋予大学，并强制要求大学与发明学者分享许可版税收入。（pp.41–42）
-> 3. **大学[[Technology Transfer Office|技术转移办公室]]（TTO）与衍生企业蓬勃发展** 法律解绑极大激发了学者创业与大学专利授权意愿，各大学迅速成立专业技术转移办公室（[[Technology Transfer Office|TTO]]），成功孕育了生物医药与信息技术等高科技创新集群。（pp.41–42）
+> 2. **建立面向全美学者的[[NSF Supercomputer Centers|国家超级计算中心]]网络** 1980 年代 NSF 在 5 所大学竞争性设立[[NSF Supercomputer Centers|国家超级计算中心]]（Supercomputer Centers），[[Creativity|创造性]]地通过类似同行评议的申请机制向全美合格大学教师分配尖端运行机时，确立了大科学算力基础设施公平共享的公共[[Paradigm|范式]]。（p.41）
+> 3. **通过 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》明确专利产权** 彻底终结了以往“联邦出资发明归政府所有、政府束之高阁”的僵化体制，将专利权直接赋予大学，并强制要求大学与发明学者分享许可版税收入。（pp.41–42）
+> 4. **大学[[Technology Transfer Office|技术转移办公室]]（TTO）与衍生企业蓬勃发展** 法律解绑极大激发了学者创业与大学专利授权意愿，各大学迅速成立专业技术转移办公室（[[Technology Transfer Office|TTO]]），成功孕育了生物医药与信息技术等高科技创新集群。（pp.41–42）
 
 尽管部分学者曾担忧企业资助可能侵蚀自由公开发表的学术纯洁性，但历史经验表明，美国研究型大学与工业界在审慎协商中找到了兼容平衡点。（p.42）
 

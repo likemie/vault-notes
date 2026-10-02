@@ -8,7 +8,7 @@ aliases:
 summary: "万尼瓦尔·布什在1945年布什报告中提出的科学政策基石理论；将大学自由探索的基础研究比作国家知识蓄水池，为工业界的应用技术创新提供活水，从非排他性与非竞争性的公共品属性论证了由联邦财政全面承担大学基础研究资助的正当性。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 20
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -37,6 +37,7 @@ related_persons:
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Office of Scientific Research and Development]]"
+  - "[[MIT Radiation Laboratory]]"
   - "[[Bell Labs]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[National Science Foundation]]"
@@ -71,7 +72,7 @@ updated: 2026-10-02
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）在 1945 年向美国总统提交的里程碑报告《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》（*Science—the Endless Frontier*）中系统阐述。
 > - **原初问题** 第二次世界大战前，美国工业界在很大程度上直接依附于欧洲学术界的基础理论成果进行本土工程应用；欧洲战场的彻底破坏终结了外源性知识供给，战后美国必须建立自给自足的基础研究供给机制。
-> - **理论资源与材料** 布什在领导[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（OSRD）期间，深度观察了 MIT 辐射实验室微波雷达攻关与曼哈顿计划核裂变研发如何严重消耗既有理论储备；同时结合了工业实验室（如[[Bell Labs|贝尔实验室]]）与大学在专利权及公开发表上的行为差异。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
+> - **理论资源与材料** 布什在领导[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（OSRD）期间，深度观察了 MIT [[MIT Radiation Laboratory|辐射实验室]]微波雷达攻关与曼哈顿计划核裂变研发如何严重消耗既有理论储备；同时结合了工业实验室（如[[Bell Labs|贝尔实验室]]）与大学在专利权及公开发表上的行为差异。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
 > - **形成路径** 布什运用“蓄水池”隐喻形象化地解构了基础科研与商业开发的关系：基础研究是源头活水，应用开发是下游引水；企业出于利润驱动只会从池中取水，唯有公共财政能向池中注水，从而顺理成章地推导出国家资助研究型大学的政策结论。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]
 
 ### 后续演变与当代修正

@@ -43,7 +43,7 @@ updated: 2026-10-02
 ## 内容
 
 > [!info]
-> Rising Above the Gathering Storm: Energizing and Employing America for a Brighter Economic Future 是美国国家科学院、国家工程院和医学研究院（NASEM）于 2007 年联合发布的报告。报告重申了基础与开放式研究投资的战略重要性，直接呼应 [[Vannevar Bush]] 的 [[Science, The Endless Frontier 1945\|Science, The Endless Frontier]]（1945）的核心主题（p.13）。
+> Rising Above the Gathering Storm: Energizing and Employing America for a Brighter Economic Future 是[[National Academy of Sciences|美国国家科学院]]、国家工程院和医学研究院（NASEM）于 2007 年联合发布的报告。报告重申了基础与开放式研究投资的战略重要性，直接呼应 [[Vannevar Bush]] 的 [[Science, The Endless Frontier 1945\|Science, The Endless Frontier]]（1945）的核心主题（p.13）。
 
 ## 影响与后果
 

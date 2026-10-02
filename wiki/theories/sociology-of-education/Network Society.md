@@ -5,7 +5,7 @@ aliases:
 summary: "把现代社会理解为由流动网络而非稳定等级结构主导的理论，用于解释信息、资本与知识如何在跨边界连接中重新组织"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -37,6 +37,7 @@ related_persons:
 related_facts:
   - "[[Research in Schools Evaluation]]"
   - "[[OECD]]"
+  - "[[European Research Area]]"
   - "[[Education International]]"
   - "[[International Monetary Fund]]"
   - "[[World Bank]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 ## 核心主张
@@ -89,7 +90,7 @@ updated: 2026-09-29
 
 
 > [!success] 超国家机构的网络化协调
-> Rizvi 进一步指出，超国家机构在协调和推动跨国研究合作中扮演越来越重要的角色：[[OECD]] 的研究协作体、欧盟的 European Research Area、ASEM（亚欧会议）以及 EURAXESS-ASEAN 等机制，构成了一个**多层次的[[Network Governance\|网络化治理]]架构**。这些机构不是传统的等级制官僚组织——它们更像网络的"枢纽"（hubs），连接不同国家和机构的研究者进入更大规模的跨国流动中([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.98–99]])。这一描述与 [[Hub and Flow Imaginaries]] 对国家作为"枢纽"的定位相呼应。
+> Rizvi 进一步指出，超国家机构在协调和推动跨国研究合作中扮演越来越重要的角色：[[OECD]] 的研究协作体、欧盟的 [[European Research Area]]、ASEM（亚欧会议）以及 EURAXESS-ASEAN 等机制，构成了一个**多层次的[[Network Governance\|网络化治理]]架构**。这些机构不是传统的等级制官僚组织——它们更像网络的"枢纽"（hubs），连接不同国家和机构的研究者进入更大规模的跨国流动中([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.98–99]])。这一描述与 [[Hub and Flow Imaginaries]] 对国家作为"枢纽"的定位相呼应。
 
 
 > [!success] 多重理性的网络化融合

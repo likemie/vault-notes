@@ -57,7 +57,7 @@ updated: 2026-10-02
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国当代认知心理学家、科学政策学者与高等教育战略领袖，美国国家科学院院士、医学科学院院士与美国哲学会会士；曾任[[National Science Foundation|美国国家科学基金会]]（[[National Science Foundation|NSF]]）主任（1977–1980）、加利福尼亚大学圣迭戈分校（UC San Diego）校长（1980–1995）以及加州大学总校第 17 任校长（1995–2003）。
+> - **身份位置** 美国当代认知心理学家、科学政策学者与高等教育战略领袖，[[National Academy of Sciences|美国国家科学院]]院士、医学科学院院士与美国哲学会会士；曾任[[National Science Foundation|美国国家科学基金会]]（[[National Science Foundation|NSF]]）主任（1977–1980）、加利福尼亚大学圣迭戈分校（UC San Diego）校长（1980–1995）以及加州大学总校第 17 任校长（1995–2003）。
 > - **核心角色** 兼具认知心理学顶尖科学家与国家科技教育决策操盘手的双重身份；在联邦层面主导战后国家科技政策体制与产学联合研发机制的恢复，在州立与全美大学系统层面推动加利福尼亚科研创新集群建设与本科招生测试改革。
 > - **代表贡献** 与理查德·希夫林（Richard Shiffrin）共同构建认知心理学经典阿特金森-希夫林记忆模型（Atkinson-Shiffrin Model）；执掌 [[National Science Foundation|NSF]] 期间推动建立[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（I/UCRC）并参与缔造《[[Bayh-Dole Act of 1980|拜杜法案]]》立法共识；在加利福尼亚大学校长任内挑战美国大学入学考试（Scholastic Assessment Test, SAT）常模参照评价，倒逼全美高校招生录取评价体系重大改革。
 

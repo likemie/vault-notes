@@ -113,7 +113,7 @@ NSTC and SRC 的并存代表了美国半导体行业三代公私合作模式的�
 联邦资金的增长也意味着 [[Innovation Park|研究园区]] 和 [[Innovation Hub|创新中心]] 需要更主动地熟悉和追踪州级与联邦层面的持续性及专项资助机会，而非等待资金公告发布后才开始组织联盟（p.134）。
 
 > [!success] 对[[University-Industry Collaboration\|产学合作]]实践者的战略意义
-> 2020 年代中期美国研发格局的结构性变化——中国在 S&E 发表量（2017 年超越美国）、研发支出、专利申请和 KTI 制造产出等多个维度的赶超趋势，加上美国国内 [[STEM Education\|STEM]] 劳动力中女性与少数族裔的持续低度代表——为产学合作实践者创造了新的战略叙事：产学合作不仅是公司层面的[[Return on Investment\|投资回报]]问题，更是国家竞争力层面的战略必需([[Argument_Ramming_2025_CorporateSupport\|Ramming, 2025, pp.236–238]])。[[National Science Foundation\|NSF]] 2024 年 State of Science 报告和美国国家科学院（NAS）2024 年 State of Science Address 均将产学伙伴关系确定为应对这些挑战的关键机遇（pp.237–238）。
+> 2020 年代中期美国研发格局的结构性变化——中国在 S&E 发表量（2017 年超越美国）、研发支出、专利申请和 KTI 制造产出等多个维度的赶超趋势，加上美国国内 [[STEM Education\|STEM]] 劳动力中女性与少数族裔的持续低度代表——为产学合作实践者创造了新的战略叙事：产学合作不仅是公司层面的[[Return on Investment\|投资回报]]问题，更是国家竞争力层面的战略必需([[Argument_Ramming_2025_CorporateSupport\|Ramming, 2025, pp.236–238]])。[[National Science Foundation\|NSF]] 2024 年 State of Science 报告和[[National Academy of Sciences|美国国家科学院]]（NAS）2024 年 State of Science Address 均将产学伙伴关系确定为应对这些挑战的关键机遇（pp.237–238）。
 
 ---
 

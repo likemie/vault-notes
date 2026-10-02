@@ -55,7 +55,7 @@ updated: 2026-10-01
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国 19 世纪著名物理学家、大地测量学家与教育家，本杰明·富兰克林（Benjamin Franklin）的曾外孙，吉拉德孤儿学院（Girard College for Orphans）首任校长，美国海岸测绘局第二任局长，美国国家科学院（National Academy of Sciences, NAS）创会首任院长。
+> - **身份位置** 美国 19 世纪著名物理学家、大地测量学家与教育家，本杰明·富兰克林（Benjamin Franklin）的曾外孙，吉拉德孤儿学院（Girard College for Orphans）首任校长，美国海岸测绘局第二任局长，[[National Academy of Sciences|美国国家科学院]]（National Academy of Sciences, NAS）创会首任院长。
 > - **核心角色** 19 世纪美国早期欧洲教育实地考察的四大奠基学者之一（与[[Calvin Stowe|卡尔文·斯托]]、[[Horace Mann|霍勒斯·曼]]、[[Henry Barnard|亨利·巴纳德]]齐名）；以严谨的自然科学家精神与精确的实证测量眼光考察欧洲教育体制，为美国公共教育运动与现代工业技术学校建制提供了详实的经验蓝本。
 > - **代表贡献** 1836–1838 年实地走访欧洲七国 278 所学校，撰写出版长达 666 页的巨著《[[Education in Europe|欧洲教育报告]]》（*Report on Education in Europe*, 1839）；定性普鲁士初等教育为欧洲集权体系的最高典范，系统将欧洲孤儿[[Bildung|教养]]院、实科学校与工业师资培养规程引介至北美。
 
@@ -75,7 +75,7 @@ updated: 2026-10-01
 > - **1836–1838** 历时两年走访英国、法国、普鲁士、奥地利、瑞士、荷兰与意大利，深入考察 278 所各级各类学校，记录详尽的办学章程与实地数据。
 > - **1839** 正式出版 666 页的巨型考察专著《[[Education in Europe|欧洲教育报告]]》（*Education in Europe*），震动美国教育界，成为各州立法的重要参考。
 > - **1839–1842** 兼任费城中央高中（Central High School of Philadelphia）校长，依据欧洲经验重构全美最早的高中技术与博雅课程。
-> - **1843–1867** 出任美国海岸测绘局局长，推动全国地理测绘科学化；1863 年主导创立美国国家科学院并当选首任院长。
+> - **1843–1867** 出任美国海岸测绘局局长，推动全国地理测绘科学化；1863 年主导创立[[National Academy of Sciences|美国国家科学院]]并当选首任院长。
 > - **1867** 逝世于罗德岛州纽波特。
 
 ---
@@ -107,7 +107,7 @@ updated: 2026-10-01
 > [!person-network] 关系网络
 > - **学术先驱** [[Victor Cousin]] — 贝奇赴欧考察深受库森 1831 年普鲁士报告英译本的直接启发。
 > - **[[Common School Movement|公学运动]]同侪** [[Calvin Stowe]]、[[Horace Mann]]、[[Henry Barnard]] — 共同构成 1830–1850 年代美国公共教育奠基期欧陆考察“四大家”。
-> - **依托机构** 吉拉德学院（Girard College）、美国国家科学院（NAS）。
+> - **依托机构** 吉拉德学院（Girard College）、[[National Academy of Sciences|美国国家科学院]]（NAS）。
 
 ---
 

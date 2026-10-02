@@ -64,7 +64,7 @@ updated: 2026-10-02
 
 > [!policy-design]- 政策设计与资助工具
 > - **双轨制资助架构** 设立个人奖学金（Individual Fellowships，如 F 系列资助）与机构培训基金（Institutional Training Grants，如 T32 资助），允许高校自主选拔优秀博士生与博士后进行系统性学科训练。
-> - **法定需求评估机制** 授权美国国家科学院与[[National Research Council|国家研究委员会]]（NRC）每两年定期发布全国生物医学与行为科学人员供求趋势报告，作为国会动态调整 NRSA 资助指标与学科投向的法定依据。
+> - **法定需求评估机制** 授权[[National Academy of Sciences|美国国家科学院]]与[[National Research Council|国家研究委员会]]（NRC）每两年定期发布全国生物医学与行为科学人员供求趋势报告，作为国会动态调整 NRSA 资助指标与学科投向的法定依据。
 > - **服务回报条款（Payback Agreement）** 早期要求受资助学者在完成学业后必须从事相应年限的健康科研或教学工作，否则需偿还培训经费，强化人才公共效用导向。
 
 > [!citation-card] 斯蒂芬论国会设立 NRSA 对抗行政削减的制度博弈

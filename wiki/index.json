@@ -6287,6 +6287,17 @@
     ]
   },
   {
+    "title": "Carnegie Classification of Institutions of Higher Education",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Carnegie Classification of Institutions of Higher Education.md",
+    "aliases": [
+      "卡内基高等教育机构分类",
+      "卡内基分类",
+      "卡内基高校分类",
+      "Carnegie Classification"
+    ]
+  },
+  {
     "title": "Critic and Conscience of Society",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Critic and Conscience of Society.md",
@@ -23154,6 +23165,16 @@
     ]
   },
   {
+    "title": "European Research Area",
+    "type": "fact",
+    "path": "wiki/facts/eu/European Research Area.md",
+    "aliases": [
+      "欧洲研究区",
+      "ERA",
+      "欧洲科研区"
+    ]
+  },
+  {
     "title": "Tuning Project",
     "type": "fact",
     "path": "wiki/facts/eu/Tuning Project.md",
@@ -27253,6 +27274,18 @@
     ]
   },
   {
+    "title": "Federally Funded Research and Development Centers",
+    "type": "fact",
+    "path": "wiki/facts/us/Federally Funded Research and Development Centers.md",
+    "aliases": [
+      "联邦资助研发中心",
+      "FFRDC",
+      "FFRDCs",
+      "美国国家实验室",
+      "联邦资助研究开发中心"
+    ]
+  },
+  {
     "title": "House Committee on Education and the Workforce",
     "type": "fact",
     "path": "wiki/facts/us/House Committee on Education and the Workforce.md",
@@ -27315,6 +27348,25 @@
       "DESE",
       "Massachusetts DESE",
       "马州中小学教育部"
+    ]
+  },
+  {
+    "title": "MIT Radiation Laboratory",
+    "type": "fact",
+    "path": "wiki/facts/us/MIT Radiation Laboratory.md",
+    "aliases": [
+      "麻省理工学院辐射实验室",
+      "辐射实验室",
+      "Rad Lab"
+    ]
+  },
+  {
+    "title": "National Academy of Sciences",
+    "type": "fact",
+    "path": "wiki/facts/us/National Academy of Sciences.md",
+    "aliases": [
+      "美国国家科学院",
+      "NAS"
     ]
   },
   {
@@ -27448,6 +27500,16 @@
       "教育研究与改进办公室",
       "美国教育部教育研究与改进办公室",
       "OERI"
+    ]
+  },
+  {
+    "title": "Office of Naval Research",
+    "type": "fact",
+    "path": "wiki/facts/us/Office of Naval Research.md",
+    "aliases": [
+      "海军研究办公室",
+      "ONR",
+      "美国海军研究办公室"
     ]
   },
   {
@@ -27710,6 +27772,17 @@
     "path": "wiki/facts/us/Manufacturing USA.md",
     "aliases": [
       "Manufacturing USA Initiative"
+    ]
+  },
+  {
+    "title": "National Defense Education Act of 1958",
+    "type": "fact",
+    "path": "wiki/facts/us/National Defense Education Act of 1958.md",
+    "aliases": [
+      "国防教育法案",
+      "国防教育法",
+      "NDEA",
+      "1958年国防教育法"
     ]
   },
   {
@@ -28199,6 +28272,17 @@
     "aliases": [
       "国家扩散网络",
       "NDN"
+    ]
+  },
+  {
+    "title": "NSF Supercomputer Centers",
+    "type": "fact",
+    "path": "wiki/facts/us/NSF Supercomputer Centers.md",
+    "aliases": [
+      "国家科学基金会超级计算中心",
+      "超级计算中心计划",
+      "NSF Supercomputer Centers Program",
+      "国家超级计算中心"
     ]
   },
   {

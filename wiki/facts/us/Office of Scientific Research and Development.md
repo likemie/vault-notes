@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -31,11 +31,13 @@ related_theories:
 related_persons:
   - "[[Vannevar Bush]]"
 related_facts:
+  - "[[MIT Radiation Laboratory]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Institutes of Health]]"
   - "[[Bell Labs]]"
   - "[[National Science Foundation]]"
   - "[[DARPA]]"
+  - "[[Federally Funded Research and Development Centers]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
 confidence: high
@@ -65,8 +67,8 @@ updated: 2026-10-02
 
 > [!dev-timeline] 组织发展历程
 > - **1940–1941 — 战前动员雏形与 NDRC 奠基** 1940 年 6 月罗斯福设立国家国防研究委员会（NDRC），由[[Vannevar Bush|万尼瓦尔·布什]]领衔；在欧洲战事急剧恶化背景下，布什联合科学界领袖推动行政重组，以打破陆海军军方官僚机构对武器研发的垄断与迟钝反应。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 34)]]
-> - **1941–1945 — OSRD 正式升格与全方位战时攻关** 1941 年 6 月升格为 OSRD，布什出任主任，原 NDRC 改由哈佛大学校长科南特掌舵并作为 OSRD 武器研发核心下属部门，另一核心部门专司军事医学攻关；OSRD 拥有直接签订军用研发合同的法律授权，深度主导并设立麻省理工学院辐射实验室（Rad Lab）攻坚微波雷达、芝加哥大学冶金实验室攻坚链式反应，并监管曼哈顿计划早期进程。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
-> - **1945–1947 — 胜利撤销与和平时期体制平移** 1945 年布什基于 OSRD 成功实践向杜鲁门呈递《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》报告；1947 年底 OSRD 功成身退正式撤销，其存续的在研医学合同被国立卫生研究院（[[National Institutes of Health|NIH]]）全盘接收，雷达与物理学合同被海军研究办公室（ONR）等吸收，战时动员机制彻底制度化为和平时期的多元联邦资助体系。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]
+> - **1941–1945 — OSRD 正式升格与全方位战时攻关** 1941 年 6 月升格为 OSRD，布什出任主任，原 NDRC 改由哈佛大学校长科南特掌舵并作为 OSRD 武器研发核心下属部门，另一核心部门专司军事医学攻关；OSRD 拥有直接签订军用研发合同的法律授权，深度主导并设立[[MIT Radiation Laboratory|麻省理工学院辐射实验室]]（Rad Lab）攻坚微波雷达、芝加哥大学冶金实验室攻坚链式反应，并监管曼哈顿计划早期进程。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
+> - **1945–1947 — 胜利撤销与和平时期体制平移** 1945 年布什基于 OSRD 成功实践向杜鲁门呈递《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》报告；1947 年底 OSRD 功成身退正式撤销，其存续的在研医学合同被国立卫生研究院（[[National Institutes of Health|NIH]]）全盘接收，雷达与物理学合同被[[Office of Naval Research|海军研究办公室]]（ONR）等吸收，战时动员机制彻底制度化为和平时期的多元联邦资助体系。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]
 
 ---
 
@@ -88,7 +90,7 @@ updated: 2026-10-02
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心成果与战时攻关矩阵
-> - **MIT 辐射实验室与微波雷达** 设立麻省理工学院辐射实验室（Rad Lab），汇聚全美数百名顶尖物理学家，成功研制机载、舰载微波雷达系统并迅速列装盟军，在不列颠空战反潜与太平洋战场发挥决定性作用。
+> - **MIT [[MIT Radiation Laboratory|辐射实验室]]与微波雷达** 设立麻省理工学院辐射实验室（Rad Lab），汇聚全美数百名顶尖物理学家，成功研制机载、舰载微波雷达系统并迅速列装盟军，在不列颠空战反潜与太平洋战场发挥决定性作用。
 > - **曼哈顿计划的科学孵化** OSRD 全面统筹早期原子核裂变可行性论证与芝加哥大学冶金实验室反应堆，并将新墨西哥州洛斯阿拉莫斯实验室的研发工作通过政府合同交由加利福尼亚大学（伯克利分校）全面主持。
 > - **战时军事医学革命** 协调制药企业与大学医学院攻克盘尼西林（青霉素）工业化量产难关，研发抗疟药物与全血保存技术，使二战美军战伤死亡率相比一战大幅骤降。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35, 37)]]
 > - **《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》政策蓝图** 1944 年底罗斯福致信布什要求总结 OSRD 经验，布什于 1945 年提交报告，将 OSRD 的成功经验提炼为由国家长效资助大学基础研究的战后科技宪章。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]
@@ -99,8 +101,8 @@ updated: 2026-10-02
 
 > [!finding-cards] 关键成效与历史辐射
 > - **大学从研发边缘跃升为国家核心** 二战前全美大学研发仅占全国总额的 9% 且几无联邦常规资助；OSRD 的运作使决策层与公众深刻认识到高水平大学是国家生存与安全最不可替代的智力武器，大学由此彻底迈入国家创新体系的中枢。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 30, 33–35)]]
-> - **联邦资助高校合同法制的创立** 开创了联邦政府以科研合同向大学注入研发经费的先河，打破了传统的反联邦干预禁忌，为战后国家科学基金会（[[National Science Foundation|NSF]]）、海军研究办公室（ONR）和国防高级研究计划局（[[DARPA]]）的资助机制奠定了法律与管理[[Paradigm|范式]]。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–37)]]
-> - **大学联邦资助研究开发中心（FFRDC）的雏形** 由大学托管洛斯阿拉莫斯、劳伦斯伯克利实验室等前沿[[Megascience Installations|大科学装置]]的模式，直接演进为冷战时期乃至当代美国联邦出资研发中心（FFRDC）与国家实验室体系的成熟架构。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35, 38)]]
+> - **联邦资助高校合同法制的创立** 开创了联邦政府以科研合同向大学注入研发经费的先河，打破了传统的反联邦干预禁忌，为战后国家科学基金会（[[National Science Foundation|NSF]]）、[[Office of Naval Research|海军研究办公室]]（ONR）和国防高级研究计划局（[[DARPA]]）的资助机制奠定了法律与管理[[Paradigm|范式]]。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–37)]]
+> - **大学[[Federally Funded Research and Development Centers|联邦资助研究开发中心]]（FFRDC）的雏形** 由大学托管洛斯阿拉莫斯、劳伦斯伯克利实验室等前沿[[Megascience Installations|大科学装置]]的模式，直接演进为冷战时期乃至当代美国联邦出资研发中心（FFRDC）与国家实验室体系的成熟架构。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35, 38)]]
 
 ---
 

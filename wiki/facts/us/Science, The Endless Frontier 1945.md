@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -46,6 +46,7 @@ related_persons:
 related_facts:
   - "[[Office of Scientific Research and Development]]"
   - "[[National Science Foundation]]"
+  - "[[MIT Radiation Laboratory]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
@@ -70,7 +71,7 @@ updated: 2026-10-02
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1944 年 11 月（罗斯福总统致信垂询）至 1945 年 7 月（正式提交报告），美国华盛顿特区。
 > - **核心当事主体** 富兰克林·D·罗斯福总统、哈里·S·杜鲁门总统、万尼瓦尔·布什及由学术界、工业界和医学界领袖组成的四个专家咨询委员会。
-> - **深层制度与社会背景** 二战期间，以曼哈顿工程（原子弹研制）和麻省理工学院辐射实验室（雷达技术）为代表的战时科研取得了决定性突破，但此类研究高度保密且属于临时战时动员体制；战争临近终结，美国亟需建立平民化、常态化的国家科研支持框架。
+> - **深层制度与社会背景** 二战期间，以曼哈顿工程（原子弹研制）和[[MIT Radiation Laboratory|麻省理工学院辐射实验室]]（雷达技术）为代表的战时科研取得了决定性突破，但此类研究高度保密且属于临时战时动员体制；战争临近终结，美国亟需建立平民化、常态化的国家科研支持框架。
 > - **直接导火索 / 触发事件** 1944 年 11 月 17 日，罗斯福总统致信布什，提出四项关键国家课题：战时医学知识如何造福和平时期、政府如何继续支持公共与私营科研、如何发掘并培育青年科学天才，以及如何将战时军用科学知识有序解密并转化为民用经济福祉。
 
 ---

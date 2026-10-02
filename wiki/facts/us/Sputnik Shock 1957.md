@@ -87,7 +87,7 @@ updated: 2026-09-22
 ## 发展经过与演变阶段
 
 > [!dev-timeline]- 事件推进历程
-> - **1957–1958 — 危机爆发与国家安全动员期** 苏联人造卫星升空引发全美舆论海啸，媒体与政界齐声谴责公立学校忽视学术严格性；1958 年美国国会闪电通过《国防教育法》（National Defense Education Act，NDEA），联邦财政首次对数学、科学与外语教育进行大规模定向注资；同年芝加哥大学在卡耐基基金会资助下成立[[Comparative Education Center at Chicago 1958\|芝加哥大学比较教育中心]]，将比较研究推向跨学科与量化轨道。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 421–423)]]
+> - **1957–1958 — 危机爆发与国家安全动员期** 苏联人造卫星升空引发全美舆论海啸，媒体与政界齐声谴责公立学校忽视学术严格性；1958 年美国国会闪电通过《[[National Defense Education Act of 1958|国防教育法]]》（National Defense Education Act，NDEA），联邦财政首次对数学、科学与外语教育进行大规模定向注资；同年芝加哥大学在卡耐基基金会资助下成立[[Comparative Education Center at Chicago 1958\|芝加哥大学比较教育中心]]，将比较研究推向跨学科与量化轨道。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 421–423)]]
 > - **1959–1961 — 跨国扩散与“经济北约”重塑期** 斯普特尼克危机促使大西洋两岸将教育置于地缘竞争前沿；[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]（OEEC）顺势自我重塑为“世界一流教育的先驱”，于 1961 年正式改组为[[OECD\|经合组织]]（OECD），被史学界定性为旨在抗衡华约经济阵营的“经济北约”；经合组织投入巨额资源开展跨国教育统计，将[[Human Capital Theory\|人力资本理论]]与控制论规划缝合，以应对苏联五年计划模式。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
 > - **1961–1970 年代 — 全球教育规划与比较[[Paradigm\|范式]]转型** 1960 年[[1960 Bellagio Conference\|贝拉吉奥会议]]与 1961 年华盛顿经合组织政策会议推动各国确立“教育投资驱动增长”正统；经合组织启动地中海地区项目（[[Mediterranean Regional Project]]，MRP），[[UNESCO\|联合国教科文组织]]设立[[International Institute for Educational Planning\|国际教育规划研究所]]（International Institute for Educational Planning，IIEP），现代教育经济学与宏观人力预测模型在第三世界技术援助与全球政策中全面扎根。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
@@ -95,7 +95,7 @@ updated: 2026-09-22
 
 ## 关键文献、法案与历史宣言
 
-> [!citation-card] 美国《国防教育法》（NDEA 1958）序言
+> [!citation-card] 美国《[[National Defense Education Act of 1958|国防教育法]]》（NDEA 1958）序言
 > 国家安全要求全面发展男女青年的心理技能与技术才华。必须纠正国防关键领域现有教育项目的严重不足……联邦政府有责任为国家防御所需的重要技能培训提供紧急财政支持。
 >
 > *The national interest requires that the Federal Government give assistance to education for programs which are important to our national defense... The security of the Nation requires the fullest possible development of the mental resources and technical skills of its young men and women.* (United States Public Law 85-864, 1958)
@@ -115,7 +115,7 @@ updated: 2026-09-22
 > | 维度 | 科学精英与国家安全派 | 进步主义与地方公立传统派 |
 > |:---|:---|:---|
 > | **核心诉求** | 强化科学、技术、工程与数学（Science, Technology, Engineering, and Mathematics，[[STEM Education\|STEM]]）教育、严苛分流、培养高精尖科技专才 | 促进儿童个性发展、社会融合、民主公民教育 |
-> | **治理工具** | 联邦定向专项拨款（NDEA）、全国标准化统考、结构化课程 | 地方学区自治、生活技能综合课程、无竞争评价 |
+> | **治理工具** | 联邦定向专项拨款（[[National Defense Education Act of 1958\|NDEA]]）、全国标准化统考、结构化课程 | 地方学区自治、生活技能综合课程、无竞争评价 |
 > | **合法化话语** | 冷战生存、地缘威慑与经济竞争能力 | 教育机会平等、民主生活方式与人格完整 |
 >
 > **关键分歧** 教育究竟是国家安全竞争中培养技术兵力的战略工具，还是保障公民个体福祉与社会民主的宪法公共福利。[[Argument_Amos_2022_Springer\|(Amos, 2022, p. 56)]]
@@ -157,7 +157,7 @@ updated: 2026-09-22
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Amos_2022_Springer\|Amos (2022)]] — 以晚期现代性教育愿景为框架，论证斯普特尼克冲击如何在福利国家扩张前夕将经济、国家安全与[[Knowledge Production\|知识生产]]硬性挂钩，产生贯穿至今的制度回响（[[Vergegenkunft]]）。
-> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 梳理战后冷战地缘政治三大[[Paradigm\|范式]]，拆解斯普特尼克危机如何促成美国《国防教育法》、芝加哥比较教育中心成立以及比较教育学的[[Positivism\|实证主义]]转型。
+> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 梳理战后冷战地缘政治三大[[Paradigm\|范式]]，拆解斯普特尼克危机如何促成美国《[[National Defense Education Act of 1958|国防教育法]]》、芝加哥比较教育中心成立以及比较教育学的[[Positivism\|实证主义]]转型。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 揭示斯普特尼克冲击如何成为[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]重组为[[OECD\|经合组织]]（“经济北约”）的关键动力，开创了利用控制论规划与[[Human Capital Theory\|人力资本理论]]进行跨国统计规制的全球治理范式。
 >
 

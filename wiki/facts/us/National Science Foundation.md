@@ -101,10 +101,10 @@ updated: 2026-10-02
 > - **1945–1950 — 创设立法博弈与战后科学治理妥协**
 >   - [[Vannevar Bush]] 于 1945 年呈递《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》报告，提议创立文职独立的“国家研究基金会”（National Research Foundation），在秋季国会听证中正式定名为国家科学基金会（NSF）。
 >   - 布什因对 1930 年代左翼学者推崇的“社会工程”心存疑虑，在向杜鲁门呈递的信函中明确将资助局限于自然科学与生物学；1950 年初始建制法案仅将社会科学列入“其他科学”类别（直至 1960 年国会修正案才正式确立社会科学的法定资助资格）。
->   - 1947 年第 80 届国会通过法案拟赋予 24 人组成的国家科学委员会任免基金会主任的全权，杜鲁门总统以“不得由私人公民组成的委员会掌握公共财政拨款最终支配权”为由行使否决权；直至 1950 年 5 月 10 日双方妥协立法通过（P.L. 81-507），NSF 正式诞生。在 1945–1950 年的立法真空期，海军研究办公室（Office of Naval Research, ONR）与原子能委员会（Atomic Energy Commission, AEC）先行启动了联邦对大学基础研究的资助通道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–36)]]
+>   - 1947 年第 80 届国会通过法案拟赋予 24 人组成的国家科学委员会任免基金会主任的全权，杜鲁门总统以“不得由私人公民组成的委员会掌握公共财政拨款最终支配权”为由行使否决权；直至 1950 年 5 月 10 日双方妥协立法通过（P.L. 81-507），NSF 正式诞生。在 1945–1950 年的立法真空期，[[Office of Naval Research|海军研究办公室]]（Office of Naval Research, ONR）与原子能委员会（Atomic Energy Commission, AEC）先行启动了联邦对大学基础研究的资助通道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–36)]]
 > - **1951–1968 — 斯普特尼克危机震荡、预算激增与教育职能扩展**
 >   - 1952 年首批拨款仅 350 万美元（资助 60 所高校），NSF 初期在联邦高校资助中仅为边缘角色（医学归 [[National Institutes of Health|NIH]]，军事物理归 ONR 与 AEC）。
->   - 1957 年苏联人造卫星（[[Sputnik Shock 1957|Sputnik]] I）发射成功引发全美震动，NSF 科研预算在两年内激增约 250%；1958 年国会通过《国防教育法》（National Defense Education Act, NDEA），极大扩张了 NSF 在中小学科学教育与相关教育研究领域的职责。
+>   - 1957 年苏联人造卫星（[[Sputnik Shock 1957|Sputnik]] I）发射成功引发全美震动，NSF 科研预算在两年内激增约 250%；1958 年国会通过《[[National Defense Education Act of 1958|国防教育法]]》（National Defense Education Act, NDEA），极大扩张了 NSF 在中小学科学教育与相关教育研究领域的职责。
 >   - 1959 年起 NSF 资助大学教授组建学科委员会改革全美高中教材并举办教师暑期研修班；1968 年国会通过修正案（P.L. 86-550），正式授权 NSF 支持所有层级的科学教育项目并涉足应用科学研究。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 36–37)]]; [[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 10)]]
 > - **1970s–1980s — 产学协同试点、超级[[Center of Calculation|计算中心]]与《[[Bayh-Dole Act of 1980|拜杜法案]]》催化**
 >   - 1970 年代初设立“国家需求应用研究计划”（RANN）；在认知科学家[[Richard C. Atkinson|理查德·C·阿特金森]]出任主任期间（1977–1980），NSF 冲破法规限制（法律规定不得直接资助营利性机构），于 1978 年设立开创性试点计划支持大学与产业界开展合作研究，直接孕育出[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（I/UCRC）。
@@ -126,7 +126,7 @@ updated: 2026-10-02
 > - **政策沉浸与前沿学者中枢** 与[[American Association for the Advancement of Science|美国科学促进会]]（AAAS）及 [[American Educational Research Association|AERA]] 建立联合机制，吸纳完成为期一年全职国会山浸润的国会科学研究员（Congressional Fellows）进入 NSF 等联邦行政中枢，执掌重大科研资助指南（RFPs）制定与优先资助领域设定，将宏观政策诉求与一线实践前瞻性融入国家科研指南设计。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 46–47)]]
 
 > [!pathways]- 业务运行机制与协同网络
-> - **同行评审双重黄金标准** 自建制伊始即确立严格的同行评议审查程序，大学教师通过学校科研合同处递交的项目提案均须经过同行领域专家严谨评议；评议执行“智力价值”（Intellectual Merit）与“广泛影响”（Broader Impacts）双重准则，与 ONR、[[DARPA]] 等采用内部项目官员主导协商的高风险探索模式形成鲜明机制互补。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 36)]]
+> - **同行评审双重黄金标准** 自建制伊始即确立严格的同行评议审查程序，大学教师通过学校科研合同处递交的项目提案均须经过同行领域专家严谨评议；评议执行“智力价值”（Intellectual Merit）与“广泛影响”（Broader Impacts）双重准则，与 [[Office of Naval Research|ONR]]、[[DARPA]] 等采用内部项目官员主导协商的高风险探索模式形成鲜明机制互补。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 36)]]
 > - **大学-产业界长期协同研发网络** 依托 1978 年阿特金森创立的[[University-Industry Collaboration|产学合作]]架构，通过长达 11 年周期的工程研究中心（ERCs）与科技中心（STCs），在不直接补贴企业利润的前提下，为大学与工业界共同攻克产业关键核心共性技术提供制度化长效资助通道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **STEM 与人文社科跨学科融合机制** 打破自然科学与社会科学的传统藩篱，推动多学科协同攻关应对工作未来、人机协同等系统性社会技术挑战。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 14–15)]]
 > - **分级跃进式区域创新资助** 在 TIP 与 EDA 协同框架下，采取“前期小规模能力建设（44 项）$\to$ 后期大规模十年期创新合作体（10 项，最高达 1.6 亿美元）”的梯度资助模型，引导全美产学研联盟进行长期战略跟踪与跨界共建。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134, 137)]]

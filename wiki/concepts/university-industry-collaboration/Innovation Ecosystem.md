@@ -7,7 +7,7 @@ aliases:
 summary: "由人与组织通过网络互动进行创新的系统，大学常作为区域锚点，具有基于地点和全球性两种形态，依赖创意与人员的自由流动，其理论基础来自 Schumpeter 的创新理论和 Ridley 的论述"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_persons:
   - "[[Vannevar Bush]]"
 related_facts:
   - "[[California Master Plan for Higher Education]]"
+  - "[[MIT Radiation Laboratory]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
   - "[[Oxford UIDP Summit 2019]]"
@@ -108,7 +109,7 @@ Scott & Kirst（2017）在 Higher Education and Silicon Valley 中指出，基�
 ### 政府投资的催化作用
 
 > [!note]-
-硅谷在二战后不仅由斯坦福大学催生，也来自周边企业和政府投资。O'Mara（2019）的 The Code 记录了这一点："成功归功于一个充满活力和多样性的数千人群体，而不仅仅是那些主要参与者"（p.13）。曼哈顿计划（由 UC Berkeley 的 Oppenheimer 领导）和 MIT 辐射实验室的雷达研究为战后研发投资奠定了基础。[[Vannevar Bush]] 的 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）强调基础开放式研究的战略重要性，催生了 [[National Science Foundation|NSF]] 和国防部对大学基础研究的支持（p.13）。
+硅谷在二战后不仅由斯坦福大学催生，也来自周边企业和政府投资。O'Mara（2019）的 The Code 记录了这一点："成功归功于一个充满活力和多样性的数千人群体，而不仅仅是那些主要参与者"（p.13）。曼哈顿计划（由 UC Berkeley 的 Oppenheimer 领导）和 MIT [[MIT Radiation Laboratory|辐射实验室]]的雷达研究为战后研发投资奠定了基础。[[Vannevar Bush]] 的 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]]（1945）强调基础开放式研究的战略重要性，催生了 [[National Science Foundation|NSF]] 和国防部对大学基础研究的支持（p.13）。
 
 ### 地理邻近与区位多样性
 

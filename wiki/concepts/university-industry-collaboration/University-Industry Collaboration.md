@@ -10,7 +10,7 @@ aliases:
 summary: "大学与企业之间在正式协议框架下建立的有目的、深协同的制度化参与关系，横跨研究学术、教育学习与公共效益三大维度；其历史历经战后脱钩与 1980 年代法制重构，在释放实体创新潜力的同时伴生微观组织碎片化与代工车间异化的深层张力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -57,6 +57,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Smith Lever Act of 1914]]"
+  - "[[MIT Radiation Laboratory]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Industrial Strategy Challenge Fund]]"
   - "[[University Industry Demonstration Partnership]]"
@@ -201,7 +202,7 @@ updated: 2026-10-02
 
 > [!dev-timeline] 产学合作历史演变脉络
 > - **1862–1914 — [[Pragmatic Paradigm|实用主义]]与赠地学院奠基** 1862 年《莫里尔赠地学院法案》将高等教育与工业阶层实用培训直接挂钩；1914 年《[[Smith Lever Act of 1914|史密斯-利弗法案]]》在赠地大学设立农业推广服务，确立科研成果服务地方经济的早期[[Paradigm|范式]]。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 11)]]
-> - **1920s–1940s — 战前企业主导与战时科技动员** 二战前美国企业在全美研发开支中占比高达 67.8%（1940 年），与大学合作密切；二战期间曼哈顿计划与麻省理工学院辐射实验室展示了政产学战时协同的巨大潜能。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
+> - **1920s–1940s — 战前企业主导与战时科技动员** 二战前美国企业在全美研发开支中占比高达 67.8%（1940 年），与大学合作密切；二战期间曼哈顿计划与[[MIT Radiation Laboratory|麻省理工学院辐射实验室]]展示了政产学战时协同的巨大潜能。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
 > - **1945–1975 — 战后联邦资助主导与产学严重脱钩** [[Science, The Endless Frontier 1945|布什报告]]催生国家科学基金会（[[National Science Foundation|NSF]]），联邦研发经费垄断性激增（1963 年占 68%）；大学转向由同行评议支持的自由探索基础科研，与产业实际需求严重脱钩，1975 年企业出资跌至大学研发预算的 3.3%。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 38–40)]]
 > - **1978–1980s — 国家政策纠偏与法制重构** 1978 年 NSF 设立产学合作试点计划并拓展为 11 年期的工程研究中心（ERC）；1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》将专利权下放给高校，全美大学全面组建[[Technology Transfer Office|技术许可办公室]]（TLO），全美高校专利数由 1988 年的 800 项暴涨至 2003 年的 3200 项。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]
 > - **2000s–2010s — 制度化“[[Third Mission|第三使命]]”与战略联盟集中化** 大学正式确立研究、教学之外的“第三使命”；大企业告别零散项目，转向与少数战略伙伴大学共建联合实验室、共同选址中心（如联合利华在瓦赫宁根的 Hive 中心）；英国设立产业战略挑战基金（[[Industrial Strategy Challenge Fund|ISCF]]）推动使命驱动型合作。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 41–45)]]; [[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 5–7)]]

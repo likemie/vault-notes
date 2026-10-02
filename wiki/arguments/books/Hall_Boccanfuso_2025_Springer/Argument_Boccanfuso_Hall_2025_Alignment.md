@@ -49,6 +49,7 @@ related_facts:
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
   - "[[California Master Plan for Higher Education]]"
+  - "[[MIT Radiation Laboratory]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments: []
@@ -64,7 +65,7 @@ title: "Argument_Boccanfuso_Hall_2025_Alignment"
 argument_key: "Argument_Boccanfuso_Hall_2025_Alignment"
 argument_display_title: "Alignment, Engagement, and Public Benefits"
 argument_kind: "book"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -251,7 +252,7 @@ citation_aliases:
 
 **步骤 12：二战后政府投资的催化作用**
 
-曼哈顿计划（由 UC Berkeley 教授 J. Robert Oppenheimer 领导）和 MIT 辐射实验室的雷达技术研究是二战后政府研发投资的直接先例。[[Vannevar Bush]] 的报告 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]](1945)强调了对基础开放式研究的战略投资的重要性。其后果包括：国家科学基金会（NSF）的创建，以及国防部对大学基础研究项目的支持。这三种力量——政府资助、大学研究和企业创新——构成了 [[Triple Helix]] 的反馈循环(p.13)。
+曼哈顿计划（由 UC Berkeley 教授 J. Robert Oppenheimer 领导）和 MIT [[MIT Radiation Laboratory|辐射实验室]]的雷达技术研究是二战后政府研发投资的直接先例。[[Vannevar Bush]] 的报告 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]](1945)强调了对基础开放式研究的战略投资的重要性。其后果包括：国家科学基金会（NSF）的创建，以及国防部对大学基础研究项目的支持。这三种力量——政府资助、大学研究和企业创新——构成了 [[Triple Helix]] 的反馈循环(p.13)。
 
 ---
 

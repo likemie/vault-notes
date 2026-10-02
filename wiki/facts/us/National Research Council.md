@@ -60,7 +60,7 @@ updated: 2026-10-02
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 美国国家科学研究委员会（National Research Council, NRC）是美国国家科学院（NAS）、国家工程院（NAE）和国家医学院（NAM）三大学术院联合设立的主导常设运营中枢与国家最高科学咨询实体。该机构遵循美国国会法定特许状运作，以出具具有崇高学术公信力、超越两党政治偏见的独立同行评审证据综合报告著称；在[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）运动发起之初，NRC 承担了系统审查全美基于标准的问责制实证[[Document|文献]]、提炼核心改革原则并确立顶层科学合法性的奠基性功能。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–10)]]
+> 美国国家科学研究委员会（National Research Council, NRC）是[[National Academy of Sciences|美国国家科学院]]（NAS）、国家工程院（NAE）和国家医学院（NAM）三大学术院联合设立的主导常设运营中枢与国家最高科学咨询实体。该机构遵循美国国会法定特许状运作，以出具具有崇高学术公信力、超越两党政治偏见的独立同行评审证据综合报告著称；在[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）运动发起之初，NRC 承担了系统审查全美基于标准的问责制实证[[Document|文献]]、提炼核心改革原则并确立顶层科学合法性的奠基性功能。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–10)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 创立于 1916 年。由时任美国总统伍德罗·威尔逊（Woodrow Wilson）倡议成立，旨在将全美顶尖科学家与技术专家的智力资源组织化，为联邦政府及各州在重大公共危机与战略决策中提供独立、客观且经严格同行评审的科学咨询。
@@ -82,7 +82,7 @@ updated: 2026-10-02
 ## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
-> - **管理理事会（Governing Board）** 由美国国家科学院院长兼任主席、国家工程院副院长兼任副主席，成员涵盖三大学术院院士代表，把控国家级咨询选题的政治与科学独立性。
+> - **管理理事会（Governing Board）** 由[[National Academy of Sciences|美国国家科学院]]院长兼任主席、国家工程院副院长兼任副主席，成员涵盖三大学术院院士代表，把控国家级咨询选题的政治与科学独立性。
 > - **行为与社会科学及教育学部（DBASSE）** 专设的教育与社会政策咨询中枢，下设测试与评估委员会（BOTA）及科学教育委员会，专门承接基础教育改革实证评价。
 > - **独立专家特设委员会（Ad Hoc Committees）** 针对每项重大课题独立遴选全美跨学科权威学者组建委员会，严格排查利益冲突（[[Conflict of Interest in Research|conflict of interest]]），委员完全义务履职以杜绝商业利益渗透。
 

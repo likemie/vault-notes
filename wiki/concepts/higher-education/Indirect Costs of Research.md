@@ -87,7 +87,7 @@ updated: 2026-10-02
 > [!feature] 间接成本核算与运作的核心要素
 > - **设施费组件（Facilities Component）** 包含实验建筑物及改良工程折旧、仪器设备折旧、利息开销以及日常运营和维护（O&M）；构成了间接费中波动最大且推动大学举债建楼的核心成分。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 27–28)]]
 > - **行政费组件（Administrative Component）** 涵盖中央行政、院系行政、赞助项目办公室（SPO）运转及合规审查；自 1991 年起被联邦管理与预算局（OMB）强制封顶在 26% 的上限以内。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 23)]]
-> - **逐校协议费率（University-by-University Negotiated Rate）** 由大学与联邦主导审计机构（通常为美国卫生与公众服务部 HHS 或海军研究办公室 ONR）依据历史财务凭证进行数年一度的审计谈判确定的基准百分比（顶尖私校常达 50%–70%）。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–16)]]
+> - **逐校协议费率（University-by-University Negotiated Rate）** 由大学与联邦主导审计机构（通常为美国卫生与公众服务部 HHS 或[[Office of Naval Research|海军研究办公室]] ONR）依据历史财务凭证进行数年一度的审计谈判确定的基准百分比（顶尖私校常达 50%–70%）。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–16)]]
 > - **再投资与冲还贷管道（Debt Service Pipeline）** 大学将收取的巨额间接费作为主要现金流，直接用于偿还生命科学实验大楼与重型设施的债券本息。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 28)]]
 
 > [!logic-map]- 间接成本在现代大学扩张中的资金循环回路
