@@ -12,7 +12,7 @@ aliases:
 summary: "由全球教育治理中的多边组织、国家政府和跨国智库共同推动的政策修辞与规范框架，旨在界定未来劳动力市场所需关键能力并塑造教育政策与自我企业家主体性；实证研究揭示其存在技能空心化、实践转译断裂以及高教宏观倡导与微观评价滞后的制度脱节，二阶元分析证实合作学习对21世纪综合高阶技能具有显著赋能效应（ES = 0.76/0.84）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 64
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -64,6 +64,7 @@ related_concepts:
   - "[[Cooperative Integrated Reading and Composition]]"
   - "[[Science Capital]]"
   - "[[Operationalization]]"
+  - "[[Public Value]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
@@ -99,7 +100,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-20
-updated: 2026-09-28
+updated: 2026-10-03
 ---
 
 # 21st Century Skills and Competencies Discourse
@@ -296,5 +297,5 @@ updated: 2026-09-28
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] — 提出智能时代四大交叉素养蓝图，主张核心素养必须扎根于学科[[Big Ideas\|大概念]]与实证探究，批判技能空心化。
 > - [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024)]] — 实证调查高等教育最高阶段的通用特质培养感知，揭示协作能力与环境素养的严重欠缺。
 > - [[Argument_Wong_2022_HERD\|Wong et al. (2022)]] — 探讨高等教育中 21 世纪技能话语与[[Graduate Attributes\|毕业生特质]]的[[Operationalization\|操作化]]对齐。
-> - [[Argument_Zhao_2020_JEC\|Zhao (2020)]] — 批判新自由主义教育治理与技能测量对教育公共价值的窄化。
+> - [[Argument_Zhao_2020_JEC\|Zhao (2020)]] — 批判新自由主义教育治理与技能测量对教育[[Public Value|公共价值]]的窄化。
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]，量化证实[[Cooperative Learning\|合作学习]]对 21 世纪技能等高阶认知产出的显著促进效能（$ES = 0.76$），并纳入 Solissa et al. (2023)（$ES = 0.84$）作为直接实证支撑。

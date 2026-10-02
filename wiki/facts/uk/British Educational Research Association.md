@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
   - theme/teacher-education
 related_concepts:
   - "[[Research Ethics]]"
+  - "[[Public Value]]"
   - "[[Institutional Review Board]]"
   - "[[Research Literacy]]"
   - "[[Research Utilization]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # British Educational Research Association
@@ -69,7 +70,7 @@ updated: 2026-09-22
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 英国教育研究协会（British Educational Research Association, BERA）是英国教育研究领域的旗舰学术学会与法定注册慈善组织，致力于通过促进严谨教育科研的生产、传播与应用，维护[[Research Ethics\|研究伦理]]高标准，并在全社会与公共政策中捍卫教育研究的公共价值。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 140, 142)]]
+> 英国教育研究协会（British Educational Research Association, BERA）是英国教育研究领域的旗舰学术学会与法定注册慈善组织，致力于通过促进严谨教育科研的生产、传播与应用，维护[[Research Ethics\|研究伦理]]高标准，并在全社会与公共政策中捍卫教育研究的[[Public Value|公共价值]]。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 140, 142)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 成立于 1974 年，由英国多所大学教育系学者联合发起，旨在克服教育研究分散割裂与缺乏全国性学术自治共同体的困境。

@@ -11,7 +11,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Innovation Ecosystem]]"
   - "[[Technology Transfer]]"
+  - "[[Patient Capital]]"
 related_theories:
   - "[[Systems of Innovation]]"
 related_methods: []
@@ -36,7 +37,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # China S&T Innovation Policy Evolution
@@ -199,7 +200,7 @@ updated: 2026-10-02
 > - 评价导向偏差导致"沉睡专利"：2022年高校发明专利产业化率仅为3.9%，远低于企业的51.3%
 > - 创新组织目标冲突：国家级创新平台面临"公共共性技术服务"与"市场化自我生存"的双重目标冲突
 > - 政府部门职能衔接不足：科技部门与产业部门规划缺乏深度协调融合
-> - 要素流动阻滞：风险投资周期偏短（3-5年），缺乏耐心资本；体制内外人才流动存在壁垒
+> - 要素流动阻滞：风险投资周期偏短（3-5年），缺乏[[Patient Capital|耐心资本]]；体制内外人才流动存在壁垒
 
 ---
 

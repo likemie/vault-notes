@@ -14,7 +14,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -64,6 +64,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Building Evidence in Education]]"
   - "[[Learning Data Compact]]"
+  - "[[KfW]]"
   - "[[PISA]]"
   - "[[Bill & Melinda Gates Foundation]]"
   - "[[THE Impact Ranking]]"
@@ -131,7 +132,7 @@ updated: 2026-10-03
 > [!actor-grid] 实施角色分工
 > - **发布与统筹主体** 联合国大会、经济及社会理事会、联合国教育、科学及文化组织（[[UNESCO|联合国教科文组织]]，负责 SDG 4 官方统筹协调）。
 > - **硬性规制与放贷主体** [[World Bank|世界银行]]及各区域开发银行，通过发展政策贷款附带条件将 SDG 指标转化为受援国刚性执行标准。
-> - **科技创新与产业塑造主体** 各国科技与产业创新署（如欧盟委员会、德国复兴信贷银行 KfW、英国科研与创新署 UKRI），将 SDGs 解构为绿色脱碳与公共健康战略使命组合。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 810–812)]]
+> - **科技创新与产业塑造主体** 各国科技与产业创新署（如欧盟委员会、[[KfW|德国复兴信贷银行]] KfW、英国科研与创新署 UKRI），将 SDGs 解构为绿色脱碳与公共健康战略使命组合。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 810–812)]]
 > - **知识与人才载体** 全球[[Research Universities|研究型大学]]与科研机构，负责生产前沿科技与政策知识、培养全球治理专业人才。
 > - **基层执行主体** 主权国家教育部、地方学区、基础学校、环保组织以及民间非政府组织。
 

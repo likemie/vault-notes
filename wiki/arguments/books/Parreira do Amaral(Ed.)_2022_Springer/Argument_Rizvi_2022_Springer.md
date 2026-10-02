@@ -9,7 +9,7 @@ title: "Argument_Rizvi_2022_Springer"
 argument_key: "Argument_Rizvi_2022_Springer"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Growth]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[International Schools]]"
+  - "[[Public Value]]"
   - "[[Doxa]]"
   - "[[Knowledge Co-production]]"
   - "[[Champ]]"
@@ -273,7 +274,7 @@ Rizvi 区分了驱动国际化的两种理性——"发展主义"和"市场理�
 
 这个理性转移引发了一系列连锁反应：
 
-1. **公共价值被"挤出"(Sandel, 2012)** 对公共价值的承诺被市场逻辑排挤。"随着国际学生学费成为主要收入来源，政府不再感到有必要为高等教育机构提供所需的公共资金"(p.97)。
+1. **[[Public Value|公共价值]]被"挤出"(Sandel, 2012)** 对公共价值的承诺被市场逻辑排挤。"随着国际学生学费成为主要收入来源，政府不再感到有必要为高等教育机构提供所需的公共资金"(p.97)。
 
 2. **内生私有化的永久化** Rizvi 举了澳大利亚的例子——"其高等教育机构在招收大量全额付费国际学生方面的成功，使澳大利亚政府有底气推动其他市场导向政策"。结果："内生私有化实践似乎已成为大多数西方国家公立高等教育的永久特征"(Ball, 2012, pp.97–98)。
 

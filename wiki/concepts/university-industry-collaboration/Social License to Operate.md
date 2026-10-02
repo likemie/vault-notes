@@ -10,7 +10,7 @@ aliases:
 summary: "指大学及科研机构在法律法定办学资质之外，由周边社区、纳税人、政策制定者及广大公众基于对学术机构公共价值、透明伦理及社会贡献的认可而自发赋予的非正式、动态演变的社会信任与合法性契约"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ tags:
   - theme/public-engagement
   - theme/social-contract
 related_concepts:
+  - "[[Public Value]]"
   - "[[Dialogue in Education]]"
   - "[[Attrition]]"
   - "[[Grandes Ecoles]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Social License to Operate
@@ -54,7 +55,7 @@ updated: 2026-10-02
 ## 定义
 
 > [!def] 核心定义
-> 社会运营许可（Social Licence to Operate, SLO），在高等教育治理与学术制度语境中，特指高等院校与科研机构在国家行政审批和法律章程所赋予的法定办学执照（Legal Charter）之外，由周边驻地社区、纳税人、产业界、政策决策者及广大社会公众基于对其公共价值、伦理实践及社会贡献的认同，而自发赋予并持续维持的非正式、不成文的动态社会信任与道德合法性契约。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 93, 102)]]
+> 社会运营许可（Social Licence to Operate, SLO），在高等教育治理与学术制度语境中，特指高等院校与科研机构在国家行政审批和法律章程所赋予的法定办学执照（Legal Charter）之外，由周边驻地社区、纳税人、产业界、政策决策者及广大社会公众基于对其[[Public Value|公共价值]]、伦理实践及社会贡献的认同，而自发赋予并持续维持的非正式、不成文的动态社会信任与道德合法性契约。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 93, 102)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调大学的存在与发展并非脱离社会的孤立象牙塔特权，其教学与科研占用的大量公共财政与社会资源，时刻依赖外部社会的道德许可与价值认可。

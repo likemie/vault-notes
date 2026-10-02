@@ -10,7 +10,7 @@ aliases:
 summary: "教育实验研究与循证政策评估中对照组接受的常规教学与既有实践状态，作为检验干预净效应的反事实基准；在真实学校生态中常由经验丰富的教师实施熟练的传统直接讲授，具备动态高基线特征而非被动安慰剂"
 type: concept
 domain: "research-methodology"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Implementation Fidelity]]"
   - "[[External Validity]]"
+  - "[[Public Value]]"
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Paradigm]]"
   - "[[Fade-out Effect]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-14
-updated: 2026-09-21
+updated: 2026-10-03
 ---
 
 # Business as Usual
@@ -179,7 +180,7 @@ updated: 2026-09-21
 > 探讨教育实验中微弱[[Effect Size\|效应量]]的实质归因，破除将“未超越常态教学”简单等同于“干预毫无价值”的技术主义偏见。
 
 > [!claim] Edovald, K. & Nevill, C.
-> **常态教学高基线认识论与无效证据的公共价值** 在大规模教育现场试验中，绝大多数流行干预方案仅产生微弱的[[Effect Size\|效应量]]（如英美 141 项 [[Randomised Controlled Trials\|RCT]] 中位效应量仅 $d = 0.06$），甚至未能显著超越对照组。传统的[[Deficiencies Model for an Introduction\|缺陷模型]]常将此归咎于干预设计失败或试验无信息量；然而，在成熟的公共教育体系中，这一微弱净效应实质反映出学校日常开展的常态教学本身已具备相当高的专业成熟度与教学质量。评估结论必须客观界定为“该干预未能胜过一个极高水准的对照基准”，而非干预在绝对意义上毫无功效。向决策者证明何种流行方案无法击败常态教学，对于保护公共财政免受商业营销绑架具有决定性的治理价值。（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 56–57]]）
+> **常态教学高基线认识论与无效证据的[[Public Value|公共价值]]** 在大规模教育现场试验中，绝大多数流行干预方案仅产生微弱的[[Effect Size\|效应量]]（如英美 141 项 [[Randomised Controlled Trials\|RCT]] 中位效应量仅 $d = 0.06$），甚至未能显著超越对照组。传统的[[Deficiencies Model for an Introduction\|缺陷模型]]常将此归咎于干预设计失败或试验无信息量；然而，在成熟的公共教育体系中，这一微弱净效应实质反映出学校日常开展的常态教学本身已具备相当高的专业成熟度与教学质量。评估结论必须客观界定为“该干预未能胜过一个极高水准的对照基准”，而非干预在绝对意义上毫无功效。向决策者证明何种流行方案无法击败常态教学，对于保护公共财政免受商业营销绑架具有决定性的治理价值。（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 56–57]]）
 
 ---
 
@@ -301,7 +302,7 @@ updated: 2026-09-21
 > | [[Implementation and Process Evaluation]] | 方法 | 过程评估负责解构和测量对照组常态教学的具体构成与竞品污染风险。 |
 > | [[Randomised Controlled Trials]] | 方法 | 随机对照试验通过[[Random Assignment\|随机分配]]确保干预组与常态教学对照组在基线上的协[[Variable\|变量]]平衡。 |
 > | [[Efficacy Trial\|效力试验]]与[[Effectiveness Trial\|实效试验]] | 方法 | 效力试验与实效试验在常态教学基线的均质性与竞争强度上存在重大差异。 |
-> | [[What Works Movement]] | 宏观运动 | 证明干预未超越常态教学从而去魅商业宣传，构成了循证运动的重要公共价值。 |
+> | [[What Works Movement]] | 宏观运动 | 证明干预未超越常态教学从而去魅商业宣传，构成了循证运动的重要[[Public Value\|公共价值]]。 |
 > | [[Education Endowment Foundation]] | 事实 | 英国 EEF 率先将对照组常态教学行为追踪纳入独立评估标准规范。 |
 
 ---

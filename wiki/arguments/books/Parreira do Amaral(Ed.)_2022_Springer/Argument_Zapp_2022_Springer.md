@@ -9,7 +9,7 @@ title: "Argument_Zapp_2022_Springer"
 argument_key: "Argument_Zapp_2022_Springer"
 argument_display_title: "Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks"
 argument_kind: "book"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Theory of Knowledge]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[Public Value]]"
   - "[[Third Mission]]"
   - "[[Champ]]"
   - "[[Causality]]"
@@ -198,7 +199,7 @@ Zapp 在前四步论证了知识如何进入治理，第五步翻转视角——
 
 Zapp 的最终判断(p.157)：大学已经跃入全球治理的舞台，但它的位置还不稳固。它既是全球议程的追随者（因为 [[UN Sustainable Development Goals|SDGs]] 是联合国制定的，大学只是"对齐"），又可能是权力结构的重塑者（因为它拥有独立的知识权威）。能否从前者变成后者，取决于大学是否愿意不只是"跟着 SDGs 走"，而是**主动定义什么是值得追求的目标、什么是真正的问题**。
 
-> 例：Zapp 在最后一段提到，尽管面临民粹主义反弹和高教商品化，大学社群——学生、教师甚至校长——已经在全球公共争议中扮演了引人注目的公开角色："Rhodes Must Fall""Black Lives Matter""#MeToo""Scientists for Future"和 COVID-19 公共讨论。这是一种新的"大学能动性"的信号：大学不只是提供证据的中立者，也可以是公共价值的倡导者。
+> 例：Zapp 在最后一段提到，尽管面临民粹主义反弹和高教商品化，大学社群——学生、教师甚至校长——已经在全球公共争议中扮演了引人注目的公开角色："Rhodes Must Fall""Black Lives Matter""#MeToo""Scientists for Future"和 COVID-19 公共讨论。这是一种新的"大学能动性"的信号：大学不只是提供证据的中立者，也可以是[[Public Value|公共价值]]的倡导者。
 
 ## 主要发现
 

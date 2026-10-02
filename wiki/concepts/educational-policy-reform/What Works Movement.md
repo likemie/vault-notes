@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪末兴起于英美澳等国的公共治理与教育改革运动，主张以因果推断量化证据识别有效干预，依托法定知识中介组织转化证据，重塑公共财政配置与专业实践。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 60
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Formative Assessment]]"
   - "[[Interaction Effect]]"
+  - "[[Public Value]]"
   - "[[New Public Management]]"
   - "[[Evidence Standards]]"
   - "[[Heterogeneity]]"
@@ -89,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-09-27
+updated: 2026-10-03
 ---
 
 # What Works Movement
@@ -222,7 +223,7 @@ updated: 2026-09-27
 >   1. **[[Implementation and Process Evaluation\|过程评估]]与[[Causality\|因果推断]]深度绑定** 确立 IPE 规范指南，将定量结局数据与定性课堂访谈、合规度量融合，精准分离实施走样与方案理论无效；
 >   2. **现实主义多臂与析因试验** 探索多臂与[[Factorial Design\|析因设计]]，系统解构技术与师资要素的[[Interaction Effect\|交互效应]]；
 >   3. **树立客观独立的测量金标准** 强制以全州通用的 NPD 国家高利害统考作为首要结局，严禁采用人为夸大[[Effect Size\|效应量]]的自编测验；
->   4. **重估无效证据的公共价值** 直面 $d=0.06$ 的微弱效应常态，公开所有零效应与负效应报告，为国家公共财政节约了数十亿盲目采购资金。
+>   4. **重估无效证据的[[Public Value|公共价值]]** 直面 $d=0.06$ 的微弱效应常态，公开所有零效应与负效应报告，为国家公共财政节约了数十亿盲目采购资金。
 
 ---
 

@@ -10,7 +10,7 @@ aliases:
 summary: "大学与企业之间在正式协议框架下建立的有目的、深协同的制度化参与关系，横跨研究学术、教育学习与公共效益三大维度；其历史历经战后脱钩与 1980 年代法制重构，在释放实体创新潜力的同时伴生微观组织碎片化与代工车间异化的深层张力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Concierge Service]]"
   - "[[Knowledge Transfer]]"
+  - "[[Public Value]]"
   - "[[Document]]"
   - "[[Academic Health System]]"
   - "[[Cooperative Education]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # University-Industry Collaboration
@@ -266,7 +267,7 @@ updated: 2026-10-02
 > | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall (2025b, pp. 60–67)]] | 65 所 [[University Industry Demonstration Partnership\|UIDP]] 成员研究型大学 | 产学参与中心办公室组织模式与业务覆盖度 | 中心办公室模式分布：科研处型 25%、经济发展型 3%、企业关系型 17%、伙伴关系型 26%、全面型 26%；平均仅覆盖 12 个活动领域的 3.5 个；超 80% 受访者首选互利关系与[[Concierge Service\|礼宾服务]] | 实证揭示高校产学参与在微观组织层面高度碎片化，中心机构本质上是导航者而非全权执行者 |
 > | [[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen (2025, p. 44)]] | 美英高校产业研发收入长期数据（1990–2022） | 产学合作体量纵向扩张 | 美国大学产业研发资助从 1990 年 22 亿美元增至 2022 年 57 亿美元（不变价）；英国大学[[Knowledge Transfer\|知识转移]]收入从 2004 年 43 亿美元跃升至 2022 年 87 亿美元 | 展现三十年间产学合作由零散边缘活动成长为支撑高校发展的巨型制度支柱 |
 > | [[Argument_Dean_2025_UICollaborationSupport\|Dean et al. (2025, p. 243)]] | 加拿大滑铁卢大学单个学院过去五年经费统计 | 政府-产业资金配资杠杆效应 | 产业及产业杠杆经费占学院科研总经费的 34%，NSERC 资助中 41% 来自产业 1:1 配资项目，叠加后杠杆率达 3:1 | 表明政府配套资金政策是撬动高校教师参与产学合作的最直接硬性激励 |
-> | [[Argument_Swick_Jones_2025_AcademicHealthSystems\|Swick & Jones (2025, pp. 192–194)]] | 休斯敦卫理公会医院与美敦力（Medtronic）TAVR 合作 | 经导管主动脉瓣置换术四轮递进[[Clinical Trial\|临床试验]] | 历经 12 年四轮试验，30 天手术死亡率由 7.2% 骤降至 2.5%；2019 年该微创年手术量首次超越传统外科开胸手术 | 展现以终端患者获益为导向的医工产学合作能带来颠覆性临床与社会公共价值 |
+> | [[Argument_Swick_Jones_2025_AcademicHealthSystems\|Swick & Jones (2025, pp. 192–194)]] | 休斯敦卫理公会医院与美敦力（Medtronic）TAVR 合作 | 经导管主动脉瓣置换术四轮递进[[Clinical Trial\|临床试验]] | 历经 12 年四轮试验，30 天手术死亡率由 7.2% 骤降至 2.5%；2019 年该微创年手术量首次超越传统外科开胸手术 | 展现以终端患者获益为导向的医工产学合作能带来颠覆性临床与社会[[Public Value\|公共价值]] |
 
 ---
 

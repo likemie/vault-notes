@@ -8,7 +8,7 @@ aliases:
 summary: "以 Nelson & Winter（1982）为奠基的经济学流派，将经济变迁视为多样性变异、组织惯例学习、路径依赖与动态选择的演化过程；批判新古典静态均衡与代表性企业假设，为技术轨迹、产业异质性、创新系统与国家主动市场塑造提供底层理论基础"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 25
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -29,8 +29,10 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Total Factor Productivity]]"
   - "[[Source of Knowledge]]"
+  - "[[Patient Capital]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Computer Simulation]]"
+  - "[[Picking the Willing]]"
   - "[[Network Governance]]"
   - "[[Wicked Problem]]"
 related_theories:
@@ -160,7 +162,7 @@ updated: 2026-10-03
 > 创新活动面对的不是可以进行概率计算的风险，而是无法预知结果的奈特式激进不确定性。
 
 > [!claim] Nelson & Winter & Mazzucato
-> **激进不确定性与路径依赖命题** 颠覆性技术突破充满内在认知盲区与极端失败概率，其发展受制于既有认知结构与沉没成本的路径依赖。单纯依靠私人市场的短期分散投资极易导致技术锁定于既有次优轨道或因风险规避而出现严重投资不足，必须依赖公共部门提供跨周期的耐性资本与长期战略方向引导。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–808)]]
+> **激进不确定性与路径依赖命题** 颠覆性技术突破充满内在认知盲区与极端失败概率，其发展受制于既有认知结构与沉没成本的路径依赖。单纯依靠私人市场的短期分散投资极易导致技术锁定于既有次优轨道或因风险规避而出现严重投资不足，必须依赖公共部门提供跨周期的[[Patient Capital|耐性资本]]与长期战略方向引导。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–808)]]
 
 ---
 
@@ -210,7 +212,7 @@ updated: 2026-10-03
 > > 演化经济学赋予国家在市场塑造中极其积极的主导角色，受到公共选择学派与自由主义经济学家的强烈质疑，担忧政府方向设定演化为行政垄断与权力寻租。
 > >
 > > - **Buchanan (2003)** 认为任何偏离自由市场的垂直干预都会沦为利益集团游说的温床。
-> > - **[[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]** 主张以重大社会挑战为靶向“挑选意愿者”、构建分散化探索型公共机构与风险收益对称契约以化解寻租弊端。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–810)]]
+> > - **[[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]** 主张以重大社会挑战为靶向“[[Picking the Willing|挑选意愿者]]”、构建分散化探索型公共机构与风险收益对称契约以化解寻租弊端。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–810)]]
 
 > [!warning] 理论局限与边界
 > - **一般化预测能力的挑战** 由于高度强调历史偶然性、制度多样性与情境依赖，演化经济学在跨情境做出精确定量预测（如短期价格波动）方面相较于计量经济模型面临更大难度。

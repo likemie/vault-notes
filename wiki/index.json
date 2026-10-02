@@ -2708,6 +2708,18 @@
     ]
   },
   {
+    "title": "Patient Capital",
+    "type": "concept",
+    "path": "wiki/concepts/economics/Patient Capital.md",
+    "aliases": [
+      "耐心资本",
+      "长期耐心资本",
+      "耐性资本",
+      "patient finance",
+      "patient investment"
+    ]
+  },
+  {
     "title": "Absorptive Capacity",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md",
@@ -10409,6 +10421,17 @@
     ]
   },
   {
+    "title": "Picking the Willing",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Picking the Willing.md",
+    "aliases": [
+      "挑选意愿者",
+      "挑选愿意转型者",
+      "意愿者遴选机制",
+      "picking the willing mechanism"
+    ]
+  },
+  {
     "title": "Pluralistic Federal Funding System",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Pluralistic Federal Funding System.md",
@@ -10430,6 +10453,28 @@
       "很多手的问题",
       "责任分散难题",
       "Many Hands Problem"
+    ]
+  },
+  {
+    "title": "Public Dynamic Capabilities",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Public Dynamic Capabilities.md",
+    "aliases": [
+      "公共部门动态能力",
+      "公共动态能力",
+      "政府动态能力",
+      "public sector dynamic capabilities",
+      "dynamic capabilities of the public sector"
+    ]
+  },
+  {
+    "title": "Public Value",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Public Value.md",
+    "aliases": [
+      "公共价值",
+      "公共价值创造",
+      "public value creation"
     ]
   },
   {
@@ -11633,6 +11678,8 @@
     "path": "wiki/concepts/university-industry-collaboration/Entrepreneurial University.md",
     "aliases": [
       "创业型大学",
+      "创业型大学模式",
+      "创业型大学范式",
       "entrepreneurial university model"
     ]
   },
@@ -23318,7 +23365,11 @@
     "type": "fact",
     "path": "wiki/facts/eu/Horizon Europe Missions.md",
     "aliases": [
-      "地平线欧洲使命"
+      "地平线欧洲使命",
+      "地平线欧洲战略使命",
+      "欧盟地平线使命",
+      "EU Missions",
+      "Horizon Europe EU Missions"
     ]
   },
   {
@@ -23719,6 +23770,17 @@
       "柏林教育质量发展研究所",
       "IQB",
       "Institut zur Qualitätsentwicklung im Bildungswesen"
+    ]
+  },
+  {
+    "title": "KfW",
+    "type": "fact",
+    "path": "wiki/facts/germany/KfW.md",
+    "aliases": [
+      "德国复兴信贷银行",
+      "Kreditanstalt für Wiederaufbau",
+      "KfW Bankengruppe",
+      "德国开发银行"
     ]
   },
   {

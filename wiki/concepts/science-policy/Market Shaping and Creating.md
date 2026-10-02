@@ -11,7 +11,7 @@ aliases:
 summary: "指国家与公共机构不局限于事后修复既有市场失灵，而是通过战略投资、标准制定与前沿引领主动构筑与共同创造新经济与技术景观的公共政策范式"
 type: concept
 domain: "science-policy"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,8 @@ tags:
 related_concepts:
   - "[[Innovation Policy Paradigms]]"
   - "[[Paradigm]]"
+  - "[[Public Value]]"
+  - "[[Patient Capital]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Operationalization]]"
   - "[[Reflexive Governance]]"
@@ -53,7 +55,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> 市场塑造与市场共创（Market Shaping and Creating）是指一种主张国家与公共机构不仅是被动的规则制定者或事后“市场修复者”（Market Fixer），而是积极承担早期极高技术与财务风险、通过设定公共议程、前沿研发投入、公共采购与监管制度主动构筑并共同创造全新市场与技术形态的[[Innovation Policy Paradigms|创新政策范式]]。该[[Paradigm|范式]]突破了新古典经济学仅在外部性、公共品或信息不对称等“市场失灵”出现时才允许国家介入的静态边界，强调通过创造具有变革性的公共价值（Public Value）引领经济增长方向。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–807)]]
+> 市场塑造与市场共创（Market Shaping and Creating）是指一种主张国家与公共机构不仅是被动的规则制定者或事后“市场修复者”（Market Fixer），而是积极承担早期极高技术与财务风险、通过设定公共议程、前沿研发投入、公共采购与监管制度主动构筑并共同创造全新市场与技术形态的[[Innovation Policy Paradigms|创新政策范式]]。该[[Paradigm|范式]]突破了新古典经济学仅在外部性、公共品或信息不对称等“市场失灵”出现时才允许国家介入的静态边界，强调通过创造具有变革性的[[Public Value|公共价值]]（Public Value）引领经济增长方向。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–807)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向公共部门在技术探索、产业链重构与需求培育全过程中发挥前瞻性引领与共同创造作用的制度机制。
@@ -80,7 +82,7 @@ updated: 2026-10-03
 > | **国家角色** | 修正外部性、提供公共品、弥补市场失灵的“修补者” | 确立转型方向、承担早期风险、共创技术景观的“引领者” |
 > | **政策目标** | 追求配置效率（Allocative Efficiency），抚平市场摩擦 | 追求动态效率（Dynamic Efficiency），开辟全新[[Technological Trajectories\|技术轨道]]与产业生态 |
 > | **对私人投资影响** | 担忧国家投资会产生挤出效应（Crowding out） | 通过明确长期公共需求与增长空间产生挤入效应（Crowding in） |
-> | **评估标准** | 静态成本收益分析（CBA）、净现值核算 | 动态公共价值创造（Public Value）、系统溢出效应评估 |
+> | **评估标准** | 静态成本收益分析（CBA）、净现值核算 | 动态[[Public Value\|公共价值创造]]（Public Value）、系统溢出效应评估 |
 > | **公私关系** | 简单的去风险（De-risking）与单向补贴 | 风险共担与收益共享（Risk and Reward Sharing）的共创伙伴 |
 
 ---
@@ -88,7 +90,7 @@ updated: 2026-10-03
 ## 核心要素
 
 > [!feature] 市场塑造与共创的核心要素
-> - **方向性战略投资（Directional Strategic Investment）** 公共机构通过战略性耐心资本（Patient Capital）向具有高度不确定性的前沿领域注资，拉动早期技术探索与基础科学突破。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–808)]]
+> - **方向性战略投资（Directional Strategic Investment）** 公共机构通过战略性[[Patient Capital|耐心资本]]（Patient Capital）向具有高度不确定性的前沿领域注资，拉动早期技术探索与基础科学突破。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–808)]]
 > - **全价值链协同培育（Value Chain Orchestration）** 政策不仅支持上游基础研究，更贯穿中游技术试验、下游公共采购与应用场景示范，打通跨部门创新网络。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–811)]]
 > - **动态学习与反思型评估（Dynamic Learning and Reflexive Evaluation）** 摒弃静态成本收益核算，建立允许试错、鼓励组合式实验并持续反思调整的动态评估机制。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–810)]]
 > - **收益与风险结构对称（Equitable Risk-Reward Distribution）** 确保公共部门在承担早期颠覆性技术研发失败风险的同时，通过股权、特许权使用费或公共品定价约束等机制分享创新成功带来的社会回报。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
@@ -135,7 +137,7 @@ updated: 2026-10-03
 > - **1920s–1950s — 市场失灵与福利经济学确立** 庇古（Pigou）、萨缪尔森（Samuelson）与阿罗（Arrow）建立市场失灵理论，将公共干预严格限定于弥补外部性、提供公共品及信息不对称范畴。
 > - **1980s–1990s — [[Evolutionary Economics|演化经济学]]与[[Systems of Innovation|创新系统]]崛起** 弗里曼（Freeman）、伦德瓦尔（Lundvall）与纳尔逊（Nelson）提出国家创新系统理论，指出系统失灵（System Failures）与机构协同的重要性。
 > - **2013–2016 — 市场塑造与共创[[Paradigm|范式]]奠基** [[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）系统阐发企业型国家理论，正式提出市场塑造与市场共创概念，倡导从被动修补转向主动创造。
-> - **2018 — 融入[[Mission-Oriented Innovation Policy|使命导向创新政策]]全流程** [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]将市场塑造与共创[[Operationalization|操作化]]为包括战略方向、组织试错、公共价值评估与收益共享在内的系统政策工具箱。
+> - **2018 — 融入[[Mission-Oriented Innovation Policy|使命导向创新政策]]全流程** [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]将市场塑造与共创[[Operationalization|操作化]]为包括战略方向、组织试错、[[Public Value|公共价值]]评估与收益共享在内的系统政策工具箱。
 
 ---
 
@@ -157,4 +159,4 @@ updated: 2026-10-03
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 系统论证市场塑造与共创[[Paradigm|范式]]在应对重大社会挑战中的核心机制，提出超越市场失灵的公共价值与评估框架。
+> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 系统论证市场塑造与共创[[Paradigm|范式]]在应对重大社会挑战中的核心机制，提出超越市场失灵的[[Public Value|公共价值]]与评估框架。

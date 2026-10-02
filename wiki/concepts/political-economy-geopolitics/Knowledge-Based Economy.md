@@ -7,7 +7,7 @@ aliases:
 summary: "以知识、创新、高等教育、研发与高阶思维技能作为价值创造与全球竞争核心要素的经济形态；在技术自动化与AI浪潮下，其战略重心从静态专业知识转向高阶认知能力，但面临宏观政策宣示与微观学业评价滞后的深层制度悖论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Progressive Neoliberalism]]"
   - "[[Innovation Hub]]"
+  - "[[Public Value]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Systems of Innovation]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Knowledge-Based Economy
@@ -207,7 +208,7 @@ updated: 2026-09-22
 > > [!axis] 知识经济话语的批判轴线
 > > - **[[Spatial Sortings\|空间分化]]与不平等极化（Spatial Polarization）** [[Progressive Neoliberalism\|进步新自由主义]]的 KBE 极度偏向少数跨国大都市[[Innovation Hub\|创新枢纽]]，导致非枢纽中小城镇与农村地区经历不可逆的经济衰退与人才失血。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, pp. 30–32)]]
 > > - **以市场扩张替代民主制度建设（Institutional Substitution）** 教育枢纽研究揭示，威权政权常将“投资 KBE 基础设施与分校园区”作为合法性幌子，以此规避实质性的政治民主与公民社会制度建设。[[Argument_Erfurth_2022_education-hubs\|(Erfurth, 2022, pp. 200, 211)]]
-> > - **教育公共价值与人文关怀的工具化矮化（Instrumentalization）** 将高等教育窄化为单纯的[[Human Capital Theory\|人力资本]]投资与劳动力再生产机器，剥离了教育在社会公平、审美情趣与民主公民素养培育上的崇高本质。
+> > - **教育[[Public Value|公共价值]]与人文关怀的工具化矮化（Instrumentalization）** 将高等教育窄化为单纯的[[Human Capital Theory\|人力资本]]投资与劳动力再生产机器，剥离了教育在社会公平、审美情趣与民主公民素养培育上的崇高本质。
 
 ---
 

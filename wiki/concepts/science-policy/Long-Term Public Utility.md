@@ -8,7 +8,7 @@ aliases:
 summary: "纳拉亚纳穆尔提等人在批判战后基础/应用二分法时提出的联邦科研资助最高战略准绳，主张国家财政介入的正当性不应取决于立项当下课题属于纯科学还是工程技术，而应取决于其是否在数十年尺度上服务于国家长远战略福祉并致力于化解阻碍创新循环的系统性底层瓶颈。"
 type: concept
 domain: "science-policy"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Return on Investment]]"
   - "[[Blue Skies Research]]"
+  - "[[Patient Capital]]"
   - "[[Network Governance]]"
   - "[[Valley of Death]]"
   - "[[Basic-Applied Research Dichotomy]]"
@@ -91,7 +92,7 @@ updated: 2026-10-03
 ## 核心要素
 
 > [!feature] 核心要素
-> - **长周期时间尺度（Long Time Horizon）** 承认颠覆性创新从原型孕育到社会重塑往往需要 30 到 50 年的演化网络，资助必须建立在超越选举政治与短期商业考评的耐心资本之上。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
+> - **长周期时间尺度（Long Time Horizon）** 承认颠覆性创新从原型孕育到社会重塑往往需要 30 到 50 年的演化网络，资助必须建立在超越选举政治与短期商业考评的[[Patient Capital|耐心资本]]之上。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
 > - **系统瓶颈疏通导向（Bottleneck-Clearing Orientation）** 政策干预的正当性取决于课题是否致力于攻克制约国家前沿学科与战略产业整体发展的底层技术堵点，而非课题表面的学科归属。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 35)]]
 > - **产出形态的中立对称性（Neutrality to Output Form）** 破除对论文探索的高贵迷信与对工艺动手的文化偏见，将实验装备研制、极端材料提纯与抽象物理定律确立置于完全平等的公共资助位阶。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
 

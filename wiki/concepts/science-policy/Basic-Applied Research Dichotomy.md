@@ -8,7 +8,7 @@ aliases:
 summary: "战后主导科技政策资源配置的核心分类范式，以研究者即时立项动机将科研割裂为基础与应用两轨；后因其文化阶层偏见、单向因果谬误及导致关键硬件发明资助断档而遭系统性解构"
 type: concept
 domain: "science-policy"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
   - theme/innovation
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Public Value]]"
   - "[[Abstract]]"
   - "[[Blue Skies Research]]"
   - "[[Long-Term Public Utility]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Basic-Applied Research Dichotomy
@@ -58,7 +59,7 @@ updated: 2026-10-02
 > [!concept-lens] 概念透镜
 > - **含义** 将复杂的网状科学技术生态强行裁剪为求知与致用两条互不交融的平行轨道，并将工程学贬抑为从属地位的应用科学。
 > - **用途** 曾在冷战初期为大学争取免受政治与商业过度干预的自由探索经费提供了简明的修辞护盾；为财政管理提供了机械界定公共研发支出边界的试金石。
-> - **边界** 无法解释工业界重大发明反向促成基础物理学重大突破的普遍规律；人为切断了科学家与工程师的日常协同，导致大量具备长期战略公共价值的高风险硬件工艺与工程发明遭到资助遗弃。
+> - **边界** 无法解释工业界重大发明反向促成基础物理学重大突破的普遍规律；人为切断了科学家与工程师的日常协同，导致大量具备长期战略[[Public Value|公共价值]]的高风险硬件工艺与工程发明遭到资助遗弃。
 
 > [!citation-card] 二分法背后的文化与阶层偏见
 > 基础/应用二分法深植于古老而坚固的文化偏见：在西方智识传统中，抽象理论沉思（Episteme）向来被视为高贵公民的自由追求，而动手制作的具体手艺（Techne）则被贬低为体力劳动者的卑微技能。这种文化二元论在战后被直接照搬进科研预算编制，使得政策界认定科学认知天然高于技术制造。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]

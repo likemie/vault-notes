@@ -10,7 +10,7 @@ aliases:
 summary: "指将金融市场的风险投资与私募股权纪律同明确可测量的社会或教育改善目标相结合的投资范式；强调在追求财务回报（或资金保值）的同时实现经由量规审计的社会效益回报（ROI），以社会影响力债券和成果导向合同重塑公共教育供给。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
   - "[[Return on Investment]]"
+  - "[[Public Value]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Professional Judgment]]"
 related_theories:
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Social Impact Investing
@@ -72,7 +73,7 @@ updated: 2026-09-22
 > [!contrast-table] 投资与资助形态辨析
 > | 维度 | 社会影响力投资（Social Impact Investing） | 传统商业投资（Commercial Investing） | 传统公共财政拨款（Public Grants） |
 > |---|---|---|---|
-> | **底线追求** | 双重底线：追求社会效益度量与财务回报并重 | 单一底线：商业利润与资本增值最大化 | 公共价值：普遍人权保障与教育机会均等 |
+> | **底线追求** | 双重底线：追求社会效益度量与财务回报并重 | 单一底线：商业利润与资本增值最大化 | [[Public Value\|公共价值]]：普遍人权保障与教育机会均等 |
 > | **收益回报形态** | 财务利息/本金返还 ＋ 经量规审计的社会回报（[[Return on Investment\|ROI]]） | 纯粹货币股息与资本利得 | 社会凝聚力、公民素养提升与[[Human Capital Theory\|人力资本]]发展 |
 > | **契约兑现机制** | 成果导向合同（Pay-for-Success）与第三方量化审计 | 市场供求交易与企业财务报表审计 | 行政预算预决算程序与公开审计监督 |
 > | **风险分担主体** | 私人投资者承担项目失败风险，政府按成效买单 | 投资者自负盈亏 | 主权国家政府全额承担公共责任与财政兜底 |

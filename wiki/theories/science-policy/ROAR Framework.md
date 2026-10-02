@@ -6,7 +6,7 @@ aliases:
 summary: "由玛丽安娜·马祖卡托提出的使命导向创新政策分析框架，涵盖战略路径与方向（Routes）、探索型组织能力（Organizations）、公共价值动态评估（Assessment）以及风险收益对称共享（Risks and Rewards）四大核心维度"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 18
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -17,11 +17,13 @@ tags:
   - governance
 related_concepts:
   - "[[Mission-Oriented Innovation Policy]]"
+  - "[[Public Value]]"
   - "[[Operationalization]]"
   - "[[Champ]]"
   - "[[Wicked Problem]]"
   - "[[Paradigm]]"
   - "[[Market Shaping and Creating]]"
+  - "[[Picking the Willing]]"
   - "[[Reflexivity]]"
   - "[[Research Question]]"
 related_theories:
@@ -36,6 +38,7 @@ related_persons:
 related_facts:
   - "[[DARPA]]"
   - "[[National Institutes of Health]]"
+  - "[[KfW]]"
   - "[[Department of Energy]]"
   - "[[UN Sustainable Development Goals]]"
 related_arguments:
@@ -56,7 +59,7 @@ updated: 2026-10-03
 > - **解释对象** 解释公共部门如何突破传统被动的市场修补思维，在应对复杂社会挑战（如气候变化、公共卫生、能源转型）的全生命周期中，系统性设计、执行、评估并管理[[Mission-Oriented Innovation Policy|使命导向型创新政策]]。
 > - **理论问题** 回应了新古典经济学“市场失灵”[[Analytic Framework|分析框架]]在面对21世纪重大社会挑战时的理论贫困与工具匮乏，解决如何实现方向选择、组织试错、动态价值衡量与公私利益公平分配的系统难题。
 > - **理论类型** 分析框架与政策治理理论。
-> - **知识位置** 根植于[[Evolutionary Economics|演化经济学]]、国家[[Systems of Innovation|创新系统理论]]与公共价值理论，是[[Mission-Oriented Innovation Policy|使命导向型创新政策]]的核心[[Operationalization|操作化]]框架。
+> - **知识位置** 根植于[[Evolutionary Economics|演化经济学]]、国家[[Systems of Innovation|创新系统理论]]与[[Public Value|公共价值]]理论，是[[Mission-Oriented Innovation Policy|使命导向型创新政策]]的核心[[Operationalization|操作化]]框架。
 
 > [!claim] 核心判断
 > 实施使命导向型创新政策要求公共政策制定从根本上重塑其底层工具箱，必须在战略路径与方向（Routes and directions）、探索型公共组织能力（Organizations）、公共价值动态评估（Assessment）以及风险与收益共担共享（Risks and rewards）四大支柱上实现系统协同（ROAR），从而推动经济增长走向包容性与可持续性转型。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
@@ -68,7 +71,7 @@ updated: 2026-10-03
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）在 2016 年及 2018 年发表于《工业与企业变迁》（*Industrial and Corporate Change*）的论文中首次系统提炼并阐发了 ROAR [[Analytic Framework|分析框架]]。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
 > - **原初问题** 传统科技创新政策长期局限于“拉平竞争赛道”（Level the playing [[Champ|field]]）与事后修补市场摩擦，缺乏对创新“方向”（Directionality）的主动界定工具，导致公共部门在面对复杂的[[Wicked Problem|复杂社会难题]]时束手无策，且面临公私收益严重不对称的制度困境。
-> - **理论资源与材料** 吸收了[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA，见 [[DARPA]]）、[[National Institutes of Health|美国国立卫生研究院]]（National Institutes of Health, NIH，见 [[National Institutes of Health]]）、德国能源转型计划（Energiewende）、德国复兴信贷银行（Kreditanstalt für Wiederaufbau, KfW）以及巴西国家经济社会发展银行（Banco Nacional de Desenvolvimento Econômico e Social, BNDES）等机构的长期历史实践与实证案例。
+> - **理论资源与材料** 吸收了[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA，见 [[DARPA]]）、[[National Institutes of Health|美国国立卫生研究院]]（National Institutes of Health, NIH，见 [[National Institutes of Health]]）、德国能源转型计划（Energiewende）、[[KfW|德国复兴信贷银行]]（Kreditanstalt für Wiederaufbau, KfW）以及巴西国家经济社会发展银行（Banco Nacional de Desenvolvimento Econômico e Social, BNDES）等机构的长期历史实践与实证案例。
 > - **形成路径** 从经典科技工程（如阿波罗登月计划）向现代社会转型使命的[[Paradigm|范式]]转变中，提炼出方向设定、组织学习、动态评估与利益分享四大关键治理挑战，整合凝练为首字母缩写词“ROAR”。
 
 ---
@@ -89,7 +92,7 @@ updated: 2026-10-03
 ## 核心命题
 
 > [!theory-proposition] 命题一｜创新政策必须主动设定变革方向并以社会挑战统摄跨部门跨主体协同
-> **解释** 创新不仅关乎增长的速率，更关乎增长的方向。现代产业与科技政策不应孤立地在狭隘的特定行业中“挑选赢家”（Picking winners），而应围绕重大社会挑战确立明确的战略方向，进而“挑选意愿者”（Picking the willing）——即激励全经济范围内愿意为达成该使命协同攻坚的跨行业、跨部门主体。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–806)]]
+> **解释** 创新不仅关乎增长的速率，更关乎增长的方向。现代产业与科技政策不应孤立地在狭隘的特定行业中“挑选赢家”（Picking winners），而应围绕重大社会挑战确立明确的战略方向，进而“[[Picking the Willing|挑选意愿者]]”（Picking the willing）——即激励全经济范围内愿意为达成该使命协同攻坚的跨行业、跨部门主体。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–806)]]
 >
 > **应用实例** 德国能源转型（Energiewende）政策并未单纯补贴新能源企业，而是设定了去核化、提升能效与发展可再生能源的宏大方向，从而倒逼传统钢铁行业探索材料回收与循环利用技术，实现了传统制造产业的绿色转型。
 
@@ -98,7 +101,7 @@ updated: 2026-10-03
 >
 > **应用实例** [[Department of Energy|美国能源部]]（Department of Energy, DOE，见 [[Department of Energy]]）在清洁能源贷款担保计划中同时资助了特斯拉（Tesla）与索林德拉（Solyndra）。尽管后者破产引发批评，但特斯拉的巨大成功证明了组合投资与探索型风险承担对培育新兴产业的必要性。
 
-> [!theory-proposition] 命题三｜评估体系必须从静态成本收益核算转向全流程动态公共价值测量
+> [!theory-proposition] 命题三｜评估体系必须从静态成本收益核算转向全流程动态[[Public Value|公共价值]]测量
 > **解释** 新古典市场失灵框架下的静态成本收益分析（Cost-Benefit Analysis, CBA）倾向于规避不确定性且无法捕捉长期的技术与制度外溢效应。使命导向政策必须引入“公共价值”（Public Value）概念，建立涵盖全产业链系统转型、动态网络构建与跨领域溢出效应的连续评估工具。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–807)]]
 >
 > **应用实例** 评估公共广播机构（如英国广播公司 BBC）或公共科研资助机构时，不能仅看其是否挤出商业公司，而应动态衡量其是否通过设立高标准内容和技术前沿引领了整个数字媒介与创意产业生态的升级。
@@ -124,7 +127,7 @@ updated: 2026-10-03
 > |:---------|:---------------|:-----------------|:-----------------|
 > | **路径与方向（R）**<br>[[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 政策是否设定了清晰、具挑战性且可衡量的长期转型目标？是否激发了跨部门协同？ | 战略白皮书、使命清单、多利益相关方审议机制记录。 | 仅设定宽泛愿景而无明确时间与指标限定者不属于有效方向；仅限于单一垂直行业者属于传统产业政策。 |
 > | **组织能力（O）**<br>[[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 公共机构是否具备探索型自主权与组合管理能力？是否允许试错与动态调整？ | 机构人事编制与薪酬灵活性、项目组合终止与追加投资机制、内部技术判断能力。 | 严苛惩罚失败、将核心战略分析外包给商业咨询公司的层级官僚机构无法支撑使命实施。 |
-> | **动态评估（A）**<br>[[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 评价标准是否超越了静态成本收益分析与简单的“去风险”指标？ | 动态监测指标体系、溢出效应追踪机制、全产业链转型评估报告。 | 单纯依赖短期财务回报率或项目合规审计无法反映系统性公共价值创造。 |
+> | **动态评估（A）**<br>[[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 评价标准是否超越了静态成本收益分析与简单的“去风险”指标？ | 动态监测指标体系、溢出效应追踪机制、全产业链转型评估报告。 | 单纯依赖短期财务回报率或项目合规审计无法反映系统性[[Public Value\|公共价值创造]]。 |
 > | **风险与收益（R）**<br>[[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 公私合作中是否存在对等的风险承担与收益分配机制？ | 资助合同知识产权条款、股权/特许权分成协议、终端产品定价规则。 | 若公共资金承担全部损失而无任何收益分享或价格约束，表明存在严重分配失衡。 |
 
 ### 分层维度与末级指标
@@ -187,7 +190,7 @@ updated: 2026-10-03
 > - **适合分析** 涉及高度复杂性、跨领域协同与长期高风险投入的重大社会转型（如碳中和、老龄化健康、数字基础设施）。
 > - **成立条件** 需要具备相对稳固的政治共识、较高素质且具战略自主性的专业化公共行政团队，以及发育成熟的科研与产业基础。
 > - **解释不足** 对地缘政治冲突、党派极化政治对长期战略使命的频繁阻断缺乏充分的制度应对方案；对发展中国家能力严重不足情境的适配性有待深化。
-> - **转化困难** 公共价值的动态量化指标难以标准化；在公私谈判中确定合理的收益分享比例往往面临私人企业的激烈抵制。
+> - **转化困难** [[Public Value|公共价值]]的动态量化指标难以标准化；在公私谈判中确定合理的收益分享比例往往面临私人企业的激烈抵制。
 
 ---
 

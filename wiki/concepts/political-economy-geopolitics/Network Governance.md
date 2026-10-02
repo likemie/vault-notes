@@ -8,7 +8,7 @@ aliases:
 summary: "以多元行动者横向协作、关系协调与异层结构替代垂直科层或纯粹市场的公共治理方式；在批判教育政策与演化科技政策中揭示国家并未空心化退场，而是表现为积极特许赋权、资助中介并缔造市场的异层担保人，以及通过去中心化探索网络引领使命导向创新的催化者。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Co-affiliation]]"
   - "[[Public-Private Partnership in Research]]"
+  - "[[Public Dynamic Capabilities]]"
   - "[[Social Impact Investing]]"
   - "[[Assemblage]]"
   - "[[Deductible Gift Recipient]]"
@@ -138,7 +139,7 @@ updated: 2026-10-03
 > [!feature] 核心要素
 > - **多元行动者互赖与公私跨界结盟（Interdependence & Multi-Actor Alliances）** 政策不再由单一政府行政部门闭门垄断，而是由跨国金融资本、商业战略咨询顾问、本土慈善信托、学术智库与公共官僚共同构筑治理同盟，各方在资金、专业信誉与法定资质上形成深度互赖。[[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. viii]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 524]]
 > - **国家演进为异层市场缔造者与经纪人（The State as Heterarchical Market-Maker & Broker）** 国家并未退场或被空心化，而是转型为“市场缔造者”（Market-maker）与“元治理者”（Meta-governor）；国家主动运用立法修正案与公共财政定向注资，积极孵化并扶持私营中介组织承接公共职能。[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 522–523]]
-> - **去中心化探索网络与公共动态能力（Decentralized Exploratory Networks & Dynamic Capabilities）** 在科技创新与产业攻坚领域，网络治理展现为类似 [[DARPA]] 的去中心化探索网络，通过赋予项目经理高度战略自主权与组合容错空间，引领公私主体共同攻关。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
+> - **去中心化探索网络与[[Public Dynamic Capabilities|公共动态能力]]（Decentralized Exploratory Networks & Dynamic Capabilities）** 在科技创新与产业攻坚领域，网络治理展现为类似 [[DARPA]] 的去中心化探索网络，通过赋予项目经理高度战略自主权与组合容错空间，引领公私主体共同攻关。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 > - **治理话语转型：从国家直接供给到国家补贴与[[Social Impact Investing|社会投资]]（Discursive Shift: State Provision to Social Investment）** 政策话语发生根本性重构，从战后普遍性的“国家资助与提供”转向强调“纳税人可负担能力限制”下的“国家补贴”、“战略投资”与“社会投资”，为私营资本在公立体系中索取决策权和财产权提供了伦理合法性。[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 7–8]]
 > - **耐用客体、契约外包与公私伙伴关系[[Assemblage|装配]]（Contractual Outsourcing & [[Public-Private Partnership in Research|PPP]] Assemblage）** 治理协调高度依托实体化的“耐用客体”——包括公私合作伙伴关系（PPP）特许经营合同、非营利担保有限公司注册底座，以及法定免税资格（如澳大利亚 [[Deductible Gift Recipient|DGR1]] 资质），使商业资本得以在免受公法直接问责的缝隙中运作。[[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. vi]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 523]]
 > - **量规统摄与“通过指标的治理”（Governance by Indicators & Performance Metrics）** 网络治理摒弃了繁文缛节的行政微观干预，转而依靠量化[[Performance Indicators|绩效指标]]、实证证据工具箱与质量基准进行远程控制（[[Governing at a Distance]]），将公私多元主体的注意力锁定在可审计的技术成果之上。[[Argument_Rambla_2022_Springer|Rambla, 2022, pp. 174–175]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 531]]

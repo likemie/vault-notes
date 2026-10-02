@@ -12,7 +12,7 @@ title: "Argument_Cheng_2026_KeJiChuangXin"
 argument_key: "Argument_Cheng_2026_KeJiChuangXin"
 argument_display_title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
 argument_kind: "book"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
   - region/china
 related_concepts:
   - "[[Technology Transfer]]"
+  - "[[Patient Capital]]"
   - "[[New Quality Productive Forces]]"
   - "[[Research Translation]]"
   - "[[Pilot Scale Platform]]"
@@ -216,7 +217,7 @@ citation_aliases:
 > 科技部门的规划重前沿突破，产业部门的规划重当下瓶颈，两者缺乏深度协调。地方政府在电子信息、智能制造等热门领域盲目布局、重复建设功能趋同的研发中心，导致人才、资金、技术等创新资源分散配置和低效竞争(p.23)。
 
 > [!warning] 资金与人才"旋转门"阻滞：制度壁垒
-> 资金端：国内风险投资周期普遍偏短（3-5年），缺乏支持长周期高风险硬科技项目的耐心资本。人才端：体制内（事业单位编制、薪酬与职称挂钩、稳定性高）与体制外（民营企业绩效导向、风险高）存在巨大差异，科研人员若想推动技术产业化通常需放弃编制身份，创业意愿普遍较低。这种制度壁垒锁死了学术界与产业界之间的人才流动(pp.23–24)。
+> 资金端：国内风险投资周期普遍偏短（3-5年），缺乏支持长周期高风险硬科技项目的[[Patient Capital|耐心资本]]。人才端：体制内（事业单位编制、薪酬与职称挂钩、稳定性高）与体制外（民营企业绩效导向、风险高）存在巨大差异，科研人员若想推动技术产业化通常需放弃编制身份，创业意愿普遍较低。这种制度壁垒锁死了学术界与产业界之间的人才流动(pp.23–24)。
 
 ---
 

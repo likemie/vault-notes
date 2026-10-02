@@ -11,7 +11,7 @@ aliases:
 summary: "Schot & Steinmueller（2018）与 Mazzucato（2018）等学者识别的创新政策三大范式——科学促增长（Frame 1）、国家创新系统（Frame 2）与变革转型（Frame 3），揭示了公共干预从弥补市场失灵到管理系统失灵再到主动进行市场塑造与方向性引导的递进演化逻辑"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 31
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Growth]]"
   - "[[Transformative Change]]"
   - "[[Mission-Oriented Innovation Policy]]"
+  - "[[Public Value]]"
   - "[[Hypothesis]]"
   - "[[Market Shaping and Creating]]"
   - "[[Knowledge Production]]"
@@ -38,6 +39,8 @@ related_concepts:
   - "[[Wicked Problem]]"
   - "[[Reflexivity]]"
   - "[[Transformative System Failures]]"
+  - "[[Picking the Willing]]"
+  - "[[Patient Capital]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[ROAR Framework]]"
@@ -54,6 +57,7 @@ related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[DARPA]]"
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[Horizon Europe Missions]]"
 related_arguments:
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
@@ -71,7 +75,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> 创新政策[[Paradigm|范式]]（Innovation Policy Paradigms，或称创新政策三框架 Three Frames for Innovation Policy）是指学者（Schot & Steinmueller, 2018; Lindner et al., 2024; [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]]）识别出的、自第二次世界大战以来发达经济体科技创新政策所经历的三个核心演化阶段：**科学促增长（Frame 1: Science for [[Growth]]）**、**国家[[Systems of Innovation|创新系统]]（Frame 2: Systems of Innovation）** 与 **[[Transformative Change|变革转型]]／使命导向（Frame 3: Transformative Change & [[Mission-Oriented Innovation Policy|mission-oriented policy]]）**。每个范式代表了国家与公共部门对“创新如何发生”、“政策为何干预”以及“公共价值如何实现”这三大根本问题的不同理论认知与制度回答。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 28–35)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–806)]]
+> 创新政策[[Paradigm|范式]]（Innovation Policy Paradigms，或称创新政策三框架 Three Frames for Innovation Policy）是指学者（Schot & Steinmueller, 2018; Lindner et al., 2024; [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]]）识别出的、自第二次世界大战以来发达经济体科技创新政策所经历的三个核心演化阶段：**科学促增长（Frame 1: Science for [[Growth]]）**、**国家[[Systems of Innovation|创新系统]]（Frame 2: Systems of Innovation）** 与 **[[Transformative Change|变革转型]]／使命导向（Frame 3: Transformative Change & [[Mission-Oriented Innovation Policy|mission-oriented policy]]）**。每个范式代表了国家与公共部门对“创新如何发生”、“政策为何干预”以及“[[Public Value|公共价值]]如何实现”这三大根本问题的不同理论认知与制度回答。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 28–35)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–806)]]
 
 > [!concept-lens] 范式透镜
 > - **含义** 指主导特定历史时期科技创新战略设计、公共财政配置、中介机构建设与评估标准的深层理论[[Hypothesis|假设]]与制度范式。
@@ -126,7 +130,7 @@ updated: 2026-10-03
 >   - **大学角色** 从单纯的知识供给方升级为“系统催化剂”与深度互动伙伴，通过建立[[University-Based Research Center|产学合作研究中心]]、长期[[Knowledge Exchange|知识交流]]拨款融入国家[[Innovation Ecosystem|创新生态]]。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 29–31)]]
 > - **范式三：[[Transformative Change|变革转型]]与使命导向（Frame 3: Transformative Change & Mission-Oriented）**
 >   - **理论根基** 面对21世纪气候变化、人口老龄化与公共卫生危机等[[Wicked Problem|复杂社会难题]]，系统范式因缺乏价值导向而陷入被动（Schot & Steinmueller, 2018; Mazzucato, 2018; [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al., 2020]]）。
->   - **政策干预** 突破被动的系统修补，转向主动的[[Market Shaping and Creating|市场塑造与市场共创]]；针对方向性失灵、需求表达失灵、[[Reflexivity|反思性]]失灵与政策协调失灵四大[[Transformative System Failures|变革性系统失灵]]构建 ROAR 治理工具箱，以重大挑战为导向“挑选意愿者”。
+>   - **政策干预** 突破被动的系统修补，转向主动的[[Market Shaping and Creating|市场塑造与市场共创]]；针对方向性失灵、需求表达失灵、[[Reflexivity|反思性]]失灵与政策协调失灵四大[[Transformative System Failures|变革性系统失灵]]构建 ROAR 治理工具箱，以重大挑战为导向“[[Picking the Willing|挑选意愿者]]”。
 >   - **大学角色** 转型为多方利益相关者的“中立对话召集者”、社会转型“方向性情报贡献者”以及国家重大战略使命的“共同塑造者”。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 32–35)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–812)]]
 
 ---
@@ -147,7 +151,7 @@ updated: 2026-10-03
 
 ### 命题二　从消极市场修补到主动市场塑造代表了公共干预哲学的根本跃迁
 
-> [!concept-lens] [[Market Shaping and Creating|市场塑造]]范式与公共价值重塑
+> [!concept-lens] [[Market Shaping and Creating|市场塑造]]范式与[[Public Value|公共价值]]重塑
 > 范式一与范式三在公共部门的角色定位与正当性来源上存在根本对立。
 
 > [!claim] Mazzucato, M.
@@ -195,7 +199,7 @@ updated: 2026-10-03
 > - **1987–1993 — 范式二兴起：国家[[Systems of Innovation|创新系统理论]]化** Freeman（1987）、Lundvall（1992）与 Nelson（1993）正式提出国家创新系统概念；英国 1993 年发布《发挥我们的潜力》（*Realising Our Potential*）白皮书，1999 年确立长期公式化[[Knowledge Exchange|知识交流]]拨款，标志着系统范式的制度化。
 > - **2012 — [[Transformative System Failures|变革性系统失灵]]框架提出** Weber & Rohracher（2012）在《Research Policy》发表奠基性论文，系统提出方向性、需求表达、[[Reflexivity|反思性]]与政策协调四类失灵，为超越系统范式提供理论支点。
 > - **2018 — 范式三系统建构：三范式与 ROAR 使命框架** Schot & Steinmueller（2018）在《Research Policy》发表《创新政策三框架》（*Three Frames for Innovation Policy*）；[[Mariana Mazzucato|马祖卡托]]（Mazzucato, 2018）发表《[[Mission-Oriented Innovation Policy|使命导向创新政策]]：挑战与机遇》，确立以[[Market Shaping and Creating|市场塑造]]与 ROAR 框架为核心的使命导向范式。
-> - **2020–2024 — 实践落地与全球试验** 欧盟全面启动地平线欧洲战略使命；美国出台《芯片与科学法案》（[[CHIPS and Science Act|CHIPS Act]]）设立区域创新引擎；[[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] 提出问题–解决方案空间[[Analytic Framework|分析框架]]；[[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] 总结大学在三范式演化中的角色重塑。
+> - **2020–2024 — 实践落地与全球试验** 欧盟全面启动[[Horizon Europe Missions|地平线欧洲战略使命]]；美国出台《芯片与科学法案》（[[CHIPS and Science Act|CHIPS Act]]）设立区域创新引擎；[[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] 提出问题–解决方案空间[[Analytic Framework|分析框架]]；[[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] 总结大学在三范式演化中的角色重塑。
 
 ---
 
@@ -213,7 +217,7 @@ updated: 2026-10-03
 > > 范式三要求公共部门具备强大的前瞻战略规划、跨部门破壁协同与社会争议调解能力；新古典学者与公共选择学派担忧过度干预会导致行政寻租、利益集团俘获与政治极化下的政策震荡。
 > >
 > > - **Buchanan (2003)** 警告特定行业垂直补贴极易滋生政治游说与资本浪费。
-> > - **[[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]** 主张通过“挑选意愿者”而非“挑选赢家”、建立透明组合管理与风险收益共享机制化解寻租风险。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–810)]]
+> > - **[[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]** 主张通过“[[Picking the Willing|挑选意愿者]]”而非“挑选赢家”、建立透明组合管理与风险收益共享机制化解寻租风险。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–810)]]
 >
 > > [!axis] 大学职能扩张与组织角色过载风险
 > > 从“[[Knowledge Production|知识生产]]者”到“系统催化剂”再到“中立召集者与方向贡献者”，大学承担的社会职能日益膨胀；批评者担忧角色过载可能侵蚀大学从事长周期自由探索研究（好奇心驱动）的核心根基。
@@ -221,7 +225,7 @@ updated: 2026-10-03
 > > - **Kelleher & Ulrichsen (2022)** 警告大学若缺乏制度能力建设与学术自主权保障，多重角色期望可能导致科研人员评价撕裂与组织目标迷失。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 34–35)]]
 
 > [!warning] 实施边界与制度张力
-> - **短期选举周期与长周期转型的结构矛盾** 变革转型范式（Frame 3）需要长达数十年跨周期的耐性资本与战略定力，这与现代民主政体 4–5 年的选举周期及财政短期考核存在制度性张力。
+> - **短期选举周期与长周期转型的结构矛盾** 变革转型范式（Frame 3）需要长达数十年跨周期的[[Patient Capital|耐性资本]]与战略定力，这与现代民主政体 4–5 年的选举周期及财政短期考核存在制度性张力。
 > - **评估工具与治理范式的脱节** 许多国家虽然宣称转向使命导向政策，但在行政评估中依然严重依赖范式一的专利数、论文数或静态成本收益分析（CBA），导致政策实践陷入“新范式愿景、旧工具考核”的治理陷阱。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
 
 ---

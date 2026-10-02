@@ -32,6 +32,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Problem of Many Hands]]"
   - "[[Chain of Evidence]]"
+  - "[[Public Value]]"
   - "[[Institutionalising Social Learning]]"
   - "[[Reflexivity]]"
   - "[[Open-Mindedness]]"
@@ -59,7 +60,7 @@ title: "Argument_Wanzenbock_2020_SPP"
 argument_key: "Argument_Wanzenbock_2020_SPP"
 argument_display_title: "A framework for mission-oriented innovation policy: Alternative pathways through the problem–solution space"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -228,7 +229,7 @@ issuing_organization: ""
 > [!policy-context] 自动驾驶技术的寻找问题困境
 > - **方案端的技术成熟**
 >   国际自动机工程师学会（Society of Automotive Engineers, SAE）已建立了成熟的自动驾驶分级技术标准，车载雷达、传感器与感知算法高度成熟。（p.480）
-> - **问题端的公共价值脱节**
+> - **问题端的[[Public Value|公共价值]]脱节**
 >   技术究竟应当用于解决什么核心社会问题高度分裂：车企宣传其能消除人为失误提升安全，但规划部门担忧其会刺激私家车出行里程反弹、加剧道路拥堵并诱发城市蔓延。（p.480）
 
 这表明，针对处于不同象限的挑战，政府必须根据其合法性与技术成熟度特征匹配相适应的治理策略。

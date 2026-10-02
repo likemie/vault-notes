@@ -10,9 +10,9 @@ title: "Argument_Peterson_1987_OpenCourt_Ch04"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch04"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 44
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 publication_place: "La Salle, IL"
@@ -58,6 +58,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[School Leadership]]"
   - "[[Evaluative Validity]]"
+  - "[[Public Value]]"
 related_theories: []
 related_methods:
   - "[[Action Research]]"
@@ -920,7 +921,7 @@ updated: '2026-09-12'
 
 > [!feature] 1974 年 UNESCO 大会决议的四层内容
 > - **确认进展** IBO 已在协调高中后期课程和建立通往大学的国际评价体系方面取得进展。
-> - **判断公共价值** 这项试验可以为国家教育系统发展、更新课程和改进评价方法提供一种途径。
+> - **判断[[Public Value|公共价值]]** 这项试验可以为国家教育系统发展、更新课程和改进评价方法提供一种途径。
 > - **提出治理原则** 面向国际社会的服务应在国际监督下加强并延续。
 > - **限定实际授权** 总干事仅受邀研究自 1977 年起可以采取的连续性安排，并向第十九届大会提出建议；决议本身没有设置工作单元、配置预算或承诺接管考试（p. 93）。
 >

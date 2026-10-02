@@ -10,7 +10,7 @@ aliases:
 summary: "指优秀学术研究对学术共同体之外的经济、社会、公共政策、医疗健康、文化、教育及生态环境等领域所产生的可证实、可测度的实质性积极贡献与变革；在循证教育中涵盖中间过程产出、使用者行为变革与最终受益人成效三层评价阶梯"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Academic Achievement]]"
   - "[[Paradigm]]"
+  - "[[Public Value]]"
   - "[[Blue Skies Research]]"
   - "[[Heterogeneity]]"
   - "[[New Public Management]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Research Impact
@@ -211,7 +212,7 @@ updated: 2026-09-22
 
 > [!tension] 科研影响力评估的双元利益导向冲突
 > - **技术商业化导向（蓝方）** 强调专利授权、[[Technology Transfer\|技术转让]]与企业衍生公司所带来的立竿见影的量化财政回报与经济增长。
-> - **公共价值与社会参与导向（红方）** 强调深层社会信任、[[Citizen Science\|公民科学]]素养提升与前瞻伦理对话，认为其虽见效缓慢且难以线性度量，却是维系科学社会存续的基石。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
+> - **[[Public Value|公共价值]]与社会参与导向（红方）** 强调深层社会信任、[[Citizen Science\|公民科学]]素养提升与前瞻伦理对话，认为其虽见效缓慢且难以线性度量，却是维系科学社会存续的基石。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
 
 > [!warning] 适用局限
 > 科研影响力概念容易导致将学术研究的价值狭隘化为短期功利效益；若对基础研究强行套用线性因果归因指标，可能严重扼杀自由探索类研究（[[Blue Skies Research]]），且忽视了科学思想在历史长河中渐进、跨学科渗透的非线性规律。

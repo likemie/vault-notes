@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Avatar]]"
   - "[[San Francisco Bay Area]]"
   - "[[Hypothesis]]"
+  - "[[Public Value]]"
   - "[[Long-Term Public Utility]]"
   - "[[Externalization]]"
   - "[[Mission-Oriented Innovation Policy]]"
@@ -161,7 +162,7 @@ updated: 2026-10-03
 > > [!axis] 同行评审保守主义与转化脱节争议
 > > NIH 现行资助评审体系是否过分偏向风险极低的增量型基础论文产出，而轻视了关键临床工程发明的攻关。
 > >
-> > - **科技政策学者批评** 纳拉亚纳穆尔提等学者指出，由于 NIH 长期在行政话语中沿用战后基础/应用二分法，导致资助机制高度向大学传统的纯理论[[Hypothesis|假设]]检验倾斜，平均资助年龄推迟至 40 岁以上，评审机制倾向于回避高风险探索；使具有重大公共价值的底层医疗工艺缺乏稳定支持。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
+> > - **科技政策学者批评** 纳拉亚纳穆尔提等学者指出，由于 NIH 长期在行政话语中沿用战后基础/应用二分法，导致资助机制高度向大学传统的纯理论[[Hypothesis|假设]]检验倾斜，平均资助年龄推迟至 40 岁以上，评审机制倾向于回避高风险探索；使具有重大[[Public Value|公共价值]]的底层医疗工艺缺乏稳定支持。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
 > > - **政策重构建议** 学者主张将评价标准从虚幻的“纯科学”转向[[Long-Term Public Utility|长期公共效用]]，设立打破学科边界的联合攻关团队，全面托底关乎全民健康的底层工艺发明与高风险创新。
 >
 > > [!axis] 预算翻倍计划的体制后遗症：立项率暴跌与软钱脆弱性

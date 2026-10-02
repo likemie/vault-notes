@@ -8,7 +8,7 @@ aliases:
 summary: "指跨国私营战略咨询公司（如麦肯锡、波士顿咨询、贝恩及四大核数所）深度嵌入并系统主导国家公共政策制定、机构重组与教育改革方案的政治治理现象，伴随公共行政能力外包与商业量规对民主审议的置换。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[New Managerialism]]"
   - "[[Assemblage]]"
   - "[[Policy Network]]"
+  - "[[Public Value]]"
   - "[[Attrition]]"
 related_theories:
   - "[[Hegemony]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-09-29
+updated: 2026-10-03
 ---
 
 # Consultocracy
@@ -165,7 +166,7 @@ updated: 2026-09-29
 
 > [!debates] 学术争议
 >
-> > [!axis] 专业效率赋能 vs 公共价值与制度能力[[Attrition\|流失]]
+> > [!axis] 专业效率赋能 vs [[Public Value|公共价值]]与制度能力[[Attrition\|流失]]
 > > - **新自由主义与企业赞同视角** 认为私营咨询公司拥有全球最佳管理工具与敏捷交付能力，能够打破官僚系统的因循守旧，提升公共开支的使用效率。
 > > - **批判治理与公共价值视角** 指出咨询公司输出的模板往往脱离教育复杂学情，且咨询费用极其高昂，实质上是以公共财政滋养私营咨询资本，造成公共机构自身治理能力的永久性退化。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, p. 522)]]
 

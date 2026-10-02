@@ -9,10 +9,10 @@ aliases:
 summary: "以应对重大社会挑战和变革性系统转型为核心导向，通过主动塑造与共创市场、战略方向引导、挑选意愿者、ROAR治理框架与跨部门政策工具组合推动创新的公共政策范式"
 type: concept
 domain: "science-policy"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 31
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/science-policy
   - innovation-policy
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Market Shaping and Creating]]"
+  - "[[Picking the Willing]]"
   - "[[Scientific Uncertainty]]"
   - "[[Wicked Problem]]"
   - "[[Document]]"
@@ -32,6 +33,8 @@ related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Research Translation]]"
   - "[[Open-Mindedness]]"
+  - "[[Patient Capital]]"
+  - "[[Public Value]]"
   - "[[Hypothesis]]"
   - "[[Transformative System Failures]]"
   - "[[Reflexivity]]"
@@ -66,7 +69,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> 使命导向创新政策（Mission-Oriented Innovation Policy, MIP）是指一种旨在调动前沿科学、技术与产业创新资源，以解决具有明确社会紧迫性的重大社会挑战（如气候变化、公共健康、能源转型与生态危机）的系统性公共政策[[Paradigm|范式]]。不同于传统基于新古典经济学弥补市场失灵或[[Evolutionary Economics|演化经济学]]修补系统失灵的被动政策，使命导向创新政策强调为经济与社会–技术系统提供明确的方向性（Directionality），通过主动进行[[Market Shaping and Creating|市场塑造与市场共创]]、挑选意愿者（Picking the willing）以及多层级政策工具组合，推动从关键技术突破到制度安排与社会大众行为模式的全面转型。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 474–475)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
+> 使命导向创新政策（Mission-Oriented Innovation Policy, MIP）是指一种旨在调动前沿科学、技术与产业创新资源，以解决具有明确社会紧迫性的重大社会挑战（如气候变化、公共健康、能源转型与生态危机）的系统性公共政策[[Paradigm|范式]]。不同于传统基于新古典经济学弥补市场失灵或[[Evolutionary Economics|演化经济学]]修补系统失灵的被动政策，使命导向创新政策强调为经济与社会–技术系统提供明确的方向性（Directionality），通过主动进行[[Market Shaping and Creating|市场塑造与市场共创]]、[[Picking the Willing|挑选意愿者]]（Picking the willing）以及多层级政策工具组合，推动从关键技术突破到制度安排与社会大众行为模式的全面转型。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 474–475)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向国家和公共机构为了达成特定重大社会转型目标而主动设立议程、开辟全新[[Technological Trajectories|技术轨道]]、引导创新方向并协同多元跨界主体的公共治理机制。
@@ -101,7 +104,7 @@ updated: 2026-10-03
 > |---|---|---|---|
 > | **核心哲学** | 修正市场失灵（Market Fixing） | 修正系统与网络失灵（System Fixing） | [[Market Shaping and Creating\|主动市场塑造与共创（Market Shaping）]] |
 > | **干预目标** | 提高基础科研产出与经济增速 | 优化产学研合作与国家产业竞争力 | 应对重大社会挑战与实现可持续系统转型 |
-> | **方向选择** | 中立与横向支持（不干涉方向） | 促进现有产业集群协同（基于既有轨道） | 战略性设立转型方向，挑选意愿者（Picking the willing） |
+> | **方向选择** | 中立与横向支持（不干涉方向） | 促进现有产业集群协同（基于既有轨道） | 战略性设立转型方向，[[Picking the Willing\|挑选意愿者]]（Picking the willing） |
 > | **治理工具** | 通用税收抵免、基础研究拨款 | 产学研合作平台、[[Technology Transfer\|技术转移]]中心、孵化器 | ROAR 框架、任务采购、动态组合管理、风险收益共享 |
 > | **技术定位** | 线性科技突破 | 技术扩散与[[Absorptive Capacity\|吸收能力]]提升 | 科技创新、制度重塑与公众行为变革系统共进 |
 
@@ -122,8 +125,8 @@ updated: 2026-10-03
 
 > [!quad-grid] ROAR 政策[[Analytic Framework|分析框架]]四大支柱
 > - **战略路径与方向（Routes）** 公共政策主动确立社会转型方向，通过广泛的民主审议确保方向合法性，将宏大挑战转化为聚焦载体。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
-> - **探索型组织能力（Organizations）** 构建具备试错自主权、能够容忍早期失败并提供长期耐性资本（Patient Capital）的去中心化公共机构网络。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
-> - **公共价值动态评估（Assessment）** 超越静态成本收益分析（CBA）与挤出效应[[Hypothesis|假设]]，建立涵盖全价值链溢出与系统转型的公共价值动态监测体系。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
+> - **探索型组织能力（Organizations）** 构建具备试错自主权、能够容忍早期失败并提供长期[[Patient Capital|耐性资本]]（Patient Capital）的去中心化公共机构网络。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
+> - **[[Public Value|公共价值]]动态评估（Assessment）** 超越静态成本收益分析（CBA）与挤出效应[[Hypothesis|假设]]，建立涵盖全价值链溢出与系统转型的公共价值动态监测体系。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
 > - **风险与收益共享（Risks & rewards）** 构建公私对等的收益共享机制（股权保留、特许权提成、价格上限），消除“风险社会化、收益私有化”的制度不公。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
 
 > [!dimension] 使命导向创新政策的四层金字塔治理架构
@@ -174,13 +177,13 @@ updated: 2026-10-03
 > 传统产业政策因针对特定行业或特定企业直接补贴，极易被利益集团游说俘获并造成公共资源浪费；使命政策通过重构垂直干预靶向消除这一结构性缺陷。
 
 > [!claim] Mazzucato, M.
-> **挑选意愿者机制** 使命导向政策确立了一种新型的垂直干预逻辑，政策不选定特定企业或单一产业（“挑选赢家”），而是选定必须实现的社会转型方向，并“挑选意愿者”（Picking the willing）——即在全经济范围内激励所有愿意致力于解决该挑战的跨行业公私组织。通过以问题为核心拉动跨部门协同和自下而上的多元探索，既避免了特定行业的寻租俘获，又带动了传统低技术产业的系统革新。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–806)]]
+> **[[Picking the Willing|挑选意愿者]]机制** 使命导向政策确立了一种新型的垂直干预逻辑，政策不选定特定企业或单一产业（“挑选赢家”），而是选定必须实现的社会转型方向，并“挑选意愿者”（Picking the willing）——即在全经济范围内激励所有愿意致力于解决该挑战的跨行业公私组织。通过以问题为核心拉动跨部门协同和自下而上的多元探索，既避免了特定行业的寻租俘获，又带动了传统低技术产业的系统革新。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–806)]]
 
 ---
 
 ### 命题四　公共部门承担早期高风险时必须通过制度设计实现风险与回报的对称共享
 
-> [!concept-lens] 制度对称性与公共价值循环
+> [!concept-lens] 制度对称性与[[Public Value|公共价值]]循环
 > 当公共资金在早期创新中承担了公共风险投资（VC）的功能时，必须构建公私对等的分配机制以避免“风险社会化、收益私有化”。
 
 > [!claim] Mazzucato, M.
@@ -206,7 +209,7 @@ updated: 2026-10-03
 > - **1960s–1980s — 经典使命型研发时期** 以美国阿波罗计划与曼哈顿工程为代表，目标单一且由国家自上而下封闭主导，注重尖端工程技术突破。
 > - **1993 — 新旧使命对比理论化** 索特与阿伦德尔（Soete & Arundel, 1993）首次系统对比了传统国防航天使命与以环境社会挑战为中心的新型使命政策。
 > - **2012 — [[Transformative System Failures|变革性系统失灵]]框架提出** Weber & Rohracher（2012）提出涵盖方向性、需求表达、[[Reflexivity|反思性]]与跨层级协调的四类系统失灵，为新一代使命政策奠定理论基石。
-> - **2018 — 欧盟地平线欧洲战略确立与 ROAR 框架** [[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）提出[[Market Shaping and Creating|市场塑造]]、挑选意愿者机制与 ROAR [[Analytic Framework|分析框架]]，推动使命导向框架进入欧盟科研创新顶层设计，设立癌症攻克、气候适应等五大战略使命。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
+> - **2018 — 欧盟地平线欧洲战略确立与 ROAR 框架** [[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）提出[[Market Shaping and Creating|市场塑造]]、[[Picking the Willing|挑选意愿者]]机制与 ROAR [[Analytic Framework|分析框架]]，推动使命导向框架进入欧盟科研创新顶层设计，设立癌症攻克、气候适应等五大战略使命。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
 > - **2020 — 过程导向与问题–解决方案空间建构** [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]]系统解构社会挑战的双重棘手性，提出基于问题–解决方案空间的过程导向收敛路径框架。
 
 ---
@@ -219,7 +222,7 @@ updated: 2026-10-03
 > > 批评者质疑政府是否有能力准确把握技术变革方向，担忧过度干预会导致行政寻租、政治俘获与资本浪费；支持者则强调重大社会危机需要强有力的国家前瞻引领与早期风险承担。
 > >
 > > - **Buchanan (2003)** 批评传统行业性垂直干预极易被特定企业游说集团俘获，造成公共资源浪费。
-> > - **[[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]** 强调进取型国家应发挥战略引领作用，通过以社会挑战为靶向“挑选意愿者”和风险收益共享重塑公共价值。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–810)]]
+> > - **[[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]** 强调进取型国家应发挥战略引领作用，通过以社会挑战为靶向“[[Picking the Willing|挑选意愿者]]”和风险收益共享重塑[[Public Value|公共价值]]。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–810)]]
 > > - **[[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]]** 强调当代社会使命不能沦为官僚精英的技术狂欢，必须融入广泛的公众审议与自下而上的需求表达。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 485–486)]]
 
 > [!warning] 适用局限与能力边界

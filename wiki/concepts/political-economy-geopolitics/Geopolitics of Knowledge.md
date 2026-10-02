@@ -6,7 +6,7 @@ aliases:
 summary: "围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 78
+related_count: 79
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[Innovation Hub]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Public Value]]"
   - "[[New Public Management]]"
   - "[[Transnational Research Collaboration]]"
   - "[[Research Question]]"
@@ -103,7 +104,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Geopolitics of Knowledge
@@ -300,7 +301,7 @@ updated: 2026-10-02
 **国际化的理性转移** Rizvi 的核心发现是：国际化的主导话语和理性已从"发展主义"（帮助发展中国家现代化、能力建设、国际理解）转向"市场理性"（收入创造、全球排名、品牌建设、人力资源开发）。高等教育被视为**出口产业**——成功的标准从培养了多少人才转变为招了多少全额付费学生、全球排名上升了多少位([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.96–97]])。详见 [[Internationalization of Higher Education|高等教育国际化]] > 概念演变。
 
 > [!finding-cards] 市场化转型的三重连锁后果
-> 1. **公共价值被"挤出"** 随着国际学生学费成为主要收入来源，"政府不再感到有必要为高等教育机构提供所需的公共资金"（[[Argument_Rizvi_2022_Springer\|Rizvi, 2022, p.97]]）
+> 1. **[[Public Value|公共价值]]被"挤出"** 随着国际学生学费成为主要收入来源，"政府不再感到有必要为高等教育机构提供所需的公共资金"（[[Argument_Rizvi_2022_Springer\|Rizvi, 2022, p.97]]）
 > 2. **内生私有化的永久化** 以澳大利亚为例——招收全额付费国际学生的成功，使政府有底气推动其他市场导向政策。"内生私有化实践似乎已成为大多数西方国家公立高等教育的永久特征"（Ball, 2012, cit. in Rizvi, 2022, pp.97–98）
 > 3. **[[New Public Management\|NPM]] 的企业化改造** NPM 的理念、技术和实践被从企业部门广泛引入，使公立高等教育机构更像企业运作。本地代理网络、跨国项目、特许经营安排、学分衔接和双联安排——彻底改造了全球高等教育的空间架构（[[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.97–98]]）
 
