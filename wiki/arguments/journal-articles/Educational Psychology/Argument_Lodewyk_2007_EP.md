@@ -23,6 +23,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Epistemology]]"
+  - "[[Wicked Problem]]"
   - "[[Self-Regulated Learning]]"
   - "[[Hypothesis]]"
   - "[[Order Effects]]"
@@ -71,7 +72,7 @@ title: "Argument_Lodewyk_2007_EP"
 argument_key: "Argument_Lodewyk_2007_EP"
 argument_display_title: "Relations among epistemological beliefs, academic achievement, and task performance in secondary school students"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -115,7 +116,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **[[Epistemological Beliefs\|认识论信念多维系统模型]]**<br>Schommer (1990, 1993) | 主张个体的[[Epistemology\|认识论]]信念是由学习速度、能力本质、知识结构与知识确定性等相对独立的维度构成的系统，打破了单一线性发展阶段论，为量化测量各维度对[[Academic Achievement\|学业表现]]的独立贡献提供基础[[Analytic Framework\|分析框架]]。（pp.309–310） |
-> | **[[Reflective Judgment Model\|反思性判断模型]]**<br>King & Kitchener (1994, 2002) | 描述个体面对没有唯一标准答案的劣构问题时，从前反思阶段（阶段1–3：知识绝对）、准反思阶段（阶段4–5：知识主观相对）到反思阶段（阶段6–7：情境化概率辩护）的发展路径，为评定学生的认知反思水平提供评价准则。（pp.309, 316–317） |
+> | **[[Reflective Judgment Model\|反思性判断模型]]**<br>King & Kitchener (1994, 2002) | 描述个体面对没有唯一标准答案的[[Wicked Problem\|劣构问题]]时，从前反思阶段（阶段1–3：知识绝对）、准反思阶段（阶段4–5：知识主观相对）到反思阶段（阶段6–7：情境化概率辩护）的发展路径，为评定学生的认知反思水平提供评价准则。（pp.309, 316–317） |
 > | **[[Task Structure\|任务结构理论与连续谱假说]]**<br>Frederiksen (1984); Spiro et al. (1988); Doyle (1983) | 区分良构任务（清晰目标、现成算法、透明标准）与劣构任务（开放目标、无现成算法、评价开放），解释不同任务环境对认知负荷、线索依赖与[[Self-Regulated Learning\|自我调节学习]]的差异化要求。（pp.310–312） |
 > | **常人认识论与认识动机理论（Lay Epistemic Theory / Epistemic Motivation）**<br>Kruglanski (1990) | 阐明面对模糊与复杂任务情境时，认识动机如何驱动个体展开信息检索、[[Hypothesis\|假设]]检验、矛盾权衡以及寻求适度认知闭合（seeking appropriate closure）的自我调节心理过程。（pp.310–311, 323–324） |
 

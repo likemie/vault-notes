@@ -3,7 +3,7 @@ title: Epistemological Beliefs
 summary: "关于个体对知识本质及认知过程的假设与信念。该研究领域经历了从早期一维发展阶段模型，到 Schommer 多维独立量表，再到被重构为“认识论理论”核心四维度，以及近期被拆分为本体论与认识论认知（EOC）的演变过程。"
 type: concept
 domain: "educational-psychology"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -15,6 +15,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Certainty of Knowledge]]"
+  - "[[Wicked Problem]]"
   - "[[Rote Learning]]"
   - "[[Variable]]"
   - "[[Metacognition]]"
@@ -65,7 +66,7 @@ related_arguments:
   - "[[Argument_Lodewyk_2007_EP]]"
 status: active
 created: 2026-08-13
-updated: 2026-09-24
+updated: 2026-10-03
 ---
 
 # Epistemological Beliefs
@@ -79,7 +80,7 @@ updated: 2026-09-24
 
 > [!concept-lens] 概念透镜
 > - **含义** 探讨学生如何理解[[Certainty of Knowledge\|知识的确定性]]、简单性、来源以及如何为其辩护。
-> - **用途** 作为理解学生在面对劣构问题或复杂学术任务时，为何采取特定学习策略（如[[Rote Learning\|死记硬背]]或深度精加工）的关键中介[[Variable\|变量]]，并可用于预测阅读理解、[[Metacognition\|元认知]]监控和[[Academic Achievement\|学业成绩]]。
+> - **用途** 作为理解学生在面对[[Wicked Problem|劣构问题]]或复杂学术任务时，为何采取特定学习策略（如[[Rote Learning\|死记硬背]]或深度精加工）的关键中介[[Variable\|变量]]，并可用于预测阅读理解、[[Metacognition\|元认知]]监控和[[Academic Achievement\|学业成绩]]。
 > - **技术与人机共生视界** 在数字与人工智能环境中，认识论信念调节学习者与技术交互时的信息导航与[[Cognitive Offloading\|认知卸载]]模式，且在适切[[Scaffolding\|教学支架]]下可被技术环境逆向重塑。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–361)]]
 > - **边界** 严格的认识论信念应当仅聚焦于“知识与认知本身”。它不同于隐性智力理论（如能力是否固定）或对学习难度的预期（如学习快慢）。
 

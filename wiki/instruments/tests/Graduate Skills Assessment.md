@@ -8,9 +8,9 @@ aliases:
 summary: "由澳大利亚教育研究委员会（ACER）研发的国家级大学毕业生通用技能测验，涵盖批判性思维、问题解决、书面沟通与人际理解四大能力领域。"
 type: instrument
 instrument_type: test
-instrument_related_count: 9
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_count: 10
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Problem Solving]]"
   - "[[Hypothesis]]"
+  - "[[Wicked Problem]]"
   - "[[Higher-Order Thinking Skills]]"
 related_theories: []
 related_methods:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-10-03
 ---
 
 # Graduate Skills Assessment
@@ -73,7 +74,7 @@ updated: 2026-08-27
 > | 维度 | 题项数 / 任务 | 测量内容 | 计分方式 |
 > |---|---|---|---|
 > | **批判性思维（Critical Thinking）** | 26 题 | 评估论证结构、识别前提[[Hypothesis\|假设]]、推导有效结论并辨析替代解释。 | 机器阅卷（0–1 分） |
-> | **[[Problem Solving\|问题解决]]（Problem Solving）** | 26 题 | 分析劣构问题、提取关键约束条件并设计合理解决方案。 | 机器阅卷（0–1 分） |
+> | **[[Problem Solving\|问题解决]]（Problem Solving）** | 26 题 | 分析[[Wicked Problem\|劣构问题]]、提取关键约束条件并设计合理解决方案。 | 机器阅卷（0–1 分） |
 > | **书面沟通（Written Communication）** | 2 篇短文 | 撰写命题论述小论文与实用报告，评估逻辑清晰度与论据组织力。 | 专家量规评分 |
 > | **人际理解（Interpersonal Understandings）** | 若干情境题 | 理解他人情绪意图、处理职场人际冲突与团队协作策略。 | 机器阅卷 |
 

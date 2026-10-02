@@ -9,7 +9,7 @@ aliases:
 summary: "由威廉·戈登创立的系统性创造力隐喻与类比训练理论与方法体系，以“使陌生变得熟悉，使熟悉变得陌生”为核心认知原则。通过直接类比、拟人类比、象征类比与幻想类比四大结构化操作支架，引导学习者在不同知识域与情感体验之间构建深层隐喻桥梁，系统克服功能固着并实现创造性飞跃。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Brainstorming]]"
   - "[[SCAMPER]]"
+  - "[[Wicked Problem]]"
   - "[[Causality]]"
   - "[[Avatar]]"
   - "[[Variable]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Synectics
@@ -141,7 +142,7 @@ updated: 2026-09-22
 > 真正的创新很少是真空中的自发诞生，绝大多数都是异质成熟图式之间的跨界嫁接。
 
 > [!claim] Gordon; Gentner; Holyoak
-> **深层隐喻映射命题** 类比认知科学与提喻法理论指出，人类高阶[[Creativity\|创造力]]高度依赖结构映射能力（Structure-Mapping）。在面对未知或棘手问题时，直接类比算子强迫认知系统提取源领域（Source Domain，如生物进化）的高阶[[Causality\|因果关系]]网络，并精准投影至目标领域（Target Domain，如算法优化）。实证研究证实，能够成功调用提喻法跨学科直接类比的学生，其生成的解决方案不仅在数量上更丰富，更在“结构独创性（Structural Novelty）”指标上显著超越常规逻辑推导群体。Gordon (1961); Gentner (1983)
+> **深层隐喻映射命题** 类比认知科学与提喻法理论指出，人类高阶[[Creativity\|创造力]]高度依赖结构映射能力（Structure-Mapping）。在面对未知或[[Wicked Problem|棘手问题]]时，直接类比算子强迫认知系统提取源领域（Source Domain，如生物进化）的高阶[[Causality\|因果关系]]网络，并精准投影至目标领域（Target Domain，如算法优化）。实证研究证实，能够成功调用提喻法跨学科直接类比的学生，其生成的解决方案不仅在数量上更丰富，更在“结构独创性（Structural Novelty）”指标上显著超越常规逻辑推导群体。Gordon (1961); Gentner (1983)
 
 ---
 

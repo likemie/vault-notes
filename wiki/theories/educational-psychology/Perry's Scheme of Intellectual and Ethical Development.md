@@ -9,7 +9,7 @@ aliases:
 summary: "William Perry提出的认识论认知开创性阶段发展理论，描述大学生在知识本质、真理与权威认知上从二元论、多元论、相对主义到相对主义内承诺的演进轨迹。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 36
+theory_related_count: 37
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Evidence Standards]]"
   - "[[General Education]]"
+  - "[[Wicked Problem]]"
   - "[[Heterogeneity]]"
   - "[[Epistemic Resources]]"
   - "[[Ways of Knowing]]"
@@ -60,7 +61,7 @@ related_methods:
 related_persons: []
 status: active
 created: 2026-08-13
-updated: 2026-09-23
+updated: 2026-10-03
 ---
 
 # Perry's Scheme of Intellectual and Ethical Development
@@ -177,7 +178,7 @@ updated: 2026-09-23
 > [!theory-use] 如何用于研究
 > - **作为课程评估框架** 用于检验高等教育[[General Education\|通识教育]]或探究性教学能否有效促成学生超越绝对主义。
 > - **作为访谈[[Coding in Qualitative Research\|编码]]工具** 提取学生关于“教师角色”、“证据概念”、“知识确定性”的论述，对照 9 个位置进行发展层级定性编码。
-> - **作为批判视角** 警惕传统大学教学中单向灌输式的“二元论教学陷阱”，强调设计劣构问题（Ill-structured problems）以激发认知失衡。
+> - **作为批判视角** 警惕传统大学教学中单向灌输式的“二元论教学陷阱”，强调设计[[Wicked Problem|劣构问题]]（Ill-structured problems）以激发认知失衡。
 
 ---
 

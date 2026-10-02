@@ -1,7 +1,6 @@
 ---
 title: Institute for Research in Schools
 aliases:
-  - IRIS
   - 学校科研研究所
   - Institute for Research in Schools (IRIS)
 summary: "英国全国性科学教育慈善机构，搭建中学与顶尖高校及国际大科学工程的合作桥梁，使中学生直接使用真实科研数据和前沿课题开展长周期科学探究"
@@ -33,7 +32,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-09-28
+updated: 2026-10-03
 ---
 
 # Institute for Research in Schools

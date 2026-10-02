@@ -8,15 +8,16 @@ aliases:
 summary: "由 King 和 Kitchener 提出的认知发展与信念辩护模型，描述个体面对劣构问题时从前反思阶段（阶段1-3）、准反思阶段（阶段4-5）向反思阶段（阶段6-7）演进的认识论认知路径。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 23
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 24
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - "theme/epistemological-beliefs"
   - "level/developmental"
 related_concepts:
   - "[[Reflexivity]]"
+  - "[[Wicked Problem]]"
   - "[[Reflective Thinking]]"
   - "[[Epistemic Cognition]]"
   - "[[Task Structure]]"
@@ -47,7 +48,7 @@ related_arguments:
   - "[[Argument_Cartiff_2021_JEP]]"
 status: active
 created: 2026-08-13
-updated: 2026-09-23
+updated: 2026-10-03
 ---
 
 # Reflective Judgment Model
@@ -58,7 +59,7 @@ updated: 2026-09-23
 ## 理论定位
 
 > [!theory-position] 理论概貌
-> - **核心解释对象** 个体面对缺乏唯一确定答案的劣构问题（ill-structured problems）时，如何理解知识的本质、不确定性以及如何为自己的信念进行合理辩护。
+> - **核心解释对象** 个体面对缺乏唯一确定答案的[[Wicked Problem|劣构问题]]（ill-structured problems）时，如何理解知识的本质、不确定性以及如何为自己的信念进行合理辩护。
 > - **理论核心问题** 人们如何理解认识过程的局限性？在没有现成算法或权威标准答案的情境下，认知者如何收集证据、权衡矛盾观点并作出合理的[[Reflexivity\|反思性]]判断？
 > - **理论渊源与类型** 基于[[Jean Piaget\|皮亚杰]]（Jean Piaget）认知发展论与[[John Dewey\|杜威]]（John Dewey）[[Reflective Thinking\|反思性思维]]理论，深化并拓展了威廉·佩里（William Perry）智力与伦理发展图式的高阶认识认知（[[Epistemic Cognition]]）阶段发展模型。
 > - **知识脉络定位** 构成了教育心理学中评估个体认知成熟度、批判性论辩水平以及[[Task Structure\|劣构任务]]推理能力的核心理论框架。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, pp. 100-101)]]; [[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, pp. 309-310)]]
@@ -94,7 +95,7 @@ updated: 2026-09-23
 
 > [!chain-link] 机制推演
 > - **发展动力** 发展是由认知失衡引发的同化与顺应，个体对知识与辩护的[[Hypothesis\|假设]]在应对现实复杂矛盾时不断进行结构性重组。
-> - **前反思阶段（Pre-reflective，阶段 1–3）** 将知识视为确定且绝对的，依赖直觉或外部权威，无法处理真正的劣构问题。
+> - **前反思阶段（Pre-reflective，阶段 1–3）** 将知识视为确定且绝对的，依赖直觉或外部权威，无法处理真正的[[Wicked Problem|劣构问题]]。
 > - **准反思阶段（Quasi-reflective，阶段 4–5）** 认识到知识的不确定性与主观性，但容易滑入极端相对主义，尚不能有效跨情境协调证据与论点。
 > - **反思阶段（Reflective，阶段 6–7）** 认识到知识是情境限制与主动建构的产物，个体能够整合多元视角，运用批判性质询与概率性辩护来评估结论的合理性。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, pp. 100-101)]]
 
@@ -135,7 +136,7 @@ updated: 2026-09-23
 ## 理论适用边界与批评
 
 > [!theory-boundary] 适用边界与方法论反思
-> - **适用情境** 适合解释青少年到成年期个体在面对伦理争议、公共政策、历史评定及科学争议等复杂劣构问题时的认知成熟度演变。
+> - **适用情境** 适合解释青少年到成年期个体在面对伦理争议、公共政策、历史评定及科学争议等复杂[[Wicked Problem|劣构问题]]时的认知成熟度演变。
 > - **常模与发展阶段的分布现实** 大样本实证表明，中学生群体的[[Reflexivity\|反思性]]判断常模均值处于阶段 3.2（King & Kitchener, 1994），普遍处于前反思向准反思的过渡阶段；高阶的反思阶段（阶段 6 与 7）极其罕见，通常仅在接受过系统学术训练的高级研究生或成熟学者群体中稳定出现。
 > - **任务情境局限性** 将[[Epistemic Cognition\|认识论认知]]局限于[[Task Structure\|劣构任务]]中的言语辩护，可能无法完全捕捉个体在日常良构学习情境中所抱持的隐性[[Epistemology\|认识论假设]]。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, pp. 102-103)]]; [[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, pp. 324-325)]]
 > - **自然成熟[[Hypothesis\|假设]]与教学可塑性的张力** 传统模型将各阶段假定为长期生活经验自发累积的产物，容易导致教学宿命论；而现代干预[[Meta-analysis\|元分析]]（[[Argument_Cartiff_2021_JEP\|Cartiff et al., 2021]]）证实显性认知干预可在数周内加速阶段递进，表明理论需进一步整合外在[[Scaffolding\|教学支架]]的调节作用。

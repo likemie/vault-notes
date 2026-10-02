@@ -11,7 +11,7 @@ aliases:
 summary: "Freeman 与 Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络与市场互动进行的集体学习活动；主张创新绩效取决于行动者能力、网络连接密度与制度规则适配性，推动公共政策从弥补市场失灵转向修复系统失灵。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 56
+theory_related_count: 57
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Corporate R&D Labs]]"
   - "[[Critical Thinking]]"
+  - "[[Wicked Problem]]"
   - "[[Reflexivity]]"
   - "[[Technology Transfer Office]]"
   - "[[Knowledge-Based Economization]]"
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-27
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Systems of Innovation
@@ -257,7 +258,7 @@ updated: 2026-10-02
 > > [!axis] 系统优化 vs. 变革方向：创新政策是否应具备主动价值导向？
 > > 传统创新系统学派主张政策的核心是弥补系统失灵、畅通知识网络；而[[Transformative Change|变革转型]]学者主张面对重大生态与社会危机，政策必须果断指明技术转型的战略方向。
 > >
-> > - **肖特与斯泰因穆勒（Schot & Steinmueller, 2018）** 传统创新系统[[Paradigm|范式]]在应对气候变化等棘手问题时过于被动，它擅长修复机器运转，却无法回答这台机器正驶向何方，必须演进为具备强方向性与[[Reflexivity|反思性]]的“第三代政策范式”。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 32–34)]]
+> > - **肖特与斯泰因穆勒（Schot & Steinmueller, 2018）** 传统创新系统[[Paradigm|范式]]在应对气候变化等[[Wicked Problem|棘手问题]]时过于被动，它擅长修复机器运转，却无法回答这台机器正驶向何方，必须演进为具备强方向性与[[Reflexivity|反思性]]的“第三代政策范式”。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 32–34)]]
 > > - **伦德瓦尔等传统学派学者（Lundvall et al., 2002）** 创新系统本质是一个复杂的演化学习网络，政府过度预设具体技术路线和强制方向极易重蹈“挑选赢家”的计划经济覆辙，政府首要职责依然是维护良性的[[Innovation Ecosystem|创新生态]]与学习能力。
 >
 > > [!axis] 硅谷神话 vs. 本地匹配：大学的系统角色该向何处看齐？

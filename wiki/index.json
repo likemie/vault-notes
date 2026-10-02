@@ -7280,8 +7280,9 @@
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Revoicing.md",
     "aliases": [
+      "话语重铸",
       "重铸",
-      "话语重构",
+      "教师重铸",
       "teacher revoicing",
       "O'Connor and Michaels revoicing"
     ]
@@ -10371,6 +10372,18 @@
     ]
   },
   {
+    "title": "Mission-Oriented Innovation Policy",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Mission-Oriented Innovation Policy.md",
+    "aliases": [
+      "使命导向创新政策",
+      "使命导向型创新政策",
+      "任务导向型创新政策",
+      "MIP",
+      "mission-oriented policy"
+    ]
+  },
+  {
     "title": "Pluralistic Federal Funding System",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Pluralistic Federal Funding System.md",
@@ -10381,6 +10394,18 @@
       "多元联邦科研资助系统",
       "Pluralistic System of Federal Research Support",
       "Pluralistic Funding System"
+    ]
+  },
+  {
+    "title": "Wicked Problem",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Wicked Problem.md",
+    "aliases": [
+      "棘手问题",
+      "恶劣问题",
+      "劣构问题",
+      "复杂社会难题",
+      "wicked problems"
     ]
   },
   {
@@ -14209,6 +14234,19 @@
       "知识蓄水池理论",
       "知识池隐喻",
       "Pool of Knowledge Theory"
+    ]
+  },
+  {
+    "title": "Problem-Solution Space for Mission-Oriented Innovation Policy",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Problem-Solution Space for Mission-Oriented Innovation Policy.md",
+    "aliases": [
+      "问题–解决方案空间框架",
+      "问题-解决方案空间理论",
+      "Problem-Solution Space Framework for MIP",
+      "Problem-Solution Space",
+      "Wanzenböck's MIP Framework",
+      "问题解决方案空间模型"
     ]
   },
   {
@@ -25858,7 +25896,6 @@
     "type": "fact",
     "path": "wiki/facts/uk/Institute for Research in Schools.md",
     "aliases": [
-      "IRIS",
       "学校科研研究所",
       "Institute for Research in Schools (IRIS)"
     ]
@@ -29955,6 +29992,11 @@
     "title": "Argument_Zemplen_2007_SciEduc",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Science & Education/Argument_Zemplen_2007_SciEduc.md"
+  },
+  {
+    "title": "Argument_Wanzenbock_2020_SPP",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Science and Public Policy/Argument_Wanzenbock_2020_SPP.md"
   },
   {
     "title": "Argument_Sandoval_2005_SE",

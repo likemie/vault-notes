@@ -9,7 +9,7 @@ title: "Argument_Amos_2022_Springer"
 argument_key: "Argument_Amos_2022_Springer"
 argument_display_title: "Which Vision of Education for Late Modernity? In M"
 argument_kind: "book"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Self-Directed Learning]]"
   - "[[Research Universities]]"
+  - "[[Wicked Problem]]"
   - "[[Emergence]]"
   - "[[Haraway's SF]]"
   - "[[Humosity]]"
@@ -216,7 +217,7 @@ citation_aliases:
 > 两人都关注"世界制造"（world making），但路径不同：
 >
 > **Escobar：[[Transition Design]]**
-> 核心工具是"设计"——不是在"设计一把更好看的椅子"的意义上，而是在"如何应对 wicked problems"的意义上。所谓 wicked problems（棘手问题）指气候变化、不平等、殖民遗产等无法被单一学科或单一行动领域解决的问题。转型设计的核心洞见是：**转型不是被设计出来的，而是[[Emergence\|涌现]]的**——它依赖大量地方行动的交互，没有中央计划者来"指挥"这个过程(Escobar, 2018, p.152, p.61]])。
+> 核心工具是"设计"——不是在"设计一把更好看的椅子"的意义上，而是在"如何应对 [[Wicked Problem|wicked problems]]"的意义上。所谓 wicked problems（棘手问题）指气候变化、不平等、殖民遗产等无法被单一学科或单一行动领域解决的问题。转型设计的核心洞见是：**转型不是被设计出来的，而是[[Emergence\|涌现]]的**——它依赖大量地方行动的交互，没有中央计划者来"指挥"这个过程(Escobar, 2018, p.152, p.61]])。
 >
 > > 例：想象一个城市面临交通拥堵和空气污染。传统的"计划"思维会建更多公路（结果是吸引更多车辆，拥堵照旧）。转型设计的思维则关注多样化的地方行动：社区自行车共享计划、学校"步行校车"倡议、本地商户的错峰配送协议、居民的"无车日"实验——这些行动互不隶属，没有中央指挥，但通过交互可能涌现出一种全新的城市出行模式。这就是"涌现"。
 >

@@ -7,10 +7,10 @@ aliases:
 summary: "由 Louise Archer 等学者基于布迪厄资本理论拓展提出的社会学构念，指个体所积累的与科学相关的知识、态度、日常实践、社会网络以及家庭科学资源的集合，直接决定其科学认同与职业抱负"
 type: concept
 domain: "sociology-of-education"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - field/sociology-of-education
   - theme/stem-education
@@ -27,13 +27,12 @@ related_theories:
   - "[[Social Capital Theory]]"
 related_facts:
   - "[[CREST Awards]]"
-  - "[[Institute for Research in Schools]]"
 related_methods:
   - "[[Correlational Research]]"
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Science Capital
@@ -82,7 +81,7 @@ updated: 2026-09-22
 > 通过将科学教学与学生多元文化背景、日常生活经验及社区问题相联结，能显著拓宽学生对“谁能从事科学”的认知。
 
 > [!claim] 普惠探究与认同构建
-> 依托 [[CREST Awards]]、[[Institute for Research in Schools\|IRIS]] 等真实科研课题与课外拓展，为缺乏家庭科学资源的弱势学生提供实践平台，能有效打破学科刻板印象并激发内在科学抱负。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 32–33)]]
+> 依托 [[CREST Awards]]、IRIS 等真实科研课题与课外拓展，为缺乏家庭科学资源的弱势学生提供实践平台，能有效打破学科刻板印象并激发内在科学抱负。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 32–33)]]
 
 ---
 

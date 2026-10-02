@@ -5,7 +5,7 @@ aliases:
 summary: "指知识密集型资本主义的物质过程如何通过想象、指标和社会实践被话语建构并制度化的过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Absorptive Capacity]]"
   - "[[Transformative Change]]"
+  - "[[Wicked Problem]]"
   - "[[Epistemic Governance]]"
   - "[[Champ]]"
   - "[[Third Mission]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 ## 定义
@@ -216,7 +217,7 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 
 2. **[[Systems of Innovation|创新系统]] (1980s–1990s)** 当线性范式被认为未产生预期回报时，政策转向关注系统效率。核心经济化机制从生产知识升级为管理整个知识流动系统——隐性知识的跨组织转移、[[Absorptive Capacity|吸收能力]] (absorptive capacity)、网络质量和创业精神均被纳入政策视野。大学被要求与产业形成更紧密、更互动的伙伴关系。
 
-3. **[[Transformative Change|变革转型]] (近年来)** 将知识经济化推向新高度——不仅要求知识驱动增长，还要求知识系统性地解决气候变化、生物多样性丧失等棘手问题。国家[[Epistemic Governance|知识治理]]从支持升级为主动方向性引导（Weber & Rohracher, 2012）。
+3. **[[Transformative Change|变革转型]] (近年来)** 将知识经济化推向新高度——不仅要求知识驱动增长，还要求知识系统性地解决气候变化、生物多样性丧失等[[Wicked Problem|棘手问题]]。国家[[Epistemic Governance|知识治理]]从支持升级为主动方向性引导（Weber & Rohracher, 2012）。
 
 > 三个范式的递进展示了经济化的历史轨迹：知识从增长的一个要素逐步被建构为社会系统需围绕其重新组织的核心原则。
 

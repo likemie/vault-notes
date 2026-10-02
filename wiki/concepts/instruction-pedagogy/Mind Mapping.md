@@ -11,7 +11,7 @@ aliases:
 summary: "围绕单一中心概念向外辐射多级分支，借助色彩、关键词与自由联想规则外显化非线性思维过程的低认知开销空间视觉组织工具。在创造力干预与高阶思维培养中，它以极简拓扑结构最大化降低认知负荷，是激发发散思维与概念远距组合的核心教学支架。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Brainstorming]]"
   - "[[Divergent Thinking]]"
+  - "[[Wicked Problem]]"
   - "[[Cognitive Flexibility]]"
   - "[[Problem Solving]]"
   - "[[Lateral Thinking]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-10-03
 ---
 
 # Mind Mapping
@@ -80,7 +81,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **核心本质** 模拟大脑皮层神经突触辐射扩散机制的单中心放射状空间视觉表征系统。
-> - **理论用途** 激发学习者的[[Divergent Thinking\|发散思维]]、头脑风暴观念生成、劣构问题破局、创意写作构思与概念远距联结。
+> - **理论用途** 激发学习者的[[Divergent Thinking\|发散思维]]、头脑风暴观念生成、[[Wicked Problem|劣构问题]]破局、创意写作构思与概念远距联结。
 > - **解释边界** 思维导图强调联想的快速自由发散与低结构门槛，通常不要求节点间严格的双向交叉命题连接或严谨的形式逻辑论证语法；若强行施加复杂连接，其认知开销优势将大幅削弱。
 
 > [!citation-card]- 关键表述：组织开销与思维敏捷性（[[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al., 2026]]; [[Argument_Guo_2025_TSC\|Guo et al., 2025]]; Malycha & Maier, 2017）

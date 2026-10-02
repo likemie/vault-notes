@@ -7,7 +7,7 @@ aliases:
 summary: "由范德堡大学 CTGV 开发的经典情境教学范式，通过富含嵌入式数据的情节性宏观情境故事作为认知锚点，引导学生自主识别子问题并进行多步因果探究"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Authentic Instruction]]"
   - "[[Open-Mindedness]]"
   - "[[Problem-Based Learning]]"
+  - "[[Wicked Problem]]"
   - "[[Learner Autonomy]]"
   - "[[Hypothesis]]"
   - "[[Critical Thinking]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-23
+updated: 2026-10-03
 ---
 
 # Anchored Instruction
@@ -62,7 +63,7 @@ updated: 2026-09-23
 > [!contrast-table] 抛锚式教学与传统例题教学及 PBL 辨析
 > | 维度 | 抛锚式教学（Anchored Instruction） | 传统例题示范（Worked Examples） | [[Problem-Based Learning\|问题本位学习（PBL）]] |
 > |---|---|---|---|
-> | **情境载体** | 叙事性、多媒体宏观情境故事（“锚”） | 孤立、抽象的良构文字题 | 开放、跨学科的现实生活/专业劣构问题 |
+> | **情境载体** | 叙事性、多媒体宏观情境故事（“锚”） | 孤立、抽象的良构文字题 | 开放、跨学科的现实生活/专业[[Wicked Problem\|劣构问题]] |
 > | **数据呈现** | 隐蔽嵌入故事中，需自主筛选与提取 | 题目直接给出全部已知条件 | 学生需自主通过多元外部渠道检索信息 |
 > | **问题生成** | 学生自主识别并生成一系列关联子问题 | 题目预先指定求解目标 | 学生团队自主界定学习议题 |
 > | **核心目标** | 克服惰性知识、培养多步因果探究 | 掌握标准化解题算法与套路 | 发展[[Learner Autonomy\|自主学习]]、协作与综合解题能力 |

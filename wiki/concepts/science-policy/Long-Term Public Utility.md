@@ -8,10 +8,10 @@ aliases:
 summary: "纳拉亚纳穆尔提等人在批判战后基础/应用二分法时提出的联邦科研资助最高战略准绳，主张国家财政介入的正当性不应取决于立项当下课题属于纯科学还是工程技术，而应取决于其是否在数十年尺度上服务于国家长远战略福祉并致力于化解阻碍创新循环的系统性底层瓶颈。"
 type: concept
 domain: "science-policy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/science-policy
   - theme/research-funding
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Valley of Death]]"
   - "[[Basic-Applied Research Dichotomy]]"
+  - "[[Mission-Oriented Innovation Policy]]"
   - "[[Operationalization]]"
   - "[[Megascience Installations]]"
 related_theories:
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Long-Term Public Utility
@@ -146,7 +147,7 @@ updated: 2026-10-02
 > - **1945 — 战后动机论试金石确立** [[Vannevar Bush|万尼瓦尔·布什]]在[[Science, The Endless Frontier 1945]]中确立政府仅对无实用目的的基础研究负有资助义务，将市场失灵作为国家介入的机械界限。
 > - **1997 — 斯托克斯引入应用启发维度** [[Donald Stokes|唐纳德·斯托克斯]]在《[[Pasteur's Quadrant|帕斯德象限]]》中将公共资助扩展至兼顾理解与实用的前沿研究，但仍沿用二分法语汇。
 > - **2013 — 长期公共效用概念正式提出** 纳拉亚纳穆尔提等人在《安息吧：[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]》中正式确立“长期公共效用”作为替代二分法的新准绳，主张对称支持发现与发明。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
-> - **2016–至今 — 任务导向型创新政策全球采纳** 长期公共效用思想深刻融入马祖卡托（Mariana Mazzucato）的“使命导向型创新”（Mission-Oriented Innovation）以及美国《芯片与科学法案》（[[CHIPS and Science Act]]）等当代产业技术政策立法中。
+> - **2016–至今 — [[Mission-Oriented Innovation Policy|任务导向型创新政策]]全球采纳** 长期公共效用思想深刻融入马祖卡托（Mariana Mazzucato）的“使命导向型创新”（Mission-Oriented Innovation）以及美国《芯片与科学法案》（[[CHIPS and Science Act]]）等当代产业技术政策立法中。
 
 ---
 

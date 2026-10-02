@@ -29,7 +29,6 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
-  - "[[Revoicing]]"
   - "[[Scientific Method]]"
   - "[[Lifelong Learning]]"
   - "[[Technical Rationality]]"
@@ -87,7 +86,7 @@ updated: 2026-09-28
 > - **1970–至今** 长期任教于威斯康星大学麦迪逊分校，与[[Michael W. Apple|迈克尔·阿普尔]]等学者共同铸就了麦迪逊作为全球批判教育研究与课程社会学重镇的学术声誉。
 > - **1984** 出版《教育研究中的[[Paradigm|范式]]与意识形态》（*Paradigm and Ideology in Educational Research*），系统反思[[Positivism|实证主义]]定量范式在教育研究中制造的“去政治化”科学幻觉。
 > - **1991** 出版《教育改革的政治社会学》（*A Political Sociology of Educational Reform*），将话语即权力、权力即关系的[[Post-structuralism|后结构主义]]范式系统确立为教育改革的核心分析视角。
-> - **1993** 主编出版八国跨国比较里程碑著作《权力模式的变迁：社会[[Disciplina and Doctrina|规训]]与教师教育改革》（*Changing Patterns of Power*），系统考察跨国多边组织如何通过软法与专业化[[Revoicing|话语重构]]各国教师教育法规。
+> - **1993** 主编出版八国跨国比较里程碑著作《权力模式的变迁：社会[[Disciplina and Doctrina|规训]]与教师教育改革》（*Changing Patterns of Power*），系统考察跨国多边组织如何通过软法与专业化话语重构各国教师教育法规。
 > - **2000s–至今** 持续深耕“世界主义”、“理性系统”与“排除的炼金术”（Alchemy of Exclusion），荣获全美教育研究协会（[[American Educational Research Association|AERA]]）终身成就奖等多项国际顶尖学术荣誉。
 
 ---

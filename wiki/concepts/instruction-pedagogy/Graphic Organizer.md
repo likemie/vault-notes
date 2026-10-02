@@ -8,7 +8,7 @@ aliases:
 summary: "通过空间隐喻与视觉拓扑结构表征概念关系、逻辑论证与层级脉络的教学与认知脚手架，能有效卸载低阶信息检索负荷并释放高阶认知资源"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Brainstorming]]"
   - "[[Externalization]]"
   - "[[Hypothesis]]"
+  - "[[Wicked Problem]]"
   - "[[Causality]]"
   - "[[Variable]]"
   - "[[Creativity]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Graphic Organizer
@@ -118,7 +119,7 @@ updated: 2026-09-22
 > ```
 
 > [!case] 具象化应用案例：Ana 借助空间图示开展高阶科学探究
-> 在生态科学探究任务中，学生 Ana 面对工厂附近重金属污染土壤中蒲公英茂盛存活的复杂劣构问题：
+> 在生态科学探究任务中，学生 Ana 面对工厂附近重金属污染土壤中蒲公英茂盛存活的复杂[[Wicked Problem|劣构问题]]：
 > - **信息提取与空间归组** Ana 绘制双分支图示，将清洁土壤与重金属污染土壤的蒲公英根系微观测量数据（根系复杂度、重金属含量）进行空间并置对比（**分析与评价**）。
 > - **概念拓扑与推论外显** 她在图示中建立污染土壤到根系变异再到基因突变耐受的[[Causality\|因果关系]]节点，并在外围标注土壤 pH 值与水分可获得性等干扰[[Variable\|变量]]连线（**[[Creativity\|创造性]]综合与批判反思**）。
 > - **认知释放效应** 该空间图示外显化了多维变量，使 Ana 无需在大脑中死记各组实验数据，从而将宝贵的[[Working Memory\|工作记忆]]完全投入到基因突变假说的严密论证与反驳检验之中。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3)]]

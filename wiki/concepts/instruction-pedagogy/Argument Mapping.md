@@ -9,7 +9,7 @@ aliases:
 summary: "严格依循非形式逻辑语法将论辩推论链条（主张、理由、证据、反驳）进行空间树状或网络可视化的认知脚手架"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Mind Mapping]]"
   - "[[Concept Mapping]]"
   - "[[Critical Thinking]]"
+  - "[[Wicked Problem]]"
   - "[[Brainstorming]]"
   - "[[Problem Solving]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-10-03
 ---
 
 # Argument Mapping
@@ -57,7 +58,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 将抽象隐蔽的论辩逻辑与反驳结构转化为清晰可见的空间树状拓扑图。
-> - **用途** 用于培养学生的[[Critical Thinking\|批判性思维]]、议论文写作构思、劣构问题辩论与论据有效性审视。
+> - **用途** 用于培养学生的[[Critical Thinking\|批判性思维]]、议论文写作构思、[[Wicked Problem|劣构问题]]辩论与论据有效性审视。
 > - **边界** 论证图强调整体推理的合逻辑性与论据充足性，不负责自由[[Brainstorming\|头脑风暴]]中的无约束发散生成。
 
 > [!citation-card]- 关键表述

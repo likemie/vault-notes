@@ -10,7 +10,7 @@ aliases:
 summary: "利用人工智能算法对学习者认知状态、知识掌握与解题步骤（以及科学探究过程）进行细致建模并提供自适应个性化教学指导的计算机系统，涵盖良构问题解题分步支架与探究式智能导师系统（Inq-ITS），由领域模型、学生模型、教学模型与交互界面四大经典构件组成。"
 type: concept
 domain: "educational-technology"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Evaluative Judgement]]"
   - "[[Generative AI Agent in Education]]"
   - "[[Dialogue in Education]]"
+  - "[[Wicked Problem]]"
   - "[[Feedback]]"
   - "[[Gamification]]"
   - "[[Working Memory]]"
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-09-24
+updated: 2026-10-03
 ---
 
 # Intelligent Tutoring Systems
@@ -131,7 +132,7 @@ updated: 2026-09-24
 > | **教学功能** | 结构化传授新概念与[[Procedural Skill\|程序技能]]，自适应化解认知障碍 | 巩固复习与强化记忆已学知识点，提升熟练度 | 自主探究、背景材料拓展与资料查阅 | 开放式写作润色、高阶反思与复杂探究设计 |
 > | **认识确证与协助分层** | 过程性步骤[[Scaffolding\|脚手架]]；评价标准预设透明，维系推导可恢复性与因果追踪 | 机械正误核验，仅做结果反馈，不涉及标准协商 | 资料检索支持，由学习者自行筛选辨别 | 极易滑向承载判断型协助，存在直接置换[[Evaluative Judgement\|评价性判断]]的隐蔽风险 |
 > | **实证促学效能** | 显著高于均值（$g = 0.65$ / $g = 0.540$） | 效应适中（$g = 0.46$），局限于低阶熟练度 | 效应偏弱（$g = 0.44$），易致认知负荷过载 | 效应中等（$g = 0.421$），重在反思与共创 |
-> | **典型局限** | 规则工程开发成本高，对劣构问题适应性弱 | 无法引导深层概念理解，易引发机械厌烦 | 缺乏自适应导航易引发认知迷航与注意力分散 | 存在算法幻觉风险，解题步骤验证确定性不足 |
+> | **典型局限** | 规则工程开发成本高，对[[Wicked Problem\|劣构问题]]适应性弱 | 无法引导深层概念理解，易引发机械厌烦 | 缺乏自适应导航易引发认知迷航与注意力分散 | 存在算法幻觉风险，解题步骤验证确定性不足 |
 
 ---
 

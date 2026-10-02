@@ -11,7 +11,7 @@ aliases:
 summary: "将教育目标与学习产出按认知、情感与动作技能三领域分层解构的经典课程与评价理论框架，认知领域以六级思维阶梯（识记、理解、应用、分析、评价、创造）与二维知识-认知过程矩阵为核心，支撑教学设计、目标对齐与实证测量。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 40
+theory_related_count: 41
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Dependent Variable]]"
   - "[[Structured Teaching]]"
+  - "[[Wicked Problem]]"
   - "[[International Baccalaureate]]"
   - "[[IB Diploma Programme]]"
   - "[[Cooperative Learning]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Bloom's Taxonomy
@@ -196,7 +197,7 @@ updated: 2026-09-22
 > > 学界对布鲁姆阶梯是否要求严格按顺序线性发生存在分歧。
 > >
 > > - **线性阶段立场** 强调没有扎实的记忆与理解，高阶分析与评价将沦为空洞的修辞，教学必须由浅入深。
-> > - **动态网络立场** 认为真实探究往往始于高阶创造或问题评价，学生在解决劣构问题中自发逆向检索低阶事实，主张非线性、情境化的动态知识模型。[[Argument_Qvortrup_2015_Paideia\|(Qvortrup, 2015, pp. 29–32)]]
+> > - **动态网络立场** 认为真实探究往往始于高阶创造或问题评价，学生在解决[[Wicked Problem|劣构问题]]中自发逆向检索低阶事实，主张非线性、情境化的动态知识模型。[[Argument_Qvortrup_2015_Paideia\|(Qvortrup, 2015, pp. 29–32)]]
 
 > [!critique]- 批评索引
 > - [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]] 指出将复杂学习简单映射为 Bloom 静态层级容易割裂不同知识形式之间的动态生成关系，倡导引入 Bateson 动态知识模型替代单纯的分类学映射。

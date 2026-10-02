@@ -8,7 +8,7 @@ aliases:
 summary: "个体关于‘如何执行任务、运用技能与操作算法’的行动化知识表征；在认知架构中通过产生式规则实现自动化编译以释放工作记忆；元分析因果证据证实，认识论认知干预能大幅促进论证与概念理解，但对程序性知识操作（d = 0.140，不显著）不产生直接促进，确立了认识论认知的任务效能边界。"
 type: concept
 domain: "educational-psychology"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Academic Achievement]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Wicked Problem]]"
   - "[[Rote Learning]]"
   - "[[Scaffolding]]"
   - "[[Interaction Effect]]"
@@ -47,7 +48,7 @@ related_persons:
   - "[[Gilbert Ryle]]"
 confidence: high
 created: 2026-08-15
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Procedural Knowledge
@@ -156,7 +157,7 @@ updated: 2026-09-22
 > > 学界对过度强调程序性自动化的利弊存在长期分歧。
 > >
 > > - **传统技能学派** 主张通过强化训练实现程序自动化是腾出[[Working Memory\|工作记忆]]、解决复杂高级问题的必要前提。
-> > - **深层理解学派** 指出过度熟练的机械算法会强化无脑套用定势，导致学生在遭遇题型微调或劣构问题时产生严重的负迁移，阻碍[[Problem Solving\|问题解决]]与概念创新。
+> > - **深层理解学派** 指出过度熟练的机械算法会强化无脑套用定势，导致学生在遭遇题型微调或[[Wicked Problem|劣构问题]]时产生严重的负迁移，阻碍[[Problem Solving\|问题解决]]与概念创新。
 >
 > > [!axis] 程序性与概念性知识的教学优先顺序争论
 > > 在数学与科学教学中，究竟应先教算理（概念优先）还是先练算法（程序优先）存在长期的教育学争议。

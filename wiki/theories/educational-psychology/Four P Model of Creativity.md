@@ -9,7 +9,7 @@ aliases:
 summary: "由罗兹提出的经典创造力全域整合分析框架，将创造力系统解构为人（Person）、过程（Process）、产品（Product）与压力/环境（Press）四个交互维度，构成创造力心理学与教育实证研究的奠基性元理论。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 37
+theory_related_count: 38
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Predictive Validity]]"
   - "[[Dependent Variable]]"
+  - "[[Wicked Problem]]"
   - "[[Open-Mindedness]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-09-23
+updated: 2026-10-03
 ---
 
 # Four P Model of Creativity
@@ -134,7 +135,7 @@ updated: 2026-09-23
 
 > [!proposition-chain]- 延伸命题
 > - **推论一（源自核心命题一与命题二）** 当创造力作为[[Independent Variable\|预测变量]]时，由于采用标准化潜能（Person/Process）测验，其[[Predictive Validity\|预测效度]]（$r = 0.29$）显著强于创造力作为[[Dependent Variable\|效标变量]]时（$r = 0.12$），揭示了效标定义分散（Product 异质性）对效应量的统计稀释机制[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 7–8)]]。
-> - **推论二（教育应用命题）** [[Creativity Training\|创造力教学]]干预必须采取“Press-Process-Person”三位一体策略：通过创设高心理安全感与劣构问题情境（Press），传授启发式重构策略（Process），同步激发创造性[[Self-Efficacy\|自我效能]]与内在动机（Person），以达成最大干预效应（$d \approx 0.74–0.87$）。
+> - **推论二（教育应用命题）** [[Creativity Training\|创造力教学]]干预必须采取“Press-Process-Person”三位一体策略：通过创设高心理安全感与[[Wicked Problem|劣构问题]]情境（Press），传授启发式重构策略（Process），同步激发创造性[[Self-Efficacy\|自我效能]]与内在动机（Person），以达成最大干预效应（$d \approx 0.74–0.87$）。
 
 > [!mechanism-map]- 4P 交互生态与实证效应量机制图
 > ```mermaid

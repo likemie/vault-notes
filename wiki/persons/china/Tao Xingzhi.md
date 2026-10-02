@@ -31,7 +31,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Quality Education]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Revoicing]]"
   - "[[Paradigm Wars]]"
   - "[[Pragmatism in China]]"
 related_theories: []
@@ -120,7 +119,7 @@ updated: 2026-09-17
 > [!influence-path] 影响路径
 > - **理论路径** 开创了中国“生活教育”理论体系与[[Scientific Attitude\|科学态度]]方法论闭环。
 > - **实践路径** 创办晓庄乡村师范，推动民国平民教育与乡村建设运动。
-> - **1980年代[[Revoicing\|话语重构]]** 1980年代初中国学术界通过“重新评价陶行知批判性吸收[[John Dewey\|杜威]]”间接解封了杜威思想的合法性，并为邓小平四个现代化提供了教育话语支撑。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.84–86]]）
+> - **1980年代话语重构** 1980年代初中国学术界通过“重新评价陶行知批判性吸收[[John Dewey\|杜威]]”间接解封了杜威思想的合法性，并为邓小平四个现代化提供了教育话语支撑。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.84–86]]）
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]] — 详细分析了陶行知《新教育评论》时代推行[[Scientific Attitude\|科学态度]]的[[Paradigm\|范式]]转向。

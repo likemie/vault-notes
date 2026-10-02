@@ -8,7 +8,7 @@ aliases:
 summary: "采用生成式开放情境题与客观选择题双重作答格式的批判性思维测评工具，测量言语推理、论证分析、假设检验、概率不确定性分析以及问题解决与决策制定五大认知领域。"
 type: instrument
 instrument_type: test
-instrument_related_count: 13
+instrument_related_count: 14
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ tags:
 related_concepts:
   - "[[Critical Thinking Assessment]]"
   - "[[Critical Thinking]]"
+  - "[[Wicked Problem]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Causality]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-10-03
 ---
 
 # Halpern Critical Thinking Assessment
@@ -64,7 +65,7 @@ updated: 2026-08-27
 > [!instrument-profile] Halpern [[Critical Thinking Assessment]]（HCTA）
 > - **工具类型** 混合型情境化[[Cognitive Ability Test KFT\|认知能力测验]]（Mixed-Format Cognitive Assessment）。
 > - **开发者与年份** Diane F. Halpern (2010)。
-> - **测量目的** 评估个体在日常、社会与工作复杂情境中综合运用[[Critical Thinking\|批判性思维]]技能解决劣构问题的能力，有效克服传统[[Multiple-Choice Questions\|选择题]]与纯论文测试的方法学局限。
+> - **测量目的** 评估个体在日常、社会与工作复杂情境中综合运用[[Critical Thinking\|批判性思维]]技能解决[[Wicked Problem|劣构问题]]的能力，有效克服传统[[Multiple-Choice Questions\|选择题]]与纯论文测试的方法学局限。
 > - **实施方式** 计算机在线施测（限时约 60–90 分钟），题项基于生活、医疗决策、公共政策等生动情境。
 
 ---

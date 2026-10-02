@@ -14,7 +14,7 @@ aliases:
 summary: "创造力测评是对个体的发散思维潜能、创造过程认知加工、实际创新产品与日常观念行为特质的操作化测定与质性评价；在教育与心理研究中用于诊断创造潜能、衡量干预效果并化解效标困境。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 77
+related_count: 78
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Open-Mindedness]]"
   - "[[Brainstorming]]"
+  - "[[Wicked Problem]]"
   - "[[Homework]]"
   - "[[Reliability]]"
   - "[[Ecological Validity]]"
@@ -110,7 +111,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-23
+updated: 2026-10-03
 ---
 
 # Creativity Assessment
@@ -147,7 +148,7 @@ updated: 2026-09-23
 > | 测评范式类别 | [[Divergent Thinking\|发散思维]]标准化测验 | 创造过程与[[Problem Finding\|问题发现]]任务 | 专家主观产品同感评定 | 创造性成就与自陈量表 | 课程嵌入式真实性评分量规 |
 > |---|---|---|---|---|---|
 > | **代表性工具** | [[Torrance Tests of Creative Thinking\|TTCT]]、[[Abbreviated Torrance Test for Adults\|ATTA]]、[[Alternate Uses Test\|AUT]]、[[Test for Creative Thinking-Drawing Production\|TCT-DP]] | [[Remote Associates Test\|RAT]]、OTT 过泛思维、问题界定与观念评估任务 | [[Consensual Assessment Technique\|共识评估技术（CAT）]]、[[Rainbow Project\|彩虹项目]]、工程设计 CEDA | [[Creative Achievement Questionnaire\|CAQ]]、[[Runco Ideational Behavior Scale\|RIBS]]、[[Emotional Creativity Inventory\|ECI]] | AAC&U [[VALUE Rubrics\|VALUE 创造性思维量规]]、[[OECD]] CERI 量规、[[CALOHEE Project\|CALOHEE]] |
-> | **核心测量[[Construct\|构念]]** | 创造潜能（Potential）：发散生成的流畅性、灵活性、独创性、精致性与边框突破 | 认知加工过程（Process）：远距离概念联想、劣构问题表征与重构 | 实体产品（Product）：实际创作的新颖性与适切性（专家共识评判） | 创造特质与体验（Person）：终身卓越成就、观念产生频率与情绪体验 | 表现性表现（Performance）：承担智识风险、突破常规思维与多源观念整合 |
+> | **核心测量[[Construct\|构念]]** | 创造潜能（Potential）：发散生成的流畅性、灵活性、独创性、精致性与边框突破 | 认知加工过程（Process）：远距离概念联想、[[Wicked Problem\|劣构问题]]表征与重构 | 实体产品（Product）：实际创作的新颖性与适切性（专家共识评判） | 创造特质与体验（Person）：终身卓越成就、观念产生频率与情绪体验 | 表现性表现（Performance）：承担智识风险、突破常规思维与多源观念整合 |
 > | **作答载体与题型** | 计时开放任务（列举非常规用途、图形完形与碎片组图） | 远距词汇联想三元组、开放情境下的问题重构与替代方案筛选 | 真实艺术作品、文学创作、工程实体原型、学术论文与设计方案 | 5 点或 7 点 Likert 自陈量表、跨领域里程碑成就核查清单 | 4 级阶梯表现描述符（Benchmark → Capstone），直接嵌入课程[[Homework\|作业]] |
 > | **评分[[Reliability\|信度]]与实施成本** | 评分标准化程度高，[[Test-Retest Reliability\|重测信度]]稳定，大样本团体施测成本低 | 评分具有确定标准或明确[[Coding in Qualitative Research\|编码]]规则，施测高效便捷 | 依赖多位同行专家独立匿名评审，组织成本高昂，难以自动化 | 施测便捷高效，但受社会期望与[[Common Method Variance\|共同方法变异]]严重干扰 | 依赖教师校准研讨，需建立跨学科质性评价文化 |
 > | **[[Ecological Validity\|生态效度]]与促学价值** | 生态效度受限，高度脱离专业情境，存在长程脱敏风险 | 贴近[[Creative Problem Solving\|创造性问题解决]]的微观瓶颈，具认知诊断价值 | 生态效度极高，被公认为实际产品测量的“黄金标准” | 生态效度中等，反映长周期真实生活表现，促学反馈较弱 | 生态效度极高，评价标准公开透明，全面赋能形成性反馈与自我调节 |

@@ -7,7 +7,7 @@ aliases:
 summary: "由教师主动主导、以明确目标说明、分步示范、有指导练习、理解检查与即时反馈为核心的高结构化教学模式，在程序性知识与基础技能教学中成效显著，但在高阶思维培养中需与情境探究结合以避免教育副作用"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 59
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Structured Teaching]]"
   - "[[Problem-Based Learning]]"
+  - "[[Wicked Problem]]"
   - "[[Knowledge Framework]]"
   - "[[Mentorship]]"
   - "[[Working Memory]]"
@@ -86,7 +87,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-09-23
+updated: 2026-10-03
 ---
 
 # Direct Instruction
@@ -115,7 +116,7 @@ updated: 2026-09-23
 > [!boundary]- 概念边界
 > - **不等于单向满堂灌（Rote Lecturing）** 纯粹讲授缺乏高频的理解检查与即时纠错练习；直接教学要求师生之间保持高密度的互动与结构化提问。
 > - **不等于[[Structured Teaching\|结构化教学]]（Structured Teaching）** 结构化教学是更上位的课堂组织范畴，直接教学是其经典实现路径，但高结构课堂亦可容纳结构化的小组辩论或项目探究。
-> - **不等于问题导向学习（[[Problem-Based Learning]], PBL）** PBL 强调以真实劣构问题为起点由学生自主推理；直接教学则强调在学生尚未形成先验[[Knowledge Framework\|知识框架]]时由教师先搭设明晰的规则体系。
+> - **不等于问题导向学习（[[Problem-Based Learning]], PBL）** PBL 强调以真实[[Wicked Problem|劣构问题]]为起点由学生自主推理；直接教学则强调在学生尚未形成先验[[Knowledge Framework\|知识框架]]时由教师先搭设明晰的规则体系。
 
 ---
 
@@ -237,7 +238,7 @@ updated: 2026-09-23
 > [!debates] 学术争议
 >
 > > [!axis] 主动激活（Activator） vs 自主建构与探究（Facilitator）
-> > 争论课堂究竟应当以教师清晰示范与高结构推进为主，还是以学生自主探索劣构问题为主。
+> > 争论课堂究竟应当以教师清晰示范与高结构推进为主，还是以学生自主探索[[Wicked Problem|劣构问题]]为主。
 > >
 > > - **教师激活派（Hattie, Rosenshine）** 强调学习不是盲目试错；教师主动主导课堂、清晰示范与即时纠错能最大化单位时间的教学效能。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 433)]]
 > > - **建构探究派（Zhao, Terhart）** 强调完全由教师编排脚本会剥夺学生从混乱中建立秩序的[[Metacognition\|元认知]]契机，容易异化为缺乏内在动机的测验机器。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, pp. 7–9)]]

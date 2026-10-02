@@ -10,7 +10,7 @@ aliases:
 summary: "个体对其产生创造性想法、解决复杂不良结构问题以及实现创新成果的能力所持有的主观信心与自我效能信念；是连接创造潜能向显性创造表现转化的核心外认知动力中介。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Domain Specificity]]"
   - "[[Paradigm]]"
+  - "[[Wicked Problem]]"
   - "[[Feedback]]"
   - "[[Learning Gain]]"
   - "[[Working Memory]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-23
+updated: 2026-10-03
 ---
 
 # Creative Self-Efficacy
@@ -127,7 +128,7 @@ updated: 2026-09-23
 ## 核心要素
 
 > [!feature] [[Creativity\|创造性]][[Self-Efficacy\|自我效能感]]的四大核心生成支柱（基于[[Albert Bandura\|班杜拉]]效能理论与[[Creativity Training\|创造力干预]]）
-> - **直接成功探索经验（Mastery Experiences）** 亲历从无到有生成新颖构想并成功解决劣构问题的经验；这是最核心、最稳固的效能感来源。在高校干预中，通过逐步递进的阶梯式任务建立“能够创新”的成效体验。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–3)]]
+> - **直接成功探索经验（Mastery Experiences）** 亲历从无到有生成新颖构想并成功解决[[Wicked Problem|劣构问题]]的经验；这是最核心、最稳固的效能感来源。在高校干预中，通过逐步递进的阶梯式任务建立“能够创新”的成效体验。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 2–3)]]
 > - **替代性榜样经验（Vicarious Modeling）** 观察具有相似背景的同伴或导师如何运用启发式策略打破思维定势、克服卡顿僵局并实现创意重构，从而确立“同伴能做到我也能做到”的信念。
 > - **社会说服与形成性反馈（Social Persuasion & Formative [[Feedback]]）** 教师与导师提供的非评价性、促学性指导与心理安全支持，帮助学习者将阶段性挫折归因于“策略待优化”而非“天赋匮乏”。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 28)]]
 > - **身心与情绪唤醒调控（Physiological & Affective Regulation）** 在面对高歧义性开放任务与考试评价时，调控测验焦虑与认知恐慌，将生理唤醒解释为“专注与兴奋”而非“能力不足的警报”。(Meinel et al., 2019; [[Argument_Guo_2025_TSC\|Guo et al., 2025, p. 7]])

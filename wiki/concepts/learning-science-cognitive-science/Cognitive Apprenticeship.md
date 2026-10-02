@@ -6,7 +6,7 @@ aliases:
 summary: "学习科学中的经典教学范式，通过示范、辅导、支架、阐明、反思与探索六大方法将专家的隐性认知与问题解决过程外显化，使新手逐步获得高阶思维能力"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Metacognition]]"
   - "[[Scaffolding]]"
+  - "[[Wicked Problem]]"
   - "[[Hypothesis]]"
   - "[[Critical Thinking]]"
   - "[[Direct Instruction]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-10-03
 ---
 
 # Cognitive Apprenticeship
@@ -49,7 +50,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 认知学徒制（Cognitive Apprenticeship）是由 Collins, Brown, & Newman (1989) 提出的学习科学经典教学模式。它将传统手工业中的“师傅带徒弟”机制迁移至抽象认知与[[Higher-Order Thinking Skills\|高阶思维]]领域（如阅读理解、数学解题、科学探究与批判性论证），通过**使思维外显化（Making Thinking Visible）**，让导师（专家）在真实情境中示范并辅导复杂的认知与[[Metacognition\|元认知]]策略，引导新手在[[Scaffolding\|脚手架]]支持下逐步掌握独立解决劣构问题的专家能力。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287–288)]]
+> 认知学徒制（Cognitive Apprenticeship）是由 Collins, Brown, & Newman (1989) 提出的学习科学经典教学模式。它将传统手工业中的“师傅带徒弟”机制迁移至抽象认知与[[Higher-Order Thinking Skills\|高阶思维]]领域（如阅读理解、数学解题、科学探究与批判性论证），通过**使思维外显化（Making Thinking Visible）**，让导师（专家）在真实情境中示范并辅导复杂的认知与[[Metacognition\|元认知]]策略，引导新手在[[Scaffolding\|脚手架]]支持下逐步掌握独立解决[[Wicked Problem|劣构问题]]的专家能力。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287–288)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 专家不仅示范显性的操作动作，更关键是通过出声思考（Think-aloud）展示隐蔽的元认知监控、[[Hypothesis\|假设]]权衡与错误修正策略。
@@ -90,7 +91,7 @@ updated: 2026-09-17
 > 探讨[[Mentorship\|导师制]]如何与真实任务及对话研讨发生协同共振。
 
 > [!claim] Abrami, P. C., et al.; Collins, A., et al.
-> **三维复合策略的认知学徒解释** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 发现，将[[Authentic Instruction\|真实性教学]]（A）、对话研讨（D）与[[Mentorship\|导师制]]（M）结合时，[[Critical Thinking\|批判性思维]]增益达到最高水平（$g+ = 0.57$），且导师指导发挥了关键的催化功能（$z = 1.98, p = .024$）。从认知学徒制视角看，真实性任务提供了探究情境，对话研讨提供了“阐明与反思”的社交载体，而导师的“示范与辅导”则精准填补了新手面对复杂劣构问题时的认知鸿沟，三者共同构成了完整的认知学徒闭环。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287–288, 298)]]
+> **三维复合策略的认知学徒解释** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 发现，将[[Authentic Instruction\|真实性教学]]（A）、对话研讨（D）与[[Mentorship\|导师制]]（M）结合时，[[Critical Thinking\|批判性思维]]增益达到最高水平（$g+ = 0.57$），且导师指导发挥了关键的催化功能（$z = 1.98, p = .024$）。从认知学徒制视角看，真实性任务提供了探究情境，对话研讨提供了“阐明与反思”的社交载体，而导师的“示范与辅导”则精准填补了新手面对复杂[[Wicked Problem|劣构问题]]时的认知鸿沟，三者共同构成了完整的认知学徒闭环。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287–288, 298)]]
 
 ---
 

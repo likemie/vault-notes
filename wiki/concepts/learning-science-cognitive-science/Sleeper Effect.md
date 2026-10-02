@@ -7,7 +7,7 @@ aliases:
 summary: "学习或态度干预结束后，认知增益或说服效果不仅未随时间消退，反而随时间推移显著放大或充分显现的心理学现象；在认识论认知干预中，深层评价标准的内化沉淀使延时后测效应量达即时后测的两倍以上。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Justificatory Standards]]"
   - "[[Learner Autonomy]]"
   - "[[Source Evaluation]]"
+  - "[[Wicked Problem]]"
   - "[[Epistemological Beliefs]]"
   - "[[Interaction Effect]]"
   - "[[Critical Thinking]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Sleeper Effect
@@ -91,7 +92,7 @@ updated: 2026-09-22
 
 > [!feature] 延迟效应放大的三大内化机制
 > - **[[Epistemic Ideals\|认识论标准]]与心智模型的深层内化** 与浅层事实记忆不同，关于知识本质与证据确证的认知信念转变需要经历认知重构与同化过程。干预结束后，学习者在后续日常学习中持续将习得的[[Justificatory Standards\|确证标准]]运用于新情境，实现从外在指导策略向内在心智习惯的蜕变。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, p. 492)]]
-> - **[[Learner Autonomy\|自主学习]]中的正向[[Metacognition\|元认知]]反馈** 接受深层认知干预的学生掌握了有效的论证分析与[[Source Evaluation\|信源评估]]方法，在后续学业面对劣构问题时能够自主调用高阶策略，并在解决问题中获得成功体验，形成自我强化的认知正反馈。
+> - **[[Learner Autonomy\|自主学习]]中的正向[[Metacognition\|元认知]]反馈** 接受深层认知干预的学生掌握了有效的论证分析与[[Source Evaluation\|信源评估]]方法，在后续学业面对[[Wicked Problem|劣构问题]]时能够自主调用高阶策略，并在解决问题中获得成功体验，形成自我强化的认知正反馈。
 > - **任务迁移与[[Construct\|构念]]沉淀的敏感窗口** 随着课程推进到更具挑战性的综合应用单元，深层[[Epistemology\|认识论]]思维的优势才能充分抗击任务复杂性，自编深度论证测验能够敏锐捕捉到这种经过时间沉淀的质性飞跃。
 
 ---

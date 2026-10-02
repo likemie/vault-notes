@@ -11,7 +11,7 @@ aliases:
 summary: "学习者在经历挑战、挫折或过度依赖技术代劳时，因将困难归因于不可改变的天生能力匮乏而产生的消极行为与认知模式；在生成式人工智能时代延伸为将高阶思考推给算法引发的自加信度赤字与认识畸变。"
 type: concept
 domain: "educational-psychology"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Self-Efficacy]]"
   - "[[Problem Solving]]"
+  - "[[Wicked Problem]]"
   - "[[Academic Achievement]]"
   - "[[Reflexivity]]"
   - "[[Self-Regulated Learning]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-09-24
+updated: 2026-10-03
 ---
 
 # Learned Helplessness
@@ -138,7 +139,7 @@ updated: 2026-09-24
 
 > [!claim] Schoenfeld (1985); Bandura (1993); [[Argument_Lodewyk_2007_EP|Lodewyk (2007)]]
 > **快速学习期望与效能骤降命题** 认为学习必须迅速发生（Quick Learning）或能力生来固化（Fixed Ability）的认识论信念，是导致学生在复杂学术任务中过早放弃的关键催化剂。
-> 当学生深信理解必须一蹴而就时，超过数分钟的认知挣扎会被错误解读为缺乏天生能力的证据；这种信念会剧烈削弱学生的解题自我效能感，促使其在面对劣构问题或跨学科综合任务时迅速触发无助退缩机制。[[Argument_Lodewyk_2007_EP|(Lodewyk, 2007, pp. 310, 323–324)]]
+> 当学生深信理解必须一蹴而就时，超过数分钟的认知挣扎会被错误解读为缺乏天生能力的证据；这种信念会剧烈削弱学生的解题自我效能感，促使其在面对[[Wicked Problem|劣构问题]]或跨学科综合任务时迅速触发无助退缩机制。[[Argument_Lodewyk_2007_EP|(Lodewyk, 2007, pp. 310, 323–324)]]
 
 ---
 
@@ -201,7 +202,7 @@ updated: 2026-09-24
 
 > [!critique] 方法论反思与干预边界
 > - **情境特异性 vs 特质化泛化的测量张力** 早期研究常将习得性无助视为稳定的个体特质，但现代学习科学表明，无助反应高度依赖于具体的学科领域、任务难度与教师反馈语境。
-> - **[[Growth Mindset|成长型思维]]干预的[[Ecological Validity|生态效度]]争议** 尽管重塑增长型能力信念能有效缓解习得性无助，但若缺乏配套的高阶学习策略指导与适宜的任务[[Scaffolding|脚手架]]，单纯的口头信念鼓励难以在复杂劣构问题中产生长久疗效。
+> - **[[Growth Mindset|成长型思维]]干预的[[Ecological Validity|生态效度]]争议** 尽管重塑增长型能力信念能有效缓解习得性无助，但若缺乏配套的高阶学习策略指导与适宜的任务[[Scaffolding|脚手架]]，单纯的口头信念鼓励难以在复杂[[Wicked Problem|劣构问题]]中产生长久疗效。
 > - **技术辅助脚手架 vs 认知致残陷阱的核心悖论** 人工智能究竟是减轻[[Working Memory|工作记忆]]负荷的探究脚手架，还是诱发技术性习得性无助的致残陷阱？[[Argument_Smith_2026_SPE|Smith (2026)]] 强调其关键在于**操作权与反思权是否留在人类手中** 拼写检查促成反思，全篇代写剥夺心智。
 
 ---

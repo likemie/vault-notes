@@ -17,7 +17,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Boarding Schools]]"
   - "[[Depoliticalization of Ethnic Policy]]"
-  - "[[Revoicing]]"
   - "[[Retrotopia]]"
 related_theories:
   - "[[Necropolitics]]"
@@ -90,7 +89,7 @@ updated: 2026-06-26
 ### 命题类型二：去政治化同化的话语伪装
 
 > [!concept-lens] 建构论学术的工具化
-> 该类命题分析这一政策如何通过学术[[Revoicing\|话语重构]]来逃避人权与暴力指控。
+> 该类命题分析这一政策如何通过学术话语重构来逃避人权与暴力指控。
 
 > [!claim] Bulag, U. E. (乌拉迪恩·布拉格)
 > 指出第二代民族政策通过把少数民族的文化消亡包装为少数民族对国族[[Retrotopia\|怀旧乌托邦]]的自愿“自我牺牲”，成功地将强制性的同化暴力进行了道德化粉饰，从而合理化了国家权力的威权推进。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 98, 109]])

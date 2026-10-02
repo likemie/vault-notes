@@ -7,7 +7,7 @@ aliases:
 summary: "在常规学科教学中深入探究学科内容的同时，将通用的批判性思维原则与评价标准显性示范与教授给学生的课程实施模式"
 type: concept
 domain: "curriculum"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Immersion Approach]]"
   - "[[Presence]]"
+  - "[[Wicked Problem]]"
   - "[[Metacognition]]"
   - "[[Domain Specificity]]"
 related_theories:
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-10-03
 ---
 
 # Infusion Approach
@@ -86,7 +87,7 @@ flowchart LR
 > [!proc] 学科融入模式的四步实施流程
 > 1. **确立双重教学目标** 每一堂课明确设定“学科内容目标”（掌握特定知识点）与“思维技能目标”（如掌握区分相关与因果的准则）。
 > 2. **显性引入思维工具** 教师在引入学科问题前，直接命名并解释通用的思维原则（如“今天我们将使用三项准则来评估这篇史料作者的立场可[[Reliability\|信度]]”）。
-> 3. **情境化应用与刻意练习** 引导学生在学科劣构问题、实验设计或文本分析中运用上述准则开展互动探究与小组讨论。
+> 3. **情境化应用与刻意练习** 引导学生在学科[[Wicked Problem|劣构问题]]、实验设计或文本分析中运用上述准则开展互动探究与小组讨论。
 > 4. **[[Metacognition\|元认知]]提炼与反思** 在课末引导学生跳出学科细节，总结该思维工具如何在其他学科或现实生活中进行迁移。
 
 ---

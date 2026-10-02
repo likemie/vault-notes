@@ -7,7 +7,7 @@ title: "Argument_DeJong_2023_ERR"
 argument_key: "Argument_DeJong_2023_ERR"
 argument_display_title: "Let’s talk evidence – The case for combining inquiry-based and direct instruction"
 argument_kind: "journal-article"
-argument_related_count: 70
+argument_related_count: 71
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -74,6 +74,7 @@ related_concepts:
   - "[[Areas of Knowledge]]"
   - "[[Scaffolding]]"
   - "[[Executive Function]]"
+  - "[[Wicked Problem]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Avatar]]"
   - "[[Intelligent Tutoring Systems]]"
@@ -329,7 +330,7 @@ Pedaste et al. (2015) 总结的[[Inquiry Cycle|探究循环]]涵盖定向、概�
 
 > [!proc] 探究与直接教学在教学时序中的三种协同模式
 > 1. **前置探究以唤醒求知欲（探究 ➔ 显性直接讲授）** 
->    依托 Kapur (2016) 提出的生产性失败（Productive Failure）与 Schwartz & Bransford (1998) 提出的未来学习准备机制，让学生在面对新领域时首先自主尝试解决复杂劣构问题。即便初次探索受挫，这种挑战也能有效激活先前经验、暴露出直觉理解的边界与缺陷，使学习者产生求知驱动力，为随后教师的直接讲授提供最佳的认知准备。（p. 8）
+>    依托 Kapur (2016) 提出的生产性失败（Productive Failure）与 Schwartz & Bransford (1998) 提出的未来学习准备机制，让学生在面对新领域时首先自主尝试解决复杂[[Wicked Problem|劣构问题]]。即便初次探索受挫，这种挑战也能有效激活先前经验、暴露出直觉理解的边界与缺陷，使学习者产生求知驱动力，为随后教师的直接讲授提供最佳的认知准备。（p. 8）
 > 2. **先行直接讲授以构建基础图式（直接讲授 ➔ 探究演练）**
 >    当学习领域包含高度抽象、肉眼不可见的多实体复杂交互网络时（如分子生物学机制、电磁场隐性变量；Wecker et al., 2013），若直接让学生探索极易导致严重迷失。此时应由教师先行提供清晰的直接讲授与概念框架，帮助学生在长时记忆中建构基础图式，随后让学生进入探究情境开展深度应用与反思验证。
 > 3. **适时按需即时介入（Just-In-Time Direct Instruction）**

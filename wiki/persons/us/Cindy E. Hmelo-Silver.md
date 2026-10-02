@@ -8,7 +8,7 @@ summary: "美国印第安纳大学杰出教授、学习科学前国际学会主�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Metacognition]]"
   - "[[Concept Mapping]]"
+  - "[[Wicked Problem]]"
   - "[[Dialogue in Education]]"
 related_theories:
   - "[[Situative Perspective]]"
@@ -52,7 +53,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-03
 ---
 
 # Cindy E. Hmelo-Silver
@@ -103,7 +104,7 @@ updated: 2026-09-21
 ## 核心思想
 
 > [!claim] 核心主张
-> 科学教育中的[[Problem Solving\|复杂问题解决]]绝非放任学生漫无目的地盲目试误，但更不能退化为剥夺学生能动思考的机械听讲。有效的学习环境必须依托多层次、自适应的[[Scaffolding\|认知脚手架]]（包含白板工具、[[Concept Mapping\|概念图]]、同伴协作规范与及时的微观讲授），将复杂的劣构问题空间结构化；通过“先让学生在有支持的环境中面对问题挑战并经历试错、随后由教师适时进行系统概念统整”的时序闭环，才能最大化落实深层理解与长效迁移。
+> 科学教育中的[[Problem Solving\|复杂问题解决]]绝非放任学生漫无目的地盲目试误，但更不能退化为剥夺学生能动思考的机械听讲。有效的学习环境必须依托多层次、自适应的[[Scaffolding\|认知脚手架]]（包含白板工具、[[Concept Mapping\|概念图]]、同伴协作规范与及时的微观讲授），将复杂的[[Wicked Problem|劣构问题]]空间结构化；通过“先让学生在有支持的环境中面对问题挑战并经历试错、随后由教师适时进行系统概念统整”的时序闭环，才能最大化落实深层理解与长效迁移。
 
 > [!citation-card] 论[[Inquiry-Based Learning\|探究式学习]]中脚手架支持的核心定位
 > 批评探究教学的人士常犯一个根本性错误：将探究与问题导向学习描绘成缺乏指导的教学法。事实恰恰相反，在真实课堂和学习科学设计中，探究教学融入了广泛且精细的认知脚手架，以降低外在负荷并促进深层理解。声称探究教学不提供指导完全背离了数十年的实证事实。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2, 8)]]

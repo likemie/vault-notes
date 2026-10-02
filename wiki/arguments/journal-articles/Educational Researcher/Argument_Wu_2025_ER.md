@@ -28,6 +28,7 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Epistemic Agency]]"
   - "[[Epistemic Cognition]]"
+  - "[[Wicked Problem]]"
   - "[[Knowledge Production]]"
   - "[[Absolutist]]"
   - "[[Multiplist]]"
@@ -88,7 +89,7 @@ title: "Argument_Wu_2025_ER"
 argument_key: "Argument_Wu_2025_ER"
 argument_display_title: "Strengthening Human Epistemic Agency in the Symbiotic Learning Partnership With Generative Artificial Intelligence"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -115,7 +116,7 @@ issuing_organization: ""
 
 > [!concept-lens] 阅读透镜
 > - **研究对象** 大语言模型介入下大学生的[[Epistemic Cognition\|认识论认知]]过程，聚焦高级统计学课程中学生解决实际复杂问题时的人机对话协议、质询路径与决策依据。
-> - **理论张力** 大模型输出的表面连贯性引发的学习者表层顺从与认知卸载，与解决复杂劣构问题所必须的人类[[Epistemic Agency\|认识能动性]]（Epistemic Agency）和批判性质询之间的深层张力。
+> - **理论张力** 大模型输出的表面连贯性引发的学习者表层顺从与认知卸载，与解决复杂[[Wicked Problem|劣构问题]]所必须的人类[[Epistemic Agency\|认识能动性]]（Epistemic Agency）和批判性质询之间的深层张力。
 > - **核心贡献** 修订[[Chin-Chung Tsai\|蔡今中]]（Chin-Chung Tsai, 2004）基于信息检索的网络学习认识论假说，建构人机自适应认识立场与共生学习理论框架，实证解构绝对论、多元论与评价论在人机协同中的微观交互机制并提出双轨干预路径。
 
 ---

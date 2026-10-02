@@ -31,6 +31,7 @@ related_concepts:
   - "[[Enculturation]]"
   - "[[Certainty of Knowledge]]"
   - "[[Reflexivity]]"
+  - "[[Wicked Problem]]"
   - "[[Metacognition]]"
   - "[[Paradigm]]"
   - "[[Multiplicity]]"
@@ -93,7 +94,7 @@ title: "Argument_Trautwein_2007_CEP"
 argument_key: "Argument_Trautwein_2007_CEP"
 argument_display_title: "Epistemological beliefs, school achievement, and college major: A large-scale longitudinal study on the impact of certainty beliefs"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -133,7 +134,7 @@ issuing_organization: ""
 > | **学科分类与生命历程模型**<br>[[Biglan's Disciplinary Classification Scheme\|Biglan's Disciplinary Classification Scheme]] | [[Biglan's Disciplinary Classification Scheme\|Biglan (1973)]] 与 Jehng et al. (1993) 的“硬科学 vs. 软科学”学科文化分类，结合 Pulkkinen & Caspi (2002) 的生命历程发展模型，提供区分个体先验特质主动匹配（自我选择）与[[Disciplinary Socialization\|学科社会化]]（环境规范持续塑造）的分析框架。 |
 
 > [!warrant]- 理论如何支撑论证
-> 理论框架为研究提供了双重推论逻辑：一方面，认识论信念作为指导学习与认知加工的“个人理论”，其成熟度决定了学生在面对劣构问题和复杂学术材料时的[[Metacognition\|元认知]]监控与深层加工策略，因而能直接转化为[[Academic Achievement\|学业表现]]差距；另一方面，不同学科在知识确定性上的认识论文化差异，既成为中学生依据自身信念进行学科选择的过滤网（自我选择），又在入学后通过学科训练持续塑造和极化学生的认知取向（[[Disciplinary Socialization\|学科社会化]]）。
+> 理论框架为研究提供了双重推论逻辑：一方面，认识论信念作为指导学习与认知加工的“个人理论”，其成熟度决定了学生在面对[[Wicked Problem|劣构问题]]和复杂学术材料时的[[Metacognition\|元认知]]监控与深层加工策略，因而能直接转化为[[Academic Achievement\|学业表现]]差距；另一方面，不同学科在知识确定性上的认识论文化差异，既成为中学生依据自身信念进行学科选择的过滤网（自我选择），又在入学后通过学科训练持续塑造和极化学生的认知取向（[[Disciplinary Socialization\|学科社会化]]）。
 
 ---
 

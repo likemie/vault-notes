@@ -11,7 +11,7 @@ subtype: policy
 region: europe
 fact_region: "europe"
 fact_kind: "policy"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
   - level/higher-education
 related_concepts:
   - "[[Problem Solving]]"
+  - "[[Wicked Problem]]"
   - "[[Critical Thinking]]"
   - "[[Lifelong Learning]]"
   - "[[Transfer Translation Transformation]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-28
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Dublin Descriptors
@@ -69,7 +70,7 @@ updated: 2026-09-22
 >   - *博士*：系统掌握前沿学科前沿，展现推动学科知识边界拓展的原创性学术贡献。
 > - **2. 知识应用与问题解决（Applying Knowledge and Understanding）**
 >   - *学士*：能运用学科方法构建和支撑论据，并在本专业领域解决常规及复杂问题；
->   - *硕士*：能在新型、未知或跨学科环境中整合多源知识并解决复杂劣构问题；
+>   - *硕士*：能在新型、未知或跨学科环境中整合多源知识并解决复杂[[Wicked Problem|劣构问题]]；
 >   - *博士*：能设计、实施并调整重要的原创性研究过程，展现高级探究与学术创新力。
 > - **3. 做出判断（Making Judgements / [[Critical Thinking\|批判性思维]]核心）**
 >   - *学士*：能搜集和解释相关数据，在考虑社会、科学或伦理议题的前提下做出理性判断；

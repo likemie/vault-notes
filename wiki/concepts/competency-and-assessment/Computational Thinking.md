@@ -9,7 +9,7 @@ aliases:
 summary: "涵盖问题分解、模式识别、抽象表征与算法设计等心智操作的问题解决能力体系，是从程序性技能向高阶认知进阶的基础枢纽。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ tags:
   - higher-order-thinking
 related_concepts:
   - "[[Reflexivity]]"
+  - "[[Wicked Problem]]"
   - "[[STEM Education]]"
   - "[[Dependent Variable]]"
   - "[[Procedural Skill]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Computational Thinking
@@ -70,7 +71,7 @@ updated: 2026-09-22
 > 计算思维（Computational Thinking, CT）由周以真（Jeannette M. Wing, 2006）界定为运用计算机科学的基础概念进行问题求解、系统设计以及人类行为理解等一系列心智活动与认知过程。它不仅是计算机从业者的专业技能，更是一种面向全体学习者的通用素养与认知工具箱，核心涵盖**问题分解（Decomposition）**、**模式识别（Pattern Recognition）**、**抽象表征（Abstraction）**与**算法设计（Algorithm Design）**四大心智操作。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2–3)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 强调利用可计算的逻辑、规则序列与[[Reflexivity\|反思性]]迭代去形式化和解决复杂良构及劣构问题，沟通了低阶规则操作与高阶批判创造。
+> - **含义** 强调利用可计算的逻辑、规则序列与[[Reflexivity\|反思性]]迭代去形式化和解决复杂良构及[[Wicked Problem|劣构问题]]，沟通了低阶规则操作与高阶批判创造。
 > - **用途** 在基础教育与高等教育中作为评价 [[STEM Education\|STEM]]/STEAM 教育、编程教学及 AI 自适应学习成效的核心[[Dependent Variable\|因变量]]。
 > - **边界** 计算思维不等同于单纯的代码语法记忆（Coding），脱离了问题分解与算法反思的机械[[Coding in Qualitative Research\|编码]]只属于低水平的[[Procedural Skill\|程序性技能]]。
 

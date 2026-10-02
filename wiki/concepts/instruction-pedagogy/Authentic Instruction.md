@@ -8,7 +8,7 @@ aliases:
 summary: "以真实情境、劣构问题、角色扮演、情境模拟与宏观情境锚定为载体，引导学生在有意义的问题解决中建构知识与发展批判性思维的教学模式。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Scaffolding]]"
   - "[[Problem-Based Learning]]"
+  - "[[Wicked Problem]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Simulation-Based Learning]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-17
+updated: 2026-10-03
 ---
 
 # Authentic Instruction
@@ -87,7 +88,7 @@ updated: 2026-09-17
 > [!contrast-table] 真实性教学与相近教学模式辨析
 > | 维度 | 真实性教学（Authentic Instruction） | [[Problem-Based Learning\|问题本位学习（PBL）]] | 传统讲授式教学 |
 > |---|---|---|---|
-> | **问题性质** | 真实生活情境、模拟演练、伦理困境或应用型案例 | 跨学科复杂劣构问题，作为整门课程的组织核心 | 预先分解的良构知识点与练习题 |
+> | **问题性质** | 真实生活情境、模拟演练、伦理困境或应用型案例 | 跨学科复杂[[Wicked Problem\|劣构问题]]，作为整门课程的组织核心 | 预先分解的良构知识点与练习题 |
 > | **认知过程** | 在情境中识别矛盾、权衡证据、形成判断并检验方案 | 自主探究、小组协作、[[Hypothesis\|假设]]生成与方案构建 | 概念识记、例题模仿、演绎应用 |
 > | **知识定位** | 解决真实问题的思想工具与行动资源 | 驱动[[Problem Solving\|问题解决]]的生成性理解 | 独立于情境的静态真理与符号系统 |
 
@@ -101,7 +102,7 @@ updated: 2026-09-17
 > - **角色代入与换位协商** 通过身份代入打破确认偏差，以[[Role-playing\|角色扮演教学法]]为代表（实证增益最高 $g+=0.61$）。
 > - **情境建模与动态试错** 通过高保真模拟环境开展[[Variable\|变量]]操控与复盘反思，以[[Simulation-Based Learning\|模拟教学法]]为代表（$g+=0.26$）。
 > - **宏观情境故事与嵌入式探究** 通过富媒体情节故事激发多步因果推理，以[[Anchored Instruction\|抛锚式教学]]为代表。
-> - **现实应用解题与价值两难权衡** 解决现实生活复杂劣构问题（$g+=0.35$）与伦理困境分析（$g+=0.11$）。
+> - **现实应用解题与价值两难权衡** 解决现实生活复杂[[Wicked Problem|劣构问题]]（$g+=0.35$）与伦理困境分析（$g+=0.11$）。
 
 > [!ref-table]- 真实性教学具体子策略与实证索引表
 > <span class="concept-authentic-strategy-table-marker" aria-hidden="true"></span>
@@ -120,7 +121,7 @@ updated: 2026-09-17
 
 > [!feature] 真实性教学的核心维度构成
 > - **真实任务情境（Authentic Context）** 呈现反映现实世界复杂性与不确定性的任务，使问题具备内在探究价值而非单纯外在考试要求。
-> - **劣构问题特征（Ill-Structured Problems）** 问题缺乏唯一定义和现成标准算法，需要学生自主提取数据、制定[[Hypothesis\|假设]]并构建推论。
+> - **[[Wicked Problem|劣构问题]]特征（Ill-Structured Problems）** 问题缺乏唯一定义和现成标准算法，需要学生自主提取数据、制定[[Hypothesis\|假设]]并构建推论。
 > - **具身与多视角参与（Embodied & Multi-Perspective Engagement）** 通过[[Role-playing\|角色扮演]]与情境模拟，使学生置身于行动者网络中权衡冲突观点。
 > - **[[Scaffolding\|脚手架]]与复盘反思（Scaffolding & Debriefing）** 依托导师点拨与事后复盘，将情境体验提升为通用的[[Critical Thinking\|批判性思维]]模型。
 
@@ -181,7 +182,7 @@ updated: 2026-09-17
 > |---|---|---|---|---|---|---|
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 具体教学子策略：[[Role-playing\|角色扮演]] vs 应用型问题解决 vs [[Simulation-Based Learning\|情境模拟]] vs 两难困境分析 | 角色扮演 $k = 5$；应用解题 $k = 31$；情境模拟 $k = 23$；两难困境 $k = 3$ | 角色扮演 $g+ = 0.61$ $[0.24, 0.98]$；应用解题 $g+ = 0.35$ $[0.20, 0.49]$；情境模拟 $g+ = 0.26$ $[0.09, 0.43]$；两难困境 $g+ = 0.11$ $[-0.37, 0.58]$ | [[Role-playing\|角色扮演]]、应用解题与情境模拟均显著大于 0 | 角色扮演能够强力驱动换位思考与多重证据权衡，[[Effect Size\|效应量]]最高 |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 策略组合梯度：真实性教学（A）vs 真实性+[[Dialogue in Education\|对话]]（A+D）vs 真实性+对话+导师指导（A+D+M） | A 单独 $k = 22$；A+D $k = 45$；A+D+M $k = 19$ | A $g+ = 0.25$ $[0.05, 0.46]$；A+D $g+ = 0.32$ $[0.17, 0.47]$；A+D+M $g+ = 0.57$ $[0.38, 0.77]$ | $Q_b(3) = 8.19, \text{df} = 3, p = .04$；A+D+M 对比 A+D $z = 1.98, p = .024$ | 三维组合展现最强协同增益 |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 思维倾向培养：真实性教学干预对[[Critical Thinking Disposition\|批判性思维倾向]]的促进效应 | $k = 8$ | $g+ = 0.29$ | 显著大于 0 | 解决真实劣构问题有助于激发探究动机与审慎求真的思维倾向 |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 思维倾向培养：真实性教学干预对[[Critical Thinking Disposition\|批判性思维倾向]]的促进效应 | $k = 8$ | $g+ = 0.29$ | 显著大于 0 | 解决真实[[Wicked Problem\|劣构问题]]有助于激发探究动机与审慎求真的思维倾向 |
 
 ---
 

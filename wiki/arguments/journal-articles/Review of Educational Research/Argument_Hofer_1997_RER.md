@@ -36,6 +36,7 @@ related_concepts:
   - "[[Transitional Knowing]]"
   - "[[Independent Knowing]]"
   - "[[Contextual Knowing]]"
+  - "[[Wicked Problem]]"
   - "[[Reflective Thinking]]"
   - "[[Reflexivity]]"
   - "[[Absolutist]]"
@@ -69,7 +70,7 @@ title: "Argument_Hofer_1997_RER"
 argument_key: "Argument_Hofer_1997_RER"
 argument_display_title: "The development of epistemological theories: Beliefs about knowledge and knowing and their relation to learning"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -215,7 +216,7 @@ Baxter Magolda (1992) 对101名男女大学生进行了五年的纵向追踪，�
 
 ### 4. 反思性判断模型（Reflective Judgment）
 
-King & Kitchener (1994) 关注个体如何为劣构问题（ill-structured problems）提供辩护。
+King & Kitchener (1994) 关注个体如何为[[Wicked Problem|劣构问题]]（ill-structured problems）提供辩护。
 
 > [!phase] King & Kitchener 的七阶段模型
 > - **前反思思维（pre-[[Reflective Thinking]]，第 1-3 阶段）**

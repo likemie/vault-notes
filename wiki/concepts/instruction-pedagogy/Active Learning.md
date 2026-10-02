@@ -6,7 +6,7 @@ aliases:
 summary: "由批判教育学与实用主义提出的三环节课程模型，主张主动学习必须由批判性思维、对话与指向变革不公的实践成长（Praxis）共同构成"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Self-Efficacy]]"
   - "[[Rote Learning]]"
+  - "[[Wicked Problem]]"
   - "[[Conscientization]]"
   - "[[Critical Pedagogy]]"
   - "[[Pragmatic Paradigm]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-09-23
+updated: 2026-10-03
 ---
 
 # Active Learning
@@ -120,7 +121,7 @@ updated: 2026-09-23
 ## 核心要素
 
 > [!feature] 主动学习的核心构成要素
-> - **[[Critical Thinking\|批判性思维]]与问题化探究（Problem-Posing & Critical Thinking）** 抛弃[[Rote Learning\|死记硬背]]，以真实劣构问题或认知冲突为起点，引导学生主动检索、质疑与论证。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 8–9)]]
+> - **[[Critical Thinking\|批判性思维]]与问题化探究（Problem-Posing & Critical Thinking）** 抛弃[[Rote Learning\|死记硬背]]，以真实[[Wicked Problem|劣构问题]]或认知冲突为起点，引导学生主动检索、质疑与论证。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 8–9)]]
 > - **民主对话与同伴意义协商（Dialogue & Peer Collaboration）** 师生与生生建立平等对话关系，在异质交流中相互辩护、纠偏并达成深层共识。
 > - **具身探究与动手做（Experiential Doing）** 依托项目制作、实验探究或[[Role-playing\|角色扮演]]，将抽象符号知识锚定于具体活动情境中。
 > - **[[Conscientization\|批判意识觉醒]]与实践行动（Conscientization & [[Praxis]]）** 将学习收获转化为改造个人生活、社区与社会现实的行动，实现认知与社会性成长。

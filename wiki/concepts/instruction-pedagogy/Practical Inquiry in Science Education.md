@@ -57,7 +57,7 @@ updated: 2026-09-23
 
 > [!feature] 实践探究的三大支撑支柱
 > - **课堂动手实验（Hands-on Laboratory Work）** 学生亲自操作仪器器材，在控制[[Variable\|变量]]中观察现象并采集原始数据。
-> - **真实科研课题（Authentic Research Projects）** 依托如 [[CREST Awards]]、[[Institute for Research in Schools\|IRIS]]（学校科研研究所）等项目，让中学生直接参与解决现实科研与工程课题。
+> - **真实科研课题（Authentic Research Projects）** 依托如 [[CREST Awards]]、IRIS（[[Institute for Research in Schools|学校科研研究所]]）等项目，让中学生直接参与解决现实科研与工程课题。
 > - **专业实验技术员队伍（Technician Support）** 实验技术人员提供安全规程、仪器调试与试剂准备，是探究实验开齐开足的基础支撑。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 33)]]
 
 ---

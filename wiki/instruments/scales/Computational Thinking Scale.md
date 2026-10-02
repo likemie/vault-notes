@@ -8,7 +8,7 @@ aliases:
 summary: "用于量化评估学生计算思维能力的 29 题自陈量表，涵盖创造力、算法思维、协作性、批判性思维与问题解决五大认知维度"
 type: instrument
 instrument_type: scale
-instrument_related_count: 13
+instrument_related_count: 14
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Project-Based Learning]]"
   - "[[Critical Thinking]]"
+  - "[[Wicked Problem]]"
   - "[[Construct Validity]]"
   - "[[Higher-Order Thinking Skills]]"
 related_theories: []
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-10-03
 ---
 
 # Computational Thinking Scale
@@ -81,7 +82,7 @@ updated: 2026-08-25
 > | **算法思维（Algorithmic Thinking）** | 6 | 测量学生将复杂任务拆解为逻辑有序的逐步执行序列、设计流程控制与判定规则的形式化思维能力。 | 5 点李克特计分 |
 > | **协作性（Cooperativity / Collaboration）** | 4 | 测量学生在团队编程、[[Project-Based Learning\|项目式学习]]与同伴结对调试中交流计算思想与共享代码逻辑的合作意愿。 | 5 点李克特计分 |
 > | **[[Critical Thinking\|批判性思维]]（Critical Thinking）** | 5 | 测量学生审视算法效率、评估代码质量、发现逻辑漏洞并反思计算模型局限性的批判审视品质。 | 5 点李克特计分 |
-> | **[[Problem Solving\|问题解决]]（Problem Solving）** | 10 | 测量学生在面对劣构问题时运用抽象建模、模式识别、模块封装与系统调试等策略解决具体任务的综合能力。 | 5 点李克特计分（含 6 道反向计分题） |
+> | **[[Problem Solving\|问题解决]]（Problem Solving）** | 10 | 测量学生在面对[[Wicked Problem\|劣构问题]]时运用抽象建模、模式识别、模块封装与系统调试等策略解决具体任务的综合能力。 | 5 点李克特计分（含 6 道反向计分题） |
 
 ---
 

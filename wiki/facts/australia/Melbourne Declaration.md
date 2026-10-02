@@ -10,7 +10,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Creativity]]"
+  - "[[Wicked Problem]]"
   - "[[Higher-Order Thinking Skills]]"
 related_theories: []
 related_methods: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-10-03
 ---
 
 # Melbourne Declaration
@@ -59,7 +60,7 @@ updated: 2026-08-27
 
 > [!policy-design]- 政策设计
 > - **目标定位** 明确将“批判性与创造性思维（Critical and Creative Thinking）”确立为跨学科的 7 大通用能力（General Capabilities）之一。
-> - **能力贯通** 要求课程与学业考核必须从事实记忆转向劣构问题探究、逻辑推理、独立决策与创新构想生成。
+> - **能力贯通** 要求课程与学业考核必须从事实记忆转向[[Wicked Problem|劣构问题]]探究、逻辑推理、独立决策与创新构想生成。
 > - **约束方式** 联邦与各州政府签署教育合作协议，通过国家课程改革与质量监测共同落实。
 
 ---

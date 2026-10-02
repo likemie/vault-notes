@@ -6,7 +6,7 @@ aliases:
 summary: "以经过选择的问题组织目标、学习活动与评估的教学系统，强调先备知识激活、协作探究、知识应用、模型修正和自我监控。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Bildung]]"
   - "[[Project-Based Learning]]"
+  - "[[Wicked Problem]]"
   - "[[Literature Search]]"
   - "[[Hypothesis]]"
   - "[[Constructive Alignment]]"
@@ -80,7 +81,7 @@ related_instruments: []
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-09-23
+updated: 2026-10-03
 ---
 
 # Problem-Based Learning
@@ -101,7 +102,7 @@ updated: 2026-09-23
 > - 不排斥知识教学 — 精心设计的问题应当使学生覆盖课程所需内容，并把知识用于工作情境。知识覆盖与应用方式都属于设计目标。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, p. 71)]]
 > - 不等于无结构发现 — 问题过度开放会使新手缺少推理支点，过度规定步骤又会取消搜索概念工具和选择应用路径的机会。[[Argument_Hattie_2015_SOTLP\|(Perkins, 2014, as cited in Hattie, 2015b, p. 86)]]
 > - 不等于 **[[Phenomenon-Based Learning\|现象本位学习]]（Phenomenon-Based Learning）** — 两者都可能采用[[Constructivist Paradigm\|建构主义]]学习观。PBL 以待解决的问题组织活动；芬兰现象本位学习还包含生活世界、具身经验、跨学科[[Bildung\|教化]]和教学论传统。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, pp. 2–8)]]
-> - 不等于 **[[Project-Based Learning\|项目式学习]]（Project-Based Learning）** — 两者常共享“PBL”缩写与建构主义底座。问题本位学习以“劣构问题解释与机制诊断”为核心，不要求交付具身实体产品；项目式学习则强调驱动性问题牵引下的持续实践，且必须交付可公开展示的真实制品（Artifact/Product）。
+> - 不等于 **[[Project-Based Learning\|项目式学习]]（Project-Based Learning）** — 两者常共享“PBL”缩写与建构主义底座。问题本位学习以“[[Wicked Problem|劣构问题]]解释与机制诊断”为核心，不要求交付具身实体产品；项目式学习则强调驱动性问题牵引下的持续实践，且必须交付可公开展示的真实制品（Artifact/Product）。
 
 > [!citation-card]- PBL 的定义
 > PBL 是一种基于经验的方法，通过学习对有意义问题的调查、解释与解决来促进学习。[[Argument_Erdem_2026_SHE\|(Erdem et al., 2026, p. 952)]]
@@ -116,7 +117,7 @@ updated: 2026-09-23
 > | 比较维度 | 传统内容导向课程 | 问题本位学习 |
 > |---|---|---|
 > | **培养目标** | 分科掌握陈述性知识，默认学生以后能够自发迁移 | 解决执业与毕业后会遇到的复杂现实专业问题 |
-> | **课程起点** | 先按学科体系讲授知识，再补充孤立的技能训练 | 先呈现经过选择的真实或拟真专业劣构问题 |
+> | **课程起点** | 先按学科体系讲授知识，再补充孤立的技能训练 | 先呈现经过选择的真实或拟真专业[[Wicked Problem\|劣构问题]] |
 > | **知识组织** | 受传统院系行政边界与标准化考试科目支配 | 围绕实际问题跨学科整合多源材料与概念工具 |
 > | **知识使用** | 应用范围常局限于期末考试纸笔测验 | 在获得知识的工作情境中立即应用于案例决策 |
 > | **学习活动** | 课堂听讲、记忆背诵、孤立练习与准备考试 | 小组协作剖析、[[Literature Search\|文献检索]]、导师研讨与过程复盘 |
@@ -277,7 +278,7 @@ updated: 2026-09-23
 
 > [!dev-timeline] PBL 概念内涵与系统[[Paradigm\|范式]]的演进
 > - **1960 年代中期 — 临床医学导向的学徒制替代模型（麦克马斯特起源）** 霍华德·巴罗斯（Howard Barrows）等人在加拿大麦克马斯特大学医学院创立 PBL，旨在打破传统分科灌输导致的“理论记忆脱离临床实践”困境。此时 PBL 的核心概念定位为：以真实的临床病患案例为驱动，通过小组讨论模拟医生诊断过程，激发自导式学习（[[Self-Directed Learning]]）并内化临床推理技能，本质是医学专业教育中的情境化学徒制模型。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 950–952)]]
-> - **1970 年代–1980 年代 — 认知革命与[[Constructivist Instruction\|建构主义教学]]范式化（从[[Clinical Skills\|临床技能]]转向通用认知模型）** 伴随认知心理学与学习科学的兴起，PBL 突破单纯的医学规程，被[[Constructivist Paradigm\|建构主义]]学者提炼为跨学科的通用教学范式。概念核心发生质变：界定为以“劣构问题（Ill-Structured Problems）”为组织载体，依托“先备知识激活、小组协同假说建构、自主检索验证与解释模型修正”的认知循环，并系统扩展至工程、法律与商科等高等教育与职业领域。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, p. 951)]]
+> - **1970 年代–1980 年代 — 认知革命与[[Constructivist Instruction\|建构主义教学]]范式化（从[[Clinical Skills\|临床技能]]转向通用认知模型）** 伴随认知心理学与学习科学的兴起，PBL 突破单纯的医学规程，被[[Constructivist Paradigm\|建构主义]]学者提炼为跨学科的通用教学范式。概念核心发生质变：界定为以“[[Wicked Problem|劣构问题]]（Ill-Structured Problems）”为组织载体，依托“先备知识激活、小组协同假说建构、自主检索验证与解释模型修正”的认知循环，并系统扩展至工程、法律与商科等高等教育与职业领域。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, p. 951)]]
 > - **1990 年代 — 课程层面的系统化与[[Constructive Alignment\|建构性对齐]]（形成全链条教学评估闭环）** [[John Biggs\|约翰·比格斯]]（John Biggs）等学者将 PBL 提升为**[[Constructive Alignment\|建构性对齐]]**的经典范本；Feletti 等人开发“三跳评估（Triple Jump）”。概念内涵实现重要飞跃：PBL 不再仅被视作课堂上的单项探究技巧，而被重构为**统摄“专业能力目标—真实问题驱动—全流程案例评估”三位一体的全课程系统（Curriculum-Wide System）**，彻底克服了教学活动与专业评价脱节的弊病。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 70–72)]]
 > - **2000 年代–2010 年代 — 认知负荷争议下的内涵重塑（从“自由发现”走向“结构化支架”）** 面对认知负荷学派对未指导[[Discovery Learning\|发现学习]]的尖锐批评，学界推动了 PBL 概念的自我修正：明确划清 PBL 与纯无指导自由发现的边界，确立了**“问题结构化设计（Problem Structuring）”与“显性导师支架（Explicit Facilitator [[Scaffolding]]）”**作为 PBL 概念的内生必要维度，强调在先备知识支持与保留适度自主认知搜索之间取得动态平衡。[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 85–86)]]
 > - **2020 年代至今 — 情境化[[Epistemic Cognition\|认识论认知]]整合与近缘范式边界厘清（认识论认知与课程哲学分野）** 现代循证学习科学推动 PBL 在两个层面深化：一是[[Epistemology\|认识论]]维度的深化，证实面对复杂劣构议题时单纯呈现问题若缺乏显性程序与[[Metacognition\|元认知]]引导会导致认知过载，促使 PBL 向整合 [[Epistemic Cognition\|认识论认知]] 与[[Source Evaluation\|信源评估]]支架深化；二是课程哲学层面的精确划界，清晰界定了 PBL（以问题因果机制解释与诊断为核心）与 [[Project-Based Learning\|项目式学习]]（强调具身实体产品交付）以及芬兰 [[Phenomenon-Based Learning\|现象本位学习]]（根植于生活世界体验与 [[Bildung\|教化]] 传统）的概念分野。[[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021, pp. 486, 492)]]；[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff (2024, pp. 2–8)]]

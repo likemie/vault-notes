@@ -8,7 +8,7 @@ aliases:
 summary: "将学生置于模拟现实专业或社会生活的劣构情境中，要求其主动建构、综合应用知识并生成复杂实质作品的教学评价取向"
 type: concept
 domain: "competency-and-assessment"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
   - level/higher-ed
   - theme/higher-order-thinking
 related_concepts:
+  - "[[Wicked Problem]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Problem Solving]]"
@@ -53,7 +54,7 @@ related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Biggs_1999_HERD]]"
 created: 2026-08-26
-updated: 2026-09-23
+updated: 2026-10-03
 ---
 
 # Authentic Assessment
@@ -63,7 +64,7 @@ updated: 2026-09-23
 ## 定义
 
 > [!def] 核心定义
-> 真实性评价（Authentic Assessment）是一种直接评估学生在模拟现实工作、专业实践或公民生活情境中解决复杂劣构问题能力的教学评价取向。它强调让学生运用已有知识主动建构、推演并生成真实的学术产品或实践成果（Constructed Response），而非在去情境化的封闭[[Multiple-Choice Questions\|选择题]]中进行机械再认与被动选答（Selected Response）；通过将评价深度嵌入课程学习活动，真实性评价旨在直接测量与促进[[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]及高级[[Problem Solving\|问题解决]]等[[Higher-Order Thinking Skills\|高阶思维技能]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24–25)]]; Wiggins (1998); Shepard (2000)
+> 真实性评价（Authentic Assessment）是一种直接评估学生在模拟现实工作、专业实践或公民生活情境中解决复杂[[Wicked Problem|劣构问题]]能力的教学评价取向。它强调让学生运用已有知识主动建构、推演并生成真实的学术产品或实践成果（Constructed Response），而非在去情境化的封闭[[Multiple-Choice Questions\|选择题]]中进行机械再认与被动选答（Selected Response）；通过将评价深度嵌入课程学习活动，真实性评价旨在直接测量与促进[[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]及高级[[Problem Solving\|问题解决]]等[[Higher-Order Thinking Skills\|高阶思维技能]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24–25)]]; Wiggins (1998); Shepard (2000)
 
 > [!concept-lens] 概念透镜
 > - **含义** 将评价任务锚定于现实生活中的真实认知挑战与专业实践标准，关注生成性表现而非记忆提取。

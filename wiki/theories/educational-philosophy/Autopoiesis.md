@@ -5,7 +5,7 @@ aliases:
 summary: "把生命系统理解为通过自我生产和自我指涉维持边界与连续性的理论，常用于分析系统如何在与环境互动中保持自身组织。在理性主义比较教育中，该理论解释了教育系统在世界社会同质化压力下的自我参照与本国折射机制；在后人类主义教育学中，它与共同制造（Sympoiesis）相对，作为分析系统自组织涌现、去中心化转型与防范知识殖民的重要理论资源。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 29
+theory_related_count: 30
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Structural Coupling]]"
+  - "[[Wicked Problem]]"
   - "[[Transhumanism]]"
   - "[[Ontology]]"
   - "[[Objectivism]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-08
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Autopoiesis
@@ -100,7 +101,7 @@ updated: 2026-10-02
 > - **前提一** 涌现逻辑：宏观的整体整合结构源于无数个去中心化的地方性、未计划的自组织交互。
 >   > [!evidence-grid]- 证据
    >   > - **地方交互证据** Escobar 指出，自组织的社会转型不需要任何集中的智能或计划机构的自上而下引导，而是网络化的多元地方行动交互的结果。(Escobar, 2018, p. 152, 引自 [[Argument_Amos_2022_Springer\|Amos, 2022, p. 61]])
-> - **前提二** 解决诸如气候变化等全球棘手问题，不能指望中心化的大型集体（如民族国家），而必须依托地方化小单元的全球网络化连接。([[Argument_Amos_2022_Springer\|Amos, 2022, p. 62]])
+> - **前提二** 解决诸如气候变化等全球[[Wicked Problem|棘手问题]]，不能指望中心化的大型集体（如民族国家），而必须依托地方化小单元的全球网络化连接。([[Argument_Amos_2022_Springer\|Amos, 2022, p. 62]])
 > - **推导** 宏观系统的改变是微观层面自创生自组织网络互动的结果，而不是集中控制的机械执行。
 
 > [!proposition-chain] 核心命题三｜国家教育系统在面临全球文化趋同压力时会通过“自我参照”进行折射
@@ -161,7 +162,7 @@ updated: 2026-10-02
 > - **1973 — 生物自创生起点** Maturana & Varela 提出自创生界定生命系统边界，标志自主性系统论建立。
 > - **1984 — [[Niklas Luhmann\|卢曼]]社会系统论改造** Luhmann 发表《社会系统》，将自创生转化为由“沟通”组成的社会系统运作模型。
 > - **1990 — 系统比较教育学应用** Schriewer 引入系统论和自我参照解释比较教育中的[[Policy Borrowing\|政策借用]]与“[[Externalization\|外部化]]”论证机制，挑战了机械趋同模型。 (Schriewer, 1990, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])
-> - **2018 — [[Transition Design\|转型设计]]迁移** Escobar 将自创生与[[Emergence\|涌现]]引入 wicked problems 的去中心化地方联网治理。 (Escobar, 2018, 引自 [[Argument_Amos_2022_Springer\|Amos, 2022, p. 61]])
+> - **2018 — [[Transition Design\|转型设计]]迁移** Escobar 将自创生与[[Emergence\|涌现]]引入 [[Wicked Problem|wicked problems]] 的去中心化地方联网治理。 (Escobar, 2018, 引自 [[Argument_Amos_2022_Springer\|Amos, 2022, p. 61]])
 
 ---
 

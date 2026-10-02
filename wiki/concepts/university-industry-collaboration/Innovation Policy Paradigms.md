@@ -10,7 +10,7 @@ aliases:
 summary: "Schot and Steinmueller（2018）识别的创新政策三大范式——科学促增长、创新系统升级、变革转型——揭示政策逻辑从弥补市场失灵到管理系统失灵再到主动引导方向性变革的递进"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Hypothesis]]"
   - "[[Absorptive Capacity]]"
+  - "[[Wicked Problem]]"
   - "[[Reflexivity]]"
   - "[[Transformative Change]]"
   - "[[Blue Skies Research]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Innovation Policy Paradigms
@@ -99,7 +100,7 @@ updated: 2026-09-22
 
 ### 范式三：变革转型（Transformative Change，2010s 至今）
 
-**核心逻辑** 系统范式在处理气候变化、生物多样性丧失、人口老龄化等"棘手问题"时过于被动——政策需要从"修系统"升级为"主动导向"。不仅问"系统运转得顺不顺"，还要问"系统在解决对的问题吗"（Schot & Steinmueller, 2018; Mazzucato, 2018）。
+**核心逻辑** 系统范式在处理气候变化、生物多样性丧失、人口老龄化等"[[Wicked Problem|棘手问题]]"时过于被动——政策需要从"修系统"升级为"主动导向"。不仅问"系统运转得顺不顺"，还要问"系统在解决对的问题吗"（Schot & Steinmueller, 2018; Mazzucato, 2018）。
 
 **新增的失灵类型（pp.32–34）** 方向性失灵、政策协调失灵、需求表达失灵、[[Reflexivity|反思性]]失灵（详见 [[Transformative Change#核心要素]]）。
 

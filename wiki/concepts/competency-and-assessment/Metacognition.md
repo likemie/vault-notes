@@ -14,7 +14,7 @@ aliases:
 summary: "个体对自己认知过程的意识、评估与主动调节，包括元认知知识与元认知调节两个核心成分。它不仅构成批判性思维与人机协同认识论警觉的防御中介，更是驱动创造性问题解决、策略内化与克服思维定势的核心高阶认知机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 83
+related_count: 84
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Surface and Deep Learning]]"
   - "[[Epistemic Friction]]"
+  - "[[Wicked Problem]]"
   - "[[Problem Solving]]"
   - "[[Hypothesis]]"
   - "[[Scale of Measurement]]"
@@ -118,7 +119,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-07-01
-updated: 2026-09-29
+updated: 2026-10-03
 ---
 
 # Metacognition
@@ -140,7 +141,7 @@ updated: 2026-09-29
 >
 > 我们建议嵌入显性支架——如[[Reflexivity\|反思性]]提示、量规引导评估和 AI 素养培训——以激活学生的元认知监控，发挥 ChatGPT 作为对话伙伴而非便利工具的潜能，维持[[Surface and Deep Learning\|深层学习]]所必需的“[[Epistemic Friction\|认识论摩擦]]”。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 10)]]
 >
-> 显性元认知指导使学生习得规划、监控与评价自身思维过程的策略，能显著提高学生在劣构问题中的顿悟表征重构能力与远距离概念联想表现，证明创造性[[Problem Solving\|问题解决]]本质上依赖高质量的元认知调控。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10; Hargrove & Nietfeld, 2015)]]
+> 显性元认知指导使学生习得规划、监控与评价自身思维过程的策略，能显著提高学生在[[Wicked Problem|劣构问题]]中的顿悟表征重构能力与远距离概念联想表现，证明创造性[[Problem Solving\|问题解决]]本质上依赖高质量的元认知调控。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10; Hargrove & Nietfeld, 2015)]]
 >
 > 在人机共生探究中，高阶元认知监控表现为对生成式 AI 输出的[[Hypothesis\|假设]]前提、逻辑一致性与[[Scale of Measurement\|测量尺度]]展开持续审问，防止被动认知卸载侵蚀人类的[[Epistemic Agency\|认识主体性]]。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–365)]]
 
@@ -159,7 +160,7 @@ updated: 2026-09-29
 > |---|---|---|---|---|---|
 > | **核心对象** | 认知过程本身（二阶心智反思） | 外部任务客体或领域知识（一阶加工） | 论证推理的真伪、效度与偏倚 | 整个学习生态系统与自我行为 | 个体应对创新挑战的自信与信念 |
 > | **主要功能** | 监控、评估、调准策略与突破定势 | [[Coding in Qualitative Research\|编码]]、存储、提取、运算与生成表达 | 评估论据、识别谬误、权衡替代解释 | 统合动机、情感、行为与物理环境 | 激发启动动机、维持抗挫折韧性 |
-> | **经典操作示例** | “我当前这套解题策略可能陷入了死胡同，需要退回重新表征问题” | “根据欧姆定律公式，计算当前电路的电流与电压数值” | “该[[Study Population and Sample\|研究样本]]缺乏[[Random Assignment\|随机分组]]，因而因果推论存在[[Threats to Internal Validity\|内部效度威胁]]” | “设定每天早晨专注阅读 45 分钟，并清理桌面手机干扰” | “我相信自己面对新颖劣构问题时能构想出突破性解决方案” |
+> | **经典操作示例** | “我当前这套解题策略可能陷入了死胡同，需要退回重新表征问题” | “根据欧姆定律公式，计算当前电路的电流与电压数值” | “该[[Study Population and Sample\|研究样本]]缺乏[[Random Assignment\|随机分组]]，因而因果推论存在[[Threats to Internal Validity\|内部效度威胁]]” | “设定每天早晨专注阅读 45 分钟，并清理桌面手机干扰” | “我相信自己面对新颖[[Wicked Problem\|劣构问题]]时能构想出突破性解决方案” |
 > | **在人机协同中的角色** | 维持[[Epistemological Vigilance\|认识论警觉]]，抵抗算法流畅假象 | 借助 AI 提高打字、翻译与检索效率 | 核验 AI 生成[[Document\|文献]]与证据的真实性 | 规划人机协作分工并监控交互耗时 | 维持对自身原创能力的信心防线 |
 
 ---

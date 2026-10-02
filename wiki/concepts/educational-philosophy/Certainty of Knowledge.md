@@ -10,7 +10,7 @@ aliases:
 summary: "关于知识本质的底层认知假设与哲学追求。在西方思想史中体现为以数学和逻辑为范式追求客观永恒真知的文化传统；在教育心理学中则是衡量个体认识论成熟度（绝对固定 vs 相对演变）的核心维度，实证表明其独立负向预测学业成绩并受学科选择与社会化的双重塑造。"
 type: concept
 domain: "educational-philosophy"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Falsification]]"
   - "[[Self-Cultivation]]"
+  - "[[Wicked Problem]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Reflexivity]]"
   - "[[Praxis]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-09-29
+updated: 2026-10-03
 ---
 
 # Certainty of Knowledge
@@ -96,7 +97,7 @@ updated: 2026-09-29
 
 > [!concept-lens] 概念透镜
 > - **含义** 包含宏观哲学层面上对超感官永恒秩序的追寻，以及微观认知发展层面上对知识“绝对确定 vs. 暂时演变”的信念取向。
-> - **用途** 在跨文化比较中，用于区分西方追求外在世界客观真理与东方追求内在道德[[Self-Cultivation\|修身]]的学习传统；在教育测量中，用于预测学生的高阶学习策略、劣构问题推理能力与学术分流轨迹。
+> - **用途** 在跨文化比较中，用于区分西方追求外在世界客观真理与东方追求内在道德[[Self-Cultivation\|修身]]的学习传统；在教育测量中，用于预测学生的高阶学习策略、[[Wicked Problem|劣构问题]]推理能力与学术分流轨迹。
 > - **边界** 不等于[[Simplicity of Knowledge\|知识的简单性]]（后者关注知识是离散碎片还是复杂网络）；不适用于纯道德人伦的实践规范；不可等同于后现代的虚无主义或彻底不可知论。
 
 > [!citation-card]- 关键表述
@@ -124,7 +125,7 @@ updated: 2026-09-29
 > | **分析焦点** | 知识是绝对不可动摇的永恒真理还是暂时的建构 | 个体内在品格的完善与道德[[Praxis\|实践]]能力 | 知识是孤立离散的事实还是互联的概念网络 |
 > | **认知理想** | 演绎公理体系与科学理论的[[Falsification\|可证伪性]] | 仁义礼智与知行合一的[[Sage\|圣贤]]人格 | 跨学科整合与复杂系统思维 |
 > | **学术渊源** | [[Plato\|柏拉图]]、[[René Descartes\|笛卡尔]]、Perry (1970)、Hofer (1997) | [[Confucius\|孔子]]及儒家心性学派传统 | Schommer (1990)、[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] |
-> | **教育功能** | 预测学生的深层批判性阅读与劣构问题应对 | 塑造道德主体性与社会责任感 | 预测概念整合能力与知识迁移广度 |
+> | **教育功能** | 预测学生的深层批判性阅读与[[Wicked Problem\|劣构问题]]应对 | 塑造道德主体性与社会责任感 | 预测概念整合能力与知识迁移广度 |
 
 ---
 

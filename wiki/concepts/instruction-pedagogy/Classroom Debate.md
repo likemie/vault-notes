@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Critical Thinking]]"
-  - "[[Revoicing]]"
   - "[[Socratic Dialogue]]"
   - "[[Hypothesis]]"
   - "[[Brainstorming]]"
@@ -52,7 +51,7 @@ updated: 2026-09-17
 > 课堂辩论（Classroom Debate）是一种具有高度结构化规则的[[Dialogue in Education\|对话教学]]策略。教师围绕具有争议性的真实议题分配正反双方立场，要求学生在明确的立论、交叉质询、反驳与总结陈词规则约束下，搜集实证证据、重构逻辑论证并接受对手质询，从而促进对复杂议题的多元理解与[[Critical Thinking\|批判性思维]]发展。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 285–286)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 将课堂[[Revoicing\|话语重构]]为制度化的论辩交锋，通过规则约束确保正反双方在平等的举证责任与时间限制下进行理性对话。
+> - **含义** 将课堂话语重构为制度化的论辩交锋，通过规则约束确保正反双方在平等的举证责任与时间限制下进行理性对话。
 > - **用途** 用于打破学生的确认偏差（Confirmation Bias），强迫学习者从对立立场审视证据并推演反论点。
 > - **边界** 课堂辩论侧重教育性与探究性，旨在深化理解与证据权衡，而非纯粹以击败对手、辞令表演为目的的竞技辩论。
 

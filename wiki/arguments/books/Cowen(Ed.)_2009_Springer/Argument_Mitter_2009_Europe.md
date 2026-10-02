@@ -37,7 +37,6 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[Critical Dualism]]"
   - "[[Lifelong Learning]]"
-  - "[[Revoicing]]"
   - "[[Externalization]]"
   - "[[Doxa]]"
   - "[[Development Education]]"
@@ -285,7 +284,7 @@ flowchart LR
 > [!case]- 典型大学学派的范式转向
 > - **伦敦大学 IOE 的文化主义与实证主义博弈** 长期秉持以汉斯、劳威斯、托米亚克以及国王学院埃德蒙·金为代表的文化主义传统；但在 1960 至 1980 年代，布莱恩·霍姆斯（Brian Holmes, 1965, 1981）力推以波普尔批判二元论为基础的实证主义[[Problem Approach|问题法]]（Problem Approach），在学院内部引发了持续的[[Epistemology|认识论]]论辩。（pp.92–93）
 > - **波鸿鲁尔大学从极权体制剖析向全球化世界体系转向** 1960 至 1980 年代在安维勒带领下成为全欧苏联与东欧社会主义教育研究的重镇；其继任者克里斯蒂尔·阿迪克（Christel Adick）则转向研究全球化与斯坦福学派世界体系理论对比较教育的冲击。
-> - **柏林洪堡大学的系统论与跨国[[Revoicing|话语重构]]** 两德统一后，[[Jurgen Schriewer|于尔根·施里韦尔]]（Jürgen Schriewer, 1987, 1999）将德国社会学家[[Niklas Luhmann|尼克拉斯·卢曼]]（Niklas Luhmann）的[[Autopoiesis|自创生]]系统论（Autopoietic System Theory）与世界体系理论相结合，创立了以世界层面的意义[[Externalization|外化]]（Externalisation）为核心的比较教育新范式。（p.93）
+> - **柏林洪堡大学的系统论与跨国话语重构** 两德统一后，[[Jurgen Schriewer|于尔根·施里韦尔]]（Jürgen Schriewer, 1987, 1999）将德国社会学家[[Niklas Luhmann|尼克拉斯·卢曼]]（Niklas Luhmann）的[[Autopoiesis|自创生]]系统论（Autopoietic System Theory）与世界体系理论相结合，创立了以世界层面的意义[[Externalization|外化]]（Externalisation）为核心的比较教育新范式。（p.93）
 
 > [!claim] 文化主义与历史传统始终是欧洲比较教育的顽强主干
 > 尽管美国比较教育在战后全面倒向实证主义量化测量，欧洲比较教育的主流直至 20 世纪末仍牢牢受文化主义研究所支配，并与深厚的历史学研究紧密结盟。从早期的汉斯、[[Friedrich Schneider|弗里德里希·施奈德]]，到当代的考恩、卡扎米亚斯、诺瓦（Nóvoa）与施里维尔，无不坚守文化与历史脉络。在欧洲，大[[Sample Size Determination|样本量]]化经验研究长时期处于边缘地位；胡森与波斯特尔斯韦特领导的[[IEA|国际教育成就评价协会]]（IEA）自始至终是在与欧洲既有比较教育研究中心和学会网络保持高度疏离的独立轨道上运作的，进一步加剧了文化主义者与经验实证主义者之间的认识论鸿沟。（p.94）

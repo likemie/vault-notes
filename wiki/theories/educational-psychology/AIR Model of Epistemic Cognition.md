@@ -8,7 +8,7 @@ aliases:
 summary: "当代教育心理学与学习科学的核心认识论认知模型，将认识实践解构为认识目标、认识论理想与可靠认识论过程三大相互交织的构件。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 46
+theory_related_count: 47
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Epistemic Agency]]"
   - "[[Variable]]"
   - "[[Scaffolding]]"
+  - "[[Wicked Problem]]"
   - "[[Direct Instruction]]"
   - "[[Source Evaluation]]"
   - "[[Theoretical Standpoint]]"
@@ -73,7 +74,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-09-26
+updated: 2026-10-03
 ---
 
 # AIR Model of Epistemic Cognition
@@ -131,7 +132,7 @@ updated: 2026-09-26
 
 > [!proposition-chain] 核心命题四｜适切认识论表现与三构件协调依赖显性[[Scaffolding\|教学支架]]而非放任式自主探究
 > - **前提一** 适切认识论表现（apt epistemic performance）要求认知者在具体探究情境中，协同调动追求真理的认识目标、高标准的认识论理想与经得起检验的可靠认识过程。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025)]]
-> - **前提二** 教学干预实证表明，在面对争议性多文本或劣构问题时，缺乏支架的开放式探究与自由辩论极易导致认知负荷过载，使学生退守至经验直觉或盲目相对主义，无法自发促成 AIR 构件的规范协调。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021)]]
+> - **前提二** 教学干预实证表明，在面对争议性多文本或[[Wicked Problem|劣构问题]]时，缺乏支架的开放式探究与自由辩论极易导致认知负荷过载，使学生退守至经验直觉或盲目相对主义，无法自发促成 AIR 构件的规范协调。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021)]]
 > - **推导** 培育适切认识论表现必须提供显性支架与规程示范：通过[[Direct Instruction\|直接讲授]][[Source Evaluation\|信源评估]]规则、设计探究支架与引导证据整合，能够[[Causality\|因果性]]地打破低阶认知局限，带动认识理想与探究目标的协同演进，实现深层学业增益。
 
 ---

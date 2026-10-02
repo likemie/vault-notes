@@ -7,7 +7,7 @@ aliases:
 summary: "更有经验者通过示范、辅导、支架与支持促进新手专业、认知和个人发展的过程，在科学精英传承与高阶思维教学干预中发挥核心催化作用"
 type: concept
 domain: "higher-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Cognitive Apprenticeship]]"
   - "[[Scaffolding]]"
   - "[[Peer Mentoring]]"
+  - "[[Wicked Problem]]"
   - "[[Document]]"
   - "[[Research Topic]]"
   - "[[Authentic Instruction]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-09-23
+updated: 2026-10-03
 ---
 
 # Mentorship
@@ -92,7 +93,7 @@ updated: 2026-09-23
 >   - **专家/学术导师制（Faculty Mentoring）** 资深学者对青年学者、博士后的长期科研学术指导（[[Argument_Sandrone_2025_MEO\|Sandrone, 2025]]）。
 >   - **[[Peer Mentoring\|同伴导师制]]（Peer Mentoring）** 高年级或有经验同辈对新手的学业支架与情感支持（[[Argument_Abrami_2015_RER\|Abrami et al., 2015]]）。
 > - **按微观认知机制划分**
->   - **[[Cognitive Apprenticeship\|认知学徒制]]（Cognitive Apprenticeship）** 通过示范、辅导、支架、阐明、反思与探索，将专家解决劣构问题的隐性思维外显化（Collins et al., 1989）。
+>   - **[[Cognitive Apprenticeship\|认知学徒制]]（Cognitive Apprenticeship）** 通过示范、辅导、支架、阐明、反思与探索，将专家解决[[Wicked Problem|劣构问题]]的隐性思维外显化（Collins et al., 1989）。
 > - **按组织结构划分**
 >   - **一对一导师制（Dyadic Mentoring）** 传统深度师徒结对。
 >   - **团队/马赛克导师制（Team / Mosaic Mentoring）** 受训者同时接受多位具备互补专业背景导师的联合指导。
