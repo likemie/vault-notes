@@ -5,6 +5,22 @@
       "path": "wiki/arguments/journal-articles/History and Technology/Argument_Lecuyer_1999_HT.md"
     },
     {
+      "basename": "Dual In-Line Package",
+      "path": "wiki/concepts/economics/Dual In-Line Package.md"
+    },
+    {
+      "basename": "General Purpose Technology",
+      "path": "wiki/concepts/economics/General Purpose Technology.md"
+    },
+    {
+      "basename": "Fairchild Semiconductor",
+      "path": "wiki/facts/us/Fairchild Semiconductor.md"
+    },
+    {
+      "basename": "San Francisco Bay Area",
+      "path": "wiki/concepts/university-industry-collaboration/San Francisco Bay Area.md"
+    },
+    {
       "basename": "Argument_Mazzucato_2018_ICC",
       "path": "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Mazzucato_2018_ICC.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "National Defense Education Act of 1958",
       "path": "wiki/facts/us/National Defense Education Act of 1958.md"
-    },
-    {
-      "basename": "Megascience Installations",
-      "path": "wiki/concepts/political-economy-geopolitics/Megascience Installations.md"
-    },
-    {
-      "basename": "Sputnik Shock 1957",
-      "path": "wiki/facts/us/Sputnik Shock 1957.md"
-    },
-    {
-      "basename": "Argument_Stephan_2013_NBER",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
-    },
-    {
-      "basename": "template-argument-edited-volume",
-      "path": "wiki/templates/template-argument-edited-volume.md"
     }
   ],
   "omittedPaths": [],
