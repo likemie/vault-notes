@@ -10,7 +10,7 @@ aliases:
 summary: "二战后美国形成的由国家科学基金会（NSF）与国防部（ONR/DARPA）、能源部（AEC/DOE）、卫生与公众服务部（NIH）、宇航局（NASA）等多家任务导向型联邦机构共同构成的去中心化科研资助体制；突破了布什报告设想的单一集权基金会模式，各机构采用多元评审标准与差异化使命，为大学研究人员提供了多重资助申请渠道与高风险学术容错空间。"
 type: concept
 domain: "science-policy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -62,67 +62,66 @@ updated: 2026-10-02
 
 ### 1. 机构架构与资助生态图景
 
-```mermaid
-graph TD
-    classDef eop fill:#fef3c7,stroke:#d97706,stroke-width:2px;
-    classDef pure fill:#dbeafe,stroke:#2563eb,stroke-width:2px;
-    classDef mission fill:#dcfce7,stroke:#16a34a,stroke-width:2px;
-    classDef recipient fill:#ede9fe,stroke:#7c3aed,stroke-width:2px;
-
-    subgraph 白宫科技顶层协调与优先事项 ["🏛️ 白宫顶层协调 (EOP)"]
-        OSTP["科学技术政策办公室 (OSTP) / 总统科学顾问"]:::eop
-        OMB["行政管理和预算局 (OMB)"]:::eop
-    end
-
-    subgraph 多元联邦科研资助中枢 ["💼 多元联邦资助机构"]
-        subgraph 纯基础探索旗舰 ["自由探索与学科交叉"]
-            NSF["国家科学基金会 (NSF)<br/>(1950 成立，全学科基础研究与教育)"]:::pure
-        end
-
-        subgraph 任务型战略资助网络 ["使命导向与战略应用基础研究"]
-            DOD["国防体系 (DOD)<br/>海军研究办公室 (ONR) / DARPA<br/>(高风险非形式化协商)"]:::mission
-            HHS["卫生体系 (HHS)<br/>国立卫生研究院 (NIH)<br/>(生物医学与健康基础研究)"]:::mission
-            DOE["能源体系 (DOE / 原 AEC)<br/>国家实验室 / 大科学装置"]:::mission
-            NASA["航天体系 (NASA)<br/>空间科学与天体物理"]:::mission
-        end
-    end
-
-    subgraph 学术执行与人才培养中枢 ["🎓 学术科研承接实体"]
-        RU["美国高水平研究型大学<br/>(PI 课题组 / 博士研究生实验室)"]:::recipient
-        FFRDC["大学托管国家实验室 (FFRDCs)<br/>(如费米实验室、伯克利实验室等)"]:::recipient
-    end
-
-    OSTP -->|战略优先事项指南| NSF
-    OSTP -->|跨部委研发预算协调| DOD
-    OSTP -->|跨部委研发预算协调| HHS
-    OSTP -->|跨部委研发预算协调| DOE
-    OSTP -->|跨部委研发预算协调| NASA
-
-    NSF -->|同行评议竞争性 Grants| RU
-    DOD -->|研发合同 Contracts & Grants| RU
-    HHS -->|R01 等竞争性医学 Grants| RU
-    DOE -->|基础科学拨款与托管合同| FFRDC
-    DOE -->|运行开放共享机时| RU
-    NASA -->|空间科学合作课题| RU
-```
+> [!structure]- 机构架构与资助生态图景（点击展开）
+> ```mermaid
+> graph TD
+>     classDef eop fill:#fef3c7,stroke:#d97706,stroke-width:2px;
+>     classDef pure fill:#dbeafe,stroke:#2563eb,stroke-width:2px;
+>     classDef mission fill:#dcfce7,stroke:#16a34a,stroke-width:2px;
+>     classDef recipient fill:#ede9fe,stroke:#7c3aed,stroke-width:2px;
+> 
+>     subgraph 白宫科技顶层协调与优先事项 ["🏛️ 白宫顶层协调 (EOP)"]
+>         OSTP["科学技术政策办公室 (OSTP) / 总统科学顾问"]:::eop
+>         OMB["行政管理和预算局 (OMB)"]:::eop
+>     end
+> 
+>     subgraph 多元联邦科研资助中枢 ["💼 多元联邦资助机构"]
+>         subgraph 纯基础探索旗舰 ["自由探索与学科交叉"]
+>             NSF["国家科学基金会 (NSF)<br/>(1950 成立，全学科基础研究与教育)"]:::pure
+>         end
+> 
+>         subgraph 任务型战略资助网络 ["使命导向与战略应用基础研究"]
+>             DOD["国防体系 (DOD)<br/>海军研究办公室 (ONR) / DARPA<br/>(高风险非形式化协商)"]:::mission
+>             HHS["卫生体系 (HHS)<br/>国立卫生研究院 (NIH)<br/>(生物医学与健康基础研究)"]:::mission
+>             DOE["能源体系 (DOE / 原 AEC)<br/>国家实验室 / 大科学装置"]:::mission
+>             NASA["航天体系 (NASA)<br/>空间科学与天体物理"]:::mission
+>         end
+>     end
+> 
+>     subgraph 学术执行与人才培养中枢 ["🎓 学术科研承接实体"]
+>         RU["美国高水平研究型大学<br/>(PI 课题组 / 博士研究生实验室)"]:::recipient
+>         FFRDC["大学托管国家实验室 (FFRDCs)<br/>(如费米实验室、伯克利实验室等)"]:::recipient
+>     end
+> 
+>     OSTP -->|战略优先事项指南| NSF
+>     OSTP -->|跨部委研发预算协调| DOD
+>     OSTP -->|跨部委研发预算协调| HHS
+>     OSTP -->|跨部委研发预算协调| DOE
+>     OSTP -->|跨部委研发预算协调| NASA
+> 
+>     NSF -->|同行评议竞争性 Grants| RU
+>     DOD -->|研发合同 Contracts & Grants| RU
+>     HHS -->|R01 等竞争性医学 Grants| RU
+>     DOE -->|基础科学拨款与托管合同| FFRDC
+>     DOE -->|运行开放共享机时| RU
+>     NASA -->|空间科学合作课题| RU
+> ```
 
 ---
 
 ### 2. 多元资助体系的历史演变轨迹
 
-```mermaid
-flowchart TD
-    classDef pre fill:#f3f4f6,stroke:#4b5563,stroke-width:2px;
-    classDef war fill:#fee2e2,stroke:#dc2626,stroke-width:2px;
-    classDef post fill:#fef3c7,stroke:#d97706,stroke-width:2px;
-    classDef modern fill:#dbeafe,stroke:#2563eb,stroke-width:2px;
-
-    Node1["<b>二战前 (1940 年前)：边缘与自筹阶段</b><br/>• 联邦研发几乎全归军方及专门局（90% 高校科研自筹）<br/>• 大学主要依赖捐赠与地方财政，联邦不提供常规科研资助"]:::pre
-    --> Node2["<b>二战期间 (1940–1945)：战时集中动员突破</b><br/>• 罗斯福设立 NDRC 与 [[Office of Scientific Research and Development|OSRD]] (万尼瓦尔·布什主导)<br/>• 首创联邦与大学签订研发合同机制（如 MIT 辐射实验室）"]:::war
-    --> Node3["<b>战后博弈与多元成型 (1945–1950)：多路并进</b><br/>• 布什提交《科学：无尽的前沿》，杜鲁门否决单一集权法案<br/>• 政治僵局期间 [[Office of Naval Research|ONR]] (1946)、AEC (1946)、NIH (1947) 率先常规注资高校<br/>• 1950 年 [[National Science Foundation|NSF]] 妥协成立，奠定多元分散格局"]:::post
-    --> Node4["<b>冷战繁荣与大科学扩展 (1950–1975)</b><br/>• 1957 年 Sputnik Shock 后 NSF 预算激增 250%<br/>• 通过 1958 年国防教育法案 (NDEA) 拓展科学教育<br/>• 设立 [[Federally Funded Research and Development Centers|FFRDCs]] 与大学托管大科学装置"]:::post
-    --> Node5["<b>产学协同与现代重组 (1975 年至今)</b><br/>• 设立 [[Office of Science and Technology Policy|OSTP]] (1976) 恢复白宫法定协调<br/>• 通过 [[Bayh-Dole Act of 1980|拜杜法案]] 赋权大学专利与技术转移<br/>• 形成 NSF 基础探索与 NIH/DOD/DOE 任务资助并行的成熟多元体系"]:::modern
-```
+> [!dev-timeline] 美国多元联邦科研资助体系的历史演进
+> - **二战前（1940 年前）— 边缘分散与高校自筹阶段**
+>   联邦政府对大学科研几乎不存在常规性资助机制，全美研发支出的近 70% 由私营工业界主导，联邦有限经费几乎全额投向政府自设专门机构（海岸测地局、地质调查局、农业部等）；大学仅占全国 R&D 的 9%，主要依赖自身捐赠基金与州议会有限划拨，在国家创新体系中处于边缘地位。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 33–34)]]
+> - **二战期间（1940–1945）— 战时集中动员与合同机制突破**
+>   罗斯福总统设立国家国防研究委员会（NDRC）与[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（OSRD），由万尼瓦尔·布什统帅；开创性打破政府自建机构旧规，直接与大学签订研发合同，设立 MIT [[MIT Radiation Laboratory|辐射实验室]]与芝加哥大学冶金实验室，动员大学顶级科学家攻坚雷达与曼哈顿工程，确立了学术研究的战略价值。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
+> - **战后博弈与多元成型（1945–1950）— 填补真空与多路并进**
+>   布什呈递《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》呼吁设立单一基金会，但杜鲁门总统否决了缺乏行政问责的法案；在长达五年的立法僵局中，[[Office of Naval Research|海军研究办公室]]（ONR, 1946）、原子能委员会（AEC, 1946）及国立卫生研究院（NIH, 1947）等任务型机构率先向大学常规注入基础科研资金；1950 年 [[National Science Foundation|NSF]] 妥协成立，多元联邦资助格局正式定型。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]
+> - **冷战繁荣与大科学扩展（1950–1975）— 人造卫星危机与体制升级**
+>   1957 年苏联发射 Sputnik 卫星引发全美震动，NSF 预算两年内激增 250%；国会通过《[[National Defense Education Act of 1958|1958年国防教育法案]]》（NDEA）赋予 NSF 科学课程改革与研究生资助使命；联邦设立由大学托管的[[Federally Funded Research and Development Centers|联邦资助研发中心]]（FFRDC，如伯克利实验室、费米实验室），构筑国家级大科学装置共享网络。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 37–39)]]
+> - **产学协同与现代重组（1975 年至今）— 危机纠偏与技术转移**
+>   越战后尼克松裁撤科学顾问引发政学危机；福特总统签署法案正式设立白宫[[Office of Science and Technology Policy|科学技术政策办公室]]（OSTP, 1976）恢复顶层协调；面对经济滞胀，NSF 试点[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（I/UCRC），国会通过 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》赋予大学专利所有权，形成纯基础探索（NSF）与战略使命资助（NIH/DOD/DOE）并行的成熟多元生态。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 39–42)]]
 
 ---
 

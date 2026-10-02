@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Research Universities",
+      "path": "wiki/concepts/higher-education/Research Universities.md"
+    },
+    {
       "basename": "Argument_Atkinson_2008_TIS",
       "path": "wiki/arguments/journal-articles/Technology in Society/Argument_Atkinson_2008_TIS.md"
+    },
+    {
+      "basename": "Pluralistic Federal Funding System",
+      "path": "wiki/concepts/science-policy/Pluralistic Federal Funding System.md"
+    },
+    {
+      "basename": "Federally Funded Research and Development Centers",
+      "path": "wiki/facts/us/Federally Funded Research and Development Centers.md"
+    },
+    {
+      "basename": "Department of Energy",
+      "path": "wiki/facts/us/Department of Energy.md"
+    },
+    {
+      "basename": "National Science Foundation",
+      "path": "wiki/facts/us/National Science Foundation.md"
     },
     {
       "basename": "Bayh-Dole Act of 1980",
@@ -101,10 +121,6 @@
       "path": "wiki/facts/australia/Australian Philanthropic Services.md"
     },
     {
-      "basename": "National Science Foundation",
-      "path": "wiki/facts/us/National Science Foundation.md"
-    },
-    {
       "basename": "Academic Ranking of World Universities",
       "path": "wiki/facts/china/Academic Ranking of World Universities.md"
     },
@@ -181,24 +197,8 @@
       "path": "wiki/concepts/educational-policy-reform/Blue Skies Research.md"
     },
     {
-      "basename": "Department of Energy",
-      "path": "wiki/facts/us/Department of Energy.md"
-    },
-    {
       "basename": "Paula Stephan",
       "path": "wiki/persons/us/Paula Stephan.md"
-    },
-    {
-      "basename": "Shopping Mall Model of Research Universities",
-      "path": "wiki/concepts/higher-education/Shopping Mall Model of Research Universities.md"
-    },
-    {
-      "basename": "Soft-Money Faculty Model",
-      "path": "wiki/concepts/higher-education/Soft-Money Faculty Model.md"
-    },
-    {
-      "basename": "Externalization",
-      "path": "wiki/concepts/comparative-education/Externalization.md"
     }
   ],
   "omittedPaths": [],
