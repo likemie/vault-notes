@@ -9,10 +9,10 @@ aliases:
 summary: "课堂话语策略，指教师重构并提升学生表述以明确观点作者权、提升认知层次并推动论证对话"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 7
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 18
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/instruction-pedagogy
   - western-learning-model
@@ -40,6 +40,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Michael Gove]]"
+  - "[[Horace Mann]]"
   - "[[Jin Li]]"
 confidence: medium
 status: draft
@@ -91,7 +92,7 @@ updated: 2026-10-03
 > - **标注观点作者权（Authorship Attribution）** 教师在互动中明确指明谁提出了什么观点，并将不同学生的提议置于对立面，促使学生将其视为个人的智力财产进行捍卫或修正。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 93–94)]]
 > - **认知层级提升（Cognitive Elevation）** 在不篡改学生核心原意的前提下，引入学科专业词汇与[[Analytic Framework|分析框架]]，将直觉性经验描述转化为严谨的知识表达。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 94)]]
 > - **促成同伴论证对立（Positioning for Peer Debate）** 借助句式重构将分歧显性化（例如所以你不同意某某同学的方案），为全班展开实证检验与[[Reflexivity|反思性]]讨论搭建结构化平台。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 94)]]
-> - **话语角色分离（Role Differentiation）** 依托欧文·[[Michael Gove|戈夫]]曼（Erving Goffman）的话语角色理论，教师仅承担话语发出者（Animator），而始终将学生保持为观点来源者（Author）。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 92–93)]]
+> - **话语角色分离（Role Differentiation）** 依托欧文·[[Michael Gove|戈夫]][[Horace Mann|曼]]（Erving Goffman）的话语角色理论，教师仅承担话语发出者（Animator），而始终将学生保持为观点来源者（Author）。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 92–93)]]
 
 > [!logic-map]- 话语重铸的微观互动机制
 > ```mermaid
@@ -163,7 +164,7 @@ updated: 2026-10-03
 ## 概念演变
 
 > [!dev-timeline] 话语重铸理论与应用演进
-> - **1981 — 社会语言学理论奠基** 欧文·[[Michael Gove|戈夫]]曼（Erving Goffman）在 *Forms of Talk* 中提出话语角色[[Analytic Framework|分析框架]]，区分话语发出者（Animator）、文本起草者（Author）与责任承担者（Principal），为教学中的话语转述奠定理论根基。
+> - **1981 — 社会语言学理论奠基** 欧文·[[Michael Gove|戈夫]][[Horace Mann|曼]]（Erving Goffman）在 *Forms of Talk* 中提出话语角色[[Analytic Framework|分析框架]]，区分话语发出者（Animator）、文本起草者（Author）与责任承担者（Principal），为教学中的话语转述奠定理论根基。
 > - **1993–1996 — 课堂重铸概念正式界定** 玛丽·凯瑟琳·奥康纳（Mary Catherine O'Connor）与萨拉·迈克尔斯（Sarah Michaels）在中小学科学与数学探究课堂中系统提炼出 Revoicing 话语策略，明确其在观点对齐与概念升级中的双重功能。
 > - **2012 — 跨文化学习模型整合** [[Jin Li|李瑾]]（Jin Li）在著作 *Cultural Foundations of Learning* 中将话语重铸置于西方[[Mind-Oriented Learning Process|心智导向]]学习模型（Mind-Oriented Learning Model）的系统框架中，并与东亚[[Listening-Oriented Learning|倾听导向学习]]模式进行深度比较。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 91–96, 115–120)]]
 

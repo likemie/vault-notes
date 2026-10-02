@@ -9,7 +9,7 @@ aliases:
 summary: "一种以正反立场分配、举证责任、限时质询与反驳规则为特征的结构化对话教学策略，通过认知冲突与换位思考促进批判性思维与论证技能"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-10-03
 ---
 
 # Classroom Debate

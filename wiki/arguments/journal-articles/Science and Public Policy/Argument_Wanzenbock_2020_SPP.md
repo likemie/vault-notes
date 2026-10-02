@@ -26,10 +26,14 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Problem Finding]]"
   - "[[Wicked Problem]]"
-  - "[[Reflexivity]]"
+  - "[[Transformative System Failures]]"
+  - "[[Reflexive Governance]]"
   - "[[Operationalization]]"
   - "[[Hypothesis]]"
+  - "[[Problem of Many Hands]]"
   - "[[Chain of Evidence]]"
+  - "[[Institutionalising Social Learning]]"
+  - "[[Reflexivity]]"
   - "[[Open-Mindedness]]"
   - "[[Feedback]]"
 related_theories:
@@ -39,8 +43,10 @@ related_methods:
   - "[[Typological Analysis]]"
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Childhood Obesity Governance]]"
+related_arguments:
+  - "[[Argument_Mazzucato_2018_ICC]]"
 sources:
   - "[[sources/Wanzenbock_2020_SPP/Wanzenbock_2020_SPP|Wanzenbock_2020_SPP]]"
 part_of:
@@ -53,9 +59,9 @@ title: "Argument_Wanzenbock_2020_SPP"
 argument_key: "Argument_Wanzenbock_2020_SPP"
 argument_display_title: "A framework for mission-oriented innovation policy: Alternative pathways through the problem–solution space"
 argument_kind: "journal-article"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 18
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "Science and Public Policy"
 book_title: ""
@@ -89,7 +95,7 @@ issuing_organization: ""
 > |---|---|
 > | **[[Problem-Solution Space for Mission-Oriented Innovation Policy\|问题–解决方案空间框架]]**<br>本文构建的核心分析框架 | 将问题与方案两端按发散与收敛状态做正交分解，形成四象限空间并阐释三条动态收敛路径。 |
 > | **[[Wicked Problem\|棘手问题理论]]**<br>Rittel & Webber (1973); Turnpenny et al. (2009) | 提供解构公共政策难题的三大核心分析维度：争议性（Contestation）、复杂性（Complexity）与不确定性（Uncertainty）。 |
-> | **[[Mission-Oriented Innovation Policy\|使命导向创新政策理论]]**<br>Weber & Rohracher (2012); Mazzucato (2018) | 确立超越传统市场失灵与系统失灵的变革性系统转型视角，强调方向性（Directionality）、需求表达与[[Reflexivity\|反思性]]治理。 |
+> | **[[Mission-Oriented Innovation Policy\|使命导向创新政策理论]]**<br>Weber & Rohracher (2012); [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 确立超越传统市场失灵与结构性失灵的[[Transformative System Failures\|变革性系统失灵]]诊断，强调方向性（Directionality）、需求表达与[[Reflexive Governance\|反思性治理]]。 |
 > | **社会–技术转型与多层级视角**<br>Geels (2004); Schot & Steinmueller (2018) | 解释创新方案如何突破既有社会–技术体制壁垒，实现技术、制度与社会行为的协同演进。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -163,7 +169,7 @@ issuing_organization: ""
 > - **争议性（Contestation）**
 >   不同社会群体在伦理道德、社会规范和优先发展目标上存在深刻分歧。例如在减排问题上，发展中国家与发达国家、传统重工业地区与环保倡导者之间对于责任归属和紧迫程度往往各持己见。（p.476）
 > - **复杂性（Complexity）**
->   问题根源错综复杂，往往由多个相互交织的子问题组成，跨越环保、财政、农业与能源等多个部门的行政管辖边界，出现责任分散且多方插手却无人负责的多手难题（Problem of Many Hands）。（pp.476–477）
+>   问题根源错综复杂，往往由多个相互交织的子问题组成，跨越环保、财政、农业与能源等多个部门的行政管辖边界，出现责任分散且多方插手却无人负责的[[Problem of Many Hands|多手难题]]（Problem of Many Hands）。（pp.476–477）
 > - **不确定性（Uncertainty）**
 >   科学界对问题成因、演化趋势与长期生态风险的认知尚不充分，因果[[Chain of Evidence|证据链]]条存在盲区，使政策制定缺乏完全可靠的事实依据。（p.477）
 
@@ -205,7 +211,7 @@ issuing_organization: ""
 
 #### 2. 农业、肥胖与自动驾驶案例表明，忽视象限特征将导致严重的政策方向迷失或技术推力受阻
 
-现实中处于不同象限的公共挑战具有截然不同的治理特征与制度障碍。
+现实中处于不同象限的公共挑战具有截然不同的治理特征与制度障碍。在农业转型、[[Childhood Obesity Governance|儿童肥胖治理]]与自动驾驶等典型政策议程中，结构性错位尤为突出。
 
 > [!policy-context] 可持续农业的双重发散困境
 > - **问题端的多目标冲突**
@@ -213,9 +219,9 @@ issuing_organization: ""
 > - **方案端的路线对立**
 >   以高科技过滤畜舍与人造饲料为代表的集约化工程面临动物福利与高昂成本质疑；以减少肉类消费与有机耕作为代表的转型路线则遭遇传统饮食习惯与农业游说集团的抵制。（p.479）
 
-> [!policy-context] 全球肥胖危机的方案探索困境
+> [!policy-context] 全球儿童肥胖危机的方案探索困境
 > - **问题端的疾病共识**
->   世界卫生组织（World Health Organization, WHO）将肥胖明确界定为全球流行病，全社会对肥胖带来的慢性病风险与医疗财政负担拥有高度共识。（p.479）
+>   世界卫生组织（World Health Organization, WHO）将肥胖明确界定为全球流行病，全社会对肥胖带来的慢性病风险与医疗财政负担拥有高度共识，使[[Childhood Obesity Governance|儿童肥胖治理]]在问题端率先收敛。（p.479）
 > - **方案端的责任归因博弈**
 >   政策在个体运动指导、医疗手术药物、食品企业自愿减糖以及刚性征收糖税之间剧烈摇摆，各方在个人自律责任与加工食品企业市场责任之间争执不下。（pp.479–480）
 
@@ -295,7 +301,7 @@ issuing_organization: ""
 > [!row-contrast] 三条收敛路径的治理机制、核心工具与代表案例横向对比
 > | 路径名称 | 轨迹方向 | 核心动力与治理机制 | 政策工具组合 | 代表性经验案例 |
 > |---|---|---|---|---|
-> | **问题导向路径**<br>（Problem-led Pathway） | 第一象限 ➔ 第二象限 ➔ 第四象限<br>（先收敛问题，再收敛方案） | 优先通过科学证据整合、价值框架重构与公众审议消除问题争议，确立社会需求后再探索多元方案 | 专家委员会、公众听证会、立法框架重构、规制标准出台 | **公共场所禁烟规制** 通过确立二手烟危害非吸烟者的科学与道德共识，使控烟问题由个人习惯争议收敛为公共健康保护，进而合法化了餐厅禁烟与重税规制。（pp.481–483） |
+> | **问题导向路径**<br>（Problem-led Pathway） | 第一象限 ➔ 第二象限 ➔ 第四象限<br>（先收敛问题，再收敛方案） | 优先通过科学证据整合、[[Institutionalising Social Learning\|制度化社会学习]]、价值框架重构与公众审议消除问题争议，确立社会需求后再探索多元方案 | 专家委员会、公众听证会、立法框架重构、规制标准出台 | **公共场所禁烟规制** 通过确立二手烟危害非吸烟者的科学与道德共识，使控烟问题由个人习惯争议收敛为公共健康保护，进而合法化了餐厅禁烟与重税规制。（pp.481–483） |
 > | **解决方案导向路径**<br>（Solution-led Pathway） | 第一象限 ➔ 第三象限 ➔ 第四象限<br>（先收敛方案，再收敛问题） | 优先在利基市场或试验区内研发和验证具体技术方案，待技术成熟后反向重构并激发公共需求 | 研发补贴、监管沙盒、政府采购、先导示范工程 | **英国 CCTV 监控系统** 安防产业与政府先期推进摄像头技术布设，随后借助反恐与治安舆论将公共安全问题向 CCTV 能力对齐，实现全国性制度化应用。（pp.483–484） |
 > | **混合演化路径**<br>（Hybrid / Co-evolutionary） | 第一象限 ➔ 对角线直接协同 ➔ 第四象限<br>（问题与方案同步演化） | 通过多方利益相关者治理平台，以[[Reflexivity\|反思性]]试验和小胜（Small Wins）策略实现问题重构与技术方案迭代的动态平衡 | 转型竞技场（Transition Arenas）、多方协商协议、适应性空间规划 | **荷兰陆上风电治理** 通过国家能源协议（Energieakkoord 2013）将可再生能源目标与地方社区选址、景观补偿机制实时联动协商，在冲突中动态收敛。（pp.484–485） |
 
@@ -333,7 +339,7 @@ issuing_organization: ""
 > *A process-oriented MIP would involve continuous learning and adaptation, reflecting on both the performance of specific solutions and the legitimacy of the problem definition. It would also involve more flexible and open governance arrangements, engaging citizens and stakeholders in the specification of missions and throughout their implementation.*
 
 > [!citation-card] 避免单一技术路径锁定的[[Reflexivity|反思性]]治理
-> 忽视解决方案中的规范与制度要素，或者单方面假定某一技术方案是不二之选，极易引发强烈的社会反弹和技术锁定风险。反思性治理要求政策制定者在探索解决路径时始终保持对替代方案的[[Open-Mindedness|开放性]]，并在制度安排中嵌入动态评估与纠偏机制。（pp.485–486）
+> 忽视解决方案中的规范与制度要素，或者单方面假定某一技术方案是不二之选，极易引发强烈的社会反弹和技术锁定风险。[[Reflexive Governance|反思性治理]]要求政策制定者在探索解决路径时始终保持对替代方案的[[Open-Mindedness|开放性]]，并在制度安排中嵌入动态评估与纠偏机制。（pp.485–486）
 >
 > *Disregarding the normative elements involved in specific solutions or prematurely locking into one technological route comes at a high price of social resistance and lock-in. Reflexive governance requires policy makers to remain open to alternative pathways and embed continuous [[Feedback]] mechanisms into institutional designs.*
 

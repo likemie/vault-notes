@@ -9,7 +9,7 @@ summary: "中国教育家，哥伦比亚大学师范学院毕业，杜威在华�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 17
+person_related_count: 16
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-17
+updated: 2026-10-03
 ---
 
 # Tao Xingzhi

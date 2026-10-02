@@ -9,7 +9,7 @@ aliases:
 summary: "指缺乏明确边界和既定算法，伴随高度价值争议、系统复杂性与认知不确定性的复杂社会系统难题"
 type: concept
 domain: "science-policy"
-related_count: 12
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,17 +23,24 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Reflexivity]]"
   - "[[Causality]]"
+  - "[[Problem of Many Hands]]"
   - "[[Document]]"
   - "[[Revoicing]]"
   - "[[Network Governance]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Operationalization]]"
+related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Correlational Research]]"
+related_persons:
+  - "[[Mariana Mazzucato]]"
 related_arguments:
   - "[[Argument_Wanzenbock_2020_SPP]]"
-confidence: medium
+  - "[[Argument_Mazzucato_2018_ICC]]"
+related_facts:
+  - "[[UN Sustainable Development Goals]]"
+confidence: high
 status: draft
 created: 2026-10-03
 updated: 2026-10-03
@@ -70,7 +77,7 @@ updated: 2026-10-03
 > | 维度 | 棘手问题（Wicked Problem） | 驯服问题（Tame Problem） |
 > |---|---|---|
 > | **问题定义** | 模糊、动态变化，因利益主体视角不同而异 | 明确、稳定，具有公认的边界与描述 |
-> | **[[Causality\|因果关系]]** | 多因多果、反馈回路复杂、存在责任分散的多手难题 | 因果链条清晰或可通过科学实验分离 |
+> | **[[Causality\|因果关系]]** | 多因多果、反馈回路复杂、存在责任分散的[[Problem of Many Hands\|多手难题]] | 因果链条清晰或可通过科学实验分离 |
 > | **价值冲突** | 充斥规范性争议与伦理道德权衡 | 价值目标相对中立或达成广泛共识 |
 > | **求解标准** | 无终极停止规则，只有较好或较坏的妥协状态 | 具有客观的对错或完成判据 |
 > | **治理逻辑** | 审议共识、小步试验、[[Reflexivity\|反思性]]调整 | 线性工程管理、专家规划、技术优化 |
@@ -81,7 +88,7 @@ updated: 2026-10-03
 
 > [!feature] 棘手性的三大维度
 > - **争议性（Contestation）** 指不同行动者群体在道德信念、社会规范、政治利益和优先序上存在深层分歧，导致对问题严重性及解决方案可接受性无法达成一致。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 476–477)]]
-> - **复杂性（Complexity）** 指问题由多个相互交织的子问题组成，跨越不同政策领域、空间尺度与行政管辖边界，存在分散的多手难题（Problem of Many Hands）。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 476–477)]]
+> - **复杂性（Complexity）** 指问题由多个相互交织的子问题组成，跨越不同政策领域、空间尺度与行政管辖边界，存在分散的[[Problem of Many Hands|多手难题]]（Problem of Many Hands）。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 476–477)]]
 > - **不确定性（Uncertainty）** 指缺乏充足的科学共识与数据支持，因果关联高度模糊，干预措施的长期后果、反弹效应与意外次生风险难以预测。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 476–477)]]
 
 ---
@@ -110,6 +117,16 @@ updated: 2026-10-03
 
 ---
 
+### 命题三　将棘手社会挑战拆解为使命组合是驱动跨部门协同与系统转型的关键路径
+
+> [!concept-lens] 宏大挑战的使命化操作
+> 诸如气候变化、贫困消除与海洋微塑料污染等重大社会挑战具有典型的棘手性（高度互联、多因多果、无单一最优解），直接面对往往导致政策瘫痪；通过使命化工具拆解能够转化为跨部门具体行动。
+
+> [!claim] Mazzucato, M.
+> **使命拆解机制** 应对21世纪重大社会棘手问题不能依赖单一孤立的技术方案，也不能受限于传统的单一行业补贴。公共政策必须将宏大的棘手挑战（如[[UN Sustainable Development Goals|联合国可持续发展目标]] SDG 14 海洋保护）进一步拆解为边界明确、目标可量化、有时限要求的具体战略使命（如“无塑海洋使命”），进而拉动跨学科、跨部门与公私主体的自下而上多元探索组合，以系统协同破解棘手难题。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805, 810–812)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 命题归纳
@@ -117,6 +134,7 @@ updated: 2026-10-03
 > |---|---|---|---|
 > | **双重解构命题** | 主张将棘手性拆解为问题端与方案端的三维矩阵 | 复杂社会系统治理与创新政策评估 | [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]]; Turnpenny et al. (2009) |
 > | **阶段性驯服命题** | 阐明通过[[Revoicing\|话语重构]]、边界跨越与小步试验实现治理共识 | 争议性公共政策议程设置与制度变迁 | [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]]; Termeer & Dewulf (2018) |
+> | **使命拆解机制** | 论证通过可量化的使命组合将宏大棘手挑战转化为跨部门协同行动 | 全球性可持续发展目标（SDGs）与国家重大转型政策 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
 
 ---
 
@@ -126,6 +144,7 @@ updated: 2026-10-03
 > - **1973 — 规划理论奠基** Rittel & Webber（1973）在城市规划与公共政策领域首次系统界定棘手问题的特征，确立其反理性规划的理论地位。
 > - **2000 — [[Network Governance|网络治理]]与协作视角** Roberts（2000）探讨应对棘手问题的权威型、竞争型与协作型三种治理网络模式。
 > - **2009 — 三维[[Analytic Framework|分析框架]]深化** Turnpenny et al.（2009）将棘手性提炼为争议性、系统复杂性与[[Scientific Uncertainty|认知不确定性]]三个核心维度。
+> - **2018 — [[Mission-Oriented Innovation Policy|使命导向创新政策]]与社会挑战转化** [[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）系统论证如何将21世纪重大社会棘手难题转化为使命导向创新政策的组合管理项目。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
 > - **2020 — 创新政策与问题–解决方案空间拓展** [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]]将棘手性理论引入[[Mission-Oriented Innovation Policy|使命导向创新政策]]，开创了问题端与方案端对称分析的二维空间理论。
 
 ---
@@ -145,4 +164,5 @@ updated: 2026-10-03
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 阐述如何将复杂的全球重大社会挑战与棘手问题通过[[Mission-Oriented Innovation Policy|使命导向创新政策]]转化为可执行的跨部门项目组合。
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 将棘手问题的争议性、复杂性与不确定性维度[[Operationalization|操作化]]为解构[[Mission-Oriented Innovation Policy|使命导向创新政策]]的分析透镜。

@@ -10361,6 +10361,18 @@
     ]
   },
   {
+    "title": "Institutionalising Social Learning",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Institutionalising Social Learning.md",
+    "aliases": [
+      "制度化社会学习",
+      "政策社会学习",
+      "社会学习治理",
+      "Social Learning in Governance",
+      "Social Learning (Policy and Transitions)"
+    ]
+  },
+  {
     "title": "Long-Term Public Utility",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Long-Term Public Utility.md",
@@ -10369,6 +10381,20 @@
       "public utility",
       "Public Utility in Research Funding",
       "长期公共利益"
+    ]
+  },
+  {
+    "title": "Market Shaping and Creating",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Market Shaping and Creating.md",
+    "aliases": [
+      "市场塑造与市场共创",
+      "市场塑造",
+      "市场共创",
+      "市场创造",
+      "market shaping",
+      "market creating",
+      "market co-creation"
     ]
   },
   {
@@ -10394,6 +10420,41 @@
       "多元联邦科研资助系统",
       "Pluralistic System of Federal Research Support",
       "Pluralistic Funding System"
+    ]
+  },
+  {
+    "title": "Problem of Many Hands",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Problem of Many Hands.md",
+    "aliases": [
+      "多手难题",
+      "很多手的问题",
+      "责任分散难题",
+      "Many Hands Problem"
+    ]
+  },
+  {
+    "title": "Reflexive Governance",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Reflexive Governance.md",
+    "aliases": [
+      "反思性治理",
+      "反思型治理",
+      "自反性治理",
+      "Reflexive Governance for Sustainable Development"
+    ]
+  },
+  {
+    "title": "Transformative System Failures",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Transformative System Failures.md",
+    "aliases": [
+      "变革性系统失灵",
+      "转型系统失灵",
+      "变革性系统失效",
+      "Transformative System Failure",
+      "Transformative Failures",
+      "TSF"
     ]
   },
   {
@@ -14247,6 +14308,15 @@
       "Problem-Solution Space",
       "Wanzenböck's MIP Framework",
       "问题解决方案空间模型"
+    ]
+  },
+  {
+    "title": "ROAR Framework",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/ROAR Framework.md",
+    "aliases": [
+      "ROAR Policy Framework",
+      "ROAR Framework for Innovation Policy"
     ]
   },
   {
@@ -19872,6 +19942,15 @@
     ]
   },
   {
+    "title": "Mariana Mazzucato",
+    "type": "person",
+    "path": "wiki/persons/italy/Mariana Mazzucato.md",
+    "aliases": [
+      "玛丽安娜·马祖卡托",
+      "马祖卡托"
+    ]
+  },
+  {
     "title": "Baruch Spinoza",
     "type": "person",
     "path": "wiki/persons/netherlands/Baruch Spinoza.md",
@@ -24314,6 +24393,17 @@
       "Asian Century White Paper",
       "Henry Report 2012",
       "亚洲世纪白皮书"
+    ]
+  },
+  {
+    "title": "Childhood Obesity Governance",
+    "type": "fact",
+    "path": "wiki/facts/global/Childhood Obesity Governance.md",
+    "aliases": [
+      "儿童肥胖治理",
+      "儿童肥胖行动计划",
+      "Childhood Obesity Plan for Action",
+      "Governance of Childhood Obesity"
     ]
   },
   {
@@ -30067,6 +30157,11 @@
     "title": "Argument_Park_2026_TSC",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Park_2026_TSC.md"
+  },
+  {
+    "title": "Argument_Mazzucato_2018_ICC",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Mazzucato_2018_ICC.md"
   },
   {
     "title": "Argument_Besa_2024_UW",

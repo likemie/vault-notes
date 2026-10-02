@@ -5,6 +5,22 @@
       "path": "wiki/arguments/journal-articles/Science and Public Policy/Argument_Wanzenbock_2020_SPP.md"
     },
     {
+      "basename": "Reflexive Governance",
+      "path": "wiki/concepts/science-policy/Reflexive Governance.md"
+    },
+    {
+      "basename": "Reflexivity",
+      "path": "wiki/concepts/research-methodology/Reflexivity.md"
+    },
+    {
+      "basename": "Emancipatory Action Research",
+      "path": "wiki/methods/qualitative/Emancipatory Action Research.md"
+    },
+    {
+      "basename": "Mission-Oriented Innovation Policy",
+      "path": "wiki/concepts/science-policy/Mission-Oriented Innovation Policy.md"
+    },
+    {
       "basename": "Revoicing",
       "path": "wiki/concepts/instruction-pedagogy/Revoicing.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Academic Freedom",
       "path": "wiki/concepts/higher-education/Academic Freedom.md"
-    },
-    {
-      "basename": "Science, The Endless Frontier 1945",
-      "path": "wiki/facts/us/Science, The Endless Frontier 1945.md"
-    },
-    {
-      "basename": "Conatus",
-      "path": "wiki/concepts/educational-philosophy/Conatus.md"
-    },
-    {
-      "basename": "Intercultural Education",
-      "path": "wiki/concepts/comparative-education/Intercultural Education.md"
-    },
-    {
-      "basename": "Argument_Peterson_1987_OpenCourt_Ch07",
-      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch07.md"
     }
   ],
   "omittedPaths": [],
