@@ -11,7 +11,7 @@ aliases:
 summary: "Freeman 与 Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络与市场互动进行的集体学习活动；主张创新绩效取决于行动者能力、网络连接密度与制度规则适配性，推动公共政策从弥补市场失灵转向修复系统失灵。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 57
+theory_related_count: 60
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -34,6 +34,8 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Growth]]"
   - "[[Multi-channel Interactive Learning Model]]"
+  - "[[Market Shaping and Creating]]"
+  - "[[Innovation Policy Paradigms]]"
   - "[[Transformative Change]]"
   - "[[Flow]]"
   - "[[Problem Solving]]"
@@ -46,7 +48,6 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
   - "[[Knowledge Production]]"
-  - "[[Innovation Policy Paradigms]]"
   - "[[Literature Search]]"
   - "[[Knowledge Transfer]]"
   - "[[Corporate R&D Labs]]"
@@ -72,6 +73,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
+  - "[[Mariana Mazzucato]]"
 related_facts:
   - "[[Local Innovation Systems Project]]"
   - "[[Bayh-Dole Act of 1980]]"
@@ -82,6 +84,7 @@ related_arguments:
   - "[[Argument_Moisio_2022_Springer]]"
   - "[[Argument_Bogliacino_Pianta_2016_EP]]"
   - "[[Argument_Lester_2005_MIT]]"
+  - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Pavitt_1984_RP]]"
 confidence: high
@@ -125,7 +128,8 @@ updated: 2026-10-03
 >   - **区域创新系统（Regional Innovation Systems, RIS）** 阿斯海姆与格特勒（Asheim & Gertler, 2004）强调地理邻近性、隐性知识面对面传播与地方制度厚度对区域创新集群的塑造。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 865)]]
 > - **2005 — 本地创新系统与大学转型匹配模型** 麻省理工学院莱斯特（Richard K. Lester）团队通过 6 国 22 个地区（714 次[[In-depth Interview|深度访谈]]）的[[Local Innovation Systems Project|本地创新系统项目]]（LIS），打破大学必须追逐硅谷式“重磅专利许可”的一刀切迷思，提出大学支撑本地系统四大产业转型（新产业形成、产业移植、产业多元化、既有产业升级）的差异化匹配模型。[[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–24)]]
 > - **2009 — 多通道互动学习与知识池重塑** 卡拉卡等（Caraça et al.）提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，指出创新涉及科技、组织与营销三类知识池，创新系统的关键在于构筑企业与微观/宏观制度环境双向共演的组织界面。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]
-> - **2010s 至今 — [[Transformative Change|变革转型范式]]（Transformative Change）反思** 肖特与斯泰因穆勒（Schot & Steinmueller, 2018）指出传统创新系统范式过于聚焦经济增长优化与被动修复系统失灵，面对气候危机与社会不平等，亟需演进至具备“方向性”（Directionality）的第三代政策范式。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 32–34)]]
+> - **2018 — 从系统修补到使命导向[[Market Shaping and Creating|市场塑造]]** [[Mariana Mazzucato|马祖卡托]]（Mazzucato, 2018）指出传统[[Innovation Policy Paradigms|创新系统范式]]止步于“系统修补”（System Fixing），主张从被动弥补网络与制度失灵转向主动“市场塑造与创造”，围绕重大社会挑战设定技术与经济发展的明确方向。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–806)]]
+> - **2018 至今 — [[Transformative Change|变革转型范式]]（Transformative Change）反思** 肖特与斯泰因穆勒（Schot & Steinmueller, 2018）指出传统创新系统范式过于聚焦经济增长优化与被动修复系统失灵，面对气候危机与社会不平等，亟需演进至具备“方向性”（Directionality）的第三代政策范式。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 32–34)]]
 
 ---
 
@@ -199,7 +203,7 @@ updated: 2026-10-03
 >       - **含义** 识别国家科技战略是依循线性科学促增长、国家创新系统优化，还是使命驱动型[[Transformative Change|变革转型]]。
 >       - **观察线索** 研发资金配置方式（纯基础科学资助 vs 跨主体产学协同基金 vs 使命导向重大挑战工程）。
 >       - **判读规则** 仅以基础科研论文产出为单一考核指标者属范式一；强调产学研协同平台与吸收能力建设者属范式二；以应对碳中和等重大危机为导向者属范式三。
->       - **归属与出处** 演化创新政策学说（Schot & Steinmueller, 2018）。
+>       - **归属与出处** 演化创新政策学说（Schot & Steinmueller, 2018; [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）。
 >   - **D1.2｜制度规则与激励结构**
 >     - **D1.2.1｜产权赋权与商业化法则**
 >       - **含义** 检视国家法律对财政资助研发成果的产权下放与收益分成机制。
@@ -243,7 +247,7 @@ updated: 2026-10-03
 > - **适合分析** 处于工业化成熟期与[[Knowledge-Based Economy|知识经济]]转型期的国家与高科技区域；分析产业集群技术外溢阻滞、科技成果转化不畅、区域大学与本地经济发展脱节等结构性问题。
 > - **成立条件** 需要被分析系统具备一定密度的基本行动者（一定数量的高校、科研院所与具备自主研发意识的企业）；需要基本的市场竞争机制与法治框架保障契约履行；需要产业具备最低限度的技术[[Absorptive Capacity|吸收能力]]。
 > - **解释不足** 
->   1. **方向性盲区（Directionality Blindness）** 传统创新系统学派重在提升系统的整体创新效率、促进知识流动（系统优化思维），但对创新“应该朝何处去”（如气候中和、社会包容）缺乏内生价值判断，难以自主应对迫切的重大全球挑战；[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 32–34)]]
+>   1. **方向性盲区与系统修补局限（Directionality Blindness & System Fixing）** 传统创新系统学派重在提升系统的整体创新效率、促进知识流动与弥补系统失灵（系统修补思维），但对创新“应该朝何处去”（如气候中和、社会包容）缺乏内生价值判断与主动[[Market Shaping and Creating|市场塑造]]工具，难以自主应对迫切的重大全球挑战；[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 32–34)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–806)]]
 >   2. **地缘政治冲突与安全审查外溢** 理论原初假定跨国知识流动是开放且积极的全球化过程，低估了当前大国地缘博弈下技术主权壁垒、进出口管制以及以国家安全为由割裂全球创新链的现实风险；[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]
 >   3. **大企业研发中心衰落的填补赤字** 理论往往假定大学与初创企业能完美填补跨国巨头[[Corporate R&D Labs|中央研发实验室]]衰落留下的技术空白，但经验实证表明，高度碎片化的产学网络在攻克大跨度、长周期的跨学科系统工程时，整体整合能力弱于昔日的[[Bell Labs|贝尔实验室]]等中心机构。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 41–42)]]
 > - **转化困难** 系统边界（国家边界 vs 区域集群 vs 跨国技术网络）在数字化时代日益模糊，给量化测量与因果识别带来方法论挑战；“网络质量”与“制度厚度”高度依赖质性案例阐释，缺乏统一标准度量。
@@ -256,9 +260,9 @@ updated: 2026-10-03
 > [!debates] 理论争议
 >
 > > [!axis] 系统优化 vs. 变革方向：创新政策是否应具备主动价值导向？
-> > 传统创新系统学派主张政策的核心是弥补系统失灵、畅通知识网络；而[[Transformative Change|变革转型]]学者主张面对重大生态与社会危机，政策必须果断指明技术转型的战略方向。
+> > 传统创新系统学派主张政策的核心是弥补系统失灵、畅通知识网络；而[[Transformative Change|变革转型]]与使命导向学者主张面对重大生态与社会危机，政策必须果断指明技术转型的战略方向与主动塑造市场。
 > >
-> > - **肖特与斯泰因穆勒（Schot & Steinmueller, 2018）** 传统创新系统[[Paradigm|范式]]在应对气候变化等[[Wicked Problem|棘手问题]]时过于被动，它擅长修复机器运转，却无法回答这台机器正驶向何方，必须演进为具备强方向性与[[Reflexivity|反思性]]的“第三代政策范式”。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 32–34)]]
+> > - **肖特与斯泰因穆勒（Schot & Steinmueller, 2018） & [[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）** 传统创新系统[[Paradigm|范式]]在应对气候变化等[[Wicked Problem|棘手问题]]时过于被动，它擅长修复系统网络运转，却无法回答这台机器正驶向何方，必须演进为具备强方向性、主动[[Market Shaping and Creating|市场塑造]]与[[Reflexivity|反思性]]的第三代政策范式与ROAR 治理框架。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 32–34)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–806)]]
 > > - **伦德瓦尔等传统学派学者（Lundvall et al., 2002）** 创新系统本质是一个复杂的演化学习网络，政府过度预设具体技术路线和强制方向极易重蹈“挑选赢家”的计划经济覆辙，政府首要职责依然是维护良性的[[Innovation Ecosystem|创新生态]]与学习能力。
 >
 > > [!axis] 硅谷神话 vs. 本地匹配：大学的系统角色该向何处看齐？
@@ -274,7 +278,8 @@ updated: 2026-10-03
 > > - **经典 NIS 学者** 侧重研究全球价值链与跨国研发生态的协同互补，倾向于将地缘政治冲突视为外生干扰而非内生[[Variable|变量]]。
 
 > [!critique]- 批评索引
-> - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]] — 揭示了传统创新系统范式在应对气候危机时方向性不足的局限，以及大[[Corporate R&D Labs|企业研发实验室]]衰落后高校与初创企业难以完全弥补跨学科系统研发赤字的现实张力。
+> - [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]] — 揭示了传统国家创新系统学派局限于“系统失灵修补”（System-Fixing）的理论盲区，阐发了由国家主动设立方向并进行[[Market Shaping and Creating|市场塑造]]的必要性。
+> - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]] — 揭示了传统[[Innovation Policy Paradigms|创新系统范式]]在应对气候危机时方向性不足的局限，以及大[[Corporate R&D Labs|企业研发实验室]]衰落后高校与初创企业难以完全弥补跨学科系统研发赤字的现实张力。
 > - [[Argument_Lester_2005_MIT|Lester, 2005]] — 批评了政策界对大学专利[[Technology Transfer|技术转移]]的一刀切狂热，指出其忽视了大学作为本地公共空间、技术吸收催化剂及非专利服务提供者的系统价值。
 > - [[Argument_Caraca_2009_TFSC|Caraça et al., 2009]] — 揭示了制度惯性阻尼效应，指出当宏观制度架构滞后于微观技术变革速率时，创新系统将陷入动荡与结构性阵痛。
 > - [[Argument_Moisio_2022_Springer|Moisio, 2022]] — 批判了创新系统理论长期脱离地缘政治的非空间化假定，揭示出国家创新竞争背后的领土化与霸权博弈本质。
@@ -284,9 +289,11 @@ updated: 2026-10-03
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]] — 阐述从国家创新系统“系统失灵修补”向使命导向“[[Market Shaping and Creating|市场塑造]]与创造”的理论演化脉络与 ROAR 政策[[Analytic Framework|分析框架]]。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]] — 系统梳理五十年来产学关系与[[Innovation Policy Paradigms|创新政策范式]]的三次跃迁（科学促增长 → 创新系统 → [[Transformative Change|变革转型]]），详述系统失灵的完整分类（制度、网络、锁定、能力等）及大学对创新全谱系的多维贡献。
 > - [[Argument_Caraca_2009_TFSC|Caraça et al., 2009]] — 提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，整合部门、区域与国家创新系统，论证三类知识池互动及微观/宏观制度滞后造成的阻尼效应。
 > - [[Argument_Lester_2005_MIT|Lester, 2005]] — 依托 MIT [[Local Innovation Systems Project|本地创新系统项目]]（LIS）对 6 国 22 个地区的实证调研，系统构建大学匹配四种本地产业转型路径的差异化支持模型。
 > - [[Argument_Moisio_2022_Springer|Moisio, 2022]] — 从[[Cultural Political Economy|文化政治经济学]]与地缘政治学视角追溯国家创新系统的李斯特渊源，揭示[[Knowledge-Based Economization|知识经济化]]如何将知识、创新与国家竞争实力深度绑定。
 > - [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta, 2016]] — 运用修订版帕维特产业分类法，实证阐明科学基础型、专业供应商型、规模密集型等不同部门创新系统的[[Heterogeneity|异质性]]机制。
 > - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008]] — 梳理美国国家科技体制变迁，印证联邦竞争性拨款与《[[Bayh-Dole Act of 1980|拜杜法案]]》如何激活国家创新系统内部大学与产业的动态联结。
+

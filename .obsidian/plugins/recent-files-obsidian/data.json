@@ -5,6 +5,62 @@
       "path": "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Mazzucato_2018_ICC.md"
     },
     {
+      "basename": "Citizen Science",
+      "path": "wiki/concepts/sociology-of-education/Citizen Science.md"
+    },
+    {
+      "basename": "Punctuated Equilibrium Theory",
+      "path": "wiki/theories/educational-policy-reform/Punctuated Equilibrium Theory.md"
+    },
+    {
+      "basename": "Educational Research, Development and Innovation",
+      "path": "wiki/concepts/educational-policy-reform/Educational Research, Development and Innovation.md"
+    },
+    {
+      "basename": "Valley of Death",
+      "path": "wiki/concepts/university-industry-collaboration/Valley of Death.md"
+    },
+    {
+      "basename": "Technological Trajectories",
+      "path": "wiki/theories/political-economy-geopolitics/Technological Trajectories.md"
+    },
+    {
+      "basename": "Network Governance",
+      "path": "wiki/concepts/political-economy-geopolitics/Network Governance.md"
+    },
+    {
+      "basename": "Department of Energy",
+      "path": "wiki/facts/us/Department of Energy.md"
+    },
+    {
+      "basename": "National Institutes of Health",
+      "path": "wiki/facts/us/National Institutes of Health.md"
+    },
+    {
+      "basename": "DARPA",
+      "path": "wiki/facts/us/DARPA.md"
+    },
+    {
+      "basename": "UN Sustainable Development Goals",
+      "path": "wiki/facts/global/UN Sustainable Development Goals.md"
+    },
+    {
+      "basename": "Systems of Innovation",
+      "path": "wiki/theories/university-industry-collaboration/Systems of Innovation.md"
+    },
+    {
+      "basename": "ROAR Framework",
+      "path": "wiki/theories/science-policy/ROAR Framework.md"
+    },
+    {
+      "basename": "Wicked Problem",
+      "path": "wiki/concepts/science-policy/Wicked Problem.md"
+    },
+    {
+      "basename": "Evolutionary Economics",
+      "path": "wiki/theories/political-economy-geopolitics/Evolutionary Economics.md"
+    },
+    {
       "basename": "Innovation Policy Paradigms",
       "path": "wiki/concepts/university-industry-collaboration/Innovation Policy Paradigms.md"
     },
@@ -65,10 +121,6 @@
       "path": "wiki/theories/science-policy/Problem-Solution Space for Mission-Oriented Innovation Policy.md"
     },
     {
-      "basename": "Wicked Problem",
-      "path": "wiki/concepts/science-policy/Wicked Problem.md"
-    },
-    {
       "basename": "Argument_Atkinson_2008_TIS",
       "path": "wiki/arguments/journal-articles/Technology in Society/Argument_Atkinson_2008_TIS.md"
     },
@@ -87,10 +139,6 @@
     {
       "basename": "Federally Funded Research and Development Centers",
       "path": "wiki/facts/us/Federally Funded Research and Development Centers.md"
-    },
-    {
-      "basename": "Department of Energy",
-      "path": "wiki/facts/us/Department of Energy.md"
     },
     {
       "basename": "National Science Foundation",
@@ -141,10 +189,6 @@
       "path": "wiki/facts/us/Sputnik Shock 1957.md"
     },
     {
-      "basename": "National Institutes of Health",
-      "path": "wiki/facts/us/National Institutes of Health.md"
-    },
-    {
       "basename": "Argument_Stephan_2013_NBER",
       "path": "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "CNRS",
       "path": "wiki/facts/france/CNRS.md"
-    },
-    {
-      "basename": "Systems of Innovation",
-      "path": "wiki/theories/university-industry-collaboration/Systems of Innovation.md"
-    },
-    {
-      "basename": "Morrill Land-Grant Act of 1862",
-      "path": "wiki/facts/us/Morrill Land-Grant Act of 1862.md"
-    },
-    {
-      "basename": "Academic Start-up Packages",
-      "path": "wiki/concepts/higher-education/Academic Start-up Packages.md"
-    },
-    {
-      "basename": "Richard C. Atkinson",
-      "path": "wiki/persons/us/Richard C. Atkinson.md"
-    },
-    {
-      "basename": "Evaluation Research",
-      "path": "wiki/concepts/educational-policy-reform/Evaluation Research.md"
-    },
-    {
-      "basename": "Bell Labs",
-      "path": "wiki/facts/us/Bell Labs.md"
-    },
-    {
-      "basename": "Knowledge Production",
-      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
-    },
-    {
-      "basename": "American Association for the Advancement of Science",
-      "path": "wiki/facts/us/American Association for the Advancement of Science.md"
-    },
-    {
-      "basename": "Australian Philanthropic Services",
-      "path": "wiki/facts/australia/Australian Philanthropic Services.md"
-    },
-    {
-      "basename": "Academic Ranking of World Universities",
-      "path": "wiki/facts/china/Academic Ranking of World Universities.md"
-    },
-    {
-      "basename": "Academic Risk Aversion",
-      "path": "wiki/concepts/higher-education/Academic Risk Aversion.md"
     }
   ],
   "omittedPaths": [],

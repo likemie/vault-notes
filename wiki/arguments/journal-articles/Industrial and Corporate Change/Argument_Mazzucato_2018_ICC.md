@@ -19,18 +19,37 @@ tags:
   - political-economy
 related_concepts:
   - "[[Mission-Oriented Innovation Policy]]"
+  - "[[Paradigm]]"
   - "[[Market Shaping and Creating]]"
+  - "[[Innovation Policy Paradigms]]"
+  - "[[Hypothesis]]"
   - "[[Wicked Problem]]"
+  - "[[Document]]"
+  - "[[Open-Mindedness]]"
+  - "[[Network Governance]]"
+  - "[[Reflexivity]]"
+  - "[[Valley of Death]]"
+  - "[[Citizen Science]]"
+  - "[[Growth]]"
 related_theories:
+  - "[[Evolutionary Economics]]"
   - "[[ROAR Framework]]"
-  - "[[Problem-Solution Space for Mission-Oriented Innovation Policy]]"
+  - "[[Systems of Innovation]]"
+  - "[[Technological Trajectories]]"
+  - "[[Educational Governance Framework]]"
+  - "[[Punctuated Equilibrium Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
   - "[[Mariana Mazzucato]]"
 related_facts:
-  - "[[Horizon Europe Missions]]"
+  - "[[UN Sustainable Development Goals]]"
+  - "[[DARPA]]"
+  - "[[National Institutes of Health]]"
+  - "[[Department of Energy]]"
+  - "[[Investing in Innovation Program]]"
+  - "[[Achieve]]"
 related_arguments: []
 sources:
   - "[[sources/Mazzucato_2018_ICC/Mazzucato_2018_ICC|Mazzucato_2018_ICC]]"
@@ -44,9 +63,9 @@ title: "Argument_Mazzucato_2018_ICC"
 argument_key: "Argument_Mazzucato_2018_ICC"
 argument_display_title: "Mission-oriented innovation policies: challenges and opportunities"
 argument_kind: "journal-article"
-argument_related_count: 8
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 27
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 ---
 # Argument_Mazzucato_2018_ICC
@@ -248,7 +267,7 @@ argument_related_color: "#dbeafe"
 > [!feature] 使命遴选与推进的五大核心标准
 > - **宏大、鼓舞人心且具备广泛社会相关性** 使命必须能激发广泛社会共鸣，使公众清晰感知到科研创新与日常福祉的紧密联结。（p. 811）
 > - **明确的方向性：目标具体、可衡量且有明确时限** 设定清晰具体的量化指标或二元判定标准，并明确合理的达成时间窗口（如 5–10 年）。（p. 811）
-> - **雄心勃勃但切合实际的[[Educational Research, Development and Innovation|研发与创新]]行动** 聚焦涵盖基础研究、应用研发与产业转化的全链条组合投资，兼顾前沿突破的高风险与现实可行性。（p. 811）
+> - **雄心勃勃但切合实际的研发与创新行动** 聚焦涵盖基础研究、应用研发与产业转化的全链条组合投资，兼顾前沿突破的高风险与现实可行性。（p. 811）
 > - **跨学科、跨行业与跨主体协同创新** 突破单一行业框架，拉动自然科学、工程技术、社会科学、传统产业与新兴数字领域的跨界联动。（pp. 811–812）
 > - **多元自下而上的探索方案** 不依赖单一技术或[[Punctuated Equilibrium Theory|政策垄断]]路径，保持开放性，通过自下而上的多样化探索方案形成竞争与互补。（p. 812）
 

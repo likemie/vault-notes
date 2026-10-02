@@ -1,6 +1,7 @@
 ---
 citation: "Mazzucato, M. (2018). Mission-oriented innovation policies: challenges and opportunities. Industrial and Corporate Change, 27(5), 803–815. https://doi.org/10.1093/icc/dty034"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Mazzucato_2018_ICC]]"
 processed_date: 2026-10-03
 ---
 

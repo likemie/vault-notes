@@ -4313,7 +4313,6 @@
     "path": "wiki/concepts/educational-policy-reform/Educational Research, Development and Innovation.md",
     "aliases": [
       "教育研发与创新",
-      "研发与创新",
       "Research, Development and Innovation",
       "RDI"
     ]
@@ -11785,8 +11784,9 @@
       "创新政策范式",
       "创新政策三范式",
       "科学促增长范式",
-      "innovation policy paradigms",
-      "three frames for innovation policy",
+      "创新系统范式",
+      "三大创新政策范式",
+      "Three Frames for Innovation Policy",
       "STI policy paradigms"
     ]
   },
@@ -13939,8 +13939,9 @@
     "path": "wiki/theories/political-economy-geopolitics/Evolutionary Economics.md",
     "aliases": [
       "演化经济学",
+      "新熊彼特经济学",
       "Neo-Schumpeterian Economics",
-      "新熊彼特经济学"
+      "Schumpeterian Economics"
     ]
   },
   {
@@ -27471,6 +27472,17 @@
     ]
   },
   {
+    "title": "DARPA",
+    "type": "fact",
+    "path": "wiki/facts/us/DARPA.md",
+    "aliases": [
+      "美国国防高级研究计划局",
+      "Defense Advanced Research Projects Agency",
+      "国防高级研究计划局",
+      "ARPA"
+    ]
+  },
+  {
     "title": "Department of Energy",
     "type": "fact",
     "path": "wiki/facts/us/Department of Energy.md",
@@ -27907,15 +27919,6 @@
       "Federal Policy for the Protection of Human Subjects",
       "人类受试者保护通用规则",
       "OHRP Common Rule"
-    ]
-  },
-  {
-    "title": "DARPA",
-    "type": "fact",
-    "path": "wiki/facts/us/DARPA.md",
-    "aliases": [
-      "美国国防高级研究计划局",
-      "Defense Advanced Research Projects Agency"
     ]
   },
   {

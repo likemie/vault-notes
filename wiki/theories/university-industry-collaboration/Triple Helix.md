@@ -8,7 +8,7 @@ aliases:
 summary: "Etzkowitz 与 Leydesdorff 于 1995 年提出的创新系统理论，阐明大学、产业与政府在知识经济中突破单向线性分工、形成非线性反馈与职能重叠的动态螺旋，并揭示了宏观制度交织与微观组织碎片化之间的深层张力。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 47
+theory_related_count: 46
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -44,7 +44,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Hypothesis]]"
   - "[[Academic Freedom]]"
-  - "[[Educational Research, Development and Innovation]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Discovery-Invention Cycle]]"
@@ -74,7 +73,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Triple Helix
@@ -267,5 +266,5 @@ updated: 2026-10-02
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b]] — 以三重螺旋为宏观背景，深入大学内部黑箱，实证揭示产学对接的五种组织模式及宏观整合与微观碎片化之间的理论张力。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming, 2025]] — 从企业[[Academic Engagement Team|学术参与团队]]视角提炼美国半导体行业三代公私伙伴关系（[[Public-Private Partnership in Research|PPP]]）演进历程，展现三重螺旋在具体产业中由项目化向国家法制化的跃升。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP, 2019]] — 深度剖析[[Netherlands Top-sector Policy|荷兰顶级行业政策]]如何激活三重螺旋，论证三方互动质量而非单纯研发强度投入是决定国家竞争力的核心驱动。
-> - [[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al., 2025]] — 运用三重螺旋、关系社会资本与[[Technology Transfer|技术转移]]多重视角，系统评估国际产学[[Educational Research, Development and Innovation|研发与创新]]合作面临的制度与文化阻碍。
+> - [[Argument_Wolf_2025_InternationalResearchCollab|Wolf et al., 2025]] — 运用三重螺旋、关系社会资本与[[Technology Transfer|技术转移]]多重视角，系统评估国际产学研发与创新合作面临的制度与文化阻碍。
 > - [[Argument_Swick_Jones_2025_AcademicHealthSystems|Swick & Jones, 2025]] — 结合[[Academic Health System|学术健康系统]]实证，指明在强监管、高合规领域中政府主要行使规则监管者职能，对三重螺旋提出关键结构性修正。

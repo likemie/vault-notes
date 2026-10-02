@@ -6,41 +6,53 @@ aliases:
   - 任务导向型创新政策
   - MIP
   - mission-oriented policy
-summary: "以应对重大社会挑战和变革性系统转型为核心导向，通过跨部门协调、方向性引导与多元政策工具组合推动创新的公共政策范式"
+summary: "以应对重大社会挑战和变革性系统转型为核心导向，通过主动塑造与共创市场、战略方向引导、挑选意愿者、ROAR治理框架与跨部门政策工具组合推动创新的公共政策范式"
 type: concept
 domain: "science-policy"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/science-policy
   - innovation-policy
   - transformative-change
   - science-policy
+  - political-economy
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Market Shaping and Creating]]"
   - "[[Scientific Uncertainty]]"
   - "[[Wicked Problem]]"
   - "[[Document]]"
   - "[[Network Governance]]"
   - "[[Innovation Policy Paradigms]]"
-  - "[[Reflexivity]]"
+  - "[[Transformative Change]]"
+  - "[[Technology Transfer]]"
+  - "[[Absorptive Capacity]]"
   - "[[Research Translation]]"
+  - "[[Open-Mindedness]]"
+  - "[[Hypothesis]]"
+  - "[[Transformative System Failures]]"
+  - "[[Reflexivity]]"
   - "[[Problem Finding]]"
   - "[[Determinism]]"
-  - "[[Transformative System Failures]]"
-  - "[[Market Shaping and Creating]]"
 related_theories:
+  - "[[Evolutionary Economics]]"
+  - "[[Technological Trajectories]]"
   - "[[Systems of Innovation]]"
+  - "[[Punctuated Equilibrium Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[Mariana Mazzucato]]"
+related_facts:
+  - "[[UN Sustainable Development Goals]]"
 related_arguments:
   - "[[Argument_Wanzenbock_2020_SPP]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
+  - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
 confidence: high
 status: draft
 created: 2026-10-03
@@ -54,12 +66,12 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> 使命导向创新政策（Mission-Oriented Innovation Policy, MIP）是指一种旨在调动科学、技术与创新资源，以解决具有明确社会紧迫性的重大社会挑战（如气候变化、公共健康、能源转型）的系统性公共政策[[Paradigm|范式]]。不同于传统以弥补市场失灵或系统失灵为目标的经济增长型政策，使命导向创新政策强调为社会–技术系统演化提供明确的方向性（Directionality），通过跨领域、跨部门和多层级的政策组合，推动从技术突破到制度与行为变革的深层转型。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 474–475)]]
+> 使命导向创新政策（Mission-Oriented Innovation Policy, MIP）是指一种旨在调动前沿科学、技术与产业创新资源，以解决具有明确社会紧迫性的重大社会挑战（如气候变化、公共健康、能源转型与生态危机）的系统性公共政策[[Paradigm|范式]]。不同于传统基于新古典经济学弥补市场失灵或[[Evolutionary Economics|演化经济学]]修补系统失灵的被动政策，使命导向创新政策强调为经济与社会–技术系统提供明确的方向性（Directionality），通过主动进行[[Market Shaping and Creating|市场塑造与市场共创]]、挑选意愿者（Picking the willing）以及多层级政策工具组合，推动从关键技术突破到制度安排与社会大众行为模式的全面转型。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 474–475)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向国家和公共机构为了达成特定重大社会目标而主动设立议程、引导创新方向并协同多方行动者的公共治理机制。
-> - **用途** 帮助研究者超越单纯的研发补贴或专利保护视角，透视政策如何界定公共挑战、协调异质利益并促成颠覆性技术与社会制度的共同演进。
-> - **边界** 不等同于传统的国家重大科技专项或冷战时期的国防工程；当代使命导向创新政策聚焦于具有高度价值争议、结构复杂性与[[Scientific Uncertainty|认知不确定性]]的社会[[Wicked Problem|棘手问题]]。
+> - **含义** 指向国家和公共机构为了达成特定重大社会转型目标而主动设立议程、开辟全新[[Technological Trajectories|技术轨道]]、引导创新方向并协同多元跨界主体的公共治理机制。
+> - **用途** 帮助研究者和政策制定者超越单纯的研发补贴、专利保护或税收减免视角，透视政策如何将宏大社会挑战拆解为可操作的使命任务，协调公私利益并构建跨部门探索组合。
+> - **边界** 不等同于冷战时期封闭工程攻关性质的国家科技专项（如曼哈顿工程或阿波罗登月）；当代使命导向政策聚焦于具有高度价值争议、系统复杂性与[[Scientific Uncertainty|认知不确定性]]的社会[[Wicked Problem|棘手问题]]。
 
 > [!citation-card] 政策内涵转向
 > 使命导向政策关涉支持变革性系统转型的政策体系。社会挑战往往需要根本性的社会转型，这不仅要求技术变革，还要求制度和行为层面的根本改变，正如社会–技术转型[[Document|文献]]所指出的那样。面临当代社会的棘手挑战，使命导向创新政策的核心任务在于确保合法性、广泛公众参与以及多元行动者之间的深度协作。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
@@ -67,44 +79,65 @@ updated: 2026-10-03
 > *MIP relates to policies supporting transformative system change... Societal challenges may need fundamental societal transformations, requiring not just technological, but also institutional and behavioural change, as recognized in the literature on socio-technical transitions... Accordingly, a major part of MIP lies in ensuring legitimacy, broad engagement, and cooperation among multiple actors to govern the wicked challenges of current societies.*
 
 > [!boundary]- 概念边界
-> - 不等于 传统研发与国家[[Systems of Innovation|创新系统]]政策 — 传统政策侧重于支持科技供给与修正市场失灵，缺乏对创新价值导向与社会优先级的明确规定。
-> - 不适用于 纯粹由商业市场驱动的渐进式产品优化或单一企业内部的研发管理流程。
+> - **不等于 传统研发与国家[[Systems of Innovation|创新系统]]政策** 传统政策侧重于支持科技供给与修正市场或网络失灵，缺乏对创新价值导向与社会优先级的明确规定。
+> - **不适用于 纯粹商业驱动的孤立渐进改进** 适用于应对跨行业、跨学科且需要公私协同攻关的系统性挑战，不适用于单一企业内部的常规商业产品迭代。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 新旧使命导向型项目特征辨析
-> | 维度 | 传统使命型项目（国防、核能与航天工程） | 新型使命型项目（环境技术与重大社会挑战） |
+> [!contrast-table] 新旧使命导向型项目特征深度辨析
+> | 比较维度 | 传统使命型项目（国防、核能与航天工程） | 新型使命型项目（环境技术与重大社会挑战） |
 > |---|---|---|
-> | **成果扩散** | 核心参与者之外的成果扩散重要性极低或被主动限制 | 成果向全社会的广泛扩散是核心目标并受到积极鼓励 |
-> | **目标界定** | 以技术指标的攻克数量界定，较少考虑经济可行性 | 以解决特定社会难题且具备经济可行性的技术方案界定 |
-> | **方向决定** | 技术发展的目标与方向由少数技术官僚和专家预先决定 | 技术变革方向受政府、私营企业、公民与消费者多元主体共同影响 |
-> | **控制机制** | 政府行政部门内部的高度集中化控制 | 涉及大量异质行动者的去中心化[[Network Governance\|网络治理]]与协同控制 |
-> | **参与主体** | 强调少数前沿激进技术，参与企业被限定为极少数军工寡头 | 兼顾激进创新与渐进创新，鼓励大量多元企业与跨行业机构参与 |
-> | **配套政策** | 独立自足的封闭工程项目，对配套政策与政策协调关注极少 | 互补性配套政策是成败关键，高度注重与广泛公共目标的系统协同 |
+> | **成果扩散机制** | 核心参与者圈子之外的成果扩散重要性极低，甚至受到严格保密限制 | 成果向全社会的广泛扩散是核心战略目标，受到政策的积极鼓励与制度保障 |
+> | **任务目标界定** | 以技术成就的数量与硬指标界定，较少考虑其市场与经济可行性 | 以能够切实解决特定社会难题且具备经济可行性的技术方案界定 |
+> | **发展方向主导** | 技术发展的目标与演进路径由政府内部极少数技术官僚与专家预先敲定 | 技术变革方向受政府、私营企业、消费者与公民社会多元主体共同协商塑造 |
+> | **治理控制模式** | 政府行政部门内部的高度集中化与层级化科层控制 | 涉及海量异质行动者的去中心化[[Network Governance\|网络治理]]与协同控制 |
+> | **产业参与主体** | 专注于少数激进前沿技术，参与企业被严格限制在极少数垄断军工寡头 | 兼顾激进创新与渐进创新，鼓励大量多元企业与跨行业机构广泛参与 |
+> | **配套政策协同** | 独立自足的封闭工程项目，对配套政策与宏观政策协调关注极少 | 互补性配套政策是成败关键，高度注重与广泛公共目标的系统协同与制度对接 |
 
-> [!contrast-table] [[Innovation Policy Paradigms|创新政策范式]]辨析
-> | 维度 | 使命导向创新政策（MIP） | 传统研发政策（Frame 1） | 国家[[Systems of Innovation\|创新系统]]政策（Frame 2） |
+> [!contrast-table] [[Innovation Policy Paradigms|创新政策三范式]]对照
+> | 比较维度 | 传统研发政策（Frame 1: 科学促增长） | 国家[[Systems of Innovation\|创新系统]]政策（Frame 2: 系统协同） | 使命导向创新政策（Frame 3: [[Transformative Change\|变革转型]]） |
 > |---|---|---|---|
-> | **核心目标** | 解决重大社会挑战与系统转型 | 促进科技产出与经济增长 | 提升产业竞争力与系统协同 |
-> | **干预逻辑** | 解决方向性、需求表达与[[Reflexivity\|反思性]]失灵 | 修正研发投入的市场失灵（外部性） | 修正创新主体间的结构与网络失灵 |
-> | **治理模式** | 跨部门多元共治、动态试验与收敛 | 自上而下的科研经费分配 | 产学研合作网络与中介平台搭建 |
-> | **技术定位** | 技术方案与社会制度、行为规范并重 | 专注于前沿科技与基础科学突破 | 专注于技术扩散与商业化应用 |
+> | **核心哲学** | 修正市场失灵（Market Fixing） | 修正系统与网络失灵（System Fixing） | [[Market Shaping and Creating\|主动市场塑造与共创（Market Shaping）]] |
+> | **干预目标** | 提高基础科研产出与经济增速 | 优化产学研合作与国家产业竞争力 | 应对重大社会挑战与实现可持续系统转型 |
+> | **方向选择** | 中立与横向支持（不干涉方向） | 促进现有产业集群协同（基于既有轨道） | 战略性设立转型方向，挑选意愿者（Picking the willing） |
+> | **治理工具** | 通用税收抵免、基础研究拨款 | 产学研合作平台、[[Technology Transfer\|技术转移]]中心、孵化器 | ROAR 框架、任务采购、动态组合管理、风险收益共享 |
+> | **技术定位** | 线性科技突破 | 技术扩散与[[Absorptive Capacity\|吸收能力]]提升 | 科技创新、制度重塑与公众行为变革系统共进 |
+
+> [!tension] 垂直产业干预逻辑的[[Paradigm|范式]]变革
+> - **挑选赢家（Picking winners，传统产业补贴）** 政府直接挑选特定优势企业或垂直行业给予补贴扶持；在信息不对称下极易被游说集团俘获滋生寻租腐败，且在技术快速迭代中面临巨大押注失败风险。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–806)]]
+> - **挑选意愿者（Picking the willing，使命导向模式）** 政府以重大社会挑战为靶向明确战略方向，在全经济范围内激励所有愿意投入该使命的跨行业、多元所有制组织协同攻关，倒逼传统产业技术转型。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–806)]]
 
 ---
 
-## 核心要素
+## 核心要素与治理架构
 
-> [!feature] 现代使命政策的五大遴选与实施标准
-> - **宏大愿景与社会相关性（Bold, inspirational with wide societal relevance）** 使命必须能够激发广泛公众共鸣，将重大社会挑战（如气候适应、无塑海洋、癌症攻关）转化为触及民众切身利益的战略行动。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 811)]]
-> - **明确的方向性与时限指标（A clear direction: targeted, measurable, and time-bound）** 具有清晰的阶段性目标与完成判据，设定明确的达成时间窗口，确保过程可监测、可评估与可问责。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 811)]]
-> - **雄心勃勃且具可行性的研发组合（Ambitious but realistic research and innovation actions）** 聚焦涵盖基础研究、应用研发与[[Research Translation|技术转化]]的全链条组合投资，兼顾前沿突破的高风险性与现实落地可行性。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 811)]]
-> - **跨学科、跨行业与跨主体协同（Cross-disciplinary, cross-sectoral, and cross-actor innovation）** 突破传统单一垂直行业壁垒，驱动自然科学、人文学科、传统产业与新兴数字技术的跨界协同。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 811–812)]]
-> - **多元自下而上的探索方案（Multiple, bottom-up solutions）** 不预设单一技术垄断路线，在统一的使命方向下鼓励多元主体提出差异化探索方案，形成动态试错与优胜劣汰的项目组合。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 812)]]
+> [!feature] 现代使命导向政策的五大遴选与推进标准
+> - **宏大愿景与广泛社会相关性** 使命必须能激发广泛社会共鸣，将重大社会挑战（如气候适应、无塑海洋、癌症攻坚）转化为触及民众切身利益的战略行动。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 811)]]
+> - **明确的方向性与时限指标** 设定清晰具体的量化指标或二元判定标准，并明确合理的达成时间窗口（如 5–10 年），确保过程可监测与动态问责。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 811)]]
+> - **雄心勃勃且具可行性的研发组合** 聚焦涵盖基础研究、应用研发与[[Research Translation|技术转化]]的全链条组合投资，兼顾前沿突破的高风险与现实落地可行性。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 811)]]
+> - **跨学科、跨行业与跨主体协同** 突破传统单一垂直行业壁垒，拉动自然科学、工程技术、社会科学、传统产业与新兴数字领域的跨界联动。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 811–812)]]
+> - **多元自下而上的探索方案** 不预设单一技术或[[Punctuated Equilibrium Theory|政策垄断]]路径，保持[[Open-Mindedness|开放性]]，通过自下而上的多样化探索方案形成竞争、互补与优胜劣汰的项目组合。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 812)]]
 
-> [!feature] 核心治理维度与系统构件
-> - **方向性引导（Directionality）** 明确公共资源投入的优先战略方向，打破技术演进的路径依赖与盲目扩张，引导创新活动朝向可持续发展与公共福祉。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
+> [!quad-grid] ROAR 政策[[Analytic Framework|分析框架]]四大支柱
+> - **战略路径与方向（Routes）** 公共政策主动确立社会转型方向，通过广泛的民主审议确保方向合法性，将宏大挑战转化为聚焦载体。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
+> - **探索型组织能力（Organizations）** 构建具备试错自主权、能够容忍早期失败并提供长期耐性资本（Patient Capital）的去中心化公共机构网络。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
+> - **公共价值动态评估（Assessment）** 超越静态成本收益分析（CBA）与挤出效应[[Hypothesis|假设]]，建立涵盖全价值链溢出与系统转型的公共价值动态监测体系。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
+> - **风险与收益共享（Risks & rewards）** 构建公私对等的收益共享机制（股权保留、特许权提成、价格上限），消除“风险社会化、收益私有化”的制度不公。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
+
+> [!dimension] 使命导向创新政策的四层金字塔治理架构
+> - **顶层：宏大社会挑战（Grand Challenges）**
+>   [[UN Sustainable Development Goals|联合国可持续发展目标]]（SDGs）、气候适应、人口老龄化与公共卫生危机等宏观社会难题。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 810)]]
+> - **中层：具体战略使命（Missions）**
+>   将宏大挑战转化为目标明确、指标可衡量且具备刚性时限的战略攻关任务（如“无塑海洋使命”）。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 810)]]
+> - **支柱：跨行业协同投资（Sectors）**
+>   调动能源、交通、建筑、数字技术、材料制造等全经济范围内的跨部门联动投资。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 810)]]
+> - **基层：自下而上项目组合（R&I Projects）**
+>   由企业、科研院所与公民社会自下而上提交并实施的多元化探索与试错项目组合。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 810)]]
+
+> [!feature] 应对[[Transformative System Failures|变革性系统失灵]]的四大治理构件
+> - **方向性引导（Directionality）** 明确公共资源投入的优先战略方向，打破技术演进的路径依赖，引导创新活动朝向可持续发展与公共福祉。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
 > - **需求表达机制（Demand Articulation）** 建立吸纳用户、公民与利益相关方参与的制度渠道，将模糊的社会需求转化为明确的创新采购、规制标准与应用场景。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
 > - **[[Reflexivity|反思性]]治理（Reflexivity）** 建立动态监测、政策试验与适应性调整机制，及时纠正技术锁定与政策偏倚，应对转型过程中的[[Scientific Uncertainty|认知不确定性]]。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
 > - **跨部门跨层级协调（Policy Coordination）** 打破各级政府与部门壁垒，统筹科技、环境、产业、卫生与空间规划等多维政策工具。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–476)]]
@@ -115,7 +148,7 @@ updated: 2026-10-03
 
 ---
 
-### 命题一　当代使命导向创新政策必须应对问题与解决方案双重维度的棘手性而非预设技术确定性
+### 命题一　当代使命政策必须应对问题与解决方案双重维度的棘手性而非预设技术确定性
 
 > [!concept-lens] 转型棘手性与去技术盲信
 > 传统使命导向政策（如阿波罗登月工程）预设了问题目标的一致性与技术路径的明确性，而当代社会挑战在[[Problem Finding|问题界定]]与解决方案两端均充斥着广泛的价值争议、系统复杂性与[[Scientific Uncertainty|认知不确定性]]。
@@ -145,6 +178,16 @@ updated: 2026-10-03
 
 ---
 
+### 命题四　公共部门承担早期高风险时必须通过制度设计实现风险与回报的对称共享
+
+> [!concept-lens] 制度对称性与公共价值循环
+> 当公共资金在早期创新中承担了公共风险投资（VC）的功能时，必须构建公私对等的分配机制以避免“风险社会化、收益私有化”。
+
+> [!claim] Mazzucato, M.
+> **风险收益对称共享命题** 公共机构通过大额早期投资为颠覆性创新承担了极端不确定性与失败损失，因此完全有理由享有与所承担风险相称的回报。政府应在政策工具箱中引入股权保留（或黄金股）、专利特许权使用费提成、收入挂钩型贷款及公共资助产品最高限价机制，将商业突破的经济红利反哺公共创新基金，维护纳税人权益并促进包容性增长。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 命题归纳
@@ -153,17 +196,18 @@ updated: 2026-10-03
 > | **双重棘手性命题** | 批判技术[[Determinism\|决定论]]，主张同时解构问题与方案两端的争议性、复杂性与不确定性 | 面向气候、能源、公共健康等复杂社会转型的顶层设计 | [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]]; Weber & Rohracher (2012) |
 > | **路径收敛命题** | 揭示使命合法化与技术方案落地的三类动态过程演化机制 | 政策工具组合选择、试验示范区建设与社会各方博弈协调 | [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]]; [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
 > | **挑选意愿者机制** | 确立以社会挑战为中心的跨行业协同，化解传统产业补贴的寻租与低效 | 绿色低碳转型、重大公共卫生攻坚与现代工业战略重构 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
+> | **风险收益对称共享** | 建立股权保留、特许权提成与限价机制，扭转公私利益失衡 | 医药研发公私合作、清洁能源担保贷款与开发性金融支持 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1960s–1980s — 经典使命型研发时期** 以美国阿波罗计划与国防科技工程为代表，目标单一且由国家主导，注重尖端工程技术突破。
+> - **1960s–1980s — 经典使命型研发时期** 以美国阿波罗计划与曼哈顿工程为代表，目标单一且由国家自上而下封闭主导，注重尖端工程技术突破。
 > - **1993 — 新旧使命对比理论化** 索特与阿伦德尔（Soete & Arundel, 1993）首次系统对比了传统国防航天使命与以环境社会挑战为中心的新型使命政策。
 > - **2012 — [[Transformative System Failures|变革性系统失灵]]框架提出** Weber & Rohracher（2012）提出涵盖方向性、需求表达、[[Reflexivity|反思性]]与跨层级协调的四类系统失灵，为新一代使命政策奠定理论基石。
-> - **2018 — 欧盟地平线欧洲战略确立与 ROAR 框架** [[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）提出[[Market Shaping and Creating|市场塑造]]与 ROAR [[Analytic Framework|分析框架]]，推动使命导向框架进入欧盟科研创新顶层设计，设立癌症攻克、气候适应等五大战略使命。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
-> - **2020 — 过程导向与问题–解决方案空间建构** [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]]系统解构社会挑战的双重棘手性，提出过程导向的收敛路径框架。
+> - **2018 — 欧盟地平线欧洲战略确立与 ROAR 框架** [[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）提出[[Market Shaping and Creating|市场塑造]]、挑选意愿者机制与 ROAR [[Analytic Framework|分析框架]]，推动使命导向框架进入欧盟科研创新顶层设计，设立癌症攻克、气候适应等五大战略使命。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
+> - **2020 — 过程导向与问题–解决方案空间建构** [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]]系统解构社会挑战的双重棘手性，提出基于问题–解决方案空间的过程导向收敛路径框架。
 
 ---
 
@@ -172,13 +216,15 @@ updated: 2026-10-03
 > [!debates] 学术争议
 >
 > > [!axis] 自上而下国家意志与自下而上民主参与的张力
-> > 批评者质疑国家是否有能力挑选特定技术方向，担心过度集权导致技术锁定与利益集团俘获；支持者则强调重大危机需要强大的国家方向性引领。
+> > 批评者质疑政府是否有能力准确把握技术变革方向，担忧过度干预会导致行政寻租、政治俘获与资本浪费；支持者则强调重大社会危机需要强有力的国家前瞻引领与早期风险承担。
 > >
-> > - **Mazzucato (2018)** 强调进取型国家应发挥战略引领作用，勇于承担早期高风险投资，通过“挑选意愿者”和风险收益共享重塑公共价值。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–810)]]
+> > - **Buchanan (2003)** 批评传统行业性垂直干预极易被特定企业游说集团俘获，造成公共资源浪费。
+> > - **[[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]** 强调进取型国家应发挥战略引领作用，通过以社会挑战为靶向“挑选意愿者”和风险收益共享重塑公共价值。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–810)]]
 > > - **[[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]]** 强调当代社会使命不能沦为官僚精英的技术狂欢，必须融入广泛的公众审议与自下而上的需求表达。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 485–486)]]
 
-> [!warning] 适用局限
-> 当面临高度价值割裂的政治极化情境时，使命的合法性构建极其脆弱，单纯依赖科技创新往往难以化解根本性的利益与意识形态冲突。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 486)]]
+> [!warning] 适用局限与能力边界
+> - **政治极化下的合法性脆弱** 当面临高度价值割裂的政治极化情境时，使命的合法性构建极其脆弱，单纯依赖科技创新往往难以化解根本性的意识形态冲突。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 486)]]
+> - **公共组织动态能力短缺** 使命导向政策对公共机构的专业素养、探索试错容忍度及公私谈判筹码提出了极高要求；若缺乏探索型公共组织建设，使命口号易流于形式或沦为传统补贴的包装。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–809)]]
 
 ---
 
@@ -187,3 +233,5 @@ updated: 2026-10-03
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 奠基性理论[[Document|文献]]，系统论证使命导向创新政策从市场修补转向[[Market Shaping and Creating|市场塑造]]与共创，提出 ROAR 治理框架与五大遴选标准。
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 提出基于问题–解决方案空间的使命导向创新政策[[Analytic Framework|分析框架]]，系统阐述其内涵、棘手维度与收敛路径。
+> - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 论述[[Innovation Policy Paradigms|创新政策三范式]]演进脉络，分析[[Transformative Change|变革转型范式]]下大学作为中立召集者与方向性情报贡献者的新型角色定位。
+

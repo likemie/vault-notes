@@ -53,7 +53,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> 棘手问题（Wicked Problem）最初由 Horst W. J. Rittel 与 Melvin M. Webber 于 1973 年提出，指一类缺乏明确定义、没有标准求解算法、且无法通过线性规划或传统理性模型彻底解决的复杂社会政策难题。与有明确边界和既定解法的驯服问题（Tame Problem）不同，棘手问题深嵌于高度互动的社会–技术与制度网络之中，具有高度的价值争议性（Contestation）、结构复杂性（Complexity）和[[Scientific Uncertainty|认知不确定性]]（Uncertainty），对其所作的任何干预都会引发不可逆的系统性连锁反应。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–476)]]
+> 棘手问题（Wicked Problem）最初由霍斯特·里特尔（Horst W. J. Rittel）与梅尔文·韦伯（Melvin M. Webber）于 1973 年提出，指一类缺乏明确定义、没有标准求解算法、且无法通过线性规划或传统理性模型彻底解决的复杂社会政策难题。与有明确边界和既定解法的驯服问题（Tame Problem）不同，棘手问题深嵌于高度互动的社会–技术与制度网络之中，具有高度的价值争议性（Contestation）、结构复杂性（Complexity）和[[Scientific Uncertainty|认知不确定性]]（Uncertainty），对其所作的任何干预都会引发不可逆的系统性连锁反应。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–476)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向社会政策中因价值多元、系统交织与因果链条模糊而无法达成终极客观正确解的公共治理挑战。
@@ -81,6 +81,7 @@ updated: 2026-10-03
 > | **价值冲突** | 充斥规范性争议与伦理道德权衡 | 价值目标相对中立或达成广泛共识 |
 > | **求解标准** | 无终极停止规则，只有较好或较坏的妥协状态 | 具有客观的对错或完成判据 |
 > | **治理逻辑** | 审议共识、小步试验、[[Reflexivity\|反思性]]调整 | 线性工程管理、专家规划、技术优化 |
+> | **典型场景** | 气候中和、老龄化社会照护、海洋微塑料治理 | 阿波罗登月、粒子对撞机建设、半导体微缩制程 |
 
 ---
 
@@ -127,6 +128,16 @@ updated: 2026-10-03
 
 ---
 
+### 命题四　社会–技术系统的棘手性要求政策从纯技术攻关转向制度协同与行为重塑
+
+> [!concept-lens] 技术工程与社会系统解题逻辑的分野
+> 理查德·纳尔逊（Richard R. Nelson, 1977）在《月球与贫民窟》（*The Moon and the Ghetto*）中深刻指出，人类能成功登月却无法解决贫民窟问题，根源在于登月属于高度专业化但社会关联单纯的技术工程（驯服问题），而城市贫困与社会不平等则深嵌于社会制度、阶层利益与人类复杂行为之中（棘手问题）。
+
+> [!claim] Nelson & Mazzucato
+> **社会–技术系统协同命题** 21世纪的使命导向政策所面对的社会挑战本质上是复杂的社会–技术系统转型，不仅需要硬科技研发投入，更依赖监管法规修订、财税激励调整、公共采购引导以及公民生活方式与行为模式的系统性协同。单纯依靠技术工程手段无法彻底解决深嵌于社会结构中的棘手难题。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–805)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 命题归纳
@@ -135,15 +146,17 @@ updated: 2026-10-03
 > | **双重解构命题** | 主张将棘手性拆解为问题端与方案端的三维矩阵 | 复杂社会系统治理与创新政策评估 | [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]]; Turnpenny et al. (2009) |
 > | **阶段性驯服命题** | 阐明通过[[Revoicing\|话语重构]]、边界跨越与小步试验实现治理共识 | 争议性公共政策议程设置与制度变迁 | [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]]; Termeer & Dewulf (2018) |
 > | **使命拆解机制** | 论证通过可量化的使命组合将宏大棘手挑战转化为跨部门协同行动 | 全球性可持续发展目标（SDGs）与国家重大转型政策 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
+> | **社会–技术系统协同命题** | 阐明棘手挑战的解决需要技术突破与制度、监管及行为重塑协同发力 | 能源系统脱碳、可持续城市、数字公共治理转型 | Nelson (1977); [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1973 — 规划理论奠基** Rittel & Webber（1973）在城市规划与公共政策领域首次系统界定棘手问题的特征，确立其反理性规划的理论地位。
-> - **2000 — [[Network Governance|网络治理]]与协作视角** Roberts（2000）探讨应对棘手问题的权威型、竞争型与协作型三种治理网络模式。
-> - **2009 — 三维[[Analytic Framework|分析框架]]深化** Turnpenny et al.（2009）将棘手性提炼为争议性、系统复杂性与[[Scientific Uncertainty|认知不确定性]]三个核心维度。
+> - **1973 — 规划理论奠基** 里特尔与韦伯（Rittel & Webber, 1973）在城市规划与公共政策领域首次系统界定棘手问题的特征，确立其反理性规划的理论地位。
+> - **1977 — 技术与社会治理反差** 纳尔逊（Nelson, 1977）出版《月球与贫民窟》，揭示阿波罗登月技术工程与社会系统棘手挑战之间的根本性治理鸿沟。
+> - **2000 — [[Network Governance|网络治理]]与协作视角** 罗伯茨（Nancy Roberts, 2000）探讨应对棘手问题的权威型、竞争型与协作型三种治理网络模式。
+> - **2009 — 三维[[Analytic Framework|分析框架]]深化** 特恩彭尼等（Turnpenny et al., 2009）将棘手性提炼为争议性、系统复杂性与[[Scientific Uncertainty|认知不确定性]]三个核心维度。
 > - **2018 — [[Mission-Oriented Innovation Policy|使命导向创新政策]]与社会挑战转化** [[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）系统论证如何将21世纪重大社会棘手难题转化为使命导向创新政策的组合管理项目。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
 > - **2020 — 创新政策与问题–解决方案空间拓展** [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]]将棘手性理论引入[[Mission-Oriented Innovation Policy|使命导向创新政策]]，开创了问题端与方案端对称分析的二维空间理论。
 
@@ -166,3 +179,4 @@ updated: 2026-10-03
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 阐述如何将复杂的全球重大社会挑战与棘手问题通过[[Mission-Oriented Innovation Policy|使命导向创新政策]]转化为可执行的跨部门项目组合。
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 将棘手问题的争议性、复杂性与不确定性维度[[Operationalization|操作化]]为解构[[Mission-Oriented Innovation Policy|使命导向创新政策]]的分析透镜。
+

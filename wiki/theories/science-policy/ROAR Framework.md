@@ -6,7 +6,7 @@ aliases:
 summary: "由玛丽安娜·马祖卡托提出的使命导向创新政策分析框架，涵盖战略路径与方向（Routes）、探索型组织能力（Organizations）、公共价值动态评估（Assessment）以及风险收益对称共享（Risks and Rewards）四大核心维度"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -37,6 +37,7 @@ related_facts:
   - "[[DARPA]]"
   - "[[National Institutes of Health]]"
   - "[[Department of Energy]]"
+  - "[[UN Sustainable Development Goals]]"
 related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
 confidence: high
@@ -67,7 +68,7 @@ updated: 2026-10-03
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）在 2016 年及 2018 年发表于《工业与企业变迁》（*Industrial and Corporate Change*）的论文中首次系统提炼并阐发了 ROAR [[Analytic Framework|分析框架]]。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
 > - **原初问题** 传统科技创新政策长期局限于“拉平竞争赛道”（Level the playing [[Champ|field]]）与事后修补市场摩擦，缺乏对创新“方向”（Directionality）的主动界定工具，导致公共部门在面对复杂的[[Wicked Problem|复杂社会难题]]时束手无策，且面临公私收益严重不对称的制度困境。
-> - **理论资源与材料** 吸收了[[DARPA|美国国防高级研究计划局]]（DARPA）、[[National Institutes of Health|美国国立卫生研究院]]（NIH）、德国能源转型计划（Energiewende）以及巴西国家经济社会发展银行（BNDES）等机构的长期历史实践与实证案例。
+> - **理论资源与材料** 吸收了[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA，见 [[DARPA]]）、[[National Institutes of Health|美国国立卫生研究院]]（National Institutes of Health, NIH，见 [[National Institutes of Health]]）、德国能源转型计划（Energiewende）、德国复兴信贷银行（Kreditanstalt für Wiederaufbau, KfW）以及巴西国家经济社会发展银行（Banco Nacional de Desenvolvimento Econômico e Social, BNDES）等机构的长期历史实践与实证案例。
 > - **形成路径** 从经典科技工程（如阿波罗登月计划）向现代社会转型使命的[[Paradigm|范式]]转变中，提炼出方向设定、组织学习、动态评估与利益分享四大关键治理挑战，整合凝练为首字母缩写词“ROAR”。
 
 ---
@@ -79,8 +80,8 @@ updated: 2026-10-03
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
 > | **路径与方向（Routes & Directions）** | 战略机制 | 确立国家长期转型方向，将宏大社会挑战拆解为具体使命，并保持自下而上探索的民主合法性。 |
-> | **组织能力（Organizations）** | 治理实体 | 构筑具备学习能力、包容试错并能引领公私协同的去中心化探索型公共机构网络。 |
-> | **动态评估（Assessment）** | 评价方法 | 超越静态成本收益分析（CBA），建立针对全产业链[[Market Shaping and Creating\|市场塑造]]与公共价值创造的动态监测体系。 |
+> | **组织能力（Organizations）** | 治理实体 | 构筑具备内部动态能力、包容试错并能引领公私协同的去中心化探索型公共机构网络。 |
+> | **动态评估（Assessment）** | 评价方法 | 超越静态成本收益分析（Cost-Benefit Analysis, CBA），建立针对全产业链[[Market Shaping and Creating\|市场塑造]]与公共价值创造的动态监测体系。 |
 > | **风险与收益共享（Risks & Rewards）** | 制度设计 | 纠正“风险社会化、收益私有化”失衡，通过多样化回报机制确保公共投资反哺社会福祉。 |
 
 ---
@@ -93,19 +94,19 @@ updated: 2026-10-03
 > **应用实例** 德国能源转型（Energiewende）政策并未单纯补贴新能源企业，而是设定了去核化、提升能效与发展可再生能源的宏大方向，从而倒逼传统钢铁行业探索材料回收与循环利用技术，实现了传统制造产业的绿色转型。
 
 > [!theory-proposition] 命题二｜公共组织必须构建探索型网络与组合式管理以接纳必然的创新试错
-> **解释** 激进式创新探索具有极高的内生不确定性，失败是创新全过程中不可避免的常态。公共机构必须摆脱对“零失误”的官僚恐惧，借鉴风险投资的“组合管理”（Portfolio approach）策略，以少数高回报突破弥补多数试验性挫折，并在实践中培养[[Reflexivity|反思性]]组织学习能力。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
+> **解释** 激进式创新探索具有极高的内生不确定性，失败是创新全过程中不可避免的常态。公共机构必须培养内部“动态能力”（Dynamic Capabilities），摆脱对“零失误”的官僚恐惧与核心智识外包依赖，借鉴风险投资的“组合管理”（Portfolio approach）策略，以少数高回报突破弥补多数试验性挫折，并在实践中培养[[Reflexivity|反思性]]组织学习能力。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 >
-> **应用实例** [[Department of Energy|美国能源部]]在清洁能源贷款担保计划中同时资助了特斯拉（Tesla）与索林德拉（Solyndra）。尽管后者破产引发批评，但特斯拉的巨大成功证明了组合投资与探索型风险承担对培育新兴产业的必要性。
+> **应用实例** [[Department of Energy|美国能源部]]（Department of Energy, DOE，见 [[Department of Energy]]）在清洁能源贷款担保计划中同时资助了特斯拉（Tesla）与索林德拉（Solyndra）。尽管后者破产引发批评，但特斯拉的巨大成功证明了组合投资与探索型风险承担对培育新兴产业的必要性。
 
 > [!theory-proposition] 命题三｜评估体系必须从静态成本收益核算转向全流程动态公共价值测量
 > **解释** 新古典市场失灵框架下的静态成本收益分析（Cost-Benefit Analysis, CBA）倾向于规避不确定性且无法捕捉长期的技术与制度外溢效应。使命导向政策必须引入“公共价值”（Public Value）概念，建立涵盖全产业链系统转型、动态网络构建与跨领域溢出效应的连续评估工具。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–807)]]
 >
-> **应用实例** 评估公共广播机构（如英国 BBC）或公共科研资助机构时，不能仅看其是否挤出商业公司，而应动态衡量其是否通过设立高标准内容和技术前沿引领了整个数字媒介与创意产业生态的升级。
+> **应用实例** 评估公共广播机构（如英国广播公司 BBC）或公共科研资助机构时，不能仅看其是否挤出商业公司，而应动态衡量其是否通过设立高标准内容和技术前沿引领了整个数字媒介与创意产业生态的升级。
 
 > [!theory-proposition] 命题四｜公私合作协议必须实现风险承担与收益分配的结构性对称
 > **解释** 当公共资本在早期基础研发与高风险中试阶段投入了巨额资源时，若放任最终商业化暴利完全归于私人资本，将破坏公共财政的可持续性与社会分配正义。公共部门应采用保留知识产权黄金股、收益特许权分成、与收入挂钩的贷款偿还或终端公共品价格管制等机制，实现公私利益真正共享。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
 >
-> **应用实例** 在公共资助研发的重磅生物医药产品中，政府可通过设定医保采购价格上限或获取特许权使用费，防止受纳税人资金资助开发的新药反过来对公众收取难以承受的高昂垄断价格。
+> **应用实例** 在公共资助研发的重磅生物医药产品中，政府可通过设定医保采购价格上限或获取特许权使用费，防止受纳税人资金资助开发的新药反过来对公众收取难以承受的高昂垄断价格；巴西国家经济社会发展银行（BNDES）通过科技基金（FUNTEC）向企业注入资金并明确要求商业化成功后返还特许权使用费以反哺后续科研。
 
 ---
 
@@ -122,7 +123,7 @@ updated: 2026-10-03
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---------|:---------------|:-----------------|:-----------------|
 > | **路径与方向（R）**<br>[[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 政策是否设定了清晰、具挑战性且可衡量的长期转型目标？是否激发了跨部门协同？ | 战略白皮书、使命清单、多利益相关方审议机制记录。 | 仅设定宽泛愿景而无明确时间与指标限定者不属于有效方向；仅限于单一垂直行业者属于传统产业政策。 |
-> | **组织能力（O）**<br>[[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 公共机构是否具备探索型自主权与组合管理能力？是否允许试错与动态调整？ | 机构人事编制与薪酬灵活性、项目组合终止与追加投资机制。 | 严苛惩罚失败、缺乏跨部门协同平台的层级官僚机构无法支撑使命实施。 |
+> | **组织能力（O）**<br>[[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 公共机构是否具备探索型自主权与组合管理能力？是否允许试错与动态调整？ | 机构人事编制与薪酬灵活性、项目组合终止与追加投资机制、内部技术判断能力。 | 严苛惩罚失败、将核心战略分析外包给商业咨询公司的层级官僚机构无法支撑使命实施。 |
 > | **动态评估（A）**<br>[[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 评价标准是否超越了静态成本收益分析与简单的“去风险”指标？ | 动态监测指标体系、溢出效应追踪机制、全产业链转型评估报告。 | 单纯依赖短期财务回报率或项目合规审计无法反映系统性公共价值创造。 |
 > | **风险与收益（R）**<br>[[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 公私合作中是否存在对等的风险承担与收益分配机制？ | 资助合同知识产权条款、股权/特许权分成协议、终端产品定价规则。 | 若公共资金承担全部损失而无任何收益分享或价格约束，表明存在严重分配失衡。 |
 
@@ -132,7 +133,7 @@ updated: 2026-10-03
 > - **D1｜战略路径与方向（Routes & Directions）**
 >   确立国家长期战略转型方向，将宏大社会难题转化为可操作的使命组合。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–806, 809–810)]]
 >   - **D1.1｜挑战使命化与精准界定（Challenge Translation & Granularity）**
->     - **含义** 将广泛的社会挑战（如 SDG 14）聚焦为具体的使命目标（如无塑海洋）。
+>     - **含义** 将广泛的社会挑战（如[[UN Sustainable Development Goals|联合国可持续发展目标]] SDG 14）聚焦为具体的使命目标（如无塑海洋）。
 >     - **观察线索** 政策文本中的量化完成指标、二元达标判定、时限窗口（5–10 年）。
 >     - **判读规则** 包含明确时限与量化底线视为合格；仅有抽象愿景者判定为未达标。
 >     - **归属与出处** 原理论，[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 811)]]。
@@ -144,7 +145,7 @@ updated: 2026-10-03
 > - **D2｜探索型组织能力（Organizations）**
 >   构建具备战略自主权、学习素养与组合管理能力的公共机构网络。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–810)]]
 >   - **D2.1｜去中心化探索网络（Decentralized Explorative Networks）**
->     - **含义** 类似于 [[DARPA]] 或 ARPA-E 的专业化、扁平化与高弹性公共攻关机构。
+>     - **含义** 类似于 [[DARPA]] 或高级能源研究计划署（Advanced Research Projects Agency-Energy, ARPA-E）的专业化、扁平化与高弹性公共攻关机构。
 >     - **观察线索** 项目经理自主立项权、快速终止与追加经费权、跨部门协调平台。
 >     - **判读规则** 存在去官僚化敏捷决策机制视为符合探索型组织特征。
 >     - **归属与出处** 原理论，[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]。
@@ -168,13 +169,13 @@ updated: 2026-10-03
 > - **D4｜风险与收益共享（Risks & Rewards）**
 >   设计公私对等的收益回收机制，确保公共投资可持续与社会正义。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
 >   - **D4.1｜财务回报回流工具（Financial Return Mechanisms）**
->     - **含义** 通过股权、特许权使用费或收入挂钩贷款分享商业化超额利润。
->     - **观察线索** 资助协议中的知识产权分成条款、股权认购协议。
+>     - **含义** 通过股权、认股权证、特许权使用费或收入挂钩贷款分享商业化超额利润。
+>     - **观察线索** 资助协议中的知识产权分成条款、认股权证协议、特许权使用费返还条款。
 >     - **判读规则** 存在公共收益回流通道视为符合风险收益对称原则。
 >     - **归属与出处** 原理论，[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 809)]]。
 >   - **D4.2｜公共品准入与价格约束（Public Access & Price Conditions）**
->     - **含义** 对公共全额或重度资助的民生核心成果（如药物）实行价格上限。
->     - **观察线索** 政府采购协议最高零售限价条款、可负担性保障要求。
+>     - **含义** 对公共全额或重度资助的民生核心成果（如药物）实行价格上限与再投资约束。
+>     - **观察线索** 政府采购协议最高零售限价条款、可负担性保障要求、附带条件再投资规定。
 >     - **判读规则** 有效防止纳税人“双重付费”视为实现公共价值共享。
 >     - **归属与出处** 原理论，[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 809)]]。
 
@@ -206,3 +207,4 @@ updated: 2026-10-03
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 论文提出并系统阐释了 ROAR [[Analytic Framework|分析框架]]，作为新一代[[Mission-Oriented Innovation Policy|使命导向创新政策]]的核心理论基石。
+
