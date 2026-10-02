@@ -8,7 +8,7 @@ aliases:
 summary: "产学联盟四种组织模式中介于企业联盟计划和创新中心之间的形态，大学先选定研究方向后产业基于对齐度加入，由政府与产业双重资助，产业成员获得前景知识产权的优先谈判权"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Foreground IP]]"
   - "[[University-Industry Collaboration]]"
   - "[[Research Translation]]"
+  - "[[Grandes Ecoles]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -80,7 +81,7 @@ updated: 2026-10-02
 
 > [!example]
 > - vs 企业联盟计划（CAP）— CAP 的研究议程由产业委员会和大学从零开始共同制定；大学研究型中心则由大学先选定方向。CAP 主要靠会员费，大学研究型中心叠加政府资金。两者在 IP 安排上的区别：CAP 中成员通常获得非排他免版税许可（与所有成员平等共享），大学研究型中心更常使用[[Pre-negotiated IP Rights\|优先谈判权]]（投资最多的成员排在最前面）（pp.110–112）
-> - vs [[Innovation Hub\|创新中心]] — 创新中心是基于地点的跨部门联合体，连接研究-生产-就业全链条，参与方包括房地产开发商和地方政府；大学研究型中心主要以大学校园为基地，不承担区域经济发展和基建的协调功能。创新中心的法律治理比大学研究型中心复杂得多——启动前需要在核心参与者之间敲定法律和财务框架（pp.112–113）
+> - vs [[Innovation Hub\|创新中心]] — 创新中心是基于地点的跨部门联合体，连接研究-生产-就业全链条，参与方包括房地产开发商和地方政府；大学研究型中心主要以[[Grandes Ecoles|大学校]]园为基地，不承担区域经济发展和基建的协调功能。创新中心的法律治理比大学研究型中心复杂得多——启动前需要在核心参与者之间敲定法律和财务框架（pp.112–113）
 > - vs 单 PI 实验室 — 单个教授实验室的赞助研究是[[University-Industry Collaboration\|产学合作]]的起点（一次一项目）；大学研究型中心为多个教授、多个项目提供制度框架，将分散的赞助研究整合到共同方向下。前者以个人研究兴趣驱动，后者以制度的长期研究议程驱动（pp.103, 111–112）
 
 ---

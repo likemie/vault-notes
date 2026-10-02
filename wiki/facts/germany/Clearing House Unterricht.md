@@ -10,7 +10,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 44
+fact_related_count: 45
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -64,6 +64,7 @@ related_facts:
   - "[[Federal Ministry of Education and Research]]"
   - "[[Qualitätsoffensive Lehrerbildung]]"
   - "[[Zentrum für internationale Bildungsvergleichsstudien]]"
+  - "[[Fraunhofer Society Model]]"
   - "[[Leibniz Institute for Educational Research and Educational Information]]"
   - "[[OECD]]"
   - "[[PISA]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-27
+updated: 2026-10-02
 ---
 
 # Clearing House Unterricht
@@ -114,7 +115,7 @@ updated: 2026-09-27
 > [!actor-grid] 组织治理架构
 > - **学术与项目主持** 由慕尼黑工业大学教育心理学讲席教授[[Tina Seidel\|蒂娜·赛德尔]]（Tina Seidel）与研究主管马克西米利安·克诺格勒（Maximilian Knogler）领衔，统筹学术标准研制与证据中介生态建设。
 > - **跨学科专职研发团队** 汇聚来自教育心理学、一般教学论（Allgemeine [[Didaktik]]）、学科教学论（Fachdidaktik）与媒体教育学领域的跨学科研究人员，承担高阶实证[[Document\|文献]]综合与数字交互资源开发。
-> - **外部资助与协同网络** 早期依托 [[Federal Ministry of Education and Research\|BMBF]] 与 [[Qualitätsoffensive Lehrerbildung\|QLB]] 国家公法资助，当前依托威廉·施特默基金会长效公益资助，横向联结全德各州师资进修学院、弗劳恩霍夫学会相关项目以及国际比较中心（[[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]]）。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 14, 16)]]
+> - **外部资助与协同网络** 早期依托 [[Federal Ministry of Education and Research\|BMBF]] 与 [[Qualitätsoffensive Lehrerbildung\|QLB]] 国家公法资助，当前依托威廉·施特默基金会长效公益资助，横向联结全德各州师资进修学院、[[Fraunhofer Society Model|弗劳恩霍夫学会]]相关项目以及国际比较中心（[[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]]）。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 14, 16)]]
 
 > [!pathways]- 业务运行机制
 > - **选题聚焦与高阶证据基底遴选** 重点聚焦[[Effective Teaching\|有效教学]]（effektiver Unterricht）与 MINT 学科教学，严格限定文献池为同行评议的当代实证研究，以[[Randomised Controlled Trials\|随机对照试验]]（RCT）为高因果证据基石，优先收录大样本、可复制的高质量[[Meta-analysis\|元分析]]。

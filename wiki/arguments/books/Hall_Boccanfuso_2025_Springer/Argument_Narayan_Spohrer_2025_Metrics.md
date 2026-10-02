@@ -20,6 +20,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Normal School]]"
   - "[[Data Infrastructure]]"
+  - "[[Grandes Ecoles]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Industry Affiliate Program]]"
   - "[[University-Industry Co-location]]"
@@ -58,7 +59,7 @@ title: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_key: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_display_title: "Metrics, Incentives, Rewards, and Culture for Impact"
 argument_kind: "book"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -168,7 +169,7 @@ citation_aliases:
 
 11. 六 R 框架的运作依赖于一个[[Data Infrastructure|数据基础设施]]：IBM 的中央数据库追踪了全球约 2000 所高校的投资历史和成果，覆盖 30 余万员工、每年约 3 万新聘和实习人员的信息(p.89)。每位伙伴关系执行主管（Partnership Executive Program, PEP）在访问一所大学之前，可以调取一份关系全景报告：该校有多少教师接受过 IBM 研究资助、专业领域分布如何；历年从该校招聘的员工数量和学位分布、现任高管中的校友有多少；该校是否是 IBM 软件或超算的客户。所有这些信息汇总为一份大学作为"复杂企业"的剖面图。
 
-12. 这一步的论证力量在于，它将"信任"从抽象的修辞转化为可追踪、可积累、可通过数据透明的管理实践。信任建立在双方共享的合作历史数据之上。当 PEP 主管带着对该校关系的全景理解走进大学校长办公室时，校长能感受到对方真的了解自己、重视这段关系，这种感受本身就是信任的具体载体。
+12. 这一步的论证力量在于，它将"信任"从抽象的修辞转化为可追踪、可积累、可通过数据透明的管理实践。信任建立在双方共享的合作历史数据之上。当 PEP 主管带着对该校关系的全景理解走进[[Grandes Ecoles|大学校]]长办公室时，校长能感受到对方真的了解自己、重视这段关系，这种感受本身就是信任的具体载体。
 
 ---
 

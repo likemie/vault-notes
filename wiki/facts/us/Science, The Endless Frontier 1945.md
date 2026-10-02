@@ -12,9 +12,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - region/us
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Linear Model of Innovation]]"
   - "[[Paradigm]]"
   - "[[Blue Skies Research]]"
+  - "[[Research Universities]]"
   - "[[Epistemology]]"
   - "[[Innovation Ecosystem]]"
   - "[[Science and Technology Studies]]"
@@ -100,7 +101,7 @@ updated: 2026-10-02
 >   除国防技术之外，联邦公共资金资助科学的首要重点必须是纯基础研究，以此作为知识蓄水池和催生技术进步与工业创新的根本引擎。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]
 > - **立项评审严格遵从科学家共同体内部规范**
 >   科研立项与经费分配必须严格依照学术共同体的内部准则，由独立科学家同行进行公正评议，坚决排斥非专业官僚的行政指挥。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]
-> - **确立研究型大学在国家[[Systems of Innovation|创新系统]]中的核心战略地位**
+> - **确立[[Research Universities|研究型大学]]在国家[[Systems of Innovation|创新系统]]中的核心战略地位**
 >   由于基础研究以大学为主要阵地，且高层次研究生与青年学者的培育唯一依托于大学实验室，资助基础研究必然要求将研究型大学置于国家科学技术体系的战略核心。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–36)]]
 
 ---
@@ -108,7 +109,7 @@ updated: 2026-10-02
 ## 行动者阵营与社会力量博弈
 
 > [!actor-grid] 战后科技政策治理话语博弈
-> - **布什学派精英科学家阵营** [[Vannevar Bush|万尼瓦尔·布什]]与顶尖研究型大学领导层 — 主张科学家同行自主自治，强调资助完全不受政治和经济即时应用目的干扰的“纯基础科学”，政府只需“出资而不干预”。
+> - **布什学派精英科学家阵营** [[Vannevar Bush|万尼瓦尔·布什]]与顶尖[[Research Universities|研究型大学]]领导层 — 主张科学家同行自主自治，强调资助完全不受政治和经济即时应用目的干扰的“纯基础科学”，政府只需“出资而不干预”。
 > - **新政民主派与参议员基尔戈阵营** 参议员哈维·基尔戈（Harley Kilgore）与杜鲁门政府预算局 — 主张国家资助的科研成果必须归属全体纳税人所有，强调研发应直接服务于社会重大现实难题与地理平等分配，主张由总统任命官员实施严格行政监管。
 > - **产业界与市场原教旨主义力量** 工业联合会与专利法倡导者 — 极力主张联邦财政只能止步于无排他性的基础理论，坚决抵制政府直接资助应用技术与产业开发，防范政府干预私人资本市场。
 

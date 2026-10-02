@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -29,6 +29,7 @@ related_methods: []
 related_persons:
   - "[[Vannevar Bush]]"
 related_facts:
+  - "[[National Academy of Sciences]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
 related_arguments: []

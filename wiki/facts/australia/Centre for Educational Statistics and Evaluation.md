@@ -10,7 +10,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -22,6 +22,7 @@ tags:
   - theme/governance
   - region/australia
 related_concepts:
+  - "[[Grandes Ecoles]]"
   - "[[Formative Assessment]]"
   - "[[Classroom Management]]"
   - "[[Transfer Translation Transformation]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Centre for Educational Statistics and Evaluation
@@ -64,7 +65,7 @@ updated: 2026-09-22
 > - **成立时间 / 创设背景** 2012 年成立；正值全澳推行《国家全民读写算术测评》（NAPLAN）与学校问责深化之际，新州政府旨在打破教育行政与数据评估脱节的困局，设立统一的数据驱动科研中枢。
 > - **总部地点 / 业务辐射** 澳大利亚悉尼；直接服务新南威尔士州公立学校系统（逾 2200 所学校与 80 万学生），其循证指南辐射全澳。
 > - **法人属性与经费基础** 州政府教育部内部常设法定研究评估机构；全部经费来自新南威尔士州财政预算拨款。
-> - **核心宗旨与法定职责** 搜集、分析并向一线教师与教育行政当局提供高质量实证数据与因果科研证据，评估重大学校教育改革举措的实际成效。
+> - **核心宗旨与法定职责** 搜集、分析并向一线教师与教育行政当局提供高质量实证数据与因果科研证据，评估重[[Grandes Ecoles|大学校]]教育改革举措的实际成效。
 
 ---
 

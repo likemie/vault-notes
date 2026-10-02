@@ -19,6 +19,7 @@ tags:
   - higher-education-finance
   - academic-labor
 related_concepts:
+  - "[[Research Universities]]"
   - "[[PhD Overproduction in Science]]"
   - "[[Externalization]]"
   - "[[Soft-Money Faculty Model]]"
@@ -26,7 +27,9 @@ related_concepts:
   - "[[Document]]"
   - "[[Indirect Costs of Research]]"
   - "[[Structural Adjustment Programs]]"
+  - "[[Grandes Ecoles]]"
   - "[[Academic Start-up Packages]]"
+  - "[[Carnegie Classification of Institutions of Higher Education]]"
   - "[[Academic Risk Aversion]]"
   - "[[Absorptive Capacity]]"
 related_theories:
@@ -44,6 +47,7 @@ related_facts:
   - "[[National Institutes of Health]]"
   - "[[National Research Council]]"
   - "[[Department of Energy]]"
+  - "[[National Defense Education Act of 1958]]"
   - "[[President's Science Advisory Committee]]"
   - "[[Seaborg Report 1960]]"
   - "[[National Research Service Award Act of 1974]]"
@@ -60,7 +64,7 @@ title: "Argument_Stephan_2013_NBER"
 argument_key: "Argument_Stephan_2013_NBER"
 argument_display_title: "The Endless Frontier: Reaping what Bush Sowed? (NBER Working Paper No. 19687)"
 argument_kind: "report"
-argument_related_count: 23
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -77,7 +81,7 @@ issuing_organization: "National Bureau of Economic Research"
 ## 研究问题
 
 > [!question]
-> 二战后《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》（Science, The Endless Frontier）所奠定的联邦资助体系如何重塑了美国研究型大学的科研格局，大学自身又是如何策略性回应与重构这一制度契约的？历经近七十年的演变，为何巨额的科研经费投入并未带来体制的从容繁荣，反而使大学科研生态深陷入不敷出、普遍规避风险与人才供求失衡的深层危机？（pp.2–4）
+> 二战后《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》（Science, The Endless Frontier）所奠定的联邦资助体系如何重塑了[[Research Universities|美国研究型大学]]的科研格局，大学自身又是如何策略性回应与重构这一制度契约的？历经近七十年的演变，为何巨额的科研经费投入并未带来体制的从容繁荣，反而使大学科研生态深陷入不敷出、普遍规避风险与人才供求失衡的深层危机？（pp.2–4）
 
 > [!claim] 核心主张
 > 当代美国大学科研系统面临的种种体制重压，并非单纯由联邦政府单向强加，而是大学管理层与教师在回应《科学：无尽的前沿》历史机遇时，主动发起并推动制度重构的必然结果；大学自 1960 年代起反客为主倒逼政府承担教师薪资与间接成本，在微观上演化为依赖外部资金与廉价学术劳动力的商场租赁模式，最终在正反馈强化下引发了科研严重规避风险、[[PhD Overproduction in Science|博士过量生产]]、生物医学过度集中、设施基建过度扩张以及对联邦资金脆弱依附五大结构性危机。（pp.2–3, 29–37）
@@ -310,7 +314,7 @@ issuing_organization: "National Bureau of Economic Research"
 > - **博士后滞留蓄水池急剧膨胀** 博士后从短期的学术跃升过渡阶梯演化为常态化的低薪滞留池，占确定去向毕业生的比例持续攀升。（pp.22–23）
 > - **培养规模与行业吸纳深度脱节** 实验室为了低成本完成项目持续招收廉价研究生，忽视了学术界与工业界对顶尖研究劳动力的真实吸纳容量。（pp.22–23, 32–33）
 
-普林斯顿大学校长雪莉·蒂尔曼主持的全国研究委员会青年学者委员会在 1990 年代末提出，应当密切关注博士毕业生的实际就业出路，建议将毕业生的职业发展质量纳入对导师后续申请基金的评审考核中（pp.22–23）。
+普林斯顿[[Grandes Ecoles|大学校]]长雪莉·蒂尔曼主持的全国研究委员会青年学者委员会在 1990 年代末提出，应当密切关注博士毕业生的实际就业出路，建议将毕业生的职业发展质量纳入对导师后续申请基金的评审考核中（pp.22–23）。
 
 > [!example]- 图 7：全美各学科博士毕业生拥有确定性去向的比例（1991–2011）
 > ![](https://img.mylikemie.icu/sources/Stephan_2013_NBER/figures/Stephan_2013_NBER_Fig7_Doctorate_Recipients_Definite_Commitments.jpg)
@@ -426,7 +430,7 @@ NIH 名义预算在 1998 至 2002 年间翻了一番，但这并未带来稳定�
 
 > [!finding-cards] 核心发现
 > 1. **科研契约的转变主要由大学自身推动** 战后联邦科研资助模式的重构并非仅由联邦政府主导，大学管理层与教师自 1960 年代起主动争取薪资报销和更高间接成本补偿，对体系的形成发挥了关键推动作用。（p.37）
-> 2. **大学组织呈现出空间租赁的商场特征** 现代研究型大学的重要职能之一是建设高水平硬件与声誉平台，再通过间接成本与软钱岗位将实验室交由自负盈亏的课题组负责运营。（pp.30–31）
+> 2. **大学组织呈现出空间租赁的商场特征** 现代[[Research Universities|研究型大学]]的重要职能之一是建设高水平硬件与声誉平台，再通过间接成本与软钱岗位将实验室交由自负盈亏的课题组负责运营。（pp.30–31）
 > 3. **追加资金无法单独解决结构性失衡** 1998–2002 年 [[National Institutes of Health|NIH]] 预算翻倍的经历表明，在激励机制不变的情况下，单纯增加经费会导致立项率回落、资助人员偏向资深学者以及盲目借债扩张设施等问题。（pp.27–28, 37）
 > 4. **科研系统面临多重体制压力** 当代大学科研生态面临课题选题规避风险、博士培养与岗位脱节、生命科学学科独大、基建借债压力上升以及对联邦资金高度依附五大现实挑战。（pp.31–37）
 
@@ -446,7 +450,7 @@ NIH 名义预算在 1998 至 2002 年间翻了一番，但这并未带来稳定�
 >
 > *Yes, the contract changed. But a careful reading of the record suggests that the change was orchestrated more by universities than by the federal government. Bush established a funding system that faculty and university administrators were adroit at adapting to their ends. The modern university research system evolved. Many of the stresses that the system now faces are a result of these adaptations. We are reaping not so much what Bush sowed but what universities and faculty pressed to put in place in the 1950s and 1960s in response to The Endless Frontier and the opportunities it offered. Some of Bush’s key insights regarding research and the research process got lost in the process of adaptation. To name but three: the importance of funding and conducting risky research at universities; the focus on fellowships as a method of supporting graduate students; and, implicitly, the need to strike a balance between support of the medical sciences and other fields of science and engineering.*
 
-> [!citation-card] 斯蒂芬论研究型大学的[[Shopping Mall Model of Research Universities|高档商场模型]]
+> [!citation-card] 斯蒂芬论[[Research Universities|研究型大学]]的[[Shopping Mall Model of Research Universities|高档商场模型]]
 > 在许多方面，美国的大学已经演变成类似于高档购物中心的存在。它们投身于建造最先进的硬件设施和打造足以吸引优秀学生、杰出教师和资源的声誉。随后，大学通过科研项目中的间接成本提取与教师薪水冲销，把这些设施实质上转租给教师。其中的部分教师处于软钱职位，其本质是自费付费换取在大学工作的机会；一旦未能争取到科研项目资助，他们得不到任何收入保障。为了帮助新教师建立其实验室——即建立他们在商场内的独立商铺——大学会为新入职教师提供启动资金包。（pp.30–31）
 >
 > *In many ways universities in the United States have come to resemble high-end shopping malls. They are in the business of building state-of-the art facilities and a reputation that attracts good students, good faculty, and resources. They turn around and lease the facilities to faculty in the form of indirect costs on grants and the buyout of salary. Some of these faculty are in soft money positions, in essence paying for the opportunity to work at the university, receiving no guarantee of income if they fail to bring in a grant. To help faculty establish their labs—their firm in the mall—universities provide [[Academic Start-up Packages|start-up packages]] for newly hired faculty.*

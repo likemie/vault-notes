@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Source of Knowledge]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Grandes Ecoles]]"
   - "[[Areas of Knowledge]]"
   - "[[Scientific Method]]"
   - "[[Epistemology]]"
@@ -315,7 +316,7 @@ updated: 2026-09-29
 > - **各国改革方案的跨国共识** 邀请对本国课程不满的改革者共同设计，把国内推进缓慢的建议放入国际学校实地试验，再争取大学和教育部中的改革支持者接受结果。课程改变幅度和承认风险更高，IB 最终采用这一路线（pp. 24–26）。
 
 > [!case] 法国与德国改革者把 IB 视为本国课程改革的试验场
-> - **让·卡佩勒（Jean Capelle）连接大学与法国教育行政** Jean Capelle 时任南锡大学校长，曾任法国教育部教育司长，并写有批评法国中学毕业会考的 *Contre le Baccalauréat*。他加入理事会时已经明确主张改变现行资格制度。
+> - **让·卡佩勒（Jean Capelle）连接大学与法国教育行政** Jean Capelle 时任南锡[[Grandes Ecoles|大学校]]长，曾任法国教育部教育司长，并写有批评法国中学毕业会考的 *Contre le Baccalauréat*。他加入理事会时已经明确主张改变现行资格制度。
 > - **阿廷盖夫人（Madame Hatinguais）连接塞夫尔研究机构** Madame Hatinguais 领导塞夫尔研究与实验中心，既处于法国督学体系，也具有课程改革立场。她后来为 1967 年国际会议提供会址和制度联系。
 > - **赫尔穆特·贝克尔（Hellmut Becker）连接联邦德国改革网络** Hellmut Becker 时任马克斯·普朗克研究所主任，后来出任德国教育委员会主席，是联邦德国课程改革的重要领导者。
 > - **共同动机超出流动学生服务** Alec Peterson、Jean Capelle and Hellmut Becker 在巴黎讨论时确认，三人都希望借 IB 实际检验本国推进缓慢的改革建议。设计一套小规模新课程，再以运行结果证明价值，比直接改变庞大国家课程更有行动空间（p. 25）。

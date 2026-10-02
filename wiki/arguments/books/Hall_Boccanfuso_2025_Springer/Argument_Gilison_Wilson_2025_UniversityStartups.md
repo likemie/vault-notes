@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[University Spin-Out]]"
   - "[[Governance by Spin]]"
+  - "[[Research Universities]]"
   - "[[University-Industry Collaboration]]"
   - "[[Proof of Concept Programs]]"
   - "[[Hypothesis]]"
@@ -70,7 +71,7 @@ title: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_key: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_display_title: "University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration"
 argument_kind: "book"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -90,7 +91,7 @@ citation_aliases:
 >
 > 核心问题是，产业伙伴在大学衍生企业的创建和成长过程中，最有效、最实际的参与方式是什么？哪些结构性障碍限制了产业直接推动衍生企业创建的能力？哪些大学主导的项目机制能够有效撬动产业的市场洞察来提升衍生企业的成功几率？
 >
-> 两位作者均来自[[Alliance for Southern California Innovation\|南加州创新联盟]]（Alliance for Southern California Innovation），拥有八年产业创新项目运营经验，并在撰写前对南加州主要研究型大学的 20 余位[[University-Industry Collaboration\|产学合作]]领导者和企业创新负责人进行了访谈和调查(p.143)。这一定位区别于传统学术研究，目标是提供"可操作的见解"（actionable insights）而非理论建构。
+> 两位作者均来自[[Alliance for Southern California Innovation\|南加州创新联盟]]（Alliance for Southern California Innovation），拥有八年产业创新项目运营经验，并在撰写前对南加州主要[[Research Universities|研究型大学]]的 20 余位[[University-Industry Collaboration\|产学合作]]领导者和企业创新负责人进行了访谈和调查(p.143)。这一定位区别于传统学术研究，目标是提供"可操作的见解"（actionable insights）而非理论建构。
 
 ---
 

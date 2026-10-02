@@ -7,7 +7,7 @@ summary: "美国著名政策学者，布兰代斯大学公共政策荣休教授�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -43,13 +43,14 @@ related_instruments: []
 related_persons:
   - "[[John W. Kingdon]]"
   - "[[Herbert A. Simon]]"
-related_facts: []
+related_facts:
+  - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_McDonnell_2013_AJE]]"
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Deborah Stone
@@ -59,7 +60,7 @@ updated: 2026-10-01
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国当代著名政治学者、[[Policy Science in Comparative Education|政策科学]]家与社会学家，布兰代斯大学（Brandeis University）海勒社会政策与管理学院荣休教授，美国文理科学院院士。
+> - **身份位置** 美国当代著名政治学者、[[Policy Science in Comparative Education|政策科学]]家与社会学家，布兰代斯大学（Brandeis University）海勒社会政策与管理学院荣休教授，美国文理[[Chinese Academy of Sciences|科学院]]院士。
 > - **核心角色** [[Interpretivism|解释主义]]政策分析（Interpretive Policy Analysis）与政策修辞学派的领军学者。其里程碑著作《政策悖论》（*Policy Paradox*）奠定了对传统经济学理性选择与[[Technical Rationality|技术理性]]工程模型的系统批判，提出了“政治城邦”（Polis）分析模型，开创了关于“[[Problem Finding|问题界定]]作为战略性表征”（Strategic Representation）与“因果故事叙事”（Causal Stories）的[[Constructivist Paradigm|建构主义]]理论传统。
 > - **代表贡献** 出版经典著作《政策悖论：政治决策的艺术》（*Policy Paradox: The Art of Political Decision Making*）；系统阐发公共政策中的因果故事叙事理论；揭示统计指标与量化数据的政治象征功能。
 

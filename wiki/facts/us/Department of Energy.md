@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 联邦内阁行政部门／国家级科研主管机构
 headquarters: 美国华盛顿特区福里斯特尔大厦（Forrestal Building, Washington, D.C.）
@@ -24,6 +24,7 @@ tags:
   - theme/innovation-system
   - region/us
 related_concepts:
+  - "[[Research Universities]]"
   - "[[Megascience Installations]]"
   - "[[Innovation Ecosystem]]"
   - "[[Evidence Ecosystem]]"
@@ -62,7 +63,7 @@ updated: 2026-10-02
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1977 年由吉米·卡特（Jimmy Carter）总统签署法案设立，旨在整合二战曼哈顿工程以来的能源研究与开发署（ERDA）、联邦能源署（FEA）及原子能委员会（AEC）等机构，以应对 1970 年代两次全球石油危机暴露出的国家能源安全脆弱性。
-> - **总部地点 / 业务辐射** 总部位于美国华盛顿特区，业务管辖覆盖全美 17 所多学科国家实验室、国家核安全局（NNSA）以及上百所研究型大学的前沿能源研究中心。
+> - **总部地点 / 业务辐射** 总部位于美国华盛顿特区，业务管辖覆盖全美 17 所多学科国家实验室、国家核安全局（NNSA）以及上百所[[Research Universities|研究型大学]]的前沿能源研究中心。
 > - **法人属性与经费基础** 联邦内阁级政府行政机关；年度财政预算由美国国会拨款法案全额保障，下设科学办公室（Office of Science）管理巨额非竞争性与竞争性前沿科研基金。
 > - **核心宗旨与法定职责** “推进美国国家安全与经济繁荣”，通过解决能源、环境和核安全领域的关键科学与工程挑战，推动变革性科学发现与技术发明。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
 
@@ -137,7 +138,7 @@ updated: 2026-10-02
 > > [!axis] 学术资助极度集中与高校圈层固化之辩
 > > 相比于国家科学基金会（[[National Science Foundation|NSF]]）在 1970 年代有意识地分散科研经费至更多州立大学，能源部为何长期将大学研发经费高度集中于少数顶尖学府？
 > >
-> > - **大科学与重资产门槛辩护** 辩护者认为，能源部的重大课题（高能物理、同步辐射、受控核聚变）高度依附于重型[[Megascience Installations|大科学装置]]与专业工程团队，仅极少数顶尖研究型大学具备建设配套工程与承接极重资产研发的能力，集中资助符合规模经济与技术专业化要求。
+> > - **大科学与重资产门槛辩护** 辩护者认为，能源部的重大课题（高能物理、同步辐射、受控核聚变）高度依附于重型[[Megascience Installations|大科学装置]]与专业工程团队，仅极少数顶尖[[Research Universities|研究型大学]]具备建设配套工程与承接极重资产研发的能力，集中资助符合规模经济与技术专业化要求。
 > > - **科研经济学垄断反思** 科学经济学家[[Paula Stephan|保拉·斯蒂芬]]（Stephan）通过资助集中度（HHI）与高校受资助名单实证指出，DOE 资助的高校数量是四大机构中最少的，且 1970 年代末集中度不降反升，反映出任务导向型重资产资助更容易强化马太效应，将绝大多数新兴或地方院校实质性排斥在国家战略物理科研体系之外。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 19)]]
 
 ---

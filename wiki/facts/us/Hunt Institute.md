@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Grandes Ecoles]]"
   - "[[Research Translation]]"
   - "[[Policy Borrowing]]"
   - "[[Document]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-10-02
 ---
 
 # Hunt Institute
@@ -85,7 +86,7 @@ updated: 2026-09-26
 ## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
-> - **董事会（Board of Directors）** 由亨特州长亲自领衔，汇聚了两党前州长、联邦前教育部高级官员、顶尖大学校长与企业高管，确保极高的政界声望与超党派公信力。
+> - **董事会（Board of Directors）** 由亨特州长亲自领衔，汇聚了两党前州长、联邦前教育部高级官员、顶尖[[Grandes Ecoles|大学校]]长与企业高管，确保极高的政界声望与超党派公信力。
 > - **执行团队与政策分析部门** 由总裁兼首席执行官主持，下设政策分析部、州级领导力服务部与战略传播部，专责实证[[Research Translation|研究转译]]与立法者培训。
 > - **高阶学术与咨询专家库** 长期与美国顶尖政策学院、测量机构与教师专业发展学者保持紧密合作，形成即时响应的咨询响应网络。
 

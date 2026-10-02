@@ -14,7 +14,7 @@ aliases:
 summary: "跨越政治学、文化哲学与比较教育学的核心宏观理论。在政治治理层面，主张权力分散于多元竞争的利益集团之间，政策是公开民主博弈与妥协的产物；在比较教育与文化哲学层面，主张文化多元主义（Cultural Pluralism），强调教育深植于多元语言、宗教与地方生态，抗衡世界体系单一普遍主义规训；在学科知识生产层面，主张健康多元主义（Healthy Pluralism），确立实证、批判、后现代等数十种理论视角与混合方法并存共荣的学科合法形态。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 56
+theory_related_count: 57
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Commensuration]]"
   - "[[Ontology]]"
+  - "[[Grandes Ecoles]]"
   - "[[Scientific Paradigm]]"
   - "[[Creativity]]"
   - "[[Research Question]]"
@@ -171,7 +172,7 @@ updated: 2026-10-02
 > [!theory-proposition] 命题三｜地方文化多元性构成抗衡全球同质化指标[[Disciplina and Doctrina|规训]]的[[Ontology|本体论]]防线
 > **解释** 比较教育与全球治理视域下的文化多元主义主张，教育体系深植于不可化约的地方文化、语言、宗教、族群与社会历史环境之中。任何试图以单一跨国[[Performance Indicators|绩效指标]]（如[[PISA|国际学生评估项目]]（PISA））或同质化发展模型统合全球教育的努力，都会遭遇本土文化生态的抗阻；教育政策必须包容多元文化的内生价值与主体诉求。该命题由[[Wolfgang Mitter|沃尔夫冈·米特]]（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）在反思欧洲比较教育演进与[[World-Systems Theory|世界体系理论]]张力时深刻阐明。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 98–99)]]
 >
-> **应用实例** 欧洲各国在推进欧盟一体化教育基准（[[Bologna Process]]）的过程中，德国、法国与北欧国家持续保留了各具特色的[[German Dual Education System|双元制]]职业教育、大学校（Grandes Écoles）及全人综合学校传统，抵御单一量化指标的抹平。
+> **应用实例** 欧洲各国在推进欧盟一体化教育基准（[[Bologna Process]]）的过程中，德国、法国与北欧国家持续保留了各具特色的[[German Dual Education System|双元制]]职业教育、[[Grandes Ecoles|大学校]]（Grandes Écoles）及全人综合学校传统，抵御单一量化指标的抹平。
 
 > [!theory-proposition] 命题四｜理论[[Paradigm|范式]]多元共存与方法互补构成学科成熟的“健康多元”态势
 > **解释** 一个学术领域的生机与生命力并不取决于是否确立了排他性的“统一[[Scientific Paradigm|科学范式]]”，而取决于其容纳多元[[Epistemology|认识论]]、[[Theoretical Perspective|理论视角]]与研究方法的能力。比较教育学经历半个世纪的发展，彻底粉碎了20世纪60年代[[Positivism|实证主义]]与[[Structural Functionalism|结构功能主义]]的垄断神话，形成了涵盖马克思主义、[[Postmodernism|后现代主义]]、[[Critical Theory|批判理论]]、女性主义、新制度主义等26种理论视角并存的“健康多元主义”。实证量化与质性阐释并非零和对抗，而是相互补充，为多维解构复杂跨国教育现象提供了最充沛的理论工具库。该命题由[[Val D. Rust|瓦尔·拉斯特]]等学者通过长程计量[[Meta-analysis|元分析]]（Rust et al., 1999, 2009）正式论证。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]

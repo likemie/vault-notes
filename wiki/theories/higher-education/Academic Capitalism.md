@@ -5,7 +5,7 @@ aliases:
 summary: "Slaughter & Leslie (1997) 提出的概念，描述大学日益卷入专利商业化、产学合作和竞争性拨款等市场导向活动，学术生产与资本积累逻辑深度绑定的制度转型过程"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 27
+theory_related_count: 28
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Shopping Mall Model of Research Universities]]"
   - "[[Externalization]]"
   - "[[PhD Overproduction in Science]]"
+  - "[[Research Universities]]"
   - "[[Research Proposal]]"
   - "[[Research Question]]"
   - "[[Technology Transfer Office]]"
@@ -108,7 +109,7 @@ updated: 2026-10-02
 ## 核心命题
 
 > [!theory-proposition] 命题一｜大学组织演化为以间接成本与软钱为纽带的商场化租赁平台
-> **解释** 在竞争性科研资助驱动下，现代研究型大学的微观组织形态发生了根本异化：大学管理层致力于兴建顶尖科研楼宇与打造学术声望品牌，随后通过[[Research Proposal|课题申报]]中的间接成本提取与教师薪水冲销（salary buyout），将这些物理设施实质上转租给自负盈亏的课题组负责人。教师薪资被大量推向软钱轨道，学校以此规避办学人员的长期刚性开支并以极低边际成本扩大科研规模。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–31)]]
+> **解释** 在竞争性科研资助驱动下，现代[[Research Universities|研究型大学]]的微观组织形态发生了根本异化：大学管理层致力于兴建顶尖科研楼宇与打造学术声望品牌，随后通过[[Research Proposal|课题申报]]中的间接成本提取与教师薪水冲销（salary buyout），将这些物理设施实质上转租给自负盈亏的课题组负责人。教师薪资被大量推向软钱轨道，学校以此规避办学人员的长期刚性开支并以极低边际成本扩大科研规模。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–31)]]
 >
 > **应用实例** 全美研究型医学院普遍要求全职专任教师（包括终身教授）将其薪酬的 80%–100% 通过 [[National Institutes of Health|NIH]] 等外部科研项目报销；一旦资助断档，学校不提供收入保障，学者直接面临减薪甚至实验室关闭风险。
 
@@ -128,7 +129,7 @@ updated: 2026-10-02
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 解释大学组织为何会出现科研选题规避风险、青年教师生存焦虑、博士毕业生供求失衡以及高校重资产借贷等系统性制度病理。
-> - **分析对象与单位** 研究型大学管理层、学科院系、实验室课题组微观用工网络，以及国家科技资助机构政策文本。
+> - **分析对象与单位** [[Research Universities|研究型大学]]管理层、学科院系、实验室课题组微观用工网络，以及国家科技资助机构政策文本。
 > - **需要的材料** 高校财务审计年报（间接成本提取率、自筹配套比例）、教师聘任合同中软钱占比、博士生助研津贴流向统计及科研项目立项明细。
 > - **解释目标** 揭示学术卓越话语背后遮蔽的微观经济成本收益激励，透视学术资本主义对大学公共使命的侵蚀机制。
 

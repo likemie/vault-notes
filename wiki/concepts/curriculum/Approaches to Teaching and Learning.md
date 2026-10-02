@@ -6,7 +6,7 @@ aliases:
 summary: "国际文凭项目中的一套核心教学与学习方法，旨在通过培养思考、交流、研究等技能，支持核心组件的连贯性与跨学科学习。"
 type: concept
 domain: "curriculum"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -27,13 +27,14 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Metli_2022_IJER]]"
 confidence: high
 status: draft
 created: 2026-08-11
-updated: 2026-09-17
+updated: 2026-10-02
 ---
 
 # Approaches to Teaching and Learning
@@ -55,7 +56,7 @@ updated: 2026-09-17
 ## 核心要素
 
 > [!feature] 核心要素
-> - **通用技能底座** ATL 为学生提供研究、沟通、思考等工具，这些工具是连接不同学科以及核心组件（如 [[Theory of Knowledge\|TOK]]、CAS、EE）的基础。
+> - **通用技能底座** ATL 为学生提供研究、沟通、思考等工具，这些工具是连接不同学科以及核心组件（如 [[Theory of Knowledge\|TOK]]、[[Chinese Academy of Sciences|CAS]]、EE）的基础。
 > - **连贯性支撑** 教师通过在课堂上协同规划和应用 ATL，能够显著支持核心课程的连贯性，帮助学生理解跨学科的内在联系 [[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, p. 221)]]。
 > - **与培养目标的联动** ATL 技能（如“思考”）直接服务于 IB [[IB Learner Profile\|学习者培养目标]]（如“思考者”），二者在日常教学中相辅相成。
 
@@ -86,7 +87,7 @@ updated: 2026-09-17
 
 > [!evidence-grid] ATL 在[[Concurrency of Learning\|并发学习]]中的应用
 > - **教师协同规划** 教师在跨学科协同备课时，利用 ATL 作为共同目标来设计教学活动，从而打破各核心组件（如 EE 与 [[Theory of Knowledge\|TOK]]）孤立运行的状态 [[Argument_Metli_2022_IJER\|(Metli & Akış, 2022)]]。
-> - **定向培训** 学校在开设 TOK 和 CAS 课程前，通过整合的 ATL 培训帮助师生建立对跨学科学习的初步共识 [[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, p. 225)]]。
+> - **定向培训** 学校在开设 TOK 和 [[Chinese Academy of Sciences|CAS]] 课程前，通过整合的 ATL 培训帮助师生建立对跨学科学习的初步共识 [[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, p. 225)]]。
 
 ---
 

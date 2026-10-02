@@ -7,7 +7,7 @@ title: "Argument_Hill_2022_FacilitatingActors"
 argument_key: "Argument_Hill_2022_FacilitatingActors"
 argument_display_title: "Who is facilitating research use in education systems? In N"
 argument_kind: "book-chapter"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Research Translation]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Grandes Ecoles]]"
   - "[[Research Impact]]"
   - "[[Knowledge Mediation]]"
   - "[[Boundary Spanner]]"
@@ -246,7 +247,7 @@ updated: 2026-09-18
 > | **加拿大萨斯喀彻温省** | 3.73 | 3.13 | 3.13 | 政策促成相对突出，研究生产与实践转化稍显滞后。 |
 > | **葡萄牙** | 3.07 | 3.36 | 3.47 | 跨界基金会（EDULOG 项目）等多元中介活跃，生产略高于促成。 |
 > | **挪威** | 3.00 | 3.35 | 3.24 | 内部中介单元成熟，但外部多元行动者活跃度评价偏向务实审慎。 |
-> | **哥斯达黎加** | 3.06 | 2.94 | 3.47 | 哥斯达黎加国家大学校长理事会（CONARE）牵头研究生产，促成端相对偏弱。 |
+> | **哥斯达黎加** | 3.06 | 2.94 | 3.47 | 哥斯达黎加国家[[Grandes Ecoles\|大学校]]长理事会（CONARE）牵头研究生产，促成端相对偏弱。 |
 > | **爱沙尼亚** | 3.08 | 3.62 | 2.67 | 实践促成明显强于研究生产，基层数字化应用生态成熟。 |
 > | **瑞士外阿彭策尔州** | 3.13 | 3.35 | 2.76 | 小型州系统，深度依赖外部学术机构输入的科研资源。 |
 > | **斯洛文尼亚** | 3.40 | 2.55 | 3.00 | 政策促成端表现良好，但实践端促成均值偏低（2.55）。 |

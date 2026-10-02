@@ -9,10 +9,10 @@ summary: "美国理论生物学家、复杂系统科学先驱、圣塔菲研究�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1939"
 died: ""
 lifespan: "1939–至今"
@@ -40,13 +40,14 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # Stuart Kauffman
@@ -86,7 +87,7 @@ updated: 2026-09-29
 ## 核心思想
 
 > [!claim] 核心主张
-> [[Complexity Theory\|复杂适应系统]]（CAS）的高阶秩序既非源于先验的宇宙宏大设计（反目的论），亦非来自外部强加的行政命令与机械控制；高阶秩序是系统各组分在局部互动规则与自催化反馈中自发[[Emergence\|涌现]]的内生属性（“秩序是免费的，它取代了控制”）。在开放的教育与社会系统中，企图通过孤立[[Variable\|变量]]受控操纵或自上而下科层命令来达成预期结果的线性管理模式，必然在复杂互动的非线性反馈中遭遇破产。
+> [[Complexity Theory\|复杂适应系统]]（[[Chinese Academy of Sciences|CAS]]）的高阶秩序既非源于先验的宇宙宏大设计（反目的论），亦非来自外部强加的行政命令与机械控制；高阶秩序是系统各组分在局部互动规则与自催化反馈中自发[[Emergence\|涌现]]的内生属性（“秩序是免费的，它取代了控制”）。在开放的教育与社会系统中，企图通过孤立[[Variable\|变量]]受控操纵或自上而下科层命令来达成预期结果的线性管理模式，必然在复杂互动的非线性反馈中遭遇破产。
 
 > [!citation-card] 考夫曼论复杂系统的自发秩序与反控制本质
 > 系统拥有自组织的能力，这种能力既不遵循先验的宏大设计（宇宙论论证），也不遵循目的论论证；复杂性两者皆非。此外，自组织是内生涌现的，它是外部控制的对立面。正如考夫曼（Kauffman, 1995）所指出的：秩序是免费的，它取代了控制。秩序不是被强加的，而是涌现出来的；在这一点上，它根本不同于控制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 47)]]

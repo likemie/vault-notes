@@ -7,7 +7,7 @@ aliases:
 summary: "将社会理解为由自创生沟通构成的多重功能分化系统，严格区分社会系统与个体心理系统，以操作封闭、结构耦合与盲点机制揭示观察界限与自适应生态演化。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 34
+theory_related_count: 35
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -51,7 +51,8 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Niklas Luhmann]]"
-related_facts: []
+related_facts:
+  - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Torres_2022_KMModels]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Luhmann's Systems Theory
@@ -175,7 +176,7 @@ updated: 2026-10-01
 > - **1984 — 《社会系统》（Soziale Systeme）出版** 标志着以沟通替代行动、以操作封闭与自创生为核心的社会系统理论完全成型。
 > - **1997 — 《社会的社会》（Die Gesellschaft der Gesellschaft）出版** 晚期集大成巨著，系统阐发功能分化社会的运行全景与二阶观察方法。
 > - **2002 — 《社会的教育系统》（Das Erziehungssystem der Gesellschaft）遗作出版** 详细将系统理论聚焦于教育子系统，剖析教育的“无法完结性”与不可操控悖论。
-> - **2016–2022 — 复杂系统与[[Epistemic Governance\|知识治理]]转向** Burns & Köster (2016) 与 [[Argument_Torres_2022_KMModels\|Torres (2022)]] 将系统理论与复杂自适应系统（CAS）理论融汇，成为国际组织解析证据生态自组织演化的元理论基石。
+> - **2016–2022 — 复杂系统与[[Epistemic Governance\|知识治理]]转向** Burns & Köster (2016) 与 [[Argument_Torres_2022_KMModels\|Torres (2022)]] 将系统理论与复杂自适应系统（[[Chinese Academy of Sciences|CAS]]）理论融汇，成为国际组织解析证据生态自组织演化的元理论基石。
 
 ---
 
@@ -202,4 +203,4 @@ updated: 2026-10-01
 > [!evidence-grid] [[Correlational Research\|相关研究]]索引
 > - **[[Argument_Larsen_2019_EducSci\|Larsen (2019)]]** 运用盲点（Blinder Fleck）与社会-心理系统[[Incommensurability\|不可通约性]]，对 [[Visible Learning]] [[Paradigm\|范式]]进行深刻的[[Epistemology\|认识论]]哲学批判。
 > - **[[Argument_Qvortrup_2019_NordSTEP\|Qvortrup (2019)]]** 运用[[Structural Coupling\|结构耦合]]与解释社群概念为[[Evidence-Based Education\|循证教育]]辩护，论证外部实证数据如何通过教师[[Professional Judgment\|专业判断]]转化为实践扰动。
-> - **[[Argument_Torres_2022_KMModels\|Torres (2022)]]** 将系统论与复杂自适应系统（CAS）并置，作为第三代自组织[[Evidence Ecosystem\|证据生态系统]]的元理论分析支柱。
+> - **[[Argument_Torres_2022_KMModels\|Torres (2022)]]** 将系统论与复杂自适应系统（[[Chinese Academy of Sciences|CAS]]）并置，作为第三代自组织[[Evidence Ecosystem\|证据生态系统]]的元理论分析支柱。

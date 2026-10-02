@@ -11,7 +11,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 2
+fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -21,6 +21,7 @@ tags:
   - "theme/innovation"
   - "theme/university-industry-collaboration"
 related_concepts:
+  - "[[Research Universities]]"
   - "[[Innovation Ecosystem]]"
   - "[[Multi-University]]"
 related_theories: []
@@ -31,7 +32,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-10-02
 ---
 
 # California Master Plan for Higher Education
@@ -42,7 +43,7 @@ updated: 2026-05-26
 > California Master Plan for Higher Education 确立了加州公立高等教育的三层体系（p.12）：
 > - **社区学院（Community Colleges）** 提供开放的入学机会和职业培训
 > - **加州州立大学（California State Universities, CSU）** 侧重本科教学和应用型人才培养
-> - **加州大学（University of California, UC）** 侧重研究、博士教育和专业学位，包括 UC Berkeley、UC San Francisco 等世界顶尖研究型大学
+> - **加州大学（University of California, UC）** 侧重研究、博士教育和专业学位，包括 UC Berkeley、UC San Francisco 等世界顶尖[[Research Universities|研究型大学]]
 
 ## 与创新生态系统的关系
 
@@ -55,5 +56,5 @@ updated: 2026-05-26
 ## 相关概念／政策
 
 - [[Innovation Ecosystem]] — 多层次高等教育体系是基于地点的创新生态系统的关键制度支撑
-- [[Multi-University]] — 加州大学系统是全球最具影响力的公立研究型大学网络，是多元大学的典型代表
+- [[Multi-University]] — 加州大学系统是全球最具影响力的公立[[Research Universities|研究型大学]]网络，是多元大学的典型代表
 

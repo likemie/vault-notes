@@ -12,7 +12,7 @@ title: "Argument_Dean_2025_UICollaborationSupport"
 argument_key: "Argument_Dean_2025_UICollaborationSupport"
 argument_display_title: "Gaining Support Within Universities for Collaboration"
 argument_kind: "books"
-argument_related_count: 30
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Concierge Service]]"
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Co-location]]"
+  - "[[Grandes Ecoles]]"
   - "[[Innovation Park]]"
   - "[[Industry Advisory Board]]"
   - "[[Research Security]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Incubation]]"
   - "[[Boundary Spanner]]"
   - "[[Research Impact]]"
+  - "[[Research Universities]]"
 related_theories:
   - "[[RIA Model for Innovation]]"
 related_methods:
@@ -161,7 +163,7 @@ citation_aliases:
 
 10. **连接活动（connector events）**是研究办公室伙伴关系团队的核心功能之一。团队与各院系合作，根据院系需求、兴趣领域和潜在外部参与方来设计和执行校内活动。在校园内举办活动降低了教师的参与门槛——不需要出差、不需要特殊安排。疫情后的活动调查显示，**面对面互动在建立信任和尊重的基础方面具有不可替代的价值(p.249)**。
 
-11. **共同选址（[[University-Industry Co-location|co-location]]）**是缩短认知距离的最激进形式。当产业人员进驻大学校园——甚至进入合作教师的特定实验室——互动从安排一次会议变为日常的、非正式的接触。共同选址还可以催生更广泛的组织形式：研究开发集群、[[Innovation Park|研究园区]]、联合体、专用设备和服务的共享使用，以及招聘会、[[Industry Advisory Board|行业咨询委员会]]和赞助等非研究密集型活动(p.249)。
+11. **共同选址（[[University-Industry Co-location|co-location]]）**是缩短认知距离的最激进形式。当产业人员进驻[[Grandes Ecoles|大学校]]园——甚至进入合作教师的特定实验室——互动从安排一次会议变为日常的、非正式的接触。共同选址还可以催生更广泛的组织形式：研究开发集群、[[Innovation Park|研究园区]]、联合体、专用设备和服务的共享使用，以及招聘会、[[Industry Advisory Board|行业咨询委员会]]和赞助等非研究密集型活动(p.249)。
 
 12. 滑铁卢大学推动共同选址的一个实例是**加拿大国家研究理事会（[[National Research Council|NRC]]）与滑铁卢大学合作中心**。该中心聚焦人工智能、物联网和网络安全，为学生、政府和教师提供共同工作的物理空间，目标是在培养 HQP 技能的同时创造多样视角交汇的环境(p.249)。
 
@@ -333,7 +335,7 @@ citation_aliases:
 ## 自述局限
 
 > [!warning]
-> **单一制度经验的局限性**。六位作者全部在滑铁卢大学研究行政系统任职，所阐述的原则虽然声称广泛适用于整个高等教育领域（broadly applicable across the POST-secondary sector），但最终根植于滑铁卢大学的特定制度条件——一所拥有全球最大[[Cooperative Education\|合作教育]]项目的中等规模加拿大研究型大学，地处北美最密集的科技创新走廊(pp.242, 248)。未讨论这些机制在以下情境中的适用边界：
+> **单一制度经验的局限性**。六位作者全部在滑铁卢大学研究行政系统任职，所阐述的原则虽然声称广泛适用于整个高等教育领域（broadly applicable across the POST-secondary sector），但最终根植于滑铁卢大学的特定制度条件——一所拥有全球最大[[Cooperative Education\|合作教育]]项目的中等规模加拿大[[Research Universities|研究型大学]]，地处北美最密集的科技创新走廊(pp.242, 248)。未讨论这些机制在以下情境中的适用边界：
 > - 缺乏大型合作教育项目的大学（多数研究型大学没有滑铁卢规模的 co-op 项目）。
 > - 位于[[Innovation Ecosystem\|创新生态系统]]较不成熟地区的大学（缺乏 15,000 家科技公司的地理禀赋）。
 > - 主要依赖公共资金而非产业配资的研究资助体系（如部分欧洲国家）。

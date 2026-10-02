@@ -7,28 +7,30 @@ subtype: event
 region: russia
 fact_region: "russia"
 fact_kind: "event"
-fact_related_count: 4
+fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#fef3c7"
 tags:
   - region/ussr
   - theme/science-policy
   - theme/innovation
 related_concepts:
+  - "[[Grandes Ecoles]]"
   - "[[Creativity]]"
   - "[[State Vertical]]"
   - "[[Soviet Statism]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Chan_2015_Intersect]]"
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-10-02
 ---
 
 # Akademgorodok
@@ -37,7 +39,7 @@ updated: 2026-06-12
 ## 背景
 
 > [!info]
-> 1950年代，苏联领导人认识到了国内科研体系中缺乏水平联结和产学研协同的问题。赫鲁晓夫在访问美国之后，试图将美国大学校园模式中的产学研互动机制引入苏联。这一改革的直接产物就是在西伯利亚新西伯利亚（Novosibirsk）附近建造的 Akademgorodok（科学城）（p.9）。
+> 1950年代，苏联领导人认识到了国内科研体系中缺乏水平联结和产学研协同的问题。赫鲁晓夫在访问美国之后，试图将美国[[Grandes Ecoles|大学校]]园模式中的产学研互动机制引入苏联。这一改革的直接产物就是在西伯利亚新西伯利亚（Novosibirsk）附近建造的 Akademgorodok（科学城）（p.9）。
 
 ---
 ## 经过
@@ -46,8 +48,8 @@ updated: 2026-06-12
 > Akademgorodok 集中了苏联最优秀的研究人员、教授和学生，许多科研机构在其学科前沿运行。
 
 > [!note]- 赫鲁晓夫时期（1950s末–1964）
-> - 赫鲁晓夫访美后决定模仿美国大学校园模式，在新西伯利亚建造大型科学中心。
-> - Akademgorodok 集中了苏联科学院西伯利亚分院的众多研究所，试图通过空间集聚促进跨学科合作。
+> - 赫鲁晓夫访美后决定模仿美国[[Grandes Ecoles|大学校]]园模式，在新西伯利亚建造大型科学中心。
+> - Akademgorodok 集中了苏联[[Chinese Academy of Sciences|科学院]]西伯利亚分院的众多研究所，试图通过空间集聚促进跨学科合作。
 > - 科学城在初期取得了一定成功，多个学科在前沿水平运作（Josephson, 1991）。
 
 > [!note]- 勃列日涅夫时期（1964–1982）
@@ -71,7 +73,7 @@ updated: 2026-06-12
 ## 争议与评论
 
 > [!warning]
-> Akademgorodok 的失败也包含一个悖论：如果科学院不是独立于中央指令经济发展，它会被[[State Vertical\|国家垂直结构]]束缚；但如果它与工业分离，就无法响应产业需求，也就难以"现代化"苏联经济，而这正是赫鲁晓夫通过这个项目试图实现的目标[[Argument_Chan_2015_Intersect\|（Chi Ling Chan, 2015, p.9）]]。这一悖论揭示了在国家主义体制内进行局部改革的根本困境。
+> Akademgorodok 的失败也包含一个悖论：如果[[Chinese Academy of Sciences|科学院]]不是独立于中央指令经济发展，它会被[[State Vertical\|国家垂直结构]]束缚；但如果它与工业分离，就无法响应产业需求，也就难以"现代化"苏联经济，而这正是赫鲁晓夫通过这个项目试图实现的目标[[Argument_Chan_2015_Intersect\|（Chi Ling Chan, 2015, p.9）]]。这一悖论揭示了在国家主义体制内进行局部改革的根本困境。
 
 ---
 ## 相关概念／政策

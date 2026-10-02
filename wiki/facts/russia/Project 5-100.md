@@ -12,7 +12,7 @@ subtype: program
 region: russia
 fact_region: "russia"
 fact_kind: "program"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#ede9fe"
@@ -22,6 +22,7 @@ tags:
   - level/higher-education
   - region/russia
 related_concepts:
+  - "[[Research Universities]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Performance Indicators]]"
   - "[[Scientific Autarky]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-26'
-updated: '2026-06-26'
+updated: 2026-10-02
 ---
 
 # Project 5-100
@@ -43,7 +44,7 @@ updated: '2026-06-26'
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 由俄罗斯联邦政府和教育科学部于2013年启动实施，执行期至2020年 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, p. 41)]]。
-> - **适用地区 / 对象** 覆盖俄罗斯境内的21所入选的顶尖研究型大学。
+> - **适用地区 / 对象** 覆盖俄罗斯境内的21所入选的顶尖[[Research Universities|研究型大学]]。
 > - **问题背景** 回应苏联解体后俄罗斯高等教育在国际大学排行榜中的低迷状态，试图通过财政支持提升其国际竞争力和全球学术声誉。
 > - **制度位置** 是俄罗斯[[Internationalization of Higher Education\|高等教育国际化]]和现代化改革的核心抓手，直接关联国家科技创新战略。
 
@@ -76,7 +77,7 @@ updated: '2026-06-26'
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 俄罗斯联邦政府、教育部与科学部，负责总体规划与预算拨款。
-> - **执行主体** 入选的21所研究型大学，负责国际化方案的具体落实与KPI考核。
+> - **执行主体** 入选的21所[[Research Universities|研究型大学]]，负责国际化方案的具体落实与KPI考核。
 > - **适用对象** 俄罗斯高校的教师与科研人员，需承担引智与国际发表指标。
 > - **政策工具** 设立外籍专家KPI目标，资助短期与长期外籍学者合同 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, p. 41)]]。
 
@@ -99,7 +100,7 @@ updated: '2026-06-26'
 
 > [!stat-cards]- 部分高校外籍教师实际占比数据 (2020年数据)
 > - **17%** 国家研究型核子大学 (MEPhI) 的外籍专家实际占比，位居首位（规划指标为14%） [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022, p. 41)]]。
-> - **14%** 国家研究型大学高等经济学院 (HSE) 的外籍专家实际占比（规划指标为12%）。
+> - **14%** 国家[[Research Universities|研究型大学]]高等经济学院 (HSE) 的外籍专家实际占比（规划指标为12%）。
 > - **13%** 圣彼得堡理工大学的外籍专家实际占比（规划目标折合为12%）。
 > - **12%** 圣彼得堡精密机械与光学学院 (ITMO) 的外籍专家实际占比。
 > - **11%** 新西伯利亚国立大学的外籍专家实际占比。

@@ -8,10 +8,10 @@ summary: "英国教育家、牛津大学教育学教授，国际文凭组织首�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 31
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 32
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1908"
 died: "1988"
 lifespan: "1908–1988"
@@ -48,6 +48,7 @@ related_persons:
   - "[[Paulo Freire]]"
 related_facts:
   - "[[Founding of Atlantic College]]"
+  - "[[Chinese Academy of Sciences]]"
   - "[[United World Colleges]]"
   - "[[International Schools Examination Syndicate]]"
   - "[[Founding of the International Baccalaureate]]"
@@ -73,7 +74,7 @@ updated: 2026-10-02
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育家（1908–1988），牛津大学教育系主任、教授；[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）组织首任总干事（1968–1977）。
 > - **制度角色** 参与[[Founding of Atlantic College\|大西洋学院创办]]及其学术课程设计，后把课程框架、外部考试、资金、试验学校和大学资格承认整合为一个可运行的跨国文凭制度。
-> - **课程角色** 推动国际文凭大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP），尤其重视[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）、[[Extended Essay\|拓展论文]]（Extended Essay，EE）和[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Action, Service，CAS）如何补足六学科框架。
+> - **课程角色** 推动国际文凭大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP），尤其重视[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）、[[Extended Essay\|拓展论文]]（Extended Essay，EE）和[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Action, Service，[[Chinese Academy of Sciences|CAS]]）如何补足六学科框架。
 > - **思想位置** 他的[[General Education|通识教育]]观强调思维过程而非事实堆积；制度设计则强调共同质量边界与学校自主实施之间的平衡。
 > - **史料边界** 他的著作是参与者历史。书中事实、个人回忆与规范性判断需要分开阅读，不能自动视为 IB 或[[United World Colleges\|联合世界书院]]（United World Colleges，UWC）的官方立场。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 161)]]
 
@@ -105,7 +106,7 @@ updated: 2026-10-02
 > [!claim] 作为过程的[[General Education\|通识教育]]
 > 彼得森批判传统学校将教育还原为事实存入（fact-depositing），指出百科全书式的课程让学生疲于在化学、法语与地理间机械吸收孤立信息，却无暇形成历史性思考、科学性思考等可迁移的思维方式。这一主张成为 IB 课程与 [[Theory of Knowledge|TOK]] 设计的核心哲学来源。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 13–16)]]
 
-> [!warrant]- 六学科、TOK、EE 和 CAS 分别补足不同缺口
+> [!warrant]- 六学科、TOK、EE 和 [[Chinese Academy of Sciences|CAS]] 分别补足不同缺口
 > 六学科保留知识广度与专业深度；TOK 让学生比较不同[[Areas of Knowledge|知识领域]]的证据和判断；EE 把个人兴趣变为有边界的独立研究；CAS 保护创意、身体行动和社会服务的学习空间。这些组件不是额外装饰，而是对单纯学科备考的结构性修正。
 
 ### 共同标准应与学习对象匹配，不能把所有组件都改造成考试
@@ -158,7 +159,7 @@ updated: 2026-10-02
 > - **创立者中心风险** 他的著作大量基于亲历经验，容易突出领导者与关键谈判，而压缩教师、学生、地方学校和行政人员的分散贡献。
 > - **官方立场边界** 彼得森明确说明 *Schools Across Frontiers* 不是官方历史，他对 [[Creativity, Action, Service|CASS]] 强制性、分权、资格承认与政府责任的看法不必然得到 [[International Baccalaureate|IBO]] 或 [[United World Colleges|UWC]] 认可。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 161)]]
 > - **证据类型边界** 学生称 EE 有助于大学过渡、校友称 UWC 改变了人生，都是有价值的经验证据，但不是独立因果评估。
-> - **术语时代差异** 彼得森讨论的 CASS 与后来 CAS 的完成规则不完全相同，不能把 1980 年代的规范性争论直接当成当代制度说明。
+> - **术语时代差异** 彼得森讨论的 CASS 与后来 [[Chinese Academy of Sciences|CAS]] 的完成规则不完全相同，不能把 1980 年代的规范性争论直接当成当代制度说明。
 
 ---
 

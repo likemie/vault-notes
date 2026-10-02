@@ -9,7 +9,7 @@ title: "Argument_Amos_2022_Springer"
 argument_key: "Argument_Amos_2022_Springer"
 argument_display_title: "Which Vision of Education for Late Modernity? In M"
 argument_kind: "book"
-argument_related_count: 48
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -40,8 +40,10 @@ related_concepts:
   - "[[Virtual University]]"
   - "[[Lifelong Learning]]"
   - "[[Learning Analytics]]"
+  - "[[Grandes Ecoles]]"
   - "[[Learner Autonomy]]"
   - "[[Self-Directed Learning]]"
+  - "[[Research Universities]]"
   - "[[Emergence]]"
   - "[[Haraway's SF]]"
   - "[[Humosity]]"
@@ -194,7 +196,7 @@ citation_aliases:
 >
 > Amos 随后给出一个推测性预测：**大众教育的权威将持续弱化**。COVID-19 疫情期间的全球"居家学习"实验是一个意外加速器——当家庭教育（home schooling）突然成为全球现实，国家作为教育组织者和认证者的地位就受到了挑战。
 >
-> > 例：想象一个 2040 年的学习场景。一个学生在 Coursera 上修完了机器学习微证书，在 Udacity 上拿到了数据科学纳米学位，在 YouTube 上自学了 UI 设计，但没有在任何一所大学注册。她的"学历"是一组数字徽章和项目作品集。雇主通过算法筛选她的技能标签。在这种场景下，国家级文凭意味着什么？大学校园的价值是什么？这就是 Amos 所说的"形式和制度化模式的增殖"——一种教育形态的大爆炸。(pp.59–60)
+> > 例：想象一个 2040 年的学习场景。一个学生在 Coursera 上修完了机器学习微证书，在 Udacity 上拿到了数据科学纳米学位，在 YouTube 上自学了 UI 设计，但没有在任何一所大学注册。她的"学历"是一组数字徽章和项目作品集。雇主通过算法筛选她的技能标签。在这种场景下，国家级文凭意味着什么？[[Grandes Ecoles|大学校]]园的价值是什么？这就是 Amos 所说的"形式和制度化模式的增殖"——一种教育形态的大爆炸。(pp.59–60)
 >
 > 但 Amos 强调：**数字化本身并不自动带来正义和平等**。它可能在以下维度加剧差距(pp.60–61)：
 >
@@ -203,7 +205,7 @@ citation_aliases:
 > - **教师的数字素养** 专业技能的分布极不均衡
 > - **学生的[[Learner Autonomy\|自主学习]]准备度** 低收入家庭的学生更依赖学校提供的结构和指导，数字化的"[[Self-Directed Learning\|自导学习]]"模式对他们更不友好
 >
-> > 例：两所同一城市的大学——一所富裕的研究型大学和一所资源紧张的社区学院——同时转向在线教学。前者投资了虚拟现实实验室、专业视频制作团队和教学设计师。后者用 Zoom 的免费版本，教师独自对着屏幕讲课。两所学校的学生的"在线学习体验"完全不同。数字化没有消除差距，它在数字化层面重新创造了差距。(p.58, 60–61)
+> > 例：两所同一城市的大学——一所富裕的[[Research Universities|研究型大学]]和一所资源紧张的社区学院——同时转向在线教学。前者投资了虚拟现实实验室、专业视频制作团队和教学设计师。后者用 Zoom 的免费版本，教师独自对着屏幕讲课。两所学校的学生的"在线学习体验"完全不同。数字化没有消除差距，它在数字化层面重新创造了差距。(p.58, 60–61)
 >
 > 更根本的是，**教育的"成员身份创造"功能在弱化**。大型公立学校承担着最重要的社会化任务——把年轻人培养成公民、培养他们对"共同善"的担当。但如果未来教育变成了高度个性化的微证书和自导学习路径的拼贴，那么"共同经验"在哪里？民主社会需要公民共享的基础知识和公共叙事，而超个性化的教育对这一基础构成威胁。
 >

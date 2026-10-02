@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Research-Practice Partnership]]"
   - "[[Democratising Evidence]]"
+  - "[[Research Universities]]"
   - "[[Bildung]]"
   - "[[Scientific Method]]"
   - "[[Discipline-Based Theory]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-26
+updated: 2026-10-02
 ---
 
 # William T. Grant Foundation
@@ -71,7 +72,7 @@ updated: 2026-09-26
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 1936 年由美国大型连锁零售业企业家威廉·T·格兰特（William T. Grant）出资设立于纽约，初衷在于通过科学研究支持年轻一代身心健康与潜能发展。
-> - **总部地点与辐射网络** 总部设于美国纽约市曼哈顿，资助业务覆盖全美数百所顶尖研究型大学、智库、学区教育委员会及社区公益组织，并对跨国教育政策治理具有广泛话语权。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
+> - **总部地点与辐射网络** 总部设于美国纽约市曼哈顿，资助业务覆盖全美数百所顶尖[[Research Universities|研究型大学]]、智库、学区教育委员会及社区公益组织，并对跨国教育政策治理具有广泛话语权。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
 > - **法人属性与资助运作** 独立的非营利性私人慈善基金会，依托长期稳健的慈善捐赠基金运营，以发放竞争性同行评议研究资助（Grants）为主要业务形式。
 > - **核心使命与法定愿景** 支持针对 5–25 岁儿童与青少年的严谨高质实证研究，重点攻坚种族、族裔、社会经济地位与语言文化壁垒导致的不平等，使公共决策建立在真实可信的科学证据基础之上。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 220)]]
 
@@ -121,7 +122,7 @@ updated: 2026-09-26
 
 > [!indicators]- 影响力维度与指标
 > - **学术话语权** 成功将“研究证据利用”（URE）与“研究与实践伙伴关系”（[[Research-Practice Partnership\|RPP]]）确立为当代教育科学与公共管理的前沿主流显学。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
-> - **高等教育制度突破** 推动卡内基基金会（Carnegie Corporation）与全美多所顶尖研究型大学正式修改终身教职评审章程，引入跨界伙伴工作豁免与政策赋权指标。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 222–223)]]
+> - **高等教育制度突破** 推动卡内基基金会（Carnegie Corporation）与全美多所顶尖[[Research Universities|研究型大学]]正式修改终身教职评审章程，引入跨界伙伴工作豁免与政策赋权指标。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 222–223)]]
 > - **政策规范重塑** 深刻影响了包括美国教育部[[Institute of Education Sciences\|教育科学研究院]]（IES）在内的官方资助方，促使其在 SEER 卓越标准中纳入公平性与伙伴关系考量。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 208, 221)]]
 
 > [!finding-cards] 关键成效与辐射影响

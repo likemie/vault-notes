@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch03"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch03"
 argument_display_title: "Chapter three: Mass media and misinformation"
 argument_kind: "book-chapter"
-argument_related_count: 35
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Knowledge Production]]"
   - "[[Responsible Conduct of Research]]"
+  - "[[Research Universities]]"
   - "[[Causality]]"
   - "[[Trustworthiness]]"
   - "[[Attrition]]"
@@ -71,6 +72,8 @@ related_persons: []
 related_facts:
   - "[[Science Media Centre]]"
   - "[[Public Attitudes to Science]]"
+  - "[[National Academy of Sciences]]"
+  - "[[Chinese Academy of Sciences]]"
 related_theories:
   - "[[Theory of Mind]]"
 status: draft
@@ -327,7 +330,7 @@ updated: 2026-09-16
 传统学术界普遍持有一种傲慢的刻板印象：媒体上的虚假报道与耸人听闻全是因为外行记者的曲解与夸张。然而，里程碑式的定量实证研究彻底颠覆了这一流行假设。
 
 > [!case] 标志性案例四：学术新闻通稿夸大陈述与媒体失真的实证溯源（Sumner et al., 2014 里程碑研究, p. 62）
-> - **严密的实证调查设计** 萨姆纳等学者（Sumner et al., 2014）在《英国医学杂志》（British Medical Journal, BMJ）发表了一项大规模回顾性[[Observation Method\|观察研究]]。研究系统采集了 2011 年英国 **20 所顶尖研究型大学**公开发布的 **462 篇**健康医学科研新闻通稿，追踪其在大众新闻媒体中引发的 **668 篇**新闻报道，并与原始同行评议学术论文进行因果匹配比对。（p. 62）
+> - **严密的实证调查设计** 萨姆纳等学者（Sumner et al., 2014）在《英国医学杂志》（British Medical Journal, BMJ）发表了一项大规模回顾性[[Observation Method\|观察研究]]。研究系统采集了 2011 年英国 **20 所顶尖[[Research Universities|研究型大学]]**公开发布的 **462 篇**健康医学科研新闻通稿，追踪其在大众新闻媒体中引发的 **668 篇**新闻报道，并与原始同行评议学术论文进行因果匹配比对。（p. 62）
 > - **三大关键维度的夸大发生率**
 >   1. *直接向公众提供明确健康与生活方式建议* 原始学术论文仅指出相关统计学关联，但在大学新闻稿中高达 **40%** 直接转化为确定性的生活指导建议；大众媒体新闻中该比例为 36%；
 >   2. *相关性被偷换为因果推论（Correlation to [[Causality\|causation]]）* 在观察性研究中，大学新闻稿有 **33%** 将相关性包装为确定因果机制；媒体报道中该比例为 34%；
@@ -337,7 +340,7 @@ updated: 2026-09-16
 
 > [!evidence-grid] 证据透明与不确定性沟通的实证效能（Kerr et al., 2022, p. 62）
 > - **打破学术界传统顾虑** 科研人员与公关专员往往担忧向公众承认实验局限、数据误差与[[Scientific Uncertainty\|科学不确定性]]（Scientific Uncertainty）会导致非专业受众产生困惑，甚至削弱公众对科学的权威信任。
-> - **[[Randomised Controlled Trials\|随机对照实验]]结论** 克尔等学者发表在《美国国家科学院院刊·连结》（PNAS Nexus）上的随机对照实验表明（Kerr et al., 2022）：无论是采用数值置信区间、文字定性限定词还是证据质量分级，向公众坦诚披露科学证据的局限性与不确定性，**绝不会损害公众对证据事实的信任，也绝不会降低对研究人员本人的信任评价**。（p. 62）
+> - **[[Randomised Controlled Trials\|随机对照实验]]结论** 克尔等学者发表在《美国国家[[Chinese Academy of Sciences|科学院]]院刊·连结》（PNAS Nexus）上的随机对照实验表明（Kerr et al., 2022）：无论是采用数值置信区间、文字定性限定词还是证据质量分级，向公众坦诚披露科学证据的局限性与不确定性，**绝不会损害公众对证据事实的信任，也绝不会降低对研究人员本人的信任评价**。（p. 62）
 > - **增强可信赖度感知** 在争议性公共政策议题中，坦诚承认“我们目前所知有限”反而能显著提升公众对科学家群体的诚信度（[[Trustworthiness]]）感知，消除公众对科学家“自大包办”的抵触心理。
 
 #### 主题二：科学传播《行为守则》架构设计

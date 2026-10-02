@@ -12,7 +12,7 @@ title: "Argument_Schulze-Cleven_2017_HighEduc"
 argument_key: "Argument_Schulze-Cleven_2017_HighEduc"
 argument_display_title: "The new political economy of higher education: between distributional conflicts and discursive stratification"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -40,8 +40,10 @@ related_concepts:
   - "[[Elitism Dispositif]]"
   - "[[Constructivist Paradigm]]"
   - "[[Paradigm]]"
+  - "[[Grandes Ecoles]]"
   - "[[Discursive Stratification]]"
   - "[[Entrepreneurial University]]"
+  - "[[Research Universities]]"
   - "[[Global Universities Rankings]]"
   - "[[Import Substitution Industrialisation]]"
   - "[[Performativity]]"
@@ -141,7 +143,7 @@ Slaughter & Leslie(1997)和 Slaughter & Rhoades(2004)的 [[Academic Capitalism|�
 > [!info] 研究类型
 > 分析整合了八篇论文的理论贡献，涵盖比较跨国政策分析（Schulze-Cleven & Olson）、量化分析（Wieczorek, Beyer & Münch 对美国化学系拨款效应的研究）、[[Discourse Analysis\|话语分析]]（Maesse 对经济学学科[[Elitism Dispositif\|精英部署]]的批判[[Constructivist Paradigm\|建构主义]]分析）、媒体档案分析（Bouchard 对法国排名杂志的历史溯源）、以及学术生涯的制度比较（Angermuller 对美英法德四国学术地位范畴的比较），在此基础上提出多维分析策略和比较研究议程(pp.795–796, 808–809)。
 >
-> 地理范围集中于北美和西欧，以美国为全球参照模型，特别关注德国和法国，这两个欧洲人口最多的国家代表了学术治理的两种[[Paradigm\|范式]]：德国以国家为中心的传统与市场化改革的拉锯，法国以国家主导的院校合并与精英大学校体系的张力(pp.796–797)。
+> 地理范围集中于北美和西欧，以美国为全球参照模型，特别关注德国和法国，这两个欧洲人口最多的国家代表了学术治理的两种[[Paradigm\|范式]]：德国以国家为中心的传统与市场化改革的拉锯，法国以国家主导的院校合并与精英[[Grandes Ecoles|大学校]]体系的张力(pp.796–797)。
 
 ---
 
@@ -156,7 +158,7 @@ Slaughter & Leslie(1997)和 Slaughter & Rhoades(2004)的 [[Academic Capitalism|�
 
 **盲区一：学术"市场"不是真正的市场。** 在真正的市场中，价格由供需决定，利润是核心驱动力。但大学"市场"的核心通货往往不是金钱，一个教授不会因为隔壁大学开价更高就跳槽（虽然有时会），更重要的是声誉、同行认可、发表机会和研究自由。当一位年轻学者选择在哈佛做薪资更低的博士后而不是去企业拿高薪时，驱使她的不是价格信号，而是符号价值。
 
-**盲区二：公共资金大量补贴了表面上的市场化。** 2003 到 2012 年间，美国公立研究型大学的州政府拨款占比下降了近一半，而学费收入占比几乎翻倍，但这部分学费增长很大程度上由联邦学生贷款和拨款支撑(American Academy of Arts and Sciences, 2016, p.9)。也就是说，所谓的市场化在相当程度上是公共资金换了条路进入大学，从直接拨款变成了经由学生贷款市场的中转。而在这条新路径上，私人金融机构从中抽取了可观的利息和利润。
+**盲区二：公共资金大量补贴了表面上的市场化。** 2003 到 2012 年间，美国公立[[Research Universities|研究型大学]]的州政府拨款占比下降了近一半，而学费收入占比几乎翻倍，但这部分学费增长很大程度上由联邦学生贷款和拨款支撑(American Academy of Arts and Sciences, 2016, p.9)。也就是说，所谓的市场化在相当程度上是公共资金换了条路进入大学，从直接拨款变成了经由学生贷款市场的中转。而在这条新路径上，私人金融机构从中抽取了可观的利息和利润。
 
 > [!example] 一架市场化机器是如何运转的
 > 以美国营利性高校为例。一所典型的营利性大学 80% 以上的收入来自联邦学生贷款和 Pell 助学金，也就是说，几乎完全依靠公共资金。但它被归类为"私营企业"，可以向股东分红。学生贷款由政府担保，违约风险由纳税人承担，但学费利润归企业所有。2014 年 Corinthian Colleges 倒闭时，留下 35 亿美元联邦学生贷款和 35 万名学生。这台市场化机器的运作逻辑是：公共资金承担风险，私人资本获取利润。这显然不是一个教科书式的自由市场(Douglass, 2012; Mettler, 2014; Eaton et al., 2016)。
@@ -203,7 +205,7 @@ Slaughter & Leslie(1997)和 Slaughter & Rhoades(2004)的 [[Academic Capitalism|�
 
 在**院校层面**，富裕大学和贫困大学之间的财富鸿沟急剧扩大。Meyer & Zhou展示了美国精英大学永久捐赠基金的惊人膨胀，这些基金原本旨在为大学的研究和教学提供独立性，但实际上已演变为上层阶级再生产的工具和富人避税的通道。与此同时，许多公立教学型大学的基础设施在老化，课程在缩减。
 
-在**个体层面**，学术劳动力市场内部的不平等恶化。教学和研究人员的收入差距在机构之间、学科之间和任务类型之间持续扩大，尤其在高级管理层面，薪酬增长与学术产出完全脱钩。一位大学校长的年薪可以是兼职讲师的一百倍以上，而后者可能拥有同等的博士学位并在教学上投入更多。
+在**个体层面**，学术劳动力市场内部的不平等恶化。教学和研究人员的收入差距在机构之间、学科之间和任务类型之间持续扩大，尤其在高级管理层面，薪酬增长与学术产出完全脱钩。一位[[Grandes Ecoles|大学校]]长的年薪可以是兼职讲师的一百倍以上，而后者可能拥有同等的博士学位并在教学上投入更多。
 
 在**社会后果层面**，高等教育的分层效应最为深远。美国高等教育对社会流动的积极贡献在 1970 年代达到顶点后开始逆转(Carnevale & Strohl, 2010; Mettler, 2014)。精英大学越来越成为富裕家庭子女的专属通道，而低收入家庭学生集中在资源最匮乏的院校。不是高等教育不再起作用了，而是它从社会流动的引擎变成了阶层再生产的加速器。
 

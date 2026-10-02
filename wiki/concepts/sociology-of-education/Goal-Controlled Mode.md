@@ -5,7 +5,7 @@ aliases:
 summary: "大学生活组织实践的一种模式，以较早确立生涯目标、策略性配置校内外资源和为毕业出路持续准备为特征，常与优势阶层习性相连"
 type: concept
 domain: "sociology-of-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -16,6 +16,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Academic Engagement]]"
+  - "[[Research Universities]]"
   - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Intuition-Dependent Mode]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Goal-Controlled Mode
@@ -57,7 +58,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!info]
-> 目标掌控模式（Goal-Controlled Mode）是大学生组织大学生活的一种实践图式，其特征是：入学后尽早确立清晰的生涯方向与职业目标，有意识地了解大学制度规则和不同毕业出路的要求，据此有针对性地安排[[Academic Engagement\|学业投入]]与课外活动，将大学资源有效转化为毕业出路的竞争优势。该概念由[[Yajun Zheng\|郑雅君]]（2023）在对中国两所顶尖研究型大学 62 名毕业班学生的跟踪访谈中提出。
+> 目标掌控模式（Goal-Controlled Mode）是大学生组织大学生活的一种实践图式，其特征是：入学后尽早确立清晰的生涯方向与职业目标，有意识地了解大学制度规则和不同毕业出路的要求，据此有针对性地安排[[Academic Engagement\|学业投入]]与课外活动，将大学资源有效转化为毕业出路的竞争优势。该概念由[[Yajun Zheng\|郑雅君]]（2023）在对中国两所顶尖[[Research Universities|研究型大学]] 62 名毕业班学生的跟踪访谈中提出。
 
 > [!quote]
 > "运用'目标掌控模式'的大学生就好比是手持迷宫地图，事先已经做好路线规划的一类参赛者"([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])

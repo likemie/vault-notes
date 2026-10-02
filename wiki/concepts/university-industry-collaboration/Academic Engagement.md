@@ -8,7 +8,7 @@ aliases:
 summary: "一个在教育研究中有歧义的术语：在学生学习研究中指学生对学术活动的投入程度（学业投入），在产学合作文献中指学术研究者与企业之间的知识性合作活动（产学学术参与），两者是完全不同的概念"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Governance by Spin]]"
   - "[[Technology Transfer]]"
   - "[[Technology Transfer Office]]"
+  - "[[Research Universities]]"
   - "[[Concierge Service]]"
   - "[[Clinical Trial]]"
   - "[[Academic Engagement Team]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-09-10
+updated: 2026-10-02
 ---
 
 # Academic Engagement
@@ -161,7 +162,7 @@ updated: 2026-09-10
 > [!example]
 > 一位工程学院的教授接受一家汽车公司赞助来测试新材料——合作为的是发表论文和培养学生，经费直接进入教授的实验室账户——这是学术参与。如果测试结果产生了可申请专利的发明，大学[[Technology Transfer Office\|技术转移办公室]]介入，评估商业价值、申请专利、寻找被许可方——这是商业化。前者由教授个人驱动、分散在大学的各个角落；后者由中心办公室集中管理、遵循标准化的专利和许可流程。
 
-这一区分对大学如何组织产学合作有直接影响：因为学术参与天然是分散的、个人化的，大学很难像管理专利许可那样通过一个中心办公室来"管理"所有学术参与活动。正如 Boccanfuso & Hall（2025, pp.60–63）对 65 所美国研究型大学的实证分析所示，即便大学设立了"全面模式"的中心产学参与办公室，该办公室在大多数活动领域也只能充当"导航者"（navigator）或"[[Concierge Service|礼宾]]"（concierge），而非"直接负责者"（responsible）——真正有权签订合同和谈判条款的是分散在各处的专业单位（赞助项目办公室、技术许可办公室、[[Clinical Trial|临床试验]]办公室等）。
+这一区分对大学如何组织产学合作有直接影响：因为学术参与天然是分散的、个人化的，大学很难像管理专利许可那样通过一个中心办公室来"管理"所有学术参与活动。正如 Boccanfuso & Hall（2025, pp.60–63）对 65 所[[Research Universities|美国研究型大学]]的实证分析所示，即便大学设立了"全面模式"的中心产学参与办公室，该办公室在大多数活动领域也只能充当"导航者"（navigator）或"[[Concierge Service|礼宾]]"（concierge），而非"直接负责者"（responsible）——真正有权签订合同和谈判条款的是分散在各处的专业单位（赞助项目办公室、技术许可办公室、[[Clinical Trial|临床试验]]办公室等）。
 
 ### 企业侧的组织对应：学术参与团队
 

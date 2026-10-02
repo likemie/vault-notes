@@ -23,6 +23,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Asymmetric Brain Circulation]]"
   - "[[Attrition]]"
+  - "[[Research Universities]]"
   - "[[Geisteswissenschaften]]"
 related_theories: []
 related_methods:
@@ -50,7 +51,7 @@ title: "Argument_Dezhina_2022_ECO"
 argument_key: "Argument_Dezhina_2022_ECO"
 argument_display_title: "Movement towards Autarky in Russian Science through the Prism of International Cooperation"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -146,7 +147,7 @@ issuing_organization: ""
 > | 高校名称 | 实际引进外籍专家占比 | 规划引进目标 (Plan) |
 > | :--- | :---: | :---: |
 > | **国立研究型核子大学 (MEPhI)** | 17% | 14% |
-> | **国立研究型大学高等经济学院 (HSE)** | 14% | 12% |
+> | **国立[[Research Universities\|研究型大学]]高等经济学院 (HSE)** | 14% | 12% |
 > | **圣彼得堡理工大学** | 13% | 约 12% |
 > | **圣彼得堡精密机械与光学学院 (ITMO)** | 12% | 8.6% |
 > | **新西伯利亚国立大学** | 11% | 13% |

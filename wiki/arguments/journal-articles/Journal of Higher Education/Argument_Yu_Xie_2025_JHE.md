@@ -45,6 +45,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Ways of Knowing]]"
   - "[[Epistemic Governance]]"
+  - "[[Research Universities]]"
   - "[[Innovation Hub]]"
   - "[[Soft Power]]"
   - "[[Disciplina and Doctrina]]"
@@ -94,7 +95,7 @@ title: "Argument_Yu_Xie_2025_JHE"
 argument_key: "Argument_Yu_Xie_2025_JHE"
 argument_display_title: "空间、权力与高等教育：地缘政治视角下的高等教育研究"
 argument_kind: "journal-article"
-argument_related_count: 60
+argument_related_count: 61
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -334,7 +335,7 @@ journal: "高等教育研究"
 #### 三层制度机制的运作
 
 > [!chain-link] 认识论治理（[[Epistemic Governance]]）的三层制度机制
-> - **大学排名体系** 全球性大学排名（QS、THE、[[Academic Ranking of World Universities\|ARWU]]等）大多依赖英文出版物数量、引用频次、国际合著比率等核心指标。这些技术性标准植根于欧美研究型大学的知识范式，默认以英语为权威媒介、以量化为绩效逻辑，系统地忽视全球南方国家的语言和本土议题。排名被称为高等教育地缘政治不可避免的结果和隐喻（Marginson, 2022）。排名从三个层面运作：
+> - **大学排名体系** 全球性大学排名（QS、THE、[[Academic Ranking of World Universities\|ARWU]]等）大多依赖英文出版物数量、引用频次、国际合著比率等核心指标。这些技术性标准植根于欧美[[Research Universities|研究型大学]]的知识范式，默认以英语为权威媒介、以量化为绩效逻辑，系统地忽视全球南方国家的语言和本土议题。排名被称为高等教育地缘政治不可避免的结果和隐喻（Marginson, 2022）。排名从三个层面运作：
 >     - 促进一种关于竞争的地缘政治想象，将国家、地区、城市、[[Innovation Hub\|创新中心]]和学术机构置于全球尺度上进行比较（Robertson & Olds, 2023）
 >     - 将大学置入一个可比的全球象征结构中，以可视形式显示国家的[[Soft Power\|软实力]]及其排序，使大学之间、国家之间由此认识自身的相对位置（Shahjahan & Morgan, 2016）
 >     - 通过等级划分确立知识的相对价值排序，将大学转化为国家争夺象征资本的竞技场（Cantwell, 2016）（pp.7–8）

@@ -9,7 +9,7 @@ summary: "美国著名科学家、物理学家与教育家，本杰明·富兰�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_persons:
   - "[[Robin Alexander]]"
   - "[[Victor Cousin]]"
 related_facts:
+  - "[[National Academy of Sciences]]"
   - "[[Education in Europe]]"
   - "[[Common School Movement]]"
   - "[[Report on the State of Public Instruction in Prussia]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Alexander Dallas Bache

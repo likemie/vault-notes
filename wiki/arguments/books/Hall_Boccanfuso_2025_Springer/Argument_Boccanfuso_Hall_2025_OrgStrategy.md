@@ -31,10 +31,12 @@ related_concepts:
   - "[[Joint Faculty Appointments]]"
   - "[[Clinical Trial]]"
   - "[[Innovation Park]]"
+  - "[[Grandes Ecoles]]"
   - "[[Technology Transfer Office]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Concierge Service]]"
   - "[[Boundary Spanner]]"
+  - "[[Research Universities]]"
   - "[[Innovation Hub]]"
   - "[[Institutional Review Board]]"
   - "[[Industry Affiliate Program]]"
@@ -69,7 +71,7 @@ title: "Argument_Boccanfuso_Hall_2025_OrgStrategy"
 argument_key: "Argument_Boccanfuso_Hall_2025_OrgStrategy"
 argument_display_title: "Organization and Strategy for University-Industry Relationships"
 argument_kind: "book"
-argument_related_count: 37
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -160,7 +162,7 @@ citation_aliases:
 - **经济/社区发展** 孵化器、[[Innovation Park|创新园区]]、技术许可、初创企业投资、小企业技术支持、标准制定
 
 > [!example]
-> 这个框架最有价值的洞见是：**传统技术转移[[Document\|文献]]几乎只关注"研究"和"经济/社区发展"两个领域**——专利、许可、衍生企业、赞助研究。但如果你是一所大学校长，你会意识到产业对你的价值远不止于此：企业可以帮你的学生提供实习岗位（教育），可以和你联合采购实验室设备来降低成本（辅助），可以在你的附属医院做临床试验（临床）。一个只看"技术转移"指标（许可收入、专利数、衍生企业数）的校长，会严重低估产学合作对大学的整体价值。
+> 这个框架最有价值的洞见是：**传统技术转移[[Document\|文献]]几乎只关注"研究"和"经济/社区发展"两个领域**——专利、许可、衍生企业、赞助研究。但如果你是一所[[Grandes Ecoles|大学校]]长，你会意识到产业对你的价值远不止于此：企业可以帮你的学生提供实习岗位（教育），可以和你联合采购实验室设备来降低成本（辅助），可以在你的附属医院做临床试验（临床）。一个只看"技术转移"指标（许可收入、专利数、衍生企业数）的校长，会严重低估产学合作对大学的整体价值。
 
 ---
 
@@ -196,7 +198,7 @@ citation_aliases:
 - **属性（Attributes）** 赋权的联盟经理/[[Boundary Spanner|边界跨越者]]（有实权而非仅传递信息）、商业情报与技术预测支持决策、清晰传达的产学合作规范、整合研究-教育-经济发展的统一产业对接窗口、校长或教务长层面的明确战略、与产业方向对齐的大学重点领域、与产学合作兼容的大学政策
 
 > [!example]
-> "礼宾服务"（concierge service）是这个框架中最生动的概念之一。想象你是一家制药公司的研发合作总监，你想和一所大型研究型大学建立合作。你打开大学网站，发现至少有五个可能相关的办公室：企业关系办公室（corporate relations）、技术许可办公室（technology licensing）、赞助项目办公室（sponsored projects）、大学发展办公室（advancement）、以及某个具体的医学院或工学院的合作办公室。你不知道应该先联系谁；你发给 A 办公室的邮件被转发给 B，B 说"这个不归我管，请联系 C"，C 说"我们需要先和 D 确认一下"……三轮邮件之后你仍然不知道谁有权力做决定。
+> "礼宾服务"（concierge service）是这个框架中最生动的概念之一。想象你是一家制药公司的研发合作总监，你想和一所大型[[Research Universities|研究型大学]]建立合作。你打开大学网站，发现至少有五个可能相关的办公室：企业关系办公室（corporate relations）、技术许可办公室（technology licensing）、赞助项目办公室（sponsored projects）、大学发展办公室（advancement）、以及某个具体的医学院或工学院的合作办公室。你不知道应该先联系谁；你发给 A 办公室的邮件被转发给 B，B 说"这个不归我管，请联系 C"，C 说"我们需要先和 D 确认一下"……三轮邮件之后你仍然不知道谁有权力做决定。
 >
 > 礼宾服务的功能就像一个高端酒店的礼宾部：你不是自己挨个打电话找餐厅、订车、买演出票——你只需要告诉礼宾"我需要什么"，由他来帮你打通所有内部环节。在大学语境中，礼宾不是替代专业单位（技术许可办公室仍然负责谈许可条款），而是在专业单位之间为外部伙伴提供一条清晰的导航路径。调查结果也印证了这一点——大学和企业双方都将"礼宾服务"选为最重要的服务之一(p.67)。
 
@@ -362,7 +364,7 @@ citation_aliases:
 
 > [!warning]
 - 网站分析基于大学公开呈现的内容，可能与实际组织结构存在偏差——网站可能夸大中心办公室的覆盖范围（为了对外展示"一站式服务"的形象），也可能未反映某些非正式但有效的内部协调机制(p.56)
-- 样本以 [[University Industry Demonstration Partnership|UIDP]] 成员大学为主、以美国大型研究型大学为主，结论对小型文理学院、教学型大学和非美国背景的适用性有限(p.56)
+- 样本以 [[University Industry Demonstration Partnership|UIDP]] 成员大学为主、以美国大型[[Research Universities|研究型大学]]为主，结论对小型文理学院、教学型大学和非美国背景的适用性有限(p.56)
 - 企业调查回复率极低（7%），可能存在严重的自选偏差——对大学合作特别积极（或特别不满）的企业更可能回复(p.64)
 - 框架的有效性虽经过八位专家和六所机构的反馈验证，但尚未经过大规模实证检验——本质上属于假说生成（[[Hypothesis]] generation）而非假说检验(pp.55–56)
 

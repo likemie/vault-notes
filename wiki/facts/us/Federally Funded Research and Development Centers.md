@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[Categorical Funding]]"
   - "[[Megascience Installations]]"
+  - "[[Research Universities]]"
   - "[[Academic Freedom]]"
 related_persons:
   - "[[Richard C. Atkinson]]"
@@ -75,7 +76,7 @@ updated: 2026-10-02
 
 > [!actor-grid] 组织治理架构
 > - **联邦出资与监管部门** 联邦能源部（[[Department of Energy|DOE]]）、国防部（DOD）、国家科学基金会（[[National Science Foundation|NSF]]）及国家航空航天局（NASA）等，负责设定国家战略目标、拨付年度总额预算并监督合规安全。
-> - **承包运营管理主体** 顶尖研究型大学联盟（如加利福尼亚大学系统、芝加哥大学联合体）、非营利研究机构或大型工业集团；负责组建管理团队、招聘科学家并维护[[Academic Freedom|学术自由]]探索文化。
+> - **承包运营管理主体** 顶尖[[Research Universities|研究型大学]]联盟（如加利福尼亚大学系统、芝加哥大学联合体）、非营利研究机构或大型工业集团；负责组建管理团队、招聘科学家并维护[[Academic Freedom|学术自由]]探索文化。
 > - **大学学者用户委员会** 针对高能物理与天文观测等大科学设施，设立全国科学家使用委员会，通过竞争性项目评审分配有限的高端装置运行机时。
 > - **常设研究梯队与访问学者流动网络** 拥有数千名专职高级科学家与工程技术人员，同时常年吸纳数百所国内外高校的教授、博士后与博士研究生在此开展前沿实验。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
 

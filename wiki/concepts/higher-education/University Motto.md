@@ -7,7 +7,7 @@ aliases:
 summary: "大学用以表达教育理想和制度身份的凝缩文本，可折射不同文化传统对真理、知识、自由、修身与德行的理解"
 type: concept
 domain: "higher-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
 - theme/cross-cultural-learning
 - source/li-2012-cambridge
 related_concepts:
+  - "[[Grandes Ecoles]]"
   - "[[Creativity]]"
   - "[[Ritual Propriety]]"
   - "[[Self-Cultivation]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-08-20
+updated: 2026-10-02
 ---
 
 # University Motto
@@ -43,14 +44,14 @@ updated: 2026-08-20
 ## 定义
 
 > [!info]
-> 大学校训是镌刻在西方大学徽章或中国大学主楼上的简约格言，浓缩了一所大学的核心教育使命。[[Argument_Li_2012_Cambridge\|Li (2012)]]将校训视为一种文化分析的透镜——校训不仅是历史的残余，更是被每一代师生和管理者"重新审视、重新唤起"的活的文化表达([[Argument_Li_2012_Cambridge\|Li, 2012, pp.33-34, 54-55]])。通过比较中西大学校训，Li 得以在最小空间内展示两种学习传统在最根本层次上的差异。
+> [[Grandes Ecoles|大学校]]训是镌刻在西方大学徽章或中国大学主楼上的简约格言，浓缩了一所大学的核心教育使命。[[Argument_Li_2012_Cambridge\|Li (2012)]]将校训视为一种文化分析的透镜——校训不仅是历史的残余，更是被每一代师生和管理者"重新审视、重新唤起"的活的文化表达([[Argument_Li_2012_Cambridge\|Li, 2012, pp.33-34, 54-55]])。通过比较中西大学校训，Li 得以在最小空间内展示两种学习传统在最根本层次上的差异。
 
 ---
 
 ## [[Argument_Li_2012_Cambridge|Li (2012)]] 的中西校训对比
 
 > [!abstract]
-> 以下数据来自 Li 对中西顶尖大学校训的 Google 搜索([[Argument_Li_2012_Cambridge\|Li, 2012, pp.33-34, 53-55]])。
+> 以下数据来自 Li 对中西顶尖[[Grandes Ecoles|大学校]]训的 Google 搜索([[Argument_Li_2012_Cambridge\|Li, 2012, pp.33-34, 53-55]])。
 
 ### 西方大学校训
 
@@ -119,7 +120,7 @@ updated: 2026-08-20
 
 对于西方大学："有人可能认为这些是古老传统的遗迹。然而，对于找到的每一条校训，我都看到了多条与之相连的当代讨论。学生、教师、行政人员和校友都在积极参与对这些结晶化表达的解释和再解释……每一次新一代学生、教师和职员进入大学，其校训的含义都会被重新审视，其精神会被重新唤起。"([[Argument_Li_2012_Cambridge|Li, 2012, p.34]])
 
-对于中国大学："这些校训同样享有与西方大学校训相似的持久影响。它们同样向学生、教师、行政人员和职员传达了各自大学的核心教育使命。它们的当代相关性同样可以通过 Google 搜索中每个大学社群对它们的热烈讨论来证明。"([[Argument_Li_2012_Cambridge|Li, 2012, p.55]])
+对于中国大学："这些校训同样享有与西方[[Grandes Ecoles|大学校]]训相似的持久影响。它们同样向学生、教师、行政人员和职员传达了各自大学的核心教育使命。它们的当代相关性同样可以通过 Google 搜索中每个大学社群对它们的热烈讨论来证明。"([[Argument_Li_2012_Cambridge|Li, 2012, p.55]])
 
 校训不是死去的遗迹——它构成了每一代大学成员重新协商"教育所为何事"的文化[[Champ|场域]]。
 

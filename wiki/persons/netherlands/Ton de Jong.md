@@ -8,7 +8,7 @@ summary: "荷兰特温特大学讲席教授、欧洲科学院院士、国际著�
 type: person
 nationality: "netherlands"
 person_region: "netherlands"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -40,14 +40,15 @@ related_theories:
   - "[[Inquiry Cycle]]"
 related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
-related_facts: []
+related_facts:
+  - "[[Chinese Academy of Sciences]]"
 related_methods: []
 related_persons:
   - "[[Richard E. Mayer]]"
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Ton de Jong
@@ -57,7 +58,7 @@ updated: 2026-09-22
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 荷兰特温特大学（University of Twente）教学技术与学习科学杰出讲席教授，欧洲科学院院士（Member of Academia Europaea），国际学习科学学会（ISLS）会士与前理事会成员。
+> - **身份位置** 荷兰特温特大学（University of Twente）教学技术与学习科学杰出讲席教授，欧洲[[Chinese Academy of Sciences|科学院]]院士（Member of Academia Europaea），国际学习科学学会（ISLS）会士与前理事会成员。
 > - **核心角色** 国际技术增强科学探究（Technology-Enhanced Inquiry Learning）与[[Computer Simulation\|虚拟仿真]]实验领域的领军学者。他长期专注于计算机微世界中学生科学发现推理规律、多媒体认知负荷调控与自适应支架体系研发；主持发起了欧洲规模最大的虚拟实验室生态圈 Go-Lab（及其后续项目 Next-Lab 与 Go-Ga）；在[[Direct Instruction\|直接教学]]与探究教学长达数十年的国际论争中，他是科学[[Inquiry-Based Learning\|指导式探究]]的领衔辩护人与协同教学[[Paradigm\|范式]]的构建者。
 > - **代表贡献** 开创“多媒体环境中的[[Discovery Learning\|引导式发现]]学习原则”（Guided Discovery Principle）；主持构建欧洲 Go-Lab 在线探究学习生态平台；领衔发表 2023 年里程碑综述《Let’s talk evidence》，系统反驳直接教学绝对优越论。
 

@@ -7,7 +7,7 @@ summary: "中国高等教育研究者，双模式框架提出者和 金榜题名
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Research Universities]]"
   - "[[Cultural Barrier]]"
   - "[[Academic and Social Integration]]"
   - "[[Cultural Capital]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 # Yajun Zheng
 
@@ -74,7 +75,7 @@ updated: 2026-09-22
 > [!note]-
 > - 就读于复旦大学高等教育研究所，师从熊庆年教授([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])
 > - 2014 年夏开始其对中国一流大学学生毕业出路分化问题的研究旅程
-> - 2015 秋至 2017 年初，在中国两所著名研究型大学（化名"北方大学"和"南方大学"）完成首轮 38 名毕业班学生的[[In-depth Interview\|深度访谈]]
+> - 2015 秋至 2017 年初，在中国两所著名[[Research Universities|研究型大学]]（化名"北方大学"和"南方大学"）完成首轮 38 名毕业班学生的[[In-depth Interview\|深度访谈]]
 > - 2017 年暑假和 2018 年暑假，受复旦高等教育研究所牛新春老师之邀，在"南方大学"补充访谈了 24 名主要来自较低阶层背景的毕业班本科生
 > - 与牛新春合作发表多篇关于重点大学城乡学生生涯定向的实证研究
 > - 2023 年出版专著《金榜题名之后：大学生出路分化之谜》，由上海三联书店出版

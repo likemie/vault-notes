@@ -7,7 +7,7 @@ aliases:
 summary: "克莱里德斯在国际关系理论视域下提出的概念，指比较教育在不同国际关系思想传统影响下，选择性关注某些问题（在场）而忽略另一些问题（缺席）的话语过滤与知识生产机制"
 type: concept
 domain: "comparative-education"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -50,6 +50,7 @@ related_facts:
   - "[[Comparative Education Society in Europe]]"
   - "[[PISA]]"
   - "[[Sputnik Shock 1957]]"
+  - "[[National Defense Education Act of 1958]]"
   - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-09-28
+updated: 2026-10-02
 ---
 
 # Agendas of Attention

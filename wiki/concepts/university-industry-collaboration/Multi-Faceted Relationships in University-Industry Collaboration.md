@@ -7,7 +7,7 @@ aliases:
 summary: "UIDP（2012）描述的产学合作最高形态，合作双方在学生参与、研究者互动、资源获取、专业中心与学院、经济发展五个领域同时建立深度联盟，跨越单一维度成为制度化的全方位战略伙伴关系"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Partnership Continuum]]"
   - "[[University-Industry Collaboration]]"
   - "[[Research Translation]]"
+  - "[[Research Universities]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-09-10
+updated: 2026-10-02
 ---
 
 # Multi-Faceted Relationships in University-Industry Collaboration
@@ -44,7 +45,7 @@ updated: 2026-09-10
 多面关系不是五个领域的简单加总——它的本质是**跨领域的协同效应** 学生招聘关系为联合研究提供了人才管道；联合研究产生的[[Research Translation|技术转化]]为经济发展领域的衍生企业；衍生企业的成功又反过来增强了大学在专业中心与学院领域对企业的吸引力。五个领域之间的正反馈循环使得多面关系的总价值大于各部分之和。
 
 > [!example]
-> 一家大型制药公司与一所研究型大学的多面关系可能同时包含：联合培养药学博士生（学生导向参与，Level 3）、五个活跃的赞助研究项目（研究者互动，Level 3）、公司派驻科学家使用大学核心成像设施（资源获取，Level 2）、公司高管在大学药学院咨询委员会任职（专业中心与学院，Level 2）、以及公司-大学-州政府三方共建的生物技术孵化园区（经济发展，Level 3）。这些活动不是孤立的——博士生可能直接在赞助研究项目中工作，核心设施的使用促进了研究数据产出，咨询委员会的战略讨论又催生了新的合作方向。
+> 一家大型制药公司与一所[[Research Universities|研究型大学]]的多面关系可能同时包含：联合培养药学博士生（学生导向参与，Level 3）、五个活跃的赞助研究项目（研究者互动，Level 3）、公司派驻科学家使用大学核心成像设施（资源获取，Level 2）、公司高管在大学药学院咨询委员会任职（专业中心与学院，Level 2）、以及公司-大学-州政府三方共建的生物技术孵化园区（经济发展，Level 3）。这些活动不是孤立的——博士生可能直接在赞助研究项目中工作，核心设施的使用促进了研究数据产出，咨询委员会的战略讨论又催生了新的合作方向。
 
 ---
 

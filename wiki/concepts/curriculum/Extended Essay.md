@@ -6,7 +6,7 @@ aliases:
 summary: "国际文凭大学预科项目的必修核心要素，通过学生自主选题、长期研究、导师指导和外部评价，把个人兴趣转化为一项可纳入跨国文凭的独立学术探究。"
 type: concept
 domain: "curriculum"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -48,7 +48,8 @@ related_instruments: []
 related_persons:
   - "[[Alec Peterson]]"
   - "[[Kurt Hahn]]"
-related_facts: []
+related_facts:
+  - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
   - "[[Argument_Darwish_2009_Queens]]"
@@ -67,7 +68,7 @@ updated: 2026-10-02
 ## 定义
 
 > [!def] 核心定义
-> 拓展论文（Extended Essay，EE）是[[International Baccalaureate\|国际文凭]]大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）的必修核心要素。学生从所学领域中自主确定[[Research Question\|研究问题]]，在导师指导下持续搜集和分析材料，最终完成一篇上限约 4,000 字的独立学术论文。EE 与[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）及[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Action, Service，CAS）共同把六学科课程扩展为自主探究、[[Epistemology\|认识论]]反思和经验行动相结合的完整文凭经验。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 45–48)]]；[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 18)]]
+> 拓展论文（Extended Essay，EE）是[[International Baccalaureate\|国际文凭]]大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）的必修核心要素。学生从所学领域中自主确定[[Research Question\|研究问题]]，在导师指导下持续搜集和分析材料，最终完成一篇上限约 4,000 字的独立学术论文。EE 与[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）及[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Action, Service，[[Chinese Academy of Sciences|CAS]]）共同把六学科课程扩展为自主探究、[[Epistemology\|认识论]]反思和经验行动相结合的完整文凭经验。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 45–48)]]；[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 18)]]
 
 > [!concept-lens] 课程位置、学习功能与资格作用
 > - **课程位置** 六学科和科内选项仍由课程大纲规定学习范围，EE 进一步把问题选择和持续研究交给学生，使个人兴趣进入正式文凭结构。
@@ -130,7 +131,7 @@ updated: 2026-10-02
 ### 命题三　EE 可以连接认识论反思、学科研究与现实行动
 
 > [!concept-lens] 跨组件[[Concurrency of Learning\|并发学习]]
-> TOK 提供审查知识主张的语言，EE 把这些原则用于具体研究，CAS 则提供现实经验和行动情境。连贯性来自问题、证据与行动在三项核心之间迁移。
+> TOK 提供审查知识主张的语言，EE 把这些原则用于具体研究，[[Chinese Academy of Sciences|CAS]] 则提供现实经验和行动情境。连贯性来自问题、证据与行动在三项核心之间迁移。
 
 > [!claim] Metli, A. & Akış, D.
 > **[[Epistemology\|认识论]]工具在研究中获得具体对象** TOK 的[[Knowledge Framework\|知识框架]]可以帮助学生界定 EE 的问题，并在[[Literature Review\|文献综述]]中检查信源[[Reliability\|可靠性]]、证据效力与方法限制。CAS 经验可以提供[[Research Question\|研究问题]]，EE 结论也可以转化为社区项目。EE 由此位于反思、探究和行动之间，而非只承担长篇写作训练。这样的连接需要图书馆员研讨、共同词汇和教师协作来显性推动。[[Argument_Metli_2022_IJER\|Metli & Akış (2022, pp. 226–229)]]
@@ -165,7 +166,7 @@ updated: 2026-10-02
 > - **早期调整　提交期限因学生过度投入而提前** 一些学生沉浸于自选题目，开始忽视其他课程并危及文凭考试。[[International Baccalaureate\|国际文凭]]办公室（International Baccalaureate Office，IBO）把截止日期提前到课程结束前数月，为六学科恢复学习时间。
 > - **1970 年代至 1985 年　选题指导与外部评价逐步成熟** 学生需要避免过宽、资料不可得和超过 4,000 字的题目，并形成学术态度。历史论文从集中于政治强人逐步扩展到地方史，科学论文常使用长期田野或实验，少数成果进入学术期刊。外部考官结合导师报告评分，可奖励 1–2 分，严重缺乏投入则扣 1 分。1985 年有 1,471 人获 1 分、310 人获 2 分、234 人被扣 1 分。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 181–182)]]
 > - **2009 年所记录的制度　EE 与 [[Theory of Knowledge\|TOK]] 共同进入核心奖励分矩阵** 两项外部评价等级交叉换算零至三分奖励分，EE 的最低等级还与文凭资格直接相连。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 18–19)]]
-> - **2022 年　EE 被进一步理解为核心组件之间的连接点** TOK 的知识审查可以进入 EE 的研究设计和[[Document\|文献]]评价，CAS 的经验可以生成[[Research Question\|研究问题]]，EE 的发现也可以转化为 CAS 行动。学校实践中的连接仍经常停留在表层。[[Argument_Metli_2022_IJER\|Metli & Akış (2022, pp. 226–230)]]
+> - **2022 年　EE 被进一步理解为核心组件之间的连接点** TOK 的知识审查可以进入 EE 的研究设计和[[Document\|文献]]评价，[[Chinese Academy of Sciences|CAS]] 的经验可以生成[[Research Question\|研究问题]]，EE 的发现也可以转化为 CAS 行动。学校实践中的连接仍经常停留在表层。[[Argument_Metli_2022_IJER\|Metli & Akış (2022, pp. 226–230)]]
 
 ---
 
@@ -192,7 +193,7 @@ updated: 2026-10-02
 > 罗伯特·布恩（R. S. Bourne）检视的 81 篇历史 EE 中，15 篇研究希特勒或纳粹主义，16 篇研究俄国革命者，11 篇研究其他强人，合计 42 篇，约占 51.9%。题目聚集说明自主选题不会自动带来多样性。诸以俄国外交政策在二十世纪的发展为题之类的设计又过于宽泛，难以在 4,000 字内形成有效论证。相比之下，法国大革命时期的戛纳这类依托本地可得材料的题目，更容易建立可操作的证据边界。比例由章内数据计算，不代表所有学科或年份的 EE 分布。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 181)]]
 
 > [!case] 涂鸦主题连接经验、知识判断与学科研究
-> 学生可以先在 CAS 中参与涂鸦相关的创作或社区项目，再在 [[Theory of Knowledge\|TOK]] 中讨论艺术定义、艺术家的伦理权利及艺术与法律的关系，最后把问题收束为视觉艺术 EE，研究涂鸦如何影响社会视觉文化。同一主题经过经验、[[Epistemology\|认识论]]反思和独立研究三次转化，避免三项核心成为相互隔离的任务。[[Argument_Metli_2022_IJER\|Metli & Akış (2022, pp. 228–229)]]
+> 学生可以先在 [[Chinese Academy of Sciences|CAS]] 中参与涂鸦相关的创作或社区项目，再在 [[Theory of Knowledge\|TOK]] 中讨论艺术定义、艺术家的伦理权利及艺术与法律的关系，最后把问题收束为视觉艺术 EE，研究涂鸦如何影响社会视觉文化。同一主题经过经验、[[Epistemology\|认识论]]反思和独立研究三次转化，避免三项核心成为相互隔离的任务。[[Argument_Metli_2022_IJER\|Metli & Akış (2022, pp. 228–229)]]
 
 > [!case] 生态研究由论文返回社区行动
 > 一项关于城市化如何影响安纳托利亚黄鼠种群的 EE，可以继续转化为 CAS 全球问题倡导。学生整理科学报告，向地方机构展示研究发现，并设计社区保护活动。研究提供行动所需的证据，行动又使论文问题进入具体环境。[[Argument_Metli_2022_IJER\|Metli & Akış (2022, p. 229)]]
@@ -204,7 +205,7 @@ updated: 2026-10-02
 > [!warning] 适用局限
 > - **投入程度差异** 早期成果既包括高度投入的研究，也包括只为满足要求而提交的平淡论文。正式要求能够创造机会，不能保证每名学生都形成个人热情。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]
 > - **整体课业失衡** 长期研究可能挤压六学科时间；截止日期、导师进度管理和学校协调是维持整体课程平衡的[[Necessary and Sufficient Conditions\|必要条件]]。
-> - **跨组件联系不足** 时间限制、缺少协同备课、官方操作指引不足及教师对[[Concurrency of Learning\|并发学习]]认识有限，会使 EE、[[Theory of Knowledge\|TOK]] 和 CAS 各自运行。[[Argument_Metli_2022_IJER\|Metli & Akış (2022, pp. 226–230)]]
+> - **跨组件联系不足** 时间限制、缺少协同备课、官方操作指引不足及教师对[[Concurrency of Learning\|并发学习]]认识有限，会使 EE、[[Theory of Knowledge\|TOK]] 和 [[Chinese Academy of Sciences|CAS]] 各自运行。[[Argument_Metli_2022_IJER\|Metli & Akış (2022, pp. 226–230)]]
 > - **大学准备证据的范围** EE 与大学学习结果的关联支持其准备价值，不能单独证明 EE 导致更高成绩；学生选择、学校环境和既有能力仍可能共同影响结果。
 
 ---
@@ -215,4 +216,4 @@ updated: 2026-10-02
 > - [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987)]] 记录 EE 从六学科课程缺口中产生的原因、早期四至六个月研究形态、外部评价、学生反馈及期限调整。
 > - [[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 181–182)]] 记录成熟期 EE 的选题问题、地方史与科学研究案例、外部评分规则及 1985 年奖励分分布。
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] 说明 [[IB Diploma Programme\|IBDP]] 核心结构以及 EE 与 [[Theory of Knowledge\|TOK]] 的奖励分转换矩阵。
-> - [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] 分析 EE 如何通过[[Concurrency of Learning\|并发学习]]与 TOK 和 CAS 形成证据审查、[[Research Question\|研究问题]]与现实行动的双向联系，并记录学校实施障碍。
+> - [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] 分析 EE 如何通过[[Concurrency of Learning\|并发学习]]与 TOK 和 [[Chinese Academy of Sciences|CAS]] 形成证据审查、[[Research Question\|研究问题]]与现实行动的双向联系，并记录学校实施障碍。

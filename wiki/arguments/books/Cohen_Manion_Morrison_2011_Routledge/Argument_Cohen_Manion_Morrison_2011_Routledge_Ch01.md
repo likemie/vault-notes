@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 125
+argument_related_count: 126
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -160,6 +160,7 @@ related_persons:
   - "[[Stuart Kauffman]]"
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
+  - "[[Chinese Academy of Sciences]]"
   - "[[Research in Schools Evaluation]]"
 related_arguments: []
 status: draft
@@ -907,7 +908,7 @@ updated: 2026-09-09
 
 复杂性理论彻底打破了线性因果推导、机械决定论与原子化还原思维，以动态、非线性与有机整体论重构研究视野：
 
-> [!theory-components] 复杂适应系统（CAS）的五大核心运作机制
+> [!theory-components] 复杂适应系统（[[Chinese Academy of Sciences|CAS]]）的五大核心运作机制
 > - **反馈机制**
 >   系统内部元素交互呈现复杂的递归反馈。**负反馈**产生调节与阻尼效应（如得知考试不及格引发的稳态调节）；**正反馈**则产生持续放大微小初始变化的乘数效应（Stacey, 1992; Wheatley, 1999），带来指数级的爆发成长——例如一名原本厌学的儿童偶然体验到阅读乐趣后，开始如饥似渴地大量阅读，其认知发展以指数速率发生飞跃。
 > - **全息连接性**

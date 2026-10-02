@@ -7,7 +7,7 @@ summary: "英国科学哲学家，因果机制、证据外推与反思 RCT 局�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 40
+person_related_count: 41
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -60,6 +60,7 @@ related_persons:
   - "[[Chris Brown]]"
   - "[[Toby Greany]]"
 related_facts:
+  - "[[Chinese Academy of Sciences]]"
   - "[[Ofsted]]"
   - "[[What Works Network]]"
 related_arguments:
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-09-24
+updated: 2026-10-02
 ---
 
 # Nancy Cartwright
@@ -78,7 +79,7 @@ updated: 2026-09-24
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Nancy Cartwright，科学哲学家、英国国家学术院院士（FBA）、欧洲科学院院士，杜伦大学（Durham University）哲学系荣休教授、加州大学圣迭戈分校（UC San Diego）特聘教授。她是人文参与科学与社会研究中心（CHESS）的核心领袖。
+> - **身份位置** Nancy Cartwright，科学哲学家、英国国家学术院院士（FBA）、欧洲[[Chinese Academy of Sciences|科学院]]院士，杜伦大学（Durham University）哲学系荣休教授、加州大学圣迭戈分校（UC San Diego）特聘教授。她是人文参与科学与社会研究中心（CHESS）的核心领袖。
 > - **核心角色** 当代科学实在论与因果哲学泰斗；将科学[[Philosophical Analysis in Education\|哲学分析]]工具深度介入公共政策与教育循证决策，系统批判纯粹以[[Randomised Controlled Trials\|随机对照试验]]（RCT）为金标准的证据等级制，奠定了证据情境迁移（Evidence Travel）的[[Analytic Framework\|分析框架]]。
 > - **代表贡献** 提出 RCT 证据外推三阶段模型、因果机制支持性因素理论（Support Factors / INUS 条件），为教育循证实践中抵御“机械剪贴”并确立“情境[[Recontextualization\|再脉络化]]”提供了底层[[Epistemology\|认识论]]。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015)]]
 

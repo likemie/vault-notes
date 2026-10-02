@@ -9,16 +9,17 @@ aliases:
 summary: "当代科学实验室将博士生与博士后作为廉价劳动力支撑科研项目运转，导致博士毕业生供给规模长期超出学术研究岗位实际吸纳能力的结构性失衡"
 type: concept
 domain: "higher-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - higher-education
   - doctoral-education
   - academic-labor
   - science-policy
 related_concepts:
+  - "[[Research Universities]]"
   - "[[Academic Freedom]]"
   - "[[Variable]]"
 related_theories:
@@ -47,7 +48,7 @@ updated: 2026-10-02
 ## 定义
 
 > [!def] 核心定义
-> 科学博士生产过剩（PhD Overproduction in Science）是指在现代科研资助激励机制下，研究型大学倾向于持续扩张博士研究生与博士后规模以获取低成本科研劳动力，导致新毕业博士数量长期显著超出学术界与产业界传统研发岗位吸纳能力的系统性失衡现象。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 32–33)]]
+> 科学博士生产过剩（PhD Overproduction in Science）是指在现代科研资助激励机制下，[[Research Universities|研究型大学]]倾向于持续扩张博士研究生与博士后规模以获取低成本科研劳动力，导致新毕业博士数量长期显著超出学术界与产业界传统研发岗位吸纳能力的系统性失衡现象。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 32–33)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向高等教育研究生培养功能与实验室科研生产功能之间的目标背离：博士生与博士后的招募实质上由“实验室用工需求”（lab staffing）驱动，而非“长期科学人才市场需求”驱动。

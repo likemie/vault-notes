@@ -10,7 +10,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Office of Science and Technology Policy]]"
   - "[[Areas of Research Interest]]"
   - "[[Scientific Advisory Group for Emergencies]]"
   - "[[Rothschild Report 1971]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-10-02
 ---
 
 # Government Office for Science
@@ -49,7 +50,7 @@ updated: 2026-09-04
 ## 背景
 
 > [!policy-context] 政策背景
-> - **设立时间与主管隶属** 2007 年由英国中央政府正式设立（前身为科技办公室 Office of Science and Technology, OST），由英国政府首席科学顾问（Government Chief Scientific Adviser, GCSA）直接领导，现行政隶属于科学、创新与技术部（Department for Science, Innovation and Technology, DSIT）并向内阁办公室与首相直接报告。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 81)]]
+> - **设立时间与主管隶属** 2007 年由英国中央政府正式设立（前身为科技办公室 [[Office of Science and Technology Policy|Office of Science and Technology]], OST），由英国政府首席科学顾问（Government Chief Scientific Adviser, GCSA）直接领导，现行政隶属于科学、创新与技术部（Department for Science, Innovation and Technology, DSIT）并向内阁办公室与首相直接报告。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 81)]]
 > - **适用范围与对象** 英国中央政府全体部委、各部委首席科学顾问（CSAs）、跨部门分析网络（Analysis Function）以及国家科技创新决策层。
 > - **问题背景** 过去各部委科学顾问大多单打独斗，缺乏跨部门顶层战略协同；在面对跨学科、长周期与系统性的前沿颠覆性趋势时，政府各部门往往因各自为政而无法形成连贯的科学证据合力；机构旨在为中央决策层建立统一、常态化且具独立公信力的国家科学咨询统筹中枢。
 > - **制度位置** 英国国家行政系统科学决策的最高统筹协调部门，是连接外部大学与研究市场、部委内部科学顾问网络、以及内阁危机应对中枢的枢纽支柱。

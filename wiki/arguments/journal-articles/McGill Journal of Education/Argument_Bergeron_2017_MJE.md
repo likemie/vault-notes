@@ -10,7 +10,7 @@ title: "Argument_Bergeron_2017_MJE"
 argument_key: "Argument_Bergeron_2017_MJE"
 argument_display_title: "How to engage in pseudoscience with real data: A criticism of John Hattie's arguments in Visible Learning from the perspective of a statistician"
 argument_kind: "journal-article"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Scientific Method]]"
   - "[[Class Size]]"
+  - "[[Grandes Ecoles]]"
   - "[[Creativity]]"
   - "[[Creativity Assessment]]"
 related_theories: []
@@ -89,7 +90,7 @@ citation_aliases:
 >
 > 这是 Bergeron & Rivard 最具原创性的方法论贡献。他们论证效应量的符号和量级取决于被任意选择的基线比较：
 >
-> **[[Class Size\|班级规模]]的案例** VL 中班级规模的效应量为正（d≈0.2，小班 > 大班）。但如果反转比较方向——比较大学校相对于小学校——效应量就会变成负数。此时 Hattie 的解释（"班级规模没有显著影响"）将完全不同，因为负面效应被视为"有害"。
+> **[[Class Size\|班级规模]]的案例** VL 中班级规模的效应量为正（d≈0.2，小班 > 大班）。但如果反转比较方向——比较[[Grandes Ecoles|大学校]]相对于小学校——效应量就会变成负数。此时 Hattie 的解释（"班级规模没有显著影响"）将完全不同，因为负面效应被视为"有害"。
 >
 > **社会经济地位的案例** SES 效应量为 d=0.59（富裕 > 贫穷）。但如果比较贫困学生与富裕学生，效应量变为 -0.59——"如果其它不变，这将是所有效应中最负面的"。随后，如何帮助缓解社会不平等的影响就成为值得研究的课题——例如借鉴芬兰的经验(Reinikainen, 2012)。"因此，Hattie 对效应的解释完全不是客观的"(p.242)。
 >

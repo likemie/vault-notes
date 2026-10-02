@@ -11,7 +11,7 @@ summary: "以解释学与建构主义为认识论基础，在自然情境中通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 95
+method_related_count: 96
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Gatekeepers]]"
   - "[[Central Phenomenon]]"
+  - "[[Grandes Ecoles]]"
   - "[[Paradigm]]"
   - "[[Research Scope]]"
   - "[[Recommendations for Practice]]"
@@ -125,7 +126,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-05
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Qualitative Research
@@ -259,7 +260,7 @@ updated: 2026-10-01
 
 ## 实践范例：Miller（1992）方法方案全流程拆解
 
-Miller 关于新任大学校长第一年经历的博士论文方案，是质性探究规范设计的经典范本（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch. 9）：
+Miller 关于新任[[Grandes Ecoles|大学校]]长第一年经历的博士论文方案，是质性探究规范设计的经典范本（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch. 9）：
 
 > [!proc] Miller（1992）质性设计全流程要素拆解
 > 1. **[[Paradigm\|范式]]声明与学科渊源** 声明以文化人类学与微观社会学为根基，致力于理解特定社会情境中行动者的互动与意义建构；逐项对照质性研究九大特征，将评判标准明确锚定为可信性与[[Reliability\|可靠性]]。

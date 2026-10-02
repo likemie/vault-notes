@@ -50,6 +50,7 @@ related_instruments:
   - "[[Concurrency of Learning in the Core Questionnaire]]"
 related_persons: []
 related_facts:
+  - "[[Chinese Academy of Sciences]]"
   - "[[National Education]]"
   - "[[Gaokao]]"
 related_arguments: []
@@ -65,7 +66,7 @@ title: "Argument_Metli_2022_IJER"
 argument_key: "Argument_Metli_2022_IJER"
 argument_display_title: "Concurrency of Learning: Strategies and Challenges of Promoting Coherence in the Core in the International Baccalaureate Diploma Programme (IBDP)"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -82,7 +83,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 本文探讨[[International Baccalaureate\|国际文凭]]大学预科项目（[[IB Diploma Programme\|International Baccalaureate Diploma Programme]]，IBDP）核心课程组件：[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）、[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Activity, Service，CAS）以及[[Extended Essay\|拓展论文]]（Extended Essay，EE）之间如何促进[[Concurrency of Learning\|并发学习]]（Concurrency of Learning）的连贯性，并分析其实施策略、良好实践、面临的挑战及解决方案。
+> 本文探讨[[International Baccalaureate\|国际文凭]]大学预科项目（[[IB Diploma Programme\|International Baccalaureate Diploma Programme]]，IBDP）核心课程组件：[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）、[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Activity, Service，[[Chinese Academy of Sciences|CAS]]）以及[[Extended Essay\|拓展论文]]（Extended Essay，EE）之间如何促进[[Concurrency of Learning\|并发学习]]（Concurrency of Learning）的连贯性，并分析其实施策略、良好实践、面临的挑战及解决方案。
 
 > [!claim] 核心主张
 > 促进核心课程间的并发学习对实现跨学科学习和整体教育至关重要。尽管存在时间限制、双轨制课程冲突和教师认知不足等实施障碍，但通过协同备课、主题反思以及围绕现实情境的[[Experiential Learning\|经验学习]]，可以有效实现课程间的连贯性。
@@ -136,7 +137,7 @@ issuing_organization: ""
 
 ### 2. 促进核心连贯性的跨组件互证与转化（以 TOK 为枢纽）
 
-> [!case] CAS 与 [[Theory of Knowledge\|TOK]] 的互证：从经验走向[[Epistemology\|认识论]]反思
+> [!case] [[Chinese Academy of Sciences|CAS]] 与 [[Theory of Knowledge\|TOK]] 的互证：从经验走向[[Epistemology\|认识论]]反思
 > **方向一：用 TOK [[Knowledge Questions\|知识问题]]（Knowledge Question，KQ）引导 CAS 反思**
 > 教师可以利用核心知识问题“你的个人经验如何创造了知识？”来深化 CAS 反思。Elnegar & Darwazeh (2018) 提出了四个递进的辅助知识问题：
 > 1. 这项活动中的个人经验如何为你创造了意义？

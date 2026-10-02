@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -24,7 +24,9 @@ tags:
   - theme/higher-education
   - theme/knowledge-mobilisation
 related_concepts:
+  - "[[Research Universities]]"
   - "[[Indirect Costs of Research]]"
+  - "[[Grandes Ecoles]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Lifelong Learning]]"
   - "[[Academic Freedom]]"
@@ -55,7 +57,7 @@ updated: 2026-10-02
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **美国教育理事会（American Council on Education, ACE）**是美国高等教育界最具代表性、历史最悠久的全国性统合协调组织（501(c)(3)）。作为美国高等教育系统的“总代言机构”（Major Coordinating Body），ACE 代表全美 1700 多所具备认证资格的公立与私立大学、两年制社区学院、研究型大学及专门学院，是高等教育界向美国联邦国会、白宫行政分支及联邦最高法院统筹表达政策诉求的最高行动中枢。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
+> **美国教育理事会（American Council on Education, ACE）**是美国高等教育界最具代表性、历史最悠久的全国性统合协调组织（501(c)(3)）。作为美国高等教育系统的“总代言机构”（Major Coordinating Body），ACE 代表全美 1700 多所具备认证资格的公立与私立大学、两年制社区学院、[[Research Universities|研究型大学]]及专门学院，是高等教育界向美国联邦国会、白宫行政分支及联邦最高法院统筹表达政策诉求的最高行动中枢。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 创设于 1918 年（第一次世界大战期间），最初名为“紧急教育委员会”（Emergency Council on Education），旨在协调全美大学资源支持国家战时训练与人力动员；一战结束后迅速转为常设机构并更为现名。
@@ -82,7 +84,7 @@ updated: 2026-10-02
 > - **高等教育政府关系协同网络** 领导全美“华盛顿高等教育秘书处”（Washington Higher Education Secretariat），协调全美数十个细分高等教育团体的游说步调与法案修正案策略。
 
 > [!pathways]- 业务运行机制
-> - **统一立法发声机制** 面对国会出台的重大法案修正案，ACE 负责组织跨党派大学校长联名上书，并在关键听证会前出具代表全行业的深度实证经济与人口学影响评估报告。
+> - **统一立法发声机制** 面对国会出台的重大法案修正案，ACE 负责组织跨党派[[Grandes Ecoles|大学校]]长联名上书，并在关键听证会前出具代表全行业的深度实证经济与人口学影响评估报告。
 > - **最高法院司法之友简报（Amicus Briefs）** 在涉及高校招生自主权、学术言论自由与移民学生保护的联邦最高法院案件中，组织全美顶级宪法学者起草具有学术共识的权威简报，对司法裁决产生深远影响。
 > - **政策实证[[Transfer Translation Transformation\|转译]]** 将高校科研数据、学生债务违约率及毕业生就业增值模型转译为简明的政策行动清单，定向呈送国会两院专职委员会。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
 
@@ -91,7 +93,7 @@ updated: 2026-10-02
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务矩阵
-> - **ACE 领导力学苑（ACE Fellows Program）** 全美历史最悠久、最负盛名的高等教育高层领袖领导力孵化项目，已培养数百名全美大学校长与教务长。
+> - **ACE 领导力学苑（ACE Fellows Program）** 全美历史最悠久、最负盛名的高等教育高层领袖领导力孵化项目，已培养数百名全美[[Grandes Ecoles|大学校]]长与教务长。
 > - **全美学分评估服务（ACE CREDIT）** 为非传统学习（如军队服役训练、企业职业培训）出具经严谨同行评议的大学学分等值认定标准，极大拓展了[[Lifelong Learning\|终身学习]]路径。
 > - **高等教育动态与平权白皮书** 定期发布全美高校校长群体人口学普查（*The American College President Study*）及种族公平评估报告，揭示高等教育治理层结构演变。
 > - **国会立法备忘录与政策建议** 在每年联邦预算案审议期间，就联邦研究经费拨付（如 [[National Science Foundation\|NSF]] 与 [[Institute of Education Sciences\|IES]]）、联邦助学金最大额度及国际留学生签证政策提供直接立法支持。
@@ -102,7 +104,7 @@ updated: 2026-10-02
 
 > [!finding-cards] 政策生态中的中介辐射
 > - **作为国会委员会常设幕僚的信赖中介伙伴** 在 [[Argument_Serpell_2020_EP\|Serpell (2020)]] 的分析中，ACE 是能够与国会委员会幕僚建立长效互信、实现“语言[[Transfer Translation Transformation\|转译]]与定向传播”的旗舰教育智库代表。其提供的实证分析兼具高度的政治洞察与行业共识，是学术证据得以在国会山产生立竿见影影响的关键放大器。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
-> - **抵御意识形态侵蚀的制度避风港** 在美国高等教育近年来遭遇日益严峻的党派政治干预与文化战争冲击时，ACE 统筹组织大学校长共同坚守[[Academic Freedom\|学术自由]]与机构自治底线，展示了专业中介联盟在捍卫科学理性中的不可替代性。
+> - **抵御意识形态侵蚀的制度避风港** 在美国高等教育近年来遭遇日益严峻的党派政治干预与文化战争冲击时，ACE 统筹组织[[Grandes Ecoles|大学校]]长共同坚守[[Academic Freedom\|学术自由]]与机构自治底线，展示了专业中介联盟在捍卫科学理性中的不可替代性。
 
 ---
 

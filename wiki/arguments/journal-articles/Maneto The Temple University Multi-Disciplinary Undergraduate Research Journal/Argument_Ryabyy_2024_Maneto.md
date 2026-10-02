@@ -9,7 +9,7 @@ title: "Argument_Ryabyy_2024_Maneto"
 argument_key: "Argument_Ryabyy_2024_Maneto"
 argument_display_title: "A horse derby, a missed connection, and hiking through the Alps: John Dewey's 1928 visit to the Soviet Union"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Progressive Education]]"
   - "[[Reliability]]"
+  - "[[Grandes Ecoles]]"
   - "[[Hypothesis]]"
   - "[[Cultural Diplomacy]]"
   - "[[Knowledge Exchange]]"
@@ -247,7 +248,7 @@ citation_aliases:
 >
 > 三个月后，驻德外交官 Jacob Gould Schurman 于 1928 年 7 月 26 日向国务卿 Frank B. Kellogg 提交了总结报告。报告中有两个值得注意的细节(p.109)：
 > - 报告特别强调这批人"**自费**"前往——这个细节增强了访问的可[[Reliability\|信度]]，因为"自费"意味着不是苏联出钱收买的
-> - 报告引述了明尼苏达大学校长 Coffman et al.的正面印象：苏联人民"衣着简陋但吃得饱，看起来满足"，苏联的普及教育努力"规模巨大、意义深远，在道德和政治上都具有最高意义"
+> - 报告引述了明尼苏达[[Grandes Ecoles|大学校]]长 Coffman et al.的正面印象：苏联人民"衣着简陋但吃得饱，看起来满足"，苏联的普及教育努力"规模巨大、意义深远，在道德和政治上都具有最高意义"
 >
 > ---
 >

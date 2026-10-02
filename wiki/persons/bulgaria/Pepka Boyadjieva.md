@@ -7,10 +7,10 @@ summary: "保加利亚社会学家和高等教育研究者，高教多维使命�
 type: person
 nationality: bulgaria
 person_region: "bulgaria"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1954"
 died: ""
 lifespan: "1954–至今"
@@ -30,27 +30,28 @@ related_theories:
   - "[[Capability Approach]]"
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Boyadjieva_2022_Springer]]"
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-09-11
+updated: 2026-10-02
 ---
 # Pepka Boyadjieva
 
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Pepka Boyadjieva 是保加利亚科学院（Bulgarian Academy of Sciences）哲学与社会学研究所（Institute of Philosophy and Sociology）的研究者。她的研究聚焦于高等教育社会学、高等教育不平等和社会正义，以将[[Capability Approach\|可行能力路径]]（capability approach）与新制度主义视角结合发展高等教育的多维使命模型而著称([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, pp.125, 140]])。
+> - **身份位置** Pepka Boyadjieva 是保加利亚[[Chinese Academy of Sciences|科学院]]（Bulgarian Academy of Sciences）哲学与社会学研究所（Institute of Philosophy and Sociology）的研究者。她的研究聚焦于高等教育社会学、高等教育不平等和社会正义，以将[[Capability Approach\|可行能力路径]]（capability approach）与新制度主义视角结合发展高等教育的多维使命模型而著称([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, pp.125, 140]])。
 
 ---
 
 ## 生平与职涯
 
 > [!note]-
-> - 任职于保加利亚科学院哲学与社会学研究所([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.125]])
+> - 任职于保加利亚[[Chinese Academy of Sciences|科学院]]哲学与社会学研究所([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.125]])
 > - 参与由保加利亚国家科学基金资助的 JustEdu 项目——"高等教育和成人教育参与中的不平等动态：比较社会正义视角"（项目编号 КП-06-ДВ-2/16.12.2019）([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.140]])
 > - 2022 年在 Parreira do Amaral & Thompson 主编的 *Geopolitical Transformations in Higher Education* 论文集中发表第 8 章([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022]])
 

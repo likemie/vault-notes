@@ -8,7 +8,7 @@ summary: "法国社会学家，场域-习性-资本理论创立者与区分作�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 45
+person_related_count: 46
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Objectivism]]"
   - "[[Relational Space]]"
   - "[[Reflexivity]]"
+  - "[[Grandes Ecoles]]"
   - "[[Epistemological Break]]"
   - "[[Doxa]]"
   - "[[Interaction Effect]]"
@@ -74,7 +75,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Pierre Bourdieu
@@ -132,7 +133,7 @@ updated: 2026-09-22
 >     - 《语言与符号权力》（*Ce que parler veut dire*, Fayard, 1982）：分析语言交换场域的符号经济性质。
 >     - 《学术人》（*Homo academicus*, Minuit, 1984）：将理论工具应用于自身所处的大学与学者场域。
 >     - 《说吧》（*Choses dites*, Minuit, 1987）：系统总结 [(习性)(资本)] + 场域 = 实践 的核心公式。
->     - 《国家贵族：名校与团体精神》（*La Noblesse d'État*, Minuit, 1989）：分析法国精英大学校与国家官僚机构的同构关系。
+>     - 《国家贵族：名校与团体精神》（*La Noblesse d'État*, Minuit, 1989）：分析法国精英[[Grandes Ecoles|大学校]]与国家官僚机构的同构关系。
 >     - 《艺术的法则》（*Les Règles de l'art*, Seuil, 1992）：以文学史案例详述自主场域的制度化建构过程。
 >     - 《反思人类学引论》（*Réponses*, Seuil, 1992）：与 Loïc Wacquant 合作系统厘清理论核心的对话录。
 >   - **关键概念／方法** [[Champ\|场域]]、反思性社会学、[[Epistemological Break\|认识论断裂]]、正统信念（[[Doxa]]）

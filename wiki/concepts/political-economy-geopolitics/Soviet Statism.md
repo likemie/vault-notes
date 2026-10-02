@@ -5,7 +5,7 @@ aliases:
 summary: "一种围绕国家机器权力最大化而组织的社会系统，在苏联表现为党对国家和国家对社会的全面控制，通过中央计划经济和马克思列宁主义意识形态运作，其内在逻辑与信息化所要求的开放网络和水平协作存在结构性不相容"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,6 +24,7 @@ related_persons:
   - "[[Manuel Castells]]"
   - "[[Trofim Lysenko]]"
 related_facts:
+  - "[[Chinese Academy of Sciences]]"
   - "[[Akademgorodok]]"
 related_arguments:
   - "[[Argument_Chan_2015_Intersect]]"
@@ -69,7 +70,7 @@ updated: 2026-10-02
 > 冷战零和思维导致苏联过度追求与西方技术"同步"。在计算机领域，苏联本有自己的 BESM-6 等研发路线，但在军方压力下转向全面采用 IBM 360 系统，原有独立设计被边缘化。此后，KGB 主导的工业间谍和逆向工程成为技术获取的主要方式，但逆向工程永远落后于前沿技术迭代，苏联由此陷入对西方的技术依赖（pp.6–7）。
 
 > [!line-a] 封闭信息回路与[[State Vertical\|国家垂直结构]]
-> 在苏联的行政体系中，科学院、应用研究和工业生产在彼此隔离的封闭回路中运行。严格的垂直行政壁垒取代了水平联结，使知识和创新无法跨部门扩散。少数试图打破这种结构的尝试，如赫鲁晓夫效仿美国大学模式建立的 [[Akademgorodok]]，最终也在勃列日涅夫时代的政治收紧中被重新收编（pp.7–9）。
+> 在苏联的行政体系中，[[Chinese Academy of Sciences|科学院]]、应用研究和工业生产在彼此隔离的封闭回路中运行。严格的垂直行政壁垒取代了水平联结，使知识和创新无法跨部门扩散。少数试图打破这种结构的尝试，如赫鲁晓夫效仿美国大学模式建立的 [[Akademgorodok]]，最终也在勃列日涅夫时代的政治收紧中被重新收编（pp.7–9）。
 
 ---
 ## 理论语境

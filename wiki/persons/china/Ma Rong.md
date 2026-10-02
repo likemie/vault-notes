@@ -7,7 +7,7 @@ summary: "中国社会学与民族学家，北京大学社会学系教授，因�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -29,13 +29,14 @@ related_methods:
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Fei Xiaotong]]"
-related_facts: []
+related_facts:
+  - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Bulag_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-09-11
+updated: 2026-10-02
 ---
 
 # Ma Rong
@@ -101,7 +102,7 @@ updated: 2026-09-11
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 彻底挑战了以中国社会科学院民族所为代表的传统马列主义民族理论[[Paradigm\|范式]]，形成了去政治化的新生代民族社会学研究传统。
+> - **理论路径** 彻底挑战了以中国社会[[Chinese Academy of Sciences|科学院]]民族所为代表的传统马列主义民族理论[[Paradigm\|范式]]，形成了去政治化的新生代民族社会学研究传统。
 > - **政策路径** 为胡鞍钢和胡联合提出的[[Second-generation Ethnic Policy\|第二代民族政策]]构想提供了最直接的理论支撑，在事实上推动了国家自 2012 年以来在新疆、西藏和内蒙古收紧自治管理、推广国家通用语言的进程。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 102]])
 
 ---

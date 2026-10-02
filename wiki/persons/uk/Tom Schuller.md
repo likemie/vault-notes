@@ -7,7 +7,7 @@ summary: "英国社会科学院（Academy of Social Sciences）院士，长期�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -37,6 +37,7 @@ related_instruments: []
 related_persons:
   - "[[Tracey Burns]]"
 related_facts:
+  - "[[Chinese Academy of Sciences]]"
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[What Works Clearinghouse]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-17
+updated: 2026-10-02
 ---
 
 # Tom Schuller
@@ -59,7 +60,7 @@ updated: 2026-09-17
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国教育学者与政策研究者，英国社会科学院（Academy of Social Sciences, AcSS）院士，长期从事[[Lifelong Learning\|终身学习]]（Lifelong Learning）、社会资本与教育[[Epistemic Governance\|知识治理]]研究；2022年与 [[Tracey Burns]] 合著 [[OECD]] 章节时以独立研究者身份参与，依托英国学术共同体。
+> - **身份位置** 英国教育学者与政策研究者，英国社会[[Chinese Academy of Sciences|科学院]]（Academy of Social Sciences, AcSS）院士，长期从事[[Lifelong Learning\|终身学习]]（Lifelong Learning）、社会资本与教育[[Epistemic Governance\|知识治理]]研究；2022年与 [[Tracey Burns]] 合著 [[OECD]] 章节时以独立研究者身份参与，依托英国学术共同体。
 > - **核心角色** 在[[Lifelong Learning\|终身学习]]政策研究领域具有深厚积累，并通过与 Burns 的长期学术合作，将终身学习的宏观视角与中介机构的制度比较分析相融合，形成跨越教育政策全生命周期的知识治理分析[[Paradigm\|范式]]。
 > - **代表贡献** 与 Tracey Burns 合著《[[Educational Brokerage Agency\|教育中介机构]]的历史与演进》（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022]]），论证中介机构在后真相时代面临的三重变迁与存续危机，并提出建构[[Cumulative Knowledge Base\|累积性知识库]]的行动路径。
 
@@ -68,7 +69,7 @@ updated: 2026-09-17
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **长期** 在英国学术与政策研究界深耕[[Lifelong Learning\|终身学习]]、成人教育与社会资本领域，曾任多所大学研究职位及政策咨询角色，成为英国社会科学院（Academy of Social Sciences）院士。
+> - **长期** 在英国学术与政策研究界深耕[[Lifelong Learning\|终身学习]]、成人教育与社会资本领域，曾任多所大学研究职位及政策咨询角色，成为英国社会[[Chinese Academy of Sciences|科学院]]（Academy of Social Sciences）院士。
 > - **2007** 与 [[Tracey Burns]] 合编 [[Centre for Educational Research and Innovation\|OECD CERI]] 报告《教育中的证据：连接研究与政策》（*Evidence in Education: Linking Research and Policy*），主持对全球 6 家标杆[[Educational Brokerage Agency\|教育中介机构]]的首次系统性国际比较研究，确立中介机构类型学的早期[[Analytic Framework\|分析框架]]。
 > - **2022** 与 Burns 合著[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]，对 2007 年报告进行 15 年系统追踪，考察中介机构演进的三重[[Paradigm\|范式]]变迁，以循证医学危机镜鉴诊断证据商业化风险，并提出超越单体孤岛、推进"中介的中介"的系统行动路径。
 
@@ -111,7 +112,7 @@ updated: 2026-09-17
 > [!person-network] 关系网络
 > - **长期合著者** [[Tracey Burns]] — 自 2007 年以来与 Burns 合作主编、合著多项 [[OECD]] 报告，共同建立[[Educational Brokerage Agency\|教育中介机构]]研究的国际比较[[Analytic Framework\|分析框架]]。
 > - **出版合作平台** [[OECD]] / [[Centre for Educational Research and Innovation]] — 核心学术输出平台。
-> - **英国学术社群** 英国社会科学院（Academy of Social Sciences），兼具学术独立性与跨学科政策研究传统。
+> - **英国学术社群** 英国社会[[Chinese Academy of Sciences|科学院]]（Academy of Social Sciences），兼具学术独立性与跨学科政策研究传统。
 
 ---
 

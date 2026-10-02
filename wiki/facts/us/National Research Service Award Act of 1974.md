@@ -12,9 +12,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 9
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: 美国国会（United States Congress）
 tags:
@@ -24,6 +24,7 @@ tags:
   - higher-education-finance
   - academic-labor
 related_concepts:
+  - "[[Research Universities]]"
   - "[[PhD Overproduction in Science]]"
   - "[[Soft-Money Faculty Model]]"
 related_theories: []
@@ -33,6 +34,7 @@ related_persons:
   - "[[Paula Stephan]]"
 related_facts:
   - "[[National Institutes of Health]]"
+  - "[[National Academy of Sciences]]"
   - "[[National Research Council]]"
   - "[[Seaborg Report 1960]]"
 related_arguments:
@@ -51,7 +53,7 @@ updated: 2026-10-02
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1974 年 7 月由第 93 届美国国会通过并经总统签署成为法律（公法 Public Law 93-348），由美国卫生、教育及福利部（HEW）及[[National Institutes of Health|美国国立卫生研究院]]（NIH）负责执行。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 18)]]
-> - **适用地区 / 对象** 全美开展生物医学、行为科学与健康科学博士生及博士后培训的研究型大学、医学院与独立科研院所。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 18)]]
+> - **适用地区 / 对象** 全美开展生物医学、行为科学与健康科学博士生及博士后培训的[[Research Universities|研究型大学]]、医学院与独立科研院所。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 18)]]
 > - **政治与经济博弈背景** 1960 年代末，NIH 资助的培训岗位多达 16,000 个；1970 年代初，尼克松政府在财政紧缩和越战开支压力下，试图单方面废止并全面取消联邦对研究生的直接培训奖学金。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 18)]]
 > - **制度位置** 构成了美国战后联邦支持青年科研学者独立专业化培养的法定基石，是国会立法权直接干预行政分支科研预算削减的典型案例。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 18)]]
 
@@ -90,7 +92,7 @@ updated: 2026-10-02
 > - **立法监管方** 美国国会参众两院拨款委员会 — 确立年度专项专款专用编制，严禁行政部门擅自挪用。
 > - **执行主管机关** [[National Institutes of Health|NIH]] 及卫生资源与服务局（HRSA） — 负责方案组织实施、制定评审指标与划拨 T32/F 系列专项基金。
 > - **第三方评估机构** 美国[[National Research Council|国家研究委员会]]（NRC） — 依法国会委托进行劳动力供需趋势实证测算。
-> - **实施受益机构** 全美顶尖研究型大学与医学院 — 依托国家培训基金维持其实验室早期研究生与博士后的基本津贴保障。
+> - **实施受益机构** 全美顶尖[[Research Universities|研究型大学]]与医学院 — 依托国家培训基金维持其实验室早期研究生与博士后的基本津贴保障。
 
 ---
 

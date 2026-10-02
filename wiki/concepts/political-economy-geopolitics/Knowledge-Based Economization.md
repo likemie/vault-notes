@@ -5,7 +5,7 @@ aliases:
 summary: "指知识密集型资本主义的物质过程如何通过想象、指标和社会实践被话语建构并制度化的过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Geopolitical Subject]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Economic Patriotism]]"
+  - "[[Grandes Ecoles]]"
   - "[[Praxis]]"
   - "[[Innovation Ecosystem]]"
   - "[[Doxa]]"
@@ -134,7 +135,7 @@ Polanyi 提供了一个关键的方法论启示：**要理解经济，必须分�
 
 | 焦点 | 分析对象 | 例 |
 |------|---------|-----|
-| **物质过程** | 知识密集型资本主义的实际运作方式——资本如何流动、空间如何被改造、制度如何被重构 | 城市创新综合体（Zukin, 2020）的物理建设；大学校园的空间改造 |
+| **物质过程** | 知识密集型资本主义的实际运作方式——资本如何流动、空间如何被改造、制度如何被重构 | 城市创新综合体（Zukin, 2020）的物理建设；[[Grandes Ecoles\|大学校]]园的空间改造 |
 | **话语建构** | 通过经济化想象和客观化社会[[Praxis\|实践]]将上述物质过程合法化和自然化的过程 | 大学排名将竞争力物化为可测量的自然事实；**[[Innovation Ecosystem\|创新生态系统]]**叙事将特定空间配置呈现为唯一合理的发展路径 |
 
 两个焦点不是分开分析然后加总，而是要追踪它们的**相互构成**关系：

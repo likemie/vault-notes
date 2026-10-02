@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ tags:
   - theme/21st-century-skills
 related_concepts:
   - "[[Teacher Professional Agency]]"
+  - "[[Grandes Ecoles]]"
   - "[[Document]]"
   - "[[Critical Thinking]]"
   - "[[Problem Solving]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-09-26
+updated: 2026-10-02
 ---
 
 # National Education Association
@@ -89,7 +90,7 @@ updated: 2026-09-26
 ## 历史沿革与组织演变
 
 > [!dev-timeline]- 组织发展历程
-> - **1857–1960 年代 — 全国学术团体的创立与课程标准奠定** 1857 年创立后于 1870 年更名为全美教育协会（NEA）；早期主要由大学校长与学区督学主导，具有浓厚的精英学术学会色彩。1892 年设立著名的“十人委员会”（Committee of Ten），确立了全美中等教育以核心学术科目为基础的现代课程标准体系。
+> - **1857–1960 年代 — 全国学术团体的创立与课程标准奠定** 1857 年创立后于 1870 年更名为全美教育协会（NEA）；早期主要由[[Grandes Ecoles|大学校]]长与学区督学主导，具有浓厚的精英学术学会色彩。1892 年设立著名的“十人委员会”（Committee of Ten），确立了全美中等教育以核心学术科目为基础的现代课程标准体系。
 > - **1960–2000 年代 — 劳工工会化转型与联邦教育立法攻坚** 1960 年代伴随公立雇员集体谈判权兴起，NEA 逐步从传统专业协会转型为具有强大集体谈判权与基层动员能力的现代劳工工会；1979 年通过强有力的两党游说推动卡特政府设立美国内阁级教育部（US Department of Education）；此后在《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]案》（ESEA）历次再授权中坚定捍卫公立学校财政拨款与教师编制。
 > - **2000 年代至今 — 21 世纪技能引领与跨国循证共治突破** 
 >   - **国家课程标准审读与专业纠偏（2009–2010）** 在[[Common Core State Standards|共同核心州立标准]]（CCSS）方案设计阶段，面对学术实证[[Document|文献]]的广泛空白，全美教育协会抽调全美委员会认证教师（National-Board Certified Members）组成专家审查组，对草案进行多轮次封闭审读，并与起草团队面对面对质。NEA 教师团队重点针对英语语言艺术（ELA）标准提出关键专业修正，坚持将“评估信息的价值与相关性”（judging the worthiness and relevance of information）纳入核心阅读素养，并严格区分“支撑性技能（enabling skills）”与“终极教学目标（goals）”，清理脱离课堂现实的晦涩学术行话，成为保障国家标准具备教学可行性的关键专业力量。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 15, 20)]]

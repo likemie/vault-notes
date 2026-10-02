@@ -14,7 +14,7 @@ aliases:
 summary: "衡量教育、研发、社会创新或组织协同投入与所产生综合收益之间比率的核心经济学与治理构念。在宏观层面被建构为跨国放贷与远处治理的自指性指标帝国；在中观风险慈善层面演化为以商业纪律与因果量规重塑公共教育再分配的意识形态杠杆；在微观产学合作层面则通过各方对回报定义的结构性分歧驱动复合创新。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Social Science as Legitimation Alibi]]"
   - "[[New Public Management]]"
   - "[[Variable]]"
+  - "[[Research Universities]]"
   - "[[Applied Medical Innovation]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -87,7 +88,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-06-02
-updated: 2026-09-28
+updated: 2026-10-02
 ---
 
 # Return on Investment
@@ -270,7 +271,7 @@ updated: 2026-09-28
 > |---|---|---|---|---|---|---|
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 世界银行 1989–2018 年数据库与政策档案 | 历时文献计量与机构档案分析 | 教育投资回报率数据库规模与指标体系演变 | 涵盖 139 国 1,120 项回报率估算；1980 年首份政策文件起世行完全自立实证研究门户 | — | 证实世行将教育收益率转化为自指性放贷门槛与跨国治理帝国的历史轨迹 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 澳大利亚社会创投（SVA）2002–2021 年财务审计与公司监管档案 | 监管档案调档、税法追踪与[[In-depth Interview\|深度访谈]] | 政府财政补贴总额 vs 对外资助总额；咨询营业额；控股层级 | 2021 年获政府补贴 121.6 万澳元，对外赠款仅 62.5 万澳元（51%）；旗下咨询部门年入近 1000 万澳元；设立 4 家全资子公司 | — | 揭示以 SROI 与商业效率为修辞的中介网络实质构筑了公共财政逆流与避税庇护 |
-> | [[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford & UIDP (2019)]] | 34 家顶尖研究型大学与跨国企业高管访谈与案例研讨 | 质性[[Focus Group\|焦点小组]]与专家共识分析 | [[University-Industry Collaboration\|产学合作]]价值评估模式、[[Counterfactual\|反事实]]与额外性指标 | 仅统计产出（专利/论文）无法反映真实价值；各方回报分歧是合作的结构性前提 | 质性专家经验归纳 | 适用于高风险、高技术门槛的生物医药与工程产学研发联合体 |
+> | [[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford & UIDP (2019)]] | 34 家顶尖[[Research Universities\|研究型大学]]与跨国企业高管访谈与案例研讨 | 质性[[Focus Group\|焦点小组]]与专家共识分析 | [[University-Industry Collaboration\|产学合作]]价值评估模式、[[Counterfactual\|反事实]]与额外性指标 | 仅统计产出（专利/论文）无法反映真实价值；各方回报分歧是合作的结构性前提 | 质性专家经验归纳 | 适用于高风险、高技术门槛的生物医药与工程产学研发联合体 |
 > | [[Argument_Swick_Jones_2025_AcademicHealthSystems\|Swick & Jones (2025)]] | 休斯敦卫理公会[[Academic Health System\|学术健康系统]]与 TAVR 创新案例 | 单案例深入分析与概念建模 | [[Values Alignment Model\|价值对齐模型]]、[[Applied Medical Innovation\|医用创新]]阶段、终端用户受益 ROI | 提出创新若无法保证患者安全并改善体验则 ROI 归零；异质组织回报分歧为合作催化剂 | 质性单案例归纳 | 适用于学术健康系统与高壁垒医用创新联合体 |
 
 ---

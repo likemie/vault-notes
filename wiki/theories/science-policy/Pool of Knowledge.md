@@ -8,7 +8,7 @@ aliases:
 summary: "万尼瓦尔·布什在1945年布什报告中提出的科学政策基石理论；将大学自由探索的基础研究比作国家知识蓄水池，为工业界的应用技术创新提供活水，从非排他性与非竞争性的公共品属性论证了由联邦财政全面承担大学基础研究资助的正当性。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Linear Model of Innovation]]"
   - "[[Return on Investment]]"
+  - "[[Research Universities]]"
   - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[University-Industry Collaboration]]"
@@ -73,7 +74,7 @@ updated: 2026-10-02
 > - **提出者与原始文本** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）在 1945 年向美国总统提交的里程碑报告《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》（*Science—the Endless Frontier*）中系统阐述。
 > - **原初问题** 第二次世界大战前，美国工业界在很大程度上直接依附于欧洲学术界的基础理论成果进行本土工程应用；欧洲战场的彻底破坏终结了外源性知识供给，战后美国必须建立自给自足的基础研究供给机制。
 > - **理论资源与材料** 布什在领导[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（OSRD）期间，深度观察了 MIT [[MIT Radiation Laboratory|辐射实验室]]微波雷达攻关与曼哈顿计划核裂变研发如何严重消耗既有理论储备；同时结合了工业实验室（如[[Bell Labs|贝尔实验室]]）与大学在专利权及公开发表上的行为差异。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
-> - **形成路径** 布什运用“蓄水池”隐喻形象化地解构了基础科研与商业开发的关系：基础研究是源头活水，应用开发是下游引水；企业出于利润驱动只会从池中取水，唯有公共财政能向池中注水，从而顺理成章地推导出国家资助研究型大学的政策结论。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]
+> - **形成路径** 布什运用“蓄水池”隐喻形象化地解构了基础科研与商业开发的关系：基础研究是源头活水，应用开发是下游引水；企业出于利润驱动只会从池中取水，唯有公共财政能向池中注水，从而顺理成章地推导出国家资助[[Research Universities|研究型大学]]的政策结论。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]
 
 ### 后续演变与当代修正
 
@@ -105,7 +106,7 @@ updated: 2026-10-02
 > **应用实例** 在现代半导体与量子计算研发中，基础凝聚态物理与拓扑物态理论由联邦国家科学基金会全额资助并在顶尖大学公开发表，工业巨头（如英特尔、谷歌）则依托这些共享的公开基础理论突破下游制程工艺。
 
 > [!theory-proposition] 命题二：战后国家技术实力与工业创新的长远维系取决于对知识池的持续回补
-> **解释** 技术进步与工业创新并非无源之水，而是高度依托于既有基础科学存量的开发与组合。如果国家仅仅关注短平快的应用工程而忽视源头基础科研，战争或市场竞争将迅速耗尽既有的知识池储量，导致技术进步陷入干涸与内卷。二战期间美国对欧洲基础理论的大规模消耗直接证实了这一危机，因此联邦政府必须持续向研究型大学注入无附加商业问责条件的自由探索经费，以保障蓄水池的永续丰沛。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
+> **解释** 技术进步与工业创新并非无源之水，而是高度依托于既有基础科学存量的开发与组合。如果国家仅仅关注短平快的应用工程而忽视源头基础科研，战争或市场竞争将迅速耗尽既有的知识池储量，导致技术进步陷入干涸与内卷。二战期间美国对欧洲基础理论的大规模消耗直接证实了这一危机，因此联邦政府必须持续向[[Research Universities|研究型大学]]注入无附加商业问责条件的自由探索经费，以保障蓄水池的永续丰沛。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
 >
 > **应用实例** 在 20 世纪末互联网与重组 DNA 技术的爆发中，其核心底层协议与限制性内切酶分子机制均源自联邦政府二十余年前在大学资助的无功利纯基础探索。
 

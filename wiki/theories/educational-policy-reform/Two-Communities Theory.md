@@ -8,7 +8,7 @@ aliases:
 summary: "两社区理论由 Nathan Caplan（1979）提出，指涉科学研究社群与政治决策社群在文化价值、认识论取向、奖酬结构与时间跨度上的结构性分野，是政策中介、边界跨越者与研究利用理论的奠基性元模型。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 42
+theory_related_count: 43
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -63,13 +63,14 @@ related_facts:
   - "[[American Educational Research Association]]"
   - "[[Definition and Selection of Competencies]]"
   - "[[PISA]]"
+  - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Serpell_2020_EP]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-10-02
 ---
 
 # Two-Communities Theory
@@ -185,7 +186,7 @@ updated: 2026-09-17
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 用于解释[[Evidence-Based Education\|循证教育]]改革中大学研究成果为何常被冷落，而智库与国际组织的通俗报告为何深受欢迎。
-> - **作为分析工具** 分解学者与官员在访谈或文本中表达的认知冲突，分析中介机构（如教育科学院、非营利组织）扮演的边界跨越策略。
+> - **作为分析工具** 分解学者与官员在访谈或文本中表达的认知冲突，分析中介机构（如教育[[Chinese Academy of Sciences|科学院]]、非营利组织）扮演的边界跨越策略。
 > - **作为批判视角** 揭示将循证决策简化为“科学发现—行政推行”线性链条的幼稚性，审视[[Policy Brokerage\|政策中介]]如何利用两界信息差谋取话语垄断权。
 
 > [!logic-map]- 分析流程图

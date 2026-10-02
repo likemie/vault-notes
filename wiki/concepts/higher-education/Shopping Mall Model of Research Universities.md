@@ -8,7 +8,7 @@ aliases:
 summary: "Paula Stephan 提出的学术组织经济学隐喻，将现代研究型大学比作高档商业购物中心，大学专注于建设尖端物理空间并以间接成本及薪资冲销的形式向自负盈亏的学者团队出租"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
   - economics-of-science
   - academic-capitalism
 related_concepts:
+  - "[[Research Universities]]"
   - "[[Corporate University]]"
   - "[[Knowledge Production]]"
   - "[[Technology Transfer]]"
@@ -49,7 +50,7 @@ updated: 2026-10-02
 ## 定义
 
 > [!def] 核心定义
-> 研究型大学商场模型（Shopping Mall Model of Research Universities）是著名科学经济学家[[Paula Stephan|保拉·斯蒂芬]]（Paula Stephan）提出的组织分析隐喻，用来概括当代美国研究型大学的核心运作逻辑：大学在本质上越来越类似于高端商业购物中心——校方专注于构建最先进的实验室基础设施与机构声誉品牌，进而通过提取外部科研资助中的间接成本（indirect costs）以及要求教师冲抵个人薪酬（buyout of salary），将这些空间实质性“出租”给各课题组负责人（PI），后者如同商场内的自负盈亏商铺一般独立运营其科研实验室。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–31)]]
+> [[Research Universities|研究型大学]]商场模型（Shopping Mall Model of Research Universities）是著名科学经济学家[[Paula Stephan|保拉·斯蒂芬]]（Paula Stephan）提出的组织分析隐喻，用来概括当代美国研究型大学的核心运作逻辑：大学在本质上越来越类似于高端商业购物中心——校方专注于构建最先进的实验室基础设施与机构声誉品牌，进而通过提取外部科研资助中的间接成本（indirect costs）以及要求教师冲抵个人薪酬（buyout of salary），将这些空间实质性“出租”给各课题组负责人（PI），后者如同商场内的自负盈亏商铺一般独立运营其科研实验室。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–31)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示现代大学从“学术共同体”向“空间租赁与品牌特许运营中介”的角色蜕变，揭示大学与学者之间从传统的庇护关系转向商业性租赁协作。
@@ -71,7 +72,7 @@ updated: 2026-10-02
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 研究型大学商场模型 | 传统学术庇护共同体 | 企业化大学（[[Corporate University]]） |
+> | 维度 | [[Research Universities\|研究型大学]]商场模型 | 传统学术庇护共同体 | 企业化大学（[[Corporate University]]） |
 > |---|---|---|---|
 > | **机构核心角色** | 高端科研空间开发商与声誉品牌授权方 | 学者自治的知识探索共同体与培育庇护所 | 科层集中管控、面向商业产出的[[Knowledge Production\|知识生产]]企业 |
 > | **学者组织身份** | 自负盈亏的“承租商铺店主”（独立 PI） | 享有终身教职薪酬保障的终身学者（Faculty） | 接受绩效考评与任务指派的受雇研发雇员 |
@@ -167,4 +168,4 @@ updated: 2026-10-02
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 提出研究型大学商场模型隐喻，系统解析其在间接成本核算、软钱雇佣及基建过度扩张中的制度表现。
+> - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 提出[[Research Universities|研究型大学]]商场模型隐喻，系统解析其在间接成本核算、软钱雇佣及基建过度扩张中的制度表现。

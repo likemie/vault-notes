@@ -9,7 +9,7 @@ aliases:
 summary: "在高度竞争性科研资助、同行评审可行性偏见与短周期考评约束下，科研人员与资助机构系统性偏向选择高确定性、短期可见的渐进型研究，极力规避长周期、高失败率之颠覆性探索的制度性行为偏好。"
 type: concept
 domain: "higher-education"
-related_count: 21
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Soft-Money Faculty Model]]"
   - "[[Scientific Autarky]]"
   - "[[Performance Indicators]]"
+  - "[[Research Universities]]"
 related_theories:
   - "[[Hegemony]]"
 related_methods:
@@ -40,6 +41,7 @@ related_persons:
   - "[[Vannevar Bush]]"
 related_facts:
   - "[[Bell Labs]]"
+  - "[[National Academy of Sciences]]"
   - "[[National Science Foundation]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Institutes of Health]]"
@@ -199,7 +201,7 @@ updated: 2026-10-02
 >
 > | 观察情境 / 研究 | 样本与分析对象 | 核心考察维度 | 原始统计与制度发现 | 解释边界与政策启示 |
 > |---|---|---|---|---|
-> | [[Argument_Atkinson_2008_TIS\|Atkinson & Blanpied (2008, pp. 44–45)]] | 全美研究型大学自然科学与工程学部青年教师群像 | 课题资助中标率与选题避险行为 | [[National Science Foundation\|NSF]] 总体中标率跌至约 30%，新毕业博士首申资助率跌至约 20%；顶尖大学仅能提供 2 至 3 年启动金，青年学者在启动金耗尽后面临解组压力，被迫放弃高风险颠覆性假说并申报渐进安全项目 | 实证揭示极度竞争压力下的微观考核直接扭曲了学者行使探索自由的行为取向，诱发[[Document\|文献]]平庸化 |
+> | [[Argument_Atkinson_2008_TIS\|Atkinson & Blanpied (2008, pp. 44–45)]] | 全美[[Research Universities\|研究型大学]]自然科学与工程学部青年教师群像 | 课题资助中标率与选题避险行为 | [[National Science Foundation\|NSF]] 总体中标率跌至约 30%，新毕业博士首申资助率跌至约 20%；顶尖大学仅能提供 2 至 3 年启动金，青年学者在启动金耗尽后面临解组压力，被迫放弃高风险颠覆性假说并申报渐进安全项目 | 实证揭示极度竞争压力下的微观考核直接扭曲了学者行使探索自由的行为取向，诱发[[Document\|文献]]平庸化 |
 > | [[Argument_Stephan_2013_NBER\|Stephan (2013, p. 31)]] | [[National Institutes of Health\|美国国立卫生研究院]]（NIH）R01 基金申请人与生命科学实验室 | 标书提交时的实质完成度 | 知名生命科学家与评审专家调查证实，获得资助的申请书中，三个核心研究目标通常有两个在标书提交前已在实验室内实质完成 | 证实同行评审过度偏重技术可行性与完备[[Pilot Testing\|预实验]]数据，使未完成的高风险探索无法获得支持 |
 > | [[Argument_Stephan_2013_NBER\|Stephan (2013, pp. 28, 30)]] | 美国研究型大学医学院科研人员薪酬结构 | 软钱薪资依赖度 | 医学院教师 60%–80% 的个人基本工资依赖外部科研项目提成（软钱），科研中断直接导致个人降薪甚至失业 | 表明个人生计威胁是驱动学者采取极端避险策略的最强微观经济诱因 |
 

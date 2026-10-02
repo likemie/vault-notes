@@ -9,7 +9,7 @@ summary: "中国现代哲学家、文学家、外交官，新文化运动与五�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Pragmatism in China]]"
   - "[[Hypothesis]]"
   - "[[Scientific Method]]"
+  - "[[Grandes Ecoles]]"
   - "[[Falsification]]"
 related_theories: []
 related_methods:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-17
+updated: 2026-10-02
 ---
 
 # Hu Shi
@@ -75,7 +76,7 @@ updated: 2026-09-17
 > - **1919–1921** 在[[John Dewey\|杜威]]访华期间担任其全国巡回讲演的首席翻译与讲学组织者。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.73]]）
 > - **1920–1930年代** 倡导“多研究些问题，少谈些主义”，主持《努力周报》《独立评论》，推动“整理国故”运动。
 > - **1938–1942** 出任中华民国驻美大使，开展抗战外交。
-> - **1946–1948** 出任北京大学校长。
+> - **1946–1948** 出任北京[[Grandes Ecoles|大学校]]长。
 > - **1949–1962** 移居美国及台湾，出任中央研究院院长，1962年逝世于台北。
 
 ---

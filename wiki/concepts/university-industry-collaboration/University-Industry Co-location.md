@@ -10,7 +10,7 @@ aliases:
 summary: "UIDP 定义的产学合作模式，指产业与大学人员在专用空间中有目的地结合，通过缩短物理距离来降低沟通和文化壁垒，促进思想交流和联合研究"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
   - level/higher-education
   - theme/innovation
 related_concepts:
+  - "[[Grandes Ecoles]]"
   - "[[University-Based Research Center]]"
   - "[[Innovation Hub]]"
 related_theories: []
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-09-26
+updated: 2026-10-02
 ---
 
 # Co-location (University-Industry)
@@ -41,7 +42,7 @@ updated: 2026-09-26
 ## 定义
 
 > [!info]
-> 产学共同选址（co-location）指产业与大学人员在大学校园内的专用空间中共同开展研究活动的合作模式。[[University Industry Demonstration Partnership\|UIDP]]（2019）将其定义为"产业与大学人员在专用空间中有目的地结合，成本共担，进行积极的合作或独立研究，其战略意图是通过减少位于不同设施所带来的沟通和文化壁垒来促进思想交流"（p.317）。
+> 产学共同选址（co-location）指产业与大学人员在[[Grandes Ecoles|大学校]]园内的专用空间中共同开展研究活动的合作模式。[[University Industry Demonstration Partnership\|UIDP]]（2019）将其定义为"产业与大学人员在专用空间中有目的地结合，成本共担，进行积极的合作或独立研究，其战略意图是通过减少位于不同设施所带来的沟通和文化壁垒来促进思想交流"（p.317）。
 
 > [!quote]
 > "the purposeful combination of industry and university personnel in a dedicated space in which costs are shared for active collaborative or independent research with the strategic intent of encouraging idea exchange by reducing communication and cultural barriers that accompany the physical challenge of being located in different facilities"（UIDP, 2019, cited on p.317）
@@ -60,7 +61,7 @@ updated: 2026-09-26
 ## 概念辨析
 
 > [!example]
-> - vs [[University-Based Research Center\|大学研究型中心]]：共同选址强调产业人员在大学校园内的物理嵌入和日常共处；大学研究型中心可以没有驻校产业人员
+> - vs [[University-Based Research Center\|大学研究型中心]]：共同选址强调产业人员在[[Grandes Ecoles|大学校]]园内的物理嵌入和日常共处；大学研究型中心可以没有驻校产业人员
 > - vs [[Innovation Hub\|创新中心]]：共同选址是一种空间合作策略，创新中心是更广泛的制度安排，共同选址可以是创新中心的具体实现形式之一
 
 ## 相关案例

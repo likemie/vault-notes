@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -37,13 +37,14 @@ related_facts:
   - "[[Semiconductor Research Corporation]]"
   - "[[Brookings Institution]]"
   - "[[Universal Parallel Computing Research Centers]]"
+  - "[[National Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Byrne_2025_InnovationCenters]]"
   - "[[Argument_Ramming_2025_CorporateSupport]]"
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-09-26
+updated: 2026-10-02
 ---
 
 # CHIPS and Science Act

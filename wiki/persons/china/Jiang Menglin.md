@@ -8,7 +8,7 @@ summary: "民国教育家，哥伦比亚大学师范学院毕业，杜威在华�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,6 +24,7 @@ tags:
   - comparative-education
 related_concepts:
   - "[[Normal School]]"
+  - "[[Grandes Ecoles]]"
   - "[[Recontextualization]]"
   - "[[Democratic Education]]"
   - "[[Scientific Attitude]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-17
+updated: 2026-10-02
 ---
 
 # Jiang Menglin
@@ -57,7 +58,7 @@ updated: 2026-09-17
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 中国民国时期著名教育家、出版家、行政官僚，哥伦比亚大学[[Normal School\|师范学院]]博士，先后任《新教育》杂志主编、北京大学校长及中华民国教育部部长。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.614–615]]）
+> - **身份位置** 中国民国时期著名教育家、出版家、行政官僚，哥伦比亚大学[[Normal School\|师范学院]]博士，先后任《新教育》杂志主编、北京[[Grandes Ecoles|大学校]]长及中华民国教育部部长。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.614–615]]）
 > - **核心角色** [[John Dewey\|杜威]]在华留美学生网络的核心节点，1919–1925年间[[New Education Movement\|新教育运动]]激进民主派的领袖与理论旗手。
 > - **代表贡献** 主导创办并主编《新教育》（*The New Education*）杂志；提出“以教育创造新国家”与学校隔离改造论；深度参与[[1922 Educational System Reform\|1922年学制改革]]七项标准的制定。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.614–618]]）
 
@@ -75,7 +76,7 @@ updated: 2026-09-17
 > - **1919–1921** 与[[Hu Shi\|胡适]]、[[Tao Xingzhi\|陶行知]]等哥大校友共同筹划并全程接待[[John Dewey\|杜威]]在华巡回讲演，构成了杜威思想在华[[Recontextualization\|再脉络化]]的人际基础设施。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.73]]）
 > - **1919–1925** 主编《新教育》，以“养成健全人格、创造进步社会”为宗旨，大力推动激进的[[Democratic Education\|民主教育]]改革。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.614–615]]）
 > - **1925** 《新教育》停刊并由[[Tao Xingzhi\|陶行知]]主编的《新教育评论》取代，标志着新教育运动从“民主”原则向“[[Scientific Attitude\|科学态度]]”原则的[[Paradigm\|范式转换]]。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.619–620]]）
-> - **1930–1945** 出任北京大学校长、行政院秘书长等职，主导战时高教迁移与国家教育行政。
+> - **1930–1945** 出任北京[[Grandes Ecoles|大学校]]长、行政院秘书长等职，主导战时高教迁移与国家教育行政。
 > - **1964** 逝世于台北。
 
 ---

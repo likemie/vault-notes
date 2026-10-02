@@ -7,7 +7,7 @@ summary: "美国心理学者与教育资助慈善战略专家，曾任威廉·T�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Discipline-Based Theory]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
+  - "[[Research Universities]]"
   - "[[Technical Rationality]]"
 related_methods:
   - "[[Network Analysis]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-26
+updated: 2026-10-02
 ---
 
 # Vivian Tseng
@@ -158,7 +159,7 @@ updated: 2026-09-26
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022]] — 传统大学管理层指出，长效伙伴关系与停钟制度在落地时极易遭遇现有大学学科终身教职评审委员会的制度惯性阻力。（pp. 222–223）
 
 > [!warning] 未解问题与边界
-> 慈善基金会的资金规模相较于联邦公共财政仍属局部探索，能否单凭私立慈善的机构挑战资助撬动全美研究型大学庞大的长聘考评体系仍存疑问；此外，在社区高度分裂或利益多元的情境下，如何界定真正代表弱势群体的合法代理人，仍是[[Democratising Evidence\|证据民主化]]在操作层面面临的棘手难题。
+> 慈善基金会的资金规模相较于联邦公共财政仍属局部探索，能否单凭私立慈善的机构挑战资助撬动全美[[Research Universities|研究型大学]]庞大的长聘考评体系仍存疑问；此外，在社区高度分裂或利益多元的情境下，如何界定真正代表弱势群体的合法代理人，仍是[[Democratising Evidence\|证据民主化]]在操作层面面临的棘手难题。
 
 ---
 

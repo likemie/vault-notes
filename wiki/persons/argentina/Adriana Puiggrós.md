@@ -8,10 +8,10 @@ summary: "阿根廷著名教育史学家与批判比较教育学家，曾任阿�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1941"
 died: ""
 lifespan: "1941–至今"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Pedagogical Subject]]"
   - "[[Paradigm]]"
   - "[[Dialogue in Education]]"
+  - "[[Grandes Ecoles]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Popular Education]]"
   - "[[Whiggism]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-02
 ---
 
 # Adriana Puiggrós
@@ -79,7 +80,7 @@ updated: 2026-09-28
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1941** 出生于阿根廷布宜诺斯艾利斯，父亲鲁道夫·普伊格罗斯（Rodolfo Puiggrós）为阿根廷著名马克思主义历史学家、布宜诺斯艾利斯大学校长。
+> - **1941** 出生于阿根廷布宜诺斯艾利斯，父亲鲁道夫·普伊格罗斯（Rodolfo Puiggrós）为阿根廷著名马克思主义历史学家、布宜诺斯艾利斯[[Grandes Ecoles|大学校]]长。
 > - **1960–1974** 毕业于布宜诺斯艾利斯大学教育学系，随后执教于该校，投身工会、学生与左翼教师运动。
 > - **1974** 阿根廷右翼极端势力暗杀威胁与随后的军事政变迫使其流亡墨西哥，进入墨西哥国立自治大学（UNAM）攻读拉丁美洲研究博士学位并任教。
 > - **1980** 在墨西哥出版开创性著作《帝国主义与拉丁美洲教育》（*Imperialismo y educación en América Latina*），将[[Dependency Theory|依附理论]]与[[Hegemony|葛兰西霸权理论]]融汇于拉美教育史研究。

@@ -11,7 +11,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Growth]]"
   - "[[Soft Power]]"
+  - "[[Grandes Ecoles]]"
   - "[[Bildung]]"
   - "[[Liberal Education]]"
   - "[[Cultural Capital]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-12
+updated: 2026-10-02
 ---
 
 # 1960 Bellagio Conference
@@ -100,7 +101,7 @@ updated: 2026-09-12
 > [!actor-grid] 权力—立场矩阵
 > - **改革倡导者 / 经济学家集团** 舒尔茨、德尼森、刘易斯 — 依托计量经济学与增长残差模型，力证教育投资具备极高的资本回报率，主张将教育部门彻底纳入国家经济发展规划。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - **多边组织与慈善资本** [[Organisation for European Economic Co-operation\|OEEC]] 理事会、洛克菲勒基金会、福特基金会 — 寻求冷战背景下超越传统军事援助的新型[[Soft Power\|软实力]]规制杠杆，主张以技术官僚援助重构第三世界政权。
-> - **传统人文教育防御者** 传统欧陆大学校长与保守派教育部官员 — 担忧经济功利主义侵蚀自由[[Bildung\|教化]]（[[Liberal Education]]）传统，抵制将学生降格为劳动力要素与工业机器配件。
+> - **传统人文教育防御者** 传统欧陆[[Grandes Ecoles|大学校]]长与保守派教育部官员 — 担忧经济功利主义侵蚀自由[[Bildung\|教化]]（[[Liberal Education]]）传统，抵制将学生降格为劳动力要素与工业机器配件。
 > - **广大第三世界受援国** 迫切渴望摆脱后殖民贫困与技术依赖，急需获取西方优惠资本与师训支持，但缺乏独立制定宏观教育规划的专业能力。
 
 > [!tension]- 阵营对立与斗争结构

@@ -12,7 +12,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Patient and Public Involvement]]"
   - "[[Science Capital]]"
 related_facts:
+  - "[[Office of Science and Technology Policy]]"
   - "[[PISA]]"
   - "[[OECD]]"
   - "[[The Social Value Model]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Public Attitudes to Science
@@ -60,7 +61,7 @@ updated: 2026-09-22
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 主办主体** 始于 2000 年，由英国政府科学技术办公室（OST）、商业创新与技能部（BIS）、商业能源与产业战略部（BEIS）以及现英国研究与创新署（UK Research and Innovation, UKRI）委托权威民调机构益普索（Ipsos）联合英国科学协会（British Science Association, BSA）长期执行，最新一轮为 2025 年调查报告（PAS 2025）。
+> - **发布时间 / 主办主体** 始于 2000 年，由英国政府科学技术办公室（[[Office of Science and Technology Policy|OST]]）、商业创新与技能部（BIS）、商业能源与产业战略部（BEIS）以及现英国研究与创新署（UK Research and Innovation, UKRI）委托权威民调机构益普索（Ipsos）联合英国科学协会（British Science Association, BSA）长期执行，最新一轮为 2025 年调查报告（PAS 2025）。
 > - **适用地区 / 样本对象** 覆盖全英国 16 岁及以上代表性成年公众样本（Representative UK Adult Population，每轮抽样数千人）。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 9)]]
 > - **问题背景** 为英国政府决策层、国家科研资助体系与科技共同体提供关于公众对科学社会贡献认知、科学家信任度、新兴颠覆性技术（如人工智能、基因编辑）社会伦理接受度，以及重大科技战略决策参与诉求的长期实证基准。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 9–14)]]
 > - **制度位置** 英国公共科学参与（[[Public Engagement with Science]], PES）与科学文化政策领域历史最悠久、公信力最高的全国性宏观民意晴雨表。

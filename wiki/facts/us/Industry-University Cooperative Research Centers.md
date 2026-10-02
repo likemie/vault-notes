@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
   - level/higher-education
   - policy/science-policy
 related_concepts:
+  - "[[Research Universities]]"
   - "[[Industry Advisory Board]]"
   - "[[Academic Freedom]]"
   - "[[Technology Transfer]]"
@@ -55,7 +56,7 @@ updated: 2026-10-02
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1978 年阿特金森出任 NSF 主任期间正式立项试点，后作为长效常态化重大资助计划跨越数十年持续运行至今。
 > - **发起方与资助机制** 由 NSF 发起出资并主导设计，采用“联邦有限种子资金启动 + 工业界企业联盟会员费持续配比”的复合杠杆资助模式，政府资助逐步递减直至中心在财务上由产学联合自给自足。
-> - **覆盖范围与对象** 覆盖全美主要研究型大学工学院与理学院、跨国及中小型高科技制造企业、大学教授及在读理工科博士研究生。
+> - **覆盖范围与对象** 覆盖全美主要[[Research Universities|研究型大学]]工学院与理学院、跨国及中小型高科技制造企业、大学教授及在读理工科博士研究生。
 > - **核心问题导向** 回应 1970 年代越战后经济滞胀、日本制造业崛起对美国工业竞争力的剧烈挤压，以及冷战时期联邦科研资助导致大学学者脱离工业界实际工程需求的深层结构性矛盾。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 37, 40–41)]]
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-10-02
 
 > [!policy-design]- 方案设计
 > - **项目目标** 打破大学象牙塔与私营产业界之间的制度壁垒，推动科研知识向现实生产力高效流动，提升美国高技术产业的国家竞争力。
-> - **覆盖对象** 全美高水平研究型大学前沿实验室、行业领先制造及信息企业研发团队、高校研究生与博士后。
+> - **覆盖对象** 全美高水平[[Research Universities|研究型大学]]前沿实验室、行业领先制造及信息企业研发团队、高校研究生与博士后。
 > - **干预措施** [[National Science Foundation|NSF]] 设立长周期资助轨道（最长可达 11 年），提供基础设施建设与组织管理补贴；各中心成立[[Industry Advisory Board|产业咨询委员会]]，企业按年度缴纳会员费并共同决定中心非专有先导科研选题。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]
 > - **实施控制** 实行基于跨学科产出与产业满意度的同行评审评估；严格划分专有商业秘密与公开学术出版界限，确保[[Academic Freedom|学术自由]]与论文发表权不受侵蚀。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 

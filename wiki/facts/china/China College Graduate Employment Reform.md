@@ -11,7 +11,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Credential Inflation]]"
   - "[[Cultural Capital]]"
+  - "[[Grandes Ecoles]]"
   - "[[Economy of Experience]]"
   - "[[Soft Power]]"
 related_theories: []
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: '2026-05-18'
+updated: 2026-10-02
 ---
 
 # China College Graduate Employment Reform
@@ -80,7 +81,7 @@ updated: '2026-05-18'
 > [!success]
 > - 改革使毕业生获得了前所未有的就业选择自由，但也将其推向了市场化的竞争环境（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）
 > - 在[[Credential Inflation\|文凭通胀]]的背景下，大学生的就业结果愈发依赖家庭[[Cultural Capital\|文化资本]]和个人化优势而非仅仅学业水准
-> - 市场竞争压力与大学校园内非市场化的教育逻辑之间形成了结构性矛盾——学生在两种"游戏规则"之间需要自行导航
+> - 市场竞争压力与[[Grandes Ecoles|大学校]]园内非市场化的教育逻辑之间形成了结构性矛盾——学生在两种"游戏规则"之间需要自行导航
 
 ---
 

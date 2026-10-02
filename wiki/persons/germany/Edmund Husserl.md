@@ -8,7 +8,7 @@ summary: "奥地利-德国哲学家与数学家，现象学奠基人，提出悬
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 24
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
   - "[[Positivism]]"
   - "[[Scientific Method]]"
+  - "[[Grandes Ecoles]]"
   - "[[Nature of Science]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Phenomenon-Based Learning]]"
@@ -44,7 +45,8 @@ related_persons:
   - "[[René Descartes]]"
   - "[[Alfred Schutz]]"
   - "[[Wilhelm Dilthey]]"
-related_facts: []
+related_facts:
+  - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Schaffar_2024_CogentEdu]]"
@@ -53,7 +55,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # Edmund Husserl
@@ -87,7 +89,7 @@ updated: 2026-09-29
 > - **1914–1918年（一战期间）** 承受重大个人打击。次子沃尔夫冈（Wolfgang Husserl）于1916年凡尔登战役中阵亡；长子格哈特（Gerhart Husserl）负伤；母亲于同年病逝；杰出弟子阿道夫·赖纳赫（Adolf Reinach）于1917年阵亡于弗兰德斯战场。
 > - **1916–1928年** 接替新[[Immanuel Kant\|康德]]主义者海因里希·李凯尔特（Heinrich Rickert）担任弗莱堡大学讲席教授。埃迪特·施泰因（Edith Stein）于1916至1918年担任私人助手，马丁·海德格尔（Martin Heidegger）于1920至1923年接任助手。1928年正式退休，由海德格尔接任教席。
 > - **1929年** 在巴黎索邦大学举办讲座，后整理发表为《[[René Descartes\|笛卡尔]]式的沉思》（*Cartesian Meditations*，1931），系统阐明先验自我与主体间性（Intersubjectivity）的构成理论。同年因海德格尔在《存在与时间》中以“此在”（Dasein）取代纯粹先验自我，两人哲学分歧彻底公开化。
-> - **1933–1936年（纳粹迫害）** 因犹太裔血统遭受纳粹政权严重迫害。1933年4月被停职并剥夺大学图书馆使用权，后因阵亡军人家属条款一度缓期，但最终在1936年被彻底取消授课资格。海德格尔出任纳粹治下的弗莱堡大学校长，胡塞尔宣布退出德国科学院。其弟子埃迪特·施泰因后于1942年殉难于奥斯威辛集中营。
+> - **1933–1936年（纳粹迫害）** 因犹太裔血统遭受纳粹政权严重迫害。1933年4月被停职并剥夺大学图书馆使用权，后因阵亡军人家属条款一度缓期，但最终在1936年被彻底取消授课资格。海德格尔出任纳粹治下的弗莱堡[[Grandes Ecoles|大学校]]长，胡塞尔宣布退出德国[[Chinese Academy of Sciences|科学院]]。其弟子埃迪特·施泰因后于1942年殉难于奥斯威辛集中营。
 > - **1935–1936年** 受邀前往布拉格和维也纳发表演讲，整理出版《欧洲科学的危机与先验现象学》（*The Crisis of European Sciences*，1936），系统提出“生活世界”（Lifeworld）理论。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2–3]]
 > - **1938年** 4月27日因胸膜炎病逝于弗莱堡。弗莱堡大学官方无人出席葬礼，仅历史学家格哈德·里特尔（Gerhard Ritter）出席以示抗议，哲学家欧根·芬克（Eugen Fink）宣读悼词。
 > - **1939年** 比利时方济各会修士赫尔曼·凡·布雷达（Herman Van Breda）在二战全面爆发前夕，将胡塞尔遗留的40,000多页加贝尔斯贝格（Gabelsberger）速记手稿及全部藏书秘密偷运至比利时鲁汶大学，建立鲁汶胡塞尔档案馆，使这一庞大思想遗产得以完整留存。

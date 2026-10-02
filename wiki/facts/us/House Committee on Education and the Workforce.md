@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -40,6 +40,7 @@ related_persons:
   - "[[Russell J. Skiba]]"
 related_facts:
   - "[[Institute of Education Sciences]]"
+  - "[[National Defense Education Act of 1958]]"
   - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[Higher Education Act of 1965]]"
   - "[[Reading Excellence Act]]"

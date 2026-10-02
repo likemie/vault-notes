@@ -7,7 +7,7 @@ aliases:
 summary: "Clark Kerr（1963/2001）对美国现代综合性大学的描述，以研究、教学和公共服务三重使命同时服务多元利益相关者，其运转高度依赖财务资源和正向声誉的良性循环"
 type: concept
 domain: "higher-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Attrition]]"
+  - "[[Research Universities]]"
   - "[[Technology Transfer]]"
   - "[[Innovation Ecosystem]]"
 related_theories:
@@ -31,7 +32,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-07-13
+updated: 2026-10-02
 ---
 
 # Multi-University
@@ -70,7 +71,7 @@ updated: 2026-07-13
 ## 理论基础
 
 > [!tip]-
-> - [[Triple Helix]] — 多元大学是 Triple Helix 中"大学"一方的制度形态；现代研究型大学不仅从事教学和研究，还通过[[Technology Transfer\|技术转移]]、初创企业孵化和区域经济发展承担部分产业和政府角色（p.13）
+> - [[Triple Helix]] — 多元大学是 Triple Helix 中"大学"一方的制度形态；现代[[Research Universities|研究型大学]]不仅从事教学和研究，还通过[[Technology Transfer\|技术转移]]、初创企业孵化和区域经济发展承担部分产业和政府角色（p.13）
 > - [[Innovation Ecosystem]] — 多元大学是区域创新生态系统的关键"锚点"；斯坦福大学之于硅谷、MIT 之于波士顿，正是多元大学作为创新锚点的典型案例（pp.12–13）
 
 ---

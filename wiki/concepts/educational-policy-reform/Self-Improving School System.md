@@ -8,10 +8,10 @@ aliases:
 summary: "英格兰基础教育治理转型中的核心政策取向，主张学校与教师承担自我改进的第一责任，依托多学院信托与教学学校联盟实现校际互助与证据扩散，将中央干预降至最低；其实践成效高度依赖学校的研究使用能力，并与延续的高压绩效问责体制存在深层结构性张力。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - field/educational-policy-reform
   - theme/school-improvement
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Activity Traps]]"
+  - "[[Grandes Ecoles]]"
   - "[[Performativity]]"
   - "[[School Leadership]]"
   - "[[Hypothesis]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-10-02
 ---
 
 # Self-Improving School System
@@ -174,7 +175,7 @@ updated: 2026-09-17
 > **高压问责框架对证据知情改进产生挤出效应** 尽管政策宣称赋予[[School Autonomy\|学校自主权]]，但英格兰现行的全国统一考试、排名榜与教育标准局（[[Ofsted]]）督导分级构成了决定性的外在惩戒结构。在严苛问责下，终结性测验数据压倒了一切形成性研究证据，学校往往倾向于揣摩督导员的偏好或盲从流行做法，从而跳过问题成因分析径直扑向解法，深陷形式主义的[[Activity Traps\|活动陷阱]]。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 121–122, 129–131)]]
 
 > [!claim] Ehren, M., Perryman, J. & Shackleton, N.; [[OECD]]
-> **高自主必须与高能力建设和审慎问责形成平衡** 国际经验表明，单纯扩大学校自治空间无法自动带来质量提升；高自主只有与高能力建设和支持性问责协同配套时才能奏效，过度表现主义（[[Performativity]]）的问责机制不仅无法促进自我改进，反而会加剧课程窄化与应试教学。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 121)]]
+> **高自主必须与高能力建设和审慎问责形成平衡** 国际经验表明，单纯扩[[Grandes Ecoles|大学校]]自治空间无法自动带来质量提升；高自主只有与高能力建设和支持性问责协同配套时才能奏效，过度表现主义（[[Performativity]]）的问责机制不仅无法促进自我改进，反而会加剧课程窄化与应试教学。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 121)]]
 
 ---
 

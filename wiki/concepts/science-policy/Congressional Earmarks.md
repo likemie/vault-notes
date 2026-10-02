@@ -9,7 +9,7 @@ aliases:
 summary: "指美国参众两院议员在联邦政府拨款法案中利用立法特权直接塞入、专款定向拨付给本选区特定大学的科研基建资金；该机制彻底绕开了同行评议竞争程序，引发学术界关于科研政治分肥、资源错配与择优公信力受损的深刻争议与反思。"
 type: concept
 domain: "science-policy"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
   - higher-education-finance
   - governance/peer-review
 related_concepts:
+  - "[[Research Universities]]"
   - "[[Center of Calculation]]"
   - "[[Academic Risk Aversion]]"
   - "[[Evaluation Research]]"
@@ -50,7 +51,7 @@ updated: 2026-10-02
 > - **边界** 不等于正常的联邦竞争性科研项目拨款（Competitive Grants），亦不同于各州议会依照法定公式给州立大学的经常性预算拨付，其核心特征在于“绕开同行评议”与“立法定向指定”。
 
 > [!citation-card] 关键表述
-> 尽管国会拨款法案中由众参两院议员塞入的科研专项拨款年度总额相比桥梁、公路、图书馆或医院的专项拨款并不算多，但此类专项拨款却严重规避了作为研究型大学体系基石的同行评议程序。此外，没有任何证据表明为某所大学指定的新大楼或研究设施能让其学术声誉获得实质性提升。跨入领先研究型大学的行列是一个漫长而艰苦的过程，绝无法通过国会专项拨款来抄近道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 44)]]
+> 尽管国会拨款法案中由众参两院议员塞入的科研专项拨款年度总额相比桥梁、公路、图书馆或医院的专项拨款并不算多，但此类专项拨款却严重规避了作为[[Research Universities|研究型大学]]体系基石的同行评议程序。此外，没有任何证据表明为某所大学指定的新大楼或研究设施能让其学术声誉获得实质性提升。跨入领先研究型大学的行列是一个漫长而艰苦的过程，绝无法通过国会专项拨款来抄近道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 44)]]
 >
 > *"Although the annual total of such research-related earmarks is small compared with congressional earmarks for bridges, highways, libraries, or hospitals, such earmarking circumvents the peer review process which is a cornerstone of the research university system. Moreover, there is no evidence that a new building or research facility earmarked for a given university has led to its becoming more highly regarded. Entry into the ranks of leading research universities is a long and arduous process that cannot be short circuited by congressional earmarks."*
 
@@ -85,7 +86,7 @@ updated: 2026-10-02
 ### 1. 国会政治专项拨款绕开同行评议直接损害国家科研体系的择优公信力
 
 > [!claim] 择优公信力的制度性侵蚀
-> 美国研究型大学从战后崛起并保持全球领先的核心制度基石，在于科研经费的分配严格遵循同行评议机制，将国家有限的科研预算投向最具创新力与学术价值的课题。当议员通过专项拨款将数亿美元研发预算直接划归特定大学时，不仅夺走了本可进入竞争性资金池的公共资源，更向全社会传递了“科研靠政治关系而非学术质量”的负面信号，严重动摇了科学家共同体对学术择优评价体系的制度信任。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 44)]]
+> [[Research Universities|美国研究型大学]]从战后崛起并保持全球领先的核心制度基石，在于科研经费的分配严格遵循同行评议机制，将国家有限的科研预算投向最具创新力与学术价值的课题。当议员通过专项拨款将数亿美元研发预算直接划归特定大学时，不仅夺走了本可进入竞争性资金池的公共资源，更向全社会传递了“科研靠政治关系而非学术质量”的负面信号，严重动摇了科学家共同体对学术择优评价体系的制度信任。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 44)]]
 
 ### 2. 政治游说所获的硬件大楼无法使普通高校走捷径跃升为领先研究型大学
 

@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch07"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch07"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[General Education]]"
   - "[[International Education]]"
+  - "[[Grandes Ecoles]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Epistemology]]"
   - "[[Homework]]"
@@ -311,7 +312,7 @@ UWC 早期把和平寄托于潜在领导者的跨国共同生活、救援服务�
 > [!case] [[Armand Hammer United World College of the American West|阿曼德·哈默美国西部联合世界书院]]用一位资助者的承诺解决了三项资金难题
 > - **关键承诺** 阿曼德·哈默（Armand Hammer）承诺购买校址、在其生前弥补赤字，并在去世后提供捐赠基金。
 > - **快速选址** 吉姆·普加什（Jim Pugash）自 1981 年 5 月起考察一百多个地点。5 月发现新墨西哥州蒙特祖马校址，哈默以 100 万美元购入原铁路酒店。
-> - **治理形成** 州长与教育主管承诺清除行政障碍，工作组随即改组为校董会，由前哥伦比亚大学校长威廉·麦吉尔（William McGill）任主席，特德·洛克伍德（Ted Lockwood）任校长。
+> - **治理形成** 州长与教育主管承诺清除行政障碍，工作组随即改组为校董会，由前哥伦比亚[[Grandes Ecoles|大学校]]长威廉·麦吉尔（William McGill）任主席，特德·洛克伍德（Ted Lockwood）任校长。
 > - **按期开学** 1982 年 9 月首批学生入学，来自 46 国；美国、欧洲、南美和中美洲各构成重要生源，苏联、波兰和中国学生的加入依赖哈默个人联系（pp. 175–177）。
 
 > [!dev-timeline] 八个月内从选址委员会推进到教师招聘

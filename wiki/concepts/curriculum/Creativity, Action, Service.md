@@ -10,7 +10,7 @@ aliases:
 summary: "国际文凭大学预科项目的核心要素，通过创意表达、身体活动、社区服务与反思，使学科学习与真实责任发生联系。"
 type: concept
 domain: "curriculum"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_instruments: []
 related_persons:
   - "[[Alec Peterson]]"
 related_facts:
+  - "[[Chinese Academy of Sciences]]"
   - "[[United World Colleges]]"
 related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
@@ -61,7 +62,7 @@ updated: 2026-10-02
 ## 定义
 
 > [!def] 核心定义
-> 创意、行动、服务（[[Creativity]], Action, Service，CAS）是[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）的核心要素。它让学生在学科课程之外参与创意表达、身体活动和社区服务，并通过真实任务、持续参与与反思，把学术学习扩展为责任、协作和行动能力的发展。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 18, 22)]]
+> 创意、行动、服务（[[Creativity]], Action, Service，[[Chinese Academy of Sciences|CAS]]）是[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP）的核心要素。它让学生在学科课程之外参与创意表达、身体活动和社区服务，并通过真实任务、持续参与与反思，把学术学习扩展为责任、协作和行动能力的发展。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 18, 22)]]
 
 > [!concept-lens] 真实经验、学生责任与全人发展
 > - **学习对象** CAS 不是用统一笔试再考一门课，而是让学生在真实情境中发起、参与、合作并承担后果。
@@ -130,7 +131,7 @@ updated: 2026-10-02
 > - **1960 年代后期　先保护时间** [[International Baccalaureate|IBO]] 要求学校每周保留等值半天，避免艺术、身体活动、直接经验和社会服务被大学入学备考挤出。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 45–46)]]
 > - **1970 年代　学校开始地方化共同框架** 莫希[[International Schools|国际学校]]用自力更生连接医疗、农场和公共工程；Bellaire 高中则把学生自我组织作为责任与就业准备。
 > - **1980 年代中期　规模扩大暴露定义和评价难题** 不同地区对学生自治、社会服务和教师评价有不同传统，统一活动清单或统一分数难以维持真实性。
-> - **后续制度化　CAS 成为文凭完成条件** 制度更加强调经验、反思和完成证据，但仍不用 EE 或 [[Theory of Knowledge|TOK]] 的学术分数逻辑评价。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 18, 22)]]
+> - **后续制度化　[[Chinese Academy of Sciences|CAS]] 成为文凭完成条件** 制度更加强调经验、反思和完成证据，但仍不用 EE 或 [[Theory of Knowledge|TOK]] 的学术分数逻辑评价。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 18, 22)]]
 
 ---
 
@@ -147,7 +148,7 @@ updated: 2026-10-02
 ### 命题二　强制打卡可能产生形式合规，却损害真实参与
 
 > [!claim] [[Alec Peterson\|Peterson, A. D. C.]]
-> **质量保障要监测学校是否提供良好条件，不应把所有经验压缩为分数** 彼得森担心，若把文凭资格直接系于形式参与，抵制者可能只完成最低动作，并破坏其他学生的合作经验。他因而支持加强教师指导和文凭附件中的详细档案，不赞成把 CASS 纳入普通积分体系。这是他对当时制度的规范性判断，不是后来 CAS 要求的现状说明。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 182–184)]]
+> **质量保障要监测学校是否提供良好条件，不应把所有经验压缩为分数** 彼得森担心，若把文凭资格直接系于形式参与，抵制者可能只完成最低动作，并破坏其他学生的合作经验。他因而支持加强教师指导和文凭附件中的详细档案，不赞成把 CASS 纳入普通积分体系。这是他对当时制度的规范性判断，不是后来 [[Chinese Academy of Sciences|CAS]] 要求的现状说明。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 182–184)]]
 
 ### 命题三　核心组件只有共享问题与证据，才能形成并发学习
 
@@ -187,7 +188,7 @@ updated: 2026-10-02
 ## 争议与批评
 
 > [!warning] 适用局限
-> - **系统性实践脱节** 在国家课程、高利害大学入学考试和 [[IB Diploma Programme|IBDP]] 并行的学校中，课业压力、课表僵化、教师协作时间不足和反思机制单一，容易使 CAS 退化为孤立任务，未能与学科教学、[[Theory of Knowledge|TOK]] 和 EE 形成连贯。[[Argument_Metli_2022_IJER\|Metli & Akış (2022, pp. 221, 226)]]
+> - **系统性实践脱节** 在国家课程、高利害大学入学考试和 [[IB Diploma Programme|IBDP]] 并行的学校中，课业压力、课表僵化、教师协作时间不足和反思机制单一，容易使 [[Chinese Academy of Sciences|CAS]] 退化为孤立任务，未能与学科教学、[[Theory of Knowledge|TOK]] 和 EE 形成连贯。[[Argument_Metli_2022_IJER\|Metli & Akış (2022, pp. 221, 226)]]
 > - **强制参与的反作用** 若文凭资格依赖学生形式上完成活动，少数抵制者可能只做最低动作，并损害真正参与者的共同经验；[[International Baccalaureate|IBO]] 又没有督学体系独立验证个人参与。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 182–183)]]
 > - **服务可能复制不平等** 若项目只从学生需要成长出发，而不让社区成员定义需求、反馈效果和调整关系，服务容易转为家长主义。
 > - **章内案例不等于效果证明** 海上救援、自然保护和日常陪伴展示了可能形态，但原文没有对学生或社区结果做系统前[[Pre-test and Post-test|后测]]量。
@@ -199,5 +200,5 @@ updated: 2026-10-02
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Peterson_1987_OpenCourt\|Peterson (1987)]] — 追溯 CASS 从保护非学术学习时间的最低制度要求（Ch. 3），到莫希[[International Schools|国际学校]]结合坦桑尼亚自力更生原则形成社区服务（Ch. 4），再到 Bellaire 高中以学生自我组织强调责任和就业准备的本地化路径（Ch. 6）。
 > - [[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 161–191)]] — 比较救援、自然保护和城市日常照护，分析 CASS 定义、强制参与与跨文化评价的成熟期争议。
-> - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 分析 CAS 在 IB 课程架构中的定位及其与 [[Theory of Knowledge\|TOK]] 的跨领域印证机制。
+> - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 分析 [[Chinese Academy of Sciences|CAS]] 在 IB 课程架构中的定位及其与 [[Theory of Knowledge\|TOK]] 的跨领域印证机制。
 > - [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] — 探讨在 [[IB Diploma Programme|IBDP]] 中促进 CAS、TOK 与 EE 之间[[Concurrency of Learning\|并发学习]]的整合策略，主张通过[[Experiential Learning\|经验学习]]将[[Epistemology\|认识论]]思考转化为本地社区服务行动。

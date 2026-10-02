@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 1
+fact_related_count: 2
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -21,6 +21,7 @@ tags:
   - region/africa
   - theme/food-security
 related_concepts:
+  - "[[Research Universities]]"
   - "[[University-Industry Collaboration]]"
 related_theories: []
 related_methods: []
@@ -30,7 +31,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-10-02
 ---
 
 # African Orphan Crops Consortium
@@ -47,7 +48,7 @@ updated: 2026-06-02
 
 > [!abstract]
 > AOCC 是一种少见的合作结构：超过 30 个政府组织、科学和农业机构、大学、企业、区域组织和非政府组织的联盟，外加超过 15 个农业和园艺机构的网络（p.321）。关键特征包括：
-> - **非传统的参与方组合** 跨国企业（Mars）、政府间组织（非盟）、环保 NGO（WWF）和研究型大学（UC Davis）在同一平台上共同定义问题和投入资源
+> - **非传统的参与方组合** 跨国企业（Mars）、政府间组织（非盟）、环保 NGO（WWF）和[[Research Universities|研究型大学]]（UC Davis）在同一平台上共同定义问题和投入资源
 > - **开放获取的知识共享** 所有科学成果免费公开在互联网上，这一 IP 策略与[[University-Industry Collaboration\|产学合作]]中惯常的保密逻辑截然相反
 
 ## 核心数据

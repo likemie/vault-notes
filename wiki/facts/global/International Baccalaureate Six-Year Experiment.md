@@ -9,7 +9,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Predictive Validity]]"
   - "[[Reliability]]"
+  - "[[Grandes Ecoles]]"
   - "[[International Qualification Recognition]]"
 related_theories: []
 related_methods:
@@ -129,7 +130,7 @@ updated: 2026-10-02
 
 > [!tension] 研究控制与服务扩展
 > - **研究控制（蓝方）** 限定少数学校和大学，严格监测[[Predictive Validity\|预测效度]]、[[Reliability\|可靠性]]和课程效果，可以提高研究可控性。
-> - **服务扩展（红方）** 扩大学校、地区和学生类型才能检验普遍适用性，回应现实升学需要，并为考试和组织建立收入基础。试验最终采取后一路径（pp. 61–62）。
+> - **服务扩展（红方）** 扩[[Grandes Ecoles|大学校]]、地区和学生类型才能检验普遍适用性，回应现实升学需要，并为考试和组织建立收入基础。试验最终采取后一路径（pp. 61–62）。
 
 > [!tension] 组织声誉与学生入口
 > - **限制营利性学校（蓝方）** 扩展名额有限时优先非营利学校，可以避免 IB 被外界视为面向富裕学生的商业性“精修学校”资格。

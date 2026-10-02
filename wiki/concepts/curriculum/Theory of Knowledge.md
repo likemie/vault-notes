@@ -8,7 +8,7 @@ aliases:
 summary: "IB 文凭项目的跨学科核心必修课程，通过比较知识形成方式、证据标准与认识边界，连接学科学习、个人经验和批判性反思。"
 type: concept
 domain: "curriculum"
-related_count: 78
+related_count: 79
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -80,7 +80,8 @@ related_persons:
   - "[[John Dewey]]"
   - "[[Paulo Freire]]"
   - "[[Socrates]]"
-related_facts: []
+related_facts:
+  - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Hughes_2014_JRIE]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
@@ -554,4 +555,4 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 > - **学校实施与批判性思维表现** 以[[Mixed Methods Research\|混合方法]]检验澳大利亚学校的 TOK 实施与批判性思维表现。[[Argument_Cole_2015_AJE\|Cole et al. (2015)]]
 > - **评估与科学教育议程** 分析 TOK 评估、教科书和科学教育议程之间的结构性冲突。[[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]
 > - **[[Teacher Beliefs\|教师信念]]与实施挑战** 以混合方法考察 TOK 课程如何重塑教师信念，以及在评估与时间管理上面临的系统性阻力。[[Argument_Bergeron_2019_JRIE\|Bergeron & Rogers (2019)]]
-> - **核心课程的[[Concurrency of Learning\|并发学习]]策略** 以混合方法探讨 TOK 与创造、行动与服务（[[Creativity, Action, Service]]，CAS）、[[Extended Essay\|拓展论文]]（Extended Essay，EE）之间的跨组件连贯性及实践挑战。[[Argument_Metli_2022_IJER\|Metli & Akış (2022)]]
+> - **核心课程的[[Concurrency of Learning\|并发学习]]策略** 以混合方法探讨 TOK 与创造、行动与服务（[[Creativity, Action, Service]]，[[Chinese Academy of Sciences|CAS]]）、[[Extended Essay\|拓展论文]]（Extended Essay，EE）之间的跨组件连贯性及实践挑战。[[Argument_Metli_2022_IJER\|Metli & Akış (2022)]]

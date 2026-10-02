@@ -9,7 +9,7 @@ summary: "美国教育学家，密歇根大学首任教学科学与艺术讲座�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Normal School]]"
   - "[[School Inspection]]"
+  - "[[Grandes Ecoles]]"
   - "[[Epistemology]]"
   - "[[Empiricism]]"
   - "[[Document]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # William H. Payne
@@ -73,7 +74,7 @@ updated: 2026-10-01
 > - **1869–1879** 担任密歇根州阿德里安学区（Adrian School District）学监，以科学化、专业化的督导理念改革地方公立学校，撰写《论[[School Inspection|学校督导]]》（*Chapters on School Supervision*, 1875），成为全美知名的公学行政先驱。
 > - **1879** 密歇根大学董事会创设“教学科学与艺术”教授职位，佩恩受聘成为全美大学第一位全职常设教育学教授；在首期大学讲座中系统讲授欧洲学校制度，标志着大学层次比较教育教学与研究的先导萌芽。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 135 注 1)]]
 > - **1886–1887** 翻译出版法国学者贡佩雷的《教育史》（1886）与《教学法讲义》（1887），极大地丰富了美国大学教育学的欧洲史料与理论资源；1887 年出版代表作《教育科学论》（*Contributions to the Science of Education*），系统论证教育学是一门具备独立哲理与客观法则的独立大学学科。
-> - **1887–1901** 转任皮博迪[[Normal School|师范学院]]院长兼纳什维尔大学校长，致力于美国南部战后公共教育体系重构与现代师资专业化培养。
+> - **1887–1901** 转任皮博迪[[Normal School|师范学院]]院长兼纳什维尔[[Grandes Ecoles|大学校]]长，致力于美国南部战后公共教育体系重构与现代师资专业化培养。
 > - **1901–1907** 重返密歇根大学执教并接续研究，出版《教师教育》（*The Education of Teachers*, 1901）；1907 年逝世于密歇根州安娜堡。
 
 ---

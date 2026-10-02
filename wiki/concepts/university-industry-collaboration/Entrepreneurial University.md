@@ -6,7 +6,7 @@ aliases:
 summary: "Etzkowitz 等（2000）提出的大学模式，大学通过文化适应、组织重构和激励机制主动寻求产业合作与产业资助，区别于传统的象牙塔模式"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ tags:
   - "theme/entrepreneurship"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Research Universities]]"
   - "[[Corporate University]]"
   - "[[Quasi-markets in Higher Education]]"
   - "[[Technology Transfer]]"
@@ -62,7 +63,7 @@ updated: 2026-10-02
 
 > [!example]
 - **vs [[University-Industry Collaboration]]** 产学合作是大学与企业之间的互动关系和活动；创业型大学是大学一方为促进这种互动而采取的组织形态和战略取向
-- **vs 传统研究型大学** 传统研究型大学以基础研究和学术发表为核心使命；创业型大学在不放弃学术使命的前提下，将经济发展和产业参与提升为战略优先事项
+- **vs 传统[[Research Universities|研究型大学]]** 传统研究型大学以基础研究和学术发表为核心使命；创业型大学在不放弃学术使命的前提下，将经济发展和产业参与提升为战略优先事项
 - **vs 企业化大学（[[Corporate University]]）** [[Corporate University]] 是由企业设立或主导的教育培训机构；创业型大学仍是学术机构，只是采用更主动的产学合作战略
 
 

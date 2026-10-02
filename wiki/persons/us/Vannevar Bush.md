@@ -7,10 +7,10 @@ summary: "美国电机工程师、科技管理者与战后科技政策奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1890"
 died: "1974"
 lifespan: "1890–1974"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Linear Model of Innovation]]"
   - "[[Academic Freedom]]"
   - "[[Blue Skies Research]]"
+  - "[[Research Universities]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Soft-Money Faculty Model]]"
@@ -118,7 +119,7 @@ updated: 2026-10-02
 
 > [!influence-path] 影响路径
 > - **政策与机构路径** 直接促成了[[National Science Foundation|美国国家科学基金会]]（NSF）的建立，确立了同行评议与大学同行自主管理的资助体制；为战后国立卫生研究院（[[National Institutes of Health|NIH]]）、能源部（[[Department of Energy|DOE]]）及国防部高级研究计划局（[[DARPA]]）的多机构竞争性格局奠定了母体框架。
-> - **高等教育路径** 使美国顶尖研究型大学由战前的教学本位彻底转变为依托联邦科研经费的研究本位体系，开创了战后美国大学在全球前沿学科的长期垄断地位。
+> - **高等教育路径** 使美国顶尖[[Research Universities|研究型大学]]由战前的教学本位彻底转变为依托联邦科研经费的研究本位体系，开创了战后美国大学在全球前沿学科的长期垄断地位。
 > - **理论[[Paradigm|范式]]路径** 其倡导的“基础研究 $\rightarrow$ 应用研究 $\rightarrow$ 开发制造”单向序列被[[OECD|经合组织]]（OECD）《弗拉斯卡蒂手册》采纳为全球研发统计标准，成为战后主导半个多世纪科技政策的“线性模型”。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
@@ -148,7 +149,7 @@ updated: 2026-10-02
 > > - **历史语境主义辩护** 科技政策史学家指出，布什在 1945 年提出极端的“纯基础研究免受实用干扰”假定，在当时具有极其紧迫的政治防御意图：旨在阻止战后联邦官僚与军方对大学[[Academic Freedom|学术自由]]的过度管控，为战后美国学术界争取到了历史上空前慷慨且不受政治干预的自由资助空间。
 >
 > > [!axis] 布什所播之种 vs 大学能动改造：当代学术危机的历史归因
-> > 当代研究型大学科研系统面临的避险风气、博士生产过剩与学科失衡，究竟应当归咎于布什的顶层设计，还是大学的主动策略？
+> > 当代[[Research Universities|研究型大学]]科研系统面临的避险风气、博士生产过剩与学科失衡，究竟应当归咎于布什的顶层设计，还是大学的主动策略？
 > >
 > > - **外生政策归因论** 传统观点认为，布什确立的竞争性同行评议立项体制本身强化了锦标赛竞争，直接导致了大学被动卷入追求外部经费与量化指标的囚徒困境。
 > > - **大学主动重构论（[[Argument_Stephan_2013_NBER|Stephan, 2013]]）** 经济学家[[Paula Stephan|保拉·斯蒂芬]]指出，战后科研契约的转变主要是由大学自身主导推进的。大学管理层与教师自 1960 年代起主动争取以联邦课题报销专任薪酬（催生[[Soft-Money Faculty Model|软钱教职模式]]）、争取更高间接成本补偿以扩建校舍，并将学生奖学金异化为课题常规用工；布什关于“大学资助高风险研究、以独立奖学金资助研究生、保持医学与其他学科平衡”的三大洞见在大学的自利性适应中被彻底抛弃。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 37)]]

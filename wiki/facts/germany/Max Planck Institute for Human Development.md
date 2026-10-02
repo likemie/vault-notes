@@ -12,7 +12,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_persons:
   - "[[Saul B. Robinsohn]]"
   - "[[Wolfgang Mitter]]"
 related_facts:
+  - "[[Max Planck Society]]"
   - "[[Leibniz Institute for Educational Research and Educational Information]]"
   - "[[Comparative Education Society in Europe]]"
   - "[[IEA]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # Max Planck Institute for Human Development
@@ -54,7 +55,7 @@ updated: 2026-09-29
 ## 机构概况
 
 > [!policy-context] 机构档案
-> - **成立时间 / 主管机构** 1963 年创立于西柏林，直属于德国顶尖基础科研学术联合体——马克斯·普朗克科学促进学会（Max-Planck-Gesellschaft, MPG）。
+> - **成立时间 / 主管机构** 1963 年创立于西柏林，直属于德国顶尖基础科研学术联合体——[[Max Planck Society|马克斯·普朗克科学促进学会]]（Max-Planck-Gesellschaft, MPG）。
 > - **创办领袖** 由德国教育家赫尔穆特·贝克尔（Hellmut Becker）发起创立，汇聚了比较教育学家[[Saul B. Robinsohn|索尔·罗宾逊]]（Saul B. Robinsohn）与社会学家迪特里希·戈尔德施密特（Dietrich Goldschmidt）共同担任联合所长。
 > - **制度定位** 战后联邦德国首个完全独立于传统大学文理哲学院系、专注跨学科教育科学与人类发展的国家级国家级智库研究实体。与位于法兰克福的[[Leibniz Institute for Educational Research and Educational Information|德国国际教育研究所]]（DIPF）并列为联邦德国教育科学研究的两大旗舰中心。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 90)]]
 
@@ -63,7 +64,7 @@ updated: 2026-09-29
 ## 历史沿革与制度定位
 
 > [!timeline] 历史演进
-> - **1963 — 突破大学经院哲学的制度创立** 创立初期定名为“马克斯·普朗克教育研究所”（Institut für Bildungsforschung in der Max-Planck-Gesellschaft）。创立宗旨在于打破西德传统大学“讲座教授个人经院式思辨哲学”对教育研究的垄断，开创汇聚教育学、社会学、经济学、心理学与统计学的现代大型团队研究。
+> - **1963 — 突破大学经院哲学的制度创立** 创立初期定名为“马克斯·普朗克教育研究所”（Institut für Bildungsforschung in der [[Max Planck Society|Max-Planck-Gesellschaft]]）。创立宗旨在于打破西德传统大学“讲座教授个人经院式思辨哲学”对教育研究的垄断，开创汇聚教育学、社会学、经济学、心理学与统计学的现代大型团队研究。
 > - **1960s末–1970s初 — 比较教育社会学实证转向与教改策源地** 在[[Saul B. Robinsohn|索尔·罗宾逊]]主持下，该所成为欧洲教育科学实证转向的核心动力源，开展大规模跨国经验比较研究，并深度参与德国教育委员会（Deutscher Bildungsrat）顶层改革政策研制。
 > - **1971 — 拓展人类终身发展视野与更名** 随着保罗·巴尔特斯（Paul B. Baltes）等发展心理学家的加入，研究所正式更名为“马克斯·普朗克人类发展研究所”（Max-Planck-Institut für Bildungsforschung），研究视界进一步拓展至贯穿全生命周期的人类认知、发展与社会化过程。
 

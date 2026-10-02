@@ -9,16 +9,17 @@ aliases:
 summary: "研究型大学将专任教师薪酬全部或部分转嫁给外部竞争性科研经费资助的聘任模式，大学免除基础薪酬兜底责任，导致学者深度依附项目资助并推高机构财务脆弱性"
 type: concept
 domain: "higher-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - higher-education
   - academic-labor
   - research-funding
   - faculty-employment
 related_concepts:
+  - "[[Research Universities]]"
   - "[[Externalization]]"
   - "[[Variable]]"
 related_theories: []
@@ -47,7 +48,7 @@ updated: 2026-10-02
 ## 定义
 
 > [!def] 核心定义
-> 软钱教职模式（Soft-Money Faculty Model）是指研究型大学或医学院在聘任学术与科研人员时，不提供稳定的机构预算硬钱（hard money）兜底，而是明确要求或常态化依赖教师通过申请外部竞争性科研基金（如 [[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]] 等项目拨款）来支付自身全部或大部分薪资（salary buyout）的雇佣机制。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 30)]]
+> 软钱教职模式（Soft-Money Faculty Model）是指[[Research Universities|研究型大学]]或医学院在聘任学术与科研人员时，不提供稳定的机构预算硬钱（hard money）兜底，而是明确要求或常态化依赖教师通过申请外部竞争性科研基金（如 [[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]] 等项目拨款）来支付自身全部或大部分薪资（salary buyout）的雇佣机制。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 30)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向大学与教师之间财务契约的根本重构：大学将办学人力成本系统性[[Externalization|外部化]]转嫁给联邦资助机构，教师在很大程度上演化为自负盈亏的项目承包者。
@@ -68,7 +69,7 @@ updated: 2026-10-02
 > | **薪酬兜底主体** | 大学本体预算全额保障（学费与经常性拨款） | 外部竞争性课题全额承担，大学零兜底 | 大学保障教学学期底薪（如 9 个月），课题覆盖夏季薪酬或部分冲抵 |
 > | **机构财务风险** | 风险由大学承担（刚性人员经费锁定） | 风险完全转嫁给学者个体（[[Externalization\|外部化]]） | 风险由大学与学者共同分担 |
 > | **科研行为导向** | 容忍长期探索，适度承受失败风险 | 极度规避失败风险，追逐短期稳妥课题 | 维持基准研究，积极争取竞争性增量经费 |
-> | **典型分布领域** | 文科、社会科学与基础数学、理论物理 | 医学院临床与基础系、公立大学高密度科研所 | 大多数公立研究型大学自然科学与工程院系 |
+> | **典型分布领域** | 文科、社会科学与基础数学、理论物理 | 医学院临床与基础系、公立大学高密度科研所 | 大多数公立[[Research Universities\|研究型大学]]自然科学与工程院系 |
 
 ---
 

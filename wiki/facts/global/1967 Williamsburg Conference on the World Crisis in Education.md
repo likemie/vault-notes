@@ -12,7 +12,7 @@ subtype: event
 region: "global"
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 17
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Paradigm]]"
+  - "[[Grandes Ecoles]]"
   - "[[International Education]]"
   - "[[Performance Indicators]]"
   - "[[Structural Adjustment Programs]]"
@@ -40,6 +41,7 @@ related_facts:
   - "[[World Bank]]"
   - "[[UNESCO]]"
   - "[[OECD]]"
+  - "[[Chinese Academy of Sciences]]"
   - "[[International Indicators of Education Systems]]"
   - "[[A Nation at Risk 1983]]"
   - "[[PISA]]"
@@ -49,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-28
+updated: 2026-10-02
 ---
 
 # 1967 Williamsburg Conference on the World Crisis in Education
@@ -63,7 +65,7 @@ updated: 2026-09-28
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1967 年 10 月 5 日至 9 日，在美国弗吉尼亚州历史名镇威廉斯堡（Williamsburg, Virginia）举行。
-> - **核心当事主体** 由美国总统林登·约翰逊（Lyndon B. Johnson）正式倡议发起，[[International Institute for Educational Planning\|联合国教科文组织国际教育规划研究所]]（IIEP）创始所长[[Philip H. Coombs\|菲利普·H·库姆斯]]（Philip H. Coombs）主持议题架构与工作底稿起草，来自全球 52 个国家的教育部长、大学校长、高级经济学家及[[World Bank\|世界银行]]、[[UNESCO\|联合国教科文组织]]等跨国机构领导人出席。
+> - **核心当事主体** 由美国总统林登·约翰逊（Lyndon B. Johnson）正式倡议发起，[[International Institute for Educational Planning\|联合国教科文组织国际教育规划研究所]]（IIEP）创始所长[[Philip H. Coombs\|菲利普·H·库姆斯]]（Philip H. Coombs）主持议题架构与工作底稿起草，来自全球 52 个国家的教育部长、[[Grandes Ecoles|大学校]]长、高级经济学家及[[World Bank\|世界银行]]、[[UNESCO\|联合国教科文组织]]等跨国机构领导人出席。
 > - **深层制度与社会背景** 20 世纪 60 年代伴随二战后婴儿潮与第三世界去殖民化浪潮，各国适龄入学人口激增，传统教育财政面临严峻赤字；同时美苏冷战争夺全球南方阵营，西方大国急需一套技术官僚话语来重塑[[International Education\|国际教育]]援助的合法性。
 > - **直接导火索 / 触发事件** 1966 年林登·约翰逊在夏威夷东西方中心发表演讲呼吁召开全球教育首脑峰会，力图通过输出美国的[[Human Capital Theory\|人力资本]]与系统规划模式抗衡苏联的意识形态输出。
 
@@ -97,7 +99,7 @@ updated: 2026-09-28
 >
 > | 维度 | 西方多边规划阵营 | 社会主义批判阵营 |
 > |:---|:---|:---|
-> | **核心行动者** | [[Philip H. Coombs]]、美国政府、[[International Institute for Educational Planning\|IIEP]]、[[OECD]] | 苏联教育科学院学者、东欧马克思主义理论家 |
+> | **核心行动者** | [[Philip H. Coombs]]、美国政府、[[International Institute for Educational Planning\|IIEP]]、[[OECD]] | 苏联教育[[Chinese Academy of Sciences\|科学院]]学者、东欧马克思主义理论家 |
 > | **危机根源界定** | 技术落后、人口激增、供给滞后于经济现代化需求的系统性失调 | 资本主义阶级固化、劳动力商品化与国家垄断资本危机 |
 > | **核心解决处方** | 跨国指标监测、系统分析、优化人力资本投资与行政效率革新 | 推翻资本主义雇佣劳动制度、实行社会主义计划教育与全面平权 |
 > | **政治功能意图** | 将第三世界纳入西方技术官僚治理与发展主义轨道 | 揭露西方文化帝国主义与新殖民主义政策输出 |

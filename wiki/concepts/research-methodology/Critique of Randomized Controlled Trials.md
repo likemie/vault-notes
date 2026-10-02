@@ -9,7 +9,7 @@ aliases:
 summary: "对随机对照试验（RCT）作为证据本位教育‘黄金标准’的多维度批评体系，涵盖复杂系统认识论悖论、真实学校操作与效度困境，以及政策治理异化与法定单项合格门槛下的合规假象。"
 type: concept
 domain: "research-methodology"
-related_count: 88
+related_count: 89
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -92,6 +92,7 @@ related_persons:
   - "[[Lawrence Manion]]"
   - "[[Robert Slavin]]"
 related_facts:
+  - "[[Chinese Academy of Sciences]]"
   - "[[What Works Clearinghouse]]"
   - "[[World Bank]]"
   - "[[Every Student Succeeds Act]]"
@@ -160,7 +161,7 @@ updated: 2026-10-02
 ## 核心要素
 
 > [!feature] [[Randomised Controlled Trials\|随机对照试验]]批判的三大维度
-> - **[[Ontology\|本体论]]与[[Complexity Theory\|复杂性理论]]解构** 揭示真实教育世界作为复杂适应系统（CAS）所具备的动态[[Emergence\|涌现]]、自组织与整体共生性，论证单向线性[[Independent Variable\|自变量]]控制假定（ceteris paribus）在开放社会生态中的逻辑悖论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 28–30)]]
+> - **[[Ontology\|本体论]]与[[Complexity Theory\|复杂性理论]]解构** 揭示真实教育世界作为复杂适应系统（[[Chinese Academy of Sciences|CAS]]）所具备的动态[[Emergence\|涌现]]、自组织与整体共生性，论证单向线性[[Independent Variable\|自变量]]控制假定（ceteris paribus）在开放社会生态中的逻辑悖论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 28–30)]]
 > - **真实学校生态下的操作与效度困境** 剖析实地学校环境对经典实验假定的结构性破坏，包括主体间干扰（[[Stable Unit Treatment Value Assumption\|SUTVA]] 违背）、未测量教师质量的巨幅混淆、[[Business as Usual\|常态教学]]基线[[Heterogeneity\|异质性]]，以及效力向实效推广的[[Effect Size\|效应量]]断崖衰减。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, pp. 5–9)]]；[[Argument_Berk_2011_ER\|(Berk, 2011, pp. 194–195)]]
 > - **证据治理异化与法定门槛合规假象** 批判循证[[Policy Network\|政策网络]]借用临床医学隐喻将 RCT 奉为[[Rationalized Myth\|合理化神话]]，解剖跨国[[Policy Brokerage\|政策中介]]的技术[[Screening Off\|屏蔽]]机制，以及法定单项合格门槛诱发的“合规假象”与科研供给侧断层。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 17–24)]]；[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 11–13)]]
 

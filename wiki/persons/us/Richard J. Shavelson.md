@@ -10,7 +10,7 @@ summary: "美国当代著名教育心理学家与心理测量学家，斯坦福�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 36
+person_related_count: 37
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -60,6 +60,7 @@ related_persons:
   - "[[Tina Seidel]]"
 related_facts:
   - "[[American Educational Research Association]]"
+  - "[[National Academy of Sciences]]"
   - "[[National Research Council]]"
   - "[[Institute of Education Sciences]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-09-28
+updated: 2026-10-02
 ---
 
 # Richard J. Shavelson

@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 19
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Social Impact Investing]]"
   - "[[Deductible Gift Recipient]]"
+  - "[[Grandes Ecoles]]"
   - "[[Venture Philanthropy]]"
   - "[[Co-affiliation]]"
   - "[[Philanthrocapitalism]]"
@@ -72,7 +73,7 @@ updated: 2026-10-02
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **2012 — 创设与 [[Social Ventures Australia\|SVA]] 子公司奠基** SVA 联合商界顾问[[David Gonski\|戴维·冈斯基]]成立 APS，冈斯基出任董事会主席，SVA 创始人 [[Michael Traill]] 与悉尼大学校监 Belinda Hutchinson 共同进驻董事会，搭建起全澳顶级企业慈善运营团队（ASIC, 2021c；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 7]]）。
+> - **2012 — 创设与 [[Social Ventures Australia\|SVA]] 子公司奠基** SVA 联合商界顾问[[David Gonski\|戴维·冈斯基]]成立 APS，冈斯基出任董事会主席，SVA 创始人 [[Michael Traill]] 与悉尼[[Grandes Ecoles|大学校]]监 Belinda Hutchinson 共同进驻董事会，搭建起全澳顶级企业慈善运营团队（ASIC, 2021c；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 7]]）。
 > - **2012–2017 — SVA 旗下业务暴增与制度协同** 借由联邦《2001年公司法》与税收减免政策红利，APS 迅速成为全澳最大的 PAFs 托管机构；在此期间，其核心董事深度穿梭于联邦政府教育拨款审查委员会（Gonski 1.0 与 2.0）及生产力委员会之间（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 7–9]]）。
 > - **2017–至今 — 名义剥离与隐蔽[[Policy Network\|政策网络]]协同** 根据 ACNC 报表披露，APS 于 2017 年在财务上与 SVA 解除直接母子持股并独立运营；然而官方 ASIC 监管档案显示其历史法人纽带与董事人选依然高度重合，继续充当澳洲[[Venture Philanthropy\|风险慈善]]网络的核心后台枢纽（ASIC, 2021c；SVA, 2017b；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 7, 11]]）。
 
@@ -83,7 +84,7 @@ updated: 2026-10-02
 > [!actor-grid] 组织治理架构与跨界[[Co-affiliation\|共同从属]]
 > - **董事会核心领导层**
 >   - **[[David Gonski\|戴维·冈斯基]]（David Gonski）** 长期担任董事会主席，前澳新银行董事长、Gonski 1.0 与 2.0 审查委员会主席，并兼任[[Australian Schools Plus\|澳大利亚学校加计划]]先驱者委员会主席（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
->   - **贝琳达·哈钦森（Belinda Hutchinson）** 悉尼大学校监、澳新银行与 Qantas 董事；其配偶 Roger Massy-Greene（[[Social Ventures Australia\|SVA]] 核心捐赠人兼尤里卡慈善基金会总监）随后出任 [[Australian Education Research Organisation\|AERO]] 专家委员会委员及 Schools Plus 先驱者委员会委员（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 528–531]]）。
+>   - **贝琳达·哈钦森（Belinda Hutchinson）** 悉尼[[Grandes Ecoles|大学校]]监、澳新银行与 Qantas 董事；其配偶 Roger Massy-Greene（[[Social Ventures Australia\|SVA]] 核心捐赠人兼尤里卡慈善基金会总监）随后出任 [[Australian Education Research Organisation\|AERO]] 专家委员会委员及 Schools Plus 先驱者委员会委员（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 528–531]]）。
 >   - **[[Michael Traill\|迈克尔·特雷尔]]（Michael Traill）** [[Social Ventures Australia\|SVA]] 创办首席执行官、保罗·拉姆齐基金会主席。
 >   - **蒂莫西·费尔法克斯（Timothy Fairfax）** 著名媒体巨头慈善家、SVA 长期核心理事。
 > - **执行机构** 设立专业投资合规团队、基金行政官僚与战略捐赠顾问部门，为富豪家族定制教育、医疗与社会福利领域的资助组合。
@@ -125,7 +126,7 @@ updated: 2026-10-02
 > | [[Philanthrocapitalism]] | 概念 | APS 通过管理私人辅助基金运作商业投资逻辑介入公共福利的核心意识形态。 |
 > | [[Network Governance]] | 概念 | APS 董事在政商慈善多中心网络中的穿梭所体现的新型治理样态。 |
 > | [[Educational Brokerage Agency]] | 概念 | APS 为 SVA 孵化各类教育中介机构提供了坚实的免税后台资本管理支持。 |
-> | [[Co-affiliation]] | 概念 | 其董事会在 Gonski 委员会、SVA、大学校董会与商业银行间的交错体现了典型的共同从属性。 |
+> | [[Co-affiliation]] | 概念 | 其董事会在 Gonski 委员会、SVA、[[Grandes Ecoles\|大学校]]董会与商业银行间的交错体现了典型的共同从属性。 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 关键论证 | 依据 ACNC 与 ASIC 监管档案剖析 SVA 控股实体与董事多重从属构筑的异层[[Policy Network\|政策网络]]。 |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 调取 ASIC 官方档案揭露其作为 SVA 子公司及其在 [[Gonski 2.0]] 审查背后的影子节点角色。 |
 

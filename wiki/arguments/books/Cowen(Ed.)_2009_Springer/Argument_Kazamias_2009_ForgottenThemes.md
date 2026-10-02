@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten Men, Forgotten Themes: The Historical-philosophical-cultural and Liberal Humanist Motif in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 81
+argument_related_count: 82
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -62,6 +62,7 @@ related_concepts:
   - "[[Intangible Spiritual Forces]]"
   - "[[Creativity]]"
   - "[[Ontology]]"
+  - "[[Grandes Ecoles]]"
   - "[[Normal School]]"
   - "[[Scientism]]"
   - "[[Independent Variable]]"
@@ -285,7 +286,7 @@ updated: 2026-09-07
 > - **劳工阶级成人教育拓展（University Extension, 1884）** 早在 1884 年便率先发起大学推广运动，推动高等学术资源走向平民大众与劳工阶层，积极打破精英学术垄断，以具体行动践行新自由主义民主平权诉求。（p.44）
 > - **皇家布莱斯委员会报告（Bryce Commission, 1894–1895）** 出任全英皇家中等教育委员会核心委员，并作为公认的主笔起草了里程碑式的布莱斯报告，为英国 1902 年《巴尔福教育法》（Balfour Act）及地方中等教育公共体系奠定了奠基性蓝图。
 > - **[[Office of Special Inquiries and Reports\|特别调查与报告局]]（Office of Special Inquiries and Reports, OSIR, 1895–1903）** 受命创立并执掌英国教育部的“特别调查与报告署”，亲自将其定义为国家的教育情报署（Educational intelligence office）。萨德勒主持撰写 11 卷跨国教育宏篇巨著，确立了情报署的三大职能：从繁杂争鸣中提炼真实经验、向国民揭示本国在国际竞争中的效能位置、凝聚国家教育发展方向的共识。（Higginson, 1961: 289）
-> - **地方行政咨询与现代大学治理（LEAs & Leeds, 1903–1923）** 1902 年后作为高级独立顾问为全英各地方教育局撰写权威中等教育报告；1907 年规划《大英帝国教育局构想》；1911–1923 年出任利兹大学校长，将新自由主义文化关怀全面注入现代地方大学的组织建设。（Kazamias, 1966: 28–29; Jones, 1971: 49–50; p.45）
+> - **地方行政咨询与现代大学治理（LEAs & Leeds, 1903–1923）** 1902 年后作为高级独立顾问为全英各地方教育局撰写权威中等教育报告；1907 年规划《大英帝国教育局构想》；1911–1923 年出任利兹[[Grandes Ecoles|大学校]]长，将新自由主义文化关怀全面注入现代地方大学的组织建设。（Kazamias, 1966: 28–29; Jones, 1971: 49–50; p.45）
 
 正是依托这一横跨理论思辨与国家智库调查的双重视野，萨德勒在 1900 年著名的吉尔福德演讲中，将唯心主义哲学与宏阔的一线调查经验彻底合流，提炼出名垂青史的比较方法论公理：研究外国教育体系必须认识到校外的事情比校内的事情更为重要，并且支配与诠释着校内的一切。（Sadler, 1900/1964: 310; pp.43–45）
 

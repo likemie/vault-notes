@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 30
+fact_related_count: 31
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -47,6 +47,7 @@ related_persons:
 related_facts:
   - "[[Organisation for European Economic Co-operation]]"
   - "[[OECD]]"
+  - "[[National Defense Education Act of 1958]]"
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[1960 Bellagio Conference]]"
   - "[[Mediterranean Regional Project]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Sputnik Shock 1957

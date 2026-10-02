@@ -33,6 +33,7 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Blue Skies Research]]"
   - "[[Creativity]]"
+  - "[[Research Universities]]"
   - "[[Research Scope]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
@@ -58,7 +59,7 @@ title: "Argument_Caraca_2009_TFSC"
 argument_key: "Argument_Caraca_2009_TFSC"
 argument_display_title: "The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -317,7 +318,7 @@ Kline & Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性模
 >
 > If universities are to interact with such an evolving innovation process then they have to develop a broader knowledge bandwidth. This means gathering better organizational insights and marketing creativity without divesting from excellence in teaching and fundamental scientific research.
 
-> [!citation-card]- 基础研究必须是研究型大学的首要任务
+> [!citation-card]- 基础研究必须是[[Research Universities|研究型大学]]的首要任务
 > 无论商业诱惑多大，基础研究——新知识的发现——必须始终是任何研究型大学的首要任务（Theodor W. Hänsch, 2005 年诺贝尔物理学奖得主, 引自 p.866）。
 >
 > For all the commercial temptations, however, basic research – the discovery of new knowledge – must remain top priority for any research university.

@@ -5,6 +5,50 @@
       "path": "wiki/arguments/journal-articles/Technology in Society/Argument_Atkinson_2008_TIS.md"
     },
     {
+      "basename": "Bayh-Dole Act of 1980",
+      "path": "wiki/facts/us/Bayh-Dole Act of 1980.md"
+    },
+    {
+      "basename": "SBIR and STTR Programs",
+      "path": "wiki/facts/us/SBIR and STTR Programs.md"
+    },
+    {
+      "basename": "Technology Transfer Office",
+      "path": "wiki/concepts/university-industry-collaboration/Technology Transfer Office.md"
+    },
+    {
+      "basename": "Argument_Ulrichsen_2025_UIR_Evolution",
+      "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md"
+    },
+    {
+      "basename": "Fraunhofer Society Model",
+      "path": "wiki/facts/germany/Fraunhofer Society Model.md"
+    },
+    {
+      "basename": "Max Planck Society",
+      "path": "wiki/facts/germany/Max Planck Society.md"
+    },
+    {
+      "basename": "Imperial Universities",
+      "path": "wiki/facts/japan/Imperial Universities.md"
+    },
+    {
+      "basename": "Chinese Academy of Sciences",
+      "path": "wiki/facts/china/Chinese Academy of Sciences.md"
+    },
+    {
+      "basename": "National Defense Education Act of 1958",
+      "path": "wiki/facts/us/National Defense Education Act of 1958.md"
+    },
+    {
+      "basename": "Megascience Installations",
+      "path": "wiki/concepts/political-economy-geopolitics/Megascience Installations.md"
+    },
+    {
+      "basename": "Sputnik Shock 1957",
+      "path": "wiki/facts/us/Sputnik Shock 1957.md"
+    },
+    {
       "basename": "National Institutes of Health",
       "path": "wiki/facts/us/National Institutes of Health.md"
     },
@@ -27,10 +71,6 @@
     {
       "basename": "Morrill Land-Grant Act of 1862",
       "path": "wiki/facts/us/Morrill Land-Grant Act of 1862.md"
-    },
-    {
-      "basename": "Technology Transfer Office",
-      "path": "wiki/concepts/university-industry-collaboration/Technology Transfer Office.md"
     },
     {
       "basename": "Academic Start-up Packages",
@@ -75,10 +115,6 @@
     {
       "basename": "University-Industry Collaboration",
       "path": "wiki/concepts/university-industry-collaboration/University-Industry Collaboration.md"
-    },
-    {
-      "basename": "Bayh-Dole Act of 1980",
-      "path": "wiki/facts/us/Bayh-Dole Act of 1980.md"
     },
     {
       "basename": "Triple Helix",
@@ -163,42 +199,6 @@
     {
       "basename": "Externalization",
       "path": "wiki/concepts/comparative-education/Externalization.md"
-    },
-    {
-      "basename": "Vannevar Bush",
-      "path": "wiki/persons/us/Vannevar Bush.md"
-    },
-    {
-      "basename": "PhD Overproduction in Science",
-      "path": "wiki/concepts/higher-education/PhD Overproduction in Science.md"
-    },
-    {
-      "basename": "Argument_Ryabyy_2024_Maneto",
-      "path": "wiki/arguments/journal-articles/Maneto The Temple University Multi-Disciplinary Undergraduate Research Journal/Argument_Ryabyy_2024_Maneto.md"
-    },
-    {
-      "basename": "Argument_Narayanamurti_2013_IST",
-      "path": "wiki/arguments/journal-articles/Issues in Science & Technology/Argument_Narayanamurti_2013_IST.md"
-    },
-    {
-      "basename": "Venkatesh Narayanamurti",
-      "path": "wiki/persons/us/Venkatesh Narayanamurti.md"
-    },
-    {
-      "basename": "Simon Bolivar United World Institute of Experimental Agriculture",
-      "path": "wiki/facts/venezuela/Simon Bolivar United World Institute of Experimental Agriculture.md"
-    },
-    {
-      "basename": "Kurt Hahn",
-      "path": "wiki/persons/uk/Kurt Hahn.md"
-    },
-    {
-      "basename": "Gerard Renaud",
-      "path": "wiki/persons/global/Gerard Renaud.md"
-    },
-    {
-      "basename": "John Goormaghtigh",
-      "path": "wiki/persons/belgium/John Goormaghtigh.md"
     }
   ],
   "omittedPaths": [],

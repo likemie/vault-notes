@@ -8,7 +8,7 @@ aliases:
 summary: "教育干预在真实学校中是否按设计要求、足够强度和质量被执行的程度，是打开因果机制黑箱并区分实施失败与理论无效的核心中介"
 type: concept
 domain: "educational-policy-reform"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[Paradigm]]"
   - "[[Heterogeneity]]"
+  - "[[Grandes Ecoles]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Document]]"
   - "[[Evidence Standards]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-23'
-updated: 2026-09-26
+updated: 2026-10-02
 ---
 
 # Implementation Fidelity
@@ -256,7 +257,7 @@ updated: 2026-09-26
 > > [!axis] 统计功效大样本诉求 vs 现场实施保真度稀释的内在张力
 > > 争论评估设计是否应该为了降低最小可测[[Effect Size\|效应量]]（MDES）而无限制扩大入组学校数量。
 > >
-> > - **计量经济学与大样本阵营** 主张必须扩大学校招募规模以确保足够的统计检验力，避免产生统计二类错误。
+> > - **计量经济学与大样本阵营** 主张必须扩[[Grandes Ecoles|大学校]]招募规模以确保足够的统计检验力，避免产生统计二类错误。
 > > - **实施科学阵营** 警告多层级师资培训网络极其脆弱，过快扩张必定引发培训衰减，导致课堂端实施质量灾难性滑坡，最终使大样本试验沦为空耗公帑的无信息量测度。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 57)]]
 
 > [!warning] 适用局限

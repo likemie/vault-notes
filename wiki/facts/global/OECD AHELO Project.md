@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
 - level/higher-ed
 related_concepts:
   - "[[Global Universities Rankings]]"
+  - "[[Grandes Ecoles]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # OECD AHELO Project
@@ -68,7 +69,7 @@ updated: 2026-10-01
 ## 争议与评论
 
 > [!warning]
-> - **反对立场（Altbach、顶尖大学校长）** 高等教育课程和培养目标的多样化是有价值的、不应被统一标准抹平；学习成果评估应由各机构自主定义和实施
+> - **反对立场（Altbach、顶尖[[Grandes Ecoles|大学校]]长）** 高等教育课程和培养目标的多样化是有价值的、不应被统一标准抹平；学习成果评估应由各机构自主定义和实施
 > - **支持立场（Usher、部分政策制定者）** 缺乏统一的教学质量测量使排名完全由研究产出主导，不利于重视教学的高校；顶尖大学的反对实际上是维护既有优势
 > - 深层方法论困境：试图"为人类活动的每一个粒子赋予一个数字"（Stephen, 2019）的努力本身具有去人性化的危险，"在定量和定性评估模式之间找到适当平衡是一项需要持续警惕和协商的任务"（Stephen, 2019, cited in [[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.134]]）
 

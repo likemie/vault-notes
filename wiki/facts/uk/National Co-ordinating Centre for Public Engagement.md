@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Social License to Operate]]"
   - "[[Public Engagement with Science]]"
+  - "[[Grandes Ecoles]]"
 related_facts:
   - "[[Higher Education Funding Council for England]]"
   - "[[Research Excellence Framework]]"
@@ -34,7 +35,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-10-02
 ---
 
 # National Co-ordinating Centre for Public Engagement
@@ -75,4 +76,4 @@ updated: 2026-09-04
 > - **赋能专业支持队伍（Engagement Professionals）**
 >   推动英国高校设立全职的公众参与专业支持团队，提供媒体公关、社区联络、伦理合规及伦理反思支持；这一努力直接促成 REF 2029 改革将专业支持人员编制规模正式纳入科研环境核算指标。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society, 2026, pp. 98, 101]]）
 > - **推动资助政策改革与多年期战略投入倡导**
->   向资助机构与大学校长提供咨询，呼吁打破仅依赖个别研究项目短期课题经费的碎片化模式，设立长效、专门的公众参与基础设施基金。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society, 2026, p. 104]]）
+>   向资助机构与[[Grandes Ecoles|大学校]]长提供咨询，呼吁打破仅依赖个别研究项目短期课题经费的碎片化模式，设立长效、专门的公众参与基础设施基金。（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society, 2026, p. 104]]）

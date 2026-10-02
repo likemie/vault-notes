@@ -7,7 +7,7 @@ summary: "美籍著名发展心理学家，康奈尔大学终身教授，生态�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -35,13 +35,14 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Serpell_2020_EP]]"
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Urie Bronfenbrenner
@@ -51,7 +52,7 @@ updated: 2026-09-22
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美籍俄裔著名发展心理学家、教育学家，康奈尔大学人类发展与心理学终身教授，美国艺术与科学院院士。
+> - **身份位置** 美籍俄裔著名发展心理学家、教育学家，康奈尔大学人类发展与心理学终身教授，美国艺术与[[Chinese Academy of Sciences|科学院]]院士。
 > - **核心角色** [[Ecological Systems Theory\|生态系统理论]]（Ecological Systems Theory）与生物生态学模型（Bioecological Model）的奠基宗师。他打破了 20 世纪传统心理学将儿童从真实生活情境中剥离、局限于人工实验室观察的[[Positivism\|实证主义]]局限，开创了多层环境嵌套与情境化人类发展[[Paradigm\|范式]]；同时作为美国联邦贫困儿童早期干预“开端计划”（Head Start）的共同发起人与科学架构师，深刻重塑了 20 世纪全美公共教育与家庭政策。
 > - **代表贡献** 提出生态多层[[Knowledge Mobilisation\|嵌套系统模型]]（微系统、中系统、外系统、宏系统）；开创生命历程中的历时系统（Chronosystem），该构想在 [[Argument_Serpell_2020_EP\|Serpell (2020)]] 中被[[Creativity\|创造性]]引入公共政策分析，催生了[[Policymaking Chronosystem\|政策制定时间系统]]理论；奠定美国国家“开端计划”的公共政策基石。
 

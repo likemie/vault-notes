@@ -5,7 +5,7 @@ aliases:
 summary: "大学生活组织实践的一种模式，表现为缺乏清晰规划、更多依赖直觉和情境反应来应对学习与发展选择。"
 type: concept
 domain: "sociology-of-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -16,6 +16,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Champ]]"
+  - "[[Research Universities]]"
   - "[[Habitus]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Symbolic Boundary]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Intuition-Dependent Mode
@@ -61,7 +62,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!info]
-> 直觉依赖模式（Intuition-Dependent Mode）是大学生组织大学生活的一种实践图式，其特征是：缺乏清晰刻意的生涯目标规划，对大学[[Champ\|场域]]规则和不同毕业出路的要求不甚了解，凭直觉和既往经验被动地应对大学中的选择，在浑然不觉中错失将大学资源转化为毕业出路优势的时机。该概念由[[Yajun Zheng\|郑雅君]]（2023）在对中国两所顶尖研究型大学 62 名毕业班学生的跟踪访谈中提出。
+> 直觉依赖模式（Intuition-Dependent Mode）是大学生组织大学生活的一种实践图式，其特征是：缺乏清晰刻意的生涯目标规划，对大学[[Champ\|场域]]规则和不同毕业出路的要求不甚了解，凭直觉和既往经验被动地应对大学中的选择，在浑然不觉中错失将大学资源转化为毕业出路优势的时机。该概念由[[Yajun Zheng\|郑雅君]]（2023）在对中国两所顶尖[[Research Universities|研究型大学]] 62 名毕业班学生的跟踪访谈中提出。
 
 > [!quote]
 > "直觉依赖模式下的大学生则从未见过迷宫的地图，对其中隐含的规则也不甚了了，更谈不上提前规划路线，因而更可能在里面绕弯子"([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])

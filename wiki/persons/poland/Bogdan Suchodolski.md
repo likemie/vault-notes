@@ -8,7 +8,7 @@ summary: "波兰著名哲学家、教育学家、科学史家与比较教育学�
 type: person
 nationality: poland
 person_region: "poland"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_persons:
   - "[[Nicholas Hans]]"
   - "[[Friedrich Schneider]]"
 related_facts:
+  - "[[Chinese Academy of Sciences]]"
   - "[[Comparative Education Society in Europe]]"
   - "[[UNESCO]]"
 related_arguments:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # Bogdan Suchodolski
@@ -52,7 +53,7 @@ updated: 2026-09-29
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 波兰著名哲学家、教育学家、科学史家与比较教育思想家，波兰科学院（PAN）院士兼科学与技术史研究所所长，华沙大学教育科学系讲座教授；[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）核心元老成员，[[UNESCO|联合国教科文组织]]（[[UNESCO]]）[[International Education|国际教育]]咨询专家。
+> - **身份位置** 波兰著名哲学家、教育学家、科学史家与比较教育思想家，波兰[[Chinese Academy of Sciences|科学院]]（PAN）院士兼科学与技术史研究所所长，华沙大学教育科学系讲座教授；[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）核心元老成员，[[UNESCO|联合国教科文组织]]（[[UNESCO]]）[[International Education|国际教育]]咨询专家。
 > - **核心角色** 战后欧洲比较教育思想界坚守历史哲学与文化理想主义的旗帜性人物。[[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter）在其学科史梳理中，将苏霍多尔斯基与英格兰的[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）及德国的[[Friedrich Schneider|弗里德里希·施奈德]]（Friedrich Schneider）并尊为 20 世纪中叶捍卫“欧洲维度”（European Dimension）与宏大历史文化理想的“三位欧洲大师”（three grand Europeans）。
 > - **代表贡献**
 >   - **捍卫欧洲比较教育的哲学理想主义维度** 抵御冷战极化思维与早期[[Empiricism|经验主义]]浅层化倾向，将比较教育牢固奠基于欧洲自文艺复兴与[[Enlightenment|启蒙运动]]以来的文化哲学与精神史基础之上。
@@ -73,7 +74,7 @@ updated: 2026-09-29
 > - **1920s** 先后在克拉科夫雅盖隆大学（Jagiellonian University）与华沙大学深造，攻读波兰文学、哲学与教育学，并赴巴黎与柏林游学，奠定深厚的多语种欧陆思想学养。
 > - **1938** 出任利沃夫大学（University of Lwów）教授。
 > - **1939–1945** 二战与纳粹占领期间，冒生命危险投身波兰地下秘密大学网络（Tajne komplety），坚持组织地下高等教育与反法西斯文化抵抗。
-> - **1946–1968** 战后受聘出任华沙大学教育学院讲座教授，历任波兰教育学研究所所长、波兰科学院院士及科学与技术史研究所所长。
+> - **1946–1968** 战后受聘出任华沙大学教育学院讲座教授，历任波兰教育学研究所所长、波兰[[Chinese Academy of Sciences|科学院]]院士及科学与技术史研究所所长。
 > - **1960s–1970s** 积极参与跨越冷战铁幕的国际学术交流，作为发起学者之一深度参与[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）学术研讨，并长期出任 [[UNESCO]] [[Lifelong Learning|终身教育]]咨询委员会委员。
 > - **1980s** 荣任波兰国民文化理事会主席，主导波兰面向 21 世纪的文化与教育发展长远战略规划。
 > - **1992** 逝世于波兰华沙，享年 89 岁。

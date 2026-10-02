@@ -10,10 +10,10 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 39
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
-fact_related_color: "#fef3c7"
+fact_related_count: 40
+fact_related_level: 5
+fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_color: "#fecdd3"
 tags:
   - assessment
   - education-reform
@@ -25,6 +25,7 @@ tags:
   - crisis-narrative
 related_concepts:
   - "[[Policy Borrowing]]"
+  - "[[Grandes Ecoles]]"
   - "[[New Public Management]]"
   - "[[International Education]]"
   - "[[Progressive Education]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-26
+updated: 2026-10-02
 ---
 
 # A Nation at Risk 1983
@@ -86,7 +87,7 @@ updated: 2026-09-26
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1981 年 8 月立项组建委员会，1983 年 4 月正式向里根总统发布报告；发源并立足于美国联邦及各州公共教育系统，但迅速产生全球地缘政治与跨国[[Policy Borrowing\|政策借用]]震荡。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 19)]]
-> - **核心当事主体** 美国联邦教育部（United States Department of Education）部长[[Michael Traill\|特雷尔]]·贝尔（Terrel H. Bell）；国家教育卓越委员会（National Commission on Excellence in Education，[[National Center for Education Evaluation and Regional Assistance\|NCEE]]，由犹他大学校长戴维·加德纳担任主席的 18 人独立委员会）；里根（Ronald Reagan）政府；地方公立学区与教师联合会。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, pp. 234–235)]]
+> - **核心当事主体** 美国联邦教育部（United States Department of Education）部长[[Michael Traill\|特雷尔]]·贝尔（Terrel H. Bell）；国家教育卓越委员会（National Commission on Excellence in Education，[[National Center for Education Evaluation and Regional Assistance\|NCEE]]，由犹他[[Grandes Ecoles|大学校]]长戴维·加德纳担任主席的 18 人独立委员会）；里根（Ronald Reagan）政府；地方公立学区与教师联合会。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, pp. 234–235)]]
 > - **深层制度与社会背景** 1970 年代滞胀危机重创美国经济，制造业岗位大量流向西德和日本；冷战科技竞赛与日德工业崛起引发“经济[[Sputnik Shock 1957\|斯普特尼克冲击]]”；1980 年里根当选标志着保守主义回潮，[[New Public Management\|新公共管理]]（New Public Management，NPM）主张将绩效问责与卓越标准引入公共领域；[[International Education\|国际教育]]成就评价协会（[[IEA\|International Association for the Evaluation of Educational Achievement]]，IEA）早期测评数据显示美国学生在跨国横向比较中表现平庸。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 8, 10)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **直接导火索 / 触发事件** 传统[[Progressive Education\|进步主义教育]]在高中课程设置上的碎片化；学术能力评估测试（Scholastic Assessment Test，SAT）平均成绩自 1963 年至 1980 年遭遇长达近二十年的连续下滑；联邦教育部面临被里根政府裁撤的政治危机，教育部长 Bell 试图通过组建独立高级委员会凝聚全国改革共识以保全部门建制。[[Argument_Peterson_1987_OpenCourt_Ch06\|(Peterson, 1987, pp. 137–139)]]
 
@@ -96,7 +97,7 @@ updated: 2026-09-26
 
 > [!dev-timeline]- 事件推进历程
 > - **1981–1983 — 委员会组建与危机修辞锻造** 说明从联邦教育部危机自救到发布震撼性冷战战争隐喻报告的过程。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 19)]]
->   - 1981-08 教育部长 T. H. Bell 成立由 18 位大学校长、教育学者及工商界代表组成的国家教育卓越委员会（[[National Center for Education Evaluation and Regional Assistance\|NCEE]]），受命评估美国公立学校质量、开展跨国基准比较并制定改革建议。
+>   - 1981-08 教育部长 T. H. Bell 成立由 18 位[[Grandes Ecoles|大学校]]长、教育学者及工商界代表组成的国家教育卓越委员会（[[National Center for Education Evaluation and Regional Assistance\|NCEE]]），受命评估美国公立学校质量、开展跨国基准比较并制定改革建议。
 >   - 1982 委员会在全美举行多场公开听证会，广泛搜集学界、企业界与公众对公立中学基础学科软弱、教师资质不足与有效学习时间偏短的抱怨。
 >   - 1983-04 委员会正式向里根总统呈交报告《国家处于危险之中：教育改革势在必行》，以开篇震撼性的军事战争隐喻将教育提升至国家生存安全战略高度。
 > - **1983–1988 — 国内政策震荡与跨国经验汲取** 说明全美各州核心学术课程改革浪潮与对日本教育的密集危机化借用。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, pp. 234–235)]]

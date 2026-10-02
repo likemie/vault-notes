@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch05"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch05"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Creativity, Action, Service]]"
   - "[[Space of Flows and Space of Places]]"
   - "[[Research Utilization]]"
+  - "[[Grandes Ecoles]]"
   - "[[Attrition]]"
 related_persons:
   - "[[Louis Mountbatten]]"
@@ -724,7 +725,7 @@ updated: 2026-09-18
 > | **东道国语言** | 所有学生把意大利语列为一门 IB 语言 | 使国际书院与意大利社会保持制度联系 |
 > | **邻近语言** | 学习足以在周边交流的斯洛文尼亚语 | 的里雅斯特位于意大利、日耳曼和斯拉夫文化交汇处 |
 > | **区域研究** | 建立强有力的阿拉伯研究部门并吸引东地中海学生 | 把书院的招生与课程方向连接到亚得里亚海和地中海位置 |
-> | **成人教育** | 建立与书院相连的国际成人教育中心（International Centre for Adult Education） | 扩大学校对地区与国际社会的服务范围 |
+> | **成人教育** | 建立与书院相连的国际成人教育中心（International Centre for Adult Education） | 扩[[Grandes Ecoles\|大学校]]对地区与国际社会的服务范围 |
 > | **探险与服务** | 发展帆船、滑雪、登山、洞穴活动、救援训练，甚至建议为村庄提供消防队 | 把当地自然环境转化为服务课程，而非机械复制大西洋学院的海上救援（pp. 117–118） |
 
 > [!case] 杜伊诺会议把选址失败转化为教育设计机会

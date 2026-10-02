@@ -9,16 +9,17 @@ aliases:
 summary: "研究型大学向新招聘理工科教职人员提供的专属科研启动资金包，用于实验室装修、昂贵科研仪器购置、研究生与博士后津贴及前三年日常运转，是学者在缺乏外部资助时获取预实验数据参与项目竞争的生存期资助工具。"
 type: concept
 domain: "higher-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - higher-education
   - academic-labor
   - economics-of-science
   - higher-education-finance
 related_concepts:
+  - "[[Research Universities]]"
   - "[[Shopping Mall Model of Research Universities]]"
   - "[[Indirect Costs of Research]]"
   - "[[Document]]"
@@ -57,7 +58,7 @@ updated: 2026-10-02
 ## 定义
 
 > [!def] 核心定义
-> 高校科研启动配套金（Academic Start-up Packages），指研究型大学向新招聘理工科教职人员（助理教授及资深教授）由校方内部预算出资提供的专属一次性科研资助包，用于实验室初期建设、大型仪器设备采购、研究生助研津贴、博士后薪资及实验耗材支出；其核心制度功能是为新进学者提供为期约 3 年的资源缓冲期，使其能够产出初始[[Pilot Testing|预实验]]数据（Pilot Data），从而具备角逐国家级外部竞争性资助（如 [[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]] 基金）的初始资本。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 23–24, 30–31)]]
+> 高校科研启动配套金（Academic Start-up Packages），指[[Research Universities|研究型大学]]向新招聘理工科教职人员（助理教授及资深教授）由校方内部预算出资提供的专属一次性科研资助包，用于实验室初期建设、大型仪器设备采购、研究生助研津贴、博士后薪资及实验耗材支出；其核心制度功能是为新进学者提供为期约 3 年的资源缓冲期，使其能够产出初始[[Pilot Testing|预实验]]数据（Pilot Data），从而具备角逐国家级外部竞争性资助（如 [[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]] 基金）的初始资本。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 23–24, 30–31)]]
 
 > [!concept-lens] 概念透镜
 > - **微观组织职能** 在[[Shopping Mall Model of Research Universities|研究型大学商场模型]]中，启动金相当于商业地产运营方为吸引商户入驻而垫付的“装修与设备铺底补贴”；3 年缓冲期后，学者必须转入自负盈亏的外部资助状态。
@@ -200,5 +201,5 @@ updated: 2026-10-02
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 系统梳理启动配套金在商场模型中的微观功能，揭示其在仪器采购、生师比恶化及学费上涨中的制度传导链条。
-> - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]] — 指出研究型大学为新进青年学者提供实验室[[Assemblage|装配]]启动经费，但后续三年若无法获得外部联邦项目资助则面临离职或退出学术界的严苛淘汰机制。
+> - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]] — 指出[[Research Universities|研究型大学]]为新进青年学者提供实验室[[Assemblage|装配]]启动经费，但后续三年若无法获得外部联邦项目资助则面临离职或退出学术界的严苛淘汰机制。
 

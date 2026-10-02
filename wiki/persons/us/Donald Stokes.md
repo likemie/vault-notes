@@ -9,7 +9,7 @@ summary: "美国政治学家、公共政策学者，普林斯顿大学伍德罗�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Research Universities]]"
   - "[[Technology Transfer]]"
   - "[[Linear Model of Innovation]]"
 related_theories:
@@ -122,7 +123,7 @@ updated: 2026-10-02
 
 > [!influence-path] 影响路径
 > - **政策[[Paradigm|范式]]重构路径** 终结了战后“基础研究必须远离实用”的狭隘教条，为[[National Science Foundation|美国国家科学基金会]]（NSF）、能源部（[[Department of Energy|DOE]]）及国立卫生研究院（[[National Institutes of Health|NIH]]）设立重大战略使命导向的跨学科研究计划（如材料基因组、纳米科技行动计划计划）提供了理论合法性依据。
-> - **高等教育与[[University-Industry Collaboration|产学合作]]路径** 促使全球研究型大学重新审视学术评价体系，使兼顾工业转化与前沿论文发表的应用基础研究摆脱“二等学术”的偏见，直接推动了现代高校[[Technology Transfer|技术转移]]与企业联合实验室的蓬勃发展。
+> - **高等教育与[[University-Industry Collaboration|产学合作]]路径** 促使全球[[Research Universities|研究型大学]]重新审视学术评价体系，使兼顾工业转化与前沿论文发表的应用基础研究摆脱“二等学术”的偏见，直接推动了现代高校[[Technology Transfer|技术转移]]与企业联合实验室的蓬勃发展。
 > - **理论演进路径** 启发了后续学者对[[Linear Model of Innovation|线性创新模型]]的系统解构，成为纳拉亚纳穆尔提等人提出[[Discovery-Invention Cycle|发现-发明循环]]理论的重要思想前阶与对话靶标。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 32–33)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引

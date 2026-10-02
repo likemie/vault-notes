@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 43
+fact_related_count: 44
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
+  - "[[Research Universities]]"
   - "[[Academic Achievement]]"
   - "[[Academic Freedom]]"
   - "[[Policy Borrowing]]"
@@ -118,7 +119,7 @@ updated: 2026-10-02
 > [!pathways]- 业务运行机制
 > - **议程设置** 每年由当任会长确立年度学术年会（CIES Annual Conference）的核心主题，通过会长就职演讲（Presidential Address）直接向国际学界抛出前沿理论与[[Epistemology|认识论]]倡议。
 > - **[[Knowledge Production|知识生产]]与同行评议** CER 期刊实行极为严谨的同行双盲评审规程，每年系统编纂年度比较教育[[Document|文献]]索引，定期发布针对前沿方法与跨国政策的专题审议报告。
-> - **学术奖掖与档案建设** 设立[[George Bereday|乔治·贝雷迪]]奖（George Bereday Award）等学术重奖表彰杰出年度论文；与各大研究型大学档案馆合作推进早期学者手稿保护与学术口述史数字化。
+> - **学术奖掖与档案建设** 设立[[George Bereday|乔治·贝雷迪]]奖（George Bereday Award）等学术重奖表彰杰出年度论文；与各大[[Research Universities|研究型大学]]档案馆合作推进早期学者手稿保护与学术口述史数字化。
 
 ---
 

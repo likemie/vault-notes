@@ -9,7 +9,7 @@ aliases:
 summary: "系统低阶组成部分遵循简单局部规则相互作用时自发产生高阶全局秩序与新结构的非线性动力学过程，整体大于部分之和且无法向下机械还原"
 type: concept
 domain: "educational-philosophy"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -60,7 +60,8 @@ related_persons:
   - "[[Yvonna S. Lincoln]]"
   - "[[Keith Morrison]]"
   - "[[Egon G. Guba]]"
-related_facts: []
+related_facts:
+  - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Emergence
@@ -224,7 +225,7 @@ updated: 2026-09-22
 > [!dev-timeline] 概念演变
 > - **19世纪末–20世纪初 — 涌现哲学萌芽** 乔治·亨利·刘易斯（George Henry Lewes）与康威·劳埃德·摩根（Conwy Lloyd Morgan）提出涌现进化论，格式塔心理学提出“整体大于部分之和”，抗衡机械还原论物理学。
 > - **20世纪中叶 — 系统论与非平衡态热力学** 控制论、一般系统论与伊利亚·普里戈金（Ilya Prigogine）耗散结构理论，揭示远离平衡态的开放系统通过涨落放大自组织涌现新有序结构。
-> - **1980s–1990s — 圣塔菲研究所[[Complexity Theory\|复杂适应系统]]理论** [[Stuart Kauffman\|斯图尔特·考夫曼]]（Stuart Kauffman）、约翰·霍兰德（John Holland）与克雷格·雷诺兹（Craig Reynolds）奠定 CAS 理论，基于主体建模（[[Agent-based Modelling\|ABM]]）将涌现从抽象哲学转化为可计算仿真的严密科学。
+> - **1980s–1990s — 圣塔菲研究所[[Complexity Theory\|复杂适应系统]]理论** [[Stuart Kauffman\|斯图尔特·考夫曼]]（Stuart Kauffman）、约翰·霍兰德（John Holland）与克雷格·雷诺兹（Craig Reynolds）奠定 [[Chinese Academy of Sciences|CAS]] 理论，基于主体建模（[[Agent-based Modelling\|ABM]]）将涌现从抽象哲学转化为可计算仿真的严密科学。
 > - **1980s–2000s — 质性方法论吸纳涌现原则** 伊万娜·林肯（[[Yvonna S. Lincoln]]）与[[Egon G. Guba\|埃贡·古巴]]（[[Egon G. Guba]]）将涌现确立为[[Interpretive Paradigm\|自然主义探究]]核心公理，[[Grounded Theory\|扎根理论]]与[[Emergent Design\|涌现式设计]]成为[[Qualitative Research\|质性研究]]标配规程。
 > - **2000s–至今 — 教育研究复杂性[[Paradigm\|范式]]重构** [[Keith Morrison\|基思·莫里森]]（Keith Morrison）、布伦特·戴维斯（Brent Davis）与萨拉·库恩（Sarah Kuhn）将涌现性引入教育探究，对受控实验与量化还原主义发起系统批判，开辟生态化教育研究范式。
 

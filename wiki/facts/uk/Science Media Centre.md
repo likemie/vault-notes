@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -51,6 +51,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Education Media Centre]]"
+  - "[[Chinese Academy of Sciences]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[PISA]]"
   - "[[EPPI-Centre]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-03'
-updated: 2026-09-13
+updated: 2026-10-02
 ---
 
 # Science Media Centre
@@ -95,7 +96,7 @@ updated: 2026-09-13
 
 > [!actor-grid] 组织治理架构与多元制衡
 > - **受托人董事会（Board of Trustees）** 由资深媒体总编、前沿科学家、法学界专家与公众代表共同组成，负责监管机构运营合规性与战略独立性，确保业务完全脱离政府日常干预与出资方意愿。
-> - **科学顾问委员会（Science Advisory Committee）** 汇集英国各大国家学术院（英国皇家学会、英国医学科学院、皇家工程院等）资深学者，在重大突发科技争议中把关专家库准入标准与科学事实界定。
+> - **科学顾问委员会（Science Advisory Committee）** 汇集英国各大国家学术院（英国皇家学会、英国医学[[Chinese Academy of Sciences|科学院]]、皇家工程院等）资深学者，在重大突发科技争议中把关专家库准入标准与科学事实界定。
 > - **常设编辑执行团队（Editorial Team）** 由兼具新闻采编经验与科学专业背景的[[Science Journalism\|科学新闻]]官组成，实行 7×24 小时新闻议程监测，独立决定突发报道选题并撰写专业导述。
 > - **外部利益冲突审查** 所有入库并发表言论的科学家必须签署严格的利益冲突声明（Declaration of Interests），随专家评语同步公开，确保透明度。
 

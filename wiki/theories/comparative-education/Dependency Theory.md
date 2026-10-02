@@ -8,7 +8,7 @@ aliases:
 summary: "兴起于拉丁美洲并拓展至比较教育的新马克思主义批判路径。拒绝现代化理论将欠发展归结为内部缺失的技术主义假设，主张从全球资本主义世界体系的中心-边缘结构性支配、跨国垄断资本掠夺、受限国家阶级联盟、金融-智识复合体规训及影子国家外包机制出发，解释第三世界国家教育不平等、双轨分流及学术依附；构成战后第四代际批判冲突与跨国宏观范式的核心基石。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 62
+theory_related_count: 63
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Global Universities Rankings]]"
   - "[[Epistemic Governance]]"
   - "[[Positivism]]"
+  - "[[Research Universities]]"
   - "[[Document]]"
   - "[[Educational Multilateralism]]"
   - "[[Structural Adjustment Programs]]"
@@ -90,7 +91,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-06-08
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Dependency Theory
@@ -171,7 +172,7 @@ updated: 2026-10-01
 > [!theory-proposition] 命题三｜后殖民时代的文化输出与学术规范构筑了隐性新殖民主义，导致边缘学者形成非自觉的学术依附
 > **解释** 领土殖民统治瓦解后，西方大都市学术中心、跨国出版垄断集团与[[Global Universities Rankings|全球大学排名]]机构接管了[[Epistemic Governance|知识治理]]权。中心国家通过设定“国际通行”的[[Positivism|实证主义]]研究标准、同行评议规则与知识产权壁垒，使全球南方的学术机构丧失本土议程设置权。边缘学者为了获得国际学术承认，不自觉地将西方理论与评估指标奉为普遍科学规范，陷入“心灵的奴役”（Servitude of the Mind），导致第三世界高等教育成为向中心输送学术原材料并回购理论消费品的依附性附庸。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 4–5)]]; [[Argument_Klerides_2023_CE|(Klerides, 2023, p. 427)]]
 >
-> **应用实例** 亚洲与拉美高水平研究型大学长期以被纳入西方科技[[Document|文献]]索引（如 SCI、SSCI）作为教师晋升与院系评估的首要标准，客观上诱导本土学者将精力投向西方热点，忽视本国基层面临的贫困、文盲与社会不平等现实。
+> **应用实例** 亚洲与拉美高水平[[Research Universities|研究型大学]]长期以被纳入西方科技[[Document|文献]]索引（如 SCI、SSCI）作为教师晋升与院系评估的首要标准，客观上诱导本土学者将精力投向西方热点，忽视本国基层面临的贫困、文盲与社会不平等现实。
 
 ---
 

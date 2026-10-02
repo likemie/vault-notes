@@ -10,7 +10,7 @@ aliases:
 summary: "外部科研资助中用于补偿大学整体科研基础设施折旧、公用事业开销、合规审查及行政支撑等无法直接计入具体项目之费用的补偿机制，战后演化为大学维持物理扩张、偿还基建债务及商业化运作的核心生命线。"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,9 @@ tags:
   - economics-of-science
 related_concepts:
   - "[[Shopping Mall Model of Research Universities]]"
+  - "[[Grandes Ecoles]]"
   - "[[Variable]]"
+  - "[[Research Universities]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -31,6 +33,7 @@ related_instruments: []
 related_persons:
   - "[[Paula Stephan]]"
 related_facts:
+  - "[[Office of Naval Research]]"
   - "[[National Science Foundation]]"
   - "[[Seaborg Report 1960]]"
   - "[[National Institutes of Health]]"
@@ -119,7 +122,7 @@ updated: 2026-10-02
 > 探讨大学如何将间接费作为谈判筹码，重构战后联邦科研资助的权责分配。
 
 > [!claim] [[Paula Stephan|Stephan, P.]]
-> **大学主导推动间接费率机制由固定上限向真实成本报销迁移** 科学经济学家[[Paula Stephan|保拉·斯蒂芬]]（Stephan）指出，战后初期 [[National Science Foundation|NSF]] 对间接成本设定了 15% 的严格封顶，迫使大学自筹大量日常科研开支；1960 年代在《[[Seaborg Report 1960|西博格报告]]》与大学校长团体的强力游说下，联邦政府最终让步，于 1966 年确立了按大学具体成本逐校谈判费率的制度。这一历史转折彻底打破了大学原有的预算自我约束，大学管理层自此将间接费视为无休止的扩张收入来源，积极反客为主倒逼政府不断追加预算。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–16, 37)]]
+> **大学主导推动间接费率机制由固定上限向真实成本报销迁移** 科学经济学家[[Paula Stephan|保拉·斯蒂芬]]（Stephan）指出，战后初期 [[National Science Foundation|NSF]] 对间接成本设定了 15% 的严格封顶，迫使大学自筹大量日常科研开支；1960 年代在《[[Seaborg Report 1960|西博格报告]]》与[[Grandes Ecoles|大学校]]长团体的强力游说下，联邦政府最终让步，于 1966 年确立了按大学具体成本逐校谈判费率的制度。这一历史转折彻底打破了大学原有的预算自我约束，大学管理层自此将间接费视为无休止的扩张收入来源，积极反客为主倒逼政府不断追加预算。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–16, 37)]]
 
 ---
 
@@ -164,7 +167,7 @@ updated: 2026-10-02
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Stephan_2013_NBER\|Stephan (2013)]] | 美国医学院科研建筑债务统计（2003–2008） | 机构调查与财务追踪 | 医学院年均科研建筑偿债额（Debt Service） | 2003 年年均 350 万美元大幅上升至 2008 年年均 690 万美元 | — | 证实间接费机制直接支撑并捆绑了大学的巨额基建借贷 |
-> | [[Argument_Stephan_2013_NBER\|Stephan (2013)]] | 美国研究型大学科研可用净使用面积统计（2001–2011） | 全美高校空间调查 | 科研空间净面积增长率（NASF） | 2001–2011 年间全美高校科研净面积激增 30%，绝大部分集中于生物医药与生命科学大楼 | — | 实证确立了依赖间接费补偿所诱发的物理空间扩张泡沫 |
+> | [[Argument_Stephan_2013_NBER\|Stephan (2013)]] | [[Research Universities\|美国研究型大学]]科研可用净使用面积统计（2001–2011） | 全美高校空间调查 | 科研空间净面积增长率（NASF） | 2001–2011 年间全美高校科研净面积激增 30%，绝大部分集中于生物医药与生命科学大楼 | — | 实证确立了依赖间接费补偿所诱发的物理空间扩张泡沫 |
 
 ---
 

@@ -10,7 +10,7 @@ aliases:
 summary: "指涉政策网络中的精英行动者跨越政府公权力机构、跨国投资银行、营利性咨询公司、慈善信托基金与智库，同时或先后兼任多重董事会席位、高级顾问或审查专员的拓扑结构；揭示其如何通过多重兼职打破科层界限，促成跨界政策理念与商业资本的隐蔽流通，构筑起去中心化但认识论高度同质的异质治理层级。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Multiplicity]]"
   - "[[Venture Philanthropy]]"
+  - "[[Grandes Ecoles]]"
   - "[[Doxa]]"
   - "[[Policy Mobility]]"
   - "[[Deductible Gift Recipient]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-09-26
+updated: 2026-10-02
 ---
 
 # Co-affiliation
@@ -107,7 +108,7 @@ updated: 2026-09-26
 ## 核心要素
 
 > [!feature] 核心要素
-> - **[[Multiplicity\|多重性]]与跨界任职（Multiplicity of Positions）** 核心政策行动者不局限于单一职业标签，而是以商界领袖、慈善信托人、大学校监、国家政策审查委员会主席等多重身份同步介入治理，将特定商业哲学无缝输入公共决策。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–9]]
+> - **[[Multiplicity\|多重性]]与跨界任职（Multiplicity of Positions）** 核心政策行动者不局限于单一职业标签，而是以商界领袖、慈善信托人、[[Grandes Ecoles|大学校]]监、国家政策审查委员会主席等多重身份同步介入治理，将特定商业哲学无缝输入公共决策。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–9]]
 > - **超流动性与权力的关系性生成（Hypermobility & Relational Power）** 异层治理网络呈现出一种持续重塑自我的“超流动性”；权力不再沿正式的韦伯式行政科层线条自上而下逐级下达，而是作为行动者跨界兼职与关系性共同从属的生成性效果而流动展现。[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 527]]
 > - **[[Epistemology\|认识论]]同质性（Epistemic Homophily）** 频繁重叠兼职的精英群体因共享麦肯锡咨询、跨国投行与私募股权职业背景，形成了高度一致的语言语系（如将教育科研称为“证据经纪”、将政策推进称为“买入”），视商业效率与量化审计为[[Doxa\|不言自明]]的公理。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–5]]
 > - **隐性知识与信息套利通道（Tacit Conduits for Capital and Ideas）** 共同从属为理念、立法动向与资金流向提供了制度化的非正式传导通道，使特定利益集团能够在法案起草或国家机构设立前夕精准布局。[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 8]]

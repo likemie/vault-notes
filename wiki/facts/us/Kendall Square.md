@@ -12,9 +12,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
   - "region/us"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[University-Industry Co-location]]"
   - "[[Innovation Park]]"
+  - "[[Research Universities]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Kendall Square
@@ -79,7 +80,7 @@ updated: 2026-09-22
 > 这些成果同时惠及大波士顿社区和各成员高校。CIC 与[[Innovation Park\|研究园区]]在过去三十年中共同成长，验证了"密度就是命运"的理念——通过创建社交和专业活动中心，让创业者、学者和产业人士在同一个物理空间中自然碰撞，形成正向的投资与入驻循环（p.128）。
 
 > [!success]
-> 肯德尔广场的成功已成为全球多个城市效仿的范本——从纽约的 Roosevelt Island 到伦敦的 King's Cross，再到上海的杨浦知识创新区——都在试图复现"研究型大学 + 联合办公 + 产业研发"的空间聚集模式（参见 p.128）。
+> 肯德尔广场的成功已成为全球多个城市效仿的范本——从纽约的 Roosevelt Island 到伦敦的 King's Cross，再到上海的杨浦知识创新区——都在试图复现"[[Research Universities|研究型大学]] + 联合办公 + 产业研发"的空间聚集模式（参见 p.128）。
 
 ---
 
@@ -89,7 +90,7 @@ updated: 2026-09-22
 > 上述关于 CIC 客户数量、活动场次和累计投资的数据来自 CIC 自身网站，并非独立的第三方评估([[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison & Wilson, 2025]])。这意味着数据可能存在选择性呈现或统计口径上的偏差——例如"客户组织"可能包括仅租用一天会议室的企业，"累计投资"可能包含已倒闭企业的历史融资。在引用这些数据时应注明其为运营方自报数据，审慎对待其准确性。
 
 > [!warning]
-> 肯德尔广场模式的一个潜在局限是它的"MIT 依赖性"——区域内的创新活动高度集中于 MIT 的研究优势和人才输出。对于缺乏同等量级研究型大学支撑的城市或区域，直接复制肯德尔广场的空间聚集模式可能效果有限。成功的创新区需要的不仅是物理空间和联合办公设施，更是能够持续产生原创性研究和培养高端人才的学术机构作为"锚点"（参见 pp.128-129）。
+> 肯德尔广场模式的一个潜在局限是它的"MIT 依赖性"——区域内的创新活动高度集中于 MIT 的研究优势和人才输出。对于缺乏同等量级[[Research Universities|研究型大学]]支撑的城市或区域，直接复制肯德尔广场的空间聚集模式可能效果有限。成功的创新区需要的不仅是物理空间和联合办公设施，更是能够持续产生原创性研究和培养高端人才的学术机构作为"锚点"（参见 pp.128-129）。
 
 ---
 

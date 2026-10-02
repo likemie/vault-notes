@@ -6429,6 +6429,32 @@
     ]
   },
   {
+    "title": "Grandes Ecoles",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Grandes Ecoles.md",
+    "aliases": [
+      "法国大学校",
+      "大学校",
+      "法国精英学院",
+      "Grandes Ecoles",
+      "Grande École"
+    ]
+  },
+  {
+    "title": "Humboldtian Model of Higher Education",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Humboldtian Model of Higher Education.md",
+    "aliases": [
+      "洪堡模式",
+      "洪堡理念",
+      "洪堡高等教育模式",
+      "洪堡原则",
+      "Humboldt Model",
+      "Humboldtian University Model",
+      "教学与科研相统一原则"
+    ]
+  },
+  {
     "title": "Indirect Costs of Research",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Indirect Costs of Research.md",
@@ -6607,6 +6633,18 @@
       "高等教育准市场",
       "academic quasi-markets",
       "quasi-markets"
+    ]
+  },
+  {
+    "title": "Research Universities",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Research Universities.md",
+    "aliases": [
+      "研究型大学",
+      "美国研究型大学",
+      "研究型大学体制",
+      "Research University",
+      "US Research Universities"
     ]
   },
   {
@@ -10330,6 +10368,19 @@
       "public utility",
       "Public Utility in Research Funding",
       "长期公共利益"
+    ]
+  },
+  {
+    "title": "Pluralistic Federal Funding System",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Pluralistic Federal Funding System.md",
+    "aliases": [
+      "多元联邦资助体系",
+      "多元资助体系",
+      "美国联邦多元科研资助体系",
+      "多元联邦科研资助系统",
+      "Pluralistic System of Federal Research Support",
+      "Pluralistic Funding System"
     ]
   },
   {
@@ -22773,6 +22824,30 @@
     ]
   },
   {
+    "title": "Chinese Academy of Sciences",
+    "type": "fact",
+    "path": "wiki/facts/china/Chinese Academy of Sciences.md",
+    "aliases": [
+      "中国科学院",
+      "中科院",
+      "CAS",
+      "科学院"
+    ]
+  },
+  {
+    "title": "National Natural Science Foundation of China",
+    "type": "fact",
+    "path": "wiki/facts/china/National Natural Science Foundation of China.md",
+    "aliases": [
+      "国家自然科学基金委员会",
+      "中国国家自然科学基金委员会",
+      "国家自然科学基金委",
+      "自然科学基金委",
+      "NSFC",
+      "National Natural Science Foundation of China, NSFC"
+    ]
+  },
+  {
     "title": "1904 Educational System",
     "type": "fact",
     "path": "wiki/facts/china/1904 Educational System.md",
@@ -23477,6 +23552,19 @@
     ]
   },
   {
+    "title": "Fraunhofer Society Model",
+    "type": "fact",
+    "path": "wiki/facts/germany/Fraunhofer Society Model.md",
+    "aliases": [
+      "弗劳恩霍夫学会",
+      "弗劳恩霍夫协会",
+      "弗劳恩霍夫应用研究促进协会",
+      "Fraunhofer Society",
+      "Fraunhofer-Gesellschaft",
+      "弗劳恩霍夫模式"
+    ]
+  },
+  {
     "title": "German State Educational Institutes and Quality Agencies",
     "type": "fact",
     "path": "wiki/facts/germany/German State Educational Institutes and Quality Agencies.md",
@@ -23540,6 +23628,18 @@
     ]
   },
   {
+    "title": "Max Planck Society",
+    "type": "fact",
+    "path": "wiki/facts/germany/Max Planck Society.md",
+    "aliases": [
+      "马克斯·普朗克学会",
+      "马普学会",
+      "马克斯·普朗克科学促进学会",
+      "MPG",
+      "Max-Planck-Gesellschaft"
+    ]
+  },
+  {
     "title": "Standing Conference of the Ministers of Education and Cultural Affairs",
     "type": "fact",
     "path": "wiki/facts/germany/Standing Conference of the Ministers of Education and Cultural Affairs.md",
@@ -23559,17 +23659,6 @@
       "德国国际教育比较研究中心",
       "ZIB",
       "Centre for International Student Assessment"
-    ]
-  },
-  {
-    "title": "Fraunhofer Society Model",
-    "type": "fact",
-    "path": "wiki/facts/germany/Fraunhofer Society Model.md",
-    "aliases": [
-      "弗劳恩霍夫协会",
-      "弗劳恩霍夫应用研究促进协会",
-      "Fraunhofer Society",
-      "Fraunhofer-Gesellschaft"
     ]
   },
   {
@@ -24749,6 +24838,18 @@
     "aliases": [
       "国体之本义",
       "Cardinal Principles of the National Entity of Japan"
+    ]
+  },
+  {
+    "title": "Imperial Universities",
+    "type": "fact",
+    "path": "wiki/facts/japan/Imperial Universities.md",
+    "aliases": [
+      "帝国大学",
+      "日本帝国大学",
+      "帝国大学体制",
+      "旧帝国大学",
+      "Imperial Universities of Japan"
     ]
   },
   {
@@ -27510,6 +27611,18 @@
       "海军研究办公室",
       "ONR",
       "美国海军研究办公室"
+    ]
+  },
+  {
+    "title": "Office of Science and Technology Policy",
+    "type": "fact",
+    "path": "wiki/facts/us/Office of Science and Technology Policy.md",
+    "aliases": [
+      "科学技术政策办公室",
+      "白宫科学技术政策办公室",
+      "OSTP",
+      "Office of Science and Technology",
+      "OST"
     ]
   },
   {

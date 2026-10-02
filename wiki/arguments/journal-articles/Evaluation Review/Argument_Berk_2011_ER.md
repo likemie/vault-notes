@@ -9,7 +9,7 @@ title: "Argument_Berk_2011_ER"
 argument_key: "Argument_Berk_2011_ER"
 argument_display_title: "Evidence-based versus junk-based evaluation research: Some lessons from 35 years of the Evaluation Review"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -53,6 +53,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Daubert v Merrell Dow Pharmaceuticals 1993]]"
+  - "[[National Academy of Sciences]]"
 related_arguments: []
 sources:
   - "[[sources/Berk_2011_ER|Berk_2011_ER]]"

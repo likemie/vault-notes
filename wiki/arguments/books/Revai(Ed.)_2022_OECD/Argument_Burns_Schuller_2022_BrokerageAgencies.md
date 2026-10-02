@@ -7,7 +7,7 @@ title: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_key: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_display_title: "History and evolution of brokerage agencies in education"
 argument_kind: "book-chapter"
-argument_related_count: 92
+argument_related_count: 94
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -73,6 +73,7 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Effective Teaching]]"
   - "[[Cognitive Deskilling]]"
+  - "[[Research Universities]]"
   - "[[Scientific Literacy]]"
   - "[[Research Literacy]]"
   - "[[Incubation]]"
@@ -131,6 +132,7 @@ related_facts:
   - "[[Centre for Educational Research and Innovation]]"
   - "[[Institute of Education Sciences]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Chinese Academy of Sciences]]"
   - "[[Achieve]]"
 related_arguments: []
 sources:
@@ -433,7 +435,7 @@ updated: 2026-09-24
 > | 机构名称与国别 | 创立背景与治理属性 | 2022 年存续状态 | 存续或夭折的核心制度根源 | 对中介长效治理的学理启示 |
 > |---|---|---|---|---|
 > | **美国有效干预清算中心（[[What Works Clearinghouse\|WWC]]）**<br>（美国） | 联邦[[Institute of Education Sciences\|教育科学研究院]]（Institute of Education Sciences, IES）设立，由专业研究机构竞标承包运营 | **持续活跃** | 依托《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|No Child Left Behind Act]], NCLB）及后续《每一个学生成功法》（Every Student Succeeds Act, ESSA）等联邦法案的法定授权与经常性强制预算，建立严格的随机对照试验准入审查标准。 | 法律强制授权与法定预算保障是抵御政党轮替冲击的根本制度护城河。 |
-> | **循证政策与实践信息协同中心（[[EPPI-Centre]]）**<br>（英国） | 伦敦大学学院教育研究院（University College London Institute of Education, UCL IoE）社会科学研究部下设学术中心 | **持续活跃** | 根植于顶尖研究型大学的深厚学术共同体，采用多元竞争性研究课题基金与国际咨询委托模式，不单纯依附单一政府资助。 | 大学依托型实体具备更强的学术自治韧性与多元化资金对冲能力。 |
+> | **循证政策与实践信息协同中心（[[EPPI-Centre]]）**<br>（英国） | 伦敦大学学院教育研究院（University College London Institute of Education, UCL IoE）社会科学研究部下设学术中心 | **持续活跃** | 根植于顶尖[[Research Universities\|研究型大学]]的深厚学术共同体，采用多元竞争性研究课题基金与国际咨询委托模式，不单纯依附单一政府资助。 | 大学依托型实体具备更强的学术自治韧性与多元化资金对冲能力。 |
 > | **最佳证据综合（[[Best Evidence Synthesis\|BES]]）**<br>（新西兰） | 新西兰教育部内部直属设立并全额资助的常设项目处室 | **职能收缩** | 早期开创“手把手指导”的迭代综合模式；后因执政党更替与部委优先事项转移，官方彻底终止了对新证据综合报告的专项资助，现仅通过转化视频展示既有证据。 | 深度嵌入部委虽能保障政策对齐，但极易随部委领导层变更而被迅速边缘化。 |
 > | **[[Canadian Council on Learning\|加拿大终身学习委员会]]（CCL）**<br>（加拿大） | 联邦政府出资设立的全国性独立非营利机构，横跨联邦与各省 | **彻底关停** | 虽保持运营独立，但高度依赖联邦政府单一财政拨款；在经历联邦政党更迭及省际教育主权管辖权博弈后，联邦财政拨款被直接撤销导致解散。 | 联邦制国家跨行政区划中介机构若缺乏稳定的法定资金协议，极易在政党博弈中被抛弃。 |
 > | **丹麦教育研究清算中心（[[Danish Clearinghouse for Educational Research\|Danish Clearinghouse]]）**<br>（丹麦） | 丹麦教育部与奥胡斯大学合作设立的国家级证据清算枢纽 | **彻底关停（2017年）** | 长期依托政府 2–3 年期的短期专项合同拨款维持运营；2017 年新一届政府调整科研资助方向，未再续签资助合同，机构被迫关闭。 | 缺乏长期制度性预算承诺的短期财政资助模式，是中介机构夭折的核心体制杀手。 |
@@ -504,7 +506,7 @@ updated: 2026-09-24
 
 ## 关键引用
 
-以下引文均出自伯恩斯（[[Tracey Burns]]，[[OECD]]）与[[Tom Schuller|汤姆·舒勒]]（[[Tom Schuller]]，英国社会科学院）的第三章原文。
+以下引文均出自伯恩斯（[[Tracey Burns]]，[[OECD]]）与[[Tom Schuller|汤姆·舒勒]]（[[Tom Schuller]]，英国社会[[Chinese Academy of Sciences|科学院]]）的第三章原文。
 
 > [!citation-card] Burns & Schuller 论政策制定者的系统性脱责隐忧
 > 这种重心的转变是如此彻底，事实上让我们不禁想问，政策制定者是否已经让自己脱责了？从政策文件、资助重点以及[[OECD\|经合组织]]各成员国[[Emergence\|涌现]]的一系列倡议来看，等式的政策一侧已不再是首要焦点，尽管我们在 2007 年苦苦思索的许多核心问题其重要性非但没有减弱反而更加凸显。然而，关注政策至关重要。政策与政治对统领系统、设定问责结构以及与专业机构合作制定从业者认证与许可标准承担着终极责任。政策在确立科研优先次序和引导资金流向上也扮演着不可替代的角色。要在整个教育系统中实现[[Research Utilization\|证据使用]]的有意义变革，既需要对实践的广泛扩散与影响，也需要在政策层面建立系统性的激励、结构与机制。（p. 58）

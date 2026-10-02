@@ -9,7 +9,7 @@ aliases:
 summary: "从国际学校共同资格发展而来的跨国课程与质量保障体系，通过课程核心、考试评价、区域支持和公共治理协调共同标准与地方实施。"
 type: concept
 domain: "curriculum"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -55,6 +55,7 @@ related_instruments:
 related_persons:
   - "[[Alec Peterson]]"
 related_facts:
+  - "[[Chinese Academy of Sciences]]"
   - "[[International School of Geneva]]"
   - "[[UNESCO]]"
   - "[[Standing Conference of Governments of the International Baccalaureate]]"
@@ -111,7 +112,7 @@ updated: 2026-10-02
 
 > [!feature] 课程体系通过四个相互依赖的要素运行
 > - **价值与学习者目标** IB [[IB Learner Profile|学习者培养目标]]把国际理解、探究、反思与责任等使命转化为可贯穿课程的学习者特征。[[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, pp. 210–213)]]
-> - **广度与深度并存的课程结构** [[IB Diploma Programme|IBDP]] 以六个学科组维持学习广度，并用高级与标准层级保留专门化空间。[[Theory of Knowledge|TOK]]、EE 与 CAS 把知识反思、自主研究和校外行动纳入共同核心。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 28–31)]]
+> - **广度与深度并存的课程结构** [[IB Diploma Programme|IBDP]] 以六个学科组维持学习广度，并用高级与标准层级保留专门化空间。[[Theory of Knowledge|TOK]]、EE 与 [[Chinese Academy of Sciences|CAS]] 把知识反思、自主研究和校外行动纳入共同核心。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 28–31)]]
 > - **[[Concurrency of Learning\|并发学习]]** 学科组与核心组件需要在同一学习阶段相互联系。教师借[[Teaching Assistant|助教]]学与学习方法（[[Approaches to Teaching and Learning]]，ATL）促进跨学科迁移，避免学生把六科和三项核心体验理解为彼此分离的任务。[[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, pp. 211–213)]]
 > - **共同标准与多种评价技术** 学科考试、TOK 外部调节、EE 外部评分和 CAS 活动指导处理的学习对象不同。共同标准来自相匹配的评价办法、教师培训和课程复审，而非全部采用同一种外部考试。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 178–185)]]
 
@@ -170,7 +171,7 @@ IBO 在第二个十年逐渐把政策、考试和学校支持分配到不同节�
 ### 命题一　IBDP 核心组件与大学准备和高阶认知表现相关
 
 > [!concept-lens] 教育效能
-> [[Correlational Research|相关研究]]把 [[Theory of Knowledge|TOK]]、EE 与 CAS 视为连接学术学习、反思、自主研究和社会参与的机制。现有结果多为观察性比较或参与者报告，能够说明关联和可能机制，不能把差异全部归因于课程。
+> [[Correlational Research|相关研究]]把 [[Theory of Knowledge|TOK]]、EE 与 [[Chinese Academy of Sciences|CAS]] 视为连接学术学习、反思、自主研究和社会参与的机制。现有结果多为观察性比较或参与者报告，能够说明关联和可能机制，不能把差异全部归因于课程。
 
 > [!claim] Metli, A. & Akış, D.
 > **核心组件承担不同但互补的教育功能** EE 与独立思考、[[Inquiry-Based Learning\|探究学习]]和大学平均绩点（Grade Point Average，[[Academic Achievement|GPA]]）相关；TOK 帮助学生反思[[Knowledge Building Theory|知识建构]]并练习[[Critical Thinking\|批判性思维]]；CAS 经验则与服务伦理、自信和公民责任感相关。三者需要相互联系，单独完成任务不等于形成整体学习。[[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, pp. 220–221)]]
@@ -236,7 +237,7 @@ IBO 在第二个十年逐渐把政策、考试和学校支持分配到不同节�
 >
 > - **1981–1985 年　公共治理、功能分权与课程质量保障成熟**
 >
->   [[Standing Conference of Governments of the International Baccalaureate|国际文凭政府常设会议]]把成员国会费与理事代表制度化；日内瓦中央行政、巴斯考试办公室和区域办事处形成职责分工。TOK、EE 与 CAS 分别发展外部调节、外部评分和教师指导及活动档案等质量保障方式。1983 年超过 500,000 瑞士法郎的预期赤字仍迫使组织暂停课程开发、缩减总部人员并依靠特别拨款，说明制度成熟没有消除财政脆弱性。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 161–168, 178–190)]]
+>   [[Standing Conference of Governments of the International Baccalaureate|国际文凭政府常设会议]]把成员国会费与理事代表制度化；日内瓦中央行政、巴斯考试办公室和区域办事处形成职责分工。TOK、EE 与 [[Chinese Academy of Sciences|CAS]] 分别发展外部调节、外部评分和教师指导及活动档案等质量保障方式。1983 年超过 500,000 瑞士法郎的预期赤字仍迫使组织暂停课程开发、缩减总部人员并依靠特别拨款，说明制度成熟没有消除财政脆弱性。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 161–168, 178–190)]]
 
 > [!entry-map] 延伸条目
 > | 类型 | 条目 | 对理解 IB 的贡献 |
@@ -299,4 +300,4 @@ IBO 在第二个十年逐渐把政策、考试和学校支持分配到不同节�
 > - [[Argument_Peterson_1987_OpenCourt\|Peterson (1987)]] — 系统记录 IB 的创生与制度化历程：六年试验把课程、考试、行政与资格承认整合为常设国际资格（Ch. 4），沃特福德加入 [[United World Colleges\|UWC]] 推动十一月考试季（Ch. 5），地方课程自主与教师培训使 IB 成为北美公立高中的改革工具（Ch. 6），政府参与、功能分权和核心课程评价又支撑第二个十年的成熟运行（Ch. 7）。
 > - [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]] — 分析了 IB 在[[International Education\|国际教育]]中的扩张，并讨论了其质量保障机制及被引入非西方语境时的文化张力。
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 提供了澳大利亚 IB 毕业生在[[Critical Thinking\|批判性思维]]和学术成就上的大规模量化实证数据。
-> - [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] — 聚焦 [[IB Diploma Programme|IBDP]] 核心组件，说明[[Concurrency of Learning|并发学习]]如何把学科与 [[Theory of Knowledge|TOK]]、EE、CAS 连接为整体学习经验。
+> - [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] — 聚焦 [[IB Diploma Programme|IBDP]] 核心组件，说明[[Concurrency of Learning|并发学习]]如何把学科与 [[Theory of Knowledge|TOK]]、EE、[[Chinese Academy of Sciences|CAS]] 连接为整体学习经验。

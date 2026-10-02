@@ -9,7 +9,7 @@ summary: "美国社会学家，斯坦福学派新制度主义与世界社会理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Constructivist Paradigm]]"
   - "[[Policy Borrowing]]"
+  - "[[Research Universities]]"
   - "[[Knowledge Production]]"
   - "[[Epistemology]]"
   - "[[Attrition]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-11'
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # John W. Meyer
@@ -153,7 +154,7 @@ updated: 2026-10-01
 > - **理论路径** 开创[[Stanford School|斯坦福学派]]新制度主义社会学与[[World Society Theory|世界社会理论]]，彻底改写了组织社会学关于正式结构的理性效率假定，并为比较教育学奠定了世界文化[[Paradigm|范式]]（World Culture Perspective）；与国际关系领域的[[Constructivist Paradigm|社会建构主义]]形成理论互补，推动全球治理研究从侧重物质强权的硬治理转向侧重观念、规范与知识的[[Epistemic Governance|知识治理]]。
 > - **方法路径** 倡导大规模、长时段的跨国量化比较研究方法，通过建立战后全球多国入学率数据库、国家课程纲要分类与课时比例数据库、人权与环境条约签署数据库等，奠定了运用宏观跨国面板数据检验微观[[Institutional Isomorphism|制度同构]]效应的研究设计规范。
 > - **政策路径** 深刻影响了联合国教育、科学及文化组织（[[UNESCO]]）、[[OECD|经济合作与发展组织]]（OECD）等跨国机构的监测逻辑与政策话语；迈耶揭示的“理性神话与仪式性脱节”成为评估全球教育改革[[Policy Borrowing|政策借用]]、标准化问责制异化与政策执行落差的标准分析工具。
-> - **跨国／跨领域传播** 斯坦福学派形成了庞大的跨国学术传承，研究脉络从中小学学科知识构成（Benavot）、妇女公民参政权扩展（Ramirez）延伸至当代研究型大学向完全组织的转型（Zapp, Bromley），成为现代高等教育学、国际比较教育学与公共政策分析的核心理论渊源。
+> - **跨国／跨领域传播** 斯坦福学派形成了庞大的跨国学术传承，研究脉络从中小学学科知识构成（Benavot）、妇女公民参政权扩展（Ramirez）延伸至当代[[Research Universities|研究型大学]]向完全组织的转型（Zapp, Bromley），成为现代高等教育学、国际比较教育学与公共政策分析的核心理论渊源。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统辨析迈耶的世界文化流派与[[Immanuel Wallerstein|沃勒斯坦]]的[[Dependency Theory|依附论]]流派，肯定迈耶在解释全球学校制度形式趋同上的奠基贡献，但批判其掩盖了核心国家对边缘国家的资本积累与阶层再生产。
@@ -233,7 +234,7 @@ updated: 2026-10-01
 > | [[Cultural Models\|文化模型]] | 概念 | 提出核心命题；论证源于西方启蒙理性的文化模型是塑造现代国家与学校制度的元脚本。 |
 > | [[Organizational Actorhood\|组织能动者身份]] | 概念 | 合作发展四维度模型；将组织能动者身份界定为世界文化赋予的标准化合法性形式。 |
 > | [[Otherhood\|为他者行动]] | 概念 | 开创性提出；揭示现代组织与专家权威通过“为他者行动”维系去中心化全球秩序的机制。 |
-> | [[Knowledge-Based Economy\|知识经济]] | 概念 | 晚期系统拓展；论证现代研究型大学是全球知识社会的核心制度载体与完全组织典范。 |
+> | [[Knowledge-Based Economy\|知识经济]] | 概念 | 晚期系统拓展；论证现代[[Research Universities\|研究型大学]]是全球知识社会的核心制度载体与完全组织典范。 |
 > | [[Epistemic Governance\|知识治理]] | 概念 | 提供理论根基；阐明观念、科学客观性与理性化脚本何以成为全球治理的核心支配机制。 |
 > | [[Robert Arnove\|罗伯特·阿诺夫]] | 人物 | 师生与学术对话；阿诺夫作为其早期学生，既继承其宏观体系视野，又结合[[Dependency Theory\|依附论]]展开现实主义批判。 |
 > | [[Immanuel Wallerstein\|伊曼努尔·沃勒斯坦]] | 人物 | 学术论敌与对立极；共同构成[[World-Systems Theory\|世界体系分析]]在比较教育学中的两大对立流派（共识论 vs 冲突论）。 |

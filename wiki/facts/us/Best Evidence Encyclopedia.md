@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Research Universities]]"
   - "[[Evidence Standards]]"
   - "[[Technology Infusion]]"
   - "[[Document]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Best Evidence Encyclopedia
@@ -87,7 +88,7 @@ updated: 2026-09-22
 > [!org-context] 机构背景与运营概况
 > - **成立时间 / 创设背景** 2004 年由 JHU CRRE 创设，旨在以[[Best Evidence Synthesis\|最佳证据综合]]法（Best-Evidence Synthesis, BES）解决全美中小学课程方案缺乏高质量定量[[Meta-analysis\|元分析]]综合的学术痛点。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–24)]]
 > - **总部地点 / 业务辐射** 总部设于美国马里兰州巴尔的摩市；专精于学前至高中（Pre-K–12）的阅读、数学、科学、教育技术及全校综合改革方案评价。
-> - **法人属性与经费依托** 依托顶尖研究型大学的专业学术清算机构；主要获得美国联邦教育部 IES 竞争性专项资助及慈善基金会资助。
+> - **法人属性与经费依托** 依托顶尖[[Research Universities|研究型大学]]的专业学术清算机构；主要获得美国联邦教育部 IES 竞争性专项资助及慈善基金会资助。
 > - **在线文库与战略演进** 原始学术文库 [bestevidence.org](https://www.bestevidence.org) 持续在线归档各学科[[Systematic Review\|系统综述]]，而日常面向学校采购的实务评级与决策支持功能已全面升级迁移至符合 [[Every Student Succeeds Act\|ESSA]] [[Evidence Standards\|证据标准]]的交互式旗舰平台 **[[Evidence for ESSA]]**。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, p. 110)]]
 
 ---

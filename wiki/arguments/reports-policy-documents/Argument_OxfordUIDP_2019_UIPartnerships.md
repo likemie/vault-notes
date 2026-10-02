@@ -7,7 +7,7 @@ title: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_key: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_display_title: "Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019"
 argument_kind: "report"
-argument_related_count: 49
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dcfce7"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Responsible Innovation]]"
   - "[[Research and Technology Organisation]]"
   - "[[Problem Solving]]"
+  - "[[Research Universities]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Professors of Practice]]"
   - "[[Literature Review]]"
@@ -449,7 +450,7 @@ RTO 的经验表明，其工作通常与相对邻近的伙伴进行，因此在�
 > 当需求远超供给时，不在 AI/数据科学技术前沿的组织（即"科技巨头"之外的大多数企业）面临获取这些技能的重大障碍——这限制了他们从技术进步中受益的能力，阻碍了关键使能技术在整个经济中的扩散。大学在多数国家是向劳动力市场输送高技能劳动力的关键机构，峰会呼吁本科课程应更加灵活、更能响应经济和社会的长期技能需求（p.37）。
 
 > [!info] 产学合作中被忽视的人才管道：博士与博士后
-> [[League of European Research Universities\|欧洲研究型大学联盟]]（League of European Research Universities，LERU）关于博士和博士后研究人员职业发展的研究揭示了产学合作中的一个核心矛盾：随着博士生数量增加、博士后数量远超学术界可用教职，大多数博士最终不会在学术界工作。然而在职训练仍然围绕着学术职业路径，导师和主要研究者提供的职业支持主要集中在学术界内部。
+> [[League of European Research Universities\|欧洲研究型大学联盟]]（League of European [[Research Universities]]，LERU）关于博士和博士后研究人员职业发展的研究揭示了产学合作中的一个核心矛盾：随着博士生数量增加、博士后数量远超学术界可用教职，大多数博士最终不会在学术界工作。然而在职训练仍然围绕着学术职业路径，导师和主要研究者提供的职业支持主要集中在学术界内部。
 >
 > LERU 研究识别了推动非学术职业路径增长的关键经济变化：
 > - 许多行业越来越由知识资产和创新驱动，创新对企业生存至关重要

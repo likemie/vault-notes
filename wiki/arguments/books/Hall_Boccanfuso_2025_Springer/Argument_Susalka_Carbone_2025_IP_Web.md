@@ -19,6 +19,7 @@ related_concepts:
   - "[[Background IP]]"
   - "[[Technology Transfer]]"
   - "[[Creativity]]"
+  - "[[Grandes Ecoles]]"
   - "[[Technology Transfer Office]]"
 related_theories: []
 related_methods: []
@@ -40,7 +41,7 @@ title: "Argument_Susalka_Carbone_2025_IP_Web"
 argument_key: "Argument_Susalka_Carbone_2025_IP_Web"
 argument_display_title: "Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration"
 argument_kind: "book"
-argument_related_count: 10
+argument_related_count: 11
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"
@@ -118,7 +119,7 @@ Bayh-Dole Act 改变了这一切：大学和其他联邦研究资助接受者现
 **大学从产学合作中获得的利益(pp.273–274)**
 
 - **替代资金来源** 联邦研究资助占比持续下降，产业资金填补了缺口
-- **获取产业资源** 接触大学校园内不存在的大型制造设施、快速原型制作、专用设备等，打开原本无法进行的实验路径
+- **获取产业资源** 接触[[Grandes Ecoles|大学校]]园内不存在的大型制造设施、快速原型制作、专用设备等，打开原本无法进行的实验路径
 - **从实验室到市场的转化通道** 产学合作为学术创新提供了接触终端用户的途径，创新从一开始就面向产业需求开发，不再在实验室孤立发展后等待未来产业方的认可
 - **实时终端用户反馈** 校外合作使研究人员在开发过程中获得来自产业终端用户的使用反馈，这通常是纯粹的大学环境无法提供的
 - **商业成功的经济回报** 根据协议条款，合作成果的成功商业化可为大学带来额外的财务收益

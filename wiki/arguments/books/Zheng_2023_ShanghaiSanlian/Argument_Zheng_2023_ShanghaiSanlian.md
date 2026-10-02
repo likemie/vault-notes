@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 106
+argument_related_count: 108
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Social Engagement]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Research Universities]]"
   - "[[Academic Achievement]]"
   - "[[Emergence]]"
   - "[[Typification]]"
@@ -47,6 +48,7 @@ related_concepts:
   - "[[Cultural Barrier]]"
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
+  - "[[Grandes Ecoles]]"
   - "[[Bildung]]"
   - "[[Literature Review]]"
   - "[[Document]]"
@@ -179,7 +181,7 @@ citation_aliases:
 
 > [!info]
 > - **方法论**[[Constructivist Grounded Theory\|建构主义扎根理论]](Charmaz, 2006)，韦伯诠释学[[Epistemology\|认识论]]——旨在"通过对行动主体的意义阐释，发现看似随机的个人选择背后所显现出的规律性机制"
-> - **田野点** 两所化名为"北方大学"和"南方大学"的顶尖研究型大学——同为百年名校，但学科结构、精神传统和所在地构成系统性对比（北京"又红又专" vs 上海"自由而无用"）
+> - **田野点** 两所化名为"北方大学"和"南方大学"的顶尖[[Research Universities|研究型大学]]——同为百年名校，但学科结构、精神传统和所在地构成系统性对比（北京"又红又专" vs 上海"自由而无用"）
 > - **样本** 62 名毕业班学生的跟踪式[[In-depth Interview\|深度访谈]]（每人均保持联系至确定毕业去向），外加 8 名增补受访者用于第五章分析
 > - **抽样** 两阶段目的抽样——第一阶段 38 名男生（控制性别和 [[Academic Achievement\|GPA]]），第二阶段补充 24 名（增加女生和弱势学生）；兼顾学科、家境、价值观内化程度的差异性分布
 > - **数据来源** 渐进式[[Focused Interview\|聚焦访谈]]（个人生活史→大学就读体验→人生价值与工作，平均约 3 小时，累计 >150 万字[[Transcription in Qualitative Research\|转录]]文本）+ 背景信息[[Questionnaire\|问卷]] + 实地观察笔记
@@ -230,7 +232,7 @@ citation_aliases:
 
 作者[[Epoché|悬置]]"经济人"[[Hypothesis|假设]]和再生产假设，转向从行动者层面理解：学生为何这样选择？其选择意图是如何在大学过程中形成的？
 
-前提假设：学生的毕业去向选择是基于某种目的的审慎选择（承袭[[Rational Action Theory|理性选择理论]]），但不一定仅基于经济利益计算——还可能受韦伯意义上的文化因素和价值理性引导。大学校园被视作一个"充斥着多元价值目标和行动逻辑的'意义竞技场'"。
+前提假设：学生的毕业去向选择是基于某种目的的审慎选择（承袭[[Rational Action Theory|理性选择理论]]），但不一定仅基于经济利益计算——还可能受韦伯意义上的文化因素和价值理性引导。[[Grandes Ecoles|大学校]]园被视作一个"充斥着多元价值目标和行动逻辑的'意义竞技场'"。
 
 **第四步：建构理论框架**
 
@@ -245,7 +247,7 @@ citation_aliases:
 
 **第五步：交代研究设计与全书结构**
 
-- 方法：对两所顶尖研究型大学（化名"北方大学"和"南方大学"）62 名毕业班学生的跟踪式[[In-depth Interview|深度访谈]]，平均时长约 3 小时
+- 方法：对两所顶尖[[Research Universities|研究型大学]]（化名"北方大学"和"南方大学"）62 名毕业班学生的跟踪式[[In-depth Interview|深度访谈]]，平均时长约 3 小时
 - 首轮（2015 秋–2017 初）：38 名家境各异的男性毕业班学生
 - 补充轮（2017 暑假–2018 暑假）：24 名主要来自低阶层背景的本科生，补充了女性和本科生个案
 - 分析策略：运用阐释学方法理解学生毕业出路选择的"意向"如何形成

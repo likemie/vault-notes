@@ -9,9 +9,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: school
 headquarters: "Montezuma, New Mexico, United States"
@@ -23,6 +23,7 @@ tags:
   - theme/boarding-schools
 related_concepts:
   - "[[International Baccalaureate]]"
+  - "[[Grandes Ecoles]]"
   - "[[Creativity, Action, Service]]"
   - "[[Intercultural Education]]"
   - "[[Boarding Schools]]"
@@ -73,7 +74,7 @@ updated: 2026-10-02
 > - **1981 年 5 月 1 日　建立选址委员会** 威尔士亲王主持华盛顿会议，否决租用圣迭戈美国国际大学部分校园的初步设想，成立专门委员会。
 > - **1981 年 5–6 月　考察超过一百个地点** 吉姆·普加什（Jim Pugash）将范围从加州扩大到亚利桑那州，最后收缩至斯科茨代尔和蒙特祖马。
 > - **1981 年 8 月 26 日　地方政府降低许可阻力** 哈默获得州长布鲁斯·金（Bruce King）与州教育主管支持，后者承诺清除行政障碍。
-> - **1981 年 8 月 27 日　工作组改为校董会** 前哥伦比亚大学校长威廉·麦吉尔（William McGill）出任主席。
+> - **1981 年 8 月 27 日　工作组改为校董会** 前哥伦比亚[[Grandes Ecoles|大学校]]长威廉·麦吉尔（William McGill）出任主席。
 > - **1981 年 9 月至 1982 年 2 月　建立管理与教学团队** 特德·洛克伍德（Ted Lockwood）出任校长，杰克·马修斯（Jack Matthews）担任顾问，安德鲁·麦克尔霍斯（Andrew Maclehose）参与课程规划；11 个教师岗位平均各收到约 25 份申请。
 > - **1982 年 9–10 月　首届学生入学** 学生来自 46 个国家，10 月 27 日举行成立典礼。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 175–177)]]
 

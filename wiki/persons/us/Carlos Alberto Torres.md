@@ -8,7 +8,7 @@ summary: "阿根廷裔批判教育社会学者，加州大学洛杉矶分校杰�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 36
+person_related_count: 37
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -62,6 +62,7 @@ related_persons:
   - "[[Robert Arnove]]"
 related_facts:
   - "[[World Bank]]"
+  - "[[Chinese Academy of Sciences]]"
   - "[[World Council of Comparative Education Societies]]"
   - "[[UNESCO]]"
 related_arguments:
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-19
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Carlos Alberto Torres
@@ -93,7 +94,7 @@ updated: 2026-10-01
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1950** 出生于阿根廷布宜诺斯艾利斯，早年求学于阿根廷与墨西哥拉丁美洲社会科学院（FLACSO），受[[Paulo Freire|弗莱雷]]与拉美依附学派思想熏陶。
+> - **1950** 出生于阿根廷布宜诺斯艾利斯，早年求学于阿根廷与墨西哥拉丁美洲社会[[Chinese Academy of Sciences|科学院]]（FLACSO），受[[Paulo Freire|弗莱雷]]与拉美依附学派思想熏陶。
 > - **1980s** 赴加拿大斯坦福大学与多伦多大学进修并获得教育社会学博士学位；长期在拉美开展成人教育政策、识字运动与工会政治实证考察。
 > - **1990s** 任职于加州大学洛杉矶分校教育研究生院，1993 年创立 UCLA 保罗·弗莱雷研究所并出任创始主任；系统提出参与式行动研究的五项批判原则（1992）。
 > - **2000s–2010s** 晋升 UCLA 杰出教育学教授，历任[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）主席（2013–2016）与[[UNESCO|联合国教科文组织]][[Global Citizenship|全球公民教育]]教席；与[[Liliana Esther Olmos|奥尔莫斯]]合著多篇关于[[Conditioned State Theory|受限国家]]与全球化教育政治经济学的奠基性[[Document|文献]]。

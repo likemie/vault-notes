@@ -7,7 +7,7 @@ aliases:
 summary: "Angermuller 的话语理论概念，将学术交流分析为行动者通过职称、机构隶属和发表记录等地位范畴持续主张自身位置和界定他人归属的日常话语实践，构成学术等级的微观再生产"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Champ]]"
+  - "[[Research Universities]]"
   - "[[Discursive Stratification]]"
   - "[[Field Images]]"
   - "[[Academic Oligarchy]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-09-10
+updated: 2026-10-02
 ---
 
 # Positioning Practice
@@ -61,7 +62,7 @@ updated: 2026-09-10
 
 ### 自我定位与他人定位
 
-定位不仅是关于"我是谁"，更是关于"你不是谁"。"我是 tenure-track assistant professor at an R1 university"——这句话同时完成了对自己的定位（研究型大学的正式教职轨道）和对他人的隐性定位（非 R1、非 tenure-track、非研究导向的同行"不在此列"）。这种双重操作使得等级在每一次看似中立的自我介绍中被悄然再生产。
+定位不仅是关于"我是谁"，更是关于"你不是谁"。"我是 tenure-track assistant professor at an R1 university"——这句话同时完成了对自己的定位（[[Research Universities|研究型大学]]的正式教职轨道）和对他人的隐性定位（非 R1、非 tenure-track、非研究导向的同行"不在此列"）。这种双重操作使得等级在每一次看似中立的自我介绍中被悄然再生产。
 
 ### 制度刚性的赋予
 

@@ -7,7 +7,7 @@ aliases:
 summary: "课程设计原则，指学生在同一阶段内同时学习多门学科并在不同学科（尤其是核心课程组件）之间建立联系，以促进跨学科的整体学习体验。"
 type: concept
 domain: "curriculum"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,13 +32,14 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Metli_2022_IJER]]"
 confidence: medium
 status: active
 created: 2026-08-06
-updated: 2026-09-17
+updated: 2026-10-02
 ---
 
 # Concurrency of Learning
@@ -52,7 +53,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调学习进程的时间同步性与跨学科认知维度的互联性。
-> - **用途** 广泛用于评估[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）项目（如中学项目（Middle Years Programme，MYP）、预科项目（Diploma Programme，DP））等强调整体教育的课程体系中，各科目与核心组件（如[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）、[[Extended Essay\|拓展论文]]（Extended Essay，EE）、[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Activity, Service，CAS））是否形成了连贯的教育体验。
+> - **用途** 广泛用于评估[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）项目（如中学项目（Middle Years Programme，MYP）、预科项目（Diploma Programme，DP））等强调整体教育的课程体系中，各科目与核心组件（如[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）、[[Extended Essay\|拓展论文]]（Extended Essay，EE）、[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Activity, Service，[[Chinese Academy of Sciences|CAS]]））是否形成了连贯的教育体验。
 > - **边界** 它有别于单纯的多学科串行拼盘，要求学习者和教师具备跨领域建立知识链接的能力，通常需要强制的反思与协同备课机制来支撑。
 
 ---

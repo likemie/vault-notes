@@ -9,10 +9,10 @@ summary: "美国当代著名科学经济学家，佐治亚州立大学经济学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1947"
 died: ""
 lifespan: "1947–至今"
@@ -39,6 +39,7 @@ related_facts:
   - "[[American Association for the Advancement of Science]]"
   - "[[National Research Council]]"
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[National Academy of Sciences]]"
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
   - "[[Department of Energy]]"

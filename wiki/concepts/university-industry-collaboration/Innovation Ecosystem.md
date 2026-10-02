@@ -7,10 +7,10 @@ aliases:
 summary: "由人与组织通过网络互动进行创新的系统，大学常作为区域锚点，具有基于地点和全球性两种形态，依赖创意与人员的自由流动，其理论基础来自 Schumpeter 的创新理论和 Ridley 的论述"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - "theme/innovation"
   - "level/higher-education"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[San Francisco Bay Area]]"
   - "[[Innovation Hub]]"
+  - "[[Research Universities]]"
   - "[[Creativity]]"
   - "[[Academic Freedom]]"
   - "[[University-Industry Collaboration]]"
@@ -90,7 +91,7 @@ updated: 2026-10-02
 ### 大学作为锚点
 
 > [!abstract]
-学院和大学是区域创新生态系统的关键"锚点"（anchors）——斯坦福大学之于硅谷，MIT 之于波士顿。研究型大学中的[[Creativity|创造性]]互动催生新技术和新公司，后者可能进一步衍生更多企业。Fischman et al.（2014）和 Roberts & Eesley（2009）考察了 MIT 的创新战略，强调[[Academic Freedom|学术自由]]如何催化了学生、教师和校友的创造力（pp.12–13）。
+学院和大学是区域创新生态系统的关键"锚点"（anchors）——斯坦福大学之于硅谷，MIT 之于波士顿。[[Research Universities|研究型大学]]中的[[Creativity|创造性]]互动催生新技术和新公司，后者可能进一步衍生更多企业。Fischman et al.（2014）和 Roberts & Eesley（2009）考察了 MIT 的创新战略，强调[[Academic Freedom|学术自由]]如何催化了学生、教师和校友的创造力（pp.12–13）。
 
 > 大学的学科结构会影响生态系统的自增强程度。滑铁卢大学的工程学院规模较大，其文化期待教师从事应用研究、与产业保持紧密联系，这种文化已显示出"自增强"（self-reinforcing）特征：已有的[[University-Industry Collaboration\|产学合作]]成功吸引更多教师参与，教师的参与又进一步巩固了合作文化([[Argument_Dean_2025_UICollaborationSupport\|Dean et al., 2025, p.246]])。相反，文学院等合作体量较低的院系则难以进入这一正反馈循环——合作越少，行政支持资源越少，教师越缺乏合作经验，形成负向锁定（pp.246–247）。这意味着生态系统内部的"锚点效应"不是均匀分布的，大学内部各学院对生态系统的参与深度可能存在显著差异。
 

@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 43
+fact_related_count: 44
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -67,6 +67,7 @@ related_facts:
   - "[[American Federation of Teachers]]"
   - "[[International Summits on the Teaching Profession]]"
   - "[[Strengthening the Impact of Education Research Project]]"
+  - "[[Chinese Academy of Sciences]]"
   - "[[Definition and Selection of Competencies]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-11
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # Centre for Educational Research and Innovation
@@ -116,7 +117,7 @@ updated: 2026-09-29
 > [!actor-grid] 组织治理架构
 > - **CERI 领导理事会（Governing Board）** 由各参与成员国任命的杰出教育学者、资深[[Policy Science in Comparative Education\|政策科学]]家与高级规划官员组成，独立于 [[OECD]] 传统政府间代表大会，享有自主决定中长期研究优先议题的权力；自 2010 年起，理事会正式设立经合组织工会咨询委员会（TUAC）/ [[Education International\|国际教育协会]]（EI）常设观察员席位，使全球逾 3200 万一线教师的专业诉求制度化融入战略审议。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–211)]]
 > - **中心管理团队与资深主管** 历任领导层（如 [[Jarl Bengtsson]], [[Norberto Bottani]], [[Dirk Van Damme]], Stéphan Vincent-Lancrin）及当代项目主管（如 Nóra Révai）多具备深厚的社会学、经济学、测量学与政策分析学术背景，擅长在学术探索性与政策落地性之间保持动态平衡。
-> - **跨国大学与独立智库协同网络** 与全球顶尖大学、教育科学院及基金会研究人员建立项目制紧密联盟，承担探索性田野试验、心理测量建模与质性案例研讨。
+> - **跨国大学与独立智库协同网络** 与全球顶尖大学、教育[[Chinese Academy of Sciences|科学院]]及基金会研究人员建立项目制紧密联盟，承担探索性田野试验、心理测量建模与质性案例研讨。
 
 > [!pathways]- 业务运行机制
 > - **前瞻情境研判与先导试验** 针对尚未形成政策共识的边缘议题（如人工智能在教学中的伦理边界、教师[[Creativity Assessment\|创造力评价]]、神经科学与学习机制、[[Evidence Ecosystem\|教育证据生态系统]]）设立中短期探索课题，先行开发原型工具。

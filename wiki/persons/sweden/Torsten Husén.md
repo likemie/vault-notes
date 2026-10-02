@@ -8,7 +8,7 @@ summary: "瑞典教育学家与心理测量学家，斯德哥尔摩大学国际�
 type: person
 nationality: sweden
 person_region: "sweden"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -48,6 +48,7 @@ related_persons:
   - "[[Wolfgang Mitter]]"
 related_facts:
   - "[[IEA]]"
+  - "[[Chinese Academy of Sciences]]"
   - "[[UNESCO]]"
   - "[[OECD]]"
   - "[[Education in Europe]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Torsten Husén
@@ -70,7 +71,7 @@ updated: 2026-10-01
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 瑞典教育学家、心理学家、比较教育学者；斯德哥尔摩大学[[International Education\|国际教育]]研究所（IIE）荣誉教授；[[IEA\|国际教育成就评价协会]]（IEA）首任主席（1962–1978），国际教育科学院（IAE）首任院长（1986–1998）；《国际教育百科全书》（*The International Encyclopedia of Education*）联合主编。
+> - **身份位置** 瑞典教育学家、心理学家、比较教育学者；斯德哥尔摩大学[[International Education\|国际教育]]研究所（IIE）荣誉教授；[[IEA\|国际教育成就评价协会]]（IEA）首任主席（1962–1978），国际教育[[Chinese Academy of Sciences|科学院]]（IAE）首任院长（1986–1998）；《国际教育百科全书》（*The International Encyclopedia of Education*）联合主编。
 > - **核心角色** 在 1960 年代作为实证[[Scientific Paradigm\|科学范式]]、跨国心理测量与大规模[[Academic Achievement\|学业成就]]测试的核心开拓者与制度奠基人，以瑞典为中心辐射刺激了北欧与南欧的比较教育实证转向；但在欧洲长时期走出独立于传统大学教席与学会建制的自主轨道；在 1970–1980 年代因应现实危机，成为揭示战后实证规划承诺破灭、反思学校教育功能与促进[[Comparative Educations\|复数比较教育学]]演进的批判性学者。
 > - **代表贡献** 奠基发起 [[IEA]] 并领导首个跨国数学成就比较研究（FIMS）；出版《面临质疑的学校》（*The School in Question*）对战后实证规划与学校制度危机进行历史反思；联合主编《国际教育百科全书》奠定现代教育研究工具体系。
 
@@ -89,7 +90,7 @@ updated: 2026-10-01
 > - **1958–1962** 与阿瑟·福谢（Arthur W. Foshay）等跨国学者在 [[UNESCO]] 汉堡教育研究所发起筹备 [[IEA]]，并出任首任主席（1962–1978），主持具有里程碑意义的十二国数学成就研究（FIMS）；以瑞典为原点开创的大规模跨国实证调查，强力辐射并刺激了北欧及南欧（西班牙、意大利）等地的比较教育实证转向。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 90–91)]]
 > - **1971–1982** 创办斯德哥尔摩大学[[International Education\|国际教育]]研究所（Institute of International Education, IIE）并任首任所长；在此期间，胡森与波斯尔思韦特所引领的 IEA 先驱量化测量在欧洲走出了一条独立于大学教席与学术学会的自主道路，引发文化主义与历史传统学者的长期审视与警惕。
 > - **1979/1982** 出版经典著作《面临质疑的学校》（*The School in Question*），对二战后实证规划神话与学校扩张承诺的破灭做出系统性批判。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]
-> - **1986–1998** 发起创立国际教育科学院（International Academy of Education, IAE）并当选为首任院长。
+> - **1986–1998** 发起创立国际教育[[Chinese Academy of Sciences|科学院]]（International Academy of Education, IAE）并当选为首任院长。
 > - **2009** 逝世于瑞典斯德哥尔摩。
 
 ---

@@ -7,7 +7,7 @@ summary: "中国哲学家，以天下理论著称，提出以中国为中心的�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 9
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -31,13 +31,14 @@ related_theories:
 related_methods:
   - "[[Correlational Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Bulag_2024_CE]]"
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-09-17
+updated: 2026-10-02
 ---
 
 # Zhao Tingyang
@@ -47,7 +48,7 @@ updated: 2026-09-17
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 中国哲学家，中国社会科学院哲学研究所研究员。
+> - **身份位置** 中国哲学家，中国社会[[Chinese Academy of Sciences|科学院]]哲学研究所研究员。
 > - **核心角色** 以“天下” (Tianxia) 体系的理论建构而闻名，主张以中国为中心的世界秩序替代西方威斯特伐利亚主权体系。其思想在习近平时代受到高度关注，为“人类命运共同体”及国族伟大复兴话语提供了哲学基础。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 106–107]])
 > - **代表贡献** 提出“天下体系”、“神性中国/配天”和“逐鹿中原”的征服隐喻。
 
@@ -74,7 +75,7 @@ updated: 2026-09-17
 
 > [!timeline] 生平与职涯
 > - **1961** 出生于广东汕头。
-> - **1980s** 毕业于中国社会科学院研究生院，后进入中国社会科学院哲学研究所任研究员。
+> - **1980s** 毕业于中国社会[[Chinese Academy of Sciences|科学院]]研究生院，后进入中国社会科学院哲学研究所任研究员。
 > - **2005** 发表《天下体系：世界制度哲学导论》，首次系统性地将“天下”概念建构为政治哲学体系。
 > - **2016** 发表《天下：一种可能世界秩序的天下体系》，深化其“无外部”及“旋风式”文明吸纳机制。
 > - **2021** 出版著作英文版 *All Under Heaven: The Tianxia System for a Possible World Order*，在全球地缘政治与知识体系讨论中产生广泛影响。

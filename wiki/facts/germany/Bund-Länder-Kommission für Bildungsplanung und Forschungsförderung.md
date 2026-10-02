@@ -12,7 +12,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ tags:
   - transfer-science
   - blk
 related_concepts:
+  - "[[Grandes Ecoles]]"
   - "[[Paradigm]]"
   - "[[Transfer Science]]"
   - "[[Teacher Beliefs]]"
@@ -36,6 +37,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Max Planck Society]]"
   - "[[Fraunhofer Society Model]]"
   - "[[Federal Ministry of Education and Research]]"
   - "[[SINUS]]"
@@ -46,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-09-27
+updated: 2026-10-02
 ---
 
 # Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung
@@ -60,7 +62,7 @@ updated: 2026-09-27
 
 > [!institution-profile] 机构档案
 > - **创设背景** 1969 年西德通过宪法修正案（基本法第 91b 条），允许联邦与各州在双方同意的前提下就跨区域重大教育规划与超区域科研资助开展制度化合作；1970 年双方正式签署建立 BLK 的行政协议。
-> - **法定职权范围** 负责审议国家教育发展总规划（Bildungsgesamtplan）、协调各级教育体制结构性改革、评定并资助跨州重大学校试验项目，以及统筹大型科研机构（如马克斯·普朗克学会、[[Fraunhofer Society Model|弗劳恩霍夫协会]]、德国研究联合会 DFG）的联邦-州配比拨款。
+> - **法定职权范围** 负责审议国家教育发展总规划（Bildungsgesamtplan）、协调各级教育体制结构性改革、评定并资助跨州重[[Grandes Ecoles|大学校]]试验项目，以及统筹大型科研机构（如[[Max Planck Society|马克斯·普朗克学会]]、[[Fraunhofer Society Model|弗劳恩霍夫协会]]、德国研究联合会 DFG）的联邦-州配比拨款。
 > - **历史沿革与重组解散** 伴随 2006 年德国第一阶段联邦制改革（Föderalismusreform I）对《基本法》第 91b 条的重大修订，联邦全面退出基础教育合作事务（即“合作禁止条款”Kooperationsverbot）；BLK 于 2007 年底正式撤销解散，其保留的超区域科研资助统筹职能移交新设立的联合科学大会（Gemeinsame Wissenschaftskonferenz, GWK）。
 
 ---

@@ -7,7 +7,7 @@ title: "Argument_Torres_2022_BarriersMechanisms"
 argument_key: "Argument_Torres_2022_BarriersMechanisms"
 argument_display_title: "Facilitating research use: Scary barriers (and super mechanisms)"
 argument_kind: "book-chapter"
-argument_related_count: 54
+argument_related_count: 55
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -82,6 +82,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Pupil Premium]]"
+  - "[[Chinese Academy of Sciences]]"
   - "[[Programme for Research and Innovation in the Educational Sector]]"
   - "[[Netherlands Initiative for Education Research]]"
   - "[[National Strategy for Educational Research and Enquiry]]"
@@ -407,7 +408,7 @@ updated: 2026-09-13
 > [!feature] 科研生产协调的七大制度渠道分布
 > - **专项资助机制** 占 59%；与政策利用端和实践利用端的专项课题资助高度重合，说明财政杠杆同时承担生产与利用双重功能。
 > - **定期征询决策者需求** 占 59%；政策高层的偏好能够较顺畅地传导至科研立项环节。
-> - **公共研究机构承担统筹职责** 占 49%；半数系统依赖国家级教研院或科学院统筹科研生产。
+> - **公共研究机构承担统筹职责** 占 49%；半数系统依赖国家级教研院或[[Chinese Academy of Sciences|科学院]]统筹科研生产。
 > - **定期征询一线实践者需求** 占 43%；比征询决策者低 16 个百分点，暴露出教师在科研源头议程设定中的边缘化地位。
 > - **拥有教育科研中长期战略** 占 41%；绝大多数系统缺乏中长期科研规划图景。
 > - **完全不存在任何生产统筹协调** 占 28%；近三成系统对科研立项与生产采取纯自由放任态度。

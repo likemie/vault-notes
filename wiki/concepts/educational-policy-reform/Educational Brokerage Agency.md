@@ -17,7 +17,7 @@ aliases:
 summary: "产生、评估并在政策制定者、教育实践者与公众之间传播研究成果的制度化实体与中介网络，呈现出部委依附、政府资助自治与独立慈善三种治理模式，以及因果实证（RCT）与多元综合两种方法学立场；在两至三年的政治预算周期下面临突出的存续危机与跨机构元中介需求。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 131
+related_count: 132
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -77,6 +77,7 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Research Translation]]"
   - "[[Evidence-Informed Decision-Making]]"
+  - "[[Research Universities]]"
   - "[[Lifelong Learning]]"
   - "[[Dialogue in Education]]"
   - "[[Initial Teacher Training]]"
@@ -168,7 +169,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-12
-updated: 2026-09-27
+updated: 2026-10-02
 ---
 
 # Educational Brokerage Agency
@@ -425,7 +426,7 @@ updated: 2026-09-27
 > | 研究 | 机构名称与国家 | 治理模式与行政隶属 | 核心目标受众 | 方法学取向与代表成果 | 存续状态（截至2022年） | 存续影响因素与解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] | [[What Works Clearinghouse]] (WWC), 美国 | 联邦教育部设立，由专业机构分包运营 | 政策决策者、学区管理者、研究者 | 严格遵循因果 [[Randomised Controlled Trials\|RCT]] 金标准；提供分级干预证据库 | 持续活跃（Fully active） | 依托联邦法律授权（如 [[Every Student Succeeds Act\|ESSA]]）与法定义务拨款维持长效运作（p. 64） |
-> | 同上 | [[EPPI-Centre]], 英国伦敦大学学院 | 大学下设学术研究单位，接受政府与基金会资助 | 政策制定者、研究者、一线教育工作者 | 首创质性与量化混合[[Systematic Review\|系统综述]]方法学 | 持续活跃（Fully active） | 根植于高水平研究型大学，具备跨学科研究综合与外部课题竞标韧性（p. 64） |
+> | 同上 | [[EPPI-Centre]], 英国伦敦大学学院 | 大学下设学术研究单位，接受政府与基金会资助 | 政策制定者、研究者、一线教育工作者 | 首创质性与量化混合[[Systematic Review\|系统综述]]方法学 | 持续活跃（Fully active） | 根植于高水平[[Research Universities\|研究型大学]]，具备跨学科研究综合与外部课题竞标韧性（p. 64） |
 > | 同上 | [[Best Evidence Synthesis]] (BES), 新西兰 | 教育部内部嵌入式行政研发项目 | 教育部官员、[[School Leadership\|学校领导]]者、教师 | 强调情境化最佳证据综合；转向优秀实践视频展示 | 职能转型（无新综述资助） | 官方终止了新证据综合资助，职能收缩至既有证据的实践案例化推广（p. 64） |
 > | 同上 | [[Canadian Council on Learning\|Canadian Council on Learning (CCL)]], 加拿大 | 联邦政府设立并拨款的独立法人机构 | 联邦与省教育部、学校实践者 | 跨省[[Lifelong Learning\|终身学习]]与教育研究综合监控 | 已关停（Closed） | 联邦与省际政治博弈及联邦保守党政府终止资助，非因绩效评估不达标（p. 64） |
 > | 同上 | [[Danish Clearinghouse for Educational Research\|Danish Clearinghouse]], 丹麦奥胡斯大学 | 大学下设国家级[[Educational Evidence Clearinghouses\|证据清算中心]]，国家拨款支持 | 丹麦教育部、地方市政当局、学校 | 面向北欧教育实践开展实证系统综述 | 已关停（Closed） | 伴随国家政策重点转移与部委资助终止而被迫关闭（p. 64） |

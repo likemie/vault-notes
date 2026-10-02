@@ -7,7 +7,7 @@ summary: "中国著名人类学家与社会学家，提出了中华民族多元�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -35,14 +35,15 @@ related_methods:
 related_persons:
   - "[[Hsu Cho-Yun]]"
   - "[[Ma Rong]]"
-related_facts: []
+related_facts:
+  - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Bulag_2024_CE]]"
   - "[[Argument_Xu_2024_CE]]"
 confidence: high
 status: active
 created: '2026-05-25'
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Fei Xiaotong
@@ -52,7 +53,7 @@ updated: 2026-10-01
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 中国社会学家、人类学家，曾任中国社会科学院社会学研究所所长、民盟中央主席。
+> - **身份位置** 中国社会学家、人类学家，曾任中国社会[[Chinese Academy of Sciences|科学院]]社会学研究所所长、民盟中央主席。
 > - **核心角色** 中国现代社会学与人类学的奠基人之一。其 1988 年对“[[Zhonghua Minzu\|中华民族多元一体]]格局”的系统阐发，重塑了当代的国族叙事，为国家民族政策转型及历史教育中的领土型中国观奠定了核心理论基础。[[Argument_Bulag_2024_CE\|(Bulag, 2024, pp. 101–102)]]; [[Argument_Xu_2024_CE\|(Xu, 2024, p. 576)]]
 > - **代表贡献** 提出“[[Zhonghua Minzu\|中华民族多元一体]]”格局与“差序格局”理论，开创中国乡村社会学与微观社区[[Fieldwork\|实地调查]]研究方法。
 

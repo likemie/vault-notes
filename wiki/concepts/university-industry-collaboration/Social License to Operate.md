@@ -10,7 +10,7 @@ aliases:
 summary: "指大学及科研机构在法律法定办学资质之外，由周边社区、纳税人、政策制定者及广大公众基于对学术机构公共价值、透明伦理及社会贡献的认可而自发赋予的非正式、动态演变的社会信任与合法性契约"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Attrition]]"
+  - "[[Grandes Ecoles]]"
   - "[[Emergence]]"
   - "[[Knowledge Production]]"
   - "[[Academic Freedom]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-17
+updated: 2026-10-02
 ---
 
 # Social License to Operate
@@ -126,7 +127,7 @@ updated: 2026-09-17
 > 社会运营许可无法通过事后的危机公关来临时修补，大学必须将公众参与在人事考评、工作量核算及研究生教育中全面制度化，形成主动防御与社会协同的长效生态。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026, Ch. 6)]]
-> **从被动防御危机转向全机构制度化支持** 高校管理层常将公众参与等同于招生宣传或危机公关，导致学者陷入“个体热情”与“制度冷漠”的撕裂；若要真正守护社会运营许可，大学校长必须采取系统行动——将公众参与明确写入岗位职责说明书、落实职称晋升认定、纳入工作量分配核算（Workload allocation），并将参与技能深度内嵌于博士生培养方案中，将分散的外挂式劳动升级为受机构长效支撑的核心使命。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 93, 98–99, 102–103)]]
+> **从被动防御危机转向全机构制度化支持** 高校管理层常将公众参与等同于招生宣传或危机公关，导致学者陷入“个体热情”与“制度冷漠”的撕裂；若要真正守护社会运营许可，[[Grandes Ecoles|大学校]]长必须采取系统行动——将公众参与明确写入岗位职责说明书、落实职称晋升认定、纳入工作量分配核算（Workload allocation），并将参与技能深度内嵌于博士生培养方案中，将分散的外挂式劳动升级为受机构长效支撑的核心使命。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 93, 98–99, 102–103)]]
 
 ---
 

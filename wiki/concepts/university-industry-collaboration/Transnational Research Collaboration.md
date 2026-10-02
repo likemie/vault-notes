@@ -7,7 +7,7 @@ aliases:
 summary: "高等教育中的跨国研究合作形式，涉及学者、机构和国家在知识生产、声誉竞争与政策目标上的多重联结。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[International Education]]"
   - "[[University-Industry Co-location]]"
+  - "[[Grandes Ecoles]]"
   - "[[Innovation Hub]]"
 related_theories:
   - "[[Network Society]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: 2026-09-14
+updated: 2026-10-02
 ---
 
 # Transnational Research Collaboration in Higher Education
@@ -93,7 +94,7 @@ updated: 2026-09-14
 > - 澳大利亚政府基于《[[Australia in the Asian Century White Paper\|亚洲世纪白皮书]]》大量投资于 Australia-India Strategic Research Fund (AISRF) 和 Australia China Science and Research Fund (ACSRF)，旨在与"高绩效国家"维持和加强研究关系（Barlow, 2014, p.13, cited in [[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.99–100]]）
 > - 澳大利亚《[[International Education\|国际教育]]国家战略 2025》以"加强国内外伙伴关系、提升学生和教师流动性、通过促进卓越和拥抱国际教育扩展机遇来使澳大利亚教育机构参与全球竞争"为目标
 > - COVID-19 和中美地缘政治紧张改变了跨国研究合作的条件——知识流动的自由受到新的政治限制([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.100–101]])
-> - [[University-Industry Co-location\|产学共同选址]]是促进国际[[University-Industry Collaboration\|产学合作]]的有效空间策略：通过将产业人员嵌入大学校园，缩短物理距离以降低沟通和文化壁垒。典型案例包括联合利华在瓦赫宁根大学的 Hive 食品[[Innovation Hub\|创新中心]]（500 名员工驻校）和 Mars 在 UC Davis 的 Mars 高级研究院（MARI）([[Argument_Wolf_2025_InternationalResearchCollab\|Wolf et al., 2025, pp.317–318]])
+> - [[University-Industry Co-location\|产学共同选址]]是促进国际[[University-Industry Collaboration\|产学合作]]的有效空间策略：通过将产业人员嵌入[[Grandes Ecoles|大学校]]园，缩短物理距离以降低沟通和文化壁垒。典型案例包括联合利华在瓦赫宁根大学的 Hive 食品[[Innovation Hub\|创新中心]]（500 名员工驻校）和 Mars 在 UC Davis 的 Mars 高级研究院（MARI）([[Argument_Wolf_2025_InternationalResearchCollab\|Wolf et al., 2025, pp.317–318]])
 
 ## 争议与批评
 

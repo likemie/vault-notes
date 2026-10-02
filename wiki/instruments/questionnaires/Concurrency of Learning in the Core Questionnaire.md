@@ -6,7 +6,7 @@ aliases:
 summary: "测量国际文凭大学预科项目（IBDP）核心组件（TOK、CAS、EE）并发学习状态与跨组件连贯性的自陈式问卷，包含 17 道李克特量表题及 3 道简答题。"
 type: instrument
 instrument_type: questionnaire
-instrument_related_count: 18
+instrument_related_count: 19
 instrument_related_level: 3
 instrument_related_stars: "⭐⭐⭐"
 instrument_related_color: "#fef3c7"
@@ -39,6 +39,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Chinese Academy of Sciences]]"
   - "[[My School Website]]"
   - "[[Achieve]]"
 related_arguments:
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-11
-updated: 2026-09-26
+updated: 2026-10-02
 ---
 
 # Concurrency of Learning in the Core Questionnaire
@@ -58,7 +59,7 @@ updated: 2026-09-26
 > [!instrument-profile] [[Concurrency of Learning]] in the Core [[Questionnaire]]
 > - **工具类型** 问卷 / 量表
 > - **开发者与年份** [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]]
-> - **测量目的** 测量 IB 教师与协调员对学校层面核心组件（[[Theory of Knowledge\|TOK]]、CAS、EE）之间并发学习（Concurrency of Learning）状态及其连贯性（Coherence）的感知、实践策略与挑战。
+> - **测量目的** 测量 IB 教师与协调员对学校层面核心组件（[[Theory of Knowledge\|TOK]]、[[Chinese Academy of Sciences|CAS]]、EE）之间并发学习（Concurrency of Learning）状态及其连贯性（Coherence）的感知、实践策略与挑战。
 > - **实施方式** 自陈（由研究者设计并经过外部[[International Education\|国际教育]]专家审查）
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-09-26
 > | 1 | A coherent core program supports [[Concurrency of Learning]] at [[My School Website\|My School]]. | 同意程度 |
 > | 2 | There is a link and relationship between [[Creativity, Action, Service\|CAS]] & [[Theory of Knowledge\|TOK]] at my school. | 同意程度 |
 > | 3 | There is a link and relationship between TOK & [[Extended Essay\|EE]] at my school. | 同意程度 |
-> | 4 | There is a link and relationship between CAS & EE at my school. | 同意程度 |
+> | 4 | There is a link and relationship between [[Chinese Academy of Sciences\|CAS]] & EE at my school. | 同意程度 |
 > | 5 | A coherent core program enables concurrency of learning at my school. | 同意程度 |
 > | 6 | Core lessons are planned, reviewed and reflected collaboratively at my school. | 同意程度 |
 > | 7 | The core elements of the DP operate in isolation at my school. *(注：可能为反向题)* | 同意程度 |

@@ -11,7 +11,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -56,6 +56,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
   - "[[Clearing House Unterricht]]"
+  - "[[Max Planck Society]]"
   - "[[Institute for Educational Quality Improvement]]"
   - "[[Vergleichsarbeiten]]"
 related_arguments:
@@ -147,7 +148,7 @@ updated: 2026-10-02
 > - **国家科研证据清算中介孵化** 2017 年专项资助设立慕尼黑工业大学教学研究清算中心（[[Clearing House Unterricht\|CHU]]），打破德语区长期缺乏本土清算平台的困局。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
 > - **国家测评与报告联合资助** 联合 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 出资设立 [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]] 统筹 [[PISA]] 测评，联合资助 [[Leibniz Institute for Educational Research and Educational Information\|DIPF]] 编撰国家综合教育报告（*[[Bildung]] in Deutschland*）。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–145)]]
 > - **教育数字化与基础设施战略** 出资数百亿欧元推进“学校数字化公约”（DigitalPakt Schule），支持全德中小学与职业学校宽带网络、数字化教学工具与终端配置。
-> - **前沿科学教育与卓越资助** 统筹国家卓越大学战略（Exzellenzstrategie）、马克斯·普朗克学会与莱布尼茨学会等国家骨干科研联合会的长期财政资助。
+> - **前沿科学教育与卓越资助** 统筹国家卓越大学战略（Exzellenzstrategie）、[[Max Planck Society|马克斯·普朗克学会]]与莱布尼茨学会等国家骨干科研联合会的长期财政资助。
 
 ---
 

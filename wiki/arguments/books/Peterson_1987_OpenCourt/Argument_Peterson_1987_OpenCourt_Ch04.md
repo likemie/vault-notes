@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch04"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch04"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -31,6 +31,7 @@ tags:
 related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Success Criteria]]"
+  - "[[Grandes Ecoles]]"
   - "[[Reliability]]"
   - "[[International Qualification Recognition]]"
   - "[[International Schools]]"
@@ -95,7 +96,7 @@ updated: '2026-09-12'
 > [[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）六年试验检验的不是一套试卷能否被命制，而是一个跨国资格系统能否形成闭环。课程与考试必须同时取得学校采用、家长信任、大学承认、行政能力和持续资金；其中任何一环失败，学生都无法把两年学习转换为跨境升学机会。1967–1976 年间，国际文凭办公室（International Baccalaureate Office，IBO）通过扩大而非严控学校网络、争取分散与集中两类大学体系承认、在国际原则与资源限制之间折中、把考试业务部分分散到英国，并组合考试费、学校订阅、基金会和政府资助，最终证明 IB 既有教育可行性，也有组织延续的可能（pp. 61–97）。
 
 > [!conclusion] 从试验到常设制度
-> 六年试验的[[Success Criteria\|成功标准]]在实施中发生了变化：起初有人希望把它作为小样本、严密监测的应用[[Action Research\|行动研究]]（action research），学校代表则把它视为必须延续的资格服务。项目最终优先服务跨国流动学生，因为扩大学校、考生、大学和政府网络，才能同时显示课程的广泛适用性、建立社会信任并改善财务基础。1976 年海牙政府间会议标志着试验期结束：IBO 不再只是依靠少数教育家和基金会维系的改革项目，而成为学校付费、政府参与治理并承诺资助的国际组织（pp. 61–65, 83–97）。
+> 六年试验的[[Success Criteria\|成功标准]]在实施中发生了变化：起初有人希望把它作为小样本、严密监测的应用[[Action Research\|行动研究]]（action research），学校代表则把它视为必须延续的资格服务。项目最终优先服务跨国流动学生，因为扩[[Grandes Ecoles|大学校]]、考生、大学和政府网络，才能同时显示课程的广泛适用性、建立社会信任并改善财务基础。1976 年海牙政府间会议标志着试验期结束：IBO 不再只是依靠少数教育家和基金会维系的改革项目，而成为学校付费、政府参与治理并承诺资助的国际组织（pp. 61–65, 83–97）。
 
 ## 核心思想与制度线索
 
@@ -223,7 +224,7 @@ updated: '2026-09-12'
 > - **试验期以后　研究价值在更广使用中重新出现** 彼得森回顾认为，当一些国家希望建立更连贯或更均衡的高中后段课程时，IB 进入国家教育体系内的选定学校，反而可能产生比早期试验更大的研究价值。但各国政府支持 IB 的主要理由仍不是把它当作“研究试验台”，而是它对国际社会和流动学生提供了实际服务（pp. 61–62）。
 
 > [!interdependence] 公共服务目标如何转化为制度任务
-> - **扩大学校网络** 组织首先要增加采用 IB 的学校数量，同时扩大地域分布和学校类型，才能证明资格满足真实需求而非只适用于少数创始学校。
+> - **扩[[Grandes Ecoles|大学校]]网络** 组织首先要增加采用 IB 的学校数量，同时扩大地域分布和学校类型，才能证明资格满足真实需求而非只适用于少数创始学校。
 > - **降低家庭风险** 日内瓦国际学校和联合国国际学校等走读学校希望把 IB 作为唯一的大学预备课程，因此必须说服仍然犹豫的家长相信，学生不会因参加未经验证的试验而失去升学机会。
 > - **扩大大学承认** 更广泛的大学接受能够直接降低家长风险；没有承认，课程和考试即使在教育上成立，也不能完成公共服务功能。
 > - **建立连续行政** 六年内持续命题、考试、阅卷、沟通和记录，需要超出临时志愿网络的组织结构；资格的可信度取决于服务能否按期重复交付。

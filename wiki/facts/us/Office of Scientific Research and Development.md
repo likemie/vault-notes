@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 13
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 联邦战时科技动员与研发协调机构
 headquarters: 美国华盛顿特区（Washington, D.C., USA）
@@ -24,6 +24,9 @@ tags:
   - policy/wartime-mobilization
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Research Universities]]"
+  - "[[Grandes Ecoles]]"
+  - "[[Pluralistic Federal Funding System]]"
   - "[[Creativity]]"
   - "[[Megascience Installations]]"
 related_theories:
@@ -34,6 +37,7 @@ related_facts:
   - "[[MIT Radiation Laboratory]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Institutes of Health]]"
+  - "[[Office of Naval Research]]"
   - "[[Bell Labs]]"
   - "[[National Science Foundation]]"
   - "[[DARPA]]"
@@ -57,7 +61,7 @@ updated: 2026-10-02
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1941 年 6 月 28 日由富兰克林·罗斯福总统颁布行政命令正式设立，由[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）领衔；其前身为 1940 年 6 月成立的国家国防研究委员会（National Defense Research Committee, NDRC），旨在应对全面战争威胁下的国防装备与军事医学落后危机。
-> - **总部地点 / 业务辐射** 总部设于美国华盛顿特区，业务辐射全美主要顶尖研究型大学与私营工业研究实验室，深度主导了雷达、战时医学救治及曼哈顿计划核武研发的组织协调。
+> - **总部地点 / 业务辐射** 总部设于美国华盛顿特区，业务辐射全美主要顶尖[[Research Universities|研究型大学]]与私营工业研究实验室，深度主导了雷达、战时医学救治及曼哈顿计划核武研发的组织协调。
 > - **法人属性与经费基础** 隶属于总统执行办公室的联邦战时特设行政机构；由联邦战时特别预算全额拨款，享有高度独立且灵活的联邦研发合同签署与预算划拨权限。
 > - **核心宗旨与法定职责** 动员全美最优秀的科学家和工程师，将其智力资源迅速转化为服务盟军作战的先进军事技术与前沿医学解决方案；确保科学界在最大程度保持学术探索惯常环境的同时，全方位服务国家安全最高目标。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
 
@@ -67,8 +71,8 @@ updated: 2026-10-02
 
 > [!dev-timeline] 组织发展历程
 > - **1940–1941 — 战前动员雏形与 NDRC 奠基** 1940 年 6 月罗斯福设立国家国防研究委员会（NDRC），由[[Vannevar Bush|万尼瓦尔·布什]]领衔；在欧洲战事急剧恶化背景下，布什联合科学界领袖推动行政重组，以打破陆海军军方官僚机构对武器研发的垄断与迟钝反应。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 34)]]
-> - **1941–1945 — OSRD 正式升格与全方位战时攻关** 1941 年 6 月升格为 OSRD，布什出任主任，原 NDRC 改由哈佛大学校长科南特掌舵并作为 OSRD 武器研发核心下属部门，另一核心部门专司军事医学攻关；OSRD 拥有直接签订军用研发合同的法律授权，深度主导并设立[[MIT Radiation Laboratory|麻省理工学院辐射实验室]]（Rad Lab）攻坚微波雷达、芝加哥大学冶金实验室攻坚链式反应，并监管曼哈顿计划早期进程。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
-> - **1945–1947 — 胜利撤销与和平时期体制平移** 1945 年布什基于 OSRD 成功实践向杜鲁门呈递《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》报告；1947 年底 OSRD 功成身退正式撤销，其存续的在研医学合同被国立卫生研究院（[[National Institutes of Health|NIH]]）全盘接收，雷达与物理学合同被[[Office of Naval Research|海军研究办公室]]（ONR）等吸收，战时动员机制彻底制度化为和平时期的多元联邦资助体系。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]
+> - **1941–1945 — OSRD 正式升格与全方位战时攻关** 1941 年 6 月升格为 OSRD，布什出任主任，原 NDRC 改由哈佛[[Grandes Ecoles|大学校]]长科南特掌舵并作为 OSRD 武器研发核心下属部门，另一核心部门专司军事医学攻关；OSRD 拥有直接签订军用研发合同的法律授权，深度主导并设立[[MIT Radiation Laboratory|麻省理工学院辐射实验室]]（Rad Lab）攻坚微波雷达、芝加哥大学冶金实验室攻坚链式反应，并监管曼哈顿计划早期进程。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
+> - **1945–1947 — 胜利撤销与和平时期体制平移** 1945 年布什基于 OSRD 成功实践向杜鲁门呈递《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》报告；1947 年底 OSRD 功成身退正式撤销，其存续的在研医学合同被国立卫生研究院（[[National Institutes of Health|NIH]]）全盘接收，雷达与物理学合同被[[Office of Naval Research|海军研究办公室]]（ONR）等吸收，战时动员机制彻底制度化为和平时期的[[Pluralistic Federal Funding System|多元联邦资助体系]]。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]
 
 ---
 
@@ -76,7 +80,7 @@ updated: 2026-10-02
 
 > [!actor-grid] 组织治理架构
 > - **决策中枢（行政办公室与领导层）** 由主任[[Vannevar Bush|万尼瓦尔·布什]]统筹全盘，直接向富兰克林·罗斯福总统汇报，拥有极高行政调配权与总统政治互信。
-> - **核心科学统领阵营** 深度汇聚全美顶尖学术与工业研究领袖：哈佛大学校长詹姆斯·科南特（James B. Conant）、麻省理工学院校长卡尔·康普顿（Karl T. Compton）及[[Bell Labs|贝尔实验室]]总裁弗兰克·朱厄特（Frank B. Jewett）形成稳固的领导铁三角。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 34)]]
+> - **核心科学统领阵营** 深度汇聚全美顶尖学术与工业研究领袖：哈佛[[Grandes Ecoles|大学校]]长詹姆斯·科南特（James B. Conant）、麻省理工学院校长卡尔·康普顿（Karl T. Compton）及[[Bell Labs|贝尔实验室]]总裁弗兰克·朱厄特（Frank B. Jewett）形成稳固的领导铁三角。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 34)]]
 > - **双核业务机构** 设立两大下属专业部门：一是科南特主持的武器研发部门（NDRC），二是专门设立的医学研究委员会（Committee on Medical Research, CMR），全面协调盘尼西林规模化提纯、疟疾防治与战伤救护。
 > - **大学与工业界网络** 不设庞大的自建官僚实验室，而是直接作为发包方，将研发任务通过合同精准分包至全美数十所大学实验室与工业研发中心。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
 

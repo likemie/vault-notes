@@ -11,9 +11,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 9
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: 美国国会（US Congress）与德怀特·艾森豪威尔总统（Dwight D. Eisenhower）
 tags:
@@ -22,6 +22,18 @@ tags:
   - level/higher-education
   - level/k-12
   - policy/federal-funding
+related_concepts:
+  - "[[Research Universities]]"
+  - "[[Teaching Assistant]]"
+  - "[[Inquiry-Based Learning]]"
+  - "[[Paradigm]]"
+related_facts:
+  - "[[Sputnik Shock 1957]]"
+  - "[[National Science Foundation]]"
+  - "[[President's Science Advisory Committee]]"
+  - "[[Science, The Endless Frontier 1945]]"
+related_arguments:
+  - "[[Argument_Atkinson_2008_TIS]]"
 confidence: high
 status: active
 created: 2026-10-02
@@ -59,7 +71,7 @@ updated: 2026-10-02
 
 > [!dev-timeline] 推进历程与实施机制
 > - **1958 — 法案出台与联邦职能扩容** 国会通过 NDEA，明确授权 [[National Science Foundation|NSF]] 全面扩展其在科学教育与相关教育科学研究中的核心职能，打破了战后初期 NSF 仅限资助学者纯科研的自我定位。
-> - **1959 — 启动中小学理科教材重构工程** NSF 开始大规模资助由研究型大学顶尖教授领衔的学科委员会，组织科学家与一线教师深入合作，全面升级和重构全美高中物理、化学、生物和数学教材（如著名的 PSSC 物理课程），并配套资[[Teaching Assistant|助教]]师暑期进修学院（Summer Institutes）。
+> - **1959 — 启动中小学理科教材重构工程** NSF 开始大规模资助由[[Research Universities|研究型大学]]顶尖教授领衔的学科委员会，组织科学家与一线教师深入合作，全面升级和重构全美高中物理、化学、生物和数学教材（如著名的 PSSC 物理课程），并配套资[[Teaching Assistant|助教]]师暑期进修学院（Summer Institutes）。
 > - **1968 — 国会修订法案确立应用与社科拓展** 国会进一步修订《国家科学基金会法案》（P.L. 90-407），正式授权 NSF 资助应用研究并明确将社会科学纳入资助范围，延续并深化了 NDEA 奠定的跨学科培育格局。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 37)]]
 
 ---

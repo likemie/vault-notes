@@ -11,7 +11,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Presence]]"
   - "[[International Education]]"
+  - "[[Research Universities]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Commensuration]]"
   - "[[Doxa]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # GATS and Trade in Education Services
@@ -110,7 +111,7 @@ updated: 2026-09-29
 > [!actor-grid] 实施角色分工
 > - **主持与监督主体** [[World Trade Organization|WTO]] 服务贸易理事会及其争端解决机构（DSB），负责审查减让表、协调贸易审议与裁决违规行为。
 > - **承诺与立法主体** 各成员国经贸部与教育部，负责提交开放减让清单，并在国内修改《外商投资法》、《高等教育合作办学条例》与外汇结算规则。
-> - **市场供给主体** 欧美主要研究型大学、跨国营利性教育集团（如阿波罗、培生）、在线学位提供商以及跨境语言考试认证巨头。
+> - **市场供给主体** 欧美主要[[Research Universities|研究型大学]]、跨国营利性教育集团（如阿波罗、培生）、在线学位提供商以及跨境语言考试认证巨头。
 > - **政策适用客体** 跨国接受教育服务的学生、跨境派遣的教师、从事联合学位合作的本土院校。
 
 > [!pathways]- 实施路径

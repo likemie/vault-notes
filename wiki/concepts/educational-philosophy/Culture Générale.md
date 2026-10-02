@@ -8,10 +8,10 @@ aliases:
 summary: "源自法国理性主义与折衷主义哲学的精英中等教育通识理念，融合古典人文与现代科学，基于官能心理学与心智训练全面磨砺普遍理性，为中央集权体制选拔培育具备卓越行政才能的治理精英。"
 type: concept
 domain: "educational-philosophy"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/culture-generale
   - theme/humanism
@@ -30,6 +30,8 @@ related_concepts:
   - "[[Rationalism in International Relations]]"
   - "[[Epistemology]]"
   - "[[Geisteswissenschaften]]"
+  - "[[Grandes Ecoles]]"
+  - "[[Research Universities]]"
   - "[[Cultural Capital]]"
   - "[[Paradigm]]"
   - "[[Scientific Paradigm]]"
@@ -56,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # Culture Générale
@@ -99,7 +101,7 @@ updated: 2026-09-29
 > |---|---|---|---|---|
 > | **思想哲学渊源** | [[René Descartes\|笛卡尔]][[Rationalism in International Relations\|理性主义]]与 19 世纪折衷主义 | 德国唯心主义、新人文主义与狂飙突进 | [[Aristotle\|亚里士多德]]博雅传统与绅士品格伦理 | 古希腊城邦公民沉思与至善和谐德性 |
 > | **心理与[[Epistemology\|认识论]]基础** | [[Faculty Psychology\|官能心理学]]与心智训练（文理融通） | [[Geisteswissenschaften\|精神科学]]、辩证否定与内在主体性觉醒 | 自由学术的超功利性与文雅品味熏陶 | 灵魂转向、智性沉思与身心和谐统一 |
-> | **核心制度载体** | 国立文理中学（Lycée）、大学校预科与高中会考 | 文理中学（Gymnasium）与洪堡式研究型大学 | 顶层公学（Public Schools）与牛剑古典学院 | 古典文法中学（Gymnasia）与哲学学院 |
+> | **核心制度载体** | 国立文理中学（Lycée）、[[Grandes Ecoles\|大学校]]预科与高中会考 | 文理中学（Gymnasium）与洪堡式[[Research Universities\|研究型大学]] | 顶层公学（Public Schools）与牛剑古典学院 | 古典文法中学（Gymnasia）与哲学学院 |
 > | **社会政治功能** | 为中央集权国家选拔具备卓越行政才能的官僚精英 | 塑造追求纯粹真理的学者与忠诚负责的民族公民 | 培育服务大英帝国政治治理与道德教化的绅士领袖 | 培养具有城邦奉献精神与城邦美德的政治公民 |
 
 ---
@@ -112,7 +114,7 @@ updated: 2026-09-29
 > - **文理折衷整合框架** 拒绝将科学与人文截然对立；[[Victor Cousin\|库森]]基于折衷哲学，将古代语言（拉丁文、希腊文）视为探究人性最高维度的本体磨砺，将现代数理科学作为训练精确推理的工具，构建文理通融的统一课程。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 30)]]
 > - **心智纪律与官能训练（Mental Discipline）** 坚信知识的具体内容会随时间遗忘，但研读高难度经典文本所形成的专注力、抽象概括力与清晰表达力将终身受用。
 > - **哲学修辞与作文训练（Dissertation）** 中学毕业班（Classe de Philosophie）将系统的哲学论辩与规范化长篇论文写作作为最高顶点，训练学生就宏大伦理、政治与[[Epistemology\|认识论]]命题展开周密逻辑推演。
-> - **国家主义政治选拔功能** 依托高度集权的教育部、全国统考（Baccalauréat）与大学校（Grandes Écoles）竞争性竞试，将掌握普通文化的精英输送至国家行政核心。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 59)]]
+> - **国家主义政治选拔功能** 依托高度集权的教育部、全国统考（Baccalauréat）与[[Grandes Ecoles|大学校]]（Grandes Écoles）竞争性竞试，将掌握普通文化的精英输送至国家行政核心。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 59)]]
 
 > [!logic-map] 普通文化的认识论生成与国家功能结构
 > ```mermaid

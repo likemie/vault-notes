@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 18
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: research-institution
 headquarters: "美国华盛顿哥伦比亚特区"
@@ -33,13 +33,16 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Policy Window]]"
+  - "[[Research Universities]]"
   - "[[Research Translation]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[National Academy of Sciences]]"
   - "[[Common Core State Standards]]"
+  - "[[Chinese Academy of Sciences]]"
   - "[[National Assessment of Educational Progress]]"
   - "[[National Governors Association]]"
   - "[[Cram Schools]]"
@@ -73,7 +76,7 @@ updated: 2026-10-02
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1916–1970年代 — 战时技术动员与跨学科战后制度化** 一战与二战期间专责战时科研动员；冷战后常设化为国家科学院系统对外出具所有评估报告的实体机制，确立了全美最严格的独立专家匿名同行双盲评审规程。
+> - **1916–1970年代 — 战时技术动员与跨学科战后制度化** 一战与二战期间专责战时科研动员；冷战后常设化为国家[[Chinese Academy of Sciences|科学院]]系统对外出具所有评估报告的实体机制，确立了全美最严格的独立专家匿名同行双盲评审规程。
 > - **1980年代–1990年代 — 介入国家教育质量与测试标准评估** 连续出台多部关于标准化测验信效度、弱势学生评价与高利害问责的重磅白皮书，直接形塑了美国当代教育测量学界的学术伦理准则。
 > - **2007–2008年 — 策动国家课程标准专题研讨与立论奠基** 应北卡罗来纳州前州长詹姆斯·B·亨特（James B. Hunt Jr.）请求，NRC 连续主办两次高规格全国证据研讨会，产出《教育领导力蓝图》（*Blueprint for Education Leadership*）与《K-12 教育通用标准：考量实证证据》（2008），为 [[Common Core State Standards|CCSS]] 运动提供了最坚固的学术立论基石。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–10)]]
 
@@ -121,7 +124,7 @@ updated: 2026-10-02
 
 > [!debates] 学术审慎与政治急躁的张力
 > - **严谨实证滞后与政策机会窗口关闭的矛盾** NRC 坚持严格的同行评议周期，往往需要两到三年才能出台权威报告；但在真实政策世界中，[[Policy Window|政策之窗]]稍纵即逝，政客等不及 NRC 开展深度的课堂实证检验，就仓促上马了标准编制，导致实际标准定稿时 NRC 的许多审慎保留意见被政客选择性忽略。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 6, 18)]]
-> - **学院派精英视角脱离地方公立学校生态** 批评指出 NRC 报告执笔人多为顶尖研究型大学教授，其提出的课程严谨度模型往往基于理想化的学科公理推演，对资源匮乏薄弱学校在师资配置上的现实鸿沟缺乏足够的同情性理解。
+> - **学院派精英视角脱离地方公立学校生态** 批评指出 NRC 报告执笔人多为顶尖[[Research Universities|研究型大学]]教授，其提出的课程严谨度模型往往基于理想化的学科公理推演，对资源匮乏薄弱学校在师资配置上的现实鸿沟缺乏足够的同情性理解。
 
 ---
 

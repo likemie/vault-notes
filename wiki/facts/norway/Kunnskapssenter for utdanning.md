@@ -12,7 +12,7 @@ subtype: organization
 region: norway
 fact_region: "norway"
 fact_kind: "organization"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -54,6 +54,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[EPPI-Centre]]"
   - "[[Danish Clearinghouse for Educational Research]]"
+  - "[[Chinese Academy of Sciences]]"
   - "[[Education Endowment Foundation]]"
   - "[[Campbell Collaboration]]"
   - "[[National Institute for Educational Policy Research]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-09-13'
-updated: 2026-09-27
+updated: 2026-10-02
 ---
 
 # Kunnskapssenter for utdanning
@@ -89,7 +90,7 @@ updated: 2026-09-27
 > [!dev-timeline]- 组织发展历程
 > - **2013 — 创设与初期建设** 挪威政府设立 Kunnskapssenter for utdanning，作为国家[[Evidence-Based Education\|循证教育]]政策基础设施的核心组件，发布首批教育领域[[Systematic Review\|系统综述]]，建立内部方法论规范体系；初期在奥斯陆运作，与教育部保持密切的沟通联络关系。
 > - **2015–2018 — 平行评审机制成熟化** 在 [[EPPI-Centre]] 等国际先行机构的方法论启发下，系统研发并优化平行评审规程，在每项系统综述中建立独立的实践者参与渠道，使一线教师的知识优先级与经验判断被结构化纳入证据综合框架，同期扩展与北欧其他国家研究机构的学术合作网络。
-> - **2019 — 迁往斯塔万格大学（分权改革）** 依据挪威政府区域改革政策，机构整体迁往斯塔万格大学，完成从首都向地方大学的制度性落地；迁址后与斯塔万格大学教育科学院深度整合，进一步强化学术自治属性与地方教育网络的联结。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
+> - **2019 — 迁往斯塔万格大学（分权改革）** 依据挪威政府区域改革政策，机构整体迁往斯塔万格大学，完成从首都向地方大学的制度性落地；迁址后与斯塔万格大学教育[[Chinese Academy of Sciences|科学院]]深度整合，进一步强化学术自治属性与地方教育网络的联结。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
 > - **2020年代至今 — 数字化与跨地区影响力拓展** 疫情后加速数字化知识服务建设，在线发布系统综述数据库，扩大在挪威教师专业发展网络与地方教育行政体系中的影响力，参与北欧教育研究网络国际合作。
 
 ---

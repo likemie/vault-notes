@@ -12,7 +12,7 @@ title: "Argument_Cheng_2026_KeJiChuangXin"
 argument_key: "Argument_Cheng_2026_KeJiChuangXin"
 argument_display_title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
 argument_kind: "book"
-argument_related_count: 37
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Technology Transfer Office]]"
+  - "[[Research Universities]]"
   - "[[Entrepreneurial University]]"
   - "[[Innovation Park]]"
   - "[[Clinical Trial]]"
@@ -51,6 +52,7 @@ related_persons: []
 related_facts:
   - "[[German Dual Education System]]"
   - "[[China S&T Innovation Policy Evolution]]"
+  - "[[Chinese Academy of Sciences]]"
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
   - "[[Open Competition Mechanism]]"
   - "[[US Innovation Policy System]]"
@@ -66,6 +68,7 @@ related_facts:
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Hatch Act of 1887]]"
   - "[[National Science Foundation]]"
+  - "[[National Natural Science Foundation of China]]"
 related_arguments: []
 sources:
   - "[[books/Cheng_2026_KeJiChuangXin/Cheng_2026_KeJiChuangXin|Cheng_2026_KeJiChuangXin]]"
@@ -148,7 +151,7 @@ citation_aliases:
 
 > [!note]- 四阶段演进与驱动逻辑
 > **无偿输送（1949—1978年）**
-> - 中国科学院、国防科研院所、高等院校、各行业主管部门及地方政府相继建立科研机构，形成"五路大军"
+> - [[Chinese Academy of Sciences|中国科学院]]、国防科研院所、高等院校、各行业主管部门及地方政府相继建立科研机构，形成"五路大军"
 > - 按《1956—1967年科学技术发展远景规划》（12大领域、57项任务）攻关，成果无偿输送给国营企业
 > - "两弹一星"、东风一号、结晶牛胰岛素等重大突破显著缩短与世界先进水平的差距
 > - 驱动逻辑：国家意志优先于市场效率，服务于重工业和国防工业体系建立(pp.11–12)
@@ -310,7 +313,7 @@ citation_aliases:
 > 集群方面，德国是全球最早采用集群模式推动创新的国家之一。1995年启动BioRegio生物集群计划，此后陆续推出创新区域、GA网络和顶尖集群竞争计划，推动生物技术、交通运输、制造和工程、"微电子-纳米-光学"等领域的产业集聚。政府通过竞赛方式遴选高水平领先集群，确保政策资源精准投放。
 
 > [!info] 供给：多层次科研体系与四大机构
-> 研发投入长期高于欧盟平均水平，也持续领先于美国和中国，2000—2019年增长翻倍。政府持续加大科研经费，工业界也为高校和非大学研究机构提供大量资金。高等教育体系由研究型大学和应用技术大学构成，超过半数院校将应用创新作为主要定位，过去百年培养了104位诺贝尔奖获得者。研究型大学强调"教学与研究相结合"，部分工业技术大学（如慕尼黑工大、柏林工大）明确定位为[[Entrepreneurial University\|创业型大学]](pp.44–45)。
+> 研发投入长期高于欧盟平均水平，也持续领先于美国和中国，2000—2019年增长翻倍。政府持续加大科研经费，工业界也为高校和非大学研究机构提供大量资金。高等教育体系由[[Research Universities|研究型大学]]和应用技术大学构成，超过半数院校将应用创新作为主要定位，过去百年培养了104位诺贝尔奖获得者。研究型大学强调"教学与研究相结合"，部分工业技术大学（如慕尼黑工大、柏林工大）明确定位为[[Entrepreneurial University\|创业型大学]](pp.44–45)。
 >
 > 800余所公共研究机构中，四大机构最具代表性：[[Fraunhofer Society Model\|弗劳恩霍夫协会]]专注前沿关键技术，由76家研究所组成、3万员工，年度预算29亿欧元（其中25亿来自科研合同收入）；马克斯·普朗克创新公司年均受理130项发明报告、签订80余份许可协议、年许可收益超2000万欧元；亥姆霍兹联合会由18个国家实验室组成、4万科研人员、45亿欧元经费，通过设立专项基金会引入社会资本；莱布尼茨联合会有84个研究所、1.25万员工、14亿欧元经费（1/3来自竞争性项目、2/3来自财政拨款）。据测算，德国公共科研体系通过成果转化每年创造约1900亿欧元经济价值，相当于GDP的7.3%(pp.46–47)。
 
@@ -518,7 +521,7 @@ citation_aliases:
 深圳从低端加工产业起步，历经40余年构建起规模庞大的产业体系。作者从科技供给、企业主体、成果转化、创新生态四个维度论证深圳的创新模式，以电子信息产业作为典型案例验证。
 
 > [!info] 科技供给：基础研究投入与全过程创新生态链
-> 深圳率先形成基础研究长期持续稳定投入机制，明确每年不低于30%的市级科技研发资金投向基础研究与应用基础研究。设立自然科学基金专项支持自由探索，并与国家自然科学基金委员会联合资助前沿项目。通过"揭榜挂帅""赛马"等竞争机制遴选攻关团队，在5G、人工智能、生物技术等领域取得突破(pp.73–74)。
+> 深圳率先形成基础研究长期持续稳定投入机制，明确每年不低于30%的市级科技研发资金投向基础研究与应用基础研究。设立自然科学基金专项支持自由探索，并与[[National Natural Science Foundation of China|国家自然科学基金委员会]]联合资助前沿项目。通过"揭榜挂帅""赛马"等竞争机制遴选攻关团队，在5G、人工智能、生物技术等领域取得突破(pp.73–74)。
 >
 > 大力引进高水平研究机构：香港科技大学、哈尔滨工业大学、上海交通大学等数十家知名高校在深圳设立分校或研究院。生物医药领域引进深圳湾实验室、深港脑科学国际创新研究院等机构。构建"基础研究+技术攻关+成果产业化+科技金融+人才支撑"全过程创新生态链(pp.74–75)。
 

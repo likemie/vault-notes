@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_display_title: "Chapter five: Policy"
 argument_kind: "book-chapter"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -65,6 +65,7 @@ related_facts:
   - "[[The Green Book]]"
   - "[[Public Attitudes to Science]]"
   - "[[Sciencewise]]"
+  - "[[Chinese Academy of Sciences]]"
   - "[[Sense about Science]]"
 status: draft
 created: 2026-09-04
@@ -375,7 +376,7 @@ updated: 2026-09-17
 仅有政府自律并不足以防范政治干预，必须引入不受政党政治管辖的最高学术中介行使监督权：
 
 > [!pathways] 建议十五：国家学术院开展政策科学证据质量独立审计（Recommendation 15, p. 88）
-> 国家学术院（包括英国皇家学会、英国国家学术院、皇家工程院及医学科学院）作为独立于英国政府的权威机构，必须在监督重大政策决策中科学证据的质量与使用方面承担主动的公共问责角色：
+> 国家学术院（包括英国皇家学会、英国国家学术院、皇家工程院及医学[[Chinese Academy of Sciences|科学院]]）作为独立于英国政府的权威机构，必须在监督重大政策决策中科学证据的质量与使用方面承担主动的公共问责角色：
 > - **对重大政策开展公开证据审查** 针对政府、议会两院以及各主要政党在重大政策决定中所引用的科学证据，国家学术院应主动发起公开、严谨的独立审视，确保科学事实以客观、清晰且完全剥离政治偏见的方式呈现在全社会面前。
 > - **跨界联合专业治理机构协同审计** 国家学术院应深度联合政府研究所（Institute for Government, IfG）以及“[[Sense about Science\|科学认知组织]]”（Sense about Science）等具有广泛社会公信力的第三方独立机构，常态化联合评估政府将科学证据融入政策制定的实际成效及其面向公众沟通的透明度。（p. 88）
 

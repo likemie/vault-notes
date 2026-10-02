@@ -9,7 +9,7 @@ summary: "拉美著名人类学家，智利科学院院士，墨西哥国立自�
 type: person
 nationality: chile
 person_region: "chile"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -41,6 +41,7 @@ related_persons:
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
 related_facts:
+  - "[[Chinese Academy of Sciences]]"
   - "[[World Bank]]"
   - "[[International Monetary Fund]]"
 related_arguments:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # Larissa Adler Lomnitz
@@ -58,7 +59,7 @@ updated: 2026-09-29
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 拉美著名社会人类学家、城市人类学开拓者；智利科学院院士、墨西哥国立自治大学（UNAM）[[Ethnography|人类学研究]]所荣休高级研究员，曾任拉丁美洲人类学学会会长。
+> - **身份位置** 拉美著名社会人类学家、城市人类学开拓者；智利[[Chinese Academy of Sciences|科学院]]院士、墨西哥国立自治大学（UNAM）[[Ethnography|人类学研究]]所荣休高级研究员，曾任拉丁美洲人类学学会会长。
 > - **核心角色** 拉美中产阶级、非正式制度与生存互助网络研究的领军学者；通过对智利皮诺切特军政权下中产阶级家庭的长期田野民族志调查，率先揭露了新自由主义极端市场化、教育券制度与使用者付费如何残酷侵蚀普通家庭生计，为解构新自由主义“自由选择”神话提供了不可替代的一手实证人类学基准。
 > - **代表贡献** 提出拉美边缘群体与中产阶级互助生存网络模型；出版《边缘人如何生存：墨西哥城棚户区的互助网络》（1975/1977）与《智利中产阶级：新自由主义下的生存斗争》（与安娜·梅尔尼克合著，1991）。
 
@@ -78,7 +79,7 @@ updated: 2026-09-29
 > - **1975** 出版《边缘人如何生存》（*Cómo sobreviven los marginados*），由墨西哥著名学者出版社（Siglo XXI）出版，被誉为拉美非正式经济研究经典。
 > - **1980 年代** 针对智利皮诺切特军政权引入“芝加哥男孩”极端新自由主义改革展开实地田野调查，追踪中产阶级教师、公务员与专业人士在公共[[Endogenous and Exogenous Privatisation|教育私有化]]下的断崖式衰退。
 > - **1991** 在美国出版专著《智利中产阶级：新自由主义下的生存斗争》（*Chile's Middle Class: A Struggle for Survival in the Face of Neoliberalism*）。
-> - **2006** 当选智利科学院院士。
+> - **2006** 当选智利[[Chinese Academy of Sciences|科学院]]院士。
 > - **2019** 病逝于墨西哥城，享年 86 岁。
 
 ---

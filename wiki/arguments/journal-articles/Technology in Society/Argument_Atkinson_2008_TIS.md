@@ -19,12 +19,17 @@ tags:
   - theme/innovation
   - method/historical-comparative
 related_concepts:
+  - "[[Research Universities]]"
   - "[[Academic Freedom]]"
   - "[[Going Native]]"
   - "[[University-Industry Collaboration]]"
   - "[[Academic Risk Aversion]]"
   - "[[Document]]"
+  - "[[Humboldtian Model of Higher Education]]"
   - "[[Knowledge Production]]"
+  - "[[Grandes Ecoles]]"
+  - "[[Pluralistic Federal Funding System]]"
+  - "[[Carnegie Classification of Institutions of Higher Education]]"
   - "[[Technology Transfer Office]]"
   - "[[Megascience Installations]]"
   - "[[Technology Transfer]]"
@@ -47,16 +52,26 @@ related_facts:
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Academic Ranking of World Universities]]"
   - "[[National Science Foundation]]"
+  - "[[Chinese Academy of Sciences]]"
   - "[[American Association for the Advancement of Science]]"
   - "[[Morrill Land-Grant Act of 1862]]"
+  - "[[National Academy of Sciences]]"
+  - "[[National Research Council]]"
   - "[[Bell Labs]]"
   - "[[Office of Scientific Research and Development]]"
   - "[[MIT Radiation Laboratory]]"
+  - "[[Office of Naval Research]]"
+  - "[[Max Planck Society]]"
+  - "[[Fraunhofer Society Model]]"
   - "[[CNRS]]"
+  - "[[Imperial Universities]]"
+  - "[[National Natural Science Foundation of China]]"
   - "[[European Research Area]]"
   - "[[Sputnik Shock 1957]]"
   - "[[President's Science Advisory Committee]]"
+  - "[[National Defense Education Act of 1958]]"
   - "[[Federally Funded Research and Development Centers]]"
+  - "[[Office of Science and Technology Policy]]"
   - "[[Industry-University Cooperative Research Centers]]"
   - "[[NSF Supercomputer Centers]]"
 related_arguments: []
@@ -72,9 +87,9 @@ title: "Argument_Atkinson_2008_TIS"
 argument_key: "Argument_Atkinson_2008_TIS"
 argument_display_title: "Research universities: Core of the US science and technology system"
 argument_kind: "journal-article"
-argument_related_count: 35
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 49
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Technology in Society"
 book_title: ""
@@ -89,7 +104,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 欧洲中世纪以来的大学长期主要从事既有知识的讲授，而美国研究型大学在第二次世界大战前同样处于国家科技体系边缘且缺乏联邦公共财政资助。这套大学体制为何能在二战后数十年内迅速跃升为全美科技体系的核心与全球科学研究的重要阵地？在欧洲与东亚国家尝试借鉴美国大学经验却面临诸多制度制约的背景下，支撑美国大学体系运转的组织机制是什么，而该体系在 21 世纪初又面临着哪些关乎长远发展的现实问题？
+> 欧洲中世纪以来的大学长期主要从事既有知识的讲授，而[[Research Universities|美国研究型大学]]在第二次世界大战前同样处于国家科技体系边缘且缺乏联邦公共财政资助。这套大学体制为何能在二战后数十年内迅速跃升为全美科技体系的核心与全球科学研究的重要阵地？在欧洲与东亚国家尝试借鉴美国大学经验却面临诸多制度制约的背景下，支撑美国大学体系运转的组织机制是什么，而该体系在 21 世纪初又面临着哪些关乎长远发展的现实问题？
 
 > [!claim] 核心主张
 > 美国研究型大学从科技体系边缘走向核心地位，根本动力在于战时科技动员所确立的战略价值，以及 1945 年[[Science, The Endless Frontier 1945|布什报告]]所奠定的联邦资助基础研究的国家契约。该体系之所以难以被欧亚集权管理体制简单复制，关键在于其非集权的分层竞争生态、择优同行评议机制，以及拔尖研究生培养与实验室前沿科研的一体化共生。然而，该体系正面临严重的结构性失衡：研发经费向生物医学的单一倾斜挤压了基础数理与工程学科，国会政治专项拨款绕开同行评议损害了择优公信力，而课题中标率持续走低正迫使青年学者转向稳妥的渐进研究，加剧了学术产出的平庸化。
@@ -112,7 +127,7 @@ issuing_organization: ""
 > | **[[Academic Risk Aversion\|学术避险机制]]**<br>[[Academic Risk Aversion]] | 阐明微观层面科研资助竞争白热化、同行评议过度看重确定性与青年长聘考评压力如何形塑学者的选题自我审查。 |
 
 > [!warrant]- 理论如何支撑论证
-> 历史制度主义框架将现代研究型大学置于长时段的组织演变脉络中，揭示制度变革并非凭空产生，而是特定历史危机（如二战、人造卫星危机、越战与经济滞胀）驱动政策选择的结果。战后科学契约理论阐明了联邦财政与大学自主性之间的制度妥协；三螺旋理论剖析了大学与工业界从疏离到重新链接的动力；而学术避险理论则将宏观层面的资助分配机制（资助率走低、学科倾斜、同行评议）与微观学者的职业生存策略相连通，完整搭建了从宏观国家科技政策到微观科研行为异化的解释桥梁。
+> 历史制度主义框架将现代[[Research Universities|研究型大学]]置于长时段的组织演变脉络中，揭示制度变革并非凭空产生，而是特定历史危机（如二战、人造卫星危机、越战与经济滞胀）驱动政策选择的结果。战后科学契约理论阐明了联邦财政与大学自主性之间的制度妥协；三螺旋理论剖析了大学与工业界从疏离到重新链接的动力；而学术避险理论则将宏观层面的资助分配机制（资助率走低、学科倾斜、同行评议）与微观学者的职业生存策略相连通，完整搭建了从宏观国家科技政策到微观科研行为异化的解释桥梁。
 
 ---
 
@@ -129,7 +144,7 @@ issuing_organization: ""
 > | 样本层面 | 构成 |
 > |---|---|
 > | **文本样本** | 《科学：[[Science, The Endless Frontier 1945\|无尽的前沿]]》原始报告、1976 年《国家科学技术政策、组织和优先事项法案》、1980 年《[[Bayh-Dole Act of 1980\|拜杜法案]]》文本、国家科学基金会（[[National Science Foundation\|NSF]]）历年预算申请报告与政策审议档案。 |
-> | **统计样本** | 全美 4,387 所高等教育机构（2006 年卡内基分类）、199 所高水平研究型大学（96 所极高研究活动研究型大学 [Research Universities/Very High research activity, RU/VH] 与 103 所高研究活动研究型大学 [Research Universities/High research activity, RU/H]）、全美科研支出排名前 100 位大学纵向数据。 |
+> | **统计样本** | 全美 4,387 所高等教育机构（2006 年卡内基分类）、199 所高水平[[Research Universities\|研究型大学]]（96 所极高研究活动研究型大学 [Research Universities/Very High research activity, RU/VH] 与 103 所高研究活动研究型大学 [Research Universities/High research activity, RU/H]）、全美科研支出排名前 100 位大学纵向数据。 |
 > | **材料情境** | 宏观政策史料覆盖 1940 至 2006 年；国际比较覆盖欧洲联盟诸国、日本科技基本计划实施进展及中国面向高水平大学的建设态势。 |
 
 ---
@@ -158,7 +173,7 @@ issuing_organization: ""
 ### 论证步骤一　大学职能的历史转向与二战前美国科研生态的边缘状态
 
 > [!claim] 步骤一核心主张
-> 大学在欧洲起源后的漫长历史中仅承担既有知识的传授职能；德国洪堡模式与美国赠地学院开创了教学与科研相结合的制度雏形，但截至二战前夕，美国学术科研仍高度受限于微薄的捐赠基金与州财政，在全国研发系统中处于边缘地位。（pp.31–34）
+> 大学在欧洲起源后的漫长历史中仅承担既有知识的传授职能；德国[[Humboldtian Model of Higher Education|洪堡模式]]与美国赠地学院开创了教学与科研相结合的制度雏形，但截至二战前夕，美国学术科研仍高度受限于微薄的捐赠基金与州财政，在全国研发系统中处于边缘地位。（pp.31–34）
 
 #### 1. 欧洲大学长期局限于既有知识传授而将科学发现排斥在体制之外
 
@@ -167,10 +182,10 @@ issuing_organization: ""
 > [!phase] 近代科学探索中心的历史变迁与组织依托
 > - **16–17 世纪科学革命：大学体制外的个体探索**
 >   哥白尼长期担任波兰大教堂教士；第谷·布拉赫依靠丹麦国王与神圣罗马帝国皇帝的宫廷资助建立私人天文台；开普勒继承其职位成为皇家天文学家；伽利略在帕多瓦大学教授几何学与天文学，但主要研究成果多以宫廷学者身份完成；牛顿在剑桥大学虽设立数学讲席，但其力学与光学成果主要通过伦敦皇家学会（1660 年成立）进行交流发表。大学在科学革命中并非[[Knowledge Production|知识生产]]的中心。（pp.31–32）
-> - **18 世纪启蒙时代：皇家学术学会与科学院兴起**
+> - **18 世纪启蒙时代：皇家学术学会与[[Chinese Academy of Sciences|科学院]]兴起**
 >   科学研究与探索的主要阵地逐步转移至享有国家特许的专门机构，如巴黎皇家科学院（1666）与柏林科学院（1700）；美洲大陆亦由本杰明·富兰克林于 1743 年创立美国哲学会（American Philosophical Society, APS），约翰·亚当斯于 1780 年创立美国艺术与科学院（American Academy of Arts and Sciences, [[American Association for the Advancement of Science|AAAS]]），为科学家与社会贤达提供研讨平台。（p.32）
 > - **19 世纪初普鲁士改革：洪堡模式确立教学与科研统一原则**
->   1810 年柏林大学创办，正式提出大学教授不仅需要讲授知识，还必须从事科学研究；1826 年化学家李比希（Justus Liebig）在吉森大学创设首个兼具教学实验与前沿研究功能的现代化学实验室，教学与研究并重的现代大学体制由此成型，并在德意志帝国统一后与工业界产生紧密互动。（pp.32–33）
+>   1810 年柏林大学创办，正式奠定[[Humboldtian Model of Higher Education|洪堡模式]]（Humboldtian Model），提出大学教授不仅需要讲授知识，还必须从事科学研究；1826 年化学家李比希（Justus Liebig）在吉森大学创设首个兼具教学实验与前沿研究功能的现代化学实验室，教学与研究并重的现代大学体制由此成型，并在德意志帝国统一后与工业界产生紧密互动。（pp.32–33）
 
 德国开创的教学与科研一体化模式，打破了欧洲数百年间大学不从事知识生产的旧规，成为后来美国高等教育转型的制度母本。
 
@@ -210,7 +225,7 @@ issuing_organization: ""
 
 #### 1. 战时科研动员打破了联邦政府不资助大学的传统禁忌
 
-1940 年 6 月罗斯福总统设立国家国防研究委员会（National Defense Research Committee, NDRC），并在 1941 年升格为[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（[[Office of Scientific Research and Development|OSRD]]），由万尼瓦尔·布什领衔，哈佛大学校长科南特、麻省理工学院（Massachusetts Institute of Technology, MIT）校长康普顿及贝尔实验室总裁朱厄特协同执掌。（pp.34–35）
+1940 年 6 月罗斯福总统设立国家国防研究委员会（National Defense Research Committee, NDRC），并在 1941 年升格为[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（[[Office of Scientific Research and Development|OSRD]]），由万尼瓦尔·布什领衔，哈佛[[Grandes Ecoles|大学校]]长科南特、麻省理工学院（Massachusetts Institute of Technology, MIT）校长康普顿及贝尔实验室总裁朱厄特协同执掌。（pp.34–35）
 
 > [!proc] 战时科研动员向常态科研体系转化的机制推进
 > 1. **开创联邦政府与大学科研合同资助机制** [[Office of Scientific Research and Development|OSRD]] 改变了以往政府自建实验室的旧规，直接与大学签订研发合同，设立MIT [[MIT Radiation Laboratory|辐射实验室]]（Rad Lab，雷达攻关）与芝加哥大学冶金实验室（原子核链式反应），加利福尼亚大学伯克利分校主持洛斯阿拉莫斯实验室研发原子弹。（pp.34–35）
@@ -230,7 +245,7 @@ issuing_organization: ""
 >   除国防技术之外，联邦公共资金资助科学的首要重点必须是纯基础研究，以此作为催生技术进步与工业创新的根本引擎。（p.35）
 > - **资助流程严格遵从科学家共同体学术规范**
 >   科研立项与资金分配必须严格依照学术共同体的内部准则，由科学家同行进行独立评审，坚决排斥非专业官僚的行政指挥。（p.35）
-> - **确立研究型大学在国家[[Systems of Innovation|创新系统]]中的核心地位**
+> - **确立[[Research Universities|研究型大学]]在国家[[Systems of Innovation|创新系统]]中的核心地位**
 >   由于基础研究以大学为主要阵地，且研究生与高层次青年学者培养唯一依托于大学，资助基础研究必然要求将研究型大学置于国家科学技术体系的战略核心。（pp.35–36）
 
 但在如何落地这一设想上，科学家共同体与行政权力发生了深刻冲突。
@@ -239,14 +254,14 @@ issuing_organization: ""
 > - **布什方案（科学精英自治）** 主张基金会由非政府科学家组成的委员会完全掌控并遴选主任，免受白宫政治更迭与官僚人事行政干预，维护纯粹的探索自由。（pp.35–36）
 > - **杜鲁门方案（行政民主问责）** 坚持巨额公共财政预算必须对民选总统和纳税人负责，主任必须由总统任命并经参议院批准，杜绝公帑落入不受制约的学者行会。（pp.35–36）
 
-双方历经五年博弈最终妥协，杜鲁门于 1950 年签署《国家科学基金会法案》（P.L. 81-507），[[National Science Foundation|NSF]] 正式成立并确立了同行评议制度；与此同时，[[Office of Naval Research|海军研究办公室]]（Office of Naval Research, ONR, 1946）、原子能委员会（Atomic Energy Commission, AEC, 1946）及国立卫生研究院（National Institutes of Health, NIH, 1947）等任务型联邦机构共同构筑了多元联邦资助体系。（pp.36–37）
+双方历经五年博弈最终妥协，杜鲁门于 1950 年签署《国家科学基金会法案》（P.L. 81-507），[[National Science Foundation|NSF]] 正式成立并确立了同行评议制度；与此同时，[[Office of Naval Research|海军研究办公室]]（Office of Naval Research, ONR, 1946）、原子能委员会（Atomic Energy Commission, AEC, 1946）及国立卫生研究院（National Institutes of Health, NIH, 1947）等任务型联邦机构共同构筑了[[Pluralistic Federal Funding System|多元联邦资助体系]]。（pp.36–37）
 
 ---
 
 ### 论证步骤三　去中心化多元生态与教育科研共生机制塑造了美国大学的制度优势
 
 > [!claim] 步骤三核心主张
-> 美国研究型大学能够确立并维持全球卓越学术地位，其本质并非源于中央集权式的国家规划，而是由去中心化分层竞争、顶尖人才跨校流动、同行评议择优以及研究生教育与前沿科研在实验室的一体化共生所构筑的独特制度生态。（pp.42–44, 46）
+> 美国[[Research Universities|研究型大学]]（Research Universities）能够确立并维持全球卓越学术地位，其本质并非源于中央集权式的国家规划，而是由去中心化分层竞争、顶尖人才跨校流动、同行评议择优以及研究生教育与前沿科研在实验室的一体化共生所构筑的独特制度生态。（pp.42–44, 46）
 
 #### 1. 支撑美国大学卓越地位的深层组织构件
 
@@ -274,13 +289,13 @@ issuing_organization: ""
 
 > [!quad-grid] 欧亚四国高校科研体制与制度移植瓶颈案例分析
 > - **德国：独立科研学会与大学讲席制壁垒**
->   基础研究主要集中在马克斯·普朗克学会，应用研究集中在弗劳恩霍夫学会，大学传统讲席制等级森严，年轻讲师依附于终身教授，导致大学自身研究职能与研究生前沿实践产生脱节。（p.42）
+>   基础研究主要集中在[[Max Planck Society|马克斯·普朗克学会]]（MPG），应用研究集中在[[Fraunhofer Society Model|弗劳恩霍夫学会]]，大学传统讲席制等级森严，年轻讲师依附于终身教授，导致大学自身研究职能与研究生前沿实践产生脱节。（p.42）
 > - **法国：国家科研中心（[[CNRS]]）与大学校精英割裂**
->   顶级科研力量长期垄断于法国国家科学研究中心（Centre National de la Recherche Scientifique, CNRS）自设实验室，而精英人才培养则由声誉卓著的大学校（Grandes Écoles，如巴黎综合理工学院）垄断，常规综合性大学沦为平民教学机构，科研与大众高等教育严重分立。（p.42）
-> - **日本：帝国大学传统与国立大学法人化试炼**
->   自明治维新建立帝国大学以来，文部省长期对国立大学实施严格预算与人事管制；1996 年科学技术基本计划与 2004 年国立大学法人化虽赋予大学人事自主权并成立[[Technology Transfer Office|技术许可办公室]]（Technology Licensing Office, TLO），但官僚考核与近亲繁殖惯性依然显著。（pp.42–43）
+>   顶级科研力量长期垄断于法国国家科学研究中心（Centre National de la Recherche Scientifique, CNRS）自设实验室，而精英人才培养则由声誉卓著的[[Grandes Ecoles|大学校]]（Grandes Écoles，如巴黎综合理工学院）垄断，常规综合性大学沦为平民教学机构，科研与大众高等教育严重分立。（p.42）
+> - **日本：[[Imperial Universities|帝国大学]]传统与国立大学法人化试炼**
+>   自明治维新建立[[Imperial Universities|帝国大学]]以来，文部省长期对国立大学实施严格预算与人事管制；1996 年科学技术基本计划与 2004 年国立大学法人化虽赋予大学人事自主权并成立[[Technology Transfer Office|技术许可办公室]]（Technology Licensing Office, TLO），但官僚考核与近亲繁殖惯性依然显著。（pp.42–43）
 > - **中国：苏联式科学院模式重构与研究生体制改革**
->   1949 年后采纳苏联模式，中国科学院承担三分之二以上学术科研，大学专司教育部统编教学；1978 年后虽恢复研究生院并设立国家自然科学基金委员会（National Natural Science Foundation of China, NSFC），高水平大学推进研究生培养改革，但部属集权与科学院分立格局仍待实质性融通。（pp.42–43）
+>   1949 年后采纳苏联模式，[[Chinese Academy of Sciences|中国科学院]]（CAS）承担三分之二以上学术科研，大学专司教育部统编教学；1978 年后虽恢复研究生院并设立[[National Natural Science Foundation of China|国家自然科学基金委员会]]（National Natural Science Foundation of China, NSFC），高水平大学推进研究生培养改革，但部属集权与科学院分立格局仍待实质性融通。（pp.42–43）
 
 > [!contrast-table] 欧洲联盟科研一体化努力与其创新转化瓶颈
 > | 比较维度 | 欧洲联盟一体化政策与产出 | 美国对应现状与制度参照 | 制度瓶颈分析 |
@@ -315,7 +330,7 @@ issuing_organization: ""
 > - **发布主体** 美国国会与杰拉尔德·福特总统（公法 P.L. 94-282）
 > - **适用对象** 总统执行办公室、联邦各部委研发机构与全美科学界
 > - **政策问题** 越战期间总统科技顾问委员会被尼克松解散，政府与学界互信破裂，科技政策缺乏中枢协调
-> - **制度位置** 在白宫正式设立科学技术政策办公室（OSTP），恢复总统科学顾问地位并明确国家科技优先事项
+> - **制度位置** 在白宫正式设立[[Office of Science and Technology Policy|科学技术政策办公室]]（OSTP），恢复总统科学顾问地位并明确国家科技优先事项
 
 #### 2. NSF 产学协同项目试点与《拜杜法案》重塑技术转移机制
 
@@ -375,8 +390,8 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **国家科技中枢的宪章奠基** 美国研究型大学在二战前仅占全美研发支出约 9% 且几乎无联邦资助；战时动员的突破性贡献与 1945 年[[Science, The Endless Frontier 1945|布什报告]]确立了联邦资助大学基础研究符合国家最高利益的制度契约，将大学从边缘推向科技中枢。（pp.30, 33–36）
-> 2. **非集权竞争与教育科研共生优势** 美国大学体系的核心优势在于非中央集权的分层竞争生态、顶尖学者的自由流动市场、独立同行评议以及研究生教育与前沿科研在实验室的一体化共生；欧亚国家受困于中央教育部集权管制、教授讲席制壁垒及国家科学院分立而难以完全复制。（pp.42–43, 46）
+> 1. **国家科技中枢的宪章奠基** [[Research Universities|美国研究型大学]]在二战前仅占全美研发支出约 9% 且几乎无联邦资助；战时动员的突破性贡献与 1945 年[[Science, The Endless Frontier 1945|布什报告]]确立了联邦资助大学基础研究符合国家最高利益的制度契约，将大学从边缘推向科技中枢。（pp.30, 33–36）
+> 2. **非集权竞争与教育科研共生优势** 美国大学体系的核心优势在于非中央集权的分层竞争生态、顶尖学者的自由流动市场、独立同行评议以及研究生教育与前沿科研在实验室的一体化共生；欧亚国家受困于中央教育部集权管制、教授讲席制壁垒及国家[[Chinese Academy of Sciences|科学院]]分立而难以完全复制。（pp.42–43, 46）
 > 3. **产学研发机制的制度化重构** 战后联邦经费的垄断激增曾导致大学远离产业实际需求；1970 年代 [[National Science Foundation|NSF]] [[University-Industry Collaboration|产学合作]]中心试点与 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》赋予大学专利所有权，成功重塑了[[Technology Transfer|大学技术转移]]与现代区域创新集群的法律与激励基座。（pp.30, 40–42）
 > 4. **生物医学极化与政治专项分肥侵蚀** 联邦科研资金过度偏向生物医学（1973–2003 年达 120 亿美元），数理与社科发展长期滞后；国会定向专项拨款政治分肥直接架空了同行评议这一大学基石。（pp.43–44）
 > 5. **竞争白热化倒逼学术避险与[[Document|文献]]平庸化** 资助率低迷（青年学者仅约 20%）与 3 年启动金生存倒计时，迫使学者放弃高风险颠覆性课题，转向申报高度稳妥的安全项目，导致学术产出呈现系统性平庸化。（pp.44–45）
@@ -400,7 +415,7 @@ issuing_organization: ""
 > *"The report Science—the Endless Frontier, submitted by Vannevar Bush to President Harry Truman in July 1945, established both the legitimacy and the need for federal support of university research. The most far-reaching recommendation of Vannevar Bush's famous July 1945 report... was that it was in the nation's best interest for the federal government to fund university research."*
 
 > [!citation-card] 国会政治专项拨款对同行评议制度基石的绕开与破坏
-> 尽管国会拨款法案中由众参两院议员塞入的[[Congressional Earmarks|科研专项拨款]]年度总额相比桥梁、公路、图书馆或医院的专项拨款并不算多，但此类专项拨款却严重规避了作为研究型大学体系基石的同行评议程序。此外，没有任何证据表明为某所大学指定的新大楼或研究设施能让其学术声誉获得实质性提升。跨入领先研究型大学的行列是一个漫长而艰苦的过程，绝无法通过国会专项拨款来抄近道。（p.44）
+> 尽管国会拨款法案中由众参两院议员塞入的[[Congressional Earmarks|科研专项拨款]]年度总额相比桥梁、公路、图书馆或医院的专项拨款并不算多，但此类专项拨款却严重规避了作为[[Research Universities|研究型大学]]体系基石的同行评议程序。此外，没有任何证据表明为某所大学指定的新大楼或研究设施能让其学术声誉获得实质性提升。跨入领先研究型大学的行列是一个漫长而艰苦的过程，绝无法通过国会专项拨款来抄近道。（p.44）
 >
 > *"Although the annual total of such research-related earmarks is small compared with congressional earmarks for bridges, highways, libraries, or hospitals, such earmarking circumvents the peer review process which is a cornerstone of the research university system. Moreover, there is no evidence that a new building or research facility earmarked for a given university has led to its becoming more highly regarded. Entry into the ranks of leading research universities is a long and arduous process that cannot be short circuited by congressional earmarks."*
 

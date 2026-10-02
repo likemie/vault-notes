@@ -11,7 +11,7 @@ title: "Argument_SpronkenSmith_2024_AEHE"
 argument_key: "Argument_SpronkenSmith_2024_AEHE"
 argument_display_title: "Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Document]]"
   - "[[Creativity]]"
+  - "[[Research Universities]]"
 related_theories: []
 related_methods:
   - "[[Comparative Case Study]]"
@@ -282,7 +283,7 @@ updated: 2026-09-16
 ## 自述局限
 
 > [!warning]
-> - **样本规模与代表性限制** 由于调查对象仅限三所研究型大学，每校[[Sample Size Determination\|样本量]]较小（31–53人），且[[Questionnaire\|问卷]]回复率偏低（19.4%），使得研究发现的推广性受到一定限制（p. 99）。
+> - **样本规模与代表性限制** 由于调查对象仅限三所[[Research Universities|研究型大学]]，每校[[Sample Size Determination\|样本量]]较小（31–53人），且[[Questionnaire\|问卷]]回复率偏低（19.4%），使得研究发现的推广性受到一定限制（p. 99）。
 > - **自我感知的数据偏差** 数据主要依赖毕业生的主观自我感知评分，不同个体对“发展”与“应用”的界定标准可能不一致，且学生可能未能察觉导师或项目在日常培养中隐性倾注的能力支持。
 > - **测量指标范围较窄** 问卷调查采用的素养清单仅含 20 项特质，未能完全覆盖更广泛的研究者发展或能力综述框架下的全部要素。
 > - **选择性偏误与污名效应** 由于离开学术界在博士群体中可能存在某种“污名感”（stigma），可能导致非学术就业的毕业生倾向于不回复问卷，从而高估了学术界内部的就业比例。

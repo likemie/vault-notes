@@ -7,7 +7,7 @@ aliases:
 summary: "IB 知识论课程中把具体知识主张转化为开放且一般化认识论探究的核心问题形式，用于组织跨领域分析，并在并发学习中连接反思与实践。"
 type: concept
 domain: "curriculum"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -43,14 +43,15 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Hughes_2014_JRIE]]"
   - "[[Argument_Metli_2022_IJER]]"
 confidence: high
 status: active
 created: 2026-08-04
-updated: 2026-09-17
+updated: 2026-10-02
 ---
 
 # Knowledge Questions
@@ -64,7 +65,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 知识问题把对某一事实或事件的讨论提升为对[[Knowledge Production\|知识生产]]、正当化与边界的探究。
-> - **用途** 它为跨学科比较提供共同问题，使学生能够考察不同领域中的证据、解释、方法、视角和确定性。同时它也为学生将个人经验（如[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Activity, Service，CAS）中的社区服务）提炼为学术探究（如[[Extended Essay\|拓展论文]]（Extended Essay，EE））提供了[[Epistemology\|认识论]]桥梁。
+> - **用途** 它为跨学科比较提供共同问题，使学生能够考察不同领域中的证据、解释、方法、视角和确定性。同时它也为学生将个人经验（如[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Activity, Service，[[Chinese Academy of Sciences|CAS]]）中的社区服务）提炼为学术探究（如[[Extended Essay\|拓展论文]]（Extended Essay，EE））提供了[[Epistemology\|认识论]]桥梁。
 > - **课程位置** 在 2013 年指南中，知识问题被置于课程大纲、评估目标、规定题目论文和展示任务的中心。
 > - **边界** 一般性需要保留具体分析支点。知识问题仍需通过知识主张、真实实例和领域材料得到发展。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 36, 38–40)]]
 
@@ -97,7 +98,7 @@ updated: 2026-09-17
 > - **开放结构** 问题允许多种观点、反主张与证据路径进入分析。
 > - **一般化程度** 问题可以跨越单一事件或学科，比较相似[[Epistemology\|认识论]]结构在不同领域中的表现。
 > - **概念焦点** 模型、因果、解释、反常、归纳、确定性、不确定性和信念构成常见探究对象。
-> - **跨组件整合** 能够有效连结个体的切身经验（如 CAS 活动）与更宏大的知识探究，并启发跨学科论文选题（EE） [[Argument_Metli_2022_IJER\|(Metli & Akış, 2022)]]。
+> - **跨组件整合** 能够有效连结个体的切身经验（如 [[Chinese Academy of Sciences|CAS]] 活动）与更宏大的知识探究，并启发跨学科论文选题（EE） [[Argument_Metli_2022_IJER\|(Metli & Akış, 2022)]]。
 > - **评估可见性** 形成、评价和回答知识问题属于评估目标，论文与展示的最高等级描述符也直接评价知识问题的聚焦和分析质量。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 36–40)]]
 
 > [!logic-map]- 从情境到评估表现
@@ -138,7 +139,7 @@ updated: 2026-09-17
 > 知识问题不仅仅是完成 TOK 评估的工具，它还是实现 [[IB Diploma Programme\|IBDP]] 中跨组件有机联动的有效认识论桥梁，引导学生将实践经验升华为系统的学术思考。
 
 > [!claim] Metli, A. & Akış, D.
-> **作为 CAS 反思向导与 EE 研究灵感的 KQ** 
+> **作为 [[Chinese Academy of Sciences|CAS]] 反思向导与 EE 研究灵感的 KQ** 
 > 知识问题能够直接深化 CAS 经验的反思层级（例如，利用核心 KQ：“你的个人经验如何创造了意义或共享知识？”来反思一次志愿活动）。同时，在 TOK 课堂中提出的宏观伦理或艺术类知识问题（如“任何事物都能被称为艺术吗？”或“我们是否应对过去的行为进行道德评判？”），能够反向促成带有全球意识的 CAS 行动（如口述历史项目），并能为 EE 独立研究提供批判性的视角和具体的[[Research Question\|研究问题]]灵感（如探究涂鸦在视觉文化中的双重属性）。[[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, pp. 228–229)]]
 
 ### 命题三　知识问题的评估中心地位使课程结构可见，也会放大概念含混造成的评分偏差
@@ -163,7 +164,7 @@ updated: 2026-09-17
 
 > [!critique-method] 评估与实施风险
 > - **定义含混** 指南中的知识问题定义难以直接理解，概念掌握可能成为额外的评分门槛。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 36, 39)]]
-> - **孤立运作的风险** 虽然 KQ 能够联通 CAS 和 EE，但在实际教学中，如果学校层面缺乏协同备课时间或教师培训，KQ 经常沦为单纯应对 [[Theory of Knowledge\|TOK]] 考试的任务，无法发挥其跨领域的育人潜力。[[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, p. 226)]]
+> - **孤立运作的风险** 虽然 KQ 能够联通 [[Chinese Academy of Sciences|CAS]] 和 EE，但在实际教学中，如果学校层面缺乏协同备课时间或教师培训，KQ 经常沦为单纯应对 [[Theory of Knowledge\|TOK]] 考试的任务，无法发挥其跨领域的育人潜力。[[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, p. 226)]]
 > - **任务权重集中** 论文占总成绩三分之二，知识问题理解因而对最终成绩具有较强影响。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 38–40)]]
 > - **分析分布不均** 论文的分析质量描述符明确要求评价和推论，展示对真实情境连接的强调更强，两项任务呈现的[[Critical Thinking\|批判性思维]]要求并不均衡。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 40–43)]]
 
@@ -174,7 +175,7 @@ updated: 2026-09-17
 > [!evidence-grid] 知识问题在评估与跨组件联动中的应用
 > - **规定题目论文** [[Argument_Hughes_2014_JRIE\|Hughes (2014, pp. 38–40)]] 展示知识问题如何组织跨学科论证，并成为论文聚焦程度与分析质量的主要评价对象。
 > - **真实情境展示** [[Argument_Hughes_2014_JRIE\|Hughes (2014, pp. 39–40)]] 说明展示如何从特定真实情境识别知识问题，再考察不同观点及分析结果对该情境和其他情境的意义。
-> - **由 [[Theory of Knowledge\|TOK]] 启发的 CAS 实践** [[Argument_Metli_2022_IJER\|Metli & Akış (2022, pp. 228–229)]] 记录了学生利用 KQ（“我们能在多大程度上对过去行为进行道德评判？”）进行伦理探究后，直接发起口述历史的社区 CAS 项目，将[[Epistemology\|认识论]]反思转化为具体社会行动。
+> - **由 [[Theory of Knowledge\|TOK]] 启发的 [[Chinese Academy of Sciences|CAS]] 实践** [[Argument_Metli_2022_IJER\|Metli & Akış (2022, pp. 228–229)]] 记录了学生利用 KQ（“我们能在多大程度上对过去行为进行道德评判？”）进行伦理探究后，直接发起口述历史的社区 CAS 项目，将[[Epistemology\|认识论]]反思转化为具体社会行动。
 > - **由 CAS 经 TOK 转向 EE 研究** [[Argument_Metli_2022_IJER\|Metli & Akış (2022, p. 229)]] 记录了学生在 CAS 中接触涂鸦活动，并在 TOK 阶段利用 KQ 探究其艺术伦理边界，最终在 EE 阶段提炼出关于“涂鸦的视觉文化贡献”的[[Research Question\|研究问题]]，完成从实践反思到深入研究的闭环。
 
 ---
@@ -183,4 +184,4 @@ updated: 2026-09-17
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] — 从课程与评估一致性的视角拆解“知识问题”在 [[Theory of Knowledge\|TOK]] 2013 版指南中的核心定位、任务功能及其对[[Critical Thinking\|批判性思维]][[Test Validity\|测试效度]]的局限性。
-> - [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] — 将知识问题作为打破孤立组件壁垒的工具，展示其如何将 CAS 行动与 EE 研究统合在一致的[[Epistemology\|认识论]]反思框架下。
+> - [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] — 将知识问题作为打破孤立组件壁垒的工具，展示其如何将 [[Chinese Academy of Sciences|CAS]] 行动与 EE 研究统合在一致的[[Epistemology\|认识论]]反思框架下。

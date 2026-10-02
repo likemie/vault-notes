@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_display_title: "Chapter six: Academic scientific community"
 argument_kind: "book-chapter"
-argument_related_count: 39
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[Research Proposal]]"
   - "[[Governance by Spin]]"
   - "[[Chain of Evidence]]"
+  - "[[Grandes Ecoles]]"
   - "[[Evidence Standards]]"
   - "[[Academic Engagement]]"
   - "[[Knowledge Transfer]]"
@@ -76,6 +77,7 @@ related_facts:
   - "[[National Co-ordinating Centre for Public Engagement]]"
   - "[[Research Excellence Framework]]"
   - "[[UK Knowledge Exchange Framework]]"
+  - "[[Chinese Academy of Sciences]]"
 related_arguments: []
 status: draft
 created: 2026-09-04
@@ -369,7 +371,7 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 > | 评估治理维度 | 现行 REF 机制弊端与实践困境（REF 2014 / 2021） | REF 2029 顶层制度重构方案（REF 2029） | 预期达成的系统性治理成效 |
 > |---|---|---|---|
 > | **评估剖面设置** | 影响力与商业转化强绑定，缺乏对公共对话与公众参与的独立考评分类 | **设立独立的“参与与影响”（Engagement and Impact）考评剖面** | 彻底打破商业变现垄断，为长周期认知转变与信任构建赋予同等评价地位 |
-> | **科研环境考核** | 环境部分偏重科研产出总量与传统设施，未硬性审查社会参与制度保障 | **环境部分（SPRE）强制要求论证公众科学参与长效规划与文化培育** | 倒逼大学校长与管理层建立全校性参与战略，防止口号化宣称 |
+> | **科研环境考核** | 环境部分偏重科研产出总量与传统设施，未硬性审查社会参与制度保障 | **环境部分（SPRE）强制要求论证公众科学参与长效规划与文化培育** | 倒逼[[Grandes Ecoles\|大学校]]长与管理层建立全校性参与战略，防止口号化宣称 |
 > | **人员编制核算** | 专职公众参与专业人员被排斥在国家科研人员数据库之外，属于“隐形劳动” | **首次将大学聘用的专职参与专业人员（Engagement Professionals）编制纳入核算** | 为大学设立常设性专业支持团队提供国家评估回报，稳定专业队伍 |
 > | **因果[[Evidence Standards\|证据标准]]** | 严苛要求类似于专利产值或技术授权的线性归因硬指标，忽视弥散性成效 | **广泛承认参与案例中合乎逻辑的深层证据链与质性社会效益阐释** | 消除大学申报公众参与案例的畏难情绪，全面激活 50% 案例的参与潜能 |
 
@@ -465,7 +467,7 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 >   - 西蒙·加斯克尔教授（Professor Simon Gaskell）：普利茅斯大学理事会主席（Chair of the Board of Governors）、前伦敦玛丽女王大学校长；
 >   - 劳拉·凯利博士（Dr Laura Kelley）：埃克塞特大学多萝西·霍奇金研究员（Dorothy Hodgkin Research Fellow）、生态与行为进化副教授；
 >   - 保罗·曼纳斯（Paul Manners）：英国国家公众参与协调中心（National Co-ordinating Centre for Public Engagement, NCCPE）联合主任（Co-director）；
->   - 阿丽娜·帕泰利博士（Dr Alina Patelli）：英国青年科学院（UK Young Academy）成员、阿斯顿大学计算机科学资深讲师；
+>   - 阿丽娜·帕泰利博士（Dr Alina Patelli）：英国青年[[Chinese Academy of Sciences|科学院]]（UK Young Academy）成员、阿斯顿大学计算机科学资深讲师；
 >   - 爱丽丝·泰勒-吉（Alice Taylor-Gee）：伦敦国王学院高级公众参与经理（Senior Public Engagement Manager）。（Annex 1, p. 111）
 
 ---

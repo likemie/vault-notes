@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
+  - "[[Research Universities]]"
   - "[[Technology Transfer Office]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Governance by Spin]]"
@@ -96,7 +97,7 @@ updated: 2026-10-02
 > [!citation-card] 知识产权归属与商业化激励的制度重构
 > 阿特金森与布兰皮德系统总结了该法案的革命性突破：
 > 
-> 在该法案通过之前，联邦资助科研成果的权利归政府所有，但政府极少去主动开发或许可这些成果，导致大量极具应用前景的潜在产品与工艺根本未能得到转化。《拜杜法案》从根本上扭转了这一局面——它将联邦资助的研发成果权利明确赋予开展研究的机构，尤其是研究型大学。自此，私营企业能够与大学合作伙伴展开直接谈判、分享研发权益，创造了前所未有的强劲激励。随后，研究型大学纷纷建立起技术许可组织（[[Technology Transfer Office|TLO]]），有效打通了大学前沿成果走向实体生产与商业市场的制度通道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]
+> 在该法案通过之前，联邦资助科研成果的权利归政府所有，但政府极少去主动开发或许可这些成果，导致大量极具应用前景的潜在产品与工艺根本未能得到转化。《拜杜法案》从根本上扭转了这一局面——它将联邦资助的研发成果权利明确赋予开展研究的机构，尤其是[[Research Universities|研究型大学]]。自此，私营企业能够与大学合作伙伴展开直接谈判、分享研发权益，创造了前所未有的强劲激励。随后，研究型大学纷纷建立起技术许可组织（[[Technology Transfer Office|TLO]]），有效打通了大学前沿成果走向实体生产与商业市场的制度通道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]
 
 ---
 
@@ -177,7 +178,7 @@ updated: 2026-10-02
 > > [!axis] 大学核心职能：学术纯洁殿堂 vs 产业“代工车间”
 > > 法案极大地激发了大学对产业资金的渴望，但引发了关于大学是否会丧失基础科学独立性的深刻担忧。
 > >
-> > - **阿特金森与布兰皮德（[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008]]）** 尖锐指出：[[University-Industry Collaboration|产学合作]]过深可能使研究型大学沦为工业界的“代工车间”（job shops）。如果大学为迎合企业而开展专有保密研究、阻碍成果公开发表，将严重腐蚀大学作为探索与传播客观真理阵地的核心立足点。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]
+> > - **阿特金森与布兰皮德（[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008]]）** 尖锐指出：[[University-Industry Collaboration|产学合作]]过深可能使[[Research Universities|研究型大学]]沦为工业界的“代工车间”（job shops）。如果大学为迎合企业而开展专有保密研究、阻碍成果公开发表，将严重腐蚀大学作为探索与传播客观真理阵地的核心立足点。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]
 > > - **[[Technology Transfer|技术转移]]实务阵营（AUTM / Susalka & Carbone, 2025）** 认为绝大多数大学均制定了严格的[[Academic Freedom|学术自由]]与发表保护条款，产学合作非但没有腐蚀学术，反而为前沿基础研究提供了丰沛的产业反馈与应用场景。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, pp. 271–274)]]
 >
 > > [!axis] 公共财政伦理：半市场安排与“双重收费”指责

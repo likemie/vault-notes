@@ -9,7 +9,7 @@ title: "Argument_Zapp_2022_Springer"
 argument_key: "Argument_Zapp_2022_Springer"
 argument_display_title: "Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks"
 argument_kind: "book"
-argument_related_count: 40
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[Intercultural Education]]"
   - "[[University Social Responsibility]]"
+  - "[[Grandes Ecoles]]"
   - "[[Scientization of Politics]]"
   - "[[Epistemic Drift]]"
   - "[[Endogenous and Exogenous Privatisation]]"
@@ -61,6 +62,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[European Standards and Guidelines]]"
   - "[[Higher Education Act of 1965]]"
+  - "[[Chinese Academy of Sciences]]"
   - "[[World Trade Organization]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[Research Excellence Framework]]"
@@ -161,7 +163,7 @@ Zapp 论证大学经历了两个层次的身份变化(pp.147–149)：
 
 > 例：二十年前，一个想在发展中国家做水供应项目的学生只能学土木工程，然后自己在工作中积累政策知识。现在，他可以直接申请 Manchester 的"Water Supply and Sanitation Policy in Developing Countries" MOOC 或 Gothenburg 的"From Research to Policy for Sustainable Development"博士项目。大学已经提前把"全球治理专家"这个职业路径课程化了。
 
-**机制三：内部政策对齐（Aligning Internal Policies）**。大学不仅对外声称支持 SDGs，也在内部落实。Zapp 发现了 [[University Social Responsibility|大学社会责任]]（USR）的制度化趋势——Corporate Register (2019) 和全球报告倡议组织（Global Reporting Initiative, GRI） (2019) 的数据库共列出全球 200+ 所大学的企业社会责任（Corporate Social Responsibility, CSR）报告，其中大多数在过去 5 年内首次发布（Fig. 9.1）。大学校园正被改造为"活实验室"和"可持续发展试验台"——涵盖能源、水、交通、废物和食品的全系统可持续管理，并通过专门的办公室和组织单元实现正式制度化(pp.152–153)。
+**机制三：内部政策对齐（Aligning Internal Policies）**。大学不仅对外声称支持 SDGs，也在内部落实。Zapp 发现了 [[University Social Responsibility|大学社会责任]]（USR）的制度化趋势——Corporate Register (2019) 和全球报告倡议组织（Global Reporting Initiative, GRI） (2019) 的数据库共列出全球 200+ 所大学的企业社会责任（Corporate Social Responsibility, CSR）报告，其中大多数在过去 5 年内首次发布（Fig. 9.1）。[[Grandes Ecoles|大学校]]园正被改造为"活实验室"和"可持续发展试验台"——涵盖能源、水、交通、废物和食品的全系统可持续管理，并通过专门的办公室和组织单元实现正式制度化(pp.152–153)。
 
 > 例：这类似于企业从"我们合规了"到"我们在做环境、社会和治理（Environmental, Social and Governance, [[European Standards and Guidelines\|ESG]]）报告"的转变。一所大学不再只说"我们有化学实验室"，而是说"我们的化学实验室实现了零碳排放，使用的能源 100% 来自校园太阳能板，相关数据已在年度可持续发展报告中披露"。Zapp 用 Fig. 9.1 展示这种转变的加速：1990 年几乎没有大学发布 CSR 报告，到 2020 年超过 150 所——指数级增长。
 
@@ -177,7 +179,7 @@ Zapp 在前四步论证了知识如何进入治理，第五步翻转视角——
 
 1. **[[Epistemic Drift|认识漂移]](epistemic drift, Elzinga, 1997)** 研究者逐渐把自己的研究兴趣对齐资助方的偏好，放弃了自己的学术议程——这是 [[Epistemic Governance|知识治理]]的内在风险之一。"反正申请 SDG 相关的经费容易中，我就做 SDG 相关的研究吧。"
 2. **证据的选择性使用和制造** 政策制定者只引用支持自己立场的科学证据(Steiner-Khamsi et al., 2020)；有政治倾向的研究者可能预设结论地"制造"证据(Zapp, 2020a)。——"我知道[[Endogenous and Exogenous Privatisation|教育私有化]]好，我就做一项研究来'证明'它好。"
-3. **对科学的公开压制** 威权政权直接压制学术机构——Zapp 举了 Viktor Orbán 的匈牙利为例：性别研究被禁止在大学教学、中欧大学（CEU）被骚扰和被迫迁离、科学院被政府严格控制(Scholars at Risk, 2019)。
+3. **对科学的公开压制** 威权政权直接压制学术机构——Zapp 举了 Viktor Orbán 的匈牙利为例：性别研究被禁止在大学教学、中欧大学（CEU）被骚扰和被迫迁离、[[Chinese Academy of Sciences|科学院]]被政府严格控制(Scholars at Risk, 2019)。
 
 > 例：COVID-19 疫情提供了科学-政治关系恶化的鲜活案例——Trump and Bolsonaro 反复拒绝接受气候变化和公共卫生的科学共识，同时提供"替代事实"和"替代发现"(Barrera et al., 2020; Hopf et al., 2019)。当总统说"我不相信科学家"时，[[Otherhood]] 的整个逻辑就崩溃了——大学替"他者"发声，但如果没有人听呢？
 
@@ -234,7 +236,7 @@ Zapp 的最终判断(p.157)：大学已经跃入全球治理的舞台，但它�
 
 ### 知识治理的双重风险
 
-- 科学-政治关系中存在三级恶化：[[Epistemic Drift|认识漂移]](Elzinga, 1997)→ 证据制造与选择性引用(Steiner-Khamsi et al., 2020; Zapp, 2020a)→ 对学术机构的公开压制（以匈牙利性别研究禁令、中欧大学 CEU 被迫迁离、科学院受政府控制为例），参见 [[Epistemic Governance#争议与批评]](pp.154–155)
+- 科学-政治关系中存在三级恶化：[[Epistemic Drift|认识漂移]](Elzinga, 1997)→ 证据制造与选择性引用(Steiner-Khamsi et al., 2020; Zapp, 2020a)→ 对学术机构的公开压制（以匈牙利性别研究禁令、中欧大学 CEU 被迫迁离、[[Chinese Academy of Sciences|科学院]]受政府控制为例），参见 [[Epistemic Governance#争议与批评]](pp.154–155)
 - 大学知识全球化与大学被国家重新领土化为地缘政治竞争单位构成悖论：各国通过"卓越计划"、教育枢纽、智慧城市和技术极争夺全球人才与资本，二十国集团（G20）实施研究计分卡，高等教育是《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS）最频繁被纳入的行业(Moisio, 2018; Knight, 2018,pp.155–157)
 
 > [!info]- 核心数据

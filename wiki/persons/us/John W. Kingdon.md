@@ -8,7 +8,7 @@ summary: "美国著名政治学者，密歇根大学政治学荣休教授，美�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -45,13 +45,14 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Chinese Academy of Sciences]]"
   - "[[Common Core State Standards]]"
 related_arguments:
   - "[[Argument_McDonnell_2013_AJE]]"
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-10-02
 ---
 
 # John W. Kingdon
@@ -61,7 +62,7 @@ updated: 2026-09-26
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国当代著名政治学者、[[Policy Science in Comparative Education|政策科学]]家，密歇根大学（University of Michigan）政治学荣休教授，美国文理科学院院士，古根海姆学者。
+> - **身份位置** 美国当代著名政治学者、[[Policy Science in Comparative Education|政策科学]]家，密歇根大学（University of Michigan）政治学荣休教授，美国文理[[Chinese Academy of Sciences|科学院]]院士，古根海姆学者。
 > - **核心角色** [[Multiple Streams Framework|多源流分析框架]]（Multiple Streams Framework, MSF）的奠基人，公共政策议程设置（Agenda Setting）领域的集大成者。他将组织决策的“垃圾桶模型”[[Creativity|创造性]]拓展至宏观国家治理，确立了[[Policy Window|政策之窗]]与[[Policy Entrepreneur|政策企业家]]两个核心分析构件，成为全球政策[[Scientific Explanation|科学解释]]非线性变迁的经典坐标。
 > - **代表贡献** 创立[[Multiple Streams Framework|多源流分析框架]]；系统阐述[[Policy Window|政策之窗]]与[[Policy Entrepreneur|政策企业家]]；出版里程碑著作《议程、备选方案与公共政策》（*Agendas, Alternatives, and Public Policies*）。
 

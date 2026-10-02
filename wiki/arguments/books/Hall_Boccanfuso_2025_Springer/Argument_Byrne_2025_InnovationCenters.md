@@ -31,6 +31,7 @@ related_concepts:
   - "[[Further Education]]"
   - "[[Normal School]]"
   - "[[International Education]]"
+  - "[[Research Universities]]"
   - "[[Learning Analytics]]"
   - "[[Research Question]]"
   - "[[Creativity]]"
@@ -66,7 +67,7 @@ title: "Argument_Byrne_2025_InnovationCenters"
 argument_key: "Argument_Byrne_2025_InnovationCenters"
 argument_display_title: "Innovation Centers and Economic Development"
 argument_kind: "book"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -261,7 +262,7 @@ citation_aliases:
 ---
 ### 案例：研究三角园的学术联合
 
-16. 研究三角园（[[Research Triangle Park]]，RTP）是利用现有学术能力推动经济发展的最突出案例之一。RTP 将杜克大学（Duke University）、北卡罗来纳大学教堂山分校（UNC Chapel Hill）和北卡罗来纳州立大学（NC State）——三所 R1 研究型大学及其三个不同地理区域——联合起来，创建了一个惠及所有利益相关者的统一组织(p.130)。
+16. 研究三角园（[[Research Triangle Park]]，RTP）是利用现有学术能力推动经济发展的最突出案例之一。RTP 将杜克大学（Duke University）、北卡罗来纳大学教堂山分校（UNC Chapel Hill）和北卡罗来纳州立大学（NC State）——三所 R1 [[Research Universities|研究型大学]]及其三个不同地理区域——联合起来，创建了一个惠及所有利益相关者的统一组织(p.130)。
 
 17. RTP 的起源在当时近乎异想天开。最初是一个由地区银行行长和本地开发商发起的营利性项目，在时任州长 Luther Hodges 的支持下，希望扭转北卡罗来纳州的经济衰退，遏制毕业生持续流向更繁荣地区的趋势。当时几乎没有任何以学术基础设施为杠杆、正式对接产业伙伴并开发可转移技术的先例，最初的愿景无法预料随后数十年的增长与成功(p.130)。
 

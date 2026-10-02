@@ -13,7 +13,7 @@ title: "Argument_UIDP_2012_PartnershipContinuum"
 argument_key: "Argument_UIDP_2012_PartnershipContinuum"
 argument_display_title: "The Partnership Continuum: Understanding & Developing the Pathways for Beneficial University-Industry Engagement"
 argument_kind: "report"
-argument_related_count: 16
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -33,7 +33,9 @@ related_concepts:
   - "[[Cooperative Education]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Clinical Trial]]"
+  - "[[Grandes Ecoles]]"
   - "[[Executive Education]]"
+  - "[[Research Universities]]"
   - "[[Innovation Park]]"
   - "[[Entrepreneur in Residence]]"
   - "[[Innovation Hub]]"
@@ -220,7 +222,7 @@ citation_aliases:
 
 资源获取可能是五个领域中最不"像"合作的领域——它不涉及研究项目、不涉及人才培养、不涉及机构冠名。但报告指出，它在建立和拓展研究合作中扮演着关键角色："提供对研究能力的访问，包括独特的技术和其他资源，是初步建立和扩展研究合作的常见途径。私营部门和学术机构通常拥有专门的设备、设施以及培训或知识，这些可以成为潜在伙伴的重要资源"(p.14)。
 
-这种合作从最低层级的服务关系（如使用收费制核心实验室）开始，逐步提升到更个人化的互动（如正式或非正式的教育机会、有限使用实验室空间），最终可以达到物理空间的共同选址——"公司将其研究设施设于大学校园附近或之上，提供更全面的整合合作"(p.15)。
+这种合作从最低层级的服务关系（如使用收费制核心实验室）开始，逐步提升到更个人化的互动（如正式或非正式的教育机会、有限使用实验室空间），最终可以达到物理空间的共同选址——"公司将其研究设施设于[[Grandes Ecoles|大学校]]园附近或之上，提供更全面的整合合作"(p.15)。
 
 > [!abstract] 核心观察
 > 资源获取领域的独特价值在于：它是进入合作关系的最低门槛入口。一次服务交易不需要双方在 IP、发表权和项目目标上达成任何一致。但从 Level 1 的服务关系逐步演化到 Level 3 的共同选址，整个过程展示了合作如何从"供应商-客户"关系自然而然地向更深层的伙伴关系转化(p.14)。
@@ -281,7 +283,7 @@ citation_aliases:
 
 #### 领域五：经济发展 —— 从双边到三方
 
-经济发展是五个领域中唯一一个将合作从**双边**（大学-企业）扩展为**三方**（大学-企业-政府）的领域。报告指出："大学通常充当区域经济发展的纽带。众所周知，建立在所谓'新知识'基础上的公司的创建往往取决于地理区域内一所或多所研究型大学的存在"(p.18)。特定领域的公司集群基于大学在该领域的活动而形成和成长，反过来大学也会根据其所在区域的产业形成项目和扩展学科。
+经济发展是五个领域中唯一一个将合作从**双边**（大学-企业）扩展为**三方**（大学-企业-政府）的领域。报告指出："大学通常充当区域经济发展的纽带。众所周知，建立在所谓'新知识'基础上的公司的创建往往取决于地理区域内一所或多所[[Research Universities|研究型大学]]的存在"(p.18)。特定领域的公司集群基于大学在该领域的活动而形成和成长，反过来大学也会根据其所在区域的产业形成项目和扩展学科。
 
 经济发展领域的活动不仅涉及商学院或大学内的特定项目，还可能由一个作为大学外部实体而创建的研究基金会进行，或由一个大学与产业和其他区域利益方共同发起并以经济发展为重点的非营利区域实体进行(p.18)。
 
@@ -374,7 +376,7 @@ citation_aliases:
 > [!warning]
 - 报告明确声明每个领域列出的合作活动示例"并非穷举"，而是希望"说明在每个广泛的互动和合作领域内由他人创造的互动的多样性"(p.5)
 - 报告聚焦于"有什么合作形式"，但未系统分析"为什么双方会选择某一种形式而非另一种"——后者被留作未来研究课题(p.7)
-- 框架基于 [[University Industry Demonstration Partnership|UIDP]] 成员（主要是美国大型研究型大学和企业的代表）的集体经验，对小型院校和发展中国家大学的适用性未被验证
+- 框架基于 [[University Industry Demonstration Partnership|UIDP]] 成员（主要是美国大型[[Research Universities|研究型大学]]和企业的代表）的集体经验，对小型院校和发展中国家大学的适用性未被验证
 - 报告作者均为 UIDP 项目工作组成员（主要来自企业和大学的技术合作部门），框架反映了实践者的视角而非学术理论建构
 
 ---

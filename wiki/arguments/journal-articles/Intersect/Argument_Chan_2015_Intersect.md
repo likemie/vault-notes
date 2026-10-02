@@ -31,6 +31,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Linear Model of Innovation]]"
   - "[[Technology Transfer]]"
+  - "[[Grandes Ecoles]]"
   - "[[Flow]]"
   - "[[Interaction Effect]]"
 related_theories:
@@ -44,6 +45,7 @@ related_persons:
 related_facts:
   - "[[Sputnik Shock 1957]]"
   - "[[Lysenkoism]]"
+  - "[[Chinese Academy of Sciences]]"
   - "[[Akademgorodok]]"
 related_arguments: []
 sources:
@@ -58,7 +60,7 @@ title: "Argument_Chan_2015_Intersect"
 argument_key: "Argument_Chan_2015_Intersect"
 argument_display_title: "Fallen behind: Science, technology, and Soviet statism"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -84,7 +86,7 @@ issuing_organization: ""
 > 然而到1980年代末，技术差距已不容忽视：
 > - 1986年，美国拥有约130万台主机和微型计算机，苏联仅有10,000台（Longworth, 1986, p.2）。
 > - 苏联物理学家在使用的计算机相当于美国科学家20年前用的 CDC-6600。
-> - 新西伯利亚科学院西伯利亚分院的计算机水平在1990年比美国或日本工业界落后20年（Kuleshov and Castells, 1993, p.2）。
+> - 新西伯利亚[[Chinese Academy of Sciences|科学院]]西伯利亚分院的计算机水平在1990年比美国或日本工业界落后20年（Kuleshov and Castells, 1993, p.2）。
 > - 1991年苏联机器总计算性能比美国 Cray Research 设计的超级计算机低了两个数量级以上（Wolcott, 1993, p.2）。
 >
 > 苏联拥有资源、人才和政治意愿，却输掉了技术竞赛。根本原因在于体制逻辑，而非资源短缺。
@@ -256,14 +258,14 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 > [[State Vertical\|国家垂直结构]]是苏联体制最基本的组织形态。根据 Sergei Medvedev 教授的描述，整个苏联经济是"一台由庞大官僚机构的垂直行政决策推动的巨型机器"，包含无数计划机构、执行部门和生产单位。"机构之间几乎没有水平联系，交流由各自的上级主管部门预先设定"（p.8）。
 >
 > 这一结构对研究与开发的影响是毁灭性的：
-> - **基础科学**（科学院）、**应用研究**（各部委研究所）和**工业生产**（企业）在彼此隔离的封闭回路中运行。
+> - **基础科学（[[Chinese Academy of Sciences|科学院]]）**、**应用研究**（各部委研究所）和**工业生产**（企业）在彼此隔离的封闭回路中运行。
 > - 科学院与工业界几乎不存在跨院系或跨部委的合作。
 > - 对外部间谍活动的恐惧和苏联自身对外国科学发展的怀疑，使苏联科学家在相对孤立中工作（pp.8–9）。
 >
 > 与此形成鲜明对比的是美国的研发生态：政府同样在资助 Silicon Valley 的研发中扮演了重要角色，但斯坦福电子研究实验室等研究机构与国防承包商和私营企业密切合作。科学家和工程师拥有将技术创新商业化并创办自己公司的相对自由，私人资本可以分担创新风险，为"做中学"的试错迭代过程创造了必需的空间（Leslie, 1993, p.8）。
 
 > [!line-a] [[Akademgorodok\|阿卡德姆戈罗多克]]的兴衰：一个改革寓言
-> 苏联当局并非对自己的体制缺陷视而不见。赫鲁晓夫在访问美国之后，试图在苏联复制类似的水平联系和创新激励条件。他建造了[[Akademgorodok]]，一座位于西伯利亚新西伯利亚附近的大型科学中心，效仿美国大学校园模式，集中了最优秀的研究人员、教授和学生（Josephson, 1991, p.9）。
+> 苏联当局并非对自己的体制缺陷视而不见。赫鲁晓夫在访问美国之后，试图在苏联复制类似的水平联系和创新激励条件。他建造了[[Akademgorodok]]，一座位于西伯利亚新西伯利亚附近的大型科学中心，效仿美国[[Grandes Ecoles|大学校]]园模式，集中了最优秀的研究人员、教授和学生（Josephson, 1991, p.9）。
 >
 > 然而，Akademgorodok 的实验暴露了局部改革在国家主义体制中的根本困境。在勃列日涅夫时代的政治收紧中，科学城的实验性愿景难以为继。它逐渐回归到官僚化控制、意识形态保守的科学研究，使人想起斯大林时代的景象。党政官员更倾向于购买或窃取西方技术，而非创造自己的技术。正如 Josephson（1998）所评价的，这座有前途的西伯利亚科学城最终沦为"日益吱吱作响的苏联工业机器中的又一个齿轮"（p.9）。
 
@@ -299,7 +301,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 > - **三分之二** 1980年代军工占苏联工业生产总值的比例；美国冷战高峰仅6.6%（pp.3–4）。
 > - **≈ 10,000** 仅一个反导弹研究所就拥有的科学家数量（p.4）。
 > - **$3,600** 苏联仿制的 Apple II（Agat）售价，是美国价格的三倍。
-> - **20** 1990年新西伯利亚科学院计算设备比美日工业界落后的年数。
+> - **20** 1990年新西伯利亚[[Chinese Academy of Sciences|科学院]]计算设备比美日工业界落后的年数。
 
 ---
 ## 关键引用

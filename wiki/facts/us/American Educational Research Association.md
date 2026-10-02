@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
   - theme/science-communication
 related_concepts:
   - "[[Policy Network]]"
+  - "[[Research Universities]]"
   - "[[Academic Freedom]]"
   - "[[Positivism]]"
   - "[[Academic Achievement]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-09-28
+updated: 2026-10-02
 ---
 
 # American Educational Research Association
@@ -75,7 +76,7 @@ updated: 2026-09-28
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 创设于 1916 年，最初由一批致力于推动学校教育测量、统计调查与量化评估的学者发起成立，原名为全美教育研究主任协会（National Association of Directors of Educational Research, NADER）；1930 年更为现名并一度隶属于[[National Education Association\|全美教育协会]]（NEA），后发展为完全独立的全国性学术社团。
-> - **总部地点与地理辐射** 总部设于美国华盛顿特区，常年深植于联邦科技与教育[[Policy Network\|政策网络]]核心地带，会员网络遍布全美所有州级研究型大学并覆盖全球 90 余个国家和地区。
+> - **总部地点与地理辐射** 总部设于美国华盛顿特区，常年深植于联邦科技与教育[[Policy Network\|政策网络]]核心地带，会员网络遍布全美所有州级[[Research Universities|研究型大学]]并覆盖全球 90 余个国家和地区。
 > - **法人属性与经费基础** 独立学术法人团体；经费来源主要包括会员会费、国际年度学术年会注册费、学术期刊出版版税、政府竞争性专项资助（如来自国家科学基金会与[[Institute of Education Sciences\|教育科学研究院]]的培训与研讨资助）以及慈善捐赠。
 > - **核心宗旨与法定职责** 促进教育研究的高质量发展与多元方法论融合；通过出版国际一流学术期刊、制定测试伦理标准、维护[[Academic Freedom\|学术自由]]与提供无党派政策咨询，增进教育对公共福祉的贡献。
 

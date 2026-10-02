@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Legislative Policy Brief]]"
   - "[[Paradigm]]"
+  - "[[Research Universities]]"
   - "[[Transfer Translation Transformation]]"
   - "[[High-Stakes Testing]]"
   - "[[Performance Pay]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # National Education Policy Center
@@ -61,7 +62,7 @@ updated: 2026-09-22
 > [!org-context] 机构背景
 > - **成立时间与历史渊源** 2010 年正式设立，其前身为 1998 年创设的教育与公共利益中心（Education and the Public Interest Center, EPIC）及教育政策研究联盟（EPRU），由著名法学家与教育学者凯文·韦尔纳（Kevin Welner）担任创始主任。
 > - **总部地点与辐射范围** 位于美国科罗拉多州博尔德市，业务辐射覆盖美国联邦国会、各州立法机关、教育行政部门及全美基层教育倡导组织。
-> - **法人属性与经费基础** 隶属于研究型大学的独立研究实体，经费主要依托独立慈善基金会竞争性资助（如大愿景基金会等）与学术课题捐赠，严格恪守非营利与非党派治理准则。
+> - **法人属性与经费基础** 隶属于[[Research Universities|研究型大学]]的独立研究实体，经费主要依托独立慈善基金会竞争性资助（如大愿景基金会等）与学术课题捐赠，严格恪守非营利与非党派治理准则。
 > - **核心宗旨与法定职责** 坚守“民主社会中的优质公共教育”愿景，通过生产可信的循证证据反思商业化与市场化改革迷思，提升公众与立法决策者对重大教育议题的专业认知。
 
 ---
@@ -79,7 +80,7 @@ updated: 2026-09-22
 
 > [!actor-grid] 组织治理架构
 > - **决策领导层（Director & Steering Committee）** 由资深教育法学与政策领袖统筹，负责把控中心重大科研规划、资助独立性与学术道德准则。
-> - **全美学术研究员网络（NEPC Fellows）** 汇聚来自全美顶尖研究型大学的数百位教育学、心理学、社会学与经济学权威学者，构成中心强大的跨学科同行评议与智力供给池。
+> - **全美学术研究员网络（NEPC Fellows）** 汇聚来自全美顶尖[[Research Universities|研究型大学]]的数百位教育学、心理学、社会学与经济学权威学者，构成中心强大的跨学科同行评议与智力供给池。
 > - **法律与法案起草顾问团队** 专门聘请深谙国会山与州议会立法起草规程的执业专业律师，负责将实证研究综述无缝[[Transfer Translation Transformation\|转译]]为精准的法定条文。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 > - **政策传播与媒体中介枢纽** 专设科学传播团队，负责将长篇学术综述精简为“一页纸诉求”与[[Legislative Policy Brief\|立法政策简报]]，直接对接国会常设委员会幕僚。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 45–46)]]
 

@@ -10,7 +10,7 @@ aliases:
 summary: "二十世纪早中期大企业建立的内部中央研发机构，以贝尔实验室、Xerox PARC、IBM Research 为代表，从事从基础研究到产品开发的全链条科研，1980年代后衰退并转向开放创新"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
   - "level/higher-education"
   - "theme/corporate-innovation"
 related_concepts:
+  - "[[Research Universities]]"
   - "[[University-Industry Collaboration]]"
   - "[[Blue Skies Research]]"
   - "[[Technology Transfer]]"
@@ -65,7 +66,7 @@ updated: 2026-10-02
 
 ### 黄金时代（二十世纪中期）
 
-中央实验室的产出超越了工业应用——"高质量、科学复杂的（high-quality scientifically complex）"研究虽然在解决工业挑战的框架下进行，但其科学水平与顶尖研究型大学匹敌甚至超越，产出了多个诺贝尔奖（Arora et al., 2020）（pp.35–36）。关键领域覆盖：化学、汽车、航空航天、制药、半导体、信息与通信技术。
+中央实验室的产出超越了工业应用——"高质量、科学复杂的（high-quality scientifically complex）"研究虽然在解决工业挑战的框架下进行，但其科学水平与顶尖[[Research Universities|研究型大学]]匹敌甚至超越，产出了多个诺贝尔奖（Arora et al., 2020）（pp.35–36）。关键领域覆盖：化学、汽车、航空航天、制药、半导体、信息与通信技术。
 
 实验室雇佣了大量高能力科学家，通常从大学招聘和培养。与大学的联系密切且重要，同时获得大量联邦政府资金支持（Arora et al., 2020）（p.36）。
 
@@ -104,7 +105,7 @@ updated: 2026-10-02
 
 - **全链条覆盖** 从基础科学发现到产品原型开发的完整链条，不区分"研究"与"开发"——这一区分本身就是中央实验室衰退后的产物
 - **跨学科整合** 在一个组织内集合物理、化学、材料科学、工程、计算机科学等多领域专家，能够系统性解决需要跨学科协作的复杂问题
-- **大学级科学产出** 产出的科学质量"匹敌甚至超越"顶尖研究型大学，是学术发表和诺贝尔奖级别的[[Knowledge Production|知识生产]]场所
+- **大学级科学产出** 产出的科学质量"匹敌甚至超越"顶尖[[Research Universities|研究型大学]]，是学术发表和诺贝尔奖级别的[[Knowledge Production|知识生产]]场所
 - **与大学的双轨关系** 一方面从大学招聘和培养科学家（大学是其人才管道），另一方面拥有独立的科研能力降低了对大学的依赖
 - **长期视野** 不受短期股东回报或季度财报周期约束，允许研究者进行需要多年投入才能见到成果的基础探索
 

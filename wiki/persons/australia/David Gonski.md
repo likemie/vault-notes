@@ -8,7 +8,7 @@ summary: "澳大利亚著名商业律师、企业高管与教育政策调查特�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -22,6 +22,7 @@ tags:
   - theme/policy-network
   - theme/venture-philanthropy
 related_concepts:
+  - "[[Grandes Ecoles]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Policy Network]]"
   - "[[Venture Philanthropy]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-26
+updated: 2026-10-02
 ---
 
 # David Gonski
@@ -68,7 +69,7 @@ updated: 2026-09-26
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 澳大利亚顶尖商业律师、投资银行家、企业董事局领袖与联邦高级教育政策审查专员；曾任新南威尔士大学校监、澳新银行集团（ANZ）董事长、可口可乐阿玛提尔公司董事长、[[Australian Philanthropic Services\|澳大利亚慈善服务社]]（Australian Philanthropic Services，APS）董事会主席及[[Australian Schools Plus\|澳大利亚学校加计划]]（Australian Schools Plus）先驱者委员会主席。
+> - **身份位置** 澳大利亚顶尖商业律师、投资银行家、企业董事局领袖与联邦高级教育政策审查专员；曾任新南威尔士[[Grandes Ecoles|大学校]]监、澳新银行集团（ANZ）董事长、可口可乐阿玛提尔公司董事长、[[Australian Philanthropic Services\|澳大利亚慈善服务社]]（Australian Philanthropic Services，APS）董事会主席及[[Australian Schools Plus\|澳大利亚学校加计划]]（Australian Schools Plus）先驱者委员会主席。
 > - **核心角色** 在澳大利亚现代教育改革中扮演了“制度立法催化者与跨界超强节点”的双重功能；先后作为工党与自由党联盟两届联邦政府特聘的主席，领衔完成了重构全澳基础教育财政拨款格局的《冈斯基报告》（Gonski 1.0，2011）以及开创国家循证[[Educational Brokerage Agency\|证据中介机构]]的《卓越学校教育审查》（Gonski 2.0，2018）。
 > - **代表贡献** 确立以学生弱势背景为导向的“需求本位学校拨款模型”（[[Gonski Reforms\|冈斯基改革]]）；在 Gonski 1.0 报告中建议打通民间资本向公立学校捐资的政策机制，直接催生全澳首家面向公立学校的免税筹款中介机构[[Australian Schools Plus]]（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 530]]）；在 [[Gonski 2.0]] 报告中提出著名的“第 23 条建议”，直接催生了拥有 5000 万澳元政府注资的国家级证据中介机构[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）；深度参与推动鼓励企业慈善立法的制度进程（[[Social Ventures Australia]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 5]]）。
 
@@ -112,7 +113,7 @@ updated: 2026-09-26
 
 > [!person-network] 核心关系网络与跨界拓扑
 > - **政界委托方** 茱莉亚·吉拉德（Julia Gillard，工党总理）与马尔科姆·特恩布尔（Malcolm Turnbull，自由党总理）— 分别跨党派任命其领衔 Gonski 1.0 与 2.0 两轮重大审查。
-> - **[[Venture Philanthropy\|风险慈善]]与商业董事盟友** [[Michael Traill\|迈克尔·特雷尔]]（Michael Traill，[[Social Ventures Australia\|SVA]] 创办 CEO）、贝琳达·哈钦森（Belinda Hutchinson，悉尼大学校监兼 APS 董事）、罗杰·马西-格林（Roger Massy-Greene，美洲银行前高管兼 [[Australian Education Research Organisation\|AERO]] 董事）— 共同出任 SVA 子公司 APS 理事，并协同运作 [[Australian Schools Plus\|Schools Plus]] 先驱者委员会，构成密切的利益[[Co-affiliation\|共同从属]]圈（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 7, 9]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 530–531]]）。
+> - **[[Venture Philanthropy\|风险慈善]]与商业董事盟友** [[Michael Traill\|迈克尔·特雷尔]]（Michael Traill，[[Social Ventures Australia\|SVA]] 创办 CEO）、贝琳达·哈钦森（Belinda Hutchinson，悉尼[[Grandes Ecoles|大学校]]监兼 APS 董事）、罗杰·马西-格林（Roger Massy-Greene，美洲银行前高管兼 [[Australian Education Research Organisation\|AERO]] 董事）— 共同出任 SVA 子公司 APS 理事，并协同运作 [[Australian Schools Plus\|Schools Plus]] 先驱者委员会，构成密切的利益[[Co-affiliation\|共同从属]]圈（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 7, 9]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 530–531]]）。
 > - **政策衍生与筹款中介实体** [[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）、[[Evidence for Learning\|证据学习中心]]（E4L）与[[Australian Schools Plus\|澳大利亚学校加计划]]（Australian Schools Plus）— 其审查建议直接催生或深度参与治理的机构节点；冈斯基出任 Schools Plus 先驱者委员会主席（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
 
 ---

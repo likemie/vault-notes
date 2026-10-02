@@ -9,7 +9,7 @@ title: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_key: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_display_title: "Evolution of University-Industry Relationships for Driving Innovation"
 argument_kind: "book"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Praxis]]"
   - "[[Innovation Park]]"
+  - "[[Research Universities]]"
   - "[[Knowledge Transfer]]"
   - "[[Technology Infusion]]"
   - "[[Executive Education]]"
@@ -215,7 +216,7 @@ Schot & Steinmueller(2018)与 Lindner et al.(2024)识别出三个政策[[Paradig
 | **应对重大社会挑战**（新兴方向） | 围绕气候变化、公共卫生、人口老龄化等"棘手问题"，整合研究、方案开发和人才培养(Bodley-Scott & Oymak, 2022; Kelleher, 2023) | 要求大学超越单个学科和单个合作伙伴的模式，转向系统性、使命导向的多方协作 |
 
 > [!tip]- 关键洞察
-> 这个框架把"大学对创新做了什么"从单一维度（技术转移／专利／衍生企业）扩展到一个多维光谱。不同类型、不同区位的大学天然有不同的贡献组合。这一框架也解释了为什么以专利或许可收入作为大学创新贡献的单一指标会严重低估其实际贡献：一所主要为地方制造业提供工艺改进咨询和员工培训的区域大学，在专利数量上可能接近于零，但其对区域经济的实际贡献可能远超一所专利高产但脱离本地产业的研究型大学。
+> 这个框架把"大学对创新做了什么"从单一维度（技术转移／专利／衍生企业）扩展到一个多维光谱。不同类型、不同区位的大学天然有不同的贡献组合。这一框架也解释了为什么以专利或许可收入作为大学创新贡献的单一指标会严重低估其实际贡献：一所主要为地方制造业提供工艺改进咨询和员工培训的区域大学，在专利数量上可能接近于零，但其对区域经济的实际贡献可能远超一所专利高产但脱离本地产业的[[Research Universities|研究型大学]]。
 
 ---
 

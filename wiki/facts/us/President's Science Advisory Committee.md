@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -23,12 +23,15 @@ tags:
   - level/higher-education
   - policy/advisory-mechanism
 related_concepts:
+  - "[[Research Universities]]"
   - "[[Socioscientific Issues]]"
+  - "[[Grandes Ecoles]]"
   - "[[Indirect Costs of Research]]"
 related_methods:
   - "[[Agent-based Modelling]]"
 related_facts:
   - "[[Sputnik Shock 1957]]"
+  - "[[Office of Science and Technology Policy]]"
   - "[[Seaborg Report 1960]]"
   - "[[Federally Funded Research and Development Centers]]"
   - "[[Office of Scientific Research and Development]]"
@@ -54,8 +57,8 @@ updated: 2026-10-02
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 朝鲜战争初期曾有设立全职总统科学顾问的动议但未落实；1957 年 10 月苏联人造卫星危机（[[Sputnik Shock 1957|Sputnik]]）爆发后，艾森豪威尔总统于 1957 年 11 月正式设立全职总统科学顾问并组建 PSAC，以重构国家科技安全与太空竞赛优势。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
-> - **总部地点 / 业务辐射** 总部设于白宫执行办公室，直接向总统及其国家安全委员会（NSC）汇报，业务辐射全美联邦研发部门、国防军工系统及顶尖研究型大学。
-> - **法人属性与经费基础** 总统执行办公室直属咨询委员会；日常运行依托总统特别开支预算，1962 年起依托新设的白宫科学技术办公室（OST）提供专职行政与研究参谋支持。
+> - **总部地点 / 业务辐射** 总部设于白宫执行办公室，直接向总统及其国家安全委员会（NSC）汇报，业务辐射全美联邦研发部门、国防军工系统及顶尖[[Research Universities|研究型大学]]。
+> - **法人属性与经费基础** 总统执行办公室直属咨询委员会；日常运行依托总统特别开支预算，1962 年起依托新设的白宫科学技术办公室（[[Office of Science and Technology Policy|OST]]）提供专职行政与研究参谋支持。
 > - **核心宗旨与法定职责** 确保白宫决策层直接倾听来自最前沿科学家的非官方独立建言；就国家安全防御、外太空探索、尖端科研基础设施及高层次科学与工程人才培养提供权威研判。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 38–39)]]
 
 ---
@@ -63,8 +66,8 @@ updated: 2026-10-02
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1957–1961 — 艾森豪威尔时期组建与科学精英入阁** 艾森豪威尔任命麻省理工学院（MIT）校长詹姆斯·基利安（James Killian）为首任全职总统科学顾问，一周内正式任命 PSAC 委员；首届 17 名委员中 14 名来自顶尖研究型大学，深度统筹军备控制、国家航空航天局（NASA）创建与高等教育扩容。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
-> - **1961–1963 — 肯尼迪时期体制扩张与法定参谋机构 OST 创设** 肯尼迪任命 MIT 工程学教授杰罗姆·威斯纳（Jerome Wiesner）为科学顾问兼 PSAC 主任；1962 年在白宫内正式创设科学技术办公室（Office of Science and Technology, OST），赋予科学顾问法定的政策统筹职能与常设技术参谋团队。
+> - **1957–1961 — 艾森豪威尔时期组建与科学精英入阁** 艾森豪威尔任命麻省理工学院（MIT）校长詹姆斯·基利安（James Killian）为首任全职总统科学顾问，一周内正式任命 PSAC 委员；首届 17 名委员中 14 名来自顶尖[[Research Universities|研究型大学]]，深度统筹军备控制、国家航空航天局（NASA）创建与高等教育扩容。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
+> - **1961–1963 — 肯尼迪时期体制扩张与法定参谋机构 [[Office of Science and Technology Policy|OST]] 创设** 肯尼迪任命 MIT 工程学教授杰罗姆·威斯纳（Jerome Wiesner）为科学顾问兼 PSAC 主任；1962 年在白宫内正式创设科学技术办公室（Office of Science and Technology, OST），赋予科学顾问法定的政策统筹职能与常设技术参谋团队。
 > - **1963–1968 — 约翰逊时期重点转移与学科结构性脱节** 约翰逊推行“伟大社会”（Great Society）国内改革并谋求 PSAC 建言，但以数理科学家为主体的 PSAC 无法就贫困、福利等[[Socioscientific Issues|社会科学议题]]提供有效支撑，科学顾问与总统政治诉求逐渐疏离。
 > - **1969–1973 — 尼克松时期的互信破裂与委员会废止** 越战期间学界反战抗议激化，尼克松核心幕僚公开将 PSAC 斥责为“大学学术界在白宫内的政治游说团”；1973 年初尼克松在连任伊始断然解散 PSAC 并废除总统科学顾问职位，白宫科学建制陷入真空。
 > - **1976 — 制度遗产与 OSTP 法定重建** PSAC 的解散引发科技界与国会长达三年的震动与立法反弹，最终促成国会于 1976 年通过公法 P.L. 94-282，正式设立法定的白宫科学技术政策办公室（OSTP），将科学顾问制度以法律形式永久固定在白宫体制中。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 39)]]
@@ -75,9 +78,9 @@ updated: 2026-10-02
 
 > [!actor-grid] 组织治理架构
 > - **领导架构（总统科学顾问）** 由总统直接任命的全职总统科学顾问（如 James Killian、Jerome Wiesner、Edward David）兼任 PSAC 主任，直接参与内阁与高层战略讨论。
-> - **委员会成员构成** 由约 15–18 名全美声望卓著的自然科学家与工程学家组成，研究型大学校长与顶尖实验室学者占绝对主导地位（初始成员中大学学者占 82%）。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
+> - **委员会成员构成** 由约 15–18 名全美声望卓著的自然科学家与工程学家组成，研究型[[Grandes Ecoles|大学校]]长与顶尖实验室学者占绝对主导地位（初始成员中大学学者占 82%）。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
 > - **下设专门工作组与专家网络** 就战略导弹防御、核试验监测、高等教育与基础科学资助设立专门研究小组（如由伯克利校长格伦·西博格领衔的科研小组），动员全美跨学科智力。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
-> - **常设支撑部门（OST）** 1962 年成立的白宫科学技术办公室负责收集部委数据、起草跨部门协调案，提供常规性政策参谋支持。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 38–39)]]
+> - **常设支撑部门（[[Office of Science and Technology Policy|OST]]）** 1962 年成立的白宫科学技术办公室负责收集部委数据、起草跨部门协调案，提供常规性政策参谋支持。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 38–39)]]
 
 ---
 

@@ -8,7 +8,7 @@ aliases:
 summary: "指依托现代信息通信技术开展纯线上或混合式高等教育教学、跨国学位授予与课程特许经营的高等教育机构形态，它打破了实体校园的地理边界，但同时也引发了学术商品化、文凭去脉络化以及大学公共民主职能流失的深刻危机。"
 type: concept
 domain: "higher-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Research Universities]]"
   - "[[Lifelong Learning]]"
   - "[[Paradigm]]"
   - "[[Teaching Assistant]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # Virtual University
@@ -80,7 +81,7 @@ updated: 2026-09-29
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 虚拟大学（Virtual University） | 传统实体研究型大学（Campus University） | 国家开放大学（Open University） |
+> | 维度 | 虚拟大学（Virtual University） | 传统实体[[Research Universities\|研究型大学]]（Campus University） | 国家开放大学（Open University） |
 > |---|---|---|---|
 > | **空间与载体** | 纯数字化网络空间、跨国特许经营服务器 | 实体校园、物理实验室、教室与图书馆 | 区域学习中心网络配合广播电视与网络媒介 |
 > | **首要组织逻辑** | 跨国教育服务交付、规模化收益与资本积累 | 知识发现、通识陶冶、专业训练与公共服务 | 补偿性大众高等教育普及与[[Lifelong Learning\|终身学习]]福利 |

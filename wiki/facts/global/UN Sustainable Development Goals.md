@@ -14,10 +14,10 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 39
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
-fact_related_color: "#dbeafe"
+fact_related_count: 41
+fact_related_level: 5
+fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_color: "#fecdd3"
 issuing_organization: "United Nations"
 tags:
   - region/global
@@ -26,6 +26,7 @@ tags:
   - level/higher-education
   - level/basic-education
 related_concepts:
+  - "[[Research Universities]]"
   - "[[Third Mission]]"
   - "[[Lifelong Learning]]"
   - "[[Transfer Translation Transformation]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Global Education Governing Complex]]"
   - "[[Governing by Numbers]]"
+  - "[[Grandes Ecoles]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Governing at a Distance]]"
@@ -74,7 +76,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # UN Sustainable Development Goals
@@ -85,7 +87,7 @@ updated: 2026-09-29
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2015 年 9 月由联合国（United Nations，UN）全数 193 个成员国在纽约可持续发展峰会上一致通过，正式发布题为《改变我们的世界：2030年可持续发展议程》（*Transforming our world: the 2030 Agenda for Sustainable Development*）的里程碑决议。[[Argument_Zapp_2022_Springer\|(Zapp, 2022, p. 150)]]
-> - **适用地区 / 对象** 覆盖全球所有主权国家、跨国国际组织、公民社会以及高等教育机构；特别在基础教育阶段针对全球南方借款国实施密集监测，在高等教育阶段覆盖全球研究型大学。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **适用地区 / 对象** 覆盖全球所有主权国家、跨国国际组织、公民社会以及高等教育机构；特别在基础教育阶段针对全球南方借款国实施密集监测，在高等教育阶段覆盖全球[[Research Universities|研究型大学]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **问题背景** 全球面临贫困、环境退化、气候变化、社会不公及教育危机等多重复合挑战；继 1990 年[[Education for All\|全民教育]]（Education for All，[[Exploratory Factor Analysis\|EFA]]）与 2000–2015 年千年发展目标（Millennium Development Goals，MDGs）之后，国际社会亟需一套具有普遍约束力的全球统领性行动纲领。[[Argument_Zapp_2022_Springer\|(Zapp, 2022, p. 151)]]
 > - **制度位置** 取代 MDGs 成为 2015–2030 年全球最高发展纲领；在教育领域确立第四个可持续发展目标（Sustainable Development Goal 4，SDG 4: 优质教育），成为衔接联合国专门机构倡导、多边银行放贷门槛与全球大学治理的核心枢纽。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541, 545)]]
 
@@ -130,7 +132,7 @@ updated: 2026-09-29
 > [!actor-grid] 实施角色分工
 > - **发布与统筹主体** 联合国大会、经济及社会理事会、联合国教育、科学及文化组织（[[UNESCO\|United Nations Educational, Scientific and Cultural Organization]]，UNESCO，简称联合国教科文组织，负责 SDG 4 官方统筹协调）。
 > - **硬性规制与放贷主体** [[World Bank\|世界银行]]及各区域开发银行，通过发展政策贷款附带条件将 SDG 指标转化为受援国刚性执行标准。
-> - **知识与人才载体** 全球研究型大学与科研机构，负责生产前沿科技与政策知识、培养全球治理专业人才。
+> - **知识与人才载体** 全球[[Research Universities|研究型大学]]与科研机构，负责生产前沿科技与政策知识、培养全球治理专业人才。
 > - **基层执行主体** 主权国家教育部、地方学区、基础学校以及民间非政府组织。
 
 > [!pathways]- 实施路径
@@ -147,7 +149,7 @@ updated: 2026-09-29
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 核心规制中枢** [[UNESCO\|联合国教科文组织]]（UNESCO，法定指标协调中枢）、[[World Bank\|世界银行]]（依托庞大资金借贷与自指性[[Quantitative Research\|量化研究]]帝国推行硬性指标合规）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **高权力 · 低/中利益 — 准外部标杆与资助垄断方** [[OECD\|经合组织]]（依托 [[PISA]] 与跨国比较指标输出标准）、美欧跨国私人慈善基金会（比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]、休利特-帕卡德基金会、万事达卡基金会、乐高基金会等，掌握关键课题定向资助权）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
-> - **低权力 · 高利益 — 政策承受者与知识执行体** 全球南方主权受援国教育部门、跨国研究型大学师生、贫困边缘学龄儿童群体。
+> - **低权力 · 高利益 — 政策承受者与知识执行体** 全球南方主权受援国教育部门、跨国[[Research Universities|研究型大学]]师生、贫困边缘学龄儿童群体。
 > - **低权力 · 低利益 — 传统非教育区域协调组织** 单一专业性边缘多边实体。
 
 > [!prop-table]- 关键行动者属性
@@ -187,7 +189,7 @@ updated: 2026-09-29
 > - **193 个主权成员国** 共同签署并承诺落实 2030 年可持续发展议程的国家总数。
 > - **17 目标 · 169 指标** SDGs 构筑的全球普遍发展指标与具体考核网络全景。
 > - **10 项具体目标 · 43 项指标** 专门规范全球教育发展的 SDG 4 核心测度构件。
-> - **200+ 所顶尖研究型大学** 系统发布独立可持续发展与社会责任公报的高校群体规模。
+> - **200+ 所顶尖[[Research Universities|研究型大学]]** 系统发布独立可持续发展与社会责任公报的高校群体规模。
 > - **53% 学习贫困基准** 2019 年[[World Bank\|世界银行]]依据 SDG 4 测算的全球南方中低收入国家学龄儿童功能性文盲基线水平。
 
 ---
@@ -230,7 +232,7 @@ updated: 2026-09-29
 > | [[Governing by Numbers]] | Concept | 支撑 SDGs 依托海量国际基准对主权国家实施“[[Governing at a Distance\|远处治理]]”的[[Epistemology\|认识论]]技术。 |
 > | [[Third Mission]] | Concept | SDGs 在高等教育领域被广泛定位为大学超越教学与科研的新型核心使命。 |
 > | [[World Society Theory]] | Theory | 解释主权国家与大学普遍采纳并宣誓效忠 SDGs 全球共同规范的核心宏观社会学理论。 |
-> | [[University Social Responsibility]] | Concept | 大学校园在落实 SDGs 过程中形成的组织自律与可持续运营框架。 |
+> | [[University Social Responsibility]] | Concept | [[Grandes Ecoles\|大学校]]园在落实 SDGs 过程中形成的组织自律与可持续运营框架。 |
 > | [[THE Impact Ranking]] | Instrument | 专门依据联合国 17 项 SDGs 对全球大学社会与生态影响力进行测度的量化工具。 |
 > | [[OECD]] | Fact (Organization) | 与联合国系统既竞争又协同、通过 [[PISA]] 数据积极介入 SDG 4 监测的国际组织。 |
 > | [[Education at a Glance]] | Fact (Organization) | 经合组织旗舰指标年刊，为监测跨国可持续教育发展提供核心统计基准。 |

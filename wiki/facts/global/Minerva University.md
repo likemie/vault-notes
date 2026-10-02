@@ -8,9 +8,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 tags:
 - minerva-university
@@ -20,6 +20,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Grandes Ecoles]]"
   - "[[Homework]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: 2026-10-02
 ---
 
 ## 背景
@@ -59,7 +60,7 @@ Minerva University 是一所全球性的营利性高等教育机构，由前 Sna
 > [!note]- 2010–2014 创立与启动
 > - 2010 年 9 月，Ben Nelson 在旧金山创立 Minerva Project，定位为以教育技术方案解决高等教育"所有主要弊病"的营利性初创公司（Thompson & Parreira do Amaral, 2022, p.2）
 > - 仅用四年获得 Benchmark Capital 2,500 万美元风险投资——Nelson 称其为"当时硅谷最受尊敬的投资公司"([[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp.45–46]])
-> - 2014 年 Minerva University 正式成立，首批试点学生启动、官方四年制学生入学。速度之快背后是高度影响力的政界人物、前大学校长、知名学者、市场营销专家和企业家网络的推动
+> - 2014 年 Minerva University 正式成立，首批试点学生启动、官方四年制学生入学。速度之快背后是高度影响力的政界人物、前[[Grandes Ecoles|大学校]]长、知名学者、市场营销专家和企业家网络的推动
 
 > [!note]- 2014–至今 运营与扩张
 > - 与克莱蒙特学院联盟（The Claremont Colleges）成员 Keck Graduate Institute（KGI）合作，利用其共享的现有制度基础设施构建"高效且可扩展"的业务和运营模型([[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.45]])
@@ -125,7 +126,7 @@ Minerva 将其颠覆性模型建立在对传统高等教育四大问题的系统
 
 Minerva University 被 Thompson & Parreira do Amaral（2022）选为论述[[Geopolitics of Knowledge|知识地缘政治]]的开篇案例，因为它在多个层面上集中体现了当代高等教育的空间重构逻辑：
 
-- **从民族国家框架中的"脱位"** 古典大学与民族国家及其文化科学发展紧密相连——德国的洪堡大学、法国的大学校、英国的牛津剑桥、美国的赠地大学，无不深嵌于特定的国家传统之中。Minerva 则"致力于超越民族国家及其他政治框架的边界"（Thompson & Parreira do Amaral, 2022, p.7），机构不再向任何一个国家教育体系负责，学生也无需锚定在任何一个学术社区
+- **从民族国家框架中的"脱位"** 古典大学与民族国家及其文化科学发展紧密相连——德国的洪堡大学、法国的[[Grandes Ecoles|大学校]]、英国的牛津剑桥、美国的赠地大学，无不深嵌于特定的国家传统之中。Minerva 则"致力于超越民族国家及其他政治框架的边界"（Thompson & Parreira do Amaral, 2022, p.7），机构不再向任何一个国家教育体系负责，学生也无需锚定在任何一个学术社区
 - **在全球政治经济[[Champ|场域]]中的"再定位"** 脱位之后，Minerva 被重新嵌入由教育科技乌托邦主义、市场营销和风险资本构成的全球政治经济场域之中。它"既位于美国又服务于'世界'，从而呈现自身为场所无涉（placeless）的存在"([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, p.48]])，以全球市场而非国家政策为运营参照系
 - **[[Hub and Flow Imaginaries|枢纽与流动想象]]中的"流动"极值** Minerva 是 Hub and [[Flow]] 想象中"流动"维度的最极端案例——机构完全脱离领土和物理空间的锚定，仅通过数字平台将周期性出现在七个全球城市的学生串联在一起。与 IEHs 代表的国家锚定式"枢纽"策略（国家主动将自身建设为区域教育中心）形成鲜明对照，两者共同展示了知识地缘政治中从"领土固着"到"完全场所无涉"的完整光谱([[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp.43–48]])
 - **地缘政治逻辑的制度化** Minerva 展示了宏观的地缘政治想象如何在单所机构的层面被物质化和制度化——从课程设计到教学法，从商业模式到全球扩张策略，从技术平台到学生生活安排，无一不贯穿着将高等教育从国家公共事业重构为全球私人服务的深层逻辑

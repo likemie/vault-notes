@@ -9,9 +9,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: academic-society
 headquarters: "Washington, D.C., USA"
@@ -33,6 +33,7 @@ related_instruments: []
 related_persons:
   - "[[Urie Bronfenbrenner]]"
 related_facts:
+  - "[[National Academy of Sciences]]"
   - "[[National Research Council]]"
   - "[[Rapid Assessment and Response Strategy]]"
 related_arguments:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-09-26
+updated: 2026-10-02
 ---
 
 # Society for Research in Child Development

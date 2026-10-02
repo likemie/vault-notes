@@ -9,7 +9,7 @@ aliases:
 summary: "人才国际循环网络中的不均衡流动状态，表现为高水平科研人才持续流向发达国家，而流入引智则主要依赖学术水平较低的地区，且本土化替代难以弥补流失质量。"
 type: concept
 domain: "comparative-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Going Native]]"
   - "[[Variable]]"
+  - "[[Research Universities]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-30'
-updated: 2026-09-17
+updated: 2026-10-02
 ---
 
 # Asymmetric Brain Circulation
@@ -116,7 +117,7 @@ updated: 2026-09-17
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]] | 俄罗斯[[Project 5-100\|5-100计划]]高校引智数据（2020年） | 政策成效评估与统计分析 | 21所卓越高校中引智比例超10%的大学数量及比例 | 仅有 5 所高校（23.8%）实现了超过 10% 的外籍专家比例，且数据包含大量短期访问学者，显示引智成效不佳且存在水分。 | — | 仅代表参与卓越计划的研究型大学，不能直接外推至全俄高校。 |
+> | [[Argument_Dezhina_2022_ECO\|Dezhina & Egerev (2022)]] | 俄罗斯[[Project 5-100\|5-100计划]]高校引智数据（2020年） | 政策成效评估与统计分析 | 21所卓越高校中引智比例超10%的大学数量及比例 | 仅有 5 所高校（23.8%）实现了超过 10% 的外籍专家比例，且数据包含大量短期访问学者，显示引智成效不佳且存在水分。 | — | 仅代表参与卓越计划的[[Research Universities\|研究型大学]]，不能直接外推至全俄高校。 |
 > | Dezhina & Egerev | 独联体（CIS）学者流入数据（2015-2017年） | 迁移统计数据分析 | 自[[Community Innovation Survey\|CIS]]国家流入俄罗斯的研究人员增长倍数 | 流入俄罗斯的独联体学者数量翻倍，而流出流向则高度集中于美德等发达国家，呈现典型的质量非对称替代。 | — | 数据来自间接统计，官方无完整的人流双向对比库。 |
 
 ---
