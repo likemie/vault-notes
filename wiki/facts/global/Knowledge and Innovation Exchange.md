@@ -11,7 +11,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 16
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -26,7 +26,6 @@ tags:
 related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Research Utilization]]"
-  - "[[Evaluation Research]]"
   - "[[Governing by Numbers]]"
   - "[[Policy Brokerage]]"
   - "[[Research Translation]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-14
+updated: 2026-10-02
 ---
 
 # Knowledge and Innovation Exchange
@@ -76,7 +75,7 @@ updated: 2026-09-14
 > 通过设立下沉至全球南方各大区域的地缘化中介枢纽，将单向的全球研究推送转变为区域内平级国家间的横向同侪经验交流与适应性实证研究资助，以此化解信息过载与政策执行阻滞。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
 
 > [!policy-design]- 方案设计
-> - **项目目标** 识别受援国共同面临的紧迫政策挑战，资助跨国适应性研究（[[Evaluation Research\|Applied Research]]），构建基于实证的区域同侪互学共同体。
+> - **项目目标** 识别受援国共同面临的紧迫政策挑战，资助跨国适应性研究（Applied Research），构建基于实证的区域同侪互学共同体。
 > - **覆盖对象** 70 余个发展中国家的教育部司局长、政策规划官员、国家教育研究院所学者与本土民间教育智库。
 > - **干预措施** 设立区域同侪互学工作坊、网络研讨会矩阵、提供循证政策简报，并为多国联合实施的实证创新试验提供种子赠款。
 > - **实施控制** 由四大区域专业机构担任枢纽秘书处，定期开展政策需求评估，追踪试点创新的本土适应性转化指标。
@@ -90,7 +89,7 @@ updated: 2026-09-14
 
 > [!dev-timeline]- 项目推进历程
 > - **2019–2020 — 机制创设与区域枢纽招标** [[Global Partnership for Education\|GPE]] 理事会批准设立 KIX，联合 IDRC 完成全球招标，确立四大区域枢纽：非洲西中部与印度洋枢纽、非洲东南部枢纽、拉丁美洲与加勒比枢纽、欧洲中东中亚与亚太枢纽。
-> - **2021–2023 — 枢纽常态化运转与议题开拓** 各区域枢纽汇聚 70 余国教育部核心决策团队，资助数十项聚焦女童教育、教师专业发展、早期识字与数据治理的跨国[[Evaluation Research\|应用研究]]，成为各大多边机构对接南方国家的重要渠道。
+> - **2021–2023 — 枢纽常态化运转与议题开拓** 各区域枢纽汇聚 70 余国教育部核心决策团队，资助数十项聚焦女童教育、教师专业发展、早期识字与数据治理的跨国应用研究，成为各大多边机构对接南方国家的重要渠道。
 > - **2024–至今 — KIX 2.0 阶段与深度嵌入** 启动 KIX 2.0 拓展计划，进一步将[[Knowledge Mediation\|知识中介]]触角嵌入受援国教育部法定规划程序，以应对全球多边机构在[[Governing by Numbers\|数字治理]] 2.0 时代加剧的[[Policy Brokerage\|政策中介]]竞争。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
 
 ---
@@ -114,7 +113,7 @@ updated: 2026-09-14
 
 > [!indicators]- 评估指标体系
 > - **网络覆盖与活跃度** 参与区域互学的教育部官员规模、多国联合政策简报产出数、跨国工作坊参与率。
-> - **[[Research Translation\|研究转化]]度** 经由 KIX 资助的[[Evaluation Research\|应用研究]]被受援国《国家教育计划》（ESP）采纳引用的比例。
+> - **[[Research Translation\|研究转化]]度** 经由 KIX 资助的应用研究被受援国《国家教育计划》（ESP）采纳引用的比例。
 > - **试点创新规模** 在受援国由实验试点走向全国性推广的教学干预方案数量。
 
 > [!finding-cards] 核心实证结论

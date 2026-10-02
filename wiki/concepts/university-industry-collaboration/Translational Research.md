@@ -8,7 +8,7 @@ aliases:
 summary: "将学术实验室中的研究发现转化为可商业化产品或规模化应用的研究过程，在生物制药领域具体表现为从临床前研究到人体临床试验的桥梁功能"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
-  - "[[Evaluation Research]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Valley of Death]]"
   - "[[Clinical Trial]]"
@@ -57,7 +56,7 @@ updated: 2026-10-02
 
 > [!example]
 > - vs [[Technology Transfer\|技术转移]] — 技术转移侧重于知识产权或许可的商业化交易环节，转化研究侧重于从研究发现到可商业化产品之间的研究活动和技能组合。转化研究是技术转移的前置环节
-> - vs [[Evaluation Research\|应用研究]]（applied research） — 应用研究解决有明确用途的问题，转化研究专门解决"从实验室条件到大规模生产条件"的过渡问题
+> - vs 应用研究（applied research） — 应用研究解决有明确用途的问题，转化研究专门解决"从实验室条件到大规模生产条件"的过渡问题
 > - vs [[Use-Inspired Basic Research\|应用启发的基础研究]] — [[Pasteur's Quadrant|巴斯德象限]]的研究追求基础理解的突破，同时受应用目标启发；转化研究则在此基础上进一步解决规模化和可制造性问题
 
 ---

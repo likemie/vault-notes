@@ -33,9 +33,9 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
-  - "[[Evaluation Research]]"
   - "[[Research Translation]]"
   - "[[Enlightenment]]"
+  - "[[Evaluation Research]]"
   - "[[Research-Practice Partnership]]"
   - "[[Variable]]"
   - "[[Formative Assessment]]"
@@ -130,7 +130,7 @@ updated: 2026-10-02
 > - **前提一** 传统政策与管理学默认“线性技术模型”（[[Technical Rationality\|Technical-Rational Model]]），[[Hypothesis\|假设]]只要研究质量足够高、结论足够明确，决策者就会据此直接制定政策或调整教学行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03\|(Cohen et al., 2011, p. 43)]]
 > - **前提二** 现实中的政策制定与教学实践高度受到价值冲突、政治博弈、制度惯性与认知负荷的制约，研究证据只是多元竞争信息流中的一种输入。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 3)]]
 > - **推导** Weiss (1979) 进而提出解构线性迷思的七种经典模型，并在 1991 年进一步提炼为四种过程范式：
->   ① **知识驱动模型（Knowledge-Driven Model）** 基础研究 $\rightarrow$ [[Evaluation Research\|应用研究]] $\rightarrow$ 技术开发 $\rightarrow$ 成果应用，适用于强自然科学或工程[[Research Translation\|技术转化]]，但在复杂社会教育情境中往往受限；
+>   ① **知识驱动模型（Knowledge-Driven Model）** 基础研究 $\rightarrow$ 应用研究 $\rightarrow$ 技术开发 $\rightarrow$ 成果应用，适用于强自然科学或工程[[Research Translation\|技术转化]]，但在复杂社会教育情境中往往受限；
 >   ② **[[Problem Solving\|问题解决]]模型（Problem-Solving Model）** 决策者面临明确待解难题 $\rightarrow$ 主动检索或委托针对性实证研究 $\rightarrow$ 研究提供最优方案 $\rightarrow$ 决策落地；
 >   ③ **互动模型（Interactive Model）** 研究者、政策制定者、行政人员与一线教师处于非线性的多边对话网络中，研究证据与实践者的经验智慧、政治判断相互激荡与调适；
 >   ④ **政治模型（Political Model）** 决策方案已由意识形态或既得利益预先确定，研究被选择性引用作为佐证论点、打击异见或增强合法性的“政治弹药”；
@@ -142,7 +142,7 @@ updated: 2026-10-02
 > > | 模型名称 | 运作逻辑 | 研究在决策中的角色 | 典型教育场景 | 局限性与风险 |
 > > |---|---|---|---|---|
 > > | **知识驱动模型**<br>Knowledge-Driven | 基础研究 $\rightarrow$ 应用研究 $\rightarrow$ 成果转化 | 自主产生技术突破，驱动后续实践变革 | 学习科学实验室脑成像发现转化为数字化教学软件 | 忽视教育复杂社会属性与情境约束 |
-> > | **问题解决模型**<br>Problem-Solving | 现实困境 $\rightarrow$ 检索/委托研究 $\rightarrow$ 直接采纳 | 决策者按需取用的“现成处方”与证据库存 | 针对特定年级阅读障碍委托针对性干预评估研究 | 假定问题与目标无争议，现实极易遇阻 |
+> > | **问题解决模型**<br>Problem-Solving | 现实困境 $\rightarrow$ 检索/委托研究 $\rightarrow$ 直接采纳 | 决策者按需取用的“现成处方”与证据库存 | 针对特定年级阅读障碍委托针对性干预[[Evaluation Research\|评估研究]] | 假定问题与目标无争议，现实极易遇阻 |
 > > | **互动模型**<br>Interactive | 多边网络平等对话、经验与证据互构 | 协同共创与探究伙伴（[[Research-Practice Partnership\|RPP]] 范式） | 大学研究者与学校教研组组建长期行动探究共同体 | 沟通成本高，需要极高的组织专业信任 |
 > > | **政治模型**<br>Political | 立场先行 $\rightarrow$ 选择性引用研究为已有政策辩护 | 辩护武器与公关修辞弹药 | 政策制定者挑选支持特定考试分流方案的研究报告 | 证据被工具化操纵，扭曲学术求真本质 |
 > > | **战术模型**<br>Tactical | 借口“开展深入研究”以拖延或推卸行政责任 | 拖延决策与转移问责的挡箭牌 | 面临争议性减负方案时宣布“设立专家组开展长周期调研” | 消耗公众信任，造成政策实践瘫痪 |

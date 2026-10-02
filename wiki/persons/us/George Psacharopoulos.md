@@ -8,7 +8,7 @@ summary: "国际著名教育经济学家、世界银行资深教育顾问与人�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 25
+person_related_count: 24
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Document]]"
   - "[[Paradigm]]"
-  - "[[Evaluation Research]]"
   - "[[International Education]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Policy Brokerage]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # George Psacharopoulos
@@ -111,14 +110,14 @@ updated: 2026-10-01
 
 > [!influence-path] 影响路径
 > - **理论路径** 将芝加哥学派[[Human Capital Theory\|人力资本理论]]转化为可操作的宏观公共政策分析工具，使教育经济学从一门纯理论学派跃升为指导全球南方教育政策的主导[[Paradigm\|范式]]。
-> - **机构转型路径** 亲手缔造了[[World Bank\|世界银行]]“自指性政策[[Evaluation Research\|应用研究]]帝国”，通过将借贷决策与明瑟回报率估算绑定，彻底终结了战后[[UNESCO\|联合国教科文组织]]在[[International Education\|国际教育]]发展领域的人文主义话语垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 542, 548)]]
+> - **机构转型路径** 亲手缔造了[[World Bank\|世界银行]]“自指性政策应用研究帝国”，通过将借贷决策与明瑟回报率估算绑定，彻底终结了战后[[UNESCO\|联合国教科文组织]]在[[International Education\|国际教育]]发展领域的人文主义话语垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 542, 548)]]
 > - **政策转移路径** 主导了 1980 至 1990 年代撒哈拉以南非洲与拉美地区[[Structural Adjustment Programs|结构调整方案]]中的教育政策重组，推动了发展中国家基础教育免费与高等教育成本分担（收取学费）的全球普及。
 
 ---
 
 ## 历史评价
 
-> [!citation-card] 施泰纳-哈姆西等论[[World Bank\|世界银行]][[Evaluation Research\|应用研究]]帝国的缔造
+> [!citation-card] 施泰纳-哈姆西等论[[World Bank\|世界银行]]应用研究帝国的缔造
 > 针对教育对经济增长[[Return on Investment\|投资回报]]率的无数次实证分析，恰恰生动说明了世界银行在长时期内构建起来的应用政策研究帝国。在对 60 年教育投资回报率研究的综述中，萨卡罗普洛斯与帕特里诺斯（Psacharopoulos & Patrinos, 2018）依托了一个涵盖 139 个国家、包含 1,120 项回报率估算的世界银行数据库。……世界银行正是以此深耕自身专属的[[Policy Brokerage\|政策中介]]利基，并赞美其相较于其他国际组织所具备的比较优势。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 548)]]
 >
 > *The myriad of analyses of the rates of return of education to economic [[Growth]] is a case in point to illustrate the applied policy research empire that the World Bank built over a long period. In their overview of 60 years of research on returns on investment in education, Psacharopoulos & Patrinos (2018) drew on a World Bank database with 1,120 rate-of-return estimates in 139 countries. ... Thus, the IOs carved their niche for policy brokerage over time to demarcate their territory and extol their comparative advantage vis-à-vis other IOs.*

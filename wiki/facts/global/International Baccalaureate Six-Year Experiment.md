@@ -9,7 +9,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 23
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[International Schools]]"
   - "[[Research Purpose]]"
-  - "[[Evaluation Research]]"
   - "[[Further Education]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Growth]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-09-12
+updated: 2026-10-02
 ---
 
 # International Baccalaureate Six-Year Experiment
@@ -69,7 +68,7 @@ updated: 2026-09-12
 ## 经过
 
 > [!dev-timeline]- 事件经过
-> - **1967–1968 年 — [[Research Purpose\|研究目的]]转向资格服务** 理事会在严控小样本的[[Evaluation Research\|应用研究]]与扩大网络的现实服务之间出现分歧，最终把服务跨国流动学生和建立永久资格置于优先位置。办公室迁至日内瓦科洛尼并补充考试行政人员。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 61–67)]]
+> - **1967–1968 年 — [[Research Purpose\|研究目的]]转向资格服务** 理事会在严控小样本的应用研究与扩大网络的现实服务之间出现分歧，最终把服务跨国流动学生和建立永久资格置于优先位置。办公室迁至日内瓦科洛尼并补充考试行政人员。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 61–67)]]
 > - **1969–1970 年 — 试考转为正式考试** 1969 年举行完整试考，1970 年首次举办具有大学承认承诺的正式考试，29 名完整文凭考生进入资格实践。
 > - **1970–1973 年 — 学校与承认网络扩展** 英美大学逐校承认，法国等集中体系建立有限等值；学校类型扩展到公立实验学校、双语学校、[[Further Education\|继续教育]]学院和多地区[[International Schools\|国际学校]]。到 1973 年底，20 国给予一般承认，其他国家给予部分承认，学生进入 25 国的 175 所大学（pp. 68–82）。
 > - **1973–1975 年 — 财务危机与组织重构** 通货膨胀、汇率错配和阶段性基金会资助退出迫使 [[International Baccalaureate|IBO]] 控制成本、把部分考试业务转至英国、建立学校加入费与年费，并扩大政府支持（pp. 83–94）。

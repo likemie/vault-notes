@@ -12,7 +12,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 9
+fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ tags:
   - theme/research-governance
   - level/national-policy
 related_concepts:
-  - "[[Evaluation Research]]"
   - "[[Research Question]]"
   - "[[Attrition]]"
   - "[[Public Engagement with Science]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-10-02
 ---
 
 # Rothschild Report 1971
@@ -64,7 +63,7 @@ updated: 2026-09-04
 > 报告提出了著名的“客户-承包商原则”（Customer-Contractor Principle），断言应用型研究与试验发展必须由具备明确实际需求的政府部门（客户）提出委托并出资，由科研机构或大学（承包商）承接执行，促使政府从科研的“自我供给者”全面转型为“智能采购者”。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 80)]]
 
 > [!policy-design]- 政策设计
-> - **核心目标** 建立需求导向的政府科研管理机制，确保公共财政资助的[[Evaluation Research\|应用研究]]直接服务于国家政策制定与社会公共服务需求。
+> - **核心目标** 建立需求导向的政府科研管理机制，确保公共财政资助的应用研究直接服务于国家政策制定与社会公共服务需求。
 > - **资金转移** 强制将原直拨给农业、环境和卫生等研究理事会（Research Councils）约 25% 的应用研究预算划拨至对应政府行政部委，由部委自主向研究市场采购所需科研项目。
 > - **体制重塑** 设立部委首席科学顾问（Chief Scientific Advisers, CSAs）制度，要求部委配备高级科学家担任“智能客户”（Intelligent Customer），负责界定政策[[Research Question\|研究问题]]并评估交付成果。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 80–81)]]
 > - **约束方式** 行政拨款结构重组与法定采购委托审查。

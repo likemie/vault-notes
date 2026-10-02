@@ -7,10 +7,10 @@ aliases:
 summary: "政府通过标准化产出指标和竞争性评选来分配高等教育拨款的准市场机制，表面奖励卓越，实际作为制度化马太效应使资源向已有优势的机构进一步集中"
 type: concept
 domain: "higher-education"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - quasi-markets
   - higher-education
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Matthew Effect in Academia]]"
   - "[[New Public Management]]"
-  - "[[Evaluation Research]]"
 related_theories:
   - "[[Academic Capitalism]]"
 related_methods: []
@@ -67,7 +66,7 @@ updated: 2026-10-02
 
 ### 标准化产出指标的建立
 
-政府或政府委托机构建立一套评估学术产出的标准化指标，研究评分、影响因子、引用数、博士生培养数量等。这些指标将高度异质的学术活动（基础研究、[[Evaluation Research|应用研究]]、教学、社会服务）压缩为可比较的、可排序的数字。指标的选择本身就是一个政治过程，哪些学术活动"算数"，哪些被系统地排除在外。
+政府或政府委托机构建立一套评估学术产出的标准化指标，研究评分、影响因子、引用数、博士生培养数量等。这些指标将高度异质的学术活动（基础研究、应用研究、教学、社会服务）压缩为可比较的、可排序的数字。指标的选择本身就是一个政治过程，哪些学术活动"算数"，哪些被系统地排除在外。
 
 ### 指标与拨款的挂钩
 

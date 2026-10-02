@@ -21,8 +21,8 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Content Validity]]"
   - "[[International Education]]"
-  - "[[Evaluation Research]]"
   - "[[Artefact]]"
+  - "[[Evaluation Research]]"
   - "[[Lifelong Learning]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Informationalization]]"
@@ -157,7 +157,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > [!feature] 三类文献资料载体
 > - **书籍** 包括专著（作者对自己在某领域多年研究结果的系统梳理）、论文集（众多专家关于同一主题的学术论文汇编，往往观点各异、信息量大）、教科书（系统阐述某一学科研究对象、基本理论和基本问题的入门读本）、工具书（如《中国教育统计年鉴》《[[International Education\|国际教育]]大辞典》《教育大辞典》）。
 > - **期刊** 定期或不定期的连续出版物。学术性期刊反映教育研究的研究动态和成果，如《教育研究》《高等教育研究》《北京大学教育评论》等。情报性期刊包括《新华文摘》《人大复印报刊资料》等；普及性期刊如《中国高等教育》。
-> - **未正式出版的文献** 包括学术会议论文集（反映学科领域前沿水平）、学位论文（具有一定的创新性，文献综述较为全面）、研究报告（以[[Evaluation Research\|应用研究]]为主，为政府或企业决策提供建议）。
+> - **未正式出版的文献** 包括学术会议论文集（反映学科领域前沿水平）、学位论文（具有一定的创新性，文献综述较为全面）、研究报告（以应用研究为主，为政府或企业决策提供建议）。
 
 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011)]] 对文献综述中涉及的信息类型进行了系统梳理：
 

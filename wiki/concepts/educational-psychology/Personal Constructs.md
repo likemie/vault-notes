@@ -6,7 +6,7 @@ aliases:
 summary: "George Kelly的个人建构理论中的基本分析单位——个体用于概念化日常世界的双极维度。"
 type: concept
 domain: "educational-psychology"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
-  - "[[Evaluation Research]]"
   - "[[Necessary and Sufficient Conditions]]"
 related_theories:
   - "[[Personal Construct Theory]]"
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-09-17
+updated: 2026-10-02
 ---
 # Personal Constructs
 
@@ -86,7 +85,7 @@ updated: 2026-09-17
 > - **1955 — Kelly 提出原始定义** 个人建构是 *The Psychology of Personal [[Construct\|constructs]]* 的基本概念——个体用于概念化世界的维度。此时强调个别性和临床用途。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 4–5)]]
 > - **1965 — Hinkle 扩展为蕴含关系** Hinkle 将"蕴含"概念与组织推论链接，使个人建构从静态特征扩展为具有逻辑蕴涵关系的层级网络。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(p. 8)]]
 > - **1968 — Bannister & Mair 的方法化** 个人建构从临床概念转化为可操作的研究[[Variable\|变量]]——引入提供构念与引发构念的二元区分，使该概念进入主流研究方法论讨论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 7–8)]]
-> - **1970s 至今 — 跨领域迁移** 个人建构从心理治疗领域迁移到教育、消费者研究、信息系统评估和组织行为学。同时，大多数[[Evaluation Research\|应用研究]]以纯方法论方式使用构念，与 Kelly 理论的原初含义渐行渐远。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 17–18)]]
+> - **1970s 至今 — 跨领域迁移** 个人建构从心理治疗领域迁移到教育、消费者研究、信息系统评估和组织行为学。同时，大多数应用研究以纯方法论方式使用构念，与 Kelly 理论的原初含义渐行渐远。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25\|(pp. 17–18)]]
 
 ---
 

@@ -112,9 +112,9 @@ updated: 2026-09-22
 ## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构与核心从属网络
-> - **决策机构（董事会与政商旋转门）** 董事会由跨国商业银行高管、麦肯锡顾问与大型基金会理事主导；前任董事及顾问频繁向官方关键决策委员会流动（如 Richard Spencer 出任生产力委员会专员，[[Michael Traill]] 出任总理内阁部[[Social Impact Investing\|社会影响力投资]]工作组成员，Lisa Paul 前联邦教育部次长同时兼任 SVA 与 [[Australian Schools Plus\|Schools Plus]] 董事，Belinda Hutchinson 担任 [[Australian Philanthropic Services\|APS]] 董事兼悉尼大学校监）（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 7, 9]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
+> - **决策机构（董事会与政商旋转门）** 董事会由跨国商业银行高管、麦肯锡顾问与大型基金会理事主导；前任董事及顾问频繁向官方关键决策委员会流动（如 Richard Spencer 出任生产力委员会专员，[[Michael Traill]] 出任总理内阁部[[Social Impact Investing\|社会影响力投资]]工作组成员，Lisa Paul 前联邦教育部次长同时兼任 SVA 与 [[Australian Schools Plus\|Schools Plus]] 董事，Belinda Hutchinson 担任 APS 董事兼悉尼大学校监）（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 7, 9]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
 > - **执行机构（SVA 咨询部与创投团队）** 运营年营业额达 1000 万澳元的收费商业咨询部门（SVA Consulting），直接向各级部委、公立学区与非营利机构提供战略规划，将企业管理模式深植于公共服务系统（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5–6]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 527]]）。
-> - **子公司网络与四层控股架构** 经由澳大利亚证券与投资委员会（ASIC）监管档案确认，SVA 建立了涵盖 SVA Nominees、SVA Nominees No. 2、Mastery Learning、Newpin 等 4 家全资子公司，并在历史上创立分拆了澳大利亚慈善服务社（APS），构建了分层规避风险与承接资金的组织[[Assemblage\|装配]]（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5, 11]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 528]]）。
+> - **子公司网络与四层控股架构** 经由澳大利亚证券与投资委员会（ASIC）监管档案确认，SVA 建立了涵盖 SVA Nominees、SVA Nominees No. 2、Mastery Learning、Newpin 等 4 家全资子公司，并在历史上创立分拆了[[Australian Philanthropic Services|澳大利亚慈善服务社]]（APS），构建了分层规避风险与承接资金的组织[[Assemblage\|装配]]（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5, 11]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 528]]）。
 > - **跨国资助与资本盟友** 深度整合跨国铁矿石巨头[[BHP Foundation\|必和必拓基金会]]、英国[[Sutton Trust\|萨顿信托]]、[[Impetus\|动力基金会]]以及美洲银行、麦格理银行、高盛集团、普华永道等全球金融与咨询资本，并联合澳大利亚联邦银行与三星集团开展学校项目（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6–8]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 528]]）。
 
 > [!pathways]- 运行机制与[[Epistemology\|认识论]]粘合剂

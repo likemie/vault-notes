@@ -7,16 +7,15 @@ aliases:
 summary: "Swick and Jones（2025）定义的创新类型，指整合医学、自然科学、物理科学、计算科学和工程学以改善医疗结果的创新，由医学翻译循环、团队科学和创新文化三者驱动，学术健康系统是其产学合作的理想促进者"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - "theme/university-industry-collaboration"
   - "theme/innovation"
   - "level/higher-education"
 related_concepts:
-  - "[[Evaluation Research]]"
   - "[[Clinical Trial]]"
   - "[[University-Industry Collaboration]]"
   - "[[Physician-Scientist]]"
@@ -34,7 +33,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-09-10
+updated: 2026-10-02
 ---
 
 # Applied Medical Innovation
@@ -54,7 +53,7 @@ updated: 2026-09-10
 
 ### 医学翻译循环（Cycle of Medical Translation）
 
-AMI 通过一个闭环反馈回路实现从需求到解决方案的转化（pp.176–178, Fig. 10.1）：临床需求识别 → 发现研究（discovery research）→ 发明（invention）→ [[Evaluation Research|应用研究]]（applied research）→ 产品开发 → 临床前验证（preclinical validation）→ [[Clinical Trial|临床试验]]（clinical trials）→ 试点部署（piloting）与提供者教育（provider education）→ 质量与安全评估 → 规模化部署 → 反馈回新的临床需求。
+AMI 通过一个闭环反馈回路实现从需求到解决方案的转化（pp.176–178, Fig. 10.1）：临床需求识别 → 发现研究（discovery research）→ 发明（invention）→ 应用研究（applied research）→ 产品开发 → 临床前验证（preclinical validation）→ [[Clinical Trial|临床试验]]（clinical trials）→ 试点部署（piloting）与提供者教育（provider education）→ 质量与安全评估 → 规模化部署 → 反馈回新的临床需求。
 
 循环的每一步深度依赖不同类型的[[University-Industry Collaboration|产学合作]]：临床需求识别发生在医院；发现研究和应用研究在大学和研究机构中进行；产品开发与临床前验证依赖产业伙伴支持；教育和技术扩散从研究机构和大学流向医院。循环隐含两个不可或缺的要素：有效的产学伙伴关系和[[Physician-Scientist|医师科学家]]（Physician-Scientist）（pp.177–178）。
 

@@ -95,7 +95,7 @@ Total entries: **605**
 > - [[2014 Hukou Reform]] — 2014 年国务院发布户籍制度改革意见，允许迁移人口在除少数特大城市外的城镇获得当地户口，以推进新型城镇化，直接改变了农村人口的教育可及性格局
 > - [[2019 Hong Kong Protests]] — 2019 年因逃犯条例修订草案引发的大规模抗议，被定性为国家安全 crisis 后触发中国历史课程改革加速和通识教育科废除，重塑了香港教育的治理模式
 > - [[2020 Inner Mongolia Bilingual Education Reform]] — 2020 年内蒙古将少数民族学校教学语言从蒙古语改为普通话，引发大规模抗议 and 11 起蒙古族自杀事件
-> - [[Academic Ranking of World Universities]] — 2003 年上海交通大学发布的首个全球大学排名，以研究产出和精英奖项为核心指标，开启了排名重塑全球高等教育的时代
+> - [[Academic Ranking of World Universities]] — 2003 年上海交通大学发布的首个全球综合性大学排名系统，以纯客观科研产出与顶尖学术奖项为核心评价指标，开启了以跨国量化排序重塑全球高等教育格局的时代。
 
 > [!trail]- University-industry links (8)
 > - [[Advanced Manufacturing Research Centre]] — 1999年由谢菲尔德大学和波音公司共同发起的产学联合体，截至2024年拥有600多名员工和120多家产业成员，年研究经费4,000万英镑，是大学主导研究联合体的标杆案例
@@ -206,7 +206,7 @@ Total entries: **605**
 ## China
 
 > [!index-list]- Event (12)
-> - [[Academic Ranking of World Universities]] — 2003 年上海交通大学发布的首个全球大学排名，以研究产出和精英奖项为核心指标，开启了排名重塑全球高等教育的时代
+> - [[Academic Ranking of World Universities]] — 2003 年上海交通大学发布的首个全球综合性大学排名系统，以纯客观科研产出与顶尖学术奖项为核心评价指标，开启了以跨国量化排序重塑全球高等教育格局的时代。
 > - [[China Social Credit System]] — 中国利用大数据和行政记录对公民、组织与市场主体行为进行评估和治理的制度体系
 > - [[Civil Service Examination]] — 中国自 7 世纪至 1905 年延续超过 1300 年的官员选拔制度，将道德成就、学术学习、政治权力和社会地位融为一体，并深刻塑造了现代教育考试文化
 > - [[Confucian Revival in China]] — 1980 年代末至今中共主导的儒家传统复兴运动，经历了从民间自发国学热到国家收编、去宗教化定位、软实力输出及 2017 年后马克思主义正统收紧的双重转向

@@ -7,7 +7,7 @@ summary: "美国电机工程师、科技管理者与战后科技政策奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 23
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Linear Model of Innovation]]"
   - "[[Academic Freedom]]"
   - "[[Blue Skies Research]]"
-  - "[[Evaluation Research]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Soft-Money Faculty Model]]"
@@ -97,7 +96,7 @@ updated: 2026-10-02
 >   - **阶段转向** 认识到国家财政集中投资对于催生颠覆性科技成果具有不可替代的战略威力。
 > - **1945–1950s — 战后和平时期国家科学契约奠基期** 为摆脱战时军方严格管制、确保高校科学家[[Academic Freedom|学术自由]]与长期财政保障，建构基础研究神圣性叙事。
 >   - **代表著作** *[[Science, The Endless Frontier 1945|Science, The Endless Frontier]]* (1945)。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
->   - **关键概念／方法** 基础研究（[[Blue Skies Research|Basic Research]]）、[[Evaluation Research|应用研究]]（Applied Research）、科技蓄水池假说、国家科学基金会。
+>   - **关键概念／方法** 基础研究（[[Blue Skies Research|Basic Research]]）、应用研究（Applied Research）、科技蓄水池假说、国家科学基金会。
 >   - **阶段转向** 在政治游说中策略性地将纯求知的基础研究与商业化应用开发做严格切割，奠定了基础/应用二分法与单向线性模型的制度教条。
 
 ---
@@ -119,7 +118,7 @@ updated: 2026-10-02
 > [!influence-path] 影响路径
 > - **政策与机构路径** 直接促成了[[National Science Foundation|美国国家科学基金会]]（NSF）的建立，确立了同行评议与大学同行自主管理的资助体制；为战后国立卫生研究院（[[National Institutes of Health|NIH]]）、能源部（[[Department of Energy|DOE]]）及国防部高级研究计划局（[[DARPA]]）的多机构竞争性格局奠定了母体框架。
 > - **高等教育路径** 使美国顶尖研究型大学由战前的教学本位彻底转变为依托联邦科研经费的研究本位体系，开创了战后美国大学在全球前沿学科的长期垄断地位。
-> - **理论[[Paradigm|范式]]路径** 其倡导的“基础研究 $\rightarrow$ [[Evaluation Research|应用研究]] $\rightarrow$ 开发制造”单向序列被[[OECD|经合组织]]（OECD）《弗拉斯卡蒂手册》采纳为全球研发统计标准，成为战后主导半个多世纪科技政策的“线性模型”。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
+> - **理论[[Paradigm|范式]]路径** 其倡导的“基础研究 $\rightarrow$ 应用研究 $\rightarrow$ 开发制造”单向序列被[[OECD|经合组织]]（OECD）《弗拉斯卡蒂手册》采纳为全球研发统计标准，成为战后主导半个多世纪科技政策的“线性模型”。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统反思并批判[[Science, The Endless Frontier 1945|布什报告]]在战后制度化的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]，揭示其深植于西方贬低动手制作的文化偏见，论证该线性[[Hypothesis|假设]]已成为阻碍当代美国国家创新政策演进的体制障碍。

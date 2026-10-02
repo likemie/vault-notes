@@ -9,7 +9,7 @@ aliases:
 summary: "政府投资建立的桥接大学研究与产业应用之间的中介组织，履行应用研究、技术问题解决、劳动力发展、设施建设等多重功能，典型如英国 Catapult、德国 Fraunhofer 和美国 Manufacturing USA"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,7 +21,6 @@ tags:
   - level/higher-education
 related_concepts:
   - "[[Problem Solving]]"
-  - "[[Evaluation Research]]"
   - "[[Innovation Ecosystem]]"
   - "[[Valley of Death]]"
 related_theories:
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-09-10
+updated: 2026-10-02
 ---
 
 # Research and Technology Organisation
@@ -51,7 +50,7 @@ updated: 2026-09-10
 > [!abstract]
 > 峰会讨论强调，解决产业和社会创新挑战往往涉及远超技术[[Problem Solving\|问题解决]]和推动技术通过开发管道的多项工作。RTO 在[[Systems of Innovation\|创新系统]]中履行的多重功能包括（pp.33–34）：
 
-- **[[Evaluation Research|应用研究]]** 开展桥接学术研究与产业应用所需的应用研究，使技术能够更有效地从概念走向市场
+- **应用研究** 开展桥接学术研究与产业应用所需的应用研究，使技术能够更有效地从概念走向市场
 - **技术问题解决** 为企业提供技术问题解决服务
 - **劳动力发展** 发展企业和供应链的劳动力，使其能够吸收和部署新兴技术
 - **工具和技术开发** 开发新的工具和技术以生产新产品或新服务
@@ -81,5 +80,5 @@ updated: 2026-09-10
 
 > [!tip]-
 > - 与 [[Innovation Ecosystem\|创新生态系统]] 的关系 — RTO 是创新生态系统中的关键中介行动者，位于大学和企业之间的界面上，增强系统的知识流动和技术扩散
-- 与 [[Valley of Death|死亡之谷]] 的关系 — RTO 是桥接死亡之谷的核心机制之一，通过[[Evaluation Research|应用研究]]、技术开发、劳动力培训和市场培育等功能来填补研究与产业应用之间的鸿沟
+- 与 [[Valley of Death|死亡之谷]] 的关系 — RTO 是桥接死亡之谷的核心机制之一，通过应用研究、技术开发、劳动力培训和市场培育等功能来填补研究与产业应用之间的鸿沟
 - 与 [[Triple Helix|三重螺旋]] 的关系 — RTO 是政府、大学和产业三重螺旋关系中的制度性中介组织，体现了政府如何通过创建新组织形态来催化产学互动

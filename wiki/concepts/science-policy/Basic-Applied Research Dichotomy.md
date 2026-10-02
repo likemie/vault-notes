@@ -8,7 +8,7 @@ aliases:
 summary: "战后主导科技政策资源配置的核心分类范式，以研究者即时立项动机将科研割裂为基础与应用两轨；后因其文化阶层偏见、单向因果谬误及导致关键硬件发明资助断档而遭系统性解构"
 type: concept
 domain: "science-policy"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,7 +17,6 @@ tags:
   - theme/research-classification
   - theme/innovation
 related_concepts:
-  - "[[Evaluation Research]]"
   - "[[Paradigm]]"
   - "[[Abstract]]"
   - "[[Blue Skies Research]]"
@@ -54,7 +53,7 @@ updated: 2026-10-02
 ## 定义
 
 > [!def] 核心定义
-> 基础/[[Evaluation Research|应用研究]]二分法（Basic/Applied Research Dichotomy）是二战后主导全球尤其是美国科技体制建设的核心分类[[Paradigm|范式]]。该范式以科研人员开展工作当下的**初始主观动机**为判据，将科研活动划分为追求纯粹客观规律认知的基础研究与满足现实功用目的的应用研究，预设二者存在不可逆的单向传导秩序：基础研究在自由探索中产出新科学定律，进而单向流入应用研究并转化为工业技术。[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）在 1945 年报告[[Science, The Endless Frontier 1945]]中将此确立为国家科技体制基石，规定政府公共财政仅对市场失灵的纯基础研究承担资助义务，应用开发则交由私营市场。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
+> 基础/应用研究二分法（Basic/Applied Research Dichotomy）是二战后主导全球尤其是美国科技体制建设的核心分类[[Paradigm|范式]]。该范式以科研人员开展工作当下的**初始主观动机**为判据，将科研活动划分为追求纯粹客观规律认知的基础研究与满足现实功用目的的应用研究，预设二者存在不可逆的单向传导秩序：基础研究在自由探索中产出新科学定律，进而单向流入应用研究并转化为工业技术。[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）在 1945 年报告[[Science, The Endless Frontier 1945]]中将此确立为国家科技体制基石，规定政府公共财政仅对市场失灵的纯基础研究承担资助义务，应用开发则交由私营市场。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将复杂的网状科学技术生态强行裁剪为求知与致用两条互不交融的平行轨道，并将工程学贬抑为从属地位的应用科学。
@@ -139,7 +138,7 @@ updated: 2026-10-02
 
 > [!dev-timeline] 概念演变
 > - **1945 — 政策[[Paradigm|范式]]制度化** [[Vannevar Bush|万尼瓦尔·布什]]在报告《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》中正式将科研划分为基础与应用，确立政府仅对无功利目的的基础科学负责，直接塑造了 [[National Science Foundation|NSF]] 的立馆宗旨。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
-> - **1963 — 全球统计口径标准化** [[OECD|经济合作与发展组织]]（OECD）出台《弗拉斯卡蒂手册》，正式将基础研究、[[Evaluation Research|应用研究]]与试验开发作为国家研发经费（R&D）统计的三大固定科目，使二分法成为全球通用官僚规程。
+> - **1963 — 全球统计口径标准化** [[OECD|经济合作与发展组织]]（OECD）出台《弗拉斯卡蒂手册》，正式将基础研究、应用研究与试验开发作为国家研发经费（R&D）统计的三大固定科目，使二分法成为全球通用官僚规程。
 > - **1997 — [[Pasteur's Quadrant|帕斯德象限]]二维拓扑打破** [[Donald Stokes|唐纳德·斯托克斯]]提出二维动机矩阵，创立用启发性基础研究概念，有力挑战了一维对立，但在话语上仍保留了二分法词汇。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
 > - **2013 — 宣告二分法终结** 纳拉亚纳穆尔提等人在《科学与技术问题》撰文宣布二分法寿终正寝（RIP），主张以客观产出的发现与发明循环模型全面替代动机二分，并以[[Long-Term Public Utility|长期公共效用]]重构科研资助准绳。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
 
@@ -164,4 +163,4 @@ updated: 2026-10-02
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 全面梳理并宣告基础/[[Evaluation Research|应用研究]]二分法终结，论证其历史文化根源与现实危害，提出以[[Discovery-Invention Cycle|发现-发明循环]]与[[Long-Term Public Utility|长期公共效用]]重构科技政策。
+> - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 全面梳理并宣告基础/应用研究二分法终结，论证其历史文化根源与现实危害，提出以[[Discovery-Invention Cycle|发现-发明循环]]与[[Long-Term Public Utility|长期公共效用]]重构科技政策。

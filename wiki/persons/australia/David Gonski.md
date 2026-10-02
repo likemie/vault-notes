@@ -112,7 +112,7 @@ updated: 2026-09-26
 
 > [!person-network] 核心关系网络与跨界拓扑
 > - **政界委托方** 茱莉亚·吉拉德（Julia Gillard，工党总理）与马尔科姆·特恩布尔（Malcolm Turnbull，自由党总理）— 分别跨党派任命其领衔 Gonski 1.0 与 2.0 两轮重大审查。
-> - **[[Venture Philanthropy\|风险慈善]]与商业董事盟友** [[Michael Traill\|迈克尔·特雷尔]]（Michael Traill，[[Social Ventures Australia\|SVA]] 创办 CEO）、贝琳达·哈钦森（Belinda Hutchinson，悉尼大学校监兼 [[Australian Philanthropic Services\|APS]] 董事）、罗杰·马西-格林（Roger Massy-Greene，美洲银行前高管兼 [[Australian Education Research Organisation\|AERO]] 董事）— 共同出任 SVA 子公司 APS 理事，并协同运作 [[Australian Schools Plus\|Schools Plus]] 先驱者委员会，构成密切的利益[[Co-affiliation\|共同从属]]圈（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 7, 9]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 530–531]]）。
+> - **[[Venture Philanthropy\|风险慈善]]与商业董事盟友** [[Michael Traill\|迈克尔·特雷尔]]（Michael Traill，[[Social Ventures Australia\|SVA]] 创办 CEO）、贝琳达·哈钦森（Belinda Hutchinson，悉尼大学校监兼 APS 董事）、罗杰·马西-格林（Roger Massy-Greene，美洲银行前高管兼 [[Australian Education Research Organisation\|AERO]] 董事）— 共同出任 SVA 子公司 APS 理事，并协同运作 [[Australian Schools Plus\|Schools Plus]] 先驱者委员会，构成密切的利益[[Co-affiliation\|共同从属]]圈（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 7, 9]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 530–531]]）。
 > - **政策衍生与筹款中介实体** [[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）、[[Evidence for Learning\|证据学习中心]]（E4L）与[[Australian Schools Plus\|澳大利亚学校加计划]]（Australian Schools Plus）— 其审查建议直接催生或深度参与治理的机构节点；冈斯基出任 Schools Plus 先驱者委员会主席（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
 
 ---

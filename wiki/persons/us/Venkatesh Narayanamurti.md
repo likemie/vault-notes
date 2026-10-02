@@ -8,7 +8,7 @@ summary: "美籍印裔应用物理学家与科技政策学者，哈佛大学工�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Hypothesis]]"
   - "[[Long-Term Public Utility]]"
-  - "[[Evaluation Research]]"
 related_theories:
   - "[[Discovery-Invention Cycle]]"
   - "[[Organizational Culture]]"
@@ -94,7 +93,7 @@ updated: 2026-10-02
 >   - **关键概念／方法** 任务导向型科研机构、长期考评时间尺度、消除学科藩篱。
 >   - **阶段转向** 从具体的微电子与物理研究转向对战后美国科技治理制度病灶的系统反思。
 > - **2010s–至今 — [[Discovery-Invention Cycle|发现-发明循环]]理论体系化与二分法终结期** 针对[[Science, The Endless Frontier 1945|布什报告]]以来的线性创新[[Hypothesis|假设]]发起全面[[Epistemology|认识论]]批判，提出以[[Long-Term Public Utility|长期公共效用]]替代动机分类的国家科技资助新[[Paradigm|范式]]。
->   - **代表著作** *RIP: The Basic/[[Evaluation Research|Applied Research]] Dichotomy* (2013); *Cycles of Invention and Discovery* (Harvard UP, 2016)。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
+>   - **代表著作** *RIP: The Basic/Applied Research Dichotomy* (2013); *Cycles of Invention and Discovery* (Harvard UP, 2016)。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
 >   - **关键概念／方法** [[Discovery-Invention Cycle|发现-发明循环]]、发明与发现孪生通道、长期公共效用（Long-Term Public Utility）、系统研究瓶颈诊断。
 >   - **阶段转向** 全面重构战后科学政策理论，倡导建立融合型跨学科[[Organizational Culture|组织文化]]与全额托底关键工艺的公共资助机制。
 
@@ -105,7 +104,7 @@ updated: 2026-10-02
 > [!claim] 核心主张
 > 战后美国以[[Science, The Endless Frontier 1945|布什报告]]为核心建立的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]违背了技术先于理论的科学史事实；科学研究由创造新工具与新工艺的“发明”和揭示新知识与新规律的“发现”两大对称通道构成，二者在宏观时间跨度上交替激发、双向流转；科技政策的核心职责在于诊断并消除阻碍知识在循环中顺畅流动的体制瓶颈，必须废弃基于立项动机的标签分类，确立以[[Long-Term Public Utility|长期公共效用]]为准绳的全额资助新机制。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
 
-> [!citation-card] 终结基础与[[Evaluation Research|应用研究]]二分法
+> [!citation-card] 终结基础与应用研究二分法
 > 布什将研究分割为基础与应用领域的做法，在过去七十年间被载入美国多数科技政策中，而这一虚假二分法已成为建立连贯国家创新政策的障碍……原初的划分并未反映科研中真实发生的情况，它对单个研究项目申报目标的狭隘关注，阻碍了我们对整个科研事业采取更有成效的整体视角。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
 >
 > *"Bush's separation of research into 'basic' and 'applied' domains has been enshrined in much of U.S. science and technology policy over the past seven decades, and this false dichotomy has become a barrier to the development of a coherent national innovation policy…"*

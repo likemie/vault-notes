@@ -7,7 +7,7 @@ title: "Argument_Rowe_2023_ECNUROE"
 argument_key: "Argument_Rowe_2023_ECNUROE"
 argument_display_title: "Philanthrocapitalism and the state: Mapping the rise of venture philanthropy in public education in Australia"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 45
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -80,7 +80,6 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Gonski 2.0]]"
-  - "[[Australian Philanthropic Services]]"
 related_arguments: []
 sources:
   - "[[sources/Rowe_2023_ECNUROE/Rowe_2023_ECNUROE|Rowe_2023_ECNUROE]]"
@@ -286,7 +285,7 @@ SVA 作为政策网络中枢，凭借严密的法人架构与跨国金融咨询�
 > [!actor-grid] AERO 董事会与专家委员会的核心行动者网络
 > - **董事会领导层（SVA 核心高管）** SVA 前董事莉莎·奥布莱恩（Lisa O'Brien）直接出任 AERO 首任董事会主席，将风险慈善意志植入国家最高教育科研决策层。（pp. 525, 531）
 > - **跨国智囊顾问（英国 EEF 创始领袖）** EEF 创始首席执行官凯文·柯林斯（[[Sir Kevan Collins]]）入驻 AERO 专家委员会，保障跨国因果证据标准与工具包框架的直接输入。
-> - **核心捐赠资本（慈善信托寡头）** SVA 核心捐赠人、尤里卡慈善基金会总监罗杰·马西-格林（Roger Massy-Greene，其妻为 [[Australian Philanthropic Services\|APS]] 董事贝琳达·哈钦森，Belinda Hutchinson）入驻专家委员会。
+> - **核心捐赠资本（慈善信托寡头）** SVA 核心捐赠人、尤里卡慈善基金会总监罗杰·马西-格林（Roger Massy-Greene，其妻为 APS 董事贝琳达·哈钦森，Belinda Hutchinson）入驻专家委员会。
 > - **国家官僚执行者（管理团队）** AERO 现任首席执行官珍妮·多诺万（Jenny Donovan）在公开访谈中坦承，机构的特殊架构设计正是为了吸引和接纳私营慈善资本的合作与资助。（p. 531）
 
 伴随跨界人事闭环的形成，国家科研体制的法律底座与特许权限也同步完成了关键重组。（pp. 530–531）

@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 16
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 15
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: 联邦内阁行政部门／国家级科研主管机构
 headquarters: 美国华盛顿特区福里斯特尔大厦（Forrestal Building, Washington, D.C.）
@@ -39,7 +39,6 @@ related_persons:
   - "[[Venkatesh Narayanamurti]]"
   - "[[Paula Stephan]]"
 related_facts:
-  - "[[Australian Philanthropic Services]]"
   - "[[National Institutes of Health]]"
   - "[[National Science Foundation]]"
   - "[[Bell Labs]]"
@@ -95,7 +94,7 @@ updated: 2026-10-02
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务与科研矩阵
-> - **[[Megascience Installations|大科学装置]]与物理基石** 运营包括先进光子源（[[Australian Philanthropic Services|APS]]）、国家同步辐射光源二期（NSLS-II）与散裂中子源（SNS）在内的全球顶尖科研设施，支撑微观物理新事实的发现。
+> - **[[Megascience Installations|大科学装置]]与物理基石** 运营包括先进光子源（APS）、国家同步辐射光源二期（NSLS-II）与散裂中子源（SNS）在内的全球顶尖科研设施，支撑微观物理新事实的发现。
 > - **超级计算与数值模拟平台** 研制 Summit、Frontier 等全球顶尖百亿亿次级（Exascale）超级计算机，推动气候建模、核聚变流体与量子材料计算工程。
 > - **前沿能源技术孵化** 依托 ARPA-E 资助颠覆性电池电解质、先进地热钻探与电网级储能技术，攻克高风险工程发明瓶颈。
 > - **基因组学与环境生物学先驱** 作为早期人类基因组计划（HGP）的联合发起方，奠定现代生物计算与环境微生物工程工具基础。

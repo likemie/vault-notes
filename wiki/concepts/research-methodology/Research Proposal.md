@@ -9,7 +9,7 @@ aliases:
 summary: "教育研究中将研究问题转化为可操作的研究方案的系统过程，包括课题类型区分、选题过程、开题论证和课题设计论证书的撰写"
 type: concept
 domain: "research-methodology"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Study Population and Sample]]"
   - "[[Research Purpose]]"
   - "[[Research Topic]]"
-  - "[[Evaluation Research]]"
   - "[[Blue Skies Research]]"
   - "[[Praxis]]"
   - "[[Positivism]]"
@@ -52,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-25
-updated: 2026-09-17
+updated: 2026-10-02
 ---
 
 # Research Proposal
@@ -77,7 +76,7 @@ updated: 2026-09-17
 
 ### 基础研究与应用研究
 
-> [!contrast-table] 基础研究 vs [[Evaluation Research\|应用研究]]
+> [!contrast-table] 基础研究 vs 应用研究
 > | 维度 | 基础研究（[[Blue Skies Research\|Basic Research]]） | 应用研究（Applied Research） |
 > |---|---|---|
 > | 目的 | 认识教育现象，探索本质规律，获取新知识，形成较系统的教育基础理论 | 将基础研究成果转化并应用于[[Praxis\|实践]]，解释教育问题并最终解决实际问题 |

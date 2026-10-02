@@ -24,7 +24,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Research Question]]"
   - "[[Knowledge Integration Community]]"
-  - "[[Evaluation Research]]"
   - "[[Academic Freedom]]"
   - "[[Professors of Practice]]"
   - "[[Cooperative Education]]"
@@ -69,7 +68,7 @@ title: "Argument_Boccanfuso_Hall_2025_OrgStrategy"
 argument_key: "Argument_Boccanfuso_Hall_2025_OrgStrategy"
 argument_display_title: "Organization and Strategy for University-Industry Relationships"
 argument_kind: "book"
-argument_related_count: 37
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -149,7 +148,7 @@ citation_aliases:
 - **重大挑战（Grand Challenges）** 大学是否围绕气候变化、健康寿命等社会性宏大议题组织产学合作？典型组织模式如 Acworth (2008) 提出的[[Knowledge Integration Community|知识整合共同体]]（KIC）(p.54)。
 
 > [!example]
-> 战略（Strategy）和价值观（Values）的区别可以用一个真实情境来理解：一所大学可能嘴上说"我们支持产学合作"（战略表态），但当一位教授想接受企业赞助做[[Evaluation Research\|应用研究]]时，同事在走廊里小声说"他去做企业项目了，不务正业"——这就是价值观还没有跟上战略。第一章讨论的"[[Academic Freedom\|学术自由]]与知识产权控制"之间的张力，本质上就是战略和价值观的不对齐。
+> 战略（Strategy）和价值观（Values）的区别可以用一个真实情境来理解：一所大学可能嘴上说"我们支持产学合作"（战略表态），但当一位教授想接受企业赞助做应用研究时，同事在走廊里小声说"他去做企业项目了，不务正业"——这就是价值观还没有跟上战略。第一章讨论的"[[Academic Freedom\|学术自由]]与知识产权控制"之间的张力，本质上就是战略和价值观的不对齐。
 
 底层是五个使命领域中的具体活动——这些是产学合作日常运作的"触达点"：
 

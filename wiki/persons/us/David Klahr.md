@@ -8,7 +8,7 @@ summary: "美国卡耐基梅隆大学认知心理学与学习科学荣休讲席�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 20
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -43,12 +43,11 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Meta-analysis]]"
 related_facts:
-  - "[[Australian Philanthropic Services]]"
   - "[[American Educational Research Association]]"
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # David Klahr
@@ -56,7 +55,7 @@ updated: 2026-09-22
 ## 学者概述
 
 > [!def] 学者生平与定位
-> 戴维·克拉尔（David Klahr，1939–至今）是美国当代著名认知心理学家、学习科学与科学教育研究巨擘，卡耐基梅隆大学（Carnegie Mellon University, CMU）心理学系荣休讲席教授，美国心理科学协会（[[Australian Philanthropic Services\|APS]]）与美国教育研究协会（[[American Educational Research Association\|AERA]]）会士。Klahr 的毕生研究聚焦于儿童科学推理、[[Problem Solving\|问题解决]]与概念发展的认知心理机制，其与凯文·邓巴（Kevin Dunbar）共同创立了著名的**科学发现双空间搜索模型（Scientific Discovery as Dual Search, SDDS）**，并开创了中小学[[Control of Variables Strategy\|变量控制策略]]（Control of [[Variable\|variables]] Strategy, CVS）的教学实验[[Paradigm\|范式]]。其在 2004 年发表的关于[[Direct Instruction\|直接教学]]与[[Discovery Learning\|发现学习]]对比的实证研究，成为[[International Education\|国际教育]]界二十年来争论教学法优劣的风暴中心（Klahr & Nigam, 2004; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4, 10]]）。
+> 戴维·克拉尔（David Klahr，1939–至今）是美国当代著名认知心理学家、学习科学与科学教育研究巨擘，卡耐基梅隆大学（Carnegie Mellon University, CMU）心理学系荣休讲席教授，美国心理科学协会（APS）与美国教育研究协会（[[American Educational Research Association\|AERA]]）会士。Klahr 的毕生研究聚焦于儿童科学推理、[[Problem Solving\|问题解决]]与概念发展的认知心理机制，其与凯文·邓巴（Kevin Dunbar）共同创立了著名的**科学发现双空间搜索模型（Scientific Discovery as Dual Search, SDDS）**，并开创了中小学[[Control of Variables Strategy\|变量控制策略]]（Control of [[Variable\|variables]] Strategy, CVS）的教学实验[[Paradigm\|范式]]。其在 2004 年发表的关于[[Direct Instruction\|直接教学]]与[[Discovery Learning\|发现学习]]对比的实证研究，成为[[International Education\|国际教育]]界二十年来争论教学法优劣的风暴中心（Klahr & Nigam, 2004; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4, 10]]）。
 
 ---
 

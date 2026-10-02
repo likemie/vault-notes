@@ -2,7 +2,7 @@
 title: Development Education
 type: concept
 domain: "comparative-education"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ aliases:
 related_concepts:
   - "[[International Education]]"
   - "[[Theory of Knowledge]]"
-  - "[[Evaluation Research]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -38,7 +37,7 @@ related_facts:
 related_persons:
   - "[[Philip Altbach]]"
   - "[[Val D. Rust]]"
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Development Education
@@ -58,7 +57,7 @@ updated: 2026-10-01
 第二次世界大战后，大批前殖民地国家宣布独立，亟需建立本土国民教育体制并培养技术人才。美苏冷战背景下，西方主要国家与[[UNESCO|联合国教科文组织]]（UNESCO）、[[World Bank|世界银行]]（World Bank）等国际多边机构大规模开展对外教育援助计划。针对低收入国家“经济发展、社会识字与学校基础设施建设”的实务研究迅速扩张，催生了专门面向发展中国家教育政策与规划的跨学科研究群落。
 
 ### 2. 与传统比较教育学的建制隔离
-在很长一段时间内，比较教育学内部存在“纯理论比较”与“发展[[Evaluation Research|应用研究]]”的建制分流与认知隔阂：
+在很长一段时间内，比较教育学内部存在“纯理论比较”与“发展应用研究”的建制分流与认知隔阂：
 - **理论比较教育学派** 偏向欧美工业化国家的体制演化、历史哲学诠释或量化科学规律提炼（如 Bereday、Noah & Eckstein、King 等人的研究重心）；
 - **发展教育学派** 高度应用导向、政策导向与实务评估导向，聚焦第三世界各国的贫困、初等教育普及、职业技能训练与外部援助效益。
 

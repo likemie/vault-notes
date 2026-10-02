@@ -31,7 +31,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Linear Model of Innovation]]"
   - "[[Technology Transfer]]"
-  - "[[Evaluation Research]]"
   - "[[Flow]]"
   - "[[Interaction Effect]]"
 related_theories:
@@ -59,7 +58,7 @@ title: "Argument_Chan_2015_Intersect"
 argument_key: "Argument_Chan_2015_Intersect"
 argument_display_title: "Fallen behind: Science, technology, and Soviet statism"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -257,7 +256,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 > [[State Vertical\|国家垂直结构]]是苏联体制最基本的组织形态。根据 Sergei Medvedev 教授的描述，整个苏联经济是"一台由庞大官僚机构的垂直行政决策推动的巨型机器"，包含无数计划机构、执行部门和生产单位。"机构之间几乎没有水平联系，交流由各自的上级主管部门预先设定"（p.8）。
 >
 > 这一结构对研究与开发的影响是毁灭性的：
-> - **基础科学**（科学院）、**[[Evaluation Research\|应用研究]]**（各部委研究所）和**工业生产**（企业）在彼此隔离的封闭回路中运行。
+> - **基础科学**（科学院）、**应用研究**（各部委研究所）和**工业生产**（企业）在彼此隔离的封闭回路中运行。
 > - 科学院与工业界几乎不存在跨院系或跨部委的合作。
 > - 对外部间谍活动的恐惧和苏联自身对外国科学发展的怀疑，使苏联科学家在相对孤立中工作（pp.8–9）。
 >
