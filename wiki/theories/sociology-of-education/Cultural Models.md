@@ -10,7 +10,7 @@ aliases:
 summary: "由历史文化过程积淀并持续演进的共享概念框架，在微观层面指文化成员用以解释、预测与指导学习及社会行动的原型图式（如东西方学习模型），在宏观跨国层面指世界社会理论所论述的普世化制度脚本（如国民经济发展、公民资产与国家可改进性信念）。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 44
+theory_related_count: 45
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -45,6 +45,7 @@ related_theories:
   - "[[Hegemony]]"
   - "[[Conditioned State Theory]]"
   - "[[Dependency Theory]]"
+  - "[[World-Systems Theory]]"
 related_methods:
   - "[[Ethnography]]"
   - "[[Prototype Methods]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-22
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # Cultural Models
@@ -228,6 +229,6 @@ updated: 2026-09-29
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Li_2012_Cambridge|Li (2012)]] — 运用[[Prototype Methods|原型方法]]系统提炼西方与东亚学习文化模型的认知人类学与文化心理学经典研究。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 深入解构[[World Society Theory|世界文化理论]]的四项核心文化信念，提出基于[[Conditioned State Theory|受限国家]]与[[Dependency Theory|依附理论]]的批判性比较[[Analytic Framework|分析框架]]。
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合世界体系分析与多国微观[[Ethnography|民族志]]案例，系统对质世界文化模型与现实主义依附论，确立全球与本土辩证互动的分析[[Paradigm|范式]]。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合[[World-Systems Theory|世界体系分析]]与多国微观[[Ethnography|民族志]]案例，系统对质世界文化模型与现实主义依附论，确立全球与本土辩证互动的分析[[Paradigm|范式]]。
 
 ---

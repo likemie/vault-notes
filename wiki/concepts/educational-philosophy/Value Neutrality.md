@@ -156,7 +156,7 @@ updated: 2026-10-01
 > *In empirical studies 'too little attention is usually paid to conceptual analysis prior to operationalising variables', as it is assumed that 'unambiguous and meaningful indicators can be identified and operationalised' without due consideration of the different meanings, different ideologies and value systems they endow concepts with (Holmes, 1981, p. 68).*
 
 > [!citation-card] 卡扎米亚斯与[[Bernard Barber|巴伯]]论现代主义科学对价值中立的机械幻想
-> 伯纳德·巴伯（Bernard Barber, 1972）与[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Kazamias, 2009a）深刻剖析了现代主义科学观对“价值中立”的机械幻觉：这种思潮错误地预设了一种“客观、价值中立的探究形式”，宣称只要尽职地应用特定的方法与技术，便能获得[[Reliability|可靠性]]、精确性与确定性——而全然无视所研究对象的独特性质；更严重的是，这种实证方法论主义把科学从形式、价值、美与善中彻底切断，将追求客观性蜕变为推卸政治责任与忽视伦理正义的技术借口。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 148)]]
+> 伯纳德·巴伯（Bernard Barber, 1972）与[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）深刻剖析了现代主义科学观对“价值中立”的机械幻觉：这种思潮错误地预设了一种“客观、价值中立的探究形式”，宣称只要尽职地应用特定的方法与技术，便能获得[[Reliability|可靠性]]、精确性与确定性——而全然无视所研究对象的独特性质；更严重的是，这种实证方法论主义把科学从形式、价值、美与善中彻底切断，将追求客观性蜕变为推卸政治责任与忽视伦理正义的技术借口。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 148)]]
 >
 > *Modernist view of science assumes an objective, value-free form of inquiry where reliability, precision and certitude can be attained by the dutiful application of specific methods and techniques, irrespective of the nature of the subject under study... cutting science off from form, value, beauty and goodness.*
 
@@ -229,7 +229,7 @@ updated: 2026-10-01
 > **[[Operationalization\|操作化]]指标的假中立与概念价值渗透** 针对实证主义阵营声称的价值中立，霍姆斯（Holmes, 1981）展开了深刻的方法论反思。他指出实证派在[[Variable\|变量]]操作化之前严重缺乏概念分析，误以为能够提炼出毫无歧义的客观中立指标，却忽视了概念本身不可避免地浸润着特定的意识形态与价值体系；这种唯量化取向抽空了[[Michael Sadler\|萨德勒]]所谓的“活的精神”，且其实际推行的科学规划深度迎合了战后中央集权理性规划与国际援助机构（如[[World Bank\|世界银行]]、AID）的技术官僚政治诉求。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 64, 66–67)]]
 
 > [!claim] Barber, B. & Kazamias, A. M.
-> **现代主义科学观对价值中立的机械迷信** [[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1972）与安德烈亚斯·卡扎米亚斯（Kazamias, 2009a）深刻剖析了现代主义科学观对“价值中立”的机械幻觉：这种思潮错误地预设了一种“客观、价值中立的探究形式”，宣称只要尽职地应用特定的方法与技术，便能获得[[Reliability|可靠性]]、精确性与确定性——而全然无视所研究对象的独特性质；其实质是将科学探究同人文形式、伦理价值、社会目的与美善彻底切断，把对价值中立的标榜异化为免除社会伦理责任的技术主义借口。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 148)]]
+> **现代主义科学观对价值中立的机械迷信** [[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1972）与安德烈亚斯·卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）深刻剖析了现代主义科学观对“价值中立”的机械幻觉：这种思潮错误地预设了一种“客观、价值中立的探究形式”，宣称只要尽职地应用特定的方法与技术，便能获得[[Reliability|可靠性]]、精确性与确定性——而全然无视所研究对象的独特性质；其实质是将科学探究同人文形式、伦理价值、社会目的与美善彻底切断，把对价值中立的标榜异化为免除社会伦理责任的技术主义借口。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 148)]]
 
 > [!claim] Smith, M. L. & [[Gene Glass\|Glass, G.]] V.
 > **价值立场作为区分研究与评估的核心边界** 价值处理方式是区分纯科学研究（Research）与实践项目评估（Evaluation）的根本标尺：研究的认识论旨趣在于探寻去情境的普适因果律，因而追求价值中立；而评估是为了具体的民主决策与制度改进，必须系统收集并如实呈现多方利益相关者冲突的价值立场。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, p. 34)]]
@@ -290,7 +290,7 @@ updated: 2026-10-01
 > - **1904–1917 — 韦伯确立社会学价值自由（Wertfreiheit）规范** [[Max Weber\|马克斯·韦伯]]系统阐明价值中立原则，界定经验事实解释与政策价值推崇的边界，倡导学者保持学术清醒。
 > - **1958–1969 — 比较教育[[Positivism\|实证主义]]运动发动清理“价值负荷”的[[Epistemology\|认识论]]围剿** Templeton（1958）与诺亚、埃克斯坦（1969）以价值中立为标尺，批判传统历史哲学的“价值负荷”与“主观倾向”，推动学科向纯粹量化统计与客观假说检验转型。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 61, 65)]]
 > - **1961 — 卡扎米亚斯界定比较教育学的三重价值取向轴线** 卡扎米亚斯（Kazamias, 1961）在方法论反思中提出核心抉择：比较教育研究应当是[[Educational Meliorism|改良主义]]的（melioristic）、[[Ideology Critique|意识形态批判]]的（ideological）还是严格价值中立的（strictly neutral）；拉斯特等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009, p.128]]）将其总结为学科科学化进程中持续交织的根本方法论张力。
-> - **1960s–1970s — 现代主义科学观的价值中立迷信与唯方法论反思** 卡扎米亚斯（Kazamias, 2009a）与[[Bernard Barber|巴伯]]（Barber, 1972）指出芝加哥学派与哥大学派追求“客观、价值中立的探究形式”，将[[Reliability|可靠性]]建立在机械应用测量技术之上，割裂了科学与伦理美善的联系。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 148)]]
+> - **1960s–1970s — 现代主义科学观的价值中立迷信与唯方法论反思** 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）与[[Bernard Barber|巴伯]]（Barber, 1972）指出芝加哥学派与哥大学派追求“客观、价值中立的探究形式”，将[[Reliability|可靠性]]建立在机械应用测量技术之上，割裂了科学与伦理美善的联系。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 148)]]
 > - **1970–1980 年代 — [[Critical Theory\|批判理论]]与多[[Paradigm\|范式]]大解构** [[Critical Theory\|批判理论]]、女性主义与[[Post-colonial Theory\|后殖民理论]]彻底打破价值中立神话，揭示中立修辞掩盖西方男性霸权与阶级压迫的实质。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]]
 > - **1977–1991 — [[Policy Science in Comparative Education\|政策科学]]解构中立[[Technical Rationality\|技术理性]]神话** [[Carol Weiss\|卡罗尔·韦斯]]（Weiss, 1977, 1991）揭示政策制定天然关乎价值权衡，确立研究主要充当政治合法化“燃料而非引擎”的经典命题。
 > - **1981 — 霍姆斯批判实证[[Operationalization\|操作化]]的假中立与价值渗透** 霍姆斯（Holmes, 1981）指出操作化指标无法脱离文化价值系统而存在，实证派的中立口号实质上服务于战后中央理性规划与国际援助机构的技术官僚治理。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 64, 66)]]
@@ -330,7 +330,7 @@ updated: 2026-10-01
 > > 争论焦点在于：价值中立是否仅是纯粹的学术规范，还是充当了统治权力和资本再生产的技术官僚免责屏障？
 > > 
 > > - **实证主义阵营（Anderson, 1977; Noah & Eckstein, 1969）** 坚信客观科学必须通过量化程序与统计控制清洗价值负荷，使跨国教育知识成为中立决策的理性基石。
-> > - **批判政治经济学与学科史反思（Carnoy, 1983; Mattheou, 2009; Kazamias, 2009a）** 揭示价值中立是一场精巧的去政治化拟态，技术官僚与政策赞助者借用中立修辞规避道德问责，在客观上沦为资本主义再生产与既定政策推行的“合法化借口”（[[Social Science as Legitimation Alibi]]）。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148, 153–154)]]
+> > - **批判政治经济学与学科史反思（Carnoy, 1983; [[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009]]; [[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）** 揭示价值中立是一场精巧的去政治化拟态，技术官僚与政策赞助者借用中立修辞规避道德问责，在客观上沦为资本主义再生产与既定政策推行的“合法化借口”（[[Social Science as Legitimation Alibi]]）。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148, 153–154)]]
 
 > [!critique] 对新自由主义审计文化与[[Technical Rationality\|技术理性]]霸权的批判
 > 当代国家治理深度借助“价值中立”修辞推行“[[Governing by Numbers\|以数字治理]]”，将极其复杂的阶级矛盾与资源匮乏掩盖在冷酷的中立数据报表之下，造成了严重的民主审议赤字。

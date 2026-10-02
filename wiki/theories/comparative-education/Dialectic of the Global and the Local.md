@@ -100,7 +100,7 @@ updated: 2026-09-29
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove）与[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（Carlos Alberto Torres）在合编著作《比较教育：全球与本土的辩证法》（*Comparative Education: The Dialectic of the Global and the Local*, 1999, 2003, 2007）中系统提出。
 > - **原初问题** 20 世纪 90 年代全球化成为比较教育学最具支配性的议题，但学界往往将全球化简单等同于新自由主义[[Policy Borrowing|政策借用]]或世界文化的同形扩散，忽略了具体国家与微观行动者的反应差异与抵抗策略。
-> - **理论资源与材料** 批判性吸收了[[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein）的世界体系分析、[[John W. Meyer|迈耶]]（Meyer）等人的[[World Society Theory|世界文化理论]]、哈维（Harvey）的[[Time-Space Compression|时空压缩]]理论以及全球人类学与多地点[[Ethnography|民族志研究]]。
+> - **理论资源与材料** 批判性吸收了[[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein）的[[World-Systems Theory|世界体系分析]]、[[John W. Meyer|迈耶]]（Meyer）等人的[[World Society Theory|世界文化理论]]、哈维（Harvey）的[[Time-Space Compression|时空压缩]]理论以及全球人类学与多地点[[Ethnography|民族志研究]]。
 > - **形成路径** 从宏观体系分析走向多层次双重视野（double vision），将全球力量在民族国家和微观[[Champ|场域]]中的具体遭遇界定为辩证互动过程。
 
 ### 后续修订与扩展

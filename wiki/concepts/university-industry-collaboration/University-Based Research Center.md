@@ -30,6 +30,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[National Science Foundation]]"
+  - "[[Industry-University Cooperative Research Centers]]"
   - "[[Manufacturing USA]]"
 related_arguments: []
 confidence: medium
@@ -67,7 +68,7 @@ updated: 2026-09-10
 > [!note]-
 > 大学研究型中心最常见的三类政府资助渠道（p.112）：
 
-- **[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）[[University-Industry Collaboration|产学合作]]研究中心（Industry-University Cooperative Research Centers, IUCRC）** 美国国家科学基金会（NSF）资助的产学合作研究中心项目，是大学研究型中心最成熟的联邦资助机制之一
+- **[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）[[University-Industry Collaboration|产学合作]]研究中心（[[Industry-University Cooperative Research Centers]], IUCRC）** 美国国家科学基金会（NSF）资助的产学合作研究中心项目，是大学研究型中心最成熟的联邦资助机制之一
 - **NSF 工程研究中心（Engineering Research Centers, ERC）** 聚焦工程领域的 NSF 资助项目，强调将基础[[Research Translation|研究转化]]为产业应用
 - **[[Manufacturing USA]] Institutes** 美国商务部主导的制造业创新研究所网络，联邦资金要求匹配非联邦资金
 

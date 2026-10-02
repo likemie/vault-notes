@@ -171,7 +171,7 @@ updated: 2026-10-01
 > 探讨结构调整如何通过看似中立的经济学计量模型推进政策规训，并通过公共服务外包将民间组织异化为[[Shadow State|影子国家]]，从而固化全球依附体系。
 
 > [!claim] [[Robert Arnove|Arnove, R.]]
-> **技术官僚规训话语与非政府组织“影子国家”异化** 阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）结合[[Dependency Theory|依附理论]]与世界体系分析指出，结构调整方案的推进并不仅依靠外在的金融胁迫，而是高度依赖一整套被普遍化为中立科学法则的技术官僚话语（如成本效益分析与教育生产函数），以此将紧缩开支和削减教育公共预算包装为不可逆的理性经济规律（Carnoy & Rhoten, 2002; Heyneman, 2003）。更具破坏性的是，随着结构调整削减国家职能，国际援助方与受援国政府普遍绕过公共部门，将基础教育等社会服务大规模外包给非政府组织（NGOs）。这不仅未能达成公民社会赋权的初衷，反而使非政府组织被外部捐助指标所驯化，蜕变为缺乏基层问责的[[Shadow State|影子国家]]，进而导致外围国家国民教育体系四分五裂，彻底锁定了对中心国家的依附地位。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 107, 110–112)]]
+> **技术官僚规训话语与非政府组织“影子国家”异化** 阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）结合[[Dependency Theory|依附理论]]与[[World-Systems Theory|世界体系分析]]指出，结构调整方案的推进并不仅依靠外在的金融胁迫，而是高度依赖一整套被普遍化为中立科学法则的技术官僚话语（如成本效益分析与教育生产函数），以此将紧缩开支和削减教育公共预算包装为不可逆的理性经济规律（Carnoy & Rhoten, 2002; Heyneman, 2003）。更具破坏性的是，随着结构调整削减国家职能，国际援助方与受援国政府普遍绕过公共部门，将基础教育等社会服务大规模外包给非政府组织（NGOs）。这不仅未能达成公民社会赋权的初衷，反而使非政府组织被外部捐助指标所驯化，蜕变为缺乏基层问责的[[Shadow State|影子国家]]，进而导致外围国家国民教育体系四分五裂，彻底锁定了对中心国家的依附地位。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 107, 110–112)]]
 
 ---
 
@@ -243,5 +243,5 @@ updated: 2026-10-01
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 从[[Conditioned State Theory|受限国家理论]]与阶级策略视角，系统阐述[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 的结构调整方案如何通过贷款附加条件剥夺拉美国家的教育公共主权并加剧阶级分化。
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 104–106, 110–112)]] — 运用世界体系分析透视结构调整方案的技术官僚成本效益话语，揭示公共开支削减如何导致基础教育向非政府组织外包并异化为“[[Shadow State|影子国家]]”，进而固化外围国家的依附地位。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 104–106, 110–112)]] — 运用[[World-Systems Theory|世界体系分析]]透视结构调整方案的技术官僚成本效益话语，揭示公共开支削减如何导致基础教育向非政府组织外包并异化为“[[Shadow State|影子国家]]”，进而固化外围国家的依附地位。
 > - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 实证对照结构调整市场化改革对受援国[[Education for All|全民教育]]（[[Exploratory Factor Analysis|EFA]]）进程的阻碍与古巴自主公共教育动员的成功，揭示外部强制紧缩与市场化对全球南方教育发展造成的结构性破坏。

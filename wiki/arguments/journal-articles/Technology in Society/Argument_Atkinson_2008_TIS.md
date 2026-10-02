@@ -25,12 +25,13 @@ related_concepts:
   - "[[Academic Risk Aversion]]"
   - "[[Document]]"
   - "[[Knowledge Production]]"
-  - "[[Evaluation Research]]"
   - "[[Technology Transfer Office]]"
   - "[[Technology Transfer]]"
+  - "[[Congressional Earmarks]]"
   - "[[Academic Start-up Packages]]"
 related_theories:
   - "[[Triple Helix]]"
+  - "[[Pool of Knowledge]]"
   - "[[Systems of Innovation]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
@@ -46,7 +47,11 @@ related_facts:
   - "[[American Association for the Advancement of Science]]"
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Bell Labs]]"
+  - "[[Office of Scientific Research and Development]]"
   - "[[CNRS]]"
+  - "[[Sputnik Shock 1957]]"
+  - "[[President's Science Advisory Committee]]"
+  - "[[Industry-University Cooperative Research Centers]]"
 related_arguments: []
 sources:
   - "[[sources/Atkinson_2008_TIS|Atkinson_2008_TIS]]"
@@ -175,13 +180,13 @@ issuing_organization: ""
 赠地学院初步确立了大学运用科学研究服务地方产业的实用传统，但全美整体研发依然被企业垄断，高校整体处于边缘。（pp.33–34）
 
 > [!contrast-table] 1940 年第二次世界大战前夕全美研发经费支出分布格局
-> | 部门主体 | 1940 年名义支出 | 占当年全国研发总额比例 | 折合 2000 年不变美元支出 | 部门职能与经费来源特征 |
-> |---|---|---|---|---|
-> | **私营工业界（Industry）** | 2.34 亿美元 | **67.8%** | 25.4 亿美元 | 国家研发体系绝对核心；依赖大企业自设实验室（如[[Bell Labs\|贝尔实验室]]）开展[[Evaluation Research\|应用研究]]与产品开发（p.33） |
-> | **联邦政府（Federal Government）** | 6,700 万美元 | **19.4%** | 7.3 亿美元 | 研发次要出资方；经费几乎全额投向政府所属专门机构（海岸测地局、地质调查局、海军水文局、农业部）（pp.32–34） |
-> | **大学与学院（Universities & Colleges）** | 3,100 万美元 | **9.0%** | 3.4 亿美元 | 处于研发体系边缘；私立大学依靠自身捐赠基金收益与慈善捐款，公立大学依靠州议会有限划拨（p.34） |
-> | **其他来源（州政府/非营利机构）** | 1,300 万美元 | **3.8%** | 1.4 亿美元 | 地方政府特定支持与非营利机构资助（p.34） |
-> | **全国总额（Total National R&D）** | **3.45 亿美元** | **100.0%** | **37.5 亿美元** | 战前全美研发规模极为有限，且联邦政府对大学科研几乎不存在常规性资助机制（p.34） |
+> | 部门主体 | 名义支出（1940 年） | 占比 | 折合 2000 年不变价 | 职能定位与经费来源特征 |
+> |:---|:---:|:---:|:---:|:---|
+> | **私营工业界** | 2.34 亿美元 | **67.8%** | 25.4 亿美元 | 国家研发绝对核心；由大企业自设实验室（如[[Bell Labs\|贝尔实验室]]）开展应用研究与开发（p.33） |
+> | **联邦政府** | 6,700 万美元 | **19.4%** | 7.3 亿美元 | 次要出资方；经费几乎全额投向政府专门机构（海岸测地局、地质调查局、农业部等）（pp.32–34） |
+> | **大学与学院** | 3,100 万美元 | **9.0%** | 3.4 亿美元 | 处于体系边缘；主要依赖自身捐赠基金收益、慈善捐款与州议会有限划拨 |
+> | **其他来源** | 1,300 万美元 | **3.8%** | 1.4 亿美元 | 地方政府特定支持与非营利机构资助 |
+> | **全国总额** | **3.45 亿美元** | **100.0%** | **37.5 亿美元** | 战前全美研发规模有限，联邦政府对大学科研几乎不存在常规性资助机制（p.34） |
 
 > [!evidence-grid] 战前学术界科研力量的高度集中与资金拮据
 > - **名义经费规模极其微薄** 1939/40 学年全美约 150 所具有研究活动的高校在自然科学与工程领域仅完成 2,620 万美元科研，严重依赖有限的捐赠与地方财政。（p.34）
@@ -198,12 +203,12 @@ issuing_organization: ""
 
 #### 1. 战时科研动员打破了联邦政府不资助大学的传统禁忌
 
-1940 年 6 月罗斯福总统设立国家国防研究委员会（National Defense Research Committee, NDRC），并在 1941 年升格为战时科学研究与开发办公室（Office of Scientific Research and Development, OSRD），由万尼瓦尔·布什领衔，哈佛大学校长科南特、麻省理工学院（Massachusetts Institute of Technology, MIT）校长康普顿及贝尔实验室总裁朱厄特协同执掌。（pp.34–35）
+1940 年 6 月罗斯福总统设立国家国防研究委员会（National Defense Research Committee, NDRC），并在 1941 年升格为[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（[[Office of Scientific Research and Development|OSRD]]），由万尼瓦尔·布什领衔，哈佛大学校长科南特、麻省理工学院（Massachusetts Institute of Technology, MIT）校长康普顿及贝尔实验室总裁朱厄特协同执掌。（pp.34–35）
 
 > [!proc] 战时科研动员向常态科研体系转化的机制推进
-> 1. **开创联邦政府与大学科研合同资助机制** OSRD 改变了以往政府自建实验室的旧规，直接与大学签订研发合同，设立 MIT 辐射实验室（雷达攻关）与芝加哥大学冶金实验室（原子核链式反应），加利福尼亚大学伯克利分校主持洛斯阿拉莫斯实验室研发原子弹。（pp.34–35）
+> 1. **开创联邦政府与大学科研合同资助机制** [[Office of Scientific Research and Development|OSRD]] 改变了以往政府自建实验室的旧规，直接与大学签订研发合同，设立 MIT 辐射实验室（雷达攻关）与芝加哥大学冶金实验室（原子核链式反应），加利福尼亚大学伯克利分校主持洛斯阿拉莫斯实验室研发原子弹。（pp.34–35）
 > 2. **战时知识储备消耗倒逼自主基础研究供给** 战前美国工业界主要依赖欧洲学界的理论成果进行应用转化；欧洲在二战中的严重破坏促使美国决策层认识到必须依托本土大学建立基础研究供给源泉。（pp.35–36）
-> 3. **知识池隐喻确立基础研究的公共品属性** 布什提出知识池（Pool of Knowledge）理论：基础科学如同知识蓄水池，为工业创新提供活水；企业因研究成果具有公开性与非排他性而缺乏投资动力，必须由联邦政府作为公共品予以全额资助。（p.35）
+> 3. **[[Pool of Knowledge|知识池隐喻]]确立基础研究的公共品属性** 布什提出[[Pool of Knowledge|知识池理论]]（Pool of Knowledge）：基础科学如同知识蓄水池，为工业创新提供活水；企业因研究成果具有公开性与非排他性而缺乏投资动力，必须由联邦政府作为公共品予以全额资助。（p.35）
 
 这种制度认知在 1945 年战争行将结束时被提炼为美国国家科学政策的基石宪章。
 
@@ -297,7 +302,7 @@ issuing_organization: ""
 > - **2004 年：当代多元格局**
 >   全美学术部门科研总支出达 424 亿美元（占全国 R&D 的 13.6%）；其中联邦出资占 61.5%，大学自有资金占 19.3%，非营利慈善基金会占 9.0%，工业界与州专项各占约 5%。（pp.40, 43）
 
-为应对 1970 年代滞胀危机并重组国家科技政策，联邦政府通过法律重新恢复了科技顾问建制。（p.39）
+冷战时期由于美苏人造卫星危机（[[Sputnik Shock 1957|Sputnik Shock]]），艾森豪威尔总统曾在白宫设立[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC），使大学科学家得以直接进入核心战略决策；然而越战期间总统与学界关系恶化，尼克松总统于 1973 年解散了该委员会。（pp.38–39）为应对 1970 年代滞胀危机并重组国家科技政策，联邦政府通过法律重新恢复了科技顾问建制。（p.39）
 
 > [!policy-context] 1976 年《国家科学技术政策、组织和优先事项法案》档案
 > - **发布主体** 美国国会与杰拉尔德·福特总统（公法 P.L. 94-282）
@@ -310,7 +315,7 @@ issuing_organization: ""
 面对大学与产业的鸿沟，联邦政府通过设立专项试点与关键法律重构，打通了成果转化的制度机制。（pp.40–42）
 
 > [!proc] 产学协同与[[Technology Transfer|技术转移]]机制的制度化落地
-> 1. **NSF 设立大学-工业界合作研究中心（I/UCRC）** 1978 年在[[Richard C. Atkinson|理查德·C·阿特金森]]（[[Richard C. Atkinson]]）担任主任期间，NSF 突破传统纯基础研究禁区，试点资助大学-工业界合作研究中心（Industry-University Cooperative Research Centers, I/UCRC）；后续拓展为长期资助（最长达 11 年）的工程研究中心（Engineering Research Centers, ERC）与科学技术中心（Science and Technology Centers, STC），使企业深度融入大学课题与博士生人才选拔。（pp.40–41）
+> 1. **NSF 设立[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（[[Industry-University Cooperative Research Centers|I/UCRC]]）** 1978 年在[[Richard C. Atkinson|理查德·C·阿特金森]]（[[Richard C. Atkinson]]）担任主任期间，NSF 突破传统纯基础研究禁区，试点资助[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（Industry-University Cooperative Research Centers, I/UCRC）；后续拓展为长期资助（最长达 11 年）的工程研究中心（Engineering Research Centers, ERC）与科学技术中心（Science and Technology Centers, STC），使企业深度融入大学课题与博士生人才选拔。（pp.40–41）
 > 2. **通过 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》明确专利产权** 彻底终结了以往“联邦出资发明归政府所有、政府束之高阁”的僵化体制，将专利权直接赋予大学，并强制要求大学与发明学者分享许可版税收入。（pp.41–42）
 > 3. **大学[[Technology Transfer Office|技术转移办公室]]（TTO）与衍生企业蓬勃发展** 法律解绑极大激发了学者创业与大学专利授权意愿，各大学迅速成立专业技术转移办公室（[[Technology Transfer Office|TTO]]），成功孕育了生物医药与信息技术等高科技创新集群。（pp.41–42）
 
@@ -321,7 +326,7 @@ issuing_organization: ""
 ### 论证步骤五　当代结构性危机：学科经费极化、政治专项分肥与学术避险平庸化
 
 > [!claim] 步骤五核心主张
-> 当代美国研究型大学正遭遇严峻的系统性异化：联邦资金向生物医学的单一倾斜严重削弱了科技根基学科；国会专项拨款（Earmarks）政治分肥直接架空了同行评议公信力；而项目资助率骤降至 20% 倒逼青年学者陷入[[Academic Risk Aversion|学术避险主义]]，导致学术界充斥着缺乏突破性的平庸[[Document|文献]]。（pp.43–46）
+> 当代美国研究型大学正遭遇严峻的系统性异化：联邦资金向生物医学的单一倾斜严重削弱了科技根基学科；[[Congressional Earmarks|国会专项拨款]]（Earmarks）政治分肥直接架空了同行评议公信力；而项目资助率骤降至 20% 倒逼青年学者陷入[[Academic Risk Aversion|学术避险主义]]，导致学术界充斥着缺乏突破性的平庸[[Document|文献]]。（pp.43–46）
 
 #### 1. 学科资助严重失衡与国会政治专项分肥的腐蚀
 
@@ -331,7 +336,7 @@ issuing_organization: ""
 > - **生物医学经费暴涨 vs 数理工程社科长期停滞**
 >   1973 至 2003 年间（按 2000 年不变美元折算），医学研究经费从约 30 亿美元飙升至 120 亿美元（400% 暴增），生物科学从不足 30 亿增至 70 亿美元；而工程研究从 10 亿增至 56 亿美元，物理、地球、大气与海洋科学及社会科学整体从 10 亿仅微增至约 20 亿美元。国会议员热衷于资助公众关切的健康疾病治疗，使数理化等基础学科沦为经费匮乏的次要角色。（pp.43–44）
 > - **国会专项拨款（Earmarks）对同行评议基石的绕开**
->   议员频繁在联邦拨款法案中为选区高校强行塞入未经学术评审的基建专项拨款（常用于新建研究所大楼）；这种纯粹政治利益交换不仅彻底绕过了同行评议程序，且实证表明此类大楼未曾给受惠高校带来真正的学术声誉，严重损害了制度公正。（p.44）
+>   议员频繁在联邦拨款法案中为选区高校强行塞入未经学术评审的[[Congressional Earmarks|国会专项拨款]]（Congressional Earmarks，常用于新建研究所大楼）；这种纯粹政治利益交换不仅彻底绕过了同行评议程序，且实证表明此类大楼未曾给受惠高校带来真正的学术声誉，严重损害了制度公正。（p.44）
 
 更隐蔽的致命危机则侵蚀着一线青年科研学者的精神与选题行为。
 
@@ -387,7 +392,7 @@ issuing_organization: ""
 > *"The report Science—the Endless Frontier, submitted by Vannevar Bush to President Harry Truman in July 1945, established both the legitimacy and the need for federal support of university research. The most far-reaching recommendation of Vannevar Bush's famous July 1945 report... was that it was in the nation's best interest for the federal government to fund university research."*
 
 > [!citation-card] 国会政治专项拨款对同行评议制度基石的绕开与破坏
-> 尽管国会拨款法案中由众参两院议员塞入的科研专项拨款年度总额相比桥梁、公路、图书馆或医院的专项拨款并不算多，但此类专项拨款却严重规避了作为研究型大学体系基石的同行评议程序。此外，没有任何证据表明为某所大学指定的新大楼或研究设施能让其学术声誉获得实质性提升。跨入领先研究型大学的行列是一个漫长而艰苦的过程，绝无法通过国会专项拨款来抄近道。（p.44）
+> 尽管国会拨款法案中由众参两院议员塞入的[[Congressional Earmarks|科研专项拨款]]年度总额相比桥梁、公路、图书馆或医院的专项拨款并不算多，但此类专项拨款却严重规避了作为研究型大学体系基石的同行评议程序。此外，没有任何证据表明为某所大学指定的新大楼或研究设施能让其学术声誉获得实质性提升。跨入领先研究型大学的行列是一个漫长而艰苦的过程，绝无法通过国会专项拨款来抄近道。（p.44）
 >
 > *"Although the annual total of such research-related earmarks is small compared with congressional earmarks for bridges, highways, libraries, or hospitals, such earmarking circumvents the peer review process which is a cornerstone of the research university system. Moreover, there is no evidence that a new building or research facility earmarked for a given university has led to its becoming more highly regarded. Entry into the ranks of leading research universities is a long and arduous process that cannot be short circuited by congressional earmarks."*
 

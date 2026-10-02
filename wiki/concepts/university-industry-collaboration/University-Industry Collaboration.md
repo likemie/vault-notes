@@ -10,7 +10,7 @@ aliases:
 summary: "大学与企业之间在正式协议框架下建立的有目的、深协同的制度化参与关系，横跨研究学术、教育学习与公共效益三大维度；其历史历经战后脱钩与 1980 年代法制重构，在释放实体创新潜力的同时伴生微观组织碎片化与代工车间异化的深层张力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"

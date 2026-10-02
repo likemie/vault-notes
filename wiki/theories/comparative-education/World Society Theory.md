@@ -10,7 +10,7 @@ aliases:
 summary: "斯坦福学派新制度主义社会学理论，将全球大众教育和国家体制的跨国趋同阐释为世界文化模型扩散与模仿的产物。主张去中心化的世界社会依赖无私代理人的他者性机制输出进步与正义规范，同时该理论面临政治现实主义与批判政治经济学关于掩盖中心边缘依附剥削、实质不平等及微观抵制能动性的深刻批评。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 41
+theory_related_count: 42
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Time-Space Compression]]"
   - "[[Policy Borrowing]]"
 related_theories:
+  - "[[World-Systems Theory]]"
   - "[[Cultural Models]]"
   - "[[Human Capital Theory]]"
   - "[[Phenomenology]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-11
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # World Society Theory
@@ -81,7 +82,7 @@ updated: 2026-09-29
 > - **解释对象** 全球范围内主权国家制度结构（如学校学制、宪法、公民身份）、组织特征与个体身份认同在非强制条件下的高度趋同（isomorphism / convergence）现象。
 > - **理论问题** 为什么在政治、经济与文化传统差异巨大的国家之间会形成惊人相似的大众教育体系，全球化如何在缺乏单一世界中央政府的情况下促成制度秩序的稳步扩散。
 > - **理论类型** 宏观社会学解释理论、新制度主义组织理论、全球文化[[Analytic Framework|分析框架]]。
-> - **知识位置** [[Stanford School|斯坦福学派]]（Stanford School）新制度主义组织社会学，代表人物包括[[John W. Meyer|约翰·迈耶]]（John W. Meyer）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、约翰·博利（John Boli）等；在比较教育学中常与[[Immanuel Wallerstein|沃勒斯坦]]（Immanuel Wallerstein）开创的政治现实主义与冲突取向世界体系分析形成鲜明学术张力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
+> - **知识位置** [[Stanford School|斯坦福学派]]（Stanford School）新制度主义组织社会学，代表人物包括[[John W. Meyer|约翰·迈耶]]（John W. Meyer）、弗朗西斯科·拉米雷斯（Francisco O. Ramirez）、约翰·博利（John Boli）等；在比较教育学中常与[[Immanuel Wallerstein|沃勒斯坦]]（Immanuel Wallerstein）开创的政治现实主义与冲突取向[[World-Systems Theory|世界体系分析]]形成鲜明学术张力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
 
 > [!claim] 核心判断
 > 在世界层面存在一个由普世理性[[Cultural Models|文化模型]]、规范和认知框架构成的“世界社会”。它缺乏传统的主权中央政府与强制暴力制裁，本质上是通过“他者性（[[Otherhood]]）”机制——即国际组织、大学和科学家充当人权、进步和正义等普遍法则的无私代理人，在全球范围内输出并合法化文化模型，从而驱动主权国家为了确立自身的现代合法性而进行制度模仿、同质化采纳与解耦运作。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 149)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–103)]]
@@ -238,7 +239,7 @@ updated: 2026-09-29
 > > - **国家安全与权力政治学者（[[Argument_Yan_2025_JCS|Yan & Morris, 2025]]）** 论证全球话语仅是被地方政府用作应对政治危机的工具性修辞；当主权国家面临安全挑战时，全球话语随时会被瞬间抛弃，趋同具有高度可逆性。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, pp. 491–492)]]
 
 > [!critique]- 批评索引
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用冲突取向的世界体系分析与多国微观案例，全面解构新制度主义世界文化论，揭示形式趋同掩盖实质不平等、援助固化国际分层以及微观能动抗争的现实。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用冲突取向的[[World-Systems Theory|世界体系分析]]与多国微观案例，全面解构新制度主义世界文化论，揭示形式趋同掩盖实质不平等、援助固化国际分层以及微观能动抗争的现实。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 从马克思主义政治经济学解构世界文化理论的非历史大爆炸假说，指出其无法解释外围国家的阶级双轨学制与受制状态。
 > - [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] — 以香港课程改革与废除的周期历史为经验依据，批评了该理论选择性聚焦创立期的方法论盲区，证明趋同假设无法解释国家安全的强力介入。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 梳理比较教育中的世界文化辩论，指出该学说在去政治化转移、遮蔽资本主义地缘剥削方面的理论缺陷。

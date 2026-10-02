@@ -10,7 +10,7 @@ summary: "法国启蒙自由主义教育家与国际主义者，1817年发表比
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 47
+person_related_count: 48
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Construct]]"
   - "[[Document]]"
+  - "[[Comparative Pedagogy]]"
   - "[[Artefact]]"
   - "[[State Educational Sovereignty]]"
   - "[[Faculty Psychology]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Marc-Antoine Jullien
@@ -209,7 +210,7 @@ updated: 2026-10-01
 > [!citation-card] 弗雷泽论《计划》的科学[[Document\|文献]]价值与历史局限
 > 尽管在 19 世纪朱利安未必算得上比较教育学的首要发起者或核心阐释者，且技术与事实上他从未发展出一套彻底的比较教育学方法论，生前也未能见到国际教育机构建立；但他被广泛公认为最早将这些极具价值的构想熔铸为一部具备如此巨大潜在体量初稿的先驱之一，以至于今天的比较科学绝无法忽视他；他的《计划》是这门科学中最重要的文献文物之一。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 24)]]；引自 Fraser (1964:117)
 >
-> *While Jullien may not necessarily qualify as the principal instigator or exponent of comparative pedagogy in the nineteenth century his Plan remains one of the most important [[Artefact\|artifacts]] in the science. Technically, and in fact, Jullien never developed a thoroughgoing comparative methodology in education, nor did he live to see his ideas for institutes of international education become established, but he has been widely identified as one of the first to consolidate these useful ideas into a preliminary draft of such potential magnitude that he cannot be ignored today.*
+> *While Jullien may not necessarily qualify as the principal instigator or exponent of [[Comparative Pedagogy]] in the nineteenth century his Plan remains one of the most important [[Artefact\|artifacts]] in the science. Technically, and in fact, Jullien never developed a thoroughgoing comparative methodology in education, nor did he live to see his ideas for institutes of international education become established, but he has been widely identified as one of the first to consolidate these useful ideas into a preliminary draft of such potential magnitude that he cannot be ignored today.*
 
 > [!citation-card] 卡洛扬纳基与卡扎米亚斯论朱利安生前效力局限与学科追认
 > 尚无证据表明朱利安在《计划》中提出的比较方法或国际教育设想在生前被采纳或对学科后续发展产生实质影响。卡洛扬纳基与卡扎米亚斯赞同[[Franz Hilker|希尔克]]（Franz Hilker）、[[Immanuel Kant\|康德]]尔（[[Isaac Kandel]]）与汉斯（[[Nicholas Hans]]）等 20 世纪先驱的史学判断，指出朱利安生前未能实质性影响比较教育的发展，其奠基地位是 20 世纪手稿被重构后的追认。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 24)]]

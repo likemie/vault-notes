@@ -58,9 +58,9 @@ related_concepts:
   - "[[Growth]]"
   - "[[Epistemology]]"
 related_theories:
+  - "[[World-Systems Theory]]"
   - "[[World Society Theory]]"
   - "[[Dependency Theory]]"
-  - "[[World-Systems Theory]]"
   - "[[Cultural Models]]"
   - "[[Dialectic of the Global and the Local]]"
   - "[[Pluri-Scalar Governance]]"
@@ -106,7 +106,7 @@ updated: 2026-09-29
 ## 研究问题
 
 > [!question]
-> 比较教育学在步入全球化时代后，如何运用世界体系分析（World-Systems Analysis, WSA）解释跨国教育改革趋势与各国的实际发展差异？面对[[Stanford School|斯坦福学派]]的新制度主义[[World Society Theory|世界文化理论]]与拉美[[Dependency Theory|依附论]]渊源的政治现实主义理论的分歧，如何摆脱将各个民族国家孤立看待的局限？在跨国经贸协定、国际金融机构以及非政府组织（Non-Governmental Organizations, NGOs）深度介入教育治理的背景下，如何建立一套既能把握全球宏观权力格局、又能解释微观学校与社区抗争的完整[[Analytic Framework|分析框架]]？（pp.101–102）
+> 比较教育学在步入全球化时代后，如何运用[[World-Systems Theory|世界体系分析]]（World-Systems Analysis, WSA）解释跨国教育改革趋势与各国的实际发展差异？面对[[Stanford School|斯坦福学派]]的新制度主义[[World Society Theory|世界文化理论]]与拉美[[Dependency Theory|依附论]]渊源的政治现实主义理论的分歧，如何摆脱将各个民族国家孤立看待的局限？在跨国经贸协定、国际金融机构以及非政府组织（Non-Governmental Organizations, NGOs）深度介入教育治理的背景下，如何建立一套既能把握全球宏观权力格局、又能解释微观学校与社区抗争的完整[[Analytic Framework|分析框架]]？（pp.101–102）
 
 > [!claim] 核心主张
 > 全球化不仅没有削弱世界体系分析的解释力，反而因技术的[[Time-Space Compression|时空压缩]]进一步强化了世界体系作为宏观[[Unit of Analysis|分析单元]]的必要性；比较教育研究应当将新制度主义对普世教育理念扩散的观察，与政治现实主义对中心-边缘不平等依附的政治经济学批判结合起来，既看清超国家经贸规制（如[[World Trade Organization|世界贸易组织]]（World Trade Organization, WTO）与《[[GATS and Trade in Education Services|服务贸易总协定]]》（General Agreement on Trade in Services, GATS））及非政府组织外包对民族[[State Educational Sovereignty|国家教育主权]]的削弱，又通过微观案例认识到地方行动者的反抗与调适潜能，从而为基层社会运动推动的自下而上全球化提供坚实的理论支撑。（pp.101–102, 106–107, 113–114）
@@ -179,7 +179,7 @@ updated: 2026-09-29
 ### 论证步骤一　世界体系分析打破了国家孤立发展的假定，现实主义流派揭示出跨国资本积累与依附关系对后发国家教育的深层制约
 
 > [!claim] 步骤一核心主张
-> 世界体系分析在 20 世纪 60 至 70 年代分化为共识取向的新制度主义世界文化流派与冲突取向的政治现实主义流派；[[Robert Arnove|阿诺夫]]于 1980 年将后者引入比较教育学，打破了抽象的全球趋同迷思，恢复了跨国不平等交换、霸权利益与金融援助机构对教育改革制约的政治经济学视角。（pp.101–106）
+> [[World-Systems Theory|世界体系分析]]在 20 世纪 60 至 70 年代分化为共识取向的新制度主义世界文化流派与冲突取向的政治现实主义流派；[[Robert Arnove|阿诺夫]]于 1980 年将后者引入比较教育学，打破了抽象的全球趋同迷思，恢复了跨国不平等交换、霸权利益与金融援助机构对教育改革制约的政治经济学视角。（pp.101–106）
 
 #### 1. 新制度主义解释了大众教育体制的全球趋同，但掩盖了中心对边缘国家的不平等剥削与阶层分化
 
@@ -314,7 +314,7 @@ updated: 2026-09-29
 >
 > *Our island society would obviously become a candidate for full membership in the world community of national and individuals. Human rights, state-protected citizen rights, and democratic forms would become natural entitlements. An economy would emerge, defined, and measured in rationalized terms and oriented to [[Growth]] under state regulations. A formal national polity would be essential, including a constitution, citizenship, laws, educational structures, and open forms of participation and communication.*
 
-> [!citation-card] [[Robert Arnove|阿诺夫]]论世界体系分析恢复比较教育的国际政治经济维度
+> [!citation-card] [[Robert Arnove|阿诺夫]]论[[World-Systems Theory|世界体系分析]]恢复比较教育的国际政治经济维度
 > 世界体系分析不仅拓展了宏观分析，将真正国际体系中的教育机构行为纳入视野，而且深化了我们对学校和课堂微观系统中变革与冲突根源的理解……将教育政策倡议与国际经济秩序的运作联系起来，有助于解释为何在如此多的案例中，扩张与改革都未能实现教育或社会的结构性变革，以及外部引发的教育革新为何可能反而固化了国内外既有的分层系统。（pp.106）
 >
 > *World-systems analysis not only expands macro analyses to take into [[Accounts|account]] the actions of educational agencies in a truly international system, but it enhances our understanding of the sources of change and conflict in the micro system of school and classroom... linking education policy initiatives to the workings of an international economic order helped explain why expansion and reform, in so many cases, have failed to effect structural change in education or society, and indeed, why externally induced educational innovation may contribute to perpetuation of existing stratification systems within and between countries.*

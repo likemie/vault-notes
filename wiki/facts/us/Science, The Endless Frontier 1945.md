@@ -44,6 +44,7 @@ related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
 related_facts:
+  - "[[Office of Scientific Research and Development]]"
   - "[[National Science Foundation]]"
   - "[[OECD]]"
 related_arguments:
@@ -64,7 +65,7 @@ updated: 2026-10-02
 ## 背景与历史成因
 
 > [!claim] 核心定性
-> 《科学：无尽的前沿》（*Science, The Endless Frontier*）是美国战时科学研究与开发办公室（Office of Scientific Research and Development, OSRD）主任[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）于 1945 年 7 月向哈里·S·杜鲁门总统提交的划时代科技政策报告。该报告构成了二战后美国联邦研发资助体制的基石宪章，直接催生了国家科学基金会（[[National Science Foundation]], NSF），并在制度上固化了[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]与单向[[Linear Model of Innovation|线性创新模型]]。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
+> 《科学：无尽的前沿》（*Science, The Endless Frontier*）是美国[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（Office of Scientific Research and Development, OSRD）主任[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）于 1945 年 7 月向哈里·S·杜鲁门总统提交的划时代科技政策报告。该报告构成了二战后美国联邦研发资助体制的基石宪章，直接催生了国家科学基金会（[[National Science Foundation]], NSF），并在制度上固化了[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]与单向[[Linear Model of Innovation|线性创新模型]]。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1944 年 11 月（罗斯福总统致信垂询）至 1945 年 7 月（正式提交报告），美国华盛顿特区。

@@ -8,7 +8,7 @@ aliases:
 summary: "罗杰·戴尔提出的批判比较教育学核心理论，主张全球教育趋同并非自愿的普世启蒙文化扩散，而是由全球资本主义体系的内在结构性矛盾（资本积累、国家合法性与社会凝聚力）通过跨国经贸组织自上而下结构化塑造的。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Research Question]]"
 related_theories:
   - "[[World Society Theory]]"
+  - "[[World-Systems Theory]]"
   - "[[Pluri-Scalar Governance]]"
   - "[[Human Capital Theory]]"
 related_methods:
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # Globally Structured Agenda for Education
@@ -67,7 +68,7 @@ updated: 2026-09-29
 > - **解释对象** 全球化时代民族国家教育政策趋同的动力源泉、超国家组织对主权[[State Educational Sovereignty|国家教育权]]力的渗透机制，以及教育在维系全球资本积累中的结构性功能。
 > - **理论问题** 正面回应并挑战[[Stanford School|斯坦福学派]][[World Society Theory|世界文化理论]]将教育扩张视为理性主义文化神话自愿扩散的共识论解释，破解跨国教育[[Policy Mobility|政策流动]]背后被遮蔽的资本积累与地缘政治权力关系。
 > - **理论类型** 批判政治经济学解释理论与宏观多标度[[Analytic Framework|分析框架]]。
-> - **知识位置** 植根于西方马克思主义批判教育社会学、批判地理学与世界体系分析传统；在比较教育学界，与[[John W. Meyer|约翰·迈耶]]（John W. Meyer）的世界文化理论共同构成当代全球化研究最重要的二元理论对质轴线。
+> - **知识位置** 植根于西方马克思主义批判教育社会学、批判地理学与[[World-Systems Theory|世界体系分析]]传统；在比较教育学界，与[[John W. Meyer|约翰·迈耶]]（John W. Meyer）的世界文化理论共同构成当代全球化研究最重要的二元理论对质轴线。
 
 > [!claim] 核心判断
 > 全球化对各民族国家教育系统的影响，本质上是由全球资本主义经济的内在结构性需求（保障资本积累、维系国家合法性、促进社会再生产）所驱动的结构化进程；外部影响并非抽象弥散的文化理念，而是通过跨国经贸协定（如 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）、国际金融组织（如[[World Bank|世界银行]]、[[International Monetary Fund|IMF]]）以及区域一体化集团，借助借用、学习、强加、条件限制与协调等多重具体机制，自上而下重塑主权国家的教育优先事项与治理权力配置。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
@@ -87,7 +88,7 @@ updated: 2026-09-29
 > [!dev-timeline] 理论版本与贡献
 > - **1999 — 原初理论确立** 戴尔提出 GSAE 核心框架，归纳影响国家政策的八大外部机制（借用、学习、调和、传播、标准化、依存、强加、条件限制）。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 > - **2002 — 空间标度扩展** 戴尔与[[Susan L. Robertson|苏珊·罗伯逊]]（Susan L. Robertson）及哈维尔·博纳尔（Xavier Bonal）合作，将 GSAE 拓展为涵盖空间标度、治理实体与治理活动的“教育[[Pluri-Scalar Governance|多标度治理]]”模型，重点剖析 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 规约。(Robertson et al., 2002)
-> - **2009 — 纳入世界体系分析综合视野** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove）将 GSAE 作为政治现实主义流派的核心理论武器，用于解释全球化时代的国家主权渗透与基层抗争。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
+> - **2009 — 纳入[[World-Systems Theory|世界体系分析]]综合视野** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove）将 GSAE 作为政治现实主义流派的核心理论武器，用于解释全球化时代的国家主权渗透与基层抗争。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
 ---
 

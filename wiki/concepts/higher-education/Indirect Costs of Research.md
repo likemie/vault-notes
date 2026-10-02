@@ -35,6 +35,7 @@ related_facts:
   - "[[Seaborg Report 1960]]"
   - "[[National Institutes of Health]]"
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[President's Science Advisory Committee]]"
 related_arguments:
   - "[[Argument_Stephan_2013_NBER]]"
 confidence: high
@@ -137,7 +138,7 @@ updated: 2026-10-02
 > [!dev-timeline] 科研间接成本机制的演化历程
 > - **1945 — 布什设想的低间接费初衷** 《[[Science, The Endless Frontier 1945|无尽的前沿]]》设想大学主要作为具备纯粹学术环境的场所，联邦主要资助直接研究，间接费处于边缘地位。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 4–5)]]
 > - **1950s — 15% 刚性封顶限制** [[National Science Foundation|NSF]] 与国会在资助初期坚持对间接成本设定 15% 的固定比例上限，大学长期抱怨科研项目造成院校自身财政失血。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 11)]]
-> - **1960 — 《[[Seaborg Report 1960|西博格报告]]》的制度突破** 总统科学顾问委员会正式建言提高间接成本费率，主张由联邦为大学提供完全的设施与运营补偿。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
+> - **1960 — 《[[Seaborg Report 1960|西博格报告]]》的制度突破** [[President's Science Advisory Committee|总统科学顾问委员会]]正式建言提高间接成本费率，主张由联邦为大学提供完全的设施与运营补偿。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
 > - **1966 — 确立“一校一议”磋商机制** NSF 与联邦各部门全面转向依据大学各校实际会计成本单独谈判间接费率，间接费率在名校中迅速攀升至 50%–70% 之间。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–16)]]
 > - **1991 — OMB A-21 通告设定 26% 行政封顶** 斯坦福大学游艇报销等间接费丑闻爆发后，联邦管理与预算局（OMB）对行政费组件施加 26% 的硬性上限，促使大学将更多成本转入设施折旧与校内自筹。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 23)]]
 

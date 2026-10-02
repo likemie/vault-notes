@@ -12,9 +12,9 @@ title: "Argument_Dean_2025_UICollaborationSupport"
 argument_key: "Argument_Dean_2025_UICollaborationSupport"
 argument_display_title: "Gaining Support Within Universities for Collaboration"
 argument_kind: "books"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#e5e7eb"
 citation: "Dean, C. B., Milligan, I., Yu, A., Szarka, M., Hannon, A., & Carroll-Dee, A. (2025). Gaining Support Within Universities for Collaboration. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 241–256). Springer."
 tags: ["theme/university-industry-collaboration", "theme/faculty-engagement", "theme/research-assessment", "region/canada"]

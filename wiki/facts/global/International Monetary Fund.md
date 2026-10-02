@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Educational Multilateralism]]"
 related_theories:
+  - "[[World-Systems Theory]]"
   - "[[Human Capital Theory]]"
 related_methods: []
 related_instruments: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # International Monetary Fund
@@ -54,7 +55,7 @@ updated: 2026-09-29
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 国际货币基金组织（International Monetary Fund, IMF）是二战后布雷顿森林体系确立的全球两大支柱性多边金融机构之一。在国际比较教育与世界体系分析视角下，IMF 与[[World Bank|世界银行]]紧密结盟，作为实施跨国新自由主义经济治理与宏观[[Disciplina and Doctrina|规训]]的最高金融枢纽；其通过国际收支危机救助贷款中所附加的严苛宏观经济紧缩条件，对全球南方借款国的公共教育财政预算和教师编制规模施加了决定性的外部结构约束。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–107)]]
+> 国际货币基金组织（International Monetary Fund, IMF）是二战后布雷顿森林体系确立的全球两大支柱性多边金融机构之一。在国际比较教育与[[World-Systems Theory|世界体系分析]]视角下，IMF 与[[World Bank|世界银行]]紧密结盟，作为实施跨国新自由主义经济治理与宏观[[Disciplina and Doctrina|规训]]的最高金融枢纽；其通过国际收支危机救助贷款中所附加的严苛宏观经济紧缩条件，对全球南方借款国的公共教育财政预算和教师编制规模施加了决定性的外部结构约束。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–107)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1944 年 7 月布雷顿森林会议倡议建立，1945 年 12 月正式签署协定成立，旨在避免 20 世纪 30 年代大萧条时期的以邻为壑式货币竞相贬值，确立固定汇率与国际收支平衡机制。

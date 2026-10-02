@@ -5,6 +5,30 @@
       "path": "wiki/arguments/journal-articles/Technology in Society/Argument_Atkinson_2008_TIS.md"
     },
     {
+      "basename": "National Institutes of Health",
+      "path": "wiki/facts/us/National Institutes of Health.md"
+    },
+    {
+      "basename": "Argument_Stephan_2013_NBER",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
+    },
+    {
+      "basename": "template-argument-edited-volume",
+      "path": "wiki/templates/template-argument-edited-volume.md"
+    },
+    {
+      "basename": "CNRS",
+      "path": "wiki/facts/france/CNRS.md"
+    },
+    {
+      "basename": "Systems of Innovation",
+      "path": "wiki/theories/university-industry-collaboration/Systems of Innovation.md"
+    },
+    {
+      "basename": "Morrill Land-Grant Act of 1862",
+      "path": "wiki/facts/us/Morrill Land-Grant Act of 1862.md"
+    },
+    {
       "basename": "Technology Transfer Office",
       "path": "wiki/concepts/university-industry-collaboration/Technology Transfer Office.md"
     },
@@ -17,14 +41,6 @@
       "path": "wiki/persons/us/Richard C. Atkinson.md"
     },
     {
-      "basename": "CNRS",
-      "path": "wiki/facts/france/CNRS.md"
-    },
-    {
-      "basename": "Systems of Innovation",
-      "path": "wiki/theories/university-industry-collaboration/Systems of Innovation.md"
-    },
-    {
       "basename": "Evaluation Research",
       "path": "wiki/concepts/educational-policy-reform/Evaluation Research.md"
     },
@@ -35,10 +51,6 @@
     {
       "basename": "Knowledge Production",
       "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
-    },
-    {
-      "basename": "Morrill Land-Grant Act of 1862",
-      "path": "wiki/facts/us/Morrill Land-Grant Act of 1862.md"
     },
     {
       "basename": "American Association for the Advancement of Science",
@@ -113,10 +125,6 @@
       "path": "wiki/persons/uk/Alec Peterson.md"
     },
     {
-      "basename": "Argument_Stephan_2013_NBER",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
-    },
-    {
       "basename": "Seaborg Report 1960",
       "path": "wiki/facts/us/Seaborg Report 1960.md"
     },
@@ -161,10 +169,6 @@
       "path": "wiki/persons/us/Vannevar Bush.md"
     },
     {
-      "basename": "National Institutes of Health",
-      "path": "wiki/facts/us/National Institutes of Health.md"
-    },
-    {
       "basename": "PhD Overproduction in Science",
       "path": "wiki/concepts/higher-education/PhD Overproduction in Science.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "John Goormaghtigh",
       "path": "wiki/persons/belgium/John Goormaghtigh.md"
-    },
-    {
-      "basename": "Creativity, Action, Service",
-      "path": "wiki/concepts/curriculum/Creativity, Action, Service.md"
     }
   ],
   "omittedPaths": [],

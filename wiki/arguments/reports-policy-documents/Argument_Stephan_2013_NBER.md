@@ -44,6 +44,7 @@ related_facts:
   - "[[National Institutes of Health]]"
   - "[[National Research Council]]"
   - "[[Department of Energy]]"
+  - "[[President's Science Advisory Committee]]"
   - "[[Seaborg Report 1960]]"
   - "[[National Research Service Award Act of 1974]]"
 related_arguments: []
@@ -234,7 +235,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 #### 2. 西博格报告与围绕间接费率的政策协商
 
-1960 年底由格伦·西博格（Glenn T. Seaborg）领衔的总统科学顾问委员会发布报告《科学进步、大学与联邦政府》（即《[[Seaborg Report 1960|西博格报告]]》），系统反映了大学希望联邦增加支持的诉求（pp.15, 17）。
+1960 年底由格伦·西博格（Glenn T. Seaborg）领衔的[[President's Science Advisory Committee|总统科学顾问委员会]]发布报告《科学进步、大学与联邦政府》（即《[[Seaborg Report 1960|西博格报告]]》），系统反映了大学希望联邦增加支持的诉求（pp.15, 17）。
 
 > [!policy-context] 西博格报告的政策主张与学术劳动异化预警
 > - **联邦资助专任薪酬** 主张联邦科研经费应当堂正进入大学经常性预算，直接资助新聘专任教师的薪资开支。（p.15）

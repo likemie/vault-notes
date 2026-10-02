@@ -68,7 +68,7 @@ updated: 2026-09-29
 > - **边界** 不等于纯粹的技术进步或[[Informationalization|信息化]]本身；它关涉资本主义积累动力学在[[Space Production|空间生产]]上的根本转变，必须将时空物理维度的压缩与经由网络流通的意识形态内容（如新自由主义）严加区分。
 
 > [!citation-card] 时空压缩作为全球化与世界体系的质性分水岭
-> 简要地说，若全球化与世界体系分析之间存在质的差异，这种差异可归因于时间和空间的急剧压缩。大幅改进的现代技术促进了信息和资本跨越国界的即时流动，以前所未有的方式将遥远的全球力量与本土场景紧密联系在一起。必须将全球化的时空维度与这些信息和资金流动的实质内容严加区分。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–107)]]
+> 简要地说，若全球化与[[World-Systems Theory|世界体系分析]]之间存在质的差异，这种差异可归因于时间和空间的急剧压缩。大幅改进的现代技术促进了信息和资本跨越国界的即时流动，以前所未有的方式将遥远的全球力量与本土场景紧密联系在一起。必须将全球化的时空维度与这些信息和资金流动的实质内容严加区分。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–107)]]
 >
 > *Briefly, however, if there is a qualitative difference between globalization and WSA, it may be attributed to the dramatic compression of time and space (Harvey, 1989), with greatly improved technologies facilitating the [[Flow]] of information and capital across national boundaries and bringing the distant and the local into closer relation in ways previously unimagined... What is important to note here is that the space-time dimensions of globalization be distinguished from the content of these informational and financial flows.*
 
@@ -173,4 +173,4 @@ updated: 2026-09-29
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用时空压缩概念辨析全球化与世界体系分析的理论边界，阐释跨国教育网络化与自下而上全球化抗争的生成机制。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用时空压缩概念辨析全球化与[[World-Systems Theory|世界体系分析]]的理论边界，阐释跨国教育网络化与自下而上全球化抗争的生成机制。

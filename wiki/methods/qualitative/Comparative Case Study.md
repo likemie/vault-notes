@@ -8,7 +8,7 @@ summary: "Bartlett 与 Vavrus 提出的突破传统封闭单元的比较研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 35
+method_related_count: 36
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Data Infrastructure]]"
 related_theories:
   - "[[Cultural Political Economy]]"
+  - "[[World-Systems Theory]]"
   - "[[Pluri-Scalar Governance]]"
 related_methods:
   - "[[Case Study]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-19
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # Comparative Case Study
@@ -90,7 +91,7 @@ updated: 2026-09-29
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 关系性、过程性与批判[[Constructivist Paradigm|建构主义]]；坚持案例并非“自然存在”的实体，而是研究者借助[[Theoretical Perspective|理论视角]]和方法操作主动建构的分析范畴（casing），与[[Cultural Political Economy|文化政治经济学]]及世界体系分析高度契合。
+> - **知识观** 关系性、过程性与批判[[Constructivist Paradigm|建构主义]]；坚持案例并非“自然存在”的实体，而是研究者借助[[Theoretical Perspective|理论视角]]和方法操作主动建构的分析范畴（casing），与[[Cultural Political Economy|文化政治经济学]]及[[World-Systems Theory|世界体系分析]]高度契合。
 > - **研究者角色** 跨尺度政策追踪者与多地点[[Reflexivity|反思性]]对话者，既保持宏观体系的政治经济学洞察，又扎根微观实地开展[[Rich and Thick Description|深描]]，秉持兼顾全球规范与本土能动的“双重视野”（double vision；Anderson-Levitt, 2003; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）。
 > - **有效性标准** 垂直跨尺度追踪的链条完整性、水平地点的复杂连接性、横贯历史脉络的解释融贯性与多源证据的[[Triangulation|三角互证]]。
 > - **不声称回答的问题** 不用于孤立[[Variable|变量]]的实验室因果[[Effect Size|效应量]]测量；不追求脱离社会历史情境的统计总体普适推论。

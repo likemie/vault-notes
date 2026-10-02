@@ -10299,6 +10299,18 @@
     ]
   },
   {
+    "title": "Congressional Earmarks",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Congressional Earmarks.md",
+    "aliases": [
+      "国会专项拨款",
+      "政治分肥科研拨款",
+      "科研专项拨款",
+      "Academic Earmarks",
+      "Congressional Earmarking"
+    ]
+  },
+  {
     "title": "Long-Term Public Utility",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Long-Term Public Utility.md",
@@ -14124,6 +14136,17 @@
       "巴斯德象限",
       "Pasteur's Quadrant model",
       "用启发性基础研究"
+    ]
+  },
+  {
+    "title": "Pool of Knowledge",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Pool of Knowledge.md",
+    "aliases": [
+      "知识池理论",
+      "知识蓄水池理论",
+      "知识池隐喻",
+      "Pool of Knowledge Theory"
     ]
   },
   {
@@ -26768,7 +26791,8 @@
       "赠地法案",
       "莫里尔法案",
       "Land-Grant Act",
-      "Morrill Land-Grant College Act"
+      "Morrill Land-Grant College Act",
+      "莫里尔赠地法案"
     ]
   },
   {
@@ -27427,6 +27451,26 @@
     ]
   },
   {
+    "title": "Office of Scientific Research and Development",
+    "type": "fact",
+    "path": "wiki/facts/us/Office of Scientific Research and Development.md",
+    "aliases": [
+      "科学研究与开发办公室",
+      "战时科学研究与开发办公室",
+      "OSRD"
+    ]
+  },
+  {
+    "title": "President's Science Advisory Committee",
+    "type": "fact",
+    "path": "wiki/facts/us/President's Science Advisory Committee.md",
+    "aliases": [
+      "总统科学顾问委员会",
+      "PSAC",
+      "总统科学咨询委员会"
+    ]
+  },
+  {
     "title": "Promise Neighborhoods Research Consortium",
     "type": "fact",
     "path": "wiki/facts/us/Promise Neighborhoods Research Consortium.md",
@@ -28020,6 +28064,17 @@
       "银河数学辅导方案",
       "Galaxy Math Tutoring",
       "First-Grade Galaxy Math"
+    ]
+  },
+  {
+    "title": "Industry-University Cooperative Research Centers",
+    "type": "fact",
+    "path": "wiki/facts/us/Industry-University Cooperative Research Centers.md",
+    "aliases": [
+      "大学-工业界合作研究中心",
+      "I/UCRC",
+      "NSF I/UCRC",
+      "大学-工业界合作研究中心计划"
     ]
   },
   {

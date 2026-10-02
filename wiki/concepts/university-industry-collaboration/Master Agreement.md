@@ -10,7 +10,7 @@ aliases:
 summary: "产学合作中一次性覆盖知识产权、赔偿、治理、出版、保密、出口管制等基础条款的框架性法律协议，后续每个具体项目无需重新谈判这些条款，降低重复合作的交易成本"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-09-10
+updated: 2026-10-02
 ---
 
 # Master Agreement in University-Industry Collaboration

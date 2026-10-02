@@ -7,7 +7,7 @@ aliases:
 summary: "日本关东地区的世界级产业湾区，以传统工业为基础转型升级形成第三产业为主、高端制造业为辅的产业结构，聚集丰田、佳能等企业，形成独具一格的工业+研发+政府创新模式，以筑波科学城和产官学协同为两大支柱"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-10-02
 ---
 
 # Tokyo Bay Area

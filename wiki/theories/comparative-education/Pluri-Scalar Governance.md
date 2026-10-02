@@ -9,7 +9,7 @@ aliases:
 summary: "罗伯逊、博纳尔与戴尔开创的教育全球化批判性空间治理分析框架，通过治理标度、治理实体与治理活动三维矩阵，解构全球化与跨国经贸规制下国家教育主权的再领土化与公共性重组。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_concepts:
 related_theories:
   - "[[Educational Governance Framework]]"
   - "[[Globally Structured Agenda for Education]]"
+  - "[[World-Systems Theory]]"
   - "[[Dependency Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # Pluri-Scalar Governance
@@ -88,7 +89,7 @@ updated: 2026-09-29
 > [!dev-timeline] 理论演变与扩展
 > - **1999 — [[Globally Structured Agenda for Education|全球结构化议程]]奠基** 罗杰·戴尔（Dale, 1999）提出全球结构化教育议程（GSAE），确立全球化通过强加、协调与渗透等非传统机制影响国家政策，奠定了超越国家容器的治理问题域。
 > - **2002 — 三维多标度治理框架成型** 罗伯逊、博纳尔与戴尔（Robertson, Bonal, & Dale, 2002）系统确立三维多标度治理模型，提出 WTO 正在构建一个“消除边境壁垒的假想全球教育系统”，引起[[International Education|国际教育]]学界广泛轰动。
-> - **2007–2009 — [[Robert Arnove|阿诺夫]]的世界体系整合与非对称权力批判** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove, 2009）将多标度治理模型系统吸纳进世界体系分析中，揭示超国家多标度规则在核心大国与边缘脆弱经济体之间造成的非对称战略空间鸿沟。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
+> - **2007–2009 — [[Robert Arnove|阿诺夫]]的世界体系整合与非对称权力批判** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove, 2009）将多标度治理模型系统吸纳进[[World-Systems Theory|世界体系分析]]中，揭示超国家多标度规则在核心大国与边缘脆弱经济体之间造成的非对称战略空间鸿沟。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
 ---
 
@@ -199,6 +200,6 @@ updated: 2026-09-29
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合世界体系分析与全球化研究，系统阐述罗伯逊等人的多标度教育治理三维模型，深刻揭示 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 规约下大国策略性融入与边缘小国调控权[[Attrition|流失]]的非对称格局。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合[[World-Systems Theory|世界体系分析]]与全球化研究，系统阐述罗伯逊等人的多标度教育治理三维模型，深刻揭示 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 规约下大国策略性融入与边缘小国调控权[[Attrition|流失]]的非对称格局。
 
 ---

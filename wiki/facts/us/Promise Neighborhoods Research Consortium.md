@@ -22,6 +22,7 @@ tags:
   - archived
   - region/us
 related_concepts:
+  - "[[Congressional Earmarks]]"
   - "[[Document]]"
   - "[[Causality]]"
   - "[[Intelligent Tutoring Systems]]"
@@ -59,7 +60,7 @@ updated: 2026-10-02
 > [!info] 机构定位与运营概况
 > **承诺社区研究联盟（Promise Neighborhoods Research Consortium, PNRC）** 是由美国国家药物滥用研究所（NIDA/[[National Institutes of Health|NIH]]）于 2009 年资助建立的多领域公共证据清算联合体，由俄勒冈研究所（ORI）牵头全美数十所大学学者共同组建([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 7]])。
 >
-> PNRC 专注于高度贫困与高风险社区的青少年与儿童综合发展，覆盖教育促进、行为发展、身心健康与家庭经济等领域。当前处于**已停运 / 结项关闭（Defunct）**状态：2012 年科研专项拨款周期结束后原网站正式下线，其开创的“培育环境（Nurturing Environments）”循证框架沉淀于学术期刊[[Document\|文献]]中。
+> PNRC 专注于高度贫困与高风险社区的青少年与儿童综合发展，覆盖教育促进、行为发展、身心健康与家庭经济等领域。当前处于**已停运 / 结项关闭（Defunct）**状态：2012 年[[Congressional Earmarks|科研专项拨款]]周期结束后原网站正式下线，其开创的“培育环境（Nurturing Environments）”循证框架沉淀于学术期刊[[Document\|文献]]中。
 
 ---
 

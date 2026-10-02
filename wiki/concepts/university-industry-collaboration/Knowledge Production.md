@@ -66,6 +66,7 @@ related_concepts:
   - "[[Academic Risk Aversion]]"
   - "[[Academic Freedom]]"
 related_theories:
+  - "[[Pool of Knowledge]]"
   - "[[Academic Capitalism]]"
   - "[[Knowledge Building Theory]]"
   - "[[Post-colonial Theory]]"
@@ -98,6 +99,7 @@ related_facts:
   - "[[Systems Approach for Better Education Results]]"
   - "[[IEA]]"
   - "[[PISA]]"
+  - "[[Industry-University Cooperative Research Centers]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Partaken_2022_Springer]]"
@@ -134,7 +136,7 @@ updated: 2026-10-02
 > | **核心实践活动** | 基础研究探索、竞争性课题申报、跨国指标测度、专利申请与[[University-Industry Collaboration\|产学合作]] | 提出猜想、协同实验、观点论证、同行质询与概念模型持续改进 |
 > | **合法性与[[Justificatory Standards\|确证标准]]** | 同行匿名评议、期刊[[Document\|文献]]计量标准、产业经济回报率、跨国量化基准 | 经验证据协调、四维认识论实践规程、学科概念解释力、人机评价主义立场检验 |
 > | **权力与组织关系** | 联邦资助契约、资本对成果所有权的剥离、跨国指标帝国的排他性垄断 | 分布式认知、平等的智识权威、公共观点改进与[[Epistemic Agency\|认识主体性]]确立 |
-> | **深层核心价值** | 国家科技创新竞争力、经济增长引擎、对公共科研池（Pool of Knowledge）的再充实 | 内化说服优于强制的民主审议伦理、开放反思精神与行使[[Epistemic Agency\|认识能动性]] |
+> | **深层核心价值** | 国家科技创新竞争力、经济增长引擎、对公共科研池（[[Pool of Knowledge]]）的再充实 | 内化说服优于强制的民主审议伦理、开放反思精神与行使[[Epistemic Agency\|认识能动性]] |
 
 ---
 
@@ -153,7 +155,7 @@ updated: 2026-10-02
 > [!citation-card] 大学知识生产职能的历史转型与公共知识池假说
 > 直到 19 世纪中叶，大学在本质上仍是专注于传授已有知识的教学机构。这一传统首先在 19 世纪早期的德国被打破——柏林大学确立了大学应当同时从事知识生产与知识传播的全新信条。二战后[[Science, The Endless Frontier 1945|布什报告]]确立了基础研究的公共品属性：基础研究如同全社会共享的知识蓄水池，工业界从中汲取养分转化为技术，而联邦资助大学基础研究正是为了持续向这一知识蓄水池注水。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32, 35)]]
 >
-> *Until the mid-19th century, universities were teaching institutions devoted to the transmission of knowledge... The German model of universities dedicated to both the production and transmission of knowledge was replicated in the United States... [[Blue Skies Research|Basic Research]] is the pacemaker of technological progress, replenishing the pool of knowledge from which industry can draw.*
+> *Until the mid-19th century, universities were teaching institutions devoted to the transmission of knowledge... The German model of universities dedicated to both the production and transmission of knowledge was replicated in the United States... [[Blue Skies Research|Basic Research]] is the pacemaker of technological progress, replenishing the [[Pool of Knowledge]] from which industry can draw.*
 
 ---
 
@@ -323,7 +325,7 @@ updated: 2026-10-02
 > - **1945–1950s — 战后公共科研契约确立与基础研究蓄水池假说** 《[[Science, The Endless Frontier 1945|布什报告]]》确立联邦支持大学基础科研的公共品契约，提出基础科学如同全社会共享的知识蓄水池，为后续工业技术开发提供源头活水；[[National Science Foundation|NSF]] 创设确立同行评审竞争资助传统。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–36)]]
 > - **1950s–1970s — 殖民知识体系批判与[[Epistemology|认识论]]去依附** 弗朗茨·[[Frantz Fanon|法农]]揭示宗主国如何通过语言与[[Cultural Hierarchy|文化等级]]制造依附性知识生产；[[Post-colonial Theory|后殖民理论]]呼吁打破西方中心主义认识论霸权。
 > - **1960s–2000s — 比较教育学科知识生产由大学诠释向跨国指标治理位移** [[Wolfgang Mitter|沃尔夫冈·米特]]尔梳理学科史指出，知识生产早年植根于大学历史哲学反思，晚近则被超国家机构（[[OECD]]、[[IEA]]）大规模标准化量化测度体系（如 [[PISA]]）全面收编。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94–98)]]
-> - **1980s — 《[[Bayh-Dole Act of 1980|拜杜法案]]》与产学研协同机制确立** 国会通过《[[Bayh-Dole Act of 1980|拜杜法案]]》将联邦资助专利归属下放给大学，NSF 试点大学-工业界合作研究中心，知识生产成果从政府公有转向资本商业化流转。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
+> - **1980s — 《[[Bayh-Dole Act of 1980|拜杜法案]]》与产学研协同机制确立** 国会通过《[[Bayh-Dole Act of 1980|拜杜法案]]》将联邦资助专利归属下放给大学，NSF 试点[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]，知识生产成果从政府公有转向资本商业化流转。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **1990s — [[Mode 2 Knowledge Production|Mode 2]] 模式确立与[[Academic Capitalism|学术资本主义]]审视** 迈克尔·吉本斯等学者提出知识生产从传统象牙塔（Mode 1）向跨学科、应用导向与[[Reflexivity|反思性]]情境（Mode 2）转型；随后学术界深入揭示知识产权私有化对公有性的侵蚀。
 > - **2000s–2010s — 科学教育中的[[Epistemic Practices|认识论实践]]与本土共同体转向** 科学教育与学习科学界打破“[[Direct Instruction|直接讲授]]已知事实”的传统做法，[[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] 提出四维认识论实践框架，确立微观课堂中证据协商与民主审议的价值基础。
 > - **2022 — [[Knowledge Building Theory|知识建构学派]]的[[Reflective Structuration|反思性结构化]]模型** [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 证实小学生群体通过动态重组意向领域与持续观点改进，能自主实现深层因果解释建模并实质推进集体公共知识前沿。

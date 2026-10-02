@@ -9,7 +9,7 @@ summary: "德国比较教育学家与国际教育交流专家，黑森州教育�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Bildung]]"
+  - "[[Comparative Pedagogy]]"
   - "[[Scientific Method]]"
   - "[[Value Neutrality]]"
 related_theories:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Franz Hilker
@@ -133,7 +134,7 @@ updated: 2026-10-01
 > [!citation-card] 比较教育学学科定名与教育实践艺术属性
 > 希尔克论证指出，早期的跨国教育探究本质上属于教学与学习的实践艺术；德语学术界围绕该领域的学科定位展开了深刻辨析，即究竟应当定名为聚焦实践[[Bildung|教化]]与价值规范的“比较教育学”（*Vergleichende Pädagogik*），还是偏向实证与社会科学分析的“比较教育科学”（*Vergleichende Erziehungswissenschaft*）。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 121–122)]]
 >
-> *...whether it should be Vergleichende Erziehungswissenschaft (comparative educational sciences) or Vegleichende Pädagogik (comparative pedagogy) (Hilker, 1962; Schneider, 1961).*
+> *...whether it should be Vergleichende Erziehungswissenschaft (comparative educational sciences) or Vegleichende Pädagogik ([[Comparative Pedagogy]]) (Hilker, 1962; Schneider, 1961).*
 
 ---
 

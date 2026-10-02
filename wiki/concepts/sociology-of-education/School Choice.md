@@ -8,7 +8,7 @@ aliases:
 summary: "家长为子女选择就读学校的实践与政策逻辑，受家庭经济、社会与文化资本的系统筛选；在不同体制下分化为以新自由主义竞争为导向的市场化择校与以行政分流为导向的城镇化择校；多层实证数据显示学校间方差仅占 5–10%，择校难以替代微观教师教学质量。"
 type: concept
 domain: "sociology-of-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,7 +29,8 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Variable]]"
   - "[[Counterfactual]]"
-related_theories: []
+related_theories:
+  - "[[World-Systems Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Questionnaire]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # School Choice
@@ -182,7 +183,7 @@ updated: 2026-09-29
 > | **体制驱动分化命题** | 区分西方新自由主义市场模式与中国行政教育城镇化模式 | 比较教育学与转型国家政策分析 | Teng & Wang |
 > | **学校[[Attrition\|流失]]恶化命题** | 自由择校从薄弱学校抽干资源与生源导致恶性衰落循环 | 农村学校撤并及城市落后学区 | Teng & Wang; Ball |
 > | **效能方差限度命题** | 学校间方差仅占 5–10%，远低于校内教师方差 30%，择校难以成为提升成就的核心杠杆 | [[School Effectiveness\|学校效能]]研究、[[Evidence-Based Education\|循证教育]]政策与宏观问责评价 | Hattie |
-> | **国家审计与商品化命题** | 自上而下的择校将教育降格为消费品，国家从公共提供者退化为考核审计者 | 新自由主义全球化、教育政治经济学与世界体系分析 | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]] |
+> | **国家审计与商品化命题** | 自上而下的择校将教育降格为消费品，国家从公共提供者退化为考核审计者 | 新自由主义全球化、教育政治经济学与[[World-Systems Theory\|世界体系分析]] | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]] |
 
 ---
 
@@ -192,7 +193,7 @@ updated: 2026-09-29
 > - **1962 — 市场选择思想的提出** 米尔顿·弗里德曼（Milton Friedman）提出教育券计划，主张以市场竞争和家长选择打破公立教育垄断。
 > - **2000s — 新自由主义政策大扩张** 英美等国大力推广特许学校（charter schools）和学院学校（academies），择校成为主流教育政策。
 > - **2005 — 学校间与校内方差实证分解** [[John Hattie\|约翰·哈蒂]]（[[John Hattie]]）在 [[Australian Council for Educational Research\|ACER]] 会议报告中基于[[Meta-analysis\|元分析]]指出学校间方差仅占 5–10% 而校内教师方差达 30%，实证证明校内变异远大于校际变异，揭示了单纯依赖择校政策提升[[Academic Achievement\|学业成就]]的结构性限度（[[Argument_Hattie_2005_ACER\|Hattie, 2005, pp. 13–14]]）。
-> - **2009 — 全球新自由主义规约下的择校审计化批判** [[Robert Arnove|阿诺夫]]（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 107, 113]]）从世界体系分析与批判政治经济学视角，指出择校、教育券与私有化是超国家机构推行的自上而下新自由主义组合拳，批判其将国家退缩为审计者并加剧全球教育商品化分层。
+> - **2009 — 全球新自由主义规约下的择校审计化批判** [[Robert Arnove|阿诺夫]]（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 107, 113]]）从[[World-Systems Theory|世界体系分析]]与批判政治经济学视角，指出择校、教育券与私有化是超国家机构推行的自上而下新自由主义组合拳，批判其将国家退缩为审计者并加剧全球教育商品化分层。
 > - **2010s — 转型国家的教育城镇化变体** 中国推进[[Rural School Consolidation\|农村学校撤并]]与县城学校扩张，择校实践与地理迁移、农民市民化合流，演化为“以教促城”的政策实践（[[Argument_Teng_2025_CE\|Teng & Wang, 2025, pp. 303–304]]）。
 
 ---

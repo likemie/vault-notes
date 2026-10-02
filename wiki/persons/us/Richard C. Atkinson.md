@@ -26,6 +26,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Import Substitution Industrialisation]]"
   - "[[Document]]"
+  - "[[Congressional Earmarks]]"
   - "[[Technology Transfer]]"
   - "[[Critical Thinking]]"
   - "[[Academic Start-up Packages]]"
@@ -38,6 +39,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[National Science Foundation]]"
+  - "[[Industry-University Cooperative Research Centers]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Science, The Endless Frontier 1945]]"
 related_arguments:
@@ -57,7 +59,7 @@ updated: 2026-10-02
 > [!person-profile] 人物档案
 > - **身份位置** 美国当代认知心理学家、科学政策学者与高等教育战略领袖，美国国家科学院院士、医学科学院院士与美国哲学会会士；曾任[[National Science Foundation|美国国家科学基金会]]（[[National Science Foundation|NSF]]）主任（1977–1980）、加利福尼亚大学圣迭戈分校（UC San Diego）校长（1980–1995）以及加州大学总校第 17 任校长（1995–2003）。
 > - **核心角色** 兼具认知心理学顶尖科学家与国家科技教育决策操盘手的双重身份；在联邦层面主导战后国家科技政策体制与产学联合研发机制的恢复，在州立与全美大学系统层面推动加利福尼亚科研创新集群建设与本科招生测试改革。
-> - **代表贡献** 与理查德·希夫林（Richard Shiffrin）共同构建认知心理学经典阿特金森-希夫林记忆模型（Atkinson-Shiffrin Model）；执掌 [[National Science Foundation|NSF]] 期间推动建立大学-工业界合作研究中心（I/UCRC）并参与缔造《[[Bayh-Dole Act of 1980|拜杜法案]]》立法共识；在加利福尼亚大学校长任内挑战美国大学入学考试（Scholastic Assessment Test, SAT）常模参照评价，倒逼全美高校招生录取评价体系重大改革。
+> - **代表贡献** 与理查德·希夫林（Richard Shiffrin）共同构建认知心理学经典阿特金森-希夫林记忆模型（Atkinson-Shiffrin Model）；执掌 [[National Science Foundation|NSF]] 期间推动建立[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（I/UCRC）并参与缔造《[[Bayh-Dole Act of 1980|拜杜法案]]》立法共识；在加利福尼亚大学校长任内挑战美国大学入学考试（Scholastic Assessment Test, SAT）常模参照评价，倒逼全美高校招生录取评价体系重大改革。
 
 > [!citation-card] 高等教育与国家科技系统治理定位
 > 研究型大学是国家科技体系的战略核心。战后六十年所奠定的同行评议、自由流动与分散竞争体制，构成了美国研究型大学最宝贵的制度资产，但其未来存续取决于学术界能否清醒应对资源倾斜与避险主义的深层危机。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 30–31)]]
@@ -93,7 +95,7 @@ updated: 2026-10-02
 ## 核心思想
 
 > [!claim] 研究型大学的去中心化竞争与制度共生
-> 阿特金森主张，美国研究型大学之所以能确立全球学术领军地位，核心在于其独特的“非中央集权式多元生态”与“分散竞争性同行评议契约”。研究型大学通过将拔尖人才培养与高难度前沿科研紧密共生于研究生院平台，既为国家经济与区域创新提供了源源不断的人才储备，又保持了面对联邦政治干预的高度自主性。然而，这一系统的繁荣高度依赖于同行评议的学术公信力；国会专项拨款（Earmarks）对择优评议的绕开，以及过度严酷竞争导致的科研避险与平庸化，构成了对战后科研契约最严重的内在威胁。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 30–32, 44–46)]]
+> 阿特金森主张，美国研究型大学之所以能确立全球学术领军地位，核心在于其独特的“非中央集权式多元生态”与“分散竞争性同行评议契约”。研究型大学通过将拔尖人才培养与高难度前沿科研紧密共生于研究生院平台，既为国家经济与区域创新提供了源源不断的人才储备，又保持了面对联邦政治干预的高度自主性。然而，这一系统的繁荣高度依赖于同行评议的学术公信力；[[Congressional Earmarks|国会专项拨款]]（Earmarks）对择优评议的绕开，以及过度严酷竞争导致的科研避险与平庸化，构成了对战后科研契约最严重的内在威胁。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 30–32, 44–46)]]
 
 > [!citation-card] 论同行评议的基石地位与政治干预风险
 > 尽管国会拨款法案中针对特定大学科研建筑的专项拨款（Earmarks）总额相比桥梁与公路微不足道，但这种绕过同行评议的做法却从根本上动摇了研究型大学体系的基石。迈入顶尖研究型大学行列是一条漫长而艰辛的道路，绝不可能通过国会政治分肥的捷径来实现。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 44)]]

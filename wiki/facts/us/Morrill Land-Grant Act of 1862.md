@@ -1,12 +1,13 @@
 ---
 title: Morrill Land-Grant Act of 1862
 aliases:
-  - "Morrill Act"
-  - "赠地法案"
-  - "莫里尔法案"
-  - "Land-Grant Act"
-  - "Morrill Land-Grant College Act"
-summary: "1862 年美国联邦立法，通过赠地建立面向工业阶层的实践教育大学体系，将高等教育从精英教育扩展为大众实践教育，奠定产学合作的历史基础"
+  - Morrill Act
+  - 赠地法案
+  - 莫里尔法案
+  - Land-Grant Act
+  - Morrill Land-Grant College Act
+  - 莫里尔赠地法案
+summary: "1862年美国联邦立法，通过赠地建立面向工业阶层的实践教育大学体系，将高等教育从精英教育扩展为大众实践教育，奠定产学合作的历史基础。"
 type: fact
 subtype: event
 region: us
@@ -17,10 +18,10 @@ fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags:
-  - "region/us"
-  - "level/higher-education"
-  - "policy/land-grant"
-  - "theme/higher-education-history"
+  - region/us
+  - level/higher-education
+  - policy/land-grant
+  - theme/higher-education-history
 related_concepts:
   - "[[Academic Freedom]]"
 related_theories: []
@@ -32,7 +33,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-10-02
 ---
 
 # Morrill Land-Grant Act of 1862

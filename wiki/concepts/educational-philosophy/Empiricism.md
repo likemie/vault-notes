@@ -213,7 +213,7 @@ updated: 2026-10-01
 > - **17–18 世纪 — 英国古典经验主义鼎盛** 洛克（[[John Locke]]）、[[George Berkeley|贝克莱]]与休谟（David Hume）系统构建白板说与经验论体系，休谟揭示归纳问题的哲学危机。
 > - **1930s — 逻辑经验主义与证实原则** 维也纳学派将经验主义推至顶峰，主张只有能够被经验证实的陈述才具备认知意义。
 > - **1960s 至今 — 后实证修正与多元经验论** 波普尔揭示观察渗透理论，[[Pragmatic Paradigm|实用主义]]与[[Mixed Methods Research|混合方法]]将经验主义改造为面向解决现实问题的工具主义与实践经验论。
-> - **1970s — 比较教育方法论经验主义批判与[[Geisteswissenschaften|精神科学]]反思** 卡扎米亚斯与施瓦茨（Kazamias & Schwartz, 1977）、[[Bernard Barber|巴伯]]（Barber, 1972）揭示并批判诺亚、埃克斯坦等实证派所确立的“方法论经验主义”与“唯方法论主义”，重申比较教育深植于精神科学的人文阐释与批判反思传统（Kazamias, 2009a）。
+> - **1970s — 比较教育方法论经验主义批判与[[Geisteswissenschaften|精神科学]]反思** 卡扎米亚斯与施瓦茨（Kazamias & Schwartz, 1977）、[[Bernard Barber|巴伯]]（Barber, 1972）揭示并批判诺亚、埃克斯坦等实证派所确立的“方法论经验主义”与“唯方法论主义”，重申比较教育深植于精神科学的人文阐释与批判反思传统（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）。
 
 ---
 
@@ -237,7 +237,7 @@ updated: 2026-10-01
 > > 围绕教育探究应否全面依循自然科学一元化方法建立纯粹量化[[Scientific Method|经验科学]]展开交锋。
 > >
 > > - **方法论经验主义学派（Noah & Eckstein, 1969; Psacharopoulos, 1987）** 倡导严格的[[Hypothesis|假设]]检验、控制调查与数学量化模型，致力于发现普遍的经验规律。
-> > - **历史-阐释与批判人文主义学派（Kazamias, 2009a; Barber, 1972）** 指责其陷入去情境化、无历史性的唯方法论主义幻觉，捍卫教育学作为精神科学（*[[Geisteswissenschaften]]*）对历史文化脉络的深层阐释与道德批判旨趣。
+> > - **历史-阐释与批判人文主义学派（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]; Barber, 1972）** 指责其陷入去情境化、无历史性的唯方法论主义幻觉，捍卫教育学作为精神科学（*[[Geisteswissenschaften]]*）对历史文化脉络的深层阐释与道德批判旨趣。
 
 > [!warning] 教育研究中的方法论局限
 > - **经验主义近视（Empiricist Myopia）** 过分聚焦立即可见、可度量的浅层行为指标（如考试分数），从而忽略不可直接感知的宏观政治经济压迫与学生隐性心理机制。

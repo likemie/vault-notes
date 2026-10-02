@@ -9,7 +9,7 @@ aliases:
 summary: "西方教育思想史上关于知识组织和传授的一对经典二元范式：disciplina 侧重既有知识的灌训与规训，doctrina 侧重知识的动态生产与开放更新"
 type: concept
 domain: "educational-philosophy"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,7 +40,6 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
-  - "[[Education in Europe]]"
 related_arguments:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
   - "[[Argument_Mitter_2009_Europe]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-22
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Disciplina and Doctrina

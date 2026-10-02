@@ -34,6 +34,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Research Security]]"
   - "[[Discipline-Based Theory]]"
+  - "[[Congressional Earmarks]]"
   - "[[Document]]"
   - "[[Innovation Ecosystem]]"
   - "[[Technology Transfer]]"
@@ -171,7 +172,7 @@ updated: 2026-10-02
 > 学术自由依赖于同行评议抵御外部行政微观干涉；然而，当外部科研资助率断崖式下跌或遭遇国会政治定向分肥时，同行评议的保守化将反噬学术自由，迫使学者进行选题自我审查。
 
 > [!claim] Atkinson & Blanpied
-> **过度竞争与政治干预使学术自由蜕变为学术避险与产出平庸化** 阿特金森与布兰皮德（[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008]]）指出，战后科学契约的核心是政府资助科学而非微观干预科学，立项严格遵循同行评议规范以保障科学家的探索自由。然而在当代，这一学术自由基石面临双重瓦解：一方面，国会专项拨款（Earmarks）政治分肥直接架空了同行评议，使公共资金沦为选区政治交易；另一方面，青年学者项目资助率跌至 20% 叠加 3 年启动配套金生存考核，导致评审专家倾向于确定性更强的技术可行性，迫使学者放弃探索前沿假说的实质自由，自我审查并转向稳妥的安全项目（Safe Projects），学术自由由此在微观考核压力下异化为平庸[[Document|文献]]的机械生产。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35, 44–45)]]
+> **过度竞争与政治干预使学术自由蜕变为学术避险与产出平庸化** 阿特金森与布兰皮德（[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008]]）指出，战后科学契约的核心是政府资助科学而非微观干预科学，立项严格遵循同行评议规范以保障科学家的探索自由。然而在当代，这一学术自由基石面临双重瓦解：一方面，[[Congressional Earmarks|国会专项拨款]]（Earmarks）政治分肥直接架空了同行评议，使公共资金沦为选区政治交易；另一方面，青年学者项目资助率跌至 20% 叠加 3 年启动配套金生存考核，导致评审专家倾向于确定性更强的技术可行性，迫使学者放弃探索前沿假说的实质自由，自我审查并转向稳妥的安全项目（Safe Projects），学术自由由此在微观考核压力下异化为平庸[[Document|文献]]的机械生产。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35, 44–45)]]
 
 ---
 
@@ -197,7 +198,7 @@ updated: 2026-10-02
 > - **1945 年至 1950 年代 — 战后科学契约确立政府资助而不干预原则** [[Science, The Endless Frontier 1945|布什报告]]与 [[National Science Foundation|NSF]] 的成立确立了国家资助基础研究、由同行评议自主掌控科研优先级的制度共识，将学术自治提升为国家创新中枢的法律宪章。[[Argument_Atkinson_2008_TIS\|(Atkinson & Blanpied, 2008, pp. 35–36)]]
 > - **1970 年代至 2000 年代 — 单一正统瓦解与理论[[Pluralism|多元主义]]时代** 比较社会科学告别单一[[Structural Functionalism|结构功能主义]]垄断，多元[[Paradigm|范式]]共存确立了学者在[[Epistemology|认识论]]层面的自主选择权。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, p. 132)]]
 > - **1980 年代至 2000 年代 — 《[[Bayh-Dole Act of 1980|拜杜法案]]》与商业化知识产权张力** 随着[[Technology Transfer|大学技术转移]]与专利授权兴起，学术公开自由发表权与产业商业秘密保护产生激烈碰撞与制度磨合。[[Argument_Gilison_Wilson_2025_UniversityStartups\|(Gilison & Wilson, 2025, p. 143)]]; [[Argument_Atkinson_2008_TIS\|(Atkinson & Blanpied, 2008, pp. 41–42)]]
-> - **2000 年代至今 — 当代结构性异化：学术避险、政治分肥与[[Research Security|研究安全]]** 资助率低迷倒逼学者进行选题自我审查、国会专项拨款（Earmarks）绕开同行评议，以及地缘政治审查重塑了学术自由在微观与宏观维度的实践边界。[[Argument_Atkinson_2008_TIS\|(Atkinson & Blanpied, 2008, pp. 44–45)]]; [[Argument_Dean_2025_UICollaborationSupport\|(Dean et al., 2025, pp. 249–250)]]
+> - **2000 年代至今 — 当代结构性异化：学术避险、政治分肥与[[Research Security|研究安全]]** 资助率低迷倒逼学者进行选题自我审查、[[Congressional Earmarks|国会专项拨款]]（Earmarks）绕开同行评议，以及地缘政治审查重塑了学术自由在微观与宏观维度的实践边界。[[Argument_Atkinson_2008_TIS\|(Atkinson & Blanpied, 2008, pp. 44–45)]]; [[Argument_Dean_2025_UICollaborationSupport\|(Dean et al., 2025, pp. 249–250)]]
 
 ---
 

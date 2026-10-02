@@ -26,6 +26,7 @@ tags:
   - paradigm/positivist
 related_concepts:
   - "[[Scientifically Based Research]]"
+  - "[[Congressional Earmarks]]"
   - "[[Document]]"
   - "[[Teaching Assistant]]"
   - "[[Teacher Professional Agency]]"
@@ -86,7 +87,7 @@ updated: 2026-09-27
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1997 年由国会指令正式召集，直接呼应了《[[Reading Excellence Act|卓越阅读法案]]》（REA）立法进程中对“[[Scientifically Based Research|科学本位研究]]”的制度化诉求。时任[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]主席比尔·古德林（Bill Goodling）及其资深幕僚罗伯特·斯威特（Robert Sweet）急于在立法中建立科研指导教学的硬性纽带，恰逢[[National Research Council|国家研究委员会]]（[[National Research Council]], NRC）斯诺团队出版《预防幼儿阅读困难》（Snow et al., 1998）；国会遂指令 NICHD 联合教育部组织专门委员会，旨在系统梳理实证研究以彻底平息旷日持久的“阅读战争”。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 32)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 9–10)]]
 > - **总部地点 / 业务辐射** 依托马里兰州贝塞斯达的 NICHD 总部开展常设会务，其发布的报告与规程辐射全美 50 州的公立 K-12 学校系统、师资培训大学及联邦资助项目。
-> - **法人属性与经费基础** 联邦政府特设法定咨询专家机构，活动经费由联邦国会专项拨款及 NICHD 预算全额支持。
+> - **法人属性与经费基础** 联邦政府特设法定咨询专家机构，活动经费由联邦[[Congressional Earmarks|国会专项拨款]]及 NICHD 预算全额支持。
 > - **核心宗旨与法定职责** 审查全美已发表的儿童阅读科研[[Document|文献]]；筛选符合严格科学标准的实证研究；提炼基于实证证据的有效阅读教学方法；向美国国会、白宫及教育部长提交综合评估报告。
 
 ---

@@ -113,7 +113,7 @@ updated: 2026-09-28
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 与瓦勒斯坦（Wallerstein）、阿明（Amin）、弗兰克（Frank）等学者共同构建了当代批判政治经济学与世界体系分析的支柱网络；其概念工具直接启发了卡诺伊（Carnoy）、[[Joel Samoff|萨莫夫]]（Samoff）、[[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]对外围资本主义国家教育政策的政治社会学建模。
+> - **理论路径** 与瓦勒斯坦（Wallerstein）、阿明（Amin）、弗兰克（Frank）等学者共同构建了当代批判政治经济学与[[World-Systems Theory|世界体系分析]]的支柱网络；其概念工具直接启发了卡诺伊（Carnoy）、[[Joel Samoff|萨莫夫]]（Samoff）、[[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]对外围资本主义国家教育政策的政治社会学建模。
 > - **政策路径** 深刻影响了战后拉美非结盟运动、南南合作倡议以及联合国拉美经委会（CEPAL）关于产业自主权与[[Technology Transfer|技术转移]]监管的政策抗辩。
 > - **跨国／跨领域传播** 思想广泛跨越经济学、政治学与教育学界，成为全球[[Critical Pedagogy|批判教育学]]解构跨国金融机构援助神话的核心[[Epistemology|认识论]]武器。
 

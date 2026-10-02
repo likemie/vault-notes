@@ -35,6 +35,7 @@ related_persons:
   - "[[Vannevar Bush]]"
   - "[[Paula Stephan]]"
 related_facts:
+  - "[[President's Science Advisory Committee]]"
   - "[[Sputnik Shock 1957]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
@@ -55,7 +56,7 @@ updated: 2026-10-02
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1960 年 11 月由美国总统科学顾问委员会（President's Science Advisory Committee, PSAC）正式发布，报告由诺贝尔化学奖得主、加利福尼亚大学伯克利分校校长格伦·西博格（Glenn T. Seaborg）领衔的主题专家小组起草完成。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
+> - **发布时间 / 发布主体** 1960 年 11 月由美国[[President's Science Advisory Committee|总统科学顾问委员会]]（President's Science Advisory Committee, PSAC）正式发布，报告由诺贝尔化学奖得主、加利福尼亚大学伯克利分校校长格伦·西博格（Glenn T. Seaborg）领衔的主题专家小组起草完成。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
 > - **适用地区 / 对象** 美国联邦行政分支、国会拨款委员会、全美主要研究型大学与医学院管理层。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
 > - **问题背景** 二战后至 1950 年代末，美国大学在冷战科技军备竞赛与苏联人造卫星（[[Sputnik Shock 1957|Sputnik]]）上天的剧烈震动下，迫切需要升级前沿科学与工程研发能力；然而联邦科研拨款间接成本过低、地方与新兴院校科研能力薄弱、高层次科研人员短缺等结构性瓶颈日益凸显。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 10–11, 15)]]
 > - **制度位置** 承接并重构了 1945 年范内瓦·布什（[[Vannevar Bush]]）的《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》，标志着美国科学政策议程从“二战战时体制善后”全面升级为“国家战略主导的大学科研能力系统性大扩张”。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–17)]]
@@ -91,7 +92,7 @@ updated: 2026-10-02
 ## 时间线
 
 > [!timeline] 政策演进关键节点
-> - **1957** 苏联斯普特尼克（[[Sputnik Shock 1957|Sputnik]]）卫星升空，美国艾森豪威尔政府重组总统科学顾问委员会（PSAC）。
+> - **1957** 苏联斯普特尼克（[[Sputnik Shock 1957|Sputnik]]）卫星升空，美国艾森豪威尔政府重组[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）。
 > - **1960** 格伦·西博格牵头完成并正式发布报告《科学进步、大学与联邦政府》（*Scientific Progress, the Universities, and the Federal Government*）。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
 > - **1964–1966** 报告诉求全面落地：[[National Science Foundation|NSF]] 创设大学科学发展计划（USDP），启动间接费逐校协商政策；DOD 推出 Project THEMIS，NASA 设立 SUP，[[National Institutes of Health|NIH]] 设立 HSAA。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–16)]]
 
@@ -100,7 +101,7 @@ updated: 2026-10-02
 ## 实施情况
 
 > [!actor-grid] 实施角色分工
-> - **政策发起与审计** 总统科学顾问委员会（PSAC）统筹；[[National Science Foundation|美国国家科学基金会]]（NSF）与卫生福利部（HEW）负责具体执行落地。
+> - **政策发起与审计** [[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）统筹；[[National Science Foundation|美国国家科学基金会]]（NSF）与卫生福利部（HEW）负责具体执行落地。
 > - **执行主体（联邦任务机构）** NSF、[[National Institutes of Health|NIH]]、国防部（DOD）、国家航空航天局（NASA）分别设立了专项卓越中心与发展基金。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–16)]]
 > - **被动员对象** 全美研究型大学（尤其是原排名前 15 之外的潜力公立与私立大学），通过主动提交科系扩建与机构发展方案竞逐资金。
 

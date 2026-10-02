@@ -62,8 +62,8 @@ related_persons:
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
 related_arguments:
-  - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
+  - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Cowen_2009_HistoryCreation]]"
@@ -83,7 +83,7 @@ updated: 2026-10-01
 
 > [!person-profile] 人物档案
 > - **身份位置** 俄裔英国比较教育学家、教育史学家，伦敦大学国王学院（King's College London）比较教育学读者（Reader），与约瑟夫·劳威斯（[[Joseph Lauwerys]]）长期共同主编《世界教育年鉴》（*World Year Book of Education*）。
-> - **核心角色** 20 世纪历史-哲学学派最具方法论系统性的奠基学者，开创闻名学界的“[[Factorial Interpretive Framework|因素解释框架]]”。米特（[[Wolfgang Mitter]]）将其与德国的[[Friedrich Schneider|弗里德里希·施奈德]]并列为 20 世纪前中期（1920s–1950s）主导欧洲比较教育的“宏大历史文化全景”流派领袖；在卡扎米亚斯（Kazamias, 2009a）的四重论述代际框架中，汉斯与[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Robert Ulich|乌利希]]共同构成了**第二代（历史-哲学与自由人文主义代际）**的学术中流砥柱；卡扎米亚斯更将学科作为多学科“[[Geisteswissenschaften|人文科学]]（Human Science）”的本质[[Epistemology|认识论]]命题追溯至汉斯倡导的教育科学（*Vergleichende Erziehungswissenschaft*）传统。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140, 143–144)]]
+> - **核心角色** 20 世纪历史-哲学学派最具方法论系统性的奠基学者，开创闻名学界的“[[Factorial Interpretive Framework|因素解释框架]]”。米特（[[Wolfgang Mitter]]）将其与德国的[[Friedrich Schneider|弗里德里希·施奈德]]并列为 20 世纪前中期（1920s–1950s）主导欧洲比较教育的“宏大历史文化全景”流派领袖；在卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）的四重论述代际框架中，汉斯与[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Robert Ulich|乌利希]]共同构成了**第二代（历史-哲学与自由人文主义代际）**的学术中流砥柱；卡扎米亚斯更将学科作为多学科“[[Geisteswissenschaften|人文科学]]（Human Science）”的本质[[Epistemology|认识论]]命题追溯至汉斯倡导的教育科学（*Vergleichende Erziehungswissenschaft*）传统。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140, 143–144)]]
 > - **代表贡献** 确立包含自然、宗教与世俗三大维度的因素分析法；提出以历史背景、[[National Character|国民性格]]与精神驱动力诠释学制的分析原则；将比较教育定位为具有动态改良使命、处于人文与科学边缘的广义[[Geisteswissenschaften|人文科学]]（Vergleichende Erziehungswissenschaft）；深刻辨析英美政治自由与苏联社会平等两种民主[[Paradigm|范式]]的教育局限。
 
 > [!citation-card] 人物定位的关键来源
@@ -233,7 +233,7 @@ updated: 2026-10-01
 卡扎米亚斯进一步将汉斯置于比较教育[[Knowledge Production|知识生产]]代际演进与“普罗透斯式认识型”的宏大谱系中，阐明其广义教育科学定位与历史-哲学学派特质。
 
 > [!citation-card] Kazamias论汉斯的广义教育科学与第二代历史-哲学传统
-> 卡扎米亚斯（Kazamias, 2009a）指出，汉斯与[[Immanuel Kant|康德]]尔、[[Robert Ulich|乌利希]]同属比较教育学界建构的“第二代”历史-哲学传统。在汉斯看来，比较教育并非狭隘的技术性学科，而是广义教育科学（*Vergleichende Erziehungswissenschaft*）不可分割的组成部分，深植于德国人文学科/[[Geisteswissenschaften|精神科学]]（*Geisteswissenschaften*）的学术土壤之中。汉斯坚信比较教育兼具人文探究与社会科学理性，其终极旨趣在于通过对历史与文化力量的深层把握推动教育改良（[[Educational Meliorism]]）。这种广义科学观为抵御随后出现的[[Empiricism|唯方法论主义]]（methodologism）与去情境化实证量化[[Disciplina and Doctrina|规训]]提供了深厚的[[Epistemology|认识论]]支撑。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 145–148)]]
+> 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）指出，汉斯与[[Immanuel Kant|康德]]尔、[[Robert Ulich|乌利希]]同属比较教育学界建构的“第二代”历史-哲学传统。在汉斯看来，比较教育并非狭隘的技术性学科，而是广义教育科学（*Vergleichende Erziehungswissenschaft*）不可分割的组成部分，深植于德国人文学科/[[Geisteswissenschaften|精神科学]]（*Geisteswissenschaften*）的学术土壤之中。汉斯坚信比较教育兼具人文探究与社会科学理性，其终极旨趣在于通过对历史与文化力量的深层把握推动教育改良（[[Educational Meliorism]]）。这种广义科学观为抵御随后出现的[[Empiricism|唯方法论主义]]（methodologism）与去情境化实证量化[[Disciplina and Doctrina|规训]]提供了深厚的[[Epistemology|认识论]]支撑。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 145–148)]]
 >
 > *...comparative education as Vergleichende Erziehungswissenschaft, part of a wider science of education rooted in the German Geisteswissenschaften tradition, combining historical and social-scientific rationales for educational meliorism... [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a)]]*
 

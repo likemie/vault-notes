@@ -9,7 +9,7 @@ aliases:
 summary: "指由三个及以上主权国家基于普遍行为原则建立的制度化教育协调与援助机制，其历史演进经历了从战后教科文组织主导的有限再分配模式，到后殖民抗争，再到新自由主义防御性与规训性模式的重大范式转型。"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_theories:
   - "[[Pluri-Scalar Governance]]"
   - "[[Human Capital Theory]]"
   - "[[Institutional Isomorphism]]"
+  - "[[World-Systems Theory]]"
 related_methods:
   - "[[Ethnography]]"
   - "[[Correlational Research]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # Educational Multilateralism
@@ -175,4 +176,4 @@ updated: 2026-09-29
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统梳理世界体系分析视阈下教育多边主义的历史演进，揭示国际金融机构如何通过政策[[Disciplina and Doctrina|规训]]重塑边缘国家的教育主权。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 系统梳理[[World-Systems Theory|世界体系分析]]视阈下教育多边主义的历史演进，揭示国际金融机构如何通过政策[[Disciplina and Doctrina|规训]]重塑边缘国家的教育主权。
