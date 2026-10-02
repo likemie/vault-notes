@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ tags:
   - theme/higher-education
   - theme/knowledge-mobilisation
 related_concepts:
+  - "[[Indirect Costs of Research]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Lifelong Learning]]"
   - "[[Academic Freedom]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # American Council on Education
@@ -69,7 +70,7 @@ updated: 2026-09-22
 > [!dev-timeline] 组织发展历程
 > - **1918–1943 — 战时动员与现代高等教育建制** 一战期间统筹大学与军方合作，二战期间主导协助起草了改写美国社会阶层流动的《退伍军人权利法案》（G.I. Bill 1944），推动战后美国高等教育由精英化迈向大众化。
 > - **1944–1972 — 民权运动与联邦助学金制度化** 在民权运动与伟大社会计划中，深度参与推动《1965 年[[Higher Education Act of 1965\|高等教育法]]》（HEA）的出台，确立了联邦佩尔助学金（Pell Grant）与国家保障学生贷款体系的立法基石。
-> - **1973–至今 — 统领跨协会联盟与多层级宏观抗辩** 在 21 世纪历次高等教育法重新授权、校园多元平权法案诉讼（如费舍尔案、哈佛招生平权案）及大学科研间接成本费率谈判中，ACE 牵头联合全美数十个细分教育专业协会（包括 [[American Association of Colleges for Teacher Education\|AACTE]]、[[The Education Trust\|EdTrust]] 等），直接同[[House Committee on Education and the Workforce\|众议院教育与劳动力委员会]]及参议院磋商，成为不可或缺的超级中介机构。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
+> - **1973–至今 — 统领跨协会联盟与多层级宏观抗辩** 在 21 世纪历次高等教育法重新授权、校园多元平权法案诉讼（如费舍尔案、哈佛招生平权案）及大学[[Indirect Costs of Research|科研间接成本]]费率谈判中，ACE 牵头联合全美数十个细分教育专业协会（包括 [[American Association of Colleges for Teacher Education\|AACTE]]、[[The Education Trust\|EdTrust]] 等），直接同[[House Committee on Education and the Workforce\|众议院教育与劳动力委员会]]及参议院磋商，成为不可或缺的超级中介机构。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
 
 ---
 

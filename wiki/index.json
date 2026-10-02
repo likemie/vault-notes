@@ -6266,6 +6266,18 @@
     ]
   },
   {
+    "title": "Academic Start-up Packages",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Academic Start-up Packages.md",
+    "aliases": [
+      "高校科研启动配套金",
+      "教师启动资金包",
+      "start-up packages",
+      "科研启动配套金",
+      "启动配套资助"
+    ]
+  },
+  {
     "title": "Critic and Conscience of Society",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Critic and Conscience of Society.md",
@@ -6394,6 +6406,19 @@
       "graduate outcomes",
       "graduate skills",
       "graduate qualities"
+    ]
+  },
+  {
+    "title": "Indirect Costs of Research",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Indirect Costs of Research.md",
+    "aliases": [
+      "科研间接成本",
+      "设施与行政管理费",
+      "F&A Costs",
+      "Facilities and Administrative Costs",
+      "科研管理费",
+      "Overhead Costs"
     ]
   },
   {
@@ -27695,6 +27720,18 @@
       "Stowe's Report on Elementary Public Instruction in Europe",
       "Stowe's Report",
       "Report on Elementary Instruction in Europe"
+    ]
+  },
+  {
+    "title": "Seaborg Report 1960",
+    "type": "fact",
+    "path": "wiki/facts/us/Seaborg Report 1960.md",
+    "aliases": [
+      "西博格报告",
+      "西博格报告 1960",
+      "Scientific Progress, the Universities, and the Federal Government",
+      "PSAC 1960 Report",
+      "1960年西博格报告"
     ]
   },
   {

@@ -24,7 +24,9 @@ related_concepts:
   - "[[Soft-Money Faculty Model]]"
   - "[[Shopping Mall Model of Research Universities]]"
   - "[[Document]]"
+  - "[[Indirect Costs of Research]]"
   - "[[Structural Adjustment Programs]]"
+  - "[[Academic Start-up Packages]]"
   - "[[Absorptive Capacity]]"
 related_theories:
   - "[[Academic Capitalism]]"
@@ -41,6 +43,7 @@ related_facts:
   - "[[National Institutes of Health]]"
   - "[[National Research Council]]"
   - "[[Department of Energy]]"
+  - "[[Seaborg Report 1960]]"
 related_arguments: []
 sources:
   - "[[sources/Stephan_2013_NBER/Stephan_2013_NBER|Stephan_2013_NBER]]"
@@ -54,7 +57,7 @@ title: "Argument_Stephan_2013_NBER"
 argument_key: "Argument_Stephan_2013_NBER"
 argument_display_title: "The Endless Frontier: Reaping what Bush Sowed? (NBER Working Paper No. 19687)"
 argument_kind: "report"
-argument_related_count: 17
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -229,7 +232,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 #### 2. 西博格报告与围绕间接费率的政策协商
 
-1960 年底由格伦·西博格（Glenn T. Seaborg）领衔的总统科学顾问委员会发布报告《科学进步、大学与联邦政府》（即西博格报告），系统反映了大学希望联邦增加支持的诉求（pp.15, 17）。
+1960 年底由格伦·西博格（Glenn T. Seaborg）领衔的总统科学顾问委员会发布报告《科学进步、大学与联邦政府》（即《[[Seaborg Report 1960|西博格报告]]》），系统反映了大学希望联邦增加支持的诉求（pp.15, 17）。
 
 > [!policy-context] 西博格报告的政策主张与学术劳动异化预警
 > - **联邦资助专任薪酬** 主张联邦科研经费应当堂正进入大学经常性预算，直接资助新聘专任教师的薪资开支。（p.15）
@@ -259,7 +262,7 @@ issuing_organization: "National Bureau of Economic Research"
 > [!tension-table] 间接成本管理中的联邦规制与大学诉求
 > | 历史阶段与政策节点 | 联邦政府／国会立场 | 大学管理层诉求 | 最终制度化结果 |
 > |---|---|---|---|
-> | **1950 年代至 1960 年代初** | 严格限制间接成本比例，早期将间接费用率限定在直接成本的 15% 甚至更低（pp.14–15） | 强调低费率无法弥补学校的实际科研运营消耗，要求全额补偿间接成本（p.15） | 国会取消硬性法定封顶，改为由大学与联邦审计部门逐校协商独立费率（p.15） |
+> | **1950 年代至 1960 年代初** | 严格限制间接成本比例，早期将间接费用率限定在直接成本的 15% 甚至更低（pp.14–15） | 强调低费率无法弥补学校的实际科研运营消耗，要求全额补偿[[Indirect Costs of Research\|间接成本]]（p.15） | 国会取消硬性法定封顶，改为由大学与联邦审计部门逐校协商独立费率（p.15） |
 > | **1960 年代中后期至 1980 年代** | 试图通过常规财务审计防止大学过度报销一般性行政开支（p.15） | 将基建贷款利息、行政管理与公共后勤成本全面计入间接费用分摊池（p.15） | 间接成本费率持续攀升，部分私立名校费率达到直接成本的 60% 至 80%（p.15） |
 > | **1991 年 OMB 封顶改革** | 联邦管理与预算局出台规定，将行政管理类间接费率硬性限制在 26% 上限（p.23） | 认为封顶政策削减了高校的科研补偿，转而寻求其他经费渠道（pp.23–24） | 大学将间接成本核算转向不受封顶限制的建筑物与设备折旧，刺激了后续的新建大楼热潮（pp.23, 28, 33） |
 
@@ -317,7 +320,7 @@ issuing_organization: "National Bureau of Economic Research"
 在 1980 和 1990 年代，大学自身投入研发的资金增速超过了联邦资助的增速，高校面临激烈的办学成本攀升压力（pp.23–27）。
 
 > [!factors] 驱使大学大幅攀升自筹科研投入的核心动因
-> - **顶尖人才延揽启动包恶性竞价** 为吸引能够斩获联邦大项目的顶尖学者，高校被迫提供高昂启动配套资金（化学助理教授均值达 49 万美元，正教授 118 万美元，医学院正教授高达 500 万美元以上）。（pp.23–24）
+> - **顶尖人才延揽启动包恶性竞价** 为吸引能够斩获联邦大项目的顶尖学者，高校被迫提供高昂[[Academic Start-up Packages|科研启动配套金]]（化学助理教授均值达 49 万美元，正教授 118 万美元，医学院正教授高达 500 万美元以上）。（pp.23–24）
 > - **高精尖前沿仪器开支极为昂贵** 现代前沿实验对大型精密设备的依赖与日俱增，高校需动用大量自筹资金设立跨学科公共实验平台以分摊极度高昂的采购与运维成本。（pp.26–27）
 > - **非资助性间接运营成本长期贴补** 联邦间接成本补偿存在法定封顶与审计核减，高校必须动用捐赠基金收益、学费乃至临床医疗收入持续贴补未被覆盖的科研经常性亏损。（pp.24–25）
 
@@ -443,7 +446,7 @@ NIH 名义预算在 1998 至 2002 年间翻了一番，但这并未带来稳定�
 > [!citation-card] 斯蒂芬论研究型大学的[[Shopping Mall Model of Research Universities|高档商场模型]]
 > 在许多方面，美国的大学已经演变成类似于高档购物中心的存在。它们投身于建造最先进的硬件设施和打造足以吸引优秀学生、杰出教师和资源的声誉。随后，大学通过科研项目中的间接成本提取与教师薪水冲销，把这些设施实质上转租给教师。其中的部分教师处于软钱职位，其本质是自费付费换取在大学工作的机会；一旦未能争取到科研项目资助，他们得不到任何收入保障。为了帮助新教师建立其实验室——即建立他们在商场内的独立商铺——大学会为新入职教师提供启动资金包。（pp.30–31）
 >
-> *In many ways universities in the United States have come to resemble high-end shopping malls. They are in the business of building state-of-the art facilities and a reputation that attracts good students, good faculty, and resources. They turn around and lease the facilities to faculty in the form of indirect costs on grants and the buyout of salary. Some of these faculty are in soft money positions, in essence paying for the opportunity to work at the university, receiving no guarantee of income if they fail to bring in a grant. To help faculty establish their labs—their firm in the mall—universities provide start-up packages for newly hired faculty.*
+> *In many ways universities in the United States have come to resemble high-end shopping malls. They are in the business of building state-of-the art facilities and a reputation that attracts good students, good faculty, and resources. They turn around and lease the facilities to faculty in the form of indirect costs on grants and the buyout of salary. Some of these faculty are in soft money positions, in essence paying for the opportunity to work at the university, receiving no guarantee of income if they fail to bring in a grant. To help faculty establish their labs—their firm in the mall—universities provide [[Academic Start-up Packages|start-up packages]] for newly hired faculty.*
 
 ---
 

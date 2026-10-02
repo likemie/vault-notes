@@ -9,7 +9,7 @@ aliases:
 summary: "研究型大学将专任教师薪酬全部或部分转嫁给外部竞争性科研经费资助的聘任模式，大学免除基础薪酬兜底责任，导致学者深度依附项目资助并推高机构财务脆弱性"
 type: concept
 domain: "higher-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -31,6 +31,7 @@ related_persons:
 related_facts:
   - "[[National Institutes of Health]]"
   - "[[National Science Foundation]]"
+  - "[[Seaborg Report 1960]]"
 related_arguments:
   - "[[Argument_Stephan_2013_NBER]]"
 confidence: high
@@ -77,7 +78,7 @@ updated: 2026-10-02
 > - **薪资买断与外部转嫁** 大学鼓励乃至硬性考核教师在申报外部项目预算时计入自身全职薪酬比例（salary buyout），以此腾挪机构内部日常经费用于校园硬件建设或声誉投资。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 30)]]
 > - **无收入兜底风险** 软钱职位学者实质上处于自费为大学工作的境地；一旦遭遇科研项目资助断档，学校往往不承担任何收入保障义务，直接面临减薪、实验室关闭乃至被解雇。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 30)]]
 > - **单项标书预算规模膨胀** 由于越来越多的学者必须通过项目涵盖自身全额薪资与福利，导致单个标准科研项目（如 [[National Institutes of Health|NIH]] R01）申报预算中的薪酬占比激增，直接推高了联邦项目的平均资助成本（由 1998 年的 24.7 万美元升至 2009 年的 38.8 万美元）。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 28)]]
-> - **二等公民阶层分化风险** 1960 年西博格报告早已预警，若大学依赖软钱招聘而不承诺最终机构兜底，一旦外部资助潮退，这批缺乏安全保障的学者将沦为学术体制内的“二等公民”。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 17)]]
+> - **二等公民阶层分化风险** 1960 年[[Seaborg Report 1960|西博格报告]]早已预警，若大学依赖软钱招聘而不承诺最终机构兜底，一旦外部资助潮退，这批缺乏安全保障的学者将沦为学术体制内的“二等公民”。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 17)]]
 
 > [!logic-map]- 软钱教职模式的恶性激励循环
 > ```mermaid

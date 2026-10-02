@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Academic Capitalism",
-      "path": "wiki/theories/higher-education/Academic Capitalism.md"
-    },
-    {
       "basename": "Argument_Stephan_2013_NBER",
       "path": "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
+    },
+    {
+      "basename": "Seaborg Report 1960",
+      "path": "wiki/facts/us/Seaborg Report 1960.md"
+    },
+    {
+      "basename": "Academic Capitalism",
+      "path": "wiki/theories/higher-education/Academic Capitalism.md"
     },
     {
       "basename": "Pilot Testing",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Mattheou_2009_ScientificParadigm",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md"
-    },
-    {
-      "basename": "Isaac Kandel",
-      "path": "wiki/persons/us/Isaac Kandel.md"
     }
   ],
   "omittedPaths": [],

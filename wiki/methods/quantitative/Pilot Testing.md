@@ -13,9 +13,9 @@ summary: "在正式数据收集前使用少量受试者测试研究材料和程�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 27
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 32
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/procedural
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Unit of Analysis]]"
   - "[[Champ]]"
+  - "[[Epistemology]]"
   - "[[Research Question]]"
   - "[[Reliability]]"
   - "[[Study Population and Sample]]"
@@ -48,14 +49,20 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Rating Scale]]"
   - "[[Item Analysis]]"
+  - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
+  - "[[Argument_Stephan_2013_NBER]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
+related_persons:
+  - "[[Paula Stephan]]"
+related_facts:
+  - "[[National Institutes of Health]]"
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 # Pilot Testing
 
@@ -69,25 +76,23 @@ updated: 2026-09-22
 > | **[[Unit of Analysis\|分析单位]]** | 少量受试者的反馈数据和初步量化结果 |
 > | **输出形式** | 修订后的工具、优化的程序、缩减后的题项列表 |
 
-> [!info]
-> 试点测试（Pilot Testing），亦称实地测试（[[Champ\|field]] testing）或前导测试，是在正式数据收集之前，使用少量受试者对研究材料和程序进行测试的质量控制程序。其目的是在投入全部资源之前发现并修正工具、格式、说明或程序中的问题（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。Oppenheim（1992, p. 48）强调：**[[Questionnaire\|问卷]]上的一切都应经过预测试；没有任何东西应被排除，甚至包括字体或纸张质量**（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al., 2011, Ch20, p. 178]]）。
+> [!def] 核心定义
+> 试点测试（Pilot Testing），在实验与基础研究中亦常称为**预实验（Preliminary Experiments / Pilot Studies）**，在调查中亦称实地测试（[[Champ|field]] Testing）或前导测试，是在正式数据收集或大规模项目立项之前，使用少量受试者或小规模实验样本对研究材料、实验程序与技术路线进行小规模测试的质量控制与可行性验证程序。其目的是在投入全部资源之前发现并修正工具、程序、干预操纵或技术方案中的潜在缺陷（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], Ch8）。Oppenheim（1992, p. 48）强调：**[[Questionnaire|问卷]]上的一切都应经过预测试；没有任何东西应被排除，甚至包括字体或纸张质量**（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al., 2011, Ch20, p. 178]]）。而在同行评审科研资助体系中，预实验数据（Pilot Data）已由单纯的方法学质量控制步骤异化为决定课题能否获得资助的核心前置竞争资本（[[Argument_Stephan_2013_NBER|Stephan, 2013, p. 28]]）。
 
 ---
 
 ## 方法定位
 
-> [!method-position] 预测试在研究设计中的位置
-> | 维度 | 说明 |
-> |---|---|
-> | **研究者角色** | 工具开发者和质量审核者；需在正式施测前完成诊断和修正 |
-> | **有效性标准** | 是否能发现并修正工具和程序中可能导致数据无效的问题 |
-> | **不能回答的问题** | 预测试本身不能回答[[Research Question\|研究问题]]；不能替代正式研究的信效度检验（[[Sample Size Determination\|样本量]]不足） |
-> | **不能推出的结论** | 预测试的Cronbach's α不能作为最终[[Reliability\|信度]]证据；预测试中的积极反馈不能保证正式研究中的成功 |
+> [!method-position] [[Epistemology|认识论]]与方法定位
+> - **研究者角色** 工具开发者、程序诊断者与质量审核者；需在正式施测或大规模立项前完成可行性诊断与程序调优。
+> - **有效性标准** 是否能发现并修正工具、程序与实验操纵中可能导致数据无效或项目夭折的潜在问题。
+> - **不声称回答的问题** 预测试本身不能回答实质性[[Research Question|研究问题]]；不能替代正式研究的最终信效度检验（[[Sample Size Determination|样本量]]不足）；预测试中的可行性与积极反馈不能保证正式实验或调查中的总体成功。
+> - **竞争性资助门槛外溢** 在现代科研资助生态中，预实验数据成为资助评审委员会评估课题风险的核心依据，往往迫使课题组在获得资助前就必须完成大部分实质性探索。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 28)]]
 
 > [!method-stack] 预测试在方法体系中的层级
 > - **研究设计层** [[Survey Research\|调查研究]]、[[Experimental Research\|实验研究]]均将预测试列为质量保证的核心步骤
 > - **数据收集层** 使用与正式研究相同的工具和程序进行小规模试运行
-> - **分析方法层** 信度分析（[[Cronbach's Alpha\|Cronbach's α]]）、共线性诊断、[[Multiple Regression\|多元回归]]、因子分析（第二类预测试）
+> - **分析方法层** [[Reliability|信度]]分析（[[Cronbach's Alpha\|Cronbach's α]]）、共线性诊断、[[Multiple Regression\|多元回归]]、因子分析（第二类预测试）
 > - **辅助技术层** 受试者口头反馈、专家评审、完成时间记录、非预期回应模式分析
 
 ---
@@ -205,12 +210,28 @@ updated: 2026-09-22
 > | **统计缩减的误用** | 第二类预测试中，过度依赖统计指标缩减题项可能丢弃重要的研究领域。人类判断须凌驾于统计分析之上 |
 > | **时间与资源成本** | 预测试需要额外的时间和资源，在时间紧迫的项目中可能被省略，但省略会增加正式研究中出现工具或程序问题的风险 |
 > | **预测试-正式研究差异** | 预测试受试者知道自己是测试对象，其行为可能与正式研究中的受试者不同；预测试中的积极反馈不能保证正式研究中的成功 |
+> | **科研资助中的“避险门槛”异化** | 在国家级竞争性科研资助（如 NIH R01 基金）评审中，预实验数据被评审人作为规避失败风险的硬性考量指标，直接演变为将缺乏前期数据积累的青年学者排斥在外的资助壁垒，同时诱发“预实验做完了才敢申请资助”的保守化科研生态。[[Argument_Stephan_2013_NBER\|(Stephan, 2013, p. 28)]] |
+
+---
+
+## 相关理论与方法
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Questionnaire]] | 数据收集 | 问卷编制必须经过格式与覆盖范围预测试和统计缩减预测试两类质量控制。 |
+> | [[Experimental Research]] | 研究设计 | 实验干预材料与[[Independent Variable\|自变量]]操纵程序必须先经小规模预实验验证其可行性。 |
+> | [[Item Analysis]] | 分析方法 | 测验题目的难度与区分度必须在预测试完成后方能进行实证测算与筛选。 |
+> | [[National Institutes of Health]] | 资助机构 | NIH 同行评审高度依赖预实验数据评估立项可行性，造成初次申请者与资深学者间的竞争壁垒。 |
+> | [[Paula Stephan]] | 人物 | 科学经济学家，实证揭示了科研基金评审过度依赖预实验数据对学术创新的保守化扭曲。 |
 
 ---
 
 ## 使用此方法的研究
 
-> [!example]
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 在第 8 章调查方法计划和实验方法计划的检查清单中均将预测试列为核心组成部分
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al.（2011, Ch20）]] — 详细区分[[Questionnaire\|问卷]]预测试的双重类型：格式与覆盖范围预测试（18 项检查清单）和统计缩减预测试（[[Reliability\|信度]]、共线性、[[Multiple Regression\|多元回归]]、因子分析四种缩减策略）
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al.（2011, Ch24）]] — 在测验编制场景中提出预测试的三种方式（专家组审查、小受试者组反馈、大受试者组），强调对自编测验而言预测试是不可避免的环节
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 在调查与实验方法设计中将预测试列为关键质控步骤。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al. (2011, Ch20)]] — 系统界定[[Questionnaire|问卷]]预测试的双重类型（格式/覆盖范围预测试与统计缩减预测试）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|Cohen et al. (2011, Ch24)]] — 阐明测验编制中预测试对[[Item Analysis|题目分析]]（难度与区分度）的不可替代性。
+> - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 揭示科研同行评审中评审委员会对成熟预实验数据的过度依赖如何诱发学术避险并阻碍初次申请者。
