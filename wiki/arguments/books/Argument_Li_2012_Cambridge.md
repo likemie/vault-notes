@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 156
+argument_related_count: 155
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -52,7 +52,6 @@ related_concepts:
   - "[[Student Attitude]]"
   - "[[Western Learner]]"
   - "[[Chinese Learner]]"
-  - "[[Conatus]]"
   - "[[Metacognition]]"
   - "[[Empiricism]]"
   - "[[Causality]]"
@@ -524,7 +523,7 @@ Li 将西方知识传统分解为四个主题，每个主题不是孤立罗列�
 
 > [!tip]- 罗素的评价
 > Li 引用罗素（Russell）的话来描述这种态度的两个特质(p.33)：
-> 1. **儿童般的天真好奇** "富有想象力的、[[Conatus\|生机]]勃勃的、充满冒险的喜悦"——他们对一切感兴趣：星星、风、海龟、豆子、神、道德
+> 1. **儿童般的天真好奇** "富有想象力的、生机勃勃的、充满冒险的喜悦"——他们对一切感兴趣：星星、风、海龟、豆子、神、道德
 > 2. **静观的科学精神** 他们对世界的思考是"冷静的"（serene），即使以今天的标准看也展现出真正的科学精神——提出假说、相互辩论、有人甚至检验假说
 
 除了认识世界之外，Li 也指出西方传统中另一条清晰的线索：**掌握和利用世界**来为人类需要服务(pp.33-34)。科学知识被用来消除疾病、提高健康、减少饥饿、提高效率、创造财富。但最近两个世纪人类对自然的"前所未有的、无情的"开发，也创造了严重的新问题——核武器、工业污染——这种加速破坏的趋势使得"地球资源将很快耗尽，真正的人造灾难可能随之而来"(p.34)。

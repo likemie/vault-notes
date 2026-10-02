@@ -10,7 +10,7 @@ aliases:
 summary: "由 Martin (2018) 初创、Nikolaidis (2021) 扩展并由 Smith (2026) 操作化推进的教育哲学与社会认识论理论，揭示教育制度安排或技术代劳对未成年人在求知者形成期的认知发展权造成的根本侵害，核心涵盖知识传递阻断、技能实践剥夺与信度认知失真三重检验维度。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 37
+theory_related_count: 36
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Homework]]"
   - "[[Metacognition]]"
   - "[[Scaffolding]]"
-  - "[[Conatus]]"
   - "[[Research Question]]"
   - "[[Cognitive Deskilling]]"
   - "[[Teaching Assistant]]"
@@ -69,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-23
-updated: 2026-09-24
+updated: 2026-10-02
 ---
 
 # Formative Epistemic Injustice
@@ -143,7 +142,7 @@ updated: 2026-09-24
 >
 > **应用实例** 示例：教师在布置议论文任务时，明确界定 AI 仅为非人类的异己智能，要求学生提交包含三代草稿演变、针对 AI 建议的采纳或拒绝理由清单（Showing Steps），将评分重点从最终文本质量转移到学生的批判性反思痕迹。
 
-> [!mechanism-map]- 技术代劳引发成长性认识不正义的发[[Conatus|生机]]制
+> [!mechanism-map]- 技术代劳引发成长性认识不正义的发生机制
 > ```mermaid
 > flowchart LR
 >     AI["生成式 AI 介入读写教学"] --> P1["私厨式代劳：<br>头脑风暴 / 提纲 / 润色"]

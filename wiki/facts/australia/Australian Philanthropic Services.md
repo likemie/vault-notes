@@ -2,7 +2,6 @@
 title: Australian Philanthropic Services
 aliases:
   - 澳大利亚慈善服务社
-  - APS
   - Australian Philanthropic Services Limited
 summary: "澳大利亚社会创投（SVA）于 2012 年设立的全资子公司，全澳规模最大的独立私人辅助基金（PAFs）与结构化慈善信托专业管理平台；由戴维·冈斯基（David Gonski）亲自担任董事长，在澳洲教育政策网络中构成了连接企业免税慈善资本、SVA 风险创投网络与国家教育审查委员会的关键制度纽带。"
 type: fact
@@ -15,7 +14,7 @@ fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: non-profit
-headquarters: "Sydney, Australia"
+headquarters: Sydney, Australia
 established: "2012"
 tags:
   - theme/venture-philanthropy
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Australian Philanthropic Services

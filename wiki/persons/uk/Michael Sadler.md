@@ -8,7 +8,7 @@ summary: "英国比较教育先驱与历史主义学派代表人物，主持教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 55
+person_related_count: 54
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Scholiocentric Approach]]"
   - "[[Unit of Analysis]]"
   - "[[Creativity]]"
-  - "[[Conatus]]"
   - "[[International Education]]"
   - "[[Epistemology]]"
   - "[[Pragmatic Paradigm]]"
@@ -84,7 +83,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: '2026-06-08'
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Michael Sadler
@@ -159,7 +158,7 @@ updated: 2026-10-01
 > - **新自由主义在个人与国家间的中间道路**
 >   萨德勒在政治思想上全面偏离了维多利亚早期的放任个人主义，积极拥抱晚期兴起的新自由主义（New Liberalism）思潮。在教育与社会政策层面，追求积极自由逻辑上必然要求国家介入以改善民生；但他同时高度警惕德国式的全面官僚集权控制，主张坚定探索个人主义与社会主义之间的争鸣地带（That debatable territory between Individualism and Socialism），在守护个人[[Creativity\|创造力]]与强化国家公共文化责任之间达成平衡。[[Argument_Kazamias_2009_ForgottenThemes\|(Sadler, 1898: 95; Kazamias, 2009b: 43)]]
 > - **多维文化生态与无形精神力量[[Ontology\|本体论]]**
->   在 1898 年普鲁士中学报告与 1902 年《德国与其他地区中等教育动荡》中，萨德勒详尽剖析德国工业崛起的根由，指出其教育成就源于数代人的历史劳作积累，唯有立足历史方能洞悉其全貌。他据此对社会环境做出重大哲学开拓：将环境范畴从住宅、饮食与服装等物质条件，深化拓展至道德、智识氛围与深层传统力量；国家教育系统是蕴含内在生命与[[Conatus\|生机]]的活体有机体，决定其实际效能与相貌的正是潜沉在历史地层深处的无形且不可捉摸的精神力量（Intangible, impalpable spiritual forces）。[[Argument_Kazamias_2009_ForgottenThemes\|(Sadler, 1898: 246; 1900/1964: 309–310; 1902: x–xi; Kazamias, 2009b: 44)]]
+>   在 1898 年普鲁士中学报告与 1902 年《德国与其他地区中等教育动荡》中，萨德勒详尽剖析德国工业崛起的根由，指出其教育成就源于数代人的历史劳作积累，唯有立足历史方能洞悉其全貌。他据此对社会环境做出重大哲学开拓：将环境范畴从住宅、饮食与服装等物质条件，深化拓展至道德、智识氛围与深层传统力量；国家教育系统是蕴含内在生命与生机的活体有机体，决定其实际效能与相貌的正是潜沉在历史地层深处的无形且不可捉摸的精神力量（Intangible, impalpable spiritual forces）。[[Argument_Kazamias_2009_ForgottenThemes\|(Sadler, 1898: 246; 1900/1964: 309–310; 1902: x–xi; Kazamias, 2009b: 44)]]
 
 > [!frames-ref] 萨德勒 1900 年牛津演讲确立的文化情境分析六大原则（[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias, 2009a, pp. 141–142]]）
 > 1. **超越“以校为中心”的机械偏狭** 教育绝不能孤立于学校围墙之内，必须将学校置于完整的社会文化与历史脉络中把握。

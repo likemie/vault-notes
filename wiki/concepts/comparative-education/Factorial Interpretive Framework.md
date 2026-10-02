@@ -10,7 +10,7 @@ aliases:
 summary: "20世纪经典比较教育学中由汉斯集大成的核心分析范式，通过自然、宗教与世俗三维恒久力量解释民族国家教育制度的相貌生成与精神特质"
 type: concept
 domain: "comparative-education"
-related_count: 51
+related_count: 50
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Unit of Analysis]]"
   - "[[Reflective Thinking]]"
-  - "[[Conatus]]"
   - "[[Ontology]]"
   - "[[Document]]"
   - "[[Evidence Standards]]"
@@ -80,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Factorial Interpretive Framework
@@ -207,7 +206,7 @@ updated: 2026-10-01
 ### 命题一　国民教育体系由校外深层历史文化力量所决定且表现为国民性格的外在投射
 
 > [!concept-lens] 制度与社会母体共生维度
-> 该命题探讨学校制度与社会母体之间的有机共[[Conatus\|生机]]理，阐明历史学派为何坚决拒斥将学校视为孤立技术机械的浅层制度观。
+> 该命题探讨学校制度与社会母体之间的有机共生机理，阐明历史学派为何坚决拒斥将学校视为孤立技术机械的浅层制度观。
 
 > [!claim] [[Michael Sadler\|Sadler, M.]]
 > **校外深层精神力量对学校体制的支配** 萨德勒强调，学校只是整个民族文化肌体的表层器官，决定其实际运作效能与特色的，是校外深层政治传统、家庭伦理与精神追求；因此，孤立考察课程技术或单纯从外国抄录条文势必引发严重的文化排异，唯有深入探究维系学校的[[Intangible Spiritual Forces\|不可捉摸的精神力量]]，才能真正读懂外国教育并理解本国传统。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 44–45; Sadler, 1900)]]

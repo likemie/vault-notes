@@ -7,10 +7,10 @@ aliases:
   - Creativity, Activity, Service
   - CASS
   - Creative, Aesthetic and Social Service
-summary: "国际文凭预科项目（IB DP）的三项必修核心要素之一，要求学生参与课堂之外的艺术创意、体育活动与社区服务体验，促进全人发展与体验式学习。"
+summary: "国际文凭大学预科项目的核心要素，通过创意表达、身体活动、社区服务与反思，使学科学习与真实责任发生联系。"
 type: concept
 domain: "curriculum"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Extended Essay]]"
   - "[[International Schools]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Concurrency of Learning]]"
   - "[[Epistemology]]"
   - "[[Knowledge Questions]]"
@@ -99,7 +98,7 @@ updated: 2026-10-02
 > 莫希国际学校（International School Moshi）1973 年采用国际文凭。学校没有把 CASS 保留为抽象的课外活动清单，而是按照坦桑尼亚自力更生原则，组织学生参与校内农场、乞力马扎罗基督教医疗中心的维护与支援、当地孤儿到校游泳、道路与桥梁建设，以及乞力马扎罗山步道清理和登山小屋修建。学生乌贾马／社区服务委员会（Students' Ujoma or Community Service Council）负责协调，使中央规定的时间保障进入学校与周边社区的日常互惠关系。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 80–81)]]
 
 > [!finding-cards] 案例显示的实施机制
-> - **国家理念[[Transfer Translation Transformation|转译]]** 学校用“自力更生”重新说明服务的公共意义，使国际课程要求获得本地政治与社会语言。
+> - **国家理念转化** 学校用自力更生重新说明服务的公共意义，使国际课程要求获得本地政治与社会语言。
 > - **机构协作** 医疗中心、孤儿院、道路工程和登山设施提供真实任务，学生不只在校内模拟服务。
 > - **学生治理** 专门学生委员会承担协调，服务由零散个人善举转为可持续的学校组织活动。
 > - **共同框架的边界** 国际文凭办公室规定活动时间和文凭要求，具体项目由地方学校设计；共同性来自最低制度保障，不来自活动内容完全一致。
@@ -110,7 +109,7 @@ updated: 2026-10-02
 > [!contrast-table] 两类早期本地化路径
 > | 维度 | 1973 年莫希国际学校 | 1980 年 Bellaire 高中 |
 > |---|---|---|
-> | **本地问题语言** | 坦桑尼亚“自力更生”与社区互惠 | 美国公立高中的责任、就业准备与学生主动性 |
+> | **本地问题语言** | 坦桑尼亚自力更生与社区互惠 | 美国公立高中的责任、就业准备与学生主动性 |
 > | **主要组织方式** | 学生社区服务委员会连接学校与医疗、孤儿照护和公共工程机构 | 学生自行发起并组织项目，降低教师包办程度 |
 > | **共同制度核心** | 学校保护非学术活动时间，并让学生承担真实任务 | 学校保护非学术活动时间，并让学生承担真实任务 |
 > | **可得结论** | 同一最低要求可以被翻译成国家发展与社区服务实践 | 同一最低要求可以被翻译成学生自治与工作能力训练 |
@@ -118,10 +117,10 @@ updated: 2026-10-02
 > 两案共同说明，CASS 的可迁移部分是时间保障、真实任务和学生责任，而不是一套固定活动清单。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 80–81)]]；[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 157–159)]]
 
 > [!case] 第二个十年把救援扩展为地方需要与日常陪伴
-> 大西洋学院和美国西部书院继续开展海上及山地救援，哥伦比亚和坦桑尼亚学校发展自然保护，城市学校则更多帮助老人、病人和处境不利者。服务价值不只来自身体危险，也来自学生克服与陌生人交往的心理困难，以及受助者能否获得稳定关系。共同要求因此从固定救援模式转向“当地真正需要什么”。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 168–169, 184–185)]]
+> 大西洋学院和美国西部书院继续开展海上及山地救援，哥伦比亚和坦桑尼亚学校发展自然保护，城市学校则更多帮助老人、病人和处境不利者。服务价值不只来自身体危险，也来自学生克服与陌生人交往的心理困难，以及受助者能否获得稳定关系。共同要求因此从固定救援模式转向识别当地真正需要什么。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 168–169, 184–185)]]
 
 > [!tension] 质量保障不能等同于强制计分
-> 学校数量增长使“踢球或看电影是否算 CASS”之类边界问题难以靠个人联络解决。1984–1985 年调查只收到 134 所文凭学校中 54 所回应；北美学生自组织传统、发展中国家对家长主义的担忧及部分国家对学生社会服务的限制又使统一评价困难。彼得森主张加强教师指导和文凭档案，而不以文凭资格强迫每名学生参与或把活动纳入分数体系。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 182–184)]]
+> 学校数量增长使踢球或看电影是否算 CASS 之类边界问题难以靠个人联络解决。1984–1985 年调查只收到 134 所文凭学校中 54 所回应；北美学生自组织传统、发展中国家对家长主义的担忧及部分国家对学生社会服务的限制又使统一评价困难。彼得森主张加强教师指导和文凭档案，而不以文凭资格强迫每名学生参与或把活动纳入分数体系。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 182–184)]]
 
 ---
 
@@ -153,10 +152,10 @@ updated: 2026-10-02
 ### 命题三　核心组件只有共享问题与证据，才能形成并发学习
 
 > [!concept-lens] 跨组件[[Concurrency of Learning|并发学习]]（Concurrency of Learning）
-> 探究 CAS 如何打破自身作为“独立活动”的边界，与 [[Theory of Knowledge\|TOK]] 和 EE 形成[[Epistemology\|认识论]]反思和学术探究的系统联动。
+> 探究 CAS 如何与 [[Theory of Knowledge|TOK]] 和 EE 共享问题、证据和反思，从相互分离的任务转为系统联动。
 
 > [!claim] Metli, A. & Akış, D.
-> **作为认识论现实锚点与实践出口的 CAS** 
+> **作为[[Epistemology|认识论]]现实锚点与实践出口的 CAS** 
 > CAS 提供的实践经验能够直接成为 TOK 中反思的素材，而 TOK 中讨论的伦理判断又能反向激发 CAS 行动。例如，利用 TOK 的核心[[Knowledge Questions\|知识问题]]“你的个人经验如何创造知识”可以极大地深化学生在 CAS 活动中的反思维度。同时，学生的 CAS 社区服务与志愿活动可以直接催生出具有全球视野的 EE [[Research Question\|研究问题]]，并在完成 EE 学术研究后回到 CAS（如发起环保俱乐部倡导活动）中将研究成果落地，从而实现[[Concurrency of Learning\|并发学习]]。[[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, pp. 228–229)]]
 
 ---
@@ -198,7 +197,7 @@ updated: 2026-10-02
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - [[Argument_Peterson_1987_OpenCourt\|Peterson (1987)]] — 追溯 CASS 从“保护非学术学习时间”的最低制度要求（Ch. 3），到莫希[[International Schools\|国际学校]]结合坦桑尼亚自力更生原则形成社区服务（Ch. 4），再到 Bellaire 高中以学生自我组织强调责任和就业准备的本地化路径（Ch. 6）。
+> - [[Argument_Peterson_1987_OpenCourt\|Peterson (1987)]] — 追溯 CASS 从保护非学术学习时间的最低制度要求（Ch. 3），到莫希[[International Schools|国际学校]]结合坦桑尼亚自力更生原则形成社区服务（Ch. 4），再到 Bellaire 高中以学生自我组织强调责任和就业准备的本地化路径（Ch. 6）。
 > - [[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 161–191)]] — 比较救援、自然保护和城市日常照护，分析 CASS 定义、强制参与与跨文化评价的成熟期争议。
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 分析 CAS 在 IB 课程架构中的定位及其与 [[Theory of Knowledge\|TOK]] 的跨领域印证机制。
 > - [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] — 探讨在 [[IB Diploma Programme|IBDP]] 中促进 CAS、TOK 与 EE 之间[[Concurrency of Learning\|并发学习]]的整合策略，主张通过[[Experiential Learning\|经验学习]]将[[Epistemology\|认识论]]思考转化为本地社区服务行动。

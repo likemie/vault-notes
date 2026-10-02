@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 35
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Reliability]]"
   - "[[Source of Knowledge]]"
-  - "[[Conatus]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Areas of Knowledge]]"
   - "[[Scientific Method]]"
@@ -291,7 +290,7 @@ updated: 2026-09-29
 
 > [!challenges] 五项相互依赖的可行性条件
 > 1. **课程与考试必须统一** 1962 年以来各学科小组的方案需要被整合为一套学校能够排课、学生能够完成、大学能够判断的共同制度。
-> 2. **大学承认必须落实到实际录取** 不同国家的重要大学需要明确同意把考试结果作为入学资格，友好表态不足以保护学[[Conatus\|生机]]会。
+> 2. **大学承认必须落实到实际录取** 不同国家的重要大学需要明确同意把考试结果作为入学资格，友好表态不足以保护学生机会。
 > 3. **学校必须承担实施责任** 一组学校需要教授新课程、组织试验考试并接受项目协调，课程文件才能进入真实课堂。
 > 4. **家长必须接受升学风险** 在资格尚未充分承认时，家庭要愿意让子女放弃或减少成熟国家考试准备，参与两年试验。
 > 5. **资金必须覆盖完整学习周期** 学校和学生一旦投入，项目便不能在中途因经费耗尽而倒闭。持续资金是对参与者的制度承诺（p. 24）。

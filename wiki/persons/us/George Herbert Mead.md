@@ -8,7 +8,7 @@ summary: "美国哲学家、社会心理学家与社会学家，实用主义哲�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 31
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Progressive Education]]"
-  - "[[Conatus]]"
   - "[[Reflexivity]]"
   - "[[Positivism]]"
   - "[[Hypothesis]]"
@@ -62,7 +61,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # George Herbert Mead
@@ -100,7 +99,7 @@ updated: 2026-09-22
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1890s–1910s — 社会行为主义与手势沟通阶段（Early Chicago Phase）** 批判华[[Conatus\|生机]]械行为主义，吸纳冯特手势心理学与詹姆斯机能主义，奠定符号互动微观机制。
+> - **1890s–1910s — 社会行为主义与手势沟通阶段（Early Chicago Phase）** 批判华生机械行为主义，吸纳冯特手势心理学与詹姆斯机能主义，奠定符号互动微观机制。
 >   - **代表论著** 《社会意识的发生与意义》（1910）、《社会自我的机制》（1913）。
 >   - **关键概念／方法** 社会行为主义（Social Behaviorism）、姿态对话（Conversation of Gestures）、重要符号（Significant Symbols）。
 >   - **阶段转向** 拒绝排除主观意识的刺激-反应（S-R）教条，主张手势和符号是在社会互动过程中引导彼此适应与激发共同意义的工具。
@@ -126,7 +125,7 @@ updated: 2026-09-22
 > - **符号意义赋予的持续流动性（Continuous Meaning Attribution）** 行动既非心理驱力、性格或人格特质的单向后果，亦非由外部宏观社会结构或既定制度角色机械注定；相反，行动产生于行动者持续不断的意义赋予、权衡、修补与协商过程，时刻处于生成与变动之中。
 > - **社会情境中“扮演他人角色”的行动协调（Role-Taking in Social Context）** 个体在具体社会情境中通过“扮演他人的角色”，向自身做出关于他人潜在反应的内在指示（Self-indications），预判他人在特定情境下的期望，进而协调自身行动并实施[[Thomas Theorem\|情境定义]]（Definition of the Situation）与印象管理（Impression Management）。
 
-> [!feature] 社会自我的发[[Conatus\|生机]]制与内部对话
+> [!feature] 社会自我的发生机制与内部对话
 > 米德从社会行为主义进路阐明了个体自我是如何逐步发育并运转的：
 > - **手势对话与重要符号（Gestures & Significant Symbols）** 动物之间的手势（如狗咬架）仅为本能刺激-反应；而人类发展出的“重要符号”（如语言）能在发出者与接收者内心唤起完全相同的意义理解，使有意识的象征互动成为可能。
 > - **嬉戏与竞赛阶段（Play & Game Stages）** 在儿童发展的嬉戏阶段，儿童只能模仿单一具体的他人角色（如假扮老师或医生）；进入竞赛阶段后，儿童必须同时把握所有参与者的规则与角色协作（如棒球比赛），由此内化了代表整个社会群体规范期望的“概化他人”（Generalized Other）。
@@ -171,7 +170,7 @@ updated: 2026-09-22
 > [!person-network] 关系网络
 > - **师承／思想渊源**
 >   - **[[John Dewey\|约翰·杜威]]（John Dewey）** 密歇根与芝加哥时期的挚友与[[Pragmatic Paradigm\|实用主义]]盟友，共同奠定芝加哥实用主义学派与[[Progressive Education\|进步主义教育运动]]。
->   - **查尔斯·霍顿·库利（Charles Horton Cooley）** 密歇根时期的学术合作者，其“镜中我”（Looking-glass Self）概念启发了米德对自我的社会发[[Conatus\|生机]]制思考。
+>   - **查尔斯·霍顿·库利（Charles Horton Cooley）** 密歇根时期的学术合作者，其“镜中我”（Looking-glass Self）概念启发了米德对自我的社会发生机制思考。
 >   - **威廉·冯特（Wilhelm Wundt）** 德国游学时期的心理学导师，手势概念为其姿态对话与象征沟通理论提供了心理生理学原型。
 > - **学生／继承者**
 >   - **赫伯特·布鲁默（Herbert Blumer）** 弟子，正式铸造并体系化“[[Symbolic Interactionism\|符号互动论]]”[[Paradigm\|范式]]，将米德思想推向全美社会学界。

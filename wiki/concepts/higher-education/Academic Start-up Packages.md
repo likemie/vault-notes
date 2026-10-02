@@ -9,7 +9,7 @@ aliases:
 summary: "研究型大学向新招聘理工科教职人员提供的专属科研启动资金包，用于实验室装修、昂贵科研仪器购置、研究生与博士后津贴及前三年日常运转，是学者在缺乏外部资助时获取预实验数据参与项目竞争的生存期资助工具。"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Shopping Mall Model of Research Universities]]"
   - "[[Indirect Costs of Research]]"
   - "[[Variable]]"
+  - "[[Assemblage]]"
 related_theories: []
 related_methods:
   - "[[Pilot Testing]]"
@@ -37,6 +38,7 @@ related_facts:
   - "[[Department of Energy]]"
 related_arguments:
   - "[[Argument_Stephan_2013_NBER]]"
+  - "[[Argument_Atkinson_2008_TIS]]"
 confidence: high
 status: active
 created: 2026-10-02
@@ -164,3 +166,5 @@ updated: 2026-10-02
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 系统梳理启动配套金在商场模型中的微观功能，揭示其在仪器采购、生师比恶化及学费上涨中的制度传导链条。
+> - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]] — 指出研究型大学为新进青年学者提供实验室[[Assemblage|装配]]启动经费，但后续三年若无法获得外部联邦项目资助则面临离职或退出学术界的严苛淘汰机制。
+

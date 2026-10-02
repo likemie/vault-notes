@@ -4,7 +4,7 @@ title: "Argument_Narayanamurti_2013_IST"
 argument_key: "Argument_Narayanamurti_2013_IST"
 argument_display_title: "RIP: The basic/applied research dichotomy"
 argument_kind: "journal-articles"
-argument_related_count: 26
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#e5e7eb"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Paradigm]]"
   - "[[Use-Inspired Basic Research]]"
-  - "[[Conatus]]"
   - "[[Champ]]"
   - "[[Teaching Assistant]]"
   - "[[Return on Investment]]"
@@ -70,7 +69,7 @@ updated: 2026-10-02
 ## 研究问题
 
 > [!question]
-> 战后美国以布什报告为基础建立的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]，如何通过将理论认知与工程技术人为割裂而妨碍了国家创新政策的制定？应当如何重构科技创新与科研资助的[[Analytic Framework|分析框架]]？
+> 战后美国以[[Science, The Endless Frontier 1945|布什报告]]为基础建立的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]，如何通过将理论认知与工程技术人为割裂而妨碍了国家创新政策的制定？应当如何重构科技创新与科研资助的[[Analytic Framework|分析框架]]？
 
 > [!claim] 核心主张
 > 二战后主导科技政策的[[Linear Model of Innovation|线性创新模型]]违背了技术先于理论的历史规律；科研实践由发现与发明双向流转构成，国家资助应废弃基于立项动机的分类标签，转向支持具备长远公共效用的重大战略探索。（pp. 31–36）
@@ -223,7 +222,7 @@ updated: 2026-10-02
 > - **发明通道** 指知识的积累与创造，其直接产出是能够达成特定目的的新工具、新装置或新工艺流程。
 > - **发现通道** 指创造关于客观世界的全新基础知识与规律事实。（p. 32）
 
-双通道之间的流动并非单向传递，而是存在紧密的相互激发与共[[Conatus|生机]]制。
+双通道之间的流动并非单向传递，而是存在紧密的相互激发与共生机制。
 
 > [!theory-components] 发明与发现的双向因果互动构件
 > - **自主技术组合与工程演进**

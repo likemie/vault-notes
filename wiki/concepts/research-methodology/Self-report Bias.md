@@ -10,7 +10,7 @@ aliases:
 summary: "受访者在自我报告或问卷自陈时，因社会期望、自我美化、记忆衰减或问题理解歧义而导致回答系统性偏离客观真实的测量偏差；在教育循证治理调查中常表现为部委对循证理念的高估与对一线学校实践阻力的掩盖。"
 type: concept
 domain: "research-methodology"
-related_count: 34
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Response Bias]]"
   - "[[Common Method Variance]]"
   - "[[Construct]]"
-  - "[[Conatus]]"
   - "[[Construct Validity]]"
   - "[[Heterogeneity]]"
   - "[[Research Impact]]"
@@ -62,7 +61,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-07-11
-updated: 2026-09-17
+updated: 2026-10-02
 ---
 
 # Self-report Bias
@@ -119,7 +118,7 @@ updated: 2026-09-17
 > - **制度性自利美化效应（Institutional Self-serving Bias）** 在公共治理调查中，自陈回答受组织自卫心理与政绩合法性约束；高级行政官员在填报时倾向于将自身描绘为积极的改革促成者，从而在宏观数据上营造出“制度供给完备”的假象，掩盖基层的制度摩擦。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 77, 80)]]
 > - **数据收集模式与施测情境调节（Mode & Context Effects）** 面对面访谈或电话调查通常比完全匿名的在线自填问卷引发更多的社会期望偏差（Fowler, 2009, p. 75）；施测时的心理情境（如周五课后疲惫时 vs 假期后精力充沛时）也会显著改变自评基线。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|(Cohen et al., 2011d, p. 265)]]
 
-> [!logic-map]- 自报偏差发[[Conatus\|生机]]制与认知过程
+> [!logic-map]- 自报偏差发生机制与认知过程
 > ```mermaid
 > flowchart LR
 >     subgraph Stimulus ["调查刺激输入"]

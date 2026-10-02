@@ -1,6 +1,118 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Atkinson_2008_TIS",
+      "path": "wiki/arguments/journal-articles/Technology in Society/Argument_Atkinson_2008_TIS.md"
+    },
+    {
+      "basename": "Technology Transfer Office",
+      "path": "wiki/concepts/university-industry-collaboration/Technology Transfer Office.md"
+    },
+    {
+      "basename": "Academic Start-up Packages",
+      "path": "wiki/concepts/higher-education/Academic Start-up Packages.md"
+    },
+    {
+      "basename": "Richard C. Atkinson",
+      "path": "wiki/persons/us/Richard C. Atkinson.md"
+    },
+    {
+      "basename": "CNRS",
+      "path": "wiki/facts/france/CNRS.md"
+    },
+    {
+      "basename": "Systems of Innovation",
+      "path": "wiki/theories/university-industry-collaboration/Systems of Innovation.md"
+    },
+    {
+      "basename": "Evaluation Research",
+      "path": "wiki/concepts/educational-policy-reform/Evaluation Research.md"
+    },
+    {
+      "basename": "Bell Labs",
+      "path": "wiki/facts/us/Bell Labs.md"
+    },
+    {
+      "basename": "Knowledge Production",
+      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
+    },
+    {
+      "basename": "Morrill Land-Grant Act of 1862",
+      "path": "wiki/facts/us/Morrill Land-Grant Act of 1862.md"
+    },
+    {
+      "basename": "American Association for the Advancement of Science",
+      "path": "wiki/facts/us/American Association for the Advancement of Science.md"
+    },
+    {
+      "basename": "Australian Philanthropic Services",
+      "path": "wiki/facts/australia/Australian Philanthropic Services.md"
+    },
+    {
+      "basename": "National Science Foundation",
+      "path": "wiki/facts/us/National Science Foundation.md"
+    },
+    {
+      "basename": "Academic Ranking of World Universities",
+      "path": "wiki/facts/china/Academic Ranking of World Universities.md"
+    },
+    {
+      "basename": "Academic Risk Aversion",
+      "path": "wiki/concepts/higher-education/Academic Risk Aversion.md"
+    },
+    {
+      "basename": "University-Industry Collaboration",
+      "path": "wiki/concepts/university-industry-collaboration/University-Industry Collaboration.md"
+    },
+    {
+      "basename": "Bayh-Dole Act of 1980",
+      "path": "wiki/facts/us/Bayh-Dole Act of 1980.md"
+    },
+    {
+      "basename": "Triple Helix",
+      "path": "wiki/theories/university-industry-collaboration/Triple Helix.md"
+    },
+    {
+      "basename": "Historical-Comparative Method",
+      "path": "wiki/methods/qualitative/Historical-Comparative Method.md"
+    },
+    {
+      "basename": "Academic Freedom",
+      "path": "wiki/concepts/higher-education/Academic Freedom.md"
+    },
+    {
+      "basename": "Science, The Endless Frontier 1945",
+      "path": "wiki/facts/us/Science, The Endless Frontier 1945.md"
+    },
+    {
+      "basename": "Conatus",
+      "path": "wiki/concepts/educational-philosophy/Conatus.md"
+    },
+    {
+      "basename": "Intercultural Education",
+      "path": "wiki/concepts/comparative-education/Intercultural Education.md"
+    },
+    {
+      "basename": "Argument_Peterson_1987_OpenCourt_Ch07",
+      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch07.md"
+    },
+    {
+      "basename": "Armand Hammer United World College of the American West",
+      "path": "wiki/facts/us/Armand Hammer United World College of the American West.md"
+    },
+    {
+      "basename": "Epistemology",
+      "path": "wiki/concepts/educational-philosophy/Epistemology.md"
+    },
+    {
+      "basename": "International Baccalaureate North America",
+      "path": "wiki/facts/multi/International Baccalaureate North America.md"
+    },
+    {
+      "basename": "Alec Peterson",
+      "path": "wiki/persons/uk/Alec Peterson.md"
+    },
+    {
       "basename": "Argument_Stephan_2013_NBER",
       "path": "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
     },
@@ -53,16 +165,8 @@
       "path": "wiki/facts/us/National Institutes of Health.md"
     },
     {
-      "basename": "National Science Foundation",
-      "path": "wiki/facts/us/National Science Foundation.md"
-    },
-    {
       "basename": "PhD Overproduction in Science",
       "path": "wiki/concepts/higher-education/PhD Overproduction in Science.md"
-    },
-    {
-      "basename": "Science, The Endless Frontier 1945",
-      "path": "wiki/facts/us/Science, The Endless Frontier 1945.md"
     },
     {
       "basename": "Argument_Ryabyy_2024_Maneto",
@@ -73,24 +177,8 @@
       "path": "wiki/arguments/journal-articles/Issues in Science & Technology/Argument_Narayanamurti_2013_IST.md"
     },
     {
-      "basename": "Bell Labs",
-      "path": "wiki/facts/us/Bell Labs.md"
-    },
-    {
       "basename": "Venkatesh Narayanamurti",
       "path": "wiki/persons/us/Venkatesh Narayanamurti.md"
-    },
-    {
-      "basename": "Alec Peterson",
-      "path": "wiki/persons/uk/Alec Peterson.md"
-    },
-    {
-      "basename": "Argument_Peterson_1987_OpenCourt_Ch07",
-      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch07.md"
-    },
-    {
-      "basename": "Armand Hammer United World College of the American West",
-      "path": "wiki/facts/us/Armand Hammer United World College of the American West.md"
     },
     {
       "basename": "Simon Bolivar United World Institute of Experimental Agriculture",
@@ -111,94 +199,6 @@
     {
       "basename": "Creativity, Action, Service",
       "path": "wiki/concepts/curriculum/Creativity, Action, Service.md"
-    },
-    {
-      "basename": "Extended Essay",
-      "path": "wiki/concepts/curriculum/Extended Essay.md"
-    },
-    {
-      "basename": "Theory of Knowledge",
-      "path": "wiki/concepts/curriculum/Theory of Knowledge.md"
-    },
-    {
-      "basename": "template-argument-edited-volume",
-      "path": "wiki/templates/template-argument-edited-volume.md"
-    },
-    {
-      "basename": "Ways of Knowing",
-      "path": "wiki/concepts/curriculum/Ways of Knowing.md"
-    },
-    {
-      "basename": "Basic-Applied Research Dichotomy",
-      "path": "wiki/concepts/science-policy/Basic-Applied Research Dichotomy.md"
-    },
-    {
-      "basename": "Linear Model of Innovation",
-      "path": "wiki/concepts/university-industry-collaboration/Linear Model of Innovation.md"
-    },
-    {
-      "basename": "Pasteur's Quadrant",
-      "path": "wiki/theories/science-policy/Pasteur's Quadrant.md"
-    },
-    {
-      "basename": "Discovery-Invention Cycle",
-      "path": "wiki/theories/science-policy/Discovery-Invention Cycle.md"
-    },
-    {
-      "basename": "Argument_Manitius_vanHolt_2019_BzS",
-      "path": "wiki/arguments/journal-articles/Beiträge zur Schulentwicklung/Argument_Manitius_vanHolt_2019_BzS.md"
-    },
-    {
-      "basename": "Narayanamurti_2013_IST",
-      "path": "sources/Narayanamurti_2013_IST/Narayanamurti_2013_IST.md"
-    },
-    {
-      "basename": "Argument_Mitter_2009_Europe",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mitter_2009_Europe.md"
-    },
-    {
-      "basename": "Dilution of Comparative Education",
-      "path": "wiki/concepts/comparative-education/Dilution of Comparative Education.md"
-    },
-    {
-      "basename": "template-concept",
-      "path": "wiki/templates/template-concept.md"
-    },
-    {
-      "basename": "European Qualifications Framework",
-      "path": "wiki/facts/eu/European Qualifications Framework.md"
-    },
-    {
-      "basename": "Wolfgang Mitter",
-      "path": "wiki/persons/germany/Wolfgang Mitter.md"
-    },
-    {
-      "basename": "Argument_Kazamias_2009_HistoricalReflections",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md"
-    },
-    {
-      "basename": "Protean Episteme",
-      "path": "wiki/concepts/comparative-education/Protean Episteme.md"
-    },
-    {
-      "basename": "Andreas Kazamias",
-      "path": "wiki/persons/us/Andreas Kazamias.md"
-    },
-    {
-      "basename": "Crane Brinton",
-      "path": "wiki/persons/us/Crane Brinton.md"
-    },
-    {
-      "basename": "Argument_Rust_2009_Reflections",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rust_2009_Reflections.md"
-    },
-    {
-      "basename": "Val D. Rust",
-      "path": "wiki/persons/us/Val D. Rust.md"
-    },
-    {
-      "basename": "Argument_Mattheou_2009_ScientificParadigm",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mattheou_2009_ScientificParadigm.md"
     }
   ],
   "omittedPaths": [],

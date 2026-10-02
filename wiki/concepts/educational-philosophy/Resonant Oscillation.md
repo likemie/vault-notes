@@ -6,7 +6,7 @@ aliases:
 summary: "Cole 提出的一种认知张力状态，描述了在特定课程体系（如IB的知识论课程）中，学生在“高效消化实证知识（向前）”与“解构学科基础假设（向后）”之间产生的来回激荡，这种状态被视为突破性学习发生的关键条件。"
 type: concept
 domain: "educational-philosophy"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,7 +17,6 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Theory of Knowledge]]"
   - "[[Epistemology]]"
-  - "[[Conatus]]"
   - "[[Emergence]]"
   - "[[Champ]]"
   - "[[International Baccalaureate]]"
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-12
-updated: 2026-09-17
+updated: 2026-10-02
 ---
 
 # Resonant Oscillation
@@ -87,7 +86,7 @@ updated: 2026-09-17
 ### 命题一　共振震荡是突破性学习（Breakthrough Learning）的必要发生场域
 
 > [!concept-lens] 学习的非线性本质
-> 简述这类命题围绕认知突破的发[[Conatus\|生机]]制展开。学者倾向于认为，真正的学习不是平滑累加的，而必须经历旧有[[Epistemology\|认识论]]基点的撕裂与震荡。
+> 简述这类命题围绕认知突破的发生机制展开。学者倾向于认为，真正的学习不是平滑累加的，而必须经历旧有[[Epistemology\|认识论]]基点的撕裂与震荡。
 
 > [!claim] Cole, D. R.
 > 突破性的[[Theory of Knowledge\|知识论]]学习不会在平稳的知识灌输中发生，而是当主导教育行为的常规性、纪律性规则被打破，且学生开始对学习活动背后的[[Hypothesis\|假设]]进行建设性质疑时才能[[Emergence\|涌现]]。学生在确定的学科知识与不确定的知识论探究之间的“共振震荡”，迫使他们重新构建其最初的心智探究方式。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 212)]]

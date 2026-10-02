@@ -9,7 +9,7 @@ title: "Argument_Rizvi_2022_Springer"
 argument_key: "Argument_Rizvi_2022_Springer"
 argument_display_title: "Rise of Asia, geopolitical shifts and higher education"
 argument_kind: "book"
-argument_related_count: 37
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Transnational Research Collaboration]]"
   - "[[Growth]]"
   - "[[Necessary and Sufficient Conditions]]"
-  - "[[Conatus]]"
   - "[[International Schools]]"
   - "[[Doxa]]"
   - "[[Knowledge Co-production]]"
@@ -242,7 +241,7 @@ Rizvi 从高等教育过去三十年的深刻变化说起。他列出一系列�
 Rizvi 给出了一个关键数据和一个定性分析洞察：
 
 - 数据：2016 年底全球中产阶级约 32 亿人，新增中产阶级的**绝大多数**在亚洲(Kharas, 2017)(p.96)
-- 定性分析：数据本身不能充分揭示"在亚洲成为中产阶级意味着什么"——在生活方式、人[[Conatus|生机]]会和人生规划的**渴望**层面。海外教育在亚洲中产阶级中排名极高，被视为"资本积累的预设来源"，不仅被假定能改善人生机会，更被当作"社会地位和声望的标志"(Ong, 2006, p.96)
+- 定性分析：数据本身不能充分揭示"在亚洲成为中产阶级意味着什么"——在生活方式、人生机会和人生规划的**渴望**层面。海外教育在亚洲中产阶级中排名极高，被视为"资本积累的预设来源"，不仅被假定能改善人生机会，更被当作"社会地位和声望的标志"(Ong, 2006, p.96)
 - 例证：亚洲各地精英[[International Schools|国际学校]]数量的快速增长——这些学校声称能为学生提供去西方国家读大学的好准备
 - 例证：亚洲各国首都出现了庞大的产业，专门为本地精英学校学生中介到西方大学的流动——这些留学中介往往是潜在学生与海外大学之间的"第一接触点"
 

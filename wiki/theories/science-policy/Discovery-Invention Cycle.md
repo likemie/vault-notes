@@ -6,7 +6,7 @@ aliases:
 summary: "纳拉亚纳穆尔提等人提出的创新过程理论，以发现与发明两类互动循环替代基础/应用研究二分法，强调多时间尺度、非线性的创新网络。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -38,6 +38,7 @@ related_persons:
   - "[[Vannevar Bush]]"
   - "[[Donald Stokes]]"
 related_facts:
+  - "[[Science, The Endless Frontier 1945]]"
   - "[[Bell Labs]]"
   - "[[Department of Energy]]"
 related_arguments:
@@ -70,7 +71,7 @@ updated: 2026-10-02
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 哈佛大学工程与应用科学学院前院长[[Venkatesh Narayanamurti|文卡泰什·纳拉亚纳穆尔提]]、托卢·奥杜莫苏（Tolu Odumosu）与李·文塞尔（Lee Vinsel）于 2013 年在《科学与技术问题》（*Issues in Science and Technology*）上发表《安息吧：[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]》（*RIP: The Basic/[[Evaluation Research|Applied Research]] Dichotomy*），首次完整阐述该理论。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
-> - **原初问题** 战后美国建立在布什报告二分法基础上的科研资助体制，人为割裂了探索新知的科学家与攻坚工程工艺的发明家；能源部、国防部与卫生部等任务导向机构在基础与应用的拉扯中陷入立项合法性危机，高风险、战略性的关键硬件发明缺乏长期公共财政支持。
+> - **原初问题** 战后美国建立在[[Science, The Endless Frontier 1945|布什报告]]二分法基础上的科研资助体制，人为割裂了探索新知的科学家与攻坚工程工艺的发明家；能源部、国防部与卫生部等任务导向机构在基础与应用的拉扯中陷入立项合法性危机，高风险、战略性的关键硬件发明缺乏长期公共财政支持。
 > - **理论资源与材料** 批判性吸收古希腊哲学以降对自然认知（Episteme）与实用手艺（Techne）的文化偏见史；深入考察[[Bell Labs|贝尔实验室]]等世界顶尖工业研究机构跨学科协同的组织实践；以 1956 至 2009 年间信息通信技术领域六项诺贝尔物理学奖演化谱系为核心经验依据。
 > - **形成路径** 作者团队通过详实绘制晶体管、激光器、半导体异质结构、集成电路、电荷耦合器件与光纤通信半个世纪的知识演进史，发现重大科学突破往往建立在先前工程发明提供的极端实验载体之上，据此抽象出“发现”与“发明”对称双向穿梭的循环拓扑结构。
 

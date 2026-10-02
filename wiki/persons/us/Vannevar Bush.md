@@ -122,7 +122,7 @@ updated: 2026-10-02
 > - **理论[[Paradigm|范式]]路径** 其倡导的“基础研究 $\rightarrow$ [[Evaluation Research|应用研究]] $\rightarrow$ 开发制造”单向序列被[[OECD|经合组织]]（OECD）《弗拉斯卡蒂手册》采纳为全球研发统计标准，成为战后主导半个多世纪科技政策的“线性模型”。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统反思并批判布什报告在战后制度化的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]，揭示其深植于西方贬低动手制作的文化偏见，论证该线性[[Hypothesis|假设]]已成为阻碍当代美国国家创新政策演进的体制障碍。
+> - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统反思并批判[[Science, The Endless Frontier 1945|布什报告]]在战后制度化的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]，揭示其深植于西方贬低动手制作的文化偏见，论证该线性[[Hypothesis|假设]]已成为阻碍当代美国国家创新政策演进的体制障碍。
 
 ---
 
@@ -130,7 +130,7 @@ updated: 2026-10-02
 
 > [!person-network] 关系网络
 > - **政治委托人** 富兰克林·罗斯福（Franklin D. Roosevelt）、哈里·杜鲁门（Harry S. Truman） — 报告的委托总统与接收总统。
-> - **战后制度继承与反思者** [[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes） — 1997 年提出[[Pasteur's Quadrant|帕斯德象限]]以打破布什报告的一维滑动轴，但在分类语汇上仍保留了布什的旧术语。
+> - **战后制度继承与反思者** [[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes） — 1997 年提出[[Pasteur's Quadrant|帕斯德象限]]以打破[[Science, The Endless Frontier 1945|布什报告]]的一维滑动轴，但在分类语汇上仍保留了布什的旧术语。
 > - **当代科技创新批判者** [[Venkatesh Narayanamurti|文卡泰什·纳拉亚纳穆尔提]]（Venkatesh Narayanamurti） — 2013 年撰文宣告布什二分法终结，提出[[Discovery-Invention Cycle|发现-发明循环]]理论以取代布什的单向流水线假说。
 > - **高校科研契约反思者** [[Paula Stephan|保拉·斯蒂芬]]（Paula Stephan） — 2013 年系统考察战后大学对布什契约的能动改造与异化，揭示布什关于高风险容错、独立学生奖学金与学科均衡设想的迷失。
 > - **核心关联文本与机构** [[Science, The Endless Frontier 1945]]、[[National Science Foundation|美国国家科学基金会]]（NSF）、[[Bell Labs|贝尔实验室]]。
@@ -142,7 +142,7 @@ updated: 2026-10-02
 > [!debates] 学术争议
 >
 > > [!axis] 线性创新假说的历史失实与体制割裂
-> > 布什报告所奠定的基础研究至上主义是否扭曲了真实的技术演进规律？
+> > [[Science, The Endless Frontier 1945|布什报告]]所奠定的基础研究至上主义是否扭曲了真实的技术演进规律？
 > >
 > > - **科学技术史与政策学者批评** 纳拉亚纳穆尔提等人指出，布什将科学与技术人为割裂为两条平行轨道，忽视了瓦特蒸汽机启发热力学、半导体异质结构发明催生量子物理发现等工程先于理论的历史事实；这种划分强化了轻视工艺制作的文化偏见，导致美国在长周期关键战略硬件制造与先进制造工艺上面临政府不愿投、市场投不起的系统性断裂。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
 > > - **历史语境主义辩护** 科技政策史学家指出，布什在 1945 年提出极端的“纯基础研究免受实用干扰”假定，在当时具有极其紧迫的政治防御意图：旨在阻止战后联邦官僚与军方对大学[[Academic Freedom|学术自由]]的过度管控，为战后美国学术界争取到了历史上空前慷慨且不受政治干预的自由资助空间。

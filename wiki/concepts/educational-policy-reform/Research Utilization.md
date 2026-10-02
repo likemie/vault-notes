@@ -11,7 +11,7 @@ aliases:
 summary: "研究知识进入政策与实践过程的多种路径与机制，涵盖研发、问题解决、互动与战术模型；经历从单向推送、协同生产到系统生态的三代演进，并在当代走向权力共享的证据民主化与长效伙伴关系；在宏观政策生命周期中面临政治过滤，在中观上受治理机制制约，在微观上表现为知觉控制驱动的专业教学整合行为。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 117
+related_count: 116
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -46,7 +46,6 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Research Translation]]"
   - "[[Research-Practice Partnership]]"
-  - "[[Conatus]]"
   - "[[Third Space Discourse]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Problem Finding]]"
@@ -147,7 +146,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-09-26
+updated: 2026-10-02
 ---
 
 # Research Utilization
@@ -239,7 +238,7 @@ updated: 2026-09-26
 
 > [!concept-lens] 当代价值范式重构与元治理生态
 > - **研究利用之科学元治理框架（Science of Using Science）** 研究利用不是依靠良好意愿或常识直觉自发实现的机械过程，而是一门需要专门研究的跨学科科学（Research on Research Use）；[[Knowledge Mobilisation\|知识动员]]与中介机构自身必须构建严密的[[Theory of Change\|变革理论]]，扎根行为科学厘清[[Research Translation\|研究转化]]的微观因果机制，并对最终受益人成效开展独立因果检验。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 146–148, 157–158)]]
-> - **关系驱动型证据利用与反采矿式科研（Relational URE & Anti-extractive Research）** [[Vivian Tseng\|薇薇安·曾]]（Vivian Tseng；[[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022, pp. 219–222]]）提出反思传统学术界把实践一线和弱势社群视作数据采矿场的单向提取模式，主张超越一次性产出交付，依托研究与实践伙伴关系（[[Research-Practice Partnership]]，RPP）建立平等互信、权力共有与长效共[[Conatus\|生机]]制，并通过高校暂停终身教职评审计时钟等制度改革支持跨界协作。
+> - **关系驱动型证据利用与反采矿式科研（Relational URE & Anti-extractive Research）** [[Vivian Tseng\|薇薇安·曾]]（Vivian Tseng；[[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022, pp. 219–222]]）提出反思传统学术界把实践一线和弱势社群视作数据采矿场的单向提取模式，主张超越一次性产出交付，依托研究与实践伙伴关系（[[Research-Practice Partnership]]，RPP）建立平等互信、权力共有与长效共生机制，并通过高校暂停终身教职评审计时钟等制度改革支持跨界协作。
 > - **[[Third Space Discourse\|第三空间话语]]机制（Third-Space Discourse）** 蒂娜·S·普罗伊茨（Tine S. Prøitz；[[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022, pp. 226–228]]）强调在学术研究界、政策制定者与教学实践界之间开辟中介性的第三空间，通过跨界行动者促成超越二元对立的杂合话语，协同平衡学术严谨性、政策紧迫性与实践情境性。
 > - **一线实践者知识主权与工会自主循证（Practitioner Ownership & Union-led Inquiry）** [[John Bangs\|约翰·班斯]]与埃梅谢·K·纳吉（John Bangs & Emese K. Nagy；[[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022, pp. 233–236]]）强调教师绝非外部研究证据的被动消费者，而是证据的协同创造者与所有者；以教育国际（[[Education International]]，EI）和[[National Education Association\|全美教育协会]]（[[National Education]] Association，NEA）为代表的教师专业组织通过开展独立实证研究，赋能一线专业自主权，抵御自上而下自发技术理性的行政[[Disciplina and Doctrina\|规训]]。
 

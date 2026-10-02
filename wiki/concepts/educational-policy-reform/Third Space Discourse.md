@@ -8,7 +8,7 @@ aliases:
 summary: "在教育研究-实践伙伴关系（RPP）与证据治理中，指大学研究者与学校一线实践者在跨界交往中形成的一种超越传统象牙塔学术话语与日常教学经验话语二元对立的杂合型公共沟通体系；该机制明确承认并包容两类群体的专业异质性与价值差异，拒绝单向强行同化，通过平等研讨场域实现协同问题界定、概念情境化重构与循证教学改进。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Reliability]]"
   - "[[Discipline-Based Theory]]"
-  - "[[Conatus]]"
   - "[[Causality]]"
   - "[[Research Question]]"
   - "[[Scientific Literacy]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Third Space Discourse
@@ -128,7 +127,7 @@ updated: 2026-09-22
 ### 命题一　第三空间话语打破单向知识输送与鸿沟隐喻，在承认专业异质性前提下确立平等共生结构
 
 > [!concept-lens] [[Epistemology\|认识论]]基础与隐喻解构
-> 探讨伙伴关系为何必须摒弃“填补知识鸿沟”的赤字话语，转而在包容差异中建立共[[Conatus\|生机]]制。
+> 探讨伙伴关系为何必须摒弃“填补知识鸿沟”的赤字话语，转而在包容差异中建立共生机制。
 
 > [!claim] Prøitz, T. S.
 > **超越鸿沟论** 传统政策界与学术界习惯将研究与实践的脱节视作非此即彼的鸿沟，并预设只要将知识从一端搬运到另一端即可破局。实证表明，大学与学校的思维模式、工作语言和激励导向天然异质，抹平差异的尝试注定失败；第三空间话语的核心在于把[[Heterogeneity\|异质性]]转化为协作资源，唯有通过对等赋权，才能构建起既有学术深度又有实践活力的共创生态。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–218)]]

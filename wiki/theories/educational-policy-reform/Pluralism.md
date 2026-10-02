@@ -14,7 +14,7 @@ aliases:
 summary: "跨越政治学、文化哲学与比较教育学的核心宏观理论。在政治治理层面，主张权力分散于多元竞争的利益集团之间，政策是公开民主博弈与妥协的产物；在比较教育与文化哲学层面，主张文化多元主义（Cultural Pluralism），强调教育深植于多元语言、宗教与地方生态，抗衡世界体系单一普遍主义规训；在学科知识生产层面，主张健康多元主义（Healthy Pluralism），确立实证、批判、后现代等数十种理论视角与混合方法并存共荣的学科合法形态。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 57
+theory_related_count: 56
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Postpositivism]]"
   - "[[Epistemology]]"
-  - "[[Conatus]]"
   - "[[Performance Indicators]]"
   - "[[Positivism]]"
   - "[[Document]]"
@@ -92,7 +91,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Pluralism
@@ -108,7 +107,7 @@ updated: 2026-10-01
 > - **知识位置** 跨越经典政治学（Rousseau, Truman, Dahl）、欧洲比较教育文化历史学（Sadler, Kandel, Hans, Mitter）与当代比较教育学科元研究（Rust, Johnstone, Allaf; Paulston）。
 
 > [!claim] 核心判断
-> 多元主义的核心主张在于：社会与学术的[[Conatus|生机]]源于权力、文化与范式的去中心化共存。在政治治理中，政策合法性源自多元组织化利益集团的平等博弈；在比较教育史中，教育制度深植于不可化约的地方文化传统，构成抵御单一超国家[[Performance Indicators|绩效指标]]治理的天然屏障；在学科知识生产中，当代比较教育学摆脱了[[Positivism|实证主义]]一统天下的正统神话，已进入由20余种互补范式并存、质性与[[Quantitative Research|量化研究]]互鉴的“健康多元主义”（Healthy Pluralism）成熟阶段。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 6)]]; [[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 98–99)]]
+> 多元主义的核心主张在于：社会与学术的生机源于权力、文化与范式的去中心化共存。在政治治理中，政策合法性源自多元组织化利益集团的平等博弈；在比较教育史中，教育制度深植于不可化约的地方文化传统，构成抵御单一超国家[[Performance Indicators|绩效指标]]治理的天然屏障；在学科知识生产中，当代比较教育学摆脱了[[Positivism|实证主义]]一统天下的正统神话，已进入由20余种互补范式并存、质性与[[Quantitative Research|量化研究]]互鉴的“健康多元主义”（Healthy Pluralism）成熟阶段。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 6)]]; [[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94, 98–99)]]
 
 ---
 
@@ -136,7 +135,7 @@ updated: 2026-10-01
 > *Public policy is made through interactions among various constituents as power circulates among policy actors who, at least in theory, can be representative of society at large.*
 
 > [!citation-card] 比较教育学学术演进中的“健康多元主义”（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）
-> 比较教育学并未面临生存危机，也没有失去其学科核心。相反，它展现出一种“健康多元主义”的状态。我们所考察的数十种不同理论视角的存在，不仅证明了该领域的[[Conatus|生机]]与活力，而且表明比较研究不再被某种单一的[[Positivism|实证主义]]正统所绑架。学者们借由多维视角的交叉互鉴，能够对全球纷繁复杂的教育现实形成更深邃的历史与跨文化理解。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]
+> 比较教育学并未面临生存危机，也没有失去其学科核心。相反，它展现出一种“健康多元主义”的状态。我们所考察的数十种不同理论视角的存在，不仅证明了该领域的生机与活力，而且表明比较研究不再被某种单一的[[Positivism|实证主义]]正统所绑架。学者们借由多维视角的交叉互鉴，能够对全球纷繁复杂的教育现实形成更深邃的历史与跨文化理解。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]
 >
 > *Comparative education does not face an existential crisis... Rather, it exhibits a state of healthy pluralism. The existence of these diverse theoretical perspectives demonstrates the vitality of the [[Champ|field]], freeing comparative inquiry from any single positivist orthodoxy.*
 
@@ -175,7 +174,7 @@ updated: 2026-10-01
 > **应用实例** 欧洲各国在推进欧盟一体化教育基准（[[Bologna Process]]）的过程中，德国、法国与北欧国家持续保留了各具特色的[[German Dual Education System|双元制]]职业教育、大学校（Grandes Écoles）及全人综合学校传统，抵御单一量化指标的抹平。
 
 > [!theory-proposition] 命题四｜理论[[Paradigm|范式]]多元共存与方法互补构成学科成熟的“健康多元”态势
-> **解释** 一个学术领域的[[Conatus|生机]]与生命力并不取决于是否确立了排他性的“统一[[Scientific Paradigm|科学范式]]”，而取决于其容纳多元[[Epistemology|认识论]]、[[Theoretical Perspective|理论视角]]与研究方法的能力。比较教育学经历半个世纪的发展，彻底粉碎了20世纪60年代[[Positivism|实证主义]]与[[Structural Functionalism|结构功能主义]]的垄断神话，形成了涵盖马克思主义、[[Postmodernism|后现代主义]]、[[Critical Theory|批判理论]]、女性主义、新制度主义等26种理论视角并存的“健康多元主义”。实证量化与质性阐释并非零和对抗，而是相互补充，为多维解构复杂跨国教育现象提供了最充沛的理论工具库。该命题由[[Val D. Rust|瓦尔·拉斯特]]等学者通过长程计量[[Meta-analysis|元分析]]（Rust et al., 1999, 2009）正式论证。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]
+> **解释** 一个学术领域的生机与生命力并不取决于是否确立了排他性的“统一[[Scientific Paradigm|科学范式]]”，而取决于其容纳多元[[Epistemology|认识论]]、[[Theoretical Perspective|理论视角]]与研究方法的能力。比较教育学经历半个世纪的发展，彻底粉碎了20世纪60年代[[Positivism|实证主义]]与[[Structural Functionalism|结构功能主义]]的垄断神话，形成了涵盖马克思主义、[[Postmodernism|后现代主义]]、[[Critical Theory|批判理论]]、女性主义、新制度主义等26种理论视角并存的“健康多元主义”。实证量化与质性阐释并非零和对抗，而是相互补充，为多维解构复杂跨国教育现象提供了最充沛的理论工具库。该命题由[[Val D. Rust|瓦尔·拉斯特]]等学者通过长程计量[[Meta-analysis|元分析]]（Rust et al., 1999, 2009）正式论证。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]
 >
 > **应用实例** 在当代理论研究中，同一跨国教育改革政策既可被新制度主义学者解读为世界文化剧本的形式同形，亦可被批判学者解构为新自由主义话语霸权，又可被比较历史学者考证为本土文化与外部模式的[[Creativity|创造性]]双向互塑，展现出理论并存的互补释明力。
 
@@ -269,7 +268,7 @@ updated: 2026-10-01
 > > 争论比较教育学应当追求以假说演绎法与量化回归为核心的单一[[Scientific Paradigm|科学范式]]，还是容纳20余种互补[[Paradigm|范式]]并存。
 > >
 > > - **[[Harold Noah|哈罗德·诺亚]]与[[Max Eckstein|马克斯·埃克斯坦]]（Noah & Eckstein, 1969）** 比较教育学必须彻底走向实证科学化，摆脱历史人文描述，建立跨国普适因果法则。
-> > - **[[Val D. Rust|瓦尔·拉斯特]]等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）** 比较教育摆脱单一范式霸权走向“健康多元主义”是学科[[Conatus|生机]]所在，多元视角与[[Mixed Methods Research|混合方法]]提供了最深刻的理解图景。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]
+> > - **[[Val D. Rust|瓦尔·拉斯特]]等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）** 比较教育摆脱单一范式霸权走向“健康多元主义”是学科生机所在，多元视角与[[Mixed Methods Research|混合方法]]提供了最深刻的理解图景。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–123)]]
 
 > [!critique]- 批评索引
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 批判传统多元主义无视文化资本不平等与次政府封闭垄断，提出应转向更具斗争性的[[Critical Pluralism|批判性多元主义]]。

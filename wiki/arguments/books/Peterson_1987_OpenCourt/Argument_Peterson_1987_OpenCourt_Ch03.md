@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch03"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch03"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch03"
 argument_kind: "book-chapter"
-argument_related_count: 34
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -54,7 +54,6 @@ related_concepts:
   - "[[Face Validity]]"
   - "[[Language Skills]]"
   - "[[Praxis]]"
-  - "[[Conatus]]"
 related_theories: []
 related_methods:
   - "[[Multiple-Choice Questions]]"
@@ -378,7 +377,7 @@ EE 的早期调整在学生选择、长期投入和整体课程负担之间重�
 > IBO 把整套证据称为综合评价（examen bilan）。大学中央招生人员可以从六科分布、总分和核心经验判断学生是否具有通识教育与总体成熟度；具体院系则可查看相关高级程度学科，判断学生是否具备生物、化学、古典语言等专业课程所要求的先修准备。这套体系继承欧洲毕业会考以总体成熟度作为认证和选拔基础的功能，又增加特定学科表现，使一个文凭能够服务不同国家与院系的录取逻辑（pp. 56–57）。
 
 > [!boundary]- IBO 提供证据，大学决定如何加权
-> IBO 希望大学重视文凭总分，以承认六学科和核心经验构成的整体教育；部分大学和院系仍主要查看相关高级程度学科。某个国家或大学怎样平衡总体成绩与专业成绩，超出 IBO 的控制范围。综合评价的制度作用是同时提供两类证据，使招[[Conatus\|生机]]构能够读取整体成熟度，也能核查特定学科准备（pp. 56–57）。
+> IBO 希望大学重视文凭总分，以承认六学科和核心经验构成的整体教育；部分大学和院系仍主要查看相关高级程度学科。某个国家或大学怎样平衡总体成绩与专业成绩，超出 IBO 的控制范围。综合评价的制度作用是同时提供两类证据，使招生机构能够读取整体成熟度，也能核查特定学科准备（pp. 56–57）。
 
 > [!dev-timeline]- 从手工试验到可扩展评价体系
 > - **1960 年代后期　按课程目标组合题型** 各学科国际小组围绕效度、可靠性、反拨、成本和速度选择任务。语言 B 的五类证据成为多种题型互补的清晰案例。

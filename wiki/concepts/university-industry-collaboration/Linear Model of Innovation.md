@@ -6,7 +6,7 @@ aliases:
 summary: "一种预设从基础科学到技术开发再到经济增长单向因果链的概念模型；战后主导科技政策资源配置，后因忽视反馈机制、轻视工程发明的前提使能地位而遭受系统性批判"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 27
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,7 +18,6 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Epistemology]]"
-  - "[[Conatus]]"
   - "[[Doxa]]"
   - "[[Theoretical Knowledge]]"
   - "[[Chain-linked Model]]"
@@ -66,7 +65,7 @@ updated: 2026-10-02
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种单向、自上而下、由科学单向推导技术的创新[[Epistemology|认识论假设]]。
 > - **用途** 帮助研究者透视国家科技资助体制如何以“基础”与“应用”的单维划分来组织科研预算，以及揭示其诱导出的政策短视。
-> - **边界** 适用于解释冷战时期大科学工程的组织意识形态；但完全不适合解释现代复杂技术系统的多时间尺度演进与技术向基础科学的反向催[[Conatus|生机]]制。
+> - **边界** 适用于解释冷战时期大科学工程的组织意识形态；但完全不适合解释现代复杂技术系统的多时间尺度演进与技术向基础科学的反向催生机制。
 
 > [!citation-card] 线性创新模型的文化与认知偏见
 > 该模型包含一个[[Doxa|不言自明]]的科学研究（以白大褂科学为象征）对技术开发（以邋遢工程为象征）的主导预设，很快成为工业组织安排创新活动的模板。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 863)]]

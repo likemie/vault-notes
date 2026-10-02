@@ -9,7 +9,7 @@ summary: "美国科学教育与学习科学学者，加州大学洛杉矶分校�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Epistemic Practices]]"
   - "[[Formal Epistemology]]"
   - "[[Epistemology]]"
-  - "[[Conatus]]"
   - "[[Construct]]"
   - "[[Justificatory Standards]]"
   - "[[Hypothesis]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # William A. Sandoval
@@ -72,7 +71,7 @@ updated: 2026-09-22
 > - **代表贡献** 提出并实证检验了[[Scientific Explanation|科学解释]]的四项核心评价标准（相关性、因果叙事、概念框架与适切表征）；系统区分了[[Formal Epistemology|形式认识论]]信念与探究行动中的[[Practical Epistemology|实践认识论]]；开创性提出基于设计研究的“猜想映射”（Conjecture Mapping）方法论。
 
 > [!citation-card] 科学解释作为因果机制叙事的[[Epistemology|认识论]]本质
-> 科学解释本质上是对自然现象发[[Conatus|生机]]制的因果叙事（causal narrative）。优质的科学解释不仅要求主张与证据具备形式关联，更要求明确阐明导致现象发生的因果链条，将孤立的观察嵌入连贯的理论框架之中。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, pp. 635–638)]]
+> 科学解释本质上是对自然现象发生机制的因果叙事（causal narrative）。优质的科学解释不仅要求主张与证据具备形式关联，更要求明确阐明导致现象发生的因果链条，将孤立的观察嵌入连贯的理论框架之中。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, pp. 635–638)]]
 >
 > *Scientific explanations are causal [[Accounts]] of natural phenomena... To understand science means being able to [[Construct]] and evaluate these causal stories against explicit [[Justificatory Standards|epistemic standards]].*
 
@@ -133,7 +132,7 @@ updated: 2026-09-22
 >
 > > [!axis] 因果机制解释 vs. 形式论证结构（CER 框架）
 > > 科学探究教学应以因果机制建构（Sandoval）为主导，还是以主张-证据-推理（CER / Toulmin）论证句法为主导？
-> > - **因果解释派（Sandoval 等）** 强调科学的本质在于揭示因果发[[Conatus|生机]]制，过分追求论证的形式句法往往导致空洞套话。
+> > - **因果解释派（Sandoval 等）** 强调科学的本质在于揭示因果发生机制，过分追求论证的形式句法往往导致空洞套话。
 > > - **论证句法派（McNeill & Krajcik 等）** 认为通用的[[CER Framework|主张-证据-推理框架]]对初学者更具可操作性，便于跨学科迁移。
 
 ---

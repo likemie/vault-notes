@@ -7,7 +7,7 @@ title: "Argument_Torres_2022_BarriersMechanisms"
 argument_key: "Argument_Torres_2022_BarriersMechanisms"
 argument_display_title: "Facilitating research use: Scary barriers (and super mechanisms)"
 argument_kind: "book-chapter"
-argument_related_count: 56
+argument_related_count: 55
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -43,7 +43,6 @@ related_concepts:
   - "[[Document]]"
   - "[[International Education]]"
   - "[[Knowledge Mobilisation]]"
-  - "[[Conatus]]"
   - "[[Research Literacy]]"
   - "[[Research-Practice Gap]]"
   - "[[Research-Policy Gap]]"
@@ -203,7 +202,7 @@ updated: 2026-09-13
 > | **制度重构成本** | 建设周期长，需要耗费巨大的时间成本、资金支持与政治资源 | 灵活便捷，不受科层利益束缚，无显性制度建构门槛 |
 > | **代表性表现** | 法定在职研修制度、专设研读时间、同行评议成果库、绩效激励 | 学者个人社交圈、教师非正式沙龙、偶发性微信或邮件咨询 |
 >
-> Boh (2007) 与 Nutley et al. (2009) 的研究指出，个体机制虽然自由敏捷，但极易随人员流动而瓦解；而组织机制虽然稳固可扩展，但面临高昂的科层重构阻力。现代教育系统治理的挑战在于如何将富有[[Conatus\|生机]]的个体探索制度化为受组织保障的长效机制。（pp. 105–106）
+> Boh (2007) 与 Nutley et al. (2009) 的研究指出，个体机制虽然自由敏捷，但极易随人员流动而瓦解；而组织机制虽然稳固可扩展，但面临高昂的科层重构阻力。现代教育系统治理的挑战在于如何将富有生机的个体探索制度化为受组织保障的长效机制。（pp. 105–106）
 
 #### 2. 信息、互动、个体、组织与文化五维类型学确立双情境分析网格
 

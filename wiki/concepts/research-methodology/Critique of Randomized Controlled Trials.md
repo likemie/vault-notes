@@ -9,7 +9,7 @@ aliases:
 summary: "对随机对照试验（RCT）作为证据本位教育‘黄金标准’的多维度批评体系，涵盖复杂系统认识论悖论、真实学校操作与效度困境，以及政策治理异化与法定单项合格门槛下的合规假象。"
 type: concept
 domain: "research-methodology"
-related_count: 89
+related_count: 88
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -49,7 +49,6 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Unit of Analysis]]"
   - "[[Dependent Variable]]"
-  - "[[Conatus]]"
   - "[[Class Size]]"
   - "[[Tracking]]"
   - "[[Paradigm]]"
@@ -117,7 +116,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-28
+updated: 2026-10-02
 ---
 
 # Critique of Randomized Controlled Trials
@@ -204,7 +203,7 @@ updated: 2026-09-28
 > **教育作为难以完成的科学与本地条件限制** 伯利纳指出教育研究是“难以完成的科学”（hard-to-do-science），因为教育研究者必须处理限制推广的严苛本地条件。学校嵌套在复杂多变的社会关系中，学习过程永远不可能被完全控制，使得药物试验式的组间等价假设在学校中格外脆弱。[[Argument_Møller_2017_EERJ\|(Møller, 2017, p. 379; Berliner, 2002)]]
 
 > [!claim] Berk, R. (2011)
-> **集群[[Random Assignment\|随机化]]与稳定单元处理值假设（[[Stable Unit Treatment Value Assumption\|SUTVA]]）的系统性违背** 当随机分配单位为班级或学校而分析单位为个体时，学生间的互动不可避免地产生主体间干扰，导致稳定单元处理值假设（SUTVA）彻底破裂。在此情况下，单一恒定的因果效应不复存在，且当时尚无有效统计补救方法。此外集群单位数量往往严重不足，无法确保未测量混淆因素的平衡；因果估计若脱离发[[Conatus\|生机]]制，在外部迁移上几乎不具信息价值。[[Argument_Berk_2011_ER\|(Berk, 2011, pp. 194–195)]]
+> **集群[[Random Assignment\|随机化]]与稳定单元处理值假设（[[Stable Unit Treatment Value Assumption\|SUTVA]]）的系统性违背** 当随机分配单位为班级或学校而分析单位为个体时，学生间的互动不可避免地产生主体间干扰，导致稳定单元处理值假设（SUTVA）彻底破裂。在此情况下，单一恒定的因果效应不复存在，且当时尚无有效统计补救方法。此外集群单位数量往往严重不足，无法确保未测量混淆因素的平衡；因果估计若脱离发生机制，在外部迁移上几乎不具信息价值。[[Argument_Berk_2011_ER\|(Berk, 2011, pp. 194–195)]]
 
 > [!claim] Wiliam, D. (2019)
 > **教师质量的未测量变异与随机分配的脆弱性** 教师效能间一个标准差差异可带来约 0.15 SD 的学生成就差异。在[[Class Size\|班级规模]]或[[Tracking\|能力分组]]实验中，若最有效教师被非均衡分配，观察到的“干预效应”极可能只是“教师配置效应”。田纳西 STAR 班级规模实验即证明了随机化在实地的脆弱：家长施压迫使大班学生转入小班，富裕学生在小班过度代表，伴随差异性数据缺失，严重侵蚀[[Internal Validity\|内部效度]]。教育研究只能告诉我们“在测试条件下曾经是什么”，而非“将来可能是什么”。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, pp. 5–9)]]

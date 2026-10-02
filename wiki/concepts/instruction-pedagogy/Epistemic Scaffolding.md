@@ -6,7 +6,7 @@ aliases:
 summary: "教学法与学习科学概念，指通过使学科认识论规范、评价标准与反思路径显性化以引导学习者评估知识、辩护主张并参与学科核心探究实践的教学支持机制。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Epistemological Vigilance]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemic Ideals]]"
-  - "[[Conatus]]"
   - "[[Domain Specificity]]"
   - "[[Variable]]"
   - "[[Growth]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Epistemic Scaffolding
@@ -162,7 +161,7 @@ updated: 2026-09-22
 > [!debates] 学术争议
 >
 > > [!axis] 支架结构化程度与[[Epistemic Agency\|认识主体性]]维持的张力
-> > [[Epistemology\|认识论]]支架如果规定过于细致，可能导致学[[Conatus\|生机]]械执行评价规程而丧失自发的批判灵活性；若过于开放，初学者又难以应对算法输出的隐蔽缺陷。
+> > [[Epistemology\|认识论]]支架如果规定过于细致，可能导致学生机械执行评价规程而丧失自发的批判灵活性；若过于开放，初学者又难以应对算法输出的隐蔽缺陷。
 > >
 > > - **结构化规范立场** 强调初学者需要高度明确的标准与提示语方能抵抗算法表面流畅性。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 4–6)]]
 > > - **自适应动态褪除立场** 主张支架必须随着学生批判意识与领域知识的增长动态弱化，防止造成新的程序化依赖。

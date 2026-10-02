@@ -10,7 +10,7 @@ aliases:
 summary: "Flanders 开发的经典课堂言语互动系统化观察工具，采用 3 秒时间取样将课堂言语行为划分为 10 类，通过矩阵分析评估课堂结构与师生互动模式，亦成为反思实证量化编码忽视情境索引性的经典范例。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 17
+instrument_related_count: 16
 instrument_related_level: 3
 instrument_related_stars: "⭐⭐⭐"
 instrument_related_color: "#cffafe"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Lesson Study]]"
   - "[[Interpretive Paradigm]]"
   - "[[Homework]]"
-  - "[[Conatus]]"
   - "[[Rich and Thick Description]]"
   - "[[Reliability]]"
   - "[[Indexicality]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-25
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Flanders Interaction Analysis Categories
@@ -133,7 +132,7 @@ FIAC 生成的互动数据可通过 10×10 矩阵计算核心教学指标：
 > 罗布·沃克（Rob Walker）与克莱门斯·阿德尔曼（Clem Adelman）记录了英国中学的经典作文课场景（Delamont, 1976；pp. 459–484）：
 > 
 > 课堂上，在男生威尔逊读完一篇敷衍潦草的短文后，教师不悦地责备道：“威尔逊，如果你再不改改毛病、好好做[[Homework\|作业]]，我们迟早得把你送进监狱去。这就是你写的所有东西吗？”
-> 学[[Conatus\|生机]]敏回应：“草莓，草莓！”（全班哄堂大笑）
+> 学生机敏回应：“草莓，草莓！”（全班哄堂大笑）
 > 
 > **FIAC 的量化编码呈现**
 > 现场传统观察员的编码表上机械记录下连续代码串：

@@ -27,6 +27,7 @@ related_concepts:
   - "[[Indirect Costs of Research]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Academic Start-up Packages]]"
+  - "[[Academic Risk Aversion]]"
   - "[[Absorptive Capacity]]"
 related_theories:
   - "[[Academic Capitalism]]"
@@ -44,6 +45,7 @@ related_facts:
   - "[[National Research Council]]"
   - "[[Department of Energy]]"
   - "[[Seaborg Report 1960]]"
+  - "[[National Research Service Award Act of 1974]]"
 related_arguments: []
 sources:
   - "[[sources/Stephan_2013_NBER/Stephan_2013_NBER|Stephan_2013_NBER]]"
@@ -57,7 +59,7 @@ title: "Argument_Stephan_2013_NBER"
 argument_key: "Argument_Stephan_2013_NBER"
 argument_display_title: "The Endless Frontier: Reaping what Bush Sowed? (NBER Working Paper No. 19687)"
 argument_kind: "report"
-argument_related_count: 20
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -154,7 +156,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 为了应对科研能力断层的国家危机，[[Vannevar Bush|万尼瓦尔·布什]]在报告中勾勒了联邦资助的顶层契约，而早期执行机构则积极开展主动动员（pp.4–10）。
 
-> [!policy-design] 布什报告的制度构想与早期联邦机构的主动动员
+> [!policy-design] [[Science, The Endless Frontier 1945|布什报告]]的制度构想与早期联邦机构的主动动员
 > - **政策目标** 由联邦出资支持大学开展高风险、不可预测的纯基础研究，并在自由探索环境中培养科学后备英才。（pp.4–5）
 > - **适用对象与规模** 面向具备研究潜力的大学与学者；建议资助规模相当克制（医学每年 500 万至 2000 万美元，自然科学每年 1000 万至 5000 万美元）。（p.5）
 > - **关键资助机制** 坚持项目研究与人才培养严格分离，主张通过独立的本科、研究生与博士后奖学金资助学者，绝不将奖学金绑定于具体实验项目。（p.5）
@@ -279,7 +281,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 > [!policy-context] 1970 年代联邦研发紧缩与资助[[Structural Adjustment Programs|结构调整]]
 > - **联邦研发增速骤降** 扣除物价通胀因素后，1968 至 1978 年全美大学联邦科研总经费十载仅微增 5%，实际资助进入滞胀期。（p.18）
-> - **独立奖学金急剧削减** 联邦面向青年研究人员的培训项目遭到大规模压缩，NIH 培训岗位缩减近四分之一，NSF 独立奖学金名额腰斩。（p.18）
+> - **独立奖学金急剧削减与国会反制** 联邦面向青年研究人员的培训项目遭到大规模压缩，NIH 培训岗位缩减近四分之一，NSF 独立奖学金名额腰斩；面对尼克松政府彻底取消培训津贴的企图，国会强力反制通过《[[National Research Service Award Act of 1974|1974年国家研究服务奖法案]]》（NRSA），法定保障关键短缺领域的科研培训。（p.18）
 > - **硬科学博士培养回落** 伴随独立资助的大幅缩减，全美物理学博士年产量骤减 60%，数学下降 33%，化学下降 30%。（p.18）
 > - **资助受惠高校持续扩散** 尽管宏观经费停滞，但在国会追求区域平衡的立法诉求下，获得联邦资助的高校数量不减反增，从顶尖名校向更多普通高校分散。（pp.16, 19）
 
@@ -377,11 +379,11 @@ NIH 名义预算在 1998 至 2002 年间翻了一番，但这并未带来稳定�
 
 #### 1. 压力之一：科研选题的避险倾向与对确定性成果的追求
 
-布什最初设想大学能够包容探索失误，是全社会最适合承担高风险基础研究的避风港；但现实中的同行评审机制演变为对方案可行性与确定性产出的严苛筛选（pp.31–32）。
+布什最初设想大学能够包容探索失误，是全社会最适合承担高风险基础研究的避风港；但现实中的同行评审机制演变为对方案可行性与确定性产出的严苛筛选，全面催生了[[Academic Risk Aversion|学术避险主义]]（pp.31–32）。
 
 > [!tension] 纯粹科学探索蓝图与现实同行评审避险逻辑的剧烈冲突
 > - **布什原初蓝图（蓝方）** 大学应享有高度自主与试错宽容，开展高风险、不可预测的纯基础科学探索，哪怕绝大多数项目遭遇失败亦在所不惜。（pp.4–5, 31）
-> - **现实避险生态（红方）** 评审委员会高度看重预实验数据的完备性与技术可行性；软钱制度下教师薪资直接绑定项目胜负，迫使学者普遍退缩至稳妥的增量型课题。（pp.30–32）
+> - **现实避险生态（红方）** 评审委员会高度看重[[Pilot Testing|预实验]]数据的完备性与技术可行性；软钱制度下教师薪资直接绑定项目胜负，迫使学者普遍退缩至稳妥的增量型课题。学术避险倾向直接扼杀了具有变革潜力的前沿突破。（pp.30–32）
 
 诺贝尔奖得主罗杰·科恩伯格（Roger Kornberg）指出，如果申请的工作不能基本确保成功，往往很难获得资助，但最具突破性的探索往往伴随着极大的不确定性（p.31）。
 

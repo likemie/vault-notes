@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten Men, Forgotten Themes: The Historical-philosophical-cultural and Liberal Humanist Motif in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 82
+argument_related_count: 81
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -62,7 +62,6 @@ related_concepts:
   - "[[Intangible Spiritual Forces]]"
   - "[[Creativity]]"
   - "[[Ontology]]"
-  - "[[Conatus]]"
   - "[[Normal School]]"
   - "[[Scientism]]"
   - "[[Independent Variable]]"
@@ -278,7 +277,7 @@ updated: 2026-09-07
 > - **新自由主义在个人与国家间的中间道路**
 >   萨德勒在政治思想上全面偏离了维多利亚早期的放任个人主义，积极拥抱晚期兴起的新自由主义（New Liberalism）思潮。在教育与社会政策层面，追求积极自由逻辑上必然要求国家介入（State interference）以改善民生；但他同时高度警惕德国式的全面官僚集权控制，主张坚定探索个人主义与社会主义之间的争鸣地带（That debatable territory between Individualism and Socialism），在守护个人[[Creativity\|创造力]]与强化国家公共文化责任之间达成精妙平衡。（Sadler, 1898: 95; p.43）
 > - **多维文化生态与[[Intangible Spiritual Forces\|无形精神力量]][[Ontology\|本体论]]**
->   在 1898 年普鲁士中学报告与 1902 年《德国及其他地区中等教育动荡》中，萨德勒详尽剖析德国工业崛起的根由，指出其教育成就源于数代人的历史劳作积累，唯有立足历史方能洞悉其全貌（Sadler, 1898: 246）。他据此对社会环境（Social Environment）做出重大哲学开拓：将环境范畴从住宅、饮食与服装等物质条件，深化拓展至道德、智识氛围与深层传统力量；国家教育系统是蕴含内在生命与[[Conatus\|生机]]的活体有机体，决定其实际效能与相貌的正是潜沉在历史地层深处的[[Intangible Spiritual Forces\|无形精神力量]]（Intangible, impalpable spiritual forces）。（Sadler, 1898: 246; 1900/1964: 309–310; 1902: x–xi; p.44）
+>   在 1898 年普鲁士中学报告与 1902 年《德国及其他地区中等教育动荡》中，萨德勒详尽剖析德国工业崛起的根由，指出其教育成就源于数代人的历史劳作积累，唯有立足历史方能洞悉其全貌（Sadler, 1898: 246）。他据此对社会环境（Social Environment）做出重大哲学开拓：将环境范畴从住宅、饮食与服装等物质条件，深化拓展至道德、智识氛围与深层传统力量；国家教育系统是蕴含内在生命与生机的活体有机体，决定其实际效能与相貌的正是潜沉在历史地层深处的[[Intangible Spiritual Forces\|无形精神力量]]（Intangible, impalpable spiritual forces）。（Sadler, 1898: 246; 1900/1964: 309–310; 1902: x–xi; p.44）
 
 传记学者希金森（J. H. Higginson）指出，萨德勒将比较教育定性为国家制度改革的能动中介（An agency of reform）。自 1880 年代起，萨德勒兼具教育思想家与教育政治家（Educational Statesman）双重身份，深度嵌入晚期维多利亚与爱德华时代的决策智囊网络，将跨国考察转化为推动本土制度重塑的顶层设计蓝图。（pp.44–45）
 

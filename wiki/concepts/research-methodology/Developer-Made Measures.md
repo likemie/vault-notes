@@ -9,7 +9,7 @@ aliases:
 summary: "由教育干预方案的开发者或研究者自行编制且未经独立标准化的结局测验工具；因其题目往往过度对齐干预课程内容而导致学业效应量被人为虚夸 50% 至 100%，在现代循证审查标准（如 WWC 与 Evidence for ESSA）中被强制排除作为确证性因果证据。"
 type: concept
 domain: "research-methodology"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Construct Validity]]"
   - "[[Evaluator Independence]]"
-  - "[[Conatus]]"
   - "[[Replication in Education Research]]"
   - "[[Construct]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -66,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Developer-Made Measures
@@ -109,7 +108,7 @@ updated: 2026-09-22
 
 ## 核心要素
 
-> [!feature] 自编测验偏误的产[[Conatus\|生机]]制与审查规程
+> [!feature] 自编测验偏误的产生机制与审查规程
 > - **内容过度对齐（Overalignment）** 自编测验题目往往直接抽样自实验教材的特定章节或训练例题；对照组学生即便掌握了同等学科能力，也会由于未接触特定词汇或表达形式而在测验中表现劣势。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 10)]]
 > - **[[Effect Size\|效应量]]虚夸（Effect Size Inflation）** 实证[[Meta-analysis\|元分析]]表明，使用开发者或研究者自编测验的研究，其报告的加权效应量通常是独立标准化测验的 1.5 至 2 倍，造成了方案“高度有效”的统计学假象。
 > - **非复现性陷阱（Nonreplication Driver）** 当高效应量方案脱离原开发者团队并在真实学区接受第三方采用独立标准化测试复现时，原有的显著效应往往迅速崩溃甚至归零，成为[[Replication in Education Research\|教育研究复现]]危机的主要推手。

@@ -8,7 +8,7 @@ aliases:
 summary: "由 Zewelanji N. Serpell 提出的政策导航框架，将宏观立法过程解构为问题识别、议程设置、政策制定与政策合法化四个阶段，指导教育研究者把握动态机会窗口并策略性注入实证证据"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 42
+theory_related_count: 41
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Policy Science in Comparative Education]]"
-  - "[[Conatus]]"
   - "[[Policymaking Chronosystem]]"
   - "[[Legislative Policy Brief]]"
   - "[[Problem Finding]]"
@@ -89,7 +88,7 @@ updated: 2026-10-02
 > 政策制定过程具备内在的阶段规律与动态机会窗口；学术研究要对宏观教育政策产生实质影响，研究者必须摒弃纯粹客观中立的旁观者伪装，深刻体察立法机构的突发时间系统与党派价值诉求，在问题识别、议程设置、政策制定及政策合法化四个关键阶段精准匹配不同形态的证据资源，借助国会幕僚与智库中介网络实现法条化传播与长效协同。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 40–46)]]
 
 > [!citation-card] 政策世界的内在秩序与介入时机
-> 从外部通过大众传媒或社交媒体观察美国政策制定过程令人感到困惑，整个政策界看似处于令人恐慌的混乱之中。然而从由外而内的局内人视角来看，这一环境既充满[[Conatus\|生机]]、节奏飞快且时具不可预测性，同时也展现出清晰的内在秩序。联邦政策过程由若干循环阶段组成，在各个阶段都存在研究证据发挥影响力的潜在机会窗口。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 43)]]
+> 从外部通过大众传媒或社交媒体观察美国政策制定过程令人感到困惑，整个政策界看似处于令人恐慌的混乱之中。然而从由外而内的局内人视角来看，这一环境既充满生机、节奏飞快且时具不可预测性，同时也展现出清晰的内在秩序。联邦政策过程由若干循环阶段组成，在各个阶段都存在研究证据发挥影响力的潜在机会窗口。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 43)]]
 >
 > *The view of the American policymaking process from the outside—through public and social media—is disconcerting and, the policy world as a whole can appear alarmingly chaotic. From an "outsider-inside" vantage point, the environment appears as it actually is—dynamic and fast-paced and sometimes unpredictable, but also orderly... inherent in the federal process are important windows of opportunity for educational researchers to make their work count.*
 

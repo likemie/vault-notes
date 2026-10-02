@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育学源流中考证教育思想、制度与实践跨国界、跨时空流动与相互塑形的实证探究传统，借鉴比较文学方法，为前建制期功利性描述与现代政策借用确立认识论合法性。"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Normal School]]"
   - "[[Going Native]]"
-  - "[[Conatus]]"
   - "[[Variable]]"
   - "[[Document]]"
 related_theories:
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Influences Across Cultures
@@ -202,7 +201,7 @@ updated: 2026-10-01
 > - **1830s–1850s — 先驱实地考察与制度奠基阶段** 法国学者[[Victor Cousin|维克多·库森]]考察普鲁士初等教育并在英美广泛翻译流传；[[Calvin Stowe|卡尔文·斯托]]、[[Horace Mann|霍勒斯·曼]]与[[Henry Barnard|亨利·巴纳德]]等先驱亲赴欧洲开展实地考察，以“恶政良教可分”为由奠定美国公立公学（[[Common School Movement|Common School]]）与[[Normal School|师范学校]]（Normal School）基础。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 124–125)]]
 > - **1940s–1960s — 思想辐射与跨国双向考据阶段** [[Friedrich Schneider|弗里德里希·施奈德]]（Schneider, 1943）流亡中系统考证德国教育在海外的跨国影响；[[W. H. G. Armytage|哈里·阿米蒂奇]]（Harry Armytage）出版四卷本详述美、法、德、俄对英国教育变革的浸润，形成跨文化影响的历史考证高潮。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 126)]]
 > - **1960s–1980s — 战后[[Scientism|科学主义]]霸权下的贬抑边缘化** 诺亚与埃克斯坦（Noah & Eckstein, 1969）倡导实证量化与假说检验，将19世纪的跨文化借用与历史描述贬斥为“缺乏严密科学性、业余游记性质且充满主观赞美”的前建制形态，跨文化影响[[Paradigm|范式]]在主流期刊中边缘化。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121, 123)]]
-> - **1990s 至今 — 学科遗产重估与[[Policy Borrowing|政策借用]]理论繁荣** 拉斯特等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）公开为早期跨文化影响研究平反，确认其作为学科核心遗产的独特价值；同时，该传统与当代政策借用理论（Phillips & Ochs 四阶段模型）、本土[[Transfer Translation Transformation|转译]]理论（Steiner-Khamsi）深度融合，重新成为比较教育学最具[[Conatus|生机]]的领域之一。
+> - **1990s 至今 — 学科遗产重估与[[Policy Borrowing|政策借用]]理论繁荣** 拉斯特等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）公开为早期跨文化影响研究平反，确认其作为学科核心遗产的独特价值；同时，该传统与当代政策借用理论（Phillips & Ochs 四阶段模型）、本土[[Transfer Translation Transformation|转译]]理论（Steiner-Khamsi）深度融合，重新成为比较教育学最具生机的领域之一。
 
 ---
 

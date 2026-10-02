@@ -6,7 +6,7 @@ aliases:
 summary: "Beech 基于 Castells 网络社会理论提出的概念，指全球教育场场域中多元行动者通过跨国网络协作与竞争、生产并倡导教育政策方案的空间，其话语兼具稳定性与可塑性且抽离于地方历史经验"
 type: concept
 domain: "comparative-education"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Floating Signifier]]"
-  - "[[Conatus]]"
   - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Network Society]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-09-17
+updated: 2026-10-02
 ---
 
 # Global Policy Space
@@ -116,7 +115,7 @@ updated: 2026-09-17
 > 例如，“尊重多样性”本是草根社会运动对抗国家大叙事的政治武器。然而，在全球教育政策空间中被去历史化、去政治化后，它被拉美地方教师曲解为“尊重贫困”（即由于学生家庭贫困，从而降低学术标准和教学期望，默许并顺应既有的社会分层），异化为政府和多边机构推卸公共教育质量责任的工具。
 
 > [!exegesis]- 运行机制解读三：不兼容声明的“政治黏合剂”角色
-> 不一致是全球话语的“内[[Conatus\|生机]]制”而非起草过程的失误。它在跨国政治中扮演了“政治黏合剂”角色。通过将相互冲突的声明并置（如名义上提倡“跨学科整合”，但在操作明细中保留完全没变的“刚性分科”），使利益和主张完全相反的冲突群体（如激进改革派学者与传统派分科官僚）都能对同一份政策文件投出赞成票，最终达成政治共识。
+> 不一致是全球话语的“内生机制”而非起草过程的失误。它在跨国政治中扮演了“政治黏合剂”角色。通过将相互冲突的声明并置（如名义上提倡“跨学科整合”，但在操作明细中保留完全没变的“刚性分科”），使利益和主张完全相反的冲突群体（如激进改革派学者与传统派分科官僚）都能对同一份政策文件投出赞成票，最终达成政治共识。
 
 ---
 

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 126
+argument_related_count: 125
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -92,7 +92,6 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Research Problem]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Conatus]]"
   - "[[Going Native]]"
   - "[[Artefact]]"
   - "[[Metacognition]]"
@@ -873,7 +872,7 @@ updated: 2026-09-09
 >     - **1. 摒弃宏大叙事** 彻底消解任何企图涵盖一切的元叙事与普适性行为法则。
 >     - **2. 历史感消解与当下自指** 聚焦当下正在发生的意义建构，警惕历史决定论。
 >     - **3. 视知识为社会建构物** 否定外在于人类实践的“纯粹客观知识”，强调认知的协商性。
->     - **4. 解构权威与警惕权力[[Disciplina and Doctrina\|规训]]** 关注知识与权力共[[Conatus\|生机]]制，打破研究者特权话语，追求研究的解放潜能。
+>     - **4. 解构权威与警惕权力[[Disciplina and Doctrina\|规训]]** 关注知识与权力共生机制，打破研究者特权话语，追求研究的解放潜能。
 > - **微观情境、浅表与时空嵌入**
 >     - **5. 凸显[[Going Native\|本土化]]与微观情境** 坚信知识生产深深依附于特定的地方性脉络，拒绝去情境化法则。
 >     - **6. 时空情境性** 意义深深扎根于具体时空、文化与社会网络，不存在跨时空的抽象规律。

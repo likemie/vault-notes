@@ -8,7 +8,7 @@ aliases:
 summary: "指以自觉的战略性与发展性取向，在全校教职工中系统培育证据知情实践与文化的组织形态；其判定标准不仅在于具体决策是否参考研究，更在于学校在组织层面是否具备使用证据的意图、意愿与能力，并建立起支撑反思性探究的制度化生态。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 38
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -22,7 +22,6 @@ tags:
   - region/uk
 related_concepts:
   - "[[Evidence-Informed Practice]]"
-  - "[[Conatus]]"
   - "[[Reflexivity]]"
   - "[[Unit of Analysis]]"
   - "[[School Leadership]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Research-Engaged School
@@ -78,7 +77,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 研究参与学校（Research-Engaged School）指那些“以自觉的战略性、发展性取向，在全体教职工中系统培育[[Evidence-Informed Practice\|证据知情实践]]与文化”的学校组织形态。这一界定并不要求学校将每一个微观管理或教学决策都机械建立在学术证据之上（Godfrey, 2014a, 2014b），而是要求学校在组织制度层面具备调用证据的**意图（intent）**、**意愿（willingness）**与**能力（capacity）**，并在日常工作中将证据转化为持续专业学习与教学改进的内[[Conatus\|生机]]制。在教育[[Quality Use of Research Evidence Framework\|研究证据质量使用框架]]（[[Quality Use of Research Evidence Framework\|QURE]]）中，研究参与学校被进一步确立为承载组织使能三大构件（榜样领导力、[[Reflexivity\|反思性]][[Organizational Culture\|组织文化]]、制度化基础架构）的微观实践基石，推动学校从“外部证据的机械被动消费者”跃升为“立足适切证据与审慎实施的自适应学习生态”。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 117–118)]]；[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 134, 143–144)]]
+> 研究参与学校（Research-Engaged School）指那些“以自觉的战略性、发展性取向，在全体教职工中系统培育[[Evidence-Informed Practice\|证据知情实践]]与文化”的学校组织形态。这一界定并不要求学校将每一个微观管理或教学决策都机械建立在学术证据之上（Godfrey, 2014a, 2014b），而是要求学校在组织制度层面具备调用证据的**意图（intent）**、**意愿（willingness）**与**能力（capacity）**，并在日常工作中将证据转化为持续专业学习与教学改进的内生机制。在教育[[Quality Use of Research Evidence Framework\|研究证据质量使用框架]]（[[Quality Use of Research Evidence Framework\|QURE]]）中，研究参与学校被进一步确立为承载组织使能三大构件（榜样领导力、[[Reflexivity\|反思性]][[Organizational Culture\|组织文化]]、制度化基础架构）的微观实践基石，推动学校从“外部证据的机械被动消费者”跃升为“立足适切证据与审慎实施的自适应学习生态”。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 117–118)]]；[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 134, 143–144)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 描述的不是个别教师的孤立科研行为或单次决策，而是一所学校在组织架构、领导方式、教研文化与工时保障上形成的、可持续支持证据知情探究的整体制度生态。

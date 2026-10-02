@@ -9,7 +9,7 @@ aliases:
 summary: "指认识主体因过度依赖外部自动化认知工具或生成式人工智能系统，导致自身内生认知能力与程序性智力技能发生退化、萎缩或无法正常形成的现象。"
 type: concept
 domain: "educational-technology"
-related_count: 33
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Cognitive Offloading]]"
   - "[[Epistemic Practices]]"
-  - "[[Conatus]]"
   - "[[Creative Deskilling]]"
   - "[[Creativity]]"
   - "[[Dialogue in Education]]"
@@ -62,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-09-24
+updated: 2026-10-02
 ---
 
 # Cognitive Deskilling
@@ -85,7 +84,7 @@ updated: 2026-09-24
 > *While education aims to teach students intellectual skills, relying on generative AI is deskilling them. Skills require practice, and if we don’t practise them, we lose them. Like muscles, if we do not keep manifesting our skills, we will lose them.*
 
 > [!citation-card] 读写教育中的私厨代劳与技能萎缩
-> 将生成式人工智能在人文学科中比作计算器是根本错误的。计算器仅卸载机械性算术，数学推理的核心理解仍由学生掌握；而 AI 在构思、提纲与修改全流程代笔，更契合替雇主做饭的私厨。雇主哪怕天天享用盛宴，十年过去依然不会做饭；学生若长期依赖 AI 代笔，将彻底丧失面对空白构思、将思想线性化以及基于自我评估修正观点的[[Epistemic Practices|认知实践]]机会，陷入严重的内[[Conatus|生机]]能去技能化。[[Argument_Smith_2026_SPE\|(Smith, 2026, pp. 1–3)]]
+> 将生成式人工智能在人文学科中比作计算器是根本错误的。计算器仅卸载机械性算术，数学推理的核心理解仍由学生掌握；而 AI 在构思、提纲与修改全流程代笔，更契合替雇主做饭的私厨。雇主哪怕天天享用盛宴，十年过去依然不会做饭；学生若长期依赖 AI 代笔，将彻底丧失面对空白构思、将思想线性化以及基于自我评估修正观点的[[Epistemic Practices|认知实践]]机会，陷入严重的内生机能去技能化。[[Argument_Smith_2026_SPE\|(Smith, 2026, pp. 1–3)]]
 >
 > *Generative AI is not like a calculator in math class; it is like a personal chef who cooks for you... A personal chef produces the meal, leaving the individual entirely without cooking skills. Allowing students to offload writing to AI deprives them of the cognitive practice necessary to develop core intellectual capabilities.*
 
@@ -138,7 +137,7 @@ updated: 2026-09-24
 ### 命题二　将人工智能从答案提供者重构为提问型脚手架是防范去技能化的核心策略
 
 > [!concept-lens] 交互逻辑逆转与认知主动性的保护
-> 该命题关注 AI 工具设计层面的系统性解决方案：通过改变人机交互的根本逻辑——以追问替代给答案——在保留 AI 教育优势的同时阻断去技能化的发[[Conatus|生机]]制。
+> 该命题关注 AI 工具设计层面的系统性解决方案：通过改变人机交互的根本逻辑——以追问替代给答案——在保留 AI 教育优势的同时阻断去技能化的发生机制。
 
 > [!claim] Naeem, H.
 > **提问型导师通过拦截答案迫使学习者维持认知主动性** 克服认知去技能化的关键不在于简单禁用人工智能，而在于重塑其交互逻辑。通过将大语言模型配置为提问型导师（Question-Tutor, Q-Tutor），系统内置直接答案拦截规则，强制以层层递进的启发追问和[[Socratic Dialogue|苏格拉底式对话]]替代直接回答，迫使学生持续调动自身内在认知资源构思问题并连接前序知识。这一逆向交互架构将 AI 的角色从知识传递者彻底转变为认知挣扎的催化者，在保留学生主体性的同时实现对去技能化的有效防御。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 274–278)]]

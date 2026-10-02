@@ -9,7 +9,7 @@ aliases:
 summary: "安德烈亚斯·卡扎米亚斯用希腊神话普罗透斯隐喻界定的比较教育学认识论特征，指学科在两百余年演进中因应不同时代的认识论、方法论与意识形态风尚而持续变换形态与论述代际"
 type: concept
 domain: "comparative-education"
-related_count: 57
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Comparative Pedagogy]]"
   - "[[Theoretical Standpoint]]"
-  - "[[Conatus]]"
   - "[[Causality]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Operationalization]]"
@@ -84,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Protean Episteme
@@ -227,7 +226,7 @@ updated: 2026-10-01
 > [!debates] 学术争议
 >
 > > [!axis] 多元适应活力 vs 学科内核消解
-> > 争论焦点在于比较教育学的普罗透斯特质究竟是学科包容开放的[[Conatus|生机]]标志，还是缺乏统一知识硬核的学术软弱。
+> > 争论焦点在于比较教育学的普罗透斯特质究竟是学科包容开放的生机标志，还是缺乏统一知识硬核的学术软弱。
 > >
 > > - **实证统一派学者** 批评学科过于轻易迎合各时代的思想潮流与意识形态，导致学科边界模糊脆弱，缺乏如经济学、心理学那般严整的公理系统与累积性知识硬核。
 > > - **历史人文与批判学者** 辩护指出教育深嵌于复杂的人性发展与社会政治结构之中，追求物理学式的单一教条[[Paradigm|范式]]纯属虚妄，唯有保持普罗透斯式的敏感性与多元适应力，学科才能如实把握生动的教育世界。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 139–140)]]

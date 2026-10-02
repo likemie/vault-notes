@@ -8,7 +8,7 @@ aliases:
 summary: "一种将教育系统视为复杂适应系统的新兴研究范式，以非线性和整体论取代简单的线性因果模型，强调反馈、涌现、连接性和自组织等核心概念"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 59
+theory_related_count: 58
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -42,7 +42,6 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Champ]]"
-  - "[[Conatus]]"
   - "[[Rich and Thick Description]]"
   - "[[External Validity]]"
   - "[[Heterogeneity]]"
@@ -84,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Complexity Theory
@@ -216,7 +215,7 @@ updated: 2026-10-01
 ## 理论立场与使用方式
 
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
-> - **[[Ontology\|本体论]]** 实在是动态演进、持续[[Emergence\|涌现]]且高度网络化的关系[[Champ\|场域]]；学校不是一台由离散零件拼装而成的机器，而是一个充满[[Conatus\|生机]]与不确定性的生态系统。
+> - **[[Ontology\|本体论]]** 实在是动态演进、持续[[Emergence\|涌现]]且高度网络化的关系[[Champ\|场域]]；学校不是一台由离散零件拼装而成的机器，而是一个充满生机与不确定性的生态系统。
 > - **[[Epistemology\|认识论]]** 知者与被知者不可分割，观察者本身即为被观察网络中的节点；真理不在于发现永恒不变的普遍因果铁律，而在于理解情境动力学、关键转折点与自组织潜能。
 > - **方法论含义** 拒绝以封闭实验室逻辑剪裁开放系统，倡导多方法、纵向历时追踪、系统动力学与生态[[Network Analysis\|网络分析]]。
 > - **推论边界** 复杂性理论否定的是**简单线性因果模型**，而非因果探究本身；它呼唤更具情境敏感性、注重网络因果与共演化机制的深层因果理解。

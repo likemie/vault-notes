@@ -10,9 +10,9 @@ title: "Argument_Peterson_1987_OpenCourt_Ch04"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch04"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 45
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 44
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 publication_place: "La Salle, IL"
@@ -50,7 +50,6 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Language Skills]]"
   - "[[Criterion-Referenced Test]]"
-  - "[[Conatus]]"
   - "[[Causality]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Creativity, Action, Service]]"
@@ -415,7 +414,7 @@ updated: '2026-09-12'
 > [!warrant]- 通过率为何不能直接与国家考试比较
 > - **参照体系不同** IB 完整文凭采用[[Criterion-Referenced Test\|标准参照]]，目标是判断考生是否达到既定的大学入学最低要求；它不是先依据当年考生分布决定通过比例的常模参照考试。因此，较高通过率不能直接解释为标准较低或学生相对排名较高。
 > - **“通过”的制度含义不同** 彼得森把 IB 的通过线界定为大学入学的绝对最低水平。通过只表示取得基本资格，不表示考生在所有申请者中具有竞争优势，也不保证进入特定大学。
-> - **候选人选择不同** 完整文凭群体长期以联合世界书院学生为重要组成部分；这些学生入学时已被判断有能力完成课程。开放入学的哈默史密斯与西伦敦继续教育学院通过率则一直显著低于总体，说明招[[Conatus\|生机]]制会改变总体比例。
+> - **候选人选择不同** 完整文凭群体长期以联合世界书院学生为重要组成部分；这些学生入学时已被判断有能力完成课程。开放入学的哈默史密斯与西伦敦继续教育学院通过率则一直显著低于总体，说明招生机制会改变总体比例。
 > - **比较资格内部也不一致** 1970 年法国中学毕业会考（baccalauréat）不同分支的通过率从 55.5% 到 74.4% 不等；所谓“国家考试通过率”本身并非单一、同质基准。
 > - **考试用途不同** 单科证书主要服务免修或个人学习，完整文凭才承担总体资格功能。把两类考生合并，会同时混入不同选择机制和成功标准。
 > - **可支持的判断有限** IB 后期约 75%–80% 的通过率与持续大学承认相结合，可以说明标准没有妨碍资格继续使用；它不能单独证明 IB 课程比 GCE A-level 或法国中学毕业会考更有效（pp. 67–68）。

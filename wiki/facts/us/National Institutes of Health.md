@@ -49,8 +49,8 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
-  - "[[Department of Energy]]"
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[Department of Energy]]"
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
   - "[[Argument_Stephan_2013_NBER]]"
@@ -126,7 +126,7 @@ updated: 2026-10-02
 > - **国民健康与预期寿命成效** 推动美国心血管疾病死亡率降低超 70%，癌症 5 年生存率从 1970 年代的 50% 提升至近 70%。
 
 > [!finding-cards] 关键成效与政策辐射
-> - **确立使命导向型科研资助标准** 通过将疾病终结作为明确使命，NIH 证明了基础生物学认知与救人治病的实用目标完全能够合二为一，从实践层面瓦解了布什报告的教条二分法。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
+> - **确立使命导向型科研资助标准** 通过将疾病终结作为明确使命，NIH 证明了基础生物学认知与救人治病的实用目标完全能够合二为一，从实践层面瓦解了[[Science, The Endless Frontier 1945|布什报告]]的教条二分法。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
 > - **孕育全球现代生物医药产业生态** 美国波士顿、[[San Francisco Bay Area|旧金山湾区]]等生物科技集群的繁荣，其底层分子靶点发现与实验平台工具几乎全部脱胎于 NIH 的长期公共研发资助。
 
 > [!stat-cards]- 核心规模数据

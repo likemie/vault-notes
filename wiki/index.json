@@ -2983,8 +2983,7 @@
     "path": "wiki/concepts/educational-philosophy/Conatus.md",
     "aliases": [
       "欲力",
-      "自我保存的努力",
-      "生机"
+      "自我保存的努力"
     ]
   },
   {
@@ -4368,8 +4367,6 @@
     "path": "wiki/concepts/educational-policy-reform/Evaluation Research.md",
     "aliases": [
       "评估研究",
-      "Applied Research",
-      "应用研究",
       "Evaluative Research",
       "评价研究"
     ]
@@ -6263,6 +6260,18 @@
       "学术寡头制",
       "professional oligarchy",
       "专业寡头"
+    ]
+  },
+  {
+    "title": "Academic Risk Aversion",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Academic Risk Aversion.md",
+    "aliases": [
+      "学术避险主义",
+      "科研避险倾向",
+      "科研风险厌恶",
+      "Risk Aversion in Science",
+      "科学研究避险机制"
     ]
   },
   {
@@ -21773,6 +21782,17 @@
     ]
   },
   {
+    "title": "Richard C. Atkinson",
+    "type": "person",
+    "path": "wiki/persons/us/Richard C. Atkinson.md",
+    "aliases": [
+      "理查德·C·阿特金森",
+      "Richard Atkinson",
+      "理查德·阿特金森",
+      "Atkinson, R. C."
+    ]
+  },
+  {
     "title": "Richard E. Mayer",
     "type": "person",
     "path": "wiki/persons/us/Richard E. Mayer.md",
@@ -22182,7 +22202,6 @@
     "path": "wiki/facts/australia/Australian Philanthropic Services.md",
     "aliases": [
       "澳大利亚慈善服务社",
-      "APS",
       "Australian Philanthropic Services Limited"
     ]
   },
@@ -26537,17 +26556,6 @@
     ]
   },
   {
-    "title": "Bayh-Dole Act of 1980",
-    "type": "fact",
-    "path": "wiki/facts/us/Bayh-Dole Act of 1980.md",
-    "aliases": [
-      "Bayh-Dole Act",
-      "拜杜法案",
-      "Bayh-Dole",
-      "Patent and Trademark Law Amendments Act"
-    ]
-  },
-  {
     "title": "Blueprints for Healthy Youth Development",
     "type": "fact",
     "path": "wiki/facts/us/Blueprints for Healthy Youth Development.md",
@@ -26860,7 +26868,8 @@
       "Science, The Endless Frontier",
       "Bush report",
       "Vannevar Bush report",
-      "无尽的前沿"
+      "无尽的前沿",
+      "布什报告"
     ]
   },
   {
@@ -27506,6 +27515,17 @@
     ]
   },
   {
+    "title": "Bayh-Dole Act of 1980",
+    "type": "fact",
+    "path": "wiki/facts/us/Bayh-Dole Act of 1980.md",
+    "aliases": [
+      "Bayh-Dole Act",
+      "拜杜法案",
+      "Bayh-Dole",
+      "Patent and Trademark Law Amendments Act"
+    ]
+  },
+  {
     "title": "CHIPS and Science Act",
     "type": "fact",
     "path": "wiki/facts/us/CHIPS and Science Act.md",
@@ -27657,6 +27677,18 @@
       "Barnard's National Education in Europe",
       "National Education: Systems, Institutions and Statistics of Public Instruction in Different Countries",
       "National Education in Europe: Being an Account of the Organization, Administration, Instruction, and Statistics of Public Schools"
+    ]
+  },
+  {
+    "title": "National Research Service Award Act of 1974",
+    "type": "fact",
+    "path": "wiki/facts/us/National Research Service Award Act of 1974.md",
+    "aliases": [
+      "1974年国家研究服务奖法案",
+      "NRSA Act of 1974",
+      "NRSA",
+      "National Research Service Award",
+      "国家研究服务奖"
     ]
   },
   {
@@ -29708,6 +29740,11 @@
     "title": "Argument_Caraca_2009_TFSC",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Technological Forecasting and Social Change/Argument_Caraca_2009_TFSC.md"
+  },
+  {
+    "title": "Argument_Atkinson_2008_TIS",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Technology in Society/Argument_Atkinson_2008_TIS.md"
   },
   {
     "title": "Argument_Cohen_2025_JTT",

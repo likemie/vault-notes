@@ -10,10 +10,10 @@ aliases:
 summary: "使用外部物理或数字工具执行原本由内部心智承担的认知加工，兼具释放工作记忆以赋能高阶探究与诱发捷径学习、导致思维惰性及元认知外包的深层双刃剑效应。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 50
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_count: 49
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/cognitive-load
   - theme/artificial-intelligence
@@ -56,7 +56,6 @@ related_concepts:
   - "[[Illusion of Competence]]"
   - "[[Variable]]"
   - "[[Concept Mapping]]"
-  - "[[Conatus]]"
 related_theories:
   - "[[Theory of Mind]]"
   - "[[Extended Mind Theory]]"
@@ -78,7 +77,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-31
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Cognitive Offloading
@@ -297,7 +296,7 @@ updated: 2026-09-22
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出人机共生学习伙伴关系模型，系统阐释绝对主义、相对主义与评价主义[[Epistemic Stances\|认识立场]]对认知卸载的调节分流机制，揭示表面顺从的发[[Conatus\|生机]]理并构建技术提示与教学法双轨干预支架。
+> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出人机共生学习伙伴关系模型，系统阐释绝对主义、相对主义与评价主义[[Epistemic Stances\|认识立场]]对认知卸载的调节分流机制，揭示表面顺从的发生机理并构建技术提示与教学法双轨干预支架。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项实证研究，解构[[Generative Artificial Intelligence\|生成式人工智能]]介入下认知卸载的两种截然相反路径：在无支架任务中引发认知惰性与批判思维外包；在结构化支架下释放认知负荷赋能高阶探究。
 > - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 从社会[[Epistemology\|认识论]]与延展心智视角界定认知卸载与[[Epistemic Dependence\|认识依赖]]的边界，揭示无摩擦委派如何压缩检索、比对与综合等中间认识动作，进而侵蚀[[Evaluative Judgement\|评价性判断]]与能力迁移。
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 基于 29 项实验与准实验的一阶[[Meta-analysis\|元分析]]，实证揭示干预时长呈现的倒 U 型效能衰减规律（$>16$ 周回落至 $0.372$），并量化证实[[Self-Regulated Learning\|自主调节学习]]能力（SRL）对抵御知识外包与捷径式学习的关键免疫中和功能（组间检验 $p < 0.001$）。

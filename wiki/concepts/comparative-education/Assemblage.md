@@ -11,7 +11,7 @@ aliases:
 summary: "行动者网络理论与后结构主义哲学的核心概念，指异质性的人类与非人类行动者（符号、文本、技术、法律与耐用客体）在动态关联中临时聚合形成的社会-物质网络。它打破结构先验论与本质主义，强调关系物质性、耐用材料的秩序化策略、转译过程与黑箱化，并在断裂与重构中展现权力的生成性。"
 type: concept
 domain: "comparative-education"
-related_count: 48
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Rescaling]]"
   - "[[Center of Calculation]]"
   - "[[Data Infrastructure]]"
-  - "[[Conatus]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Philanthrocapitalism]]"
@@ -77,7 +76,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Assemblage
@@ -187,7 +186,7 @@ updated: 2026-09-22
 
 ### 命题五　权力是异质网络隐蔽运作的装配效应，国家通过制度拼装与慈善资本共生
 
-> [!concept-lens] 隐蔽装配效应与国家-资本共[[Conatus\|生机]]制
+> [!concept-lens] 隐蔽装配效应与国家-资本共生机制
 > 探讨权力如何摆脱传统单一主权实体的宏观压制模型，作为异质行动者网络持续调配与制度特许的隐蔽效果而生成。
 
 > [!claim] Rowe, E.

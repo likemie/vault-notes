@@ -7,7 +7,7 @@ aliases:
 summary: "源自拉丁语更好之意且以改善社会与人类境况为根本导向的探究旨趣，是贯穿19世纪比较与国际教育发端的统治性认识论母题"
 type: concept
 domain: "comparative-education"
-related_count: 71
+related_count: 70
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Hypothesis]]"
   - "[[Falsification]]"
-  - "[[Conatus]]"
   - "[[Intangible Spiritual Forces]]"
   - "[[Enlightenment]]"
   - "[[Scholiocentric Approach]]"
@@ -97,7 +96,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # Educational Meliorism
@@ -177,7 +176,7 @@ updated: 2026-10-01
 > - **现实改进作为先验[[Epistemology\|认识论]]目的（Inquiry with the Objective of Improvement）**
 >   将探究的根本正当性建立在救治现实缺陷之上，坚信人类社会具有可改进性；拒绝脱离社会苦难的纯智力游戏，求知天然承载着增进人类福祉的道德使命。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 33–34)]]
 > - **双重实践路径分化（Dual Structural Pathways）**
->   在大西洋两岸具体制度情境下发[[Conatus\|生机]]制分流：欧陆表现为以[[Victor Cousin\|库森]]为代表的“行政制度移植与机制转置（transposition）模式”，直接推动国家法典化；北美表现为以[[Horace Mann\|霍勒斯·曼]]为代表的“政治动员与合法化依据（legitimating rationales）模式”，借域外实绩击溃本土反对派。（pp. 28–30, 33–34）
+>   在大西洋两岸具体制度情境下发生机制分流：欧陆表现为以[[Victor Cousin\|库森]]为代表的“行政制度移植与机制转置（transposition）模式”，直接推动国家法典化；北美表现为以[[Horace Mann\|霍勒斯·曼]]为代表的“政治动员与合法化依据（legitimating rationales）模式”，借域外实绩击溃本土反对派。（pp. 28–30, 33–34）
 > - **事实经验求真与崇高伦理规范的深度共生（Fact-VALUE Synthesis）**
 >   经验事实的客观搜集与分类图表编制，从属于服务全人道德[[Bildung\|教化]]、理性预防流血革命与维系国际和平的启蒙伦理规范，形成经验分类服务于精神道德的有机统一。（pp. 16–22, 34）
 > - **应对现代性危机（Crisis of Modernity）的国家整合诉求**

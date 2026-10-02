@@ -3,7 +3,6 @@ title: Conatus
 aliases:
   - 欲力
   - 自我保存的努力
-  - 生机
 summary: "斯宾诺莎主义哲学中的核心概念，指个体维持与保存自我存在的努力与挣扎；在教育中被阐发为指向主体内在情感与潜意识的学习驱动力。"
 type: concept
 domain: "educational-philosophy"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Conatus

@@ -7,7 +7,7 @@ title: "Argument_Rust_2009_Reflections"
 argument_key: "Argument_Rust_2009_Reflections"
 argument_display_title: "Reflections on the Development of Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 121
+argument_related_count: 120
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -87,7 +87,6 @@ related_concepts:
   - "[[Structural Adjustment Programs]]"
   - "[[Performance Indicators]]"
   - "[[Praxis]]"
-  - "[[Conatus]]"
   - "[[Unit of Analysis]]"
 related_theories:
   - "[[Structural Functionalism]]"
@@ -554,7 +553,7 @@ updated: 2026-10-01
 > *if the Prussian schoolmaster could teach reading, writing, geography, and arithmetic in half the time that was required in America, then surely they could “copy his modes of teaching these elements, without adopting his notions of passive obedience to government.”*
 
 > [!citation-card] [[Val D. Rust|瓦尔·拉斯特]]论[[Discipline-Based Theory|学科理论]][[Pluralism|多元主义]]并非失控碎片化
-> 在我们看来，比较教育学科正在走向多元主义，而非陷入碎片化；这种多元性当被视为学科的[[Conatus|生机]]与优势，标志着学科打破了 1950 年代至 1960 年代初在理论与方法上窒息探索的教条正统。任何迅疾发展的领域固然都潜藏着失控失序的风险……但这绝非学科当下的现实；我们坚信，比较教育是一个健康且边界明确的学术探索领域。（p.132）
+> 在我们看来，比较教育学科正在走向多元主义，而非陷入碎片化；这种多元性当被视为学科的生机与优势，标志着学科打破了 1950 年代至 1960 年代初在理论与方法上窒息探索的教条正统。任何迅疾发展的领域固然都潜藏着失控失序的风险……但这绝非学科当下的现实；我们坚信，比较教育是一个健康且边界明确的学术探索领域。（p.132）
 >
 > *From our vantage point we see the [[Champ|field]] becoming pluralistic rather than fragmented, and that pluralism can be seen as a strength in that it indicates a break from the stifling orthodoxy, that characterized the field in the 1950s and early 1960s, both theoretically and methodologically. However, any phenomenon that gyrates has the potential of spinning out of control... This is certainly not yet the case; we see comparative education as a healthy, defined field of endeavor.*
 

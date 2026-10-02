@@ -80,9 +80,9 @@ updated: 2026-10-02
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1954–1957** 马来亚的多族群工作经验促使其思考教育如何消解民族偏见，回到英国后在多佛学院开设小规模的“国际高中阶段”，并于 1957 年在布鲁日[[International Education\|国际教育]]会议结识[[Kurt Hahn\|库尔特·哈恩]]（Kurt Hahn）。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 1–2)]]
+> - **1954–1957** 马来亚的多族群工作经验促使其思考教育如何消解民族偏见，回到英国后在多佛学院开设小规模的国际高中阶段，并于 1957 年在布鲁日[[International Education\|国际教育]]会议结识[[Kurt Hahn\|库尔特·哈恩]]（Kurt Hahn）。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 1–2)]]
 > - **1961–1962** 参与大西洋学院筹备，与罗伯特·布莱克本设计学术课程，尝试在英国高级程度考试之外维持语言、社会研究、科学和艺术的课程广度。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 7–13)]]
-> - **1966–1967** 在[[International Schools Examination Syndicate\|国际学校考试辛迪加]]陷入人员、财务与组织危机时投入近一年全职领导；与哈兰·“哈波”·汉森借助牛津大学和美国大学理事会的承诺，促成福特基金 300,000 美元资助，并把课程、考试、试验学校、家庭风险、持续资金和大学承认整合为同一可行性计划。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 23–24)]]
+> - **1966–1967** 在[[International Schools Examination Syndicate\|国际学校考试辛迪加]]陷入人员、财务与组织危机时投入近一年全职领导；与哈兰·哈波·汉森借助牛津大学和美国大学理事会的承诺，促成福特基金 300,000 美元资助，并把课程、考试、试验学校、家庭风险、持续资金和大学承认整合为同一可行性计划。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 23–24)]]
 > - **1968–1977** 担任[[International Baccalaureate\|国际文凭]]组织首任总干事，以牛津、日内瓦和英国考试团队之间的兼职／巡回领导方式推进六年试验。他负责大学联络、筹资、学校访问与行政分权，并在 1973 年离开牛津后于哈默史密斯与西伦敦[[Further Education\|继续教育]]学院教授[[Theory of Knowledge\|知识论]]，直接接触开放入学的 IB 学生。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 66–69, 78–80, 86–92)]]
 > - **1977–1978** 1977 年卸任总干事，由[[Gerard Renaud\|杰拉德·雷诺]]（Gerard Renaud）接任；随后仍以 IBO 理事会副主席身份参与部分谈判，显示他从日常执行转向治理支持。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 166, 178)]]
 > - **1978–1980** 七十岁时接任 [[United World Colleges|UWC]] 国际董事会主席，事先将任期限定为两年，并把寻找可持续的继任者作为主要任务。1980 年由汤姆·西蒙斯（[[Theory of Mind|ToM]] Symons）接任。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 172)]]

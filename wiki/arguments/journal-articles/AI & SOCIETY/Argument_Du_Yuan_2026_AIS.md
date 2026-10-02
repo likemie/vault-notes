@@ -51,7 +51,6 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Metacognition]]"
   - "[[Concept Mapping]]"
-  - "[[Conatus]]"
   - "[[Evidence Standards]]"
   - "[[Value Neutrality]]"
   - "[[Scientific Uncertainty]]"
@@ -106,7 +105,7 @@ title: "Argument_Du_Yuan_2026_AIS"
 argument_key: "Argument_Du_Yuan_2026_AIS"
 argument_display_title: "Epistemic dependence in AI-mediated learning"
 argument_kind: "journal-article"
-argument_related_count: 69
+argument_related_count: 68
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -306,7 +305,7 @@ issuing_organization: ""
 
 > [!example] 高校统一部署平台引发认识规范同质化与个体免责落空
 > - **制度背景** 某大型公立大学为了提升毕业率与科研产出，统一向全校采购了商业化 AI 辅助套件，并将其内嵌在学生提交毕业设计和日常课程作业的学习管理系统（Learning Management System, LMS）中。系统设置了 AI 润色通过率，学生提交前的润色达标指标成为能否获得导师审阅的前提。
-> - **认识不正义的发[[Conatus\|生机]]制** 该商业模型的训练语料库主要由西方主导学术期刊和主流标准英语构成。几位来自原住民社区与少数族裔背景的研究生，在提交涉及本土传统生态知识、具有口头叙事传统修辞的论文时，系统反复判定其逻辑不合学术规范或句法冗余，并强制改写为标准英美学术套话，彻底抹杀了其独有的知识范式与文化认同（[[Argument_Smith_2026_SPE|Smith, 2026]]; Kay et al., 2024）。
+> - **认识不正义的发生机制** 该商业模型的训练语料库主要由西方主导学术期刊和主流标准英语构成。几位来自原住民社区与少数族裔背景的研究生，在提交涉及本土传统生态知识、具有口头叙事传统修辞的论文时，系统反复判定其逻辑不合学术规范或句法冗余，并强制改写为标准英美学术套话，彻底抹杀了其独有的知识范式与文化认同（[[Argument_Smith_2026_SPE|Smith, 2026]]; Kay et al., 2024）。
 > - **责任倒错与学术脆弱性** 更为致命的是，当某篇改写后的作业被查出包含虚构的历史引文时，校方学术道德委员会援引学生签署的使用自负其责承诺书，给予该生留校察看处分；而对于该算法系统在采购时未经偏倚审查、系统运行日志不公开且不可审计等机构失职，校方与供应商均未承担任何连带责任。这不仅压制了认识多样性，更摧毁了学生作为独立求知者的主体尊严。
 
 ---

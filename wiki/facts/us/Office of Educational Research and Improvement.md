@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Document]]"
   - "[[Evidence-Based Education]]"
-  - "[[Conatus]]"
 related_theories: []
 related_methods:
   - "[[External Auditor]]"
@@ -135,7 +134,7 @@ updated: 2026-10-02
 > [!entry-map] 机构关联网络
 > - **前身与后继机构** [[Institute of Education Sciences]]（后继独立科学机构，于 2002 年取代 OERI）。
 > - **立法与改组依据** [[Education Sciences Reform Act 2002]]（废除 OERI 并创立 IES 的联邦成文法案）；[[No Child Left Behind Act 2001]]（强化实证证据要求的联邦服务法案）。
-> - **下设与衍[[Conatus|生机]]构** [[What Works Clearinghouse]]（由 OERI 于 2002 年出资 1850 万美元创设的证据清算旗舰）。
+> - **下设与衍生机构** [[What Works Clearinghouse]]（由 OERI 于 2002 年出资 1850 万美元创设的证据清算旗舰）。
 > - **关键治理与咨询主体** [[National Research Council]]（受托研制 SRE 报告的学术权威机构）；[[House Committee on Education and the Workforce]]（发起 OERI 重组审查与听证的国会委员会）。
 > - **相关人物** [[Richard J. Shavelson]]（主持起草 SRE 科学原则报告的委员会主席）。
 > - **关键论证** [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne (2003)]]（考证 OERI 重新授权与 WWC 初创期规程演进）；[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]]（回顾 OERI 时代向 IES 独立治理转型的历史制度背景）。

@@ -8,10 +8,10 @@ summary: "澳大利亚前麦格理银行银行家、社会创投（SVA）创会�
 type: person
 nationality: "australia"
 person_region: "australia"
-person_related_count: 24
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 23
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1960"
 died: ""
 lifespan: "1960–至今"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Deductible Gift Recipient]]"
   - "[[Evidence-Based Education]]"
   - "[[Return on Investment]]"
-  - "[[Conatus]]"
   - "[[Policy Network]]"
   - "[[Document]]"
   - "[[Technical Rationality]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-09-22
+updated: 2026-10-02
 ---
 
 # Michael Traill
@@ -92,7 +91,7 @@ updated: 2026-09-22
 
 > [!work-line] 主要著作
 > - **2014 — *Investing in Social Change*** 系统阐释以资本投资取代无偿赠款的[[Venture Philanthropy\|风险慈善]]理念，论证社会效益测度与[[Return on Investment\|投资回报率]]（[[Return on Investment\|ROI]]）对公共部门效能提升的必要性。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, p. 526)]]
-> - **2016 — *Jumping Ship: From the World of Corporate Australia to the Heart of [[Social Impact Investing\|Social Investment]]*** 记录从麦格理银行投行家向全澳顶级风险慈善枢纽操盘手的角色转换；详细剖析 [[Social Ventures Australia\|SVA]] 多层控股法人设计、跨国募款网络、闭门政策协商及政商精英共[[Conatus\|生机]]制，成为教育政策社会学解构澳大利亚异层治理与[[Policy Network\|政策网络]]的第一手核心[[Document\|文献]]。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520, 526, 533)]]
+> - **2016 — *Jumping Ship: From the World of Corporate Australia to the Heart of [[Social Impact Investing\|Social Investment]]*** 记录从麦格理银行投行家向全澳顶级风险慈善枢纽操盘手的角色转换；详细剖析 [[Social Ventures Australia\|SVA]] 多层控股法人设计、跨国募款网络、闭门政策协商及政商精英共生机制，成为教育政策社会学解构澳大利亚异层治理与[[Policy Network\|政策网络]]的第一手核心[[Document\|文献]]。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520, 526, 533)]]
 
 ---
 

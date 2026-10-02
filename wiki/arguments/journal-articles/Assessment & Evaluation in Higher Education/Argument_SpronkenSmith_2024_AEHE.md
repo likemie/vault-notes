@@ -11,7 +11,7 @@ title: "Argument_SpronkenSmith_2024_AEHE"
 argument_key: "Argument_SpronkenSmith_2024_AEHE"
 argument_display_title: "Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Employability]]"
   - "[[Outcomes-based Education]]"
-  - "[[Conatus]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Disciplinary Socialization]]"
   - "[[Hypothesis]]"
@@ -156,7 +155,7 @@ updated: 2026-09-16
 ### 学科文化的隔离效应：以团队合作与沟通能力为例
 
 > [!line-a] 剖析协作与沟通能力薄弱的学科机制
-> 访谈文本深入揭示了这五大薄弱领域的发[[Conatus\|生机]]制。在团队合作方面，科学学科的实验室环境虽然天然提供了协作机会，但学生仍普遍感到缺乏正式的团队冲突管理培训；而在人文与社会科学学科中，以独立研究为主的学科规范使学生几乎完全没有团队协作的机会，从而加剧了沟通与团队技能的缺失（p. 95）。在沟通方面，博士期间的训练偏重学术共同体内的书面和口头表达，当毕业生需要向非学术受众阐释其研究时，面临严重的语言“不可及性”和[[Transfer Translation Transformation\|转译]]技能匮乏（p. 96）。
+> 访谈文本深入揭示了这五大薄弱领域的发生机制。在团队合作方面，科学学科的实验室环境虽然天然提供了协作机会，但学生仍普遍感到缺乏正式的团队冲突管理培训；而在人文与社会科学学科中，以独立研究为主的学科规范使学生几乎完全没有团队协作的机会，从而加剧了沟通与团队技能的缺失（p. 95）。在沟通方面，博士期间的训练偏重学术共同体内的书面和口头表达，当毕业生需要向非学术受众阐释其研究时，面临严重的语言“不可及性”和[[Transfer Translation Transformation\|转译]]技能匮乏（p. 96）。
 > 
 > > [!contrast-table] 学科协作与沟通模式对比
 > > | 学科领域 | 团队合作特征 | 沟通技能短板 |

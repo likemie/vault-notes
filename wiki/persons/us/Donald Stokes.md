@@ -41,9 +41,9 @@ related_persons:
   - "[[Vannevar Bush]]"
   - "[[Venkatesh Narayanamurti]]"
 related_facts:
+  - "[[Science, The Endless Frontier 1945]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[Brookings Institution]]"
-  - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
   - "[[Department of Energy]]"
   - "[[National Institutes of Health]]"
@@ -64,7 +64,7 @@ updated: 2026-10-02
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国政治学家、公共政策学者、科学与技术政策理论家；普林斯顿大学伍德罗·威尔逊公共与国际事务学院（Woodrow Wilson School of Public and International Affairs）院长（1974–1992）；曾任密歇根大学政治学教授、社会研究所（ISR）资深研究员及英国纳菲尔德学院访问学者。
-> - **核心角色** 战后美国科学政策与研究分类学的重要革新者；在 1997 年出版的代表作《[[Pasteur's Quadrant|帕斯德象限]]：基础科学与技术创新》中，首次将布什报告确立的一维线性滑动轴拓展为二维研究动机矩阵，确立了“由[[Use-Inspired Basic Research|应用启发的基础研究]]”（Use-Inspired [[Blue Skies Research|Basic Research]]）的正统合法地位，成为连接基础科学探索与国家战略使命的关键理论桥梁。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 32–33)]]
+> - **核心角色** 战后美国科学政策与研究分类学的重要革新者；在 1997 年出版的代表作《[[Pasteur's Quadrant|帕斯德象限]]：基础科学与技术创新》中，首次将[[Science, The Endless Frontier 1945|布什报告]]确立的一维线性滑动轴拓展为二维研究动机矩阵，确立了“由[[Use-Inspired Basic Research|应用启发的基础研究]]”（Use-Inspired [[Blue Skies Research|Basic Research]]）的正统合法地位，成为连接基础科学探索与国家战略使命的关键理论桥梁。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 32–33)]]
 > - **代表贡献** 创立帕斯德象限理论（Pasteur's Quadrant Model）；早期与安格斯·坎贝尔（Angus Campbell）等人合著《美国选民》（*The American Voter*, 1960）奠定了当代政治行为学与选民投票理论基础；重塑了战后西方关于科学自由与社会责任之间关系的政策契约讨论。
 
 > [!citation-card]- 斯托克斯对战后科技政策的重塑定位

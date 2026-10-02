@@ -11,10 +11,10 @@ summary: "法国当代著名马克思主义哲学家与政治活动家，巴黎�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 16
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 15
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1946"
 died: "2010"
 lifespan: "1946–2010"
@@ -28,7 +28,6 @@ tags:
   - region/france
 related_concepts:
   - "[[Praxis]]"
-  - "[[Conatus]]"
   - "[[Normal School]]"
   - "[[Determinism]]"
   - "[[Growth]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-02
 ---
 
 # Daniel Bensaïd
@@ -65,7 +64,7 @@ updated: 2026-09-28
 > - **代表贡献** 出版代表作《不合时宜的马克思》（1995/1999）、《时代的不协调》（1995）与《忧郁的赌注》（1997）；系统提出并阐发马克思主义作为当代不可超越的“[[Praxis|实践哲学]]”（Philosophy of Praxis）的方法论生命力。
 
 > [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论本萨义德的冷面科学与炽热乌托邦辩证法
-> 正如达尼埃尔·本萨义德所断言的，马克思主义思想正是在展现其幽灵如何深刻影响当下的严密实证研究中重新繁荣起来的。通过构建部分综合与连续逼近，重构作为方法与认识方式的辩证法，并将马克思主义的“冷面”（严谨的求实科学分析）与其“炽热”（对人类解放的道德乌托邦）有机结合，知识与行动将融铸为统一的革命性现实阐释，正如葛兰西所言，使马克思主义持续焕发作为“实践哲学”的[[Conatus|生机]]。[[Argument_Olmos_Torres_2009_StateTheories|(Bensaïd, 1999; Olmos & Torres, 2009, p. 85)]]
+> 正如达尼埃尔·本萨义德所断言的，马克思主义思想正是在展现其幽灵如何深刻影响当下的严密实证研究中重新繁荣起来的。通过构建部分综合与连续逼近，重构作为方法与认识方式的辩证法，并将马克思主义的“冷面”（严谨的求实科学分析）与其“炽热”（对人类解放的道德乌托邦）有机结合，知识与行动将融铸为统一的革命性现实阐释，正如葛兰西所言，使马克思主义持续焕发作为“实践哲学”的生机。[[Argument_Olmos_Torres_2009_StateTheories|(Bensaïd, 1999; Olmos & Torres, 2009, p. 85)]]
 >
 > *As Daniel Bensaid affirms, Marxist thought flourished as a result of the rigorous research that demonstrates the extent to which the spectrums of Marxism impact the present... Constructing partial synthesis and successive approximations, reconstructing the dialectic as a method and way of knowing, and associating the "cold" side of Marxism (science) with its "hot" phase (utopia), knowledge and praxis, will be how the creation and revolutionary interpretation of reality develops, so that Marxism continues to be as Gramsci said, a "Philosophy of Praxis".*
 

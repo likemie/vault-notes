@@ -10,10 +10,10 @@ aliases:
 summary: "西方教育哲学与学习传统的核心主题，起源于苏格拉底在《申辩篇》中的名言“未经省察的生活不值得过”，代表质疑既有权威与理所当然知识的智识态度，是批判性思维的文化根源。"
 type: concept
 domain: "educational-philosophy"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - region/western
   - field/educational-philosophy
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Active Learning]]"
   - "[[Academic Freedom]]"
-  - "[[Conatus]]"
   - "[[Socratic Elenchus]]"
   - "[[Meno]]"
   - "[[Sage]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-09-24
+updated: 2026-10-02
 ---
 
 # Examined Life
@@ -73,7 +72,7 @@ updated: 2026-09-24
 
 > [!concept-lens] 概念透镜
 > - **含义** 拒绝盲从传统、教条与表面现象，主张个体应运用理性通过自我反思与对话探究审视生活与知识的根基。
-> - **用途** 用于解释西方文化中[[Critical Thinking\|批判性思维]]与[[Academic Freedom\|学术自由]]的产[[Conatus\|生机]]制，以及比较东西方学习取向的差异。
+> - **用途** 用于解释西方文化中[[Critical Thinking\|批判性思维]]与[[Academic Freedom\|学术自由]]的产生机制，以及比较东西方学习取向的差异。
 > - **边界** 古典省察常带有精英主义色彩（如柏拉图将深度省察限定于护卫者阶层）；现代主动学习则主张将省察生活拓展为所有个体打破沉默、追求意识觉醒与实践的民主权利。
 
 > [!citation-card]- 关键表述：苏格拉底的终极宣告

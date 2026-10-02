@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 107
+argument_related_count: 106
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -84,7 +84,6 @@ related_concepts:
   - "[[Peidu]]"
   - "[[The Shock of the Elite]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Conatus]]"
   - "[[Work Meaning Schemas]]"
   - "[[Graduation Pathway Typology]]"
   - "[[Determinism]]"
@@ -988,7 +987,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 
 ### 第五章 方向
 
-**本章定位：** 全书三层论证结构的第三层——"方向的选择"（对应分析框架最内层的**价值选择过程**）。核心论点为：意义感和价值信念在生涯定向中发挥不可忽视的作用。本章首先揭示了名校大学生建构工作意义的三种文化图式，接着展示了这些图式在择业中的两种运用模式，最终提出了一个整合工具理性和价值理性的 2×2 四分类模型，全面阐明毕业出路的产[[Conatus|生机]]制。
+**本章定位：** 全书三层论证结构的第三层——"方向的选择"（对应分析框架最内层的**价值选择过程**）。核心论点为：意义感和价值信念在生涯定向中发挥不可忽视的作用。本章首先揭示了名校大学生建构工作意义的三种文化图式，接着展示了这些图式在择业中的两种运用模式，最终提出了一个整合工具理性和价值理性的 2×2 四分类模型，全面阐明毕业出路的产生机制。
 
 **本章样本：** 共使用 70 位同学的访谈资料（62 名被访者 + 8 名增补南方大学受访者），对该部分分析采用更严格的归纳法，对全部材料进行主题区分的逐级编码以提高归纳可靠性。
 

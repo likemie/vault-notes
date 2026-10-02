@@ -8,7 +8,7 @@ aliases:
 summary: "实验中实验者知晓受试者所属条件后以更积极或更有暗示性的方式施测结果测量，从而人为放大处理效应的系统性偏差"
 type: concept
 domain: "research-methodology"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,7 +17,6 @@ tags:
   - quantitative-research
   - bias
 related_concepts:
-  - "[[Conatus]]"
   - "[[Research Purpose]]"
   - "[[Teaching Assistant]]"
 related_theories: []
@@ -31,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-09-14
+updated: 2026-10-02
 ---
 
 # Experimenter Bias
@@ -47,7 +46,7 @@ updated: 2026-09-14
 ## 核心要素
 
 > [!abstract]
-> 实验者偏差的产[[Conatus\|生机]]制与应对（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）：
+> 实验者偏差的产生机制与应对（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）：
 
 - **产生机制** 实验者的期望通过非语言线索（面部表情、语气、停顿时间）或语言线索（额外鼓励、提示、对问题的解释方式）传递给受试者，从而在无意识中影响受试者的表现或回答。
 - **主要应对策略**[[Blinding|盲法]]（Blinding）——使施测结果测量的实验者对受试者所属研究条件不知情，直到所有结果测量评估完成。方法计划中的典型措辞："为降低实验者偏差风险，实验者在所有结果测量评估完成前对受试者所属研究条件不知情。"

@@ -39,11 +39,11 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Costs Benefits Ratio in Research Ethics]]"
-  - "[[Conatus]]"
   - "[[Creativity]]"
   - "[[Epistemology]]"
 related_theories:
   - "[[Convergence Theory in Comparative Education]]"
+  - "[[World-Systems Theory]]"
   - "[[Dialectic of the Global and the Local]]"
   - "[[Pluri-Scalar Governance]]"
   - "[[Human Capital Theory]]"
@@ -81,7 +81,7 @@ updated: 2026-09-29
 > - **解释对象** 跨国界草根社会运动、原住民团体、教师工会、女性主义及生态保护力量如何突破民族国家地理边界，依托数字网络建构跨国团结阵线，抗衡由跨国资本与新自由主义国家官僚主导的自上而下[[Endogenous and Exogenous Privatisation|教育私有化]]与量化问责改革。
 > - **理论问题** 批判主流比较教育研究中盛行的自上而下政策[[Convergence Theory in Comparative Education|趋同论]]与新自由主义技术经济[[Determinism|决定论]]，回应底层微观行动者在资本主义世界体系出现结构性危机时，如何利用全球流散空间发起反抗并探索具有实质公平性的替代教育方案。
 > - **理论类型** 批判解释理论与规范解放[[Analytic Framework|分析框架]]。
-> - **知识位置** 处于世界体系分析、批判教育政治经济学与跨国社会运动理论的交汇点，与自上而下的新自由主义全球化（Globalization from Above）形成正面对峙，与[[Dialectic of the Global and the Local|全球与本土的辩证法]]相互支撑。
+> - **知识位置** 处于[[World-Systems Theory|世界体系分析]]、批判教育政治经济学与跨国社会运动理论的交汇点，与自上而下的新自由主义全球化（Globalization from Above）形成正面对峙，与[[Dialectic of the Global and the Local|全球与本土的辩证法]]相互支撑。
 
 > [!claim] 核心判断
 > 自下而上的全球化理论断言，当代全球化并非仅仅由跨国金融机构与中央官僚自上而下单向灌输的同质化进程；面对资本主义历史体系的深层危机，现代信息通信技术构筑的以太空间为世界各地的边缘群体提供了打破地理隔绝的跨国流散空间，草根行动者能够反向借用世界文化扩散的普世人权与受教育权规范作为合法抗争武器，通过跨国社会连带与去中心化抗争网络，将分散的本土教育权利斗争汇聚为推动世界体系迈向全球社会民主与教育正义的历史契机。[[Argument_Arnove_2009_WorldSystems|(Brecher et al., 2000; Chase-Dunn, 1999; Arnove, 2009, pp. 113–115)]]
@@ -245,7 +245,7 @@ updated: 2026-09-29
 > > [!axis] 替代潜能 vs 结构性收编与[[Shadow State|影子国家]]异化
 > > 争论民间草根组织究竟能够成为重构世界体系的革命性力量，还是会不可避免地被新自由主义外包体制吸纳收编。
 > >
-> > - **草根全球化倡导者（布雷彻等与[[Robert Arnove|罗伯特·阿诺夫]]）** 坚信由底层受压迫者结成的跨国网络拥有不可替代的道德威望与抗争韧性，是打破资本主义积累危机的核心[[Conatus|生机]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 113–115)]]
+> > - **草根全球化倡导者（布雷彻等与[[Robert Arnove|罗伯特·阿诺夫]]）** 坚信由底层受压迫者结成的跨国网络拥有不可替代的道德威望与抗争韧性，是打破资本主义积累危机的核心生机。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 113–115)]]
 > > - **批判政治经济学者（Sutton & Arnove, 2004; Kamat, 2004）** 指出在缺乏制度支撑的现实中，大量民间 NGO 在承接教育外包项目后蜕变为依附于外部资本的“[[Shadow State|影子国家]]”，其原初的激进批判性与动员潜能被量化审计彻底消解。[[Argument_Arnove_2009_WorldSystems|(Sutton & Arnove, 2004; Kamat, 2004, cited in Arnove, 2009, p. 112)]]
 > >
 > > > [!axis] 世界文化人权反哺的有效性 vs 西方中心主义话语霸权
