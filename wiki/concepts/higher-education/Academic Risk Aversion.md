@@ -9,7 +9,7 @@ aliases:
 summary: "在高度竞争性科研资助、同行评审可行性偏见与短周期考评约束下，科研人员与资助机构系统性偏向选择高确定性、短期可见的渐进型研究，极力规避长周期、高失败率之颠覆性探索的制度性行为偏好。"
 type: concept
 domain: "higher-education"
-related_count: 27
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
