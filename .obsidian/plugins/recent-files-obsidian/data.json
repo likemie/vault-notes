@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "National Science Foundation",
+      "path": "wiki/facts/us/National Science Foundation.md"
+    },
+    {
       "basename": "Argument_Stephan_2013_NBER",
       "path": "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
+    },
+    {
+      "basename": "PhD Overproduction in Science",
+      "path": "wiki/concepts/higher-education/PhD Overproduction in Science.md"
     },
     {
       "basename": "Science, The Endless Frontier 1945",
@@ -191,14 +199,6 @@
     {
       "basename": "Determinism",
       "path": "wiki/concepts/educational-philosophy/Determinism.md"
-    },
-    {
-      "basename": "World-Systems Theory",
-      "path": "wiki/theories/comparative-education/World-Systems Theory.md"
-    },
-    {
-      "basename": "Ethnography",
-      "path": "wiki/methods/qualitative/Ethnography.md"
     }
   ],
   "omittedPaths": [],
