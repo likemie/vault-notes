@@ -26,8 +26,8 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
-  - "[[Public-Private Partnership in Research]]"
   - "[[Technology Transfer Office]]"
+  - "[[Public-Private Partnership in Research]]"
   - "[[Governance by Spin]]"
   - "[[Industry Affiliate Program]]"
   - "[[Institutional Review Board]]"
@@ -96,7 +96,7 @@ updated: 2026-10-02
 > [!citation-card] 知识产权归属与商业化激励的制度重构
 > 阿特金森与布兰皮德系统总结了该法案的革命性突破：
 > 
-> 在该法案通过之前，联邦资助科研成果的权利归政府所有，但政府极少去主动开发或许可这些成果，导致大量极具应用前景的潜在产品与工艺根本未能得到转化。《拜杜法案》从根本上扭转了这一局面——它将联邦资助的研发成果权利明确赋予开展研究的机构，尤其是研究型大学。自此，私营企业能够与大学合作伙伴展开直接谈判、分享研发权益，创造了前所未有的强劲激励。随后，研究型大学纷纷建立起技术许可组织（TLO），有效打通了大学前沿成果走向实体生产与商业市场的制度通道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]
+> 在该法案通过之前，联邦资助科研成果的权利归政府所有，但政府极少去主动开发或许可这些成果，导致大量极具应用前景的潜在产品与工艺根本未能得到转化。《拜杜法案》从根本上扭转了这一局面——它将联邦资助的研发成果权利明确赋予开展研究的机构，尤其是研究型大学。自此，私营企业能够与大学合作伙伴展开直接谈判、分享研发权益，创造了前所未有的强劲激励。随后，研究型大学纷纷建立起技术许可组织（[[Technology Transfer Office|TLO]]），有效打通了大学前沿成果走向实体生产与商业市场的制度通道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]
 
 ---
 
@@ -115,7 +115,7 @@ updated: 2026-10-02
 
 > [!actor-grid] 实施角色分工
 > - **联邦资助机构（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]、[[Department of Energy|DOE]]、DOD）** 拨款监督主体。在资助协议中强制嵌入拜杜条款，接收受资助机构的发明披露报告，维护政府免版税自用权与潜在介入权。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 40)]]
-> - **高等院校及技术许可办公室（TLO / [[Technology Transfer Office|TTO]]）** 产权运营与管理中枢。全权受理教师发明披露、申请知识产权保护、主导与企业的专利许可谈判并向发明人按期分配收益。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 60–63)]]
+> - **高等院校及[[Technology Transfer Office|技术许可办公室]]（TLO / [[Technology Transfer Office|TTO]]）** 产权运营与管理中枢。全权受理教师发明披露、申请知识产权保护、主导与企业的专利许可谈判并向发明人按期分配收益。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 60–63)]]
 > - **一线教授与科研团队（发明人）** 创新源头。依据法律享有个人版税分成权，并在法案赋权下开办衍生初创企业（[[Governance by Spin|Spin]]-off startups）。
 > - **产业界与商业企业** 承接与转化主体。通过协商排他性或非排他性许可协议，向大学支付授权费与特许提成，投资后续工程化中试并最终将技术推向市场。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, pp. 272–274)]]
 
@@ -153,7 +153,7 @@ updated: 2026-10-02
 ## 效果与评价
 
 > [!indicators]- 评价指标
-> - **投入与参与指标** 设立专职技术许可办公室的高校数量、发明披露申请数量、知识产权维护预算。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 60–63)]]
+> - **投入与参与指标** 设立专职[[Technology Transfer Office|技术许可办公室]]的高校数量、发明披露申请数量、知识产权维护预算。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 60–63)]]
 > - **过程指标** 专利申请与授权数量、产学许可协议签署数量、衍生企业孵化数量。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 40)]]
 > - **结果指标** 许可特许权使用费收入总额、商业化上市新产品与药品数量、产业资助占大学研发预算比重。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, p. 273)]]
 

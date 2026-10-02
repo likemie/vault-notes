@@ -20,6 +20,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Boundary Spanner]]"
   - "[[Language Skills]]"
+  - "[[Technology Transfer Office]]"
   - "[[Technology Transfer]]"
   - "[[Teaching Assistant]]"
 related_theories: []
@@ -61,7 +62,7 @@ updated: 2026-09-14
 > [!abstract]
 > 基于 Boccanfuso & Hall（2025, pp.59–60, 62–63, 67）：
 > - **单一入口** 产业伙伴面对的不是大学的多个办公室，而是一个统一的对接窗口——这降低了企业的搜索成本和认知负担
-> - **内部协调能力** 礼宾的价值不在于替代专业单位（技术许可办公室仍然负责谈许可条款），而在于在专业单位之间为外部伙伴提供一条**清晰的导航路径**——知道该找谁、按什么顺序、如何推进
+> - **内部协调能力** 礼宾的价值不在于替代专业单位（[[Technology Transfer Office|技术许可办公室]]仍然负责谈许可条款），而在于在专业单位之间为外部伙伴提供一条**清晰的导航路径**——知道该找谁、按什么顺序、如何推进
 > - **跨使命覆盖** 礼宾服务的目标是帮助企业跨越大学的教育、研究、临床、经济发展等多个使命领域——而不仅限于[[Technology Transfer\|技术转移]]（p.62）
 > - **全生命周期管理** 从建立初步联系到合同签署、从项目执行到关系维护——产业关系官员对合作关系的全生命周期进行管理（p.60）
 

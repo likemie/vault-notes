@@ -12134,7 +12134,9 @@
     "aliases": [
       "TTO",
       "技术转移办公室",
-      "Technology Transfer Office",
+      "技术许可办公室",
+      "TLO",
+      "Technology Licensing Office",
       "university technology transfer office",
       "tech transfer office"
     ]
@@ -23263,15 +23265,6 @@
     ]
   },
   {
-    "title": "CNRS",
-    "type": "fact",
-    "path": "wiki/facts/france/CNRS.md",
-    "aliases": [
-      "法国国家科学研究中心",
-      "Centre National de la Recherche Scientifique"
-    ]
-  },
-  {
     "title": "Revue encyclopédique",
     "type": "fact",
     "path": "wiki/facts/france/Revue encyclopédique.md",
@@ -23281,6 +23274,15 @@
       "Revue encyclopédique ou Analyse raisonnée",
       "Encyclopedic Review",
       "Jullien's Revue encyclopédique"
+    ]
+  },
+  {
+    "title": "CNRS",
+    "type": "fact",
+    "path": "wiki/facts/france/CNRS.md",
+    "aliases": [
+      "法国国家科学研究中心",
+      "Centre National de la Recherche Scientifique"
     ]
   },
   {

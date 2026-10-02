@@ -26,8 +26,8 @@ related_concepts:
   - "[[Document]]"
   - "[[Knowledge Production]]"
   - "[[Evaluation Research]]"
-  - "[[Technology Transfer]]"
   - "[[Technology Transfer Office]]"
+  - "[[Technology Transfer]]"
   - "[[Academic Start-up Packages]]"
 related_theories:
   - "[[Triple Helix]]"
@@ -266,7 +266,7 @@ issuing_organization: ""
 > - **法国：国家科研中心（[[CNRS]]）与大学校精英割裂**
 >   顶级科研力量长期垄断于法国国家科学研究中心（Centre National de la Recherche Scientifique, CNRS）自设实验室，而精英人才培养则由声誉卓著的大学校（Grandes Écoles，如巴黎综合理工学院）垄断，常规综合性大学沦为平民教学机构，科研与大众高等教育严重分立。（p.42）
 > - **日本：帝国大学传统与国立大学法人化试炼**
->   自明治维新建立帝国大学以来，文部省长期对国立大学实施严格预算与人事管制；1996 年科学技术基本计划与 2004 年国立大学法人化虽赋予大学人事自主权并成立技术许可办公室（Technology Licensing Office, TLO），但官僚考核与近亲繁殖惯性依然显著。（pp.42–43）
+>   自明治维新建立帝国大学以来，文部省长期对国立大学实施严格预算与人事管制；1996 年科学技术基本计划与 2004 年国立大学法人化虽赋予大学人事自主权并成立[[Technology Transfer Office|技术许可办公室]]（Technology Licensing Office, TLO），但官僚考核与近亲繁殖惯性依然显著。（pp.42–43）
 > - **中国：苏联式科学院模式重构与研究生体制改革**
 >   1949 年后采纳苏联模式，中国科学院承担三分之二以上学术科研，大学专司教育部统编教学；1978 年后虽恢复研究生院并设立国家自然科学基金委员会（National Natural Science Foundation of China, NSFC），高水平大学推进研究生培养改革，但部属集权与科学院分立格局仍待实质性融通。（pp.42–43）
 

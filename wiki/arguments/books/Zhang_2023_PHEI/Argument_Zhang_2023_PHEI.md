@@ -45,6 +45,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Technology Transfer]]"
   - "[[Emergence]]"
+  - "[[Technology Transfer Office]]"
   - "[[Decodification]]"
   - "[[Megascience Installations]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
@@ -301,7 +302,7 @@ updated: 2026-08-20
 >
 > > [!features] 产官学协同
 > > - **企业主导培养** 企业投资建设工业实验室作为高校研究生教育科研基地，以"师徒制"培养
-> > - **大学技术转让促进法** 建立TLO，负责挖掘、评估、选择具有产业潜能的研究成果
+> > - **大学技术转让促进法** 建立[[Technology Transfer Office|TLO]]，负责挖掘、评估、选择具有产业潜能的研究成果
 > > - **筑波大学改革** 教师可创业并兼任公司董事长，持股比例不设限制
 >
 > > [!features] [[Tsukuba Science City\|筑波科学城]]

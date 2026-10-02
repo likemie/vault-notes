@@ -31,6 +31,7 @@ related_concepts:
   - "[[Joint Faculty Appointments]]"
   - "[[Clinical Trial]]"
   - "[[Innovation Park]]"
+  - "[[Technology Transfer Office]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Concierge Service]]"
   - "[[Boundary Spanner]]"
@@ -169,7 +170,7 @@ citation_aliases:
 
 - **政策（Policies）** 学术自由、利益冲突、知识产权、隐私、晋升与终身教职——这些是产学参与的"护栏"，定义了什么是可以做的、什么是不可以做的
 - **协议（Agreements）** 保密协议、企业捐赠、数据与材料转移、雇佣合同、合资企业、赞助研究、技术许可——每一种产学互动都需要通过特定类型的协议来界定
-- **关键单位（Key Units）** 学术单位、大学发展/筹资部门（advancement）、法律总顾问、医疗系统、产业关系办公室、创新园区、采购、赞助项目办公室、技术许可办公室——每个协议由哪个单位负责谈判和执行
+- **关键单位（Key Units）** 学术单位、大学发展/筹资部门（advancement）、法律总顾问、医疗系统、产业关系办公室、创新园区、采购、赞助项目办公室、[[Technology Transfer Office|技术许可办公室]]——每个协议由哪个单位负责谈判和执行
 - **利益相关者（Stakeholders）** 校友、董事会、商业伙伴、社区、教师、职员、学生——谁参与执行、谁参与谈判、谁是中介、谁是受益者
 
 这四类基础之间的关系不是平行的，而是嵌套的：**政策定义了边界 → 协议在边界内定义交易 → 关键单位负责谈判和执行协议 → 利益相关者在其中扮演不同角色**。

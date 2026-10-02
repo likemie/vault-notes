@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Areas of Knowledge]]"
   - "[[Technology Transfer]]"
+  - "[[Technology Transfer Office]]"
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Collaboration]]"
 related_theories: []
@@ -76,7 +77,7 @@ updated: 2026-10-02
 ## 产学研合作机制
 
 > [!example]
-> - **法律框架** 1998年颁布《大学[[Technology Transfer\|技术转让]]促进法》，借鉴斯坦福模式成立技术许可组织（TLO）
+> - **法律框架** 1998年颁布《大学[[Technology Transfer\|技术转让]]促进法》，借鉴斯坦福模式成立技术许可组织（[[Technology Transfer Office|TLO]]）
 > - **开放创新** 2015年成立日本开放创新协议会，2017年提出"开放创新2.0"概念，从"一对一"合作转向构建[[Innovation Ecosystem\|创新生态系统]]
 > - **联合研发** 丰田联合15家大型企业赞助东京大学研究；"三菱系""丰田系"等企业集团充分利用内部资源
 > - **资助机构** 国立研究开发法人科学技术振兴机构通过A-STEP、S-Innovation、NexTEP等项目推动产学研成果转化
