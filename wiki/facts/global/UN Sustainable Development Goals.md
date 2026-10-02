@@ -14,10 +14,10 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 48
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
-fact_related_color: "#fecdd3"
+fact_related_count: 38
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: "United Nations"
 tags:
   - region/global
@@ -28,35 +28,28 @@ tags:
   - level/basic-education
 related_concepts:
   - "[[Research Universities]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Wicked Problem]]"
+  - "[[Mission-Oriented Innovation Policy]]"
   - "[[Third Mission]]"
+  - "[[Market Shaping and Creating]]"
   - "[[Lifelong Learning]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[University Social Responsibility]]"
-  - "[[Knowledge Production]]"
   - "[[Grand Theory]]"
   - "[[Policy Mobility]]"
   - "[[Policy Brokerage]]"
-  - "[[Development Turn in Comparative Education]]"
   - "[[Internationalization of Higher Education]]"
-  - "[[Epistemology]]"
-  - "[[Social Science as Legitimation Alibi]]"
   - "[[Global Education Governing Complex]]"
   - "[[Governing by Numbers]]"
-  - "[[Grandes Ecoles]]"
-  - "[[Mission-Oriented Innovation Policy]]"
-  - "[[Market Shaping and Creating]]"
-  - "[[Wicked Problem]]"
+  - "[[Epistemology]]"
 related_theories:
-  - "[[Human Capital Theory]]"
+  - "[[ROAR Framework]]"
   - "[[Governing at a Distance]]"
   - "[[World Society Theory]]"
-  - "[[ROAR Framework]]"
-  - "[[Systems of Innovation]]"
 related_methods:
   - "[[Exploratory Factor Analysis]]"
-  - "[[Quantitative Research]]"
-  - "[[Sample Size Determination]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -65,18 +58,15 @@ related_facts:
   - "[[Education for All]]"
   - "[[Global Education Monitoring Report]]"
   - "[[UNESCO]]"
-  - "[[World Bank]]"
   - "[[UNICEF]]"
+  - "[[World Bank]]"
   - "[[Global Partnership for Education]]"
   - "[[OECD]]"
   - "[[Building Evidence in Education]]"
   - "[[Learning Data Compact]]"
   - "[[PISA]]"
   - "[[Bill & Melinda Gates Foundation]]"
-  - "[[Education International]]"
-  - "[[Research in Schools Evaluation]]"
   - "[[THE Impact Ranking]]"
-  - "[[Education at a Glance]]"
 related_arguments:
   - "[[Argument_Zapp_2022_Springer]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -95,8 +85,8 @@ updated: 2026-10-03
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2015 年 9 月由联合国（United Nations，UN）全数 193 个成员国在纽约可持续发展峰会上一致通过，正式发布题为《改变我们的世界：2030年可持续发展议程》（*Transforming our world: the 2030 Agenda for Sustainable Development*）的里程碑决议。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 150)]]
-> - **适用地区 / 对象** 覆盖全球所有主权国家、跨国国际组织、公民社会、高等教育机构以及科技产业界；特别在基础教育阶段针对全球南方借款国实施密集监测，在高等教育与科技政策阶段覆盖全球[[Research Universities|研究型大学]]与国家创新生态。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
-> - **问题背景** 全球面临贫困、环境退化、气候变化、社会不公及教育危机等多重复合[[Wicked Problem|复杂社会难题]]；继 1990 年[[Education for All|全民教育]]（Education for All，EFA）与 2000–2015 年千年发展目标（Millennium Development Goals，MDGs）之后，国际社会亟需一套具有普遍约束力的全球统领性行动纲领。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 151)]]
+> - **适用地区 / 对象** 覆盖全球所有主权国家、跨国国际组织、公民社会、高等教育机构以及科技产业界；特别在基础教育阶段针对全球南方借款国实施密集监测，在高等教育与科技政策阶段覆盖全球[[Research Universities|研究型大学]]与国家[[Innovation Ecosystem|创新生态]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
+> - **问题背景** 全球面临贫困、环境退化、气候变化、社会不公及教育危机等多重复合[[Wicked Problem|复杂社会难题]]；继 1990 年[[Education for All|全民教育]]（Education for All，[[Exploratory Factor Analysis|EFA]]）与 2000–2015 年千年发展目标（Millennium Development Goals，MDGs）之后，国际社会亟需一套具有普遍约束力的全球统领性行动纲领。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 151)]]
 > - **制度位置** 取代 MDGs 成为 2015–2030 年全球最高发展纲领；在教育领域确立第四个可持续发展目标（SDG 4: 优质教育），在科技创新政策领域确立统领性战略方向（涵盖 SDG 13 气候行动、SDG 14 海洋保护、SDG 7 清洁能源等），成为全球[[Mission-Oriented Innovation Policy|使命导向创新政策]]的最核心顶层罗盘。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 811)]]
 
 ---
@@ -117,7 +107,7 @@ updated: 2026-10-03
 >
 > *Sustainable development (SD) has become the overriding global agenda since 2015 when the 17 SD Goals where agreed upon by all 193 UN member states.* ([[Argument_Zapp_2022_Springer|Zapp, 2022, p. 150]])
 
-> [!citation-card] 马祖卡托论将 SDGs 转化为跨部门战略使命
+> [!citation-card] [[Mariana Mazzucato|马祖卡托]]论将 SDGs 转化为跨部门战略使命
 > 应对重大的全球社会挑战需要创新政策设定明确方向。联合国可持续发展目标（SDGs）构成了宏大社会挑战的全球共识底座；但要使其产生现实经济与技术变革，必须将宽泛的 SDG 拆解为具有明确时限与可度量底线的具体使命，进而拉动多行业、跨学科的自下而上探索组合。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 810–812)]]
 >
 > *Missions can be targeted at addressing Grand Challenges, such as those embedded in the UN Sustainable Development Goals (SDGs)... The crucial step is translating broad challenges (e.g. SDG 14: Life below water) into concrete, targeted missions (e.g. 100% plastic-free oceans).*
@@ -127,7 +117,7 @@ updated: 2026-10-03
 ## 时间线
 
 > [!dev-timeline] 全球可持续发展与治理演进历程
-> - **1990 — 宗迪恩[[Education for All|全民教育]]（EFA）世界宣言** [[UNESCO|联合国教科文组织]]、[[UNICEF|联合国儿童基金会]]、联合国开发计划署与[[World Bank|世界银行]]在泰国宗迪恩联合发起 EFA 倡议，标志着全球南方国家开始系统性卷入国际组织的量化治理体制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **1990 — 宗迪恩[[Education for All|全民教育]]（[[Exploratory Factor Analysis|EFA]]）世界宣言** [[UNESCO|联合国教科文组织]]、[[UNICEF|联合国儿童基金会]]、联合国开发计划署与[[World Bank|世界银行]]在泰国宗迪恩联合发起 EFA 倡议，标志着全球南方国家开始系统性卷入国际组织的量化治理体制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **2000 — 达喀尔世界教育论坛与千年发展目标（MDGs）** 确立初等教育普及（MDG 2）与消除性别差距（MDG 3）的硬性量化指标，跨国资金援助全面与初等教育入学率指标挂钩。
 > - **2015 — 仁川世界教育论坛与 SDGs 纽约峰会正式通过** 5 月仁川论坛通过《仁川宣言》确立《教育 2030 行动框架》；9 月联合国大会正式通过涵盖 17 目标与 169 项指标的《2030 年可持续发展议程》，将教育从单纯的初等入学扩展为[[Lifelong Learning|终身学习]]与公平优质。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 150)]]
 > - **2018 — SDGs 使命化转化与欧盟地平线计划吸纳** [[Mariana Mazzucato|玛丽安娜·马祖卡托]]向欧盟委员会提交《使命导向研究与创新》（Mazzucato, 2018），正式将联合国 SDGs 确立为“地平线欧洲”（Horizon Europe, 1000 亿欧元）五大核心使命的顶层锚点。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
@@ -195,7 +185,7 @@ updated: 2026-10-03
 > > 质询大学在追求全球治理影响力的同时如何面对民族国家的战略钳制。
 > >
 > > - **世界社会与地缘政治学者** 学界识别出一个根本悖论：大学在价值追求上越是拥抱世界主义与 SDGs 全球影响，民族国家政策制定者越是急切地将大学“再领土化”为保障国家经济引擎、科技主权与地缘战略声望的竞争性工具。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 155–157)]]
-> > - **高等教育国际化乐观派** 坚信大学依托全球学术网络能够有效超越狭隘民族国家边界。
+> > - **[[Internationalization of Higher Education|高等教育国际化]]乐观派** 坚信大学依托全球学术网络能够有效超越狭隘民族国家边界。
 
 ---
 
@@ -210,7 +200,7 @@ updated: 2026-10-03
 > | [[Wicked Problem]] | Concept | SDGs 所针对的具有高度复杂性、争议性与不确定性的核心问题属性。 |
 > | [[ROAR Framework]] | Theory | 指导公共部门以 SDGs 为战略方向开展组织、评估与利益分配的治理理论。 |
 > | [[Global Education Governing Complex]] | Concept | 深度卷入并塑造 SDGs 监测与资金流向的跨国治理网络。 |
-> | [[Governing by Numbers]] | Concept | 支撑 SDGs 依托海量国际基准对主权国家实施远处治理的认识论技术。 |
+> | [[Governing by Numbers]] | Concept | 支撑 SDGs 依托海量国际基准对主权国家实施[[Governing at a Distance\|远处治理]]的[[Epistemology\|认识论]]技术。 |
 > | [[Third Mission]] | Concept | SDGs 在高等教育领域被广泛定位为大学超越教学与科研的新型核心使命。 |
 > | [[World Society Theory]] | Theory | 解释主权国家与大学普遍采纳并宣誓效忠 SDGs 全球共同规范的核心宏观社会学理论。 |
 > | [[THE Impact Ranking]] | Instrument | 专门依据联合国 17 项 SDGs 对全球大学社会与生态影响力进行测度的量化工具。 |

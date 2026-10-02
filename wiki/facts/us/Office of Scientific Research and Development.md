@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Office of Scientific Research and Development
@@ -105,7 +105,7 @@ updated: 2026-10-02
 
 > [!finding-cards] 关键成效与历史辐射
 > - **大学从研发边缘跃升为国家核心** 二战前全美大学研发仅占全国总额的 9% 且几无联邦常规资助；OSRD 的运作使决策层与公众深刻认识到高水平大学是国家生存与安全最不可替代的智力武器，大学由此彻底迈入国家创新体系的中枢。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 30, 33–35)]]
-> - **联邦资助高校合同法制的创立** 开创了联邦政府以科研合同向大学注入研发经费的先河，打破了传统的反联邦干预禁忌，为战后国家科学基金会（[[National Science Foundation|NSF]]）、[[Office of Naval Research|海军研究办公室]]（ONR）和国防高级研究计划局（[[DARPA]]）的资助机制奠定了法律与管理[[Paradigm|范式]]。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–37)]]
+> - **联邦资助高校合同法制的创立** 开创了联邦政府以科研合同向大学注入研发经费的先河，打破了传统的反联邦干预禁忌，为战后国家科学基金会（[[National Science Foundation|NSF]]）、[[Office of Naval Research|海军研究办公室]]（ONR）和[[DARPA|国防高级研究计划局]]（[[DARPA]]）的资助机制奠定了法律与管理[[Paradigm|范式]]。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–37)]]
 > - **大学[[Federally Funded Research and Development Centers|联邦资助研究开发中心]]（FFRDC）的雏形** 由大学托管洛斯阿拉莫斯、劳伦斯伯克利实验室等前沿[[Megascience Installations|大科学装置]]的模式，直接演进为冷战时期乃至当代美国联邦出资研发中心（FFRDC）与国家实验室体系的成熟架构。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35, 38)]]
 
 ---

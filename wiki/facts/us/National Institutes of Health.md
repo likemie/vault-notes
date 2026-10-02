@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 32
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_count: 28
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 联邦生物医学与公共健康科研机构
 headquarters: 美国马里兰州贝塞斯达（Bethesda, Maryland）
@@ -25,6 +25,7 @@ tags:
   - theme/innovation-policy
   - region/us
 related_concepts:
+  - "[[Market Shaping and Creating]]"
   - "[[Transfer Science]]"
   - "[[Research Translation]]"
   - "[[Valley of Death]]"
@@ -35,21 +36,16 @@ related_concepts:
   - "[[San Francisco Bay Area]]"
   - "[[Hypothesis]]"
   - "[[Long-Term Public Utility]]"
-  - "[[Falsification]]"
   - "[[Externalization]]"
-  - "[[Blue Skies Research]]"
+  - "[[Mission-Oriented Innovation Policy]]"
   - "[[Basic-Applied Research Dichotomy]]"
   - "[[Shopping Mall Model of Research Universities]]"
   - "[[Soft-Money Faculty Model]]"
-  - "[[Mission-Oriented Innovation Policy]]"
-  - "[[Market Shaping and Creating]]"
-  - "[[ROAR Framework]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
+  - "[[ROAR Framework]]"
   - "[[Discovery-Invention Cycle]]"
-  - "[[Evolutionary Economics]]"
 related_methods:
-  - "[[Pilot Testing]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -61,8 +57,8 @@ related_facts:
   - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
-  - "[[Argument_Stephan_2013_NBER]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
+  - "[[Argument_Stephan_2013_NBER]]"
 confidence: high
 status: active
 created: 2026-10-02
@@ -76,7 +72,7 @@ updated: 2026-10-03
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 美国国立卫生研究院（National Institutes of Health，简称 NIH）是美国联邦政府负责生物医学与健康行为科学研发的最高权威机构，隶属于美国卫生与公众服务部（Department of Health and Human Services, HHS）；作为全球规模最大的公共生物医药资助机构与顶尖研究中心，NIH 构成了典型的“健康使命导向型科研机构”与激进型[[Market Shaping and Creating|市场塑造者]]，以攻克人类重大疾病和促进全民生命福祉为根本宗旨，统合基础病理探索与临床诊疗工艺发明。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807, 809)]]
+> 美国国立卫生研究院（National Institutes of Health，简称 NIH）是美国联邦政府负责生物医学与健康行为科学研发的最高权威机构，隶属于美国卫生与公众服务部（Department of Health and Human Services, HHS）；作为全球规模最大的公共生物医药资助机构与顶尖研究中心，NIH 构成了典型的“健康使命导向型科研机构”与激进型[[Market Shaping and Creating|市场塑造]]者，以攻克人类重大疾病和促进全民生命福祉为根本宗旨，统合基础病理探索与临床诊疗工艺发明。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807, 809)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 前身为 1887 年在纽约斯塔滕岛建立的海员卫生检验实验室，1891 年迁至华盛顿特区，1930 年通过《兰斯德尔法案》（Ransdell Act）正式重组命名为国家卫生研究院（NIH），旨在为控制烈性传染病与提升国家公共卫生水平提供科学支撑。
@@ -125,8 +121,8 @@ updated: 2026-10-03
 >
 > *"Stokes argued that scientific efforts were best carried out in what he termed 'Pasteur's Quadrant,' where researchers are motivated simultaneously by expanding understanding and increasing applied capabilities."*
 
-> [!citation-card] 马祖卡托论 NIH 对新药突破的决定性公共贡献
-> NIH 每年向生物医学研发注入超过 300 亿美元的公共资金。实证研究表明，美国食品药品监督管理局（FDA）批准的绝大多数极具临床价值的“新分子实体”（NMEs），其底层科学突破与研发高风险阶段均由 NIH 资金全额或实质性承担，证明公共部门是真正的市场创造者而非被动补贴者。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 809)]]
+> [!citation-card] [[Mariana Mazzucato|马祖卡托]]论 NIH 对新药突破的决定性公共贡献
+> NIH 每年向生物医学研发注入超过 300 亿美元的公共资金。实证研究表明，美国食品药品监督管理局（FDA）批准的绝大多数极具临床价值的“新分子实体”（NMEs），其底层科学突破与研发高风险阶段均由 NIH 资金全额或实质性承担，证明公共部门是真正的[[Market Shaping and Creating|市场创造]]者而非被动补贴者。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 809)]]
 >
 > *The US National Institutes of Health (NIH) invests over \$30 billion a year in biomedical research... Around 75% of the most innovative new molecular entities approved by the FDA trace their primary high-risk research directly to public NIH funding.*
 
@@ -160,7 +156,7 @@ updated: 2026-10-03
 > > 批评公共资金承担了新药研发的早期极高风险，私营药企却垄断了暴利并向公众收取天价药费。
 > >
 > > - **创新政治经济学派批评** [[Mariana Mazzucato|马祖卡托]]指出，NIH 用纳税人资金承担了高达 75% 的创新性新药底层研发风险，但后续商业化权利被私营大型药企免费或廉价获得。制药巨头一方面享受公共科研成果，另一方面对最终上市药品制定全球最高昂的垄断价格（如丙肝特效药、前沿抗癌药），导致纳税人遭遇“先出资研发、后高价买药”的“双重付费”（Double Paying）严重不公；政府必须建立价格上限与特许权使用费回流机制。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
-> > - **制药工业界辩护** 辩护称从实验室分子到通过三期临床试验并获批上市需要数亿美元的昂贵私人资本投入与高失败率承担，高定价是对后期商业化投资与临床试验风险的合理补偿。
+> > - **制药工业界辩护** 辩护称从实验室分子到通过三期[[Clinical Trial|临床试验]]并获批上市需要数亿美元的昂贵私人资本投入与高失败率承担，高定价是对后期商业化投资与临床试验风险的合理补偿。
 >
 > > [!axis] 同行评审保守主义与转化脱节争议
 > > NIH 现行资助评审体系是否过分偏向风险极低的增量型基础论文产出，而轻视了关键临床工程发明的攻关。
@@ -172,7 +168,7 @@ updated: 2026-10-03
 > > 探讨大规模追加科研资助对学术生态、青年学者及医学院财务构架的结构性冲击。
 > >
 > > - **预算翻倍与老龄化（[[Argument_Stephan_2013_NBER|Stephan, 2013]]）** 1998 至 2002 年预算翻倍诱使各高校大举扩招与申报项目，预算平稳后立项成功率暴跌破 20%，评审机制倾向于避险选择资深学者，50 岁以上项目负责人高达 46%。
-> > - **软钱模式与医学院次贷危机风险** 医学院将专任教师薪资外部化并依赖项目间接成本举债建楼，年均偿债额翻倍至 690 万美元，暴露出对联邦医学资助的高度财务脆弱性。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–34)]]
+> > - **软钱模式与医学院次贷危机风险** 医学院将专任教师薪资[[Externalization|外部化]]并依赖项目间接成本举债建楼，年均偿债额翻倍至 690 万美元，暴露出对联邦医学资助的高度财务脆弱性。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–34)]]
 
 ---
 
@@ -188,7 +184,7 @@ updated: 2026-10-03
 > | [[Market Shaping and Creating]] | Concept | NIH 通过早期巨额研发资助主动开辟生物医药新市场的理论模型。 |
 > | [[ROAR Framework]] | Theory | 指导 NIH 优化组织试错与解决公私风险收益对称分配的治理框架。 |
 > | [[Long-Term Public Utility]] | Concept | 任务导向型科研机构资助评估重构的最高战略准绳。 |
-> | [[Pasteur's Quadrant]] | Theory | NIH 的研究范式常被视作用启发性基础研究在生物医学领域的标准实现。 |
+> | [[Pasteur's Quadrant]] | Theory | NIH 的[[Paradigm\|研究范式]]常被视作用启发性基础研究在生物医学领域的标准实现。 |
 > | [[Discovery-Invention Cycle]] | Theory | 解释生物医学中前沿病理发现与诊疗工具发明双向共生的理论框架。 |
 > | [[Basic-Applied Research Dichotomy]] | Concept | NIH 等机构在政策反思中需要彻底破除的传统动机分类教条。 |
 > | [[Shopping Mall Model of Research Universities]] | Concept | 解释医学院借债扩建科研大楼与转租实验室运营机制的经济模型。 |
@@ -199,6 +195,6 @@ updated: 2026-10-03
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 实证阐发 NIH 在生物医药产业中充当核心市场创造者的事实，深入揭示公私研发中“风险社会化、收益私有化”的结构性失衡与治理对策。
-> - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al. (2013)]] — 系统剖析 NIH 与 DOE 任务导向型科研组织机制，批评传统基础/应用二分法对长周期医疗技术发明的阻碍。
+> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 实证阐发 NIH 在生物医药产业中充当核心[[Market Shaping and Creating|市场创造]]者的事实，深入揭示公私研发中“风险社会化、收益私有化”的结构性失衡与治理对策。
+> - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al. (2013)]] — 系统剖析 NIH 与 [[Department of Energy|DOE]] 任务导向型科研组织机制，批评传统基础/应用二分法对长周期医疗技术发明的阻碍。
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 运用详实经济学数据量化 NIH 预算翻倍政策对大学医学院软钱教职、偿债危机及青年学者立项老龄化的深远体制后果。

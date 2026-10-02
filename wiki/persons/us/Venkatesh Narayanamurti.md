@@ -8,7 +8,7 @@ summary: "美籍印裔应用物理学家与科技政策学者，哈佛大学工�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -46,12 +46,13 @@ related_facts:
   - "[[Department of Energy]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Academy of Sciences]]"
+  - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Venkatesh Narayanamurti
@@ -122,7 +123,7 @@ updated: 2026-10-02
 
 > [!influence-path] 影响路径
 > - **理论路径** 推进了从单向[[Linear Model of Innovation|线性创新模型]]与静态二维[[Pasteur's Quadrant|帕斯德象限]]向长周期网状动态创新理论的演进，为理解当代硬科技创新与大科学工程提供了核心分析工具。
-> - **政策路径** 直接参与美国总统科技顾问委员会（PCAST）、国家[[Chinese Academy of Sciences|科学院]]（[[National Academy of Sciences|NAS]]）与能源部（[[Department of Energy|DOE]]）政策咨询，促成能源前沿研究中心（EFRCs）与高级能源研究计划局（ARPA-E）采纳跨界组织治理准则。
+> - **政策路径** 直接参与美国总统科技顾问委员会（PCAST）、国家[[Chinese Academy of Sciences|科学院]]（[[National Academy of Sciences|NAS]]）与能源部（[[Department of Energy|DOE]]）政策咨询，促成能源前沿研究中心（EFRCs）与高级能源研究计划局（[[DARPA|ARPA]]-E）采纳跨界组织治理准则。
 > - **高等教育组织变革** 在哈佛大学主导推动工学院自文理学院独立设院，构建打破物理学、计算机科学与工程学传统院系藩篱的矩阵式跨学科科研与教学体系。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
