@@ -2,7 +2,7 @@
 summary: "由莱纳·卡特尔与玛丽安娜·马祖卡托提出的创新政策演进理论，借鉴尼采精神三变隐喻，系统梳理使命政策从后发追赶的社会经济奠基（骆驼）、冷战大科学的技术攻关（狮子）到应对重大社会挑战的敏捷实验型社会-技术转型（儿童）三个历史代际的演进规律与组织能力要求。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 33
+theory_related_count: 34
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -42,6 +42,7 @@ related_persons:
   - "[[Andrew Schonfield]]"
 related_facts:
   - "[[UN Sustainable Development Goals]]"
+  - "[[Apollo Program]]"
   - "[[DARPA]]"
   - "[[Government Digital Service]]"
   - "[[System Althoff]]"
@@ -87,7 +88,7 @@ aliases:
 > - **提出者与原始文本** 由[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）于 2018 年在《工业与企业变革》（*Industrial and Corporate Change*）期刊论文《[[Mission-Oriented Innovation Policy|使命导向创新政策]]与[[Public Dynamic Capabilities|公共部门动态能力]]》（*Mission-oriented innovation policy and dynamic capabilities in the public sector*）中系统提出。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]
 > - **原初问题** 当代创新政策学界与决策界在面对[[UN Sustainable Development Goals|联合国可持续发展目标]]（Sustainable Development Goals, SDGs）等宏大社会挑战时，往往盲目照搬冷战时期的中央集权式工程攻关模式，忽视了不同历史情境下使命目标、合法性来源与组织能力的结构性差异。
 > - **理论资源与材料** 借鉴[[Friedrich Nietzsche|弗里德里希·尼采]]（Friedrich Nietzsche）在《查拉图斯特拉如是说》中关于精神三变（骆驼、狮子、儿童）的哲学隐喻；融合阿尔温·温伯格（[[Alvin Weinberg]]）关于[[Big Science|大科学]]（Big Science）的论述、亨利·埃尔加斯（Henry Ergas）关于技术政策分类的比较研究，以及[[Andrew Schonfield|安德鲁·肖恩菲尔德]]（Andrew Schonfield）关于战后英法经济计划能力的实证考察。
-> - **形成路径** 通过梳理德国俾斯麦时期的后发追赶、美国曼哈顿工程与阿波罗计划、冷战时期[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）模式，以及当代[[Government Digital Service|英国政府数字服务局]]（Government Digital Service, GDS）与德国能源转型（Energiewende）实践，提炼出三代使命政策在观念动因、治理机制与组织载体上的演进规律。
+> - **形成路径** 通过梳理德国俾斯麦时期的后发追赶、美国曼哈顿工程与[[Apollo Program|阿波罗计划]]、冷战时期[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）模式，以及当代[[Government Digital Service|英国政府数字服务局]]（Government Digital Service, GDS）与德国能源转型（Energiewende）实践，提炼出三代使命政策在观念动因、治理机制与组织载体上的演进规律。
 
 ---
 
@@ -120,7 +121,7 @@ aliases:
 > **解释** 20 世纪 40 至 60 年代的美欧国家在冷战和军备竞赛背景下，依靠单一层级化国家实验室部署大科学项目。这种模式由具备强烈主权意识的政客与极具远见的英雄式科技主管领导，创造了巨大的技术突破与产业外溢效应。然而，该模式对纯技术以外的社会问题（如城市衰落、环境污染）缺乏敏捷响应力，且在缺乏公共采购对接的民用领域难以自发扩散，最终因[[New Public Management|新公共管理]]（New Public Management, NPM）改革对成本效率的片面追求而走向衰落。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
 >
 > **典型案例** 
-> - **美国曼哈顿工程与阿波罗计划** 依托中央集权指挥链与海量公共财政投入，攻克特定物理与航空航天工程极限。
+> - **美国曼哈顿工程与[[Apollo Program|阿波罗计划]]** 依托中央集权指挥链与海量公共财政投入，攻克特定物理与航空航天工程极限。
 > - **橡树岭国家实验室与[[DARPA|美国国防高级研究计划局]]（DARPA）** 在著名物理学家阿尔温·温伯格（[[Alvin Weinberg]]）等权威主管领导下，开创前沿反应堆与早期互联网技术。
 > - **[[CERN|欧洲核子研究组织]]（CERN）** 通过多国合作的大科学采购与供应链协同，催生了万维网（World Wide Web）等民用突破。
 

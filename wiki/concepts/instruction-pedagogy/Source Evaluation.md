@@ -4,7 +4,6 @@ aliases:
   - 信源评估
   - 来源评估
   - 来源审验
-  - Sourcing
   - Sourcing Heuristic
 summary: "在多文本阅读与数字化探究中，学习者主动审验作者资质、出版机构意图、潜在利益冲突及文本可信度的批判性认知规程与教学框架；元分析证实显性教授信源评估对学业成就具有高度因果促进效应（d = 0.800）。"
 type: concept
@@ -65,7 +64,7 @@ related_arguments:
 status: active
 confidence: high
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Source Evaluation

@@ -7,7 +7,7 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 72
+method_related_count: 74
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -75,6 +75,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Expert Interview]]"
+  - "[[Comparative Case Study]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
@@ -88,6 +89,7 @@ related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Hartong_2018_GSE]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
+  - "[[Argument_Schnee_1978_RP]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
@@ -95,7 +97,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-09-29
+updated: 2026-10-03
 ---
 # Case Study
 
@@ -278,3 +280,4 @@ Yin告诫在单案例设计中要谨慎：通常会忽视多案例的可能好�
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 采用多层级纵向质性个案研究设计，结合全国性政策法规文本、技术白皮书梳理与针对联邦及各州教育部高级决策者、测量学家的[[Expert Interview\|专家访谈]]，深入剖析[[Gesamtstrategie zum Bildungsmonitoring\|德国国家教育监测总体战略]]下[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB）作为国家[[Center of Calculation\|计算中心]]的崛起历程与跨尺度绩效[[Data Infrastructure\|数据基础设施]]的拓扑运作机制。
 > - [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]] — 综合运用墨西哥[[State Corporatism|国家法团主义]]成人扫盲补偿、智利新自由主义教育券私有化与阿根廷布宜诺斯艾利斯大学（UBA）重构三项典型国别个案研究，[[Rich and Thick Description|深描]][[Conditioned State Theory|受限国家]]在依附性积累与新自由主义全球化下教育政策的具体机制与阶级效应。
 > - [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示学界大量产出的单一外国教育体制深度国别个案研究（in-depth country case studies）内部蕴含着强烈的比较视野，并在后殖民分化、冷战东西欧阵营对峙与跨国宏观社会学比较三大路径上突破了单一民族国家的[[Unit of Analysis|分析单元]]容器。
+> - [[Argument_Schnee_1978_RP\|Schnee (1978)]] — 采用跨行业[[Comparative Case Study|比较案例研究]]设计，对比美国半导体与计算机两大高技术产业在 1950–1970 年代的发展历程，结合政府历史统计数据与半导体、计算机企业高管及大学工程学者的专家访谈，系统解析大型空间与国防公共项目通过早期研发资助、确定性市场需求、促成新企业准入、技术外溢与专业人才流动驱动产业增长的多维支撑机制。

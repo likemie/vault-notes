@@ -2,7 +2,7 @@
 summary: "指国家通过公共采购、预商用采购、标准制定、催化性法规与示范项目等手段，主动培育、汇聚与定向引导市场需求，以化解前沿技术早期市场不确定性并加速创新扩散的公共政策体系；是使命导向政策塑造新兴市场的核心支柱。"
 type: concept
 domain: "science-policy"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,12 +24,13 @@ related_concepts:
   - "[[Champ]]"
   - "[[Growth]]"
   - "[[Directionality of Innovation]]"
-  - "[[Source Evaluation]]"
+  - "[[Second-Sourcing]]"
   - "[[Paradigm]]"
   - "[[General Purpose Technology]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Market Failure]]"
   - "[[Variable]]"
+  - "[[Learning Economy]]"
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Technological Trajectories]]"
@@ -42,6 +43,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Mowery_2011_NBER]]"
+  - "[[Argument_Schnee_1978_RP]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
@@ -125,7 +127,7 @@ aliases:
 > 探讨公共采购如何通过保障高溢价初期市场与技术择优发包，激励新创企业开展激进研发投资并打破既有巨头垄断。
 
 > [!claim] [[David C. Mowery|Mowery, D. C.]]
-> **采购规模预期对企业自主研发的诱发效应** [[David C. Mowery|大卫·莫厄里]]（David C. Mowery）指出，战后美国军方对高性能半导体和计算机的大规模采购合同，其实质功能类似于高额创新竞赛奖金（Prize）。德州仪器（Texas Instruments）与[[Fairchild Semiconductor|仙童半导体]]等新创企业正是受到军方明确采购前景的激励，主动投入企业自有资金攻克硅晶体管与集成电路（Integrated Circuit, IC）工艺；此外，军方按技术指标而非企业规模发包的策略，结合强制要求第二货源（Second-[[Source Evaluation|Sourcing]]）和交叉许可，直接降低了行业准入门槛，催生了高度竞争的商用芯片市场。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 163–168, 185)]]
+> **采购规模预期对企业自主研发的诱发效应** [[David C. Mowery|大卫·莫厄里]]（David C. Mowery）指出，战后美国军方对高性能半导体和计算机的大规模采购合同，其实质功能类似于高额创新竞赛奖金（Prize）。德州仪器（Texas Instruments）与[[Fairchild Semiconductor|仙童半导体]]等新创企业正是受到军方明确采购前景的激励，主动投入企业自有资金攻克硅晶体管与集成电路（Integrated Circuit, IC）工艺；此外，军方按技术指标而非企业规模发包的策略，结合强制要求第二货源（[[Second-Sourcing]]）和交叉许可，直接降低了行业准入门槛，催生了高度竞争的商用芯片市场。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 163–168, 185)]]
 
 ---
 
@@ -174,7 +176,7 @@ aliases:
 > > 关于冷战国防采购推动微电子革命的成功经验能否直接复制到气候能源技术政策的争论。
 > >
 > > - **普遍复制论** 主张通过政府大规模绿色采购与可再生能源补贴直接拉动脱碳产业成熟。
-> > - **结构异质论（[[Argument_Mowery_2011_NBER|Mowery, 2011]]）** 指出军工采购愿意为极致性能支付巨大溢价且国防部是单一终极买家；而能源电力是均质商品且面临分散的民用公用事业市场，需求侧政策必须配合碳定价、排放标准与电网强制入网规制方能生效。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 183–186)]]
+> > - **结构异质论** 指出军工采购愿意为极致性能支付巨大溢价且国防部是单一终极买家；而能源电力是均质商品且面临分散的民用公用事业市场，需求侧政策必须配合碳定价、排放标准与电网强制入网规制方能生效。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 183–186)]]
 
 ---
 
@@ -187,6 +189,7 @@ aliases:
 > |---|---|---|---|---|---|---|
 > | [[Argument_Mowery_2011_NBER\|Mowery (2011, p. 168)]] | 1962–1978年美国集成电路终端出货结构演变（Table 5.1） | 产业统计长时序考据 | 军用与商用市场出货份额 | 军品采购份额从 1962 年的 100% 降至 1965 年的 55%、1969 年的 36%、1978 年的 10%；计算机商用份额从 1962 年的 0% 升至 1978 年的 37.5%，工业商用份额升至 37.5% | 产业统计普查数据 | 证明政府采购在早期托底并成功诱发商用市场自发扩散的阶段性规律 |
 > | [[Argument_Mowery_2011_NBER\|Mowery (2011, pp. 165–168)]] | 1962–1978年美国集成电路总产值与单片均价 | 产业统计与价格追踪 | 国内总出货额与单片均价 | 全美国内集成电路总出货额从 1962 年的 400 万美元激增至 1978 年的 20.8 亿美元；单片集成电路均价从 1962 年的 31.60 美元暴跌至 1978 年的 1.05 美元 | 产业历史数据 | 证实需求侧采购提供的规模效应推动制造成本指数级下降 |
+| [[Argument_Schnee_1978_RP\|Schnee (1978, pp. 7–9)]] | 1954–1968年美国半导体、集成电路与计算机市场的空间与国防采购份额及价格演进 | 历史产业统计与长时序分析 | 国防与空间采购份额、累计产量倍增与单片价格 | 半导体总产值由 1955 年 4000 万美元增至 1961 年 5.65 亿美元，军品占比维持在 38%–45%；1962 年集成电路商业化元年总产值 400 万美元全部（100%）由军品采购包揽，均价 50 美元；至 1968 年总产值达 3.12 亿美元（军品占 37%），均价降至 2 美元，1973 年进一步降至 0.63 美元；证实累计产量每翻一番器件平均制造成本下降 20%–30% 的学习经济效应；商用计算机销售在 1962 年前持续低于军用与空间市场（1954 年 100% 为军用空间采购） | 美国商务部 BDSA 与 EIA 统计 | 实证确立空间与国防部门确定性需求在产业启动期释放[[Learning Economy\|学习经济]]并拉动通用市场扩散的核心地位 |
 
 ---
 
@@ -195,4 +198,6 @@ aliases:
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 跨越 150 年历史梳理三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]，系统阐述公共采购与需求侧工具在塑造新兴战略市场中的决定性地位。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 详尽剖析战后美国军方半导体、计算机与软件采购合同如何充当创新奖金与先导用户，降低新创企业进入壁垒并催生商用通用市场，同时揭示需求侧采购在技术成熟期的效力衰减边界与能源政策启示。
+> - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统评估美国空间与国防项目对半导体和计算机产业发展的需求侧塑造机制，实证揭示早熟集成电路 100% 采购托底如何释放 20%–30% 的[[Learning Economy|学习经济]]效应并促使硬件价格暴跌十倍以上。
+
 

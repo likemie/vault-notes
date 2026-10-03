@@ -14,7 +14,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 54
+fact_related_count: 55
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -78,6 +78,7 @@ related_facts:
   - "[[Building Evidence in Education]]"
   - "[[Learning Data Compact]]"
   - "[[KfW]]"
+  - "[[Apollo Program]]"
   - "[[DARPA]]"
   - "[[PISA]]"
   - "[[Bill & Melinda Gates Foundation]]"
@@ -153,7 +154,7 @@ updated: 2026-10-03
 > - **基层执行主体** 主权国家教育部、地方学区、基础学校、环保组织、社会企业以及民间非政府组织。
 
 > [!pathways]- 实施路径与组织形态
-> - **第三代使命的“孩童”（Child）形态与[[Network Governance|网络化治理]]** 区别于第一代阿波罗计划与第二代 [[DARPA]] 具备严密层级或强力项目经理威权的“狮子”（Lion）形态，落实 SDGs 这一第三代使命依赖去中心化、灵活试验、涵盖广泛利益相关者的网络化组织形态，要求公共部门具备动态协调、跨界意愿激发与自下而上共创能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 794–797)]]
+> - **第三代使命的“孩童”（Child）形态与[[Network Governance|网络化治理]]** 区别于第一代[[Apollo Program|阿波罗计划]]与第二代 [[DARPA]] 具备严密层级或强力项目经理威权的“狮子”（Lion）形态，落实 SDGs 这一第三代使命依赖去中心化、灵活试验、涵盖广泛利益相关者的网络化组织形态，要求公共部门具备动态协调、跨界意愿激发与自下而上共创能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 794–797)]]
 > - **全球南方基础教育层面的量化基准[[Transfer Translation Transformation|转译]]** 通过将 SDG 4 的 10 项具体目标分解为一系列微观基准，国际多边组织直接介入借款国的国家中期教育部门规划（ESDP），强制推动行政数据和测评指标的对接。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **科技与产业层面的四层使命分解金字塔** 国家与国际组织通过“宏大挑战（SDGs） $\to$ 战略使命（Missions） $\to$ 跨部门研发与创新项目（R&I Projects） $\to$ 自下而上协同探索”的四层架构，将气候中和（SDG 13）、海洋治理（SDG 14）转化为跨越材料、化工、数字、航运与废弃物管理的跨产业联合行动。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 811)]]
 > - **高等教育系统多渠道嵌入与对齐** 大学通过三大支柱全面融入 SDGs 治理框架（[[Argument_Zapp_2022_Springer|Zapp, 2022, pp. 150–154]]）：

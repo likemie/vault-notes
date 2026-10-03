@@ -10,7 +10,7 @@ aliases:
 summary: "以应对重大社会挑战和变革性系统转型为核心导向，通过主动塑造与共创市场、战略方向引导、挑选意愿者、三层公共动态能力构建与引领和学习范式推动创新的公共政策体系"
 type: concept
 domain: "science-policy"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -70,6 +70,7 @@ related_facts:
   - "[[UN Sustainable Development Goals]]"
   - "[[System Althoff]]"
   - "[[Ministry of International Trade and Industry]]"
+  - "[[Apollo Program]]"
   - "[[DARPA]]"
   - "[[Horizon Europe]]"
 related_arguments:
@@ -254,7 +255,7 @@ updated: 2026-10-03
 
 > [!dev-timeline] 概念演变
 > - **19 世纪末至 20 世纪初 — 第一代后发追赶使命（骆驼形态）** 德国[[System Althoff|阿尔托夫体制]]与[[Ministry of International Trade and Industry|日本通商产业省]]（MITI）依托韦伯式功绩官僚建立[[Research Universities|研究型大学]]与工业现代化底座。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–793)]]
-> - **1940s–1960s — 第二代冷战[[Big Science|大科学]]使命（狮子形态）** 美国曼哈顿工程、阿波罗计划与 [[DARPA]] 模式，依靠垂直集权国家实验室进行硬科技攻坚，产生巨大民用外溢。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
+> - **1940s–1960s — 第二代冷战[[Big Science|大科学]]使命（狮子形态）** 美国曼哈顿工程、[[Apollo Program|阿波罗计划]]与 [[DARPA]] 模式，依靠垂直集权国家实验室进行硬科技攻坚，产生巨大民用外溢。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
 > - **1993 — 新旧使命对比理论化** 索特与阿伦德尔（Soete & Arundel, 1993）首次系统对比了传统国防航天使命与以环境社会挑战为中心的新型使命政策。
 > - **2012 — [[Transformative System Failures|变革性系统失灵]]框架提出** Weber & Rohracher（2012）提出涵盖方向性、需求表达、[[Reflexivity|反思性]]与跨层级协调的四类系统失灵，为新一代使命政策奠定理论基石。
 > - **2018 — 欧盟[[Horizon Europe|地平线欧洲]]战略确立与 ROAR 框架** [[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）提出[[Market Shaping and Creating|市场塑造]]、[[Picking the Willing|挑选意愿者]]机制与 ROAR [[Analytic Framework|分析框架]]，推动使命导向框架进入欧盟科研创新顶层设计。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]

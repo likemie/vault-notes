@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -31,8 +31,9 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Reliability]]"
   - "[[Assemblage]]"
-  - "[[Paradigm]]"
   - "[[Attrition]]"
+  - "[[Applied Medical Innovation]]"
+  - "[[Paradigm]]"
   - "[[General Purpose Technology]]"
 related_theories: []
 related_methods: []
@@ -41,6 +42,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Lecuyer_1999_HT]]"
+  - "[[Argument_Schnee_1978_RP]]"
 confidence: high
 status: draft
 created: 2026-10-03
@@ -69,7 +71,7 @@ updated: 2026-10-03
 > [!dev-timeline] 组织发展历程
 > - **1957–1960 — 军工航电崛起与技术奠基期** 成立初期专注于满足美国国防部与北美航空民兵洲际弹道导弹（Minuteman Missile）对极端耐高温与高[[Reliability|可靠性]]硅晶体管的需求。赫尔尼（Jean Hoerni）发明平面工艺，诺伊斯（Robert Noyce）提出单片集成电路方案，仙童几乎垄断了高端军用硅器件市场。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 182–184)]]
 > - **1960–1967 — 商业市场转向与大规模制造革命** 面对国防采购体制变革（取消单一来源合同、推行强制第二货源与价格重审）以及竞争对手崛起，管理层果断转向民用计算机与消费电子市场。引入通用电气与福特汽车的大规模生产管理人才（如查尔斯·斯波克），实施前瞻性剧烈降价，建立[[Application Engineering|应用工程]]部，设立香港离岸[[Assemblage|组装]]厂，发明[[Dual In-Line Package|双列直插封装]]（DIP），在1968年拿下全美计算机集成电路市场80%的份额。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 184–207)]]
-> - **1968年及以后 — 硅谷母体与衍生企业繁衍（Fairchildren）** 随着核心创始人与高管陆续离职自主创业，仙童成为硅谷高科技创业生态的“黄埔军校”，直接或间接衍生出英特尔（Intel）、超威半导体（AMD）、国家半导体（National Semiconductor）、西格尼蒂克斯（Signetics）等30余家半导体领军企业。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, p. 180)]]
+> - **1968年及以后 — 硅谷母体与衍生企业繁衍（Fairchildren）** 随着核心创始人与高管陆续离职自主创业，仙童成为硅谷高科技创业生态的母体。在 1955 至 1967 年间直接衍生出 5 家企业（1959年瑞姆半导体、1961年西格尼蒂克斯、1962年阿梅尔科-泰勒达因、1962年莫莱克特罗、1963年通用微电子 GME），并间接衍生出 4 家企业（1964年联合碳化物电子、1966年美国微系统 AMI、1967年电子阵列、1967年英特瑟尔 Intersil）。尽管仙童于 1960 年率先研发出金属氧化物半导体（MOS）晶体管后因技术瓶颈与人才[[Attrition|流失]]一度放弃，但衍生企业 GME 与 [[Applied Medical Innovation|AMI]] 随后依托 NASA 采购合同攻克了高稳定性 MOS 工艺；1967 年仙童高管离职振兴了国家半导体，1968 年仙童又从摩托罗拉挖角半导体部门总经理，成为全美半导体行业人才流动与技术扩散的中枢。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 12–13, 17–19)]]; [[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, p. 180)]]
 
 ---
 

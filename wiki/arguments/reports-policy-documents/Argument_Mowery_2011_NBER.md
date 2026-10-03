@@ -29,9 +29,9 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Market Shaping and Creating]]"
   - "[[Second-Sourcing]]"
-  - "[[Source Evaluation]]"
   - "[[Valley of Death]]"
   - "[[Sage]]"
+  - "[[Von Neumann Architecture]]"
   - "[[Greenfield vs Brownfield Innovation]]"
   - "[[Growth]]"
 related_theories:
@@ -132,7 +132,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["战后产业起点：微电子、计算机与软件产业萌芽"] --> B["政策双重杠杆一：1956年反垄断同意令强制专利开放"]
 >     A --> C["政策双重杠杆二：国防采购充当创新奖金与首发用户"]
 >     B --> D["催生专业化新创企业群（德州仪器/仙童/小型机/ISVs）"]
@@ -170,7 +170,7 @@ issuing_organization: "National Bureau of Economic Research"
 > - **创新竞赛奖金效应**
 >   巨额军品采购合同的前景类似于高额研发竞赛奖金。德州仪器（Texas Instruments）敏锐捕捉到军方对硅晶体管与集成电路（Integrated Circuit, IC）的渴求，主动投入自有资金成功研制出首个商用硅晶体管（1954）和集成电路（基尔比，1958），以满足民兵导弹（Minuteman）制导计算机的要求。（pp.163–164）
 > - **能力本位与第二货源采购要求**
->   军方打破传统电子巨头垄断，按技术指标直接向新创企业（如德州仪器、[[Fairchild Semiconductor|仙童半导体]]、Transitron）发包，并强制推行 [[Second-Sourcing|第二货源采购机制]]（Second-[[Source Evaluation|Sourcing]]）要求技术向第二供应商交叉许可，极大地加速了跨企业工艺技术流动。（pp.164–165）
+>   军方打破传统电子巨头垄断，按技术指标直接向新创企业（如德州仪器、[[Fairchild Semiconductor|仙童半导体]]、Transitron）发包，并强制推行 [[Second-Sourcing|第二货源采购机制]]（Second-Sourcing）要求技术向第二供应商交叉许可，极大地加速了跨企业工艺技术流动。（pp.164–165）
 > - **早期市场 100% 托底与成本指数级下行**
 >   军方采购在 1962 年占据集成电路出货量的 100%，支撑制造良率大幅爬坡；单片 IC 均价从 1962 年的 31.60 美元暴跌至 1968 年的 2.33 美元，民用商用采购份额自 1968 年起迅速反超军品（Table 5.1）。（pp.165–168）
 > - **优胜劣汰的市场选择机制**
@@ -242,10 +242,10 @@ issuing_organization: "National Bureau of Economic Research"
 > | **ERA 1103 (Atlas II, 制造 20 台)** | \$895 | 海军 / NSA | 1953 |
 > | **IBM NORC** | \$2,500 | 海军（Navy） | 1955 |
 >
-> **图表解读** 展现了二战刚结束的十年间，美国陆海空三军与民政科研机构以多元去中心化方式并行资助了至少 19 项由高校和新创企业研发的计算机项目，确立了冯·诺依曼架构与存储程序通用计算机的技术基石。（pp.172–173）
+> **图表解读** 展现了二战刚结束的十年间，美国陆海空三军与民政科研机构以多元去中心化方式并行资助了至少 19 项由高校和新创企业研发的计算机项目，确立了 [[Von Neumann Architecture|冯·诺依曼架构]] 与存储程序通用计算机的技术基石。（pp.172–173）
 
 > [!feature] 战后美国大学早期计算探索的制度特征
-> - **多元去中心化资助渠道** 陆海空三军与民政科研机构并行支持不同技术路线（冯·诺依曼架构、旋风工程等），有效规避了单一机构押注特定方案的技术锁定风险。（pp.171–173）
+> - **多元去中心化资助渠道** 陆海空三军与民政科研机构并行支持不同技术路线（[[Von Neumann Architecture|冯·诺依曼架构]]、旋风工程等），有效规避了单一机构押注特定方案的技术锁定风险。（pp.171–173）
 > - **非专有与学术公开原则** 资助协议普遍坚持研究成果公开出版与广泛扩散，打破了军事保密壁垒，奠定了通用计算的基础知识公地。（pp.173–174）
 
 #### 2. 国防战略工程与 [[1956 IBM Consent Decree|1956年国际商业机器公司反垄断同意令]]
@@ -314,7 +314,7 @@ issuing_organization: "National Bureau of Economic Research"
 [[General Purpose Technology|通用目的技术]]不仅取决于上游器件制造，更取决于下游各行业用户为适配新技术所开展的深度流程再造与互补性软件研发。（p.185）
 
 > [!warrant]- 共同发明对技术迭代的反哺机制
-> 按照布雷斯纳汉与格林斯坦（1996）的理论，信息技术的扩散高度依赖用户与供应商之间的双向[[Co-invention|共同发明]]。IBM 650、IBM 360 及 PC 等标准化计算平台的广泛部署，为全美金融、交通与制造业提供了海量试验场景（如美洲航空公司基于 [[Semi-Automatic Ground Environment|SAGE]] 技术联合开发的半自动商业研究环境 [Semi-Automatic Business Research Environment, SABRE] 航空订票系统）。大规模应用激发了分散化用户的微观试验，用户反馈反过来推动了上游软硬件架构的精细化迭代与[[Paradigm|范式]]收敛。（pp.179, 185）
+> 按照布雷斯纳汉与格林斯坦（1996）的理论，信息技术的扩散高度依赖用户与供应商之间的双向[[Co-invention|共同发明]]。IBM 650、IBM 360 及 PC 等标准化计算平台的广泛部署，为全美金融、交通与制造业提供了海量试验场景（如美洲航空公司基于 SAGE 技术联合开发的半自动商业研究环境 [Semi-Automatic Business Research Environment, SABRE] 航空订票系统）。大规模应用激发了分散化用户的微观试验，用户反馈反过来推动了上游软硬件架构的精细化迭代与[[Paradigm|范式]]收敛。（pp.179, 185）
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "冷战时期美国国防部在半导体与集成电路采购中强制推行的制度性采购规程，要求中标主承包商必须向竞争对手交叉许可全部专利与制造工艺诀窍以保障供应链安全；该需求侧政策在客观上打破了技术垄断壁垒，加速了默会工艺知识的跨企业流动，奠定了战后硅谷去中心化、高竞争性的微电子产业生态"
 type: concept
 domain: "science-policy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,8 +20,8 @@ tags:
   - theme/technology-diffusion
   - region/us
 related_concepts:
-  - "[[Source Evaluation]]"
   - "[[Technology Transfer]]"
+  - "[[Source Evaluation]]"
   - "[[General Purpose Technology]]"
   - "[[Document]]"
   - "[[Innovation Ecosystem]]"
@@ -37,6 +37,7 @@ related_persons:
   - "[[David C. Mowery]]"
 related_facts:
   - "[[Fairchild Semiconductor]]"
+  - "[[Apollo Program]]"
 related_arguments:
   - "[[Argument_Mowery_2011_NBER]]"
 confidence: high
@@ -52,7 +53,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> 第二货源采购机制（Second-[[Source Evaluation|Sourcing]]）是冷战时期美国军方（特别是空军与海军军械部门）在先导高科技装备与微电子器件采购合同中强制推行的规制条款：要求中标的主承包商（Prime Contractor）必须与至少一家具备生产能力的独立竞争对手（第二货源供应商）签署[[Technology Transfer|技术转让]]与全面交叉许可协议，向其无保留移交产品的设计图纸、光刻掩膜、材料配方与制造工艺诀窍（Process Know-how），以确保军方在战时或主供应商产能中断时拥有完全兼容的备份供货渠道。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 164–165)]]
+> 第二货源采购机制（Second-Sourcing）是冷战时期美国军方（特别是空军与海军军械部门）在先导高科技装备与微电子器件采购合同中强制推行的规制条款：要求中标的主承包商（Prime Contractor）必须与至少一家具备生产能力的独立竞争对手（第二货源供应商）签署[[Technology Transfer|技术转让]]与全面交叉许可协议，向其无保留移交产品的设计图纸、光刻掩膜、材料配方与制造工艺诀窍（Process Know-how），以确保军方在战时或主供应商产能中断时拥有完全兼容的备份供货渠道。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 164–165)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种由买方（国家国防部门）主导的强制性技术解密、标准互认与工艺授权契约安排。
@@ -92,13 +93,13 @@ updated: 2026-10-03
 
 > [!logic-map]- 第二货源机制运作与产业溢出逻辑链
 > ```mermaid
-> flowchart TD
->     A["军方提出极端微电子技术指标（如民兵导弹制导计算机）"] --> B["初创企业研制突破（德州仪器硅晶体管/集成电路）"]
->     B --> C["军方强制执行第二货源条款（Second-Sourcing Requirement）"]
->     C --> D["主承包商向竞争对手移交光刻图纸与工艺诀窍"]
->     D --> E["默会工艺知识在硅谷企业网络中高速无阻扩散"]
->     E --> F["多厂商产能竞争驱动良率大幅爬坡与芯片成本暴跌"]
->     F --> G["民用计算机与工业市场采纳集成电路，实现通用目的技术自生扩散"]
+> flowchart LR
+>     A["军方提出极端微电子技术指标<br>（如民兵导弹制导计算机）"] --> B["初创企业研制突破<br>（硅晶体管与集成电路）"]
+>     B --> C["军方强制执行第二货源条款<br>（Second-Sourcing）"]
+>     C --> D["主承包商向竞争对手移交<br>光刻图纸与工艺诀窍"]
+>     D --> E["默会工艺知识在硅谷<br>企业网络中高速扩散"]
+>     E --> F["多厂商产能竞争驱动<br>良率爬坡与芯片成本暴跌"]
+>     F --> G["民用计算机与工业市场采纳<br>实现通用目的技术自生扩散"]
 > ```
 
 ---
@@ -113,7 +114,7 @@ updated: 2026-10-03
 > 探讨该机制如何超越传统的专利公开原则，通过强制移交隐性工艺经验打破技术独占。
 
 > [!claim] [[David C. Mowery|Mowery, D. C.]]
-> **默会知识的制度化强制外溢** 莫厄里论证指出，二战后微电子技术的关键瓶颈不在于公开[[Document|文献]]中的科学原理，而在于高度专有、难以成文表达的晶圆掺杂、扩散与光刻良率控制诀窍。美国军方推行的第二货源采购要求，从制度上剥夺了先发创新企业将突破性半导体器件锁定为排他性专有资产的可能。为了获得利润丰厚的民兵导弹和阿波罗计划军品合同，先发厂商被迫向竞争对手开放整套制造工艺；这种非自愿的[[Technology Transfer|技术转移]]极大地缩短了全行业的技术追赶周期，使整个美国半导体产业在极短时间内掌握了集成电路制造能力。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 164–165)]]
+> **默会知识的制度化强制外溢** 莫厄里论证指出，二战后微电子技术的关键瓶颈不在于公开[[Document|文献]]中的科学原理，而在于高度专有、难以成文表达的晶圆掺杂、扩散与光刻良率控制诀窍。美国军方推行的第二货源采购要求，从制度上剥夺了先发创新企业将突破性半导体器件锁定为排他性专有资产的可能。为了获得利润丰厚的民兵导弹和[[Apollo Program|阿波罗计划]]军品合同，先发厂商被迫向竞争对手开放整套制造工艺；这种非自愿的[[Technology Transfer|技术转移]]极大地缩短了全行业的技术追赶周期，使整个美国半导体产业在极短时间内掌握了集成电路制造能力。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 164–165)]]
 
 ---
 
@@ -132,8 +133,8 @@ updated: 2026-10-03
 > [!contrast-table] 第二货源采购机制核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **知识扩散与技术解密** | 强制转移隐性工艺诀窍，加速全行业良率提升与成本下行 | 新兴硬件与制造工艺萌芽期 | [[Argument_Mowery_2011_NBER|Mowery (2011, pp. 164–165)]] |
-> | **产业组织与去中心化** | 降低新创企业准入门槛，打破纵向一体化巨头对[[Technological Trajectories\|技术轨道]]的垄断 | 军民双向技术溢出与需求侧采购规制 | Malerba (1985); [[Argument_Mowery_2011_NBER|Mowery (2011, pp. 165–171)]] |
+> | **知识扩散与技术解密** | 强制转移隐性工艺诀窍，加速全行业良率提升与成本下行 | 新兴硬件与制造工艺萌芽期 | [[Argument_Mowery_2011_NBER\|Mowery (2011, pp. 164–165)]] |
+> | **产业组织与去中心化** | 降低新创企业准入门槛，打破纵向一体化巨头对[[Technological Trajectories\|技术轨道]]的垄断 | 军民双向技术溢出与需求侧采购规制 | Malerba (1985); [[Argument_Mowery_2011_NBER\|Mowery (2011, pp. 165–171)]] |
 
 ---
 

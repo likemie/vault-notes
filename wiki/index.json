@@ -7451,7 +7451,6 @@
       "信源评估",
       "来源评估",
       "来源审验",
-      "Sourcing",
       "Sourcing Heuristic"
     ]
   },
@@ -10472,6 +10471,17 @@
     ]
   },
   {
+    "title": "Demonstration Effect",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Demonstration Effect.md",
+    "aliases": [
+      "示范效应",
+      "demonstration effects",
+      "technological demonstration effect",
+      "技术示范效应"
+    ]
+  },
+  {
     "title": "Directionality of Innovation",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Directionality of Innovation.md",
@@ -10711,6 +10721,21 @@
       "Transformative System Failure",
       "Transformative Failures",
       "TSF"
+    ]
+  },
+  {
+    "title": "Von Neumann Architecture",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Von Neumann Architecture.md",
+    "aliases": [
+      "冯·诺依曼体系结构",
+      "冯·诺依曼架构",
+      "冯诺依曼架构",
+      "存储程序计算机体系结构",
+      "存储程序计算机",
+      "存储程序架构",
+      "Stored-program architecture",
+      "Von Neumann computer architecture"
     ]
   },
   {
@@ -12128,7 +12153,12 @@
     "type": "concept",
     "path": "wiki/concepts/university-industry-collaboration/Learning Economy.md",
     "aliases": [
-      "学习经济"
+      "学习经济",
+      "learning economies",
+      "learning curve effect",
+      "学习曲线效应",
+      "经验曲线",
+      "experience curve"
     ]
   },
   {
@@ -28838,6 +28868,17 @@
     ]
   },
   {
+    "title": "Apollo Program",
+    "type": "fact",
+    "path": "wiki/facts/us/Apollo Program.md",
+    "aliases": [
+      "阿波罗计划",
+      "Project Apollo",
+      "美国阿波罗载人登月计划",
+      "NASA Apollo Program"
+    ]
+  },
+  {
     "title": "Applied Sciences NYC",
     "type": "fact",
     "path": "wiki/facts/us/Applied Sciences NYC.md",
@@ -30640,6 +30681,11 @@
     "title": "Argument_Pavitt_1984_RP",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Research Policy/Argument_Pavitt_1984_RP.md"
+  },
+  {
+    "title": "Argument_Schnee_1978_RP",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Research Policy/Argument_Schnee_1978_RP.md"
   },
   {
     "title": "Argument_Bainbridge_2022_ROE",

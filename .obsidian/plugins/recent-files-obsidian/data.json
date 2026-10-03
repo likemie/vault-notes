@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Demonstration Effect",
+      "path": "wiki/concepts/science-policy/Demonstration Effect.md"
+    },
+    {
+      "basename": "Argument_Schnee_1978_RP",
+      "path": "wiki/arguments/journal-articles/Research Policy/Argument_Schnee_1978_RP.md"
+    },
+    {
+      "basename": "Learning Economy",
+      "path": "wiki/concepts/university-industry-collaboration/Learning Economy.md"
+    },
+    {
+      "basename": "Human Capital Theory",
+      "path": "wiki/theories/political-economy-geopolitics/Human Capital Theory.md"
+    },
+    {
       "basename": "Argument_Mowery_2011_NBER",
       "path": "wiki/arguments/reports-policy-documents/Argument_Mowery_2011_NBER.md"
+    },
+    {
+      "basename": "Greenfield vs Brownfield Innovation",
+      "path": "wiki/concepts/economics/Greenfield vs Brownfield Innovation.md"
+    },
+    {
+      "basename": "MOSIS",
+      "path": "wiki/facts/us/MOSIS.md"
+    },
+    {
+      "basename": "Source Evaluation",
+      "path": "wiki/concepts/instruction-pedagogy/Source Evaluation.md"
+    },
+    {
+      "basename": "Second-Sourcing",
+      "path": "wiki/concepts/science-policy/Second-Sourcing.md"
     },
     {
       "basename": "The Green Book",
@@ -167,38 +199,6 @@
     {
       "basename": "Public Dynamic Capabilities",
       "path": "wiki/concepts/science-policy/Public Dynamic Capabilities.md"
-    },
-    {
-      "basename": "Complexity Paradox",
-      "path": "wiki/concepts/science-policy/Complexity Paradox.md"
-    },
-    {
-      "basename": "New Public Management",
-      "path": "wiki/concepts/educational-leadership-administration/New Public Management.md"
-    },
-    {
-      "basename": "Directionality of Innovation",
-      "path": "wiki/concepts/science-policy/Directionality of Innovation.md"
-    },
-    {
-      "basename": "Argument_Mazzucato_2018_ICC",
-      "path": "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Mazzucato_2018_ICC.md"
-    },
-    {
-      "basename": "Argument_Lecuyer_1999_HT",
-      "path": "wiki/arguments/journal-articles/History and Technology/Argument_Lecuyer_1999_HT.md"
-    },
-    {
-      "basename": "Technological Convergence",
-      "path": "wiki/concepts/economics/Technological Convergence.md"
-    },
-    {
-      "basename": "San Francisco Bay Area",
-      "path": "wiki/concepts/university-industry-collaboration/San Francisco Bay Area.md"
-    },
-    {
-      "basename": "Lecuyer_1999_HT",
-      "path": "sources/Lecuyer_1999_HT/Lecuyer_1999_HT.md"
     }
   ],
   "omittedPaths": [],

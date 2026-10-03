@@ -11,7 +11,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Governing by Numbers]]"
   - "[[Policy Brokerage]]"
+  - "[[Demonstration Effect]]"
   - "[[Research Translation]]"
   - "[[Knowledge Production]]"
   - "[[Theories of Policy Change]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Knowledge and Innovation Exchange
@@ -105,7 +106,7 @@ updated: 2026-10-02
 > [!pathways]- 实施路径与管理
 > - **需求驱动的议题筛选** 由区域各成员国教育部自主评选区域优先政策难题，避免总部强加单一教条。
 > - **跨国自适应研究资助** 针对相同难题在 3 至 5 个国家开展平行试点与横向对照，探索跨情境适切性。
-> - **同侪互学与柔性施压** 组织教育部高级官员闭门研讨会，借助邻国成功案例的示范效应产生温和的同侪改革压力。
+> - **同侪互学与柔性施压** 组织教育部高级官员闭门研讨会，借助邻国成功案例的[[Demonstration Effect|示范效应]]产生温和的同侪改革压力。
 
 ---
 

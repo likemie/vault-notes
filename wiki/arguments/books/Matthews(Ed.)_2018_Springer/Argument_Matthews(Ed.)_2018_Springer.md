@@ -7,7 +7,7 @@ title: "Argument_Matthews(Ed.)_2018_Springer"
 argument_key: "Argument_Matthews(Ed.)_2018_Springer"
 argument_display_title: "History, Philosophy and Science Teaching: New Perspectives"
 argument_kind: "edited-volume"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#e5e7eb"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Positivism]]"
   - "[[Scientism]]"
+  - "[[Demonstration Effect]]"
   - "[[Document]]"
   - "[[Epistemic Stances]]"
   - "[[Scientific Literacy]]"
@@ -67,7 +68,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-21
-updated: 2026-09-21
+updated: 2026-10-03
 ---
 
 # Argument_Matthews(Ed.)_2018_Springer
@@ -184,7 +185,7 @@ flowchart TD
 
 ## 章节处理路线
 
-全书 12 篇论文涵盖了科学教育哲学的核心论题，后续将依据理论辐射力与方法论示范效应分阶段逐步推进。
+全书 12 篇论文涵盖了科学教育哲学的核心论题，后续将依据理论辐射力与方法论[[Demonstration Effect|示范效应]]分阶段逐步推进。
 
 > [!chapter-roadmap] 章节处理路线
 > - **已处理章节** 全书概览（Overview）及编者导论（*New Perspectives in History, Philosophy and Science Teaching: An Introduction*）；Ch. 05 [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]（构建微观课堂[[Epistemic Practices\|认识论实践]]的四维行动框架与三大教学取向对比）。

@@ -11,7 +11,7 @@ subtype: organization
 region: canada
 fact_region: "canada"
 fact_kind: "organization"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Knowledge Production]]"
   - "[[Incubation]]"
+  - "[[Demonstration Effect]]"
   - "[[Reliability]]"
 related_theories:
   - "[[RIA Model for Innovation]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-03
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Schlegel-UW Research Institute for Aging
@@ -74,7 +75,7 @@ RIA 的独特之处在于其运行模式从一开始就是"共同设计"（co-de
 
 **创新模型（[[RIA Model for Innovation]]）** 包含四个阶段——[[Knowledge Production|知识生成]]（Knowledge Generation）、孵化（[[Incubation]]，发现和开发创新）、加速（Acceleration，在新环境中扩展和评估创新）、动员（Mobilization，分享知识惠及各地老年人）。
 
-**跨院系参与** 三个学院的参与使 RIA 的成功经验在校内产生示范效应。参与 RIA 的教师成为同院系同伴的榜样和导师，以自身成功经验降低其他教师对[[University-Industry Collaboration|产学合作]]的疑虑。
+**跨院系参与** 三个学院的参与使 RIA 的成功经验在校内产生[[Demonstration Effect|示范效应]]。参与 RIA 的教师成为同院系同伴的榜样和导师，以自身成功经验降低其他教师对[[University-Industry Collaboration|产学合作]]的疑虑。
 
 ---
 

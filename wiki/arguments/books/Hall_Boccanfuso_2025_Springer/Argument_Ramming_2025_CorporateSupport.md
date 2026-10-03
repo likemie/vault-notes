@@ -9,7 +9,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Public-Private Partnership in Research]]"
   - "[[Research Scope]]"
   - "[[Precompetitive Research]]"
+  - "[[Demonstration Effect]]"
   - "[[Return on Investment]]"
   - "[[STEM Education]]"
 related_theories:
@@ -58,7 +59,7 @@ sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch12_Ramming_2025|Ch12_Ramming_2025]]"
 status: draft
 created: 2026-06-03
-updated: 2026-08-20
+updated: 2026-10-03
 year: 2025
 doi: ""
 citation_aliases:
@@ -378,7 +379,7 @@ citation_aliases:
 
    UPCRC 的目标不是产出可供 Intel 销售的产品，而是消除技术生态系统中的一个根本性瓶颈：并行编程的广泛普及。这是一种独特的研究转化逻辑(pp.232, 234–235)：
    - **短期效果** UPCRC 帮助重新定位了整个编程社区在半导体技术关键转折点上的方向
-   - **中期接力** Intel-Microsoft 的企业先行投入创造了示范效应 和 知识基础，NSF 随后启动 XPS（Exploiting Parallelism and Scalability）等大规模政府资助项目来接力放大
+   - **中期接力** Intel-Microsoft 的企业先行投入创造了[[Demonstration Effect|示范效应]] 和 知识基础，NSF 随后启动 XPS（Exploiting Parallelism and Scalability）等大规模政府资助项目来接力放大
    - **长期融入** 并行编程技术已被纳入全球计算机科学课程，成为每个计算机专业学生的基础训练，这是研究转化在生态系统层面取得成功的终极标志
 
    > [!example] 衍生成果的长尾

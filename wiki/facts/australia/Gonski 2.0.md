@@ -12,7 +12,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 28
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[School Leadership]]"
   - "[[Initial Teacher Training]]"
-  - "[[Source Evaluation]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Venture Philanthropy]]"
   - "[[Policy Network]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Gonski 2.0
@@ -91,7 +90,7 @@ updated: 2026-09-22
 > [!citation-card] Gonski 2.0 报告第 23 条核心建议
 > 审查委员会建议：澳大利亚政府应设立一个独立的国家机构，负责统筹战略性国家研究与证据基础的发展；通过搜集与生成原生研究，并综合、推广易于被基层获取和实施的教育实证，以显著改善学生的学习成果。(Australian Government, 2018, p. xiv；引自 [[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]])
 >
-> *Recommendation 23: [The Australian Government should]…establish an independent institution to coordinate the strategic development of a national research and evidence base through the [[Source Evaluation\|Sourcing]] and generating of research, and the synthesising and promotion of educational evidence that can be easily accessed and implemented to improve student outcomes.*
+> *Recommendation 23: [The Australian Government should]…establish an independent institution to coordinate the strategic development of a national research and evidence base through the Sourcing and generating of research, and the synthesising and promotion of educational evidence that can be easily accessed and implemented to improve student outcomes.*
 
 ---
 

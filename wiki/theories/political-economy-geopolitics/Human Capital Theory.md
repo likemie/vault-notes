@@ -115,6 +115,7 @@ updated: 2026-10-01
 > | 教育收益率数据库与放贷门槛（Rates of Return Databank & Lending Conditionalities） | 机制 | 世界银行（George Psacharopoulos）建立的涵盖 139 国、1,120 项教育投资收益率估算的大规模数据库，将人力资本理论转化为跨国结构性调整与政策放贷的量化门槛与自指性治理帝国。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]] |
 > | 控制论人力规划（Cybernetic Manpower Planning） | 方法 | 冷战时期[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）为抗衡苏联计划经济竞争，将人力资本理论与控制论相结合的技术官僚规划范式，专注于劳动力市场中长期工程师与技术人员需求的宏观预测。[[Argument_Steiner-Khamsi_2024_CE\|(Popkewitz, 2022; Steiner-Khamsi et al., 2024, p. 541)]] |
 > | 技术官僚绩效[[Disciplina and Doctrina\|规训]]（Technocratic Disciplining Pressure） | 机制 | 经合组织（OECD）等跨国组织将人力资本逻辑转化为直接约束国家研究经费与问责指标的治理手段，迫使比较教育研究从价值反思转向服从于经济竞争力的绩效达标。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 96)]] |
+> | 重大工程专门工程人力资本与多维流动机制（Mission-Oriented Engineering Human Capital & Mobility） | 机制 | 高技术产业中通过重大公共战略工程实战历练形成的高级系统架构与工程管理专门人力资本，通过半导体企业间衍生创业网络与计算机企业内部跨部门调配双重通道平移至国民经济民用领域。[[Argument_Schnee_1978_RP\|(Schnee, 1978, pp. 17–20)]] |
 
 ---
 
@@ -140,6 +141,11 @@ updated: 2026-10-01
 > - **前提二** [[World Bank\|世界银行]]在后殖民时期急于争夺不结盟国家影响力，脱离了[[UNESCO\|联合国教科文组织]]的人文主义路线，转向以管理科学效率与放贷权力为核心的自营[[Paradigm\|研究范式]]（Elfert & Ydesen, 2023; Psacharopoulos, 1981）。
 > - **推导** ① 经合组织将人力资本理论与控制论规划深度缝合，推行专注于预测劳动力市场需求的技术官僚人力规划（Popkewitz, 2022）；② 世界银行依托高级顾问 [[George Psacharopoulos]] 建立起覆盖 139 国、1,120 项估算的回报率数据库，将人力资本收益率测算固化为结构性调整与政策放贷的前置门槛；③ 人力资本逻辑由此从纯粹的学术假说演进为跨国组织规制民族国家教育政策、行使“[[Governing at a Distance\|远处治理]]”的自指性指标帝国。
 
+> [!proposition-chain] 核心命题五｜高技术产业专门工程人力资本的生成依托重大战略工程历练与多维流动网络
+> - **前提一** 高技术产业（半导体与计算机）的核心能力不仅取决于一般性正规学校教育，更依赖于在大规模复杂系统工程（如载人航天、空防雷达网、实时计算综合体）中通过干中学积累的高级系统架构与项目管理专门工程人力资本（Schnee, 1978, pp. 17–20）。
+> - **前提二** 专门工程人力资本的社会生产力释放取决于其组织流动网络的制度设计——包括反垄断规制促成的专利交叉许可与离职创业宽容文化，以及大型制造企业内部从重大特种工程向商业通用产品线的跨部门经验平移机制（Schnee, 1978, pp. 18–20）。
+> - **推导** ① 空间与国防公共重大项目充当了高技术专门人力资本的国家级实训基地；② 在半导体领域催化了以研发外溢与衍生企业繁衍为特征的高频“企业间外部流动网络”（如贝尔实验室与仙童繁衍谱系）；③ 在计算机领域构建了以复杂系统项目主管跨界调配为特征的“企业内部知识平移机制”，共同构筑了国家高技术产业的人才生态优势。
+
 > [!mechanism-map]- 人力资本理论的多重运作机制演化图
 > ```mermaid
 > flowchart TD
@@ -159,9 +165,17 @@ updated: 2026-10-01
 >     K --> N["跨国指标帝国与自指性政策规制"]
 >     M --> N
 >   end
+>   subgraph 高技术工程人力资本与流动网络逻辑
+>     O["国家重大战略工程任务 (NASA/DOD)"] --> P["复杂系统实战历练与专门工程人力资本"]
+>     P --> Q["企业间衍生网络流动 (半导体离职创业)"]
+>     P --> R["企业内跨部门经验平移 (计算机项目管理)"]
+>     Q --> S["民用基础设施与高技术产业全球竞争优势"]
+>     R --> S
+>   end
 >   A -.-> E
 >   D -.1970年代经济滞胀检验.-x I["规划承诺破灭与实证神话危机 (Husén, 1982)"]
 >   H -.-> N
+>   O -.国家战略拉动.-> A
 > ```
 
 > [!exegesis]- 教育规划与综合中学运动的实证案例
@@ -208,6 +222,7 @@ updated: 2026-10-01
 > - **1960–1964 — 理论经典奠基** 西奥多·舒尔茨（Theodore W. Schultz）发表《人力资本投资》（1961）与《教育的经济价值》（1963），加里·贝克尔（Gary S. Becker）出版《人力资本》（1964），系统确立以个人与社会收益率为核心的新古典微观与宏观[[Analytic Framework\|分析框架]]。
 > - **1962–1970 — 教育规划与比较教育应用** 赫伯特·帕恩斯（Herbert Parnes, 1962）主持 OECD 地中海地区项目（[[Mediterranean Regional Project|MRP]]），弗雷德里克·哈比森（Frederick Harbison）与查尔斯·迈尔斯（Charles Myers, 1964）建立跨国人力指数。伴随战后实证[[Scientism|科学主义]]运动，人力资本理论成为比较教育“第三代”的核心支柱；在“教育是开启现代化大门的钥匙”的发展主义信条下，理论与方法论[[Empiricism|经验主义]]合流，构筑了“教育-发展-现代化”工具性发展[[Paradigm|范式]]，获得政府、基金会与跨国机构的全面制度背书。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 67–68)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–148)]]
 > - **1970 年代中叶 — [[Paradigm|范式]]危机与反思** 经济滞胀爆发，[[Credential Inflation|文凭通胀]]与青年失业打破了教育投资必然带动经济繁荣的神话，[[Torsten Husén|托斯滕·胡森]]（Torsten Husén, 1982）指出实证规划承诺全面破灭。
+> - **1978 — 高技术工程人力资本与多维流动机制** 杰罗姆·E·施奈（Jerome E. Schnee）将人力资本分析拓展至前沿高技术产业，实证揭示了空间与国防重大工程如何充当工程架构与项目管理人才的孵化池，并通过半导体企业间衍生网络与计算机企业内部跨部门迁移双重机制驱动国家高技术产业优势确立。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 17–20)]]
 > - **1980–1990 年代 — [[World Bank|世界银行]]放贷帝国与内生增长** 1980 年世界银行发布首份《教育部门政策文件》（World Bank, 1980），[[George Psacharopoulos]] 建立起涵盖 139 国、1,120 项估算的回报率数据库，使人力资本收益率成为跨国政策放贷与治理干预的硬性规制指标；罗伯特·卢卡斯（Robert Lucas, 1988）将人力资本作为内生经济增长模型的核心。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **2000 年代至今 — 全球指标治理与测评帝国再融合** 进入 21 世纪，人力资本逻辑在经合组织[[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）网络、《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG）与[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）跨国技能测试中被深度重构为“全球[[Knowledge-Based Economy|知识经济]]竞争力”治理框架，从粗放投入预测转向基于测评数据的产出绩效规制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
 
@@ -240,6 +255,12 @@ updated: 2026-10-01
 > >
 > > - **芝加哥人力资本学派与方法论[[Empiricism|经验主义]]者（Psacharopoulos, 1987; Noah & Eckstein, 1969）** 将教育抽象为促进经济起飞与现代化的决定性[[Independent Variable|自变量]]，主张借助投入产出计量模型与跨国收益率数据库指导发展规划。
 > > - **批判学术史家与卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）** 揭示该范式在[[Epistemology|认识论]]上陷入去情境化、无历史性的“唯方法论主义”（methodologism），将复杂的历史文化演化抽离为单向度的经济资本积累，沦为跨国官僚机构与资助者的合法化工具。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
+> >
+> > [!axis] 国家重大科技工程对科技人力资源的孵化溢出 vs. 结构性挤出与供给失衡
+> > 围绕国家级空间与国防公共大项目究竟是培育了全社会的工程人才库，还是造成了全国科技人力资源的结构性失衡展开争论。
+> >
+> > - **人力资本溢出学派（[[Argument_Schnee_1978_RP|Schnee, 1978]]）** 强调国家重大战略工程为全美培育了数以千计精通复杂实时系统的系统架构师与工程项目经理，通过企业间创业衍生与内部跨界调配极大提升了全社会的工程能力。
+> > - **结构扭曲与资源挤出批评** 批评者指出，空间与国防项目的急剧扩张在特定工程与自然科学领域形成了对优质人力资本的过度虹吸，推高了科研人员薪资成本，对民用基础工业的技术人才供给产生了结构性挤出效应。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 20)]]
 
 > [!critique] 外部批评
 > - **过度学校化与异化** [[Torsten Husén|托斯滕·胡森]]（Husén, 1982）等学者指出，将教育简化为人力资本积累导致全社会陷入非理性的学校竞赛，加剧青年人的心理异化，并未消解阶级特权。
@@ -254,3 +275,4 @@ updated: 2026-10-01
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 揭示当代全球治理中人力资本话语如何与 [[PISA]] 测评机制紧密咬合，驱动教育系统按照资本回报逻辑重组。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理[[OECD|经合组织]]与[[World Bank|世界银行]]七十五年历时制度演变，揭示冷战[[Sputnik Shock 1957|斯普特尼克冲击]]后国际组织如何将人力资本理论、控制论规划与教育收益率数据库工具化，打造出跨国放贷与指标治理帝国的历史轨迹。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示跨国大规模评估（OECD/PISA）崛起后，以人力资本和经济竞争力为导向的技术官僚治理如何对比较教育的研究课题、经费分配与政策咨询施加直接的量化[[Disciplina and Doctrina|规训]]压力。
+> - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统剖析美国半导体与计算机产业发展史，揭示重大公共战略工程如何培育高技术专门工程人力资本，并通过企业间衍生创业网络与企业内部跨部门平移双重机制驱动民用产业升级。

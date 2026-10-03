@@ -8,7 +8,7 @@ summary: "澳大利亚著名商业律师、企业高管与教育政策调查特�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 28
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Venture Philanthropy]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Growth]]"
-  - "[[Source Evaluation]]"
   - "[[Co-affiliation]]"
   - "[[Philanthrocapitalism]]"
   - "[[Network Governance]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # David Gonski
@@ -105,7 +104,7 @@ updated: 2026-10-02
 > [!citation-card] Gonski 2.0 第 23 条建议：设立独立国家证据机构
 > 审查委员会正式建议：澳大利亚政府应设立一个独立的国家机构，负责统筹战略性国家研究与证据基础的发展；通过搜集与生成原生研究，并综合、推广易于被基层获取和实施的教育实证，以显著改善学生的学习成果。(Australian Government, 2018, p. xiv；引自 [[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]])
 >
-> *Recommendation 23: [The Australian Government should]…establish an independent institution to coordinate the strategic development of a national research and evidence base through the [[Source Evaluation\|Sourcing]] and generating of research, and the synthesising and promotion of educational evidence that can be easily accessed and implemented to improve student outcomes.*
+> *Recommendation 23: [The Australian Government should]…establish an independent institution to coordinate the strategic development of a national research and evidence base through the Sourcing and generating of research, and the synthesising and promotion of educational evidence that can be easily accessed and implemented to improve student outcomes.*
 
 ---
 

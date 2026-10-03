@@ -11,9 +11,9 @@ subtype: policy
 region: hungary
 fact_region: "hungary"
 fact_kind: "policy"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "匈牙利国家教育署（National Education Authority of Hungary / Oktatási Hivatal）"
 tags:
@@ -24,6 +24,7 @@ tags:
   - theme/evidence-informed-practice
 related_concepts:
   - "[[Research Topic]]"
+  - "[[Demonstration Effect]]"
   - "[[Emergence]]"
   - "[[Phronesis]]"
   - "[[Business as Usual]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-09-16
+updated: 2026-10-03
 ---
 
 # Hungarian Researcher Teacher Scheme
@@ -119,7 +120,7 @@ updated: 2026-09-16
 > - **教师外在激励重塑** 一线实践者在岗位晋升、课时减免与薪资津贴维度的制度性保障获得感。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 90–92)]]
 
 > [!finding-cards] 效果与评价
-> - **确立高门槛专业标杆** 截至 2021 年，全国共评定 35 名研究型教师（同期名师 1,337 名），形成了小而精、高标准的国家级专业研究力量，极具学术示范效应。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, p. 92)]]
+> - **确立高门槛专业标杆** 截至 2021 年，全国共评定 35 名研究型教师（同期名师 1,337 名），形成了小而精、高标准的国家级专业研究力量，极具学术[[Demonstration Effect|示范效应]]。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, p. 92)]]
 > - **实现外在硬性激励闭合** 通过国家立法将科研探索直接与薪资上调、课时减免及终身职称刚性挂钩，彻底填补了传统体制下实践者科研外在激励的空白。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 90–92)]]
 > - **构建超越围墙的知识流动纽带** 明确赋予其超越单体学校的系统级辐射职责，使基层一线[[Emergence\|涌现]]的[[Phronesis\|实践智慧]]能够制度化地上升为全系统的改革方案。
 
