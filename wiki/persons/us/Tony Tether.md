@@ -9,10 +9,10 @@ summary: "美国电气工程师与科技政策管理者，DARPA 史上任期最�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1941"
 died: ""
 lifespan: "1941–至今"

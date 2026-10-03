@@ -9,7 +9,7 @@ aliases:
 summary: "Schein 提出的组织文化三层次框架（器物、信奉价值观、深层基本假设），揭示了表层可见符号与官方理念如何常与深层防御心理及信任赤字发生结构性断裂，并解释了正式管理文化重构与微观非正式制度之间的解耦与韧性"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 48
+theory_related_count: 49
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
