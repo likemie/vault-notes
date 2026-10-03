@@ -54,7 +54,7 @@ updated: 2026-10-04
 ## 政策文本摘要
 
 > [!claim] 五科结构试图在广度与专门化之间建立新平衡
-> N 与 F 方案（Normal and Further Proposals）要求学生修读五门普通标准课程，其中两门继续达到进阶标准。普通标准略低于既有高级程度要求，使学生能够保持课程广度，同时保留大学专业学习所需的重点科目。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, p. 165)]]
+> 普通与进阶方案（Normal and Further Proposals, N and F）要求学生修读五门普通标准课程，其中两门继续达到进阶标准。普通标准略低于既有高级程度要求，使学生能够保持课程广度，同时保留大学专业学习所需的重点科目。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, p. 165)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 减少文理两类课程的过度专门化，并推迟学生作出文理分流选择的年龄。

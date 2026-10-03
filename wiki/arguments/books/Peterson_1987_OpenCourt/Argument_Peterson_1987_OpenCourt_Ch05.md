@@ -60,7 +60,6 @@ related_facts:
   - "[[Transformation of Singapore International School into United World College of South East Asia]]"
   - "[[Waterford Kamhlaba Admission to United World Colleges]]"
   - "[[United World Colleges Associated Schools Policy 1977]]"
-  - "[[1980 Ditchley Park United World Colleges Conference]]"
 sources:
   - "[[books/Peterson_1987_OpenCourt/Peterson_1987_OpenCourt|Peterson_1987_OpenCourt]]"
 related_methods:
@@ -650,7 +649,7 @@ updated: 2026-10-04
 > - **1977 年 10 月　国际董事会设置非正式联系期** 董事会同意鼓励符合条件的既有学校建立关联，但正式决定前应先与一所 UWC 保持适当时长的非正式联系。规则没有规定统一年限，保留了个案判断空间（p. 124）。
 > - **1977 年底　首批校际配对形成** 沃特福德与大西洋学院建立联系，蒙得维的亚英国学校（British Schools Montevideo）与皮尔逊书院形成另一组联系。关联政策由抽象层级设计转为具体校际关系（p. 124）。
 > - **1978 年 4 月 13 日　关联决定提前作出** 大西洋学院国际理事会会议期间，牛顿·汤普森主张不再延长沃特福德的非正式联系期。部分成员仍有疑虑，蒙巴顿的支持推动会议一致接纳沃特福德为关联学校（pp. 124–125）。
-> - **1980 年　正式加入进入紧急议程** [[1980 Ditchley Park United World Colleges Conference|迪奇利公园（Ditchley Park）一周会议]]检讨 UWC 未来，并决定尽快研究沃特福德成为正式成员所需步骤。关联到正式成员的转换速度印证了此前董事的担忧（pp. 125–126）。
+> - **1980 年　正式加入进入紧急议程** 迪奇利公园（Ditchley Park）一周会议检讨 UWC 未来，并决定尽快研究沃特福德成为正式成员所需步骤。关联到正式成员的转换速度印证了此前董事的担忧（pp. 125–126）。
 > - **1980–1981 年　课程与财政成为最后两项障碍** 教师对 IB 较广课程与英国考试高度专门化之间的差异有所保留，更实质的问题是南半球学年需要十一月考试。正式加入还必须完成共同财政安排（p. 126）。
 > - **1981 年夏季　财务协议完成谈判** 沃特福德与国际运动解决成员关系所需财政条件，课程和组织障碍逐步收束（p. 126）。
 > - **1982 年初　正式成员协议签署** 沃特福德卡姆拉巴南部非洲联合世界书院（Waterford Kamhlaba United World College of Southern Africa）正式并入运动，从首次接触到完整成员历时约七年（p. 126）。

@@ -41,7 +41,7 @@ updated: 2026-10-04
 ## 项目背景与立项契机
 
 > [!claim] 可行性证据充足仍不足以保证政策采用
-> 英国学校委员会（Schools Council）1979 年启动[[International Baccalaureate|国际文凭]]试验可行性研究，考察能否把国际文凭（International Baccalaureate, IB）作为高中毕业阶段课程拓宽改革的受监测试验。研究形成了学校参与、升学表现和成本证据，却没有跨过资源配置和政策优先级的决策门槛。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 165–166)]]
+> 英国学校委员会（Schools Council）1979 年启动[[International Baccalaureate|国际文凭]]（International Baccalaureate, IB）试验可行性研究，考察能否把 IB 作为高中毕业阶段课程拓宽改革的受监测试验。研究形成了学校参与、升学表现和成本证据，却没有跨过资源配置和政策优先级的决策门槛。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 165–166)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 1979 年立项，工作组用约一年完成可行性研究；拟议正式试验期为四年。
@@ -96,7 +96,7 @@ updated: 2026-10-04
 
 > [!lessons] 可行性研究显示的政策采用条件
 > - **技术可行不等于获得资源** 学校参与、升学记录和预算估算均较积极，但考试委员会仍可因其他改革优先级否决项目。
-> - **外部拨款不一定覆盖组织成本** 彼得森担心通胀和 [[International Baccalaureate|IBO]] 自身财政困难会使每年 20,000 英镑不足以支付全部新增工作。
+> - **外部拨款不一定覆盖组织成本** 彼得森担心通胀和[[International Baccalaureate|国际文凭组织]]（International Baccalaureate Organization, IBO）自身财政困难会使每年 20,000 英镑不足以支付全部新增工作。
 > - **共同意愿需要决策权配合** 学校、大学和工作组支持不能替代掌握预算与考试政策的委员会作出正式承诺。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, p. 166)]]
 
 ---
