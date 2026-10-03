@@ -2742,6 +2742,18 @@
     ]
   },
   {
+    "title": "Greenfield vs Brownfield Innovation",
+    "type": "concept",
+    "path": "wiki/concepts/economics/Greenfield vs Brownfield Innovation.md",
+    "aliases": [
+      "绿地创新与棕地创新",
+      "绿地与棕地技术创新",
+      "绿地与棕地创新",
+      "Greenfield and brownfield innovation",
+      "Greenfield vs. brownfield innovation"
+    ]
+  },
+  {
     "title": "Patient Capital",
     "type": "concept",
     "path": "wiki/concepts/economics/Patient Capital.md",
@@ -10664,6 +10676,18 @@
       "反思型治理",
       "自反性治理",
       "Reflexive Governance for Sustainable Development"
+    ]
+  },
+  {
+    "title": "Second-Sourcing",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Second-Sourcing.md",
+    "aliases": [
+      "第二货源采购机制",
+      "第二供货商机制",
+      "第二货源许可",
+      "第二来源供货",
+      "Second sourcing"
     ]
   },
   {
@@ -28122,6 +28146,17 @@
     ]
   },
   {
+    "title": "MOSIS",
+    "type": "fact",
+    "path": "wiki/facts/us/MOSIS.md",
+    "aliases": [
+      "金属氧化物半导体实现服务",
+      "金属氧化物半导体实现服务平台",
+      "多项目晶圆流片服务",
+      "Metal Oxide Semiconductor Implementation Service"
+    ]
+  },
+  {
     "title": "National Academy of Sciences",
     "type": "fact",
     "path": "wiki/facts/us/National Academy of Sciences.md",
@@ -29247,6 +29282,15 @@
     "aliases": [
       "数学根基方案",
       "ROOTS Math"
+    ]
+  },
+  {
+    "title": "Semi-Automatic Ground Environment",
+    "type": "fact",
+    "path": "wiki/facts/us/Semi-Automatic Ground Environment.md",
+    "aliases": [
+      "半自动地面防空系统",
+      "半自动地面防空工程"
     ]
   },
   {

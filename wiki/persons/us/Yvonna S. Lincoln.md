@@ -8,7 +8,7 @@ summary: "美国教育研究方法论学者，与 Guba 合著 Naturalistic Inqui
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,13 +33,14 @@ related_methods:
   - "[[Quantitative Research]]"
 related_persons:
   - "[[Egon G. Guba]]"
-related_facts: []
+related_facts:
+  - "[[Semi-Automatic Ground Environment]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-09-11
+updated: 2026-10-03
 ---
 # Yvonna S. Lincoln
 
@@ -51,7 +52,7 @@ updated: 2026-09-11
 ## 主要著作
 
 - Lincoln, Y. S., & [[Egon G. Guba|Guba, E. G.]] (1985). *[[Interpretive Paradigm|naturalistic inquiry]]*. [[Sage]]. — 系统建立自然主义探究[[Paradigm|范式]]，提出可信性四标准。
-- Lincoln, Y. S., & Guba, E. G. (2000). Paradigmatic controversies, contradictions, and emerging confluences. In N. K. Denzin & Y. S. Lincoln (Eds.), *Handbook of [[Qualitative Research]]* (2nd ed.). SAGE. — 对研究范式的系统梳理。
+- Lincoln, Y. S., & Guba, E. G. (2000). Paradigmatic controversies, contradictions, and emerging confluences. In N. K. Denzin & Y. S. Lincoln (Eds.), *Handbook of [[Qualitative Research]]* (2nd ed.). [[Semi-Automatic Ground Environment|SAGE]]. — 对研究范式的系统梳理。
 
 ## 核心思想
 

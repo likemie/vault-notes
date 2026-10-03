@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_display_title: "Chapter five: Policy"
 argument_kind: "book-chapter"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -63,6 +63,7 @@ related_facts:
   - "[[Parliamentary Office of Science and Technology]]"
   - "[[American Association for the Advancement of Science]]"
   - "[[Areas of Research Interest]]"
+  - "[[Semi-Automatic Ground Environment]]"
   - "[[The Green Book]]"
   - "[[Public Attitudes to Science]]"
   - "[[Sciencewise]]"
@@ -186,7 +187,7 @@ updated: 2026-09-17
 除日常行政决策外，英国制度生态还针对突发公共危机与议会立法审议设立了专门机制：
 
 > [!taxonomy] 应急科学咨询与立法科技评估的双轨机制
-> - **行政应急咨询轨：紧急情况科学咨询小组（SAGE）** 面对突发公共危机，可在国家紧急状态宣布后 30 分钟内作为内阁简报室（Cabinet Office Briefing Room, COBR）下设委员会迅速组建，动态汇聚跨学科前沿专家提供即时科学评估。
+> - **行政应急咨询轨：紧急情况科学咨询小组（[[Semi-Automatic Ground Environment|SAGE]]）** 面对突发公共危机，可在国家紧急状态宣布后 30 分钟内作为内阁简报室（Cabinet Office Briefing Room, COBR）下设委员会迅速组建，动态汇聚跨学科前沿专家提供即时科学评估。
 > - **立法评估制衡轨：议会科学与技术办公室（POST）** 独立于行政内阁，面向议会两院提供经严格同行评议的客观科技政策简报（POSTnotes），两院各专责委员会亦常设专家顾问进行证据调查。
 > - **跨部门规制指南轨：财政部《[[The Green Book\|绿皮书]]》与评估工作组（ETF）** 在全政府层面，依据英国财政部《[[The Green Book\|绿皮书]]》（HM Treasury The Green Book）与政府评估工作组（Government Evaluation Task Force, ETF），推进科学信息在政策论证与投资评估中的规范应用。（p. 81）
 

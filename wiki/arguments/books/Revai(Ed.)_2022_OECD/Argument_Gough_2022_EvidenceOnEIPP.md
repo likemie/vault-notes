@@ -7,7 +7,7 @@ title: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_key: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_display_title: "Evidence on evidence-informed policy and practice"
 argument_kind: "book-chapter"
-argument_related_count: 73
+argument_related_count: 74
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -110,6 +110,7 @@ related_facts:
   - "[[Literacy Octopus]]"
   - "[[National Pupil Database]]"
   - "[[Scientific Advisory Group for Emergencies]]"
+  - "[[Semi-Automatic Ground Environment]]"
   - "[[Schulen im Team]]"
   - "[[Achieve]]"
 related_instruments:
@@ -551,7 +552,7 @@ sources:
 > - **狂牛病（BSE）危机的科学咨询与政治黑箱（Hinchliffe, 2001）**
 >   在 1990 年代英国暴发的牛脑海绵状病（BSE，即疯牛病）与新型克雅氏病公共卫生危机中，官方科学顾问委员会运作暴露出深层制度失范：专家遴选缺乏显性标准、潜在利益冲突未予披露、委员会审议过程高度保密，且顾问委员会将科学上高度不确定的早期推断包装为“食用英国牛肉绝对安全”的确定性政治断言。随后的调查揭示，政府官员对科学建议进行高度投机性的选择性采纳（Cherry-picking），将科学咨询作为掩盖行政迟缓与转嫁政治责任的工具，而全过程中没有任何制度化机制评估顾问建议对公共卫生治理产生的真实因果影响。
 > - **新冠疫情应对与议会科技委员会对 [[Sage]] 机制的深度质询（Gough, 2020; UK Parliament, 2021）**
->   在英国应对新冠疫情危机的过程中，[[Scientific Advisory Group for Emergencies\|紧急情况科学咨询小组]]（Scientific Advisory Group for Emergencies, SAGE）成为国家最高决策的核心证据依托。然而英国下议院科学与技术特别委员会（House of Commons Science and Technology Committee）针对其运作机制启动的调查质询指出了深刻的治理盲区：
+>   在英国应对新冠疫情危机的过程中，[[Scientific Advisory Group for Emergencies\|紧急情况科学咨询小组]]（Scientific Advisory Group for Emergencies, [[Semi-Automatic Ground Environment|SAGE]]）成为国家最高决策的核心证据依托。然而英国下议院科学与技术特别委员会（House of Commons Science and Technology Committee）针对其运作机制启动的调查质询指出了深刻的治理盲区：
 >   1. **顾问遴选与学科代表性失衡** SAGE 在初期缺乏公开透明的遴选规程，学科背景过度偏向传统流行病学建模与临床医学，严重忽视了实施科学、行为心理学与社会学学者，导致早期防控建议严重脱离基层执行现实；
 >   2. **决策转化黑箱与政治推诿** 政府内阁对外宣称决策“始终遵循科学（Follow the science）”，实则在幕后黑箱中对顾问意见进行政治取舍；公众与学界无从获知究竟哪些具体建议被内阁采纳、哪些建议被行政裁决否决或篡改；
 >   3. **终极因果影响后验追踪缺位** 国家投入巨额资源维系庞大的科学咨询网络，但对于被采纳或被驳回的顾问决策究竟在多大程度上减缓了病毒传播、挽救了生命，或造成了何种次生社会经济代价，始终缺乏制度化的因果成效评估。

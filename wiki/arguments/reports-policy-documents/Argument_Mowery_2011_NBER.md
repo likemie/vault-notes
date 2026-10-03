@@ -28,9 +28,11 @@ related_concepts:
   - "[[Demand-side Innovation Policy]]"
   - "[[Reliability]]"
   - "[[Market Shaping and Creating]]"
+  - "[[Second-Sourcing]]"
   - "[[Source Evaluation]]"
   - "[[Valley of Death]]"
   - "[[Sage]]"
+  - "[[Greenfield vs Brownfield Innovation]]"
   - "[[Growth]]"
 related_theories:
   - "[[Systems of Innovation]]"
@@ -46,10 +48,12 @@ related_facts:
   - "[[The Green Book]]"
   - "[[Fairchild Semiconductor]]"
   - "[[Ministry of International Trade and Industry]]"
+  - "[[Semi-Automatic Ground Environment]]"
   - "[[1956 IBM Consent Decree]]"
   - "[[European Research Area]]"
   - "[[Office of Naval Research]]"
   - "[[DARPA]]"
+  - "[[MOSIS]]"
 related_arguments: []
 sources:
   - "[[sources/Mowery_2011_NBER/Mowery_2011_NBER|Mowery_2011_NBER]]"
@@ -63,7 +67,7 @@ title: "Argument_Mowery_2011_NBER"
 argument_key: "Argument_Mowery_2011_NBER"
 argument_display_title: "Federal policy and the development of semiconductors, computer hardware, and computer software: A policy model for climate change R&D? In R"
 argument_kind: "report"
-argument_related_count: 23
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -166,7 +170,7 @@ issuing_organization: "National Bureau of Economic Research"
 > - **创新竞赛奖金效应**
 >   巨额军品采购合同的前景类似于高额研发竞赛奖金。德州仪器（Texas Instruments）敏锐捕捉到军方对硅晶体管与集成电路（Integrated Circuit, IC）的渴求，主动投入自有资金成功研制出首个商用硅晶体管（1954）和集成电路（基尔比，1958），以满足民兵导弹（Minuteman）制导计算机的要求。（pp.163–164）
 > - **能力本位与第二货源采购要求**
->   军方打破传统电子巨头垄断，按技术指标直接向新创企业（如德州仪器、[[Fairchild Semiconductor|仙童半导体]]、Transitron）发包，并强制要求技术向第二供应商（Second-[[Source Evaluation|Sourcing]]）交叉许可，极大地加速了跨企业技术流动。（pp.164–165）
+>   军方打破传统电子巨头垄断，按技术指标直接向新创企业（如德州仪器、[[Fairchild Semiconductor|仙童半导体]]、Transitron）发包，并强制推行 [[Second-Sourcing|第二货源采购机制]]（Second-[[Source Evaluation|Sourcing]]）要求技术向第二供应商交叉许可，极大地加速了跨企业工艺技术流动。（pp.164–165）
 > - **早期市场 100% 托底与成本指数级下行**
 >   军方采购在 1962 年占据集成电路出货量的 100%，支撑制造良率大幅爬坡；单片 IC 均价从 1962 年的 31.60 美元暴跌至 1968 年的 2.33 美元，民用商用采购份额自 1968 年起迅速反超军品（Table 5.1）。（pp.165–168）
 > - **优胜劣汰的市场选择机制**
@@ -209,7 +213,7 @@ issuing_organization: "National Bureau of Economic Research"
 ### 论证步骤二　大学先锋研发、国防战略工程采购与反垄断规制奠定了计算机硬件与软件生态
 
 > [!claim] 步骤二核心主张
-> 与半导体产业不同，战后计算机硬件与软件产业深度依托大学先锋原型研发，并在国防超级工程采购（半自动地面防空系统 [Semi-Automatic Ground Environment, [[Sage]]]）与 [[1956 IBM Consent Decree|1956年国际商业机器公司同意令]] 的约束下，完成了从封闭专有租赁向开放多元分工体系的制度转型。（pp.171–183）
+> 与半导体产业不同，战后计算机硬件与软件产业深度依托大学先锋原型研发，并在国防超级工程采购（[[Semi-Automatic Ground Environment|半自动地面防空系统]] [Semi-Automatic Ground Environment, [[Sage]]]）与 [[1956 IBM Consent Decree|1956年国际商业机器公司同意令]] 的约束下，完成了从封闭专有租赁向开放多元分工体系的制度转型。（pp.171–183）
 
 #### 1. 大学先锋探索与开放式多元计算架构资助
 
@@ -302,7 +306,7 @@ issuing_organization: "National Bureau of Economic Research"
 联邦资金不仅采购设备，更直接构建了大学的基础研发与人才培养网络。（pp.183–184）
 
 > [!feature] 大学计算机科学学科建制化的联邦推手
-> - **设备与研发基础设施托底** 1960 年代美国大学计算机设备购置经费的 66% 直接来自联邦政府（大学自筹 34%，厂商资助 16%）。[[Office of Naval Research|海军研究办公室]]（Office of Naval Research, ONR）、[[National Science Foundation|NSF]] 与 [[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）长期承担了全美高校计算机科学基础研究的主要预算。（pp.176, 183）
+> - **设备与研发基础设施托底** 1960 年代美国大学计算机设备购置经费的 66% 直接来自联邦政府（大学自筹 34%，厂商资助 16%）。[[Office of Naval Research|海军研究办公室]]（Office of Naval Research, ONR）、[[National Science Foundation|NSF]] 与 [[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）长期承担了全美高校计算机科学基础研究的主要预算，并通过设立 [[MOSIS]] 芯片原型流片服务平台 支持大学开展超大规模集成电路（VLSI）与精简指令集（RISC）微处理器设计实训。（pp.176, 183）
 > - **博士点与专业人才爆发式扩张** 授予计算机科学博士学位的高校系所从 1960 年的几乎为零，迅猛增加至 1970 年的 42 所、1980 年的 85 所及 1990 年代的逾 150 所，为全美软件与半导体产业输送了庞大的高素质科学家与工程师队伍。（pp.183–184）
 
 #### 2. 用户端共同发明与大规模应用部署推动通用技术演进
@@ -310,7 +314,7 @@ issuing_organization: "National Bureau of Economic Research"
 [[General Purpose Technology|通用目的技术]]不仅取决于上游器件制造，更取决于下游各行业用户为适配新技术所开展的深度流程再造与互补性软件研发。（p.185）
 
 > [!warrant]- 共同发明对技术迭代的反哺机制
-> 按照布雷斯纳汉与格林斯坦（1996）的理论，信息技术的扩散高度依赖用户与供应商之间的双向[[Co-invention|共同发明]]。IBM 650、IBM 360 及 PC 等标准化计算平台的广泛部署，为全美金融、交通与制造业提供了海量试验场景（如美洲航空公司基于 SAGE 技术联合开发的半自动商业研究环境 [Semi-Automatic Business Research Environment, SABRE] 航空订票系统）。大规模应用激发了分散化用户的微观试验，用户反馈反过来推动了上游软硬件架构的精细化迭代与[[Paradigm|范式]]收敛。（pp.179, 185）
+> 按照布雷斯纳汉与格林斯坦（1996）的理论，信息技术的扩散高度依赖用户与供应商之间的双向[[Co-invention|共同发明]]。IBM 650、IBM 360 及 PC 等标准化计算平台的广泛部署，为全美金融、交通与制造业提供了海量试验场景（如美洲航空公司基于 [[Semi-Automatic Ground Environment|SAGE]] 技术联合开发的半自动商业研究环境 [Semi-Automatic Business Research Environment, SABRE] 航空订票系统）。大规模应用激发了分散化用户的微观试验，用户反馈反过来推动了上游软硬件架构的精细化迭代与[[Paradigm|范式]]收敛。（pp.179, 185）
 
 ---
 
@@ -319,16 +323,16 @@ issuing_organization: "National Bureau of Economic Research"
 > [!claim] 步骤四核心主张
 > 冷战时期信息技术政策所依赖的军用性能溢价、军民双向技术溢出及绿地产业生态在清洁能源领域完全缺失；应对气候变化研发必须直面大宗商品同质性与存量基础设施刚性，审慎构建以碳规制、稳定研发投入与大型基础设施试验为核心的政策组合。（pp.184–186）
 
-#### 1. 能源与信息技术产业的根本属性差异
+#### 1. 能源与信息技术产业的根本属性差异：[[Greenfield vs Brownfield Innovation|绿地创新与棕地创新]]
 
-许多政策倡导者主张复制冷战信息技术研发模式以加速应对气候变化，但历史制度比较表明，两大部门在底层技术属性、需求形态与市场结构上存在根本性张力（pp.184–186）：
+许多政策倡导者主张复制冷战信息技术研发模式以加速应对气候变化，但历史制度比较表明，两大部门在底层技术属性、需求形态与市场结构上存在根本性的 [[Greenfield vs Brownfield Innovation|绿地创新与棕地创新]] 张力（pp.184–186）：
 
 > [!tension-table] 信息技术与清洁能源[[Systems of Innovation|创新系统]]的结构性特征对比
 > | 比较维度 | 战后信息技术产业演进 | 当代气候变化与清洁能源研发 |
 > |---|---|---|
 > | **产品属性** | **差异化高性能产品** 军方为追求极端计算速度与小型化，愿意支付极高溢价（如初期单片 IC 达 32 美元）。（pp.163–165） | **同质化大宗商品** 绿色低碳电力在物理性能上与传统化石能源火电毫无差异，无法在自由市场索取产品性能溢价。（pp.184–185） |
 > | **市场需求来源** | **内生性国防刚需** 国防部直接充当确定性先导首发用户，采购直接拉动规模经济与良率爬坡。（pp.163–168） | **外生性政策驱动** 私人市场缺乏自发减碳动力，完全依赖碳税、碳交易配额或强制能效法规创造人为需求。（pp.185–186） |
-> | **存量网络制约** | **绿地新兴产业（Greenfield）** 没有庞大遗留基础设施包袱，新创企业可自由构筑全新商业模式。（pp.160–161） | **棕地存量公用事业（Brownfield）** 深嵌于强监管、极度规避风险且运行周期长达数十年的电网与公用事业存量网络。 |
+> | **存量网络制约** | **[[Greenfield vs Brownfield Innovation\|绿地新兴产业（Greenfield）]]** 没有庞大遗留基础设施包袱，新创企业可自由构筑全新商业模式。（pp.160–161） | **[[Greenfield vs Brownfield Innovation\|棕地存量公用事业（Brownfield）]]** 深嵌于强监管、极度规避风险且运行周期长达数十年的电网与公用事业存量网络。 |
 > | **技术溢出方向** | **军用向民用高频溢出** 早期军品技术经降价后可直接平移至民用计算与消费市场。（pp.161–168） | **特种军用与通用民用严重脱节** 军用极端能源装备（如核潜艇反应堆、航天单晶硅电池）与民用电网廉价消纳需求成本相差数个数量级。 |
 
 #### 2. 能源研发政策面临的制度短板与理性对策

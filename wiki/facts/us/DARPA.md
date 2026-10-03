@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 31
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 32
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 联邦国防与国家安全颠覆性研发机构
 headquarters: 美国弗吉尼亚州阿灵顿（Arlington, Virginia）
@@ -55,6 +55,7 @@ related_persons:
   - "[[Mariana Mazzucato]]"
 related_facts:
   - "[[Sputnik Shock 1957]]"
+  - "[[MOSIS]]"
   - "[[Department of Energy]]"
   - "[[National Science Foundation]]"
   - "[[Office of Naval Research]]"
@@ -90,7 +91,7 @@ updated: 2026-10-03
 
 > [!dev-timeline] 组织发展与技术突破历程
 > - **1958–1960s — 太空竞争与计算机科学建制奠基** 早期短暂主导美国航天计划（后移交美国国家航空航天局 [National Aeronautics and Space Administration, NASA]）；1962 年设立信息处理技术办公室（Information Processing Techniques Office, IPTO），资助分时操作系统、计算机图形学与网络分组交换技术，直接催生阿帕网（ARPANET），并重点支持麻省理工学院、斯坦福大学、卡内基梅隆大学、加州大学伯克利分校与犹他大学等高校计算机科学系所的基础研发与人才培养。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 175–176, 183)]]
-> - **1970s–1980s — 隐身突防、微电子 VLSI 革命与精简指令集微处理器** 资助“海弗蓝”（Have Blue）隐形战斗机先驱项目并最终催生 F-117 隐身机；主导超大规模集成电路（Very Large Scale Integration, VLSI）结构化设计方法论革命并建立金属氧化物半导体实现服务（MOSIS）硅代工原型试验网；资助加州大学伯克利分校与斯坦福大学研发精简指令集计算机（Reduced Instruction Set Computer, RISC）微处理器架构；发起战略计算倡议（Strategic Computing Initiative, SCI），直接催化了全球卫星定位系统（Global Positioning System, GPS）的军事部署与民用开放。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 180–183)]]
+> - **1970s–1980s — 隐身突防、微电子 VLSI 革命与精简指令集微处理器** 资助“海弗蓝”（Have Blue）隐形战斗机先驱项目并最终催生 F-117 隐身机；主导超大规模集成电路（Very Large Scale Integration, VLSI）结构化设计方法论革命并建立[[MOSIS|金属氧化物半导体实现服务]]（MOSIS）硅代工原型试验网；资助加州大学伯克利分校与斯坦福大学研发精简指令集计算机（Reduced Instruction Set Computer, RISC）微处理器架构；发起战略计算倡议（Strategic Computing Initiative, SCI），直接催化了全球卫星定位系统（Global Positioning System, GPS）的军事部署与民用开放。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 180–183)]]
 > - **1990s–2000s — 人工智能与无人自主系统攻坚** 资助感知认知计算计划，催生智能语音助手原型（CALO 项目，后衍生为苹果 Siri）；2004 与 2005 年举办两届 DARPA 自动驾驶大挑战赛（DARPA Grand Challenge），直接点燃了全球现代无人驾驶汽车产业。
 > - **2010s–至今 — 合成生物学与多域分布式作战** 设立生物技术办公室（Biological Technologies Office, BTO），在新冠疫情暴发前数年即通过 ADEPT 计划前瞻性资助莫德纳（Moderna）等公司开发 mRNA 疫苗与核酸平台；资助“小妖精”（Gremlins）无人机母舰空中回收等分布式协同战术装备。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 807)]]
 > - **2018 — 三代使命演进中的狮子形态定位** 莱纳·[[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]系统将 DARPA 归纳为第二代[[Big Science|大科学]]攻坚（狮子形态）的巅峰代表，指出其依托垂直军民采购网络与探索型[[Organizational Culture|组织文化]]，实现了硬科技工程的颠覆性突破。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
@@ -116,7 +117,7 @@ updated: 2026-10-03
 
 > [!finding-cards] 颠覆性技术策源矩阵
 > - **数字时代信息基础设施** 互联网前身 ARPANET、TCP/IP 协议族、分时计算系统、计算机图形界面与鼠标早期研发资助。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 175–176)]]
-> - **微电子设计革命与芯片原型流片平台** 资助结构化 VLSI 设计方法论，设立 MOSIS 原型制造服务平台，将芯片设计与半导体制造物理环节解耦，奠定了无晶圆厂（Fabless）设计产业蓬勃发展的制度与技术基础。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 183)]]
+> - **微电子设计革命与芯片原型流片平台** 资助结构化 VLSI 设计方法论，设立 [[MOSIS]] 原型制造服务平台，将芯片设计与半导体制造物理环节解耦，奠定了无晶圆厂（Fabless）设计产业蓬勃发展的制度与技术基础。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 183)]]
 > - **微处理器架构突破** 资助加州大学伯克利分校与斯坦福大学开发精简指令集计算机（RISC）架构（分别衍生出 SPARC 与 MIPS 架构），为现代高性能工作站、服务器与移动计算芯片确立了底层架构[[Paradigm|范式]]。
 > - **智能移动终端与导航基石** 现代微型 GPS 接收机、半导体微缩制造工艺与 Siri 底层语音认知架构。
 > - **自主智能与无人系统** 激光雷达集成感知系统、现代无人地面车辆（AGV）与自动驾驶基础算法架构。

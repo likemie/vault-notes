@@ -12,7 +12,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -48,6 +48,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Government Office for Science]]"
+  - "[[Semi-Automatic Ground Environment]]"
   - "[[What Works Network]]"
   - "[[Parliamentary Office of Science and Technology]]"
 related_arguments:
@@ -80,7 +81,7 @@ updated: 2026-10-03
 
 > [!dev-timeline]- 组织发展历程与重大实践
 > - **2009 — 机制创立与 H1N1 流感危机首次激活** 由时任英国政府首席科学顾问约翰·贝丁顿爵士（Sir John Beddington）正式确立应急科学咨询机制，并在甲型 H1N1 流感蔓延期间首次动员流行病学学者进驻内阁简报室，奠定了 30 分钟应急专家动员规程（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|The Royal Society, 2026, Ch. 5, p. 81]]）。
-> - **2010–2011 — 自然灾害与跨国技术风险响应** 2010 年冰岛埃亚菲亚德拉火山喷发导致全欧空域瘫痪，[[Sage]] 再次受命激活，协调气象学与航空工程学专家测定火山灰飞行安全浓度阈值；2011 年日本福岛第一核电站放射性泄漏危机期间，SAGE 组织核物理与辐射防护专家为英国在日侨民撤离政策提供实证测算。
+> - **2010–2011 — 自然灾害与跨国技术风险响应** 2010 年冰岛埃亚菲亚德拉火山喷发导致全欧空域瘫痪，[[Sage]] 再次受命激活，协调气象学与航空工程学专家测定火山灰飞行安全浓度阈值；2011 年日本福岛第一核电站放射性泄漏危机期间，[[Semi-Automatic Ground Environment|SAGE]] 组织核物理与辐射防护专家为英国在日侨民撤离政策提供实证测算。
 > - **2020–2022 — 新冠大流行超长运作与独立 SAGE 的制度博弈** 新冠疫情暴发促使 SAGE 进入长达两年的常态化高频运作，成为举国瞩目的公共焦点。然而因早期闭门审议、专家名单保密与“群体免疫”推演争议引发学界与公众强烈质疑；前政府首席科学顾问大卫·金爵士（Sir David King）联合多学科资深学者成立民间对等机构“独立紧急科学咨询小组”（Independent SAGE），全面推行周例会全网公开直播与双向大众对话（[[Dialogue in Education]]），从而倒逼官方 SAGE 全面推行透明化改革（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|The Royal Society, 2026, Ch. 5, p. 86]]）。
 > - **2020–至今 — 议会调查质询与国家常态化科技治理反思** 英国下议院科学与技术特别委员会就新冠疫情中 SAGE 的治理机制启动多轮调查质询，揭示其顾问学科失衡与决策转化黑箱问题（Gough, 2020; UK Parliament, 2021，引自 [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, pp. 150, 157]]）。2026 年英国皇家学会《科学为社会》国家报告将 SAGE 与 Independent SAGE 的实践并列，强调未来常态化公共决策必须吸纳应急科学咨询的敏捷响应优势，同时根除政治推诿与透明度赤字（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|The Royal Society, 2026, Ch. 5, p. 88]]）。
 
@@ -110,7 +111,7 @@ updated: 2026-10-03
 > - **开放科学与透明度数据档案库** 随着透明化改革深化，[[Sage]] 定期向公众全面解密全部会议纪要、支撑性工作论文、独立专家名单以及底层建模代码，成为全球最透明的危机科学咨询公开数字档案之一。
 
 > [!citation-card] 官方职责宣言与参谋准则
-> 官方运作指引中明确界定了 SAGE 科学参谋与政府政治裁决之间的清晰职能界限：
+> 官方运作指引中明确界定了 [[Semi-Automatic Ground Environment|SAGE]] 科学参谋与政府政治裁决之间的清晰职能界限：
 > 
 > SAGE 负责向内阁简报室（COBR）的参会者提供及时的科学与技术建议。SAGE 的职责并非替政治领导人制定政策，而是基于可用证据解释科学现状、指出证据中的关键不确定性，并对不同政策干预方案的潜在后果进行客观建模推演。（英国政府科学办公室运作规程，引自 [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|The Royal Society, 2026, Ch. 5, p. 81]]）
 > 
@@ -140,7 +141,7 @@ updated: 2026-10-03
 > > 探讨国家应急咨询应当采取传统的文官闭门保密模式，还是面向公众的阳光双向沟通[[Paradigm\|范式]]。
 > >
 > > - **官方机制的早期黑箱困局** 新冠大流行初期，[[Sage]] 严格沿袭内阁传统保密协议，拒不公开与会专家名单、讨论实录与底层代码。当政客对外频繁诉诸“遵循科学”（Follow the science）口号推行争议性防控时，公众与学界无法核验究竟是客观科学建议还是政客的政策掩护，引发了对科学独立性的信任危机（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|The Royal Society, 2026, Ch. 5, p. 86]]）。
-> > - **Independent SAGE 的公共对话创新** 前首席科学顾问大卫·金联合跨领域学者创设民间对等机构“独立紧急科学咨询小组”（Independent SAGE），坚持所有例会向全网公众与媒体直播，直接解答大众疑问，完全公开模型数据。英国皇家学会评价其展示了面向社会公众与科学界协同演进的现代科学对话范式（[[Dialogue in Education]]），并最终成功迫使官方 SAGE 全面推行信息公开制度。
+> > - **Independent [[Semi-Automatic Ground Environment|SAGE]] 的公共对话创新** 前首席科学顾问大卫·金联合跨领域学者创设民间对等机构“独立紧急科学咨询小组”（Independent SAGE），坚持所有例会向全网公众与媒体直播，直接解答大众疑问，完全公开模型数据。英国皇家学会评价其展示了面向社会公众与科学界协同演进的现代科学对话范式（[[Dialogue in Education]]），并最终成功迫使官方 SAGE 全面推行信息公开制度。
 >
 > > [!axis] “遵循科学”修辞与政治决策推诿争议（独立科学参谋 vs 政治避雷针）
 > > 探讨执政精英如何将科学咨询作为掩盖行政迟缓与逃避民主问责的工具。
@@ -172,7 +173,7 @@ updated: 2026-10-03
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Government Office for Science]] | Fact (Organization) | [[Sage]] 的常设秘书处与日常预案协调依托政府科学办公室提供组织与行政支持。 |
-> | [[Parliamentary Office of Science and Technology]] | Fact (Organization) | 英国议会下设的常设科学中介机构，与面向行政内阁的 SAGE 共同构成英联邦科学咨询双轨格局。 |
+> | [[Parliamentary Office of Science and Technology]] | Fact (Organization) | 英国议会下设的常设科学中介机构，与面向行政内阁的 [[Semi-Automatic Ground Environment\|SAGE]] 共同构成英联邦科学咨询双轨格局。 |
 > | [[Post-Normal Science]] | Concept | SAGE 运作面临典型的后常规科学情境（利益攸关重大、事实充满争议、[[Scientific Uncertainty\|科学不确定性]]高且决策紧迫）。 |
 > | [[Public Engagement with Science]] | Concept | Independent SAGE 的制度创新证明了将公众直接纳入科学实证[[Dialogue in Education\|对话]]是维护危机信任的核心路径。 |
 > | [[Scientific Uncertainty]] | Concept | SAGE 在建模推演中必须明确界定[[Confidence Interval\|置信区间]]与未经验证[[Hypothesis\|假设]]，防范科学不确定性被政治滥用。 |
