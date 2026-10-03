@@ -2,10 +2,10 @@
 summary: "指国家通过公共采购、预商用采购、标准制定、催化性法规与示范项目等手段，主动培育、汇聚与定向引导市场需求，以化解前沿技术早期市场不确定性并加速创新扩散的公共政策体系；是使命导向政策塑造新兴市场的核心支柱。"
 type: concept
 domain: "science-policy"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/science-policy
   - innovation-policy
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Market Failure]]"
   - "[[Variable]]"
   - "[[Learning Economy]]"
+  - "[[Demonstration Effect]]"
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Technological Trajectories]]"
@@ -40,6 +41,7 @@ related_persons:
   - "[[David C. Mowery]]"
 related_facts:
   - "[[Fairchild Semiconductor]]"
+  - "[[Brookings Institution]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Mowery_2011_NBER]]"
@@ -50,7 +52,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-04
 title: Demand-side Innovation Policy
 aliases:
   - 需求侧创新政策
@@ -100,18 +102,19 @@ aliases:
 
 ## 核心要素
 
-> [!feature] 需求侧创新政策的四大核心支柱
+> [!feature] 需求侧创新政策的五大核心支柱
 > - **创新公共采购（Public Procurement of Innovation, [[Patient and Public Involvement|PPI]]）** 政府直接运用公共财政购买前沿创新产品，为新技术提供首台套应用场景与规模经济支撑。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
 > - **预商用采购（Pre-Commercial Procurement, PCP）** 在技术研发阶段即向多家竞争性团队订购不同技术路线的原型机方案，兼顾多路线探索与竞争活力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 794–796)]]
+> - **微观学习经济与首购托底（Learning Economy & First-Buyer Underwriting）** 在商业化元年由公共采购全额包揽初期产出（如 1962 年军品包揽 100% 集成电路），保障企业无后顾之忧地扩充产能并推动累计产量翻番，释放制造成本下降 20%–30% 的微观学习曲线效应，促使价格大幅下降直至跨越民用普及门槛。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–9)]]
 > - **催化性规制与动态标准（Catalytic Regulation & Stringent Standards）** 设定倒逼式技术性能标准（如汽车排放标准、建筑近零能耗标准），淘汰落后[[Technological Trajectories|技术轨道]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–797)]]
-> - **先导市场与应用示范工程（Lead Markets & Pilot Demonstrations）** 在特定城市或区域划定先行试验区，支持新技术在真实复杂社会环境下的快速部署与敏捷迭代。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]
+> - **先导市场与应用示范工程（Lead Markets & Pilot Demonstrations）** 在特定城市或关键战略工程划定先行试验区，通过[[Demonstration Effect|示范效应]]消除社会与市场的技术不确定性，支持新技术在真实复杂环境下的快速部署与敏捷迭代。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]; [[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 5–6)]]
 
 > [!logic-map]- 需求侧创新政策的传导机制
 > ```mermaid
 > flowchart LR
 >     A["国家战略使命与社会需求"] --> B["需求侧政策工具<br>（PPI采购/PCP研发/强制标准/示范工程）"]
 >     B --> C["创造高溢价首发市场<br>（提供规模预期/分担商业化风险）"]
->     C --> D["激发企业竞争性投资<br>（良率爬坡/成本指数级下降）"]
+>     C --> D["释放学习曲线效应<br>（累计翻番成本降20%-30%/价格暴跌）"]
 >     D --> E["跨越死亡之谷并向民用商业市场自生扩散"]
 > ```
 
@@ -126,8 +129,8 @@ aliases:
 > [!concept-lens] 需求创造与进入门槛降低
 > 探讨公共采购如何通过保障高溢价初期市场与技术择优发包，激励新创企业开展激进研发投资并打破既有巨头垄断。
 
-> [!claim] [[David C. Mowery|Mowery, D. C.]]
-> **采购规模预期对企业自主研发的诱发效应** [[David C. Mowery|大卫·莫厄里]]（David C. Mowery）指出，战后美国军方对高性能半导体和计算机的大规模采购合同，其实质功能类似于高额创新竞赛奖金（Prize）。德州仪器（Texas Instruments）与[[Fairchild Semiconductor|仙童半导体]]等新创企业正是受到军方明确采购前景的激励，主动投入企业自有资金攻克硅晶体管与集成电路（Integrated Circuit, IC）工艺；此外，军方按技术指标而非企业规模发包的策略，结合强制要求第二货源（[[Second-Sourcing]]）和交叉许可，直接降低了行业准入门槛，催生了高度竞争的商用芯片市场。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 163–168, 185)]]
+> [!claim] [[David C. Mowery|Mowery, D. C.]]; [[Argument_Schnee_1978_RP|Schnee (1978)]]
+> **采购规模预期对企业自主研发的诱发效应与学习经济释放** [[David C. Mowery|大卫·莫厄里]]（David C. Mowery）与杰罗姆·E·施尼（Jerome E. Schnee）指出，战后美国军方与空间部门对高性能半导体和计算机的大规模采购合同，其实质功能类似于高额创新竞赛奖金（Prize）与早期市场托底兜底。德州仪器（Texas Instruments）与[[Fairchild Semiconductor|仙童半导体]]等新创企业正是受到 100% 首发采购前景的激励，主动投入企业自有资金攻克硅晶体管与集成电路（Integrated Circuit, IC）工艺；此外，军方按技术性能指标而非企业规模发包的策略，结合第二货源（[[Second-Sourcing]]）要求，直接降低了行业准入门槛，释放了每累计倍增产量成本下降 20%–30% 的[[Learning Economy|学习经济]]效应，催生了高度竞争的商用芯片市场。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 163–168, 185)]]; [[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–9)]]
 
 ---
 
@@ -146,7 +149,7 @@ aliases:
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **首发市场与创新奖金激励** | 政府采购通过提供溢价订单与技术择优发包，降低新创企业准入门槛并激发突破性研发 | 战略新兴产业技术萌芽与初期产业化阶段 | Mowery; Kattel & Mazzucato |
+> | **首发市场与创新奖金激励** | 政府采购通过提供溢价订单与技术择优发包，降低新创企业准入门槛并激发突破性研发与学习经济 | 战略新兴产业技术萌芽与初期产业化阶段 | Mowery; Schnee; Kattel & Mazzucato |
 > | **市场成熟与采购效力边界** | 民用商业生态一旦形成自生扩散，单一政府采购难以扭转[[General Purpose Technology\|通用技术]]标准与发展轨道 | 产业技术成熟与民用市场主导阶段 | Mowery |
 
 ---
@@ -155,6 +158,7 @@ aliases:
 
 > [!dev-timeline] 概念演变
 > - **1950s–1970s — 冷战国防采购实践探索** 美国军方与国家航空航天局（NASA）通过对半导体器件和大型计算机的 100% 首发托底采购，创造了需求侧政策塑造微电子革命的历史经验原型。
+> - **1978 — 战后高科技采购微观学习经济实证奠基** 施尼（[[Argument_Schnee_1978_RP|Schnee, 1978]]）与蒂尔顿（Tilton, 1971）实证揭示空间与国防采购对半导体、集成电路和计算机的初期拉动作用，确立 100% 首购托底与累计产量倍增导致成本下降 20%–30% 的微观需求侧传导机制。
 > - **1980s — 创新政策工具箱系统分类** 罗思韦尔（Roy Rothwell）在《工业创新与政府政策》中系统提出公共采购、法规标准与用户补贴等需求侧创新政策工具分类。
 > - **2007 — 欧洲先导市场倡议与理论奠基** 埃德勒（Jakob Edler）与乔治乌（Luke Georghiou）正式提出需求侧创新政策综合理论框架，推动欧盟设立创新公共采购（[[Patient and Public Involvement|PPI]]）与预商用采购（PCP）政策体系。
 > - **2011 — 采购生命周期与跨领域移植边界** 莫厄里基于半导体、计算机和软件史，揭示需求侧采购在技术早期与成熟期的效力分化规律，并阐明向能源脱碳领域迁移时的规制配合前提。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 159–188)]]
@@ -169,7 +173,7 @@ aliases:
 > > [!axis] 战略[[Market Shaping and Creating|市场创造]]论 vs. 市场扭曲与寻租风险论
 > > 围绕政府运用公共采购干预技术选择是否会扭曲市场竞争与导致技术锁定的争议。
 > >
-> > - **市场塑造学派（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]; [[Argument_Mowery_2011_NBER|Mowery, 2011]]）** 强调纯市场力量在面对巨大外部性与高研发风险时存在严重的早期[[Market Failure|市场失灵]]，政府采购能有效托底并创造新市场。
+> > - **市场塑造学派（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]; [[Argument_Mowery_2011_NBER|Mowery, 2011]]; [[Argument_Schnee_1978_RP|Schnee, 1978]]）** 强调纯市场力量在面对巨大外部性与高研发风险时存在严重的早期[[Market Failure|市场失灵]]，政府采购能有效托底并创造新市场。
 > > - **自由市场与公共选择学派** 批评政府采购容易被特定利益集团俘获，导致政府“挑选赢家”（Picking Winners）失败，并锁定次优技术路线。
 >
 > > [!axis] 国防采购经验向民用气候能源技术的可移植性争议
@@ -189,7 +193,25 @@ aliases:
 > |---|---|---|---|---|---|---|
 > | [[Argument_Mowery_2011_NBER\|Mowery (2011, p. 168)]] | 1962–1978年美国集成电路终端出货结构演变（Table 5.1） | 产业统计长时序考据 | 军用与商用市场出货份额 | 军品采购份额从 1962 年的 100% 降至 1965 年的 55%、1969 年的 36%、1978 年的 10%；计算机商用份额从 1962 年的 0% 升至 1978 年的 37.5%，工业商用份额升至 37.5% | 产业统计普查数据 | 证明政府采购在早期托底并成功诱发商用市场自发扩散的阶段性规律 |
 > | [[Argument_Mowery_2011_NBER\|Mowery (2011, pp. 165–168)]] | 1962–1978年美国集成电路总产值与单片均价 | 产业统计与价格追踪 | 国内总出货额与单片均价 | 全美国内集成电路总出货额从 1962 年的 400 万美元激增至 1978 年的 20.8 亿美元；单片集成电路均价从 1962 年的 31.60 美元暴跌至 1978 年的 1.05 美元 | 产业历史数据 | 证实需求侧采购提供的规模效应推动制造成本指数级下降 |
-| [[Argument_Schnee_1978_RP\|Schnee (1978, pp. 7–9)]] | 1954–1968年美国半导体、集成电路与计算机市场的空间与国防采购份额及价格演进 | 历史产业统计与长时序分析 | 国防与空间采购份额、累计产量倍增与单片价格 | 半导体总产值由 1955 年 4000 万美元增至 1961 年 5.65 亿美元，军品占比维持在 38%–45%；1962 年集成电路商业化元年总产值 400 万美元全部（100%）由军品采购包揽，均价 50 美元；至 1968 年总产值达 3.12 亿美元（军品占 37%），均价降至 2 美元，1973 年进一步降至 0.63 美元；证实累计产量每翻一番器件平均制造成本下降 20%–30% 的学习经济效应；商用计算机销售在 1962 年前持续低于军用与空间市场（1954 年 100% 为军用空间采购） | 美国商务部 BDSA 与 EIA 统计 | 实证确立空间与国防部门确定性需求在产业启动期释放[[Learning Economy\|学习经济]]并拉动通用市场扩散的核心地位 |
+> | [[Argument_Schnee_1978_RP\|Schnee (1978, pp. 7–9)]] | 1954–1968年美国半导体、集成电路与计算机市场的空间与国防采购份额及价格演进 | 历史产业统计与长时序分析 | 国防与空间采购份额、累计产量倍增与单片价格 | 半导体总产值由 1955 年 4000 万美元增至 1961 年 5.65 亿美元，军品占比维持在 38%–45%；1962 年集成电路商业化元年总产值 400 万美元全部（100%）由军品采购包揽，均价 50 美元；至 1968 年总产值达 3.12 亿美元（军品占 37%），均价降至 2 美元，1973 年进一步降至 0.63 美元；证实累计产量每翻一番器件平均制造成本下降 20%–30% 的学习经济效应；商用计算机销售在 1962 年前持续低于军用与空间市场（1954 年 100% 为军用空间采购） | 美国商务部 BDSA 与 EIA 统计 | 实证确立空间与国防部门确定性需求在产业启动期释放[[Learning Economy\|学习经济]]并拉动通用市场扩散的核心地位 |
+
+---
+
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关联与贡献 |
+> |:-----|:-----|:-----------|
+> | [[Market Shaping and Creating]] | 概念 | 需求侧创新政策所服务的上位政策范式与战略目标。 |
+> | [[Mission-Oriented Innovation Policy]] | 概念 | 需求侧创新公共采购是第三代与狮子型使命政策的核心支柱。 |
+> | [[Learning Economy]] | 理论 | 需求侧首购保障通过规模倍增释放 20%–30% 成本下降的学习曲线机制。 |
+> | [[Demonstration Effect]] | 概念 | 需求侧示范工程与首发应用向民用商业市场传导信任与降低不确定性的机制。 |
+> | [[Second-Sourcing]] | 概念 | 需求侧采购为防范单点技术锁定与维系供应链竞争所推行的第二货源规制。 |
+> | [[General Purpose Technology]] | 概念 | 需求侧创新政策成功拉动半导体与计算机跨越死亡之谷、演变为通用技术的产业形态。 |
+> | [[Valley of Death]] | 概念 | 需求侧战略采购为早期实验室成果跨越商业化中试鸿沟所提供的托底保障。 |
+> | [[Brookings Institution]] | 事实 | 出版关于政府采购重构半导体市场竞争格局经典专著（Tilton 1971）的学术智库。 |
+> | [[Fairchild Semiconductor]] | 事实 | 战后依托国防采购合同突破硅晶体管与集成电路商业化工艺的新创先锋企业。 |
 
 ---
 
@@ -199,5 +221,6 @@ aliases:
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 跨越 150 年历史梳理三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]，系统阐述公共采购与需求侧工具在塑造新兴战略市场中的决定性地位。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 详尽剖析战后美国军方半导体、计算机与软件采购合同如何充当创新奖金与先导用户，降低新创企业进入壁垒并催生商用通用市场，同时揭示需求侧采购在技术成熟期的效力衰减边界与能源政策启示。
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统评估美国空间与国防项目对半导体和计算机产业发展的需求侧塑造机制，实证揭示早熟集成电路 100% 采购托底如何释放 20%–30% 的[[Learning Economy|学习经济]]效应并促使硬件价格暴跌十倍以上。
+
 
 

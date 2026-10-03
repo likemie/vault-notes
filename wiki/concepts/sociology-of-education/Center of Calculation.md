@@ -9,7 +9,7 @@ aliases:
 summary: "行动者网络理论与治理社会学的核心概念，指将遥远、异质的现实实体通过标准化转译为流动、稳定且可组合的标准化数据表征（如测试数据、统计指标），并在中心节点进行汇聚、建模与运算，从而实现远距离治理的专业机构或空间节点。"
 type: concept
 domain: "sociology-of-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -55,10 +55,11 @@ related_facts:
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
 related_arguments:
   - "[[Argument_Hartong_2018_GSE]]"
+  - "[[Argument_Hartong_Forschler_2019_BDS]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-04
 ---
 
 # Center of Calculation
@@ -83,8 +84,9 @@ updated: 2026-09-18
 > *Centers of calculation are places where distant heterogeneous entities are brought home through inscriptions that are mobile, stable and combinable, allowing them to be calculated, accumulated, and projected back to govern at a distance.*
 
 > [!boundary]- 概念边界
-> - 不等于 单一行政决策部门 — 传统的教育部或州政府直接依据法律发布行政命令；计算中心则主要依托科学化、心理测量学标定的量化技术与数据模型行使认识论治理。
-> - 不等于 孤立的学术研究实验室 — 传统实验室仅关注纯学术理论生产；治理视野下的计算中心与国家监测战略及政策问责机制深度绑定，直接输出治理基准。
+> - **不等于 单一行政决策部门** 传统的教育部或州政府直接依据法律发布行政命令；计算中心则主要依托科学化、心理测量学标定的量化技术与数据模型行使认识论治理。
+> - **不等于 孤立的学术研究实验室** 传统实验室仅关注纯学术理论生产；治理视野下的计算中心与国家监测战略及政策问责机制深度绑定，直接输出治理基准。
+> - **不等于 计算机科学与工程领域的物理计算中心（Computer Centers / Supercomputer Centers）** 行动者网络理论中的计算中心（Center of Calculation，亦称算度中心）是科学技术学与治理社会学的理论概念，强调从异质现实到标准化数据表征的转译、积累与远距离行动规约循环，而非单纯提供硬件算力的机房或高性能数据中心。
 
 ---
 
@@ -161,6 +163,7 @@ updated: 2026-09-18
 > - **1999 年 — 治理社会学的空间化发展** 尼古拉斯·罗斯（Nikolas Rose）在《自由的权力》（*Powers of Freedom*）中将计算中心引入政治社会学，论证统计调查局与经济模型如何为新自由主义国家行使远距离治理提供基准。
 > - **2015 年 — 全球教育政策研究的应用** 拉德希卡·戈鲁尔（Radhika Gorur）将计算中心用于剖析[[OECD\|经济合作与发展组织]]（OECD）的 [[PISA]] 运作机制，揭示巴黎总部如何将全球各国的课堂现实[[Transfer Translation Transformation\|转译]]为单一维度的量化排行榜。
 > - **2018 年 — 联邦制国内[[Data Infrastructure\|教育数据基础设施]]的经验剖析** [[Sigrid Hartong\|西格丽德·哈通]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）将计算中心概念[[Operationalization\|操作化]]于德国教育监测体系，证明柏林 [[Institute for Educational Quality Improvement\|IQB]] 如何在宪法禁止国家排名的制度约束下，依然作为国家计算中心重组联邦教育治理。
+> - **2019 年 — 从单一中心走向分布式数据基础设施网络** 哈通与弗施勒（[[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler, 2019]]）进一步指出，随着数字平台、商业教育科技（EdTech）与云服务的渗透，现代治理正从依托单一国家计算中心向多中心协同、权能分散的“分布式数据基础设施网络”演化。
 
 ---
 
@@ -172,7 +175,13 @@ updated: 2026-09-18
 > > 探讨计算中心生产的指标是纯粹客观的测量镜像，还是内嵌特定意识形态的规范塑造。
 > >
 > > - **技术测量主义立场** 辩护称计算中心仅提供经过严格心理测量标定的客观工具，不带有政治偏见，为各级决策提供中立事实基础。
-> > - **批判社会学立场** 指出计算中心决定了“什么可以被计算、什么被视而不见”，将复杂的育人过程粗暴还原为窄化的学科分数，形成了排他性的量化认识论霸权（Gorur, 2015; [[Argument_Hartong_2018_GSE\|Hartong, 2018]]）。
+> > - **批判社会学立场** 指出计算中心决定了“什么可以被计算、什么被视而不见”，将复杂的育人过程粗暴还原为窄化的学科分数，形成了排他性的量化认识论霸权（Gorur, 2015）。
+>
+> > [!axis] 单一中心化认知集权 vs 分布式数据基础设施网络
+> > 围绕治理权力究竟高度收拢于单一国家计算中心，还是弥散在跨部门商业数字基础设施网络中的争论。
+> >
+> > - **单一计算中心论（Latour, 1987; [[Argument_Hartong_2018_GSE|Hartong, 2018]]）** 强调特定专业机构通过垄断全域题库与多源数据分析形成元治理中枢。
+> > - **分布式网络论（[[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler, 2019]]）** 指出在云原生与平台化时代，教育数据化并未形成单一权能计算中心，治理呈现跨公私边界的多中心分布式特征。
 
 > [!warning] 适用局限
 > 该概念适用于分析具有高度标准化测量程序、集中化数据处理机构与数字反馈机制的现代[[Output-Oriented Governance\|循证治理]]系统；对于完全依赖经验直觉、口头传承或高度去中心化无统一标准的传统教学[[Champ\|场域]]，该概念的解释力有限。
@@ -190,10 +199,28 @@ updated: 2026-09-18
 
 ---
 
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关联与贡献 |
+> |:-----|:-----|:-----------|
+> | [[Actor-Network Theory]] | Theory | 计算中心概念得以奠基的社会-物质本体论理论框架。 |
+> | [[Data Infrastructure]] | Concept | 计算中心赖以运作与向分布式网络演化的底层技术与制度载体。 |
+> | [[Transfer Translation Transformation]] | Concept | 计算中心将分散现实转译为流动标准化数据表征的微观操作机制。 |
+> | [[Topological Spatialisation]] | Concept | 计算中心通过数据网络折叠时空、连接微观课堂与宏观标准的空间化形态。 |
+> | [[Institute for Educational Quality Improvement]] | Fact | 德国基础教育治理体系中国家级计算中心的最典型经验案例。 |
+> | [[OECD]] | Fact | 全球教育治理领域中通过 PISA 测试行使跨国远距离治理的超级计算中心。 |
+> | [[Vergleichsarbeiten]] | Fact | 计算中心向各州学校推送标准练习与汇聚诊断数据的标志性测评项目。 |
+> | [[IQB-Bildungstrend]] | Fact | 计算中心用于标定各州学业水平达标率与长期趋势的国家级监测工具。 |
+
+---
+
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 将计算中心框架运用于德国[[Institute for Educational Quality Improvement\|IQB]] 案例，系统揭示跨尺度[[Data Infrastructure\|数据基础设施]]如何重塑国家与州级教育政策空间。
+> - [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] — 探讨数据基础设施素养与数字化时代治理权力的分布式网络特征，反思传统单一计算中心模型的演进方向。
 > - Latour (1987) — 经典开创计算中心理论，阐述标准化数据表征[[Transfer Translation Transformation\|转译]]、积累与远程控制的社会-物质机制。
 > - Rose (1999) — 阐明数字与统计计算中心在现代[[Governmentality\|治理术]]与远距离治理中的核心支柱作用。
 > - Gorur (2015) — 运用计算中心理论剖析 [[OECD]] 与 [[PISA]] 测评对全球教育政策议程的塑造。

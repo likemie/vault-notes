@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Demonstration Effect",
-      "path": "wiki/concepts/science-policy/Demonstration Effect.md"
+      "basename": "Bell Labs",
+      "path": "wiki/facts/us/Bell Labs.md"
     },
     {
       "basename": "Argument_Schnee_1978_RP",
       "path": "wiki/arguments/journal-articles/Research Policy/Argument_Schnee_1978_RP.md"
     },
     {
+      "basename": "Apollo Program",
+      "path": "wiki/facts/us/Apollo Program.md"
+    },
+    {
+      "basename": "Demonstration Effect",
+      "path": "wiki/concepts/science-policy/Demonstration Effect.md"
+    },
+    {
+      "basename": "Center of Calculation",
+      "path": "wiki/concepts/sociology-of-education/Center of Calculation.md"
+    },
+    {
+      "basename": "Brookings Institution",
+      "path": "wiki/facts/us/Brookings Institution.md"
+    },
+    {
+      "basename": "Semi-Automatic Ground Environment",
+      "path": "wiki/facts/us/Semi-Automatic Ground Environment.md"
+    },
+    {
+      "basename": "Sage",
+      "path": "wiki/concepts/chinese-philosophy/Sage.md"
+    },
+    {
+      "basename": "Demand-side Innovation Policy",
+      "path": "wiki/concepts/science-policy/Demand-side Innovation Policy.md"
+    },
+    {
       "basename": "Learning Economy",
       "path": "wiki/concepts/university-industry-collaboration/Learning Economy.md"
+    },
+    {
+      "basename": "Market Shaping and Creating",
+      "path": "wiki/concepts/science-policy/Market Shaping and Creating.md"
     },
     {
       "basename": "Human Capital Theory",
@@ -55,14 +87,6 @@
     {
       "basename": "Office of Naval Research",
       "path": "wiki/facts/us/Office of Naval Research.md"
-    },
-    {
-      "basename": "Bell Labs",
-      "path": "wiki/facts/us/Bell Labs.md"
-    },
-    {
-      "basename": "Demand-side Innovation Policy",
-      "path": "wiki/concepts/science-policy/Demand-side Innovation Policy.md"
     },
     {
       "basename": "Co-invention",
@@ -153,10 +177,6 @@
       "path": "wiki/facts/us/Investing in Innovation Program.md"
     },
     {
-      "basename": "Market Shaping and Creating",
-      "path": "wiki/concepts/science-policy/Market Shaping and Creating.md"
-    },
-    {
       "basename": "Lead-and-Learn Paradigm",
       "path": "wiki/concepts/science-policy/Lead-and-Learn Paradigm.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Picking the Willing",
       "path": "wiki/concepts/science-policy/Picking the Willing.md"
-    },
-    {
-      "basename": "Patient Capital",
-      "path": "wiki/concepts/economics/Patient Capital.md"
-    },
-    {
-      "basename": "Technological Trajectories",
-      "path": "wiki/theories/political-economy-geopolitics/Technological Trajectories.md"
-    },
-    {
-      "basename": "Evolutionary Economics",
-      "path": "wiki/theories/political-economy-geopolitics/Evolutionary Economics.md"
-    },
-    {
-      "basename": "Wicked Problem",
-      "path": "wiki/concepts/science-policy/Wicked Problem.md"
-    },
-    {
-      "basename": "Public Dynamic Capabilities",
-      "path": "wiki/concepts/science-policy/Public Dynamic Capabilities.md"
     }
   ],
   "omittedPaths": [],

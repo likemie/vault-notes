@@ -1,0 +1,1005 @@
+=== PAGE 1 ===
+SUMMARY 
+The research reported in this article was carried out as 
+part of a larger project investigating the impact of the 
+US Space Program on the American economy. The au- 
+thor describes the influence of governmental programs in 
+space and defense on the growth of the computer and 
+semiconductor industries. Three types of economic im- 
+pacts are analyzed: the role of the federal government in 
+financing research and development; the importance of 
+the government as a market, particularly in the early 
+stages of an industry’s growth; and the extent to which 
+government policy encouraged the entrance of new firms 
+and permitted the survival of companies that might 
+otherwise have failed. The paper also deals with the 
+contribution of Defense and NASA to the acceleration 
+of technological changes and the development of special- 
+ized manpower on which the progress of the industry 
+largely depended. 
+The author concludes that large government programs 
+can play an essential role in the growth of high technol- 
+ogy industries. The significance of space-defense pro- 
+grams for US semiconductor and computer firms can 
+only be perceived by reviewing each type of impact - 
+economic, technological and manpower. The govern- 
+ment’s early R & D support, assured demand during start- 
+up periods, encouragement of competition, acceleration 
+of technological progress, and its facilitating of profes- 
+sional mobility, are the separate impacts which together 
+greatly aided US firms in their rise to a dominant posi- 
+tion in the world semiconduc tor and compu ter industries. 
+Research Policy 7/l 9 78) 2-24 North-Holland 
+=== PAGE 2 ===
+government programs and the growth 
+of high-technology industries 
+by 
+Jerome E. SCHNEE 
+Graduate School of Business Administration, Rutgers University, Newark, 
+N. Y. 07102, USA 
+INTRODUCTION 
+As the activities and expenditures of the federal government have expanded 
+during the past two decades, the impacts of large public programs have come 
+under closer scrutiny. Impacts are distinct from the specific accomplishments 
+of an agency in carrying out its overall mission. The placing of a man on the 
+moon, or the orbiting of an earth resources satellite are examples of a specific 
+accomplishment. Whereas specific accomplishments relate directly to agency 
+objectives, impacts do not. In achieving a specific goal, a public agency may 
+stimulate the development of a new technology or a new industry, drama- 
+tically alter the infrastructure of a city or a region of the country, or create 
+new occupational categories. 
+These ancillary effects of large public programs are exemplified by the role of 
+large US government defense and space programs in nurturing the develop- 
+ment of two high-technology industries - computers and semiconductors. 
+American firms have dominated the semiconductor (solid-state electronic 
+components) and computer industries since their post-World War II origins. 
+IBM, for example, accounts for over two-thirds of all computer installations 
+both inside and outside of the United States. In semiconductors, American 
+firms have carried out all of the important innovations since Bell Laboratories 
+discovered the transistor in 1948 [l] . This paper identifies and describes 
+three types of influence - economic, technological, and manpower -which 
+the space and defense programs exerted on these new industries [2]. An 
+analysis of all three impact categories wiIl provide insight into the full range 
+of support which a public program can provide to a high-technology industry. 
+Research Policy 7,/l 9 78)2-24 North-Holland 
+=== PAGE 3 ===
+4 J. E. Schnee 
+ECONOMIC IMPACTS: SUPPORT FOR RESEARCH AND DEVELOPMENT 
+The economic dimension of government influence has been evident in both 
+the computer and semiconductor industries. Specifically, three types of eco- 
+nomic impacts can be identified: 
+(1) Direct and indirect financial support by space-defense programs for semi- 
+conductor and computer R & D, 
+(2) Assured demand provided by space and defense programs during the early 
+years of the industry, 
+(3) The use of space and defense demand to support new firms and to affect 
+the competitive balance within the industry as it matures. 
+Because innovation has been so critical in the development of the computer 
+and semiconductor industries we shall begin by considering space-defense 
+financial support for research and development. 
+Prior to the discovery of the transistor by Bell Laboratories in 1948, Euro- 
+pean firms were the equal of American firms in advancing component tech- 
+nology. Some of the most important advances in electron tubes had, in fact, 
+been made by European firms and European universities. Beginning with the 
+transistor, almost all the important inventions and innovations in components 
+have been made in the United States, and there has been a lag of one to four 
+years before manufacture has begun in Europe, often by American subsid- 
+iaries [3] . 
+The leading role which American firms have played in advancing component 
+technology is directly related to the R & D support provided by the govern- 
+ment. In the early 1950’s, the military services became convinced of the 
+military importance of transistors and other semiconductor devices. They 
+believed these devices could miniaturize, and thus make more portable, much 
+military equipment and also improve the reliability of equipment in field 
+operations. As a result, the Department of Defense financed semiconductor 
+R & D on a large scale and aided the principal firms in enlarging their produc- 
+tion capacity. By 1953, the Army Signal Corps was financing pilot produc- 
+tion lines for transistors and related devices at five sites operated by Western 
+Electric, General Electric, Raytheon, RCA, and Sylvania. Between 195.5 and 
+1961, direct government funding for semiconductor R & D and production 
+refinement totalled $66 million [4]. 
+This government financial support was provided in two forms: (1) direct 
+contracts for R & D projects and (2) government-financed production retine- 
+ment programs. Approximately 30% of the funds were expended in 1956 
+when a special appropriation of $14 million was allocated to production 
+refinement projects for transistors. Contracts for the development of thirty 
+=== PAGE 4 ===
+Growth of high-technology industries 5 
+different types of transistors over the following several years were placed with 
+12 semiconductor companies. In many cases the DOD investment was match- 
+ed by similar amounts of capital equipment or plant space supplied by the 
+contracting companies. Contracts called for the delivery of about three thou- 
+sand transistors of each type to be made on production lines capable of pro- 
+ducing that many per month. Eventually the special $14 million expenditure 
+aided in greatly expanding semiconductor production capacity in the US [5] . 
+The Army Signal Corps was extremely active in supporting semiconductor 
+research during this period because of its concern with improving military 
+communications equipment. In 1961, this agency employed 27 commercial 
+contractors on research programs for semiconductor devices, 40 commercial 
+firms on electronic parts and materials projects, and 13 commercial firms on 
+quartz crystal units. The Signal Corps program produced some important 
+commercial benefits for these firms by enabling them to substantially reduce 
+the length of commercial development projects [6]. 
+The $66 million of direct government funding on semiconductor R & D sig- 
+nificantly understate the amount of total government support since many 
+semiconductor firms received support indirectly. Government contracts for 
+space and weapons systems enabled the prime contractors to subcontract 
+with semiconductor firms for R &D. A 1960 DOD survey measured the 
+amount of direct federal semiconductor support as well as the indirect amount 
+which was subcontracted to semiconductor firms by weapons systems prime 
+contractors. The survey estimated that DOD direct and indirect semiconductor 
+R&D funding totaled $13.9 million and $16.2 million in 1958 and 1959, 
+respectively. These totals were more than double the amount of direct DOD 
+R & D funding in the respective years. The survey also revealed the relative 
+importance of government-sponsored R & D; in 1958 and 1959, the Depart- 
+ment of Defense funded 25% and 23%, respectively, of total semiconductor 
+industry R&D expenditures [7] . As these figures make clear, substantial 
+support was provided for semiconductor R & D during the early stages of the 
+industry’s development. The $66 million in direct support, as well as nearly 
+equal amounts in indirect support, aided the firms in refining their products 
+and expanding production capacity. 
+A similar pattern of early large-scale government R & D support is evident in 
+the computer industry. Federal agencies began to play an instrumental role 
+in the development of the US computer industry in the 1940’s. Although the 
+first US computer, the Automatic Sequence Controlled Calculator (ASCC), 
+was developed by a Harvard-IBM team between 1937 and 1944, all subse- 
+quent US computer developments from the end of World War II, until the 
+mid-1950’s, had the strong financial support of various US government agen- 
+=== PAGE 5 ===
+6 J. E. Schnee 
+ties. Work on the first electronic computer, the Electronic Numerical Inte- 
+grator and Calculator (ENIAC), began at the University of Pennsylvania in 
+1942 and was completed in 1946. ENIAC received financial support from the 
+Army and was mainly designed for calculating trajectories of shells and 
+bombs. From 1945 to 1955, the US Army, Navy and Air Force, the Atomic 
+Energy Commission, and the National Bureau of Standards all placed major 
+contracts for the development of improved computers with universities and 
+with the first firms who began design and manufacture - especially Reming- 
+ton Rand (Univac) and, later, IBM. As a result, rapid progress was made in 
+solving some of the problems of logic design, memory storage systems and 
+programming techniques. 
+The major technical advances during this period were made in the large com- 
+puters demanded by the military and other government agencies. These ad- 
+vances were subsequently incorporated in the medium and small computers, 
+which were designed for smaller scale, less complex applications. In the 1950’s, 
+government contract R & D accounted for about 60% of total R & D expen- 
+ditures at IBM; by the early 1960’s, government-sponsored R & D was a very 
+small part of the company’s $125 million R & D budget. The very large IBM 
+computers, such as STRETCH, were built on contract for government agen- 
+cies, but the highly successful transistorized 1401 series and the 360 and 
+370 series have been privately funded projects. 
+Government support of US computer developments takes on added signifi- 
+cance when the US experience is contrasted with that of other countries. 
+Although it is widely believed that the first successful computers were built 
+in the United States and Great Britain, the first electro-mechanical computer 
+was actually developed by Frederich Zuse in Berlin between 1936 and 1941. 
+Moreover, Zuse was also the first to begin work on the electronic computer 
+during the early 1940’s. But the lack of official support by the German 
+government for his project and the disruption which occurred at the end of 
+the War caused the lead in computer development to pass to the United States, 
+and to a lesser extent, to Britain. 
+In Britain, electronic computer development work began in 1946-47 after 
+British scientists and engineers had visited the first American installations. 
+The earliest work was at London, Manchester, and Cambridge Universities, 
+and at the Elliott Brothers’ Research Laboratory on digital computing for fire 
+control for the Admiralty. Although financial support for several computer 
+projects was provided by the National Research and Development Corpora- 
+tion (NRDC), total funding was.limited to $2.5 million during the 1947-57 
+period because British military agencies remained unconvinced that there 
+were substantial benefits to be derived. Consequently, British computer firms 
+=== PAGE 6 ===
+Growth of high-technology industries 7 
+were never able to compete effectively with their US counterparts. Initially, 
+ten British firms were involved in the development and manufacture of com- 
+puters. But few of these firms ever developed a computer model with sales 
+exceeding fifty units, and by the mid-1960’s the number of British computer 
+manufacturers had declined from ten to three [8] . 
+THE IMPACT OF ASSURED DEMAND 
+The preceding discussion makes it clear that government R & D funding pro- 
+vided vital financial support for the early technical development of semi- 
+conductors and computers. Government programs were equally important 
+when these products first reached the market; the earliest sales of semicon- 
+ductors and computers were to military agencies. The first semiconductors 
+were marketed in the early 1950’s. By 1955, the semiconductor market was 
+$40 million and military agencies accounted for 38% of these sales. The 
+space-defense market for semiconductors grew from $15 million in 1955 to 
+$222 million in 1961. At times, space-defense demand accounted for almost 
+50% of the total semiconductor market (table 1) [9]. 
+Government demand proved even more significant during the first years of 
+integrated circuit commercial production. The earliest integrated circuits were 
+used in the Minuteman missile program and various Navy programs in 1962 
+and 1963. In 1962, space-defense sales accounted for the total $4 million 
+integrated circuit market. By 1968, the space-defense share of integrated 
+circuits had declined to 37% (table 1). 
+Space-defense business was vital in an industry where learning economies are 
+substantial. Typically, the price for each new component innovation was too 
+expensive for industrial or consumer electronic products. But NASA and 
+DOD provided a substantial market for new devices, because reliability and 
+performance received higher priority over costs in the space-defense environ- 
+ment. Later, as the firms increased production, learning economies were 
+realized and costs fell. In a few years, the price was low enough to penetrate 
+the industrial market, and eventually the consumer market. 
+Semiconductor firms estimate that the average cost of producing a new com- 
+ponent falls between 20 and 30% every time its cumulative past production 
+doubles. The impact of learning economies on the price of integrated circuits 
+has been dramatic. In 1962, when the total market was $4 million, the aver- 
+age price of an integrated circuit was approximately $50. By 1968, the market 
+had grown to $312 million and the average price had dropped to $2. At the 
+1973 price of S.63, integrated circuit customers could purchase 50 units of 
+=== PAGE 7 ===
+Table 1 
+US production of semiconductors and integrated circuits for defense requirements; 1955-68a) 
+Year Semiconductors Integrated circuits Semiconductors and 
+integrated circuits 
+Totalb) Defenseb) 
+production production 
+Defense as Totalb) Defenseb) Defense as Totalb) Befenseb) Defense as 
+% of total production production 70 of total production production % of total 
+1955 40 15 38 d) 40 15 38 
+1956 90 32 36 _____ 90 32 36 
+1957 151 54 36 151 54 36 
+1958 210 81 39 210 81 39 
+1959 396 180 45 396 180 45 
+1960 542 258 39 542 258 48 
+1961 565 222 39 565 222 39 
+1962 571 219 38 4c) 4 1 ooc) 575 223 39 
+1963 594 196 33 16 15 94c) 610 211 35 
+1964 635 157 25 41 35 85c) 676 192 28 
+1965 805 190 24 79 57 72 884 247 28 
+1966 975 219 22 148 79 53 1,123 298 27 
+1967 879 205 23 228 98 43 1,107 303 27 
+1968 847 179 21 312 115 37 1,159 294 25 
+Sources: Data for semiconductors are from US Department of Commerce, Business and Defense Services Administration (BDSA), Electronic 
+Components: Production andRelutedDatu, 1952-1959 (1960); Data for 1960-1968 are from BDSA,Consolidated Tabulation: Shipments 
+of Selected Electronic Components (annual reports) and Electronic Industries Yearbook, 1969 (Washingthon: Electronic Industries Assoc- 
+iation, 1969), table 55. These data appear in a different form in Tilton, op.cit., Tables 447 and 448. 
+a) Defense production includes devices produced for Department ofDefense (DOD), Atomic Energy Commision (AEC), Central Intelligence 
+Agency (CIA), Federal Aviation Agency (FAA), and National Aeronautics and Space Administration (NASA) equipment. 
+b, All figures in millions of dollars. 
+‘) Estimated. 
+d, Commercial production of integrated circuits began in 1962. 
+=== PAGE 8 ===
+Growth of high-technology industries 9 
+increased complexity for the same price they had paid for one unit in 1963 
+Computer manufacturers, as well as semiconductor firms, benefited from 
+government purchases during the industry’s early years. Military demand for 
+computers was critical in the early 1950’s. By the time Sperry Rand delivered 
+the first UNIVAC computer designed for business data processing to General 
+Electric in 1954, the military market for data processing systems had already 
+reached nearly $200 million. Although sales of commercial data processing 
+hardware rose rapidly to $500 million in 1960, the military and space market 
+for data processing systems was still larger ($900 million) in that year. The 
+sales of commercial data processing systems did not surpass military and space 
+hardware sales until 1962, nearly eight years after delivery of the first com- 
+puter designed for business use (table 2). 
+Table 2 
+Computer market statistics. 1954-63 (millions of dollars) 
+Commercial Space-defense Total Sale Of Sales of Space-defense Spacedefense 
+Yea1 UMllp”t~~ computer computer computer computers & share of share of 
+sales sales sales services services computers camp. & serv. 
+1954 - 
+1955 68 250 
+1956 185 300 
+1957 230 350 
+1958 200 500 
+1959 310 800 
+1960 600 900 
+1961 820 1000 
+1962 1200 1100 
+1963 1370 1200 
+200 200 
+318 
+485 
+580 
+700 
+1110 
+1500 
+1820 
+2300 
+2570 
+50 
+175 
+200 
+250 
+300 
+500 
+750 
+1000 
+1200 
+200 100% 100% 
+368 79% 54% 
+660 62% 45% 
+780 60% 45% 
+950 71% 53% 
+1410 72% 57% 
+2000 60% 45% 
+2570 5.5% 39% 
+3300 48% 33% 
+3770 47% 32% 
+Source: G. Burck et al., The ComputerAge (Harper&Row, New York, 1965) pp. 73-78; A. Gropelli, op. cit.. appendix. 
+The relationship between military-space demand for computers and overall 
+market growth is similar to that observed in the semiconductor industry. In 
+both cases, space-defense demand accounted for a large share of the total 
+market at the outset. The space-defense share of the total computer hard- 
+ware market was initially 100% and remained over 60% for the next seven 
+years. Although the space-defense share of the computer services market was 
+lower than the space-defense share of the computer hardware market, 
+government purchases still accounted for nearly half of total sales through 
+1960 and did not drop below one-third of the total market until 1963 [ 1 ] . 
+The above statistics document the direct spending of space-defense agencies 
+on computers, but they do not capture the indirect effect of space-defense 
+expenditures resulting from computer spending by large aerospace compa- 
+nies. A computer science professor described the indirect effects of space-de- 
+fense programs on the computer industry in this way [ 121 : 
+=== PAGE 9 ===
+10 .I. 6. Schnee 
+Big spenders are significant factors in the development of the American 
+computer industry. American dominance of computers and computer 
+science is largely due to massive government space-defense spending 
+during the 1950-1965 period. These funds flowed to large aerospace 
+companies who, in turn, became big spenders. The emergence of the pio- 
+neering IBM 7090 and 7094 lines was the result of these several “big 
+spenders”. 
+The large space-defense market for computers produced three important 
+secondary benefits for computer firms. First, space-defense sales enabled 
+companies to fund higher levels of research and development which, in turn, 
+promoted technological progress. Research advances, together with the 
+learning economies which resulted from increasing volume levels, lead to 
+continual declines in prices. An index of computer prices for the 1954-65 
+period revealed that prices in 1965 were approximately one-tenth those in 
+1954 (ref. [ 131 , table 2.5). 
+A second important benefit provided by space-defense demand was expe- 
+rience with new types of computer applications. Military requirements for 
+space, speed, and reliability resulted in more sophisticated applications than 
+those first sought by business firms. Typically, the techniques utilized in a 
+particular computer application would initially be developed and refined in a 
+military system. Subsequently, the same techniques would be applied to a 
+commercial data processing system. The most notable example of applying 
+military computer experience to commercial problems is in the area of real- 
+time computer systems. The first commercial real-time computer systems 
+were descendants of the Air Force’s pioneering real-time air defense computer 
+system - Semi-Automatic Ground Environment or SAGE. A computer com- 
+pany executive with substantial experience in both the space-defense and 
+commercial markets stressed the relationship between applications in the two 
+markets [14] : 
+Space and defense computer applications have served as a “crystal ball” 
+for predicting the future direction of computer use in industry. Because 
+many computer applications in the space and defense programs are on the 
+leading edge of the technology, they point the way to future applications 
+in industry (and elsewhere in government) two to three years hence. 
+A third benefit of space-defense demand was the “demonstration effect.” 
+Sales in the commercial computer market depended on the acceptance of 
+complex systems by business executives. Many of these executives lacked the 
+technical knowledge needed to fully appreciate the potential of Computers. 
+=== PAGE 10 ===
+Growth of high-technology industries 11 
+The combination of unfamiliarity and skepticism among business executives 
+would have been a significant barrier to commercial sales were it not for the 
+“demonstration effect” of space-defense computer systems. In the 1950’s 
+military demonstrations of computer ability accelerated the business world’s 
+acceptance of the computer. More recently, the widely publicized use of com- 
+puters for NASA space missions during the 1960’s produced an unparalleled 
+demonstration effect. One computer industry observer noted the significance 
+of NASA’s use of computers [ 1.51 : 
+NASA’s successful use of computers, particularly on Apollo, greatly in- 
+creased industry’s receptivity to computers. Managers became more willing 
+to let computers control things, such as in process control of oil refineries. 
+The momentum generated by Apollo had a big effect on confidence, pro- 
+ducing a sudden turnaround in industry receptivity, 
+COMPETITION AND THE SUPPORT OF NEW FIRMS 
+Space-defense demand has not only stimulated the growth of the semi- 
+conductor and computer industries, it has also helped stimulate and maintain 
+competition in these fields. The ability of new firms to enter the market is an 
+essential characteristic of a competitive industry. In both the computer and 
+semiconductor industries government demand has been a factor in supporting 
+new firms, but space-defense stimulation of competion is more pronounced 
+in the semiconductor market. 
+The first commercial producers of semiconductors were Western Electric and 
+major tube manufacturers, such as General Electric, RCA, and Sylvania. 
+General Electric, Raytheon, and RCA began producing transistors in 1951, 
+and by 1954 eight different firms were manufacturing transistors. Other firms 
+were slower to respond to the new technology, but they entered the market 
+in large numbers during the mid-1950’s. The three types of firms which en- 
+tered the market were: (a) firms which were large and diversified before they 
+entered the semiconductor industry (Hughes, Motorola, and IBM); (b) small 
+firms engaged in other branches of electronics or in other industries (Texas 
+Instruments, General Instrument); and (c) new companies which were initially 
+established to manufacture semiconductors (Transitron, National Semicon- 
+ductor) [ 161 . 
+Many of the new firms were able to enter the market because the military 
+agencies were willing to buy from new and untried firms. By 1957 these new 
+firms accounted for 64% of the total market and 69% of the government 
+=== PAGE 11 ===
+12 J. E. Schnee 
+Table 3 
+US semiconductor market shares of the major firms, selected years, 
+1957-66a) 
+Type and name of firm 1957 1960 1963 1966 
+Western Electric 5 5 7 9 
+Receiving tube firms 
+General Electric 
+RCA 
+Raytheon 
+Sylvania 
+Philco-Ford 
+Westinghouse 
+Others 
+Subtotal 31 
+8 
+7 
+4 
+3 
+6 
+6 
+1 
+35 
+8 
+b: 
+bl 
+4 
+4 
+4 - 
+25 
+8 
+b: 
+bl 
+3 
+5 
+3 
+26 
+New tirms 
+Texas Instruments 
+Transitron 
+Hughes 
+Motorola 
+Fairchild 
+Thompson Ramo Wooldridge 
+General Instrument 
+Others 
+Subtotal 
+20 
+12 
+11 
+bl 
+b) 
+bl 
+b) 
+21 - 
+64 
+20 
+9 
+5 
+5 
+b: 
+bl 
+16 
+60 
+18 
+b: 
+10 
+9 
+b4, 
+24 
+68 
+17 
+b: 
+12 
+13 
+bl 
+4 
+12 
+65 
+Total 100 100 100 100 
+Percentage of market 
+Source: J. E. Tilton, International Diffusion of Technology: The 
+Case of Semiconductors (The Brookings Institution, Washington 
+DC., 1971) p. 66. 
+al Market shares are based on company shipments and include in- 
+house and government sales. 
+b, Not one of the top semiconductor firms for this year. Its market 
+share is included under “Others.” 
+market (table 3). The two largest firms in the market, Texas Instruments and 
+Transitron, with 20%and 11% market shares, respectively, had both benefited 
+greatly from military demand. In early 1953, the military authorized the use 
+of Transitron’s gold-bonded diode before the company had made any signifi- 
+cant commercial sales [ 171 . In 1954, Texas Instruments, building on research 
+at Bell Laboratories, introduced the first silicon transistor. The innovation 
+opened up a vast new market, particularly in products for military use. 
+=== PAGE 12 ===
+Growth of high-technoloo industries 13 
+Space program demand has been especially important in establishing a com- 
+petitive market for metal-oxide-semiconductor (MOS) devices. The first MOS 
+transistor was introduced by Fairchild in 1960. However, as a result of several 
+technical difficulties and the departure of many MOS specialists, Fairchild 
+dropped MOS devices from their product line after two years of commercial 
+production. Then, beginning in 1963 the new firms quickly entered the field. 
+General Micro Electronics (GME) was founded by Fairchild personnel in 1963 
+and received one of its first contracts to produce MOS integrated circuits 
+from NASA. When Philco-Ford acquired GME in 1966 several GME employees 
+left to form American MicroSystems (AMI) which was subsequently awarded 
+a NASA contract. The firm developed the technology required to produce 
+stable MOS devices, and became one of the early suppliers of specialized com- 
+mercial MOS devices. AMI eventually became a major source of such devices 
+throughout the country [ 181. 
+The impact of space-defense demand on competition among computer firms 
+is evident particularly in the industry’s early years. Sperry Rand, the compa- 
+ny which delivered the first UNIVAC computer, had a headstart on IBM 
+during the early 1950’s. IBM did not enter the electronic computer industry 
+until 1953, but it was the clear industry leader by 1956. Most analyses attrib- 
+ute the overwhelming IBM success to the firm’s aggressive salesmanship. While 
+essentially correct, these analyses ignore the significance of space-defense 
+demand for IBM. Space-defense purchases exceeded 30% of the firm’s com- 
+puter revenues in the mid-1950’s and did not drop below 20% until 1958 
+[191. 
+During the late 1950’s space-defense sales were vital to the growth of many 
+new computer firms. The most significant of those new firms was the Control 
+Data Corporation begun by former Sperry Rand employees in 1957 as a small 
+but successful supplier of standardized systems for military and scientific use. 
+Control Data raised revenues from practically nothing in 1958 to around $12 1 
+million in the fiscal year ending in June 1964. By 1965 the firm had displaced 
+RCA as the third largest computer manufacturer behind IBM and Sperry 
+Rand. Space-defense business provided the initial impetus for Control Data’s 
+growth; almost all of the company’s pre-1960’s sales were to government 
+agencies [20] . 
+During the 1960-70 decade, space-defense sales aided several computer 
+manufacturers, particularly Sperry Rand and Control Data, to maintain or 
+improve their competitive position vis-a-vis IBM. A 1962 government policy 
+shift from computer rental to the direct purchase of computers promoted the 
+growth of IBM’s competitors. IBM began to feel the impact of this policy 
+when several federal agencies converted from IBM to other equipment in 
+=== PAGE 13 ===
+14 J. E. Schnee 
+1963. In 1961, IBM was responsible for 81% of all computers supplied to the 
+government. By 1966, IBM’s net shipments to government agencies were 
+negative as a result of returned rental equipment which was replaced by new 
+equipment purchased from IBM’s competitors [21] . 
+Table 4 
+Space-defense computer stock value as percentage of total computer stock valuea) (1960-1971, se- 
+lected years) 
+Firm 1960 1961 1963 1964 1965 1968 1970 1971 
+IBM 10 10 8 8 8 7 7 5 
+Burroughs 18 19 8 5 14 10 23 18 
+Control Data 5 6 10 13 20 14 16 14 
+General Electric 0 0 5 4 8 3 5 0 
+Honeywell 0 2 10 7 9 8 5 4 
+RCA 15 14 13 15 17 12 15 15 
+Univac 6 10 11 10 13 15 24 21 
+Scientific Data _ _ 11 8 4 10 21 28 
+EMR _ 18 9 14 5 24 27 
+Electronic Assoc. _ _ _ _ 0 12 14 15 
+Autonetics 13 8 13 22 20 26 15 15 
+Digital equip. _ 9 9 3 2 2 3 
+Source: A.Grope!.li, The Growth Process in the Computer Industry, Ph. D. Thesis (New York University, 
+1970); U. S. Congress, Inventory of Automatic Data ProcessingEquipment in Federal Government. op. 
+cit. 
+a) Value of computer stock computed by using annual inventory data on number of units installed for 
+each computer model and multiplying this figure by estimated monthly rental value for that model. 
+Market share data demonstrate the importance of space-defense sales for 
+IBM’s competitors. Approximately one-fourth of all installed UNIVAC com- 
+puters were located in space or military agencies by 1970. The comparable 
+percentages for other manufacturers were 23% for Burroughs, 16% for Con- 
+trol Data, 15% for RCA, and 7% for IBM. Newer companies, such as Scientific 
+Data Systems (subsequently, Xerox Data Systems) gained substantially from 
+space-defense demand; in 197 1, 28% of all SDS computers were located in 
+space-defense agencies. Other smaller firms such as EMR, and Electronic 
+Associates all had market shares exceeding 15% (table 4) [23] . 
+TECHNOLOGICAL IMPACTS 
+Although economic impacts are an important part of government influence 
+on high-technology industry, they do not tell the entire story. Essentially, 
+they provide information regarding only the flow of research funds and the 
+=== PAGE 14 ===
+Growth of high-technology industries 15 
+distribution of sales revenue. Yet government programs can also provide im- 
+portant technological support. In the case of the semiconductor and computer 
+industries, the technological benefits for individual firms were significant. 
+It is important to note that for semiconductor manufacturers, learning by 
+doing on the part of production workers is a relatively unimportant source of 
+learning economies. Most semiconductor learning economies are not an 
+automatic by-product of production, but rather are produced by the deliber- 
+ate efforts of firms to upgrade production technology. Such economies are 
+generated by improvements in the production process arising from experi- 
+mentation with the length and temperature of the crystal preparation process, 
+the measures taken to control crystal contamination, the equipment used in 
+assembly and testing, the scheduling and organization of operations, and so 
+on. 
+The defense and space programs demanded high-quality components from the 
+standpoint of both reliability and performance. The challenging specifications 
+set by the military agencies and NASA accelerated many of the learning eco- 
+nomies related to improved production processes. Military and space programs 
+established clear specifications for the types of components they required. 
+This prompted many companies, including newer ones, to develop semi- 
+conductors which were at least as good, if not better, than those already 
+under government contract [23]. 
+Whereas military demand accelerated the advance of transistorized component 
+technology, the US space program was dominant in accelerating the develop- 
+ment of integrated circuit technology. The development of the Apollo Guid- 
+ance Computer, a vehicular-borne computer, required extensive miniaturiza- 
+tion and extremely high reliability. The MIT Instrumentation Laboratories 
+served as NASA’s prime contractor for this project. Twenty-two different 
+component manufacturers participated in the procurement process for the 
+Apollo Guidance Computer. Several of these firms worked with MIT’s Instru- 
+mentation Laboratories for seven or eight years although their components 
+were never purchased by NASA. The firms remained potential suppliers for 
+such a long period because of the learning experience generated by NASA’s 
+demanding technical specifications. NASA’s approach to component reli- 
+ability did not alter commercial production processes in the short run; over 
+the longer run firms did eventually redesign production processes and install 
+new equipment in order to transfer space-defense reliability methods to 
+commercial production. 
+NASA’s efforts to improve the reliability of MOS devices illustrates the tech- 
+nological influence of space program demand on the semiconductor industry. 
+The NASA Microelectronics Reliability Program was instituted to set criteria 
+=== PAGE 15 ===
+16 J. E. Schme 
+for the acceptance of semiconductor devices and required NASA inspection 
+of the production facilities of semiconductor suppliers. All firms interested 
+in supplying MOS devices to NASA had to comply with the NASA Micro- 
+electronic Reliability Program specifications. If a company was unable to 
+meet the acceptance criteria, NASA aided the company in making the neces- 
+sary changes to meet reliability standards. Major integrated circuit suppliers, 
+such as Motorola, Fairchild, and Harris participated in the program and utilized 
+NASA’s technical assistance to improve their processing capacilities [24] . 
+Space-defense demand also influenced technological developments in the 
+computer industry. Work on military and NASA projects accelerated devel- 
+opments in two important areas of computer technology - (1) real-time 
+operating systems and (2) computer system reliability. 
+The first, and still most famous, real-time computer system was the Air 
+Force’s SAGE. The system was set up to protect the United States against a 
+surprise air attack. SAGE consisted of a network of radar-fed computers that 
+continuously analyzed every cubic foot of air space around the US, instantly 
+tracked all approaching aircraft, and decided on an appropriate response. 
+After seven years of development work by MIT’s Lincoln Laboratories, with 
+the assistance of IBM and Burroughs, the first of sixteen SAGE centers was 
+completed in 1958. The original computer programs for SAGE consumed 
+1800 man-years of effort; the total system development cost has been placed 
+at close to $2 billion. 
+There is virtual unanimity throughout the data processing community that all 
+subsequent real-time computer systems owe a great deal to SAGE. American 
+Airlines implemented SABRE,its $30 million real-time seat reservation system 
+in 1964. It is unlikely that SABRE could have been developed at that early 
+date without the experience provided by SAGE. 
+In the mid-1960’s space applications enabled computer manufacturers to 
+further expand their real-time capabilities. Most of the early computer opera- 
+ting systems, which are the set of programs provided to the user by the com- 
+puter manufacturer for purposes of operating the system, were in a “batch” 
+mode as opposed to a “real-time” mode. For both IBM and Control Data it 
+was NASA’s demanding specifications that forced them to advance their capa- 
+bilities in providing “real time” operating systems. 
+In fact, IBM’s first experience in developing a real-time operating system was 
+with NASA, and the technology developed for that system soon became the 
+industry standard. Control Data’s first real-time operating system was also for 
+NASA, at the agency’s Langley Research Center. The Langley computer com- 
+plex is Control Data’s largest single installation, and several features of NASA’s 
+Langley system have become an integral part of Control Data’s standardized 
+real-time operating system [25] . 
+=== PAGE 16 ===
+Growth of high-technology industries 17 
+Improved reliability of computer operations is a second area where technolog- 
+ical gains were accelerated by space-defense demand. At IBM, Control Data 
+and Univac, NASA’s technical specifications prompted significant improve- 
+ments in the reliability of large computer systems. IBM’s major involvement 
+in the space program has been with the computer system at NASA’s Manned 
+Spacecraft Center in Houston. This system collects, processes, and sends to 
+Mission Control the information needed to direct manned space missions, 
+such as Apollo and Skylab. The initial reliability specification for this com- 
+puter system was 41.7 hours of operation without a major breakdown. 
+Originally the IBM system was unable to meet this specification. Special 
+teams of IBM production and test personnel were assigned to work with 
+NASA reliability specialists to correct the problems. By paying extraordinary 
+attention to every aspect of reliability these teams raised the reliability of the 
+real-time computer complex to 100 hours of operation without a catastrophic 
+breakdown, a level which was two and one-half times initial specifications! 
+These new reliability features, which were prompted and financed by NASA, 
+were quickly incorporated into IBM’s commercial product line. 
+MANPOWER IMPACTS 
+Although economic and technological impacts have been the dominant con- 
+cern in most efforts to assess the influence of government programs on indus- 
+try, they do not fully cover the range of possible impacts. Public programs 
+also influence the supply of manpower in industrial firms. These manpower 
+impacts occur in one or more of three ways: 
+(1) Direct supply - A government program can be a direct source of experi- 
+enced manpower for companies in a particular industry. Personnel may 
+receive training and operating experience in a government program and even- 
+tually leave to join a private firm. 
+(2) Interfirm mobility - If government demand enables new firms to enter an 
+industry, a high rate of interfirm mobility may result as personnel leave estab- 
+lished older firms to join newer firms. 
+(3)Inrrafim mobility - A firm’s work on a government program may provide 
+advanced training for its employees. If the firm seeks to apply the expertise 
+of these employees to other government or commercial projects, a high rate 
+of intrafirm mobility may result. 
+In the electronics industry the manpower impacts of space defense demand 
+have taken two of these forms. In semiconductors, the willingness of space- 
+defense procurement officials to purchase semiconductor devices from small 
+=== PAGE 17 ===
+Figure 1 
+Semiconductor Firms Descending from Bell Laboratories, 1952-67 
+Bell Laboratories 
+f 
+Solid State 
+Products 
+1958 
+Transitron 
+1952 
+American 
+Power Devices 
+1967 
+I 
+Crystalonics 
+1959 
+Shockley Transistor 
+1955 
+Fairchild Semiconductor 
+I I Rheem Amelco- Signetics General Molectro 
+Semiconductor Teledyne 1961 Micro-Electronics 1962 
+1959 1962 1963 
+Union i---------I 
+Carbide American Electronic 
+Electronics Micro-Systems Arrays 
+1964 1966 1967 
+I 
+Intersil 
+1967 
+Source: J. Tilton, op. cit., p. 79. 
+=== PAGE 18 ===
+Growth of high-technology industries 19 
+new firms has facilitated high interfirm mobility. In contrast, the influence of 
+space-defense programs on computer industry manpower has been to stimu- 
+late intrafirm mobility. Large space and defense computer systems have pro- 
+vided an important training ground for project managers and engineers, who 
+later applied their knowledge and experience to other large government and 
+commercial computer development projects which were awarded to their 
+firm. 
+Interfirm mobility in the semiconductor industry includes the movement of 
+personnel among existing firms as well as the departure of engineers and 
+managers from established firms to set up their own companies. Bell Labora- 
+tories, Hughes, Philco, RCA, Sylvania, Texas Instruments, and Motorola have 
+all experienced the defection of key employees who set up new firms. Fifteen 
+separate new firms, which were formed between 1952 and 1967, can be traced 
+back to Bell Laboratories. The first new semiconductor firms formed by 
+former Bell Labs personnel were Transitron in 1952 and Shockley Labora- 
+tories in 1955. Fairchild Semiconductor, which spun off from Shockley La- 
+boratories in 1955, had five direct spin-offs and four indirect spin-offs over 
+the next 12 years (fig. 1). 
+Mobility among existing semiconductor firms dates back to the movement 
+of Bell Laboratories employees to Texas Instruments and Sylvania during the 
+early days of the industry’s development. During the 19603, Fairchild was 
+the focal point of much industry mobility. A number of Fairchild executives 
+departed in 1967 to revitalize the National Semiconductor Corporation, 
+which had fallen on hard times. A year later Fairchild recruited the general 
+manager of Motorola’s semiconductor division and a number of other Moto- 
+rola executives [26] . 
+Bell Laboratories has played an important role in the semiconductor industry’s 
+high rate of interfirm mobility. As the research arm of AT & T, Bell Labora- 
+tories contributed a disproportionately large share of the major semiconductor 
+product and process innovations. Yet AT & T did not use its strong patent 
+position to prevent the entry of new firms to the market; instead, the compa- 
+ny adopted a liberal licensing policy and expedited the transfer of technology 
+in a number of ways. AT & T also established the precedent for the industry’s 
+tolerant attitude regarding the departure of scientists and engineers to either 
+found new firms or accept positions in competing firms [27] . 
+In the computer industry there is substantial intralirm mobility in the form 
+of project mangers and engineers who move from space-defense divisions to 
+the commercial side of the business. Alumni of IBM’s NASA real-time com- 
+puter complex have gone on to direct the development of major computer 
+systems for the Federal Aviation Administration, the Bank of England and 
+=== PAGE 19 ===
+20 J. E. Schnee 
+the City of New York. At Univac, approximately 200 people per year are 
+employed full-time on NASA work. Each year a number of these employees 
+move to another area of the company; consequently Univac estimates that 
+several thousand of its current employees have previously worked on some as- 
+pect of NASA systems. One specific example is the project manager of a large 
+computer network developed by Univac for Bell Telephone; he previously 
+served as the firm’s Project Manager for NASA’s Goddard Space Flight Center. 
+At Control Data, several engineers who acquired real-time simulation experi- 
+ence at NASA’s*Langley Research Center went on to develop similar applica- 
+tions at Volkswagon and Grumman Aircraft [ 281 
+CONCLUSIONS 
+The analysis presented in this paper makes it clear that large government pro- 
+grams can play a major role in the growth of high-technology industries. 
+Space and defense programs did, in fact, enable American computer and 
+semiconductor firms to initially assume the leads in their respective fields, 
+positions they have maintained since. It should be noted, however, that de- 
+spite the many positive impacts of these programs, governmental involvement 
+in these areas has not been free from criticism. 
+Critics have complained that the US space and defense programs created im- 
+balances in the nation’s supply of scientific and technological manpower. In 
+some areas of engineering and science, these federal programs helped to pro- 
+duce a supply of engineers and scientists which now exceeds current demand. 
+Because NASA and defense provided substantial funding and devoted specific 
+efforts to attract and educate more scientists and engineers, these agencies 
+assumed difficult responsibilities. The instability of government funding and 
+sudden changes in program plans have had serious consequences for the 
+affected scientists and engineers. 
+There are those who contend that the government’s reduction in funding for 
+science and engineering constitutes a serious breach of trust. The message for 
+public program managers is clear: Large public programs cannot become 
+deeply involved in influencing technological manpower flows for the purposes 
+of accomplishing specific agency objectives and avoid responsibility for subse- 
+quent negative impacts which may result. Indeed, the experience of the US 
+space and defense programs suggests that government managers must be more 
+sensitive to the longer term manpower consequences of their programs [29] 
+What is the more general significance of this case study for the role of large 
+public programs in advancing science and technology? The technological 
+=== PAGE 20 ===
+Growth of high-technology industries 21 
+impacts of space and defense illustrate that the managers of a large govern- 
+ment program face a major dilemma in making scientific and technical de- 
+cisions. If they are to ensure the accomplishment of specified program objec- 
+tives, they must plan to use only currently available scientific knowledge and 
+technology. They must be technically conservative and focus on exploiting 
+the existing state-of-the-art rather than carrying out revolutionary scientific 
+advances within their program. Consequently, it is unlikely that public pro- 
+grams will originate major innovations, although they can play an important 
+role in technological advance. Given the constraints imposed by specific 
+program objectives, it is unrealistic to expect evaluations to show that a 
+government program deserves sole or direct credit for generating important 
+scientific developments. 
+While public programs usually concentrate on exploiting the existing tech- 
+nology, they do not necessarily receive a “free ride” from other institutions, 
+such as industrial firms or universities. Programs such as space and defense 
+have increased the speed at which the state-of-the-art advances. Although the 
+space program was not a “pioneer” in the computer and semiconductor in- 
+dustries, it did accelerate technological trends toward extensive miniaturiza- 
+tion and high reliability. Commercial products such as pocket calculators and 
+digital watches, promoted as space-age innovations (complete with “Apollo” 
+trademark), did not result from the space program, but they probably have 
+become available to consumers much earlier because of NASA [30]. 
+Public programs can also be influential in overcoming the resistance to tech- 
+nological change which inevitably limits early acceptance of new products 
+and managerial methods. In the computer industry the “demonstration effect” 
+provided by the space program’s computers greatly increased the acceptance 
+of the computer by the business world. The widely publicized use of com- 
+puters for their industrial applications made business executives more willing 
+to use computers for their industrial applications. 
+Finally, we should not expect the technological impacts of public programs 
+to produce economic returns in the short run. The process of converting a 
+significant technological advance into new products or processes is complex 
+and time consuming. Studies of major twentieth innovations indicate that the 
+time interval between an invention and its commercial use averages between 
+ten and twenty years. Although such studies indicate that the average time 
+interval between invention and innovation for government-supported innova- 
+tions is shorter than the average for privately supported innovations, the lag 
+is still substantial [31] . 
+=== PAGE 21 ===
+22 
+ACKNOWLEDGEMENTS 
+J. E. Schnee 
+The research reported in this article was carried out as part of a larger project 
+investigating the impact of the US Space Program. The study was supported 
+by a National Aeronautics and Space Administration grant to the Conserva- 
+tion of Human Resources Project at Columbia University. The author ac- 
+knowledges the valuable guidance and advice provided by Dr. Eli Ginzberg, 
+Project Director; and the helpful comments provided by Dr. James Kuhn, 
+Dr. Boris Yavitz, Dr. Dale Hiestand, and Dr. Charles Brecher. 
+REFERENCES 
+[II 
+[21 
+[31 
+[41 
+151 
+[61 
+L71 
+181 
+191 
+C. Freeman, Research and Development in Electronic Capital Goods, National 
+Institute Economic Review, No. 34 (November, 1965), p. 1. 
+The influence of government policy and programs on the electronics industry is 
+not a post-World War II phenomenon. Some segments of the American electronics 
+industry, such as radio broadcasting equipment and radar, have had a continuing 
+involvement with government policy dating back to World War I. 
+See C. Freeman, op. cit., pp. 52-56; 
+W. R. MacLaurin, Invention and Innovation in the Radio Industry (MacMillan, 
+New York, 1949); M. Postan, D. Hay and J. Scott, Design and Development of 
+Weapons, History of the Secorld World War (HMSO, London, 1964) Part III, 
+Chapter XV. 
+C. Freeman, op. cit., p. 63. 
+J. Tilton, International Diffusion of Technology; The Case of Semiconductors 
+(The Brookings Institution, Washington, D. C., 1971) pp. 42-95. Tilton’s com- 
+prehensive analysis is a major source of the data on semiconductor firms used 
+throughout this paper. 
+US Department of Commerce, Patterns and Problems of TechnicalInnovation in 
+American Industry, A Government Research Report to the National Science 
+Foundation, prepared by Arthur D. Little Inc. (1963) p. 163. 
+The Signal Corps believes that commercial development projects were as much as 
+15% shorter. See US Senate Patent Practices of the Department of Defense, 
+preliminary report of the Sub-committee on Patents, Trademarks, and Copyrights 
+of the Committee on the Judiciary, 87th Congress, 1st Session (US Government 
+Printing Office, Washington, D. C., 1961). 
+US Department of Defense, Survey of 64 Semiconductor Companies, 1960, as 
+reported in Tilton, 141, op. cit., pp. 93-94. 
+This historical review of computer development is based on .I. Bernstein, The Ana- 
+IyticalEngine (Vintage Books,New York; 1966);C. Freeman,op. cit., pp. 56-62; 
+H. Jacobowitz,Electronic Computers (Doubleday, New York, 1963) p. 97. 
+The data on IBM’s R & D budget is drawn from G. Burck et al., The Computer 
+Age (Harper & Row, New York, 1965) p. 82. 
+These data and all subsequent statistics in this section, unless otherwise noted, are 
+based on US Department of Commerce, Business and Defense Services Adminis- 
+tration (BDSA),Electronic Components: Production andRelated Data 1952-1959 
+=== PAGE 22 ===
+Growth of high-technology industries 23 
+1101 
+ill1 
+[I21 
+[I31 
+[I41 
+I151 
+[I61 
+1171 
+1181 
+(1960); Electronics Industries Yearbook, 1969 (Washington: Electronic Industries 
+Association, 1969); 
+Tilton, op. cit., pp. 89-92. 
+Texas Instruments, Inc., First Quarter and Stockholders Meetings Report, April 
+18, 1973 (Special Edition Reprinted for Texas Instruments Employees) p. 3. 
+The computer industry sales datais takenfrom G.Burcket al., op. cit., pp. 73-78; 
+J. Bernstein,op. cit., pp. 81-82; 
+A. Gropelli, The Growth Process in the Computer Industry, Ph.D. Thesis (New 
+York University, 1970). 
+Interview with a computer science professor at a major eastern university. 
+G. C. Chow, Technological Change and the Demand for Computers, American 
+Economic Review (December 1967) p. 1124. 
+Interview with an executive in a major computer company. 
+Interview with a computer engineering professor at a major eastern university. 
+J. Tilton, op. cit., pp. 65-69. 
+W. B. Harris, The Company that Started with a Gold Whisker, Fortune (August 
+1959) p. 142, and interviews with semiconductor industry executives. 
+This section is based on Denver Research Institute, Mission Oriented R & D and 
+the Advancement of Technology: The Impact ofNASA Contributions, Volume II 
+(Denver: Denver Research Institute. May 1972) pp. 151-155, and interviews with 
+executives at NASA, MIT Instrumentation Laboratories (now the Draper Labora- 
+tories) and semiconductor firms. 
+(191 The sources of data on IBM are those cited in [ 1 l] 
+[201 G. Burck et al., op. cit.., pp. 89-90; 
+1211 
+1221 
+Wall Street Journal (January 17,1963) p. 32; 
+ElectronicsNews (March 6, 1967) p. 29. 
+Something to Think About, Barrens (July 8, 1963); 
+A. Gropelli, op. cit., p. 215. 
+All market share data is based on the value of installed equipment at the end of 
+each year. The data is from A. Gropelli, op. cit., p. 78; 
+U. S. Congress, Inventory of Automatic Data Processing (ADP) Equipment in 
+Federal Government, prepared by the Bureau of the Budget for the Subcommittee 
+on Census and Government Statistics of the Committee on Post Office and Civil 
+Service, House of Representatives, 89th Congress First Session, June 1965 (and 
+subsequent annual editions of this publication). 
+The number of units for each computer model is multiplied by the monthly rental 
+value of the computer model in order to determine the dollar value of units in- 
+stalled 
+v31 
+v41 
+1251 
+1261 
+1271 
+For a fuller discussion of learning economies in semiconductors, see Tilton, op. cif., 
+pp. 85-87. 
+Denver Research Institute, op. cit. pp. 153-155 and interview sources identified 
+in [18]. 
+Interviews with executives at IBM, Control Data, Univac; and NASA Computer 
+Centers at Johnson Space Center, Houston, Texas, Langley Research Center, 
+Langley, Virginia, and Goddard Space Flight Center, Greenbelt, Maryland. 
+See D. C. Hoefler, Semiconductor Family Tree, Electronic News (July 8, 1968); 
+“The Fight that Fairchild Won,” Business Week (October 5, 1968) p. 106; 
+J.Tilton,op. cif.. pp. 77-81. 
+Tilton suggests that the government’s antitrust suit against AT & T was a major 
+factor involved in the company’s decision to rapidly disseminate its new semicon- 
+ductor technology. As part of a 1956 Consent decree that culminated lengthy 
+antitrust litigation, AT &T surrendered the right to sell semiconductors in the 
+=== PAGE 23 ===
+24 J. E. Schnee 
+commercial market. The company retained the right to sell semiconductors in the 
+space-defense market and to produce for its own needs. See J. Tilton, op. cit., 
+pp. 73381. 
+[28] Interview sources cited in 1231. 
+[29] A conceptual framework for managing the impacts of large public programs is 
+presented in B. Yavitz and J. E. Schnee, Managing the Impacts of Large Public 
+Programs, LongRange Planning (February, 1977). 
+[30] For a more comprehensive discussion of the technological impacts of the U. S. 
+space program, see J. E. Schnee, Space Program Impacts Revisited, California 
+Management Review (Fall, 1977). 
+[ 311 F. Lynn, An Investigation of the Rate of Development and Diffusion of Technol- 
+ogy in Our Modern Industrial Society, in: Report of theNational Commission on 
+Technolog)’ Automation, and Economic Progress (v. S. Government Printing 
+Office, Washington, D.C. 1966). 
