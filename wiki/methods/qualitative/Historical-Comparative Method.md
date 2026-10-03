@@ -87,7 +87,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Historical-Comparative Method
