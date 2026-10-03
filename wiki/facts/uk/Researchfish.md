@@ -9,7 +9,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-16
-updated: 2026-09-29
+updated: 2026-10-04
 ---
 
 # Researchfish

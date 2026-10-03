@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 44
+fact_related_count: 46
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -32,17 +32,16 @@ related_concepts:
   - "[[Center of Calculation]]"
   - "[[Convergence Research]]"
   - "[[Innovation Hub]]"
+  - "[[Paradigm]]"
   - "[[University-Industry Collaboration]]"
   - "[[Research Translation]]"
   - "[[Knowledge Production]]"
   - "[[Big Science]]"
-  - "[[Paradigm]]"
   - "[[Research Universities]]"
   - "[[Innovation Ecosystem]]"
   - "[[Academic Freedom]]"
   - "[[Technology Transfer]]"
   - "[[Document]]"
-  - "[[Conatus]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -51,6 +50,7 @@ related_persons:
   - "[[Vannevar Bush]]"
   - "[[Richard C. Atkinson]]"
   - "[[Zewelanji N. Serpell]]"
+  - "[[Erica Fuchs]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Office of Naval Research]]"
@@ -77,10 +77,11 @@ related_arguments:
   - "[[Argument_Cheng_2026_KeJiChuangXin]]"
   - "[[Argument_Byrne_2025_InnovationCenters]]"
   - "[[Argument_Serpell_2020_EP]]"
+  - "[[Argument_Fuchs_2010_RP]]"
 confidence: high
 status: completed
 created: 2026-05-28
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # National Science Foundation
@@ -131,7 +132,7 @@ updated: 2026-10-03
 > - **政策沉浸与前沿学者中枢** 与[[American Association for the Advancement of Science|美国科学促进会]]（AAAS）及 [[American Educational Research Association|AERA]] 建立联合机制，吸纳完成为期一年全职国会山浸润的国会科学研究员（Congressional Fellows）进入 NSF 等联邦行政中枢，执掌重大科研资助指南（RFPs）制定与优先资助领域设定，将宏观政策诉求与一线实践前瞻性融入国家科研指南设计。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 46–47)]]
 
 > [!pathways]- 业务运行机制与协同网络
-> - **同行评审双重黄金标准** 自建制伊始即确立严格的同行评议审查程序，大学教师通过学校科研合同处递交的项目提案均须经过同行领域专家严谨评议；评议执行“智力价值”（Intellectual Merit）与“广泛影响”（Broader Impacts）双重准则，与 [[Office of Naval Research|ONR]]、[[DARPA]] 等采用内部项目官员主导协商的高风险探索模式形成鲜明机制互补。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 36)]]
+> - **同行评审双重黄金标准与跨机构资助接力** 自建制伊始即确立严格的同行评议审查程序，大学教师通过学校科研合同处递交的项目提案均须经过同行领域专家严谨评议；评议执行“智力价值”（Intellectual Merit）与“广泛影响”（Broader Impacts）双重准则。该模式与 [[DARPA]] 依赖内部项目经理自由裁量权的高风险使命模式形成机制互补与**跨机构资助接力（Institutional Relay）** 对于背离既有[[Paradigm|范式]]、在早期极易遭常规同行评审否决的前瞻颠覆性构想（如应变硅技术），通常由 DARPA 率先承担早期试错风险并完成概念验证；待技术可行性确立后，高校学者后续得以顺利申请 NSF 基金进行深入的机理研究与长效学术沉淀。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 36)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1142–1143)]]
 > - **大学-产业界长期协同研发网络** 依托 1978 年阿特金森创立的[[University-Industry Collaboration|产学合作]]架构，通过长达 11 年周期的工程研究中心（ERCs）与科技中心（STCs），在不直接补贴企业利润的前提下，为大学与工业界共同攻克产业关键核心共性技术提供制度化长效资助通道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **STEM 与人文社科跨学科融合机制** 打破自然科学与社会科学的传统藩篱，推动多学科协同攻关应对工作未来、人机协同等系统性社会技术挑战。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 14–15)]]
 > - **分级跃进式区域创新资助** 在 TIP 与 EDA 协同框架下，采取“前期小规模能力建设（44 项）$\to$ 后期大规模十年期创新合作体（10 项，最高达 1.6 亿美元）”的梯度资助模型，引导全美产学研联盟进行长期战略跟踪与跨界共建。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134, 137)]]
@@ -193,6 +194,12 @@ updated: 2026-10-03
 > > - **传统科研纯粹论（反方）** 部分理论学者担忧，自《[[Bayh-Dole Act of 1980|拜杜法案]]》尤其是 2022 年设立 TIP 理事会以来，资金逐步向经济开发、市场回报与短期应用倾斜，可能侵蚀好奇心驱动的[[Blue Skies Research|蓝天研究]]生态，削弱冷门学科与前瞻性理论突破的根基。
 > > - **[[Innovation Ecosystem|创新生态]]协同论（正方）** 面对全球科技战略博弈与产业链安全，联邦研发投资必须跨越实验室到市场的转化鸿沟；Atkinson & Blanpied 论证[[University-Industry Collaboration|产学合作]]不仅未破坏基础科学，反而让学者敏锐洞察现实工业技术挑战，实现基础理论与产业应用的正向循环。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]; [[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]
 >
+> > [!axis] 同行评议保守性 vs 颠覆性前沿探索赤字
+> > 探讨基于学术共同体共识的自下而上同行评审，是否会抑制具有高异端性与跨学科风险的革命性科技构想。
+> >
+> > - **同行评议规范派** 坚持同行评议是维护学科自治、保障财政资助学术公信力与防范学术平庸的黄金屏障。
+> > - **颠覆性创新治理派（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）** 批评常规同行评审天然偏好符合既有成熟技术[[Paradigm|范式]]的渐进改良；在面临跨学科工艺壁垒与破坏性创新时，同行往往因认知局限而作出保守否决，需要依赖 [[DARPA]] 等非同行评议机构承担前期试错，再由 NSF 接力进行深化研究。
+>
 > > [!axis] 区域资源平衡与精英名校集中度博弈
 > > 对联邦科研资金在全美地理与机构分布不均衡的制度反思。
 > >
@@ -226,7 +233,8 @@ updated: 2026-10-03
 > | [[Bayh-Dole Act of 1980]] | Fact (Policy) | 重构 NSF 基础研究成果知识产权与商业化归属的关键法案。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 赋能创立 TIP 理事会并重塑 NSF 区域创新使命的联邦标志性立法。 |
 > | [[NSF I-Corps]] | Fact (Program) | NSF 设立的高校创业思维培育与成果孵化旗舰计划。 |
-> | [[DARPA]] | Fact (Organization) | 联邦使命导向型科研机构；不采用同行评议而依赖项目主管授权推进颠覆性高风险研发。 |
-> | [[Institute of Education Sciences]] | Fact (Organization) | 联邦教育科学与因果评估孪[[Conatus\|生机]]构，二者在基础学习科学与应用干预评估上功能互补。 |
+> | [[DARPA]] | Fact (Organization) | 联邦使命导向型科研机构；不采用同行评议而依赖项目主管授权推进颠覆性高风险研发，与 NSF 形成资助接力。 |
+> | [[Institute of Education Sciences]] | Fact (Organization) | 联邦教育科学与因果评估孪生机构，二者在基础学习科学与应用干预评估上功能互补。 |
 > | [[Richard C. Atkinson]] | Person | 1977–1980 年出任 NSF 主任，开创高校-工业界合作研究试点及超级[[Center of Calculation\|计算中心]]规划的认知科学家与高教领袖。 |
 > | [[Zewelanji N. Serpell]] | Person | 深入探讨国会与行政部门科学政策研究员进入 NSF 执掌科研指南编制的学者。 |
+> | [[Erica Fuchs]] | Person | 剖析 DARPA 与 NSF 在颠覆性半导体材料研发中的机制分工与跨机构资助接力规律的学者。 |

@@ -7,7 +7,7 @@ title: "Argument_Cowen(Ed.)_2009_Springer"
 argument_key: "Argument_Cowen(Ed.)_2009_Springer"
 argument_display_title: "International Handbook of Comparative Education"
 argument_kind: "edited-volume"
-argument_related_count: 83
+argument_related_count: 82
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -125,7 +125,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-05
-updated: 2026-10-01
+updated: 2026-10-04
 ---
 
 # Argument_Cowen(Ed.)_2009_Springer
