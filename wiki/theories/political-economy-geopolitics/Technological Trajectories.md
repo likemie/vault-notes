@@ -4,10 +4,10 @@ aliases:
   - 技术轨迹
   - technological trajectory
   - 技术轨道
-summary: "由 Dosi 与 Pavitt 奠基的演化经济学核心理论，指技术变迁沿特定范式方向进行累积性、不可逆与路径依赖的演进；阐明技术来源、需求与专有性塑造产业异质性，以及国家如何通过三代使命政策与敏捷动态能力开辟并协同新兴复杂技术轨道"
+summary: "由 Dosi 与 Pavitt 奠基的演化经济学核心理论，指技术变迁沿特定范式方向进行累积性、不可逆与路径依赖的演进；阐明技术来源、需求与专有性塑造产业异质性，以及国家如何通过三代使命政策、嵌入型网络治理与敏捷动态能力在碎片化产业中引导与协同新兴技术轨道"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 41
+theory_related_count: 49
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -32,11 +32,16 @@ related_concepts:
   - "[[Wicked Problem]]"
   - "[[Market Failure]]"
   - "[[Distributed Agency]]"
+  - "[[Return on Investment]]"
+  - "[[Technology Infusion]]"
+  - "[[Embedded Network Governance]]"
+  - "[[Brainstorming]]"
   - "[[Research Question]]"
   - "[[University-Industry Collaboration]]"
   - "[[Agile Governance]]"
   - "[[Determinism]]"
   - "[[Lead-and-Learn Paradigm]]"
+  - "[[Network Governance]]"
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Systems of Innovation]]"
@@ -52,22 +57,25 @@ related_instruments: []
 related_persons:
   - "[[Thomas Kuhn]]"
   - "[[Joseph Schumpeter]]"
+  - "[[Erica Fuchs]]"
   - "[[Mariana Mazzucato]]"
   - "[[Rainer Kattel]]"
 related_facts:
+  - "[[DARPA]]"
   - "[[Community Innovation Survey]]"
   - "[[Government Digital Service]]"
+  - "[[Bell Labs]]"
   - "[[Department of Energy]]"
-  - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Pavitt_1984_RP]]"
   - "[[Argument_Bogliacino_Pianta_2016_EP]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
+  - "[[Argument_Fuchs_2010_RP]]"
 confidence: high
-status: draft
+status: completed
 created: 2026-06-11
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # Technological Trajectories
@@ -101,6 +109,7 @@ updated: 2026-10-03
 > - **1982 — 技术范式与轨迹二元模型奠基** 多西（Dosi, 1982）提出技术范式定义了“需要解决的技术问题与求解模型”，而技术轨迹则是“在范式界定的多维技术–经济空间中所推进的权衡取舍方向”。
 > - **1984 — 三大塑造因素与帕维特分类法** 帕维特（[[Argument_Pavitt_1984_RP|Pavitt, 1984]]）通过实证提炼出塑造技术轨迹的三大核心维度（技术来源、用户需求、专有可能性），划分出科学基础型、专业供应商型、规模密集型与供应商主导型四大产业轨迹。
 > - **1989/1993 — 路径依赖与技术锁定理论深化** 阿瑟（W. Brian Arthur, 1989）与纳尔逊（Nelson, 1993）揭示技术轨迹因收益递增和网络外部性极易形成“技术锁定”（Lock-in），即使存在更优技术路线也难以自发替代劣质成熟技术（如 QWERTY 键盘效应）。
+> - **2010 — 纵向碎片化产业中嵌入型网络对技术轨道的引导** [[Erica Fuchs|埃丽卡·福克斯]]（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）深化了技术轨迹理论在纵向碎片化（Dis-integrated）产业情境下的微观机制，实证证明公共部门代理人（如 [[DARPA]] 项目经理）可通过调动“网络可塑性”（Network Plasticity）与五大非正式机制，在不挑选单一赢家的前提下，主动识别、播撒并重塑共性技术轨道（如硅锗、应变硅、3D 封装与光互连）。
 > - **2016 — 跨国定量操作化与检验** 博利亚奇诺与皮安塔（[[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta, 2016]]）基于欧洲创新调查（[[Community Innovation Survey|CIS]]）数据库，通过主成分分析将四大技术轨迹操作化为“技术竞争力”与“成本竞争力”两个正交轴线，完成跨国大样本定量检验。
 > - **2018 — 使命导向与技术轨迹主动重塑** [[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）指出，面对气候危机与生态极限，创新政策不能仅被动适应既有技术轨迹，而必须依托ROAR 治理框架设定国家战略使命，主动打破传统高碳技术轨迹的锁定，培育全新的绿色与可持续技术轨道。
 > - **2018 — 三代使命演进与跨部门轨迹协同** 莱纳·[[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）系统梳理后发追赶（骆驼）、[[Big Science|大科学]]攻坚（狮子）到社会–技术挑战（儿童）三代使命轨迹治理形态，指出应对 21 世纪棘手挑战必须依托敏捷实验与三层[[Public Dynamic Capabilities|公共动态能力]]化解[[Complexity Paradox|复杂性悖论]]。
@@ -120,6 +129,8 @@ updated: 2026-10-03
 > | **专有可能性（Appropriation Mechanisms）** | 激励构件 | 保护创新租金的制度载体（专利壁垒 vs 商业机密 vs 制造规模与先发优势）。 |
 > | **技术锁定与惯性阻尼（Lock-in & Inertia）** | 系统阻力 | 既有基础设施、供应链网络与认知惯例对破坏性新兴技术轨迹的结构性排斥。 |
 > | **方向性指引（[[Directionality of Innovation\|directionality]] Steering）** | 政策引擎 | 公共政策围绕重大社会挑战通过战略采购与组合投资主动引导技术轨道跃迁。[[Argument_Mazzucato_2018_ICC\|(Mazzucato, 2018, pp. 805–806)]] |
+> | **网络可塑性（Network Plasticity）** | 结构调控 | 研发社会网络在公共代理人介入下被动态重塑、打破机构壁垒以实现跨界协同的能力。[[Argument_Fuchs_2010_RP\|(Fuchs, 2010, p. 1134)]] |
+> | **纵向碎片化（Vertical Dis-integration）** | 产业情境 | 产业链各环节高度解耦分离的组织形态，加剧了跨技术轨道协同与共性研发的协调失灵。[[Argument_Fuchs_2010_RP\|(Fuchs, 2010, pp. 1134–1135)]] |
 
 ---
 
@@ -150,6 +161,11 @@ updated: 2026-10-03
 >
 > **应用实例** [[Government Digital Service|英国政府数字服务局]]（GDS）通过小步原型迭代与跨部门流动团队，打破传统各部委独立的 IT 系统开发轨迹，推动公共服务平台与开源技术轨迹的深度融合。
 
+> [!theory-proposition] 命题六｜公共代理人依托网络可塑性与非正式机制在纵向碎片化产业中引导技术轨道
+> **解释** 随着产业组织从传统的垂直一体化（如[[Bell Labs|贝尔实验室]]内部研发巨头）向垂直纵向碎片化（Dis-integrated / Vertically Fragmented，如芯片设计 Fabless、晶圆代工 Foundry、封装测试 OSAT 与电子设计自动化 EDA 软件割裂）转变，私营企业由于各自追求短期[[Return on Investment|投资回报]]与狭隘局部最优，缺乏动力与能力协调跨产业链环节的高风险共性[[Technology Infusion|技术整合]]。在此情境下，国家公共部门的专业代理人（如 [[DARPA]] 项目经理）依托[[Embedded Network Governance|嵌入型网络治理]]与非正式微观机制（前瞻识别与播撒构想、闭门[[Brainstorming|头脑风暴]]、构建跨界研发共同体、提供第三方信誉背书与机制化退出），主动调动“网络可塑性”（Network Plasticity），将大学基础研究、代工厂工艺、材料供应商与系统集成商编织进战略性试验网络，在不人为挑选单一商业赢家（Picking Winners）的前提下，系统引导并开辟突破物理极限的新兴技术轨道（如硅锗、应变硅、3D 封装与光互连芯片）。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144–1146)]]
+>
+> **应用实例** 在微电子后摩尔时代，单体芯片微缩逼近物理与发热极限，单体芯片公司无力独立承担跨学科光电集成风险；DARPA 项目经理通过设立超高性能片内纳米光子通信（UNIC）计划，将大学光子学团队、太阳微系统（Sun Microsystems）以及波音等防务巨头强制协同，开辟了硅光互连技术轨道。
+
 ---
 
 ## 转化为分析框架
@@ -160,7 +176,7 @@ updated: 2026-10-03
 > - **需要的材料** 行业专利分布数据、研发投入强度、技术来源与设备采购清单、用户定制化程度调研、公私研发资助合同条款。
 > - **解释目标** 诊断特定产业所处的技术轨迹类型及其锁定机制，制定匹配的部门政策或跨部门使命导向攻关组合。
 
-> [!theory-framework] 技术轨迹分析与产业创新诊断矩阵（[[Argument_Pavitt_1984_RP|Pavitt, 1984]]; [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]; [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）
+> [!theory-framework] 技术轨迹分析与产业创新诊断矩阵（[[Argument_Pavitt_1984_RP|Pavitt, 1984]]; [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]; [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]; [[Argument_Fuchs_2010_RP|Fuchs, 2010]]）
 >
 > | 分析维度与理论依据 | 核心提问 | 可观察线索与经验材料 | 判读规则与政策边界 |
 > |:-------------------|:---------|:---------------------|:-------------------|
@@ -169,6 +185,7 @@ updated: 2026-10-03
 > | **专有性保护机制**（收益攫取） | 行业主要依靠何种手段防止竞争对手模仿并攫取创新超额收益？ | 发明专利拥有量、商业秘密与专有工艺壁垒、规模经济与品牌先发优势 | 专利弱而设备通用者极易被模仿，单纯补贴企业研发难以形成持续竞争优势。 |
 > | **技术锁定与轨道转型**（系统阻尼） | 既有成熟技术是否构成深层基础设施与利益网络锁定？是否需要打破路径依赖？ | 沉没成本规模、既得利益集团游说记录、替代性新兴技术研发风险水平 | 存在严重锁定失灵时，必须由国家通过使命导向政策主动进行[[Market Shaping and Creating\|市场塑造]]与强力规制。 |
 > | **跨部门协同与治理** | 技术轨迹是否跨越多个行政部门与行业管辖边界？是否存在协调瘫痪风险？ | 部门间政策冲突记录、跨领域联合攻关团队配置、敏捷试验与原型迭代机制 | 面对[[Complexity Paradox\|复杂性悖论]]时，需在政策与行政层级构建[[Agile Governance\|敏捷治理]]与动态能力，以跨职能团队打破条块分割。 |
+> | **碎片化产业中的网络协调与轨道塑造**（生态整合） | 在垂直解耦碎片化的产业生态中，如何协调跨产业链环节以开辟颠覆性新技术轨道？ | 产业链垂直分工形态、产学研跨界研发网络拓扑、公共项目经理的非正式嵌入机制 | 垂直碎片化加剧协调失灵时，公共代理人需运用网络可塑性构建跨界研发共同体，以[[Embedded Network Governance\|嵌入型网络治理]]引导技术轨道。[[Argument_Fuchs_2010_RP\|(Fuchs, 2010, pp. 1134–1135)]] |
 
 ### 分层维度体系
 
@@ -183,6 +200,7 @@ updated: 2026-10-03
 >   - **D3.1｜脱碳与可持续导向（Green & Sustainable Orientation）** 技术研发是否服务于应对气候中和与生态极限的宏大挑战。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 811)]]
 >   - **D3.2｜跨部门技术外溢（Cross-Sectoral Dynamic Spillovers）** 主导使命研发能否拉动传统低技术制造部门的技术升级。
 >   - **D3.3｜敏捷实验与跨界协同度（Agile Experimentation & Cross-Sectoral Coordination）** 是否建立容忍试错的自适应学习机制与跨部门流动团队。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]
+>   - **D3.4｜网络可塑性与跨产业链整合度（Network Plasticity & Ecosystem Integration）** 公共代理人重塑研发社会网络、促进纵向碎片化产业链共性技术攻关的治理能力。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1144–1146)]]
 
 ---
 
@@ -205,19 +223,25 @@ updated: 2026-10-03
 > >
 > > - **技术[[Determinism|决定论]]视角** 强调技术[[Paradigm|范式]]具有内在的客观工程规律与物理性能极限，研发人员只能顺应技术内在的权衡空间展开探索。
 > > - **需求拉力与社会建构学派** 强调市场相对要素价格变动、政府法规管制与社会消费偏好从根本上筛选并决定了哪条技术轨迹能够获得商业化生存。
->
+> >
 > > [!axis] 自发演化 vs. 国家方向性指引：政府能否重塑技术轨迹？
 > > 争论技术轨迹是否只能在自由市场竞争中由分散行动者自发试错演化，还是能够被国家战略意志主动规约。
 > >
 > > - **传统[[Evolutionary Economics|演化经济学]]保守派** 担忧政府试图人为指定新兴技术轨道极易重蹈计划经济“挑选赢家”的覆辙，主张政策仅应维护多元探索的多样性。
 > > - **[[Mission-Oriented Innovation Policy|使命导向创新政策]]学派（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）** 论证面对气候危机与紧迫的社会难题，放任自由市场只会无限期延长对化石燃料等劣质轨道的锁定；国家必须果断通过ROAR 治理框架设定使命方向，主动创造市场并开辟全新的可持续技术轨迹。
->
+> >
 > > [!axis] 垂直单一线性攻关 vs. 敏捷去中心化跨界实验
 > > 争论在引导复杂社会技术轨迹跃迁时，应当延续冷战时期的[[Big Science|大科学]]国家实验室攻关，还是转向敏捷去中心化实验网络。
 > >
 > > - **传统大科学派** 强调垂直集权国家实验室在纯技术攻坚上的高压突破效率。
 > > - **敏捷实验治理派（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）** 指出涉及人类行为与社会制度的复杂挑战无法通过线性工程化解，必须依托去中心化敏捷团队、[[Randomised Controlled Trials|随机对照试验]]与全生命周期反思学习方能实现轨迹协同。
-
+> >
+> > [!axis] 挑选单一商业赢家（Picking Winners） vs. 嵌入型网络引导技术轨道（Embedded Network Trajectory Steering）
+> > 探讨产业政策在引导技术演进时的介入机制与正当性边界。
+> >
+> > - **新古典产业政策批评派** 批评政府不具备识别具体优胜企业的信息能力，直接资助特定厂商极易扭曲市场竞争并引发寻租腐败。
+> > - **[[Embedded Network Governance|嵌入型网络治理]]学派（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）** 实证表明，公共代理人（如 [[DARPA]] PMs）并非直接挑选单一企业赢家，而是通过小额种子资助、组织闭门[[Brainstorming|头脑风暴]]与搭建跨界研发共同体，在共性技术层面播撒构想并调动网络可塑性，系统引导国家前沿技术轨道跃迁。
+> 
 ---
 
 ## 相关条目网络
@@ -230,13 +254,15 @@ updated: 2026-10-03
 > | [[Pavitt Taxonomy]] | Theory | 技术轨迹在产业层面的直接[[Operationalization\|操作化]]分类成果。 |
 > | [[Three Generations of Mission-Oriented Policy]] | Theory | 总结国家引导与协同技术轨迹的三代制度演化形态。 |
 > | [[Mission-Oriented Innovation Policy]] | Concept | 主动打破既有技术锁定、开辟全新可持续技术轨道的现代政策[[Paradigm\|范式]]。 |
+> | [[Embedded Network Governance]] | Concept | 解释公共代理人如何在纵向碎片化产业中通过非正式制度引导技术轨道的微观治理理论。 |
 > | [[Market Shaping and Creating]] | Concept | 国家通过引导技术轨道演进以培育新兴产业市场的理论模型。 |
 > | [[Public Dynamic Capabilities]] | Concept | 公共部门协同跨领域复杂技术轨迹所需的三层组织能力。 |
 > | [[Lead-and-Learn Paradigm]] | Concept | 指导技术轨迹在不确定性探索中实现自适应演进的治理范式。 |
 > | [[ROAR Framework]] | Theory | 指导公共部门在技术轨迹演进中进行方向设定与风险管理的[[Analytic Framework\|分析框架]]。 |
 > | [[Systems of Innovation]] | Theory | 技术轨迹在国家、区域与部门创新系统中演化共生的制度载体。 |
 > | [[Department of Energy]] | Fact (Organization) | 通过清洁能源贷款与 [[DARPA\|ARPA]]-E 实践主动重塑绿色技术轨道的典型机构。 |
-> | [[DARPA]] | Fact (Organization) | 历史上通过颠覆性投资开辟计算机网络与全球定位全新技术轨道的先驱。 |
+> | [[DARPA]] | Fact (Organization) | 历史上通过颠覆性投资开辟计算机网络与半导体全新技术轨道的先驱。 |
+> | [[Erica Fuchs]] | Person | 提出嵌入型[[Network Governance\|网络治理]]并实证分析半导体共性技术轨道演进的学者。 |
 
 ---
 
@@ -247,3 +273,4 @@ updated: 2026-10-03
 > - [[Argument_Pavitt_1984_RP|Pavitt (1984)]] — 提出塑造技术轨迹的三大核心因素（技术来源、用户需求与专有性机制），奠定产业创新分类学经典基石。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 论述如何将技术轨迹理论应用于新一代[[Mission-Oriented Innovation Policy|使命导向创新政策]]，阐明由国家设定方向并打破高碳锁定以开辟全新技术轨道的理论逻辑。
 > - [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]] — 运用欧洲创新调查（[[Community Innovation Survey|CIS]]）微观数据，通过主成分分析对帕维特四大技术轨迹完成定量[[Operationalization|操作化]]与实证验证。
+> - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 深入微电子产业前沿，揭示公共代理人（[[DARPA]] 项目经理）如何在纵向碎片化产业中调动网络可塑性与五大非正式机制，引导硅锗、应变硅、3D 封装与光芯片等战略性技术轨道跃迁。

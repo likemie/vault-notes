@@ -8,10 +8,10 @@ aliases:
 summary: "公共代理人凭借专业认知与网络中心地位，通过识别方向、播撒共同主题、组建跨界攻关团队、搭建同行研讨与权威背书主动重塑研发社会网络，引导关键技术轨道并避免长期财政依赖的科技创新治理范式。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subject/policy-studies
   - theory/governance

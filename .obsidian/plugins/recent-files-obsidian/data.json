@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Fuchs_2010_RP",
+      "path": "wiki/arguments/journal-articles/Research Policy/Argument_Fuchs_2010_RP.md"
+    },
+    {
+      "basename": "Embedded Network Governance",
+      "path": "wiki/concepts/political-economy-geopolitics/Embedded Network Governance.md"
+    },
+    {
+      "basename": "Organizational Culture",
+      "path": "wiki/theories/sociology-of-education/Organizational Culture.md"
+    },
+    {
+      "basename": "Technological Trajectories",
+      "path": "wiki/theories/political-economy-geopolitics/Technological Trajectories.md"
+    },
+    {
+      "basename": "DARPA",
+      "path": "wiki/facts/us/DARPA.md"
+    },
+    {
       "basename": "Bell Labs",
       "path": "wiki/facts/us/Bell Labs.md"
     },
@@ -75,10 +95,6 @@
     {
       "basename": "1956 IBM Consent Decree",
       "path": "wiki/facts/us/1956 IBM Consent Decree.md"
-    },
-    {
-      "basename": "DARPA",
-      "path": "wiki/facts/us/DARPA.md"
     },
     {
       "basename": "National Science Foundation",
@@ -183,22 +199,6 @@
     {
       "basename": "Areas of Knowledge",
       "path": "wiki/concepts/curriculum/Areas of Knowledge.md"
-    },
-    {
-      "basename": "Rainer Kattel",
-      "path": "wiki/persons/estonia/Rainer Kattel.md"
-    },
-    {
-      "basename": "Randomised Controlled Trials",
-      "path": "wiki/methods/quantitative/Randomised Controlled Trials.md"
-    },
-    {
-      "basename": "UN Sustainable Development Goals",
-      "path": "wiki/facts/global/UN Sustainable Development Goals.md"
-    },
-    {
-      "basename": "Picking the Willing",
-      "path": "wiki/concepts/science-policy/Picking the Willing.md"
     }
   ],
   "omittedPaths": [],
