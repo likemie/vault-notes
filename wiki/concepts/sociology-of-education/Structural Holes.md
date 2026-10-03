@@ -7,7 +7,7 @@ aliases:
 summary: "Ronald Burt（1992, 2000）提出的社会网络理论核心概念，指网络中互不相连群体之间的拓扑断裂位置，占据该位置的经纪人可获取非冗余信息与控制优势。Fuchs（2010）将其扩展至国家创新系统治理，揭示嵌入型公共代理人超越消极中介套利、主动重组网络架构并闭合结构洞的机制；Cai 等（2025）则将其拓展至空间生产的三元辩证维度。"
 type: concept
 domain: "sociology-of-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Embedded Network Governance]]"
   - "[[Open-Mindedness]]"
   - "[[Heterogeneity]]"
+  - "[[Vertical Disintegration]]"
   - "[[Paradigm]]"
   - "[[Public Value]]"
   - "[[Opportunist Mode]]"
@@ -93,7 +94,7 @@ updated: 2026-10-04
 > - **信息收益（Information Benefits）** 包含获取广度（Access）、时间先机（Timing）与引荐优势（Referrals），使占据结构洞者能比封闭群体成员更早识别前沿机遇与潜在技术危机。
 > - **控制优势与第三者获利（Control Benefits & Tertius Gaudens）** 处于断裂中间的行动者能够在分离的各方之间扮演协调人、裁决者或议价垄断者，掌握资源调配的自由裁量权。
 > - **空间与制度断裂（Spatial & Institutional Holes）** 结构洞不仅存在于人际网络，亦广泛存在于不同法域、制度逻辑（学界 vs 产业界 vs 政府）及空间维度（物理设施 vs 政策构想 vs 日常经验）之间。[[Argument_Cai_Gao_Liu_2025_HE|(Cai et al., 2025, pp. 4–6)]]
-> - **能动性闭合与重构（Active Closure & Network Reweaving）** 拥有技术研判权与资助权的公共代理人可主动打破行业与学科间的结构洞，推动产业网络从纵向离散走向水平整合。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135)]]
+> - **能动性闭合与重构（Active Closure & Network Reweaving）** 拥有技术研判权与资助权的公共代理人可主动打破行业与学科间的结构洞，推动产业网络从[[Vertical Disintegration|纵向离散]]走向水平整合。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135)]]
 
 > [!logic-map]- 结构洞机制与治理演变逻辑
 > ```mermaid
@@ -138,7 +139,7 @@ updated: 2026-10-04
 > 探讨处于技术前沿的政府项目经理如何超越消极结构洞套利，通过主动消除学科与产业阻隔重塑国家技术生态。
 
 > [!claim] [[Erica Fuchs|Fuchs, E. R. H.]]
-> **超越消极套利：从结构洞维持到主动网络拓扑重构** 在高度纵向离散（Vertically Disintegrated）的高科技产业中，前沿探索者（如学术界基础研究人员）与应用开发者（如晶圆代工厂与国防系统集成商）之间存在严重的结构洞。拥有技术研判权与充沛自由裁量权的[[DARPA|美国国防高级研究计划局]]（[[DARPA]]）项目经理，并未采取传统中介者的信息垄断与被动[[Transfer Translation Transformation|转译]]策略，而是通过强制性跨领域研讨会、设定统一技术验证平台及强制上下游组建研发联盟，主动消除了网络中的结构洞，将分散的异质行动者编织为高密度强连通的创新共同体。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144–1145)]]
+> **超越消极套利：从结构洞维持到主动网络拓扑重构** 在高度[[Vertical Disintegration|纵向离散]]（Vertically Disintegrated）的高科技产业中，前沿探索者（如学术界基础研究人员）与应用开发者（如晶圆代工厂与国防系统集成商）之间存在严重的结构洞。拥有技术研判权与充沛自由裁量权的[[DARPA|美国国防高级研究计划局]]（[[DARPA]]）项目经理，并未采取传统中介者的信息垄断与被动[[Transfer Translation Transformation|转译]]策略，而是通过强制性跨领域研讨会、设定统一技术验证平台及强制上下游组建研发联盟，主动消除了网络中的结构洞，将分散的异质行动者编织为高密度强连通的创新共同体。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144–1145)]]
 
 ---
 

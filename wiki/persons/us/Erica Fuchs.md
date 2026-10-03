@@ -10,7 +10,7 @@ summary: "美国卡内基梅隆大学工程与公共政策教授，技术变革�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Network Plasticity]]"
   - "[[Structural Holes]]"
   - "[[Boundary Spanner]]"
+  - "[[Vertical Disintegration]]"
   - "[[Technology Infusion]]"
   - "[[Document]]"
   - "[[Innovation Ecosystem]]"
@@ -102,7 +103,7 @@ updated: 2026-10-04
 >   突破罗纳德·伯特（Ronald Burt）[[Structural Holes|结构洞]]理论与李·弗莱明（Lee Fleming）[[Boundary Spanner|边界跨越者]]理论中行动者仅作为中立信息通道的局限，论证公共代理人具备利用立项权裁撤冗余链接、打破学术孤岛并强迫跨界知识流动的网络重塑能动性。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135, 1144–1145)]]
 > - **正式管理文化与微观非正式制度的解耦与韧性**
 >   证明上层正式采办机制的激进变革（如瑟瑟改革推行老牌巨头主承包商、硬性里程碑淘汰与涉密限制）并未摧毁机构内核；项目经理践行的 5 项非正式机制（前瞻识别、闭门风暴、共生共同体、第三方背书与适时断乳）展现出强大的制度韧性，成为维系颠覆性创新效能的深层基石。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134, 1144–1146)]]
-> - **纵向碎片化（Vertical Dis-integration）产业的平台整合**
+> - **[[Vertical Disintegration|纵向碎片化]]（Vertical Dis-integration）产业的平台整合**
 >   在后摩尔时代半导体分工碎片化格局下，单个商业主体无力承担跨学科共性[[Technology Infusion|技术整合]]风险，国家代理人通过搭建跨层级竞合联合体有效化解系统协调失灵。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1142–1144)]]
 
 > [!citation-card] [[Embedded Network Governance|嵌入型网络治理]]的治理定位

@@ -10,9 +10,9 @@ title: "Argument_Peterson_1987_OpenCourt_Ch07"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch07"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 publication_place: "La Salle, IL"
@@ -56,6 +56,7 @@ related_facts:
   - "[[International Option of the French Baccalaureate]]"
   - "[[UNESCO]]"
   - "[[Grammar School]]"
+  - "[[N and F Proposals]]"
   - "[[Simon Bolivar United World Institute of Experimental Agriculture]]"
   - "[[Armand Hammer United World College of the American West]]"
   - "[[International Baccalaureate North America]]"
@@ -66,7 +67,7 @@ related_theories:
   - "[[Theory of Mind]]"
 status: draft
 created: 2026-09-29
-updated: 2026-10-01
+updated: 2026-10-04
 ---
 # Argument_Peterson_1987_OpenCourt_Ch07
 
@@ -154,8 +155,8 @@ updated: 2026-10-01
 > [!dev-timeline] 各方都认为需要改革，却连续否决具体方案
 > - **1962 年** 大学提出扩大通识基础的改革，学校担心富裕私校和大型[[Grammar School|文法学校]]因师资更广而占优，方案被拒。
 > - **1966–1967 年** 学校委员会先提出主科与辅科，再提出两门普通教育证书高级程度考试（General Certificate of Education Advanced Level，A-level）课程加四至六门校内选修；前者遭学校拒绝，后者遭大学反对。
-> - **1971–1977 年** 资格课程与进阶课程方案（Qualifying and Further Courses，Q and F）及普通与进阶方案（Normal and Further Proposals，N and F）先后经历教师反对、委员会重拟与长期审议，造成二十年未改革的局面。
-> - **1979–1980 年** 由学校委员会资助的可行性研究找到 45 所愿意合作的学校与学院。小规模大学结果调查显示 IB 入学者成绩略高于 A-level 入学者，工作组建议以每年 20,000 英镑实施四年、50 校试验；学校委员会考试委员会仍拒绝建议（pp. 164–166）。
+> - **1971–1977 年** 资格课程与进阶课程方案（Qualifying and Further Courses，Q and F）及普通与进阶方案（[[N and F Proposals|Normal and Further Proposals]]，N and F）先后经历教师反对、委员会重拟与长期审议，造成二十年未改革的局面。
+> - **1979–1980 年** [[1979 Schools Council International Baccalaureate Feasibility Study|学校委员会国际文凭可行性研究]]找到 45 所愿意合作的学校与学院。小规模大学结果调查显示 IB 入学者成绩略高于 A-level 入学者，工作组建议以每年 20,000 英镑实施四年、50 校试验；学校委员会考试委员会仍拒绝建议（pp. 164–166）。
 
 > [!row-contrast] 六种改革方案在不同否决点停滞
 > | 年份 | 方案 | 课程结构 | 主要支持或发起者 | 主要否决者／受阻环节 |
@@ -196,7 +197,7 @@ updated: 2026-10-01
 > | 节点 | 主要功能 | 形成依据 | 主要限制 |
 > |---|---|---|---|
 > | 日内瓦 | 中央行政、政策与国际治理 | 瑞士基金会身份与既有总部 | 成本高、工作许可与多语人员招聘困难 |
-> | 巴斯 | 集中考试业务 | 大学合作、较低成本、交通与计算设施 | 英语业务占主导，需与多语承诺协调 |
+> | [[International Baccalaureate Examinations Office\|巴斯考试办公室]] | 集中考试业务 | 大学合作、较低成本、交通与计算设施 | 英语业务占主导，需与多语承诺协调 |
 > | 伦敦 | 欧洲、非洲和亚洲发展；与 [[United World Colleges\|UWC]] 协作 | 英语成为多数新增学校工作语言，英联邦与欧洲学校网络集中 | 对法语非洲的服务有限 |
 > | 布宜诺斯艾利斯／新加坡 | 拉丁美洲／远东区域工作 | 借学校与 UWC 人员共享旅行和联络成本 | 依赖区域人员与既有外侨或双国学校网络 |
 > | 地区代表 | 加勒比、墨西哥／中美洲、澳大利亚的联络 | 学校数量尚不足以支撑完整办公室 | 距离、通信和培训覆盖不足（pp. 166–168） |
@@ -226,7 +227,7 @@ updated: 2026-10-01
 
 UWC 早期把和平寄托于潜在领导者的跨国共同生活、救援服务和挑战经验。第二个十年将战争风险进一步联系到饥饿、南北差距和地方社会困境，并重新解释服务的对象与形式。
 
-> [!event-context] 迪奇利公园会议把服务重点从危险救援扩展到社区需要
+> [!event-context] [[1980 Ditchley Park United World Colleges Conference|迪奇利公园会议]]把服务重点从危险救援扩展到社区需要
 > - 国际理解应更重视人民之间而非政府之间的关系，并通过毕业生终身活动持续实现。
 > - 救援服务不应被过度强调，关键是提供当地真正需要的服务并建立社区联系。
 > - 救援和挑战也可以指帮助处境不利者摆脱社会问题，不必局限于海上或山地救生（pp. 168–169）。
@@ -480,7 +481,7 @@ UWC 早期把和平寄托于潜在领导者的跨国共同生活、救援服务�
 
 ### 1983 年财政危机表明，分权还必须真正降低运行成本
 
-课程成熟与组织财务并不同步。罗杰·皮尔（Roger Peel）1983 年接任总干事时，教学方面健康，预算和行政却面临可能触发瑞士基金会关闭的危机。
+课程成熟与组织财务并不同步。罗杰·皮尔（Roger Peel）1983 年接任总干事时，教学方面健康，预算和行政却面临可能触发瑞士基金会关闭的[[1983 International Baccalaureate Financial Crisis|财政危机]]。
 
 > [!warning] 半百万瑞士法郎赤字迫使组织暂停发展
 > 1983 年初步预算预计赤字超过 500,000 瑞士法郎。应对措施包括暂时停止课程开发、缩减日内瓦人员、与已较富裕的[[International Baccalaureate|国际文凭]]北美区（[[International Baccalaureate North America]]，IBNA）重谈条件，并再次筹集紧急捐助。UWC 促使阿曼德·哈默延续一年 30,000 美元捐款，IBNA 也提供同额特别拨款。1983／84 年预算恢复平衡，1984／85 年首次形成可观储备（pp. 185–186）。
@@ -498,7 +499,7 @@ UWC 早期把和平寄托于潜在领导者的跨国共同生活、救援服务�
 > [!warrant]- 一次性捐款能填补赤字，却不能建立长期收入
 > 1983／84 年恢复平衡和次年建立储备，证明紧急组合有效；其中包含暂停发展、减员和一次性款项，不能据此推断长期收入基础已经稳定。危机反而说明课程扩张、地区繁荣和中央成本必须通过常设分担规则连接。
 
-> [!case] 考试办公室迁往巴斯，降低了场地和人员成本
+> [!case] [[International Baccalaureate Examinations Office|考试办公室]]迁往巴斯，降低了场地和人员成本
 > 语言考试自 1974 年移往南安普敦，其余考试后来移到伦敦，业务分散仍然不理想。IBO 最终在苏塞克斯与巴斯之间选择交通和计算设施更好的巴斯。1985 年办公室有 20 多名全职人员，并在装卷和核对高峰期增聘四至五名兼职人员（pp. 186–187）。
 
 > [!dev-timeline] 考试业务长期分散增加成本，最终集中到巴斯
@@ -522,7 +523,7 @@ UWC 早期把和平寄托于潜在领导者的跨国共同生活、救援服务�
 
 ### 1985 年两场会议证明网络已经扩大，但资金和资格承认仍未解决
 
-UWC 国际理事会和[[1985 Trieste Intergovernmental Conference on the International Baccalaureate|1985年的里雅斯特国际文凭政府间会议]]都创下参与规模纪录。它们没有宣告制度完成，而是集中暴露资金来源、文化覆盖、校友行动和国家承认仍需持续处理。
+[[1985 United World Colleges International Council Meeting|UWC 国际理事会会议]]和[[1985 Trieste Intergovernmental Conference on the International Baccalaureate|1985年的里雅斯特国际文凭政府间会议]]都创下参与规模纪录。它们没有宣告制度完成，而是集中暴露资金来源、文化覆盖、校友行动和国家承认仍需持续处理。
 
 > [!event-context] UWC 国际理事会把校友网络置于组织议程中心
 > 1985 年 6 月 19–21 日，UWC 国际理事会在大西洋学院召开五年来首次全体会议。与会者包括国际董事会、国际机构和三十余个国家委员会。会议要求在结构多样化时重申长期目标，重新考虑家庭缴费等收入来源，扩展至伊斯兰文化，并更有效组织和传播校友网络。四名校友都称 UWC 改变了自己的人生，同时要求课程更充分帮助学生理解重大国际问题，并把理念转化为行动（pp. 187–189）。

@@ -8,7 +8,7 @@ aliases:
 summary: "Fred Block（2008）与 Christopher Ansell（2000）提出的科技创新政治经济学理论，指区别于东亚集权科层发展型国家与英美放任规制国家的全新国家形态，强调国家通过分布式、去中心化的联邦机构网络与产学研多方协同促进颠覆性创新。Fuchs（2010）在此基础上提出批判性修正，证明国家公共代理人超越消极中介撮合，通过嵌入型网络治理主动引导国家战略技术轨道。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 27
+theory_related_count: 29
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -30,9 +30,11 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Structural Holes]]"
   - "[[Market Failure]]"
+  - "[[Vertical Disintegration]]"
   - "[[Valley of Death]]"
   - "[[Brainstorming]]"
   - "[[Research Question]]"
+  - "[[Broad Agency Announcement]]"
   - "[[Research Universities]]"
 related_theories:
   - "[[Systems of Innovation]]"
@@ -114,7 +116,7 @@ updated: 2026-10-04
 > **应用实例** 美国国防部 DARPA、国家卫生研究院 [[National Institutes of Health|NIH]] 与能源部先进能源研究计划署（ARPA-E）在各自领域分别培育了互联网、mRNA 疫苗技术与新一代储能电池，形成了跨部门多轨并进的创新矩阵。
 
 > [!theory-proposition] 命题二｜公共代理人通过重塑网络拓扑与闭合[[Structural Holes|结构洞]]克服前沿产业的[[Market Failure|市场失灵]]
-> **解释** 在高度纵向离散（Vertically Disintegrated）的高科技产业中，基础研究者、材料工艺商与系统集成商之间存在严重的认知隔阂与协调断裂（[[Structural Holes|结构洞]]）。发展型网络国家通过具备技术裁判权的公共经理人，主动调动[[Network Plasticity|网络可塑性]]，设立统一测试平台并强制跨界合作，重构研发网络架构，引导颠覆性科研成果顺利跨越[[Valley of Death|死亡之谷]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144)]]
+> **解释** 在高度[[Vertical Disintegration|纵向离散]]（Vertically Disintegrated）的高科技产业中，基础研究者、材料工艺商与系统集成商之间存在严重的认知隔阂与协调断裂（[[Structural Holes|结构洞]]）。发展型网络国家通过具备技术裁判权的公共经理人，主动调动[[Network Plasticity|网络可塑性]]，设立统一测试平台并强制跨界合作，重构研发网络架构，引导颠覆性科研成果顺利跨越[[Valley of Death|死亡之谷]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144)]]
 >
 > **应用实例** 在半导体物理极限突破中，DARPA 项目经理将大学硅锗（SiGe）与应变硅（strained Si）发明学者与 IBM、台积电等代工厂强行撮合，消除了新材料走向主流 CMOS 产线的产业化梗阻。
 
@@ -143,7 +145,7 @@ updated: 2026-10-04
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 某国国家创新战略究竟是陷入僵化行政指令，还是构建了高效敏捷的发展型网络生态；如何评估公共研发机构对颠覆性[[Technological Trajectories|技术轨道]]的引导效能。
 > - **分析对象与单位** 国家重大科技计划、专业资助机构（Agencies）、项目经理、产学研协同网络。
-> - **需要的材料** 资助公告（BAA）、项目评审机制、技术研讨会档案、产学研联合体协议、学者访谈与专利论文网络。
+> - **需要的材料** 资助公告（[[Broad Agency Announcement|BAA]]）、项目评审机制、技术研讨会档案、产学研联合体协议、学者访谈与专利论文网络。
 > - **解释目标** 诊断国家创新治理中的“科层僵化”或“市场放任协调失灵”，提供网络重塑政策方案。
 
 > [!theory-framework] 发展型[[Network Governance|网络治理]]分析维度与指标

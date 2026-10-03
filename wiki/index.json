@@ -7992,6 +7992,17 @@
     ]
   },
   {
+    "title": "Broad Agency Announcement",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Broad Agency Announcement.md",
+    "aliases": [
+      "广泛领域资助公告",
+      "BAA",
+      "广泛机构公告",
+      "Broad Agency Announcements"
+    ]
+  },
+  {
     "title": "Classical Geopolitics",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Classical Geopolitics.md",
@@ -8017,6 +8028,18 @@
     "path": "wiki/concepts/political-economy-geopolitics/Culturalisation of Politics.md",
     "aliases": [
       "政治的文化化"
+    ]
+  },
+  {
+    "title": "DARPA Model",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/DARPA Model.md",
+    "aliases": [
+      "国防前沿创新模式",
+      "颠覆性研发模式",
+      "项目经理嵌入治理模式",
+      "DARPA innovation model",
+      "ARPA model"
     ]
   },
   {
@@ -8639,6 +8662,23 @@
       "创投慈善",
       "公益创投",
       "venture philanthropy in education"
+    ]
+  },
+  {
+    "title": "Vertical Disintegration",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Vertical Disintegration.md",
+    "aliases": [
+      "纵向离散",
+      "垂直离散",
+      "纵向解构",
+      "垂直专业化分工",
+      "产业垂直碎片化",
+      "纵向碎片化产业生态",
+      "纵向碎片化产业",
+      "产业纵向分工碎片化",
+      "纵向碎片化高科技产业",
+      "纵向碎片化"
     ]
   },
   {
@@ -18507,6 +18547,17 @@
     ]
   },
   {
+    "title": "Heilmeier Catechism",
+    "type": "instrument",
+    "path": "wiki/instruments/checklists/Heilmeier Catechism.md",
+    "aliases": [
+      "海尔迈耶问卷",
+      "海尔迈耶法则",
+      "海尔迈耶教条",
+      "Heilmeier Questions"
+    ]
+  },
+  {
     "title": "Kmet Quality Assessment Checklist",
     "type": "instrument",
     "path": "wiki/instruments/checklists/Kmet Quality Assessment Checklist.md",
@@ -21969,6 +22020,15 @@
     ]
   },
   {
+    "title": "George Heilmeier",
+    "type": "person",
+    "path": "wiki/persons/us/George Heilmeier.md",
+    "aliases": [
+      "乔治·海尔迈耶",
+      "George H. Heilmeier"
+    ]
+  },
+  {
     "title": "George Herbert Mead",
     "type": "person",
     "path": "wiki/persons/us/George Herbert Mead.md",
@@ -24604,6 +24664,37 @@
     ]
   },
   {
+    "title": "1980 Ditchley Park United World Colleges Conference",
+    "type": "fact",
+    "path": "wiki/facts/global/1980 Ditchley Park United World Colleges Conference.md",
+    "aliases": [
+      "1980年迪奇利公园联合世界书院会议",
+      "Ditchley Park Conference",
+      "UWC Indaba",
+      "Indaba Conference"
+    ]
+  },
+  {
+    "title": "1981 Brussels Intergovernmental Conference on the International Baccalaureate",
+    "type": "fact",
+    "path": "wiki/facts/global/1981 Brussels Intergovernmental Conference on the International Baccalaureate.md",
+    "aliases": [
+      "1981年布鲁塞尔国际文凭政府间会议",
+      "第三次国际文凭政府间会议",
+      "Third Intergovernmental Conference on the International Baccalaureate"
+    ]
+  },
+  {
+    "title": "1983 International Baccalaureate Financial Crisis",
+    "type": "fact",
+    "path": "wiki/facts/global/1983 International Baccalaureate Financial Crisis.md",
+    "aliases": [
+      "1983年国际文凭财政危机",
+      "1983 IBO Financial Crisis",
+      "国际文凭组织1983年财政危机"
+    ]
+  },
+  {
     "title": "1985 Trieste Intergovernmental Conference on the International Baccalaureate",
     "type": "fact",
     "path": "wiki/facts/global/1985 Trieste Intergovernmental Conference on the International Baccalaureate.md",
@@ -24612,6 +24703,16 @@
       "1985 年的里雅斯特国际文凭政府间会议",
       "第四次国际文凭政府间会议",
       "Fourth Intergovernmental Conference on the International Baccalaureate"
+    ]
+  },
+  {
+    "title": "1985 United World Colleges International Council Meeting",
+    "type": "fact",
+    "path": "wiki/facts/global/1985 United World Colleges International Council Meeting.md",
+    "aliases": [
+      "1985年联合世界书院国际理事会会议",
+      "Tenth Meeting of the International Council of the United World Colleges",
+      "第十次联合世界书院国际理事会会议"
     ]
   },
   {
@@ -26647,6 +26748,16 @@
     ]
   },
   {
+    "title": "International Baccalaureate Examinations Office",
+    "type": "fact",
+    "path": "wiki/facts/uk/International Baccalaureate Examinations Office.md",
+    "aliases": [
+      "国际文凭考试办公室",
+      "IB Examinations Office",
+      "IBO Examinations Office"
+    ]
+  },
+  {
     "title": "National Co-ordinating Centre for Public Engagement",
     "type": "fact",
     "path": "wiki/facts/uk/National Co-ordinating Centre for Public Engagement.md",
@@ -26959,6 +27070,17 @@
     ]
   },
   {
+    "title": "N and F Proposals",
+    "type": "fact",
+    "path": "wiki/facts/uk/N and F Proposals.md",
+    "aliases": [
+      "N与F方案",
+      "Normal and Further Proposals",
+      "普通与进阶课程方案",
+      "Schools Council N and F Proposals"
+    ]
+  },
+  {
     "title": "National Strategy for Educational Research and Enquiry",
     "type": "fact",
     "path": "wiki/facts/uk/National Strategy for Educational Research and Enquiry.md",
@@ -27156,6 +27278,16 @@
       "有效性网络",
       "What Works Centres",
       "WWCs"
+    ]
+  },
+  {
+    "title": "1979 Schools Council International Baccalaureate Feasibility Study",
+    "type": "fact",
+    "path": "wiki/facts/uk/1979 Schools Council International Baccalaureate Feasibility Study.md",
+    "aliases": [
+      "1979年学校委员会国际文凭可行性研究",
+      "Schools Council IB Feasibility Study",
+      "British Schools Council International Baccalaureate Feasibility Study"
     ]
   },
   {

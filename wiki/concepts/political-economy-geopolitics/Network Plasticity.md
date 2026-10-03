@@ -6,7 +6,7 @@ aliases:
 summary: "Gerald F. Davis（2009）与 Erica Fuchs（2010）提出的组织社会学与科技政策概念，指社会与组织网络的拓扑结构并非固化给定的外部约束，而是能够被具备资源与权威的能动行动者策略性修剪、重织与主动重构的动态属性。在前沿创新治理中，公共代理人依托网络可塑性打破学科与产业壁垒，引导国家战略技术轨道。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Embedded Network Governance]]"
   - "[[Structural Holes]]"
   - "[[Boundary Spanner]]"
+  - "[[Vertical Disintegration]]"
   - "[[Paradigm]]"
   - "[[Ontology]]"
   - "[[Star Scientists]]"
@@ -59,7 +60,7 @@ updated: 2026-10-04
 > - **边界条件** 网络可塑性并不等于网络可以随意捏造；它的实现高度依赖干预者的专业威望、关键资源调配权以及对底层技术演进规律的精准洞察。
 
 > [!citation-card] 网络可塑性对消极结构论的超越
-> 组织社会学学者提出网络具有高度可塑性，管理者能够为了达成特定目标而有意识地改变或重构网络；在颠覆性技术治理中，[[DARPA]] 项目经理正是运用网络可塑性，超越了消极适应既有[[Structural Holes|结构洞]]的传统[[Boundary Spanner|边界跨越者]]，主动重塑了纵向碎片化产业中的研发网络拓扑结构。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1135)]]
+> 组织社会学学者提出网络具有高度可塑性，管理者能够为了达成特定目标而有意识地改变或重构网络；在颠覆性技术治理中，[[DARPA]] 项目经理正是运用网络可塑性，超越了消极适应既有[[Structural Holes|结构洞]]的传统[[Boundary Spanner|边界跨越者]]，主动重塑了[[Vertical Disintegration|纵向碎片化产业]]中的研发网络拓扑结构。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1135)]]
 >
 > *Scholars have suggested that networks are 'plastic'—that managers can intentionally alter or reshape networks to [[Achieve]] their goals... Program managers use network plasticity to reshape researcher social networks in vertically disintegrated industries.*
 
@@ -87,7 +88,7 @@ updated: 2026-10-04
 > [!feature] 核心构成要素
 > - **连接可变性（Tie Reconfigurability）** 异质行动者（如大学教授与代工厂工程师）之间的合作通道能够从无到有被快速建立或解耦。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1135)]]
 > - **能动干预杠杆（Interventionist Levers）** 包括排他性封闭研讨会（Closed-door Workshops）、统一测试平台标准、强制跨界联合申报以及第三方技术权威背书等重塑工具。
-> - **跨界拓扑重织（Cross-boundary Reweaving）** 打破纵向离散产业中设计、材料、制造与应用各环节相互孤立的局面，将点状分布的[[Star Scientists|明星科学家]]编织为横向强连接网络。
+> - **跨界拓扑重织（Cross-boundary Reweaving）** 打破[[Vertical Disintegration|纵向离散]]产业中设计、材料、制造与应用各环节相互孤立的局面，将点状分布的[[Star Scientists|明星科学家]]编织为横向强连接网络。
 > - **动态自适应演进（Adaptive Evolution）** 随着技术从实验室概念走向成熟量产，网络架构能够由紧密撮合转向机制化退出与市场承接。
 
 > [!logic-map]- 网络可塑性调动与[[Technological Trajectories|技术轨道]]重塑逻辑
@@ -118,10 +119,10 @@ updated: 2026-10-04
 ### 命题二　公共代理人依托网络可塑性重织跨界生态以引导颠覆性技术轨道
 
 > [!concept-lens] 国家创新政策与[[Embedded Network Governance|嵌入型网络治理]]维度
-> 探讨政府专业项目经理如何在前沿产业中调动网络可塑性，克服纵向碎片化带来的创新停滞。
+> 探讨政府专业项目经理如何在前沿产业中调动网络可塑性，克服[[Vertical Disintegration|纵向碎片化]]带来的创新停滞。
 
 > [!claim] [[Erica Fuchs|Fuchs, E. R. H.]]
-> **运用网络可塑性破除产业碎片化** 在高度纵向离散（Vertically Disintegrated）的硬科技领域，分散的学术研究者与工业制造企业缺乏自主协同动力。具备深厚学术声誉与项目发包权的 [[DARPA]] 项目经理，将网络拓扑视为具备高度可塑性的操作对象；他们通过强制学术明星与晶圆厂共同签约、搭建通用测试床等微观非正式机制，主动重构了研发共同体的拓扑结构，使原本孤立的异端构想成功转化为全行业主导的[[Technological Trajectories|技术轨道]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144–1145)]]
+> **运用网络可塑性破除产业碎片化** 在高度[[Vertical Disintegration|纵向离散]]（Vertically Disintegrated）的硬科技领域，分散的学术研究者与工业制造企业缺乏自主协同动力。具备深厚学术声誉与项目发包权的 [[DARPA]] 项目经理，将网络拓扑视为具备高度可塑性的操作对象；他们通过强制学术明星与晶圆厂共同签约、搭建通用测试床等微观非正式机制，主动重构了研发共同体的拓扑结构，使原本孤立的异端构想成功转化为全行业主导的[[Technological Trajectories|技术轨道]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144–1145)]]
 
 ---
 

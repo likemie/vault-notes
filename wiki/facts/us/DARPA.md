@@ -11,10 +11,10 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 38
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
-fact_related_color: "#dcfce7"
+fact_related_count: 40
+fact_related_level: 5
+fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_color: "#fecdd3"
 org_type: 联邦国防与国家安全颠覆性研发机构
 headquarters: 美国弗吉尼亚州阿灵顿（Arlington, Virginia）
 established: "1958"
@@ -28,10 +28,12 @@ tags:
 related_concepts:
   - "[[Big Science]]"
   - "[[Market Shaping and Creating]]"
+  - "[[Broad Agency Announcement]]"
   - "[[Embedded Network Governance]]"
   - "[[Technology Transfer Office]]"
   - "[[Brainstorming]]"
   - "[[Flow]]"
+  - "[[Vertical Disintegration]]"
   - "[[Paradigm]]"
   - "[[General Purpose Technology]]"
   - "[[Fourth Industrial Revolution]]"
@@ -99,7 +101,7 @@ updated: 2026-10-04
 > - **1958–1960s — 太空竞争突围与计算机科学建制奠基** 艾森豪威尔总统因应苏联斯普特尼克危机（[[Sputnik Shock 1957|Sputnik]] 1）设立高级研究计划局（ARPA）；早期短暂主导美国航天计划（后移交美国国家航空航天局 [National Aeronautics and Space Administration, NASA]）；1962 年设立信息处理技术办公室（Information Processing Techniques Office, IPTO），资助分时操作系统、图形交互与分组交换网络，直接催生阿帕网（ARPANET），并系统支持麻省理工学院、斯坦福大学、卡内基梅隆大学与加州大学伯克利分校等高校计算机科学系所的学科奠基。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 175–176, 183)]]
 > - **1970s — [[Mansfield Amendment 1969|曼斯菲尔德修正案]]与战术隐身突防** 国会通过《曼斯菲尔德修正案》（Mansfield Amendment），强制要求国防研发紧密挂钩直接军事需求；机构改组为国防高级研究计划局（DARPA），重点资助战术防御技术；启动“海弗蓝”（Have Blue）验证机项目，突破机身雷达散射截面积计算理论与吸波材料工艺，最终催生 F-117 隐身攻击机。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
 > - **1980s — 战略计算倡议、VLSI 设计革命与半导体危机应对** 面对日本半导体制造业的激烈竞争，发起战略计算倡议（Strategic Computing Initiative, SCI）；资助超大规模集成电路（Very Large Scale Integration, VLSI）结构化设计方法论革命并创立[[MOSIS|金属氧化物半导体实现服务]]（MOSIS）硅代工原型试验平台；资助加州大学伯克利分校与斯坦福大学开发精简指令集计算机（Reduced Instruction Set Computer, RISC）微处理器架构；主导组建[[Sematech|半导体制造技术战略联盟]]（Semiconductor Manufacturing Technology, SEMATECH）并全力推进全球卫星定位系统（Global Positioning System, GPS）的军民部署。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 180–183)]]
-> - **1990s — 冷战后军民两用转型与微系统基础探索** 在加里·登曼（Gary Denman）、拉里·林恩（Larry Lynn）与弗兰克·费尔南德斯（Frank Fernandez）领导下，DARPA 重点转向军民两用（Dual-use）技术开发与跨学科基础探索；微系统技术办公室（MTO，前身为电子技术办公室 ETO）依托开放广泛领域公告（Broad Area Announcement, BAA），前瞻性资助硅锗（Silicon-Germanium, SiGe）异质结双极晶体管与应变硅材料研发，突破硅基物理极限，为后摩尔时代微处理器奠定核心工艺基石。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138)]]
+> - **1990s — 冷战后军民两用转型与微系统基础探索** 在加里·登曼（Gary Denman）、拉里·林恩（Larry Lynn）与弗兰克·费尔南德斯（Frank Fernandez）领导下，DARPA 重点转向军民两用（Dual-use）技术开发与跨学科基础探索；微系统技术办公室（MTO，前身为电子技术办公室 ETO）依托开放广泛领域公告（Broad Area Announcement, [[Broad Agency Announcement|BAA]]），前瞻性资助硅锗（Silicon-Germanium, SiGe）异质结双极晶体管与应变硅材料研发，突破硅基物理极限，为后摩尔时代微处理器奠定核心工艺基石。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138)]]
 > - **2000s — 托尼·瑟瑟采办改革、“弥合鸿沟”与体系级系统集成** 2001 年托尼·瑟瑟（Tony Tether）出任局长，确立“弥合鸿沟”（Bridging the Gap）施政纲领，推行采办机制的激进变革；资助重心由大学转向工业界传统国防巨头（Prime Contractors），引入 12–16 个月硬性里程碑审查（Go/No-Go）与涉密限制；微观层面项目经理继续运用[[Embedded Network Governance|嵌入型网络治理]]攻克 3D 封装与超高性能片内纳米光子通信（UNIC）芯片互连；同期资助敏捷感知认知系统（CALO 项目，孵化出 Siri）并在 2004 与 2005 年举办两届无人车大挑战赛（DARPA Grand Challenge）。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138, 1142–1144)]]
 > - **2010s–至今 — 生物技术拓展与多域分布式协同作战** 设立生物技术办公室（Biological Technologies Office, BTO），在新冠疫情暴发前数年即通过 ADEPT 计划前瞻资助莫德纳（Moderna）等团队研发 mRNA 疫苗平台与核酸药物递送技术；在空战领域推行“小妖精”（Gremlins）低成本无人机群空中回收验证，展示了从[[Big Science|大科学]]狮子形态向多域敏捷分布式网络的演进。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 807)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
 
@@ -118,7 +120,7 @@ updated: 2026-10-04
 > | 采办与管理维度 | 1990 年代传统模式（以 SiGe / 应变硅为例） | 2000 年代托尼·瑟瑟改革（以 3D 封装 / UNIC 为例） |
 > |:---------------|:------------------------------------------|:--------------------------------------------------|
 > | **主承包商资质** | 大学、初创企业或工业实验室均可独立担任主承包商 | 强制要求具备成熟防务交付能力的大型系统巨头担任主承包商 |
-> | **指南发布形式** | 广泛领域公告（BAA）界定宽泛探索主题，鼓励自下而上提案 | 规定性公告设定明确系统性能指标与集成蓝图，指导自上而下竞标 |
+> | **指南发布形式** | 广泛领域公告（[[Broad Agency Announcement\|BAA]]）界定宽泛探索主题，鼓励自下而上提案 | 规定性公告设定明确系统性能指标与集成蓝图，指导自上而下竞标 |
 > | **绩效审查方式** | 宽松的年度阶段性评审，允许研发团队根据探索进展调整方向 | 刚性设定 12–16 个月硬性里程碑审查（Go/No-Go），未达标立即终止 |
 > | **团队组织架构** | 资助高度独立的单体项目团队（单点突破） | 强制组建涵盖高校基础研究、材料代工与系统集成的多层级分包大团队 |
 > | **保密与成果扩散** | 非保密（Unclassified），研究成果鼓励向全球学术界公开发表 | 强化涉密限制（Classified），严格限制非美籍学者参与关键核心工程 |
@@ -126,7 +128,7 @@ updated: 2026-10-04
 > [!proc] 项目经理微观[[Embedded Network Governance|嵌入型网络治理]]的五大非正式运行机制（[[Argument_Fuchs_2010_RP|Fuchs, 2010, pp. 1144–1146]]）
 > 1. **前瞻识别与播撒技术构想（Identifying and Seeding Ideas）** 项目经理深度沉浸于学术前沿与产业网络，敏锐捕捉处于萌芽期的非共识构想，通过小额种子基金播撒共同技术主题，催化产业界从“理论上不可能”向“可工程化实现”认知跃迁。
 > 2. **闭门[[Brainstorming|头脑风暴]]与引导[[Technological Trajectories|技术轨道]]（Brainstorming and Shaping Trajectories）** 绕开传统同行评议的均值化保守偏好，密集组织跨学科闭门研讨会，直面技术瓶颈与物理极限，自下而上共同确立国家战略[[Technological Trajectories|技术轨道]]。
-> 3. **构建共生研发共同体与强制跨界知识流动（Creating Symbiotic Research Communities & Mandatory Information [[Flow]]）** 在垂直纵向碎片化（Dis-integrated）的产业生态中，将大学科学家、晶圆代工厂、材料供应商与系统巨头编织进共享团队，利用合同权力强制知识跨壁垒流动，形成互利共生研发网络。
+> 3. **构建共生研发共同体与强制跨界知识流动（Creating Symbiotic Research Communities & Mandatory Information [[Flow]]）** 在垂直[[Vertical Disintegration|纵向碎片化]]（Dis-integrated）的产业生态中，将大学科学家、晶圆代工厂、材料供应商与系统巨头编织进共享团队，利用合同权力强制知识跨壁垒流动，形成互利共生研发网络。
 > 4. **提供独立第三方背书与商业信誉加持（Providing Third-Party Commercial/Strategic Legitimacy）** 项目经理充当客观中立的技术裁判与早期战略投资人，为前沿颠覆性路线提供国家信誉背书，有效撬动私营风险资本与国防主战部队的后续承接投资。
 > 5. **适时断乳脱钩与机制化退出（Timely Weaning & Graceful Exit）** 一旦技术原型验证成功且私营市场或军种采购具备自主造血与投资能力，DARPA 迅速终止资助，坚决避免形成利益集团依附，将有限公共资源重新投向下一代未知深水区。
 

@@ -18,7 +18,7 @@ aliases:
 summary: "在异质组织、专业社群或制度系统（如学术研究与产业界、科学共同体与政策决策系统）之间充当沟通桥梁的专业角色或中介机构，通过双重语言转译、制度摩擦缓冲与多边信任建构，促进知识流动、资源对齐与跨界协同。在公共教育治理中，跨界中介者连接科学与政策两社区，在证据过剩与决策歧义性生态下以政策中介平衡公信力与行政两难。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 72
+related_count: 73
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -65,6 +65,7 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Research-Informed Teaching Practice]]"
   - "[[Practice-Based Evidence]]"
+  - "[[Vertical Disintegration]]"
   - "[[Language Skills]]"
   - "[[Document]]"
   - "[[Paradigm]]"
@@ -270,7 +271,7 @@ updated: 2026-10-04
 ### 命题五　从消极边界跨越向能动网络架构重塑的治理跃迁
 
 > [!concept-lens] 颠覆性硬科技创新中的[[Network Plasticity|网络可塑性]]与公共代理人能动性
-> 检视在前沿硬科技攻坚与纵向碎片化产业生态中，中介角色如何从消极信息传递演进为主动[[Embedded Network Governance|网络架构重塑]]。
+> 检视在前沿硬科技攻坚与[[Vertical Disintegration|纵向碎片化产业生态]]中，中介角色如何从消极信息传递演进为主动[[Embedded Network Governance|网络架构重塑]]。
 
 > [!claim] [[Argument_Fuchs_2010_RP|Fuchs (2010)]]
 > **网络可塑性与乐队指挥家式系统整合** 传统组织理论中的边界跨越者假定网络拓扑结构相对给定，行动者主要在既有[[Structural Holes|结构洞]]与群体边界间扮演转译者或接触点（Aldrich & Herker, 1977; Fleming & Waguespack, 2007）；然而在面对高不确定性、纵向碎片化的硬科技攻关时，仅靠消极中介无法克服产学研壁垒与系统协调失灵。具备技术权威与立项发包权的公共代理人（如 [[DARPA]] 项目经理）依托“网络可塑性”（Network Plasticity），从消极边界跨越跃升为“乐队指挥家”与“系统集成者”，主动重塑团队结构与知识流动拓扑，以[[Embedded Network Governance|嵌入型网络治理]]引导国家关键[[Technological Trajectories|技术轨道]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135, 1144–1145)]]

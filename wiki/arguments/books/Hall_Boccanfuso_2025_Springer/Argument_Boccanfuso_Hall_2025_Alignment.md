@@ -58,16 +58,18 @@ related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch1_Boccanfuso_Hall_2025|Ch1_Boccanfuso_Hall_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
+related_instruments:
+  - "[[Heilmeier Catechism]]"
 status: draft
 created: 2026-05-26
-updated: 2026-07-13
+updated: 2026-10-04
 subtype: book-chapter
 publication_type: book
 title: "Argument_Boccanfuso_Hall_2025_Alignment"
 argument_key: "Argument_Boccanfuso_Hall_2025_Alignment"
 argument_display_title: "Alignment, Engagement, and Public Benefits"
 argument_kind: "book"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -279,7 +281,7 @@ UI 合作面临的合同谈判挑战是 UIDP 的起源。2003 年，GUIRR 发起
 
 2015 年，UIDP 从国家[[Chinese Academy of Sciences|科学院]]"毕业"成为独立的非营利组织。2016 年启动国际扩展试点，邀请牛津、多伦多和东京大学加入。截至 2025 年本书出版，UIDP 拥有超过 60 个出版物，12% 的会员为非美国组织(pp.19–20)。
 
-UIDP 的项目过程也值得注意：采用"Heilmeier Catechism"格式的项目申请书，由项目委员会（董事会成员、大学代表和企业代表组成）审批，聘请专家起草初稿，工作组反馈，再经同行评审和审批——一整套流程确保了产品的质量和社区共识(pp.17–18)。
+UIDP 的项目过程也值得注意：采用"[[Heilmeier Catechism]]"格式的项目申请书，由项目委员会（董事会成员、大学代表和企业代表组成）审批，聘请专家起草初稿，工作组反馈，再经同行评审和审批——一整套流程确保了产品的质量和社区共识(pp.17–18)。
 
 ---
 

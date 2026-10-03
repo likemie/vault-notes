@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Research Translation",
-      "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
-    },
-    {
       "basename": "Argument_Fuchs_2010_RP",
       "path": "wiki/arguments/journal-articles/Research Policy/Argument_Fuchs_2010_RP.md"
+    },
+    {
+      "basename": "Broad Agency Announcement",
+      "path": "wiki/concepts/political-economy-geopolitics/Broad Agency Announcement.md"
+    },
+    {
+      "basename": "Sematech",
+      "path": "wiki/facts/us/Sematech.md"
+    },
+    {
+      "basename": "Research Translation",
+      "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
     },
     {
       "basename": "Professional Judgment",
@@ -191,14 +199,6 @@
     {
       "basename": "Friedrich Nietzsche",
       "path": "wiki/persons/germany/Friedrich Nietzsche.md"
-    },
-    {
-      "basename": "Mission-Oriented Innovation Policy",
-      "path": "wiki/concepts/science-policy/Mission-Oriented Innovation Policy.md"
-    },
-    {
-      "basename": "Unbalanced Growth Theory",
-      "path": "wiki/theories/political-economy-geopolitics/Unbalanced Growth Theory.md"
     }
   ],
   "omittedPaths": [],
