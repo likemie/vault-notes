@@ -11,7 +11,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Megascience Installations]]"
   - "[[Paradigm]]"
   - "[[Research Universities]]"
+  - "[[Big Science]]"
   - "[[Grandes Ecoles]]"
   - "[[Knowledge Production]]"
 related_facts:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Chinese Academy of Sciences
@@ -64,7 +65,7 @@ updated: 2026-10-02
 > [!dev-timeline] 组织发展与改革历程
 > - **1949–1978 年 — 苏联模式移植与科教分立** 依据苏联科学院[[Paradigm|范式]]，国家研发资金与高级科研设备绝对向中科院倾斜；1952 年全国高等学校院系调整将大学拆解为专科性教学机构（如北京大学偏重文理、清华大学偏重工科），大学整体处于国家科研边缘。
 > - **1978–1985 年 — 改革开放与研究生院创设** 邓小平主持科学与教育恢复整顿后，中科院率先恢复研究生招收；1978 年在北京正式成立中国第一所研究生院（中国科技大学研究生院，后发展为中国科学院研究生院/中国科学院大学），广泛借鉴美国大学的研究生课程与资格考试模式，在科学院院所内部成规模培养硕博科研生力军。
-> - **1986 年至今 — 科技体制改革与国家双轨竞合** 1986 年中国仿照[[National Science Foundation|美国国家科学基金会]]（NSF）设立[[National Natural Science Foundation of China|国家自然科学基金委员会]]（NSFC），推行竞争性面上与重点项目评审；随着国家“211工程”与“985工程”启动，顶尖[[Research Universities|研究型大学]]迅速崛起，但在国家学术研发支出与大科学设施布局上，中科院仍稳固占据着至少三分之二的体量。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
+> - **1986 年至今 — 科技体制改革与国家双轨竞合** 1986 年中国仿照[[National Science Foundation|美国国家科学基金会]]（NSF）设立[[National Natural Science Foundation of China|国家自然科学基金委员会]]（NSFC），推行竞争性面上与重点项目评审；随着国家“211工程”与“985工程”启动，顶尖[[Research Universities|研究型大学]]迅速崛起，但在国家学术研发支出与[[Big Science|大科学]]设施布局上，中科院仍稳固占据着至少三分之二的体量。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
 
 ---
 
@@ -81,7 +82,7 @@ updated: 2026-10-02
 ## 影响与体系成效
 
 > [!finding-cards] 关键成效与历史辐射
-> - **构筑国家战略科技力量中流砥柱** 从早期的“两弹一星”、人工合成牛胰岛素到当代的深空深海大科学工程，中科院集中力量办大事的体制保障了国家战略任务的快速攻关。
+> - **构筑国家战略科技力量中流砥柱** 从早期的“两弹一星”、人工合成牛胰岛素到当代的深空深海[[Big Science|大科学工程]]，中科院集中力量办大事的体制保障了国家战略任务的快速攻关。
 > - **开创独特的“科教融合”研究生培养[[Paradigm|范式]]** 中科院自设研究生院并依托实体研究所开展高层次人才培养，既弥补了传统苏联科学院不带研究生的缺陷，又形成了东亚大国区别于欧美单一大学中心论的国家科技生态奇观。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
 
 ---

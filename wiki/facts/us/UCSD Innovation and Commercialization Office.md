@@ -11,7 +11,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 3
+fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Hub]]"
+  - "[[Nature of Innovation]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-10-03
 ---
 
 # UCSD Innovation and Commercialization Office
@@ -65,7 +66,7 @@ updated: 2026-05-29
 ## 与传统模式的关键差异
 
 > [!abstract]
-> "企业来找大学"的传统模式隐含前提是企业已经知道自己要什么，但突破性创新的本质恰恰是"还不知道自己要什么"（p.150）。UCSD 模式翻转了这个前提：大学拥有深厚的研究积累和人才储备，需要产业告诉它五年后这个行业最大的机会在哪里、今天的痛点是什么、现有方案解决不了的最头疼的问题是什么。
+> "企业来找大学"的传统模式隐含前提是企业已经知道自己要什么，但突破性[[Nature of Innovation|创新的本质]]恰恰是"还不知道自己要什么"（p.150）。UCSD 模式翻转了这个前提：大学拥有深厚的研究积累和人才储备，需要产业告诉它五年后这个行业最大的机会在哪里、今天的痛点是什么、现有方案解决不了的最头疼的问题是什么。
 
 > [!success]
 > 多家企业而非一家的设计有三个优势：避免任何一家企业主导议程；不同企业之间的观点差异本身就是有价值的市场信号（如一家认为 5G 低延迟是最大机会、另一家认为设备功耗才是瓶颈，这种分歧比共识更能说明市场的真实复杂性）；企业代表之间可能自发形成新的合作关系（p.150）。

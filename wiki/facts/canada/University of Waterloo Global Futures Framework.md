@@ -11,12 +11,13 @@ subtype: event
 region: canada
 fact_region: "canada"
 fact_kind: "event"
-fact_related_count: 2
+fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags: ["region/canada", "theme/university-strategy", "theme/interdisciplinary", "theme/innovation"]
 related_concepts:
+  - "[[Grand Challenges]]"
   - "[[University-Industry Collaboration]]"
 related_theories: []
 related_methods: []
@@ -27,7 +28,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-10-03
 ---
 
 # University of Waterloo Global Futures Framework
@@ -37,7 +38,7 @@ updated: 2026-06-03
 > [!info]
 > 全球未来框架（Global Futures Framework）是滑铁卢大学于 **2022 年**发布的跨学科战略框架，旨在通过跨学科方法加速大学的教育项目、研究和创新活动中的合作机会([[Argument_Dean_2025_UICollaborationSupport\|Dean et al., 2025, p.244]])。
 
-该框架的核心理念是：当代社会面临的重大挑战——无论是气候变化、公共卫生危机还是技术变革——都无法被单一学科单独解决。框架通过命名五个相互关联的未来维度，为大学的学术和科研力量提供一个共同的参照坐标。
+该框架的核心理念是：当代社会面临的[[Grand Challenges|重大挑战]]——无论是气候变化、公共卫生危机还是技术变革——都无法被单一学科单独解决。框架通过命名五个相互关联的未来维度，为大学的学术和科研力量提供一个共同的参照坐标。
 
 ## 经过
 

@@ -10,7 +10,7 @@ aliases:
 summary: "由阿奇舒勒创立的算法化发明问题解决理论体系，主张技术与心智系统的演化遵循客观规律，通过识别并消除系统内在矛盾（技术与物理矛盾）、应用 40 条通用发明原理与理想最终解（IFR）启发式，系统克服思维定势并实现高阶创新。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[SCAMPER]]"
   - "[[Champ]]"
+  - "[[Nature of Innovation]]"
   - "[[Scaffolding]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
@@ -50,7 +51,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # TRIZ
@@ -93,7 +94,7 @@ updated: 2026-09-22
 
 ## 核心命题与机制
 
-> [!proposition-chain] 核心命题一｜高阶发明创新的本质是彻底消除系统矛盾而非妥协折中
+> [!proposition-chain] 核心命题一｜高阶发明[[Nature of Innovation|创新的本质]]是彻底消除系统矛盾而非妥协折中
 > - **前提一** 绝大多数看似不可逾越的劣构技术或实践难题，其核心阻碍都在于系统内存在“牵一发而动全身”的技术矛盾或物理矛盾。Altshuller (1984)
 > - **前提二** 常规工程思维倾向于采用折中方案（Trade-off），即牺牲一部分次要性能换取主要性能的微调，但这只属于低水平的渐进微调，无法产生质的创新跃升。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]
 > - **推导** 只有准确定位深层系统矛盾，并通过空间分离、时间分离、条件分离或整体与部分分离等机制，在不恶化任何参数的前提下彻底化解矛盾，才能实现发明级别（Invention Level）的创新突破。

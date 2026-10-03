@@ -13,7 +13,7 @@ title: "Argument_Zhang_2023_PHEI"
 argument_key: "Argument_Zhang_2023_PHEI"
 argument_display_title: "科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索"
 argument_kind: "book"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Technology Transfer Office]]"
   - "[[Decodification]]"
+  - "[[Big Science]]"
   - "[[Megascience Installations]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Innovation Park]]"
@@ -352,7 +353,7 @@ updated: 2026-10-03
 > | **大湾区定位** | 科技创新主阵地，综合性国家科学中心，以企业为主体的全过程创新链 |
 
 > [!case] 广州：2+2+N 平台体系
-> 以广州实验室和粤港澳大湾区国家技术创新中心为引领，以人类细胞谱系大科学研究设施和冷泉生态系统研究装置为骨干，以4家省级实验室和10余家高水平创新研究院为基础，构建"2+2+N"科技创新平台体系。生物岛实验室面向干细胞与再生医学前沿，邀请24名院士加入，引入人才1200余名、创新合作团队52个。基础研究经费占R&D 14.2%，已接近纽约、伦敦15%的水平。
+> 以广州实验室和粤港澳大湾区国家技术创新中心为引领，以人类细胞谱系[[Big Science|大科学]]研究设施和冷泉生态系统研究装置为骨干，以4家省级实验室和10余家高水平创新研究院为基础，构建"2+2+N"科技创新平台体系。生物岛实验室面向干细胞与再生医学前沿，邀请24名院士加入，引入人才1200余名、创新合作团队52个。基础研究经费占R&D 14.2%，已接近纽约、伦敦15%的水平。
 >
 > | 维度 | 内容 |
 > |------|------|

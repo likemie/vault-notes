@@ -9,7 +9,7 @@ aliases:
 summary: "学生在教育性活动中投入时间、精力与心智的综合构念，涵盖行为、情感、认知与认识论维度，受阶层文化习性制约，并作为连接教育环境与深层学业发展的核心中介机制。"
 type: concept
 domain: "higher-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Academic Achievement]]"
   - "[[Reflexivity]]"
+  - "[[Directionality of Innovation]]"
   - "[[Critical Thinking]]"
   - "[[Hypothesis]]"
   - "[[Cultural Capital]]"
@@ -63,7 +64,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-01
+updated: 2026-10-03
 ---
 
 # Student Engagement
@@ -112,7 +113,7 @@ updated: 2026-10-01
 > [!feature] 学生投入的现代多维架构
 > - **教育性实践活动（Educationally Purposeful Activities）** 投入所指向的载体，包括课程学习、师生学术研讨、学生组织治理、实习实践、志愿服务及同伴协作。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 113)]]
 > - **投入的量（Quantity of Engagement）** 投入时间与精力的多寡，通常体现为课程学时、自主研读时长、课外活动参与频率及领导职务参与。
-> - **投入的质与方向性（Quality & Directionality）** 投入的策略组织形态。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]指出，优质投入必须具备明确的目标方向，使行动能够有效转化为长效资本，而非盲目发散。
+> - **投入的质与方向性（Quality & [[Directionality of Innovation|directionality]]）** 投入的策略组织形态。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]指出，优质投入必须具备明确的目标方向，使行动能够有效转化为长效资本，而非盲目发散。
 > - **认识性投入（Epistemic Engagement）** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 提出的核心维度，指学生在探究中主动直面认知困惑、识别不确定性、检验相反证据、反思自身预设并对论点进行理性辩护的心智努力。
 > - **院校制度性支持（Institutional Support）** 学校在课程设置、师资配置、导师指导及课外实践方面提供的资源网络与制度环境。
 

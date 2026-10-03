@@ -9,7 +9,7 @@ title: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_key: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_display_title: "Evolution of University-Industry Relationships for Driving Innovation"
 argument_kind: "book"
-argument_related_count: 39
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
   - "level/higher-education"
   - "source/book-chapter"
 related_concepts:
+  - "[[Grand Challenges]]"
   - "[[Innovation Models Evolution]]"
   - "[[Innovation Policy Paradigms]]"
   - "[[Transformative Change]]"
@@ -36,6 +37,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Linear Model of Innovation]]"
   - "[[Hypothesis]]"
+  - "[[Market Failure]]"
   - "[[Absorptive Capacity]]"
   - "[[Reflexivity]]"
   - "[[Knowledge Production]]"
@@ -68,6 +70,7 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
   - "[[Argument_Caraca_2009_TFSC]]"
+  - "[[Argument_Mazzucato_2018_ICC]]"
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch2_Ulrichsen_2025|Ch2_Ulrichsen_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
@@ -87,7 +90,7 @@ citation_aliases:
 > [!question]
 > 过去五十年间，大学与企业之间的创新驱动关系（University-Industry Relationships, UIRs）如何演变？哪些因素塑造了这些关系的规模、性质和重要性？理解这一演变对大学、企业和政府意味着什么？
 
-这个问题之所以值得系统追问，是因为今天各国政府几乎不约而同地将大学-企业合作定位为驱动创新和经济增长、应对气候变化等重大挑战的核心引擎(p.25)。但这一格局并非凭空出现，它在过去五十年间经历了深刻的结构性变化。只有理解这段历史，才能分辨当下哪些趋势是结构性的、哪些障碍是暂时性的。
+这个问题之所以值得系统追问，是因为今天各国政府几乎不约而同地将大学-企业合作定位为驱动创新和经济增长、应对气候变化等[[Grand Challenges|重大挑战]]的核心引擎(p.25)。但这一格局并非凭空出现，它在过去五十年间经历了深刻的结构性变化。只有理解这段历史，才能分辨当下哪些趋势是结构性的、哪些障碍是暂时性的。
 
 ---
 
@@ -145,7 +148,7 @@ Kline & Rosenberg(1986)对第三阶段的总结精辟地指出：创新过程"�
 
 Schot & Steinmueller(2018)与 Lindner et al.(2024)识别出三个政策[[Paradigm|范式]]，分别对应着国家对"创新应该怎么推动"的不同理解(pp.28–29)：
 
-**范式一：科学促增长（1940s–1980s）。** 二战期间曼哈顿计划和 MIT [[MIT Radiation Laboratory|辐射实验室]]等大规模研发项目向政策制定者展示了科学的巨大回报潜力。受此影响，战后政策以[[Linear Model of Innovation|线性创新模型]]为基础，大规模投资大学基础研究，[[Hypothesis|假设]]科学发现将自然转化为技术和产品。理论基础来自 Solow(1957)和 Arrow(1962)：知识具有公共品属性，私人市场会对其投资不足，因此政府必须弥补这一市场失灵(pp.28–29)。
+**范式一：科学促增长（1940s–1980s）。** 二战期间曼哈顿计划和 MIT [[MIT Radiation Laboratory|辐射实验室]]等大规模研发项目向政策制定者展示了科学的巨大回报潜力。受此影响，战后政策以[[Linear Model of Innovation|线性创新模型]]为基础，大规模投资大学基础研究，[[Hypothesis|假设]]科学发现将自然转化为技术和产品。理论基础来自 Solow(1957)和 Arrow(1962)：知识具有公共品属性，私人市场会对其投资不足，因此政府必须弥补这一[[Market Failure|市场失灵]](pp.28–29)。
 
 > 然而这一范式存在根本性缺陷：1980 年之前，美国联邦政府资助的大学研究中产生了大量发明，但真正进入市场的极少。[[Bayh-Dole Act of 1980\|Bayh-Dole Act]] 立法前言直接点出："联邦资助研究中产生的发明几乎没有被商业化。"政府建了一个巨大的知识"水库"，但缺乏将水输送到需要之处的"管道"。
 
@@ -161,7 +164,7 @@ Schot & Steinmueller(2018)与 Lindner et al.(2024)识别出三个政策[[Paradig
 
 系统范式下的失灵范畴大幅扩展(Kelleher & Ulrichsen, 2022; Weber & Rohracher, 2012)(pp.30–31)：不仅是市场失灵（知识作为公共品投资不足），还有制度失灵（知识产权法过严或过松）、网络失灵（大学和企业之间缺乏链接管道）、锁定失灵（化石能源既得利益网络阻碍可再生能源扩散）、能力失灵（中小企业缺乏吸收大学成果的技术人才）、方向失灵（系统过度投入现有技术开发而忽视探索新方向）。
 
-**范式三：[[Transformative Change|变革转型]]（2010s 至今）。** 系统范式擅长诊断各种失灵，但批评者(Schot & Steinmueller, 2018; Mazzucato, 2018)指出其根本局限：它能识别系统在哪里卡住了，但不能指明系统应该往哪个方向走。面对气候变化、生物多样性丧失、人口老龄化等棘手问题，政策需要从"修复系统"升级为"主动导向"，不仅问"系统运转得顺不顺"，还要问"系统在解决对的问题吗"(pp.32–34)。
+**范式三：[[Transformative Change|变革转型]]（2010s 至今）。** 系统范式擅长诊断各种失灵，但批评者(Schot & Steinmueller, 2018; [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]])指出其根本局限：它能识别系统在哪里卡住了，但不能指明系统应该往哪个方向走。面对气候变化、生物多样性丧失、人口老龄化等棘手问题，政策需要从"修复系统"升级为"主动导向"，不仅问"系统运转得顺不顺"，还要问"系统在解决对的问题吗"(pp.32–34)。
 
 > 系统范式与[[Transformative Change\|变革转型范式]]的区别在于问题意识的层次：前者关注"如何优化现有系统"（系统优化思维），后者追问"现有系统本身是否指向正确的目标"（方向选择思维）。
 
@@ -294,7 +297,7 @@ Ulrichsen 综合多项实证研究，提出了一个七层次影响因素框架�
 
 **方向 1：创建新的激励机制。** 现有学术体系对产学合作的激励仍然偏弱，终身教职评审主要依据论文发表，较少考量与企业合作产生的实际影响。需要吸引和保留具有非传统学术背景的人才（如来自产业的[[Professors of Practice|实践教授]]）。
 
-**方向 2：整合研究、解决方案开发和人才培养。** 目前这三项职能在大多数大学是分开管理的：研究归科研副校长、人才培养归教务长、企业合作归一个边缘化的办公室。面对复杂的重大挑战，这种割裂的管理结构本身就是障碍。
+**方向 2：整合研究、解决方案开发和人才培养。** 目前这三项职能在大多数大学是分开管理的：研究归科研副校长、人才培养归教务长、企业合作归一个边缘化的办公室。面对复杂的[[Grand Challenges|重大挑战]]，这种割裂的管理结构本身就是障碍。
 
 **方向 3：实验新的组织空间。** 传统的学科院系结构不利于需要跨学科、跨组织协作的挑战导向型创新，需要能够汇集多伙伴、多资源和多专业能力的组织载体。大学科技园区和挑战导向研究中心是目前的探索方向。
 

@@ -14,7 +14,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 52
+fact_related_count: 54
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Paradigm]]"
+  - "[[Grand Challenges]]"
   - "[[Complexity Paradox]]"
   - "[[Network Governance]]"
   - "[[Transfer Translation Transformation]]"
@@ -71,6 +72,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[UNICEF]]"
   - "[[World Bank]]"
+  - "[[Horizon Europe]]"
   - "[[Global Partnership for Education]]"
   - "[[OECD]]"
   - "[[Building Evidence in Education]]"
@@ -124,7 +126,7 @@ updated: 2026-10-03
 > [!citation-card] [[Mariana Mazzucato|马祖卡托]]与[[Rainer Kattel|卡特尔]]论 SDGs 作为第三代使命与公共能力挑战
 > 联合国 SDGs 聚焦于气候变化、老龄化及环境恶化等[[Wicked Problem|复杂社会难题]]，构成了典型的第三代使命导向政策。应对这些挑战不能依赖传统的指标清单与被动外包，而需要超越[[New Public Management|新公共管理]]的新型[[Public Dynamic Capabilities|公共动态能力]]与引领与学习治理[[Paradigm|范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790, 800)]]
 >
-> *SDGs encompass socio-technical and wicked problems... Tackling these grand challenges requires third-generation mission-oriented policies, demanding dynamic capabilities to foster sense-making, pick the willing, and establish lead-and-learn governance networks.*
+> *SDGs encompass socio-technical and wicked problems... Tackling these [[Grand Challenges]] requires third-generation mission-oriented policies, demanding dynamic capabilities to foster sense-making, pick the willing, and establish lead-and-learn governance networks.*
 
 ---
 
@@ -135,7 +137,7 @@ updated: 2026-10-03
 > - **2000 — 达喀尔世界教育论坛与千年发展目标（MDGs）** 确立初等教育普及（MDG 2）与消除性别差距（MDG 3）的硬性量化指标，跨国资金援助全面与初等教育入学率指标挂钩。
 > - **2015 — 仁川世界教育论坛与 SDGs 纽约峰会正式通过** 5 月仁川论坛通过《仁川宣言》确立《教育 2030 行动框架》；9 月联合国大会正式通过涵盖 17 目标与 169 项指标的《2030 年可持续发展议程》，将教育从单纯的初等入学扩展为[[Lifelong Learning|终身学习]]与公平优质。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 150)]]
 > - **2018 — 三代使命演进与[[Public Dynamic Capabilities|公共动态能力]]治理构建** 雷纳·[[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]系统提出三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]演进框架，将联合国 SDGs 界定为典型的第三代使命，指出应对 SDGs 必须突破[[Complexity Paradox|复杂性悖论]]与传统[[New Public Management|新公共管理]]（NPM）束缚，培育公共部门动态能力以践行[[Lead-and-Learn Paradigm|引领与学习范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–791)]]
-> - **2018 — SDGs 使命化转化与欧盟地平线计划吸纳** 马祖卡托向欧盟委员会提交报告，正式将联合国 SDGs 确立为“地平线欧洲”（Horizon Europe, 1000 亿欧元）五大核心使命的顶层锚点。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
+> - **2018 — SDGs 使命化转化与欧盟地平线计划吸纳** 马祖卡托向欧盟委员会提交报告，正式将联合国 SDGs 确立为“[[Horizon Europe|地平线欧洲]]”（Horizon Europe, 1000 亿欧元）五大核心使命的顶层锚点。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
 > - **2018–2020 — 指标垄断深化与多边数据联盟分化** 伴随 SDG 4 监测需求激增，五大多边组织（[[Global Partnership for Education|GPE]], [[OECD]], UNESCO, UNICEF, World Bank）展开激烈的数据主导权博弈；世界银行联合英美援助机构组建打造教育成效证据联盟（[[Building Evidence in Education|BE2]]），联合国教科文组织、儿童基金会与世行则另立“[[Learning Data Compact|学习数据协定]]”（LDC）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
 > - **2020 至今 — 危机叠加与多维转型重塑** 全球公共卫生与气候危机暴露出单一量化指标与僵化行政规制的局限；全球高校与产业界系统制度化 SDGs，但同时面临主权国家地缘科技竞争“再领土化”的逆流冲击。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 155–157)]]
 
@@ -185,7 +187,7 @@ updated: 2026-10-03
 
 > [!debates] 政策争议
 >
-> > [!axis] “[[Complexity Paradox|复杂性悖论]]”与“支持并测量”治理失灵 vs. “引领与学习”动态共创
+> > [!axis] “[[Complexity Paradox|复杂性悖论]]”与“支持并测量”治理失灵 vs. “[[Lead-and-Learn Paradigm|引领与学习]]”动态共创
 > > 争论公共部门在落实 SDGs 这一复杂社会挑战时，应当依托传统指标问责还是构建适应性动态能力。
 > >
 > > - **公共管理与演化创新学派** [[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]指出，SDGs 面临典型的[[Complexity Paradox|复杂性悖论]]（Sweeney, 1985）：公共机构面对复杂的社会技术挑战时，往往本能地退缩至僵化的行政规则与“支持并测量”（Support-and-Measure）指标核查中，把解决问题降格为填表合规；真正推进 SDGs 必须摆脱 [[New Public Management|NPM]] 的控制[[Paradigm|范式]]，转向具备敏捷试验、跨界容错与反思迭代能力的[[Lead-and-Learn Paradigm|引领与学习范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 799–801)]]
@@ -223,7 +225,7 @@ updated: 2026-10-03
 > | [[Lead-and-Learn Paradigm]] | Concept | 克服针对 SDGs 的僵化指标合规、推进适应性试验与反思治理的核心管理[[Paradigm\|范式]]。 |
 > | [[Complexity Paradox]] | Concept | 揭示公共部门面对 SDGs 复杂挑战时退缩为僵化规则与指标核查的治理失灵陷阱。 |
 > | [[Picking the Willing]] | Concept | 落实 SDGs 跨部门协同创新时激励具备变革意愿与转型能力行动者的遴选机制。 |
-> | [[Market Shaping and Creating]] | Concept | 依托 SDGs 重大挑战拉动全产业链投资与绿色转型的新型市场观。 |
+> | [[Market Shaping and Creating]] | Concept | 依托 SDGs [[Grand Challenges\|重大挑战]]拉动全产业链投资与绿色转型的新型市场观。 |
 > | [[Wicked Problem]] | Concept | SDGs 所针对的具有高度复杂性、争议性与不确定性的核心问题属性。 |
 > | [[ROAR Framework]] | Theory | 指导公共部门以 SDGs 为战略方向开展组织、评估与利益分配的治理理论。 |
 > | [[Global Education Governing Complex]] | Concept | 深度卷入并塑造 SDGs 监测与资金流向的跨国治理网络。 |
@@ -237,7 +239,7 @@ updated: 2026-10-03
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 系统阐明将 SDGs 界定为第三代使命导向政策的理论逻辑，指出必须摆脱[[New Public Management|新公共管理]]的“支持并测量”指标陷阱，培育[[Public Dynamic Capabilities|公共动态能力]]以践行引领与学习治理[[Paradigm|范式]]。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 系统阐明将 SDGs 界定为第三代使命导向政策的理论逻辑，指出必须摆脱[[New Public Management|新公共管理]]的“支持并测量”指标陷阱，培育[[Public Dynamic Capabilities|公共动态能力]]以践行[[Lead-and-Learn Paradigm|引领与学习]]治理[[Paradigm|范式]]。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 系统论述如何将联合国可持续发展目标（SDGs）作为战略罗盘，通过四层分解金字塔转化为具备可量化指标与跨部门参与的[[Mission-Oriented Innovation Policy|使命导向创新政策]]组合。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 运用[[World Society Theory|世界社会理论]]系统剖析大学通过研究、教学、内部政策及学术网络四重机制全面嵌入 SDGs 的历程，并尖锐警示科学政治化与地缘政治再领土化风险。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 阐明国际协定如何推动针对全球南方的量化规制转向，揭示 [[UNESCO]] 与[[World Bank|世界银行]]在基准统筹与合规执法上的分工，以及五大多边组织在资金与数据协定上的排他性博弈。

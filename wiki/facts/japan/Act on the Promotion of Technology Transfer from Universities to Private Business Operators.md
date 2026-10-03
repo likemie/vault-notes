@@ -14,7 +14,7 @@ subtype: policy
 region: japan
 fact_region: "japan"
 fact_kind: "policy"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Ministry of International Trade and Industry]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Tsukuba Science City]]"
 related_arguments:
@@ -53,7 +54,7 @@ updated: 2026-10-03
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1998 年由日本国会全票通过，文部科学省（MEXT）与通商产业省（现经济产业省 METI）联合颁布实施。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
+> - **发布时间 / 发布主体** 1998 年由日本国会全票通过，文部科学省（MEXT）与[[Ministry of International Trade and Industry|通商产业省]]（现经济产业省 METI）联合颁布实施。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 > - **适用地区 / 对象** 覆盖全日本公私立大学、高等专门学校、国立大学法人、大学教师与产业界民间企业（尤以[[Tokyo Bay Area|东京湾区]]顶尖大学群为核心实施区）。
 > - **问题背景** 日本高校长期受制于国立大学公务员体制僵化约束，教授不得在企业兼职，科研专利多属国家所有且流转程序繁琐，导致东京湾区丰富的基础科研成果被束之高阁，无法有效支撑 1990 年代日本经济泡沫破裂后的产业技术转型。
 > - **制度位置** 效仿美国 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》的日本版本核心支柱立法，直接催化了 2004 年日本国立大学法人化改革。

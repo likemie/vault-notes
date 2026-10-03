@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_display_title: "Chapter six: Academic scientific community"
 argument_kind: "book-chapter"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -57,6 +57,7 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Grandes Ecoles]]"
   - "[[Evidence Standards]]"
+  - "[[Big Science]]"
   - "[[Academic Engagement]]"
   - "[[Knowledge Transfer]]"
 related_theories:
@@ -400,7 +401,7 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 > - **启迪未来 STEM 人才管道（Inspiring the next generations）**
 >   通过科研人员的亲身示范，点燃来自多元背景青少年的科学好奇心，为国家储备未来的优秀学者、工程师与科学教育工作者。
 > - **外部奖项竞争力与社会慈善吸纳（External recognition and philanthropy）**
->   卓越的公众参与能够极大提升大学学术成果的社会能见度，进而显著增加赢得国家重大科学奖项的概率，并有力吸引高净值个人与社会基金会的慷慨慈善支持。
+>   卓越的公众参与能够极大提升大学学术成果的社会能见度，进而显著增加赢得国家重[[Big Science|大科学]]奖项的概率，并有力吸引高净值个人与社会基金会的慷慨慈善支持。
 
 有效而高质量的科学参与不仅是一项独立的对外沟通，更必须与大学整体的外部利益相关者发展战略（Stakeholder engagement strategies）深度对齐，借助公众对科学成果的广泛拥护与支持，进而形成反向驱动国家政策制定者的强有力战略杠杆（p. 102）。
 

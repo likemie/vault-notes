@@ -11,7 +11,7 @@ summary: "以解释学与建构主义为认识论基础，在自然情境中通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 96
+method_related_count: 97
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Hypothesis]]"
   - "[[Causality]]"
+  - "[[Big Science]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Complexity Theory]]"
@@ -126,7 +127,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-05
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Qualitative Research
@@ -331,5 +332,5 @@ Miller 关于新任[[Grandes Ecoles|大学校]]长第一年经历的博士论文
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 详尽规范质性研究九大特征、数据收集类型、七步分析规程与效度检验策略。
 > - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 统计分析顶级教育心理学期刊中质性研究的增长趋势，警示质性[[Recommendations for Practice\|实践建议]]中的[[Causality\|因果推断]]边界。
 > - [[Argument_Edmondson_2005_EPAA\|Edmondson (2005)]] — 结合 Shannon (1991) 沟通性政策研究框架，阐发质性探究在打开政策协商黑箱中的独特价值，并深刻反思国家官方专家委员会以“科学共识”为名对质性研究的系统性排斥。
-> - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] — 详实回顾美国联邦立法中质性研究遭遇卡斯尔草案（H.R. 4875）贬为“初步形式”的历史公案，论证如何依据[[National Research Council|国家研究委员会]]（NRC）六大科学原则打破量化/质性二元对立，推动确立“方法契合所提问题”的原则。
+> - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] — 详实回顾美国联邦立法中质性研究遭遇卡斯尔草案（H.R. 4875）贬为“初步形式”的历史公案，论证如何依据[[National Research Council|国家研究委员会]]（NRC）六[[Big Science|大科学]]原则打破量化/质性二元对立，推动确立“方法契合所提问题”的原则。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 在比较教育学方法论史综述中，引用斯塔克 (1995) 对量化/质性研究取向根本差异的经典界定，将其纳入学科从方法论单一性走向 26 种理论并存的[[Pluralism|多元主义]]演进叙事之中。

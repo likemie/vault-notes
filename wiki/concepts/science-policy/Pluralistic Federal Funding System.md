@@ -10,7 +10,7 @@ aliases:
 summary: "二战后美国形成的由国家科学基金会（NSF）与国防部（ONR/DARPA）、能源部（AEC/DOE）、卫生与公众服务部（NIH）、宇航局（NASA）等多家任务导向型联邦机构共同构成的去中心化科研资助体制；突破了布什报告设想的单一集权基金会模式，各机构采用多元评审标准与差异化使命，为大学研究人员提供了多重资助申请渠道与高风险学术容错空间。"
 type: concept
 domain: "science-policy"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ tags:
   - governance/research-funding
   - policy/funding-allocation
 related_concepts:
+  - "[[Big Science]]"
   - "[[Megascience Installations]]"
   - "[[Technology Transfer]]"
   - "[[Research Universities]]"
@@ -127,7 +128,7 @@ updated: 2026-10-03
 >   罗斯福总统设立国家国防研究委员会（NDRC）与[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（OSRD），由[[Vannevar Bush|万尼瓦尔·布什]]统帅；开创性打破政府自建机构旧规，直接与大学签订研发合同，设立 MIT [[MIT Radiation Laboratory|辐射实验室]]与芝加哥大学冶金实验室，动员大学顶级科学家攻坚雷达与曼哈顿工程，确立了学术研究的战略价值。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
 > - **战后博弈与多元成型（1945–1950）— 填补真空与多路并进**
 >   布什呈递《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》呼吁设立单一基金会，但杜鲁门总统否决了缺乏行政问责的法案；在长达五年的立法僵局中，[[Office of Naval Research|海军研究办公室]]（ONR, 1946）、原子能委员会（AEC, 1946）及国立卫生研究院（NIH, 1947）等任务型机构率先向大学常规注入基础科研资金；1950 年 [[National Science Foundation|NSF]] 妥协成立，多元联邦资助格局正式定型。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]
-> - **冷战繁荣与大科学扩展（1950–1975）— 人造卫星危机与体制升级**
+> - **冷战繁荣与[[Big Science|大科学]]扩展（1950–1975）— 人造卫星危机与体制升级**
 >   1957 年苏联发射 [[Sputnik Shock 1957|Sputnik]] 卫星引发全美震动，NSF 预算两年内激增 250%；国会通过《[[National Defense Education Act of 1958|1958年国防教育法]]案》（NDEA）赋予 NSF 科学课程改革与研究生资助使命；联邦设立由大学托管的[[Federally Funded Research and Development Centers|联邦资助研发中心]]（FFRDC，如伯克利实验室、费米实验室），构筑国家级[[Megascience Installations|大科学装置]]共享网络。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 37–39)]]
 > - **产学协同与现代重组（1975 年至今）— 危机纠偏与[[Technology Transfer|技术转移]]**
 >   越战后尼克松裁撤科学顾问引发政学危机；福特总统签署法案正式设立白宫[[Office of Science and Technology Policy|科学技术政策办公室]]（OSTP, 1976）恢复顶层协调；面对经济滞胀，NSF 试点[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（I/UCRC），国会通过 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》赋予大学专利所有权，形成纯基础探索（NSF）与战略使命资助（[[National Institutes of Health|NIH]]/DOD/[[Department of Energy|DOE]]）并行的成熟多元生态。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 39–42)]]

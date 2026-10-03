@@ -39,7 +39,6 @@ related_persons: []
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
   - "[[University Industry Demonstration Partnership]]"
-  - "[[Investing in Innovation Program]]"
 related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch10_Swick_Jones_2025|Ch10_Swick_Jones_2025]]"
@@ -53,7 +52,7 @@ title: "Argument_Swick_Jones_2025_AcademicHealthSystems"
 argument_key: "Argument_Swick_Jones_2025_AcademicHealthSystems"
 argument_display_title: "The unique role of academic health systems in facilitating innovative UI partnerships"
 argument_kind: "book"
-argument_related_count: 24
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -147,7 +146,7 @@ citation_aliases:
 ### 第三步：AHS 在产学合作中面临七重结构性挑战，恰恰构成了产学合作不可替代的论证
 
 > [!warning] 挑战一：创新的成本
-> 医院大部分收入来自与私人保险公司和公共支付方（Medicare、Medicaid）谈判达成的价格协议(pp.183–184)。2023 年利润率分析显示医院利润率从 −6.8% 到 12.2%，许多医院处于亏损或微利状态，有时必须延迟或放弃对直接有益于患者的新技术的投资。如果达不到收支平衡，医院就会消亡，在农村地区这一问题尤为普遍。但与此同时，医院必须投资新技术以保持竞争力。在这种利润挤压下，独立的[[Investing in Innovation Program\|创新投资]]，尤其商业化前景不确定的早期创新，很难获得内部资源支持。
+> 医院大部分收入来自与私人保险公司和公共支付方（Medicare、Medicaid）谈判达成的价格协议(pp.183–184)。2023 年利润率分析显示医院利润率从 −6.8% 到 12.2%，许多医院处于亏损或微利状态，有时必须延迟或放弃对直接有益于患者的新技术的投资。如果达不到收支平衡，医院就会消亡，在农村地区这一问题尤为普遍。但与此同时，医院必须投资新技术以保持竞争力。在这种利润挤压下，独立的创新投资，尤其商业化前景不确定的早期创新，很难获得内部资源支持。
 
 ---
 

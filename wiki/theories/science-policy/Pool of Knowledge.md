@@ -8,10 +8,10 @@ aliases:
 summary: "万尼瓦尔·布什在1945年布什报告中提出的科学政策基石理论；将大学自由探索的基础研究比作国家知识蓄水池，为工业界的应用技术创新提供活水，从非排他性与非竞争性的公共品属性论证了由联邦财政全面承担大学基础研究资助的正当性。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 23
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 24
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theme/science-policy
   - theme/innovation
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Linear Model of Innovation]]"
   - "[[Return on Investment]]"
+  - "[[Market Failure]]"
   - "[[Research Universities]]"
   - "[[Hypothesis]]"
   - "[[Application Engineering]]"
@@ -65,7 +66,7 @@ updated: 2026-10-03
 > - **知识位置** 承袭公共品经济学思想，构成了战后美国[[Linear Model of Innovation|线性创新模型]]（Linear Model of Innovation）与《[[Science, The Endless Frontier 1945|无尽的前沿]]》科学契约的理论基石。
 
 > [!claim] 核心判断
-> 基础科学研究并不追求即时的商业开发，而是不断充实和补给一个国家乃至全人类共享的“知识蓄水池”（Pool of Knowledge）；由于基础研究成果高度公开、非专有且非排他，“任何人都可以从中汲水”，私营企业无法在市场上独占其[[Return on Investment|投资回报]]，因而存在严重的市场失灵，必须由联邦政府将大学基础研究作为国家战略公共品予以全额长效资助。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]
+> 基础科学研究并不追求即时的商业开发，而是不断充实和补给一个国家乃至全人类共享的“知识蓄水池”（Pool of Knowledge）；由于基础研究成果高度公开、非专有且非排他，“任何人都可以从中汲水”，私营企业无法在市场上独占其[[Return on Investment|投资回报]]，因而存在严重的[[Market Failure|市场失灵]]，必须由联邦政府将大学基础研究作为国家战略公共品予以全额长效资助。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]
 
 ---
 
@@ -94,7 +95,7 @@ updated: 2026-10-03
 > |---|---|---|
 > | **知识蓄水池（Pool of Knowledge）** | 概念／隐喻 | 汇聚公开、非排他性基础科学原理与实证发现的公共知识存量。 |
 > | **公共品属性（Public Good Nature）** | 机制 | 基础科研成果通过期刊与学术会议公开共享，私人投资者难以排他垄断收益的经济学属性。 |
-> | **市场失灵（Market Failure in Basic R&D）** | 机制 | 私营企业出于短期财务核算必然严重削减基础科研投入，造成全社会知识供给不足的系统失灵。 |
+> | **[[Market Failure\|市场失灵]]（Market Failure in Basic R&D）** | 机制 | 私营企业出于短期财务核算必然严重削减基础科研投入，造成全社会知识供给不足的系统失灵。 |
 > | **大学-工业共生界面（Academia-Industry Interface）** | 构架 | 大学负责向知识池注水，工业界负责引水转化为产品，两者在分工中形成动态互补。 |
 
 ---

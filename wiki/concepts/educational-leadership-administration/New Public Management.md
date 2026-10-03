@@ -7,10 +7,10 @@ aliases:
 summary: "以企业管理与市场竞争逻辑重塑公共部门的治理范式，强调绩效指标、产出控制、性价比核算、供给竞争、管理问责与服务外包，在带来微观成本控制的同时导致公共部门去技能化与创新治理的青蛙视角"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 48
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 51
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - new-public-management
   - governance
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Lead-and-Learn Paradigm]]"
   - "[[Public Value]]"
   - "[[Reflexivity]]"
+  - "[[Market Failure]]"
   - "[[Market Shaping and Creating]]"
   - "[[Source of Knowledge]]"
   - "[[Consultocracy]]"
@@ -43,6 +44,7 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[School Leadership]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Grand Challenges]]"
   - "[[Critical Pedagogy]]"
   - "[[Evidence Era]]"
   - "[[Internationalization of Higher Education]]"
@@ -50,6 +52,7 @@ related_theories:
   - "[[Human Capital Theory]]"
   - "[[Governing at a Distance]]"
 related_methods:
+  - "[[Cost-Benefit Analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Analytic Framework]]"
   - "[[Correlational Research]]"
@@ -85,7 +88,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> **新公共管理（New Public Management, NPM）**是自 20 世纪 80 年代起席卷西方公共行政、教育系统与创新治理的宏观改革[[Paradigm|范式]]，主张将私营部门的企业管理逻辑、市场竞争机制、外包体系与投入产出核算全面引入公共部门。其核心特征包括确立量化绩效标准与基准测试、强化产出控制而非专业过程投入、推动公共机构供给竞争、建立严格的管理主义问责制，以及追求严格的性价比（Value for Money, VfM）。在科技与创新政策领域，NPM 将公共部门定位于被动的“支持与衡量”（Support-and-Measure）角色，过度依赖微观成本收益分析与外部咨询外包，导致公共机构产生深层的组织[[Cognitive Deskilling|去技能化]]与“青蛙视角”（Frog View）。[[Argument_Møller_2017_EERJ|(Møller, 2017, pp. 381–382)]]; [[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 89–91)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 791–792, 797–798)]]
+> **新公共管理（New Public Management, NPM）**是自 20 世纪 80 年代起席卷西方公共行政、教育系统与创新治理的宏观改革[[Paradigm|范式]]，主张将私营部门的企业管理逻辑、市场竞争机制、外包体系与投入产出核算全面引入公共部门。其核心特征包括确立量化绩效标准与基准测试、强化产出控制而非专业过程投入、推动公共机构供给竞争、建立严格的管理主义问责制，以及追求严格的性价比（Value for Money, VfM）。在科技与创新政策领域，NPM 将公共部门定位于被动的“支持与衡量”（Support-and-Measure）角色，过度依赖微观[[Cost-Benefit Analysis|成本收益分析]]与外部咨询外包，导致公共机构产生深层的组织[[Cognitive Deskilling|去技能化]]与“青蛙视角”（Frog View）。[[Argument_Møller_2017_EERJ|(Møller, 2017, pp. 381–382)]]; [[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, pp. 89–91)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 791–792, 797–798)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向以市场化、分权化与量化控制为内核的公共部门重构，将公共机构定位为自主竞争的交付主体，将公众与学生重构为公共服务消费者。
@@ -116,7 +119,7 @@ updated: 2026-10-03
 > |---|---|---|---|
 > | **核心价值取向** | 成本效益、投入产出效率与市场竞争活力 | 规则合法性、程序正义与科层等级稳定 | 宏观方向引导、[[Public Value\|公共价值创造]]与系统转型 |
 > | **控制与评价机制** | 量化[[Performance Indicators\|绩效指标]]（KPIs）、督导评级与短期成本收益分析（CBA） | 严格行政规程审查与资历标准 | 敏捷原型迭代、全流程动态[[Reflexivity\|反思性]]评估与用户共创 |
-> | **公共机构角色** | 市场失灵被动修补者、合约采购方与外包监管者 | 法定规则执行者与公共秩序维护者 | [[Market Shaping and Creating\|市场塑造]]者与共创者、具备探索与学习动态能力的主体 |
+> | **公共机构角色** | [[Market Failure\|市场失灵]]被动修补者、合约采购方与外包监管者 | 法定规则执行者与公共秩序维护者 | [[Market Shaping and Creating\|市场塑造]]者与共创者、具备探索与学习动态能力的主体 |
 > | **对待失败与风险** | 零容忍失败，将项目受挫视为行政失职与资金浪费 | 规避程序性违规，追求行政稳妥 | 视探索性失败为组织学习与能力积累的必要对价 |
 > | **专业[[Source of Knowledge\|知识来源]]** | 核心战略与评估大规模外包给私营咨询公司（[[Consultocracy\|顾问统治]]） | 内部通才官僚科层体系 | 机构内部跨学科专才团队与多元去中心化探索网络 |
 
@@ -208,7 +211,7 @@ updated: 2026-10-03
 > | **专业自主与问责重塑** | 量化绩效与管理主义问责替代专业[[Phronesis\|实践智慧]]与育人审议，规训[[School Leadership\|学校领导]]者 | 基础教育学校领导、督导评级与课程交付 | Møller; Eacott |
 > | **高等教育市场化与分层** | 财政紧缩倒逼大学企业化运营与国际生源商品化，强化资源马太效应 | 高等教育治理、科研评价与跨国教育市场 | Rizvi; Schulze-Cleven et al.; Amos |
 > | **[[Output-Oriented Governance\|循证治理]]与证据异化** | 借循证实践与性价比核算推行分权表象下的集中规训与逆向证据生产 | 教师教育准入资质、核心框架与宏观政策合法化 | Helgetun & Menter |
-> | **公共动态能力剥离与青蛙视角** | 咨询外包导致组织去技能化，微观成本考核扼杀长期高风险探索与系统学习 | 国家科技创新战略、公共部门组织能力与重大挑战治理 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018)]]; [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
+> | **公共动态能力剥离与青蛙视角** | 咨询外包导致组织去技能化，微观成本考核扼杀长期高风险探索与系统学习 | 国家科技创新战略、公共部门组织能力与[[Grand Challenges\|重大挑战]]治理 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018)]]; [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
 
 ---
 
@@ -239,7 +242,7 @@ updated: 2026-10-03
 > > - **[[Governing at a Distance\|远程治理]]批判论** 揭示国家通过绩效基准、督导评价与证据框架实施了更为严密的远程集权控制。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 90–93)]]
 >
 > > [!axis] 成本紧缩效率与国家动态能力构建
-> > 争论外包与成本控制是否削弱了公共部门解决长远重大挑战的核心能力。
+> > 争论外包与成本控制是否削弱了公共部门解决长远[[Grand Challenges|重大挑战]]的核心能力。
 > >
 > > - **NPM 效率论** 认为通过将非核心职能外包给专业咨询机构能够降低行政成本并引入市场竞争。
 > > - **[[Public Dynamic Capabilities|公共动态能力]]论** 揭示 NPM 外包导致了严重的组织[[Cognitive Deskilling|去技能化]]与“青蛙视角”，使公共机构丧失了战略研判、耐性投资与敏捷实验的内在能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 791–798)]]

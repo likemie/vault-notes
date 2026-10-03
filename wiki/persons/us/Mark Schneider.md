@@ -6,7 +6,7 @@ summary: "美国政治学者与教育科研管理专家，曾任美国教育科�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Preregistration]]"
   - "[[Developer-Made Measures]]"
+  - "[[Agile Governance]]"
   - "[[Champ]]"
   - "[[Discipline-Based Theory]]"
   - "[[Positivism]]"
@@ -52,7 +53,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Mark Schneider
@@ -117,7 +118,7 @@ updated: 2026-10-02
 >
 > *Slavin (2014) pointed out that tests made by the developers of interventions are often over-aligned, producing effect sizes often several times larger than those found with independent tests. This can create an illusion of success. To address this, IES supported the creation of EdInstruments, encouraging the use of high-quality, independent measures.*
 
-> [!citation-card] 依托数字平台敏捷试错破解传统试验周期泥潭
+> [!citation-card] 依托数字平台[[Agile Governance|敏捷试错]]破解传统试验周期泥潭
 > 传统的现场随机对照试验耗资数百万美元且耗时数年。曼齐（Jim Manzi）强调快速试错（fail fast）对于创新的决定性意义。IES 通过支持十万级用户数字学习平台与 XPrize 快速复现竞赛，使得原本需要耗费数年的因果检验能够在数周或数月内完成，极大降低了系统试错成本。（p. 208）
 >
 > *Traditional [[Champ\|field]] RCTs can cost millions of dollars and take years. Jim Manzi emphasised the importance of being able to “fail fast” for innovation. By leveraging large-scale digital learning platforms and XPrize replication challenges, IES enables evaluations that once took years to be completed in months.*

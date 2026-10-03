@@ -10,7 +10,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Technology Infusion]]"
   - "[[Research Utilization]]"
   - "[[Automated Data Extraction]]"
+  - "[[General Purpose Technology]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[Publication Bias]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Visible Learning Meta-X
@@ -108,7 +109,7 @@ updated: 2026-09-22
 两类研究者群体主要使用该数据库。第一类是教育政策研究者，利用数据库快速定位特定干预的综合证据，支持学校改进决策与政策优先级排序。第二类是证据综合方法学研究者，将数据库作为[[Meta-meta-analysis|二阶元分析]]的数据来源，检验[[Meta-analysis|元分析]]方法、评估 AI 辅助工具或开展跨国证据比较。
 
 > [!evidence-grid-a] 典型学术应用
-> - **[[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]]** 从数据库随机抽取 156 项[[Academic Achievement\|学业成就]]相关元分析，系统评估三种前沿大语言模型（Gemini 2.5 Pro、GPT-4.1、GPT-o3）在[[Automated Data Extraction\|自动化数据提取]]中的准确性，建立人机混合验证[[Paradigm\|范式]]。
+> - **[[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]]** 从数据库随机抽取 156 项[[Academic Achievement\|学业成就]]相关元分析，系统评估三种前沿大语言模型（Gemini 2.5 Pro、[[General Purpose Technology|GPT]]-4.1、GPT-o3）在[[Automated Data Extraction\|自动化数据提取]]中的准确性，建立人机混合验证[[Paradigm\|范式]]。
 > - **二阶元分析研究** 研究者基于数据库开展主题聚焦的二阶综合（如特定学科教学效果、弱势群体干预效能），汇聚跨元分析的[[Effect Size\|效应量]]变异，检验调节[[Variable\|变量]]与[[Publication Bias\|发表偏倚]]。
 
 ---

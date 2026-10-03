@@ -9,7 +9,7 @@ aliases:
 summary: "美国专利法下共同所有专利的每个所有人拥有等同于商业非排他免版税许可的独立权利，产学合作协议须明确涵盖大学在共同所有前景 IP 中的权利以避免产业方无偿自由商业化"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Foreground IP]]"
   - "[[Hypothesis]]"
+  - "[[Co-invention]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-03
-updated: 2026-09-10
+updated: 2026-10-03
 ---
 
 # Joint Ownership of IP
@@ -65,5 +66,5 @@ updated: 2026-09-10
 
 > [!example]
 > - vs 单独所有：单独所有下所有权人享有完整的排他权；共同所有下每个共同所有人享有独立的商业化权利
-> - 共同所有不等于共同发明的自动结果：谁构成"发明人"由专利法确定（对发明构思有实质性贡献的人），而共同所有是所有权层面的安排
+> - 共同所有不等于[[Co-invention|共同发明]]的自动结果：谁构成"发明人"由专利法确定（对发明构思有实质性贡献的人），而共同所有是所有权层面的安排
 

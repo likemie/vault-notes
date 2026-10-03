@@ -30,6 +30,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Homework]]"
   - "[[Reliability]]"
+  - "[[General Purpose Technology]]"
   - "[[Tracking]]"
   - "[[AI Hallucination]]"
   - "[[Variable]]"
@@ -68,9 +69,9 @@ title: "Argument_Jansen_2026_EPR"
 argument_key: "Argument_Jansen_2026_EPR"
 argument_display_title: "Automated data extraction by large language models: Assessing accuracy in comparison to human experts using the example of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Educational Psychology Review"
 book_title: ""
@@ -93,7 +94,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** 从《[[Visible Learning\|可见的学习]]》数据库（[[Visible Learning Meta-X]]）中随机抽取的 156 项调查学生[[Academic Achievement\|学业成就]]的一阶元分析全文文献（涵盖综合效应量 $d$、纳入研究数 $k$ 与学生样本总量 $N$ 共 468 个目标数据点）。
 > - **张力** 传统证据综合对繁重双人人工[[Homework\|作业]]的高昂成本依赖 vs 大模型全自动提取的不[[Reliability\|可靠性]]与幻觉担忧；单一人类提取被预设为无偏真值 vs 真实科研中人类单方[[Coding in Qualitative Research\|编码]]普遍存在的疲劳漂移与疏漏偏差。
-> - **贡献** 首次在二阶元分析情境下建立多专家两阶段仲裁校准的金标准基准；系统评测三大前沿大语言模型（Gemini 2.5 Pro、GPT-4.1、GPT-o3）与人类专家的准确性矩阵；提出兼顾伦理规范与生产力跃升的有意义人类控制证据综合实操框架。
+> - **贡献** 首次在二阶元分析情境下建立多专家两阶段仲裁校准的金标准基准；系统评测三大前沿大语言模型（Gemini 2.5 Pro、[[General Purpose Technology|GPT]]-4.1、GPT-o3）与人类专家的准确性矩阵；提出兼顾伦理规范与生产力跃升的有意义人类控制证据综合实操框架。
 
 ---
 
@@ -209,7 +210,7 @@ issuing_organization: ""
 通过计算百分比一致率与双向随机效应组内相关系数 $\text{ICC}(2,1)$，研究构建了完整的准确性矩阵。
 
 > [!contrast-table] 编码员与参考标准准确性矩阵（上三角：一致率；下三角：$\text{ICC}(2,1)$）
-> | 评估对象 | 金标准（Gold） | 银标准（Silver） | 独立作者编码 | [[Visible Learning]] | Gemini 2.5 Pro | GPT-4.1 | GPT-o3 |
+> | 评估对象 | 金标准（Gold） | 银标准（Silver） | 独立作者编码 | [[Visible Learning]] | Gemini 2.5 Pro | [[General Purpose Technology\|GPT]]-4.1 | GPT-o3 |
 > |---|---|---|---|---|---|---|---|
 > | **金标准（Gold）** | — | **93%** | **86%** | **80%** | **81%** | **78%** | **77%** |
 > | **银标准（Silver）** | 0.98 | — | 91% | 79% | 84% | 80% | 78% |
@@ -271,7 +272,7 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **前沿大语言模型提取准确性达到人类专家水准** Gemini 2.5 Pro、GPT-4.1 与 GPT-o3 在 156 项教育[[Meta-analysis\|元分析]]中的提取表现（[[Intraclass Correlation Coefficient\|组内相关系数]] ICC = 0.96–0.97，一致率 77%–81%）全面匹敌单一人类专家（ICC = 0.81–0.95，一致率 80%–86%）。（pp. 18–19）
+> 1. **前沿大语言模型提取准确性达到人类专家水准** Gemini 2.5 Pro、[[General Purpose Technology|GPT]]-4.1 与 GPT-o3 在 156 项教育[[Meta-analysis\|元分析]]中的提取表现（[[Intraclass Correlation Coefficient\|组内相关系数]] ICC = 0.96–0.97，一致率 77%–81%）全面匹敌单一人类专家（ICC = 0.81–0.95，一致率 80%–86%）。（pp. 18–19）
 > 2. **事实性幻觉在规范抽取中极为罕见** 在缺失数据的[[Document\|文献]]中，大模型虚构数值的幻觉率仅为 5%–7%（3–4 例），与人类专家的幻觉率完全持平。（p. 18）
 > 3. **提取瓶颈聚焦于多表加总与报告模糊性** 机器与人类的分歧主要源于跨分表被试总数 $N$ 的累加疏漏，以及[[Primary and Secondary Documents\|原始文献]]在摘要与正文中汇报冲突数据时的选择偏好。（pp. 16–18）
 > 4. **确立人机混合验证的帕累托最优[[Paradigm\|范式]]** 双模型初筛结合专家分歧仲裁，在节约 80% 人工劳动的同时，能够有效消除单人提取疏漏并保障[[Meaningful Human Control\|有意义的人类控制]]。（pp. 24–25）
@@ -303,7 +304,7 @@ issuing_organization: ""
 ## 自述局限
 
 > [!warning]
-> 1. **专有闭源黑盒模型依赖** 研究选用了处于技术前沿的专有商业模型（GPT-4.1、Gemini 2.5 Pro 等），模型更新不透明且成本可能变动，研究结论无法直接无缝推广至参数较小的开源本地模型。（pp. 25–26）
+> 1. **专有闭源黑盒模型依赖** 研究选用了处于技术前沿的专有商业模型（[[General Purpose Technology|GPT]]-4.1、Gemini 2.5 Pro 等），模型更新不透明且成本可能变动，研究结论无法直接无缝推广至参数较小的开源本地模型。（pp. 25–26）
 > 2. **训练集数据污染潜在风险** 《[[Visible Learning\|可见的学习]]》部分公开[[Meta-analysis\|元分析]]数据可能存在于大模型的预训练语料中；尽管模型在金标准与原数据库背离时仍能准确提取原文数值证明其具备真实阅读理解能力，但未来仍需在全新的非公开人类共识数据集上进行前瞻性验证。（p. 26）
 > 3. **计算能耗与环境成本考量** 运行 156 篇[[Document\|文献]]的大模型推断约消耗 1.3–2.0 kWh 电力与 5.3 L 淡水蒸发；但相比人工完成相同任务所需的 390 小时工作站能耗与个人用水需求，机器提取的综合环境足迹仍显著更低。
 > 4. **提示词工程对领域专长的依存性** 提示词架构经过教育元分析专家的深度优化与校准，迁移至其他学科（如临床医学）或截然不同的[[Coding in Qualitative Research\|编码]]任务时需要重新标定。（pp. 24–25）

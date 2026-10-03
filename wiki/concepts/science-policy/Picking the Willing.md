@@ -8,7 +8,7 @@ aliases:
 summary: "指使命导向创新政策中摒弃针对个别企业直接补贴的挑选赢家旧模式，转为以重大社会挑战为导向、依托公共动态能力在全经济范围内遴选激励具备转型意愿与协同攻关承诺跨界主体的引领与学习治理机制"
 type: concept
 domain: "science-policy"
-related_count: 23
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Patient Capital]]"
   - "[[Open-Mindedness]]"
   - "[[Technology Readiness Level]]"
+  - "[[Agile Governance]]"
   - "[[Document]]"
   - "[[Opportunist Mode]]"
   - "[[Cognitive Deskilling]]"
@@ -45,6 +46,7 @@ related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
 related_methods:
+  - "[[Cost-Benefit Analysis]]"
   - "[[Correlational Research]]"
 confidence: high
 status: active
@@ -159,7 +161,7 @@ updated: 2026-10-03
 > 传统的行政外包与防错审计模式将意愿者视为被动的合同承包商，扼杀了不确定性探索中的知识沉淀与敏捷响应。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
-> **共创与引领学习命题** 莱纳·[[Rainer Kattel|卡特尔]]与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]指出，挑选意愿者机制的本质是建立国家与社会行动者之间的共创实验网络。公共部门必须摒弃新公共管理被动的“支持与衡量”模式，在国家、政策与行政三层重塑[[Public Dynamic Capabilities|公共部门动态能力]]，践行“引领与学习”[[Paradigm|范式]]，通过持续的用户研究、敏捷试错与全流程组织反思，与意愿者共同开辟与拓展新市场。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–791, 796–798)]]
+> **共创与引领学习命题** 莱纳·[[Rainer Kattel|卡特尔]]与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]指出，挑选意愿者机制的本质是建立国家与社会行动者之间的共创实验网络。公共部门必须摒弃新公共管理被动的“支持与衡量”模式，在国家、政策与行政三层重塑[[Public Dynamic Capabilities|公共部门动态能力]]，践行“[[Lead-and-Learn Paradigm|引领与学习]]”[[Paradigm|范式]]，通过持续的用户研究、[[Agile Governance|敏捷试错]]与全流程组织反思，与意愿者共同开辟与拓展新市场。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–791, 796–798)]]
 
 ---
 
@@ -202,7 +204,7 @@ updated: 2026-10-03
 > > [!axis] [[New Public Management|新公共管理]]防错审计 vs 意愿者探索的容错学习
 > > 争论公共机构在管理意愿者项目时，是否应当沿用微观事前成本效益考核与防错审计。
 > >
-> > - **新公共管理派** 坚持严格的事前成本收益分析（CBA）与防错合规。
+> > - **新公共管理派** 坚持严格的事前[[Cost-Benefit Analysis|成本收益分析]]（CBA）与防错合规。
 > > - **动态能力派** 指出颠覆性创新充满根本不确定性，过于僵化的防错考核会迫使意愿者退守平庸的渐进改进，必须建立容忍早期失败并激励自适应学习的治理环境。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–798)]]
 
 > [!warning] 适用局限与能力边界

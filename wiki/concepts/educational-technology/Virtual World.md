@@ -7,10 +7,10 @@ aliases:
 summary: "计算机生成的模拟环境，参与者通过化身互动并共创世界，为教育研究提供安全、匿名和沉浸式的敏感议题探索空间"
 type: concept
 domain: "educational-technology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - educational-technology
   - research-methodology
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Presence]]"
   - "[[Determinism]]"
+  - "[[Grand Challenges]]"
   - "[[Hypothesis]]"
   - "[[Sensitive Research]]"
   - "[[Informed Consent]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Virtual World
@@ -176,7 +177,7 @@ updated: 2026-09-22
 ### 实践层面的挑战
 
 > [!weakness] 用户接受度与参与持续性
-> - **用户接受度** 尽管虚拟世界具有视觉和概念吸引力，用户接受度仍是需要克服的最重大挑战之一（Fetscherin & Lattemann, 2007）。
+> - **用户接受度** 尽管虚拟世界具有视觉和概念吸引力，用户接受度仍是需要克服的最[[Grand Challenges|重大挑战]]之一（Fetscherin & Lattemann, 2007）。
 > - **参与持续性** 时间约束、虚拟世界的相对复杂性和带宽需求（导致操作缓慢）是持续参与的最大障碍（Jarmon et al., 2009）。
 > - **技术与培训门槛** 研究者和参与者都需要足够的虚拟环境使用专业知识，培训可能是前提条件。硬件、带宽和机构网络防火墙也构成障碍。
 

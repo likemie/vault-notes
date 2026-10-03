@@ -11,7 +11,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Network Ethnography]]"
+  - "[[Cost-Benefit Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Keith Morrison]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-03
 ---
 
 # National Education Evidence Base Inquiry
@@ -107,7 +108,7 @@ updated: 2026-09-18
 > > 探讨生产力委员会作为传统上超脱党派利益的经济分析机关，在此次审查中是否沦为特定社会创投资本的政策通道。
 > >
 > > - **[[Network Ethnography\|网络民族志]]批判视角（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）** 埃玛·罗威（Emma Rowe）揭示，这项看似独立的经济学审查，在本质上是麦肯锡系风险慈善枢纽 [[Social Ventures Australia\|SVA]] 长期组织游说的关键跳板。联邦政府在启动审查的同时，直接任命 SVA 董事出任主持该调查的专员；而 SVA 提交的 50 页意见书与委员会最终报告的结论呈现惊人的重合度，均将英国 [[Education Endowment Foundation\|EEF]] 列为唯一可行的榜样。通过这种隐蔽的“[[Co-affiliation\|共同从属]]”（co-affiliation）操作，SVA 成功将其自设的试验原型 [[Evidence for Learning\|E4L]] 上升为国家法定义程，实质上借国家最高经济审查机构的公信力，掩盖了私营资本深度介入国家教育科研的诉求（pp. 3, 7）。
-> > - **官方技术官僚视角** 认为生产力委员会以严密的成本收益分析见长，其引入英美证据机构的提议是基于对国际有效治理经验的客观学习，打破了澳洲教育科研碎片化与资金浪费的痼疾。
+> > - **官方技术官僚视角** 认为生产力委员会以严密的[[Cost-Benefit Analysis|成本收益分析]]见长，其引入英美证据机构的提议是基于对国际有效治理经验的客观学习，打破了澳洲教育科研碎片化与资金浪费的痼疾。
 
 ---
 

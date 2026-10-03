@@ -7,7 +7,7 @@ aliases:
 summary: "由英国警务有效性中心推行的五维证据评价与质评量规矩阵，涵盖效应（Effect）、机制（Mechanism）、调节变量（Moderator）、实施（Implementation）与经济学评价（Economics）五个维度，各维度配备0–4级质评评分锚点，推动证据标准从单一效应量等级向多维因果机制与情境适切性量规演进。"
 type: instrument
 instrument_type: rubric
-instrument_related_count: 40
+instrument_related_count: 41
 instrument_related_level: 6
 instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
 instrument_related_color: "#fecdd3"
@@ -68,6 +68,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Mechanism Experiments]]"
   - "[[Meta-regression]]"
+  - "[[Cost-Benefit Analysis]]"
 related_instruments: []
 related_persons:
   - "[[David Gough]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-26
+updated: 2026-10-03
 ---
 
 # EMMIE Framework
@@ -190,7 +191,7 @@ updated: 2026-09-26
 > | **0 级** | 无经济学信息 | 完全未提及干预的资金成本、资源消耗或经济收益 | 无成本数据报告 |
 > | **1 级** | 基础财务成本 | 仅报告了项目直接预算或单次购买价格，未核算间接成本与实施维持投入 | 单纯直接支出清单 |
 > | **2 级** | 成本效果分析 | 计算了获得单位产出改善的平均成本（Cost-Effectiveness Analysis, CEA），未做货币化收益转化 | 规范的成本效果比核算 |
-> | **3 级** | 规范成本效益核算 | 开展正规的成本效益分析（Cost-Benefit Analysis, CBA）或成本效用分析，折现计算净现值（NPV） | 具备贴现与货币化收益的 CBA |
+> | **3 级** | 规范成本效益核算 | 开展正规的[[Cost-Benefit Analysis\|成本效益分析]]（Cost-Benefit Analysis, CBA）或成本效用分析，折现计算净现值（NPV） | 具备贴现与货币化收益的 CBA |
 > | **4 级** | 全面社会效益评价 | 纳入多部门社会溢出效应与长期沉没成本，完成严格的蒙特卡洛敏感性分析与边际分析 | 跨部门综合经济学评价与敏感性检验 |
 
 ---

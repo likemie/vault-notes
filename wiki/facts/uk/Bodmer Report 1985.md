@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - theme/public-engagement
   - level/national-policy
 related_concepts:
+  - "[[Big Science]]"
   - "[[Scientific Literacy]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Public Engagement with Science]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-10-03
 ---
 
 # Bodmer Report 1985
@@ -45,7 +46,7 @@ updated: 2026-08-22
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1985 年由英国皇家学会（The Royal Society）设立的专门委员会发布，委员会由人类遗传学家[[Walter Bodmer\|瓦尔特·博德默尔]]爵士（Sir Walter Bodmer）主持。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 4–5)]]
 > - **适用地区 / 对象** 英国全体科研机构、大学、科学界、中小学校及政策制定者。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 4–5)]]
-> - **问题背景** 二战后科技与产业日益成为国家繁荣与公众生活的核心，但公众与科学界之间存在严重的认知隔阂与信任赤字；科学知识普及主要依赖极少数科普作家，广大科学家缺乏制度化的公共沟通激励。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 5)]]
+> - **问题背景** 二战后科技与产业日益成为国家繁荣与公众生活的核心，但公众与科学界之间存在严重的认知隔阂与信任赤字；科学知识普及主要依赖极少数科普作家，广[[Big Science|大科学]]家缺乏制度化的公共沟通激励。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 5)]]
 > - **制度位置** 英国战后最重要的科学政策里程碑之一，奠定了后续数十年英国科学传播、科研基金申请要求与中小学必修科学课程改革的基调。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 4)]]
 
 ---

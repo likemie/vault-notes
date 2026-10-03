@@ -55,7 +55,7 @@ related_facts:
   - "[[Sound Partners]]"
   - "[[Reading Rescue]]"
   - "[[SPARK Literacy]]"
-  - "[[SMART]]"
+  - "[[Start Making a Reader Today]]"
   - "[[Number Rockets]]"
   - "[[Fraction Face-Off!]]"
   - "[[ROOTS]]"
@@ -75,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-10-03
 ---
 
 # Response to Proven Instruction
@@ -210,7 +210,7 @@ updated: 2026-09-17
 > | **一对一辅导：助教（Tier 3）** | [[Sound Partners]] | K–1 年级 | 教学助教 | 2 项 | $+0.43$ | 强证据（Strong） |
 > | **一对一辅导：助教（Tier 3）** | [[Reading Rescue]] | 1 年级 | 教学助教 | 1 项 | $+0.81$ | 中等证据（Moderate） |
 > | **一对一辅导：有偿志愿者（Tier 3）** | [[SPARK Literacy]] | K–2 年级 | 受训志愿者 | 1 项 | $+0.51$ | 强证据（Strong） |
-> | **一对一辅导：有偿志愿者（Tier 3）** | [[SMART]] | 1–2 年级 | 受训志愿者 | 1 项 | $+0.42$ | 强证据（Strong） |
+> | **一对一辅导：有偿志愿者（Tier 3）** | [[Start Making a Reader Today]] | 1–2 年级 | 受训志愿者 | 1 项 | $+0.42$ | 强证据（Strong） |
 
 > [!contrast-table]- 数学领域符合 ESSA 强/中证据标准的 RTPI 代表性方案（[[Argument_Slavin_2019_EP\|Slavin, 2019, Table 2]]）
 > | 层级与模式 | 代表项目名称 | 验证学段 | 师资类型 | 研究数 | 平均效应量（$ES$） | ESSA 证据等级 |

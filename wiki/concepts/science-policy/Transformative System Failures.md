@@ -10,7 +10,7 @@ aliases:
 summary: "指阻碍创新系统自发实现社会技术转型与应对重大挑战的四类根本性制度失灵"
 type: concept
 domain: "science-policy"
-related_count: 16
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,12 +22,15 @@ tags:
   - science-policy
 related_concepts:
   - "[[Mission-Oriented Innovation Policy]]"
+  - "[[Market Failure]]"
+  - "[[Directionality of Innovation]]"
   - "[[Reflexivity]]"
   - "[[Paradigm]]"
   - "[[Technology Transfer]]"
   - "[[Document]]"
   - "[[Public Value]]"
   - "[[Problem of Many Hands]]"
+  - "[[Grand Challenges]]"
   - "[[Heterogeneity]]"
   - "[[Reflexive Governance]]"
   - "[[Problem Finding]]"
@@ -58,12 +61,12 @@ updated: 2026-10-03
 > [!concept-lens] 概念透镜
 > - **含义** 标识出超越传统市场机制与研发网络范畴、阻碍社会–技术系统发生根本性可持续转型的四类深层系统功能障碍。
 > - **用途** 为国家与区域创新政策从关注单纯的经济增长与产出效率，转向主动设定社会转型方向提供学理依据与诊断工具。
-> - **边界** 严格区别于新古典经济学的市场失灵与[[Evolutionary Economics|演化经济学]]的结构性系统失灵；它聚焦于重大社会挑战治理中的转型阻力。
+> - **边界** 严格区别于新古典经济学的[[Market Failure|市场失灵]]与[[Evolutionary Economics|演化经济学]]的结构性系统失灵；它聚焦于重大社会挑战治理中的转型阻力。
 
 > [!citation-card] 变革性系统失灵与使命政策的干预基石
 > 传统创新政策主要针对市场失灵或结构性系统失灵。而在应对重大社会挑战时，政策干预的根本任务转向克服变革性系统失灵，特别是弥补方向性缺失、需求表达不足、反思能力薄弱以及跨部门跨层级协调失灵。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
 >
-> *A major part of mission-oriented innovation policy lies in ensuring legitimacy, broad engagement, and overcoming transformative system failures, including a lack of directionality, a lack of demand articulation, limited [[Reflexivity]], and missing coordination across policy domains and levels.*
+> *A major part of mission-oriented innovation policy lies in ensuring legitimacy, broad engagement, and overcoming transformative system failures, including a lack of [[Directionality of Innovation|directionality]], a lack of demand articulation, limited [[Reflexivity]], and missing coordination across policy domains and levels.*
 
 > [!boundary]- 概念边界
 > - 不等于 **市场失灵（Market Failures）** — 市场失灵聚焦公共品供给不足、知识外溢与信息不对称，预设政策干预应保持中立；变革性系统失灵则强调必须确立明确的社会价值导向。
@@ -74,7 +77,7 @@ updated: 2026-10-03
 ## 概念辨析
 
 > [!contrast-table] 三代创新政策的失灵诊断与干预[[Paradigm|范式]]对比
-> | 维度 | 市场失灵（第一代范式） | 结构性系统失灵（第二代范式） | 变革性系统失灵（第三代范式） |
+> | 维度 | [[Market Failure\|市场失灵]]（第一代范式） | 结构性系统失灵（第二代范式） | 变革性系统失灵（第三代范式） |
 > |---|---|---|---|
 > | **核心关切** | 研发投资不足与知识外溢 | 产学研网络割裂与制度阻滞 | 重大社会挑战与不可持续发展锁定 |
 > | **失灵根源** | 价格机制无法内部化外部性 | [[Systems of Innovation\|创新系统]]内部构件连接不畅 | 缺乏转型方向、需求表达与反思机制 |
@@ -86,7 +89,7 @@ updated: 2026-10-03
 ## 核心要素
 
 > [!feature] 变革性系统失灵的四大核心维度
-> - **方向性失灵（Directionality Failure）** 系统缺乏共享的集体转型愿景与明确的优先发展目标，研发投资与创新活动在多种竞争性技术路线中缺乏战略聚焦与[[Public Value|公共价值]]牵引。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
+> - **方向性失灵（[[Directionality of Innovation|directionality]] Failure）** 系统缺乏共享的集体转型愿景与明确的优先发展目标，研发投资与创新活动在多种竞争性技术路线中缺乏战略聚焦与[[Public Value|公共价值]]牵引。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
 > - **需求表达失灵（Demand Articulation Failure）** 公众、用户与下游采购者的前瞻性社会需求无法有效聚合，难以形成能够拉动新兴绿色与健康技术的市场信号与公共采购机制。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
 > - **政策协调失灵（Policy Coordination Failure）** 科技、环保、产业与财政等不同部委之间以及中央与地方政府之间政策目标脱节，陷入[[Problem of Many Hands|多手难题]]与管辖权冲突。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–477)]]
 > - **[[Reflexivity|反思性]]失灵（Reflexivity Failure）** [[Systems of Innovation|创新系统]]缺乏常态化的监测评估、社会学习与纠偏通道，容易忽视外部环境变化并过早陷入次优技术的路径锁定。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475, 485)]]
@@ -134,7 +137,7 @@ updated: 2026-10-03
 > 探讨创新政策如何从修正局部市场与网络缺陷，拓展为对经济社会系统整体转型方向的主动塑造与制度赋权。
 
 > [!claim] Weber, K. M. & Rohracher, H.
-> **转型失灵作为方向性干预的理论基石** 传统政策工具仅能提升创新效率，却无法解决创新的方向性问题。应对重大挑战必须同时克服方向性、需求表达、政策协调与[[Reflexivity|反思性]]四大失灵，这要求政策制定者超越被动弥补者角色，成为系统转型的战略引导者与架构搭建者。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
+> **转型失灵作为方向性干预的理论基石** 传统政策工具仅能提升创新效率，却无法解决[[Directionality of Innovation|创新的方向性]]问题。应对[[Grand Challenges|重大挑战]]必须同时克服方向性、需求表达、政策协调与[[Reflexivity|反思性]]四大失灵，这要求政策制定者超越被动弥补者角色，成为系统转型的战略引导者与架构搭建者。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
 
 > [!claim] Wanzenböck, I. et al.
 > **两端解构框架下的失灵诊断应用** 在问题与解决方案构成的二维空间中，四大失灵在不同象限呈现出[[Heterogeneity|异质性]]表现。例如在寻找问题的方案情境中，反思性失灵极易引发技术推力受阻；而在迷失状态情境中，方向性与协调失灵则是导致政策停滞的主因。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 478–481)]]
@@ -164,7 +167,7 @@ updated: 2026-10-03
 ## 概念演变
 
 > [!dev-timeline] 创新政策失灵理论演变
-> - **1962 — 市场失灵理论确立** 肯尼斯·阿罗（Kenneth Arrow）阐释研发活动的外部性与不确定性，确立第一代创新政策的补贴与知识产权逻辑。
+> - **1962 — [[Market Failure|市场失灵理论]]确立** 肯尼斯·阿罗（Kenneth Arrow）阐释研发活动的外部性与不确定性，确立第一代创新政策的补贴与知识产权逻辑。
 > - **1990s–2000s — 结构性系统失灵提出** [[Evolutionary Economics|演化经济学]]家提出国家[[Systems of Innovation|创新系统]]框架，聚焦组织间网络联系薄弱与制度基础设施不足等第二代失灵。
 > - **2012 — 变革性系统失灵正式建构** 韦伯与罗拉赫在 *Research Policy* 提出涵盖方向性、需求表达、协调与[[Reflexivity|反思性]]的四大失灵框架，奠定第三代转型创新政策理论基础。
 > - **2020 — 使命政策空间与动态路径整合** 万岑伯克等人将四大失灵融入问题–解决方案空间，提出通过差异化收敛路径克服特定系统失灵的治理策略。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–485)]]

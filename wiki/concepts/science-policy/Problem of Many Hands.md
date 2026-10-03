@@ -8,7 +8,7 @@ aliases:
 summary: "指在多元行动者共同参与的复杂决策网络中，由于权责分散导致无法将结果归咎于任何单一主体的责任困境"
 type: concept
 domain: "science-policy"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
   - responsibility
   - science-policy
 related_concepts:
+  - "[[Grand Challenges]]"
   - "[[Document]]"
   - "[[Multiplicity]]"
   - "[[Emergence]]"
@@ -52,7 +53,7 @@ updated: 2026-10-03
 > - **边界** 严格区别于心理学上的旁观者效应（Bystander Effect）与经济学中的搭便车困境；它聚焦于复杂科层与网络制度设计所内生的责任归因断裂。
 
 > [!citation-card] 跨部门协作中的责任界定困境
-> 当一项重大挑战需要横跨多个不同行动者、政策领域与行政治理层级共同协作时，行动或不行动的责任往往极难界定，从而在复杂的公共政策过程中引发典型的多手难题。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 476–477)]]
+> 当一项[[Grand Challenges|重大挑战]]需要横跨多个不同行动者、政策领域与行政治理层级共同协作时，行动或不行动的责任往往极难界定，从而在复杂的公共政策过程中引发典型的多手难题。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 476–477)]]
 >
 > *Responsibilities for action or non-action are hard to determine, causing a 'problem of many hands' especially if multiple actors, policy domains, and governance levels need to cooperate.*
 
@@ -130,7 +131,7 @@ updated: 2026-10-03
 > 探讨多手难题如何加剧重大社会挑战的结构复杂性，并阻碍政策从发散走向收敛。
 
 > [!claim] Wanzenböck, I. et al.
-> **多手难题加剧社会挑战的发散性** 在解构重大挑战的复杂性维度时，多手难题是导致[[Problem Finding|问题界定]]与方案选择长期陷入发散的核心根源之一。例如在荷兰风电发展与农业转型中，由于中央能源部、地方市镇政府、环保部门与电网企业各司其职又互不统属，导致规划指标在长达数年内因管辖权冲突无法落地，必须借助国家级多方协议平台重新理顺权责分工。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 476–477, 484–485)]]
+> **多手难题加剧社会挑战的发散性** 在解构[[Grand Challenges|重大挑战]]的复杂性维度时，多手难题是导致[[Problem Finding|问题界定]]与方案选择长期陷入发散的核心根源之一。例如在荷兰风电发展与农业转型中，由于中央能源部、地方市镇政府、环保部门与电网企业各司其职又互不统属，导致规划指标在长达数年内因管辖权冲突无法落地，必须借助国家级多方协议平台重新理顺权责分工。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 476–477, 484–485)]]
 
 ---
 

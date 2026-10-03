@@ -15,8 +15,8 @@ fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
-period: "2010–至今"
-initiator_organization: "密尔沃基男孩女孩俱乐部（Boys & Girls Clubs）/ 全美服务队（AmeriCorps）"
+period: 2010–至今
+initiator_organization: 密尔沃基男孩女孩俱乐部（Boys & Girls Clubs）/ 全美服务队（AmeriCorps）
 tags:
   - reading-intervention
   - primary-education
@@ -40,13 +40,13 @@ related_persons: []
 related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[What Works Clearinghouse]]"
-  - "[[SMART]]"
+  - "[[Start Making a Reader Today]]"
 related_arguments:
   - "[[Argument_Slavin_2019_EP]]"
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-10-03
 ---
 
 # SPARK Literacy
@@ -123,4 +123,4 @@ updated: 2026-09-17
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 SPARK Literacy 评定为初等阅读 Tier 3 志愿者辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释如何通过国家青年志愿服务网络为 Tier 3 个别辅导提供充沛且经济的师资供给。
-> - [[SMART]] — 同属志愿者一对一读写辅导方案，SMART 采用社会无偿义工伴读，SPARK 采用 AmeriCorps 有偿青年全职辅导。
+> - [[Start Making a Reader Today]] — 同属志愿者一对一读写辅导方案，SMART 采用社会无偿义工伴读，SPARK 采用 AmeriCorps 有偿青年全职辅导。

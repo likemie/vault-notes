@@ -10,7 +10,7 @@ aliases:
 summary: "指涉政策网络中的精英行动者跨越政府公权力机构、跨国投资银行、营利性咨询公司、慈善信托基金与智库，同时或先后兼任多重董事会席位、高级顾问或审查专员的拓扑结构；揭示其如何通过多重兼职打破科层界限，促成跨界政策理念与商业资本的隐蔽流通，构筑起去中心化但认识论高度同质的异质治理层级。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Rainer Kattel]]"
   - "[[Stephen Ball]]"
   - "[[Sir Kevan Collins]]"
   - "[[David Gonski]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Co-affiliation
@@ -100,7 +101,7 @@ updated: 2026-10-02
 > |---|---|---|---|
 > | **组织[[Champ\|场域]]跨度** | 跨越国家部委、跨国金融投行、商业咨询与[[Venture Philanthropy\|风险慈善]]基金会 | 主要在政府监管部门与被监管的私营企业之间流动 | 局限于营利性商业企业或跨国公司董事会之间 |
 > | **时间构型特征** | 同时兼任（Concurrent）与先后流动（Sequential）并存，呈现多重从属态 | 严格的线性先后更替（如先为政府高官，后为企业顾问） | 长期或固定任期的同期并存 |
-> | **治理结构产物** | 产生杂合治理与异质层级（[[Policy Network\|heterarchy]]）；模糊公共与私有界限 | 带来监管俘获（Regulatory Capture）与政策寻租 | 形成企业集团卡特尔、行业信息共享或金融资本统摄 |
+> | **治理结构产物** | 产生杂合治理与异质层级（[[Policy Network\|heterarchy]]）；模糊公共与私有界限 | 带来监管俘获（Regulatory Capture）与政策寻租 | 形成企业集团[[Rainer Kattel\|卡特尔]]、行业信息共享或金融资本统摄 |
 > | **核心制度载体** | 非营利担保有限公司章程、咨询委员会名册、基金会理事登记 | 游说机构雇佣合同、企业年薪与离任公函 | 股份上市公司董事会登记档案与证监会申报记录 |
 
 ---

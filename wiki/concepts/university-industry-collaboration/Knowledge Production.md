@@ -7,7 +7,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程；在宏观场域揭示资本偏向、跨国组织自指性指标帝国与高校基础科研体制变迁，在微观教育场域指向学习者在本土协商共同体中依托证据协调与认识论实践自主生成新知并内化说服优于强制的民主审议价值。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 87
+related_count: 88
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -62,6 +62,7 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Research Translation]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Grand Challenges]]"
   - "[[Working Memory]]"
   - "[[Critical Thinking]]"
   - "[[Generative Artificial Intelligence]]"
@@ -116,7 +117,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Knowledge Production
@@ -344,7 +345,7 @@ updated: 2026-10-02
 > > 争论大学知识生产应当维持非功利的好奇心驱动，还是全面对接国家战略与市场[[Research Translation|技术转化]]。
 > >
 > > - **自由探索纯粹派** 担忧《[[Bayh-Dole Act of 1980|拜杜法案]]》与产学研合作促使大学沦为企业的“外部研发分部”，导致基础科学中具颠覆性但无短期商业前景的探索枯竭，并使人文社科[[Narrative Knowledge|叙事知识]]面临资金断流。
-> > - **[[Innovation Ecosystem|创新生态]]协同派（[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008]]）** 论证指出，[[University-Industry Collaboration|产学合作]]不仅未破坏基础科学，反而让学者在直面现实工业重大挑战中汲取灵感，促成基础理论突破与产业创新的双向互哺，是充实国家总体知识蓄水池的必由之路。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
+> > - **[[Innovation Ecosystem|创新生态]]协同派（[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008]]）** 论证指出，[[University-Industry Collaboration|产学合作]]不仅未破坏基础科学，反而让学者在直面现实工业[[Grand Challenges|重大挑战]]中汲取灵感，促成基础理论突破与产业创新的双向互哺，是充实国家总体知识蓄水池的必由之路。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 >
 > > [!axis] 微观维度：[[Direct Instruction|直接讲授]]灌输 vs [[Inquiry-Based Learning|指导式探究]]中的自主知识生成
 > > [[Cognitive Load Theory|认知负荷理论]]学者与探究实践派就课堂知识生产的效率与价值展开长期交锋。

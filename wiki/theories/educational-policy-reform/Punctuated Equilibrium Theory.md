@@ -12,7 +12,7 @@ aliases:
 summary: "弗兰克·R·鲍姆加特纳与布莱恩·D·琼斯于1993年提出的公共政策变迁经典理论；指出大多数公共政策在绝大多数时期处于由专属制度场所与正面政策形象构筑的政策垄断稳态之中，但当政策企业家通过重构政策形象并开展制度场所转换时，长期惰性稳态将在短时间内发生断裂式剧变。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 30
+theory_related_count: 31
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Policy Image]]"
   - "[[Venue Shopping]]"
   - "[[Paradigm]]"
+  - "[[Market Failure]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Research Question]]"
@@ -96,7 +97,7 @@ updated: 2026-10-03
 > - **1993 年 — 原初奠基** 鲍姆加特纳与琼斯系统确立政策垄断、[[Policy Image|政策形象]]与制度场所三大核心构件，解释美国国内政策子系统的稳态与破裂。
 > - **2005 年 — 跨国比较议程项目（CAP）扩展** 琼斯与鲍姆加特纳等人将研究推向比较议程项目（Comparative Agendas Project, CAP），在西欧多国检验间断均衡的普遍性，证实信息处理摩擦是导致所有民主体制预算与立法呈现厚尾分布（Kurtosis）与间断跳跃的根本成因。
 > - **2013 年 — 教育政策生命周期应用** 洛兰·M·麦克唐奈（Lorraine M. McDonnell）与 M·斯蒂芬·韦瑟福德（M. Stephen Weatherford）将理论引入全美[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）运动研究，阐明[[Policy Entrepreneur|政策企业家]]如何在政策生命周期中将实证差距指标与两党规范价值相结合，摧毁各州分散割裂的百年政策垄断。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–10)]]
-> - **2018 年至今 — 科技与产业创新[[Paradigm|范式]]拓展** 间断均衡逻辑被广泛引入科技创新政策研究，解释二战后主流“市场失灵修补/研发税收减免”政策垄断如何在气候危机与地缘竞争冲击下被打破，进而间断式跃升为[[Mission-Oriented Innovation Policy|使命导向创新政策]]（Frame 3 范式）。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
+> - **2018 年至今 — 科技与产业创新[[Paradigm|范式]]拓展** 间断均衡逻辑被广泛引入科技创新政策研究，解释二战后主流“[[Market Failure|市场失灵]]修补/研发税收减免”政策垄断如何在气候危机与地缘竞争冲击下被打破，进而间断式跃升为[[Mission-Oriented Innovation Policy|使命导向创新政策]]（Frame 3 范式）。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
 
 ---
 
@@ -134,7 +135,7 @@ updated: 2026-10-03
 > [!theory-proposition] 命题四｜制度摩擦与有限注意力导致政策产出呈现厚尾与非线性跳跃
 > **解释** 政府系统的信息处理能力高度受制于认知与制度摩擦（Institutional Friction）。由于决策者无法对环境中所有的微小信号做出连续边际调整，政策压力在子系统中长期积累直至压垮制度门槛；一旦宏观注意力被外部危机或颠覆性叙事激活，政策系统将迅速从完全不反应（Under-reaction）切换为过度反应（Over-reaction），在实证分布上呈现出显著的尖峰厚尾特征（Leptokurtosis）与间断跳跃。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5)]]；[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
 >
-> **应用实例** 创新政策在长达四十年间深陷新古典“市场失灵/研发税收间接激励”的修补垄断；然而面对气候变化危机与清洁能源转型挑战，宏观注意力迅速转向，推动欧美在数年内出台《欧洲绿色协议》（European Green Deal）与《通胀削减法案》（Inflation Reduction Act），实现向[[Mission-Oriented Innovation Policy|使命导向创新政策]]（Frame 3）的间断跃升。
+> **应用实例** 创新政策在长达四十年间深陷新古典“[[Market Failure|市场失灵]]/研发税收间接激励”的修补垄断；然而面对气候变化危机与清洁能源转型挑战，宏观注意力迅速转向，推动欧美在数年内出台《欧洲绿色协议》（European Green Deal）与《通胀削减法案》（Inflation Reduction Act），实现向[[Mission-Oriented Innovation Policy|使命导向创新政策]]（Frame 3）的间断跃升。
 
 ---
 
@@ -190,7 +191,7 @@ updated: 2026-10-03
 > |:---|:---|:---|
 > | [[Multiple Streams Framework]] | Theory | 另一经典政策过程理论，与间断均衡理论在[[Policy Window\|政策窗口]]、问题流与政治流动态上形成深度互补。 |
 > | [[Six-Stage Model of Policymaking]] | Theory | 提供政策生命周期的阶段分析标尺，间断均衡理论侧重解释议程设置与政策采纳阶段的突变动力学。 |
-> | [[Innovation Policy Paradigms]] | Theory | 创新政策从市场失灵修补（Frame 1/2）向使命导向塑造（Frame 3）跃迁是间断均衡理论在科技政策中的生动展现。 |
+> | [[Innovation Policy Paradigms]] | Theory | 创新政策从[[Market Failure\|市场失灵]]修补（Frame 1/2）向使命导向塑造（Frame 3）跃迁是间断均衡理论在科技政策中的生动展现。 |
 > | [[Policy Entrepreneur]] | Concept | 间断均衡理论中负责重构政策形象、捕捉注意力与开展[[Venue Shopping\|制度场所转换]]的核心行动主体。 |
 > | [[Theories of Policy Change]] | Concept | 间断均衡理论所属的宏观政策变迁理论家族。 |
 > | [[Mission-Oriented Innovation Policy]] | Concept | 依靠颠覆性议程重构与跨部门治理场所开辟突破传统研发税收垄断的新政策形态。 |

@@ -10,7 +10,7 @@ aliases:
 summary: "Schot and Steinmueller（2018）提出的第三个创新政策范式，认为创新系统范式在面对气候变化等棘手问题时过于被动，政策应从修复系统失灵升级为主动推动方向性变革"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,9 @@ related_concepts:
   - "[[Growth]]"
   - "[[Paradigm]]"
   - "[[Wicked Problem]]"
+  - "[[Market Failure]]"
   - "[[Absorptive Capacity]]"
+  - "[[Directionality of Innovation]]"
   - "[[Reflexivity]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Emergence]]"
@@ -36,6 +38,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
+  - "[[Argument_Mazzucato_2018_ICC]]"
 confidence: medium
 status: draft
 created: 2026-05-27
@@ -61,7 +64,7 @@ updated: 2026-10-03
 > [!note]-
 > 变革转型[[Paradigm\|范式]]的出现是对前两个[[Innovation Policy Paradigms\|创新政策范式]]递进式批判的结果([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, pp.28–35]])：
 
-1. **范式一：科学促增长（1940s–1980s）**——以"科学→技术→增长"的线性模型为基础，政府角色是资助基础研究以弥补市场失灵。其盲区：忽略了创新涉及多行动者的双向互动，隐性知识、[[Absorptive Capacity|吸收能力]]和制度环境同样关键
+1. **范式一：科学促增长（1940s–1980s）**——以"科学→技术→增长"的线性模型为基础，政府角色是资助基础研究以弥补[[Market Failure|市场失灵]]。其盲区：忽略了创新涉及多行动者的双向互动，隐性知识、[[Absorptive Capacity|吸收能力]]和制度环境同样关键
 2. **范式二：[[Systems of Innovation|创新系统]]（1980s–1990s）**——将创新重新定义为多行动者在制度环境下的集体学习活动，政策关注从"市场失灵"扩展为"系统失灵"（制度失灵、网络失灵、锁定失灵、能力失灵等）。其盲区：擅长诊断系统卡在哪里，但不能告诉你该往哪个方向走
 3. **范式三：变革转型（2010s 至今）**——批评系统范式"过于被动和反应性"，主张政策应主动推动方向性变革以应对[[Wicked Problem|棘手问题]]。引入四个新的失灵类型（见[[#核心要素]]），要求政府从"系统修复者"升级为"方向引导者"
 
@@ -76,7 +79,7 @@ updated: 2026-10-03
 
 | 失灵类型 | 含义 | 例子 |
 |----------|------|------|
-| **方向性失灵（directionality failure）** | 社会无法就"往哪个方向走"达成共识——不同利益群体对发展路径有竞争性的主张，缺乏做出集体社会选择的机制 | 能源转型中：一些人主张核能、一些人主张可再生能源、一些人主张碳捕集——但缺乏有效的制度来协调这些选择 |
+| **方向性失灵（[[Directionality of Innovation\|directionality]] failure）** | 社会无法就"往哪个方向走"达成共识——不同利益群体对发展路径有竞争性的主张，缺乏做出集体社会选择的机制 | 能源转型中：一些人主张核能、一些人主张可再生能源、一些人主张碳捕集——但缺乏有效的制度来协调这些选择 |
 | **政策协调失灵（policy coordination failure）** | 不同政府部门、不同政府层级的政策目标相互矛盾或缺乏协同 | 科技部推动电动车创新、环保部设定排放标准、财政部削减相关补贴——三个部门三种方向 |
 | **需求表达失灵（demand articulation failure）** | 无法有效理解和预判未来知识使用者和创新采纳者的需求，无法将潜在需求转化为明确的信号 | 在氢能技术成熟之前，很难准确预测哪些行业将成为氢能的"最大客户"以及它们的实际需求是什么 |
 | **[[Reflexivity\|反思性]]失灵（reflexivity failure）** | 长期变革充满不确定性，但现有制度不奖励"承认不确定"——缺乏对目标进展的持续监测、反思性讨论、策略调整和深度学习的能力 | 一个十年的气候创新项目按照五年前设定的 KPI 运行，但没有机制让参与者定期[[Probes\|追问]]"我们确定在解决对的问题吗？" |
@@ -94,7 +97,7 @@ updated: 2026-10-03
 
 > [!tip]-
 > - [[Systems of Innovation]] — 变革转型[[Paradigm\|范式]]建立在创新系统理论之上，但批判其"过于被动"。两者共享"创新是多行动者系统行为"的核心立场，但在政策导向（修复 vs 引导）上分道
-> - [[Mission-Oriented Innovation Policy|使命导向型创新政策]]（Mazzucato, 2018）——与变革转型范式高度共鸣，主张政府应设定宏大的使命（如登月计划）来引导创新方向
+> - [[Mission-Oriented Innovation Policy|使命导向型创新政策]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）——与变革转型范式高度共鸣，主张政府应设定宏大的使命（如登月计划）来引导创新方向
 > - 转型管理理论（Transition Management）——与变革转型共享对长期系统变革、多方治理和实验学习的关注
 
 ---

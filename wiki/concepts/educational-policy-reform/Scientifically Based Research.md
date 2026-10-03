@@ -9,7 +9,7 @@ aliases:
 summary: "由 2001 年美国《不让一个孩子掉队法》（NCLB）与 2002 年《教育科学改革法》（ESRA）确立的联邦法定证据准入标准，强调运用严谨、系统与客观的实证程序（优先青睐实验与准实验设计）获取教育有效知识，后因缺乏操作化分级及对原则与评估的混淆，在 2015 年 ESSA 中被四级循证标准替代"
 type: concept
 domain: "educational-policy-reform"
-related_count: 59
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[Performance Pay]]"
+  - "[[Big Science]]"
   - "[[Phronesis]]"
   - "[[Analytical Stance]]"
   - "[[Scientific Method]]"
@@ -69,12 +70,12 @@ related_facts:
   - "[[Higher Education Act of 1965]]"
   - "[[Institute of Education Sciences]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
-  - "[[Investing in Innovation Program]]"
   - "[[Education Innovation and Research]]"
   - "[[National Institute of Child Health and Human Development]]"
   - "[[National Research Council]]"
   - "[[National Reading Panel]]"
   - "[[International Reading Association]]"
+  - "[[Investing in Innovation Program]]"
   - "[[Foundations for Evidence-Based Policymaking Act of 2018]]"
 related_arguments:
   - "[[Argument_Slavin_2002_ER]]"
@@ -88,7 +89,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-28
+updated: 2026-10-03
 ---
 
 # Scientifically Based Research
@@ -189,7 +190,7 @@ updated: 2026-09-28
 > 考察国家立法在强制推行高门槛实证标准时，若没有同步建立高质量公共研发资助与项目孵化管线，会导致怎样的实践供给困境。
 
 > [!claim] Slavin, R. E.
-> **证据供给存量断层与制度闭环滞后** [[Argument_Slavin_2019_EP\|Slavin (2019)]] 追踪全美因果[[Intervention Research\|干预研究]]库指出，在 NCLB 颁布实施的前期（1988–2003 年），全美中小学领域每两年仅产出 0–2 项符合严谨因果标准的合格研究；政策虽然在法律上强制要求采用科学本位研究，但市场上根本不存在足以支撑全国各学区采购的高质量实证项目储备。单纯颁布规制口号毫无实效，唯有在 2002 年通过《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）成立[[Institute of Education Sciences\|教育科学研究院]]（IES）与 [[What Works Clearinghouse\|WWC]]，并在后续推行[[Investing in Innovation Program\|创新投资]]（i3）与教育创新研究（[[Education Innovation and Research\|EIR]]）建立长期公共研发孵化管线后，合格干预项目才跃升至每两年 20 项以上，方才勉强填补了实践供给的巨大缺口。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–24)]]
+> **证据供给存量断层与制度闭环滞后** [[Argument_Slavin_2019_EP\|Slavin (2019)]] 追踪全美因果[[Intervention Research\|干预研究]]库指出，在 NCLB 颁布实施的前期（1988–2003 年），全美中小学领域每两年仅产出 0–2 项符合严谨因果标准的合格研究；政策虽然在法律上强制要求采用科学本位研究，但市场上根本不存在足以支撑全国各学区采购的高质量实证项目储备。单纯颁布规制口号毫无实效，唯有在 2002 年通过《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）成立[[Institute of Education Sciences\|教育科学研究院]]（IES）与 [[What Works Clearinghouse\|WWC]]，并在后续推行创新投资（i3）与教育创新研究（[[Education Innovation and Research\|EIR]]）建立长期公共研发孵化管线后，合格干预项目才跃升至每两年 20 项以上，方才勉强填补了实践供给的巨大缺口。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–24)]]
 
 ---
 
@@ -235,7 +236,7 @@ updated: 2026-09-28
 > 
 > 更为重要的是，法定标准并非不可撼动的实证霸权，而是留有公共审议的民主博弈空间：
 > - 2000 年初始卡斯尔草案（H.R. 4875）试图将实证假说检验强加为唯一科研标准，并将质性方法降格为仅供提出初步假说的边缘工具；
-> - 国家研究委员会（[[National Research Council]], NRC）受托发布《教育科学研究》（Scientific Research in Education, SRE）报告，提炼出跨学科通用的六大科学探究原则，并由[[Richard J. Shavelson|理查德·沙维尔森]]（Richard Shavelson）在国会听证会上提供专业质证，有力论证了“任何方法学清单都无法定义科学，科学性取决于方法与[[Research Question|研究问题]]的逻辑契合”；
+> - 国家研究委员会（[[National Research Council]], NRC）受托发布《教育科学研究》（Scientific Research in Education, SRE）报告，提炼出跨学科通用的六[[Big Science|大科学]]探究原则，并由[[Richard J. Shavelson|理查德·沙维尔森]]（Richard Shavelson）在国会听证会上提供专业质证，有力论证了“任何方法学清单都无法定义科学，科学性取决于方法与[[Research Question|研究问题]]的逻辑契合”；
 > - 国会最终在 2002 年通过的 ESRA 第 102(18) 节中彻底删除了卡斯尔草案对质性方法的歧视性条款，确立了“研究设计与方法切合待决问题”的包容性科学标准；
 > - 随后的有效干预清算中心（[[What Works Clearinghouse]], WWC）研究设计与实施方案（[[Study Design and Implementation Assessment Device|Study DIAD]]）在吸纳 47 项公共评议后，亦主动打破对实验的排他性垄断，将[[Regression Discontinuity Design|断点回归]]等准实验与深入的[[Implementation and Process Evaluation|过程评估]]纳入审查规程。
 > 

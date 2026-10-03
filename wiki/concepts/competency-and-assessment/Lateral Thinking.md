@@ -8,7 +8,7 @@ aliases:
 summary: "由爱德华·德·博诺开创的非线性思维范式与创造性构想生成体系，直接对标并互补于传统“垂直思维（逻辑推导）”。主张打破大脑自组织神经模式的固有凹槽，通过激发（PO）、随机输入与概念挑战等启发式技术，强迫认知系统横向跳跃至非常规切入点以实现观念重构与顿悟突破。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,6 +40,7 @@ related_methods:
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Cost-Benefit Analysis]]"
   - "[[Correlational Research]]"
 related_instruments:
   - "[[Alternate Uses Test]]"
@@ -51,7 +52,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-17
+updated: 2026-10-03
 ---
 
 # Lateral Thinking
@@ -235,7 +236,7 @@ updated: 2026-09-17
 > 1. **在解题停滞时常态化调用“随机词注入（Random Word）”** 指导学生在设计原型或撰写论文遇阻时，随手翻开手边的书本闭眼挑出第 10 行第 3 个词，强制用该词的特征激发新颖比喻与切入点；
 > 2. **建立专门的“PO 激发跳板”讨论时段** 在课堂研讨中宣布“未来 10 分钟进入 PO 模式”，鼓励学生提出“如果学校完全废除教室与黑板会怎样”等极限假定，并严加保护这一探索过程中的荒诞中间态；
 > 3. **将侧向谜题转化为“认知[[Hypothesis\|假设]]反思工坊”** 每次给出一道侧向情境谜题后，不急于揭晓答案，而是要求学生在纸上写下“我刚才在脑海里默默默认了哪些隐藏前提（如凶手是男性、事件发生在陆地等）”，让隐性假设显性化；
-> 4. **与垂直逻辑构建“发散—收敛”双螺旋演进闭环** 明确要求学生在水平思考产出新奇构想后，立刻转换为垂直思维模式，运用事实数据、成本收益分析与工程逻辑论证其可行性。
+> 4. **与垂直逻辑构建“发散—收敛”双螺旋演进闭环** 明确要求学生在水平思考产出新奇构想后，立刻转换为垂直思维模式，运用事实数据、[[Cost-Benefit Analysis|成本收益分析]]与工程逻辑论证其可行性。
 
 ---
 

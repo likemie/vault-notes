@@ -8,7 +8,7 @@ aliases:
 summary: "Etzkowitz 与 Leydesdorff 于 1995 年提出的创新系统理论，阐明大学、产业与政府在知识经济中突破单向线性分工、形成非线性反馈与职能重叠的动态螺旋，并揭示了宏观制度交织与微观组织碎片化之间的深层张力。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 46
+theory_related_count: 47
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -53,6 +53,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Joseph Schumpeter]]"
   - "[[Richard C. Atkinson]]"
   - "[[Vannevar Bush]]"
 related_facts:
@@ -98,7 +99,7 @@ updated: 2026-10-03
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 社会学家亨利·埃茨科威茨（Henry Etzkowitz）与科学计量学家卢特·雷德斯多夫（Loet Leydesdorff）于 1995 年在《欧洲[[Science and Technology Studies|科学技术研究]]协会通报》（*EASST Review*）上发表题为《大学-产业-政府关系的三重螺旋：[[Knowledge-Based Economy|知识经济]]发展的实验室》（*The Triple Helix---University-Industry-Government Relations: A Laboratory for Knowledge Based Economic Development*）的开创性论文，首次正式提出三重螺旋模型。
 > - **原初问题** 冷战结束后全球经济竞争加剧、传统跨国大公司[[Corporate R&D Labs|中央研发实验室]]收缩，以及政府财政收紧背景下，传统国家主导模式与纯市场驱动模式均无法充分解释硅谷、波士顿 128 号公路等区域高科技创新集群爆发的根本动因。
-> - **理论资源与材料** 吸收了系统论与非线性动力学中的反馈调节机制、熊彼特创新经济学、大学组织社会学，以及二战以来英美两国科技动员与国家[[Innovation Ecosystem|创新生态]]的历史演化档案。
+> - **理论资源与材料** 吸收了系统论与非线性动力学中的反馈调节机制、[[Joseph Schumpeter|熊彼特]]创新经济学、大学组织社会学，以及二战以来英美两国科技动员与国家[[Innovation Ecosystem|创新生态]]的历史演化档案。
 > - **形成路径** 从考察战后美国联邦资助政策、麻省理工学院（Massachusetts Institute of Technology, MIT）等[[Research Universities|研究型大学]]的[[Technology Transfer|技术转让]]经验出发，提出大学由边缘教辅机构演进为与政府、产业平起平坐的“第三螺旋”，进而抽象出静态国家主导型（Triple Helix I）、自由市场分立型（Triple Helix II）与重叠交织型（Triple Helix III）的理论形态跃迁。
 
 ### 后续修订与扩展

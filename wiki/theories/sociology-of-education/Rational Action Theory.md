@@ -7,7 +7,7 @@ aliases:
 summary: "以相对风险规避为核心机制解释不同阶层教育选择差异的中层社会学理论，主张教育决策是个体在阶级约束条件下对成本、风险和收益的理性权衡。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 30
+theory_related_count: 31
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_theories:
 related_methods:
   - "[[Cohort Study]]"
   - "[[Fieldwork]]"
+  - "[[Cost-Benefit Analysis]]"
   - "[[Qualitative Interview]]"
   - "[[Analytic Framework]]"
   - "[[Qualitative Research]]"
@@ -57,7 +58,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-09-29
+updated: 2026-10-03
 ---
 
 # Rational Action Theory
@@ -91,7 +92,7 @@ updated: 2026-09-29
 > - **1974 — 奠基区分** 布东（Boudon, 1974）提出“首属效应”（Primary Effects，家庭资源通过影响早期学业能力造成的差异）与“次属效应”（Secondary Effects，在控制[[Academic Achievement|学业成绩]]后不同阶层自愿升学决策的分化），为理性行动理论界定了核心解释领地。
 > - **1997 — 形式化数理模型建立** 布林与戈德索普（Breen & Goldthorpe, 1997）建立形式化决策模型，将相对风险规避（RRA）确立为次属效应的微观核心，确立了教育分流点的理性计算方程。
 > - **1997 — [[Pragmatic Paradigm|实用主义]]与[[Habitus|习性]]修正** 霍德金森与斯帕克斯（Phil Hodkinson & Andrew C. Sparkes, 1997）结合布迪厄的[[Habitus|习性]]与[[Champ|场域]]理论，指出理性选择并非完全信息下的冰冷计算，而是受限于个体视野（Horizons for Action）的[[Pragmatic Paradigm|实用主义]]决策，决策信息本身深受家庭背景扭曲。
-> - **1999 — 跨文化检验与反向[[Falsification|证伪]]** 彼得·德梅拉斯（Peter Demerath, 1999; 引自 [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 109–110]]）在巴布亚新几内亚佩雷村的[[Fieldwork|田野研究]]指出，当外部劳动力市场破产与现代[[Credential Inflation|文凭通胀]]并存时，边缘乡村青年主动放弃升学、集体嘲讽考学者并颂扬传统渔猎生活，实证[[Falsification|证伪]]了脱离本土文化情境的西方抽象成本效益分析与理性选择假设。
+> - **1999 — 跨文化检验与反向[[Falsification|证伪]]** 彼得·德梅拉斯（Peter Demerath, 1999; 引自 [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 109–110]]）在巴布亚新几内亚佩雷村的[[Fieldwork|田野研究]]指出，当外部劳动力市场破产与现代[[Credential Inflation|文凭通胀]]并存时，边缘乡村青年主动放弃升学、集体嘲讽考学者并颂扬传统渔猎生活，实证[[Falsification|证伪]]了脱离本土文化情境的西方抽象[[Cost-Benefit Analysis|成本效益分析]]与理性选择假设。
 > - **2007 — 严谨推理与经验排除** 戈德索普（Goldthorpe, 2007）运用七步推理法，以多波次队列数据检验该理论模型，系统排除了马克思主义阶级决定论、自由主义技术功能论与文化内化论三种竞争假说。
 > - **2023 — 文化社会学批判与中国在地拓展** [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]将理性行动理论置于中国拔尖大学寒门学子的生涯追踪中，揭示纯粹效用计算视角无法涵盖大学生的情感动能、意义追寻与[[Cultural Barrier|文化障碍]]。
 
@@ -130,7 +131,7 @@ updated: 2026-09-29
 > **应用实例** 在相同的[[Gaokao|高考]]或 A-Level 顶尖高分段中，工薪阶层优秀学子显著偏好公费师范、军警院校或技术应用型专业，而具有相似分数的优势阶层学子则压倒性地选择通识人文、基础理论理科或海外深造，展现了次属效应在关键分叉点的深远分流效应。
 
 > [!theory-proposition] 命题四｜理性选择的文化嵌入性：当外部制度承诺失效时，本土文化认同与社区团结可颠覆抽象的经济效用计算
-> **解释** 西方抽象的理性行动理论与[[Human Capital Theory|人力资本]]成本效益分析预设行动者普遍追逐现代正规劳动力市场中的货币与地位收益。然而，比较教育与人类学实证研究揭示，在边缘经济体与传统社会情境中，当全球输入的文凭主义与有限的本土就业市场出现严重错配（文凭贬值与升学幻灭）时，个体的理性计算将被本土文化再生产所重塑。行动者不仅不会继续追加教育投资，反而会集体拥抱传统社区互助网络，公开嘲弄功利主义升学竞争。这表明效用与理性并非普世超验的数学参数，而是深度嵌于特定社会历史与文化结构之中的地方性实践（Demerath, 1999; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 109–110]]）。
+> **解释** 西方抽象的理性行动理论与[[Human Capital Theory|人力资本]][[Cost-Benefit Analysis|成本效益分析]]预设行动者普遍追逐现代正规劳动力市场中的货币与地位收益。然而，比较教育与人类学实证研究揭示，在边缘经济体与传统社会情境中，当全球输入的文凭主义与有限的本土就业市场出现严重错配（文凭贬值与升学幻灭）时，个体的理性计算将被本土文化再生产所重塑。行动者不仅不会继续追加教育投资，反而会集体拥抱传统社区互助网络，公开嘲弄功利主义升学竞争。这表明效用与理性并非普世超验的数学参数，而是深度嵌于特定社会历史与文化结构之中的地方性实践（Demerath, 1999; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 109–110]]）。
 >
 > **应用实例** 在巴布亚新几内亚佩雷村，面对现代都市文凭主义通胀与失业困境，乡村青年主动拒绝向高一级中学升学，甚至公开嘲弄那些埋头苦读的同辈，集体赞美以捕鱼、社区互助与传统庆典为核心的村落生计方式（Demerath, 1999）。这一文化抵制行为在狭隘的经济成本效益模型中被视作“非理性弃学”，但在村落社区的社会连带与生存安全网中，却是维护本土主体性与免于现代都市边缘化的有效理性策略。
 
@@ -189,7 +190,7 @@ updated: 2026-09-29
 
 > [!critique]- 批评索引
 > - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — 批评工具理性假定对寒门学子文化融合、价值追寻与身份困境的解释无力。
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 引用 Demerath (1999) 民族志案例，从全球体系与比较文化视角批评西方抽象理性选择理论与狭隘成本效益分析的跨情境局限。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 引用 Demerath (1999) 民族志案例，从全球体系与比较文化视角批评西方抽象理性选择理论与狭隘[[Cost-Benefit Analysis|成本效益分析]]的跨情境局限。
 
 ---
 

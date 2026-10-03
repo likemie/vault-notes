@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_display_title: "Chapter five: Policy"
 argument_kind: "book-chapter"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Outcomes-based Education]]"
 related_methods:
   - "[[Case Study]]"
+  - "[[Cost-Benefit Analysis]]"
   - "[[Questionnaire]]"
   - "[[Peer Debriefing]]"
   - "[[Confidence Interval]]"
@@ -196,7 +197,7 @@ updated: 2026-09-17
 > | **政府科学办公室（GO-Science）** | 2007 年设立，由政府首席科学顾问（GCSA）领导 | 跨部委科学顾问网络统筹、长远科技战略预见 | 前瞻预见报告（Foresight Reports）、重点研究领域清单（ARIs） | 首相与内阁核心科学战略中枢 |
 > | **紧急情况科学咨询小组（SAGE）** | 2009 年正式规范化，隶属于内阁简报室（COBR） | 突发国家危机时快速集结多学科顶尖独立学者 | 30 分钟应急激活、建模推演报告、流行病与灾害情景分析 | 危机状态下国家最高行政应急决策支持 |
 > | **议会科学与技术办公室（POST）** | 1989 年创立，2001 年确立为两院常设法定机构 | 为立法者提供跨党派、中立且经严格同行评议的科技评估 | 4 页同行评议简报（POSTnotes）、POSTbriefs、专责委员会证据支持 | 立法机构制衡行政与评估科技议题的证据中枢 |
-> | **财政部绿皮书（The Green Book）** | 1970 年代建立，2020 年重大改版并持续更新至 2026 年 | 规范全英公共财政投资、规划立项的前置评估与事后评价 | 五维商业论证框架、社会成本效益分析、不确定性与敏感性核算 | 公共政策立项与财政审批的法定方法论门槛 |
+> | **财政部绿皮书（The Green Book）** | 1970 年代建立，2020 年重大改版并持续更新至 2026 年 | 规范全英公共财政投资、规划立项的前置评估与事后评价 | 五维商业论证框架、社会[[Cost-Benefit Analysis\|成本效益分析]]、不确定性与敏感性核算 | 公共政策立项与财政审批的法定方法论门槛 |
 
 ---
 

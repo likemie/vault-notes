@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch03"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch03"
 argument_display_title: "Chapter three: Mass media and misinformation"
 argument_kind: "book-chapter"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Solutions Journalism]]"
   - "[[Learned Helplessness]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Big Science]]"
   - "[[Knowledge Co-production]]"
   - "[[Literature Search]]"
   - "[[Document]]"
@@ -274,7 +275,7 @@ updated: 2026-09-16
 
 > [!warrant]- 科学界与新闻界携手抵制“竞次”倾轧的逻辑基石
 > 1. **科学具备提供解决方案的独特禀赋** 科学探究的本质就是直面人类未知的难题并寻找循证解法；无论在清洁能源转化、耐旱作物培育、癌症靶向治疗还是环境生态修复领域，科学共同体拥有源源不断、最适宜开展“解决方案新闻”报道的优质素材；
-> 2. **BBC 事实证明严肃高质量新闻的庞大市场** 英国广播公司恪守客观公正的“赖斯原则”（Reithian Principles），其 BBC News Online 科学频道平均每周拥有 **220 万**英国独立浏览器访问量，在重大科学事件发生时峰值接近 **500 万**；（p. 59）
+> 2. **BBC 事实证明严肃高质量新闻的庞大市场** 英国广播公司恪守客观公正的“赖斯原则”（Reithian Principles），其 BBC News Online 科学频道平均每周拥有 **220 万**英国独立浏览器访问量，在重[[Big Science|大科学]]事件发生时峰值接近 **500 万**；（p. 59）
 > 3. **拒绝竞次与赢回受众** 科学界必须联合严肃媒体编辑部向新闻产业传递明确信号：在算法时代赢回受众的破局之道，绝非参与“竞次”（Race to the bottom）的流量博傻，而在于提供英国公众反复表达渴求的公正、严谨、赋能希望的高水准专业新闻。（p. 63）
 
 ---

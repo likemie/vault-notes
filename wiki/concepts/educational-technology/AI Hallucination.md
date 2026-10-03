@@ -10,7 +10,7 @@ aliases:
 summary: "人工智能与教育技术学概念，指大语言模型等生成式系统输出看似连贯权威、语法高度流畅但实际上偏离客观事实、缺乏真实依据、虚构引用或逻辑自相矛盾的内容现象。"
 type: concept
 domain: "educational-technology"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Growth]]"
   - "[[Dialogue in Education]]"
   - "[[Visible Learning]]"
+  - "[[General Purpose Technology]]"
   - "[[Automated Data Extraction]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Epistemic Agency]]"
@@ -80,7 +81,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-09-24
+updated: 2026-10-03
 ---
 
 # AI Hallucination
@@ -259,7 +260,7 @@ updated: 2026-09-24
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025, pp. 10–11, 14, 16)]] | 纳入全球 59 项独立实证研究（批判性思维子维度 $k = 20$） | 随机效应一阶[[Meta-analysis\|元分析]]与调节效应模型 | 批判性思维（$g = 0.691$）机制解释与自主调节能力（低 SRL 易感性） | 确立批判性思维在中等偏大水平显著提升（$g = 0.691$），理论机制模型证实 AI 幻觉具有倒逼审验的催化作用；同时亚组检验显示低 SRL 组促学效应微弱（$g = 0.284$），证实缺乏自律调控易深陷幻觉误导 | 组内 $Z = 5.973, p < 0.001$；SRL 组间 $Q_b = 40.962, p < 0.001$ | 实证表明 AI 幻觉转化为批判性思维动力高度依存于学习者的自我调节水平与显性查错支架 |
 > | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 363–366)]] | N=124 师范生统计分析任务 | 2x2 [[Randomised Controlled Trials\|随机对照实验]]与人机交互追踪 | 算法幻觉识别率与[[Epistemic Stances\|认识立场]]演进 | 实验组通过提示词约束使大模型显式输出前提[[Hypothesis\|假设]]，学生成功识别出 ChatGPT 在正态性假设上的算法幻觉，多源验证行为显著增加，评价论达成率显著提升 | $p < .01$ | 证实幻觉在双轨支架下能有效转化为认识论进阶的催化剂 |
 > | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节人机协同科学课（植物[[Growth\|生长]]与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像转录、数字生成物、访谈） | AI 伪完整性识别与多模态图表纠偏表现 | 初中生在 4 组[[Dialogue in Education\|对话]]中敏锐指出 AI 叙事性童话掩盖了水分运输机制，并识别出静态插图缺乏水流渗透箭头，通过迭代提示词促使 AI 补全机制与微观结构 | 质性微观对话与制品分析 | 确立学科标准在初中生识破 AI 伪完整性与多模态表征偏差中的有效支架功能 |
-> | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026, pp. 16–18)]] | 156 项教育元分析（[[Visible Learning\|可见的学习]]数据库[[Random Sampling\|随机抽样]]，468 个数据点） | 大模型提取准确性与金标准仲裁评测（Gemini 2.5 Pro、GPT-4.1、GPT-o3） | [[Automated Data Extraction\|自动化数据提取]]中的事实幻觉与信息遗漏 | 在 55 项原文缺失对应统计量的元分析中，三大前沿 LLM 仅产生 3–4 例事实性幻觉（与人类专家的 3–4 例完全持平）；而信息遗漏更为普遍（LLM 遗漏 21–36 例 vs 专家 12–31 例） | $\text{ICC} = 0.96–0.97$（模型 vs 金标准） | 证实前沿 LLM 在严格提示词下事实性幻觉发生率极低，误差主要由长文本信息遗漏与多表累加疏漏驱动 |
+> | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026, pp. 16–18)]] | 156 项教育元分析（[[Visible Learning\|可见的学习]]数据库[[Random Sampling\|随机抽样]]，468 个数据点） | 大模型提取准确性与金标准仲裁评测（Gemini 2.5 Pro、[[General Purpose Technology\|GPT]]-4.1、GPT-o3） | [[Automated Data Extraction\|自动化数据提取]]中的事实幻觉与信息遗漏 | 在 55 项原文缺失对应统计量的元分析中，三大前沿 LLM 仅产生 3–4 例事实性幻觉（与人类专家的 3–4 例完全持平）；而信息遗漏更为普遍（LLM 遗漏 21–36 例 vs 专家 12–31 例） | $\text{ICC} = 0.96–0.97$（模型 vs 金标准） | 证实前沿 LLM 在严格提示词下事实性幻觉发生率极低，误差主要由长文本信息遗漏与多表累加疏漏驱动 |
 
 ---
 

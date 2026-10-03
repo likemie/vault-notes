@@ -13,7 +13,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ tags:
   - policy/research-governance
 related_concepts:
   - "[[Application Engineering]]"
+  - "[[Big Science]]"
   - "[[Valley of Death]]"
   - "[[Technology Transfer]]"
   - "[[University-Industry Collaboration]]"
@@ -76,7 +77,7 @@ updated: 2026-10-03
 > |:---|:---|:---|:---|:---|
 > | **纯基础前沿研究** | [[Max Planck Society\|马克斯·普朗克学会]]（MPG） | 纯理论、颠覆性跨学科基础科学探索 | 联邦与州全额财政包干；高引论文与诺奖级发现 | 平行竞争顶尖基础研究经费（p.42） |
 > | **产业[[Application Engineering\|应用工程]]转化** | **弗劳恩霍夫学会（FhG）** | 工业技术熟化、中试工程与工艺开发 | 产业商业合同占绝对比重；专利、技术许可与样机 | 弥补大学工程科研偏理论的断层 |
-> | **国家大科学战略** | 亥姆霍兹国家研究中心联合会 | 运营国家超大型科学装置与重大战略工程 | 联邦政府为主的巨额长期项目拨款 | 装置向大学学者开放机时 |
+> | **国家[[Big Science\|大科学]]战略** | 亥姆霍兹国家研究中心联合会 | 运营国家超大型科学装置与重大战略工程 | 联邦政府为主的巨额长期项目拨款 | 装置向大学学者开放机时 |
 > | **跨学科应用专题** | 莱布尼茨科学联合会 | 区域性社会经济、环境与人文自然综合研究 | 联邦与州按五五比例联合共建 | 紧密依托地方高校协同办学 |
 
 ---

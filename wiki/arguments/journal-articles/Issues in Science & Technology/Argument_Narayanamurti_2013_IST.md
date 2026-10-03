@@ -4,7 +4,7 @@ title: "Argument_Narayanamurti_2013_IST"
 argument_key: "Argument_Narayanamurti_2013_IST"
 argument_display_title: "RIP: The basic/applied research dichotomy"
 argument_kind: "journal-articles"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#e5e7eb"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Linear Model of Innovation]]"
   - "[[Innovation Ecosystem]]"
   - "[[Epistemology]]"
+  - "[[Market Failure]]"
   - "[[Long-Term Public Utility]]"
   - "[[Cultural Hierarchy]]"
   - "[[Blue Skies Research]]"
@@ -76,7 +77,7 @@ updated: 2026-10-02
 
 > [!concept-lens] 阅读透镜
 > - **对象** 二战后美国科技政策体制、布什报告与斯托克斯[[Pasteur's Quadrant|帕斯德象限]]框架，以及 1956 至 2009 年间信息通信技术领域的六项诺贝尔物理学奖演化谱系。
-> - **张力** 动机二分法（纯求知 vs. 纯应用）与网状[[Innovation Ecosystem|创新生态]]（发明与发现双向互促）之间的[[Epistemology|认识论]]冲突；市场失灵试金石与高风险战略性硬件发明缺乏公共支持之间的体制矛盾。
+> - **张力** 动机二分法（纯求知 vs. 纯应用）与网状[[Innovation Ecosystem|创新生态]]（发明与发现双向互促）之间的[[Epistemology|认识论]]冲突；[[Market Failure|市场失灵]]试金石与高风险战略性硬件发明缺乏公共支持之间的体制矛盾。
 > - **贡献** 宣告基础/应用二分法终结，提出[[Discovery-Invention Cycle|发现-发明循环]]模型，确立[[Long-Term Public Utility|长期公共效用]]作为国家研发投入的最高准绳。
 
 ---
@@ -289,7 +290,7 @@ updated: 2026-10-02
 
 #### 2. 联邦政府应全额支持关乎公共长远福祉的战略性研发，不论其近期形态表现为科学还是工程
 
-传统以市场失灵为依据的简单资助试金石，在面临战略性硬件与制造工艺时遭遇了严重的体制失灵。
+传统以[[Market Failure|市场失灵]]为依据的简单资助试金石，在面临战略性硬件与制造工艺时遭遇了严重的体制失灵。
 
 > [!tension] 传统二分法资助逻辑与战略硬件发明需求的体制冲突
 > - **新古典资[[Teaching Assistant|助教]]条（政府只投纯科学）** 政府公共财政只出资支持没有直接商业价值的纯基础研究，任何带有应用特征与工程形态的研发统统推给私营市场自行投资。

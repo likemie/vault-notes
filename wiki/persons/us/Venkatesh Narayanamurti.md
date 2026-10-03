@@ -8,10 +8,10 @@ summary: "美籍印裔应用物理学家与科技政策学者，哈佛大学工�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 22
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1939"
 died: ""
 lifespan: "1939–至今"
@@ -28,6 +28,8 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Hypothesis]]"
   - "[[Long-Term Public Utility]]"
+  - "[[Big Science]]"
+  - "[[Market Failure]]"
 related_theories:
   - "[[Discovery-Invention Cycle]]"
   - "[[Organizational Culture]]"
@@ -122,7 +124,7 @@ updated: 2026-10-03
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 推进了从单向[[Linear Model of Innovation|线性创新模型]]与静态二维[[Pasteur's Quadrant|帕斯德象限]]向长周期网状动态创新理论的演进，为理解当代硬科技创新与大科学工程提供了核心分析工具。
+> - **理论路径** 推进了从单向[[Linear Model of Innovation|线性创新模型]]与静态二维[[Pasteur's Quadrant|帕斯德象限]]向长周期网状动态创新理论的演进，为理解当代硬科技创新与[[Big Science|大科学工程]]提供了核心分析工具。
 > - **政策路径** 直接参与美国总统科技顾问委员会（PCAST）、国家[[Chinese Academy of Sciences|科学院]]（[[National Academy of Sciences|NAS]]）与能源部（[[Department of Energy|DOE]]）政策咨询，促成能源前沿研究中心（EFRCs）与高级能源研究计划局（[[DARPA|ARPA]]-E）采纳跨界组织治理准则。
 > - **高等教育组织变革** 在哈佛大学主导推动工学院自文理学院独立设院，构建打破物理学、计算机科学与工程学传统院系藩篱的矩阵式跨学科科研与教学体系。
 
@@ -150,4 +152,4 @@ updated: 2026-10-03
 > > 循环理论对物理学、信息通信与微电子硬件具有极强的解释力，但是否同样适用于生命科学、人文社会科学与纯市场驱动的短周期数字软件？
 > >
 > > - **自述边界与审慎声明** 纳拉亚纳穆尔提等人在 2013 年论文中明确指出，其实证推论主要来自跨度半个世纪的微电子与光学重大物理突破，对于生命科学中的生物医药发现网络与增量型市场产品开发，循环流转的具体机制与时间尺度可能存在差异。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 33)]]
-> > - **新古典经济学与传统科学政策辩护** 传统强调市场失灵的新古典经济学家认为，基础与应用二分法虽然在理论上不够精密，但在公共预算分配中提供了最简洁、最具可操作性的防范寻租与防止政府挤出私人投资的行政判据。
+> > - **新古典经济学与传统科学政策辩护** 传统强调[[Market Failure|市场失灵]]的新古典经济学家认为，基础与应用二分法虽然在理论上不够精密，但在公共预算分配中提供了最简洁、最具可操作性的防范寻租与防止政府挤出私人投资的行政判据。

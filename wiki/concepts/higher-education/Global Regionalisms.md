@@ -6,7 +6,7 @@ aliases:
 summary: "指高等教育被整合进跨国区域政治经济项目并成为区域合作、竞争和身份建构关键支柱的现象。"
 type: concept
 domain: "higher-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,12 +29,13 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Lisbon Strategy]]"
+  - "[[Horizon Europe]]"
 related_arguments:
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: 2026-10-03
 ---
 
 ## 定义
@@ -88,7 +89,7 @@ updated: '2026-05-18'
 
 > [!success] 实证发现
 > - 欧盟层面：过去 20 年间大多数与科学、教育和培训相关的政策在欧盟理事会确立"成为全球最具竞争力[[Knowledge-Based Economy\|知识经济]]体"目标后制定；教育研究在 Horizon 2020 框架中被整合为横向议题，直接为政策制定提供证据基础（Thompson & Parreira do Amaral, 2022, pp.11–12）
-> - Horizon Europe (2021–) 进一步深化了这种"嵌入式"逻辑，SSH 研究被要求服务于"Europe's missions"（如抗击癌症、适应气候变化等），加剧了学科间的层级化分工（Thompson & Parreira do Amaral, 2022, pp.11–12）
+> - [[Horizon Europe]] (2021–) 进一步深化了这种"嵌入式"逻辑，SSH 研究被要求服务于"Europe's missions"（如抗击癌症、适应气候变化等），加剧了学科间的层级化分工（Thompson & Parreira do Amaral, 2022, pp.11–12）
 >
 
 ## 争议与批评

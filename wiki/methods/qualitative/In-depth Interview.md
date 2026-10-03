@@ -7,7 +7,7 @@ summary: "质性访谈中最核心的变体，通过与受访者进行持续深�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 69
+method_related_count: 70
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Paradigm]]"
   - "[[Document]]"
+  - "[[Big Science]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Space Production]]"
   - "[[Peidu]]"
@@ -94,7 +95,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-01
+updated: 2026-10-03
 ---
 
 # In-depth Interview
@@ -224,7 +225,7 @@ updated: 2026-10-01
 > - **偏误来源** 受访者记忆的选择性和动机性（Gadd, 2004, p. 384）；社会期望偏差；研究者自身的投射和解释偏差。
 > - **适用边界** 深度访谈不追求统计推广——将发现从少量个案推广到总体是不恰当的。
 > - **误用风险** 最常见的误用是将受访者叙述等同于客观事实，或将少数个体的发现直接推广到总体。
-> - **政策制定中的法定贬抑与[[Paradigm|范式]]抗辩** 在美国 2000 年卡斯尔草案（H.R. 4875, Sec. 6）中，深度访谈与[[Participant Observation|参与观察]]、[[Document|文献]]收集等质性方法在联邦法案草案中被统一定性为仅在机制因素“尚未充分提炼、理解或无法进行实验控制时”使用的“初步形式”（Preliminary Form）；[[National Research Council|国家研究委员会]]（NRC）六大科学原则与学术共同体的抗辩成功纠正了该狭隘取向，促成 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）删除了歧视[[Qualitative Interview|质性访谈]]的条款，确立了方法选择服务于[[Research Question|研究问题]]性质的原则（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 33–34]]）。
+> - **政策制定中的法定贬抑与[[Paradigm|范式]]抗辩** 在美国 2000 年卡斯尔草案（H.R. 4875, Sec. 6）中，深度访谈与[[Participant Observation|参与观察]]、[[Document|文献]]收集等质性方法在联邦法案草案中被统一定性为仅在机制因素“尚未充分提炼、理解或无法进行实验控制时”使用的“初步形式”（Preliminary Form）；[[National Research Council|国家研究委员会]]（NRC）六[[Big Science|大科学]]原则与学术共同体的抗辩成功纠正了该狭隘取向，促成 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）删除了歧视[[Qualitative Interview|质性访谈]]的条款，确立了方法选择服务于[[Research Question|研究问题]]性质的原则（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 33–34]]）。
 > - **补救方式** [[Triangulation\|三角互证]]、人员校验、跟踪式设计、[[Reflexivity\|反身性]]记录、明确区分[[Analytic Generalization\|分析性推广]]与统计性推广。
 
 ---

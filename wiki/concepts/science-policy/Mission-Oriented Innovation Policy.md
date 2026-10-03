@@ -10,10 +10,10 @@ aliases:
 summary: "以应对重大社会挑战和变革性系统转型为核心导向，通过主动塑造与共创市场、战略方向引导、挑选意愿者、三层公共动态能力构建与引领和学习范式推动创新的公共政策体系"
 type: concept
 domain: "science-policy"
-related_count: 42
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - concept/science-policy
   - innovation-policy
@@ -23,20 +23,23 @@ tags:
   - public-governance
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Market Failure]]"
   - "[[Directionality of Innovation]]"
   - "[[Market Shaping and Creating]]"
   - "[[Picking the Willing]]"
   - "[[Public Dynamic Capabilities]]"
+  - "[[Lead-and-Learn Paradigm]]"
   - "[[Scientific Uncertainty]]"
   - "[[Document]]"
+  - "[[Grand Challenges]]"
   - "[[Open-Mindedness]]"
   - "[[Growth]]"
-  - "[[Lead-and-Learn Paradigm]]"
   - "[[Innovation Policy Paradigms]]"
   - "[[Transformative Change]]"
   - "[[Technology Transfer]]"
   - "[[New Public Management]]"
   - "[[Network Governance]]"
+  - "[[Big Science]]"
   - "[[Wicked Problem]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Patient Capital]]"
@@ -57,13 +60,18 @@ related_theories:
   - "[[Punctuated Equilibrium Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Cost-Benefit Analysis]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"
+  - "[[Joseph Schumpeter]]"
 related_facts:
   - "[[UN Sustainable Development Goals]]"
+  - "[[System Althoff]]"
+  - "[[Ministry of International Trade and Industry]]"
   - "[[DARPA]]"
+  - "[[Horizon Europe]]"
 related_arguments:
   - "[[Argument_Wanzenbock_2020_SPP]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
@@ -82,7 +90,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> **使命导向创新政策（Mission-Oriented Innovation Policy, MOIP / MIP）**是指一种旨在调动前沿科学、技术与产业创新资源，以解决具有明确社会紧迫性的重大社会挑战（如气候危机、公共卫生、能源转型与数字包容）的系统性公共政策[[Paradigm|范式]]。不同于传统基于新古典福利经济学被动修补市场失灵或国家[[Systems of Innovation|创新系统理论]]修补网络失灵的模式，使命导向创新政策强调为经济与社会–技术系统提供明确的方向性（[[Directionality of Innovation|directionality]]），通过主动进行[[Market Shaping and Creating|市场塑造与市场共创]]、[[Picking the Willing|挑选意愿者]]（Picking the willing）、构建三层[[Public Dynamic Capabilities|公共部门动态能力]]，推动公共治理从被动的“支持与衡量”向主动的“引领与学习”范式转变。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 474–475)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–791)]]
+> **使命导向创新政策（Mission-Oriented Innovation Policy, MOIP / MIP）**是指一种旨在调动前沿科学、技术与产业创新资源，以解决具有明确社会紧迫性的重大社会挑战（如气候危机、公共卫生、能源转型与数字包容）的系统性公共政策[[Paradigm|范式]]。不同于传统基于新古典福利经济学被动修补[[Market Failure|市场失灵]]或国家[[Systems of Innovation|创新系统理论]]修补网络失灵的模式，使命导向创新政策强调为经济与社会–技术系统提供明确的方向性（[[Directionality of Innovation|directionality]]），通过主动进行[[Market Shaping and Creating|市场塑造与市场共创]]、[[Picking the Willing|挑选意愿者]]（Picking the willing）、构建三层[[Public Dynamic Capabilities|公共部门动态能力]]，推动公共治理从被动的“支持与衡量”向主动的“[[Lead-and-Learn Paradigm|引领与学习]]”范式转变。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 474–475)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–791)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向国家和公共机构为了达成特定重大社会转型目标而主动设立议程、开辟全新[[Technological Trajectories|技术轨道]]、引导创新方向并协同多元跨界主体的战略治理体系。
@@ -95,7 +103,7 @@ updated: 2026-10-03
 > *MIP relates to policies supporting transformative system change... Societal challenges may need fundamental societal transformations, requiring not just technological, but also institutional and behavioural change... Accordingly, a major part of MIP lies in ensuring legitimacy, broad engagement, and cooperation among multiple actors to govern the wicked challenges of current societies.*
 
 > [!citation-card] 经济增长的方向性与“引领与学习”范式
-> 世界各国都在追求智慧型（创新引领）、包容性与可持续的经济增长。这种追求表明经济增长不仅具有速率，更具有方向。应对21世纪的重大挑战，创新政策必须从既有的“支持与衡量”方法（寻找市场失灵、用扶持工具修补并衡量其影响）转向“引领与学习”方法（运用多样化政策工具开辟与塑造具有[[Open-Mindedness|开放性]]影响视野的市场，并通过广泛的社会参与和协调实现组织学习）。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787, 797–798)]]
+> 世界各国都在追求智慧型（创新引领）、包容性与可持续的经济增长。这种追求表明经济增长不仅具有速率，更具有方向。应对21世纪的[[Grand Challenges|重大挑战]]，创新政策必须从既有的“支持与衡量”方法（寻找市场失灵、用扶持工具修补并衡量其影响）转向“引领与学习”方法（运用多样化政策工具开辟与塑造具有[[Open-Mindedness|开放性]]影响视野的市场，并通过广泛的社会参与和协调实现组织学习）。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787, 797–798)]]
 >
 > *Economic [[Growth]] has not only a rate but also a direction... To tackle the grand challenges of the 21st century, innovation policy needs to shift from the existing support-and-measure approach to innovation policy to [[Lead-and-Learn Paradigm|lead-and-learn approach]].*
 
@@ -111,14 +119,14 @@ updated: 2026-10-03
 > [!contrast-table] [[Innovation Policy Paradigms|创新政策三范式]]对照
 > | 比较维度 | 传统研发政策（Frame 1: 科学促增长） | 国家[[Systems of Innovation\|创新系统]]政策（Frame 2: 系统协同） | 使命导向创新政策（Frame 3: [[Transformative Change\|变革转型]]） |
 > |---|---|---|---|
-> | **核心哲学** | 修正市场失灵（Market Fixing） | 修正系统与网络失灵（System Fixing） | [[Market Shaping and Creating\|主动市场塑造与共创（Market Shaping）]] |
+> | **核心哲学** | 修正[[Market Failure\|市场失灵]]（Market Fixing） | 修正系统与网络失灵（System Fixing） | [[Market Shaping and Creating\|主动市场塑造与共创（Market Shaping）]] |
 > | **干预目标** | 提高基础科研产出与经济增速 | 优化产学研合作与国家产业竞争力 | 应对重大社会挑战与实现可持续系统转型 |
 > | **方向选择** | 中立与横向支持（不干涉方向） | 促进现有产业集群协同（基于既有轨道） | 战略性设立转型方向，[[Picking the Willing\|挑选意愿者]]（Picking the willing） |
 > | **治理工具** | 通用税收抵免、基础研究拨款 | 产学研合作平台、[[Technology Transfer\|技术转移]]中心、孵化器 | ROAR 框架、任务采购、动态组合管理、风险收益共享 |
 > | **组织[[Paradigm\|范式]]** | [[New Public Management\|新公共管理]]（支持与衡量） | 官产学三螺旋[[Network Governance\|网络治理]] | [[Lead-and-Learn Paradigm\|引领与学习范式]]、三层[[Public Dynamic Capabilities\|公共动态能力]] |
 
 > [!contrast-table] 新旧代际使命导向型政策特征深度辨析
-> | 比较维度 | 第一代（骆驼：后发追赶） | 第二代（狮子：大科学攻关） | 第三代（儿童：社会–技术重大挑战） |
+> | 比较维度 | 第一代（骆驼：后发追赶） | 第二代（狮子：[[Big Science\|大科学]]攻关） | 第三代（儿童：社会–技术[[Grand Challenges\|重大挑战]]） |
 > |---|---|---|---|
 > | **核心动因** | 国家生存与现代化追赶 | 国家安全与冷战太空军备竞赛 | 气候中和、老龄化照护与可持续发展 |
 > | **任务性质** | 建立现代大学、央行与工业基座 | 明确界定的物理与工程技术难题 | 充满价值争议与行为变革的[[Wicked Problem\|棘手问题]] |
@@ -135,7 +143,7 @@ updated: 2026-10-03
 ## 核心要素与治理架构
 
 > [!feature] 使命导向政策的两大核心支柱（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018, pp. 789–790]]）
-> - **确立公共投资的战略目的（Purpose-Setting for Public Investments）** 将大科学（Big Science）研究能力与重大社会难题应对深度结合，打破新古典市场失灵框架，通过长期[[Patient Capital|耐性资本]]为国家发展锚定前沿方向。
+> - **确立公共投资的战略目的（Purpose-Setting for Public Investments）** 将[[Big Science|大科学]]（Big Science）研究能力与重大社会难题应对深度结合，打破新古典[[Market Failure|市场失灵]]框架，通过长期[[Patient Capital|耐性资本]]为国家发展锚定前沿方向。
 > - **开辟与塑造新市场条件（[[Market Shaping and Creating|market shaping]] & Creating Conditions）** 借助战略性公共采购、规制重塑与需求侧牵引，促进大科学成果在供给端与需求端产生广泛外溢，引导与撬动私营企业与第三部门开展自发探索与协同创新。
 
 > [!feature] 现代使命导向政策的五大遴选与推进标准（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018, pp. 811–812]]）
@@ -148,7 +156,7 @@ updated: 2026-10-03
 > [!quad-grid] ROAR 政策[[Analytic Framework|分析框架]]四大支柱（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018, pp. 809–810]]）
 > - **战略路径与方向（Routes）** 公共政策主动确立社会转型方向，通过广泛的民主审议确保方向合法性，将宏大挑战转化为聚焦载体。
 > - **探索型组织能力（Organizations）** 构建具备试错自主权、能够容忍早期失败并提供长期[[Patient Capital|耐性资本]]（Patient Capital）的去中心化公共机构网络。
-> - **[[Public Value|公共价值]]动态评估（Assessment）** 超越静态成本收益分析（CBA）与挤出效应[[Hypothesis|假设]]，建立涵盖全价值链溢出与系统转型的公共价值动态监测体系。
+> - **[[Public Value|公共价值]]动态评估（Assessment）** 超越静态[[Cost-Benefit Analysis|成本收益分析]]（CBA）与挤出效应[[Hypothesis|假设]]，建立涵盖全价值链溢出与系统转型的公共价值动态监测体系。
 > - **风险与收益共享（Risks & rewards）** 构建公私对等的收益共享机制（股权保留、特许权提成、价格上限），消除“风险社会化、收益私有化”的制度不公。
 
 > [!quad-grid] [[Public Dynamic Capabilities|公共部门动态能力]]的三层演化矩阵（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018, pp. 796–798]]）
@@ -158,7 +166,7 @@ updated: 2026-10-03
 > - **演化选择环境（Selection Environment）** 包含媒体监督、选举制度、议会制衡与社会公众抗辩在内的社会政治反馈机制，驱动动态能力的内生演进与制度化沉淀。
 
 > [!dimension] 使命导向创新政策的四层金字塔治理架构（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018, p. 810]]）
-> - **顶层：宏大社会挑战（Grand Challenges）**
+> - **顶层：宏大社会挑战（[[Grand Challenges]]）**
 >   [[UN Sustainable Development Goals|联合国可持续发展目标]]（SDGs）、气候适应、人口老龄化与公共卫生危机等宏观社会难题。
 > - **中层：具体战略使命（Missions）**
 >   将宏大挑战转化为目标明确、指标可衡量且具备刚性时限的战略攻关任务（如“无塑海洋使命”）。
@@ -225,7 +233,7 @@ updated: 2026-10-03
 > 剖析使命导向政策在过去一个半世纪中的治理[[Paradigm|范式]]变迁，揭示[[Public Dynamic Capabilities|公共动态能力]]作为使命政策执行底座的理论必然性。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
-> **三代演化与公共动态能力命题** 莱纳·[[Rainer Kattel|卡特尔]]与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]指出，使命导向政策经历了从后发追赶（骆驼形态）、大科学攻坚（狮子形态）到社会–技术挑战敏捷实验（儿童形态）的三代历史演进。为应对 21 世纪的复杂社会使命，公共部门必须打破[[New Public Management|新公共管理]]所主导的被动“支持与衡量”模式，在国家政治合法性、政策协同组合与行政敏捷流动三个层级构建[[Public Dynamic Capabilities|公共部门动态能力]]，确立以主动塑造市场、鼓励跨界实验与全生命周期反思学习为特征的[[Lead-and-Learn Paradigm|引领与学习范式]]，从而有效克服现代政策的[[Complexity Paradox|复杂性悖论]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–798)]]
+> **三代演化与公共动态能力命题** 莱纳·[[Rainer Kattel|卡特尔]]与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]指出，使命导向政策经历了从后发追赶（骆驼形态）、[[Big Science|大科学]]攻坚（狮子形态）到社会–技术挑战敏捷实验（儿童形态）的三代历史演进。为应对 21 世纪的复杂社会使命，公共部门必须打破[[New Public Management|新公共管理]]所主导的被动“支持与衡量”模式，在国家政治合法性、政策协同组合与行政敏捷流动三个层级构建[[Public Dynamic Capabilities|公共部门动态能力]]，确立以主动塑造市场、鼓励跨界实验与全生命周期反思学习为特征的[[Lead-and-Learn Paradigm|引领与学习范式]]，从而有效克服现代政策的[[Complexity Paradox|复杂性悖论]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–798)]]
 
 ---
 
@@ -235,7 +243,7 @@ updated: 2026-10-03
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **双重棘手性命题** | 批判技术[[Determinism\|决定论]]，主张同时解构问题与方案两端的争议性、复杂性与不确定性 | 面向气候、能源、公共健康等复杂社会转型的顶层设计 | [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]]; Weber & Rohracher (2012) |
-> | **路径收敛命题** | 揭示使命合法化与技术方案落地的三类动态过程演化机制 | 政策工具组合选择、试验示范区建设与社会各方博弈协调 | [[Iris Wanzenböck\|Wanzenböck 团队]]; [[Mariana Mazzucato\|马祖卡托]] |
+> | **路径收敛命题** | 揭示使命合法化与技术方案落地的三类动态过程演化机制 | 政策工具组合选择、试验示范区建设与社会各方博弈协调 | 同上（2020）; [[Mariana Mazzucato\|马祖卡托]] |
 > | **挑选意愿者机制** | 确立以社会挑战为中心的跨行业协同，化解传统产业补贴的寻租与低效 | 绿色低碳转型、重大公共卫生攻坚与现代工业战略重构 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
 > | **风险收益对称共享** | 建立股权保留、特许权提成与限价机制，扭转公私利益失衡 | 医药研发公私合作、清洁能源担保贷款与开发性金融支持 | [[Mariana Mazzucato\|马祖卡托（风险收益分配理论）]] |
 > | **三代演进与公共动态能力** | 融合企业双元动态能力与韦伯国家能力，以三层能力矩阵支撑引领与学习范式 | 应对复杂性悖论、重构国家创新机构与推进数字化服务转型 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018)]] |
@@ -245,11 +253,11 @@ updated: 2026-10-03
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **19 世纪末至 20 世纪初 — 第一代后发追赶使命（骆驼形态）** 德国阿尔托夫体制与日本通商产业省（MITI）依托韦伯式功绩官僚建立[[Research Universities|研究型大学]]与工业现代化底座。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–793)]]
-> - **1940s–1960s — 第二代冷战大科学使命（狮子形态）** 美国曼哈顿工程、阿波罗计划与 [[DARPA]] 模式，依靠垂直集权国家实验室进行硬科技攻坚，产生巨大民用外溢。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
+> - **19 世纪末至 20 世纪初 — 第一代后发追赶使命（骆驼形态）** 德国[[System Althoff|阿尔托夫体制]]与[[Ministry of International Trade and Industry|日本通商产业省]]（MITI）依托韦伯式功绩官僚建立[[Research Universities|研究型大学]]与工业现代化底座。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–793)]]
+> - **1940s–1960s — 第二代冷战[[Big Science|大科学]]使命（狮子形态）** 美国曼哈顿工程、阿波罗计划与 [[DARPA]] 模式，依靠垂直集权国家实验室进行硬科技攻坚，产生巨大民用外溢。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
 > - **1993 — 新旧使命对比理论化** 索特与阿伦德尔（Soete & Arundel, 1993）首次系统对比了传统国防航天使命与以环境社会挑战为中心的新型使命政策。
 > - **2012 — [[Transformative System Failures|变革性系统失灵]]框架提出** Weber & Rohracher（2012）提出涵盖方向性、需求表达、[[Reflexivity|反思性]]与跨层级协调的四类系统失灵，为新一代使命政策奠定理论基石。
-> - **2018 — 欧盟地平线欧洲战略确立与 ROAR 框架** [[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）提出[[Market Shaping and Creating|市场塑造]]、[[Picking the Willing|挑选意愿者]]机制与 ROAR [[Analytic Framework|分析框架]]，推动使命导向框架进入欧盟科研创新顶层设计。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
+> - **2018 — 欧盟[[Horizon Europe|地平线欧洲]]战略确立与 ROAR 框架** [[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）提出[[Market Shaping and Creating|市场塑造]]、[[Picking the Willing|挑选意愿者]]机制与 ROAR [[Analytic Framework|分析框架]]，推动使命导向框架进入欧盟科研创新顶层设计。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
 > - **2018 — 三代演化理论与[[Public Dynamic Capabilities|公共部门动态能力]]构建** [[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]提出三代使命政策理论，打破 [[New Public Management|NPM]] 束缚，确立国家、政策与行政三层[[Public Dynamic Capabilities|公共动态能力]]及[[Lead-and-Learn Paradigm|引领与学习范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]
 > - **2020 — 过程导向与问题–解决方案空间建构** [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]]系统解构社会挑战的双重棘手性，提出基于问题–解决方案空间的过程导向收敛路径框架。
 
@@ -269,7 +277,7 @@ updated: 2026-10-03
 > > [!axis] 传统成本收益控制与引领学习容错文化的冲突
 > > 争论公共机构在推进高风险探索时是否应当沿用[[New Public Management|新公共管理]]的微观项目合规考核。
 > >
-> > - **新公共管理派** 坚持严格的事前成本收益分析（CBA）与防错问责。
+> > - **新公共管理派** 坚持严格的事前[[Cost-Benefit Analysis|成本收益分析]]（CBA）与防错问责。
 > > - **[[Public Dynamic Capabilities|公共动态能力]]派** 指出创新具有根本不确定性，必须建立容忍探索性失败的反思学习平台，避免因微观合规导致[[Complexity Paradox|复杂性悖论]]与协调瘫痪。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–798)]]
 
 > [!warning] 适用局限与能力边界
@@ -281,7 +289,7 @@ updated: 2026-10-03
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 系统梳理使命导向政策的百年三代演进历程，提出融合熊彼特动态能力与韦伯国家能力的三层动态能力构架，确立从“支持与衡量”向[[Lead-and-Learn Paradigm|引领与学习范式]]的转型路径。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 系统梳理使命导向政策的百年三代演进历程，提出融合[[Joseph Schumpeter|熊彼特]]动态能力与韦伯国家能力的三层动态能力构架，确立从“支持与衡量”向[[Lead-and-Learn Paradigm|引领与学习范式]]的转型路径。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 奠基性理论[[Document|文献]]，系统论证使命导向创新政策从市场修补转向[[Market Shaping and Creating|市场塑造]]与共创，提出 ROAR 治理框架与五大遴选标准。
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 提出基于问题–解决方案空间的使命导向创新政策[[Analytic Framework|分析框架]]，系统阐述其内涵、棘手维度与收敛路径。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 论述[[Innovation Policy Paradigms|创新政策三范式]]演进脉络，分析[[Transformative Change|变革转型范式]]下大学作为中立召集者与方向性情报贡献者的新型角色定位。

@@ -8,15 +8,15 @@ aliases:
 summary: "2012 年由世界银行、英国外交联邦及发展事务部（FCDO，前 DFID）与美国国际开发署（USAID）联合发起的多边捐助国协调组织，致力于统一全球教育实证研究、严格评估与随机对照实验（RCT）的方法论规程。在数字治理 2.0 时代，该工作组被批判性学者视为发达出资国与国际金融机构构建排他性同盟、垄断全球教育政策证据准入标准并维系结构性干预特权的典型机制。"
 type: fact
 subtype: organization
-region: "global"
+region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
-org_type: "multilateral-donor-coalition"
-headquarters: "Washington, D.C."
+org_type: multilateral-donor-coalition
+headquarters: Washington, D.C.
 established: "2012"
 tags:
   - fact/organization
@@ -39,6 +39,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Cost-Benefit Analysis]]"
   - "[[Qualitative Research]]"
 related_instruments: []
 related_persons: []
@@ -46,7 +47,7 @@ related_facts:
   - "[[World Bank]]"
   - "[[UNICEF]]"
   - "[[UNESCO]]"
-  - "[[SMART]]"
+  - "[[Start Making a Reader Today]]"
   - "[[Learning Data Compact]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[OECD]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-01
+updated: 2026-10-03
 ---
 
 # Building Evidence in Education
@@ -79,7 +80,7 @@ updated: 2026-10-01
 
 > [!dev-timeline] 组织发展历程
 > - **2012–2014 — 联盟创设与标准统一** [[World Bank\|世界银行]]联手英美双边发展机构正式组建 BE2，发布首版评估方法论指导框架，力推[[Randomised Controlled Trials\|随机对照试验]]（RCTs）作为教育干预有效性的核心基准。
-> - **2015–2020 — 扩容与指南体系建设** 吸收澳大利亚外交贸易部（DFAT）、[[UNICEF\|联合国儿童基金会]]（UNICEF）、[[UNESCO\|联合国教科文组织]]（UNESCO）等机构以观察员或轮值成员身份加入；联合国际影响评估倡议（3ie）等机构发布教育干预成本效益分析标准指南。
+> - **2015–2020 — 扩容与指南体系建设** 吸收澳大利亚外交贸易部（DFAT）、[[UNICEF\|联合国儿童基金会]]（UNICEF）、[[UNESCO\|联合国教科文组织]]（UNESCO）等机构以观察员或轮值成员身份加入；联合国际影响评估倡议（3ie）等机构发布教育干预[[Cost-Benefit Analysis|成本效益分析]]标准指南。
 > - **2021–至今 — [[Governing by Numbers\|数字治理]] 2.0 时代的同盟强化** 在全球证据供给过量与多边竞争加剧的背景下，BE2 进一步强化排他性协作网络，通过共同资助与证据准入白名单机制，巩固捐助方在[[International Education\|国际教育]][[Policy Brokerage\|政策中介]]中的话语霸权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 
 ---
@@ -103,7 +104,7 @@ updated: 2026-10-01
 > [!finding-cards] 核心产品与业务矩阵
 > - **方法论评估规程** 发布《教育研究证据评估指南》（*Guidance Note on Assessing the Strength of Evidence in Education*），确立[[Causality\|因果推断]]实证研究的质量评级金字塔。
 > - **成本效益核算工具** 联合开发标准化的教育干预“每单位产出成本测算模板”，将识字率、算术达标率等量化产出折算为美元效益比。
-> - **智慧型政策指南** 汇编全球教育“最佳投资（[[SMART]] Buys）”政策清单，向[[Development Education|发展中国家教育]]部强力推介经 [[Randomised Controlled Trials\|RCT]] 验证的标准化教学干预包。
+> - **智慧型政策指南** 汇编全球教育“最佳投资（[[Start Making a Reader Today]] Buys）”政策清单，向[[Development Education|发展中国家教育]]部强力推介经 [[Randomised Controlled Trials\|RCT]] 验证的标准化教学干预包。
 
 > [!citation-card] 证据评估准则与成本效益考量
 > 发展中国家面临着严峻的财政约束，每一笔教育投入都必须建立在无可置疑的严格因果证据之上。工作组的使命是确立明确的标准，剔除缺乏严谨因果推断的研究，确保捐助方与受援国政府共同依靠经过实证检验的最佳方案来提高学习成果。(BE2, 2014)

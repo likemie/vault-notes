@@ -10,7 +10,7 @@ aliases:
 summary: "公众自愿、直接参与科学研究全生命周期（从数据采集、模式分类到议程共创与政策转化）的协作科研范式，兼具突破科研时空瓶颈、赋权公众科学资本与民主化重大使命创新方向的多维价值。"
 type: concept
 domain: "sociology-of-education"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Knowledge Co-production]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Wicked Problem]]"
+  - "[[Big Science]]"
   - "[[Nature of Science]]"
   - "[[Self-Efficacy]]"
   - "[[Knowledge Production]]"
@@ -42,6 +43,7 @@ related_facts:
   - "[[The Perception Census]]"
   - "[[Public Attitudes to Science]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[Horizon Europe]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
@@ -91,7 +93,7 @@ updated: 2026-10-03
 
 > [!feature] 公民科学的四大理论支柱（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society, 2026, pp. 43, 46]]）
 >
-> - **科研生产力与海量时空数据赋能（Scientific Data & Scalability）** 突破传统职业科研团队在资金、编制与地理覆盖面上的物理瓶颈，构建数以百万计的连续时空监测数据集，为国家生态红线规划与复杂大科学工程提供基准底座。
+> - **科研生产力与海量时空数据赋能（Scientific Data & Scalability）** 突破传统职业科研团队在资金、编制与地理覆盖面上的物理瓶颈，构建数以百万计的连续时空监测数据集，为国家生态红线规划与复杂[[Big Science|大科学工程]]提供基准底座。
 > - **[[Nature of Science|科学本质]]理解与探究心智培育（Nature of Science & Epistemic Mindset）** 使公众亲身经历提出问题、收集证据、辨别噪声与验证假说的完整科研过程，深刻领会科学知识的证据驱动性与暂定性，破除对静态教科书结论的教条迷信。
 > - **第三部门会员网络与法定政策转化（Third-Sector Mobilisation & Policy Impact）** 依托大型会员制公益机构（如英国国家信托拥有逾 500 万会员、英国皇家鸟类保护协会（Royal Society for the Protection of Birds, RSPB））动员全社会参与物种普查，将公民科学数据直接接入国家生物多样性网络与环境立法。
 > - **社区赋权与民主环境行动力（Community Agency & Environmental Action）** 通过在地化课题与身心健康研究，将抽象的科技原理转化为公众可感知、可操作的切身生活实践，极大激发公民的[[Self-Efficacy|自我效能感]]与集体环保治理行动力。
@@ -127,7 +129,7 @@ updated: 2026-10-03
 > [!concept-proposition] 命题四｜公民科学是民主化创新方向与落实重大使命政策的社会探针
 > **解释** 在[[Mission-Oriented Innovation Policy|使命导向创新政策]]框架下，重大科技战略不能仅依赖技术精英的自上而下闭门决策，而必须与[[UN Sustainable Development Goals|联合国可持续发展目标]]及广泛社会关切深度锚定。公民科学作为自下而上激发社会参与的结构性机制，能够广泛汇集民间智慧与分布式实验方案，使应对气候变化、海洋塑料治理与健康老龄化等[[Wicked Problem|棘手问题]]的国家使命具备坚实的公众合法性与落地黏性。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805, 807, 810)]]
 >
-> **应用实例** 欧盟“地平线欧洲”（Horizon Europe）与英国环境、食品和农村事务部（Department for Environment, Food and Rural Affairs, Defra）将公民科学采集的水体微塑料数据与土壤健康网络直接嵌入环境使命实施标准，形成国家政策与公众行动的双向闭环。
+> **应用实例** 欧盟“[[Horizon Europe|地平线欧洲]]”（Horizon Europe）与英国环境、食品和农村事务部（Department for Environment, Food and Rural Affairs, Defra）将公民科学采集的水体微塑料数据与土壤健康网络直接嵌入环境使命实施标准，形成国家政策与公众行动的双向闭环。
 
 ---
 

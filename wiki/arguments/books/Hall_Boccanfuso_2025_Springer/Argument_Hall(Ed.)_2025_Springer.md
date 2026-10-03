@@ -10,7 +10,7 @@ title: "Argument_Hall(Ed.)_2025_Springer"
 argument_key: "Argument_Hall(Ed.)_2025_Springer"
 argument_display_title: "University-Industry Collaboration: Innovation at the Interface"
 argument_kind: "book"
-argument_related_count: 89
+argument_related_count: 90
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Executive Education]]"
   - "[[Clinical Trial]]"
   - "[[Cooperative Education]]"
+  - "[[Grand Challenges]]"
   - "[[Corporate Venture Capital]]"
   - "[[Innovation Park]]"
   - "[[Research Ethics]]"
@@ -230,7 +231,7 @@ citation_aliases:
 | 障碍与机遇 | 临床研究与资助研究 | 版权       |
 | 合作    | 社区伙伴关系    | 数据安全与共享  |
 | 参与    | [[Cooperative Education\|合作教育]]      | 外部参与     |
-| 重大挑战  | [[Corporate Venture Capital\|企业风险投资]]    | 知识产权     |
+| [[Grand Challenges\|重大挑战]]  | [[Corporate Venture Capital\|企业风险投资]]    | 知识产权     |
 | 创新与接口 | 经济与区域发展   | 国际合作     |
 | [[Organizational Culture\|组织文化]]  | 创业        | 许可与专利    |
 | 伙伴关系  | 资金与支持计划   | 材料转移     |

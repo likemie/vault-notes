@@ -14,7 +14,7 @@ aliases:
 summary: "衡量教育、研发、社会创新或组织协同投入与所产生综合收益之间比率的核心经济学与治理构念。在宏观层面被建构为跨国放贷与远处治理的自指性指标帝国；在中观风险慈善层面演化为以商业纪律与因果量规重塑公共教育再分配的意识形态杠杆；在微观产学合作层面则通过各方对回报定义的结构性分歧驱动复合创新。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -63,6 +63,7 @@ related_theories:
   - "[[Governing at a Distance]]"
   - "[[Values Alignment Model]]"
 related_methods:
+  - "[[Cost-Benefit Analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
   - "[[In-depth Interview]]"
@@ -88,7 +89,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-06-02
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Return on Investment
@@ -115,7 +116,7 @@ updated: 2026-10-02
 > [!boundary]- 概念边界
 > - 不等于 单纯商业财务回报率（Financial ROI） — 商业财务 ROI 仅计算直接货币资本的账面净收益；教育与协同治理中的 ROI 涵盖个体终身工资溢价、社会税收增量、专利[[Technology Transfer\|技术转移]]、干预额外[[Months of Progress\|月度学业进展]]与临床健康收益等复合维度。
 > - 不等于 价值对齐（Values Alignment） — 价值对齐解决的是“如何协调各方建立共同愿景与信任基石”，ROI 解决的是“各方各自从中获取何种具体可核算的回报”，二者互为表里。
-> - 不等于 简单成本效益分析（Cost-Benefit Analysis, CBA） — 投资回报框架更强调资本投入的时间贴现、[[Counterfactual\|反事实]]（counterfactual）因果对照以及基于投资逻辑所索取的后续治理权与财产权。
+> - 不等于 简单[[Cost-Benefit Analysis|成本效益分析]]（Cost-Benefit Analysis, CBA） — 投资回报框架更强调资本投入的时间贴现、[[Counterfactual\|反事实]]（counterfactual）因果对照以及基于投资逻辑所索取的后续治理权与财产权。
 
 ---
 

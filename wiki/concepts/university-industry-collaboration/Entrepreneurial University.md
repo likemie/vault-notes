@@ -93,14 +93,14 @@ updated: 2026-10-03
 
 ## 核心要素与支撑架构
 
-> [!feature] 创业型大学的四大微观组织要素（Boccanfuso & Hall, 2025b, p. 52; Hall & Lulich, 2021）
+> [!feature] 创业型大学的四大微观组织要素（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p. 52]]; Hall & Lulich, 2021）
 >
 > - **文化适应（Cultural Adaptation）** 在院系内部形成尊重并鼓励应用研究与社会参与的探究心智，破除将外部资助视为损害学术纯洁性的观念壁垒。
 > - **组织重构（Organizational Restructuring）** 设立专业化的中介支持部门，如产业关系办公室、战略伙伴联盟中心与概念验证中心。
 > - **激励兼容（Incentive Compatibility）** 将应用成果转化、社会服务溢出与跨学科团队协作纳入教师终身教职与晋升评审指标，实施透明的知识产权收益分成制度。
 > - **战略整合（Strategic Integration）** 校长与教务长在大学顶层愿景中明确界定创新与社会转型的战略优先级，推动全校科研方向与国家重大使命紧密对接。
 
-> [!ref-table] 早期成果孵化与跨越鸿沟的基础设施矩阵（Gilison & Wilson, 2025, pp. 147–149）
+> [!ref-table] 早期成果孵化与跨越鸿沟的基础设施矩阵（[[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson, 2025, pp. 147–149]]）
 >
 > | 基础设施类型 | 核心运行机制 | 代表性高校案例 | 关键转化功能 |
 > |:---|:---|:---|:---|

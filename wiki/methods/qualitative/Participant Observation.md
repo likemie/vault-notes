@@ -7,7 +7,7 @@ summary: "质性研究中研究者同时扮演参与者和观察者角色，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 53
+method_related_count: 54
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Paradigm]]"
   - "[[Document]]"
+  - "[[Big Science]]"
   - "[[Scientific Method]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Emic and Etic]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-01
+updated: 2026-10-03
 ---
 
 # Participant Observation
@@ -175,7 +176,7 @@ Wolff（2004, pp. 195–196）和 Flick（1998, p. 57）指出进入现场的六
 > - **偏误来源** 反应性（研究者改变情境）、研究者偏见（选择性注意和解释）、光环/牛角效应（对参与者的预判影响观察）。
 > - **适用边界** 研究发现通常不可统计概括到总人口；严重依赖研究者在场时间长度和质量；进入和维持[[Champ\|场域]]关系可能极困难或不可能。
 > - **误用风险** 将短暂的现场访问等同于参与观察；未进行足够时间的驻留即声称达到"饱和"；以研究者自身解释替代参与者观点。
-> - **政策制定中的法定贬抑与[[Paradigm|范式]]抗辩** 在美国 2000 年卡斯尔草案（H.R. 4875, Sec. 6）中，参与观察与[[In-depth Interview|深度访谈]]、[[Document|文献]]收集被共同捆绑归类为“[[Qualitative Research|质性研究]]标准”，在法律条文中被明文贬抑为仅在相关因素“尚未充分提炼、理解或无法进行实验控制时”使用的“初步形式”（Preliminary Form）；[[National Research Council|国家研究委员会]]（NRC）六大科学原则与学者共同体的国会质证成功反驳了将田野深度观察视为量化附庸的立法企图，促成 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）删除了此类歧视性条款（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 33–34]]）。
+> - **政策制定中的法定贬抑与[[Paradigm|范式]]抗辩** 在美国 2000 年卡斯尔草案（H.R. 4875, Sec. 6）中，参与观察与[[In-depth Interview|深度访谈]]、[[Document|文献]]收集被共同捆绑归类为“[[Qualitative Research|质性研究]]标准”，在法律条文中被明文贬抑为仅在相关因素“尚未充分提炼、理解或无法进行实验控制时”使用的“初步形式”（Preliminary Form）；[[National Research Council|国家研究委员会]]（NRC）六[[Big Science|大科学]]原则与学者共同体的国会质证成功反驳了将田野深度观察视为量化附庸的立法企图，促成 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）删除了此类歧视性条款（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 33–34]]）。
 > - **补救方式** 延长驻留、成员检查、[[Triangulation\|三角验证]]（多方法、多观察者）、[[Reflexivity\|反身性]]日志、同伴情况报告。
 
 ---

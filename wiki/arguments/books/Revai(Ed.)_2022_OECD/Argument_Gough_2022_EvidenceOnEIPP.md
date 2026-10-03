@@ -7,7 +7,7 @@ title: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_key: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_display_title: "Evidence on evidence-informed policy and practice"
 argument_kind: "book-chapter"
-argument_related_count: 72
+argument_related_count: 73
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -46,6 +46,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
+  - "[[Cost-Benefit Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Multi-Arm Trial]]"
   - "[[Questionnaire]]"
@@ -182,7 +183,7 @@ sources:
 > |---|---|---|---|---|---|
 > | **打包干预项目类门户**<br>（5 个） | **健康青年发展蓝图**<br>（Blueprints for Healthy Youth Development） | 美国；科罗拉多大学博尔德分校行为科学研究所 | 针对青少年暴力预防、心理健康、药物滥用与学业促进的品牌化打包干预项目 | **仅依据一至两项优良研究**<br>（要求至少 1–2 项高质量[[Randomised Controlled Trials\|随机对照试验]]或准实验设计（Quasi-Experimental Designs, QED），附带无负面效应前提） | 设定示范与有前景双层评级；其风险在于仅凭个别高度受控实验样本的成功即下断言，极易掩盖干预在真实复杂学校生态中的迁移失败与效度衰减（p. 154） |
 > | | **犯罪解决方案网**<br>（CrimeSolutions.gov / CrimeSolutions） | 美国；美国司法部国家司法研究所（National Institute of Justice, NIJ） | 刑事司法、青少年司法矫正、社区治安防范、涉毒法庭与受害者支持打包项目 | **仅依据一至两项优良研究**<br>（由两名独立方法学专家对 1–2 项单项严谨评估报告进行打分，评定有效、有前景或无效应） | 直接作为美国联邦政府刑事司法经费采购准入依据；但评定仅反映入选单项评估的局部数据，无法甄别未发表的负面研究偏倚与跨司法区实施变异（p. 154） |
-> | | **结果第一清算数据库**<br>（Results First Clearinghouse Database） | 美国；皮尤慈善信托（Pew Charitable Trusts）与麦克阿瑟基金会 | 跨部门综合清算数据库，系统汇聚九大知名清算所在儿童福利、司法、心理健康等领域的数千项干预项目评级与成本效益分析 | **仅依据一至两项优良研究**<br>（二级元清算库；因聚合的上游各专业清算所普遍依赖 1–2 项研究，故继承了该底层方法学脆弱性） | 为各州立法机构提供财政预算与因果成效对照；但直接并置各专业清算所迥异的评价准则，在政策端引发同名项目评级冲突与标准混乱（pp. 154–155） |
+> | | **结果第一清算数据库**<br>（Results First Clearinghouse Database） | 美国；皮尤慈善信托（Pew Charitable Trusts）与麦克阿瑟基金会 | 跨部门综合清算数据库，系统汇聚九大知名清算所在儿童福利、司法、心理健康等领域的数千项干预项目评级与[[Cost-Benefit Analysis\|成本效益分析]] | **仅依据一至两项优良研究**<br>（二级元清算库；因聚合的上游各专业清算所普遍依赖 1–2 项研究，故继承了该底层方法学脆弱性） | 为各州立法机构提供财政预算与因果成效对照；但直接并置各专业清算所迥异的评价准则，在政策端引发同名项目评级冲突与标准混乱（pp. 154–155） |
 > | | **加州儿童福利循证清算中心**<br>（CEBC, California Evidence-Based Clearinghouse for Child Welfare） | 美国；加利福尼亚州社会服务部与查德威克儿童与家庭发展中心 | 针对儿童虐待预防、寄养照护、创伤辅导与家庭心理支持的打包实务干预方案与操作手册 | **仅依据一至两项优良研究**<br>（采用 1 至 5 级科研证据评分量表 Scientific Rating Scale，最高级 Well-Supported 仅需 2 项严谨对照试验） | 高度重视基层实务者的操作落地指引；但项目准入评估严重依赖商业开发团队提交的研究，存在显著的开发人员赞助偏倚与证据选择性提交风险（p. 154） |
 > | | **有效社会项目网**<br>（Social Programs That Work） | 美国；循证政策联盟（Coalition for Evidence-Based Policy / Arnold Ventures） | 覆盖早期教育、基础教育、贫困救助、就业培训等领域达到最高因果证据标准的社会示范项目 | **仅依据一至两项优良研究**<br>（设立极严苛的顶级示范门槛，强制要求在真实政策情境中由独立机构完成 1–2 项高质量多点 RCT） | 因果推论严谨性极高，但由于拒绝采纳[[Systematic Review\|系统综述]]整合与质性证据，导致入选项目极少（仅数十项），难以支撑绝大多数日常复杂教育政策议程（p. 154） |
 > | **通用干预策略类门户**<br>（10 个） | **英国教育捐赠基金会教学与学习工具包**<br>（[[Education Endowment Foundation\|EEF Teaching and Learning Toolkit]]） | 英国；英国教育捐赠基金会（EEF） | 评估中小学 30 余项通用教学策略（如反馈、[[Metacognition\|元认知]]、协作学习、同伴辅导、小班教学等）的增益成效 | **[[Systematic Review\|系统综述]]**<br>（对领域内全部因果实证文献开展二阶综合与[[Meta-analysis\|元分析]]，综合海量研究证据体量） | 创新性采用月度进展指标与挂锁评级（Padlocks）直观展示证据强度与实施成本；聚焦通用策略而非商业产品，有效规避了商业机构垄断公办采购的弊端（pp. 149–151, 154） |

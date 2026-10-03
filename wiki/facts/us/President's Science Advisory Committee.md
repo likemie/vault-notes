@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Socioscientific Issues]]"
   - "[[Grandes Ecoles]]"
   - "[[Indirect Costs of Research]]"
+  - "[[Big Science]]"
 related_methods:
   - "[[Agent-based Modelling]]"
 related_facts:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # President's Science Advisory Committee
@@ -89,7 +90,7 @@ updated: 2026-10-02
 > [!finding-cards] 代表性政策报告与重大战略建言
 > - **1960 年[[Seaborg Report 1960|西博格报告]]（Seaborg Report）** 发布《科学进步、大学与联邦政府》（*Scientific Progress, the Universities, and the Federal Government*），系统主张联邦大规模扩充大学基础研究预算、在全国打造 30–40 所世界级卓越中心，并确立[[Indirect Costs of Research|科研间接成本]]报销机制。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
 > - **国防与航天战略评估** 为白宫独立评估洲际弹道导弹推进技术、军用侦察卫星与民用 NASA 航天工程，有效平衡军种之间的预算内耗。
-> - **[[Federally Funded Research and Development Centers|联邦资助研究开发中心]]（FFRDC）治理建议** 就国家实验室（如费米实验室、劳伦斯伯克利实验室等）的运行机制、大科学设施开放共享提供战略规范。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
+> - **[[Federally Funded Research and Development Centers|联邦资助研究开发中心]]（FFRDC）治理建议** 就国家实验室（如费米实验室、劳伦斯伯克利实验室等）的运行机制、[[Big Science|大科学]]设施开放共享提供战略规范。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
 
 ---
 

@@ -6,7 +6,7 @@ aliases:
 summary: "一种预设从基础科学到技术开发再到经济增长单向因果链的概念模型；战后主导科技政策资源配置，后因忽视反馈机制、轻视工程发明的前提使能地位而遭受系统性批判"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 25
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Epistemology]]"
+  - "[[Big Science]]"
   - "[[Doxa]]"
   - "[[Theoretical Knowledge]]"
   - "[[Chain-linked Model]]"
@@ -27,6 +28,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Emergence]]"
   - "[[Total Factor Productivity]]"
+  - "[[Market Failure]]"
   - "[[Innovation Ecosystem]]"
   - "[[Paradigm]]"
   - "[[Multi-channel Interactive Learning Model]]"
@@ -49,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Linear Model of Innovation
@@ -64,7 +66,7 @@ updated: 2026-10-02
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种单向、自上而下、由科学单向推导技术的创新[[Epistemology|认识论假设]]。
 > - **用途** 帮助研究者透视国家科技资助体制如何以“基础”与“应用”的单维划分来组织科研预算，以及揭示其诱导出的政策短视。
-> - **边界** 适用于解释冷战时期大科学工程的组织意识形态；但完全不适合解释现代复杂技术系统的多时间尺度演进与技术向基础科学的反向催生机制。
+> - **边界** 适用于解释冷战时期[[Big Science|大科学工程]]的组织意识形态；但完全不适合解释现代复杂技术系统的多时间尺度演进与技术向基础科学的反向催生机制。
 
 > [!citation-card] 线性创新模型的文化与认知偏见
 > 该模型包含一个[[Doxa|不言自明]]的科学研究（以白大褂科学为象征）对技术开发（以邋遢工程为象征）的主导预设，很快成为工业组织安排创新活动的模板。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 863)]]
@@ -124,7 +126,7 @@ updated: 2026-10-02
 > **大学使命异化与欧洲悖论** 线性模型诱导政策制定者将大学狭隘地改造为专利生产流水线与商业孵化器，削弱了大学培养高素质批判性人才这一更为根本的知识扩散功能；在[[Total Factor Productivity|全要素生产率]]未达预期时又盲目指责大学转化不力，陷入政策逻辑闭环陷阱。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862, 866–867)]]
 
 > [!claim] Narayanamurti, V. et al.
-> **关键战略发明的资助断档危机** 政策制定者将线性模型与新古典经济学的市场失灵理论捆绑，规定公共财政只能资助纯基础研究，而技术发明必须交由市场承担；然而需要长期积累、极高资金密度的根本性硬件工艺与工具发明，由于投资回收期长达数十年，私营企业无力承担，政府又因其不是纯科学而拒绝资助，导致国家[[Innovation Ecosystem|创新生态]]发生灾难性的结构性断裂。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
+> **关键战略发明的资助断档危机** 政策制定者将线性模型与新古典经济学的[[Market Failure|市场失灵理论]]捆绑，规定公共财政只能资助纯基础研究，而技术发明必须交由市场承担；然而需要长期积累、极高资金密度的根本性硬件工艺与工具发明，由于投资回收期长达数十年，私营企业无力承担，政府又因其不是纯科学而拒绝资助，导致国家[[Innovation Ecosystem|创新生态]]发生灾难性的结构性断裂。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
 
 ---
 
@@ -141,7 +143,7 @@ updated: 2026-10-02
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1939 — 量化倡议初兴** 约翰·德斯蒙德·贝尔纳（John Desmond Bernal）测算了英国研发费用占国民生产总值的比例，首次系统性地从政策层面提出扩大科学经费投入以推动经济增长的量化主张。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 862)]]
+> - **1939 — 量化倡议初兴** 约翰·德斯蒙德·贝尔纳（John Desmond Bernal）测算了英国研发费用占国民生产总值的比例，首次系统性地从政策层面提出扩[[Big Science|大科学]]经费投入以推动经济增长的量化主张。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 862)]]
 > - **1945 — 政策[[Paradigm|范式]]确立** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）向美国总统提交《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》报告，将基础科学描述为技术进步的终极源泉，确立了二战后西方国家科研资助体系的线性底色。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
 > - **1950s末 — 经济学理论论证** 理查德·尼尔森（Richard Nelson）与肯尼斯·阿罗（Kenneth Arrow）运用公共品理论论证了基础科学知识的非排他性与非竞争性，为政府主导基础研究资助提供了经济学正当性，但也无意中强化了基础（公共）与应用（市场）的割裂。
 > - **1986 — [[Chain-linked Model|链式模型]]反驳** 斯蒂芬·克莱因（Stephen Kline）与内森·罗森伯格（Nathan Rosenberg）提出链式创新模型，系统论证创新始于市场与设计试错，基础研究并非线性起点。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 863)]]

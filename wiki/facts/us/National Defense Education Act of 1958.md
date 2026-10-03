@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Teaching Assistant]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Paradigm]]"
+  - "[[Big Science]]"
 related_facts:
   - "[[Sputnik Shock 1957]]"
   - "[[National Science Foundation]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # National Defense Education Act of 1958
@@ -81,7 +82,7 @@ updated: 2026-10-02
 > [!finding-cards] 关键成效与历史辐射
 > - **开创联邦资助高等教育与学生资助的制度基石** 法案设立的国防学生贷款直接演进为现代联邦学生贷款体系（如帕金斯贷款），使数十万工薪阶层青年得以接受高等教育，极大地推动了战后美国高等教育的大众化与科研人才库扩容。
 > - **大学顶尖科学家深度参与基础教育课程革新** 促成大学高水平研究学者走出象牙塔、亲自介入 K-12 课程标准研制与教材编写，重塑了战后科学理性与[[Inquiry-Based Learning|探究式教学]]的教学法[[Paradigm|范式]]。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 37)]]
-> - **构筑冷战科技人才洪流** NDEA 培养出的一整代科学家、工程师与外语专业人才，成为 1960 年代阿波罗登月计划（Apollo Program）、半导体硅谷崛起及国家实验室大科学攻关的绝对中坚力量。
+> - **构筑冷战科技人才洪流** NDEA 培养出的一整代科学家、工程师与外语专业人才，成为 1960 年代阿波罗登月计划（Apollo Program）、半导体硅谷崛起及国家实验室[[Big Science|大科学]]攻关的绝对中坚力量。
 
 ---
 

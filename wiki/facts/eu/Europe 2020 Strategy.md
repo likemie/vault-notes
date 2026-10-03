@@ -5,7 +5,7 @@ aliases:
   - 欧洲2020战略
   - EU 2020 Strategy
   - Europe 2020
-summary: "EU 2010–2020 十年战略规划，以“智能、可持续与包容性增长“为框架，涵盖就业、研发、气候、教育、减贫五大领域"
+summary: "EU 2010–2020 十年战略规划，以“智能、可持续与包容性增长”为框架，涵盖就业、研发、气候、教育、减贫五大领域"
 type: fact
 subtype: policy
 region: eu
@@ -15,13 +15,13 @@ fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: ''
+issuing_organization: ""
 tags:
-- region/eu
-- region/global
-- policy/employment
-- policy/education
-- policy/innovation
+  - region/eu
+  - region/global
+  - policy/employment
+  - policy/education
+  - policy/innovation
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Performance Indicators]]"
@@ -41,7 +41,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Lisbon Strategy]]"
-  - "[[SMART]]"
+  - "[[Start Making a Reader Today]]"
   - "[[Innovation Union]]"
   - "[[EU Skills Agenda]]"
   - "[[Youth Guarantee Scheme]]"
@@ -50,8 +50,8 @@ related_arguments:
   - "[[Argument_Rambla_2022_Springer]]"
 confidence: medium
 status: draft
-created: '2026-05-13'
-updated: 2026-09-22
+created: 2026-05-13
+updated: 2026-10-03
 ---
 
 # Europe 2020 Strategy
@@ -66,7 +66,7 @@ updated: 2026-09-22
 ## 政策文本摘要
 
 > [!abstract]
-> Europe 2020 的核心框架由一句口号凝练：追求"智能、可持续与包容性增长"（[[SMART]], sustainable and inclusive [[Growth]]）。战略跨越五个相互关联的优先领域(European Commission, 2010; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168]])：
+> Europe 2020 的核心框架由一句口号凝练：追求"智能、可持续与包容性增长"（[[Start Making a Reader Today]], sustainable and inclusive [[Growth]]）。战略跨越五个相互关联的优先领域(European Commission, 2010; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168]])：
 >
 > - **就业** 提高劳动参与率
 > - **研发** 增加研发投入

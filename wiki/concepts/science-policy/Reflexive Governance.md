@@ -8,7 +8,7 @@ aliases:
 summary: "在高度复杂与不确定情境下，通过持续监测、多方学习与动态调整来防范路径锁定的现代治理模式"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Performance Indicators]]"
   - "[[Document]]"
+  - "[[Grand Challenges]]"
 related_theories: []
 related_arguments:
   - "[[Argument_Wanzenbock_2020_SPP]]"
@@ -170,7 +171,7 @@ updated: 2026-10-03
 > > [!axis] 决策效率与无限审议的张力
 > > 批判者指出，过分强调持续反思、多方协商与动态调整可能导致决策过程议而不决，引发严重的分析瘫痪（Analysis Paralysis）并丧失重大战略攻关的历史窗口期。
 > >
-> > - **行政效率派** 强调重大挑战需要果断决绝的政治决断力与强有力的行政执行力。
+> > - **行政效率派** 强调[[Grand Challenges|重大挑战]]需要果断决绝的政治决断力与强有力的行政执行力。
 > > - **反思治理派（Voß & Bornemann, 2011; [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al., 2020]]）** 指出缺乏反思的盲目蛮干所带来的社会反弹与返工代价远超审议成本，[[Reflexivity|反思性]]治理应借助小胜策略实现动态推进与审议纠偏的平衡。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 485–487)]]
 
 > [!warning] 适用局限

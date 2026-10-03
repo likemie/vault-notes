@@ -6,7 +6,7 @@ aliases:
 summary: "纳拉亚纳穆尔提等人提出的创新过程理论，以发现与发明两类互动循环替代基础/应用研究二分法，强调多时间尺度、非线性的创新网络。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 21
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -19,11 +19,13 @@ related_concepts:
   - "[[Linear Model of Innovation]]"
   - "[[Science and Technology Studies]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Big Science]]"
   - "[[Long-Term Public Utility]]"
   - "[[Knowledge Production]]"
   - "[[Epistemology]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
+  - "[[Market Failure]]"
   - "[[Theoretical Standpoint]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
@@ -45,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Discovery-Invention Cycle
@@ -72,7 +74,7 @@ updated: 2026-10-02
 > - **提出者与原始文本** 哈佛大学工程与应用科学学院前院长[[Venkatesh Narayanamurti|文卡泰什·纳拉亚纳穆尔提]]、托卢·奥杜莫苏（Tolu Odumosu）与李·文塞尔（Lee Vinsel）于 2013 年在《科学与技术问题》（*Issues in Science and Technology*）上发表《安息吧：[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]》（*RIP: The Basic/Applied Research Dichotomy*），首次完整阐述该理论。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
 > - **原初问题** 战后美国建立在[[Science, The Endless Frontier 1945|布什报告]]二分法基础上的科研资助体制，人为割裂了探索新知的科学家与攻坚工程工艺的发明家；能源部、国防部与卫生部等任务导向机构在基础与应用的拉扯中陷入立项合法性危机，高风险、战略性的关键硬件发明缺乏长期公共财政支持。
 > - **理论资源与材料** 批判性吸收古希腊哲学以降对自然认知（Episteme）与实用手艺（Techne）的文化偏见史；深入考察[[Bell Labs|贝尔实验室]]等世界顶尖工业研究机构跨学科协同的组织实践；以 1956 至 2009 年间信息通信技术领域六项诺贝尔物理学奖演化谱系为核心经验依据。
-> - **形成路径** 作者团队通过详实绘制晶体管、激光器、半导体异质结构、集成电路、电荷耦合器件与光纤通信半个世纪的知识演进史，发现重大科学突破往往建立在先前工程发明提供的极端实验载体之上，据此抽象出“发现”与“发明”对称双向穿梭的循环拓扑结构。
+> - **形成路径** 作者团队通过详实绘制晶体管、激光器、半导体异质结构、集成电路、电荷耦合器件与光纤通信半个世纪的知识演进史，发现重[[Big Science|大科学]]突破往往建立在先前工程发明提供的极端实验载体之上，据此抽象出“发现”与“发明”对称双向穿梭的循环拓扑结构。
 
 ### 后续修订与扩展
 
@@ -100,7 +102,7 @@ updated: 2026-10-02
 
 ## 核心命题
 
-> [!theory-proposition] 命题一｜发现与发明构成对称互促的双向循环网络，工程发明是重大科学突破的前提载体
+> [!theory-proposition] 命题一｜发现与发明构成对称互促的双向循环网络，工程发明是重[[Big Science|大科学]]突破的前提载体
 > **解释** 传统单向线性模型认为技术发明只是基础科学理论的被动下游产物。纳拉亚纳穆尔提等人在 2013 年提出，工程发明不仅能够从前序技术中独立演进，更关键的是，它直接为科学家提供了探测未知物理世界的全新极端实验平台与工程载体。若无高度精密的工艺发明作为物理使能条件，许多颠覆性的自然法则根本无法被人类观测和发现。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 33–35)]]
 >
 > **应用实例** [[Bell Labs|贝尔实验室]]的研究者将阿尔费罗夫等人发明的半导体异质结构与先进晶体生长工艺相结合，制造出极高纯度的二维电子系统；正是利用这一工程发明平台，崔琦和斯特默才得以观测到分数量子化现象，进而促成劳克林对全新量子流体的理论发现（1998 年诺贝尔物理学奖）。
@@ -132,7 +134,7 @@ updated: 2026-10-02
 > | **双向互动机制**<br>[[Argument_Narayanamurti_2013_IST\|(Narayanamurti et al., 2013, pp. 33–35)]] | 当前技术突破依赖哪些前期工程工具作为物理载体？又反哺了哪些新基础科学的产生？ | 仪器装置自研程度、实验平台依赖图谱、跨学科引文网络 | 若仅表现为科学向技术的单向扩散，提示存在工程反馈缺失；若工程发明直接催生前沿机理突破，判定循环运转良好。 |
 > | **多时间尺度网络**<br>[[Argument_Narayanamurti_2013_IST\|(Narayanamurti et al., 2013, pp. 32–33)]] | 项目考核与资源配置周期是否匹配该领域的自然酝酿期（如 10–30 年）？ | 基金资助年限、阶段性考核容错机制、长周期跟踪评价记录 | 考核周期若严格限定于 3–5 年且单纯以短期成果数为判据，判定存在系统性短视风险。 |
 > | **结构性瓶颈诊断**<br>[[Argument_Narayanamurti_2013_IST\|(Narayanamurti et al., 2013, pp. 35–36)]] | 创新循环中的哪个环节缺乏资源配置？理论科学家与工程专家是否存在机构与学科藩篱？ | 人员双向流动比例、跨学科联合攻关平台、关键工程工艺资助缺口 | 若理论基础充沛但缺乏高精度工艺开发与实验工具制造资金，判定存在工艺与硬件瓶颈。 |
-> | **[[Long-Term Public Utility\|长期公共效用]]判据**<br>[[Argument_Narayanamurti_2013_IST\|(Narayanamurti et al., 2013, p. 36)]] | 该研发方向是否关乎国家核心安全、重大民生或产业底层公共基础设施？ | 国家战略规划契合度、知识外溢扩散范围、市场失灵与高风险度分析 | 具备重大战略外部性的项目，即便形态属于工程原型开发，亦具备获得公共财政持续资助的正当性。 |
+> | **[[Long-Term Public Utility\|长期公共效用]]判据**<br>[[Argument_Narayanamurti_2013_IST\|(Narayanamurti et al., 2013, p. 36)]] | 该研发方向是否关乎国家核心安全、重大民生或产业底层公共基础设施？ | 国家战略规划契合度、知识外溢扩散范围、[[Market Failure\|市场失灵]]与高风险度分析 | 具备重大战略外部性的项目，即便形态属于工程原型开发，亦具备获得公共财政持续资助的正当性。 |
 
 ---
 
@@ -158,7 +160,7 @@ updated: 2026-10-02
 > > - **纳拉亚纳穆尔提阵营（[[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]]）** 只要继续使用基础与应用这两个带有严重等级偏见的词汇，决策者就会本能地依据研究者的立项动机去裁剪资助边界，必须用发现与发明对称双通道予以彻底革新。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
 >
 > > [!axis] 创新网络论 vs. 市场原教旨主义：公共资金的边界争议
-> > 传统新古典经济学主张政府资助仅限于纯粹市场失灵的公共品领域（即无法专有化的基础科学）；循环理论则要求政府深入支持具有长远效用的关键发明与工程工艺。
+> > 传统新古典经济学主张政府资助仅限于纯粹[[Market Failure|市场失灵]]的公共品领域（即无法专有化的基础科学）；循环理论则要求政府深入支持具有长远效用的关键发明与工程工艺。
 > >
 > > - **新古典经济学立场** 政府资助工程开发必然面临挑选赢家（picking winners）的寻租风险与挤出效应，应用开发应由市场竞争检验。
 > > - **循环[[Theoretical Standpoint|理论立场]]** 大量根本性工艺与硬件工具具有极高的基础性和战略外部性，私营企业由于回收周期过长无力独自承担；若公共财政缺位，将导致整个国家的创新网络发生系统性断裂。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]

@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 80
+fact_related_count: 82
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Reference Society]]"
   - "[[Scientific Explanation]]"
   - "[[Nature of Science]]"
+  - "[[Big Science]]"
   - "[[Epistemology]]"
   - "[[Construct]]"
   - "[[Rote Learning]]"
@@ -68,6 +69,7 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Interaction Effect]]"
 related_methods:
+  - "[[Cost-Benefit Analysis]]"
   - "[[Item Response Theory]]"
   - "[[Questionnaire]]"
   - "[[Systematic Review]]"
@@ -110,7 +112,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-05-17
-updated: 2026-09-29
+updated: 2026-10-03
 ---
 
 # PISA
@@ -137,7 +139,7 @@ updated: 2026-09-29
 >   - **PISA 2006（首个科学主测年）** 正式确立[[Scientific Literacy\|科学素养]]三大核心能力（识别科学议题、[[Scientific Explanation\|科学解释]]现象、使用科学证据），强调在真实个人、社会与全球情境中考查[[Nature of Science\|科学本质]]。
 > - **2009–2018 — 上海崛起、计算机化交互探究与产品线扩张**
 >   - PISA 2009 上海（中国）拔得头筹，引发欧美“新卫星冲击”讨论；参与系统增至 70+ 个；
->   - **PISA 2015（第二个科学主测年）** 全面推行计算机化测评（CBA），引入交互式模拟实验（Simulations），将能力框架升级为“解释现象、评估与设计探究、解释数据与证据”三大科学胜任力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 31)]]
+>   - **PISA 2015（第二个科学主测年）** 全面推行计算机化测评（[[Cost-Benefit Analysis|CBA]]），引入交互式模拟实验（Simulations），将能力框架升级为“解释现象、评估与设计探究、解释数据与证据”三[[Big Science|大科学]]胜任力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 31)]]
 > - **2018–2025+ — 不确定世界中的科学探究与全球治理深化**
 >   - 扩展至 90+ 经济体；**PISA 2025（最新科学框架）** 进一步聚焦“在不确定世界中的科学探究（Science in an uncertain world）”，新增环境决策、气候模型审视、数字信息生态验证与 AI 算法不确定性评估。
 

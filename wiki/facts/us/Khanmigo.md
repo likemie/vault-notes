@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -21,6 +21,7 @@ tags:
   - theme/ai-in-education
   - country/us
 related_concepts:
+  - "[[General Purpose Technology]]"
   - "[[Teaching Assistant]]"
   - "[[Cognitive Offloading]]"
   - "[[Socratic Dialogue]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Khanmigo
@@ -54,7 +55,7 @@ updated: 2026-09-22
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> Khanmigo 是非营利教育组织可汗学院（Khan Academy）于 2023 年基于 OpenAI GPT-4 大语言模型与检索增强生成（RAG）技术研发的教育专用人工智能导师（AI Tutor）与[[Teaching Assistant\|助教]]系统。其核心宗旨在于打破传统通用大模型“直接给出答案”的[[Cognitive Offloading\|认知卸载]]风险，通过严密内嵌[[Socrates\|苏格拉底]]式追问（[[Socratic Dialogue]]）与目标导向反馈，为全球学习者提供一对一的个性化自适应探究支架。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–359)]]
+> Khanmigo 是非营利教育组织可汗学院（Khan Academy）于 2023 年基于 OpenAI [[General Purpose Technology|GPT]]-4 大语言模型与检索增强生成（RAG）技术研发的教育专用人工智能导师（AI Tutor）与[[Teaching Assistant\|助教]]系统。其核心宗旨在于打破传统通用大模型“直接给出答案”的[[Cognitive Offloading\|认知卸载]]风险，通过严密内嵌[[Socrates\|苏格拉底]]式追问（[[Socratic Dialogue]]）与目标导向反馈，为全球学习者提供一对一的个性化自适应探究支架。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–359)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2023 年 3 月随 GPT-4 同步发布先导测试版，2024 年起逐步在全美多州学区及全球开展规模化[[Business as Usual\|常态教学]]部署。

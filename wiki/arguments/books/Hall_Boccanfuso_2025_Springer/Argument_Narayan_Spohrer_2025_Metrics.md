@@ -14,6 +14,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Six Rs of University-Industry Relations]]"
   - "[[Public-Private Partnership in Research]]"
+  - "[[Grand Challenges]]"
   - "[[Translational Research]]"
   - "[[Academic Freedom]]"
   - "[[Attrition]]"
@@ -59,7 +60,7 @@ title: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_key: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_display_title: "Metrics, Incentives, Rewards, and Culture for Impact"
 argument_kind: "book"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -94,7 +95,7 @@ citation_aliases:
 >
 > | 资源规模 | 短期（0–2 年） | 中期（2–4 年） | 长期（>4 年） |
 > |---------|-------------|-------------|------------|
-> | **大资源** | 嵌入式产业研究者、全球大学团队、设备使用、捐赠研究基金、知识产权授权、设备捐赠 | 重大挑战研究、公私合作伙伴关系、合同研究、博士奖学金、捐赠教席 | 捐赠研究中心、联合学位项目、联合在线课程、联合基金申请开发 |
+> | **大资源** | 嵌入式产业研究者、全球大学团队、设备使用、捐赠研究基金、知识产权授权、设备捐赠 | [[Grand Challenges\|重大挑战]]研究、公私合作伙伴关系、合同研究、博士奖学金、捐赠教席 | 捐赠研究中心、联合学位项目、联合在线课程、联合基金申请开发 |
 > | **中资源** | 实习、教师奖、会议赞助 | 合著出版物、合作课程、黑客松（竞赛）、开源项目 | 专业协会赞助、指导学生团队 |
 > | **小资源** | 模拟面试、客座讲座系列、课程顾问委员会 | 会议/期刊最佳论文奖 | 伙伴关系执行主管项目 |
 >

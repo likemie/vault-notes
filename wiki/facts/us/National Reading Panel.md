@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 40
+fact_related_count: 41
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -58,6 +58,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[G. Reid Lyon]]"
+  - "[[Joseph Schumpeter]]"
 related_facts:
   - "[[National Institute of Child Health and Human Development]]"
   - "[[Reading Excellence Act]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # National Reading Panel
@@ -158,7 +159,7 @@ updated: 2026-10-02
 > > [!axis] 精英闭门操纵与次政府寻租合谋
 > > 批判政策学者将 NRP 视作[[Elite Theory|精英理论]]与[[Subgovernment Theory|次政府理论]]的典型例证。
 > >
-> > - **精英封闭共识制造** 正如 [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] 依据熊彼特精英民主理论所揭示的，官方借由高阶专家委员会制造了高度同质化的“虚假科学共识”，剥夺了一线十余万名教师的民主发声权。
+> > - **精英封闭共识制造** 正如 [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] 依据[[Joseph Schumpeter|熊彼特]]精英民主理论所揭示的，官方借由高阶专家委员会制造了高度同质化的“虚假科学共识”，剥夺了一线十余万名教师的民主发声权。
 > > - **商业利益输送与审查丑闻** 美国联邦教育部督察长办公室（OIG）随后的调查证实，NRP 专家组与商业出版巨头（如麦格劳-希尔）以及联邦官员（[[G. Reid Lyon|里德·里昂]]）之间存在严重的利益冲突，“阅读优先”专项拨款委员会被商业利益网络直接操纵，构成了排他性的政商次政府铁三角。
 
 > [!citation-card] 委员会成员乔安妮·亚特温少数派异见报告（Joanne Yatvin, 2000）

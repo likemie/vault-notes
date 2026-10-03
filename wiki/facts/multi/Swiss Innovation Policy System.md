@@ -10,9 +10,9 @@ subtype: policy
 region: multi
 fact_region: "multi"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: "Swiss Federal Government"
 tags:
@@ -26,13 +26,14 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[CERN]]"
   - "[[World Trade Organization]]"
   - "[[World Bank]]"
 related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Swiss Innovation Policy System
@@ -50,7 +51,7 @@ updated: 2026-10-02
 > - **《知识与[[Technology Transfer\|技术转移]]新战略》** 为各类企业与科研机构的创新合作搭建平台并提供长期稳定支持
 > - **《2013—2016年科研基础设施路线图》《工业4.0》** 加速产业转型升级
 > - **知识与技术转移战略** 国家创新委员会采用多级评估机制，聚焦碳复合材料、生物技术、光子学和网络物流等关键领域，依托国家网络实现产学研精准对接
-> - **国家科学基金会** 重点布局纳米技术、生命科学和机器人等领域，每年投入数亿瑞士法郎资助生物技术基础研究；支持欧洲分子生物学实验室、欧洲核子研究中心等国际科研机构
+> - **国家科学基金会** 重点布局纳米技术、生命科学和机器人等领域，每年投入数亿瑞士法郎资助生物技术基础研究；支持欧洲分子生物学实验室、[[CERN|欧洲核子研究中心]]等国际科研机构
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介技术，在教育中重构人机知识确证分工；其促学成效取决于教学脚手架、评价性判断的自主维系与生产性认识论摩擦。"
 type: concept
 domain: "educational-technology"
-related_count: 107
+related_count: 108
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -60,6 +60,7 @@ related_concepts:
   - "[[Generative AI Agent in Education]]"
   - "[[Counterfactual]]"
   - "[[Alien Intelligence]]"
+  - "[[General Purpose Technology]]"
   - "[[Structured Teaching]]"
   - "[[Computational Thinking]]"
   - "[[Metacognition]]"
@@ -137,7 +138,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-09-24
+updated: 2026-10-03
 ---
 
 # Generative Artificial Intelligence
@@ -256,7 +257,7 @@ updated: 2026-09-24
 > | [Gemini](https://gemini.google.com) | Google 研发的原生多模态模型；支持百万级 token 超长上下文与 Google 生态互联，学术事实检索与跨模态解析能力突出 |
 > | [Perplexity](https://www.perplexity.ai) | AI 驱动的交互式学术与网络搜索引擎；自动检索多源网络信息，并为生成回答标注明确的引文来源与跳转链接 |
 > | [Grok](https://grok.com) | xAI 研发的对话与推理模型；深度整合 X 实时数据流，具备即时资讯检索、多模态理解与开源基座支持 |
-> | [Bing Chat](https://www.bing.com/chat) | 微软基于 GPT 系列模型研发的对话检索工具（Microsoft Copilot）；深度集成必应搜索引擎与 Office 生产力生态 |
+> | [Bing Chat](https://www.bing.com/chat) | 微软基于 [[General Purpose Technology\|GPT]] 系列模型研发的对话检索工具（Microsoft Copilot）；深度集成必应搜索引擎与 Office 生产力生态 |
 > | [DeepSeek](https://www.deepseek.com) | 深度求索研发的基座大模型（V3 / R1 系列）；在长程逻辑推理、数学推导与代码生成上表现优异，全面开源 |
 > | [通义千问](https://chat.qwenlm.ai) | 阿里巴巴研发的大语言与多模态模型系列（Qwen）；开源生态完善，中文语义理解、长文档解析与多语言支持扎实 |
 > | [腾讯元宝](https://yuanbao.tencent.com) | 腾讯基于混元大模型推出的 AI 助手；深度打通微信公众号生态与搜狗搜索，擅长长文深度研读与信息精炼 |
@@ -371,7 +372,7 @@ updated: 2026-09-24
 
 > [!dev-timeline] 概念演变
 > - **2017 — 架构奠基阶段** Vaswani et al. 提出 Transformer 架构，自注意力机制（Self-Attention）与并行化计算打破了序列建模瓶颈，为现代生成式大模型奠定技术底座。
-> - **2020–2022 — 模型突破与消费级普及** OpenAI 相继发布 GPT-3 与 ChatGPT，生成式 AI 跨越实验室门槛，以自然语言对话界面实现全球数亿用户的即时触达。
+> - **2020–2022 — 模型突破与消费级普及** OpenAI 相继发布 [[General Purpose Technology|GPT]]-3 与 ChatGPT，生成式 AI 跨越实验室门槛，以自然语言对话界面实现全球数亿用户的即时触达。
 > - **2023 — 教育激辩与恐慌性禁令期** 全球高校与学区经历早期伦理恐慌，从普遍出台禁用指令转向探索政策规范，早期综述多聚焦学术诚信与工具性写作支持（Farazouli et al., 2023; Zirar, 2023）。
 > - **2024–2025 — 课堂实证爆发与机制解构** 实证研究呈现指数级增长，研究者通过量化实验与质性追踪揭示出生成式 AI 促成[[Divergent Thinking\|发散思维]]爆发的同时可能诱发严重的[[Cognitive Offloading\|认知卸载]]与文风均质化（[[Argument_Liu_2026_CHBR\|Liu et al., 2026]]; Deng et al., 2024）。
 > - **2025 — [[Higher-Order Thinking Skills\|高阶思维]]、生态机制与人机共生[[Epistemology\|认识论]]确证** [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] [[Meta-analysis\|元分析]] 29 项实证研究（59 个[[Effect Size\|效应量]]），确立生成式 AI 促进高阶思维发展的总体效应基准（$g = 0.609$），揭示子维度级差及干预周期倒 U 型规律与自主调节能力门槛；[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 引入 [[What Works Clearinghouse\|WWC]] 基线等效门槛（$d < 0.25$）开展 57 项高校实验元分析，确立产出梯度并证实低 ICT 与高权力距离情境下的宏观边际效益递增；[[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出人机共生学习伙伴关系模型，系统阐述绝对主义、相对主义与评价主义三大认识立场，构建技术提示支架（角色扮演、思维链）与教学法支架的协同干预矩阵。

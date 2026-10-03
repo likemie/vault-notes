@@ -22,6 +22,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Fourth Generation University]]"
   - "[[Research Translation]]"
+  - "[[Grand Challenges]]"
   - "[[Technology Transfer]]"
   - "[[Heterogeneity]]"
   - "[[University-Industry Collaboration]]"
@@ -43,7 +44,7 @@ title: "Argument_LernerLam_2025_TransdisciplinaryExecutiveEd"
 argument_key: "Argument_LernerLam_2025_TransdisciplinaryExecutiveEd"
 argument_display_title: "Innovating for Curricular Complexity: Executive Education for Transdisciplinary Challenges"
 argument_kind: "book"
-argument_related_count: 10
+argument_related_count: 11
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"
@@ -120,7 +121,7 @@ citation_aliases:
 
 9. 哥伦比亚大学气候学院提供了一个完整的跨学科高管教育课程设计样本。哥伦比亚大学在地球和环境科学基础研究方面拥有悠久历史，商学院、国际与公共事务学院、法学院、公共卫生学院和职业学院各自设有研究机构和学位项目，方向覆盖气候、可持续发展和[[UN Sustainable Development Goals|可持续发展目标]]。大学管理层与资深教授共同设计了新的气候学院，作为一所专业学院协调各学术部门和研究所的跨学科研究与学位项目(pp.161-162)。
 
-   这所学院的组建体现了哥伦比亚大学所说的"[[Fourth Generation University|第四宗旨]]"（Fourth Purpose），在教学、研究和学科服务三项传统职能之外，大学应当承担起加速[[Research Translation|研究转化]]和应用、参与应对重大挑战所需创新的社会责任。Malkov et al.(2024)提出的"[[Fourth Generation University|第四代大学]]"（Fourth Generation University）概念与此呼应(pp.161-162)。
+   这所学院的组建体现了哥伦比亚大学所说的"[[Fourth Generation University|第四宗旨]]"（Fourth Purpose），在教学、研究和学科服务三项传统职能之外，大学应当承担起加速[[Research Translation|研究转化]]和应用、参与应对[[Grand Challenges|重大挑战]]所需创新的社会责任。Malkov et al.(2024)提出的"[[Fourth Generation University|第四代大学]]"（Fourth Generation University）概念与此呼应(pp.161-162)。
 
 10. 课程设计从学位项目的学习目标和核心能力出发，由一个小型教师委员会与高管教育管理团队共同制定核心大纲，同时由一个外部顾问小组提供行业视角的补充验证(p.162)。课程包含七个模块(pp.163-166)。
 

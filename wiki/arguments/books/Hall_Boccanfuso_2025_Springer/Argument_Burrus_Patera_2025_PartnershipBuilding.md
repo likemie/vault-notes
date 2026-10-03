@@ -1,13 +1,16 @@
 ---
 authors:
-  - "Burrus, C."
-  - "Patera, A."
+  - Burrus, C.
+  - Patera, A.
 summary: "从产学关系实践者角度，提出通过连接、探索发现与关系建设三步构建战略性产学伙伴关系的框架，强调大学企业参与专员的中介角色"
 type: argument
 citation: "Burrus, C., & Patera, A. (2025). Connecting, Exploring, Uncovering, and Building Partnerships. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 73–83). Cham: Springer."
-publication_place: "Cham"
-publisher: "Springer"
-tags: ["theme/university-industry-collaboration", "theme/partnership", "theme/corporate-engagement"]
+publication_place: Cham
+publisher: Springer
+tags:
+  - theme/university-industry-collaboration
+  - theme/partnership
+  - theme/corporate-engagement
 related_concepts:
   - "[[Research Question]]"
   - "[[Strategic Partnership]]"
@@ -31,14 +34,14 @@ related_facts:
   - "[[Network of Academic Corporate Relations Officers]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[University Industry Innovation Network]]"
-  - "[[SMART]]"
+  - "[[Start Making a Reader Today]]"
 related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch4_Burrus_Patera_2025|Ch4_Burrus_Patera_2025]]"
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-27
-updated: '2026-06-08'
+updated: 2026-06-08
 subtype: book-chapter
 publication_type: book
 title: "Argument_Burrus_Patera_2025_PartnershipBuilding"
@@ -158,7 +161,7 @@ citation_aliases:
     - **双方联络人（Points of Contact, POCs）** 大学和企业各指定一个固定的对接人。联络人不仅要了解各自组织的需求，还要有能力在组织内部协调资源、推动决策。没有联络人，合作就会在"不知道找谁"中慢慢冷却。
     - **共同认可的愿景与目标** 不是泛泛的"加强合作"，而是具体的、双方都签字认可的方向描述。大学的目标可能是"在可再生能源领域建立国际领先的研究集群"，企业的目标可能是"获得下一代光伏材料的优先使用权"。两者不必完全一致，但必须有交集且交集被明确表述。
     - **包含定期审查的路线图** 将愿景分解为短中长期目标，设定检查节点。短期（一年内）可能是"完成一项联合可行性研究"，中期（一到三年）可能是"建立一个联合实验室"，长期（三年以上）可能是"孵化一家衍生企业"。定期审查不是走过场，而是对照目标评估进展，然后做出"调整、改善、扩展或转向"的决定。
-    - **双方的问责制** 问责意味着双方对照 [[SMART]] 目标（具体、可衡量、可达成、相关、有时限）各自承担责任。一个初始的 SMART 目标示例："在未来一年内，双方将共同识别并启动至少一个[[Translational Research|转化研究]]合作项目；年末，由双方联络人审查完成情况并评估各自满意度，作为是否继续和如何扩展合作的依据"(p.79)。
+    - **双方的问责制** 问责意味着双方对照 [[Start Making a Reader Today]] 目标（具体、可衡量、可达成、相关、有时限）各自承担责任。一个初始的 SMART 目标示例："在未来一年内，双方将共同识别并启动至少一个[[Translational Research|转化研究]]合作项目；年末，由双方联络人审查完成情况并评估各自满意度，作为是否继续和如何扩展合作的依据"(p.79)。
 
 13. 大多数战略伙伴关系不是设计出来的，而是生长出来的。典型路径是：一个教师与一个产业研究者因共同兴趣开始一个小项目 → 项目顺利完成，双方团队建立了信任 → 大学的合同部门和企业法务团队在这次合作中磨合了协议模板 → 基于这次成功的经验，双方开始探索项目之外的其他共同兴趣 → 当合作范围开始超出第一个教师的专业领域时，UCEP 接手成为大学的联络人 → UCEP 与公司方联络人一起，将分散的合作点编织成一个有愿景、有路线图、有问责机制的战略框架(p.79)。
 

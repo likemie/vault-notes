@@ -11,7 +11,7 @@ aliases:
 summary: "技术创新与商业化过程中从实验室基础研究原型（TRL 3）向规模化产业应用（TRL 7）过渡时面临的资金断裂与开发鸿沟；需依赖研究与技术组织（RTOs）、耐心资本与使命导向公共采购等系统性机制进行桥接。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Patient Capital]]"
   - "[[Knowledge Production]]"
+  - "[[Market Failure]]"
   - "[[Paradigm]]"
   - "[[Technology Transfer]]"
   - "[[Technology Transfer Office]]"
@@ -79,7 +80,7 @@ updated: 2026-10-03
 > - **能力赤字（Capability Gap）** 高校学者擅长前沿[[Knowledge Production|知识生产]]与机理发现，但普遍缺乏将学术成果进行成果转化与工程化、可制造性设计的工艺诀窍与管理技能。
 > - **风险不对称（Risk Asymmetry）** 中试阶段同时面临极高的技术不确定性（能否稳定量产）与市场不确定性（商业回报周期与需求强度），导致追求中短期财务回报的私人投资者望而却步。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 8–10, 21–22)]]
 
-> [!contrast-table] 传统市场失灵视角与演化/使命导向视角的跨越逻辑对比
+> [!contrast-table] 传统[[Market Failure|市场失灵]]视角与演化/使命导向视角的跨越逻辑对比
 >
 > | 分析维度 | 传统市场失灵修补[[Paradigm\|范式]]（Frame 1/2） | 演化与使命导向塑造范式（Frame 3） |
 > |:---|:---|:---|

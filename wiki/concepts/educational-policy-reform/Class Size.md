@@ -6,7 +6,7 @@ aliases:
 summary: "班级学生人数这一教育组织变量，其影响不仅取决于人数变化本身，还取决于教师质量、课堂资源和教学方式是否随之调整。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Sample Size Determination]]"
   - "[[Ethnography]]"
+  - "[[Cost-Benefit Analysis]]"
 related_persons:
   - "[[Kathryn Anderson-Levitt]]"
 related_facts:
@@ -65,7 +66,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-09-29
+updated: 2026-10-03
 ---
 
 ## 定义
@@ -242,7 +243,7 @@ updated: 2026-09-29
 ### 跨情境推广与全球南方物质约束
 
 > [!critique-method] 忽视发展中国家极端班额与资源匮乏
-> 现存主流班级规模实证研究与元分析大多基于欧美发达国家（如 STAR 项目将 22–25 人视为大班），但在全球南方及外围国家，班额常达 50–80 人甚至更多，且伴随教材严重短缺（Anderson-Levitt, 2003, 2004; [[Argument_Arnove_2009_WorldSystems\|Arnove, 2009, p. 109]]）。将发达国家的成本效益分析（如 $d=0.20$ 边际效应论）简单套用于极端拥挤的大班环境，忽视了班额在发展中国家不仅是微观组织参数，更是攸关学生基础生存与基本识字可能性的刚性物质底线。
+> 现存主流班级规模实证研究与元分析大多基于欧美发达国家（如 STAR 项目将 22–25 人视为大班），但在全球南方及外围国家，班额常达 50–80 人甚至更多，且伴随教材严重短缺（Anderson-Levitt, 2003, 2004; [[Argument_Arnove_2009_WorldSystems\|Arnove, 2009, p. 109]]）。将发达国家的[[Cost-Benefit Analysis|成本效益分析]]（如 $d=0.20$ 边际效应论）简单套用于极端拥挤的大班环境，忽视了班额在发展中国家不仅是微观组织参数，更是攸关学生基础生存与基本识字可能性的刚性物质底线。
 
 ---
 

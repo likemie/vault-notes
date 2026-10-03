@@ -1,7 +1,6 @@
 ---
-title: SMART
+title: Start Making a Reader Today
 aliases:
-  - Start Making a Reader Today
   - SMART Reading
   - 阅读伴读项目
   - 今日造就读者
@@ -16,8 +15,8 @@ fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
-period: "1992–至今"
-initiator_organization: "SMART Reading / 俄勒冈大学（University of Oregon）"
+period: 1992–至今
+initiator_organization: SMART Reading / 俄勒冈大学（University of Oregon）
 tags:
   - reading-intervention
   - primary-education
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # SMART

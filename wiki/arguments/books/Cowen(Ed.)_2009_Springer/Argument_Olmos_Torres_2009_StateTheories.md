@@ -65,6 +65,7 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Historical-Comparative Method]]"
+  - "[[Cost-Benefit Analysis]]"
   - "[[Fieldwork]]"
   - "[[Case Study]]"
 related_instruments: []
@@ -110,7 +111,7 @@ title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches"
 argument_kind: "book-chapter"
-argument_related_count: 71
+argument_related_count: 72
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -293,7 +294,7 @@ issuing_organization: ""
 > - **建立受雇专家智库**
 >   动用巨额资金长期聘用特定经济学家和咨询顾问，垄断[[Development Education|发展中国家教育]]政策的调研与方案起草权。
 > - **独尊新古典量化模型**
->   排斥教育哲学的价值探讨与社会学分析，只承认生均收益率（Rate of Return）和成本收益分析等经济学指标，把教育矮化为纯粹的个人投资。
+>   排斥教育哲学的价值探讨与社会学分析，只承认生均收益率（Rate of Return）和[[Cost-Benefit Analysis|成本收益分析]]等经济学指标，把教育矮化为纯粹的个人投资。
 > - **将政策条件与贷款直接捆绑**
 >   无论受援国面临何种社会现实，世界银行贷款部门一律将私有化、收取学费与缩减公费师资作为放贷的强制前提。
 > - **顺应跨国垄断资本诉求**

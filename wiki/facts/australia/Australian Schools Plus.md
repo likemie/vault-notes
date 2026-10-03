@@ -14,8 +14,8 @@ fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
-org_type: "国家级教育筹款中介慈善机构"
-headquarters: "悉尼，澳大利亚"
+org_type: 国家级教育筹款中介慈善机构
+headquarters: 悉尼，澳大利亚
 established: "2013"
 tags:
   - policy/venture-philanthropy
@@ -48,14 +48,14 @@ related_facts:
   - "[[Social Ventures Australia]]"
   - "[[Australian Education Research Organisation]]"
   - "[[Evidence for Learning]]"
-  - "[[SMART]]"
+  - "[[Start Making a Reader Today]]"
   - "[[Gonski Reforms]]"
 related_arguments:
   - "[[Argument_Rowe_2023_ECNUROE]]"
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Australian Schools Plus
@@ -113,7 +113,7 @@ updated: 2026-09-22
 
 > [!finding-cards] 核心业务与产品矩阵
 > - **先锋学校创新微额赠款（Pioneers in Philanthropy Grants）** 针对高不利处境指数（Index of Community Socio-Educational Advantage, ICSEA）公立学校开展年度竞标式项目资助，资助重点绑定企业捐赠偏好的 [[STEM Education\|STEM]] 与职业素养。
-> - **全国公立学校众筹匹配平台（[[SMART]] Giving Platform）** 搭建面向社会大众和企业的数字化捐赠通道，为符合资质的弱势公立学校项目提供免税配捐管理。
+> - **全国公立学校众筹匹配平台（[[Start Making a Reader Today]] Giving Platform）** 搭建面向社会大众和企业的数字化捐赠通道，为符合资质的弱势公立学校项目提供免税配捐管理。
 > - **联邦银行公立学校教学大奖（Commonwealth Bank Teaching Awards）** 联合澳大利亚联邦银行设立全国奖项，遴选“卓越公立学校校长与教师”，提供海外研修与教学资助，打造契合[[Venture Philanthropy\|风险慈善]]逻辑的教师楷模。
 > - **企业专项定制教育合作项目** 为波音、澳大利亚电信（Telstra）等跨国企业提供定向渠道，将企业品牌、数字产品与企业社会责任（Corporate Social Responsibility, CSR）议程直接输入公立学校课堂。
 

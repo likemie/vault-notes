@@ -10,7 +10,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -42,13 +42,14 @@ related_methods:
   - "[[Ethnography]]"
 related_persons: []
 related_facts:
+  - "[[Horizon Europe]]"
   - "[[Horizon Europe Missions]]"
 related_arguments:
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 ## 背景
 
@@ -65,7 +66,7 @@ updated: 2026-09-22
 > [!note]- 时间线
 > - 2014 年：Horizon 2020 正式启动，SSH 整合政策生效
 > - 2014–2020 年：SSH 作为横向议题被嵌入所有研究优先领域
-> - 2021 年：Horizon Europe 取代 Horizon 2020，SSH 的嵌入式角色被"固化并放大"以服务于"Europe's missions"（Thompson & Parreira do Amaral, 2022, p.12）
+> - 2021 年：[[Horizon Europe]] 取代 Horizon 2020，SSH 的嵌入式角色被"固化并放大"以服务于"Europe's missions"（Thompson & Parreira do Amaral, 2022, p.12）
 
 ## 实施影响
 

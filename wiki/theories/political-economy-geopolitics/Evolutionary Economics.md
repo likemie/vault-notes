@@ -8,7 +8,7 @@ aliases:
 summary: "以 Nelson & Winter（1982）为奠基的经济学流派，将经济变迁视为多样性变异、组织惯例学习、路径依赖与动态选择的演化过程；批判新古典静态均衡假设，为技术轨迹、创新系统、公共动态能力与引领和学习范式提供底层理论基石"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 42
+theory_related_count: 46
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -23,15 +23,17 @@ related_concepts:
   - "[[Market Shaping and Creating]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Heterogeneity]]"
+  - "[[Market Failure]]"
+  - "[[Lead-and-Learn Paradigm]]"
   - "[[Paradigm]]"
   - "[[Creativity]]"
   - "[[Operationalization]]"
-  - "[[Lead-and-Learn Paradigm]]"
   - "[[Unit of Analysis]]"
   - "[[Reflexivity]]"
   - "[[Total Factor Productivity]]"
   - "[[Source of Knowledge]]"
   - "[[Patient Capital]]"
+  - "[[Grand Challenges]]"
   - "[[New Public Management]]"
   - "[[Document]]"
   - "[[Mission-Oriented Innovation Policy]]"
@@ -52,10 +54,12 @@ related_theories:
   - "[[Three Generations of Mission-Oriented Policy]]"
   - "[[ROAR Framework]]"
 related_methods:
+  - "[[Cost-Benefit Analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons:
+  - "[[Joseph Schumpeter]]"
   - "[[Herbert A. Simon]]"
   - "[[Mariana Mazzucato]]"
   - "[[Rainer Kattel]]"
@@ -82,17 +86,17 @@ updated: 2026-10-03
 > - **解释对象** 解释技术创新、产业演进、企业行为差异与宏观经济长期动态变迁的内在机理，重点解构经济系统中的多样性产生、组织惯例变异、路径依赖与动态选择机制。[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016, pp. 153–156)]]
 > - **理论问题** 回应并打破新古典经济学关于完全理性、代表性企业（Representative Agent）、边际最优化行为与静态市场均衡的刚性[[Hypothesis|假设]]，揭示现实经济如何在极度不确定性与非线性互动中演进。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–807)]]
 > - **理论类型** 异端经济学理论体系、中观产业演进理论与宏观创新治理哲学。
-> - **知识位置** 承接熊彼特创新理论与西蒙[[Bounded Rationality|有限理性]]假说，是Pavitt 产业分类法、[[Technological Trajectories|技术轨迹]]理论、国家[[Systems of Innovation|创新系统理论]]以及现代[[Market Shaping and Creating|市场塑造]]、[[Public Dynamic Capabilities|公共动态能力]]与使命导向政策的底层基石。
+> - **知识位置** 承接[[Joseph Schumpeter|熊彼特]]创新理论与西蒙[[Bounded Rationality|有限理性]]假说，是Pavitt 产业分类法、[[Technological Trajectories|技术轨迹]]理论、国家[[Systems of Innovation|创新系统理论]]以及现代[[Market Shaping and Creating|市场塑造]]、[[Public Dynamic Capabilities|公共动态能力]]与使命导向政策的底层基石。
 
 > [!claim] 核心判断
-> 经济系统本质上是一个充满多样性（Variety）、持续[[Heterogeneity|异质性]]（Heterogeneity）、路径依赖与累积性学习（Cumulative Learning）的动态演化复杂网络。市场绝非先验给定的自发均衡实体，而是由公共制度、企业策略与社会需求共同演化塑造的结果；公共政策的根本使命不是被动修补市场失灵，而是主动设定战略方向、培育公共探索与动态能力，推动治理从被动的“支持与衡量”向主动的“引领与学习”[[Paradigm|范式]]转变。[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016, pp. 153–156)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–808)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–790)]]
+> 经济系统本质上是一个充满多样性（Variety）、持续[[Heterogeneity|异质性]]（Heterogeneity）、路径依赖与累积性学习（Cumulative Learning）的动态演化复杂网络。市场绝非先验给定的自发均衡实体，而是由公共制度、企业策略与社会需求共同演化塑造的结果；公共政策的根本使命不是被动修补[[Market Failure|市场失灵]]，而是主动设定战略方向、培育公共探索与动态能力，推动治理从被动的“支持与衡量”向主动的“[[Lead-and-Learn Paradigm|引领与学习]]”[[Paradigm|范式]]转变。[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016, pp. 153–156)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–808)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–790)]]
 
 ---
 
 ## 理论来源与形成
 
 > [!theory-origin] 理论渊源与思想演进
-> - **理论先驱** 约瑟夫·熊彼特（Joseph Schumpeter）的“[[Creativity|创造性]]破坏”（Creative Destruction）理论奠定了创新作为资本主义动态引擎的核心地位；赫伯特·西蒙（[[Herbert A. Simon|Herbert Simon]]）的[[Bounded Rationality|有限理性]]（Bounded Rationality）理论打破了完全理性的最大化[[Hypothesis|假设]]；生物演化论提供了“变异–选择–保留”（Variation-Selection-Retention）的演化隐喻。
+> - **理论先驱** [[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter）的“[[Creativity|创造性]]破坏”（Creative Destruction）理论奠定了创新作为资本主义动态引擎的核心地位；赫伯特·西蒙（[[Herbert A. Simon|Herbert Simon]]）的[[Bounded Rationality|有限理性]]（Bounded Rationality）理论打破了完全理性的最大化[[Hypothesis|假设]]；生物演化论提供了“变异–选择–保留”（Variation-Selection-Retention）的演化隐喻。
 > - **奠基著作** 理查德·纳尔逊与西德尼·温特（Nelson & Winter, 1982）出版里程碑著作《经济变迁的演化理论》（*An Evolutionary Theory of Economic Change*），系统确立了以“组织惯例（Organizational Routines）”替代边际最优、以“市场选择”替代均衡出清的微观–中观演化[[Paradigm|范式]]。
 > - **中观拓展与技术范式** 乔瓦尼·多西（Dosi, 1982, 1988）提出技术[[Paradigm|范式]]（Technological Paradigms）与[[Technological Trajectories|技术轨迹]]（Technological Trajectories），基思·帕维特（[[Argument_Pavitt_1984_RP|Pavitt, 1984]]）构建了产业创新分类学，将演化逻辑[[Operationalization|操作化]]为中观产业分析工具。
 > - **宏观系统与治理转向** 克里斯·弗里曼（Freeman, 1987）与本格特-奥克·伦德瓦尔（Lundvall, 1992）将演化视角拓展至国家[[Systems of Innovation|创新系统]]；[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）与莱纳·[[Rainer Kattel|卡特尔]]（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）进一步将其推进为融合韦伯国家能力与熊彼特企业双元能力的主动[[Market Shaping and Creating|市场塑造]]、[[Public Dynamic Capabilities|公共动态能力]]与[[Lead-and-Learn Paradigm|引领与学习范式]]。
@@ -103,7 +107,7 @@ updated: 2026-10-03
 > - **1984–1988 — 技术范式与产业分类学确立** [[Argument_Pavitt_1984_RP|Pavitt (1984)]] 提出创新模式分类；Dosi（1982, 1988）确立技术范式与技术轨迹理论。
 > - **1990s — 国家创新系统理论兴起** Freeman、Lundvall 与 Nelson 将演化视角注入国家与区域创新系统分析，强调多主体网络与制度协同。
 > - **2016 — 跨国经验微观[[Heterogeneity|异质性]]再验证** [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]] 利用大样本微观数据证实产业间与产业内部持久存在的异质性规律。
-> - **2018 — 市场塑造与 ROAR 政策框架** [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] 将演化经济学推进为超越市场失灵修补的主动市场共创与 ROAR 政策框架。
+> - **2018 — 市场塑造与 ROAR 政策框架** [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] 将演化经济学推进为超越[[Market Failure|市场失灵]]修补的主动市场共创与 ROAR 政策框架。
 > - **2018 — 公共部门动态能力与引领学习范式** [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] 突破传统私营企业能力局限，建立国家、政策与行政三层[[Public Dynamic Capabilities|公共部门动态能力]]矩阵，确立演化政策的[[Lead-and-Learn Paradigm|引领与学习范式]]。
 
 ---
@@ -131,7 +135,7 @@ updated: 2026-10-03
 > | **系统状态** | 静态帕累托最优与市场自发出清（Equilibrium） | 远离均衡的动态开放系统、持续变异与结构演化（Open Evolution） |
 > | **市场本质认知** | 先验给定的资源配置自发实体 | 由公私行动者与制度共同演化建构的制度形态 |
 > | **公共干预正当性** | **消极市场修复（Market Fixing）** 修补外部性与信息不对称 | **[[Market Shaping and Creating\|主动市场塑造（Market Shaping）]]** 共创全新市场、引导转型方向与承担早期高风险 |
-> | **政策评估准则** | 静态成本收益分析（CBA）与防范私人挤出 | 动态公共价值创造（Public Value）、战略挤入与系统[[Reflexivity\|反思性]]学习 |
+> | **政策评估准则** | 静态[[Cost-Benefit Analysis\|成本收益分析]]（CBA）与防范私人挤出 | 动态公共价值创造（Public Value）、战略挤入与系统[[Reflexivity\|反思性]]学习 |
 
 > [!logic-map]- 演化经济学核心因果与动态演进机制
 > ```mermaid
@@ -198,7 +202,7 @@ updated: 2026-10-03
 > 传统演化经济学主要关注企业在既定市场环境中的微观惯例变异与试错，忽视了公共部门自身同样具有演化能力，能够主动开辟搜索空间并重构选择环境。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
-> **公共动态能力与引领学习范式命题** 演化经济学不仅适用于私营企业与市场竞争，更必须向公共部门治理深度延伸。莱纳·[[Rainer Kattel|卡特尔]]与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]指出，应对 21 世纪的复杂重大挑战，公共部门必须综合熊彼特式探索与利用双元动态能力与韦伯式国家能力，在国家政治合法性、政策协同组合与行政敏捷流动三个层级构建[[Public Dynamic Capabilities|公共部门动态能力]]，推动公共治理从[[New Public Management|新公共管理]]被动的“支持与衡量”模式，彻底转向主动开辟新市场、培育多元自下而上探索并实现组织进化的“引领与学习”范式。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–791, 795–798)]]
+> **公共动态能力与引领学习范式命题** 演化经济学不仅适用于私营企业与市场竞争，更必须向公共部门治理深度延伸。莱纳·[[Rainer Kattel|卡特尔]]与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]指出，应对 21 世纪的复杂[[Grand Challenges|重大挑战]]，公共部门必须综合[[Joseph Schumpeter|熊彼特]]式探索与利用双元动态能力与韦伯式国家能力，在国家政治合法性、政策协同组合与行政敏捷流动三个层级构建[[Public Dynamic Capabilities|公共部门动态能力]]，推动公共治理从[[New Public Management|新公共管理]]被动的“支持与衡量”模式，彻底转向主动开辟新市场、培育多元自下而上探索并实现组织进化的“[[Lead-and-Learn Paradigm|引领与学习]]”范式。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–791, 795–798)]]
 
 ---
 
@@ -243,7 +247,7 @@ updated: 2026-10-03
 > > - **[[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]** 主张以重大社会挑战为靶向“[[Picking the Willing|挑选意愿者]]”、构建分散化探索型公共机构与风险收益对称契约以化解寻租弊端。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–810)]]
 >
 > > [!axis] [[New Public Management|新公共管理]]的静态控制 vs 演化动态能力的容错学习
-> > 新公共管理坚持事前成本收益分析与防错问责，与演化经济学强调的不确定性探索和组织试错产生激烈冲突。
+> > 新公共管理坚持事前[[Cost-Benefit Analysis|成本收益分析]]与防错问责，与演化经济学强调的不确定性探索和组织试错产生激烈冲突。
 > >
 > > - **新公共管理派** 主张通过量化[[Performance Indicators|绩效指标]]和外包降低财政成本。
 > > - **演化动态能力派** 指出过度追求微观合规会导致公共部门[[Cognitive Deskilling|去技能化]]，唯有建立容许探索性失败的反思学习平台，才能在演化选择环境中实现制度进化。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–798)]]
@@ -276,7 +280,7 @@ updated: 2026-10-03
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 综合演化动态能力与韦伯国家能力，提出三层[[Public Dynamic Capabilities|公共部门动态能力]]分析矩阵与引领和学习治理[[Paradigm|范式]]。
-> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 将演化经济学推进为超越市场失灵修补的主动[[Market Shaping and Creating|市场塑造]]理论与 ROAR 政策[[Analytic Framework|分析框架]]。
+> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 将演化经济学推进为超越[[Market Failure|市场失灵]]修补的主动[[Market Shaping and Creating|市场塑造]]理论与 ROAR 政策[[Analytic Framework|分析框架]]。
 > - [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]] — 基于大样本微观数据实证检验微观[[Heterogeneity|异质性]]常态与 Pavitt 四大[[Technological Trajectories|技术轨迹]]。
 > - [[Argument_Pavitt_1984_RP|Pavitt (1984)]] — 提出塑造技术轨迹的三大核心要素，奠定演化经济学中观产业分类学的经典基石。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 梳理演化经济学与[[Innovation Policy Paradigms|创新政策三范式]]演进脉络，分析国家[[Systems of Innovation|创新系统]]中大学角色的转变。

@@ -34,6 +34,7 @@ related_concepts:
   - "[[Megascience Installations]]"
   - "[[Technology Transfer]]"
   - "[[Creativity]]"
+  - "[[Big Science]]"
   - "[[Paradigm]]"
   - "[[Congressional Earmarks]]"
   - "[[Academic Start-up Packages]]"
@@ -87,7 +88,7 @@ title: "Argument_Atkinson_2008_TIS"
 argument_key: "Argument_Atkinson_2008_TIS"
 argument_display_title: "Research universities: Core of the US science and technology system"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -338,7 +339,7 @@ issuing_organization: ""
 
 > [!proc] 产学协同与[[Technology Transfer|技术转移]]机制的制度化落地
 > 1. **NSF 设立[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（[[Industry-University Cooperative Research Centers|I/UCRC]]）** 1978 年在[[Richard C. Atkinson|理查德·C·阿特金森]]（[[Richard C. Atkinson]]）担任主任期间，NSF 突破传统纯基础研究禁区，试点资助[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（Industry-University Cooperative Research Centers, I/UCRC）；后续拓展为长期资助（最长达 11 年）的工程研究中心（Engineering Research Centers, ERC）与科学技术中心（Science and Technology Centers, STC），使企业深度融入大学课题与博士生人才选拔。（pp.40–41）
-> 2. **建立面向全美学者的[[NSF Supercomputer Centers|国家超级计算中心]]网络** 1980 年代 NSF 在 5 所大学竞争性设立[[NSF Supercomputer Centers|国家超级计算中心]]（Supercomputer Centers），[[Creativity|创造性]]地通过类似同行评议的申请机制向全美合格大学教师分配尖端运行机时，确立了大科学算力基础设施公平共享的公共[[Paradigm|范式]]。（p.41）
+> 2. **建立面向全美学者的[[NSF Supercomputer Centers|国家超级计算中心]]网络** 1980 年代 NSF 在 5 所大学竞争性设立[[NSF Supercomputer Centers|国家超级计算中心]]（Supercomputer Centers），[[Creativity|创造性]]地通过类似同行评议的申请机制向全美合格大学教师分配尖端运行机时，确立了[[Big Science|大科学]]算力基础设施公平共享的公共[[Paradigm|范式]]。（p.41）
 > 3. **通过 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》明确专利产权** 彻底终结了以往“联邦出资发明归政府所有、政府束之高阁”的僵化体制，将专利权直接赋予大学，并强制要求大学与发明学者分享许可版税收入。（pp.41–42）
 > 4. **大学[[Technology Transfer Office|技术转移办公室]]（TTO）与衍生企业蓬勃发展** 法律解绑极大激发了学者创业与大学专利授权意愿，各大学迅速成立专业技术转移办公室（[[Technology Transfer Office|TTO]]），成功孕育了生物医药与信息技术等高科技创新集群。（pp.41–42）
 
@@ -420,7 +421,7 @@ issuing_organization: ""
 > *"Although the annual total of such research-related earmarks is small compared with congressional earmarks for bridges, highways, libraries, or hospitals, such earmarking circumvents the peer review process which is a cornerstone of the research university system. Moreover, there is no evidence that a new building or research facility earmarked for a given university has led to its becoming more highly regarded. Entry into the ranks of leading research universities is a long and arduous process that cannot be short circuited by congressional earmarks."*
 
 > [!citation-card] 竞争加剧引发的选题避险与学术[[Document|文献]]平庸化
-> 在更加激烈地争夺稀缺科研经费的压力下，大学教师往往被迫选择申报稳妥的安全研究项目，而规避那些虽然更具风险但可能带来重大科学突破的课题。其结果是，科学文献中发表了太多充其量只能算平庸的研究论文，除了拉长其作者的论文发表清单之外，几乎没有发挥任何实质作用。（p.45）
+> 在更加激烈地争夺稀缺科研经费的压力下，大学教师往往被迫选择申报稳妥的安全研究项目，而规避那些虽然更具风险但可能带来重[[Big Science|大科学]]突破的课题。其结果是，科学文献中发表了太多充其量只能算平庸的研究论文，除了拉长其作者的论文发表清单之外，几乎没有发挥任何实质作用。（p.45）
 >
 > *"A related problem faced by American research universities is that in an effort to compete more effectively for scarce research dollars, faculty members often opt to submit proposals for 'safe' research projects rather than more risky ones that might lead to major breakthroughs. As a result, too many research papers published in the scientific literature are mediocre at best, serving little purpose other than to increase the publication lists of their authors."*
 

@@ -7,7 +7,7 @@ aliases:
 summary: "指超越新古典狭隘‘公共品’概念的整体性治理与创新范式；强调国家与多元社会主体在应对重大社会挑战的全价值链中共同创造、塑造市场并公平分享集体经济、社会与生态福祉。"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,7 +19,9 @@ tags:
 related_concepts:
   - "[[Problem Solving]]"
   - "[[Paradigm]]"
+  - "[[Market Failure]]"
   - "[[Market Shaping and Creating]]"
+  - "[[Directionality of Innovation]]"
   - "[[Wicked Problem]]"
   - "[[Reflexivity]]"
   - "[[Citizen Science]]"
@@ -32,10 +34,12 @@ related_theories:
 related_persons:
   - "[[Mariana Mazzucato]]"
 related_facts:
+  - "[[Horizon Europe]]"
   - "[[Horizon Europe Missions]]"
 related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
 related_methods:
+  - "[[Cost-Benefit Analysis]]"
   - "[[Analytic Framework]]"
 confidence: high
 status: active
@@ -54,7 +58,7 @@ updated: 2026-10-03
 
 > [!concept-lens] 概念透镜
 > - **微观组织视阈** 要求公共机构树立探索试错与动态能力导向，将绩效考核从“合规防错与支出达标”转向“催化创新溢出与社会[[Problem Solving|问题解决]]”。
-> - **中观政策视阈** 推动政策评估工具从静态成本收益分析（CBA）转向追踪全链条结构性转型与资本挤入（Crowding in）的动态评估指标体系。
+> - **中观政策视阈** 推动政策评估工具从静态[[Cost-Benefit Analysis|成本收益分析]]（CBA）转向追踪全链条结构性转型与资本挤入（Crowding in）的动态评估指标体系。
 > - **宏观政治经济视阈** 重新确立公私合作的平等契约关系，确保公共部门在承担早期颠覆性研发高风险的同时，使全体公众公平分享创新带来的社会红利与财务反哺。
 
 ---
@@ -65,16 +69,16 @@ updated: 2026-10-03
 >
 > | 比较维度 | 新古典公共品范式（Public Good） | 现代使命型公共价值范式（Public Value） |
 > |:---|:---|:---|
-> | **理论基石** | 萨缪尔森福利经济学、市场失灵理论。 | 演化经济学、公共价值理论、[[Market Shaping and Creating\|市场塑造理论]]。 |
+> | **理论基石** | 萨缪尔森福利经济学、[[Market Failure\|市场失灵理论]]。 | 演化经济学、公共价值理论、[[Market Shaping and Creating\|市场塑造理论]]。 |
 > | **国家角色定位** | 消极的“市场修补者”（Fixer），仅在市场失灵时介入。 | 积极的“市场塑造与共创者”（Co-creator），主动设定方向。 |
 > | **干预范围** | 局限于正外部性、纯基础研究或国防等狭隘领域。 | 贯穿从基础研究、应用中试到场景采购的全价值链。 |
-> | **评估方法** | 静态成本收益分析（CBA）、净现值核算、挤出效应防范。 | 动态公共价值监测、跨部门外溢效应与系统转型能力评估。 |
+> | **评估方法** | 静态[[Cost-Benefit Analysis\|成本收益分析]]（CBA）、净现值核算、挤出效应防范。 | 动态公共价值监测、跨部门外溢效应与系统转型能力评估。 |
 > | **财富逻辑** | 假定财富只能由私营部门创造，国家仅负责征税与二次分配。 | 主张财富由公私及公民社会共同演化创造，国家是初次价值生产者。 |
 > | **收益分配** | 单向去风险（De-risking），资本收益由私营实体独占。 | 风险共担与收益对等共享，实现集体福祉最大化。 |
 
-> [!feature] 公共价值创造的四大核心支柱（Mazzucato, 2018, pp. 806–810）
+> [!feature] 公共价值创造的四大核心支柱（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018, pp. 806–810]]）
 >
-> - **方向性与公共目的（Directionality & Public Purpose）** 价值创造必须以解决气候变化、健康公平等[[Wicked Problem|复杂社会难题]]为战略罗盘，防范无方向的盲目扩张。
+> - **方向性与公共目的（[[Directionality of Innovation|directionality]] & Public Purpose）** 价值创造必须以解决气候变化、健康公平等[[Wicked Problem|复杂社会难题]]为战略罗盘，防范无方向的盲目扩张。
 > - **全链条协同共创（Value Chain Co-creation）** 打破基础研究与产业落地的割裂，实现供给侧研发、中游技术放大与需求侧公共采购的无缝衔接。
 > - **动态探索型组织能力（Exploratory Organizational Capabilities）** 公共机构具备吸纳跨学科人才、自主决策与[[Reflexivity|反思性]]迭代的管理架构。
 > - **公平对称的回报机制（Equitable Reward Sharing）** 确保公共资金投入转化为全民可及的普惠服务、价格约束或再投资资本。
@@ -84,10 +88,10 @@ updated: 2026-10-03
 ## 核心命题与机制分析
 
 > [!concept-proposition] 命题一｜公共价值超越新古典静态公共品修补并确立了全价值链共创逻辑
-> **解释** 新古典市场失灵框架将公共部门限制在“修补赛道缺陷”的消极角色中，认为国家投资必然挤出私人投资；而公共价值理论指出，从互联网、全球卫星定位系统（GPS）到重磅抗癌药物，最具颠覆性的现代市场均源于公共资金在全价值链上的早期战略引领。国家通过明确长期转型方向，不仅创造了公共品，更为整个私营经济创造了庞大的全新市场空间与商业机会。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–807)]]
+> **解释** 新古典[[Market Failure|市场失灵]]框架将公共部门限制在“修补赛道缺陷”的消极角色中，认为国家投资必然挤出私人投资；而公共价值理论指出，从互联网、全球卫星定位系统（GPS）到重磅抗癌药物，最具颠覆性的现代市场均源于公共资金在全价值链上的早期战略引领。国家通过明确长期转型方向，不仅创造了公共品，更为整个私营经济创造了庞大的全新市场空间与商业机会。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–807)]]
 
 > [!concept-proposition] 命题二｜动态系统评估是衡量公共价值外溢与能力跃迁的科学标尺
-> **解释** 传统成本收益分析（Cost-Benefit Analysis, CBA）与净现值计算基于静态线性假定，无法有效捕捉创新活动在跨部门联动中引发的技术溢出、组织能力积累与预期挤入效应。衡量公共价值必须采用全流程动态监测与[[Reflexivity|反思性]]评估，将评价重心置于是否培育了去中心化探索网络、是否推动了传统产业绿色转型以及是否达成了预设的社会使命里程碑。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
+> **解释** 传统[[Cost-Benefit Analysis|成本收益分析]]（Cost-Benefit Analysis, CBA）与净现值计算基于静态线性假定，无法有效捕捉创新活动在跨部门联动中引发的技术溢出、组织能力积累与预期挤入效应。衡量公共价值必须采用全流程动态监测与[[Reflexivity|反思性]]评估，将评价重心置于是否培育了去中心化探索网络、是否推动了传统产业绿色转型以及是否达成了预设的社会使命里程碑。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
 
 > [!concept-proposition] 命题三｜公共价值的维系必须依赖公私部门风险共担与收益共享契约
 > **解释** 在传统产业政策中，公共资金承担了最高风险的基础与中试研发，而企业商业化成功后的超额垄断利润却被股东完全捕获，导致纳税人面临“既出资研发又购买高价产品”的双重支付不公。将公共价值落实于制度，要求在公私资助协议中嵌入认股权证、特许权提成、研发收益再投资承诺及民生产品价格上限条款，以实现公共价值的保值与增值。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
@@ -102,8 +106,8 @@ updated: 2026-10-03
 > [!dev-timeline] 公共价值理论的演进阶段
 >
 > - **第一阶段（1995 年）：公共管理中的公共价值提出** 马克·摩尔（Mark Moore）在其经典著作《创造公共价值》（*Creating Public Value*）中首次提出该概念，构建“战略三角模型”（授权环境、运营能力、公共价值），推动公共管理者从被动服从规则转向主动创造社会价值。
-> - **第二阶段（2000 年代）：公共价值失灵标准建构** 巴里·博兹曼（Barry Bozeman）提出“公共价值失灵”（Public Value Failure）理论，批判新古典仅关注市场失灵的偏狭，主张将社会公平、代际利益与核心价值缺位作为国家干预的独立正当性来源。
-> - **第三阶段（2018 年至今）：[[Mission-Oriented Innovation Policy|使命导向创新政策]]中的[[Market Shaping and Creating|市场共创]][[Paradigm|范式]]** 玛丽安娜·[[Mariana Mazzucato|马祖卡托]]将公共价值深度融入经济学与科技创新政策，构建超越市场修复的 ROAR 框架，使公共价值成为指导地平线欧洲与多国绿色产业战略的核心指南。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–810)]]
+> - **第二阶段（2000 年代）：公共价值失灵标准建构** 巴里·博兹曼（Barry Bozeman）提出“公共价值失灵”（Public Value Failure）理论，批判新古典仅关注[[Market Failure|市场失灵]]的偏狭，主张将社会公平、代际利益与核心价值缺位作为国家干预的独立正当性来源。
+> - **第三阶段（2018 年至今）：[[Mission-Oriented Innovation Policy|使命导向创新政策]]中的[[Market Shaping and Creating|市场共创]][[Paradigm|范式]]** 玛丽安娜·[[Mariana Mazzucato|马祖卡托]]将公共价值深度融入经济学与科技创新政策，构建超越市场修复的 ROAR 框架，使公共价值成为指导[[Horizon Europe|地平线欧洲]]与多国绿色产业战略的核心指南。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–810)]]
 
 ---
 

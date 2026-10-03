@@ -62,6 +62,7 @@ related_methods:
   - "[[Semi-structured Interview]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
+  - "[[Cost-Benefit Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -86,7 +87,7 @@ title: "Argument_Ginsberg_2024_EP"
 argument_key: "Argument_Ginsberg_2024_EP"
 argument_display_title: "Does ESSA assure the use of evidence-based educational practices? Educational Policy, 38(1), 161–185"
 argument_kind: "journal-article"
-argument_related_count: 39
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -374,7 +375,7 @@ issuing_organization: ""
 > [!pathways] 作者针对[[Evidence-Based Education\|循证教育]]生态体系提出的改进路径
 > - **联邦与州教育行政部门** 应当主动调查地方学区最常实施的教育活动，定向资助开展情境迁移研究（Transferability Studies）或改良型复现研究（Modified Replications, Schneider, 2021），系统检验干预措施在不同学段、生源背景及区域环境中的适用边界。
 > - **科研证据清算与检索门户** 证据门户应当增设按具体资金流（如 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资格）、学生细分特征（如英语学习者、特殊教育）及目标学业产出进行多维度交叉筛选的功能，并提供实施成本、资源门槛与保真度要求的经济学评估信息。（p. 179）
-> - **实证教育科研共同体** 针对实证结论不一致的实践，研究者应深化子群体分析（Subgroup Analysis），解释情境与实施差异带来的效应波动；重点拆解打包项目的核心有效构件，开展成本效益分析。
+> - **实证教育科研共同体** 针对实证结论不一致的实践，研究者应深化子群体分析（Subgroup Analysis），解释情境与实施差异带来的效应波动；重点拆解打包项目的核心有效构件，开展[[Cost-Benefit Analysis|成本效益分析]]。
 > - **地方学区自主循证能力建设** 学区应当充分利用 Title I 允许的留存评估经费，通过自有研究部门或与外部高校研究者合作，对缺乏外部证据的地方特色项目开展自发评估，形成区域[[Going Native\|本土化]]证据库。
 > - **未来联邦立法重塑** 在未来的[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]案（Elementary and Secondary Education Act, ESEA）重新授权中，应当确立更为严格的证据法定准入标准，明确要求综合考量多项研究、实施情境与可行性，彻底终结单项研究即可为公共采购辩护的制度漏洞。（p. 180）
 

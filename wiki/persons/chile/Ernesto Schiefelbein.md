@@ -8,10 +8,10 @@ summary: "智利著名教育经济学家、统计学家与比较教育学者，�
 type: person
 nationality: chile
 person_region: "chile"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1934"
 died: ""
 lifespan: "1934–至今"
@@ -31,7 +31,8 @@ related_theories:
   - "[[Critical Theory]]"
   - "[[Conditioned State Theory]]"
   - "[[Human Capital Theory]]"
-related_methods: []
+related_methods:
+  - "[[Cost-Benefit Analysis]]"
 related_persons:
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-03
 ---
 
 # Ernesto Schiefelbein
@@ -113,7 +114,7 @@ updated: 2026-09-28
 > [!person-network] 关系网络
 > - **学术合作者** [[Carlos Alberto Torres]] — 长期学术对话者，其 1998 年代表作收录于托雷斯主编的拉美教育论文集。
 > - **机构中枢** [[UNESCO]] 区域办事处（OREALC） — 长期执掌并推动联合国教科文组织在拉美的实证教育统计标准研制。
-> - **实证对话者** [[Martin Carnoy]] — 共同在拉美教育经济学、成本收益分析与[[Human Capital Theory|人力资本]]投资评估领域展开实证比较探讨。
+> - **实证对话者** [[Martin Carnoy]] — 共同在拉美教育经济学、[[Cost-Benefit Analysis|成本收益分析]]与[[Human Capital Theory|人力资本]]投资评估领域展开实证比较探讨。
 
 ---
 

@@ -47,6 +47,7 @@ related_concepts:
   - "[[Educational Affordances]]"
   - "[[Illusion of Competence]]"
   - "[[Epistemic Friction]]"
+  - "[[General Purpose Technology]]"
   - "[[Central Question]]"
   - "[[General Education]]"
   - "[[Computational Thinking]]"
@@ -114,7 +115,7 @@ title: "Argument_Li_2026_CEAI"
 argument_key: "Argument_Li_2026_CEAI"
 argument_display_title: "The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes"
 argument_kind: "journal-article"
-argument_related_count: 75
+argument_related_count: 76
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -191,7 +192,7 @@ issuing_organization: ""
 > [!ref-table]- 表3：[[Document\|文献]]纳入与排除标准及设定依据（Inclusion Criteria for Article Selection）
 > | 筛选维度（Category） | 纳入标准（Inclusion Criteria） | 设定依据与方法论理性（Rationale） |
 > |---|---|---|
-> | **技术聚焦（Focus）** | 明确聚焦于 ChatGPT 或其底层大语言模型（GPT-3, GPT-4）的研究 | 剥离泛化教育技术或传统聊天机器人干扰，精准锚定[[Generative Artificial Intelligence\|生成式 AI]] 的认知影响。 |
+> | **技术聚焦（Focus）** | 明确聚焦于 ChatGPT 或其底层大语言模型（[[General Purpose Technology\|GPT]]-3, GPT-4）的研究 | 剥离泛化教育技术或传统聊天机器人干扰，精准锚定[[Generative Artificial Intelligence\|生成式 AI]] 的认知影响。 |
 > | **认知构念（Constructs）** | 明确考察学生的[[Critical Thinking\|批判性思维]]、[[Creativity\|创造性思维]]或[[Higher-Order Thinking Skills\|高阶思维]]表现 | 对齐本系统综述关于认知技能与心智发展演进的[[Central Question\|核心研究问题]]。 |
 > | **研究人群（Population）** | 大学本科生、研究生或高校专业教师 | 专门探究生成式技术对成年早期及高阶专业教育学习者的认知塑造。 |
 > | **教育情境（Context）** | 高等教育实体教学或在线大学课程环境 | 确保教学活动系统、学术规范与评估任务的一致性与情境可比性。 |
@@ -471,7 +472,7 @@ issuing_organization: ""
 > [!warning]
 > - **语言与[[Document\|文献]]类型检索边界** 仅纳入以英文发表的同行评议期刊文献（截至 2025 年 4 月），排除了会议论文（如 LAK、AIED、L@S 等前沿阵地）、专著、预印本及非英语数据库文献，可能存在潜在的[[Publication Bias\|发表偏倚]]并错失最新的方法学创新试点。（pp. 12–13）
 > - **初级研究的方法学[[Heterogeneity\|异质性]]** 纳入文献在研究设计、[[Construct\|构念]]界定与测量工具上存在极大异质性（定性反思、主观自陈调查与实验测验并存），绝大多数研究缺乏对照组、标准化测验或长期纵向追踪，限制了因果效应推断与量化[[Meta-analysis\|元分析]]的开展。（p. 12）
-> - **技术迭代与横断时间敏感性** 大语言模型技术演进迅猛，不同研究测试的模型版本差异显著（GPT-3.5、GPT-4 等）；随着多模态与[[AI Agent in Education\|智能体]]技术的融合，部分早期静态文本交互的实证结论可能面临重构需求。
+> - **技术迭代与横断时间敏感性** 大语言模型技术演进迅猛，不同研究测试的模型版本差异显著（[[General Purpose Technology|GPT]]-3.5、GPT-4 等）；随着多模态与[[AI Agent in Education\|智能体]]技术的融合，部分早期静态文本交互的实证结论可能面临重构需求。
 > - **测量不对称性与自陈偏倚** [[Critical Thinking Assessment\|批判性思维评估]]过多依赖学生的间接自我报告与主观反思[[Questionnaire\|问卷]]，而[[Creativity\|创造性思维]]则较多采用客观行为测验，测量维度的不对称性可能放大了不同领域效应稳健性的表观差异。（p. 6）
 
 ---

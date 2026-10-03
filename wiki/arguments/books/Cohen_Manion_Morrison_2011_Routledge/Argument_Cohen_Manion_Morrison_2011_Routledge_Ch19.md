@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19"
 argument_display_title: "Research Methods in Education · Ch19"
 argument_kind: "book-chapter"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -64,6 +64,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[External Validity]]"
   - "[[Active Learning]]"
+  - "[[Grand Challenges]]"
   - "[[Sensitive Research]]"
   - "[[Informed Consent]]"
   - "[[Research Topic]]"
@@ -472,7 +473,7 @@ updated: 2026-09-07
 >
 > **（3）硬件、带宽与防火墙** 具有适当规格的计算机（商业虚拟世界在其网站上提供建议）、充足带宽以及安全通过机构网络防火墙都很重要。
 >
-> **（4）参与持续性的丧失** 参与者热情是常见的但不能假定，某些研究发现，最初热情的参与者发现**时间约束**、虚拟世界的相对**复杂性**和**带宽需求**（可导致操作缓慢）被证明是持续参与的**最大障碍（Jarmon et al., 2009 终身学习案例研究）**。尽管虚拟世界具有视觉和概念吸引力，**用户接受度**仍然是最需要克服的重大挑战之一（Fetscherin & Lattemann, 2007）。
+> **（4）参与持续性的丧失** 参与者热情是常见的但不能假定，某些研究发现，最初热情的参与者发现**时间约束**、虚拟世界的相对**复杂性**和**带宽需求**（可导致操作缓慢）被证明是持续参与的**最大障碍（Jarmon et al., 2009 终身学习案例研究）**。尽管虚拟世界具有视觉和概念吸引力，**用户接受度**仍然是最需要克服的[[Grand Challenges|重大挑战]]之一（Fetscherin & Lattemann, 2007）。
 >
 > **（5）评估应关注意外结果与现有实践比较** 评估虚拟世界自然会关注是否达成期望目标，但研究者也应寻求**意外结果**以及作为个体在虚拟世界中和虚拟世界内体验后果的实践或感知变化（Lewis & Allan, 2005）。较少被考虑但同等重要的是与现有实践的比较，询问虚拟世界的使用是否产生了**无法用其他或更常规手段同等实现的结果**。
 >

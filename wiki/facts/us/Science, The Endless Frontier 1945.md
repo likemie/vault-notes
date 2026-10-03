@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Science and Technology Studies]]"
   - "[[Falsification]]"
+  - "[[Market Failure]]"
   - "[[Long-Term Public Utility]]"
   - "[[PhD Overproduction in Science]]"
 related_theories:
@@ -57,7 +58,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Science, The Endless Frontier 1945
@@ -161,7 +162,7 @@ updated: 2026-10-02
 > > - **契约维系与同行评议基石论（[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008]]）** 强调布什报告的核心突破在于确立了“联邦出资支持大学基础研究符合国家根本利益”的宪章共识；战后系统的成功高度依赖于择优同行评议与研究生教育-科研共生机制，当前面临的危机并非源于布什原则本身，而是源于政治专项拨款（Earmarks）对同行评议的绕开、学科资助失衡以及工业界研发重心向应用撤退。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 30–31, 44–46)]]
 >
 > > [!axis] 公共研发资助的合法性准绳争论
-> > 各方对政府公共资金究竟应当止步于市场失灵的纯基础探索，还是应深度介入关键工程工艺与战略发明存在深刻分歧。
+> > 各方对政府公共资金究竟应当止步于[[Market Failure|市场失灵]]的纯基础探索，还是应深度介入关键工程工艺与战略发明存在深刻分歧。
 > >
 > > - **新古典经济学立场** 恪守布什遗产，坚持政府资助仅限于无法专有化的公共品（基础研究），防止政府干预扭曲市场竞争。
 > > - **[[Innovation Ecosystem|创新生态]]学派立场（[[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]]）** 布什报告带来的二分法教条导致了关键硬件工艺与制造工具的“资助断档”；应当以“[[Long-Term Public Utility|长期公共效用]]”彻底取代布什的立项动机分类，对具有战略长远价值的发现与发明予以全方位支持。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]

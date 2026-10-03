@@ -7,7 +7,7 @@ aliases:
 summary: "反抗启蒙现代性与实证主义决定论的思想思潮；在教育研究中解构宏大元叙事，肯定断裂、差异与本土微观情境，揭示知识的社会建构性与权力纽带，并以变色龙般的亲和性连接诠释范式、复杂性理论与批判理论。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 44
+theory_related_count: 45
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -58,6 +58,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Jean-François Lyotard]]"
+  - "[[Friedrich Nietzsche]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Stephen Ball]]"
   - "[[Jürgen Habermas]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-01
+updated: 2026-10-03
 ---
 
 # Postmodernism
@@ -104,7 +105,7 @@ updated: 2026-10-01
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Jean-François Lyotard|利奥塔]]（Jean-François Lyotard）于 1979 年出版《后现代状况：关于知识的报告》（*The Postmodern Condition: A Report on Knowledge*），首次将后现代界定为“对[[Grand Theory|元叙事]]的怀疑”（incredulity toward metanarratives）；詹姆逊（Fredric Jameson）于 1991 年出版《晚期资本主义的文化逻辑》（*Postmodernism, or, the Cultural Logic of Late Capitalism*），系统提炼后现代的 11 项核心特征。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, pp. 27–28)]]
 > - **原初问题** 面对二战后[[Technical Rationality|技术理性]]狂潮、后工业社会转型以及电子信息技术的爆炸，人类发现[[Enlightenment|启蒙运动]]许诺的“通过客观科学普及必然带来人类道德与政治解放”的宏大叙事彻底破产；教育与学术演化为服务于国家与跨国资本竞争的绩效技术工具。
-> - **理论资源与材料** 吸收了尼采的视角主义与权力意志哲学、维特根斯坦的“语言游戏”（language games）学说，以及德里达的解构主义和福柯的话语权力谱系学。
+> - **理论资源与材料** 吸收了[[Friedrich Nietzsche|尼采]]的视角主义与权力意志哲学、维特根斯坦的“语言游戏”（language games）学说，以及德里达的解构主义和福柯的话语权力谱系学。
 > - **形成路径** 从解构现代科学的自我合法化神话切入，指出任何宏大理论（如[[Georg Wilhelm Friedrich Hegel|黑格尔]]精神辩证法、历史唯物论阶段论、[[Positivism|实证主义]]因果律）都依赖于未经证明的元叙事叙述；揭示科学知识不过是众多异质语言游戏中的一种，倡导走向微观叙事（petit récit）与地方性实践。
 
 ### 后续修订与扩展

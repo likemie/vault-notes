@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Determinism]]"
+  - "[[Grand Challenges]]"
   - "[[Problem Finding]]"
   - "[[Wicked Problem]]"
   - "[[Transformative System Failures]]"
@@ -60,7 +61,7 @@ title: "Argument_Wanzenbock_2020_SPP"
 argument_key: "Argument_Wanzenbock_2020_SPP"
 argument_display_title: "A framework for mission-oriented innovation policy: Alternative pathways through the problem–solution space"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -83,7 +84,7 @@ issuing_organization: ""
 > 使命导向创新政策不能被简化为自上而下确定技术攻关目标的线性工程，而是一个在由争议性、复杂性与不确定性构成的二维问题–解决方案空间中，通过问题导向路径、解决方案导向路径或混合演化路径，逐步化解分歧并推动系统由发散走向合法化收敛的过程导向治理机制。（pp.474–478）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 当代以应对重大社会挑战（Grand Societal Challenges）为核心导向的国家与区域创新政策体系及治理机制。
+> - **对象** 当代以应对重大社会挑战（[[Grand Challenges|grand societal challenges]]）为核心导向的国家与区域创新政策体系及治理机制。
 > - **张力** 传统使命政策对阿波罗登月式的明确目标与工程确定性的预设，与当代社会转型中[[Problem Finding|问题界定]]和创新方案两端普遍存在的深层价值冲突、系统交织及认知未知之间的张力。
 > - **贡献** 将[[Wicked Problem|棘手问题]]理论与社会–技术转型理论相结合，提出二维问题–解决方案空间模型与三条动态收敛路径，为设计适配不同挑战属性的政策工具组合提供了[[Analytic Framework|分析框架]]。
 
@@ -160,7 +161,7 @@ issuing_organization: ""
 > - **忽视深层价值与利益撕裂**
 >   不同利益主体在问题优先序和道德责任上存在深刻分歧，无法通过技术研发自动弥合。（pp.475–476）
 > - **低估系统与制度惯性阻力**
->   重大挑战深嵌于既有的法规、基础设施与生活习惯之中，单一技术突破极易被体制壁垒阻隔。（pp.475–476）
+>   [[Grand Challenges|重大挑战]]深嵌于既有的法规、基础设施与生活习惯之中，单一技术突破极易被体制壁垒阻隔。（pp.475–476）
 
 #### 2. 公共问题与创新方案均受制于争议性、复杂性与不确定性，构成政策发散的双重根源
 

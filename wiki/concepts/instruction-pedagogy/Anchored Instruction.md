@@ -7,7 +7,7 @@ aliases:
 summary: "由范德堡大学 CTGV 开发的经典情境教学范式，通过富含嵌入式数据的情节性宏观情境故事作为认知锚点，引导学生自主识别子问题并进行多步因果探究"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Problem-Based Learning]]"
   - "[[Wicked Problem]]"
   - "[[Learner Autonomy]]"
+  - "[[Grand Challenges]]"
   - "[[Hypothesis]]"
   - "[[Critical Thinking]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -73,7 +74,7 @@ updated: 2026-10-03
 ## 核心要素：CTGV 经典设计原则
 
 > [!feature] 抛锚式教学的核心设计特征
-> - **生成性学习格式（Generative Learning Format）** 故事在主人公面临重大挑战的高潮处戛然而止，不提供现成解法，要求学生自主生成方案并解决问题。
+> - **生成性学习格式（Generative Learning Format）** 故事在主人公面临[[Grand Challenges|重大挑战]]的高潮处戛然而止，不提供现成解法，要求学生自主生成方案并解决问题。
 > - **视频/情境锚点（Video-based Anchor）** 借助富媒体形式呈现真实环境线索，支持不同阅读水平学生展开高阶探究。
 > - **嵌入式数据设计（Embedded Data Design）** 解题所需的所有参数（如速度、油耗、载重、时间）均自然融入故事对话或背景道具中，锻炼学生的信息甄别与证据提取能力。
 > - **连锁子问题结构（Interlocking Sub-problems）** 复杂任务被设计为包含 10–15 个环环相扣的推导步骤，促使学生经历[[Hypothesis\|假设]]制定、数学建模与可行性评估。

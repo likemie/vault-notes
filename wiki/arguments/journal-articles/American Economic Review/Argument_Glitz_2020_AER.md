@@ -41,6 +41,7 @@ related_methods:
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Ordinary Least Squares]]"
   - "[[Standard Error]]"
+  - "[[Cost-Benefit Analysis]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -56,7 +57,7 @@ title: "Argument_Glitz_2020_AER"
 argument_key: "Argument_Glitz_2020_AER"
 argument_display_title: "Industrial Espionage and Productivity"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -258,7 +259,7 @@ issuing_organization: ""
 ### 论证步骤六：反事实模拟与成本收益
 
 > [!claim] 步骤六主张
-> 工业间谍对东德经济的总体影响显著但数量有限，但在某些关键行业（如电子行业）几乎是维持技术竞争力的生命线；初步成本收益分析显示其净回报极为可观。
+> 工业间谍对东德经济的总体影响显著但数量有限，但在某些关键行业（如电子行业）几乎是维持技术竞争力的生命线；初步[[Cost-Benefit Analysis|成本收益分析]]显示其净回报极为可观。
 
 > [!chain-link] 证据到判断
 > - **总体[[Counterfactual\|反事实]]** 基于表 2 第 3 列的估计，模拟无间谍情景下 1972–1989 年两德 TFP 比率。就业加权平均 TFP 比率在 1989 年实际为 21.8%，无间谍时为 18.9%，下降 13.3%（pp.1097–1098, Figure 7 Panel A）。
@@ -312,7 +313,7 @@ issuing_organization: ""
 > [!warning]
 > - **外部有效性** 东德的中央计划经济、冷战贸易禁运以及人肉间谍（HUMINT）的技术特征与当今市场化经济、全球化贸易和网络间谍环境存在系统性差异。研究结果不能直接推广至当代情境（pp.1099–1100）。
 > - **功能形式敏感性** 在不使用产出标准化的替代设定中，估计结果虽然符号与基线一致，但在统计上往往不显著，表明结论对功能形式[[Hypothesis\|假设]]有一定敏感性（pp.1088–1089）。
-> - **成本数据的[[Reliability\|可靠性]]** 成本收益分析中的成本数据来自斯塔西末任局长在议会的证词（约 17.5 百万东德马克 + 13.5 百万西德马克），真实成本可能被低估（pp.1098–1099）。
+> - **成本数据的[[Reliability\|可靠性]]** [[Cost-Benefit Analysis|成本收益分析]]中的成本数据来自斯塔西末任局长在议会的证词（约 17.5 百万东德马克 + 13.5 百万西德马克），真实成本可能被低估（pp.1098–1099）。
 > - **企业间间谍未覆盖** 本研究只能观测国家支持的工业间谍，无法涉及企业间直接进行的商业间谍活动，后者在竞争维度和效果上可能存在本质差异（p.1100）。
 > - **原始情报原件已销毁** 1990 年斯塔西解散时销毁了所有原始情报材料（文件、照片、磁带、磁盘、蓝图等），SIRA 数据库仅保留了关键词等元数据，无法直接验证每条情报的具体内容（pp.1061）。
 

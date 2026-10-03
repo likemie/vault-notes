@@ -9,7 +9,7 @@ aliases:
 summary: "指认识主体因过度依赖外部自动化认知工具或生成式人工智能系统，导致自身内生认知能力与程序性智力技能发生退化、萎缩或无法正常形成的现象。"
 type: concept
 domain: "educational-technology"
-related_count: 32
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -42,6 +42,8 @@ related_concepts:
   - "[[Socratic Dialogue]]"
   - "[[Homework]]"
   - "[[Intelligent Tutoring Systems]]"
+  - "[[New Public Management]]"
+  - "[[Externalization]]"
   - "[[Critical Thinking]]"
   - "[[Technology Infusion]]"
   - "[[Alien Intelligence]]"
@@ -53,15 +55,18 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Rainer Kattel]]"
+  - "[[Mariana Mazzucato]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Naeem_2026_Episteme]]"
   - "[[Argument_Smith_2026_SPE]]"
+  - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Cognitive Deskilling
@@ -181,6 +186,7 @@ updated: 2026-10-02
 > [!dev-timeline] 认知去技能化的演进脉络
 > - **工业时代 — 劳动过程去技能化** 劳工社会学（如 Braverman）提出机器自动化将工匠的手工技能拆解剥离。
 > - **信息时代初 — 计算与记忆去技能化** 计算器与搜索引擎普及引发对学生心算能力与记忆力衰退的争论。
+> - **公共管理与创新政策维度 — 国家行政去技能化** [[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）指出，[[New Public Management|新公共管理]]（NPM）数十年来对战略规划、前沿技术评估与软件开发的过度[[Externalization|外部化]]外包，导致公共部门公务员丧失了核心探索与系统协调能力，造成严重的组织认知去技能化，直接削弱了现代国家的动态能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791, 795–796)]]
 > - **[[Generative Artificial Intelligence|生成式人工智能]]时代 — 高阶认知去技能化与[[Epistemic Injustice|认识不正义]]转向** 随着大语言模型具备写作、编程与推理生成能力，学术界聚焦其对人类[[Critical Thinking|批判性思维]]与智力机能的去技能化风险（[[Argument_Naeem_2026_Episteme|Naeem, 2026]]）；进一步研究揭示，将提纲拟定与反思修改等[[Higher-Order Thinking Skills|高阶思维]]工序外包给 AI，在剥夺认知机能的同时构成了针对学习者的[[Formative Epistemic Injustice|成长性认识不正义]]（[[Argument_Smith_2026_SPE|Smith, 2026]]）。
 
 ---
@@ -208,3 +214,4 @@ updated: 2026-10-02
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 系统界定[[Generative Artificial Intelligence|生成式人工智能]]引发的认知去技能化与[[Creative Deskilling|创造力去技能化]]危机，提出基于 Q-Tutor 的提问训练教学法以实现对去技能化的有效防御。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 提出私厨隐喻，揭示将构思、提纲与反思修改外包给 AI 导致的认知去技能化本质上构成了对求知者的[[Formative Epistemic Injustice|成长性认识不正义]]，并提出思维外显与[[Alien Intelligence|异己智能]]防御方案。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 探讨公共行政与科技政策层面的组织去技能化现象，阐明[[Externalization|外部化]]外包对国家探索与评估能力的侵蚀。

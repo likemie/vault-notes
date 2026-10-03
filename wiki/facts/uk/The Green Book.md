@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Evaluation Research]]"
 related_theories: []
 related_methods:
+  - "[[Cost-Benefit Analysis]]"
   - "[[Accounts]]"
   - "[[Analytic Framework]]"
 related_instruments: []
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-10-03
 ---
 
 # The Green Book
@@ -63,7 +64,7 @@ updated: 2026-09-04
 
 > [!policy-design]- 政策设计
 > - **五维商业论证框架（Five Case Model）** 要求重大政策必须从战略契合（Strategic Case）、经济合理（Economic Case）、商业可行（Commercial Case）、财务可承受（Financial Case）与管理可行（Management Case）五个维度展开完备论证。
-> - **社会成本效益分析（Social Cost-Benefit Analysis）** 超越单纯财务收支计算，将环境影响、健康收益、碳减排、区域公平及社会福祉等非市场要素纳入整体货币化与非货币化效益核算。
+> - **社会[[Cost-Benefit Analysis|成本效益分析]]（Social Cost-Benefit Analysis）** 超越单纯财务收支计算，将环境影响、健康收益、碳减排、区域公平及社会福祉等非市场要素纳入整体货币化与非货币化效益核算。
 > - **不确定性与风险量化规程** 明确要求采用乐观偏差调整（Optimism Bias）、敏感性分析（Sensitivity Analysis）以及情景规划，对因科学认知局限导致的不确定性区间予以客观标定。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 87)]]
 > - **约束方式** 财政部财政拨款审批的刚性前置条件。
 
@@ -78,7 +79,7 @@ updated: 2026-09-04
 
 > [!timeline] 政策时间线
 > - **1970s** 英国财政部建立最初的经济评估指南，服务于资本基础设施投资评估。
-> - **2003** 财政部全面改版绿皮书，正式引入社会成本效益分析与全生命周期评估理念。
+> - **2003** 财政部全面改版绿皮书，正式引入社会[[Cost-Benefit Analysis|成本效益分析]]与全生命周期评估理念。
 > - **2018–2020** 经历跨部门审查后重大修订，重点纠正长期存在的“伦敦和东南部投资偏倚”，强化对区域平衡发展、气候变化与证据稳健性的考量。
 > - **2025** 设立政府评估工作组（Government Evaluation Task Force, ETF），监督全政府对绿皮书循证原则的执行情况。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 81)]]
 > - **2026** 英国皇家学会《科学为社会》报告第 14 项建议明确呼吁，英国政府应依据绿皮书决策准则，强制政策文件同步附带通俗版《科学证据陈述》（Scientific Evidence Statements），详尽披露[[Scientific Uncertainty\|科学不确定性]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 87)]]

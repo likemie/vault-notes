@@ -9,10 +9,10 @@ aliases:
 summary: "指公共机构在面对高度不确定性与重大社会挑战时，识别前沿方向、协调跨部门资源、进行实验试错并实现制度化反思学习的组织能力；强调建立内部专业研判能力以抵御外部咨询机构带来的去能力化风险。"
 type: concept
 domain: "science-policy"
-related_count: 27
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 32
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/governance
   - theme/public-administration
@@ -29,6 +29,9 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Source of Knowledge]]"
   - "[[Areas of Knowledge]]"
+  - "[[Embedded Autonomy]]"
+  - "[[Market Failure]]"
+  - "[[Grand Challenges]]"
   - "[[Absorptive Capacity]]"
   - "[[Lead-and-Learn Paradigm]]"
   - "[[Operationalization]]"
@@ -43,6 +46,7 @@ related_theories:
 related_persons:
   - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"
+  - "[[Joseph Schumpeter]]"
 related_facts:
   - "[[DARPA]]"
   - "[[Investing in Innovation Program]]"
@@ -51,6 +55,7 @@ related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
 related_methods:
+  - "[[Cost-Benefit Analysis]]"
   - "[[Analytic Framework]]"
 confidence: high
 status: active
@@ -81,7 +86,7 @@ updated: 2026-10-03
 > | 分析维度 | 新公共管理与传统科层能力观（NPM / Frame 1） | 使命导向公共部门动态能力观（Frame 3 / Kattel & Mazzucato, 2018） |
 > |:---|:---|:---|
 > | **核心治理目标** | 遵从行政规程、合规防错、追求短期财政节约与微观效率。 | 确立宏观变革方向、塑造并共创新市场、解决[[Wicked Problem\|复杂社会难题]]。 |
-> | **组织运作模式** | 条块分割的孤岛式科层结构，依靠静态成本收益分析（Cost-Benefit Analysis, CBA）决策。 | 去中心化探索网络、敏捷项目经理制、全流程动态[[Reflexivity\|反思性]]评估。 |
+> | **组织运作模式** | 条块分割的孤岛式科层结构，依靠静态[[Cost-Benefit Analysis\|成本收益分析]]（Cost-Benefit Analysis, CBA）决策。 | 去中心化探索网络、敏捷项目经理制、全流程动态[[Reflexivity\|反思性]]评估。 |
 > | **对失败与风险态度** | 零容忍风险，将单点项目失败视为行政失职与财政浪费。 | 遵循[[Investing in Innovation Program\|创新投资]]组合（Portfolio）规律，将试错视为组织学习的必要成本。 |
 > | **专业[[Source of Knowledge\|知识来源]]** | 核心战略规划与评估广泛外包给私营管理咨询公司（McKinsey 等）。 | 在公共机构内部系统培养和保留高水平科研、技术与管理复合型专家。 |
 > | **与私营部门关系** | 简单的买卖采购关系或单向去风险补贴（De-risking）。 | 风险共担与收益对等共享的长期战略共创伙伴关系。 |
@@ -97,10 +102,10 @@ updated: 2026-10-03
 ## 核心命题与机制分析
 
 > [!concept-proposition] 命题一｜公共部门动态能力是两种学术传统在[[Evolutionary Economics|演化经济学]]视阈下的理论综合
-> **解释** 既有研究长期存在两套割裂的传统：一是探讨企业在不确定环境中如何兼顾利用现有优势与探索未来机会的熊彼特式双元动态能力传统（Teece & Pisano, 1994; March, 1991）；二是聚焦官僚功绩制与嵌入式自主性的韦伯式国家能力传统（Evans & Rauch, 1999; Johnson, 1982）。[[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]将二者综合为公共部门动态能力：动态能力是存在于国家、政策与行政各层级能力内部的技能与例规，而包含媒体、选民、利益集团与制度制衡在内的社会政治反馈机制构成了能力演进的选择环境。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–797)]]
+> **解释** 既有研究长期存在两套割裂的传统：一是探讨企业在不确定环境中如何兼顾利用现有优势与探索未来机会的[[Joseph Schumpeter|熊彼特]]式双元动态能力传统（Teece & Pisano, 1994; March, 1991）；二是聚焦官僚功绩制与[[Embedded Autonomy|嵌入式自主性]]的韦伯式国家能力传统（Evans & Rauch, 1999; Johnson, 1982）。[[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]将二者综合为公共部门动态能力：动态能力是存在于国家、政策与行政各层级能力内部的技能与例规，而包含媒体、选民、利益集团与制度制衡在内的社会政治反馈机制构成了能力演进的选择环境。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–797)]]
 
 > [!concept-proposition] 命题二｜公共部门动态能力是克服传统科层僵化与被动市场修复的组织根基
-> **解释** 传统新古典市场失灵理论预设公共部门只能在市场出现外部性或公共品短缺时进行消极修补，导致政府能力被系统性限缩为合规性行政管理。面对21世纪复杂的重大挑战，唯有当公共机构建立起涵盖方向设定、敏捷探索与战略投资的动态能力体系，国家才能真正摆脱被动补贴者的角色，成长为有能力主动引领社会技术系统转型的企业型国家。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–788)]]
+> **解释** 传统新古典[[Market Failure|市场失灵理论]]预设公共部门只能在市场出现外部性或公共品短缺时进行消极修补，导致政府能力被系统性限缩为合规性行政管理。面对21世纪复杂的[[Grand Challenges|重大挑战]]，唯有当公共机构建立起涵盖方向设定、敏捷探索与战略投资的动态能力体系，国家才能真正摆脱被动补贴者的角色，成长为有能力主动引领社会技术系统转型的企业型国家。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–788)]]
 
 > [!concept-proposition] 命题三｜过度依赖外部管理咨询会导致公共机构出现系统性去能力化
 > **解释** 自 1980 年代[[New Public Management|新公共管理]]运动以来，欧美多国政府与公立大学将战略规划、数字化转型与绩效评估大规模外包给麦肯锡、波士顿等私营管理咨询公司，催生了所谓的[[Consultocracy|顾问统治]]（Consultocracy）。这种外包不仅耗费了巨额公共财政，更剥离了公共部门内生解决问题的实践机会，导致公共管理者丧失战略决断与技术研判能力，陷入组织[[Cognitive Deskilling|去技能化]]（De-skilling）与治理空心化的恶性循环。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 791–792)]]

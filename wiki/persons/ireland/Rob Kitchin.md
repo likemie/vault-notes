@@ -6,7 +6,7 @@ aliases:
   - Kitchin, R.
 summary: "爱尔兰梅努斯大学社会科学研究所教授，批判性数据研究领军学者，系统构建数据汇聚体理论与关键数据基础设施分析范式，深刻影响数字治理与教育数据化研究"
 type: person
-nationality: "ireland"
+nationality: ireland
 person_region: "ireland"
 person_related_count: 19
 person_related_level: 2
@@ -14,7 +14,7 @@ person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
 born: 1970
 died: ""
-lifespan: "1970–至今"
+lifespan: 1970–至今
 tags:
   - person/scholar
   - person/ireland
@@ -44,13 +44,13 @@ related_instruments: []
 related_persons:
   - "[[Sigrid Hartong]]"
 related_facts:
-  - "[[SMART]]"
+  - "[[Start Making a Reader Today]]"
 related_arguments:
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-03
 ---
 
 # Rob Kitchin
@@ -93,7 +93,7 @@ updated: 2026-09-18
 >   - **关键概念／方法** [[Data Infrastructure]]、[[Technical Rationality]]。
 >   - **阶段转向** 正式确立批判性数据[[Paradigm\|研究范式]]，将数据系统剖析拓展至社会全领域。
 > - **2019–至今 — 数字断连、算法城市主义与公共中介批判** 探讨数据自动化治理的失效边界、平台资本主义以及国家行政机器对数据系统的策略性采纳与抵制。
->   - **代表著作** *The Right to the [[SMART]] City* (2019); *Data Lives: How Data Are Made and Shape Our World* (2021)。
+>   - **代表著作** *The Right to the [[Start Making a Reader Today]] City* (2019); *Data Lives: How Data Are Made and Shape Our World* (2021)。
 >   - **关键概念／方法** [[Data Literacy]]、数据正义。
 >   - **阶段转向** 从宏观体系解剖深入微观实践维度的伦理、[[Disciplina and Doctrina\|规训]]与普通人数据经验。
 

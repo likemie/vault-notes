@@ -7,7 +7,7 @@ summary: "美国著名政策学者，布兰代斯大学公共政策荣休教授�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -38,6 +38,7 @@ related_theories:
   - "[[Governmentality]]"
   - "[[Multiple Streams Framework]]"
 related_methods:
+  - "[[Cost-Benefit Analysis]]"
   - "[[Discourse Analysis]]"
 related_instruments: []
 related_persons:
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Deborah Stone
@@ -76,7 +77,7 @@ updated: 2026-10-02
 > [!timeline] 生平与职涯
 > - **1960年代末–1970年代** 毕业于密歇根大学获得政治学学士学位，随后于杜克大学获得政治学博士学位，专注于医疗卫生政策与比较社会福利制度研究。
 > - **1984年** 出版《伤残国家》（*The Disabled State*），深入剖析现代福利国家如何通过医学诊断与官僚行政标签策略性建构“残障”概念以分配救济资源，奠定其[[Constructivist Paradigm|建构主义]]政策分析路径。
-> - **1988年** 出版里程碑著作《政策悖论与政[[Governmentality|治理性]]》（*Policy Paradox and Political Reason*，后重印修订为《政策悖论：政治决策的艺术》），对主导美国公共政策教育的微观经济学与成本收益分析发起总清算，荣获美国政治学会阿伦·怀尔达夫斯基奖。
+> - **1988年** 出版里程碑著作《政策悖论与政[[Governmentality|治理性]]》（*Policy Paradox and Political Reason*，后重印修订为《政策悖论：政治决策的艺术》），对主导美国公共政策教育的微观经济学与[[Cost-Benefit Analysis|成本收益分析]]发起总清算，荣获美国政治学会阿伦·怀尔达夫斯基奖。
 > - **1990年代–2010年代** 长期任教于布兰代斯大学，兼任麻省理工学院、达特茅斯学院等校客座教授；其理论被广泛应用于教育改革、环境规制与民权运动分析。
 > - **2020年** 出版《计数：我们如何利用数字决定何者重要》（*Counting: How We Use Numbers to Decide What Matters*），进一步深化关于量化指标政治本性的批判。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 4)]]
 

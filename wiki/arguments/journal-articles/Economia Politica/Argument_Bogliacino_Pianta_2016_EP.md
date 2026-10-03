@@ -7,7 +7,7 @@ title: "Argument_Bogliacino_Pianta_2016_EP"
 argument_key: "Argument_Bogliacino_Pianta_2016_EP"
 argument_display_title: "The Pavitt Taxonomy, revisited: patterns of innovation in manufacturing and services"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -33,11 +33,13 @@ related_concepts:
   - "[[Total Factor Productivity]]"
   - "[[Knowledge Production]]"
   - "[[Assemblage]]"
+  - "[[Nature of Innovation]]"
   - "[[Research Utilization]]"
   - "[[Variable]]"
   - "[[Competitiveness]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[General Purpose Technology]]"
   - "[[External Validity]]"
 related_theories:
   - "[[Pavitt Taxonomy]]"
@@ -154,7 +156,7 @@ updated: 2026-09-24
 > [!line-a] 供应商主导型（Supplier Dominated, SD）
 > 内部研发能力最弱，创新主要由**设备和材料供应商**引入。创新多为流程改进——通过采用供应商开发的新设备和材料来降低成本和提升效率——，很少开展自主产品创新。企业通常为小企业，在高度竞争的市场中运营。
 >
-> 典型制造业包括纺织、服装、食品加工和木材加工。Pavitt 指出这类产业的创新本质上是"技术采用"（technology adoption）而非"技术生成"（technology generation）——它们从外部获取创新，而非在内部生成创新（pp.156-158）。
+> 典型制造业包括纺织、服装、食品加工和木材加工。Pavitt 指出这类产业的[[Nature of Innovation|创新本质]]上是"技术采用"（technology adoption）而非"技术生成"（technology generation）——它们从外部获取创新，而非在内部生成创新（pp.156-158）。
 
 [[Pavitt Taxonomy|Pavitt 分类法]]的持久影响力来自其独特的"中间地带"定位：它既不像"代表性企业"方法那样将所有行业视为同质，也不像逐个行业分析那样过度碎片化。它捕捉了创新模式中最重要的结构性差异，同时保持了足够简洁——只有四个类别——便于应用于不同国家和时期的比较分析。自 1984 年以来，该分类法已被广泛应用于创新经济学、产业政策和区域创新研究，成为整合产业异质性和识别创新共性的核心分析工具。但 Pavitt 本人也承认，分类法需要根据产业结构的持续变化进行更新——特别是服务业占比的持续上升和 ICT 技术的革命性影响（pp.156-160）。
 
@@ -218,7 +220,7 @@ updated: 2026-09-24
 > [!finding-cards] 核心发现
 > 1. **Pavitt 四类结构稳健成立** 基于欧洲七国三轮 社区创新调查（[[Community Innovation Survey]]，CIS） 数据的主成分分析和回归分析确认，科学基础型、专业供应商型、规模（与信息）密集型、供应商主导型四个类别在不同国家和时间段持续有效（pp.165-175）
 > 2. **服务业可按相同逻辑归类** 通信和研发服务归入科学基础型，金融保险归入规模与信息密集型，批发零售和运输归入供应商主导型——服务业与制造业共享相同的创新模式分类逻辑（pp.160-165）
-> 3. **ICT 维度需要纳入分类体系** 原"规模密集型"应修订为"规模与信息密集型"（SII），以反映信息技术作为通用技术对创新模式的系统性影响
+> 3. **ICT 维度需要纳入分类体系** 原"规模密集型"应修订为"规模与信息密集型"（SII），以反映信息技术作为[[General Purpose Technology|通用技术]]对创新模式的系统性影响
 > 4. **分类法具有因果解释力** Pavitt 类别不仅在描述创新模式差异上有效，在解释创新如何转化为经济绩效（生产率、就业）上也具有显著的解释力（pp.170-175）
 
 ---

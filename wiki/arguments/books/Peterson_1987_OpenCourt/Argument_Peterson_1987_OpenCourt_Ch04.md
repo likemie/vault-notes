@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch04"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch04"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -78,6 +78,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[International School of Geneva]]"
   - "[[United World Colleges]]"
+  - "[[CERN]]"
   - "[[Educational Testing Service]]"
 related_arguments: []
 sources:
@@ -806,7 +807,7 @@ updated: '2026-09-12'
 >
 > **公平工资难题** 真正的国际人员构成要求 IBO 至少支付专业人员在本国能够获得的待遇；若某国专家的市场工资较高，同一团队内部又不能长期维持明显不平等。与此同时，日内瓦等国际城市受资金雄厚机构竞争影响，整体工资和生活成本不断上升。
 >
-> **工资基准** IBO 最终把永久全职人员的薪酬与欧洲核子研究中心（European Organization for Nuclear Research，CERN）挂钩。CERN 首席行政官是 IB 理事，其妻帕迪·汉普顿（Paddy Hampton）还曾任雷诺助理，这一选择同时体现正式基准与个人网络。
+> **工资基准** IBO 最终把永久全职人员的薪酬与[[CERN|欧洲核子研究中心]]（European Organization for Nuclear Research，CERN）挂钩。CERN 首席行政官是 IB 理事，其妻帕迪·汉普顿（Paddy Hampton）还曾任雷诺助理，这一选择同时体现正式基准与个人网络。
 >
 > **考官折中** IBO 支付考官的报酬高于英国类似工作、低于美国或斯堪的纳维亚标准。项目冒险性和使命吸引力在早期减轻了报酬差异的影响；随着组织制度化，这种差异可能促成英语助理考官占比上升（pp. 85–87）。
 

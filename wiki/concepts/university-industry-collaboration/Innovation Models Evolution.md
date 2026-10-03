@@ -9,7 +9,7 @@ aliases:
 summary: "Tidd（2006）等学者识别的创新过程理解方式的五次迭代——技术推动、需求拉动、耦合、系统集成与网络化、创新系统——从线性到系统的认识升级，现实中五种模型共存而非替代"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
   - "theme/innovation-policy"
   - "level/higher-education"
 related_concepts:
+  - "[[Big Science]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Creativity]]"
@@ -25,6 +26,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Clinical Trial]]"
   - "[[Emergence]]"
+  - "[[Grand Challenges]]"
   - "[[Wicked Problem]]"
   - "[[Document]]"
 related_theories:
@@ -63,7 +65,7 @@ updated: 2026-10-03
 
 ### 第一代：技术推动（Technology Push，1950s 主导）
 
-> 核心逻辑：重大科学发现创造新产品的机会和驱动力——"科学家发现了什么 → 工程师把它做成产品"。创新被理解为从研究到开发、生产再到营销的单向线性序列。
+> 核心逻辑：重[[Big Science|大科学]]发现创造新产品的机会和驱动力——"科学家发现了什么 → 工程师把它做成产品"。创新被理解为从研究到开发、生产再到营销的单向线性序列。
 
 这一[[Paradigm|范式]]的政策含义简洁有力：政府投资基础科学，创新自然会随之而来。
 
@@ -113,7 +115,7 @@ Kline & Rosenberg（1986）提出了耦合模型（也称"链环模型"），其
 > [!note]-
 > 近年来[[Emergence\|涌现]]的新驱动力在原有模型基础上叠加了新的约束和紧迫感([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, p.29]])：
 > - **地缘政治紧张与国家安全** 技术合作带上安全色彩，跨国创新协作面临新的边界
-> - **全球重大挑战** 气候变化、生物多样性丧失等"[[Wicked Problem|棘手问题]]"要求创新不仅创造经济价值还要解决社会问题
+> - **全球[[Grand Challenges|重大挑战]]** 气候变化、生物多样性丧失等"[[Wicked Problem|棘手问题]]"要求创新不仅创造经济价值还要解决社会问题
 > - **数字化转型与人工智能** 正在重塑所有行业的创新速度和方式
 
 ---

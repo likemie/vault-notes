@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dcfce7"
@@ -30,10 +30,12 @@ related_facts:
   - "[[Federally Funded Research and Development Centers]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
+related_concepts:
+  - "[[Big Science]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # MIT Radiation Laboratory
@@ -98,4 +100,4 @@ updated: 2026-10-02
 > | [[Office of Scientific Research and Development]] | Fact (Organization) | 资助、主管并授权设立 MIT 辐射实验室的联邦母体机构。 |
 > | [[Vannevar Bush]] | Person | 拍板并在白宫促成设立该实验室的最高科技决策领袖。 |
 > | [[Bell Labs]] | Fact (Organization) | 与辐射实验室在磁控管工业化及雷达制造上紧密协作的工业界巨头。 |
-> | [[Federally Funded Research and Development Centers]] | Fact (Organization) | 辐射实验室成功经验直接演进出的战后国家实验室与大科学体制。 |
+> | [[Federally Funded Research and Development Centers]] | Fact (Organization) | 辐射实验室成功经验直接演进出的战后国家实验室与[[Big Science\|大科学]]体制。 |

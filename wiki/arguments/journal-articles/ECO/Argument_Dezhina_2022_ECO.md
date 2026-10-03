@@ -20,11 +20,13 @@ related_concepts:
   - "[[Scientific Autarky]]"
   - "[[Megascience Installations]]"
   - "[[Going Native]]"
+  - "[[Nature of Innovation]]"
   - "[[Document]]"
   - "[[Asymmetric Brain Circulation]]"
   - "[[Attrition]]"
   - "[[Research Universities]]"
   - "[[Geisteswissenschaften]]"
+  - "[[Big Science]]"
 related_theories: []
 related_methods:
   - "[[Intervention Research]]"
@@ -38,6 +40,7 @@ related_facts:
   - "[[Federal Law No. 121-FZ on Foreign Agents]]"
   - "[[Federal Law No. 129-FZ on Undesirable Organizations]]"
   - "[[Consolidation of Russian State Science Funds]]"
+  - "[[CERN]]"
 related_arguments: []
 sources:
   - "[[sources/Dezhina_2022_ECO/Dezhina_2022_ECO|Dezhina_2022_ECO]]"
@@ -51,7 +54,7 @@ title: "Argument_Dezhina_2022_ECO"
 argument_key: "Argument_Dezhina_2022_ECO"
 argument_display_title: "Movement towards Autarky in Russian Science through the Prism of International Cooperation"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -87,7 +90,7 @@ issuing_organization: ""
 > | **创意跨国扩散模型**<br>(Melitz & Redding, 2021; Comin & Hobijn, 2010) | 论证新技术和思想的扩散是本国新想法与跨国想法融合的产物，用以解释限制国际合作将如何减缓本国创新的演进机制。（p.37） |
 
 > [!warrant]- 理论如何支撑论证
-> - **创意跨国扩散模型的作用机制** 科学进步与创新本质上依赖跨国合作与多源思维的交融。若人为阻断“双向学术信息流”（如限制人员国际循环、减少国际合著），将直接削弱本土创意与国际前沿的碰撞机会。（p.37）
+> - **创意跨国扩散模型的作用机制** 科学进步与[[Nature of Innovation|创新本质]]上依赖跨国合作与多源思维的交融。若人为阻断“双向学术信息流”（如限制人员国际循环、减少国际合著），将直接削弱本土创意与国际前沿的碰撞机会。（p.37）
 > - **技术自立平衡理论的规范作用** 提供理性战略的基准，强调必须在“技术自主掌控”与“国际学术合作”之间维持动态平衡，片面追求完全的自给自足将付出巨大的财务与质量代价。（pp.37, 49）
 
 ---
@@ -223,12 +226,12 @@ issuing_organization: ""
 ### 4. 大科学装置建设本土化对多边联合的背离
 
 > [!claim] 步骤四主张
-> 在建设高成本的“大科学”项目（[[Megascience Installations\|大科学装置]]）时，俄罗斯倾向于自主出资与本土建设，这背离了国际科学界共同出资、全球共享的协作主流，增加了极高的研发冗余与财政合规压力。（pp.47–48）
+> 在建设高成本的“[[Big Science|大科学]]”项目（[[Megascience Installations\|大科学装置]]）时，俄罗斯倾向于自主出资与本土建设，这背离了国际科学界共同出资、全球共享的协作主流，增加了极高的研发冗余与财政合规压力。（pp.47–48）
 
 > [!tension] 大科学装置建设的路线冲突
 > - **多边国际共建模式（全球主流趋势）**
 >   - **成本分摊与资源共享** 鉴于大科学装置极高的建设与运行成本，世界各国普遍采用多国共同出资、共建共享的合作模式。（p.48）
-> - **大国策略的转向** 美国在超导超级对撞机（SSC）项目因超支停摆后，承认单边出资不可行，全面转向深度融入欧洲核子研究中心（CERN）等国际协作网，共享前沿物理成果。
+> - **大国策略的转向** 美国在超导超级对撞机（SSC）项目因超支停摆后，承认单边出资不可行，全面转向深度融入[[CERN|欧洲核子研究中心]]（CERN）等国际协作网，共享前沿物理成果。
 > - **单边[[Going Native\|本土化]]建设模式（俄罗斯自足取向）**
 >   - **基建倾斜与独资倾向** 自2010年代起偏离多边共建轨道，将大量国家科研基建预算向本土独资、完全所有的“大科学”项目倾斜。（pp.47–48）
 > - **财政预算与能力的脱节** 在研发预算仅为美国十三分之一的背景下强推本土独资项目，试图锁定局部技术自立，带来了沉重的重复研发和财务压力。
@@ -241,7 +244,7 @@ issuing_organization: ""
 > 1. **国际学术人才循环非对称失衡** 俄罗斯学术人才流出集中于美、德等发达国家，而流入则依赖学术水平落后的独联体国家，引智标杆“[[Project 5-100\|5-100计划]]”成效受限且存在统计水分，难以建立高质量人才循环（pp.40–42）
 > 2. **内部行政管制壁垒主导学术退潮** 自2012年起，政府密集出台的“外国代理人”法案、2019涉外限令、2021教育法修正案等国内限制性法律，其推行强度和收缩效应甚至超越了外部制裁，强力阻碍了涉外合作与人员流动（pp.44–46）
 > 3. **科研资助系统行政垄断消解多样性** 境外基金撤出与国家科学基金（RHF、RFBR合并至RSF）的垄断化归并，消除了多元学术方向的试错容错机制，使得行政意志更易单一[[Intervention Research\|干预研究]]方向（pp.46–47）
-> 4. **大科学[[Going Native\|本土化]]加剧科研财政压力** 偏离全球多边共建[[Megascience Installations\|大科学装置]]的轨道，在研发预算仅为美国十三分之一的财力下强推本土独资项目，背负了巨大的研发重复和财政负担（pp.47–48）
+> 4. **[[Big Science|大科学]][[Going Native\|本土化]]加剧科研财政压力** 偏离全球多边共建[[Megascience Installations\|大科学装置]]的轨道，在研发预算仅为美国十三分之一的财力下强推本土独资项目，背负了巨大的研发重复和财政负担（pp.47–48）
 
 > [!stat-cards]- 核心数据
 > - **2%** 在美获得PhD学位并在学术机构工作的外籍人员中，来自俄罗斯和前苏联学者所占的比例（p.40）

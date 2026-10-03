@@ -13,11 +13,11 @@ person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
 born: "1949"
 died: ""
-lifespan: "1949–至今"
+lifespan: 1949–至今
 tags:
-- region/canada
-- level/higher-ed
-- discipline/international-education
+  - region/canada
+  - level/higher-ed
+  - discipline/international-education
 related_concepts:
   - "[[International Education]]"
   - "[[International Education Hubs]]"
@@ -39,11 +39,11 @@ related_arguments:
 related_facts:
   - "[[GATS and Trade in Education Services]]"
   - "[[World Trade Organization]]"
-  - "[[SMART]]"
+  - "[[Start Making a Reader Today]]"
 confidence: medium
 status: draft
-created: '2026-05-07'
-updated: 2026-09-29
+created: 2026-05-07
+updated: 2026-10-03
 ---
 # Jane Knight
 
@@ -106,7 +106,7 @@ Knight 提出[[International Education Hubs|国际教育枢纽]]（IEH）超越�
 ## 争议与批评
 
 > [!warning]
-- **概念边界模糊** 教育枢纽（education hub）、知识村（knowledge village）、智慧城市（[[SMART]] city）和技术极（technopole）等概念之间的界限在实践中日益模糊——这些原本各有侧重的发展策略正在融合为一个更广泛的城市-教育-创新综合体，使 Knight 的三类型学面临是否需要扩展或整合的张力（基于 Zapp, 2022, pp.155–156）
+- **概念边界模糊** 教育枢纽（education hub）、知识村（knowledge village）、智慧城市（[[Start Making a Reader Today]] city）和技术极（technopole）等概念之间的界限在实践中日益模糊——这些原本各有侧重的发展策略正在融合为一个更广泛的城市-教育-创新综合体，使 Knight 的三类型学面临是否需要扩展或整合的张力（基于 Zapp, 2022, pp.155–156）
 - **地缘政治工具化风险**[[Argument_Zapp_2022_Springer|Zapp (2022)]] 提示，Knight 所描述的教育枢纽战略同时具有教育和地缘政治双重面向——它们以"国际化"和"全球性"知识空间的面貌出现，但也可能掩盖城市、区域和国家实体持有者的领土主张和市场利益（Moisio & Kangas, 2016，引自 [[Argument_Zapp_2022_Springer|Zapp, 2022, p.156]]）
 - **肯定性框架的局限**[[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 指出 Knight 的 [[International Education Hubs|IEH]] 类型学主要采用"政策倡导导向的肯定性框架"——为政策制定者提供枢纽建设指南和进度测量工具——而未能从批判角度审视教育枢纽的地缘政治后果（如区域不平等加剧、大学社会功能的剥离）([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.203, 211–212]])
 

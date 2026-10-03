@@ -1,0 +1,864 @@
+=== PAGE 1 ===
+Mission-oriented innovation policy and dynamic
+capabilities in the public sector
+Rainer Kattel1,* and Mariana Mazzucato2
+1UCL Institute for Innovation and Public Purpose, University College London, Gower Street, London, WC1E
+6BT, UK. e-mail: r.kattel@ucl.ac.uk and 2UCL Institute for Innovation and Public Purpose, University
+College London, Gower Street, London WC1E 6BT, UK. e-mail: m.mazzucato@ucl.ac.uk
+*Main author for correspondence.
+Abstract
+This article contextualizes the reemergence of mission-oriented innovation policies in the broader
+search for a new type of innovation policies—and the appropriate organizational forms— that can
+tackle “grand societal challenges,” and focuses on our knowledge gaps in designing and implement-
+ing such innovation policies. We identify the concept and practice of dynamic capabilities in the public
+sector as perhaps the key missing element in the search for the new generation of innovation policies.
+We offer a brief conceptual and historical overview of what constitutes mission-oriented policies,
+focusing on two key elements of missions: coordinated public investments and market-shaping poli-
+cies to “crowd in” private and third sector experimentation and innovation. The article concludes by
+brieﬂy discussing the central public sector dynamic capabilities for 21st-century missions.
+JEL classiﬁcation: B52, O21, O25, O38
+1. Introduction
+[T]he merit of innovation, both in private and public products, ceases to be something that can be assumed. Rather it is some-
+thing to be assessed. (Galbraith, 1973: 154)
+Countries around the world are seeking to achieve economic growth that is smart (innovation-led), inclusive, and
+sustainable.1 This ambition to achieve a particular type of economic growth (smart, inclusive, and sustainable) is a
+direct admission that economic growth has not only a rate but also a direction and, thus, can have multiple alterna-
+tive directions. However, such ambitious goals require rethinking the role of government and public policy in the
+economy, and the associated organizational forms that can be as dynamic and explorative as the policies themselves.
+In particular, it needs a new justification of government intervention that goes beyond the usual one of merely fixing
+market failures.
+Governments aiming to shape future markets and directions of innovations cannot rely on fixing various failures
+in markets and institutions, as future innovations are by definition clouded in uncertainty that makes failure-driven
+policies blunt if not misguided change agents. In this context, industrial and innovation strategies can be critical pil-
+lars to achieve transformational change—in particular, identifying and articulating new missions that can galvanize
+1
+We are grateful to Giovanni Dosi for his suggestions and comments.
+V
+C The Author(s) 2018. Published by Oxford University Press on behalf of Associazione ICC. All rights reserved.
+Industrial and Corporate Change, 2018, 1–15
+doi: 10.1093/icc/dty032
+Introduction
+Downloaded from https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dty032/5089909
+by Bukkyo University Library user
+on 03 September 2018
+
+
+=== PAGE 2 ===
+production, distribution, and consumption patterns across various sectors. Addressing grand challenges—whether
+traveling to the moon, battling climate change, or tackling modern care problems—requires investments by both pri-
+vate and public actors. The role of the public sector here is not just about de-risking, and leveling the playing field,
+but tilting the playing field in the direction of the desired goals—creating and shaping markets which increase the
+expectations of business around future growth opportunities, thus driving private investment.
+This mission setting and crowding in process requires rethinking ways in which public organizations design, im-
+plement, and evaluate (innovation) policies. In other words, in the same way that the private sector requires dynamic
+capabilities (Teece, 2016), what dynamic capabilities are needed in the public sector to deliver mission-oriented poli-
+cies? This special issue is dedicated to initiating a more extensive scholarly discussion around this question.
+The current introduction is structured as follows. First, we will contextualize the reemergence of mission-oriented
+innovation policies (MOIPs) in the broader search for a new type of innovation policies—and the appropriate organ-
+izational forms—that can tackle “grand societal challenges,” and our knowledge gaps in designing and implementing
+such innovation policies. We identify the concept and practice of dynamic capabilities in the public sector as perhaps
+the key missing element in the search for the new generation of innovation policies. We offer a brief conceptual and
+theoretical overview of what constitutes mission-oriented policies, focusing on two key elements of missions: coordi-
+nated public investments and market-shaping policies to “crowd in” private and third sector experimentation and in-
+novation. This is followed, second, by a short history of mission-oriented policies: we show that there are three
+transformations or generations of mission-oriented policies, each with a distinct set of public sector capabilities and
+exemplar public organizations. Third, we show that in discussing capabilities, there exist two parallel cultures:
+Schumpeterian business literature and practice around dynamic capabilities of the firm, and Weberian public policy
+discussion focusing on capacities of the state. We propose a new synthesizes of these “two cultures” under the con-
+cept of “dynamic capabilities in the public sector.” And, finally, in the concluding fourth section, we briefly discuss
+the central public sector dynamic capabilities for 21st-century missions.
+2. Searching for the next generation of innovation policies
+2.1 Transformations in innovation policy
+Over the past decade and a half innovation policy has undergone (at least) two transformations:
+First, there is a growing emphasis on non-technological innovation—e.g., user-driven, social, public sector
+innovation—and in particular in the context of so-called grand societal challenges such as climate change and aging
+societies, such aspects of innovation are receiving more and more attention (see also Fagerberg, 2016, 2018).
+Second, the refocusing from technology to broader systemic elements of innovation has also brought a shift from
+“fixing” various “failures” in (sectorial, regional, and national) innovation systems to transforming these systems
+(Weber and Rohracher, 2012).
+These transformations matter because, as argued by Lindner et al., 2016, “. . . established practices and institu-
+tions continue to operate with the chief aim of improving innovation capacities by ‘getting the structures right,’ there-
+by sidestepping the question ‘getting the structures right to achieve what?’” And thus it is not only innovations but
+increasingly also its spillovers into other areas of life from the environment to social justice that are receiving increas-
+ing attention (see Zehavi and Breznitz, 2017; and already Rothwell and Zegveld, 1981).
+In other words, the innovation policy debate is shifting from a focus on the quantity or rate of innovation (e.g.,
+number of patents and jobs) toward quality and direction of innovations (e.g., whether innovations help alleviate cli-
+mate change) (Sterling, 2014; Mazzucato, 2017, 2018b). Thus rather than the focus on leveling the playing field, the
+focus becomes how to tilt it in a new direction, e.g., one that rewards sustainable growth (Mazzucato and Perez,
+2015).
+This “normative turn” in innovation policy that underlies the search for next generation of innovation policies
+(Daimer et al., 2012; Cantner and Vannuccini, 2018; Kuhlmann and Rip, 2018) is based on much more “distributed
+agency” that has been the case with previous iterations. Next to governments, academia, and the business sector,
+also large international organizations such as the United Nations and the Organisation for Economic Co-operation
+and Development (OECD); philanthropies (e.g., Bloomberg, Gates Foundation, and many others) and social move-
+ments (e.g., green movement; see Leadbeater, 2018 on the role of social movements in missions-driven innovations)
+play increasingly important role in shaping the innovation policy agenda (Kuhlmann and Rip, 2018).
+2
+R. Kattel and M. Mazzucato
+Downloaded from https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dty032/5089909
+by Bukkyo University Library user
+on 03 September 2018
+
+
+=== PAGE 3 ===
+While the Sustainable Development Goals are the most ambitious expression of such shift in focus, innovation
+remains in the periphery of Unites Nations policy activities, and this perhaps shows how difficult it is to “direct”
+innovations within the existing conceptual and policy frameworks. European Union (EU), on the other hand, has
+attempted for more than a decade to reorient its R&D agenda toward the grand challenges (see also ESIR, 2017).
+From the Lund declaration in 2009 on EU R&D and grand challenges2 to responsible research and innovation
+agenda as a cross-cutting theme in the EU’s R&D program “Horizon 2020,”3 the EU has attempted to tackle what
+has been called “orientation failure” inherent to its innovation policies (Daimer et al., 2012). These efforts, however,
+also show that most countries have in fact already agreed in which direction innovation policy efforts should be steer-
+ed (Fagerberg, 2018). What is missing is an innovation road-mapping to get there.
+The focus on the direction of innovation has also brought attention to the governance of innovation, particularly
+on the need to reflect on—and not merely measure—innovation systems (see also Lindner et al., 2016). Indeed, we
+can argue that today innovation policy landscape is in something of a cognitive paralysis: governments increasingly
+realize the “wicked” nature of some of the most pressing problems they face and at the same time also realizing that
+existing policy toolboxes (of design, coordination, and evaluation) are not enough to tackle these challenges. In other
+words, governments increasingly recognize that they need more dynamic toolkits—capabilities—at their disposal.
+However, this has also made policymakers, and academics realize that we know relatively little about what makes
+governments and specific public organizations dynamic. Over the past half a century, we have experienced the emer-
+gence of a genuine tradition of analyzing dynamic capabilities in businesses; there is nothing quite similar for the pub-
+lic sector.
+It is within this broader context of searching for the next generation of innovation policies that mission-oriented
+approach to innovation is receiving renewed attention. For its R&D program starting in 2020, the EU is refocusing
+substantial part of its R&D funding specifically on missions (Mazzucato, 2018a). Similarly, the UK launched new in-
+dustrial strategy in 2017 that brings out four grand challenges in which policies should focus on specific missions
+(BEIS, 2017). OECD has cataloged how many of its members are attempting to implement mission-oriented policies
+(OECD, 2015). Missions have emerged as perhaps the primary approach to tackle grand challenges through
+innovations.
+2.2 Defining mission-oriented policies
+Policy missions (and not merely mission-driven organizations) are by definition about direction—about concrete
+problems to be solved. In brief, MOIP relies on two pillars:
+First, setting a purpose for public investments: “big science” meets “big problems” (Weinberg, 1967; Ergas,
+1987).
+Second, creating conditions for new markets: enabling spillovers from “big science” in form of new demand and
+supply (Mazzucato, 2017; also Kuhlmann and Rip, 2018).
+MOIP is a market-shaping public investment and policy framework that aims to shift the direction of innovation
+system(s). MOIP is, thus, a conscious decision not to use the market failure approach as a theoretical foundation for
+public sector activities. As argued already by Nelson (1959) and in particular by Arrow (1962), welfare economics-
+driven market failure approach is good at identifying problems, such as areas with underinvestment in R&D but
+quite poor guide in identifying areas with the potential highest “social profit” (Nelson, 1959: 298). As Arrow aptly
+put it: “Formally, of course, resources should be devoted to invention until the expected marginal social benefit there
+equals the marginal social benefit in alternative uses, but in view of the presence of uncertainty, such calculations are
+even more difficult and tenuous than those for public works. Probably all that could be hoped for is the estimation of
+future rates of return from those in the past, with investment in invention being increased or decreased accordingly as
+some average rate of return over the past exceeded or fell short of the general rate of return” (Arrow, 1962; Kattel
+et al., 2018).
+Further, as Hausmann and Rodrik (2006) and Chang (2002) argue, decades dominated by market failure-driven
+policymaking have seen weak performance in developing countries applying these instruments. When policy makers
+2
+See http://www.vr.se/download/18.7dac901212646d84fd38000336/; also Dachs et al., 2015 and OECD 2015 for an overview
+of different countries attempting to realign innovation policies toward grand challenges.
+3
+See https://ec.europa.eu/programmes/horizon2020/en/h2020-section/responsible-research-innovation.
+Mission-oriented innovation policy
+3
+Downloaded from https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dty032/5089909
+by Bukkyo University Library user
+on 03 September 2018
+
+
+=== PAGE 4 ===
+use market failure framework as guidance for direction, they focus improving supply-side conditions (e.g., the supply
+of skills and capital), as firm level “decision rules” are assumed to be about profit maximization and that the most ef-
+ficient way to do it is through better inputs (Nelson and Winter, 1974: 887, 888). And hence neoclassical analysis of
+(industrial and) innovation policy focuses on complementary market and public inputs (Hausmann and Rodrik,
+2006).
+Market-shaping and creating framework, in turn, assumes that firm-level search for new decision rules and for
+new ways of doing business is influenced by public policy: “academic and governmental research certainly changed
+the search prospects for firms in the electronics and drug industries, and for aircraft and seed producers” (Nelson and
+Winter, 1974: 902). As Nelson and Winter argue, markets are never in Pareto optimality (1974: 900; see the excellent
+discussion in Foray, 2018 of directed innovation policy). Mission-oriented policies are in the (Schumpeterian)
+market-shaping framework tools to focus policy discussions on which direction should public efforts enlarge firm-
+level search activities.4 This idea of structural renewal through directing innovation has found perhaps the most ori-
+ginal expression in Albert Hirschman’s idea of development through unbalanced growth (1958).5 Hirschman argued
+that consciously keeping development unbalanced, that means letting some economic activities develop faster than
+others, keeps development momentum going, as it enforces cross-sectoral learning and experimentation (see Cantner
+and Vannuccini, 2018 on catalytic nature of missions; and Bonvillian, 2018 on mission-oriented agencies as change
+agents in legacy sectors).
+2.3 Missions and public policy: an uneasy marriage?
+Ideally, all public policies are mission-oriented, aimed at solving a set of challenges society faces. Indeed, Beveridge
+himself—the founder of the UK welfare state—argued that it was not enough to set up the welfare state. What was
+required were new forms of collaborations and engagements (Cottam, 2018), and, we argue, new forms of tools and
+organizations.
+The potential of this transformational agenda has been limited by the view of public policies in terms of getting
+the processes right (e.g., following laws, regulations, procedures, political agreements of the day, and so forth) and
+having the inputs for these processes (e.g., finances and human resources). The focus on inputs translates into the
+way that gross domestic product accounts for public investments: only as input costs, with the public value generated
+being absent or mis-measured (Mazzucato, 2018c).
+This is because public policies deal with areas where outcomes can be, and are, easily contested (e.g., What policy
+instruments exactly lead to economic growth or diminishing of crime?)6 (Mintzberg, 1996). Particularly for modern-
+day governments, this means that coordination between various policy fields has become perhaps the most “wicked”
+issue in policymaking. Indeed, arguably the idea of “innovation policy” as a separate policy area emerged in the late
+1970s and early 1980s as a coordinating policy (Sweeney, 1985: viii). This, however, has failed to materialize, and
+the reasons for this can be found in what we can call a complexity paradox of modern public policy: the more com-
+plex policies issues are, the more compartmentalized policymaking becomes (Sweeney, 1985: viii, ix).
+Coordination should be, by the very nature of public policies, the paramount task for government organizations.
+Yet because the results of the coordination processes (policy outcomes) can easily be contested, coordination itself
+becomes of secondary importance.7 And hence, the purpose of public policies can be and is easily drowned in day-to-
+day processes (Goodsell, 2011).
+Mission-oriented policies offer a policy framework that enables the public sector to overcome the endemic policy
+coordination failures (Ergas, 1987: 194). Indeed, best-known past examples of mission-oriented policies—such as the
+Moonshot—show exactly that. Such policies succeeded at mobilizing a wide variety of technological and innovation
+efforts under a single challenge—get to the moon—and itemize it into a variety of missions. The impact was not only
+4
+See also Burlamaqui 2006 who argues for a Schumpeterian competition policy that should be based on what he calls
+market features approach, and Drechsler et al., 2006 on “creative destruction management” as an example of
+Schumpeterian “toolbox” for directing innovation.
+5
+Hirschman’s main discussion partner was Ragnar Nurkse who argued for balanced growth: development policies should
+support multiple sectors that can become each other’s customers and generate increasing returns in multiple industries
+simultaneously. See Nurkse 1953; Kattel et al., 2016 for a broader contextual discussion of development pioneers.
+6
+On policy feedback loops, see Pierson 2004; also Mintzberg 1996.
+7
+See also Peters 1998 on the politics of coordination.
+4
+R. Kattel and M. Mazzucato
+Downloaded from https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dty032/5089909
+by Bukkyo University Library user
+on 03 September 2018
+
+
+=== PAGE 5 ===
+actually to get a man on the moon but likely every reader reading this text is using some of the innovations that can
+be traced back to this effort; its spillovers were massive (Mowery, 2011; Mazzucato, 2013). Big investment into big
+science led to big innovations. Public investments created a technological frontier that coincided with private sector
+developments and thus created multiple new search opportunities for firms (Dosi, 1981: 10, 11). Indeed, the irony is
+that it has been when public institutions were most mission-oriented that the business sector was most able to later
+commercialize innovations. When instead the focus is on ex ante economic value, there emerges less frontier led re-
+search to commercialize.
+However, the Moonshot was not the only mission-oriented policy. As Henry Ergas showed three decades ago, es-
+sentially all leading economies at the time used mission-oriented technology and innovation policies, some to a larger
+degree than others (Ergas, 1987: 192; see also Foray et al., 2012). Perhaps the most interesting aspect in Ergas’ ana-
+lysis are the reasons for successes and failures of mission-oriented policies at the time. He argues that mission success
+and failure depend on whether implementing organizations have, first, technical expertise, financial resources, and
+operational autonomy; second, whether networks with external partners allow for experimentation with alternative
+solutions; and third, whether mission latitude is not too loosely defined allowing organizations to stray into areas
+where their capabilities are not strong enough. In other words, Ergas describes—without any specific theoretical and
+conceptual framework—what how specific public sector dynamic capabilities made MOIP successful.
+Importantly, concurrently with Ergas’ analysis, most countries underwent massive public sector reforms, so-
+called new public management (NPM) reforms of the 1980s and 1990s (for an overview, see Drechsler, 2005).
+NPM’s main thrust was to introduce market-like incentives in the public sector as well. This was captured in ideas
+such as decentralizing agencies, contracting out various functions (from the back office to actual service delivery),
+and performance pay for managers and agencies. Put simply, NPM reforms were meant to rein in public costs and
+make public organizations more efficient. As perhaps the most significant result of these reforms—at least for innov-
+ation policy—modern governments tend to rely on unified and holistic budgetary and performance systems in which
+all activities of government are seen through the same lenses, and often these are defined by efficiency, and saving.
+Such frameworks make it, by definition, rather difficult to justify missions. For public management, however, the re-
+form waves of the 1980s and 1990s created a particularly strongly unified and specific vision of public sector per-
+formance. As argued by Bouckaert and Peters (2002), this meant focusing on “visible performance” of lower-level
+activities—“frog view” (p. 230)—and not on higher-level (e.g., cross-organizational) policy fields. This frog view
+manifests itself today in the concern to precision-target government support on the project level and ever more com-
+plex and mostly market failure-driven policy evaluation tools to understand the impact of such support, mostly with
+mixed success (Edler et al., 2016). Such an approach assumes that there are correct answers to any policy question
+that a specific project or proposal can address and that we need to find the proper measurement frameworks through
+increasingly sophisticated data analytics. This does resemble what happens in many team sports where so-called
+Moneyball approach to finding talent and best way to play relies increasingly on advanced statistical models. In
+R&D policy these shifts focus away from political discussions about the broader direction of policies, and toward
+discussion of single instruments and measurement. However, as important measurement is, not only is innovation in-
+herently open-ended, non-linear, and rife with uncertainty, innovations also challenge existing institutional frame-
+works and values (e.g., sharing economy giants like UBER challenging public transportation systems), that is they
+challenge the idea of value that should be measured (Schumpeter, 1942).
+What we miss in both scholarly and policy debates is a better understanding of institutional and political ramifica-
+tions of mission-oriented policies: What kind of political factors are conducive to generate missions with socioeco-
+nomic acceptance and political legitimacy? What kind of variety of organizational configurations and capabilities are
+needed to develop, implement and evaluate missions properly? What kinds of forms of democratic engagement best
+help form legitimacy around mission? To put it most simply: Do century missions require 21st-century policy design
+and implementation processes?
+In particular, implementation and organizational issues around mission-oriented policies—and in directing innov-
+ation systems in general—have not received sufficient attention in previous discussions of mission-oriented policies.
+Thus, for instance, Foray, Mowery, and Nelson touch upon these issues in an otherwise excellent article only fleetingly
+by discussing whether a mission-oriented program is managed through a centralized or decentralized governance struc-
+ture and stressing the importance of stable funding (2012: 1701).
+Indeed, one can argue that the community of Schumpeterian scholars never followed up the point by Nelson and
+Winter (1982) for public policy to be matched by bold new organizational structures in the public sector was never
+Mission-oriented innovation policy
+5
+Downloaded from https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dty032/5089909
+by Bukkyo University Library user
+on 03 September 2018
+
+
+=== PAGE 6 ===
+met: “The design of a good policy is, to a considerable extent, the design of an organizational structure capable of
+learning and of adjusting behavior in response to what is learned” (384; also Kattel et al., 2019, forthcoming).
+To move in this direction, we must first learn from the history of mission-oriented policies and then ask what the
+lessons are for a theory of the dynamic capabilities of the public sector.
+3. Camel, lion, and child: three transformations of mission-oriented policies
+Friedrich Nietzsche famously argued in Also sprach Zarathustra that as human beings our spirit goes through three
+transformations on our way to self-discovery: from camel who can carry heavy loads to the lion who can and will
+fight everybody to the child who plays by their own rules. The camel denotes the capacity to suffer and sacrifice; the
+lion symbolizes the power of sovereignty, and the child is about creativity and play. We argue that mission-oriented
+policies have gone through similar transformations in three generations over the past 150 years.
+3.1 Short history of mission-oriented policies
+The idea of mission-oriented policies has its root in the idea of modernization, which of course is not a “modern”
+idea at all. Even if we are today accustomed to equating modernization with Westernization, what we call modern
+state and bureaucracy have arguably Asian and specifically Chinese origins (Fukuyama, 2011). What matters for our
+context is the religious–cultural idea of “mandate of heaven” that applied to the rulers, as well as the mandarins, in
+Imperial China that they must govern well and provide for the people; not fulfilling this “mandate” created a legitim-
+ate cause to overthrow the ruler or dismiss the civil servants (Drechsler, 2018). The counterpart to mandate of heaven
+in Western culture is the idea of “reason of state,” originating with Giovanni Botero’s eponymously titled book from
+1591 (Della Ragion di Stato)—Number 5 on economic bestseller list of books published before 1850 (Reinert, 2007;
+Reinert, 2011; Reinert et al., 2017)—justifying policies (and Botero explicitly includes economic policies) on the
+grounds of what today is called “national interests.”
+These two ideas coalesce around developmental states of the late 19th and early 20th century with (proto-)mis-
+sions of catching up, finding its practical toolbox in Alexander Hamilton’s Report on the Subject of Manufactures in
+1791 and theoretical embodiment with Friedrich List’s Das Nationale System der politischen Oekonomie (1841).
+Mandate of heaven and national interest offers ideational backdrops to what can be called a duty to catch up as an
+overarching policy challenge that subsumed under it a variety of policy missions from building up knowledge base
+(e.g., reforming universities) to creating trade relations and social policy (the latter is particularly crucial for
+Bismarck’s Germany, including for the evolution of economics as a science through the debates around the “social
+question” of the 1870s; Drechsler, 2016). Particularly German catching-up story is noteworthy not only for its sig-
+nificant investments into development and resulting in impressive actual catching up and in many instances forging
+head of England and other industry leaders but also for a wealth of institutional innovations such as central banks as
+lenders of last resort and multiple welfare state insurance schemes.
+The “developmental state” as the first-generation mission-oriented policies relied on expert meritocracy in public
+organizations accompanied, however, by constant renewal and rejuvenation of organizational configurations (Karo
+and Kattel, 2015; Kattel et al., 2018). As exemplar institutions we can look at what is called “System Althoff” in
+German higher education and research policy (named after Friedrich Althoff, a top civil servant in Prussian Ministry
+of Culture and responsible for hugely successful university reforms; vom Brocke, 1991), and at MITI (Ministry of
+International Trade and Industry) in Japan as quintessential development agency of “embedded autonomy” (Evans,
+1995). While both institutions are often seen as representing Weberian bureaucracy at its finest (with merit-based re-
+cruitment and promotion systems and rule-based organization of work), both enjoyed high-level political support
+but also relied on what can be called wide-ranging charismatic networks, built and nurtured by top civil servants (see
+also the discussion in Karo, 2018 of organization renewal in East Asian innovation bureaucracy).
+The camel can represent the first generation of mission-oriented policies in Nietzsche’s metamorphosis: the poli-
+cies were wide ranging and demanded endurance and sacrifice in the name of national catching up and pride. A ver-
+sion of these policies is also to be found in the Soviet Union and other planning-based policies of the post-World War
+II (Freeman, 1987; Chibber, 2003; Chandrashekar, 2016). Indeed, the latter can be considered as an intermediary
+form between the first and second generation of mission-oriented policies, particularly its more successful forms such
+as Commissariat du Plan in France, with its origins in mixed enterprises of the 1920s and its heyday in 1960s.
+6
+R. Kattel and M. Mazzucato
+Downloaded from https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dty032/5089909
+by Bukkyo University Library user
+on 03 September 2018
+
+
+=== PAGE 7 ===
+Schonfield argues that success of French planning was pivotal also for Kennedy’s “un-American” fervor for setting
+targets for long-term economic growth (1966: 72, 73). The French planning culture, with focus on achieving a “more
+complete view of man” (quoted in Schonfield, 1966: 227), makes it clear that the point of “planning is thus in part
+an ethical one: it imposes choices about the use of resources other than those which the market would produce”
+(Schonfield, 1966).
+The second generation of mission-oriented policies are the well-known policies and public agencies from 1940s to
+1960s in military and space technologies in the US and major Western European economies (Ergas, 1987; Soete and
+Arundel, 1993). As Alvin Weinberg, for 18 years the director at Oak Ridge National Laboratory that was part of the
+Manhattan Project, argues, these mission-oriented policies were about “big science” deployed in the “national inter-
+ests” (Weinberg, 1967: 132). Organizationally such policies were often implemented by single national/public labo-
+ratories with a concrete mission to solve particular technological problems, and not engage in basic science; which
+also meant that these facilities were built up more hierarchically than universities (Weinberg, 1967). Weinberg argues
+that many of these organizations lost focus on original missions—partly due to accomplishing missions and partly
+due to pressure from researchers—and moved toward basic research (Weinberg, 1967: 136; see also Nelson et al.,
+1967: 169). Similar problems emerged in the Western European countries where the basic policy assumption was
+that “research results constitute an undirected potential” (Krupp, 1985: 51)—for private sector to “find” the direc-
+tion of innovation. The basic research policies were in reality supplemented by multiple civilian mission-oriented pol-
+icies in the form of large-scale funding for nuclear energy and transportation (magnetic trains and supersonic
+aviation) (see Gummett, 1980). This was perhaps the key challenge for the second generation of mission-oriented
+policies—and specifically implementing agencies—how to redeploy resources around new, civilian missions8
+(Weinberg, 1967: 134, 135; also Nelson et al., 1967: 3). While first-generation mission-oriented policies—catching-
+up policies—relied on a wide range and constantly renewed organizations that hired expert civil servants and had
+strong political support, the second generation of mission-oriented policies had a much more heroic vision of dynam-
+ic change. Missions were built around single agencies with high profile managers in charge of them (Weinberg, 1967:
+134; also Lambright et al., 1985). This ambition—both in problems the organizations of this era took on as well as
+in the scale of investment—brought both massive successes and spillovers (Block and Keller, 2011; Mazzucato,
+2013), but also played a crucial role in the demise of this generation of mission-oriented policies.
+As suspected by Weinberg and later documented by Ergas (1987), many mission-driven research laboratories
+could not create sensitivity and flexibility around their purpose, particularly in taking up new emerging less techno-
+logical and more social challenges such as pollution and decay of inner cities (also Nelson, 1977). Also, the seeming
+lack of success in translating successes of military R&D and its procurement into the civilian realm played a signifi-
+cant role in changing policy attitudes (Pavitt and Walker, 1976). Similarly, planning exercises, siblings to mission-
+oriented policies, often did not lead to successful outcomes. As documented by Schonfield, economic and industrial
+policy failures in the UK and elsewhere in the 1960s, particularly in contrast to its successes in France, were down to
+both low political commitment to long-term planning (and not just business cycle management) and lack of proper
+capabilities within planning organizations (1966). In contrast, the French planning capabilities evolved as “voluntary
+collusion between senior civil servants and senior managers of the big business. The politicians and the representa-
+tives of organized labor were both largely passed by” (Schonfield, 1966: 128), with a strong focus on building capa-
+bilities within public organizations (and not farming them out to independent commissions; Schonfield, 1966: 105).
+The idea was to pick the willing: “deliberately selecting a few promising firms who seem willing and able to move
+ahead fast, and then giving them every encouragement in the form of large contracts, financial help, and other
+favours” (Schonfield, 1966: 111) and with handpicked membership in modernizations commissions (Schonfield,
+1966: 98). This contrasted with the UK approach where “average” companies were in the driving seat for planning
+commissions which accordingly did not set ambitious plans or develop proper implementation mechanisms.
+Furthermore, one of the key factors in the demise of mission-oriented policies and industrial planning in Europe
+was the emergence of European Economic Community where each country had rather different planning styles and
+capabilities (Schonfield, 1966). Instead of a common European style of industrial planning and with it of mission-
+oriented policies to emerge in the late 1960s and 1970s, rather a gridlock of plans and missions, and policy cultures
+remained in place (Schonfield, 1966: 141; also 133). The results of this could be seen in the fate of European
+8
+See also Lambright et al., 1985 for a discussion of civilian missions from that era, e.g. civilian supersonic transport,
+nuclear power, and synthetic fuels; and Krupp 1985.
+Mission-oriented innovation policy
+7
+Downloaded from https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dty032/5089909
+by Bukkyo University Library user
+on 03 September 2018
+
+
+=== PAGE 8 ===
+electronics, and semiconductors industries that individually could not compete with the US companies and a
+European industry could not emerge, as national policy cultures remained dominant (Schonfield, 1966: 374, 375;
+Dosi, 1981).
+Exemplar organization for this period is DARPA for both its internal flexibility and ability to rejuvenate its focus
+around defense mission, summarized in this by Bonvillian, 2018.
+The second generation of mission-oriented policies and organizations has the characteristics of Nietzsche’s lion:
+organizations with enormous ambitions, manned by talented engineers and civil servants, and backed by visionary
+politicians.
+At the end of this era is the emergence of contradicting policy trends:
+On the one hand an emerging focus on future (general purpose) technology foresight exercises and search for
+visions, that in particular for East Asian economies was accompanied by the idea to leapfrog—rather than just catch
+up—international competitors. In essence, mission-oriented policies were slowly replaced by search for future tech-
+nologies and preparing economies for their diffusion (Rothwell and Zegveld, 1981).
+On the other hand, the emergence of market failure-based approach to (innovation) policy that came to dominate
+the policy arena along with NPM reforms in the late 1980s and resulted in privatization of public laboratories, emer-
+gence of new arms–length funding agencies (e.g., research councils), focus on commercializing and marketizing re-
+search (e.g., competitive grant systems), and cost-efficiency practices in policy evaluation practices (Gummett, 1980;
+Boden et al., 1998). This contributed to demise of the directionality of innovation as a policy agenda.
+The third generation of mission-oriented policies and organizations that is now in its ascendancy has multiple
+drivers and a somewhat heterogeneous set of actors:
+a. Multilateral organizations such as the EU have been prominent in urging to develop “new” missions around sus-
+tainability and other decidedly socioeconomic (as opposed to solely technological) issues (Soete and Arundel,
+1993).
+b. Large private philanthropies such as Gates Foundation and others have sought out speciﬁc problems (e.g., dis-
+eases) to solve and focus not only their funding but also important networks on those problems as missions.
+c. Bottom-up social movements have been able to focus directionality of research, e.g., Act up’s, and other groups’
+impact on HIV research and its increased funding (Leadbeater, 2018). Similarly, Germany’s Energiewende would
+have never happened without the green movement (Fagerberg, 2018). On the other hand, Kennedy’s Moonshot,
+in turn, created itself a wave of excitement with a prolonged impact on Science, Technology, Engineering, and
+Mathematics (STEM) education in schools.
+In contrast to previous generations of mission-oriented policies, the current manifestation does not have a
+“dominant design” regarding its governance system. Among the wide heterogeneity of attempts, some key features
+are emerging:
+First, focus on the social responsiveness of science and innovation. Rather than focusing on specific sector (such
+as energy) or technology (such as nuclear) as was often the case in the previous generation, current attempts can be
+characterized by cross-sectoral focus by design (Mazzucato, 2018a).
+Second, with social responsiveness also citizens and social engagement have moved into the focus of mission-
+oriented policies. Innovation, design, and digital agencies are increasingly trying to focus on citizens as “users” of
+public services and such organizations experiment with multiple agile feedback mechanism to quicken policy proc-
+esses under a larger mission that is tied to a specific public purpose (OECD, 2017).
+Third, experimentalism is seen as a key feature of mission-driven policies and organizations, and this is reflected
+in embracing randomized control trials by philanthropies and social enterprises at the one extreme, and by service de-
+sign principles of prototyping at the other. This last feature brings this generation of mission-oriented policies and
+organizations close to what Nietzsche had in mind by transformation of the soul to child: playfulness in experimenta-
+tions is part and parcel of current attempts in mission-driven innovation (see also Kuhlmann et al., 2010 on
+“innovation policy dance”).
+As an exemplar organization we can look at UK’s Government Digital Service, established in 2011, that was able
+to create award-winning common government domain, gov.uk, hire top software engineers and designers in the
+country, break down oligopolistic networks of large vendor companies competing for government IT contracts, and
+doing so save government £4 billion without actively targeting it (Birkinshaw and Duncan, 2014).
+8
+R. Kattel and M. Mazzucato
+Downloaded from https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dty032/5089909
+by Bukkyo University Library user
+on 03 September 2018
+
+
+=== PAGE 9 ===
+3.2 What can we learn from history of mission-oriented policies?
+To sum up our discussion of three transformations of mission-oriented policies, we can draw following lessons from
+history:
+First, there is a taxonomy of missions from socioeconomic missions of the first generation to technological mis-
+sions of the second and socio-technological missions of the current third generation. Each type of mission-oriented
+policies implies different capabilities to design, implement, and evaluate missions. For each kind, directionality of the
+innovation systems engenders from different ideational context: first-generation policies were driven by catching up
+as a national and often also nationalistic missions; second-generation policies were driven by national security needs
+and technological arms race; third-generation policies gain their urgency and purpose from “intractable” socioeco-
+nomic challenges and social movements connected to these challenged (e.g., green movement).
+Second, factors determining success or failure of previous generations of MOIPs had to do both with investments
+into R&D capabilities (e.g., research laboratories) and into market-shaping capabilities (e.g., procurement practices
+of military organizations). This complementarity within mission-oriented policies, and between mission-oriented pol-
+icies and other economic policies, plays an important role in success of missions.
+Third, public sector capabilities for developing policy directionality have historically been existing at multiple lev-
+els, e.g., high-level political support to legitimize missions; operational-level expertise for research; and policy design
+level for demand-side policies.
+Fourth, how can public organizations be structured so to become dynamic learning organizations that welcome
+uncertainty, exploration, and experimentation.
+4. Two cultures: capabilities and capacities
+As we have seen above, one of the key challenges in designing and implementing MOIPs—and in general innovation
+policies that are concerned with the direction of innovation rather than with the rate—is the governance context.
+This includes diverse topics from setting the missions to evaluating them. However, there is no proper conceptual
+framework to discuss and trace how such capacities and capabilities evolve and why they change (or do not). We con-
+tend that there are two cultures—of capacities and of capabilities—that rarely speak to each other. There is the
+Schumpeterian tradition of dynamic capabilities of the firm, and the Weberian tradition on public sector capacities
+to make policies. In the middle of these two cultures stands public choice theory inspired NPM as a mostly failed at-
+tempt to translate some of the private sector capabilities and practices into the public sector9 (see also Kattel et al.,
+2018). In what follows we propose a way how to synthesize these “two cultures” as dynamic capabilities in the pub-
+lic sector and then discuss capabilities that are key for 21st-century mission-oriented policies.
+The Schumpeterian tradition of dynamic capabilities focuses on ambidexterity: How to explore new opportunities
+and at the same time keep exploiting existing strengths? The idea of organizational ambidexterity was developed by
+various management theorists from Burns and Stalker (1961) to Duncan (1976) and Mintzberg (1989), and eventually
+“codified” by March (1991). Teece and Pisano summarize the basic tenets of dynamic capabilities as follows: “The
+term “dynamic” refers to the shifting character of the environment; certain strategic responses are required when time-
+to-market and timing is critical, the pace of innovation accelerating, and the nature of future competition and markets
+difficult to determine. The term “capabilities” emphasizes the key role of strategic management in appropriately adapt-
+ing, integrating, and re-configuring internal and external organizational skills, resources, and functional competencies
+toward changing environment” (Teece and Pisano, 1994: 1; see further O’Reilly and Tushman, 2004, 2008;
+Lam, 2006; Helfat and Martin, 2015; Teece, 2016). Importantly, these capabilities cannot be immediately imitated or
+replicated in other firms.
+Perhaps the simplest way to summarize this line of research is as follows: businesses have ordinary routines and
+capabilities to exploit existing strengths and business opportunities, but to deal with fundamental future market un-
+certainty, companies should acquire dynamic capabilities.
+The Weberian tradition of building capacity has been best expressed in developmental state discussions.
+Particularly East Asian developmental state scholars—Amsden (1989), Evans (1995), Evans and Rauch (1999),
+Haggard (1990), Wade (1990)—turned the concept of highly capable bureaucracy, together with a specific notion of
+embedded autonomy, into a crucial variable explaining the strong development performance of East Asian economies
+9
+Ferlie and Ongaro 2015 provide a useful discussion of strategic management approaches in public services.
+Mission-oriented innovation policy
+9
+Downloaded from https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dty032/5089909
+by Bukkyo University Library user
+on 03 September 2018
+
+
+=== PAGE 10 ===
+and beyond. This is best captured by Chalmers Johnson and his concept of developmental state: a country with pre-
+dominant policy orientation toward development supported by small and inexpensive elite bureaucracy centered
+around a pilot organization, such as the MITI in Japan, with sufficient autonomy (limited intervention by the legisla-
+tive and judiciary) (Johnson, 1982: 305–320).
+The developmental state research assumes that public sector capacities can be best developed by best talent
+recruited and motivated via Weberian means of meritocratic recruitment and career management to make working
+for government either financially competitive and/or culturally even more rewarding/prestigious than working in the
+private sector. Evans and Rauch (1999) cemented these ideas through a quantitative analysis that tested the import-
+ance of some of the “Weberian” elements (merit-based recruitment and career systems) on a much broader sample of
+countries as a whole (see also Evans, 1998; Rauch and Evans, 2000).
+Further, Painter and Pierre (2005) distinguish between state, policy, and administrative capacity:
+• state (or political) capacity is about achieving appropriate outcomes and having legitimacy and consent to do so
+(e.g., widespread approval around environmental sustainability);
+• policy (and analytical) capacity is about making the intelligent and coherent choice to achieve the outcomes (e.g.,
+coordination between regulatory standards, public procurement practices, and R&D tax credits); and
+• administrative (and operational) capacity is about effectively managing resources (ﬁnancial, technical, and
+human) throughout the policy cycle.10
+To summarize, the dynamic capabilities focus on skills within firms that enable change amid uncertain environ-
+ment, and public sector capacities concentrate on structures within public organizations that enable to become
+change agents within wider public sector context (Karo and Kattel, 2018).
+What is missing in the Weberian framework of capacities are the evolutionary dynamics: Why do specific constel-
+lations of capacities become more successful than others? In the context of firms, market success provides the selec-
+tion environment. How can we conceptualize similar dynamics in the public sector?
+We propose a new synthesis that includes both “cultures” of capabilities and capacities. Namely, dynamic capa-
+bilities within each level of capacities provide the drive for change that in turn feedbacks into capacities through soci-
+opolitical feedback mechanisms (from media and social actors to electoral systems and institutional check and
+balances) that act as selection environment (Pierson, 2004 on feedback mechanisms; Rip, 2016 on selection mecha-
+nisms). Capabilities are skills and routines (“decision rules,” to borrow from Nelson and Winter, 1974) within vari-
+ous layers of capacities, and they constitute what kind of capacity is there at any given point in time (see also
+Andrews et al., 2017).
+To exemplify what we mean, we can again look at the history of mission-oriented policies and dynamic capabil-
+ities on three levels:
+• State capabilities: We argued above that West European electronics industries were not able to compete with the
+United States because they were not able to generate common European planning principles and missions.
+Instead, all leading countries preferred to remain within their own existing set of rules and principles (Schonﬁeld,
+1966; Dosi, 1981). We argue that this explained with a lack of legitimacy and consent around the need for such
+European—and not merely national—capabilities to set ambitious goals and plan accordingly (see also the discus-
+sion in Foray, 2018 of smart specialization policies in Europe). On the contrary, East Asian economies show
+today robust leadership capabilities to rejuvenate developmental state missions toward new 21st-century missions
+that rely on creating new technological frontiers, changing consumer behaviors, and so forth (Karo, 2018).
+• Policy capabilities: Again, as argued above, US military R&D missions were highly successful in creating spill-
+overs because there was also a massive creation of demand through public procurement practices. In sum, the
+broader impact of missions derived from effective policy coordination capabilities (see also McKelvey and
+Saemundsson, 2018). These capabilities created policy coherence along the value chain in the defense-related in-
+novation. In the European context, we can today think of The European Organization for Nuclear Research
+(CERN) as an example of such basic research undertaking that seeks to utilize its idiosyncratic public procure-
+ment practices to generate larger socioeconomic spillovers. And as Florio et al., 2018 show, it does so with consid-
+erable success.
+10
+For a more detailed discussion, see Karo and Kattel 2018, and Wu et al., 2018.
+10
+R. Kattel and M. Mazzucato
+Downloaded from https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dty032/5089909
+by Bukkyo University Library user
+on 03 September 2018
+
+
+=== PAGE 11 ===
+• Administrative capabilities: Incapability to summon technical, planning and administrative capabilities arguably
+doomed UK’s attempts at economic planning and mission-oriented policies in the 1960s and 1970s. The planning
+remained short term, and it was easily captured by industry, and it did not have proper organizational support
+and resources (Schonﬁeld, 1966; Ergas, 1987). Breznitz et al. (2018) show that organizational capabilities can
+take various forms to be successful and again create long-lasting administrative capabilities to tackle missions.
+Perhaps most importantly, the different levels of dynamic capabilities are interlinked within policy cycles, which
+makes change in existing skills and routines all the more challenging.
+5. Conclusion: public sector dynamic capabilities for 21st-century missions
+To tackle the grand challenges of the 21st century, innovation policy needs to shift from the existing support-and-
+measure approach (find market failure; fix it with a support instrument; and measure the impact) to innovation
+policy to lead-and-learn approach (create and shape markets with variety of policy instruments with open-ended
+impact horizons, and learn through wider social engagement and coordination). As we argued above, many
+countries and international organizations are embracing the challenge and mission-driven approach to
+innovation. What are the dynamic capabilities needed for such policies and what does history and the current
+debates teach us?
+We argue that 21st-century missions require following set of dynamic capabilities in the public sector to engender
+mission-oriented policies:
+Key to our premise is that grand challenges can only be solved through dynamic public–private partnerships, but
+these have been constrained by the notion of public actors as at best fixing markets. A market cocreating role requires
+the state to have capabilities for leadership and engagement: missions can all too quickly become either just fashion-
+able labels on “business-as-usual” practices or too rigid top-down planning exercises. Thus, capabilities to engage
+with a wide set of social actors to show leadership through bold vision are vital in times with high “democratic
+deficit” in many developed countries (see also ESIR, 2017). Some of the grand challenges contest “the way of life” as
+we know it (e.g., suburbanization accompanied by congested transportation systems). Capabilities to encourage
+bottom-up engagement mean that there is a capacity to set mission but also to leave enough space for contestation
+and adaptability (see also Daimer et al., 2012).
+On the level of policy, the ability to find coherent policy mixes (instruments and funding) and capabilities of co-
+ordination seem fundamental to the success of today’s mission-oriented policies (see also ESIR, 2017). As today’s
+missions are not just about technological solutions but include strong sociopolitical aspects, experimentation capabil-
+ities matter perhaps more than before. Equally important are evaluation capabilities that do not rely only on market
+failure based approaches (e.g., cost–benefit analysis) but can integrate user research, social experiments, and system-
+level reflection (see also Rip, 2006; Lindner et al., 2016).
+Administrative capabilities need to rely on diversity of expertise and skills, from engineering to human-centric de-
+sign, organizational forms to mix unrelated knowledge areas (e.g., in urban mobility and planning, lifestyles matter
+as much as do new energy storage systems; see Grillitsch et al., 2017), and organizational fluidity (e.g., cross-
+departmental teams) seem to be fundamental for managing new missions (OECD, 2017).
+These sets of capabilities also point to the directions for future research in mission-oriented policies: we need to
+understand better how public sector can generate and nurture such dynamic capabilities.
+References
+Amsden, A. (1989), Asia’s Next Giant: South Korea and Late Industrialization. Oxford University Press: Oxford, UK.
+Andrews, M., L. Pritchett and W. Woolcock (2017), Building State Capability. Evidence, Analysis, Action. Oxford University Press:
+Oxford, UK.
+Arrow, K. (1962), ‘Economic welfare and the allocation of resources for invention,’ in The Rate and Direction of Inventive Activity:
+Economic and Social Factors, NBER. Princeton University Press: Princeton, NJ, pp. 609–626.
+BEIS (Department for Business, Energy & Industrial Strategy) (2017), Industrial Strategy: Building a Britain Fit for the Future. https://
+assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/ﬁle/664563/industrial-strategy-white-
+paper-web-ready-version.pdf
+Birkinshaw, J. and S. Duncan (2014), The Government Digital Service (UK). London Business School: London, UK.
+Mission-oriented innovation policy
+11
+Downloaded from https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dty032/5089909
+by Bukkyo University Library user
+on 03 September 2018
+
+
+=== PAGE 12 ===
+Block, F. and M. R. Keller (eds) (2011), State of Innovation: The U.S. Government’s Role in Technology Development. Paradigm:
+London, UK.
+Boden, R., P. Gummett, D. Cox and K. Barker (1998), ‘Men in white coats . . . men in grey suits: new public management and the
+funding of science and technology services to the UK Government,’ Accounting, Auditing and Accountability Journal, 11(3),
+267–291.
+Bonvillian, W. (2018), ‘DARPA and its ARPA-E and IARPA clones: a unique innovation model,’ Industrial and Corporate Change,
+27(5). Doi: 10.1093/icc/dty026.
+Bouckaert, G. and B. G. Peters (2002), ‘Performance measurement and management,’ Public Performance and Management Review,
+25(4), 359–362.
+Breznitz, D., D. Ornston and S. Samford (2018), ‘Mission critical: the ends, means, and design of innovation agencies,’ Industrial and
+Corporate Change, 27(5). Doi: 10.1093/icc/dty027.
+Burlamaqui, L. (2006), ‘How should competition policies and intellectual property issues interact in a globalised world? A
+Schumpeterian perspective,’ Working Papers in Technology Governance and Economic Dynamics, No, 6. http://technologygover
+nance.eu/ﬁles/main//2006042407123939.pdf
+Burns, T. and G. M. Stalker (1961), The Management of Innovations. Tavistock: London, UK.
+Cantner, U. and S. Vannuccini (2018), ‘Elements of a Schumpeterian catalytic research and innovation policy,’ Industrial and
+Corporate Change, 27(5). Doi: 10.1093/icc/dty028.
+Chandrashekar, C. P. (2016), ‘Development planning,’ in E. S. Reinert, J. Ghosh and R. Kattel (eds), Handbook of Alternative
+Theories of Economic Development. Edward Elgar Publishing: Cheltenham, UK, pp. 519–532.
+Chang, H. J. (2002), Kicking Away the Ladder—Development Strategy in Historical Perspective. Anthem Press: London, UK.
+Chibber, V. (2003), Locked in Place: State Building and Late Industrialization in India. Princeton University Press: Princeton, NJ.
+Cottam, H. (2018), Radical Help: How We Can Remake the Relationships between Us and Revolutionise the Welfare State. Little,
+Brown: London, UK.
+Dachs, B., M. Dinges, M. Weber, G. Zahradnik, P. Warnke and B. Teufel (2015), Herausforderungen Und Perspektiven
+Missionsorientierter
+Forschungs-
+Und
+Innovationspolitik,
+Studien
+zum
+deutschen
+Innovationssystem
+Nr.
+12-2015.
+Expertenkommission Forschung und Innovation: Berlin.
+Daimer, S., M. Hufnagl and P. Warnke (2012), ‘Challenge-oriented policy-making and innovation systems theory: reconsidering sys-
+temic instruments,’ in K. Koschatzky (ed.), Innovation System Revisited: Experiences from 40 Years of Fraunhofer ISI Research.
+Fraunhofer Verlag: Stuttgart, Germany.
+Dosi, G. (1981), Technical change and survival: Europe’s semiconductor industry. Sussex European Papers No 9. Sussex European
+Research Center: University of Sussex.
+Drechsler, W. (2005), ‘The rise and demise of the new public management,’ Post-Autistic Economics Review, 33, 17–28.
+Drechsler, W. (2016), ‘The German historical school and Kathedersozialismus,’ in E. S Reinert, J. Ghosh and R. Kattel (eds),
+Handbook of Alternative Theories of Economic Development. Edward Elgar Publishing: Cheltenham, UK, pp. 109–123.
+Drechsler, W. (2018), ‘Confucianism and economic performance in Imperial China,’ in P. P. Ro¨ssner (ed.), The Road to Wealth?
+Ideas, Economic Thought and Global Economic Divergence During the Last Millennium. University of Manchester Press:
+Manchester, UK, forthcoming.
+Drechsler, W., J. G. Backhaus, L. Burlamaqui, H. J. Chang, T. Kalvet, R. Kattel, J. A. Kregel and E. S. Reinert (2006), Creative
+Destruction Management: Meeting the Challenges of the Techno-Economic Paradigm Shift. PRAXIS Center for Policy Studies:
+Tallinn, Estonia.
+Duncan, R. B. (1976), ‘The ambidextrous organization: designing dual structures for innovations,’ in R. H. Kilmann, L. R. Pondy and
+D. P. Slevin (eds), The Management of Organization Design: Strategies and Implementation, Vol. 1. North-Holland: New York,
+NY, pp. 167–188.
+Edler, J., P. Cunningham and A. Go¨k (eds) (2016), Handbook of Innovation Policy Impact. Edward Elgar Publishing: Cheltenham,
+UK.
+Ergas, H. (1987), ‘Does technology policy matter?,’ in Technology and Global Industry: Companies and nations in the world econ-
+omy. National Academies Press: Washington, DC, pp. 191–245.
+ESIR (Expert group on the economic and societal impact of research and innovation) (2017), Towards a Mission-Oriented Research
+and Innovation Policy in the European Union. An ESIR Memorandum.
+Evans, P. (1995), Embedded Autonomy: States and Industrial Transformation. Princeton University Press: Princeton, NJ.
+Evans, P. (1998), ‘Transferable lessons? Re-examining the institutional prerequisites of East Asian economic policies,’ The Journal of
+Development Studies, 34(6), 66–86.
+Evans, P. and J. E. Rauch (1999), ‘Bureaucracy and growth: a cross-national analysis of the effects of ‘Weberian’ state structures on
+economic growth,’ American Sociological Review, 64(5), 748–765.
+Fagerberg, J. (2016), ‘Innovation policy: rationales, lessons and challenges,’ Journal of Economic Surveys, 31(2), 497–512. Doi:
+10.1111/joes.12164.
+12
+R. Kattel and M. Mazzucato
+Downloaded from https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dty032/5089909
+by Bukkyo University Library user
+on 03 September 2018
+
+
+=== PAGE 13 ===
+Fagerberg, J. (2018), ‘Mission (im)possible? The role of innovation (and innovation policy) in supporting structural change and sus-
+tainability transitions,’ TIK Working Papers on Innovation Studies No. 20180216. Centre for Technology, Innovation and Culture:
+University of Oslo.
+Ferlie, F. and E. Ongaro (2015), Strategic Management in Public Services Organizations. Concepts, Schools and Contemporary
+Issues. Routledge: London, UK.
+Florio, M., F. Giffoni, A. Giunta and E. Sirtori (2018), ‘Big science, learning and innovation: evidence from CERN procurement,’
+Industrial and Corporate Change, 27(5). Doi: 10.1093/icc/dty029.
+Foray, D. (2018), ‘Smart specialization strategies as a case of mission oriented policy: a case study on the emergence of new policy
+practices,’ Industrial and Corporate Change, 27(5). Doi: 10.1093/icc/dty030.
+Foray, D., D. C. Mowery and R. R. Nelson (2012), ‘Public R&D and social challenges: what lessons from mission R&D programs?,’
+Research Policy, 41(10), 1697–1702.
+Freeman, C. (1987), Technology Policy and Economic Performance: Lessons from Japan. Pinter: London, UK.
+Fukuyama, F. (2011), The Origins of Political Order: From Prehuman Times to the French Revolution. Farrar, Straus and Giroux:
+New York, NY.
+Galbraith, J. K. (1973), Economics and the Public Purpose. Houghton Mifﬂin Company: Boston, MA.
+Goodsell, C. T. (2011), ‘Mission mystique: strength at the institutional center,’ The American Review of Public Administration,
+41(5), 475–494.
+Grillitsch, M., B. Asheim and M. Trippl (2017), ‘Unrelated knowledge combinations: unexplored potential for regional industrial
+path development,’ Papers in Innovation Studies, No. 2017/10. Lund University, CIRCLE—Center for Innovation, Research and
+Competences in the Learning Economy: Lund, Sweden.
+Gummett, P. (1980), Scientists in Whitehall. Manchester University Press: Manchester, UK.
+Haggard, S. (1990), Pathways from the Periphery: The Politics of Growth in the Newly Industrializing Countries. Cornell University
+Press: Ithaca, NY.
+Hausmann, R. and D. Rodrik (2006), Doomed to Choose: Industrial Policy as Predicament. John F. Kennedy School of Government.
+http://j.mp/2oWZa7W
+Helfat, C. E. and J. A. Martin (2015), ‘Dynamic managerial capabilities: review and assessment of managerial impact on strategic,’
+Journal of Management, 41(5), 1281–1312.
+Hirschman, A. O. (1958), The Strategy of Economic Development. Yale University Press: New Haven, CT.
+Johnson, C. (1982), MITI and the Japanese Miracle: The Growth of Industrial Policy. Stanford University Press: Stanford, CA.
+Karo, E. (2018), ‘Mission-oriented innovation policies and bureaucracies in East Asia,’ Industrial and Corporate Change, 27(5). Doi:
+10.1093/icc/dty031.
+Karo, E. and R. Kattel (2015), ‘Innovation bureaucracy: does the organization of government matter when promoting innovation?,’
+Papers in Innovation Studies, 2015/38. Lund University, CIRCLE—Center for Innovation, Research and Competences in the
+Learning Economy: Lund, Sweden.
+Karo, E. and R. Kattel (2018), ‘Innovation and the state: towards an evolutionary theory of policy capacity,’ in X. Wu, M. Howlett
+and M. Ramesh (eds), Policy Capacity: State and Societal Perspectives. Palgrave Macmillan: Cham, pp. 123–150.
+Kattel, R., W. Drechsler and E. Karo (2019, forthcoming), Innovation Bureaucracy: How Governments Successfully Support
+Innovation. Yale University Press: London, UK.
+Kattel, R., J. A. Kregel and E. S. Reinert (2016), ‘Classical development economists of the mid-twentieth century,’ in E. S Reinert,
+J. Ghosh and R Kattel. (eds), Handbook of Alternative Theories of Economic Development. Edward Elgar Publishing:
+Cheltenham, UK, pp. 336–351.
+Kattel, R., J. Ryan-Collins, J. M. Mazzucato and S. S. Sharpe (2018), ‘The economics of change: Policy and appraisal for missions,
+market shaping and public purpose,’ Working Paper, IIPP WP 2018-06.
+Krupp, H. (1985), ‘Public promotion of innovation: disappointments and hopes,’ in G. Sweeney (ed.), Innovation Policies. An
+International Perspective. Pinter: London, UK, pp. 48–79.
+Kuhlmann, S. and A. Rip (2018), ‘Next generation innovation policy and grand challenges,’ Science and Public Policy, 45(4),
+448–454.
+Kuhlmann, S., P. Shapira and R. Smits (2010), ‘Introduction. A systemic perspective: the innovation policy dance,’ in R. Smits, S.
+Kuhlmann and P. Shapira (eds.), The Theory and Practice of Innovation Policy. An International Research Handbook. Edward
+Elgar Publishing: Cheltenam, UK, pp. 1–22.
+Lam, A. (2006), ‘Organizational innovations,’ in J. Fagerberg, D. Mowery and R. Nelson (eds), The Oxford Handbook of
+Innovation. Oxford University Press: Oxford, UK, pp. 115–147.
+Lambright, W. H., M. Crow and R. Shangraw (1985), ‘National projects in civilian technology,’ in J. D. Roessner (ed.), Government
+Innovation Policy. Design, Implementation, Evaluation. Macmillan: Basingstoke, UK, pp. 63–74.
+Leadbeater, C. (2018), ‘Postscript: movements with missions make markets,’ Industrial and Corporate Change, 27(5). Doi:
+10.1093/icc/dty033.
+Mission-oriented innovation policy
+13
+Downloaded from https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dty032/5089909
+by Bukkyo University Library user
+on 03 September 2018
+
+
+=== PAGE 14 ===
+Lindner, R., S. Daimer, B. Beckert, N. Heyen, J. Koehler, B. Teufel, P. Warnke and S. Wydra (2016), ‘Addressing directionality: orien-
+tation failure and the systems of innovation heuristic. Towards reﬂexive governance,’ Fraunhofer ISI Discussion Papers Innovation
+Systems and Policy Analysis No. 52. Fraunhofer ISI: Karlsruhe.
+List, F. (1841), Das Nationale System Der Politischen Oekonomie. Der Internationale Handel, Die Handelspolitik Und Der
+Deutsche Zollverein. Fisher: Jena, Germany.
+March, J. G. (1991), ‘Exploration and exploitation in organizational learning,’ Organization Science, 2(1), 71–87. Special Issue
+Organizational Learning: Papers in Honor of (and by) James G. March.
+Mazzucato, M. (2013), The Entrepreneurial State: Debunking the Public vs. Private Myths in Risk and Innovation. Anthem Press.
+Mazzucato, M. (2017), ‘Mission-oriented innovation policy: challenges and opportunities,’ UCL Institute for Innovation and Public
+Purpose Working Paper, IPP WP 2017-01. https://www.ucl.ac.uk/bartlett/public-purpose/publications/2018/jan/mission-oriented-
+innovation-policy-challenges-and-opportunities
+Mazzucato, M. (2018a), Missions: Mission-Oriented Research & Innovation in the European Union. European Commission:
+Brussels, Belgium. https://ec.europa.eu/info/sites/info/ﬁles/mazzucato_report_2018.pdf
+Mazzucato, M. (2018b), ‘Mission-oriented innovation policies: challenges and opportunities,’ Industrial and Corporate Change,
+27(5). Doi: 10.1093/icc/dty034.
+Mazzucato, M. (2018c), The Value of Everything. Making and Taking in the Global Economy. Allen Lane: London, UK.
+Mazzucato, M. and C. Perez (2015), ‘Innovation as growth policy: the challenge for Europe,’ in J. Fagerberg, S. Laestadius and B.
+Martin (eds), The Triple Challenge for Europe: Economic Development, Climate Change and Governance. Oxford University
+Press: Oxford, UK, pp. 227–262.
+McKelvey, M. and R. J. Saemundsson (2018), ‘An evolutionary model of innovation policy: conceptualizing the growth of knowledge
+in innovation policy as an evolution of policy alternatives,’ Industrial and Corporate Change, 27(5). Doi: 10.1093/icc/dty035.
+Mintzberg, H. (1989), Mintzberg on Management: Inside Our Strange World of Organizations. Simon and Schuster: New York, NY.
+Mintzberg, H. (1996), ‘Managing government, governing management,’ Harvard Business Review, 74(3), 75.
+Mowery, D. C. (2011), ‘Federal policy and the development of semiconductors, computer hardware and computer software: a policy
+model for climate change R&D?,’ in R. M. Henderson and R. G. Newell (eds), Accelerating Energy Innovation: Insights from
+Multiple Sectors. University of Chicago Press: Chicago, IL, pp. 159–188.
+Nelson, R. R. (1959), ‘The simple economics of basic scientiﬁc research,’ Journal of Political Economy, 67(3), 297–306.
+Nelson, R. R. (1977), The Moon and the Ghetto: An Essay on Public Policy Analysis. W.W. Norton and Company: New York, NY.
+Nelson, R. R., M. J. Peck and E. D. Kalachek (1967), Technology, Economic Growth and Public Policy. The Brookings Institution:
+Washington, DC.
+Nelson, R. R. and S. G. Winter (1974), ‘Neoclassical vs evolutionary theories of economic growth: critique and prospectus,’ The
+Economic Journal, 84(336), 886–905.
+Nelson, R. R. and S. G. Winter (1982), An Evolutionary Theory of Economic Change. Belknap Press of Harvard University:
+Cambridge, MA.
+Nurkse, R. (1953), Problems of Capital Formation in Underdeveloped Countries. Oxford University Press: Oxford, UK.
+OECD (2015), System Innovation: Synthesis Report. OECD: Paris. https://www.innovationpolicyplatform.org/sites/default/ﬁles/gen
+eral/SYSTEMINNOVATION_FINALREPORT.pdf
+OECD (2017), Systems Approaches to Public Sector Challenges. Working with Change. http://dx.doi.org/10.1787/9789264279865-en
+O’Reilly, C. A. and M. L. Tushman (2004), ‘The ambidextrous organizations,’ Harvard Business Review, 83(4), 74–81.
+O’Reilly, C. A. and M. L. Tushman (2008), ‘Ambidexterity as a dynamic capability: resolving the innovator’s dilemma,’ Research in
+Organizational Behavior, 28, 185–206.
+Painter, M. and J. Pierre (2005), ‘Unpacking policy capacity: issues and themes,’ in M. Painter and J. Pierre (eds), Challenges to State
+Policy Capacity: Global Trends and Comparative Perspectives. Palgrave Macmillan: Basingstoke, UK, pp. 1–18.
+Pavitt, K. and W. Walker (1976), ‘Government policies towards industrial innovation: a review,’ Research Policy, 5(1), 11–97.
+Peters, B. G. (1998), Managing Horizontal Government: The Politics of Coordination. Canadian Centre for Management
+Development: Canada.
+Pierson, P. (2004), Politics in Time: History, Institutions, and Social Analysis. Princeton University Press: Princeton, UK.
+Rauch, J. E. and P. B. Evans (2000), ‘Bureaucratic structure and bureaucratic performance in less developed countries,’ Journal of
+Public Economics, 75(1), 49–71.
+Reinert, E. S. (2007), How Rich Countries Got Rich. . . and Why Poor Countries Stay Poor. Constable: London, UK.
+Reinert, E. S., K. Carpenter, F. A. Reinert and S. A. Reinert (2017), ‘80 economic bestsellers before 1850: a fresh look at the history of
+economic thought,’ Working Papers in Technology Governance and Economic Dynamics No. 74. http://technologygovernance.eu/
+ﬁles/main//2017051103164242.pdf
+Reinert, S. A. (2011), Translating Empire. Emulation and the Origins of Political Economy. Harvard University Press: Cambridge,
+MA.
+14
+R. Kattel and M. Mazzucato
+Downloaded from https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dty032/5089909
+by Bukkyo University Library user
+on 03 September 2018
+
+
+=== PAGE 15 ===
+Rip, A. (2006), ‘A co-evolutionary approach to reﬂexive governance—and its ironies,’ in J.-P. Voss, D. Bauknecht and R. Kemp (eds),
+Reﬂexive Governance for Sustainable Development. Edward Elgar Publishing: Cheltenham, UK.
+Rip, A. (2016), ‘The clothes of the emperor: an essay on RRI in and around Brussels,’ Journal of Responsible Innovation, 3(3),
+290–304.
+Rothwell, R. and W. Zegveld (1981), Industrial Innovation and Public Policy. Preparing for the 1980s and 1990s. Pinter: London,
+UK.
+Schonﬁeld, A. (1966), Modern Capitalism: The Changing Balance of Public and Private Power. Oxford University Press: Oxford,
+UK.
+Schumpeter, J. A. (1942), Capitalism, Socialism and Democracy. Routledge: London, UK.
+Soete, L. and A. Arundel (eds) (1993), An Integrated Approach to European Innovation and Technology Diffusion Policy: A
+Maastricht Memorandum. European Commission: Maastricht, The Netherlands.
+Sterling, A. (2014), ‘Towards innovation democracy? Participation, responsibility and precaution in innovation governance,’ STEPS
+Working Paper, No. 78. http://sro.sussex.ac.uk/39718/1/Innovation-Democracy.pdf
+Sweeney, G. (1985), ‘Introduction,’ in G. Sweeney (ed.), Innovation Policies. An International Perspective. Pinter: London, UK,
+pp. vii–x.
+Teece, D. (2016), ‘Dynamic capabilities and entrepreneurial management in large organizations: toward a theory of the (entrepre-
+neurial) ﬁrm,’ European Economic Review, 86, 202–216. http://dx.doi.org/10.1016/j.euroecorev.2015.11.006i
+Teece, D. and G. Pisano (1994), ‘Dynamic capabilities of ﬁrms: an introduction,’ IIASA working paper WP No. 94-103, International
+Institute for Applied Systems Analysis: Laxenburg, Austria.
+vom Brocke, B. (ed.) (1991), Wissenschaftsgeschichte und Wissenschaftspolitik im Industriezeitalter. Das “System Althoff” in
+Historischer Perspektive. Lax Verlag: Hildesheim, Germany.
+Wade, R. (1990), Governing the Market: Economic Theory and the Role of Government in East Asian Industrialization. Princeton
+University Press: Princeton, UK.
+Weber, K. M. and H. Rohracher (2012), ‘Legitimizing research, technology and innovation policies for transformative change,’
+Research Policy, 41(6), 1037–1047.
+Weinberg, A. M. (1967), Reﬂections on Big Science. Pergamon Press: Oxford, UK.
+Wu, X., M. Howlett and M. Ramesh (eds) (2018), Policy Capacity: State and Societal Perspectives. Palgrave Macmillan: Cham.
+Zehavi, A. and D. Breznitz (2017), ‘Distribution sensitive innovation policies: conceptualization and empirical examples,’ Research
+Policy, 46(1), 327–336.
+Mission-oriented innovation policy
+15
+Downloaded from https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dty032/5089909
+by Bukkyo University Library user
+on 03 September 2018

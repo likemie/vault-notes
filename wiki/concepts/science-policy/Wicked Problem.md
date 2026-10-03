@@ -9,7 +9,7 @@ aliases:
 summary: "指缺乏明确边界和既定算法，伴随高度价值争议、系统复杂性与认知不确定性的复杂社会系统难题；易引发跨部门条块分割的复杂性悖论，需依托敏捷实验与公共动态能力进行系统治理"
 type: concept
 domain: "science-policy"
-related_count: 24
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,12 +22,15 @@ tags:
 related_concepts:
   - "[[Scientific Uncertainty]]"
   - "[[Complexity Paradox]]"
+  - "[[Big Science]]"
+  - "[[Distributed Agency]]"
+  - "[[Agile Governance]]"
+  - "[[Lead-and-Learn Paradigm]]"
   - "[[Paradigm]]"
   - "[[Technical Rationality]]"
   - "[[Reflexivity]]"
   - "[[Causality]]"
   - "[[Problem of Many Hands]]"
-  - "[[Lead-and-Learn Paradigm]]"
   - "[[Document]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Revoicing]]"
@@ -62,7 +65,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> **棘手问题（Wicked Problem / 复杂社会难题）**最初由霍斯特·里特尔（Horst W. J. Rittel）与梅尔文·韦伯（Melvin M. Webber）于 1973 年提出，指一类缺乏明确定义、没有标准求解算法、且无法通过线性规划或传统理性模型彻底解决的复杂社会政策难题。与有明确边界和既定解法的驯服问题（Tame Problem）不同，棘手问题深嵌于高度互动的社会–技术与制度网络之中，具有高度的价值争议性（Contestation）、结构复杂性（Complexity）和[[Scientific Uncertainty|认知不确定性]]（Uncertainty）。在现代公共政策中，棘手议题极易引发行政机构退守部门壁垒的[[Complexity Paradox|复杂性悖论]]，要求公共治理超越冷战时期封闭的大科学攻关模式，转向以分布式主体共创、敏捷试错与反思学习为特征的“引领与学习”[[Paradigm|范式]]。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–476)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791, 795–796)]]
+> **棘手问题（Wicked Problem / 复杂社会难题）**最初由霍斯特·里特尔（Horst W. J. Rittel）与梅尔文·韦伯（Melvin M. Webber）于 1973 年提出，指一类缺乏明确定义、没有标准求解算法、且无法通过线性规划或传统理性模型彻底解决的复杂社会政策难题。与有明确边界和既定解法的驯服问题（Tame Problem）不同，棘手问题深嵌于高度互动的社会–技术与制度网络之中，具有高度的价值争议性（Contestation）、结构复杂性（Complexity）和[[Scientific Uncertainty|认知不确定性]]（Uncertainty）。在现代公共政策中，棘手议题极易引发行政机构退守部门壁垒的[[Complexity Paradox|复杂性悖论]]，要求公共治理超越冷战时期封闭的[[Big Science|大科学]]攻关模式，转向以[[Distributed Agency|分布式主体]]共创、[[Agile Governance|敏捷试错]]与反思学习为特征的“[[Lead-and-Learn Paradigm|引领与学习]]”[[Paradigm|范式]]。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–476)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791, 795–796)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向社会政策中因价值多元、系统交织与因果链条模糊而无法达成终极客观正确解的公共治理挑战。
@@ -159,7 +162,7 @@ updated: 2026-10-03
 > 剖析现代官僚体制在面对棘手挑战时的组织病理，揭示第三代“儿童形态”敏捷实验与[[Public Dynamic Capabilities|公共动态能力]]的破解路径。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
-> **[[Complexity Paradox|复杂性悖论]]与敏捷试错命题** 格里·斯威尼（Gerry Sweeney, 1985）与莱纳·[[Rainer Kattel|卡特尔]]、玛丽安娜·[[Mariana Mazzucato|马祖卡托]]指出，现代公共政策深陷[[Complexity Paradox|复杂性悖论]]：议题越是高度交织与棘手，行政机构越发退守狭隘的部门利益壁垒，导致跨部门协同机制严重失效。冷战时期垂直单一的国家实验室大科学模式（狮子形态）难以应对非纯技术的社会难题；面对 21 世纪的棘手挑战，公共部门必须转向第三代“儿童形态”使命政策，依托去中心化分布式主体、以人为本的服务设计、[[Randomised Controlled Trials|随机对照试验]]（RCT）与敏捷原型迭代，在国家、政策与行政三层重塑[[Public Dynamic Capabilities|公共部门动态能力]]，推动治理从被动的“支持与衡量”转向主动的“引领与学习”[[Paradigm|范式]]，以持续的组织进化打破协调僵局。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–796, 797–798)]]
+> **[[Complexity Paradox|复杂性悖论]]与[[Agile Governance|敏捷试错]]命题** 格里·斯威尼（Gerry Sweeney, 1985）与莱纳·[[Rainer Kattel|卡特尔]]、玛丽安娜·[[Mariana Mazzucato|马祖卡托]]指出，现代公共政策深陷[[Complexity Paradox|复杂性悖论]]：议题越是高度交织与棘手，行政机构越发退守狭隘的部门利益壁垒，导致跨部门协同机制严重失效。冷战时期垂直单一的国家实验室[[Big Science|大科学]]模式（狮子形态）难以应对非纯技术的社会难题；面对 21 世纪的棘手挑战，公共部门必须转向第三代“儿童形态”使命政策，依托去中心化[[Distributed Agency|分布式主体]]、以人为本的服务设计、[[Randomised Controlled Trials|随机对照试验]]（RCT）与敏捷原型迭代，在国家、政策与行政三层重塑[[Public Dynamic Capabilities|公共部门动态能力]]，推动治理从被动的“支持与衡量”转向主动的“[[Lead-and-Learn Paradigm|引领与学习]]”[[Paradigm|范式]]，以持续的组织进化打破协调僵局。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–796, 797–798)]]
 
 ---
 
@@ -169,7 +172,7 @@ updated: 2026-10-03
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **双重解构命题** | 主张将棘手性拆解为问题端与方案端的三维矩阵 | 复杂社会系统治理与创新政策评估 | [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]]; Turnpenny et al. (2009) |
-> | **阶段性驯服命题** | 阐明通过[[Revoicing\|话语重构]]、边界跨越与小步试验实现治理共识 | 争议性公共政策议程设置与制度变迁 | [[Iris Wanzenböck\|Wanzenböck 团队]]; Termeer & Dewulf (2018) |
+> | **阶段性驯服命题** | 阐明通过[[Revoicing\|话语重构]]、边界跨越与小步试验实现治理共识 | 争议性公共政策议程设置与制度变迁 | 同上（2020）; Termeer & Dewulf (2018) |
 > | **使命拆解机制** | 论证通过可量化的使命组合将宏大棘手挑战转化为跨部门协同行动 | 全球性可持续发展目标（SDGs）与国家重大转型政策 | [[Mariana Mazzucato\|马祖卡托（使命架构设计）]] |
 > | **社会–技术系统协同命题** | 阐明棘手挑战的解决需要技术突破与制度、监管及行为重塑协同发力 | 能源系统脱碳、可持续城市、数字公共治理转型 | Nelson (1977); [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
 > | **复杂性悖论与敏捷试错** | 揭示议题复杂性诱发部门条块分割的制度异化，主张依托三层动态能力与引领学习突破僵局 | 跨部门政策协同失灵、数字化公共服务改革与后 [[New Public Management\|NPM]] 治理 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018)]]; Sweeney (1985) |
@@ -185,7 +188,7 @@ updated: 2026-10-03
 > - **2000 — [[Network Governance|网络治理]]与协作视角** 罗伯茨（Nancy Roberts, 2000）探讨应对棘手问题的权威型、竞争型与协作型三种治理网络模式。
 > - **2009 — 三维[[Analytic Framework|分析框架]]深化** 特恩彭尼等（Turnpenny et al., 2009）将棘手性提炼为争议性、系统复杂性与[[Scientific Uncertainty|认知不确定性]]三个核心维度。
 > - **2018 — [[Mission-Oriented Innovation Policy|使命导向创新政策]]与社会挑战转化** [[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）系统论证如何将21世纪重大社会棘手难题转化为使命导向创新政策的组合管理项目。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
-> - **2018 — 复杂性悖论与三代敏捷探索理论** [[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]论述现代公共政策的复杂性悖论，确立应对棘手问题的第三代儿童形态敏捷试错与[[Public Dynamic Capabilities|公共动态能力]]框架。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–798)]]
+> - **2018 — 复杂性悖论与三代敏捷探索理论** [[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]论述现代公共政策的复杂性悖论，确立应对棘手问题的第三代儿童形态[[Agile Governance|敏捷试错]]与[[Public Dynamic Capabilities|公共动态能力]]框架。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–798)]]
 > - **2020 — 创新政策与问题–解决方案空间拓展** [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]]将棘手性理论引入[[Mission-Oriented Innovation Policy|使命导向创新政策]]，开创了问题端与方案端对称分析的二维空间理论。
 
 ---
@@ -211,7 +214,7 @@ updated: 2026-10-03
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 揭示棘手问题引发的[[Complexity Paradox|政策复杂性悖论]]与跨部门协调失灵，论证第三代儿童形态敏捷试错与[[Public Dynamic Capabilities|公共动态能力]]的破解功能。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 揭示棘手问题引发的[[Complexity Paradox|政策复杂性悖论]]与跨部门协调失灵，论证第三代儿童形态[[Agile Governance|敏捷试错]]与[[Public Dynamic Capabilities|公共动态能力]]的破解功能。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 阐述如何将复杂的全球重大社会挑战与棘手问题通过[[Mission-Oriented Innovation Policy|使命导向创新政策]]转化为可执行的跨部门项目组合。
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 将棘手问题的争议性、复杂性与不确定性维度[[Operationalization|操作化]]为解构[[Mission-Oriented Innovation Policy|使命导向创新政策]]的分析透镜。
 

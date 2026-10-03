@@ -8,7 +8,7 @@ summary: "美国哲学家，田纳西大学诺克斯维尔分校荣休教授，�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Ontology]]"
   - "[[Reliability]]"
+  - "[[Big Science]]"
   - "[[Knowledge Mediation]]"
 related_theories:
   - "[[Radical Constructivism]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # John Hardwig
@@ -115,7 +116,7 @@ updated: 2026-09-22
 
 > [!person-network] 关系网络
 > - **思想发展与共鸣者** [[Alvin Goldman\|阿尔文·戈德曼]]（Alvin Goldman） — 戈德曼在承认哈德威格“现代人必然[[Epistemic Dependence\|认识依赖]]”的前提下，进一步系统构建了外行在专家产生分歧时评估专家[[Reliability\|可靠性]]的五条理性准则。
-> - **哲学批判靶子** 勒内·[[René Descartes\|笛卡尔]]（René Descartes）与伊曼纽尔·[[Immanuel Kant\|康德]]（Immanuel Kant） — 启蒙[[Epistemology\|认识论]]追求个体理智的绝对自足，哈德威格以大科学时代的实验事实证明了个体自足神话的不可能性。
+> - **哲学批判靶子** 勒内·[[René Descartes\|笛卡尔]]（René Descartes）与伊曼纽尔·[[Immanuel Kant\|康德]]（Immanuel Kant） — 启蒙[[Epistemology\|认识论]]追求个体理智的绝对自足，哈德威格以[[Big Science|大科学]]时代的实验事实证明了个体自足神话的不可能性。
 > - **当代教育中介应用者** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 借用其理论作为人机共生学习中界定认识责任与教学法改革的哲学起点。
 
 ---

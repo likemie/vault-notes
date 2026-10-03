@@ -12,7 +12,7 @@ title: "Argument_Dean_2025_UICollaborationSupport"
 argument_key: "Argument_Dean_2025_UICollaborationSupport"
 argument_display_title: "Gaining Support Within Universities for Collaboration"
 argument_kind: "books"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Research Security]]"
   - "[[Technology Infusion]]"
   - "[[Evaluation Research]]"
+  - "[[Grand Challenges]]"
   - "[[Research Problem]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Knowledge Production]]"
@@ -212,7 +213,7 @@ citation_aliases:
 
 #### 合作起源与治理结构
 
-21. RIA 于 **2005 年**启动，由滑铁卢大学与 Schlegel Villages（安大略省最大的营利性退休生活网络）通过广泛讨论后建立。其总目标是**改变加拿大老龄化的方式（changing the way we age in Canada）**，直接回应一个社会性重大挑战：加拿大超过 **600 万**老年人口的生活质量已成为全国医疗系统的优先议题(pp.251–252)。
+21. RIA 于 **2005 年**启动，由滑铁卢大学与 Schlegel Villages（安大略省最大的营利性退休生活网络）通过广泛讨论后建立。其总目标是**改变加拿大老龄化的方式（changing the way we age in Canada）**，直接回应一个社会性[[Grand Challenges|重大挑战]]：加拿大超过 **600 万**老年人口的生活质量已成为全国医疗系统的优先议题(pp.251–252)。
 
 22. 合作从一开始就是**共同设计（co-design）**的：Schlegel 家族深度参与了与大学行政人员和利益相关方共同制定 RIA 蓝图和发展路线图的过程。治理层面的持续性同样关键——家族成员持续参与 RIA 研究活动和活动，并以董事会成员身份指导 RIA 的发展方向(p.252)。Schlegel Villages 及其居民同时也是 RIA 研究成果的**第一手知识用户**——这种研究即用户的结构，使 RIA 的反馈循环比典型的产学合作短得多。
 

@@ -9,9 +9,9 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - region/global
@@ -41,6 +41,7 @@ related_persons:
   - "[[Gerard Renaud]]"
 related_facts:
   - "[[UNESCO]]"
+  - "[[CERN]]"
   - "[[United World Colleges]]"
   - "[[1967 Sevres International Conference on the IB]]"
   - "[[1976 Hague Intergovernmental Conference on the International Baccalaureate]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # International Baccalaureate Six-Year Experiment
@@ -114,7 +115,7 @@ updated: 2026-10-02
 > | 时期 | 压力或资源 | 组织回应 | 制度结果 |
 > |:---|:---|:---|:---|
 > | 1969–1970 年 | 福特基金会后续拨款 20 万美元、二十世纪基金会第二笔 7.5 万美元等均为终止性资助 | 以紧缩预算把首年最高支出估计 16.3 万美元降至实际 124,775 美元；[[Gerard Renaud\|杰拉德·雷诺]]兼任日内瓦办公室负责人和财务主管 | 项目可覆盖早期义务，但必须在试验结束前找到常规收入 |
-> | 1970–1973 年 | 前三年确定收入每年约 13 万美元，第四年仅略高于 10 万美元；工资、日内瓦运营成本和国际人员薪酬上升 | 争取配套赠款，依靠无偿或只报销开支的人员，并把正式员工工资参照欧洲核子研究组织标准 | 节流延长了试验寿命，也使人员过劳和服务削减成为持续风险 |
+> | 1970–1973 年 | 前三年确定收入每年约 13 万美元，第四年仅略高于 10 万美元；工资、日内瓦运营成本和国际人员薪酬上升 | 争取配套赠款，依靠无偿或只报销开支的人员，并把正式员工工资参照[[CERN\|欧洲核子研究组织]]标准 | 节流延长了试验寿命，也使人员过劳和服务削减成为持续风险 |
 > | 1973–1974 年 | 约八成收入以美元或英镑取得，约九成支出以升值的瑞士法郎支付；考试规模又要求更强行政 | 将年度考试行政逐步转往成本较低且英语文书人员充足的英国，1974 年与南安普敦大学签约承接语言考试 | 日内瓦保留课程与总体治理，考试生产、翻译和分发形成跨地分工 |
 > | 1974–1976 年 | 紧缩迫使组织放弃部分有助效度的听力测验；[[UNESCO]] 常规资助前景转弱 | 收取学校 1,000 瑞士法郎加入费和 2,000 瑞士法郎年费，获得美国国务院三年每年 3 万美元资助；十所学校紧急把年费提高四倍 | 收入从基金会赠款转向考试费、学校订阅、政府拨款和出版物并存，海牙会议再把出资与治理代表权连接 |
 >

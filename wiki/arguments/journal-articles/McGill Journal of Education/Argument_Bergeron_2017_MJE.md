@@ -10,7 +10,7 @@ title: "Argument_Bergeron_2017_MJE"
 argument_key: "Argument_Bergeron_2017_MJE"
 argument_display_title: "How to engage in pseudoscience with real data: A criticism of John Hattie's arguments in Visible Learning from the perspective of a statistician"
 argument_kind: "journal-article"
-argument_related_count: 12
+argument_related_count: 13
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Scientific Method]]"
+  - "[[Big Science]]"
   - "[[Class Size]]"
   - "[[Grandes Ecoles]]"
   - "[[Creativity]]"
@@ -80,7 +81,7 @@ citation_aliases:
 >
 > 作者首先承认 Hattie 的基本意图——"用科学数据识别'什么在教育中效果最好'"——本身并不坏。Hattie 综合了 800+ [[Meta-analysis\|元分析]]、50,000+ 研究和数百万个体的规模"给人科学严谨性的印象"(p.238)。但对统计学家而言，表象不足为据："当以专家的眼光深入审视 *Visible Learning* 时，我们发现的不是一座坚固的城堡，而是一座迅速崩塌的脆弱纸牌屋"。
 >
-> ### 2. Hattie 犯下了 Allison et al.识别的三大科学错误中的两个
+> ### 2. Hattie 犯下了 Allison et al.识别的三[[Big Science|大科学]]错误中的两个
 >
 > Allison, Brown, George & Kaiser (2016) 在 *Nature* 中识别了科学中的三大主要错误。Hattie 的方法论同时违反其中两项(p.239)：
 > - **元分析中的计算错误** 最明显的案例是 CLE（common language effects）计算，产生负概率或超过 100% 的概率——"对任何上过至少一门统计课的人来说，这是一个巨大的失误"

@@ -9,7 +9,7 @@ title: "Argument_Higgins_2016_ROE"
 argument_key: "Argument_Higgins_2016_ROE"
 argument_display_title: "Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits"
 argument_kind: "journal-article"
-argument_related_count: 49
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Academic Achievement]]"
   - "[[Abstract]]"
+  - "[[Grand Challenges]]"
   - "[[Professional Judgment]]"
 related_theories:
   - "[[Walberg's Educational Productivity Model]]"
@@ -387,7 +388,7 @@ Toolkit 的灵感来自多个来源(pp.47–48)。
 在 [[Education Endowment Foundation|EEF]] 的支持下，这些摘要被概念化为一系列整合的[[Umbrella Review|伞状综述]]（umbrella reviews），以共同方法论提供跨不同教育政策、实践和研究领域的严谨而可及的总结(p.47)。
 
 > [!note]- 可及性的关键地位
-> 与研究证据的接触本身就是一个重大挑战。呈现水平需要足够熟悉以鼓励接受，又足够具有挑战性以促进更深入的参与和实践改变。表面的简单可能具有欺骗性，因为特定领域的信息很少是直截了当的，因此逐层深入的详细程度旨在支持更深入的参与(p.47)。
+> 与研究证据的接触本身就是一个[[Grand Challenges|重大挑战]]。呈现水平需要足够熟悉以鼓励接受，又足够具有挑战性以促进更深入的参与和实践改变。表面的简单可能具有欺骗性，因为特定领域的信息很少是直截了当的，因此逐层深入的详细程度旨在支持更深入的参与(p.47)。
 >
 > Toolkit 在表面层以可及的摘要形式呈现，但每个领域都有进一步的详细信息，一直到所使用的元分析和其他研究的效应量和摘要。技术附录详细说明了效应量计算和转换的原理和细节，以确保综合准确且方法和假设透明。
 

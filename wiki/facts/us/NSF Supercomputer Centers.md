@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
   - policy/computing-infrastructure
 related_concepts:
   - "[[Center of Calculation]]"
+  - "[[Big Science]]"
   - "[[Paradigm]]"
   - "[[University-Industry Collaboration]]"
 related_persons:
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # NSF Supercomputer Centers
@@ -63,7 +64,7 @@ updated: 2026-10-02
 > 通过在顶尖大学依托全国公开竞争选拔建立实体超级[[Center of Calculation|计算中心]]，并首创一套类似学术基金评审的“基于同行评议申请机器运行时间（Running Time）”机制，使任何大学的一线学者只要拥有优秀的科学假说，均能平等获取国家级尖端算力支持。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 41)]]
 
 > [!policy-design]- 方案设计
-> - **项目目标** 消除学术界高级计算能力短缺，培育全美跨学科计算科学人才梯队，催生前沿大科学数值模拟的颠覆性突破。
+> - **项目目标** 消除学术界高级计算能力短缺，培育全美跨学科计算科学人才梯队，催生前沿[[Big Science|大科学]]数值模拟的颠覆性突破。
 > - **覆盖对象** 全美高校理论物理、计算生物学、材料工程、地球与大气科学等学科教师与研究生。
 > - **干预措施** 在全美 5 所大学设立先进超级计算中心（如伊利诺伊大学厄巴纳-香槟分校 NCSA、加利福尼亚大学圣迭戈分校 SDSC、匹兹堡超级计算中心 PSC、康奈尔大学 CNS 及普林斯顿大学 JvNC）；配备当时全球最高水准的向量超级计算机与专业技术支持人员。
 > - **实施控制** 建立规范的同行评审申报制度，学者需提交包含算法设计、网格划分与科学价值的详细机时申请书，由独立评审专家组打分排序以分配宝贵运行机时。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 41)]]

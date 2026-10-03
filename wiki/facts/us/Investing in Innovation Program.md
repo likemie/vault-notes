@@ -2,7 +2,6 @@
 title: Investing in Innovation Program
 aliases:
   - 创新投资项目
-  - 创新投资
   - 创新投资计划
   - Investing in Innovation
   - i3 Program
@@ -16,8 +15,8 @@ fact_related_count: 32
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
-initiator_organization: "美国联邦教育部（U.S. Department of Education, ED）"
-period: "2009–2016"
+initiator_organization: 美国联邦教育部（U.S. Department of Education, ED）
+period: 2009–2016
 tags:
   - i3
   - investing-in-innovation
@@ -65,8 +64,8 @@ related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
 confidence: high
 status: active
-created: '2026-05-01'
-updated: 2026-09-27
+created: 2026-05-01
+updated: 2026-10-03
 ---
 
 # Investing in Innovation Program

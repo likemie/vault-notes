@@ -2,20 +2,20 @@
 summary: "探讨中学生认识论信念在不同任务结构（良构与劣构）下的预测效应，发现简单知识信念显著负向预测劣构任务表现与反思性判断，而在良构任务中不具预测力。"
 type: argument
 authors:
-  - "Lodewyk, K. R."
+  - Lodewyk, K. R.
 source_language: en
-citation: "Lodewyk, K. R. (2007). Relations among epistemological beliefs, academic achievement, and task performance in secondary school students. Educational Psychology, 27(3), 307–327. https://doi.org/10.1080/01443410601104080"
+citation: Lodewyk, K. R. (2007). Relations among epistemological beliefs, academic achievement, and task performance in secondary school students. Educational Psychology, 27(3), 307–327. https://doi.org/10.1080/01443410601104080
 year: 2007
-doi: "10.1080/01443410601104080"
+doi: 10.1080/01443410601104080
 citation_aliases:
   - "Lodewyk, 2007"
   - "Lodewyk (2007)"
 isbn: ""
 tags:
-  - "theme/epistemological-beliefs"
-  - "level/secondary"
-  - "subject/science"
-  - "method/quantitative"
+  - theme/epistemological-beliefs
+  - level/secondary
+  - subject/science
+  - method/quantitative
 related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Academic Achievement]]"
@@ -58,7 +58,7 @@ related_instruments:
   - "[[Schommer's Modified Epistemological Questionnaire]]"
 related_persons: []
 related_facts:
-  - "[[SMART]]"
+  - "[[Start Making a Reader Today]]"
 related_arguments: []
 sources:
   - "[[sources/Lodewyk_2007_EP/Lodewyk_2007_EP|Lodewyk_2007_EP]]"
@@ -76,7 +76,7 @@ argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
-journal: "Educational Psychology"
+journal: Educational Psychology
 book_title: ""
 publication_place: ""
 publisher: ""
@@ -206,7 +206,7 @@ issuing_organization: ""
 > [!ref-table]- 表 1：全样本题项与因子载荷矩阵（Table 1, p. 318）
 > | 因子维度与题项内容 | 因子 1：固定与快速学习能力（FQAL, $\alpha = .65$） | 因子 2：简单知识（SK, $\alpha = .51$） | 因子 3：确定知识（CK, $\alpha = .73$） |
 > |---|:---:|:---:|:---:|
-> | 真正聪明的学生不需要努力学习就能在学校取得好成绩。*(The really [[SMART]] students don’t have to work hard to do well in school.)* | **.58** | — | — |
+> | 真正聪明的学生不需要努力学习就能在学校取得好成绩。*(The really [[Start Making a Reader Today]] students don’t have to work hard to do well in school.)* | **.58** | — | — |
 > | 成功的学生能够迅速理解事物。*(Successful students understand things quickly.)* | **.55** | — | — |
 > | 有些人天生是优秀的学习者，另一些人则受限于有限的能力。*(Some people are born good learners, others are just stuck with limited ability.)* | **.53** | — | — |
 > | 花较长时间努力钻研难题只对真正聪明的学生有回报。*(Working hard on a difficult problem for a longer period of time only pays off for really smart students.)* | **.48** | — | — |

@@ -11,7 +11,7 @@ aliases:
 summary: "Schot & Steinmueller（2018）与 Mazzucato（2018）等学者识别的创新政策三大范式——科学促增长（Frame 1）、国家创新系统（Frame 2）与变革转型（Frame 3），揭示了公共干预从弥补市场失灵到管理系统失灵再到主动进行市场塑造与方向性引导的递进演化逻辑"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 35
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -28,6 +28,8 @@ related_concepts:
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Public Value]]"
   - "[[Hypothesis]]"
+  - "[[Directionality of Innovation]]"
+  - "[[Market Failure]]"
   - "[[Market Shaping and Creating]]"
   - "[[Knowledge Production]]"
   - "[[Technology Transfer]]"
@@ -39,6 +41,7 @@ related_concepts:
   - "[[Wicked Problem]]"
   - "[[Reflexivity]]"
   - "[[Transformative System Failures]]"
+  - "[[Grand Challenges]]"
   - "[[Picking the Willing]]"
   - "[[Patient Capital]]"
 related_theories:
@@ -47,6 +50,7 @@ related_theories:
   - "[[Evolutionary Economics]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Cost-Benefit Analysis]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[Vannevar Bush]]"
@@ -85,7 +89,7 @@ updated: 2026-10-03
 > [!citation-card] 范式演进与盲区超越逻辑
 > 创新政策的演化呈现出清晰的逻辑链条：先认识到科学能推动经济增长（范式一），然后发现光有科学不够，整个制度网络都必须协同配套（范式二），再然后发现光有协同运转的系统还不够，公共部门必须主动为系统引导前进的方向以应对重大社会挑战（范式三）。每一次范式跃迁都标志着对前序框架盲区的认知突破与工具箱扩展。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 28–35)]]
 >
-> *The three frames logic is not one of mutual exclusion, but of progressive recognition of blind spots: from recognizing that science drives growth, to understanding that the entire system must be aligned, to realizing that the system needs directionality to address societal challenges.*
+> *The three frames logic is not one of mutual exclusion, but of progressive recognition of blind spots: from recognizing that science drives growth, to understanding that the entire system must be aligned, to realizing that the system needs [[Directionality of Innovation|directionality]] to address societal challenges.*
 
 > [!boundary]- 概念边界
 > - **不等于 抽象的科技哲学分类** 该概念聚焦于政府公共政策介入创新活动的干预哲学、制度安排与工具组合，具有强烈的实践与政策导向。
@@ -100,7 +104,7 @@ updated: 2026-10-03
 > |---|---|---|---|
 > | **主导历史时期** | 1940s–1980s | 1980s–2000s | 2010s 至今 |
 > | **核心关切问题** | “如何通过科学供给拉动经济增长？” | “如何让创新系统的各主体与制度协同配套？” | “创新系统正在解决对的重大社会问题吗？” |
-> | **核心干预哲学** | **修正市场失灵（Market Fixing）** 知识是公共品，私人投资不足 | **修正系统失灵（System Fixing）** 主体间缺乏连接与协同 | **[[Market Shaping and Creating\|主动市场塑造（Market Shaping）]]** 共创全新市场与引领方向 |
+> | **核心干预哲学** | **修正[[Market Failure\|市场失灵]]（Market Fixing）** 知识是公共品，私人投资不足 | **修正系统失灵（System Fixing）** 主体间缺乏连接与协同 | **[[Market Shaping and Creating\|主动市场塑造（Market Shaping）]]** 共创全新市场与引领方向 |
 > | **创新发生机制** | **线性模型** 基础研究 → 技术开发 → 商业转化 → 经济增长 | **系统与互动学习模型** 多主体反馈、隐性知识交换与制度演进 | **社会–技术系统转型模型** 技术革新、刚性规制与大众行为习惯协同演化 |
 > | **公共部门角色** | 消极出资人与公共品采购者 | 系统协调者、中介桥梁与网络催化剂 | 战略前瞻引领者、早期风险承担者与愿景共创者 |
 > | **大学职能定位** | [[Knowledge Production\|知识生产]]者与高素质专业劳动力培养基地 | 创新系统催化剂、产学合作伙伴与[[Technology Transfer\|技术转移]]枢纽 | 中立对话召集者、方向性情报贡献者与使命共同塑造者 |
@@ -121,7 +125,7 @@ updated: 2026-10-03
 
 > [!feature] 创新政策三大[[Paradigm|范式]]核心逻辑与治理特征
 > - **范式一：科学促增长（Frame 1: Science for [[Growth]]）**
->   - **理论根基** 建立在新古典福利经济学与[[Linear Model of Innovation|线性创新模型]]之上（Bush, 1945; Arrow, 1962; Solow, 1957）。知识具有非竞争性与非排他性的公共品属性，私人市场因无法完全占有创新收益而导致研发投资不足（市场失灵）。
+>   - **理论根基** 建立在新古典福利经济学与[[Linear Model of Innovation|线性创新模型]]之上（Bush, 1945; Arrow, 1962; Solow, 1957）。知识具有非竞争性与非排他性的公共品属性，私人市场因无法完全占有创新收益而导致研发投资不足（[[Market Failure|市场失灵]]）。
 >   - **政策工具** 设立国家科学基金会（如美国 [[National Science Foundation|NSF]]）大规模资助大学基础研究；出台《[[Bayh-Dole Act of 1980|拜杜法案]]》（[[Bayh-Dole Act of 1980|Bayh-Dole Act]]）赋予大学专利所有权以促进[[Technology Transfer|技术转移]]；推行通用研发税收抵免与反垄断规制。
 >   - **大学角色** 充当纯粹的[[Knowledge Production|知识生产]]者与人才输送源泉，技术商业化被视为科研完成后的单向线性外溢。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 28–29)]]
 > - **范式二：国家[[Systems of Innovation|创新系统]]（Frame 2: Systems of Innovation）**
@@ -129,8 +133,8 @@ updated: 2026-10-03
 >   - **政策干预** 从“市场失灵”转向“系统失灵”——针对制度失灵、网络连接失灵、技术锁定失灵、基础设施失灵、[[Absorptive Capacity|吸收能力]]失灵及探索开发失衡实施系统修补。
 >   - **大学角色** 从单纯的知识供给方升级为“系统催化剂”与深度互动伙伴，通过建立[[University-Based Research Center|产学合作研究中心]]、长期[[Knowledge Exchange|知识交流]]拨款融入国家[[Innovation Ecosystem|创新生态]]。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 29–31)]]
 > - **范式三：[[Transformative Change|变革转型]]与使命导向（Frame 3: Transformative Change & Mission-Oriented）**
->   - **理论根基** 面对21世纪气候变化、人口老龄化与公共卫生危机等[[Wicked Problem|复杂社会难题]]，系统范式因缺乏价值导向而陷入被动（Schot & Steinmueller, 2018; Mazzucato, 2018; [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al., 2020]]）。
->   - **政策干预** 突破被动的系统修补，转向主动的[[Market Shaping and Creating|市场塑造与市场共创]]；针对方向性失灵、需求表达失灵、[[Reflexivity|反思性]]失灵与政策协调失灵四大[[Transformative System Failures|变革性系统失灵]]构建 ROAR 治理工具箱，以重大挑战为导向“[[Picking the Willing|挑选意愿者]]”。
+>   - **理论根基** 面对21世纪气候变化、人口老龄化与公共卫生危机等[[Wicked Problem|复杂社会难题]]，系统范式因缺乏价值导向而陷入被动（Schot & Steinmueller, 2018; [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]; [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al., 2020]]）。
+>   - **政策干预** 突破被动的系统修补，转向主动的[[Market Shaping and Creating|市场塑造与市场共创]]；针对方向性失灵、需求表达失灵、[[Reflexivity|反思性]]失灵与政策协调失灵四大[[Transformative System Failures|变革性系统失灵]]构建 ROAR 治理工具箱，以[[Grand Challenges|重大挑战]]为导向“[[Picking the Willing|挑选意愿者]]”。
 >   - **大学角色** 转型为多方利益相关者的“中立对话召集者”、社会转型“方向性情报贡献者”以及国家重大战略使命的“共同塑造者”。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 32–35)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–812)]]
 
 ---
@@ -185,7 +189,7 @@ updated: 2026-10-03
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **盲区超越累积命题** | 揭示政策从要素供给到系统协同再到方向引导的认知递进逻辑 | 科技创新政策史分析与宏观战略转型诊断 | [[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen (2025)]]; Schot & Steinmueller (2018) |
-> | **市场塑造跃迁命题** | 阐明国家从被动弥补市场失灵转向主动共创全新市场的哲学跨越 | 使命导向产业战略、重大前沿技术突破与公共价值投资 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
+> | **市场塑造跃迁命题** | 阐明国家从被动弥补[[Market Failure\|市场失灵]]转向主动共创全新市场的哲学跨越 | 使命导向产业战略、重大前沿技术突破与公共价值投资 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
 > | **混合政策组合命题** | 指明现实国家创新体系中三大范式工具的分层互补与共存运作 | 国家创新政策工具箱设计、科技预算编制与多部门协同 | [[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen (2025)]]; Lindner et al. (2024) |
 > | **大学生态位演进命题** | 界定大学从知识供给方到系统催化剂再到方向贡献者的职能演变 | 高等教育产学研政策、大学战略规划与科研评价机制重构 | [[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen (2025)]]; Kelleher & Ulrichsen (2022) |
 
@@ -198,7 +202,7 @@ updated: 2026-10-03
 > - **1980 — [[Bayh-Dole Act of 1980|拜杜法案]]与[[Technology Transfer|技术转移]]制度化** 美国出台《拜杜法案》（Bayh-Dole Act），允许大学拥有联邦资助成果的知识产权，拉开了全球高校专利化与技术转移的序幕。
 > - **1987–1993 — 范式二兴起：国家[[Systems of Innovation|创新系统理论]]化** Freeman（1987）、Lundvall（1992）与 Nelson（1993）正式提出国家创新系统概念；英国 1993 年发布《发挥我们的潜力》（*Realising Our Potential*）白皮书，1999 年确立长期公式化[[Knowledge Exchange|知识交流]]拨款，标志着系统范式的制度化。
 > - **2012 — [[Transformative System Failures|变革性系统失灵]]框架提出** Weber & Rohracher（2012）在《Research Policy》发表奠基性论文，系统提出方向性、需求表达、[[Reflexivity|反思性]]与政策协调四类失灵，为超越系统范式提供理论支点。
-> - **2018 — 范式三系统建构：三范式与 ROAR 使命框架** Schot & Steinmueller（2018）在《Research Policy》发表《创新政策三框架》（*Three Frames for Innovation Policy*）；[[Mariana Mazzucato|马祖卡托]]（Mazzucato, 2018）发表《[[Mission-Oriented Innovation Policy|使命导向创新政策]]：挑战与机遇》，确立以[[Market Shaping and Creating|市场塑造]]与 ROAR 框架为核心的使命导向范式。
+> - **2018 — 范式三系统建构：三范式与 ROAR 使命框架** Schot & Steinmueller（2018）在《Research Policy》发表《创新政策三框架》（*Three Frames for Innovation Policy*）；[[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）发表《[[Mission-Oriented Innovation Policy|使命导向创新政策]]：挑战与机遇》，确立以[[Market Shaping and Creating|市场塑造]]与 ROAR 框架为核心的使命导向范式。
 > - **2020–2024 — 实践落地与全球试验** 欧盟全面启动[[Horizon Europe Missions|地平线欧洲战略使命]]；美国出台《芯片与科学法案》（[[CHIPS and Science Act|CHIPS Act]]）设立区域创新引擎；[[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] 提出问题–解决方案空间[[Analytic Framework|分析框架]]；[[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] 总结大学在三范式演化中的角色重塑。
 
 ---
@@ -226,7 +230,7 @@ updated: 2026-10-03
 
 > [!warning] 实施边界与制度张力
 > - **短期选举周期与长周期转型的结构矛盾** 变革转型范式（Frame 3）需要长达数十年跨周期的[[Patient Capital|耐性资本]]与战略定力，这与现代民主政体 4–5 年的选举周期及财政短期考核存在制度性张力。
-> - **评估工具与治理范式的脱节** 许多国家虽然宣称转向使命导向政策，但在行政评估中依然严重依赖范式一的专利数、论文数或静态成本收益分析（CBA），导致政策实践陷入“新范式愿景、旧工具考核”的治理陷阱。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
+> - **评估工具与治理范式的脱节** 许多国家虽然宣称转向使命导向政策，但在行政评估中依然严重依赖范式一的专利数、论文数或静态[[Cost-Benefit Analysis|成本收益分析]]（CBA），导致政策实践陷入“新范式愿景、旧工具考核”的治理陷阱。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
 
 ---
 

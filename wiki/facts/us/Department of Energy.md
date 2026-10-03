@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -31,8 +31,10 @@ related_concepts:
   - "[[Megascience Installations]]"
   - "[[Innovation Ecosystem]]"
   - "[[Evidence Ecosystem]]"
+  - "[[Big Science]]"
   - "[[Paradigm]]"
   - "[[Valley of Death]]"
+  - "[[Nature of Innovation]]"
   - "[[Long-Term Public Utility]]"
   - "[[Basic-Applied Research Dichotomy]]"
 related_theories:
@@ -130,7 +132,7 @@ updated: 2026-10-03
 > - **战略能源主权塑造** 奠定了美国商用轻水反应堆、页岩气水平钻井及现代锂离子电池底层专利的大部分早期基础。
 
 > [!finding-cards] 关键成效与政策辐射
-> - **确立现代大科学研发工程[[Paradigm|范式]]** 探索出依托国家实验室将理论探索、工程制造与超算模拟高度统合的科研组织模式。
+> - **确立现代[[Big Science|大科学]]研发工程[[Paradigm|范式]]** 探索出依托国家实验室将理论探索、工程制造与超算模拟高度统合的科研组织模式。
 > - **开创清洁能源使命导向投资典范** 依托 [[DARPA|ARPA]]-E 与贷款项目办公室，证明公共资本能够有效跨越能源高科技产业化初期的“[[Valley of Death|死亡之谷]]”，成功开辟现代电动车与储能商业大市场。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]
 
 > [!stat-cards]- 核心规模与资助集中度数据
@@ -147,7 +149,7 @@ updated: 2026-10-03
 > > 争论公共部门在扶持新兴绿色科技时出现单点破产是否意味着政策失败。
 > >
 > > - **新自由主义与政治保守派批评** 在光伏薄膜公司索林德拉（Solyndra）破产后，批评者猛烈抨击能源部试图“挑选赢家”是对纳税人资金的严重浪费，认为政府完全不具备识别前沿商业技术的能力。
-> > - **[[Evolutionary Economics|演化经济学]]与[[Market Shaping and Creating|市场塑造]]派反驳** [[Mariana Mazzucato|马祖卡托]]指出，激进创新本质上充斥着极高不确定性，没有任何投资者能够做到“零失误”。能源部在同一时期投资的特斯拉获得了巨大商业成功，从组合投资（Portfolio Approach）角度看整个贷款计划整体上是高度盈利和成功的；将探索过程中的正常失败政治化炒作，将从根本上扼杀公共机构承担风险的战略胆识。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
+> > - **[[Evolutionary Economics|演化经济学]]与[[Market Shaping and Creating|市场塑造]]派反驳** [[Mariana Mazzucato|马祖卡托]]指出，激进[[Nature of Innovation|创新本质]]上充斥着极高不确定性，没有任何投资者能够做到“零失误”。能源部在同一时期投资的特斯拉获得了巨大商业成功，从组合投资（Portfolio Approach）角度看整个贷款计划整体上是高度盈利和成功的；将探索过程中的正常失败政治化炒作，将从根本上扼杀公共机构承担风险的战略胆识。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 >
 > > [!axis] 收益回流机制缺失：特斯拉回报中的制度教训
 > > 反思公共部门在承担巨额投资风险后为何未能建立对等的公共回报机制。
@@ -178,7 +180,7 @@ updated: 2026-10-03
 > | [[Discovery-Invention Cycle]] | Theory | 能源部跨学科实验室与前沿能源中心得以运转的动态循环理论支撑。 |
 > | [[Venkatesh Narayanamurti]] | Person | 曾任能源部下属桑迪亚国家实验室副总裁，长期建言重塑能源部科研组织设计。 |
 > | [[Paula Stephan]] | Person | 经济学评估学者，实证量化了能源部资助在大学系统中的高集中度特征。 |
-> | [[Bell Labs]] | Fact (Organization) | 能源部大科学实验室与工业巨头研发中心在底层硬件攻坚上长期合作互补。 |
+> | [[Bell Labs]] | Fact (Organization) | 能源部[[Big Science\|大科学]]实验室与工业巨头研发中心在底层硬件攻坚上长期合作互补。 |
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "针对社会与心理科学（含教育学、犯罪学与社会工作）复杂随机对照试验的方法学报告规范与偏倚核查清单，在经典医学CONSORT标准基础上深度扩充了复杂干预理论、实施过程评估、对照组常规实践与利益冲突治理规范。"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 21
+instrument_related_count: 22
 instrument_related_level: 4
 instrument_related_stars: "⭐⭐⭐⭐"
 instrument_related_color: "#e5e7eb"
@@ -54,6 +54,7 @@ related_theories:
   - "[[Theory of Change]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Cost-Benefit Analysis]]"
   - "[[Implementation and Process Evaluation]]"
 related_instruments: []
 related_persons: []
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-16
+updated: 2026-10-03
 ---
 
 # CONSORT-SPI
@@ -98,7 +99,7 @@ updated: 2026-09-16
 > | **引言与[[Theory of Change\|变革理论]]（Introduction & Rationale）** | 2 | 科学背景、干预背后的[[Theory of Change\|变革理论]]与假设因果链条 | 报告项二元核查（报告 / 未报告 / 不适用） |
 > | **试验方法与复杂干预细则（Methods: Trial Design & Interventions）** | 10 | 干预内容全要素、干预提供者资历、背景情境、对照组[[Business as Usual\|常规实践]]及[[Preregistration\|方案预注册]]与分析计划 | 报告项二元核查（报告 / 未报告 / 不适用） |
 > | **受试者流程与实施监控（Results: Participant [[Flow]] & Fidelity）** | 6 | 各阶段受试者流动（招募、分配、[[Attrition\|流失]]）、实际剂量依从度与[[Implementation Fidelity\|实施保真度]]监控 | 报告项二元核查（报告 / 未报告 / 不适用） |
-> | **讨论与实践外推（Discussion）** | 3 | 真实情境下的局限性、推广边界、干预意外后果与成本效益分析 | 报告项二元核查（报告 / 未报告 / 不适用） |
+> | **讨论与实践外推（Discussion）** | 3 | 真实情境下的局限性、推广边界、干预意外后果与[[Cost-Benefit Analysis\|成本效益分析]] | 报告项二元核查（报告 / 未报告 / 不适用） |
 > | **其他透明度信息（Other Information）** | 3 | 试验正式注册编号、完整方案获取途径与[[Conflict of Interest in Research\|利益冲突]]声明 | 报告项二元核查（报告 / 未报告 / 不适用） |
 
 ---

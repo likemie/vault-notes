@@ -8,7 +8,7 @@ aliases:
 summary: "纳拉亚纳穆尔提等人在批判战后基础/应用二分法时提出的联邦科研资助最高战略准绳，主张国家财政介入的正当性不应取决于立项当下课题属于纯科学还是工程技术，而应取决于其是否在数十年尺度上服务于国家长远战略福祉并致力于化解阻碍创新循环的系统性底层瓶颈。"
 type: concept
 domain: "science-policy"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,10 +18,12 @@ tags:
   - theme/innovation
 related_concepts:
   - "[[Innovation Ecosystem]]"
+  - "[[Market Failure]]"
   - "[[Return on Investment]]"
   - "[[Blue Skies Research]]"
   - "[[Patient Capital]]"
   - "[[Network Governance]]"
+  - "[[Big Science]]"
   - "[[Valley of Death]]"
   - "[[Basic-Applied Research Dichotomy]]"
   - "[[Mission-Oriented Innovation Policy]]"
@@ -42,7 +44,6 @@ related_facts:
   - "[[National Institutes of Health]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[CHIPS and Science Act]]"
-  - "[[Investing in Innovation Program]]"
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
 confidence: high
@@ -71,7 +72,7 @@ updated: 2026-10-03
 > *"The simple and clear notions of basic and applied were useful in one way: They provided a clear litmus test for limits to federal involvement in the research process… But through the lens of the discovery-invention cycle, we can see that it would deny federal funding to some types of research that are essential to long-term progress. We suggest that federal support is most appropriate for research that focuses on long-term projects with clear public utility. The difference here is that such research could have its near-term focus on either new knowledge or new technology."*
 
 > [!boundary]- 概念边界
-> - 不等于传统新古典经济学的“市场失灵试金石” — 传统教条认定凡带有工程应用属性的研发均可通过市场自发融资，长期公共效用则强调战略性底层工艺（如高纯分子束外延平台）因[[Return on Investment|投资回报]]长达数十年同样遭遇严重的市场遗弃，必须由国家公共财政承担托底责任。
+> - 不等于传统新古典经济学的“[[Market Failure|市场失灵]]试金石” — 传统教条认定凡带有工程应用属性的研发均可通过市场自发融资，长期公共效用则强调战略性底层工艺（如高纯分子束外延平台）因[[Return on Investment|投资回报]]长达数十年同样遭遇严重的市场遗弃，必须由国家公共财政承担托底责任。
 > - 不等于功利主义的“短周期直接经济回报” — 长期公共效用拒绝以 3–5 年内的商业变现或专利数量作为考评指标，其评估时间窗口延展至 10 至 30 年以上。
 
 ---
@@ -129,7 +130,7 @@ updated: 2026-10-03
 > 探讨国家资助如何定位关键卡点，论证为何缺乏商业利益驱动的底层制造工具与工程发明必须由国家预算全额保障。
 
 > [!claim] Narayanamurti, Odumosu & Vinsel (2013)
-> **系统瓶颈托底责任** 科技史案例表明，重大科学突破的核心先决条件往往是一项未被完全理解原理的工程技术发明（如半导体异质结构高纯材料研制）；当大学与私营市场之间的转化通道因缺乏专用装备与制造平台而在“[[Valley of Death|死亡之谷]]”处卡住时，知识流动即陷入瘫痪；因此，以长期公共效用为准绳的科研资助，必须将全额托底那些具有极端难度、无近期商业暴利、但对整体创新循环具有全局杠杆效应的底层工程硬件发明作为首要使命。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
+> **系统瓶颈托底责任** 科技史案例表明，重[[Big Science|大科学]]突破的核心先决条件往往是一项未被完全理解原理的工程技术发明（如半导体异质结构高纯材料研制）；当大学与私营市场之间的转化通道因缺乏专用装备与制造平台而在“[[Valley of Death|死亡之谷]]”处卡住时，知识流动即陷入瘫痪；因此，以长期公共效用为准绳的科研资助，必须将全额托底那些具有极端难度、无近期商业暴利、但对整体创新循环具有全局杠杆效应的底层工程硬件发明作为首要使命。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
 
 ---
 
@@ -146,7 +147,7 @@ updated: 2026-10-03
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1945 — 战后动机论试金石确立** [[Vannevar Bush|万尼瓦尔·布什]]在[[Science, The Endless Frontier 1945]]中确立政府仅对无实用目的的基础研究负有资助义务，将市场失灵作为国家介入的机械界限。
+> - **1945 — 战后动机论试金石确立** [[Vannevar Bush|万尼瓦尔·布什]]在[[Science, The Endless Frontier 1945]]中确立政府仅对无实用目的的基础研究负有资助义务，将[[Market Failure|市场失灵]]作为国家介入的机械界限。
 > - **1997 — 斯托克斯引入应用启发维度** [[Donald Stokes|唐纳德·斯托克斯]]在《[[Pasteur's Quadrant|帕斯德象限]]》中将公共资助扩展至兼顾理解与实用的前沿研究，但仍沿用二分法语汇。
 > - **2013 — 长期公共效用概念正式提出** 纳拉亚纳穆尔提等人在《安息吧：[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]》中正式确立“长期公共效用”作为替代二分法的新准绳，主张对称支持发现与发明。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
 > - **2016–至今 — [[Mission-Oriented Innovation Policy|任务导向型创新政策]]全球采纳** 长期公共效用思想深刻融入[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）的“使命导向型创新”（Mission-Oriented Innovation）以及美国《芯片与科学法案》（[[CHIPS and Science Act]]）等当代产业技术政策立法中。
@@ -160,5 +161,5 @@ updated: 2026-10-03
 > > [!axis] “长期公共效用”界定的[[Operationalization|操作化]]模糊性争议
 > > 相比于“是否属于发表论文的基础研究”，“长期公共效用”是否更容易被利益集团捕获而沦为政治寻租工具？
 > >
-> > - **新古典经济学与保守派学者质疑** 批评者指出，传统基础研究标准虽然僵化，但具有较强的行政可操作性；“长期公共效用”涵盖广泛，容易导致政府官僚盲目挑选产业技术赢家（Picking Winners），引发产业补贴政治寻租并挤出私营企业的自主[[Investing in Innovation Program|创新投资]]。
+> > - **新古典经济学与保守派学者质疑** 批评者指出，传统基础研究标准虽然僵化，但具有较强的行政可操作性；“长期公共效用”涵盖广泛，容易导致政府官僚盲目挑选产业技术赢家（Picking Winners），引发产业补贴政治寻租并挤出私营企业的自主创新投资。
 > > - **创新政策与循环理论学者辩护** 纳拉亚纳穆尔提等人强调，长期公共效用并不等同于政府替企业开发特定商品，而是聚焦于跨学科前沿平台、公共[[Megascience Installations|大科学装置]]与共性基础工艺的托底；只要建立严谨的同行专家路线图评估与 10 年以上长周期成果审计，就能有效兼顾战略使命与学术卓越。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]

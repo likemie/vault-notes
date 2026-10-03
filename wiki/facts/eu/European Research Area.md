@@ -10,7 +10,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
 related_theories:
   - "[[Systems of Innovation]]"
 related_facts:
+  - "[[Horizon Europe]]"
   - "[[CNRS]]"
   - "[[Max Planck Society]]"
   - "[[National Science Foundation]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # European Research Area
@@ -52,7 +53,7 @@ updated: 2026-10-02
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2000 年由欧盟里斯本首脑会议（Lisbon Summit）正式批准启动，作为欧盟中长期核心科技一体化框架持续深化至今。
-> - **发起方与资助机制** 由欧洲联盟委员会主导设计，依托数百亿欧元的欧盟科研框架计划（FP6、FP7 及后续的 Horizon Europe）提供核心催化资金，同时协调成员国国家科研基金建立跨国联合资助机制。
+> - **发起方与资助机制** 由欧洲联盟委员会主导设计，依托数百亿欧元的欧盟科研框架计划（FP6、FP7 及后续的 [[Horizon Europe]]）提供核心催化资金，同时协调成员国国家科研基金建立跨国联合资助机制。
 > - **覆盖范围与对象** 覆盖全部欧盟成员国及相关联系国的高等院校、科研院所（如法国 [[CNRS]]、德国[[Max Planck Society|马普学会]]）、高技术企业以及跨国流动的青年科研学者与博士研究生。
 > - **核心问题导向** 针对欧洲传统科研体系中各国教育部行政集权割裂、学者跨国流动壁垒高、科研投入分散重复，以及在顶级诺贝尔奖与高科技产业竞争中被美国持续压制的“欧洲悖论”（European Paradox，即基础科学论文雄厚但产业创新疲软）。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 42–44)]]
 
@@ -76,7 +77,7 @@ updated: 2026-10-02
 > [!dev-timeline] 推进历程与演变
 > - **2000–2006 — 战略提出与框架计划整合** 确立欧洲研究区战略构想，将欧盟第六框架计划（FP6）全面转向支撑 ERA 一体化网络，重点资助跨国卓越网络（Networks of Excellence）与大型联合研究项目。
 > - **2007–2013 — 欧洲研究理事会（ERC）诞生与同行评议重塑** 突破传统欧盟基金偏重应用合作的局限，正式建立 ERC，参照美国 [[National Science Foundation|NSF]] 经验实施纯学术质量驱动的个人竞争性课题资助，使欧洲顶尖大学教授首次获得摆脱本国教育部行政管辖的泛欧学术资助。
-> - **2014 至今 — 新时代 ERA 深度协同与技术主权** 伴随 Horizon 2020 与 Horizon Europe 的实施，ERA 进一步强化开放科学（Open Science）、研究数据云（EOSC）共享与战略性关键技术（半导体、绿色氢能、量子计算）自主可控。
+> - **2014 至今 — 新时代 ERA 深度协同与技术主权** 伴随 Horizon 2020 与 [[Horizon Europe]] 的实施，ERA 进一步强化开放科学（Open Science）、研究数据云（EOSC）共享与战略性关键技术（半导体、绿色氢能、量子计算）自主可控。
 
 ---
 

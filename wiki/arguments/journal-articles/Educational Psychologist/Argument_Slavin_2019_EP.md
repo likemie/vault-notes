@@ -1,6 +1,6 @@
 ---
 authors:
-  - "Slavin, R. E."
+  - Slavin, R. E.
 summary: "循证教育（Evidence-Based Education, EBE）支持者阵营的纲领性论述：系统阐述证据本位改革（Evidence-Based Reform, EBR）的三条件框架（已验证项目存量、独立证据审查、政府财政激励），提出以强证据项目充实干预反应模型（Response to Intervention, RTI）三层的循证干预反应（RTPI）方案，并论证整群随机试验与多层线性模型（HLM）分析在兼顾内部与外部效度中的方法学价值"
 type: argument
 subtype: journal-article
@@ -14,7 +14,7 @@ argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
 journal: Educational Psychologist
-citation: "Slavin, R. E. (2019). How evidence-based reform will transform research and practice in education. Educational Psychologist, 55(1), 21–31. https://doi.org/10.1080/00461520.2019.1611432"
+citation: Slavin, R. E. (2019). How evidence-based reform will transform research and practice in education. Educational Psychologist, 55(1), 21–31. https://doi.org/10.1080/00461520.2019.1611432
 tags:
   - evidence-based-education
   - evidence-based-reform
@@ -27,7 +27,7 @@ tags:
 sources:
   - "[[sources/Slavin_2019_EP/Slavin_2019_EP|Slavin_2019_EP]]"
 year: 2019
-doi: "10.1080/00461520.2019.1611432"
+doi: 10.1080/00461520.2019.1611432
 citation_aliases:
   - "Slavin, 2019"
   - "Slavin (2019)"
@@ -122,7 +122,7 @@ related_facts:
   - "[[Reach]]"
   - "[[Perry Beeches]]"
   - "[[SPARK Literacy]]"
-  - "[[SMART]]"
+  - "[[Start Making a Reader Today]]"
   - "[[FocusMath]]"
   - "[[Numbers Count]]"
   - "[[Math Recovery]]"
@@ -134,7 +134,7 @@ related_persons:
   - "[[Robert Slavin]]"
   - "[[Nancy Madden]]"
 status: draft
-created: '2026-05-01'
+created: 2026-05-01
 updated: 2026-09-18
 ---
 # Argument_Slavin_2019_EP
@@ -346,7 +346,7 @@ updated: 2026-09-18
 > | **一对一辅导：教学助教（Tier 3）** | [[Reach]] | 6–7 年级 | 1:1 个别 | 1 项 | $+0.42$ | 强证据（Strong） |
 > | **一对一辅导：教学助教（Tier 3）** | [[Perry Beeches]] | 6 年级 | 1:1 个别 | 1 项 | $+0.36$ | 强证据（Strong） |
 > | **一对一辅导：有偿志愿者（Tier 3）** | [[SPARK Literacy]] | K–2 年级 | 1:1 个别 | 1 项 | $+0.51$ | 强证据（Strong） |
-> | **一对一辅导：有偿志愿者（Tier 3）** | [[SMART]] | 1–2 年级 | 1:1 个别 | 1 项 | $+0.42$ | 强证据（Strong） |
+> | **一对一辅导：有偿志愿者（Tier 3）** | [[Start Making a Reader Today]] | 1–2 年级 | 1:1 个别 | 1 项 | $+0.42$ | 强证据（Strong） |
 
 #### 3. 数学领域循证项目存量与代表性干预方案
 

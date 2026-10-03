@@ -7,9 +7,9 @@ summary: "一种通过访问、筛查和分析档案馆与记录办公室中保�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 17
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/historical-research
@@ -24,6 +24,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]]"
+  - "[[Argument_Lecuyer_1999_HT]]"
 related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Document]]"
@@ -32,6 +33,8 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Research Question]]"
+related_facts:
+  - "[[Fairchild Semiconductor]]"
 confidence: medium
 status: draft
 created: 2026-06-24
@@ -121,4 +124,4 @@ updated: 2026-10-03
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]] — 本章系统介绍了档案的四种来源类型、研究操作程序与挑战，并通过新西兰青少年帮派调查委员会档案案例展示了档案研究在政策[[Process Tracing|过程追踪]]中的应用。
-> - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 莱屈耶通过调阅斯坦福大学档案馆特藏、企业技术备忘录、产品目录与原始工程应用说明书，系统重构了仙童半导体从军用转向商用市场的技术演进历程。
+> - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 莱屈耶通过调阅斯坦福大学档案馆特藏、企业技术备忘录、产品目录与原始工程应用说明书，系统重构了[[Fairchild Semiconductor|仙童半导体]]从军用转向商用市场的技术演进历程。

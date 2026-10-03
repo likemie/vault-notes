@@ -2708,6 +2708,18 @@
     ]
   },
   {
+    "title": "Co-invention",
+    "type": "concept",
+    "path": "wiki/concepts/economics/Co-invention.md",
+    "aliases": [
+      "共同发明",
+      "协同发明",
+      "用户协同发明",
+      "互补性共同发明",
+      "User-Supplier Co-invention"
+    ]
+  },
+  {
     "title": "Dual In-Line Package",
     "type": "concept",
     "path": "wiki/concepts/economics/Dual In-Line Package.md",
@@ -10382,6 +10394,17 @@
     ]
   },
   {
+    "title": "Agile Governance",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Agile Governance.md",
+    "aliases": [
+      "敏捷治理",
+      "敏捷试错",
+      "敏捷公共管理",
+      "敏捷实验与迭代"
+    ]
+  },
+  {
     "title": "Basic-Applied Research Dichotomy",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Basic-Applied Research Dichotomy.md",
@@ -10390,6 +10413,16 @@
       "基础应用研究二分法",
       "basic-applied dichotomy",
       "基础研究与应用研究之争"
+    ]
+  },
+  {
+    "title": "Big Science",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Big Science.md",
+    "aliases": [
+      "大科学",
+      "大科学工程",
+      "大科学计划"
     ]
   },
   {
@@ -10416,6 +10449,17 @@
     ]
   },
   {
+    "title": "Demand-side Innovation Policy",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Demand-side Innovation Policy.md",
+    "aliases": [
+      "需求侧创新政策",
+      "需求拉动型创新政策",
+      "创新公共采购",
+      "需求导向创新政策"
+    ]
+  },
+  {
     "title": "Directionality of Innovation",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Directionality of Innovation.md",
@@ -10425,6 +10469,38 @@
       "创新政策的方向性转向",
       "direction of innovation",
       "directionality"
+    ]
+  },
+  {
+    "title": "Distributed Agency",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Distributed Agency.md",
+    "aliases": [
+      "分布式主体",
+      "分布式能动性",
+      "分布式行动者",
+      "分布式主体性"
+    ]
+  },
+  {
+    "title": "Embedded Autonomy",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Embedded Autonomy.md",
+    "aliases": [
+      "嵌入式自主性",
+      "嵌入性自主",
+      "嵌入的自主性"
+    ]
+  },
+  {
+    "title": "Grand Challenges",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Grand Challenges.md",
+    "aliases": [
+      "重大挑战",
+      "社会重大挑战",
+      "grand societal challenges",
+      "社会大挑战"
     ]
   },
   {
@@ -10447,7 +10523,8 @@
       "引领与学习范式",
       "lead-and-learn approach",
       "lead and learn",
-      "支持与衡量范式转向"
+      "支持与衡量范式转向",
+      "引领与学习"
     ]
   },
   {
@@ -10459,6 +10536,16 @@
       "public utility",
       "Public Utility in Research Funding",
       "长期公共利益"
+    ]
+  },
+  {
+    "title": "Market Failure",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Market Failure.md",
+    "aliases": [
+      "市场失灵",
+      "市场失灵理论",
+      "市场失灵范式"
     ]
   },
   {
@@ -10486,6 +10573,29 @@
       "MOIP",
       "MIP",
       "mission-oriented policy"
+    ]
+  },
+  {
+    "title": "Nature of Innovation",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Nature of Innovation.md",
+    "aliases": [
+      "创新本质",
+      "创新的本质",
+      "创新内在属性",
+      "创新本体论特质"
+    ]
+  },
+  {
+    "title": "Organizational Ambidexterity",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Organizational Ambidexterity.md",
+    "aliases": [
+      "组织双元性",
+      "双元性能力",
+      "双元组织",
+      "ambidexterity",
+      "探索与利用双元平衡"
     ]
   },
   {
@@ -10554,6 +10664,16 @@
       "反思型治理",
       "自反性治理",
       "Reflexive Governance for Sustainable Development"
+    ]
+  },
+  {
+    "title": "Tilting the Playing Field",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Tilting the Playing Field.md",
+    "aliases": [
+      "倾斜竞争场地",
+      "倾斜竞技场",
+      "倾斜市场场地"
     ]
   },
   {
@@ -14263,6 +14383,18 @@
     ]
   },
   {
+    "title": "Unbalanced Growth Theory",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Unbalanced Growth Theory.md",
+    "aliases": [
+      "非均衡增长理论",
+      "非均衡发展理论",
+      "Hirschman Unbalanced Growth",
+      "unbalanced growth",
+      "赫希曼非均衡增长理论"
+    ]
+  },
+  {
     "title": "Varieties of Capitalism",
     "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Varieties of Capitalism.md",
@@ -14407,6 +14539,18 @@
     "aliases": [
       "发现-发明循环",
       "发现发明循环"
+    ]
+  },
+  {
+    "title": "Ergas Taxonomy of Technology Policy",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Ergas Taxonomy of Technology Policy.md",
+    "aliases": [
+      "埃尔加斯技术政策分类",
+      "埃尔加斯使命型与扩散型技术政策分类",
+      "Ergas Taxonomy",
+      "使命导向与扩散导向技术政策分类",
+      "mission-oriented and diffusion-oriented technology policy"
     ]
   },
   {
@@ -16694,6 +16838,18 @@
       "相关设计",
       "Correlational Design",
       "Observational and Correlational Research"
+    ]
+  },
+  {
+    "title": "Cost-Benefit Analysis",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Cost-Benefit Analysis.md",
+    "aliases": [
+      "成本收益分析",
+      "成本效益分析",
+      "CBA",
+      "成本–收益分析",
+      "成本效益分析法"
     ]
   },
   {
@@ -19067,6 +19223,18 @@
     ]
   },
   {
+    "title": "Joseph Schumpeter",
+    "type": "person",
+    "path": "wiki/persons/austria/Joseph Schumpeter.md",
+    "aliases": [
+      "Schumpeter, J.",
+      "熊彼特",
+      "约瑟夫·熊彼特",
+      "约瑟夫·阿洛伊斯·熊彼特",
+      "Joseph Alois Schumpeter"
+    ]
+  },
+  {
     "title": "Otto Neurath",
     "type": "person",
     "path": "wiki/persons/austria/Otto Neurath.md",
@@ -19857,6 +20025,18 @@
     ]
   },
   {
+    "title": "Friedrich Nietzsche",
+    "type": "person",
+    "path": "wiki/persons/germany/Friedrich Nietzsche.md",
+    "aliases": [
+      "Nietzsche, F.",
+      "尼采",
+      "弗里德里希·尼采",
+      "弗里德里希·威廉·尼采",
+      "Friedrich Wilhelm Nietzsche"
+    ]
+  },
+  {
     "title": "Friedrich Schneider",
     "type": "person",
     "path": "wiki/persons/germany/Friedrich Schneider.md",
@@ -20396,6 +20576,18 @@
       "亚历克·皮特森",
       "Peterson, A. D. C.",
       "Alexander Duncan Campbell Peterson"
+    ]
+  },
+  {
+    "title": "Andrew Schonfield",
+    "type": "person",
+    "path": "wiki/persons/uk/Andrew Schonfield.md",
+    "aliases": [
+      "Schonfield, A.",
+      "安德鲁·雄菲尔德",
+      "安德鲁·肖恩菲尔德",
+      "Sir Andrew Schonfield",
+      "Andrew Akiba Schonfield"
     ]
   },
   {
@@ -21287,6 +21479,17 @@
     ]
   },
   {
+    "title": "Alvin Weinberg",
+    "type": "person",
+    "path": "wiki/persons/us/Alvin Weinberg.md",
+    "aliases": [
+      "Weinberg, A.",
+      "阿尔文·温伯格",
+      "Alvin M. Weinberg",
+      "Alvin Martin Weinberg"
+    ]
+  },
+  {
     "title": "Amelia Peterson",
     "type": "person",
     "path": "wiki/persons/us/Amelia Peterson.md",
@@ -21416,6 +21619,17 @@
     ]
   },
   {
+    "title": "Chalmers Johnson",
+    "type": "person",
+    "path": "wiki/persons/us/Chalmers Johnson.md",
+    "aliases": [
+      "Johnson, C.",
+      "查默斯·约翰逊",
+      "查尔莫斯·约翰逊",
+      "Chalmers Ashby Johnson"
+    ]
+  },
+  {
     "title": "Christopher Lubienski",
     "type": "person",
     "path": "wiki/persons/us/Christopher Lubienski.md",
@@ -21476,6 +21690,18 @@
       "Clarence Crane Brinton",
       "C. Crane Brinton",
       "Brinton, C."
+    ]
+  },
+  {
+    "title": "David C. Mowery",
+    "type": "person",
+    "path": "wiki/persons/us/David C. Mowery.md",
+    "aliases": [
+      "大卫·莫厄里",
+      "大卫·C·莫厄里",
+      "Mowery, D. C.",
+      "David Mowery",
+      "Mowery, D."
     ]
   },
   {
@@ -23350,6 +23576,17 @@
     ]
   },
   {
+    "title": "Lund Declaration 2009",
+    "type": "fact",
+    "path": "wiki/facts/eu/Lund Declaration 2009.md",
+    "aliases": [
+      "隆德宣言",
+      "Lund Declaration",
+      "《隆德宣言》",
+      "隆德宣言 2009"
+    ]
+  },
+  {
     "title": "Lisbon Strategy",
     "type": "fact",
     "path": "wiki/facts/eu/Lisbon Strategy.md",
@@ -23463,6 +23700,17 @@
       "Horizon SSH Integration",
       "地平线2020 SSH整合",
       "Horizon 2020 SSH"
+    ]
+  },
+  {
+    "title": "Horizon Europe",
+    "type": "fact",
+    "path": "wiki/facts/eu/Horizon Europe.md",
+    "aliases": [
+      "地平线欧洲",
+      "欧盟第九研发框架计划",
+      "Horizon Europe Framework Programme",
+      "FP9"
     ]
   },
   {
@@ -23584,6 +23832,17 @@
     ]
   },
   {
+    "title": "CERN",
+    "type": "fact",
+    "path": "wiki/facts/europe/CERN.md",
+    "aliases": [
+      "欧洲核子研究组织",
+      "欧洲核子研究中心",
+      "European Organization for Nuclear Research",
+      "Organisation européenne pour la recherche nucléaire"
+    ]
+  },
+  {
     "title": "Mediterranean Society of Comparative Education",
     "type": "fact",
     "path": "wiki/facts/europe/Mediterranean Society of Comparative Education.md",
@@ -23670,6 +23929,18 @@
       "Revue encyclopédique ou Analyse raisonnée",
       "Encyclopedic Review",
       "Jullien's Revue encyclopédique"
+    ]
+  },
+  {
+    "title": "French Modernisation Commissions",
+    "type": "fact",
+    "path": "wiki/facts/france/French Modernisation Commissions.md",
+    "aliases": [
+      "法国现代化委员会",
+      "法国计划署现代化委员会",
+      "Modernisation Commissions",
+      "Commissariat Général du Plan",
+      "法国战后指导性计划"
     ]
   },
   {
@@ -23783,6 +24054,17 @@
       "中等教育系统转型与学术职业发展追踪",
       "Transformation des Sekundarschulsystems und akademische Karrieren",
       "Transformation of the Secondary School System and Academic Careers"
+    ]
+  },
+  {
+    "title": "System Althoff",
+    "type": "fact",
+    "path": "wiki/facts/germany/System Althoff.md",
+    "aliases": [
+      "阿尔托夫体制",
+      "Althoff-System",
+      "Althoff System",
+      "普鲁士阿尔托夫体制"
     ]
   },
   {
@@ -25152,6 +25434,17 @@
     ]
   },
   {
+    "title": "Ministry of International Trade and Industry",
+    "type": "fact",
+    "path": "wiki/facts/japan/Ministry of International Trade and Industry.md",
+    "aliases": [
+      "MITI",
+      "日本通商产业省",
+      "通产省",
+      "通商产业省"
+    ]
+  },
+  {
     "title": "National Institute for Educational Policy Research",
     "type": "fact",
     "path": "wiki/facts/japan/National Institute for Educational Policy Research.md",
@@ -26146,6 +26439,16 @@
       "苏格兰通用教学总署",
       "GTCS",
       "苏格兰教学委员会"
+    ]
+  },
+  {
+    "title": "Government Digital Service",
+    "type": "fact",
+    "path": "wiki/facts/uk/Government Digital Service.md",
+    "aliases": [
+      "GDS",
+      "英国政府数字服务局",
+      "英国政府数字服务中心"
     ]
   },
   {
@@ -28094,6 +28397,30 @@
     ]
   },
   {
+    "title": "1956 AT&T Consent Decree",
+    "type": "fact",
+    "path": "wiki/facts/us/1956 AT&T Consent Decree.md",
+    "aliases": [
+      "1956年美国电话电报公司反垄断同意令",
+      "1956年美国电话电报公司同意令",
+      "美国电话电报公司反垄断同意令",
+      "AT&T Consent Decree of 1956",
+      "Western Electric Consent Decree of 1956",
+      "1956 Western Electric Consent Decree"
+    ]
+  },
+  {
+    "title": "1956 IBM Consent Decree",
+    "type": "fact",
+    "path": "wiki/facts/us/1956 IBM Consent Decree.md",
+    "aliases": [
+      "1956年国际商业机器公司反垄断同意令",
+      "1956年国际商业机器公司同意令",
+      "国际商业机器公司反垄断同意令",
+      "IBM Consent Decree of 1956"
+    ]
+  },
+  {
     "title": "Adequate Yearly Progress",
     "type": "fact",
     "path": "wiki/facts/us/Adequate Yearly Progress.md",
@@ -28670,7 +28997,6 @@
     "path": "wiki/facts/us/Investing in Innovation Program.md",
     "aliases": [
       "创新投资项目",
-      "创新投资",
       "创新投资计划",
       "Investing in Innovation",
       "i3 Program"
@@ -28924,18 +29250,6 @@
     ]
   },
   {
-    "title": "SMART",
-    "type": "fact",
-    "path": "wiki/facts/us/SMART.md",
-    "aliases": [
-      "Start Making a Reader Today",
-      "SMART Reading",
-      "阅读伴读项目",
-      "今日造就读者",
-      "SMART Literacy"
-    ]
-  },
-  {
     "title": "Sound Partners",
     "type": "fact",
     "path": "wiki/facts/us/Sound Partners.md",
@@ -28953,6 +29267,17 @@
       "SPARK Reading",
       "星火读写方案",
       "早期读写辅导"
+    ]
+  },
+  {
+    "title": "Start Making a Reader Today",
+    "type": "fact",
+    "path": "wiki/facts/us/Start Making a Reader Today.md",
+    "aliases": [
+      "SMART Reading",
+      "阅读伴读项目",
+      "今日造就读者",
+      "SMART Literacy"
     ]
   },
   {
@@ -30466,6 +30791,11 @@
     "title": "Argument_Lester_2005_MIT",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/Argument_Lester_2005_MIT.md"
+  },
+  {
+    "title": "Argument_Mowery_2011_NBER",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/Argument_Mowery_2011_NBER.md"
   },
   {
     "title": "Argument_Stephan_2013_NBER",

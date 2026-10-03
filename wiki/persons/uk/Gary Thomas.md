@@ -7,7 +7,7 @@ summary: "英国教育学者和方法论批评者，民间科学观批判代表�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ tags:
 - region/uk
 related_concepts:
   - "[[Research Utilization]]"
+  - "[[Big Science]]"
   - "[[Causality]]"
   - "[[Ontology]]"
   - "[[Evidence-Based Education]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-09-11
+updated: 2026-10-03
 ---
 ## 简介
 
@@ -56,7 +57,7 @@ updated: 2026-09-11
 
 
 > [!info] 实验验证知识而非推进知识
-> Thomas 论证实验通常用于验证而非推进知识：许多重大科学发现和发明并非来自系统程序——青霉素、尼龙、超导性、飞机等([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 111]])。
+> Thomas 论证实验通常用于验证而非推进知识：许多重[[Big Science|大科学]]发现和发明并非来自系统程序——青霉素、尼龙、超导性、飞机等([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 111]])。
 
 
 > [!info] 最佳解释推理

@@ -11,7 +11,7 @@ aliases:
 summary: "起源于福柯治理术谱系并经罗斯、米勒与拉图尔发展、在批判教育社会学与拓扑学中深化的空间治理理论，指权力不依赖直接行政命令或物理在场，而是通过将宏观政治抱负转译为技术标准、计算中心、不变移动物与自适应数据基础设施，在“远处”重塑主体认知与微观实践的非接触式权力机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 40
+theory_related_count: 41
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Policy Network]]"
   - "[[Data Infrastructure]]"
+  - "[[Distributed Agency]]"
   - "[[Hypothesis]]"
   - "[[Topological Spatialisation]]"
   - "[[Transfer Translation Transformation]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-09-29
+updated: 2026-10-03
 ---
 
 # Governing at a Distance
@@ -81,7 +82,7 @@ updated: 2026-09-29
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 现代国家、超国家组织与跨国[[Policy Network\|政策网络]]如何在缺乏物理强制力、直接行政命令或法定管辖权的情境下，依托专业知识、标准化评估量规与[[Data Infrastructure\|数据基础设施]]，实现对分布式主体、偏远区域与自治机构的非接触式行为规约。
+> - **解释对象** 现代国家、超国家组织与跨国[[Policy Network\|政策网络]]如何在缺乏物理强制力、直接行政命令或法定管辖权的情境下，依托专业知识、标准化评估量规与[[Data Infrastructure\|数据基础设施]]，实现对[[Distributed Agency|分布式主体]]、偏远区域与自治机构的非接触式行为规约。
 > - **理论问题** 破解传统主权论将统治等同于领土垄断与垂直命令的静态[[Hypothesis\|假设]]，解释后福利国家与全球化治理中“国家职能形式下放与实质审计规制强化并存”的制度悖论。
 > - **理论类型** 批判政治社会学、空间治理机制与政策社会学[[Analytic Framework\|分析框架]]。
 > - **知识位置** 起源于[[Governmentality\|治理术]]（Governmentality）谱系，由尼古拉斯·罗斯（Nikolas Rose）与彼得·米勒（Peter Miller）在政治社会学中正式理论化，后与[[Actor-Network Theory\|行动者网络理论]]（ANT）、[[Topological Spatialisation\|拓扑空间]]理论及比较教育学深度交织。

@@ -9,7 +9,7 @@ aliases:
 summary: "社会科学与教育研究的基本认识论与方法论取向，将社会世界视为主观意识、语言符号与人造意义的建构产物；在组织与方法论上持唯名论、反实证主义、意志论与个例式假定，在比较教育学史中历经战后实证范式的系统清洗、批判二元论的情境整合以及后现代思潮对多元真理体制的重新合法化。"
 type: concept
 domain: "educational-philosophy"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Nomothetic]]"
   - "[[Variable]]"
+  - "[[Co-invention]]"
   - "[[Voluntarism]]"
   - "[[Research Purpose]]"
   - "[[Externalization]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-01
+updated: 2026-10-03
 ---
 
 # Subjectivism
@@ -128,7 +129,7 @@ updated: 2026-10-01
 ## 核心要素
 
 > [!feature] 伯勒尔与摩根主观主义四维[[Hypothesis\|假设]]构架
-> - **[[Nominalism\|唯名论]][[Ontology\|本体论]]（Nominalism）** 坚持思想的对象仅仅是词语与概念，不存在独立于知者并构成词语意义的可及事物；组织与社会制度并非自然实体，而是由人类行动者共同发明的社会实在。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, Ch. 1)]]
+> - **[[Nominalism\|唯名论]][[Ontology\|本体论]]（Nominalism）** 坚持思想的对象仅仅是词语与概念，不存在独立于知者并构成词语意义的可及事物；组织与社会制度并非自然实体，而是由人类行动者[[Co-invention|共同发明]]的社会实在。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, Ch. 1)]]
 > - **[[Interpretive Paradigm\|反实证主义]][[Epistemology\|认识论]]（Anti-[[Positivism]]）** 断言社会知识具有鲜明的个人性、主观性与独特性，坚决拒绝将自然科学的客观观察方法直接套用于人类事务，要求研究者同情性地投入研究对象的生活世界之中。
 > - **意志论人性假设（[[Voluntarism]]）** 坚信人是自身行动的发起者，拥有自由意志和[[Creativity\|创造力]]，能够在与环境的互动中能动地创造和重构自身的生活情境。
 > - **[[Idiographic\|个例式]]方法论（Idiographic Approach）** 聚焦对独特个别案例的深入剖析与理解，通过语言、叙事与符号意义的系统分析呈现社会现实，以此作为跨情境理解的基础。

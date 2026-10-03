@@ -7,7 +7,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Teacher Professional Agency]]"
   - "[[Ontology]]"
+  - "[[Big Science]]"
   - "[[Evidence-Informed Practice]]"
 related_theories:
   - "[[Theory of Mind]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-09-24
+updated: 2026-10-03
 ---
 
 # ResearchED
@@ -109,7 +110,7 @@ updated: 2026-09-24
 
 > [!actor-grid] 评论视角
 > - **当事方 / 草根赋权视角** [[Theory of Mind\|ToM]] Bennett 等倡导者与 [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 127)]] 指出，ResearchED 代表了教师社群内部自发增长的证据需求，旨在打破大学学术界对教育研究的权力垄断，让教师能够独立评估和识别“什么有效”，以科学证据赋能课堂教学。
-> - **学术 / 方法视角** [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] 与 [[Gary Thomas]] 等学者指出，ResearchED 奉行的“唯 [[Randomised Controlled Trials\|RCT]] 论”在[[Ontology\|本体论]]上犯了层次混淆的错误。许多重大科学发现（如进化论、天文学）并不依赖实验，而是源于密切观察与最佳解释推理（inference to the best explanation）([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 3]])。
+> - **学术 / 方法视角** [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] 与 [[Gary Thomas]] 等学者指出，ResearchED 奉行的“唯 [[Randomised Controlled Trials\|RCT]] 论”在[[Ontology\|本体论]]上犯了层次混淆的错误。许多重[[Big Science|大科学]]发现（如进化论、天文学）并不依赖实验，而是源于密切观察与最佳解释推理（inference to the best explanation）([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 3]])。
 > - **政策 / 制度视角** [[Stephen Ball]] 与 Carol Black 等学者认为，标榜“草根”的 ResearchED 遭到保守党政客的迅速背书，实质上沦为政府推行新自由主义审计文化、对教师队伍实施技术化控制、并打击大学批判性研究力量的修辞工具([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 124]])。
 
 > [!tension] 争议焦点

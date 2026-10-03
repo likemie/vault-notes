@@ -8,10 +8,10 @@ summary: "爱沙尼亚裔公共治理与创新政策学者，伦敦大学学院�
 type: person
 nationality: "estonia"
 person_region: "estonia"
-person_related_count: 20
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 25
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1974"
 died: ""
 lifespan: "1974–至今"
@@ -26,6 +26,8 @@ related_concepts:
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[New Public Management]]"
   - "[[Lead-and-Learn Paradigm]]"
+  - "[[Grand Challenges]]"
+  - "[[Market Failure]]"
   - "[[Open-Mindedness]]"
   - "[[Social Engagement]]"
   - "[[Public Value]]"
@@ -40,12 +42,15 @@ related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Technological Trajectories]]"
   - "[[Three Generations of Mission-Oriented Policy]]"
-related_methods: []
+related_methods:
+  - "[[Cost-Benefit Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Max Weber]]"
   - "[[Mariana Mazzucato]]"
-related_facts: []
+  - "[[Joseph Schumpeter]]"
+related_facts:
+  - "[[Horizon Europe]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
 confidence: high
@@ -66,7 +71,7 @@ updated: 2026-10-03
 > - **代表贡献** 与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）共同开创[[Public Dynamic Capabilities|公共部门动态能力]]理论；系统构建使命导向政策的三代演进理论；提出超越[[New Public Management|新公共管理]]（New Public Management, NPM）狭隘效率观的[[Lead-and-Learn Paradigm|引领与学习范式]]。
 
 > [!citation-card] 21世纪使命导向创新政策与公共动态能力定位
-> 应对21世纪的重大挑战，创新政策必须从既有的支持与衡量方法（寻找市场失灵、用扶持工具修补并衡量其影响）转向引领与学习方法（运用多样化政策工具开辟与塑造具有[[Open-Mindedness|开放性]]影响视野的市场，并通过广泛的社会参与和协调实现组织学习）。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 797–798)]]
+> 应对21世纪的[[Grand Challenges|重大挑战]]，创新政策必须从既有的支持与衡量方法（寻找[[Market Failure|市场失灵]]、用扶持工具修补并衡量其影响）转向引领与学习方法（运用多样化政策工具开辟与塑造具有[[Open-Mindedness|开放性]]影响视野的市场，并通过广泛的社会参与和协调实现组织学习）。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 797–798)]]
 >
 > *To tackle the grand challenges of the 21st century, innovation policy needs to shift from the existing support-and-measure approach (find market failure; fix it with a support instrument; and measure the impact) to innovation policy to lead-and-learn approach (create and shape markets with variety of policy instruments with open-ended impact horizons, and learn through wider [[Social Engagement]] and coordination).*
 
@@ -84,7 +89,7 @@ updated: 2026-10-03
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **2018 — *[[Mission-Oriented Innovation Policy]] and Dynamic Capabilities in the Public Sector*** 系统梳理使命导向创新政策的百年演变历程，将熊彼特企业动态能力与韦伯式国家能力相综合，奠定[[Public Dynamic Capabilities|公共部门动态能力]]的三层分析构架。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]
+> - **2018 — *[[Mission-Oriented Innovation Policy]] and Dynamic Capabilities in the Public Sector*** 系统梳理使命导向创新政策的百年演变历程，将[[Joseph Schumpeter|熊彼特]]企业动态能力与韦伯式国家能力相综合，奠定[[Public Dynamic Capabilities|公共部门动态能力]]的三层分析构架。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]
 > - **2019 — *Innovation Bureaucracy: How Governments Successfully Support Innovation*** 深入剖析公共机构在支持颠覆性创新时如何实现组织重构与敏捷学习，论述创新官僚制的结构形态。
 > - **2023 — *How to Make an Entrepreneurial State: Why Innovation Needs Bureaucracy*** 进一步探讨现代国家如何通过内部技术专业化与能力建设重塑[[Public Value|公共价值]]。
 
@@ -106,8 +111,8 @@ updated: 2026-10-03
 
 > [!influence-path] 影响路径
 > - **理论路径** 沟通了[[Evolutionary Economics|演化经济学]]创新研究与公共行政学国家能力理论，为全球创新政策研究注入组织能力维度。
-> - **政策路径** 直接参与欧盟地平线欧洲（Horizon Europe）重大科技使命设计，为多国政府重塑数字化服务与绿色转型机构提供理论指南。
-> - **组织治理实践** 推动各国公共部门评估机制从静态成本收益分析向[[Reflexivity|反思性]]、实验性评估框架转型。
+> - **政策路径** 直接参与欧盟[[Horizon Europe|地平线欧洲]]（Horizon Europe）重大科技使命设计，为多国政府重塑数字化服务与绿色转型机构提供理论指南。
+> - **组织治理实践** 推动各国公共部门评估机制从静态[[Cost-Benefit Analysis|成本收益分析]]向[[Reflexivity|反思性]]、实验性评估框架转型。
 
 ---
 
@@ -115,7 +120,7 @@ updated: 2026-10-03
 
 > [!person-network] 关系网络
 > - **师承／合作者** [[Mariana Mazzucato]] — 共同领导 UCL IIPP 研究所，联合开创[[Public Dynamic Capabilities|公共部门动态能力]]与[[Mission-Oriented Innovation Policy|使命导向创新政策]]系列理论。
-> - **理论渊源** [[Evolutionary Economics|演化经济学]]（约瑟夫·熊彼特） — 继承演化经济学[[Creativity|创造性]]破坏与[[Technological Trajectories|技术轨道]]理论，拓展至公共部门组织领域。
+> - **理论渊源** [[Evolutionary Economics|演化经济学]]（[[Joseph Schumpeter|约瑟夫·熊彼特]]） — 继承演化经济学[[Creativity|创造性]]破坏与[[Technological Trajectories|技术轨道]]理论，拓展至公共部门组织领域。
 > - **理论渊源** [[Max Weber|马克斯·韦伯]]（Max Weber） — 吸收理性官僚制与精英功绩制思想，探讨国家能力演化。
 
 ---

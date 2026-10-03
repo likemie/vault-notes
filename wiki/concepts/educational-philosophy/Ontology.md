@@ -10,7 +10,7 @@ aliases:
 summary: "关于实在本质的哲学假设，决定研究者如何看待社会现象的存在方式；在教育心理学中，也指代个体对知识属性进行分类的心智认知系统。"
 type: concept
 domain: "educational-philosophy"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Interpretive Paradigm]]"
   - "[[Rich and Thick Description]]"
   - "[[Domain Specificity]]"
+  - "[[Co-invention]]"
   - "[[Externalization]]"
 related_theories:
   - "[[Complexity Theory]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Ontology
@@ -158,7 +159,7 @@ updated: 2026-10-02
 ### 命题三　社会组织是行动者赋予意义并持续发明的建构实在
 
 > [!concept-lens] 组织本体论与实体拜物教的破除
-> 探讨教育组织究竟是具有独立意志的超个体实体，还是人类主体共同发明的社会实在。
+> 探讨教育组织究竟是具有独立意志的超个体实体，还是人类主体[[Co-invention|共同发明]]的社会实在。
 
 > [!claim] Greenfield
 > **组织作为发明的实在** [[Thomas Barr Greenfield\|托马斯·巴尔·格林菲尔德]]（Thomas Barr Greenfield）颠覆了传统管理学将组织视为外在实体客体的实体主义本体论。在诠释社会实在的替代基础中，他指出世界虽然客观存在，但不同的人以极其不同的方式去感知和解释它；学校与组织绝非独立于个体存在的生物有机体或结构实体，而是人类行动者基于特定价值信念发明的社会实在（Greenfield, 1975）。将组织视为拥有自身目标与生命周期的硬质实体，必然导致组织病理学的误诊；唯有认识到组织本体是人类主观意义的[[Externalization\|外化]]，才能找到学校真正变革的实践处方[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 185)]]。

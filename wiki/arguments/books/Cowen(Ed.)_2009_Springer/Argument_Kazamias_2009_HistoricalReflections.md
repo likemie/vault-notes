@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_HistoricalReflections"
 argument_key: "Argument_Kazamias_2009_HistoricalReflections"
 argument_display_title: "Comparative Education: Historical Reflections"
 argument_kind: "book-chapter"
-argument_related_count: 80
+argument_related_count: 81
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -61,6 +61,7 @@ related_concepts:
   - "[[Teaching Assistant]]"
   - "[[Causality]]"
   - "[[Liberal Education]]"
+  - "[[Big Science]]"
   - "[[Return on Investment]]"
   - "[[Problem Solving]]"
   - "[[Hypothesis]]"
@@ -297,7 +298,7 @@ updated: 2026-10-01
 
 在这一时期，追求科学化的学者内部形成了三种不同的研究路径：
 
-> [!tension] 战后三大科学流派在研究取向上的分歧
+> [!tension] 战后三[[Big Science|大科学]]流派在研究取向上的分歧
 > - **芝加哥学派的结构功能分析（强调恒常社会规律）** [[C. Arnold Anderson|阿诺德·安德森]]（C. Arnold Anderson）与[[Philip Foster|菲利普·福斯特]]（Philip Foster）将社会学的功能分析引入教育研究，重点考察学校教育在社会分流、人才选拔和人力资源开发中的客观作用，试图找出不受具体时空限制的教育运行普遍规律；随后乔治·普萨哈罗普洛斯（[[George Psacharopoulos]]）等人更将[[Human Capital Theory|人力资本理论]]推向计量极致，试图以跨国[[Return on Investment|教育投资回报率]]函数建立全球通用的预测模型。（pp.146–147）
 > - **哥大学派的跨国变量因果测算（强调量化实证指标）** [[Harold Noah|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein|马克斯·埃克斯坦]]（Max Eckstein）在 1969 年《走向比较教育科学》中，极力主张用标准化的变量名称替代具体的国别名称，通过[[IEA|国际教育成就评价协会]]（International Association for the Evaluation of Educational Achievement, IEA）等大规模跨国测试数据和多元统计分析，寻找变量之间跨越国界的因果关系。（pp.147–149）
 > - **伦敦学派的情境[[Problem Solving|问题解决]]方法（强调条件限定下的预测）** [[Brian Holmes|布赖恩·霍姆斯]]（Brian Holmes）借鉴波普尔的科学哲学，提出比较研究不能脱离具体的制度背景；科学法则必须结合各国的具体初始条件，才能对教育改革的后果做出审慎的条件性推测。（pp.149–151）

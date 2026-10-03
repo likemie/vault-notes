@@ -10,7 +10,7 @@ aliases:
 summary: "基于争议性、复杂性与不确定性解构社会问题与创新方案，划分二维象限并阐释三条收敛治理路径的政策分析框架"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 20
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -24,8 +24,11 @@ related_concepts:
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Document]]"
   - "[[Wicked Problem]]"
+  - "[[Grand Challenges]]"
   - "[[Transformative System Failures]]"
   - "[[Paradigm]]"
+  - "[[Market Failure]]"
+  - "[[Directionality of Innovation]]"
   - "[[Reflexivity]]"
   - "[[Open-Mindedness]]"
   - "[[Problem Solving]]"
@@ -72,7 +75,7 @@ updated: 2026-10-03
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 伊里斯·万岑伯克（Iris Wanzenböck）、约里·韦瑟林（Joeri H. Wesseling）、科恩·弗伦肯（Koen Frenken）、马尔科·赫克特（Marko P. Hekkert）与 K. 马蒂亚斯·韦伯（K. Matthias Weber）于 2020 年在期刊 *Science and Public Policy* 发表论文 *A framework for [[Mission-Oriented Innovation Policy]]: Alternative pathways through the problem–solution space*，首次系统构建该理论模型。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 474–489)]]
-> - **原初问题** 各国创新政策在转向气候变化、能源转型和公共卫生等重大挑战时，普遍遭遇公众抵触、社会合法性缺失与技术锁定等制度瓶颈，学界缺乏能够诊断挑战属性并指导政策工具组合选择的系统[[Analytic Framework|分析框架]]。
+> - **原初问题** 各国创新政策在转向气候变化、能源转型和公共卫生等[[Grand Challenges|重大挑战]]时，普遍遭遇公众抵触、社会合法性缺失与技术锁定等制度瓶颈，学界缺乏能够诊断挑战属性并指导政策工具组合选择的系统[[Analytic Framework|分析框架]]。
 > - **理论资源与材料** 吸收了 Turnpenny et al.（2009）关于[[Wicked Problem|棘手问题]]三维度（争议性、复杂性、不确定性）的提炼，结合[[Systems of Innovation|创新系统]]中的[[Transformative System Failures|变革性系统失灵]]概念，并运用英国闭路电视监控（Closed-Circuit Television, CCTV）、公共场所禁烟规制以及荷兰陆上风电治理等案例进行比较论证。
 > - **形成路径** 将公共问题端与创新解决方案端分别做发散与收敛的二分处理，构建 $2 \times 2$ 象限空间，并在静态分类基础上引入时间演化与治理干预向量，推导出三条动态收敛路径。
 
@@ -80,7 +83,7 @@ updated: 2026-10-03
 
 > [!thought-timeline] 使命导向创新政策理论的[[Paradigm|范式]]演进
 > - **经典工程使命范式（1960s–1980s）** 以阿波罗登月计划和曼哈顿工程为代表，预设目标共识高度统一、技术可行性清晰且政府作为单一采购方，聚焦自上而下的硬技术工程攻坚。
-> - **系统失灵与社会–技术转型范式（2000s–2010s）** 引入国家创新系统理论与多层级视角（Multi-Level Perspective, MLP），认识到市场失灵之外的制度锁定、基础设施缺失与网络协调失灵，强调方向性（Directionality）引导。
+> - **系统失灵与社会–技术转型范式（2000s–2010s）** 引入国家创新系统理论与多层级视角（Multi-Level Perspective, MLP），认识到[[Market Failure|市场失灵]]之外的制度锁定、基础设施缺失与网络协调失灵，强调方向性（[[Directionality of Innovation|directionality]]）引导。
 > - **二维空间与过程导向治理范式（2020）** 万岑伯克等人融合棘手问题理论，确立问题与方案双向解构的二维空间框架，将政策重心转向多方审议、[[Reflexivity|反思性]]试验与小胜累积的动态收敛治理。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–478)]]
 
 ---

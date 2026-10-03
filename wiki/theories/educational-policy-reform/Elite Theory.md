@@ -8,10 +8,10 @@ aliases:
 summary: "政治学与政策科学核心理论，主张公共政策是由拥有高度同质化利益与价值偏好的少数权力精英自上而下制定；在教育政策中常用于解构国家专家委员会以专业中立为掩护制造排他性科学共识的权力机制。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 23
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 24
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theory
   - policy/educational-policy
@@ -43,6 +43,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Max Weber]]"
+  - "[[Joseph Schumpeter]]"
 related_facts:
   - "[[National Research Council]]"
   - "[[National Reading Panel]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-09-26
+updated: 2026-10-03
 ---
 
 # Elite Theory
@@ -77,7 +78,7 @@ updated: 2026-09-26
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 查尔斯·赖特·米尔斯（C. Wright Mills）在《权力精英》（*The Power Elite*, 1956）中系统确立了现代精英理论框架；拉尔夫·米利班德（Ralph Miliband）在《资本主义社会中的国家》（*The State in Capitalist Society*, 1969）中深化了国家机器与统治阶级精英的人脉与意识形态同质性分析。
 > - **原初问题** 资本主义代议制民主宣称主权在民，但实际公共资源的分配、战争动员与法律规制却始终受控于互通款曲的少数上层阶级。
-> - **理论资源与材料** 吸收了[[Max Weber|马克斯·韦伯]]的科层官僚统治理论、帕累托与莫斯卡的政治精英循环论，以及约瑟夫·熊彼特（Joseph Schumpeter, 1942/1976）关于精英民主与议程操纵的经验经济学批判。
+> - **理论资源与材料** 吸收了[[Max Weber|马克斯·韦伯]]的科层官僚统治理论、帕累托与莫斯卡的政治精英循环论，以及[[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter, 1942/1976）关于精英民主与议程操纵的经验经济学批判。
 > - **形成路径** 从剖析政治高层、军队首脑与跨国企业董事会的核心圈流动入手，证明政策本质上是权力精英实现社会[[Disciplina and Doctrina|规训]]与利益再生产的权威性工具。
 
 ### 后续演变与教育政策拓展

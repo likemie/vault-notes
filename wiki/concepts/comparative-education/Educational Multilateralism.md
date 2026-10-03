@@ -9,7 +9,7 @@ aliases:
 summary: "指由三个及以上主权国家基于普遍行为原则建立的制度化教育协调与援助机制，其历史演进经历了从战后教科文组织主导的有限再分配模式，到后殖民抗争，再到新自由主义防御性与规训性模式的重大范式转型。"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_theories:
   - "[[Institutional Isomorphism]]"
   - "[[World-Systems Theory]]"
 related_methods:
+  - "[[Cost-Benefit Analysis]]"
   - "[[Ethnography]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -54,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Educational Multilateralism
@@ -135,7 +136,7 @@ updated: 2026-10-02
 > 聚焦多边机构在债务危机与[[Structural Adjustment Programs|结构调整]]背景下，如何通过财务约束对边缘国家的教育财政与管理体系进行直接干预。
 
 > [!claim] [[Stephen P. Heyneman|Heyneman, S.]]
-> **成本收益模型的负面效应** 国际金融机构基于成本收益分析与生产函数模型制定的教育援助策略存在严重局限，这类多边框架以量化产出和紧缩财政为核心准绳，对发展中国家实现教育公平与制度稳定造成了深层的负面后果。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
+> **成本收益模型的负面效应** 国际金融机构基于[[Cost-Benefit Analysis|成本收益分析]]与生产函数模型制定的教育援助策略存在严重局限，这类多边框架以量化产出和紧缩财政为核心准绳，对发展中国家实现教育公平与制度稳定造成了深层的负面后果。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 
 > [!claim] Arnove, R. F.
 > **结构依附的再生产** [[International Monetary Fund|国际货币基金组织]]与世界银行等多边机构所倡导的防御性与[[Disciplina and Doctrina|规训]]性合作模式，通过强行推行私有化、去中心化和学券制，削弱了发展中国家建立独立自主公共教育体系的能力，使外生性教育创新反而沦为维持跨国依附体系的机制。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106, 110–111)]]

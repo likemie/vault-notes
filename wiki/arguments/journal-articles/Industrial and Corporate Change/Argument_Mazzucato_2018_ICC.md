@@ -18,12 +18,14 @@ tags:
   - public-policy
   - political-economy
 related_concepts:
+  - "[[Market Failure]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Paradigm]]"
   - "[[Market Shaping and Creating]]"
   - "[[Picking the Willing]]"
   - "[[Innovation Policy Paradigms]]"
   - "[[Hypothesis]]"
+  - "[[Grand Challenges]]"
   - "[[Wicked Problem]]"
   - "[[Public Value]]"
   - "[[Document]]"
@@ -37,6 +39,7 @@ related_concepts:
   - "[[Entrepreneurial University]]"
   - "[[Cognitive Deskilling]]"
   - "[[Citizen Science]]"
+  - "[[Directionality of Innovation]]"
   - "[[Growth]]"
 related_theories:
   - "[[Evolutionary Economics]]"
@@ -47,6 +50,7 @@ related_theories:
   - "[[Punctuated Equilibrium Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Cost-Benefit Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Mariana Mazzucato]]"
@@ -57,9 +61,9 @@ related_facts:
   - "[[National Institutes of Health]]"
   - "[[Department of Energy]]"
   - "[[KfW]]"
-  - "[[Investing in Innovation Program]]"
   - "[[Achieve]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
 sources:
   - "[[sources/Mazzucato_2018_ICC/Mazzucato_2018_ICC|Mazzucato_2018_ICC]]"
 part_of:
@@ -72,7 +76,7 @@ title: "Argument_Mazzucato_2018_ICC"
 argument_key: "Argument_Mazzucato_2018_ICC"
 argument_display_title: "Mission-oriented innovation policies: challenges and opportunities"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -84,7 +88,7 @@ argument_related_color: "#dbeafe"
 ## 研究问题
 
 > [!question]
-> 面对21世纪日益严峻的气候变化、人口老龄化、公共卫生危机与包容性增长难题等重大社会挑战，传统基于新古典福利经济学弥补市场失灵的科技与产业政策在理论解释力与政策工具箱上均陷入困境；公共部门应如何超越消极的拉平赛道与事后补贴思维，构建一套能够主动引导创新方向、塑造并共同创造全新市场、包容探索试错且实现风险与收益对称共享的新一代[[Mission-Oriented Innovation Policy|使命导向型创新政策]]治理[[Paradigm|范式]]？（pp. 803–805）
+> 面对21世纪日益严峻的气候变化、人口老龄化、公共卫生危机与包容性增长难题等重大社会挑战，传统基于新古典福利经济学弥补[[Market Failure|市场失灵]]的科技与产业政策在理论解释力与政策工具箱上均陷入困境；公共部门应如何超越消极的拉平赛道与事后补贴思维，构建一套能够主动引导创新方向、塑造并共同创造全新市场、包容探索试错且实现风险与收益对称共享的新一代[[Mission-Oriented Innovation Policy|使命导向型创新政策]]治理[[Paradigm|范式]]？（pp. 803–805）
 
 > [!claim] 核心主张
 > 马里亚纳·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）指出，经济创新不仅关乎增长的速率，更关乎发展的方向；应对21世纪复杂的重大社会挑战，要求公共政策彻底从被动的市场修复者转变为主动的[[Market Shaping and Creating|市场塑造]]与共创者。公共机构应以重大社会挑战为导向[[Picking the Willing|挑选意愿者]]（Picking the willing），拉动全经济范围内的跨部门协同投资，依托涵盖战略路径、组织能力、动态评估与风险收益共享（Routes, Organizations, Assessment, Risks and rewards, ROAR）的 ROAR [[Analytic Framework|分析框架]]重构政策工具箱，并严格依据五大实施标准将宏大社会挑战转化为自下而上的多元探索项目组合。（pp. 803–812）
@@ -92,7 +96,7 @@ argument_related_color: "#dbeafe"
 > [!concept-lens] 阅读透镜
 > - **对象** 现代国家[[Innovation Policy Paradigms|创新政策范式]]、公共研发与产业资助机构的治理机制、公私合作契约设计，以及重大社会技术系统转型（如德国能源转型规划、欧盟[[Horizon Europe Missions|地平线欧洲战略使命]]）。
 > - **张力** 新古典经济学静态市场失灵修补与防范挤出[[Hypothesis|假设]]，同[[Evolutionary Economics|演化经济学]]动态市场共创与预期挤入机制之间的范式冲突；公共部门承担早期颠覆性研发高风险与私人资本独占商业化垄断暴利之间的制度失衡。
-> - **贡献** 奠定了当代使命导向型创新政策（Mission-Oriented Innovation Policy, MIP）的理论基础，建立了超越市场失灵的新型政策工具箱（ROAR 框架），并为全球重大挑战的使命化落地提供了可操作的遴选标准与组合治理模型。
+> - **贡献** 奠定了当代使命导向型创新政策（Mission-Oriented Innovation Policy, MIP）的理论基础，建立了超越市场失灵的新型政策工具箱（ROAR 框架），并为全球[[Grand Challenges|重大挑战]]的使命化落地提供了可操作的遴选标准与组合治理模型。
 
 ---
 
@@ -107,7 +111,7 @@ argument_related_color: "#dbeafe"
 > | **[[Wicked Problem\|棘手问题理论]]** | 说明气候、老龄化与贫困等21世纪挑战的复杂性、系统交织性与多因性，为组合式探索与跨部门协同提供问题学依据。（pp. 803–804） |
 
 > [!warrant]- 理论如何支撑论证
-> 理论框架植根于[[Evolutionary Economics|演化经济学]]与国家[[Systems of Innovation|创新系统理论]]，将创新活动还原为充满内在不确定性、路径依赖与累积性学习的动态探索过程。新古典市场失灵理论将市场视为天然最优的自发实体，导致公共政策被动局限于修补外部性、提供纯公共品或消除信息不对称；而市场塑造与共创理论揭示了市场本身是由公共与私人力量共同演化建构的制度景观。ROAR 框架在此基础上搭建起从宏观战略方向设置、中观探索型公共组织建设，到微观项目动态评估与公私利益结构重塑的完整逻辑桥梁。（pp. 806–810）
+> 理论框架植根于[[Evolutionary Economics|演化经济学]]与国家[[Systems of Innovation|创新系统理论]]，将创新活动还原为充满内在不确定性、路径依赖与累积性学习的动态探索过程。新古典[[Market Failure|市场失灵理论]]将市场视为天然最优的自发实体，导致公共政策被动局限于修补外部性、提供纯公共品或消除信息不对称；而市场塑造与共创理论揭示了市场本身是由公共与私人力量共同演化建构的制度景观。ROAR 框架在此基础上搭建起从宏观战略方向设置、中观探索型公共组织建设，到微观项目动态评估与公私利益结构重塑的完整逻辑桥梁。（pp. 806–810）
 
 ---
 
@@ -187,7 +191,7 @@ argument_related_color: "#dbeafe"
 ### 论证步骤二　公共部门必须通过市场塑造引领创新方向并以挑选意愿者规避传统寻租弊端
 
 > [!claim] 步骤二核心主张
-> 使命导向政策要求公共部门彻底摆脱新古典经济学被动的弥补市场失灵框架，转向主动的[[Market Shaping and Creating|市场塑造与市场共创]]；在政策实施机制上摒弃对特定企业直接补贴的挑选赢家旧模式，转向以解决重大社会挑战为靶向的[[Picking the Willing|挑选意愿者]]新逻辑。（pp. 805–807）
+> 使命导向政策要求公共部门彻底摆脱新古典经济学被动的弥补[[Market Failure|市场失灵]]框架，转向主动的[[Market Shaping and Creating|市场塑造与市场共创]]；在政策实施机制上摒弃对特定企业直接补贴的挑选赢家旧模式，转向以解决重大社会挑战为靶向的[[Picking the Willing|挑选意愿者]]新逻辑。（pp. 805–807）
 
 #### 1. 以重大社会挑战为靶向挑选意愿者能够倒逼传统产业转型并规避企业游说俘获
 
@@ -214,7 +218,7 @@ argument_related_color: "#dbeafe"
 > - **[[National Institutes of Health|NIH]]** 探索关于生命系统本质与行为的基础知识，并应用这些知识来增进健康、延长寿命、减少疾病与残障。（p. 806）
 
 > [!tension] 市场修复与市场塑造共创范式的根本对质
-> - **市场修复范式（新古典视角）** 假定自由市场天然具有最优配置能力，政策目标是抚平摩擦；依靠事前与事后的静态成本收益分析（Cost-Benefit Analysis, CBA），对国家干预持保守防范态度，严防对私人资本的挤出。（pp. 806–807）
+> - **市场修复范式（新古典视角）** 假定自由市场天然具有最优配置能力，政策目标是抚平摩擦；依靠事前与事后的静态[[Cost-Benefit Analysis|成本收益分析]]（Cost-Benefit Analysis, CBA），对国家干预持保守防范态度，严防对私人资本的挤出。（pp. 806–807）
 > - **市场塑造范式（演化与使命视角）** 主张市场是由公共与私人力量共同演化建构的制度形态；政策目标是开辟全新[[Technological Trajectories|技术轨道]]并创造[[Public Value|公共价值]]（Public Value）；依靠全流程动态监测与[[Reflexivity|反思性]]评估，通过国家早期引领实现对私人资本的战略挤入。（pp. 806–807）
 
 > [!case] 英国广播公司（BBC）对创意产业生态的市场塑造
@@ -229,14 +233,14 @@ argument_related_color: "#dbeafe"
 
 #### 1. 具备试错自主权的公共机构与开发性银行是跨越创新周期的核心支撑
 
-> [!tension] [[Investing in Innovation Program|创新投资]]性质与跨周期耐受力的制度对照
+> [!tension] 创新投资性质与跨周期耐受力的制度对照
 > - **私人风险资本（VC）** 追逐 3–5 年短期退出套利与高额流动性回报；对具有数年至数十年漫长研发周期、高技术不确定性的基础前沿领域缺乏耐性。（pp. 807–808）
 > - **国家[[Patient Capital|耐性资本]]（Patient Capital）** 由具备探索自主权的公共机构与开发性银行提供跨周期、高容错的战略资金，支撑颠覆性技术跨越商业化[[Valley of Death|死亡之谷]]。（pp. 807–808）
 
 > [!policy-context] 开发性银行与使命导向[[Patient Capital|耐性资本]]
 > 在全球清洁能源与可持续技术投资中，[[KfW|德国复兴信贷银行]]（KfW）、欧洲投资银行（EIB）以及巴西开发银行（BNDES）等公共开发性银行承担了关键角色。BNDES 通过设立专门的技术基金（FUNTEC），向巴西国家战略选定的生物质能与绿色技术定向注入[[Patient Capital|耐性资本]]，弥补了商业金融资本的短期逐利缺陷（BNDES, 2012; Louw, 2012; Griffith-Jones & Tyson, 2012）。（pp. 807–808）
 
-> [!feature] [[Public Dynamic Capabilities|公共部门动态能力]]与机构学习（Kattel & Mazzucato, 2018; Cohen & Levinthal, 1990; Johnson, 1992）
+> [!feature] [[Public Dynamic Capabilities|公共部门动态能力]]与机构学习（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]; Cohen & Levinthal, 1990; Johnson, 1992）
 > 实施使命导向政策必须在公共机构内部系统培育[[Public Dynamic Capabilities|公共部门动态能力]]，在探索、投资与实验过程中持续积累[[Absorptive Capacity|吸收能力]]与机构学习（Institutional Learning），并推动公立科研机构与[[Entrepreneurial University|创业型大学]]向解决复杂社会挑战的使命共创枢纽演进，坚决避免因过度依赖私营咨询机构而陷入组织[[Cognitive Deskilling|去技能化]]。（p. 808）
 
 #### 2. 公共资金承担早期高风险时必须通过股权特许权与价格约束分享创新回报
@@ -283,7 +287,7 @@ argument_related_color: "#dbeafe"
 > - **跨学科、跨行业与跨主体协同创新** 突破单一行业框架，拉动自然科学、工程技术、社会科学、传统产业与新兴数字领域的跨界联动。（pp. 811–812）
 > - **多元自下而上的探索方案** 不依赖单一技术或[[Punctuated Equilibrium Theory|政策垄断]]路径，保持开放性，通过自下而上的多样化探索方案形成竞争与互补。（p. 812）
 
-> [!example]- 图1：从重大挑战到具体使命与项目的层级演进（From Challenges to Missions）
+> [!example]- 图1：从[[Grand Challenges|重大挑战]]到具体使命与项目的层级演进（From Challenges to Missions）
 > ![](https://img.mylikemie.icu/sources/Mazzucato_2018_ICC/figures/Mazzucato_2018_ICC_Fig1_Challenges_to_Missions.jpg)
 
 > [!dimension] [[Mission-Oriented Innovation Policy|使命导向创新政策]]的四层金字塔治理架构
@@ -332,8 +336,8 @@ argument_related_color: "#dbeafe"
 
 ## 关键引用
 
-> [!citation-card] 创新的方向性与重大社会挑战
-> 创新不仅有速率，更有其方向：21世纪正日益被应对重大社会、环境与经济挑战的需求所界定。这些有时被称为“重大挑战”，包括气候变化等环境威胁、人口健康福祉关切以及实现可持续与包容性增长的困境。这些问题属于“[[Wicked Problem|棘手问题]]”，因为它们具有复杂性、系统性、相互交织性与紧迫性，需要多元视角的共同洞察。（p. 803）
+> [!citation-card] [[Directionality of Innovation|创新的方向性]]与重大社会挑战
+> 创新不仅有速率，更有其方向：21世纪正日益被应对重大社会、环境与经济挑战的需求所界定。这些有时被称为“[[Grand Challenges|重大挑战]]”，包括气候变化等环境威胁、人口健康福祉关切以及实现可持续与包容性增长的困境。这些问题属于“[[Wicked Problem|棘手问题]]”，因为它们具有复杂性、系统性、相互交织性与紧迫性，需要多元视角的共同洞察。（p. 803）
 >
 > *Innovation has not only a rate but also a direction: the 21st century is becoming increasingly defined by the need to respond to major social, environmental, and economic challenges. Sometimes referred to as “grand challenges,” these include environmental threats like climate change, demographic, health and well-being concerns, and the difficulties of generating sustainable and inclusive [[Growth]]. These problems are “wicked” in the sense that they are complex, systemic, interconnected, and urgent, requiring insights from many perspectives.*
 
@@ -343,7 +347,7 @@ argument_related_color: "#dbeafe"
 > *Missions are about setting concrete directions, which of course must be picked, that is, chosen strategically. The choice is not whether to pick but how: picking directions is not the same thing as “picking winners” in the sense of picking individual firms or sectors. It is about deciding that a transformation must occur in society—and making it happen. The direction will require different missions, which provide a focusing device for the different actors and sectors to collaborate to concretely [[Achieve]] it. Thus missions require picking the willing: those organizations across the economy (in different sectors, including both the public and private sphere) that are “willing” to engage with a societally relevant mission.*
 
 > [!citation-card] [[Market Shaping and Creating|市场塑造]]超越市场修补
-> 使命导向政策体现了一种比单纯修补更为积极主动的政策取向。这要求公共机构有责任主动塑造和创造市场与系统，而不仅仅是修复它们；创造财富，而不仅仅是重新分配财富。在市场失灵框架下，事前分析旨在估算成本收益，事后分析验证是否有效修复；相反，在主动共创市场的使命框架下，需要在创新政策全过程中建立持续且动态的监测与评估。[[Public Value|公共价值]]的概念成为了比公共品更有用的术语，因为使命可以在整个价值链上带来变革，而不局限于正负外部性存在的狭隘领域。（pp. 806–807）
+> 使命导向政策体现了一种比单纯修补更为积极主动的政策取向。这要求公共机构有责任主动塑造和创造市场与系统，而不仅仅是修复它们；创造财富，而不仅仅是重新分配财富。在[[Market Failure|市场失灵]]框架下，事前分析旨在估算成本收益，事后分析验证是否有效修复；相反，在主动共创市场的使命框架下，需要在创新政策全过程中建立持续且动态的监测与评估。[[Public Value|公共价值]]的概念成为了比公共品更有用的术语，因为使命可以在整个价值链上带来变革，而不局限于正负外部性存在的狭隘领域。（pp. 806–807）
 >
 > *And yet missions exemplify a more proactive approach to policy than fixing suggests. It has required public organizations to be responsible for actively shaping and creating markets and systems, not just fixing them, and for creating wealth, not just redistributing it. In a market failure framework, ex ante analysis aims to estimate benefits and costs (including those associated with government failures), while ex post analysis seeks to verify whether the estimates were correct and the market failure successfully addressed. In contrast, a mission-oriented framework, which actively cocreates new markets, requires continuous and dynamic monitoring and evaluation throughout the innovation policy process. The notion of public value becomes a more useful term than a public good, since missions may be transformative across the entire value chain and not be limited to narrow areas where positive and negative externalities exist.*
 
@@ -357,9 +361,9 @@ argument_related_color: "#dbeafe"
 ## 自述局限
 
 > [!warning] 原文自述的理论与政策局限
-> - **复杂难题政策工具箱处于探索期** 虽然使命导向政策在冷战工程领域有丰富案例，但在应对不平等与可持续发展等[[Wicked Problem|复杂社会难题]]时，超越市场失灵的新型工具箱仍需实践检验。（pp. 804–805）
+> - **复杂难题政策工具箱处于探索期** 虽然使命导向政策在冷战工程领域有丰富案例，但在应对不平等与可持续发展等[[Wicked Problem|复杂社会难题]]时，超越[[Market Failure|市场失灵]]的新型工具箱仍需实践检验。（pp. 804–805）
 > - **社会使命选择的民主合法性挑战** 社会使命的界定极具价值争议性，如何构建常态化的公民审议与民主协商机制以确保方向设定的合法性仍需深入研究。（p. 809）
-> - **动态[[Public Value|公共价值]]测量工具匮乏** 公共价值与系统转型溢出效应的测量体系尚不完善，现有行政评估仍严重受制于静态成本收益分析（CBA）的路径依赖。（pp. 809–810）
+> - **动态[[Public Value|公共价值]]测量工具匮乏** 公共价值与系统转型溢出效应的测量体系尚不完善，现有行政评估仍严重受制于静态[[Cost-Benefit Analysis|成本收益分析]]（CBA）的路径依赖。（pp. 809–810）
 > - **公私风险收益共享契约的政治阻力** 在公私合作中落实股权保留、特许权提成与价格管制等共享机制，在现实政治与法律层面面临既得利益集团的强烈抵制。（pp. 809–810）
 
 ---
