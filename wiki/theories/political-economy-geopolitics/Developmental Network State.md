@@ -46,6 +46,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Erica Fuchs]]"
+  - "[[Tony Tether]]"
 related_facts:
   - "[[Ministry of International Trade and Industry]]"
   - "[[DARPA]]"
@@ -123,7 +124,7 @@ updated: 2026-10-04
 > [!theory-proposition] 命题三｜发展型网络国家通过非正式微观制度维持长程战略定力与组织韧性
 > **解释** 尽管发展型网络国家的宏观采办条规与政治领导层会随地缘局势发生周期性摇摆（如从基础研究转向应用交付），但一线项目经理之间基于技术卓越声誉与隐性规范维系的微观非正式机制（前瞻研判、闭门[[Brainstorming|头脑风暴]]、中立背书与机制化退出）具有强大的自适应性与跨周期韧性。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136, 1144–1145)]]
 >
-> **应用实例** 2001 年托尼·瑟瑟出任 DARPA 局长推行保密化与军用化改革期间，尽管学界抗议不断，但项目经理在微系统技术办公室（MTO）内部依然延续了非正式[[Network Governance|网络治理]]机制，成功完成了硅基光子学的战略布局。
+> **应用实例** 2001 年[[Tony Tether|托尼·瑟瑟]]出任 DARPA 局长推行保密化与军用化改革期间，尽管学界抗议不断，但项目经理在微系统技术办公室（MTO）内部依然延续了非正式[[Network Governance|网络治理]]机制，成功完成了硅基光子学的战略布局。
 
 ---
 

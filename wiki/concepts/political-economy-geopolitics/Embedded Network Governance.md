@@ -53,6 +53,7 @@ related_persons:
   - "[[Erica Fuchs]]"
   - "[[Chalmers Johnson]]"
   - "[[Mariana Mazzucato]]"
+  - "[[Tony Tether]]"
 related_facts:
   - "[[DARPA]]"
   - "[[National Science Foundation]]"
@@ -211,7 +212,7 @@ updated: 2026-10-04
 > [!debates] 学术争议
 >
 > > [!axis] “机构已死”论 vs. 非正式制度连续性论
-> > 争论 2001 年后托尼·瑟瑟（Tony Tether）局长改革是否彻底摧毁了经典的 [[DARPA]] 模式。
+> > 争论 2001 年后[[Tony Tether|托尼·瑟瑟]]（Tony Tether）局长改革是否彻底摧毁了经典的 [[DARPA]] 模式。
 > >
 > > - **学术界悲观派（Lazowska & Patterson, 2005）** 计算机科学界顶尖学者向国会痛陈，瑟瑟削减大学非保密基础研究、将主承包商资格限定为老牌军工厂商并推行严格保密审查，标志着孕育互联网的经典开放探索型 DARPA 模式已死。
 > > - **制度连续性派（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）** 实证指出，表层采办流程与合同受资助者结构确实剧烈变动，但项目经理在微观层面识别方向、播撒主题、搭建同侪研讨与背书的嵌入型[[Network Governance|网络治理]]非正式制度依然发挥核心支撑作用。
@@ -241,7 +242,7 @@ updated: 2026-10-04
 ## 应用案例
 
 > [!case] 案例一：超高性能片内纳米光子通信（UNIC）计划的平台整合（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）
-> 在 2000 年代托尼·瑟瑟任期内，面对后摩尔定律时代微处理器芯片功耗与互连延迟瓶颈，[[DARPA]] MTO 启动了 UNIC 计划。项目经理要求由 Sun Microsystems 等老牌系统级系统巨头担任主承包商，将硅光初创企业（Luxtera、Kotura）与顶尖大学实验室（MIT、斯坦福、UCLA）整合成产学攻关联合体。通过设立第一阶段 9 个月硅纳米光子器件验证、第二阶段 2 年片内光网络验证与第三阶段 5.5 年 4400 万美元系统级芯片级光集成合同，项目经理强制跨越竞争对手组织边界开展半年度闭门技术切磋，最终成功推动 Sun Microsystems 实现单芯片集成光互连原型突破。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1142–1144)]]
+> 在 2000 年代[[Tony Tether|托尼·瑟瑟]]任期内，面对后摩尔定律时代微处理器芯片功耗与互连延迟瓶颈，[[DARPA]] MTO 启动了 UNIC 计划。项目经理要求由 Sun Microsystems 等老牌系统级系统巨头担任主承包商，将硅光初创企业（Luxtera、Kotura）与顶尖大学实验室（MIT、斯坦福、UCLA）整合成产学攻关联合体。通过设立第一阶段 9 个月硅纳米光子器件验证、第二阶段 2 年片内光网络验证与第三阶段 5.5 年 4400 万美元系统级芯片级光集成合同，项目经理强制跨越竞争对手组织边界开展半年度闭门技术切磋，最终成功推动 Sun Microsystems 实现单芯片集成光互连原型突破。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1142–1144)]]
 
 > [!case] 案例二：硅锗（SiGe）与应变硅前沿材料的并行动员（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）
 > 在 1990 年代中期，面对硅晶体管速度极限，DARPA MTO 项目经理敏锐识别出 SiGe 材料路线的颠覆性潜力。当时 IBM 的伯纳德·迈耶森（Bernard Meyerson）、MIT 的尤金·菲茨杰拉德（Eugene Fitzgerald）以及 UCLA 的杰森·吴（Jason Woo）三位[[Star Scientists|明星科学家]]各自在独立实验室探索该技术，彼此从未开展学术合作或联合署名专利。DARPA 项目经理利用立项资金主动搭建共同主题，并行资助三位学者的研究，并强制要求他们在定期闭门工作坊中相互展示技术数据，同时立项资助林肯实验室与 IBM 开展绝缘体上硅（SOI）薄膜与厚膜技术的平行对抗实验，最终成功撬动 IBM 与英特尔董事会跟进内部投资，将 SiGe 工艺确立为主流半导体 CMOS 生产线标准。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1140–1142)]]

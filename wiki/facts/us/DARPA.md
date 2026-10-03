@@ -56,6 +56,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Tony Tether]]"
   - "[[Mariana Mazzucato]]"
   - "[[Erica Fuchs]]"
 related_facts:
@@ -102,7 +103,7 @@ updated: 2026-10-04
 > - **1970s — [[Mansfield Amendment 1969|曼斯菲尔德修正案]]与战术隐身突防** 国会通过《曼斯菲尔德修正案》（Mansfield Amendment），强制要求国防研发紧密挂钩直接军事需求；机构改组为国防高级研究计划局（DARPA），重点资助战术防御技术；启动“海弗蓝”（Have Blue）验证机项目，突破机身雷达散射截面积计算理论与吸波材料工艺，最终催生 F-117 隐身攻击机。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
 > - **1980s — 战略计算倡议、VLSI 设计革命与半导体危机应对** 面对日本半导体制造业的激烈竞争，发起战略计算倡议（Strategic Computing Initiative, SCI）；资助超大规模集成电路（Very Large Scale Integration, VLSI）结构化设计方法论革命并创立[[MOSIS|金属氧化物半导体实现服务]]（MOSIS）硅代工原型试验平台；资助加州大学伯克利分校与斯坦福大学开发精简指令集计算机（Reduced Instruction Set Computer, RISC）微处理器架构；主导组建[[Sematech|半导体制造技术战略联盟]]（Semiconductor Manufacturing Technology, SEMATECH）并全力推进全球卫星定位系统（Global Positioning System, GPS）的军民部署。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 180–183)]]
 > - **1990s — 冷战后军民两用转型与微系统基础探索** 在加里·登曼（Gary Denman）、拉里·林恩（Larry Lynn）与弗兰克·费尔南德斯（Frank Fernandez）领导下，DARPA 重点转向军民两用（Dual-use）技术开发与跨学科基础探索；微系统技术办公室（MTO，前身为电子技术办公室 ETO）依托开放广泛领域公告（Broad Area Announcement, [[Broad Agency Announcement|BAA]]），前瞻性资助硅锗（Silicon-Germanium, SiGe）异质结双极晶体管与应变硅材料研发，突破硅基物理极限，为后摩尔时代微处理器奠定核心工艺基石。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138)]]
-> - **2000s — 托尼·瑟瑟采办改革、“弥合鸿沟”与体系级系统集成** 2001 年托尼·瑟瑟（Tony Tether）出任局长，确立“弥合鸿沟”（Bridging the Gap）施政纲领，推行采办机制的激进变革；资助重心由大学转向工业界传统国防巨头（Prime Contractors），引入 12–16 个月硬性里程碑审查（Go/No-Go）与涉密限制；微观层面项目经理继续运用[[Embedded Network Governance|嵌入型网络治理]]攻克 3D 封装与超高性能片内纳米光子通信（UNIC）芯片互连；同期资助敏捷感知认知系统（CALO 项目，孵化出 Siri）并在 2004 与 2005 年举办两届无人车大挑战赛（DARPA Grand Challenge）。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138, 1142–1144)]]
+> - **2000s — [[Tony Tether|托尼·瑟瑟]]采办改革、“弥合鸿沟”与体系级系统集成** 2001 年托尼·瑟瑟（Tony Tether）出任局长，确立“弥合鸿沟”（Bridging the Gap）施政纲领，推行采办机制的激进变革；资助重心由大学转向工业界传统国防巨头（Prime Contractors），引入 12–16 个月硬性里程碑审查（Go/No-Go）与涉密限制；微观层面项目经理继续运用[[Embedded Network Governance|嵌入型网络治理]]攻克 3D 封装与超高性能片内纳米光子通信（UNIC）芯片互连；同期资助敏捷感知认知系统（CALO 项目，孵化出 Siri）并在 2004 与 2005 年举办两届无人车大挑战赛（DARPA Grand Challenge）。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138, 1142–1144)]]
 > - **2010s–至今 — 生物技术拓展与多域分布式协同作战** 设立生物技术办公室（Biological Technologies Office, BTO），在新冠疫情暴发前数年即通过 ADEPT 计划前瞻资助莫德纳（Moderna）等团队研发 mRNA 疫苗平台与核酸药物递送技术；在空战领域推行“小妖精”（Gremlins）低成本无人机群空中回收验证，展示了从[[Big Science|大科学]]狮子形态向多域敏捷分布式网络的演进。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 807)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
 
 ---
@@ -115,7 +116,7 @@ updated: 2026-10-04
 > - **项目经理（Program Managers, PMs）核心制** 全局常设 100 至 120 名拥有深厚学术与工业界洞察的项目经理，推行 3 至 5 年的硬性短期任期轮换制，保持机构内部思维的高频迭代与求知饥渴感。
 > - **外包执行与网络节点定位** 本身不设任何下属实体实验室或测试车间，全部研发任务通过契约合同直接发包给全美顶尖大学、国家实验室、初创企业与工业巨头。
 
-> [!contrast-table] 1990 年代与 2000 年代托尼·瑟瑟任期采办与管理机制对比（[[Argument_Fuchs_2010_RP|Fuchs, 2010, p. 1137]]）
+> [!contrast-table] 1990 年代与 2000 年代[[Tony Tether|托尼·瑟瑟]]任期采办与管理机制对比（[[Argument_Fuchs_2010_RP|Fuchs, 2010, p. 1137]]）
 >
 > | 采办与管理维度 | 1990 年代传统模式（以 SiGe / 应变硅为例） | 2000 年代托尼·瑟瑟改革（以 3D 封装 / UNIC 为例） |
 > |:---------------|:------------------------------------------|:--------------------------------------------------|
@@ -194,7 +195,7 @@ updated: 2026-10-04
 > > - **社会–技术[[Transitology|转型学]]派批评** 理查德·纳尔逊（Richard R. Nelson, 1977）与当代[[Evolutionary Economics|演化经济学]]者指出，DARPA 面对的是技术指标清晰且国防部作为单一最终采购方的“驯服工程”（Tame Problem）；而应对气候变化与公共健康是深嵌于社会制度、多元利益博弈与公民行为模式的[[Wicked Problem|复杂社会难题]]，单纯依靠技术突击难以实现全社会系统变革。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–805)]]
 > > - **三代使命演化派（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）** 指出 DARPA 属于典型的第二代“狮子形态”，其集权突破模式无法直接化解涉及广泛公众参与的第三代“儿童形态”社会挑战；应对 21 世纪难题必须超越单纯复制 PM 机制，进一步引入敏捷原型设计、[[Randomised Controlled Trials|随机对照试验]]与全生命周期反思学习。
 >
-> > [!axis] 托尼·瑟瑟任期采办改革引发的治理争论：采办结构重组 vs. 微观非正式制度连续性
+> > [!axis] [[Tony Tether|托尼·瑟瑟]]任期采办改革引发的治理争论：采办结构重组 vs. 微观非正式制度连续性
 > > 检视 2000 年代初管理转向对机构经典模式的冲击与制度韧性。
 > >
 > > - **计算机学界“DARPA已死”论（Lazowska & Patterson, 2005）** 顶尖大学学者向国会痛陈，局长托尼·瑟瑟削减大学非保密基础研究、限制高校担任主承包商并推行严格保密分类，背离了战后 DARPA 赖以培育互联网与微处理器的开放自由探索基因。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134, 1138)]]
@@ -231,4 +232,4 @@ updated: 2026-10-04
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 详尽剖析 DARPA 及军方机构通过 IPTO 资助阿帕网、VLSI 革命、RISC 架构及高校计算机学科建设，并揭示从早期 COBOL 成功到 1980 年代 Ada 语言受挫所反映的国防采购生命周期边界。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 将 DARPA 深度剖析为第二代[[Big Science|大科学]]使命（狮子形态）的探索型组织典范，系统论述其组织能力优势及向第三代社会挑战迁移时的理论边界。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 将 DARPA 提炼为“去中心化探索型公共组织”的典范，系统论证其在网络构建、风险投资组合管理与主动创造市场方面的治理机制与启示。
-> - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 基于对 DARPA 微系统技术办公室（MTO）在 1992–2008 年间 4 项半导体关键材料技术（SiGe、应变硅、3D封装、集成光子学）资助的长程扎根[[Case Study|案例研究]]，揭示项目经理通过非正式制度重塑研发者社会网络以引导国家[[Technological Trajectories|技术轨道]]，提出[[Embedded Network Governance|嵌入型网络治理]]新[[Paradigm|范式]]并化解学术界关于托尼·瑟瑟改革导致“DARPA之死”的论争。
+> - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 基于对 DARPA 微系统技术办公室（MTO）在 1992–2008 年间 4 项半导体关键材料技术（SiGe、应变硅、3D封装、集成光子学）资助的长程扎根[[Case Study|案例研究]]，揭示项目经理通过非正式制度重塑研发者社会网络以引导国家[[Technological Trajectories|技术轨道]]，提出[[Embedded Network Governance|嵌入型网络治理]]新[[Paradigm|范式]]并化解学术界关于[[Tony Tether|托尼·瑟瑟]]改革导致“DARPA之死”的论争。

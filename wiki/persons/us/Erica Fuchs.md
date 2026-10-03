@@ -44,6 +44,7 @@ related_methods:
   - "[[Case Study]]"
 related_instruments: []
 related_persons:
+  - "[[Tony Tether]]"
   - "[[Mariana Mazzucato]]"
   - "[[David C. Mowery]]"
 related_facts:
@@ -85,7 +86,7 @@ updated: 2026-10-04
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作与思想演进
-> - **2010 — *Rethinking the role of the state in technology development: [[DARPA]] and the case for [[Embedded Network Governance]]***（《重新审视国家在技术发展中的角色：DARPA 与嵌入型[[Network Governance|网络治理]]案例》） 基于对 DARPA 微系统技术办公室在硅锗（SiGe）、应变硅、3D 封装与超高性能片内纳米光子通信（UNIC）芯片互连领域历经 16 年的纵向扎根[[Case Study|案例研究]]，系统梳理 DARPA 建局 50 年来跨越 6 个年代的使命演化，对比 1990 年代与 2000 年代托尼·瑟瑟任期采办制度的激进重组，提出嵌入型[[Network Governance|网络治理]]概念，揭示项目经理（PMs）依托 5 项微观非正式制度重塑研发者社会网络以开辟战略[[Technological Trajectories|技术轨道]]，终结了学术界关于托尼·瑟瑟改革导致“DARPA已死”的争论。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1147)]]
+> - **2010 — *Rethinking the role of the state in technology development: [[DARPA]] and the case for [[Embedded Network Governance]]***（《重新审视国家在技术发展中的角色：DARPA 与嵌入型[[Network Governance|网络治理]]案例》） 基于对 DARPA 微系统技术办公室在硅锗（SiGe）、应变硅、3D 封装与超高性能片内纳米光子通信（UNIC）芯片互连领域历经 16 年的纵向扎根[[Case Study|案例研究]]，系统梳理 DARPA 建局 50 年来跨越 6 个年代的使命演化，对比 1990 年代与 2000 年代[[Tony Tether|托尼·瑟瑟]]任期采办制度的激进重组，提出嵌入型[[Network Governance|网络治理]]概念，揭示项目经理（PMs）依托 5 项微观非正式制度重塑研发者社会网络以开辟战略[[Technological Trajectories|技术轨道]]，终结了学术界关于托尼·瑟瑟改革导致“DARPA已死”的争论。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1147)]]
 > - **2012 — *The impact of location on technology trajectories: Why silicon photonics failed to scale in the US*** 考察全球化生产转移对前沿硬件技术迭代轨迹的结构性制约，论证制造能力的地理分离如何削弱本土研发团队的设计–制造反馈闭环。
 > - **2023 — *Building the analytical foundation for national technology strategy*** 阐述大数据时代如何构建国家关键技术战略评估的情报基础设施，主张将底层微观工程参数、产业链拓扑与宏观经济安全指标紧密融合。
 
@@ -139,7 +140,7 @@ updated: 2026-10-04
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Embedded Network Governance]] | 概念 | 开创性提出该概念，系统界定公共代理人识别方向、播撒主题、促进研讨、第三方背书与适时断乳的五大微观治理机制。 |
-> | [[DARPA]] | 机构 | 实证厘清托尼·瑟瑟（Tony Tether）局长任期内虽发生采办结构巨变，但项目经理层面的非正式治理制度仍保持高度连续性。 |
+> | [[DARPA]] | 机构 | 实证厘清[[Tony Tether\|托尼·瑟瑟]]（Tony Tether）局长任期内虽发生采办结构巨变，但项目经理层面的非正式治理制度仍保持高度连续性。 |
 > | [[Technological Trajectories]] | 理论 | 论证公共代理人如何在纵向碎片化产业中调动[[Network Plasticity\|网络可塑性]]以引导国家前沿技术轨道跃迁。 |
 > | [[Organizational Culture]] | 理论 | 揭示正式管理文化重组与微观非正式制度之间的解耦机制与深层韧性。 |
 > | [[Network Governance]] | 概念 | 将网络治理[[Paradigm\|范式]]引入硬科技前沿创新攻坚，阐明嵌入型公共网络如何克服纵向碎片化产业的协调失灵。 |

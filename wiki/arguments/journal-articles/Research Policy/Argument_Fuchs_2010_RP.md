@@ -51,6 +51,7 @@ related_methods:
 related_instruments:
   - "[[Heilmeier Catechism]]"
 related_persons:
+  - "[[Tony Tether]]"
   - "[[Erica Fuchs]]"
   - "[[George Heilmeier]]"
   - "[[John W. Meyer]]"
@@ -74,7 +75,7 @@ title: "Argument_Fuchs_2010_RP"
 argument_key: "Argument_Fuchs_2010_RP"
 argument_display_title: "Rethinking the role of the state in technology development: DARPA and the case for embedded network governance"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -91,7 +92,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 长期以来，关于政府在科技创新政策中适切角色的学术论战普遍深陷于两大传统阵营的二元对立：新自由主义自由市场派主张国家职能应严格限于税收优惠、普遍补贴与不设定向的基础科研出资，由市场价格机制自发决定技术胜出者；而中央计划与发展型国家学派则主张由国家科层自上而下选定战略产业与技术赢家（Picking winners）。然而，这两种[[Paradigm|范式]]均无法充分解释美国战后高科技产业（如互联网、个人计算机、激光与现代半导体）的核心源头——[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, [[DARPA]]）长达五十年的治理实践。更为棘手的是，在 2001 至 2008 年托尼·瑟瑟（Tony Tether）出任局长期间，DARPA 经历了历史上最剧烈的采办机制改革，将研发资金由大学大幅转移至军工与产业巨头，并推行严苛的阶段性里程碑考核，招致计算机科学学术界关于经典模式已死的强烈抗议。本文旨在解答：国家究竟能否以及如何超越市场放任与科层挑选赢家的二分法，在前沿硬科技领域主动识别并引导[[Technological Trajectories|技术轨道]]？托尼·瑟瑟任期内引发巨大争议的激进重组是否真的终结了 DARPA 的核心运作机制？（pp. 1133–1135）
+> 长期以来，关于政府在科技创新政策中适切角色的学术论战普遍深陷于两大传统阵营的二元对立：新自由主义自由市场派主张国家职能应严格限于税收优惠、普遍补贴与不设定向的基础科研出资，由市场价格机制自发决定技术胜出者；而中央计划与发展型国家学派则主张由国家科层自上而下选定战略产业与技术赢家（Picking winners）。然而，这两种[[Paradigm|范式]]均无法充分解释美国战后高科技产业（如互联网、个人计算机、激光与现代半导体）的核心源头——[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, [[DARPA]]）长达五十年的治理实践。更为棘手的是，在 2001 至 2008 年[[Tony Tether|托尼·瑟瑟]]（Tony Tether）出任局长期间，DARPA 经历了历史上最剧烈的采办机制改革，将研发资金由大学大幅转移至军工与产业巨头，并推行严苛的阶段性里程碑考核，招致计算机科学学术界关于经典模式已死的强烈抗议。本文旨在解答：国家究竟能否以及如何超越市场放任与科层挑选赢家的二分法，在前沿硬科技领域主动识别并引导[[Technological Trajectories|技术轨道]]？[[Tony Tether|托尼·瑟瑟]]任期内引发巨大争议的激进重组是否真的终结了 DARPA 的核心运作机制？（pp. 1133–1135）
 
 > [!claim] 核心主张
 > DARPA 之所以能够在不自上而下指定单一技术赢家的前提下成功开辟颠覆性技术轨道，其根基并不在于表层容易变动的采办合同条规或[[Organizational Culture|组织文化]]话语，而在于项目经理之间长期稳定维系的一套微观非正式制度；在 2001 年前后两任领导期内，尽管受资助对象与宏观合同结构发生剧烈重组，但这套由识别前沿方向、播撒共同主题、工作坊强制知识流动、第三方权威背书以及适时断乳退出构成的非正式治理制度完全稳定延续。据此，科技政策制定必须在传统市场与科层之间引入一个全新的理论范式——[[Embedded Network Governance|嵌入型网络治理]]（Embedded [[Network Governance]]），即具备深厚专业认知并身处网络中心节点的公共代理人，主动依托[[Network Plasticity|网络可塑性]]重塑科学家与企业之间的研发社会网络，以此应对[[Vertical Disintegration|纵向碎片化产业生态]]并引导国家战略技术轨道。（pp. 1133–1135, 1144–1146）
@@ -162,7 +163,7 @@ issuing_organization: ""
 ### 论证步骤一　DARPA 历史演变表明其资助模式始终处于动态调整之中，2000 年代采办改革并非特例
 
 > [!claim] 步骤一核心主张
-> [[DARPA]] 创立五十年来的组织演进表明，机构资助模式并非一成不变，而是随着外部安全环境与国家战略重点周期性调整；2001 年后托尼·瑟瑟推行的严苛考核与产业转向，是应对后冷战与反恐战争时期的组织调适，不应简单等同于核心治理机制的终结。（pp. 1135–1138）
+> [[DARPA]] 创立五十年来的组织演进表明，机构资助模式并非一成不变，而是随着外部安全环境与国家战略重点周期性调整；2001 年后[[Tony Tether|托尼·瑟瑟]]推行的严苛考核与产业转向，是应对后冷战与反恐战争时期的组织调适，不应简单等同于核心治理机制的终结。（pp. 1135–1138）
 
 #### 1. DARPA 在半个世纪中随国家战略需求经历六个阶段的资助重心演变
 
@@ -176,16 +177,16 @@ issuing_organization: ""
 > | **历史阶段** | 基础研究探索 | 军事任务攻坚 | 工业与技术聚焦 | 产业竞争力与国际化 | 军民两用与基础科研 | 转向军事采办交付 |
 > | **执政总统** | 艾森豪威尔 | 肯尼迪 / 约翰逊 | 尼克松 / 福特 / 卡特 | 里根 | 老布什 / 克林顿 | 小布什 (2001–2008) |
 > | **立法与政治环境** | 冷战初启；<br>[[Sputnik Shock 1957\|斯普特尼克危机]] (1957) | 冷战白热化；<br>越南战争爆发 | 越战结束；<br>[[Mansfield Amendment 1969\|曼斯菲尔德修正案 (1969)]]；<br>冷战缓和 | 星球大战计划；<br>应对日本半导体竞争；<br>国家合作研究法 (1984) | 冷战终结；<br>[[Sematech]] 转向国际化自立 (1995)；<br>被批军用转化迟缓 (1997) | 9/11 袭击与反恐战争；<br>阿富汗与伊拉克战事；<br>国家竞争力忧虑；<br>学界抗议削减基础研究 |
-> | **历任局长** | Johnson / Betts | Ruina / Sproull / Herzfeld / Rechtin | Lukasik / [[George Heilmeier\|Heilmeier]] / Fossum | Cooper / Duncan / Colladay / Fields | Reis / Denman / Lynn / Fernandez | Tether (2001–2008) |
+> | **历任局长** | Johnson / Betts | Ruina / Sproull / Herzfeld / Rechtin | Lukasik / [[George Heilmeier\|Heilmeier]] / Fossum | Cooper / Duncan / Colladay / Fields | Reis / Denman / Lynn / Fernandez | [[Tony Tether\|Tether]] (2001–2008) |
 > | **组织治理环境** | 超越军种内耗；<br>防止技术突袭 | 科学价值重于军事；<br>聚焦卓越顶尖人才 | 中期考核与验收；<br>确立技术可交付物（[[Heilmeier Catechism\|海尔迈耶问卷]]） | 战略计算倡议 (1983)；<br>[[Sematech]] (1987)；<br>连接产学界技术金字塔 | 费尔南德斯优先原则：<br>人才、竞争、外联与试验 | 阶段、里程碑与严苛问责；<br>“弥合鸿沟”（Bridging the Gap） |
 
 #### 2. 2000 年代采办机制转向工业界与里程碑考核引发了学术界的强烈争议
 
 > [!policy-design] 采办机制的体制性重构
-> 冷战结束后，美国国防战略倾向于削减常规武器采购并加大军民两用技术研发，DARPA 在 1990 年代维持了对高校高度开放的宽松立项传统；然而 2001 年托尼·瑟瑟出任局长后，全面转向支持可快速交付的防务能力，推行以老牌系统巨头为主承包商、绑定严格阶段里程碑的采办机制。（pp. 1137–1138）
+> 冷战结束后，美国国防战略倾向于削减常规武器采购并加大军民两用技术研发，DARPA 在 1990 年代维持了对高校高度开放的宽松立项传统；然而 2001 年[[Tony Tether|托尼·瑟瑟]]出任局长后，全面转向支持可快速交付的防务能力，推行以老牌系统巨头为主承包商、绑定严格阶段里程碑的采办机制。（pp. 1137–1138）
 
 > [!tension-table] Table 2：DARPA 资助机制在瑟瑟任职前后的对比（1992–2008）
-> | 资助机制维度 | 瑟瑟任职前（Pre-Tether, 1992–2000） | 瑟瑟任职后（Post-Tether, 2001–2008） |
+> | 资助机制维度 | [[Tony Tether\|瑟瑟]]任职前（Pre-Tether, 1992–2000） | [[Tony Tether\|瑟瑟]]任职后（Post-Tether, 2001–2008） |
 > |---|---|---|
 > | **资金投向与主体** | 研发资金主要直接投向顶尖大学实验室的基础研究探索 | 资金大幅从高校转移至工业界，重点扶持具备工程交付能力的老牌系统承包商 |
 > | **项目指南与考核机制** | 采用[[Broad Agency Announcement\|广泛领域公告（BAA）]]，对项目终极指标几乎不设中途行政制衡 | 实行多阶段招标（周期通常为 12–16 个月），后续拨款直接与预设可交付物的淘汰性（Go/No-Go）审查硬性挂钩 |
@@ -279,7 +280,7 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **微观非正式制度的长期连续性破除“[[DARPA]]已死”论** 托尼·瑟瑟任期内尽管宏观采办机制剧烈重构（研发重心由大学转向工业承包商、招标由开放 [[Broad Agency Announcement|BAA]] 转向严苛多阶段里程碑），但项目经理在微观层面所依赖的识别方向、播撒主题、工作坊强制知识流动、第三方背书与适时断乳等五大非正式治理制度完全稳定延续。（pp. 1133–1135, 1144）
+> 1. **微观非正式制度的长期连续性破除“[[DARPA]]已死”论** [[Tony Tether|托尼·瑟瑟]]任期内尽管宏观采办机制剧烈重构（研发重心由大学转向工业承包商、招标由开放 [[Broad Agency Announcement|BAA]] 转向严苛多阶段里程碑），但项目经理在微观层面所依赖的识别方向、播撒主题、工作坊强制知识流动、第三方背书与适时断乳等五大非正式治理制度完全稳定延续。（pp. 1133–1135, 1144）
 > 2. **公共代理人超越传统经纪人展现网络重塑能动性** 项目经理并非被动等待资助申请的“开窗者”，亦非中立的[[Boundary Spanner|边界跨越者]]，而是依托自身技术判断与网络中央节点地位，主动利用“[[Network Plasticity|网络可塑性]]”打破科学家壁垒、编排跨界竞合团队的“系统集成者”与“乐队指挥家”。（pp. 1144–1145）
 > 3. **确立[[Embedded Network Governance|嵌入型网络治理]]作为国家科技政策全新[[Paradigm|范式]]** 嵌入型[[Network Governance|网络治理]]突破了自由市场放任与自上而下指定赢家的传统二元对立，为国家在面对[[Vertical Disintegration|纵向碎片化高科技产业]]、协调长周期战略共性技术平台提供了不可替代的治理工具。（pp. 1133, 1146）
 
