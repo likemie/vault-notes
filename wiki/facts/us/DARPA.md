@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[Big Science]]"
   - "[[Market Shaping and Creating]]"
+  - "[[Embedded Network Governance]]"
   - "[[Technology Transfer Office]]"
   - "[[Falsification]]"
   - "[[Paradigm]]"
@@ -39,6 +40,7 @@ related_concepts:
   - "[[Wicked Problem]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Valley of Death]]"
+  - "[[Network Governance]]"
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Organizational Culture]]"
@@ -48,11 +50,13 @@ related_theories:
   - "[[ROAR Framework]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Case Study]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"
+  - "[[Erica Fuchs]]"
 related_facts:
   - "[[Sputnik Shock 1957]]"
   - "[[MOSIS]]"
@@ -64,10 +68,11 @@ related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Mowery_2011_NBER]]"
+  - "[[Argument_Fuchs_2010_RP]]"
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # DARPA
@@ -92,7 +97,8 @@ updated: 2026-10-03
 > [!dev-timeline] 组织发展与技术突破历程
 > - **1958–1960s — 太空竞争与计算机科学建制奠基** 早期短暂主导美国航天计划（后移交美国国家航空航天局 [National Aeronautics and Space Administration, NASA]）；1962 年设立信息处理技术办公室（Information Processing Techniques Office, IPTO），资助分时操作系统、计算机图形学与网络分组交换技术，直接催生阿帕网（ARPANET），并重点支持麻省理工学院、斯坦福大学、卡内基梅隆大学、加州大学伯克利分校与犹他大学等高校计算机科学系所的基础研发与人才培养。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 175–176, 183)]]
 > - **1970s–1980s — 隐身突防、微电子 VLSI 革命与精简指令集微处理器** 资助“海弗蓝”（Have Blue）隐形战斗机先驱项目并最终催生 F-117 隐身机；主导超大规模集成电路（Very Large Scale Integration, VLSI）结构化设计方法论革命并建立[[MOSIS|金属氧化物半导体实现服务]]（MOSIS）硅代工原型试验网；资助加州大学伯克利分校与斯坦福大学研发精简指令集计算机（Reduced Instruction Set Computer, RISC）微处理器架构；发起战略计算倡议（Strategic Computing Initiative, SCI），直接催化了全球卫星定位系统（Global Positioning System, GPS）的军事部署与民用开放。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 180–183)]]
-> - **1990s–2000s — 人工智能与无人自主系统攻坚** 资助感知认知计算计划，催生智能语音助手原型（CALO 项目，后衍生为苹果 Siri）；2004 与 2005 年举办两届 DARPA 自动驾驶大挑战赛（DARPA Grand Challenge），直接点燃了全球现代无人驾驶汽车产业。
+> - **1990s — 冷战后军民两用与微电子基础探索** 在加里·登曼（Gary Denman）、拉里·林恩（Larry Lynn）与弗兰克·费尔南德斯（Frank Fernandez）领导下，DARPA 重点转向军民两用（Dual-use）技术与基础生物学资助；微系统技术办公室（MTO，前身为电子技术办公室 ETO）维持对大学开放的广泛领域公告（Broad Area Announcement, BAA），资助硅锗（Silicon-Germanium, SiGe）与应变硅材料研发，为后摩尔时代微处理器架构奠定材料工艺基础。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138)]]
+> - **2000s — 托尼·瑟瑟改革、“弥合鸿沟”与自主系统攻坚** 2001 年托尼·瑟瑟（Tony Tether）出任局长并确立“弥合鸿沟”（Bridging the Gap）口号；采办机制发生重大转向，资助重心由大学转向工业界老牌系统巨头主承包商，引入 12–16 个月硬性里程碑审查（Go/No-Go）与团队分包制，虽遭计算机科学界关于扼杀自由探索的强烈抗议，但在微观层面仍通过[[Embedded Network Governance|嵌入型网络治理]]推动 3D 封装与超高性能片内纳米光子通信（UNIC）攻关；同期资助感知认知计算（CALO 项目，衍生出 Siri）并在 2004 与 2005 年举办两届无人车大挑战赛（DARPA Grand Challenge）。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138, 1142–1144)]]
 > - **2010s–至今 — 合成生物学与多域分布式作战** 设立生物技术办公室（Biological Technologies Office, BTO），在新冠疫情暴发前数年即通过 ADEPT 计划前瞻性资助莫德纳（Moderna）等公司开发 mRNA 疫苗与核酸平台；资助“小妖精”（Gremlins）无人机母舰空中回收等分布式协同战术装备。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 807)]]
 > - **2018 — 三代使命演进中的狮子形态定位** 莱纳·[[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]系统将 DARPA 归纳为第二代[[Big Science|大科学]]攻坚（狮子形态）的巅峰代表，指出其依托垂直军民采购网络与探索型[[Organizational Culture|组织文化]]，实现了硬科技工程的颠覆性突破。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
 
@@ -110,6 +116,7 @@ updated: 2026-10-03
 > - **组合式风险管理与快速止损机制** 借鉴风险投资的组合管理逻辑，预设多数探索性项目可能遭遇挫折；一旦技术路线被[[Falsification|证伪]]则迅速终止，不追究个人责任，而将失败数据沉淀为后续探索的知识资产。
 > - **非专有探索与广泛成果公开机制** 在早期计算机体系结构与软件资助中，DARPA 与军方普遍坚持研究成果向学术界与产业界公开出版，打破狭隘军事保密封锁，促进了跨机构技术流动与共性技术扩散。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 173–174)]]
 > - **充当催化型领头投资人（Lead Investor）与早期采购客户** 覆盖从基础原理探索、工程样机制造到政府高风险首购的全创新链条，为私营资本望而却步的高风险技术开辟早期市场。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
+> - **[[Embedded Network Governance|嵌入型网络治理]]与研发社会网络重塑** 项目经理凭借技术专业洞察与网络中心节点地位，扮演“乐队指挥家”与“系统集成者”角色，通过识别前沿方向、播撒共同主题、组织闭门工作坊打破企业与学术壁垒以强制知识流动、提供第三方声誉背书以及严格断乳退出，主动运用网络可塑性开辟国家战略[[Technological Trajectories|技术轨道]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1144–1146)]]
 
 ---
 
@@ -172,6 +179,12 @@ updated: 2026-10-03
 > >
 > > - **社会–技术[[Transitology|转型学]]派批评** 理查德·纳尔逊（Richard R. Nelson, 1977）与当代[[Evolutionary Economics|演化经济学]]者指出，DARPA 面对的是技术指标清晰且国防部作为单一最终采购方的“驯服工程”（Tame Problem）；而应对气候变化与公共健康是深嵌于社会制度、多元利益博弈与公民行为模式的[[Wicked Problem|复杂社会难题]]，单纯依靠技术突击难以实现全社会系统变革。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–805)]]
 > > - **三代使命演化派（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）** 指出 DARPA 属于典型的第二代“狮子形态”，其集权突破模式无法直接化解涉及广泛公众参与的第三代“儿童形态”社会挑战；应对 21 世纪难题必须超越单纯复制 PM 机制，进一步引入敏捷原型设计、[[Randomised Controlled Trials|随机对照试验]]与全生命周期反思学习。
+>
+> > [!axis] 托尼·瑟瑟任期采办改革引发的治理争论：采办结构重组 vs. 微观非正式制度连续性
+> > 检视 2000 年代初管理转向对机构经典模式的冲击与制度韧性。
+> >
+> > - **计算机学界“DARPA已死”论（Lazowska & Patterson, 2005）** 顶尖大学学者向国会痛陈，局长托尼·瑟瑟削减大学非保密基础研究、限制高校担任主承包商并推行严格保密分类，背离了战后 DARPA 赖以培育互联网与微处理器的开放自由探索基因。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134, 1138)]]
+> > - **非正式制度连续性论（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）** [[Erica Fuchs|埃丽卡·福克斯]]的实证追踪表明，尽管宏观资助重心与合同机制剧烈变动，但项目经理在微观层面所依赖的识别方向、播撒主题、同侪工作坊、第三方背书与适时断乳等非正式治理制度依然保持高度稳定，展现了[[Embedded Network Governance|嵌入型网络治理]]抵御上层政策波动的深层制度韧性。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1144–1146)]]
 
 ---
 
@@ -181,6 +194,7 @@ updated: 2026-10-03
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
+> | [[Embedded Network Governance]] | Concept | 揭示 DARPA 项目经理通过非正式制度重塑研发者社会网络的微观治理机制。 |
 > | [[Mission-Oriented Innovation Policy]] | Concept | DARPA 是二战后第二代[[Big Science\|大科学]]使命导向型创新政策的最成功实践标杆。 |
 > | [[Three Generations of Mission-Oriented Policy]] | Theory | 将 DARPA 归纳为冷战大科学攻坚（狮子形态）的代表性理论框架。 |
 > | [[Demand-side Innovation Policy]] | Concept | DARPA 早期采购合同与标准设立是需求侧创新政策塑造新兴产业的经典体现。 |
@@ -193,6 +207,7 @@ updated: 2026-10-03
 > | [[National Science Foundation]] | Fact (Organization) | 与 DARPA 共同支撑了战后美国大学计算机科学系所与基础设施的建制化。 |
 > | [[Evolutionary Economics]] | Theory | 解释 DARPA 容错试错、路径搜索与变异选择机制的底层经济学理论。 |
 > | [[Valley of Death]] | Concept | DARPA 通过全链条资助与早期采购帮助前沿成果跨越的产业转化鸿沟。 |
+> | [[Erica Fuchs]] | Person | 开展长程[[Case Study\|案例研究]]并提出嵌入型[[Network Governance\|网络治理]]理论的学者。 |
 
 ---
 
@@ -202,3 +217,4 @@ updated: 2026-10-03
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 详尽剖析 DARPA 及军方机构通过 IPTO 资助阿帕网、VLSI 革命、RISC 架构及高校计算机学科建设，并揭示从早期 COBOL 成功到 1980 年代 Ada 语言受挫所反映的国防采购生命周期边界。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 将 DARPA 深度剖析为第二代[[Big Science|大科学]]使命（狮子形态）的探索型组织典范，系统论述其组织能力优势及向第三代社会挑战迁移时的理论边界。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 将 DARPA 提炼为“去中心化探索型公共组织”的典范，系统论证其在网络构建、风险投资组合管理与主动创造市场方面的治理机制与启示。
+> - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 基于对 DARPA 微系统技术办公室（MTO）在 1992–2008 年间 4 项半导体关键材料技术（SiGe、应变硅、3D封装、集成光子学）资助的长程扎根[[Case Study|案例研究]]，揭示项目经理通过非正式制度重塑研发者社会网络以引导国家[[Technological Trajectories|技术轨道]]，提出[[Embedded Network Governance|嵌入型网络治理]]新[[Paradigm|范式]]并化解学术界关于托尼·瑟瑟改革导致“DARPA之死”的论争。

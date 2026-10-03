@@ -8086,6 +8086,17 @@
     ]
   },
   {
+    "title": "Embedded Network Governance",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Embedded Network Governance.md",
+    "aliases": [
+      "嵌入式网络治理",
+      "嵌入型网络治理",
+      "网络架构重塑",
+      "re-architecting social networks"
+    ]
+  },
+  {
     "title": "Epistemic Coloniality",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md",
@@ -21863,6 +21874,18 @@
     ]
   },
   {
+    "title": "Erica Fuchs",
+    "type": "person",
+    "path": "wiki/persons/us/Erica Fuchs.md",
+    "aliases": [
+      "埃丽卡·福克斯",
+      "埃里卡·福克斯",
+      "Erica R. H. Fuchs",
+      "Fuchs, E. R. H.",
+      "E. R. H. Fuchs"
+    ]
+  },
+  {
     "title": "Ernst von Glasersfeld",
     "type": "person",
     "path": "wiki/persons/us/Ernst von Glasersfeld.md",
@@ -30735,6 +30758,11 @@
     "title": "Argument_Rappleye_2006_RCIE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Rappleye_2006_RCIE.md"
+  },
+  {
+    "title": "Argument_Fuchs_2010_RP",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Research Policy/Argument_Fuchs_2010_RP.md"
   },
   {
     "title": "Argument_Pavitt_1984_RP",

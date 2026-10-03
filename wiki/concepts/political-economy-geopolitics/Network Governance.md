@@ -37,6 +37,7 @@ related_concepts:
   - "[[Deductible Gift Recipient]]"
   - "[[Performance Indicators]]"
   - "[[Educational Management Organisation]]"
+  - "[[Embedded Network Governance]]"
   - "[[New Public Management]]"
   - "[[Critical Pedagogy]]"
   - "[[Philanthrocapitalism]]"
@@ -48,17 +49,20 @@ related_concepts:
   - "[[Lifelong Learning]]"
 related_theories:
   - "[[Governing at a Distance]]"
+  - "[[Technological Trajectories]]"
   - "[[Neocorporatism]]"
   - "[[Pluralism]]"
 related_methods:
   - "[[Network Analysis]]"
+  - "[[Case Study]]"
   - "[[Network Ethnography]]"
   - "[[Effect Size]]"
   - "[[Semi-structured Interview]]"
   - "[[Documentary Analysis]]"
   - "[[Discourse Analysis]]"
-  - "[[Case Study]]"
   - "[[Process Tracing]]"
+  - "[[Grounded Theory]]"
+  - "[[Triangulation]]"
   - "[[Correlational Research]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
@@ -67,6 +71,7 @@ related_persons:
   - "[[Robin Alexander]]"
   - "[[Alec Peterson]]"
   - "[[Mariana Mazzucato]]"
+  - "[[Erica Fuchs]]"
   - "[[Stephen Ball]]"
 related_facts:
   - "[[DARPA]]"
@@ -86,11 +91,12 @@ related_arguments:
   - "[[Argument_Rowe_2023_ECNUROE]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch05]]"
+  - "[[Argument_Fuchs_2010_RP]]"
   - "[[Argument_Peterson_1987_OpenCourt]]"
 confidence: high
 status: stable
 created: 2026-05-04
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # Network Governance
@@ -210,6 +216,9 @@ updated: 2026-10-03
 > [!claim] Mazzucato, M.
 > **去中心化探索型公共网络的创新机制** [[Mariana Mazzucato|马祖卡托]]指出，应对21世纪重大社会挑战（如气候变化、公共健康）要求国家超越垂直指令或单纯将研发外包给商业咨询公司的做法，构建具备内部动态能力的“去中心化探索型公共网络”（如 [[DARPA]]、ARPA-E）。在这种网络化治理中，公共部门充当领头投资人并设立宏观战略使命方向，同时赋予去中心化项目团队极大的立项、试错与快速止损自主权，激励大学、国家实验室与私营企业开展自下而上的多元技术路线探索，实现战略集中与战术分散的有机统合。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 
+> [!claim] [[Erica Fuchs|Fuchs, E. R. H.]]
+> **[[Embedded Network Governance|嵌入型网络治理]]与研发网络的架构重塑** [[Erica Fuchs|埃丽卡·福克斯]]指出，去中心化探索网络能够成功引导国家战略[[Technological Trajectories|技术轨道]]，关键在于公共代理人依托其专业威望与网络中心位置实施“嵌入型网络治理”。项目经理不仅消极撮合产学研合作，更主动运用网络可塑性（Network plasticity），通过识别前沿方向、播撒共同主题、组织闭门工作坊打破企业专有技术壁垒以强制知识横向流动、提供第三方声誉背书以及严格断乳退出，在不挑选单一赢家的前提下重塑研发者社会网络，克服了纵向碎片化产业生态中长期平台协调失灵的结构性困境。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1144–1146)]]
+
 ---
 
 ### 命题四　网络治理若缺乏内部动态能力将导致公共智识外包与民主问责赤字
@@ -229,7 +238,7 @@ updated: 2026-10-03
 > |---|---|---|---|
 > | **组织交付重构命题** | 网络治理通过公私伙伴、合同外包与多元主体协同置换单一科层垄断 | 公立学校服务采购、跨国书院组织与公立办学体制多元化 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]]; [[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987)]] |
 > | **异层国家缔造命题** | 国家并未空心化退场，而是运用立法特许与财政注入成为网络的市场缔造者 | 风险慈善兴起、税法修正特许与国家科研中介机构创设 | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]; Ball (2007) |
-> | **探索网络使命命题** | 去中心化探索网络能够统合国家顶层战略使命与微观多元试错 | 重大科技攻坚、ARPA-E 清洁能源转型与[[DARPA\|DARPA]] 模式扩散 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
+> | **探索网络使命命题** | 去中心化探索网络与嵌入型网络治理能够统合顶层战略使命与微观多元试错 | 重大科技攻坚、后摩尔半导体材料、[[DARPA\|DARPA]] 模式扩散 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]]; [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] |
 > | **能力侵蚀与问责赤字命题** | 过度外包商业咨询抽空国家动态能力，公司法外壳规避公众监督与民主问责 | 教育与科技外包批判、科研议程闭环与公共能力空心化 | Ball (2012); Rhodes (2017) |
 
 ---
@@ -239,6 +248,7 @@ updated: 2026-10-03
 > [!dev-timeline] 概念演变
 > - **1990s — 组织社会学起源与[[New Public Management|新公共管理]]（NPM）反思** 汤普森（Grahame Thompson, 1991）、鲍威尔（Walter W. Powell, 1990）与罗兹（R. A. W. Rhodes, 1996）提出将网络视作区别于市场与科层的第三种组织形态，界定其核心为信任、互赖与非层级协商；同时代学者断言跨国网络化导致了“国家空心化”（Hollowing out of the state）。
 > - **2000s — 全球教育[[Policy Network|政策网络]]与私有化浪潮** [[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）将网络治理正式引入[[Critical Pedagogy|批判教育学]]研究，指出新自由主义推进了公立教育的异质层级（Heterarchy）转型，新公共治理不再是国家统治的终结，而是国家借助商业资本与政策网络推行企业化运作的技术。
+> - **2010 — [[Embedded Network Governance|嵌入型网络治理]]与网络架构重塑** [[Erica Fuchs|埃丽卡·福克斯]]提出[[Embedded Network Governance|嵌入型网络治理]]，基于对 [[DARPA]] 长期资助半导体关键材料的扎根[[Case Study|案例研究]]，揭示公共代理人如何主动运用网络可塑性重塑研发者社会网络以引导国家战略[[Technological Trajectories|技术轨道]]，突破了传统网络治理中将国家仅视作消极撮合中介的理论局限。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135)]]
 > - **2010–2019 — 超国家指标化与国家制度杂合实证** 欧盟与[[OECD|经合组织]]将[[Performance Indicators|绩效指标]]转化为远程[[Disciplina and Doctrina|规训]]网络；奥尼尔等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）解构了新西兰九大公私混合治理工程，兰布拉（[[Argument_Rambla_2022_Springer|Rambla, 2022]]）实证揭示了欧洲大陆官僚科层与网络化治理的制度杂合形态。
 > - **2018 — 演化创新政策与去中心化探索网络** [[Mariana Mazzucato|马祖卡托]]在《工业与企业变迁》中提出，网络治理在科技领域应体现为具备内部动态能力的“去中心化探索网络”（Decentralized Explorative Networks），既防止公共智识外包沦为新公共管理牺牲品，又通过战略方向引领激发自下而上的技术创新。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 > - **2020s — [[Philanthrocapitalism|慈善资本主义]]与异层国家实践解构** 埃玛·罗威（Emma Rowe, 2022, 2023）通过[[Network Ethnography|网络民族志]]与社会-物质[[Assemblage|装配理论]]，深入解构澳大利亚[[Venture Philanthropy|风险慈善]]中介的长程演化，证实国家并未空心化，而是积极通过立法特许避税与财政补贴充当异层市场的缔造者与担保人。
@@ -326,6 +336,7 @@ updated: 2026-10-03
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | 新西兰基础教育系统（2001–2016 年 9 项关键公私改革实践与法律文本） | 政策文本[[Discourse Analysis\|话语分析]]与历时制度追踪 | 私营部门参与度；政策核心词频演变；[[Public-Private Partnership in Research\|PPP]] 合同规模 | 记录 9 项核心公私合作实例；国家政策文本全面剔除“国家资助与提供”，全面转为“国家补贴”与“[[Social Impact Investing\|社会投资]]”；涉及数亿美元的 PPP 与采购合同转包 | — | 系统论证网络治理如何通过修辞重构与制度突破，将私营资本财产权植入公共教育 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 澳大利亚公立教育[[Policy Network\|政策网络]]与[[Venture Philanthropy\|风险慈善]]中介（SVA 辐射 20 年网络，2002–2021） | 监管档案调档、税法修正案追踪与 Gephi 拓扑分析 | 咨询外包公共支出；组织四层控股架构；法定特许审批 | 联邦管理咨询公共支出居全球首位（人均）；揭示 4 层控股网络；通过《1997年所得税评估法》修正特许 [[Deductible Gift Recipient\|DGR1]] 免税资质；撬动 5000 万澳元政府联合注资 | — | 确证国家在网络治理中演进为异层市场缔造者与制度担保人，推翻国家单纯空心化假说 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987)]] | [[United World Colleges\|联合世界书院]]（UWC）跨国分层治理体系（1962–1987 历史档案） | 历史制度主义[[Case Study\|案例研究]]与长程[[Process Tracing\|过程追踪]] | 治理节点协同度；跨国奖学金与资金分担比重 | 跨国网络涵盖数十个国家选拔委员会与多所独立自治书院，通过分层协议实现无中心科层的跨国持续协调 | — | 展现网络治理在跨国教育自治共同体中兼顾文化多样性与核心使命统一性的制度有效性 |
+> | [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] | [[DARPA]] 微系统技术办公室 1992–2008 年资助的 4 项半导体关键材料技术（50 场深度访谈、专利履历比对与田野观察） | 纵向[[Grounded Theory\|扎根理论]]案例研究与[[Triangulation\|三角互证]]法 | 资助模式；主承包商结构；项目经理 5 项微观治理机制 | 证实 2001 年后采办主承包商由大学转向老牌企业，引入硬性里程碑；但 PM 识别方向、播撒主题、工作坊强制知识流动、第三方背书与断乳等 5 项治理机制跨越两任领导期稳定延续 | — | 揭示[[Embedded Network Governance\|嵌入型网络治理]]在应对纵向碎片化高科技产业中的制度连续性与网络重塑功能 |
 
 ---
 
@@ -333,6 +344,7 @@ updated: 2026-10-03
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 论述如何通过“去中心化探索型公共网络”（如 [[DARPA]]、ARPA-E）实现使命导向攻坚，并尖锐批判将核心智识外包给商业咨询公司所导致的国家去能力化风险。
+> - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 基于对 DARPA MTO 在 1992 至 2008 年间 4 项半导体关键技术资助的长程扎根[[Case Study|案例研究]]，首次提出[[Embedded Network Governance|嵌入型网络治理]][[Paradigm|范式]]，阐明公共代理人如何主动重塑研发社会网络以引导国家战略[[Technological Trajectories|技术轨道]]。
 > - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 结合 Gephi 网络拓扑与税法追踪，深入剖析澳大利亚[[Venture Philanthropy|风险慈善]]网络如何依托异层国家实践改写公共教育再分配。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统检视新西兰基础教育向网络治理转型过程中，话语变迁与 9 大公私化改革实例。
 > - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 基于欧盟 [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]实证解析欧洲大陆官僚科层与网络治理的复杂杂合形态与指标远程[[Disciplina and Doctrina|规训]]。

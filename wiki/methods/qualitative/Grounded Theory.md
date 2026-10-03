@@ -51,6 +51,7 @@ related_concepts:
   - "[[Causal Processes]]"
   - "[[Concept Mapping]]"
   - "[[Scaffolding]]"
+  - "[[Embedded Network Governance]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Phenomenology]]"
@@ -79,16 +80,18 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
+  - "[[Argument_Fuchs_2010_RP]]"
 confidence: high
 status: stable
 created: 2026-05-30
-updated: 2026-09-24
+updated: 2026-10-04
 ---
 
 # Grounded Theory
@@ -277,3 +280,4 @@ updated: 2026-09-24
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011)]] — 整合第 30 章[[Coding in Qualitative Research\|编码]]三阶进阶与[[Story Line\|故事线]]规程、第 28 章计算机辅助理论生成及第 29 章[[Constant Comparison\|持续比较法]]，系统剖析扎根理论从经验切片到[[Central Phenomenon\|核心范畴]]构建的操作规程与去情境化防范。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 阐释扎根理论聚焦社会互动过程的[[Research Question\|研究问题]]设计逻辑，系统论述基于[[Theoretical Sampling\|理论抽样]]与多阶段编码生成实质性解释理论的完整研究规程（Ch. 1, 7, 9）。
+> - [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] — 采用扎根理论构建方法（Eisenhardt, 1989; Glaser & Strauss, 1967），针对 [[DARPA]] 微系统技术办公室跨越 16 年的半导体关键材料资助案例展开概念化编码与持续比较，自下而上提炼出公共代理人识别方向、播撒主题、工作坊强制知识流动、第三方背书与断乳等 5 项核心非正式治理机制，建构出[[Embedded Network Governance|嵌入型网络治理]]实质性理论。
