@@ -10416,6 +10416,18 @@
     ]
   },
   {
+    "title": "Assured Demand",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Assured Demand.md",
+    "aliases": [
+      "确定性需求",
+      "保证性需求",
+      "保障性采购需求",
+      "guaranteed demand",
+      "guaranteed market"
+    ]
+  },
+  {
     "title": "Basic-Applied Research Dichotomy",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Basic-Applied Research Dichotomy.md",
@@ -10698,6 +10710,19 @@
       "第二货源许可",
       "第二来源供货",
       "Second sourcing"
+    ]
+  },
+  {
+    "title": "Technological Conservatism in Mission Programs",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Technological Conservatism in Mission Programs.md",
+    "aliases": [
+      "使命项目中的技术保守主义",
+      "保守型器件选型",
+      "任务保守性与前沿加速悖论",
+      "conservative component selection",
+      "technological conservatism",
+      "mission program paradox"
     ]
   },
   {
@@ -22092,6 +22117,18 @@
     ]
   },
   {
+    "title": "Jerome E. Schnee",
+    "type": "person",
+    "path": "wiki/persons/us/Jerome E. Schnee.md",
+    "aliases": [
+      "杰罗姆·E·施尼",
+      "杰罗姆·施尼",
+      "施尼",
+      "Schnee, J. E.",
+      "Jerome Schnee"
+    ]
+  },
+  {
     "title": "Jianwei Zhang",
     "type": "person",
     "path": "wiki/persons/us/Jianwei Zhang.md",
@@ -22139,6 +22176,18 @@
       "Dewey, J.",
       "约翰·杜威",
       "杜威"
+    ]
+  },
+  {
+    "title": "John E. Tilton",
+    "type": "person",
+    "path": "wiki/persons/us/John E. Tilton.md",
+    "aliases": [
+      "约翰·E·蒂尔顿",
+      "约翰·蒂尔顿",
+      "蒂尔顿",
+      "Tilton, J. E.",
+      "John Tilton"
     ]
   },
   {
@@ -28397,6 +28446,16 @@
       "斯坦福研究园",
       "Stanford Industrial Park",
       "SRP"
+    ]
+  },
+  {
+    "title": "System Development Corporation",
+    "type": "fact",
+    "path": "wiki/facts/us/System Development Corporation.md",
+    "aliases": [
+      "系统开发公司",
+      "SDC",
+      "System Development Corp"
     ]
   },
   {
