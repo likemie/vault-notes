@@ -8,7 +8,7 @@ aliases:
 summary: "Paula Stephan 提出的学术组织经济学隐喻，将现代研究型大学比作高档商业购物中心，大学专注于建设尖端物理空间并以间接成本及薪资冲销的形式向自负盈亏的学者团队出租"
 type: concept
 domain: "higher-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - academic-capitalism
 related_concepts:
   - "[[Research Universities]]"
+  - "[[Star Scientists]]"
   - "[[Corporate University]]"
   - "[[Knowledge Production]]"
   - "[[Technology Transfer]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-04
 ---
 
 # Shopping Mall Model of Research Universities
@@ -54,7 +55,7 @@ updated: 2026-10-02
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示现代大学从“学术共同体”向“空间租赁与品牌特许运营中介”的角色蜕变，揭示大学与学者之间从传统的庇护关系转向商业性租赁协作。
-> - **用途** 解释为什么高校管理者具有极强的非理性冲动举债大建科研大楼、争抢明星科学家，以及为何对外部经费削减展现出极高的脆弱性。
+> - **用途** 解释为什么高校管理者具有极强的非理性冲动举债大建科研大楼、争抢[[Star Scientists|明星科学家]]，以及为何对外部经费削减展现出极高的脆弱性。
 > - **边界** 聚焦大学内部科研空间与财务流转的微观组织机制，不同于一般关注课程超市或学生消费者主义的本科教学层面商场隐喻。
 
 > [!boundary] 概念边界与适用范围

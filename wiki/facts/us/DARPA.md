@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 38
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -58,7 +58,9 @@ related_persons:
   - "[[Erica Fuchs]]"
 related_facts:
   - "[[Sputnik Shock 1957]]"
+  - "[[Mansfield Amendment 1969]]"
   - "[[MOSIS]]"
+  - "[[Sematech]]"
   - "[[Department of Energy]]"
   - "[[National Science Foundation]]"
   - "[[Office of Naval Research]]"
@@ -95,8 +97,8 @@ updated: 2026-10-04
 
 > [!dev-timeline] 六十年技术使命演化与突破历程
 > - **1958–1960s — 太空竞争突围与计算机科学建制奠基** 艾森豪威尔总统因应苏联斯普特尼克危机（[[Sputnik Shock 1957|Sputnik]] 1）设立高级研究计划局（ARPA）；早期短暂主导美国航天计划（后移交美国国家航空航天局 [National Aeronautics and Space Administration, NASA]）；1962 年设立信息处理技术办公室（Information Processing Techniques Office, IPTO），资助分时操作系统、图形交互与分组交换网络，直接催生阿帕网（ARPANET），并系统支持麻省理工学院、斯坦福大学、卡内基梅隆大学与加州大学伯克利分校等高校计算机科学系所的学科奠基。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 175–176, 183)]]
-> - **1970s — 曼斯菲尔德修正案与战术隐身突防** 国会通过《曼斯菲尔德修正案》（Mansfield Amendment），强制要求国防研发紧密挂钩直接军事需求；机构改组为国防高级研究计划局（DARPA），重点资助战术防御技术；启动“海弗蓝”（Have Blue）验证机项目，突破机身雷达散射截面积计算理论与吸波材料工艺，最终催生 F-117 隐身攻击机。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
-> - **1980s — 战略计算倡议、VLSI 设计革命与半导体危机应对** 面对日本半导体制造业的激烈竞争，发起战略计算倡议（Strategic Computing Initiative, SCI）；资助超大规模集成电路（Very Large Scale Integration, VLSI）结构化设计方法论革命并创立[[MOSIS|金属氧化物半导体实现服务]]（MOSIS）硅代工原型试验平台；资助加州大学伯克利分校与斯坦福大学开发精简指令集计算机（Reduced Instruction Set Computer, RISC）微处理器架构；主导组建半导体制造技术战略联盟（Semiconductor Manufacturing Technology, SEMATECH）并全力推进全球卫星定位系统（Global Positioning System, GPS）的军民部署。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 180–183)]]
+> - **1970s — [[Mansfield Amendment 1969|曼斯菲尔德修正案]]与战术隐身突防** 国会通过《曼斯菲尔德修正案》（Mansfield Amendment），强制要求国防研发紧密挂钩直接军事需求；机构改组为国防高级研究计划局（DARPA），重点资助战术防御技术；启动“海弗蓝”（Have Blue）验证机项目，突破机身雷达散射截面积计算理论与吸波材料工艺，最终催生 F-117 隐身攻击机。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
+> - **1980s — 战略计算倡议、VLSI 设计革命与半导体危机应对** 面对日本半导体制造业的激烈竞争，发起战略计算倡议（Strategic Computing Initiative, SCI）；资助超大规模集成电路（Very Large Scale Integration, VLSI）结构化设计方法论革命并创立[[MOSIS|金属氧化物半导体实现服务]]（MOSIS）硅代工原型试验平台；资助加州大学伯克利分校与斯坦福大学开发精简指令集计算机（Reduced Instruction Set Computer, RISC）微处理器架构；主导组建[[Sematech|半导体制造技术战略联盟]]（Semiconductor Manufacturing Technology, SEMATECH）并全力推进全球卫星定位系统（Global Positioning System, GPS）的军民部署。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 180–183)]]
 > - **1990s — 冷战后军民两用转型与微系统基础探索** 在加里·登曼（Gary Denman）、拉里·林恩（Larry Lynn）与弗兰克·费尔南德斯（Frank Fernandez）领导下，DARPA 重点转向军民两用（Dual-use）技术开发与跨学科基础探索；微系统技术办公室（MTO，前身为电子技术办公室 ETO）依托开放广泛领域公告（Broad Area Announcement, BAA），前瞻性资助硅锗（Silicon-Germanium, SiGe）异质结双极晶体管与应变硅材料研发，突破硅基物理极限，为后摩尔时代微处理器奠定核心工艺基石。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138)]]
 > - **2000s — 托尼·瑟瑟采办改革、“弥合鸿沟”与体系级系统集成** 2001 年托尼·瑟瑟（Tony Tether）出任局长，确立“弥合鸿沟”（Bridging the Gap）施政纲领，推行采办机制的激进变革；资助重心由大学转向工业界传统国防巨头（Prime Contractors），引入 12–16 个月硬性里程碑审查（Go/No-Go）与涉密限制；微观层面项目经理继续运用[[Embedded Network Governance|嵌入型网络治理]]攻克 3D 封装与超高性能片内纳米光子通信（UNIC）芯片互连；同期资助敏捷感知认知系统（CALO 项目，孵化出 Siri）并在 2004 与 2005 年举办两届无人车大挑战赛（DARPA Grand Challenge）。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138, 1142–1144)]]
 > - **2010s–至今 — 生物技术拓展与多域分布式协同作战** 设立生物技术办公室（Biological Technologies Office, BTO），在新冠疫情暴发前数年即通过 ADEPT 计划前瞻资助莫德纳（Moderna）等团队研发 mRNA 疫苗平台与核酸药物递送技术；在空战领域推行“小妖精”（Gremlins）低成本无人机群空中回收验证，展示了从[[Big Science|大科学]]狮子形态向多域敏捷分布式网络的演进。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 807)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]

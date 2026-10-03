@@ -9,7 +9,7 @@ aliases:
 summary: "研究型大学向新招聘理工科教职人员提供的专属科研启动资金包，用于实验室装修、昂贵科研仪器购置、研究生与博士后津贴及前三年日常运转，是学者在缺乏外部资助时获取预实验数据参与项目竞争的生存期资助工具。"
 type: concept
 domain: "higher-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Research Universities]]"
   - "[[Shopping Mall Model of Research Universities]]"
+  - "[[Star Scientists]]"
   - "[[Indirect Costs of Research]]"
   - "[[Document]]"
   - "[[Academic Risk Aversion]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-04
 ---
 
 # Academic Start-up Packages
@@ -62,7 +63,7 @@ updated: 2026-10-02
 
 > [!concept-lens] 概念透镜
 > - **微观组织职能** 在[[Shopping Mall Model of Research Universities|研究型大学商场模型]]中，启动金相当于商业地产运营方为吸引商户入驻而垫付的“装修与设备铺底补贴”；3 年缓冲期后，学者必须转入自负盈亏的外部资助状态。
-> - **资源竞争杠杆** 启动金在院校之间争夺明星科学家（Star Scientists）和潜力青年教师的锦标赛博弈中成为关键谈判筹码，其资金规模呈非理性通胀态势。
+> - **资源竞争杠杆** 启动金在院校之间争夺[[Star Scientists|明星科学家]]（Star Scientists）和潜力青年教师的锦标赛博弈中成为关键谈判筹码，其资金规模呈非理性通胀态势。
 > - **财务转嫁效应** 启动金占大学内部科研自筹支出的巨大份额，私立院校往往通过提高学费与扩大生师比向本科生转嫁该成本。
 
 > [!boundary] 概念边界与适用范围

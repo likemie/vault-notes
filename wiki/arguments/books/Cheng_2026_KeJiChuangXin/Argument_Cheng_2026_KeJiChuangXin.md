@@ -12,7 +12,7 @@ title: "Argument_Cheng_2026_KeJiChuangXin"
 argument_key: "Argument_Cheng_2026_KeJiChuangXin"
 argument_display_title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
 argument_kind: "book"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -70,6 +70,7 @@ related_facts:
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Hatch Act of 1887]]"
   - "[[National Science Foundation]]"
+  - "[[Sematech]]"
   - "[[National Natural Science Foundation of China]]"
 related_arguments: []
 sources:
@@ -77,7 +78,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-03
-updated: 2026-10-03
+updated: 2026-10-04
 year: 2026
 doi: ""
 citation_aliases:
@@ -453,7 +454,7 @@ citation_aliases:
 > 企业与高校交流方面，硅谷与斯坦福大学、筑波科学城与筑波大学均通过整合高校创新资源与产业需求实现高效转化。筑波发展出M2B2A（大学—企业—应用）产学合作模式，依托筑波大学跨学科研究优势面向社会需求推动产业变革。
 
 > [!info] 组织模式：产学研合作体系与知识融合
-> 日本建立从基础研究、技术开发、工程化研究到产业孵化的完整转化链条，产业技术综合研究所专注于共性技术研究贯穿全创新链。每年定期举办"产学研合作首脑会议"汇聚各方代表。美国1988年主导成立SEMATECH联盟联合英特尔、德州仪器等11家企业提升半导体制造能力(pp.63–64)。
+> 日本建立从基础研究、技术开发、工程化研究到产业孵化的完整转化链条，产业技术综合研究所专注于共性技术研究贯穿全创新链。每年定期举办"产学研合作首脑会议"汇聚各方代表。美国1988年主导成立[[Sematech]]联盟联合英特尔、德州仪器等11家企业提升半导体制造能力(pp.63–64)。
 >
 > 高校层面，斯坦福设立[[Technology Transfer Office\|技术转移办公室]]和技术授权办公室负责全周期管理，成立工业合同办公室专门负责校企合作。MIT通过能源研究组织、生物技术处理工程研究中心等跨学科平台打破院系界限。自1984年起欧洲实施研究与技术开发计划，吸引近200个国家、近百万家机构参与(p.64)。
 

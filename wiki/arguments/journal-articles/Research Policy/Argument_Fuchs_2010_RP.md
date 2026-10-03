@@ -22,10 +22,12 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Embedded Network Governance]]"
   - "[[Network Governance]]"
+  - "[[Network Plasticity]]"
   - "[[Document]]"
   - "[[Boundary Spanner]]"
   - "[[Structural Holes]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Star Scientists]]"
   - "[[Saturation]]"
   - "[[Professional Judgment]]"
   - "[[Artefact]]"
@@ -33,6 +35,7 @@ related_concepts:
 related_theories:
   - "[[Technological Trajectories]]"
   - "[[Organizational Culture]]"
+  - "[[Developmental Network State]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Case Study]]"
@@ -48,6 +51,8 @@ related_persons:
   - "[[John W. Meyer]]"
 related_facts:
   - "[[DARPA]]"
+  - "[[Mansfield Amendment 1969]]"
+  - "[[Sematech]]"
   - "[[Sputnik Shock 1957]]"
   - "[[National Academy of Sciences]]"
   - "[[National Science Foundation]]"
@@ -64,9 +69,9 @@ title: "Argument_Fuchs_2010_RP"
 argument_key: "Argument_Fuchs_2010_RP"
 argument_display_title: "Rethinking the role of the state in technology development: DARPA and the case for embedded network governance"
 argument_kind: "journal-article"
-argument_related_count: 27
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 32
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Research Policy
 book_title: ""
@@ -84,12 +89,12 @@ issuing_organization: ""
 > 长期以来，关于政府在科技创新政策中适切角色的学术论战普遍深陷于两大传统阵营的二元对立：新自由主义自由市场派主张国家职能应严格限于税收优惠、普遍补贴与不设定向的基础科研出资，由市场价格机制自发决定技术胜出者；而中央计划与发展型国家学派则主张由国家科层自上而下选定战略产业与技术赢家（Picking winners）。然而，这两种[[Paradigm|范式]]均无法充分解释美国战后高科技产业（如互联网、个人计算机、激光与现代半导体）的核心源头——[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, [[DARPA]]）长达五十年的治理实践。更为棘手的是，在 2001 至 2008 年托尼·瑟瑟（Tony Tether）出任局长期间，DARPA 经历了历史上最剧烈的采办机制改革，将研发资金由大学大幅转移至军工与产业巨头，并推行严苛的阶段性里程碑考核，招致计算机科学学术界关于经典模式已死的强烈抗议。本文旨在解答：国家究竟能否以及如何超越市场放任与科层挑选赢家的二分法，在前沿硬科技领域主动识别并引导[[Technological Trajectories|技术轨道]]？托尼·瑟瑟任期内引发巨大争议的激进重组是否真的终结了 DARPA 的核心运作机制？（pp. 1133–1135）
 
 > [!claim] 核心主张
-> DARPA 之所以能够在不自上而下指定单一技术赢家的前提下成功开辟颠覆性技术轨道，其根基并不在于表层容易变动的采办合同条规或[[Organizational Culture|组织文化]]话语，而在于项目经理之间长期稳定维系的一套微观非正式制度；在 2001 年前后两任领导期内，尽管受资助对象与宏观合同结构发生剧烈重组，但这套由识别前沿方向、播撒共同主题、工作坊强制知识流动、第三方权威背书以及适时断乳退出构成的非正式治理制度完全稳定延续。据此，科技政策制定必须在传统市场与科层之间引入一个全新的理论范式——[[Embedded Network Governance|嵌入型网络治理]]（Embedded [[Network Governance]]），即具备深厚专业认知并身处网络中心节点的公共代理人，主动依托网络可塑性重塑科学家与企业之间的研发社会网络，以此应对纵向碎片化产业生态并引导国家战略技术轨道。（pp. 1133–1135, 1144–1146）
+> DARPA 之所以能够在不自上而下指定单一技术赢家的前提下成功开辟颠覆性技术轨道，其根基并不在于表层容易变动的采办合同条规或[[Organizational Culture|组织文化]]话语，而在于项目经理之间长期稳定维系的一套微观非正式制度；在 2001 年前后两任领导期内，尽管受资助对象与宏观合同结构发生剧烈重组，但这套由识别前沿方向、播撒共同主题、工作坊强制知识流动、第三方权威背书以及适时断乳退出构成的非正式治理制度完全稳定延续。据此，科技政策制定必须在传统市场与科层之间引入一个全新的理论范式——[[Embedded Network Governance|嵌入型网络治理]]（Embedded [[Network Governance]]），即具备深厚专业认知并身处网络中心节点的公共代理人，主动依托[[Network Plasticity|网络可塑性]]重塑科学家与企业之间的研发社会网络，以此应对纵向碎片化产业生态并引导国家战略技术轨道。（pp. 1133–1135, 1144–1146）
 
 > [!concept-lens] 阅读透镜
 > - **对象** DARPA 微系统技术办公室（Microsystems Technology Office, MTO）在 1992 至 2008 年间资助推进摩尔定律极限的四项半导体关键材料技术（硅锗 SiGe、应变硅 strained Si、三维封装技术、硅基集成光子学）。（p. 1134）
 > - **张力** 宏观采办政策激变（大学基础研究与产业巨头交付、开放探索与严苛里程碑、学术界抗议）与微观项目经理治理机制长程稳定之间的深刻张力。（pp. 1134–1138）
-> - **贡献** [[Erica Fuchs|埃丽卡·福克斯]]（Erica Fuchs）开创性提出[[Embedded Network Governance|嵌入型网络治理]]概念，打破社会网络理论中行动者受制于网络结构的宿命论与发展型网络国家理论中政府仅为消极中立撮合者的刻板预设，揭示了公共代理人运用网络可塑性引导硬科技技术轨道的能动性机理。（pp. 1144–1146）
+> - **贡献** [[Erica Fuchs|埃丽卡·福克斯]]（Erica Fuchs）开创性提出[[Embedded Network Governance|嵌入型网络治理]]概念，打破社会网络理论中行动者受制于网络结构的宿命论与[[Developmental Network State|发展型网络国家理论]]中政府仅为消极中立撮合者的刻板预设，揭示了公共代理人运用网络可塑性引导硬科技技术轨道的能动性机理。（pp. 1144–1146）
 
 ---
 
@@ -99,10 +104,10 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Embedded Network Governance\|嵌入型网络治理]]**<br>Embedded Network Governance | 本文提出的核心理论[[Paradigm\|范式]]。指具备专业权威与网络中心地位的公共代理人，通过微观非正式制度主动重构科学家与产业界的社会关系网络，在不钦定赢家的前提下引导国家战略技术方向并适时断乳。（pp. 1133–1135） |
-> | **发展型网络国家**<br>Developmental Network State, DNS | 区别于东亚自上而下韦伯式科层发展型国家，强调国家以分布式、去中心化的网络形态运作（Block, 2007; Ansell, 2000）；本文指出既有[[Document\|文献]]将国家角色局限于消极撮合或社区营造，忽视了国家主动引导技术方向的能动性。（pp. 1134–1135） |
-> | **网络可塑性**<br>Network Plasticity | 组织社会学理论（Davis, 2009）。指管理者能够主动改变、修剪并重组社会网络拓扑结构以实现组织目标，为公共代理人作为网络架构重塑者提供了理论基石。（p. 1135） |
+> | **[[Developmental Network State\|发展型网络国家]]**<br>Developmental Network State, DNS | 区别于东亚自上而下韦伯式科层发展型国家，强调国家以分布式、去中心化的网络形态运作（Block, 2007; Ansell, 2000）；本文指出既有[[Document\|文献]]将国家角色局限于消极撮合或社区营造，忽视了国家主动引导技术方向的能动性。（pp. 1134–1135） |
+> | **[[Network Plasticity\|网络可塑性]]**<br>Network Plasticity | 组织社会学理论（Davis, 2009）。指管理者能够主动改变、修剪并重组社会网络拓扑结构以实现组织目标，为公共代理人作为网络架构重塑者提供了理论基石。（p. 1135） |
 > | **[[Boundary Spanner\|边界跨越者]]与经纪人**<br>Boundary Spanner & Broker | 经典网络理论工具（Burt, 1992; Fleming & Waguespack, 2007）。本文通过对比论证，确立 [[DARPA]] 项目经理超越了消极连接两界的[[Structural Holes\|结构洞]]经纪人与被动[[Transfer Translation Transformation\|转译]]者，展现为兼具资源调配权与技术研判权的系统集成者与乐队指挥家。（pp. 1134–1135, 1144–1145） |
-> | **明星科学家理论**<br>Star Scientists | 祖克和达比（Zucker & Darby, 1996）提出的学术社会学概念。指在颠覆性技术早期拥有不可[[Coding in Qualitative Research\|编码]]专有诀窍的极少数顶级学者；该理论指出明星科学家在早期极度倾向于封闭保护专有成果，从而减缓跨机构技术扩散。（pp. 1140–1141） |
+> | **[[Star Scientists\|明星科学家理论]]**<br>Star Scientists | 祖克和达比（Zucker & Darby, 1996）提出的学术社会学概念。指在颠覆性技术早期拥有不可[[Coding in Qualitative Research\|编码]]专有诀窍的极少数顶级学者；该理论指出明星科学家在早期极度倾向于封闭保护专有成果，从而减缓跨机构技术扩散。（pp. 1140–1141） |
 
 > [!warrant]- 理论如何支撑论证
 > 理论工具箱将宏观国家理论与微观社会网络动力学紧密结合。发展型网络国家理论解释了 DARPA 为何采取去中心化、横向协作的公共组织形态，但该理论遗留了国家如何避免成为盲目发包者并有效引导技术方向的空白；网络可塑性与明星科学家理论切入微观层面，解释了为何在早期技术探索阶段，科学家天然的壁垒倾向会导致技术扩散停滞，进而推导出逻辑——唯有身兼专业权威与财政资源的公共行动者，主动运用网络可塑性充当系统集成者，方能在市场与科层失灵的双重真空中成功催化新兴[[Technological Trajectories|技术轨道]]。（pp. 1134–1135, 1144–1146）
@@ -157,7 +162,7 @@ issuing_organization: ""
 #### 1. DARPA 在半个世纪中随国家战略需求经历六个阶段的资助重心演变
 
 > [!policy-context] 机构使命与国家战略的周期性演化
-> DARPA 的组织使命与运作形态在过去数十年中随美国历任总统战略意图及外部安全威胁发生周期性演变，始终在自由科学探索与具体应用目标之间寻求动态平衡。从 1958 年艾森豪威尔设立 ARPA 以防止技术突袭，到 1970 年代受《曼斯菲尔德修正案》约束转向直接军事应用，再到 1980 年代应对日本半导体竞争设立 Sematech，DARPA 的资助重点始终因时制宜地在基础探索与应用开发之间切换。（pp. 1135–1137）
+> DARPA 的组织使命与运作形态在过去数十年中随美国历任总统战略意图及外部安全威胁发生周期性演变，始终在自由科学探索与具体应用目标之间寻求动态平衡。从 1958 年艾森豪威尔设立 ARPA 以防止技术突袭，到 1970 年代受《[[Mansfield Amendment 1969|曼斯菲尔德修正案]]》约束转向直接军事应用，再到 1980 年代应对日本半导体竞争设立 [[Sematech]]，DARPA 的资助重点始终因时制宜地在基础探索与应用开发之间切换。（pp. 1135–1137）
 
 > [!row-contrast] Table 1：DARPA 组织历史沿革（1958–2000s）
 > | 年代周期 | 1958 | 1960s | 1970s | 1980s | 1990s | 2000s |
@@ -165,9 +170,9 @@ issuing_organization: ""
 > | **机构名称** | ARPA (1958–1972) | ARPA | DARPA (1972–1993) | DARPA | ARPA (1993–1996)<br>DARPA (1996–2008) | DARPA |
 > | **历史阶段** | 基础研究探索 | 军事任务攻坚 | 工业与技术聚焦 | 产业竞争力与国际化 | 军民两用与基础科研 | 转向军事采办交付 |
 > | **执政总统** | 艾森豪威尔 | 肯尼迪 / 约翰逊 | 尼克松 / 福特 / 卡特 | 里根 | 老布什 / 克林顿 | 小布什 (2001–2008) |
-> | **立法与政治环境** | 冷战初启；<br>[[Sputnik Shock 1957\|斯普特尼克危机]] (1957) | 冷战白热化；<br>越南战争爆发 | 越战结束；<br>曼斯菲尔德修正案 (1969)；<br>冷战缓和 | 星球大战计划；<br>应对日本半导体竞争；<br>国家合作研究法 (1984) | 冷战终结；<br>Sematech 转向国际化自立 (1995)；<br>被批军用转化迟缓 (1997) | 9/11 袭击与反恐战争；<br>阿富汗与伊拉克战事；<br>国家竞争力忧虑；<br>学界抗议削减基础研究 |
+> | **立法与政治环境** | 冷战初启；<br>[[Sputnik Shock 1957\|斯普特尼克危机]] (1957) | 冷战白热化；<br>越南战争爆发 | 越战结束；<br>[[Mansfield Amendment 1969\|曼斯菲尔德修正案 (1969)]]；<br>冷战缓和 | 星球大战计划；<br>应对日本半导体竞争；<br>国家合作研究法 (1984) | 冷战终结；<br>[[Sematech]] 转向国际化自立 (1995)；<br>被批军用转化迟缓 (1997) | 9/11 袭击与反恐战争；<br>阿富汗与伊拉克战事；<br>国家竞争力忧虑；<br>学界抗议削减基础研究 |
 > | **历任局长** | Johnson / Betts | Ruina / Sproull / Herzfeld / Rechtin | Lukasik / Heilmeier / Fossum | Cooper / Duncan / Colladay / Fields | Reis / Denman / Lynn / Fernandez | Tether (2001–2008) |
-> | **组织治理环境** | 超越军种内耗；<br>防止技术突袭 | 科学价值重于军事；<br>聚焦卓越顶尖人才 | 中期考核与验收；<br>确立技术可交付物 | 战略计算倡议 (1983)；<br>Sematech (1987)；<br>连接产学界技术金字塔 | 费尔南德斯优先原则：<br>人才、竞争、外联与试验 | 阶段、里程碑与严苛问责；<br>“弥合鸿沟”（Bridging the Gap） |
+> | **组织治理环境** | 超越军种内耗；<br>防止技术突袭 | 科学价值重于军事；<br>聚焦卓越顶尖人才 | 中期考核与验收；<br>确立技术可交付物 | 战略计算倡议 (1983)；<br>[[Sematech]] (1987)；<br>连接产学界技术金字塔 | 费尔南德斯优先原则：<br>人才、竞争、外联与试验 | 阶段、里程碑与严苛问责；<br>“弥合鸿沟”（Bridging the Gap） |
 
 #### 2. 2000 年代采办机制转向工业界与里程碑考核引发了学术界的强烈争议
 
@@ -270,7 +275,7 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **微观非正式制度的长期连续性破除“[[DARPA]]已死”论** 托尼·瑟瑟任期内尽管宏观采办机制剧烈重构（研发重心由大学转向工业承包商、招标由开放 BAA 转向严苛多阶段里程碑），但项目经理在微观层面所依赖的识别方向、播撒主题、工作坊强制知识流动、第三方背书与适时断乳等五大非正式治理制度完全稳定延续。（pp. 1133–1135, 1144）
-> 2. **公共代理人超越传统经纪人展现网络重塑能动性** 项目经理并非被动等待资助申请的“开窗者”，亦非中立的[[Boundary Spanner|边界跨越者]]，而是依托自身技术判断与网络中央节点地位，主动利用“网络可塑性”打破科学家壁垒、编排跨界竞合团队的“系统集成者”与“乐队指挥家”。（pp. 1144–1145）
+> 2. **公共代理人超越传统经纪人展现网络重塑能动性** 项目经理并非被动等待资助申请的“开窗者”，亦非中立的[[Boundary Spanner|边界跨越者]]，而是依托自身技术判断与网络中央节点地位，主动利用“[[Network Plasticity|网络可塑性]]”打破科学家壁垒、编排跨界竞合团队的“系统集成者”与“乐队指挥家”。（pp. 1144–1145）
 > 3. **确立[[Embedded Network Governance|嵌入型网络治理]]作为国家科技政策全新[[Paradigm|范式]]** 嵌入型[[Network Governance|网络治理]]突破了自由市场放任与自上而下指定赢家的传统二元对立，为国家在面对纵向碎片化高科技产业、协调长周期战略共性技术平台提供了不可替代的治理工具。（pp. 1133, 1146）
 
 > [!stat-cards]- 核心数据

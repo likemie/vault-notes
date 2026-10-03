@@ -8367,6 +8367,15 @@
     ]
   },
   {
+    "title": "Network Plasticity",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Network Plasticity.md",
+    "aliases": [
+      "网络可塑性",
+      "研发网络可塑性"
+    ]
+  },
+  {
     "title": "New Geopolitics",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/New Geopolitics.md",
@@ -12583,6 +12592,17 @@
     ]
   },
   {
+    "title": "Star Scientists",
+    "type": "concept",
+    "path": "wiki/concepts/university-industry-collaboration/Star Scientists.md",
+    "aliases": [
+      "明星科学家",
+      "科学巨擘",
+      "顶尖领军科学家",
+      "star scientist"
+    ]
+  },
+  {
     "title": "Strategic Partnership",
     "type": "concept",
     "path": "wiki/concepts/university-industry-collaboration/Strategic Partnership.md",
@@ -14274,6 +14294,17 @@
     "path": "wiki/theories/political-economy-geopolitics/Decolonial Geopolitics of Knowledge.md",
     "aliases": [
       "去殖民知识地缘政治"
+    ]
+  },
+  {
+    "title": "Developmental Network State",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Developmental Network State.md",
+    "aliases": [
+      "发展型网络国家",
+      "DNS",
+      "网络化发展型国家",
+      "发展型网络国家理论"
     ]
   },
   {
@@ -28451,6 +28482,16 @@
     ]
   },
   {
+    "title": "Sematech",
+    "type": "fact",
+    "path": "wiki/facts/us/Sematech.md",
+    "aliases": [
+      "半导体制造技术战略联盟",
+      "美国半导体制造技术战略联盟",
+      "Semiconductor Manufacturing Technology"
+    ]
+  },
+  {
     "title": "Society for Research in Child Development",
     "type": "fact",
     "path": "wiki/facts/us/Society for Research in Child Development.md",
@@ -28709,6 +28750,18 @@
       "州际新教师评估与支持联盟标准",
       "InTASC Model Core Teaching Standards",
       "InTASC Consortium"
+    ]
+  },
+  {
+    "title": "Mansfield Amendment 1969",
+    "type": "fact",
+    "path": "wiki/facts/us/Mansfield Amendment 1969.md",
+    "aliases": [
+      "曼斯菲尔德修正案",
+      "曼斯菲尔德修正案 1969",
+      "Mansfield Amendment",
+      "1969年曼斯菲尔德修正案",
+      "Section 203"
     ]
   },
   {

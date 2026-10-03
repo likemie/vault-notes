@@ -8,7 +8,7 @@ aliases:
 summary: "以多元行动者横向协作、关系协调与异层结构替代垂直科层或纯粹市场的公共治理方式；在批判教育政策与演化科技政策中揭示国家并未空心化退场，而是表现为积极特许赋权、资助中介并缔造市场的异层担保人，以及通过去中心化探索网络引领使命导向创新的催化者。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 64
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Educational Management Organisation]]"
   - "[[Embedded Network Governance]]"
+  - "[[Network Plasticity]]"
   - "[[New Public Management]]"
   - "[[Critical Pedagogy]]"
   - "[[Philanthrocapitalism]]"
@@ -217,7 +218,7 @@ updated: 2026-10-04
 > **去中心化探索型公共网络的创新机制** [[Mariana Mazzucato|马祖卡托]]指出，应对21世纪重大社会挑战（如气候变化、公共健康）要求国家超越垂直指令或单纯将研发外包给商业咨询公司的做法，构建具备内部动态能力的“去中心化探索型公共网络”（如 [[DARPA]]、ARPA-E）。在这种网络化治理中，公共部门充当领头投资人并设立宏观战略使命方向，同时赋予去中心化项目团队极大的立项、试错与快速止损自主权，激励大学、国家实验室与私营企业开展自下而上的多元技术路线探索，实现战略集中与战术分散的有机统合。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 
 > [!claim] [[Erica Fuchs|Fuchs, E. R. H.]]
-> **[[Embedded Network Governance|嵌入型网络治理]]与研发网络的架构重塑** [[Erica Fuchs|埃丽卡·福克斯]]指出，去中心化探索网络能够成功引导国家战略[[Technological Trajectories|技术轨道]]，关键在于公共代理人依托其专业威望与网络中心位置实施“嵌入型网络治理”。项目经理不仅消极撮合产学研合作，更主动运用网络可塑性（Network plasticity），通过识别前沿方向、播撒共同主题、组织闭门工作坊打破企业专有技术壁垒以强制知识横向流动、提供第三方声誉背书以及严格断乳退出，在不挑选单一赢家的前提下重塑研发者社会网络，克服了纵向碎片化产业生态中长期平台协调失灵的结构性困境。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1144–1146)]]
+> **[[Embedded Network Governance|嵌入型网络治理]]与研发网络的架构重塑** [[Erica Fuchs|埃丽卡·福克斯]]指出，去中心化探索网络能够成功引导国家战略[[Technological Trajectories|技术轨道]]，关键在于公共代理人依托其专业威望与网络中心位置实施“嵌入型网络治理”。项目经理不仅消极撮合产学研合作，更主动运用[[Network Plasticity|网络可塑性]]（Network plasticity），通过识别前沿方向、播撒共同主题、组织闭门工作坊打破企业专有技术壁垒以强制知识横向流动、提供第三方声誉背书以及严格断乳退出，在不挑选单一赢家的前提下重塑研发者社会网络，克服了纵向碎片化产业生态中长期平台协调失灵的结构性困境。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1144–1146)]]
 
 ---
 
@@ -248,7 +249,7 @@ updated: 2026-10-04
 > [!dev-timeline] 概念演变
 > - **1990s — 组织社会学起源与[[New Public Management|新公共管理]]（NPM）反思** 汤普森（Grahame Thompson, 1991）、鲍威尔（Walter W. Powell, 1990）与罗兹（R. A. W. Rhodes, 1996）提出将网络视作区别于市场与科层的第三种组织形态，界定其核心为信任、互赖与非层级协商；同时代学者断言跨国网络化导致了“国家空心化”（Hollowing out of the state）。
 > - **2000s — 全球教育[[Policy Network|政策网络]]与私有化浪潮** [[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）将网络治理正式引入[[Critical Pedagogy|批判教育学]]研究，指出新自由主义推进了公立教育的异质层级（Heterarchy）转型，新公共治理不再是国家统治的终结，而是国家借助商业资本与政策网络推行企业化运作的技术。
-> - **2010 — [[Embedded Network Governance|嵌入型网络治理]]与网络架构重塑** [[Erica Fuchs|埃丽卡·福克斯]]提出[[Embedded Network Governance|嵌入型网络治理]]，基于对 [[DARPA]] 长期资助半导体关键材料的扎根[[Case Study|案例研究]]，揭示公共代理人如何主动运用网络可塑性重塑研发者社会网络以引导国家战略[[Technological Trajectories|技术轨道]]，突破了传统网络治理中将国家仅视作消极撮合中介的理论局限。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135)]]
+> - **2010 — [[Embedded Network Governance|嵌入型网络治理]]与网络架构重塑** [[Erica Fuchs|埃丽卡·福克斯]]提出[[Embedded Network Governance|嵌入型网络治理]]，基于对 [[DARPA]] 长期资助半导体关键材料的扎根[[Case Study|案例研究]]，揭示公共代理人如何主动运用[[Network Plasticity|网络可塑性]]重塑研发者社会网络以引导国家战略[[Technological Trajectories|技术轨道]]，突破了传统网络治理中将国家仅视作消极撮合中介的理论局限。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135)]]
 > - **2010–2019 — 超国家指标化与国家制度杂合实证** 欧盟与[[OECD|经合组织]]将[[Performance Indicators|绩效指标]]转化为远程[[Disciplina and Doctrina|规训]]网络；奥尼尔等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）解构了新西兰九大公私混合治理工程，兰布拉（[[Argument_Rambla_2022_Springer|Rambla, 2022]]）实证揭示了欧洲大陆官僚科层与网络化治理的制度杂合形态。
 > - **2018 — 演化创新政策与去中心化探索网络** [[Mariana Mazzucato|马祖卡托]]在《工业与企业变迁》中提出，网络治理在科技领域应体现为具备内部动态能力的“去中心化探索网络”（Decentralized Explorative Networks），既防止公共智识外包沦为新公共管理牺牲品，又通过战略方向引领激发自下而上的技术创新。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 > - **2020s — [[Philanthrocapitalism|慈善资本主义]]与异层国家实践解构** 埃玛·罗威（Emma Rowe, 2022, 2023）通过[[Network Ethnography|网络民族志]]与社会-物质[[Assemblage|装配理论]]，深入解构澳大利亚[[Venture Philanthropy|风险慈善]]中介的长程演化，证实国家并未空心化，而是积极通过立法特许避税与财政补贴充当异层市场的缔造者与担保人。
@@ -315,7 +316,7 @@ updated: 2026-10-04
 > > 针对私营网络崛起是否意味着民族国家权威的实质性瓦解与边缘化。
 > >
 > > - **国家空心化假说（Rhodes, 1996）** 认为权力不可逆转地流向跨国咨询巨头、次国家区域与私营网络，主权国家沦为碎片化网络中软弱无力的普通参与者。
-> > - **异层国家理论（[[Argument_Rowe_2023_ECNUROE|Rowe, 2023]]; Ball, 2012）** 证实国家从未丧失权力，而是转变了权力的行使形态；国家作为元治理者，主动利用税收立法与行政特许塑造网络，在推卸直接供给责任的同时，将公共资金向私营中介定向再分配。
+> > - **异层国家理论（Ball, 2012; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 11]]）** 证实国家从未丧失权力，而是转变了权力的行使形态；国家作为元治理者，主动利用税收立法与行政特许塑造网络，在推卸直接供给责任的同时，将公共资金向私营中介定向再分配。
 >
 > > [!axis] 去能力化外包依赖 vs 战略性去中心化探索网络
 > > 反思网络治理应当如何配置公共部门的内部专业能力与外部协作网络。

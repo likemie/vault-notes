@@ -10,7 +10,7 @@ summary: "美国卡内基梅隆大学工程与公共政策教授，技术变革�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,12 +28,14 @@ related_concepts:
   - "[[Embedded Network Governance]]"
   - "[[Network Governance]]"
   - "[[Paradigm]]"
+  - "[[Network Plasticity]]"
   - "[[Structural Holes]]"
   - "[[Boundary Spanner]]"
   - "[[Technology Infusion]]"
   - "[[Document]]"
   - "[[Innovation Ecosystem]]"
 related_theories:
+  - "[[Developmental Network State]]"
   - "[[Technological Trajectories]]"
   - "[[Organizational Culture]]"
 related_methods:
@@ -64,7 +66,7 @@ updated: 2026-10-04
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国工程与公共政策学者，卡内基梅隆大学（Carnegie Mellon University, CMU）工程与公共政策系正教授；美国国家关键技术评估网络（National Network for Critical Technology Assessment, NNCTA）创始主任。
-> - **核心角色** 在演化科技政策与发展型网络国家研究中，致力于解构公共部门介入前沿工程技术演进的微观机制，开创性揭示了国家代理人重塑研发社会网络的能动性机制。
+> - **核心角色** 在演化科技政策与[[Developmental Network State|发展型网络国家]]研究中，致力于解构公共部门介入前沿工程技术演进的微观机制，开创性揭示了国家代理人重塑研发社会网络的能动性机制。
 > - **代表贡献** 提出[[Embedded Network Governance|嵌入型网络治理]]（Embedded [[Network Governance]]）理论[[Paradigm|范式]]；实证阐明 [[DARPA]] 项目经理的非正式治理制度与半导体[[Technological Trajectories|技术轨道]]变迁；构建关键技术国家评估的方法学工具箱。
 
 ---
@@ -96,7 +98,7 @@ updated: 2026-10-04
 > [!theory-components] 福克斯技术治理理论的核心理论构件
 > - **[[Embedded Network Governance|嵌入型网络治理]]（Embedded [[Network Governance]]）**
 >   公共代理人内嵌于专业网络，凭借技术研判权与网络中心位置，充当“乐队指挥家”与“系统集成者”，主动重构研发网络连接形态。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135)]]
-> - **网络可塑性（Network Plasticity）超越消极边界跨越**
+> - **[[Network Plasticity|网络可塑性]]（Network Plasticity）超越消极边界跨越**
 >   突破罗纳德·伯特（Ronald Burt）[[Structural Holes|结构洞]]理论与李·弗莱明（Lee Fleming）[[Boundary Spanner|边界跨越者]]理论中行动者仅作为中立信息通道的局限，论证公共代理人具备利用立项权裁撤冗余链接、打破学术孤岛并强迫跨界知识流动的网络重塑能动性。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135, 1144–1145)]]
 > - **正式管理文化与微观非正式制度的解耦与韧性**
 >   证明上层正式采办机制的激进变革（如瑟瑟改革推行老牌巨头主承包商、硬性里程碑淘汰与涉密限制）并未摧毁机构内核；项目经理践行的 5 项非正式机制（前瞻识别、闭门风暴、共生共同体、第三方背书与适时断乳）展现出强大的制度韧性，成为维系颠覆性创新效能的深层基石。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134, 1144–1146)]]
@@ -113,7 +115,7 @@ updated: 2026-10-04
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 拓展了发展型网络国家（Developmental Network State）理论，打破了网络学派中行动者被动受制于结构或仅充当消极中介桥梁的传统假定，赋予嵌入型代理人主动重塑网络拓扑（网络可塑性）的战略能动性。
+> - **理论路径** 拓展了[[Developmental Network State|发展型网络国家]]（Developmental Network State）理论，打破了网络学派中行动者被动受制于结构或仅充当消极中介桥梁的传统假定，赋予嵌入型代理人主动重塑网络拓扑（[[Network Plasticity|网络可塑性]]）的战略能动性。
 > - **方法路径** 示范了将微观材料工程参数、半导体产业分工演进与[[Grounded Theory|扎根理论]]质性追踪、[[Document|文献]]计量学专利分析深度结合的研究路径。
 > - **政策路径** 为美国国会审议《芯片与科学法案》（[[CHIPS and Science Act]]）以及国家科学基金会设立技术、创新与伙伴关系局（TIP）提供了关键的治理理论依据，推动了国家关键技术评估工程的制度化建构。
 
@@ -125,7 +127,7 @@ updated: 2026-10-04
 > - **研究对象／机构** [[DARPA]] — 长期追踪其微系统技术办公室（MTO）在冷战后（1992–2008）的技术资助实践与制度演变。
 > - **对话理论家** [[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato） — 共同推进关于探索型公共组织与创新国家能动性的理论建构。
 > - **对话理论家** 戴维·莫厄里（[[David C. Mowery]]） — 在战后美国微电子与计算机国防采办对[[Innovation Ecosystem|创新生态]]影响的学术脉络上形成理论呼应。
-> - **对话网络学者** 罗纳德·伯特（Ronald Burt）与李·弗莱明（Lee Fleming） — 就[[Structural Holes|结构洞]]、[[Boundary Spanner|边界跨越者]]与网络可塑性展开理论对话。
+> - **对话网络学者** 罗纳德·伯特（Ronald Burt）与李·弗莱明（Lee Fleming） — 就[[Structural Holes|结构洞]]、[[Boundary Spanner|边界跨越者]]与[[Network Plasticity|网络可塑性]]展开理论对话。
 
 ---
 
@@ -137,7 +139,7 @@ updated: 2026-10-04
 > |:-----|:-----|:-----|
 > | [[Embedded Network Governance]] | 概念 | 开创性提出该概念，系统界定公共代理人识别方向、播撒主题、促进研讨、第三方背书与适时断乳的五大微观治理机制。 |
 > | [[DARPA]] | 机构 | 实证厘清托尼·瑟瑟（Tony Tether）局长任期内虽发生采办结构巨变，但项目经理层面的非正式治理制度仍保持高度连续性。 |
-> | [[Technological Trajectories]] | 理论 | 论证公共代理人如何在纵向碎片化产业中调动网络可塑性以引导国家前沿技术轨道跃迁。 |
+> | [[Technological Trajectories]] | 理论 | 论证公共代理人如何在纵向碎片化产业中调动[[Network Plasticity\|网络可塑性]]以引导国家前沿技术轨道跃迁。 |
 > | [[Organizational Culture]] | 理论 | 揭示正式管理文化重组与微观非正式制度之间的解耦机制与深层韧性。 |
 > | [[Network Governance]] | 概念 | 将网络治理[[Paradigm\|范式]]引入硬科技前沿创新攻坚，阐明嵌入型公共网络如何克服纵向碎片化产业的协调失灵。 |
 > | [[Boundary Spanner]] | 概念 | 深化边界跨越者理论，论证项目经理超越消极联络人角色，展现为主动架构网络关系的“乐队指挥家”与“系统集成者”。 |
