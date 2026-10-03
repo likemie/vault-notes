@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Boundary Spanner",
+      "path": "wiki/concepts/university-industry-collaboration/Boundary Spanner.md"
+    },
+    {
       "basename": "Argument_Fuchs_2010_RP",
       "path": "wiki/arguments/journal-articles/Research Policy/Argument_Fuchs_2010_RP.md"
+    },
+    {
+      "basename": "Erica Fuchs",
+      "path": "wiki/persons/us/Erica Fuchs.md"
     },
     {
       "basename": "Embedded Network Governance",
@@ -191,14 +199,6 @@
     {
       "basename": "Investing in Innovation Program",
       "path": "wiki/facts/us/Investing in Innovation Program.md"
-    },
-    {
-      "basename": "Lead-and-Learn Paradigm",
-      "path": "wiki/concepts/science-policy/Lead-and-Learn Paradigm.md"
-    },
-    {
-      "basename": "Areas of Knowledge",
-      "path": "wiki/concepts/curriculum/Areas of Knowledge.md"
     }
   ],
   "omittedPaths": [],
