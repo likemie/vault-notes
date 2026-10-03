@@ -12016,7 +12016,9 @@
     "path": "wiki/concepts/university-industry-collaboration/New York Bay Area.md",
     "aliases": [
       "纽约湾区",
-      "金融湾区"
+      "金融湾区",
+      "New York Metropolitan Area",
+      "NY Bay Area"
     ]
   },
   {
@@ -12390,7 +12392,8 @@
     "aliases": [
       "东京湾区",
       "产业湾区",
-      "京滨工业区"
+      "京滨工业区",
+      "Tokyo Bay Zone"
     ]
   },
   {
@@ -25080,6 +25083,32 @@
     ]
   },
   {
+    "title": "300,000 Foreign Students Plan",
+    "type": "fact",
+    "path": "wiki/facts/japan/300,000 Foreign Students Plan.md",
+    "aliases": [
+      "留学生30万人计划",
+      "留学30万人计划",
+      "留学生30万人计划（日本）",
+      "300,000 International Students Plan",
+      "Plan for 300,000 Exchange Students"
+    ]
+  },
+  {
+    "title": "Act on the Promotion of Technology Transfer from Universities to Private Business Operators",
+    "type": "fact",
+    "path": "wiki/facts/japan/Act on the Promotion of Technology Transfer from Universities to Private Business Operators.md",
+    "aliases": [
+      "日本大学技术转移促进法",
+      "大学技术转移促进法",
+      "日本大学技术转移法",
+      "日本大学技术转让促进法",
+      "大学技术转让促进法",
+      "TLO Act",
+      "Act on the Promotion of Technology Transfer from Universities"
+    ]
+  },
+  {
     "title": "Japan Innovation Policy System",
     "type": "fact",
     "path": "wiki/facts/japan/Japan Innovation Policy System.md",
@@ -27690,6 +27719,17 @@
     ]
   },
   {
+    "title": "McGovern Center for Venture Development",
+    "type": "fact",
+    "path": "wiki/facts/us/McGovern Center for Venture Development.md",
+    "aliases": [
+      "麦戈文创业孵化中心",
+      "康奈尔大学麦戈文孵化器",
+      "McGovern Center",
+      "McGovern Center for Venture Development in the Life Sciences"
+    ]
+  },
+  {
     "title": "MIT Radiation Laboratory",
     "type": "fact",
     "path": "wiki/facts/us/MIT Radiation Laboratory.md",
@@ -27899,6 +27939,17 @@
     "aliases": [
       "SRCD",
       "儿童发展研究学会"
+    ]
+  },
+  {
+    "title": "Stanford Research Park",
+    "type": "fact",
+    "path": "wiki/facts/us/Stanford Research Park.md",
+    "aliases": [
+      "斯坦福工业园",
+      "斯坦福研究园",
+      "Stanford Industrial Park",
+      "SRP"
     ]
   },
   {
@@ -28343,6 +28394,18 @@
       "APLU IEP",
       "创新与经济繁荣项目",
       "APLU 经济参与认证"
+    ]
+  },
+  {
+    "title": "Applied Sciences NYC",
+    "type": "fact",
+    "path": "wiki/facts/us/Applied Sciences NYC.md",
+    "aliases": [
+      "纽约应用科学计划",
+      "应用科学计划",
+      "纽约应用科学倡议",
+      "Applied Sciences Initiative",
+      "Applied Sciences New York"
     ]
   },
   {

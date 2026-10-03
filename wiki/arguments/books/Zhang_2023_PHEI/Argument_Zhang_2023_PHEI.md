@@ -13,9 +13,9 @@ title: "Argument_Zhang_2023_PHEI"
 argument_key: "Argument_Zhang_2023_PHEI"
 argument_display_title: "科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索"
 argument_kind: "book"
-argument_related_count: 27
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 32
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: '科技创新"双循环"生态系统：基于粤港澳大湾区的实践与探索'
 publication_place: "北京"
@@ -61,6 +61,11 @@ related_theories:
 related_facts:
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
   - "[[Sino-American Trade War]]"
+  - "[[Stanford Research Park]]"
+  - "[[Applied Sciences NYC]]"
+  - "[[McGovern Center for Venture Development]]"
+  - "[[300,000 Foreign Students Plan]]"
+  - "[[Act on the Promotion of Technology Transfer from Universities to Private Business Operators]]"
   - "[[Tsukuba Science City]]"
   - "[[Chinese Academy of Sciences]]"
   - "[[Open Competition Mechanism]]"
@@ -68,7 +73,7 @@ related_methods:
   - "[[Analytic Framework]]"
 status: draft
 created: 2026-06-11
-updated: 2026-08-20
+updated: 2026-10-03
 ---
 # Argument_Zhang_2023_PHEI
 
@@ -265,7 +270,7 @@ updated: 2026-08-20
 > > - **北湾** 农业和葡萄酒
 >
 > > [!features] 大学-产业互动
-> > - **斯坦福研究园** 在校内创建，吸引科技企业聚集
+> > - **[[Stanford Research Park|斯坦福研究园]]** 在校内创建，吸引科技企业聚集
 > > - **创业成果** 惠普、苹果、雅虎等由斯坦福毕业生创建
 > > - **[[Technology Transfer\|技术转让]]** 斯坦福大学积累成熟的知识产权和校企合作方案
 > > - **竞业限制** 法律不允许竞业禁止条款，仙童企业研究人员离职后创立38家子公司
@@ -279,10 +284,10 @@ updated: 2026-08-20
 >
 > > [!features] 政府减税降费
 > > - **直接促进** 商业扩张鼓励计划、降低能源成本计划、新兴科技公司减税措施、曼哈顿下城商业租金税减免
-> > - **间接促进** 城市改造计划（免费公共WiFi网络，Digital.NYC创业平台）、应用科学计划、众创空间计划
+> > - **间接促进** 城市改造计划（免费公共WiFi网络，Digital.NYC创业平台）、[[Applied Sciences NYC|应用科学计划]]、众创空间计划
 >
 > > [!features] 产学研协同
-> > - **康奈尔大学McGovern孵化器** 整合大学和纽约州多方资源，成功孵化近百个企业团队
+> > - **[[McGovern Center for Venture Development|康奈尔大学麦戈文孵化器]]** 整合大学和纽约州多方资源，成功孵化近百个企业团队
 > > - **波士顿** 对郊区办公园区翻新改造，引入学校、超市、医院等配套设施
 >
 > > [!features] 科技金融生态
@@ -299,11 +304,11 @@ updated: 2026-08-20
 >
 > > [!features] 人才引进机制
 > > - 宽松的移民政策，放宽科技人才在日工作和居住年限，允许保留原有国籍
-> > - 留学30万人计划：增加派驻海外教育机构数量，改善入学考试条件，简化入境手续
+> > - [[300,000 Foreign Students Plan|留学30万人计划]]：增加派驻海外教育机构数量，改善入学考试条件，简化入境手续
 >
 > > [!features] 产官学协同
 > > - **企业主导培养** 企业投资建设工业实验室作为高校研究生教育科研基地，以"师徒制"培养
-> > - **大学技术转让促进法** 建立[[Technology Transfer Office|TLO]]，负责挖掘、评估、选择具有产业潜能的研究成果
+> > - **[[Act on the Promotion of Technology Transfer from Universities to Private Business Operators|大学技术转让促进法]]** 建立[[Technology Transfer Office|TLO]]，负责挖掘、评估、选择具有产业潜能的研究成果
 > > - **筑波大学改革** 教师可创业并兼任公司董事长，持股比例不设限制
 >
 > > [!features] [[Tsukuba Science City\|筑波科学城]]
@@ -313,7 +318,7 @@ updated: 2026-08-20
 
 > [!lessons] 四点经验启示
 > - **构建区域协调发展机制** 三大湾区均基于城市原有区位优势和产业基础，通过合理顶层设计实现错位发展。旧金山湾区通过ABAG建立半官方性质的地方政府协调机制。大湾区应建立常态化科技合作机制，突破创新要素跨境流动限制
-> - **积极培育产业创新链条** 各湾区均拥有顶尖高校与主导产业集聚区相邻的优势。斯坦福大学成立技术授权办公室统一管理专利授权；东京湾区依托日本科学技术振兴机构将科研成果建成数据库；纽约市开展应用科学计划搭建科技产业园区。大湾区应推动三地大学合作，借鉴"技术转让"和"科技孵化器"模式
+> - **积极培育产业创新链条** 各湾区均拥有顶尖高校与主导产业集聚区相邻的优势。斯坦福大学成立技术授权办公室统一管理专利授权；东京湾区依托日本科学技术振兴机构将科研成果建成数据库；纽约市开展[[Applied Sciences NYC|应用科学计划]]搭建科技产业园区。大湾区应推动三地大学合作，借鉴"技术转让"和"科技孵化器"模式
 > - **推动完善科技金融体系** 三大湾区均拥有金融枢纽功能。旧金山湾区形成天使投资、风险投资和私募投资组成的完整投资体系；纽约湾区与金融业结合紧密的新技术在研发、中试、转化、运用及推广各环节都有强大资金保障。大湾区应推动粤港金融资源对接
 > - **着力打造科技创新生态** 世界主要湾区通过改善法律制度、减少行政审批程序和成本、出台减税降费政策为企业提供宽松便捷的创新环境。大湾区应完善知识产权法规体系，建立知识型外籍人才引进机制和技术移民制度体系
 

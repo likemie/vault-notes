@@ -12,7 +12,7 @@ title: "Argument_Cheng_2026_KeJiChuangXin"
 argument_key: "Argument_Cheng_2026_KeJiChuangXin"
 argument_display_title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
 argument_kind: "book"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -63,6 +63,7 @@ related_facts:
   - "[[Fraunhofer Society Model]]"
   - "[[Swiss Innovation Policy System]]"
   - "[[Japan Innovation Policy System]]"
+  - "[[Act on the Promotion of Technology Transfer from Universities to Private Business Operators]]"
   - "[[Tsukuba Science City]]"
   - "[[Korea Innovation Policy System]]"
   - "[[OECD]]"
@@ -76,7 +77,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-03
-updated: 2026-09-21
+updated: 2026-10-03
 year: 2026
 doi: ""
 citation_aliases:
@@ -373,7 +374,7 @@ citation_aliases:
 > 2016年提出"社会5.0"愿景，定义为继狩猎、农耕、工业、信息之后的"超级智能社会"阶段。2021年颁布第六期基本计划，明确人工智能、生物技术、量子技术、材料技术为重点方向。政府设立10万亿日元大学基金支持基础技术研究，实施税收减免政策将企业研发税收抵免从12%提升至20%-30%。自20世纪80年代起，日本开发银行设立"产业技术开发促进机构"投入80亿日元为企业联合研发提供90%经费支持(pp.48–49)。
 
 > [!info] 产学研机制：联合研发平台与技术城市
-> 政策层面，1998年颁布《大学技术转让促进法》，借鉴斯坦福模式成立技术许可组织（TLO）。2015年成立日本开放创新协议会，2017年提出"开放创新2.0"概念，从"一对一"合作转向构建[[Innovation Ecosystem\|创新生态系统]]。文部科学省每年发布《日本科技白皮书》持续深化对开放创新的认识(pp.49–50)。
+> 政策层面，1998年颁布《[[Act on the Promotion of Technology Transfer from Universities to Private Business Operators|大学技术转让促进法]]》，借鉴斯坦福模式成立技术许可组织（TLO）。2015年成立日本开放创新协议会，2017年提出"开放创新2.0"概念，从"一对一"合作转向构建[[Innovation Ecosystem\|创新生态系统]]。文部科学省每年发布《日本科技白皮书》持续深化对开放创新的认识(pp.49–50)。
 >
 > 企业层面，丰田联合15家大型企业共同出资赞助东京大学学术研究；"三菱系""丰田系"等企业集团充分利用内部资源开展创新；夏普、日立医疗、奥林巴斯等与东京大学在纳米量子信息电子学、先进医疗技术等领域建立紧密合作(p.50)。
 >
