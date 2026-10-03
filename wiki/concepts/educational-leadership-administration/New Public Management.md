@@ -7,7 +7,7 @@ aliases:
 summary: "以企业管理与市场竞争逻辑重塑公共部门的治理范式，强调绩效指标、产出控制、性价比核算、供给竞争、管理问责与服务外包，在带来微观成本控制的同时导致公共部门去技能化与创新治理的青蛙视角"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 42
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Rainer Kattel",
+      "path": "wiki/persons/estonia/Rainer Kattel.md"
+    },
+    {
       "basename": "Argument_Kattel_Mazzucato_2018_ICC",
       "path": "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Kattel_Mazzucato_2018_ICC.md"
+    },
+    {
+      "basename": "Randomised Controlled Trials",
+      "path": "wiki/methods/quantitative/Randomised Controlled Trials.md"
     },
     {
       "basename": "UN Sustainable Development Goals",
@@ -191,14 +199,6 @@
     {
       "basename": "Grandes Ecoles",
       "path": "wiki/concepts/higher-education/Grandes Ecoles.md"
-    },
-    {
-      "basename": "Research Universities",
-      "path": "wiki/concepts/higher-education/Research Universities.md"
-    },
-    {
-      "basename": "Pluralistic Federal Funding System",
-      "path": "wiki/concepts/science-policy/Pluralistic Federal Funding System.md"
     }
   ],
   "omittedPaths": [],
