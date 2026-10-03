@@ -5,8 +5,44 @@
       "path": "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Kattel_Mazzucato_2018_ICC.md"
     },
     {
+      "basename": "UN Sustainable Development Goals",
+      "path": "wiki/facts/global/UN Sustainable Development Goals.md"
+    },
+    {
+      "basename": "DARPA",
+      "path": "wiki/facts/us/DARPA.md"
+    },
+    {
+      "basename": "Picking the Willing",
+      "path": "wiki/concepts/science-policy/Picking the Willing.md"
+    },
+    {
+      "basename": "Patient Capital",
+      "path": "wiki/concepts/economics/Patient Capital.md"
+    },
+    {
+      "basename": "Technological Trajectories",
+      "path": "wiki/theories/political-economy-geopolitics/Technological Trajectories.md"
+    },
+    {
+      "basename": "Evolutionary Economics",
+      "path": "wiki/theories/political-economy-geopolitics/Evolutionary Economics.md"
+    },
+    {
+      "basename": "Wicked Problem",
+      "path": "wiki/concepts/science-policy/Wicked Problem.md"
+    },
+    {
+      "basename": "Public Dynamic Capabilities",
+      "path": "wiki/concepts/science-policy/Public Dynamic Capabilities.md"
+    },
+    {
       "basename": "Complexity Paradox",
       "path": "wiki/concepts/science-policy/Complexity Paradox.md"
+    },
+    {
+      "basename": "Mission-Oriented Innovation Policy",
+      "path": "wiki/concepts/science-policy/Mission-Oriented Innovation Policy.md"
     },
     {
       "basename": "New Public Management",
@@ -73,10 +109,6 @@
       "path": "wiki/concepts/university-industry-collaboration/Valley of Death.md"
     },
     {
-      "basename": "Technological Trajectories",
-      "path": "wiki/theories/political-economy-geopolitics/Technological Trajectories.md"
-    },
-    {
       "basename": "Network Governance",
       "path": "wiki/concepts/political-economy-geopolitics/Network Governance.md"
     },
@@ -89,14 +121,6 @@
       "path": "wiki/facts/us/National Institutes of Health.md"
     },
     {
-      "basename": "DARPA",
-      "path": "wiki/facts/us/DARPA.md"
-    },
-    {
-      "basename": "UN Sustainable Development Goals",
-      "path": "wiki/facts/global/UN Sustainable Development Goals.md"
-    },
-    {
       "basename": "Systems of Innovation",
       "path": "wiki/theories/university-industry-collaboration/Systems of Innovation.md"
     },
@@ -105,24 +129,12 @@
       "path": "wiki/theories/science-policy/ROAR Framework.md"
     },
     {
-      "basename": "Wicked Problem",
-      "path": "wiki/concepts/science-policy/Wicked Problem.md"
-    },
-    {
-      "basename": "Evolutionary Economics",
-      "path": "wiki/theories/political-economy-geopolitics/Evolutionary Economics.md"
-    },
-    {
       "basename": "Innovation Policy Paradigms",
       "path": "wiki/concepts/university-industry-collaboration/Innovation Policy Paradigms.md"
     },
     {
       "basename": "Mariana Mazzucato",
       "path": "wiki/persons/italy/Mariana Mazzucato.md"
-    },
-    {
-      "basename": "Mission-Oriented Innovation Policy",
-      "path": "wiki/concepts/science-policy/Mission-Oriented Innovation Policy.md"
     },
     {
       "basename": "Market Shaping and Creating",
@@ -187,18 +199,6 @@
     {
       "basename": "Pluralistic Federal Funding System",
       "path": "wiki/concepts/science-policy/Pluralistic Federal Funding System.md"
-    },
-    {
-      "basename": "Federally Funded Research and Development Centers",
-      "path": "wiki/facts/us/Federally Funded Research and Development Centers.md"
-    },
-    {
-      "basename": "National Science Foundation",
-      "path": "wiki/facts/us/National Science Foundation.md"
-    },
-    {
-      "basename": "Bayh-Dole Act of 1980",
-      "path": "wiki/facts/us/Bayh-Dole Act of 1980.md"
     }
   ],
   "omittedPaths": [],
