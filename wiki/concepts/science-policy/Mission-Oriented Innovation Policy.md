@@ -116,6 +116,10 @@ updated: 2026-10-03
 
 ## 核心要素与治理架构
 
+> [!feature] 使命导向政策的两大核心支柱（Kattel & Mazzucato, 2018, pp. 789–790）
+> - **确立公共投资的战略目的（Purpose-Setting for Public Investments）** 将“大科学”（Big Science）研究能力与“大问题”（Big Problems）应对深度结合，打破新古典市场失灵框架，通过长期耐性资本为国家发展锚定前沿方向。
+> - **开辟与塑造新市场条件（Market Shaping & Creating Conditions）** 借助战略性公共采购、规制重塑与需求侧牵引，促进大科学成果在供给端与需求端产生广泛外溢，撬动（Crowd in）私营企业与第三部门的自发探索与协同创新。
+
 > [!feature] 现代使命导向政策的五大遴选与推进标准
 > - **宏大愿景与广泛社会相关性** 使命必须能激发广泛社会共鸣，将重大社会挑战（如气候适应、无塑海洋、癌症攻坚）转化为触及民众切身利益的战略行动。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 811)]]
 > - **明确的方向性与时限指标** 设定清晰具体的量化指标或二元判定标准，并明确合理的达成时间窗口（如 5–10 年），确保过程可监测与动态问责。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 811)]]
@@ -143,7 +147,7 @@ updated: 2026-10-03
 > - **方向性引导（Directionality）** 明确公共资源投入的优先战略方向，打破技术演进的路径依赖，引导创新活动朝向可持续发展与公共福祉。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
 > - **需求表达机制（Demand Articulation）** 建立吸纳用户、公民与利益相关方参与的制度渠道，将模糊的社会需求转化为明确的创新采购、规制标准与应用场景。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
 > - **[[Reflexivity|反思性]]治理（Reflexivity）** 建立动态监测、政策试验与适应性调整机制，及时纠正技术锁定与政策偏倚，应对转型过程中的[[Scientific Uncertainty|认知不确定性]]。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
-> - **跨部门跨层级协调（Policy Coordination）** 打破各级政府与部门壁垒，统筹科技、环境、产业、卫生与空间规划等多维政策工具。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–476)]]
+> - **跨部门跨层级协调（Policy Coordination）** 打破各级政府与部门壁垒，统筹科技、环境、产业、卫生与空间规划等多维政策工具，破解现代政策的[[Complexity Paradox|复杂性悖论]]。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–476)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791)]]
 
 ---
 
@@ -234,6 +238,7 @@ updated: 2026-10-03
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 系统梳理使命导向政策的百年三代演进历程，提出融合熊彼特动态能力与韦伯国家能力的三层动态能力构架，确立从“支持与衡量”向[[Lead-and-Learn Paradigm|引领与学习范式]]的转型路径。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 奠基性理论[[Document|文献]]，系统论证使命导向创新政策从市场修补转向[[Market Shaping and Creating|市场塑造]]与共创，提出 ROAR 治理框架与五大遴选标准。
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 提出基于问题–解决方案空间的使命导向创新政策[[Analytic Framework|分析框架]]，系统阐述其内涵、棘手维度与收敛路径。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 论述[[Innovation Policy Paradigms|创新政策三范式]]演进脉络，分析[[Transformative Change|变革转型范式]]下大学作为中立召集者与方向性情报贡献者的新型角色定位。

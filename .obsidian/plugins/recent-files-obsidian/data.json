@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Technological Convergence",
+      "path": "wiki/concepts/economics/Technological Convergence.md"
+    },
+    {
       "basename": "Argument_Lecuyer_1999_HT",
       "path": "wiki/arguments/journal-articles/History and Technology/Argument_Lecuyer_1999_HT.md"
     },
     {
-      "basename": "Lecuyer_1999_HT",
-      "path": "sources/Lecuyer_1999_HT/Lecuyer_1999_HT.md"
-    },
-    {
       "basename": "San Francisco Bay Area",
       "path": "wiki/concepts/university-industry-collaboration/San Francisco Bay Area.md"
+    },
+    {
+      "basename": "Lecuyer_1999_HT",
+      "path": "sources/Lecuyer_1999_HT/Lecuyer_1999_HT.md"
     },
     {
       "basename": "Tokyo Bay Area",
@@ -195,10 +199,6 @@
     {
       "basename": "Fraunhofer Society Model",
       "path": "wiki/facts/germany/Fraunhofer Society Model.md"
-    },
-    {
-      "basename": "Max Planck Society",
-      "path": "wiki/facts/germany/Max Planck Society.md"
     }
   ],
   "omittedPaths": [],

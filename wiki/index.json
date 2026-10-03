@@ -10393,6 +10393,17 @@
     ]
   },
   {
+    "title": "Complexity Paradox",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Complexity Paradox.md",
+    "aliases": [
+      "复杂性悖论",
+      "complexity paradox of modern public policy",
+      "现代公共政策复杂性悖论",
+      "政策复杂性悖论"
+    ]
+  },
+  {
     "title": "Congressional Earmarks",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Congressional Earmarks.md",
@@ -10405,6 +10416,18 @@
     ]
   },
   {
+    "title": "Directionality of Innovation",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Directionality of Innovation.md",
+    "aliases": [
+      "创新的方向性",
+      "创新方向性",
+      "创新政策的方向性转向",
+      "direction of innovation",
+      "directionality"
+    ]
+  },
+  {
     "title": "Institutionalising Social Learning",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Institutionalising Social Learning.md",
@@ -10414,6 +10437,17 @@
       "社会学习治理",
       "Social Learning in Governance",
       "Social Learning (Policy and Transitions)"
+    ]
+  },
+  {
+    "title": "Lead-and-Learn Paradigm",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Lead-and-Learn Paradigm.md",
+    "aliases": [
+      "引领与学习范式",
+      "lead-and-learn approach",
+      "lead and learn",
+      "支持与衡量范式转向"
     ]
   },
   {
@@ -14416,6 +14450,18 @@
     "aliases": [
       "ROAR Policy Framework",
       "ROAR Framework for Innovation Policy"
+    ]
+  },
+  {
+    "title": "Three Generations of Mission-Oriented Policy",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Three Generations of Mission-Oriented Policy.md",
+    "aliases": [
+      "三代使命导向政策理论",
+      "使命导向政策三代演进",
+      "Three Transformations of Mission-Oriented Policies",
+      "骆驼-狮子-儿童使命政策演化模型",
+      "three generations of mission-oriented policies"
     ]
   },
   {
@@ -19579,6 +19625,16 @@
     "aliases": [
       "克里斯蒂安·伊德森",
       "Christian Valdemar Ydesen"
+    ]
+  },
+  {
+    "title": "Rainer Kattel",
+    "type": "person",
+    "path": "wiki/persons/estonia/Rainer Kattel.md",
+    "aliases": [
+      "莱纳·卡特尔",
+      "卡特尔",
+      "Kattel, R."
     ]
   },
   {
@@ -29929,6 +29985,11 @@
     "title": "Argument_Li_2025_HSSC",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md"
+  },
+  {
+    "title": "Argument_Kattel_Mazzucato_2018_ICC",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Kattel_Mazzucato_2018_ICC.md"
   },
   {
     "title": "Argument_Metli_2022_IJER",
