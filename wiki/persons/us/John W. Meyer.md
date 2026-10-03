@@ -4,8 +4,7 @@ aliases:
   - Meyer, J. W.
   - John Meyer
   - 约翰·迈耶
-  - 迈耶
-summary: "美国社会学家，斯坦福学派新制度主义与世界社会理论奠基人，揭示全球文化模型、组织行动者身份与为他者行动机制，解释战后教育体制的全球同构与现代大学角色。"
+summary: 美国社会学家，斯坦福学派新制度主义与世界社会理论奠基人，揭示全球文化模型、组织行动者身份与为他者行动机制，解释战后教育体制的全球同构与现代大学角色。
 type: person
 nationality: us
 person_region: "us"
@@ -15,7 +14,7 @@ person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
 born: "1935"
 died: ""
-lifespan: "1935–至今"
+lifespan: 1935–至今
 tags:
   - region/us
   - discipline/sociology
@@ -68,8 +67,8 @@ related_arguments:
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
 confidence: high
 status: completed
-created: '2026-05-11'
-updated: 2026-10-02
+created: 2026-05-11
+updated: 2026-10-04
 ---
 
 # John W. Meyer

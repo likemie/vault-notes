@@ -310,7 +310,7 @@ updated: 2026-09-29
 
 ## 关键引用
 
-> [!citation-card] [[John W. Meyer|迈耶]]论世界文化普遍规范对主权国家的制度塑形
+> [!citation-card] 迈耶论世界文化普遍规范对主权国家的制度塑形
 > 我们的孤岛社会显然将成为由民族国家和个人构成的世界共同体的完全成员候选者。人权、国家保护的公民权利和民主形式将成为其天然的权利要求。一个按照理性化术语界定与衡量、并在国家规约下以增长为导向的经济系统将会出现。一套正式的国家政体将是不可或缺的，包括宪法、公民身份、法律、教育结构以及开放的参与和沟通形式。（pp.103–104）
 >
 > *Our island society would obviously become a candidate for full membership in the world community of national and individuals. Human rights, state-protected citizen rights, and democratic forms would become natural entitlements. An economy would emerge, defined, and measured in rationalized terms and oriented to [[Growth]] under state regulations. A formal national polity would be essential, including a constitution, citizenship, laws, educational structures, and open forms of participation and communication.*

@@ -63,7 +63,6 @@ related_instruments: []
 related_persons:
   - "[[Philip H. Coombs]]"
   - "[[Robert Arnove]]"
-  - "[[John W. Meyer]]"
   - "[[Carlos Alberto Torres]]"
   - "[[Liliana Esther Olmos]]"
   - "[[Val D. Rust]]"
@@ -189,7 +188,7 @@ updated: 2026-10-01
 > > [!axis] 国际规范模板与本土国情适切性的结构张力：普适学制与教学法 vs 本土情境制约
 > > 比较教育学者揭示教科文组织标准模式在发展中国家本土遭遇的脱节与变通。
 > >
-> > - **世界文化批判与微观教学学者（[[John W. Meyer|迈耶]]等与阿诺夫）** 指出，教科文组织倡导的国际标准学制模型（如初等、初中、高中 6-3-3 年限标准）以及以儿童为中心的现代阅读教学指引，往往与发展中国家内部资源匮乏（大[[Class Size|班额]]、教材奇缺）或特定国家的历史文化传统产生剧烈张力；地方教师和社区往往根据自身条件对全球模板进行广泛的抵制、变通与重构。[[Argument_Arnove_2009_WorldSystems|(Meyer et al., 1997; Anderson-Levitt, 2003, cited in Arnove, 2009, pp. 106, 108)]]
+> > - **世界文化批判与微观教学学者（迈耶等与阿诺夫）** 指出，教科文组织倡导的国际标准学制模型（如初等、初中、高中 6-3-3 年限标准）以及以儿童为中心的现代阅读教学指引，往往与发展中国家内部资源匮乏（大[[Class Size|班额]]、教材奇缺）或特定国家的历史文化传统产生剧烈张力；地方教师和社区往往根据自身条件对全球模板进行广泛的抵制、变通与重构。[[Argument_Arnove_2009_WorldSystems|(Meyer et al., 1997; Anderson-Levitt, 2003, cited in Arnove, 2009, pp. 106, 108)]]
 > > - **教科文组织官方立场** 认为国际通行的学制与[[21st Century Skills and Competencies Discourse|核心素养]]参照框架有助于推动跨国教育质量基准建立，并为后发国家提供清晰的教育现代化蓝图。
 > >
 > > [!axis] 跨国自由借用与全球化趋同 vs [[Education for All|全民教育]]（[[Exploratory Factor Analysis|EFA]]）中的结构再生产与主权自决

@@ -10,7 +10,7 @@ summary: "美国卡内基梅隆大学工程与公共政策教授，技术变革�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 17
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,12 +28,14 @@ related_concepts:
   - "[[Embedded Network Governance]]"
   - "[[Network Governance]]"
   - "[[Paradigm]]"
+  - "[[Structural Holes]]"
+  - "[[Boundary Spanner]]"
   - "[[Technology Infusion]]"
   - "[[Document]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Boundary Spanner]]"
 related_theories:
   - "[[Technological Trajectories]]"
+  - "[[Organizational Culture]]"
 related_methods:
   - "[[Grounded Theory]]"
   - "[[Case Study]]"
@@ -79,17 +81,27 @@ updated: 2026-10-04
 
 ## 主要著作与思想发展
 
-> [!work-line] 主要著作
-> - **2010 — *Rethinking the role of the state in technology development: [[DARPA]] and the case for [[Embedded Network Governance]]*** 基于对 DARPA 微系统技术办公室在硅锗（SiGe）、应变硅、3D封装与硅基光子学领域历经 16 年的纵向[[Case Study|案例研究]]，提出嵌入型[[Network Governance|网络治理]]概念，破解发展型网络国家理论中缺乏技术方向引导能动性的理论瓶颈。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1147)]]
-> - **2012 — *The impact of location on technology trajectories: Why silicon photonics failed to scale in the US*** 考察全球化生产转移对前沿硬件技术迭代轨迹的结构性制约，论证制造能力的地理分离如何削弱本土研发团队的设计-制造反馈闭环。
-> - **2023 — *Building the analytical foundation for national technology strategy*** 阐述大数据时代如何构建国家关键技术战略评估的情报基础设施，主张将技术微观工程细节与宏观经济安全指标紧密融合。
+> [!work-line] 主要著作与思想演进
+> - **2010 — *Rethinking the role of the state in technology development: [[DARPA]] and the case for [[Embedded Network Governance]]***（《重新审视国家在技术发展中的角色：DARPA 与嵌入型[[Network Governance|网络治理]]案例》） 基于对 DARPA 微系统技术办公室在硅锗（SiGe）、应变硅、3D 封装与超高性能片内纳米光子通信（UNIC）芯片互连领域历经 16 年的纵向扎根[[Case Study|案例研究]]，系统梳理 DARPA 建局 50 年来跨越 6 个年代的使命演化，对比 1990 年代与 2000 年代托尼·瑟瑟任期采办制度的激进重组，提出嵌入型[[Network Governance|网络治理]]概念，揭示项目经理（PMs）依托 5 项微观非正式制度重塑研发者社会网络以开辟战略[[Technological Trajectories|技术轨道]]，终结了学术界关于托尼·瑟瑟改革导致“DARPA已死”的争论。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1147)]]
+> - **2012 — *The impact of location on technology trajectories: Why silicon photonics failed to scale in the US*** 考察全球化生产转移对前沿硬件技术迭代轨迹的结构性制约，论证制造能力的地理分离如何削弱本土研发团队的设计–制造反馈闭环。
+> - **2023 — *Building the analytical foundation for national technology strategy*** 阐述大数据时代如何构建国家关键技术战略评估的情报基础设施，主张将底层微观工程参数、产业链拓扑与宏观经济安全指标紧密融合。
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心主张
-> 国家在科技发展中的角色既非新自由主义所宣扬的被动提供基础研究补贴与税收优惠的“自由市场守夜人”，亦非传统韦伯式发展型国家自上而下武断指定赢家的“科层挑选者”（Picking winners）；相反，国家能够通过具备顶尖技术判断力并深度嵌入专业共同体的公共代理人（如 [[DARPA]] 项目经理），主动调动机动性资金和立项特权重塑科学家与企业之间的社会关系网络，在不钦定单一技术赢家的前提下有力开辟国家关键[[Technological Trajectories|技术轨道]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135, 1144–1145)]]
+> 国家在科技创新中的角色既非新自由主义所主张的被动提供基础研究补贴与税收优惠的“自由市场守夜人”，亦非传统韦伯式发展型国家自上而下武断指定赢家的“科层挑选者”（Picking winners）；相反，国家能够通过具备顶尖技术判断力并深度嵌入专业共同体的公共代理人（如 [[DARPA]] 项目经理），主动调动机动性资金和立项特权重塑科学家与企业之间的社会关系网络，在不钦定单一技术赢家的前提下有力开辟国家关键[[Technological Trajectories|技术轨道]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135, 1144–1145)]]
+
+> [!theory-components] 福克斯技术治理理论的核心理论构件
+> - **[[Embedded Network Governance|嵌入型网络治理]]（Embedded [[Network Governance]]）**
+>   公共代理人内嵌于专业网络，凭借技术研判权与网络中心位置，充当“乐队指挥家”与“系统集成者”，主动重构研发网络连接形态。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135)]]
+> - **网络可塑性（Network Plasticity）超越消极边界跨越**
+>   突破罗纳德·伯特（Ronald Burt）[[Structural Holes|结构洞]]理论与李·弗莱明（Lee Fleming）[[Boundary Spanner|边界跨越者]]理论中行动者仅作为中立信息通道的局限，论证公共代理人具备利用立项权裁撤冗余链接、打破学术孤岛并强迫跨界知识流动的网络重塑能动性。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135, 1144–1145)]]
+> - **正式管理文化与微观非正式制度的解耦与韧性**
+>   证明上层正式采办机制的激进变革（如瑟瑟改革推行老牌巨头主承包商、硬性里程碑淘汰与涉密限制）并未摧毁机构内核；项目经理践行的 5 项非正式机制（前瞻识别、闭门风暴、共生共同体、第三方背书与适时断乳）展现出强大的制度韧性，成为维系颠覆性创新效能的深层基石。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134, 1144–1146)]]
+> - **纵向碎片化（Vertical Dis-integration）产业的平台整合**
+>   在后摩尔时代半导体分工碎片化格局下，单个商业主体无力承担跨学科共性[[Technology Infusion|技术整合]]风险，国家代理人通过搭建跨层级竞合联合体有效化解系统协调失灵。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1142–1144)]]
 
 > [!citation-card] [[Embedded Network Governance|嵌入型网络治理]]的治理定位
 > 我们必须在科技政策制定中引入一个新选项——嵌入型[[Network Governance|网络治理]]。在这一模式中，嵌入于专业网络的政府代理人重新架构研发者之间的社会网络，以便在美国识别并引导新的技术方向。这种模式在不挑选单一技术赢家的同时，有效填补了纵向碎片化产业生态中的[[Technology Infusion|技术整合]]鸿沟。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133, 1146)]]
@@ -113,6 +125,7 @@ updated: 2026-10-04
 > - **研究对象／机构** [[DARPA]] — 长期追踪其微系统技术办公室（MTO）在冷战后（1992–2008）的技术资助实践与制度演变。
 > - **对话理论家** [[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato） — 共同推进关于探索型公共组织与创新国家能动性的理论建构。
 > - **对话理论家** 戴维·莫厄里（[[David C. Mowery]]） — 在战后美国微电子与计算机国防采办对[[Innovation Ecosystem|创新生态]]影响的学术脉络上形成理论呼应。
+> - **对话网络学者** 罗纳德·伯特（Ronald Burt）与李·弗莱明（Lee Fleming） — 就[[Structural Holes|结构洞]]、[[Boundary Spanner|边界跨越者]]与网络可塑性展开理论对话。
 
 ---
 
@@ -124,5 +137,7 @@ updated: 2026-10-04
 > |:-----|:-----|:-----|
 > | [[Embedded Network Governance]] | 概念 | 开创性提出该概念，系统界定公共代理人识别方向、播撒主题、促进研讨、第三方背书与适时断乳的五大微观治理机制。 |
 > | [[DARPA]] | 机构 | 实证厘清托尼·瑟瑟（Tony Tether）局长任期内虽发生采办结构巨变，但项目经理层面的非正式治理制度仍保持高度连续性。 |
+> | [[Technological Trajectories]] | 理论 | 论证公共代理人如何在纵向碎片化产业中调动网络可塑性以引导国家前沿技术轨道跃迁。 |
+> | [[Organizational Culture]] | 理论 | 揭示正式管理文化重组与微观非正式制度之间的解耦机制与深层韧性。 |
 > | [[Network Governance]] | 概念 | 将网络治理[[Paradigm\|范式]]引入硬科技前沿创新攻坚，阐明嵌入型公共网络如何克服纵向碎片化产业的协调失灵。 |
 > | [[Boundary Spanner]] | 概念 | 深化边界跨越者理论，论证项目经理超越消极联络人角色，展现为主动架构网络关系的“乐队指挥家”与“系统集成者”。 |

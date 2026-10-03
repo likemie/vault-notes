@@ -168,7 +168,7 @@ updated: 2026-10-01
 > > 围绕全球教育趋同的动因展开世纪争论：是普世文明信念的扩散，还是资本主义中心对边缘的[[Disciplina and Doctrina|规训]]与分层固化。
 > >
 > > - **沃勒斯坦与[[Robert Arnove|阿诺夫]]现实主义学派** 坚称教育扩张服务于国际资本积累，形式趋同掩盖了实质阶级再生产。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
-> > - **[[John W. Meyer|迈耶]][[Stanford School|斯坦福学派]]** 坚信普世理性文化正在非强制地塑造平等的现代公民社会。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 102–104)]]
+> > - **迈耶[[Stanford School|斯坦福学派]]** 坚信普世理性文化正在非强制地塑造平等的现代公民社会。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 102–104)]]
 
 > [!critique]- 批评索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 评述世界体系分析在解释微观课堂实践与行动者文化抵制方面的局限，提出以全球与本土辩证法予以综合发展。

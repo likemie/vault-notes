@@ -37,8 +37,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Systematic Review]]"
 related_instruments: []
-related_persons:
-  - "[[John W. Meyer]]"
+related_persons: []
 related_facts:
   - "[[Association of Medical Research Charities]]"
   - "[[Research Excellence Framework]]"
@@ -92,7 +91,7 @@ updated: 2026-09-29
 > > 学界对 Researchfish 所代表的科研管理体制在方法学与学术伦理上的负外部性展开了猛烈批评。
 > >
 > > - **戈拉德等（[[Argument_Gorard_2020_ROE\|Gorard et al., 2020]]）** 从循证科学哲学视角指出，真实教育情境极少开展直接重复试验，单项研究结论极易受特定样本与未测[[Variable\|变量]]扰动；要求单项研究产出独立现实影响不仅背离了贝叶斯证据综合原则，更通过 Researchfish 等考核压力迫使学者蜕化为“学术推销员”（Salespersons），甚至向无效干预颁发影响力大奖。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 572–573)]]
-> > - **丘布与沃特[[John W. Meyer|迈耶]]（Chubb & Watermeyer, 2017）** 揭示了考核机制对学术诚信的系统性侵蚀，证实研究者在资助方与 [[Research Excellence Framework\|REF]] 压力下，被迫策略性地夸大甚至虚构其研究在现实中的社会经济效益。
+> > - **丘布与沃特迈耶（Chubb & Watermeyer, 2017）** 揭示了考核机制对学术诚信的系统性侵蚀，证实研究者在资助方与 [[Research Excellence Framework\|REF]] 压力下，被迫策略性地夸大甚至虚构其研究在现实中的社会经济效益。
 
 > [!lessons] 经验教训与治理警示
 > - **规避对单项[[Research Impact\|研究影响力]]的狂热考核** 将宏观政策采纳与微观教学改革寄托于单项孤立研究具有高度危险性。科研评价应当激励基于高质量[[Systematic Review\|系统综述]]与多重因果检验的贝叶斯证据体积累，而非鼓励学者过早向市场兜售未臻成熟的原型方案。

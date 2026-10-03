@@ -93,7 +93,7 @@ updated: 2026-09-29
 ## 形成渊源与演进历程
 
 > [!dev-timeline] 学派演进里程碑
-> - **1970s — 组织制度主义奠基** [[John W. Meyer|迈耶]]与罗恩（Meyer & Rowan, 1977）发表《制度化组织：作为神话与仪式的正式结构》，针对美国学校内部“松散联结”（loose coupling）与宏观合法性并存的悖论，首次阐明正式结构迎合[[Rationalized Myth|制度神话]]的去耦合机制。
+> - **1970s — 组织制度主义奠基** 迈耶与罗恩（Meyer & Rowan, 1977）发表《制度化组织：作为神话与仪式的正式结构》，针对美国学校内部“松散联结”（loose coupling）与宏观合法性并存的悖论，首次阐明正式结构迎合[[Rationalized Myth|制度神话]]的去耦合机制。
 > - **1977–1987 — 大众教育大扩张跨国实证转向** 迈耶、拉米雷斯与博利等学者（Meyer et al., 1977; Ramirez & Boli, 1987）运用大样本跨国时间序列回归，[[Falsification|证伪]]了大众教育取决于国内工业化水平的功能主义假说，论证国家构建与成员身份界定是驱动全球义务教育普及的政治文化动力。[[Argument_Amos_2022_Springer|(Amos, 2022, pp. 54–55)]]
 > - **1990s — [[World Society Theory|世界社会理论]]系统化** 迈耶等（Meyer, Boli, Thomas, & Ramirez, 1997）在《美国社会学期刊》发表集大成之作《世界社会与民族国家》，界定去中心化的理性化[[Cultural Models|世界文化模型]]、[[Otherhood|为他者行动]]与主权形式趋同，学派跃升为跨国治理与全球化研究主流[[Paradigm|范式]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]
 > - **2000s 至今 — 全球评估、人权课程与组织能动性拓展** [[Aaron Benavot|贝纳沃特]]、布罗姆利、弗兰克与扎普（Zapp）等后继学者，将理论版图拓展至全球课程标准化、人权教育渗透、现代大学作为理性化完全组织的能动性演变，以及国际组织在[[UN Sustainable Development Goals|可持续发展目标]]（SDGs）多边治理中的[[Knowledge Production|知识生产]]。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 148–154)]]
