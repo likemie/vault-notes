@@ -1,6 +1,7 @@
 ---
 citation: "Kattel, R., & Mazzucato, M. (2018). Mission-oriented innovation policy and dynamic capabilities in the public sector. Industrial and Corporate Change, 27(5), 787–801. https://doi.org/10.1093/icc/dty032"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
 processed_date: 2026-10-03
 ---
 

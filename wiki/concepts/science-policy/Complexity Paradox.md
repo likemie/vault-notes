@@ -17,13 +17,20 @@ tags:
   - governance
   - public-administration
   - complexity
-related_concepts: []
+related_concepts:
+  - "[[Mission-Oriented Innovation Policy]]"
+  - "[[Public Dynamic Capabilities]]"
+  - "[[Lead-and-Learn Paradigm]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Rainer Kattel]]"
+  - "[[Mariana Mazzucato]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
 confidence: high
 status: active
 created: 2026-10-03
@@ -37,15 +44,15 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> **复杂性悖论（Complexity Paradox / Complexity Paradox of Modern Public Policy）**是指现代公共治理中所出现的一种结构性制度异化现象：面对日益复杂的全球性重大社会危机（如气候变化、公共健康、人口老龄化与跨部门经济转型），政策议题的系统关联度越高、跨领域属性越强，政府内部的行政机构和政策制定机制反而越发倾向于自我封闭、条块分割（Compartmentalized）与碎片化操作。这一悖论最早由格里·斯威尼（Gerry Sweeney, 1985）明确指出，并由莱纳·[[Rainer Kattel|卡特尔]]（Rainer Kattel）与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）引入使命导向政策分析，用以解释为何旨在发挥宏观协调功能的传统创新政策往往沦为各部门争夺资源的孤岛式碎片工具。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791)]]
+> **复杂性悖论（Complexity Paradox / Complexity Paradox of Modern Public Policy）**是指现代公共治理中所出现的一种结构性制度异化现象：面对日益复杂的全球性重大社会危机（如气候变化、公共健康、人口老龄化与跨部门经济转型），政策议题的系统关联度越高、跨领域属性越强，政府内部的行政机构和政策制定机制反而越发倾向于自我封闭、条块分割与碎片化操作。这一悖论最早由格里·斯威尼（Gerry Sweeney, 1985）明确指出，并由莱纳·[[Rainer Kattel|卡特尔]]（Rainer Kattel）与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）引入使命导向政策分析，用以解释为何旨在发挥宏观协调功能的传统创新政策往往沦为各部门争夺资源的孤岛式碎片工具。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示了政策问题客观复杂性与科层组织主观分割性之间的内在张力。
-> - **用途** 帮助公共管理与政策研究者解释跨部门政策协调失灵（Coordination Failure）的深层制度根源。
+> - **用途** 帮助公共管理与政策研究者解释跨部门政策协调失灵的深层制度根源。
 > - **边界** 指向科层体制应对系统性复杂议题时的结构性退缩，不同于一般性的行政官僚主义或办事拖延。
 
 > [!citation-card] 现代公共政策的复杂性悖论
-> 特别是对当代政府而言，这意味着不同政策领域之间的协调已经成为政策制定中最“棘手”的问题。事实上，可以说“创新政策”作为独立政策领域的出现，在 1970 年代末和 1980 年代初正是作为一项协调性政策而提出的。然而，这一初衷未能实现，其原因可以在我们称之为现代公共政策的复杂性悖论中找到：政策问题越复杂，政策制定就变得越条块分割。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 790)]]
+> 特别是对当代政府而言，这意味着不同政策领域之间的协调已经成为政策制定中最棘手的问题。事实上，可以说创新政策作为独立政策领域的出现，在 1970 年代末和 1980 年代初正是作为一项协调性政策而提出的。然而，这一初衷未能实现，其原因可以在我们称之为现代公共政策的复杂性悖论中找到：政策问题越复杂，政策制定就变得越条块分割。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 790)]]
 >
 > *Particularly for modern-day governments, this means that coordination between various policy fields has become perhaps the most “wicked” issue in policymaking... the reasons for this can be found in what we can call a complexity paradox of modern public policy: the more complex policies issues are, the more compartmentalized policymaking becomes.*
 
@@ -74,7 +81,7 @@ updated: 2026-10-03
 > 探讨如何通过顶层使命设定打破部门行政壁垒。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
-> **统摄性使命重塑跨部门协同** 使命导向创新政策通过将宏大复杂的社会危机转化为具有明确时间表和战略目标的国家级使命（如阿波罗登月或净零排放），能够超越单一部门的狭隘利益壁垒，将分散在财政、工业、交通、科技与环境等不同部门的政策工具与研发投资重新编织在统一的目标之下，从而有效克服现代政府深陷的复杂性悖论。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791)]]
+> **统摄性使命重塑跨部门协同** [[Mission-Oriented Innovation Policy|使命导向创新政策]]通过将宏大复杂的社会危机转化为具有明确时间表和战略目标的国家级使命（如阿波罗登月或净零排放），能够超越单一部门的狭隘利益壁垒，将分散在财政、工业、交通、科技与环境等不同部门的政策工具与研发投资重新编织在统一的目标之下，从而有效克服现代政府深陷的复杂性悖论。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791)]]
 
 ---
 
@@ -86,4 +93,4 @@ updated: 2026-10-03
 > |:-----|:-----|:-----------|
 > | [[Mission-Oriented Innovation Policy]] | 概念 | 复杂性悖论是催生使命导向政策作为跨部门协调框架的核心制度动因。 |
 > | [[Public Dynamic Capabilities]] | 概念 | 破除复杂性悖论需要公共机构建立高水平的政策协调与行政流动能力。 |
-> | [[Lead-and-Learn Paradigm]] | 概念 | 引领与学习范式为破解条块分割提供了敏捷治理方法论。 |
+> | [[Lead-and-Learn Paradigm]] | 概念 | 引领与学习[[Paradigm\|范式]]为破解条块分割提供了敏捷治理方法论。 |

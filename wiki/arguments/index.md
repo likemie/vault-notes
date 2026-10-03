@@ -329,7 +329,7 @@ Total entries: **299**
 > - [[Argument_Li_2025_HSSC]] — 系统综述 85 篇实证研究，分析 PISA 对全球基础教育改革在质量与公平两个核心维度上的影响，提出超国家—国家—内部行动者网络三层政策影响机制模型
 
 > [!index-list]- Industrial and Corporate Change (1)
-> - [[Argument_Kattel_Mazzucato_2018_ICC]] — 系统梳理使命导向创新政策从后发追赶、冷战大科学到应对重大社会挑战的三代历史演变，综合熊彼特动态能力与韦伯国家能力理论，提出国家、政策与行政三层公共部门动态能力分析框架与引领–学习治理范式
+> - [[Argument_Kattel_Mazzucato_2018_ICC]] — 系统梳理使命导向创新政策从后发追赶、冷战大科学到应对重大社会挑战的三代历史演变，综合熊彼特双元动态能力与韦伯国家能力理论，提出国家政治合法性、政策协同组合与行政敏捷流动三层公共部门动态能力分析矩阵，确立引领与学习治理新范式
 
 > [!index-list]- International Journal of Educational Reform (1)
 > - [[Argument_Metli_2022_IJER]] — 国际文凭大学预科项目（IBDP）核心组件间的连贯性挑战探讨，并提出跨组件并发学习的实践策略。

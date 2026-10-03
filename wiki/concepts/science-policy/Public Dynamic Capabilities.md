@@ -28,14 +28,20 @@ related_concepts:
   - "[[Wicked Problem]]"
   - "[[Reflexivity]]"
   - "[[Source of Knowledge]]"
-  - "[[Picking the Willing]]"
+  - "[[Areas of Knowledge]]"
   - "[[Absorptive Capacity]]"
+  - "[[Lead-and-Learn Paradigm]]"
+  - "[[Operationalization]]"
+  - "[[Paradigm]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Document]]"
 related_theories:
   - "[[Technological Trajectories]]"
+  - "[[Evolutionary Economics]]"
   - "[[ROAR Framework]]"
+  - "[[Three Generations of Mission-Oriented Policy]]"
 related_persons:
+  - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"
 related_facts:
   - "[[DARPA]]"
@@ -43,6 +49,9 @@ related_facts:
   - "[[National Institutes of Health]]"
 related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
+  - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
+related_methods:
+  - "[[Analytic Framework]]"
 confidence: high
 status: active
 created: 2026-10-03
@@ -56,12 +65,12 @@ updated: 2026-10-03
 ## 定义与核心内涵
 
 > [!def] 核心定义
-> **公共部门动态能力（Public Sector Dynamic Capabilities / Public Dynamic Capabilities）**是指公共机构（包括政府部门、国家战略资助机构、公立大学与科研管理部门）在直面高度技术与社会不确定性时，主动识别宏观战略转型方向、调动跨部门协同资源、开展敏捷实验与风险组合管理，并在持续试错中实现制度化吸收与组织学习（Institutional Learning）的系统性组织能力。该概念由莱纳·卡特尔（Rainer Kattel）与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）系统提出，旨在打破[[New Public Management|新公共管理]]（NPM）将政府仅视为被动采购者与外包监管者的局限，确立公共部门作为创新“第一推动者”与[[Market Shaping and Creating|市场共创]]者的能力底座。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]
+> **公共部门动态能力（Public Sector Dynamic Capabilities / Public Dynamic Capabilities）**是指公共机构（包括政府部门、国家战略资助机构、公立大学与科研管理部门）在直面高度技术与社会不确定性时，主动识别宏观战略转型方向、调动跨部门协同资源、开展敏捷实验与风险组合管理，并在持续试错中实现制度化吸收与组织学习（Institutional Learning）的系统性组织能力。该概念由[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）系统提出，旨在打破[[New Public Management|新公共管理]]（New Public Management, NPM）将政府仅视为被动采购者与外包监管者的局限，确立公共部门作为创新第一推动者与[[Market Shaping and Creating|市场共创]]者的能力底座。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]
 
 > [!concept-lens] 概念透镜
-> - **微观组织视阈** 强调公共机构内部必须建立高水平的专有技术研判、风险容忍与里程碑管理能力，摒弃过度依赖外部私营咨询公司（咨询[[Consultocracy|顾问统治]]）所导致的[[Cognitive Deskilling|去技能化]]（De-skilling）。
-> - **中观网络视阈** 赋予公共项目经理（如 [[DARPA]] 模式）在跨界网络中连接高校、企业与公民社会的敏捷协调权与资源调配权。
-> - **宏观制度视阈** 将公共部门从新古典经济学防范腐败的静态科层控制，重塑为具备反思学习、能够主动开辟全新[[Technological Trajectories|技术轨道]]并创造[[Public Value|公共价值]]的企业型国家（Entrepreneurial State）载体。
+> - **微观组织视阈** 强调公共机构内部必须建立高水平的专有技术研判、风险容忍与里程碑管理能力，摒弃过度依赖外部私营咨询公司（[[Consultocracy|顾问统治]]）所导致的[[Cognitive Deskilling|去技能化]]（De-skilling）。
+> - **中观网络视阈** 赋予公共项目经理（如[[DARPA|美国国防高级研究计划局]] [Defense Advanced Research Projects Agency, [[DARPA]]] 模式）在跨界网络中连接高校、企业与公民社会的敏捷协调权与资源调配权。
+> - **宏观制度视阈** 将公共部门从新古典经济学防范腐败的静态科层控制，重塑为具备反思学习、能够主动开辟全新[[Technological Trajectories|技术轨道]]并创造[[Public Value|公共价值]]的企业型国家载体。
 
 ---
 
@@ -72,29 +81,29 @@ updated: 2026-10-03
 > | 分析维度 | 新公共管理与传统科层能力观（NPM / Frame 1） | 使命导向公共部门动态能力观（Frame 3 / Kattel & Mazzucato, 2018） |
 > |:---|:---|:---|
 > | **核心治理目标** | 遵从行政规程、合规防错、追求短期财政节约与微观效率。 | 确立宏观变革方向、塑造并共创新市场、解决[[Wicked Problem\|复杂社会难题]]。 |
-> | **组织运作模式** | 条块分割的孤岛式科层结构，依靠静态成本收益分析（CBA）决策。 | 去中心化探索网络、敏捷项目经理制、全流程动态[[Reflexivity\|反思性]]评估。 |
+> | **组织运作模式** | 条块分割的孤岛式科层结构，依靠静态成本收益分析（Cost-Benefit Analysis, CBA）决策。 | 去中心化探索网络、敏捷项目经理制、全流程动态[[Reflexivity\|反思性]]评估。 |
 > | **对失败与风险态度** | 零容忍风险，将单点项目失败视为行政失职与财政浪费。 | 遵循[[Investing in Innovation Program\|创新投资]]组合（Portfolio）规律，将试错视为组织学习的必要成本。 |
 > | **专业[[Source of Knowledge\|知识来源]]** | 核心战略规划与评估广泛外包给私营管理咨询公司（McKinsey 等）。 | 在公共机构内部系统培养和保留高水平科研、技术与管理复合型专家。 |
 > | **与私营部门关系** | 简单的买卖采购关系或单向去风险补贴（De-risking）。 | 风险共担与收益对等共享的长期战略共创伙伴关系。 |
 
-> [!feature] 公共部门动态能力的三层演化矩阵（Kattel & Mazzucato, 2018, pp. 796–798）
+> [!feature] 公共部门动态能力的三层演化矩阵（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018, pp. 796–798]]）
 >
-> - **国家层级能力（State / Political Capabilities）** 建立与广泛社会主体的对话机制，展现设立宏观愿景的政治领导力，在克服“民主赤字”的同时为社会争议与底层诉求保留自适应调整空间，奠定使命的政治合法性与社会共识。
-> - **政策层级能力（Policy / Analytical Capabilities）** 超越单一工具视角，构建兼具前沿研发资助、战略性公共采购、规制标准与税收激励的连贯政策组合（Policy Mixes），建立跨部门协调、敏捷实验与反思性系统评估机制。
-> - **行政层级能力（Administrative / Operational Capabilities）** 汇聚工程技术、以人为本的服务设计等多学科复合型专才，打破条块分割建立流动性跨部门项目团队，促进非相关知识领域的交叉融合。
+> - **国家层级能力（State Capabilities）** 建立与广泛社会主体的对话机制，展现设立宏观愿景的政治领导力，在克服民主赤字的同时为社会争议与底层诉求保留自适应调整空间，奠定使命的政治合法性与社会共识。
+> - **政策层级能力（Policy Capabilities）** 超越单一工具视角，构建兼具前沿研发资助、战略性公共采购、规制标准与税收激励的连贯政策组合（Policy Mixes），建立跨部门协调、敏捷实验与反思性系统评估机制。
+> - **行政层级能力（Administrative Capabilities）** 汇聚工程技术、以人为本的服务设计等多学科复合型专才，打破条块分割建立流动性跨部门项目团队，促进非相关[[Areas of Knowledge|知识领域]]的交叉融合。
 
 ---
 
 ## 核心命题与机制分析
 
-> [!concept-proposition] 命题一｜公共部门动态能力是“两种文化”在演化经济学视阈下的理论综合
-> **解释** 既有研究长期存在两套割裂的传统：一是探讨企业在不确定环境中如何兼顾利用（Exploitation）既有优势与探索（Exploration）未来机会的熊彼特式双元动态能力传统（Teece & Pisano, 1994; March, 1991）；二是聚焦官僚功绩制与嵌入式自主性的韦伯式国家能力传统（Evans & Rauch, 1999; Johnson, 1982）。卡特尔与马祖卡托将二者综合为“公共部门动态能力”：动态能力是存在于国家、政策与行政各层级能力内部的技能与例规（Decision Rules），而包含媒体、选民、利益集团与制度制衡在内的社会政治反馈机制构成了能力演进的选择环境。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–797)]]
+> [!concept-proposition] 命题一｜公共部门动态能力是两种学术传统在[[Evolutionary Economics|演化经济学]]视阈下的理论综合
+> **解释** 既有研究长期存在两套割裂的传统：一是探讨企业在不确定环境中如何兼顾利用现有优势与探索未来机会的熊彼特式双元动态能力传统（Teece & Pisano, 1994; March, 1991）；二是聚焦官僚功绩制与嵌入式自主性的韦伯式国家能力传统（Evans & Rauch, 1999; Johnson, 1982）。[[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]将二者综合为公共部门动态能力：动态能力是存在于国家、政策与行政各层级能力内部的技能与例规，而包含媒体、选民、利益集团与制度制衡在内的社会政治反馈机制构成了能力演进的选择环境。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–797)]]
 
 > [!concept-proposition] 命题二｜公共部门动态能力是克服传统科层僵化与被动市场修复的组织根基
 > **解释** 传统新古典市场失灵理论预设公共部门只能在市场出现外部性或公共品短缺时进行消极修补，导致政府能力被系统性限缩为合规性行政管理。面对21世纪复杂的重大挑战，唯有当公共机构建立起涵盖方向设定、敏捷探索与战略投资的动态能力体系，国家才能真正摆脱被动补贴者的角色，成长为有能力主动引领社会技术系统转型的企业型国家。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–788)]]
 
 > [!concept-proposition] 命题三｜过度依赖外部管理咨询会导致公共机构出现系统性去能力化
-> **解释** 自 1980 年代[[New Public Management|新公共管理]]运动以来，欧美多国政府与公立大学将战略规划、数字化转型与绩效评估大规模外包给麦肯锡、波士顿等私营管理咨询公司，催生了所谓的咨询[[Consultocracy|顾问统治]]。这种外包不仅耗费了巨额公共财政，更剥离了公共部门内生解决问题的实践机会，导致公共管理者丧失战略决断与技术研判能力，陷入组织技能退化（De-skilling）与治理空心化的恶性循环。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 791–792)]]
+> **解释** 自 1980 年代[[New Public Management|新公共管理]]运动以来，欧美多国政府与公立大学将战略规划、数字化转型与绩效评估大规模外包给麦肯锡、波士顿等私营管理咨询公司，催生了所谓的[[Consultocracy|顾问统治]]（Consultocracy）。这种外包不仅耗费了巨额公共财政，更剥离了公共部门内生解决问题的实践机会，导致公共管理者丧失战略决断与技术研判能力，陷入组织[[Cognitive Deskilling|去技能化]]（De-skilling）与治理空心化的恶性循环。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 791–792)]]
 
 > [!concept-proposition] 命题四｜机构学习与[[Absorptive Capacity|吸收能力]]构建是公共部门在探索试错中沉淀组织记忆的关键
 > **解释** 公共机构并非静态的规则执行机器，而是一个在投资、发现与实验中持续演进的学习型系统。正如科恩与莱文萨尔（Cohen & Levinthal, 1990）及约翰逊（Johnson, 1992）所强调的，[[Absorptive Capacity|吸收能力]]与机构学习构成了组织应对外部环境变化的中枢。公共机构唯有亲自参与高风险前沿项目的论证与全周期管理，才能在失败与成功中积累深厚的技术鉴别力与危机应对经验。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 797–798)]]
@@ -137,12 +146,12 @@ updated: 2026-10-03
 > |:---|:---|:---|
 > | [[ROAR Framework]] | Theory | 公共部门动态能力是 ROAR 框架中“组织（Organizations）”维度的核心理论支柱。 |
 > | [[Three Generations of Mission-Oriented Policy]] | Theory | 阐明不同代际使命政策对公共部门动态能力的差异化历史需求。 |
-> | [[Lead-and-Learn Paradigm]] | Concept | 公共部门动态能力在治理实践中的操作化转型范式。 |
+> | [[Lead-and-Learn Paradigm]] | Concept | 公共部门动态能力在治理实践中的[[Operationalization\|操作化]]转型[[Paradigm\|范式]]。 |
 > | [[Mission-Oriented Innovation Policy]] | Concept | 公共部门动态能力是实施新一代使命导向政策不可或缺的制度前提与行政引擎。 |
 > | [[Absorptive Capacity]] | Concept | 机构吸收能力是公共部门动态能力中识别、消化与应用外部复杂知识的底层机制。 |
 > | [[Consultocracy]] | Concept | 公共动态能力理论所批判的对立面，揭示过度依赖私营咨询机构对国家能力的侵蚀。 |
 > | [[DARPA]] | Fact (Org) | 展现卓越公共部门动态能力、依托项目经理制引领颠覆性创新的标杆机构。 |
-> | [[Rainer Kattel]] | Person | 联合马祖卡托系统建构公共部门动态能力理论分析框架的核心学者。 |
+> | [[Rainer Kattel]] | Person | 联合[[Mariana Mazzucato\|马祖卡托]]系统建构公共部门动态能力[[Analytic Framework\|理论分析框架]]的核心学者。 |
 > | [[Mariana Mazzucato]] | Person | 正式建构公共部门动态能力理论并将其应用于全球创新治理转型的核心学者。 |
-> | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018)]] | Argument | 奠定公共动态能力三层分析框架与两种文化理论综合的奠基文献。 |
+> | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018)]] | Argument | 奠定公共动态能力三层分析框架与两种文化理论综合的奠基[[Document\|文献]]。 |
 > | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 奠定使命导向政策中公共动态能力与机构学习理论地位的核心文献。 |

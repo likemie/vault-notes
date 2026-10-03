@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Complexity Paradox",
+      "path": "wiki/concepts/science-policy/Complexity Paradox.md"
+    },
+    {
+      "basename": "Argument_Kattel_Mazzucato_2018_ICC",
+      "path": "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Kattel_Mazzucato_2018_ICC.md"
+    },
+    {
+      "basename": "New Public Management",
+      "path": "wiki/concepts/educational-leadership-administration/New Public Management.md"
+    },
+    {
+      "basename": "Directionality of Innovation",
+      "path": "wiki/concepts/science-policy/Directionality of Innovation.md"
+    },
+    {
+      "basename": "Argument_Mazzucato_2018_ICC",
+      "path": "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Mazzucato_2018_ICC.md"
+    },
+    {
       "basename": "Argument_Lecuyer_1999_HT",
       "path": "wiki/arguments/journal-articles/History and Technology/Argument_Lecuyer_1999_HT.md"
     },
@@ -35,10 +55,6 @@
     {
       "basename": "Fairchild Semiconductor",
       "path": "wiki/facts/us/Fairchild Semiconductor.md"
-    },
-    {
-      "basename": "Argument_Mazzucato_2018_ICC",
-      "path": "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Mazzucato_2018_ICC.md"
     },
     {
       "basename": "Citizen Science",
@@ -183,22 +199,6 @@
     {
       "basename": "Bayh-Dole Act of 1980",
       "path": "wiki/facts/us/Bayh-Dole Act of 1980.md"
-    },
-    {
-      "basename": "SBIR and STTR Programs",
-      "path": "wiki/facts/us/SBIR and STTR Programs.md"
-    },
-    {
-      "basename": "Technology Transfer Office",
-      "path": "wiki/concepts/university-industry-collaboration/Technology Transfer Office.md"
-    },
-    {
-      "basename": "Argument_Ulrichsen_2025_UIR_Evolution",
-      "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ulrichsen_2025_UIR_Evolution.md"
-    },
-    {
-      "basename": "Fraunhofer Society Model",
-      "path": "wiki/facts/germany/Fraunhofer Society Model.md"
     }
   ],
   "omittedPaths": [],
