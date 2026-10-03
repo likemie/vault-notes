@@ -8,10 +8,10 @@ summary: "爱沙尼亚裔公共治理与创新政策学者，伦敦大学学院�
 type: person
 nationality: "estonia"
 person_region: "estonia"
-person_related_count: 0
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1974"
 died: ""
 lifespan: "1974–至今"

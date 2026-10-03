@@ -9,10 +9,10 @@ aliases:
 summary: "指创新过程不仅具有数量增长和扩散速率维度，更具有明确的规范性与社会价值取向；公共政策的核心功能在于通过战略引导与市场塑造，主动将技术轨道与产业投资引向智慧、包容与可持续的发展方向。"
 type: concept
 domain: "science-policy"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/science-policy
   - innovation-policy

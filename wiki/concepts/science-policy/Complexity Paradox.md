@@ -8,7 +8,7 @@ aliases:
 summary: "指现代公共政策中政策议题越是复杂交织，政府内部的政策制定机制反而越发条块分割与碎片化的制度性困境；使命导向创新政策作为跨部门协调框架，旨在通过统摄性使命打破这种条块分割。"
 type: concept
 domain: "science-policy"
-related_count: 0
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

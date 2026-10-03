@@ -8,10 +8,10 @@ aliases:
 summary: "由莱纳·卡特尔与玛丽安娜·马祖卡托提出的新型创新政策范式，主张摒弃新公共管理运动所主导的支持与衡量模式（寻找市场失灵、单点补贴、静态考核），转向以国家展现宏观战略领导力（Lead）并依托敏捷实验、跨界协作与全周期反思实现系统性学习（Learn）为核心的治理范式。"
 type: concept
 domain: "science-policy"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/science-policy
   - innovation-policy

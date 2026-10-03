@@ -9,10 +9,10 @@ aliases:
 summary: "由莱纳·卡特尔与玛丽安娜·马祖卡托提出的政策演进理论，借鉴尼采精神三变隐喻，将使命导向政策划分为后发追赶的社会经济使命（骆驼）、冷战大科学的技术攻关使命（狮子）以及应对重大社会挑战的敏捷实验型社会-技术使命（儿童）三个历史阶段。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 0
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 19
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/science-policy
   - innovation-policy

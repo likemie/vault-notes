@@ -74,9 +74,9 @@ title: "Argument_Kattel_Mazzucato_2018_ICC"
 argument_key: "Argument_Kattel_Mazzucato_2018_ICC"
 argument_display_title: "Mission-oriented innovation policy and dynamic capabilities in the public sector"
 argument_kind: "journal-article"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 37
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Industrial and Corporate Change"
 book_title: ""
