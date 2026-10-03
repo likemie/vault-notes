@@ -8,7 +8,7 @@ aliases:
 summary: "以纽约市为核心的世界级金融与创新湾区，经历制造业中心到金融中心再到全球科技创新高地的多次转型，依托雄厚的金融资本、精准的市政产业税费激励、顶尖高等教育应用科学计划与高校孵化器网络，形成金融科技驱动与产学研深度协同的复合型创新生态系统。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
   - theme/higher-education
 related_concepts:
   - "[[Innovation Ecosystem]]"
+  - "[[Application Engineering]]"
   - "[[San Francisco Bay Area]]"
   - "[[Tokyo Bay Area]]"
   - "[[Technology Transfer]]"
@@ -55,7 +56,7 @@ updated: 2026-10-03
 > 纽约湾区（New York Bay Area，亦称金融湾区）是指以美国纽约大都市区为核心、拥有全球顶尖金融资本与现代科技创新实力的世界级都市型湾区。该区域经历从传统制造业中心到全球金融中心、再到国际科技创新高地的多次产业转型。纽约湾区汇聚了纽约证券交易所（New York Stock Exchange, NYSE）与纳斯达克证券交易所（NASDAQ）两大全球性资本交易市场，依托花旗银行、高盛、摩根士丹利等世界顶级金融机构，形成了以金融技术（Financial Technology, Fintech）为核心的研发集聚；同时通过精准的市政税费激励、[[Applied Sciences NYC|应用科学计划]]（如罗斯福岛康奈尔科技校区）以及[[McGovern Center for Venture Development|麦戈文创业孵化中心]]等高校产学研载体，根本性补齐理工科应用研究短板，构建了金融资本与前沿科技创新高度协同的区域[[Innovation Ecosystem|创新生态系统]]。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向以金融资本深度支撑、市政产业政策精准引导、高水平大学应用工程转化为特征的都市型复合创新生态系统。
+> - **含义** 指向以金融资本深度支撑、市政产业政策精准引导、高水平大学[[Application Engineering|应用工程]]转化为特征的都市型复合创新生态系统。
 > - **用途** 帮助区域经济学与高等教育学者分析传统金融大都市如何通过制度设计、工程学科引育与科技孵化机制实现向高科技创新策源地的结构性转型。
 > - **边界** 属于资本密集型与应用牵引型的都市更新创新生态，不同于依赖加利福尼亚州禁止竞业限制法律与工程师自发裂变衍生企业的硅谷模式（[[San Francisco Bay Area|旧金山湾区]]），亦不同于依靠政府中央集权实施国家级科学城规划与工业分散的制造基地模式（[[Tokyo Bay Area|东京湾区]]）。
 

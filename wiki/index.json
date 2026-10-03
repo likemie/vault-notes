@@ -2742,6 +2742,18 @@
     ]
   },
   {
+    "title": "Technological Convergence",
+    "type": "concept",
+    "path": "wiki/concepts/economics/Technological Convergence.md",
+    "aliases": [
+      "技术收敛",
+      "技术汇聚",
+      "技能收敛",
+      "工业技术收敛",
+      "Technological Convergence Theory"
+    ]
+  },
+  {
     "title": "Absorptive Capacity",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Absorptive Capacity.md",
@@ -6469,7 +6481,7 @@
       "法国大学校",
       "大学校",
       "法国精英学院",
-      "Grandes Ecoles",
+      "Grandes Écoles",
       "Grande École"
     ]
   },
@@ -7167,8 +7179,7 @@
     "path": "wiki/concepts/instruction-pedagogy/Learning by Doing.md",
     "aliases": [
       "在做中学",
-      "从做中学",
-      "learning by doing"
+      "从做中学"
     ]
   },
   {
@@ -11496,6 +11507,17 @@
       "校友产学连接",
       "alumni engagement",
       "alumni-industry engagement"
+    ]
+  },
+  {
+    "title": "Application Engineering",
+    "type": "concept",
+    "path": "wiki/concepts/university-industry-collaboration/Application Engineering.md",
+    "aliases": [
+      "应用工程",
+      "应用工程学",
+      "客户工程支持",
+      "Applications Engineering"
     ]
   },
   {

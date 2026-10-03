@@ -9,7 +9,7 @@ aliases:
 summary: "一种具有跨部门广泛渗透性、内在持续技术动态性以及能诱发下游互补性创新与系统性生产率提升的基础技术范式。"
 type: concept
 domain: "economics"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,11 +20,13 @@ tags:
   - paradigm/evolutionary-economics
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Application Engineering]]"
   - "[[Total Factor Productivity]]"
   - "[[Assemblage]]"
   - "[[Knowledge Transfer]]"
   - "[[Research Translation]]"
   - "[[Dual In-Line Package]]"
+  - "[[Technological Convergence]]"
   - "[[Determinism]]"
   - "[[Variable]]"
 related_theories: []
@@ -51,7 +53,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> 通用目的技术（General Purpose Technology, GPT）是指一类在整个经济体系中具有高度广泛渗透性、长期技术动态改进潜力以及强大下游互补创新诱发能力的根本性技术[[Paradigm|范式]]（Bresnahan & Trajtenberg, 1995; Lipsey et al., 2005）。这类技术在诞生初期通常仅服务于特定细分市场（如军用或专用实验领域），随着规模制造、应用工程与系统级标准接口的协同突破，逐步扩散至计算机、消费电子、通信与制造业等广泛部门，成为推动[[Total Factor Productivity|全要素生产率]]增长的通用技术引擎。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 179–181)]]
+> 通用目的技术（General Purpose Technology, GPT）是指一类在整个经济体系中具有高度广泛渗透性、长期技术动态改进潜力以及强大下游互补创新诱发能力的根本性技术[[Paradigm|范式]]（Bresnahan & Trajtenberg, 1995; Lipsey et al., 2005）。这类技术在诞生初期通常仅服务于特定细分市场（如军用或专用实验领域），随着规模制造、[[Application Engineering|应用工程]]与系统级标准接口的协同突破，逐步扩散至计算机、消费电子、通信与制造业等广泛部门，成为推动[[Total Factor Productivity|全要素生产率]]增长的通用技术引擎。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 179–181)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向能够跨越单一行业边界、贯穿整个产业生态并重塑下游系统架构的基础技术与工艺平台（如蒸汽机、电力、机床、硅微电子与人工智能）。
@@ -109,7 +111,7 @@ updated: 2026-10-03
 > 探讨通用目的技术在向商业下游扩散时，上游元器件供应商如何通过主动吸纳下游工程师、输出应用方案与降低下游技术门槛，消除下游用户的系统集成阻力。
 
 > [!claim] Lécuyer, C.
-> **应用工程驱动的下游用户建构** 莱屈耶（Christophe Lécuyer）指出，硅微电子技术向商用市场的扩散并非单纯由价格下降自动引发，而是依赖[[Fairchild Semiconductor|仙童半导体]]等先驱企业主动建立应用工程部，招聘来自收音机、电视机与计算机行业的系统工程师，针对潜在客户痛点开发系统级元器件并免费发放详尽的应用说明书（Application Notes）与原型设计。这种深度介入下游系统架构设计的知识外溢模式，使上游厂商实质上充当了下游众多整机厂商的外部研发部门，极大地加速了通用目的技术的行业渗透。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 188–194)]]
+> **[[Application Engineering|应用工程]]驱动的下游用户建构** 莱屈耶（Christophe Lécuyer）指出，硅微电子技术向商用市场的扩散并非单纯由价格下降自动引发，而是依赖[[Fairchild Semiconductor|仙童半导体]]等先驱企业主动建立应用工程部，招聘来自收音机、电视机与计算机行业的系统工程师，针对潜在客户痛点开发系统级元器件并免费发放详尽的应用说明书（Application Notes）与原型设计。这种深度介入下游系统架构设计的知识外溢模式，使上游厂商实质上充当了下游众多整机厂商的外部研发部门，极大地加速了通用目的技术的行业渗透。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 188–194)]]
 
 > [!claim] Bresnahan, T., & Trajtenberg, M.
 > **战略互补性与跨部门协调失灵克服** 布雷斯纳汉（Timothy Bresnahan）与特拉伊滕贝格（Manuel Trajtenberg）论证了通用目的技术与下游使用部门之间存在双向正反馈机制。上游研发投入提高了通用目的技术的质量与性价比，从而提高了下游互补性创新的收益；然而由于跨部门外部性与协调壁垒，上游必须承担跨行业技术知识扩散与标准化的中介协调职能。（Bresnahan & Trajtenberg, 1995）
@@ -139,7 +141,7 @@ updated: 2026-10-03
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1963 — 机床工业的技术演进起源** 罗森伯格（Nathan Rosenberg）在研究美国机床工业史时首次提出技术收敛（Technological Convergence）思想，指出通用制造技术在不同行业间的通用性传播规律。
+> - **1963 — 机床工业的技术演进起源** 罗森伯格（Nathan Rosenberg）在研究美国机床工业史时首次提出[[Technological Convergence|技术收敛]]（Technological Convergence）思想，指出通用制造技术在不同行业间的通用性传播规律。
 > - **1995 — 通用目的技术理论框架奠定** 布雷斯纳汉与特拉伊滕贝格正式提出通用目的技术（GPT）模型，将其形式化为经济增长引擎。
 > - **1999 — 硅微电子产业史经验确证** 莱屈耶通过[[Fairchild Semiconductor|仙童半导体]]从军用到民用市场的历史[[Case Study|个案研究]]，确证了硅技术确立为通用目的技术的微观企业与制造机理。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 179–209)]]
 
@@ -153,7 +155,7 @@ updated: 2026-10-03
 > > 关于微电子革命与技术扩散的主导力量存在历史学与经济学解释分歧。
 > >
 > > - **传统军工[[Determinism|决定论]]（Golding, 1971; Levin, 1982）** 强调国防部与航空航天局的军工订单提供了最初的研发资助与规模市场，军工采购是技术成型的决定性力量。
-> > - **商业战略与供需共演论（[[Argument_Lecuyer_1999_HT|Lécuyer, 1999]]）** 指出军工采购在1960年代初陷入停滞且国防部采购规则趋向严苛，真正促成硅[[Research Translation|技术转化]]为通用目的技术的是企业主动进军民用市场的商业降价策略、应用工程创新与系统封装革命。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 180–188)]]
+> > - **商业战略与供需共演论（[[Argument_Lecuyer_1999_HT|Lécuyer, 1999]]）** 指出军工采购在1960年代初陷入停滞且国防部采购规则趋向严苛，真正促成硅[[Research Translation|技术转化]]为通用目的技术的是企业主动进军民用市场的商业降价策略、[[Application Engineering|应用工程]]创新与系统封装革命。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 180–188)]]
 
 ---
 
@@ -166,7 +168,7 @@ updated: 2026-10-03
 > |---|---|---|---|---|---|---|
 > | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999, pp. 179–180)]] | 1957–1978年美国半导体行业与仙童半导体公司历史数据 | 历史[[Case Study\|案例研究]]与档案计量考证 | 行业销售额规模 | 全美硅产业销售额从1957年的1700万美元激增至1978年的86亿美元 | 行业统计事实 | 反映通用目的技术在全美工业界的宏观渗透规模 |
 > | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999, p. 185)]] | 1955–1961年美国军用硅晶体管市场 | 档案与国防采购数据分析 | 军用市场增长与停滞 | 军用硅晶体管销售从1955年180万美元暴增至1960年9900万美元，但在1961年回落至9600万美元后陷入停滞 | 历史采购记录 | 证实军工采购天花板迫使企业转向民用通用市场 |
-> | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999, pp. 180, 194)]] | 1963–1968年仙童半导体商用市场份额与价格 | 企业内部运营与财务档案分析 | 降价幅度与计算机IC市占率 | 1963年平面晶体管价格从5美元暴降至0.25美元；1964年集成电路从20美元降至2美元；至1968年仙童占据全美计算机IC市场80%份额 | 企业运营记录 | 证明大幅前瞻性降价与应用工程成功构建起庞大商用市场底座 |
+> | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999, pp. 180, 194)]] | 1963–1968年仙童半导体商用市场份额与价格 | 企业内部运营与财务档案分析 | 降价幅度与计算机IC市占率 | 1963年平面晶体管价格从5美元暴降至0.25美元；1964年集成电路从20美元降至2美元；至1968年仙童占据全美计算机IC市场80%份额 | 企业运营记录 | 证明大幅前瞻性降价与[[Application Engineering\|应用工程]]成功构建起庞大商用市场底座 |
 > | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999, p. 198)]] | 1959与1964年仙童圣拉斐尔工厂二极管封接工效 | 制造车间工效统计 | 自动化封接生产率 | 二极管封接工效从1959年的240只/小时提高到1964年旋转机械自动化的2000只/小时（提升逾8倍） | 工厂档案记录 | 展现机械化改造对半导体后端[[Assemblage\|装配]]成本剧降的实证支撑 |
 
 ---
@@ -174,4 +176,4 @@ updated: 2026-10-03
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 详尽考察[[Fairchild Semiconductor|仙童半导体]]在1960–1967年间如何通过应用工程、大规模混合制造、离岸[[Assemblage|组装]]与[[Dual In-Line Package|双列直插封装]]创新，将硅微电子技术成功塑造为辐射全美计算机与消费电子等工业部门的通用目的技术。
+> - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 详尽考察[[Fairchild Semiconductor|仙童半导体]]在1960–1967年间如何通过[[Application Engineering|应用工程]]、大规模混合制造、离岸[[Assemblage|组装]]与[[Dual In-Line Package|双列直插封装]]创新，将硅微电子技术成功塑造为辐射全美计算机与消费电子等工业部门的通用目的技术。

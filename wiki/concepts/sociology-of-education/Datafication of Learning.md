@@ -6,7 +6,7 @@ aliases:
 summary: "指在全球量化治理与新自由主义基于结果的规制驱动下，教育系统将关注焦点从教学转移到学习，并将复杂的育人过程与认知成长还原为可追踪、可量化、跨国可比的数字流、能力指标与数据库资产的认识论与社会技术过程。"
 type: concept
 domain: "sociology-of-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Informationalization]]"
   - "[[Learning Analytics]]"
+  - "[[Application Engineering]]"
   - "[[Bildung]]"
   - "[[Paradigm]]"
   - "[[Unit of Analysis]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Datafication of Learning
@@ -84,7 +85,7 @@ updated: 2026-09-22
 
 > [!boundary]- 概念边界
 > - 不等于 教育数字化（Digitalisation of Education） — 数字化主要是技术载体与媒介工具的电子化转换（如电子课本、智慧教室、在线授课）；数据化则是将原本非量化的学习行为与心理状态编码为离散数据的认识论转变。
-> - 不等于 [[Learning Analytics\|学习分析]]（Learning Analytics） — 学习分析是具体的数据科学分析方法与算法应用工程；学习数据化则是揭示这种技术潮流背后意识形态、社会权力结构与治理异化的批判社会学概念。
+> - 不等于 [[Learning Analytics\|学习分析]]（Learning Analytics） — 学习分析是具体的数据科学分析方法与算法[[Application Engineering|应用工程]]；学习数据化则是揭示这种技术潮流背后意识形态、社会权力结构与治理异化的批判社会学概念。
 > - 不适用于彻底排斥量化评价、追求无法通约之生命领悟的传统[[Bildung\|教化]]（Bildung）哲学[[Paradigm\|范式]]。
 
 ---

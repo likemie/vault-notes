@@ -5,10 +5,10 @@ status: stable
 created: 2026-10-01
 nationality: uk
 person_region: "uk"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: 1915
 died: 1998
 lifespan: "1915–1998"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Intercultural Education]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Humboldtian Model of Higher Education]]"
+  - "[[Grandes Ecoles]]"
   - "[[Classroom Debate]]"
   - "[[Influences Across Cultures]]"
   - "[[Paradigm]]"
@@ -35,7 +36,7 @@ related_methods: []
 related_facts:
   - "[[Sputnik Shock 1957]]"
 related_persons: []
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # W. H. G. Armytage
@@ -55,7 +56,7 @@ updated: 2026-10-02
 在 1967 至 1969 年间，阿米蒂奇相继出版了四部具有里程碑意义的专著，全面考证与重构了美洲、德国、法国与俄罗斯思想与制度对英国教育及科技发展的长期渗透与互塑历程：
 1. ***The American Influence on English Education* (1967)**：系统考察了自殖民地时期起至 20 世纪美国[[Pragmatic Paradigm|实用主义]]哲学、公立学校试验、兰开斯特制变体以及科技学院组织模式对英国各阶层教育的深刻冲击；
 2. ***The German Influence on English Education* (1969)**：深入剖析了德国新人文主义大学理念（[[Humboldtian Model of Higher Education|洪堡模式]]）、现代科学实验室建制、技术高等专科学校以及幼儿园思想对英国高等教育与初等教育改革的决定性滋养；
-3. ***The French Influence on English Education* (1968)**：揭示了法国大革命以来的百科全书派理性主义、中央集权式学制设计以及专门工科学校（Grandes Écoles）传统对英国技术[[Classroom Debate|教育辩论]]的影响；
+3. ***The French Influence on English Education* (1968)**：揭示了法国大革命以来的百科全书派理性主义、中央集权式学制设计以及专门工科学校（[[Grandes Ecoles|Grandes Écoles]]）传统对英国技术[[Classroom Debate|教育辩论]]的影响；
 4. ***The Russian Influence on English Education* (1969)**：分析了十月革命前后的俄罗斯技术培训、复调工农教育与冷战时期人造卫星危机（[[Sputnik Shock 1957|Sputnik Shock]]）所引发的英国科学与数学教育课程反思。
 
 ### 学史定性与方法论范式

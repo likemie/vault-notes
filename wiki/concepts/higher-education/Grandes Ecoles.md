@@ -4,12 +4,12 @@ aliases:
   - 法国大学校
   - 大学校
   - 法国精英学院
-  - Grandes Ecoles
+  - Grandes Écoles
   - Grande École
 summary: "法国高等教育特有的精英专业学院系统；以严格的高考后预科班选拔淘汰和职业导向培养著称，长期垄断国家高级工程师、高官与企业领袖培养；与专注基础研究的国家科研中心（CNRS）及大众化综合大学形成著名的三元割裂格局，构成法国难以复制英美高教教育科研一体化模式的制度根源。"
 type: concept
 domain: "higher-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
   - theme/comparative-governance
   - elite-education
 related_concepts:
+  - "[[Application Engineering]]"
   - "[[Research Universities]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Innovation Ecosystem]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Grandes Écoles
@@ -57,7 +58,7 @@ updated: 2026-10-02
 > - **高度精英化与预科分流竞争**
 >   普通高中毕业生考取会考后，仅有极少数拔尖学生能够进入为期两年的大学校预备班（CPGE），经历高强度的数理与人文训练后通过竞争极其残酷的全国统考，录取率极低。
 > - **强职业导向与跨行业校友网络**
->   大学校教学高度偏向应用工程、国家治理与应用管理实践，学生享有带薪就读或直接对接国家高级公务员编制（如工程师军衔、审计法院等）的特权，毕业生社会资本极其雄厚。
+>   大学校教学高度偏向[[Application Engineering|应用工程]]、国家治理与应用管理实践，学生享有带薪就读或直接对接国家高级公务员编制（如工程师军衔、审计法院等）的特权，毕业生社会资本极其雄厚。
 > - **规模小而高度封闭分散**
 >   多数大学校在读生仅数百至上千人，历史上长期独立于综合大学之外，缺乏完整的跨学科多院系学科生态，较少直接承担大规模实验科学研究任务。
 

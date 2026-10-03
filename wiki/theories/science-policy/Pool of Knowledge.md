@@ -8,7 +8,7 @@ aliases:
 summary: "万尼瓦尔·布什在1945年布什报告中提出的科学政策基石理论；将大学自由探索的基础研究比作国家知识蓄水池，为工业界的应用技术创新提供活水，从非排他性与非竞争性的公共品属性论证了由联邦财政全面承担大学基础研究资助的正当性。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 22
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Research Universities]]"
   - "[[Hypothesis]]"
+  - "[[Application Engineering]]"
   - "[[Research Question]]"
   - "[[University-Industry Collaboration]]"
   - "[[Valley of Death]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Pool of Knowledge
@@ -106,7 +107,7 @@ updated: 2026-10-02
 > **应用实例** 在现代半导体与量子计算研发中，基础凝聚态物理与拓扑物态理论由联邦国家科学基金会全额资助并在顶尖大学公开发表，工业巨头（如英特尔、谷歌）则依托这些共享的公开基础理论突破下游制程工艺。
 
 > [!theory-proposition] 命题二：战后国家技术实力与工业创新的长远维系取决于对知识池的持续回补
-> **解释** 技术进步与工业创新并非无源之水，而是高度依托于既有基础科学存量的开发与组合。如果国家仅仅关注短平快的应用工程而忽视源头基础科研，战争或市场竞争将迅速耗尽既有的知识池储量，导致技术进步陷入干涸与内卷。二战期间美国对欧洲基础理论的大规模消耗直接证实了这一危机，因此联邦政府必须持续向[[Research Universities|研究型大学]]注入无附加商业问责条件的自由探索经费，以保障蓄水池的永续丰沛。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
+> **解释** 技术进步与工业创新并非无源之水，而是高度依托于既有基础科学存量的开发与组合。如果国家仅仅关注短平快的[[Application Engineering|应用工程]]而忽视源头基础科研，战争或市场竞争将迅速耗尽既有的知识池储量，导致技术进步陷入干涸与内卷。二战期间美国对欧洲基础理论的大规模消耗直接证实了这一危机，因此联邦政府必须持续向[[Research Universities|研究型大学]]注入无附加商业问责条件的自由探索经费，以保障蓄水池的永续丰沛。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
 >
 > **应用实例** 在 20 世纪末互联网与重组 DNA 技术的爆发中，其核心底层协议与限制性内切酶分子机制均源自联邦政府二十余年前在大学资助的无功利纯基础探索。
 

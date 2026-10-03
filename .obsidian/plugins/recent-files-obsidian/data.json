@@ -5,6 +5,22 @@
       "path": "wiki/arguments/journal-articles/History and Technology/Argument_Lecuyer_1999_HT.md"
     },
     {
+      "basename": "Lecuyer_1999_HT",
+      "path": "sources/Lecuyer_1999_HT/Lecuyer_1999_HT.md"
+    },
+    {
+      "basename": "San Francisco Bay Area",
+      "path": "wiki/concepts/university-industry-collaboration/San Francisco Bay Area.md"
+    },
+    {
+      "basename": "Tokyo Bay Area",
+      "path": "wiki/concepts/university-industry-collaboration/Tokyo Bay Area.md"
+    },
+    {
+      "basename": "300,000 Foreign Students Plan",
+      "path": "wiki/facts/japan/300,000 Foreign Students Plan.md"
+    },
+    {
       "basename": "Dual In-Line Package",
       "path": "wiki/concepts/economics/Dual In-Line Package.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "Fairchild Semiconductor",
       "path": "wiki/facts/us/Fairchild Semiconductor.md"
-    },
-    {
-      "basename": "San Francisco Bay Area",
-      "path": "wiki/concepts/university-industry-collaboration/San Francisco Bay Area.md"
     },
     {
       "basename": "Argument_Mazzucato_2018_ICC",
@@ -187,18 +199,6 @@
     {
       "basename": "Max Planck Society",
       "path": "wiki/facts/germany/Max Planck Society.md"
-    },
-    {
-      "basename": "Imperial Universities",
-      "path": "wiki/facts/japan/Imperial Universities.md"
-    },
-    {
-      "basename": "Chinese Academy of Sciences",
-      "path": "wiki/facts/china/Chinese Academy of Sciences.md"
-    },
-    {
-      "basename": "National Defense Education Act of 1958",
-      "path": "wiki/facts/us/National Defense Education Act of 1958.md"
     }
   ],
   "omittedPaths": [],

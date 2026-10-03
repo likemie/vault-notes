@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Pluralistic Federal Funding System]]"
   - "[[Creativity]]"
+  - "[[Application Engineering]]"
   - "[[Megascience Installations]]"
 related_theories:
   - "[[Pool of Knowledge]]"
@@ -87,7 +88,7 @@ updated: 2026-10-03
 > [!pathways]- 战时体制破局与研发运行机制
 > - **破除自建实验室传统** 改变了政府以往在陆海军基地自建封闭实验室的旧规，让科学家和工程师留在最习惯的大学和工业研究实验室环境中开展工作，既保护了学术[[Creativity|创造力]]，又最大化利用了既有前沿仪器。
 > - **联邦研发合同机制首创** 创立了联邦政府与大学签署固定期限研发合同并报销研发成本的全新财务机制，使大学在不失去自身学术建制独立性的前提下获得海量联邦资源支持。
-> - **军事需求向基础科研逆向发包** 将前线严苛的雷达抗干扰、核物理裂变等极限应用工程需求，逆向拆解为前沿电磁学、核物理学等基础科学攻关课题，深度打通了基础理论与战术武器的转换通道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
+> - **军事需求向基础科研逆向发包** 将前线严苛的雷达抗干扰、核物理裂变等极限[[Application Engineering|应用工程]]需求，逆向拆解为前沿电磁学、核物理学等基础科学攻关课题，深度打通了基础理论与战术武器的转换通道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
 
 ---
 

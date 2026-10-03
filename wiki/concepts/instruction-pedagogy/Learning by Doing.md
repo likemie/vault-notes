@@ -3,11 +3,10 @@ title: Learning by Doing
 aliases:
   - 在做中学
   - 从做中学
-  - learning by doing
 summary: "约翰·杜威进步主义教育的核心教学主张，认为最深刻的知识是“如何做的知识”，学生通过参与真实、动手与解决问题的活动建构经验与批判性思维。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 14
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,19 +27,22 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Active Learning]]"
   - "[[Experiential Learning]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[John Dewey]]"
-related_facts: []
+related_facts:
+  - "[[Fairchild Semiconductor]]"
 related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
+  - "[[Argument_Lecuyer_1999_HT]]"
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-09-22
+updated: 2026-10-03
 ---
 
 # Learning by Doing
@@ -76,10 +78,14 @@ updated: 2026-09-22
 
 ---
 
-> [!case] 案例：构建投石机（Building a Catapult）项目
+> [!case] 案例一：构建投石机（Building a Catapult）项目
 > 杜威与 Darwish (2009, p. 35) 对比了两种教学模式：
 > - **传统讲授模式** 教师在讲台上口头宣讲投石机的物理原理与制作步骤，学生被动听讲与记忆公式——这种教学制造了“听讲的被动与吸收”，无法引发深度思考。
 > - **在做中学模式** 教师给小组学生布置一项真实任务：**制作一台可投射的投石机（build a functional catapult）**。接收到任务后，学生需要自主分工研究资料、讨论结构设计、试验材料强度并调试角度。在这一“做”的过程中，解决困难的迫切需求自然激发了[[Critical Thinking\|批判性思维]]、协同对话与探究。
+
+> [!case] 案例二：高科技制造中的组织化“在做中学”（Organizational Learning by Doing）
+> 经济学与技术史学者（Arrow, 1962; [[Argument_Lecuyer_1999_HT|Lécuyer, 1999, pp. 195–199]]）将“在做中学”拓展至工业工程与组织技能演进：
+> - **制造良率的[[Active Learning|主动学习]]曲线** [[Fairchild Semiconductor|仙童半导体]]在 1960 年代量产硅晶体管与集成电路的过程中，工艺良率从不足 10% 跃升至 80% 并驱动成本断崖式下降。该过程证实，产业中的“在做中学”并非随着产量增加而被动发生的机械熟练，而是工程技术团队在车间实操中主动开展假设检验——通过排查加州光化学烟雾对光刻胶的硬化影响、设计高纯氮气保护装置以及推行统计过程控制（SPC），在试错与排障实践中完成了深度组织化工艺知识积累。
 
 ---
 
@@ -93,6 +99,9 @@ updated: 2026-09-22
 > | [[Active Learning]] | 概念 | “在做中学”是主动学习模型的[[Critical Thinking\|批判性思维]]基石。 |
 > | [[Experiential Learning]] | 概念 | “做”是经验生成与重组的中介。 |
 > | [[Reflective Thinking]] | 概念 | 区别智性“做”与动物盲目试错的关键。 |
+> | [[Fairchild Semiconductor]] | 事实 | 在半导体量产工艺中生动展现了组织化“在做中学”的经典企业。 |
+> | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]] | 论证 | 实证分析微电子制造中组织化学习与工艺改良机制的[[Document\|文献]]。 |
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 详细拆解“在做中学”在主动学习模型中的案例与反思性思维运作机制。
+> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 详细拆解“在做中学”在主动学习模型中的案例与反思性思维运作机制。
+> - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 从微观企业史视角阐明高科技大规模制造车间中工程排障与工艺良率提升的组织化“在做中学”机制。
