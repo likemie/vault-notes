@@ -22869,6 +22869,17 @@
     ]
   },
   {
+    "title": "Steven Brint",
+    "type": "person",
+    "path": "wiki/persons/us/Steven Brint.md",
+    "aliases": [
+      "史蒂文·布林特",
+      "布林特",
+      "S. Brint",
+      "Brint, S."
+    ]
+  },
+  {
     "title": "Steven Stahl",
     "type": "person",
     "path": "wiki/persons/us/Steven Stahl.md",
@@ -23829,6 +23840,16 @@
       "hukou",
       "household registration system",
       "hukou reform"
+    ]
+  },
+  {
+    "title": "Made in China 2025",
+    "type": "fact",
+    "path": "wiki/facts/china/Made in China 2025.md",
+    "aliases": [
+      "中国制造2025",
+      "Made-in-China 2025",
+      "MIC 2025"
     ]
   },
   {
@@ -29064,6 +29085,18 @@
       "适度年度进展",
       "AYP",
       "学年充分进展"
+    ]
+  },
+  {
+    "title": "America COMPETES Act",
+    "type": "fact",
+    "path": "wiki/facts/us/America COMPETES Act.md",
+    "aliases": [
+      "美国竞争法案",
+      "美国竞争法",
+      "America COMPETES Act of 2007",
+      "America COMPETES Reauthorization Act of 2010",
+      "COMPETES Act"
     ]
   },
   {
