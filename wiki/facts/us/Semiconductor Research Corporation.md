@@ -47,9 +47,9 @@ related_facts:
   - "[[Sematech]]"
   - "[[Sematech Centers of Excellence]]"
   - "[[Focus Center Research Program]]"
+  - "[[CHIPS and Science Act]]"
   - "[[American Council on Education]]"
   - "[[Microelectronics and Computer Technology Corporation]]"
-  - "[[CHIPS and Science Act]]"
 related_arguments:
   - "[[Argument_Ramming_2025_CorporateSupport]]"
   - "[[Argument_Grindley_1994_JPAM]]"
@@ -83,7 +83,7 @@ updated: 2026-10-04
 > - **1982–1987 — 破冰创建与前竞争产学资助体系奠基** 建立首个全行业共享的大学微电子研究资助基金，确立“行业提需求、高校出方案、同行评议立项、知识产权非独占共享”的治理准则，开创了竞争对手联合资助基础科研的制度先河。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
 > - **1988–1996 — 协同 [[Sematech]] 统筹[[Sematech Centers of Excellence|大学卓越中心]]网络（SCOE）** 承担 [[Sematech]] 每年 **1000 万至 1500 万美元** 的大学科研经费转拨与统筹管理职能，在加州大学伯克利分校、斯坦福、MIT 等高校建立 Sematech 大学卓越技术中心网络，专注于前沿光刻物理、等离子体刻蚀与材料建模基础研究。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 735, 754)]]
 > - **1997–2017 — [[Focus Center Research Program|焦点研究中心计划]]（FCRP）与 STARnet 扩张** 1998 年联合 SIA、[[DARPA]] 与 [[Sematech]] 设立微电子先进研究联盟（MARCO），正式启动焦点研究中心计划（Focus Center Research Program, FCRP）与随后的 STARnet 计划，确立了“扩展大学半导体科研基础设施、吸引顶尖师生投身微电子领域、为产业界持续培养高水平研究生”的三重核心使命，将资助视野前移至 10 至 15 年后的物理极限挑战与后 CMOS 新器件。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 121, note 48)]]
-> - **2018–至今 — JUMP 2.0 与对接《芯片法案》国家战略体系** 启动微电子联合大学微电子计划（JUMP 2.0），并与 2022 年《芯片与科学法案》设立的国家半导体技术中心（NSTC）深度协同，从行业联盟型 [[Public-Private Partnership in Research|PPP]] 跃升为国家战略级产学研核心支撑平台。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
+> - **2018–至今 — JUMP 2.0 与对接《[[CHIPS and Science Act|芯片法案]]》国家战略体系** 启动微电子联合大学微电子计划（JUMP 2.0），并与 2022 年《芯片与科学法案》设立的国家半导体技术中心（NSTC）深度协同，从行业联盟型 [[Public-Private Partnership in Research|PPP]] 跃升为国家战略级产学研核心支撑平台。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
 
 ---
 
@@ -109,7 +109,7 @@ updated: 2026-10-04
 > - **[[Focus Center Research Program|焦点研究中心计划]]（FCRP / STARnet）** 1998 年通过下设的 MARCO 运营，联合 SIA、[[DARPA]] 与 SEMATECH 资助佐治亚理工学院、加州大学伯克利分校、MIT 等高校建立跨学科焦点中心，攻坚 10 至 15 年视野的互连物理、十亿门级系统设计与纳米新材料。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 121, note 48)]]
 > - **微电子联合大学计划（JUMP / JUMP 2.0）** 联合 [[DARPA]] 资助 7 个全美跨校研究中心（涵盖 CogniSense、CUbiC、PRISM、[[American Council on Education|ACE]] 等），攻坚高能效认知计算、智能传感与三维异构集成。
 > - **十亿节点计算机研究（nCORE / GRC）** 全球研究协作计划（GRC）持续资助纳米电子器件物理、新存储介质与先进光电互连基础科学。
-> - **十年微电子技术愿景（Decadal Plan for Semiconductors）** 联合 SIA 制定发布指引全美未来 10 年半导体研发重点的战略白皮书，成为国会制定《芯片法案》的重要理论依据。
+> - **十年微电子技术愿景（Decadal Plan for Semiconductors）** 联合 SIA 制定发布指引全美未来 10 年半导体研发重点的战略白皮书，成为国会制定《[[CHIPS and Science Act|芯片法案]]》的重要理论依据。
 
 > [!citation-card] [[Industry Affiliate Program|产业联盟]]不可替代大学开放基础科研与人才培养
 > 从国家视角来看，单纯依靠产业主导的研发联合体不足以维持高技术产业的基础[[Innovation Ecosystem|创新生态]]。它们的研发努力必须辅之以长周期的基础研究与人才培养，而这些活动从本质上只能由公共资金资助，并在强调公开披露与技术扩散的[[Open-Mindedness|开放性]]机构环境（如大学）中开展。
@@ -128,7 +128,7 @@ updated: 2026-10-04
 > [!finding-cards] 关键成效与辐射影响
 > - **化解竞争者[[University-Industry Collaboration|产学合作]]“公地悲剧”** 成功探索出让竞争对手在底层科学层面共享资金、分摊风险并共同培育人才的制度模板，成为全球公私研发合作（[[Public-Private Partnership in Research|PPP]]）的教科书[[Paradigm|范式]]。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
 > - **支撑 [[Sematech]] 等[[Industry Affiliate Program|产业联盟]]的基础研究短板** 弥补了工业制造联盟聚焦中短期工程开发的局限，为全产业链提供了深厚的上游学科地基。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 754)]]
-> - **为《芯片法案》与 NSTC 奠定制度雏形** 2022 年《芯片与科学法案》在规划国家半导体技术中心（NSTC）的产学协同与人才发展网络时，高度复刻了 SRC 运行 40 余年的运作架构与同行评审机制。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
+> - **为《[[CHIPS and Science Act|芯片法案]]》与 NSTC 奠定制度雏形** 2022 年《芯片与科学法案》在规划国家半导体技术中心（NSTC）的产学协同与人才发展网络时，高度复刻了 SRC 运行 40 余年的运作架构与同行评审机制。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
 
 ---
 
@@ -137,7 +137,7 @@ updated: 2026-10-04
 > [!debates] 核心争议交锋
 >
 > > [!axis] 行业联盟型 [[Public-Private Partnership in Research|PPP]] vs 国家战略型 PPP 的制度定位张力
-> > 随着《芯片法案》NSTC 等政府重资产平台的设立，传统由企业主导的 SRC 模式面临重新定位。
+> > 随着《[[CHIPS and Science Act|芯片法案]]》NSTC 等政府重资产平台的设立，传统由企业主导的 SRC 模式面临重新定位。
 > >
 > > - **[[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]]** 指出 NSTC 的出现对企业构成了“强制函数”，迫使[[University-Industry Collaboration|产学合作]]实践者重新厘清 SRC（服务于可预测的持续性路线图）与 NSTC（国家地缘科技安全与战略转折突破）的分工边界。
 > > - **传统联盟维护者** 强调行业自下而上驱动的 SRC 能够更敏锐地捕捉商业真实需求，避免政府直接行政规划带来的研发错配。

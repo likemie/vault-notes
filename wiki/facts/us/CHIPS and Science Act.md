@@ -1,20 +1,20 @@
 ---
 title: CHIPS and Science Act
 aliases:
-  - "CHIPS 与科学法案"
-  - "CHIPS 法案"
+  - "芯片与科学法案"
+  - "芯片法案"
   - "CHIPS Act"
   - "Creating Helpful Incentives to Produce Semiconductors Act"
   - "创造有益激励以生产半导体法案"
-summary: "2022 年美国联邦法案，拨款超 100 亿美元设立 Tech Hubs 计划，推动建立国家半导体技术中心作为大规模公私合作伙伴关系，同时为 NSF TIP 理事会提供资金，与通胀削减法案、重建更好法案共同授权数千亿美元支持创新区建设"
+summary: "2022 年美国联邦法案，授权 527 亿美元直接资金用于半导体制造补贴（390亿美元）、先进研发（110亿美元）与劳动力培训，并提供 25% 投资税收抵免；同时设立 Tech Hubs 计划、推动建立国家半导体技术中心（NSTC），并设定严格护栏条款限制受补贴企业在竞争对手国家扩建先进制程产能。"
 type: fact
 subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "United States Congress"
 tags:
@@ -41,10 +41,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Byrne_2025_InnovationCenters]]"
   - "[[Argument_Ramming_2025_CorporateSupport]]"
+  - "[[Argument_Bown_2024_JEP]]"
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-10-02
+updated: 2026-10-04
 ---
 
 # CHIPS and Science Act
@@ -65,7 +66,16 @@ updated: 2026-10-02
 ## 政策条款
 
 > [!abstract]
-> **Tech Hubs 计划** 法案的核心举措之一，设立全国性"技术枢纽"（Tech Hubs）计划，拨款超过 100 亿美元、期限长达五年，旨在推动新兴技术的规模化应用和区域经济发展([[Argument_Byrne_2025_InnovationCenters\|Byrne & Clements, 2025, pp.133–134]])。
+> **半导体制造激励补贴与投资税收抵免** 法案核心由美国商务部负责执行，直接拨款 390 亿美元用于建设、扩建和升级美国本土的半导体制造晶圆厂（Fab），并提供 25% 的先进制造投资税收抵免（Investment Tax Credit, ITC）；另有 110 亿美元用于先进研发项目。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 97)]]
+
+> [!abstract]
+> **护栏条款（Guardrail Provisions）与国家安全限制** 为防止联邦资金间接惠及战略竞争对手，法案明确规定：凡接受联邦制造业资助的企业，在未来 10 年内严禁在被界定为“关切国家”（特别是中国）大幅扩建或升级先进制程半导体产能（扩产比例不得超过 5%），否则商务部有权全额收回补贴。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 97)]]
+
+> [!abstract]
+> **国际技术安全与创新基金（ITSI Fund）** 拨款 5 亿美元设立 ITSI 基金，由美国国务院主导，与哥斯达黎加、巴拿马、越南等友好国家建立供应链多元化合作网络，推动封装测试等成熟环节的友岸外包。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 98)]]
+
+> [!abstract]
+> **Tech Hubs 计划** 设立全国性"技术枢纽"（Tech Hubs）计划，拨款超过 100 亿美元、期限长达五年，旨在推动新兴技术的规模化应用和区域经济发展([[Argument_Byrne_2025_InnovationCenters\|Byrne & Clements, 2025, pp.133–134]])。
 
 > [!abstract]
 > **[[National Science Foundation\|NSF TIP]] 理事会** 法案同时通过 [[National Science Foundation\|NSF]] 的技术、创新与合作理事会（Technology, Innovation, and Partnerships, TIP）提供联邦资金，支持区域创新合作体的研发和商业化活动（p.134）。

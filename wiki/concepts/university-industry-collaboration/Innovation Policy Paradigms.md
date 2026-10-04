@@ -169,7 +169,7 @@ updated: 2026-10-03
 > 现实中的国家创新体系并不孤立运行单一范式，而是呈现多范式工具的有机层叠。
 
 > [!claim] Lindner et al. & Ulrichsen
-> **混合政策组合命题** 在当代发达国家的科技创新体系中，三大范式以分层互补的形态共存运行。例如，美国同时维系着大规模的大学自由探索基础研究资助（范式一）、[[National Science Foundation|NSF]] [[University-Based Research Center|产学合作研究中心]]与[[Technology Transfer|技术转移]]网络（范式二），并依托《芯片与科学法案》（[[CHIPS and Science Act|CHIPS Act]]）区域创新引擎与 [[DARPA]]/ARPA-E 机制推进战略性使命攻坚（范式三要素）。政策制胜的关键在于根据具体创新阶段与社会目标，实现多范式工具箱的精细化组合与协同配置。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 43–44)]]
+> **混合政策组合命题** 在当代发达国家的科技创新体系中，三大范式以分层互补的形态共存运行。例如，美国同时维系着大规模的大学自由探索基础研究资助（范式一）、[[National Science Foundation|NSF]] [[University-Based Research Center|产学合作研究中心]]与[[Technology Transfer|技术转移]]网络（范式二），并依托《[[CHIPS and Science Act|芯片与科学法案]]》（[[CHIPS and Science Act|CHIPS Act]]）区域创新引擎与 [[DARPA]]/ARPA-E 机制推进战略性使命攻坚（范式三要素）。政策制胜的关键在于根据具体创新阶段与社会目标，实现多范式工具箱的精细化组合与协同配置。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 43–44)]]
 
 ---
 
@@ -203,7 +203,7 @@ updated: 2026-10-03
 > - **1987–1993 — 范式二兴起：国家[[Systems of Innovation|创新系统理论]]化** Freeman（1987）、Lundvall（1992）与 Nelson（1993）正式提出国家创新系统概念；英国 1993 年发布《发挥我们的潜力》（*Realising Our Potential*）白皮书，1999 年确立长期公式化[[Knowledge Exchange|知识交流]]拨款，标志着系统范式的制度化。
 > - **2012 — [[Transformative System Failures|变革性系统失灵]]框架提出** Weber & Rohracher（2012）在《Research Policy》发表奠基性论文，系统提出方向性、需求表达、[[Reflexivity|反思性]]与政策协调四类失灵，为超越系统范式提供理论支点。
 > - **2018 — 范式三系统建构：三范式与 ROAR 使命框架** Schot & Steinmueller（2018）在《Research Policy》发表《创新政策三框架》（*Three Frames for Innovation Policy*）；[[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）发表《[[Mission-Oriented Innovation Policy|使命导向创新政策]]：挑战与机遇》，确立以[[Market Shaping and Creating|市场塑造]]与 ROAR 框架为核心的使命导向范式。
-> - **2020–2024 — 实践落地与全球试验** 欧盟全面启动[[Horizon Europe Missions|地平线欧洲战略使命]]；美国出台《芯片与科学法案》（[[CHIPS and Science Act|CHIPS Act]]）设立区域创新引擎；[[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] 提出问题–解决方案空间[[Analytic Framework|分析框架]]；[[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] 总结大学在三范式演化中的角色重塑。
+> - **2020–2024 — 实践落地与全球试验** 欧盟全面启动[[Horizon Europe Missions|地平线欧洲战略使命]]；美国出台《[[CHIPS and Science Act|芯片与科学法案]]》（[[CHIPS and Science Act|CHIPS Act]]）设立区域创新引擎；[[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] 提出问题–解决方案空间[[Analytic Framework|分析框架]]；[[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] 总结大学在三范式演化中的角色重塑。
 
 ---
 

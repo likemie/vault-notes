@@ -13,7 +13,7 @@ subtype: program
 region: east-asia
 fact_region: "east-asia"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -46,6 +46,7 @@ related_facts:
   - "[[JESSI]]"
 related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
+  - "[[Argument_Bown_2024_JEP]]"
   - "[[Argument_Macher_1998_CMR]]"
 confidence: high
 status: active
@@ -60,7 +61,7 @@ updated: 2026-10-04
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 日本超大规模集成电路项目（Very Large Scale Integration Project, VLSI Project）是 1976 年至 1980 年间由[[Ministry of International Trade and Industry|日本通商产业省]]（Ministry of International Trade and Industry, MITI）发起并主导的国家级高技术[[Precompetitive Research|前竞争研发]]联盟项目，旨在应对美国 IBM 推出“未来系统”（Future System, FS）及半导体先进制程领跑的严峻挑战，通过官产协同攻克微米级超大规模集成电路共性制造工艺与关键光刻装备瓶颈。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728)]]
+> 日本超大规模集成电路项目（Very Large Scale Integration Project, VLSI Project）是 1976 年至 1980 年间由[[Ministry of International Trade and Industry|日本通商产业省]]（Ministry of International Trade and Industry, MITI）发起并主导的国家级高技术[[Precompetitive Research|前竞争研发]]联盟项目，旨在应对美国 IBM 推出“未来系统”（Future System, FS）及半导体先进制程领跑的严峻挑战，通过官产协同整合国内企业研发资源以避免重复研发投入，攻克微米级超大规模集成电路共性制造工艺与关键光刻装备瓶颈。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728)]]; [[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 84)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1976 年正式启动，1980 年结项，历时 4 年。

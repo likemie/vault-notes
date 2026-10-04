@@ -150,7 +150,7 @@ updated: 2026-10-03
 > - **1945 — 战后动机论试金石确立** [[Vannevar Bush|万尼瓦尔·布什]]在[[Science, The Endless Frontier 1945]]中确立政府仅对无实用目的的基础研究负有资助义务，将[[Market Failure|市场失灵]]作为国家介入的机械界限。
 > - **1997 — 斯托克斯引入应用启发维度** [[Donald Stokes|唐纳德·斯托克斯]]在《[[Pasteur's Quadrant|帕斯德象限]]》中将公共资助扩展至兼顾理解与实用的前沿研究，但仍沿用二分法语汇。
 > - **2013 — 长期公共效用概念正式提出** 纳拉亚纳穆尔提等人在《安息吧：[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]》中正式确立“长期公共效用”作为替代二分法的新准绳，主张对称支持发现与发明。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
-> - **2016–至今 — [[Mission-Oriented Innovation Policy|任务导向型创新政策]]全球采纳** 长期公共效用思想深刻融入[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）的“使命导向型创新”（Mission-Oriented Innovation）以及美国《芯片与科学法案》（[[CHIPS and Science Act]]）等当代产业技术政策立法中。
+> - **2016–至今 — [[Mission-Oriented Innovation Policy|任务导向型创新政策]]全球采纳** 长期公共效用思想深刻融入[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）的“使命导向型创新”（Mission-Oriented Innovation）以及美国《[[CHIPS and Science Act|芯片与科学法案]]》（[[CHIPS and Science Act]]）等当代产业技术政策立法中。
 
 ---
 

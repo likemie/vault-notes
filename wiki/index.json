@@ -8373,6 +8373,18 @@
     ]
   },
   {
+    "title": "Modern Industrial Policy",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Modern Industrial Policy.md",
+    "aliases": [
+      "现代产业政策",
+      "新产业政策",
+      "New Industrial Policy",
+      "Geopolitical Industrial Policy",
+      "战略性现代产业政策"
+    ]
+  },
+  {
     "title": "Mondialisation",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Mondialisation.md",
@@ -23825,6 +23837,18 @@
     ]
   },
   {
+    "title": "China Integrated Circuit Industry Investment Fund",
+    "type": "fact",
+    "path": "wiki/facts/china/China Integrated Circuit Industry Investment Fund.md",
+    "aliases": [
+      "国家集成电路产业投资基金",
+      "大基金",
+      "Big Fund",
+      "国家大基金",
+      "National Integrated Circuit Industry Investment Fund"
+    ]
+  },
+  {
     "title": "Thousand Talents Program",
     "type": "fact",
     "path": "wiki/facts/china/Thousand Talents Program.md",
@@ -23997,6 +24021,17 @@
       "欧洲2020战略",
       "EU 2020 Strategy",
       "Europe 2020"
+    ]
+  },
+  {
+    "title": "European Chips Act",
+    "type": "fact",
+    "path": "wiki/facts/eu/European Chips Act.md",
+    "aliases": [
+      "欧洲芯片法案",
+      "EU Chips Act",
+      "欧盟芯片法案",
+      "European Chips Act of 2023"
     ]
   },
   {
@@ -28977,8 +29012,8 @@
     "type": "fact",
     "path": "wiki/facts/us/CHIPS and Science Act.md",
     "aliases": [
-      "CHIPS 与科学法案",
-      "CHIPS 法案",
+      "芯片与科学法案",
+      "芯片法案",
       "CHIPS Act",
       "Creating Helpful Incentives to Produce Semiconductors Act",
       "创造有益激励以生产半导体法案"
@@ -29171,6 +29206,19 @@
       "No Child Left Behind Act",
       "不让一个孩子掉队法案",
       "NCLB"
+    ]
+  },
+  {
+    "title": "October 2022 US Semiconductor Export Controls",
+    "type": "fact",
+    "path": "wiki/facts/us/October 2022 US Semiconductor Export Controls.md",
+    "aliases": [
+      "2022年10月美国半导体出口管制新规",
+      "美国先进计算与半导体制造设备出口管制",
+      "October 7 Export Controls",
+      "2022 BIS Export Controls",
+      "美国半导体出口管制",
+      "October 2022 Export Controls"
     ]
   },
   {
@@ -30987,6 +31035,11 @@
     "title": "Argument_Yan_2025_JCS",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_Yan_2025_JCS.md"
+  },
+  {
+    "title": "Argument_Bown_2024_JEP",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Journal of Economic Perspectives/Argument_Bown_2024_JEP.md"
   },
   {
     "title": "Argument_Blass_2020_JESP",

@@ -61,12 +61,12 @@ related_facts:
   - "[[Industry-University Cooperative Research Centers]]"
   - "[[NSF I-Corps]]"
   - "[[University Industry Demonstration Partnership]]"
+  - "[[CHIPS and Science Act]]"
   - "[[American Association for the Advancement of Science]]"
   - "[[American Educational Research Association]]"
   - "[[DARPA]]"
   - "[[Institute of Education Sciences]]"
   - "[[Brookings Institution]]"
-  - "[[CHIPS and Science Act]]"
 related_arguments:
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Argument_Atkinson_2008_TIS]]"
@@ -118,7 +118,7 @@ updated: 2026-10-04
 >   - 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》与 1984 年《经济安全教育法》（P.L. 99-159）相继出台，NSF 深度充当联结高校科研与产业转化的国家杠杆。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 36, 40–42)]]
 > - **2011–2021 — 创业生态培育与跨学科[[Convergence Research|融合研究]]拓展**
 >   - 2011 年创设 [[NSF I-Corps]]（创新兵团），将精益创业方法论植入高校学术成果转化生态，在科研项目中内置产业反馈闭环；同时在 2019 年牛津 [[University Industry Demonstration Partnership|UIDP]] 峰会上被确立为推动 [[STEM Education|STEM]] 与人文社会科学（SSH）[[Convergence Research|融合研究]]的典范机构（如“人类技术前沿的工作未来”重大项目），并联合教育部与农业部启动首批国家人工智能研究院布局。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]; [[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 14–15)]]; [[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 40)]]
-> - **2022–至今 — 《芯片法案》赋能与 TIP 理事会的区域创新变革**
+> - **2022–至今 — 《[[CHIPS and Science Act|芯片法案]]》赋能与 TIP 理事会的区域创新变革**
 >   - 2022 年依据《芯片与科学法案》，NSF 历经三十余年来首次新设第七大理事会——技术、创新与合作理事会（Technology, Innovation, and Partnerships, TIP），标志着 NSF 职能从纯粹资助上游基础研究，向主动培育区域[[Innovation Hub|创新中心]]、联合经济发展署（Economic Development Agency, EDA）推动非传统科技聚集区跨机构研发与商业化跃迁战略转型。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]
 
 ---
@@ -148,7 +148,7 @@ updated: 2026-10-04
 > - **国家超级计算机中心（Supercomputer Centers）** 1980 年代在全美 5 所大学经全国竞争设立的国家级前沿计算设施，向全美合格大学教师开放基于同行评审的机时申请，为互联网早期主干网建设与计算密集型科研奠定技术基础。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
 > - **大学计算机科研基础设施与学科建制** 1960 年代起系统资助全美高校计算机实验室建设与计算机科学系（CS）课程开发，直接推动计算机学科从无到有建制化。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 176)]]
 > - **NSF 创新兵团创业培训体系（[[NSF I-Corps]]）** 2011 年创设的高校学术创业孵化标杆，通过教授学者创业思维并要求产业代表深度参与，在科研项目中内置产业反馈闭环，累计孵化超 1,000 家初创企业，后续撬动逾 7.6 亿美元融资。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
-> - **TIP 区域创新引擎与[[Innovation Hub|创新中心]]** 依据《芯片与科学法案》重点投向非传统科技聚集区，向 10 个区域创新合作体授予高达 1.6 亿美元的十年期资助，推动先进制造、人工智能等战略[[Research Translation|技术转化]]。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]
+> - **TIP 区域创新引擎与[[Innovation Hub|创新中心]]** 依据《[[CHIPS and Science Act|芯片与科学法案]]》重点投向非传统科技聚集区，向 10 个区域创新合作体授予高达 1.6 亿美元的十年期资助，推动先进制造、人工智能等战略[[Research Translation|技术转化]]。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]
 > - **国家人工智能研究院网络** 联合教育部、农业部等多部门围绕 10 余个重点方向设立 25 所国家 AI 研究院，由世界一流大学与领先科技企业共同组成；以加州大学圣迭戈分校牵头的大规模学习优化 AI 研究院为例，联合 MIT、耶鲁及英伟达、三星，并引入斯威特沃特联合高中学区等应用场景提供方，实现了前沿算法在芯片设计与教育场景的双向赋能。[[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 40)]]
 
 > [!citation-card] 创设宪章与法定使命宣言
@@ -203,7 +203,7 @@ updated: 2026-10-04
 > > [!axis] 区域资源平衡与精英名校集中度博弈
 > > 对联邦科研资金在全美地理与机构分布不均衡的制度反思。
 > >
-> > - **区域公平诉求** 历史数据显示，NSF 大部分科研经费长期高度集中于沿海少数顶尖[[Research Universities|研究型大学]]，加剧了区域科研生态与经济发展的不平衡。[[Brookings Institution|布鲁金斯学会]]与国会立法者在《芯片法案》中明确要求，新增创新资助必须重点投向非传统科技聚集区和产业基础薄弱的内陆地区。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134, 137)]]
+> > - **区域公平诉求** 历史数据显示，NSF 大部分科研经费长期高度集中于沿海少数顶尖[[Research Universities|研究型大学]]，加剧了区域科研生态与经济发展的不平衡。[[Brookings Institution|布鲁金斯学会]]与国会立法者在《[[CHIPS and Science Act|芯片法案]]》中明确要求，新增创新资助必须重点投向非传统科技聚集区和产业基础薄弱的内陆地区。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134, 137)]]
 >
 > > [!axis] 研究生资助机制异化：独立奖学金 vs 课题助研津贴
 > > 探讨研究生资助究竟应以扶持青年自由探索为导向，还是以充当课题组常规廉价用工为导向。

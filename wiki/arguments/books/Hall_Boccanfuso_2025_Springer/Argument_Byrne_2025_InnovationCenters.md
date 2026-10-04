@@ -389,7 +389,7 @@ citation_aliases:
 
 > [!success]
 > **联邦资金与[[Innovation Hub\|创新中心]]增长的关联**
-> - 《通胀削减法案》（Inflation Reduction Act）、《重建更好法案》（Build Back Better Act）和 [[CHIPS and Science Act\|CHIPS 法案]]共同授权了数千亿美元，其中相当比例指向基础设施和产业基础较弱、历史上联邦研发资金份额较低的地区(pp.137–138)。根据[[Brookings Institution|布鲁金斯学会]]的分析，新一批创新中心将面临与硅谷或波士顿截然不同的挑战
+> - 《通胀削减法案》（Inflation Reduction Act）、《重建更好法案》（Build Back Better Act）和 CHIPS 法案共同授权了数千亿美元，其中相当比例指向基础设施和产业基础较弱、历史上联邦研发资金份额较低的地区(pp.137–138)。根据[[Brookings Institution|布鲁金斯学会]]的分析，新一批创新中心将面临与硅谷或波士顿截然不同的挑战
 > - 联邦政策与围绕大学的日益成熟的风险投资（venture capital）存在协同效应，共同推动了人们对商业化与[[Technology Transfer\|技术转移]]潜力的认知提升(p.137)
 > - 新兴技术领域（人工智能、人机界面、先进制造、量子信息技术）是联邦新资金最优先支持的方向，但围绕这些领域建立的创新中心相对较少，既有合作体和新兴合作体都面临机会窗口(p.138)
 

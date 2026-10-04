@@ -10,7 +10,7 @@ aliases:
 summary: "大学与企业之间在正式协议框架下建立的有目的、深协同的制度化参与关系，横跨研究学术、教育学习与公共效益三大维度；其历史历经战后脱钩与 1980 年代法制重构，在释放实体创新潜力的同时伴生微观组织碎片化与代工车间异化的深层张力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -62,6 +62,7 @@ related_facts:
   - "[[MIT Radiation Laboratory]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Industrial Strategy Challenge Fund]]"
+  - "[[CHIPS and Science Act]]"
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # University-Industry Collaboration
@@ -208,7 +209,7 @@ updated: 2026-10-03
 > - **1945–1975 — 战后联邦资助主导与产学严重脱钩** [[Science, The Endless Frontier 1945|布什报告]]催生国家科学基金会（[[National Science Foundation|NSF]]），联邦研发经费垄断性激增（1963 年占 68%）；大学转向由同行评议支持的自由探索基础科研，与产业实际需求严重脱钩，1975 年企业出资跌至大学研发预算的 3.3%。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 38–40)]]
 > - **1978–1980s — 国家政策纠偏与法制重构** 1978 年 NSF 设立产学合作试点计划并拓展为 11 年期的工程研究中心（ERC）；1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》将专利权下放给高校，全美大学全面组建[[Technology Transfer Office|技术许可办公室]]（TLO），全美高校专利数由 1988 年的 800 项暴涨至 2003 年的 3200 项。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]
 > - **2000s–2010s — 制度化“[[Third Mission|第三使命]]”与战略联盟集中化** 大学正式确立研究、教学之外的“第三使命”；大企业告别零散项目，转向与少数战略伙伴大学共建联合实验室、共同选址中心（如联合利华在瓦赫宁根的 Hive 中心）；英国设立产业战略挑战基金（[[Industrial Strategy Challenge Fund|ISCF]]）推动使命驱动型合作。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 41–45)]]; [[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 5–7)]]
-> - **2020s 至今 — 创新区、[[Research Security|研究安全]]与大型公私伙伴关系（[[Public-Private Partnership in Research|PPP]]）** 美国《芯片与科学法案》推动建立国家半导体技术中心（NSTC）；产学合作向[[Innovation Hub|基于地点的创新中心]]（Tech Hubs）演进，同时在地缘政治紧张背景下建立制度化的[[Research Security|研究安全]]审查平衡机制。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 133–138)]]; [[Argument_Dean_2025_UICollaborationSupport|(Dean et al., 2025, pp. 249–250)]]
+> - **2020s 至今 — 创新区、[[Research Security|研究安全]]与大型公私伙伴关系（[[Public-Private Partnership in Research|PPP]]）** 美国《[[CHIPS and Science Act|芯片与科学法案]]》推动建立国家半导体技术中心（NSTC）；产学合作向[[Innovation Hub|基于地点的创新中心]]（Tech Hubs）演进，同时在地缘政治紧张背景下建立制度化的[[Research Security|研究安全]]审查平衡机制。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 133–138)]]; [[Argument_Dean_2025_UICollaborationSupport|(Dean et al., 2025, pp. 249–250)]]
 
 ---
 

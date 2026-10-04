@@ -9,7 +9,7 @@ aliases:
 summary: "由大学、企业、政府、供应链供应商、中介机构与资本市场通过多维网络互动共同催化、转化与扩散创新的复合自组织系统；具有基于地点与全球网络两种形态，其演进依赖于基础科研锚点、需求侧采购拉动、纵向供应链协同与开放知识产权环境。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -65,6 +65,7 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
   - "[[Bell Labs]]"
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[CHIPS and Science Act]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Competitive Semiconductor Manufacturing Program]]"
   - "[[DARPA]]"
@@ -240,7 +241,7 @@ updated: 2026-10-04
 > - **1990s — 三螺旋理论与[[Industry Affiliate Program|产业联盟]]纵向协同实践** Etzkowitz & Leydesdorff（1995）提出三螺旋模型；Grindley、Mowery 与 Silverman 系统评估 [[Sematech]] 研发联盟，提炼出纵向用户—供应商生态协同与共性技术治理准则。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 723–758)]]
 > - **1998 — 纵向专业化分工与模块化生态逆转** Macher、Mowery 与 Hodges 结合微观标杆数据系统论证 Fabless-Foundry 纵向专业化分工与下游个人电脑互补资产如何驱动美国半导体产业逆转，纠正了 80 年代学界关于产业组织碎片化必然失败的悲观误判。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 107–136)]]
 > - **2000s–2010s — 区域锚点生态与开放创新范式扩展** 莱斯特（Richard Lester）提出大学根据本地产业生命周期进行差异化适配的[[Analytic Framework|分析框架]]；牛津 [[University Industry Demonstration Partnership|UIDP]] 峰会确立了战略性建设高密度、高宜居性本地创新生态的现代范式。[[Argument_Lester_2005_MIT|(Lester, 2005)]]; [[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 8–10)]]
-> - **2020s — 供应链韧性与地缘科技生态重构** 面对全球产业链脱钩与技术主权竞争，2022 年《芯片与科学法案》设立国家半导体技术中心（NSTC），将创新生态系统扩展为涵盖供应链韧性、共性中试线与地缘科技安全的核心治理工具。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135–1137)]]
+> - **2020s — 供应链韧性与地缘科技生态重构** 面对全球产业链脱钩与技术主权竞争，2022 年《[[CHIPS and Science Act|芯片与科学法案]]》设立国家半导体技术中心（NSTC），将创新生态系统扩展为涵盖供应链韧性、共性中试线与地缘科技安全的核心治理工具。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135–1137)]]
 
 ---
 

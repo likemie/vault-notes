@@ -10,7 +10,7 @@ aliases:
 summary: "基于地点的跨部门联合体，将区域内大学、企业、投资者和政府组织起来围绕共同愿景进行大规模创新投资，TUFF 以四个信条和六项优先领域为其实践框架，目标是提升社区居民生活水平"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -42,7 +42,6 @@ related_facts:
   - "[[Kendall Square]]"
   - "[[Tech Square at Georgia Tech]]"
   - "[[Purdue Discovery Park]]"
-  - "[[CHIPS and Science Act]]"
   - "[[National Science Foundation]]"
   - "[[Brookings Institution]]"
   - "[[University City Science Center]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-09-26
+updated: 2026-10-04
 ---
 
 # Innovation Hub
@@ -107,7 +106,7 @@ updated: 2026-09-26
 > - **2003**[[Tech Square at Georgia Tech]] 在亚特兰大中城开业，Georgia Tech 管理学院入驻锚定，成为"密度就是命运"理念的实践样本（pp.129, 136）
 > - **2000s–2010s**[[Purdue Discovery Park]] 以 Lilly Endowment 和印第安纳州各约 1500 万美元启动，逐步发展为超过 10 亿美元的自持研发企业（p.132）
 > - **2010s** 大学开始将创业和[[University-Industry Collaboration\|产学合作]]纳入教师晋升和终身教职评审标准，显著改变了学术界对产学合作的态度（pp.132–133）
-> - **2022–2024**[[CHIPS and Science Act\|CHIPS 与科学法案]]拨款超 100 亿美元设立 Tech Hubs 计划，[[National Science Foundation\|NSF TIP]] 于 2024 年 1 月授予 10 个区域合作体 1.6 亿美元十年期资助，联邦资金大幅涌入创新中心建设（pp.133–134）
+> - **2022–2024**CHIPS 与科学法案拨款超 100 亿美元设立 Tech Hubs 计划，[[National Science Foundation\|NSF TIP]] 于 2024 年 1 月授予 10 个区域合作体 1.6 亿美元十年期资助，联邦资金大幅涌入创新中心建设（pp.133–134）
 
 > [!abstract]
 > 这一演变的核心趋势是从单一的物理空间逻辑（建楼、出租、收租）转向关系密度逻辑（建立人际网络、创造偶然相遇、培育信任）。TUFF 用"密度就是命运"（density is destiny）来概括这一转向——不仅指物理邻近性，更指通过强有力的活动设计推动的人际互动频率和质量（p.137）。
@@ -201,7 +200,7 @@ updated: 2026-09-26
 > [[Central Florida Research Park\|中佛罗里达研究园]] 的 UCF 研发支出从 2011 年的 1.09 亿美元翻番至 2020 年的 2.39 亿美元，园区拥有超过 9,500 名雇员（p.132）。
 
 > [!info]
-> 联邦资金规模：2022 年 [[CHIPS and Science Act\|CHIPS 法案]] 拨款超 100 亿美元用于 Tech Hubs 计划，[[National Science Foundation\|NSF TIP]] 2024 年授予 10 个合作体 1.6 亿美元十年期资助（pp.133–134）。
+> 联邦资金规模：2022 年 CHIPS 法案 拨款超 100 亿美元用于 Tech Hubs 计划，[[National Science Foundation\|NSF TIP]] 2024 年授予 10 个合作体 1.6 亿美元十年期资助（pp.133–134）。
 
 ---
 

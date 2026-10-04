@@ -10,7 +10,7 @@ subtype: event
 region: multi
 fact_region: "multi"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -21,7 +21,6 @@ tags:
 - trade
 - technology-transfer
 related_concepts:
-  - "[[Axiology]]"
   - "[[Knowledge Transfer]]"
   - "[[Technology Transfer]]"
   - "[[Geopolitics of Knowledge]]"
@@ -35,15 +34,17 @@ related_methods:
   - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
+  - "[[World Trade Organization]]"
   - "[[US-China Economic and Security Review Commission]]"
   - "[[Thousand Talents Program]]"
 related_arguments:
   - "[[Argument_Partaken_2022_Springer]]"
+  - "[[Argument_Bown_2024_JEP]]"
   - "[[Argument_Rizvi_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-05-18'
+updated: 2026-10-04
 ---
 
 # Sino-American Trade War
@@ -56,10 +57,10 @@ updated: '2026-05-18'
 ## 经过
 
 > [!note]-
-> - 2018 年 7 月：中美贸易战正式爆发([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.78]])
-> - 贸易战迅速升级为外交对抗和军事重新部署，政治分析人士和记者迅速将该现象标记为"新冷战"
-> - Partaken 认为"新冷战"的标签既"少说了什么"也"多说了什么"：少说了，因为中国没有名副其实的盟友来形成权力集团（与美苏冷战不同，当时每个国家都选边站或保持不结盟）；多说了，因为中美紧张关系的真正断层线可能在于心态、文化、[[Axiology\|价值论]]和实践的差异
-> - 在[[Knowledge Transfer\|知识转移]]维度上，美国的最终目标（可能在 Trump 任期之后仍延续）是限制从美国向中国的[[Technology Transfer\|技术转让]]，无论是合法还是非法的
+> - 2018 年 7 月：中美贸易战正式爆发([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.78]])；半导体产品成为 301 条款关税首批打击的核心品类之一，导致美国自华半导体直接进口量锐减近半([[Argument_Bown_2024_JEP\|Bown & Wang, 2024, p. 98]])。
+> - 贸易战迅速从关税战演化为全方位的科技与出口管制博弈：美国政府放弃通过[[World Trade Organization|世界贸易组织]]（WTO）解决对华争端，转向运用实体清单（Entity List）、外国直接产品规则（FDPR）以及针对先进制程与半导体制造设备的全面单边与多边出口管制([[Argument_Bown_2024_JEP\|Bown & Wang, 2024, pp. 94–95, 98–100]])。
+> - 贸易战迅速升级为外交对抗和军事重新部署，政治分析人士和记者迅速将该现象标记为"新冷战"。
+> - 在[[Knowledge Transfer\|知识转移]]维度上，美国的最终目标是限制从美国向中国的[[Technology Transfer\|技术转让]]，无论是合法还是非法的。
 
 ## 关键文件／声明
 

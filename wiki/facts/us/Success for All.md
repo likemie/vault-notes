@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 44
+fact_related_count: 45
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -59,6 +59,7 @@ related_persons:
   - "[[Nancy Madden]]"
 related_facts:
   - "[[Investing in Innovation Program]]"
+  - "[[China Integrated Circuit Industry Investment Fund]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Lightning Squad]]"
   - "[[Reading Recovery]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-17
+updated: 2026-10-04
 ---
 
 # Success for All
@@ -94,7 +95,7 @@ updated: 2026-09-17
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1987 年在巴尔的摩公立学校启动原型实验，经过全面学校改革计划（CSR）与[[Investing in Innovation Program\|创新投资项目]]（Investing in Innovation, i3）资助持续推广，至今在全美保持常态化运行。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 24–25)]]
-> - **发起方与资助机制** 约翰霍普金斯大学教育研究与改革中心（CRRE）联合非营利组织“人人成功基金会（Success for All Foundation）”研发运营；依托联邦 CSR 专项拨款、i3 放大基金及学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 补偿经费资助。
+> - **发起方与资助机制** 约翰霍普金斯大学教育研究与改革中心（CRRE）联合非营利组织“人人成功基金会（Success for All Foundation）”研发运营；依托联邦 CSR 专项拨款、i3 放[[China Integrated Circuit Industry Investment Fund|大基金]]及学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 补偿经费资助。
 > - **覆盖范围与对象** 累计覆盖全美 48 个州超过 1,500 所公立小学（目前仍有约 1,000 所学校常态化运行），受惠弱势学生超百万人，并辐射至英国、荷兰、澳大利亚等国。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 25)]]
 > - **核心问题导向** 针对城市与贫困农村薄弱学校处境不利儿童早期读写危机，打破“先等待学生失败再提供特殊教育”的被动补救[[Paradigm\|范式]]，建立全员预防性的因果干预体系。
 

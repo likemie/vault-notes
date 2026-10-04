@@ -9,7 +9,7 @@ aliases:
 summary: "政府、企业与大学三部门联合资助和执行研究项目的合作机制，Ramming（2025）从实践者角度提出治理、竞争理论、技术战略和知识产权四维决策框架"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,7 +27,6 @@ related_concepts:
 related_theories:
   - "[[Triple Helix]]"
 related_facts:
-  - "[[CHIPS and Science Act]]"
   - "[[National Science Foundation]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[Universal Parallel Computing Research Centers]]"
@@ -36,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-04
-updated: 2026-10-02
+updated: 2026-10-04
 ---
 
 # Public-Private Partnership in Research
@@ -49,7 +48,7 @@ updated: 2026-10-02
 > [!quote]
 > "An AET practitioner can leverage government partnering to increase the scale of available funding, which can help defray costs. At the same time, broader partnering sometimes comes with complications that can hinder support within companies."（p.233）
 
-PPP 在 2020 年代中期的美国经历了显著的制度化浪潮：2022 年 [[CHIPS and Science Act|CHIPS 与科学法案]]推动建立国家半导体技术中心（NSTC）作为一个大规模 PPP，[[National Science Foundation|NSF]] 启动技术、创新与合作（TIP）理事会将 PPP 作为加速[[Research Translation|研究转化]]和实现基础研究经济效益的核心工具（pp.233–234）。
+PPP 在 2020 年代中期的美国经历了显著的制度化浪潮：2022 年 CHIPS 与科学法案推动建立国家半导体技术中心（NSTC）作为一个大规模 PPP，[[National Science Foundation|NSF]] 启动技术、创新与合作（TIP）理事会将 PPP 作为加速[[Research Translation|研究转化]]和实现基础研究经济效益的核心工具（pp.233–234）。
 
 ---
 
@@ -88,7 +87,7 @@ Intel and Microsoft 于 2008 年联合资助 UC Berkeley and UIUC 的 [[Universa
 
 ### 国家战略制度化（NSTC 模式）
 
-2022 年 [[CHIPS and Science Act|CHIPS 与科学法案]]推动建立的国家半导体技术中心（NSTC）代表了 PPP 从一次性项目到持久制度安排的升级：由联邦立法授权、大规模拨款、明确的国家安全和产业战略目标。对半导体行业的 [[Academic Engagement Team|AET]] 实践者而言，NSTC 是一个"强制函数"——迫使每个公司重新审视自己的大学合作策略在大型 PPP 框架下的定位（pp.235–236）。
+2022 年 CHIPS 与科学法案推动建立的国家半导体技术中心（NSTC）代表了 PPP 从一次性项目到持久制度安排的升级：由联邦立法授权、大规模拨款、明确的国家安全和产业战略目标。对半导体行业的 [[Academic Engagement Team|AET]] 实践者而言，NSTC 是一个"强制函数"——迫使每个公司重新审视自己的大学合作策略在大型 PPP 框架下的定位（pp.235–236）。
 
 ---
 

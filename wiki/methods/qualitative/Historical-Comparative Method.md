@@ -10,7 +10,7 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度、国�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 65
+method_related_count: 68
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -55,6 +55,8 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Research Universities]]"
   - "[[Innovation Policy Paradigms]]"
+  - "[[Vertical Disintegration]]"
+  - "[[Modern Industrial Policy]]"
 related_theories:
   - "[[Three Generations of Mission-Oriented Policy]]"
 related_methods:
@@ -92,10 +94,11 @@ related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Mowery_2011_NBER]]"
+  - "[[Argument_Bown_2024_JEP]]"
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # Historical-Comparative Method
@@ -256,4 +259,5 @@ updated: 2026-10-03
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯运用历史比较法与学科史反思，系统考察比较教育学作为“[[Protean Episteme|普罗透斯式认识体系]]”跨越两百年的代际演进与类型分化（准科学与行政改良、历史人文主义、实证[[Scientism|科学主义]]及冲突范式），以文献计量证据揭示学科面临的“[[Historical Amnesia|历史健忘症]]”危机，确立历史学与社会科学综合纲领的现代合法性。
 > - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]] — 运用历史比较与制度分析法，系统梳理中世纪欧陆大学向德国洪堡科研大学转型并由美国移植改造的历史轨迹，横向对比美国与西欧、东亚在中央集权部属管控、教授讲席制壁垒及国家科研院所制度上的差异，揭示非集权分层竞争、同行评议与研究生教育科研共生机制如何奠定[[Research Universities|美国研究型大学]]在全球知识体系中的核心地位。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 运用历史制度分析与跨部门跨国比较方法，系统剖析战后美国半导体、计算机硬件与软件产业演进中联邦科研资助、国防采购合同、反垄断同意令及高校学科建制化的协同机制，横向对比美欧日产业结构分化，并审慎评判冷战信息技术[[Innovation Policy Paradigms|创新政策范式]]向气候变化与能源研发领域迁移的适用边界。
+> - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 运用历史比较与全球供应链结构演变分析方法，系统对照 20 世纪 80 年代美日半导体贸易摩擦与 2020 年代中美高科技竞争两波产业政策浪潮，揭示产业组织由纵向一体化向[[Vertical Disintegration|纵向离散]]与全球碎片化转变如何重塑[[Modern Industrial Policy|现代产业政策]]的工具箱、成本结构与地缘安全边界。
 

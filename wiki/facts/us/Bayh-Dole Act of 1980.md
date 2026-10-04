@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -46,6 +46,7 @@ related_persons: []
 related_facts:
   - "[[National Science Foundation]]"
   - "[[SBIR and STTR Programs]]"
+  - "[[CHIPS and Science Act]]"
   - "[[National Institutes of Health]]"
   - "[[Department of Energy]]"
   - "[[University Industry Demonstration Partnership]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-02
+updated: 2026-10-04
 ---
 
 # Bayh-Dole Act of 1980
@@ -108,7 +109,7 @@ updated: 2026-10-02
 > - **1980** 美国国会正式通过《拜杜法案》，彻底废除政府垄断联邦专利所有权的旧体制，将专利权下放给大学。[[Argument_Hall_2025_EthicalLegalFrameworks|(Hall, 2025, p. 264)]]
 > - **1984** 美国国会通过《商标澄清法案》（Trademark Clarification Act），进一步废除了对大学许可专利权规模的限制，使法案赋权范围彻底普惠至所有研发实体。
 > - **1988–2003** 全美研究型[[Technology Transfer|大学技术转移]]机构蓬勃发展，大学教师年度专利授权总数从 1988 年的 800 项大幅飙升至 2003 年的 3200 项，增长达四倍之巨。
-> - **2000 年代至今** 随着《芯片与科学法案》等新战略立法推进，美国[[University-Industry Collaboration|产学合作]]步入创新区与大型[[Public-Private Partnership in Research|公私合作伙伴关系]]（PPP）时代，拜杜法案建立的产权框架依然稳固充当其底层法律基石。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 43–44)]]
+> - **2000 年代至今** 随着《[[CHIPS and Science Act|芯片与科学法案]]》等新战略立法推进，美国[[University-Industry Collaboration|产学合作]]步入创新区与大型[[Public-Private Partnership in Research|公私合作伙伴关系]]（PPP）时代，拜杜法案建立的产权框架依然稳固充当其底层法律基石。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 43–44)]]
 
 ---
 

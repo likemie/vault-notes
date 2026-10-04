@@ -9,7 +9,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
-argument_related_count: 28
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -51,7 +51,6 @@ related_facts:
   - "[[DARPA]]"
   - "[[Universal Parallel Computing Research Centers]]"
   - "[[University Industry Demonstration Partnership]]"
-  - "[[CHIPS and Science Act]]"
   - "[[National Science Foundation]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[National Academy of Sciences]]"
@@ -295,7 +294,7 @@ citation_aliases:
 10. **政府和非营利部门的参与可以放大产学合作的资金规模和影响力，引入第三方资金和第三方视角，但代价是治理复杂性的指数级增长**
 
 > [!info] [[Triple Helix\|三重螺旋]]的现实化
-> 政府日益以直接的合作伙伴，不仅是资助方身份进入产学合作。美国 2022 年 [[CHIPS and Science Act\|CHIPS 与科学法案]]推动建立国家半导体技术中心（NSTC），[[National Science Foundation\|NSF]] 启动技术、创新与合作（TIP）理事会，两者都以[[Public-Private Partnership in Research\|公私合作伙伴关系]]（PPP）为核心运作工具。对 AET 实践者而言，这些机制既提供了放大资金规模的机会（政府资金可以减轻企业的直接成本），也提供了塑造国家技术战略的话语权(pp.233–234)。
+> 政府日益以直接的合作伙伴，不仅是资助方身份进入产学合作。美国 2022 年 CHIPS 与科学法案推动建立国家半导体技术中心（NSTC），[[National Science Foundation\|NSF]] 启动技术、创新与合作（TIP）理事会，两者都以[[Public-Private Partnership in Research\|公私合作伙伴关系]]（PPP）为核心运作工具。对 AET 实践者而言，这些机制既提供了放大资金规模的机会（政府资金可以减轻企业的直接成本），也提供了塑造国家技术战略的话语权(pp.233–234)。
 
 > [!warning] 多利益相关方合作的四个关键决策点(pp.233–234)
 
@@ -394,7 +393,7 @@ citation_aliases:
    - **SRC（Semiconductor Research Corporation）** 一个长期存在的行业 PPP，多家半导体公司（包括直接竞争对手）共同资助前竞争阶段的大学研究并支持人才发展，展示了"竞争者在研究层面合作"的制度化可能
    - **制造端的独立演化** Intel 的制造部门继续推进工艺技术的尺寸缩放，SRC 是这一轨道的核心工具
    - **2020 年代的新格局** 随着尺寸缩放逼近渐近极限(Kim, 2024)，fabless 公司（如 Nvidia）通过架构差异化在 AI 等关键应用中获得巨大竞争优势，其市值相对于制造商（Intel、TSMC）持续增长
-   - **[[CHIPS and Science Act|CHIPS 与科学法案]](2022)** 计算能力日益成为国家安全资产，促使两党立法投入数百亿美元重振美国半导体产业。NSTC（国家半导体技术中心）的建立代表了 UPCRC 所开创的"企业+大学+政府"三方合作模式的制度化升级——从一次性项目变为持久制度安排
+   - **CHIPS 与科学法案(2022)** 计算能力日益成为国家安全资产，促使两党立法投入数百亿美元重振美国半导体产业。NSTC（国家半导体技术中心）的建立代表了 UPCRC 所开创的"企业+大学+政府"三方合作模式的制度化升级——从一次性项目变为持久制度安排
 
    对半导体 和 计算行业的 AET 实践者而言，NSTC 是一个"强制函数"（forcing function）：它迫使每个公司重新审视自己的大学合作策略，在 NSTC and SRC 这两个大型 PPP 框架下，大学合作需要重新定位(p.236)。
 

@@ -8,10 +8,10 @@ aliases:
 summary: "处于探索阶段、产出的知识产权尚不具备直接商业化价值的共性技术研发活动。在产学合作与产业研发联盟中，前竞争研究充当了多边协同的制度边界：使同行竞争者在共性工艺、行业标准与基础设施层面共享成果与分摊风险，同时保留各自在专有产品设计与商业市场的独立竞争优势；Grindley et al. (1994) 揭示了其在同业横向联盟中的专有权张力及向纵向供应链协同演化的规律。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 concept_domain: "university-industry-collaboration"
 concept_kind: "process"
 concept_related_count: 18
@@ -54,6 +54,7 @@ related_facts:
   - "[[VLSI Project]]"
   - "[[ESPRIT]]"
   - "[[Microelectronics and Computer Technology Corporation]]"
+  - "[[CHIPS and Science Act]]"
 related_arguments:
   - "[[Argument_Narayan_Spohrer_2025_Metrics]]"
   - "[[Argument_Grindley_1994_JPAM]]"
@@ -170,7 +171,7 @@ updated: 2026-10-04
 > [!dev-timeline] 概念演变历程
 > - **1980s — 反垄断豁免与半导体联盟兴起** 美国通过 1984 年《国家合作研究法》（NCRA），首次从法律层面界定前竞争研发（Pre-competitive R&D）并免除反垄断三倍赔偿风险；直接催生了 [[Sematech]]、[[Microelectronics and Computer Technology Corporation|MCC]] 等高技术研发联合体，以及欧洲 [[ESPRIT]] 计划。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724–728)]]
 > - **1990s — 战略转向与纵向通用基础设施确立** [[Sematech]] 的实践证明横向工艺配方共享难以维系，前竞争研究的内涵拓展为国家半导体技术路线图（NTRS）、[[Cost of Ownership|所有权成本模型]]（COO）及共有中试线认证等通用基础设施。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 731–736)]]
-> - **2000s–至今 — 产学两层知识产权与公私伙伴关系（[[Public-Private Partnership in Research|PPP]]）制度化** 前竞争原则广泛融入[[University-Industry Collaboration|产学合作]]管理与国家战略科技政策（如英国 [[Advanced Manufacturing Research Centre|AMRC]] 两层知识产权模型、美国《芯片与科学法案》国家半导体技术中心 NSTC），演化为调节公私协同与市场竞争平衡的核心制度工具。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025)]]; [[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025)]]
+> - **2000s–至今 — 产学两层知识产权与公私伙伴关系（[[Public-Private Partnership in Research|PPP]]）制度化** 前竞争原则广泛融入[[University-Industry Collaboration|产学合作]]管理与国家战略科技政策（如英国 [[Advanced Manufacturing Research Centre|AMRC]] 两层知识产权模型、美国《[[CHIPS and Science Act|芯片与科学法案]]》国家半导体技术中心 NSTC），演化为调节公私协同与市场竞争平衡的核心制度工具。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025)]]; [[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025)]]
 
 ---
 

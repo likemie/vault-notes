@@ -9,7 +9,7 @@ aliases:
 summary: "冷战时期美国国防部在半导体与集成电路采购中强制推行的制度性采购规程，要求中标主承包商必须向竞争对手交叉许可全部专利与制造工艺诀窍以保障供应链安全；该需求侧政策在客观上打破了技术垄断壁垒，加速了默会工艺知识的跨企业流动，奠定了战后硅谷去中心化、高竞争性的微电子产业生态"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -38,12 +38,13 @@ related_persons:
 related_facts:
   - "[[Fairchild Semiconductor]]"
   - "[[Apollo Program]]"
+  - "[[CHIPS and Science Act]]"
 related_arguments:
   - "[[Argument_Mowery_2011_NBER]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # Second-Sourcing
@@ -144,7 +145,7 @@ updated: 2026-10-03
 > - **1950s — 军械制造时代的起源** 最早应用于战时常规武器弹药生产，确保弹药标准统一与兵工厂多点备份。
 > - **1960s — 硅谷微电子革命的关键催化** 美国空军在民兵导弹计划中全面推行第二货源条款，迫使德州仪器、[[Fairchild Semiconductor|仙童半导体]]、Transitron 等企业互相交叉许可集成电路工艺，奠定了硅谷早期的技术流动网络。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 164–165)]]
 > - **1970s–1980s — 微处理器时代的商业化衍生** 从军品采购规制演变为半导体商业竞争策略（例如 IBM 在采购个人电脑 CPU 时强制要求英特尔将 x86 架构授权给 AMD 作为第二货源，从而直接扶植起长达数十年的 x86 双寡头竞争格局）。
-> - **1990s–至今 — 现代供应链韧性与科技政策反思** 在地缘政治博弈与全球芯片断链风险下，第二货源理念重新被美欧政府纳入战略供应链法案（如《芯片法案》关于关键先进制程备份生产的要求）。
+> - **1990s–至今 — 现代供应链韧性与科技政策反思** 在地缘政治博弈与全球芯片断链风险下，第二货源理念重新被美欧政府纳入战略供应链法案（如《[[CHIPS and Science Act|芯片法案]]》关于关键先进制程备份生产的要求）。
 
 ---
 
