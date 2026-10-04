@@ -23811,6 +23811,19 @@
     ]
   },
   {
+    "title": "VLSI Project",
+    "type": "fact",
+    "path": "wiki/facts/east-asia/VLSI Project.md",
+    "aliases": [
+      "超大规模集成电路技术研究组合",
+      "超大规模集成电路项目",
+      "日本超大规模集成电路项目",
+      "VLSI",
+      "VLSI Research Association",
+      "Very Large Scale Integration Project"
+    ]
+  },
+  {
     "title": "Estonian STEM Education Model",
     "type": "fact",
     "path": "wiki/facts/estonia/Estonian STEM Education Model.md",
@@ -24137,6 +24150,18 @@
       "1953年欧洲大学入学文凭等值公约",
       "European Convention on the Equivalence of Diplomas 1953",
       "欧洲文凭等值公约"
+    ]
+  },
+  {
+    "title": "ESPRIT",
+    "type": "fact",
+    "path": "wiki/facts/europe/ESPRIT.md",
+    "aliases": [
+      "欧洲信息技术研究与发展战略计划",
+      "欧洲战略信息技术研发计划",
+      "European Strategic Program for Research and Development in Information Technologies",
+      "ESPRIT I",
+      "ESPRIT II"
     ]
   },
   {
@@ -30868,6 +30893,11 @@
     "title": "Argument_Zhao_2025_JIntell",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Journal of Intelligence/Argument_Zhao_2025_JIntell.md"
+  },
+  {
+    "title": "Argument_Grindley_1994_JPAM",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Journal of Policy Analysis and Management/Argument_Grindley_1994_JPAM.md"
   },
   {
     "title": "Argument_Bergeron_2019_JRIE",

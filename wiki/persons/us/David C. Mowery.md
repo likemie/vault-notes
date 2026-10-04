@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # David C. Mowery
@@ -78,6 +78,7 @@ updated: 2026-10-03
 
 > [!work-line] 主要著作
 > - **1989 — *Technology and the Pursuit of Economic [[Growth]]*** 与内森·罗森伯格合著，系统探讨美国 20 世纪工业研发实验室的崛起、国家科技政策演变与经济长期增长之间的内在关联。
+> - **1994 — *[[Sematech]] and Collaborative Research: Lessons in the Design of High-Technology Consortia*** 与彼得·格林德利（Peter Grindley）、布莱恩·西尔弗曼（Brian Silverman）合著发表于 *Journal of Policy Analysis and Management*，基于 25+ 场深度访谈与 11 项工程历史档案，系统评估 Sematech 研发联盟治理机制及其向纵向供应链协同的战略转型，并与日欧同类研发联合体进行比较。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 723–758)]]
 > - **1996 — *The International Computer Software Industry*** 主编国际软件产业比较专著，系统梳理美、欧、日软件工业发展路径分化与政府角色的演化轨迹。
 > - **1998 — *Paths of Innovation: Technological Change in 20th-Century America*** 与内森·罗森伯格合著，深入考察内燃机、化学化工、航空航天及微电子与计算机四大核心[[Technological Trajectories|技术轨迹]]的演进史。
 > - **2004 — *Ivory Tower and Industrial Innovation: University-Industry [[Technology Transfer]] Before and After the [[Bayh-Dole Act of 1980|Bayh-Dole Act]]*** 与理查德·纳尔逊、巴瓦尼·桑帕特（Bhaven Sampat）及阿维德·扎多尼斯（Arvids Ziedonis）合著，全面解构《拜杜法案》神话，指出大学专利化繁荣很大程度上是战后长期基础研究积累与生物医药技术突破的结果，而非单一法案所能完全解释。

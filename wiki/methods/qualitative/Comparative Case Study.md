@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-19
-updated: 2026-10-02
+updated: 2026-10-04
 ---
 
 # Comparative Case Study
@@ -172,3 +172,4 @@ updated: 2026-10-02
 > - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] — 运用 CCS 框架比较新加坡与阿联酋的[[International Education Hubs|国际教育枢纽]]建设，重点利用横贯维度追溯 1990–2018 年间全球金融危机与地缘政治对多领域政策混合体的历史重塑。
 > - [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]] — 采用比较案例研究设计结合[[Mixed Methods Research|混合方法]]，对比两所美国大学和一所新西兰大学的博士[[Graduate Attributes|毕业生特质]]发展与职场迁移，以制度差异下的模式一致性推断博士培养的结构性特征。
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] — 采用比较案例研究设计，对比美德两国联邦体制下的教育数据化先锋州（马萨诸塞州与汉堡），系统考察州级教育行政机构中[[Data Infrastructure|数据基础设施]]的社会-技术实践与治理张力。
+> - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 采用国际比较案例研究设计，深度对比美国 [[Sematech]]、日本 [[VLSI Project|VLSI 项目]] 及欧洲 [[ESPRIT]]、JESSI 等跨国高技术研发联盟的治理结构与演进轨迹，提炼高技术公私协同联盟的制度设计准则。

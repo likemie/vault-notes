@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-09-10
+updated: 2026-10-04
 ---
 ## 定义
 
@@ -84,7 +84,19 @@ updated: 2026-09-10
 > 这一区分的制度后果是：PPP 产出的前竞争 IP 归大学所有、所有成员免版税平等使用（如 [[Advanced Manufacturing Research Centre\|AMRC]] 的两层模型），而产品层面的差异化开发由各成员在 PPP 框架之外独立进行([[Argument_Ramming_2025_CorporateSupport\|Ramming, 2025, pp.233–234]])。
 
 > [!example] SRC 的应用
-> SRC（Semiconductor Research Corporation）是运用前竞争原则的典范：多家半导体竞争对手共同资助大学研究，但研究范围被限定在下一代工艺技术的基础科学和工程挑战——这些是所有成员都需要解决但任何单一公司都难以独立承担的问题。通过将合作框定在前竞争范围内，SRC 避免了成员之间在 IP 和竞争优势上的零和博弈([[Argument_Ramming_2025_CorporateSupport\|Ramming, 2025, pp.235–236]])。
+> SRC（Semiconductor Research Corporation）是运用前竞争原则的典范：多家半导体竞争对手共同资助大学研究，但研究范围被限定在下一代工艺技术的基础科学和工程挑战——这些是所有成员都需要解决但任何单一公司都难以独立承担的问题。通过将合作框定在前竞争范围内，SRC 避免了成员之间在 IP 和竞争优势上的零和博弈([[Argument_Ramming_2025_CorporateSupport\|Ramming, 2025, pp.233–236]])。
 
 ---
+
+## 产业联盟中的前竞争治理与张力演化
+
+> [!note]-
+> 在高技术产业研发联盟（R&D Consortia）中，前竞争研究的边界界定直接关系到联盟的存续与研发产出转化。[[David C. Mowery|Grindley et al. (1994)]] 基于 [[Sematech]]、日本 [[VLSI Project|VLSI 项目]] 与欧洲 [[ESPRIT]] 的实证比较，揭示了前竞争研发在产业联盟中的三大深层治理机制：
+> 1. **知识溢出与专有权张力（Appropriability vs. Spillovers）** 即使名义上限定在“前竞争”阶段，直接竞争对手在横向联盟中仍普遍存在技术泄密与核心能力流失的恐惧。这种专有性顾虑往往导致横向联盟难以在核心制造工艺上实现深度技术共享。
+> 2. **向近中期通用基础设施漂移（Shift to Nearer-Term Generic Tech）** 联盟企业通常要求可衡量的直接投资回报，导致 [[Sematech]]、MCC 及欧洲诸多联盟均逐步从长周期、探索性的前竞争基础研究，转向近中期的共性技术规范、测试认证、标准制定与设备改良；长远基础研究更适宜保留给开放环境下的大学与公共科研机构。
+> 3. **纵向协同解耦专有冲突（Vertical vs. Horizontal Synergy）** 当联盟将前竞争研发重心由芯片制造商之间的“横向协同”重构为制造商与上游装备材料供应商之间的“纵向协同”时，各方目标由零和博弈转为互利共赢，大幅消解了专有权冲突，成为高技术前竞争联盟高效运转的制度解法。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724–728, 751–754)]]
+
+---
+
+
 

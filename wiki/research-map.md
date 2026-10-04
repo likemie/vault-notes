@@ -13,8 +13,8 @@ related_methods: []
 
   <div class="research-map-stats" aria-label="Wiki 规模概览">
     <a href="/bases/concepts"><span>概念</span><strong>1192</strong></a>
-    <a href="/bases/arguments"><span>论证</span><strong>302</strong></a>
-    <a href="/bases/facts"><span>事实</span><strong>653</strong></a>
+    <a href="/bases/arguments"><span>论证</span><strong>303</strong></a>
+    <a href="/bases/facts"><span>事实</span><strong>655</strong></a>
     <a href="/bases/persons"><span>人物</span><strong>378</strong></a>
     <a href="/bases/theories"><span>理论</span><strong>205</strong></a>
     <a href="/bases/methods"><span>方法</span><strong>317</strong></a>
