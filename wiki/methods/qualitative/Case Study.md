@@ -7,7 +7,7 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 79
+method_related_count: 82
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Rich and Thick Description]]"
   - "[[Embedded Network Governance]]"
+  - "[[Research Universities]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Knowledge Building Theory]]"
@@ -94,15 +95,17 @@ related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_Schnee_1978_RP]]"
   - "[[Argument_Fuchs_2010_RP]]"
+  - "[[Argument_Murphy_2026_JTS]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
   - "[[Institute for Educational Quality Improvement]]"
   - "[[DARPA]]"
+  - "[[CHIPS and Science Act]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 # Case Study
 
@@ -287,3 +290,4 @@ Yin告诫在单案例设计中要谨慎：通常会忽视多案例的可能好�
 > - [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示学界大量产出的单一外国教育体制深度国别个案研究（in-depth country case studies）内部蕴含着强烈的比较视野，并在后殖民分化、冷战东西欧阵营对峙与跨国宏观社会学比较三大路径上突破了单一民族国家的[[Unit of Analysis|分析单元]]容器。
 > - [[Argument_Schnee_1978_RP\|Schnee (1978)]] — 采用跨行业[[Comparative Case Study|比较案例研究]]设计，对比美国半导体与计算机两大高技术产业在 1950–1970 年代的发展历程，结合政府历史统计数据与半导体、计算机企业高管及大学工程学者的专家访谈，系统解析大型空间与国防公共项目通过早期研发资助、确定性市场需求、促成新企业准入、技术外溢与专业人才流动驱动产业增长的多维支撑机制。
 > - [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] — 采用纵向嵌入式单机构多技术个案研究设计，以[[DARPA|美国国防高级研究计划局]]（DARPA）微系统技术办公室（MTO）在 1992–2008 年间资助的 4 项半导体关键材料（SiGe、应变硅、3D封装、硅基光子学）为分析单元，结合 50 场半结构化[[In-depth Interview|深度访谈]]、专利计量与现场[[Participant Observation|参与观察]]，深入解构项目经理在冷战后与 9/11 后两任领导期内重塑研发社会网络以引导国家[[Technological Trajectories|技术轨道]]的[[Embedded Network Governance|嵌入型网络治理]]机制。
+> - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 采用单机构案例研究设计，结合参与描述性统计与开放式[[Questionnaire|问卷]]主题分析，深度追踪美国一所大型[[Research Universities|研究型大学]]面向《[[CHIPS and Science Act|芯片与科学法案]]》战略需求开展的系列学者发展工作坊演进过程与行动者参与体验。

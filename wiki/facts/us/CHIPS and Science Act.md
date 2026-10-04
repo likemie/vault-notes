@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 20
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -49,10 +49,13 @@ related_arguments:
   - "[[Argument_Bown_2024_JEP]]"
   - "[[Argument_Ramming_2025_CorporateSupport]]"
   - "[[Argument_Byrne_2025_InnovationCenters]]"
+  - "[[Argument_Murphy_2026_JTS]]"
+related_methods:
+  - "[[Design-Based Research]]"
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # CHIPS and Science Act
@@ -162,6 +165,7 @@ updated: 2026-10-04
 > - **重塑全球先进制程投资流向** 成功吸引[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（亚利桑那州两座先进制程晶圆厂）、三星（德州泰勒）、英特尔（俄亥俄与亚利桑那州）及美光（纽约州超级 DRAM 厂）落地，锁定了未来 2nm–4nm 先进产能。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]
 > - **开创三代公私研发合作新格局** 推动建立国家半导体技术中心（NSTC），使[[University-Industry Collaboration|产学合作]]从公司自发投资跃升为国家战略级制度化创新基础设施。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
 > - **前沿研发与劳动力培育协同机制** 法案在直接补贴之外将劳动力发展（Workforce Development）确立为核心基石，借鉴欧洲 IMEC 等跨国高校-产业研发中心[[Paradigm|范式]]，设立 NSTC 产学培训网络；同时创新性要求申请 1.5 亿美元以上补贴的企业强制配套员工托儿服务（Childcare），试图通过社会政策工具激活女性与本地技术劳动力供给。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 97–98)]]
+> - **微观高校学者动员与半导体跨学科团队孵化** 面对全美至 2030 年预计缺口达 140 万的 [[STEM Education|STEM]] 与半导体人才荒，美国高水平[[Research Universities|研究型大学]]通过设立专项工作组与半导体研究院，采用[[Design-Based Research|基于设计的研究]]开展逐层扩圈的学者发展工作坊，推动电气工程、材料科学与计算机科学等院系打破壁垒、对接产业技术需求并组建跨学科攻关网络。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 1–6)]]
 > - **激活落后地区[[Innovation Ecosystem|区域创新生态]]** Tech Hubs 与 [[National Science Foundation|NSF TIP]] 资助大幅提升了传统内陆地区[[Innovation Park|研究园区]]的[[Research Translation|技术转化]]活力与风险资本关注度。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 133–137)]]
 
 > [!stat-cards]- 核心数据
