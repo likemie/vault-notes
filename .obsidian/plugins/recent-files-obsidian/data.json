@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Journal of Policy Analysis and Management/Argument_Grindley_1994_JPAM.md"
     },
     {
+      "basename": "Innovation Ecosystem",
+      "path": "wiki/concepts/university-industry-collaboration/Innovation Ecosystem.md"
+    },
+    {
       "basename": "David C. Mowery",
       "path": "wiki/persons/us/David C. Mowery.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Kattel_Mazzucato_2018_ICC",
       "path": "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Kattel_Mazzucato_2018_ICC.md"
-    },
-    {
-      "basename": "Achieve",
-      "path": "wiki/facts/us/Achieve.md"
     }
   ],
   "omittedPaths": [],
