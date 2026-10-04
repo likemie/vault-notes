@@ -10,7 +10,7 @@ summary: "美国著名创新经济学与科技政策学者，加州大学伯克�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -54,6 +54,7 @@ related_facts:
   - "[[OECD]]"
   - "[[VLSI Project]]"
   - "[[ESPRIT]]"
+  - "[[Competitive Semiconductor Manufacturing Program]]"
   - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Mowery_2011_NBER]]"
@@ -99,7 +100,7 @@ updated: 2026-10-04
 > - **1989 — *Technology and the Pursuit of Economic [[Growth]]*** 与内森·罗森伯格合著，系统探讨美国 20 世纪工业研发实验室的兴起、联邦科技政策演变与国家经济长期增长的内在制度纽带。
 > - **1994 — *[[Sematech]] and Collaborative Research: Lessons in the Design of High-Technology Consortia*** 与彼得·格林德利（Peter Grindley）、布莱恩·西尔弗曼（Brian Silverman）合著发表于 *Journal of Policy Analysis and Management*，基于 25+ 场[[In-depth Interview|深度访谈]]与 11 项技术档案，系统解构 Sematech 治理演进，提出以纵向用户—供应商协同为核心的高技术研发联盟设计原则，并与日本 [[VLSI Project|超大规模集成电路项目]]（VLSI Project）及欧洲 欧洲信息技术研究战略计划（[[ESPRIT]]）展开深入跨国比较。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 723–758)]]
 > - **1996 — *The International Computer Software Industry*** 主编跨国比较专著，系统剖析美、欧、日软件工业发展路径分化与政府采购、反垄断政策及市场结构的演进关系。
-> - **1998 — *Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry*** 与杰弗里·马赫（Jeffrey T. Macher）、大卫·霍奇斯（David A. Hodges）合著发表于 *California Management Review*，结合加州大学伯克利分校竞争性半导体制造（CSM）项目的产线标杆数据与宏观产业演进，实证阐明美国半导体产业在 20 世纪 90 年代的复兴源于产品线向微组件敏捷重组、制造质量差距弥合与纵向专业化分工，有力纠正了 80 年代学界关于产业碎片化必然衰败的悲观论断。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 107–136)]]
+> - **1998 — *Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry*** 与杰弗里·马赫（Jeffrey T. Macher）、大卫·霍奇斯（David A. Hodges）合著发表于 *California Management Review*，结合加州大学伯克利分校竞争性半导体制造（[[Competitive Semiconductor Manufacturing Program|CSM]]）项目的产线标杆数据与宏观产业演进，实证阐明美国半导体产业在 20 世纪 90 年代的复兴源于产品线向微组件敏捷重组、制造质量差距弥合与纵向专业化分工，有力纠正了 80 年代学界关于产业碎片化必然衰败的悲观论断。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 107–136)]]
 > - **1998 — *Paths of Innovation: Technological Change in 20th-Century America*** 与内森·罗森伯格合著，深入考察内燃机、化学化工、航空航天及微电子与计算机四大核心[[Technological Trajectories|技术轨迹]]的历史演进规律。
 > - **2004 — *Ivory Tower and Industrial Innovation: University-Industry [[Technology Transfer]] Before and After the [[Bayh-Dole Act of 1980|Bayh-Dole Act]]*** 与理查德·纳尔逊、巴瓦尼·桑帕特（Bhaven Sampat）、阿维德·扎多尼斯（Arvids Ziedonis）合著，全面解构《拜杜法案》神话，实证指出大学技术转移繁荣源自战后长周期基础研究积累与生物医药学科突破，而非单纯依靠专利垄断激励。
 > - **2011 — *Federal Policy and the Development of Semiconductors, Computer Hardware, and Computer Software*** 收录于《加速能源创新》（*Accelerating Energy Innovation*），深入总结国防采购、反垄断同意令与学科建制化对信息技术（IT）产业的塑造机制，并审慎评估其作为气候能源创新政策模板的移植边界。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 159–188)]]

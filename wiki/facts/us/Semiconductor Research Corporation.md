@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -46,12 +46,14 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Sematech]]"
   - "[[Sematech Centers of Excellence]]"
+  - "[[Focus Center Research Program]]"
   - "[[American Council on Education]]"
   - "[[Microelectronics and Computer Technology Corporation]]"
   - "[[CHIPS and Science Act]]"
 related_arguments:
   - "[[Argument_Ramming_2025_CorporateSupport]]"
   - "[[Argument_Grindley_1994_JPAM]]"
+  - "[[Argument_Macher_1998_CMR]]"
 confidence: high
 status: draft
 created: 2026-06-04
@@ -80,7 +82,7 @@ updated: 2026-10-04
 > [!dev-timeline] 组织发展历程
 > - **1982–1987 — 破冰创建与前竞争产学资助体系奠基** 建立首个全行业共享的大学微电子研究资助基金，确立“行业提需求、高校出方案、同行评议立项、知识产权非独占共享”的治理准则，开创了竞争对手联合资助基础科研的制度先河。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
 > - **1988–1996 — 协同 [[Sematech]] 统筹[[Sematech Centers of Excellence|大学卓越中心]]网络（SCOE）** 承担 [[Sematech]] 每年 **1000 万至 1500 万美元** 的大学科研经费转拨与统筹管理职能，在加州大学伯克利分校、斯坦福、MIT 等高校建立 Sematech 大学卓越技术中心网络，专注于前沿光刻物理、等离子体刻蚀与材料建模基础研究。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 735, 754)]]
-> - **1997–2017 — 焦点聚焦研究中心计划（FRC）与 STARnet 扩张** 联合 [[DARPA]] 与企业设立 FRC（Focus Center Research Program）与 STARnet 计划，将资助领域扩展至后 CMOS 新器件、自旋电子学、异构集成及神经形态计算。
+> - **1997–2017 — [[Focus Center Research Program|焦点研究中心计划]]（FCRP）与 STARnet 扩张** 1998 年联合 SIA、[[DARPA]] 与 [[Sematech]] 设立微电子先进研究联盟（MARCO），正式启动焦点研究中心计划（Focus Center Research Program, FCRP）与随后的 STARnet 计划，确立了“扩展大学半导体科研基础设施、吸引顶尖师生投身微电子领域、为产业界持续培养高水平研究生”的三重核心使命，将资助视野前移至 10 至 15 年后的物理极限挑战与后 CMOS 新器件。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 121, note 48)]]
 > - **2018–至今 — JUMP 2.0 与对接《芯片法案》国家战略体系** 启动微电子联合大学微电子计划（JUMP 2.0），并与 2022 年《芯片与科学法案》设立的国家半导体技术中心（NSTC）深度协同，从行业联盟型 [[Public-Private Partnership in Research|PPP]] 跃升为国家战略级产学研核心支撑平台。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
 
 ---
@@ -96,7 +98,7 @@ updated: 2026-10-04
 > [!pathways]- 业务运行与知识产权共享机制
 > - **[[Precompetitive Research|前竞争研究]]边界划分** 将合作范围严格限定在前瞻性工艺物理、基础材料科学、EDA 算法与通用行业标准，坚决回避直接涉及芯片架构、商业产品设计等差异化竞争领域，从制度上消除企业间搭便车与商业泄密顾虑。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
 > - **开放发表与非独占知识产权许可** 资助成果坚持完全公开学术发表原则，所有 SRC 成员企业均自动获得受资助成果的非独占、全球免版税使用许可（Non-exclusive, Royalty-free License），保障研究在全行业广泛扩散。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 754)]]
-> - **人才管道直接对接机制（Student Recruitment Pipeline）** 成员企业享有优先阅览受资助学生研究论文、提前开展暑期实习选拔与专属招聘会的特权，使人才直通成为企业出资最立竿见影的收益。
+> - **人才管道直接对接机制（Student Recruitment Pipeline）** 成员企业享有优先阅览受资助学生研究论文、提前开展暑期实习选拔与专属招聘会的特权，使人才直通成为企业出资最立竿见影的收益。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 121, note 48)]]
 
 ---
 
@@ -104,6 +106,7 @@ updated: 2026-10-04
 
 > [!finding-cards] 核心业务矩阵与旗舰项目
 > - **[[Sematech Centers of Excellence|大学卓越技术中心网络]]（SCOE / Centers of Excellence）** 1980–1990 年代与 [[Sematech]] 深度协作，在全美顶尖院校建立 10 余个微电子制造共性技术研发中心，攻克深紫外（DUV）光刻、化学机械抛光（CMP）等关键工艺基础理论。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 735)]]
+> - **[[Focus Center Research Program|焦点研究中心计划]]（FCRP / STARnet）** 1998 年通过下设的 MARCO 运营，联合 SIA、[[DARPA]] 与 SEMATECH 资助佐治亚理工学院、加州大学伯克利分校、MIT 等高校建立跨学科焦点中心，攻坚 10 至 15 年视野的互连物理、十亿门级系统设计与纳米新材料。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 121, note 48)]]
 > - **微电子联合大学计划（JUMP / JUMP 2.0）** 联合 [[DARPA]] 资助 7 个全美跨校研究中心（涵盖 CogniSense、CUbiC、PRISM、[[American Council on Education|ACE]] 等），攻坚高能效认知计算、智能传感与三维异构集成。
 > - **十亿节点计算机研究（nCORE / GRC）** 全球研究协作计划（GRC）持续资助纳米电子器件物理、新存储介质与先进光电互连基础科学。
 > - **十年微电子技术愿景（Decadal Plan for Semiconductors）** 联合 SIA 制定发布指引全美未来 10 年半导体研发重点的战略白皮书，成为国会制定《芯片法案》的重要理论依据。
@@ -153,6 +156,7 @@ updated: 2026-10-04
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
+> | [[Focus Center Research Program]] | Fact (Program) | SRC 下设机构 MARCO 统筹运营的国家级跨校产学前沿研究计划。 |
 > | [[Sematech]] | Fact (Organization) | 产业制造联盟，与 SRC 形成“[[Application Engineering\|应用工程]]联合体 vs 基础大学科研”的双轨互补网络。 |
 > | [[Sematech Centers of Excellence]] | Fact (Program) | Sematech 与 SRC 联合设立的高校卓越中心网络，由 SRC 具体负责日常统筹管理。 |
 > | [[Microelectronics and Computer Technology Corporation]] | Fact (Organization) | 同期成立的私营高技术研发联盟，作为纯企业间联合体与 SRC 的产学资助模式形成鲜明对照。 |
@@ -160,3 +164,6 @@ updated: 2026-10-04
 > | [[Public-Private Partnership in Research]] | Concept | SRC 作为行业自律与公私协同典范所代表的产学研合作[[Paradigm\|范式]]。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 推动设立 NSTC、在国家层面上扩展 SRC [[University-Industry Collaboration\|产学合作]]与人才培养模式的现代核心法案。 |
 > | [[David C. Mowery]] | Person | 系统评估 Sematech 与 SRC 在国家[[Systems of Innovation\|创新系统]]（NIS）中分工定位的科技政策学者。 |
+
+---
+

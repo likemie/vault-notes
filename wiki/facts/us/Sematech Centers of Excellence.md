@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -41,6 +41,7 @@ related_facts:
   - "[[Sematech]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[National Science Foundation]]"
+  - "[[Focus Center Research Program]]"
 related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
   - "[[Argument_Ramming_2025_CorporateSupport]]"
@@ -89,7 +90,7 @@ updated: 2026-10-04
 > [!dev-timeline] 项目推进历程
 > - **1988–1990 — 网络设立与首批中心布局** [[Sematech]] 成立伊始即与 [[Semiconductor Research Corporation|SRC]] 签署战略合作协议，首批在 10 余所高校设立卓越中心，重点攻克 0.5 微米制造工艺相关的光学与等离子体基础理论。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 730)]]
 > - **1991–1995 — 纵向协同深化与路线图对接** 配合 Sematech 全面转向纵向供应链设备协同，卓越中心的课题全面对接 1992 年首版《国家半导体技术路线图》（NTRS），为应用材料、拉姆研究等设备商提供先导理论模型。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 734–735)]]
-> - **1996 以后 — 融入 SRC 全球研究协作与 FRC 体系** 随着 Sematech 逐步实现联邦公共资金主动断乳，大学卓越中心网络顺畅整合进入 SRC 的长期产学资助体系，演化为后来的焦点中心研究计划（FRC）。
+> - **1996 以后 — 融入 SRC 全球研究协作与 [[Focus Center Research Program|FRC]] 体系** 随着 Sematech 逐步实现联邦公共资金主动断乳，大学卓越中心网络顺畅整合进入 SRC 的长期产学资助体系，演化为后来的焦点中心研究计划（FRC）。
 
 ---
 

@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 35
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -37,30 +37,31 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Market Failure]]"
   - "[[Long-Term Public Utility]]"
-  - "[[Basic-Applied Research Dichotomy]]"
-  - "[[Linear Model of Innovation]]"
-  - "[[Blue Skies Research]]"
+  - "[[Document]]"
   - "[[Market Shaping and Creating]]"
   - "[[Demand-side Innovation Policy]]"
   - "[[Learning Economy]]"
   - "[[Demonstration Effect]]"
+  - "[[Basic-Applied Research Dichotomy]]"
+  - "[[Linear Model of Innovation]]"
+  - "[[Blue Skies Research]]"
 related_theories:
+  - "[[Human Capital Theory]]"
   - "[[Discovery-Invention Cycle]]"
   - "[[Systems of Innovation]]"
   - "[[Organizational Culture]]"
   - "[[Pasteur's Quadrant]]"
-  - "[[Human Capital Theory]]"
-  - "[[Evolutionary Economics]]"
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Venkatesh Narayanamurti]]"
+  - "[[Jerome E. Schnee]]"
 related_facts:
   - "[[Fairchild Semiconductor]]"
   - "[[Department of Energy]]"
   - "[[1956 AT&T Consent Decree]]"
-  - "[[Science, The Endless Frontier 1945]]"
   - "[[Brookings Institution]]"
+  - "[[Science, The Endless Frontier 1945]]"
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
@@ -122,7 +123,7 @@ updated: 2026-10-04
 > - **计算科学与基础软件架构** 发明 UNIX 操作系统、C 语言与 C++ 语言；提出信息论（Information Theory）与射电天文学宇宙微波背景辐射测量（彭齐亚斯与威尔逊，1965）。
 > - **前沿材料与量子现象突破** 研制超纯半导体异质结构，直接支撑崔琦与霍斯特·斯特默于 1982 年在此测得分数量子霍尔效应与全新形态量子流体。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 35)]]
 
-> [!citation-card] 施尼论贝尔实验室衍生企业与高流动性人力资本苗圃
+> [!citation-card] [[Jerome E. Schnee|施尼]]论贝尔实验室衍生企业与高流动性[[Human Capital Theory|人力资本]]苗圃
 > 杰罗姆·E·施尼（Jerome E. Schnee, 1978）实证指出，贝尔实验室构成了战后美国半导体产业最重要的技术辐射源与创业苗圃。在反垄断监管威慑与母公司宽松许可政策下，AT&T 对核心技术骨干离职创办竞争性企业采取了高度包容的态度：从 1952 年巴卡拉尔创立 Transitron，到 1955 年肖克利创办肖克利半导体并衍生出仙童与英特尔，1952 至 1967 年间至少有 15 家独立半导体公司由贝尔实验室离职人员创立。这种跨企业人才高频流动构成了美国半导体产业技术扩散超越欧洲与传统巨头垄断的最关键制度机制。
 >
 > *Between 1952 and 1967 at least 15 independent semiconductor companies were formed whose origins can be traced directly to Bell Labs alumni... AT&T adopted an open policy toward employee departures. This talent mobility and open licensing transformed Bell Labs into the prime technological fountainhead for the US semiconductor boom.* [[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 18–19)]]
@@ -185,7 +186,7 @@ updated: 2026-10-04
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Argument_Schnee_1978_RP\|Schnee (1978)]] | 文献 | 实证考据贝尔实验室如何通过 15 家衍生企业与宽松人才离职政策催生全美半导体产业的经典研究。 |
+> | [[Argument_Schnee_1978_RP\|Schnee (1978)]] | [[Document\|文献]] | 实证考据贝尔实验室如何通过 15 家衍生企业与宽松人才离职政策催生全美半导体产业的经典研究。 |
 > | [[Human Capital Theory]] | Theory | 贝尔实验室作为高流动性工程人力资本母体与跨企业衍生网络的核心实证案例。 |
 > | [[Market Shaping and Creating]] | Concept | 贝尔实验室核心技术外溢与联邦需求侧采购共同塑造半导体与计算机新市场的机制。 |
 > | [[Demand-side Innovation Policy]] | Concept | 政府采购为贝尔实验室发明的晶体管与衍生企业产品提供首发市场托底。 |

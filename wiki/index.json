@@ -8640,6 +8640,18 @@
     ]
   },
   {
+    "title": "Technology Driver Hypothesis",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Technology Driver Hypothesis.md",
+    "aliases": [
+      "技术驱动产品假设",
+      "技术驱动器假设",
+      "技术驱动假设",
+      "技术驱动产品",
+      "Technology Driver"
+    ]
+  },
+  {
     "title": "Total Factor Productivity",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Total Factor Productivity.md",
@@ -29365,6 +29377,17 @@
     ]
   },
   {
+    "title": "Competitive Semiconductor Manufacturing Program",
+    "type": "fact",
+    "path": "wiki/facts/us/Competitive Semiconductor Manufacturing Program.md",
+    "aliases": [
+      "竞争性半导体制造项目",
+      "CSM",
+      "Berkeley CSM",
+      "CSM Program"
+    ]
+  },
+  {
     "title": "Complex Instruction Programme",
     "type": "fact",
     "path": "wiki/facts/us/Complex Instruction Programme.md",
@@ -29446,6 +29469,18 @@
     "aliases": [
       "联邦循证教育平台",
       "全美教育证据库"
+    ]
+  },
+  {
+    "title": "Focus Center Research Program",
+    "type": "fact",
+    "path": "wiki/facts/us/Focus Center Research Program.md",
+    "aliases": [
+      "焦点研究中心计划",
+      "FCRP",
+      "焦点聚焦研究中心计划",
+      "Focus Center Research",
+      "FRC"
     ]
   },
   {

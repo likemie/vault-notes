@@ -7,7 +7,7 @@ aliases:
 summary: "全面质量管理（Total Quality Management, TQM）是以全员参与、流程持续改进（CQI）、学习者导向及客观数据决策为特征的组织治理范式。由戴明与朱兰奠基，经产业联盟（如 SEMATECH）实践后，于 1990 年代广泛渗透至高等教育质量保证与学校治理变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -47,6 +47,7 @@ related_persons:
   - "[[David C. Mowery]]"
 related_facts:
   - "[[Sematech]]"
+  - "[[Competitive Semiconductor Manufacturing Program]]"
 related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
   - "[[Argument_Macher_1998_CMR]]"
@@ -186,7 +187,7 @@ updated: 2026-10-04
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Macher_1998_CMR\|Macher et al. (1998)]] | 1980–1996 年全球数十座先进商业与内部晶圆制造厂（伯克利 CSM 项目） | [[Industrial Benchmarking\|产业标杆分析]]与微观产线追踪 | 出厂每百万缺陷数（PPM）、0.7–0.9 微米 CMOS 逻辑缺陷密度、探针良率 | 1980–1992 年美国商用芯片缺陷率由 **780 PPM 压降至 <100 PPM**；0.7–0.9 微米逻辑缺陷密度降至 **~0.4 个/$\text{cm}^2$**（与日本相当）；平均探针良率追平日本同行（**60% vs 60%**） | 晶圆产线微观实测数据（原文报告） | 证实 TQM 与过程质量工程使得美国逻辑芯片制造良率全面赶上日本水平 |
+> | [[Argument_Macher_1998_CMR\|Macher et al. (1998)]] | 1980–1996 年全球数十座先进商业与内部晶圆制造厂（伯克利 [[Competitive Semiconductor Manufacturing Program\|CSM 项目]]） | [[Industrial Benchmarking\|产业标杆分析]]与微观产线追踪 | 出厂每百万缺陷数（PPM）、0.7–0.9 微米 CMOS 逻辑缺陷密度、探针良率 | 1980–1992 年美国商用芯片缺陷率由 **780 PPM 压降至 <100 PPM**；0.7–0.9 微米逻辑缺陷密度降至 **~0.4 个/$\text{cm}^2$**（与日本相当）；平均探针良率追平日本同行（**60% vs 60%**） | 晶圆产线微观实测数据（原文报告） | 证实 TQM 与过程质量工程使得美国逻辑芯片制造良率全面赶上日本水平 |
 > | [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] | 1988–1992 年 [[Sematech]] 赞助的 100 余家半导体中小设备与材料供应商 | [[Industry Affiliate Program\|产业联盟]]纵向追踪调查 | PFTQ 培训参与率、质量控制体系建立比例、协同交付效率 | 联盟每年投入 500 万至 1000 万美元开展 TQM/[[Statistical Process Control\|SPC]] 培训，超 90% 合作供应商高管与工程人员完成认证，协同开发周期缩短 30% 以上 | 产业联盟官方评估与多案例质性追踪 | 强调[[Organizational Culture\|组织文化]]与能力建设的协同作用，不能孤立分离单一培训课程的效果 |
 
 ---
@@ -195,4 +196,4 @@ updated: 2026-10-04
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 论述 [[Sematech]] 如何通过系统性推广 TQM 和 [[Statistical Process Control|SPC]]，提升半导体设备供应链的质量控制能力与组织韧性。
-> - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 结合伯克利 CSM 标杆项目，论述美国半导体制造企业如何依托 TQM、TPM 与跨专业工程改进，在先进逻辑制程中消除美日良率差距。
+> - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 结合伯克利 [[Competitive Semiconductor Manufacturing Program|CSM]] 标杆项目，论述美国半导体制造企业如何依托 TQM、TPM 与跨专业工程改进，在先进逻辑制程中消除美日良率差距。

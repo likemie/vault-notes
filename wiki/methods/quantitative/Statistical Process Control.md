@@ -8,7 +8,7 @@ summary: "统计过程控制（Statistical Process Control, SPC）是由休哈�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
+method_related_count: 25
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -45,6 +45,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Department of Energy]]"
+  - "[[Competitive Semiconductor Manufacturing Program]]"
   - "[[Sematech]]"
 related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
@@ -186,7 +187,7 @@ updated: 2026-10-04
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Macher_1998_CMR\|Macher et al. (1998)]] | 1980–1996 年全球数十座先进商业与内部晶圆制造厂（伯克利 CSM 项目） | [[Industrial Benchmarking\|产业标杆分析]]与产线微观追踪 | 出厂每百万缺陷数（PPM）、0.7–0.9 微米 CMOS 逻辑缺陷密度、晶圆探针良率 | 1980–1992 年美国商用半导体缺陷率由 **780 PPM 压降至 <100 PPM**；0.7–0.9 微米逻辑缺陷密度由 1990 年的 **1.3 个/$\text{cm}^2$ 降至与日本相当（~0.4）**；逻辑制程平均探针良率追平日本（**60% vs 60%**） | 微观晶圆产线归一化实测数据（原文报告） | 证实全面推行 SPC 与过程控制使逻辑制程制造能力追平日本，推翻 DRAM 是尖端制造唯一驱动器的假设 |
+> | [[Argument_Macher_1998_CMR\|Macher et al. (1998)]] | 1980–1996 年全球数十座先进商业与内部晶圆制造厂（伯克利 [[Competitive Semiconductor Manufacturing Program\|CSM 项目]]） | [[Industrial Benchmarking\|产业标杆分析]]与产线微观追踪 | 出厂每百万缺陷数（PPM）、0.7–0.9 微米 CMOS 逻辑缺陷密度、晶圆探针良率 | 1980–1992 年美国商用半导体缺陷率由 **780 PPM 压降至 <100 PPM**；0.7–0.9 微米逻辑缺陷密度由 1990 年的 **1.3 个/$\text{cm}^2$ 降至与日本相当（~0.4）**；逻辑制程平均探针良率追平日本（**60% vs 60%**） | 微观晶圆产线归一化实测数据（原文报告） | 证实全面推行 SPC 与过程控制使逻辑制程制造能力追平日本，推翻 DRAM 是尖端制造唯一驱动器的假设 |
 > | [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] | 1988–1992 年 [[Sematech]] 联盟资助的 100 余家上游制造装备与材料供应商 | 联盟项目评估与纵向追踪 | SPC/[[Total Quality Management\|TQM]] 培训完成率、在役设备平均无故障工作时间（MTBF） | 联盟资助 **90%+** 合作供应商完成 SPC 质量体系培训，关键工艺设备 MTBF **提升数倍**，美日装备全球市场份额逆转为 **51% vs 41%** | 描述性统计与产业追踪档案（原文报告） | 揭示将 SPC 推广至设备供应链是提升系统级在役[[Reliability\|可靠性]]的关键抓手 |
 
 ---
@@ -209,4 +210,4 @@ updated: 2026-10-04
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 详述 [[Sematech]] 推动半导体制造全产业链采用 SPC 工具进行设备中试验证与[[Reliability|可靠性]]（MTBF）提升。
-> - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 借助加州大学伯克利分校 CSM 项目微观标杆数据，实证论证美企通过 SPC 与 [[Total Quality Management|TQM]] 将缺陷率压降至 100 PPM 以下并在先进逻辑制程中实现良率追赶。
+> - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 借助加州大学伯克利分校 [[Competitive Semiconductor Manufacturing Program|CSM]] 项目微观标杆数据，实证论证美企通过 SPC 与 [[Total Quality Management|TQM]] 将缺陷率压降至 100 PPM 以下并在先进逻辑制程中实现良率追赶。
