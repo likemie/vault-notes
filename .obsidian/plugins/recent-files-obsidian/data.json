@@ -5,6 +5,30 @@
       "path": "wiki/arguments/journal-articles/Journal of Economic Perspectives/Argument_Bown_2024_JEP.md"
     },
     {
+      "basename": "Sino-American Trade War",
+      "path": "wiki/facts/multi/Sino-American Trade War.md"
+    },
+    {
+      "basename": "Argument_Helgetun_2022_JEP",
+      "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Helgetun_2022_JEP.md"
+    },
+    {
+      "basename": "Generative Artificial Intelligence",
+      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
+    },
+    {
+      "basename": "Knowledge Exchange",
+      "path": "wiki/concepts/university-industry-collaboration/Knowledge Exchange.md"
+    },
+    {
+      "basename": "October 2022 US Semiconductor Export Controls",
+      "path": "wiki/facts/us/October 2022 US Semiconductor Export Controls.md"
+    },
+    {
+      "basename": "China Integrated Circuit Industry Investment Fund",
+      "path": "wiki/facts/china/China Integrated Circuit Industry Investment Fund.md"
+    },
+    {
       "basename": "Fair Market Value",
       "path": "wiki/concepts/university-industry-collaboration/Fair Market Value.md"
     },
@@ -35,10 +59,6 @@
     {
       "basename": "European Chips Act",
       "path": "wiki/facts/eu/European Chips Act.md"
-    },
-    {
-      "basename": "Argument_Helgetun_2022_JEP",
-      "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Helgetun_2022_JEP.md"
     },
     {
       "basename": "CHIPS and Science Act",
@@ -179,26 +199,6 @@
     {
       "basename": "Case Study",
       "path": "wiki/methods/qualitative/Case Study.md"
-    },
-    {
-      "basename": "Structural Holes",
-      "path": "wiki/concepts/sociology-of-education/Structural Holes.md"
-    },
-    {
-      "basename": "Boundary Spanner",
-      "path": "wiki/concepts/university-industry-collaboration/Boundary Spanner.md"
-    },
-    {
-      "basename": "Embedded Network Governance",
-      "path": "wiki/concepts/political-economy-geopolitics/Embedded Network Governance.md"
-    },
-    {
-      "basename": "Erica Fuchs",
-      "path": "wiki/persons/us/Erica Fuchs.md"
-    },
-    {
-      "basename": "Organizational Culture",
-      "path": "wiki/theories/sociology-of-education/Organizational Culture.md"
     }
   ],
   "omittedPaths": [],

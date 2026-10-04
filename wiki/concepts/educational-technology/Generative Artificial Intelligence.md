@@ -9,7 +9,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介技术，在教育中重构人机知识确证分工；其促学成效取决于教学脚手架、评价性判断的自主维系与生产性认识论摩擦。"
 type: concept
 domain: "educational-technology"
-related_count: 108
+related_count: 109
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -84,6 +84,7 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Divergent Thinking]]"
   - "[[Defeater]]"
+  - "[[Modern Industrial Policy]]"
   - "[[Technology Infusion]]"
   - "[[Literature Search]]"
   - "[[Incommensurability]]"
@@ -94,6 +95,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Growth]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Affective Outcomes]]"
 related_theories:
   - "[[Formative Epistemic Injustice]]"
@@ -123,6 +125,7 @@ related_persons:
   - "[[Chin-Chung Tsai]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
+  - "[[CHIPS and Science Act]]"
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Liu_2026_CHBR]]"
@@ -135,10 +138,11 @@ related_arguments:
   - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Naeem_2026_Episteme]]"
   - "[[Argument_Zhao_2025_JIntell]]"
+  - "[[Argument_Bown_2024_JEP]]"
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # Generative Artificial Intelligence
@@ -377,6 +381,7 @@ updated: 2026-10-03
 > - **2024–2025 — 课堂实证爆发与机制解构** 实证研究呈现指数级增长，研究者通过量化实验与质性追踪揭示出生成式 AI 促成[[Divergent Thinking\|发散思维]]爆发的同时可能诱发严重的[[Cognitive Offloading\|认知卸载]]与文风均质化（[[Argument_Liu_2026_CHBR\|Liu et al., 2026]]; Deng et al., 2024）。
 > - **2025 — [[Higher-Order Thinking Skills\|高阶思维]]、生态机制与人机共生[[Epistemology\|认识论]]确证** [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] [[Meta-analysis\|元分析]] 29 项实证研究（59 个[[Effect Size\|效应量]]），确立生成式 AI 促进高阶思维发展的总体效应基准（$g = 0.609$），揭示子维度级差及干预周期倒 U 型规律与自主调节能力门槛；[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 引入 [[What Works Clearinghouse\|WWC]] 基线等效门槛（$d < 0.25$）开展 57 项高校实验元分析，确立产出梯度并证实低 ICT 与高权力距离情境下的宏观边际效益递增；[[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出人机共生学习伙伴关系模型，系统阐述绝对主义、相对主义与评价主义三大认识立场，构建技术提示支架（角色扮演、思维链）与教学法支架的协同干预矩阵。
 > - **2026 — 教学活动系统全面重构与社会[[Epistemology|认识论]]转向** [[Argument_Li_2026_CEAI|Li et al. (2026)]] 提出批判性与[[Creativity|创造性思维]]双重视角整合框架与六大教学干预规制；[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] 正式将 AI 素养确立为面向未来社会的国家级核心课程基础设施；[[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] 开启生成式 AI 的社会认识论转向，系统提出协助形态三层分类与四重社会技术中介路径，确立知识确证分工重构下维系关系性[[Epistemic Agency|认识主体性]]与[[Evaluative Judgement|评价性判断]]的理论纲领；[[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez (2026)]] 实证揭示初中生如何运用学科显性评价标准在人机多模态解释共建中实施微观认识论审问与提示词迭代；[[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 提出“反思机器”（Reflection Machines）规范架构，论证生成式 AI 作为对抗性质询[[AI Agent in Education|智能体]]主动引入[[Counterfactual|反事实]]异见与反驳论据（[[Defeater|Defeaters]]），在安全关键决策中打破[[Automation Bias|自动化偏见]]与认识论延宕，实现兼顾审议效率与有意义人类控制的认知安全防护；[[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 提出 Q-Tutor [[Socrates|苏格拉底]]式智能体交互规范，通过直接答案拦截规则、封闭向开放问题递进及反事实探究支架，为规避[[Cognitive Deskilling|认知去技能化]]与培育[[Epistemic Virtues and Vices|理智美德]]提供系统化解决方案；[[Argument_Smith_2026_SPE\|Smith (2026)]] 破除将生成式 AI 类比为计算器的工具主义辩护，确立其在读写教育中代行全流程的私厨隐喻，揭示算法代写构思、提纲与修改对认知者造成的成长性认识侵害，并构建基于[[Alien Intelligence|异己智能]]审问与思维步骤全外显（Showing Steps）的教育防御方案。
+> - **2024–2026 — 宏观产业底座与地缘算力基石确立** [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] 指出，生成式 AI 的大爆发构成了 2020 年代全球半导体需求处于历史最高峰的核心宏观驱动力，但对尖端算力集群的极度依赖使其成为大国战略博弈与出口管制的核心标的，反向约束着生成式技术的地缘扩散路径与硬件成本结构。
 
 ---
 
@@ -423,6 +428,7 @@ updated: 2026-10-03
 > - **算法偏见与文化均质化风险** 大模型训练数据主要来自英语世界与主流互联网语料，可能系统性边缘化全球南方及非主流文化视角，并在语言润色中抹杀独特的个体学术声音。[[Argument_Li_2026_CEAI\|(Monib et al., 2025; Li et al., 2026, p. 8)]]
 > - **数字鸿沟与认知不平等加剧** 具备高水平 AI 素养与高级付费模型访问权的学生能够获得强大的认知杠杆，而缺乏指导的弱势群体更容易陷入低水平被动盲从，拉大教育差距。实证研究亦揭示出反直觉的补偿机制：在高等教育中，数字化薄弱与低收入地区反而表现出显著更强的边际促学收益（$g^+ = 1.764$ vs $0.501$），表明[[Technology Infusion\|技术整合]]若辅以普惠政策，能有效充当打破教育资源垄断的平衡杠杆。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 18)]]
 > - **商业平台采购锁定与成长受限型[[Epistemic Injustice\|认识不公]]** 大学对主流商业闭源生成式平台的系统性采购，不仅造成对特定私营技术堆栈的制度化锁定，更在无形中将缺乏替代性数字资源的学生推向算法主导的[[Knowledge Production\|知识生成]]流水线，剥夺其经历独立挫折与认识突破的成长机会，构成结构性的认知发展限制。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 5–7)]]
+> - **底层先进制程算力供应链脆弱性与地缘排他性** Bown 与 Wang（2024）指出，支持生成式人工智能模型训练与推理的尖端图形处理器（GPU）与高带宽内存（HBM）制造高度集中于东亚单一地缘热点（台积电控制全球 90% 以上先进制程产能）；在地缘政治博弈与出口管制割裂下，全球算力基础设施面临严重的供应链单点脆弱性与战略断链风险。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 88–92, 98–101)]]
 
 > [!warning] 适用局限与实施边界
 > - **无法替代具身情境与实践经验** 实验室动手操作、真实[[Fieldwork\|田野调查]]、面对面同伴共情与人际伦理协商等核心教育体验，均无法被纯文本/多模态生成式算法替代。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 32–34)]]
@@ -467,6 +473,24 @@ updated: 2026-10-03
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 32)]] | 英国中小学与高等教育衔接调研 | 政策报告与实证证据综合 | 实践探究与数智技能培养危机 | 超过 50% 教师报告探究课时受压缩；数智素养与科学实验动手需求呈结构性矛盾 | — | 宏观系统调研，论证 AI 时代保护实践探究课时的战略必要性 |
 > | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026, pp. 3–5)]] | 高等教育生成式 AI 整合实证文献与理论批判 | 概念辨析与社会[[Epistemology\|认识论]]批判分析 | [[Epistemic Dependence\|认识依赖]]协助形态分层与中介路径 | 工具型、承载型与承载判断型三层协助；四重社会技术中介路径（流畅权威性、无摩擦委托、不透明综合、制度化依赖） | — | 定性概念与认识论框架，揭示[[Evaluative Judgement\|评价性判断]]外包的非行为频次依赖风险 |
 > | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节人机协同科学课（植物[[Growth\|生长]]与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像转录、数字生成物、访谈） | 学科评价标准赋能下的认识论审问与提示词重构 | 证实四项[[Scientific Explanation\|科学解释]]标准（相关性、因果叙事、概念框架、适切表征）能有效引导中学生识别 AI 输出的事实遗漏、机制断裂与图解缺陷，并驱动精准的提示词迭代 | 质性微观[[Dialogue in Education\|对话]]与多模态制品分析 | 确立显性学科标准在 K-12 人机多模态知识共建中作为维持[[Epistemological Vigilance\|认识论警觉]]与[[Epistemic Agency\|认识主体性]]的核心脚手架功能 |
+> | [[Argument_Bown_2024_JEP\|Bown & Wang (2024, pp. 101–103)]] | 全球半导体供应链与先进制程计算芯片市场（2020–2024） | 产业组织实证与供应链分解 | 生成式 AI 对半导体需求的拉动及地缘出口管制影响 | 生成式 AI 爆发推高尖端芯片需求历史峰值，促成 2022 年美国全面切断中国先进算力硬件获取渠道 | — | 确立生成式 AI 作为全球半导体产业政策与大国技术竞争核心驱动力的宏观地位 |
+
+---
+
+---
+
+## 条目关联网络
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Modern Industrial Policy]] | Concept | 生成式 AI 对先进算力芯片的爆发式需求，成为推动美欧出台[[CHIPS and Science Act\|芯片法案]]与出口管制的关键宏观推手。 |
+> | [[Epistemic Friction]] | Concept | 维持生产性认识论摩擦以抵抗生成式模型流畅顺滑输出引发的心智外包与[[Cognitive Offloading\|认知卸载]]。 |
+> | [[Evaluative Judgement]] | Concept | 生成式人机协同中的核心人类认识能力，防范高风险评价性判断被算法置换。 |
+> | [[AI Literacy]] | Concept | 数智时代学习者审视、引导与核验生成式 AI 系统能力边界的[[21st Century Skills and Competencies Discourse\|核心素养]]基准。 |
+> | [[General Purpose Technology]] | Concept | 生成式人工智能作为通用目的技术对教育、科研与经济生产力系统的全方位渗透与重构。 |
+> | [[Cognitive Offloading]] | Concept | 学习者在非结构化使用生成式工具时将深度思考外包给模型的负向认知机制。 |
 
 ---
 
