@@ -45,6 +45,8 @@ related_concepts:
   - "[[Basic-Applied Research Dichotomy]]"
   - "[[Linear Model of Innovation]]"
   - "[[Blue Skies Research]]"
+  - "[[Vertical Disintegration]]"
+  - "[[Modern Industrial Policy]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Discovery-Invention Cycle]]"
@@ -68,6 +70,7 @@ related_arguments:
   - "[[Argument_Mowery_2011_NBER]]"
   - "[[Argument_Schnee_1978_RP]]"
   - "[[Argument_Macher_1998_CMR]]"
+  - "[[Argument_Bown_2024_JEP]]"
 confidence: high
 status: active
 created: 2026-10-02
