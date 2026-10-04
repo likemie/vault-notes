@@ -8,7 +8,7 @@ aliases:
 summary: "一种将学习和认知视为特定社会、文化与物理环境中持续进行的参与实践（participation in social practices），而非个体头脑内部脱域知识存储的理论范式。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 22
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -19,52 +19,72 @@ related_stars: "☆"
 related_color: "#e5e7eb"
 tags: []
 related_concepts:
-  - "[[Paradigm]]"
-  - "[[Constructivist Paradigm]]"
-  - "[[Praxis]]"
-  - "[[Epistemology]]"
-  - "[[Epistemic Climate]]"
-  - "[[Epistemic Cognition]]"
-  - "[[Epistemic Stances]]"
   - "[[Ontology]]"
-  - "[[Rote Learning]]"
-  - "[[Paradigm Wars]]"
+  - "[[Paradigm]]"
+  - "[[Cognitive Apprenticeship]]"
+  - "[[Anchored Instruction]]"
+  - "[[Epistemic Cognition]]"
+  - "[[Research Universities]]"
+  - "[[Epistemic Climate]]"
+  - "[[Evidence Standards]]"
+  - "[[Research Proposal]]"
+  - "[[Constructivist Paradigm]]"
   - "[[Commensuration]]"
-  - "[[Epistemic Commitments]]"
+  - "[[Presence]]"
 related_theories:
   - "[[Cognitive Constructivism]]"
+  - "[[Third Generation Activity Theory]]"
   - "[[Integrative Pluralism]]"
 related_methods:
-  - "[[Questionnaire]]"
-  - "[[Ethnography]]"
-  - "[[Discourse Analysis]]"
-  - "[[Coding in Qualitative Research]]"
-  - "[[Mixed Methods Research]]"
+  - "[[Fieldwork]]"
+  - "[[Analytic Framework]]"
   - "[[Correlational Research]]"
+  - "[[Mixed Methods Research]]"
 related_instruments: []
 related_persons:
   - "[[Lev Vygotsky]]"
-related_facts: []
+related_facts:
+  - "[[CHIPS and Science Act]]"
 related_arguments:
   - "[[Argument_Sandoval_2016_RRE]]"
+  - "[[Argument_Murphy_2026_JTS]]"
 confidence: high
 status: draft
 created: 2026-08-19
-updated: 2026-09-22
+updated: 2026-10-05
 ---
 
 # Situative Perspective
 
 ---
 
-## 理论定义与提出背景
+## 理论定位
 
-> [!def] 核心定义
-> 情境主义（Situative Perspective / Situativity Theory）是学习科学与教育心理学中的一大核心理论[[Paradigm\|范式]]。深受 [[Lev Vygotsky]] 的社会文化理论影响，它主张知识并非脱离语境的抽象命题（decontextualized propositions），认知也绝非被孤立锁在个体头脑内部的信息加工过程。相反，认知是一种分布式的文化产物，是特定共同体为了解决具体问题而展开的“社会实践（social practices）”。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
+> [!theory-position] 理论定位
+> - **解释对象** 学习与认知在特定社会、文化、人际网络与物理情境中的具身参与实践（Participation in Social Practices）。
+> - **理论问题** 克服传统认知心理学（如信息加工理论）与狭隘[[Cognitive Constructivism|个体建构主义]]将“人与环境分离”的脱域（decontextualized）缺陷，纠正将知识视为大脑孤立记忆存储的机械还原论。
+> - **理论类型** 关系[[Ontology|本体论]][[Paradigm|范式]]与社会文化学习科学理论。
+> - **知识位置** 植根于[[Lev Vygotsky|维果茨基]]社会文化历史学派，与情境学习（Situated Learning）、实践共同体（Communities of Practice）、分布式认知（Distributed Cognition）及[[Third Generation Activity Theory|活动理论]]（Activity Theory）同属一个理论家族。代表人物包括 James Greeno, Jean Lave, Etienne Wenger 等。
 
-> [!concept-lens] 理论溯源
-> - **理论问题** 它旨在克服传统认知心理学（如信息加工理论）和早期个体[[Constructivist Paradigm\|建构主义]]将“人与环境剥离”的脱域（decontextualized）缺陷。
-> - **知识位置** 广泛存在于学习科学（Learning Sciences）、人类学与社会学交汇处。与“情境学习（Situated Learning）”、“实践共同体（Communities of Practice）”及“分布式认知（Distributed Cognition）”等概念同属一个理论家族。代表人物包括 James Greeno, Jean Lave, Etienne Wenger 等。
+> [!claim] 核心判断
+> 情境主义（Situative Perspective / Situativity Theory）主张知识并非脱离语境的抽象命题，认知也绝非孤立锁在个体头脑内部的信息加工过程；相反，认知是一种分布式、具身化的社会文化实践，学习的本质是个体作为合法边缘参与者（Legitimate Peripheral Participation）逐步融入实践共同体文化规范、言语工具与核心攻关网络的社会化进程。在面向国家重大科技任务的跨学科组织中，情境学习解释了不同背景学者如何通过小群研讨打破学术孤岛，逐步向核心半导体攻关网络过渡。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]; [[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–3, 6)]]
+
+---
+
+## 理论来源与形成
+
+> [!theory-origin] 提出者如何形成理论
+> - **提出者与原始文本** 让·莱夫（Jean Lave）与艾蒂安·温格（Etienne Wenger）在 1991 年经典著作 *Situated Learning: Legitimate Peripheral Participation* 中正式确立情境学习模型，温格随后在 1998 年 *Communities of Practice* 中予以系统化。
+> - **原初问题** 传统学校教学常出现严重的知行脱节——学生在课堂上能背诵抽象定义，进入真实工作场所却无法解决复杂问题；人类学[[Fieldwork|田野调查]]揭示出学徒在行会中无需抽象讲授即可掌握高超手艺的谜题。
+> - **理论资源与材料** 汲取非洲裁缝学徒、尤卡坦助产士、海军舵手等真实文化学徒制的人类学实地观察，以及[[Lev Vygotsky|维果茨基]]关于社会中介与文化工具的论述。
+> - **形成路径** 从对传统课堂“去脉络化”教学的反思，提炼出“实践共同体（CoP）”、“合法边缘性参与（LPP）”与“身份认同建构（Identity Formation）”等核心概念。
+
+### 后续修订与扩展
+
+> [!dev-timeline] 理论演进与应用拓展
+> - **1990s — 情境认知革命与分布式认知交融** Greeno、Collins 等学习科学家将情境观引入教育设计，推动[[Cognitive Apprenticeship|认知学徒制]]（Cognitive Apprenticeship）与[[Anchored Instruction|锚定教学]]（Anchored Instruction）兴起。
+> - **2010s — [[Epistemic Cognition|认识论认知]]的情境转向** Sandoval 等学者指出，认识论认知（Epistemic Cognition）并非抽象信念，而是特定共同体在话语互动中动态协商“什么样的证据才算数”的社会实践。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
+> - **2020s — 高等教育国家战略科研团队孵化** [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] 将情境主义理论引入高水平[[Research Universities|研究型大学]]应对《[[CHIPS and Science Act|芯片与科学法案]]》的学者专业发展中，解释传统工程教师如何通过结构化小组研讨以合法边缘性参与形式进入半导体前沿网络，在面对面交互中建立学术互信并形成持久的跨学科实践共同体。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–3, 6)]]
 
 ---
 
@@ -74,50 +94,47 @@ updated: 2026-09-22
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | 社会[[Praxis\|实践]]（Social Practices） | 概念 | 将认知重新定义为一种在特定文化规则下“做事”的过程，而非“拥有”某种静态信念。 |
-> | 参与（Participation） | 概念 | 替代传统的“学习（learning）”概念，强调个体从共同体的边缘不断向核心文化规范靠拢的社会化过程。 |
-> | 分布（Distributed） | 概念 | 强调智慧并不单独存在于某一个人的大脑中，而是分布在人、工具、同伴与制度环境中。 |
+> | 实践共同体（Community of Practice, CoP） | 概念 | 围绕共同事业、共享实践资源与相互参与而聚集的社会化协作网络。 |
+> | 合法边缘性参与（Legitimate Peripheral Participation, LPP） | 机制 | 新手或跨领域探索者从外围观察、倾听与初级任务切入，逐步向共同体核心攻关层级过渡的参与机制。[[Argument_Murphy_2026_JTS\|(Murphy Jr. et al., 2026, p. 6)]] |
+> | 分布式认知（Distributed Cognition） | 机制 | 智慧不单独驻留在个人大脑内部，而是分布在行动者、物理工具、文化符号与人际协作结构中。 |
+> | [[Epistemic Climate\|认识论氛围]]（Epistemic Climate） | 环境构件 | 共同体内部共享的关于知识正当性、论证严谨性与[[Evidence Standards\|证据标准]]的社会文化氛围。 |
+> | 面对面深度交往（Face-to-Face Engagement） | 交互构件 | 建立学术互信、沉浸感与非正式社会连接的核心物理纽带。[[Argument_Murphy_2026_JTS\|(Murphy Jr. et al., 2026, pp. 5–6)]] |
 
 ---
 
-## 核心命题与机制
+## 核心命题
 
-> [!proposition-chain] 核心命题一｜认知不可剥离于其发生的物理与社会文化情境。
-> - **前提一** 个体的思维方式是被其所处的工具（如语言、计算器）和互动模式（如课堂提问规则）深刻塑造的。
-> - **推导** 因此，试图通过脱离具体任务的标准化[[Questionnaire\|问卷]]来测量学生的“普遍认知水平”或“稳定信念阶段”是荒谬的。一旦脱离了特定的任务目标与社会协商网络，所测得的数据往往只是受试者的“理想化套话”，无法反映其真实能力。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
+> [!theory-proposition] 命题一｜认知不可剥离于其发生的物理与社会文化情境
+> **解释** 个体的思维方式是被其所处的物质中介（如实验仪器、数字仿真）、文化符号（如专业话语）和互动结构（如研讨规则）深刻塑造的。脱离具体任务目标与共同体交往网络的标准化纸笔测量，无法反映主体在真实生态中的能力。学习的核心不是“获取静态知识”，而是“改变参与社会实践的方式”。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
+>
+> **应用实例** 在高校半导体跨学科工作坊中，若脱离国家法案与产业真实痛点进行纯理论讲授，教师参与度极低；将学者置于“应对 140 万人才短缺与百亿美元产业投资”的真实战略情境中，依托分组圆桌与产业对话，跨学科研讨与学术动员才真正被激活。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–5)]]
 
-> [!proposition-chain] 核心命题二｜[[Epistemology\|认识论]]认知是个体对集体[[Epistemic Climate\|认识论氛围]]的适应。
-> - **前提一** 在情境主义视角下，[[Epistemic Cognition\|认识论认知]]（Epistemic Cognition）不再是个体头脑里关于“知识是什么”的抽象哲学思考。
-> - **推导** 它是学生在小组合作或科学探究中，通过话语流与他人动态协商“什么样的证据在这里才算数”的社会实践。因此，宏观的认识论氛围（Epistemic Climate）结构性地决定了个体层面的认知调用。
-
-> [!mechanism-map]- 情境认知生成机制
-> ```mermaid
-> flowchart LR
->   A["社会文化环境与工具"] --> B["共同体的隐性规范"]
->   B --> C["具体任务与社会互动"]
->   C --> D["个体的具体认知实践（Cognition in Practice）"]
-> ```
+> [!theory-proposition] 命题二｜实践共同体依托合法边缘性参与实现跨领域拓展与网络凝聚
+> **解释** 复杂的专业共同体并非封闭的精英孤岛，而是具备多层级梯度的开放生态。初涉新领域的外部学者无需立即承担核心研发任务，而是通过作为观察者、倾听者或参与初级研讨（即合法边缘性参与）逐步沉浸，在面对面互动与互补合作中逐步建立自信心与学术互信，最终向核心攻关圈层过渡。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, p. 6)]]
+>
+> **应用实例** [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] 发现，单次培训难以沉淀科研生产力，而三期逐级扩圈的工作坊成功开辟了一个合法边缘性参与空间，使原本从事基础物理或计算机算法的学者能够通过小组研讨切入半导体重大专项，参与学者申报国家项目的就绪度从校内 50% 跃升并稳定在 80%。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 5–6)]]
 
 ---
 
-## 理论立场与使用方式
+## 转化为分析框架
 
-> [!theory-stance] [[Epistemic Stances\|认识论立场]]
-> - **[[Ontology\|本体论]]** 秉持关系本体论（Relational Ontology）。主体与环境是不可分割的统一体（mutually constitutive）。
-> - **[[Epistemology\|认识论]]** “知（Knowing）”就是“行（Doing）”。知识不仅是被表征的，更是被 enacted（展演/实施）的。
-> - **方法含义** 强烈排斥脱离情境的纸笔测试或实验室临床访谈，主张必须将研究对象放归自然活动（如真实的科学课堂），使用[[Ethnography\|民族志]]或[[Discourse Analysis\|话语分析]]等非侵入式观察。
-
-> [!theory-use] 如何用于研究
-> - **作为批判视角** 常被用来批判那些脱离学生生活实际的“标准化测试”或“[[Rote Learning\|死记硬背]]”的教学设计，指出这些设计之所以失败，是因为它们没有提供让学生进行有意义“社会实践”的真实情境。
-> - **作为分析工具** 在分析课堂录像时，研究者不问“这个学生脑子里在想什么”，而是问“这个学生当下正在顺应什么社会规则，使用了什么文化工具，试图向同伴证明什么”。
+> [!theory-framework] 情境主义[[Analytic Framework|分析框架]]
+>
+> | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
+> |:---------|:---------------|:-----------------|:-----------------|
+> | 合法边缘性参与命题 | 参与路径与轨迹演进：新手/跨学科学者如何从边缘向核心过渡？ | 历次活动参会记录、小组研讨发言频次、角色演化（倾听者 $\to$ 讨论召集人） | 承担实质性联合[[Research Proposal\|课题申报]]表明完成从边缘向核心过渡；需注意不能仅凭出勤率推断参与深度 |
+> | 共同体认同与学术信任 | 实践共同体凝聚度：不同背景行动者之间是否形成学术互信？ | 合作网络密度、质性调查对协作体验的正面评价比例、非正式研讨意愿 | 线下实体互动正面评价显著高于线上混合模式支持物理在场对信任生成的关键作用 |
+> | 认知情境中介构件 | 工具中介与情境支架：哪些真实物理与组织载体支撑了知识协商？ | 结构化议题预选单、海报展示、产业前瞻圆桌论坛实录 | 借助实体展板与真实产业难题形成实质对话，判定为有效情境中介 |
 
 ---
 
-## 适用边界
+## 局限性与适用边界
 
-> [!theory-boundary] 适用边界
-> - **适合解释** 复杂的小组互动、课堂话语流、学徒制学习、以及在真实工作场所中的知识创新。
-> - **谨慎使用** 如果研究目标纯粹是为了考察个体大脑内部的神经元放电或极短时间内的信息[[Coding in Qualitative Research\|编码]]提取，该视角的解释力弱于认知心理学。
+> [!theory-boundary] 局限性与适用边界
+> - **适合分析** 真实工作场所学习、跨学科团队协作、学术共同体演进、课堂小组话语互动及学徒制培养。
+> - **成立条件** 必须具备真实的实践共同体土壤、充裕的面对面深度交互时间，以及容纳边缘参与者的包容性组织制度。
+> - **解释不足** 对个体大脑内部短时间内高度自动化的符号逻辑推导、孤立记忆提取等纯认知加工过程解释力较弱。
+> - **不能直接推出** 不能单纯依赖外部言语互动直接推断个体内心真实的认知信念；学生或学者有时可能为了顺应现场社交规则而产生合规言论（推论危机）。
 
 ---
 
@@ -125,18 +142,20 @@ updated: 2026-09-22
 
 > [!debates] 理论争议
 >
-> > [!axis] [[Ontology\|本体论]]断裂：情境主义 vs 个体[[Constructivist Paradigm\|建构主义]]
-> > 这是学习科学中最旷日持久的“[[Paradigm Wars\|范式战争]]”。
+> > [!axis] [[Ontology|本体论]]断裂：情境主义 vs 个体[[Cognitive Constructivism|认知建构主义]]
+> > 争论认知究其本质是驻留在个体头脑中的内部表征，还是根植于物理与社会情境脉络中的参与活动。
 > >
-> > - **[[Cognitive Constructivism\|个体建构主义]]（Cognitive Constructivism）** 聚焦个体头脑内部知识结构的同化与顺应，认为环境只是刺激。
-> > - **情境主义（Situative Perspective）** 认为个体建构派彻底搞错了本体论，把“社会实践”错误地还原成了“脑内[[Coding in Qualitative Research\|编码]]”。Packer & Goicoechea (2000) 认为这两者是不可[[Commensuration\|通约]]的（incommensurate）。
+> > - **个体[[Constructivist Paradigm|建构主义]]（Cognitive Constructivism）** 聚焦个体头脑内部知识结构的同化与顺应，认为环境只是外部刺激。
+> > - **情境主义（Situative Perspective）** 认为个体建构派犯了脱域错误，把“社会实践”狭隘还原为“脑内加工”。Packer & Goicoechea (2000) 曾断言两者不可[[Commensuration|通约]]。
+> > - **现代学习科学整合** 倾向于将两者互补：情境学习提供了共同体演进与合法边缘性参与模型，而认知建构则阐明了个体在社会参与中如何打破盲区、更新认知图式。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]; [[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–3)]]
 
-> [!warning] 方法论的推论危机（Inference Problem）
-> 尽管情境派崇尚自然观察和[[Discourse Analysis\|话语分析]]，但它面临着致命的推论难题：研究者仅靠观察学生外部的行为流和对话，很难准确无误地推断出学生内心深层到底在运转何种隐蔽的认知承诺（[[Epistemic Commitments]]）。因为有时学生说出某句话仅仅是为了“应付老师”，而非真的相信。为了解决这个危机，当代理论正走向[[Integrative Pluralism\|整合的多元主义]]与[[Mixed Methods Research\|混合方法]]。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 467)]]
+> [!warning] 混合模态下的情境沉浸稀释危机
+> 在当代大规模学术交流中，线上与混合交付模式（Hybrid Mode）虽然扩展了覆盖广度，但由于物理[[Presence|在场感]]的丧失与交互延迟，导致线上参会者面临边缘化与沉浸感弱化的问题，难以复制面对面情境中生成的深层人际互信与有机社交。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 5–7)]]
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] — 系统梳理了情境主义与[[Constructivist Paradigm\|建构主义]]在[[Epistemic Cognition\|认识论认知]]领域的[[Ontology\|本体论]]与方法论断层，并提出必须通过[[Integrative Pluralism\|整合多元主义]]来同时利用两者的优势。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 系统梳理情境主义与[[Constructivist Paradigm|建构主义]]在[[Epistemic Cognition|认识论认知]]领域的[[Ontology|本体论]]与方法论断层，主张走向[[Integrative Pluralism|整合多元主义]]与[[Mixed Methods Research|混合方法]]。
+> - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 以高校应对《[[CHIPS and Science Act|芯片与科学法案]]》的半导体工作坊为案例，实证检验情境学习理论与合法边缘性参与机制在孵化跨学科战略科研实践共同体中的关键效用，并揭示线下面对面交流相比混合模式在建立学术信任上的不可替代性（pp. 2–3, 6）。

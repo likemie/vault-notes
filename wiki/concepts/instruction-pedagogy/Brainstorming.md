@@ -8,7 +8,7 @@ aliases:
 summary: "由亚历克斯·奥斯本提出的经典发散构思与群体创造力技法，以“延迟评判、以量求质、自由畅想、搭便车改进”四大原则为基石。当代群体动力学研究揭示了面对面口头互动中的生产阻塞与评价顾虑，推动了书面脑力激荡与个体-群体混合模式的发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
   - "[[Scaffolding]]"
+  - "[[Research Universities]]"
   - "[[Cognitive Flexibility]]"
   - "[[Mind Mapping]]"
 related_theories:
@@ -58,12 +59,13 @@ related_arguments:
   - "[[Argument_Guo_2025_TSC]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_Smith_2026_SPE]]"
+  - "[[Argument_Murphy_2026_JTS]]"
 related_persons:
   - "[[Alex Osborn]]"
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-24
+updated: 2026-10-05
 ---
 
 # Brainstorming
@@ -278,11 +280,12 @@ updated: 2026-09-24
 
 ## 教育应用与教学实践
 
-> [!implication]- 高效开展头脑风暴的四大教学支柱
+> [!implication]- 高效开展头脑风暴的五大教学与研讨支柱
 > 1. **推行“个体静默先行，群体迭代在后”的交替规程** 严禁一上来就组织口头漫谈；先给学生 5–8 分钟独立深思并把想法写在即时贴上（确保个体充分激活长时记忆），随后再贴上看板开展组间交叉互评；
 > 2. **普及 6-3-5 书面脑力激荡（Brainwriting）法** 6 人一组，每人在纸上写下 3 个点子，5 分钟后传给下一位同学，下一位同学在已有启发下再扩展 3 个新点子，轮转 6 轮产出 108 个高阶构想，完全消除排队阻塞；
-> 3. **将头脑风暴与外显启发算子（[[SCAMPER]]）结合** 当头脑风暴陷入停滞时，教师适时抛出 SCAMPER 算子（如“如果把这里的动力部件消除掉会怎样？”），为无序发散提供定向攀爬[[Scaffolding\|脚手架]]；
-> 4. **发散之后必须衔接严密的收敛与评价量规** 头脑风暴只是创意的第一步；发散结束后，引导学生利用二维矩阵（如“新颖度 vs 可行性”）进行点子分类筛选，避免止步于不切实际的空想。
+> 3. **运用结构化前置提示与议题清单引导跨学科头脑风暴** 在面对复杂战略或跨学科专业群体时，纯粹自由放任的头脑风暴极易陷入术语壁垒或各说各话；应预先梳理重点技术图谱（如半导体 10 大前沿议题）并提供结构化引导提示（Structured Prompts），在圆桌研讨中引导学者聚焦现实技术痛点展开定向发散与跨界碰撞；[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3–4, 6)]]
+> 4. **将头脑风暴与外显启发算子（[[SCAMPER]]）结合** 当头脑风暴陷入停滞时，教师适时抛出 SCAMPER 算子（如“如果把这里的动力部件消除掉会怎样？”），为无序发散提供定向攀爬[[Scaffolding\|脚手架]]；
+> 5. **发散之后必须衔接严密的收敛与评价量规** 头脑风暴只是创意的第一步；发散结束后，引导学生利用二维矩阵（如“新颖度 vs 可行性”）进行点子分类筛选，避免止步于不切实际的空想。
 
 ---
 
@@ -296,6 +299,7 @@ updated: 2026-09-24
 > - Baruah & Paulus (2008) — 实证确立策略培训与书面脑力激荡对消解群体阻塞与提升独创性的有效性。
 > - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 系统分析人工智能介入头脑风暴作为工具性协助的利弊，揭示算法初始构想对认知搜索空间的潜在锚定与规制路径。
 > - [[Argument_Smith_2026_SPE\|Smith (2026)]] — 结合写作学过程实证，深入剖析写作起草中将灵感发散全盘外包给大模型所造成的技能实践剥夺与[[Formative Epistemic Injustice|成长性认识不正义]]。
+> - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 在高水平[[Research Universities|研究型大学]]半导体学者发展工作坊中，依托结构化提示（Structured Prompts）开展跨学科头脑风暴与圆桌研讨，打破院系壁垒并促进教师协同构思（pp. 3, 6）。
 
 ---
 

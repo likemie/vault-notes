@@ -5,16 +5,24 @@
       "path": "wiki/arguments/journal-articles/Journal of Technology Studies/Argument_Murphy_2026_JTS.md"
     },
     {
+      "basename": "Argument_Bown_2024_JEP",
+      "path": "wiki/arguments/journal-articles/Journal of Economic Perspectives/Argument_Bown_2024_JEP.md"
+    },
+    {
+      "basename": "CHIPS and Science Act",
+      "path": "wiki/facts/us/CHIPS and Science Act.md"
+    },
+    {
+      "basename": "Questionnaire",
+      "path": "wiki/methods/quantitative/Questionnaire.md"
+    },
+    {
       "basename": "Knowledge Building Theory",
       "path": "wiki/theories/learning-science-cognitive-science/Knowledge Building Theory.md"
     },
     {
       "basename": "Brainstorming",
       "path": "wiki/concepts/instruction-pedagogy/Brainstorming.md"
-    },
-    {
-      "basename": "Argument_Bown_2024_JEP",
-      "path": "wiki/arguments/journal-articles/Journal of Economic Perspectives/Argument_Bown_2024_JEP.md"
     },
     {
       "basename": "Situative Perspective",
@@ -39,10 +47,6 @@
     {
       "basename": "Research Universities",
       "path": "wiki/concepts/higher-education/Research Universities.md"
-    },
-    {
-      "basename": "CHIPS and Science Act",
-      "path": "wiki/facts/us/CHIPS and Science Act.md"
     },
     {
       "basename": "Sino-American Trade War",
@@ -195,10 +199,6 @@
     {
       "basename": "Precompetitive Research",
       "path": "wiki/concepts/university-industry-collaboration/Precompetitive Research.md"
-    },
-    {
-      "basename": "ESPRIT",
-      "path": "wiki/facts/europe/ESPRIT.md"
     }
   ],
   "omittedPaths": [],

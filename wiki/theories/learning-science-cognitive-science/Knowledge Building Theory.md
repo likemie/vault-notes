@@ -1,5 +1,4 @@
 ---
----
 title: Knowledge Building Theory
 aliases:
   - 知识建构理论
@@ -13,10 +12,10 @@ aliases:
 summary: "学习科学经典理论，由斯卡达马利亚与贝莱特提出；主张教学的核心不在于记忆现成事实，而在于引导学习者作为协作共同体对作为公共制品的观点进行持续改进，承担集体认知责任，并在反思性结构化中实现深层科学探究"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 39
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 40
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theory/learning-science
   - paradigm/constructivism
@@ -37,6 +36,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Epistemic Responsibility]]"
   - "[[Reflective Structuration]]"
+  - "[[Research Universities]]"
   - "[[Opportunistic Collaboration]]"
   - "[[Unit of Analysis]]"
   - "[[Metacognition]]"
@@ -69,10 +69,11 @@ related_facts:
   - "[[Research in Schools Evaluation]]"
 related_arguments:
   - "[[Argument_Zhang_2022_SE]]"
+  - "[[Argument_Murphy_2026_JTS]]"
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-09-23
+updated: 2026-10-05
 ---
 
 # Knowledge Building Theory
@@ -115,6 +116,7 @@ updated: 2026-09-23
 > - **2002–2006 — 12 条原则与[[Theory of Knowledge|知识论]]坛（Knowledge Forum, KF）系统化** 提出涵盖观点真实性与改进、集体责任、对称性知识推进等 12 条知识建构经典设计原则，确立基于原则的创新路径。
 > - **2007–2011 — 探究线索分析与协作话语深入** [[Jianwei Zhang|张建伟]]（Jianwei Zhang）等学者开发探究线索分析法（Inquiry Threads Analysis），揭示科学课堂中跨时间维度的观点持续进化机制。
 > - **2018–2022 — [[Reflective Structuration|反思性结构化]]与[[Epistemic Agency|认识能动性]]突现** [[Jianwei Zhang]]、陶丹（Dan Tao）等学者将社会学结构化理论引入知识建构，提出[[Reflective Structuration|反思性结构化]]（Reflective Structuration）机制，系统阐明学生如何自主重塑集体探究方向与弹性组织构型。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 892–895)]]
+- **2020s — 高等教育科研人员专业发展与跨界知识建构拓展** 知识建构超越中小学课堂情境，拓展至高水平[[Research Universities|研究型大学]]应对国家重大科技战略的科研团队孵化；通过多轮次迭代的学者工作坊与结构化跨学科研讨，促成不同工程与科学系所学者在集体话语互动中实现协同知识建构与观点提升，有效打破学术孤岛并提升重大攻关项目承接就绪度。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3, 6)]]
 
 ---
 
@@ -205,3 +207,4 @@ updated: 2026-09-23
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 系统检验[[Reflective Structuration|反思性结构化]]作为知识建构理论的新型社会与时间机制，证实五年级学生在 7 个月人体系统探究中能自主重构意向领域与[[Opportunistic Collaboration|弹性协作]]小组。
+> - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 将知识建构视阈下的协同研讨与社会建构理论应用于高校半导体学者工作坊，实证检验多轮迭代的结构化交流如何促进不同系所科研人员之间的观点碰撞、知识共享与跨学科战略团队孵化（pp. 3, 6）。
