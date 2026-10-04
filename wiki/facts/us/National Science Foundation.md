@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 45
+fact_related_count: 46
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -78,6 +78,7 @@ related_arguments:
   - "[[Argument_Byrne_2025_InnovationCenters]]"
   - "[[Argument_Serpell_2020_EP]]"
   - "[[Argument_Fuchs_2010_RP]]"
+  - "[[Argument_Brint_2023_IHE]]"
 confidence: high
 status: completed
 created: 2026-05-28
@@ -119,7 +120,7 @@ updated: 2026-10-05
 > - **2011–2021 — 创业生态培育与跨学科[[Convergence Research|融合研究]]拓展**
 >   - 2011 年创设 [[NSF I-Corps]]（创新兵团），将精益创业方法论植入高校学术成果转化生态，在科研项目中内置产业反馈闭环；同时在 2019 年牛津 [[University Industry Demonstration Partnership|UIDP]] 峰会上被确立为推动 [[STEM Education|STEM]] 与人文社会科学（SSH）[[Convergence Research|融合研究]]的典范机构（如“人类技术前沿的工作未来”重大项目），并联合教育部与农业部启动首批国家人工智能研究院布局。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]; [[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 14–15)]]; [[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 40)]]
 > - **2022–至今 — 《[[CHIPS and Science Act|芯片法案]]》赋能与 TIP 理事会的区域创新变革**
->   - 2022 年依据《芯片与科学法案》，NSF 历经三十余年来首次新设第七大理事会——技术、创新与合作理事会（Technology, Innovation, and Partnerships, TIP），标志着 NSF 职能从纯粹资助上游基础研究，向主动培育区域[[Innovation Hub|创新中心]]、联合经济发展署（Economic Development Agency, EDA）推动非传统科技聚集区跨机构研发与商业化跃迁战略转型。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]
+>   - 2022 年依据《芯片与科学法案》，国会为 NSF 授权了高达 810 亿美元的五年期预算总额（五年内拟新增 360 亿美元，首年拟增长 8%），并将研究生研究奖学金（GRFP）名额从每年 2000 名扩大至 3000 名；NSF 历经三十余年来首次新设第七大理事会——技术、创新与伙伴关系理事会（TIP），标志着 NSF 职能从纯粹资助上游基础研究，向主动培育区域[[Innovation Hub|创新中心]]、加速[[Use-Inspired Basic Research|应用启发的基础研究]]向现实产业商业化转型的国家战略重构。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]; [[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]
 
 ---
 

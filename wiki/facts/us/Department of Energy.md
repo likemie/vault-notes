@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -54,6 +54,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Bell Labs]]"
 related_arguments:
+  - "[[Argument_Brint_2023_IHE]]"
   - "[[Argument_Narayanamurti_2013_IST]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Stephan_2013_NBER]]"
@@ -86,7 +87,7 @@ updated: 2026-10-05
 > - **1942–1977 — 战时军工起源与机构整合期** 源于曼哈顿工程建立的洛斯阿拉莫斯、橡树岭等绝密实验室，历经战后原子能委员会（AEC）与能源研发署（ERDA），逐步从单一核武器研制拓展至核动力、高能物理与合成燃料研发。
 > - **1977–2000 — 内阁设部与多学科基础研究确立** 1977 年正式成立能源部，将分散的国家实验室群整合为统一的国家科研基础设施基地，科学办公室成为全美同步辐射光源、中子散射源与超级计算机中心的核心运营者。
 > - **2009 — 危机应对与颠覆性绿色创新机制爆发** 在《美国复苏与再投资法案》（ARRA）支持下，正式启动高级能源研究计划署（Advanced Research Projects Agency-Energy, [[DARPA|ARPA]]-E，借鉴 [[DARPA]] 模式），设立能源前沿研究中心（EFRCs），并启动规模达数百亿美元的第 1705 条款清洁能源贷款担保计划。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
-> - **2010s–至今 — 碳中和使命与多维能源系统重塑** 设立能源地球飞跃计划（Energy Earthshots），聚焦长时储能、清洁氢能与碳直接捕集等激进脱碳技术，全面践行[[Mission-Oriented Innovation Policy|使命导向创新政策]]。
+> - **2010s–至今 — 碳中和使命、现代产业政策再动员与跨学科前沿攻关** 设立能源地球飞跃计划（Energy Earthshots），聚焦长时储能、清洁氢能与碳直接捕集等激进脱碳技术；2022 年依据《[[CHIPS and Science Act|芯片与科学法案]]》，科学办公室获授权在五年内新增 305 亿美元预算，重点通过竞争性课题流向高水平[[Research Universities|研究型大学]]实验室，与国家实验室协同攻坚清洁能源、量子计算、先进材料与气候变化等前沿战略领域。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
 
 ---
 
@@ -188,6 +189,7 @@ updated: 2026-10-05
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Brint_2023_IHE|Brint (2023)]] — 系统评析《[[CHIPS and Science Act|芯片与科学法案]]》对联邦科技资助格局的重塑，指出能源部科学办公室获得五年内 305 亿美元的经费法定授权，重点向高校实验室定向配置前沿基础与应用交叉领域竞争性科研经费。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 深度剖析美国能源部清洁能源贷款担保计划（特斯拉 vs. 索林德拉）的案例，系统论述组合式风险管理理念及公共部门建立风险收益对称机制的紧迫性。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al. (2013)]] — 系统剖析能源部与 [[National Institutes of Health|NIH]] 任务导向型科研组织机制，批评传统基础/应用二分法对长周期技术发明的阻碍。
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 运用详实数据量化能源部资助在高校系统中的高集中度特征与研究生雇佣机制。

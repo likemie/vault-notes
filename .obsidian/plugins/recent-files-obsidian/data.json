@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Horizon Europe",
+      "path": "wiki/facts/eu/Horizon Europe.md"
+    },
+    {
       "basename": "Argument_Brint_2023_IHE",
       "path": "wiki/arguments/journal-articles/International Higher Education/Argument_Brint_2023_IHE.md"
     },
     {
-      "basename": "Horizon Europe",
-      "path": "wiki/facts/eu/Horizon Europe.md"
+      "basename": "Modern Industrial Policy",
+      "path": "wiki/concepts/political-economy-geopolitics/Modern Industrial Policy.md"
+    },
+    {
+      "basename": "STEM Education",
+      "path": "wiki/concepts/educational-policy-reform/STEM Education.md"
     },
     {
       "basename": "Department of Energy",
@@ -23,10 +31,6 @@
     {
       "basename": "Argument_Murphy_2026_JTS",
       "path": "wiki/arguments/journal-articles/Journal of Technology Studies/Argument_Murphy_2026_JTS.md"
-    },
-    {
-      "basename": "STEM Education",
-      "path": "wiki/concepts/educational-policy-reform/STEM Education.md"
     },
     {
       "basename": "Research Universities",
@@ -143,10 +147,6 @@
     {
       "basename": "Market Failure",
       "path": "wiki/concepts/science-policy/Market Failure.md"
-    },
-    {
-      "basename": "Modern Industrial Policy",
-      "path": "wiki/concepts/political-economy-geopolitics/Modern Industrial Policy.md"
     },
     {
       "basename": "Competitive Semiconductor Manufacturing Program",
