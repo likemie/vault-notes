@@ -22,12 +22,33 @@ tags:
   - theme/industrial-policy
   - region/us
   - region/japan
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Patient Capital]]"
+  - "[[Total Quality Management]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Vertical Disintegration]]"
+  - "[[Hypothesis]]"
+  - "[[Falsification]]"
+  - "[[Emergence]]"
+  - "[[Cost of Ownership]]"
+  - "[[Fair Market Value]]"
+  - "[[Corporate R&D Labs]]"
+related_theories:
+  - "[[Technological Trajectories]]"
+related_methods:
+  - "[[Statistical Process Control]]"
+  - "[[Analytic Framework]]"
+  - "[[Industrial Benchmarking]]"
+  - "[[Matching]]"
 related_instruments: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[David C. Mowery]]"
+related_facts:
+  - "[[VLSI Project]]"
+  - "[[Sematech]]"
+  - "[[1986 U.S.-Japan Semiconductor Trade Agreement]]"
+  - "[[Ministry of International Trade and Industry]]"
+  - "[[Bell Labs]]"
 related_arguments: []
 sources:
   - "[[sources/Macher_1998_CMR/Macher_1998_CMR|Macher_1998_CMR]]"
@@ -138,7 +159,7 @@ issuing_organization: ""
 > - **全行业市场份额的戏剧性反转** 1980 年美国占据全球半导体市场 62%，日本占 26%；1989 年美国份额跌至 37% 谷底，日本升至 51%；1993 年美国以 43% 重新反超日本（40%），1997 年美国升至 50% 以上，日本降至 29%。（pp. 111–112）
 > - **DRAM 大宗市场的代际接管** 从 1K 到 4M 代际，日本在 DRAM 各代产品中的最大市场份额从 5% 攀升至 98%，全面取代了美国厂商在早期存储器上的统治地位。（pp. 110–111）
 
-> [!example]- 图1：1980–1997 年全球半导体市场份额演变
+> [!figure]- 图1：1980–1997 年全球半导体市场份额演变
 > ![](https://img.mylikemie.icu/sources/Macher_1998_CMR/figures/Macher_1998_CMR_Fig1_Worldwide_Semiconductor_Market_Share.jpg)
 
 > [!index-table] 表1：按器件类型划分的美日 DRAM 最大市场份额演进（%）
@@ -161,7 +182,7 @@ issuing_organization: ""
 > - **日本存储垄断受外部冲击** 韩国三星与中国台湾厂商迅速进入 DRAM 市场，以更低制造成本削弱了日本企业的独占优势。
 > - **存储器件的大宗商品化** 存储芯片演化为高度标准化的纯大宗商品，依赖激进资本投入与微观良率，利润空间被持续压缩。（pp. 112–113）
 
-> [!example]- 图2：1980–1997 年全球存储芯片市场份额演变
+> [!figure]- 图2：1980–1997 年全球存储芯片市场份额演变
 > ![](https://img.mylikemie.icu/sources/Macher_1998_CMR/figures/Macher_1998_CMR_Fig2_Worldwide_Memory_Market_Share.jpg)
 
 ---
@@ -182,14 +203,14 @@ issuing_organization: ""
 > 2. **全员生产维护（Total Preventive Maintenance, TPM）与设备稳定性管理** 联合设备供应商开展故障根因分析，提高设备平均无故障时间，减少非计划停机波动。（p. 114）
 > 3. **跨专业工程诊断与数据快速反馈** 组建工艺工程师与产线操作人员协同的质量改进小组，依托软件分析工具快速定位缺陷机理并调整工艺配方。（pp. 114–115）
 
-> [!example]- 图3：美国企业集成电路每百万缺陷数（PPM）改善趋势
+> [!figure]- 图3：美国企业集成电路每百万缺陷数（PPM）改善趋势
 > ![](https://img.mylikemie.icu/sources/Macher_1998_CMR/figures/Macher_1998_CMR_Fig3_Defective_PPM_in_US_Firms.jpg)
 
 #### 2. 逻辑芯片制造良率追平日本，证明尖端工艺无须依赖大宗存储芯片经验
 
 加州大学伯克利分校 CSM 项目的[[Industrial Benchmarking|产业标杆分析]]测量表明，在 0.7–0.9 微米互补金属氧化物半导体（Complementary Metal-Oxide-Semiconductor, CMOS）逻辑制程中，美国领先晶圆厂的缺陷密度自 1990 年的约 1.3 个/$\text{cm}^2$ 持续下降，并在 1994 年达到与日本领先晶圆厂相当的水准。
 
-> [!example]- 图4：0.7–0.9 微米 CMOS 逻辑制程缺陷密度对比
+> [!figure]- 图4：0.7–0.9 微米 CMOS 逻辑制程缺陷密度对比
 > ![](https://img.mylikemie.icu/sources/Macher_1998_CMR/figures/Macher_1998_CMR_Fig4_Defect_Density_in_CMOS_Logic.jpg)
 
 > [!index-table] 表2：美日半导体制造商晶圆平均探针良率对比（Probe Yield, %）
@@ -203,7 +224,7 @@ issuing_organization: ""
 > | **存储制程：0.5–0.7 微米** | 80 | 80 |
 > | **存储制程：<0.5 微米** | 78 | 89 |
 
-> [!example]- 图5：CMOS 逻辑晶圆厂直接劳动生产率对比（晶圆通量/操作工）
+> [!figure]- 图5：CMOS 逻辑晶圆厂直接劳动生产率对比（晶圆通量/操作工）
 > ![](https://img.mylikemie.icu/sources/Macher_1998_CMR/figures/Macher_1998_CMR_Fig5_Direct_Labor_Productivity_at_CMOS_Logic_Fabs.jpg)
 
 > [!warrant]- 技术驱动器[[Hypothesis|假设]]的实证[[Falsification|证伪]]
@@ -231,7 +252,7 @@ issuing_organization: ""
 
 设计公司专注于微架构与算法创新，将晶圆制造外包给专业代工厂（如中国台湾的台积电与联电）或具备富余产能的厂商，无须承担高额晶圆厂固定资本投资。
 
-> [!example]- 图6：美国新型半导体企业创立数量趋势（1966–1996）
+> [!figure]- 图6：美国新型半导体企业创立数量趋势（1966–1996）
 > ![](https://img.mylikemie.icu/sources/Macher_1998_CMR/figures/Macher_1998_CMR_Fig6_Formation_of_New_US_Semiconductor_Firms.jpg)
 
 > [!dimension] 美国半导体敏捷[[Innovation Ecosystem|创新生态]]的三大结构支柱
@@ -267,7 +288,7 @@ issuing_organization: ""
 
 产业政策与贸易措施对半导体产业环境的改善产生了多重影响。
 
-> [!policy-design] 外部政策与制度要素的多维评估
+> [!quad-grid] 外部政策与制度要素的多维评估
 > - **研发联盟 [[Sematech]] 的供应链协同**
 >   联盟放弃了建立集中式通用制造产线的初期设想，转向扶持本土半导体制造装备与材料（Semiconductor Manufacturing Equipment and Materials, SME）供应商，推广标准化测试规程与[[Cost of Ownership|所有权成本]]（Cost of Ownership, COO）模型，促进了设备供应链的技术升级。（pp. 121–122）
 > - **[[1986 U.S.-Japan Semiconductor Trade Agreement|美日半导体贸易协定]]的复杂效应**
@@ -281,7 +302,7 @@ issuing_organization: ""
 
 半导体产业复兴的基础依然存在结构性脆弱。美国领先制造厂在良率和生产率上仅达到与海外优秀同行相当的水平，并未确立持续的技术垄断。
 
-> [!warning] 产业复兴基础的四大结构性隐患
+> [!challenges] 产业复兴基础的四大结构性隐患
 > 1. **制造工艺缺乏绝对壁垒** 美国最好的晶圆厂仅能匹敌而无法超越海外领先水平，一旦技术进入成熟轨道的渐进制造改良期，美国企业仍将面临制造效率挑战。（p. 129）
 > 2. **[[Corporate R&D Labs|企业中央实验室]]基础研究收缩** [[Bell Labs|贝尔实验室]]、通用电气和国际商业机器公司（International Business Machines, IBM）等大型企业研发预算向近中期商业化产品开发集中，公共与私营部门对长周期微电子基础科学的资助严重不足。（pp. 122–123）
 > 3. **跨国技术合作中的制造能力外溢** 国际技术许可与外包代工在促进技术双向流动的同时，也加速了先进制造经验向海外新兴代工厂的转移。（pp. 120–121）
@@ -298,9 +319,9 @@ issuing_organization: ""
 > 4. **长周期基础研究投入不足构成产业未来竞争力的深层隐患** 随着[[Corporate R&D Labs|企业中央实验室]]转向短期应用研发以及冷战后国防部研发资助骤降，美国半导体产业依赖科学突破实现持续创新的根基呈现出明显的脆弱性。（pp. 122–123, 129–131）
 
 > [!stat-cards]- 核心数据
-> - **62% $\rightarrow$ 37% $\rightarrow$ 50%+** 1980 年、1989 年与 1997 年美国半导体在全球销售额中的市场份额变化轨迹。（pp. 111–112）
-> - **780 PPM $\rightarrow$ <100 PPM** 1980 年至 1992 年美国商用半导体芯片缺陷率的压降幅度。（pp. 113–114）
-> - **25% $\rightarrow$ <7%** 1980 年至 1992 年联邦国防研发资助占美国半导体产业总研发投入的比例骤降幅度。（p. 122）
+> - **62% / 37% / 50%+** 1980年、1989年与1997年美国半导体在全球销售额中的市场份额演变。（pp. 111–112）
+> - **780 / <100** 1980年至1992年美国芯片出厂缺陷率（PPM）的压降幅度。（pp. 113–114）
+> - **25% / <7%** 1980年至1992年联邦国防资助占美国半导体研发总投入的比例骤降。（p. 122）
 
 ---
 

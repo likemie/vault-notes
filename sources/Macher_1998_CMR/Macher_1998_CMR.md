@@ -1,6 +1,7 @@
 ---
 citation: "Macher, J. T., Mowery, D. C., & Hodges, D. A. (1998). Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry. California Management Review, 41(1), 107–136. https://doi.org/10.2307/41165978"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Macher_1998_CMR]]"
 processed_date: 2026-10-04
 ---
 

@@ -151,5 +151,5 @@ updated: 2026-10-04
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Macher_1998_CMR|Macher et al., 1998]] — 借助加州大学伯克利分校竞争性半导体制造（Competitive Semiconductor Manufacturing, CSM）项目的多国晶圆厂标杆数据，实证评估美日半导体制造商在 0.7–0.9 微米制程中的缺陷密度、探针良率与劳动生产率差距演变。
