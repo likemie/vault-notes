@@ -10,7 +10,7 @@ aliases:
 summary: "跨越研究哲学、学习理论与社会理论的概念家族，强调意义、知识和规范在主体活动及社会历史互动中形成，并用于质性研究、课程设计与观念权力分析"
 type: concept
 domain: "educational-philosophy"
-related_count: 60
+related_count: 66
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Surface and Deep Learning]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Brainstorming]]"
   - "[[Powerful Knowledge]]"
   - "[[Outcomes-based Education]]"
   - "[[Whole Language]]"
@@ -60,6 +61,7 @@ related_theories:
   - "[[Cultural Models]]"
   - "[[Pragmatic Constructivism]]"
   - "[[Social Realism]]"
+  - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
@@ -70,6 +72,9 @@ related_methods:
   - "[[Constructivist Grounded Theory]]"
   - "[[Effect Size]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Case Study]]"
+  - "[[Design-Based Research]]"
+  - "[[Questionnaire]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[Confucius]]"
@@ -84,12 +89,13 @@ related_arguments:
   - "[[Argument_Wang_2025_CE]]"
   - "[[Argument_Schaffar_2024_CogentEdu]]"
   - "[[Argument_McPhail_2023_JCS]]"
+  - "[[Argument_Murphy_2026_JTS]]"
   - "[[Argument_Rømer_2018_EPT]]"
   - "[[Argument_OConnor_2020_AJLL]]"
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 # Constructivist Paradigm
 
@@ -232,7 +238,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > - **1985 年：进入[[Qualitative Research\|质性研究]][[Paradigm\|范式]]论述**　Lincoln & Guba 的 *[[Interpretive Paradigm\|naturalistic inquiry]]* 将自然主义和解释性研究系统化。后来的研究设计教材通常把社会建构主义视为质性研究的重要世界观。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 1)]]
 > - **1990 年代：教育与国际关系中的制度化扩展**　课程改革广泛采用建构主义学习语言；Wendt 等学者则把规范、身份和观念的建构作用带入国际关系分析。芬兰教育讨论也在这一时期把 Dewey 的反思与 Mead 的社会互动结合为[[Pragmatic Constructivism\|实用主义建构主义]]。[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024)]]
 > - **1999 年：从学习理论转化为课程设计**　Biggs 用[[Constructive Alignment\|建构性对齐]]把意义建构、学生学习活动、课程目标和评估整合为可操作的教学系统。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 60–65)]]
-> - **2020 年代：[[Recontextualization\|再脉络化]]与知识批评并进**　跨文化研究考察[[Constructivist Instruction\|建构主义教学]]如何与本土传统形成[[Selective Affinity\|选择性亲和]]；[[Social Realism\|社会实在论]]则追问自主建构和通用技能话语是否削弱了学生接触系统学科知识的机会。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025)]]; [[Argument_McPhail_2023_JCS\|(McPhail et al., 2023)]]
+> - **2020 年代：[[Recontextualization|再脉络化]]、知识批评与专业发展拓展** 跨文化研究考察[[Constructivist Instruction|建构主义教学]]如何与本土传统形成[[Selective Affinity|选择性亲和]]（[[Argument_Wang_2025_CE|Wang & McLaughlin, 2025]]）；[[Social Realism|社会实在论]]反思自主建构对系统学科知识的边缘化（[[Argument_McPhail_2023_JCS|McPhail et al., 2023]]）；同时在高等教育与科研管理领域，社会建构主义（Social Constructivism）被拓展至大学科研人员与教师专业发展，指导以结构化提示、[[Brainstorming|头脑风暴]]与跨学科研讨为核心的学者工作坊设计，推动不同院系学者在集体社会协商中实现协同[[Knowledge Building Theory|知识建构]]与国家重大战略承接。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3, 6)]]
 
 ---
 
@@ -262,6 +268,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] | 从覆盖 15 所学校的改革项目中选取 4 所案例学校，包括 2 所城市学校和 2 所农村学校；4 名校长、9 名教师；两轮共 25 次访谈，每次约 50 分钟 | 多案例[[Qualitative Research\|质性研究]]；NVivo 11 [[Coding in Qualitative Research\|编码]]；比较学校与角色差异 | 教师对以学生为中心教育、启发式[[Dialogue in Education\|对话]]、学生参与和课程决策权的解释 | 教师把对话、互动和高阶思考纳入课堂，同时保留统一课程和考试导向下的教师决策权 | 未报告统计不确定性；研究目标是解释意义与机制 | 目的性小样本支持情境化解释，不能估计这种重构在全部中国学校中的分布比例（pp. 594–602） |
+> | [[Argument_Murphy_2026_JTS\|Murphy Jr. et al. (2026)]] | 美国 1 所高水平研究型大学；3 期学者工作坊（$n=21, 11, 12$） | 单机构[[Case Study\|案例研究]]与[[Design-Based Research\|基于设计的研究]]（DBR） | 基于社会建构与结构化提示研讨的学者协同与促学满意度 | 第二期线下研讨促学设计满意度达 100%；协作积极体验达 80%；三期研讨时间紧迫困境达 63%–75% | 质性开放[[Questionnaire\|问卷]]独立主题编码 | 单机构案例自陈调查；表明社会互动与面对面研讨有效支撑了跨学科知识协商与共同体生成 |
 
 ---
 
@@ -271,6 +278,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 1)]]　界定建构主义世界观，并说明它如何引导开放提问、情境理解、归纳分析与研究者解释。
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]]　把建构主义学习观转化为三级教学观、概念改变条件和[[Constructive Alignment\|建构性对齐]]。
 > - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]　揭示[[Constructivist Instruction\|建构主义教学]]理念与中国启发式对话传统的[[Selective Affinity\|选择性亲和]]，以及考试制度设置的改变边界。
+> - [[Argument_Murphy_2026_JTS\|Murphy Jr. et al. (2026)]]　将社会建构主义应用于应对国家半导体战略的高校跨学科学者发展工作坊，设计结构化提示与小组对话，实证呈现教师在面对面社会互动中打破学科孤岛并实现协同[[Knowledge Building Theory|知识建构]]的过程。
 > - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]　展示建构主义诠释学和[[Constructivist Grounded Theory\|建构主义扎根理论]]如何处理研究者、参与者与资料之间的共同解释。
 > - [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]]　从[[Social Realism\|社会实在论]]出发，批评课程改革对系统学科知识的边缘化。
 > - [[Argument_Zapp_2022_Springer\|Zapp (2022)]]　用国际关系建构主义解释观念、规范和知识在全球教育治理中的制度权力。

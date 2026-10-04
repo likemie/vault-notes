@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "CHIPS and Science Act",
-      "path": "wiki/facts/us/CHIPS and Science Act.md"
-    },
-    {
       "basename": "Argument_Murphy_2026_JTS",
       "path": "wiki/arguments/journal-articles/Journal of Technology Studies/Argument_Murphy_2026_JTS.md"
     },
     {
+      "basename": "Knowledge Building Theory",
+      "path": "wiki/theories/learning-science-cognitive-science/Knowledge Building Theory.md"
+    },
+    {
+      "basename": "Brainstorming",
+      "path": "wiki/concepts/instruction-pedagogy/Brainstorming.md"
+    },
+    {
       "basename": "Argument_Bown_2024_JEP",
       "path": "wiki/arguments/journal-articles/Journal of Economic Perspectives/Argument_Bown_2024_JEP.md"
+    },
+    {
+      "basename": "Situative Perspective",
+      "path": "wiki/theories/educational-psychology/Situative Perspective.md"
+    },
+    {
+      "basename": "Constructivist Paradigm",
+      "path": "wiki/concepts/educational-philosophy/Constructivist Paradigm.md"
+    },
+    {
+      "basename": "Cognitive Constructivism",
+      "path": "wiki/theories/educational-philosophy/Cognitive Constructivism.md"
+    },
+    {
+      "basename": "STEM Education",
+      "path": "wiki/concepts/educational-policy-reform/STEM Education.md"
+    },
+    {
+      "basename": "Design-Based Research",
+      "path": "wiki/methods/mixed/Design-Based Research.md"
+    },
+    {
+      "basename": "Research Universities",
+      "path": "wiki/concepts/higher-education/Research Universities.md"
+    },
+    {
+      "basename": "CHIPS and Science Act",
+      "path": "wiki/facts/us/CHIPS and Science Act.md"
     },
     {
       "basename": "Sino-American Trade War",
@@ -167,38 +199,6 @@
     {
       "basename": "ESPRIT",
       "path": "wiki/facts/europe/ESPRIT.md"
-    },
-    {
-      "basename": "Broad Agency Announcement",
-      "path": "wiki/concepts/political-economy-geopolitics/Broad Agency Announcement.md"
-    },
-    {
-      "basename": "Research Translation",
-      "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
-    },
-    {
-      "basename": "Professional Judgment",
-      "path": "wiki/concepts/educational-policy-reform/Professional Judgment.md"
-    },
-    {
-      "basename": "National Science Foundation",
-      "path": "wiki/facts/us/National Science Foundation.md"
-    },
-    {
-      "basename": "John W. Meyer",
-      "path": "wiki/persons/us/John W. Meyer.md"
-    },
-    {
-      "basename": "National Academy of Sciences",
-      "path": "wiki/facts/us/National Academy of Sciences.md"
-    },
-    {
-      "basename": "Sputnik Shock 1957",
-      "path": "wiki/facts/us/Sputnik Shock 1957.md"
-    },
-    {
-      "basename": "Grounded Theory",
-      "path": "wiki/methods/qualitative/Grounded Theory.md"
     }
   ],
   "omittedPaths": [],
