@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Innovation Ecosystem",
-      "path": "wiki/concepts/university-industry-collaboration/Innovation Ecosystem.md"
+      "basename": "VLSI Project",
+      "path": "wiki/facts/east-asia/VLSI Project.md"
     },
     {
       "basename": "Argument_Macher_1998_CMR",
       "path": "wiki/arguments/journal-articles/California Management Review/Argument_Macher_1998_CMR.md"
+    },
+    {
+      "basename": "Industrial Benchmarking",
+      "path": "wiki/methods/quantitative/Industrial Benchmarking.md"
+    },
+    {
+      "basename": "1986 U.S.-Japan Semiconductor Trade Agreement",
+      "path": "wiki/facts/us/1986 U.S.-Japan Semiconductor Trade Agreement.md"
+    },
+    {
+      "basename": "Vertical Disintegration",
+      "path": "wiki/concepts/political-economy-geopolitics/Vertical Disintegration.md"
+    },
+    {
+      "basename": "Innovation Ecosystem",
+      "path": "wiki/concepts/university-industry-collaboration/Innovation Ecosystem.md"
     },
     {
       "basename": "Total Quality Management",
@@ -63,10 +79,6 @@
     {
       "basename": "ESPRIT",
       "path": "wiki/facts/europe/ESPRIT.md"
-    },
-    {
-      "basename": "VLSI Project",
-      "path": "wiki/facts/east-asia/VLSI Project.md"
     },
     {
       "basename": "Broad Agency Announcement",
@@ -187,18 +199,6 @@
     {
       "basename": "MOSIS",
       "path": "wiki/facts/us/MOSIS.md"
-    },
-    {
-      "basename": "Source Evaluation",
-      "path": "wiki/concepts/instruction-pedagogy/Source Evaluation.md"
-    },
-    {
-      "basename": "Second-Sourcing",
-      "path": "wiki/concepts/science-policy/Second-Sourcing.md"
-    },
-    {
-      "basename": "The Green Book",
-      "path": "wiki/facts/uk/The Green Book.md"
     }
   ],
   "omittedPaths": [],
