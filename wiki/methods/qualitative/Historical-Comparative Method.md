@@ -30,6 +30,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Research Question]]"
   - "[[Working Hypothesis]]"
+  - "[[Vertical Disintegration]]"
   - "[[Whiggism]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Document]]"
@@ -55,7 +56,6 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Research Universities]]"
   - "[[Innovation Policy Paradigms]]"
-  - "[[Vertical Disintegration]]"
   - "[[Modern Industrial Policy]]"
 related_theories:
   - "[[Three Generations of Mission-Oriented Policy]]"
@@ -91,10 +91,10 @@ related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Atkinson_2008_TIS]]"
+  - "[[Argument_Bown_2024_JEP]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Mowery_2011_NBER]]"
-  - "[[Argument_Bown_2024_JEP]]"
 confidence: high
 status: completed
 created: 2026-09-06
@@ -156,7 +156,7 @@ updated: 2026-10-04
 > | 维度 | 信息 |
 > |---|---|
 > | **材料来源** | 官方档案（特别调查报告 Special Reports、皇家委员会调查白皮书 Bryce Commission、议会立法案卷）、各国内政与教育部公报、国家科学与工业委员会历史报告、视察专员历史考察手札、哲人经典著述与历史统计年鉴。 |
-> | **抽样或选案** | [[Theoretical Sampling\|理论抽样]]与关键制度案例（如普鲁士中等教育报告、英国文法公学体系、法国国家中央集权督学系统）；最大变异比较（英美自由地方分权体系 vs 法德苏国家主义集权体系；美国非集权分层大学体系 vs 欧亚集权部属科研院所分立体系，[[Argument_Atkinson_2008_TIS\|(Atkinson & Blanpied, 2008, pp. 42–43)]]）；跨意识形态阵营分裂对照案例（如[[Oskar Anweiler\|奥斯卡·安韦勒]]主持的西德与东德跨制度教育长周期历史比较，[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 91–92, 97–98)]]）；长周期跨代际国家能力与创新体制抽样（19 世纪末德日追赶型发展国家 vs 20 世纪中叶美欧大科学技术攻关 vs 21 世纪敏捷公共创新特区，[[Argument_Kattel_Mazzucato_2018_ICC\|(Kattel & Mazzucato, 2018, pp. 792–796)]]）。 |
+> | **抽样或选案** | [[Theoretical Sampling\|理论抽样]]与关键制度案例（如普鲁士中等教育报告、英国文法公学体系、法国国家中央集权督学系统）；最大变异比较（英美自由地方分权体系 vs 法德苏国家主义集权体系；美国非集权分层大学体系 vs 欧亚集权部属科研院所分立体系，[[Argument_Atkinson_2008_TIS\|(Atkinson & Blanpied, 2008, pp. 42–43)]]）；跨意识形态阵营分裂对照案例（如[[Oskar Anweiler\|奥斯卡·安韦勒]]主持的西德与东德跨制度教育长周期历史比较，[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 91–92, 97–98)]]）；长周期跨代际国家能力与创新体制抽样（19 世纪末德日追赶型发展国家 vs 20 世纪中叶美欧大科学技术攻关 vs 21 世纪敏捷公共创新特区，[[Argument_Kattel_Mazzucato_2018_ICC\|(Kattel & Mazzucato, 2018, pp. 792–796)]]）；跨时期产业政策浪潮抽样（20 世纪 80 年代美日半导体贸易摩擦与纵向一体化财团模式 vs 2020 年代中美高科技地缘博弈与全球[[Vertical Disintegration\|纵向离散]]网络模式，[[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, pp. 83–86, 97–103)]]）。 |
 > | **研究者位置** | 跨文化历史诠释者。深入历史当事人的思想地平线内部，严格防范[[Whiggism\|辉格史观]]（以现代价值观剪裁历史）与当下主义偏见，反思研究者自身的民族国家与意识形态前设。 |
 > | **资料边界** | 聚焦国家制度奠基期、关键立法节点、工业与科学战略重构期以及文明转型危机期；严格划分一手文献（[[Primary and Secondary Documents\|Primary Documents]]）与后世二手研究（Secondary Literature）。 |
 

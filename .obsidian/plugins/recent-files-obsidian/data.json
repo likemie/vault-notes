@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "European Chips Act",
+      "path": "wiki/facts/eu/European Chips Act.md"
+    },
+    {
       "basename": "Argument_Bown_2024_JEP",
       "path": "wiki/arguments/journal-articles/Journal of Economic Perspectives/Argument_Bown_2024_JEP.md"
     },
@@ -9,16 +13,32 @@
       "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Helgetun_2022_JEP.md"
     },
     {
+      "basename": "CHIPS and Science Act",
+      "path": "wiki/facts/us/CHIPS and Science Act.md"
+    },
+    {
+      "basename": "Historical-Comparative Method",
+      "path": "wiki/methods/qualitative/Historical-Comparative Method.md"
+    },
+    {
+      "basename": "Vertical Disintegration",
+      "path": "wiki/concepts/political-economy-geopolitics/Vertical Disintegration.md"
+    },
+    {
+      "basename": "Market Failure",
+      "path": "wiki/concepts/science-policy/Market Failure.md"
+    },
+    {
+      "basename": "Modern Industrial Policy",
+      "path": "wiki/concepts/political-economy-geopolitics/Modern Industrial Policy.md"
+    },
+    {
       "basename": "Competitive Semiconductor Manufacturing Program",
       "path": "wiki/facts/us/Competitive Semiconductor Manufacturing Program.md"
     },
     {
       "basename": "Argument_Macher_1998_CMR",
       "path": "wiki/arguments/journal-articles/California Management Review/Argument_Macher_1998_CMR.md"
-    },
-    {
-      "basename": "Vertical Disintegration",
-      "path": "wiki/concepts/political-economy-geopolitics/Vertical Disintegration.md"
     },
     {
       "basename": "Technological Trajectories",
@@ -179,26 +199,6 @@
     {
       "basename": "Demonstration Effect",
       "path": "wiki/concepts/science-policy/Demonstration Effect.md"
-    },
-    {
-      "basename": "Center of Calculation",
-      "path": "wiki/concepts/sociology-of-education/Center of Calculation.md"
-    },
-    {
-      "basename": "Brookings Institution",
-      "path": "wiki/facts/us/Brookings Institution.md"
-    },
-    {
-      "basename": "Semi-Automatic Ground Environment",
-      "path": "wiki/facts/us/Semi-Automatic Ground Environment.md"
-    },
-    {
-      "basename": "Sage",
-      "path": "wiki/concepts/chinese-philosophy/Sage.md"
-    },
-    {
-      "basename": "Demand-side Innovation Policy",
-      "path": "wiki/concepts/science-policy/Demand-side Innovation Policy.md"
     }
   ],
   "omittedPaths": [],
