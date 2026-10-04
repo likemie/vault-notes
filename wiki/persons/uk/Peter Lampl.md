@@ -8,10 +8,10 @@ summary: "英国教育慈善家、萨顿信托（Sutton Trust）创始人兼董�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1946"
 died: ""
 lifespan: "1946–至今"
@@ -22,6 +22,7 @@ tags:
   - theme/evidence-based-education
   - theme/what-works-movement
 related_concepts:
+  - "[[Seed Funding]]"
   - "[[Academic Achievement]]"
   - "[[Evidence Ecosystem]]"
   - "[[Evidence-Based Education]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-22
+updated: 2026-10-04
 ---
 
 # Peter Lampl
@@ -65,7 +66,7 @@ updated: 2026-09-22
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育慈善家、风险投资家，[[Sutton Trust\|萨顿信托]]（Sutton Trust）创始人兼董事长，[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）创办理事会主席（2011年至今）。
-> - **核心角色** 英国现代教育循证决策、社会流动性倡导与独立研究中介机构治理的制度设计者与领军人物，开创了国家财政种子基金与民间独立信托相结合的“有效机构”（What Works Centre）公共治理模式。
+> - **核心角色** 英国现代教育循证决策、社会流动性倡导与独立研究中介机构治理的制度设计者与领军人物，开创了国家财政[[Seed Funding|种子基金]]与民间独立信托相结合的“有效机构”（What Works Centre）公共治理模式。
 > - **代表贡献** 创设致力于阻断家庭背景与[[Academic Achievement\|学业成就]]代际传递的萨顿信托；领导设立 EEF 并建立保障评估独立性与研究中立的独立理事会防火墙；资助并主导推广《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》。
 
 > [!citation-card] 独立信托治理与循证决策机制
@@ -82,7 +83,7 @@ updated: 2026-09-22
 > - **1970s–1990s** 在美国和欧洲从事国际管理咨询（波士顿咨询集团）与私人股本投资，创立投资公司 Sutton Company，积累了深厚的商业与资本运作经验。
 > - **1997** 捐资出资创办[[Sutton Trust\|萨顿信托]]（The Sutton Trust），确立“通过改善低收入家庭儿童教育机会以促进社会流动性”的慈善宗旨，资助牛津、剑桥等顶尖高校夏季大学体验项目。
 > - **2000s** 资助开展一系列开创性实证研究，揭示英国顶尖行业（法律、金融、医学、政界）中私立公学毕业生的过度垄断现状；推动英国引入并制度化面向处境不利学生的“[[Pupil Premium\|学生溢价]]”（Pupil Premium）政策。
-> - **2010–2011** 联合[[Impetus\|动力信托]]（Impetus）代表萨顿信托参与英国教育部面向全国举办的公开招标，在 14 家机构竞争中脱颖而出，获得 1.25 亿英镑法定种子基金创办[[Education Endowment Foundation\|教育捐赠基金会]]（EEF），出任 EEF 创始理事会主席。
+> - **2010–2011** 联合[[Impetus\|动力信托]]（Impetus）代表萨顿信托参与英国教育部面向全国举办的公开招标，在 14 家机构竞争中脱颖而出，获得 1.25 亿英镑法定[[Seed Funding|种子基金]]创办[[Education Endowment Foundation\|教育捐赠基金会]]（EEF），出任 EEF 创始理事会主席。
 > - **2011–2013** 资助杜伦大学团队将《补救学业差距的循证教学工具包》升级为《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》；2013 年推动萨顿信托与 EEF 被英国政府内阁办公厅官方指定为英国教育领域的“有效机构”（What Works Centre for Education）。
 > - **2018–2020** 推动 EEF 拓展全球合作伙伴网络，吸纳[[BHP Foundation\|必和必拓基金会]]等跨国资金，在澳大利亚和拉丁美洲建设全球教学[[Evidence Ecosystem\|证据生态系统]]，累计推动全英过半数公立学校参与前沿科研。
 

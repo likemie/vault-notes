@@ -10,7 +10,7 @@ aliases:
 summary: "澳大利亚税法中赋予特定非营利机构接受企业与个人捐款并向捐赠人提供全额个税扣除的法定特许资质（以 DGR1 为最高等级）；在教育政策中作为国家特许的法律与财政管道，引导免税资本绕过公共部门直达特定中介，构成异层治理的核心物质载体。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Philanthrocapitalism]]"
   - "[[Venture Philanthropy]]"
+  - "[[Seed Funding]]"
   - "[[Professional Judgment]]"
   - "[[Construct]]"
   - "[[Transfer Translation Transformation]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-09-22
+updated: 2026-10-04
 ---
 
 # Deductible Gift Recipient
@@ -114,7 +115,7 @@ updated: 2026-09-22
 > 阐明抽象的[[Philanthrocapitalism\|慈善资本主义]]理念如何通过税法修正案与 DGR1 资质等无生命耐用材料，在主权国家内部完成制度化具身与法定固化。
 
 > [!claim] [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]; [[Argument_Rowe_2022_IJER\|Rowe (2022)]]
-> **税收特许管道对异层教育治理的锚定** [[Venture Philanthropy\|风险慈善]]若无国家法律底座的支撑，只能停留在边缘的零星捐赠。在澳大利亚，国家通过《2014年税收与养老金法律修正案（第5号措施）》，破例授予 [[Australian Schools Plus\|Schools Plus]] 全澳 DGR1 特许资质，并配套 500 万澳元政府种子资助。这一法定管道打破了州立公立学校无法享受联邦税收抵免的制度隔离，正式在国家层面确立了企业慈善向公立教育合法输送并主导项目的特权通道。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 525, 528, 530)]]
+> **税收特许管道对异层教育治理的锚定** [[Venture Philanthropy\|风险慈善]]若无国家法律底座的支撑，只能停留在边缘的零星捐赠。在澳大利亚，国家通过《2014年税收与养老金法律修正案（第5号措施）》，破例授予 [[Australian Schools Plus\|Schools Plus]] 全澳 DGR1 特许资质，并配套 500 万澳元政府[[Seed Funding|种子资助]]。这一法定管道打破了州立公立学校无法享受联邦税收抵免的制度隔离，正式在国家层面确立了企业慈善向公立教育合法输送并主导项目的特权通道。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 525, 528, 530)]]
 
 ---
 

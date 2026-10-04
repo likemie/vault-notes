@@ -9,7 +9,7 @@ summary: "美国电气工程师与科技政策管理者，DARPA 史上任期最�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -41,6 +41,7 @@ related_persons:
   - "[[George Heilmeier]]"
 related_facts:
   - "[[DARPA]]"
+  - "[[Computing Research Association]]"
   - "[[Chinese Academy of Sciences]]"
   - "[[National Academy of Sciences]]"
 related_arguments:
@@ -75,7 +76,7 @@ updated: 2026-10-04
 > - **1941** 出生于美国，后在伦斯勒理工学院获得电气工程学士学位，并在斯坦福大学获得电气工程硕士与博士学位。
 > - **1978–1982** 首次进入 [[DARPA]]，担任战略技术办公室（STO）主任，主导反潜战与高能激光武器早期研究。
 > - **1982–2001** 先后在福特航空航天、SAIC 与雷神等军工科技企业担任高管，长期浸润于工业界复杂系统工程集成环境。
-> - **2001–2009** 出任 DARPA 第 16 任局长；任内推行“弥合鸿沟”政策，在 9/11 后将机构全面导向反恐与快速军事能力交付，推行严格阶段里程碑与保密机制，引发美国计算机研究协会（CRA）与全美高校学术界的强烈抗议。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1137–1138)]]
+> - **2001–2009** 出任 DARPA 第 16 任局长；任内推行“弥合鸿沟”政策，在 9/11 后将机构全面导向反恐与快速军事能力交付，推行严格阶段里程碑与保密机制，引发[[Computing Research Association|美国计算机研究协会]]（CRA）与全美高校学术界的强烈抗议。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1137–1138)]]
 > - **2009–至今** 卸任后出任多所高科技与防务公司顾问，并担任美国政府国家安全技术委员会高级顾问。
 
 ---
@@ -131,7 +132,7 @@ updated: 2026-10-04
 > > [!axis] 瑟瑟采办改革是否摧毁了 [[DARPA]] 长期支持自由学术探索的传统
 > > 全美高校计算机学术界与国家[[Chinese Academy of Sciences|科学院]]强烈抗议其削减大学基础科研并将项目保密化；瑟瑟与国防部管理者则辩护称改革大幅提高了国防投资转化效率。
 > >
-> > - **美国计算机研究协会（CRA）与大学学者** 批评瑟瑟短视，将长期颠覆性研究异化为短期工程交付，破坏了滋养互联网与现代计算产业的产学研自由生态。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134, 1138)]]
+> > - **[[Computing Research Association|美国计算机研究协会]]（CRA）与大学学者** 批评瑟瑟短视，将长期颠覆性研究异化为短期工程交付，破坏了滋养互联网与现代计算产业的产学研自由生态。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134, 1138)]]
 > > - **[[Argument_Fuchs_2010_RP|Fuchs (2010)]]** 借助深入扎根实证指出，学术界仅依据宏观合同结构得出“DARPA 已死”的结论过于片面，微观非正式治理机制的深层连续性才是机构效能的真正源泉。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1144–1146)]]
 
 ---

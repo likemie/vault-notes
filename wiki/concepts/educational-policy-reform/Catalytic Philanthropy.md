@@ -9,7 +9,7 @@ aliases:
 summary: "指慈善捐助者不以直接提供社会救济或维持日常运营为目的，而是将私营资本作为政策杠杆与催化剂，以撬动公共财政配资、重塑国家法定教育议程、推销因果循证量规并孵化新型中介实体为核心诉求的策略性慈善范式。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Theories of Policy Change]]"
   - "[[Return on Investment]]"
   - "[[Bildung]]"
+  - "[[Seed Funding]]"
   - "[[Epistemology]]"
   - "[[Professional Judgment]]"
   - "[[Disciplina and Doctrina]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-09-29
+updated: 2026-10-04
 ---
 
 # Catalytic Philanthropy
@@ -99,7 +100,7 @@ updated: 2026-09-29
 ## 核心要素
 
 > [!feature] 核心要素
-> - **撬动公共财政的放大器效应（Financial Catalysis and Co-funding）** 催化慈善的资金从不追求包揽全部成本，而是通过先期投入种子基金，向政府施加政治压力，迫使公共财政提供多倍配资（[[Matching]] Funds），实现资本影响力的指数级放大。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520, 526)]]
+> - **撬动公共财政的放大器效应（Financial Catalysis and Co-funding）** 催化慈善的资金从不追求包揽全部成本，而是通过先期投入[[Seed Funding|种子基金]]，向政府施加政治压力，迫使公共财政提供多倍配资（[[Matching]] Funds），实现资本影响力的指数级放大。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520, 526)]]
 > - **因果证据话语垄断（Evidence Monopoly as Trojan Horse）** 将[[Randomised Controlled Trials\|随机对照试验]]（RCT）等特定因果实证工具包包装为“客观中立”的科学标尺，通过催化设立证据中介，迫使公立学校依据量规组织教学。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 530–531)]]
 > - **跨界网络动员能力（Orchestration of Heterogeneous Networks）** 捐赠者充当网络编排者（Network Orchestrator），联合智库、跨国咨询公司与高阶官僚协同游说，形成不可逆的改革势头。
 > - **制度样板与原型示范（Prototype Demonstration）** 率先在部分弱势公立学校开展试验改造，随后以“成功案例”为由游说议会修改法案，实现自下而上的国家立法突破。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 525, 528)]]

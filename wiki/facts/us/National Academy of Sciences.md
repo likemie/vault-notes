@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -38,6 +38,7 @@ related_facts:
   - "[[Bell Labs]]"
   - "[[Office of Scientific Research and Development]]"
   - "[[DARPA]]"
+  - "[[Computing Research Association]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Department of Energy]]"
   - "[[American Association for the Advancement of Science]]"
@@ -74,7 +75,7 @@ updated: 2026-10-04
 > - **1916 — 设立[[National Research Council|国家研究委员会]]（NRC）实现实体化重组** 针对美国卷入第一次世界大战的危机，天文学家乔治·海尔（George Hale）力推设立[[National Research Council|国家研究委员会]]（National Research Council, NRC），作为 NAS 的常设实体操作与政策研究臂膀，极大拓展了科学院动员大学与工业界专家的组织能力。
 > - **1940 年代 — 战时科技动员与布什领导层共振** [[Bell Labs|贝尔实验室]]总裁弗兰克·朱厄特兼任 NAS 院长，与[[Vannevar Bush|万尼瓦尔·布什]]、詹姆斯·科南特深度联手组建国防研究委员会（NDRC）与科学研究与开发局（[[Office of Scientific Research and Development|OSRD]]），科学院核心骨干成为战时科技奇迹的领军者。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 33–34)]]
 > - **1950–1990 年代 — 扩建国家学院联盟与前沿科技史碑报告** 随着美国国家工程院（NAE, 1964）与美国国家医学院（IOM/NAM, 1970）的相继成立，三院统合于同一治理体系下。1999 年 NRC 发表标志性报告《资助一场革命：政府对计算研究的支持》（*Funding a Revolution*），系统论证了联邦资助（尤其是 [[DARPA]] 与 [[National Science Foundation|NSF]]）在开创微处理器、互联网及计算机科学中的决定性先导作用。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1134)]]
-> - **2000 年代至今 — 前沿创新治理监督与基础科研捍卫者** 在 2000 年代初期 DARPA 局长安东尼·泰瑟（[[Tony Tether|Anthony Tether]]）推行研发保密化与短期军用化改组期间，NAS/NRC 成为学术界（如计算研究协会 CRA）向国会反映忧虑、评估颠覆性技术生态健康度与捍卫大学开放基础研究的核心独立发声平台。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134, 1144)]]
+> - **2000 年代至今 — 前沿创新治理监督与基础科研捍卫者** 在 2000 年代初期 DARPA 局长安东尼·泰瑟（[[Tony Tether|Anthony Tether]]）推行研发保密化与短期军用化改组期间，NAS/NRC 成为学术界（如计算研究协会 [[Computing Research Association|CRA]]）向国会反映忧虑、评估颠覆性技术生态健康度与捍卫大学开放基础研究的核心独立发声平台。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134, 1144)]]
 
 ---
 

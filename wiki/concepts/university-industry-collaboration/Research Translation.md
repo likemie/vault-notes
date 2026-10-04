@@ -12,7 +12,7 @@ aliases:
 summary: "连接科学研究发现与实际应用的跨界转化过程，在产学合作中体现为技术成果商业化漏斗，在学校教育中体现为基于因果行动理论的情境再脉络化与微观课例探究，在宏观治理中体现为立足政策时间生态与立法政策简报的法律实质采纳，在前沿科技创新中体现为公共代理人依托嵌入型网络治理、闭合结构洞以引导颠覆性技术轨道的转化系统。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 66
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Professional Judgment]]"
   - "[[Literature Review]]"
+  - "[[Seed Funding]]"
   - "[[Translational Research]]"
   - "[[Document]]"
   - "[[Clinical Trial]]"
@@ -286,7 +287,7 @@ updated: 2026-10-04
 > > [!warrant]- 理论推导与经验依据
 > > 1. **打破纵向离散的结构洞** 在半导体等高精尖领域，学术界的基础材料突破（如应变硅、硅锗）与下游晶圆制造、系统集成商之间存在严重的认知鸿沟与利益断裂。DARPA 项目经理不充当消极套利者，而是通过举办封闭研讨会强制各方对话，主动消除结构洞。
 > > 2. **统一验证平台消除转化摩擦** 设定中立的标准化测试床与协议，使大学的新材料能够在工业界公认的标准下接受检验，消除了企业采用前沿技术的工程不确定性。
-> > 3. **权威背书与资助接力** 获得 DARPA 项目经理立项所带来的技术背书，能有效促使大企业董事会（如 IBM）或风险投资追加量产投资，并在后续顺利接入 [[National Science Foundation|NSF]] 基金进行长期基础理论深化，实现了从国家种子基金到市场主导轨道的完整转化接力。
+> > 3. **权威背书与资助接力** 获得 DARPA 项目经理立项所带来的技术背书，能有效促使大企业董事会（如 IBM）或风险投资追加量产投资，并在后续顺利接入 [[National Science Foundation|NSF]] 基金进行长期基础理论深化，实现了从国家[[Seed Funding|种子基金]]到市场主导轨道的完整转化接力。
 
 ---
 

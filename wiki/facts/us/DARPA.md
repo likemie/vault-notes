@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 41
+fact_related_count: 42
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Broad Agency Announcement]]"
   - "[[Embedded Network Governance]]"
   - "[[Technology Transfer Office]]"
+  - "[[Seed Funding]]"
   - "[[Brainstorming]]"
   - "[[Flow]]"
   - "[[Vertical Disintegration]]"
@@ -127,7 +128,7 @@ updated: 2026-10-04
 > | **保密与成果扩散** | 非保密（Unclassified），研究成果鼓励向全球学术界公开发表 | 强化涉密限制（Classified），严格限制非美籍学者参与关键核心工程 |
 
 > [!proc] 项目经理微观[[Embedded Network Governance|嵌入型网络治理]]的五大非正式运行机制（[[Argument_Fuchs_2010_RP|Fuchs, 2010, pp. 1144–1146]]）
-> 1. **前瞻识别与播撒技术构想（Identifying and Seeding Ideas）** 项目经理深度沉浸于学术前沿与产业网络，敏锐捕捉处于萌芽期的非共识构想，通过小额种子基金播撒共同技术主题，催化产业界从“理论上不可能”向“可工程化实现”认知跃迁。
+> 1. **前瞻识别与播撒技术构想（Identifying and Seeding Ideas）** 项目经理深度沉浸于学术前沿与产业网络，敏锐捕捉处于萌芽期的非共识构想，通过小额[[Seed Funding|种子基金]]播撒共同技术主题，催化产业界从“理论上不可能”向“可工程化实现”认知跃迁。
 > 2. **闭门[[Brainstorming|头脑风暴]]与引导[[Technological Trajectories|技术轨道]]（Brainstorming and Shaping Trajectories）** 绕开传统同行评议的均值化保守偏好，密集组织跨学科闭门研讨会，直面技术瓶颈与物理极限，自下而上共同确立国家战略[[Technological Trajectories|技术轨道]]。
 > 3. **构建共生研发共同体与强制跨界知识流动（Creating Symbiotic Research Communities & Mandatory Information [[Flow]]）** 在垂直[[Vertical Disintegration|纵向碎片化]]（Dis-integrated）的产业生态中，将大学科学家、晶圆代工厂、材料供应商与系统巨头编织进共享团队，利用合同权力强制知识跨壁垒流动，形成互利共生研发网络。
 > 4. **提供独立第三方背书与商业信誉加持（Providing Third-Party Commercial/Strategic Legitimacy）** 项目经理充当客观中立的技术裁判与早期战略投资人，为前沿颠覆性路线提供国家信誉背书，有效撬动私营风险资本与国防主战部队的后续承接投资。
@@ -143,7 +144,7 @@ updated: 2026-10-04
 > - **微处理器架构突破** 资助加州大学伯克利分校与斯坦福大学开发精简指令集计算机（RISC）架构（分别衍生出 SPARC 与 MIPS 架构），为现代高性能工作站、服务器与移动计算芯片确立了底层架构[[Paradigm|范式]]。
 > - **智能移动终端与导航基石** 现代微型 GPS 接收机、半导体微缩制造工艺与 Siri 底层语音认知架构。
 > - **自主智能与无人系统** 激光雷达集成感知系统、现代无人地面车辆（AGV）与自动驾驶基础算法架构。
-> - **生物医药与应急防御** mRNA 核酸药物平台早期种子资助、先进脑机接口（Brain-Computer Interface, BCI）神经修复假肢。
+> - **生物医药与应急防御** mRNA 核酸药物平台[[Seed Funding|早期种子资助]]、先进脑机接口（Brain-Computer Interface, BCI）神经修复假肢。
 > - **无人机空中回收系统（Gremlins 项目）** 在研发中连续遭遇九次试验失败，项目团队持续优化算法与捕获机构，最终成功实现无人机空中对接与机载回收。
 
 > [!citation-card] [[Mariana Mazzucato|马祖卡托]]论 DARPA 的去中心化探索网络

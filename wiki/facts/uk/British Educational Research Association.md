@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Covert Research]]"
   - "[[New Public Management]]"
+  - "[[Seed Funding]]"
   - "[[Research-Practice Partnership]]"
   - "[[Professional Judgment]]"
   - "[[Engagement in and with Research]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # British Educational Research Association
@@ -151,7 +152,7 @@ updated: 2026-10-03
 > > 英国高校普遍推行的 REF 评估体系高度考核顶级学术发表，促使许多学者将精力集中于高影响因子理论论文，而非深入中小学开展繁复的转化协作。
 > >
 > > - **一线学校代表** 指责部分高校研究者高居象牙塔，忽视学校面临的日常棘手挑战。
-> > - **BERA 政策应对** 设立专门的公共影响奖项与种子基金，系统推动高校与学区建立长期“[[Research-Practice Partnership\|研究-实践伙伴关系]]”（RPP）。
+> > - **BERA 政策应对** 设立专门的公共影响奖项与[[Seed Funding|种子基金]]，系统推动高校与学区建立长期“[[Research-Practice Partnership\|研究-实践伙伴关系]]”（RPP）。
 
 > [!citation-card] 教师[[Research Literacy\|研究素养]]的战略价值
 > 建设具备自我完善能力的教育系统，其关键在于使教师具备高度的研究素养，从而能够批判性地理解、辨析并适切运用科研证据，而非机械执行外部行政规程。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, p. 142)]]

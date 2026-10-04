@@ -7,7 +7,7 @@ aliases:
 summary: "由 Dosi 与 Pavitt 奠基的演化经济学核心理论，指技术变迁沿特定范式方向进行累积性、不可逆与路径依赖的演进；阐明技术来源、需求与专有性塑造产业异质性，以及国家如何通过三代使命政策、嵌入型网络治理与敏捷动态能力在碎片化产业中引导与协同新兴技术轨道"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 51
+theory_related_count: 52
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Agile Governance]]"
   - "[[Determinism]]"
+  - "[[Seed Funding]]"
   - "[[Lead-and-Learn Paradigm]]"
   - "[[Network Governance]]"
 related_theories:
@@ -242,7 +243,7 @@ updated: 2026-10-04
 > > 探讨产业政策在引导技术演进时的介入机制与正当性边界。
 > >
 > > - **新古典产业政策批评派** 批评政府不具备识别具体优胜企业的信息能力，直接资助特定厂商极易扭曲市场竞争并引发寻租腐败。
-> > - **[[Embedded Network Governance|嵌入型网络治理]]学派（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）** 实证表明，公共代理人（如 [[DARPA]] PMs）并非直接挑选单一企业赢家，而是通过小额种子资助、组织闭门[[Brainstorming|头脑风暴]]与搭建跨界研发共同体，在共性技术层面播撒构想并调动[[Network Plasticity|网络可塑性]]，系统引导国家前沿技术轨道跃迁。
+> > - **[[Embedded Network Governance|嵌入型网络治理]]学派（[[Argument_Fuchs_2010_RP|Fuchs, 2010]]）** 实证表明，公共代理人（如 [[DARPA]] PMs）并非直接挑选单一企业赢家，而是通过小额[[Seed Funding|种子资助]]、组织闭门[[Brainstorming|头脑风暴]]与搭建跨界研发共同体，在共性技术层面播撒构想并调动[[Network Plasticity|网络可塑性]]，系统引导国家前沿技术轨道跃迁。
 > 
 ---
 

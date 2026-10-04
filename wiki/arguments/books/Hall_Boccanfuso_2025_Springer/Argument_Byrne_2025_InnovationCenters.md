@@ -33,6 +33,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Research Universities]]"
   - "[[Learning Analytics]]"
+  - "[[Seed Funding]]"
   - "[[Research Question]]"
   - "[[Creativity]]"
 related_theories:
@@ -60,14 +61,14 @@ part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 related_instruments: []
 status: draft
 created: 2026-05-28
-updated: 2026-09-07
+updated: 2026-10-04
 subtype: book-chapter
 publication_type: book
 title: "Argument_Byrne_2025_InnovationCenters"
 argument_key: "Argument_Byrne_2025_InnovationCenters"
 argument_display_title: "Innovation Centers and Economic Development"
 argument_kind: "book"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -316,7 +317,7 @@ citation_aliases:
 
 20. 除联邦层面外，多个州的创新资金机制也值得关注(pp.133–134)。
 
-    马萨诸塞州尽管已拥有全美排名最高的生命科学集群，仍维持着一个 16 亿美元的基金，用于支持劳动力培训、税收和基础设施发展信用，并种子资助全州的开发和商业化活动。
+    马萨诸塞州尽管已拥有全美排名最高的生命科学集群，仍维持着一个 16 亿美元的基金，用于支持劳动力培训、税收和基础设施发展信用，并[[Seed Funding|种子资助]]全州的开发和商业化活动。
 
     北卡罗来纳州的 NCInnovation 是一个 5 亿美元的州级捐赠基金，旨在促进全州大学系统的合作与成功商业化。
 

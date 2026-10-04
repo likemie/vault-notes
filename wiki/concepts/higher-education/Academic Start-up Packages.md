@@ -9,7 +9,7 @@ aliases:
 summary: "研究型大学向新招聘理工科教职人员提供的专属科研启动资金包，用于实验室装修、昂贵科研仪器购置、研究生与博士后津贴及前三年日常运转，是学者在缺乏外部资助时获取预实验数据参与项目竞争的生存期资助工具。"
 type: concept
 domain: "higher-education"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Shopping Mall Model of Research Universities]]"
   - "[[Star Scientists]]"
+  - "[[Seed Funding]]"
   - "[[Indirect Costs of Research]]"
   - "[[Document]]"
   - "[[Academic Risk Aversion]]"
@@ -68,7 +69,7 @@ updated: 2026-10-04
 
 > [!boundary] 概念边界与适用范围
 > - **区别于个人签约奖金（Signing Bonus）** — 签约奖金直接作为个人可支配收入发放；科研启动金由大学财务部门设立专户核销，严格限定用于课题组实验用工、设备与耗材等科研生产要素。
-> - **区别于常规校级种子基金（Seed Grants）** — 校级种子基金通常面向全体在校教师通过内部评审小额竞争；启动配套金是在教职招聘谈判时一对一确定、额度远超常规种子基金的硬性聘任承诺。
+> - **区别于常规校级[[Seed Funding|种子基金]]（Seed Grants）** — 校级种子基金通常面向全体在校教师通过内部评审小额竞争；启动配套金是在教职招聘谈判时一对一确定、额度远超常规种子基金的硬性聘任承诺。
 > - **学科适用边界** — 主要盛行于重资产、重实验用工的自然科学、工程学、生命科学与基础医学院系；在对大型仪器设备与科研团队依赖较低的人文与社会科学领域规模极小。
 
 > [!citation-card] 斯蒂芬论启动配套金的商铺孵化性质

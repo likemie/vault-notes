@@ -38,6 +38,7 @@ related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Entrepreneurial University]]"
   - "[[Cognitive Deskilling]]"
+  - "[[Seed Funding]]"
   - "[[Citizen Science]]"
   - "[[Directionality of Innovation]]"
   - "[[Growth]]"
@@ -69,14 +70,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-04
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Mazzucato_2018_ICC"
 argument_key: "Argument_Mazzucato_2018_ICC"
 argument_display_title: "Mission-oriented innovation policies: challenges and opportunities"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -258,7 +259,7 @@ argument_related_color: "#dbeafe"
 > 美国国立卫生研究院（National Institutes of Health, NIH）每年投入数百亿美元公共资金资助了绝大多数新药的最早期高风险基础研究，而私人风险投资与跨国药企通常在药物通过早期高风险临床前验证后才进场收购专利（Lazonick & Tulum, 2011; Angell, 2005; Pisano, 2006）。纳税人不仅通过税收承担了新药最艰难阶段的研发成本，还要在终端市场上为救命药物支付高昂的垄断天价，形成了典型的“双重付费”（Paying twice）体制不公。（pp. 809–810）
 
 > [!proc] 公共部门风险与收益对称共享的制度工具箱
-> 1. **股权保留与黄金股** 政府在提供大额高风险贷款或种子基金时，保留部分股权认购权或知识产权（Intellectual Property Rights, IPR）黄金股，使公共财政能够直接从成功的商业突破中获得资本增值回报。（p. 809）
+> 1. **股权保留与黄金股** 政府在提供大额高风险贷款或[[Seed Funding|种子基金]]时，保留部分股权认购权或知识产权（Intellectual Property Rights, IPR）黄金股，使公共财政能够直接从成功的商业突破中获得资本增值回报。（p. 809）
 > 2. **特许权使用费提成** 对由公共研发基金直接催生的商业化专利产品，设定固定比例的销售特许权提成，反哺公共创新基金的长期可持续运转。（p. 809）
 > 3. **收入挂钩型贷款** 企业在未实现盈利前无需偿还贷款，一旦年收入达到特定门槛，则按超额收益比例偿还本息，平衡企业早期研发压力与公共回报。（p. 809）
 > 4. **公共资助产品价格管制** 对完全由纳税人资金资助研发的核心民生产品（如重磅救命药物），在采购和市场准入协议中强制设立最高零售价格上限，保障公众福祉。（p. 809）

@@ -20,6 +20,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Funding Exit Mechanism]]"
   - "[[Embedded Network Governance]]"
   - "[[Network Governance]]"
   - "[[Network Plasticity]]"
@@ -31,6 +32,7 @@ related_concepts:
   - "[[Star Scientists]]"
   - "[[Broad Agency Announcement]]"
   - "[[Saturation]]"
+  - "[[Seed Funding]]"
   - "[[Professional Judgment]]"
   - "[[DARPA Model]]"
   - "[[Artefact]]"
@@ -60,8 +62,11 @@ related_facts:
   - "[[Mansfield Amendment 1969]]"
   - "[[Sematech]]"
   - "[[Sputnik Shock 1957]]"
+  - "[[Computing Research Association]]"
+  - "[[Defense Sciences Research Council]]"
   - "[[National Academy of Sciences]]"
   - "[[National Science Foundation]]"
+  - "[[Information Science and Technology Study Group]]"
 related_arguments: []
 sources:
   - "[[sources/Fuchs_2010_RP|Fuchs_2010_RP]]"
@@ -75,7 +80,7 @@ title: "Argument_Fuchs_2010_RP"
 argument_key: "Argument_Fuchs_2010_RP"
 argument_display_title: "Rethinking the role of the state in technology development: DARPA and the case for embedded network governance"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -95,7 +100,7 @@ issuing_organization: ""
 > 长期以来，关于政府在科技创新政策中适切角色的学术论战普遍深陷于两大传统阵营的二元对立：新自由主义自由市场派主张国家职能应严格限于税收优惠、普遍补贴与不设定向的基础科研出资，由市场价格机制自发决定技术胜出者；而中央计划与发展型国家学派则主张由国家科层自上而下选定战略产业与技术赢家（Picking winners）。然而，这两种[[Paradigm|范式]]均无法充分解释美国战后高科技产业（如互联网、个人计算机、激光与现代半导体）的核心源头——[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, [[DARPA]]）长达五十年的治理实践。更为棘手的是，在 2001 至 2008 年[[Tony Tether|托尼·瑟瑟]]（Tony Tether）出任局长期间，DARPA 经历了历史上最剧烈的采办机制改革，将研发资金由大学大幅转移至军工与产业巨头，并推行严苛的阶段性里程碑考核，招致计算机科学学术界关于经典模式已死的强烈抗议。本文旨在解答：国家究竟能否以及如何超越市场放任与科层挑选赢家的二分法，在前沿硬科技领域主动识别并引导[[Technological Trajectories|技术轨道]]？[[Tony Tether|托尼·瑟瑟]]任期内引发巨大争议的激进重组是否真的终结了 DARPA 的核心运作机制？（pp. 1133–1135）
 
 > [!claim] 核心主张
-> DARPA 之所以能够在不自上而下指定单一技术赢家的前提下成功开辟颠覆性技术轨道，其根基并不在于表层容易变动的采办合同条规或[[Organizational Culture|组织文化]]话语，而在于项目经理之间长期稳定维系的一套微观非正式制度；在 2001 年前后两任领导期内，尽管受资助对象与宏观合同结构发生剧烈重组，但这套由识别前沿方向、播撒共同主题、工作坊强制知识流动、第三方权威背书以及适时断乳退出构成的非正式治理制度完全稳定延续。据此，科技政策制定必须在传统市场与科层之间引入一个全新的理论范式——[[Embedded Network Governance|嵌入型网络治理]]（Embedded [[Network Governance]]），即具备深厚专业认知并身处网络中心节点的公共代理人，主动依托[[Network Plasticity|网络可塑性]]重塑科学家与企业之间的研发社会网络，以此应对[[Vertical Disintegration|纵向碎片化产业生态]]并引导国家战略技术轨道。（pp. 1133–1135, 1144–1146）
+> DARPA 之所以能够在不自上而下指定单一技术赢家的前提下成功开辟颠覆性技术轨道，其根基并不在于表层容易变动的采办合同条规或[[Organizational Culture|组织文化]]话语，而在于项目经理之间长期稳定维系的一套微观非正式制度；在 2001 年前后两任领导期内，尽管受资助对象与宏观合同结构发生剧烈重组，但这套由识别前沿方向、播撒共同主题、工作坊强制知识流动、第三方权威背书以及[[Funding Exit Mechanism|适时断乳退出]]构成的非正式治理制度完全稳定延续。据此，科技政策制定必须在传统市场与科层之间引入一个全新的理论范式——[[Embedded Network Governance|嵌入型网络治理]]（Embedded [[Network Governance]]），即具备深厚专业认知并身处网络中心节点的公共代理人，主动依托[[Network Plasticity|网络可塑性]]重塑科学家与企业之间的研发社会网络，以此应对[[Vertical Disintegration|纵向碎片化产业生态]]并引导国家战略技术轨道。（pp. 1133–1135, 1144–1146）
 
 > [!concept-lens] 阅读透镜
 > - **对象** DARPA 微系统技术办公室（Microsystems Technology Office, MTO）在 1992 至 2008 年间资助推进摩尔定律极限的四项半导体关键材料技术（硅锗 SiGe、应变硅 strained Si、三维封装技术、硅基集成光子学）。（p. 1134）
@@ -193,19 +198,19 @@ issuing_organization: ""
 > | **主承包商资质限制** | 招标对所有机构开放，任何大学实验室或初创企业均可独立作为主承包商竞标 | 多数重大招标直接排除大学与初创公司单独竞标主承包商资格，强制要求组建以老牌系统巨头为主承包商的攻关联合体 |
 
 > [!warrant]- 历史争议的解释切口
-> 托尼·瑟瑟推行的考核改革引发了美国计算机研究协会（Computing Research Association, CRA）等学术团体的强烈抗议，学者担忧 DARPA 正在丧失支持长期自由探索的传统优势。然而，仅观察资助对象与合同形式的宏观变化，容易忽视微观层面实际运行的组织机制；要真正理解 DARPA 的运作逻辑，必须深入考察具体技术项目中项目经理的日常治理行动。（pp. 1134–1135, 1138）
+> 托尼·瑟瑟推行的考核改革引发了[[Computing Research Association|美国计算机研究协会]]（Computing Research Association, CRA）等学术团体的强烈抗议，学者担忧 DARPA 正在丧失支持长期自由探索的传统优势。然而，仅观察资助对象与合同形式的宏观变化，容易忽视微观层面实际运行的组织机制；要真正理解 DARPA 的运作逻辑，必须深入考察具体技术项目中项目经理的日常治理行动。（pp. 1134–1135, 1138）
 
 ---
 
 ### 论证步骤二　实证案例追踪揭示项目经理跨越不同领导期稳定执行五大微观非正式治理机制
 
 > [!claim] 步骤二核心主张
-> 无论是在 1990 年代资助大学基础研究，还是在 2000 年代管理企业联合体合同，DARPA 项目经理始终依靠五项微观非正式机制引导前沿技术：识别方向、播撒共同主题、工作坊促进知识流动、提供第三方背书以及适时退出断乳；宏观政策调整并未改变这一微观治理内核。（pp. 1139–1144）
+> 无论是在 1990 年代资助大学基础研究，还是在 2000 年代管理企业联合体合同，DARPA 项目经理始终依靠五项微观非正式机制引导前沿技术：识别方向、播撒共同主题、工作坊促进知识流动、提供第三方背书以及[[Funding Exit Mechanism|适时退出断乳]]；宏观政策调整并未改变这一微观治理内核。（pp. 1139–1144）
 
 #### 1. 1990 年代硅锗与应变硅案例展现了项目经理重塑科学家网络的微观机制
 
 > [!method-position] 突破技术方向的前瞻识别
-> 在 1992 至 2001 年间，面对硅晶体管物理极限挑战，项目经理通过对接军方需求、走访高校实验室以及依托国防科学研究理事会（Defense Sciences Research Council, DSRC）召集顶尖学者研讨，主动识别突破方向；在明确方向后，项目经理将前沿构想转化为共同研发主题，同时资助此前互不协作甚至存在竞争关系的顶尖学者。（pp. 1139–1141）
+> 在 1992 至 2001 年间，面对硅晶体管物理极限挑战，项目经理通过对接军方需求、走访高校实验室以及依托[[Defense Sciences Research Council|国防科学研究理事会]]（Defense Sciences Research Council, DSRC）召集顶尖学者研讨，主动识别突破方向；在明确方向后，项目经理将前沿构想转化为共同研发主题，同时资助此前互不协作甚至存在竞争关系的顶尖学者。（pp. 1139–1141）
 
 > [!row-contrast] Table 3：1990 年代中期 DARPA 项目经理召集研讨碳纳米管的跨界专家构成
 > | 科学家姓名 | 保罗·罗宾逊（Paul Robinson） | 理查德·斯莫利（Richard Smalley） | 查尔斯·利伯（Charles Lieber） |
@@ -227,7 +232,7 @@ issuing_organization: ""
 > | **此前是否存在合著或实质合作** | **无（None）** | **无（None）** | 1998 年获 IBM 教师奖（因 DARPA 资助促成结识） |
 
 > [!proc] 1990 年代项目经理的微观治理机制推进流程
-> 1. **方向敏捷识别** 项目经理在走访 UCLA 时，杰森·吴出示了能隙随锗含量变化的初步数据点；项目经理要求补充第三个验证数据点，收到传真后立即启动种子资助。（p. 1140）
+> 1. **方向敏捷识别** 项目经理在走访 UCLA 时，杰森·吴出示了能隙随锗含量变化的初步数据点；项目经理要求补充第三个验证数据点，收到传真后立即启动[[Seed Funding|种子资助]]。（p. 1140）
 > 2. **播撒共同主题** 在资助吴的同时致电 IBM 专家迈耶森并资助 200 万美元；在绝缘体上硅（Silicon-on-Insulator, SOI）研发中，并行资助林肯实验室（薄膜技术）与 IBM（厚膜技术）展开良性技术赛马。（pp. 1140–1141）
 > 3. **培育社群与促进知识流动** 鉴于顶尖学者通常对早期成果保密，DARPA 强制要求菲茨杰拉德与迈耶森参加闭门研讨会互通进展，打破机构壁垒。（pp. 1141–1142）
 > 4. **第三方权威背书** DARPA 的立项与验证促使 IBM 董事会下定决心自筹资金建立量产部门，并帮助大学学者后续顺利获得[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）资助。（pp. 1142–1143）
@@ -239,13 +244,13 @@ issuing_organization: ""
 > | 攻关阶段与指标 | 第一阶段（Phase I） | 第二阶段（Phase II） | 第三阶段（Phase III） |
 > |---|---|---|---|
 > | **立项拨款时间** | 2006 年 2 月 | 2006 年 11 月 | 2008 年 3 月 |
-> | **阶段目标与定位** | 超级种子轮：<br>硅基纳米光子器件制造与可行性验证 | 概念网络设计与验证：<br>在微处理器产业界确立技术可信度 | 系统级芯片集成攻关：<br>光电融合单芯片系统级突破（4400 万美元） |
+> | **阶段目标与定位** | [[Seed Funding\|超级种子轮]]：<br>硅基纳米光子器件制造与可行性验证 | 概念网络设计与验证：<br>在微处理器产业界确立技术可信度 | 系统级芯片集成攻关：<br>光电融合单芯片系统级突破（4400 万美元） |
 > | **执行周期跨度** | 9 个月 | 2 年（每 6 个月设置硬性考核里程碑） | 5 年半 |
 > | **主承包商名单** | 1. HP<br>2. IBM<br>3. Sun Microsystems<br>4. MIT I（Kimerling & Agarwal 团队）<br>5. Analog Devices (?) | 1. HP<br>2. IBM<br>3. Sun Microsystems<br>4. MIT I 团队 | 1. Sun Microsystems（最终胜出独家总包） |
 > | **联合体子成员构成** | 1. 待定<br>2. Luxtera（初创企业）<br>3. Luxtera<br>4. BAE Systems<br>5. MIT II（Ram 团队） | 1. Intel<br>2. Luxtera<br>3. Luxtera<br>4. BAE Systems | 1. Luxtera、Kotura（初创企业）；<br>Stanford、UCLA（顶尖大学实验室） |
 
 > [!proc] 2000 年代产业联合体中的微观治理机制推进流程
-> 1. **方向敏捷识别** 项目经理常态化向学者与工程师询问技术可行边界，捕捉光电融合的最新进展。（p. 1143）
+> 1. **方向敏捷识别** 项目经理常态化向学者与工程师询问技术可行边界，结合[[Information Science and Technology Study Group|信息科学与技术研究小组]]（ISAT）与 DSRC 的研讨研判，捕捉光电融合的最新进展。（p. 1143）
 > 2. **播撒共同主题** 围绕片内光通信目标，并行支持 6 个采取不同机理方案的联合体；要求初创公司与大学融入老牌系统厂商团队。（pp. 1143–1144）
 > 3. **培育社群与促进知识流动** 强制竞争对手在半年度评审会上互评方案；要求初创元器件设计必须兼容主流芯片代工厂标准。
 > 4. **第三方权威背书** 严格的阶段考核向产业链传递明确的技术可行信号，降低外部投资风险。（p. 1144）

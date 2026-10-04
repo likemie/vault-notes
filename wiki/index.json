@@ -10587,6 +10587,22 @@
     ]
   },
   {
+    "title": "Funding Exit Mechanism",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Funding Exit Mechanism.md",
+    "aliases": [
+      "断乳机制",
+      "科研资助退出机制",
+      "科技资助断乳",
+      "研发退出策略",
+      "适时断乳退出",
+      "适时退出断乳",
+      "De-weaning",
+      "Funding Exit Strategy",
+      "Weaning mechanism"
+    ]
+  },
+  {
     "title": "Grand Challenges",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Grand Challenges.md",
@@ -10770,6 +10786,19 @@
       "第二货源许可",
       "第二来源供货",
       "Second sourcing"
+    ]
+  },
+  {
+    "title": "Seed Funding",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Seed Funding.md",
+    "aliases": [
+      "种子资助",
+      "种子基金",
+      "战略性种子资助",
+      "早期种子资助",
+      "Strategic Seeding",
+      "Seed money"
     ]
   },
   {
@@ -28250,6 +28279,16 @@
     ]
   },
   {
+    "title": "Computing Research Association",
+    "type": "fact",
+    "path": "wiki/facts/us/Computing Research Association.md",
+    "aliases": [
+      "美国计算机研究协会",
+      "计算机研究协会",
+      "CRA"
+    ]
+  },
+  {
     "title": "Council for Aid to Education",
     "type": "fact",
     "path": "wiki/facts/us/Council for Aid to Education.md",
@@ -28278,6 +28317,16 @@
       "Defense Advanced Research Projects Agency",
       "国防高级研究计划局",
       "ARPA"
+    ]
+  },
+  {
+    "title": "Defense Sciences Research Council",
+    "type": "fact",
+    "path": "wiki/facts/us/Defense Sciences Research Council.md",
+    "aliases": [
+      "国防科学研究理事会",
+      "DSRC",
+      "DARPA Defense Sciences Research Council"
     ]
   },
   {
@@ -28353,6 +28402,17 @@
       "亨特教育领导力与政策研究所",
       "詹姆斯·B·亨特教育领导力与政策研究所",
       "The Hunt Institute"
+    ]
+  },
+  {
+    "title": "Information Science and Technology Study Group",
+    "type": "fact",
+    "path": "wiki/facts/us/Information Science and Technology Study Group.md",
+    "aliases": [
+      "信息科学与技术研究小组",
+      "ISAT",
+      "DARPA ISAT",
+      "ISAT Study Group"
     ]
   },
   {

@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_display_title: "Chapter one: Education"
 argument_kind: "book-chapter"
-argument_related_count: 54
+argument_related_count: 55
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -61,6 +61,7 @@ related_concepts:
   - "[[Science Capital]]"
   - "[[Attrition]]"
   - "[[Authentic Science Practices]]"
+  - "[[Seed Funding]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Teacher Professional Agency]]"
   - "[[Academic Achievement]]"
@@ -94,7 +95,7 @@ sources:
 part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 status: draft
 created: 2026-08-22
-updated: 2026-09-21
+updated: 2026-10-04
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch01
 
@@ -223,7 +224,7 @@ updated: 2026-09-21
 > [!case] 案例研究：真实科研课题探究与课外 STEM 拓展机制（[[Authentic Science Practices|authentic inquiry]] & STEM Enrichment）
 > - **[[CREST Awards\|CREST]] 科学与技术成就奖的分级探究与阶层赋权** 详见 [[CREST Awards]]：由英国科学协会（BSA）设立的国家级分级探究奖励机制（Star/Bronze/Silver/Gold），支持中学生自主选定具有现实应用价值的长周期工程与科学课题；独立实证评估（Pro Bono Economics, 2016）证实，参与 CREST Silver/Gold 探究的学生后续选修 STEM A-levels 的比例显著提高，且对弱势背景（FSM）学生的阶层流动与科学抱负提升幅度尤为突出（达 38%）。
 > - **[[Institute for Research in Schools\|学校科研研究所]]（IRIS）的前沿科研数据直通模式** 详见 [[Institute for Research in Schools]]：搭建中学与顶尖高校、[[CERN|欧洲核子研究组织]]（CERN）及产业实验室的深度合作网络，让中学生直接分析真实粒子对撞数据、开展基因测序与平流层空间探测，彻底将学生从教科书验证者转变为真正未知问题的探究者。
-> - **皇家学会伙伴资助计划（Partnership Grants）的科研共同体协同** 每年为学校与一线科研人员/工程师联合申报的实验项目提供专项种子基金，科研人员深度嵌入课堂探究指导，作为鲜活的学术与行业榜样（Role Models），直接扩充弱势青少年的科学社会资本网络。
+> - **皇家学会伙伴资助计划（Partnership Grants）的科研共同体协同** 每年为学校与一线科研人员/工程师联合申报的实验项目提供专项[[Seed Funding|种子基金]]，科研人员深度嵌入课堂探究指导，作为鲜活的学术与行业榜样（Role Models），直接扩充弱势青少年的科学社会资本网络。
 > - **课外拓展活动（STEM Enrichment）对大纲局限的生态补偿** 通过课后科技社团、机器人工程挑战赛与野外生态考察，有效弥补国家核心大纲中工程技术与野外调查的缺失，为不同兴趣倾向的学生提供多元赋能通道。
 > - **体制化普惠保障与国家专项基金建言** 揭示当前优质真实探究高度依赖少数热心教师（Champion Teachers）与外部非政府赞助的脆弱现状，明确呼吁英国政府设立国家级专项基金（Ring-fenced Funding），将参与真实科研探究与课外拓展确立为所有学校的制度化普惠权利。（p. 33）
 

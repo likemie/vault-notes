@@ -9,7 +9,7 @@ title: "Argument_Slavin_2019_EP"
 argument_key: "Argument_Slavin_2019_EP"
 argument_display_title: "How evidence-based reform will transform research and practice in education"
 argument_kind: "journal-article"
-argument_related_count: 98
+argument_related_count: 99
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[School Choice]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Seed Funding]]"
   - "[[Developer-Made Measures]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Gatekeepers]]"
@@ -135,7 +136,7 @@ related_persons:
   - "[[Nancy Madden]]"
 status: draft
 created: 2026-05-01
-updated: 2026-09-18
+updated: 2026-10-04
 ---
 # Argument_Slavin_2019_EP
 
@@ -269,7 +270,7 @@ updated: 2026-09-18
 > | 资助计划 / 机构 | 资助分层与成熟度阶梯 | 资金体量与立项规模 | 核心评估机制与硬性约束 |
 > |---|---|---|---|
 > | **美国 [[Investing in Innovation Program\|i3]] / [[Education Innovation and Research\|EIR]] 计划**<br>（2009–2016 / 2017–至今） | **三级梯次资助**<br>• 开发类（Development）：最高 300 万美元（115 项）<br>• 验证类（Validation）：最高 1200 万美元（45 项）<br>• 规模化（Scale-up）：最高 2500–3000 万美元（11 项） | 累计投入逾 14 亿美元，累计立项 171 项干预方案 | 绝大多数项目强制要求委托第三方 [[Randomised Controlled Trials\|RCT]] 独立评估；机制后由 EIR 承继（pp. 23–24） |
-> | **英国 [[Education Endowment Foundation\|EEF]] 试验平台**<br>（2011 年设立） | **全链条试验孵化**<br>为中小学具有实证前景的教学方案提供全额第三方实地试验资助 | 1.25 亿英镑战略种子基金，累计资助 180+ 项现场试验 | 建立独立评估专家库与三方资助隔离防火墙，成为全球最大规模的教育 RCT 资助平台（p. 24） |
+> | **英国 [[Education Endowment Foundation\|EEF]] 试验平台**<br>（2011 年设立） | **全链条试验孵化**<br>为中小学具有实证前景的教学方案提供全额第三方实地试验资助 | 1.25 亿英镑战略[[Seed Funding\|种子基金]]，累计资助 180+ 项现场试验 | 建立独立评估专家库与三方资助隔离防火墙，成为全球最大规模的教育 RCT 资助平台（p. 24） |
 
 > [!policy-design] 循证资助管线确立的方法学质量约束（pp. 24–25）
 > - **剔除自编过度对齐测验** 严格排除[[Developer-Made Measures\|开发者自编测验]]，根除[[Effect Size\|效应量]]被人为虚夸 50% 至 100% 的虚假繁荣。
