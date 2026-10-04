@@ -7,7 +7,7 @@ aliases:
 summary: "所有权成本（Cost of Ownership, COO）是评估制造装备与研发设施全生命周期单位产出综合成本的标准模型。该模型综合纳入初始资本折旧、日常运维、停机损失及良率损失，确立了单位合格品成本测算标准，是产学研协同与技术验证的核心基准。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -41,6 +41,7 @@ related_facts:
   - "[[Sematech]]"
 related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
+  - "[[Argument_Macher_1998_CMR]]"
 confidence: high
 status: active
 created: 2026-10-04
@@ -114,8 +115,8 @@ updated: 2026-10-04
 > [!concept-lens] 供应链激励与技术升级机制
 > 传统设备采购中买方常利用买方垄断地位压低供应商设备标价，导致设备商缩减工程设计与[[Reliability|可靠性]]测试预算，最终在晶圆厂运行中因频繁故障和良率损失导致巨额隐形成本。
 
-> [!claim] Grindley, P. C., [[David C. Mowery|Mowery, D. C.]], & Silverman, B. S.
-> **采购激励机制重构** 在 [[Sematech]] 的推动下，全行业建立起统一的 COO 模型（后上升为 SEMI 行业标准）。芯片制造商不再单纯依据采购单价压榨上游供应商，而是根据设备在 5 年生命周期内的单位产出综合成本进行竞标，促使设备商将研发重点由“拼低价”转向“提升平均无故障工作时间（MTBF）与工艺良率”，使关键设备运行成本降低高达 50%。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]
+> [!claim] Grindley, P. C., [[David C. Mowery|Mowery, D. C.]], & Silverman, B. S.; Macher, J. T., Mowery, D. C., & Hodges, D. A.
+> **采购激励机制重构** 在 [[Sematech]] 的推动下，全行业建立起统一的 COO 模型（后上升为 SEMI 行业标准）。芯片制造商不再单纯依据采购单价压榨上游供应商，而是根据设备在 5 年生命周期内的单位产出综合成本进行竞标，促使设备商将研发重点由“拼低价”转向“提升平均无故障工作时间（MTBF）与工艺良率”，使关键设备运行成本降低高达 50%。Macher 等人进一步指出，COO 模型的确立是联盟最持久的制度遗产之一，它将零和对抗的买卖关系转化为基于全生命周期经济学的长期战略契约。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 121–122)]]
 
 ---
 
@@ -134,7 +135,7 @@ updated: 2026-10-04
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **供应链升级与激励重构** | 以生命周期单位成本替代采购单价，驱动供应商聚焦可靠性与良率提升 | 复杂高端制造装备供应链与技术采购 | Grindley, Mowery, & Silverman |
+> | **供应链升级与激励重构** | 以生命周期单位成本替代采购单价，驱动供应商聚焦可靠性与良率提升 | 复杂高端制造装备供应链与技术采购 | Grindley, Mowery, & Silverman; Macher, Mowery, & Hodges |
 > | **产学研协同与中试验证** | 提供可量化的经济效能度量标准，降低新技术跨越死亡之谷的验证成本 | 中试平台、[[University Spin-Out\|大学衍生企业]]与共性技术联盟 | Grindley, Mowery, & Silverman |
 
 ---
@@ -143,7 +144,7 @@ updated: 2026-10-04
 
 > [!dev-timeline] 概念演变
 > - **1980 年代初 — 传统单价采购阶段** 半导体及重型装备采购主要依赖单台设备购置价格谈判，忽视隐性停机成本与缺陷损失。
-> - **1989–1992 年 — [[Sematech]] 与 SEMI 标准化阶段** SEMATECH 联合国际半导体设备与材料协会（SEMI）开发出标准 COO 数学模型与专用计算软件，随后确立为 SEMI E35 标准，成为全球半导体行业的通用准则。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]
+> - **1989–1992 年 — [[Sematech]] 与 SEMI 标准化阶段** SEMATECH 联合国际半导体设备与材料协会（SEMI）开发出标准 COO 数学模型与专用计算软件，随后确立为 SEMI E35 标准，成为全球半导体行业的通用准则。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 121–122)]]
 > - **2000 年代至今 — 跨行业与重大科研基础设施拓展** COO 模型从微电子制造广泛拓展至光伏新能源、大型生物制药反应器、国家实验室[[Megascience Installations|大科学装置]]及高校共享实验平台的运行效能评估。
 
 ---
@@ -167,6 +168,7 @@ updated: 2026-10-04
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] | 1988–1992 年美国半导体制造与设备产业（[[Sematech]] 合作项目及 11 项工程案例） | 产业追踪与多案例定性/定量分析 | 设备运行成本、MTBF、[[Assemblage\|装配]]调试周期 | 推广 COO 与 [[Statistical Process Control\|SPC]] 后，设备生命周期运行成本削减最高达 50%，在役设备 MTBF 显著倍增，新设备调试周期由数月缩短至数周 | 描述性产业案例统计，无推断性统计检验 | 结果反映纵向协同与工程工具推广的综合成效，不可单独归因于单一财务模型 |
+> | [[Argument_Macher_1998_CMR\|Macher et al. (1998)]] | 1980–1997 年美日半导体制造装备与材料产业（SME 供应商与晶圆厂数据） | 宏观产业追踪与微观标杆案例分析 | 设备[[Reliability\|可靠性]]、买卖双方合作研发密度、全球装备市场份额 | COO 模型标准化消除了买卖双方信息不对称，驱动美国装备商在 1992 年以 51% 份额重夺全球第一，奠定了设备供应链长期竞争壁垒 | 描述性统计与产业案例，结合伯克利 CSM 现场调研 | 份额回升兼受宏观日元升值与日本投资紧缩影响，COO 提供了微观工程能力支撑 |
 
 ---
 
@@ -174,3 +176,4 @@ updated: 2026-10-04
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 详述 [[Sematech]] 如何通过开发与推广 COO 标准模型，重塑半导体设备买卖双方长期信任并降低装备生命周期运行成本。
+> - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 论证 COO 标准化与技术路线图如何作为制度基础设施，支撑美国半导体装备产业实现制造能力重构与全球份额逆转。

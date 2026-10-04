@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "VLSI Project",
-      "path": "wiki/facts/east-asia/VLSI Project.md"
-    },
-    {
       "basename": "Argument_Macher_1998_CMR",
       "path": "wiki/arguments/journal-articles/California Management Review/Argument_Macher_1998_CMR.md"
     },
     {
+      "basename": "Technological Trajectories",
+      "path": "wiki/theories/political-economy-geopolitics/Technological Trajectories.md"
+    },
+    {
+      "basename": "Bell Labs",
+      "path": "wiki/facts/us/Bell Labs.md"
+    },
+    {
+      "basename": "Corporate R&D Labs",
+      "path": "wiki/concepts/university-industry-collaboration/Corporate R&D Labs.md"
+    },
+    {
+      "basename": "Sematech",
+      "path": "wiki/facts/us/Sematech.md"
+    },
+    {
+      "basename": "Fair Market Value",
+      "path": "wiki/concepts/university-industry-collaboration/Fair Market Value.md"
+    },
+    {
+      "basename": "Cost of Ownership",
+      "path": "wiki/concepts/university-industry-collaboration/Cost of Ownership.md"
+    },
+    {
       "basename": "Industrial Benchmarking",
       "path": "wiki/methods/quantitative/Industrial Benchmarking.md"
+    },
+    {
+      "basename": "VLSI Project",
+      "path": "wiki/facts/east-asia/VLSI Project.md"
     },
     {
       "basename": "1986 U.S.-Japan Semiconductor Trade Agreement",
@@ -47,10 +71,6 @@
     {
       "basename": "Argument_Fuchs_2010_RP",
       "path": "wiki/arguments/journal-articles/Research Policy/Argument_Fuchs_2010_RP.md"
-    },
-    {
-      "basename": "Sematech",
-      "path": "wiki/facts/us/Sematech.md"
     },
     {
       "basename": "Pilot Scale Platform",
@@ -137,14 +157,6 @@
       "path": "wiki/theories/sociology-of-education/Organizational Culture.md"
     },
     {
-      "basename": "Technological Trajectories",
-      "path": "wiki/theories/political-economy-geopolitics/Technological Trajectories.md"
-    },
-    {
-      "basename": "Bell Labs",
-      "path": "wiki/facts/us/Bell Labs.md"
-    },
-    {
       "basename": "Argument_Schnee_1978_RP",
       "path": "wiki/arguments/journal-articles/Research Policy/Argument_Schnee_1978_RP.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Human Capital Theory",
       "path": "wiki/theories/political-economy-geopolitics/Human Capital Theory.md"
-    },
-    {
-      "basename": "Argument_Mowery_2011_NBER",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Mowery_2011_NBER.md"
-    },
-    {
-      "basename": "Greenfield vs Brownfield Innovation",
-      "path": "wiki/concepts/economics/Greenfield vs Brownfield Innovation.md"
-    },
-    {
-      "basename": "MOSIS",
-      "path": "wiki/facts/us/MOSIS.md"
     }
   ],
   "omittedPaths": [],
