@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-05
 title: Horizon Europe
 aliases:
   - 地平线欧洲
@@ -85,6 +85,9 @@ aliases:
 > - **战略性政策使命（[[Horizon Europe Missions|EU Missions]]）的正式建制化** 依据马祖卡托（2018）提出的解构模型，在第二支柱下设立了 5 大具备刚性量化指标与严格时限的旗舰使命（气候适应、抗击癌症、海洋修复、气候中和城市、健康土壤），建立专门的使命委员会（Mission Boards）进行跨部门统筹。（pp. 788–789）
 > - **欧洲创新理事会（EIC）的“[[Patient Capital|耐心资本]]与催化”机制** 打破传统按部就班的行政拨款流程，引入类似于美国[[DARPA]]的项目经理人制度（EIC Program Managers），对颠覆性技术开展敏捷资助与股权直投。
 > - **开放科学与公民共创参与（Open Science & Citizen Engagement）** 强制推行科研论文与研究数据全面开放获取，并在使命方案设计中引入广泛的公民陪审团与公众评议会，践行[[Distributed Agency|分布式主体]]共创。
+
+> [!concept-lens] 国际对比定位（[[Argument_Brint_2023_IHE|Brint, 2023]]）
+> 欧洲在过去十年中同样转向由国家主导的科技创新规划（State-led S&T planning）。与中美两国侧重前沿战略技术竞争与地缘遏制不同，“地平线欧洲”规划展现出对社会适应（Societal adaptation）与环境可持续性（Environmental sustainability）的鲜明侧重；计划将近千亿欧元总预算的半数以上重点投向气候适应、海洋健康、智慧城市、攻克癌症及土壤健康与粮食安全五大任务领域。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]
 
 ---
 

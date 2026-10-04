@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Department of Energy
@@ -136,6 +136,7 @@ updated: 2026-10-03
 > - **开创清洁能源使命导向投资典范** 依托 [[DARPA|ARPA]]-E 与贷款项目办公室，证明公共资本能够有效跨越能源高科技产业化初期的“[[Valley of Death|死亡之谷]]”，成功开辟现代电动车与储能商业大市场。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]
 
 > [!stat-cards]- 核心规模与资助集中度数据
+> - **$30.5 Billion** 2022 年《[[CHIPS and Science Act|芯片与科学法案]]》为 DOE 科学办公室（Office of Science）拟在五年内增加的授权预算规模，其相当大部分资金将通过前沿技术研发流向研究型大学。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
 > - **\$465M vs. \$528M** 2009 年 DOE 分别向特斯拉（Tesla）与索林德拉（Solyndra）发放的清洁技术政府担保贷款规模。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 808)]]
 > - **受资助高校范围与集中度** 相比于 [[National Institutes of Health|NIH]] 与 [[National Science Foundation|NSF]]，DOE 资助的高校总数是四大联邦科技机构中最少的；其科研资助集中度在各大机构中仅次于国防部（DOD），赫芬达尔—赫希曼指数（HHI）呈现高集中趋势。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 19)]]
 

@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-05
 title: Three Generations of Mission-Oriented Policy
 aliases:
   - 三代使命导向政策理论
@@ -130,7 +130,7 @@ aliases:
 >
 > **典型案例** 
 > - **[[Government Digital Service|英国政府数字服务局]]（GDS）** 打破传统寡头 IT 采购外包壁垒，由内部跨职能敏捷团队通过用户体验设计与快速迭代开发统一的 `gov.uk` 平台，节省逾 40 亿英镑。
-> - **欧盟“[[Horizon Europe|地平线欧洲]]”（Horizon Europe）战略使命** 围绕癌症攻坚、气候适应与智能城市等重大社会挑战组织跨学科研发网络。
+> - **欧盟“[[Horizon Europe|地平线欧洲]]”（Horizon Europe）战略使命** 围绕癌症攻坚、气候适应、海洋健康、智慧城市与土壤健康五大重大社会挑战组织跨学科研发网络；[[Argument_Brint_2023_IHE|Brint (2023, p. 10)]]指出，与美中两国聚焦关键产业与地缘竞争的科技规划相比，欧盟将 2021–2027 年近千亿欧元预算中过半资金倾斜于社会适应与环境可持续性（五大任务领域），展现了鲜明的第三代社会响应型使命特征。
 > - **德国能源转型（Energiewende）** 结合固定上网电价补贴、公民分布式能源合作社与电网智能改造，实现能源系统的结构性转型。
 
 ---

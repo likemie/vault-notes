@@ -1,5 +1,5 @@
 ---
-citation: ""
+citation: "Brint, S. (2023). The US “CHIPS and Science” Act launches industrial policy as counter to China. International Higher Education, 113, 9–10."
 extracted_to: []
 processed_date: 2026-10-05
 ---

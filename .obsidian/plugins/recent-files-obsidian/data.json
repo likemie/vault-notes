@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Brint_2023_IHE",
+      "path": "wiki/arguments/journal-articles/International Higher Education/Argument_Brint_2023_IHE.md"
+    },
+    {
       "basename": "Argument_Murphy_2026_JTS",
       "path": "wiki/arguments/journal-articles/Journal of Technology Studies/Argument_Murphy_2026_JTS.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "David C. Mowery",
       "path": "wiki/persons/us/David C. Mowery.md"
-    },
-    {
-      "basename": "DARPA",
-      "path": "wiki/facts/us/DARPA.md"
     }
   ],
   "omittedPaths": [],
