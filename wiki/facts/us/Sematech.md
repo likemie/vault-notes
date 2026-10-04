@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 31
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 32
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 产业前竞争共性技术研发战略联盟（公私协同）
 headquarters: "Austin, Texas, USA"
@@ -62,6 +62,7 @@ related_arguments:
   - "[[Argument_Fuchs_2010_RP]]"
   - "[[Argument_Mowery_2011_NBER]]"
   - "[[Argument_Grindley_1994_JPAM]]"
+  - "[[Argument_Macher_1998_CMR]]"
 confidence: high
 status: active
 created: 2026-10-04
@@ -97,7 +98,7 @@ updated: 2026-10-04
 >   - 1992 年美国半导体制造与设备全球市场份额重新超越日本，并在微处理器与系统级芯片领域确立产业优势。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 736–744)]]
 > - **1996–至今 — 终结联邦补贴与国际化自立演变**
 >   - 1996 年经全体成员投票表决，联盟认为美国芯片制造业已恢复竞争力，正式决定**主动放弃联邦财政资助**，实现 100% 依赖企业会费运营的商业自立；
->   - 1998 年更名为国际半导体制造技术战略联盟（International Sematech, ISMT），向欧洲、亚洲等全球芯片制造商开放会员资格，演化为全球半导体产业前竞争共性标准制定的核心技术平台。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
+>   - 1998 年更名为国际半导体制造技术战略联盟（International Sematech, ISMT），向欧洲、亚洲等全球芯片制造商开放会员资格，并在面向下一代 300 毫米晶圆制造装备与工艺联合攻关中吸纳了多家非日本外国企业，演化为全球半导体产业前竞争共性标准制定的核心技术平台。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 121–122)]]
 
 ---
 

@@ -14,7 +14,7 @@ aliases:
 summary: "纵向离散指原本整合在大型垄断企业内部的研发、设计、制造与封装等全价值链环节，解构并分散至专业化设计公司、代工厂、设备商与高校实验室等独立实体的产业组织形态；在此结构下分散主体面临协调失灵，亟需国家通过嵌入式网络治理跨越断裂带以推动技术范式跃迁。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,11 +37,13 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Erica Fuchs]]"
+  - "[[David C. Mowery]]"
 related_facts:
   - "[[Bell Labs]]"
   - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Fuchs_2010_RP]]"
+  - "[[Argument_Macher_1998_CMR]]"
 confidence: medium
 status: draft
 created: 2026-10-04
@@ -154,7 +156,7 @@ updated: 2026-10-04
 
 > [!dev-timeline] 概念演变
 > - **1980年代 — 产业组织理论起源** 学界（如 Coase 交易成本理论延伸、Stigler 等）探讨专业化分工如何降低生产成本，推动半导体产业由 IDM（垂直整合制造）模式向 Fabless-Foundry 模式解构。
-> - **1990–2000年代 — 硅谷[[Innovation Ecosystem|创新生态]]扩展** 风险投资与分散化初创生态崛起，学界普遍赞扬纵向离散网络的灵活性与高反应速度。
+> - **1990–2000年代 — 硅谷[[Innovation Ecosystem|创新生态]]与敏捷重组** 风险投资与分散化初创生态崛起。杰弗里·马赫（Jeffrey T. Macher）、[[David C. Mowery|大卫·莫厄里]]（[[David C. Mowery]]）与大卫·霍奇斯（David A. Hodges）实证指出，20 世纪 80 年代被麻省理工学院委员会等批评为“结构性碎片化劣势”的纵向专业化分工，反而成为 90 年代美国半导体在逻辑芯片与微组件领域实现敏捷创新、快速响应个人电脑与通信市场爆发的核心动力。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 108, 118–120)]]
 > - **2010年 — 创新治理与技术变迁反思** 埃丽卡·富克斯（[[Erica Fuchs]]）在教育与科技政策研究中指出，纵向离散带来了严重的系统级研发协调失灵，使国家[[Embedded Network Governance|嵌入式网络治理]]成为推动[[Technological Trajectories|技术轨道]]跨越的关键制度依托。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135)]]
 
 ---
@@ -164,9 +166,9 @@ updated: 2026-10-04
 > [!debates] 学术争议
 >
 > > [!axis] 纵向离散是否损害国家长期核心制造与创新能力
-> > 自由市场派认为离散网络实现了全球要素最优配置；产业政策学派与国家安全学者则认为关键制造环节的剥离会导致工艺知识[[Attrition|流失]]与产业空心化。
+> > 自由市场派与敏捷创新学派认为离散网络实现了全球要素最优配置与快速战略重组；产业政策学派与国家安全学者则认为关键制造环节的剥离会导致工艺知识[[Attrition|流失]]与系统协调失灵。
 > >
-> > - **自由市场分工派** 认为垂直离散极大降低了初创企业创业门槛，激发了应用层创新活力。
+> > - **[[Argument_Macher_1998_CMR|Macher et al. (1998)]]** 认为纵向专业化分工与无晶圆厂（Fabless）设计企业的繁茂进入，使产业能够迅速摆脱重资产大宗存储芯片的产能内耗，将资源集中于高毛利设计密集型产品。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 118–120)]]
 > > - **[[Argument_Fuchs_2010_RP|Fuchs (2010)]]** 认为缺乏全产业链整合实体会导致基础研发向制造工艺转化的“[[Valley of Death|死亡之谷]]”加深。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1144–1146)]]
 
 ---
@@ -174,4 +176,5 @@ updated: 2026-10-04
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 实证揭示纵向专业化分工与无晶圆厂模式如何重塑美国半导体产业结构，赋能企业在 1990 年代重获全球竞争优势。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 以美国光电子产业为例，系统论证了纵向离散产业环境下 [[DARPA]] 如何通过[[Embedded Network Governance|嵌入式网络治理]]弥合价值链断裂并引导[[Technological Trajectories|技术轨道]]跃迁。

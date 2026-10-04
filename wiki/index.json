@@ -17417,6 +17417,19 @@
     ]
   },
   {
+    "title": "Industrial Benchmarking",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Industrial Benchmarking.md",
+    "aliases": [
+      "产业标杆分析",
+      "工业标杆分析",
+      "制造标杆分析",
+      "竞争性标杆分析",
+      "competitive benchmarking",
+      "manufacturing benchmarking"
+    ]
+  },
+  {
     "title": "Intent-to-Treat Analysis",
     "type": "method",
     "path": "wiki/methods/quantitative/Intent-to-Treat Analysis.md",
@@ -28913,6 +28926,19 @@
     ]
   },
   {
+    "title": "1986 U.S.-Japan Semiconductor Trade Agreement",
+    "type": "fact",
+    "path": "wiki/facts/us/1986 U.S.-Japan Semiconductor Trade Agreement.md",
+    "aliases": [
+      "1986年美日半导体贸易协定",
+      "美日半导体贸易协定",
+      "美日半导体协议",
+      "U.S.-Japan Semiconductor Trade Agreement",
+      "1986 STA",
+      "Semiconductor Trade Agreement"
+    ]
+  },
+  {
     "title": "Adequate Yearly Progress",
     "type": "fact",
     "path": "wiki/facts/us/Adequate Yearly Progress.md",
@@ -30466,6 +30492,11 @@
     "title": "Argument_Wrigley_2018_BERJ",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/British Educational Research Journal/Argument_Wrigley_2018_BERJ.md"
+  },
+  {
+    "title": "Argument_Macher_1998_CMR",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/California Management Review/Argument_Macher_1998_CMR.md"
   },
   {
     "title": "Argument_Schaffar_2024_CogentEdu",
