@@ -13,7 +13,7 @@ subtype: program
 region: east-asia
 fact_region: "east-asia"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,8 +29,11 @@ tags:
 related_concepts:
   - "[[Precompetitive Research]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
+  - "[[Vertical Disintegration]]"
 related_theories: []
 related_methods:
+  - "[[Industrial Benchmarking]]"
   - "[[Comparative Case Study]]"
 related_instruments: []
 related_persons:
@@ -43,6 +46,7 @@ related_facts:
   - "[[JESSI]]"
 related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
+  - "[[Argument_Macher_1998_CMR]]"
 confidence: high
 status: active
 created: 2026-10-04
@@ -116,19 +120,33 @@ updated: 2026-10-04
 > [!indicators]- 评估指标体系
 > - **投入规模** 总预算 737 亿日元（约 3.5 亿美元），政府提供 40% 资助，百余名骨干工程师全职进驻。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 727)]]
 > - **技术与专利产出** 累计取得约 1200 项发明专利，突破电子束曝光与 1 微米微细加工共性工艺。
-> - **产业格局与市场份额** 支撑日本半导体芯片全球份额由 1980 年的 26% 跃升至 1989 年的 51%，DRAM 领域占据全球 80% 以上市场。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 737–739)]]
+> - **产业格局与市场份额** 支撑日本半导体芯片全球份额由 1980 年的 26% 跃升至 1989 年的 51%，并在历代动态随机存取内存（Dynamic Random-Access Memory, DRAM）代际演进中逐步确立垄断地位（从 1K 的 5% 跃升至 4M 的 98%）。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 110)]]; [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 737–739)]]
 
 > [!finding-cards] 核心实证结论
 > 1. **奠定日本半导体制造与存储器全球优势** 项目期间取得约 1200 项发明专利，打通了从材料、设备到晶圆制造的完整链条，使日本在 1980 年代上半叶超越美国成为全球最大的芯片与存储器生产国。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 727, 736–738)]]
 > 2. **成为全球高技术研发联盟的制度标杆** 树立了政府引导、企业共担、[[Precompetitive Research|前竞争研发]]共享的产业政策[[Paradigm|范式]]，直接触发了美国（[[Sematech]]、[[Microelectronics and Computer Technology Corporation|MCC]]）与欧洲（[[ESPRIT]]、[[JESSI]]）的大规模高技术联盟效仿。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 725–728)]]
 > 3. **隐性知识跨企业扩散机制验证** 证明了人员集中借调与实体联合实验室对于复杂工程技术知识扩散的关键价值。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 752–753)]]
 > 4. **本土装备与材料产业链的协同突破** 助力尼康（Nikon）与佳能（Canon）在步进式光刻机领域实现技术跨越，终结了美国企业在半导体光刻装备上的长期垄断。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 739–741)]]
+> 5. **大宗存储芯片代际跃迁的坚实底座** 提供了从 16K 到 4M DRAM 持续领先的微细加工共性工艺，直接促成了日本企业在 1980 年代对全球大宗存储器市场的绝对统治。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 109–111)]]
 
-> [!stat-cards]- 关键实证数据（p. 727）
+> [!ref-table]- 日本厂商历代 DRAM 全球市场最高份额演进（[[Argument_Macher_1998_CMR|Macher et al., 1998]], Table 1）
+>
+> | DRAM 技术代际 | 导入年份 | 日本厂商最高全球市场份额（%） | 产业竞争格局特征 | 来源[[Document\|文献]] |
+> |:---|:---|:---|:---|:---|
+> | 1K DRAM | 1974 年 | 5% | 美国厂商（英特尔等）主导早期市场 | Macher et al. (1998, Table 1) |
+> | 4K DRAM | 1975 年 | 15% | 日本厂商起步跟踪与工艺探索 | Macher et al. (1998, Table 1) |
+> | 16K DRAM | 1979 年 | 42% | VLSI 项目推进期，美日份额趋于均势 | Macher et al. (1998, Table 1) |
+> | 64K DRAM | 1982 年 | 71% | VLSI 结项技术导入，日本实现全面反超 | Macher et al. (1998, Table 1) |
+> | 256K DRAM | 1986 年 | 92% | 日本确立全球存储器绝对统治地位 | Macher et al. (1998, Table 1) |
+> | 1M DRAM | 1987 年 | 90% | 制造良率与工艺控制优势达到顶峰 | Macher et al. (1998, Table 1) |
+> | 4M DRAM | 1989 年 | 98% | 占据全球大宗存储器市场的绝对垄断份额 | Macher et al. (1998, Table 1) |
+
+> [!stat-cards]- 关键实证数据（p. 727; p. 110）
 > - **\$350m** 项目总投资规模（约 737 亿日元）。
 > - **40%** 政府出资比例（约 291 亿日元）。
 > - **5** 核心骨干成员企业数量（家，包括日立、东芝、富士通、NEC、三菱电机）。
 > - **1200+** 研发期间累计产生的技术发明专利（项）。
+> - **98%** 日本厂商在 4M DRAM 代际达到的全球最高市场份额。
 
 ---
 
@@ -141,11 +159,18 @@ updated: 2026-10-04
 > >
 > > - **批评观点** 西方学者指出欧美企业面临严厉的反垄断诉讼风险与激烈的横向专有权争夺，横向共性研发往往因各怀戒心而流产。
 > > - **回应与经验** Mowery 等人指出，VLSI 模式之所以成功，是因为当时日本处于明确的技术追赶阶段，目标明确单一（DRAM 工艺）；当进入技术前沿探索与去中心化创新时，该模式的灵活性亦面临挑战。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726, 754)]]
+>
+> > [!axis] 大宗商品锁定与架构转移适应迟滞争议（Commodity Lock-in vs. Architectural Shift）
+> > 产业经济学家与技术史学者进一步探讨 VLSI 项目高度聚焦于标准化存储芯片制造工艺，是否在长期上造成了日本半导体产业向重资产、大宗存储器（Commodity DRAM）路径的结构性锁定，削弱了其在 1990 年代应对微处理器与架构创新转型的敏捷性。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 110–111, 121–122)]]
+> >
+> > - **大宗工艺有效性论** VLSI 联盟成功的前提是 DRAM 属于技术演进路径明确、以缺陷密度和良率为绝对竞争力的标准化大宗产品，集中联合攻关能产生最高效率的研发与工艺红利。
+> > - **结构性锁定与[[Paradigm|范式]]脱节** Macher 等人指出，当 1990 年代全球半导体产业价值链向微处理器、定制逻辑芯片以及“无晶圆厂设计-代工制造”（Fabless-Foundry）的[[Vertical Disintegration|垂直专业化分工]]演进时，日本纵向一体化厂商受困于重资产折旧与 DRAM 利润滑坡，错失了以架构创新和敏捷设计为特征的新一轮产业红利。
 
 > [!lessons] 经验教训与启示
 > - **追赶阶段聚焦共性瓶颈的集中优势** 当产业处于追赶期且技术目标清晰时，集中式项目管理与联合实体实验室能最大化研发投资效率。
 > - **[[Precompetitive Research|前竞争研发]]与专有量产的严格隔离** 联盟必须设立清晰的制度边界，只共享通用工艺与设备标准，将产品设计与市场销售留给企业独立竞争。
 > - **制度环境制约联盟模式的可移植性** 在缺乏紧密产业网络与面临反垄断审查的环境下，研发联盟应优先考虑纵向供应链协同而非同业横向联合。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 751–754)]]
+> - **警惕大宗技术锁定对架构转型的抑制** 政策制定者需警惕单一产品制造工艺成功带来的路径依赖，及时布局支持去中心化、模块化与敏捷设计的创新基础设施。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 121–123)]]
 
 ---
 
@@ -156,6 +181,8 @@ updated: 2026-10-04
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Precompetitive Research]] | Concept | VLSI 项目的核心研发属性与制度划分边界。 |
+> | [[Vertical Disintegration]] | Concept | 1990 年代重塑半导体产业分工、削弱日本 DRAM 制造垄断模式的新[[Paradigm\|范式]]。 |
+> | [[Industrial Benchmarking]] | Method | 评估跨国半导体制造良率差距与 VLSI 政策成效的实证度量方法。 |
 > | [[Sematech]] | Fact (Organization) | 美国为对抗日本 VLSI 带来的芯片制造优势而于 1987 年设立的研发联盟。 |
 > | [[ESPRIT]] | Fact (Program) | 欧洲为应对日美半导体与信息技术挑战设立的超国家高技术联盟。 |
 > | [[David C. Mowery]] | Person | 对国际高技术研发联盟进行深入比较经济学与政策分析的核心学者。 |
