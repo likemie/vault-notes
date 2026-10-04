@@ -28,6 +28,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[STEM Education]]"
   - "[[APA Style]]"
+  - "[[Learning by Doing]]"
   - "[[Grandes Ecoles]]"
   - "[[Research Topic]]"
   - "[[Science Journalism]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-02
+updated: 2026-10-04
 ---
 
 # American Association for the Advancement of Science
@@ -130,7 +131,7 @@ updated: 2026-10-02
 > - **跨学科教育标准渗透** Project 2061 编制的[[Scientific Literacy|科学素养]]基准直接融入了美国《国家科学教育标准》（NSES）与《下一代科学标准》（NGSS）的顶层设计。
 
 > [!finding-cards] 关键成效与辐射影响
-> - **破除政治认知壁垒并内化立法隐性知识** 在 [[Argument_Serpell_2020_EP|Serpell (2020)]] 的实证反思中，AAAS 开创的研究员沉浸机制具有不可替代的“在干中学”效能；一年的全职幕僚经历彻底消除了学者对国会政治的傲慢与偏见，使研究者掌握了如何将复杂数据压缩为三分钟听证口径的实战艺术。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 46–47)]]
+> - **破除政治认知壁垒并内化立法隐性知识** 在 [[Argument_Serpell_2020_EP|Serpell (2020)]] 的实证反思中，AAAS 开创的研究员沉浸机制具有不可替代的“在[[Learning by Doing|干中学]]”效能；一年的全职幕僚经历彻底消除了学者对国会政治的傲慢与偏见，使研究者掌握了如何将复杂数据压缩为三分钟听证口径的实战艺术。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 46–47)]]
 > - **构建终身政策影响力辐射网络** 结项后的学者展现出极强的制度穿透力：部分学者选择留在联邦行政机构（如 [[Institute of Education Sciences|IES]] 或 [[National Science Foundation|NSF]]）主导国家科研指南设定；部分出任国会委员会常设专业主任；返回[[Grandes Ecoles|大学校]]园的高校教师则彻底重构了自己的[[Research Topic|研究选题]]视野，将科学传播实战深度注入研究生培养之中。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 47)]]
 > - **搭建科学界与白宫/国会的制度性对话桥梁** 作为全美非官方科学共同体的联合代言人，AAAS 在历次冷战危机、科研伦理辩论与联邦预算紧缩关头，为捍卫大学基础研究独立性与反击政治干预提供了坚实的制度屏障。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 48)]]
 

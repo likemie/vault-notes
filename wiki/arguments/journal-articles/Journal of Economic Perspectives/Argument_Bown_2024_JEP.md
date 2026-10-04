@@ -24,7 +24,9 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Modern Industrial Policy]]"
+  - "[[Agglomeration Externalities]]"
   - "[[Market Failure]]"
+  - "[[Learning by Doing]]"
   - "[[Vertical Disintegration]]"
   - "[[Document]]"
   - "[[Market Shaping and Creating]]"
@@ -32,7 +34,6 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Knowledge Exchange]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Learning by Doing]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -44,6 +45,7 @@ related_facts:
   - "[[European Chips Act]]"
   - "[[Bell Labs]]"
   - "[[Fairchild Semiconductor]]"
+  - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[Ministry of International Trade and Industry]]"
   - "[[VLSI Project]]"
   - "[[1986 U.S.-Japan Semiconductor Trade Agreement]]"
@@ -82,10 +84,10 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 半导体产业在全球化分工重组与地缘政治竞争加剧的双重背景下，各国政府的产业政策发生了何种[[Paradigm|范式]]转变？面对跨国高度细分的供应链网络与极端地理集中风险，2020 年代以美欧中日为代表的[[Modern Industrial Policy|现代产业政策]]在目标设定、工具组合（巨额补贴、出口管制、投资审查与友岸外包）与实施机制上有何本质特征，又将带来怎样的经济效率损失、集聚外部性稀释与长期结构性风险？
+> 半导体产业在全球化分工重组与地缘政治竞争加剧的双重背景下，各国政府的产业政策发生了何种[[Paradigm|范式]]转变？面对跨国高度细分的供应链网络与极端地理集中风险，2020 年代以美欧中日为代表的[[Modern Industrial Policy|现代产业政策]]在目标设定、工具组合（巨额补贴、出口管制、投资审查与友岸外包）与实施机制上有何本质特征，又将带来怎样的经济效率损失、[[Agglomeration Externalities|集聚外部性]]稀释与长期结构性风险？
 
 > [!claim] 核心主张
-> 当代半导体产业政策已发生根本性范式演进：由 20 世纪 80 年代以纠正[[Market Failure|市场失灵]]（集聚外部性与干中学）和追求经济效率为导向的传统贸易与补贴政策，全面转变为由国家安全、地缘政治博弈与供应链去风险主导的 [[Modern Industrial Policy|现代产业政策]]；然而，在高度 [[Vertical Disintegration|纵向离散]] 的跨国供应链网络中，试图通过补贴重建本土制造或遏制对手技术扩散的政策干预，不可避免地会削弱集聚经济红利、推高全球生产成本，并可能在成熟制程领域诱发严重的全球结构性产能过剩。（pp. 81–83, 101–103）
+> 当代半导体产业政策已发生根本性范式演进：由 20 世纪 80 年代以纠正[[Market Failure|市场失灵]]（集聚外部性与[[Learning by Doing|干中学]]）和追求经济效率为导向的传统贸易与补贴政策，全面转变为由国家安全、地缘政治博弈与供应链去风险主导的 [[Modern Industrial Policy|现代产业政策]]；然而，在高度 [[Vertical Disintegration|纵向离散]] 的跨国供应链网络中，试图通过补贴重建本土制造或遏制对手技术扩散的政策干预，不可避免地会削弱集聚经济红利、推高全球生产成本，并可能在成熟制程领域诱发严重的全球结构性产能过剩。（pp. 81–83, 101–103）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 全球半导体产业从 20 世纪中叶至今的产业组织演进、供应链地理分布与主要大国产业政策实践。
@@ -101,8 +103,8 @@ issuing_organization: ""
 > |---|---|
 > | **[[Modern Industrial Policy\|现代产业政策（Modern Industrial Policy）]]** | 解释国家如何超越纯经济效率与纠正[[Market Failure\|市场失灵]]的传统框架，将国家安全、技术封锁与供应链去风险作为核心政策导向。（pp. 81–83, 101–103） |
 > | **[[Vertical Disintegration\|纵向离散（Vertical Disintegration）]]** | 阐明半导体产业从整合元件制造商（Integrated Device Manufacturer, IDM）向无晶圆厂芯片设计（Fabless）、纯晶圆代工（Foundry）与专业设备及软件分离的组织演进，揭示跨国网络对封闭式产业政策的制约。（pp. 86–90） |
-> | **集聚外部性（Agglomeration Externalities）** | 分析硅谷及东亚半导体产业集群中知识外溢、专业劳动力池与本地配套网络所产生的行业规模经济。（pp. 82, 102–103） |
-> | **干中学效应（Learning-by-Doing）** | 解释芯片制造良率提升和工艺优化对持续生产规模的依赖，以及政府借此提供先发优势补贴的效率假说。（pp. 81, 102） |
+> | **[[Agglomeration Externalities\|集聚外部性]]（Agglomeration Externalities）** | 分析硅谷及东亚半导体产业集群中知识外溢、专业劳动力池与本地配套网络所产生的行业规模经济。（pp. 82, 102–103） |
+> | **[[Learning by Doing\|干中学]]效应（Learning-by-Doing）** | 解释芯片制造良率提升和工艺优化对持续生产规模的依赖，以及政府借此提供先发优势补贴的效率假说。（pp. 81, 102） |
 
 > [!warrant]- 理论如何支撑论证
 > 论文运用产业组织理论中的纵向分工演进解释半导体产业链从企业内部闭环向跨国多阶段网络的分化，进而指出传统基于单一企业或国内市场的产业扶持模式在现代网络中面临协调失效；同时结合集聚经济学与贸易理论，论证了以国家安全为导向的空间分散政策必然对集聚外部性产生稀释效应，构成了评判现代产业政策得失的核心理论桥梁。（pp. 82–83, 86–90, 102–103）
@@ -152,9 +154,9 @@ issuing_organization: ""
 > [!timeline] 早期技术突破与产业集聚历程
 > - **1940年代末** 美国电话电报公司（American Telephone and Telegraph, AT&T）旗下的[[Bell Labs|贝尔实验室]]（Bell Labs）发明晶体管，三位物理学家荣获 1956 年诺贝尔物理学奖。（p. 83）
 > - **1965** 英特尔创始人戈登·摩尔（Gordon Moore）提出芯片上晶体管数量每两年翻番的摩尔定律，确立了行业持续降低单位算力成本的迭代轨迹。（p. 83）
-> - **1960–1970年代** [[Fairchild Semiconductor|仙童半导体]]（Fairchild Semiconductor）及其衍生出的众多新兴公司在加州硅谷集聚，形成了高密度人才交流与专业化供应商网络的集聚外部性。（pp. 82–83）
+> - **1960–1970年代** [[Fairchild Semiconductor|仙童半导体]]（Fairchild Semiconductor）及其衍生出的众多新兴公司在加州硅谷集聚，形成了高密度人才交流与专业化供应商网络的[[Agglomeration Externalities|集聚外部性]]。（pp. 82–83）
 
-在产业起步期，半导体制造具有高昂的固定研发成本与显著的干中学效应，美国政府通过大规模政府采购充当了首要市场培育者。（p. 83）
+在产业起步期，半导体制造具有高昂的固定研发成本与显著的[[Learning by Doing|干中学]]效应，美国政府通过大规模政府采购充当了首要市场培育者。（p. 83）
 
 > [!policy-context] 早期美国产业政策特征
 > - **政府采购承担前期高额研发** 美国国防部与航空航天局（如美国空军民兵导弹制导系统与阿波罗登月计划）以高价稳定收购早期芯片，直接为企业分摊了高昂的固定研发开支，加速企业通过生产规模化降低平均制造成本。（p. 83）
@@ -169,7 +171,7 @@ issuing_organization: ""
 > |---|---|---|---|---|---|
 > | 1 | 德州仪器（Texas Instruments） | 日本电气（NEC） | 英特尔（Intel） | 英特尔（Intel） | 英特尔（Intel） |
 > | 2 | 国家半导体（National Semiconductor） | 东芝（Toshiba） | 三星电子（Samsung） | 三星电子（Samsung） | 三星电子（Samsung） |
-> | 3 | 摩托罗拉（Motorola） | 英特尔（Intel） | 日本电气（NEC） | 台积电（TSMC，代工） | 台积电（TSMC，代工） |
+> | 3 | 摩托罗拉（Motorola） | 英特尔（Intel） | 日本电气（NEC） | [[Taiwan Semiconductor Manufacturing Corporation\|台积电]]（TSMC，代工） | 台积电（TSMC，代工） |
 > | 4 | 飞利浦（Philips） | 日立（Hitachi） | 德州仪器（Texas Instruments） | 德州仪器（Texas Instruments） | SK 海力士（SK Hynix） |
 > | 5 | 英特尔（Intel） | 摩托罗拉（Motorola） | 东芝（Toshiba） | 东芝（Toshiba） | 美光科技（Micron） |
 > | 6 | 日本电气（NEC） | 德州仪器（Texas Instruments） | 意法半导体（STMicro） | 瑞萨电子（Renesas） | 高通（Qualcomm，无晶圆） |
@@ -344,7 +346,7 @@ issuing_organization: ""
 > [!finding-cards] 核心发现
 > 1. **产业政策驱动力由经济效率全面转向国家安全与地缘博弈** 当代半导体产业政策不仅解决[[Market Failure|市场失灵]]，更主要用于遏制竞争对手技术赶超、推动跨国供应链分散化与维护军事安全。（pp. 81–83, 102）
 > 2. **[[Vertical Disintegration|纵向离散]]使全产业链国家冠军企业模式在现代失效** 现代芯片产业链已演进为跨国高度专业化的六大细分环节，单一国家无法在封闭体系内实现高效自主，必须依赖多边技术与设备同盟。（pp. 86–90, 102）
-> 3. **空间分散政策必然稀释集聚外部性并推高制造成本** 为防范地缘风险而强制在欧美多地分散建厂，打破了东亚成熟的产业集群生态，本质上是支付高昂的经济效率保险成本。（pp. 102–103）
+> 3. **空间分散政策必然稀释[[Agglomeration Externalities|集聚外部性]]并推高制造成本** 为防范地缘风险而强制在欧美多地分散建厂，打破了东亚成熟的产业集群生态，本质上是支付高昂的经济效率保险成本。（pp. 102–103）
 > 4. **单边制裁与成熟制程投资转向埋下未来产能过剩隐患** 严苛出口管制促使中国集中资源深耕成熟制程，叠加全球各经济体的建厂补贴竞赛，极易引发未来全球范围内的结构性产能过剩。（pp. 101–103）
 
 > [!stat-cards]- 核心数据
@@ -361,7 +363,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card] [[Modern Industrial Policy|现代产业政策]]的非效率驱动特征
-> 政府对半导体产业的干预动机变得远比 20 世纪 80 年代复杂。利用产业政策解决集聚外部性、干中学和技术领先等[[Market Failure|市场失灵]]问题的潜在功能依然存在；但当今政策制定者还具备并非由经济效率驱动的其他动机：促进地理多元化、削弱竞争对手的技术追赶能力，以及限制最尖端芯片（特别是与国家安全相关的芯片）的扩散。（p. 102）
+> 政府对半导体产业的干预动机变得远比 20 世纪 80 年代复杂。利用产业政策解决[[Agglomeration Externalities|集聚外部性]]、[[Learning by Doing|干中学]]和技术领先等[[Market Failure|市场失灵]]问题的潜在功能依然存在；但当今政策制定者还具备并非由经济效率驱动的其他动机：促进地理多元化、削弱竞争对手的技术追赶能力，以及限制最尖端芯片（特别是与国家安全相关的芯片）的扩散。（p. 102）
 >
 > *The potential role for governments to use industrial policy to address market imperfections such as agglomeration externalities, [[Learning by Doing]], and technological leadership remains relevant. But today's officials have other motives that are not driven by economic efficiency: promoting geographic diversification, blunting China's ability to make technological gains, and limiting the spread of the most advanced chips (especially those potentially involved in national security issues).*
 

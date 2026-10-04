@@ -26,6 +26,7 @@ tags:
   - theme/science-communication
 related_concepts:
   - "[[Research-Policy Gap]]"
+  - "[[Learning by Doing]]"
   - "[[Refined Mastery]]"
   - "[[Scientific Method]]"
   - "[[Evidence-Based Education]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-10-04
 ---
 
 # AERA Congressional Fellowship Program
@@ -83,7 +84,7 @@ updated: 2026-09-17
 ## 方案设计与运行机制
 
 > [!claim] 核心干预假说
-> 项目假定：教育学者对立法政策的疏离并非源于知识不足，而是由于置身象牙塔导致的制度文化隔阂与语言不通；通过为期一年的全职“在干中学”（learning while doing），学者能深刻掌握政策运作的隐性知识与时间系统，并将基于数据的严谨因果思维带入政治议事日程，从而实现科学证据与立法文本的有机咬合。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
+> 项目假定：教育学者对立法政策的疏离并非源于知识不足，而是由于置身象牙塔导致的制度文化隔阂与语言不通；通过为期一年的全职“在[[Learning by Doing|干中学]]”（learning while doing），学者能深刻掌握政策运作的隐性知识与时间系统，并将基于数据的严谨因果思维带入政治议事日程，从而实现科学证据与立法文本的有机咬合。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 
 > [!policy-design]- 方案设计
 > - **项目目标** 消除学者对政治运作的刻板印象；培育[[Refined Mastery\|精通]]政策隐性知识、掌握国会山极简沟通技巧并能迅速响应立法迫切需求的学术领军人才；增进国会议员与幕僚对实证证据效用的信赖。

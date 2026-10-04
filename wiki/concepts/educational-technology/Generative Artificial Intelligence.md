@@ -9,7 +9,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介技术，在教育中重构人机知识确证分工；其促学成效取决于教学脚手架、评价性判断的自主维系与生产性认识论摩擦。"
 type: concept
 domain: "educational-technology"
-related_count: 109
+related_count: 112
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -84,7 +84,6 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Divergent Thinking]]"
   - "[[Defeater]]"
-  - "[[Modern Industrial Policy]]"
   - "[[Technology Infusion]]"
   - "[[Literature Search]]"
   - "[[Incommensurability]]"
@@ -95,6 +94,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Growth]]"
+  - "[[Modern Industrial Policy]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Affective Outcomes]]"
 related_theories:
@@ -125,6 +125,7 @@ related_persons:
   - "[[Chin-Chung Tsai]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
+  - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[CHIPS and Science Act]]"
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
@@ -428,7 +429,7 @@ updated: 2026-10-04
 > - **算法偏见与文化均质化风险** 大模型训练数据主要来自英语世界与主流互联网语料，可能系统性边缘化全球南方及非主流文化视角，并在语言润色中抹杀独特的个体学术声音。[[Argument_Li_2026_CEAI\|(Monib et al., 2025; Li et al., 2026, p. 8)]]
 > - **数字鸿沟与认知不平等加剧** 具备高水平 AI 素养与高级付费模型访问权的学生能够获得强大的认知杠杆，而缺乏指导的弱势群体更容易陷入低水平被动盲从，拉大教育差距。实证研究亦揭示出反直觉的补偿机制：在高等教育中，数字化薄弱与低收入地区反而表现出显著更强的边际促学收益（$g^+ = 1.764$ vs $0.501$），表明[[Technology Infusion\|技术整合]]若辅以普惠政策，能有效充当打破教育资源垄断的平衡杠杆。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 18)]]
 > - **商业平台采购锁定与成长受限型[[Epistemic Injustice\|认识不公]]** 大学对主流商业闭源生成式平台的系统性采购，不仅造成对特定私营技术堆栈的制度化锁定，更在无形中将缺乏替代性数字资源的学生推向算法主导的[[Knowledge Production\|知识生成]]流水线，剥夺其经历独立挫折与认识突破的成长机会，构成结构性的认知发展限制。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 5–7)]]
-> - **底层先进制程算力供应链脆弱性与地缘排他性** Bown 与 Wang（2024）指出，支持生成式人工智能模型训练与推理的尖端图形处理器（GPU）与高带宽内存（HBM）制造高度集中于东亚单一地缘热点（台积电控制全球 90% 以上先进制程产能）；在地缘政治博弈与出口管制割裂下，全球算力基础设施面临严重的供应链单点脆弱性与战略断链风险。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 88–92, 98–101)]]
+> - **底层先进制程算力供应链脆弱性与地缘排他性** Bown 与 Wang（2024）指出，支持生成式人工智能模型训练与推理的尖端图形处理器（GPU）与高带宽内存（HBM）制造高度集中于东亚单一地缘热点（[[Taiwan Semiconductor Manufacturing Corporation|台积电]]控制全球 90% 以上先进制程产能）；在地缘政治博弈与出口管制割裂下，全球算力基础设施面临严重的供应链单点脆弱性与战略断链风险。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 88–92, 98–101)]]
 
 > [!warning] 适用局限与实施边界
 > - **无法替代具身情境与实践经验** 实验室动手操作、真实[[Fieldwork\|田野调查]]、面对面同伴共情与人际伦理协商等核心教育体验，均无法被纯文本/多模态生成式算法替代。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 32–34)]]

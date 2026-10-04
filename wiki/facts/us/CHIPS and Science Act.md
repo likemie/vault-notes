@@ -37,8 +37,10 @@ related_concepts:
   - "[[Innovation Park]]"
   - "[[University-Industry Collaboration]]"
   - "[[Vertical Disintegration]]"
+  - "[[Learning by Doing]]"
   - "[[Modern Industrial Policy]]"
 related_facts:
+  - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[National Science Foundation]]"
   - "[[October 2022 US Semiconductor Export Controls]]"
   - "[[European Chips Act]]"
@@ -60,7 +62,7 @@ updated: 2026-10-04
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2022 年 8 月 9 日由美国国会两党表决通过并由总统乔·拜登正式签署生效。
-> - **适用地区 / 对象** 全球半导体芯片制造企业（台积电、三星、美光、英特尔等）、无晶圆厂设计商、[[Research Universities|美国研究型大学]]、各州区域创新合作体及关键友好国家伙伴。
+> - **适用地区 / 对象** 全球半导体芯片制造企业（[[Taiwan Semiconductor Manufacturing Corporation|台积电]]、三星、美光、英特尔等）、无晶圆厂设计商、[[Research Universities|美国研究型大学]]、各州区域创新合作体及关键友好国家伙伴。
 > - **问题背景** 
 >   1. **制造产能严重[[Attrition|流失]]与断链危机** 美国在全球半导体制造产能中的份额从 1990 年的 37% 骤降至 2020 年的 12%，在 10nm 以下尖端先进制程制造上完全依赖东亚（台湾占 90%+、韩国占其余），2020–2022 年新冠疫情引发的芯片大短缺重创美国汽车与工业制造；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 91–92, 95)]]
 >   2. **地缘对抗与算力战略资产化** 先进算力芯片日益成为国家安全核心资产，面对中国在科研产出、半导体自给率提升及 AI 领域的战略赶超，美国决策层形成两党共识，将半导体提升为国家战略生存问题；[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–237)]]; [[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 93–95)]]
@@ -101,7 +103,7 @@ updated: 2026-10-04
 > - **2023-02** 美国商务部正式启动首轮 390 亿美元商业制造设施补贴申请流程。
 > - **2023-09** 商务部发布护栏条款最终实施规则，明确先进制程（$\le 28\text{nm}$）在华扩产 5% 的严格上限。
 > - **2023-10** 拜登政府公布首批 31 个国家技术枢纽（Tech Hubs）认定名单。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 133–134)]]
-> - **2024-01 / 02** [[National Science Foundation|NSF TIP]] 向 10 个区域创新合作体授予高达 1.6 亿美元资助；商务部陆续公布向台积电（66亿美元补贴+50亿美元贷款）、三星（64亿美元补贴）、英特尔（85亿美元补贴+110亿美元贷款）与美光（61亿美元补贴）的巨额资助协议。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]
+> - **2024-01 / 02** [[National Science Foundation|NSF TIP]] 向 10 个区域创新合作体授予高达 1.6 亿美元资助；商务部陆续公布向[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（66亿美元补贴+50亿美元贷款）、三星（64亿美元补贴）、英特尔（85亿美元补贴+110亿美元贷款）与美光（61亿美元补贴）的巨额资助协议。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]
 
 ---
 
@@ -110,7 +112,7 @@ updated: 2026-10-04
 > [!actor-grid] 实施角色分工
 > - **发布主体** 美国国会两党（立法授权）与美国总统行政办公室。
 > - **执行主体** 美国商务部（CHIPS 计划办公室）、[[National Science Foundation|美国国家科学基金会]]（[[National Science Foundation|NSF TIP]] 理事会）、美国国防部与美国国务院（ITSI 基金）。
-> - **适用对象** 英特尔（Intel）、台积电（TSMC）、三星电子（Samsung）、美光科技（Micron）、格芯（GlobalFoundries）等制造企业及全美[[Research Universities|研究型大学]]。
+> - **适用对象** 英特尔（Intel）、[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（TSMC）、三星电子（Samsung）、美光科技（Micron）、格芯（GlobalFoundries）等制造企业及全美[[Research Universities|研究型大学]]。
 > - **政策工具** 直接资本资助、税收抵免、低息联邦贷款、公私合作研发联盟（NSTC）及技术枢纽建设。
 
 > [!pathways]- 实施路径
@@ -123,7 +125,7 @@ updated: 2026-10-04
 ## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
-> - **高权力 · 高利益 — 核心决策与执行者** 美国商务部、国防部、英特尔与台积电 — 掌控资金分配与先进制程重资产落地。
+> - **高权力 · 高利益 — 核心决策与执行者** 美国商务部、国防部、英特尔与[[Taiwan Semiconductor Manufacturing Corporation|台积电]] — 掌控资金分配与先进制程重资产落地。
 > - **高权力 · 低利益 — 潜在制约者** 国会财政保守派与环境监管机构 — 关注财政赤字与联邦环境审查（NEPA）合规。
 > - **低权力 · 高利益 — 关键受益与执行群体** [[Research Universities|美国研究型大学]]、[[STEM Education|STEM]] 劳动力与地方[[Innovation Park|创新园区]] — 获得长期科研拨款与高薪就业岗位。
 > - **低权力 · 低利益 — 边缘受影响群体** 传统无晶圆厂小型初创设计商 — 受益于本土供应链韧性，但直接获得补贴极少。
@@ -156,7 +158,7 @@ updated: 2026-10-04
 > - **结果指标** 美国先进制程全球制造份额、本土半导体高技能就业增长、对东亚单一节点依赖度下降。
 
 > [!finding-cards] 实施成效与结构反响
-> - **重塑全球先进制程投资流向** 成功吸引台积电（亚利桑那州两座先进制程晶圆厂）、三星（德州泰勒）、英特尔（俄亥俄与亚利桑那州）及美光（纽约州超级 DRAM 厂）落地，锁定了未来 2nm–4nm 先进产能。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]
+> - **重塑全球先进制程投资流向** 成功吸引[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（亚利桑那州两座先进制程晶圆厂）、三星（德州泰勒）、英特尔（俄亥俄与亚利桑那州）及美光（纽约州超级 DRAM 厂）落地，锁定了未来 2nm–4nm 先进产能。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]
 > - **开创三代公私研发合作新格局** 推动建立国家半导体技术中心（NSTC），使[[University-Industry Collaboration|产学合作]]从公司自发投资跃升为国家战略级制度化创新基础设施。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
 > - **激活落后地区[[Innovation Ecosystem|区域创新生态]]** Tech Hubs 与 [[National Science Foundation|NSF TIP]] 资助大幅提升了传统内陆地区[[Innovation Park|研究园区]]的[[Research Translation|技术转化]]活力与风险资本关注度。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 133–137)]]
 
@@ -175,14 +177,14 @@ updated: 2026-10-04
 > > [!axis] 补贴有效性 vs 本土高昂制造成本劣势
 > > 争论直接补贴能否弥补美国在劳动力成本、施工周期与上游供应链集聚上的长期劣势。
 > >
-> > - **政府支持派** 认为数十亿美元补贴是启动本土生态重建与克服干中学壁垒的必要催化剂。
+> > - **政府支持派** 认为数十亿美元补贴是启动本土生态重建与克服[[Learning by Doing|干中学]]壁垒的必要催化剂。
 > > - **[[Argument_Bown_2024_JEP|Bown & Wang (2024)]]** 指出美国本土晶圆厂运营成本显著高于东亚，一旦联邦补贴耗尽，新厂可能面临持续的长期亏损与市场竞争力不足。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 102–103)]]
 >
 > > [!axis] 战略聚焦 vs 繁苛社会政策捆绑
 > > 争论补贴申请附加托儿服务、工会用工与利润分享等多元社会目标是否会拖累建厂效率。
 > >
 > > - **政策制定者** 试图通过法案同步促进社会公平、劳工权益与包容性增长。
-> > - **产业评论界** 批评繁冗的社会附加条款增加了外国企业（如台积电）在美建厂的协调难度与行政摩擦。
+> > - **产业评论界** 批评繁冗的社会附加条款增加了外国企业（如[[Taiwan Semiconductor Manufacturing Corporation|台积电]]）在美建厂的协调难度与行政摩擦。
 
 > [!critique] 外部批评
 > - **诱发全球补贴内耗与保护主义螺旋** 美国的巨额补贴迫使欧盟、日本、韩国纷纷跟进出台同等力度的补贴政策，引发盟友间的资本争夺与世贸规则失效。

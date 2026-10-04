@@ -53,6 +53,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
   - "[[SBIR and STTR Programs]]"
+  - "[[Taiwan Semiconductor Manufacturing Corporation]]"
 related_arguments:
   - "[[Argument_Fuchs_2010_RP]]"
 confidence: high
@@ -119,7 +120,7 @@ updated: 2026-10-04
 > [!theory-proposition] 命题二｜公共代理人通过重塑网络拓扑与闭合[[Structural Holes|结构洞]]克服前沿产业的[[Market Failure|市场失灵]]
 > **解释** 在高度[[Vertical Disintegration|纵向离散]]（Vertically Disintegrated）的高科技产业中，基础研究者、材料工艺商与系统集成商之间存在严重的认知隔阂与协调断裂（[[Structural Holes|结构洞]]）。发展型网络国家通过具备技术裁判权的公共经理人，主动调动[[Network Plasticity|网络可塑性]]，设立统一测试平台并强制跨界合作，重构研发网络架构，引导颠覆性科研成果顺利跨越[[Valley of Death|死亡之谷]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144)]]
 >
-> **应用实例** 在半导体物理极限突破中，DARPA 项目经理将大学硅锗（SiGe）与应变硅（strained Si）发明学者与 IBM、台积电等代工厂强行撮合，消除了新材料走向主流 CMOS 产线的产业化梗阻。
+> **应用实例** 在半导体物理极限突破中，DARPA 项目经理将大学硅锗（SiGe）与应变硅（strained Si）发明学者与 IBM、[[Taiwan Semiconductor Manufacturing Corporation|台积电]]等代工厂强行撮合，消除了新材料走向主流 CMOS 产线的产业化梗阻。
 
 > [!theory-proposition] 命题三｜发展型网络国家通过非正式微观制度维持长程战略定力与组织韧性
 > **解释** 尽管发展型网络国家的宏观采办条规与政治领导层会随地缘局势发生周期性摇摆（如从基础研究转向应用交付），但一线项目经理之间基于技术卓越声誉与隐性规范维系的微观非正式机制（前瞻研判、闭门[[Brainstorming|头脑风暴]]、中立背书与机制化退出）具有强大的自适应性与跨周期韧性。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136, 1144–1145)]]

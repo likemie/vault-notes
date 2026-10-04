@@ -33,6 +33,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[CHIPS and Science Act]]"
+  - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[Fraunhofer Society Model]]"
   - "[[October 2022 US Semiconductor Export Controls]]"
 related_arguments:
@@ -67,7 +68,7 @@ updated: 2026-10-04
 
 > [!policy-design]- 政策设计
 > - **政策目标** 保障欧洲汽车与工业关键芯片供应链安全、在欧洲本土建立先进制程与特色工艺晶圆制造能力、实现 2030 年全球 20% 制造份额目标。
-> - **适用对象** 欧洲微电子研发机构、跨国半导体制造巨头（台积电、格芯、意法半导体、英飞凌、恩智浦等）及上下游中小创新企业。
+> - **适用对象** 欧洲微电子研发机构、跨国半导体制造巨头（[[Taiwan Semiconductor Manufacturing Corporation|台积电]]、格芯、意法半导体、英飞凌、恩智浦等）及上下游中小创新企业。
 > - **政策三大支柱（Three Pillars）**
 >   - **支柱一：“欧洲芯片倡议”（Chips for Europe Initiative）** 动员 33 亿欧元欧盟预算资助下一代前沿工艺试验线（Pilot Lines，如亚 2nm 先进逻辑制程、FD-SOI 低功耗工艺、宽禁带半导体与先进封装）、建立基于云端的设计平台，并设立欧洲芯片能力中心网络；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 98)]]
 >   - **支柱二：保障供应安全与放宽国家援助** 创立“欧洲首创”（First-of-a-kind）设施认证标准，允许成员国政府向综合制造设施（IPF）与开放式晶圆代工厂（OEF）提供高比例直接资本补贴（如法国资助意法/格芯 29 亿欧元，德国资助台积电德累斯顿厂约 50 亿欧元）；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]
@@ -87,7 +88,7 @@ updated: 2026-10-04
 > - **2022-02-08** 欧盟委员会正式公布《欧洲[[CHIPS and Science Act|芯片法案]]》立法提案。
 > - **2023-04-18** 欧洲议会与欧盟理事会就法案核心条款达成最终政治妥协。
 > - **2023-06-05** 欧盟委员会依据新规则批准法国政府向意法半导体与格芯在克罗尔（Crolles）的新建晶圆厂提供 29 亿欧元直接国家援助。
-> - **2023-08-08** 台积电正式宣布与恩智浦、英飞凌与博世合资在德国德累斯顿兴建超 100 亿欧元的欧洲半导体制造公司（ESMC）晶圆厂（德国政府补贴约 50 亿欧元）。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]
+> - **2023-08-08** [[Taiwan Semiconductor Manufacturing Corporation|台积电]]正式宣布与恩智浦、英飞凌与博世合资在德国德累斯顿兴建超 100 亿欧元的欧洲半导体制造公司（ESMC）晶圆厂（德国政府补贴约 50 亿欧元）。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]
 > - **2023-09-21** 《欧洲芯片法案》正式生效。
 
 ---
@@ -97,7 +98,7 @@ updated: 2026-10-04
 > [!actor-grid] 实施角色分工
 > - **发布主体** 欧盟理事会与欧洲议会。
 > - **执行主体** 欧盟委员会竞争总司（国家援助豁免审查）、通信网络、内容和技术总司（CNECT）及成员国经济部。
-> - **适用对象** 台积电（TSMC）、意法半导体（STMicroelectronics）、格芯（GlobalFoundries）、英飞凌（Infineon）、恩智浦（NXP）、博世（Bosch）及比利时微电子研究中心（IMEC）。
+> - **适用对象** [[Taiwan Semiconductor Manufacturing Corporation|台积电]]（TSMC）、意法半导体（STMicroelectronics）、格芯（GlobalFoundries）、英飞凌（Infineon）、恩智浦（NXP）、博世（Bosch）及比利时微电子研究中心（IMEC）。
 > - **政策工具** 国家援助豁免许可、直接财政建厂补贴、欧盟联合研发基金与芯片基金（Chips Fund）股权投资。
 
 > [!pathways]- 实施路径
@@ -110,7 +111,7 @@ updated: 2026-10-04
 ## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
-> - **高权力 · 高利益 — 关键主导者** 德国与法国政府、欧盟委员会、意法半导体与台积电 — 主导资金落地与合资晶圆厂选址。
+> - **高权力 · 高利益 — 关键主导者** 德国与法国政府、欧盟委员会、意法半导体与[[Taiwan Semiconductor Manufacturing Corporation|台积电]] — 主导资金落地与合资晶圆厂选址。
 > - **高权力 · 低利益 — 潜在反对与制约力量** 财政空间较小的中东欧成员国 — 担忧法德补贴掏空单一市场公平竞争。
 > - **低权力 · 高利益 — 核心受益群体** 欧洲汽车工业联盟（大众、宝马、Stellantis）与 IMEC 研发科学家 — 获得近场芯片保供与研发资金。
 > - **低权力 · 低利益 — 边缘行动者** 消费级消费电子芯片中小设计商 — 由于欧洲本土缺乏高端智能手机设计生态而受益有限。
@@ -143,7 +144,7 @@ updated: 2026-10-04
 > - **结果指标** 欧洲全球晶圆制造产能份额（目标 2030 年达 20%）、汽车芯片本土采购自给率。
 
 > [!finding-cards] 实施成效与结构反响
-> - **打破国家援助禁忌** 成功推动法国意法/格芯项目与德国台积电 ESMC 项目落地，开创了欧盟成员国数十亿欧元直接资助半导体外资先导工厂的政策先例。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]
+> - **打破国家援助禁忌** 成功推动法国意法/格芯项目与德国[[Taiwan Semiconductor Manufacturing Corporation|台积电]] ESMC 项目落地，开创了欧盟成员国数十亿欧元直接资助半导体外资先导工厂的政策先例。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]
 > - **巩固欧洲特色工艺与汽车半导体基底** 稳固了 12nm–28nm 车规级微控制器与功率半导体的本地供给，降低了欧洲汽车制造业遭遇突发断链的系统风险。
 > - **强化前沿研发试验平台领导力** IMEC 亚 2nm 试验线获得欧盟与成员国联合重点注资，维持了欧洲在上游半导体基础工艺与设备材料测试领域的全球核心地位。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 98)]]
 
@@ -187,6 +188,6 @@ updated: 2026-10-04
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Modern Industrial Policy\|现代产业政策]] | 概念 | 本法案是欧洲重塑战略自主与推行现代产业政策的核心标志。 |
-> | [[Vertical Disintegration\|纵向离散]] | 概念 | 法案依托台积电代工模式弥补欧洲在制造环节的短板。 |
+> | [[Vertical Disintegration\|纵向离散]] | 概念 | 法案依托[[Taiwan Semiconductor Manufacturing Corporation\|台积电]]代工模式弥补欧洲在制造环节的短板。 |
 > | [[CHIPS and Science Act\|芯片与科学法案]] | 事实 | 美国芯片法案是引发欧洲出台对标政策的核心外部驱动力。 |
 > | [[October 2022 US Semiconductor Export Controls\|2022年10月出口管制]] | 事实 | 推动荷兰 ASML 跟进管制并促使欧洲强化本土供应链韧性。 |

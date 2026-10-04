@@ -26,6 +26,7 @@ tags:
   - theme/science-policy
 related_concepts:
   - "[[Vertical Disintegration]]"
+  - "[[Agglomeration Externalities]]"
   - "[[Modern Industrial Policy]]"
   - "[[Market Failure]]"
 related_theories:
@@ -145,7 +146,7 @@ updated: 2026-10-04
 > > 在高度细分的全球半导体网络中，依靠单一国家资本实现全产业链自给自足是否符合经济规律？
 > >
 > > - **供应链去风险与安全至上论** 地缘政治围堵表明外部技术随时可能被武器化切断，必须不惜代价建立从 EDA、制造设备到材料的端到端备份。
-> > - **全球纵向离散与效率稀释论（[[Argument_Bown_2024_JEP|Bown & Wang, 2024]]）** 半导体产业具有极高的专业化细分与全球集聚经济特征；任何单一国家试图脱离跨国多阶段网络打造封闭全产业链，都将面临巨大的研发效率折损、重复投资成本与创新能力稀释。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 86–90, 101–103)]]
+> > - **全球纵向离散与效率稀释论（[[Argument_Bown_2024_JEP|Bown & Wang, 2024]]）** 半导体产业具有极高的专业化细分与全球[[Agglomeration Externalities|集聚经济]]特征；任何单一国家试图脱离跨国多阶段网络打造封闭全产业链，都将面临巨大的研发效率折损、重复投资成本与创新能力稀释。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 86–90, 101–103)]]
 
 ---
 

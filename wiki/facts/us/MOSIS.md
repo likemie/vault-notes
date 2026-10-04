@@ -40,14 +40,16 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[DARPA]]"
+  - "[[VLSI Project]]"
   - "[[National Science Foundation]]"
+  - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[1956 AT&T Consent Decree]]"
 related_arguments:
   - "[[Argument_Mowery_2011_NBER]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # MOSIS
@@ -60,7 +62,7 @@ updated: 2026-10-03
 > 金属氧化物半导体实现服务平台（Metal Oxide Semiconductor Implementation Service，简称 MOSIS）是 1981 年在[[DARPA|美国国防高级研究计划局]]（DARPA）资助下由南加州大学信息科学研究所（USC/[[Import Substitution Industrialisation|ISI]]）创立的公共微电子原型制造与流片共享服务机构。作为微电子领域的国家级新型创新基础设施，MOSIS 首次在全行业实现了集成电路“逻辑设计”与“物理制造”的彻底解耦，是全球半导体产业转向“无晶圆厂设计（Fabless）+ 晶圆代工（Foundry）”现代专业化分工体系的制度与技术策源地。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 183)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1981 年正式设立；源于 1970 年代末施乐帕洛阿尔托研究中心（Xerox PARC）的林·康威（Lynn Conway）与加州理工学院（Caltech）的卡弗·米德（Carver Mead）提出的超大规模集成电路（VLSI）结构化设计革命。
+> - **成立时间 / 创设背景** 1981 年正式设立；源于 1970 年代末施乐帕洛阿尔托研究中心（Xerox PARC）的林·康威（Lynn Conway）与加州理工学院（Caltech）的卡弗·米德（Carver Mead）提出的超大规模集成电路（[[VLSI Project|VLSI]]）结构化设计革命。
 > - **总部地点 / 业务辐射** 总部设于美国加州南加州大学信息科学研究所，依托阿帕网（ARPANET）及后续互联网向全美及全球高校、国家实验室与中小芯片初创企业提供在线流片拼版服务。
 > - **法人属性与经费基础** 依托大学研究所设立的非营利公共技术服务实体，早期由 DARPA 与 国家科学基金会（[[National Science Foundation|NSF]]）提供核心研发运营资助，后逐步过渡至自负盈亏的高校与产业流片服务。
 > - **核心宗旨与法定职责** 为高校科研团队与无制造能力的初创企业提供低成本、快速迭代的集成电路原型制造通道，消除芯片物理流片的高昂资金壁垒。
@@ -71,8 +73,8 @@ updated: 2026-10-03
 
 > [!dev-timeline] 组织发展与服务演进历程
 > - **1978–1980 — 米德–康威革命与早期 MPC 试验** 米德与康威出版划时代著作《超大规模集成电路系统导论》，提出独立于具体晶圆代工厂工艺的“Lambda 可伸缩几何设计规则”；1979 年通过 ARPANET 开展首个多项目芯片（Multi-Project Chip, MPC79）远程流片试验，汇聚了全美十余所顶尖高校的 82 个芯片设计方案。
-> - **1981–1990 — [[DARPA]] 资助建制化与高校 VLSI 繁荣** DARPA 正式注资设立 MOSIS，由丹尼·科恩（Danny Cohen）等主持；MOSIS 承接全美计算机科学系所的流片需求，直接培育了斯坦福大学（MIPS 架构）与加州大学伯克利分校（RISC 架构）微处理器革命，支撑了全美 100 多所大学的 VLSI 实验教学。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 183)]]
-> - **1990s–至今 — 商业化 Fabless 生态奠基与先进工艺拓展** 随着台积电（TSMC）等商业晶圆代工厂的崛起，MOSIS 成为连接全球主流代工厂（TSMC、格罗方德、意法半导体）与全球科研机构的枢纽，支持深亚微米、FinFET 及硅光子前沿芯片原型的敏捷迭代。
+> - **1981–1990 — [[DARPA]] 资助建制化与高校 [[VLSI Project|VLSI]] 繁荣** DARPA 正式注资设立 MOSIS，由丹尼·科恩（Danny Cohen）等主持；MOSIS 承接全美计算机科学系所的流片需求，直接培育了斯坦福大学（MIPS 架构）与加州大学伯克利分校（RISC 架构）微处理器革命，支撑了全美 100 多所大学的 VLSI 实验教学。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 183)]]
+> - **1990s–至今 — 商业化 Fabless 生态奠基与先进工艺拓展** 随着[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（TSMC）等商业晶圆代工厂的崛起，MOSIS 成为连接全球主流代工厂（TSMC、格罗方德、意法半导体）与全球科研机构的枢纽，支持深亚微米、FinFET 及硅光子前沿芯片原型的敏捷迭代。
 
 ---
 
@@ -81,7 +83,7 @@ updated: 2026-10-03
 > [!actor-grid] 组织治理与协作网络
 > - **运营管理团队（USC/[[Import Substitution Industrialisation|ISI]]）** 负责接收全球网络提交的芯片版图文件、执行自动化几何与电气设计规则检查（DRC/ERC）并完成晶圆掩膜拼版（Wafer Mask Layout）。
 > - **公共资助与指导中枢（[[DARPA]] & [[National Science Foundation|NSF]]）** 负责提供战略拨款，补贴高校教师与研究生的流片费用，制定重点资助的微处理器与体系结构方向。
-> - **商业晶圆代工厂联盟（Commercial Foundries）** 包括惠普、德州仪器、IBM 及后续台积电等实体晶圆制造厂，向 MOSIS 提供多项目晶圆流片配额与标准工艺设计套件（PDK）。
+> - **商业晶圆代工厂联盟（Commercial Foundries）** 包括惠普、德州仪器、IBM 及后续[[Taiwan Semiconductor Manufacturing Corporation|台积电]]等实体晶圆制造厂，向 MOSIS 提供多项目晶圆流片配额与标准工艺设计套件（PDK）。
 > - **科研与初创设计社群** 覆盖全美高校电子工程与计算机系所师生、国防工业研发团队及硅谷无晶圆厂初创公司。
 
 > [!pathways]- 独特的多项目晶圆（MPW）流片机制
@@ -109,12 +111,12 @@ updated: 2026-10-03
 
 > [!indicators]- 体系成效指标
 > - **资源与项目规模** 累计完成超过 60,000 个芯片设计项目的流片验证，支持了数万名全球芯片设计师的工程实践。
-> - **学术与学科建制化** 支撑全美大学计算机科学与微电子学系从无到有建立起完备的 VLSI 实验体系，促成了《计算机体系结构：[[Quantitative Research|量化研究]]方法》经典[[Paradigm|范式]]的建立。
+> - **学术与学科建制化** 支撑全美大学计算机科学与微电子学系从无到有建立起完备的 [[VLSI Project|VLSI]] 实验体系，促成了《计算机体系结构：[[Quantitative Research|量化研究]]方法》经典[[Paradigm|范式]]的建立。
 > - **全球半导体产业分工重组** 推动半导体产业由纵向一体化（IDM）模式演变为“设计（Fabless）—代工（Foundry）—封测（OSAT）”的全球精细化分工网络。
 
 > [!finding-cards] 关键成效与辐射影响
 > - **跨越微电子创新的“[[Valley of Death|死亡之谷]]”** 将单次芯片流片试错成本从数十万美元降至数千美元，为大学颠覆性非共识芯片构想提供了风险极低的试验场。
-> - **全球“中立芯片代工”商业范式策源** MOSIS 的成功向全球半导体产业证明了代工制造服务的巨大商机，启发并直接催生了以台积电为代表的纯晶圆代工商业模式。
+> - **全球“中立芯片代工”商业范式策源** MOSIS 的成功向全球半导体产业证明了代工制造服务的巨大商机，启发并直接催生了以[[Taiwan Semiconductor Manufacturing Corporation|台积电]]为代表的纯晶圆代工商业模式。
 
 > [!stat-cards]- 核心规模数据
 > - **60,000+** MOSIS 成立以来累计流片交付的芯片设计总数。
@@ -141,7 +143,7 @@ updated: 2026-10-03
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[General Purpose Technology]] | Concept | MOSIS 推动的 VLSI 设计革命是信息技术 GPT 持续演进的核心底座。 |
+> | [[General Purpose Technology]] | Concept | MOSIS 推动的 [[VLSI Project\|VLSI]] 设计革命是信息技术 GPT 持续演进的核心底座。 |
 > | [[Demand-side Innovation Policy]] | Concept | MOSIS 体现了公共研发资金通过搭建共性基础设施促进技术扩散的需求侧政策逻辑。 |
 > | [[DARPA]] | Fact (Organization) | 创设并长期资助 MOSIS 的联邦国防前沿科研中枢。 |
 > | [[National Science Foundation]] | Fact (Organization) | 协同资助全美大学师生通过 MOSIS 开展微电子科研与教学。 |

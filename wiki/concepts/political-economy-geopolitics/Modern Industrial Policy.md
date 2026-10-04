@@ -21,6 +21,7 @@ tags:
   - semiconductor
 related_concepts:
   - "[[Market Failure]]"
+  - "[[Agglomeration Externalities]]"
   - "[[Learning by Doing]]"
   - "[[Vertical Disintegration]]"
   - "[[Hypothesis]]"
@@ -42,6 +43,7 @@ related_facts:
   - "[[China Integrated Circuit Industry Investment Fund]]"
   - "[[Sino-American Trade War]]"
   - "[[October 2022 US Semiconductor Export Controls]]"
+  - "[[Taiwan Semiconductor Manufacturing Corporation]]"
 related_arguments:
   - "[[Argument_Bown_2024_JEP]]"
 confidence: high
@@ -57,7 +59,7 @@ updated: 2026-10-04
 ## 定义
 
 > [!def] 核心定义
-> **现代产业政策（Modern Industrial Policy / New Industrial Policy）**指 21 世纪以来主要工业经济体在高科技战略领域（特别是半导体、人工智能与绿色技术）所采取的政府干预形态。与 20 世纪下半叶以纠正[[Market Failure|市场失灵]]（如集聚外部性、干中学效应）、扶持本土产业实现赶超与追求经济效率为核心目的的传统产业政策不同，现代产业政策深度嵌入于大国战略博弈与地缘政治竞争之中，将供应链安全、地理多元化分散（去风险）、遏制对手获取先进制程技术以及维护国家安全确立为首要政策目标。其政策工具箱突破了单纯的研发资助与生产补贴，演化为包含巨额资本补贴、前置研发支持、跨国投资安全审查、单边与多边技术出口管制、盟友间友岸外包（Friendshoring）及战略原材料反制的多维复合治理网络。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81–83, 101–103)]]
+> **现代产业政策（Modern Industrial Policy / New Industrial Policy）**指 21 世纪以来主要工业经济体在高科技战略领域（特别是半导体、人工智能与绿色技术）所采取的政府干预形态。与 20 世纪下半叶以纠正[[Market Failure|市场失灵]]（如[[Agglomeration Externalities|集聚外部性]]、[[Learning by Doing|干中学]]效应）、扶持本土产业实现赶超与追求经济效率为核心目的的传统产业政策不同，现代产业政策深度嵌入于大国战略博弈与地缘政治竞争之中，将供应链安全、地理多元化分散（去风险）、遏制对手获取先进制程技术以及维护国家安全确立为首要政策目标。其政策工具箱突破了单纯的研发资助与生产补贴，演化为包含巨额资本补贴、前置研发支持、跨国投资安全审查、单边与多边技术出口管制、盟友间友岸外包（Friendshoring）及战略原材料反制的多维复合治理网络。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81–83, 101–103)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向国家超越纯粹经济效率考量，将技术主导权、供应链韧性与地缘政治防御融为一体的宏观产业干预体系。
@@ -85,7 +87,7 @@ updated: 2026-10-04
 > | **产业组织[[Hypothesis\|假设]]** | 假设企业为纵向一体化（IDM），易于扶植单一“国家冠军” | 面对全球 [[Vertical Disintegration\|纵向离散]] 与高度模块化的超长供应链网络 |
 > | **主导政策工具** | 研发财团联盟资助（如 [[Sematech]]、[[VLSI Project]]）、双边管理贸易协定（如 [[1986 U.S.-Japan Semiconductor Trade Agreement\|美日半导体贸易协定]]） | 巨额资本补贴（如 [[CHIPS and Science Act\|芯片与科学法案]]、[[European Chips Act\|欧洲芯片法案]]）、单边与多边出口管制、投资审查与战略矿产限制 |
 > | **国际协调机制** | 双边关税谈判、[[World Trade Organization\|世贸组织]]（WTO）多边争端解决机制 | 阵营化友岸外包协作网络、多边技术封锁联盟、非关税单边制裁工具 |
-> | **经济成本特征** | 主要是贸易扭曲与下游用户成本上升 | 丧失集聚经济与规模效应、产能重复建设与潜在全球结构性产能过剩 |
+> | **经济成本特征** | 主要是贸易扭曲与下游用户成本上升 | 丧失[[Agglomeration Externalities\|集聚经济]]与规模效应、产能重复建设与潜在全球结构性产能过剩 |
 
 ---
 
@@ -135,7 +137,7 @@ updated: 2026-10-04
 > 探讨产业政策从追求“效率最优化”转向“安全韧性最优化”时，空间分散与产能重复建设对规模经济与集聚红利的不可避免侵蚀。
 
 > [!claim] [[Argument_Bown_2024_JEP|Bown & Wang (2024)]]
-> **保险成本与集聚效益稀释** 现代产业政策推动半导体制造业向美国、欧洲等高成本地区回流与向多个友好国家分散，本质上是一种购买国家安全与供应链保险的行为；这种空间分散打破了东亚地区高度集中的产业集聚生态，导致新晶圆厂在较小规模或分散地点运营，不可避免地削弱了集聚外部性（Agglomeration Externalities）并推高长期制造成本。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 102–103)]]
+> **保险成本与集聚效益稀释** 现代产业政策推动半导体制造业向美国、欧洲等高成本地区回流与向多个友好国家分散，本质上是一种购买国家安全与供应链保险的行为；这种空间分散打破了东亚地区高度集中的产业集聚生态，导致新晶圆厂在较小规模或分散地点运营，不可避免地削弱了[[Agglomeration Externalities|集聚外部性]]（Agglomeration Externalities）并推高长期制造成本。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 102–103)]]
 
 ---
 
@@ -213,7 +215,7 @@ updated: 2026-10-04
 > | 经济体 | 政策载体 | 资金规模与核心工具 | 战略重点 | 来源 |
 > |---|---|---|---|---|
 > | 美国 | [[CHIPS and Science Act\|芯片与科学法案]] (2022) | 527 亿美元直接拨款（390 亿制造补贴 + 110 亿研发）+ 25% 投资税收抵免 | 吸引先进制程回流本土、护栏条款限制对华扩产、[[October 2022 US Semiconductor Export Controls\|全面出口管制]] | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, pp. 97–99)]] |
-> | 欧盟 | [[European Chips Act\|欧洲芯片法案]] (2023) | 430 亿欧元公共与私人投资动员 | 吸引台积电、格芯与意法半导体在德法建厂，力争 2030 年实现 20% 制造份额 | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, p. 100)]] |
+> | 欧盟 | [[European Chips Act\|欧洲芯片法案]] (2023) | 430 亿欧元公共与私人投资动员 | 吸引[[Taiwan Semiconductor Manufacturing Corporation\|台积电]]、格芯与意法半导体在德法建厂，力争 2030 年实现 20% 制造份额 | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, p. 100)]] |
 > | 中国 | [[China Integrated Circuit Industry Investment Fund\|国家大基金]] (一期/二期) | 数千亿元人民币股权投资基金 + 地方配套与税收优惠 | 突破卡脖子先进制程装备与材料、重点投资成熟制程产能替代 | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, pp. 93–94)]] |
 > | 日本 | 经济安保半导体专项预算 (2022–) | 超 30 亿美元补贴台积电熊本厂 + 资助 Rapidus 2nm 研发项目 | 稳固汽车与工业成熟芯片供应、联合 IBM 攻关下一代 2nm 尖端制程 | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, p. 100)]] |
 

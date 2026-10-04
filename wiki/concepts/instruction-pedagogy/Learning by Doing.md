@@ -3,31 +3,43 @@ title: Learning by Doing
 aliases:
   - 在做中学
   - 从做中学
-summary: "约翰·杜威进步主义教育的核心教学主张，认为最深刻的知识是“如何做的知识”，学生通过参与真实、动手与解决问题的活动建构经验与批判性思维。"
+  - 干中学
+  - Learning-by-Doing
+summary: "个体与组织通过实际行动、工程实践与试错排障获取并内化深层知识的认识与生产率演进机制。在杜威进步主义教育中指通过真实探究建构批判性思维的核心教学法；在产业组织与创新经济学中指随累积产量爬坡带来的动态良率提升与单位成本下降（学习曲线效应），构成了政府为扶持先发优势与动态比较优势提供产业政策补贴的核心经济学辩护基石。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 27
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - field/educational-philosophy
   - field/instruction-pedagogy
   - theme/active-learning
   - theme/critical-thinking
+  - theme/industrial-policy
+  - theme/innovation-economics
 related_concepts:
+  - "[[Document]]"
   - "[[Progressive Education]]"
   - "[[Rote Learning]]"
-  - "[[Reflexivity]]"
-  - "[[Banking Model of Education]]"
-  - "[[Reflective Thinking]]"
-  - "[[Familiarization]]"
-  - "[[Hypothesis]]"
-  - "[[Growth]]"
   - "[[Critical Thinking]]"
+  - "[[Modern Industrial Policy]]"
+  - "[[Learning Economy]]"
+  - "[[Emergence]]"
+  - "[[Hypothesis]]"
+  - "[[Agglomeration Externalities]]"
+  - "[[Market Failure]]"
+  - "[[Problem Solving]]"
+  - "[[Knowledge Exchange]]"
+  - "[[Variable]]"
+  - "[[Mind Mapping]]"
+  - "[[Epistemology]]"
+  - "[[Reflexivity]]"
+  - "[[Higher-Order Thinking Skills]]"
+  - "[[Reflective Thinking]]"
+  - "[[STEM Education]]"
   - "[[Active Learning]]"
-  - "[[Experiential Learning]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Statistical Process Control]]"
@@ -37,8 +49,11 @@ related_persons:
   - "[[John Dewey]]"
 related_facts:
   - "[[Fairchild Semiconductor]]"
+  - "[[Taiwan Semiconductor Manufacturing Corporation]]"
+  - "[[VLSI Project]]"
 related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
+  - "[[Argument_Bown_2024_JEP]]"
   - "[[Argument_Lecuyer_1999_HT]]"
 confidence: high
 status: active
@@ -53,56 +68,121 @@ updated: 2026-10-04
 ## 定义
 
 > [!def] 核心定义
-> 在做中学（Learning by Doing）是[[John Dewey\|约翰·杜威]][[Progressive Education\|进步主义教育]]哲学与教学法的核心命题。杜威指出，最先进入个体认知且最根深蒂固的知识是“关于如何做的知识”（knowledge of how to do）[[Argument_Darwish_2009_Queens\|(Dewey, 1961, p. 184; 引自 Darwish, 2009, p. 35)]]。该原则拒绝将学习还原为被动听讲与[[Rote Learning\|死记硬背]]，主张通过安排具有真实挑战与动手操作性质的活动，激发学习者的[[Reflexivity\|反思性]]思考与自主探究。
+> **在做中学（Learning by Doing）**，在经济学与产业政策[[Document|文献]]中常称**干中学**，是指认知主体或产业组织通过投身真实实践操作、持续试错排障与生产规模积累，从而内生性获取、提炼并改进深层知识与技能的动态学习机制。在**[[Progressive Education|进步主义教育]]哲学**中，[[John Dewey|约翰·杜威]]（John Dewey）将其确立为打破[[Rote Learning|死记硬背]]、通过真实任务建构行动性理解与[[Critical Thinking|批判性思维]]的核心教学法；[[Argument_Darwish_2009_Queens|(Dewey, 1961; 引自 Darwish, 2009, p. 35)]] 在**产业组织与[[Modern Industrial Policy|现代产业政策]]**视角下，干中学表现为随着累积产出规模的扩大，制造良率（Yield）逐步提升且单位生产成本持续以几何级数下降的[[Learning Economy|学习曲线效应]]（Learning Curve Effect），构成了政府通过前期产业政策补贴分摊沉没风险、帮助本土企业确立先发优势（First-mover Advantage）与动态比较优势的核心经济学理论辩护。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 102)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 强调儿童天性并不擅长抽象探究，只有当教学要求他们通过智能方式去“处理事物”（doing）时，熟悉感与深刻理解才会产生。
-> - **用途** 用于重构课堂教学，摆脱传统[[Banking Model of Education\|储蓄式教育]]的单向听讲模式，将学生由听众转变为主动解决问题的能动探究者。
-> - **边界** “做”必须是有目的、受[[Reflective Thinking\|反思性思维]]引导的做，而非盲目的、无目的的机械重复（动物式的“试错法”cut and try）。
+> - **含义** 强调深层知识并非静态信息灌输的结果，而是在持续动作、反馈与工艺调试的具身回路中内生[[Emergence|涌现]]的自适应专长。
+> - **用途** 在课堂教学中用于破除储蓄式灌输，将学生重塑为能动探究者；在高科技产业竞争中用于解释为何高额固定成本的先进制程制造具有强烈的规模报酬递增，进而为反垄断管制或政府战略性补贴提供因果解释工具。
+> - **边界** 必须区别于盲目机械的动物式“试错”（cut and try）；有效的在做中学高度依存于受控[[Hypothesis|假设]]检验与[[Statistical Process Control|统计过程控制]]，且若缺乏高素质工程师团队的持续工艺排障，简单的产量增加并不必然自动带来良率爬坡。
 
-> [!citation-card]- 关键表述：做与深层知识
-> 最先来到一个人面前、且留存最为根深蒂固的知识，是关于如何做的知识……通过智性方式去处理事物，才能产生真正的熟悉与掌握。（Dewey, 1961, pp. 184–185; 引自 Darwish, 2009, p. 35）
+> [!citation-card] 现代产业政策辩护中的干中学效应
+> 利用产业政策解决[[Agglomeration Externalities|集聚外部性]]、干中学和技术领先等[[Market Failure|市场失灵]]问题的潜在功能依然存在；政府若能在技术早期通过订单采购或研发补贴支持企业承担巨额固定研发成本，将加速企业跨越干中学门槛并降低全行业长期成本。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 102)]]
 >
-> *The knowledge which comes first to person, and that remains most deeply ingrained, is knowledge of how to do... Having to do with things in an intelligent way issues in acquaintance or [[Familiarization\|familiarity]]. (Dewey, 1961, pp. 184–185)*
+> *The potential role for governments to use industrial policy to address market imperfections such as agglomeration externalities, learning by doing, and technological leadership remains relevant.*
+
+> [!boundary]- 概念边界
+> - 不等于 **机械重复性劳动（Rote Repetition）** — 单纯增加动作频次而不进行反思监控与数据分析，只会强化错误操作习惯，无法形成工艺飞跃。
+> - 不等于 **企业静态物理规模经济（Static Scale Economies）** — 静态规模经济是特定时点大工厂平摊固定折旧，而干中学是动态的时间与经验函数，反映的是跨期累积产量（Cumulative Output）带来的不可逆知识资本积累。
+> - 不可脱离 **高素质工程劳动力池支持** — 芯片制造中的干中学无法单靠机器自主完成，必须依赖车间工程师对光刻缺陷、气相沉积均匀度与化学腐蚀残留进行微观归因排障。
 
 ---
 
-## 核心要素与典型案例
+## 概念辨析
 
-> [!theory-components] “在做中学”的内在机制
-> - **真实问题的驱动（Problem-Driven Activity）**
->   学习起点必须是具体的动手任务，要求学生自己发现难题并提出[[Hypothesis\|假设]] [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 35)]]。
-> - **同伴合作与对话（Collaborative Interchange）**
->   在动手操作过程中，学习者必须分工合作、沟通发现、讨论设计并解决冲突 (p. 35)。
-> - **经验的重组与生长（Restructuring of Experience & [[Growth]]）**
->   “做”的结果反馈到认知中，促使学习者重新审视与修改已有经验，实现心智的持续增长 (p. 44)。
+> [!contrast-table] 概念辨析
+> | 维度 | 教育哲学中的“在做中学” | 工业制造中的“干中学”（学习曲线） | 静态规模经济（Scale Economies） | 外部知识溢出（Knowledge Spillovers） |
+> |---|---|---|---|---|
+> | **分析载体** | 课堂学生心智与[[Critical Thinking\|批判性思维]] | 车间工程团队、制造良率与工时 | 工业厂房与物理设备的瞬时产能规模 | 跨组织流动的公地知识与行业诀窍 |
+> | **核心机制** | 真实任务挑战触发[[Hypothesis\|假设]]检验与经验重组 | 跨期累积产量爬坡触发工艺排障与缺陷消除 | 当期产出增加摊薄固定资产折旧与管理费 | 人才流动与非正式交流促进经验扩散 |
+> | **产出形态** | [[Problem Solving\|问题解决能力]]、自适应专长与理智好奇心 | 晶圆良率从 10% 提升至 90%+、单位芯片成本骤降 | 单件产品即时边际成本曲线沿短期成本线下移 | 整个产业集群技术水位普遍提升 |
+> | **政策与教学意涵** | PBL 项目化探究、动手制作与实验验证 | 为战略新兴产业提供先发补贴以越过成本门槛 | 鼓励企业兼并重组以达到最小有效规模 | 建设产业园区与促进[[Knowledge Exchange\|知识交流]]网络 |
 
 ---
 
-> [!case] 案例一：构建投石机（Building a Catapult）项目
+## 核心要素与典型机制
+
+> [!feature] 核心要素
+> - **真实任务与工艺挑战的牵引（Problem-Driven Activity）** 学习与改进的起点必须是真实的工程或探究难题，迫使主体直面缺陷并提出[[Hypothesis|假设]]。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 35)]]
+> - **受控假设检验与[[Statistical Process Control|统计过程控制]]（Controlled Process Control）** 在工业制造车间，干中学通过严格控制工艺[[Variable|变量]]、记录缺陷晶圆切片与微观化学归因展开，将隐性试错转化为显性知识。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 195–199)]]
+> - **累积产量带来的动态成本陡降（Dynamic Learning Curve）** 半导体工业实证表明，累积产量每翻一番，单位芯片生产成本通常下降 20%–30%，使先发企业构筑起强大的动态成本护城河。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 83)]]
+> - **经验反思与[[Mind Mapping|心智图]]式重组（Restructuring of Experience）** 实践反馈重塑主体先验图式，使后续决策不再依赖初始摸索。
+
+---
+
+## 围绕概念形成的命题
+
+---
+
+### 命题一　在做中学是促成主动探究与批判性思维生长的根本机制，而非机械试错
+
+> [!concept-lens] 教育[[Epistemology|认识论]]与[[Reflexivity|反思性]]经验重构
+> 解释个体认知如何从被动接受外在符号转向在真实操作反馈中发展[[Higher-Order Thinking Skills|高阶思维]]与自适应专长。
+
+> [!claim] Dewey (1961) & Darwish (2009)
+> **经验重组与心智增长的行动性路径** [[John Dewey|杜威]]指出，最先进入个体认知且留存最深的是行动知识；但“做”必须是有目的、受[[Reflective Thinking|反思性思维]]引导的智性操作。通过构建真实问题情境（如自主设计并制造一台可投射的投石机），学习者在面对材料断裂、角度偏差等真实阻碍时，自然激发了[[Hypothesis|假设]]检验、参数微调与同伴协商，从而使经验在持续重组中实现智性增长。[[Argument_Darwish_2009_Queens|(Dewey, 1961; Darwish, 2009, pp. 35, 44)]]
+
+---
+
+### 命题二　制造良率爬坡的组织化干中学构成了高科技先发优势与产业政策补贴的核心经济学辩护
+
+> [!concept-lens] 产业经济学与动态规模报酬递增
+> 阐明高科技制造业为何具有强烈的路径依赖，以及政府通过公共补贴分担早期生产规模积累风险的正当性。
+
+> [!claim] [[Argument_Bown_2024_JEP|Bown & Wang (2024)]]
+> **半导体良率学习曲线与产业政策的效率假说** 查德·博恩（Chad P. Bown）与汪智（Zhi Wang）指出，芯片制造不仅要求百亿美元级的沉没研发支出，更具有极度陡峭的干中学学习曲线。新一代尖端制程在刚投产时良率往往极低（甚至不足 20%），企业唯有通过连续大规模生产才能暴露出微观工艺缺陷并完成良率爬坡。这一机制意味着先发扩大产能的企业能以最快速度降低平均成本并挤垮对手。由于早期高缺陷率造成的亏损构成了巨大的私人投资壁垒，政府动用直接采购或建厂补贴支持本土企业承担早期规模化风险，在经济学上具备纠正[[Market Failure|市场失灵]]、培育动态比较优势的理论正当性。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 102)]]
+
+> [!claim] [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]]
+> **微观车间排障与主动组织化干中学的实证确证** 克里斯托夫·莱居耶（Christophe Lécuyer）实证考察[[Fairchild Semiconductor|仙童半导体]]在 1960 年代量产硅晶体管与集成电路的历史表明，良率从不足 10% 跃升至 80% 绝非被动伴随产量增加而发生的机械熟练，而是工程技术团队在车间实操中主动开展假设检验——通过排查加州光化学烟雾对光刻胶的硬化影响、设计高纯氮气保护装置以及推行[[Statistical Process Control|统计过程控制]]（SPC），在试错与排障实践中完成了深度组织化工艺知识积累。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 195–199)]]
+
+---
+
+### 命题总览
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **教育认知建构命题** | 真实任务挑战触发假设检验与经验重组，破除储蓄式灌输并塑造[[Critical Thinking\|批判性思维]] | 课堂探究教学、[[STEM Education\|STEM]] 项目化学习、实验与动手任务 | Dewey (1961); Darwish (2009) |
+> | **产业政策效率命题** | 芯片良率爬坡依赖累积规模，早期补贴分担干中学风险构成培育动态先发优势的理论基石 | 先进半导体制造、战略性贸易政策、重大装备工业扶植 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024)]] |
+> | **车间组织排障命题** | 干中学是工程师团队主动开展假设检验与统计过程控制的主动知识积累过程 | 微电子工艺工程史、制造车间质量控制与流程优化 | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]] |
+
+---
+
+## 典型案例
+
+> [!case] 案例一：教育中的构建投石机（Building a Catapult）项目
 > 杜威与 Darwish (2009, p. 35) 对比了两种教学模式：
-> - **传统讲授模式** 教师在讲台上口头宣讲投石机的物理原理与制作步骤，学生被动听讲与记忆公式——这种教学制造了“听讲的被动与吸收”，无法引发深度思考。
-> - **在做中学模式** 教师给小组学生布置一项真实任务：**制作一台可投射的投石机（build a functional catapult）**。接收到任务后，学生需要自主分工研究资料、讨论结构设计、试验材料强度并调试角度。在这一“做”的过程中，解决困难的迫切需求自然激发了[[Critical Thinking\|批判性思维]]、协同对话与探究。
+> - **传统讲授模式** 教师在讲台上口头宣讲投石机的物理原理与制作步骤，学生被动听讲与记忆公式——这种教学制造了听讲的被动与吸收，无法引发深度思考。
+> - **在做中学模式** 教师给小组学生布置一项真实任务：制作一台可投射的投石机。接收到任务后，学生需要自主分工研究资料、讨论结构设计、试验材料强度并调试角度。在这一做的过程中，解决困难的迫切需求自然激发了[[Critical Thinking|批判性思维]]、协同对话与探究。
 
-> [!case] 案例二：高科技制造中的组织化“在做中学”（Organizational Learning by Doing）
-> 经济学与技术史学者（Arrow, 1962; [[Argument_Lecuyer_1999_HT|Lécuyer, 1999, pp. 195–199]]）将“在做中学”拓展至工业工程与组织技能演进：
-> - **制造良率的[[Active Learning|主动学习]]曲线** [[Fairchild Semiconductor|仙童半导体]]在 1960 年代量产硅晶体管与集成电路的过程中，工艺良率从不足 10% 跃升至 80% 并驱动成本断崖式下降。该过程证实，产业中的“在做中学”并非随着产量增加而被动发生的机械熟练，而是工程技术团队在车间实操中主动开展假设检验——通过排查加州光化学烟雾对光刻胶的硬化影响、设计高纯氮气保护装置以及推行[[Statistical Process Control|统计过程控制]]（SPC），在试错与排障实践中完成了深度组织化工艺知识积累。
+> [!case] 案例二：高科技制造中的组织化良率爬坡
+> [[Fairchild Semiconductor|仙童半导体]]与[[Taiwan Semiconductor Manufacturing Corporation|台积电]]的晶圆制造实践：
+> - 仙童半导体在 1960 年代通过工程团队排障使硅平面晶体管良率翻数倍；
+> - 台积电当代先进制程依托苹果与英伟达的海量晶圆代工订单，在生产中快速积累缺陷密度分布数据，使 3nm 工艺良率爬坡速度显著优于竞争对手，强化了干中学带来的跨期成本壁垒。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 88)]]
 
 ---
 
-## 条目关联
+## 相关条目网络
 
 > [!entry-map]
 >
-> | 条目 | 类型 | 贡献 |
+> | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[John Dewey]] | 人物 | 提出“在做中学”的核心教育哲学。 |
-> | [[Active Learning]] | 概念 | “在做中学”是主动学习模型的[[Critical Thinking\|批判性思维]]基石。 |
-> | [[Experiential Learning]] | 概念 | “做”是经验生成与重组的中介。 |
-> | [[Reflective Thinking]] | 概念 | 区别智性“做”与动物盲目试错的关键。 |
-> | [[Fairchild Semiconductor]] | 事实 | 在半导体量产工艺中生动展现了组织化“在做中学”的经典企业。 |
-> | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]] | 论证 | 实证分析微电子制造中组织化学习与工艺改良机制的[[Document\|文献]]。 |
+> | [[John Dewey]] | Person | 提出在做中学教育哲学的思想先驱。 |
+> | [[Active Learning]] | Concept | 在做中学是主动学习模型的[[Critical Thinking\|批判性思维]]与认知建构基石。 |
+> | [[Modern Industrial Policy]] | Concept | 干中学带来的动态规模报酬递增构成了现代产业政策补贴早期规模积累的理论依据。 |
+> | [[Market Failure]] | Concept | 早期干中学过程中高昂的试错亏损与外部性外溢是导致纯私营市场投资不足的经典失灵形态。 |
+> | [[Agglomeration Externalities]] | Concept | 集群内多厂商高频的干中学经验通过劳动力流动外溢，共同催生了强大的空间集聚外部性。 |
+> | [[Taiwan Semiconductor Manufacturing Corporation]] | Fact (Organization) | 凭借庞大代工规模实现极致良率爬坡与干中学飞轮的全球晶圆代工巨擘。 |
+> | [[Fairchild Semiconductor]] | Fact (Organization) | 在半导体量产工艺中生动展现了组织化在做中学的经典微电子先驱企业。 |
+> | [[VLSI Project]] | Fact (Program) | 日本政府通过联合攻关组织五大企业共享共性工艺研发，加速国内企业跨越干中学门槛。 |
 
-> [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 详细拆解“在做中学”在主动学习模型中的案例与反思性思维运作机制。
+---
+
+## 相关研究
+
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 详细拆解“在做中学”在[[Active Learning|主动学习]]模型中的案例与[[Reflective Thinking|反思性思维]]运作机制。
 > - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 从微观企业史视角阐明高科技大规模制造车间中工程排障与工艺良率提升的组织化“在做中学”机制。
+> - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 从[[Modern Industrial Policy|现代产业政策]]与半导体全球竞争视角，阐述干中学如何通过先进制程良率爬坡构筑动态成本壁垒，以及政府补贴介入的经济学逻辑。
+
+---

@@ -48,6 +48,7 @@ related_facts:
   - "[[Sematech Centers of Excellence]]"
   - "[[Focus Center Research Program]]"
   - "[[CHIPS and Science Act]]"
+  - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[American Council on Education]]"
   - "[[Microelectronics and Computer Technology Corporation]]"
 related_arguments:
@@ -90,7 +91,7 @@ updated: 2026-10-04
 ## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
-> - **理事会（Board of Directors）** 由成员企业高级研发副总裁（如 Intel、IBM、TSMC、TI、Qualcomm）及行业资深学者共同组成，决定中长期技术方向与总体资金分配。
+> - **理事会（Board of Directors）** 由成员企业高级研发副总裁（如 Intel、IBM、[[Taiwan Semiconductor Manufacturing Corporation|TSMC]]、TI、Qualcomm）及行业资深学者共同组成，决定中长期技术方向与总体资金分配。
 > - **科学顾问委员会（Science Advisory Board）** 由高校知名教授、国家实验室首席科学家组成，负责学科前沿评估与同行评审标准制定。
 > - **行业导师机制（Industrial Liaison / Mentors）** 每项大学资助课题均配备 2 至 3 名来自不同成员企业的资深工程师担任产业导师，每月跟踪进展并提供工业级测试数据支持。
 > - **大学研究团队与研究生学者（SRC Scholars）** 资助范围覆盖教授、博士后及博士研究生，形成直通工业界的顶尖人才培养蓄水池。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]

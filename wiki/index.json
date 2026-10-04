@@ -7213,7 +7213,9 @@
     "path": "wiki/concepts/instruction-pedagogy/Learning by Doing.md",
     "aliases": [
       "在做中学",
-      "从做中学"
+      "从做中学",
+      "干中学",
+      "Learning-by-Doing"
     ]
   },
   {
@@ -7990,6 +7992,17 @@
       "Separation of Politics and Pedagogy",
       "Severability Principle in Educational Borrowing",
       "Severability of Governance and Pedagogy"
+    ]
+  },
+  {
+    "title": "Agglomeration Externalities",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Agglomeration Externalities.md",
+    "aliases": [
+      "集聚外部性",
+      "集聚经济",
+      "Agglomeration Economies",
+      "空间集聚外部性"
     ]
   },
   {
@@ -23890,6 +23903,17 @@
     "aliases": [
       "Danish Public School Reform 2014",
       "丹麦公立学校改革2014"
+    ]
+  },
+  {
+    "title": "Taiwan Semiconductor Manufacturing Corporation",
+    "type": "fact",
+    "path": "wiki/facts/east-asia/Taiwan Semiconductor Manufacturing Corporation.md",
+    "aliases": [
+      "台积电",
+      "台湾积体电路制造公司",
+      "TSMC",
+      "Taiwan Semiconductor Manufacturing Co."
     ]
   },
   {

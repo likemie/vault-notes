@@ -60,6 +60,7 @@ related_facts:
   - "[[Sematech]]"
   - "[[1986 U.S.-Japan Semiconductor Trade Agreement]]"
   - "[[Ministry of International Trade and Industry]]"
+  - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[Bell Labs]]"
 related_arguments: []
 sources:
@@ -264,7 +265,7 @@ issuing_organization: ""
 
 #### 2. 设计与制造解耦的无晶圆厂模式大幅降低了创新创业门槛并协同本土下游应用繁荣
 
-设计公司专注于微架构与算法创新，将晶圆制造外包给专业代工厂（如中国台湾的台积电与联电）或具备富余产能的厂商，无须承担高额晶圆厂固定资本投资。
+设计公司专注于微架构与算法创新，将晶圆制造外包给专业代工厂（如中国台湾的[[Taiwan Semiconductor Manufacturing Corporation|台积电]]与联电）或具备富余产能的厂商，无须承担高额晶圆厂固定资本投资。
 
 > [!figure]- 图6：美国新型半导体企业创立数量趋势（1966–1996）
 > ![](https://img.mylikemie.icu/sources/Macher_1998_CMR/figures/Macher_1998_CMR_Fig6_Formation_of_New_US_Semiconductor_Firms.jpg)
