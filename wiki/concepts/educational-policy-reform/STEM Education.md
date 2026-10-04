@@ -8,10 +8,10 @@ aliases:
 summary: "涵盖科学、技术、工程与数学四大学科的跨学科融合教育范式与国家战略，主张打破传统分科壁垒，依托真实情境问题解决、工程设计与探究实践培养综合创新与认识论素养；在教学论上面向指导式探究与直接讲授的时序整合，并尊重各子学科的特异性认识论规程。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 concept_field: "educational-policy-reform"
 tags:
   - educational-policy-reform/stem
@@ -68,6 +68,7 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
   - "[[Argument_Murphy_2026_JTS]]"
+  - "[[Argument_Brint_2023_IHE]]"
 related_methods:
   - "[[Design-Based Research]]"
   - "[[Effect Size]]"
@@ -86,24 +87,22 @@ updated: 2026-10-05
 
 ## 定义
 
-科学、技术、工程与数学教育（Science, Technology, Engineering, and Mathematics Education, STEM）是科学（Science）、技术（Technology）、工程（Engineering）与数学（Mathematics）四个学科领域深度交叉融合的教育[[Paradigm|范式]]与国家战略总称。
-
 > [!def] 核心定义
-> STEM 教育打破传统孤立分科教学的割裂状态，主张将学生置于真实世界的问题情境中，依托工程设计流程（Engineering Design Process）与科学[[Inquiry Cycle\|探究循环]]（Inquiry Cycle），综合调动多学科原理进行建模、原型开发与实证检验，旨在培育学习者的[[Scientific Literacy\|科学素养]]、[[Critical Thinking\|批判性思维]]、高阶[[Problem Solving\|问题解决能力]]与跨学科[[Epistemic Practices\|认识论实践]]素养。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 2)]]；[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 142–143)]]
+> 科学、技术、工程与数学教育（Science, Technology, Engineering, and Mathematics Education, STEM）是科学（Science）、技术（Technology）、工程（Engineering）与数学（Mathematics）四个学科领域深度交叉融合的教育[[Paradigm|范式]]与国家战略总称。它打破传统孤立分科教学的割裂状态，主张将学生置于真实世界的问题情境中，依托工程设计流程（Engineering Design Process）与科学[[Inquiry Cycle|探究循环]]（Inquiry Cycle），综合调动多学科原理进行建模、原型开发与实证检验，旨在培育学习者的[[Scientific Literacy|科学素养]]、[[Critical Thinking|批判性思维]]、高阶[[Problem Solving|问题解决能力]]与跨学科[[Epistemic Practices|认识论实践]]素养，并在大国竞争中构成国家关键科技劳动力储备的战略基石。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, p. 2)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 142–143)]]; [[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]
 
 > [!concept-lens] 概念透镜
-> - **战略与政策定位** 应对全球化[[Knowledge-Based Economy\|知识经济]]与产业变革，通过国家立法确立战略地位并设立公共专项资助，扩大关键领域创新人才储备。
-> - **课程与[[Epistemology\|认识论]]定位** 从单纯掌握事实性结论转向在真实探究与工程设计中体验[[Nature of Science\|科学本质]]与[[Epistemic Practices\|认识论实践]]，强调跨学科概念整合与技术仿真的微世界探索。
+> - **战略与政策定位** 应对全球化[[Knowledge-Based Economy|知识经济]]与地缘产业竞争，通过国家立法确立战略地位并设立公共专项资助（如数十亿美元直接理科资助与研究生奖学金扩招），解决先进制程与关键技术人才瓶颈。
+> - **课程与[[Epistemology|认识论]]定位** 从单纯掌握事实性结论转向在真实探究与工程设计中体验[[Nature of Science|科学本质]]与[[Epistemic Practices|认识论实践]]，强调跨学科概念整合与技术仿真的微世界探索。
 > - **概念边界** 区别于各单科知识的机械相加（如在物理课后附加一道孤立的数学算术题）；强调以真实复杂的跨学科挑战为纽带的深层有机互构。
 
 > [!citation-card] 德容等（2023）论 STEM 探究教学与讲授指导的协同
-> [[Ton de Jong\|德容]]等（De Jong et al.）指出，STEM 教育中关于教学法的争论不应停留在[[Direct Instruction\|直接讲授]]与[[Discovery Learning\|纯发现学习]]的二元对立上；现代学习科学的共识在于，优质 STEM 教学是经过精心支架设计的[[Inquiry-Based Learning\|指导式探究]]，通过将显性指导与自主建模有机融合，促进学习者深层概念理解与[[Higher-Order Thinking Skills\|高阶思维]]发展。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–4)]]
+> [[Ton de Jong|德容]]等（De Jong et al.）指出，STEM 教育中关于教学法的争论不应停留在[[Direct Instruction|直接讲授]]与[[Discovery Learning|纯发现学习]]的二元对立上；现代学习科学的共识在于，优质 STEM 教学是经过精心支架设计的[[Inquiry-Based Learning|指导式探究]]，通过将显性指导与自主建模有机融合，促进学习者深层概念理解与[[Higher-Order Thinking Skills|高阶思维]]发展。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 2–4)]]
 >
 > *The debate on STEM pedagogy should move beyond the false dichotomy between direct instruction and pure discovery; learning sciences demonstrate that effective STEM teaching relies on guided inquiry with systematic scaffolds.*
 
 > [!boundary]- 概念边界
-> - **不等于分科科学教育（Disciplinary Science Education）** — 传统分科教育依循物理、化学、生物等独立学科知识树展开，侧重本学科概念体系的纵向深化；STEM 教育强调以真实多[[Variable\|变量]]问题为驱动，横向打通学科边界并融入工程设计与数学建模。
-> - **不等于创客教育（Maker Education）** — 创客教育侧重动手造物与工具体验，有时容易陷入缺乏深层学科概念支持的形式化操作；STEM 教育必须以严密的学科概念与认识论规范为根基。
+> - **不等于分科科学教育** — 传统分科教育依循物理、化学、生物等独立学科知识树展开，侧重本学科概念体系的纵向深化；STEM 教育强调以真实多[[Variable|变量]]问题为驱动，横向打通学科边界并融入工程设计与数学建模。
+> - **不等于创客教育** — 创客教育侧重动手造物与工具体验，有时容易陷入缺乏深层学科概念支持的形式化操作；STEM 教育必须以严密的学科概念与认识论规范为根基。
 
 ---
 
@@ -195,34 +194,35 @@ updated: 2026-10-05
 ### 1. 战略地位与立法保障
 以美国为代表的创新型国家，通过系统的立法形式将 STEM 教育确立为国家级优先事务：
 - **政策与法案确立** 通过《美国竞争法案》（America COMPETES Act）及 2022 年《[[CHIPS and Science Act|芯片与科学法案]]》等核心法规，将 STEM 纳入联邦与各州核心战略与教育问责体系；在先进制造与国家战略半导体领域，针对预计至 2030 年全美高达 140 万的 STEM 关键岗位缺口，将关键技术研发与高技术工程劳动力培训列为直接资助重点。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 1–3, 7)]]
+- **国际人才竞争应对** 面对中国高校在 STEM 毕业生年产出规模上达到美国四倍的战略竞争优势，美国通过立法授权数十亿美元直接投入理科教育，并将国家研究生研究奖学金（GRFP）年度资助名额由 2,000 名直接增加至 3,000 名，以扩充顶尖理工博士生蓄水池。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]
 - **顶层协调机制** 由[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）、美国国家科学技术委员会（National Science and Technology Council, NSTC）及教育部统筹联邦 STEM 战略规划，定期发布国家五年战略报告；
 - **课程标准研制** [[National Research Council|美国国家科学研究委员会]]（National Research Council, NRC）于 2012 年发布《K-12 科学教育框架》，随后指导研制《新一代科学教育标准》（Next Generation Science Standards, NGSS），明确确立科学与工程实践的核心地位。
 
 ### 2. 资金投入与全链条人才输送
-- **财政预算倾斜** 联邦政府设立了专属 STEM 资助计划，年度预算规模稳定在数十亿美元区间，涵盖 K-12 教师专业发展、少数族裔与女性 STEM 参与促进行动及顶尖科研实验室学徒计划；
+- **财政预算倾斜** 联邦政府设立了专属 STEM 资助计划，年度预算规模稳定在数十亿美元区间，涵盖 K-12 教师专业发展、少数族裔与女性 STEM 参与促进行动、芯片产业周边劳动力技术培训以及国家高层次研究生奖学金计划；[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
 - **全链条贯通与科研人员专业发展** 从基础教育阶段的跨学科体验课程，贯通至高水平[[Research Universities|研究型大学]]微电子与工程学科的前沿交叉攻关；面对尖端产业人才瓶颈，高校不仅改革本科与研究生工程课程，更依托[[Design-Based Research|基于设计的研究]]开展面向教师与专职科研人员的跨学科学者发展工作坊，系统提升跨系所攻关与产学协同就绪度。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3–7)]]
 
 ---
 
 ## 典型模式与技术平台
 
-> [!case] WISE：基于[[Knowledge Integration\|知识整合]]的跨学科 STEM 单元
-> 由加州大学伯克利分校（玛西娅·琳恩领衔）研发的开源探究平台，严格遵循知识整合理论。学生在探究温室效应或板块构造时，首先调动生活前概念，随后在[[Computer Simulation\|计算机模拟]]中操控[[Variable\|变量]]参数，基于生成的折线图与同伴展开科学论辩与反思，显著提升跨学科因果理解（Linn et al., 2006）。
+> [!case] WISE：基于[[Knowledge Integration|知识整合]]的跨学科 STEM 单元
+> 由加州大学伯克利分校（玛西娅·琳恩领衔）研发的开源探究平台，严格遵循知识整合理论。学生在探究温室效应或板块构造时，首先调动生活前概念，随后在[[Computer Simulation|计算机模拟]]中操控[[Variable|变量]]参数，基于生成的折线图与同伴展开科学论辩与反思，显著提升跨学科因果理解（Linn et al., 2006）。
 
-> [!case] [[PhET Interactive Simulations\|PhET]]：高交互微世界中的因果参数操纵
-> 诺贝尔奖得主卡尔·威曼（Carl Wieman）领衔开发的仿真微世界，涵盖电路、量子力学、分子运动等百余个主题。学生通过实时操纵不可见的物理量，在直观可视化的反馈中打破前概念迷思，实证确证其在概念迁移与[[Scientific Attitude\|科学态度]]上的显著增益（Wieman et al., 2008; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023]]）。
+> [!case] [[PhET Interactive Simulations|PhET]]：高交互微世界中的因果参数操纵
+> 诺贝尔奖得主卡尔·威曼（Carl Wieman）领衔开发的仿真微世界，涵盖电路、量子力学、分子运动等百余个主题。学生通过实时操纵不可见的物理量，在直观可视化的反馈中打破前概念迷思，实证确证其在概念迁移与[[Scientific Attitude|科学态度]]上的显著增益（Wieman et al., 2008; [[Argument_DeJong_2023_ERR|De Jong et al., 2023]]）。
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1990s — 术语起源与国家战略萌芽** [[National Science Foundation\|美国国家科学基金会]]（NSF）正式整合科学、数学、工程与技术项目，提出“STEM”缩写，确立跨学科国家创新人才战略。
+> - **1990s — 术语起源与国家战略萌芽** [[National Science Foundation|美国国家科学基金会]]（NSF）正式整合科学、数学、工程与技术项目，提出“STEM”缩写，确立跨学科国家创新人才战略。
 > - **2007 — 立法确立与财政扩张** 美国国会通过《美国竞争法案》（America COMPETES Act），将 STEM 教育提升为保障国家经济安全与全球竞争力的法定核心支柱。
 > - **2012 — 实践导向与国家课程标准确立** [[National Research Council|美国国家科学研究委员会]]（NRC）发布《K-12 科学教育框架》，将“科学与工程实践”（SEPs）并列确立为核心维度，推动 STEM 走向教学法深水区。
-> - **2018 — [[Epistemic Practices\|认识论实践]]与学科[[Heterogeneity\|异质性]]深化** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] 提出 STEM 各领域的认识论实践比较矩阵，破除教条式[[Scientific Method\|科学方法]]，强化工程折中与[[Socioscientific Issues\|社会科学议题]]审议。
-> - **2022–2026 — 战略关键产业再聚焦与高校学者动员** 《[[CHIPS and Science Act|芯片与科学法案]]》将 STEM 教育直接锚定于解决 140 万尖端工程与半导体技术劳动力短缺，推动 STEM 教育从中小学课程与高校本研教学进一步向大学科研人员跨学科专业发展与产学研协同延伸。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 1–3, 7)]]
-> - **2023 — 学习科学视角下的教学法调和** [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 系统总结数十年实证证据，确立[[Inquiry-Based Learning\|指导式探究]]与时序整合在 STEM 概念掌握与[[Epistemology\|认识论]]素养培育上的共识[[Paradigm\|范式]]。
+> - **2018 — [[Epistemic Practices|认识论实践]]与学科[[Heterogeneity|异质性]]深化** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] 提出 STEM 各领域的认识论实践比较矩阵，破除教条式[[Scientific Method|科学方法]]，强化工程折中与[[Socioscientific Issues|社会科学议题]]审议。
+> - **2022–2026 — 战略关键产业再聚焦与国际人才池博弈** 《[[CHIPS and Science Act|芯片与科学法案]]》将 STEM 教育直接锚定于解决 140 万尖端工程与半导体技术劳动力短缺，通过 GRFP 扩招 50% 应对中国工科毕业生四倍规模优势，推动 STEM 教育从中小学课程与高校本研教学进一步向大学科研人员跨学科专业发展与产学研协同延伸。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]; [[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 1–3, 7)]]
+> - **2023 — 学习科学视角下的教学法调和** [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] 系统总结数十年实证证据，确立[[Inquiry-Based Learning|指导式探究]]与时序整合在 STEM 概念掌握与[[Epistemology|认识论]]素养培育上的共识[[Paradigm|范式]]。
 
 ---
 
@@ -234,10 +234,10 @@ updated: 2026-10-05
 > > 争论围绕 STEM 跨学科整合是否会稀释传统物理、化学等学科的核心概念深度。批评者担忧脱离扎实分科基础的浅层跨学科活动容易沦为“浮于表面的活动主义”；倡导者则强调真实问题本就是跨学科的，唯有整合才能培养综合解决能力。
 >
 > > [!axis] 精英主义导向 vs 全民素养公平
-> > 批判学者指出，早期 STEM 政策过分强调服务于国家高精尖军事与经济竞争，容易演化为选拔少数科技精英的工具，忽视了为弱势群体提供公平的普惠性[[Scientific Literacy\|科学素养]]支持。
+> > 批判学者指出，早期 STEM 政策过分强调服务于国家高精尖军事与经济竞争，容易演化为选拔少数科技精英的工具，忽视了为弱势群体提供公平的普惠性[[Scientific Literacy|科学素养]]支持。
 
 > [!critique] 商业化造物与浅层工具崇拜
-> [[Critical Pedagogy\|批判教育学]]者指出，部分学校在推进 STEM 时盲目投资昂贵硬件（如 3D 打印机与机器人套件），教学流于技术工具的熟练操作，缺乏对深层科学原理与[[Epistemology\|认识论]]规范的本质探究。
+> [[Critical Pedagogy|批判教育学]]者指出，部分学校在推进 STEM 时盲目投资昂贵硬件（如 3D 打印机与机器人套件），教学流于技术工具的熟练操作，缺乏对深层科学原理与[[Epistemology|认识论]]规范的本质探究。
 
 > [!warning] 适用局限
 > 跨学科 STEM 教学的设计与实施门槛极高，高度依赖教师扎实的跨学科知识储备与高超的支架搭建能力。在缺乏师资专业支持的条件下强推综合 STEM 课程，容易导致教学秩序混乱与学习效果下滑。
@@ -249,23 +249,25 @@ updated: 2026-10-05
 > [!effect-table]- STEM 教学法对比实证研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 > 
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
+> | 研究 | 比较或干预 | [[Dependent Variable|结果变量]] | 分析样本 | 组别统计 | [[Effect Size|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | Klahr & Nigam (2004) | [[Control of Variables Strategy\|变量控制策略]]（CVS）：直接讲授 vs 纯发现探索 | CVS 策略掌握率与跨情境设计迁移 | 112 名三至四年级小学生 | [[Direct Instruction\|直接讲授]]组 77% 掌握 vs 发现组 23% | $d \approx 1.10$ | $p<.001$ | 早期实验室对照实验。确立了显性直接讲授在基础规则学习中的高效率，但未考察长效认识论探究态度。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | [[Inquiry-Based Learning\|指导式探究]]学习 vs 传统单向讲授 | 概念理解、长效迁移、[[Scientific Attitude\|科学态度]]与科学[[Self-Efficacy\|自我效能]] | K-12 科学与 STEM 探究[[Document\|文献]]综合与[[Systematic Review\|系统综述]] | — | 指导式探究在深层理解与[[Epistemology\|认识论]]维度全面优于纯讲授 | 综合多项元分析[[Chain of Evidence\|证据链]]确证 | 国际学习科学权威综述；证实指导式探究与时序动态整合是最优教学[[Paradigm\|范式]]。 |
+> | Klahr & Nigam (2004) | [[Control of Variables Strategy|变量控制策略]]（CVS）：直接讲授 vs 纯发现探索 | CVS 策略掌握率与跨情境设计迁移 | 112 名三至四年级小学生 | [[Direct Instruction|直接讲授]]组 77% 掌握 vs 发现组 23% | $d \approx 1.10$ | $p<.001$ | 早期实验室对照实验。确立了显性直接讲授在基础规则学习中的高效率，但未考察长效认识论探究态度。 |
+> | [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] | [[Inquiry-Based Learning|指导式探究]]学习 vs 传统单向讲授 | 概念理解、长效迁移、[[Scientific Attitude|科学态度]]与科学[[Self-Efficacy|自我效能]] | K-12 科学与 STEM 探究[[Document|文献]]综合与[[Systematic Review|系统综述]] | — | 指导式探究在深层理解与[[Epistemology|认识论]]维度全面优于纯讲授 | 综合多项元分析[[Chain of Evidence|证据链]]确证 | 国际学习科学权威综述；证实指导式探究与时序动态整合是最优教学[[Paradigm|范式]]。 |
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Murphy_2026_JTS\|Murphy Jr. et al. (2026)]] | 美国 1 所年科研经费超 10 亿美元的[[Research Universities\|研究型大学]]；3 期半导体 STEM 学者工作坊 | 单机构[[Case Study\|案例研究]]与[[Design-Based Research\|基于设计的研究]]（DBR） | 参会规模拓展与跨学科教师协作体验 | 参与规模由 81 人扩展至系统 142 人再到全州 242 人；线上组 60%、线下组 80%、混合组 75% 表达积极协作体验 | 质性开放问卷独立主题编码（$n=21, 11, 12$） | 单机构自陈式质性评估，呈现高校有组织应对国家 STEM 战略时学者团队的微观孵化动态 |
+> | [[Argument_Brint_2023_IHE\|Brint (2023)]] | 美国与中国高等教育体系；联邦芯片与科学立法 | 宏观政策比较与官方统计核查 | ① 中美高校 STEM 毕业生年度供给规模；② 联邦 GRFP 奖学金名额 | ① 中国高校 STEM 毕业生年产出规模达到美国的 4 倍；② 联邦法案拟将 GRFP 博士研究生奖学金年度名额从 2,000 名增加至 3,000 名（增长 50%） | 官方统计数据对比与立法条文分析 | 揭示大国地缘科技竞争中国家科技劳动力蓄水池的规模差距与政策对冲举措 |
+> | [[Argument_Murphy_2026_JTS\|Murphy Jr. et al. (2026)]] | 美国 1 所年科研经费超 10 亿美元的[[Research Universities|研究型大学]]；3 期半导体 STEM 学者工作坊 | 单机构[[Case Study|案例研究]]与[[Design-Based Research|基于设计的研究]]（DBR） | 参会规模拓展与跨学科教师协作体验 | 参与规模由 81 人扩展至系统 142 人再到全州 242 人；线上组 60%、线下组 80%、混合组 75% 表达积极协作体验 | 质性开放问卷独立主题编码（$n=21, 11, 12$） | 单机构自陈式质性评估，呈现高校有组织应对国家 STEM 战略时学者团队的微观孵化动态 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 权威综述提出破除[[Direct Instruction\|直接讲授]]与探究的二元对立，系统构建基于[[Inquiry-Based Learning\|指导式探究]]、时序编排与技术增强仿真的 STEM 循证教学[[Paradigm\|范式]]。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] — 阐释探究科学、工程教育与[[Socioscientific Issues\|社会科学议题]]在 STEM 视阈下的[[Epistemology\|认识论]]规程差异，提出跨学科[[Epistemic Practices\|认识论实践]]比较矩阵（pp. 142–143, 154–157）。
-> - [[Argument_Murphy_2026_JTS\|Murphy Jr. et al. (2026)]] — 在《[[CHIPS and Science Act|芯片与科学法案]]》背景下，以高水平[[Research Universities|研究型大学]]为案例，实证检验多轮迭代学者发展工作坊如何打破工程科技院系壁垒，培育应对 140 万国家 STEM 岗位缺口的跨学科半导体科研与教学共同体。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 权威综述提出破除[[Direct Instruction|直接讲授]]与探究的二元对立，系统构建基于[[Inquiry-Based Learning|指导式探究]]、时序编排与技术增强仿真的 STEM 循证教学[[Paradigm|范式]]。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 阐释探究科学、工程教育与[[Socioscientific Issues|社会科学议题]]在 STEM 视阈下的[[Epistemology|认识论]]规程差异，提出跨学科[[Epistemic Practices|认识论实践]]比较矩阵（pp. 142–143, 154–157）。
+> - [[Argument_Brint_2023_IHE|Brint (2023)]] — 探讨《芯片与科学法案》中为应对中国四倍工科毕业生规模优势而设立的数十亿美元理科资助与 GRFP 博士奖学金扩招 50% 举措，评估国家战略产业政策对 STEM 人才再生产的实际影响。
+> - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 在《[[CHIPS and Science Act|芯片与科学法案]]》背景下，以高水平[[Research Universities|研究型大学]]为案例，实证检验多轮迭代学者发展工作坊如何打破工程科技院系壁垒，培育应对 140 万国家 STEM 岗位缺口的跨学科半导体科研与教学共同体。

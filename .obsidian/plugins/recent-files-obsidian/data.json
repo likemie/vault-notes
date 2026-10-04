@@ -5,8 +5,36 @@
       "path": "wiki/arguments/journal-articles/International Higher Education/Argument_Brint_2023_IHE.md"
     },
     {
+      "basename": "Horizon Europe",
+      "path": "wiki/facts/eu/Horizon Europe.md"
+    },
+    {
+      "basename": "Department of Energy",
+      "path": "wiki/facts/us/Department of Energy.md"
+    },
+    {
+      "basename": "Use-Inspired Basic Research",
+      "path": "wiki/concepts/university-industry-collaboration/Use-Inspired Basic Research.md"
+    },
+    {
+      "basename": "National Science Foundation",
+      "path": "wiki/facts/us/National Science Foundation.md"
+    },
+    {
       "basename": "Argument_Murphy_2026_JTS",
       "path": "wiki/arguments/journal-articles/Journal of Technology Studies/Argument_Murphy_2026_JTS.md"
+    },
+    {
+      "basename": "STEM Education",
+      "path": "wiki/concepts/educational-policy-reform/STEM Education.md"
+    },
+    {
+      "basename": "Research Universities",
+      "path": "wiki/concepts/higher-education/Research Universities.md"
+    },
+    {
+      "basename": "CHIPS and Science Act",
+      "path": "wiki/facts/us/CHIPS and Science Act.md"
     },
     {
       "basename": "Murphy_2026_JTS",
@@ -19,10 +47,6 @@
     {
       "basename": "Argument_Bown_2024_JEP",
       "path": "wiki/arguments/journal-articles/Journal of Economic Perspectives/Argument_Bown_2024_JEP.md"
-    },
-    {
-      "basename": "CHIPS and Science Act",
-      "path": "wiki/facts/us/CHIPS and Science Act.md"
     },
     {
       "basename": "Questionnaire",
@@ -49,16 +73,8 @@
       "path": "wiki/theories/educational-philosophy/Cognitive Constructivism.md"
     },
     {
-      "basename": "STEM Education",
-      "path": "wiki/concepts/educational-policy-reform/STEM Education.md"
-    },
-    {
       "basename": "Design-Based Research",
       "path": "wiki/methods/mixed/Design-Based Research.md"
-    },
-    {
-      "basename": "Research Universities",
-      "path": "wiki/concepts/higher-education/Research Universities.md"
     },
     {
       "basename": "Sino-American Trade War",
@@ -183,22 +199,6 @@
     {
       "basename": "Argument_Grindley_1994_JPAM",
       "path": "wiki/arguments/journal-articles/Journal of Policy Analysis and Management/Argument_Grindley_1994_JPAM.md"
-    },
-    {
-      "basename": "Argument_Fuchs_2010_RP",
-      "path": "wiki/arguments/journal-articles/Research Policy/Argument_Fuchs_2010_RP.md"
-    },
-    {
-      "basename": "Pilot Scale Platform",
-      "path": "wiki/concepts/university-industry-collaboration/Pilot Scale Platform.md"
-    },
-    {
-      "basename": "Technology Readiness Level",
-      "path": "wiki/concepts/university-industry-collaboration/Technology Readiness Level.md"
-    },
-    {
-      "basename": "David C. Mowery",
-      "path": "wiki/persons/us/David C. Mowery.md"
     }
   ],
   "omittedPaths": [],
