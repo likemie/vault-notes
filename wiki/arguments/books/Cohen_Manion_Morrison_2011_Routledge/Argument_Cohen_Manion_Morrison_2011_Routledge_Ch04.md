@@ -51,6 +51,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Independent Variable]]"
   - "[[Interventionist Strategy]]"
+  - "[[Total Quality Management]]"
   - "[[Hawthorne Effect]]"
   - "[[Reliability]]"
   - "[[Fundamental Problem of Causal Inference]]"
@@ -88,7 +89,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-17
-updated: 2026-09-16
+updated: 2026-10-04
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04
 
@@ -596,7 +597,7 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 >
 > **结论** 简单的输入变量——"增加阅读时间"——可能带来阅读改善，但这可能只是众多原因之一、或是一个伞状术语、或可能解放了一系列其他直接和间接原因。**确定效果的真实原因极其困难（pp.75–76）**。
 
-> [!case] 案例13：全面质量管理的因果"爆炸"
+> [!case] 案例13：[[Total Quality Management|全面质量管理]]的因果"爆炸"
 > 一所学校引入全面质量管理（total quality management）进行学校改进——同时引入多项干预。下一次学校检查时，学校确实有所改善。
 >
 > **问题爆炸** 究竟哪些干预带来了改善？哪些组合有效？哪些是反效果的？
@@ -800,7 +801,7 @@ Goldthorpe 随后用经验数据检验假设，考察三组证据集群（pp.87�
 
 #### 回溯因果推断的综合原则
 
-> [!pathways] Morrison（2009, p. 204）建议的综合方法清单
+> [!pathways] 回溯因果推断的综合原则建议清单
 > 从效果回溯原因的核心困难在于，假设原因的地位只能是迄今为止最好的，无法知道它在绝对意义上是否是最好的。Morrison（2009, p. 204）建议采用以下综合路径（pp.91–92）：
 >
 > | 原则 | 操作要点 |

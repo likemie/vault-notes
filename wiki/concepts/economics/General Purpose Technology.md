@@ -33,6 +33,7 @@ related_concepts:
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
+  - "[[Statistical Process Control]]"
   - "[[Case Study]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # General Purpose Technology
@@ -125,7 +126,7 @@ updated: 2026-10-03
 ### 命题二　制造范式革新与标准化物理封装是通用目的技术实现工业规模化普及的物质载体
 
 > [!concept-lens] 制造工程与封装标准化
-> 探讨实验室尖端[[Research Translation|技术转化]]为通用产业底座过程中，混合制造组织、统计过程控制与低成本系统级封装方案的决定性支撑作用。
+> 探讨实验室尖端[[Research Translation|技术转化]]为通用产业底座过程中，混合制造组织、[[Statistical Process Control|统计过程控制]]与低成本系统级封装方案的决定性支撑作用。
 
 > [!claim] Lécuyer, C.
 > **混合制造体系与系统友好型封装的决定性作用** 莱屈耶阐明，微电子技术要从军工小批量采购走向工业大规模普及，必须经历制造体系与封装形态的深刻重构。在制造端，通过引入汽车与电气工业的大规模生产管理模式、在制品库存控制、洁净室防尘标准与离岸低成本[[Assemblage|组装]]，实现了高精度批处理与装配线的混合制造；在封装端，彻底抛弃成本昂贵且需人工焊接的军用金属罐与扁平封装，发明适配印刷电路板自动化插件机的[[Dual In-Line Package|双列直插封装]]（Dual In-Line Package, DIP）与塑料模塑封装，从系统工程层面扫清了下游工业用户的装配瓶颈。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 194–207)]]

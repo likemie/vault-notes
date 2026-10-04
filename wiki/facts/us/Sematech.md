@@ -28,6 +28,8 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Technology Transfer]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Cost of Ownership]]"
+  - "[[Total Quality Management]]"
   - "[[Pilot Scale Platform]]"
   - "[[General Purpose Technology]]"
   - "[[Valley of Death]]"
@@ -42,6 +44,7 @@ related_theories:
   - "[[Developmental Network State]]"
   - "[[Technological Trajectories]]"
 related_methods:
+  - "[[Statistical Process Control]]"
   - "[[Comparative Case Study]]"
 related_instruments: []
 related_persons:
@@ -90,7 +93,7 @@ updated: 2026-10-04
 >   - 联盟最初试图开展芯片制造商之间的横向协同研发，拟在奥斯汀建立柔性示范试验线开发下一代 0.8 微米、0.5 微米与 0.35 微米通用工艺配方；但由于直接竞争对手之间的商业保密壁垒（Appropriability Concerns）及各厂自建产线的工艺[[Heterogeneity|异质性]]，横向工艺共享与[[Technology Transfer|技术转移]]陷入阻滞。美光科技、LSI Logic 与哈里斯三家企业随后相继退出了联盟。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724–733)]]
 > - **1989–1995 — 战略重构：纵向供应链协同与本土装备基础设施建设期**
 >   - 在威廉·斯宾塞（William Spencer）等领导层主导下，联盟果断实施战略转向，由横向芯片共性制程开发转向支持上游半导体制造装备与材料（Semiconductor Manufacturing Equipment and Materials, SME）本土供应链生态；
->   - 设立设备改进计划（Equipment Improvement Programs, [[Evidence-Informed Practice|EIP]]）与联合开发项目（Joint Development Projects, JDP），推出国家半导体技术路线图（National Technology Roadmap for Semiconductors, NTRS，即 ITRS 前身），广泛普及所有权成本（Cost of Ownership, COO）模型、全面质量管理（Total Quality Management, TQM）与统计过程控制（Statistical Process Control, SPC）标准，建设共享[[Pilot Scale Platform|中试验证平台]]（Shared Testbeds），将研发经费的半数以上直接投向上游中小设备商。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 731–736)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 177)]]
+>   - 设立设备改进计划（Equipment Improvement Programs, [[Evidence-Informed Practice|EIP]]）与联合开发项目（Joint Development Projects, JDP），推出国家半导体技术路线图（National Technology Roadmap for Semiconductors, NTRS，即 ITRS 前身），广泛普及[[Cost of Ownership|所有权成本]]（Cost of Ownership, COO）模型、[[Total Quality Management|全面质量管理]]（Total Quality Management, TQM）与[[Statistical Process Control|统计过程控制]]（Statistical Process Control, SPC）标准，建设共享[[Pilot Scale Platform|中试验证平台]]（Shared Testbeds），将研发经费的半数以上直接投向上游中小设备商。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 731–736)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 177)]]
 >   - 1992 年美国半导体制造与设备全球市场份额重新超越日本，并在微处理器与系统级芯片领域确立产业优势。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 736–744)]]
 > - **1996–至今 — 终结联邦补贴与国际化自立演变**
 >   - 1996 年经全体成员投票表决，联盟认为美国芯片制造业已恢复竞争力，正式决定**主动放弃联邦财政资助**，实现 100% 依赖企业会费运营的商业自立；
@@ -108,7 +111,7 @@ updated: 2026-10-04
 
 > [!pathways]- 业务运行机制
 > - **自下而上的研发议程制定** 研发重点不由政府官僚指定，而是由制造厂商与设备厂商的技术专家在专业技术委员会（Technical Advisory Boards）中共同讨论形成，定期根据产线实际瓶颈动态调整。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730–732, 751)]]
-> - **联合研发与中试认证闭环** 芯片制造厂商工程师与设备供应商工程师在奥斯汀中试线共同调试原型设备，利用所有权成本（COO）模型进行量化评估，达标后直接导入芯片厂商业产线，大幅降低采购风险。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 734–736)]]
+> - **联合研发与中试认证闭环** 芯片制造厂商工程师与设备供应商工程师在奥斯汀中试线共同调试原型设备，利用[[Cost of Ownership|所有权成本]]（COO）模型进行量化评估，达标后直接导入芯片厂商业产线，大幅降低采购风险。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 734–736)]]
 > - **跨组织隐性技术扩散** 借调工程师不仅参与联合攻关，还将规范化的质量控制和测试标准带回母公司，形成行业通用技术标准的自发普及。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 752–753)]]
 
 ---
@@ -119,7 +122,7 @@ updated: 2026-10-04
 > 1. **设备改进计划（[[Evidence-Informed Practice|EIP]]）与联合开发项目（JDP）** 联合 130 余家本土设备与材料供应商，资助 6 至 18 个月的现有设备[[Reliability|可靠性]]改良与 2 至 3 年面向下一代制程（0.35 微米）的关键装备联合攻关。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–734)]]
 > 2. **国家半导体技术路线图（NTRS）** 1992 年由联盟牵头发布全行业技术路线图，明确未来 5 至 15 年芯片线宽演进时间表，为上下游企业指明前瞻性研发目标与接口规范。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 734–735)]]
 > 3. **奥斯汀共性试验线与设备认证体系** 建设接近真实生产环境的[[Pilot Scale Platform|中试平台]]，为全行业提供中立客观的设备成熟度评估与认证，消除采购壁垒。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–735)]]
-> 4. **全行业工程管理与评估工具箱（COO / TQM / SPC）** 广泛推行所有权成本（COO）模型、全面质量管理（TQM）与统计过程控制（SPC）标准，帮助中小设备商建立严谨规范的可靠性管理体系。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735–736)]]
+> 4. **全行业工程管理与评估工具箱（[[Cost of Ownership|COO]] / [[Total Quality Management|TQM]] / [[Statistical Process Control|SPC]]）** 广泛推行所有权成本（COO）模型、全面质量管理（TQM）与统计过程控制（SPC）标准，帮助中小设备商建立严谨规范的可靠性管理体系。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735–736)]]
 > 5. **[[Sematech Centers of Excellence|大学卓越技术中心网络]]（[[Sematech Centers of Excellence|SCOE]]）** 每年安排 1000 万至 1500 万美元，通过[[Semiconductor Research Corporation|半导体研究公司]]（SRC）资助加州大学伯克利分校、斯坦福大学、麻省理工学院、得克萨斯大学等高校开展基础光刻物理与等离子体加工研究。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 735)]]
 
 > [!citation-card] 机构使命转向与纵向协同实质
@@ -133,7 +136,7 @@ updated: 2026-10-04
 
 > [!finding-cards] 关键成效与历史辐射
 > 1. **重构买方—供应商协同信任生态** 彻底打破了以往美国芯片制造商对本土中小设备商压价与防范的对抗性采购模式，建立了早期参与研发、参数共享与共同测试的纵向协同合作模式。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 744–746)]]
-> 2. **提升在役设备[[Reliability|可靠性]]与降低调试停机损失** 通过推行所有权成本模型与统计过程控制，使本土设备的平均无故障工作时间（MTBF）提升数倍，大幅缩短了芯片厂引入新设备后的停机调试周期。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]
+> 2. **提升在役设备[[Reliability|可靠性]]与降低调试停机损失** 通过推行[[Cost of Ownership|所有权成本模型]]与[[Statistical Process Control|统计过程控制]]，使本土设备的平均无故障工作时间（MTBF）提升数倍，大幅缩短了芯片厂引入新设备后的停机调试周期。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]
 > 3. **核心装备骨干企业协同成长** 助力应用材料（Applied Materials）与拉姆研究（Lam Research）在联盟支持下快速成长，应用材料于 1992 年跃升为全球第一大半导体装备供应商。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 739)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 177)]]
 > 4. **确立现代高技术产业公私研发联盟设计准则** 确立了以产业主导、近中期[[General Purpose Technology|通用技术]]定位、纵向产业链协同、人员借调与集中测试设施为特征的高技术公私协同治理准则。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 751–755)]]
 > 5. **成功实现机制化退出的公共资助典范** 证明了国家公共干预可以在特定危机时期有效介入、并在产业自立后主动断乳退出，避免了传统发展型国家长期补贴引发的寻租与市场扭曲。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]

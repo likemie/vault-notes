@@ -2875,6 +2875,16 @@
     ]
   },
   {
+    "title": "Total Quality Management",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Total Quality Management.md",
+    "aliases": [
+      "全面质量管理",
+      "TQM",
+      "全面品质管理"
+    ]
+  },
+  {
     "title": "Transformative Leadership",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Transformative Leadership.md",
@@ -12025,6 +12035,16 @@
     ]
   },
   {
+    "title": "Cost of Ownership",
+    "type": "concept",
+    "path": "wiki/concepts/university-industry-collaboration/Cost of Ownership.md",
+    "aliases": [
+      "所有权成本",
+      "所有权成本模型",
+      "COO"
+    ]
+  },
+  {
     "title": "Entrepreneur in Residence",
     "type": "concept",
     "path": "wiki/concepts/university-industry-collaboration/Entrepreneur in Residence.md",
@@ -18388,6 +18408,16 @@
       "standard error of the mean",
       "均值的标准误",
       "standard error of proportions"
+    ]
+  },
+  {
+    "title": "Statistical Process Control",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Statistical Process Control.md",
+    "aliases": [
+      "统计过程控制",
+      "SPC",
+      "统计制程管制"
     ]
   },
   {

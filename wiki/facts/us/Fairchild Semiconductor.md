@@ -36,7 +36,8 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[General Purpose Technology]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Statistical Process Control]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # Fairchild Semiconductor
@@ -80,7 +81,7 @@ updated: 2026-10-03
 > [!actor-grid] 组织治理架构
 > - **高层决策与母公司关系** 罗伯特·诺伊斯任执行副总裁兼总经理；母公司纽约仙童照相机与仪器公司（理查德·霍奇森领导）提供初始资本与战略监督，但在员工股权激励与再投资分配上长期存在东西海岸管理文化冲突。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 182–184)]]
 > - **研发实验室（R&D Laboratory）** 由戈登·摩尔领导，汇聚物理学与化学顶级人才，下设基础研究、器件开发与数字系统实验室，聚焦平面工艺、氧化层物理、MOS 晶体管与新封装架构研发。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 182, 203–206)]]
-> - **制造运营部（Manufacturing Operations）** 查尔斯·斯波克与弗雷德·比亚莱克主导，打破工序割裂，设立晶体管、二极管与集成电路三大产品线事业部，推行严格的在制品（WIP）跟踪与统计过程控制（SPC）。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 195–201)]]
+> - **制造运营部（Manufacturing Operations）** 查尔斯·斯波克与弗雷德·比亚莱克主导，打破工序割裂，设立晶体管、二极管与集成电路三大产品线事业部，推行严格的在制品（WIP）跟踪与[[Statistical Process Control|统计过程控制]]（SPC）。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 195–201)]]
 > - **[[Application Engineering|应用工程]]部（Application Engineering Department）** 招聘大量来自收音机、电视机与计算机整机企业的专业工程师，负责编制开源应用说明书、设计客户定制电路并打造系统原型，实质充当全行业外部工程研发与技能培训中介。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 188–194)]]
 
 ---

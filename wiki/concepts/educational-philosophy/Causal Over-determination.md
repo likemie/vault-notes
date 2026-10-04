@@ -19,6 +19,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Compound Causes]]"
   - "[[Interaction Effect]]"
+  - "[[Total Quality Management]]"
 related_theories: []
 related_methods:
   - "[[Intervention Research]]"
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-09-11
+updated: 2026-10-04
 ---
 
 # Causal Over-determination
@@ -74,4 +75,4 @@ updated: 2026-09-11
 > 两发子弹同时击中一人头部。哪一发导致死亡？无论去掉子弹 A 还是子弹 B，死亡都会发生。这是一个经典的过度决定案例——两个原因各自都足以致命，使得单一因果归因成为不可能（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, p. 63]]）。
 
 > [!case] 学校改进中的过度决定
-> 一所学校引入全面质量管理，同时实施了多项改进干预。在下一次学校检查中，学校被认为有进步。问题是：究竟哪项（或哪些组合）干预带来了改进？哪些是反效果的？这类似于医生开出六种药物后消化问题消除但出现了胃溃疡——究竟哪些药物对治愈（或溃疡）负有因果责任？（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 77–78]]）。
+> 一所学校引入[[Total Quality Management|全面质量管理]]，同时实施了多项改进干预。在下一次学校检查中，学校被认为有进步。问题是：究竟哪项（或哪些组合）干预带来了改进？哪些是反效果的？这类似于医生开出六种药物后消化问题消除但出现了胃溃疡——究竟哪些药物对治愈（或溃疡）负有因果责任？（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 77–78]]）。

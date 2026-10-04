@@ -30,6 +30,7 @@ related_concepts:
   - "[[Document]]"
 related_theories: []
 related_methods:
+  - "[[Statistical Process Control]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # Learning by Doing
@@ -85,7 +86,7 @@ updated: 2026-10-03
 
 > [!case] 案例二：高科技制造中的组织化“在做中学”（Organizational Learning by Doing）
 > 经济学与技术史学者（Arrow, 1962; [[Argument_Lecuyer_1999_HT|Lécuyer, 1999, pp. 195–199]]）将“在做中学”拓展至工业工程与组织技能演进：
-> - **制造良率的[[Active Learning|主动学习]]曲线** [[Fairchild Semiconductor|仙童半导体]]在 1960 年代量产硅晶体管与集成电路的过程中，工艺良率从不足 10% 跃升至 80% 并驱动成本断崖式下降。该过程证实，产业中的“在做中学”并非随着产量增加而被动发生的机械熟练，而是工程技术团队在车间实操中主动开展假设检验——通过排查加州光化学烟雾对光刻胶的硬化影响、设计高纯氮气保护装置以及推行统计过程控制（SPC），在试错与排障实践中完成了深度组织化工艺知识积累。
+> - **制造良率的[[Active Learning|主动学习]]曲线** [[Fairchild Semiconductor|仙童半导体]]在 1960 年代量产硅晶体管与集成电路的过程中，工艺良率从不足 10% 跃升至 80% 并驱动成本断崖式下降。该过程证实，产业中的“在做中学”并非随着产量增加而被动发生的机械熟练，而是工程技术团队在车间实操中主动开展假设检验——通过排查加州光化学烟雾对光刻胶的硬化影响、设计高纯氮气保护装置以及推行[[Statistical Process Control|统计过程控制]]（SPC），在试错与排障实践中完成了深度组织化工艺知识积累。
 
 ---
 

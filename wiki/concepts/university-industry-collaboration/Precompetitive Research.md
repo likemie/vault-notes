@@ -36,6 +36,7 @@ related_concepts:
   - "[[Public-Private Partnership in Research]]"
   - "[[Return on Investment]]"
   - "[[Document]]"
+  - "[[Cost of Ownership]]"
   - "[[Research Scope]]"
   - "[[Variable]]"
   - "[[Research Translation]]"
@@ -168,7 +169,7 @@ updated: 2026-10-04
 
 > [!dev-timeline] 概念演变历程
 > - **1980s — 反垄断豁免与半导体联盟兴起** 美国通过 1984 年《国家合作研究法》（NCRA），首次从法律层面界定前竞争研发（Pre-competitive R&D）并免除反垄断三倍赔偿风险；直接催生了 [[Sematech]]、[[Microelectronics and Computer Technology Corporation|MCC]] 等高技术研发联合体，以及欧洲 [[ESPRIT]] 计划。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724–728)]]
-> - **1990s — 战略转向与纵向通用基础设施确立** [[Sematech]] 的实践证明横向工艺配方共享难以维系，前竞争研究的内涵拓展为国家半导体技术路线图（NTRS）、所有权成本模型（COO）及共有中试线认证等通用基础设施。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 731–736)]]
+> - **1990s — 战略转向与纵向通用基础设施确立** [[Sematech]] 的实践证明横向工艺配方共享难以维系，前竞争研究的内涵拓展为国家半导体技术路线图（NTRS）、[[Cost of Ownership|所有权成本模型]]（COO）及共有中试线认证等通用基础设施。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 731–736)]]
 > - **2000s–至今 — 产学两层知识产权与公私伙伴关系（[[Public-Private Partnership in Research|PPP]]）制度化** 前竞争原则广泛融入[[University-Industry Collaboration|产学合作]]管理与国家战略科技政策（如英国 [[Advanced Manufacturing Research Centre|AMRC]] 两层知识产权模型、美国《芯片与科学法案》国家半导体技术中心 NSTC），演化为调节公私协同与市场竞争平衡的核心制度工具。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025)]]; [[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025)]]
 
 ---

@@ -21,6 +21,7 @@ tags:
   - theme/semiconductor
 related_concepts:
   - "[[Technology Readiness Level]]"
+  - "[[Cost of Ownership]]"
   - "[[Proof of Concept Programs]]"
   - "[[Industry Affiliate Program]]"
   - "[[Reliability]]"
@@ -34,6 +35,7 @@ related_concepts:
 related_theories:
   - "[[Developmental Network State]]"
 related_methods:
+  - "[[Statistical Process Control]]"
   - "[[Effect Size]]"
   - "[[Expert Interview]]"
   - "[[Correlational Research]]"
@@ -62,7 +64,7 @@ updated: 2026-10-04
 ## 定义
 
 > [!def] 核心定义
-> **中试验证平台（Pilot Scale Platform / Pilot Line）** 是介于大学/科研机构实验室原理验证（[[Technology Readiness Level|TRL]] 1–3）与工业界商业化规模量产（TRL 8–9）之间的关键共性技术基础设施。中试平台提供高度接近真实工业生产环境的中间试验线、专用设备测试床与工艺放大环境，旨在验证新技术的可重复性、制造公差、环境适应性及所有权成本，从而系统性消除技术成果产业化落地过程中的高额试错风险。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–735)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135–1137)]]
+> **中试验证平台（Pilot Scale Platform / Pilot Line）** 是介于大学/科研机构实验室原理验证（[[Technology Readiness Level|TRL]] 1–3）与工业界商业化规模量产（TRL 8–9）之间的关键共性技术基础设施。中试平台提供高度接近真实工业生产环境的中间试验线、专用设备测试床与工艺放大环境，旨在验证新技术的可重复性、制造公差、环境适应性及[[Cost of Ownership|所有权成本]]，从而系统性消除技术成果产业化落地过程中的高额试错风险。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–735)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135–1137)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向技术放大与工艺工程化过程中必须依赖的“共享试验中介实体”，解决研发原型与大规模量产之间的工程失配。
@@ -86,7 +88,7 @@ updated: 2026-10-04
 > | 维度 | 概念验证中心（PoP） | 中试验证平台（Pilot Scale Platform） | 商业量产线（Commercial Line） |
 > |---|---|---|---|
 > | **技术成熟度阶段** | [[Technology Readiness Level\|TRL]] 3–4（实验室原理突破） | TRL 4–7（工艺放大与系统集成） | TRL 8–9（商业成熟与全负荷量产） |
-> | **核心任务** | 验证物理机理、排查专利壁垒、制造初始原理样机 | 优化工艺公差、测试设备无故障时间（MTBF）、评估所有权成本（COO） | 追求高良率、最大化产能利用率与极低边际生产成本 |
+> | **核心任务** | 验证物理机理、排查专利壁垒、制造初始原理样机 | 优化工艺公差、测试设备无故障时间（MTBF）、评估[[Cost of Ownership\|所有权成本]]（COO） | 追求高良率、最大化产能利用率与极低边际生产成本 |
 > | **设施形态** | 大学实验室、创新孵化器车间 | 共享微电子中试洁净室、工业级中试基地（如 [[Sematech]] 奥斯汀中试线） | 规模化商业晶圆厂（Giga-fab） |
 > | **组织治理** | 大学 [[Technology Transfer Office\|TTO]]、天使基金资助 | 公私对等资助联盟、产业共性平台、区域产业技术研究院 | 单一商业企业独立运营或代工制造 |
 > | **容错机制** | 允许高失败率的科学试错 | 允许受控的工艺波动与频繁停机参数调整 | 零容忍非预期停机与良品率波动 |
@@ -97,7 +99,7 @@ updated: 2026-10-04
 
 > [!feature] 核心要素
 > - **工业级接近真实环境的工艺试验线** 配备全套前沿或准量产级工业母机与测试仪表，具备完整的全流程流片与加工能力。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–735)]]
-> - **中立客观的第三方评估与认证体系** 制定全行业通用的评估规范（如所有权成本 COO 模型、统计过程控制 SPC 标准），为下游用户采购提供无利益偏见的成熟度报告。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]
+> - **中立客观的第三方评估与认证体系** 制定全行业通用的评估规范（如[[Cost of Ownership|所有权成本]] COO 模型、[[Statistical Process Control|统计过程控制]] SPC 标准），为下游用户采购提供无利益偏见的成熟度报告。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]
 > - **跨企业工程师借调与共同调试空间** 提供买卖双方技术团队共同进驻、实时共享参数并在役排查故障的物理协作环境。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 752)]]
 > - **公私协同的长效资金保障机制** 由于中试平台兼具高额资本折旧与公共产品属性，依赖政府长期匹配拨款（如 [[DARPA]]、国家科学基金）与企业年费联合维系。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135–1137)]]
 
@@ -140,7 +142,7 @@ updated: 2026-10-04
 > 探讨中试平台在微观产业组织层面的降险功能：高技术制造用户不愿在商业量产线上尝试未经检验的新装备，中试平台通过提供隔离商业风险的测试环境与客观认证数据，打通了上下游买卖互信机制。
 
 > [!claim] [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]]
-> **中试验证平台打破买卖双方对抗性采购僵局** 在半导体等高资本密度行业中，芯片制造商因担心昂贵量产线停机而极度抗拒采购本土新设备；[[Sematech]] 奥斯汀中试验证平台的建立，为中小设备商提供了客观证明其平均无故障工作时间（MTBF）和所有权成本（COO）的公共舞台，成功将设备引入调试周期缩短数倍，成为美国扭转半导体装备市场劣势的关键抓手。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–735, 744–746)]]
+> **中试验证平台打破买卖双方对抗性采购僵局** 在半导体等高资本密度行业中，芯片制造商因担心昂贵量产线停机而极度抗拒采购本土新设备；[[Sematech]] 奥斯汀中试验证平台的建立，为中小设备商提供了客观证明其平均无故障工作时间（MTBF）和[[Cost of Ownership|所有权成本]]（COO）的公共舞台，成功将设备引入调试周期缩短数倍，成为美国扭转半导体装备市场劣势的关键抓手。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–735, 744–746)]]
 
 ---
 
@@ -171,7 +173,7 @@ updated: 2026-10-04
 
 > [!dev-timeline] 概念演变
 > - **1970s — 日本[[Ministry of International Trade and Industry|通产省]]共同研究所中试线模式** 日本在[[VLSI Project|超大规模集成电路项目]]中设立联合研究所共同中试线，开创了竞争对手共用中间试验设施的先河。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 726)]]
-> - **1980s–1990s — [[Sematech]] 奥斯汀中试线与欧洲 IMEC 模式确立** Sematech 投资数亿美元建立全流程奥斯汀中试厂，确立了以设备成熟度认证（COO/SPC）为核心的现代中试平台[[Paradigm|范式]]；同期比利时 IMEC 发展为面向全球开放的独立微电子中试中介。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–735)]]
+> - **1980s–1990s — [[Sematech]] 奥斯汀中试线与欧洲 IMEC 模式确立** Sematech 投资数亿美元建立全流程奥斯汀中试厂，确立了以设备成熟度认证（[[Cost of Ownership|COO]]/[[Statistical Process Control|SPC]]）为核心的现代中试平台[[Paradigm|范式]]；同期比利时 IMEC 发展为面向全球开放的独立微电子中试中介。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–735)]]
 > - **2000s–2010s — [[Innovation Ecosystem|创新生态系统]]中的 [[Technology Readiness Level|TRL]] 跨越桥梁** 随着技术就绪度（TRL）概念的普及，中试平台被明确界定为跨越 TRL 4–7“[[Valley of Death|死亡之谷]]”的标准制度配置，广泛拓展至生物医药、先进材料与新能源领域。
 > - **2020s — 《芯片法案》国家半导体技术中心（NSTC）重构** 2022 年美国《芯片与科学法案》将建设国家级先进半导体中试线（Prototyping Facilities）作为核心支柱，中试平台正式上升为国家大国博弈与技术主权竞争的核心基础设施。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135–1137)]]
 

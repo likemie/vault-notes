@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Pilot Scale Platform",
-      "path": "wiki/concepts/university-industry-collaboration/Pilot Scale Platform.md"
+      "basename": "Sematech Centers of Excellence",
+      "path": "wiki/facts/us/Sematech Centers of Excellence.md"
     },
     {
       "basename": "Argument_Grindley_1994_JPAM",
       "path": "wiki/arguments/journal-articles/Journal of Policy Analysis and Management/Argument_Grindley_1994_JPAM.md"
+    },
+    {
+      "basename": "Argument_Fuchs_2010_RP",
+      "path": "wiki/arguments/journal-articles/Research Policy/Argument_Fuchs_2010_RP.md"
+    },
+    {
+      "basename": "Sematech",
+      "path": "wiki/facts/us/Sematech.md"
+    },
+    {
+      "basename": "Pilot Scale Platform",
+      "path": "wiki/concepts/university-industry-collaboration/Pilot Scale Platform.md"
+    },
+    {
+      "basename": "Technology Readiness Level",
+      "path": "wiki/concepts/university-industry-collaboration/Technology Readiness Level.md"
     },
     {
       "basename": "Innovation Ecosystem",
@@ -35,14 +51,6 @@
     {
       "basename": "VLSI Project",
       "path": "wiki/facts/east-asia/VLSI Project.md"
-    },
-    {
-      "basename": "Sematech",
-      "path": "wiki/facts/us/Sematech.md"
-    },
-    {
-      "basename": "Argument_Fuchs_2010_RP",
-      "path": "wiki/arguments/journal-articles/Research Policy/Argument_Fuchs_2010_RP.md"
     },
     {
       "basename": "Broad Agency Announcement",
@@ -191,14 +199,6 @@
     {
       "basename": "1956 AT&T Consent Decree",
       "path": "wiki/facts/us/1956 AT&T Consent Decree.md"
-    },
-    {
-      "basename": "General Purpose Technology",
-      "path": "wiki/concepts/economics/General Purpose Technology.md"
-    },
-    {
-      "basename": "Argument_Stephan_2013_NBER",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
     }
   ],
   "omittedPaths": [],

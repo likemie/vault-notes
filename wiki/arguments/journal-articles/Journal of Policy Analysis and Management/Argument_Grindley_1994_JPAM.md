@@ -27,6 +27,8 @@ related_concepts:
   - "[[Document]]"
   - "[[Pilot Scale Platform]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Cost of Ownership]]"
+  - "[[Total Quality Management]]"
   - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
@@ -36,6 +38,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Comparative Case Study]]"
+  - "[[Statistical Process Control]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -62,7 +65,7 @@ title: "Argument_Grindley_1994_JPAM"
 argument_key: "Argument_Grindley_1994_JPAM"
 argument_display_title: "SEMATECH and collaborative research: Lessons in the design of high-technology consortia"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -175,7 +178,7 @@ issuing_organization: ""
 > - **设立设备改进计划（[[Evidence-Informed Practice|EIP]]）与联合开发项目（JDP）** 设备改进计划（Equipment Improvement Programs, EIP）资助 6 至 18 个月的现有设备改良与故障消除；联合开发项目（Joint Development Projects, JDP）资助 2 至 3 年面向下一代制程（0.35 微米）的新型关键设备联合攻关。
 > - **搭建共性测试平台与设备认证** 在奥斯汀建立集中式[[Pilot Scale Platform|中试验证平台]]（洁净室中试线），为设备厂商免费提供接近真实生产环境的原型机测试与调试，由芯片制造厂工程师共同参与认证，减少设备进入工厂后的调试故障。（pp.733–735）
 > - **编制国家半导体技术路线图（NTRS）** 1992 年由联盟牵头编制国家半导体技术路线图（National Technology Roadmap for Semiconductors, NTRS，即国际半导体技术路线图 International Technology Roadmap for Semiconductors, ITRS 的前身），明确全行业未来 5 至 15 年芯片线宽（0.35μm、0.25μm、0.18μm）的技术演进时间表，为设备商指明前瞻性研发目标。（pp.734–735）
-> - **推行全行业工程管理与评估工具（COO / TQM / SPC）** 广泛推行所有权成本（Cost of Ownership, COO）模型、全面质量管理（Total Quality Management, TQM）及统计过程控制（Statistical Process Control, SPC）方法，帮助中小设备商建立规范的工程化与[[Reliability|可靠性]]管理体系。（pp.735–736）
+> - **推行全行业工程管理与评估工具（[[Cost of Ownership|COO]] / [[Total Quality Management|TQM]] / [[Statistical Process Control|SPC]]）** 广泛推行所有权成本（Cost of Ownership, COO）模型、全面质量管理（Total Quality Management, TQM）及统计过程控制（Statistical Process Control, SPC）方法，帮助中小设备商建立规范的工程化与[[Reliability|可靠性]]管理体系。（pp.735–736）
 > - **建立[[Sematech Centers of Excellence|大学卓越技术中心网络]]（[[Sematech Centers of Excellence|SCOE]]）** 每年安排 1000 万至 1500 万美元，通过[[Semiconductor Research Corporation|半导体研究公司]]（Semiconductor Research Corporation, SRC）资助加州大学伯克利分校、斯坦福大学、麻省理工学院、得克萨斯大学等高校建立卓越技术中心（Semiconductor Centers of Excellence, SCOE），开展基础光刻物理与等离子体加工研究。（pp.730, 735）
 
 ---
