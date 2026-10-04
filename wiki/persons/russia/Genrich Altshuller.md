@@ -9,7 +9,7 @@ summary: "苏联发明家、工程师与创造力科学家，发明问题解决�
 type: person
 nationality: "russia"
 person_region: "russia"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

@@ -8,7 +8,7 @@ aliases:
 summary: "在自愿且信息充分的交易双方间达成资产、服务或商品合理价格的公允定价原则。在反倾销与国际贸易法中表现为核定外国出口产品非掠夺性最低价格底线的监管工具，在产学合作与临床试验中表现为基于行业多中心实际谈判数据共享防范不当利益输送的合规基线。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

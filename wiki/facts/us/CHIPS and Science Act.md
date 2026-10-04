@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Attrition]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Research Translation]]"
   - "[[Innovation Hub]]"
   - "[[Paradigm]]"
   - "[[Public-Private Partnership in Research]]"
@@ -37,10 +36,12 @@ related_concepts:
   - "[[Innovation Park]]"
   - "[[University-Industry Collaboration]]"
   - "[[Vertical Disintegration]]"
+  - "[[Research Translation]]"
   - "[[Learning by Doing]]"
   - "[[Modern Industrial Policy]]"
 related_facts:
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
+  - "[[Sematech]]"
   - "[[National Science Foundation]]"
   - "[[October 2022 US Semiconductor Export Controls]]"
   - "[[European Chips Act]]"
@@ -80,9 +81,9 @@ updated: 2026-10-04
 > - **政策目标** 吸引尖端与成熟制程晶圆厂回流美国本土、构建跨[[Innovation Ecosystem|区域创新生态]]、保障国防安全芯片供给，并拉大对竞争对手的技术代差。
 > - **适用对象** 晶圆制造巨头、先进封装商、材料设备供应商、[[Research Universities|研究型大学]]科研团队、区域创新联盟及劳动力培训机构。
 > - **政策工具**
->   - **直接制造建厂补贴（390 亿美元）** 由商务部通过竞争性申请发放，单项目补贴最高可达资本支出的 15%，用于新建或扩建晶圆制造设施；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 97)]]
+>   - **直接制造建厂补贴（390 亿美元）** 由商务部通过竞争性申请发放，单项目补贴最高可达资本支出的 15%，用于新建或扩建晶圆制造设施；
 >   - **先进制造投资税收抵免（25% ITC）** 提供为期四年的 25% 联邦税收抵免（Section 48D），预估支持规模达 240 亿美元；
->   - **先进研发与[[Research Translation|技术转化]]专项（110 亿美元）** 设立国家半导体技术中心（NSTC）、国家先进封装制造计划（NAPMP）及计量研发网络；[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
+>   - **先进研发与劳动力发展专项（130 亿美元，含 110 亿直接研发）** 设立国家半导体技术中心（NSTC）、国家先进封装制造计划（NAPMP）、微电子计量网络及劳动力技能培训项目；汲取 [[Sematech]] 与欧洲大学微电子中心（IMEC）产学研协同经验，系统性补齐先进制程高技术工人和工艺工程师储备。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 97–98)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
 >   - **区域技术枢纽（Tech Hubs 计划，超 100 亿美元）** 在传统研发落后地区设立国家级技术与[[Innovation Hub|创新中心]]；[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 133–134)]]
 >   - **国防与友岸外包专项基金** 设立 20 亿美元国防专用半导体基金与 5 亿美元国际技术安全与创新基金（ITSI Fund）。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 98)]]
 > - **约束机制**
@@ -160,6 +161,7 @@ updated: 2026-10-04
 > [!finding-cards] 实施成效与结构反响
 > - **重塑全球先进制程投资流向** 成功吸引[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（亚利桑那州两座先进制程晶圆厂）、三星（德州泰勒）、英特尔（俄亥俄与亚利桑那州）及美光（纽约州超级 DRAM 厂）落地，锁定了未来 2nm–4nm 先进产能。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]
 > - **开创三代公私研发合作新格局** 推动建立国家半导体技术中心（NSTC），使[[University-Industry Collaboration|产学合作]]从公司自发投资跃升为国家战略级制度化创新基础设施。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
+> - **前沿研发与劳动力培育协同机制** 法案在直接补贴之外将劳动力发展（Workforce Development）确立为核心基石，借鉴欧洲 IMEC 等跨国高校-产业研发中心[[Paradigm|范式]]，设立 NSTC 产学培训网络；同时创新性要求申请 1.5 亿美元以上补贴的企业强制配套员工托儿服务（Childcare），试图通过社会政策工具激活女性与本地技术劳动力供给。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 97–98)]]
 > - **激活落后地区[[Innovation Ecosystem|区域创新生态]]** Tech Hubs 与 [[National Science Foundation|NSF TIP]] 资助大幅提升了传统内陆地区[[Innovation Park|研究园区]]的[[Research Translation|技术转化]]活力与风险资本关注度。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 133–137)]]
 
 > [!stat-cards]- 核心数据

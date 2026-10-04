@@ -67,7 +67,7 @@ title: "Argument_Bown_2024_JEP"
 argument_key: "Argument_Bown_2024_JEP"
 argument_display_title: "Semiconductors and modern industrial policy"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -292,8 +292,9 @@ issuing_organization: ""
 > 1. **单边制裁与实体清单** 特朗普政府将华为、中芯国际列入实体清单，扩充外国直接产品规则（FDPR），禁止台积电等代工厂使用含有美国技术的设备和软件为华为代工。（pp. 98–99）
 > 2. **全面先进制程出口管制** 拜登政府于 2022 年 10 月发布 2022 年 10 月[[October 2022 US Semiconductor Export Controls|美国半导体出口管制]]新规，设立先进制程技术阈值（逻辑芯片 $\le 16/14\,\text{nm}$、DRAM $\le 18\,\text{nm}$、与非闪存（NAND Flash Memory, NAND）$\ge 128$ 层），全面禁止先进芯片、制造设备及设计软件对华出口，限制美国公民与永久居民支持在华先进晶圆厂运营，并游说荷兰（ASML）与日本（东京电子）在 2023 年建立三边制造设备禁运同盟。（pp. 98–100）
 > 3. **巨额本土制造补贴** 2022 年美国国会通过 [[CHIPS and Science Act|芯片与科学法案]]（CHIPS and Science Act），提供 390 亿美元直接建厂补贴与 25% 投资税收抵免，吸引台积电（亚利桑那州）、三星（德州泰勒）、美光（纽约州）与英特尔在本土建设先进制程晶圆厂。（pp. 97, 100）
-> 4. **严格护栏条款（Guardrails）** 规定接受美国补贴的企业在未来 10 年内严禁在被列为关切国家（特别是中国）大幅扩建或升级先进制程产能（扩产比例严格限制在 5% 以内）。（p. 97）
-> 5. **友岸外包与区域协作** 设立 5 亿美元国际技术安全与创新基金（International Technology Security and Innovation Fund, ITSI），与越南、哥斯达黎加、巴拿马等建立伙伴关系，推动封装测试产线的分散转移。（p. 98）
+> 4. **前沿研发与劳动力发展专项拨款** 法案在 527 亿美元直接资金中专列 130 亿美元用于先进研发与劳动力技能培训（Workforce Development），汲取 SEMATECH 及欧洲大学微电子中心（IMEC）的产学研发枢纽经验，着力补齐本土工程技术人才短板，并创新性设立托儿服务（Childcare）配套要求与超额利润分享条款。（pp. 97–98）
+> 5. **严格护栏条款（Guardrails）** 规定接受美国补贴的企业在未来 10 年内严禁在被列为关切国家（特别是中国）大幅扩建或升级先进制程产能（扩产比例严格限制在 5% 以内）。（p. 97）
+> 6. **友岸外包与区域协作** 设立 5 亿美元国际技术安全与创新基金（International Technology Security and Innovation Fund, ITSI），与越南、哥斯达黎加、巴拿马等建立伙伴关系，推动封装测试产线的分散转移。（p. 98）
 
 #### 4. 欧盟与亚洲盟友跟进补贴政策以争夺先进制造产能，中国则通过关键原材料管制与转向成熟制程展开反制
 

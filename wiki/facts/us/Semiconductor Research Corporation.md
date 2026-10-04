@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "非营利性产学合作科研资助联合体（Industry-University Research Consortium）"
 headquarters: "美国北卡罗来纳州三角研究园（Research Triangle Park, NC）"

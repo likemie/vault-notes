@@ -8,7 +8,7 @@ aliases:
 summary: "个体与组织通过实际行动、工程实践与试错排障获取并内化深层知识的认识与生产率演进机制。在杜威进步主义教育中指通过真实探究建构批判性思维的核心教学法；在产业组织与创新经济学中指随累积产量爬坡带来的动态良率提升与单位成本下降（学习曲线效应），构成了政府为扶持先发优势与动态比较优势提供产业政策补贴的核心经济学辩护基石。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 27
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

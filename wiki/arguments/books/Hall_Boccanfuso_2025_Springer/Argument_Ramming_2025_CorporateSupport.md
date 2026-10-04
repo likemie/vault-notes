@@ -9,7 +9,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -59,7 +59,7 @@ sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch12_Ramming_2025|Ch12_Ramming_2025]]"
 status: draft
 created: 2026-06-03
-updated: 2026-10-03
+updated: 2026-10-04
 year: 2025
 doi: ""
 citation_aliases:
