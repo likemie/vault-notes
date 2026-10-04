@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-28
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # National Science Foundation
@@ -177,6 +177,7 @@ updated: 2026-10-04
 > - **1,000+** [[NSF I-Corps]] 累计孵化的高校科技初创企业数量。
 > - **$760+ Million** I-Corps 孵化企业所撬动的后续商业化融资总额。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
 > - **25 所** 联合教育部等多部门设立的国家人工智能研究院总数。[[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 40)]]
+> - **$81 Billion** 2022 年《[[CHIPS and Science Act|芯片与科学法案]]》为 NSF 授权的五年期预算总额（若拨款落实，五年内拟新增 360 亿美元，首年预算拟增长 8%），并依法增设技术、创新与伙伴关系理事会（TIP）以加速应用转化；法案同时拟将研究生研究奖学金（GRFP）从每年 2000 名增至 3000 名。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
 > - **$1.6 亿美元** TIP 理事会首批向 10 个区域创新合作体授予的十年期资助总额。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, p. 134)]]
 > - **$3.5 Million** 1952 年 NSF 首个正式拨款年度联邦预算总额（资助 60 所高校）。
 > - **42%** 1952–1953 年获 NSF 资助的前 10 位顶尖名校所占全美经费份额。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 10)]]

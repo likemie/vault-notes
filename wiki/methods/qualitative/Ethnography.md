@@ -10,7 +10,7 @@ summary: "源自人类学与社会学的质性研究设计，要求研究者在�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 61
+method_related_count: 62
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Construct]]"
   - "[[Unit of Analysis]]"
+  - "[[Communities of Practice]]"
   - "[[Research Question]]"
   - "[[Interviewer Effects]]"
   - "[[Epistemology]]"
@@ -88,7 +89,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-30
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 
 # Ethnography
@@ -103,7 +104,7 @@ updated: 2026-10-01
 > [!method-scope] 适用范围与产出形态
 > - **适用问题** 深入探究特定群体如何建构共享意义；揭示教育政策或外来干预在微观课堂落地中的“再语境化”过程；捕捉制度背后的隐性权力关系与行动者的微观能动性（Monkman & Baird, 2002; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 108–110]]）。
 > - **核心产出** 饱含主位视角的[[Rich and Thick Description|厚描述]]（Thick Description）、文化共享模型、社会互动网络图谱、微观博弈故事与[[Grounded Theory|扎根理论]][[Construct|构念]]。
-> - **[[Unit of Analysis|分析单位]]** 文化共享群体、社区、学校、特定班级或职业实践共同体。
+> - **[[Unit of Analysis|分析单位]]** 文化共享群体、社区、学校、特定班级或职业[[Communities of Practice|实践共同体]]。
 
 > [!citation-card] LeCompte & Preissle 论民族志的过程与重构本性
 > 民族志是一个涉及探究方法、探究结果和探究产生的记录的过程。其核心意图在于尽可能生动地重构所研究的文化或群体。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 405)]]

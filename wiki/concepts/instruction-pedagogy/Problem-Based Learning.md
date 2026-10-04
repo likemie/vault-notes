@@ -6,7 +6,7 @@ aliases:
 summary: "以经过选择的问题组织目标、学习活动与评估的教学系统，强调先备知识激活、协作探究、知识应用、模型修正和自我监控。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -56,6 +56,7 @@ related_concepts:
 related_theories:
   - "[[Phenomenology]]"
   - "[[Knowledge Integration]]"
+  - "[[Transformative Learning Theory]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Sample Size Determination]]"
@@ -81,7 +82,7 @@ related_instruments: []
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Problem-Based Learning
@@ -192,7 +193,7 @@ updated: 2026-10-03
 > [[Argument_Biggs_1999_HERD\|Feletti (1997, as cited in Biggs, 1999, pp. 71–72)]]
 
 > [!feature] PBL 关联的学习与认知理论
-> - **成人教育学与转化学习** 学习应独立、自导、目标导向、内部驱动且适用于实践，并促进转化与解放。
+> - **成人教育学与[[Transformative Learning Theory|转化学习]]** 学习应独立、自导、目标导向、内部驱动且适用于实践，并促进转化与解放。
 > - **体验学习与社会学习** 在真实问题中[[Experiential Learning\|经验学习]]，通过小组互动与替代观察获取知识。
 > - **信息加工与认知负荷** 学习涉及认知过程与认知负荷管理，问题结构调节加工深度。
 > - **协作与[[Cooperative Learning\|合作学习]]** 强调学习者之间互动、激活先备知识、主动参与。

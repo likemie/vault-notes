@@ -18,7 +18,7 @@ aliases:
 summary: "在异质组织、专业社群或制度系统（如学术研究与产业界、科学共同体与政策决策系统）之间充当沟通桥梁的专业角色或中介机构，通过双重语言转译、制度摩擦缓冲与多边信任建构，促进知识流动、资源对齐与跨界协同。在公共教育治理中，跨界中介者连接科学与政策两社区，在证据过剩与决策歧义性生态下以政策中介平衡公信力与行政两难。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 73
+related_count: 74
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -69,6 +69,7 @@ related_concepts:
   - "[[Language Skills]]"
   - "[[Document]]"
   - "[[Paradigm]]"
+  - "[[Communities of Practice]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Operationalization]]"
   - "[[Governing by Numbers]]"
@@ -112,7 +113,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # Boundary Spanner
@@ -298,7 +299,7 @@ updated: 2026-10-04
 
 > [!dev-timeline] 边界跨越者的理论演化与应用脉络
 > - **1970s — 组织理论开创期** Howard Aldrich、David Herker 与 Michael Tushman 奠定组织边界跨越角色理论，提出信息处理（Information Processing）与外部代表（External Representation）双重职能。
-> - **1990s — 情境学习与边界交叉理论** Etienne Wenger 提出“实践共同体”（CoP）中的边界经纪人（Brokers）；[[Yrjö Engeström]] 等发展[[Third Generation Activity Theory\|活动理论]]，将边界交叉（Boundary Crossing）视为促进系统拓展性学习的核心机制。
+> - **1990s — 情境学习与边界交叉理论** Etienne Wenger 提出“[[Communities of Practice|实践共同体]]”（CoP）中的边界经纪人（Brokers）；[[Yrjö Engeström]] 等发展[[Third Generation Activity Theory\|活动理论]]，将边界交叉（Boundary Crossing）视为促进系统拓展性学习的核心机制。
 > - **2010 — 从消极中介向[[Embedded Network Governance|网络架构重塑]]的能动性跃升** [[Erica Fuchs|埃丽卡·福克斯]]在《研究政策》撰文指出，在国家战略科技攻坚中，公共代理人（如 [[DARPA]] 项目经理）的角色超越了 Burt 式[[Structural Holes|结构洞]]经纪人与 Fleming 式边界跨越者；代理人主动依托[[Network Plasticity|网络可塑性]]重塑研发社会网络，发挥“系统集成者”与“乐队指挥家”的能动性治理功能。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135, 1144–1145)]]
 > - **2010s — [[University-Industry Collaboration\|产学合作]]与教育[[Knowledge Mobilisation\|知识动员]]双向繁荣** 在高教领域，Pertuze et al. (2010) 与 Jonsson et al. (2015) 确立“专业创新支持官”为产学最佳实践；在教育政策领域，Levin (2011) 与 Campbell (2014) 系统阐发教育中的“[[Educational Brokerage Agency\|知识经纪]]人”（Knowledge Brokers）。
 > - **2017 — 特刊确立中介网络在 [[Evidence-Informed Practice\|EIP]] 中的决定性地位** [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] 汇聚多国经验，正式将跨界中介者与协作网络界定为推动证据知情实践不可或缺的系统基础设施。

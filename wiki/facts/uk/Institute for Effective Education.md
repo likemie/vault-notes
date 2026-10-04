@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Evidence-Based Reform]]"
   - "[[Policy Network]]"
   - "[[School Leadership]]"
+  - "[[Communities of Practice]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Internal Validity]]"
   - "[[Transfer Translation Transformation]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-09-17
+updated: 2026-10-05
 ---
 
 # Institute for Effective Education
@@ -92,7 +93,7 @@ updated: 2026-09-17
 > [!dev-timeline]- 组织发展历程
 > - **2008–2010 — 创立奠基与跨大西洋[[Evidence Network\|证据网络]]构建** 斯莱文与贝特·钱伯斯（Bette Chambers）在约克大学创办 IEE，与美国约翰霍普金斯大学[[Best Evidence Encyclopedia\|最佳证据百科全书]]（[[Best Evidence Encyclopedia\|BEE]]）紧密协同，推出面向一线实践者的《简明证据通讯》（Evidence in Brief），向英国中小学系统引进国际前沿实证综述。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, p. 33)]]
 > - **2011–2015 — 证据清算平台与试点创新资助** 创设英国首个针对具名教育干预方案的有效性评价数据库 Evidence 4 Impact（E4I），推行透明的四级因果评级标准；同时设立“创新评估专项资助”（Innovation Evaluation Grants），直接资助中小学校联合研究人员开展教学创新的前期因果试点评估。
-> - **2016–2019 — 联合创设[[Research Schools Network\|研究学校网络]]（RSN）进入黄金期** 针对单纯网络工具包无法穿透课堂的痛点，IEE 联合英国[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）共同发起创设全国性[[Research Schools Network\|研究学校网络]]（Research Schools Network, RSN），IEE 承担全国认证标准制定、培训规程设计与核心运行统筹，成功将中介重心由中央平台下沉至分布式校际实践共同体。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150)]]
+> - **2016–2019 — 联合创设[[Research Schools Network\|研究学校网络]]（RSN）进入黄金期** 针对单纯网络工具包无法穿透课堂的痛点，IEE 联合英国[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）共同发起创设全国性[[Research Schools Network\|研究学校网络]]（Research Schools Network, RSN），IEE 承担全国认证标准制定、培训规程设计与核心运行统筹，成功将中介重心由中央平台下沉至分布式校际[[Communities of Practice|实践共同体]]。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150)]]
 > - **2020–2021 — 战略转型与机构平稳交接** 伴随长期专项资助周期届满以及创始人斯莱文教授离世，IEE 于 2020 至 2021 年间结束了作为独立研究所的日常运营阶段；其核心资产、研究学校网络运营职能与数据库规范被英国教育捐赠基金会（EEF）及约克大学完整接管并持续沿用。
 
 ---
@@ -169,7 +170,7 @@ updated: 2026-09-17
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] — 系统评析欧洲证据基础设施的演进格局，将 IEE 确立为证据生成与转化兼备的混合型组织典范，并提出知识[[Reusability Paradox\|可重用性悖论]]对跨国循证迁移的制约。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 考察英国[[What Works Network\|有效性网络]]（WWN）与中介生态，阐释 IEE 与 [[Education Endowment Foundation\|EEF]] 联合创设[[Research Schools Network\|研究学校网络]]（RSN）以打通证据应用最后一公里的历史经验。
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 剖析现代教育[[Knowledge Mediation\|知识中介]]组织形态演化，将 IEE 与 EEF 孵化的 RSN 确立为中介向校际实践共同体规模化下沉的标杆案例。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 剖析现代教育[[Knowledge Mediation\|知识中介]]组织形态演化，将 IEE 与 EEF 孵化的 RSN 确立为中介向校际[[Communities of Practice|实践共同体]]规模化下沉的标杆案例。
 
 ---
 

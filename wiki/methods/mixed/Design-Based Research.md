@@ -12,7 +12,7 @@ summary: "以真实情境中的多轮迭代循环为核心的混合方法论：�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 37
+method_related_count: 38
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Variable]]"
   - "[[Learning Analytics]]"
+  - "[[Communities of Practice]]"
   - "[[Integration in Mixed Methods]]"
   - "[[Rich and Thick Description]]"
   - "[[Reflective Structuration]]"
@@ -121,7 +122,7 @@ updated: 2026-10-05
 > [!proc] 高等教育与科研人员专业发展中的 DBR 迭代扩展
 > 在应对重大科技战略与跨学科团队建设等组织级情境中，DBR 从中小学课堂拓展至大学科研人员发展领域，形成“范围与模态逐级递增”的实境干预[[Paradigm|范式]]：[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3–6)]]
 > 1. **校内专班探索与议题诊断（第一轮，线上模态）** 组建跨学科战略工作专班，结合国家战略需求梳理重点技术领域，通过结构化提示与线上小组研讨激活教师问题意识，摸底合作意向与认知瓶颈。
-> 2. **系统级实体联通与实践共同体孵化（第二轮，线下实体模态）** 跨越单一校区边界，在大学系统内组织实体研讨、成果展示与产业圆桌论坛，为初涉前沿领域的学者提供合法边缘性参与空间，以面对面深度互动建立学术信任。
+> 2. **系统级实体联通与[[Communities of Practice|实践共同体]]孵化（第二轮，线下实体模态）** 跨越单一校区边界，在大学系统内组织实体研讨、成果展示与产业圆桌论坛，为初涉前沿领域的学者提供合法边缘性参与空间，以面对面深度互动建立学术信任。
 > 3. **跨部门政产学研融合与常态平台落地（第三轮，混合模态）** 联合全州高校、产业领军企业与政府部门开展多边峰会，通过跨界对话推动战略科研团队对接真实产业需求，最终促成临时专班向常态化战略研究院平稳过渡。
 
 > [!feature] 基于设计的研究七大核心特征

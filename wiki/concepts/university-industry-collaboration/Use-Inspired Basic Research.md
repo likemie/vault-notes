@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-10-02
+updated: 2026-10-05
 ---
 
 # Use-Inspired Basic Research
@@ -61,7 +61,7 @@ updated: 2026-10-02
 
 > 这一时期见证了"对[[Research Universities|研究型大学]]的重要性的重新认识——大学不仅应追求基础研究，还应能够将发现导向社会用途，并开展更容易转化为应用的更应用型研究"（Arora et al., 2020）([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, p.39]])。
 
-> 这一转变的制度表现包括：美国 [[National Science Foundation\|NSF]] 工程研究中心（ERC）项目的设立（聚焦跨学科、趋同研究和工程系统创新）、[[University-Based Research Center\|产学合作研究中心]]（IUCRC）项目（促进大学-产业-政府长期合作），以及 2022 年 NSF 新设的技术创新与伙伴关系局([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, pp.39–40, 44]])。
+> 这一转变的制度表现包括：美国 [[National Science Foundation\|NSF]] 工程研究中心（ERC）项目的设立（聚焦跨学科、趋同研究和工程系统创新）、[[University-Based Research Center\|产学合作研究中心]]（IUCRC）项目（促进大学-产业-政府长期合作），以及 2022 年《[[CHIPS and Science Act|芯片与科学法案]]》在 NSF 新设的技术、创新与伙伴关系理事会（TIP），旨在加速应用启发的研究与技术转化，将基础科学发现导向现实应用([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, pp.39–40, 44]]; [[Argument_Brint_2023_IHE|Brint, 2023, p. 9]])。
 
 > 在国际[[University-Industry Collaboration\|产学合作]]语境中，[[Pasteur's Quadrant|巴斯德象限]]被用作概念定位工具：大学的基础研究能力与产业的应用问题驱动相结合，使合作自然落在"应用启发的基础研究"区间。这一象限概念为理解国际产学合作的科学定位提供了[[Epistemology\|认识论]]基础([[Argument_Wolf_2025_InternationalResearchCollab\|Wolf et al., 2025, p.310]])。
 

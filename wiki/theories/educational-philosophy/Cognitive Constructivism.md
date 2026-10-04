@@ -7,10 +7,10 @@ aliases:
 summary: "一种将知识视为存在于个体头脑中的内部结构，将学习视为个体同化与顺应外部信息的内部心理过程的理论范式。它是个体认识论研究早期的主导范式。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 22
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 24
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 domain: "educational-philosophy"
 related_count: 0
 related_level: 0
@@ -29,10 +29,12 @@ related_concepts:
   - "[[Epistemic Practices]]"
   - "[[Problem Solving]]"
   - "[[Ontology]]"
+  - "[[Communities of Practice]]"
 related_theories:
   - "[[Piaget's Theory of Cognitive Development]]"
   - "[[Situative Perspective]]"
   - "[[Integrative Pluralism]]"
+  - "[[Transformative Learning Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Questionnaire]]"
@@ -143,7 +145,7 @@ updated: 2026-10-05
 > > [!axis] [[Ontology|本体论]]断裂：个体[[Constructivist Paradigm|建构主义]] vs [[Situative Perspective|情境主义]]（Situative Perspective）
 > > 争论认知究其本质是驻留在个体头脑中的内部表征，还是根植于物理与社会情境脉络中的参与活动。
 > >
-> > - **情境主义（[[Situative Perspective]]）** 批评个体认知建构主义犯了严重的脱域（decontextualized）错误，指出离开社会互动网络与真实实践共同体，头脑内部的孤立图式毫无生机。
+> > - **情境主义（[[Situative Perspective]]）** 批评个体认知建构主义犯了严重的脱域（decontextualized）错误，指出离开社会互动网络与真实[[Communities of Practice|实践共同体]]，头脑内部的孤立图式毫无生机。
 > > - **[[Integrative Pluralism|整合多元主义]]（[[Integrative Pluralism]]）与现代学习科学** 主张二者互补：情境学习解释了个体如何作为合法边缘参与者进入共同体，而认知建构主义则精确刻画了个体在参与过程中如何进行内部认知图式与信念的主动重构。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]; [[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–3)]]
 
 > [!warning] 测量的方法论悖论
@@ -155,4 +157,4 @@ updated: 2026-10-05
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 系统梳理认知[[Constructivist Paradigm|建构主义]]在[[Epistemology|认识论]]研究中面临的[[Ontology|本体论]]与方法论危机，主张将其作为多层级[[Epistemic Practices|认知实践]]模型的底层组件与情境理论相整合。
-> - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 将认知建构主义与情境学习、社会建构主义及转化学习并列为四大支柱理论，运用于高校半导体学者发展工作坊，阐明促使学者批判性审视固有专业[[Hypothesis|假设]]并重构战略图式是培育跨学科科研共同体的核心机制（pp. 2–3, 6）。
+> - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 将认知建构主义与情境学习、社会建构主义及[[Transformative Learning Theory|转化学习]]并列为四大支柱理论，运用于高校半导体学者发展工作坊，阐明促使学者批判性审视固有专业[[Hypothesis|假设]]并重构战略图式是培育跨学科科研共同体的核心机制（pp. 2–3, 6）。

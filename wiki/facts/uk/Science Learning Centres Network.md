@@ -12,7 +12,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 3
+fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Attrition]]"
   - "[[STEM Education]]"
+  - "[[Communities of Practice]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-09-22
+updated: 2026-10-05
 ---
 
 # Science Learning Centres Network
@@ -60,7 +61,7 @@ updated: 2026-09-22
 > [!policy-design]- 政策设计与实施机制
 > - **目标** 改善中小学科学教学质量，提升教师专业胜任力与教学信心，遏制关键理科学科师资[[Attrition\|流失]]。
 > - **对象** 中小学科学教师、学校实验技术人员及管理层。
-> - **工具** 设立国家与区域实体研修中心、提供学科专属前沿实验工作坊、建设同行实践共同体。
+> - **工具** 设立国家与区域实体研修中心、提供学科专属前沿实验工作坊、建设同行[[Communities of Practice|实践共同体]]。
 > - **约束与激励** 设立 ENTHUSE 合作基金与影响力资助，为弱势地区学校提供研修奖学金与代课经费补贴，确保教师普惠参与。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 36–37)]]
 
 ---

@@ -7,7 +7,7 @@ title: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_key: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_display_title: "Epistemic practices and science education"
 argument_kind: "book-chapter"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Praxis]]"
   - "[[Dialogue in Education]]"
+  - "[[Communities of Practice]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Epistemic Value]]"
@@ -165,7 +166,7 @@ updated: 2026-09-28
 ### 论证步骤一　科学知识的认识论主体是社会协商共同体而非孤立个体
 
 > [!claim] 步骤一核心主张
-> [[Epistemology\|认识论]]主体不是孤立的个体知者，而是具有特定文化规范与传统的微观实践共同体；科学教育必须走出个体心智测验的狭隘视野，转向考察群体如何在社会互动中协商并决定何者算作有效知识。（pp. 140, 147–148）
+> [[Epistemology\|认识论]]主体不是孤立的个体知者，而是具有特定文化规范与传统的微观[[Communities of Practice|实践共同体]]；科学教育必须走出个体心智测验的狭隘视野，转向考察群体如何在社会互动中协商并决定何者算作有效知识。（pp. 140, 147–148）
 
 #### 1. 科学认识论主体是情境化社会协商群体而非笛卡尔孤立知者
 

@@ -7,7 +7,7 @@ title: "Argument_Bouckaert_2023_OECD"
 argument_key: "Argument_Bouckaert_2023_OECD"
 argument_display_title: "The assessment of students' creative and critical thinking skills in higher education across OECD countries: A review of policies and related practices (OECD Education Working Papers No"
 argument_kind: "report"
-argument_related_count: 112
+argument_related_count: 113
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -74,6 +74,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Chain of Evidence]]"
   - "[[Scaffolding]]"
+  - "[[Communities of Practice]]"
   - "[[Feedback]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -490,7 +491,7 @@ updated: 2026-09-18
 > | **2. 确保各层级建构性对齐**<br>(Alignment at All Levels) | 学科指导委员会、院系教务处、任课教师。 | 贯通“国家资格框架 → 学科基准 → 培养方案 → 课程成果目标 → 教学探究 → 真实性任务与量规”六级链条。 | 破除名义对齐，引导学生从表层应试走向深层探究与批判创造。 |
 > | **3. 改造大规模与高利害考试**<br>(Large-Scale Assessments) | 国家考试命题机构、大学招生委员会、行业资格协会。 | 入学与执业考试系统压缩纯客观选择题，增设开放表现任务、跨学科深度论文与现场答辩（如法国 Grand Oral、瑞士 Matura）。 | 撬动高利害考试的强大反拨力量，倒逼基础与中等教育以及大学教学模式深层转型。 |
 > | **4. 提供中央教学与评价支持**<br>(Central Support Network) | 国家教学发展联盟、高校卓越教学中心（CTL / TLC）。 | 资助卓越教学中心常态化运营，组织量规开发与跨教师评分校准（Calibration）工作坊，建设国家学科评价资源库。 | 赋能一线教师的评价素养，在尊重学术自治的前提下系统提升命题与促学指导质量。 |
-> | **5. 试点创新评价并推广经验**<br>(Pilot & Disseminate) | 跨学科科研团队、高校创新联合体、实践共同体（CoP）。 | 设立国家竞争性专项教改基金（如 KoKoHs / CALOHEE 模式），资助数字化真实性情境测评工具研发与微证书推广。 | 积累科学可靠的测评工具储备，依托跨校实践共同体实现优质评价范式的规模化辐射。 |
+> | **5. 试点创新评价并推广经验**<br>(Pilot & Disseminate) | 跨学科科研团队、高校创新联合体、[[Communities of Practice\|实践共同体]]（CoP）。 | 设立国家竞争性专项教改基金（如 KoKoHs / CALOHEE 模式），资助数字化真实性情境测评工具研发与微证书推广。 | 积累科学可靠的测评工具储备，依托跨校实践共同体实现优质评价范式的规模化辐射。 |
 > | **6. 建立长效监测与循证评估**<br>(Monitoring & Evaluation) | 外部质保机构（QA）、国家教育统计与科研评估机构。 | 建立课程考核大纲普查机制；研制科学工具对代表性大学生队列定期开展纵向抽样增益测评。 | 摸清基层评价落地的真实演进，为国家高教拨款、质量问责与政策迭代提供坚实实证依据。 |
 >
 > （pp. 30–35）

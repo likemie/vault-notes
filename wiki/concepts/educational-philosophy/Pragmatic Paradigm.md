@@ -8,7 +8,7 @@ aliases:
 summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动、适合目的与方法自由）。"
 type: concept
 domain: "educational-philosophy"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Praxis]]"
+  - "[[Communities of Practice]]"
   - "[[Operationalization]]"
   - "[[Paradigm Wars]]"
   - "[[Scientific Attitude]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 
 # Pragmatic Paradigm
@@ -129,7 +130,7 @@ updated: 2026-10-01
 > [!feature] 方法论层次要素
 > - **[[Research Question\|研究问题]]驱动** 放弃量化与质性优劣的纯哲学争论，直接判断研究是否成功回答了想了解的问题（Feilzer, 2010, p. 14）。
 > - **[[Fitness for Purpose\|适合目的]]与技术自由** 基于问题需求自由组合最合适的数据收集与分析程序（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
-> - **实践共同体（Community of Practice）** 从库恩[[Paradigm\|范式]]论出发，将[[Mixed Methods Research\|混合方法研究]]者理解为由共同实用主义标准凝聚的学术共同体（Denscombe, 2008）。
+> - **[[Communities of Practice|实践共同体]]（Community of Practice）** 从库恩[[Paradigm\|范式]]论出发，将[[Mixed Methods Research\|混合方法研究]]者理解为由共同实用主义标准凝聚的学术共同体（Denscombe, 2008）。
 
 > [!logic-map]- 从哲学层面到方法论层次的推演图
 > ```mermaid
@@ -242,7 +243,7 @@ updated: 2026-10-01
 > > 传统[[Positivism\|实证主义]]与[[Constructivist Paradigm\|建构主义]]学者质疑[[Mixed Methods Research\|混合方法]]是否打破了库恩[[Paradigm\|范式]]的不可[[Commensuration\|通约]]性（incommensurability），担心将不同[[Ontology\|本体论假设]]混用会导致逻辑不自洽。
 > >
 > > - **Guba & Lincoln (1994)** 认为范式具有不可调和的[[Epistemology\|认识论]]根基。
-> > - **Denscombe (2008)** 主张将混合方法理解为实践共同体，以效用与[[Fitness for Purpose\|适合目的]]超越教条对立。
+> > - **Denscombe (2008)** 主张将混合方法理解为[[Communities of Practice|实践共同体]]，以效用与[[Fitness for Purpose\|适合目的]]超越教条对立。
 >
 > > [!axis] 效用优先与价值批评的张力（哲学与方法论双层）
 > > 批评者担心过度强调实用后果与“有效”（What works）可能流于无批判的技术主义，忽略对社会权力结构的反思。

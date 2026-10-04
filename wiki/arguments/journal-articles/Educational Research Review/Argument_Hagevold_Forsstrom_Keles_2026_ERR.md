@@ -7,7 +7,7 @@ title: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_key: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_display_title: "Research on research use in schools: A systematic review with a framework synthesis"
 argument_kind: "journal-article"
-argument_related_count: 57
+argument_related_count: 58
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Source of Knowledge]]"
   - "[[Research-Practice Gap]]"
+  - "[[Communities of Practice]]"
   - "[[Teacher Professional Agency]]"
   - "[[Institutional Distrust]]"
   - "[[Epistemology]]"
@@ -255,7 +256,7 @@ updated: 2026-09-15
 > |  | 领导（k = 25） | 领导倡导研究（Baildon & Ong, 2022）、建立信任与自主（Baan et al., 2023）、分配时间并培育协作文化（Brown, 2017） |
 > | 个体层面 | 技能（k = 22） | 基本研究技能、转化应用技能、人际协作技能都促进使用；正式教育与专门训练是研究使用的预测因子（Davidson, 2013; Reichenberg, 2021） |
 > |  | 有利心态（k = 29） | 好奇与专业伦理构成内在动机（Bergmark, 2022; Brown, 2017），承诺满足学生需求也是强劲动力（Kowalczuk-Walędziak et al., 2024）；外部激励（地位、奖金、课程资助）也有帮助（Abbott et al., 2017） |
-> |  | 关系连接（k = 35） | 信任的同事网络、期刊俱乐部（Boyne & Beadle, 2017）、探究小组（Cornelissen et al., 2017）、实践共同体，以及跨校与研究者/大学伙伴关系（Ion et al., 2021） |
+> |  | 关系连接（k = 35） | 信任的同事网络、期刊俱乐部（Boyne & Beadle, 2017）、探究小组（Cornelissen et al., 2017）、[[Communities of Practice\|实践共同体]]，以及跨校与研究者/大学伙伴关系（Ion et al., 2021） |
 > | 核心构件 | 深思熟虑参与（k = 18） | 既可以是工具性的（教师用它解决实践问题，Sinnema et al., 2011），也可以是协作性的（引发对话讨论，Brown & Zhang, 2017）；带来具体改变并增强[[Teacher Professional Agency\|教师能动性]]（“我可以拥有自己工作的所有权”，Hofmann & Ilie, 2022, p. 14） |
 > |  | 恰当研究（k = 35） | 兼具实用性并维护研究完整性，需要在格式、内容、情境相关性与语言之间取得平衡 |
 

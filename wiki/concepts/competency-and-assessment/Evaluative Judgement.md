@@ -8,7 +8,7 @@ aliases:
 summary: "学习者理解何为良好工作质量，并能够对自己及他人的工作质量做出审慎、明智评价决策的核心能力。在高等教育与智能化求知情境中，评价性判断被确立为不可向算法外包的核心认识能力与终身学习基石。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Theoretical Perspective]]"
   - "[[Lifelong Learning]]"
+  - "[[Communities of Practice]]"
   - "[[Epistemic Dependence]]"
   - "[[Epistemic Agency]]"
   - "[[Formative Assessment]]"
@@ -50,7 +51,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-10-05
 ---
 
 # Evaluative Judgement
@@ -131,7 +132,7 @@ updated: 2026-09-22
 
 ### 命题二　评价性判断在多源范例对比与同伴互评的社会性交互中生成而非单纯依靠显性量规
 
-> [!concept-lens] 实践社群与内隐知识社会化
+> [!concept-lens] [[Communities of Practice|实践社群]]与内隐知识社会化
 > 卓越工作的质量判准往往包含大量无法被语言完全穷尽的隐性知识（Tacit Knowledge）。
 
 > [!claim] Boud & Soler (2016)

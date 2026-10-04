@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_facts:
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[Sematech]]"
   - "[[National Science Foundation]]"
+  - "[[Texas A&M Semiconductor Institute]]"
   - "[[October 2022 US Semiconductor Export Controls]]"
   - "[[European Chips Act]]"
 related_arguments:
@@ -124,7 +125,7 @@ updated: 2026-10-05
 > - **中央战略引导** 商务部设立 CHIPS 计划办公室，建立跨部门遴选与审查标准，将供应链韧性与地缘安全审查前置。
 > - **地方与区域承接** 亚利桑那州、德克萨斯州、纽约州、俄亥俄州等地方政府提供数十亿美元的地方税收减免与土地配套，推动晶圆超级工厂落地。
 > - **公私研发协同** 通过国家半导体技术中心（NSTC）联合产业界与大学，建立新型三代公私合作[[Paradigm|范式]]（企业项目 $\to$ 行业联盟 $\to$ 国家战略型 [[Public-Private Partnership in Research|PPP]]）。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
-> - **高校微观学术动员与制度承接** 高水平[[Research Universities|研究型大学]]设立专门应对法案的跨学科工作专班（Task Force），通过[[Design-Based Research|基于设计的研究]]开展多轮次学者发展工作坊，推动校内专班向常态化半导体研究院（Semiconductor Institute）过渡，构建政产学研协同创新网络。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3–5)]]
+> - **高校微观学术动员与制度承接** 高水平[[Research Universities|研究型大学]]设立专门应对法案的跨学科工作专班（Task Force），通过[[Design-Based Research|基于设计的研究]]开展多轮次学者发展工作坊，推动校内专班向常态化半导体研究院（[[Texas A&M Semiconductor Institute|Semiconductor Institute]]）过渡，构建政产学研协同创新网络。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3–5)]]
 
 ---
 
@@ -195,6 +196,7 @@ updated: 2026-10-05
 > > - **产业评论界** 批评繁冗的社会附加条款增加了外国企业（如[[Taiwan Semiconductor Manufacturing Corporation|台积电]]）在美建厂的协调难度与行政摩擦。
 
 > [!critique] 外部批评
+> - **授权经费与实际拨款落地脱节（拨款落空风险）** 法案虽然授权了总计高达 2800 亿美元的科技研发与产业支出，但美国立法体制中“授权”（Authorization）并不等同于最终由拨款委员会落实的“实际拨款”（Appropriation）。除了半导体直接制造补贴相对确定外，基础科研机构（如 NSF、DOE 科学办公室）的巨额增量经费极易在后续两党拨款博弈中大幅缩水；正如美国政府问责局（GAO）针对 2007 年《美国竞争法》及其 2010 年再授权法案的审计显示，28 项新设政策项目中仅有 1 项最终获得了完全资助与落实。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]
 > - **诱发全球补贴内耗与保护主义螺旋** 美国的巨额补贴迫使欧盟、日本、韩国纷纷跟进出台同等力度的补贴政策，引发盟友间的资本争夺与世贸规则失效。
 > - **技术工人与工程师供给断层** 美国本土缺乏足够的半导体工艺工程师与熟练技师，导致亚利桑那台积电晶圆厂等关键项目发生投产延期。
 > - **高校内部跨学科协同壁垒与模式约束** 大学在承接芯片法案科研任务时，面临教师日常科研与教学任务冲突导致的研讨时间严重不足（调查中 63%–75% 学者反馈讨论时间受限），且混合会议模式削弱了线上参会者的[[Presence|沉浸感]]与人际互信，制约了跨系所科研团队的深层孵化。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 5–7)]]

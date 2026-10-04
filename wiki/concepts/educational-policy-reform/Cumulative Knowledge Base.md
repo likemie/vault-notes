@@ -7,7 +7,7 @@ aliases:
 summary: "教育知识治理的核心终极命题，指通过跨机构协作、多元方法证据综合与元中介机制，建构一套被全球教育系统准普遍公认为基础坚实、可跨情境调适并经得起时间检验的共享性知识体系。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -18,6 +18,7 @@ tags:
   - theme/epistemic-governance
 related_concepts:
   - "[[Epistemic Governance]]"
+  - "[[Communities of Practice]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Document]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-22
+updated: 2026-10-05
 ---
 
 # Cumulative Knowledge Base
@@ -71,7 +72,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> **累积性知识库（Cumulative Knowledge Base）**是指在复杂教育[[Epistemic Governance\|知识治理]]生态中，超越单一孤立个案与单体中介机构局限，通过跨国跨系统元中介协作（Brokering the Brokers）、二阶[[Systematic Review\|系统综述]]（Reviews of Reviews）以及多元异质证据整合，逐步沉淀并动态调适形成的、被政策与实践共同体“准普遍公认建立在坚实基础之上（quasi-universally acknowledged as well founded）”的共享性科学与实践知识基石。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 55, 66–68]])
+> **累积性知识库（Cumulative Knowledge Base）**是指在复杂教育[[Epistemic Governance\|知识治理]]生态中，超越单一孤立个案与单体中介机构局限，通过跨国跨系统元中介协作（Brokering the Brokers）、二阶[[Systematic Review\|系统综述]]（Reviews of Reviews）以及多元异质证据整合，逐步沉淀并动态调适形成的、被政策与[[Communities of Practice|实践共同体]]“准普遍公认建立在坚实基础之上（quasi-universally acknowledged as well founded）”的共享性科学与实践知识基石。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 55, 66–68]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向教育科学从“碎片化、竞争性、易随政党更迭与商业营销而颠覆的离散知识主张”，向“具备高度社会公信力、跨情境自洽性与持续可加总性”的系统性知识共同体的组织与[[Epistemology\|认识论]]状态。

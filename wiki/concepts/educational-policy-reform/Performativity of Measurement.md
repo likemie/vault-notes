@@ -6,7 +6,7 @@ aliases:
 summary: "指测量不仅描述现实，也会通过分类、比较和激励机制主动塑造对象、行为和优先事项的生产性作用。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Decodification]]"
   - "[[School Leadership]]"
   - "[[New Public Management]]"
+  - "[[Communities of Practice]]"
   - "[[New Managerialism]]"
   - "[[Evidence Standards]]"
   - "[[Visible Learning]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-29
+updated: 2026-10-05
 ---
 
 ## 定义
@@ -132,7 +133,7 @@ updated: 2026-09-29
 > - "[[New Public Management\|新公共管理]]改革分散了对公平问题的注意力"（p.382, citing Hall et al., 2015）
 >
 > **两个矛盾话语的并行运作([[Argument_Møller_2017_EERJ\|Møller, 2017, p.377]])**
-> - OECD 同时推崇两种相互矛盾的测量与治理逻辑：(1) 将学校从科层制转变为专业实践共同体的"最佳实践"话语；(2) 新公共管理的外部控制和绩效问责话语
+> - OECD 同时推崇两种相互矛盾的测量与治理逻辑：(1) 将学校从科层制转变为专业[[Communities of Practice|实践共同体]]的"最佳实践"话语；(2) 新公共管理的外部控制和绩效问责话语
 > - 二者并非相互替代，而是**并行运作**——构成测量既是赋权工具又是控制工具的矛盾现象
 >
 > **教育语言侵蚀([[Argument_Møller_2017_EERJ\|Møller, 2017, p.382]])** 教育中[[New Managerialism|新管理主义]]语言的采纳可能"侵蚀关于公民教育和社会正义的更广泛的长期讨论"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.382, citing Møller, 2007]])

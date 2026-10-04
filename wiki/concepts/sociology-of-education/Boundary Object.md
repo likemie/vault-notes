@@ -8,7 +8,7 @@ aliases:
 summary: "指在不同社会群体或学科共同体之间保持足够通用性以维持共同认同，同时又具备充分可塑性以适应各方特定情境需求的物质、符号或数字化人工制品"
 type: concept
 domain: "sociology-of-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Artefact]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Communities of Practice]]"
   - "[[Areas of Knowledge]]"
   - "[[Paradigm]]"
   - "[[Boundary Spanner]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-09-17
+updated: 2026-10-05
 ---
 
 # Boundary Object
@@ -51,7 +52,7 @@ updated: 2026-09-17
 > 边界对象（Boundary Object）是由科学社会学家 Susan Leigh Star 与 James R. Griesemer 于 1989 年提出的概念，指那些既具备足够的**情境可塑性（Plasticity）**以适应不同群体或学科共同体的局部需求与约束，又具备足够的**结构鲁棒性（Robustness）**以跨越边界维持共有身份认同的[[Artefact\|人工制品]]、符号工具、规范协议或数字化界面。在教育技术与高等教育研究中，[[Generative Artificial Intelligence\|生成式人工智能]]（如 ChatGPT）被概念化为一种高度灵活的数字化边界对象，既作为标准化学术规范的转化节点，又作为支持学生跨学科探索与个性化表达的连接中介（[[Argument_Li_2026_CEAI\|Li et al., 2026, pp. 3, 11]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 跨越不同实践共同体、[[Areas of Knowledge\|知识领域]]或人机界面的中介媒介，在维持整体连贯性的同时允许局部差异化诠释。
+> - **含义** 跨越不同[[Communities of Practice|实践共同体]]、[[Areas of Knowledge\|知识领域]]或人机界面的中介媒介，在维持整体连贯性的同时允许局部差异化诠释。
 > - **用途** 解释同一种技术工具或评估标准如何在高度异质的学科文化与教学情境中被重新协商并产生多元学习结果。
 > - **边界** 边界对象本身不能消除不同群体间的利益冲突或[[Paradigm\|范式]]分歧，它只是提供了一个持续开展对话、协商与协作的共同平台。
 

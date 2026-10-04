@@ -14,7 +14,7 @@ aliases:
 summary: "循证教育治理中的制度化中介机构，指通过设定因果证据标准、审查实证研究并发布项目有效性评级的专业实体平台；在更广泛的知识治理中涵盖部委嵌入、自主资助与独立慈善等多元制度谱系；实证研究表明其评级面临显著的跨机构门槛分歧与构念效度挑战，且在长效存续上面临2至3年短期政治预算周期的制度性制约。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 143
+related_count: 144
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Inclusive Evidence Validation Typology]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Heterogeneity]]"
+  - "[[Communities of Practice]]"
   - "[[Dialogue in Education]]"
   - "[[Attrition]]"
   - "[[Initial Teacher Training]]"
@@ -184,7 +185,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-27
+updated: 2026-10-05
 ---
 
 # Educational Evidence Clearinghouses
@@ -223,7 +224,7 @@ updated: 2026-09-27
 > |:---|:---|:---|:---|:---|
 > | **本体属性** | 制度化评级机构与有效性数据库检索平台 | 跨越研究、政策与实践的边界组织生态 | [[Epistemology\|认识论]]取向、治理哲学与宏观政策运动 | 科学研究方法与定量/定性[[Document\|文献]]合成技术 |
 > | **核心产出** | 具名项目有效性等级标签（Recommended, Promising）、实践指南 | 双向问答咨询、母语通俗摘要、媒体事实核查、实践工具箱 | “证据指导实践”的价值共识与问责准则 | [[Effect Size\|效应量]]点估计（Effect Size）、[[Heterogeneity\|异质性]]分析与[[Forest Plot\|森林图]] |
-> | **目标用户** | 教育局官员、中小学校长、学区采购委员会 | 决策者、基层教师、媒体记者、公众、研究者 | 全体教育研究者、政策制定者与实践共同体 | 学术同行、专业科研人员、循证指南编撰者 |
+> | **目标用户** | 教育局官员、中小学校长、学区采购委员会 | 决策者、基层教师、媒体记者、公众、研究者 | 全体教育研究者、政策制定者与[[Communities of Practice\|实践共同体]] | 学术同行、专业科研人员、循证指南编撰者 |
 > | **方法学立场** | 高度推崇实验[[Causality\|因果推断]]（[[Randomised Controlled Trials\|RCT]] 黄金标准）与准实验 | 涵盖因果实验、[[Mixed Methods Research\|混合方法]]、质性综合与实践经验梳理 | 倡导实证理性，但在具体方法边界上存在学派争议 | 遵循 [[PRISMA]] 严格规程，开展系统检索与统计合成 |
 > | **决策功能** | 提供标准化干预方案准入与采购初筛信号 | 促进多主体人际[[Dialogue in Education\|对话]]，弥合专业文化与语系隔阂 | 确立现代教育治理合法性与公共财政问责基石 | 为干预因果效力提供统计学无偏估计 |
 

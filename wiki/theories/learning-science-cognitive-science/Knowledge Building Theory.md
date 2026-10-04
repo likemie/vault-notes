@@ -12,7 +12,7 @@ aliases:
 summary: "学习科学经典理论，由斯卡达马利亚与贝莱特提出；主张教学的核心不在于记忆现成事实，而在于引导学习者作为协作共同体对作为公共制品的观点进行持续改进，承担集体认知责任，并在反思性结构化中实现深层科学探究"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 40
+theory_related_count: 41
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"

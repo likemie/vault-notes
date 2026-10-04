@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[International Education]]"
   - "[[Knowledge Mediation]]"
+  - "[[Communities of Practice]]"
   - "[[Abstract]]"
   - "[[Teaching Assistant]]"
   - "[[Metacognition]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-17
+updated: 2026-10-05
 ---
 
 # Research Schools Network
@@ -80,7 +81,7 @@ updated: 2026-09-17
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 英国研究学校网络（Research Schools Network, RSN）是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与约克大学[[Institute for Effective Education\|有效教育研究所]]（IEE）于 2016 年联合发起创设的全国性分布式校际中介组织网络。该网络通过在英格兰各区域竞争性遴选一批在循证实践方面成效显著的优秀中小学确立为“研究学校”，由其作为区域证据枢纽，向周边学校网络辐射基于实证证据的教师专业发展培训、工具包本地化[[Transfer Translation Transformation\|转译]]与变革教练辅导，是[[International Education\|国际教育]][[Knowledge Mediation\|知识中介]]从“中央智库向分布式校际实践共同体规模化下沉”的代表性制度创新。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150)]]
+> 英国研究学校网络（Research Schools Network, RSN）是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与约克大学[[Institute for Effective Education\|有效教育研究所]]（IEE）于 2016 年联合发起创设的全国性分布式校际中介组织网络。该网络通过在英格兰各区域竞争性遴选一批在循证实践方面成效显著的优秀中小学确立为“研究学校”，由其作为区域证据枢纽，向周边学校网络辐射基于实证证据的教师专业发展培训、工具包本地化[[Transfer Translation Transformation\|转译]]与变革教练辅导，是[[International Education\|国际教育]][[Knowledge Mediation\|知识中介]]从“中央智库向分布式校际[[Communities of Practice|实践共同体]]规模化下沉”的代表性制度创新。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150)]]
 
 > [!org-context] 机构背景与设立渊源
 > - **设立年份与发起方** 2016 年由 EEF 与 IEE 联合启动试点，首批确立 5 所领头学校；后在英国教育部（DfE）专项“机会区”（Opportunity Areas）资金支持下迅速扩展至全英近 40 所学校网络。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
@@ -183,7 +184,7 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 剖析[[International Education\|国际教育]][[Knowledge Mediation\|知识中介]]组织形态演化，将 RSN 确立为中介向校际实践共同体规模化下沉的标杆[[Paradigm\|范式]]（p. 62）。
+> - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] — 剖析[[International Education\|国际教育]][[Knowledge Mediation\|知识中介]]组织形态演化，将 RSN 确立为中介向校际[[Communities of Practice|实践共同体]]规模化下沉的标杆[[Paradigm\|范式]]（p. 62）。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 深度解构英国有效性中心生态，将 RSN 作为 [[Education Endowment Foundation\|EEF]] 突破单纯信息传播、由中央平台向区域深度实施护航转型的核心案例（pp. 149–151），并阐明其在广泛拓展范式下面临的系统协调阻抗。
 > - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — 援引顾青团队（Gu et al., 2021）对机会区 RSN 为期三年的独立综合评估，实证剖析循证中介在文化重塑与终极学生学业产出之间的非线性时间滞后（p. 118）。
 
@@ -199,7 +200,7 @@ updated: 2026-09-17
 > | [[Institute for Effective Education]] | 组织事实 | 联合创设伙伴；IEE 与 EEF 于 2016 年共同设计并运营了 RSN 的初期标准与培训体系。 |
 > | [[EEF Teaching and Learning Toolkit]] | 政策事实 | 核心内容来源；RSN 的使命正是解决工具包被动挂网无法穿透课堂的现实瓶颈。 |
 > | [[What Works Network]] | 政策事实 | 国家制度网络；RSN 是英国有效性网络在教育领域最成熟的区域下沉实施基础设施。 |
-> | [[Educational Brokerage Agency]] | 核心概念 | 组织形态归属；RSN 代表了由独立中央智库向分布式校际实践共同体演进的现代中介形态。 |
+> | [[Educational Brokerage Agency]] | 核心概念 | 组织形态归属；RSN 代表了由独立中央智库向分布式校际[[Communities of Practice\|实践共同体]]演进的现代中介形态。 |
 > | [[Theory of Change]] | 核心理论 | 理论机制透镜；RSN 扎根行为改变科学（[[COM-B Model\|COM-B]]）打通从证据输入到实践行为转变的因果链条。 |
 > | [[Professional Judgment]] | 核心概念 | 实践哲学基石；RSN 强调情境化适配而非机械套用处方，护持了一线教师的临床[[Phronesis\|实践智慧]]。 |
 > | [[Ofsted]] | 组织事实 | 外部问责体制；其高利害督导问责对学校构成支配性约束，是 RSN 面临的核心制度咬合挑战。 |

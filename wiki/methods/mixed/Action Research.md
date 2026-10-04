@@ -6,7 +6,7 @@ summary: "研究者与实践者合作，通过计划—行动—观察—反思�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 66
+method_related_count: 67
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Unit of Analysis]]"
+  - "[[Communities of Practice]]"
   - "[[Scientific Method]]"
   - "[[Reflexivity]]"
   - "[[Problem Solving]]"
@@ -89,7 +90,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-06-25
-updated: 2026-09-24
+updated: 2026-10-05
 ---
 # Action Research
 
@@ -103,7 +104,7 @@ updated: 2026-09-24
 > [!method-scope] 方法范围
 > - **研究对象** 真实的社会或教育实践情境，包括课堂教学活动、课程编制与实施、学校日常管理评价、校本教研、教育政策在地转化以及学生行为干预。
 > - **问题类型** 适合回答“如何在具体情境中改进实践”、“当前教学策略为何受阻”、“如何促进组织协作与赋权”等诊断性、过程改进型与情境理解型问题。
-> - **[[Unit of Analysis\|分析单位]]** 个体教师、课堂师生互动、教研组、学校组织单位或专业实践共同体。
+> - **[[Unit of Analysis\|分析单位]]** 个体教师、课堂师生互动、教研组、学校组织单位或专业[[Communities of Practice|实践共同体]]。
 > - **输出形式** 行动反思日志、校本干预方案、前[[Pre-test and Post-test\|后测]]对比评估报告、质性叙事档案以及基于情境的实践理论命题。
 
 > [!citation-card] 勒温（Kurt Lewin）论行动研究的开创性界定

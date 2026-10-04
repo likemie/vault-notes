@@ -55,6 +55,7 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Project-Based Learning]]"
 related_theories:
+  - "[[Transformative Learning Theory]]"
   - "[[Creative Problem Solving]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -93,7 +94,7 @@ title: "Argument_Erdem_2026_SHE"
 argument_key: "Argument_Erdem_2026_SHE"
 argument_display_title: "Problem-based learning and student outcomes in higher education: A second-order meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -146,7 +147,7 @@ issuing_organization: ""
 > 5. **巩固与反思** 问题解决后巩固理解，发展批判性思维与反思学习能力，并为终身学习做准备。
 
 > [!feature] PBL 关联的学习与认知理论
-> - **成人教育学与转化学习** 学习应独立、自导、目标导向、内部驱动且适用于实践（Gewurtz et al., 2016）。
+> - **成人教育学与[[Transformative Learning Theory|转化学习]]** 学习应独立、自导、目标导向、内部驱动且适用于实践（Gewurtz et al., 2016）。
 > - **体验学习与社会学习** 在真实问题中[[Experiential Learning\|经验学习]]，通过小组互动与替代观察获取知识。
 > - **信息加工与认知负荷** 学习涉及认知过程与认知负荷管理，问题结构调节加工深度。
 > - **协作与[[Cooperative Learning\|合作学习]]** 强调学习者之间的互动、激活先备知识、主动参与。（pp. 952–953）

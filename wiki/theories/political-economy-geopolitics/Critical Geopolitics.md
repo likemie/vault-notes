@@ -66,7 +66,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-09-17
+updated: 2026-10-05
 ---
 
 ## 理论定位
@@ -192,6 +192,7 @@ updated: 2026-09-17
 > - [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] — 分析亚洲崛起对全球高等教育架构的重塑
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] — 与[[Decolonial Geopolitics of Knowledge\|去殖民知识地缘政治]]整合为新[[Geopolitics of Knowledge\|知识地缘政治]]框架
 > - [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] — 系统梳理该理论在高等教育研究中的应用与演进
+> - [[Argument_Brint_2023_IHE|Brint (2023)]] — 将科技产业政策视作对抗地缘政治对手的核心杠杆，分析《芯片与科学法案》如何打破新自由主义共识并重塑中美科技与高等教育博弈格局
 
 > [!exegesis]- [[Argument_Moisio_2022_Springer\|Moisio (2022)]]：[[Knowledge-Based Economization\|知识经济化]]的地缘政治机制
 > [[Fixity-Motion Tension\|固着-流动张力]]（Harvey 的核心悖论——资本需要地方锚定来促进流动，但流动又不断破坏既有空间配置）；[[Spatial Sortings\|空间分选]]（知识经济化将某些地点和人群置于发展中心，同时边缘化其他，国家通过空间选择性[[Policy Brokerage\|政策中介]]）；[[Geopolitical Subject\|地缘政治主体]]的生产（高等教育空间被用于塑造创新性、创业性、连接性的主体性）；以及 Porter 悖论——"竞争全球化看似使国家变得不那么重要，但实际上使其更加重要"。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, pp. 26–31)]]

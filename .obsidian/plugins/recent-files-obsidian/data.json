@@ -5,6 +5,14 @@
       "path": "wiki/arguments/journal-articles/Journal of Technology Studies/Argument_Murphy_2026_JTS.md"
     },
     {
+      "basename": "Murphy_2026_JTS",
+      "path": "sources/Murphy_2026_JTS.md"
+    },
+    {
+      "basename": "Kotter's 8-Step Change Model",
+      "path": "wiki/theories/educational-policy-reform/Kotter's 8-Step Change Model.md"
+    },
+    {
       "basename": "Argument_Bown_2024_JEP",
       "path": "wiki/arguments/journal-articles/Journal of Economic Perspectives/Argument_Bown_2024_JEP.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "DARPA",
       "path": "wiki/facts/us/DARPA.md"
-    },
-    {
-      "basename": "Comparative Case Study",
-      "path": "wiki/methods/qualitative/Comparative Case Study.md"
-    },
-    {
-      "basename": "Precompetitive Research",
-      "path": "wiki/concepts/university-industry-collaboration/Precompetitive Research.md"
     }
   ],
   "omittedPaths": [],

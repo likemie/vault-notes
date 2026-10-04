@@ -7628,6 +7628,18 @@
     ]
   },
   {
+    "title": "Communities of Practice",
+    "type": "concept",
+    "path": "wiki/concepts/learning-science-cognitive-science/Communities of Practice.md",
+    "aliases": [
+      "实践共同体",
+      "实践社群",
+      "实践共同体理论",
+      "CoP",
+      "Community of Practice"
+    ]
+  },
+  {
     "title": "Creative Deskilling",
     "type": "concept",
     "path": "wiki/concepts/learning-science-cognitive-science/Creative Deskilling.md",
@@ -13706,6 +13718,18 @@
     ]
   },
   {
+    "title": "Kotter's 8-Step Change Model",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Kotter's 8-Step Change Model.md",
+    "aliases": [
+      "科特八步变革模型",
+      "科特变革模型",
+      "8-Step Change Model",
+      "Kotter's Change Model",
+      "Kotter 8-Step Model"
+    ]
+  },
+  {
     "title": "Multiple Streams Framework",
     "type": "theory",
     "path": "wiki/theories/educational-policy-reform/Multiple Streams Framework.md",
@@ -14369,6 +14393,18 @@
       "皮亚杰发生认识论",
       "Piaget's Cognitive Developmental Theory",
       "Genetic Epistemology"
+    ]
+  },
+  {
+    "title": "Transformative Learning Theory",
+    "type": "theory",
+    "path": "wiki/theories/learning-science-cognitive-science/Transformative Learning Theory.md",
+    "aliases": [
+      "转化学习理论",
+      "变革性学习理论",
+      "转型学习理论",
+      "转化学习",
+      "Transformative Learning"
     ]
   },
   {
@@ -28907,6 +28943,17 @@
       "系统开发公司",
       "SDC",
       "System Development Corp"
+    ]
+  },
+  {
+    "title": "Texas A&M Semiconductor Institute",
+    "type": "fact",
+    "path": "wiki/facts/us/Texas A&M Semiconductor Institute.md",
+    "aliases": [
+      "德克萨斯农工大学半导体研究院",
+      "得州农工半导体研究院",
+      "TAMU Semiconductor Institute",
+      "Semiconductor Institute"
     ]
   },
   {

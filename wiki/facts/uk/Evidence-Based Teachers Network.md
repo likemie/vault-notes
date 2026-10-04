@@ -9,7 +9,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - theme/teacher-professional-learning
 related_concepts:
   - "[[Evidence-Informed Practice]]"
+  - "[[Communities of Practice]]"
   - "[[Document]]"
   - "[[Knowledge Mobilisation]]"
 related_theories: []
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-10-05
 ---
 
 # Evidence-Based Teachers Network
@@ -62,7 +63,7 @@ updated: 2026-05-23
 ## 效果与评价
 
 > [!success]
-> EBTN 展示了 [[Evidence-Informed Practice\|证据知情实践]] 中实践社群的一面：研究证据需要进入教师之间的交流和专业学习，才能从[[Document\|文献]]或数据库转化为课堂行动([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.34]])。
+> EBTN 展示了 [[Evidence-Informed Practice\|证据知情实践]] 中[[Communities of Practice|实践社群]]的一面：研究证据需要进入教师之间的交流和专业学习，才能从[[Document\|文献]]或数据库转化为课堂行动([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.34]])。
 
 ## 争议与评论
 

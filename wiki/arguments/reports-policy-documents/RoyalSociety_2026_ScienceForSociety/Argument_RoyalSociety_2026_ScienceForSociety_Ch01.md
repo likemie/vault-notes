@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_display_title: "Chapter one: Education"
 argument_kind: "book-chapter"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -67,6 +67,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Going Native]]"
   - "[[Computational Thinking]]"
+  - "[[Communities of Practice]]"
   - "[[Scientific Uncertainty]]"
   - "[[Further Education]]"
 related_theories: []
@@ -306,7 +307,7 @@ updated: 2026-10-04
 > |---|---|---|
 > | **初始基建投入** | £5100 万英镑启动资金（DfE 与 Wellcome 联合注资） | 建成覆盖全英的国家与区域科学学习中心网络（p. 36） |
 > | **教师留任与财政回报** | 针对理化生与计算机教师的系统学科进修 | 显著降低离职流失率，**节约 £5850 万英镑**重新招聘与初始培训成本（STEM Learning, 2019, p. 37） |
-> | **课堂教学与文化转变** | 前沿实验工作坊、行业联系与同行实践共同体 | 大幅提升教师教学信心，推动学科专业进修常态化（Clarke & Thom, 2011） |
+> | **课堂教学与文化转变** | 前沿实验工作坊、行业联系与同行[[Communities of Practice\|实践共同体]] | 大幅提升教师教学信心，推动学科专业进修常态化（Clarke & Thom, 2011） |
 > | **小学阶段赋能（RAiSE）** | 派驻全职小学科学发展专员（PSDOs）驻点指导 | 打破全科教师实验教学心理壁垒，提升儿童早期科学抱负（Education Scotland, 2022, p. 36） |
 
 ---

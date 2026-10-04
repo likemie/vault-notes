@@ -9,7 +9,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[International Large-Scale Assessments]]"
+  - "[[Communities of Practice]]"
   - "[[New Public Management]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-02'
-updated: 2026-09-18
+updated: 2026-10-05
 ---
 ## 背景
 
@@ -71,7 +72,7 @@ updated: 2026-09-18
 > 4. 推行分布式领导力
 > 5. 将领导力发展视为一个连续体
 >
-> 报告还将组织隐喻从层级制科层转向实践共同体：学校应形象化为"专业人员处于持续互动中的实践共同体"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.377]])。
+> 报告还将组织隐喻从层级制科层转向[[Communities of Practice|实践共同体]]：学校应形象化为"专业人员处于持续互动中的实践共同体"([[Argument_Møller_2017_EERJ\|Møller, 2017, p.377]])。
 
 ## 时间线
 

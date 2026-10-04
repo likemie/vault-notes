@@ -11,7 +11,7 @@ aliases:
 summary: "在社会与教育探究中兼具物质实体与方法学双重维度的核心概念：既指承载文化与制度话语的有形物质实体，又指因测量偏差与工具局限导致的方法学人为假象。"
 type: concept
 domain: "research-methodology"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Visual Data]]"
   - "[[Boundary Object]]"
+  - "[[Communities of Practice]]"
   - "[[Rich and Thick Description]]"
   - "[[Heterogeneity]]"
   - "[[Reliability]]"
@@ -63,7 +64,7 @@ related_persons:
 confidence: high
 status: stable
 created: 2026-08-05
-updated: 2026-09-17
+updated: 2026-10-05
 ---
 
 # Artefact
@@ -103,7 +104,7 @@ updated: 2026-09-17
 > | 维度 | 物质器物（Material Artefact） | 方法人为产物（Methodological Artefact） | [[Boundary Object\|边界对象]]（Boundary Object） |
 > |------|-----------------------------|----------------------------------------|---------------------------|
 > | **本体属性** | 物理空间中的实体对象与物质文化 | 测量偏倚催生的虚假统计假象 | 跨群体协作的中介性人工制品 |
-> | **探究功能** | 投射制度秩序、[[Organizational Culture\|组织文化]]与话语实践 | 警示研究设计的效度威胁与虚假因果 | 协调不同实践社群的意义理解与流动 |
+> | **探究功能** | 投射制度秩序、[[Organizational Culture\|组织文化]]与话语实践 | 警示研究设计的效度威胁与虚假因果 | 协调不同[[Communities of Practice\|实践社群]]的意义理解与流动 |
 > | **应对方式** | 结合情境多感官分析与[[Rich and Thick Description\|厚描述]] | 通过[[Triangulation\|三角验证]]与跨方法对照加以排除 | 分析其结构鲁棒性与情境可塑性 |
 > | **典型案例** | 教室课桌排列、性别化玩具、陈设展板 | [[Role-playing\|角色扮演]]实验中由社会期望产生的遵从报告 | 跨学科课程标准、ChatGPT 协作界面 |
 

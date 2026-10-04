@@ -7,7 +7,7 @@ aliases:
 summary: "研究结果能够推广到更广泛总体、案例、情境、时间或环境的程度，在量化研究中关乎从样本到总体的统计推广，在质性研究中转化为可比较性和可迁移性"
 type: concept
 domain: "research-methodology"
-related_count: 64
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Champ]]"
   - "[[Catalytic Validity]]"
+  - "[[Communities of Practice]]"
   - "[[Interpretive Validity]]"
   - "[[Evaluative Validity]]"
   - "[[School Choice]]"
@@ -86,7 +87,7 @@ related_persons:
   - "[[Egon G. Guba]]"
 status: active
 created: 2026-05-31
-updated: 2026-09-18
+updated: 2026-10-05
 ---
 # External Validity
 
@@ -240,7 +241,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > | | 情境效应 | 结论完全是特定组织历史与微观人际的函数 |
 > | | 历史效应 | 研究[[Champ\|场域]]由独特历史偶然性塑造，不可横向比较 |
 > | | 构念效应 | 本地化本土构念难以翻译为其他文化情境下的意义 |
-> | **Onwuegbuzie & Leech** | [[Catalytic Validity\|催化效度]] | 研究未能赋权实践社群，阻碍发现的实践推广 |
+> | **Onwuegbuzie & Leech** | [[Catalytic Validity\|催化效度]] | 研究未能赋权[[Communities of Practice\|实践社群]]，阻碍发现的实践推广 |
 > | | 行动效度 | 质性发现被利益相关者实际应用的程度受限 |
 > | | 调查效度 | 研究者自身的伦理反思与现场专业能力不足 |
 > | | [[Interpretive Validity\|解释效度]] | 意义理解的情境绝对性阻碍了跨文化跨场景翻译 |

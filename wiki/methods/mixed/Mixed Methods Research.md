@@ -9,7 +9,7 @@ summary: "结合量化与质性数据并通过特定设计进行系统整合的�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 75
+method_related_count: 76
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Hypothesis]]"
   - "[[Integration Statement]]"
+  - "[[Communities of Practice]]"
   - "[[Positivism]]"
   - "[[Virtual World]]"
   - "[[Recommendations for Practice]]"
@@ -102,7 +103,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-06-14
-updated: 2026-09-23
+updated: 2026-10-05
 ---
 
 # Mixed Methods Research
@@ -305,7 +306,7 @@ updated: 2026-09-23
 关于混合方法是否构成继量化与质性之后的独立“第三[[Paradigm|范式]]”，学术界内部展开了持续激辩（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1, p. 29]]）：
 
 > [!tension] 混合方法是否构成独立新范式的学术论辩
-> - **独立范式拥护阵营（蓝方）** 坚信混合方法拥有扎实的[[Pragmatic Paradigm\|实用主义]]哲学支柱与独立方法论逻辑，打破了二元对立的虚幻学术壁垒，契合了复杂社会与教育现实的探究刚需，已成熟发展为独立的学术实践共同体（Johnson & Onwuegbuzie, 2004; Denscombe, 2008; Teddlie & Tashakkori, 2009）。
+> - **独立范式拥护阵营（蓝方）** 坚信混合方法拥有扎实的[[Pragmatic Paradigm\|实用主义]]哲学支柱与独立方法论逻辑，打破了二元对立的虚幻学术壁垒，契合了复杂社会与教育现实的探究刚需，已成熟发展为独立的学术[[Communities of Practice|实践共同体]]（Johnson & Onwuegbuzie, 2004; Denscombe, 2008; Teddlie & Tashakkori, 2009）。
 > - **范式独立反思阵营（红方）** 质疑其所谓新意，指出多种方法综合在半个世纪前便已被广泛运用；Lynne Giddings 等学者警示混合方法内部暗藏“隐形[[Positivism\|实证主义]]”霸权还魂（量化指标主导权重，质性仅充当装饰性注脚），且底层[[Ontology\|本体论]]差异依然存在，强行消弭对立犹如油水混合（Giddings, 2006; Gorard & Smith, 2006）。
 
 ---
