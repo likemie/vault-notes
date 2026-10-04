@@ -5,7 +5,7 @@ subtype: organization
 region: japan
 fact_region: "japan"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,8 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Directionality of Innovation]]"
+  - "[[Modern Industrial Policy]]"
+  - "[[Vertical Disintegration]]"
 related_theories:
   - "[[Organizational Culture]]"
   - "[[Technological Trajectories]]"
@@ -39,10 +41,14 @@ related_persons:
   - "[[Mariana Mazzucato]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
+  - "[[Argument_Bown_2024_JEP]]"
+related_facts:
+  - "[[VLSI Project]]"
+  - "[[1986 U.S.-Japan Semiconductor Trade Agreement]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-04
 title: Ministry of International Trade and Industry
 aliases:
   - MITI
@@ -71,7 +77,7 @@ aliases:
 
 > [!feature] MITI 引领科技与产业追赶的三大政策支柱
 > - **外汇审批与关键技术引进审查（Foreign Exchange Control & Technology Licensing）** 在战后初期牢牢掌控稀缺外汇分配权，严格筛选并组织国内骨干企业联合引进西方最先进技术专利，杜绝国内企业重复引进与恶性削价竞争。（Johnson, 1982; p. 793）
-> - **产学官联合大型国家攻关项目（National Consortium Research Projects）** 设立工业技术院（AIST）统筹协调，最典型的如 1976–1979 年主导的“超大规模集成电路”（VLSI）国家攻坚计划，强制促成富士通、日立、三菱、日本电气（NEC）和东芝五大竞争对手共享基础研发设施，一举使日本在 1980 年代登顶全球 DRAM 芯片市场霸主。（pp. 793, 796）
+> - **产学官联合大型国家攻关项目（National Consortium Research Projects）** 设立工业技术院（AIST）统筹协调，最典型的如 1976–1979 年主导的“超大规模集成电路”（[[VLSI Project|VLSI]]）国家攻坚计划，强制促成富士通、日立、三菱、日本电气（NEC）和东芝五大竞争对手共享基础研发设施，一举使日本在 1980 年代登顶全球 DRAM 芯片市场霸主。（pp. 793, 796）
 > - **行政指导与审议会共商机制（Administrative Guidance & Deliberation Councils）** 通过非强制性的行政指导（Gyōsei Shidō）及各大产业审议会，常态化组织学者、银行家与行业领袖闭门协商产业长远愿景（Vision），实现深度的制度化社会嵌入。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793, 796)]]
 
 ---
@@ -89,7 +95,13 @@ aliases:
 
 > [!dimension] 理论意义与实践贡献
 > - **后发追赶使命政策（骆驼形态）的理论基石** [[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）指出，MITI 证明了第一代使命政策的核心逻辑——通过韦伯式精英官僚网络与国家意志，动员全社会资源承担长周期探索风险，奠定现代产业基础。（pp. 792–793）
-> - **发展型国家的当代转型启示** 随着日本从技术追赶走向全球技术前沿，MITI 展现了从“追赶型外汇管制”向开辟 21 世纪环境、清洁能源与前沿数字技术新使命的动态能力演进，为亚洲各国的政策转型提供了持续的经验样本。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 796)]]
+> - **发展型国家的当代转型启示** 随着日本从技术追赶走向全球技术前沿，MITI 展现了从追赶型外汇管制向开辟 21 世纪环境、清洁能源与前沿数字技术新使命的动态能力演进，为亚洲各国的政策转型提供了持续的经验样本。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 796)]]
+
+> [!stat-cards]- [[VLSI Project|VLSI]] 项目核心数据
+> - **1976–1979 年** 超大规模集成电路（Very Large Scale Integration，VLSI）国家攻坚计划实施期间，MITI 主导下五大企业联合运营共享研发设施。
+> - **五家** 联合参与 VLSI 计划的骨干企业：富士通（Fujitsu）、日立（Hitachi）、三菱电机（Mitsubishi Electric）、日本电气（NEC）和东芝（Toshiba）——横跨市场激烈竞争的对手，被强制共享基础研发资源。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 83–84)]]
+> - **70%+** 1980 年代初日本企业在全球动态随机存取存储器（Dynamic Random Access Memory，DRAM）市场的份额峰值，标志着第一代使命政策追赶成效。
+> - **1986 年** [[1986 U.S.-Japan Semiconductor Trade Agreement|美日半导体贸易协定]]签署，要求日本保证外国芯片厂商在日市场份额不低于 20%，标志着追赶型使命政策高峰期终结。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 84–86)]]
 
 ---
 
@@ -102,8 +114,10 @@ aliases:
 > | [[Embedded Autonomy]] | 概念 | MITI 是埃文斯界定发展型国家嵌入式自主性的最典型机构原型。 |
 > | [[Three Generations of Mission-Oriented Policy]] | 理论 | MITI 构成了第一代骆驼形态社会经济追赶使命政策的实践标杆。 |
 > | [[Public Dynamic Capabilities]] | 概念 | 展现了公共机构在国家战略与政策协调层级主动塑造产业结构的动态能力。 |
-> | [[Market Shaping and Creating]] | 概念 | MITI 通过 VLSI 等国家工程主动塑造了全球半导体微电子市场的竞争格局。 |
+> | [[Market Shaping and Creating]] | 概念 | MITI 通过 [[VLSI Project\|VLSI]] 等国家工程主动塑造了全球半导体微电子市场的竞争格局。 |
 > | [[Directionality of Innovation]] | 概念 | MITI 的产业愿景为日本技术演进设定了明确的高附加值方向。 |
+> | [[Modern Industrial Policy]] | 概念 | VLSI 计划是 [[Argument_Bown_2024_JEP|Bown & Wang（2024）]]分析现代产业政策历史前身的核心案例，骆驼形态第一代使命政策的制度实例。 |
+> | [[Vertical Disintegration]] | 概念 | 日本国家冠军集成模式在 1990 年代后全球产业分散化浪潮中的历史对照案例。 |
 
 ---
 
