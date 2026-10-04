@@ -7,7 +7,7 @@ aliases:
 summary: "欧裔美国家庭中一种以心智能力与积极情感为中心的家长辅导方式，家长像苏格拉底一样引导儿童发现自身心智的伟大"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,18 +26,17 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
-  - "[[Mother-Child Conversation]]"
-  - "[[MCC Discourse Analysis Examples]]"
 related_persons:
   - "[[Socrates]]"
 related_facts:
+  - "[[Microelectronics and Computer Technology Corporation]]"
   - "[[Start Making a Reader Today]]"
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # Socratic Tutoring Style
@@ -60,7 +59,7 @@ updated: 2026-10-03
 欧裔美国母亲在引导儿童思考学习时，持续调用"心智"作为**[[Cognitive Source|认知来源]]（cognitive source）**——从心智、智力、思维过程的角度概念化学习，以"聪明人怎么做""你的心智能做到什么"等文化共识为合法性资源([[Argument_Li_2012_Cambridge|Li, 2012]])。关于"来源"概念的两层含义及其与心理框架、因果归因的区分，详见 [[Cognitive Source]]。
 
 > [!example]
-> 一位母亲对七岁儿子说："你知道这就是聪明人做的事——聪明的成年人也是这样"。另一位母亲引导女儿："当你做了研究，你就武装了所需的知识"。完整对话与 Li 的分析见 [[Mother-Child Conversation\|MCC]] 示例 7–8。
+> 一位母亲对七岁儿子说："你知道这就是聪明人做的事——聪明的成年人也是这样"。另一位母亲引导女儿："当你做了研究，你就武装了所需的知识"。完整对话与 Li 的分析见 [[Microelectronics and Computer Technology Corporation|MCC]] 示例 7–8。
 
 ### 因果归因：心智的效力（mind potency）
 
@@ -99,7 +98,7 @@ updated: 2026-10-03
 > [!example]
 > 一个典型的话语案例：母亲引导儿子 Ed 讨论他在自由时间与朋友谈论书籍的行为。母亲将这种行为定性为"非常聪明"（[[Start Making a Reader Today]]），儿子的回应从最初的犹豫（"Sort of. Sometimes"）迅速升级为[[Pride in Learning\|自豪]]地宣称"我们实际上想成为世界上最伟大的科学家！"([[Argument_Li_2012_Cambridge\|Li, 2012]])。
 >
-> 更多[[Socrates\|苏格拉底]]式辅导的对话示例与 Li 的[[Discourse Analysis\|话语分析]]操作，见 [[MCC Discourse Analysis Examples\|MCC 话语分析示例]]。
+> 更多[[Socrates\|苏格拉底]]式辅导的对话示例与 Li 的[[Discourse Analysis\|话语分析]]操作，见 [[Microelectronics and Computer Technology Corporation|MCC]] 话语分析示例。
 
 ---
 ## 与苏格拉底教学法的类比

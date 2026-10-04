@@ -13,9 +13,9 @@ subtype: program
 region: east-asia
 fact_region: "east-asia"
 fact_kind: "program"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 9
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1976–1980"
 initiator_organization: "日本通商产业省（Ministry of International Trade and Industry, MITI）"
@@ -28,6 +28,7 @@ tags:
   - theme/rd-consortium
 related_concepts:
   - "[[Precompetitive Research]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Comparative Case Study]]"
@@ -37,6 +38,7 @@ related_persons:
 related_facts:
   - "[[Ministry of International Trade and Industry]]"
   - "[[Sematech]]"
+  - "[[Microelectronics and Computer Technology Corporation]]"
   - "[[ESPRIT]]"
 related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
@@ -53,7 +55,7 @@ updated: 2026-10-04
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 日本超大规模集成电路项目（Very Large Scale Integration Project, VLSI Project）是 1976 年至 1980 年间由[[Ministry of International Trade and Industry|日本通商产业省]]（Ministry of International Trade and Industry, MITI）发起并主导的国家级高技术前竞争研发联盟项目，旨在应对美国 IBM 推出“未来系统”（Future System, FS）及半导体先进制程领跑的严峻挑战，通过官产协同攻克微米级超大规模集成电路共性制造工艺与关键光刻装备瓶颈。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728)]]
+> 日本超大规模集成电路项目（Very Large Scale Integration Project, VLSI Project）是 1976 年至 1980 年间由[[Ministry of International Trade and Industry|日本通商产业省]]（Ministry of International Trade and Industry, MITI）发起并主导的国家级高技术[[Precompetitive Research|前竞争研发]]联盟项目，旨在应对美国 IBM 推出“未来系统”（Future System, FS）及半导体先进制程领跑的严峻挑战，通过官产协同攻克微米级超大规模集成电路共性制造工艺与关键光刻装备瓶颈。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1976 年正式启动，1980 年结项，历时 4 年。
@@ -117,7 +119,7 @@ updated: 2026-10-04
 
 > [!finding-cards] 核心实证结论
 > 1. **奠定日本半导体制造与存储器全球优势** 项目期间取得约 1200 项发明专利，打通了从材料、设备到晶圆制造的完整链条，使日本在 1980 年代上半叶超越美国成为全球最大的芯片与存储器生产国。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 727, 736–738)]]
-> 2. **成为全球高技术研发联盟的制度标杆** 树立了政府引导、企业共担、前竞争研发共享的产业政策范式，直接触发了美国（[[Sematech]]、MCC）与欧洲（[[ESPRIT]]、JESSI）的大规模高技术联盟效仿。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 725–728)]]
+> 2. **成为全球高技术研发联盟的制度标杆** 树立了政府引导、企业共担、[[Precompetitive Research|前竞争研发]]共享的产业政策[[Paradigm|范式]]，直接触发了美国（[[Sematech]]、[[Microelectronics and Computer Technology Corporation|MCC]]）与欧洲（[[ESPRIT]]、JESSI）的大规模高技术联盟效仿。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 725–728)]]
 > 3. **隐性知识跨企业扩散机制验证** 证明了人员集中借调与实体联合实验室对于复杂工程技术知识扩散的关键价值。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 752–753)]]
 > 4. **本土装备与材料产业链的协同突破** 助力尼康（Nikon）与佳能（Canon）在步进式光刻机领域实现技术跨越，终结了美国企业在半导体光刻装备上的长期垄断。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 739–741)]]
 
@@ -137,11 +139,11 @@ updated: 2026-10-04
 > > 学界与政策分析家争议 VLSI 项目的成功是否高度依赖日本特定的主银行体制、系列（Keiretsu）企业网络及强大的行政协调能力，导致该模式在欧美缺乏政企互信与反垄断严密的市场环境中难以直接复制。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728)]]
 > >
 > > - **批评观点** 西方学者指出欧美企业面临严厉的反垄断诉讼风险与激烈的横向专有权争夺，横向共性研发往往因各怀戒心而流产。
-> > - **回应与经验** [[David C. Mowery|Mowery]] 等人指出，VLSI 模式之所以成功，是因为当时日本处于明确的技术追赶阶段，目标明确单一（DRAM 工艺）；当进入技术前沿探索与去中心化创新时，该模式的灵活性亦面临挑战。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726, 754)]]
+> > - **回应与经验** Mowery 等人指出，VLSI 模式之所以成功，是因为当时日本处于明确的技术追赶阶段，目标明确单一（DRAM 工艺）；当进入技术前沿探索与去中心化创新时，该模式的灵活性亦面临挑战。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726, 754)]]
 
 > [!lessons] 经验教训与启示
 > - **追赶阶段聚焦共性瓶颈的集中优势** 当产业处于追赶期且技术目标清晰时，集中式项目管理与联合实体实验室能最大化研发投资效率。
-> - **前竞争研发与专有量产的严格隔离** 联盟必须设立清晰的制度边界，只共享通用工艺与设备标准，将产品设计与市场销售留给企业独立竞争。
+> - **[[Precompetitive Research|前竞争研发]]与专有量产的严格隔离** 联盟必须设立清晰的制度边界，只共享通用工艺与设备标准，将产品设计与市场销售留给企业独立竞争。
 > - **制度环境制约联盟模式的可移植性** 在缺乏紧密产业网络与面临反垄断审查的环境下，研发联盟应优先考虑纵向供应链协同而非同业横向联合。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 751–754)]]
 
 ---

@@ -35,7 +35,6 @@ related_concepts:
   - "[[Paradigm]]"
 related_theories: []
 related_methods:
-  - "[[Mother-Child Conversation]]"
   - "[[Comparative Case Study]]"
 related_instruments: []
 related_persons: []
@@ -43,7 +42,9 @@ related_facts:
   - "[[Sematech]]"
   - "[[VLSI Project]]"
   - "[[ESPRIT]]"
+  - "[[Microelectronics and Computer Technology Corporation]]"
   - "[[DARPA]]"
+  - "[[Sematech Centers of Excellence]]"
   - "[[Semiconductor Research Corporation]]"
 related_arguments: []
 sources:
@@ -58,7 +59,7 @@ title: "Argument_Grindley_1994_JPAM"
 argument_key: "Argument_Grindley_1994_JPAM"
 argument_display_title: "SEMATECH and collaborative research: Lessons in the design of high-technology consortia"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -81,7 +82,7 @@ issuing_organization: ""
 > [[Sematech]] 的成效并非来自其最初设定的芯片制造商横向联合开发制造工艺（该目标因直接竞争对手间的保密防范与产线差异而受阻），而是源于其果断的战略调整——转向芯片制造商与上游半导体制造装备与材料（Semiconductor Manufacturing Equipment and Materials, SME）供应商之间的纵向产业链协同，重点建设[[General Purpose Technology|通用技术]]标准、设备测试平台、行业技术路线图并重建买卖双方信任；评估该联盟成效应客观测度日元升值、日本泡沫经济破裂导致资本支出锐减以及个人电脑（Personal Computer, PC）微处理器爆发等宏观因素，其经验表明研发联盟更适合近中期、通用型、纵向产业链协同且由产业自主主导的治理架构，而难以承担长周期基础科学研究或重资产严重落后领域的救援任务。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 1987 年成立的美国半导体制造技术战略联盟（[[Sematech]]）、11 项核心设备研发工程档案，以及[[VLSI Project|日本超大规模集成电路项目]]（[[VLSI Project]]）、[[ESPRIT|欧洲战略信息技术研发计划]]（[[ESPRIT]]）、联合欧洲亚微米硅器件计划（Joint European Submicron Silicon Project, JESSI）和美国微电子与计算机技术公司（Microelectronics and Computer Technology Corporation, [[Mother-Child Conversation|MCC]]）等 16 个跨国高技术研发联合体。
+> - **对象** 1987 年成立的美国半导体制造技术战略联盟（[[Sematech]]）、11 项核心设备研发工程档案，以及[[VLSI Project|日本超大规模集成电路项目]]（[[VLSI Project]]）、[[ESPRIT|欧洲战略信息技术研发计划]]（[[ESPRIT]]）、联合欧洲亚微米硅器件计划（Joint European Submicron Silicon Project, JESSI）和美国[[Microelectronics and Computer Technology Corporation|微电子与计算机技术公司]]（Microelectronics and Computer Technology Corporation, MCC）等 16 个跨国高技术研发联合体。
 > - **张力** 同行横向竞争研发中的商业机密防范与上下游纵向协同的利益互补；联盟单一救国论的政策宣传与宏观经济及技术周期驱动的客观实证归因；长周期前竞争基础探索与企业追求近中期直接[[Return on Investment|投资回报]]的诉求矛盾；本土保护壁垒与芯片巨头跨国战略合作的开放需求。
 > - **贡献** 澄清了将产业复兴简单归功于政府研发补贴的线性认识，阐明了研发联盟内部技术专有权保护（Appropriability）与知识扩散（Knowledge Spillovers）的动态权衡机制，提出了涵盖技术定位、组织形式、管理方式与政府边界的高技术研发联盟设计框架。
 
@@ -172,7 +173,7 @@ issuing_organization: ""
 > - **搭建共性测试平台与设备认证** 在奥斯汀共性试验线为设备厂商免费提供接近真实生产环境的原型机测试与调试，由芯片制造厂工程师共同参与认证，减少设备进入工厂后的调试故障。
 > - **编制国家半导体技术路线图（NTRS）** 1992 年由联盟牵头编制国家半导体技术路线图（National Technology Roadmap for Semiconductors, NTRS，即国际半导体技术路线图 International Technology Roadmap for Semiconductors, ITRS 的前身），明确全行业未来 5 至 15 年芯片线宽（0.35μm、0.25μm、0.18μm）的技术演进时间表，为设备商指明前瞻性研发目标。（pp.734–735）
 > - **推行全行业工程管理与评估工具（COO / TQM / SPC）** 广泛推行所有权成本（Cost of Ownership, COO）模型、全面质量管理（Total Quality Management, TQM）及统计过程控制（Statistical Process Control, SPC）方法，帮助中小设备商建立规范的工程化与[[Reliability|可靠性]]管理体系。（pp.735–736）
-> - **建立大学卓越技术中心网络（SCOE）** 每年安排 1000 万至 1500 万美元，通过[[Semiconductor Research Corporation|半导体研究公司]]（Semiconductor Research Corporation, SRC）资助加州大学伯克利分校、斯坦福大学、麻省理工学院、得克萨斯大学等高校建立卓越技术中心（Semiconductor Centers of Excellence, SCOE），开展基础光刻物理与等离子体加工研究。（pp.730, 735）
+> - **建立[[Sematech Centers of Excellence|大学卓越技术中心网络]]（[[Sematech Centers of Excellence|SCOE]]）** 每年安排 1000 万至 1500 万美元，通过[[Semiconductor Research Corporation|半导体研究公司]]（Semiconductor Research Corporation, SRC）资助加州大学伯克利分校、斯坦福大学、麻省理工学院、得克萨斯大学等高校建立卓越技术中心（Semiconductor Centers of Excellence, SCOE），开展基础光刻物理与等离子体加工研究。（pp.730, 735）
 
 ---
 
@@ -279,7 +280,7 @@ issuing_organization: ""
 > | **[[ESPRIT\|ESPRIT II]]** | 欧洲 | 1988–1993 | \$3,800 | 50% | 伞状分散管理 | 纯行政审批 | 否 | 500+ 家 | 信息技术与应用软件扩展 |
 > | **Eureka** | 欧洲 | 1985–1996 | \$7,700 | 50% | 伞状分散管理 | 纯行政审批 | 否 | 数百家（297个项目） | 尤里卡先进泛电子技术协同 |
 > | **RACE** | 欧洲 | 1985–1996 | \$3,000 | 50% | 伞状分散管理 | 纯行政审批 | 否 | 数百家 | 欧洲先进通信技术研发计划 |
-> | **[[Mother-Child Conversation\|MCC]]** | 美国 | 1983–至今 | 约\$80/年 | 0%（竞标公助） | 混合制（转向伞状） | 研发工程调度 | 是 | 约 50 家 | 半导体与计算基础前沿技术 |
+> | **[[Microelectronics and Computer Technology Corporation\|MCC]]** | 美国 | 1983–至今 | 约\$80/年 | 0%（竞标公助） | 混合制（转向伞状） | 研发工程调度 | 是 | 约 50 家 | 半导体与计算基础前沿技术 |
 > | **NCMS** | 美国 | 1986–至今 | 约\$150/年 | 50%（混合资助） | 伞状分散管理 | 研发工程调度 | 否 | 180 家 | 国家制造科学中心先进工艺 |
 > | **[[Sematech\|SEMATECH I]]** | 美国 | 1987–1992 | \$1,000 | 50% | 集中式项目管理 | 研发工程调度 | 是 | 11 家（原14家） | 半导体制造共性工艺与装备 |
 > | **[[Sematech\|SEMATECH II]]** | 美国 | 1993–至今 | 约\$200/年 | 50% | 集中式项目管理 | 研发工程调度 | 是 | 11 家 | 半导体制造装备与通用标准 |
@@ -306,7 +307,7 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心实证结论
-> 1. **研发联盟战略调整的普遍规律** [[Sematech]]、[[Mother-Child Conversation|MCC]] 与欧洲各类联盟的实践表明，产业主导型研发联合体通常会从最初雄心勃勃的长周期前竞争基础研发逐步调整为近中期、通用型、具有明确应用成效的工程技术与标准。（pp.724, 754）
+> 1. **研发联盟战略调整的普遍规律** [[Sematech]]、[[Microelectronics and Computer Technology Corporation|MCC]] 与欧洲各类联盟的实践表明，产业主导型研发联合体通常会从最初雄心勃勃的长周期前竞争基础研发逐步调整为近中期、通用型、具有明确应用成效的工程技术与标准。（pp.724, 754）
 > 2. **纵向产业链协同优于同行横向竞争协同** 芯片制造企业与上游设备供应商的纵向研发合作有效化解了直接竞争对手间的保密防范，成为高技术公私协同中最顺畅的组织模式。（pp.751–752）
 > 3. **美日市场格局反转的多重客观原因** 1990 年代初美国芯片与设备市场份额的反超，主要由日元大幅升值、日本泡沫经济破裂导致资本支出锐减 29% 以及个人电脑微处理器爆发等宏观因素驱动，研发联盟的核心贡献在于提升微观设备稳定性与重建买卖双方信任。（pp.740–744）
 > 4. **重资产落后行业难以单纯依靠研发联盟逆转** [[Sematech]] 无法挽救已大幅落后于日本同行的光刻步进机厂商 GCA，说明研发联盟无法弥补巨额资本规模与代际技术差距。（pp.749–750）

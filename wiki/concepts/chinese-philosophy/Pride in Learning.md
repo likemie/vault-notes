@@ -26,15 +26,15 @@ related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods:
   - "[[Discourse Analysis]]"
-  - "[[MCC Discourse Analysis Examples]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Microelectronics and Computer Technology Corporation]]"
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-09-23
+updated: 2026-10-04
 ---
 
 # Pride in Learning
@@ -91,7 +91,7 @@ updated: 2026-09-23
 与台湾母亲形成系统性对比：台湾母亲在类似情境中几乎不谈论骄傲，而是将成就转化为**面向未来继续努力的动力**（如"妈妈很欣慰……希望你把不放弃、全力以赴应用到做任何事"）。
 
 > [!tip]- 详细对话记录
-> Ian（莎士比亚与两种骄傲）和 Yun（象棋反败为胜）的完整对话记录与 Li 如何分析两种文化中成就情感的因果方向差异，见 [[MCC Discourse Analysis Examples\|MCC 话语分析示例]]。
+> Ian（莎士比亚与两种骄傲）和 Yun（象棋反败为胜）的完整对话记录与 Li 如何分析两种文化中成就情感的因果方向差异，见 [[Microelectronics and Computer Technology Corporation|MCC]] 话语分析示例。
 
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: MCC Discourse Analysis Examples
 aliases:
-  - MCC 话语分析示例
+  - 母子对话话语分析示例
   - Li MCC discourse analysis
   - Ch7 discourse examples
 summary: "母子对话研究中的话语分析材料集，按认知社会化与情感社会化组织原始对话、翻译和分析操作示例"
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -36,21 +36,24 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Socrates]]"
-related_facts: []
+related_facts:
+  - "[[Microelectronics and Computer Technology Corporation]]"
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-09-22
+updated: 2026-10-04
 ---
 
 # MCC Discourse Analysis Examples
 
+---
+
 ## 概述
 
 > [!info]
-> 本条目记录 Li（2012）第 7 章中 母子对话（[[Mother-Child Conversation\|MCC]]） 研究的 22 段原始对话。Li 从 200 组对话中选取欧裔美国（EA）和台湾（TW）各 11 段进行[[Discourse Analysis\|话语分析]]。每段对话先呈现**逐句原文与中文翻译**，再展示 Li 的分析操作。
+> 本条目记录 [[Argument_Li_2012_Cambridge|Li (2012)]] 第 7 章中母子对话（[[Mother-Child Conversation]], [[Microelectronics and Computer Technology Corporation|MCC]]）研究的 22 段原始对话。Li 从 200 组对话中选取欧裔美国（EA）和台湾（TW）各 11 段进行[[Discourse Analysis\|话语分析]]。每段对话先呈现**逐句原文与中文翻译**，再展示 Li 的分析操作。
 
 话语分析的理论锚点是 Vygotsky 学派的[[Scaffolding|认知支架]]（cognitive scaffolding）概念，[[Parental Cognitive and Affective Socialization|情感社会化]]的理论基础是 Frijda 的评估理论和 Gottman 的元情感哲学([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
@@ -1270,7 +1273,7 @@ updated: 2026-09-22
 > [!quote] Li 的分析
 > Li 分析了因果方向的根本差异：EA 母亲**向后看**（"你做了很棒的事 → 因此你应该感到骄傲"），TW 母亲**向前看**（"你做了很棒的事 → 因此你应该在未来的每一件事上也这样做"）。成功没有被转化为**一种情感**（骄傲），而是被转化为**一条普遍原则**（全力以赴应用在一切事情上）。Yun 毫无反驳地重复了这条原则——标志着**完全内化**。
 >
-> Li 还做了一个重要的分析推理：TW 母亲可能不是"不知道骄傲是什么"，而是**有意识地抑制骄傲的公开表达**——因为表达骄傲可能导致儿童自满。[[Mother-Child Conversation\|MCC]] 数据捕捉到的不是"台湾文化中没有骄傲"，而是"台湾文化中骄傲被策略性地抑制了公开表达"。这与第 5 章中骄傲作为"双价情感"的发现相互印证（见 [[Pride in Learning]]）。
+> Li 还做了一个重要的分析推理：TW 母亲可能不是"不知道骄傲是什么"，而是**有意识地抑制骄傲的公开表达**——因为表达骄傲可能导致儿童自满。MCC 数据捕捉到的不是"台湾文化中没有骄傲"，而是"台湾文化中骄傲被策略性地抑制了公开表达"。这与第 5 章中骄傲作为"双价情感"的发现相互印证（见 [[Pride in Learning]]）。
 
 ---
 

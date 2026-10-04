@@ -8,7 +8,7 @@ aliases:
 summary: "Li (2012) 识别的两种文化特有的学习因果归因模式，西方父母将学习成果归因于心智能力，东亚父母归因于学习美德与努力，反映两种文化对学习本质的根本不同理解"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,13 +34,14 @@ related_methods:
   - "[[Discourse Analysis]]"
 related_persons:
   - "[[Socrates]]"
-related_facts: []
+related_facts:
+  - "[[Microelectronics and Computer Technology Corporation]]"
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-09-23
+updated: 2026-10-04
 ---
 
 # Mind Efficacy and Virtue Efficacy
@@ -48,7 +49,7 @@ updated: 2026-09-23
 ## 定义
 
 > [!info]
-> Mind Efficacy and Virtue Efficacy 是 Li（2012）通过欧美与台湾母-子对话研究（[[Mother-Child Conversation]], MCC）识别的两种文化特有的学习因果归因模式。Mind Efficacy 指西方（欧美）母亲将学习成果的根本原因归于孩子的心智能力——智力、思维能力、理解力和心理过程。Virtue Efficacy 指东亚（台湾）母亲将学习成果的根本原因归于孩子的[[Learning Virtues\|学习美德]]——勤奋、坚持、专注、认真和[[Humility\|谦逊]]([[Argument_Li_2012_Cambridge\|Li, 2012, p.248–265]])。
+> Mind Efficacy and Virtue Efficacy 是 Li（2012）通过欧美与台湾母-子对话研究（[[Mother-Child Conversation]], [[Microelectronics and Computer Technology Corporation|MCC]]）识别的两种文化特有的学习因果归因模式。Mind Efficacy 指西方（欧美）母亲将学习成果的根本原因归于孩子的心智能力——智力、思维能力、理解力和心理过程。Virtue Efficacy 指东亚（台湾）母亲将学习成果的根本原因归于孩子的[[Learning Virtues\|学习美德]]——勤奋、坚持、专注、认真和[[Humility\|谦逊]]([[Argument_Li_2012_Cambridge\|Li, 2012, p.248–265]])。
 
 这两种归因模式不仅仅是解释风格的不同，更反映了两大文化传统对学习本质的根本不同理解：西方继承[[Socrates|苏格拉底]]传统，认为学习的核心是心智的探索和发现；东亚继承儒家传统，认为学习的核心是道德的自我修养([[Argument_Li_2012_Cambridge|Li, 2012, p.278–282]])。
 

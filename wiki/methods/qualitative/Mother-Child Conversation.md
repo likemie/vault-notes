@@ -2,7 +2,7 @@
 title: Mother-Child Conversation
 aliases:
   - 母子对话法
-  - MCC
+  - 模拟母子对话
   - simulated mother-child conversation
 summary: "一种通过采集模拟母子对话样本来研究文化学习信念社会化过程的质性研究方法，结合结构分析、序列分析与话语分析三种分析层级，适合比较不同文化中家长如何通过日常对话传递学习信念"
 type: method
@@ -46,15 +46,16 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Discourse Analysis]]"
-  - "[[MCC Discourse Analysis Examples]]"
 related_persons:
   - "[[Socrates]]"
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
+related_facts:
+  - "[[Microelectronics and Computer Technology Corporation]]"
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-09-23
+updated: 2026-10-04
 ---
 
 # Mother-Child Conversation
@@ -62,7 +63,7 @@ updated: 2026-09-23
 ## 定义
 
 > [!info]
-> 母子对话法（MCC）是一种通过采集一段**模拟的（simulated）**母子对话样本来研究文化信念社会化过程的[[Qualitative Research\|质性研究]]方法。其核心逻辑是：社会化虽然是持续流动的过程（如同河流），但研究者可以从中"舀一瓢水"——采集一段合理时长的对话样本——来分析其中溶解的文化成分([[Argument_Li_2012_Cambridge\|Li, 2012]])。
+> 母子对话法（[[Microelectronics and Computer Technology Corporation|MCC]]）是一种通过采集一段**模拟的（simulated）**母子对话样本来研究文化信念社会化过程的[[Qualitative Research\|质性研究]]方法。其核心逻辑是：社会化虽然是持续流动的过程（如同河流），但研究者可以从中"舀一瓢水"——采集一段合理时长的对话样本——来分析其中溶解的文化成分([[Argument_Li_2012_Cambridge\|Li, 2012]])。
 
 该方法最初由儿童记忆发展研究者用于研究母子对话对儿童自传体记忆和情感发展的影响([[Argument_Li_2012_Cambridge|Li, 2012]])。Li 与台湾中央研究院的 Heidi Fung 合作，将其应用于学习信念的跨文化社会化研究。
 
@@ -98,7 +99,7 @@ updated: 2026-09-23
 ### 样本与对话采集
 
 > [!example]
-> Li and Heidi Fung 的 MCC 研究设计如下([[Argument_Li_2012_Cambridge\|Li, 2012]])：
+> Li and Heidi Fung 的 [[Microelectronics and Computer Technology Corporation|MCC]] 研究设计如下([[Argument_Li_2012_Cambridge\|Li, 2012]])：
 
 - **样本** 200 组母子（100 组欧裔美国 EA 中产家庭 + 100 组台湾 TW 中产家庭），社会经济背景可比
 - **儿童年龄** 小学低年级（已有足够的学校经验理解"学习"是什么）
@@ -247,14 +248,14 @@ Li 先建立三个跨文化共同模式。这一步很重要——如果不先�
 3. **母亲都说理说服（persuasion and alignment）** 两种文化的母亲都不是通过命令，而是通过一轮一轮的说理让儿童靠近自己的认知框架——但 EA 母亲多用"逐步缩小范围的提问链"（[[Socrates|苏格拉底]]式），TW 母亲多用"角色互换 + 归谬法"（道德推理式）。
 
 > [!tip]- 详细对话记录
-> 三种共同特征的具体对话案例（Neil、Wei 的心理框架，Kate、Ruli 的反驳，Sue、Lanyi 的说理说服）以及 Li 如何逐句拆解这些对话的技术展示，见 [[MCC Discourse Analysis Examples\|MCC 话语分析示例]]。
+> 三种共同特征的具体对话案例（Neil、Wei 的心理框架，Kate、Ruli 的反驳，Sue、Lanyi 的说理说服）以及 Li 如何逐句拆解这些对话的技术展示，见 [[Microelectronics and Computer Technology Corporation|MCC]] 话语分析示例。
 
 **第 2 层：不同的[[Cognitive Source|认知来源]] — "妈妈背后的文化财富"**
 
 Li 识别出母亲们在认知社会化上的一个深层结构差异：**她们引导儿童思考学习时，所依赖的"认知来源"（cognitive source）不同([[Argument_Li_2012_Cambridge|Li, 2012]])**。这一概念的完整定义——"来源"的两层含义（认识框架 + 合法性资源）、心智来源与[[Learning Virtues|学习美德]]来源的对比、与心理框架和因果归因的辨析——见 [[Cognitive Source]]。
 
 > [!tip]- 典型对话记录
-> EA 母亲（Ed、Kevin）和 TW 母亲（[[Benevolence]]、Jia）调用不同认知来源的完整对话记录与 Li 的逐句分析，见 MCC 示例 7–10。
+> EA 母亲（Ed、Kevin）和 TW 母亲（[[Benevolence]]、Jia）调用不同认知来源的完整对话记录与 Li 的逐句分析，见 [[Microelectronics and Computer Technology Corporation|MCC]] 示例 7–10。
 
 **第 3 层：不同的因果归因 — "学习好是因为什么？"**
 
@@ -296,7 +297,7 @@ Li 的话语分析还识别出第二种认知差异：**母亲如何向儿童解
 ## 适用场景
 
 > [!success]
-> MCC 方法适合以下[[Research Question\|研究问题]]：
+> [[Microelectronics and Computer Technology Corporation|MCC]] 方法适合以下[[Research Question\|研究问题]]：
 > - 文化学习信念如何在家庭日常对话中从上一代传递给下一代
 > - 不同文化中家长如何通过语言构建儿童对学习的认知和情感
 > - 家庭教育中的微观互动机制（如说理策略、因果归因、情感教练）
@@ -307,7 +308,7 @@ Li 的话语分析还识别出第二种认知差异：**母亲如何向儿童解
 ## 局限性
 
 > [!warning]
-> **1. 模拟对话 ≠ 自然对话**。MCC 是在研究者要求下进行的模拟对话，虽然母亲和儿童是真实地在讨论真实事件，但他们知道自己正在被记录。这可能导致比自然情境中更"理想化"的对话表现([[Argument_Li_2012_Cambridge\|Li, 2012]])。
+> **1. 模拟对话 ≠ 自然对话**。[[Microelectronics and Computer Technology Corporation|MCC]] 是在研究者要求下进行的模拟对话，虽然母亲和儿童是真实地在讨论真实事件，但他们知道自己正在被记录。这可能导致比自然情境中更"理想化"的对话表现([[Argument_Li_2012_Cambridge\|Li, 2012]])。
 
 > [!warning]
 > **2. [[Discourse Analysis\|话语分析]]的样本选择偏差**。Li 只呈现了 22 段对话样本，未说明选择标准。如果这些是"最能展示文化差异的 22 段"，读者看到的可能是一个被高对比度筛选过的画面。序列分析可以告诉我们"大多数台湾母亲说了更多美德"，但不能告诉我们"在例外对话中发生了什么"([[Argument_Li_2012_Cambridge\|Li, 2012]])。
@@ -334,7 +335,7 @@ Li 的话语分析还识别出第二种认知差异：**母亲如何向儿童解
 ## 使用此方法的研究
 
 > [!example]
-> - [[Argument_Li_2012_Cambridge]]（第 7 章）— 使用 MCC 方法比较欧裔美国与台湾家庭的[[Socratic Tutoring Style\|苏格拉底式辅导]]与[[Confucian Tutoring Style\|儒家式辅导]]方式
+> - [[Argument_Li_2012_Cambridge|Li (2012)]]（第 7 章）— 使用母子对话法比较欧裔美国与台湾家庭的[[Socratic Tutoring Style|苏格拉底式辅导]]与[[Confucian Tutoring Style|儒家式辅导]]方式
 
 ---
 

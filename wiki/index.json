@@ -16031,7 +16031,7 @@
     "type": "method",
     "path": "wiki/methods/qualitative/MCC Discourse Analysis Examples.md",
     "aliases": [
-      "MCC 话语分析示例",
+      "母子对话话语分析示例",
       "Li MCC discourse analysis",
       "Ch7 discourse examples"
     ]
@@ -16074,7 +16074,7 @@
     "path": "wiki/methods/qualitative/Mother-Child Conversation.md",
     "aliases": [
       "母子对话法",
-      "MCC",
+      "模拟母子对话",
       "simulated mother-child conversation"
     ]
   },
@@ -28005,15 +28005,6 @@
     ]
   },
   {
-    "title": "Semiconductor Research Corporation",
-    "type": "fact",
-    "path": "wiki/facts/us/Semiconductor Research Corporation.md",
-    "aliases": [
-      "半导体研究公司",
-      "SRC"
-    ]
-  },
-  {
     "title": "Smith Lever Act of 1914",
     "type": "fact",
     "path": "wiki/facts/us/Smith Lever Act of 1914.md",
@@ -28499,6 +28490,17 @@
     ]
   },
   {
+    "title": "Microelectronics and Computer Technology Corporation",
+    "type": "fact",
+    "path": "wiki/facts/us/Microelectronics and Computer Technology Corporation.md",
+    "aliases": [
+      "微电子与计算机技术公司",
+      "MCC",
+      "微电子与计算机技术联合体",
+      "Microelectronics and Computer Technology Consortium"
+    ]
+  },
+  {
     "title": "MIT Radiation Laboratory",
     "type": "fact",
     "path": "wiki/facts/us/MIT Radiation Laboratory.md",
@@ -28720,6 +28722,16 @@
       "半导体制造技术战略联盟",
       "美国半导体制造技术战略联盟",
       "Semiconductor Manufacturing Technology"
+    ]
+  },
+  {
+    "title": "Semiconductor Research Corporation",
+    "type": "fact",
+    "path": "wiki/facts/us/Semiconductor Research Corporation.md",
+    "aliases": [
+      "半导体研究公司",
+      "SRC",
+      "半导体研究联合体"
     ]
   },
   {
@@ -29688,6 +29700,17 @@
     "aliases": [
       "数学根基方案",
       "ROOTS Math"
+    ]
+  },
+  {
+    "title": "Sematech Centers of Excellence",
+    "type": "fact",
+    "path": "wiki/facts/us/Sematech Centers of Excellence.md",
+    "aliases": [
+      "大学卓越中心",
+      "SCOE",
+      "大学卓越技术中心网络",
+      "Sematech Centers of Excellence Network"
     ]
   },
   {

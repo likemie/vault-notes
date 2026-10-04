@@ -7,7 +7,7 @@ aliases:
 summary: "儒家学习传统中的核心学习品质，由认真、勤奋、刻苦、恒心、专心、尊师和谦虚等美德构成学习者的个人能动性"
 type: concept
 domain: "chinese-philosophy"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,19 +39,18 @@ related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Prototype Methods]]"
-  - "[[Mother-Child Conversation]]"
   - "[[Discourse Analysis]]"
-  - "[[MCC Discourse Analysis Examples]]"
 related_persons:
   - "[[Cheng Brothers]]"
   - "[[Confucius]]"
-related_facts: []
+related_facts:
+  - "[[Microelectronics and Computer Technology Corporation]]"
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-09-23
+updated: 2026-10-04
 ---
 
 # Learning Virtues
@@ -182,7 +181,7 @@ updated: 2026-09-23
 ### 家庭社会化：儒家式辅导中的美德传递
 
 > [!success]
-> Li and Heidi Fung 的母子对话研究（第 7 章）直接观察到了学习美德如何通过日常的母子对话（[[Mother-Child Conversation\|MCC]]）从一代传递到下一代([[Argument_Li_2012_Cambridge\|Li, 2012]])。
+> Li and Heidi Fung 的母子对话研究（第 7 章）直接观察到了学习美德如何通过日常的母子对话（[[Microelectronics and Computer Technology Corporation|MCC]]）从一代传递到下一代([[Argument_Li_2012_Cambridge\|Li, 2012]])。
 
 **序列分析证据** 在对 !CD 组台湾母子对话的序列分析中，学习美德（mV / cV）是台湾母子对话的**引力中心**——无论对话以什么话题开头（心智活动、积极情感或消极情感），台湾母子都会在第二轮或第三轮**转回学习美德([[Argument_Li_2012_Cambridge|Li, 2012]])**。具体而言：
 
@@ -208,7 +207,7 @@ updated: 2026-09-23
 > [!info] 关键数据
 > 话语分析仅呈现了 22 段对话样本（每组 11 段）。Li 坦承这"只是刚刚触及我们收集的极为丰富的对话数据的表面"。更大样本的系统性话语分析仍在进行中。
 >
-> 详细的对话记录与 Li 的话语分析操作，见 [[MCC Discourse Analysis Examples\|MCC 话语分析示例]]。
+> 详细的对话记录与 Li 的话语分析操作，见 MCC 话语分析示例。
 
 ---
 
