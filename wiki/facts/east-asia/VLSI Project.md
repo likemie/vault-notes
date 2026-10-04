@@ -13,7 +13,7 @@ subtype: program
 region: east-asia
 fact_region: "east-asia"
 fact_kind: "program"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_facts:
   - "[[Sematech]]"
   - "[[Microelectronics and Computer Technology Corporation]]"
   - "[[ESPRIT]]"
+  - "[[JESSI]]"
 related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
 confidence: high
@@ -119,7 +120,7 @@ updated: 2026-10-04
 
 > [!finding-cards] 核心实证结论
 > 1. **奠定日本半导体制造与存储器全球优势** 项目期间取得约 1200 项发明专利，打通了从材料、设备到晶圆制造的完整链条，使日本在 1980 年代上半叶超越美国成为全球最大的芯片与存储器生产国。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 727, 736–738)]]
-> 2. **成为全球高技术研发联盟的制度标杆** 树立了政府引导、企业共担、[[Precompetitive Research|前竞争研发]]共享的产业政策[[Paradigm|范式]]，直接触发了美国（[[Sematech]]、[[Microelectronics and Computer Technology Corporation|MCC]]）与欧洲（[[ESPRIT]]、JESSI）的大规模高技术联盟效仿。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 725–728)]]
+> 2. **成为全球高技术研发联盟的制度标杆** 树立了政府引导、企业共担、[[Precompetitive Research|前竞争研发]]共享的产业政策[[Paradigm|范式]]，直接触发了美国（[[Sematech]]、[[Microelectronics and Computer Technology Corporation|MCC]]）与欧洲（[[ESPRIT]]、[[JESSI]]）的大规模高技术联盟效仿。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 725–728)]]
 > 3. **隐性知识跨企业扩散机制验证** 证明了人员集中借调与实体联合实验室对于复杂工程技术知识扩散的关键价值。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 752–753)]]
 > 4. **本土装备与材料产业链的协同突破** 助力尼康（Nikon）与佳能（Canon）在步进式光刻机领域实现技术跨越，终结了美国企业在半导体光刻装备上的长期垄断。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 739–741)]]
 

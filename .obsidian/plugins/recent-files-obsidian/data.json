@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Pilot Scale Platform",
+      "path": "wiki/concepts/university-industry-collaboration/Pilot Scale Platform.md"
+    },
+    {
       "basename": "Argument_Grindley_1994_JPAM",
       "path": "wiki/arguments/journal-articles/Journal of Policy Analysis and Management/Argument_Grindley_1994_JPAM.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Stephan_2013_NBER",
       "path": "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
-    },
-    {
-      "basename": "Argument_Kattel_Mazzucato_2018_ICC",
-      "path": "wiki/arguments/journal-articles/Industrial and Corporate Change/Argument_Kattel_Mazzucato_2018_ICC.md"
     }
   ],
   "omittedPaths": [],

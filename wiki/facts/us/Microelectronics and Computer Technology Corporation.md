@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_persons:
 related_facts:
   - "[[Ministry of International Trade and Industry]]"
   - "[[VLSI Project]]"
+  - "[[Fifth Generation Computer Systems]]"
   - "[[Sematech]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[ESPRIT]]"
@@ -57,7 +58,7 @@ updated: 2026-10-04
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **微电子与计算机技术公司（Microelectronics and Computer Technology Corporation, MCC）** 是美国于 1982 年由 10 余家主要半导体与计算机巨头联合组建的首个大型私营高技术研发联合体。MCC 旨在通过企业联合出资与集中攻关，应对[[Ministry of International Trade and Industry|日本通商产业省]]（MITI）主导的[[VLSI Project|超大规模集成电路项目]]与第五代计算机计划（ICOT），是美国高技术产业反思反垄断限制、探索竞争前联合研发的制度先驱。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728)]]
+> **微电子与计算机技术公司（Microelectronics and Computer Technology Corporation, MCC）** 是美国于 1982 年由 10 余家主要半导体与计算机巨头联合组建的首个大型私营高技术研发联合体。MCC 旨在通过企业联合出资与集中攻关，应对[[Ministry of International Trade and Industry|日本通商产业省]]（MITI）主导的[[VLSI Project|超大规模集成电路项目]]与[[Fifth Generation Computer Systems|第五代计算机计划]]（ICOT），是美国高技术产业反思反垄断限制、探索竞争前联合研发的制度先驱。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1982 年由控制数据公司（Control Data Corporation, CDC）创始人威廉·诺里斯（William Norris）发起成立，1983 年落户得克萨斯州奥斯汀；直接动因是美国产业界对日本政府集中组织计算机与人工智能攻关的战略恐慌。

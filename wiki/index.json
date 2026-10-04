@@ -12419,9 +12419,10 @@
     "aliases": [
       "中试平台",
       "中试验证平台",
-      "pilot scale platform",
       "pilot plant",
-      "中试基地"
+      "中试基地",
+      "中试验证线",
+      "pilot line"
     ]
   },
   {
@@ -23814,6 +23815,18 @@
     ]
   },
   {
+    "title": "Fifth Generation Computer Systems",
+    "type": "fact",
+    "path": "wiki/facts/east-asia/Fifth Generation Computer Systems.md",
+    "aliases": [
+      "第五代计算机计划",
+      "ICOT",
+      "Fifth Generation Computer Systems Project",
+      "第五代计算机系统项目",
+      "新一代计算机技术研究所"
+    ]
+  },
+  {
     "title": "VLSI Project",
     "type": "fact",
     "path": "wiki/facts/east-asia/VLSI Project.md",
@@ -24165,6 +24178,15 @@
       "European Strategic Program for Research and Development in Information Technologies",
       "ESPRIT I",
       "ESPRIT II"
+    ]
+  },
+  {
+    "title": "JESSI",
+    "type": "fact",
+    "path": "wiki/facts/europe/JESSI.md",
+    "aliases": [
+      "联合欧洲亚微米硅计划",
+      "Joint European Submicron Silicon Initiative"
     ]
   },
   {
@@ -27356,6 +27378,16 @@
       "1979年学校委员会国际文凭可行性研究",
       "Schools Council IB Feasibility Study",
       "British Schools Council International Baccalaureate Feasibility Study"
+    ]
+  },
+  {
+    "title": "Alvey Programme",
+    "type": "fact",
+    "path": "wiki/facts/uk/Alvey Programme.md",
+    "aliases": [
+      "阿尔维计划",
+      "The Alvey Programme",
+      "UK Alvey Programme"
     ]
   },
   {

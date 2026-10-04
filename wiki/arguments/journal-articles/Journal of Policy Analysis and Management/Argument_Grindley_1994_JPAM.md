@@ -42,10 +42,13 @@ related_facts:
   - "[[Sematech]]"
   - "[[VLSI Project]]"
   - "[[ESPRIT]]"
+  - "[[JESSI]]"
   - "[[Microelectronics and Computer Technology Corporation]]"
   - "[[DARPA]]"
   - "[[Sematech Centers of Excellence]]"
   - "[[Semiconductor Research Corporation]]"
+  - "[[Fifth Generation Computer Systems]]"
+  - "[[Alvey Programme]]"
 related_arguments: []
 sources:
   - "[[sources/Grindley_1994_JPAM/Grindley_1994_JPAM|Grindley_1994_JPAM]]"
@@ -59,7 +62,7 @@ title: "Argument_Grindley_1994_JPAM"
 argument_key: "Argument_Grindley_1994_JPAM"
 argument_display_title: "SEMATECH and collaborative research: Lessons in the design of high-technology consortia"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -82,7 +85,7 @@ issuing_organization: ""
 > [[Sematech]] 的成效并非来自其最初设定的芯片制造商横向联合开发制造工艺（该目标因直接竞争对手间的保密防范与产线差异而受阻），而是源于其果断的战略调整——转向芯片制造商与上游半导体制造装备与材料（Semiconductor Manufacturing Equipment and Materials, SME）供应商之间的纵向产业链协同，重点建设[[General Purpose Technology|通用技术]]标准、设备测试平台、行业技术路线图并重建买卖双方信任；评估该联盟成效应客观测度日元升值、日本泡沫经济破裂导致资本支出锐减以及个人电脑（Personal Computer, PC）微处理器爆发等宏观因素，其经验表明研发联盟更适合近中期、通用型、纵向产业链协同且由产业自主主导的治理架构，而难以承担长周期基础科学研究或重资产严重落后领域的救援任务。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 1987 年成立的美国半导体制造技术战略联盟（[[Sematech]]）、11 项核心设备研发工程档案，以及[[VLSI Project|日本超大规模集成电路项目]]（[[VLSI Project]]）、[[ESPRIT|欧洲战略信息技术研发计划]]（[[ESPRIT]]）、联合欧洲亚微米硅器件计划（Joint European Submicron Silicon Project, JESSI）和美国[[Microelectronics and Computer Technology Corporation|微电子与计算机技术公司]]（Microelectronics and Computer Technology Corporation, MCC）等 16 个跨国高技术研发联合体。
+> - **对象** 1987 年成立的美国半导体制造技术战略联盟（[[Sematech]]）、11 项核心设备研发工程档案，以及[[VLSI Project|日本超大规模集成电路项目]]（[[VLSI Project]]）、[[ESPRIT|欧洲战略信息技术研发计划]]（[[ESPRIT]]）、联合欧洲亚微米硅器件计划（Joint European Submicron Silicon Project, [[JESSI]]）和美国[[Microelectronics and Computer Technology Corporation|微电子与计算机技术公司]]（Microelectronics and Computer Technology Corporation, MCC）等 16 个跨国高技术研发联合体。
 > - **张力** 同行横向竞争研发中的商业机密防范与上下游纵向协同的利益互补；联盟单一救国论的政策宣传与宏观经济及技术周期驱动的客观实证归因；长周期前竞争基础探索与企业追求近中期直接[[Return on Investment|投资回报]]的诉求矛盾；本土保护壁垒与芯片巨头跨国战略合作的开放需求。
 > - **贡献** 澄清了将产业复兴简单归功于政府研发补贴的线性认识，阐明了研发联盟内部技术专有权保护（Appropriability）与知识扩散（Knowledge Spillovers）的动态权衡机制，提出了涵盖技术定位、组织形式、管理方式与政府边界的高技术研发联盟设计框架。
 
@@ -170,7 +173,7 @@ issuing_organization: ""
 > [!feature] 纵向协同战略转型的核心组织与管理举措
 > - **组建半导体设备与材料协会合作机制（SEMI/SEMATECH）** 联盟将半数以上研发预算直接投向上游中小设备企业，联合 130 余家本土设备与材料厂商，变同行横向博弈为上下游互利合作。（pp.733–734）
 > - **设立设备改进计划（[[Evidence-Informed Practice|EIP]]）与联合开发项目（JDP）** 设备改进计划（Equipment Improvement Programs, EIP）资助 6 至 18 个月的现有设备改良与故障消除；联合开发项目（Joint Development Projects, JDP）资助 2 至 3 年面向下一代制程（0.35 微米）的新型关键设备联合攻关。
-> - **搭建共性测试平台与设备认证** 在奥斯汀共性试验线为设备厂商免费提供接近真实生产环境的原型机测试与调试，由芯片制造厂工程师共同参与认证，减少设备进入工厂后的调试故障。
+> - **搭建共性测试平台与设备认证** 在奥斯汀建立集中式[[Pilot Scale Platform|中试验证平台]]（洁净室中试线），为设备厂商免费提供接近真实生产环境的原型机测试与调试，由芯片制造厂工程师共同参与认证，减少设备进入工厂后的调试故障。（pp.733–735）
 > - **编制国家半导体技术路线图（NTRS）** 1992 年由联盟牵头编制国家半导体技术路线图（National Technology Roadmap for Semiconductors, NTRS，即国际半导体技术路线图 International Technology Roadmap for Semiconductors, ITRS 的前身），明确全行业未来 5 至 15 年芯片线宽（0.35μm、0.25μm、0.18μm）的技术演进时间表，为设备商指明前瞻性研发目标。（pp.734–735）
 > - **推行全行业工程管理与评估工具（COO / TQM / SPC）** 广泛推行所有权成本（Cost of Ownership, COO）模型、全面质量管理（Total Quality Management, TQM）及统计过程控制（Statistical Process Control, SPC）方法，帮助中小设备商建立规范的工程化与[[Reliability|可靠性]]管理体系。（pp.735–736）
 > - **建立[[Sematech Centers of Excellence|大学卓越技术中心网络]]（[[Sematech Centers of Excellence|SCOE]]）** 每年安排 1000 万至 1500 万美元，通过[[Semiconductor Research Corporation|半导体研究公司]]（Semiconductor Research Corporation, SRC）资助加州大学伯克利分校、斯坦福大学、麻省理工学院、得克萨斯大学等高校建立卓越技术中心（Semiconductor Centers of Excellence, SCOE），开展基础光刻物理与等离子体加工研究。（pp.730, 735）
@@ -274,8 +277,8 @@ issuing_organization: ""
 > | **VHSIC** | 美国 | 1980–1989 | \$900 | 100% | 集中式行政管理 | 纯行政审批 | 否 | 9 家（联合体共14家） | 甚高速集成电路计划 |
 > | **Supercomp** | 日本 | 1981–1989 | \$130 | 100% | 集中式项目管理 | 研发工程调度 | 否 | — | 超高速计算机系统研发计划 |
 > | **FED** | 日本 | 1981–1990 | \$40 | 100% | 集中式项目管理 | 研发工程调度 | 否 | — | 未来电子器件研究计划 |
-> | **5G (ICOT)** | 日本 | 1982–1991 | \$426 | 100% | 集中式项目管理 | 研发工程调度 | 是 | 10 家 | 第五代计算机与人工智能软件 |
-> | **Alvey** | 英国 | 1983–1988 | \$500 | 50% | 伞状分散管理 | 纯行政审批 | 否 | 127 家（309个项目） | 软件工程与 VLSI 基础探索 |
+> | **5G ([[Fifth Generation Computer Systems\|ICOT]])** | 日本 | 1982–1991 | \$426 | 100% | 集中式项目管理 | 研发工程调度 | 是 | 10 家 | 第五代计算机与人工智能软件 |
+> | **[[Alvey Programme\|Alvey]]** | 英国 | 1983–1988 | \$500 | 50% | 伞状分散管理 | 纯行政审批 | 否 | 127 家（309个项目） | 软件工程与 VLSI 基础探索 |
 > | **[[ESPRIT\|ESPRIT I]]** | 欧洲 | 1984–1989 | \$1,800 | 50% | 伞状分散管理 | 纯行政审批 | 否 | 500+ 家（226个项目） | 信息技术与先进软件工程 |
 > | **[[ESPRIT\|ESPRIT II]]** | 欧洲 | 1988–1993 | \$3,800 | 50% | 伞状分散管理 | 纯行政审批 | 否 | 500+ 家 | 信息技术与应用软件扩展 |
 > | **Eureka** | 欧洲 | 1985–1996 | \$7,700 | 50% | 伞状分散管理 | 纯行政审批 | 否 | 数百家（297个项目） | 尤里卡先进泛电子技术协同 |
@@ -284,7 +287,7 @@ issuing_organization: ""
 > | **NCMS** | 美国 | 1986–至今 | 约\$150/年 | 50%（混合资助） | 伞状分散管理 | 研发工程调度 | 否 | 180 家 | 国家制造科学中心先进工艺 |
 > | **[[Sematech\|SEMATECH I]]** | 美国 | 1987–1992 | \$1,000 | 50% | 集中式项目管理 | 研发工程调度 | 是 | 11 家（原14家） | 半导体制造共性工艺与装备 |
 > | **[[Sematech\|SEMATECH II]]** | 美国 | 1993–至今 | 约\$200/年 | 50% | 集中式项目管理 | 研发工程调度 | 是 | 11 家 | 半导体制造装备与通用标准 |
-> | **JESSI** | 欧洲 | 1989–1996 | \$4,000 | 50% | 伞状分散管理 | 纯行政审批 | 否 | 数十家（70个项目） | 联合欧洲亚微米硅器件计划 |
+> | **[[JESSI]]** | 欧洲 | 1989–1996 | \$4,000 | 50% | 伞状分散管理 | 纯行政审批 | 否 | 数十家（70个项目） | 联合欧洲亚微米硅器件计划 |
 
 #### 2. 产业主导、近中期共性聚焦、人员借调与大学基础科研互补构成联盟五大设计准则
 
