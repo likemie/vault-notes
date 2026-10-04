@@ -271,6 +271,8 @@
   },
   "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
+    "sources/Grindley_1994_JPAM/figures/Grindley_1994_JPAM_Fig2_Worldwide_SME_Market_Share.jpg",
+    "sources/Grindley_1994_JPAM/figures/Grindley_1994_JPAM_Fig1_Worldwide_Semiconductor_Market_Share.jpg",
     "sources/Grindley_1994_JPAM/figures",
     "sources/Grindley_1994_JPAM/Grindley_1994_JPAM.pdf",
     "sources/Grindley_1994_JPAM/Grindley_1994_JPAM.md",
@@ -306,7 +308,6 @@
     "raw/fuchs2010_extracted.txt",
     "sources/Fuchs_2010_RP.pdf",
     "raw/macher1998.pdf",
-    "raw/grindley1994.pdf",
     "sources/Schnee_1978_RP/figures/test_rot0.jpg",
     "sources/Schnee_1978_RP/figures/test_rot270.jpg",
     "sources/Schnee_1978_RP/figures/test_rot90.jpg",
@@ -315,7 +316,6 @@
     "sources/Mowery_2011_NBER/figures/Mowery_2011_NBER_Fig5-7_DoD_Software_Procurement.jpg",
     "sources/Mowery_2011_NBER/figures/Mowery_2011_NBER_Fig5-7_DoD_Software_Procurement.png",
     "sources/Mowery_2011_NBER/figures/Mowery_2011_NBER_Fig5-6_Federal_Math_CS_Funds_Share.jpg",
-    "sources/Mowery_2011_NBER/figures/Mowery_2011_NBER_Fig5-6_Federal_Math_CS_Funds_Share.png",
-    "sources/Mowery_2011_NBER/figures/Mowery_2011_NBER_Fig5-5_IBM_Government_Sales_Share.jpg"
+    "sources/Mowery_2011_NBER/figures/Mowery_2011_NBER_Fig5-6_Federal_Math_CS_Funds_Share.png"
   ]
 }

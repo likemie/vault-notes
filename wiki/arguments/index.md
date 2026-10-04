@@ -392,7 +392,7 @@ Total entries: **303**
 > - [[Argument_Zhao_2025_JIntell]] — 对 29 项实验与准实验研究（59 个效应量）进行元分析，证实生成式 AI 对学生高阶思维具有中等显著促进作用（g = 0.609），其中问题解决与批判性思维获益最大，而创造力相对有限；自主调节学习能力与干预时长（8–16 周呈倒 U 型峰值）构成关键调节边界。
 
 > [!index-list]- Journal of Policy Analysis and Management (1)
-> - [[Argument_Grindley_1994_JPAM]] — Grindley、Mowery 与 Silverman 基于一手档案与 25+ 场访谈，剖析 SEMATECH 从横向制造工艺开发转向纵向装备供应链协同的战略历程，厘清美日市场份额逆转的宏观多因性与联盟实质贡献，提炼出高技术研发联合体的五大制度设计准则。
+> - [[Argument_Grindley_1994_JPAM]] — Grindley、Mowery 与 Silverman 基于一手档案与 25+ 场访谈，系统剖析 SEMATECH 从横向制造工艺开发转向纵向装备供应链协同的战略历程，厘清美日市场份额逆转的宏观多因性与联盟实质贡献，提炼出高技术研发联合体的五大制度设计准则。
 
 > [!index-list]- Journal of Research in International Education (3)
 > - [[Argument_Bergeron_2019_JRIE]] — Theory of Knowledge 教师 + 混合方法调查 + 揭示教师对 TOK 的看法、对自身发展的影响以及实施中的挑战
