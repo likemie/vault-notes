@@ -21,17 +21,30 @@ tags:
   - region/us
   - method/case-study
 related_concepts:
+  - "[[General Purpose Technology]]"
+  - "[[Return on Investment]]"
   - "[[Precompetitive Research]]"
+  - "[[Document]]"
+  - "[[Pilot Scale Platform]]"
+  - "[[Evidence-Informed Practice]]"
+  - "[[Reliability]]"
+  - "[[Variable]]"
+  - "[[Heterogeneity]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Open-Mindedness]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
+  - "[[Mother-Child Conversation]]"
   - "[[Comparative Case Study]]"
 related_instruments: []
-related_persons:
-  - "[[David C. Mowery]]"
+related_persons: []
 related_facts:
   - "[[Sematech]]"
   - "[[VLSI Project]]"
   - "[[ESPRIT]]"
+  - "[[DARPA]]"
+  - "[[Semiconductor Research Corporation]]"
 related_arguments: []
 sources:
   - "[[sources/Grindley_1994_JPAM/Grindley_1994_JPAM|Grindley_1994_JPAM]]"
@@ -45,9 +58,9 @@ title: "Argument_Grindley_1994_JPAM"
 argument_key: "Argument_Grindley_1994_JPAM"
 argument_display_title: "SEMATECH and collaborative research: Lessons in the design of high-technology consortia"
 argument_kind: "journal-article"
-argument_related_count: 6
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 18
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "Journal of Policy Analysis and Management"
 book_title: ""
@@ -62,14 +75,14 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 被美国政府树立为关键技术公私协同典范的半导体制造技术战略联盟（Semiconductor Manufacturing Technology, [[Sematech]]），其真实的运行机制、研发重点调整与政策成效究竟如何？在 1990 年代初美国半导体芯片与制造装备全球市场份额反超日本的过程中，[[Sematech]] 发挥了哪些实质作用，又面临哪些能力局限？对比美、日、欧 16 个高技术研发（Research and Development, R&D）联合体，该案例为高技术产业政策与研发联盟制度设计提供了哪些基本经验？
+> 被美国政府树立为关键技术公私协同典范的[[Sematech|半导体制造技术战略联盟]]（Semiconductor Manufacturing Technology, [[Sematech]]），其真实的运行机制、研发重点调整与政策成效究竟如何？在 1990 年代初美国半导体芯片与制造装备全球市场份额反超日本的过程中，[[Sematech]] 发挥了哪些实质作用，又面临哪些能力局限？对比美、日、欧 16 个高技术研发（Research and Development, R&D）联合体，该案例为高技术产业政策与研发联盟制度设计提供了哪些基本经验？
 
 > [!claim] 核心主张
-> [[Sematech]] 的成效并非来自其最初设定的芯片制造商横向联合开发制造工艺（该目标因直接竞争对手间的保密防范与产线差异而受阻），而是源于其果断的战略调整——转向芯片制造商与上游半导体制造装备与材料（Semiconductor Manufacturing Equipment and Materials, SME）供应商之间的纵向产业链协同，重点建设通用技术标准、设备测试平台、行业技术路线图并重建买卖双方信任；评估该联盟成效应客观测度日元升值、日本泡沫经济破裂导致资本支出锐减以及个人电脑（Personal Computer, PC）微处理器爆发等宏观因素，其经验表明研发联盟更适合近中期、通用型、纵向产业链协同且由产业自主主导的治理架构，而难以承担长周期基础科学研究或重资产严重落后领域的救援任务。
+> [[Sematech]] 的成效并非来自其最初设定的芯片制造商横向联合开发制造工艺（该目标因直接竞争对手间的保密防范与产线差异而受阻），而是源于其果断的战略调整——转向芯片制造商与上游半导体制造装备与材料（Semiconductor Manufacturing Equipment and Materials, SME）供应商之间的纵向产业链协同，重点建设[[General Purpose Technology|通用技术]]标准、设备测试平台、行业技术路线图并重建买卖双方信任；评估该联盟成效应客观测度日元升值、日本泡沫经济破裂导致资本支出锐减以及个人电脑（Personal Computer, PC）微处理器爆发等宏观因素，其经验表明研发联盟更适合近中期、通用型、纵向产业链协同且由产业自主主导的治理架构，而难以承担长周期基础科学研究或重资产严重落后领域的救援任务。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 1987 年成立的美国半导体制造技术战略联盟（[[Sematech]]）、11 项核心设备研发工程档案，以及日本超大规模集成电路项目（[[VLSI Project]]）、欧洲战略信息技术研发计划（[[ESPRIT]]）、联合欧洲亚微米硅器件计划（Joint European Submicron Silicon Project, JESSI）和美国微电子与计算机技术公司（Microelectronics and Computer Technology Corporation, MCC）等 16 个跨国高技术研发联合体。
-> - **张力** 同行横向竞争研发中的商业机密防范与上下游纵向协同的利益互补；联盟单一救国论的政策宣传与宏观经济及技术周期驱动的客观实证归因；长周期前竞争基础探索与企业追求近中期直接投资回报的诉求矛盾；本土保护壁垒与芯片巨头跨国战略合作的开放需求。
+> - **对象** 1987 年成立的美国半导体制造技术战略联盟（[[Sematech]]）、11 项核心设备研发工程档案，以及[[VLSI Project|日本超大规模集成电路项目]]（[[VLSI Project]]）、[[ESPRIT|欧洲战略信息技术研发计划]]（[[ESPRIT]]）、联合欧洲亚微米硅器件计划（Joint European Submicron Silicon Project, JESSI）和美国微电子与计算机技术公司（Microelectronics and Computer Technology Corporation, [[Mother-Child Conversation|MCC]]）等 16 个跨国高技术研发联合体。
+> - **张力** 同行横向竞争研发中的商业机密防范与上下游纵向协同的利益互补；联盟单一救国论的政策宣传与宏观经济及技术周期驱动的客观实证归因；长周期前竞争基础探索与企业追求近中期直接[[Return on Investment|投资回报]]的诉求矛盾；本土保护壁垒与芯片巨头跨国战略合作的开放需求。
 > - **贡献** 澄清了将产业复兴简单归功于政府研发补贴的线性认识，阐明了研发联盟内部技术专有权保护（Appropriability）与知识扩散（Knowledge Spillovers）的动态权衡机制，提出了涵盖技术定位、组织形式、管理方式与政府边界的高技术研发联盟设计框架。
 
 ---
@@ -97,12 +110,12 @@ issuing_organization: ""
 > | **比较案例研究**<br>[[Comparative Case Study]] | 梳理美、日、欧 16 个代表性高技术研发联盟，系统对比不同联盟在经费规模、政府出资比例、组织架构、管理层职能、集中研发基地与研发重点上的差异。 |
 > | **工程项目档案与历史分析**<br>Archival & Project History Analysis | 查阅 [[Sematech]] 内部项目档案、年度报告与政府资助文件，追踪 11 项具体设备研发工程（涉及光刻机、等离子刻蚀机、晶圆清洗与检测设备）的立项、执行与结项过程。 |
 > | **定性半结构化访谈**<br>Semi-structured Interviews | 在 1992 年 7 月至 1993 年 6 月期间，对 [[Sematech]] 历任管理层、成员企业派驻的借调技术人员（Assignees）以及全美主要半导体设备制造企业高管进行了 25 场以上深度访谈。 |
-> | **产业经济与贸易统计分析**<br>Industry & Trade Statistics | 汇总 1979–1992 年间 Dataquest、VLSI Research、国际半导体设备与材料协会（Semiconductor Equipment and Materials International, SEMI）及日本半导体设备协会（Semiconductor Equipment Association of Japan, SEAJ）的全球半导体芯片与制造设备市场份额、企业资本支出与进出口数据，开展多角度交叉验证。 |
+> | **产业经济与贸易统计分析**<br>Industry & Trade Statistics | 汇总 1979–1992 年间 Dataquest、[[VLSI Project\|VLSI]] Research、国际半导体设备与材料协会（Semiconductor Equipment and Materials International, SEMI）及日本半导体设备协会（Semiconductor Equipment Association of Japan, SEAJ）的全球半导体芯片与制造设备市场份额、企业资本支出与进出口数据，开展多角度交叉验证。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **文献与档案样本** | [[Sematech]] 1988–1993 年度报告、项目总结档案、美国国防科学委员会（Defense Science Board, DSB）1987 年报告、美国半导体行业协会（Semiconductor Industry Association, SIA）报告及美日欧 16 个研发联盟官方资料。 |
+> | **[[Document\|文献]]与档案样本** | [[Sematech]] 1988–1993 年度报告、项目总结档案、美国国防科学委员会（Defense Science Board, DSB）1987 年报告、美国半导体行业协会（Semiconductor Industry Association, SIA）报告及美日欧 16 个研发联盟官方资料。 |
 > | **访谈对象构成** | 25+ 位关键知情人，涵盖 [[Sematech]] 核心管理层、出资芯片厂商派驻项目经理、中小半导体设备与材料供应商总裁及技术总监。 |
 > | **产业数据覆盖** | 1979–1992 年全球前十大商用半导体芯片厂商产销数据、全球前十大半导体制造设备供应商销售额，以及 1991–1992 年美、日、欧各区域半导体资本支出与设备采购变动。 |
 
@@ -132,7 +145,7 @@ issuing_organization: ""
 
 #### 1. 商业保密壁垒与产线异质性导致直接竞争者难以共享核心制造工艺配方
 
-1987 年，面对日本企业在动态随机存取内存（Dynamic Random-Access Memory, DRAM）市场的全面领先，美国国防部[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）联合 14 家美国大型芯片制造企业共同组建 [[Sematech]]。各方约定每年投入 2 亿美元研发资金（政府与企业各承担 1 亿美元），在得克萨斯州奥斯汀建设共性研发中试基地。（pp.724, 729–730）
+1987 年，面对日本企业在动态随机存取内存（Dynamic Random-Access Memory, DRAM）市场的全面领先，美国国防部[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）联合 14 家美国大型芯片制造企业共同组建 [[Sematech]]。各方约定每年投入 2 亿美元研发资金（政府与企业各承担 1 亿美元），在得克萨斯州奥斯汀建设共性研发[[Pilot Scale Platform|中试基地]]。（pp.724, 729–730）
 
 > [!policy-context] 成立初期的组织架构与预期目标
 > - **行业危机背景** 1980 年代中期美国在全球半导体芯片市场的份额由近 60% 降至 40% 以下，日本企业占据了全球 DRAM 市场的 80% 以上；同时美国本土制造设备与材料供应商市场份额不断缩水，引发五角大楼对尖端武器微电子元器件依赖外国供应链的担忧。（pp.728–730）
@@ -155,11 +168,11 @@ issuing_organization: ""
 
 > [!feature] 纵向协同战略转型的核心组织与管理举措
 > - **组建半导体设备与材料协会合作机制（SEMI/SEMATECH）** 联盟将半数以上研发预算直接投向上游中小设备企业，联合 130 余家本土设备与材料厂商，变同行横向博弈为上下游互利合作。（pp.733–734）
-> - **设立设备改进计划（EIP）与联合开发项目（JDP）** 设备改进计划（Equipment Improvement Programs, EIP）资助 6 至 18 个月的现有设备改良与故障消除；联合开发项目（Joint Development Projects, JDP）资助 2 至 3 年面向下一代制程（0.35 微米）的新型关键设备联合攻关。
+> - **设立设备改进计划（[[Evidence-Informed Practice|EIP]]）与联合开发项目（JDP）** 设备改进计划（Equipment Improvement Programs, EIP）资助 6 至 18 个月的现有设备改良与故障消除；联合开发项目（Joint Development Projects, JDP）资助 2 至 3 年面向下一代制程（0.35 微米）的新型关键设备联合攻关。
 > - **搭建共性测试平台与设备认证** 在奥斯汀共性试验线为设备厂商免费提供接近真实生产环境的原型机测试与调试，由芯片制造厂工程师共同参与认证，减少设备进入工厂后的调试故障。
 > - **编制国家半导体技术路线图（NTRS）** 1992 年由联盟牵头编制国家半导体技术路线图（National Technology Roadmap for Semiconductors, NTRS，即国际半导体技术路线图 International Technology Roadmap for Semiconductors, ITRS 的前身），明确全行业未来 5 至 15 年芯片线宽（0.35μm、0.25μm、0.18μm）的技术演进时间表，为设备商指明前瞻性研发目标。（pp.734–735）
-> - **推行全行业工程管理与评估工具（COO / TQM / SPC）** 广泛推行所有权成本（Cost of Ownership, COO）模型、全面质量管理（Total Quality Management, TQM）及统计过程控制（Statistical Process Control, SPC）方法，帮助中小设备商建立规范的工程化与可靠性管理体系。（pp.735–736）
-> - **建立大学卓越技术中心网络（SCOE）** 每年安排 1000 万至 1500 万美元，通过半导体研究公司（Semiconductor Research Corporation, SRC）资助加州大学伯克利分校、斯坦福大学、麻省理工学院、得克萨斯大学等高校建立卓越技术中心（Semiconductor Centers of Excellence, SCOE），开展基础光刻物理与等离子体加工研究。（pp.730, 735）
+> - **推行全行业工程管理与评估工具（COO / TQM / SPC）** 广泛推行所有权成本（Cost of Ownership, COO）模型、全面质量管理（Total Quality Management, TQM）及统计过程控制（Statistical Process Control, SPC）方法，帮助中小设备商建立规范的工程化与[[Reliability|可靠性]]管理体系。（pp.735–736）
+> - **建立大学卓越技术中心网络（SCOE）** 每年安排 1000 万至 1500 万美元，通过[[Semiconductor Research Corporation|半导体研究公司]]（Semiconductor Research Corporation, SRC）资助加州大学伯克利分校、斯坦福大学、麻省理工学院、得克萨斯大学等高校建立卓越技术中心（Semiconductor Centers of Excellence, SCOE），开展基础光刻物理与等离子体加工研究。（pp.730, 735）
 
 ---
 
@@ -178,7 +191,7 @@ issuing_organization: ""
 > [!example]- 图2：全球半导体制造装备与材料（SME）市场份额（按制造厂商所在地划分，1980–1992）
 > ![](https://img.mylikemie.icu/sources/Grindley_1994_JPAM/figures/Grindley_1994_JPAM_Fig2_Worldwide_SME_Market_Share.jpg)
 
-数据表明，全球半导体市场竞争格局的变化主要受三大宏观变量驱动（pp.738–744）：
+数据表明，全球半导体市场竞争格局的变化主要受三大宏观[[Variable|变量]]驱动（pp.738–744）：
 
 > [!row-contrast] 驱动全球半导体市场格局逆转的三大宏观因素
 > | 驱动维度 | 宏观环境变化过程 | 对美日产业竞争格局的实质影响 |
@@ -228,14 +241,18 @@ issuing_organization: ""
 
 #### 2. SEMATECH 有效提升了在役设备可靠性与买卖互信，但无法挽救光刻机等重资产严重落后领域
 
-在剥离宏观因素后，[[David C. Mowery|Mowery]] 等人基于 11 项工程案例的细致考证，指出了 [[Sematech]] 在微观层面的实质贡献与能力边界（pp.744–750）：
+在剥离宏观因素后，作者团队基于 11 项工程案例的细致考证，将 [[Sematech]] 的微观实践严格区分为**实质贡献（优势）**与**能力边界（局限）**两个维度（pp.744–750）：
 
-> [!finding-cards] SEMATECH 的实质贡献与能力边界
-> 1. **重塑买卖双方长期信任** 改变了以往美国芯片制造商对本土中小设备商压价与防范的对立关系，建立了早期参与研发、参数共享与共同测试的合作模式。（pp.744–746）
-> 2. **提升设备稳定运行时间与减少调试损失** 通过推行统计过程控制与所有权成本标准，将本土设备的平均无故障工作时间（Mean Time Between Failures, MTBF）提升数倍，大幅缩短了芯片厂引入新设备后的停机调试周期。（pp.735, 746）
-> 3. **核心设备企业的成长协同** 应用材料（Applied Materials）与拉姆研究（Lam Research）在联盟支持下实现稳步增长（1992 年销售额分别增长 21% 与 33%），跻身全球装备市场前列。（p.739）
-> 4. **重资产落后领域的救援失败（GCA 光刻机倒闭案例）** 联盟无法挽救技术代差过大、高度依赖庞大资本投入的光刻步进机厂商地球物理公司（Geophysical Corporation of America, GCA）；尽管联盟注资支持其开发 XLS 步进机，GCA 仍因无法跟上日本尼康、佳能的快速迭代且缺乏规模订单，于 1993 年倒闭清算，说明研发联盟难以单凭技术改良挽救重资产领域的严重断代。（pp.747–750）
-> 5. **本土保护限制与跨国战略合作的矛盾** 随着美国芯片企业普遍与海外对手展开跨国合资合作（如 IBM 与西门子、东芝联合开发 64M DRAM），联盟初期的排外资助限制在后期对本土设备商进入全球市场造成了摩擦。（pp.747–748）
+> [!finding-cards] SEMATECH 的实质贡献与竞争优势
+> 1. **重塑买卖双方长期信任机制** 彻底改变了以往美国芯片制造商对本土中小设备商压价与防范的对抗性关系，建立了早期参与研发、工艺参数共享与共同测试的纵向协同生态。（pp.744–746）
+> 2. **提升在役设备可靠性与降低调试停机损失** 通过推行统计过程控制（SPC）与所有权成本（COO）标准，将本土设备的平均无故障工作时间（Mean Time Between Failures, MTBF）提升数倍，大幅缩短了芯片厂引入新设备后的停机调试周期。（pp.735, 746）
+> 3. **核心装备骨干企业的协同成长** 助力应用材料（Applied Materials）与拉姆研究（Lam Research）在联盟支持下实现稳步增长（1992 年销售额分别增长 21% 与 33%），跻身全球装备市场前列。（p.739）
+> 4. **全行业[[General Purpose Technology|通用技术]]标准与路线图确立** 统一了晶圆厂设备通信与自动化接口规范，牵头制定首版《国家半导体技术路线图》（NTRS），显著降低了全产业链的研发不确定性与协同交易成本。（pp.734–735）
+
+> [!finding-cards] SEMATECH 的能力边界与组织局限
+> 1. **重资产严重落后领域的救援失败（GCA 光刻机倒闭案例）** 联盟无法挽救技术代差过大、高度依赖庞大资本投入的光刻步进机厂商地球物理公司（Geophysical Corporation of America, GCA）；尽管联盟注资支持其开发 XLS 步进机，GCA 仍因无法跟上日本尼康、佳能的快速迭代且缺乏规模订单，于 1993 年倒闭清算，说明研发联盟难以单凭技术改良挽救重资产领域的严重断代。（pp.747–750）
+> 2. **本土保护主义限制与跨国战略合作的内在矛盾** 随着美国芯片巨头普遍与海外对手展开跨国合资研发（如 IBM 与西门子、东芝联合开发 64M DRAM），联盟初期的排外资助限制（限定仅资助本土控股企业）在后期不仅限制了本土设备商融入全球供应链，也引发了出资企业的战略冲突。（pp.747–748）
+> 3. **横向共性制造工艺开发的高昂组织成本** 早期试图在成员企业之间联合开发 0.5/0.35 微米制造工艺的努力，因各厂商内部工艺路径[[Heterogeneity|异质性]]与商业机密防范而遭遇严重阻碍，证实了横向直接对手间工艺共享的天然局限。（pp.730–732）
 
 ---
 
@@ -262,7 +279,7 @@ issuing_organization: ""
 > | **[[ESPRIT\|ESPRIT II]]** | 欧洲 | 1988–1993 | \$3,800 | 50% | 伞状分散管理 | 纯行政审批 | 否 | 500+ 家 | 信息技术与应用软件扩展 |
 > | **Eureka** | 欧洲 | 1985–1996 | \$7,700 | 50% | 伞状分散管理 | 纯行政审批 | 否 | 数百家（297个项目） | 尤里卡先进泛电子技术协同 |
 > | **RACE** | 欧洲 | 1985–1996 | \$3,000 | 50% | 伞状分散管理 | 纯行政审批 | 否 | 数百家 | 欧洲先进通信技术研发计划 |
-> | **MCC** | 美国 | 1983–至今 | 约\$80/年 | 0%（竞标公助） | 混合制（转向伞状） | 研发工程调度 | 是 | 约 50 家 | 半导体与计算基础前沿技术 |
+> | **[[Mother-Child Conversation\|MCC]]** | 美国 | 1983–至今 | 约\$80/年 | 0%（竞标公助） | 混合制（转向伞状） | 研发工程调度 | 是 | 约 50 家 | 半导体与计算基础前沿技术 |
 > | **NCMS** | 美国 | 1986–至今 | 约\$150/年 | 50%（混合资助） | 伞状分散管理 | 研发工程调度 | 否 | 180 家 | 国家制造科学中心先进工艺 |
 > | **[[Sematech\|SEMATECH I]]** | 美国 | 1987–1992 | \$1,000 | 50% | 集中式项目管理 | 研发工程调度 | 是 | 11 家（原14家） | 半导体制造共性工艺与装备 |
 > | **[[Sematech\|SEMATECH II]]** | 美国 | 1993–至今 | 约\$200/年 | 50% | 集中式项目管理 | 研发工程调度 | 是 | 11 家 | 半导体制造装备与通用标准 |
@@ -273,7 +290,7 @@ issuing_organization: ""
 基于案例分析与跨国对比，作者总结出指导高技术公私研发联盟制度设计的五大基本原则（pp.751–755）：
 
 > [!dimension] 高技术研发联合体的五大制度设计原则
-> - **聚焦近中期通用技术与基础设施（Near-Term Generic Focus）**
+> - **聚焦近中期[[General Purpose Technology|通用技术]]与基础设施（Near-Term Generic Focus）**
 >   联盟应严格定位于近中期通用工程技术开发、行业技术标准、设备测试认证与技术扩散，避免涉足长周期纯基础理论研究（应由大学承担）或专有产品商业设计（属于企业自主竞争领域）。（pp.751, 754）
 > - **优先建立上下游产业链协同网络（Vertical Supply-Chain Alignment）**
 >   制造用户与设备供应商之间的纵向协同具有天然的利益互补性，能有效化解同业横向联盟中因抢夺市场引发的保密防范与搭便车问题。（pp.751–752）
@@ -289,14 +306,14 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心实证结论
-> 1. **研发联盟战略调整的普遍规律** [[Sematech]]、MCC 与欧洲各类联盟的实践表明，产业主导型研发联合体通常会从最初雄心勃勃的长周期前竞争基础研发逐步调整为近中期、通用型、具有明确应用成效的工程技术与标准。（pp.724, 754）
+> 1. **研发联盟战略调整的普遍规律** [[Sematech]]、[[Mother-Child Conversation|MCC]] 与欧洲各类联盟的实践表明，产业主导型研发联合体通常会从最初雄心勃勃的长周期前竞争基础研发逐步调整为近中期、通用型、具有明确应用成效的工程技术与标准。（pp.724, 754）
 > 2. **纵向产业链协同优于同行横向竞争协同** 芯片制造企业与上游设备供应商的纵向研发合作有效化解了直接竞争对手间的保密防范，成为高技术公私协同中最顺畅的组织模式。（pp.751–752）
 > 3. **美日市场格局反转的多重客观原因** 1990 年代初美国芯片与设备市场份额的反超，主要由日元大幅升值、日本泡沫经济破裂导致资本支出锐减 29% 以及个人电脑微处理器爆发等宏观因素驱动，研发联盟的核心贡献在于提升微观设备稳定性与重建买卖双方信任。（pp.740–744）
 > 4. **重资产落后行业难以单纯依靠研发联盟逆转** [[Sematech]] 无法挽救已大幅落后于日本同行的光刻步进机厂商 GCA，说明研发联盟无法弥补巨额资本规模与代际技术差距。（pp.749–750）
 > 5. **政府的催化角色与大学基础科研不可替代** 政府资金在联盟初期提供了公信力与启动保障，但研发方向必须由产业主导；同时政府必须持续资助大学在开放环境中开展长周期基础研究，作为底层技术创新的源头。（pp.750–751, 754）
 
 > [!stat-cards]- 关键实证数据
-> - **\$200m/年** [[Sematech]] 初期年度研发预算（DARPA 与 14 家企业各出资 1 亿美元）。（p.729）
+> - **\$200m/年** [[Sematech]] 初期年度研发预算（[[DARPA]] 与 14 家企业各出资 1 亿美元）。（p.729）
 > - **-29%** 1991–1992 年日本半导体厂商资本支出的降幅（由 56 亿美元降至 40 亿美元）。（p.742）
 > - **-25%** 1991–1992 年日本半导体设备采购总额的降幅（由 41 亿美元降至 30 亿美元）。
 > - **51% vs 41%** 1992 年美日两国半导体制造设备供应商在全球市场的最终份额对比。（p.741）
@@ -305,13 +322,13 @@ issuing_organization: ""
 
 ## 关键引用
 
-> [!citation-card] SEMATECH 战略转向与纵向协同的制度实质
+> [!citation-card] [[Sematech]] 战略转向与纵向协同的制度实质
 > 自成立以来，SEMATECH 已从其成员企业之间的横向研发合作转向主要用户与美国半导体制造设备及材料供应商之间的纵向协同，这种架构对美国其他产业具有重要借鉴意义。在许多方面，SEMATECH 目前更像一个行业协会，致力于传播技术信息与最佳实践、制定通用标准并协调共性技术研发。
 >
 > *Since its foundation, SEMATECH has shifted from 'horizontal' research cooperation to 'vertical' collaboration between its members—major users of semiconductor process equipment and materials—and the U.S. suppliers of these goods, a structure that may be applicable to other U.S. industries. In many respects, SEMATECH now resembles an industry association, diffusing information and best-practice techniques, setting standards, and coordinating generic research.* (p. 724)
 
 > [!citation-card] 高技术产业研发联盟的治理设计准则与公共科研互补
-> 从国家视角来看，单纯依靠产业主导的研发联合体不足以维持高技术产业的基础创新生态。它们的研发努力必须辅之以长周期的基础研究与人才培养，而这些活动从本质上只能由公共资金资助，并在强调公开披露与技术扩散的开放性机构环境（如大学）中开展。
+> 从国家视角来看，单纯依靠产业主导的研发联合体不足以维持高技术产业的基础[[Innovation Ecosystem|创新生态]]。它们的研发努力必须辅之以长周期的基础研究与人才培养，而这些活动从本质上只能由公共资金资助，并在强调公开披露与技术扩散的[[Open-Mindedness|开放性]]机构环境（如大学）中开展。
 >
 > *From a national perspective, industry-led consortia are insufficient by themselves to maintain the infrastructure of high-technology industries. Their research efforts must be supplemented by longer-range research and training activities that by their very nature can be funded only from public sources and conducted in relatively 'open' institutional environments that emphasize disclosure and dissemination.* (p. 754)
 
@@ -322,7 +339,7 @@ issuing_organization: ""
 > [!warning]
 > - **政策评估时间窗口受限** 政策制定的评估时间表往往远短于研发联盟经济效应完全显现所需的漫长周期，短期内难以精准量化其全部长期动态收益。（p.724）
 > - **商业机密与定量数据获取难度高** 由于涉及各大芯片制造巨头高度敏感的商业竞争机密与专有数据，加之联盟运行时间尚短，难以获取详尽的产线微观量化生产率数据。
-> - **多重宏观共振下的因果归因模糊性** 汇率变动、宏观经济衰退、技术范式迁移与联盟政策干预高度交织，在方法论上难以将产业份额复苏的净贡献精确剥离归属于单一主体。（pp.736–744）
+> - **多重宏观共振下的因果归因模糊性** 汇率变动、宏观经济衰退、技术[[Paradigm|范式]]迁移与联盟政策干预高度交织，在方法论上难以将产业份额复苏的净贡献精确剥离归属于单一主体。（pp.736–744）
 
 ---
 

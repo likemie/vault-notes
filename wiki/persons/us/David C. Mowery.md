@@ -6,14 +6,14 @@ aliases:
   - Mowery, D. C.
   - David Mowery
   - Mowery, D.
-summary: "美国著名创新经济学与科技政策学者，加州大学伯克利分校哈斯商学院教授、NBER研究员，长期致力于产业技术演进史、产学技术转移、知识产权与国防研发溢出效应研究。"
+summary: "美国著名创新经济学与科技政策学者，加州大学伯克利分校哈斯商学院讲席教授、NBER 研究员；演化经济学与技术创新史制度学派核心代表，长期致力于国家研发体系、高技术研发联盟治理、产学技术转移、知识产权及国防采购溢出机制研究。"
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 29
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1953"
 died: ""
 lifespan: "1953–至今"
@@ -23,23 +23,41 @@ tags:
   - theme/science-policy
   - region/us
 related_concepts:
+  - "[[Innovation Ecosystem]]"
+  - "[[Growth]]"
+  - "[[Technology Transfer]]"
+  - "[[Reliability]]"
+  - "[[Paradigm]]"
+  - "[[Determinism]]"
+  - "[[Valley of Death]]"
+  - "[[Precompetitive Research]]"
+  - "[[Membership-based Research Consortium]]"
   - "[[Co-invention]]"
   - "[[General Purpose Technology]]"
-  - "[[Technology Transfer]]"
-  - "[[Growth]]"
+  - "[[Industry Affiliate Program]]"
+  - "[[Rationalized Myth]]"
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Technological Trajectories]]"
-related_methods: []
+  - "[[Systems of Innovation]]"
+related_methods:
+  - "[[In-depth Interview]]"
+  - "[[Correlational Research]]"
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Sematech]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[National Academy of Sciences]]"
   - "[[National Research Council]]"
   - "[[OECD]]"
+  - "[[VLSI Project]]"
+  - "[[ESPRIT]]"
+  - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Mowery_2011_NBER]]"
+  - "[[Argument_Grindley_1994_JPAM]]"
 confidence: high
 status: draft
 created: 2026-10-03
@@ -53,53 +71,109 @@ updated: 2026-10-04
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国经济学家、科技政策学者，加州大学伯克利分校（University of California, Berkeley）哈斯商学院威廉·哈斯勒新企业发展讲席教授（William A. and Betty H. Hasler Chair in New Enterprise Development），美国国家经济研究局（National Bureau of Economic Research, NBER）研究员。
-> - **核心角色** [[Evolutionary Economics|演化经济学]]与技术史制度学派核心代表人物之一，长期与内森·罗森伯格（Nathan Rosenberg）、理查德·纳尔逊（Richard Nelson）等学者紧密合作，系统剖析国家科研资助体系、国防采购合同、反垄断诉讼及知识产权法制对美国半导体、计算机、软件及生物技术产业演化轨迹的深远影响。
-> - **代表贡献** 阐明战后美国信息技术产业非中心化竞争结构的制度成因（1956年AT&T同意令 与 1956年IBM同意令、军品采购驱动效应）；系统评估大学科研商业化与《[[Bayh-Dole Act of 1980|拜杜法案]]》的制度成效与溢出边界；深化[[Co-invention|共同发明]]在[[General Purpose Technology|通用目的技术]]扩散中的解释机制。
+> - **身份位置** 美国著名创新经济学家与科技政策学者，加州大学伯克利分校（University of California, Berkeley）哈斯商学院威廉·哈斯勒新企业发展讲席教授（William A. and Betty H. Hasler Chair in New Enterprise Development），美国国家经济研究局（National Bureau of Economic Research, NBER）研究员。
+> - **核心角色** [[Evolutionary Economics|演化经济学]]与技术变迁制度史学派核心代表人物，长期与内森·罗森伯格（Nathan Rosenberg）、理查德·纳尔逊（Richard Nelson）紧密合作；从国家科研投入、需求侧政府采购、反垄断诉讼、知识产权制度及产业组织协同等微观制度层面，系统解构了战后美国半导体、计算机、软件及生物医药等高科技产业[[Innovation Ecosystem|创新生态]]演进机制。
+> - **代表贡献** 阐明战后美国信息技术产业非中心化竞争生态的制度根基（军品采购驱动效应、1956 年 AT&T 与 IBM 反垄断同意令）；系统提出高技术研发联盟治理框架与纵向供应链协同机制（[[Sematech]] 案例评估）；实证解构大学专利化繁荣神话与《[[Bayh-Dole Act of 1980|拜杜法案]]》制度边界。
 
-> [!citation-card]- 联邦政策与信息技术产业生态演进
-> 战后美国电子产业的发展造就了半导体元器件、电子计算机和计算机软件三大全新产业，并共同孕育了通用目的技术——互联网。联邦政策尤其是研发投资、国防采购、反垄断同意令与开放知识产权规则在其中扮演了决定性角色，塑造了专业化、高度竞争且富有活力的去中心化产业生态。
+> [!citation-card] 广义创新政策组合与市场结构的协同塑造
+> 历史回顾最显著的结论之一，是其他领域的公共政策对创新（尤其是采用新技术的创新型企业的进入与成长）具有深远影响。反垄断与知识产权政策在促进技术向竞争对手和新进入者广泛扩散方面发挥了核心作用，不仅催生了新的硬件与半导体厂商，也为独立软件产业创造了生存空间。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 160–161)]]
 >
-> *Advances in electronics technology in the postwar U.S. economy have created three new industries—electronic computers, computer software, and semiconductor components. These three industries also combined to give birth to the Internet, a "general purpose technology"... Federal policy, especially federal research and development (R&D) investment, played a central role in the development of all of these industries.* [[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 159)]]
+> *Indeed, one of the most salient conclusions from the historical review presented in the following is the influence of public policies in other spheres on innovation and especially on the entry and [[Growth]] of innovative firms adopting new technologies. Antitrust and intellectual property policies played a central role in promoting the broad diffusion of technologies to rivals and new entrants, aiding the creation of new semiconductor and computer firms, as well as the independent software industry.*
 
 ---
 
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1978–1981** 在斯坦福大学（Stanford University）获得经济学博士学位，师从内森·罗森伯格，奠定技术变迁经济学与工业研发历史分析基础。
-> - **1981–1987** 先后任教于卡内基梅隆大学（Carnegie Mellon University），从事工业研发组织与技术创新政策研究。
+> - **1978–1981** 在斯坦福大学（Stanford University）获得经济学博士学位，师从内森·罗森伯格，奠定工业研发组织历史分析与技术变迁经济学实证基础。
+> - **1981–1987** 先后任教于卡内基梅隆大学（Carnegie Mellon University），开创性开展美国工业研发实验室组织演进与跨国技术合作政策研究。
 > - **1988–至今** 任职于加州大学伯克利分校哈斯商学院，历任工商管理与公共政策教授、哈斯讲席教授，兼任 NBER 生产率与技术创新项目研究员。
-> - **1990s–2000s** 深度参与[[National Academy of Sciences|美国国家科学院]]（National Academy of Sciences）、[[National Research Council|国家研究委员会]]（National Research Council, NRC）及[[OECD|经济合作与发展组织]]（OECD）关于创新政策、[[Technology Transfer|大学技术转移]]与国防科研溢出效应的多项重大政策咨询评估。
+> - **1990s–2000s** 深度参与[[National Academy of Sciences|美国国家科学院]]（National Academy of Sciences）、[[National Research Council|国家研究委员会]]（National Research Council, NRC）及[[OECD|经济合作与发展组织]]（OECD）关于国家科技政策、半导体产业竞争力、[[Technology Transfer|大学技术转移]]与国防研发溢出效应的多项重大咨询评估。
 
 ---
 
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1989 — *Technology and the Pursuit of Economic [[Growth]]*** 与内森·罗森伯格合著，系统探讨美国 20 世纪工业研发实验室的崛起、国家科技政策演变与经济长期增长之间的内在关联。
-> - **1994 — *[[Sematech]] and Collaborative Research: Lessons in the Design of High-Technology Consortia*** 与彼得·格林德利（Peter Grindley）、布莱恩·西尔弗曼（Brian Silverman）合著发表于 *Journal of Policy Analysis and Management*，基于 25+ 场深度访谈与 11 项工程历史档案，系统评估 Sematech 研发联盟治理机制及其向纵向供应链协同的战略转型，并与日欧同类研发联合体进行比较。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 723–758)]]
-> - **1996 — *The International Computer Software Industry*** 主编国际软件产业比较专著，系统梳理美、欧、日软件工业发展路径分化与政府角色的演化轨迹。
-> - **1998 — *Paths of Innovation: Technological Change in 20th-Century America*** 与内森·罗森伯格合著，深入考察内燃机、化学化工、航空航天及微电子与计算机四大核心[[Technological Trajectories|技术轨迹]]的演进史。
-> - **2004 — *Ivory Tower and Industrial Innovation: University-Industry [[Technology Transfer]] Before and After the [[Bayh-Dole Act of 1980|Bayh-Dole Act]]*** 与理查德·纳尔逊、巴瓦尼·桑帕特（Bhaven Sampat）及阿维德·扎多尼斯（Arvids Ziedonis）合著，全面解构《拜杜法案》神话，指出大学专利化繁荣很大程度上是战后长期基础研究积累与生物医药技术突破的结果，而非单一法案所能完全解释。
-> - **2011 — *Federal Policy and the Development of Semiconductors, Computer Hardware, and Computer Software*** 收录于《加速能源创新》（Accelerating Energy Innovation），深入总结国防采购、反垄断同意令与学科建制化对信息技术（IT）产业的塑造机制，并审慎评判其作为气候变化能源研发政策模板的可移植性。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 159–188)]]
+> - **1989 — *Technology and the Pursuit of Economic [[Growth]]*** 与内森·罗森伯格合著，系统探讨美国 20 世纪工业研发实验室的兴起、联邦科技政策演变与国家经济长期增长的内在制度纽带。
+> - **1994 — *[[Sematech]] and Collaborative Research: Lessons in the Design of High-Technology Consortia*** 与彼得·格林德利（Peter Grindley）、布莱恩·西尔弗曼（Brian Silverman）合著发表于 *Journal of Policy Analysis and Management*，基于 25+ 场[[In-depth Interview|深度访谈]]与 11 项技术档案，系统解构 Sematech 治理演进，提出以纵向用户—供应商协同为核心的高技术研发联盟设计原则，并与日本 [[VLSI Project|超大规模集成电路项目]]（VLSI Project）及欧洲 欧洲信息技术研究战略计划（[[ESPRIT]]）展开深入跨国比较。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 723–758)]]
+> - **1996 — *The International Computer Software Industry*** 主编跨国比较专著，系统剖析美、欧、日软件工业发展路径分化与政府采购、反垄断政策及市场结构的演进关系。
+> - **1998 — *Paths of Innovation: Technological Change in 20th-Century America*** 与内森·罗森伯格合著，深入考察内燃机、化学化工、航空航天及微电子与计算机四大核心[[Technological Trajectories|技术轨迹]]的历史演进规律。
+> - **2004 — *Ivory Tower and Industrial Innovation: University-Industry [[Technology Transfer]] Before and After the [[Bayh-Dole Act of 1980|Bayh-Dole Act]]*** 与理查德·纳尔逊、巴瓦尼·桑帕特（Bhaven Sampat）、阿维德·扎多尼斯（Arvids Ziedonis）合著，全面解构《拜杜法案》神话，实证指出大学技术转移繁荣源自战后长周期基础研究积累与生物医药学科突破，而非单纯依靠专利垄断激励。
+> - **2011 — *Federal Policy and the Development of Semiconductors, Computer Hardware, and Computer Software*** 收录于《加速能源创新》（*Accelerating Energy Innovation*），深入总结国防采购、反垄断同意令与学科建制化对信息技术（IT）产业的塑造机制，并审慎评估其作为气候能源创新政策模板的移植边界。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 159–188)]]
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心主张
-> 技术创新的演进绝非自发孤立的市场现象或线性的供给推动过程，而是由公共研发投入、需求侧采购保障、反垄断竞争执法、开放知识产权环境以及大学学科建制共同织就的复杂制度生态所塑造；政策工具的有效性高度取决于特定产业的技术生命周期与市场结构边界。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 159–161, 184–186)]]
+> 技术创新与产业竞争优势的演进绝非自发孤立的市场均衡过程，也非线性的供给侧研发补贴所能单独决定，而是由公共研发投入、需求侧采购保障、反垄断竞争执法、开放知识产权环境以及纵向供应链协作共同织就的复合制度生态所塑造；产业政策与研发联盟的成败高度取决于能否有效克服下游竞争者之间的保密壁垒，转向赋能关键上游专用设备与材料生态。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 723–758)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 159–161)]]
 
-> [!citation-card] 广义创新政策组合与市场结构的协同塑造
-> 历史回顾最显著的结论之一，是其他领域的公共政策对创新（尤其是采用新技术的创新型企业的进入与成长）具有深远影响。反垄断与知识产权政策在促进技术向竞争对手和新进入者广泛扩散方面发挥了核心作用，不仅催生了新的硬件与半导体厂商，也为独立软件产业创造了生存空间。
+> [!citation-card] 高技术研发联盟成功的关键在纵向供应链协同
+> 研发联合体的经验表明，在竞争激烈的行业中，横向联合研发面临极高的利益冲突与搭便车风险。联盟最持久的价值并不在于联合开发通用的前沿制造工艺，而在于通过纵向用户—供应商合作提升上游设备供应商的技术能力与质量标准，从而使整个产业生态受益。
 >
-> *Indeed, one of the most salient conclusions from the historical review presented in the following is the influence of public policies in other spheres on innovation and especially on the entry and [[Growth]] of innovative firms adopting new technologies. Antitrust and intellectual property policies played a central role in promoting the broad diffusion of technologies to rivals and new entrants...* [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 160–161)]]
+> *The experience of [[Sematech]] suggests that horizontal collaboration among fierce product-market rivals faces severe organizational barriers. The most significant and durable contributions of the consortium arose from its shift to vertical collaboration with equipment and materials suppliers, improving supplier capabilities, standardizing interfaces, and reducing development cycles for the entire domestic industry.* [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 734–737, 752–754)]]
 
 ---
 
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论与历史分析路径** 深化了技术变迁经济学中关于需求侧采购政策、反垄断强制开放与技术外溢的因果机制，纠正了传统科技政策将焦点窄化为供给端直接研发补贴的偏颇视角。
-> - **政策评估路径** 为美国联邦政府、国会及国际组织提供了关于国防溢出、[[Technology Transfer|大学技术转移]]机制（如[[Bayh-Dole Act of 1980|拜杜法案]]再审视）及能源气候创新政策设计的实证依据。
+> - **理论与历史分析路径** 深化了技术变迁经济学中关于需求侧政府采购、反垄断强制技术扩散与纵向供应链外部性的制度因果机制，修正了传统科技政策将焦点片面窄化为供给端直接研发补贴的线性视角。
+> - **方法与实证评估路径** 开创性地将企业工程项目档案、一手[[In-depth Interview|深度访谈]]与计量分析相结合，为微观产业组织与科技政策制定提供了高[[Reliability|信度]]的政策评估[[Paradigm|范式]]。
+> - **政策咨询与制度设计路径** 深度影响了美国国会、[[DARPA]]、美国商务部及 [[OECD]] 关于高技术研发联盟治理（如 [[Sematech]] 设计准则）、军民两用技术溢出及[[Technology Transfer|大学技术转移]]立法政策的审议与反思。
+> - **跨领域创新治理启示** 其对 IT 产业公共政策成功前提的严格界定，为当下清洁能源技术攻关、半导体供应链韧性建设及人工智能公共研发基础设施布局提供了重要的边界警示。
+
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> - [[Argument_Grindley_1994_JPAM|Grindley et al., 1994]] — 系统评估 Sematech 研发联盟的治理架构、战略转型及其向日欧同类项目的比较启示。
+> - [[Argument_Mowery_2011_NBER|Mowery, 2011]] — 深入阐明联邦采购、反垄断同意令与学科建制化如何共同孕育美国半导体、硬件与软件产业生态。
+
+---
+
+## 关系网络
+
+> [!person-network] 关系网络
+> - **导师／核心合作者** 内森·罗森伯格（Nathan Rosenberg）、理查德·纳尔逊（Richard Nelson）— 共同奠定技术变迁制度史与国家[[Systems of Innovation|创新系统]]（NIS）理论基石。
+> - **研究合作者** 彼得·格林德利（Peter Grindley）、布莱恩·西尔弗曼（Brian Silverman）— 共同开展 [[Sematech]] 治理与高技术联盟跨国比较研究。
+> - **重要机构／政策平台** [[National Academy of Sciences]]、[[National Research Council]]、[[OECD]]、[[DARPA]] — 长期承担国家科技政策咨询与评估工作。
+> - **关联研发事实与法案** [[Sematech]]、[[VLSI Project]]、[[ESPRIT]]、[[Bayh-Dole Act of 1980]] — 其经验研究与理论批判的核心实证载体。
+
+---
+
+## 争议与批评
+
+> [!debates] 学术争议与理论争鸣
+>
+> > [!axis] 研发联盟治理机制：横向共性技术共享 vs 纵向供应链协同开发
+> > 围绕高技术研发联盟究竟应聚焦于竞争对手之间的横向共性工艺共享，还是专注于扶持上游材料与设备生态展开的治理机制论争。
+> >
+> > - **[[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]]** 认为横向共性研发在分散的竞争性行业中极易受阻于保密壁垒与利益冲突，联盟成功的决定性转向在于通过“工程合同+派驻人员+技术路线图”赋能纵向供应商生态。
+> > - **传统共性研发倡导者（Sakakibara, 1983; Grewlich, 1984）** 主张将政府资金集中于竞争前阶段的基础工艺共享，以避免企业重复研发投资。
+>
+> > [!axis] [[Technology Transfer|大学技术转移]]立法成效：[[Bayh-Dole Act of 1980|拜杜法案]]推动论 vs 历史积累与技术特征[[Determinism|决定论]]
+> > 围绕《拜杜法案》是否为战后美国高校专利化与技术商业化繁荣的根本驱动力产生的方法与事实争论。
+> >
+> > - **Mowery et al. (2004)** 认为大学专利化繁荣主要源于生物医学等特定学科在战后长期的基础研发公共投入，法案仅放大了已有趋势，盲目强化专利垄断反而可能妨碍基础科学的开放共享。
+> > - **拜杜法案制度决定论者（AUTM, 2000s; US DOC, 2000）** 坚持认为明确大学知识产权所有权是打通产学转移“[[Valley of Death|死亡之谷]]”的决定性制度引擎。
+
+> [!warning] 制度经验的适用边界与警示
+> Mowery 多次强调，美国战后信息技术产业的政策成功具有极强的独特性（兼具国防部门强劲的早期“采购拉动”、反垄断同意令强制创造的开放知识环境、以及下游市场对软硬件微创新的快速吸纳能力）。这一模式无法简单机械地复制到资本规模极其庞大、生命周期漫长且缺乏初期军品溢出效应的领域（如清洁能源技术或重工业脱碳）。
+
+---
+
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Precompetitive Research]] | 概念 | 阐明研发联盟中“竞争前”概念的模糊性与治理脆弱性，论证纵向供应链合作对克服横向保密壁垒的关键作用。 |
+> | [[Membership-based Research Consortium]] | 概念 | 系统提炼会员制联盟在派驻人员机制、股权治理、反搭便车设计与[[Technology Transfer\|技术转移]]流程上的制度规范。 |
+> | [[Co-invention]] | 概念 | 深化[[General Purpose Technology\|通用目的技术]]在特定应用领域落地时下游定制化互补发明的制度分析。 |
+> | [[Evolutionary Economics]] | 理论 | 将制度变迁、[[Technological Trajectories\|技术轨迹]]与企业组织惯性融入演化创新[[Analytic Framework\|分析框架]]。 |
+> | [[Technological Trajectories]] | 理论 | 深入实证微电子、计算机与化工产业长期技术轨迹的路径依赖特征。 |
+> | [[Sematech]] | 事实 | 完成对该联盟从横向工艺开发向纵向用户—供应商设备开发战略转型的权威评估。 |
+> | [[VLSI Project]] | 事实 | 作为比较基准，系统考察日本超大规模集成电路联合体与美国联盟在组织结构与技术目标上的差异。 |
+> | [[ESPRIT]] | 事实 | 比较欧洲跨国合作计划与美国本土[[Industry Affiliate Program\|产业联盟]]在技术溢出与行政交易成本上的制度分化。 |
+> | [[DARPA]] | 事实 | 剖析军民两用研发资助、早期国防采购拉动与联盟配套补贴的协同机制。 |
+> | [[Bayh-Dole Act of 1980]] | 事实 | 展开长期历史计量评估，破除单一法案创造大学专利繁荣的[[Rationalized Myth\|制度神话]]。 |

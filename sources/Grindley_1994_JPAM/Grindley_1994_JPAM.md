@@ -1,6 +1,7 @@
 ---
 citation: "Grindley, P., Mowery, D. C., & Silverman, B. (1994). SEMATECH and collaborative research: Lessons in the design of high-technology consortia. Journal of Policy Analysis and Management, 13(4), 723–758."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Grindley_1994_JPAM]]"
 processed_date: 2026-10-04
 ---
 

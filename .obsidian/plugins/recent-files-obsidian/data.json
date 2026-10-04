@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Journal of Policy Analysis and Management/Argument_Grindley_1994_JPAM.md"
     },
     {
+      "basename": "David C. Mowery",
+      "path": "wiki/persons/us/David C. Mowery.md"
+    },
+    {
       "basename": "DARPA",
       "path": "wiki/facts/us/DARPA.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Achieve",
       "path": "wiki/facts/us/Achieve.md"
-    },
-    {
-      "basename": "Embedded Autonomy",
-      "path": "wiki/concepts/science-policy/Embedded Autonomy.md"
     }
   ],
   "omittedPaths": [],
