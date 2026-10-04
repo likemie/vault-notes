@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "European Chips Act",
-      "path": "wiki/facts/eu/European Chips Act.md"
-    },
-    {
       "basename": "Argument_Bown_2024_JEP",
       "path": "wiki/arguments/journal-articles/Journal of Economic Perspectives/Argument_Bown_2024_JEP.md"
+    },
+    {
+      "basename": "Bell Labs",
+      "path": "wiki/facts/us/Bell Labs.md"
+    },
+    {
+      "basename": "Market Shaping and Creating",
+      "path": "wiki/concepts/science-policy/Market Shaping and Creating.md"
+    },
+    {
+      "basename": "European Chips Act",
+      "path": "wiki/facts/eu/European Chips Act.md"
     },
     {
       "basename": "Argument_Helgetun_2022_JEP",
@@ -43,10 +51,6 @@
     {
       "basename": "Technological Trajectories",
       "path": "wiki/theories/political-economy-geopolitics/Technological Trajectories.md"
-    },
-    {
-      "basename": "Bell Labs",
-      "path": "wiki/facts/us/Bell Labs.md"
     },
     {
       "basename": "Corporate R&D Labs",
@@ -195,10 +199,6 @@
     {
       "basename": "Apollo Program",
       "path": "wiki/facts/us/Apollo Program.md"
-    },
-    {
-      "basename": "Demonstration Effect",
-      "path": "wiki/concepts/science-policy/Demonstration Effect.md"
     }
   ],
   "omittedPaths": [],
