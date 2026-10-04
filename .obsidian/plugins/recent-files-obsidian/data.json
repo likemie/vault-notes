@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Innovation Ecosystem",
+      "path": "wiki/concepts/university-industry-collaboration/Innovation Ecosystem.md"
+    },
+    {
       "basename": "Argument_Macher_1998_CMR",
       "path": "wiki/arguments/journal-articles/California Management Review/Argument_Macher_1998_CMR.md"
+    },
+    {
+      "basename": "Total Quality Management",
+      "path": "wiki/concepts/educational-leadership-administration/Total Quality Management.md"
+    },
+    {
+      "basename": "Statistical Process Control",
+      "path": "wiki/methods/quantitative/Statistical Process Control.md"
+    },
+    {
+      "basename": "Patient Capital",
+      "path": "wiki/concepts/economics/Patient Capital.md"
     },
     {
       "basename": "Sematech Centers of Excellence",
@@ -27,10 +43,6 @@
     {
       "basename": "Technology Readiness Level",
       "path": "wiki/concepts/university-industry-collaboration/Technology Readiness Level.md"
-    },
-    {
-      "basename": "Innovation Ecosystem",
-      "path": "wiki/concepts/university-industry-collaboration/Innovation Ecosystem.md"
     },
     {
       "basename": "David C. Mowery",
@@ -187,18 +199,6 @@
     {
       "basename": "The Green Book",
       "path": "wiki/facts/uk/The Green Book.md"
-    },
-    {
-      "basename": "1956 IBM Consent Decree",
-      "path": "wiki/facts/us/1956 IBM Consent Decree.md"
-    },
-    {
-      "basename": "Office of Naval Research",
-      "path": "wiki/facts/us/Office of Naval Research.md"
-    },
-    {
-      "basename": "Co-invention",
-      "path": "wiki/concepts/economics/Co-invention.md"
     }
   ],
   "omittedPaths": [],

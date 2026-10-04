@@ -8,9 +8,9 @@ summary: "统计过程控制（Statistical Process Control, SPC）是由休哈�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 21
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 24
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - quantitative-method
@@ -35,6 +35,8 @@ related_methods:
   - "[[Standard Error]]"
   - "[[Confidence Interval]]"
   - "[[Fieldwork]]"
+  - "[[Effect Size]]"
+  - "[[Industrial Benchmarking]]"
   - "[[Time Series Design]]"
   - "[[Analytic Framework]]"
   - "[[Longitudinal Study]]"
@@ -46,6 +48,7 @@ related_facts:
   - "[[Sematech]]"
 related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
+  - "[[Argument_Macher_1998_CMR]]"
 confidence: high
 status: active
 created: 2026-10-04
@@ -59,12 +62,12 @@ updated: 2026-10-04
 ## 定义
 
 > [!def] 方法定义
-> **统计过程控制（Statistical Process Control, SPC）**是一种运用统计学原理对生产制造、组织运营或教育服务等连续过程进行实时监测、变异诊断与质量受控状态评估的量化方法。其核心在于利用时序抽样数据绘制控制图（Control Charts），依据正态分布与随机波动规律设立上下控制界限（$\pm 3\sigma$），在过程发生系统性漂移或异常扰动时发出早期预警，从而实现由“事后检验筛选”向“事前预防与过程稳态控制”的根本转变。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]
+> **统计过程控制（Statistical Process Control, SPC）**是一种运用统计学原理对生产制造、组织运营或教育服务等连续过程进行实时监测、变异诊断与质量受控状态评估的量化方法。其核心在于利用时序抽样数据绘制控制图（Control Charts），依据正态分布与随机波动规律设立上下控制界限（$\pm 3\sigma$），在过程发生系统性漂移或异常扰动时发出早期预警，从而实现由“事后检验筛选”向“事前预防与过程稳态控制”的根本转变。在半导体高精制造中，SPC 通过全流程在线参数监控消除工艺偏差，直接驱动缺陷密度压降与良率爬坡。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 735, 746)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 113–118)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 连续制造工序参数、设备运行物理指标（如线宽、厚度、刻蚀速率）、学校学生日常测验成绩时序轨迹、学区出勤率及行政服务周转周期。
+> - **研究对象** 连续制造工序参数、设备运行物理指标（如线宽、氧化层厚度、刻蚀速率、洁净室颗粒数）、晶圆缺陷密度（$D_0$）、每百万缺陷数（PPM）、学校学生日常测验成绩时序轨迹及行政服务周期。
 > - **问题类型** 过程稳定性诊断、异常变异识别、工序制造能力评价、质量改进干预前后的稳态对比。
-> - **[[Unit of Analysis|分析单位]]** 连续生产批次、样本子组（Subgroups）、时序周/月观测单元、班级或学校学期数据点。
+> - **[[Unit of Analysis|分析单位]]** 连续生产批次、晶圆批次（Lot）、样本子组（Subgroups）、时序周/月观测单元、班级或学校学期数据点。
 > - **输出形式** 休哈特控制图（$\bar{X}-R$ 图、$\bar{X}-S$ 图、$p$ 图、$c$ 图）、工序能力指数（$C_p, C_{pk}, P_p, P_{pk}$）、受控状态诊断报告与异常归因警报。
 
 > [!citation-card]- 关键定义
@@ -176,6 +179,18 @@ updated: 2026-10-04
 
 ---
 
+## 实证数据与标杆案例
+
+> [!ref-table]- 实证研究标杆数据（无[[Effect Size|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Macher_1998_CMR\|Macher et al. (1998)]] | 1980–1996 年全球数十座先进商业与内部晶圆制造厂（伯克利 CSM 项目） | [[Industrial Benchmarking\|产业标杆分析]]与产线微观追踪 | 出厂每百万缺陷数（PPM）、0.7–0.9 微米 CMOS 逻辑缺陷密度、晶圆探针良率 | 1980–1992 年美国商用半导体缺陷率由 **780 PPM 压降至 <100 PPM**；0.7–0.9 微米逻辑缺陷密度由 1990 年的 **1.3 个/$\text{cm}^2$ 降至与日本相当（~0.4）**；逻辑制程平均探针良率追平日本（**60% vs 60%**） | 微观晶圆产线归一化实测数据（原文报告） | 证实全面推行 SPC 与过程控制使逻辑制程制造能力追平日本，推翻 DRAM 是尖端制造唯一驱动器的假设 |
+> | [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] | 1988–1992 年 [[Sematech]] 联盟资助的 100 余家上游制造装备与材料供应商 | 联盟项目评估与纵向追踪 | SPC/[[Total Quality Management\|TQM]] 培训完成率、在役设备平均无故障工作时间（MTBF） | 联盟资助 **90%+** 合作供应商完成 SPC 质量体系培训，关键工艺设备 MTBF **提升数倍**，美日装备全球市场份额逆转为 **51% vs 41%** | 描述性统计与产业追踪档案（原文报告） | 揭示将 SPC 推广至设备供应链是提升系统级在役[[Reliability\|可靠性]]的关键抓手 |
+
+---
+
 ## 相关理论与方法
 
 > [!entry-map]
@@ -183,6 +198,7 @@ updated: 2026-10-04
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Total Quality Management]] | 理论 | 为 SPC 提供全员参与、持续改进与基于数据决策的组织治理哲学支撑。 |
+> | [[Industrial Benchmarking]] | 补充方法 | 结合微观晶圆厂标杆分析，跨期度量 SPC 导入前后缺陷密度与探针良率的收敛轨迹。 |
 > | [[Cost of Ownership]] | 补充方法 | SPC 提升设备运行[[Reliability\|可靠性]]（MTBF），直接降低 COO 模型中的停机与缺陷损失。 |
 > | [[Time Series Design]] | 前置方法 | 提供时序数据采集、平稳性检验与自相关建模的基础时间序列[[Analytic Framework\|分析框架]]。 |
 > | [[Longitudinal Study]] | 补充方法 | 在教育研究中将 SPC 控制图作为纵向追踪学生与学校表现动态波动的分析工具。 |
@@ -191,5 +207,6 @@ updated: 2026-10-04
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 详述 [[Sematech]] 推动半导体制造全产业链采用 SPC 工具进行设备中试验证与[[Reliability|可靠性]]（MTBF）提升。
+> - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 借助加州大学伯克利分校 CSM 项目微观标杆数据，实证论证美企通过 SPC 与 [[Total Quality Management|TQM]] 将缺陷率压降至 100 PPM 以下并在先进逻辑制程中实现良率追赶。
