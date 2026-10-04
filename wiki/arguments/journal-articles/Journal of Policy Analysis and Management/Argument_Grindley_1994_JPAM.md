@@ -27,9 +27,9 @@ related_concepts:
   - "[[Document]]"
   - "[[Pilot Scale Platform]]"
   - "[[Evidence-Informed Practice]]"
+  - "[[Reliability]]"
   - "[[Cost of Ownership]]"
   - "[[Total Quality Management]]"
-  - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
   - "[[Innovation Ecosystem]]"
@@ -48,6 +48,7 @@ related_facts:
   - "[[JESSI]]"
   - "[[Microelectronics and Computer Technology Corporation]]"
   - "[[DARPA]]"
+  - "[[Bell Labs]]"
   - "[[Sematech Centers of Excellence]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[Fifth Generation Computer Systems]]"
@@ -65,7 +66,7 @@ title: "Argument_Grindley_1994_JPAM"
 argument_key: "Argument_Grindley_1994_JPAM"
 argument_display_title: "SEMATECH and collaborative research: Lessons in the design of high-technology consortia"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -88,7 +89,7 @@ issuing_organization: ""
 > [[Sematech]] 的成效并非来自其最初设定的芯片制造商横向联合开发制造工艺（该目标因直接竞争对手间的保密防范与产线差异而受阻），而是源于其果断的战略调整——转向芯片制造商与上游半导体制造装备与材料（Semiconductor Manufacturing Equipment and Materials, SME）供应商之间的纵向产业链协同，重点建设[[General Purpose Technology|通用技术]]标准、设备测试平台、行业技术路线图并重建买卖双方信任；评估该联盟成效应客观测度日元升值、日本泡沫经济破裂导致资本支出锐减以及个人电脑（Personal Computer, PC）微处理器爆发等宏观因素，其经验表明研发联盟更适合近中期、通用型、纵向产业链协同且由产业自主主导的治理架构，而难以承担长周期基础科学研究或重资产严重落后领域的救援任务。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 1987 年成立的美国半导体制造技术战略联盟（[[Sematech]]）、11 项核心设备研发工程档案，以及[[VLSI Project|日本超大规模集成电路项目]]（[[VLSI Project]]）、[[ESPRIT|欧洲战略信息技术研发计划]]（[[ESPRIT]]）、联合欧洲亚微米硅器件计划（Joint European Submicron Silicon Project, [[JESSI]]）和美国[[Microelectronics and Computer Technology Corporation|微电子与计算机技术公司]]（Microelectronics and Computer Technology Corporation, MCC）等 16 个跨国高技术研发联合体。
+> - **对象** 1987 年成立的美国[[Sematech|半导体制造技术战略联盟]]（Semiconductor Manufacturing Technology, SEMATECH）、11 项核心设备研发工程档案，以及[[VLSI Project|日本超大规模集成电路项目]]（Very Large Scale Integration, VLSI）、[[ESPRIT|欧洲战略信息技术研发计划]]（European Strategic Programme for Research and Development in Information Technology, ESPRIT）、[[JESSI|联合欧洲亚微米硅计划]]（Joint European Submicron Silicon Initiative, JESSI）和美国[[Microelectronics and Computer Technology Corporation|微电子与计算机技术公司]]（Microelectronics and Computer Technology Corporation, MCC）等 16 个跨国高技术研发联合体。
 > - **张力** 同行横向竞争研发中的商业机密防范与上下游纵向协同的利益互补；联盟单一救国论的政策宣传与宏观经济及技术周期驱动的客观实证归因；长周期前竞争基础探索与企业追求近中期直接[[Return on Investment|投资回报]]的诉求矛盾；本土保护壁垒与芯片巨头跨国战略合作的开放需求。
 > - **贡献** 澄清了将产业复兴简单归功于政府研发补贴的线性认识，阐明了研发联盟内部技术专有权保护（Appropriability）与知识扩散（Knowledge Spillovers）的动态权衡机制，提出了涵盖技术定位、组织形式、管理方式与政府边界的高技术研发联盟设计框架。
 
@@ -152,12 +153,30 @@ issuing_organization: ""
 
 #### 1. 商业保密壁垒与产线异质性导致直接竞争者难以共享核心制造工艺配方
 
-1987 年，面对日本企业在动态随机存取内存（Dynamic Random-Access Memory, DRAM）市场的全面领先，美国国防部[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）联合 14 家美国大型芯片制造企业共同组建 [[Sematech]]。各方约定每年投入 2 亿美元研发资金（政府与企业各承担 1 亿美元），在得克萨斯州奥斯汀建设共性研发[[Pilot Scale Platform|中试基地]]。（pp.724, 729–730）
+1987 年，面对日本企业在动态随机存取存储器（Dynamic Random Access Memory, DRAM）市场的全面领先，美国国防部[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）联合 14 家美国大型芯片制造企业共同组建 [[Sematech]]。各方约定每年投入 2 亿美元研发资金（政府与企业各承担 1 亿美元），在得克萨斯州奥斯汀建设共性研发[[Pilot Scale Platform|中试基地]]。（pp.724, 729–730）
 
 > [!policy-context] 成立初期的组织架构与预期目标
 > - **行业危机背景** 1980 年代中期美国在全球半导体芯片市场的份额由近 60% 降至 40% 以下，日本企业占据了全球 DRAM 市场的 80% 以上；同时美国本土制造设备与材料供应商市场份额不断缩水，引发五角大楼对尖端武器微电子元器件依赖外国供应链的担忧。（pp.728–730）
-> - **成员组成与经费分摊** 14 家创始企业（包括 IBM、美国电话电报公司（American Telephone and Telegraph, AT&T）、英特尔（Intel）、摩托罗拉（Motorola）、德州仪器（Texas Instruments, TI）、超威半导体（Advanced Micro Devices, AMD）、数字设备公司（Digital Equipment Corporation, DEC）、惠普（Hewlett-Packard, HP）、国家半导体（National Semiconductor）、哈里斯（Harris）、美光科技（Micron Technology）、LSI Logic、洛克威尔（Rockwell）、国家现金出纳机公司（National Cash Register, NCR））按芯片销售额的 1% 缴纳会费（最低 100 万美元），联邦政府通过 DARPA 每年提供 1 亿美元对等资助。（pp.729–730）
+> - **成员组成与经费分摊** 14 家创始企业按芯片销售额的 1% 缴纳会费（最低 100 万美元），联邦政府通过 DARPA 每年提供 1 亿美元对等资助。（pp.729–730）
 > - **最初设立的研发目标** 计划在奥斯汀建立柔性示范制造工厂，集中开发适用于 0.8 微米、0.5 微米直至 0.35 微米集成电路的下一代先进制造通用工艺配方，并直接转移给 14 家成员企业的商业产线。（pp.730–731）
+
+> [!ref-table]- 表：SEMATECH 14 家创始成员企业与当前经营状态演变
+> | 创始成员企业（中英文） | 1987 年入会出资与主营地位 | 在联盟中的核心诉求与演变 | 当前经营状态（截至目前） |
+> |---|---|---|---|
+> | **国际商业机器公司**<br>IBM (International Business Machines) | 计算机与芯片制造龙头，最大出资方之一，出资 1,500 万美元+ | 推动 0.5/0.35μm 先进制程与设备测试验证 | 2014 年将其半导体芯片制造产线出售给格芯（GlobalFoundries），转型为混合云、企业 AI 软件及量子计算巨头 |
+> | **美国电话电报公司**<br>AT&T (American Telephone & Telegraph) | [[Bell Labs\|贝尔实验室]]与通信微电子巨头，技术实力雄厚 | 推动芯片制造自动化与工艺标准制定 | 1996 年分拆微电子部门为朗讯科技（Lucent），后重组为杰尔系统（Agere Systems），最终并入博通（Broadcom） |
+> | **英特尔**<br>Intel Corporation | 微处理器龙头（x86 架构）与存储先驱 | CEO 罗伯特·诺伊斯出任联盟首任 CEO，主导向设备协同转型 | 全球领先的半导体 IDM 巨头，聚焦 PC/服务器处理器研发，推进 Intel 18A 等先进制程代工业务 |
+> | **摩托罗拉**<br>Motorola, Inc. | 移动通信、汽车电子与微处理器（68000 系列）龙头 | 积极参与设备改进计划（[[Evidence-Informed Practice\|EIP]]）与洁净室测试 | 2004 年半导体部门分拆为飞思卡尔（Freescale），2015 年飞思卡尔与恩智浦半导体（NXP）合并，现为全球汽车芯片领军企业 |
+> | **德州仪器**<br>Texas Instruments (TI) | 集成电路发明者，DRAM 与数字信号处理器（DSP）巨头 | 派驻资深工程师团队，深度参与技术路线图编制 | 1998 年剥离 DRAM 业务，成功转型为全球模拟芯片与嵌入式处理器龙头企业，持续独立运营 |
+> | **超威半导体**<br>AMD (Advanced Micro Devices) | x86 微处理器与闪存芯片关键厂商 | 追求先进制程设备共享以分摊重资产投资 | 2008 年剥离晶圆制造部门成立格芯（GlobalFoundries），转型为全球领先的无晶圆厂（Fabless）高性能 CPU/GPU 设计巨头 |
+> | **数字设备公司**<br>DEC (Digital Equipment Corporation) | 小型机与高性能 Alpha 微处理器领军企业 | 寻求前沿半导体封装与制造设备支持 | 1998 年被康柏电脑（Compaq）收购，2002 年并入惠普（HP），芯片设计与制造资源被英特尔吸收 |
+> | **惠普**<br>HP (Hewlett-Packard) | 测试仪器、计算机与专用集成电路厂商 | 关注高精度测试测量设备与自动化标准 | 1999 年分拆半导体与仪器业务为安捷伦（Agilent），半导体业务后重组为安华高（Avago），2015 年并购重组为博通（Broadcom Inc.） |
+> | **美国国家半导体**<br>National Semiconductor | 模拟芯片与逻辑器件先驱 | 参与共性制造工艺开发与设备[[Reliability\|可靠性]]提升 | 2011 年被德州仪器（TI）以 65 亿美元现金全资收购，产品线完全整合入 TI 模拟业务 |
+> | **哈里斯半导体**<br>Harris Semiconductor | 航天军工、耐辐射芯片与功率器件专家 | 因自身聚焦特种小众市场且认为大厂主导研发，于 1992 年退出联盟 | 1999 年半导体部门分拆为 Intersil，2017 年 Intersil 被日本瑞萨电子（Renesas Electronics）收购；母公司 Harris 现为 L3Harris 军工巨头 |
+> | **美光科技**<br>Micron Technology | 专注大宗标准 DRAM 存储芯片低成本制造 | 认为联盟更偏向逻辑芯片且无法提供专有技术优势，于 1992 年退出联盟 | 全美唯一存活的本土 DRAM/NAND 存储芯片制造巨头，位列全球存储半导体三强之一 |
+> | **LSI 逻辑**<br>LSI Logic Corporation | 专用集成电路（ASIC）与客制化设计先驱 | 认为会费负担偏重且研发方向由 IDM 巨头主导，于 1992 年退出联盟 | 2014 年被安华高科技（Avago Technologies）以 66 亿美元收购，现为博通（Broadcom）旗下定制存储与网络芯片核心部门 |
+> | **洛克威尔国际**<br>Rockwell International | 航天军工、通信调制解调器芯片先驱 | 参与军用高可靠微电子工艺协同攻关 | 1999 年半导体业务分拆为科胜讯（Conexant Systems），后被新思科技（Synaptics）收购；母公司分拆为罗克韦尔自动化（Rockwell Automation） |
+> | **国家现金出纳机公司**<br>NCR (National Cash Register) | 商业终端 POS 机、金融系统及专用 ASIC 厂商 | 关注商业级低成本专用芯片制造支持 | 1991 年被 AT&T 收购，1995 年其微电子部门（NCR Microelectronics）出售给 Symbios Logic（后并入 LSI/博通），NCR 母公司 1996 年重新分拆独立 |
 
 然而，直接竞争对手之间的利益防范迅速让这一设想遭遇困难。各芯片厂商的制造产线具有高度的技术差异性，企业不愿将影响自身生存的核心制造诀窍向市场竞争对手公开。（pp.731–732）
 
@@ -175,11 +194,11 @@ issuing_organization: ""
 
 > [!feature] 纵向协同战略转型的核心组织与管理举措
 > - **组建半导体设备与材料协会合作机制（SEMI/SEMATECH）** 联盟将半数以上研发预算直接投向上游中小设备企业，联合 130 余家本土设备与材料厂商，变同行横向博弈为上下游互利合作。（pp.733–734）
-> - **设立设备改进计划（[[Evidence-Informed Practice|EIP]]）与联合开发项目（JDP）** 设备改进计划（Equipment Improvement Programs, EIP）资助 6 至 18 个月的现有设备改良与故障消除；联合开发项目（Joint Development Projects, JDP）资助 2 至 3 年面向下一代制程（0.35 微米）的新型关键设备联合攻关。
+> - **设立设备改进计划（EIP）与联合开发项目（JDP）** 设备改进计划（Equipment Improvement Programs, EIP）资助 6 至 18 个月的现有设备改良与故障消除；联合开发项目（Joint Development Projects, JDP）资助 2 至 3 年面向下一代制程（0.35 微米）的新型关键设备联合攻关。
 > - **搭建共性测试平台与设备认证** 在奥斯汀建立集中式[[Pilot Scale Platform|中试验证平台]]（洁净室中试线），为设备厂商免费提供接近真实生产环境的原型机测试与调试，由芯片制造厂工程师共同参与认证，减少设备进入工厂后的调试故障。（pp.733–735）
 > - **编制国家半导体技术路线图（NTRS）** 1992 年由联盟牵头编制国家半导体技术路线图（National Technology Roadmap for Semiconductors, NTRS，即国际半导体技术路线图 International Technology Roadmap for Semiconductors, ITRS 的前身），明确全行业未来 5 至 15 年芯片线宽（0.35μm、0.25μm、0.18μm）的技术演进时间表，为设备商指明前瞻性研发目标。（pp.734–735）
 > - **推行全行业工程管理与评估工具（[[Cost of Ownership|COO]] / [[Total Quality Management|TQM]] / [[Statistical Process Control|SPC]]）** 广泛推行所有权成本（Cost of Ownership, COO）模型、全面质量管理（Total Quality Management, TQM）及统计过程控制（Statistical Process Control, SPC）方法，帮助中小设备商建立规范的工程化与[[Reliability|可靠性]]管理体系。（pp.735–736）
-> - **建立[[Sematech Centers of Excellence|大学卓越技术中心网络]]（[[Sematech Centers of Excellence|SCOE]]）** 每年安排 1000 万至 1500 万美元，通过[[Semiconductor Research Corporation|半导体研究公司]]（Semiconductor Research Corporation, SRC）资助加州大学伯克利分校、斯坦福大学、麻省理工学院、得克萨斯大学等高校建立卓越技术中心（Semiconductor Centers of Excellence, SCOE），开展基础光刻物理与等离子体加工研究。（pp.730, 735）
+> - **建立[[Sematech Centers of Excellence|大学卓越技术中心网络]]（[[Sematech Centers of Excellence|SCOE]]）** 每年安排 1000 万至 1500 万美元，通过[[Semiconductor Research Corporation|半导体研究公司]]（Semiconductor Research Corporation, SRC）资助加州大学伯克利分校、斯坦福大学、麻省理工学院、得克萨斯大学等高校建立大学卓越技术中心（Semiconductor Centers of Excellence, SCOE），开展基础光刻物理与等离子体加工研究。（pp.730, 735）
 
 ---
 

@@ -6,7 +6,7 @@ aliases:
 summary: "约翰·杜威进步主义教育的核心教学主张，认为最深刻的知识是“如何做的知识”，学生通过参与真实、动手与解决问题的活动建构经验与批判性思维。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

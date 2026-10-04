@@ -1,0 +1,1490 @@
+=== Page 1 ===
+CaliforniaManagement
+Review
+Fall 1998 | Vol.41, No.1 | REPRINT SERIES
+Reversal of Fortune?
+The Recovery of the U.S.
+Semiconductor Industry
+Jeffrey T. Macher
+David C. Mowery
+David A. Hodges
+© 1998 by The Regents of 
+the University of California
+--- PAGE BREAK ---
+=== Page 2 ===
+The Alfred P . Sloan Foundation supported the research on which this article is based. We are indebted
+to our fellow participants in the Berkeley Competitive Semiconductor Manufacturing Project, and
+especially to its director, Professor Rob Leachman, for invaluable data, advice and support.We also
+appreciate the assistance of Jerry Karls and Howard Dicken of Integrated Circuit Engineering (ICE) Inc.,
+Doug Andrey and Lynn Lehsten of the Semiconductor Industry Association (SIA), Dan Hutcheson of
+VLSI Research, Inc., and Jodi Shelton and Debra Scoggin of the Fabless Semiconductor Association
+(FSA) in providing data for this article.This article has beneﬁted greatly from the comments of Melissa
+Appleyard, Rose Marie Ham, and Bill Spencer.The authors are solely responsible for any errors or
+omissions.
+Reversal of Fortune?
+THE RECOVERY OF THE U.S.
+SEMICONDUCTOR INDUSTRY
+Jeffrey T. Macher
+David C. Mowery
+David A. Hodges
+T
+he international economic competitiveness of a number of U.S. manu-
+facturing industries has improved signiﬁcantly since the early 1990s.
+One of the most dramatic reversals of fortune—which is particularly
+remarkable because of its reliance on strengths formerly regarded by
+many analysts as weaknesses—is that of the U.S. semiconductor industry.
+Although evidence of this industry’s improved performance is abundant, expla-
+nations for it are surprisingly scarce. This article draws on previously unpub-
+lished data on manufacturing performance, along with other indicators, to
+examine the reasons for the recovery of the U.S. semiconductor industry since
+the early 1990s.
+This analysis is important because of the economic signiﬁcance of the U.S.
+semiconductor industry and because of this industry’s role as a “poster child” for
+U.S. competitive decline during the 1980s and resurgence during the 1990s. 
+The economic importance of this industry needs little elaboration—semiconduc-
+tor devices are the basic building blocks of many electronics industries. Declines
+in the price/performance ratio of semiconductor components have propelled
+their adoption in an ever-expanding array of applications, and semiconductor
+107CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998
+--- PAGE BREAK ---
+=== Page 3 ===
+technology has increased the variety of products offered in industries such as
+consumer electronics, personal communications, and home appliances.
+During the 1980s, the competitive difﬁculties of the U.S. semiconductor
+industry were used in several analyses of U.S. competitiveness to illustrate the
+competitive problems of the broader U.S. economy.
+1 Both “impatient capital,” a
+tendency by U.S. high-technology entrepreneurs to develop innovative products
+that they were unable to manufacture in commercial volumes with high quality,
+and predatory foreign-ﬁrm trade practices ﬁgured prominently in gloomy assess-
+ments of the future of this and other U.S. manufacturing industries. Moreover,
+the semiconductor industry was the focus of attention from senior federal poli-
+cymakers, and many of the broad competitiveness-related policy measures of 
+the 1980s and early 1990s were motivated by concern over this industry’s per-
+formance and supported by evidence from its history. Finally, this industry was
+among the ﬁrst to implement a number of the technology management practices
+that now characterize other U.S. manufacturing industries, such as increased
+domestic and international collaboration and greater “vertical specialization” by
+ﬁrms. Our assessment of these new approaches therefore is germane to evalua-
+tions of these other sectors.
+This discussion of the changing competitive performance of the U.S. semi-
+conductor industry examines the 1980-1997 period in some detail in order to
+establish the dimensions of the “fall and rise” of this industry during this period.
+The recovery of U.S. semiconductor ﬁrms since 1989 rests on improvements in
+product quality and manufacturing process yields, as well as their withdrawal
+from the ﬁercely competitive Dynamic Random Access Memory (DRAM) seg-
+ment of the semiconductor industry. U.S. ﬁrms have reoriented their strategies
+since the mid-1980s to concentrate on logic and microcomponent products,
+2
+where foreign competition was less intense and they could pursue new product
+opportunities by exploiting their proximity to developers of computer software
+and other complementary products. Other successful U.S. ﬁrms have entered 
+the industry as specialists in innovative device designs.
+3 Meanwhile, the Japan-
+ese ﬁrms that dominated DRAMs now face a domestic recession and entry by
+low-cost producers from South Korea and Taiwan. Although the Asian economic
+crisis that began in 1997 is likely to depress global demand for semiconductors in
+the near term and has eroded the ﬁnancial performance of U.S. producers, the
+relative performance of U.S. semiconductor ﬁrms remains strong, as their con-
+tinuing leadership in global market share indicates.
+Much of the “renaissance” of U.S. competitive advantage in semiconduc-
+tors reﬂects exploitation by U.S. ﬁrms of long-standing strengths in product
+innovation. Many of the new opportunities that appeared in the late 1980s for
+such product innovation reﬂected developments in other industries such as tele-
+communications and computers, in which U.S. ﬁrms demonstrated renewed in-
+novative and competitive vigor. Moreover, many of the factors cited in the 1980s
+by expert and scholarly analyses as sources of competitive weakness in this in-
+dustry have instead contributed to its competitive revival. The repositioning of
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998108
+--- PAGE BREAK ---
+=== Page 4 ===
+U.S. semiconductor ﬁrms was, if anything, aided by the “fragmentation” of the
+U.S. industry’s structure that the MIT Commission and others4 criticized. The
+inaccuracies in these analyses raise serious problems for both managers and poli-
+cymakers seeking speedy diagnoses and solutions to competitive problems in
+high-technology industries.
+A number of federal government initiatives, ranging from trade policy 
+to ﬁnancial support for university research and R&D consortia such as
+SEMATECH,
+5 played a role in the industry’s revival. However, the speciﬁc links
+between these undertakings and improved manufacturing performance are difﬁ-
+cult to measure. Industry managers are virtually unanimous in emphasizing that
+the crisis of the 1980s forced them to devote much more attention to improving
+their development and management of manufacturing process technology. It is
+not clear how much of the overall improvements reﬂected this renewed focus 
+by managers, nor is it clear why poor performance was tolerated for so long.
+In a complex industry such as semiconductors, no single explanation for
+improved U.S. performance is likely to sufﬁce. All of the factors discussed above
+have contributed to this industry’s revival, and it is futile to attempt to assign
+weights to individual causes. At the same time, the foundation for this competi-
+tive revival is fragile. U.S. producers’ success in repositioning their product lines
+and developing innovative products does not guarantee enduring dominance.
+The MIT Commission’s grim diagnosis of the “structural crisis” of the U.S. semi-
+conductor industry contains important insights, and at least some of the negative
+consequences of the U.S. industry’s unusual structure have not been addressed.
+Many of the large corporations that supported much of the basic research that
+propelled the semiconductor industry’s early growth have reduced the scope 
+of their in-house basic research, and public funding for long-term R&D is more
+uncertain in the wake of the Cold War. Without a clearer understanding of the
+factors that gave rise to it, maintaining interﬁrm collaboration may prove
+difﬁcult.
+Industry Performance, 1980-1997
+Our discussion of industry performance begins with a summary of the
+development of the global semiconductor industry during the 1980-1997 period,
+highlighting trends in the market shares of U.S. and non-U.S. semiconductor
+manufacturers. Our market share data are measured in terms of revenues and
+therefore confound trends in output quantity and the price per unit of that out-
+put. This effect is not entirely undesirable—one of the primary factors behind
+the resurgence of U.S. manufacturers’ market share in semiconductors is pre-
+cisely the higher average selling prices of their output during the 1990s.
+Market Share Measures
+The ﬁrst transistors, and subsequently the ﬁrst integrated circuits (ICs),
+were developed and manufactured in the United States for military and space
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998 109
+--- PAGE BREAK ---
+=== Page 5 ===
+programs. By the mid-1960s, the computer and communications industries
+surpassed the U.S. military as the primary markets for semiconductors, and 
+the market for semiconductor components has been dominated by commercial
+applications ever since.
+6 From the invention of the IC in 1959 through 1985, the
+combined market share of U.S. producers exceeded that of ﬁrms from all other
+nations.
+7
+A combination of circumstances—including abundant venture capital,
+widespread licensing of key patents, and the willingness of U.S. military and
+space agencies to purchase semiconductor devices from new ﬁrms—produced an
+industry structure that by the 1960s contrasted with those of the Japanese and
+Western European semiconductor industries. The leading commercial producers
+of semiconductors in the U.S. included a number of relatively young “merchant”
+ﬁrms that specialized in semiconductor manufacture.
+8 In contrast, the Japanese
+and Western European semiconductor industries were and continue to be domi-
+nated by subsidiaries of large, diversiﬁed electrical equipment ﬁrms.
+Foreign semiconductor producers challenged the dominant position of
+U.S. ﬁrms in the late 1970s. Japanese ﬁrms had been active in the semiconduc-
+tor industry since the 1950s, but lagged behind U.S. ﬁrms in product and process
+technology. But in the mid-1970s, the Ministry of International Trade and
+Industry (MITI), NTT (at the time, Japan’s state-owned telecommunications
+ﬁrm), and Japanese producers of semiconductor devices and manufacturing
+equipment launched several research programs to improve the semiconductor
+manufacturing capabilities of domestic ﬁrms. These initiatives included the well-
+known VLSI Program overseen by MITI and a parallel program for its semicon-
+ductor suppliers sponsored by NTT. Paradoxically, the VLSI program sought to
+improve Japanese semiconductor capabilities in order to strengthen the interna-
+tional competitiveness of Japan’s computer industry.
+These technology development programs focused on memory devices,
+which were important in computer systems and whose relative design simplicity
+facilitated the testing of new process technologies. The market outlook for these
+devices appeared to be favorable, a projection that was amply borne out by sub-
+sequent trends. In addition, “Moore’s Law”
+9 provided a clear “roadmap” of the
+path of future developments in DRAM technology, enabling Japanese ﬁrms to
+focus their efforts to “catch up” in semiconductor technology. By 1979, Japanese
+producers accounted for almost 42 percent of global DRAM sales.
+10
+By the mid-1980s, Japanese producers were the dominant global suppli-
+ers of semiconductor memory devices. U.S.-Japanese competition in DRAM
+production took on the characteristics of a “capacity race”—ﬁrms in each nation
+invested aggressively in production capacity for next-generation products. Aided
+by their access to internal sources of ﬁnance, Japanese semiconductor manufac-
+turers were able to dominate this investment competition. The U.S. share of
+capital spending in the world semiconductor industry declined from nearly 60
+percent in 1980 to roughly 30 percent in 1990.
+11 The enormous capital require-
+ments of the investment capacity race, combined with ﬁerce price competition
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998110
+--- PAGE BREAK ---
+=== Page 6 ===
+in DRAMs and a U.S. industry recession,
+forced many U.S. merchant ﬁrms (with
+the notable exceptions of Texas Instru-
+ments and Micron Technology) out of the
+DRAM market by 1985. By 1990, Japanese
+ﬁrms accounted for 98 percent of sales 
+of 4-megabit DRAMs, then the most
+advanced memory product (See Table 1).
+Reﬂecting their declining fortunes
+in memory devices, U.S. merchant semi-
+conductor producers lost considerable
+market share in semiconductors during
+this period (See Figure 1). From a leading
+share of almost 62 percent in 1980, U.S.
+chipmakers’ global market share declined
+to a low point of 37 percent by 1989.
+Japanese semiconductor ﬁrms by 1989
+were responsible for more than half of
+global semiconductor revenues.
+Remarkably, this dire competitive
+situation began to change in the late
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998 111
+TABLE 1. Maximum Market Share (%)
+By Device Type
+Device Volume Maximum
+Type Production Market Share
+U.S. Japan
+1K 1971 95 5
+4K 1974 83 17
+16K 1977 59 41
+64K 1979 29 71
+256K 1982 8 92
+1M 1985 4 96
+4M 1990 2 98
+Source: Dataquest, cited in David T. Methé,Technological Com-
+petition in Global Industries: Marketing and Planning Strategies for
+American Industry (Westport, CT: Quorum Books, 1991), p. 69;
+and R. Langlois and W.E. Steinmueller,“The Evolution of Com-
+petitive Advantage in the Global Semiconductor Industry: 1947-
+1996,” in D.C. Mowery and R.R. Nelson, eds.,The Sources of
+Industrial Leadership (New Y ork, NY: Cambridge University Press,
+1998), p. 31.
+FIGURE 1. Worldwide Semiconductor Market Share, 1980-1997
+0%
+25%
+50%
+75%
+19801981
+19821983198419851986
+19871988198919901991
+19921993199419951996
+1997
+Year
+Semiconductor Market Share (%)
+US
+JAPAN
+RoW
+EUROPE
+Source: SIA 1997 Annual Databook; Integrated Circuit Engineering Corporation (ICE),“Status: A Report on the Integrated Circuit Industry,”
+1980-1998.
+Semiconductor Market Share (%)
+Year
+U.S.
+--- PAGE BREAK ---
+=== Page 7 ===
+1980s. U.S. producers reversed their global market share decline in 1990 for the
+ﬁrst time since 1975.12 But this reversal in market share occurred in areas other
+than memory products, where U.S. ﬁrms’ global market share has grown only
+slightly since 1990 (See Figure 2). Instead, U.S. ﬁrms shifted away from low-
+margin products such as DRAMs in favor of products that enabled them to
+exploit their strengths in product innovation. Having largely exited DRAMs 
+by 1985, U.S. semiconductor manufacturers in the 1990s concentrated on logic
+devices and “mixed-signal” and other digital signal processor (DSP) components
+for the burgeoning market in computer networking equipment. Strong demand
+for these “design-intensive” components propelled U.S. chipmakers back to mar-
+ket share leadership in the global semiconductor industry by 1993 (See Figure
+1). By 1997, U.S. producers controlled over 50 percent of the total semiconduc-
+tor market, well above the 29 percent held by Japanese ﬁrms. Contradicting the
+predictions of analysts who argued that DRAM production was an indispensable
+“technology driver” for semiconductor manufacturing, U.S. ﬁrms’ enduring mar-
+ket share losses in DRAMs did not prevent this revival in their competitive
+fortunes.
+The post-1990 decline in Japanese ﬁrms’ global market share also
+reﬂected entry by South Korean and Taiwanese ﬁrms into the DRAM market.
+Rather than shifting to logic products, Japanese ﬁrms sought to be technology
+leaders in introducing next-generation DRAM devices. But DRAMs now are
+essentially “commodity” products, and Japan, Taiwan, and South Korea are
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998112
+FIGURE 2. Worldwide Memory Market Share, 1980-1997
+0%
+20%
+40%
+60%
+80%
+19801981
+19821983198419851986
+19871988198919901991
+19921993199419951996
+1997
+Year
+Memory Market Share (%)
+US
+JAPAN
+EUROPE
+RoW
+Source: ICE,“Status A Report on the Integrated Circuit Industry,” 1980-1998.
+Memory Market Share (%)
+Year
+U.S.
+--- PAGE BREAK ---
+=== Page 8 ===
+engaged in a global battle for market share based upon low production costs and
+high yields. As Figure 2 indicates, Japan no longer dominates the memory mar-
+ket as it did in the 1980s, having lost market share to Korean and Taiwanese
+semiconductor ﬁrms (the primary components of the “RoW” category in Figure
+2). Indeed, Japanese ﬁrms no longer are the consistent leaders in the introduc-
+tion of next-generation DRAMs—Samsung has matched industry-leader NEC in
+the introduction and commercial production of 64MB and 256MB DRAMs, and
+it appears to have surpassed NEC in development and prototype fabrication of
+1GB DRAMs.
+13
+Product Quality Measures
+Japanese semiconductor ﬁrms’ dominance of DRAM markets during the
+1980s rested on low prices and high quality. Drawing in many cases on practices
+they had long followed in their other product divisions, Japanese semiconductor
+manufacturers applied Statistical Process Control (SPC), Total Quality Manage-
+ment (TQM) and Total Preventive Maintenance (TPM) to their operations.
+14 This
+resulted in signiﬁcant quality differences between Japanese and U.S. semicon-
+ductor products. Users of U.S. and Japanese devices discovered that Japanese
+memory products had defect rates that were one-half to one-third those of com-
+parable U.S. memory products;
+15 in 1980, leading Japanese memory producers
+averaged 160 defective parts per million (PPM) while U.S. producers averaged
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998 113
+FIGURE 3. Defective Parts per Million (PPM) in U.S. Firms’ Integrated Circuits
+0
+100
+200
+300
+400
+1986 1987 1988 1989 1990 1991 1992
+Year
+Defect PPM
+Source: SIA Quarterly Quality Survey (1992), cited in W. Finan,“Matching Japan in Quality: How the Leading U.S. Semiconductor Firms Caught
+Up With the Best in Japan,” MIT -Japan Working Paper, 1993.
+Defect PPM
+Year
+--- PAGE BREAK ---
+=== Page 9 ===
+780 PPM for the same devices.16 Their skills in managing the development and
+introduction of new process technologies also enabled Japanese semiconductor
+manufacturers to “ramp” output of new products more rapidly than their U.S.
+counterparts. Faster achievement of high production volumes gave Japanese
+ﬁrms advantages in deﬁning product standards for leading-edge memory
+devices, strengthening their market position.
+17
+By the mid-1980s most of the leading U.S. semiconductor ﬁrms recog-
+nized the strategic importance of quality and had initiated quality improvement
+programs. Some U.S. semiconductor ﬁrms devoted considerable effort to learn-
+ing from Japanese ﬁrms, and those with operations in Japan, particularly TI and
+Motorola, were among the ﬁrst to apply Japanese quality management tech-
+niques. Confronted with evidence of improvement in the performance of these
+domestic competitors, other U.S. ﬁrms began to emulate their practices. A sur-
+vey in 1990 by the National Institutes of Standards and Technology (NIST) of 11
+U.S. semiconductor ﬁrms’ quality assurance investments revealed a doubling of
+the share of spending related to quality in the previous ﬁve years.
+18 According to
+industry managers, the formation of SEMATECH also supported more effective
+collaboration between U.S. manufacturers and equipment suppliers on quality
+and reliability problems.
+These and other efforts were associated with a reduction in average 
+defect rates in U.S. semiconductor ﬁrms’ products to less than 400 PPM by 1986,
+according to the Semiconductor Industry Association (SIA), the U.S. semicon-
+ductor manufacturers’ trade group.
+19 Defect rates continued to decline through
+the rest of the decade and by the early 1990s, leading U.S. ﬁrms had matched
+Japanese memory producers’ defect levels at less than 100 PPM (See Figure 3).
+Manufacturing Performance Measures
+In addition to improving product quality, U.S. semiconductor ﬁrms
+strengthened their performance in manufacturing process management. Data
+from the UC Berkeley Competitive Semiconductor Manufacturing (CSM) Pro-
+gram
+20 suggest that U.S. ﬁrms have improved manufacturing “yield” and direct
+labor productivity in some product lines since the early 1990s,21 although they
+still lag behind the best Japanese and other Asian ﬁrms in most of these perfor-
+mance measures. Nevertheless, narrowing this gap in manufacturing
+performance appears to have been sufﬁcient—in combination with U.S. ﬁrms’
+product innovations and strategic repositioning—to improve their competitive
+performance.
+A key measure of semiconductor manufacturing performance is die yield,
+the number of usable die per silicon wafer that emerge from the manufacturing
+process. Die yield is a measure of manufacturing “process quality” that differs 
+in at least one important respect from the product defect data discussed earlier.
+Product defects can be reduced by investments in “end-of-line” inspection,
+which enables producers to discard defective components (or in some cases, 
+to repair defects) after manufacture and before distribution to the market. Our
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998114
+--- PAGE BREAK ---
+=== Page 10 ===
+measure of die yield, however, is not directly affected by such inspection pro-
+cedures. Instead, this yield measure is sensitive to the execution of the numer-
+ous steps involved in the production of a semiconductor component, and its
+improvement reﬂects improved manufacturing methods—in many respects a
+more difﬁcult achievement.
+We present data only for logic products, because we lack a sufﬁcient
+number of observations for U.S.-located, domestically owned memory produc-
+tion capacity to support a comparison of performance in U.S.- and Japanese-
+owned memory production facilities for this period. The CSM data for logic
+devices reveal signiﬁcant improvements in U.S. ﬁrms’ performance during this
+period. U.S. ﬁrms reduced their defect densities from as many as 2.5 fatal defects
+per square centimeter in 1991 to levels comparable with the 1993 performance
+of Japanese fabs by 1994 (See Figure 4).
+22
+Along with Finan, Leachman and Leachman attribute improvements in
+U.S. manufacturing performance to increased use of quality-management tech-
+niques.
+23 Widespread adoption of SPC methodologies by U.S. ﬁrms appears to
+have lowered defect densities and improved die yields. In addition, U.S. ﬁrms
+improved the speed of collection, the reliability, and the accessibility of data on
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998 115
+FIGURE 4. Defect Density in 0.7–0.9 CMOS Logic Processes*
+0
+0.5
+1
+1.5
+2
+2.5
+3
+Jan-91
+Mar-91
+May-91
+Jul-91
+Sep-91
+Nov-91Jan-92Mar-92May-92Jul-92Sep-92Nov-92Jan-93Mar-93May-93Jul-93Sep-93Nov-93Jan-94Mar-94May-94Jul-94Sep-94Nov-94
+Japan
+Taiwan
+USA
+* The ﬁgure reports defect density for CMOS logic processes, the largest single category of MOS manufacturing processes. During the period of
+the sample, CMOS represented more than 90% of MOS technology used in IC manufacturing [Integrated Circuit Engineering Corporation
+(ICE),“Status: A Report on the Integrated Circuit Industry,” 1989-1994]. CMOS is the acronym for Complementary Metal Oxide Semiconductor
+and is a transistor-based circuit or device. MOS refers to the type of transistor that comprises the circuit. Complementary refers to two speciﬁc
+types of transistors that “complement” each other in the circuit in that one can be turned on while the other is turned off.
+Source: R. Leachman and C. Leachman,“National Performance in Semiconductor Manufacturing,” University of California, Berkeley Competitive
+Semiconductor Research Program working paper #CSM-40, 1997.
+Fatal Defects per Sq. Cm.
+U.S.
+--- PAGE BREAK ---
+=== Page 11 ===
+manufacturing performance, all of which enabled rapid identiﬁcation and diag-
+nosis of problems in manufacturing yields. These steps included the use of “end-
+of-line” yield analysis that relies on rapid transmission of data from probe tests
+of wafers to engineers; the increased use of data collection systems that provide
+statistical correlation of in-line data on process steps and lot characteristics with
+end-of-line yield tests; the increased automation of manufacturing process infor-
+mation;
+24 and the improved collection of equipment performance and control
+parameters.
+Other measures of die yield indicate signiﬁcant improvement in U.S.
+semiconductor ﬁrms’ manufacturing performance by the end of the 1980s.
+According to the U.S. General Accounting Ofﬁce, U.S. ﬁrms had fallen behind
+Japanese ﬁrms in “probe yield”
+25 by 1981, but U.S. ﬁrms’ performance in this
+quality measure improved signiﬁcantly during the 1986-1991 period.26 By 1991,
+U.S. manufacturers had narrowed but had not eliminated the gap between their
+performance and that of Japanese manufacturers (See Table 2).
+Although U.S. semiconductor ﬁrms have narrowed the gap with Japanese
+ﬁrms in die yield for some devices, they continue to lag in other areas, such as
+direct labor productivity. The CSM data support comparisons of productivity
+performance among fabs in Europe, Japan, Taiwan, and the United States. Pro-
+ductivity is measured as the number of wafer layers processed per operator per
+day, and captures differences in physical productivity—the value of output per
+worker is not captured by this measure.
+27 As such, differences in the price per
+die on wafers produced in different fabs may partially or entirely offset the
+ﬁnancial consequences of differences in this measure of performance.
+At CMOS logic fabs, U.S. ﬁrms’ direct labor productivity improved during
+the 1991-1994 period, but U.S. ﬁrms still lag behind Taiwanese and Japanese
+ﬁrms (See Figure 5). The importance of scale economies in semiconductor man-
+ufacturing means that the smaller average size of U.S. fabs, relative to those in
+Japan and Taiwan, depresses U.S. ﬁrms’ performance in this comparison.
+28 Nev-
+ertheless, as was noted above, the consequences of these differences in physical
+productivity are mediated by the prices and margins per die in each region’s
+product mix. U.S. ﬁrms have specialized in relatively high-margin products 
+and therefore are somewhat insulated from the ﬁnancial consequences of their
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998116
+TABLE 2. Average Probe Yield: U.S. and Japanese Semiconductor Manufacturers
+Average Probe Yield (%)
+Country 1981 1986 1987 1988 1989 1990 1991
+U.S. 55 60 60 67 74 80 84
+Japan 45 75 79 81 85 89 93
+Source: U.S. General Accounting Ofﬁce,“Federal Research: SEMATECH’s Technological Progress and Proposed R&D Program,”
+July 1992.
+--- PAGE BREAK ---
+=== Page 12 ===
+relatively low physical productivity. However, as and if non-U.S. ﬁrms streng-
+then their capabilities in product innovation and shift their output mix to
+become direct competitors with U.S. ﬁrms in these newer, more design-intensive
+products (see below), the relatively low direct labor productivity of U.S. fabs
+could produce competitive difﬁculties.
+During the late 1980s and 1990s, U.S. ﬁrms also improved their manage-
+ment of the development and introduction of new process technologies into
+high-volume manufacturing.
+29 Increases in the design complexity of semicon-
+ductor devices during the 1980-1997 period made it much more difﬁcult to pre-
+dict the performance of new process steps and equipment through simulation 
+or laboratory-scale experimentation and complicated the “debugging” of new
+process technologies in the manufacturing environment. At the same time,
+intensiﬁed competition in many product lines meant that rapid expansion of the
+output of new products was essential to maximize sales in the increasingly brief
+period prior to entry by competitors. A prolonged period of “learning”—during
+which yields are low and/or product quality is unreliable—reduces proﬁts. The
+difﬁculties associated with new process development and introduction thus have
+grown simultaneously with the competitive and ﬁnancial penalties of a poorly
+managed introduction. Evidence from the CSM study and other sources suggests
+that U.S. ﬁrms were slow to respond to these new realities until forced to do so
+by Japanese competition.
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998 117
+FIGURE 5. Direct Labor Productivity at CMOS Logic Fabs
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Jan-90Apr-90Jul-90Oct-90Jan-91
+Apr-91
+Jul-91
+Oct-91
+Jan-92Apr-92Jul-92Oct-92Jan-93Apr-93Jul-93Oct-93Jan-94Apr-94Jul-94Oct-94Jan-95
+Europe
+Japan
+Taiwan
+USA
+Source: R. Leachman and C. Leachman,“National Performance in Semiconductor Manufacturing,” University of California, Berkeley Competitive
+Semiconductor Research Program working paper #CSM-40, 1997.
+Wafer Layers per Operator per Day
+U.S.
+--- PAGE BREAK ---
+=== Page 13 ===
+There is no single best practice for managing the development and intro-
+duction of new process technologies. Many U.S. ﬁrms have expanded their use
+of “development facilities,” which are similar in many respects to pilot process
+plants in the chemicals industry. These facilities support the development and
+debugging of new process technologies and equipment in an environment that 
+is insulated from the demands of high-volume manufacturing, yet is designed 
+to reproduce as many characteristics of that environment as possible.
+30
+But much more than a development facility is needed for performance
+improvements in process development and introduction. Introducing a radically
+new manufacturing process (for which 75-90 percent of the hundreds of indi-
+vidual steps is new) and attempting to simultaneously begin large-scale produc-
+tion of a new product design with this process is formidable. Many U.S. ﬁrms
+instead introduce incremental advances in manufacturing processes and debug
+these modiﬁed processes on new versions of existing product designs (e.g., a
+smaller version or “shrink” of an established logic or memory chip). This more
+incremental approach to new process development and introduction requires
+close coordination among product design, process development, and equipment
+procurement over multiple generations of existing and new products. 
+Summary: Factors Behind U.S. Decline and Revival
+The performance of the U.S. semiconductor industry during the 1980-
+1997 period reﬂected shifts in both product and process technology manage-
+ment. U.S. ﬁrms proved to be relatively agile—especially by comparison with
+Japanese ﬁrms—in repositioning their product portfolios to emphasize new
+products that were relatively design-intensive. At the same time, however, 
+U.S. ﬁrms improved their manufacturing performance, which enabled them 
+to exploit their long-standing strengths in product innovation more effectively.
+From a position of substantial inferiority in the development and management
+of semiconductor process technologies in the early 1980s, U.S. chipmakers nar-
+rowed the gap between U.S. and Japanese manufacturing capability and produc-
+tivity in some product lines by the early 1990s.
+Both repositioning and improved manufacturing performance almost
+certainly were necessary; neither was sufﬁcient. Improvements in both of these
+dimensions of performance reﬂected improved technology management prac-
+tices, where these practices are deﬁned to include management of process tech-
+nologies on the shop ﬂoor, as well as improvements in the development and
+adoption of new process and product technologies. In addition to these changes
+in their internal management of innovation and production, U.S. ﬁrms
+expanded collaboration among one another, with equipment ﬁrms, and with
+non-U.S. ﬁrms. Finally, the entry of specialized design ﬁrms into the U.S. semi-
+conductor industry signaled the development of new approaches to the organi-
+zation of the innovation process.
+Although U.S. semiconductor ﬁrms’ performance during the 1993-1997
+period has been impressive, it has been aided in part by Japanese and South
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998118
+--- PAGE BREAK ---
+=== Page 14 ===
+Korean semiconductor ﬁrms’ failure to shift their product portfolios away from
+DRAMs to design-intensive components. The 1998 industry downturn, which
+reﬂects the continuing economic problems in Asia and excess capacity in
+DRAMs, may bring new competitors to semiconductor markets that have tradi-
+tionally been dominated by U.S. producers. Indeed, some Taiwanese DRAM
+producers have recently entered product markets led by U.S. semiconductor
+ﬁrms, such as ﬂash memory.
+31 Drawing on their experience in operating
+“foundry” production facilities, other Taiwanese ﬁrms now are able to switch
+from memory to advanced logic components, depending on market conditions.
+The ﬂexibility gives them an advantage over South Korean and Japanese semi-
+conductor ﬁrms, and may foreshadow the development of a formidable future
+challenger to U.S. ﬁrms. 
+Changing T echnology Strategies
+The structure and management of technology and new-product develop-
+ment in the U.S. semiconductor industry has changed since 1980 in ways that
+anticipate similar trends in other U.S. industries. Perhaps the most important of
+these structural changes is increased reliance on collaborative strategies. Collabo-
+ration has been both “vertical” (linking suppliers of equipment with semicon-
+ductor manufacturers) and “horizontal” (linking semiconductor manufacturers
+with one another); it has been both domestic and international; and it has been
+supported by public and by private funds. In addition, collaboration in the semi-
+conductor and other industries (e.g., computer hardware and software, or even
+long-distance trucking and logistics management) has been associated with spe-
+cialization by ﬁrms in different phases of the vertical “value chain” that links
+product development and manufacturing. In semiconductors, as in these other
+industries, collaboration and vertical specialization reﬂect the higher costs and
+risks of new product development and the spiraling costs of new production
+capacity,
+32 as well as the ability of modern information technology to support
+complex, arm’s-length collaborations in product development and
+manufacturing. 
+Producer-Designer Collaboration
+One strategy to reduce ﬁnancial risks that has been adopted by recent
+entrants into the U.S. semiconductor industry is specialization in design. These
+so-called “fabless” semiconductor ﬁrms design semiconductor components, but
+rely on specialized “foundries” for the production of their designs. The fabless
+ﬁrm is largely a North American phenomenon—more than 300 of the world-
+wide population of roughly 500 fabless ﬁrms were located in North America 
+in 1998.
+33 By contrast, most state-of-the-art foundries are located in Asia.34
+Fabless ﬁrms serve a variety of fast-growing industries, especially per-
+sonal computers and telecommunications, and seek to dominate their markets
+by offering more innovative designs and shorter delivery times than merchant
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998 119
+--- PAGE BREAK ---
+=== Page 15 ===
+ﬁrms.35 Constant-dollar industry revenues have grown at an average annual rate
+of 32 percent since 1991, almost twice the average for the global semiconductor
+industry as a whole. The fabless industry’s trade association estimates 1997 fab-
+less industry revenues at $7.8 billion,
+36 and Dataquest forecasts fabless industry
+revenues will grow to $11.7 billion in 2000 and 40% of the world’s chip produc-
+tion by 2010.
+37
+International Collaboration
+U.S., Japanese, and European semiconductor manufacturers have
+increased offshore R&D spending since 1980, but all still perform the majority 
+of ﬁrm-ﬁnanced R&D in their home regions.
+38 During the past 20 years, a num-
+ber of non-U.S. ﬁrms have established R&D facilities in the United States and
+other developed nations outside their home region.
+39 These foreign R&D invest-
+ments are motivated by the same factors that drive U.S. offshore R&D invest-
+ment, although many foreign ﬁrms are especially interested in tracking new
+semiconductor product and process developments in the U.S. market and in 
+U.S. universities.
+Although U.S. semiconductor ﬁrms have not signiﬁcantly expanded 
+their foreign R&D operations, alliances among U.S. and non-U.S. semiconductor
+ﬁrms have grown rapidly since 1980. Indeed, the costs and risks of new-product
+development and production capacity meant that U.S. semiconductor ﬁrms 
+were among the ﬁrst U.S. high-technology ﬁrms to pursue extensive alliances
+with foreign ﬁrms.
+40 Many alliances focus on speciﬁc product or process devel-
+opment projects, and frequently involves some exchange by U.S. ﬁrms of prod-
+uct technology for foreign (often Japanese) expertise in process technology.
+Such partnerships also facilitate access to international markets that are other-
+wise impeded by tariffs or political mechanisms. Many of these international
+collaborative agreements focus on a single product area (e.g., nonvolatile mem-
+ory or microprocessors) and many involve no U.S. partners.
+A number of expert groups have expressed concern over the “export” of
+technology and know-how by U.S. semiconductor ﬁrms to foreign competitors
+through these arrangements,
+41 but most evidence suggests that U.S. ﬁrms have
+reaped considerable technical and commercial beneﬁts from alliances through a
+two-way ﬂow of technology and managerial know-how, including the advanced
+quality manufacturing techniques discussed above. But the growing “interna-
+tionalization” of the R&D process that is implied by these alliances and by other
+forms of international collaboration in the U.S. semiconductor industry, such as
+expanded support for U.S. university research by foreign ﬁrms, raise complex
+questions for public policy in this and other high-technology industries. Simply
+put, formulating and implementing a “national” technology policy requires new
+approaches in industries whose technology development, manufacturing, and
+marketing operations are global in structure and scope.
+42
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998120
+--- PAGE BREAK ---
+=== Page 16 ===
+Domestic Collaboration
+Expanding domestic collaboration, some of which is supported with pub-
+lic funds, has paralleled international collaboration in the semiconductor indus-
+try. Japanese ﬁrms’ growing domination of the global market for semiconductor
+memory chips in the late 1980s contributed to an unusual initiative to streng-
+then U.S. semiconductor ﬁrms’ commercial-device manufacturing capabilities.
+43
+SEMATECH was formed in 1987 by 14 U.S. semiconductor manufacturing ﬁrms
+that together accounted for more than 80 percent of U.S. semiconductor manu-
+facturing capacity,
+44 and was ﬁnanced jointly by member ﬁrms and the federal
+government.45
+SEMATECH’s original objectives—improving member ﬁrms’ semicon-
+ductor manufacturing process technology—underpinned its decision to build a
+large-scale fabrication facility in Austin. However, SEMATECH’s research agenda
+shifted in 1990-1991 to improving the technological capabilities of U.S. sup-
+pliers of semiconductor manufacturing equipment.
+46 SEMATECH focuses on
+“medium-term,” rather than long-term, research, and a 3- to 5-year time hori-
+zon typiﬁes most of its R&D investments.
+The period following the formation of SEMATECH is characterized by
+improvements in U.S. semiconductor manufacturing performance and in the
+market shares of U.S. semiconductor equipment suppliers. It is difﬁcult at best,
+however, to ﬁnd direct cause-and-effect links between SEMATECH’s activities
+and these developments. In the case of semiconductor manufacturing equip-
+ment, for example, a signiﬁcant portion of the improved market share of U.S.
+suppliers reﬂects the decline in Japanese semiconductor ﬁrms’ capital invest-
+ments, which has depressed the growth of equipment demand in a market long
+dominated by Japanese equipment ﬁrms.
+47 Nevertheless, SEMATECH member
+ﬁrms have continued to support and participate in SEMATECH since the cessa-
+tion of federal support, which is a strong signal that industry managers believe
+that the consortium provides important beneﬁts. Although it is the best-known
+example, SEMATECH is by no means the only U.S. collaborative program in
+semiconductor R&D; a number of other programs now are funded jointly by
+industry and federal and state government funds.
+48
+Publicly and privately funded R&D collaboration has expanded signiﬁ-
+cantly within the U.S. semiconductor industry since 1980. The U.S. semicon-
+ductor industry was among the ﬁrst to establish such consortia, and as the
+discussion of SEMATECH suggests, the evaluation of their effects on industry
+performance is difﬁcult. The operation of SEMATECH also points out the com-
+plexities of public funding for technology development by ﬁrms whose opera-
+tions are global in scope. SEMATECH’s defense-related funding and sponsorship,
+along with broader political concerns, led to the exclusion of non-U.S. ﬁrms
+from membership.
+49 Yet many non-U.S. ﬁrms have been able to beneﬁt from
+SEMATECH-supported R&D, either through their purchase from U.S. equip-
+ment vendors of new products that have been improved in SEMATECH pro-
+grams, or through their collaborative relationships with U.S. semiconductor
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998 121
+--- PAGE BREAK ---
+=== Page 17 ===
+manufacturing ﬁrms. As Ham et al. point out, SEMATECH’s most recent initia-
+tive for the development of “next-generation” (300mm wafer-compatible) man-
+ufacturing equipment and methods now enlists a number of non-Japanese
+foreign ﬁrms.
+50
+In the semiconductor and other U.S. high-technology industries, both
+failures and successes are likely in R&D collaboration, and the essential point 
+is to try to capture sufﬁcient knowledge from each to improve performance.
+Collaboration is not a panacea, but it may offer some solutions to the competi-
+tive weaknesses associated with the fragmented industry structure cited by the
+MIT Commission. At the same time, however, collaboration thus far has not
+addressed another weakness in this industry mentioned by the MIT Commission
+and other analyses—insufﬁcient industrial investment in long-term research.
+Who Will Fund and Perform Basic Research?
+However useful, collaborative R&D in the U.S. semiconductor industry
+has supported little long-term industrial research. The large U.S. corporate
+laboratories of the 1950s and 1960s, most notably those of AT&T, GE, and IBM
+performed much of the fundamental research that underlies modern semicon-
+ductor technology. Those laboratories now focus on near-term corporate goals
+and applied research, and no U.S. organization has emerged to fund the basic
+research needed for the future. Federally funded R&D in the U.S. semiconductor
+industry, most of which was funded by the Defense Department and related
+agencies, has declined from nearly 25% of total R&D spending in the industry
+(imperfectly deﬁned in this case as SIC 367, “electronic components”) in 1980 
+to slightly less than 7% in 1992.
+51 Defense-related federal R&D funding is likely
+to continue to decline in the aftermath of the Cold War.
+Although the leading U.S. merchant semiconductor ﬁrms (such as Intel,
+TI, Micron, and AMD) spend 10-15 percent of revenues on R&D, the bulk of
+these expenditures focus on new product development. Intel has announced its
+intention to expand its long-term research program, but few other semiconduc-
+tor manufacturing ﬁrms conduct much R&D beyond development of next-gen-
+eration products. None of the new leaders in digital communications perform
+any fundamental research or maintain much internal semiconductor R&D,
+instead focusing their efforts on the development and marketing of next-
+generation semiconductor products.
+The U.S. semiconductor industry is not alone in its low levels of invest-
+ment in long-term R&D. Data from the National Science Foundation suggest
+that U.S. ﬁrms overall have reduced their constant-dollar funding of basic
+research, while increasing investment in development, during the 1991-1995
+period. But the challenges for U.S. semiconductor ﬁrms in this area are particu-
+larly signiﬁcant, since major non-U.S. semiconductor manufacturers—such as
+NEC, Hitachi, Toshiba, Philips, and Siemens, most of which are larger and far
+more diversiﬁed than U.S. merchant semiconductor ﬁrms—still conduct consid-
+erable long-range R&D.
+52 Despite these apparent advantages over their smaller
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998122
+--- PAGE BREAK ---
+=== Page 18 ===
+U.S. merchant and fabless competitors, these large, diversiﬁed foreign ﬁrms thus
+far have been relatively slow or ineffective in exploiting new opportunities for
+innovative products. Nevertheless, they could re-emerge as formidable competi-
+tors in product lines in which the pace of innovation has slowed or assumed a
+more incremental and capital-intensive character, as was the case in DRAMs
+during the 1980s. 
+The Role of Nontechnological Factors 
+in the U.S. Industry’s Revival
+The performance of the U.S. semiconductor industry during the 1980-
+1997 period was inﬂuenced by an array of other public policies, such as federal
+trade and antitrust policies that affected all U.S. industries. Indeed, the U.S.
+semiconductor industry’s competitive crisis of the 1980s was widely cited as an
+illustration of the failure of both government policies and other economic fac-
+tors, such as the environment for capital formation, to support competitive high-
+technology industries in the United States. A number of broad policies that
+affected all U.S. industries were adopted during the 1980s in part because of
+their perceived importance to the semiconductor industry and because of the
+belief by policymakers and others that the semiconductor industry’s difﬁculties
+were representative of those faced by other U.S. industries. The development by
+the U.S. semiconductor industry of an inﬂuential political voice in the Semicon-
+ductor Industry Association (SIA) also played an important role in changes in
+U.S. government policy. As such, some assessment of the inﬂuence of these
+“nontechnological factors”—which we deﬁne to include new public policies—
+on this industry’s competitive revival is important for what it reveals about the
+sources of this revival in semiconductors and its implications for evaluation of
+these factors’ inﬂuence in other industries. This section discusses the contribu-
+tions to the U.S. semiconductor industry’s improved performance since 1980 of
+the domestic environment for capital formation, as well as the changes in federal
+antitrust, trade, and intellectual-rights protection policies implemented during
+this period.
+Capital Formation
+A recurrent theme in debates and analyses of the competitive difﬁculties
+of the U.S. semiconductor and other industries during the 1980s and 1990s has
+been the asserted high cost of capital for industrial investment. A corollary cri-
+tique emphasizes the lack of “patient” capital, and the resulting myopic invest-
+ment behavior of U.S. high-technology ﬁrms. A number of changes in federal
+tax policy, including the R&D tax credit and reductions in capital-gains taxation,
+have been justiﬁed in terms of their contributions to capital formation in U.S.
+industry. What role has capital formation played in the fall and rise of the U.S.
+semiconductor industry?
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998 123
+--- PAGE BREAK ---
+=== Page 19 ===
+Any discussion of the cost and availability of capital in competitive perfor-
+mance within this industry confronts a paradox. On the one hand, this issue is
+important in some segments of the industry, where the costs of a single com-
+mercial-scale production facility signiﬁcantly exceed $1 billion. Indeed, as noted
+earlier, U.S. ﬁrms faced signiﬁcant handicaps in the DRAM “capacity races” that
+developed in the early 1980s.
+On the other hand, capital expenditures by U.S. merchant semiconductor
+producers amounted to more than $14 billion in 1996 and $13 billion in 1997.
+53
+Investments of this size suggest that constraints on the supply of capital to U.S.
+ﬁrms are scarcely binding. Moreover, the U.S. semiconductor industry has an
+abundant supply of venture capital, which has supported the foundation of liter-
+ally hundreds of semiconductor ﬁrms since this industry’s inception four decades
+ago. The data in Figure 6 suggest that this high “birthrate,” which has contrib-
+uted signiﬁcantly to the industry’s technological dynamism, show few signs of
+declining. The recent competitive performance of the large ﬁrms active in both
+the Japanese and South Korean semiconductor industries, especially those spe-
+cializing in DRAMs, suggests that an excess of inexpensive capital for investment
+in physical plant and equipment may lead to poorer performance. In both of
+these nations’ semiconductor industries, low-cost capital has been associated
+with over-investment in production capacity for commodity products that yield
+low proﬁts.
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998124
+FIGURE 6. Formation of New U.S. Semiconductor Firms
+0
+5
+10
+15
+20
+25
+1980-82 1983-85 1986-88 1989-91 1992-94
+Year
+Number
+Source: FSA,Fabless Forum, 2/1 (1995).
+Number
+Year
+--- PAGE BREAK ---
+=== Page 20 ===
+Although there are few reliable estimates of the risk-adjusted cost of cap-
+ital in the U.S., Japanese, South Korean, and other semiconductor industries,
+U.S. ﬁrms may well face a higher cost of capital. Nevertheless, any such cost
+differential has not deterred the formation of new U.S. ﬁrms, nor has it deterred
+large-scale capital investments by U.S. ﬁrms that have developed successful com-
+petitive strategies that rely on their strengths in product design and innovation.
+For established U.S. semiconductor ﬁrms, competitive success appears to lead to
+abundant capital for investment in plant and equipment, rather than vice versa.
+A higher cost of capital may contribute to the low level of investment in long-
+term, basic research by many U.S. semiconductor ﬁrms. Nevertheless, given the
+competitive realities of this industry, especially the short product cycles and high
+costs of R&D for maintaining near-term competitiveness, the risk-adjusted cost
+of capital would have to be very low indeed to produce higher levels of such
+investment.
+Trade Policy
+Yet another policy experiment whose political currency and feasibility
+were advanced signiﬁcantly by the competitive crisis of the U.S. semiconductor
+industry during the 1980s was “managed trade”—bilateral policies and negotia-
+tions pursued by the U.S. government that sought to go beyond specifying the
+“rules of the game” to focus more explicitly on trade outcomes. Among the most
+widely publicized and discussed initiatives was the U.S.-Japan Semiconductor
+Trade Agreement of 1986, which responded to accusations by U.S. ﬁrms that
+Japanese DRAM producers were “dumping” their products in the U.S. market.
+54
+By preventing the imposition of heavy antidumping duties on U.S. imports of
+DRAMs, the Agreement sought to avoid a policy that would drive up the domes-
+tic prices of components that were essential to U.S. manufacturers of electronic
+systems, creating strong incentives for them to shift production to foreign loca-
+tions. A system of “fair market value” prices for DRAMs was created under the
+terms of the Agreement that was intended to prevent dumping in the U.S. and
+third-country markets. The Agreement also included an “understanding” that
+foreign-sourced components would achieve a 20 percent share of the Japanese
+domestic market within ﬁve years. An extension of the Agreement in 1991
+retained the market share language but dropped the price-monitoring system.
+Although the Agreement was negotiated in response to the competitive
+crisis facing U.S. producers of DRAMs, its effects on these ﬁrms’ activities in
+DRAM production were limited. Most of the major U.S. DRAM producers had
+exited from this product line by 1985, well before the Agreement was ﬁnal-
+ized.
+55 The Agreement’s price ﬂoors and the associated implementation by MITI
+of controls on production and capacity investment by Japanese DRAM produc-
+ers, however, had several interesting effects, few of which directly beneﬁted U.S.
+semiconductor manufacturers or were foreseen in 1986.
+56 Higher prices for
+DRAMs provided an opportunity for South Korean ﬁrms to expand their pro-
+duction of these devices, sowing the seeds for more intense competition in this
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998 125
+--- PAGE BREAK ---
+=== Page 21 ===
+product line in the future. Flamm argues similar restrictions on production of
+erasable programmable memory chips (EPROMs) reduced Japanese exports of
+these devices and enabled U.S. producers of EPROMs to remain in this product
+line.
+57
+Although the Semiconductor Trade Agreement may have provided some
+beneﬁts to U.S. EPROM producers, the effects of its pricing provisions seem to
+have had little effect on the overall U.S. industry. These provisions did not
+attract U.S. manufacturers back into DRAM production and imposed heavy
+short-term costs on major U.S. consumers of DRAMs. The market-share pro-
+visions of the 1986 and 1991 Agreements, however, were eventually followed 
+by a signiﬁcant increase in U.S. semiconductor manufacturers’ market share 
+in Japan, and the Agreement is viewed as a key factor in expanded Japanese
+imports of foreign components.
+58 The Agreement’s market-share provisions thus
+contributed to the revival of U.S. semiconductor ﬁrms after 1990, but the timing
+of this revival is such that the lack of an import target would not have prevented
+the U.S. industry’s recovery, which was well underway by 1990. 
+Antitrust Policy
+The competitive crises of the semiconductor and other U.S. industries
+contributed to a far-reaching shift in U.S. antitrust statutes and enforcement
+policy in the 1980s. Despite (or possibly, because of) the historical inﬂuence of
+antitrust policy on the semiconductor industry’s development,
+59 U.S. antitrust
+policy was widely criticized in the late 1970s for discouraging R&D collaboration
+in this and other industries. The U.S. Justice Department issued guidelines in
+1980 that were intended to clarify the antitrust statutes and the Department’s
+enforcement philosophy toward R&D collaboration in order to remove impedi-
+ments to such collaborative undertakings. Nevertheless, continuing industry and
+Congressional dissatisfaction resulted in the 1984 passage of the National Coop-
+erative Research Act (NCRA), and Justice Department enforcement of antitrust
+statutes was relaxed somewhat to account for the importance of non-U.S. mar-
+kets, non-U.S. producers, and the beneﬁts of innovation in determining the costs
+and beneﬁts of market power in the U.S. semiconductor and other industries.
+The NCRA is credited with facilitating the formation of SEMATECH, among
+other industry-wide collaborations; the Act was amended in 1993 to extend its
+coverage to joint production ventures.
+An evaluation of the “real” effects of the NCRA and the broader shift 
+in antitrust enforcement policy on the U.S. semiconductor industry’s decline 
+and revival is difﬁcult without some clearer speciﬁcation of the counterfactual:
+Would SEMATECH have been formed without the NCRA? Has R&D collabo-
+ration contributed to increased market power and/or poorer industry perform-
+ance? Given the size of the ﬁrms that joined together to create SEMATECH 
+and the sustained acquaintance of several of them with the federal antitrust
+authorities, the legislative endorsement of R&D collaboration under the terms 
+of the NCRA almost certainly did aid in the creation of this consortium. The
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998126
+--- PAGE BREAK ---
+=== Page 22 ===
+semiconductor industry’s performance suggests that R&D collaboration need not
+result in cartelization and a weakening of competitive forces, although the large
+share of the U.S. semiconductor equipment market represented by SEMATECH
+member ﬁrms means that this consortium’s vertical relationships deserve contin-
+ued monitoring. Indeed, collaboration may provide one mechanism for combin-
+ing the beneﬁts of the U.S. industry’s atomized structure and technological
+dynamism with those ﬂowing from closer user-supplier relationships. Neverthe-
+less, very few production joint ventures have been formed since the passage of
+the 1993 amendments to the NCRA, suggesting that this policy shift thus far has
+had little effect.
+Intellectual Property Rights
+A ﬁnal area of major policy change since 1980 that has affected the U.S.
+semiconductor and other industries is intellectual property rights. Shifts in U.S.
+policy toward intellectual property rights began with the 1982 legislation that
+established the Court of Appeals for the Federal Circuit (CAFC), which strength-
+ened the protection granted to patentholders.
+60 The U.S. government also pur-
+sued stronger international protection for intellectual property rights in the
+Uruguay Round trade negotiations and in bilateral venues.
+In addition to these shifts in federal policy affecting all U.S. industries, the
+Semiconductor Chip Protection Act (SCPA) of 1984 established protection for
+the design or “mask work” used in semiconductor manufacturing.
+61 Although it
+is an interesting experiment in sui generis protection of new forms of intellectual
+property, the SCPA’s economic signiﬁcance appears to be limited—only one case
+has ever been litigated under its provisions.
+62 The SCPA’s unanticipated insigniﬁ-
+cance appears to be one result of the increasing complexity of manufacturing
+process technologies in the semiconductor industry. Copies of a device design
+and maskwork are necessary, but by no means sufﬁcient, to enable large-scale
+production of infringing products.
+63 As a result, semiconductor ﬁrms during the
+1980s and 1990s continue to rely on trade secrets and patents, the value of
+which has been highlighted by the policy shifts noted above.
+64
+The SCPA nevertheless may play an important, albeit unintended, eco-
+nomic role in the fabless segment of the U.S. semiconductor industry. In order 
+to maintain short design cycles, fabless ﬁrms must extensively reuse design data,
+“porting” designs from one product to another or contracting with another ﬁrm
+for all or some part of the design. Reusable design components are generally
+referred to as “intellectual property (IP) blocks,” and protection for these “IP
+blocks” under the SCPA facilitates the licensing process. The growth of licensing
+of IP blocks has supported further specialization by some design ﬁrms in speciﬁc
+components of overall device designs.  These “virtual companies” operate by
+licensing their proprietary designs and architectures to other semiconductor
+ﬁrms that produce an integrated design, contract with a foundry, and (in many
+cases) market the ﬁnal product.
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998 127
+--- PAGE BREAK ---
+=== Page 23 ===
+The broader shift of federal policy toward stronger enforcement of patent-
+holder rights has been associated with a dramatic increase in patenting and
+licensing among integrated semiconductor manufacturers in the U.S. industry.
+65
+Licensing has become an important component of proﬁts for some leading man-
+ufacturers. The royalty income of Texas Instruments (TI) grew from roughly
+$200 million in 1987 to more than $600 million in 1995, but has decreased 
+since the expiration of several key patents.
+66 Other ﬁrms, such as Intel, IBM, 
+and AT&T, now rely on licensing to generate revenues and protect product and
+process technologies.
+The historic strengths of U.S. ﬁrms in product design and rapid innova-
+tion should be reinforced by stronger enforcement of patents and trade secrets.
+The distribution of these beneﬁts within the industry, however, is less clear.
+Stronger intellectual property protection appears to have beneﬁted established
+ﬁrms. Intel’s strong position in its microprocessor product line relies in large part
+on the ﬁrm’s intellectual property rights. Another historic strength of the U.S.
+industry, however, is the ease with which new ﬁrms can enter. The effects of
+stronger intellectual property rights on rates of new-ﬁrm formation and entry
+are less clear. On the one hand, new ﬁrms with strong patent positions often
+ﬁnd it much easier to attract ﬁnancing. On the other hand, the costs (in terms of
+litigation and patent prosecution expenses) of establishing such a patent position
+are very high. The empirical evidence on the social beneﬁts from stronger intel-
+lectual property protection is thin and equivocal. In the semiconductor industry,
+as in others, the U.S. is conducting an experiment in the effects of stronger intel-
+lectual property protection, and the implications of these new policies for long-
+term industry performance are surprisingly uncertain.
+Summary
+Based on the experiences of the U.S. semiconductor industry, a tentative
+assessment of the inﬂuence of these factors on the competitive revival of U.S.
+industry since the 1980s would conclude that their inﬂuence has been modest
+but broadly positive. Certainly, this assessment provides little support for the
+argument that U.S. industry was or is starved for “patient capital,” while it sug-
+gests that managed trade policies can open markets rather than restrict U.S.
+imports. Finally, the effects of the far-reaching changes in U.S. antitrust and
+intellectual property rights policies instituted during the past 18 years are only
+gradually being felt and remain uncertain.
+Conclusion
+Forecasts of the impending demise of the U.S. semiconductor indus-
+try in the late 1980s were considerably overstated. After declining through 
+much of the 1980s, U.S. semiconductor ﬁrms undertook corrective actions on
+several fronts. They exited from product lines in which their historic skills at
+product innovation provided limited competitive advantage and their foreign
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998128
+--- PAGE BREAK ---
+=== Page 24 ===
+competitors’ superior access to capital made long-term competition difﬁcult. 
+U.S. ﬁrms also improved their product quality and enhanced their manufactur-
+ing performance, narrowing the gaps between them and foreign competitors,
+rather than moving ahead. The results of these steps have been dramatic. The
+U.S. semiconductor industry has regained its formerly dominant global market
+share, and the ﬁnancial performance of U.S. semiconductor manufacturers now
+outstrips that of their South Korean and Japanese competitors. Moreover, the
+revival of the U.S. semiconductor manufacturing industry has reinvigorated the
+U.S. semiconductor equipment industry. Simultaneously, the South Korean and
+Japanese ﬁrms that specialize in the production of DRAMs are experiencing
+serious ﬁnancial losses.
+In many respects, the revival of the U.S. semiconductor industry relied 
+on the elements of its structure that were criticized in the 1989 report of the MIT
+Commission on Industrial Productivity. The structure of the U.S. semiconductor
+manufacturing industry remains very different from that of the Western Euro-
+pean or Japanese industries, although the emergent Taiwanese semiconductor
+industry is based on the U.S. model and still bears a passing resemblance to it.
+Populated by numerous, relatively small (by comparison with foreign competi-
+tors), highly innovative ﬁrms and exposed to competition by new entrants pur-
+suing new product opportunities and new approaches to the semiconductor
+business, the U.S. industry remains adept at product innovation and rapid strat-
+egic repositioning. In addition, U.S. ﬁrms have relied on collaboration among
+semiconductor manufacturers—and between manufacturing ﬁrms and suppliers
+of equipment—to improve their manufacturing performance. The links between
+the collaborative initiatives of the 1980s and 1990s and the industry’s improved
+performance remain elusive, however, and further research on these issues is
+essential if the current strengths of U.S. manufacturers and equipment producers
+are to be maintained.
+Although the MIT Commission’s overall prognosis of the industry’s future
+was inaccurate, its analysis of the U.S. industry’s weaknesses in manufacturing
+and long-term R&D investment highlighted other issues that could lead to future
+competitive difﬁculties. The very best U.S. semiconductor manufacturers appear
+to be capable of matching the yield and productivity of the best non-U.S. pro-
+ducers, but there is little evidence of consistently superior U.S. manufacturing
+performance. As a result, U.S. ﬁrms are likely to do best in periods of rapid prod-
+uct innovation, especially because of their ability to exploit their presence in one
+of the world’s most dynamic markets for applications of new products that use
+semiconductor components. But U.S. ﬁrms may have trouble competing on the
+basis of their manufacturing skills alone and therefore are likely to face chal-
+lenges in future periods where they and foreign competitors are pursuing simi-
+larly incremental innovations within a well-deﬁned technological “trajectory.”
+The U.S. industry structure is enormously effective in exploiting scientiﬁc
+advances for rapid commercialization, but may under-invest in the basic
+research supporting these advances.
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998 129
+--- PAGE BREAK ---
+=== Page 25 ===
+During the 1980s, the semiconductor industry was almost without equal
+(steel and automobiles are among the few that approach its salience) in the
+amount of attention devoted to its welfare and competitive prospects by federal
+policymakers. As pointed out above, many of the policy initiatives that sought to
+respond to this industry’s difﬁculties have had signiﬁcant economy-wide effects.
+Nevertheless, the federal policies that sought to target semiconductors in partic-
+ular avoided a number of alternatives that would have been far more detrimen-
+tal for the industry’s competitive prospects. For example, consider the costs and
+consequences of a public-private venture like U.S. Memories (which specializes
+in DRAMs), during the 1990s. Policymakers and industry managers might well
+have faced some very unpleasant choices between erecting trade barriers against
+competing imports or allowing this venture to slide into insolvency. The pro-
+posal of the National Advisory Commission on Semiconductors for a govern-
+ment-backed Consumer Electronics Capital Corporation—which would have
+been charged with ﬁnancing the revival of a U.S. industry to consume the prod-
+ucts of the domestic semiconductor industry—experienced an even more rapid
+and fortuitous demise. In hindsight, the avoidance by federal policymakers in
+the Executive and Congressional branches of government of programs that
+would involve the support with public funds of speciﬁc designs of commercial
+products was wise and was consistent with well-established principles of tech-
+nology policy.
+The complex history of the U.S. semiconductor industry’s fall and rise
+since 1980 illustrates another very important point that both industry managers
+and public policymakers need to consider carefully. In hindsight, it seems clear
+that many of the diagnoses of this industry’s competitive weaknesses and
+strengths during the 1980s were misguided. As Rosenberg,
+67 among others, has
+pointed out, the process of technological innovation is fraught with fundamental
+uncertainties, and these uncertainties characterize many other aspects of the
+environment and outlook within high-technology industries. Regardless of the
+quality or quantity of data, the rapid pace of technological and market-driven
+change in these industries means that the “signal-to-noise” ratio in these indica-
+tors is likely to be quite low, creating abundant opportunities for costly or coun-
+terproductive responses. Over-commitment to any speciﬁc commercial vision of
+the future of an industry is no less hazardous to policymakers than to industry
+managers in such surroundings.
+Finally, given its status as a key source of evidence for all sides in the
+“industrial competitiveness” debates of the 1980s and 1990s, what does the
+improved performance of the U.S. semiconductor industry suggest for the analy-
+sis of competitive trends in other U.S. industries? The U.S. semiconductor indus-
+try shares a common set of strengths and weaknesses with a number of other
+U.S. high-technology industries. In industries ranging from biotechnology to
+pharmaceuticals and computer software, U.S. competitive strength (or revival)
+has relied on:
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998130
+--- PAGE BREAK ---
+=== Page 26 ===
+▪ substantial federal investments in R&D, especially in fundamental
+research in academia and industry, rather than in federal laboratories;
+▪ the enormous, uniﬁed U.S. domestic market, which provides a large,
+demanding group of users for new products and processes and supports 
+a robust ﬂow of new technologies among different industrial sectors;
+▪ a system of corporate ﬁnance and governance that supports the formation
+and entry of numerous new ﬁrms to experiment (and frequently, to fail)
+in the exploitation of new commercial products;
+▪ federal trade, antitrust, and intellectual property rights policies that tend
+to favor competition among ﬁrms and open markets; and
+▪ particularly since the early 1990s, ﬁscal and monetary policies that pro-
+mote economic stability, low interest rates, and low inﬂation.
+These factors were ignored or downplayed in much of the most critical
+assessment of U.S. competitiveness of the 1980s, which was inﬂuenced heavily
+by the performance of Japanese industry during that decade. Some, but by no
+means all, of the policy shifts inspired by the semiconductor industry’s competi-
+tive difﬁculties are consistent with these elements. Furthermore, the industry’s
+crisis failed to produce any political consensus on one of the most important of
+these factors: the role and appropriate structure for the federal R&D infrastruc-
+ture in a post-Cold War world.
+The resurgence of the U.S. semiconductor industry is an impressive feat,
+for which government policymakers and industry managers, engineers, and
+researchers should share credit. But the unexpected nature of this revival, its
+complex causes, the contributions to it of cyclical factors, and the fragility of its
+foundation all suggest that competitive strength in this industry cannot be taken
+for granted. Indeed, some foreign producers, notably Taiwanese semiconductor
+ﬁrms, now are entering markets traditionally dominated by U.S. producers, a
+development that will intensify pressure on U.S. ﬁrms and increase the impor-
+tance of manufacturing performance for competitive leadership. In other words,
+U.S. semiconductor ﬁrms must maintain their strategic agility and strength in
+product innovation while avoiding signiﬁcant erosion in their manufacturing
+capabilities in order to maintain their strength. This task will require imagination
+and collaboration among government, industry, and academia.
+Notes
+1. A representative comment was that of the MIT Commission on Industrial Pro-
+ductivity: “The traditional structure and institutions of the U.S. [semiconductor]
+industry appear to be inappropriate for meeting the challenge of the much
+stronger and better-organized Japanese competition… The technological edge 
+that once enabled innovative American companies to excel despite their lack of
+ﬁnancial and market clout has disappeared, and the Japanese have gained the
+lead.” MIT Commission on Industrial Productivity. Working Papers of the Com-
+mission on Industrial Productivity, two volumes (Cambridge, MA: MIT Press,
+1989), p. 261.
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998 131
+--- PAGE BREAK ---
+=== Page 27 ===
+2. Microcomponents include microprocessors, microcontrollers, DSP devices, and
+microperipheral devices.
+3. These ﬁrms are called “fabless” semiconductor ﬁrms, as they design new micro-
+electronic products but subcontract out the manufacture of these products to
+other ﬁrms (“foundries”) specialized in wafer fabrication.
+4. See, for example, R. Florida and M. Kenney, “Silicon Valley and Route 128 Won’t
+Save Us,” California Management Review, 33/1 (Fall 1990): 68-88.
+5. The SEmiconductor MAnufacturing TECHnology (SEMATECH) consortium was
+created in 1987 to develop semiconductor manufacturing technology, using a
+combination of industry and federal government funding (see below).
+6. J. Tilton, International Diffusion of Technology: The Case of Semiconductors (Washington,
+D.C.: Brookings Institute, 1971), p. 61; E. Braun and S. MacDonald, Revolution in
+Miniature: The History and Impact of Semiconductor Electronics (Cambridge: Cambridge
+University Press, 1978), p. 113.
+7. Integrated Circuit Engineering Corporation (ICE), “Status: A Report on the Inte-
+grated Circuit Industry,” Integrated Circuit Engineering, 1976-1998.
+8. Merchant semiconductor ﬁrms sell most of their production on the open market,
+in contrast to captive semiconductor ﬁrms who produce semiconductor devices
+principally for internal “parent” systems divisions.
+9. Moore’s Law was articulated in 1965 by Dr. Gordon Moore, one of the founders of
+Intel, who pointed out that the number of transistors integrated on semiconductor
+devices tend to double every 18 months.
+10. Integrated Circuit Engineering Corporation (ICE), “Status: A Report on the Inte-
+grated Circuit Industry,” Integrated Circuit Engineering, 1980.
+11. Integrated Circuit Engineering Corporation (ICE), “Status: A Report on the Inte-
+grated Circuit Industry,” Integrated Circuit Engineering, 1981-1991.
+12. Integrated Circuit Engineering Corporation (ICE), “Status: A Report on the Inte-
+grated Circuit Industry,” Integrated Circuit Engineering, 1976-1991.
+13. Integrated Circuit Engineering Corporation (ICE), “Status: A Report on the Inte-
+grated Circuit Industry,” Integrated Circuit Engineering, 1998.
+14. See W. Finan, “Matching Japan in Quality: How the Leading U.S. Semiconductor
+Firms Caught Up With the Best in Japan,” MIT-Japan Working Paper, 1993.
+15. C.A. Barron, “Microelectronics Survey: All That Is Electronic Does Not Glitter,”
+Economist, March 1, 1980, pp. 3-4.
+16. Finan, op. cit.
+17. Ibid.
+18. Ibid. Finan measures this increased spending on product quality as a doubling in
+the share of total ﬁrm expenses (operating, R&D, and capital outlays) devoted to
+quality improvement programs.
+19. Ibid.
+20. This multi-year research effort is a joint project of the College of Engineering, the
+Haas School of Business, and the Berkeley Roundtable on the International Econ-
+omy at U.C. Berkeley. The Alfred P. Sloan Foundation and semiconductor produc-
+ers from Asia, Europe and the United States have supported the project. Program
+directors are Dave Hodges and Robert Leachman of U.C. Berkeley’s College of
+Engineering.
+21. In a CSM working paper, Robert Leachman and Chien Leachman report fab per-
+formance in logic and memory devices for sub-micron CMOS processes using
+eight different performance metrics. National statistics are tabulated based upon
+fab location, rather than the nationality of the owner ﬁrm, but the data reported
+here contain no “transplants.” The next several paragraphs draw on Leachman
+and Leachman, and the interested reader is referred to their paper for a more
+thorough discussion. R. Leachman and C. Leachman, “National Performance in
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998132
+--- PAGE BREAK ---
+=== Page 28 ===
+Semiconductor Manufacturing,” University of California, Berkeley Competitive
+Semiconductor Research Program working paper #CSM-40, 1997.
+22. Japanese defect density data for logic products are available only for 1993, but
+during this period, their defect densities are far lower than those are for U.S. or
+other ﬁrms.
+23. Leachman and Leachman, op. cit.
+24. Such as “downloading” of recipes for speciﬁc device types to operators, helping to
+reduce errors.
+25. Probe yield is the percentage of good die on a silicon wafer after the last electrical
+test for functionality before semiconductor devices are cut from the wafer, pack-
+aged, and assembled. It is similar to defect density, although it does not control for
+variation in die size.
+26. The GAO study cited unpublished data from VLSI Research in this assessment.
+U.S. General Accounting Ofﬁce, “Federal Research: SEMATECH’s Technological
+Progress and Proposed R&D Program,” July 1992.
+27. Signiﬁcant differences within the sample in fab organization and relationships
+with other corporate functions, such as R&D, process development, and the like
+mean that the amount of “indirect” labor, i.e., engineering and management 
+staff, is likely to vary among fabs in this sample. “Direct” labor productivity 
+should reduce the inﬂuence of these differences in the comparison of fab-level
+productivity.
+28. Leachman and Leachman, op. cit.
+29. For further discussion of these issues, see N.W. Hatch and D.C. Mowery, “Process
+Innovation and Learning by Doing in Semiconductor Manufacturing,” Manage-
+ment Science (forthcoming 1998); M.M. Appleyard, N. Hatch, and D.C. Mowery,
+“Managing New Process Introduction in the Semiconductor Industry,” in G. Dosi,
+R. Nelson, and S. Winter, eds., Corporate Capabilities and Competitiveness (London:
+Pinter, forthcoming).
+30. Intel’s integrated process development facility in northwest Oregon dramatically
+improved manufacturing yields from roughly 50% in the 1980s to nearly 90% 
+by the mid-1990s, and it accelerated the “ramping” of production of new device
+designs. R.C. Cole, Managing Quality Fads: How American Business Learned to Play the
+Quality Game (New York, NY: Oxford University Press, 1998).
+31. D. Takahashi, “Chip Makers Enter Slump; Sales Fall 13%,” Wall Street Journal, July
+6, 1998.
+32. Modern chip facilities now cost more than $1 billion per plant, and many semi-
+conductor ﬁrms have found it impossible to invest in new products or manufac-
+turing capacity without some arrangement for risk-sharing.
+33. The estimate of North American fabless ﬁrms was provided by the Fabless Semi-
+conductor Association’s Fabless Forum, 5/2 (July 1998). The estimate of the world-
+wide population of fabless ﬁrms was provided by the FSA through personal
+communication on August 1, 1998.
+34. Major “pure-play foundries” include TSMC and UMC (both Taiwan), Chartered
+Semiconductor (Singapore) and Tower Semiconductor (Israel). New pure-play
+foundries include Anam (a Korean startup) and WSMC (a Taiwanese startup). The
+prevalence of Southeast Asian pure-play foundries is subsiding as merchant semi-
+conductor producers from all nations are converting older facilities or dedicating
+entirely new facilities to provide foundry services to this industry. IBM Microelec-
+tronics (US), LG Semicon (Korea), Samsung (Korea), Winbond (Taiwan) and VLSI
+(US) are notable examples.
+35. Access by fabless ﬁrms to foundry capacity was aided by rise to dominance of
+Metal-Oxide Semiconductor (MOS) manufacturing processes, which effectively
+standardized manufacturing technologies for commercial semiconductor devices.
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998 133
+--- PAGE BREAK ---
+=== Page 29 ===
+The diffusion of MOS production technology facilitated the division of labor
+between device designers in fabless ﬁrms, who were able to operate within rela-
+tively stable design rules, and foundries, who were able to incrementally improve
+their process technologies to accommodate a succession of new device designs.
+36. Fabless Semiconductor Association, “State of the Fabless Business Model,” mimeo,
+September 1997.
+37. Semiconductor Business News, “Foundries May Build 40% of World’s Chips by
+2010,” 1998.
+38. Examples of departures from this pattern by U.S. ﬁrms are long-established, rela-
+tively small R&D organizations maintained for ten to thirty years by TI in Bedford,
+England, by IBM in Zurich and Tokyo, by Motorola in Hong Kong, and by Intel in
+Israel.
+39. Philips, Siemens, NEC Hitachi, and Fujitsu are examples.
+40. See W. Steinmueller, “Industry Structure and Government Policies in the U.S. 
+and Japanese Integrated-Circuit Industries,” in J.B. Shoven, ed., Government Policy
+Towards Industry in the United States and Japan (Cambridge: Cambridge University
+Press, 1988).
+41. See National Research Council, Committee on Japan, U.S.-Japan Strategic Alliances
+in the Semiconductor Industry: Technology Transfer, Competition, and Public Policy(Wash-
+ington, D.C.: National Academy Press, 1992).
+42. See R.M. Ham and D.C. Mowery, “Improving the Effectiveness of Public-Private
+R&D Collaboration: Case Studies at a U.S. Weapons Laboratory,” Research Policy,
+26/6 (February 1998): 661-675.
+43. This discussion of SEMATECH draws on P. Grindley, D.C. Mowery, and B. Silver-
+man, “SEMATECH and Collaborative Research: Lessons in the Design of High-
+Technology Consortia,” Journal of Policy Analysis and Management. (1994).
+44. SEMATECH’s founders included the following ﬁrms: Advanced Micro Devices;
+AT&T; Digital Equipment Corporation, Harris Corporation, Hewlett-Packard Com-
+pany, Intel Corporation, IBM, LSI Logic, Micron Technology, Motorola, National
+Semiconductor, NCR, Rockwell International, and Texas Instruments. Three of the
+founding members of SEMATECH (Harris Semiconductor, LSI Logic, and Micron)
+left the consortium in 1991.
+45. SEMATECH’s federal funding ceased in 1996.
+46. (Katz and Ordover, 1990; U.S. Congressional Budget Ofﬁce, 1990) M.L. Katz and
+J.A. Ordover, “R&D Cooperation and Competition,” Brookings Papers on Economic
+Activity, 1990; U.S. Congressional Budget Ofﬁce, “SEMATECH’s Efforts to
+Strengthen the U.S. Semiconductor Industry,” Washington, D.C., 1990.
+47. U.S. equipment producers have not increased their share of the Japanese market
+signiﬁcantly during the 1990s but have beneﬁted from the rapid growth in South
+Korean and Taiwanese markets, which were far easier to penetrate.
+48. The Semiconductor Research Corporation (SRC) is funded by industry, the
+Defense Department, and more recently, by SEMATECH, to support university
+research that seeks to bolster an important portion of the U.S. research infrastruc-
+ture, to attract faculty and students to work on problems of relevance to industry,
+and to attract high-quality students to seek employment opportunities in the U.S.
+semiconductor industry. State-level programs, such as the California MICRO pro-
+gram, pursued similar objectives through a combination of public and industry
+support. Finally, the Microelectronics Advanced Research Corporation (MARCO)
+is a new industry-ﬁnanced collaborative research initiative that will support long-
+range university research on silicon IC technology.
+49. In addition to paying dues totaling $100 million per year (which were matched by
+$100 million from federal sources), the member ﬁrms contributed roughly two-
+thirds of SEMATECH’s 300-member research staff through temporary (usually 2-
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998134
+--- PAGE BREAK ---
+=== Page 30 ===
+year) rotation of “assignees” at the consortium. Concurrently with the foundation
+of SEMATECH, U.S. semiconductor materials and equipment (SME) suppliers
+formed SEMI/SEMATECH to facilitate linkages between U.S. SME suppliers and
+SEMATECH. SEMI/SEMATECH has more than 100 members who account for
+more than 85 percent of U.S. SME sales.
+50. R.M. Ham, G. Linden, and M.M. Appleyard, ““The Evolving Role of Semiconduc-
+tor Consortia in the United States and Japan,” California Management Review, 41/1
+(Fall 1998).
+51. National Science Foundation, National Patterns of R&D Resources (Washington, D.C.:
+National Science Foundation, 1996).
+52. These ﬁrms are integrated from materials and components to system-level prod-
+ucts, and their varied internal customers for semiconductors allow them to extend
+the productive life of their semiconductor production facilities. Their other busi-
+nesses produce generous cash ﬂows that help to offset the heavy R&D and invest-
+ment costs of the capital-intensive semiconductor business.
+53. Integrated Circuit Engineering Corporation (ICE), “Status: A Report on the Inte-
+grated Circuit Industry,” Integrated Circuit Engineering, 1998.
+54. Flamm provides the most objective account of the Agreement, and these para-
+graphs draw on his analysis. K. Flamm, Mismanaged Trade? Strategic Policy and the
+Semiconductor Industry (Washington, D.C.: Brookings Institution, 1996).
+55. The Agreement’s “price ﬂoor” nevertheless may have aided the remaining U.S.
+domestic producer of DRAMs, Micron Corporation.
+56. The period following the Agreement was also associated with severe shortages of
+256K DRAMs, then a vital component of personal computer and other electronic
+systems. U.S. computer producers, among others, blamed the Agreement and the
+informal, MITI-guided domestic production cartel that oversaw the Agreement’s
+implementation within Japan for the shortages. Concern over DRAM shortages
+and the alleged Japanese cartelization of the DRAM market (a condition to which
+U.S. policy, in the form of the bilateral Trade Agreement, arguably had
+contributed) led to the proposal by a group of U.S. computer manufacturers to
+jointly fund the creation of a DRAM manufacturing consortium, U.S. Memories.
+As supplies of DRAMs became more abundant, this proposal was abandoned in
+early 1990.
+57. Flamm, op. cit.
+58. In late 1992, the foreign share of Japan’s domestic consumption of semiconductor
+components increased beyond 20 percent, and recent data suggest that this share
+now is at roughly 25 percent. U.S. semiconductor components account for
+roughly 20 percent of domestic Japanese consumption, a signiﬁcant increase 
+from their 12.3 percent share in 1990. According to Flamm, this increase cannot
+be attributed solely to growth in Japanese consumption of microcomponent
+devices in which U.S. ﬁrms have a strong competitive advantage, but includes
+signiﬁcant growth in other product areas. Flamm, op. cit.
+59. U.S. antitrust policy played an important role in the earliest years of the semicon-
+ductor industry, as Bell Laboratories’ liberal licensing of the original transistor and
+related patents was motivated in part by concern over the outcome of the federal
+government’s antitrust suit against the ﬁrm that was settled in 1956. The 1956
+settlement also led AT&T to manufacture semiconductor devices solely for internal
+consumption, rather than entering the commercial market. These early actions by
+the technological pioneer in semiconductors powerfully inﬂuenced the subse-
+quent development of the U.S. semiconductor industry.
+60. According to Katz and Ordover, at least 14 Congressional bills passed during the
+1980s focused on strengthening domestic and international protection for intellec-
+tual property rights. The Court of Appeals for the Federal Circuit created in 1982
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry
+CALIFORNIA MANAGEMENT REVIEW VOL. 41, NO. 1 FALL 1998 135
+--- PAGE BREAK ---
+=== Page 31 ===
+California Management Review
+University of California ▪ F501 Haas School of Business #1900 ▪ Berkeley, CA 94720-1900
+(510) 642-7159 ▪ fax: (510) 642-1318 ▪ e-mail: cmr@haas.berkeley.edu ▪ web site: www.haas.berkeley.edu/cmr/
+has upheld patent rights in roughly 80% of the cases argued before it, a consider-
+able increase from the pre-1982 rate of 30% for the Federal bench. Katz and
+Ordover, op. cit.
+61. Mask works represent the three-dimensional pattern of the layers (the “topogra-
+phy”) of a semiconductor component. H. Brown, “Fear and Loathing of the Paper
+Trail: Originality in Products of Reverse Engineering Under the Semiconductor
+Chip Protection Act as Analogized to the Fair Use of Nonﬁction Literary Works,”
+Syracuse Law Review (1990); R. Stern, Semiconductor Chip Protection (New York, NY:
+Law & Business, 1986).
+62. This case, Brooktree Corporation v. Advanced Micro Devices, resulted in the award 
+of $26 million in damages for AMD’s infringement under the SCPA and several
+patents.
+63. While semiconductor ﬁrms, particularly second sourcers, continue to study
+selected features, full copies of mask art are not practical anymore for the reasons
+stated. S. Kasch, “The Semiconductor Chip Protection Act: Past, Present and
+Future,” High Technology Law Journal (1993).
+64. The registration of mask works under the SCPA provisions has advantages over
+patent ﬁlings, which require the disclosure of proprietary information and a time-
+consuming search through prior art to assert validity. Mask work ﬁling provides
+immediate registration at minimal cost without a time-consuming search.
+65. The number of patents granted in the category “Semiconductor Devices and Man-
+ufacture” increased from 1,655 in 1981 to 5,427 in 1994. U.S. Department of
+Commerce: Patent & Trademark Ofﬁce, “Technology Proﬁle Report: Semiconduc-
+tor Devices and Manufacture: 1/1969-12/1994,” February1995.
+66. P. Grindley and D.J. Teece, 1997. “Managing Intellectual Capital: Licensing and
+Cross-Licensing in Semiconductors and Electronics,” California Management Review,
+39/2 (Winter 1997): 8-41.
+67. N. Rosenberg, “Uncertainty and Technological Change,” in R. Landau, T. Taylor,
+and G. Wright, eds., The Mosaic of Economic Growth (Stanford, CA: Stanford Univer-
+sity Press, 1996).
+Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry

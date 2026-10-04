@@ -10,7 +10,7 @@ aliases:
 summary: "位于大学/实验室基础研发与工业规模化量产之间的关键共性基础设施，通过中立的测试验证线与工艺放大环境，提供工艺可行性验证、设备成熟度评估（MTBF/COO）与小批量试生产服务，是跨越技术就绪度（TRL 4–7）“死亡之谷”与降低产业链协同风险的核心制度载体。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 23
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

@@ -57,7 +57,7 @@ title: "Argument_Lecuyer_1999_HT"
 argument_key: "Argument_Lecuyer_1999_HT"
 argument_display_title: "Silicon for industry: Component design, mass production, and the move to commercial markets at Fairchild Semiconductor, 1960–1967"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
