@@ -12,9 +12,9 @@ subtype: program
 region: europe
 fact_region: "europe"
 fact_kind: "program"
-fact_related_count: 6
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1984–1993"
 initiator_organization: "欧洲共同体委员会（European Commission）"

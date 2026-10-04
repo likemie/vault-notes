@@ -13,9 +13,9 @@ subtype: program
 region: east-asia
 fact_region: "east-asia"
 fact_kind: "program"
-fact_related_count: 6
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1976–1980"
 initiator_organization: "日本通商产业省（Ministry of International Trade and Industry, MITI）"

@@ -8,9 +8,9 @@ summary: "Bartlett 与 Vavrus 提出的突破传统封闭单元的比较研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 36
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 40
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - comparative-case-study
