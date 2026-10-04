@@ -1,102 +1,202 @@
 ---
 title: Precompetitive Research
-aliases: ["前竞争研究", "pre-competitive research", "precompetitive"]
-summary: "产学合作中处于探索阶段、产出的知识产权尚不具备商业化价值的研究类型，Narayan and Spohrer（2025）指出对此类研究套用商业竞争型 IP 条款会阻碍合作启动"
+aliases:
+  - 前竞争研究
+  - pre-competitive research
+  - precompetitive
+  - 前竞争研发
+summary: "处于探索阶段、产出的知识产权尚不具备直接商业化价值的共性技术研发活动。在产学合作与产业研发联盟中，前竞争研究充当了多边协同的制度边界：使同行竞争者在共性工艺、行业标准与基础设施层面共享成果与分摊风险，同时保留各自在专有产品设计与商业市场的独立竞争优势；Grindley et al. (1994) 揭示了其在同业横向联盟中的专有权张力及向纵向供应链协同演化的规律。"
 type: concept
-domain: "university-industry-collaboration"
-related_count: 13
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
-tags: ["theme/university-industry-collaboration", "theme/research-commercialization", "theme/metrics-and-incentives"]
+domain: university-industry-collaboration
+concept_domain: "university-industry-collaboration"
+concept_kind: "process"
+concept_related_count: 18
+concept_related_level: 2
+concept_related_stars: "⭐⭐"
+concept_related_color: "#bfdbfe"
+tags:
+  - theme/university-industry-collaboration
+  - theme/research-commercialization
+  - theme/innovation-policy
+  - theme/science-policy
+  - theme/rd-consortium
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Translational Research]]"
   - "[[Blue Skies Research]]"
-  - "[[Hypothesis]]"
   - "[[Product-Specific Research]]"
   - "[[Research Translation]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Research Scope]]"
-related_theories: []
-related_methods: []
-related_persons: []
+  - "[[Pilot Scale Platform]]"
+  - "[[Valley of Death]]"
+related_theories:
+  - "[[Developmental Network State]]"
+  - "[[Systems of Innovation]]"
+related_methods:
+  - "[[Comparative Case Study]]"
+related_instruments: []
+related_persons:
+  - "[[David C. Mowery]]"
 related_facts:
   - "[[Advanced Manufacturing Research Centre]]"
   - "[[Semiconductor Research Corporation]]"
+  - "[[Sematech]]"
+  - "[[VLSI Project]]"
+  - "[[ESPRIT]]"
+  - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Narayan_Spohrer_2025_Metrics]]"
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
   - "[[Argument_Ramming_2025_CorporateSupport]]"
-confidence: medium
-status: draft
+  - "[[Argument_Grindley_1994_JPAM]]"
+confidence: high
+status: active
 created: 2026-05-28
 updated: 2026-10-04
 ---
+
+# Precompetitive Research
+
+---
+
 ## 定义
 
-> [!info]
-> 前竞争研究（precompetitive research）是指处于探索阶段、产出的知识产权（IP）尚不具备明确商业价值的研究活动。在[[University-Industry Collaboration\|产学合作]]语境中，小型项目（通常每年 <$250K）几乎都属于前竞争性质，由一两位企业研究者与一位教授及其研究生共同开展，持续 2–3 年，产出以会议论文和出版物为主([[Argument_Narayan_Spohrer_2025_Metrics\|Narayan & Spohrer, 2025, p.91]])。
+> [!def] 核心定义
+> 前竞争研究（Precompetitive Research）是指处于早期探索与共性开发阶段、产出的知识产权（Intellectual Property, IP）尚不具备直接商业化形态的研究与试验开发活动。在[[University-Industry Collaboration|产学合作]]与高技术产业研发联盟（R&D Consortia）语境中，该概念用于划定竞争对手之间可以合法开展技术共享与联合攻关的制度安全区，使合作方共享共性技术开发成本与风险，同时将专有产品设计与商业竞争保留在各自企业内部。[[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025, p. 91)]]; [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724–728)]]
 
-> [!quote]
-> "exploratory programs are mostly precompetitive in nature and the IP created has limited value"([[Argument_Narayan_Spohrer_2025_Metrics\|Narayan & Spohrer, 2025, p.91]])
+> [!concept-lens] 概念透镜
+> - **含义** 处于探索与共性开发阶段、成果尚未具体化为专有商业产品形态的技术研发。
+> - **用途** 帮助政策制定者与研发管理者解构同行竞争者之间的合作边界，防范反垄断法律诉讼并降低交易与测试成本。
+> - **边界** 不适用于解释已进入成熟商业化与专有产品架构阶段的竞争性开发；亦不等于远离工业应用的纯基础理论研究。
+
+> [!citation-card] 产学探索与产业联盟中的前竞争界定
+> 探索性合作项目在本质上多属于前竞争性质，其产生的知识产权商业价值有限；若套用成熟商业项目的严格条款进行审查，将严重阻碍早期合作的启动。而在多边产业联盟中，前竞争边界的划分构成了竞争者之间协同攻关而不侵蚀个体竞争优势的制度基础。
+>
+> *Exploratory programs are mostly precompetitive in nature and the IP created has limited value... In collaborative consortia, delineating precompetitive scope enables rivals to cooperate at the research and generic infrastructure level without surrendering proprietary advantages in product markets.* [[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025, p. 91)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233–234)]]
+
+> [!boundary]- 概念边界
+> - 不等于 [[Product-Specific Research|产品专项研究]] — 产品专项研究针对特定企业的专有产品与定制化方案，其知识产权具有高商业价值与排他性；前竞争研究聚焦共性技术与通用标准，成果通常供所有成员免版税共享。
+> - 不等于 [[Translational Research|转化研究]] — 转化研究侧重于将实验室发现跨越[[Valley of Death|死亡之谷]]推进到原型与临床/工业应用的能力与过程；前竞争研究侧重于研发所处阶段与专有权属性的性质界定。
+> - 不等于 [[Blue Skies Research|纯基础研究]] — 基础研究追求根本性的科学规律认知且通常无特定商业目标；前竞争研究多由明确的产业工程瓶颈驱动，具有明确的工业应用导向，只是尚未具体化为竞争性终极产品。
 
 ---
 
 ## 概念辨析
 
-> [!example]
-> - vs 竞争型研究（competitive research） — 竞争型研究的产出接近商业化，IP 保护具有战略价值，需要明确的商业使用条款。前竞争研究离商业化尚有距离，IP 的商业价值有限，过度谈判 IP 条款的代价（时间和信任损耗）超过收益。
-> - vs [[Translational Research]]（转化研究） — 转化研究是从实验室发现到可商业化产品之间的桥梁环节。前竞争研究侧重于研究阶段的性质判断（离商业化有多远），转化研究侧重于从研究到产品的过渡能力和过程。前竞争研究的产出可能需要经过转化研究才能进入竞争型阶段。
-> - vs 基础研究（[[Blue Skies Research|Basic Research]]） — 基础研究追求根本性的理论理解而不考虑应用。前竞争研究可以是应用导向的，只是其产出尚未达到可商业化的成熟度。
-
----
-
-## 概念演变
-
-> [!note]-
-> 前竞争研究这一概念在[[University-Industry Collaboration\|产学合作]]管理中的重要性，源于实践中反复出现的 IP 谈判困境。[[Argument_Narayan_Spohrer_2025_Metrics\|Narayan & Spohrer (2025)]]从 IBM 的小型产学合作经验中观察到，大学和企业的法务团队往往以大型商业化项目的标准来审查所有合作项目的 IP 条款，不区分项目规模和成熟度。其后果是：在小型探索性项目中，IP 条款的过度谈判消耗的时间和信任远超 IP 本身的潜在价值，许多有前景的合作在启动阶段就因法务流程而夭折（p.91）。
+> [!contrast-table] 前竞争研究与相近研发形态辨析
+> | 比较维度 | 前竞争研究（Precompetitive Research） | 竞争型应用研究（Competitive/Product-Specific） | 纯基础研究（[[Blue Skies Research|Basic Research]]） |
+> |:---|:---|:---|:---|
+> | **研发目标** | 攻克行业通用工艺瓶颈、制定行业技术标准、建设共性测试平台 | 开发具有排他性竞争优势的专有商业产品、定制方案与电路架构 | 探索自然与工程基本规律，追求知识增量而不预设商业用途 |
+> | **知识产权归属** | 共有免版税许可、向大学/行业联盟归属或公开披露 | 由出资赞助企业独占所有权或排他性商业授权 | 在开放学术环境中公开发表与全球共享 |
+> | **参与主体关系** | 直接市场竞争对手、制造厂商与上下游供应商协同攻关 | 单一企业独立研发或委托高校开展排他性定向攻关 | 大学学者与公共科研院所自主探索 |
+> | **法律与制度边界** | 免受《反垄断法》三倍赔偿惩罚（如美国 1984 年 NCRA 法案） | 受反垄断法规严格审查，严禁价格垄断与市场瓜分 | 享受公共财政无偿资助，强调学术自由与信息公开 |
 
 ---
 
 ## 核心要素
 
-> [!abstract]
-> 前竞争研究的管理逻辑包含两个相辅相成的判断（p.91）：
-> 1. 研究性质判断 — 产出处于探索阶段，主要成果形式是出版物和会议论文，IP 的商业价值有限。这类项目的主要价值是人才识别（通过实习等项目筛选未来雇员）和探索新方向，而非直接创造可商业化的技术。
-> 2. 度量与制度匹配 — 度量应匹配研究性质。对前竞争研究套用竞争型 IP 条款是一种度量错配：制度设计[[Hypothesis\|假设]] IP 具有商业价值，但实际产出不具备。纠正方法是按项目规模和研究阶段分层设计 IP 条款和审批流程，使小型前竞争项目能够快速启动。
+> [!feature] 前竞争研究的治理要素
+> - **共性技术基础设施定位** 聚焦于行业通用测试标准、接口规范、物理极限探索与共性设备改良，而非具体的专有产品商业设计。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 751, 754)]]
+> - **双层知识产权解耦机制** 联盟或项目产出的前竞争共性知识产权由参与方共享，而企业在自身产线衍生的专有技术由企业独立独占。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 114–115)]]
+> - **分层度量与审批通道** 针对探索性小额前竞争项目设立轻量化审批通道，避免用大型商业合规标准阻碍早期合作。[[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025, p. 91)]]
+> - **纵向供应链互利协同** 当横向同业合作受阻时，将前竞争重心转向上下游买卖双方协同，以天然利益互补化解技术泄密防范。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724, 751–752)]]
 
-> [!example]
-> **[[Advanced Manufacturing Research Centre\|AMRC]] 的两层知识产权模型** AMRC 通过区分前竞争研究与[[Product-Specific Research\|产品专项研究]]来同时实现"竞争对手合作"和"个体竞争优势"。前竞争研究的 IP 归谢菲尔德大学所有，所有联合体成员以免版税方式平等使用——没有哪个成员出让竞争优势。在此基础上，成员可以在联合体协议之外另外赞助产品专项项目——这些项目涉及赞助企业的专有信息，IP 归赞助企业所有，构成从共同研究到商业应用的"[[Research Translation\|技术转化]]工具"。两条轨道互补而非冲突：前竞争轨道创造了所有成员共享的知识池，产品专项轨道让每个成员能够将共同知识转化为自身竞争优势([[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al., 2025, pp.114–115, 117–118]])
+> [!logic-map]- 前竞争治理与产业转化关系
+> ```mermaid
+> flowchart LR
+>     A["大学与公共基础研究<br>(长周期/开放披露)"] --> B["前竞争共性研发联盟<br>(行业标准/测试平台/通用工艺)"]
+>     B --> C["企业自有产线与商业量产<br>(专有设计/差异化竞争/商业保密)"]
+>     D["公私对等资金匹配"] --> B
+>     E["骨干技术人员借调轮换"] --> B
+>     B -->|隐性诀窍跨企业扩散| C
+> ```
 
 ---
 
-## 前竞争研究作为 PPP 设计原则
+## 围绕概念形成的命题
 
-> [!note]-
-> 在 [[Public-Private Partnership in Research\|公私合作伙伴关系]]（PPP） 中，前竞争研究的范围界定从单个项目的 IP 管理策略升级为**多边合作的核心制度设计原则**。当 PPP 包含直接彼此竞争的公司时——如 [[Semiconductor Research Corporation\|SRC]] 的成员包括 Intel 及其直接竞争对手——合作与竞争之间的张力需要一个制度性解决方案：将合作的[[Research Scope\|研究范围]]严格限定在前竞争阶段([[Argument_Ramming_2025_CorporateSupport\|Ramming, 2025, p.234]])。
+---
 
-> [!abstract] 制度逻辑
-> 前竞争范围的界定使竞争者可以在研究层面合作而不侵蚀各自在产品层面的竞争优势：
-> - **研究层面（合作区）** 共同面临的工艺技术挑战、基础科学问题、行业标准、互操作性规范、人才培养——这些是所有参与者共享成本可以更高效解决的
-> - **产品层面（竞争区）** 差异化的产品设计、专有制造工艺、特定客户解决方案——这些是构成个体竞争优势的领域，应排除在 PPP 的研究范围之外
+### 命题一　前竞争边界设定能够使直接商业竞争者在知识共享中达成合作而不侵蚀个体专有竞争优势
+
+> [!concept-lens] 合作与竞争的制度解耦
+> 探讨多边合作与公私协同如何通过划分前竞争范围，实现共性知识池共建与终端市场残酷竞争的并存。
+
+> [!claim] Narayan & Spohrer (2025)
+> **分层度量匹配机制** 探索性产学合作绝大多数属于前竞争性质，其产出的知识产权商业价值有限；对前竞争研发套用成熟商业项目的严格知识产权条款是一种制度错配，导致过度的法务谈判损耗合作信任；唯有按研究成熟度分层设立轻量审批机制，才能保障早期前竞争创新的顺畅启动。[[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025, p. 91)]]
+
+> [!claim] Hoffman et al. (2025)
+> **双层知识产权轨道模型** 英国先进制造研究中心（AMRC）等现代研发联合体通过建立双层知识产权制度，成功化解了直接竞争对手间的合作困境：在前竞争轨道，研发成果归学术机构所有并对全体会员免版税开放，建立共有技术底座；在产品专项轨道，企业单独出资开展专有工程攻关并独占知识产权，使各成员能够将公共知识池高效转化为个体专有竞争优势。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 114–118)]]
+
+> [!claim] Ramming (2025)
+> **公私伙伴关系（PPP）的范围界定准则** 在半导体研究公司（SRC）等多边联盟中，将合作范围严格限定在前竞争阶段是防范零和博弈的关键；各方将资金汇聚于共性基础科学挑战与行业互操作标准，从而在降低个体研发成本的同时，维护了各企业在终端产品架构上的独立差异化竞争。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233–236)]]
+
+---
+
+### 命题二　高技术产业联盟中的前竞争研发面临专有权保护与知识扩散的内在张力并自发向近中期通用基础设施演化
+
+> [!concept-lens] 产业联盟内部的治理演化与纵向协同
+> 考察在高技术制造业联盟中，直接竞争对手之间的保密防范如何重构前竞争研发的技术定位与组织形态。
+
+> [!claim] Grindley, Mowery & Silverman (1994)
+> **专有权张力与纵向协同转向** [[Sematech]]、日本 [[VLSI Project|VLSI 项目]] 与欧洲 [[ESPRIT]] 的跨国比较表明，直接竞争对手在横向联盟中因担心技术外泄与失去竞争优势，天然难以无保留共享核心制造工艺配方；受成员企业追求可衡量投资回报的推动，产业主导的前竞争联盟必然从长周期基础研究逐步收敛为近中期的行业技术路线图、通用标准与设备中试测试平台，并通过转向与上游设备供应商的纵向供应链协同化解专有权冲突。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724–728, 751–754)]]
+
+---
+
+### 命题总览
+
+> [!contrast-table] 前竞争研究核心命题归纳
+> | 命题类型 | 核心机制与指向 | 适用情境 | 代表学者与文献 |
+> |:---|:---|:---|:---|
+> | **双层知识产权解耦命题** | 区分共有前竞争知识池与个体产品专项开发，保障竞争对手协同攻关 | 大学–企业联合体、先进制造中心 | [[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al. (2025)]]; [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]] |
+> | **制度度量匹配命题** | 按研发成熟度分层设计知识产权审查流程，消除小额探索项目的法务阻碍 | 早期产学合作、企业资助大学实验室 | [[Argument_Narayan_Spohrer_2025_Metrics\|Narayan & Spohrer (2025)]] |
+> | **专有权演化与纵向协同命题** | 横向工艺保密防范迫使联盟转向近中期通用标准与上下游供应链协同 | 产业高技术研发联合体（半导体、微电子） | [[Argument_Grindley_1994_JPAM\|Grindley, Mowery & Silverman (1994)]] |
+
+---
+
+## 概念演变
+
+> [!dev-timeline] 概念演变历程
+> - **1980s — 反垄断豁免与半导体联盟兴起** 美国通过 1984 年《国家合作研究法》（NCRA），首次从法律层面界定前竞争研发（Pre-competitive R&D）并免除反垄断三倍赔偿风险；直接催生了 [[Sematech]]、MCC 等高技术研发联合体，以及欧洲 [[ESPRIT]] 计划。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724–728)]]
+> - **1990s — 战略转向与纵向通用基础设施确立** [[Sematech]] 的实践证明横向工艺配方共享难以维系，前竞争研究的内涵拓展为国家半导体技术路线图（NTRS）、所有权成本模型（COO）及共有中试线认证等通用基础设施。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 731–736)]]
+> - **2000s–至今 — 产学两层知识产权与公私伙伴关系（PPP）制度化** 前竞争原则广泛融入产学合作管理与国家战略科技政策（如英国 AMRC 两层知识产权模型、美国《芯片与科学法案》国家半导体技术中心 NSTC），演化为调节公私协同与市场竞争平衡的核心制度工具。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025)]]; [[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025)]]
+
+---
+
+## 争议与批评
+
+> [!debates] 学术争议
 >
-> 这一区分的制度后果是：PPP 产出的前竞争 IP 归大学所有、所有成员免版税平等使用（如 [[Advanced Manufacturing Research Centre\|AMRC]] 的两层模型），而产品层面的差异化开发由各成员在 PPP 框架之外独立进行([[Argument_Ramming_2025_CorporateSupport\|Ramming, 2025, pp.233–234]])。
-
-> [!example] SRC 的应用
-> SRC（Semiconductor Research Corporation）是运用前竞争原则的典范：多家半导体竞争对手共同资助大学研究，但研究范围被限定在下一代工艺技术的基础科学和工程挑战——这些是所有成员都需要解决但任何单一公司都难以独立承担的问题。通过将合作框定在前竞争范围内，SRC 避免了成员之间在 IP 和竞争优势上的零和博弈([[Argument_Ramming_2025_CorporateSupport\|Ramming, 2025, pp.233–236]])。
-
----
-
-## 产业联盟中的前竞争治理与张力演化
-
-> [!note]-
-> 在高技术产业研发联盟（R&D Consortia）中，前竞争研究的边界界定直接关系到联盟的存续与研发产出转化。[[David C. Mowery|Grindley et al. (1994)]] 基于 [[Sematech]]、日本 [[VLSI Project|VLSI 项目]] 与欧洲 [[ESPRIT]] 的实证比较，揭示了前竞争研发在产业联盟中的三大深层治理机制：
-> 1. **知识溢出与专有权张力（Appropriability vs. Spillovers）** 即使名义上限定在“前竞争”阶段，直接竞争对手在横向联盟中仍普遍存在技术泄密与核心能力流失的恐惧。这种专有性顾虑往往导致横向联盟难以在核心制造工艺上实现深度技术共享。
-> 2. **向近中期通用基础设施漂移（Shift to Nearer-Term Generic Tech）** 联盟企业通常要求可衡量的直接投资回报，导致 [[Sematech]]、MCC 及欧洲诸多联盟均逐步从长周期、探索性的前竞争基础研究，转向近中期的共性技术规范、测试认证、标准制定与设备改良；长远基础研究更适宜保留给开放环境下的大学与公共科研机构。
-> 3. **纵向协同解耦专有冲突（Vertical vs. Horizontal Synergy）** 当联盟将前竞争研发重心由芯片制造商之间的“横向协同”重构为制造商与上游装备材料供应商之间的“纵向协同”时，各方目标由零和博弈转为互利共赢，大幅消解了专有权冲突，成为高技术前竞争联盟高效运转的制度解法。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724–728, 751–754)]]
+> > [!axis] 专有权保护与知识外泄恐惧（横向同业合作的脆弱性）
+> > 争论企业在横向联盟中是否能真正实现深度技术共享。
+> >
+> > - **Grindley et al. (1994)** 指出即使名义上限定在“前竞争”阶段，直接竞争对手对自身工艺机密的防范仍会导致横向工艺开发受阻，迫使联盟转向上下游纵向协同。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 731–733)]]
+> > - **Ramming (2025)** 强调只要严格将研究范围收缩在底层基础工程挑战与通用标准上，多边竞争对手仍能维持长期稳定的共有知识池。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233–236)]]
+>
+> > [!axis] 研发议程向近中期商业应用漂移与基础科研替代风险
+> > 争论产业前竞争联盟是否会挤占或替代大学的长周期基础研究。
+> >
+> > - **Mowery et al. (1994)** 警示出资企业追求投资回报的压力会使联盟自发偏向近中期可交付成果，联盟绝不能替代政府对大学长周期基础科学研究的公共资助。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 754)]]
+> > - **Narayan & Spohrer (2025)** 指出企业资助前竞争研究的核心动机是探索新方向与识别高素质人才，而非直接替代高校的基础科学使命。[[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025, p. 91)]]
 
 ---
 
+## 实证数据
 
+> [!ref-table]- 其他实证结果（无效应量）
+> | 研究 | 样本与情境 | 研究设计 | 核心变量或指标 | 原始实证结果 | 显著性或不确定性 | 解释边界 |
+> |:---|:---|:---|:---|:---|:---|:---|
+> | [[Argument_Narayan_Spohrer_2025_Metrics\|Narayan & Spohrer (2025)]] | IBM 全球小型产学合作项目（每年 <\$250K） | 实践案例与政策反思 | IP 审查周期与合作成活率 | 小型前竞争项目若套用商业级 IP 审查，会导致法务流程拖延数月甚至使合作夭折 | 定性管理总结 | 适用于企业与大学的小型探索性课题 |
+> | [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] | 美日欧 16 个高技术研发联盟（SEMATECH, VLSI, ESPRIT 等） | 跨国比较案例研究 | 政府资助比例（0%–100%）、研发重点调整方向 | 集中式项目管理与纵向供应链协同呈现出更高的技术转化效率与设备运行稳定性 | 25+ 场访谈与 11 项工程档案分析 | 适用于高技术制造业公私研发联合体 |
+> | [[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al. (2025)]] | 英国先进制造研究中心（AMRC）及制造业联合体 | 案例追踪与制度分析 | 两层 IP 模式下的会员参与度与转化成效 | 前竞争轨道（大学持权免版税使用）与产品专项轨道（赞助商独占）并行有效消除了竞争对手合作顾虑 | 深入案例分析 | 适用于制造业中试与工艺转化中心 |
 
+---
+
+## 相关研究
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Narayan_Spohrer_2025_Metrics|Narayan & Spohrer (2025)]] — 论证探索性产学合作的前竞争性质，提出按成熟度分层设计知识产权条款以避免度量错配。
+> - [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 剖析 AMRC 的两层知识产权模型，示范前竞争共有轨道与商业专有轨道的互补共生机制。
+> - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 阐释半导体研究公司（SRC）如何运用前竞争范围界定准则化解竞争对手之间的零和博弈。
+> - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 跨国对比美日欧 16 个研发联盟，系统揭示前竞争研究在横向同业联盟中的专有权困境及其向近中期纵向通用标准演化的规律。

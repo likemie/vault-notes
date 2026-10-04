@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Grindley_1994_JPAM",
+      "path": "wiki/arguments/journal-articles/Journal of Policy Analysis and Management/Argument_Grindley_1994_JPAM.md"
+    },
+    {
+      "basename": "DARPA",
+      "path": "wiki/facts/us/DARPA.md"
+    },
+    {
+      "basename": "Comparative Case Study",
+      "path": "wiki/methods/qualitative/Comparative Case Study.md"
+    },
+    {
+      "basename": "Precompetitive Research",
+      "path": "wiki/concepts/university-industry-collaboration/Precompetitive Research.md"
+    },
+    {
+      "basename": "ESPRIT",
+      "path": "wiki/facts/europe/ESPRIT.md"
+    },
+    {
+      "basename": "VLSI Project",
+      "path": "wiki/facts/east-asia/VLSI Project.md"
+    },
+    {
+      "basename": "Sematech",
+      "path": "wiki/facts/us/Sematech.md"
+    },
+    {
       "basename": "Argument_Fuchs_2010_RP",
       "path": "wiki/arguments/journal-articles/Research Policy/Argument_Fuchs_2010_RP.md"
     },
     {
       "basename": "Broad Agency Announcement",
       "path": "wiki/concepts/political-economy-geopolitics/Broad Agency Announcement.md"
-    },
-    {
-      "basename": "Sematech",
-      "path": "wiki/facts/us/Sematech.md"
     },
     {
       "basename": "Research Translation",
@@ -67,10 +91,6 @@
     {
       "basename": "Technological Trajectories",
       "path": "wiki/theories/political-economy-geopolitics/Technological Trajectories.md"
-    },
-    {
-      "basename": "DARPA",
-      "path": "wiki/facts/us/DARPA.md"
     },
     {
       "basename": "Bell Labs",
@@ -179,26 +199,6 @@
     {
       "basename": "Embedded Autonomy",
       "path": "wiki/concepts/science-policy/Embedded Autonomy.md"
-    },
-    {
-      "basename": "Ministry of International Trade and Industry",
-      "path": "wiki/facts/japan/Ministry of International Trade and Industry.md"
-    },
-    {
-      "basename": "French Modernisation Commissions",
-      "path": "wiki/facts/france/French Modernisation Commissions.md"
-    },
-    {
-      "basename": "Government Digital Service",
-      "path": "wiki/facts/uk/Government Digital Service.md"
-    },
-    {
-      "basename": "Joseph Schumpeter",
-      "path": "wiki/persons/austria/Joseph Schumpeter.md"
-    },
-    {
-      "basename": "Friedrich Nietzsche",
-      "path": "wiki/persons/germany/Friedrich Nietzsche.md"
     }
   ],
   "omittedPaths": [],
