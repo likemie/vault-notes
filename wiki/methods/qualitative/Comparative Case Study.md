@@ -55,11 +55,15 @@ related_facts:
   - "[[World Trade Organization]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[World Bank]]"
+  - "[[Sematech]]"
+  - "[[VLSI Project]]"
+  - "[[ESPRIT]]"
 related_arguments:
   - "[[Argument_Erfurth_2022_education-hubs]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_SpronkenSmith_2024_AEHE]]"
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
+  - "[[Argument_Grindley_1994_JPAM]]"
 confidence: high
 status: draft
 created: 2026-05-19
@@ -158,7 +162,7 @@ updated: 2026-10-04
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Case Study]] | 基础[[Paradigm\|范式]] | CCS 是对传统静态、封闭式案例研究在[[Epistemology\|认识论]]与操作架构上的重大革新。 |
-> | [[Cultural Political Economy]] | 理论支撑 | 文化政治经济学对语义、制度与结构的选择保留机制为 CCS 提供理论底座。 |
+> | [[Cultural Political Economy]] | 理论支撑 | 文化政治经济学对语义、制度与结构的选择保留机制为 CCS 提供理论基础。 |
 > | [[Fieldwork]] | 核心技术 | 深入微观学校与社区的多地点田野调查为 CCS 垂直轴底层提供厚实的实证材料。 |
 > | [[Mixed Methods Research]] | 组合设计 | CCS 常与量化统计结合，利用混合方法[[Triangulation\|三角互证]]增强跨尺度推论说服力。 |
 > | [[Robert Arnove]] | 人物 | 倡导运用多地点比较案例研究示范全球与本土辩证互动的跨尺度“双重视野”。 |
@@ -172,4 +176,4 @@ updated: 2026-10-04
 > - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] — 运用 CCS 框架比较新加坡与阿联酋的[[International Education Hubs|国际教育枢纽]]建设，重点利用横贯维度追溯 1990–2018 年间全球金融危机与地缘政治对多领域政策混合体的历史重塑。
 > - [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]] — 采用比较案例研究设计结合[[Mixed Methods Research|混合方法]]，对比两所美国大学和一所新西兰大学的博士[[Graduate Attributes|毕业生特质]]发展与职场迁移，以制度差异下的模式一致性推断博士培养的结构性特征。
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong & Förschler (2019)]] — 采用比较案例研究设计，对比美德两国联邦体制下的教育数据化先锋州（马萨诸塞州与汉堡），系统考察州级教育行政机构中[[Data Infrastructure|数据基础设施]]的社会-技术实践与治理张力。
-> - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 采用国际比较案例研究设计，深度对比美国 [[Sematech]]、日本 [[VLSI Project|VLSI 项目]] 及欧洲 [[ESPRIT]]、JESSI 等跨国高技术研发联盟的治理结构与演进轨迹，提炼高技术公私协同联盟的制度设计准则。
+> - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 采用国际比较案例研究设计，深度对比美国 [[Sematech]]、日本 [[VLSI Project|VLSI]] 项目 及欧洲 [[ESPRIT]]、JESSI 等跨国高技术研发联盟的治理结构与演进轨迹，提炼高技术公私协同联盟的制度设计准则。
