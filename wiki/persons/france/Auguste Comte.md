@@ -8,7 +8,7 @@ summary: "19世纪法国实证主义哲学家与社会学奠基人，提出知�
 type: person
 nationality: "france"
 person_region: "france"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 
 # Auguste Comte

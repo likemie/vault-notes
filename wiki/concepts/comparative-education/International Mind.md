@@ -5,7 +5,7 @@ aliases:
 summary: "两次世界大战期间国际联盟知识合作组织推动的概念，指世界各国人民中间一种比民族主义心态更适合国际合作的普遍心态。在理性主义国际关系传统下，该概念通过跨国教科书去偏见化和客观学校知识构建，成为二战后UNESCO和欧洲比较教育学会（CESE）推进科学治理与和平承诺的认知基础。"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-09-24
+updated: 2026-10-05
 ---
 
 # International Mind

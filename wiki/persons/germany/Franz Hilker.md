@@ -9,7 +9,7 @@ summary: "德国比较教育学家与国际教育交流专家，黑森州教育�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-02
+updated: 2026-10-05
 ---
 
 # Franz Hilker

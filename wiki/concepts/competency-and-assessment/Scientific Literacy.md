@@ -10,7 +10,7 @@ aliases:
 summary: "个体理解科学运作机制、批判性评估多源证据质量、接纳科学知识暂定性与不确定性，并在日常生活和公共审议中做出理性判断的核心公民素养，涵盖科学本质理解、证据辨析、认识论实践与抵御虚假信息的认知免疫机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -85,7 +85,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-09-23
+updated: 2026-10-05
 ---
 
 # Scientific Literacy

@@ -7,7 +7,7 @@ summary: "德国天主教教育学家，德语区比较教育学奠基人，曾�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-29
+updated: 2026-10-05
 ---
 
 # Friedrich Schneider

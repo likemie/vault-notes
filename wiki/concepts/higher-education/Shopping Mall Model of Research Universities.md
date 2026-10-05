@@ -8,7 +8,7 @@ aliases:
 summary: "Paula Stephan 提出的学术组织经济学隐喻，将现代研究型大学比作高档商业购物中心，大学专注于建设尖端物理空间并以间接成本及薪资冲销的形式向自负盈亏的学者团队出租"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # Shopping Mall Model of Research Universities

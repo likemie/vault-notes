@@ -21020,6 +21020,17 @@
     ]
   },
   {
+    "title": "Chris Freeman",
+    "type": "person",
+    "path": "wiki/persons/uk/Chris Freeman.md",
+    "aliases": [
+      "克里斯托弗·弗里曼",
+      "克里斯·弗里曼",
+      "Freeman, C.",
+      "Christopher Freeman"
+    ]
+  },
+  {
     "title": "Christopher Day",
     "type": "person",
     "path": "wiki/persons/uk/Christopher Day.md",
@@ -30734,6 +30745,11 @@
     "title": "Argument_Macher_1998_CMR",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/California Management Review/Argument_Macher_1998_CMR.md"
+  },
+  {
+    "title": "Argument_Freeman_1995_CJE",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Cambridge Journal of Economics/Argument_Freeman_1995_CJE.md"
   },
   {
     "title": "Argument_Schaffar_2024_CogentEdu",

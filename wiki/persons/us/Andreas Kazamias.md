@@ -7,7 +7,7 @@ summary: "希腊裔比较教育学者，倡导历史和人文主义视角与普�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 54
+person_related_count: 55
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 
 # Andreas Kazamias

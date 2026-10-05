@@ -9,7 +9,7 @@ aliases:
 summary: "源自古希腊教化与德国精神科学传统的品格陶成与自我形成概念，主张教育指向人（Anthropos）在开放未知未来的自主人格塑造，构成抵御狭隘工具化学校教育（Schooling）与数字化算法预测的本体防线。"
 type: concept
 domain: "educational-philosophy"
-related_count: 69
+related_count: 70
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -99,7 +99,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 
 # Bildung

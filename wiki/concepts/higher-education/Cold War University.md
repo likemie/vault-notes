@@ -6,7 +6,7 @@ aliases:
 summary: "二战后至冷战时期以斯坦福大学和麻省理工学院等为典型代表的研究型大学制度形态，其核心特征是通过深度依托美国国防部等国家安全机构的基础与应用科研经费投入，建立由联邦政府、军方、学界与工业界紧密交织的科研基础设施网络，在奠定工程与计算机前沿学科主导地位的同时重塑了现代大学的制度结构。"
 type: concept
 domain: "higher-education"
-related_count: 23
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

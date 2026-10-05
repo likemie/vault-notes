@@ -10,7 +10,7 @@ summary: "美国著名创新经济学与科技政策学者，加州大学伯克�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"

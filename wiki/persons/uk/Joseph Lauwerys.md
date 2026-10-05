@@ -7,7 +7,7 @@ summary: "英国首任比较教育教授（1947），欧洲比较教育学会首
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -58,7 +58,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-09-29
+updated: 2026-10-05
 ---
 
 # Joseph Lauwerys

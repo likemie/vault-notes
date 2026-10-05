@@ -8,7 +8,7 @@ summary: "美国印第安纳大学杰出教授、学习科学前国际学会主�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -54,7 +54,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Cindy E. Hmelo-Silver

@@ -10,7 +10,7 @@ title: "Argument_Schaffar_2024_CogentEdu"
 argument_key: "Argument_Schaffar_2024_CogentEdu"
 argument_display_title: "Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"

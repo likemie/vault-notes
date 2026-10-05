@@ -6,7 +6,7 @@ aliases:
 summary: "认识论与课程论中指称人类获取、建构、表达和审查知识的多维途径与经验资源；既是国际文凭知识论课程中连接个人与共享知识的元认知分析框架，也是科学教育视阈下体现学科特异性与文化多样性的认识论实践形态。"
 type: concept
 domain: "curriculum"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-26
-updated: 2026-09-24
+updated: 2026-10-05
 ---
 
 # Ways of Knowing

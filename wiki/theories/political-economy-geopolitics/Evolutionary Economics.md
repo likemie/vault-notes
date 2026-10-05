@@ -8,7 +8,7 @@ aliases:
 summary: "以 Nelson & Winter（1982）为奠基的经济学流派，将经济变迁视为多样性变异、组织惯例学习、路径依赖与动态选择的演化过程；批判新古典静态均衡假设，为技术轨迹、创新系统、公共动态能力与引领和学习范式提供底层理论基石"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 46
+theory_related_count: 47
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -61,6 +61,7 @@ related_methods:
 related_persons:
   - "[[Joseph Schumpeter]]"
   - "[[Herbert A. Simon]]"
+  - "[[Chris Freeman]]"
   - "[[Mariana Mazzucato]]"
   - "[[Rainer Kattel]]"
 related_facts: []
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-10
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Evolutionary Economics
@@ -99,7 +100,7 @@ updated: 2026-10-03
 > - **理论先驱** [[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter）的“[[Creativity|创造性]]破坏”（Creative Destruction）理论奠定了创新作为资本主义动态引擎的核心地位；赫伯特·西蒙（[[Herbert A. Simon|Herbert Simon]]）的[[Bounded Rationality|有限理性]]（Bounded Rationality）理论打破了完全理性的最大化[[Hypothesis|假设]]；生物演化论提供了“变异–选择–保留”（Variation-Selection-Retention）的演化隐喻。
 > - **奠基著作** 理查德·纳尔逊与西德尼·温特（Nelson & Winter, 1982）出版里程碑著作《经济变迁的演化理论》（*An Evolutionary Theory of Economic Change*），系统确立了以“组织惯例（Organizational Routines）”替代边际最优、以“市场选择”替代均衡出清的微观–中观演化[[Paradigm|范式]]。
 > - **中观拓展与技术范式** 乔瓦尼·多西（Dosi, 1982, 1988）提出技术[[Paradigm|范式]]（Technological Paradigms）与[[Technological Trajectories|技术轨迹]]（Technological Trajectories），基思·帕维特（[[Argument_Pavitt_1984_RP|Pavitt, 1984]]）构建了产业创新分类学，将演化逻辑[[Operationalization|操作化]]为中观产业分析工具。
-> - **宏观系统与治理转向** 克里斯·弗里曼（Freeman, 1987）与本格特-奥克·伦德瓦尔（Lundvall, 1992）将演化视角拓展至国家[[Systems of Innovation|创新系统]]；[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）与莱纳·[[Rainer Kattel|卡特尔]]（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）进一步将其推进为融合韦伯国家能力与熊彼特企业双元能力的主动[[Market Shaping and Creating|市场塑造]]、[[Public Dynamic Capabilities|公共动态能力]]与[[Lead-and-Learn Paradigm|引领与学习范式]]。
+> - **宏观系统与治理转向** [[Chris Freeman|克里斯·弗里曼]]（Freeman, 1987）与本格特-奥克·伦德瓦尔（Lundvall, 1992）将演化视角拓展至国家[[Systems of Innovation|创新系统]]；[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）与莱纳·[[Rainer Kattel|卡特尔]]（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）进一步将其推进为融合韦伯国家能力与熊彼特企业双元能力的主动[[Market Shaping and Creating|市场塑造]]、[[Public Dynamic Capabilities|公共动态能力]]与[[Lead-and-Learn Paradigm|引领与学习范式]]。
 
 > [!dev-timeline] 演化经济学思想演化脉络
 > - **1911/1942 — 熊彼特奠基** 提出创新与企业家精神是打破循环流转的动态力量，阐述创造性破坏机制。

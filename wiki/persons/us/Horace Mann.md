@@ -8,7 +8,7 @@ summary: "美国公立学校运动领袖与马萨诸塞州教育委员会首任�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 36
+person_related_count: 37
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 
 # Horace Mann

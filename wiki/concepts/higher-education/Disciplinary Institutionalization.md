@@ -9,10 +9,10 @@ aliases:
 summary: "新兴知识领域通过确立学术研究范式、建立大学独立系所学位项目、获得外部公共经费持续支持并形成专业共同体的社会历史过程；二战后美国联邦国防研发资助直接催化了计算机科学等新兴技术领域从工程辅助工具走向正规大学学科建制。"
 type: concept
 domain: "higher-education"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/higher-education
   - theme/sociology-of-science

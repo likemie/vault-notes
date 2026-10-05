@@ -7,7 +7,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 96
+related_count: 97
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -124,7 +124,7 @@ related_arguments:
 confidence: high
 status: stable
 created: '2026-05-01'
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 
 # Policy Borrowing

@@ -9,10 +9,10 @@ aliases:
 summary: "在研究型大学内部依托公共研发资金建立的大型实验仪器平台、跨学科实验室、科研数据中心与学术网络体系；它是战后美国国家创新系统中前沿科学发现、高层次创新人才供给与民用颠覆性技术衍生的最核心策源底座。"
 type: concept
 domain: "higher-education"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 17
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/higher-education
   - theme/science-policy

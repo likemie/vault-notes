@@ -10,7 +10,7 @@ aliases:
 summary: "德国比较教育学家奥斯卡·安维勒于1967年提出的学科建制概念。主张比较教育牢固依托于母体学科普通教育学，同时在问题意识与研究工具上面向历史学、政治学与社会学纵深切入，形成兼具规范育人关怀与跨学科实证解释力的横截面知识领域。"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -49,7 +49,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Comparative Education as a Cross-Sectional Area

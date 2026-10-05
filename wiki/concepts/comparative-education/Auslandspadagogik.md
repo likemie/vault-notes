@@ -8,7 +8,7 @@ aliases:
 summary: "德语区指称对异域教育制度与实践开展百科全书式描述性、报道性调查的文献与知识传统，构成了19世纪比较教育学制度化前的核心经验载体"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-22
+updated: 2026-10-05
 ---
 
 # Auslandspadagogik

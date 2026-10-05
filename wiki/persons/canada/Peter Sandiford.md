@@ -7,7 +7,7 @@ summary: "英裔加拿大教育学家、心理学家，多伦多大学教育学�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 
 # Peter Sandiford

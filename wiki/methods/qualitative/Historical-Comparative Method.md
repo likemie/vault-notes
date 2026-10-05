@@ -10,7 +10,7 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度、国�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 70
+method_related_count: 75
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -51,6 +51,8 @@ related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Allgemeine Pädagogik]]"
+  - "[[Absorptive Capacity]]"
+  - "[[Heterogeneity]]"
   - "[[Comparative History of Comparative Education]]"
   - "[[Protean Episteme]]"
   - "[[Scientism]]"
@@ -61,6 +63,7 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
 related_theories:
   - "[[Three Generations of Mission-Oriented Policy]]"
+  - "[[Systems of Innovation]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Analytic Framework]]"
@@ -95,6 +98,7 @@ related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
   - "[[Argument_Bown_2024_JEP]]"
+  - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Mowery_2011_NBER]]"
@@ -253,6 +257,7 @@ updated: 2026-10-05
 ## 使用此方法的研究
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 运用历史比较与思想史考证方法，跨越 19 世纪工业革命至 20 世纪末的长周期时空，比较英、德、美、日、苏及东亚新兴工业化经济体（如韩国）与拉美国家（如巴西）在国家教育体制、企业内部研发建制化、技术引进与[[Absorptive Capacity|吸收能力]]协同机制上的[[Heterogeneity|异质性]]演进路径，系统论证国家[[Systems of Innovation|创新系统]]作为制度[[Unit of Analysis|分析单位]]的持续有效性。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 运用历史比较与制度演化分析，跨越 150 年历史跨度考察普鲁士与东亚追赶型发展国家、美欧冷战[[Big Science|大科学]]攻坚以及当代应对重大社会挑战三代使命导向政策的演进轨迹，横向对比美、英、法、德、日及欧盟的制度能力差异，提炼国家、政策与行政三层[[Public Dynamic Capabilities|公共动态能力]]分析矩阵。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯运用历史比较法梳理比较教育史中历史-哲学母题的起源、演变、[[Paradigm|范式]]分支与[[Positivism|实证主义]]危机，系统重构该方法论的现代合法性。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 运用比较历史考证[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien）与欧美行政官员在 19 世纪的[[Document|文献]]档案，揭示现代主义发端的双重母题。

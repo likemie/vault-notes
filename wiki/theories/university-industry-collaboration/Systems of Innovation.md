@@ -11,7 +11,7 @@ aliases:
 summary: "Freeman 与 Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络与市场互动进行的集体学习活动；主张创新绩效取决于行动者能力、网络连接密度与制度规则适配性，推动公共政策从弥补市场失灵转向修复系统失灵。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 69
+theory_related_count: 72
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -78,6 +78,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Chris Freeman]]"
   - "[[Joseph Schumpeter]]"
   - "[[Vannevar Bush]]"
   - "[[Mariana Mazzucato]]"
@@ -97,6 +98,7 @@ related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Pavitt_1984_RP]]"
+  - "[[Argument_Freeman_1995_CJE]]"
 confidence: high
 status: draft
 created: 2026-05-27
@@ -123,7 +125,7 @@ updated: 2026-10-05
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 克里斯托弗·弗里曼（Christopher Freeman）在 1982 年与 1987 年关于日本经济追赶的研究中首次提出“国家创新系统”（National Innovation System, NIS）概念；本特-奥克·伦德瓦尔（Bengt-Åke Lundvall, 1992）与查尔斯·埃德奎斯特（Charles Edquist, 1997）系统奠定了其理论内核；理查德·纳尔逊（Richard R. Nelson, 1993）通过多国制度比较完成了跨国实证奠基。
+> - **提出者与原始文本** [[Chris Freeman|克里斯托弗·弗里曼]]（Christopher Freeman）在 1982 年与 1987 年关于日本经济追赶的研究中首次提出“国家创新系统”（National Innovation System, NIS）概念；本特-奥克·伦德瓦尔（Bengt-Åke Lundvall, 1992）与查尔斯·埃德奎斯特（Charles Edquist, 1997）系统奠定了其理论内核；理查德·纳尔逊（Richard R. Nelson, 1993）通过多国制度比较完成了跨国实证奠基。
 > - **原初问题** 20 世纪 70 至 80 年代，英美等国在高研发支出背景下经济增长乏力、深陷滞胀，而战后研发投入相对较少的日本却凭借独特的产业组织、终身雇佣、产学协作与[[Ministry of International Trade and Industry|通商产业省]]（Ministry of International Trade and Industry, MITI）长效协调机制，在汽车与消费电子领域实现跨越式产业赶超，传统线性理论与新古典生产函数无法解释该经验悖论。
 > - **理论资源与材料** 思想渊源可追溯至 19 世纪弗里德里希·李斯特（Friedrich List）《政治经济学的国家系统》中关于国家技术教育、科学培训与产业保护的论断；直接理论汲取自[[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter）的“[[Creativity|创造性]]破坏”与创新组合论，以及纳尔逊与温特（Nelson & Winter, 1982）开创的[[Evolutionary Economics|演化经济学]]（惯例、搜索与[[Bounded Rationality|有限理性]]）。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 22)]]
 > - **形成路径** 学者们从关注“企业黑箱”转向关注不同国家研发组织、金融资本、劳动力市场与教育培训体制的制度[[Heterogeneity|异质性]]，提炼出“在交互中学习”（Learning by Interacting）这一核心机制，将“创新系统”确立为理解现代经济增长的基本[[Unit of Analysis|分析单位]]。
@@ -305,6 +307,7 @@ updated: 2026-10-05
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 从经济思想史与[[Evolutionary Economics|演化经济学]]视角追溯国家创新系统的李斯特渊源，通过英、德、美、日、苏及东亚与拉美的长周期比较历史考证，系统论证国家教育培训体系、企业内部专业化研发与网络连接在技术赶超中的决定性作用，反驳全球化导致民族国家过时的论调。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]] — 阐述从国家创新系统“系统失灵修补”向使命导向“[[Market Shaping and Creating|市场塑造]]与创造”的理论演化脉络与 ROAR 政策[[Analytic Framework|分析框架]]。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]] — 历史制度分析战后五十年美国国防研发投资与采购体系，系统阐明[[University-Based Research Infrastructure|大学科研基础设施]]奠定、初生期先导采购与第二货源机制如何塑造美国 IT 创新系统，揭示产业成熟期由民向军的逆向技术溢出规律及反恐预算重组的潜在风险。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]] — 系统梳理五十年来产学关系与[[Innovation Policy Paradigms|创新政策范式]]的三次跃迁（科学促增长 → 创新系统 → [[Transformative Change|变革转型]]），详述系统失灵的完整分类（制度、网络、锁定、能力等）及大学对创新全谱系的多维贡献。

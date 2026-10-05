@@ -10,7 +10,7 @@ aliases:
 summary: "外部科研资助中用于补偿大学整体科研基础设施折旧、公用事业开销、合规审查及行政支撑等无法直接计入具体项目之费用的补偿机制，战后演化为大学维持物理扩张、偿还基建债务及商业化运作的核心生命线。"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-05
 ---
 
 # Indirect Costs of Research

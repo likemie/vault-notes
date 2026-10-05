@@ -76,7 +76,7 @@ title: "Argument_Macher_1998_CMR"
 argument_key: "Argument_Macher_1998_CMR"
 argument_display_title: "Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"

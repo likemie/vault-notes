@@ -9,7 +9,7 @@ aliases:
 summary: "一种具有跨部门广泛渗透性、内在持续技术动态性以及能诱发下游互补性创新与系统性生产率提升的基础技术范式。"
 type: concept
 domain: "economics"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
