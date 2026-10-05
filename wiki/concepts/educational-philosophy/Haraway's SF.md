@@ -7,7 +7,7 @@ aliases:
 summary: "Haraway 的核心概念缩写，同时代表 string figures、speculative fabulation、science fiction 和 so far，用于通过讲故事、连结关系与共同想象来实践后人类主义的世界制造。"
 type: concept
 domain: "educational-philosophy"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Posthumanism]]"
   - "[[Hypothesis]]"
   - "[[Open-Mindedness]]"
+  - "[[Apprenticeship]]"
   - "[[Sympoiesis]]"
   - "[[Creativity]]"
 related_theories: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-08'
-updated: 2026-09-23
+updated: 2026-10-05
 ---
 
 ## 定义
@@ -62,7 +63,7 @@ updated: 2026-09-23
 > [!info] 与[[Posthumanism\|后人类主义]]教育的关系
 > [[Argument_Amos_2022_Springer\|Amos (2022, p.62)]] 将 SF 视为 Haraway [[Posthumanism]] 愿景中的核心教育实践。在 Haraway 设想的社区中，SF——人们聚在一起讲故事、编织线绳图案、创造跨物种的关系叙事——是核心活动。这不是在传统学校里的"上课"，而是嵌在日常生活中的"世界制造"实践。
 >
-> > 例：Haraway 在 *Staying with the Trouble* 最后一章设想的社区，以 SF 为核心活动。她没有讨论谁来教孩子识字、谁来评估学习成果——因为在她的设想中，学习是一种"学徒制"式的、嵌在共同体关系中的过程，不是发生在称为"学校"的专门机构里([[Argument_Amos_2022_Springer\|Amos, 2022, p.63]])。
+> > 例：Haraway 在 *Staying with the Trouble* 最后一章设想的社区，以 SF 为核心活动。她没有讨论谁来教孩子识字、谁来评估学习成果——因为在她的设想中，学习是一种"[[Apprenticeship|学徒制]]"式的、嵌在共同体关系中的过程，不是发生在称为"学校"的专门机构里([[Argument_Amos_2022_Springer\|Amos, 2022, p.63]])。
 >
 
 ## 与相关概念的区别

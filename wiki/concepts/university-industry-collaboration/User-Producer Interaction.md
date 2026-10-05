@@ -10,7 +10,7 @@ aliases:
 summary: "由本格特-奥克·伦德瓦尔等演化经济学家提出、后成为国家创新系统微观基础的核心概念；指技术装备和先进材料的供应企业与下游行业用户之间持续开展的非正式、双向且制度化的信息交换、协同开发与反馈网络；强调技术创新不仅源于实验室科学推动，更依赖于供需双方在地理与文化邻近性基础上形成的日常互动学习，是决定复杂技术扩散速度与比较优势形成的关键微观机制。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Opportunist Mode]]"
   - "[[National Innovation System]]"
   - "[[Heterogeneity]]"
+  - "[[Lean Production]]"
   - "[[Industrial District]]"
   - "[[Variable]]"
 related_theories:
@@ -136,7 +137,7 @@ updated: 2026-10-05
 > [!contrast-table] 用户—生产者互动核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **微观学习机制论** | 互动学习是渐进创新、工艺微调与技术扩散的决定性动力 | 复杂制造产业、精益生产网络、区域产业集群 | [[Bengt-Åke Lundvall\|Lundvall, B.-Å.]]; [[Chris Freeman\|Freeman, C.]] |
+> | **微观学习机制论** | 互动学习是渐进创新、工艺微调与技术扩散的决定性动力 | 复杂制造产业、[[Lean Production\|精益生产]]网络、区域产业集群 | [[Bengt-Åke Lundvall\|Lundvall, B.-Å.]]; [[Chris Freeman\|Freeman, C.]] |
 > | **制度地理锚固论** | 本地化信任与文化邻近性维系不可被全球化替代的竞争优势 | 跨国公司战略选址、国家[[Systems of Innovation\|创新系统]]存续性辩护 | [[Chris Freeman\|Freeman, C.]]; [[Michael Porter\|Porter, M.]] |
 
 ---

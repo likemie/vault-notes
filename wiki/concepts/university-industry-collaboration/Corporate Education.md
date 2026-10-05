@@ -9,10 +9,10 @@ aliases:
 summary: "企业为雇员组织和提供的教育培训形式，范围涵盖初始职业教育到高层管理培养，并常与企业文化塑造和战略协调相连"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - level/adult
   - region/global
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Further Education]]"
   - "[[Corporate University]]"
+  - "[[Apprenticeship]]"
 related_theories:
   - "[[Cultural Political Economy]]"
   - "[[Varieties of Capitalism]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-18
-updated: 2026-09-15
+updated: 2026-10-05
 ---
 
 # Corporate Education
@@ -69,7 +70,7 @@ updated: 2026-09-15
 > - **[[Soft Power\|软权力]]功能** 企业教育是[[Cultural Political Economy\|文化政治经济学]]所称的"经济想象"（economic imaginary）的载体——它生产和传播关于市场如何运作、公司应该追求什么的共享认知，是市场运作的关键促成因素([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.180]])
 > - **组织嵌入性** 企业教育的形式和国际化程度与 MNC 组织类型深度挂钩——联邦型、国际型和跨国型 MNCs 分别偏好不同的培训标准化水平和权威策略。详见 [[Corporate University]] 中 MNC 类型 × CU 类型的对应分析([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.186–188]])
 > - **权威依赖性** 公司管理层虽有权力命令员工参训，但这不等同于培训被视为高质量。企业教育需借助外部权威来源（模仿高等教育、专业认证、同行评审、外包给营利性提供商）来获取合法性。四种策略详见 [[Argument_Hartmann_2022_CorporateEducation]] 第四步([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.188–191]])
-> - **[[Varieties of Capitalism\|生产体制]]制约** IVET 在协调型市场经济体（CMEs，如德国）中高度制度化，依赖行业协会、工会和政府之间的复杂非市场安排，难以跨国转移。所有受访德国 MNCs 在海外分支建立学徒制的尝试均告失败
+> - **[[Varieties of Capitalism\|生产体制]]制约** IVET 在协调型市场经济体（CMEs，如德国）中高度制度化，依赖行业协会、工会和政府之间的复杂非市场安排，难以跨国转移。所有受访德国 MNCs 在海外分支建立[[Apprenticeship|学徒制]]的尝试均告失败
 
 ---
 
@@ -93,7 +94,7 @@ updated: 2026-09-15
 ## 实证发现
 
 > [!success]
-> - 所有受访的德国 MNCs 都尝试在海外分支建立学徒制（[[German Dual Education System\|双元制]]），但均遇到重大困难，表明 IVET 高度依赖国家层面的复杂非市场制度安排([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.185]])
+> - 所有受访的德国 MNCs 都尝试在海外分支建立[[Apprenticeship|学徒制]]（[[German Dual Education System\|双元制]]），但均遇到重大困难，表明 IVET 高度依赖国家层面的复杂非市场制度安排([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.185]])
 > - 超过 50% 的 MNCs 提供全球高潜力人才培训项目，管理培训的国际化程度最高
 > - 国际型 MNCs（高整合、低本地响应）倾向于提供高度标准化的学校型企业教育，以在整个公司内确保合规；这类公司总部多位于美国或其他自由市场经济体（LMEs）([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.187–188]])
 > - 跨国型 MNCs（高整合、高本地响应）建立全球矩阵，将总部开发的管理能力框架交由各地分支根据本地情况修改——这种模式创造了一个既统一又兼顾差异的跨国教育空间([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.188]])

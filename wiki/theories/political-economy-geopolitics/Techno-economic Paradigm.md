@@ -9,10 +9,10 @@ aliases:
 summary: "由卡洛塔·佩雷斯（Carlota Perez）与克里斯·弗里曼（Chris Freeman）共同开创的演化经济学重大理论框架；指由突破性通用技术集群扩散所驱动的、对整个经济社会的生产组织、成本结构、技术轨迹及制度框架产生深远变革的元主导模式；核心揭示激进技术创新的快速扩散必然导致与旧社会制度框架的严重结构失调与“制度滞后”，只有通过教育、产业组织、法律与公共治理的多样化试错与深度制度调适，才能实现新技术范式在全社会的充分吸纳与繁荣。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 22
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 24
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theory/evolutionary-economics
   - theme/innovation-policy
@@ -22,10 +22,12 @@ related_concepts:
   - "[[General Purpose Technology]]"
   - "[[Paradigm]]"
   - "[[Creativity]]"
+  - "[[Creative Destruction]]"
   - "[[Scientific Paradigm]]"
   - "[[Assemblage]]"
   - "[[Informationalization]]"
   - "[[National Innovation System]]"
+  - "[[Lean Production]]"
   - "[[Unit of Analysis]]"
   - "[[Research Question]]"
   - "[[Open-Mindedness]]"
@@ -72,7 +74,7 @@ updated: 2026-10-05
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Carlota Perez|卡洛塔·佩雷斯]]（Carlota Perez, 1983）在《结构变革与新技术在经济社会体系中的吸纳》中首次系统构想，后由 Chris Freeman 与 Perez（1988）在《技术变革与经济理论》中正式确立为[[Evolutionary Economics|演化经济学]]核心术语。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 18–19)]]
 > - **原初问题** 20 世纪 70 年代发达资本主义世界普遍遭遇战后黄金期终结与“滞胀”危机，传统凯恩斯主义与货币主义均无法解释为何微电子技术快速兴起的同时整体宏观生产率增长反而放缓。
-> - **理论资源与材料** 吸收了[[Joseph Schumpeter|熊彼特]]的“[[Creativity|创造性]]破坏”（Creative Destruction）概念、[[Thomas Kuhn|托马斯·库恩]]的“[[Scientific Paradigm|科学范式]]”隐喻以及长周期经济波动史料。
+> - **理论资源与材料** 吸收了[[Joseph Schumpeter|熊彼特]]的“[[Creativity|创造性]]破坏”（[[Creative Destruction]]）概念、[[Thomas Kuhn|托马斯·库恩]]的“[[Scientific Paradigm|科学范式]]”隐喻以及长周期经济波动史料。
 > - **形成路径** 将技术创新区分为渐进性创新、激进性创新、技术系统变革与技术-经济[[Paradigm|范式]]变革四个层级，指出范式级转变必然要求一国“社会制度框架”（Socio-institutional Framework）实现全方位协同匹配。
 
 ### 后续修订与扩展
@@ -80,7 +82,7 @@ updated: 2026-10-05
 > [!dev-timeline] 理论版本与贡献
 > - **1983 — 佩雷斯原初奠基** Perez 提出技术经济子系统与社会制度子系统的动态不匹配理论，揭示制度滞后（Institutional Drag）机制。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 18)]]
 > - **1988 — SPRU 学派系统化** Freeman 与 Perez 合作将范式划分为蒸汽机、钢铁电气、福特制大规模[[Assemblage|装配]]及微电子[[Informationalization|信息化]]等历史波次，确立以关键投入（Key Factor）成本骤降为信号的识别准则。
-> - **1995 — 与[[National Innovation System|国家创新系统]]理论合流** Freeman 在 CJE 论文中将新技术-经济范式与国家[[Systems of Innovation|创新系统]]深度缝合，强调微电子范式下精益生产、多工种技能与国家政策多样性试错的不可替代性。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 18–20)]]
+> - **1995 — 与[[National Innovation System|国家创新系统]]理论合流** Freeman 在 CJE 论文中将新技术-经济范式与国家[[Systems of Innovation|创新系统]]深度缝合，强调微电子范式下[[Lean Production|精益生产]]、多工种技能与国家政策多样性试错的不可替代性。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 18–20)]]
 
 ---
 
@@ -107,7 +109,7 @@ updated: 2026-10-05
 > [!theory-proposition] 命题二｜新范式导入期的试错过程极度依赖制度多样性以避免过早技术锁定
 > **解释** 新技术-经济范式的扩散并非确定性的一维演进，而是一个充满高度不确定性的试错过程（trial and error process）。维持宏观制度环境、组织形式与微观技术路线的多样性，能够为全社会提供巨大的演化优势；过早被单一技术标准或管理模式“锁定”（lock-in）将引发毁灭性的技术单一栽培（technological monoculture）危机。（[[Argument_Freeman_1995_CJE|Freeman, 1995, pp. 18–19]]）
 >
-> **应用实例** 在[[Informationalization|信息化]]基础设施铺设初期，国家公共政策必须维持多元竞争环境与多源科研资助，支持企业探索精益生产、看板制等不同管理体制，而非由跨国资本单一推行标准化流水线。
+> **应用实例** 在[[Informationalization|信息化]]基础设施铺设初期，国家公共政策必须维持多元竞争环境与多源科研资助，支持企业探索[[Lean Production|精益生产]]、看板制等不同管理体制，而非由跨国资本单一推行标准化流水线。
 
 ---
 

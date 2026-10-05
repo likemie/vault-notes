@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_display_title: "Chapter four: Industry and business sector"
 argument_kind: "book-chapter"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[National Innovation System]]"
   - "[[Champ]]"
   - "[[Public Engagement with Science]]"
+  - "[[Apprenticeship]]"
   - "[[Attrition]]"
   - "[[Social License to Operate]]"
   - "[[University Spin-Out]]"
@@ -166,7 +167,7 @@ updated: 2026-09-13
 
 企业规模直接决定了公众参与的实施能力与制度保障：
 
-> [!case] [[Case Study\|案例研究]]一：西门子交通（Siemens Mobility）：跨国工业巨头扎根在地社群与全链条技能学徒制（p. 68）
+> [!case] [[Case Study\|案例研究]]一：西门子交通（Siemens Mobility）：跨国工业巨头扎根在地社群与全链条技能[[Apprenticeship|学徒制]]（p. 68）
 > - **项目发起背景与主体架构** 作为全球交通与机车装备制造巨头，西门子交通在英国约克郡戈尔（Goole）投资 2 亿英镑建设现代铁路制造卓越中心。面对当地工业衰退与年轻劳动力[[Attrition\|流失]]，西门子将公众参与定位为企业与地方共生共荣的核心战略。
 > - **全链条教育外展与技能学徒制** 建立贯穿小学至博士后的系统通道：联合[[EngineeringUK\|英国工程协会]]（EngineeringUK）深度参展[[The Big Bang Fair\|大爆炸科技博览会]]（The Big Bang Fair）；组织一线女工程师进校园开展动手实验，打破工程领域的性别偏见；设立全英带薪工程学徒制（Apprenticeships）与工业实习岗位；联合大学设立定向资助工程博士（PhD）项目。
 > - **实证成效与社会认同** 为当地创造了数百个高技能就业岗位，学徒中女性与工薪背景比例显著提升，极大激发了约克郡社区对工业创新的归属感与认同感，成为跨国企业扎根地方的典范。

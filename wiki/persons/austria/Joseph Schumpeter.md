@@ -3,7 +3,7 @@ summary: "奥地利裔美国著名经济学家，演化经济学与现代创新�
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Hypothesis]]"
   - "[[Creativity]]"
+  - "[[Creative Destruction]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Paradigm]]"
   - "[[Document]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-05
 title: Joseph Schumpeter
 aliases:
   - Schumpeter, J.
@@ -58,7 +59,7 @@ aliases:
 > [!person-profile] 人物档案
 > - **身份位置** 约瑟夫·阿洛伊斯·熊彼特（Joseph Alois Schumpeter，1883–1950），奥地利裔美籍经济学家、社会学家；20 世纪最具原创性与深远影响力的经济学巨匠之一，现代**[[Evolutionary Economics|演化经济学]]**与创新经济学（Innovation Economics）的奠基宗师。
 > - **核心角色** 曾任奥地利财政部长、波恩大学教授，1932 年起长期执教于美国哈佛大学；打破新古典经济学静态完全竞争与一般均衡[[Hypothesis|假设]]，开创以“创新”与“企业家精神”为核心的动态非均衡经济演化理论体系。
-> - **跨学科影响** 提出[[Creativity|创造性]]破坏（Creative Destruction）、经济发展周期波以及创新两代演进模型（Mark I vs. Mark II）；其关于组织动态能力、[[Technological Trajectories|技术轨道]]变迁与探索–利用双元平衡的思想，不仅深刻重塑了产业组织与战略管理学（如 David Teece, James March），更在当代被跨界迁移至科技政策与公共治理领域，成为[[Public Dynamic Capabilities|公共部门动态能力]]理论的核心思想基石。
+> - **跨学科影响** 提出[[Creativity|创造性]]破坏（[[Creative Destruction]]）、经济发展周期波以及创新两代演进模型（Mark I vs. Mark II）；其关于组织动态能力、[[Technological Trajectories|技术轨道]]变迁与探索–利用双元平衡的思想，不仅深刻重塑了产业组织与战略管理学（如 David Teece, James March），更在当代被跨界迁移至科技政策与公共治理领域，成为[[Public Dynamic Capabilities|公共部门动态能力]]理论的核心思想基石。
 
 > [!claim] 核心理论主张
 > 资本主义经济的本质不是静态资源的边际最优分配，而是永不停息由“创新”驱动的动态突变过程。这种突变不断地从内部摧毁旧经济结构，同时创造全新的经济结构——这一“创造性破坏”（Creative Destruction）过程是资本主义赖以存在和演进的核心事实。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 796)]]
@@ -68,7 +69,7 @@ aliases:
 ## 核心学术贡献与思想构件
 
 > [!feature] 熊彼特经济学的四大核心理论构件
-> - **[[Creativity|创造性]]破坏（Creative Destruction）** 在《资本主义、社会主义与民主》（*Capitalism, Socialism and Democracy*, 1942）中提出，论证经济增长源于创新对既有市场结构与技术[[Paradigm|范式]]的革命性淘汰，而非静态价格竞争。
+> - **[[Creativity|创造性]]破坏（[[Creative Destruction]]）** 在《资本主义、社会主义与民主》（*Capitalism, Socialism and Democracy*, 1942）中提出，论证经济增长源于创新对既有市场结构与技术[[Paradigm|范式]]的革命性淘汰，而非静态价格竞争。
 > - **创新的概念与五种形式（Five Dimensions of Innovation）** 在《经济发展理论》（1911）中将创新界定为“建立一种新的生产函数”，涵盖：
 >   1. 引入一种新产品或新质量；
 >   2. 采用一种新生产方法或工艺；

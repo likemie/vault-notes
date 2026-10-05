@@ -9,7 +9,7 @@ aliases:
 summary: "儒学学习传统第四主题，以行动而非言语为修身标准；孔子不信任巧言令色，君子讷于言而敏于行，沉默不等于被动"
 type: concept
 domain: "chinese-philosophy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
   - "[[Critical Thinking]]"
+  - "[[Apprenticeship]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods: []
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-09-23
+updated: 2026-10-05
 ---
 
 # Action Better Than Words
@@ -126,7 +127,7 @@ updated: 2026-09-23
 
 > [!warning]
 > - 西方教育环境（重视课堂讨论、口头表达、辩论和即时反馈）与"行勝於言"传统的张力：前者可能将后者的沉默误判为"缺乏[[Critical Thinking\|批判性思维]]"，而后者可能将前者的多言视为"轻浮"([[Argument_Li_2012_Cambridge\|Li, 2012, pp.52-53]])
-> - "教师的慎言"在现代大班教学中如何操作？传统的一对一或少数学徒制的慎言传统是否与现代教育规模兼容，Li 未深入讨论
+> - "教师的慎言"在现代大班教学中如何操作？传统的一对一或少数[[Apprenticeship|学徒制]]的慎言传统是否与现代教育规模兼容，Li 未深入讨论
 
 ---
 

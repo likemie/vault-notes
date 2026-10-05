@@ -7,7 +7,7 @@ summary: "委内瑞拉/英国著名演化经济学家、技术创新与长波理
 type: person
 nationality: global
 person_region: "global"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Creativity]]"
+  - "[[Creative Destruction]]"
   - "[[Hypothesis]]"
   - "[[National Innovation System]]"
   - "[[General Purpose Technology]]"
@@ -62,7 +63,7 @@ updated: 2026-10-05
 > [!citation-card]- 人物定位的关键来源
 > 佩雷斯（Perez, 1983）深刻指出，适合某一套技术的社会与制度框架，绝不可能同样适合一套激进的全新技术。渐进式创新很容易被吸收，但激进创新因其内含的‘[[Creativity|创造性]]破坏’本质，必然在结构与社会调适上面临巨大阻力。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 18)]]
 >
-> *Perez (1983) has pointed out that the social and institutional framework which is hospitable to one set of technologies will not be so suitable for a radically new technology. Whereas incremental innovations can be easily accommodated, this may not be the case with radical innovations which by definition involve an element of creative destruction.*
+> *Perez (1983) has pointed out that the social and institutional framework which is hospitable to one set of technologies will not be so suitable for a radically new technology. Whereas incremental innovations can be easily accommodated, this may not be the case with radical innovations which by definition involve an element of [[Creative Destruction]].*
 
 ---
 

@@ -11,7 +11,7 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 2
+fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
   - subject/vocational-education
   - theme/university-industry-collaboration
 related_concepts:
+  - "[[Apprenticeship]]"
   - "[[Research Universities]]"
   - "[[Entrepreneurial University]]"
 related_theories: []
@@ -31,7 +32,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-10-02
+updated: 2026-10-05
 ---
 
 # German Dual Education System
@@ -58,7 +59,7 @@ updated: 2026-10-02
 ## 运行机制
 
 > [!example] 校企合作与人才留存
-> 在双元制框架下，德国政府积极推动校企合作和现代学徒制，支持企业开展产教融合试点项目，同时不断完善职业技能等级评定标准。约90%的理工科研究生在企业实习期间完成学位论文，确保学生在校期间就能深入接触实际工作环境。据杜伊斯堡-埃森大学的统计数据，约80%完成双元制培训的学员最终选择留在签约培训企业工作（pp.48–49）。
+> 在双元制框架下，德国政府积极推动校企合作和[[Apprenticeship|现代学徒制]]，支持企业开展产教融合试点项目，同时不断完善职业技能等级评定标准。约90%的理工科研究生在企业实习期间完成学位论文，确保学生在校期间就能深入接触实际工作环境。据杜伊斯堡-埃森大学的统计数据，约80%完成双元制培训的学员最终选择留在签约培训企业工作（pp.48–49）。
 
 ---
 

@@ -2,12 +2,13 @@
 title: Research Security
 aliases:
   - 研究安全
+  - 科研安全
   - safeguarding research
   - research security in universities
-summary: "大学为保护研究免受外国干预和经济间谍活动威胁而建立的制度性保障措施，在开放科学与国家安全之间寻求平衡"
+summary: "大学与科研体系为保护研究免受外国干预和经济间谍活动威胁而建立的制度性保障措施，在开放科学与国家安全之间寻求平衡；近年在科技竞争与大国博弈背景下进一步演化为国家重塑国际科研合作边界的核心治理工具"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +17,7 @@ tags:
   - theme/higher-education
   - theme/geopolitics
   - region/canada
+  - region/us
 related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Academic Freedom]]"
@@ -29,6 +31,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Dean_2025_UICollaborationSupport]]"
+  - "[[Argument_Fan_2026_BCAS]]"
 confidence: medium
 status: draft
 created: 2026-06-03
@@ -41,8 +44,17 @@ updated: 2026-10-05
 
 > [!info]
 > 研究安全（research security）指大学和研究机构为保护其研究活动、知识产权和研究人员免受外国干预、经济间谍活动和不正当[[Knowledge Transfer\|知识转移]]威胁而建立的制度性保障框架。与网络安全（cybersecurity）侧重技术系统保护不同，研究安全更关注研究合作关系中的人为风险——包括外国政府通过合作研究项目获取敏感技术、研究人员在不知情的情况下被利用、以及国际研究伙伴关系中的不对等权力关系。
+>
+> 战后建立在开放交流、同行信任与知识普遍主义基础上的科学国际主义公理正遭遇科研安全审查的结构性挑战，推动科学活动从公共知识取向朝战略工具取向深刻迁移。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1061)]]
 
 研究安全的核心张力在于：开放科学与国际合作是学术研究的基石，但在地缘政治紧张加剧的背景下，不加甄别的开放可能使研究成果被恶意行为体获取。因此研究安全不是简单地封闭合作，而是在透明性、可预测性、[[Academic Freedom|学术自由]]和开放科学规范之间寻求操作性的平衡。
+
+---
+
+## 国家科技治理中的安全化转向
+
+> [!tension] 国家安全与学术自治的结构张力
+> 从国家科技政策演变看，自 2016 年以来，美国等主要国家正式将“科研安全”纳入科技治理核心议程，国际科学合作被系统性置于国家安全与大国技术竞争框架之中。国际合作、人员流动与科研活动日益被全面纳入行政审查与合规体系，科学自治的合法性日益取决于对外部风险控制与国家安全要求的响应程度。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1061)]]
 
 ---
 

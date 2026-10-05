@@ -13,7 +13,7 @@ title: "Argument_Zhang_2023_PHEI"
 argument_key: "Argument_Zhang_2023_PHEI"
 argument_display_title: "科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索"
 argument_kind: "book"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Technology Transfer]]"
   - "[[Emergence]]"
+  - "[[Apprenticeship]]"
   - "[[Technology Transfer Office]]"
   - "[[Decodification]]"
   - "[[Big Science]]"
@@ -309,7 +310,7 @@ updated: 2026-10-03
 > > - [[300,000 Foreign Students Plan|留学30万人计划]]：增加派驻海外教育机构数量，改善入学考试条件，简化入境手续
 >
 > > [!features] 产官学协同
-> > - **企业主导培养** 企业投资建设工业实验室作为高校研究生教育科研基地，以"师徒制"培养
+> > - **企业主导培养** 企业投资建设工业实验室作为高校研究生教育科研基地，以"[[Apprenticeship|师徒制]]"培养
 > > - **[[Act on the Promotion of Technology Transfer from Universities to Private Business Operators|大学技术转让促进法]]** 建立[[Technology Transfer Office|TLO]]，负责挖掘、评估、选择具有产业潜能的研究成果
 > > - **筑波大学改革** 教师可创业并兼任公司董事长，持股比例不设限制
 >

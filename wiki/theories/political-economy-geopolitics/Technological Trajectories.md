@@ -7,7 +7,7 @@ aliases:
 summary: "由 Dosi 与 Pavitt 奠基的演化经济学核心理论，指技术变迁沿特定范式方向进行累积性、不可逆与路径依赖的演进；阐明技术来源、需求与专有性塑造产业异质性，以及军工首发采购、反垄断规制与嵌入型网络治理如何引导并协同新兴通用技术轨道的跨国分叉与起飞。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 59
+theory_related_count: 63
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -57,6 +57,7 @@ related_theories:
   - "[[ROAR Framework]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Case Study]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Statistical Process Control]]"
   - "[[Correlational Research]]"
@@ -71,6 +72,8 @@ related_persons:
 related_facts:
   - "[[DARPA]]"
   - "[[Community Innovation Survey]]"
+  - "[[Semiconductor Research Corporation]]"
+  - "[[Focus Center Research Program]]"
   - "[[Government Digital Service]]"
   - "[[Bell Labs]]"
   - "[[Department of Energy]]"
@@ -81,8 +84,8 @@ related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Macher_1998_CMR]]"
   - "[[Argument_Fuchs_2010_RP]]"
-  - "[[Argument_Fabrizio_Mowery_2005_REI]]"
   - "[[Argument_Logar_2014_Minerva]]"
+  - "[[Argument_Fabrizio_Mowery_2005_REI]]"
 confidence: high
 status: completed
 created: 2026-06-11
@@ -158,12 +161,12 @@ updated: 2026-10-05
 >
 > **应用实例** 评估生物医药产业与纺织产业时，对前者必须考核专利申请与临床转化平台，而对后者则应关注新型数控织机设备的技术扩散与操作技工培训。
 
-> [!case] 实证案例｜SRC 多轨道计划矩阵：对半导体技术轨迹的分层时域管理
-> 洛加尔（Logar）等人对美国[[Semiconductor Research Corporation|半导体研究公司]]（SRC）1982–2011 年的案例研究，提供了产业联合体如何主动对技术轨迹进行跨时域分层管理的典范实证。
+> [!case] 实证案例｜[[Semiconductor Research Corporation|SRC]] 多轨道计划矩阵：对半导体技术轨迹的分层时域管理
+> 洛加尔（Logar）等人对美国[[Semiconductor Research Corporation|半导体研究公司]]（SRC）1982–2011 年的[[Case Study|案例研究]]，提供了产业联合体如何主动对技术轨迹进行跨时域分层管理的典范实证。
 >
 > SRC 旗下四大子计划分别对应半导体[[Technological Trajectories|技术轨迹]]的不同成熟度区间，形成完整的时域覆盖矩阵：
 > - **全球研究协作（GRC，3–8 年视野）** 收窄技术选项，紧密对接国际半导体技术路线图（International Technology Roadmap for Semiconductors, ITRS），维持 CMOS 主流工艺延伸轨道的持续微缩；
-> - **焦点研究中心计划（[[Focus Center Research Program|FCRP]]，8–12 年视野）** 创造技术选项，探索 CMOS 物理极限与向超越 CMOS（Beyond CMOS）过渡的接口技术轨道；
+> - **[[Focus Center Research Program|焦点研究中心计划]]（[[Focus Center Research Program|FCRP]]，8–12 年视野）** 创造技术选项，探索 CMOS 物理极限与向超越 CMOS（Beyond CMOS）过渡的接口技术轨道；
 > - **纳米电子学研究倡议（NRI，10–15 年视野）** 探索全新逻辑开关物理原理，开辟后摩尔时代的颠覆性新器件技术轨道；
 > - **能源研究倡议（ERI）** 将微电子材料知识迁移至智能电网与光伏等跨领域技术轨道。
 >
@@ -319,6 +322,6 @@ updated: 2026-10-05
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 深入微电子产业前沿，揭示公共代理人（[[DARPA]] 项目经理）如何在[[Vertical Disintegration|纵向碎片化产业]]中调动[[Network Plasticity|网络可塑性]]与五大非正式机制，引导硅锗、应变硅、3D 封装与光芯片等战略性技术轨道跃迁。
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 实证剖析美日半导体产业竞争中从大宗存储器制造微缩向微处理器架构设计与垂直专业化分工的重大技术轨迹跃迁。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 实证对比美欧信息技术政策，揭示军工首发采购、反垄断规制与第二供应商强制扩散如何塑造美国多元竞争的技术轨迹，而欧洲扶持单一国家冠军则导致技术轨道锁定与跟跑滞后。
-> - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 以[[Semiconductor Research Corporation|半导体研究公司]]（SRC）1982–2011 年为案例，实证展示会员制研究联合体如何通过 GRC→FCRP→NRI 的多轨道计划矩阵，对半导体技术轨迹的不同成熟度时域进行分层管理，在维持主流 CMOS 轨道演进的同时，为后摩尔时代的颠覆性新器件轨道播撒制度性种子。
+> - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 以[[Semiconductor Research Corporation|半导体研究公司]]（SRC）1982–2011 年为案例，实证展示会员制研究联合体如何通过 GRC→[[Focus Center Research Program|FCRP]]→NRI 的多轨道计划矩阵，对半导体技术轨迹的不同成熟度时域进行分层管理，在维持主流 CMOS 轨道演进的同时，为后摩尔时代的颠覆性新器件轨道播撒制度性种子。
 
 ---

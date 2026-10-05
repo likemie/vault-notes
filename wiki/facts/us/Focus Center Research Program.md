@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 19
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -38,8 +38,11 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[University-Industry Collaboration]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Qualitative Interview]]"
+  - "[[Archival Research]]"
 related_instruments: []
 related_persons:
   - "[[David C. Mowery]]"
@@ -94,12 +97,12 @@ updated: 2026-10-05
 >
 > *To address the looming shortfall in long-term fundamental research, the SIA and SEMATECH established the Focus Center Research Program (FCRP) in 1998, creating [[Multi-University]] research centers dedicated to [[Precompetitive Research|pre-competitive research]] addressing challenges 10-15 years ahead while training advanced graduate students for the industry.* [[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 121, note 48)]]
 
-> [!taxonomy] FCRP 在 SRC 四计划矩阵中的定位：创造技术选项、享有高校自主权
+> [!taxonomy] FCRP 在 [[Semiconductor Research Corporation|SRC]] 四计划矩阵中的定位：创造技术选项、享有高校自主权
 > 在[[Semiconductor Research Corporation|半导体研究公司]]（SRC）四大子计划体系中，FCRP 的战略定位最为独特——承接从 CMOS 主流工艺延伸（GRC 负责的近期收窄）到后 CMOS 全新器件探索（NRI 负责的远期颠覆）之间的中远期过渡地带。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 246–249)]]
 >
 > - **研究本质** 创造技术选项，而非收窄已有选项；面向跨校多大学联合中心，而非单个研究者。
 > - **技术谱系** CMOS 物理极限探索及通往超越 CMOS（Beyond CMOS）的概念接口技术。
-> - **联邦资助杠杆** 与美国国防部（DoD）及国防高级研究计划局（DARPA）实行 50:50 对等联合注资并共同规划研究方向——这是 SRC 所有子计划中联邦参与度最高的计划。
+> - **联邦资助杠杆** 与美国国防部（DoD）及[[DARPA|国防高级研究计划局]]（DARPA）实行 50:50 对等联合注资并共同规划研究方向——这是 SRC 所有子计划中联邦参与度最高的计划。
 > - **高校自主权** 享有显著的学术自主权（区别于 GRC 等产业驱动型高协同计划），学者主导研讨会与成果评审。
 > - **会员准入** 仅限美国本土企业（与 GRC、ERI 的全球开放准入形成对比），以保障联邦配资的战略安全审查要求。
 > - **资助成效规模** 截至 2011 年在读博士生 520 名，历史累计培养 1,963 名高层次微电子工程师。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, p. 246)]]
@@ -142,7 +145,7 @@ updated: 2026-10-05
 > - **树立产学官公私研发合作（[[Public-Private Partnership in Research|PPP]]）制度标杆** 成功验证了在竞争性高技术领域，政府（[[DARPA]]）、[[Industry Affiliate Program|产业联盟]]（SIA/[[Sematech]]）与大学科研深度融合的长效治理模式。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
 
 > [!stat-cards]- 关键实证数据
-> - **8–12 年** FCRP 在 SRC 计划矩阵中负责的中远期技术时间视野（GRC 负责 3–8 年，NRI 负责 10–15 年）。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 246–249)]]
+> - **8–12 年** FCRP 在 [[Semiconductor Research Corporation|SRC]] 计划矩阵中负责的中远期技术时间视野（GRC 负责 3–8 年，NRI 负责 10–15 年）。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 246–249)]]
 > - **520 名与 1,963 名** 截至 2011 年 FCRP 在读博士生 520 名，历史累计培养高层次工程毕业生 1,963 名。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, p. 246)]]
 > - **50:50** DARPA 与产业界对等配资比例，FCRP 是 SRC 体系中联邦参与度最高的计划。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, p. 249)]]
 > - **30+ 所** 深度协同参与的全美顶尖[[Research Universities|研究型大学]]网络。
@@ -157,12 +160,12 @@ updated: 2026-10-05
 > > 部分学术界学者早期担忧，由[[Industry Affiliate Program|产业联盟]]和国防部共同命题可能导致大学科研沦为大企业的"廉价外包研发中心"。
 > >
 > > - **批评观点** 认为产业技术路线图（NTRS）设定的课题可能束缚教授在纯理论与非共识颠覆性方向上的自由探索。
-> > - **制度回应与平衡** FCRP 严格坚持基础物理与前竞争探索定位，禁止企业将具体的近中期产品工程问题带入中心，并在资助协议中刚性保障研究成果公开自由发表；相关质性访谈也证实，相较于 GRC 等产业驱动型计划，FCRP 参与高校教授享有更显著的学术自主权。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 248–249)]]
+> > - **制度回应与平衡** FCRP 严格坚持基础物理与前竞争探索定位，禁止企业将具体的近中期产品工程问题带入中心，并在资助协议中刚性保障研究成果公开自由发表；相关[[Qualitative Interview|质性访谈]]也证实，相较于 GRC 等产业驱动型计划，FCRP 参与高校教授享有更显著的学术自主权。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 248–249)]]
 
 > [!lessons] 经验教训与高教启示
 > - **大[[Corporate R&D Labs|企业中央实验室]]衰落后的制度替代机制** 表明在企业缩减基础研究的产业成熟期，国家必须建立多主体共建的大学研究中心，以承担战略性产业的底层科学地基重任。
 > - **人才培养与基础科研的双重红利** 证明了将前沿科研资助直接注入[[Research Universities|研究型大学]]的研究生教育，比建立封闭式国家实验室能产生更强大的产业人才外溢与技术扩散效应。
-> - **50:50 公私对等联合注资的放大效应** FCRP 的 DARPA-产业界对等配资模式证明，政府资金可通过与产业会费等比配套的方式实现双重杠杆放大，既保障长周期研发稳定性，又通过产业出资强化研究方向的实用导向。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 249, 257–258)]]
+> - **50:50 公私对等联合注资的放大效应** FCRP 的 [[DARPA]]-产业界对等配资模式证明，政府资金可通过与产业会费等比配套的方式实现双重杠杆放大，既保障长周期研发稳定性，又通过产业出资强化研究方向的实用导向。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 249, 257–258)]]
 
 ---
 
@@ -180,7 +183,7 @@ updated: 2026-10-05
 > | [[Research Universities]] | Concept | FCRP 计划的具体承接载体与前沿科研创新策源地。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 2022 年在国家层面全面吸收并扩展 FCRP 产学协同模式的重大法案。 |
 > | [[David C. Mowery]] | Person | 系统评估 FCRP 与半导体长周期基础科研脆弱性的科技政策学者。 |
-> | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] | [[Document\|文献]] | 系统呈现 FCRP 在 SRC 四计划矩阵中的定位（中远期技术选项创造）、50:50 DARPA 对等注资结构、高校自主权特征与累计 1,963 名博士培养规模的最详实档案研究。 |
+> | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] | [[Document\|文献]] | 系统呈现 FCRP 在 SRC 四计划矩阵中的定位（中远期技术选项创造）、50:50 DARPA 对等注资结构、高校自主权特征与累计 1,963 名博士培养规模的最详实[[Archival Research\|档案研究]]。 |
 
 ---
 

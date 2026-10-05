@@ -7,7 +7,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程；在宏观场域揭示资本偏向、跨国组织自指性指标帝国与高校基础科研体制变迁，在微观教育场域指向学习者在本土协商共同体中依托证据协调与认识论实践自主生成新知并内化说服优于强制的民主审议价值。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 90
+related_count: 91
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Blue Skies Research]]"
+  - "[[Apprenticeship]]"
   - "[[Policy Brokerage]]"
   - "[[Humboldtian Model of Higher Education]]"
   - "[[Teaching Assistant]]"
@@ -167,7 +168,7 @@ updated: 2026-10-05
 ### 1.2 核心要素与体制运作机制
 
 > [!feature] 宏观知识生产的四大体制维度
-> - **大学职能的历史性跃迁：从知识传播走向生产与传播并重** 19 世纪前欧美大学仅承担知识保存与传授功能；以 1810 年柏林洪堡大学改革及 1876 年约翰斯·霍普金斯大学创立为标志，现代大学制度确立了知识生产与传播兼备的双重使命，并经由研究生院制度将前沿科学知识生产与青年学者学徒制培养彻底绑定。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]
+> - **大学职能的历史性跃迁：从知识传播走向生产与传播并重** 19 世纪前欧美大学仅承担知识保存与传授功能；以 1810 年柏林洪堡大学改革及 1876 年约翰斯·霍普金斯大学创立为标志，现代大学制度确立了知识生产与传播兼备的双重使命，并经由研究生院制度将前沿科学知识生产与青年学者[[Apprenticeship|学徒制]]培养彻底绑定。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]
 > - **同行评审竞争与分散资助机制** 美国战后科研体制确立了联邦基金（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]）直接面向大学教师个人竞争性下拨的模式；激烈的同行评审竞争与跨校师资争夺构成了推动高水平基础科研生产的体制引擎。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **知识所有权与生产权的结构性剥离** 科学知识虽由大学学者生产，但在新自由主义商业化浪潮中，其法律所有权与经济收益被工业公司大量捕获；欧洲学术专利数据显示 60%–81% 归工业资本所有，引发[[Academic Capitalism|学术资本主义]]对知识公有性的侵蚀。[[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 71)]]
 > - **超国家组织的自指性指标帝国** 跨国机构（如[[World Bank|世界银行]]、[[OECD]]）脱离独立学术共同体，内部研发可量化指标、撰写专题评估并绑定政策贷款，形成集知识生产、[[Policy Brokerage|政策中介]]与资金出资为一体的封闭自指循环。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]

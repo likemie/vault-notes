@@ -12,9 +12,9 @@ title: "Argument_Cheng_2026_KeJiChuangXin"
 argument_key: "Argument_Cheng_2026_KeJiChuangXin"
 argument_display_title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
 argument_kind: "book"
-argument_related_count: 44
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: 科技创新和产业创新融合：中国的发展路径与对策研究报告
 publication_place: 北京
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Entrepreneurial University]]"
   - "[[Innovation Park]]"
+  - "[[Apprenticeship]]"
   - "[[Clinical Trial]]"
   - "[[Areas of Knowledge]]"
   - "[[Innovation Ecosystem]]"
@@ -329,7 +330,7 @@ citation_aliases:
 > [!info] 人才：[[German Dual Education System\|双元制]]职业教育
 > 德国教育体系以高等教育与职业教育并重为突出特点。全国有106所综合性大学、207所应用技术大学及2455所职业专科学校。研究型大学强调"教学与研究相结合"，鼓励学生尽早参与科研项目；应用技术大学专注于应用研究和实践技能培养。德国建立了包括"专业学士""专业硕士""专业博士"在内的独立高等职业教育学位体系。约90%理工科研究生在企业实习期间完成学位论文(p.48)。
 >
-> 双元制要求学员在职业学校和企业两个场所完成培训。1969年《联邦职业教育法》将其纳入国家公法体系，通过将学校教育与企业实践紧密结合并持续更新教学内容以适应产业技术需求。政府积极推动校企合作和现代学徒制，支持企业开展产教融合试点，不断完善职业技能等级评定标准。据杜伊斯堡-埃森大学统计，约80%完成培训的学员留在签约企业工作(pp.48–49)。
+> 双元制要求学员在职业学校和企业两个场所完成培训。1969年《联邦职业教育法》将其纳入国家公法体系，通过将学校教育与企业实践紧密结合并持续更新教学内容以适应产业技术需求。政府积极推动校企合作和[[Apprenticeship|现代学徒制]]，支持企业开展产教融合试点，不断完善职业技能等级评定标准。据杜伊斯堡-埃森大学统计，约80%完成培训的学员留在签约企业工作(pp.48–49)。
 
 > [!example] 验证：德国机床工业
 > 机床行业以中小企业为主力军，约51%企业员工不足250人，仅10%超过1000人。2023年总产值152.4亿欧元，超越日本成为全球第二大制造国，出口额95亿欧元、出口率69%均居全球首位。行业在工业4.0背景下积极引入数字化和网络互联技术，在传承传统制造工艺优势的同时持续创新。DMG MORI拥有逾百年创新历史，通过持续加大研发投入不断探索新型制造技术。Heller公司采用模块化设计理念，充分体现高柔性和可变性特点(pp.49–50)。

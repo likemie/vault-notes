@@ -9,7 +9,7 @@ subtype: event
 region: eu
 fact_region: "eu"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Network Governance]]"
   - "[[Policy Network]]"
+  - "[[Apprenticeship]]"
   - "[[Selectivity]]"
 related_theories:
   - "[[Theory of Change]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-14'
-updated: 2026-09-18
+updated: 2026-10-05
 ---
 
 # YOUNG_ADULLLT
@@ -79,7 +80,7 @@ updated: 2026-09-18
 
 ### 制度传统较强的国家
 
-- **德国及邻国**[[Policy Network|政策网络]]以 [[Neocorporatism]] 传统为特征——政府、雇主协会和工会的三方合作构成终身学习治理的核心架构。地方专业人员发展出系统性的[[Theory of Change|变革理论]]（如"学徒制系统"），为服务提供了连贯的行动框架（p.172–173）
+- **德国及邻国**[[Policy Network|政策网络]]以 [[Neocorporatism]] 传统为特征——政府、雇主协会和工会的三方合作构成终身学习治理的核心架构。地方专业人员发展出系统性的[[Theory of Change|变革理论]]（如"[[Apprenticeship|学徒制]]系统"），为服务提供了连贯的行动框架（p.172–173）
 - **芬兰** 以"公私民合作"（Public-Private-People-Partnerships）模式运作，终身学习被理解为面向所有人、服务于多元生命情境的人类发展服务，而非仅针对失业青年的就业工具（p.173）
 - **苏格兰** 采用"就业管道"（Employment Pipeline）模式，将就业服务、教育培训和非营利支持整合为一条龙网络（p.173）
 

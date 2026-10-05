@@ -7,7 +7,7 @@ aliases:
 summary: "区分不同资本主义制度协调方式的比较政治经济框架，常用来解释教育培训体系、企业行为和技能形成路径的跨国差异"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 10
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
 - subject/comparative-political-economy
 related_concepts:
   - "[[Corporate Education]]"
+  - "[[Apprenticeship]]"
   - "[[Central Phenomenon]]"
   - "[[Corporate University]]"
   - "[[Causal Over-determination]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-18'
-updated: '2026-05-18'
+updated: 2026-10-05
 ---
 
 # Varieties of Capitalism
@@ -68,7 +69,7 @@ updated: '2026-05-18'
 
 - **协调方式** 通过行业协会、工会、政府教育部门之间的复杂非市场安排来协调企业活动
 - **典型国家** 德国、奥地利、瑞士等欧陆国家
-- **制度特征** 劳动力市场受制度保护（如学徒制）、银行主导融资、行业协会和工会参与政策制定、技能形成体系高度制度化
+- **制度特征** 劳动力市场受制度保护（如[[Apprenticeship|学徒制]]）、银行主导融资、行业协会和工会参与政策制定、技能形成体系高度制度化
 - **对企业教育的影响** 初始职业教育（IVET）深嵌于国家层面的非市场制度网络，跨国转移极为困难。所有受访德国 MNCs 试图在海外分支建立学徒制的尝试均告失败([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.184–185]])
 
 ---
@@ -80,7 +81,7 @@ updated: '2026-05-18'
 
 ### 为何 IVET 难以国际化？
 
-IVET（如德国双元学徒制）高度依赖 CME 特有的制度互补性（institutional complementarities）——行业协会制定培训标准、工会参与协商、政府提供职业学校。这些制度组件在 LME 环境中不存在，单独移植某一组件（如"公司内培训"）无法使整个系统运转([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.184–185]])。
+IVET（如德国双元[[Apprenticeship|学徒制]]）高度依赖 CME 特有的制度互补性（institutional complementarities）——行业协会制定培训标准、工会参与协商、政府提供职业学校。这些制度组件在 LME 环境中不存在，单独移植某一组件（如"公司内培训"）无法使整个系统运转([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.184–185]])。
 
 > 例：一家德国制药公司想在巴西分公司复制双元学徒制。但巴西没有德国的行业协会、没有对应的职业学校、没有工会-雇主协商机制——结果是"移植"失败。IVET 像一台需要特定电压的机器，带到电压不同的国家就无法启动。（基于 Hartmann, 2022, pp.184–185）
 
@@ -119,7 +120,7 @@ Hartmann 结合产业社会学对 MNC 组织类型的分类，揭示了 VoC and 
 
 Schulze-Cleven & Olson的分析揭示了高等教育自由化中路径依赖的三个具体机制([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.803–804]])：
 
-- **制度互补性（institutional complementarities）** 高等教育的市场化改革不是发生在制度真空中。在德国，行业协会、工会和职业教育体系构成的制度网络使得激进的市场化改革难以推进——因为这些制度组件的变动会触发连锁反应，波及学徒制、劳动市场和福利国家的其他部分。在挪威，强国家干预的传统和进步主义的政治文化使得公共供给的韧性远超市场化压力
+- **制度互补性（institutional complementarities）** 高等教育的市场化改革不是发生在制度真空中。在德国，行业协会、工会和职业教育体系构成的制度网络使得激进的市场化改革难以推进——因为这些制度组件的变动会触发连锁反应，波及[[Apprenticeship|学徒制]]、劳动市场和福利国家的其他部分。在挪威，强国家干预的传统和进步主义的政治文化使得公共供给的韧性远超市场化压力
 - **政策反馈效应（policy [[Feedback]]）** 一旦某种制度安排定型，它会创造出受益于现状的选民群体，使得逆转成本极高。美国学生贷款市场的扩张创造了一个由贷方、服务商和依赖学费收入的大学组成的庞大利益集团——这些集团成为进一步金融化的政治推手。相反，德国学生运动成功撤销学费的案例表明，当反对力量足够强大时，政策反馈也可以产生逆转
 - **制度合法性的差异** 不同类型的福利资本主义对"市场"和"国家"的规范性理解不同。在自由主义国家（美国），"市场"被赋予天然的合法性，"国家干预"需要特殊辩护。在社会民主主义国家（挪威），"国家提供"是默认[[Hypothesis|假设]]，"市场化"需要特殊辩护。这些合法性框架深刻约束了政治行动者可选择的策略空间
 

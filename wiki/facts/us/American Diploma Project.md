@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[College and Career Readiness]]"
+  - "[[Apprenticeship]]"
   - "[[Document]]"
 related_theories: []
 related_methods:
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-10-05
 ---
 
 # American Diploma Project
@@ -113,7 +114,7 @@ updated: 2026-09-26
 ## 争议、批评与反思
 
 > [!debates] 方案争议与局限
-> - **大学预科定位与职业教育挤压** 批评指出 ADP 过于偏重学术型大学升学的技能标准，虽然冠以“职业”之名，但本质上仍是文理学院倾向的学术要求，客观上挤压了基层高中的传统职业技能与学徒制教育空间。
+> - **大学预科定位与职业教育挤压** 批评指出 ADP 过于偏重学术型大学升学的技能标准，虽然冠以“职业”之名，但本质上仍是文理学院倾向的学术要求，客观上挤压了基层高中的传统职业技能与[[Apprenticeship|学徒制]]教育空间。
 > - **缺乏法定强制问责手段** 作为一个自愿性智库项目，ADP 无法强制各州真正把基准落实到每一间普通教室的高利害毕业考核中，部分州在签署协议后出现政策象征性采纳而实际执行滞后的现象。
 
 ---

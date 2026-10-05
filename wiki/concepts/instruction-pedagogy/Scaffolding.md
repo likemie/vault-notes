@@ -14,7 +14,7 @@ aliases:
 summary: "教师、同伴或技术工具在学习者最近发展区内提供的临时性认知与教学支持结构，通过任务拆解、启发提示与系统性渐隐，协助学习者跨越能力边界并将外部支持内化为自主心智能力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 67
+related_count: 68
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -64,6 +64,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Epistemic Virtues and Vices]]"
   - "[[Cognitive Apprenticeship]]"
+  - "[[Apprenticeship]]"
   - "[[Learning Analytics]]"
   - "[[Open-Mindedness]]"
   - "[[Heterogeneity]]"
@@ -99,7 +100,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Scaffolding
@@ -258,7 +259,7 @@ updated: 2026-10-03
 
 > [!dev-timeline] 脚手架概念的演变历程
 > - **1976 — 起源奠基阶段** David Wood, Jerome Bruner, & Gail Ross 首次提出“脚手架（Scaffolding）”概念隐喻，用以描述辅导者在儿童积木拼搭任务中控制超出儿童能力的要素、维持注意力并示范关键行动的互动过程。
-> - **1980s–1990s — [[Cognitive Apprenticeship\|认知学徒制]]与教学法推广** Allan Collins, John Seely Brown, & Susan Newman 将脚手架拓展为“示范—脚手架—渐隐”的认知学徒制三大支柱；学界正式将[[Lev Vygotsky\|维果茨基]]的[[Zone of Proximal Development\|最近发展区]]理论确立为脚手架的核心依托。
+> - **1980s–1990s — [[Cognitive Apprenticeship\|认知学徒制]]与教学法推广** Allan Collins, John Seely Brown, & Susan Newman 将脚手架拓展为“示范—脚手架—渐隐”的认知[[Apprenticeship|学徒制]]三大支柱；学界正式将[[Lev Vygotsky\|维果茨基]]的[[Zone of Proximal Development\|最近发展区]]理论确立为脚手架的核心依托。
 > - **2000s–2016 — 数字化科学探究与指导等价性确立** Quintana 等人构建软件支架框架；Lazonder & Harmsen (2016) 针对 72 项研究的[[Meta-analysis\|元分析]]确立了指导支架使探究成效提升 $d = 0.50$ 以及六种支架类型促学等价性的实证规律。
 > - **2020s–2024 — 智能自适应技术与分阶段渐隐策略** 随着大语言模型与[[AI Agent in Education\|智能体]]的普及，脚手架从静态规则提示发展为能够开展多轮启发式对话与实时[[Learning Analytics\|学习分析]]的动态认知伙伴；学界聚焦于分阶段渐隐策略与先验调节，防止技术环境下的心智外包与多重支架过载。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 14–15)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 4, 8)]]
 > - **2025 — 双轨干预支架与[[Epistemic Stances\|认识立场]]演进模型确立** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出双轨干预矩阵（技术提示支架 + 教学法支架），系统阐明其在支持认识立场向评价主义演进与维系[[Epistemic Agency\|认识主体性]]中的必要机制。

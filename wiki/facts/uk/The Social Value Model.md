@@ -11,9 +11,9 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: Cabinet Office, Government Commercial Function
 tags:
@@ -23,6 +23,7 @@ tags:
   - policy/procurement
 related_concepts:
   - "[[Informal Science Learning]]"
+  - "[[Apprenticeship]]"
   - "[[Public Engagement with Science]]"
   - "[[Lifelong Learning]]"
 related_theories: []
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-07
+updated: 2026-10-05
 ---
 
 # The Social Value Model
@@ -76,7 +77,7 @@ updated: 2026-09-07
 > - **社会协同中介伙伴** 地方[[Informal Science Learning\|非正式科学教育]]机构（如科技探索中心、科学馆、社区科技组织），具备专业化公众沟通架构与成熟的在地社区联结，成为企业购买或合作落地社会价值的首选载体。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 69)]]
 
 > [!pathways]- 实施路径与公共科学参与创新
-> - **从商业交付向全人技能赋能拓展** 竞标企业将 10% 的社会价值承诺转化为提供高质量青年学徒制岗位、支持中小学教师产业见习，以及为边缘工薪社区提供数字化与科学探究体验。
+> - **从商业交付向全人技能赋能拓展** 竞标企业将 10% 的社会价值承诺转化为提供高质量青年[[Apprenticeship|学徒制]]岗位、支持中小学教师产业见习，以及为边缘工薪社区提供数字化与科学探究体验。
 > - **采购杠杆激活非正式科学基建生态** 政策有力打破了传统科技企业与校外科普场馆之间的壁垒；英国皇家学会明确建议，中央政府应将科普外展（Science Outreach）全面纳为展示社会价值的合规选项，引导企业通过定向采购注入资金，支撑面临财政生存危机的在地科技场馆。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 48)]]
 
 ---

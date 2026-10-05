@@ -9,7 +9,7 @@ aliases:
 summary: "由 Lev Vygotsky 提出的发展与教学核心构念，指儿童独立解决问题的现有发展水平与在成人指导或更有能力的同伴协作下的潜在发展水平之间的动态差距，是动态评估、脚手架教学与自适应教育智能体的理论基础。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Paradigm]]"
   - "[[Cognitive Apprenticeship]]"
+  - "[[Apprenticeship]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Peer-Supported Learning]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-09-22
+updated: 2026-10-05
 ---
 
 # Zone of Proximal Development
@@ -150,7 +151,7 @@ updated: 2026-09-22
 > - **1930年代 理论奠基与中介转向** [[Lev Vygotsky]] 在《社会中的心灵》等讲稿中正式提出 ZPD 概念，主张高级心理机能起源于人际交往的社会中介过程。
 > - **1976年 [[Scaffolding\|脚手架]]（Scaffolding）教学隐喻提出** Wood、Bruner 与 Ross 提出脚手架概念，将 ZPD [[Operationalization\|操作化]]为可落地的六大教学支撑功能（定向、简化、维持方向、指出关键特征、控制挫折、专家示范）。
 > - **1980年代 动态评估（Dynamic Assessment）体系成型** Feuerstein 及 Brown & Ferrara 开发测试-干预-再测试（Test-Intervene-Retest）[[Paradigm\|范式]]，直接以儿童在干预后的学习敏锐度（Learning Potential）来度量 ZPD。
-> - **1990年代 [[Cognitive Apprenticeship\|认知学徒制]]与情境学习融合** Collins、Brown 等提出认知学徒制（Cognitive Apprenticeship），强调在真实问题情境中由师傅示范专家思维，在学徒的 ZPD 内提供反思反馈。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287–288)]]
+> - **1990年代 [[Cognitive Apprenticeship\|认知学徒制]]与情境学习融合** Collins、Brown 等提出认知[[Apprenticeship|学徒制]]（Cognitive Apprenticeship），强调在真实问题情境中由师傅示范专家思维，在学徒的 ZPD 内提供反思反馈。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287–288)]]
 > - **2020年代 智能时代自适应[[AI Agent in Education\|教育智能体]]的算法实现** 随着[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）与[[Intelligent Tutoring Systems\|智能导师系统]]（Intelligent Tutoring Systems, ITS）的发展，AI 智能体基于贝叶斯知识追踪（Bayesian Knowledge Tracing, BKT）或大语言模型实时感知学习者输入，将 ZPD 落地为秒级动态自适应反馈。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026)]]
 
 ---
@@ -194,7 +195,7 @@ updated: 2026-09-22
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — 将 AI [[AI Agent in Education\|智能体]][[Operationalization\|操作化]]为基础教育（K-12）学生的外部[[Scaffolding\|认知脚手架]]，论证其在最近发展区内自适应微提示对[[Procedural Skill\|程序技能]]与[[Higher-Order Thinking Skills\|高阶思维]]的赋能机制（pp. 2, 9–10）。
-> - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 阐述导师在学徒制与认知脚手架中如何在最近发展区内示范专家思维、提供反思线索以促进[[Critical Thinking\|批判性思维]]（pp. 287–288）。
+> - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 阐述导师在[[Apprenticeship|学徒制]]与认知脚手架中如何在最近发展区内示范专家思维、提供反思线索以促进[[Critical Thinking\|批判性思维]]（pp. 287–288）。
 > - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 梳理[[Lev Vygotsky\|维果茨基]]社会文化理论在中西教育比较中的发展，阐述 ZPD 与社会互动育人机制（p. 590）。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 探讨文化信念与社会化中照料者在儿童 ZPD 中提供的认知引导与心智塑造（p. 198）。
 > - [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] — 运用维果茨基科学概念与自发概念理论及 ZPD 阐述强[[Powerful Knowledge\|有力知识]]的课程转化（p. 4）。

@@ -2,10 +2,10 @@
 summary: "由亨利·埃尔加斯于1987年提出的经典国家技术政策二分理论，将主要工业国科技战略划分为以大科学攻坚与激进技术突破为核心的使命导向型（如美、英、法）以及以技术广泛渗透、职业技能培训与增量工艺优化为核心的扩散导向型（如德、瑞、日）两大范式；为使命导向政策的制度演进与国家能力比较奠定了基础。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 23
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 24
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theory/science-policy
   - innovation-policy
@@ -17,6 +17,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Big Science]]"
   - "[[Grand Challenges]]"
+  - "[[Apprenticeship]]"
   - "[[New Public Management]]"
   - "[[Absorptive Capacity]]"
   - "[[Total Factor Productivity]]"
@@ -75,7 +76,7 @@ aliases:
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 经济学家亨利·埃尔加斯（Henry Ergas）于 1987 年在[[OECD|经济合作与发展组织]]（OECD）及全美工程院国际研讨会论文集《技术与全球工业》（*Technology and Global Industry*）中发表奠基论文《技术政策至关重要吗？》（*Does technology policy matter?*）。
 > - **原初问题** 为何二战后美、英、法投入了巨额财政研发预算却在大量民用制造业领域被西德、日本及瑞士反超？不同技术政策传统如何塑造了各国的长期产业演进轨迹？
-> - **经验材料** 深入考察 1960–1980 年代美、英、法、德、瑞、日六国的公共研发预算结构、专利分布、国防采购规模、职业技能学徒制及标准化行业组织。
+> - **经验材料** 深入考察 1960–1980 年代美、英、法、德、瑞、日六国的公共研发预算结构、专利分布、国防采购规模、职业技能[[Apprenticeship|学徒制]]及标准化行业组织。
 > - **演化拓展** [[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）于 2018 年将其重新引入使命导向政策演进理论，分析冷战[[Big Science|大科学]]攻关在不同国家的成败机制，并揭示[[New Public Management|新公共管理]]（NPM）改革如何侵蚀了这两类传统的底层行政能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790, 794–796)]]
 
 ---

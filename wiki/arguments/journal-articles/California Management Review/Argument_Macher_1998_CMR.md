@@ -36,6 +36,7 @@ related_concepts:
   - "[[Technology Driver Hypothesis]]"
   - "[[Hypothesis]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Lean Production]]"
   - "[[Falsification]]"
   - "[[Emergence]]"
   - "[[Cost of Ownership]]"
@@ -76,7 +77,7 @@ title: "Argument_Macher_1998_CMR"
 argument_key: "Argument_Macher_1998_CMR"
 argument_display_title: "Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -212,7 +213,7 @@ issuing_organization: ""
 
 #### 1. 推行全面过程质量管理与一线员工技能培训使缺陷率压降至国际领先水平
 
-美国半导体制造企业通过吸收日本精益制造经验，推动了工程质量管理与人力技能开发的系统升级，将质量控制由传统的后端成品检验前移至制造全流程参数监控与全员参与。
+美国半导体制造企业通过吸收日本[[Lean Production|精益制造]]经验，推动了工程质量管理与人力技能开发的系统升级，将质量控制由传统的后端成品检验前移至制造全流程参数监控与全员参与。
 
 > [!proc] 美国半导体制造工程质量改进与技能赋能的关键环节
 > 1. **统计过程控制（SPC）的产线全员贯通与技能培训** 广泛对洁净室一线操作工（operators）与设备技术员（technicians）进行 SPC 统计图表与方差控制培训，使产线人员能够直接基于工艺偏差数据做出自主调整，从源头减少晶圆缺陷产生。（pp. 113–114）

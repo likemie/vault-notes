@@ -10990,6 +10990,15 @@
     ]
   },
   {
+    "title": "Technology-Oriented Social Contract",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Technology-Oriented Social Contract.md",
+    "aliases": [
+      "技术型社会契约",
+      "能力中心型契约"
+    ]
+  },
+  {
     "title": "Tilting the Playing Field",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Tilting the Playing Field.md",
@@ -12755,6 +12764,7 @@
     "path": "wiki/concepts/university-industry-collaboration/Research Security.md",
     "aliases": [
       "研究安全",
+      "科研安全",
       "safeguarding research",
       "research security in universities"
     ]
@@ -15052,6 +15062,17 @@
     "aliases": [
       "ROAR Policy Framework",
       "ROAR Framework for Innovation Policy"
+    ]
+  },
+  {
+    "title": "Social Contract of Science",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Social Contract of Science.md",
+    "aliases": [
+      "科学的社会契约",
+      "科学社会契约",
+      "Social Contract for Science",
+      "social contract between science and society"
     ]
   },
   {
@@ -29632,6 +29653,17 @@
     ]
   },
   {
+    "title": "Restoring Gold Standard Science Executive Order",
+    "type": "fact",
+    "path": "wiki/facts/us/Restoring Gold Standard Science Executive Order.md",
+    "aliases": [
+      "恢复黄金标准的科学",
+      "恢复黄金标准科学行政令",
+      "Restoring Gold Standard Science",
+      "Executive Order on Restoring Gold Standard Science"
+    ]
+  },
+  {
     "title": "Seaborg Report 1960",
     "type": "fact",
     "path": "wiki/facts/us/Seaborg Report 1960.md",
@@ -31828,6 +31860,11 @@
     "title": "Argument_Wecker_2016_ZfE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md"
+  },
+  {
+    "title": "Argument_Fan_2026_BCAS",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Bulletin of Chinese Academy of Sciences/Argument_Fan_2026_BCAS.md"
   },
   {
     "title": "Argument_Yu_Xie_2025_JHE",

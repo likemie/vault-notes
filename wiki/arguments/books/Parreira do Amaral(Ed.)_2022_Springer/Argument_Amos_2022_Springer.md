@@ -9,7 +9,7 @@ title: "Argument_Amos_2022_Springer"
 argument_key: "Argument_Amos_2022_Springer"
 argument_display_title: "Which Vision of Education for Late Modernity? In M"
 argument_kind: "book"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Haraway's SF]]"
   - "[[Humosity]]"
   - "[[Mondialisation]]"
+  - "[[Apprenticeship]]"
   - "[[Epoché]]"
   - "[[Ubuntu]]"
   - "[[Buen Vivir]]"
@@ -256,7 +257,7 @@ citation_aliases:
 >
 > 她给出两个相互加强的解释：第一，大众教育——无论是国家中心还是市场中心——是问题的**一部分**而非解决方案。它的 DNA 里编码了竞争、增长和"粗野个人主义"（rugged individualism），正是制造了 Haraway and Escobar 所批评的全球问题的那种心态。第二，他们似乎**把社会化视为理所当然**——教育会随着共同体的转型而自动发生(p.63)。
 >
-> > 例：Haraway 在 *Staying with the Trouble* 的最后一章设想的社区，以 SF 为核心活动——人们聚在一起讲故事、编织线绳图案、创造跨物种的关系叙事。但她没有讨论谁来教孩子识字、谁来评估学习成果、谁来认证技能。在某种程度上，她设想的学习是一种"学徒制"式的、嵌在日常生活和共同体关系中的过程——不是发生在称为"学校"的专门机构里。
+> > 例：Haraway 在 *Staying with the Trouble* 的最后一章设想的社区，以 SF 为核心活动——人们聚在一起讲故事、编织线绳图案、创造跨物种的关系叙事。但她没有讨论谁来教孩子识字、谁来评估学习成果、谁来认证技能。在某种程度上，她设想的学习是一种"[[Apprenticeship|学徒制]]"式的、嵌在日常生活和共同体关系中的过程——不是发生在称为"学校"的专门机构里。
 >
 > Amos 指出，如果一定要为 Haraway 的愿景找一位教育理论家，那应该是 **[[John Dewey]]** 而非 Wilhelm von Humboldt 或 Maria Montessori。Dewey 强调教育与经验、与民主生活、与共同体的连续性——与 Haraway 的"在稠密的当下好好生、好好死"（live and die well together in a thick present）的伦理有相通之处。
 >

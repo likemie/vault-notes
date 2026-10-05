@@ -32,6 +32,7 @@ related_concepts:
   - "[[Market Shaping and Creating]]"
   - "[[Fair Market Value]]"
   - "[[Assemblage]]"
+  - "[[Lean Production]]"
   - "[[Knowledge Exchange]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Technological Catch-up]]"
@@ -68,7 +69,7 @@ title: "Argument_Bown_2024_JEP"
 argument_key: "Argument_Bown_2024_JEP"
 argument_display_title: "Semiconductors and modern industrial policy"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -282,7 +283,7 @@ issuing_organization: ""
 2020 至 2022 年的新冠疫情期间，居家办公需求激增导致消费电子芯片需求暴涨，而汽车厂商因前期误判削减订单，随后遭遇全球晶圆代工厂产能挤占，引发了长达两年的全球汽车芯片严重短缺。（pp. 95–96）
 
 > [!danger] 疫情期间汽车芯片断供危机的警示
-> - **微观企业决策与宏观安全错配** 跨国汽车制造企业长期奉行精益生产与零库存管理，在遭遇全球突发扰动时完全丧失抗风险缓冲能力。（p. 96）
+> - **微观企业决策与宏观安全错配** 跨国汽车制造企业长期奉行[[Lean Production|精益生产]]与零库存管理，在遭遇全球突发扰动时完全丧失抗风险缓冲能力。（p. 96）
 > - **经济负外部性外溢** 单一环节成熟芯片（如微控制器 MCU）的断供，直接瘫痪了价值数千亿美元的整车装配产线，迫使政策制定者将供应链韧性与去风险确立为国家干预的合法依据。（p. 96）
 
 #### 3. 美国综合运用直接制造补贴、护栏条款与先进制程多边出口管制，全力阻断中国获取先进制程技术

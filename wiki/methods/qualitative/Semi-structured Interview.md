@@ -8,7 +8,7 @@ summary: "在预先准备的话题提纲与开放式追问之间取得平衡的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 25
+method_related_count: 28
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Fitness for Purpose]]"
   - "[[Emergence]]"
   - "[[School Leadership]]"
+  - "[[University-Industry Collaboration]]"
 related_methods:
   - "[[Qualitative Interview]]"
   - "[[Interview Protocol]]"
@@ -43,12 +44,14 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
   - "[[Argument_Torres_2022_BarriersMechanisms]]"
   - "[[Argument_Kelly_2025_ROE]]"
+  - "[[Argument_Logar_2014_Minerva]]"
 related_facts:
   - "[[OECD]]"
+  - "[[Semiconductor Research Corporation]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-22
+updated: 2026-10-05
 ---
 
 # Semi-structured Interview
@@ -133,4 +136,4 @@ updated: 2026-09-22
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011, Ch. 21)]] — 系统介绍了半结构化[[Interview Protocol\|访谈提纲]]的构建，包括问题格式、回答模式、提示与追问的设计原则。
 > - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a, p. 107)]] — 在[[OECD\|经合组织]]（OECD）跨国政策调查中，针对 6 个入选典型国家开展跟进半结构化访谈，对自陈[[Questionnaire\|问卷]]反映出的机制与阻碍障壁（如新西兰资金倾斜、斯洛文尼亚部委思维重塑、南非机制嵌入等）进行定性深挖与三角核实。
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 9–11)]] — 在英格兰西南部、苏格兰格拉斯哥城市区与德国汉堡大都市区选取生源与规模相当的 9 所初等、中等与特殊学校校长开展 1 小时半结构化访谈（Semi-structured Interview），深入挖掘[[School Leadership\|学校领导]]者在不同治理背景下的证据获取渠道、使用约束与效用认知。
-> - [[Argument_Logar_2014_Minerva|Logar et al. (2014, p. 240)]] — 在对半导体研究公司（SRC）的单机构案例研究中，对 SRC 总裁、项目主管、成员企业代表及受资助高校学者等 19 名关键决策与参与主体开展半结构化定性访谈（Semi-structured Interview），系统考察产学合作创新联合体的决策机制、用户需求吸纳与机构治理特征。
+> - [[Argument_Logar_2014_Minerva|Logar et al. (2014, p. 240)]] — 在对[[Semiconductor Research Corporation|半导体研究公司]]（SRC）的单机构[[Case Study|案例研究]]中，对 SRC 总裁、项目主管、成员企业代表及受资助高校学者等 19 名关键决策与参与主体开展半结构化定性访谈（Semi-structured Interview），系统考察[[University-Industry Collaboration|产学合作]]创新联合体的决策机制、用户需求吸纳与机构治理特征。

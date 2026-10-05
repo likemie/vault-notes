@@ -30,6 +30,7 @@ related_concepts:
   - "[[Pre-negotiated IP Rights]]"
   - "[[Product-Specific Research]]"
   - "[[Research Translation]]"
+  - "[[Apprenticeship]]"
   - "[[Social-Emotional Learning]]"
   - "[[Creativity]]"
   - "[[Research Topic]]"
@@ -58,7 +59,7 @@ title: "Argument_Hoffman_2025_UI_Alliances_Consortia"
 argument_key: "Argument_Hoffman_2025_UI_Alliances_Consortia"
 argument_display_title: "University-Industry Alliances and Consortia"
 argument_kind: "book"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -232,7 +233,7 @@ citation_aliases:
 >
 > 23. AMRC 成立十年后，主要产业伙伴开始在 AMRC 园区建立制造工厂——从"派人来做研究"升级到了"把生产线搬到研究设施旁边"。这一步的关键意义在于：联合体从纯粹的研究合作演变成了一个**经济集聚效应**——产业的物理聚集进一步吸引了更多产业成员和更大的政府投资。
 >
-> 24. 伴随产业聚集而来的是劳动力需求。AMRC 建立了学徒培训中心，每年招收 200–250 名学徒（通常收到约 1,000 份申请，录取率约 20–25%）。学徒由一家当地制造商赞助（支付一半学费，另一半由英国政府提供），三年培训期间在 AMRC 培训和赞助公司工作之间分配时间。学徒毕业时无债务、有全职岗位。两条轨道并行：一条直接通向认证和就业，另一条可以继续攻读谢菲尔德大学的两年制或四年制学位，甚至一路读到硕士或博士(pp.115–116)。
+> 24. 伴随产业聚集而来的是劳动力需求。AMRC 建立了[[Apprenticeship|学徒培训]]中心，每年招收 200–250 名学徒（通常收到约 1,000 份申请，录取率约 20–25%）。学徒由一家当地制造商赞助（支付一半学费，另一半由英国政府提供），三年培训期间在 AMRC 培训和赞助公司工作之间分配时间。学徒毕业时无债务、有全职岗位。两条轨道并行：一条直接通向认证和就业，另一条可以继续攻读谢菲尔德大学的两年制或四年制学位，甚至一路读到硕士或博士(pp.115–116)。
 >
 > 25. **学徒-博士的连续体**是 AMRC 最独特的制度创新。在大多数国家，职业培训（学徒制）和学术教育（博士项目）是两条平行线，互不交叉。AMRC 将它们放在同一个物理空间和组织架构中，让学生可以在任何节点进入或离开——学徒可以在工作两年后选择读学位，博士生可以在研究过程中接受企业的实践培训。这不仅服务于产业的劳动力需求，更重要的是打破了"做手艺的人不读书，读书的人不做手艺"的文化隔阂。
 >

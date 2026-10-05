@@ -9,7 +9,7 @@ title: "Argument_Hartmann_2022_CorporateEducation"
 argument_key: "Argument_Hartmann_2022_CorporateEducation"
 argument_display_title: "The Internationalisation of Further Education: Between Geoeconomics and Geopolitics"
 argument_kind: "book"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Further Education]]"
   - "[[Soft Power]]"
+  - "[[Apprenticeship]]"
   - "[[Lifelong Learning]]"
   - "[[Research Scope]]"
 related_theories:
@@ -136,7 +137,7 @@ Hartmann 接着论证：不是所有企业教育都能轻易国际化。能否�
 
 **初始职业教育（IVET）：高度依赖国家制度，难以跨国转移**
 
-IVET 是德国双元学徒制这类教育——学徒一半时间在公司、一半在公立职业学校。它依赖行业协会、工会、政府教育部门之间的复杂非市场协调。Hartmann 的访谈证据一致表明：**所有受访的德国 MNCs 都试图在海外分支建立学徒制，但全都遭遇系统性困难(pp.184–185)**。
+IVET 是德国双元[[Apprenticeship|学徒制]]这类教育——学徒一半时间在公司、一半在公立职业学校。它依赖行业协会、工会、政府教育部门之间的复杂非市场协调。Hartmann 的访谈证据一致表明：**所有受访的德国 MNCs 都试图在海外分支建立学徒制，但全都遭遇系统性困难(pp.184–185)**。
 
 > 例：一家德国制药公司想在巴西的分公司复制德国的双元学徒制。但巴西没有德国的行业协会制度、没有对应的职业学校体系、没有类似的工会-雇主协商机制。结果：这个"移植"失败了。这说明 IVET 像一棵扎根于特定土壤的树——你可以把种子带到别处，但如果没有同样的土壤，它长不出来(pp.184–185)。
 
@@ -244,7 +245,7 @@ Hartmann 在结论中坦承，我们无法确定当前的格局到底意味着�
 - 继续教育以非学位证书和微证书为主，与高等教育一起构成了后福特经济中"[[Lifelong Learning|终身学习]]"的两大支柱(p.179)
 
 **关于企业教育的国际化能力：**
-- 初始职业教育（IVET）高度依赖国家层面的非市场制度安排，难以跨国转移。所有受访德国 MNCs 在海外分支建立学徒制的尝试均遇到系统性困难(pp.184–185)
+- 初始职业教育（IVET）高度依赖国家层面的非市场制度安排，难以跨国转移。所有受访德国 MNCs 在海外分支建立[[Apprenticeship|学徒制]]的尝试均遇到系统性困难(pp.184–185)
 - 管理层的继续教育最可能国际化：超过 50% 的 MNCs 提供全球高潜力人才培训项目，多数拥有全球继任计划(p.185)
 - 国际型 MNCs（高整合、低本地响应）和跨国型 MNCs（高整合、高本地响应）均能创造企业教育的跨国空间，但在知识标准化方式上存在本质差异(pp.187–188)
 

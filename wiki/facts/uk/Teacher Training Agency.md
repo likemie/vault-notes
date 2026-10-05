@@ -12,9 +12,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "Executive Non-Departmental Public Body (Quango)"
 headquarters: "London, United Kingdom"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Initial Teacher Training]]"
   - "[[New Public Management]]"
   - "[[Teaching Assistant]]"
+  - "[[Apprenticeship]]"
   - "[[Academic Freedom]]"
   - "[[Policy Network]]"
   - "[[Gatekeepers]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-10-05
 ---
 
 # Teacher Training Agency
@@ -96,7 +97,7 @@ updated: 2026-09-17
 > [!finding-cards] 核心产品与业务矩阵
 > - **国家 [[Initial Teacher Training\|ITT]] 课程大纲（Circular 4/98）** 1998 年颁布的里程碑式法定通令，首次由国家详尽规定职前英语、数学、科学及 ICT 教学的必修内容。
 > - **合格教师资格（QTS）标准体系** 研制并多轮迭代英格兰 QTS 专业标准，作为衡量新教师能否独立上岗的全国唯一法定门槛。
-> - **校本学徒路径开创（SCITT & GTP）** 绕过传统大学教育学院，开创校本初始教师培训与带薪学徒制，奠定了后续“学校主导”改革的制度土壤。
+> - **校本学徒路径开创（SCITT & GTP）** 绕过传统大学教育学院，开创校本初始教师培训与带薪[[Apprenticeship|学徒制]]，奠定了后续“学校主导”改革的制度土壤。
 
 > [!citation-card] TTA 时代的国家集权转型
 > TTA 的创设标志着英国政府从间接的资质认证委员会模式（[[Committee for the Accreditation of Teacher Education\|CATE]]），升级为通过专属国家机构对教师教育资金、招生名额与教学大纲实施全方位的直接硬性规制。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 90)]]

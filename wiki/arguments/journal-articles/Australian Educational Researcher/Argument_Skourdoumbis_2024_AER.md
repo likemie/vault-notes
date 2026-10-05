@@ -10,7 +10,7 @@ title: "Argument_Skourdoumbis_2024_AER"
 argument_key: "Argument_Skourdoumbis_2024_AER"
 argument_display_title: "A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement"
 argument_kind: "journal-article"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Ontology]]"
   - "[[Axiology]]"
+  - "[[Apprenticeship]]"
   - "[[Theoretical Standpoint]]"
   - "[[Scientific Method]]"
   - "[[Positivism]]"
@@ -277,7 +278,7 @@ citation_aliases:
 > 4. **催生脚本化教学** 在惩罚机制的倒逼下，大学放弃教学自主权，职前教师被锁死在“脚本化教学”（scripted pedagogy）中，直接违背了在文化和地方情境中因地制宜进行“回应性教学”的初衷（Hickey et al., 2022, p. 294）。
 
 > [!conclusion] 教育存在论的跨国破坏与重构
-> 这一政策的终极危险在于，它积极破坏并推翻了大学教师教育基于人文主义的本体论、[[Axiology\|价值论]]和实践论（Biesta et al., 2015）。当教育从“关乎人际沟通与主动阐释的人类事件”被降维异化为“线性刺激、投入产出与度量监控的[[Causality\|因果关系]]”（cause-effect relationships）时，教学与学习的本质将被彻底消解（Mockler & Stacey, 2021），重蹈英格兰学校主导学徒制与认知教条结合的悲剧覆辙（Mutton et al., 2017）。
+> 这一政策的终极危险在于，它积极破坏并推翻了大学教师教育基于人文主义的本体论、[[Axiology\|价值论]]和实践论（Biesta et al., 2015）。当教育从“关乎人际沟通与主动阐释的人类事件”被降维异化为“线性刺激、投入产出与度量监控的[[Causality\|因果关系]]”（cause-effect relationships）时，教学与学习的本质将被彻底消解（Mockler & Stacey, 2021），重蹈英格兰学校主导[[Apprenticeship|学徒制]]与认知教条结合的悲剧覆辙（Mutton et al., 2017）。
 
 ## 主要发现
 

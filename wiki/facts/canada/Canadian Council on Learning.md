@@ -10,7 +10,7 @@ subtype: organization
 region: canada
 fact_region: "canada"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Knowledge Mediation]]"
+  - "[[Apprenticeship]]"
   - "[[Epistemology]]"
   - "[[Epistemic Governance]]"
   - "[[Disciplina and Doctrina]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-28
+updated: 2026-10-05
 ---
 
 # Canadian Council on Learning
@@ -110,7 +111,7 @@ updated: 2026-09-28
 > - **复合学习指数（Composite Learning Index, CLI）** 整合 73 项统计指标的大型综合监测工具，基于“学会认知、学会做事、学会共处、学会生存”四大支柱，年度评估全加数百个市镇与乡村社区的综合学习环境，成为全球[[Lifelong Learning\|终身学习]]量化监测的重要标杆。
 > - **全加终身学习国情报告（State of Learning in Canada Reports）** 每年针对特定重大议题（如《处在十字路口的成人读写能力》《原住民全人学习模型》《工作场所技能投资》）出版的高水平综合白皮书，直接提交国会并面向公众发行。
 > - **原住民全人学习全景模型（Holistic Lifelong Learning Models）** 与第一民族、因纽特人及梅蒂斯人学者合作研制的文化扎根评估框架，突破西方单一测试标准，将语言传承、土地连接与代际智慧纳入教育评价。
-> - **结构化[[Systematic Review\|系统综述]]与实践知识库** 在学前早期干预、成人技能再培训及职场学徒制领域完成数十项二阶证据综合，推动实证证据转化为公共政策方案。
+> - **结构化[[Systematic Review\|系统综述]]与实践知识库** 在学前早期干预、成人技能再培训及职场[[Apprenticeship|学徒制]]领域完成数十项二阶证据综合，推动实证证据转化为公共政策方案。
 
 > [!citation-card] 使命准则：为了全体加拿大人的终身学习
 > 加拿大终身学习委员会的崇高使命，是促进和支持全面终身学习实证知识的产生与使用，以使全体加拿大人的社会与经济生活更加充实。(Canadian Council on Learning, 2005)

@@ -6,7 +6,7 @@ aliases:
 summary: "把政策理解为承载特定因果机制叙事的分析概念，用于追问政策为何在不同情境中产生不同变化路径"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Innovation Ecosystem]]"
   - "[[Network Governance]]"
+  - "[[Apprenticeship]]"
   - "[[Lifelong Learning]]"
   - "[[Policy Network]]"
   - "[[Selectivity]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-13
-updated: 2026-09-18
+updated: 2026-10-05
 ---
 
 # Theories of Policy Change
@@ -95,7 +96,7 @@ updated: 2026-09-18
 
 变革理论不仅存在于官方政策话语中，也在地方实践层面被接受、转化或自主建构。详见 [[Network Governance]] 中欧盟部分。
 
-- **制度传统较强的国家**（奥地利、德国、芬兰、苏格兰）：地方专业人员将欧盟官方变革理论翻译为本地的系统性版本（"学徒制系统""公私民合作""就业管道"）([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172–173]])
+- **制度传统较强的国家**（奥地利、德国、芬兰、苏格兰）：地方专业人员将欧盟官方变革理论翻译为本地的系统性版本（"[[Apprenticeship|学徒制]]系统""公私民合作""就业管道"）([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172–173]])
 - **制度传统较弱的地区**（南欧、东欧）：专业人员缺乏系统的变革理论，更依赖对青年受益人的负面刻板印象（p.173）
 - **自下而上的自主建构**（意大利利古里亚、西班牙加泰罗尼亚）：第二机会学校自主发展出从"补救性"到"教育性"的变革理论，在加泰罗尼亚形成新型政治关系（p.173）
 

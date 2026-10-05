@@ -9,7 +9,7 @@ aliases:
 summary: "Freeman 与 Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络与市场互动进行的集体学习活动；主张创新绩效取决于行动者能力、网络连接密度与制度规则适配性，推动公共政策从弥补市场失灵转向修复系统失灵。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 84
+theory_related_count: 86
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Third Mission]]"
   - "[[University-Industry Collaboration]]"
   - "[[Absorptive Capacity]]"
+  - "[[Apprenticeship]]"
   - "[[Creativity]]"
   - "[[Unit of Analysis]]"
   - "[[Growth]]"
@@ -52,6 +53,7 @@ related_concepts:
   - "[[Industrial District]]"
   - "[[Open-Mindedness]]"
   - "[[General Purpose Technology]]"
+  - "[[Lean Production]]"
   - "[[Emergence]]"
   - "[[Research Question]]"
   - "[[Industry Affiliate Program]]"
@@ -137,7 +139,7 @@ updated: 2026-10-05
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** [[Chris Freeman|克里斯托弗·弗里曼]]（Christopher Freeman）在 1982 年与 1987 年关于日本经济追赶的研究中首次提出“[[National Innovation System|国家创新系统]]”（National Innovation System, NIS）概念；本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall, 1992）与查尔斯·埃德奎斯特（Charles Edquist, 1997）系统奠定了其理论内核；[[Richard Nelson|理查德·纳尔逊]]（Richard R. Nelson, 1993）通过多国制度比较完成了跨国实证奠基；弗里曼（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）在《剑桥经济学杂志》发表长文，确立了系统的长周期历史与[[Evolutionary Economics|演化经济学]]根基。
 > - **原初问题** 20 世纪 70 至 80 年代，英美等国在高研发支出背景下经济增长乏力、深陷滞胀，而战后研发投入相对较少的日本却凭借独特的产业组织、终身雇佣、产学协作与[[Ministry of International Trade and Industry|通商产业省]]（Ministry of International Trade and Industry, MITI）长效协调机制，在汽车与消费电子领域实现跨越式产业赶超，传统线性理论与新古典生产函数无法解释该经验悖论。
-> - **理论资源与材料** 思想渊源可追溯至 19 世纪[[Friedrich List|弗里德里希·李斯特]]（Friedrich List, 1841）《政治经济学的国家系统》中关于国家技术教育、学徒培训与战略产业保护的论断，以及 19 世纪普鲁士通过工艺技校（[[Gewerbe-Institut]]）、机床逆向工程与吸纳熟练工匠赶超英国的历史经验；直接理论汲取自[[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter）的“[[Creativity|创造性]]破坏”与创新组合论，以及纳尔逊与温特（Nelson & Winter, 1982）开创的[[Evolutionary Economics|演化经济学]]（惯例、搜索与[[Bounded Rationality|有限理性]]）。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 22)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8)]]
+> - **理论资源与材料** 思想渊源可追溯至 19 世纪[[Friedrich List|弗里德里希·李斯特]]（Friedrich List, 1841）《政治经济学的国家系统》中关于国家技术教育、[[Apprenticeship|学徒培训]]与战略产业保护的论断，以及 19 世纪普鲁士通过工艺技校（[[Gewerbe-Institut]]）、机床逆向工程与吸纳熟练工匠赶超英国的历史经验；直接理论汲取自[[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter）的“[[Creativity|创造性]]破坏”与创新组合论，以及纳尔逊与温特（Nelson & Winter, 1982）开创的[[Evolutionary Economics|演化经济学]]（惯例、搜索与[[Bounded Rationality|有限理性]]）。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 22)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8)]]
 > - **形成路径** 学者们从关注“企业黑箱”转向关注不同国家研发组织、金融资本、劳动力市场与教育培训体制的制度[[Heterogeneity|异质性]]，提炼出“在交互中学习”（Learning by Interacting）这一核心机制，将“创新系统”确立为理解现代经济增长的基本[[Unit of Analysis|分析单位]]。
 
 ### 后续修订与扩展
@@ -205,7 +207,7 @@ updated: 2026-10-05
 > **应用实例** 美国战后半导体与互联网的崛起印证了这一规律：冷战早期军方采购德州仪器芯片并强制推行第二货源授权，加上 [[DARPA]] 将 TCP/IP 协议置于公共领域，催生了硅谷繁荣；而 1980 年代国防部试图耗资 9 亿美元推行超高速集成电路（VHSIC）和强推 Ada 编程语言时，由于商业微电子与民用软件生态已高度成熟，军用专用计划全面受挫，军工系统转而深度依赖商业采购。
 
 > [!theory-proposition] 命题六｜[[General Purpose Technology|通用技术]]范式转型要求全社会深度制度调适，创新系统的制度多样性是克服路径锁定的演化保障
-> **解释** 弗里曼与佩蕾丝（Freeman & Perez, 1988）以及弗里曼（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）深刻指出，当新的[[General Purpose Technology|通用技术]]（如微电子与信息通信技术）颠覆既有生产函数时，技术变革的速率往往远快于社会制度的调整速率，引发严重的“制度滞后”（Institutional Lag）与结构性失衡。新技术潜能的释放要求劳动关系、职业技术教育大纲、企业组织构架（如质量圈与精益生产）、资本市场规制以及通信基础设施发生全方位的协同调适。在这一巨变期，全球切忌陷入单一发展模式的“单一文化”（Monoculture）；不同国家和[[Regional Innovation System|区域创新系统]]在制度设计、组织形态与产业政策上的多样性（Diversity），为全人类探索新技术范式的制度适配路径提供了不可替代的试错与演化空间。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
+> **解释** 弗里曼与佩蕾丝（Freeman & Perez, 1988）以及弗里曼（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）深刻指出，当新的[[General Purpose Technology|通用技术]]（如微电子与信息通信技术）颠覆既有生产函数时，技术变革的速率往往远快于社会制度的调整速率，引发严重的“制度滞后”（Institutional Lag）与结构性失衡。新技术潜能的释放要求劳动关系、职业技术教育大纲、企业组织构架（如质量圈与[[Lean Production|精益生产]]）、资本市场规制以及通信基础设施发生全方位的协同调适。在这一巨变期，全球切忌陷入单一发展模式的“单一文化”（Monoculture）；不同国家和[[Regional Innovation System|区域创新系统]]在制度设计、组织形态与产业政策上的多样性（Diversity），为全人类探索新技术范式的制度适配路径提供了不可替代的试错与演化空间。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
 >
 > **应用实例** 1970 至 1980 年代微电子通用技术范式扩散期，日本[[National Innovation System|国家创新系统]]凭借弹性的多工种轮岗、终身雇佣与现场质量改进体系，比严格恪守流水线工种细分的福特制英美企业更快地实现了信息技术与制造业的深度融合；这一跨国经验印证了制度调适与组织多样性对释放新技术潜力的决定性价值。
 
@@ -254,7 +256,7 @@ updated: 2026-10-05
 >       - **判读规则** 缺乏明确的个人与大学收益分成条例，科研人员转化积极性必然受到压制。
 >       - **归属与出处** 国家制度比较研究；[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 39–41)]]。
 >     - **D1.2.2｜国家教育培训与工程人才供给**
->       - **含义** 评估国家在全民基础教育、职业学徒制与高等工科教育上的供给规模与结构。
+>       - **含义** 评估国家在全民基础教育、职业[[Apprenticeship|学徒制]]与高等工科教育上的供给规模与结构。
 >       - **观察线索** 高等教育适龄入学率、工科在校生占总人口比例、企业员工受训年限。
 >       - **判读规则** 缺乏充足工科人才储备的国家，即便引进最先进技术设备，亦无法形成内生吸收能力。
 >       - **归属与出处** [[Argument_Freeman_1995_CJE|Freeman (1995, p. 14)]]。

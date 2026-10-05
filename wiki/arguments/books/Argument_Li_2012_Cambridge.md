@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 156
+argument_related_count: 157
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -98,6 +98,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Active Learning]]"
   - "[[Chain of Evidence]]"
+  - "[[Apprenticeship]]"
   - "[[Flow]]"
   - "[[Executive Function]]"
   - "[[Locus of Control]]"
@@ -1720,7 +1721,7 @@ Li 在进入具体过程描述之前，先做了一个容易被读者忽略但�
 > Li 区分了三种人类学习(pp.105-107)：
 >
 > 1. **个体学习**——婴幼儿在没有刻意教学的情况下习得母语词汇和社会行为规范。这种学习"或多或少不需要儿童的努力或成人的刻意指导"(p.105)。它是人类学习能力的证明，但不受文化的直接影响——全世界的婴儿都以大致相同的方式在生命最初几年掌握母语。
-> 2. **学徒制学习**——前文字社会中，学习者拜师学艺（打铁、制陶）。学徒长期观察师傅，从低级任务做起，逐步承担高级任务。大多数技能"不是师傅明确解释的，而是嵌入在活动中的"(p.106)。这种学习虽然已有文化的痕迹，但不是本章的重点。
+> 2. **[[Apprenticeship|学徒制]]学习**——前文字社会中，学习者拜师学艺（打铁、制陶）。学徒长期观察师傅，从低级任务做起，逐步承担高级任务。大多数技能"不是师傅明确解释的，而是嵌入在活动中的"(p.106)。这种学习虽然已有文化的痕迹，但不是本章的重点。
 > 3. **正式学校教育**——文字和算术出现后，知识可以写在材料上保存和传递。这催生了系统性传授知识的学校。关键变化是：学习的对象变成了"[[Coding in Qualitative Research\|编码]]为抽象符号"的东西——字母、数字、公式。这些符号**本身不携带意义**——它们需要学习者付出巨大的心智努力来理解和掌握(pp.106-107)。
 >
 > Li 的论点：**文化学习模型最直接影响的是第 3 种学习**——也就是今天全世界每个儿童都在经历的正式学校教育。

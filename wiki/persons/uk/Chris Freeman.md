@@ -9,7 +9,7 @@ summary: "英国著名演化经济学家、创新经济学开拓者，萨塞克�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 33
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -29,7 +29,9 @@ related_concepts:
   - "[[Corporate R&D Labs]]"
   - "[[Linear Model of Innovation]]"
   - "[[Competitiveness]]"
+  - "[[Lean Production]]"
   - "[[Intellectual Capital]]"
+  - "[[Apprenticeship]]"
   - "[[Market Failure]]"
   - "[[Creativity]]"
   - "[[National Competitive Advantage]]"
@@ -106,7 +108,7 @@ updated: 2026-10-05
 >   - **阶段转向** 从传统宏观经济增长核算转向打开企业内部研发与创新的微观黑箱，确立以企业为中心的实证研究路径。
 > - **1980s — 战后日本产业赶超与国家[[Systems of Innovation|创新系统]]概念建构** 面对美欧受困于滞胀而日本在高技术制造业崛起的现实，反思单纯依赖基础科学推动的局限，提炼[[National Innovation System|国家创新系统]]的制度网络特征。
 >   - **代表著作** *Technology Policy and Economic Performance: Lessons from Japan*（1987）；*Technological Infrastructure and International [[Competitiveness]]*（1982, OECD 报告）。
->   - **关键概念／方法** [[Systems of Innovation]]、[[Ministry of International Trade and Industry|通商产业省]]（MITI）协调机制、精益生产与现场学习。
+>   - **关键概念／方法** [[Systems of Innovation]]、[[Ministry of International Trade and Industry|通商产业省]]（MITI）协调机制、[[Lean Production|精益生产]]与现场学习。
 >   - **阶段转向** 突破孤立的企业边界，将产业政策、终身雇佣、逆向工程与大学-产业协作整合成具有国别制度特征的系统分析。
 > - **1988–1992 — [[Evolutionary Economics|演化经济学]]联盟建立与技术-经济[[Paradigm|范式]]深化** 与纳尔逊、佩雷斯等学者紧密合作，将[[Joseph Schumpeter|熊彼特]]创新理论形式化为演化经济学大厦，探讨微电子[[General Purpose Technology|通用技术]]长波带来的结构性危机。
 >   - **代表著作** *Technical Change and Economic Theory*（1988，与 Nelson 等合编）；*The Economics of Hope*（1992）。
@@ -122,7 +124,7 @@ updated: 2026-10-05
 ## 核心思想
 
 > [!claim] 核心主张
-> 技术创新决非孤立发生在均质市场中的信息转移或资本堆积，而是由公共教育机构、产业研发组织、生产车间与政府部门嵌入在特定国家制度母体中的网络化集体学习过程；后发国家实现[[Technological Catch-up|技术赶超]]的关键，不在于消极顺从现存静态比较优势参与自由贸易，而在于通过国家战略协调前瞻性技术教育、学徒培训网络、企业内部研发实验室及高频供需互动，构建自主吸收与二次创新能力。（[[Argument_Freeman_1995_CJE|Freeman, 1995, pp. 5–8]], 16–21）
+> 技术创新决非孤立发生在均质市场中的信息转移或资本堆积，而是由公共教育机构、产业研发组织、生产车间与政府部门嵌入在特定国家制度母体中的网络化集体学习过程；后发国家实现[[Technological Catch-up|技术赶超]]的关键，不在于消极顺从现存静态比较优势参与自由贸易，而在于通过国家战略协调前瞻性技术教育、[[Apprenticeship|学徒培训]]网络、企业内部研发实验室及高频供需互动，构建自主吸收与二次创新能力。（[[Argument_Freeman_1995_CJE|Freeman, 1995, pp. 5–8]], 16–21）
 
 > [!citation-card] 批判单一量化研发指标与线性思维
 > 纯粹的研发投入规模并不能直接决定创新绩效与经济增长率；[[Systems of Innovation|创新系统]]的产出不仅取决于研发投入的数量，更根本取决于研发与生产制造、逆向工程、技术引进及市场采购之间的制度性整合密度。（[[Argument_Freeman_1995_CJE|Freeman, 1995, pp. 10–12]]）

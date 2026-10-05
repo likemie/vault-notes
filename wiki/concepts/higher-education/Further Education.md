@@ -8,7 +8,7 @@ aliases:
 summary: "位于义务教育和高等教育之外的中学后继续教育形式，常与成人学习、职业培训、非学位证书和终身学习体系相连"
 type: concept
 domain: "higher-education"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Corporate Education]]"
   - "[[Externalization]]"
+  - "[[Apprenticeship]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-18'
-updated: '2026-05-18'
+updated: 2026-10-05
 ---
 
 # Further Education
@@ -100,7 +101,7 @@ updated: '2026-05-18'
 
 > [!example]
 > - 欧盟继续职业教育培训调查（CVTS）——系统收集成员国企业培训的提供者类型、参与率和[[Externalization\|外化]]程度数据([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.180]])
-> - 德国双元学徒制——初始职业教育（IVET）的典型案例，高度依赖国家层面的非市场制度安排，德国 MNCs 在海外分支复制时遇到系统性困难。详见 [[Corporate Education]]([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.184–185]])
+> - 德国双元[[Apprenticeship|学徒制]]——初始职业教育（IVET）的典型案例，高度依赖国家层面的非市场制度安排，德国 MNCs 在海外分支复制时遇到系统性困难。详见 [[Corporate Education]]([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.184–185]])
 
 ---
 

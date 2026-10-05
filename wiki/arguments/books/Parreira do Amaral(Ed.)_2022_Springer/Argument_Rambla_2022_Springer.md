@@ -9,7 +9,7 @@ title: "Argument_Rambla_2022_Springer"
 argument_key: "Argument_Rambla_2022_Springer"
 argument_display_title: "Imaginaries of Education and Innovation in the European Union"
 argument_kind: "book"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Doxa]]"
   - "[[Network Governance]]"
   - "[[Policy Network]]"
+  - "[[Apprenticeship]]"
   - "[[Innovation Park]]"
   - "[[Operationalization]]"
   - "[[Heterogeneity]]"
@@ -186,7 +187,7 @@ Rambla 的论证逐层推进，从分析工具的建立到空间背景的交代�
 > Rambla 引用 [[YOUNG_ADULLLT\|YOUNG_ADULLLT 项目]]（16 个欧盟地区，168 名终身学习政策[[Expert Interview\|专家访谈]]）的定性数据，为前述政策文件分析提供"地面检验"(p.172–173)：
 >
 > **发现 1：[[Network Governance]] 的差异化运作。** 在德国及邻国，终身学习政策通过传统的[[Neocorporatism\|新社团主义]]（neocorporatism）网络实施——政府、雇主协会和工会三方合作。在芬兰，"公私民合作"（Public-Private-People-Partnerships）模式将公民置于网络的中心位置。在苏格兰，"就业管道"（Employment Pipeline）模式将就业服务、教育培训和非营利支持整合为一条龙网络。而在南欧和东欧，[[Policy Network\|政策网络]]显著较弱；市场治理模式（如美国私人培训提供商普遍活跃的模式）在欧盟并不显著(p.172)。
->   > 例：一个在奥地利失业的青年可能通过学徒制系统被纳入由企业、工会和政府共同管理的培训轨道；而一个在保加利亚失业的青年可能只能依赖资源有限的公共就业服务窗口。EUROSTAT 的指标将两人放在"青年失业率"的同一栏中，但无法反映背后制度支持的巨大落差。
+>   > 例：一个在奥地利失业的青年可能通过[[Apprenticeship|学徒制]]系统被纳入由企业、工会和政府共同管理的培训轨道；而一个在保加利亚失业的青年可能只能依赖资源有限的公共就业服务窗口。EUROSTAT 的指标将两人放在"青年失业率"的同一栏中，但无法反映背后制度支持的巨大落差。
 >
 > **发现 2：专业人员对变革理论的内化差异。** 在制度传统较强的国家（奥地利、德国、芬兰），地方专业人员不仅了解欧盟的官方话语，还将其翻译为本地的系统性变革理论（"学徒制系统""公私民合作""就业管道"）。但在欧盟话语较晚引入的地区，专业人员缺乏系统的变革理论来组织服务，更倾向于依赖对青年受益人的负面刻板印象(p.173)。
 >
@@ -234,7 +235,7 @@ Rambla 的论证逐层推进，从分析工具的建立到空间背景的交代�
 > - [[Performance Indicators\|绩效指标]]作为 [[Performance Indicators]]，同时运作于技术维度和权力维度：EUROSTAT 的区域排名将成员国和区域置于比较性分类中，这些分类既是统计技术产物，也是政治建构(p.165–166)
 > - 欧盟的 [[Innovation Union]] 和 [[EU Skills Agenda]] 共同建构了一种"区域想象"：每个 NUTS2 区域都应成为[[Innovation Ecosystem\|创新生态]]体系与教育培训体系协同运作的空间单元。这一想象通过 EUROSTAT 定期发布的指标体系被反复生产和自然化(p.170–171)
 > - 欧盟政策话语将"创新"与"教育"之间的互联视为[[Doxa\|不言自明]]的增效关系（减少辍学 + 促进创新 → 智能、可持续与包容性增长），但这些 [[Theories of Policy Change]] 的核心因果[[Hypothesis\|假设]]并未经过严格的实证检验——它们更像是政策工具的内在成分，被嵌入而非被验证(p.165–166, 170–172)
-> - [[YOUNG_ADULLLT]]（n=168，16 个欧盟地区）的定性证据表明，地方层面的政策实施呈现高度多元化的 [[Network Governance]] 格局：奥地利的学徒制、芬兰的"公私民合作"、苏格兰的"就业管道"各具特色；制度传统较弱的地区专业人员则缺乏系统的[[Theory of Change\|变革理论]]，更依赖对青年受益人的负面刻板印象(p.172–173)
+> - [[YOUNG_ADULLLT]]（n=168，16 个欧盟地区）的定性证据表明，地方层面的政策实施呈现高度多元化的 [[Network Governance]] 格局：奥地利的[[Apprenticeship|学徒制]]、芬兰的"公私民合作"、苏格兰的"就业管道"各具特色；制度传统较弱的地区专业人员则缺乏系统的[[Theory of Change\|变革理论]]，更依赖对青年受益人的负面刻板印象(p.172–173)
 > - 意大利利古里亚和西班牙加泰罗尼亚的第二机会学校展示了自下而上的替代路径：非营利组织和学校可以自主发展出从"补救性"到"教育性"的变革理论，并在加泰罗尼亚创造出新型政治关系(p.173)
 > - 绩效指标的 [[Selectivity]] 体现在两个关键方向：将创新窄化为研发和技术指标（排斥社会创新和文化创新）；将[[Lifelong Learning\|终身学习]]窄化为就业安置（排斥个人发展和公民参与维度）。除芬兰外，绝大多数欧盟成员国的实践反映了"就业优先"（employment-first）的逻辑(p.174–175)
 

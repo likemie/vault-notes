@@ -8,7 +8,7 @@ aliases:
 summary: "一种将学习和认知视为特定社会、文化与物理环境中持续进行的参与实践（participation in social practices），而非个体头脑内部脱域知识存储的理论范式。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Paradigm]]"
   - "[[Communities of Practice]]"
+  - "[[Apprenticeship]]"
   - "[[Cognitive Apprenticeship]]"
   - "[[Anchored Instruction]]"
   - "[[Epistemic Cognition]]"
@@ -77,7 +78,7 @@ updated: 2026-10-05
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 让·莱夫（Jean Lave）与艾蒂安·温格（Etienne Wenger）在 1991 年经典著作 *Situated Learning: Legitimate Peripheral Participation* 中正式确立情境学习模型，温格随后在 1998 年 *[[Communities of Practice]]* 中予以系统化。
 > - **原初问题** 传统学校教学常出现严重的知行脱节——学生在课堂上能背诵抽象定义，进入真实工作场所却无法解决复杂问题；人类学[[Fieldwork|田野调查]]揭示出学徒在行会中无需抽象讲授即可掌握高超手艺的谜题。
-> - **理论资源与材料** 汲取非洲裁缝学徒、尤卡坦助产士、海军舵手等真实文化学徒制的人类学实地观察，以及[[Lev Vygotsky|维果茨基]]关于社会中介与文化工具的论述。
+> - **理论资源与材料** 汲取非洲裁缝学徒、尤卡坦助产士、海军舵手等真实文化[[Apprenticeship|学徒制]]的人类学实地观察，以及[[Lev Vygotsky|维果茨基]]关于社会中介与文化工具的论述。
 > - **形成路径** 从对传统课堂“去脉络化”教学的反思，提炼出“实践共同体（CoP）”、“合法边缘性参与（LPP）”与“身份认同建构（Identity Formation）”等核心概念。
 
 ### 后续修订与扩展
@@ -132,7 +133,7 @@ updated: 2026-10-05
 ## 局限性与适用边界
 
 > [!theory-boundary] 局限性与适用边界
-> - **适合分析** 真实工作场所学习、跨学科团队协作、学术共同体演进、课堂小组话语互动及学徒制培养。
+> - **适合分析** 真实工作场所学习、跨学科团队协作、学术共同体演进、课堂小组话语互动及[[Apprenticeship|学徒制]]培养。
 > - **成立条件** 必须具备真实的[[Communities of Practice|实践共同体]]土壤、充裕的面对面深度交互时间，以及容纳边缘参与者的包容性组织制度。
 > - **解释不足** 对个体大脑内部短时间内高度自动化的符号逻辑推导、孤立记忆提取等纯认知加工过程解释力较弱。
 > - **不能直接推出** 不能单纯依赖外部言语互动直接推断个体内心真实的认知信念；学生或学者有时可能为了顺应现场社交规则而产生合规言论（推论危机）。

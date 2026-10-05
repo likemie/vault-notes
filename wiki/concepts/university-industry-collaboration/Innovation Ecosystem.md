@@ -9,7 +9,7 @@ aliases:
 summary: "由大学、企业、政府、供应链供应商、中介机构与资本市场通过多维网络互动共同催化、转化与扩散创新的复合自组织系统；具有基于地点与全球网络两种形态，其演进依赖于基础科研锚点、需求侧采购拉动、纵向供应链协同与开放知识产权环境。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 60
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Creativity]]"
   - "[[Paradigm]]"
+  - "[[Creative Destruction]]"
   - "[[Industry Affiliate Program]]"
   - "[[Heterogeneity]]"
   - "[[Research Translation]]"
@@ -240,7 +241,7 @@ updated: 2026-10-05
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1940s — [[Joseph Schumpeter|熊彼特]][[Creativity|创造性]]破坏与战后科学推动[[Paradigm|范式]]** 熊彼特（1942）提出“创造性破坏”作为创新生态动态演化的理论内核；[[Vannevar Bush|万尼瓦尔·布什]]在《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》中确立了由政府资助大学开展开放式基础研究的战后科技体制起点。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 159)]]
+> - **1940s — [[Joseph Schumpeter|熊彼特]][[Creativity|创造性]]破坏与战后科学推动[[Paradigm|范式]]** 熊彼特（1942）提出“[[Creative Destruction|创造性破坏]]”作为创新生态动态演化的理论内核；[[Vannevar Bush|万尼瓦尔·布什]]在《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》中确立了由政府资助大学开展开放式基础研究的战后科技体制起点。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 159)]]
 > - **1980s — 链环模型与国家[[Systems of Innovation|创新系统]]（[[National Innovation System|NIS]]）的兴起** 克服线性模型缺陷，Kline & Rosenberg（1986）提出链环模型；Lundvall、Nelson 等学者提出“[[Systems of Innovation|创新系统]]”理论，将制度结构与交互式学习引入国家与区域分析。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009)]]; [[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 29–31)]]
 > - **1990s — 三螺旋理论与[[Industry Affiliate Program|产业联盟]]纵向协同实践** Etzkowitz & Leydesdorff（1995）提出三螺旋模型；Grindley、Mowery 与 Silverman 系统评估 [[Sematech]] 研发联盟，提炼出纵向用户—供应商生态协同与共性技术治理准则。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 723–758)]]
 > - **1998 — 纵向专业化分工与模块化生态逆转** Macher、Mowery 与 Hodges 结合微观标杆数据系统论证 Fabless-Foundry 纵向专业化分工与下游个人电脑互补资产如何驱动美国半导体产业逆转，纠正了 80 年代学界关于产业组织碎片化必然失败的悲观误判。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 107–136)]]

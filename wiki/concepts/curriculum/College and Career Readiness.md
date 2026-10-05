@@ -9,7 +9,7 @@ aliases:
 summary: "指高中毕业生进入无须补习的高等学科学分课程或具备发展前景的高技能职业培训所需具备的综合核心素养；它颠覆了传统普通高中学术升学与职业就业的双轨二元割裂，被共同核心州立标准（CCSS）确立为十二年一贯制逆向推导与标准设计的顶层锚点。"
 type: concept
 domain: "curriculum"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Grade Retention]]"
   - "[[Epistemic Ascent]]"
+  - "[[Apprenticeship]]"
   - "[[Scaffolding]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Document]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-10-05
 ---
 
 # College and Career Readiness
@@ -124,7 +125,7 @@ updated: 2026-09-26
 > 探讨高等学术深造与知识密集型职场所需底层思维能力的关系，打破历史上普通教育与职业教育的人为割裂。
 
 > [!claim] [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]]
-> **升学与就业底层认知同构假说** 麦克唐奈与韦瑟福德指出，[[Achieve]] 智库开展的[[American Diploma Project|美国文凭项目]]（ADP）与 ACT 实证调查颠覆了传统二元假定；数据证实，在现代[[Knowledge-Based Economy|知识经济]]中，无论是升入大学修读学术学分课程，还是进入高技术行业参与职业学徒培训，青年学生面临失败的首要原因均在于缺乏足够的复杂文本阅读理解能力与量化代数推理能力。现代高技能职场不再需要只会机械操作的纯劳力，而是需要具备批判性分析、清晰论证与数据解构能力的知识工作者。因此，将大学就绪与职业就绪合并为统一的国家标准锚点，不仅在理论上契合了当代劳动力市场的发展趋势，更为消除弱势群体因过早被分流至低质职业轨而承受的阶层固化提供了制度可能。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9, 13)]]
+> **升学与就业底层认知同构假说** 麦克唐奈与韦瑟福德指出，[[Achieve]] 智库开展的[[American Diploma Project|美国文凭项目]]（ADP）与 ACT 实证调查颠覆了传统二元假定；数据证实，在现代[[Knowledge-Based Economy|知识经济]]中，无论是升入大学修读学术学分课程，还是进入高技术行业参与职业[[Apprenticeship|学徒培训]]，青年学生面临失败的首要原因均在于缺乏足够的复杂文本阅读理解能力与量化代数推理能力。现代高技能职场不再需要只会机械操作的纯劳力，而是需要具备批判性分析、清晰论证与数据解构能力的知识工作者。因此，将大学就绪与职业就绪合并为统一的国家标准锚点，不仅在理论上契合了当代劳动力市场的发展趋势，更为消除弱势群体因过早被分流至低质职业轨而承受的阶层固化提供了制度可能。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9, 13)]]
 
 ---
 

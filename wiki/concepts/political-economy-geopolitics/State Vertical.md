@@ -4,7 +4,7 @@ aliases: ["国家垂直结构", "vertical structures", "state vertical", "垂直
 summary: "国家主义体制中主导性的垂直行政层级结构，以牺牲水平部门联结为代价，使科研、应用和生产在封闭回路中运行，阻碍了信息化所要求的跨组织知识流动和创新协同"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,6 +15,7 @@ tags:
 related_concepts:
   - "[[Informationalization]]"
   - "[[Creativity]]"
+  - "[[Creative Destruction]]"
   - "[[Soviet Statism]]"
 related_theories: []
 related_methods: []
@@ -27,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-02
+updated: 2026-10-05
 ---
 
 # State Vertical
@@ -56,7 +57,7 @@ updated: 2026-10-02
 > [!line-a] 科研–应用–生产的封闭回路
 > 在苏联的研究与开发（R&D）体系中，基础科学（[[Chinese Academy of Sciences|科学院]]）、应用研究（各部委研究机构）和工业生产（企业）在彼此隔离的封闭回路中运行。科学院与工业界几乎不存在跨院系或跨部委合作。对外部间谍活动的恐惧和苏联自身对外国科学发展的怀疑，使苏联科学家在相对孤立中工作（pp.8–9）。
 
-> [!line-b] 无法容纳创造性破坏
+> [!line-b] 无法容纳[[Creative Destruction|创造性破坏]]
 > 苏联经济增长主要通过 Gosplan（国家计划委员会）的数学模型和计算驱动。新技术的引入缓慢，且因为可能打乱精细规划的命令经济而受到回避。克服国家垂直结构需要根本性改变经济结构，而这会严重损害国家官僚体系和党的"诺门克拉图拉"（nomenklatura）中的既得利益。这种变革对体制而言是自我毁灭性的（p.9）。
 
 ---

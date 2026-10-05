@@ -9,7 +9,7 @@ aliases:
 summary: "一种具有跨部门广泛渗透性、内在持续技术动态性以及能诱发下游互补性创新与系统性生产率提升的基础技术范式。"
 type: concept
 domain: "economics"
-related_count: 33
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,11 +29,14 @@ related_concepts:
   - "[[Co-invention]]"
   - "[[Second-Sourcing]]"
   - "[[Technology Transfer]]"
+  - "[[Lean Production]]"
   - "[[Total Quality Management]]"
+  - "[[Precompetitive Research]]"
   - "[[Technological Convergence]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Determinism]]"
   - "[[Variable]]"
+  - "[[University-Industry Collaboration]]"
 related_theories:
   - "[[Techno-economic Paradigm]]"
   - "[[Technological Trajectories]]"
@@ -53,11 +56,13 @@ related_persons:
 related_facts:
   - "[[Fairchild Semiconductor]]"
   - "[[ARPANET]]"
+  - "[[Semiconductor Research Corporation]]"
 related_arguments:
   - "[[Argument_Lecuyer_1999_HT]]"
   - "[[Argument_Mowery_2011_NBER]]"
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
   - "[[Argument_Freeman_1995_CJE]]"
+  - "[[Argument_Logar_2014_Minerva]]"
 confidence: high
 status: draft
 created: 2026-10-03
@@ -172,7 +177,17 @@ updated: 2026-10-05
 > 探讨以微电子与计算机为代表的通用目的技术群落如何从孤立的技术硬件突破，演变为重塑管理方式、技能结构与劳资关系的全局[[Techno-economic Paradigm|技术-经济范式]]，以及既有社会制度框架的滞后如何阻碍其扩散。
 
 > [!claim] [[Chris Freeman|Freeman, C.]]
-> **通用技术范式扩散的制度多样性与试错要求** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）指出，当以微处理器和计算机革命为核心的通用目的技术席卷全球时，其扩散与生产率增益并非自发实现，而是紧密伴随管理与组织变革（如精益生产系统、即时库存控制、多技能工种培训与[[Total Quality Management|全面质量管理]]）。社会与制度框架若适应于早期的机械化大生产范式，往往无法兼容颠覆性的全新通用技术。新通用技术范式的扩散是一个涉及广泛制度多样性与试错调整的历史过程；过早锁定于单一技术标准或僵化照搬别国模式极易引发结构性失衡，国家[[Systems of Innovation|创新系统]]必须主动提供促进本土技术多样性、劳动培训与组织重组的政策支持。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
+> **通用技术范式扩散的制度多样性与试错要求** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）指出，当以微处理器和计算机革命为核心的通用目的技术席卷全球时，其扩散与生产率增益并非自发实现，而是紧密伴随管理与组织变革（如[[Lean Production|精益生产]]系统、即时库存控制、多技能工种培训与[[Total Quality Management|全面质量管理]]）。社会与制度框架若适应于早期的机械化大生产范式，往往无法兼容颠覆性的全新通用技术。新通用技术范式的扩散是一个涉及广泛制度多样性与试错调整的历史过程；过早锁定于单一技术标准或僵化照搬别国模式极易引发结构性失衡，国家[[Systems of Innovation|创新系统]]必须主动提供促进本土技术多样性、劳动培训与组织重组的政策支持。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
+
+---
+
+### 命题六　通用目的技术的跨领域渗透性奠定了宽广的前竞争研发合作边界，与同质化基础设施锁定技术形成鲜明制度分野
+
+> [!concept-lens] 技术经济特征与前竞争制度边界
+> 探讨为何通用目的技术（GPT）能够自发形成跨企业的前竞争联合资助生态，而能源等专用同质化技术却难以复制该模式。
+
+> [!claim] 通用目的技术的前竞争合作空间与迁移边界
+> **通用目的技术的跨领域渗透性拓宽了前竞争合作空间，而基础设施锁定与同质产出则限制了研发联合体模式向非 GPT 领域的制度迁移** 洛加尔等人（[[Argument_Logar_2014_Minerva|Logar et al., 2014]]）通过半导体与能源技术的深度对比指出，技术范式是否具备通用目的技术（GPT）属性深刻决定了其[[Precompetitive Research|前竞争研发]]合作的制度可行性。半导体作为典型的 GPT，底层芯片突破能够广泛发散地赋能计算机、通信、汽车等众多高溢价差异化终端，因而具有极其宽广的“前竞争”合作空间——竞争企业能够轻易就底层物理机理与共性制造工艺结成研发联合体（如[[Semiconductor Research Corporation|半导体研究公司]]，SRC）；相反，光伏与电网等能源技术的最终输出物是完全同质的电能，且面临沉淀资产长达 40 年的庞大电网基础设施锁定，前竞争阶段与商业应用高度重叠，私营企业缺乏联合出资进行共性基础探索的经济动力。这表明，半导体这一 GPT 领域的产学联合创新经验具有严格的技术经济边界，向非 GPT 领域的政策移植必须清醒认识到其基础设施锁定的结构性制约。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 256–257)]]
 
 ---
 
@@ -186,6 +201,7 @@ updated: 2026-10-05
 > | **多部门融合与制度生态** | 硬件、软件与通信产业的层级协同与去中心化竞争生态孕育全局通用技术网络 | 信息技术与通用平台演进全周期 | Mowery |
 > | **公共采购生命周期与逆向溢出** | 萌芽期依靠先导采购降低学习成本与强制技术解密；成熟期演变为民用通用技术向公共部门反向溢出 | 通用目的技术萌芽培育向成熟商业主导转型阶段 | Fabrizio & Mowery |
 > | **社会制度调适与范式试错** | 通用技术范式要求多技能组织变革、劳资与技能结构调整，依托国家制度多样性规避过早锁定风险 | 颠覆性通用技术引发全局产业与宏观经济重构阶段 | Freeman; Perez |
+> | **前竞争合作边界与迁移分野** | GPT 的跨行业渗透性与差异化下游拓宽了前竞争合作空间，而基础设施锁定与同质产出限制了研发联合体经验的跨界迁移 | 通用目的技术与专用技术对比、产业研发联合体适用边界、能源与半导体创新模式比较 | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] |
 
 ---
 
@@ -231,6 +247,7 @@ updated: 2026-10-05
 > | [[Argument_Mowery_2011_NBER\|Mowery (2011, p. 176)]] | 1960年代美国大学计算机设备与学科研发投入 | 联邦与高校统计数据分析 | 联邦资助占比与计算机系扩展 | 1960年代美国大学计算机设备采购支出的 66% 来自联邦政府；博士授予权计算机系从 1960 年几乎为零激增至 1990 年代逾 150 所 | 历史统计事实 | 表明通用技术扩散深度依托大学科研基础设施与[[Human Capital Theory\|人力资本]]供给 |
 > | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio & Mowery (2005, p. 29)]] | 2001财年全美联邦科研经费学科分布 | 联邦预算决算数据分析 | 计算机与工程学科中军资占比 | 国防部资助占全联邦高校计算机科学研发预算的 35%、工程科学预算的 30% 以上 | 官方决算数据 | 表明即使在冷战后，国防资金仍是高校通用信息学科基础设施的关键来源 |
 > | [[Argument_Freeman_1995_CJE\|Freeman (1995, p. 14)]] | 1980年代巴西与韩国制造业自动化装备与电信基础设施 | 跨国科技与工业统计比较分析 | 机器人、CAD、数控机床与电信指标 | 韩国每百万雇员工业机器人拥有量为 106.0 台（巴西仅 5.2 台）；CAD 为 143.7 台（巴西 42.2 台）；数控机床为 517.6 台（巴西 229.8 台）；微电子产业增速为 21%（巴西 8%）；人均电信设备销售额达 \$77（巴西 \$10） | 官方与工业统计事实 | 实证展现新兴工业化国家采纳与吸收通用微电子技术的悬殊差距对国家工业竞争力的深层影响 |
+> | [[Argument_Logar_2014_Minerva\|Logar et al. (2014, pp. 256–257)]] | 半导体产业联合体（[[Semiconductor Research Corporation\|SRC]]）与能源电力基础设施对比研究 | 嵌入式案例考察、质性访谈（$N=19$）与技术经济特征对比 | 前竞争合作边界广度、终端产品差异化程度、基础设施锁定年限 | 半导体作为 GPT 具有极广前竞争空间与差异化终端；能源电网资产沉淀长达 40 年且电能完全同质，前竞争与商用高度重叠 | 跨部门技术经济特征比较考据 | 实证确立通用目的技术（GPT）与非 GPT 技术在[[University-Industry Collaboration\|产学合作]]边界与研发联合体治理上的结构性分野 |
 
 ---
 
@@ -241,3 +258,5 @@ updated: 2026-10-05
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 论证电子计算机、计算机软件与半导体组件三大基础部门如何经由国防研发投入、先导采购与第二货源机制在产业萌芽期获得催化，并在成熟期演进为由民用向军用逆向溢出的全局通用目的技术——互联网。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 系统考察战后半导体、计算机硬件与软件三大产业演化，揭示国防采购、反垄断同意令（1956年AT&T同意令、1956年IBM同意令）、大学[[Disciplinary Institutionalization|学科建制]]与用户[[Co-invention|共同发明]]如何推动信息[[Technological Convergence|技术汇聚]]为互联网这一通用目的技术，并探讨其对气候变化能源创新的镜鉴意义。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 从技术-经济[[Paradigm|范式]]与长波演化视角论证以微电子与计算机为代表的通用目的技术扩散高度依赖劳动力多技能培训与国家社会制度调适，并以日韩与拉美在机器人、数控机床及通信基础设施上的反差确证国家[[Systems of Innovation|创新系统]]的关键作用。
+> - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 深入对比半导体（GPT）与能源电力（非 GPT）的技术经济特征，论证通用目的技术的跨领域渗透性如何赋能宽广的前竞争[[University-Industry Collaboration|产学合作]]空间，并揭示电网长周期基础设施锁定与产出同质性对直接复制半导体联合体模式的结构性约束。
+

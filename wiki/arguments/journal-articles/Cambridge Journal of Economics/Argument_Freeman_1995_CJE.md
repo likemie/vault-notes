@@ -21,16 +21,18 @@ related_concepts:
   - "[[National Innovation System]]"
   - "[[Regional Innovation System]]"
   - "[[Technological Catch-up]]"
-  - "[[Creativity]]"
+  - "[[Creative Destruction]]"
   - "[[General Purpose Technology]]"
   - "[[Paradigm]]"
   - "[[Theoretical Perspective]]"
+  - "[[Apprenticeship]]"
   - "[[Document]]"
   - "[[Intellectual Capital]]"
   - "[[Big Science]]"
   - "[[Learning by Doing]]"
   - "[[User-Producer Interaction]]"
   - "[[Total Quality Management]]"
+  - "[[Lean Production]]"
   - "[[Industrial District]]"
 related_theories:
   - "[[Systems of Innovation]]"
@@ -71,7 +73,7 @@ title: "Argument_Freeman_1995_CJE"
 argument_key: "Argument_Freeman_1995_CJE"
 argument_display_title: "The 'National System of Innovation' in historical perspective"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -106,7 +108,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Systems of Innovation\|创新系统理论]]**<br>[[Systems of Innovation]] | 将技术创新界定为大学、技术学校、企业与政府部门等多元主体嵌入在[[National Innovation System\|国家创新系统]]与[[Regional Innovation System\|区域创新系统]]制度母体中，通过互动与合作开展的集体学习过程；用于解释为何国家与地方制度环境直接决定技术扩散速度与长期经济绩效。（pp. 5–8, 20–21） |
-> | **[[Evolutionary Economics\|演化经济学与技术差距理论]]**<br>[[Evolutionary Economics]] | 强调历史路径依赖、技术差距（Technology Gaps）、模仿滞后（Imitation Lags）以及[[Creative Destruction|创造性破坏]]；用于解释后发国家在面对全新[[General Purpose Technology\|通用技术]][[Paradigm\|范式]]时的结构性调整与制度多样性优势。（pp. 17–19） |
+> | **[[Evolutionary Economics\|演化经济学与技术差距理论]]**<br>[[Evolutionary Economics]] | 强调历史路径依赖、技术差距（Technology Gaps）、模仿滞后（Imitation Lags）以及[[Creative Destruction\|创造性破坏]]；用于解释后发国家在面对全新[[General Purpose Technology\|通用技术]][[Paradigm\|范式]]时的结构性调整与制度多样性优势。（pp. 17–19） |
 
 > [!warrant]- 理论如何支撑论证
 > 演化经济学与国家创新系统框架将技术从抽象可自由买卖的信息，还原为高度依赖实践经验、富含隐性知识（Tacit Knowledge）且需长期组织积累的系统能力。借助这一[[Theoretical Perspective|理论视角]]，弗里曼得以论证：后发国家要想跨越技术差距，不能仅靠引进现成设备，而必须由国家系统性构建技术教育、[[Apprenticeship|学徒培训]]与工业研发组织，从而证明民族国家依然是维系这一能力积累的核心边界。
@@ -127,7 +129,7 @@ issuing_organization: ""
 > |----------|------|
 > | **历史国别案例** | 英国（18–19 世纪）、德国与普鲁士（19 世纪）、美国（19–20 世纪）、日本（20 世纪 50–70 年代）、前苏联（冷战时期）、东亚新兴工业化经济体（韩国，20 世纪 80 年代）、拉美国家（巴西，20 世纪 80 年代）。 |
 > | **宏观统计数据** | OECD 研发统计标准与《弗拉斯卡蒂手册》指标系列、苏联科学统计修正数据（Freeman & Young, 1965）、[[World Bank\|世界银行]]与[[UNESCO\|联合国教科文组织]]教育与科技统计年鉴。 |
-> | **制度分析维度** | 国家公共教育与学徒培训、企业内部专职研究与开发（Research and Development, R&D）实验室、产学研制度链接、军工与民用研发资源配比、电信基础设施与跨国公司研发外溢程度。 |
+> | **制度分析维度** | 国家公共教育与[[Apprenticeship\|学徒培训]]、企业内部专职研究与开发（Research and Development, R&D）实验室、产学研制度链接、军工与民用研发资源配比、电信基础设施与跨国公司研发外溢程度。 |
 
 ---
 
@@ -246,7 +248,7 @@ issuing_organization: ""
 > |---|---|---|
 > | **教育与工程人才供给** | 普及全民基础教育，高等教育入学率大幅提高，工科毕业生比例极高。 | 公共教育质量滑坡，中途失学率高，工程技术专业人才供给严重不足。 |
 > | **技术引进与本土研发** | 引进国外先进技术的同时大力开展本土消化与二次研发，企业研发占比超过 50%。 | 依赖引进成套设备而缺乏本土消化吸收，企业自主研发投入长期低于 25%。 |
-> | **产业与网络联系** | 抓住 1980 年代日元升值契机吸纳外部投资，积极吸收[[Lean Production|精益生产]]（Lean Production）与网络化管理方式。 | 外资投入持续萎缩，缺乏深度的跨国技术网络合作。 |
+> | **产业与网络联系** | 抓住 1980 年代日元升值契机吸纳外部投资，积极吸收[[Lean Production\|精益生产]]（Lean Production）与网络化管理方式。 | 外资投入持续萎缩，缺乏深度的跨国技术网络合作。 |
 > | **基础设施建设** | 重点投资现代数字电信网络，形成具有全球竞争力的电子制造出口支柱。 | 通信基础设施建设缓慢，电子工业基础脆弱，在国际市场上缺乏产品竞争力和反馈。（p. 13） |
 
 > [!row-contrast]- 表 4：1980 年代巴西与韩国国家创新系统量化指标对比

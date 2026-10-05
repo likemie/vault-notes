@@ -10,7 +10,7 @@ aliases:
 summary: "国家将少数垄断性社会伙伴（如雇主协会、全国性工会或大型专业协会）正式纳入政策制定与执行的制度化协商网络，在教育治理中表现为职业培训三方共治机制或行业协会闭门立法妥协"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Performance Indicators]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Apprenticeship]]"
   - "[[Research Question]]"
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-14
-updated: 2026-09-28
+updated: 2026-10-05
 ---
 
 # Neocorporatism
@@ -119,7 +120,7 @@ updated: 2026-09-28
 > [!theory-proposition] 命题二｜新法团主义多方治理网络能够充当制度缓冲器，阻断单一[[Technical Rationality|技术理性]]与[[Performance Indicators|绩效指标]]对教育实践的完全捕获
 > **解释** 在新法团主义传统深厚的国家，政府、雇主协会与工会多元行动者的制度化参与使不同诉求均能进入政策议程。相比于缺乏协商传统的脆弱治理环境，多元主体的制衡形成了一种“制度性刹车”，阻止了以就业率或短期统考为导向的单一绩效逻辑对一线教学的全面[[Disciplina and Doctrina|规训]]，保障了长期技能培养与工作质量等深层价值的实现。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 172–174)]]
 >
-> **应用实例** 德国与奥地利在落实欧盟[[Lifelong Learning|终身学习]]政策时，依托新法团主义网络维系着学徒制系统[[Theory of Change|变革理论]]；相比于南欧和东欧将政策窄化为尽快就业的低质服务，德奥受访者依靠企业、学校与工会的紧密共治，有效抵御了绩效指标至上的政策异化。
+> **应用实例** 德国与奥地利在落实欧盟[[Lifelong Learning|终身学习]]政策时，依托新法团主义网络维系着[[Apprenticeship|学徒制]]系统[[Theory of Change|变革理论]]；相比于南欧和东欧将政策窄化为尽快就业的低质服务，德奥受访者依靠企业、学校与工会的紧密共治，有效抵御了绩效指标至上的政策异化。
 
 > [!theory-proposition] 命题三｜未经民主授权的法团主义高层交易必然诱发专业共同体内部的合法性赤字与代表性危机
 > **解释** 罗伯特·达尔（Dahl, 1985）指出，法团主义往往以少数精英的秘密交易替代广泛的民主商议。当大型专业组织高层自上而下代替全体从业人员签字画押时，基层教师与学者往往会感到被出卖。高层所赞许的务实政治胜利，在基层被视作对专业核心价值的原则性背叛，直接导致会员对组织的深层信任裂痕。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 7)]]

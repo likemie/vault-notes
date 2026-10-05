@@ -9,10 +9,10 @@ aliases:
 summary: "由一群围绕共同关注的问题、事业或追求，通过持续而规律的社会交往与共享实践，共同深化专业知识并逐步建构专业身份认同的社会化协作群体。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/learning-sciences
   - theme/situated-learning
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Knowledge Co-production]]"
   - "[[Heterogeneity]]"
+  - "[[Apprenticeship]]"
   - "[[Research Universities]]"
   - "[[Emergence]]"
   - "[[Scaffolding]]"
@@ -122,7 +123,7 @@ updated: 2026-10-05
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **合法边缘参与机制** | 解释新手与跨界者如何从外围参与演进为核心攻坚力量 | 学徒制、工程教育、教师专业发展与学者跨界转型 | 莱夫与温格（Lave & Wenger） |
+> | **合法边缘参与机制** | 解释新手与跨界者如何从外围参与演进为核心攻坚力量 | [[Apprenticeship\|学徒制]]、工程教育、教师专业发展与学者跨界转型 | 莱夫与温格（Lave & Wenger） |
 > | **具身人际互信凝聚** | 揭示面对面物理交互与非正式社交对社群凝聚力的决定性作用 | 跨院系科研团队孵化、产学研联合体构建 | [[Argument_Murphy_2026_JTS\|Murphy Jr. et al. (2026)]] |
 
 ---
@@ -130,7 +131,7 @@ updated: 2026-10-05
 ## 概念演变
 
 > [!dev-timeline] 实践共同体概念演化
-> - **1991 — 起源与学徒制研究** 让·莱夫（Jean Lave）与艾蒂安·温格（Etienne Wenger）在 *Situated Learning* 中提出合法边缘性参与，以真实文化学徒制阐明实践共同体的原始生成机制。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, p. 6)]]
+> - **1991 — 起源与[[Apprenticeship|学徒制]]研究** 让·莱夫（Jean Lave）与艾蒂安·温格（Etienne Wenger）在 *Situated Learning* 中提出合法边缘性参与，以真实文化学徒制阐明实践共同体的原始生成机制。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, p. 6)]]
 > - **1998 — 理论体系化与三要素确立** 温格出版 *Communities of Practice: Learning, Meaning, and Identity*，系统确立“领域、社群、实践”三大构件与身份认同理论。
 > - **2000s — 组织管理与知识管理迁移** CoP 广泛进入商业管理、跨国企业与政府组织，成为促进隐性知识共享、打破部门孤岛的战略管理工具。
 > - **2020s — 国家战略导向的高校跨学科攻关生态** [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] 将其拓展至高水平[[Research Universities|研究型大学]]有组织科研领域，通过[[Design-Based Research|基于设计的研究]]（DBR）工作坊在半导体紧缺领域系统孵化跨院系实践共同体。
