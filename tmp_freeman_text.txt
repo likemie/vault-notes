@@ -1,0 +1,1075 @@
+=== PAGE 1 (Article page 5) ===
+Cambridge Journal of Economics 1995, 19, 5-24
+The 'National System of Innovation' in
+historical perspective
+Chris Freeman*
+Contrary to some recent work on so-called 'globalisation', this paper argues that
+national and regional systems of innovation remain an essential domain of economic
+analysis. Their importance derives from the networks of relationships which are
+necessary for any firm to innovate. Whilst external international connections are
+certainly of growing importance, the influence of the national education system,
+industrial relations, technical and scientific institutions, government policies, cul-
+tural traditions and many other national institutions is fundamental. The historical
+examples of Germany, Japan and the former USSR illustrate this point, as well as
+the more recent contrast between East Asian and Latin American countries.
+Introduction: The National System of Friedrich List
+According to this author's recollections, the first person to use the expression 'National
+System of Innovation' was Bengt-Ake Lundvall and he is also the editor of a highly
+original and thought-provoking book (1992) on this subject. However, as he and his
+colleagues would be the first to agree (and as Lundvall himself points out) the idea
+actually goes back at least to Friedrich List's conception of "The National System of
+Political Economy' (1841), which might just as well have been called 'The National
+System of Innovation'.
+The main concern of List was with the problem of Germany overtaking England and,
+for underdeveloped countries (as Germany then was in relation to England), he
+advocated not only protection of infant industries but a broad range of policies designed
+to accelerate, or to make possible, industrialisation and economic growth. Most of these
+policies were concerned with learning about new technology and applying it. The
+racialist and colonialist overtones of the book were in strong contrast to the inter-
+nationalist cosmopolitan approach of the classical free trade economists and List's belief
+that Holland and Denmark should join the German 'Bund' and acquire German
+nationality because of their 'descent and whole character' reads somewhat strangely in
+the European Community of today. Nevertheless, despite these unattractive features of
+his outlook, he clearly anticipated many contemporary theories.
+After reviewing the changing ideas of economists about development in the years since
+the Second World War, the World Bank (1991) concludes that it is intangible investment
+in knowledge accumulation which is decisive rather than physical capital investment, as
+was at one time believed (pages 33-35). The Report cites the 'New Growth Theory'
+Manuscript received 8 March 1993; finaJ version received 23 July 1993.
+•University of Sussex. I am grateful to two anonymous referees for useful comments on an earlier draft.
+03O9-166X/95/010005 + 2O J08.00/0 © '995 Academic Press Limited
+
+=== PAGE 2 (Article page 6) ===
+6 C. Freeman
+(Romer, 1986; Grossman and Helpman, 1991) in support of this view but the so-called
+'New* Growth Theory has in fact only belatedly incorporated into neoclassical models
+the realistic assumptions which had become commonplace among economic historians
+and neo-Schumpcterian economists. Indeed, it could just as well have cited Friedrich
+List (1841), who, in criticising a passage from Adam Smith, said:
+in opposition to this reasoning, Adam Smith has merely taken the word capital in that sense in
+which it is necessarily taken by rentiers or merchants in their book-keeping and their balance sheets
+. . . He has forgotten that he himself includes (in his definition of capital) the intellectual and bodily
+abilities of the producers under this term. He wrongly maintains that the revenues of the nation are
+dependent only on the sum of its material capital, (p. 183)
+and further:
+The present state of the nations is the result of the accumulation of all discoveries, inventions,
+improvements, perfections and exertions of all generations which have lived before us: they form
+the intellectual1 capital of the present human race, and every separate nation is productive only in
+the proportion in which it has known how to appropriate those attainments of former generations
+and to increase them by it* own acquirements, (p. 113)
+List's clear recognition of the interdependence of tangible and intangible investment has
+a decidedly modem ring. He saw too that industry should be linked to the formal
+institutions of science and of education:
+There scarcely exists a manufacturing business which has no relation to physics, mechanics,
+chemistry, mathematics or to the art of design, etc. No progress, no new discoveries and inventions
+can be made in these sciences by which a hundred industries and processes could not be improved
+or altered. In the manufacturing State, therefore, sciences and arts must necessarily become
+popular, (p. 162)
+It was thanks to the advocacy of List and like-minded economists, as well as to the
+long-established Prussian system, that Germany developed one of the best technical
+education and training systems in the world. This system was not only, according to
+many historians, (e.g. Landes, 1970; Barnett, 1988; Hobsbawm, 1968) one of the main
+factors in Germany overtaking Britain in the latter half of the nineteenth century, but to
+this day is the foundation for the superior skills and higher productivity of the German
+labour force (Prais, 1981) in many industries. Many British policies for education and
+training for over a century can be realistically viewed as spasmodic, belated and never
+wholly successful attempts to catch up with German technological education and
+training systems.
+Not only did List anticipate these essential features of current work on national
+systems of innovation, he also recognised the interdependence of the import of foreign
+technology and domestic technical development. Nations should not only acquire the
+achievements of other more advanced nations, they should increase them by their own
+efforts. Again, there was already a good model for this approach to technological learning
+in Prussia: the acquisition of machine tool technology. It was British engineers (especially
+Maudslay) and mechanics who were responsible for the key innovations in machine tool
+technology in the first quarter of the nineteenth century. This technology was described
+by Paulinyi (1982) as the 'Alpha and Omega of modem machine-building1 because it
+1 I have ustd the expression 'intellectual capital' rather than 'mental capital' used in the early English
+edinon, [C.F.]
+
+=== PAGE 3 (Article page 7) ===
+The 'National System of Innovation' 7
+enabled the design and construction of metal-working precision machinery for all other
+industries. Those involved attempted to maintain a considerable degree of secrecy, but
+its importance was recognised by the Prussian government, who took decisive steps
+to acquire the technology, despite the fact that the British government was attempt-
+ing to ban the export of machine tools (with the imposition of heavy fines for
+contravention).
+The Prussian government, which had set up Technical Training Institutes (Gewerbe-
+Institut), made sure that they received imported British machine tools for reverse
+engineering and for training German craftsmen, who then disseminated the technology
+in German industry (Paulinyi, 1982). British craftsmen were also attracted to Prussia, as
+much of the technology depended on tacit knowledge. (Three out of four of the leading
+machine tool entrepreneurs in Britain at that time had themselves spent years with
+Mawdslay in his workshop.) The transfer of technology promoted and coordinated by
+the Prussian state was highly successful: the German machine tool industry and
+machine-building proved capable of designing and manufacturing the machinery necess-
+ary to make steam locomotives in the 1840s and 1850s. This set Prussia (later Imperial
+Germany) well on the road to overtaking Britain. Thus, although he did not cite this
+particular example, List was not talking in a purely abstract way about industrialisation
+and technology transfer but about a process which was unfolding before his eyes. It was
+summed up by Landes (1970):
+Only the government could afford to send officials on costly tours of inspection as far away as the
+United States; provide the necessary buildings and equipment; feed, clothe, house, and in some
+cases pay students for a period of years. Moreover, these pedagogical institutions were only
+part—though the most important part—of a larger educational system designed to introduce the
+new techniques and diffuse them through the economy; there were also non-teaching academies,
+museums, and, most important perhaps, expositions.
+Finally, the government provided technical advice and assistance, awarded subventions to
+inventors and immigrant entrepreneurs, bestowed gifts of machinery, allowed rebates and
+exemptions of duties on imports of industrial equipment. Some of this was simply a continuation
+of the past—a heritage of the strong tradition of direct state interest in economic development.
+Much of it, in Germany particularly, was symptomatic of a passionate desire to organize and hasten
+the process of catching up.
+In so far as this promotional effort stressed the establishment of rational standards of research
+and industrial performance, it was of the greatest significance for the future, (p. 151)
+Not only did List analyse many features of the national system of innovation which are
+at the heart of contemporary studies (education and training institutions, science,
+technical institutes, user-producer interactive learning, knowledge accumulation, adapt-
+ing imported technology, promotion of strategic industries, etc.) he also put great
+emphasis on the role of the state in coordinating and carrying through long-term policies
+for industry and the economy. Here, as often, he took issue with Jean-Baptiste Say, the
+favourite target in his polemics with the classical school, who had argued that
+governments did not make much difference, except in a negative way.
+The United States was of course even more successful than Germany in overtaking
+Britain in the second half of the nineteenth century and list had leamt a great deal from
+his residence in the United States and especially from Hamilton's (1791) Report on
+Manufactures. The widespread promotion of education (though not of industrial
+training) was even more remarkable in the United States than in Germany. However, the
+abundance of cheap, accessible materials, energy and land together with successive waves
+
+=== PAGE 4 (Article page 8) ===
+8 C. Freeman
+of immigration imparted to the United States' national system some specific character-
+istics without parallel in Europe. The pro-active role of the state was greater in Germany
+whilst foreign investment played a greater role in the United States.
+Although List anticipated many features of the contemporary debate about national
+systems of innovation (even though his terminology was different), it would of course be
+absurd to imagine that he could have foreseen all the changes in the world economy and
+national economies over the next century and a half. In particular, he did not foresee the
+rise of in-house professionalised Research and Development (R&D) in industry, still less
+the rise of multi-national (or transnational) corporations (TNCs), operating production
+establishments in many different countries and increasingly also setting up R&D outside
+their original base. These are major new developments which deeply affect the whole
+concept of national systems. This paper will discuss the rise of R&D in Section 2, and
+types of comparison of national systems which this has led to in Section 3. It will discuss
+the role of TNCs and the ways in which they may affect the performance of national
+economies in different continents in Section 4.
+2. The rise of specialised research and development
+Bjorn Johnson (1992) in an excellent chapter in the Lundvall book on 'National Systems
+of Innovation' emphasises the important point that institutions are often thought of
+simply as a source of'institutional drag' (i.e. of inertia in the system), whereas of course
+institutional innovations may also give new impetus to technical and economic change.
+Appropriately enough it was in Germany that the major institutional innovation of the
+in-house industrial R&D department was introduced in 1870. Product and process
+innovation by firms took place of course for more than a century before that, but it was
+the German dyestuffs industry (Beer, 1959) which first realised that it could be profitable
+to put the business of research for new products and development of new chemical
+processes on a regular, systematic and professional basis. Hoechst, Bayer and BASF have
+continued and strengthened this tradition down to the present day, when their R&D labs
+now employ many thousands of scientists and engineers. Undoubtedly such discoveries
+and innovations as synthetic indigo, many other synthetic dyestuffs and Pharmaceuticals
+and the Haber-Bosch process for fertilisers were the main factors in establishing the
+German chemical industry's leading position before and after the First World War.
+When the three companies merged in 1926 to form the giant IG Farben Trust they
+further reinforced their R&D (Freeman, 1974) and made many of the key innovations in
+synthetic materials, fibres and rubbers (PVC, polystyrene, urea-formaldehyde, Buna,
+etc.).
+The enormous success of the German chemical industry led to imitation of the social
+innovation of the R&D Department in the chemical firms of other countries (e.g. CIBA
+in Switzerland). The in-house R&D lab also emerged in other industries which had the
+same need to access the results of basic research from universities and other research
+institutions and to develop their own new products. In the United States and German
+electrical industries, in-house R&D labs appeared in the 1880s, but contract labs, such
+as Edison's Institute, played a bigger part in the US system (Hughes, 1989).
+From their origins in the chemical and electrical industries gradually during the latter
+part of the nineteenth century and the first half of the twentieth, specialised R&D labs
+became characteristic features of most large firms in manufacturing industry (although
+not of the vast majority of small firms or of service industries) (Mowery, 1980, 1983;
+
+=== PAGE 5 (Article page 9) ===
+The 'National System of Innovation'
+Table 1. Estimated gross expenditure on research and development as a
+fraction of GNP, (GERDIGNP ratio) 1934-1983
+USA
+EC*
+Japan
+USSR
+1934
+0-6
+0-2
+01
+0-3
+1967
+31
+1-2
+10
+3-2
+1983
+2-7
+21
+2-7
+36
+1983
+civil R&D
+only
+20
+1-8
+2-7
+10
+'Estimated weighted average of 12 EC countries.
+Source: Author's estimates based on Bernal (1939) adapted to 'Frascari'
+definitions (1963), OECD statistics, and adjustments to Soviet statistics
+based on Freeman and Young, (1965).
+Hounshell, 1982; Hughes, 1989). This change in industrial behaviour and the growth of
+government laboratories, of independent contract research institutes and university
+research impressed many observers and led to the comment by a leading physicist that
+the greatest invention of the nineteenth century was the method of invention itself. A
+great many inventions had of course been made for centuries or indeed for millennia
+before 1870, but the new professional R&D labs seemed like a giant step forward. This
+perception was powerfully reinforced in the Second World War. Science was already
+important in the First World War—more important than most people realised at the
+time—but it was the Manhattan Project and its outcome at Hiroshima which impressed
+on people throughout the world the power of science and especially, as it seemed, Big
+Science. Many other developments on both sides, such as radar, computers, rockets and
+explosives, resulted from large R&D projects, mobilising both government, industrial
+and academic engineers and scientists.
+It was, therefore, hardly surprising that in the climate which existed after the Second
+World War, the prestige of organised, professional R&D was very high. The proposals
+made by a visionary physicist (Bernal, 1939), to increase British R&D by an order of
+magnitude seemed absurdly Utopian at the time but this was in fact achieved in the new
+political climate after the Second World War. A similar rapid expansion occurred in all
+industrial countries in the 1950s and 1960s (Table 1) and even in Third World countries
+there was a trend to establish research councils, national R&D labs and other scientific
+institutions, to do nuclear physics and in some cases to try and make nuclear weapons
+(e.g. Argentina, India, Brazil, Israel, Yugoslavia). It was hardly surprising either that a
+simplistic linear model of science and technology 'push' was often dominant in the new
+science councils that advised governments. It seemed so obvious that the Atom Bomb
+(and it was hoped nuclear power for electricity) was the outcome of a chain reaction:
+basic physics -> large-scale development in big labs -> applications and innovations
+(whether military or civil). The 'linear Model' was specifically endorsed in the influential
+Report of Vannevar Bush, 'Science, the Endless Frontier' (see Stokes, 1993).
+This meant that the R&D system was seen as the source of innovations—an impression
+that was reinforced by the system of measurement which was adopted, first by the
+National Science Foundation in the United States and later during the 1950s and 1960s
+by all the other OECD countries. This was standardised by the so-called 'Frascati
+Manual' (OECD, 1963A) and, despite the fact that the authors pointed out that
+
+=== PAGE 6 (Article page 10) ===
+10 C. Freeman
+technical change did not depend just on R&D but on many other related activities, such
+as education, training, production engineering, design, quality control, etc. etc., never-
+theless R&D measures were very frequently used as a surrogate for all these activities
+which helped to promote new and improved products and processes. Furthermore, the
+importance of all the feedback loops from the market and from production into the R&D
+system was often overlooked or forgotten. The simple fact that the R&D measures were
+the only ones that were available reinforced these tendencies.
+Their effect could be seen in many national Reports as well as in the 'Science Policy
+Reviews' conducted by the OECD in its member countries in the 1960s and 1970s. The
+admirable aim of these reviews, like the reviews of member countries' economic policies,
+which still continue and on which they were modelled, was to produce a friendly but
+independent and critical assessment of each country's performance by an international
+comparative yardstick. In practice diey concentrated mainly on the formal R&D system
+and technical education. This was of course still quite a useful thing to do but it meant
+that the 'national system' was usually denned in rather narrow terms. Academic research
+on invention and innovation had amply demonstrated that many factors were important
+for innovative success other than R&D. However, the practical difficulties of incor-
+porating these factors in international comparisons were very great. 'League table'
+comparisons of R&D were much easier and more influential.
+Gradually, during the 1950s and 1960s, the evidence accumulated that the rate of
+technical change and of economic growth depended more on efficient diffusion than on
+being first in the world with radical innovations and as much on social innovations as on
+technical innovations. This was reflected in the change of emphasis in various OECD
+Reports (OECD, 1963B, 1971, 1980, 1988, 1991, 1992) and in the introduction of
+Country Reports on 'Innovation'. Basic science was of course still recognised as being
+very important but much more was said about technology and diffusion than hitherto.
+Although various OECD Reports are a convenient record of changing ideas and
+policies for science and technology, they rarely originated these changes. The OECD
+documents summed up and reflected recent experience and changes in the member
+countries and disseminated what were thought to be the lessons of this experience. The
+OECD was also, however, more ready than most international organisations to involve
+independent researchers so that their reports also embody some input from academic
+research on technical change as well as from industrial R&D management sources. The
+next section will very briefly summarise the relevant results of some of this work (more
+fully surveyed in Freeman, 1994) and especially the results of international comparisons.
+Comparisons with Japan were especially influential after Japan joined the OECD in the
+1970s.
+3. Some contrasting features of national systems of innovation in the 1970s
+and 1980s
+As empirical evidence and analysis began to accumulate about industrial R&D and about
+innovation, both in Japan and in the United States and Europe, it became increasingly
+evident that the success of innovations, their rate of diffusion and the associated
+productivity gains depended on a wide variety of other influences as well as formal R&D.
+In particular, incremental innovations came from production engineers, from technicians
+and from the shop floor. They were strongly related to different forms of work
+organisation (see especially Hollander, 1965). Furthermore, many improvements to
+
+=== PAGE 7 (Article page 11) ===
+The 'National System of Innovation' 11
+products and to services came from interaction with the market and with related firms,
+such as sub-contractors, suppliers of materials and services (see especially von Hippel,
+1976, 1988, Lundvall, 1985, 1988, 1992; Sako, 1992). Formal R&D was usually
+decisive in its contribution to radical innovations but it was no longer possible to ignore
+the many other contributions to, and influences upon the process of technical change at
+the level of firms and industries (Carter and Williams, 1957; Jewkes et al., 1958;
+Mansfield, 1968, 1971; Nelson, 1962).
+Not only were inter-firm relationships shown to be of critical importance, but the
+external linkages within the narrower professional science-technology system were also
+shown to be decisive for innovative success with radical innovations (NSF, 1973;
+Gibbons and Johnston, 1974). Finally, research on diffusion revealed more and more
+that the systemic aspects of innovation were increasingly influential in determining both
+the rate of diffusion and the productivity gains associated with any particular diffusion
+process (see especially Carlsson and Jacobsson, 1993). The success of any specific
+technical innovation, such as robots or CNC, depended on other related changes in
+systems of production. As three major new 'generic' technologies (information technol-
+ogy, bio-technology and new materials technology) diffused through the world economy
+in the 1970s and 1980s, systemic aspects of innovation assumed greater and greater
+importance.
+At the international level two contrasting experiences made a very powerful impression
+in the 1980s both on policy-makers and on researchers: on the one hand the extraordi-
+nary success of first Japan and then South Korea in technological and economic
+catch-up; and on the other hand the collapse of the Socialist economies of Eastern
+Europe.
+At first, in the 1950s and 1960s, the Japanese success was often simply attributed to
+copying, imitating and importing foreign technology and the statistics of the so-called
+'technological balance of payments' were often cited to support this view. They showed
+a huge deficit in Japanese transactions for licensing and know-how imports and exports
+and a correspondingly large surplus for the United States. It soon became evident,
+however, as Japanese products and processes began to out-perform American and
+European products and processes in more and more industries, that this explanation was
+no longer adequate even though the import of technology continued to be important.
+Japanese industrial R&D expenditures as a proportion of civil industrial net output
+surpassed those of the United States in the 1970s and total civil R&D as a fraction of
+GNP surpassed USA in the 1980s (Table 1). The Japanese performance could now be
+explained more in terms of R&D intensity, especially as Japanese R&D was highly
+concentrated in the fastest growing civil industries, such as electronics. Patent statistics
+showed that the leading Japanese electronic firms outstripped American and European
+firms in these industries, not just in domestic patenting but in patents taken out in the
+United States (Patel and Pavitt, 1991, 1992; Freeman, 1987).
+However, although these rough measures of research and inventive activity certainly
+did indicate the huge increase in Japanese scientific and technical activities, they did not
+in themselves explain how these activities led to higher quality of new products and
+processes (Grupp and Hofmeyer, 1986; Womack, Jones and Roos, 1990), to shorter lead
+times (Graves, 1991; Mansfield, 1988) and to more rapid diffusion of such technologies
+as robotics (Fleck and White, 1987; Mansfield, 1989). Moreover, the contrasting
+example of the (then) Soviet Union and other East European countries showed that
+simply to commit greater resources to R&D did not in itself guarantee successful
+
+=== PAGE 8 (Article page 12) ===
+12 C. Freeman
+Table 2. Contrasting national systems of innovation: 1970s
+Japan USSR
+High GERD/GNP Ratio (25%)
+Very low proportion of military/space R&D
+(<2% of R&D)
+High proportion of total R&D at enterprise
+level and company-financed (approx. 67%)
+Strong integration of R&D, production and
+import of technology at enterprise level
+Strong user-producer and subcontractor
+network linkages
+Strong incentives to innovate at enterprise
+level involving both management and
+workforce
+Intensive experience of competition in
+international markets
+Very high GERD/GNP Ratio (c. 4%)
+Extremely high proportion of military/space
+R&D (>70%ofR&D)
+Low proportion of total R&D at enterprise
+level and company-financed (<10%)
+Separation of R&D, production and import of
+technology and weak institutional linkages
+Weak or non-existent linkages between
+marketing, production and procurement
+Some incentives to innovate made
+increasingly strong in 1960s and 1970s but
+offset by other negative disincentives
+affecting both management and workforce
+Relatively weak exposure to international
+competition except in arms race
+innovation, diffusion and productivity gains. It was obvious that qualitative factors
+affecting the national systems had to be taken into account as well as the purely
+quantitative indicators.
+Some major differences between the two national systems of Japan and the Soviet
+Union as they were functioning in the 1970s are summarised in Table 2. The most
+striking contrast of course was the huge commitment of Soviet R&D to military and
+space applications with little direct or indirect spin-off to the civil economy. It has now
+been shown that the desire to keep pace with the USA in the super-power arms race led
+to about three-quarters of the massive Soviet R&D resources going into defence and
+space research. This amounted to nearly 3% of GNP, so that only about 1 % remained
+for civil R&D. This civil R&D/GNP ratio was less than half of most West European
+countries and much smaller than the Japanese ratio (Table 1).
+Nevertheless, it could have been far more productive if the social, technical and
+economic linkages in the system and the incentives to efficient performance had been
+stronger. The Soviet system grew up on the basis of separate Research Institutes within
+the Academy system (for fundamental research), for each industry sector (for applied
+research and development) and for the design of plant and import of technology (the
+Project Design organisations) (Barker and Davies, 1965; Amann et al., 1979). The links
+between all these different institutions and enterprise-level R&D remained rather weak
+despite successive attempts to reform and improve the system in the 1960s and 1970s.
+Moreover, there were quite strong negative incentives in the Soviet system retarding
+innovation at enterprise level (Gomulka, 1990), such as the need to meet quantitative
+planned production targets. Thus, whereas the integration of R&D, production, and
+technology imports at firm level was the strongest feature of the Japanese system (Baba,
+1985; Takeuchi and Nonaka, 1986; Freeman, 1987), it was very weak in the Soviet
+Union except in the aircraft industry and other defence sectors. Finally, the user-
+producer linkages which were so important in most other industrial countries were very
+weak or almost non-existent in some areas in the Soviet Union.
+
+=== PAGE 9 (Article page 13) ===
+The 'National System of Innovation' 13
+Table 3. Divergence in national systems of innovation in the 1980s
+East Asia Latin America
+Expanding universal education system with
+high participation in tertiary education and
+with high proportion of engineering graduates
+Import of technology typically combined
+with local initiatives in technical change and
+at later stages rapidly rising levels of R&D
+Industrial R&D rises typically to >50%
+of all R&D
+Development of strong science-technology
+infrastructure and at later stages good
+linkages with industrial R&D
+High levels of investment and major inflow
+of Japanese investment and technology with
+strong Yen in 1980s. Strong influence of
+Japanese models of management and
+networking organisation
+Heavy investment in advanced
+telecommunications infrastructure
+Strong and fast-growing electronic
+industries with high exports and extensive
+user feedback from international markets
+Deteriorating education system with
+proportionately lower output of engineers
+Much transfer of technology, especially from
+the United States, but weak enterprise-level
+R&D and little integration with technology
+transfer
+Industrial R&D typically remains at <25%
+of total
+Weakening of science-technology
+infrastructure and poor linkages with industry
+Decline in (mainly US) foreign investment and
+generally lower levels of investment. Low
+level of international networking in
+technology
+Slow development of modern
+telecommunications
+Weak electronic industries with low exports
+and little learning by international marketing
+There were some features of their national systems in which both countries resembled
+each other, and both did of course enjoy high economic growth rates in the 1950s and
+1960s. Both had (and still have) good education systems with a high proportion of young
+people participating in tertiary education and a strong emphasis on science and
+technology. Both also had methods of generating long-term goals and perspectives for
+the science-technology system, but whereas in the Japanese case the long-term 'visions'
+are generated by an interactive process involving not only MITI and other government
+organisations but also industry and universities (Irvine and Martin, 1984) in the USSR
+the process was more restricted and dominated to a greater extent by military/space
+requirements.
+A similar sharp contrast can be made between the national systems of innovation
+typically present in Latin American countries in the 1980s and those in the '4 Dragons'
+of East Asia (Table 3) and especially between two 'newly industrialising countries'
+(NICs) in the 1980s: Brazil and South Korea (Table 4). The Asian countries started
+from a lower level of industrialisation in the 1950s but, whereas in the 1960s and 1970s
+the Latin American and East Asian countries were often grouped together as very fast
+growing NICs, in the 1980s a sharp contrast began to emerge: the East Asian countries'
+GNP grew at an average annual rate of about 8%, but in most Latin American countries,
+including Brazil, this fell to less than 2%, which meant in many cases a falling per capita
+income. There are of course many explanations for this stark contrast. Some of the Asian
+countries introduced more radial social changes, such as land reform and universal
+education, than did most Latin American countries and clearly a structural and technical
+
+=== PAGE 10 (Article page 14) ===
+14 C. Freeman
+Table 4. National systems of innovation: 1980s, some quantitative indicators
+Various indicators of technical capability and
+national institutions Brazil
+South
+Korea
+Percent age group in third level (higher) education
+Engineering students as a percentage of population
+R&D as percentage of GNP
+Industry R&D as a percentage of total
+Robots per million in employment
+CAD per million in employment
+NCMT per million in employment
+Growth rate electronics
+Telephone lines per 100 (1989)
+Per capita sales of telecommunication equipment (1989)
+Patents (US) (1989)
+11
+(1985)
+013
+(1985)
+0-7
+(1987)
+30
+(1988)
+52
+(1987)
+422
+2298
+(1987)
+8%
+(1983-1987)
+6
+S10
+36
+32
+(1985)
+0-54
+(1985)
+21
+(1989)
+65
+(1987)
+1060
+(1987)
+1437
+(1986)
+5176
+(1985)
+21%
+(1985-1990)
+25
+877
+159
+transformation of this magnitude in this time was facilitated by these social changes. In
+the case of Brazil and South Korea it is possible to give some more detailed quantitative
+indicators of some of these contrasting features. As Table 4 shows, the contrast in
+educational systems was very marked as well as enterprise-level R&D, telecommuni-
+cation infrastructure and the diffusion of new technologies (see R. Nelson (ed.), 1993,
+for more detailed comparisons and Villaschi (1993) for a detailed study of the Brazilian
+NS).
+4. 'Globalisation' and national systems
+It has been argued in Section 3 that a variety of national institutions have powerfully
+affected the relative rates of technical change and hence of economic growth in various
+countries. The variations in national systems which have been described are of course
+extreme contrasting cases. Nevertheless, they have certainly been important features of
+world development in the second half of the twentieth century and they point to uneven
+development of the world economy and divergence in growth rates. Moreover, differences
+in naoonal systems are also very important between Japan, the United States and the EC
+and between European countries themselves, as the major comparative study between
+more than a dozen national systems of innovation illustrates (Nelson (ed.), 1993).
+The comparative study of Ireland with other small countries by Mjeset (1992) also
+demonstrates this point, and the comparison of Denmark and Sweden by Edqvist and
+Lundvall (1993) shows that big differences exist between neighbouring countries which
+superficially appear very similar in many ways. Moreover, Archibugi and Pinta (1991)
+have demonstrated the growing pattern of specialisation in technology and trade and
+Fagerberg (1992) has shown the continuing importance of the home market for
+comparative technological advantage.
+
+=== PAGE 11 (Article page 15) ===
+The'National System of Innovation' 15
+However, the whole concept of national differences in innovative capabilities deter-
+mining national performance has been recently challenged on the grounds that trans-
+national corporations (TNCs) are changing the face of the world economy in the
+direction of globalisation. For example, Ohmae (1990) in his book The Borderless World
+argues that national frontiers are 'melting away' in what he calls the 'TT F' (inter-linked
+economy)—the triad of USA, EC and Japan, now being joined by NICs. This 'ILE* is
+becoming 'so powerful that it has swallowed most consumers and corporations, made
+traditional national borders almost disappear, and pushed bureaucrats, politicians and
+the military towards, the status of declining industries' (p. xii).
+As against this, Michael Porter (1990) has argued that:
+Competitive advantage is created and sustained through a highly localised process. Differences in
+national economic structures, values, cultures, institutions and histories contribute profoundly to
+competitive success. The role of the home nation seems to be as strong or stronger than ever. While
+globalisation of competition might appear to make the nation less important, instead it seems to
+make it more so. With fewer impediments to trade to shelter uncompetitive domestic firms and
+industries, the home nation takes on growing significance because it is the source of the skills and
+technology that underpin competitive advantage, (p. 19)
+In addition to Porter's argument, Lundvall (1993) points out that if uncertainty,
+localised learning and bounded rationality are introduced as basic and more realistic
+assumptions about microeconomic behaviour, rather than the traditional assumptions of
+perfect information and hyperrationah'ty, then it must follow that local and national
+variations in circumstances may often lead to different paths of development and to
+increasing diversity rather than to standardisation and convergence.
+At first sight, the activities of multinational corporations might appear to offer a
+powerful countervailing force to this local variety and diversity. The largest corporations
+in the world, whether their original domestic base was in Europe, the United States,
+Japan or elsewhere, have often been investing in many different new locations. This
+investment, even though initially it may have been in distribution and service networks,
+or in production facilities, has more recently also included R&D. Whilst the greater part
+of the 1980s' investment has been within the OECD area itself and in oil-producing
+countries and could be more accurately described therefore as 'triadisation' rather than
+'globalisation', it has also flowed, even though very unevenly, to other countries of
+the Third World and there is now a small trickle to the former socialist group of
+countries.
+As Harry Johnson (1975) long ago pointed out, in this sense the multinationals do
+indeed unite the human race. Since the basic laws of physics, chemistry, biology and
+other sciences apply everywhere, there is an underlying unified technology which can in
+principle be applied anywhere with identical or very similar results. Insofar as large
+'global' TNCs are able to sell their products and services world-wide and to produce
+them in many different locations, they can and do act as a very powerful agency tending
+towards the world-wide standardisation of technology and output. As the model
+developed by Callon (1993) indicates, the diffusion process can tend to enhance
+similarities between adopters.
+Even in the case of consumer goods where it might be reasonable to suppose that there
+would continue to be wide variations in consumer tastes, we are all sufficiently familiar
+with such products as 'Coca Cola' and such services as those provided by McDonalds to
+recognise the reality of such global production and distribution networks, offering
+
+=== PAGE 12 (Article page 16) ===
+16 C. Freeman
+standardised products and services world-wide. Is it not realistic to suppose that an
+ever-larger proportion of world production and trade will take this form? Supporting
+such a view are not only the obvious examples of hotel chains, soft drinks, canned beer,
+tourist agencies and credit cards but theoretical economic arguments based on static and
+dynamic economies of scale in production, advertising, marketing, design and finance, as
+well as the ability of large multinationals to take advantage of surviving differences
+between nations in costs of capital, labour, energy and other inputs.
+However, it would be unwise to assume that these tendencies are the only or even
+necessarily the strongest tendencies within the world economy. Nor are they so
+unequivocally desirable that they should be promoted by both national and international
+economic policies. In fact, the arguments for preserving and even encouraging diversity
+may sometimes outweigh the shorter-term advantages of the scale economies derived
+from standardisation and their propagation through transnational companies, free trade
+and free flows of investment. In fact both processes (global standardisation in some areas
+but increasing diversity in others) co-exist.
+Whilst there are certainly some products and services, such as those already men-
+tioned, where there is indeed a demand which is 'global' in nature and where local
+variations in taste, regulation, climate and other circumstances can be largely or wholly
+ignored, there are far more products and services where such variations certainly cannot
+be ignored without dire consequences. Innumerable examples leap to mind where
+climatic conditions affect the performance of machines, instruments, vehicles and
+materials and even more examples are obvious in relation to variations in national
+standards, specifications and regulations. Whilst it is true that international standardis-
+ation is a countervailing force through the activities of the International Standards
+Organisation (ISO) and many other bodies attempting to achieve harmonisation of
+technical standards, it is also true that the experience of the European Community over
+the past 20 years demonstrates the extreme difficulties attending this process in many
+areas (as well as its feasibility in others). And all this still does not take into account the
+cultural aspects of the problem which deeply affect such areas as food, clothing and
+personal services.
+So far we have been discussing mainly the case of established products and pointing
+to some factors which limit global standardisation even in the simplest cases.
+Advocates of a strong globalisation hypothesis would of course accept most of these
+points, although they might argue that some of them will constantly tend to diminish
+as the media, travel, education and international organisations all exert their long-term
+influence. Rothwell (1992) has pointed to the 'electronificatian' of design as an
+important factor facilitating the internationalisation of design and R&D. It can be
+argued further that local variations can easily be dealt with inside the framework of the
+global strategies of the multinational corporations. Indeed, globalisation of R&D has
+already led to local adaptation and modification of products to meet national
+variations, as a normal and almost routine activity of TNCs. Companies such as
+Honda go one step further and claim to have a strategy of diversity in world-wide
+design which goes beyond the simple modification of a standard product to the idea of
+local variation at the design stage in several different parts of the world. However, the
+vast majority of Japanese-based TNCs remain essentially Japanese companies with
+international operations rather than truly international companies and the same is true
+of US and most other MNCs in relation to their home environment (Hu, 1992). Most
+R&D activities of MNCs are still overwhelmingly conducted in the domestic base of
+
+=== PAGE 13 (Article page 17) ===
+The 'National System of Innovation' 17
+the company and are heavily influenced by the local national system of innovation.
+Moreover, ownership and control still remain overwhelmingly based on the domestic
+platform.
+The statistics are rather poor but analysis of all the available data and cross-checking
+with the patent statistics (Patel and Pavitt, 1991; Patel, 1993) suggests that the R&D
+activities of US companies outside the USA amount to less than 10% of the total, whilst
+those of Japanese companies are much lower—less than 2%—though rising. The picture
+in Europe is more complex both because of the development of the European
+Community and the Single European Market, and because of the existence of several
+technically advanced small countries where the domestic base is too small for the strong
+MNCs which are based there (Netherlands, Sweden, Belgium, Switzerland). A larger
+part of national R&D activities in these countries and most other parts of Europe is
+undertaken by foreign multi-nationals and their 'own' TNCs perform much more R&D
+abroad than is the case with the USA or Japan. Only a small part of total world R&D is
+conducted outside the leading industrial countries and only a very small part of this is
+financed by TNCs.
+Qualitative analysis of the transnational activities of corporations shows that most of
+it is either local design modification to meet national specifications and regulations or
+research to facilitate monitoring of local science and technology. The more original
+research, development and design work is still overwhelmingly concentrated in the
+domestic base, although there are important exceptions in the drug industry and
+electronics industry where specialised pools of scientific ability play an important
+role.
+As long as we are dealing with a static array of products and discussing only minor
+variations to adjust to local consumer tastes and environments, then the standardisation
+arguments, the globalisation arguments and even some of the simplifying neoclassical
+assumptions abut perfect information are at the border-lines of credibility and usefulness.
+But once we leave this world and enter the dynamic world of radical innovations, both
+technical and organisational, and of extremely uneven and unequal access to new
+developments in science and technology, then the whole picture is transformed. More
+realistic assumptions and a more realistic vision are essential if economic theory is to be
+of any help in policy-making..
+Lundvall (1993) points out that, even in the case of continuous incremental innovation
+in open economies, the drive towards standardisation is limited. Geographical and
+cultural proximity to advanced users and a network of institutionalised (even if often
+informal) user-producer relationships are an important source of diversity and of
+comparative advantage, as is the local supply of managerial and technical skills and
+accumulated tacit knowledge. He gives several examples of such localised learning
+generating strong positions in the world market. Whilst he accepts that TNCs might
+locate in such 'national strongholds' in order to gain access to the fruits of this interactive
+learning process, he points out that it is not always simple to enter such markets because
+of the strength of the non-economic relationships involved. Competing standards for the
+global market may be important weapons in such situations as well as other forms of
+product differentiation and quality improvement.
+When it comes to radical innovations the importance of institutional variety and
+localised learning is even greater. Posner's (1961) theory of technology gaps and
+imitation lags is of fundamental importance here. It may be many years before imitators
+are capable of assembling the mix of skills, the work organisation and other institutional
+
+=== PAGE 14 (Article page 18) ===
+18 C. Freeman
+changes necessary to launch into the production and marketing of entirely new products.
+It is of course true that in the global diffusion of radical innovations, TNCs may have
+an extremely important role. They are in a position to transfer specialised equipment and
+skills to new locations if they so wish and to simulate and organise the necessary learning
+processes. They are also in a position to make technology exchange agreements with
+rivals and to organise joint ventures in any part of the world. It is for this reason that
+many governments in Europe as well as in the Third World and the ex-socialist countries
+have been anxious to offer incentives to attract a flow of inward investment and
+associated technology transfer from firms based in Japan and USA.
+However, such efforts will meet with only limited success unless accompanied by a
+variety of institutional changes designed to strengthen autonomous technological
+capability within the importing countries. This is especially true of those generic
+technologies which have been at the centre of the world-wide diffusion process over the
+past two decades. Here it is essential to emphasise the interdependencies between
+innovations and between technical innovations and organisational innovations. A theory
+of technical change which ignores these interdependencies is no more helpful than a
+theory of economics which ignores the interdependencies of prices and quantities in the
+world economy.
+Perez (1983) has pointed out that the social and institutional framework which is
+hospitable to one set of technologies will not be so suitable for a radically new
+technology. Whereas incremental innovations can be easily accommodated, this may
+not be the case with radical innovations which by definition involve an element of
+creative destruction. When we are talking about large clusters of radical innovations
+combined with rapid processes of incremental innovation, then the problems of
+structural and social adjustment can be very great. This is quite obvious when we
+consider such aspects as the change in management techniques and skill-mix which
+are called for, but it also applies to many other types of institutional change in
+standards, patents, new services, new infrastructure, government policies and public
+organisations.
+It is in this context that the concept of 'national systems of innovation' assumes such
+great importance and in the light of this approach it is not surprising that the recognition
+of the scope and depth of the computer revolution, which was accelerated by the
+microprocessor in the 1970s, has been followed by a growing recognition of the
+importance of organisational and managerial change ('multi-skilling', 'lean production
+systems', 'down-sizing', 'just-in-time' stock control, worker participation in technical
+change, quality circles, continuous learning, etc., etc.).
+The diffusion of a new techno-economic paradigm is a trial and error process involving
+great institutional variety. There are evolutionary advantages in this variety and
+considerable clangers in being locked in too early to a standardised technology. A
+technological monoculture may be more dangerous than an ecological monoculture.
+Even when a technology matures and shows clear-cut advantages and scale economies it
+is important to retain flexibility and to nourish alternative sources of radically new
+technology and work organisation.
+National and international policies thus confront the need for a sophisticated dual
+approach to a complex set of problems. Policies for diffusion of standard generic
+technologies are certainly important and these may sometimes entail the encouragement
+of inward investment and technology transfer by MNCs. But also important are policies
+to encourage local originality and diversity.
+
+=== PAGE 15 (Article page 19) ===
+The 'National System of Innovation' 19
+5. Conclusions
+This paper has attempted to show that historically there have been major differences
+between countries in the ways in which they have organised and sustained the
+development, introduction, improvement and diffusion of new products and processes
+within their national economies. These differences can perhaps be most easily demon-
+strated in the case of Britain in the late eighteenth and early nineteenth centuries when
+she achieved leadership in world technology and world trade and could temporarily claim
+to be 'the workshop of the world'.
+Historians (von Tunzelmann, 1993; Mathias, 1969) are generally agreed that no single
+factor can explain this British success; it can be rather attributed to a unique combination
+of interacting social, economic and technical changes within the national economic
+space. It was certainly not just a succession of remarkable inventions in the textile and
+iron industries, important though these were. Among the more important changes were
+the transition from a domestic 'putting out' system to a factory system of production;
+new ways of managing and financing companies (partnership and later joint stock
+companies); interactive learning between new companies and industries using new
+materials and other inputs as well as new machinery; the removal of many older
+restrictions on trade and industry and the growth of new markets and systems of retail
+and wholesale trade; a new transport infrastructure; a hospitable cultural environment
+for new scientific theories and inventions and, certainly not least important, the
+dissemination and widespread acceptance of economic theories and policies which
+facilitated all these changes. It was the British Prime Minister who said to Adam Smith:
+'We are all your pupils now'. The benefits from foreign trade and in some cases piracy
+and plunder also played their part, especially in the process of capital accumulation, but
+it was the mode of investment of this capital within the national economy, rather than the
+simple acquisition of treasure or luxury expenditure, which was a decisive impulse to
+economic growth.
+Of course, many of these changes also took place within other European countries, but
+there were distinct and measurable differences in the rate and direction of institutional
+and technical change, the rate of economic growth, of foreign trade and of standards of
+living, which were fairly obvious at the time as well as to historians since. This can be seen
+not only from the writings of economists but from novelists and travellers. It was
+therefore hardly surprising that Friedrich List and other economists on the Continent of
+Europe were concerned to develop theories and policies which would help them to
+understand the reasons for British commercial supremacy and enable Germany (and
+other countries) to catch up. Section 1 attempted to show that in this endeavour, List
+anticipated many contemporary ideas about 'national systems of innovation' including
+the crucial importance of technological accumulation through a combination of tech-
+nology imports with local activities and pro-active interventionist policies to foster
+strategic 'infant' industries.
+In the second half of the nineteenth century, new developments in the natural sciences
+and in electrical engineering led to progressive entrepreneurs and reformers realising that
+in the new and fastest growing industries, learning by doing, using and interacting in the
+old British ways had to be accompanied or replaced by more professional and systematic
+processes of innovation and learning. The organisational innovation of the in-house
+R&D department put the introduction of new products and processes on a firmer
+foundation whilst new institutions and departments of higher education and secondary
+
+=== PAGE 16 (Article page 20) ===
+20 C. Freeman
+education provided the new, more highly qualified scientists, engineers and technicians.
+Section 2 of the paper argued that it was in Germany and the United States that these
+institutional innovations began and made the greatest impact on national systems in the
+second half of the nineteenth century and early twentieth century.
+The rapidly widening gap between a small group of industrialised countries and the
+rest of the 'under-developed' world (Durlauf and Johnson, 1992; Dosi et al., 1992), as
+well as the 'forging ahead', 'catching up' and 'falling behind' (Abramovitz, 1986) among
+the leaders, clearly called for some explanation of why growth rates differed so much.
+The brave simplifying assumptions of neoclassical economics might lead people to expect
+convergence rather than divergence in growth rates (perfect information and costless,
+instant transfer of technology). Nor did formal growth theory and models provide much
+help since most of the interesting phenomena were confined to a 'residual' which could
+not be satisfactorily disaggregated and because of the interdependencies involved
+(Nelson, 1973).
+Many economic historians and proponents of what have now become known as
+'national systems of innovation' would claim that the differences were due to varying
+types of institutional and technical change which may be the subject of qualitative
+description, even though difficult to quantify. Sections 2 and 3 of the paper argued that
+the over-simplification of quantitative R&D comparisons was an inadequate method in
+itself. Section 3 attempted to show by the examples of Japan and the former Soviet
+Union, and of the East Asian and Latin American 'NTCs', that institutional differences
+in the mode of importing, improving, developing and diffusing new technologies,
+products and processes played a major role in their sharply contrasting growth rates in
+the 1980s.
+Finally, in Section 4 the paper discussed the controversial issue of 'globalisation' and
+its bearing on national systems of innovation. It is ironical that just as the importance of
+technology policies and industrial policies has been increasingly recognised alike in
+OECD and in developing countries, the limitations of national policies are increasingly
+emphasised and the relevance of national systems increasingly questioned (see, for
+example, Humbert (ed.), 1993). The global reach of transnational corporations, the
+drastic cost reductions and quality improvements in global telecommunications network-
+ing and other rapid and related changes in the world economy must certainly be taken
+into account in any satisfactory analysis of national systems (Chesnais, 1992).
+It is tempting at first sight to follow Ohmae and to discard national economies and
+nation states as rapidly obsolescent categories. The speed of change and the difficulties
+of focussing analysis may be illustrated by the confusion in terminology. Ohmae
+maintains that nation states are losing their power and their influence both 'upwards' and
+'downwards', on the one hand to supra-national institutions (the EC, NAFTA, UN
+organisations etc. as well as transnational companies) and, on the other hand, to
+sub-national (or 'infra-national') provincial, urban or local authorities and organisations
+(the disintegration of federal and centralised states, the growing importance in some
+areas of local government agencies and even of various forms of Tariff-Free Zones, and
+of'Silicon Valleys'). Unhappily, at least in the English language, the same word 'regions'
+has to be used to describe both processes—the very large 'regional' trading blocs such as
+NAFTA, or the emerging East Asian 'region' and the much smaller sub-national
+'regions'. Some terminological innovation is needed here and for the purposes of this
+paper, the expressions 'upper regions' and 'nether regions' will be used. It is undoubtedly
+important to keep track of both and of their inter-action with national systems.
+
+=== PAGE 17 (Article page 21) ===
+The 'National System of Innovation' 21
+The work of geographers as well as economists (e.g. Storper and Harrison, 1991;
+Saxenian, 1991; Scott, 1991, Lundvall, 1992; Antonelli, 1993) has convincingly
+demonstrated the importance of nether regions for network developments and new
+technology systems. They have argued that local infrastructure, externalities, especially
+in skills and local labour markets, specialised services and not least, mutual trust and
+personal relationships have contributed greatly to flourishing nether regions. It should
+not be forgotten, however, that 'nether-regional systems of innovation' and 'economies
+of agglomeration' have always under-pinned national systems from the beginnings of the
+industrial revolution (Arcangcli, 1993). Marshall (1890) already stressed the importance
+of what were then known as 'industrial districts' where 'the secrets of industry were in the
+air' (Foray, 1991). Piore and Sabel (1984) have especially underlined the importance of
+these nether regions in many parts of Europe both in the nineteenth century and again
+today.
+Moreover, the vulnerability of national economies to external shocks is also by no
+means a new phenomenon of the last decade or two, even though the liberalisation
+of capital markets and international flows of trade and investment combined with
+computerisation and new telecommunications networks may have increased this vulner-
+ability. Small and distant nations were already affected by shocks from the City of
+London under the Gold Standard and the Popular Front Government in France suffered
+just as severely from the 'flight of capital' in the 1930s as the Socialist government of
+France in the 1980s.
+This paper has argued that nation states, national economies and national systems of
+innovation are still essential domains of economic and political analysis, despite some
+shifts to upper and nether regions. Indeed, Michael Porter (1990) may well be right in
+his contention that the intensification of global competition has made the role of the
+home nation more important, not less. Particularly from the standpoint of developing
+countries, national policies for catching up in technology remain of fundamental
+importance. Nevertheless, the interaction of national systems both with 'nether-region
+systems of innovation' and with transnational corporations will be increasingly
+important, as will be the role of international cooperation in sustaining a global regime
+favourable to catching up and development.
+Bibliography
+Amann, R,, Berry, M. and Davies, R. W. 1979. Industrial Innovation in the Soviet Union, Newhaven,
+Yale University Press
+Antonelli, C. 1994. Technological districts, localized spillovers and productivity growth,
+International Review of Applied Economics, in press
+Arcangcli, F. 1993. Local and global features of the learning process, in M. Humbert (ed.), 1993
+Archibugi, D. and Pinta, M. 1992. 'The Technological Specialisation of Advanced Countries',
+Report to the EC on International Science and Technology Activities, Dordrecht, Kluwer
+Baba, Y. 1985. 'Japanese Colour TV Finns. Decision-making from the 1950s to the 1980s', DPhil
+dissertation, Brighton, University of Sussex
+Barker, G. R. and Davies, R. W. 1965. The research and development effort of the Soviet Union,
+in Freeman and Young, 1965
+Barnett, C. 1988. The Audit of War, Cambridge, Cambridge University Press
+Beer, J. J. 1959. Tne Emergence of the German Dye Industry, Chicago, University of Illinois Press
+Bemal, J. D. 1939. Tne Social Function of Science, London, Routledge and Kegan Paul
+Callon, M. 1993. Variety and irreversibility in networks of technique conception and adoption, in
+D. Foray and C. Freeman (eds), 1993
+
+=== PAGE 18 (Article page 22) ===
+22 C. Freeman
+Carlsson, B. and Jacobsson, S. 1993. Technological systems and economic performance: the
+diffusion of factory automation in Sweden, in D. Foray and C. Freeman (eds), 1993
+Carter, C. F. and Williams, B. R. 1957. Industry and Technical Progress, Oxford, Oxford University
+Press
+Chesnais, F. 1992. National systems of innovation, foreign direct investment and the operations of
+multinational enterprises, in B. A. Lundvall, (ed.), 1992
+Dosi, G, Freeman, C, Fabiani, S. and Aversi, R 1992. The diversity of development patterns:
+on the processes of catching up, forging ahead and falling behind, International Economics
+Association, Varenna, Italy, October
+Durlauf, S. and Johnson, P. A, 1992. 'Local versus Global Convergence across National
+Economies', mimeo, Stanford University
+Edqvist, C. and Lundvall, B.-A. 1993. Chapter on Denmark and Sweden, in E. R. Nelson (ed.),
+1993
+Fagerberg, J. 1992. The home market hypothesis re-examined: the impact of domestic-user-
+producer interaction in exports, in B.-A. Lundvall (ed.) 1992
+Fleck, J. and White, B. 1987. National policies and patterns of robot diffusion: UK, Japan, Sweden
+and United States, Roboacs, vol. 3, no. 1
+Foray, D. 1991. The secrets of industry are in the air industrial cooperation and the organisational
+dynamics of the innovative firm, Research Policy, vol. 20, no. 5
+Foray, D. and Freeman, C. (eds) 1993. Technology and the Wealth of Nations, London, Pinter
+Freeman, C. 1974. The Economics of Industrial Innovation, 1st edn, Harmondsworth, Penguin; 2nd
+edn 1982 London, Frances Pinter
+Freeman, C. 1987. Technology Policy and Economic Performance: Lessons from Japan, London,
+Frances Pinter
+Freeman, C. 1994. The economics of technical change, Cambridge Journal of Economics, vol. 18,
+no. 5, October
+Freeman, C. and Hagedoom, J. 1992. 'Convergence and Divergence in the Intemationalisation of
+Technology", paper for MERIT Conference, University of Limburg, December
+Freeman, C. and Young, A. 1965. 77K Research and Development Effort in Western Europe, North
+America and the Soviet Union, Paris, OECD
+Gibbons, M. and Johnston, R. D. 1974. The roles of science in technological innovation, Research
+Policy, vol. 3, no. 3
+Gomulka, S. 1990. The Theory of Technological Change and Economic Growth, London, Routledge
+Graves, A. 1991. 'International Competitiveness and Technological Development in the World
+Automobile Industry', DPhil thesis, Brighton, University of Sussex
+Grossman, I. and Helpman, E. 1991. Endogenous Growth Theory, Cambridge, MA, MIT Press
+Grupp, H. and Hofmeyer, O. 1986. A technometric model for the assessment of technological
+standards and their application to selected technology comparisons, Technological Forecasting and
+Social Change, vol. 30, 123-137
+Hamilton, A. 1791. 'Report on the Subject of Manufactures', reprinted by the US Government
+Printing Office, Washington, 1913
+Hobsbawm, E. 1968. Industry and Empire, London, Weidenfeld and Nicolson
+Hollander, S. 1965. 77M Sources of Increased Efficiency: A Study ofDuPont Rayon Plants, Cambridge,
+MA, MIT Press
+Hounshell, D. A. 1992. Continuity and change in the management of industrial research: the
+DuPont Company 1902-1980, in G. Dosi, R. Giannetti and Toninelli, P. A. (eds), Technology
+and Enterprise in a Historical Perspective, Oxford, Oxford University Press
+Hu, Y. S. 1992. Global or transnational corporations are national firms with international
+operations, Cahfomian Management Review
+Hughes, T. P. 1989. American Genesis, New York, Viking
+Humbert, M. (ed.) 1993. The Impact of Globalisation on Europe's Firms and Industries, London,
+Pinter
+Irvine, J. and Martin, B. R. 1984. Foresight in Science: Picking the Winners, London, Pinter
+Jewkes, J., Sawers, D. and Stillerman, R. 1958. 77ie Sources of Invention, Macmillan, London
+Johnson, B. 1992. Institutional learning, in B.-A. Lundvall (ed.), 1992
+Johnson, H. G. 1975. Technology and Economic Interdependence, London, Macmillan
+
+=== PAGE 19 (Article page 23) ===
+The 'National System of Innovation' 23
+Landes, M. 1970. The Unbound Prometheus: Technological and Industrial Development in Western
+Europe from 1750 to the Present, Cambridge, Cambridge University Press
+List, F. 1841. The National System of Political Economy, English Edition (1904) London, Longman
+Lundvall, B.-A. 1985. Product innovation and user-producer interaction, Industrial Development
+Research Series, vol. 31, Aalborg, Aalborg University Press
+Lundvall, B.-A. 1988. Innovation as an interactive process: from user-producer interaction to the
+national system of innovation, in G. Dosi, et al. (eds) Technical Change and Economic Theory,
+London, Pinter
+Lundvall, B.-A. (ed.) 1992. National Systems of Innovation: Towards a Theory of Innovation and
+Interactive Learning, London, Pinter
+Lundvall, B.-A. 1993 User-producer relationships, national systems of innovation and inter-
+nationalisation, in D. Foray and C. Freeman (eds), 1993
+Mansfield, E. 1968. The Economics of Technical Change, New York, WW Norton
+Mansfield, E. 1971. Research and Innovation in the Modern Corporation, New York, WW Norton
+Mansfield, E. 1988. Industrial Innovation in Japan and in the United States, Science, vol. 241,
+1760-1764
+Mansfield, E. 1989. The diffusion of industrial robots in Japan and in the United States, Research
+Policy, vol. 18, 183-192
+Marshall, A. 1890. Principles of Economics, London, Macmillan
+Mathias, P. 1969. 77K First Industrial Nation, London, Methuen
+Miyazaki, K. 1993. 'Dynamic Competence Building in Japanese and European Firms: The Case
+of Opto-electronics', D.Phil, thesis, University of Sussex
+Mjoset, L. 1992. The Irish Economy in a Comparative Institutional Perspective, Dublin, National
+Economic and Social Council
+Mowery, D. C. 1980. 'The Emergence and Growth of Industrial Research in American
+Manufacturing 1899-1946', PhD dissertation, Stanford University
+Mowery, D. C. 1983. The relationship between intrafirm and contractual forms of industrial
+research in American manufacturing 1900-1940, Explorations in Economic History, vol. 20, no. 4,
+October
+National Science Foundation 1973. Interactions of Science and Technology in the Innovative Process,
+NSF-667, Washington, DC
+Nelson, R. R. (ed.) 1962. The Rate and Direction of Innovative Activity, Princeton University Press,
+NBER
+Nelson, E. R. (ed.) 1963. National Innovation Systems: A Comparative Analysis, Oxford, Oxford
+University Press
+OECD 1963A. The Measurement of Scientific and Technical Activities (Frascati Manual), Paris,
+OECD
+OECD 1963B. Science, Economic Growth and Government Policy, Paris, OECD
+OECD 1971. Science, Growth and Society, (Brooks Report), Paris, OECD
+OECD 1980. Technical Change and Economic Policy, Paris, OECD
+OECD 1988. New Technologies in the 1990s: A Socio-Economic Strategy (Sundqvist Report), Paris,
+OECD
+OECD 1991. Technology and Productivity: The Challenges for Economic Policy, Paris, OECD
+OECD 1992. Technology and the Economy: The Key Relationships, Paris, OECD
+Ohmae, K. 1990. The Borderless World, New York, Harper
+Patel, P. 1993. 'Localised Production of Technology for Global Markets', mimeo, SPRU,
+University of Sussex
+Patel, P. and Pavitt, K. 1991. Large firms in the production of the world's technology: an important
+case of 'non-globalisation', Journal of International Business Studies, vol. 22, no. 1
+Patel, P. and Pavitt, K. 1992. The innovative performance of the world's largest firms: some new
+evidence, Economics of Innovation and New Technology, vol. 2, 91-102
+Paulinyi, A. 1982. Der technologietransfer fur die Metallbearbeitung und die preussische
+Gewerbeforderung 1820-1850, in F. Blaich, (Hg), Die Rolle des Staates fur die wirtschaftliche
+Entwicklung, Berlin, Blaich
+Perez, C. 1983. Structural change and the assimilation of new technologies in the economic and
+social system, Futures, vol. 15, no. 5
+
+=== PAGE 20 (Article page 24) ===
+24 C. Freeman
+Piore, M. and Sabel, C. 1984. The Second Industrial Divide: Possibilities for Prosperity, New York,
+Basic Books
+Porter, M. 1990. The Competitive Advantage of Nations, New York, Free Press, Macmillan
+Posner, M. 1961. International trade and technical change, Oxford Economic Papers, vol. 13,
+323-341
+Prais, S. J. 1981. Vocational qualifications of the labour force in Britain and Germany, National
+Institute Economic Review, vol. 98, 47-59
+Romer, P. 1986. Increasing returns and long-run growth Journal of Political Economy, vol. 94, no.
+5
+Rothwell, R. 1992. 'Successful Industrial Innovation: Critical Factors for the 1990s', SPRU 25th
+Anniversary, Brighton, University of Sussex, reprinted in R&D Management, vol. 22, no. 3
+Sako, M. 1992. Contracts, Prices and Trust How the Japanese and British Manage Their Sub-
+contracting Relationships, Oxford, Oxford University Press
+Saxcnian, A. 1991. The origins and dynamics of production networks in Silicon Valley, Research
+Policy, vol. 20, no. 5
+Scott, A. J. 1991. The aerospace-electronics industrial complex of Southern California. The
+formative years 1940-1960, Research Policy, vol. 20, no. 5
+Stokes, D. E. 1993. 'Pasteur's Quadrant: A Study in Policy Science Ideas', mimeo, Princeton
+University
+Storper, M. and Harrison, B. 1991. Flexibility, hierarchy and regional development: the changing
+structure of industrial production systems and their forms of governance in the 1990s, Research
+Policy, vol. 203 no. 5
+Takeuchi, H. and Nonaka, I. 1986. The new product development game, Harvard Business Review,
+January/February, 285-305
+Villaschi, A. F. 1993. 'The Brazilian National System of Innovation: Opportunities and Con-
+straints for Transforming Technological Dependency" DPhil Thesis, University of London
+von Hippel E. 1976. The dominant role of users in the scientific instrument innovation process,
+Research Policy, vol. 5, 212-239
+von Hippel, E. 1988. The Sources of Innovation, Oxford, Oxford University Press
+von Tunzelmann, N. 1994. Technology in the early nineteenth century, in R. C. Floud and D. N.
+McCloskey (eds), The Economic History of Great Britain, 2nd edn, vol. 1, Cambridge, Cambridge
+University Press
+Womack, J., Jones, D. and Roos, D. 1990. The Machine that Changed the World, New York, Rawson
+Associates (Macmillan)
+World Bank 1991. World Development Report, New York, Oxford University Press
