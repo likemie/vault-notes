@@ -7,7 +7,7 @@ aliases:
 summary: "全面质量管理（Total Quality Management, TQM）是以全员参与、流程持续改进（CQI）、学习者导向及客观数据决策为特征的组织治理范式。由戴明与朱兰奠基，经产业联盟（如 SEMATECH）实践后，于 1990 年代广泛渗透至高等教育质量保证与学校治理变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[National Innovation System]]"
   - "[[Corporate R&D Labs]]"
   - "[[Reflexivity]]"
+  - "[[Technological Catch-up]]"
   - "[[Industry Affiliate Program]]"
   - "[[Hypothesis]]"
   - "[[Output-Oriented Governance]]"
@@ -177,7 +178,7 @@ updated: 2026-10-05
 > | **系统归因与流程治理** | 将质量故障归因于流程与管理系统而非个体，消除惩罚性恐惧 | 复杂组织内部治理与供应链能力建设 | Deming (1986); Juran (1988) |
 > | **教育跨界调和与专业赋能** | 将工业质量工具转化为学术共同体与教师的[[Reflexivity\|反思性]]持续改进载体 | 高等教育质量保障与中小学学校改进 | Grindley, Mowery, & Silverman (1994) |
 > | **跨专业协同与质量收敛** | 证明跨职能小组与全流程参数控制可独立支撑复杂逻辑制造良率追赶 | 先进半导体微电子制造与复杂高精工业标杆 | [[Argument_Macher_1998_CMR\|Macher, Mowery, & Hodges (1998)]] |
-> | **国家创新系统协同命题** | TQM 与全员质量网络打通研产协同回路，构成后发工业赶超的关键微观制度基础 | 跨国创新系统比较、日本战后制造赶超、前苏联部属科研体制反思 | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] |
+> | **国家创新系统协同命题** | TQM 与全员质量网络打通研产协同回路，构成后发[[Technological Catch-up\|工业赶超]]的关键微观制度基础 | 跨国创新系统比较、日本战后制造赶超、前苏联部属科研体制反思 | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] |
 
 ---
 

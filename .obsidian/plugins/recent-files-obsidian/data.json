@@ -5,6 +5,30 @@
       "path": "wiki/arguments/journal-articles/Cambridge Journal of Economics/Argument_Freeman_1995_CJE.md"
     },
     {
+      "basename": "Frascati Manual",
+      "path": "wiki/facts/global/Frascati Manual.md"
+    },
+    {
+      "basename": "Intellectual Capital",
+      "path": "wiki/concepts/political-economy-geopolitics/Intellectual Capital.md"
+    },
+    {
+      "basename": "Richard Nelson",
+      "path": "wiki/persons/us/Richard Nelson.md"
+    },
+    {
+      "basename": "Industrial District",
+      "path": "wiki/concepts/economics/Industrial District.md"
+    },
+    {
+      "basename": "Bounded Rationality",
+      "path": "wiki/theories/learning-science-cognitive-science/Bounded Rationality.md"
+    },
+    {
+      "basename": "Gewerbe-Institut",
+      "path": "wiki/facts/germany/Gewerbe-Institut.md"
+    },
+    {
       "basename": "National Innovation System",
       "path": "wiki/concepts/university-industry-collaboration/National Innovation System.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "STEM Education",
       "path": "wiki/concepts/educational-policy-reform/STEM Education.md"
-    },
-    {
-      "basename": "Department of Energy",
-      "path": "wiki/facts/us/Department of Energy.md"
-    },
-    {
-      "basename": "Use-Inspired Basic Research",
-      "path": "wiki/concepts/university-industry-collaboration/Use-Inspired Basic Research.md"
-    },
-    {
-      "basename": "Argument_Murphy_2026_JTS",
-      "path": "wiki/arguments/journal-articles/Journal of Technology Studies/Argument_Murphy_2026_JTS.md"
-    },
-    {
-      "basename": "CHIPS and Science Act",
-      "path": "wiki/facts/us/CHIPS and Science Act.md"
-    },
-    {
-      "basename": "Murphy_2026_JTS",
-      "path": "sources/Murphy_2026_JTS.md"
-    },
-    {
-      "basename": "Kotter's 8-Step Change Model",
-      "path": "wiki/theories/educational-policy-reform/Kotter's 8-Step Change Model.md"
     }
   ],
   "omittedPaths": [],

@@ -9,7 +9,7 @@ aliases:
 summary: "一种具有跨部门广泛渗透性、内在持续技术动态性以及能诱发下游互补性创新与系统性生产率提升的基础技术范式。"
 type: concept
 domain: "economics"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Variable]]"
 related_theories:
+  - "[[Techno-economic Paradigm]]"
   - "[[Technological Trajectories]]"
   - "[[Systems of Innovation]]"
   - "[[Evolutionary Economics]]"
@@ -48,6 +49,7 @@ related_instruments: []
 related_persons:
   - "[[David C. Mowery]]"
   - "[[Chris Freeman]]"
+  - "[[Carlota Perez]]"
 related_facts:
   - "[[Fairchild Semiconductor]]"
   - "[[ARPANET]]"
@@ -83,7 +85,7 @@ updated: 2026-10-05
 
 > [!boundary]- 概念边界
 > - 不等于专用技术（Special Purpose Technology）——专用技术高度针对特定应用场景优化，难以跨行业横向迁移并激发跨部门互补性创新。
-> - 不等于通用工具软件——通用目的技术属于宏观与产业层级的技术-经济范式，涵盖材料、工艺、封装与系统架构的全套技术群落。
+> - 不等于通用工具软件——通用目的技术属于宏观与产业层级的[[Techno-economic Paradigm|技术-经济范式]]，涵盖材料、工艺、封装与系统架构的全套技术群落。
 
 ---
 
@@ -167,7 +169,7 @@ updated: 2026-10-05
 ### 命题五　通用目的技术的全局扩散依赖社会制度框架的深度调适与组织创新
 
 > [!concept-lens] 技术-经济[[Paradigm|范式]]与制度调适
-> 探讨以微电子与计算机为代表的通用目的技术群落如何从孤立的技术硬件突破，演变为重塑管理方式、技能结构与劳资关系的全局技术-经济范式，以及既有社会制度框架的滞后如何阻碍其扩散。
+> 探讨以微电子与计算机为代表的通用目的技术群落如何从孤立的技术硬件突破，演变为重塑管理方式、技能结构与劳资关系的全局[[Techno-economic Paradigm|技术-经济范式]]，以及既有社会制度框架的滞后如何阻碍其扩散。
 
 > [!claim] [[Chris Freeman|Freeman, C.]]
 > **通用技术范式扩散的制度多样性与试错要求** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）指出，当以微处理器和计算机革命为核心的通用目的技术席卷全球时，其扩散与生产率增益并非自发实现，而是紧密伴随管理与组织变革（如精益生产系统、即时库存控制、多技能工种培训与[[Total Quality Management|全面质量管理]]）。社会与制度框架若适应于早期的机械化大生产范式，往往无法兼容颠覆性的全新通用技术。新通用技术范式的扩散是一个涉及广泛制度多样性与试错调整的历史过程；过早锁定于单一技术标准或僵化照搬别国模式极易引发结构性失衡，国家[[Systems of Innovation|创新系统]]必须主动提供促进本土技术多样性、劳动培训与组织重组的政策支持。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
@@ -191,7 +193,7 @@ updated: 2026-10-05
 
 > [!dev-timeline] 概念演变
 > - **1963 — 机床工业的技术演进起源** 内森·罗森伯格（Nathan Rosenberg）在研究美国机床工业史时首次提出[[Technological Convergence|技术收敛]]（Technological Convergence）思想，指出通用制造技术在不同行业间的通用性传播规律。
-> - **1980s–1995 — [[Evolutionary Economics|演化经济学]]技术-经济[[Paradigm|范式]]奠定** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）与卡萝塔·佩雷斯（Carlota Perez）提出技术-经济范式理论，指出以微电子为代表的根本性通用技术扩散需要跨部门的管理变革、多技能工种培训与国家制度框架调适。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
+> - **1980s–1995 — [[Evolutionary Economics|演化经济学]]技术-经济[[Paradigm|范式]]奠定** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）与卡萝塔·佩雷斯（[[Carlota Perez]]）提出[[Techno-economic Paradigm|技术-经济范式]]理论，指出以微电子为代表的根本性通用技术扩散需要跨部门的管理变革、多技能工种培训与国家制度框架调适。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
 > - **1995 — 通用目的技术形式化模型确立** 布雷斯纳汉与特拉伊滕贝格正式提出通用目的技术（GPT）模型，将其形式化为兼具普遍渗透性、内在动态性与互补性创新的宏观增长引擎。
 > - **1999 — 硅微电子产业史经验确证** 莱屈耶通过[[Fairchild Semiconductor|仙童半导体]]从军用到民用市场的历史[[Case Study|个案研究]]，确证了硅技术确立为通用目的技术的微观企业与制造机理。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 179–209)]]
 > - **2005 — 公共先导采购与军民共演规律确立** 法布里奇奥与莫厄里系统揭示国防研发与先导采购在半导体、计算机硬件、系统软件及互联网四大通用技术部门萌芽期的催化机制，阐明由萌芽期单向外溢向成熟期“民用向军工逆向溢出”的生命周期规律。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 27–44)]]

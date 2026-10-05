@@ -35,7 +35,8 @@ related_theories:
   - "[[King-Persily Model]]"
 related_methods:
   - "[[Case Study]]"
-related_persons: []
+related_persons:
+  - "[[Friedrich List]]"
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
   - "[[University Industry Demonstration Partnership]]"
@@ -52,7 +53,7 @@ title: "Argument_Swick_Jones_2025_AcademicHealthSystems"
 argument_key: "Argument_Swick_Jones_2025_AcademicHealthSystems"
 argument_display_title: "The unique role of academic health systems in facilitating innovative UI partnerships"
 argument_kind: "book"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -165,7 +166,7 @@ citation_aliases:
 ---
 
 > [!warning] 挑战四：问题复杂性与技术变革速度的叠加
-> 当代医学问题已超出单个机构甚至单一类型机构的解决能力(pp.184–186)。历史上有看似不可解的问题（如感染预防）在巴斯德、李斯特和科赫做出发现后被证明并非不可解，但当代挑战多了一层额外因素：技术本身的发展速度。技术驱动创新，同时也创造新问题，如数据安全和算法偏见。摩尔定律（Moore's Law）预测芯片元件数每两年翻一番，已持续近 60 年；在深度学习时代，计算能力现每 6 个月翻一番(p.186)。单一医院很难独立承担这种技术投入速度。
+> 当代医学问题已超出单个机构甚至单一类型机构的解决能力(pp.184–186)。历史上有看似不可解的问题（如感染预防）在巴斯德、[[Friedrich List|李斯特]]和科赫做出发现后被证明并非不可解，但当代挑战多了一层额外因素：技术本身的发展速度。技术驱动创新，同时也创造新问题，如数据安全和算法偏见。摩尔定律（Moore's Law）预测芯片元件数每两年翻一番，已持续近 60 年；在深度学习时代，计算能力现每 6 个月翻一番(p.186)。单一医院很难独立承担这种技术投入速度。
 
 ---
 

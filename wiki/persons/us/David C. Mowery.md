@@ -10,7 +10,7 @@ summary: "美国著名创新经济学与科技政策学者，加州大学伯克�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 43
+person_related_count: 44
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -54,7 +54,8 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Richard Nelson]]"
 related_facts:
   - "[[Sematech]]"
   - "[[Bayh-Dole Act of 1980]]"
@@ -86,7 +87,7 @@ updated: 2026-10-05
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名创新经济学家与科技政策学者，加州大学伯克利分校（University of California, Berkeley）哈斯商学院威廉·哈斯勒新企业发展讲席教授（William A. and Betty H. Hasler Chair in New Enterprise Development），美国国家经济研究局（National Bureau of Economic Research, NBER）研究员。
-> - **核心角色** [[Evolutionary Economics|演化经济学]]与技术变迁制度史学派核心代表人物，长期与内森·罗森伯格（Nathan Rosenberg）、理查德·纳尔逊（Richard Nelson）紧密合作；从国家科研投入、需求侧政府采购、反垄断诉讼、知识产权制度及产业组织协同等微观制度层面，系统解构了战后美国半导体、计算机、软件及生物医药等高科技产业[[Innovation Ecosystem|创新生态]]演进机制。
+> - **核心角色** [[Evolutionary Economics|演化经济学]]与技术变迁制度史学派核心代表人物，长期与内森·罗森伯格（Nathan Rosenberg）、[[Richard Nelson|理查德·纳尔逊]]（Richard Nelson）紧密合作；从国家科研投入、需求侧政府采购、反垄断诉讼、知识产权制度及产业组织协同等微观制度层面，系统解构了战后美国半导体、计算机、软件及生物医药等高科技产业[[Innovation Ecosystem|创新生态]]演进机制。
 > - **代表贡献** 阐明战后美国信息技术产业非中心化竞争生态的制度根基（军品采购驱动效应、1956 年 AT&T 与 IBM 反垄断同意令）；系统提出高技术研发联盟治理框架与纵向供应链协同机制（[[Sematech]] 案例评估）；实证解构大学专利化繁荣神话与《[[Bayh-Dole Act of 1980|拜杜法案]]》制度边界；提炼出国防研发与采购支持前沿技术的生命周期演变模型（早期催化—中期外溢—晚期逆向溢出与收益递减）。
 
 > [!citation-card] 广义创新政策组合与市场结构的协同塑造
@@ -114,7 +115,7 @@ updated: 2026-10-05
 > - **1996 — *The International Computer Software Industry*** 主编跨国比较专著，系统剖析美、欧、日软件工业发展路径分化与政府采购、反垄断政策及市场结构的演进关系。
 > - **1998 — *Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry*** 与杰弗里·马赫（Jeffrey T. Macher）、大卫·霍奇斯（David A. Hodges）合著发表于 *California Management Review*，结合加州大学伯克利分校竞争性半导体制造（[[Competitive Semiconductor Manufacturing Program|CSM]]）项目的产线标杆数据与宏观产业演进，实证阐明美国半导体产业在 20 世纪 90 年代的复兴源于产品线向微组件敏捷重组、制造质量差距弥合与纵向专业化分工，有力纠正了 80 年代学界关于产业碎片化必然衰败的悲观论断。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 107–136)]]
 > - **1998 — *Paths of Innovation: Technological Change in 20th-Century America*** 与内森·罗森伯格合著，深入考察内燃机、化学化工、航空航天及微电子与计算机四大核心[[Technological Trajectories|技术轨迹]]的历史演进规律。
-> - **2004 — *Ivory Tower and Industrial Innovation: University-Industry [[Technology Transfer]] Before and After the [[Bayh-Dole Act of 1980|Bayh-Dole Act]]*** 与理查德·纳尔逊、巴瓦尼·桑帕特（Bhaven Sampat）、阿维德·扎多尼斯（Arvids Ziedonis）合著，全面解构《拜杜法案》神话，实证指出大学技术转移繁荣源自战后长周期基础研究积累与生物医药学科突破，而非单纯依靠专利垄断激励。
+> - **2004 — *Ivory Tower and Industrial Innovation: University-Industry [[Technology Transfer]] Before and After the [[Bayh-Dole Act of 1980|Bayh-Dole Act]]*** 与[[Richard Nelson|理查德·纳尔逊]]、巴瓦尼·桑帕特（Bhaven Sampat）、阿维德·扎多尼斯（Arvids Ziedonis）合著，全面解构《拜杜法案》神话，实证指出大学技术转移繁荣源自战后长周期基础研究积累与生物医药学科突破，而非单纯依靠专利垄断激励。
 > - **2005 — *Defense-Related R&D and the Growth of the Postwar Information Technology Industrial Complex in the United States*** 与基拉·R·法布里齐奥（Kira R. Fabrizio）合著发表于 *Revue d'économie industrielle*，系统梳理战后五十年国防部通过科研资助、先导采购与第二货源规制培育微电子、计算机硬件、软件及互联网四大支柱产业的制度演进，提出国防支持效能随产业成熟与商业市场扩张而递减的生命周期规律，并前瞻分析 9/11 后反恐与国土安全研发预算重组的深远影响。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 27–44)]]
 > - **2011 — *Federal Policy and the Development of Semiconductors, Computer Hardware, and Computer Software*** 收录于《加速能源创新》（*Accelerating Energy Innovation*），深入总结国防采购、反垄断同意令与[[Disciplinary Institutionalization|学科建制化]]对信息技术（IT）产业的塑造机制，并审慎评估其作为气候能源创新政策模板的移植边界。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 159–188)]]
 
@@ -162,7 +163,7 @@ updated: 2026-10-05
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **导师／核心合作者** 内森·罗森伯格（Nathan Rosenberg）、理查德·纳尔逊（Richard Nelson）— 共同奠定技术变迁制度史与国家[[Systems of Innovation|创新系统]]（[[National Innovation System|NIS]]）理论基石。
+> - **导师／核心合作者** 内森·罗森伯格（Nathan Rosenberg）、[[Richard Nelson|理查德·纳尔逊]]（Richard Nelson）— 共同奠定技术变迁制度史与国家[[Systems of Innovation|创新系统]]（[[National Innovation System|NIS]]）理论基石。
 > - **研究合作者** 彼得·格林德利（Peter Grindley）、布莱恩·西尔弗曼（Brian Silverman）— 共同开展 [[Sematech]] 治理与高技术联盟跨国比较研究。
 > - **重要机构／政策平台** [[National Academy of Sciences]]、[[National Research Council]]、[[OECD]]、[[DARPA]] — 长期承担国家科技政策咨询与评估工作。
 > - **关联研发事实与法案** [[Sematech]]、[[VLSI Project]]、[[ESPRIT]]、[[Bayh-Dole Act of 1980]] — 其经验研究与理论批判的核心实证载体。

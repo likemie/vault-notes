@@ -8,7 +8,7 @@ aliases:
 summary: "以 Nelson & Winter（1982）为奠基的经济学流派，将经济变迁视为多样性变异、组织惯例学习、路径依赖与动态选择的演化过程；批判新古典静态均衡假设，为技术轨迹、创新系统、公共动态能力与引领和学习范式提供底层理论基石"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 53
+theory_related_count: 58
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Market Failure]]"
   - "[[Lead-and-Learn Paradigm]]"
   - "[[Paradigm]]"
+  - "[[Intellectual Capital]]"
   - "[[Creativity]]"
   - "[[Operationalization]]"
   - "[[National Innovation System]]"
@@ -55,6 +56,7 @@ related_theories:
   - "[[Bounded Rationality]]"
   - "[[Technological Trajectories]]"
   - "[[Systems of Innovation]]"
+  - "[[Techno-economic Paradigm]]"
   - "[[Pavitt Taxonomy]]"
   - "[[Three Generations of Mission-Oriented Policy]]"
   - "[[ROAR Framework]]"
@@ -65,8 +67,11 @@ related_methods:
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Joseph Schumpeter]]"
+  - "[[Friedrich List]]"
   - "[[Herbert A. Simon]]"
+  - "[[Richard Nelson]]"
   - "[[Chris Freeman]]"
+  - "[[Bengt-Åke Lundvall]]"
   - "[[Mariana Mazzucato]]"
   - "[[Rainer Kattel]]"
 related_facts: []
@@ -103,11 +108,11 @@ updated: 2026-10-05
 ## 理论来源与形成
 
 > [!theory-origin] 理论渊源与思想演进
-> - **理论先驱** 弗里德里希·李斯特（Friedrich List, 1841）对古典物质资本观的批判奠定了演化经济学关于无形智力资本跨代积累与国家生产力思想的深层先声；[[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter）的“[[Creativity|创造性]]破坏”（Creative Destruction）理论奠定了创新作为资本主义动态引擎的核心地位；赫伯特·西蒙（[[Herbert A. Simon|Herbert Simon]]）的[[Bounded Rationality|有限理性]]（Bounded Rationality）理论打破了完全理性的最大化[[Hypothesis|假设]]；生物演化论提供了“变异–选择–保留”（Variation-Selection-Retention）的演化隐喻。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–6)]]
-> - **奠基著作** 理查德·纳尔逊与西德尼·温特（Nelson & Winter, 1982）出版里程碑著作《经济变迁的演化理论》（*An Evolutionary Theory of Economic Change*），系统确立了以“组织惯例（Organizational Routines）”替代边际最优、以“市场选择”替代均衡出清的微观–中观演化[[Paradigm|范式]]。
+> - **理论先驱** [[Friedrich List|弗里德里希·李斯特]]（Friedrich List, 1841）对古典物质资本观的批判奠定了演化经济学关于无形[[Intellectual Capital|智力资本]]跨代积累与国家生产力思想的深层先声；[[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter）的“[[Creativity|创造性]]破坏”（Creative Destruction）理论奠定了创新作为资本主义动态引擎的核心地位；赫伯特·西蒙（[[Herbert A. Simon|Herbert Simon]]）的[[Bounded Rationality|有限理性]]（Bounded Rationality）理论打破了完全理性的最大化[[Hypothesis|假设]]；生物演化论提供了“变异–选择–保留”（Variation-Selection-Retention）的演化隐喻。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–6)]]
+> - **奠基著作** [[Richard Nelson|理查德·纳尔逊]]与西德尼·温特（Nelson & Winter, 1982）出版里程碑著作《经济变迁的演化理论》（*An Evolutionary Theory of Economic Change*），系统确立了以“组织惯例（Organizational Routines）”替代边际最优、以“市场选择”替代均衡出清的微观–中观演化[[Paradigm|范式]]。
 > - **中观拓展与技术范式** 乔瓦尼·多西（Dosi, 1982, 1988）提出技术[[Paradigm|范式]]（Technological Paradigms）与[[Technological Trajectories|技术轨迹]]（Technological Trajectories），基思·帕维特（[[Argument_Pavitt_1984_RP|Pavitt, 1984]]）构建了产业创新分类学，将演化逻辑[[Operationalization|操作化]]为中观产业分析工具。
 > - **技术差距与后发赶超模型** 波斯纳（Posner, 1961）、弗里曼（Freeman, 1963, 1965）与法格伯格（Fagerberg, 1987, 1988）构建技术差距（Technology Gaps）与模仿滞后模型，证明跨国增长分化取决于本土知识积累，打破了新古典要素禀赋自发趋同假说。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8)]]
-> - **宏观系统与治理转向** [[Chris Freeman|克里斯·弗里曼]]（Freeman, 1987, 1995）与本格特-奥克·伦德瓦尔（Lundvall, 1992）将演化视角拓展至国家[[Systems of Innovation|创新系统]]与长波技术–经济范式调适；[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）与莱纳·[[Rainer Kattel|卡特尔]]（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）进一步将其推进为融合韦伯国家能力与熊彼特企业双元能力的主动[[Market Shaping and Creating|市场塑造]]、[[Public Dynamic Capabilities|公共动态能力]]与[[Lead-and-Learn Paradigm|引领与学习范式]]。
+> - **宏观系统与治理转向** [[Chris Freeman|克里斯·弗里曼]]（Freeman, 1987, 1995）与[[Bengt-Åke Lundvall|本格特-奥克·伦德瓦尔]]（Lundvall, 1992）将演化视角拓展至国家[[Systems of Innovation|创新系统]]与长波技术–经济范式调适；[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）与莱纳·[[Rainer Kattel|卡特尔]]（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）进一步将其推进为融合韦伯国家能力与熊彼特企业双元能力的主动[[Market Shaping and Creating|市场塑造]]、[[Public Dynamic Capabilities|公共动态能力]]与[[Lead-and-Learn Paradigm|引领与学习范式]]。
 
 > [!dev-timeline] 演化经济学思想演化脉络
 > - **1841/1995 — 思想史先声与李斯特传统** 李斯特批判古典物质资本观，确立国家智力资本与教育培训积累的演化追赶逻辑。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–7)]]
@@ -130,10 +135,10 @@ updated: 2026-10-05
 >   企业面对环境变化时在技术与组织空间展开试错性搜寻，产生差异化的产品、工艺与战略多样性。
 > - **技术[[Paradigm|范式]]与[[Technological Trajectories|技术轨迹]]（Paradigms & Trajectories）**
 >   技术解决特定工程问题的通用模式（范式）及其沿着技术–经济权衡权轴累积演进的既定方向（轨迹）。
-> - **技术-经济范式与制度滞后（Techno-Economic Paradigms & Institutional Lag）**
+> - **[[Techno-economic Paradigm|技术-经济范式]]与制度滞后（Techno-Economic Paradigms & Institutional Lag）**
 >   重大[[General Purpose Technology|通用技术]]革命不仅改变生产函数，更要求劳动关系、职业教育大纲与国家规制发生全面协同调适；技术变革快于制度变迁时必然引发系统性制度滞后与结构性危机。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
 > - **技术差距与模仿滞后（Technology Gaps & Imitation Lags）**
->   国家间生产力分化取决于无形知识资本与[[Absorptive Capacity|吸收能力]]的差距；跨国技术扩散存在显著的时滞与制度壁垒，后发国家必须依托主动的教育与组织研发积累才能实现赶超。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8)]]
+>   国家间生产力分化取决于无形[[Intellectual Capital|知识资本]]与[[Absorptive Capacity|吸收能力]]的差距；跨国技术扩散存在显著的时滞与制度壁垒，后发国家必须依托主动的教育与组织研发积累才能实现赶超。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8)]]
 > - **市场与制度选择环境（Selection Environment）**
 >   市场竞争机制与公共规制政策共同构成的筛选压力，决定了不同惯例与技术方案的生存、扩散或淘汰。
 > - **路径依赖与技术锁定（Path Dependency & Lock-in）**
@@ -221,7 +226,7 @@ updated: 2026-10-05
 
 ### 命题六　长波通用技术范式转型引发深层制度滞后，制度多样性试错是克服路径锁定的演化保障
 
-> [!concept-lens] 技术-经济范式转型与制度多样性
+> [!concept-lens] [[Techno-economic Paradigm|技术-经济范式]]转型与制度多样性
 > 探讨颠覆性[[General Purpose Technology|通用技术]]变革在宏观社会经济系统中的演化传导路径，论证制度多样性对于避免过早技术与体制锁定的决定性价值。
 
 > [!claim] Freeman & Perez
@@ -304,7 +309,7 @@ updated: 2026-10-05
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 从经济思想史与演化经济学长波视角考证李斯特知识资本渊源，以德英美日苏韩巴长周期比较论证技术差距、企业研发建制化与制度多样性试错对后发赶超与打破路径锁定的决定性作用。
+> - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 从经济思想史与演化经济学长波视角考证[[Friedrich List|李斯特]][[Intellectual Capital|知识资本]]渊源，以德英美日苏韩巴长周期比较论证技术差距、企业研发建制化与制度多样性试错对后发赶超与打破路径锁定的决定性作用。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 综合演化动态能力与韦伯国家能力，提出三层[[Public Dynamic Capabilities|公共部门动态能力]]分析矩阵与引领和学习治理[[Paradigm|范式]]。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 将演化经济学推进为超越[[Market Failure|市场失灵]]修补的主动[[Market Shaping and Creating|市场塑造]]理论与 ROAR 政策[[Analytic Framework|分析框架]]。
 > - [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]] — 基于大样本微观数据实证检验微观[[Heterogeneity|异质性]]常态与 Pavitt 四大[[Technological Trajectories|技术轨迹]]。

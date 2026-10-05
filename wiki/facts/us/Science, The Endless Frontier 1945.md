@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -50,6 +50,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[MIT Radiation Laboratory]]"
   - "[[OECD]]"
+  - "[[Frascati Manual]]"
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
   - "[[Argument_Atkinson_2008_TIS]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Science, The Endless Frontier 1945
@@ -136,7 +137,7 @@ updated: 2026-10-03
 
 > [!finding-cards] 关键历史后果
 > - **制度创生：[[National Science Foundation|NSF]] 与现代大学研究体系** 1950 年正式创建国家科学基金会；推动大学研究型实验室形成全球最具规模的基础科学探索网络，为大学-政府-产业三螺旋的形成奠定财政基座。
-> - **话语规制：二分法成为全球政策标准** [[OECD|经济合作与发展组织]]（[[OECD]]）等国际组织在其《弗拉斯卡蒂手册》（*Frascati Manual*）中全面吸收布什报告的基础/应用划分，成为全球统计研发投入的通用准绳。
+> - **话语规制：二分法成为全球政策标准** [[OECD|经济合作与发展组织]]（[[OECD]]）等国际组织在其《[[Frascati Manual|弗拉斯卡蒂手册]]》（*Frascati Manual*）中全面吸收布什报告的基础/应用划分，成为全球统计研发投入的通用准绳。
 > - **政策反思：[[Pasteur's Quadrant|帕斯德象限]]与循环理论的反向重构** 促使当代科技政策界发起长达数十年的反思运动，直接催生了斯托克斯的用启发性基础研究概念以及纳拉亚纳穆尔提等人的[[Discovery-Invention Cycle|发现-发明循环]]理论。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862–863)]]; [[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–33)]]
 > - **意外后果：大学微观激励异化与体制压力** 布什关于高风险容错、独立学生奖学金与学科均衡发展的三大核心设想在大学后续的主动改造中被逐步侵蚀，演变为软钱模式、博士用工依赖与生物医学过度集中。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 37)]]
 

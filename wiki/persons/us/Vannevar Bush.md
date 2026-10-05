@@ -7,7 +7,7 @@ summary: "美国电机工程师、科技管理者与战后科技政策奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 33
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Total Quality Management]]"
   - "[[Soft-Money Faculty Model]]"
   - "[[Emergence]]"
+  - "[[Technological Catch-up]]"
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Pasteur's Quadrant]]"
@@ -53,6 +54,7 @@ related_facts:
   - "[[Department of Energy]]"
   - "[[DARPA]]"
   - "[[OECD]]"
+  - "[[Frascati Manual]]"
   - "[[Bell Labs]]"
   - "[[Ministry of International Trade and Industry]]"
 related_arguments:
@@ -129,7 +131,7 @@ updated: 2026-10-05
 > [!influence-path] 影响路径
 > - **政策与机构路径** 直接促成了[[National Science Foundation|美国国家科学基金会]]（NSF）的建立，确立了同行评议与大学同行自主管理的资助体制；为战后国立卫生研究院（[[National Institutes of Health|NIH]]）、能源部（[[Department of Energy|DOE]]）及国防部高级研究计划局（[[DARPA]]）的多机构竞争性格局奠定了母体框架。
 > - **高等教育路径** 使美国顶尖[[Research Universities|研究型大学]]由战前的教学本位彻底转变为依托联邦科研经费的研究本位体系，开创了战后美国大学在全球前沿学科的长期垄断地位。
-> - **理论[[Paradigm|范式]]路径** 其倡导的“基础研究 $\rightarrow$ 应用研究 $\rightarrow$ 开发制造”单向序列被[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）《弗拉斯卡蒂手册》采纳为全球研发统计标准，成为战后主导半个多世纪科技政策的“线性模型”，催生了以研发支出占国民生产总值（GNP）比重为核心的跨国科技军备竞赛指标。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]；[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–10)]]
+> - **理论[[Paradigm|范式]]路径** 其倡导的“基础研究 $\rightarrow$ 应用研究 $\rightarrow$ 开发制造”单向序列被[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）《[[Frascati Manual|弗拉斯卡蒂手册]]》采纳为全球研发统计标准，成为战后主导半个多世纪科技政策的“线性模型”，催生了以研发支出占国民生产总值（GNP）比重为核心的跨国科技军备竞赛指标。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]；[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–10)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统反思并批判[[Science, The Endless Frontier 1945|布什报告]]在战后制度化的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]，揭示其深植于西方贬低动手制作的文化偏见，论证该线性[[Hypothesis|假设]]已成为阻碍当代美国国家创新政策演进的体制障碍。
@@ -169,4 +171,4 @@ updated: 2026-10-05
 > > 高额的基础与应用研发支出是否能自发转化为国家产业竞争力与广泛的经济增长？
 > >
 > > - **线性供给驱动论（布什模型）** [[Hypothesis|假设]]科学发现是创新的根本源泉，研发支出总额及高水平科学家产出构成了国家创新能力的充分前提；只要持续向基础科学“蓄水池”注资，商业应用与经济红利将自然向产业下游顺流[[Emergence|涌现]]。
-> > - **演化创新系统论（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）** [[Chris Freeman|克里斯·弗里曼]]借助国际比较史揭示了布什假说的严重盲区：苏联在 1970 年代将高达 3.6% 的国民生产总值（GNP）投入研发、拥有全球最庞大的科学家与工程师队伍，但由于科研机构与民用工业彻底割裂、缺乏市场微观反馈与车间渐进创新，其民用产业陷入大面积停滞；相反，战后日本研发支出长期低于美苏，但依托工人的“[[Learning by Doing|干中学]]”（[[Learning by Doing]]）、[[Total Quality Management|全面质量管理]]、逆向工程以及[[Ministry of International Trade and Industry|通商产业省]]的产业网络协同，实现了跨越式技术追赶。弗里曼论证，决定国家长期竞争力的是整个[[Systems of Innovation|创新系统]]内各制度支柱（教育、产业组织、研发与政府协调）的互动学习能力，而非孤立的研发经费规模。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11, 15–18)]]
+> > - **演化创新系统论（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）** [[Chris Freeman|克里斯·弗里曼]]借助国际比较史揭示了布什假说的严重盲区：苏联在 1970 年代将高达 3.6% 的国民生产总值（GNP）投入研发、拥有全球最庞大的科学家与工程师队伍，但由于科研机构与民用工业彻底割裂、缺乏市场微观反馈与车间渐进创新，其民用产业陷入大面积停滞；相反，战后日本研发支出长期低于美苏，但依托工人的“[[Learning by Doing|干中学]]”（[[Learning by Doing]]）、[[Total Quality Management|全面质量管理]]、逆向工程以及[[Ministry of International Trade and Industry|通商产业省]]的产业网络协同，实现了跨越式[[Technological Catch-up|技术追赶]]。弗里曼论证，决定国家长期竞争力的是整个[[Systems of Innovation|创新系统]]内各制度支柱（教育、产业组织、研发与政府协调）的互动学习能力，而非孤立的研发经费规模。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11, 15–18)]]

@@ -55,6 +55,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Mariana Mazzucato]]"
+  - "[[Richard Nelson]]"
 related_facts:
   - "[[Horizon Europe Missions]]"
   - "[[UN Sustainable Development Goals]]"
@@ -77,7 +78,7 @@ title: "Argument_Mazzucato_2018_ICC"
 argument_key: "Argument_Mazzucato_2018_ICC"
 argument_display_title: "Mission-oriented innovation policies: challenges and opportunities"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -176,7 +177,7 @@ argument_related_color: "#dbeafe"
 > | **产业参与主体** | 专注于少数激进前沿技术，参与企业被严格限制在极少数垄断军工寡头 | 兼顾激进创新与渐进创新，鼓励大量多元企业与跨行业机构广泛参与 |
 > | **配套政策协同** | 独立自足的封闭工程项目，对配套政策与宏观政策协调关注极少 | 互补性配套政策是成败关键，高度注重与广泛公共目标的系统协同与制度对接 |
 
-> [!case] 理查德·纳尔逊“登月与贫民窟”之问与社会难题的系统复杂性
+> [!case] [[Richard Nelson|理查德·纳尔逊]]“登月与贫民窟”之问与社会难题的系统复杂性
 > 理查德·纳尔逊（Richard R. Nelson）在其经典著作《登月与贫民窟》（*The Moon and the Ghetto*）中提出了深刻质问：为何人类能够成功登上月球，却无法解决城市贫民窟中的贫困与不平等？这一质问揭示出当代重大社会难题不同于纯工程攻关——贫困无法脱离营养、医疗、基础设施、教育与税收再分配的系统互联而孤立解决；当代社会使命是典型的[[Wicked Problem|棘手问题]]，具有高度的系统交织性与价值争议性，需要技术创新、刚性规制重塑与公众行为习惯变革的深度协同。（pp. 803–804）
 
 #### 2. 组合式管理与跨部门协同是防范使命泛化与利益俘获的核心制度准则

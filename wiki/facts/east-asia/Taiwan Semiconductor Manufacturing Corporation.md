@@ -11,7 +11,7 @@ subtype: organization
 region: east-asia
 fact_region: "east-asia"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Vertical Disintegration]]"
   - "[[Modern Industrial Policy]]"
   - "[[Paradigm]]"
+  - "[[Technological Catch-up]]"
   - "[[Learning by Doing]]"
   - "[[Agglomeration Externalities]]"
 related_theories: []
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # Taiwan Semiconductor Manufacturing Corporation
@@ -71,7 +72,7 @@ updated: 2026-10-04
 > - **1987–1990 年代初 — 代工[[Paradigm|范式]]创立与微电子创业潮赋能**
 >   - 1987 年张忠谋洞察到晶圆厂建厂成本攀升将抑制芯片设计创业的趋势，创立纯晶圆代工模式；飞利浦持有早期重要股份。
 >   - 该模式大幅削减了半导体行业的创业门槛，推动高通、英伟达等无晶圆厂（Fabless）芯片设计公司如雨后春笋般崛起，促成了全球芯片产业的[[Vertical Disintegration|纵向离散]]大分工。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 86–88)]]
-> - **1990 年代末–2010 年代 — 制程技术赶超与先进制程垄断确立**
+> - **1990 年代末–2010 年代 — 制程[[Technological Catch-up|技术赶超]]与先进制程垄断确立**
 >   - 凭借台湾高度密集的高素质工程师队伍、超长工时与精益良率控制，台积电在 28nm、16nm FinFET 等关键节点上全面超越联电与格芯，并在 7nm、5nm 节点上一举超越英特尔与三星。
 >   - 深度绑定苹果（iPhone A 系列与 Mac M 系列处理器）与英伟达（GPU 与 AI 加速计算），实现天量商业订单对极紫外（EUV）光刻研发投入的正向反哺。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 88–90)]]
 > - **2020 年代至今 — 地缘政治暴风眼与跨国产业政策争夺**

@@ -13,7 +13,7 @@ subtype: program
 region: east-asia
 fact_region: "east-asia"
 fact_kind: "program"
-fact_related_count: 19
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Modern Industrial Policy]]"
   - "[[Document]]"
+  - "[[Technological Catch-up]]"
   - "[[Vertical Disintegration]]"
   - "[[Market Failure]]"
 related_theories:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # VLSI Project
@@ -164,7 +165,7 @@ updated: 2026-10-04
 > > 学界与政策分析家争议 VLSI 项目的成功是否高度依赖日本特定的主银行体制、系列（Keiretsu）企业网络及强大的行政协调能力，导致该模式在欧美缺乏政企互信与反垄断严密的市场环境中难以直接复制。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728)]]
 > >
 > > - **批评观点** 西方学者指出欧美企业面临严厉的反垄断诉讼风险与激烈的横向专有权争夺，横向共性研发往往因各怀戒心而流产。
-> > - **回应与经验** Mowery 等人指出，VLSI 模式之所以成功，是因为当时日本处于明确的技术追赶阶段，目标明确单一（DRAM 工艺）；当进入技术前沿探索与去中心化创新时，该模式的灵活性亦面临挑战。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726, 754)]]
+> > - **回应与经验** Mowery 等人指出，VLSI 模式之所以成功，是因为当时日本处于明确的[[Technological Catch-up|技术追赶]]阶段，目标明确单一（DRAM 工艺）；当进入技术前沿探索与去中心化创新时，该模式的灵活性亦面临挑战。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726, 754)]]
 >
 > > [!axis] 大宗商品锁定与架构转移适应迟滞争议（Commodity Lock-in vs. Architectural Shift）
 > > 产业经济学家与技术史学者进一步探讨 VLSI 项目高度聚焦于标准化存储芯片制造工艺，是否在长期上造成了日本半导体产业向重资产、大宗存储器（Commodity DRAM）路径的结构性锁定，削弱了其在 1990 年代应对微处理器与架构创新转型的敏捷性。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 110–111, 121–122)]]

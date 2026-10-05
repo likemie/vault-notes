@@ -9,7 +9,7 @@ title: "Argument_Moisio_2022_Springer"
 argument_key: "Argument_Moisio_2022_Springer"
 argument_display_title: "In what sense a geopolitical knowledge-based economy? In M"
 argument_kind: "book"
-argument_related_count: 32
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -58,10 +58,12 @@ related_methods:
   - "[[Typological Analysis]]"
   - "[[Analytic Framework]]"
   - "[[Ethnography]]"
-related_persons: []
+related_persons:
+  - "[[Friedrich List]]"
 related_facts:
   - "[[OECD]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Freeman_1995_CJE]]"
 sources:
   - "[[books/Parreira do Amaral(Ed.)_2022_Springer/Ch2_Moisio_2022|Ch2_Moisio_2022]]"
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
@@ -115,7 +117,7 @@ Moisio 的论证分为四个递进步骤，从概念梳理到方法论转向，�
 
 Moisio 首先论证 [[Knowledge-Based Economy|KBE]] 并非天然、必然的经济形态，而是具有特定知识谱系的历史建构：
 
-1. **十九世纪先驱**Freeman(1995)将"国家[[Systems of Innovation|创新系统]]"概念追溯至 Friedrich List 的《政治经济学的国家系统》（[1841] 1991）。List 已指出国家应通过技术教育、科学培训、研发实践和长期产业政策来增强自身——而非仅获取他国成就。十九世纪政府实验室的增长表明"'国家的'创新过程开始决定国家的整体竞争力"(Freeman, 1995, p.9, p.22)。
+1. **十九世纪先驱**[[Argument_Freeman_1995_CJE|Freeman (1995)]]将"国家[[Systems of Innovation|创新系统]]"概念追溯至 [[Friedrich List]] 的《政治经济学的国家系统》（[1841] 1991）。List 已指出国家应通过技术教育、科学培训、研发实践和长期产业政策来增强自身——而非仅获取他国成就。十九世纪政府实验室的增长表明"'国家的'创新过程开始决定国家的整体竞争力"([[Argument_Freeman_1995_CJE|Freeman, 1995, p.9]], p.22)。
 
 2. **二战后学术多元探索** 不同学科学者从各自视角理解资本主义的结构转型——Drucker（1959/1969）的"知识工作者"概念和知识管理学术领域的确立；Bell(1973)的后工业社会理论强调[[Theoretical Knowledge|理论知识]]的相对重要性；二者共同揭示"经济-社会界面正在发生结构性转变"(p.22)。
 

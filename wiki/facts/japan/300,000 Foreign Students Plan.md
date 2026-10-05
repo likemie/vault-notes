@@ -12,7 +12,7 @@ subtype: policy
 region: japan
 fact_region: "japan"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
   - theme/innovation-ecosystem
 related_concepts:
   - "[[Tokyo Bay Area]]"
+  - "[[Intellectual Capital]]"
   - "[[International Education]]"
 related_theories: []
 related_methods: []
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # 300,000 Foreign Students Plan
@@ -50,7 +51,7 @@ updated: 2026-10-03
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2008 年 7 月由日本文部科学省、外务省、法务省、经济产业省、国土交通省和厚生劳动省六省厅联合确立并发布。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 > - **适用地区 / 对象** 全日本各级高等院校（尤其是以东京大学、筑波大学、早稻田大学、庆应义塾大学等[[Tokyo Bay Area|东京湾区]]名校为核心的高等学府）及全球拟赴日攻读学位的国际留学生。
-> - **问题背景** 日本面临日益严峻的少子高龄化社会结构危机，本土适龄大学生人口持续萎缩，东京湾区高端制造业与信息技术产业对年轻高素质工程科技人才的需求缺口不断扩大，亟需通过全球引才补充智力资本。
+> - **问题背景** 日本面临日益严峻的少子高龄化社会结构危机，本土适龄大学生人口持续萎缩，东京湾区高端制造业与信息技术产业对年轻高素质工程科技人才的需求缺口不断扩大，亟需通过全球引才补充[[Intellectual Capital|智力资本]]。
 > - **制度位置** 承接 1983 年中曾根康弘内阁提出的“留学生 10 万人计划”，是将[[International Education|国际教育]]政策与国家产业创新竞争力战略紧密结合的第二阶段跨越式政策。
 
 ---

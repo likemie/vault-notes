@@ -7,7 +7,7 @@ aliases:
 summary: "新古典福利经济学核心概念，指由于公共品、外部性、信息不对称与不完全竞争导致自由市场价格机制无法实现帕累托最优资源配置；在科技政策中构成了传统研发资助与产业政策（集聚外部性、干中学效应）的基准依据，但在演化经济学与当代地缘政治产业政策实践中，该框架因无法指引演化方向并被国家安全与供应链保险动机所超越，成为理论反思与扩展的核心对象。"
 type: concept
 domain: "science-policy"
-related_count: 27
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[Champ]]"
   - "[[Paradigm]]"
+  - "[[Technological Catch-up]]"
   - "[[Transformative System Failures]]"
   - "[[Reflexivity]]"
   - "[[Market Shaping and Creating]]"
@@ -40,6 +41,7 @@ related_theories:
 related_persons:
   - "[[Mariana Mazzucato]]"
   - "[[Rainer Kattel]]"
+  - "[[Richard Nelson]]"
 related_facts:
   - "[[VLSI Project]]"
   - "[[Sematech]]"
@@ -55,7 +57,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # Market Failure
@@ -73,7 +75,7 @@ updated: 2026-10-04
 > - **边界** 市场失灵基于静态均衡假定，无法解释技术[[Paradigm|范式]]跃迁的方向性塑造，亦无法完全涵盖以国家安全为第一导向的地缘战略干预。
 
 > [!citation-card] 市场失灵修补与现代战略动机的演化拓展
-> 政府对半导体产业的干预动机变得远比 20 世纪 80 年代复杂。利用产业政策解决集聚外部性、干中学和技术领先等市场失灵问题的潜在功能依然存在；但当今政策制定者还具备并非由经济效率驱动的其他动机：促进地理多元化、削弱竞争对手的技术追赶能力，以及限制最尖端芯片（特别是与国家安全相关的芯片）的扩散。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 102)]]
+> 政府对半导体产业的干预动机变得远比 20 世纪 80 年代复杂。利用产业政策解决集聚外部性、干中学和技术领先等市场失灵问题的潜在功能依然存在；但当今政策制定者还具备并非由经济效率驱动的其他动机：促进地理多元化、削弱竞争对手的[[Technological Catch-up|技术追赶]]能力，以及限制最尖端芯片（特别是与国家安全相关的芯片）的扩散。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 102)]]
 >
 > *The potential role for governments to use industrial policy to address market imperfections such as agglomeration externalities, [[Learning by Doing]], and technological leadership remains relevant. But today's officials have other motives that are not driven by economic efficiency: promoting geographic diversification, blunting China's ability to make technological gains, and limiting the spread of the most advanced chips (especially those potentially involved in national security issues).*
 
@@ -188,7 +190,7 @@ updated: 2026-10-04
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1950–1960年代 — 福利经济学基石确立** 弗朗西斯·巴托（Francis M. Bator, 1958）系统界定市场失灵解剖学；理查德·纳尔逊（Richard Nelson, 1959）与肯尼斯·阿罗（Kenneth Arrow, 1962）论证基础科研的公共品属性与知识溢出，确立国家研发补贴的合法性边界。
+> - **1950–1960年代 — 福利经济学基石确立** 弗朗西斯·巴托（Francis M. Bator, 1958）系统界定市场失灵解剖学；[[Richard Nelson|理查德·纳尔逊]]（Richard Nelson, 1959）与肯尼斯·阿罗（Kenneth Arrow, 1962）论证基础科研的公共品属性与知识溢出，确立国家研发补贴的合法性边界。
 > - **1980年代 — 战略性贸易与[[Learning by Doing|干中学]]扩展** 产业组织学者将动态规模经济、干中学学习曲线与[[Agglomeration Externalities|集聚外部性]]引入半导体等高科技产业分析，为美日欧产业政策提供了理论依据。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 83, 102)]]
 > - **2010年代 — [[Evolutionary Economics|演化经济学]]批判与超越** [[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）等学者批判市场失灵框架的消极被动性，倡导由“修补失灵”转向“主动塑造与创造市场”的使命导向[[Paradigm|范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
 > - **2020年代 — 地缘政治经济学范式转型** 查德·鲍恩（Chad P. Bown）与王丹（Dan Wang）等学者指出，面对大国博弈与供应链地缘风险，主要国家产业政策全面超越了市场失灵的经济效率范畴，进入以国家安全、去风险和技术封锁为主导的现代阶段。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 101–103)]]

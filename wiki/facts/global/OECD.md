@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 88
+fact_related_count: 90
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -86,6 +86,7 @@ related_methods:
 related_persons:
   - "[[Chris Freeman]]"
   - "[[Jarl Bengtsson]]"
+  - "[[Bengt-Åke Lundvall]]"
   - "[[Michael Gove]]"
   - "[[Wolfgang Mitter]]"
 related_facts:
@@ -96,6 +97,7 @@ related_facts:
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[Mediterranean Regional Project]]"
   - "[[International Institute for Educational Planning]]"
+  - "[[Frascati Manual]]"
   - "[[A Nation at Risk 1983]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[International Indicators of Education Systems]]"
@@ -153,10 +155,10 @@ updated: 2026-10-05
 >   - 1958 [[Comparative Education Center at Chicago 1958\|芝加哥大学比较教育中心]]建立，推动教育经济学与比较教育深度融合。
 > - **1961–1970s — OECD 改组、科技统计奠基与冷战“[[Development Turn in Comparative Education\|发展转向]]”** 1961 年 OECD 正式取代 OEEC，美欧国家共同将其打造成抗衡苏联意识形态与综合国力竞争的制度堡垒。
 >   - 1962 启动著名的地中海地区项目（[[Mediterranean Regional Project]]，MRP），将[[Human Capital Theory\|人力资本理论]]系统转化为南欧各国的国家教育发展规划。在[[Economics of Education Movement\|教育经济学运动]]影响下，OECD 系统确立将教育视为经济增长“生产性投资”的新范式，与[[International Institute for Educational Planning\|联合国教科文组织国际教育规划研究所]]（International Institute for Educational Planning，IIEP）形成双翼，推动了比较教育的[[Development Turn in Comparative Education\|发展转向]]。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 420–423)]]
->   - 1963 在意大利弗拉斯卡蒂召开国家专家会议，正式制定并发布《弗拉斯卡蒂手册》（*Frascati Manual*），首次在全球层面统一了研发（R&D）的统计定义与核算口径（基础研究、应用研究与试验发展），开启了以研发支出占国民生产总值比重（GERD/GNP）为核心的跨国科技排名。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）与艾莉森·扬（Alison Young）于 1965 年受 OECD 委托撰写里程碑报告《北美与西欧研发投入努力之比较》，直接奠定了经合组织作为战后国际科技政策与研发测量中枢的威权。[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–9)]]
+>   - 1963 在意大利弗拉斯卡蒂召开国家专家会议，正式制定并发布《[[Frascati Manual|弗拉斯卡蒂手册]]》（*Frascati Manual*），首次在全球层面统一了研发（R&D）的统计定义与核算口径（基础研究、应用研究与试验发展），开启了以研发支出占国民生产总值比重（GERD/GNP）为核心的跨国科技排名。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）与艾莉森·扬（Alison Young）于 1965 年受 OECD 委托撰写里程碑报告《北美与西欧研发投入努力之比较》，直接奠定了经合组织作为战后国际科技政策与研发测量中枢的威权。[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–9)]]
 > - **1980s–1990s — 指标体系建构、[[New Managerialism|管理主义转向]]与[[National Innovation System|国家创新系统]]（NIS）范式跃迁** 
 >   - 1983 年美国《国家处在危险之中》（*[[A Nation at Risk 1983\|A Nation at Risk]]*）报告发布后引发教育危机恐慌，时任美国教育部助理部长 Chester Finn Jr. 转向经合组织下设的[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（Centre for Educational Research and Innovation，CERI），委托并资助 CERI 主管 [[Jarl Bengtsson]] 团队研发跨国[[Performance Indicators\|教育指标]]体系。这一关键转向促成了 1988 年[[International Indicators of Education Systems\|国际教育系统指标]]（International Indicators of Education Systems，INES）项目网络的正式启动，随后于 1992 年推出旗舰年度报告《[[Education at a Glance\|教育概览]]》（Education at a Glance，EAG），标志着 OECD 彻底从传统的投入端与粗放人力核算转向关注教育系统的产出效能与质量问责。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
->   - 1990 年代初，伴随日本与东亚后发追赶的成功，单纯依赖弗拉斯卡蒂研发投入指标的局限性暴露，OECD 科技政策委员会（CSTP）在克里斯·弗里曼、本特-奥克·伦德瓦尔（Bengt-Åke Lundvall）等[[Evolutionary Economics|演化经济学]]家影响下，于 1994 年启动国家[[Systems of Innovation|创新系统]]大型国际研究项目，并于 1997 年正式发布纲领性报告《[[National Innovation System|国家创新系统]]》（*National Innovation Systems*），标志着 OECD 官方科技政策范式彻底从布什单向线性模型跨越至多主体互动学习的[[Innovation Policy Paradigms|创新系统范式]]。[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 10–11, 19–20)]]
+>   - 1990 年代初，伴随日本与东亚后发追赶的成功，单纯依赖弗拉斯卡蒂研发投入指标的局限性暴露，OECD 科技政策委员会（CSTP）在克里斯·弗里曼、本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）等[[Evolutionary Economics|演化经济学]]家影响下，于 1994 年启动国家[[Systems of Innovation|创新系统]]大型国际研究项目，并于 1997 年正式发布纲领性报告《[[National Innovation System|国家创新系统]]》（*National Innovation Systems*），标志着 OECD 官方科技政策范式彻底从布什单向线性模型跨越至多主体互动学习的[[Innovation Policy Paradigms|创新系统范式]]。[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 10–11, 19–20)]]
 > - **2000–至今 — 大数据时代、[[Governing at a Distance\|远处治理]]与[[Epistemic Governance\|知识治理]]体系深化** 2000 年推出首轮 [[PISA]] 测评，随后扩展至[[Teaching and Learning International Survey\|教师教学国际调查]]（Teaching and Learning International Survey，TALIS）、[[Programme for the International Assessment of Adult Competencies\|国际成人能力评估项目]]（Programme for the International Assessment of Adult Competencies，PIAAC）及面向全球南方的发展型 PISA（[[PISA for Development]]，PISA-D）。经合组织不仅开创了跨国量化排名的[[Governing by Numbers\|数字治理]]（Governing by Numbers）模式，更通过深度工具打包与外向型国别横向借鉴演进为全球教育政策规范制定者。与此同时，OECD 下属[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI）自 2000 年起开启了长达二十余年的教育知识管理与知识治理体系探索（2000/2003 部门知识治理调查、2007 年《Evidence in Education》旗舰专著、2010 年《The Nature of Learning》学习科学工程、教师知识调查 TKS 及 2021 年启动的[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]），推动成员国从被动接受指标排名转向主动建构国家级[[Evidence Ecosystem\|证据生态系统]]。这一由 OECD 驱动的经济导向教育政策与大规模量化测试，深刻改变了比较教育的政策咨询生态，瓦解了战后劳威斯倡导的超然航海咨询模式，使比较研究深度卷入主权国家人力资本问责与技术官僚治理之中。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 424–425)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 543–545)]]; [[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 16–27)]]; [[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 95–96)]]
 
 ---
@@ -191,7 +193,7 @@ updated: 2026-10-05
 > - **国别教育政策审查（National Reviews）** 应受测国政府官方邀请，派出高级别国际专家组对特定国家的教育体系展开全景式实地诊断，其评估结论往往直接成为该国立法与拨款机制改革的政策依据。
 > - **前沿技能与课程框架研制** 研制并推广“学习罗盘2030”（Learning Compass 2030）与[[Social-Emotional Learning\|社会情感能力]]测评（Survey on Social and Emotional Skills，SSES），持续引导全球基础教育课程改革的价值走向。
 > - **[[Policy Brokerage\|政策中介]]工具打包与外向型横向经验借鉴** 以 PISA 基准测验为中枢，打包国别同行评议、教育政策审查与教育全球定位系统（Education Global Positioning System，[[Education GPS]]）数据平台；与[[World Bank\|世界银行]]依赖内部自指性实践库的风格截然不同，经合组织的中介风格高度依赖“外向型横向经验借鉴”（outward-looking cross-national referencing），系统提炼并推介其他高表现成员国的成功政策经验与改革教训，在知识过剩环境中为受测国精准供给具有确定性表象的政策处方。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
-> - **科技创新指标与[[National Innovation System|国家创新系统]]评价体系（DSTI 业务线）** 依托经合组织科学、技术与创新司（Directorate for Science, Technology and Innovation, DSTI）及其下属科技政策委员会（CSTP），制定并持续修订《弗拉斯卡蒂手册》（研发统计）、《奥斯陆手册》（创新数据收集）与《专利统计手册》；发布两年度旗舰报告《OECD 科学、技术与工业记分牌》（*OECD Science, Technology and Industry Scoreboard*），构建包括研发强度、企业技术改造、高技术产业贸易以及国家[[Systems of Innovation|创新系统]]互动学习在内的多维评估指标。[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–11)]]
+> - **科技创新指标与[[National Innovation System|国家创新系统]]评价体系（DSTI 业务线）** 依托经合组织科学、技术与创新司（Directorate for Science, Technology and Innovation, DSTI）及其下属科技政策委员会（CSTP），制定并持续修订《[[Frascati Manual|弗拉斯卡蒂手册]]》（研发统计）、《奥斯陆手册》（创新数据收集）与《专利统计手册》；发布两年度旗舰报告《OECD 科学、技术与工业记分牌》（*OECD Science, Technology and Industry Scoreboard*），构建包括研发强度、企业技术改造、高技术产业贸易以及国家[[Systems of Innovation|创新系统]]互动学习在内的多维评估指标。[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–11)]]
 > - **教育[[Epistemic Governance\|知识治理]]与[[Knowledge Mobilisation\|知识动员]]体系研发（[[Centre for Educational Research and Innovation\|CERI]] 业务线）** 依托教育研究与[[Innovation Hub\|创新中心]]（CERI）长期推进教育研发（R&D）与知识管理议程。相继推出 2007 年旗舰专著《Evidence in Education》、2010 年《The Nature of Learning》学习科学工程、教师知识调查（Teacher Knowledge Survey，TKS），并于 2021 年立项实施跨越 29 国 37 个教育系统的[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]，开创涵盖结构、关系、质量、文化与能力的[[Evidence Ecosystem\|证据生态系统]]宏观政策诊断工具。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 16–27)]]
 
 > [!citation-card] 《经济合作与发展组织公约》第一条（1960年）
@@ -266,7 +268,7 @@ updated: 2026-10-05
 > > - **机构治理效能视角** 经合组织坚称，基于标准化指标与跨国可比数据的量化对标，能够打破传统经院式比较教育无法为现实决策提供精准证据的弊端，为成员国识别技能差距、优化公共资源配置并提升全球竞争力提供关键实证杠杆。
 >
 > > [!axis] 单一研发投入排行 vs [[National Innovation System|国家创新系统]]多维评估：科技创新治理的范式跃迁
-> > 经合组织早期确立的《弗拉斯卡蒂手册》研发投入联赛榜，是否能够有效衡量国家的真实创新活力与长期产业竞争力？
+> > 经合组织早期确立的《[[Frascati Manual|弗拉斯卡蒂手册]]》研发投入联赛榜，是否能够有效衡量国家的真实创新活力与长期产业竞争力？
 > >
 > > - **线性投入指标的体制诱偏（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）** [[Chris Freeman|克里斯·弗里曼]]指出，OECD 早期依据《弗拉斯卡蒂手册》编制的跨国研发支出占国民生产总值比重（GERD/GNP）联赛榜，在战后诱发了政策盲区：它将创新狭隘等同于研发实验室的资金投入，不仅无法解释研发强度极高但民用产业停滞的苏联，也无法解释研发强度较低却凭借车间工艺学习（[[Learning by Doing]]）与[[Total Quality Management|全面质量管理]]实现高速跨越的日本；单一研发投入排行遮蔽了制度互补与组织学习的决定性作用。
 > > - **国家[[Systems of Innovation|创新系统]]（NIS）的系统性反思与重构** 面对[[Evolutionary Economics|演化经济学]]的理论推进与后发追赶的历史事实，OECD 于 1990 年代主动修正了单一线性投入的指标偏向，由科学、技术与创新司（DSTI）全面采纳[[National Innovation System|国家创新系统]]理论，将政策关注点从孤立的研发经费规模转向企业、高校、公共科研院所与政府网络之间的“互动学习”与知识流动效率，推动了战后国际科技政策指标的深层范式升级。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11, 19–20)]]

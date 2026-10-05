@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 50
+fact_related_count: 51
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -61,6 +61,7 @@ related_instruments: []
 related_persons:
   - "[[Tony Tether]]"
   - "[[Mariana Mazzucato]]"
+  - "[[Richard Nelson]]"
   - "[[Erica Fuchs]]"
   - "[[David C. Mowery]]"
 related_facts:
@@ -210,7 +211,7 @@ updated: 2026-10-05
 > > [!axis] 纯技术工程模式向[[Wicked Problem|复杂社会难题]]迁移的局限性
 > > 质询能否简单将 DARPA 的军事工程攻坚逻辑照搬到应对气候脱碳与老龄化照护等复杂社会系统转型中。
 > >
-> > - **社会–技术[[Transitology|转型学]]派批评** 理查德·纳尔逊（Richard R. Nelson, 1977）与当代[[Evolutionary Economics|演化经济学]]者指出，DARPA 面对的是技术指标清晰且国防部作为单一最终采购方的“驯服工程”（Tame Problem）；而应对气候变化与公共健康是深嵌于社会制度、多元利益博弈与公民行为模式的[[Wicked Problem|复杂社会难题]]，单纯依靠技术突击难以实现全社会系统变革。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–805)]]
+> > - **社会–技术[[Transitology|转型学]]派批评** [[Richard Nelson|理查德·纳尔逊]]（Richard R. Nelson, 1977）与当代[[Evolutionary Economics|演化经济学]]者指出，DARPA 面对的是技术指标清晰且国防部作为单一最终采购方的“驯服工程”（Tame Problem）；而应对气候变化与公共健康是深嵌于社会制度、多元利益博弈与公民行为模式的[[Wicked Problem|复杂社会难题]]，单纯依靠技术突击难以实现全社会系统变革。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–805)]]
 > > - **三代使命演化派（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）** 指出 DARPA 属于典型的第二代“狮子形态”，其集权突破模式无法直接化解涉及广泛公众参与的第三代“儿童形态”社会挑战；应对 21 世纪难题必须超越单纯复制 PM 机制，进一步引入敏捷原型设计、[[Randomised Controlled Trials|随机对照试验]]与全生命周期反思学习。
 >
 > > [!axis] [[Tony Tether|托尼·瑟瑟]]任期采办改革引发的治理争论：采办结构重组 vs. 微观非正式制度连续性

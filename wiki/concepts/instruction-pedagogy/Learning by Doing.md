@@ -8,7 +8,7 @@ aliases:
 summary: "个体与组织通过实际行动、工程实践与试错排障获取并内化深层知识的认识与生产率演进机制。在杜威进步主义教育中指通过真实探究建构批判性思维的核心教学法；在产业组织与创新经济学中指随累积产量爬坡带来的动态良率提升与单位成本下降（学习曲线效应），军方首发采购与政府补贴构成了扶持新兴技术跨越干中学门槛、实现商业化起飞的核心机制。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 40
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Agglomeration Externalities]]"
   - "[[Market Failure]]"
+  - "[[Intellectual Capital]]"
   - "[[Problem Solving]]"
   - "[[Knowledge Exchange]]"
   - "[[Variable]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Reflective Thinking]]"
   - "[[Second-Sourcing]]"
   - "[[Reliability]]"
+  - "[[Technological Catch-up]]"
   - "[[STEM Education]]"
   - "[[Market Shaping and Creating]]"
   - "[[National Innovation System]]"
@@ -58,6 +60,7 @@ related_persons:
   - "[[Chris Freeman]]"
 related_facts:
   - "[[Fairchild Semiconductor]]"
+  - "[[Frascati Manual]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[VLSI Project]]"
 related_arguments:
@@ -93,7 +96,7 @@ updated: 2026-10-05
 
 > [!boundary]- 概念边界
 > - 不等于 **机械重复性劳动（Rote Repetition）** — 单纯增加动作频次而不进行反思监控与数据分析，只会强化错误操作习惯，无法形成工艺飞跃。
-> - 不等于 **企业静态物理规模经济（Static Scale Economies）** — 静态规模经济是特定时点大工厂平摊固定折旧，而干中学是动态的时间与经验函数，反映的是跨期累积产量（Cumulative Output）带来的不可逆知识资本积累。
+> - 不等于 **企业静态物理规模经济（Static Scale Economies）** — 静态规模经济是特定时点大工厂平摊固定折旧，而干中学是动态的时间与经验函数，反映的是跨期累积产量（Cumulative Output）带来的不可逆[[Intellectual Capital|知识资本]]积累。
 > - 不可脱离 **高素质工程劳动力池支持** — 芯片制造中的干中学无法单靠机器自主完成，必须依赖车间工程师对光刻缺陷、气相沉积均匀度与化学腐蚀残留进行微观归因排障。
 
 ---
@@ -167,7 +170,7 @@ updated: 2026-10-05
 > 阐明创新知识不仅产生于正规研发实验室，更内生于车间现场一线技工与工程师的干中学、逆向工程与试错改良过程。
 
 > [!claim] [[Argument_Freeman_1995_CJE|Freeman (1995)]]
-> **车间现场干中学与生产工程的非线性价值** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）指出，传统的研发统计与科学推动模型（如《弗拉斯卡蒂手册》指标）存在严重盲区：它们仅统计正规实验室中的专业研发人员与研发支出，却系统性忽略了车间生产现场的干中学、技术改良、工装设计与一线排障。战后日本制造业的崛起与德国历史上的技术赶超表明，在制造现场持续开展干中学、将一线普通工人与技术人员组织为质量改进圈（QC 圈）并与用户需求形成密集双向反馈，是产业获得动态竞争力的核心根源；相反，前苏联即便拥有庞大的科研院所与高额研发投入，但因科研与车间生产脱节、工人缺乏现场干中学与试错改良的微观机制，导致技术创新陷入僵化。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–12)]]
+> **车间现场干中学与生产工程的非线性价值** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）指出，传统的研发统计与科学推动模型（如《[[Frascati Manual|弗拉斯卡蒂手册]]》指标）存在严重盲区：它们仅统计正规实验室中的专业研发人员与研发支出，却系统性忽略了车间生产现场的干中学、技术改良、工装设计与一线排障。战后日本制造业的崛起与德国历史上的[[Technological Catch-up|技术赶超]]表明，在制造现场持续开展干中学、将一线普通工人与技术人员组织为质量改进圈（QC 圈）并与用户需求形成密集双向反馈，是产业获得动态竞争力的核心根源；相反，前苏联即便拥有庞大的科研院所与高额研发投入，但因科研与车间生产脱节、工人缺乏现场干中学与试错改良的微观机制，导致技术创新陷入僵化。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–12)]]
 
 > [!citation-card] 弗里曼论车间现场干中学与研发统计的盲区
 > 研发并非创新的唯一源泉，甚至往往不是最重要的源泉。车间生产工程、工装设计、质量控制以及生产现场工人的“干中学”（Learning by Doing）对于增量工艺改良至关重要，而这些活动在正规的研发经费核算中大多被遗漏了。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 9–11)]]

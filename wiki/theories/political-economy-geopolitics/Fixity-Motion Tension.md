@@ -5,10 +5,10 @@ aliases:
 summary: "解释资本主义为何一方面依赖空间固着来组织生产与投资、另一方面又不断推动流动以打破既有配置的空间动力学理论"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 16
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
 - fixity-motion-tension
 - harvey
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Unit of Analysis]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Intellectual Capital]]"
   - "[[Champ]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Spatial Sortings]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-08-20
+updated: 2026-10-05
 ---
 
 ## 定义
@@ -117,7 +118,7 @@ Harvey 的理论论证从资本主义生产方式的根本特征出发，可以�
 
 
 > [!success] 国家和城市的双重角色：固着的锚点
-> 在知识经济化中，国家和城市"试图将'知识密集型'资本的躁动流动固定在原地——这些资本在寻找价值创造和提取的最优位置"([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.28]])。这就是为什么各国竞相投资大学、研发设施、[[Innovation Ecosystem\|创新生态系统]]和城市基础设施——这些投资本质上是在建造更强大的"固着锚点"，以期将全球流动的知识资本暂时锁定在本国领土上。
+> 在知识经济化中，国家和城市"试图将'知识密集型'资本的躁动流动固定在原地——这些资本在寻找价值创造和提取的最优位置"([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.28]])。这就是为什么各国竞相投资大学、研发设施、[[Innovation Ecosystem\|创新生态系统]]和城市基础设施——这些投资本质上是在建造更强大的"固着锚点"，以期将全球流动的[[Intellectual Capital|知识资本]]暂时锁定在本国领土上。
 
 
 > [!success] 领土逻辑 vs 资本逻辑

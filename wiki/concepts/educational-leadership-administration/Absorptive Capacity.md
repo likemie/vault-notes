@@ -7,7 +7,7 @@ aliases:
 summary: "组织识别、吸收并情境化应用外部知识的能力；在教育与治理中取决于实践者认知基础、内部沟通网络与支持性领导，调节科研证据向微观行动的转化成效。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Literature Search]]"
   - "[[Research Utilization]]"
+  - "[[Technological Catch-up]]"
   - "[[Total Factor Productivity]]"
   - "[[Reflexivity]]"
   - "[[Logic Model]]"
@@ -116,7 +117,7 @@ updated: 2026-10-05
 ## 概念辨析
 
 > [!contrast-table] 吸收能力在不同实践领域中的跨界对照
-> | 分析维度 | 中小学循证教学改进 | K-12 学区评价[[Research Utilization\|证据使用]] | 产学研发合作创新 | 工业间谍与技术追赶 |
+> | 分析维度 | 中小学循证教学改进 | K-12 学区评价[[Research Utilization\|证据使用]] | 产学研发合作创新 | 工业间谍与[[Technological Catch-up\|技术追赶]] |
 > |---|---|---|---|---|
 > | **观测对象** | 教师团队对学术研究的课堂转化 | 学区管理层对评估报告的决策吸纳 | 企业从大学合作研发中的收益程度 | 工业部门消化吸收外部技术情报的效率 |
 > | **核心指标** | [[Research Literacy\|研究素养]]、[[Professional Learning Community\|PLC]] 研讨、排程工时 | 项目理解、部门开放沟通、领导支持 | 内部 R&D 存量、研发人员比例、分享机制 | 与技术前沿的差距（初始 [[Total Factor Productivity\|TFP]] 差距） |
@@ -157,7 +158,7 @@ updated: 2026-10-05
 > 探讨为何外部知识无法直接发挥效益，论证组织内部已有知识积累与开放沟通在吸收转化中的先决条件作用。
 
 > [!claim] Cohen & Levinthal; Ross & Morrison; Glitz & Meyersson
-> **认知存量与沟通先决性** 外部知识的潜在价值绝不能脱离接收组织的吸收能力而独立存在。韦斯利·科恩（Wesley Cohen）与丹尼尔·莱文萨尔（Daniel Levinthal）指出，组织吸收新知识的能力高度依赖其先前已有的相关知识积累；没有足够的认知存量，组织甚至无法识别前沿知识的价值。史蒂文·罗斯（Steven Ross）与加里·[[Keith Morrison\|莫里森]]（Gary Morrison）在学区改革评价中进一步证实，若学区各部门之间缺乏开放的沟通渠道与共享的[[Logic Model\|逻辑模型]]，即便外部评价报告质量再高，也会被彻底束之高阁；在技术追赶分析中同样证实，唯有与先进技术差距较小、具备认知基础的行业才能有效消化外部情报。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 122–124)]]；[[Argument_Glitz_2020_AER\|(Glitz & Meyersson, 2020, p. 1096)]]
+> **认知存量与沟通先决性** 外部知识的潜在价值绝不能脱离接收组织的吸收能力而独立存在。韦斯利·科恩（Wesley Cohen）与丹尼尔·莱文萨尔（Daniel Levinthal）指出，组织吸收新知识的能力高度依赖其先前已有的相关知识积累；没有足够的认知存量，组织甚至无法识别前沿知识的价值。史蒂文·罗斯（Steven Ross）与加里·[[Keith Morrison\|莫里森]]（Gary Morrison）在学区改革评价中进一步证实，若学区各部门之间缺乏开放的沟通渠道与共享的[[Logic Model\|逻辑模型]]，即便外部评价报告质量再高，也会被彻底束之高阁；在[[Technological Catch-up|技术追赶]]分析中同样证实，唯有与先进技术差距较小、具备认知基础的行业才能有效消化外部情报。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 122–124)]]；[[Argument_Glitz_2020_AER\|(Glitz & Meyersson, 2020, p. 1096)]]
 
 ---
 
@@ -210,7 +211,7 @@ updated: 2026-10-05
 > - **2002 — 潜在与实现吸收能力的分化** 沙哈拉与乔治（Zahra & George, 2002）将吸收能力重新构架为“潜在吸收能力”（获取与消化）与“实现吸收能力”（转化与利用），深化了组织知识转化的过程论模型。
 > - **2018 — 宏观国家治理与[[Public Dynamic Capabilities|公共部门动态能力]]扩展** 玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018, p. 808]]）将吸收能力与机构学习（Institutional Learning）引入国家创新治理与公共部门能力分析，论证政府与高校管理机构唯有在持续投资与实验探索中积累内生吸收能力，才能摆脱对外部咨询机构的[[Cognitive Deskilling|去技能化]]依赖并有效引领使命导向转型。
 > - **2019 — 德语区教育[[Transfer Science|转移科学]]与微观[[Organizational Culture|组织文化]]土壤** 曼尼蒂乌斯与范霍尔特（[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019]]）在确立教育科学作为[[Transfer Science\|转移科学]]（Transferwissenschaft）的学科对话中，系统反思了各类清算机构（[[Educational Evidence Clearinghouses|Clearinghouse]]）被动供给的局限，强调转移成效从根本上受制于单体学校现场的微观组织文化土壤与异质吸收能力（Absorptionskapazität），主张依托全周期教师教育与中层研训机构重塑吸收转化生态。
-> - **2020 — 宏观经济与技术追赶中的经验确证** 格利茨与迈尔森（[[Argument_Glitz_2020_AER\|Glitz & Meyersson, 2020]]）基于冷战时期东德工业间谍数据，证实只有接近西德技术前沿的行业才能有效消化科技情报，实证确立了认知距离对吸收能力的决定作用。[[Argument_Glitz_2020_AER\|(Glitz & Meyersson, 2020, p. 1096)]]
+> - **2020 — 宏观经济与[[Technological Catch-up|技术追赶]]中的经验确证** 格利茨与迈尔森（[[Argument_Glitz_2020_AER\|Glitz & Meyersson, 2020]]）基于冷战时期东德工业间谍数据，证实只有接近西德技术前沿的行业才能有效消化科技情报，实证确立了认知距离对吸收能力的决定作用。[[Argument_Glitz_2020_AER\|(Glitz & Meyersson, 2020, p. 1096)]]
 > - **2021 — K-12 教育学区改革评价吸纳** 罗斯与[[Keith Morrison\|莫里森]]结合巴尔的摩 [[Students and Teachers Accessing Tomorrow\|STAT]] 项目，将吸收能力引入教育行政与评价利用，揭示项目理解与开放沟通对评价证据转化的支撑。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 122–124)]]
 > - **2022 — [[Push and Pull Models of Knowledge Mobilisation\|知识动员推拉模型]]与学校使能生态** [[Monash Q Project\|莫纳什 Q 项目]]与 [[OECD]] [[Knowledge Mobilisation\|知识动员]]模型将吸收能力确立为克服单向供给推送偏误的核心支柱，量化揭示时间赤字与领导示范对学校吸收能力的决定性影响。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 43–45)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 183–187)]]
 

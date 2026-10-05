@@ -7,7 +7,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程；在宏观场域揭示资本偏向、跨国组织自指性指标帝国与高校基础科研体制变迁，在微观教育场域指向学习者在本土协商共同体中依托证据协调与认识论实践自主生成新知并内化说服优于强制的民主审议价值。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 89
+related_count: 90
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Humboldtian Model of Higher Education]]"
   - "[[Teaching Assistant]]"
+  - "[[Intellectual Capital]]"
   - "[[Narrative Knowledge]]"
   - "[[Interpretive Paradigm]]"
   - "[[Structural Adjustment Programs]]"
@@ -194,7 +195,7 @@ updated: 2026-10-05
 ---
 
 #### 命题三　产学协同机制与知识产权法案重塑了知识生产成果的资本归属与学科生态
-> [!concept-lens] 知识资本化与学科非对称繁荣
+> [!concept-lens] [[Intellectual Capital|知识资本]]化与学科非对称繁荣
 > 剖析研发成果向产业转化过程中，知识生产如何发生资本异化并导致人文社会科学的相对衰退。
 
 > [!claim] [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]]; [[Argument_Partaken_2022_Springer|Partaken (2022)]]

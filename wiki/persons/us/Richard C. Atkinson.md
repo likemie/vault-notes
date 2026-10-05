@@ -9,7 +9,7 @@ summary: "美国认知心理学家、科学政策制定者与高等教育领袖�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Congressional Earmarks]]"
   - "[[Technology Transfer]]"
   - "[[Critical Thinking]]"
+  - "[[Intellectual Capital]]"
   - "[[Academic Start-up Packages]]"
   - "[[Academic Risk Aversion]]"
 related_theories:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-05
 ---
 
 # Richard C. Atkinson
@@ -131,7 +132,7 @@ updated: 2026-10-02
 > > 大学深度参与[[Technology Transfer|技术转移]]与企业联合研发，是否会动摇基础科学自由探索的根基？
 > >
 > > - **阿特金森与布兰皮德警示（2008）** 主张大学在开展[[University-Industry Collaboration|产学合作]]时必须严守公开发表权与学术自主权红线，坚决抵制任何排他性长期保密协议，防止大学异化为企业的技术“代工车间”（job shops）。(pp. 40–41)
-> > - **激进商业化立场** 主张大学应以专利转让与衍生企业创收为核心导向，充分适应知识资本化的市场诉求。
+> > - **激进商业化立场** 主张大学应以专利转让与衍生企业创收为核心导向，充分适应[[Intellectual Capital|知识资本]]化的市场诉求。
 
 > [!warning] 未解问题与体制边界
 > 阿特金森指出，美国[[Research Universities|研究型大学]]的高度繁荣建立在二战后冷战红利与独特的非中央集权生态之上；这一模式对公立州立大学面临的州财政周期性削减、高层次理工科人才对国际留学生的高度依赖（留学生占比超 40%），以及女性学者职业晋升天花板等深层结构性瓶颈，尚未形成系统性解法。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 45–47)]]

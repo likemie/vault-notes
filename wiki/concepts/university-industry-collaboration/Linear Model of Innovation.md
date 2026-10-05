@@ -6,7 +6,7 @@ aliases:
 summary: "一种预设从基础科学到技术开发再到经济增长单向因果链的概念模型；战后主导科技政策资源配置，后因忽视反馈机制、轻视工程发明的前提使能地位而遭受系统性批判"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -41,6 +41,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
+  - "[[Richard Nelson]]"
   - "[[Donald Stokes]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Linear Model of Innovation
@@ -145,7 +146,7 @@ updated: 2026-10-03
 > [!dev-timeline] 概念演变
 > - **1939 — 量化倡议初兴** 约翰·德斯蒙德·贝尔纳（John Desmond Bernal）测算了英国研发费用占国民生产总值的比例，首次系统性地从政策层面提出扩[[Big Science|大科学]]经费投入以推动经济增长的量化主张。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 862)]]
 > - **1945 — 政策[[Paradigm|范式]]确立** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）向美国总统提交《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》报告，将基础科学描述为技术进步的终极源泉，确立了二战后西方国家科研资助体系的线性底色。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
-> - **1950s末 — 经济学理论论证** 理查德·尼尔森（Richard Nelson）与肯尼斯·阿罗（Kenneth Arrow）运用公共品理论论证了基础科学知识的非排他性与非竞争性，为政府主导基础研究资助提供了经济学正当性，但也无意中强化了基础（公共）与应用（市场）的割裂。
+> - **1950s末 — 经济学理论论证** 理查德·尼尔森（[[Richard Nelson]]）与肯尼斯·阿罗（Kenneth Arrow）运用公共品理论论证了基础科学知识的非排他性与非竞争性，为政府主导基础研究资助提供了经济学正当性，但也无意中强化了基础（公共）与应用（市场）的割裂。
 > - **1986 — [[Chain-linked Model|链式模型]]反驳** 斯蒂芬·克莱因（Stephen Kline）与内森·罗森伯格（Nathan Rosenberg）提出链式创新模型，系统论证创新始于市场与设计试错，基础研究并非线性起点。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 863)]]
 > - **1997 — [[Pasteur's Quadrant|帕斯德象限]]二维修正** [[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes）提出二维动机矩阵，打破单一维度，确立用启发性基础研究的正统地位。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
 > - **2000s — 政策惯性与反思** 欧盟[[Lisbon Strategy|里斯本议程]]设立研发占比 3% 的巴塞罗那目标；然而欧洲悖论的蔓延促使若昂·卡拉萨等人（2009）提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，警惕大学专利化扭曲。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 861–865)]]

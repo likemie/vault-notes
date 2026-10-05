@@ -9,7 +9,7 @@ aliases:
 summary: "Freeman 与 Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络与市场互动进行的集体学习活动；主张创新绩效取决于行动者能力、网络连接密度与制度规则适配性，推动公共政策从弥补市场失灵转向修复系统失灵。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 77
+theory_related_count: 84
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Research Translation]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Industrial District]]"
   - "[[Open-Mindedness]]"
   - "[[General Purpose Technology]]"
   - "[[Emergence]]"
@@ -64,6 +65,7 @@ related_concepts:
   - "[[Wicked Problem]]"
   - "[[Reflexivity]]"
   - "[[Technology Transfer Office]]"
+  - "[[Technological Catch-up]]"
   - "[[Knowledge-Based Economization]]"
 related_theories:
   - "[[Evolutionary Economics]]"
@@ -80,11 +82,16 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Chris Freeman]]"
+  - "[[Bengt-Åke Lundvall]]"
+  - "[[Richard Nelson]]"
+  - "[[Friedrich List]]"
   - "[[Joseph Schumpeter]]"
   - "[[Vannevar Bush]]"
+  - "[[Kenichi Ohmae]]"
   - "[[Mariana Mazzucato]]"
 related_facts:
   - "[[Ministry of International Trade and Industry]]"
+  - "[[Gewerbe-Institut]]"
   - "[[Local Innovation Systems Project]]"
   - "[[DARPA]]"
   - "[[German Dual Education System]]"
@@ -128,9 +135,9 @@ updated: 2026-10-05
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** [[Chris Freeman|克里斯托弗·弗里曼]]（Christopher Freeman）在 1982 年与 1987 年关于日本经济追赶的研究中首次提出“[[National Innovation System|国家创新系统]]”（National Innovation System, NIS）概念；本特-奥克·伦德瓦尔（Bengt-Åke Lundvall, 1992）与查尔斯·埃德奎斯特（Charles Edquist, 1997）系统奠定了其理论内核；理查德·纳尔逊（Richard R. Nelson, 1993）通过多国制度比较完成了跨国实证奠基；弗里曼（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）在《剑桥经济学杂志》发表长文，确立了系统的长周期历史与[[Evolutionary Economics|演化经济学]]根基。
+> - **提出者与原始文本** [[Chris Freeman|克里斯托弗·弗里曼]]（Christopher Freeman）在 1982 年与 1987 年关于日本经济追赶的研究中首次提出“[[National Innovation System|国家创新系统]]”（National Innovation System, NIS）概念；本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall, 1992）与查尔斯·埃德奎斯特（Charles Edquist, 1997）系统奠定了其理论内核；[[Richard Nelson|理查德·纳尔逊]]（Richard R. Nelson, 1993）通过多国制度比较完成了跨国实证奠基；弗里曼（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）在《剑桥经济学杂志》发表长文，确立了系统的长周期历史与[[Evolutionary Economics|演化经济学]]根基。
 > - **原初问题** 20 世纪 70 至 80 年代，英美等国在高研发支出背景下经济增长乏力、深陷滞胀，而战后研发投入相对较少的日本却凭借独特的产业组织、终身雇佣、产学协作与[[Ministry of International Trade and Industry|通商产业省]]（Ministry of International Trade and Industry, MITI）长效协调机制，在汽车与消费电子领域实现跨越式产业赶超，传统线性理论与新古典生产函数无法解释该经验悖论。
-> - **理论资源与材料** 思想渊源可追溯至 19 世纪弗里德里希·李斯特（Friedrich List, 1841）《政治经济学的国家系统》中关于国家技术教育、学徒培训与战略产业保护的论断，以及 19 世纪普鲁士通过工艺技校（Gewerbe-Institut）、机床逆向工程与吸纳熟练工匠赶超英国的历史经验；直接理论汲取自[[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter）的“[[Creativity|创造性]]破坏”与创新组合论，以及纳尔逊与温特（Nelson & Winter, 1982）开创的[[Evolutionary Economics|演化经济学]]（惯例、搜索与[[Bounded Rationality|有限理性]]）。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 22)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8)]]
+> - **理论资源与材料** 思想渊源可追溯至 19 世纪[[Friedrich List|弗里德里希·李斯特]]（Friedrich List, 1841）《政治经济学的国家系统》中关于国家技术教育、学徒培训与战略产业保护的论断，以及 19 世纪普鲁士通过工艺技校（[[Gewerbe-Institut]]）、机床逆向工程与吸纳熟练工匠赶超英国的历史经验；直接理论汲取自[[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter）的“[[Creativity|创造性]]破坏”与创新组合论，以及纳尔逊与温特（Nelson & Winter, 1982）开创的[[Evolutionary Economics|演化经济学]]（惯例、搜索与[[Bounded Rationality|有限理性]]）。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 22)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8)]]
 > - **形成路径** 学者们从关注“企业黑箱”转向关注不同国家研发组织、金融资本、劳动力市场与教育培训体制的制度[[Heterogeneity|异质性]]，提炼出“在交互中学习”（Learning by Interacting）这一核心机制，将“创新系统”确立为理解现代经济增长的基本[[Unit of Analysis|分析单位]]。
 
 ### 后续修订与扩展
@@ -139,7 +146,7 @@ updated: 2026-10-05
 > - **1841/1995 — 历史渊源与思想史考据** 弗里曼将国家创新系统思想追溯至李斯特（Friedrich List, 1841），指出后发国家必须通过公共教育、技术培训与产业政策构建国家内生能力，而非单纯依赖自由贸易购买外部制成品；普鲁士在 19 世纪上半叶通过工艺学校、设备拆解与工匠引进完成技术超越，奠定了国家创新系统的历史原型。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8)]]; [[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 22)]]
 > - **1870s/1995 — 企业研发建制化演进** 德国合成染料工业首创内部专职研发实验室，使技术发明从工匠个体摸索转变为企业常设职能，打通前沿科学与商业量产，奠定了现代创新系统的微观组织支柱。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–9)]]
 > - **1980s–1990s — 宏观[[Paradigm|范式]]奠基** 弗里曼（1987）、伦德瓦尔（1992）与纳尔逊（1993）系统成型[[National Innovation System|国家创新系统]]（NIS），彻底打破二战后[[Vannevar Bush|万尼瓦尔·布什]]确立的“科学促增长”（Science for [[Growth]]）线性范式，确立“[[Market Failure|市场失灵]]转向系统失灵”的政策哲学。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 28–30)]]
-> - **1995 — 全球化辨析与母国锚固论** 弗里曼（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）在《剑桥经济学杂志》系统反驳大前研一等学者宣称跨国公司让民族国家过时的神话，证实美日跨国企业核心研发逾九成扎根母国，阐明上层跨国贸易区域与下层产业集聚区域均依赖国家创新系统作为制度核心。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 15–21)]]
+> - **1995 — 全球化辨析与母国锚固论** 弗里曼（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）在《剑桥经济学杂志》系统反驳[[Kenichi Ohmae|大前研一]]等学者宣称跨国公司让民族国家过时的神话，证实美日跨国企业核心研发逾九成扎根母国，阐明上层跨国贸易区域与下层产业集聚区域均依赖国家创新系统作为制度核心。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 15–21)]]
 > - **1990s–2000s — 多层级与部门维度拓展** 
 >   - **部门创新系统（Sectoral Innovation Systems, SIS）** 马莱尔巴（Franco Malerba, 2002）基于帕维特产业分类（[[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta, 2016]]），指出不同产业部门在知识基础、技术机会与专有性机制上存在根本差异，创新系统呈现部门异质性。
 >   - **[[Regional Innovation System|区域创新系统]]（Regional Innovation Systems, RIS）** 库克（Cooke, 1992）与阿斯海姆等（Asheim & Gertler, 2004）强调地理邻近性、隐性知识面对面传播与地方制度厚度对区域创新集群的塑造。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 865)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
@@ -180,7 +187,7 @@ updated: 2026-10-05
 > [!theory-proposition] 命题二｜显性知识只是冰山一角，隐性知识在网络界面的转移与[[Absorptive Capacity|吸收能力]]共同决定系统绩效
 > **解释** 专利[[Document|文献]]、学术论文与技术标准等[[Coding in Qualitative Research|编码]]化显性知识（Codified Knowledge）虽易于远距离跨国扩散，但真正决定[[Research Translation|技术转化]]胜败的是深植于个体经验、团队协作惯例和[[Organizational Culture|组织文化]]中的隐性知识（Tacit Knowledge）。若缺乏由工程经验、实验手感构筑的[[Absorptive Capacity|吸收能力]]，即便政府强制推行技术公开或企业无偿获得高技术专利，组织依然无法将其[[Transfer Translation Transformation|转译]]为现实生产力。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, p. 29)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7, 13–15)]]
 >
-> **应用实例** 欠发达地区即使全额引进跨国高科技企业研发专利，若本地企业缺乏具备研发经验的技术骨干（缺乏吸收能力），相关专利将长期闲置；而具备深厚工程技艺积累的成熟工业区（如德国巴伐利亚或中国长三角），即使仅获得初步构想，也能迅速通过本地工匠与工程师网络完成工程化落地。
+> **应用实例** 欠发达地区即使全额引进跨国高科技企业研发专利，若本地企业缺乏具备研发经验的技术骨干（缺乏吸收能力），相关专利将长期闲置；而具备深厚工程技艺积累的成熟[[Industrial District|工业区]]（如德国巴伐利亚或中国长三角），即使仅获得初步构想，也能迅速通过本地工匠与工程师网络完成工程化落地。
 
 > [!theory-proposition] 命题三｜公共政策的重心必须从弥补“[[Market Failure|市场失灵]]”转向识别并修复多维度的“系统失灵”
 > **解释** 新古典政策[[Paradigm|范式]]将政府职能局限于通过基础科研资助和税收补贴来弥补私营部门对公共品投资不足的“市场失灵”。创新系统理论指出，创新受阻往往并非因为研发资金短缺，而是系统内部出现了结构性断裂。政府的核心使命是采取跨部门协同手段（涵盖科技、产业、教育与金融政策），诊断并修复网络链接、制度规则、技术锁定及吸收能力层面的“系统失灵”。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 30–31)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–12)]]
@@ -263,7 +270,7 @@ updated: 2026-10-05
 >     - **D2.2.1｜转型轨迹与支持需求**
 >       - **含义** 评估区域产业属于新产业生根、异地产业移植、传统产业多元化还是既有成熟产业升级。
 >       - **观察线索** 地方龙头企业性质、区域支柱产业生命周期、技术工人供给平衡度、面对面网络密度。
->       - **判读规则** 新产业形成需要前沿科学与天使创投；产业移植需要定制化人才与配套供应链；老工业区升级需要工艺微调与管理咨询。
+>       - **判读规则** 新产业形成需要前沿科学与天使创投；产业移植需要定制化人才与配套供应链；老[[Industrial District|工业区]]升级需要工艺微调与管理咨询。
 >       - **归属与出处** 本地创新系统实证框架（[[Argument_Lester_2005_MIT|Lester, 2005]], Table 2; [[Argument_Freeman_1995_CJE|Freeman, 1995, p. 21]]）。
 > - **D3｜微观组织互动与知识交换界面**
 >   考察微观组织（大学、企业、研发机构）之间跨越边界进行吸收、[[Transfer Translation Transformation|转译]]与联合学习的具体机制。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]
@@ -304,14 +311,14 @@ updated: 2026-10-05
 > > [!axis] 无国界全球化 vs. 母国制度锚固：民族国家是否仍是核心[[Unit of Analysis|分析单位]]？
 > > 伴随跨国公司的全球扩张与电信网络普及，部分经济学家宣称国家已丧失实质经济意义，而创新系统学者坚持[[National Innovation System|国家创新系统]]的不可替代性。
 > >
-> > - **大前研一（Ohmae, 1990）** 主张全球资本、技术与企业跨国自由流动创造了一个无国界的世界，民族国家已蜕化为无效的经济管理单元。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 16)]]
+> > - **[[Kenichi Ohmae|大前研一]]（Ohmae, 1990）** 主张全球资本、技术与企业跨国自由流动创造了一个无国界的世界，民族国家已蜕化为无效的经济管理单元。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 16)]]
 > > - **弗里曼（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）与波特（Porter, 1990）** 实证表明跨国公司超过九成的战略研发依然牢牢扎根于母国（美 <10%，日 <2% 海外），国际竞争优势由高度本地化的母国制度环境所塑造，全球化不仅没有削弱国家，反而强化了国家创新系统的重要性。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 15–17, 20–21)]]
 >
 > > [!axis] 系统优化 vs. 变革方向：创新政策是否应具备主动价值导向？
 > > 传统创新系统学派主张政策的核心是弥补系统失灵、畅通知识网络；而[[Transformative Change|变革转型]]与使命导向学者主张面对重大生态与社会危机，政策必须果断指明技术转型的战略方向与主动塑造市场。
 > >
 > > - **肖特与斯泰因穆勒（Schot & Steinmueller, 2018） & [[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）** 传统创新系统[[Paradigm|范式]]在应对气候变化等[[Wicked Problem|棘手问题]]时过于被动，它擅长修复系统网络运转，却无法回答这台机器正驶向何方，必须演进为具备强方向性、主动[[Market Shaping and Creating|市场塑造]]与[[Reflexivity|反思性]]的第三代政策范式与ROAR 治理框架。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 32–34)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–806)]]
-> > - **伦德瓦尔等传统学派学者（Lundvall et al., 2002）** 创新系统本质是一个复杂的演化学习网络，政府过度预设具体技术路线和强制方向极易重蹈“挑选赢家”的计划经济覆辙，政府首要职责依然是维护良性的[[Innovation Ecosystem|创新生态]]与学习能力。
+> > - **[[Bengt-Åke Lundvall|伦德瓦尔]]等传统学派学者（Lundvall et al., 2002）** 创新系统本质是一个复杂的演化学习网络，政府过度预设具体技术路线和强制方向极易重蹈“挑选赢家”的计划经济覆辙，政府首要职责依然是维护良性的[[Innovation Ecosystem|创新生态]]与学习能力。
 >
 > > [!axis] 硅谷神话 vs. 本地匹配：大学的系统角色该向何处看齐？
 > > 政策制定者普遍将 MIT 和斯坦福的重磅专利许可与衍生独角兽企业视为标杆，但区域创新学者指出这一一刀切导向严重扭曲了绝大多数大学的系统功能。
@@ -332,7 +339,7 @@ updated: 2026-10-05
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 从经济思想史与[[Evolutionary Economics|演化经济学]]视角追溯[[National Innovation System|国家创新系统]]的李斯特渊源，通过英、德、美、日、苏及东亚与拉美的长周期比较历史考证，系统论证国家教育培训体系、企业内部专业化研发与网络连接在技术赶超中的决定性作用，反驳全球化导致民族国家过时的论调，确立[[National Innovation System|国家创新系统]]与[[Regional Innovation System|区域创新系统]]的多标量空间架构。
+> - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 从经济思想史与[[Evolutionary Economics|演化经济学]]视角追溯[[National Innovation System|国家创新系统]]的[[Friedrich List|李斯特]]渊源，通过英、德、美、日、苏及东亚与拉美的长周期比较历史考证，系统论证国家教育培训体系、企业内部专业化研发与网络连接在[[Technological Catch-up|技术赶超]]中的决定性作用，反驳全球化导致民族国家过时的论调，确立[[National Innovation System|国家创新系统]]与[[Regional Innovation System|区域创新系统]]的多标量空间架构。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]] — 阐述从国家创新系统“系统失灵修补”向使命导向“[[Market Shaping and Creating|市场塑造]]与创造”的理论演化脉络与 ROAR 政策[[Analytic Framework|分析框架]]。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]] — 历史制度分析战后五十年美国国防研发投资与采购体系，系统阐明[[University-Based Research Infrastructure|大学科研基础设施]]奠定、初生期先导采购与第二货源机制如何塑造美国 IT 创新系统，揭示产业成熟期由民向军的逆向技术溢出规律及反恐预算重组的潜在风险。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]] — 系统梳理五十年来产学关系与[[Innovation Policy Paradigms|创新政策范式]]的三次跃迁（科学促增长 → 创新系统 → [[Transformative Change|变革转型]]），详述系统失灵的完整分类（制度、网络、锁定、能力等）及大学对创新全谱系的多维贡献。

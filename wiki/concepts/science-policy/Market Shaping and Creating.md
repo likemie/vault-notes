@@ -11,10 +11,10 @@ aliases:
 summary: "指国家与公共机构不局限于事后修复既有市场失灵，而是通过战略投资、需求侧公共采购、标准规制与前沿引领，依托公共动态能力主动构筑、从零创造并共同重塑新经济与技术景观的公共政策范式。"
 type: concept
 domain: "science-policy"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - concept/science-policy
   - economics
@@ -55,6 +55,7 @@ related_persons:
   - "[[Rainer Kattel]]"
   - "[[Jerome E. Schnee]]"
   - "[[John E. Tilton]]"
+  - "[[Bengt-Åke Lundvall]]"
 related_facts:
   - "[[CERN]]"
   - "[[DARPA]]"
@@ -192,7 +193,7 @@ updated: 2026-10-05
 > [!dev-timeline] 市场塑造概念演进历程
 > - **1920s–1950s — [[Market Failure|市场失灵]]与福利经济学确立** 庇古（Pigou）、萨缪尔森（Samuelson）与阿罗（Arrow）建立市场失灵理论，将公共干预严格限定于弥补外部性、提供公共品及信息不对称范畴。
 > - **1970s — 战后高科技市场创造与结构重塑实证奠基** [[Jerome E. Schnee|施尼]]（[[Argument_Schnee_1978_RP|Schnee, 1978]]）与[[John E. Tilton|蒂尔顿]]（Tilton, 1971）基于半导体与计算机产业的长时序研究，首次确立了联邦机构通过 100% 首发采购托底从无到有创造市场、释放微观[[Learning Economy|学习经济]]并扶植新进入者打破传统垄断的“市场创造与塑造”实证原型。
-> - **1980s–1990s — [[Evolutionary Economics|演化经济学]]与[[Systems of Innovation|创新系统]]崛起** 弗里曼（Freeman）、伦德瓦尔（Lundvall）与纳尔逊（Nelson）提出[[National Innovation System|国家创新系统]]理论，指出系统失灵（System Failures）与机构协同的重要性。
+> - **1980s–1990s — [[Evolutionary Economics|演化经济学]]与[[Systems of Innovation|创新系统]]崛起** 弗里曼（Freeman）、[[Bengt-Åke Lundvall|伦德瓦尔]]（Lundvall）与纳尔逊（Nelson）提出[[National Innovation System|国家创新系统]]理论，指出系统失灵（System Failures）与机构协同的重要性。
 > - **2013–2016 — 市场塑造与共创[[Paradigm|范式]]奠基** [[Mariana Mazzucato|玛丽安娜·马祖卡托]]系统阐发企业型国家理论，正式提出市场塑造与市场共创概念，倡导从被动修补转向主动创造。
 > - **2018 — 融入使命导向政策全流程与[[Public Dynamic Capabilities|公共动态能力]]综合** [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]将市场塑造[[Operationalization|操作化]]为四层使命金字塔与风险收益对称工具；[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]进一步将市场塑造确立为使命政策的两大支柱之一，并论证其依赖于国家政治合法性、政策协同组合与行政流动性三层公共动态能力以及[[Lead-and-Learn Paradigm|引领与学习范式]]。
 

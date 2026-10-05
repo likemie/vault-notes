@@ -9,7 +9,7 @@ summary: "英国著名教育家与公共政策官员，英国教育捐赠基金�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 29
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Evidence Ecosystem]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Technological Catch-up]]"
   - "[[Knowledge Mediation]]"
   - "[[Effective Teaching]]"
   - "[[Counterfactual]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-05
 ---
 
 # Sir Kevan Collins
@@ -92,7 +93,7 @@ updated: 2026-09-18
 > - **2011 — 掌舵英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）创设** 受教育大臣 [[Michael Gove]] 与[[Sutton Trust\|萨顿信托]]（The Sutton Trust）理事会委托，出任 EEF 创设首席执行官；将 1.25 亿英镑始创基金全面投入独立第三方 [[Randomised Controlled Trials\|RCT]] 评估，将 EEF 打造为英国政府法定的独立证据经纪机构（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 11]]）。
 > - **2014–2018 — 跨国证据生态扩张与 [[Evidence for Learning\|E4L]] 扶持** 推动 EEF 跨洋资助[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）设立全资子公司[[Evidence for Learning\|证据学习中心]]（E4L），向澳洲输出工具包技术；2018 年与跨国铁矿石巨头[[BHP Foundation\|必和必拓基金会]]（BHP Foundation）签署五年合作协议，启动全球[[Evidence Ecosystem\|证据生态系统]]建设项目（Collins, 2018；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
 > - **2021 — 跨界出任澳大利亚 [[Australian Education Research Organisation\|AERO]] 专家董事** 受澳大利亚联邦与各州政府邀请，出任依据《公司法》新设的澳大利亚国家证据机构 AERO 首届专家董事会成员，将英国“有效性量规”与评估[[Paradigm\|范式]]全面注入澳洲国家体系（ASIC, 2021a；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 9]]）。
-> - **2021 — 出任英国教育追赶专员与辞职风波** 被首相鲍里斯·约翰逊（Boris Johnson）任命为全国教育追赶专员（Catch-up Tsar），提出耗资 150 亿英镑的全方位延长学时与个别化辅导复兴蓝图；后因财政部大幅削减预算至 14 亿英镑，毅然公开发表辞职信以抗议政府对弱势学童的不负责任，引发全英对教育财政紧缩的剧烈反思。
+> - **2021 — 出任英国教育追赶专员与辞职风波** 被首相鲍里斯·约翰逊（Boris Johnson）任命为全国教育追赶专员（[[Technological Catch-up|catch-up]] Tsar），提出耗资 150 亿英镑的全方位延长学时与个别化辅导复兴蓝图；后因财政部大幅削减预算至 14 亿英镑，毅然公开发表辞职信以抗议政府对弱势学童的不负责任，引发全英对教育财政紧缩的剧烈反思。
 
 ---
 

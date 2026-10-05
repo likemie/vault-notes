@@ -6,7 +6,7 @@ aliases:
 summary: "围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 80
+related_count: 82
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Hub and Flow Imaginaries]]"
+  - "[[Intellectual Capital]]"
   - "[[Geopolitical Subject]]"
   - "[[Online Self-Assessment]]"
   - "[[Operationalization]]"
@@ -65,6 +66,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Self-Entrepreneur]]"
   - "[[Employability]]"
+  - "[[Technological Catch-up]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Critical Geopolitics]]"
@@ -201,7 +203,7 @@ updated: 2026-10-05
 > 高等教育被嵌入关于未来、竞争力、经济增长的集体**政治想象**之中，这些想象驱动政策和制度变革（Thompson & Parreira do Amaral, 2022, p.11）。在此过程中，高等教育机构从民族国家框架中"脱位"并在全球政治经济[[Champ\|场域]]中"再定位"，物理空间（从知识储存场所转变为"makerspaces"）和社会空间全面**重构（Thompson & Parreira do Amaral, 2022, pp.6–7）**。[[Knowledge-Based Economization\|知识经济化]]将知识视为产生价值和比较优势的关键资产——包括专有知识（专利、创新）、创新学习环境和[[Human Capital Theory\|人力资本]]（Thompson & Parreira do Amaral, 2022, p.9）。
 
 > [!line-b] Hub-Flow 想象与固着-流动张力
-> [[Knowledge-Based Economization\|知识经济化]]的核心地缘政治悖论是[[Fixity-Motion Tension\|固着-流动张力]]：国家和地方的空间配置被创造出来以锚定和促进全球资本流动，但流动性本身又不断动摇这些配置的稳定性。集群、创意城市、学习区域、[[Innovation Ecosystem\|创新生态系统]]等成为[[Knowledge-Based Economy\|知识经济]]空间组织的具体表述——[[Hub and Flow Imaginaries]]将世界划分为知识资本流动的枢纽中心与边缘区域，正是这种地缘政治想象的当代表现（[[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.27–28]]）。
+> [[Knowledge-Based Economization\|知识经济化]]的核心地缘政治悖论是[[Fixity-Motion Tension\|固着-流动张力]]：国家和地方的空间配置被创造出来以锚定和促进全球资本流动，但流动性本身又不断动摇这些配置的稳定性。集群、创意城市、学习区域、[[Innovation Ecosystem\|创新生态系统]]等成为[[Knowledge-Based Economy\|知识经济]]空间组织的具体表述——[[Hub and Flow Imaginaries]]将世界划分为[[Intellectual Capital|知识资本]]流动的枢纽中心与边缘区域，正是这种地缘政治想象的当代表现（[[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.27–28]]）。
 
 ---
 
@@ -424,7 +426,7 @@ updated: 2026-10-05
 ## 应用案例
 
 > [!evidence-grid-a] 技术-主权竞争
-> - [[Sino-American Trade War\|中美贸易战]] — Partaken 定位为 GPK"最好且最当下的经验案例"：以关税和出口管制遏制中国在 AI、半导体、量子计算领域的技术追赶；教育层面：签证限制 + 合作项目强制报告（[[Argument_Partaken_2022_Springer\|Partaken, 2022, pp.67, 84]]）
+> - [[Sino-American Trade War\|中美贸易战]] — Partaken 定位为 GPK"最好且最当下的经验案例"：以关税和出口管制遏制中国在 AI、半导体、量子计算领域的[[Technological Catch-up|技术追赶]]；教育层面：签证限制 + 合作项目强制报告（[[Argument_Partaken_2022_Springer\|Partaken, 2022, pp.67, 84]]）
 > - [[US-China Economic and Security Review Commission\|美中经济与安全审查委员会]] — 系统监控中美教育与研究合作中的"国家安全风险"，年度报告直接影响美国对华教育政策（[[Argument_Partaken_2022_Springer\|Partaken, 2022, pp.67–68]]）
 > - [[Thousand Talents Program\|千人计划]] — 被美方视为制度化知识盗窃机制；美方以经济间谍罪起诉多名参与学者，导致两国学术合作急剧冷却（[[Argument_Partaken_2022_Springer\|Partaken, 2022, p.84]]）
 > - [[China Social Credit System\|中国社会信用体系]] — GPK 监视模态的制度典范：公民知识行为被系统性暴露给国家，国家的监控活动对公民隐藏（[[Argument_Partaken_2022_Springer\|Partaken, 2022, p.81]]）

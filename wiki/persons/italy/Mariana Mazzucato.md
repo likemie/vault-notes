@@ -7,10 +7,10 @@ summary: "意大利裔经济学家，伦敦大学学院创新与公共目的研�
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 25
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1968"
 died: ""
 lifespan: "1968–至今"
@@ -43,7 +43,9 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Carlota Perez]]"
   - "[[Rainer Kattel]]"
+  - "[[Richard Nelson]]"
 related_facts:
   - "[[Horizon Europe Missions]]"
   - "[[Horizon Europe]]"
@@ -125,9 +127,9 @@ updated: 2026-10-05
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **合作者** 卡洛塔·佩雷斯（Carlota Perez） — 共同探讨技术革命、资本演进与以投资为主导的国家增长政策。
+> - **合作者** [[Carlota Perez|卡洛塔·佩雷斯]]（Carlota Perez） — 共同探讨技术革命、资本演进与以投资为主导的国家增长政策。
 > - **合作者** [[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel） — 共同研究[[Public Dynamic Capabilities|公共部门动态能力]]与使命导向治理。
-> - **理论对话者** 理查德·纳尔逊（Richard R. Nelson） — 承接其关于“登月与贫民窟”（The Moon and the Ghetto）的社会挑战命题，推动使命政策向社会复杂系统转型。
+> - **理论对话者** [[Richard Nelson|理查德·纳尔逊]]（Richard R. Nelson） — 承接其关于“登月与贫民窟”（The Moon and the Ghetto）的社会挑战命题，推动使命政策向社会复杂系统转型。
 > - **重大项目** [[Horizon Europe Missions]] — 主导设计了欧盟新一代科研框架下的五大战略使命。
 
 ---

@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
+  - "[[Intellectual Capital]]"
   - "[[Research Universities]]"
   - "[[Technology Transfer Office]]"
   - "[[Public-Private Partnership in Research]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # Bayh-Dole Act of 1980
@@ -84,7 +85,7 @@ updated: 2026-10-04
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 《拜杜法案》通过颠覆性地将联邦财政资助所产生的发明专利所有权赋予受资助的大学与非营利机构，并建立大学与科研人员的法定收益分成机制，消除了私人企业投资转化大学技术的法律障碍，一举奠定了全美[[Technology Transfer|大学技术转移]]、专利许可与知识资本化的制度基础设施。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]; [[Argument_Hall_2025_EthicalLegalFrameworks|(Hall, 2025, p. 264)]]
+> 《拜杜法案》通过颠覆性地将联邦财政资助所产生的发明专利所有权赋予受资助的大学与非营利机构，并建立大学与科研人员的法定收益分成机制，消除了私人企业投资转化大学技术的法律障碍，一举奠定了全美[[Technology Transfer|大学技术转移]]、专利许可与[[Intellectual Capital|知识资本]]化的制度基础设施。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]; [[Argument_Hall_2025_EthicalLegalFrameworks|(Hall, 2025, p. 264)]]
 
 > [!policy-design]- 政策设计
 > - **政策目标** 促进联邦资助发明的商业化利用；鼓励大学、非营利机构与私营部门开展研发协作；保护纳税人与公共利益；增强美国在全球科技与工业领域的战略竞争力。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, pp. 272–274)]]

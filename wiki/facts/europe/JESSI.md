@@ -9,7 +9,7 @@ subtype: program
 region: europe
 fact_region: "europe"
 fact_kind: "program"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
   - theme/corporate-innovation
   - theme/semiconductor
 related_concepts:
+  - "[[Technological Catch-up]]"
   - "[[Precompetitive Research]]"
 related_theories: []
 related_methods: []
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # JESSI
@@ -129,7 +130,7 @@ updated: 2026-10-04
 > |:-----|:-----|:-----|
 > | [[Sematech]] | Fact (Organization) | 美国同期半导体制造联盟，是 JESSI 最核心的跨大西洋比较与竞争对手。 |
 > | [[ESPRIT]] | Fact (Program) | 欧洲信息技术领域的姊妹伞状计划，为 JESSI 的跨国合作网络提供了制度样板。 |
-> | [[VLSI Project]] | Fact (Program) | 日本早期半导体研发联盟，为欧洲制定 JESSI 提供了技术追赶目标。 |
+> | [[VLSI Project]] | Fact (Program) | 日本早期半导体研发联盟，为欧洲制定 JESSI 提供了[[Technological Catch-up\|技术追赶]]目标。 |
 > | [[Alvey Programme]] | Fact (Program) | 英国国家级 IT 联合体，与 JESSI 共享欧洲伞状管理模式特征。 |
 > | [[Precompetitive Research]] | Concept | JESSI 界定跨国竞争企业合作边界与分配知识产权的核心法理工具。 |
 > | [[David C. Mowery]] | Person | 对比分析 JESSI、Sematech 与日欧高技术研发联盟治理效能的核心学者。 |

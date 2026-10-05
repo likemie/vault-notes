@@ -9,7 +9,7 @@ summary: "美国哈佛商学院经济学与战略管理学者，当代竞争战�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -54,6 +54,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Bengt-Åke Lundvall]]"
   - "[[Chris Freeman]]"
   - "[[Sami Moisio]]"
   - "[[Bob Jessop]]"
@@ -137,7 +138,7 @@ updated: 2026-10-05
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 钻石模型直接拓宽了产业经济学对创新的空间理解，与[[Evolutionary Economics|演化经济学]]家（如弗里曼、伦德瓦尔）的[[National Innovation System|国家创新系统]]理论形成强烈呼应，奠定了当代次国家级[[Regional Innovation System|区域创新系统]]与集群经济学（Storper & Harrison, 1991; Scott, 1991）的学理基石。
+> - **理论路径** 钻石模型直接拓宽了产业经济学对创新的空间理解，与[[Evolutionary Economics|演化经济学]]家（如弗里曼、[[Bengt-Åke Lundvall|伦德瓦尔]]）的[[National Innovation System|国家创新系统]]理论形成强烈呼应，奠定了当代次国家级[[Regional Innovation System|区域创新系统]]与集群经济学（Storper & Harrison, 1991; Scott, 1991）的学理基石。
 > - **方法路径** 倡导基于微观企业[[Fieldwork|实地调查]]、跨国跨行业案例对比与产业链上下游关联测度的系统分析法，打破了宏观新古典增长模型脱离生产现场的抽象[[Hypothesis|假设]]。
 > - **政策路径** 其集群理论被[[OECD|经济合作与发展组织]]（OECD）、欧盟委员会及全球数十个主权国家采纳为产业政策指导纲领，引发了全球范围内建设高新产业园、科学城、创新走廊与国家冠军城市的浪潮。
 > - **批判性地缘政治学[[Recontextualization|再脉络化]]** 在当代[[Critical Geopolitics|批判地缘政治学]]分析中，波特的话语被揭示为驱动高等教育“[[Knowledge-Based Economization|知识经济化]]”的关键意识形态源泉，推动大学被全面重塑为服务于国家地缘经济竞争的[[Innovation Hub|创新枢纽]]。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]

@@ -9,7 +9,7 @@ aliases:
 summary: "指缺乏明确边界和既定算法，伴随高度价值争议、系统复杂性与认知不确定性的复杂社会系统难题；易引发跨部门条块分割的复杂性悖论，需依托敏捷实验与公共动态能力进行系统治理"
 type: concept
 domain: "science-policy"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -44,6 +44,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Correlational Research]]"
 related_persons:
+  - "[[Richard Nelson]]"
   - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"
 related_arguments:
@@ -55,7 +56,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Wicked Problem
@@ -149,7 +150,7 @@ updated: 2026-10-03
 ### 命题四　社会–技术系统的棘手性要求政策从纯技术攻关转向制度协同与行为重塑
 
 > [!concept-lens] 技术工程与社会系统解题逻辑的分野
-> 理查德·纳尔逊（Richard R. Nelson, 1977）在《月球与贫民窟》（*The Moon and the Ghetto*）中深刻指出，人类能成功登月却无法解决贫民窟问题，根源在于登月属于高度专业化但社会关联单纯的技术工程（驯服问题），而城市贫困与社会不平等则深嵌于社会制度、阶层利益与人类复杂行为之中（棘手问题）。
+> [[Richard Nelson|理查德·纳尔逊]]（Richard R. Nelson, 1977）在《月球与贫民窟》（*The Moon and the Ghetto*）中深刻指出，人类能成功登月却无法解决贫民窟问题，根源在于登月属于高度专业化但社会关联单纯的技术工程（驯服问题），而城市贫困与社会不平等则深嵌于社会制度、阶层利益与人类复杂行为之中（棘手问题）。
 
 > [!claim] [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]
 > **社会–技术系统协同命题** 21世纪的使命导向政策所面对的社会挑战本质上是复杂的社会–技术系统转型，不仅需要硬科技研发投入，更依赖监管法规修订、财税激励调整、公共采购引导以及公民生活方式与行为模式的系统性协同。单纯依靠技术工程手段无法彻底解决深嵌于社会结构中的棘手难题。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–805)]]

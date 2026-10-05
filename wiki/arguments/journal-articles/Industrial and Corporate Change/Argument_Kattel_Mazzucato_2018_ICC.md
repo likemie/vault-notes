@@ -68,6 +68,7 @@ related_persons:
   - "[[Joseph Schumpeter]]"
   - "[[Friedrich Nietzsche]]"
   - "[[Chalmers Johnson]]"
+  - "[[Richard Nelson]]"
   - "[[Alvin Weinberg]]"
   - "[[Andrew Schonfield]]"
   - "[[Rainer Kattel]]"
@@ -97,7 +98,7 @@ title: "Argument_Kattel_Mazzucato_2018_ICC"
 argument_key: "Argument_Kattel_Mazzucato_2018_ICC"
 argument_display_title: "Mission-oriented innovation policy and dynamic capabilities in the public sector"
 argument_kind: "journal-article"
-argument_related_count: 60
+argument_related_count: 61
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -204,7 +205,7 @@ issuing_organization: ""
 > | **[[New Public Management\|新公共管理]]的青蛙视角** | 1980 年代 NPM 改革推行广泛外包与短期绩效考核，将所有公共行为塞入微观成本效率框架，形成只看基层可见指标的青蛙视角（Frog View）。 | 论证传统评估工具如何抹杀长期高风险使命的合理性。 |
 
 > [!warrant]- 推理桥梁：为何使命政策能够打破协调僵局
-> 理查德·纳尔逊（Richard Nelson, 1959）与肯尼斯·阿罗（Kenneth Arrow, 1962）证明，福利经济学能识别研发投资不足，却无法指引社会效益最大的领域；阿伯特·赫希曼（Albert Hirschman, 1958）的[[Unbalanced Growth Theory|非均衡增长理论]]进一步指出，通过使命政策有意识地推进重点领域发展，能够倒逼跨部门学习与资源重组；历史经验（如阿波罗登月计划）证实，唯有通过设立具有统摄性、明确时间表与高辨识度的重大使命，才能打破部门壁垒，将分散的科技、财政与规制工具重新聚焦于统一方向。（pp. 789–791）
+> [[Richard Nelson|理查德·纳尔逊]]（Richard Nelson, 1959）与肯尼斯·阿罗（Kenneth Arrow, 1962）证明，福利经济学能识别研发投资不足，却无法指引社会效益最大的领域；阿伯特·赫希曼（Albert Hirschman, 1958）的[[Unbalanced Growth Theory|非均衡增长理论]]进一步指出，通过使命政策有意识地推进重点领域发展，能够倒逼跨部门学习与资源重组；历史经验（如阿波罗登月计划）证实，唯有通过设立具有统摄性、明确时间表与高辨识度的重大使命，才能打破部门壁垒，将分散的科技、财政与规制工具重新聚焦于统一方向。（pp. 789–791）
 
 ---
 

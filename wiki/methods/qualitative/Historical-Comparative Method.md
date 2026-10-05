@@ -10,7 +10,7 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度、国�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 78
+method_related_count: 79
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Whiggism]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Document]]"
+  - "[[Technological Catch-up]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Policy Borrowing]]"
   - "[[State Educational Sovereignty]]"
@@ -197,7 +198,7 @@ updated: 2026-10-05
 > - **适合使用** 
 >   - 探究民族国家高等教育与科研体制的深层历史成因与长周期演进动力（如美国大学如何从二战前研发边缘跃升为国家科技中枢，[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008]]）；
 >   - 追踪国家创新机构、科技与产业战略及[[Public Dynamic Capabilities|公共部门动态能力]]跨越 150 年的长周期形态演变与代际转换（如德、日、法、美、英与欧盟在不同历史时期的国家能力构建与协调失灵，[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）；
->   - 比较不同国家[[National Innovation System|国家创新系统]]（NIS）内教育培训、工业实验室建制与产业政策的协同演化机制，解释后发经济体技术赶超或分化的深层制度动因（如 19 世纪普鲁士赶超英国、战后日本追赶美苏、80 年代韩巴分化，[[Argument_Freeman_1995_CJE|Freeman, 1995]]）；
+>   - 比较不同国家[[National Innovation System|国家创新系统]]（NIS）内教育培训、工业实验室建制与产业政策的协同演化机制，解释后发经济体[[Technological Catch-up|技术赶超]]或分化的深层制度动因（如 19 世纪普鲁士赶超英国、战后日本追赶美苏、80 年代韩巴分化，[[Argument_Freeman_1995_CJE|Freeman, 1995]]）；
 >   - 剖析重大教育法令（如 1862 年《赠地法案》、1950 年《NSF 法案》、1980 年《拜杜法案》）与现代学校形态的历史发生学渊源；
 >   - 追踪超国家组织（IOs）在长周期历史演变中如何确立其教育法定职责，以及从二战后经济重建转向全球[[Policy Brokerage|政策中介]]与[[Soft Power by Hard Facts|硬事实软权力]]治理的历史轨迹（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）；
 >   - 揭示跨国制度移植与[[Policy Borrowing|政策借用]]中的路径依赖与结构阻碍（如欧亚四国模仿美式大学体制时遭遇的讲席制、行政集权与科学院分立壁垒，[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008, pp. 45–48]]）；

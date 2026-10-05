@@ -29,6 +29,7 @@ related_concepts:
   - "[[Informationalization]]"
   - "[[University-Industry Co-location]]"
   - "[[Further Education]]"
+  - "[[Industrial District]]"
   - "[[Normal School]]"
   - "[[International Education]]"
   - "[[Research Universities]]"
@@ -68,7 +69,7 @@ title: "Argument_Byrne_2025_InnovationCenters"
 argument_key: "Argument_Byrne_2025_InnovationCenters"
 argument_display_title: "Innovation Centers and Economic Development"
 argument_kind: "book"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -258,7 +259,7 @@ citation_aliases:
 15. 大学如果缺乏统一愿景或面临物理空间限制，容易出现两种失误(pp.130–131)：一是以为建一个园区就能从外部"抓住"某个趋势，比如看到人工智能热门就建 AI 创新中心，但本地实际没有 AI 研究积累和人才基础；二是试图凭空创造一个尚不存在的实践社区，而非增量式地利用现有优势。
 
 > [!example]
-> 暂时不具备条件建大型园区的大学，可以从卫星式[[Further Education\|继续教育]]中心开始，在市区或产业区开设培训点，提供证书课程和短期培训，先服务已有的学术和产业社区，再逐步积累扩展(p.131)。一所地方[[Normal School\|师范学院]]不一定一开始就建"[[International Education\|国际教育]]研究中心"，可以先为本地中小学教师开设课后研修班，从服务已有的需求开始建立信任和网络。
+> 暂时不具备条件建大型园区的大学，可以从卫星式[[Further Education\|继续教育]]中心开始，在市区或[[Industrial District|产业区]]开设培训点，提供证书课程和短期培训，先服务已有的学术和产业社区，再逐步积累扩展(p.131)。一所地方[[Normal School\|师范学院]]不一定一开始就建"[[International Education\|国际教育]]研究中心"，可以先为本地中小学教师开设课后研修班，从服务已有的需求开始建立信任和网络。
 
 ---
 ### 案例：研究三角园的学术联合

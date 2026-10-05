@@ -11,7 +11,7 @@ summary: "通过系统测量与标准化跨企业或跨国生产制造绩效指�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -22,6 +22,7 @@ tags:
   - theme/industrial-competitiveness
 related_concepts:
   - "[[Performance Indicators]]"
+  - "[[Technological Catch-up]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Total Quality Management]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # Industrial Benchmarking
@@ -62,7 +63,7 @@ updated: 2026-10-04
 
 > [!method-scope] 方法范围
 > - **研究对象** 工业制造产线、晶圆厂、制造车间、生产班组、设备运行日志及微观工艺参数。
-> - **问题类型** 跨国与跨企业制造能力差异度量、工艺技术追赶进度诊断、质量控制与良率损失根因分析。
+> - **问题类型** 跨国与跨企业制造能力差异度量、工艺[[Technological Catch-up|技术追赶]]进度诊断、质量控制与良率损失根因分析。
 > - **[[Unit of Analysis|分析单位]]** 产线或工厂、特定技术代际制程（如 0.8 微米互补金属氧化物半导体，Complementary Metal-Oxide-Semiconductor, CMOS 制程）、生产班次或工艺步骤。
 > - **输出形式** 标准化缺陷密度、晶圆探针良率、直接劳动生产率、制造周期时间及跨国能力差距分布矩阵。
 

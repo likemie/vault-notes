@@ -7,7 +7,7 @@ summary: "界定研究总体参数特征的操作性清单或范围，明确谁�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 6
+method_related_count: 7
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dcfce7"
@@ -16,6 +16,7 @@ tags:
   - quantitative-research
 related_concepts:
   - "[[Study Population and Sample]]"
+  - "[[Industrial District]]"
 related_theories: []
 related_methods:
   - "[[Random Sampling]]"
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-09-17
+updated: 2026-10-05
 ---
 # Sampling Frame
 
@@ -74,7 +75,7 @@ updated: 2026-09-17
 ## 围绕概念形成的命题
 
 > [!claim] 抽样框错误导致代表性灾难
-> 某全国性报纸报道"每两人中就有一人患背痛"，但研究的四个参数——气候（潮湿地区）、年龄（老龄人口比例过高）、职业（重工业区）、报告发生率（仅使用两名对背痛患者过度同情的医生的记录）——均对结果产生了不成比例的影响。这个抽样框完全不能代表一般人群（pp.152–153）。
+> 某全国性报纸报道"每两人中就有一人患背痛"，但研究的四个参数——气候（潮湿地区）、年龄（老龄人口比例过高）、职业（重[[Industrial District|工业区]]）、报告发生率（仅使用两名对背痛患者过度同情的医生的记录）——均对结果产生了不成比例的影响。这个抽样框完全不能代表一般人群（pp.152–153）。
 
 > [!claim] 抽样框的完整性决定[[Random Sampling\|概率抽样]]的可行性
 > [[Random Sampling\|简单随机抽样]]要求完整的总体名单，而[[Systematic Sampling\|系统抽样]]和[[Stratified Sampling\|分层抽样]]同样依赖抽样框的质量。若抽样框不可得或不完整，概率抽样的前提就不成立——这在实际研究中极为常见。

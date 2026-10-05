@@ -10,10 +10,10 @@ aliases:
 summary: "涵盖微观制造经验积累与宏观创新系统演进的双重经济分析范式。微观上指累计产量翻番带来单位生产成本下降20%–30%的动态学习效应；宏观上指在全球化与技术快速变迁中，竞争力取决于动态学习与知识吸收能力而非静态要素存量的经济形态。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/innovation-studies
   - theme/learning-economy
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Learning by Doing]]"
   - "[[Assured Demand]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Intellectual Capital]]"
   - "[[Absorptive Capacity]]"
   - "[[Variable]]"
   - "[[Document]]"
@@ -44,11 +45,12 @@ related_arguments:
   - "[[Argument_Schnee_1978_RP]]"
   - "[[Argument_Caraca_2009_TFSC]]"
 related_persons:
+  - "[[Bengt-Åke Lundvall]]"
   - "[[Jerome E. Schnee]]"
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 # Learning Economy
 
@@ -62,14 +64,14 @@ updated: 2026-10-04
 > [!concept-lens] 概念透镜
 > - **含义** 微观上指向[[Learning by Doing|干中学]]（Learning by Doing）带来的制造良率爬坡与成本剧降曲线；宏观上指向以经验互动、组织敏捷与知识流动为核心的系统竞争力形态。
 > - **用途** 解释高技术先导产业如何在政府[[Assured Demand|确定性需求]]托底下跨越早熟高成本陷阱并激活民用市场，以及解释为什么企业跨越单一实验室研发、依托多通道互动学习才能确立持久创新优势。
-> - **边界** 区别于静态规模经济（依赖特定时点的单批次产能分摊，与累计经验无关）；区别于静态[[Knowledge-Based Economy|知识经济]]（侧重知识资本的静态存量而非知识更新流速与动态[[Absorptive Capacity|吸收能力]]）。
+> - **边界** 区别于静态规模经济（依赖特定时点的单批次产能分摊，与累计经验无关）；区别于静态[[Knowledge-Based Economy|知识经济]]（侧重[[Intellectual Capital|知识资本]]的静态存量而非知识更新流速与动态[[Absorptive Capacity|吸收能力]]）。
 
 > [!citation-card] 施奈论学习经济对半导体器件成本暴跌的驱动机制
 > 半导体产业以惊人的成本削减速度著称，这一现象由所谓的学习经济（learning economies）所主导。在半导体制造业中，经验曲线表明，全行业累计制造经验每增加一倍，器件单位成本就会下降 20% 至 30%。早期国防与空间部门提供的确定性首购订单为产业界提供了初始规模，驱动企业快速跨越学习曲线，使集成电路单片价格在数年内从 50 美元暴跌至 0.63 美元，彻底激活了民间工业与消费市场。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–8)]]
 >
 > *The semiconductor industry is notable for its rapid cost reductions, governed by what are known as "learning economies." In semiconductor manufacturing, the experience curve indicates that unit costs decline by 20 to 30 percent each time cumulative industry experience doubles... ([[Argument_Schnee_1978_RP|Schnee, 1978, p. 7]])*
 
-> [!citation-card] 伦德瓦尔等论学习经济与创新能力
+> [!citation-card] [[Bengt-Åke Lundvall|伦德瓦尔]]等论学习经济与创新能力
 > 在全球化与技术加速变迁的环境中，个人、企业和经济体的竞争力越来越取决于其学习能力，而非静态的知识存量或传统的生产要素禀赋。学习经济不是对知识经济的替代，而是对其的深化——它强调的不是拥有多少知识，而是能够多快地学习、遗忘旧知识和吸收新知识。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 864)]]
 >
 > *In the learning economy, the competitive advantage of individuals, firms, regions and countries depends on their capability to learn, and not on their static knowledge stock or factor endowments... ([[Argument_Caraca_2009_TFSC|Caraça et al., 2009, p. 864]])*
@@ -139,7 +141,7 @@ updated: 2026-10-04
 > [!concept-lens] 动态能力与知识存量超越
 > 探讨在全球化与技术快速迭代环境下，为什么单纯占有技术专利或资源存量不足以维系优势，唯有持续学习能力构成竞争基石。
 
-> [!claim] Caraça, J., Lundvall, B.-Å. & Mendonça, S.
+> [!claim] Caraça, J., [[Bengt-Åke Lundvall|Lundvall, B.-Å.]] & Mendonça, S.
 > **动态学习能力作为创新竞争力的核心决定力量** 若昂·卡拉萨（João Caraça）、本特-奥克·伦德瓦尔（Bengt-Åke Lundvall）与桑德罗·门东萨（Sandro Mendonça）指出，在现代学习经济中，技术机会与市场需求的变迁极为剧烈，任何静态的知识存量、设备资产或自然资源禀赋都会迅速面临[[Creativity|创造性]]破坏而贬值。企业的长期优势不再取决于其在某一时刻拥有多少专利，而取决于其能否快速跨越组织边界吸收外部新知、遗忘过时的组织惯例并敏捷重构生产流程。SAPPHO 创新项目的实证分析证实，成功创新者与失败者之间的决定性分水岭正在于对外部环境的开放度与敏捷学习能力。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]
 
 ---
@@ -170,7 +172,7 @@ updated: 2026-10-04
 > [!dev-timeline] 学习经济概念发展脉络
 > - **1962 — [[Learning by Doing|干中学]]（Learning by Doing）微观模型奠基** 肯尼斯·阿罗（Kenneth Arrow）发表经典论文，正式建立通过生产实践积累经验从而提高劳动生产率的内生增长机制。
 > - **1968–1978 — 经验曲线与高技术产业微观实证** 波士顿咨询集团（Boston Consulting Group, BCG）推广经验曲线模型；施奈（[[Argument_Schnee_1978_RP|Schnee, 1978]]）结合美国微电子与计算机工业数据，确立了累计产量每翻一番成本下降 20%–30% 的半导体学习经济定律，并论证了政府采购托底在启动学习曲线中的制度功能。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–8)]]
-> - **1994 — 宏观学习经济（Learning Economy）[[Paradigm|范式]]提出** 本特-奥克·伦德瓦尔（Bengt-Åke Lundvall）与比约恩·约翰逊（Björn Johnson）将学习概念从车间制造扩展至宏观经济学与制度创新理论，提出以互动学习为核心特征的现代“学习型经济”分析视角。
+> - **1994 — 宏观学习经济（Learning Economy）[[Paradigm|范式]]提出** 本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）与比约恩·约翰逊（Björn Johnson）将学习概念从车间制造扩展至宏观经济学与制度创新理论，提出以互动学习为核心特征的现代“学习型经济”分析视角。
 > - **2007–2009 — [[Multi-channel Interactive Learning Model|多通道互动学习模型]]与创新模式整合** 延森等（Jensen et al. 2007）区分 STI 与 DUI 创新模式；卡拉萨等（Caraça et al. 2009）提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，将学习经济确立为理解企业三类知识池互动与界面转换的宏观分析基石。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]
 
 ---

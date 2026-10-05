@@ -34,6 +34,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Knowledge Exchange]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Technological Catch-up]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -67,7 +68,7 @@ title: "Argument_Bown_2024_JEP"
 argument_key: "Argument_Bown_2024_JEP"
 argument_display_title: "Semiconductors and modern industrial policy"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -345,7 +346,7 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **产业政策驱动力由经济效率全面转向国家安全与地缘博弈** 当代半导体产业政策不仅解决[[Market Failure|市场失灵]]，更主要用于遏制竞争对手技术赶超、推动跨国供应链分散化与维护军事安全。（pp. 81–83, 102）
+> 1. **产业政策驱动力由经济效率全面转向国家安全与地缘博弈** 当代半导体产业政策不仅解决[[Market Failure|市场失灵]]，更主要用于遏制竞争对手[[Technological Catch-up|技术赶超]]、推动跨国供应链分散化与维护军事安全。（pp. 81–83, 102）
 > 2. **[[Vertical Disintegration|纵向离散]]使全产业链国家冠军企业模式在现代失效** 现代芯片产业链已演进为跨国高度专业化的六大细分环节，单一国家无法在封闭体系内实现高效自主，必须依赖多边技术与设备同盟。（pp. 86–90, 102）
 > 3. **空间分散政策必然稀释[[Agglomeration Externalities|集聚外部性]]并推高制造成本** 为防范地缘风险而强制在欧美多地分散建厂，打破了东亚成熟的产业集群生态，本质上是支付高昂的经济效率保险成本。（pp. 102–103）
 > 4. **单边制裁与成熟制程投资转向埋下未来产能过剩隐患** 严苛出口管制促使中国集中资源深耕成熟制程，叠加全球各经济体的建厂补贴竞赛，极易引发未来全球范围内的结构性产能过剩。（pp. 101–103）
@@ -364,7 +365,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card] [[Modern Industrial Policy|现代产业政策]]的非效率驱动特征
-> 政府对半导体产业的干预动机变得远比 20 世纪 80 年代复杂。利用产业政策解决[[Agglomeration Externalities|集聚外部性]]、[[Learning by Doing|干中学]]和技术领先等[[Market Failure|市场失灵]]问题的潜在功能依然存在；但当今政策制定者还具备并非由经济效率驱动的其他动机：促进地理多元化、削弱竞争对手的技术追赶能力，以及限制最尖端芯片（特别是与国家安全相关的芯片）的扩散。（p. 102）
+> 政府对半导体产业的干预动机变得远比 20 世纪 80 年代复杂。利用产业政策解决[[Agglomeration Externalities|集聚外部性]]、[[Learning by Doing|干中学]]和技术领先等[[Market Failure|市场失灵]]问题的潜在功能依然存在；但当今政策制定者还具备并非由经济效率驱动的其他动机：促进地理多元化、削弱竞争对手的[[Technological Catch-up|技术追赶]]能力，以及限制最尖端芯片（特别是与国家安全相关的芯片）的扩散。（p. 102）
 >
 > *The potential role for governments to use industrial policy to address market imperfections such as agglomeration externalities, [[Learning by Doing]], and technological leadership remains relevant. But today's officials have other motives that are not driven by economic efficiency: promoting geographic diversification, blunting China's ability to make technological gains, and limiting the spread of the most advanced chips (especially those potentially involved in national security issues).*
 

@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Economic and Industrial Espionage]]"
   - "[[Total Factor Productivity]]"
+  - "[[Technological Catch-up]]"
   - "[[Technology Transfer]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
@@ -57,7 +58,7 @@ title: "Argument_Glitz_2020_AER"
 argument_key: "Argument_Glitz_2020_AER"
 argument_display_title: "Industrial Espionage and Productivity"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -96,7 +97,7 @@ issuing_organization: ""
 >
 > 巴黎统筹委员会（Coordinating Committee for Multilateral Export Controls, CoCom）对共产主义东方实施越来越严格的出口管制，管制品类逐渐从军事和核领域扩展到工业"两用"产品——那些至少在原则上可用于军事目的的产品。
 >
-> - **1970–1989 年 —— 工业间谍成为技术追赶的核心渠道**
+> - **1970–1989 年 —— 工业间谍成为[[Technological Catch-up|技术追赶]]的核心渠道**
 >
 > 随着贸易禁运的加强，东德越来越依赖工业间谍来追赶西方技术。斯塔西对外情报局（HVA）下属的科技处（SWT）成为执行机构，至 1988 年底约有 260 名全职人员。
 
@@ -267,7 +268,7 @@ issuing_organization: ""
 > - **成本收益** 基于模拟，间谍活动的年度收益约为 101 亿欧元（1989 年价格），而年度运营成本仅约 1,100 万欧元（来自 HVA 末任局长在议会的证词），暗示极高的净回报（pp.1098–1099）。
 
 > [!conclusion] 论证收束
-> 斯塔西的工业间谍计划在经济意义上是成功的——它切实加速了东德的生产率增长，尤其在电子等前沿科技行业。然而，由于初始 TFP 差距巨大，间谍活动只能有限缓解而非逆转东德相对西德的技术落后。高质量情报的稀缺性和吸收能力的前沿依赖性，共同限制了工业间谍作为技术赶超工具的潜力。
+> 斯塔西的工业间谍计划在经济意义上是成功的——它切实加速了东德的生产率增长，尤其在电子等前沿科技行业。然而，由于初始 TFP 差距巨大，间谍活动只能有限缓解而非逆转东德相对西德的技术落后。高质量情报的稀缺性和吸收能力的前沿依赖性，共同限制了工业间谍作为[[Technological Catch-up|技术赶超]]工具的潜力。
 
 ---
 
@@ -277,7 +278,7 @@ issuing_organization: ""
 > 1. **工业间谍缩小 [[Total Factor Productivity\|TFP]] 差距** 1 个标准差的情报流入增加使两德 log TFP 差距缩小 7.3 个百分点（4.9%）；无间谍时东德 TFP 比率将低 13.3%。（pp.1078–1079, 1097–1098）
 > 2. **效应集中于高质量情报** 只有"非常有价值"情报有统计显著的生产率效应；大部分情报的边际贡献不显著。（pp.1094–1096）
 > 3. **[[Absorptive Capacity\|吸收能力]]决定效果** 工业间谍在接近技术前沿的行业最有效，与标准 R&D [[Document\|文献]]的发现相反，说明吸收能力是间谍情报转化为生产率的关键条件。（p.1096）
-> 4. **极高净回报** 间谍的年度收益（约 101 亿欧元）远超运营成本（约 1,100 万欧元），且在高科技行业中发挥了几乎不可替代的技术追赶功能。（pp.1098–1099, Figure 7）
+> 4. **极高净回报** 间谍的年度收益（约 101 亿欧元）远超运营成本（约 1,100 万欧元），且在高科技行业中发挥了几乎不可替代的[[Technological Catch-up|技术追赶]]功能。（pp.1098–1099, Figure 7）
 
 > [!stat-cards]- 核心数据
 > - **−0.052** 基线 [[Ordinary Least Squares\|OLS]] 估计系数（p=0.011）。（p.1078, Table 2）

@@ -9,7 +9,7 @@ summary: "美国广告界先驱与创造力教育先锋，BBDO 广告公司联�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -42,14 +42,15 @@ related_theories:
 related_methods: []
 related_instruments:
   - "[[Torrance Tests of Creative Thinking]]"
-related_persons: []
+related_persons:
+  - "[[Alexander Hamilton]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Guo_2025_TSC]]"
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-22
+updated: 2026-10-05
 ---
 
 # Alex Osborn
@@ -71,7 +72,7 @@ updated: 2026-09-22
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1888 年** 出生于美国纽约州布朗克斯，后考入汉密尔顿学院获得文学学士学位，早期从事新闻报道与营销企划。
+> - **1888 年** 出生于美国纽约州布朗克斯，后考入[[Alexander Hamilton|汉密尔顿]]学院获得文学学士学位，早期从事新闻报道与营销企划。
 > - **1919–1928 年** 与布鲁斯·巴顿等合伙创立广告代理机构，后合并壮大为全球知名广告巨头 BBDO（Batten, Barton, Durstine & Osborn），担任执行副总裁。
 > - **1939–1942 年** 在 BBDO 内部为克服员工开会时相互批评导致的灵感萎缩，正式开发并推行“有组织的[[Brainstorming\|头脑风暴]]（Brainstorming）”工作坊。
 > - **1948–1953 年** 出版《Your Creative Power》与奠基性代表作《Applied Imagination》，系统阐明头脑风暴四大法则与 73 问检核表。

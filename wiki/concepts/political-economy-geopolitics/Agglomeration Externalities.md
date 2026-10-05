@@ -8,7 +8,7 @@ aliases:
 summary: "地理空间上高密度集聚的产业与研发集群所内生的正向经济溢出效应，由共享专业劳动力池、投入品供应商网络及隐性技术知识外溢三大马歇尔微观机制驱动；在现代产业政策与高科技竞争视角下，集聚外部性构成半导体产业极端地理集中的经济学动因，而追求地缘安全与供应链分散化的政策干预将显著稀释集聚红利并推高长期制造成本。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,10 +21,12 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[Market Failure]]"
   - "[[Learning by Doing]]"
+  - "[[Technological Catch-up]]"
   - "[[Unit of Analysis]]"
   - "[[Innovation Park]]"
   - "[[Knowledge Exchange]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Industrial District]]"
   - "[[Variable]]"
   - "[[Vertical Disintegration]]"
 related_theories: []
@@ -43,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # Agglomeration Externalities
@@ -61,7 +63,7 @@ updated: 2026-10-04
 > - **边界** 不等于企业内部的工厂级物理规模经济（Plant-level Internal Economies of Scale）；集聚外部性是跨越企业边界、由整个产业生态网络共同享有的外部公地，且在面临空间拥堵、地价暴涨或地缘断链风险时，可能产生负外部性。
 
 > [!citation-card] 现代产业政策的非效率动机与集聚外部性
-> 政府对半导体产业进行干预的动机变得远比 20 世纪 80 年代复杂。利用产业政策解决集聚外部性、[[Learning by Doing|在做中学]]和技术领先等市场失灵问题的潜在功能依然存在；但当今政策制定者还具备并非由经济效率驱动的其他动机：促进地理多元化、削弱竞争对手的技术追赶能力，以及限制最尖端芯片的扩散。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 102)]]
+> 政府对半导体产业进行干预的动机变得远比 20 世纪 80 年代复杂。利用产业政策解决集聚外部性、[[Learning by Doing|在做中学]]和技术领先等市场失灵问题的潜在功能依然存在；但当今政策制定者还具备并非由经济效率驱动的其他动机：促进地理多元化、削弱竞争对手的[[Technological Catch-up|技术追赶]]能力，以及限制最尖端芯片的扩散。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 102)]]
 >
 > *The potential role for governments to use industrial policy to address market imperfections such as agglomeration externalities, learning by doing, and technological leadership remains relevant. But today's officials have other motives that are not driven by economic efficiency: promoting geographic diversification, blunting China's ability to make technological gains, and limiting the spread of the most advanced chips.*
 
@@ -148,7 +150,7 @@ updated: 2026-10-04
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1890 年代 — 新古典马歇尔外部性奠基** 阿尔弗雷德·马歇尔（Alfred Marshall）在《经济学原理》中系统提炼出产业区（Industrial Districts）的三大外部经济来源：劳动力池共享、中间投入品共享与知识外溢。
+> - **1890 年代 — 新古典马歇尔外部性奠基** 阿尔弗雷德·马歇尔（Alfred Marshall）在《经济学原理》中系统提炼出[[Industrial District|产业区]]（Industrial Districts）的三大外部经济来源：劳动力池共享、中间投入品共享与知识外溢。
 > - **1990 年代 — 新经济地理学（NEG）形式化建模** 保罗·克鲁格曼（Paul Krugman）等将收益递增与运输成本引入一般均衡模型，从理论上严密证明了初始微小偶发优势如何通过集聚外部性滚雪球式演化为空间极化与制造中心。
 > - **2000–2010 年代 — 硅谷与高技术集群实证爆发** 创新学者深入考察高科技产业中跨企业人员高频流动与非正式网络，证实隐性[[Knowledge Exchange|知识交流]]（Tacit Knowledge Exchange）对先进制程工艺与架构创新的决定性支撑。
 > - **2020 年代至今 — [[Modern Industrial Policy|现代产业政策]]与地缘政治审视** Bown 与 Wang（2024）等学者将集聚外部性纳入国家安全与大国博弈框架，揭示出于供应链韧性与地缘防务动机强制推行空间分散政策对集聚红利的不可逆稀释效应。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 102–103)]]

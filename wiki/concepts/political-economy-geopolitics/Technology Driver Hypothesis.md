@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪80年代半导体产业界与政策界的主导信条，主张大宗标准化存储芯片（DRAM）的大规模制造是掌握先进微细加工工艺与设备良率学习不可或缺的技术驱动载体；90年代被微观晶圆厂实证标杆数据证伪。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Total Quality Management]]"
   - "[[Paradigm]]"
   - "[[Document]]"
+  - "[[Technological Catch-up]]"
 related_theories:
   - "[[Technological Trajectories]]"
 related_methods:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # Technology Driver Hypothesis
@@ -200,7 +201,7 @@ updated: 2026-10-04
 > | [[Total Quality Management]] | Concept | 美国逻辑晶圆厂弥合制造良率差距、[[Falsification\|证伪]]驱动假设的核心管理工具。 |
 > | [[Statistical Process Control]] | Method | 逻辑制造产线实现缺陷密度跨国收敛的微观工程测量方法。 |
 > | [[Industrial Benchmarking]] | Method | 证伪该假设所依赖的加州大学伯克利分校 [[Competitive Semiconductor Manufacturing Program\|CSM 项目]]跨国产线实证方法。 |
-> | [[VLSI Project]] | Fact (Program) | 日本依托技术驱动假设在 DRAM 领域实现技术追赶的经典国家级计划。 |
+> | [[VLSI Project]] | Fact (Program) | 日本依托技术驱动假设在 DRAM 领域实现[[Technological Catch-up\|技术追赶]]的经典国家级计划。 |
 > | [[1986 U.S.-Japan Semiconductor Trade Agreement]] | Fact (Policy) | 依据该假设出台的旨在保护本土半导体制造基础的管理贸易政策。 |
 > | [[David C. Mowery]] | Person | 运用伯克利 CSM 产线数据系统实证证伪技术驱动假设的核心学者。 |
 

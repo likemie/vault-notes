@@ -7,15 +7,16 @@ summary: "当总体大且分散时，选择地理或组织上聚集的群组并�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 4
+method_related_count: 5
 method_related_level: 0
-method_related_stars: "☆"
+method_related_stars: ""
 method_related_color: "#dcfce7"
 tags:
   - method/sampling
   - quantitative-research
 related_concepts:
   - "[[Unit of Analysis]]"
+  - "[[Industrial District]]"
 related_theories: []
 related_methods:
   - "[[Random Sampling]]"
@@ -27,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-09-17
+updated: 2026-10-05
 ---
 # Cluster Sampling
 
@@ -60,7 +61,7 @@ updated: 2026-09-17
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **群内同质性偏差** 来自重工业区或贫困区的城市整群样本可能不代表所有类型的城市或社会经济群体。样本内部可能存在相似性，无法捕捉更广泛总体的变异性。
+> - **群内同质性偏差** 来自重[[Industrial District|工业区]]或贫困区的城市整群样本可能不代表所有类型的城市或社会经济群体。样本内部可能存在相似性，无法捕捉更广泛总体的变异性。
 > - **缓解方式** 宁可多取几个群并在每个群内轻度抽样，而非少取群并在每个群内深度抽样。
 
 ## 使用此方法的研究

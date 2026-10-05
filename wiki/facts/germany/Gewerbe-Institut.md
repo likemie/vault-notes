@@ -13,9 +13,9 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 9
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: 国家技术专门学院与工业推广中心
 headquarters: 柏林
@@ -27,6 +27,20 @@ tags:
   - theme/technical-education
   - theme/technology-transfer
   - theme/industrial-policy
+related_concepts:
+  - "[[Technology Transfer]]"
+  - "[[Technological Catch-up]]"
+  - "[[National Innovation System]]"
+  - "[[Intellectual Capital]]"
+  - "[[Theoretical Knowledge]]"
+related_methods:
+  - "[[Coding in Qualitative Research]]"
+related_persons:
+  - "[[Friedrich List]]"
+related_facts:
+  - "[[German Dual Education System]]"
+related_arguments:
+  - "[[Argument_Freeman_1995_CJE]]"
 confidence: high
 status: active
 created: 2026-10-05
@@ -40,7 +54,7 @@ updated: 2026-10-05
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 普鲁士皇家工艺学院（Gewerbe-Institut）是 19 世纪上半叶普鲁士政府主导创设的国家级专门技术人才培育与技术转移中枢，承担破除英国工业垄断、突破关键机械装备封锁以及向德意志本土制造业全面扩散现代工程技能的战略使命。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7)]]
+> 普鲁士皇家工艺学院（Gewerbe-Institut）是 19 世纪上半叶普鲁士政府主导创设的国家级专门技术人才培育与[[Technology Transfer|技术转移]]中枢，承担破除英国工业垄断、突破关键机械装备封锁以及向德意志本土制造业全面扩散现代工程技能的战略使命。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1821 年由普鲁士工业促进委员会发起创办，核心契机是德意志地区在拿破仑战争后面对英国工业革命（特别是机床与蒸汽动力）的巨大代差，急需由国家协调技术吸收与自主工业能力构建。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7)]]
@@ -67,10 +81,10 @@ updated: 2026-10-05
 > - **外国专家与技工团队** 以优厚待遇吸纳来自英国亨利·莫兹利（Henry Maudslay）等顶尖机床工坊的熟练工匠，在校内生产工坊亲自带徒。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 7)]]
 > - **产业协同与非教学网络** 联合技术展览会、产业陈列馆及学术团体，定期向全社会公开展示工业母机结构，向民间制造工坊赠送机器图纸与样机。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 7)]]
 
-> [!proc] 国家协调工业技术追赶的实施流程
+> [!proc] 国家协调工业[[Technological Catch-up|技术追赶]]的实施流程
 > 1. **官方资助与全额保障** 政府为求学青年提供校舍、食宿及全额津贴，解雇后顾之忧，确保平民优秀工匠能够脱产接受长期系统化工程训练。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 7)]]
 > 2. **突破封锁引进工业母机** 规避英国严苛的设备出口管制，获取金属加工精密机床并运抵学院工坊作为教学与逆向工程标本。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 7)]]
-> 3. **吸纳英国熟练技工传授隐性经验** 招募莫兹利工坊技师指导学生操作，将无法通过图纸文字编码化的车削公差、冶金热处理与工装经验转化为本土工艺技能。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 7)]]
+> 3. **吸纳英国熟练技工传授隐性经验** 招募莫兹利工坊技师指导学生操作，将无法通过图纸文字[[Coding in Qualitative Research|编码]]化的车削公差、冶金热处理与工装经验转化为本土工艺技能。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 7)]]
 > 4. **通过人才流动实现产业全面扩散** 毕业生奔赴德意志各邦开办工厂或担任总工程师，将先进机床制造能力在制造业全面落地生根。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 7)]]
 
 ---
@@ -80,7 +94,7 @@ updated: 2026-10-05
 > [!finding-cards] 核心业务与历史贡献
 > - **工业母机逆向工程与本土制造** 成功测绘并仿制出高精度车床、刨床等关键母机，被历史学家誉为现代机械制造的“阿尔法与欧米茄”。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 7)]]
 > - **德国自主机车制造业孵化器** 为 1840–1850 年代以博尔西希（Borsig）为代表的德国机车机床产业输送了核心技术骨干与制造方案。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 7)]]
-> - **工业培训与技术标准体系** 确立了德国工匠“双元制”技能培训与理性科研评价标准的雏形，成为 19 世纪后期德国超越英国的基石。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7)]]
+> - **工业培训与技术标准体系** 确立了德国工匠“[[German Dual Education System|双元制]]”技能培训与理性科研评价标准的雏形，成为 19 世纪后期德国超越英国的基石。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7)]]
 
 ---
 
@@ -99,7 +113,7 @@ updated: 2026-10-05
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Friedrich List]] | Person | 李斯特后发国家技术追赶与国家生产力学说的核心现实原型。 |
+> | [[Friedrich List]] | Person | 李斯特后发国家[[Technological Catch-up\|技术追赶]]与国家生产力学说的核心现实原型。 |
 > | [[National Innovation System]] | Concept | 19 世纪早期国家主导技术基础设施与教育网络的标杆雏形。 |
 > | [[Intellectual Capital]] | Concept | 普鲁士通过工艺学校吸纳前人智力资本并实现自主增殖的代表案例。 |
-> | [[German Dual Education System]] | Fact (Policy) | 继承了其理论知识与车间工坊学徒制紧密结合的制度精髓。 |
+> | [[German Dual Education System]] | Fact (Policy) | 继承了其[[Theoretical Knowledge\|理论知识]]与车间工坊学徒制紧密结合的制度精髓。 |

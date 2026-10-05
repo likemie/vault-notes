@@ -11,7 +11,7 @@ aliases:
 summary: "教育与社会干预在停止实施后即时正向效应随时间推移逐渐萎缩直至消失的普遍经验现象，以及方案从理想效力试验走向大规模实效推广时的效应断崖式归零（电压降），构成了现代循证清算与行政大数据长期追踪的核心审查关卡。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Attrition]]"
   - "[[Hawthorne Effect]]"
+  - "[[Technological Catch-up]]"
   - "[[Business as Usual]]"
   - "[[Implementation Fidelity]]"
   - "[[Counterfactual]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-09-22
+updated: 2026-10-05
 ---
 
 # Fade-out Effect
@@ -114,7 +115,7 @@ updated: 2026-09-22
 > 效应衰退最早由美国学前干预长期追踪（如 Head Start 与 Perry Preschool 项目）确立，贝利等（Bailey et al., 2017）系统提出了三种微观生成机制；随后，世界卫生组织与 ExpandNet 规模化理论（WHO & ExpandNet, 2009）、英国 [[Education Endowment Foundation\|EEF]] 十年大规模试验反思（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）以及[[Robert Slavin\|罗伯特·斯拉文]]（Robert Slavin）的累积剂量理论（[[Argument_Slavin_2019_EP\|Slavin, 2019]]）进一步揭示了时间衰退与规模化递送损耗的深层机制。
 
 > [!concept-lens] 效应衰退的五大生成机制
-> - **对照组自发追赶与自然成熟（Control Group Catch-up）** 干预组学生通过高强度专项集训提前掌握了某些低阶可教技能（如特定字母发音或基础算术规则）；但在后续学期中，对照组学生在[[Business as Usual\|常态教学]]中也逐步自然习得，使得两组之间的相对学业差距被自然抹平（Bailey et al., 2017）。
+> - **对照组自发追赶与自然成熟（Control Group [[Technological Catch-up|catch-up]]）** 干预组学生通过高强度专项集训提前掌握了某些低阶可教技能（如特定字母发音或基础算术规则）；但在后续学期中，对照组学生在[[Business as Usual\|常态教学]]中也逐步自然习得，使得两组之间的相对学业差距被自然抹平（Bailey et al., 2017）。
 > - **后续环境脱节与支持断层（Subsequent Environment Mismatch）** 学生在项目支持下获得了良好习惯，但项目结束后升入资源匮乏、缺乏差异化指导的常态薄弱班级（“贫瘠土壤”），前期积累的学业红利缺乏承接支架而被迅速消解。
 > - **新奇效应退潮与非认知动机回落（Decay of Novelty & Motivation）** 即时显著收益常混合了新硬件、额外金钱奖励或研究者特殊关注带来的[[Hawthorne Effect\|霍桑效应]]；一旦恢复日常教学常态，学生的专注度与额外投入迅速回落至常规基线。
 > - **规模化级联培训稀释（Cascade Dilution in Scale-up）** 当方案从 20 所学校的[[Efficacy Trial\|效力试验]]迅速扩张至 200 所学校的[[Effectiveness Trial\|实效试验]]时，原作者无法亲自授课，转由多层中介培训师转导。信息逐级衰减导致课堂[[Implementation Fidelity\|实施保真度]]崩溃，引发大规模效果断崖（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。

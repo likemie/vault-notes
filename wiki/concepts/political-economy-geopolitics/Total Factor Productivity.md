@@ -8,7 +8,7 @@ aliases:
 summary: "衡量扣除资本和劳动投入贡献后产出增长剩余部分的生产率指标，用于衡量技术进步和技术效率变化"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Alternative Hypothesis]]"
   - "[[Technology Transfer]]"
+  - "[[Technological Catch-up]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
@@ -36,7 +37,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-09-17
+updated: 2026-10-05
 ---
 
 # Total Factor Productivity
@@ -73,7 +74,7 @@ updated: 2026-09-17
 > TFP 本质上是"我们无知程度的度量"（a measure of our ignorance），它不仅包含技术进步，还包含测量误差、省略[[Variable\|变量]]、规模经济和外部性等无法一一分离的因素。
 
 > [!claim] [[Argument_Glitz_2020_AER\|Glitz & Meyersson (2020)]]
-> 在两德比较中，log TFP 差距的变动（$\Delta \ln A_{Wjt} - \Delta \ln A_{Ejt}$）可以作为工业间谍[[Technology Transfer\|技术转移]]效果的度量——间谍情报流入缩小了 TFP 差距，即加速了东德相对于西德的技术追赶。[[Argument_Glitz_2020_AER\|Glitz & Meyersson (2020, pp.1075–1078)]]
+> 在两德比较中，log TFP 差距的变动（$\Delta \ln A_{Wjt} - \Delta \ln A_{Ejt}$）可以作为工业间谍[[Technology Transfer\|技术转移]]效果的度量——间谍情报流入缩小了 TFP 差距，即加速了东德相对于西德的[[Technological Catch-up|技术追赶]]。[[Argument_Glitz_2020_AER\|Glitz & Meyersson (2020, pp.1075–1078)]]
 
 ---
 

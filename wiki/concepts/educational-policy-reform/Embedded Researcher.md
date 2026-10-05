@@ -7,7 +7,7 @@ aliases:
 summary: "常驻于教育行政部门或学校实践机构内部，依托科研训练背景在真实工作情境中开展证据转化、需求匹配与跨界中介的专业人员，旨在弥合研究与实践断层并重塑组织循证文化"
 type: concept
 domain: "educational-policy-reform"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Evidence Ecosystem]]"
   - "[[Research Literacy]]"
+  - "[[Intellectual Capital]]"
   - "[[Boundary Spanner]]"
   - "[[Document]]"
   - "[[Internal Validity]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-09-18
+updated: 2026-10-05
 ---
 
 # Embedded Researcher
@@ -66,7 +67,7 @@ updated: 2026-09-18
 
 > [!concept-lens] 概念透镜
 > - **核心内涵** 指涉具备系统实证[[Research Literacy\|研究素养]]、但组织身份或核心工作职责深嵌于一线行政或教学实体内的专业中介角色。
-> - **理论用途** 帮助透视公共部门与学校如何克服外部研究供给与内部实际需求之间的认知脱节，通过内部常驻智力资本重塑组织的循证决策与反思文化。
+> - **理论用途** 帮助透视公共部门与学校如何克服外部研究供给与内部实际需求之间的认知脱节，通过内部常驻[[Intellectual Capital|智力资本]]重塑组织的循证决策与反思文化。
 > - **制度边界** 重点在于人员的情境嵌入性与双向中介功能；既不同于身处象牙塔、主要受学术期刊发表考评驱动的高校纯学术研究者，也不同于没有经过严谨科研方法训练的普通行政专员或常规教职人员。
 
 > [!citation-card] 技能特征与组织角色的脱钩

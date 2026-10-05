@@ -2719,6 +2719,17 @@
     ]
   },
   {
+    "title": "Creative Destruction",
+    "type": "concept",
+    "path": "wiki/concepts/economics/Creative Destruction.md",
+    "aliases": [
+      "创造性破坏",
+      "创造性毁灭",
+      "熊彼特式创造性破坏",
+      "创造性破话"
+    ]
+  },
+  {
     "title": "Dual In-Line Package",
     "type": "concept",
     "path": "wiki/concepts/economics/Dual In-Line Package.md",
@@ -2750,6 +2761,19 @@
       "绿地与棕地创新",
       "Greenfield and brownfield innovation",
       "Greenfield vs. brownfield innovation"
+    ]
+  },
+  {
+    "title": "Industrial District",
+    "type": "concept",
+    "path": "wiki/concepts/economics/Industrial District.md",
+    "aliases": [
+      "产业区",
+      "工业区",
+      "马歇尔产业区",
+      "马歇尔工业区",
+      "Marshallian industrial district",
+      "industrial districts"
     ]
   },
   {
@@ -2814,6 +2838,19 @@
       "pedagogical leadership",
       "leading learning",
       "课程领导力"
+    ]
+  },
+  {
+    "title": "Lean Production",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Lean Production.md",
+    "aliases": [
+      "精益生产",
+      "精益制造",
+      "丰田生产方式",
+      "精益生产体系",
+      "Lean Production System",
+      "瘦型生产"
     ]
   },
   {
@@ -6919,6 +6956,18 @@
     ]
   },
   {
+    "title": "Apprenticeship",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Apprenticeship.md",
+    "aliases": [
+      "学徒制",
+      "学徒培训",
+      "师徒制",
+      "现代学徒制",
+      "双元制学徒培训"
+    ]
+  },
+  {
     "title": "Argument Mapping",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Argument Mapping.md",
@@ -8717,6 +8766,20 @@
       "vertical structures",
       "state vertical",
       "垂直行政结构"
+    ]
+  },
+  {
+    "title": "Technological Catch-up",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Technological Catch-up.md",
+    "aliases": [
+      "技术赶超",
+      "技术追赶",
+      "工业赶超",
+      "追赶理论",
+      "catching up",
+      "technological catching up",
+      "catch-up"
     ]
   },
   {
@@ -14732,6 +14795,18 @@
     ]
   },
   {
+    "title": "Techno-economic Paradigm",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Techno-economic Paradigm.md",
+    "aliases": [
+      "技术-经济范式",
+      "技术经济范式",
+      "技术—经济范式",
+      "techno-economic paradigm",
+      "techno-economic paradigms"
+    ]
+  },
+  {
     "title": "Technological Trajectories",
     "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Technological Trajectories.md",
@@ -20649,6 +20724,15 @@
     ]
   },
   {
+    "title": "Carlota Perez",
+    "type": "person",
+    "path": "wiki/persons/global/Carlota Perez.md",
+    "aliases": [
+      "卡洛塔·佩雷斯",
+      "Perez, C."
+    ]
+  },
+  {
     "title": "Gerard Renaud",
     "type": "person",
     "path": "wiki/persons/global/Gerard Renaud.md",
@@ -20715,6 +20799,15 @@
     "aliases": [
       "玛丽安娜·马祖卡托",
       "马祖卡托"
+    ]
+  },
+  {
+    "title": "Kenichi Ohmae",
+    "type": "person",
+    "path": "wiki/persons/japan/Kenichi Ohmae.md",
+    "aliases": [
+      "大前研一",
+      "Ohmae, K."
     ]
   },
   {
@@ -21902,6 +21995,16 @@
     ]
   },
   {
+    "title": "Alexander Hamilton",
+    "type": "person",
+    "path": "wiki/persons/us/Alexander Hamilton.md",
+    "aliases": [
+      "亚历山大·汉密尔顿",
+      "汉密尔顿",
+      "Hamilton, A."
+    ]
+  },
+  {
     "title": "Alfred Schutz",
     "type": "person",
     "path": "wiki/persons/us/Alfred Schutz.md",
@@ -22887,6 +22990,17 @@
       "沙维尔森",
       "Shavelson, R. J.",
       "Richard Shavelson"
+    ]
+  },
+  {
+    "title": "Richard Nelson",
+    "type": "person",
+    "path": "wiki/persons/us/Richard Nelson.md",
+    "aliases": [
+      "理查德·纳尔逊",
+      "理查德·R·纳尔逊",
+      "Nelson, R. R.",
+      "Richard R. Nelson"
     ]
   },
   {

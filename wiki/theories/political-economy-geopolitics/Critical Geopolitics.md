@@ -6,7 +6,7 @@ aliases:
 summary: "把地缘政治理解为由政治想象、话语和空间表述持续建构出来的批判理论，反对把领土秩序视为自然和既定事实"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 42
+theory_related_count: 43
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Relational Space]]"
   - "[[Hub and Flow Imaginaries]]"
+  - "[[Intellectual Capital]]"
   - "[[Geopolitical Subject]]"
   - "[[Spatial Sortings]]"
   - "[[Knowledge-Based Economization]]"
@@ -95,7 +96,7 @@ updated: 2026-10-05
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
 > | [[Relational Space\|关系性空间]] | 概念 | 替代[[Classical Geopolitics\|古典地缘政治]]的领土空间观——空间是多重社会关系的动态配置而非固定容器 |
-> | [[Hub and Flow Imaginaries\|枢纽与流动想象]] | 概念 | 政治想象的履行性力量的当代表现：将全球空间划分为知识资本流动的枢纽中心与被动接受流动的边缘区域 |
+> | [[Hub and Flow Imaginaries\|枢纽与流动想象]] | 概念 | 政治想象的履行性力量的当代表现：将全球空间划分为[[Intellectual Capital\|知识资本]]流动的枢纽中心与被动接受流动的边缘区域 |
 > | [[Geopolitical Subject\|地缘政治主体]] | 概念 | 高等教育空间被用于塑造知识密集型资本主义所需的主体性——创新性、创业性、连接性 |
 > | [[Spatial Sortings\|空间分选]] | 机制 | [[Knowledge-Based Economization\|知识经济化]]将某些地点和人群置于发展中心，同时边缘化其他，国家通过空间选择性政策中介 |
 > | [[Fixity-Motion Tension\|固着-流动张力]] | 机制 | 资本需要地方锚定来促进流动，但流动又不断破坏既有空间配置——Harvey 揭示的核心地缘政治悖论 |

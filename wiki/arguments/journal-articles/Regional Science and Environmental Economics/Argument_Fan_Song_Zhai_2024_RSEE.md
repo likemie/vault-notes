@@ -7,9 +7,9 @@ title: "Argument_Fan_Song_Zhai_2024_RSEE"
 argument_key: "Argument_Fan_Song_Zhai_2024_RSEE"
 argument_display_title: "Education, science and technology, and talent integrated development: Evidence from China"
 argument_kind: "journal-article"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "Regional Science and Environmental Economics"
 authors:
@@ -32,6 +32,7 @@ related_concepts:
   - "[[EST Integrated Development]]"
   - "[[Total Factor Productivity]]"
   - "[[Hypothesis]]"
+  - "[[Technological Catch-up]]"
   - "[[Spatial Sortings]]"
   - "[[Causality]]"
   - "[[Cooperative Integrated Reading and Composition]]"
@@ -229,7 +230,7 @@ updated: 2026-09-16
 > | | 科技 | — | — | — | 同上 |
 > | | 人才 | $0.217$ | $0.341$ | **+56.96%** | 中部增速最快——"人才追赶"特征 |
 > | **西部** | 教育 | — | — | — | 波动明显，增长与政策周期关联紧密 |
-> | | 科技 | $0.210$ | $0.359$ | **+70.61%** | 西部增速最快——"技术追赶"特征 |
+> | | 科技 | $0.210$ | $0.359$ | **+70.61%** | 西部增速最快——"[[Technological Catch-up\|技术追赶]]"特征 |
 > | | 人才 | — | — | — | 同上（教育） |
 >
 > 注："—"表示原文未引用该格点的起止精确值，完整数据见 Figure 4（p.69）。

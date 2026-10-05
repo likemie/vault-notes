@@ -11,7 +11,7 @@ subtype: program
 region: norway
 fact_region: "norway"
 fact_kind: "program"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ tags:
   - theme/embedded-researcher
 related_concepts:
   - "[[Champ]]"
+  - "[[Intellectual Capital]]"
   - "[[Embedded Researcher]]"
   - "[[Evidence Ecosystem]]"
   - "[[Knowledge Mediation]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-09-16
+updated: 2026-10-05
 ---
 
 # Public Sector PhD Scheme
@@ -84,7 +85,7 @@ updated: 2026-09-16
 > [!dev-timeline]- 项目推进历程
 > - **2014 — 制度建立与首批申报** 挪威研究理事会正式颁布公共部门博士计划指南，借鉴产业博士（Industrial PhD）成功经验，将博士联合资助机制迁移至公共行政与社会治理[[Champ\|场域]]。
 > - **2015–2020 — 教育领域重点课题突破** 挪威教育部深度参与计划立项，围绕国家新一轮核心课程改革与学校质量评估体系，先后立项约 10 项教育重大联合攻关课题。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, p. 89)]]
-> - **2021至今 — 行政中枢智力资本集聚** 培养成果深度反哺中央政策中枢，挪威教育部政策分析处等专门情报机构借此构建起学术资质极为雄厚的内嵌式研究团队。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 80–81, 88–89)]]
+> - **2021至今 — 行政中枢[[Intellectual Capital|智力资本]]集聚** 培养成果深度反哺中央政策中枢，挪威教育部政策分析处等专门情报机构借此构建起学术资质极为雄厚的内嵌式研究团队。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 80–81, 88–89)]]
 
 ---
 
@@ -110,7 +111,7 @@ updated: 2026-09-16
 > - **决策支撑与转化效益** 博士研究成果转化为国家法案、白皮书或全国教学指导方案的采纳率。
 
 > [!finding-cards] 核心实证结论
-> - **直接支撑部委内部智力资本集聚** 调查数据显示，受惠于该类机制，挪威教育部政策分析处（Section for Policy Analysis）拥有博士学位或资深研究背景的员工比例高达约 50%，远高于拉脱维亚教育部等对照系统的 7.4%。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 80–81, 88–89)]]
+> - **直接支撑部委内部[[Intellectual Capital|智力资本]]集聚** 调查数据显示，受惠于该类机制，挪威教育部政策分析处（Section for Policy Analysis）拥有博士学位或资深研究背景的员工比例高达约 50%，远高于拉脱维亚教育部等对照系统的 7.4%。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 80–81, 88–89)]]
 > - **系统性破除外部委托沟通壁垒** 内部常驻的高学历公职人员兼通政策逻辑与学术语言，在部委与挪威研究理事会、[[Kunnskapssenter for utdanning\|挪威教育知识中心]]（[[Kunnskapssenter for utdanning]]）之间构筑起高度畅通的知识流通回路。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 80–81)]]
 > - **形成高质量战略政策成果** 在全纳教育与课程重组等领域产出的课题，直接支撑了挪威新国家核心课程纲要的实证论证与落地推广。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, p. 89)]]
 

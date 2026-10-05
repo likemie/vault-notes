@@ -14,7 +14,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 55
+fact_related_count: 56
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Wicked Problem]]"
   - "[[Mission-Oriented Innovation Policy]]"
+  - "[[Technological Catch-up]]"
   - "[[Third Mission]]"
   - "[[Market Shaping and Creating]]"
   - "[[Lifelong Learning]]"
@@ -91,7 +92,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # UN Sustainable Development Goals
@@ -104,7 +105,7 @@ updated: 2026-10-03
 > - **发布时间 / 发布主体** 2015 年 9 月由联合国（United Nations, UN）全数 193 个成员国在纽约可持续发展峰会上一致通过，正式发布题为《改变我们的世界：2030年可持续发展议程》（*Transforming our world: the 2030 Agenda for Sustainable Development*）的决议。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 150)]]
 > - **适用地区 / 对象** 覆盖全球所有主权国家、跨国国际组织、公民社会、高等教育机构以及科技产业界；特别在基础教育阶段针对全球南方借款国实施密集监测，在高等教育与科技政策阶段覆盖全球[[Research Universities|研究型大学]]与国家[[Innovation Ecosystem|创新生态]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
 > - **问题背景** 全球面临气候危机、环境退化、贫困不公、公共健康与教育公平等多重复合[[Wicked Problem|复杂社会难题]]；继 1990 年[[Education for All|全民教育]]（Education for All, [[Exploratory Factor Analysis|EFA]]）与 2000–2015 年千年发展目标（Millennium Development Goals, MDGs）之后，国际社会亟需一套具有普遍约束力且兼顾社会技术系统转型的全球统领性行动纲领。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 151)]]
-> - **制度位置** 取代 MDGs 成为 2015–2030 年全球最高发展纲领；在教育领域确立第四个可持续发展目标（SDG 4: 优质教育），在科技创新政策领域确立第三代使命导向政策统领性方向（涵盖 SDG 13 气候行动、SDG 14 海洋保护、SDG 7 清洁能源、SDG 3 良好健康等），成为全球[[Mission-Oriented Innovation Policy|使命导向创新政策]]从二代技术追赶迈向三代社会技术转型的顶层战略罗盘。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]
+> - **制度位置** 取代 MDGs 成为 2015–2030 年全球最高发展纲领；在教育领域确立第四个可持续发展目标（SDG 4: 优质教育），在科技创新政策领域确立第三代使命导向政策统领性方向（涵盖 SDG 13 气候行动、SDG 14 海洋保护、SDG 7 清洁能源、SDG 3 良好健康等），成为全球[[Mission-Oriented Innovation Policy|使命导向创新政策]]从二代[[Technological Catch-up|技术追赶]]迈向三代社会技术转型的顶层战略罗盘。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]
 
 ---
 
@@ -178,7 +179,7 @@ updated: 2026-10-03
 
 > [!finding-cards] 关键成效与治理影响
 > - **确立全球可持续发展最高共识体系** SDGs 成功将分散的气候、扶贫、公共卫生与教育改革熔铸为一个不可分割的跨国[[Grand Theory|元叙事]]，为跨国[[Policy Mobility|政策流动]]提供了普遍通行的度量语言。
-> - **驱动科技与产业政策向第三代社会技术转型跃升** 彻底改变了传统科技政策仅关注研发投入规模或单一狭隘技术追赶的局限，为绿色脱碳与应对老龄化等[[Wicked Problem|复杂社会难题]]树立了跨部门协同创新的全球导向。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–792)]]
+> - **驱动科技与产业政策向第三代社会技术转型跃升** 彻底改变了传统科技政策仅关注研发投入规模或单一狭隘[[Technological Catch-up|技术追赶]]的局限，为绿色脱碳与应对老龄化等[[Wicked Problem|复杂社会难题]]树立了跨部门协同创新的全球导向。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–792)]]
 > - **催化[[Third Mission|大学第三使命]]从经济化向世界社会价值转向** 促使高等教育机构摆脱单纯服务于商业技术专利转移的狭隘视野，将解决人类共同面临的宏大挑战确立为合法性基石。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 150–154)]]
 > - **加剧跨国[[Policy Brokerage|政策中介]]的多边竞争与数据圈地** 刺激了多大多边国际组织在慈善基金资助与排他性数据协定上的领地争夺。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
 

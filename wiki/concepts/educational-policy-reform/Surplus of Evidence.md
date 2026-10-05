@@ -8,7 +8,7 @@ aliases:
 summary: "在数字经济与海量知识制造时代，针对同一公共政策议题的研究成果、实证数据与咨询报告在数量上发生爆炸式增长并超过决策系统认知与处理负荷的生态现象。该现象打破了“证据越丰富政策越理性”的传统启蒙假设，反而加剧了政策歧义性（Policy Ambiguity）与信息孤岛，促使政治决策者更倾向于策略性“选秀”证据，并为政策中介机构对海量数据进行二次提炼、认证包装与权威背书创造了垄断性的制度中介空间。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Research Utilization]]"
   - "[[Construct]]"
+  - "[[Intellectual Capital]]"
   - "[[Document]]"
   - "[[Policy Brokerage]]"
   - "[[Knowledge Production]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-24
+updated: 2026-10-05
 ---
 
 # Surplus of Evidence
@@ -68,7 +69,7 @@ updated: 2026-09-24
 ## 定义
 
 > [!def] 核心定义
-> 证据过剩（Surplus of Evidence）是公共政策与比较教育政策学中用于刻画信息超载时代[[Research Utilization\|知识利用]]生态的[[Construct\|理论构念]]；指在数字化生产与知识资本急剧繁衍的背景下，可用于同一政策议程的研究[[Document\|文献]]、统计数据与实证报告呈现出极度饱和与矛盾丛生的状态，导致决策者面对的不再是“缺乏证据”而是“无法从相互冲突的证据洪流中辨别方向”的系统性困境。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
+> 证据过剩（Surplus of Evidence）是公共政策与比较教育政策学中用于刻画信息超载时代[[Research Utilization\|知识利用]]生态的[[Construct\|理论构念]]；指在数字化生产与[[Intellectual Capital|知识资本]]急剧繁衍的背景下，可用于同一政策议程的研究[[Document\|文献]]、统计数据与实证报告呈现出极度饱和与矛盾丛生的状态，导致决策者面对的不再是“缺乏证据”而是“无法从相互冲突的证据洪流中辨别方向”的系统性困境。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537–538)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向数字经济时代研究证据在数量、渠道与意识形态维度的爆炸性过剩，打破了科学与政策之间的直接供给联结。

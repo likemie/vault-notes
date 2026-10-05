@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08"
 argument_display_title: "Research Methods in Education · Ch08"
 argument_kind: "book-chapter"
-argument_related_count: 63
+argument_related_count: 64
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Sampling Error]]"
   - "[[Computer Simulation]]"
+  - "[[Industrial District]]"
   - "[[Gatekeepers]]"
   - "[[Policy Network]]"
   - "[[Saturation]]"
@@ -428,7 +429,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 >
 > 1. **气候**，在潮湿地区进行，背痛发生率可能高于其他地区
 > 2. **年龄**，该地区老龄人口比例过高，而老龄人口的背痛发生率更高
-> 3. **职业**，位于重工业区，劳动人口的背痛发生率可能高于轻工业或服务业地区
+> 3. **职业**，位于重[[Industrial District|工业区]]，劳动人口的背痛发生率可能高于轻工业或服务业地区
 > 4. **报告发生率**，仅使用两名医生的记录，且这两名医生以对背痛患者过度同情而非负责任的怀疑著称，背痛患者因此集中到这两名医生处就诊
 >
 > 气候、年龄、职业和报告发生率这四个变量对研究产生了不成比例的影响。报纸在报道中进行了耸人听闻的泛化，超越了数据的参数边界，完全忽视了研究的有限代表性。如果在气候、年龄、职业和报告发生率不同的地区进行，结果可能完全不同（pp.152–153）。
