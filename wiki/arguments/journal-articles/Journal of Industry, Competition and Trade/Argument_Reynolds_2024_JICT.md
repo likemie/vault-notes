@@ -57,9 +57,9 @@ title: "Argument_Reynolds_2024_JICT"
 argument_key: "Argument_Reynolds_2024_JICT"
 argument_display_title: "U.S"
 argument_kind: "journal-article"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 22
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "Journal of Industry, Competition and Trade"
 ---
