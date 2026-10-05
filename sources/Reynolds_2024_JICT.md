@@ -1,6 +1,7 @@
 ---
 citation: "Reynolds, E. B. (2024). U.S. Industrial Transformation and the “How” of 21st Century Industrial Strategy. Journal of Industry, Competition and Trade, 24(1), Article 8. https://doi.org/10.1007/s10842-024-00420-x"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Reynolds_2024_JICT]]"
 processed_date: 2026-10-06
 ---
 
