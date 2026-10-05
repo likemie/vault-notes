@@ -29627,6 +29627,29 @@
     ]
   },
   {
+    "title": "Inflation Reduction Act",
+    "type": "fact",
+    "path": "wiki/facts/us/Inflation Reduction Act.md",
+    "aliases": [
+      "通胀削减法案",
+      "通胀削减法",
+      "Inflation Reduction Act of 2022"
+    ]
+  },
+  {
+    "title": "Infrastructure Investment and Jobs Act",
+    "type": "fact",
+    "path": "wiki/facts/us/Infrastructure Investment and Jobs Act.md",
+    "aliases": [
+      "基础设施投资与就业法案",
+      "两党基础设施法案",
+      "IIJA",
+      "Bipartisan Infrastructure Law",
+      "BIL",
+      "Infrastructure Investment and Jobs Act of 2021"
+    ]
+  },
+  {
     "title": "InTASC Standards",
     "type": "fact",
     "path": "wiki/facts/us/InTASC Standards.md",
@@ -31664,6 +31687,11 @@
     "title": "Argument_Greene_2018_JEP",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2018_JEP.md"
+  },
+  {
+    "title": "Argument_Reynolds_2024_JICT",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Journal of Industry, Competition and Trade/Argument_Reynolds_2024_JICT.md"
   },
   {
     "title": "Argument_Zhao_2025_JIntell",

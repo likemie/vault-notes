@@ -7,7 +7,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
-argument_related_count: 39
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
