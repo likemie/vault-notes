@@ -9,6 +9,14 @@
       "path": "wiki/arguments/journal-articles/Cambridge Journal of Economics/Argument_Freeman_1995_CJE.md"
     },
     {
+      "basename": "General Purpose Technology",
+      "path": "wiki/concepts/economics/General Purpose Technology.md"
+    },
+    {
+      "basename": "Chris Freeman",
+      "path": "wiki/persons/uk/Chris Freeman.md"
+    },
+    {
       "basename": "Argument_Fabrizio_Mowery_2005_REI",
       "path": "wiki/arguments/journal-articles/Revue d'économie industrielle/Argument_Fabrizio_Mowery_2005_REI.md"
     },
@@ -87,10 +95,6 @@
     {
       "basename": "Cold War University",
       "path": "wiki/concepts/higher-education/Cold War University.md"
-    },
-    {
-      "basename": "General Purpose Technology",
-      "path": "wiki/concepts/economics/General Purpose Technology.md"
     },
     {
       "basename": "Argument_Cheng_2026_KeJiChuangXin",
@@ -195,10 +199,6 @@
     {
       "basename": "October 2022 US Semiconductor Export Controls",
       "path": "wiki/facts/us/October 2022 US Semiconductor Export Controls.md"
-    },
-    {
-      "basename": "China Integrated Circuit Industry Investment Fund",
-      "path": "wiki/facts/china/China Integrated Circuit Industry Investment Fund.md"
     }
   ],
   "omittedPaths": [],
