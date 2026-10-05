@@ -8332,6 +8332,18 @@
     ]
   },
   {
+    "title": "Intellectual Capital",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Intellectual Capital.md",
+    "aliases": [
+      "智力资本",
+      "知识资本",
+      "精神资本",
+      "mental capital",
+      "intellectual capital"
+    ]
+  },
+  {
     "title": "Knowledge Capitalism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Knowledge Capitalism.md",
@@ -13006,6 +13018,19 @@
       "应用启发的基础研究",
       "use-inspired research",
       "应用启发型基础研究"
+    ]
+  },
+  {
+    "title": "User-Producer Interaction",
+    "type": "concept",
+    "path": "wiki/concepts/university-industry-collaboration/User-Producer Interaction.md",
+    "aliases": [
+      "用户—生产者互动",
+      "用户-生产者互动",
+      "用户与生产者互动",
+      "用户生产者互动",
+      "user-producer interaction",
+      "user-producer relationships"
     ]
   },
   {
@@ -20118,6 +20143,17 @@
     ]
   },
   {
+    "title": "Bengt-Åke Lundvall",
+    "type": "person",
+    "path": "wiki/persons/denmark/Bengt-Åke Lundvall.md",
+    "aliases": [
+      "本格特-奥克·伦德瓦尔",
+      "伦德瓦尔",
+      "Lundvall, B.-Å.",
+      "Bengt-Ake Lundvall"
+    ]
+  },
+  {
     "title": "Jill Mehlbye",
     "type": "person",
     "path": "wiki/persons/denmark/Jill Mehlbye.md",
@@ -20407,6 +20443,16 @@
       "弗兰茨·希尔克",
       "希尔克",
       "Hilker, F."
+    ]
+  },
+  {
+    "title": "Friedrich List",
+    "type": "person",
+    "path": "wiki/persons/germany/Friedrich List.md",
+    "aliases": [
+      "弗里德里希·李斯特",
+      "李斯特",
+      "List, F."
     ]
   },
   {
