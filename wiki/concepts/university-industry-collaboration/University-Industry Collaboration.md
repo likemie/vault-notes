@@ -10,7 +10,7 @@ aliases:
 summary: "大学与企业之间在正式协议框架下建立的有目的、深协同的制度化参与关系，横跨研究学术、教育学习与公共效益三大维度；其历史历经战后脱钩与 1980 年代法制重构，在释放实体创新潜力的同时伴生微观组织碎片化与代工车间异化的深层张力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -203,7 +203,7 @@ updated: 2026-10-05
 > |---|---|---|---|
 > | **价值共生与界面整合** | 产学参与超越单向线性流动，在科研、育人与公共效益三大维度实现非线性多方共生 | 宏观[[Innovation Ecosystem\|创新生态]]与多主体战略协同设计 | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall (2025b)]]; [[Argument_Swick_Jones_2025_AcademicHealthSystems\|Swick & Jones (2025)]] |
 > | **法制催化与历史演进** | 战后产学曾长期严重脱钩，依靠国家长期合作平台（NSF ERC/STC）与法定产权下放（拜杜法案）方得以系统重塑 | 科技政策变迁、[[National Innovation System\|国家创新体系]]比较与立法激励分析 | [[Argument_Atkinson_2008_TIS\|Atkinson & Blanpied (2008)]]; [[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen (2025)]] |
-> | **组织碎片化与异化防线** | 宏观交织与校内微观治理割裂共生，过度顺从企业短期需求面临沦为“代工车间”与知识产权冲突风险 | 高校内部治理改革、产学协议谈判与学术自由防御 | [[Argument_Atkinson_2008_TIS\|Atkinson & Blanpied (2008)]]; [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall (2025b)]]; [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison & Wilson (2025)]] |
+> | **组织碎片化与异化防线** | 宏观交织与校内微观治理割裂共生，过度顺从企业短期需求面临沦为“代工车间”与知识产权冲突风险 | 高校内部治理改革、产学协议谈判与学术自由防御 | Atkinson & Blanpied; Boccanfuso & Hall; [[Argument_Gilison_Wilson_2025_UniversityStartups\\\\|Gilison & Wilson (2025)]] |
 
 ---
 
