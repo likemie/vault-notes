@@ -8,7 +8,7 @@ aliases:
 summary: "19世纪下半叶在美国以普鲁士洪堡模式为母本并融合本土赠地实用传统而崛起的现代高等教育核心组织形态；二战后经万尼瓦尔·布什报告奠定联邦常规资助基础，依托同行评议、研究生院前沿科研共生以及去中心化分层竞争，成为国家科学技术与创新系统的战略中枢。"
 type: concept
 domain: "higher-education"
-related_count: 32
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

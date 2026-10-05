@@ -5,6 +5,50 @@
       "path": "wiki/arguments/journal-articles/Bulletin of Chinese Academy of Sciences/Argument_Fan_2026_BCAS.md"
     },
     {
+      "basename": "Fan_2026_BCAS",
+      "path": "sources/Fan_2026_BCAS.md"
+    },
+    {
+      "basename": "President's Science Advisory Committee",
+      "path": "wiki/facts/us/President's Science Advisory Committee.md"
+    },
+    {
+      "basename": "Restoring Gold Standard Science Executive Order",
+      "path": "wiki/facts/us/Restoring Gold Standard Science Executive Order.md"
+    },
+    {
+      "basename": "Generative Artificial Intelligence",
+      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
+    },
+    {
+      "basename": "Office of Science and Technology Policy",
+      "path": "wiki/facts/us/Office of Science and Technology Policy.md"
+    },
+    {
+      "basename": "Big Science",
+      "path": "wiki/concepts/science-policy/Big Science.md"
+    },
+    {
+      "basename": "Donald Stokes",
+      "path": "wiki/persons/us/Donald Stokes.md"
+    },
+    {
+      "basename": "Sputnik Shock 1957",
+      "path": "wiki/facts/us/Sputnik Shock 1957.md"
+    },
+    {
+      "basename": "Social Contract of Science",
+      "path": "wiki/theories/science-policy/Social Contract of Science.md"
+    },
+    {
+      "basename": "National Science Foundation",
+      "path": "wiki/facts/us/National Science Foundation.md"
+    },
+    {
+      "basename": "National Institutes of Health",
+      "path": "wiki/facts/us/National Institutes of Health.md"
+    },
+    {
       "basename": "Office of Naval Research",
       "path": "wiki/facts/us/Office of Naval Research.md"
     },
@@ -35,10 +79,6 @@
     {
       "basename": "Research Security",
       "path": "wiki/concepts/university-industry-collaboration/Research Security.md"
-    },
-    {
-      "basename": "Social Contract of Science",
-      "path": "wiki/theories/science-policy/Social Contract of Science.md"
     },
     {
       "basename": "Research Universities",
@@ -159,46 +199,6 @@
     {
       "basename": "Total Quality Management",
       "path": "wiki/concepts/educational-leadership-administration/Total Quality Management.md"
-    },
-    {
-      "basename": "Learning by Doing",
-      "path": "wiki/concepts/instruction-pedagogy/Learning by Doing.md"
-    },
-    {
-      "basename": "Chris Freeman",
-      "path": "wiki/persons/uk/Chris Freeman.md"
-    },
-    {
-      "basename": "Big Science",
-      "path": "wiki/concepts/science-policy/Big Science.md"
-    },
-    {
-      "basename": "World Bank",
-      "path": "wiki/facts/global/World Bank.md"
-    },
-    {
-      "basename": "Historical-Comparative Method",
-      "path": "wiki/methods/qualitative/Historical-Comparative Method.md"
-    },
-    {
-      "basename": "OECD",
-      "path": "wiki/facts/global/OECD.md"
-    },
-    {
-      "basename": "Robin Alexander",
-      "path": "wiki/persons/uk/Robin Alexander.md"
-    },
-    {
-      "basename": "Evolutionary Economics",
-      "path": "wiki/theories/political-economy-geopolitics/Evolutionary Economics.md"
-    },
-    {
-      "basename": "Systems of Innovation",
-      "path": "wiki/theories/university-industry-collaboration/Systems of Innovation.md"
-    },
-    {
-      "basename": "Technology Transfer",
-      "path": "wiki/concepts/university-industry-collaboration/Technology Transfer.md"
     }
   ],
   "omittedPaths": [],
