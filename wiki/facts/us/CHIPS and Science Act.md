@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Innovation Hub]]"
+  - "[[Public Value]]"
   - "[[Paradigm]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[STEM Education]]"
@@ -41,9 +42,11 @@ related_concepts:
   - "[[Learning by Doing]]"
   - "[[Presence]]"
   - "[[Modern Industrial Policy]]"
-  - "[[Public Value]]"
 related_facts:
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
+  - "[[Inflation Reduction Act]]"
+  - "[[International Reading Association]]"
+  - "[[Infrastructure Investment and Jobs Act]]"
   - "[[National Science Foundation]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[Department of Energy]]"
@@ -54,12 +57,10 @@ related_facts:
   - "[[America COMPETES Act]]"
   - "[[October 2022 US Semiconductor Export Controls]]"
   - "[[European Chips Act]]"
-  - "[[Inflation Reduction Act]]"
-  - "[[Infrastructure Investment and Jobs Act]]"
 related_arguments:
   - "[[Argument_Brint_2023_IHE]]"
-  - "[[Argument_Bown_2024_JEP]]"
   - "[[Argument_Reynolds_2024_JICT]]"
+  - "[[Argument_Bown_2024_JEP]]"
   - "[[Argument_Ramming_2025_CorporateSupport]]"
   - "[[Argument_Byrne_2025_InnovationCenters]]"
   - "[[Argument_Murphy_2026_JTS]]"
@@ -84,7 +85,7 @@ updated: 2026-10-06
 >   1. **制造产能严重[[Attrition|流失]]与断链危机** 美国在全球半导体制造产能中的份额从 1990 年的 37% 骤降至 2020 年的 12%，在 10nm 以下尖端先进制程制造上完全依赖东亚（台湾占 90%+、韩国占其余），2020–2022 年新冠疫情引发的芯片大短缺重创美国汽车与工业制造；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 91–92, 95)]]
 >   2. **地缘对抗与战略性产业政策转向** 结束美国长达四十年的以市场为导向的新自由主义传统，由联邦政府公开挑选重点前沿技术直接注入资金，以应对中国在科研产出、半导体自给率提升及关键技术领域的战略赶超；[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–237)]]
 >   3. **区域创新不均衡与产学脱节** 传统联邦研发资源高度集中于东西两岸，中西部与内陆地区产业基础薄弱，迫切需要通过国家级立法重塑[[Innovation Ecosystem|区域创新生态]]。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 133–138)]]
-> - **制度位置** 标志着美国冷战后最大规模的联邦直接产业干预转向，与《[[Inflation Reduction Act|通胀削减法案]]》（Inflation Reduction Act, IRA）、《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》（Infrastructure Investment and Jobs Act, IIJA）及 2022 年 10 月出口管制新规共同构成了美国现代科技与国家安全治理的支柱体系。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 2–3)]]
+> - **制度位置** 标志着美国冷战后最大规模的联邦直接产业干预转向，与《[[Inflation Reduction Act|通胀削减法案]]》（Inflation Reduction Act, [[International Reading Association|IRA]]）、《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》（Infrastructure Investment and Jobs Act, IIJA）及 2022 年 10 月出口管制新规共同构成了美国现代科技与国家安全治理的支柱体系。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 2–3)]]
 
 ---
 
@@ -98,14 +99,14 @@ updated: 2026-10-06
 > - **适用对象** 晶圆制造巨头、先进封装商、材料设备供应商、[[Research Universities|研究型大学]]科研团队、区域创新联盟及劳动力培训机构。
 > - **政策工具**
 >   - **直接制造建厂补贴（390 亿美元）** 由商务部通过竞争性申请发放，单项目补贴最高可达资本支出的 15%，用于新建或扩建晶圆制造设施（其中专门划拨 20 亿美元用于保障汽车与军工成熟制程）；[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 7–8)]]
->   - **先进制造投资税收抵免（25% ITC）** 提供为期四年的 25% 联邦投资税收抵免（Section 48D），预估支持规模达 240 亿美元；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 97)]]
+>   - **先进制造投资税收抵免（25% ITC）** 提供为期四年的 25% 联邦投资税收抵免（Section 48D），预估支持规模达 240 亿美元；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 97–98)]]
 >   - **国家科研机构扩容与人才培养** 为 [[National Science Foundation|美国国家科学基金会]]（NSF）授权 810 亿美元预算并增设[[Directorate for Technology, Innovation and Partnerships|技术、创新与伙伴关系理事会]]（TIP），专门加速[[Use-Inspired Basic Research|应用启发的基础研究]]与成果产业转化；为[[Department of Energy|美国能源部]]（DOE）科学办公室授权 305 亿美元增量预算支持二十项前沿技术攻关；同时投入数十亿美元用于理科教育，并将国家研究生研究奖学金（GRFP）年度资助名额从 2000 名增加至 3000 名；[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
->   - **先进研发与劳动力发展专项（130 亿美元，含 110 亿直接研发）** 设立[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）、国家先进封装制造计划（NAPMP）、微电子计量网络及劳动力技能培训项目；汲取 [[Sematech]] 协同经验，系统性补齐工艺工程师储备；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 97–98)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
+>   - **先进研发与劳动力发展专项（130 亿美元，含 110 亿直接研发）** 设立[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）、国家先进封装制造计划（NAPMP）、微电子计量网络及劳动力技能培训项目；汲取 [[Sematech]] 协同经验，系统性补齐工艺工程师储备；[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
 >   - **区域技术枢纽（Tech Hubs 计划，超 100 亿美元）** 在传统研发落后地区设立国家级技术与[[Innovation Hub|创新中心]]；[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 133–134)]]
 >   - **国防与友岸外包专项基金** 设立 20 亿美元国防专用半导体基金与 5 亿美元国际技术安全与创新基金（ITSI Fund）。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 98)]]
 > - **约束机制**
 >   - **国家安全十年护栏条款（National Security Guardrails）** 凡接受直接补贴的企业，在获得资金后 10 年内严禁在关切国家（特别是中国）大幅扩建或升级先进制程（扩产比例严格限制在 5% 以内），违者全额收回资金；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 97)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 9)]]
->   - **社会政策附加条款与公共价值护栏（Conditionalities & Guardrails）** 申请直接补贴超过 1.5 亿美元的企业必须提交为员工及施工人员提供可负担高质量托儿服务的方案；必须与联邦政府约定在出现超额意外利润时进行利润分享；严禁将联邦补贴资金用于股票回购或股息分红；且工程施工需全额支付符合《戴维斯-培根法》（Davis-Bacon Act）的现行工资（Prevailing Wages）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
+>   - **社会政策附加条款与[[Public Value|公共价值]]护栏（Conditionalities & Guardrails）** 申请直接补贴超过 1.5 亿美元的企业必须提交为员工及施工人员提供可负担高质量托儿服务的方案；必须与联邦政府约定在出现超额意外利润时进行利润分享；严禁将联邦补贴资金用于股票回购或股息分红；且工程施工需全额支付符合《戴维斯-培根法》（Davis-Bacon Act）的现行工资（Prevailing Wages）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
 
 > [!citation-card] 芯片法案的资金规模与护栏约束
 > 2022 年《芯片与科学法案》包含 527 亿美元直接资金，其中 390 亿美元用于制造业激励，110 亿美元用于研发和劳动力发展；此外还提供 25% 的先进制造投资税收抵免。为了确保国家安全，法案设定了严格的护栏条款：禁止获得补贴的公司在未来 10 年内在被界定为关切国家（特别是中国）大幅扩大先进制程制造产能。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 97)]]
@@ -131,7 +132,7 @@ updated: 2026-10-06
 > - **发布主体** 美国国会两党（立法授权）与美国总统行政办公室。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
 > - **执行主体** 美国商务部（CHIPS 计划办公室）、[[National Science Foundation|美国国家科学基金会]]（[[National Science Foundation|NSF TIP]] 理事会）、美国国防部与美国国务院（ITSI 基金）。
 > - **适用对象** 英特尔（Intel）、[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（TSMC）、三星电子（Samsung）、美光科技（Micron）、格芯（GlobalFoundries）等制造企业及全美[[Research Universities|研究型大学]]。
-> - **政策工具** 直接资本资助、税收抵免、低息联邦贷款、公私合作研发联盟（NSTC）及技术枢纽建设。
+> - **政策工具** 直接资本资助、税收抵免、低息联邦贷款、公私合作研发联盟（[[National Science and Technology Council|NSTC]]）及技术枢纽建设。
 
 > [!pathways]- 实施路径
 > - **无国籍偏好的投资组合与资金池竞标** 商务部打破传统保护主义只补贴本土企业的偏狭，向所有在美投建尖端晶圆厂的全球领军厂商（台积电、三星、英特尔、美光）开放资金池竞标，采用投资组合进路分散技术与商业化风险。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4, 8)]]
@@ -174,7 +175,7 @@ updated: 2026-10-06
 
 > [!indicators]- 评价指标
 > - **投入指标** 527 亿美元直接资金、预估 240 亿美元税收抵免、吸引私人部门超 2000 亿美元配套建厂承诺。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 97–98)]]
-> - **过程指标** 晶圆厂开工率、环境评估审批速度、NSTC 产学联盟会员数与 [[Directorate for Technology, Innovation and Partnerships|TIP]] 资助覆盖率。
+> - **过程指标** 晶圆厂开工率、环境评估审批速度、[[National Science and Technology Council|NSTC]] 产学联盟会员数与 [[Directorate for Technology, Innovation and Partnerships|TIP]] 资助覆盖率。
 > - **结果指标** 美国先进制程全球制造份额、本土半导体高技能就业增长、对东亚单一节点依赖度下降。
 
 > [!finding-cards] 实施成效与结构反响
@@ -208,7 +209,7 @@ updated: 2026-10-06
 > > [!axis] 战略聚焦 vs 繁苛社会政策捆绑
 > > 争论补贴申请附加托儿服务、工会用工与利润分享等多元社会目标是否会拖累建厂效率。
 > >
-> > - **现代产业战略学者辩护** 强调通过托儿配套、现行工资与超额利润分享将公共资金转化为公共价值，有助于解决女性技术劳动力供给瓶颈并防范资本投机。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
+> > - **现代产业战略学者辩护** 强调通过托儿配套、现行工资与超额利润分享将公共资金转化为[[Public Value|公共价值]]，有助于解决女性技术劳动力供给瓶颈并防范资本投机。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
 > > - **产业评论界与企业批评** 批评繁冗的社会附加条款增加了外国制造企业（如[[Taiwan Semiconductor Manufacturing Corporation|台积电]]）在美建厂的协调难度与行政摩擦，可能延缓先进制程落地进度。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 8)]]
 
 > [!critique] 外部批评

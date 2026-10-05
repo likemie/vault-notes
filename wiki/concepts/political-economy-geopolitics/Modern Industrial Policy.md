@@ -6,10 +6,10 @@ aliases:
   - New Industrial Policy
   - Geopolitical Industrial Policy
   - 战略性现代产业政策
-summary: "现代产业政策区别于20世纪以纠正市场失灵与追求经济效率为单一导向的传统产业政策；它深度交织了国家安全、地缘政治对抗、供应链韧性与去风险目标，综合运用巨额直接补贴、前置研发资助、投资审查、单边及多边出口管制、友岸外包与战略矿产反制等全方位政策工具包。"
+summary: "现代产业政策区别于20世纪以纠正市场失灵与追求经济效率为单一导向的传统产业政策；它深度交织了国家安全、地缘政治对抗、供应链韧性与去风险目标，综合运用巨额直接补贴、前置研发资助、投资审查、单边及多边出口管制、友岸外包、制度化附加条件与战略矿产反制等全方位政策工具包。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 30
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -108,7 +108,7 @@ updated: 2026-10-06
 > - **先进制程技术与设备多边出口管制** 运用域外管辖与关键技术垄断（如极紫外光刻机、电子设计自动化软件），对竞争对手实施先进制程设备与算力芯片禁运，形成跨国管制联盟。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 98–100)]]
 > - **护栏条款与地缘排他性限制** 规定受补贴企业在获得资金后十年内不得在特定竞争对手国家大幅扩建先进半导体制造产能，强制跨国供应链与战略对手脱钩。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 97)]]
 > - **制度化过程治理准则（Process Criteria）** 政策成败高度取决于如何实施（How），包括维持部门内竞争性、以公共激励撬动私人投资（Crowding in）、避免扶植单一全国冠军的投资组合进路（Portfolio approach）、基于[[Learning by Doing|干中学]]（Learning by doing）的动态调整弹性、全程透明度、分里程碑监测评估（M&E）以及未履约资金追回（Clawbacks）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–5)]]
-> - **[[Market Shaping and Creating|市场塑造]]附加条件（Market-Shaping Conditionalities）** 打破单纯弥补[[Market Failure|市场失灵]]的被动定位，将巨额公共资助与企业提供托儿服务、分享超额意外利润、限制股票回购、支付盛行工资、雇佣注册学徒工及落实社区福利计划（Community Benefit Plans, CBPs）等[[Public Value|公共价值]]目标深度绑定。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–11)]]
+> - **[[Market Shaping and Creating|市场塑造]]附加条件（Market-Shaping Conditionalities）** 打破单纯弥补[[Market Failure|市场失灵]]的被动定位，将巨额公共资助与企业提供托儿服务、分享超额意外利润、限制股票回购、支付现行工资、雇佣注册学徒工及落实社区利益计划（Community Benefits Plan, CBP）等[[Public Value|公共价值]]目标深度绑定。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–11)]]
 > - **友岸外包与跨国供应链多元化** 推动封装测试与成熟制程产能在越南、哥斯达黎加、巴拿马等友好国家分散布局，防范地缘热点集中爆发导致的断链风险。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 98, 100)]]
 > - **战略关键原材料出口反制** 掌握上游关键矿产（如镓、锗）主导份额的经济体，通过出口配额与许可限制反制技术管制，形成地缘经济博弈应对机制。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 101)]]
 
@@ -189,7 +189,7 @@ updated: 2026-10-06
 > 探讨 21 世纪产业政策如何突破单纯关注资金规模的政策内容视角，转向以制度化过程准则规避政治寻租与挑选赢家陷阱。
 
 > [!claim] [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]
-> **过程治理与[[Market Shaping and Creating|市场塑造]]附加条件** 现代产业政策的成败并不单纯取决于财政投入规模，而关键取决于如何实施（How）。通过建立以行业竞争性、撬动私人投资（Crowding in）、避免单一国家冠军的投资组合进路（Portfolio approach）、[[Learning by Doing|干中学]]（Learning by doing）调整弹性、透明遴选、分阶段监测评估（M&E）以及追回机制（Clawbacks）为核心的过程准则，并结合托儿服务、超额利润分享、股票回购限制、盛行工资及社区福利计划等附加条件（Conditionalities），国家能够主动塑造具有[[Public Value|公共价值]]导向的市场，从而在防范政治俘获与官僚僵化的同时达成国家战略使命。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–5, 8–11)]]
+> **过程治理与[[Market Shaping and Creating|市场塑造]]附加条件** 现代产业政策的成败并不单纯取决于财政投入规模，而关键取决于如何实施（How）。通过建立以行业竞争性、撬动私人投资（Crowding in）、避免单一国家冠军的投资组合进路（Portfolio approach）、[[Learning by Doing|干中学]]（Learning by doing）调整弹性、透明遴选、分阶段监测评估（M&E）以及追回机制（Clawbacks）为核心的过程准则，并结合托儿服务、超额利润分享、股票回购限制、现行工资及社区利益计划等附加条件（Conditionalities），国家能够主动塑造具有[[Public Value|公共价值]]导向的市场，从而在防范政治俘获与官僚僵化的同时达成国家战略使命。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–5, 8–11)]]
 
 ---
 
@@ -225,7 +225,7 @@ updated: 2026-10-06
 > >
 > > - **新古典经济学派** 批判产业政策破坏自由贸易、推高纳税人负担与最终产品通胀成本。
 > > - **[[Argument_Bown_2024_JEP|Bown & Wang (2024)]]** 认为在地缘紧张背景下，空间分散与去风险是必不可少的战略安全保险支出。
->
+> >
 > > [!axis] 单边阵营技术封锁 vs 多边开放竞争
 > > 争论依靠出口管制与友岸外包能否真正维护长期技术领先，还是会反向倒逼竞争对手加速全栈自研。
 > >
@@ -237,17 +237,18 @@ updated: 2026-10-06
 > - **复合政策评估的因果识别障碍** 补贴、出口管制、投资审查与反垄断交织作用，学界难以精准评估单项政策的真实边际产出与社会福利效应。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 102)]]
 
 > [!warning] 适用局限
-> 现代产业政策需要极高的国家行政能力与精细的情报研判网络；若缺乏对全球[[Vertical Disintegration|纵向离散]]供应链各细分环节动态技术特征的深刻把握，巨额资金极易陷入寻租陷阱、无效重复建设与结构性产能过剩。
+> 现代产业政策需要极高的国家行政协调能力与精细的情报研判网络；若受制于行政许可迟滞（如 NEPA 环评与电网审批并网积压）或技术劳动力短缺，巨额资金极易陷入寻租陷阱、无效重复建设与结构性落地迟滞。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 13–15)]]
 
 ---
 
 ## 实证数据
 
-> [!ref-table]- 现代半导体产业政策主要经济体举措与成本对比
+> [!ref-table]- 现代半导体与绿色产业政策主要经济体举措与成本对比
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 经济体 | 政策载体 | 资金规模与核心工具 | 战略重点 | 来源 |
 > |---|---|---|---|---|
+> | 美国 | 现代产业战略三大立法 (2021–2022) | IIJA（1.2万亿）、CHIPS（527亿+25%税收抵免）、IRA（3690亿至1.2万亿税收抵免）；拉动逾 5000 亿美元私人投资 | 交通电网基建升级（BABA采购）、半导体先进制程回流与护栏约束、清洁能源技术中立与5倍工资学徒制乘数 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 6–13)]] |
 > | 美国 | [[CHIPS and Science Act\|芯片与科学法案]] (2022) | 527 亿美元直接拨款（390 亿制造补贴 + 110 亿研发）+ 25% 投资税收抵免 | 吸引先进制程回流本土、护栏条款限制对华扩产、[[October 2022 US Semiconductor Export Controls\|全面出口管制]] | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, pp. 97–99)]] |
 > | 欧盟 | [[European Chips Act\|欧洲芯片法案]] (2023) | 430 亿欧元公共与私人投资动员 | 吸引[[Taiwan Semiconductor Manufacturing Corporation\|台积电]]、格芯与意法半导体在德法建厂，力争 2030 年实现 20% 制造份额 | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, p. 100)]] |
 > | 中国 | [[China Integrated Circuit Industry Investment Fund\|国家大基金]] (一期/二期) | 数千亿元人民币股权投资基金 + 地方配套与税收优惠 | 突破卡脖子先进制程装备与材料、重点投资成熟制程产能替代 | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, pp. 93–94)]] |
@@ -255,9 +256,25 @@ updated: 2026-10-06
 
 ---
 
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关系说明 |
+> |:---|:---|:---|
+> | [[Market Shaping and Creating]] | 概念 | 现代产业政策运用需求侧采购、技术中立税收及附加条件主动塑造与共创公共价值导向市场。 |
+> | [[Public Value]] | 概念 | 现代产业战略通过托儿服务、学徒制与社区利益计划等护栏条款所追求的社会经济合法性基准。 |
+> | [[Learning by Doing]] | 概念 | 先进制程制造良率爬坡的组织学习机制，以及监管机构自适应优化审批规制的过程准则。 |
+> | [[Vertical Disintegration]] | 概念 | 全球多阶段高度细分的产业链组织形态，构成现代产业政策难以维系封闭国家冠军的结构约束。 |
+> | [[CHIPS and Science Act]] | 事实 | 现代产业政策聚焦先进制程制造回流与前沿研发战略纵深的当代核心法案。 |
+> | [[Inflation Reduction Act]] | 事实 | 现代产业政策聚焦清洁能源转型、技术中立抵免与工会学徒制乘数的绿色转型法案。 |
+> | [[Infrastructure Investment and Jobs Act]] | 事实 | 通过 BABA 采购要求与 MIAO 阶段性豁免机制以基建需求拉动本土制造的基础法案。 |
+
+---
+
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 系统构建了现代产业政策的[[Analytic Framework|分析框架]]，剖析了半导体全球供应链[[Vertical Disintegration|纵向离散]]背景下大国博弈的政策工具组合、经济代价与非预期后果。
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 阐释美国通过《[[CHIPS and Science Act|芯片与科学法案]]》实现科技产业政策[[Paradigm|范式]]转向的制度动因，分析国家定向资助与前沿技术竞争对[[Research Universities|研究型大学]]科研与 [[STEM Education|STEM]] 教育的深远影响。
-> - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 从政策实施与治理机制视角剖析拜登政府现代产业战略，系统提炼保障产业战略有效落地的七项过程治理准则，并基于《[[CHIPS and Science Act|芯片与科学法案]]》、《[[Inflation Reduction Act|通胀削减法案]]》与《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》阐明护栏条款与[[Market Shaping and Creating|市场塑造]]附加条件的设计逻辑与现实边界。
+> - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 从政策实施与治理机制视角剖析拜登政府现代产业战略，系统提炼保障产业战略有效落地的七项过程治理准则，并基于三大联邦法案阐明护栏条款与[[Market Shaping and Creating|市场塑造]]附加条件的设计逻辑与现实边界。

@@ -8,10 +8,10 @@ aliases:
   - market shaping
   - market creating
   - market co-creation
-summary: "指国家与公共机构不局限于事后修复既有市场失灵，而是通过战略投资、需求侧公共采购、标准规制与前沿引领，依托公共动态能力主动构筑、从零创造并共同重塑新经济与技术景观的公共政策范式。"
+summary: "指国家与公共机构不局限于事后修复既有市场失灵，而是通过战略投资、需求侧公共采购、标准规制、制度化附加条件与前沿引领，依托公共动态能力主动构筑、从零创造并共同重塑新经济、社会与技术景观的公共政策范式。"
 type: concept
 domain: "science-policy"
-related_count: 40
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -21,6 +21,7 @@ tags:
   - innovation-policy
   - public-value
   - demand-side-policy
+  - industrial-policy
 related_concepts:
   - "[[Innovation Policy Paradigms]]"
   - "[[Paradigm]]"
@@ -28,6 +29,7 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Mission-Oriented Innovation Policy]]"
+  - "[[Modern Industrial Policy]]"
   - "[[Big Science]]"
   - "[[Patient Capital]]"
   - "[[Hypothesis]]"
@@ -64,14 +66,18 @@ related_facts:
   - "[[Fairchild Semiconductor]]"
   - "[[Brookings Institution]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[CHIPS and Science Act]]"
+  - "[[Inflation Reduction Act]]"
+  - "[[Infrastructure Investment and Jobs Act]]"
 related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Schnee_1978_RP]]"
+  - "[[Argument_Reynolds_2024_JICT]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Market Shaping and Creating
@@ -81,7 +87,7 @@ updated: 2026-10-05
 ## 定义
 
 > [!def] 核心定义
-> **市场塑造与市场共创（Market Shaping and Creating）**是指一种主张国家与公共机构不仅是被动的规则制定者或事后市场修复者（Market Fixer），而是积极承担早期极高技术与财务风险、通过设定公共议程、前沿研发投入、需求侧战略采购与监管制度主动构筑并共同创造全新市场与技术形态的[[Innovation Policy Paradigms|创新政策范式]]。该[[Paradigm|范式]]突破了新古典经济学仅在外部性、公共品或信息不对称等[[Market Failure|市场失灵]]出现时才允许国家介入的静态边界，强调通过创造具有变革性的[[Public Value|公共价值]]（Public Value）与培育[[Public Dynamic Capabilities|公共动态能力]]，主动引领经济增长与技术演进方向。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–807)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]
+> **市场塑造与市场共创（Market Shaping and Creating）**是指一种主张国家与公共机构不仅是被动的规则制定者或事后市场修复者（Market Fixer），而是积极承担早期极高技术与财务风险、通过设定公共议程、前沿研发投入、需求侧战略采购、规制重塑与制度化附加条件（Conditionalities）主动构筑并共同创造全新市场与技术形态的[[Innovation Policy Paradigms|创新政策范式]]。该[[Paradigm|范式]]突破了新古典经济学仅在外部性、公共品或信息不对称等[[Market Failure|市场失灵]]出现时才允许国家介入的静态边界，强调通过创造具有变革性的[[Public Value|公共价值]]（Public Value）与培育[[Public Dynamic Capabilities|公共动态能力]]，主动引领经济增长与社会技术转型方向。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–807)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–13)]]
 
 > [!concept-lens] 概念透镜
 > - **核心含义** 指向公共部门在技术探索、产业链重构、需求培育与组织学习全过程中发挥前瞻性引领与共同创造作用的制度机制。
@@ -110,13 +116,13 @@ updated: 2026-10-05
 > [!contrast-table] 市场修复[[Paradigm|范式]]与市场塑造共创范式辨析
 > | 维度 | 市场修复范式（Market Fixing） | 市场塑造与共创范式（Market Shaping & Creating） |
 > |---|---|---|
-> | **理论渊源** | 新古典福利经济学、公共选择理论。 | [[Evolutionary Economics\|演化经济学]]、[[Systems of Innovation\|创新系统理论]]、韦伯国家能力理论。 |
-> | **国家角色** | 修正外部性、提供公共品、弥补[[Market Failure\|市场失灵]]的事后“修补者”。 | 确立转型方向、承担早期风险、共创技术景观的“引领者”与学习伙伴。 |
+> | **理论渊源** | 新古典福利经济学、公共选择理论。 | [[Evolutionary Economics\|演化经济学]]、[[Systems of Innovation\|创新系统理论]]、制度经济学。 |
+> | **国家角色** | 修正外部性、提供公共品、弥补[[Market Failure\|市场失灵]]的事后“修补者”。 | 确立转型方向、承担早期风险、共创技术景观的“引领者”与规制协调者。 |
 > | **政策目标** | 追求配置效率（Allocative Efficiency），抚平短期市场摩擦。 | 追求动态效率（Dynamic Efficiency），开辟全新[[Technological Trajectories\|技术轨道]]与产业生态。 |
 > | **需求侧工具** | 将公共采购视为中性的行政物资买入过程。 | 将前沿公共采购与示范工程作为拉动技术外溢与供应链学习的核心引擎。 |
 > | **对私人投资影响** | 担忧国家投资会产生挤出效应（Crowding out）。 | 通过明确长期公共需求与增长空间产生挤入效应（Crowding in）。 |
 > | **评估标准** | 静态[[Cost-Benefit Analysis\|成本收益分析]]（CBA）、净现值核算。 | 动态[[Public Value\|公共价值创造]]、系统溢出效应与反思性组织学习。 |
-> | **公私关系** | 简单的去风险（De-risking）与单向资金补贴。 | 风险共担与收益共享（Risk and Reward Sharing）的共创伙伴关系。 |
+> | **公私关系** | 简单的去风险（De-risking）与单向资金补贴。 | 风险共担、收益对等共享与嵌入附加条件（Conditionalities）的社会契约伙伴关系。 |
 
 ---
 
@@ -126,6 +132,7 @@ updated: 2026-10-05
 > - **方向性战略投资（Directional Strategic Investment）** 公共机构通过战略性[[Patient Capital|耐性资本]]（Patient Capital）向具有高度不确定性的前沿领域注资，拉动早期技术探索与基础科学突破。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–808)]]
 > - **需求侧战略采购与外溢拉动（Strategic Procurement & Demand-side Pull）** 运用大规模公共采购为新兴颠覆性技术提供早期首购保障，推动企业在满足高标准公共需求的过程中实现技术突破与供应链学习（如冷战美国国防采购外溢与[[CERN|欧洲核子研究组织]] CERN 采购实践）。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 797)]]
 > - **市场结构重塑与首发托底（Market Structure Orchestration & First-Buyer Guarantee）** 国家在商业化元年通过 100% 采购托底从无到有创造市场，并坚持基于前沿技术指标而非垄断规模向敏捷新创企业发包，打破既有寡头垄断并催生高度竞争的产业生态（如美国国防采购培育非电子管新创企业占领近七成半导体市场）。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–9)]]
+> - **制度化附加条件与公共价值护栏（Contractual Conditionalities & Guardrails）** 在实施大规模公共资助或税收抵免时，将托儿服务、现行工资、学徒制配额、超额利润分享、股票回购限制及社区利益计划法定嵌入合同契约，将公共投资转化为塑造包容性与高质量就业市场的操作性杠杆。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–13)]]
 > - **全价值链协同培育（Value Chain Orchestration）** 政策不仅支持上游基础研究，更贯穿中游技术试验、下游公共采购与应用场景示范，打通跨部门创新网络。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–811)]]
 > - **动态学习与反思型评估（Dynamic Learning and Reflexive Evaluation）** 摒弃静态成本收益核算，建立允许试错、鼓励组合式实验并持续反思调整的动态评估机制。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–810)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 797–798)]]
 > - **收益与风险结构对称（Equitable Risk-Reward Distribution）** 确保公共部门在承担早期颠覆性技术研发失败风险的同时，通过股权、特许权使用费或公共品定价约束等机制分享创新成功带来的社会回报。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
@@ -176,6 +183,16 @@ updated: 2026-10-05
 
 ---
 
+### 命题五　制度化附加条件与护栏条款是现代产业战略将市场塑造转化为公共价值的操作性契约杠杆
+
+> [!concept-lens] 市场塑造的操作化契约治理维度
+> 探讨现代国家如何超越单纯的资金供给，通过具有法律约束力的附加条件引导市场向包容性与公共价值方向演进。
+
+> [!claim] [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]
+> **附加条件契约与公共价值护栏** 埃利萨贝思·雷诺兹（Elisabeth B. Reynolds）实证考察美国三大现代产业法案指出，市场塑造不仅需要明确方向，更需要依托微观契约治理机制（The "How"）。在《芯片与科学法》（CHIPS Act）与《通胀削减法》（IRA）中，政府通过将托儿服务（针对 >1.5 亿美元资助）、现行工资与学徒制（5 倍税收抵免乘数）、超额利润分成、禁止股票回购以及占 20% 权重的社区利益计划（CBP）作为资助前置条件，从制度层面确保了公共投资在扩大产能的同时塑造了高质量劳工与社区利益市场，防范了公共资金沦为私营股东的金融化投机工具。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–13)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 市场塑造与共创核心命题矩阵
@@ -185,6 +202,7 @@ updated: 2026-10-05
 > | **风险收益对称机制** | 批判风险社会化与收益私有化，构建多元公共回报分享机制 | 创新红利被少数私人寡头垄断 | 同上（2018, pp. 809–810） |
 > | **公共能力制度基石** | 三层公共动态能力是防止利益俘获与实现敏捷学习的前提 | 官僚短视、利益游说与规划短期化 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018)]] |
 > | **首发创设与结构重塑** | 100% 早期采购托底创造初始市场，技术择优打破垄断格局 | 早期商业化买单缺失与成熟寡头垄断锁定 | [[Argument_Schnee_1978_RP\|Schnee (1978)]] |
+> | **附加条件契约治理** | 法定附加条件与护栏条款将公共投资转化为包容性市场与公共价值 | 公共资金沦为企业无偿输血与金融化套利 | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] |
 
 ---
 
@@ -196,6 +214,7 @@ updated: 2026-10-05
 > - **1980s–1990s — [[Evolutionary Economics|演化经济学]]与[[Systems of Innovation|创新系统]]崛起** 弗里曼（Freeman）、[[Bengt-Åke Lundvall|伦德瓦尔]]（Lundvall）与纳尔逊（Nelson）提出[[National Innovation System|国家创新系统]]理论，指出系统失灵（System Failures）与机构协同的重要性。
 > - **2013–2016 — 市场塑造与共创[[Paradigm|范式]]奠基** [[Mariana Mazzucato|玛丽安娜·马祖卡托]]系统阐发企业型国家理论，正式提出市场塑造与市场共创概念，倡导从被动修补转向主动创造。
 > - **2018 — 融入使命导向政策全流程与[[Public Dynamic Capabilities|公共动态能力]]综合** [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]将市场塑造[[Operationalization|操作化]]为四层使命金字塔与风险收益对称工具；[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]进一步将市场塑造确立为使命政策的两大支柱之一，并论证其依赖于国家政治合法性、政策协同组合与行政流动性三层公共动态能力以及[[Lead-and-Learn Paradigm|引领与学习范式]]。
+> - **2024 — 现代产业战略中的制度化附加条件与自适应契约治理** [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] 将市场塑造落地为现代产业战略的具体实施准则，实证阐明了美国三大法案如何通过 BABA 本土采购拉动、技术中立税收激励与托儿/学徒制/利润分享等制度化附加条件，将市场塑造从理论倡导转化为具法律约束力的公私社会契约。
 
 ---
 
@@ -208,6 +227,12 @@ updated: 2026-10-05
 > >
 > > - **Buchanan (2003)** 认为针对特定行业或企业的精准干预必然导致利益集团游说与政策扭曲。
 > > - **[[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]; [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]** 强调市场塑造以宏大社会挑战为中心，跨越单一行业边界，依赖透明的组合管理、战略采购与自下而上的试错机制。
+>
+> > [!axis] 附加条件的复合社会目标 vs 产业执行效率
+> > 争论在市场塑造政策中捆绑托儿、工会工资与社区投资等多重社会目标是否会削弱制造业资本的国际竞争力。
+> >
+> > - **产业资本批评派** 认为繁杂的社会责任条款增加了企业的行政与合规负担，可能延缓产能扩张速度。
+> > - **[[Argument_Reynolds_2024_JICT|Reynolds (2024)]]** 指出若不解决劳工照护与技能供给瓶颈，产能扩张必然不可持续；通过附加条件将公共投资转化为对劳工与社区的长期支持，是确保市场塑造产生持久公共价值的制度基石。
 
 > [!warning] 适用局限
 > 市场塑造与共创政策高度依赖具备高超专业能力、试错自主权与[[Reflexive Governance|反思性治理]]文化的探索型公共组织；若公共官僚机构陷入[[Complexity Paradox|复杂性悖论]]与条块分割，缺乏战略决断与反思能力，该[[Paradigm|范式]]可能退化为低效行政命令或被强势既得利益集团俘获。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791, 796–798)]]
@@ -222,6 +247,8 @@ updated: 2026-10-05
 > |:-----|:-----|:-----------|
 > | [[Demand-side Innovation Policy]] | 概念 | 市场塑造与共创在需求端落地的核心政策工具箱与首购机制。 |
 > | [[Mission-Oriented Innovation Policy]] | 概念 | 市场塑造与共创是使命导向政策区别于传统产业政策的核心经济学支柱。 |
+> | [[Modern Industrial Policy]] | 概念 | 现代产业政策运用需求侧采购、税收激励与附加条件进行市场塑造与公共价值创造。 |
+> | [[Public Value]] | 概念 | 衡量市场塑造与共创成效超越单纯 GDP 与商业利润的核心价值基准。 |
 > | [[Learning Economy]] | 理论 | 市场创造通过托底首发规模释放 20%–30% 成本下降的学习曲线机制。 |
 > | [[Demonstration Effect]] | 概念 | 市场塑造中公共采购与标杆示范向民用商业市场传导信任的核心扩散机制。 |
 > | [[Public Dynamic Capabilities]] | 概念 | 支撑公共部门有效实施市场塑造并防范利益俘获的核心组织技能与例规。 |
@@ -230,7 +257,9 @@ updated: 2026-10-05
 > | [[Directionality of Innovation]] | 概念 | 市场塑造所依据的前沿规范价值目标与演化路径选择。 |
 > | [[Three Generations of Mission-Oriented Policy]] | 理论 | 揭示市场塑造在追赶、[[Big Science\|大科学]]与社会技术转型三代历史中的演进理论。 |
 > | [[Patient Capital]] | 概念 | 支撑早期市场塑造与前沿技术孵化不可或缺的长期战略性公共资本。 |
-> | [[Public Value]] | 概念 | 衡量市场塑造与共创成效超越单纯 GDP 与商业利润的核心价值基准。 |
+> | [[CHIPS and Science Act]] | 事实 | 嵌入托儿服务、超额利润分享与股票回购限制等市场塑造护栏的现代产业法案。 |
+> | [[Inflation Reduction Act]] | 事实 | 采用技术中立与 5 倍现行工资/学徒制乘数塑造清洁能源市场的现代产业法案。 |
+> | [[Infrastructure Investment and Jobs Act]] | 事实 | 通过 BABA 与 MIAO 机制以公共采购需求重塑本土工业基础的现代基建法案。 |
 > | [[DARPA]] | 事实 | 通过早期高风险研发与前沿军事采购塑造民用互联网市场的典型历史典范。 |
 > | [[Brookings Institution]] | 事实 | 出版关于半导体政府采购重塑产业竞争结构奠基专著（Tilton 1971）的权威智库。 |
 > | [[UN Sustainable Development Goals]] | 事实 | 当代全球推动绿色与包容转型市场塑造的最统领性战略罗盘。 |
@@ -243,5 +272,4 @@ updated: 2026-10-05
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 系统论证市场塑造与共创[[Paradigm|范式]]在应对重大社会挑战中的核心机制，提出超越[[Market Failure|市场失灵]]的[[Public Value|公共价值]]与评估框架。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 将市场塑造确立为使命政策两大支柱之一，论证其依托需求侧战略采购拉动技术外溢的机制，并提出三层[[Public Dynamic Capabilities|公共动态能力]]与[[Lead-and-Learn Paradigm|引领与学习范式]]作为制度保障。
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统评估美国空间与国防项目对半导体和计算机等高科技产业的需求侧塑造机制，实证揭示早熟集成电路 100% 采购托底如何创造初始市场、释放 20%–30% 的[[Learning Economy|学习经济]]效应并扶植新进入者重塑竞争性格局。
-
-
+> - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 结合美国现代产业战略实施实践，实证阐述如何通过 BABA 采购拉动、技术中立税收激励与托儿/学徒制/利润分享等制度化附加条件将市场塑造转化为具法律约束力的公私社会契约。

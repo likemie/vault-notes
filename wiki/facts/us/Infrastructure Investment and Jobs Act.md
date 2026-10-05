@@ -13,7 +13,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
   - theme/infrastructure
   - policy/economic-development
 related_concepts:
+  - "[[Going Native]]"
   - "[[Total Factor Productivity]]"
   - "[[Modern Industrial Policy]]"
   - "[[Public Value]]"
@@ -36,6 +37,7 @@ related_persons: []
 related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[Inflation Reduction Act]]"
+  - "[[International Reading Association]]"
   - "[[Department of Energy]]"
 related_arguments:
   - "[[Argument_Reynolds_2024_JICT]]"
@@ -55,7 +57,7 @@ updated: 2026-10-06
 > - **发布时间 / 发布主体** 2021 年 11 月 15 日由美国总统乔·拜登（Joe Biden）签署生效（公法第 117-58 号）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
 > - **适用地区 / 对象** 全美各州及地方政府、交通运输管理部门、公用事业与电力公司、宽带运营商、工程承包商及设备供应商。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11–13)]]
 > - **问题背景** 美国传统物理基础设施（道路、桥梁、水利、公共交通与电网）年久失修，宽带接入存在显著的城乡与阶层数字鸿沟，严重制约国家长期生产率；同时，公共基础设施采购长期依赖海外供应链，削弱了本土工业基础与应急抗风险能力。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 6, 11–12)]]
-> - **制度位置** 拜登政府现代美国产业战略（Modern American Industrial Strategy）的首个立法支柱，为后续《[[CHIPS and Science Act|芯片与科学法案]]》（CHIPS and Science Act）与《[[Inflation Reduction Act|通胀削减法案]]》（Inflation Reduction Act, IRA）的先进制造业落地提供基础物理与数字网络支撑。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 2, 11–13)]]
+> - **制度位置** 拜登政府现代美国产业战略（Modern American Industrial Strategy）的首个立法支柱，为后续《[[CHIPS and Science Act|芯片与科学法案]]》（CHIPS and Science Act）与《[[Inflation Reduction Act|通胀削减法案]]》（Inflation Reduction Act, [[International Reading Association|IRA]]）的先进制造业落地提供基础物理与数字网络支撑。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 2, 11–13)]]
 
 ---
 
@@ -74,7 +76,7 @@ updated: 2026-10-06
 > - **约束机制** 实行严格的联邦资助合规审计；豁免申请需在公共网站公示并接受社会评议，确保采购决策的高度透明与可追责性。
 
 > [!citation-card] BABA 采购要求与 MIAO 阶段性豁免设计
-> 虽然交通或通信基础设施投资本身并不直接等同于产业政策，但法案所包含的《建设美国、购买美国法》（BABA）以及所设立的美国制造办公室（MIAO）使其具备了明确的产业战略属性。BABA 将本土制造要求拓展到更广泛的建材与制成品……然而全球供应链的本土化转型需要时间且在部分低附加值产品上经济不可行；为此，MIAO 建立了阶段性豁免与定期复核机制，既向市场释放长期的本土采购信号，又避免了教条式硬脱钩导致的工程停摆。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
+> 虽然交通或通信基础设施投资本身并不直接等同于产业政策，但法案所包含的《建设美国、购买美国法》（BABA）以及所设立的美国制造办公室（MIAO）使其具备了明确的产业战略属性。BABA 将本土制造要求拓展到更广泛的建材与制成品……然而全球供应链的[[Going Native|本土化]]转型需要时间且在部分低附加值产品上经济不可行；为此，MIAO 建立了阶段性豁免与定期复核机制，既向市场释放长期的本土采购信号，又避免了教条式硬脱钩导致的工程停摆。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
 >
 > *While the IIJA expanded the traditional view of infrastructure... these investments could be viewed as standard investments... However, what makes the IIJA an explicit part of the Biden industrial strategy is the Build America, Buy America Act (BABA)... To address these realities, agencies may grant waivers to funding recipients (which are reviewed by the MIAO) and put in place for a negotiated period of time with periodic reviews.*
 
@@ -101,14 +103,14 @@ updated: 2026-10-06
 > [!pathways]- 实施路径
 > - **资金分发与地方项目承接** 联邦通过成熟的公式拨款通道将巨额资金下拨给各州与地方政府，由地方编制基础设施翻新与扩建工程清单。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11–12)]]
 > - **需求侧标准撬动供应链重塑** 借助 BABA 法案对建材与工业制成品的严格本土含量要求，促使跨国设备商（如充电桩与光纤制造企业）在美国本土投资设厂或寻找本地配套供应商。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
-> - **动态豁免与持续调整** MIAO 设立在线透明公示系统，对市场暂无法稳定供应的物资发放有明确期限的豁免，并在豁免期内持续监测本土产能爬坡进度，形成需求牵引、适度缓冲与渐进本土化的治理机制。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 13)]]
+> - **动态豁免与持续调整** MIAO 设立在线透明公示系统，对市场暂无法稳定供应的物资发放有明确期限的豁免，并在豁免期内持续监测本土产能爬坡进度，形成需求牵引、适度缓冲与渐进[[Going Native|本土化]]的治理机制。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 13)]]
 
 ---
 
 ## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
-> - **高权力 · 高利益 — 关键行动者** 联邦交通部（DOT）、能源部（DOE）、白宫美国制造办公室（MIAO）与各州交通运输局 — 掌控万亿美元级基建资金分配、项目立项审批与采购合规裁定。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11–13)]]
+> - **高权力 · 高利益 — 关键行动者** 联邦交通部（DOT）、能源部（[[Department of Energy|DOE]]）、白宫美国制造办公室（MIAO）与各州交通运输局 — 掌控万亿美元级基建资金分配、项目立项审批与采购合规裁定。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11–13)]]
 > - **高权力 · 低利益 — 潜在制约者** 联邦环境监管机构与地方土地规划审批机构 — 负责《国家环境政策法》（National Environmental Policy Act, NEPA）环境影响评估与许可发放，易因审批繁复造成工期延误。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 14)]]
 > - **低权力 · 高利益 — 受影响与执行群体** 本土工程承包商、建筑工人工会、建材制造商与偏远缺乏宽带接入的社区居民 — 直接承担实体工程施工，分享高薪就业与现代化基础设施红利。
 > - **低权力 · 低利益 — 边缘行动者** 依赖海外低成本材料进口的小型分包商 — 面临合规成本上升与材料替代压力。
@@ -119,7 +121,7 @@ updated: 2026-10-06
 > | 联邦主管部门 (DOT/DOE) | 财政资金 / 行政审批 | 落实国家重大基础设施升级、保障资金安全 | 主导推进 | 依托公式拨款与竞争性资助有序推进项目清单 |
 > | 白宫制造办公室 (MIAO) | 采购规则制定 / 豁免裁决 | 强化 BABA 本土采购比例、维护供应链稳定 | 规制平衡 | 建立阶段性透明豁免与定期复核机制 |
 > | 地方公用事业与承包商 | 施工能力 / 本土网络 | 控制工程建造成本、避免因缺料导致工期违约 | 支持但诉苦供应链 | 积极申请 BABA 豁免，呼吁放宽非关键零部件限制 |
-> | 本土重工业与工会 | 产业产能 / 组织动员 | 获取联邦基建订单、维护工会劳工就业岗位 | 强力支持本土化 | 游说国会收紧采购限制，监督项目使用本土钢材与建材 |
+> | 本土重工业与工会 | 产业产能 / 组织动员 | 获取联邦基建订单、维护工会劳工就业岗位 | 强力支持[[Going Native\|本土化]] | 游说国会收紧采购限制，监督项目使用本土钢材与建材 |
 
 > [!tension]- 联盟结构与冲突
 >
