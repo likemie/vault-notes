@@ -5,6 +5,14 @@
       "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ramming_2025_CorporateSupport.md"
     },
     {
+      "basename": "University-Industry Collaboration",
+      "path": "wiki/concepts/university-industry-collaboration/University-Industry Collaboration.md"
+    },
+    {
+      "basename": "Sponsored Research Agreement",
+      "path": "wiki/concepts/university-industry-collaboration/Sponsored Research Agreement.md"
+    },
+    {
       "basename": "March for Science 2017",
       "path": "wiki/facts/us/March for Science 2017.md"
     },
@@ -161,10 +169,6 @@
       "path": "wiki/facts/us/Bell Labs.md"
     },
     {
-      "basename": "University-Industry Collaboration",
-      "path": "wiki/concepts/university-industry-collaboration/University-Industry Collaboration.md"
-    },
-    {
       "basename": "Membership-based Research Consortium",
       "path": "wiki/concepts/university-industry-collaboration/Membership-based Research Consortium.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "National Innovation System",
       "path": "wiki/concepts/university-industry-collaboration/National Innovation System.md"
-    },
-    {
-      "basename": "Regional Innovation System",
-      "path": "wiki/concepts/university-industry-collaboration/Regional Innovation System.md"
     }
   ],
   "omittedPaths": [],
