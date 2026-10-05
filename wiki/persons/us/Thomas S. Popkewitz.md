@@ -9,7 +9,7 @@ summary: "美国著名比较教育学、课程史学与社会认识论泰斗，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 24
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Technical Rationality]]"
   - "[[Knowledge Framework]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Critical Pedagogy]]"
   - "[[Policy Borrowing]]"
   - "[[Determinism]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Thomas S. Popkewitz
@@ -126,7 +125,7 @@ updated: 2026-10-03
 > [!influence-path] 影响路径
 > - **理论路径** 将福柯[[Post-structuralism|后结构主义]]权力/[[Knowledge Framework|知识框架]]与后现代历史学熔铸为教育社会[[Epistemology|认识论]]，成为当代批判比较教育学、课程史学与教师政策研究的不可或缺的思想支柱。
 > - **方法路径** 倡导“关于现存概念的历史谱系学”与微观话语分类考古，展示了如何透过政策文本、教师评估表与教科书词汇，挖掘深层的社会[[Disciplina and Doctrina|规训]]隐秘逻辑。
-> - **比较视野** 长期推动欧美与跨大西洋比较研究，为理解全球化时代跨国智识网络与本土抵抗提供了超越简单“[[Structural Adjustment Programs|结构调整]]”的认识论微观解剖视角。
+> - **比较视野** 长期推动欧美与跨大西洋比较研究，为理解全球化时代跨国智识网络与本土抵抗提供了超越简单“结构调整”的认识论微观解剖视角。
 
 ---
 

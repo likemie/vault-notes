@@ -115,10 +115,10 @@ updated: 2026-10-01
 >
 > *The World Bank’s logic of analysis cannot be characterized as pluralistic. Although not free from tensions and contradictions, the organization is quite monolithic (Samoff, 1992, 1993)... there is a diversity of theoretical perspectives within the ranks of the World Bank’s researchers. But he points out that the organization’s logic is implacably applied in the context of its lending and that the workings of its managers in charge of lending are distant from the theoretical and empirical analysis of its researchers.*
 
-> [!citation-card] [[Structural Adjustment Programs|结构调整]]话语的概念模糊与政治强制
+> [!citation-card] 结构调整话语的概念模糊与政治强制
 > 结构调整通常被描绘为世界银行、[[International Monetary Fund|国际货币基金组织]]和其他金融机构推荐的一整套广泛政策。虽然世界银行试图在宏观稳定化、结构调整与部门调整政策之间做出概念区分，但正如萨莫夫所指出的，世界银行自身也承认，在日常实践中这些关键术语的通俗使用往往是模糊且前后矛盾的，但它们作为强制贷款附加条件的刚性却从未减弱。[[Argument_Olmos_Torres_2009_StateTheories|(Samoff, 1990; Olmos & Torres, 2009, p. 80)]]
 >
-> *Although the World Bank differentiates among stabilization, structural adjustment, and adjustment policies, it acknowledges that the general use of these terms "is often imprecise and inconsistent" (Samoff, 1990).*
+> *Although the World Bank differentiates among stabilization, [[Structural Adjustment Programs|Structural Adjustment]], and adjustment policies, it acknowledges that the general use of these terms "is often imprecise and inconsistent" (Samoff, 1990).*
 
 > [!citation-card] 卡扎米亚斯论卡诺伊与萨莫夫关于社会主义转型期国家政治的主导作用
 > 在第四代批判冲突与跨国宏观[[Paradigm|范式]]的代际演进中，卡扎米亚斯高度评价了卡诺伊与萨莫夫（Carnoy & Samoff, 1990）对第三世界转型国家（如中国、古巴、坦桑尼亚）的经验比较研究。该研究指出，在深刻的激进社会变革与过渡时期，推动教育体制发生结构性根本重塑的决定性力量，既非纯粹的经济基础再生产铁律，亦非资本主义世界市场规律，而是国家政权、政治路线与公共政策的主动作为。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 154–155)]]

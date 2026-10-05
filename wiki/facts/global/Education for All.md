@@ -11,9 +11,9 @@ subtype: policy
 region: "global"
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 23
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "UNESCO, World Bank, UNICEF, UNDP"
 tags:
@@ -24,7 +24,6 @@ tags:
   - theme/educational-development
   - theme/benchmarking
 related_concepts:
-  - "[[Structural Adjustment Programs]]"
   - "[[International Education]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Disciplina and Doctrina]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 
 # Education for All
@@ -69,7 +68,7 @@ updated: 2026-10-01
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1990 年 3 月由[[UNESCO\|联合国教科文组织]]（UNESCO）、[[World Bank\|世界银行]]（World Bank）、[[UNICEF\|联合国儿童基金会]]（UNICEF）与联合国开发计划署（UNDP）联合在泰国宗滴恩（Jomtien）世界全民教育大会上正式发布《世界全民教育宣言：满足基本学习需求》（*World Declaration on Education for All: Meeting Basic Learning Needs*）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **适用地区 / 对象** 全球联合国成员国，重点覆盖撒哈拉以南非洲、南亚与拉丁美洲等全球南方发展中国家。
-> - **问题背景** 经历 1980 年代第三世界[[Structural Adjustment Programs|结构调整]]与严重债务危机，全球逾 1 亿学龄儿童流落街头或失学，近 10 亿成年人处于文盲状态；伴随冷战对抗降温，国际社会迫切需要跨越意识形态对抗，就基础教育权利凝聚全球共识。
+> - **问题背景** 经历 1980 年代第三世界结构调整与严重债务危机，全球逾 1 亿学龄儿童流落街头或失学，近 10 亿成年人处于文盲状态；伴随冷战对抗降温，国际社会迫切需要跨越意识形态对抗，就基础教育权利凝聚全球共识。
 > - **制度位置** 战后[[International Education\|国际教育]]发展史上最具标志性的制度分水岭；它不仅促成国际受教育权从抽象伦理倡导向具体量化行动的转向，更标志着全球南方国家首次被统一纳入多边国际组织的量化指标规制网络，直接孕育了后续《达喀尔行动纲领》（2000）、联合国千年发展目标（MDGs）与 [[UN Sustainable Development Goals\|SDG 4]] 监测框架。
 
 ---
@@ -106,7 +105,7 @@ updated: 2026-10-01
 
 > [!actor-grid] 实施角色分工
 > - **多边协调与统计监测方** [[UNESCO|联合国教科文组织]]（UNESCO）掌握全球议程倡导权，下属统计研究所（[[UNESCO Institute for Statistics|UIS]]）统一制定跨国比较指标并发布《[[Global Education Monitoring Report|全球教育监测报告]]》（GEMR）。
-> - **财政筹资与条件规制方** [[World Bank|世界银行]]（World Bank）依托[[Poverty Reduction Strategy Papers|减贫战略文件]]（PRSPs）与[[Structural Adjustment Programs|结构调整]]项目，将 [[Exploratory Factor Analysis|EFA]] 目标转化为放贷前置约束，牢牢掌控资金流向。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **财政筹资与条件规制方** [[World Bank|世界银行]]（World Bank）依托[[Poverty Reduction Strategy Papers|减贫战略文件]]（PRSPs）与结构调整项目，将 [[Exploratory Factor Analysis|EFA]] 目标转化为放贷前置约束，牢牢掌控资金流向。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **实地弱势干预方** [[UNICEF|联合国儿童基金会]]（UNICEF）聚焦边缘化女童、战乱冲突与难民营地，在一线实地推动全纳教育方案。
 > - **国家履约主体** 受援国教育部与财政部，设立专门国家协调小组编制 EFA 计划，并向国际组织提供统计台账。
 
@@ -144,7 +143,7 @@ updated: 2026-10-01
 > - **历史性规模扩张** [[Exploratory Factor Analysis|EFA]] 成功将基础教育推向全球政治最高议程，驱动了人类历史上规模最宏大的跨国初等教育普及运动。
 > - **非意图后果（在校无学与质量危机）** 由于 EFA 设定的国际基准高度聚焦于校舍兴建、课本发放与入学人数等外显数量指标，完全忽略了黑板前的实际教学质量；数以亿计儿童虽然进入课堂却未能掌握基本读写算技能，造成全球性的“学习贫困（Learning Poverty）”危机。
 > - **量化治理规制转向** 施泰纳-哈姆西等指出，EFA 的关键历史意义在于促成了全球南方国家首次向国际组织量化指标霸权低头；它打破了主权国家原本多元的教育发展节律，将发展中国家牢牢锁定制式化的国际基准评价链条之中。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
-> - **外部依赖性借用的达标困境与主权自主对照** [[UNESCO|教科文组织]] 2006 年 EFA 全球监测报告与拉斯特等（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）的比较研究表明，被动接受国际金融机构[[Structural Adjustment Programs|结构调整]]贷款的第三世界国家普遍未能达成 2005 年预定指标；相反，古巴等将全民教育作为核心人道主义任务并拒绝新自由主义私有化借调的国家，反而取得了远超受援国的高完成度，表明主权国家内在的政治承诺而非外部依附性贷款才是实现全民教育的决定性因素。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 134)]]
+> - **外部依赖性借用的达标困境与主权自主对照** [[UNESCO|教科文组织]] 2006 年 EFA 全球监测报告与拉斯特等（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）的比较研究表明，被动接受国际金融机构结构调整贷款的第三世界国家普遍未能达成 2005 年预定指标；相反，古巴等将全民教育作为核心人道主义任务并拒绝新自由主义私有化借调的国家，反而取得了远超受援国的高完成度，表明主权国家内在的政治承诺而非外部依附性贷款才是实现全民教育的决定性因素。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 134)]]
 
 > [!stat-cards]- 核心数据
 > 覆盖全球 164 个签署国、设立 6 大量化全球目标、涉及数千亿美元跨国教育投资、促成全球失学儿童减少近 5,000 万人。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
@@ -167,13 +166,13 @@ updated: 2026-10-01
 > > - **[[World Bank|世界银行]]与捐助国** 认为国际指标基准是保障纳税人援助资金使用效率不可或缺的问责手段。
 > > - **后殖民批判学者** 指责西方大国将教育援助与新自由主义经济改革绑架，受援国为了达标不得不牺牲中高等教育与本土课程自主权。
 >
-> > [!axis] 外部[[Structural Adjustment Programs|结构调整]]市场化 vs 本土主权自决与人道主义国家动员
+> > [!axis] 外部结构调整市场化 vs 本土主权自决与人道主义国家动员
 > > 围绕如何切实达成全民教育目标，学界与政策界存在深刻的政治经济学分歧。
 > >
 > > - **新自由主义与金融外援路线（[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]）** 主张将全民[[Performance Indicators|教育指标]]作为结构调整贷款的前置条件，要求受援国缩减公共开支、推行私有化与成本分担，试图通过市场机制与外部援助资本实现指标扩张。
 > > - **[[Critical Theory|批判理论]]与主权自主路线（拉斯特等）** 援引[[UNESCO|教科文组织]] 2006 年 EFA 监测报告实证数据指出，外部结构调整反而重创了发展中国家的公共教育体系，导致绝大多数受援国指标落空；相反，古巴等国抵制外部同质化借用、依靠坚定的国家政治意志与全民动员率先达成优质全民教育，证明了主权自决与公共人道主义动员才是实现全民受教育权的真正根基。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 134)]]
 
-> [!citation-card] 全民教育目标下的[[Structural Adjustment Programs|结构调整]]与量化依赖
+> [!citation-card] 全民教育目标下的结构调整与量化依赖
 > 世界银行对[[Development Education|发展中国家教育]]的影响源于其资金实力以及对管理主义-科学效率的宣称，其典型代表是高度官僚化的贷款周期和[[Poverty Reduction Strategy Papers|减贫战略文件]]等管理工具。伴随全民教育的推进，这种量化指标体系迅速膨胀，最终构筑起对整个受援国教育系统的深层规制。(Elfert & Ydesen, 2023, p. 100; 引自 Steiner-Khamsi et al., 2024, p. 541)
 
 ---

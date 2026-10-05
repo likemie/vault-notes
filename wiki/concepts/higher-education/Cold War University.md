@@ -6,10 +6,10 @@ aliases:
 summary: "二战后至冷战时期以斯坦福大学和麻省理工学院等为典型代表的研究型大学制度形态，其核心特征是通过深度依托美国国防部等国家安全机构的基础与应用科研经费投入，建立由联邦政府、军方、学界与工业界紧密交织的科研基础设施网络，在奠定工程与计算机前沿学科主导地位的同时重塑了现代大学的制度结构。"
 type: concept
 domain: "higher-education"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/higher-education
   - theme/science-policy
@@ -30,7 +30,6 @@ related_concepts:
   - "[[General Purpose Technology]]"
   - "[[Open-Mindedness]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Academic Freedom]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -160,7 +159,7 @@ updated: 2026-10-05
 > [!dev-timeline] 概念演变
 > - **1940–1950s — 战后动员与形态奠定** 二战及战后冷战爆发促使美国联邦研发体制从政府专属军工军械库转向依赖外部私营企业与顶尖[[Research Universities|研究型大学]]，斯坦福大学与麻省理工学院率先确立依托国防课题扩张学术规模的模式。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29, 41)]]
 > - **1960–1980s — 计算机学科建制化与网络先导** [[DARPA|国防高级研究计划局]]（DARPA）等机构注资大学建立阿帕网（ARPANET）节点并推动计算机科学成为独立学术学科，冷战大学成为全美信息技术革命的摇篮。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 36, 39)]]
-> - **1990s至今 — 历史反思与结构转型** 随着冷战落幕与商业民用市场爆发，学界（如 Lowen 与 Leslie 等历史学家）系统提出并深化“冷战大学”反思概念，探讨国防依附度下降后大学向[[Knowledge-Based Economy|知识经济]]、专利商业化及反恐安全转型的[[Structural Adjustment Programs|结构调整]]。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29, 42)]]
+> - **1990s至今 — 历史反思与结构转型** 随着冷战落幕与商业民用市场爆发，学界（如 Lowen 与 Leslie 等历史学家）系统提出并深化“冷战大学”反思概念，探讨国防依附度下降后大学向[[Knowledge-Based Economy|知识经济]]、专利商业化及反恐安全转型的结构调整。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29, 42)]]
 
 ---
 

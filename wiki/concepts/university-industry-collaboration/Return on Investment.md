@@ -29,7 +29,6 @@ tags:
 related_concepts:
   - "[[Technology Transfer]]"
   - "[[Construct]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Policy Network]]"
   - "[[Venture Philanthropy]]"
   - "[[Social Impact Investing]]"
@@ -45,6 +44,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Total Factor Productivity]]"
   - "[[Research Translation]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Technical Rationality]]"
   - "[[Heterogeneity]]"
   - "[[Zero-Sum Competition]]"
@@ -99,7 +99,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> 投资回报（Return on Investment，ROI），在教育经济学、公共治理与跨部门协同创新语境中，是指衡量个体、组织或国家在教育、科研及社会创新中所投入的资源（资本、人力、时间）与由此衍生出的未来综合收益（收入溢价、生产率提升、[[Technology Transfer\|技术转移]]、社会福祉）之间比例关系的复合[[Construct\|构念]]。该构念跨越三重分析尺度：在宏观跨国治理层面，具体化为教育投资回报率（Rate of Return to Education，RORE），被[[Human Capital Theory\|人力资本理论]]与[[World Bank\|世界银行]]（World Bank）工具化为设定跨国[[Structural Adjustment Programs|结构调整]]贷款的前置门槛与[[Governing at a Distance\|远处治理]]指标（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024, pp. 541–542]]）；在中观[[Policy Network\|政策网络]]与[[Venture Philanthropy\|风险慈善]]层面，演化为[[Social Impact Investing\|社会投资]]回报（Social Return on Investment，SROI），被[[Philanthrocapitalism\|慈善资本主义]]用作以商业投资纪律重构公共教育再分配、将国家供给置换为准市场竞标的话语工具（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 520, 524]]）；在微观[[University-Industry Collaboration\|产学合作]]层面，泛指大学、企业与医疗机构对“合作价值何在”的差异化预期，其结构性分歧构成了跨部门协同创新的根本引擎。[[Argument_Swick_Jones_2025_AcademicHealthSystems\|(Swick & Jones, 2025, pp. 191–192)]]
+> 投资回报（Return on Investment，ROI），在教育经济学、公共治理与跨部门协同创新语境中，是指衡量个体、组织或国家在教育、科研及社会创新中所投入的资源（资本、人力、时间）与由此衍生出的未来综合收益（收入溢价、生产率提升、[[Technology Transfer\|技术转移]]、社会福祉）之间比例关系的复合[[Construct\|构念]]。该构念跨越三重分析尺度：在宏观跨国治理层面，具体化为教育投资回报率（Rate of Return to Education，RORE），被[[Human Capital Theory\|人力资本理论]]与[[World Bank\|世界银行]]（World Bank）工具化为设定跨国结构调整贷款的前置门槛与[[Governing at a Distance\|远处治理]]指标（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024, pp. 541–542]]）；在中观[[Policy Network\|政策网络]]与[[Venture Philanthropy\|风险慈善]]层面，演化为[[Social Impact Investing\|社会投资]]回报（Social Return on Investment，SROI），被[[Philanthrocapitalism\|慈善资本主义]]用作以商业投资纪律重构公共教育再分配、将国家供给置换为准市场竞标的话语工具（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 520, 524]]）；在微观[[University-Industry Collaboration\|产学合作]]层面，泛指大学、企业与医疗机构对“合作价值何在”的差异化预期，其结构性分歧构成了跨部门协同创新的根本引擎。[[Argument_Swick_Jones_2025_AcademicHealthSystems\|(Swick & Jones, 2025, pp. 191–192)]]
 
 > [!concept-lens] 概念透镜
 > - **三重分析尺度** 涵盖新古典实证经济学的“宏观投入—产出因果核算”、政策网络政治经济学的“中观异层社会投资话语”以及产学研协同的“微观多元价值协商”。
@@ -184,7 +184,7 @@ updated: 2026-10-03
 > 揭示跨国组织如何将经验经济学测算转化为剥夺全球南方借款国教育自决权的硬性治理技术。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]
-> **收益率数据库构建自指性知识闭环** 1980 年[[World Bank\|世界银行]]发布首份独立《教育部门政策文件》，彻底脱离[[UNESCO\|联合国教科文组织]]（UNESCO）的人文主义倡导路线；高级顾问普萨查罗普洛斯（[[George Psacharopoulos]]）等人基于涵盖 139 国、1,120 项估算的回报率数据库，系统论证初等教育相较于高等教育具有压倒性的社会回报率优势；世界银行以此为技术合法性屏障，将收益率公式固化为向全球南方借款国发放[[Structural Adjustment Programs|结构调整]]贷款的强制性前置条件，打造出一个高度自给自足、无视本土脉络的量化治理帝国。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542, 548)]]
+> **收益率数据库构建自指性知识闭环** 1980 年[[World Bank\|世界银行]]发布首份独立《教育部门政策文件》，彻底脱离[[UNESCO\|联合国教科文组织]]（UNESCO）的人文主义倡导路线；高级顾问普萨查罗普洛斯（[[George Psacharopoulos]]）等人基于涵盖 139 国、1,120 项估算的回报率数据库，系统论证初等教育相较于高等教育具有压倒性的社会回报率优势；世界银行以此为技术合法性屏障，将收益率公式固化为向全球南方借款国发放结构调整贷款的强制性前置条件，打造出一个高度自给自足、无视本土脉络的量化治理帝国。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542, 548)]]
 
 ---
 

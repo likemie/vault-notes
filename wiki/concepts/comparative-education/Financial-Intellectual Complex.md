@@ -21,7 +21,6 @@ tags:
   - governance
 related_concepts:
   - "[[Knowledge Production]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Research Scope]]"
   - "[[Disciplina and Doctrina]]"
   - "[[International Education]]"
@@ -30,6 +29,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Rich and Thick Description]]"
   - "[[Epistemic Value]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Selective Affinity]]"
   - "[[Politicity of Education]]"
   - "[[Heterogeneity]]"
@@ -74,7 +74,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> 金融-智识复合体（Financial-Intellectual Complex）是由[[Joel Samoff|乔尔·萨莫夫]]（Joel Samoff）提出、用于批判以[[World Bank|世界银行]]（World Bank）为代表的多边金融机构在全球教育治理中所建构的跨国霸权体制。该机制将巨额教育贷款的资金流向与定向委托的[[Knowledge Production|知识生产]]紧密捆绑，依托雇佣专家共同体（community of experts for hire），将新古典教育经济学、[[Human Capital Theory|人力资本理论]]和厂商理论确立为普世正当的评估标准，进而借由[[Structural Adjustment Programs|结构调整]]贷款的政策附加条件重塑发展中国家的教育政策与[[Research Scope|研究边界]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
+> 金融-智识复合体（Financial-Intellectual Complex）是由[[Joel Samoff|乔尔·萨莫夫]]（Joel Samoff）提出、用于批判以[[World Bank|世界银行]]（World Bank）为代表的多边金融机构在全球教育治理中所建构的跨国霸权体制。该机制将巨额教育贷款的资金流向与定向委托的[[Knowledge Production|知识生产]]紧密捆绑，依托雇佣专家共同体（community of experts for hire），将新古典教育经济学、[[Human Capital Theory|人力资本理论]]和厂商理论确立为普世正当的评估标准，进而借由结构调整贷款的政策附加条件重塑发展中国家的教育政策与[[Research Scope|研究边界]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示多边金融机构不仅是资本贷方，更是具有强烈意识形态导向和[[Disciplina and Doctrina|规训]]效能的全球知识垄断生产者。
@@ -175,7 +175,7 @@ updated: 2026-10-03
 
 > [!dev-timeline] 概念演变
 > - **1980 — 独立研究帝国奠基** [[World Bank|世界银行]]发表《教育部门政策文件》，单方面终结对[[UNESCO|教科文组织]]的技术依附，开启由华盛顿总部集中统摄的教育政策与收益率计量帝国。
-> - **1992/1993 — 财智复合体批判确立** [[Joel Samoff|乔尔·萨莫夫]]（Joel Samoff）在非洲教育研究与国际政治学大会中首次正式提出“金融-智识复合体”，揭示世行将资金放贷与知识委托一体化的[[Structural Adjustment Programs|结构调整]]本质。
+> - **1992/1993 — 财智复合体批判确立** [[Joel Samoff|乔尔·萨莫夫]]（Joel Samoff）在非洲教育研究与国际政治学大会中首次正式提出“金融-智识复合体”，揭示世行将资金放贷与知识委托一体化的结构调整本质。
 > - **1994 — 高教领域与企业联盟亲和拓展** [[Daniel Schugurensky|丹尼尔·舒古伦斯基]]（Daniel Schugurensky）深入阿根廷高教案例，揭示世行如同跨国[[Business Roundtable|商业圆桌会]]议般推动高等教育商业化与学费成本分摊。
 > - **2009 — [[Conditioned State Theory|受限国家理论]]视阈下的政治经济整合** [[Liliana Esther Olmos|奥尔莫斯]]（Olmos）与[[Carlos Alberto Torres|托雷斯]]（Torres）将财智复合体纳入新自由主义国家[[Disciplina and Doctrina|规训]]分析，阐明其如何瓦解第三世界公共教育体系。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 
@@ -214,6 +214,6 @@ updated: 2026-10-03
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 详细阐发[[Joel Samoff|乔尔·萨莫夫]]的金融-智识复合体概念，剖析[[World Bank|世界银行]]如何利用[[Categorical Funding|委托研究]]与[[Technical Rationality|技术理性]]在全球南方推行教育[[Structural Adjustment Programs|结构调整]]与新自由主义[[Disciplina and Doctrina|规训]]。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 详细阐发[[Joel Samoff|乔尔·萨莫夫]]的金融-智识复合体概念，剖析[[World Bank|世界银行]]如何利用[[Categorical Funding|委托研究]]与[[Technical Rationality|技术理性]]在全球南方推行教育结构调整与新自由主义[[Disciplina and Doctrina|规训]]。
 
 ---

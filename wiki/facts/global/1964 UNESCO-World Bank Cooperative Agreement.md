@@ -11,9 +11,9 @@ subtype: policy
 region: "global"
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 16
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 15
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "World Bank & UNESCO"
 tags:
@@ -25,7 +25,6 @@ tags:
 related_concepts:
   - "[[Educational Multilateralism]]"
   - "[[Development Education]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Paradigm]]"
   - "[[Policy Brokerage]]"
   - "[[Global Education Governing Complex]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 
 # 1964 UNESCO-World Bank Cooperative Agreement
@@ -94,7 +93,7 @@ updated: 2026-10-01
 
 > [!actor-grid] 权力—立场矩阵
 > - **[[UNESCO\|联合国教科文组织]]（UNESCO）** 坚持人文主义教育观与人权保护，主张教育投资应服从于公民全面发展与文化传承，反感将教育狭隘还原为劳动生产率参数。
-> - **[[World Bank\|世界银行]]管理层与经济学家** 坚持新古典[[Human Capital Theory\|人力资本]]与管理主义科学效率，要求每一个教育贷款项目必须计算精确的经济内部收益率（Internal Rate of Return），推行高度官僚化的贷款周期与财政[[Structural Adjustment Programs|结构调整]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **[[World Bank\|世界银行]]管理层与经济学家** 坚持新古典[[Human Capital Theory\|人力资本]]与管理主义科学效率，要求每一个教育贷款项目必须计算精确的经济内部收益率（Internal Rate of Return），推行高度官僚化的贷款周期与财政结构调整。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **受援国教育部** 虽认同 UNESCO 的教育理想，但在极度财政短缺面前不得不全面倒向掌握巨额硬通货的世界银行。
 
 > [!tension] [[Paradigm\|范式]]冲突与治理分歧
@@ -111,7 +110,7 @@ updated: 2026-10-01
 
 > [!indicators] 历史影响维度
 > - **[[World Bank\|世行]]借道入场并反客为主** 世界银行借助 [[UNESCO]] 铺设的国别专家网络顺利建立起对第三世界教育体系的准入权，随后迅速培育内部计量经济团队，反客为主地确立了全球教育援助的主导权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
-> - **全球教育治理[[Paradigm\|范式]]的根本转向** 协定的破裂标志着战后全球教育治理从 UNESCO 代表的人文主义、去商业化价值范式，彻底让位于世界银行主导的经济主义、量化指标与[[Structural Adjustment Programs|结构调整]]范式。
+> - **全球教育治理[[Paradigm\|范式]]的根本转向** 协定的破裂标志着战后全球教育治理从 UNESCO 代表的人文主义、去商业化价值范式，彻底让位于世界银行主导的经济主义、量化指标与结构调整范式。
 > - **开启多边机构自立门阀的[[Policy Brokerage\|政策中介]]竞争** 促使两大机构此后各自建立独立的数据仓库与中介管道，形成了当代[[Global Education Governing Complex\|全球教育治理复合体]]内部彼此割据的制度根源。
 
 > [!finding-cards] 关键历史后果

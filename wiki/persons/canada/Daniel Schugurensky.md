@@ -26,10 +26,10 @@ related_concepts:
   - "[[Selective Affinity]]"
   - "[[Global Citizenship]]"
   - "[[Critical Thinking Disposition]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Democratic Education]]"
   - "[[Critical Pedagogy]]"
   - "[[Analytical Stance]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Financial-Intellectual Complex]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -96,7 +96,7 @@ updated: 2026-09-28
 > 舒古伦斯基的核心思想在于**揭露了跨国金融霸权与国内垄断资本在教育市场化重组中的合谋机制**。他敏锐地捕捉到，[[World Bank|世界银行]]在全球南方国家扮演的角色，在本质上是美国本土[[Business Roundtable|商业圆桌会]]的跨国镜像：两者均以提高经济效益和应对国家赤字为掩护，推崇技术官僚量化考核、使用者付费与营利性办学；其在拉美公立大学推行的“改革”，实质上是剥离大学深厚的人文[[Critical Thinking Disposition|批判精神]]与社会民主反思职能，迫使高深学府彻底退化为依附于跨国资本积累的技能代工所。
 
 > [!case] 世界银行贷款附加条件与布宜诺斯艾利斯大学重构
-> 舒古伦斯基对阿根廷历史最悠久、规模最大的公立学府布宜诺斯艾利斯大学（UBA）的深入实证个案表明，世界银行将[[Structural Adjustment Programs|结构调整]]贷款作为核心干预杠杆，强迫阿根廷政府压缩对国立高校的经常性预算，强令公立大学开征学费、面向私人资本创收，并推行绩效考评。这一干预严重瓦解了拉美大学百年来形成的“自治与批判”办学传统，加剧了校内不同学科间的贫富分化。[[Argument_Olmos_Torres_2009_StateTheories|(Schugurensky, 1994; Olmos & Torres, 2009, p. 81)]]
+> 舒古伦斯基对阿根廷历史最悠久、规模最大的公立学府布宜诺斯艾利斯大学（UBA）的深入实证个案表明，世界银行将结构调整贷款作为核心干预杠杆，强迫阿根廷政府压缩对国立高校的经常性预算，强令公立大学开征学费、面向私人资本创收，并推行绩效考评。这一干预严重瓦解了拉美大学百年来形成的“自治与批判”办学传统，加剧了校内不同学科间的贫富分化。[[Argument_Olmos_Torres_2009_StateTheories|(Schugurensky, 1994; Olmos & Torres, 2009, p. 81)]]
 
 ---
 

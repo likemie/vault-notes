@@ -4,10 +4,10 @@ aliases:
   - 技术轨迹
   - technological trajectory
   - 技术轨道
-summary: "由 Dosi 与 Pavitt 奠基的演化经济学核心理论，指技术变迁沿特定范式方向进行累积性、不可逆与路径依赖的演进；阐明技术来源、需求与专有性塑造产业异质性，以及国家如何通过三代使命政策、嵌入型网络治理与敏捷动态能力在碎片化产业中引导与协同新兴技术轨道"
+summary: "由 Dosi 与 Pavitt 奠基的演化经济学核心理论，指技术变迁沿特定范式方向进行累积性、不可逆与路径依赖的演进；阐明技术来源、需求与专有性塑造产业异质性，以及军工首发采购、反垄断规制与嵌入型网络治理如何引导并协同新兴通用技术轨道的跨国分叉与起飞。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 54
+theory_related_count: 58
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -38,12 +38,14 @@ related_concepts:
   - "[[Technology Infusion]]"
   - "[[Embedded Network Governance]]"
   - "[[Brainstorming]]"
+  - "[[General Purpose Technology]]"
   - "[[Research Question]]"
   - "[[University-Industry Collaboration]]"
   - "[[Agile Governance]]"
   - "[[Determinism]]"
   - "[[Seed Funding]]"
   - "[[Lead-and-Learn Paradigm]]"
+  - "[[Second-Sourcing]]"
   - "[[Network Governance]]"
 related_theories:
   - "[[Evolutionary Economics]]"
@@ -64,6 +66,7 @@ related_persons:
   - "[[Erica Fuchs]]"
   - "[[Mariana Mazzucato]]"
   - "[[Rainer Kattel]]"
+  - "[[David C. Mowery]]"
 related_facts:
   - "[[DARPA]]"
   - "[[Community Innovation Survey]]"
@@ -77,10 +80,11 @@ related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Macher_1998_CMR]]"
   - "[[Argument_Fuchs_2010_RP]]"
+  - "[[Argument_Fabrizio_Mowery_2005_REI]]"
 confidence: high
 status: completed
 created: 2026-06-11
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # Technological Trajectories
@@ -171,6 +175,18 @@ updated: 2026-10-04
 > **解释** 随着产业组织从传统的垂直一体化（如[[Bell Labs|贝尔实验室]]内部研发巨头）向垂直纵向碎片化（Dis-integrated / Vertically Fragmented，如芯片设计 Fabless、晶圆代工 Foundry、封装测试 OSAT 与电子设计自动化 EDA 软件割裂）转变，私营企业由于各自追求短期[[Return on Investment|投资回报]]与狭隘局部最优，缺乏动力与能力协调跨产业链环节的高风险共性[[Technology Infusion|技术整合]]。在此情境下，国家公共部门的专业代理人（如 [[DARPA]] 项目经理）依托[[Embedded Network Governance|嵌入型网络治理]]与非正式微观机制（前瞻识别与播撒构想、闭门[[Brainstorming|头脑风暴]]、构建跨界研发共同体、提供第三方信誉背书与机制化退出），主动调动“网络可塑性”（Network Plasticity），将大学基础研究、代工厂工艺、材料供应商与系统集成商编织进战略性试验网络，在不人为挑选单一商业赢家（Picking Winners）的前提下，系统引导并开辟突破物理极限的新兴技术轨道（如硅锗、应变硅、3D 封装与光互连芯片）。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144–1146)]]
 >
 > **应用实例** 在微电子后摩尔时代，单体芯片微缩逼近物理与发热极限，单体芯片公司无力独立承担跨学科光电集成风险；DARPA 项目经理通过设立超高性能片内纳米光子通信（UNIC）计划，将大学光子学团队、太阳微系统（Sun Microsystems）以及波音等防务巨头强制协同，开辟了硅光互连技术轨道。
+
+> [!theory-proposition] 命题七｜首发采购与市场进入结构共同决定新兴技术轨道的跨国分叉与商业化起飞
+> **解释** 基拉·法布里齐奥（Kira R. Fabrizio）与戴维·莫厄里（[[David C. Mowery]]）指出，新兴[[General Purpose Technology|通用技术]]轨道的早期生成不仅受制于供给侧科学发现，更深刻取决于需求侧采购形态与反垄断规制构筑的产业准入结构。在二战后信息技术发展中，美欧在计算机与微电子领域的轨迹分化生动印证了这一机制：
+> 1. **美国模式（需求侧首发采购 + 强制技术扩散 + 多元进入）** 国防部通过为集成电路提供 100% 早期采购并强制执行第二供应商工艺转让，加之司法部反垄断诉讼迫使 AT&T 和 IBM 开放专利与非捆绑软件销售，催生了高度竞争、多厂商试错的开放架构轨迹，推动技术迅速从军用收敛至商用计算机与消费电子；
+> 2. **西欧模式（保护主义垄断 + 挑选单一“国家冠军” + 弱需求拉动）** 英法等国采取扶持单一本土垄断企业（如英国 ICL、法国 CII）的供给侧补贴战略，缺乏国防部门对高风险组件的大规模首发采购，同时排斥新兴创业企业进入，导致其技术轨迹被深度锁定在追赶 IBM 既有专有架构的狭窄通道内，丧失了在微型计算机、分布式网络等颠覆性轨道上的试错机会。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 30–33)]]
+>
+> **应用实例** 1960 年代美国空军大额订单迫使仙童、德州仪器等在民兵导弹项目中不断优化双极与 MOS 芯片制造工艺，直接开辟了微型化芯片轨迹；而英国与法国扶持的单一计算机国家冠军企业因缺乏规模化军品元器件采购支撑，无法在学习曲线上建立工艺优势，最终在商用大型机竞争中全面败退。
+
+> [!citation-card] 法布里齐奥与莫厄里论采购需求与反垄断规制对跨国技术轨迹的塑造
+> 美国政府与西欧各国在战后信息技术政策上的根本差异，不仅在于研发资助的规模，更在于支持的结构以及国防采办所创造的市场环境。美国政策通过军工首发采购、反垄断开放专利与扶持新兴小企业，培育了多元化试错的技术演进轨道；而西欧政策将资源集中于单一国家冠军企业以抵御 IBM，反而阻碍了新兴计算与芯片技术轨迹的自主演化。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 31–33)]]
+>
+> *"The contrast between US and Western European policies highlights the importance of procurement demand and competitive market structure in shaping technological trajectories... Rather than supporting multiple new entrants, European governments concentrated resources on single 'national champions' in an attempt to counter IBM, locking their domestic industries into defensive, imitator trajectories."*
 
 ---
 
@@ -272,6 +288,8 @@ updated: 2026-10-04
 > | [[Lead-and-Learn Paradigm]] | Concept | 指导技术轨迹在不确定性探索中实现自适应演进的治理范式。 |
 > | [[ROAR Framework]] | Theory | 指导公共部门在技术轨迹演进中进行方向设定与风险管理的[[Analytic Framework\|分析框架]]。 |
 > | [[Systems of Innovation]] | Theory | 技术轨迹在国家、区域与部门创新系统中演化共生的制度载体。 |
+> | [[Second-Sourcing]] | Concept | 军方强制第二供应商制度迫使发明企业转让制造工艺，加速全行业技术轨迹收敛与降价。 |
+> | [[General Purpose Technology]] | Concept | 具有强大互补性与跨行业扩散能力的核心通用技术所遵循的长波演进轨迹。 |
 > | [[Department of Energy]] | Fact (Organization) | 通过清洁能源贷款与 [[DARPA\|ARPA]]-E 实践主动重塑绿色技术轨道的典型机构。 |
 > | [[DARPA]] | Fact (Organization) | 历史上通过颠覆性投资开辟计算机网络与半导体全新技术轨道的先驱。 |
 > | [[Erica Fuchs]] | Person | 提出嵌入型[[Network Governance\|网络治理]]并实证分析半导体共性技术轨道演进的学者。 |
@@ -287,3 +305,6 @@ updated: 2026-10-04
 > - [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]] — 运用欧洲创新调查（[[Community Innovation Survey|CIS]]）微观数据，通过主成分分析对帕维特四大技术轨迹完成定量[[Operationalization|操作化]]与实证验证。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 深入微电子产业前沿，揭示公共代理人（[[DARPA]] 项目经理）如何在[[Vertical Disintegration|纵向碎片化产业]]中调动[[Network Plasticity|网络可塑性]]与五大非正式机制，引导硅锗、应变硅、3D 封装与光芯片等战略性技术轨道跃迁。
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 实证剖析美日半导体产业竞争中从大宗存储器制造微缩向微处理器架构设计与垂直专业化分工的重大技术轨迹跃迁。
+> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 实证对比美欧信息技术政策，揭示军工首发采购、反垄断规制与第二供应商强制扩散如何塑造美国多元竞争的技术轨迹，而欧洲扶持单一国家冠军则导致技术轨道锁定与跟跑滞后。
+
+---

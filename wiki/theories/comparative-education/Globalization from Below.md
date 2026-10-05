@@ -9,10 +9,10 @@ aliases:
 summary: "布雷彻等创立、阿诺夫引入比较教育学的批判社会运动与教育改革理论，指跨国界基层社会运动、原住民团体与教师工会依托数字通信构筑的以太流散空间，利用普世人权话语反哺抗争新自由主义自上而下的政策规训，通过跨国社会连带争取教育公平并推动世界体系向全球社会民主转型"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 32
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 31
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 domain: "comparative-education"
 related_count: 8
 related_level: 0
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Popular Education]]"
   - "[[Research Question]]"
   - "[[Return on Investment]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Costs Benefits Ratio in Research Ethics]]"
   - "[[Creativity]]"
   - "[[Epistemology]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-05
 ---
 
 # Globalization from Below
@@ -169,7 +168,7 @@ updated: 2026-09-29
 >   - **D1.1｜自上而下的超国家与国家主导模式（Top-Down Hegemonic Model）**
 >     由国际金融多边机构、中央政府部委与跨国资本同盟单向推行的规训模式。
 >     - **D1.1.1｜外生性政策强加与条件绑定指标**
->       - **含义** 国际金融机构将教育分权、[[Structural Adjustment Programs|结构调整]]与公立预算削减作为贷款的前提硬性约束。
+>       - **含义** 国际金融机构将教育分权、结构调整与公立预算削减作为贷款的前提硬性约束。
 >       - **观察线索** [[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]贷款协定备忘录、中央教育部强制下达法令。
 >       - **判读规则** 缺乏基层民主协商且带有财政惩戒与强制合规条款，判定为自上而下主导。
 >       - **归属与出处** 依据 [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106, 112–114)]]。

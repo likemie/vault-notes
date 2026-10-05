@@ -74,7 +74,7 @@ updated: 2026-09-29
 
 > [!boundary]- 概念边界
 > - 不等于 **出口导向型工业化（Export-Oriented Industrialisation, EOI）** — EOI 依托自由贸易与比较优势，深度参与全球分工，强调与跨国标准接轨的基础与职业技术教育；而 ISI 依赖高额关税壁垒保护本土幼稚工业，更依赖国家公立大学培养本土官僚与专业工程师。
-> - 不等于 **新自由主义[[Structural Adjustment Programs|结构调整]]（Structural Adjustment）** — 后者以缩减公共财政、使用者付费与全面私有化为特征；而 ISI 时期国家是教育供给的主导投资方与财政担保人。
+> - 不等于 **新自由主义结构调整（[[Structural Adjustment Programs|Structural Adjustment]]）** — 后者以缩减公共财政、使用者付费与全面私有化为特征；而 ISI 时期国家是教育供给的主导投资方与财政担保人。
 
 ---
 
@@ -156,7 +156,7 @@ updated: 2026-09-29
 > - **1930s–1950s — 起源阶段** 面对大萧条与二战导致的国际贸易断绝，阿根廷、巴西、墨西哥等拉美大国自发开启工业品进口替代；联合国拉加经委会（ECLAC/CEPAL）经济学家劳尔·普雷维什（Raúl Prebisch）系统提出[[Dependency Theory|依附理论]]与中心-外围不平等贸易理论，为国家主导的进口替代提供学理合法性。
 > - **1960s — 黄金期与教育大扩张** 进口替代工业化进入重工业与耐用消费品阶段；[[Human Capital Theory|人力资本理论]]与国家发展规划深度结合，拉美迎来历史上规模最大的中高等教育大爆发，年增长率高居全球榜首。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–82)]]
 > - **1970s — 结构瓶颈与社会抗争** 市场规模有限与缺乏财富二次分配导致内需饱和，工业利润率下滑；中高等教育毕业生[[Credential Inflation|文凭通胀]]与就业不足加剧，青年学生运动与城市游击队运动频发。
-> - **1980s — 模式破产与新自由主义转轨** [[Latin American Debt Crisis of 1982|拉美债务危机]]全面爆发，进口替代发展模式彻底走向终结；[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 推行华盛顿共识与[[Structural Adjustment Programs|结构调整]]，教育领域转向去补贴、收取学杂费与市场化私有化。
+> - **1980s — 模式破产与新自由主义转轨** [[Latin American Debt Crisis of 1982|拉美债务危机]]全面爆发，进口替代发展模式彻底走向终结；[[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 推行华盛顿共识与结构调整，教育领域转向去补贴、收取学杂费与市场化私有化。
 
 ---
 

@@ -7,7 +7,7 @@ title: "Argument_Cowen(Ed.)_2009_Springer"
 argument_key: "Argument_Cowen(Ed.)_2009_Springer"
 argument_display_title: "International Handbook of Comparative Education"
 argument_kind: "edited-volume"
-argument_related_count: 82
+argument_related_count: 81
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -60,7 +60,6 @@ related_concepts:
   - "[[Comparative Educations]]"
   - "[[Dual School System]]"
   - "[[Compensatory Legitimation]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Positivism]]"
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Intercultural Education]]"
@@ -210,7 +209,7 @@ updated: 2026-10-04
 >   - Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]。Kaloyannaki 与 Kazamias 深入解构比较教育学的现代主义发端，辨析[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien）的准[[Proto-Scientific Motif\|科学人道主义母题]]与[[Victor Cousin\|维克多·库森]]（Victor Cousin）、[[Horace Mann\|霍勒斯·曼]]（Horace Mann）等人的政策导向行政[[Educational Meliorism\|改良主义]]母题，揭示借用作为政治合法化依据的机制。
 >   - Ch. 04 [[Argument_Kazamias_2009_ForgottenThemes]]。Kazamias 系统挖掘[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans\|尼古拉斯·汉斯]]（Nicholas Hans）与[[Robert Ulich\|罗伯特·乌利希]]（Robert Ulich）等学者开创的历史-哲学-文化与自由人文主义母题，阐明其广义[[Geisteswissenschaften|人文科学]]定位、[[National Character\|国民性格]]分析[[Construct\|构念]]与历史改良主义底色，并借由[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）的有限工作[[Hypothesis\|假设]]归纳法为[[Historical-Comparative Method\|历史比较法]]确立现代合法性。
 >   - Ch. 05 [[Argument_Mattheou_2009_ScientificParadigm]]。Mattheou 系统剖析 20 世纪下半叶[[Scientific Paradigm\|比较教育学科学范式]]的兴衰，辨析芝加哥学派（安德森、福斯特）的恒常制度规律、哥大学派（诺亚、埃克斯坦）的[[Variable\|变量]]函数共变与伦敦学派（霍姆斯）基于[[Critical Dualism\|批判二元论]]的权变社会学法则及预测划界标准，揭示实证量化模式作为战后国家规划合法化工具（alibi）的政治共谋，并阐明其在现实危机、量子不确定性与后现代思潮冲击下向“[[Comparative Educations\|复数比较教育学]]”的多元解体。
->   - Ch. 06 [[Argument_Olmos_Torres_2009_StateTheories]]。Olmos 与 Torres 运用马克思主义政治经济学与批判政治社会学，解构[[World Society Theory|世界文化理论]]的均质化教育扩张叙事，提出以资本积累与政治合法化为轴心的国家理论，阐发外围资本主义[[Conditioned State Theory\|受限国家]]及[[State Corporatism\|国家法团主义]]下的阶级[[Dual School System|双轨学制]]与[[Compensatory Legitimation\|补偿性合法化]]，并批判新自由主义[[Structural Adjustment Programs|结构调整]]下[[World Bank|世界银行]][[Financial-Intellectual Complex\|金融-智识复合体]]对教育公共性与民主公民身份的侵蚀。
+>   - Ch. 06 [[Argument_Olmos_Torres_2009_StateTheories]]。Olmos 与 Torres 运用马克思主义政治经济学与批判政治社会学，解构[[World Society Theory|世界文化理论]]的均质化教育扩张叙事，提出以资本积累与政治合法化为轴心的国家理论，阐发外围资本主义[[Conditioned State Theory\|受限国家]]及[[State Corporatism\|国家法团主义]]下的阶级[[Dual School System|双轨学制]]与[[Compensatory Legitimation\|补偿性合法化]]，并批判新自由主义结构调整下[[World Bank|世界银行]][[Financial-Intellectual Complex\|金融-智识复合体]]对教育公共性与民主公民身份的侵蚀。
 >   - Ch. 07 [[Argument_Mitter_2009_Europe]]。Mitter 以中世纪以来的“多样性与统一性”二分法为核心结构原则，系统绘制欧洲比较教育两百年来的大学教席学术地图与专业学会网络（[[Comparative Education Society in Europe|CESE]] 跨国个人会员制及多元学会竞合），梳理三大理论[[Paradigm|范式]]演化期（文化历史全景、德国社会学[[Positivism|实证主义]]争论、多元竞争），剖析地缘空间拓展（殖民转型、东西欧冷战对峙与跨国经验比较），辨析政策咨询立场的[[Navigation Metaphor in Comparative Education|航海隐喻]]与直接干预光谱，并反思当代国际大规模测评的技术官僚[[Disciplina and Doctrina|规训]]、[[Intercultural Education|跨文化教育]]合流与“重返欧洲维度”。
 >   - Ch. 08 [[Argument_Arnove_2009_WorldSystems]]。Arnove 系统回顾[[World-Systems Theory|世界体系分析]]（WSA）在比较教育学中的引入与演进，辨析共识取向（迈耶等人的新制度主义[[World Society Theory|世界文化理论]]）与冲突取向（[[Immanuel Wallerstein|沃勒斯坦]]等人的政治现实主义[[World-Systems Theory|世界体系理论]]）在解释教育同形与依附不平等上的[[Epistemology|认识论]]分野；阐明世界体系分析与全球化研究的汇融，揭示跨国金融与贸易机构（世行、[[World Trade Organization|WTO]] / [[GATS and Trade in Education Services|GATS]]）在[[Pluri-Scalar Governance|多标度治理]]中对[[State Educational Sovereignty|国家教育主权]]的重构、非政府组织向[[Shadow State|影子国家]]蜕变的异化风险，并通过多层次[[Comparative Case Study|比较案例研究]]示范了全球与本土互动的“双重视野”，最终提出以[[Time-Space Compression|时空压缩]]和流散空间为载体、联合草根力量抵御新自由主义的自下而上全球化抗争范式。
 >   - Ch. 09 [[Argument_Rust_2009_Reflections]]。Rust、Johnstone 与 Allaf 系统梳理学科发端的多重历史锚点，借鉴比较文学平反十九世纪[[Influences Across Cultures|跨文化影响]]实证考察遗产，揭示美德跨大西洋互动中“恶政与良教自然可分”的借用公理；运用 UCLA 大规模期刊[[Document|文献]]计量与作者调查证实 26 种理论并存的“健康[[Pluralism|多元主义]]”；并在批判主流将教育等同于资本主义现代性的基础上，建构涵盖接受、抵制、恢复与强制再生产的[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]，呼吁学科回归人道主义与解放实践。

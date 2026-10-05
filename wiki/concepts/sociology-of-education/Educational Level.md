@@ -34,10 +34,10 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Document]]"
   - "[[Compensatory Legitimation]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Credential Inflation]]"
   - "[[Heterogeneity]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Predictive Validity]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -143,7 +143,7 @@ updated: 2026-09-28
 > 剖析国际金融机构推行的新自由主义改革如何通过学费政策截断底层群体向上攀升受教育阶梯的通道。
 
 > [!claim] [[Stephen Ball|Ball, S.]] J. / [[Carlos Alberto Torres|Torres, C. A.]]
-> **高阶受教育水平的市场化阶级壁垒** 在[[World Bank|世界银行]][[Structural Adjustment Programs|结构调整]]处方下，公立大学与学术高中被强制推行“使用者自费”与私有化改革；这一阶级策略将中高受教育水平重新定义为由家庭财力购买的私人投资品，使底层贫困子弟因无力支付高昂学杂费而被迫滞留于低阶教育水平，彻底固化了代际阶级藩篱。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 83–85)]]
+> **高阶受教育水平的市场化阶级壁垒** 在[[World Bank|世界银行]]结构调整处方下，公立大学与学术高中被强制推行“使用者自费”与私有化改革；这一阶级策略将中高受教育水平重新定义为由家庭财力购买的私人投资品，使底层贫困子弟因无力支付高昂学杂费而被迫滞留于低阶教育水平，彻底固化了代际阶级藩篱。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 83–85)]]
 
 ---
 

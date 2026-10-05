@@ -8,7 +8,7 @@ aliases:
 summary: "兴起于拉丁美洲并拓展至比较教育的新马克思主义批判路径。拒绝现代化理论将欠发展归结为内部缺失的技术主义假设，主张从全球资本主义世界体系的中心-边缘结构性支配、跨国垄断资本掠夺、受限国家阶级联盟、金融-智识复合体规训及影子国家外包机制出发，解释第三世界国家教育不平等、双轨分流及学术依附；构成战后第四代际批判冲突与跨国宏观范式的核心基石。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 63
+theory_related_count: 62
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Document]]"
   - "[[Educational Multilateralism]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Research Question]]"
   - "[[Knowledge Production]]"
@@ -91,7 +90,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-06-08
-updated: 2026-10-02
+updated: 2026-10-05
 ---
 
 # Dependency Theory
@@ -177,7 +176,7 @@ updated: 2026-10-02
 ---
 
 > [!theory-proposition] 命题四｜债务危机与新自由主义重组将依附推向新阶段，跨国[[Financial-Intellectual Complex|金融-智识复合体]]与[[Shadow State|影子国家]]侵蚀公共教育主权
-> **解释** 20 世纪 80 年代以来，[[Educational Multilateralism|国际教育多边主义]]经历了从注重福利再分配向新自由主义[[Disciplina and Doctrina|规训]]与防卫的深刻转向。[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]结成金融-智识复合体，通过[[Structural Adjustment Programs|结构调整]]贷款强制受援国削减公共教育开支、推行[[Endogenous and Exogenous Privatisation|教育私有化]]与使用者付费。与此同时，援助机构绕过国家政府，将公共教育服务大量外包给非政府组织，使其退化为去政治化的“影子国家”；跨国经贸协定（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）进一步将教育商品化，使经济薄弱的边缘国家丧失了统筹国民教育与宏观调控的主权能力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80, 83–85)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
+> **解释** 20 世纪 80 年代以来，[[Educational Multilateralism|国际教育多边主义]]经历了从注重福利再分配向新自由主义[[Disciplina and Doctrina|规训]]与防卫的深刻转向。[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]结成金融-智识复合体，通过结构调整贷款强制受援国削减公共教育开支、推行[[Endogenous and Exogenous Privatisation|教育私有化]]与使用者付费。与此同时，援助机构绕过国家政府，将公共教育服务大量外包给非政府组织，使其退化为去政治化的“影子国家”；跨国经贸协定（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）进一步将教育商品化，使经济薄弱的边缘国家丧失了统筹国民教育与宏观调控的主权能力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80, 83–85)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
 >
 > **应用实例** 约旦河西岸的学前教育民间组织深陷于西方捐助者的考核指标、自治政府的政治控制与本土社区诉求之间，丧失了批判能动性并演化为影子国家；智利在军政权时期推行激进教育券制与私有化，严重摧毁了公立基础教育的公共性。
 
@@ -216,7 +215,7 @@ updated: 2026-10-02
 ## 局限性与适用边界
 
 > [!theory-boundary] 局限性与适用边界
-> - **适合分析** 处于全球资本主义世界体系边缘或半边缘的发展中国家；遭受外部债务危机与[[Structural Adjustment Programs|结构调整]]冲击的教育体系；跨国教育援助与学术新殖民主义现象；非政府组织公共服务异化。
+> - **适合分析** 处于全球资本主义世界体系边缘或半边缘的发展中国家；遭受外部债务危机与结构调整冲击的教育体系；跨国教育援助与学术新殖民主义现象；非政府组织公共服务异化。
 > - **成立条件** 存在明显的不对称跨国权力关系与资本依附纽带；国家机器具有鲜明的买办性或受制性特征。
 > - **解释不足与[[Historical Amnesia|历史健忘症]]反思** 传统依附论过于偏重宏观资本结构[[Determinism|决定论]]，在解释边缘国家本土学校师生的微观抗争能动性、本土制度杂糅与东亚后发国家通过强势国家干预实现教育跨越式发展的经验时存在理论盲区。更深刻的是，卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）指出，第四代际学者在高度关注跨国政治经济学结构的同时，严重边缘化了历史研究方法，导致比较教育研究深陷当下主义与历史健忘症。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 154–156)]]
 > - **不能直接推出** 不能将所有发展中国家面临的教育管理低效或财政困境均简单归咎为外部帝国主义阴谋；必须结合本土历史文化制度与阶级结构开展具体分析。

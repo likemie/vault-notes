@@ -6,11 +6,11 @@ aliases:
   - Mowery, D. C.
   - David Mowery
   - Mowery, D.
-summary: "美国著名创新经济学与科技政策学者，加州大学伯克利分校哈斯商学院讲席教授、NBER 研究员；演化经济学与技术创新史制度学派核心代表，长期致力于国家研发体系、高技术研发联盟治理、产学技术转移、知识产权及国防采购溢出机制研究。"
+summary: "美国著名创新经济学与科技政策学者，加州大学伯克利分校哈斯商学院讲席教授、NBER 研究员；演化经济学与技术创新史制度学派核心代表，长期致力于国家创新系统、国防研发与首发采购催化机制、高技术研发联盟治理、大学技术转移及技术轨迹演进规律研究。"
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 32
+person_related_count: 36
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -36,14 +36,20 @@ related_concepts:
   - "[[General Purpose Technology]]"
   - "[[Industry Affiliate Program]]"
   - "[[Rationalized Myth]]"
+  - "[[Cold War University]]"
+  - "[[Second-Sourcing]]"
+  - "[[Learning by Doing]]"
+  - "[[Demand-side Innovation Policy]]"
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Technological Trajectories]]"
   - "[[Systems of Innovation]]"
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[In-depth Interview]]"
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
+  - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -56,13 +62,15 @@ related_facts:
   - "[[ESPRIT]]"
   - "[[Competitive Semiconductor Manufacturing Program]]"
   - "[[DARPA]]"
+  - "[[Semi-Automatic Ground Environment]]"
+  - "[[Bell Labs]]"
 related_arguments:
   - "[[Argument_Mowery_2011_NBER]]"
   - "[[Argument_Grindley_1994_JPAM]]"
   - "[[Argument_Macher_1998_CMR]]"
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
 confidence: high
-status: draft
+status: completed
 created: 2026-10-03
 updated: 2026-10-05
 ---
@@ -76,7 +84,7 @@ updated: 2026-10-05
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名创新经济学家与科技政策学者，加州大学伯克利分校（University of California, Berkeley）哈斯商学院威廉·哈斯勒新企业发展讲席教授（William A. and Betty H. Hasler Chair in New Enterprise Development），美国国家经济研究局（National Bureau of Economic Research, NBER）研究员。
 > - **核心角色** [[Evolutionary Economics|演化经济学]]与技术变迁制度史学派核心代表人物，长期与内森·罗森伯格（Nathan Rosenberg）、理查德·纳尔逊（Richard Nelson）紧密合作；从国家科研投入、需求侧政府采购、反垄断诉讼、知识产权制度及产业组织协同等微观制度层面，系统解构了战后美国半导体、计算机、软件及生物医药等高科技产业[[Innovation Ecosystem|创新生态]]演进机制。
-> - **代表贡献** 阐明战后美国信息技术产业非中心化竞争生态的制度根基（军品采购驱动效应、1956 年 AT&T 与 IBM 反垄断同意令）；系统提出高技术研发联盟治理框架与纵向供应链协同机制（[[Sematech]] 案例评估）；实证解构大学专利化繁荣神话与《[[Bayh-Dole Act of 1980|拜杜法案]]》制度边界。
+> - **代表贡献** 阐明战后美国信息技术产业非中心化竞争生态的制度根基（军品采购驱动效应、1956 年 AT&T 与 IBM 反垄断同意令）；系统提出高技术研发联盟治理框架与纵向供应链协同机制（[[Sematech]] 案例评估）；实证解构大学专利化繁荣神话与《[[Bayh-Dole Act of 1980|拜杜法案]]》制度边界；提炼出国防研发与采购支持前沿技术的生命周期演变模型（早期催化—中期外溢—晚期逆向溢出与收益递减）。
 
 > [!citation-card] 广义创新政策组合与市场结构的协同塑造
 > 历史回顾最显著的结论之一，是其他领域的公共政策对创新（尤其是采用新技术的创新型企业的进入与成长）具有深远影响。反垄断与知识产权政策在促进技术向竞争对手和新进入者广泛扩散方面发挥了核心作用，不仅催生了新的硬件与半导体厂商，也为独立软件产业创造了生存空间。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 160–161)]]
@@ -104,20 +112,31 @@ updated: 2026-10-05
 > - **1998 — *Reversal of Fortune? The Recovery of the U.S. Semiconductor Industry*** 与杰弗里·马赫（Jeffrey T. Macher）、大卫·霍奇斯（David A. Hodges）合著发表于 *California Management Review*，结合加州大学伯克利分校竞争性半导体制造（[[Competitive Semiconductor Manufacturing Program|CSM]]）项目的产线标杆数据与宏观产业演进，实证阐明美国半导体产业在 20 世纪 90 年代的复兴源于产品线向微组件敏捷重组、制造质量差距弥合与纵向专业化分工，有力纠正了 80 年代学界关于产业碎片化必然衰败的悲观论断。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 107–136)]]
 > - **1998 — *Paths of Innovation: Technological Change in 20th-Century America*** 与内森·罗森伯格合著，深入考察内燃机、化学化工、航空航天及微电子与计算机四大核心[[Technological Trajectories|技术轨迹]]的历史演进规律。
 > - **2004 — *Ivory Tower and Industrial Innovation: University-Industry [[Technology Transfer]] Before and After the [[Bayh-Dole Act of 1980|Bayh-Dole Act]]*** 与理查德·纳尔逊、巴瓦尼·桑帕特（Bhaven Sampat）、阿维德·扎多尼斯（Arvids Ziedonis）合著，全面解构《拜杜法案》神话，实证指出大学技术转移繁荣源自战后长周期基础研究积累与生物医药学科突破，而非单纯依靠专利垄断激励。
-> - **2005 — *Defense-Related R&D and the Growth of the Postwar Information Technology Industrial Complex in the United States*** 与基拉·R·法布里齐奥（Kira R. Fabrizio）合著发表于 *Revue d'économie industrielle*，系统梳理战后五十年国防部通过科研资助、先导采购与军民溢出培育微电子、计算机硬件、软件及互联网四大支柱产业的制度演进，提出国防支持效能随产业成熟与商业市场扩张而递减的生命周期规律，并前瞻分析 9/11 后反恐与国土安全研发预算重组的深远影响。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 27–44)]]
+> - **2005 — *Defense-Related R&D and the Growth of the Postwar Information Technology Industrial Complex in the United States*** 与基拉·R·法布里齐奥（Kira R. Fabrizio）合著发表于 *Revue d'économie industrielle*，系统梳理战后五十年国防部通过科研资助、先导采购与第二货源规制培育微电子、计算机硬件、软件及互联网四大支柱产业的制度演进，提出国防支持效能随产业成熟与商业市场扩张而递减的生命周期规律，并前瞻分析 9/11 后反恐与国土安全研发预算重组的深远影响。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 27–44)]]
 > - **2011 — *Federal Policy and the Development of Semiconductors, Computer Hardware, and Computer Software*** 收录于《加速能源创新》（*Accelerating Energy Innovation*），深入总结国防采购、反垄断同意令与学科建制化对信息技术（IT）产业的塑造机制，并审慎评估其作为气候能源创新政策模板的移植边界。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 159–188)]]
 
 ---
 
-## 核心思想
+## 核心思想与理论命题
 
 > [!claim] 核心主张
 > 技术创新与产业竞争优势的演进绝非自发孤立的市场均衡过程，也非线性的供给侧研发补贴所能单独决定，而是由公共研发投入、需求侧采购保障、反垄断竞争执法、开放知识产权环境以及纵向供应链协作共同织就的复合制度生态所塑造；产业政策与研发联盟的成败高度取决于能否有效克服下游竞争者之间的保密壁垒，转向赋能关键上游专用设备与材料生态。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 723–758)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 159–161)]]
+
+> [!proposition-chain] 国防支持与技术创新的生命周期演变命题（Fabrizio & Mowery, 2005）
+> - **阶段一：萌芽期首发采购与规模学习孵化** 在新兴通用技术（如集成电路、计算机架构、分组通信）初期，民用市场需求微弱且无法承受极高制造成本与低良率；军方通过提供 100% 采购兜底垫付研发沉没成本，并通过[[Second-Sourcing|第二供应商]]强制跨企工艺转让，驱动企业在[[Learning by Doing|干中学]]中快速下滑学习曲线。
+> - **阶段二：成长期军民技术共存与军用向民用顺流外溢** 随着民用计算机与消费电子市场兴起，军用技术成果（如 SAGE 软件工程、操作系统与网络协议）顺流向民用市场广泛溢出，催生出独立软件公司与民航在线订票等商业巨头。
+> - **阶段三：成熟期商用市场主导与逆向技术溢出** 商业市场规模呈几何级数超越军用采购，军工专用研发的社会回报率与溢出效能出现不可逆的结构性递减；国防部门反而逐步转变为民用前沿商业现成货（COTS）的净采购方，呈现“商业向军用”的逆向技术溢出。
+> - **衍生推论：安全管控收紧对开放创新的侵蚀** 9/11 后联邦研发向短周期战术反恐倾斜、加强学术交流保密审查，极易阻断大学长期基础研究的知识溢出回路，削弱国家创新生态的底层韧性。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29–33, 40–42)]]
 
 > [!citation-card] 高技术研发联盟成功的关键在纵向供应链协同
 > 研发联合体的经验表明，在竞争激烈的行业中，横向联合研发面临极高的利益冲突与搭便车风险。联盟最持久的价值并不在于联合开发通用的前沿制造工艺，而在于通过纵向用户—供应商合作提升上游设备供应商的技术能力与质量标准，从而使整个产业生态受益。
 >
 > *The experience of [[Sematech]] suggests that horizontal collaboration among fierce product-market rivals faces severe organizational barriers. The most significant and durable contributions of the consortium arose from its shift to vertical collaboration with equipment and materials suppliers, improving supplier capabilities, standardizing interfaces, and reducing development cycles for the entire domestic industry.* [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 734–737, 752–754)]]
+
+> [!citation-card] 法布里齐奥与莫厄里论国防采购生命周期与制度独特性
+> 美国战后信息技术产业的成功依赖于军工需求与反垄断规制的精密契合。然而，国防研发对民用创新的催化效应具有不可逆的时效窗口：一旦民用市场实现规模自持，国防开支的溢出效应将急剧衰减；试图在缺乏强劲早期采购需求和开放市场结构的领域简单照搬军工模式，注定难以复制当年的成功。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 31–33)]]
+>
+> *"The defense 'spillover' model of postwar US IT cannot be easily replicated. The economic returns from military procurement were uniquely powerful precisely because military demand preceded civilian markets. As commercial markets expanded, the direction of spillovers reversed, making defense R&D an increasingly inefficient instrument for fostering commercial competitiveness."*
 
 ---
 
@@ -156,6 +175,12 @@ updated: 2026-10-05
 > >
 > > - **[[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]]** 认为横向共性研发在分散的竞争性行业中极易受阻于保密壁垒与利益冲突，联盟成功的决定性转向在于通过“工程合同+派驻人员+技术路线图”赋能纵向供应商生态。
 > > - **传统共性研发倡导者（Sakakibara, 1983; Grewlich, 1984）** 主张将政府资金集中于竞争前阶段的基础工艺共享，以避免企业重复研发投资。
+>
+> > [!axis] 国防研发支持效能：永久溢出引擎 vs 阶段性递减的生命周期
+> > 围绕国防开支能否作为国家长期促进民用商业高科技竞争力的普适政策工具展开争论。
+> >
+> > - **国防技术全能驱动论** 认为军工部门雄厚的研发预算与先导采购能够持续推动尖端技术突破并自然惠及民用经济。
+> > - **[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]]** 强调国防支持具有严格的生命周期性：仅在产业萌芽与成长初期发挥决定性孵化效能；当商业市场成熟后，外溢方向发生逆转，军工专用研发的社会效益显著递减，且 9/11 后以反恐为导向的研发预算重组极易损害大学基础研究公地。
 >
 > > [!axis] [[Technology Transfer|大学技术转移]]立法成效：[[Bayh-Dole Act of 1980|拜杜法案]]推动论 vs 历史积累与技术特征[[Determinism|决定论]]
 > > 围绕《拜杜法案》是否为战后美国高校专利化与技术商业化繁荣的根本驱动力产生的方法与事实争论。

@@ -12,7 +12,7 @@ subtype: event
 region: "global"
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 19
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[International Education]]"
   - "[[Performance Indicators]]"
-  - "[[Structural Adjustment Programs]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Critical Geopolitics]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-02
+updated: 2026-10-05
 ---
 
 # 1967 Williamsburg Conference on the World Crisis in Education
@@ -127,7 +126,7 @@ updated: 2026-10-02
 > > 现代化主流史学盛赞威廉斯堡会议开启了全球教育规划的科学时代；后殖民与冷战史学者则揭示其本质是美国在冷战相持阶段精心策划的文化冷战策略。
 > >
 > > - **自由主义现代化史学** 认为会议首次超越国界审视人类共同教育困境，推动了跨国数据共享与教育系统现代化。
-> > - **[[Critical Geopolitics\|批判地缘政治]]史学** 指出会议将西方特定的工业资本主义病灶普遍化为全人类危机，为国际金融机构推行[[Structural Adjustment Programs|结构调整]]与政策干预铺平了道路。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> > - **[[Critical Geopolitics\|批判地缘政治]]史学** 指出会议将西方特定的工业资本主义病灶普遍化为全人类危机，为国际金融机构推行结构调整与政策干预铺平了道路。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 
 > [!citation-card] 危机叙事与[[Policy Brokerage\|政策中介]]的起源
 > [[OECD\|经合组织]]与[[World Bank\|世界银行]]向政策中介演进的轨迹，深植于教育危机在全球蔓延的周期性危机叙事之中。鉴于其普世性的覆盖范围，各国际组织积极响应了这一召唤。……[[Philip H. Coombs\|菲利普·H·库姆斯]]身兼肯尼迪总统任命的首任主管教育与文化事务的助理国务卿、[[International Institute for Educational Planning\|联合国教科文组织国际教育规划研究所]]首任所长，同时也是极具影响力的《世界教育危机》一书的作者，他比任何人都更具象地人格化了这种危机的普世主义宣称。在冷战分裂的世界中出版，库姆斯的著作在铁幕的另一侧遭到了猛烈抨击。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]

@@ -9,7 +9,7 @@ summary: "美国当代著名社会学大师，国际社会学会（ISA）前主�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Permeable State]]"
   - "[[Unit of Analysis]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Construct]]"
 related_theories:
   - "[[Structural Functionalism]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 
 # Neil Smelser
@@ -112,7 +111,7 @@ updated: 2026-10-01
 
 > [!influence-path] 影响路径
 > - **社会学理论与全球化研究** 其关于“[[Permeable State|民族国家通透性]]/多孔性”的论断，成为全球化社会学转型期广泛引用的权威论据，深刻启迪了国际关系与教育政策分析。
-> - **比较教育学界引用** [[Liliana Esther Olmos|奥尔莫斯]]、[[Carlos Alberto Torres|托雷斯]]、戴尔等批判学者借助其判断，论证了跨国[[Structural Adjustment Programs|结构调整]]与新自由主义处方为何能长驱直入民族国家教育体系。
+> - **比较教育学界引用** [[Liliana Esther Olmos|奥尔莫斯]]、[[Carlos Alberto Torres|托雷斯]]、戴尔等批判学者借助其判断，论证了跨国结构调整与新自由主义处方为何能长驱直入民族国家教育体系。
 
 ---
 

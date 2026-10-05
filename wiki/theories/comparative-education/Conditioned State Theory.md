@@ -11,10 +11,10 @@ aliases:
 summary: "比较教育政治社会学与依附论视阈下的国家理论，主张外围资本主义国家受制于其在全球资本积累中的从属边缘地位与内部后封建政治结构的双重制约，统治精英结成支配同盟使国家沦为代用国家，从而导致公共教育扩张与民主化进程深陷外生与内生矛盾"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 32
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 31
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theory/comparative-education
   - theory/state
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Pact of Domination]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Compensatory Legitimation]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Post-Fordism]]"
   - "[[Dual School System]]"
   - "[[Research Question]]"
@@ -63,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-29
+updated: 2026-10-05
 ---
 
 # Conditioned State Theory
@@ -96,7 +95,7 @@ updated: 2026-09-29
 > [!dev-timeline] 理论版本与贡献
 > - **1990 — 依附国家机制深化** Carnoy 与 Torres 推进第三世界国家向受限国家概念的过渡，聚焦转型社会中教育与国家自主性的辩证张力。
 > - **1995 — 公共教育退潮与公民身份重构** Torres 与 [[Adriana Puiggrós]] 剖析新自由主义国家财政撤资对拉美受限国家公共教育职能的侵蚀，指出大众正被剥夺作为政治民主主体的公民身份。
-> - **2009 — 全球化条件下的跨国化[[Disciplina and Doctrina|规训]]** Olmos 与 Torres 将受限国家理论置于全球化与新自由主义[[Structural Adjustment Programs|结构调整]]视阈，揭示国际金融智识复合体对受限国家教育决策主权的外部架空。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–85)]]
+> - **2009 — 全球化条件下的跨国化[[Disciplina and Doctrina|规训]]** Olmos 与 Torres 将受限国家理论置于全球化与新自由主义结构调整视阈，揭示国际金融智识复合体对受限国家教育决策主权的外部架空。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–85)]]
 
 ---
 
@@ -123,7 +122,7 @@ updated: 2026-09-29
 > [!theory-proposition] 命题二｜主权界限的外部决定性削弱了国家教育规划的自主权
 > **解释** 受限国家的国内市场边界由跨国公司与世界霸权中心外部界定，导致国家对宏观政治经济动态丧失自主调控能力。外围教育体系无法自主对接民族经济与本土产业需求，其教育规划常沦为对外部资本积累阶段性需求（如从福特制标准化到[[Post-Fordism|后福特制]]灵活化积累）的被动响应，甚至直接沦为跨国金融智识复合体的政策试验场。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 >
-> **应用实例** 1990 年代阿根廷在[[World Bank|世界银行]][[Structural Adjustment Programs|结构调整]]贷款压力下，被迫按照跨国专家的方案全面重构布宜诺斯艾利斯大学（UBA）等国立综合大学，强行推行研究生收费化和技术官僚指标考核，削弱了本土高等教育对民族发展议题的批判性研究。
+> **应用实例** 1990 年代阿根廷在[[World Bank|世界银行]]结构调整贷款压力下，被迫按照跨国专家的方案全面重构布宜诺斯艾利斯大学（UBA）等国立综合大学，强行推行研究生收费化和技术官僚指标考核，削弱了本土高等教育对民族发展议题的批判性研究。
 
 > [!theory-proposition] 命题三｜外围教育系统不可避免地走向依附性双轨分选
 > **解释** 为兼顾服务跨国资本积累的效率需求与国内维持政治稳定的合法化需求，受限国家在教育扩张过程中必然演化出深层的阶级[[Dual School System|双轨学制]]：优质资源向服务于跨国资本与官僚精英的私立或学术轨道集中，而大众公立教育则承担基础识字与社会维稳职能，导致名义上的教育规模激增未能消除不平等，反而制度化巩固了社会分层。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74, 81–82)]]
@@ -147,7 +146,7 @@ updated: 2026-09-29
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 该理论适合解释第三世界国家教育扩张与社会不平等固化并存的悖论、国际金融组织政策在发展中国家的落地机制，以及威权外围国家教育政策制定中的阶级偏向。
 > - **分析对象与单位** 民族国家政权机器、国家教育部与国际金融机构的博弈关系、国家与教师工会的制度纽带，以及跨国教育政策转移过程。
-> - **需要的材料** 国家教育财政拨款预算、外债与[[Structural Adjustment Programs|结构调整]]协议文本、教育法律与课程标准审定档案、城乡校际资源配置实证数据、教师工会历史档案。
+> - **需要的材料** 国家教育财政拨款预算、外债与结构调整协议文本、教育法律与课程标准审定档案、城乡校际资源配置实证数据、教师工会历史档案。
 > - **解释目标** 揭示特定教育改革背后的阶级权力同盟实质，判明政策是在推进实质教育公平，还是在执行受限国家的[[Compensatory Legitimation|补偿性合法化]]或资本[[Disciplina and Doctrina|规训]]。
 
 > [!theory-framework] 命题如何转化为分析维度

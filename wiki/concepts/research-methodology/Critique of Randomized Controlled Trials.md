@@ -9,7 +9,7 @@ aliases:
 summary: "对随机对照试验（RCT）作为证据本位教育‘黄金标准’的多维度批评体系，涵盖复杂系统认识论悖论、真实学校操作与效度困境，以及政策治理异化与法定单项合格门槛下的合规假象。"
 type: concept
 domain: "research-methodology"
-related_count: 89
+related_count: 88
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -56,7 +56,6 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Problem Finding]]"
   - "[[Epistemological Coherence]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Fundamental Problem of Causal Inference]]"
   - "[[Counterfactual]]"
@@ -117,7 +116,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-02
+updated: 2026-10-05
 ---
 
 # Critique of Randomized Controlled Trials
@@ -229,7 +228,7 @@ updated: 2026-10-02
 > **临床医学隐喻、合理化神话与依策造据（[[Policy-Based Evidence-Making\|PBEM]]）** 官方政策话语借用临床医学试验的科学光环塑造合理化神话，将 RCT 宣称为非政治性的绝对客观真理，为其激进市场化改革确立无可置辩的合法性。然而从[[Problem Finding\|问题界定]]、统计建模直至政策应用的[[Epistemological Coherence\|全流程认识论连贯性]]在实践中彻底断裂，[[Policy Network\|政策网络]]按部长先定政治偏好（Landing Preferences）逆向采选和资助特定实验，使循证决策异化为掩饰意识形态的“依策造据”（PBEM）。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 17–24)]]
 
 > [!claim] Steiner-Khamsi, G. et al. (2024)
-> **跨国[[Policy Brokerage\|政策中介]]的技术利基与宏观政治经济结构[[Screening Off\|屏蔽]]** [[World Bank\|世界银行]]等国际机构将 RCT 确立为推行[[Structural Adjustment Programs|结构调整]]与循证贷款的规制工具。微观 RCT 对单一技术变量（驱虫药片、考勤指纹机、微额奖金）的强行隔离，系统性地“屏蔽”（Screening Off）了宏观财政紧缩、编制削减与殖民历史欠账等深层结构性矛盾，技术上的“黄金标准”沦为推卸公共治理责任的自指性[[Social Science as Legitimation Alibi\|科学借口]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–548)]]
+> **跨国[[Policy Brokerage\|政策中介]]的技术利基与宏观政治经济结构[[Screening Off\|屏蔽]]** [[World Bank\|世界银行]]等国际机构将 RCT 确立为推行结构调整与循证贷款的规制工具。微观 RCT 对单一技术变量（驱虫药片、考勤指纹机、微额奖金）的强行隔离，系统性地“屏蔽”（Screening Off）了宏观财政紧缩、编制削减与殖民历史欠账等深层结构性矛盾，技术上的“黄金标准”沦为推卸公共治理责任的自指性[[Social Science as Legitimation Alibi\|科学借口]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–548)]]
 
 > [!claim] Wadhwa, G. et al. (2024)
 > **宏观政策认证割裂与跨机构评级冲突的“RCT 悖论”** 尽管全美各清算中心均推崇 RCT，但实证检视 12 个中心 1,359 项研究发现：基于 RCT 的多中心交叉评级中，完全对立冲突率（Recommended vs Not Recommended）高达 35.4%，一致率仅 30.5%。分歧根源不在于微观单项 RCT 内部效度，而在于跨研究综合标准（是否要求独立外部复制、长期[[Fade-out Effect\|持续效果]]等）的制度割裂。单项 RCT 内部效度达标绝非宏观政策认证的[[Necessary and Sufficient Conditions\|充分条件]]。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 18–20, 26–27)]]

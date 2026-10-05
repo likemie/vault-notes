@@ -25,11 +25,11 @@ tags:
   - region/global
 related_concepts:
   - "[[Disciplina and Doctrina]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Class Size]]"
   - "[[Attrition]]"
   - "[[Shadow State]]"
   - "[[State Educational Sovereignty]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Educational Multilateralism]]"
 related_theories:
   - "[[World-Systems Theory]]"
@@ -69,7 +69,7 @@ updated: 2026-10-02
 
 > [!dev-timeline] 组织发展历程
 > - **1944–1971 — 布雷顿森林体系黄金时代** 维持以美元为中心、挂钩黄金的固定汇率体系，重点监督发达经济体资本账户与汇率稳定。
-> - **1970 年代末–1990 年代 — [[Structural Adjustment Programs|结构调整]]与华盛顿共识** 伴随布雷顿森林汇率体系瓦解与拉美、非洲主权债务危机爆发，职能重心转向向发展中国家提供中期贷款，并与[[World Bank|世界银行]]联合开出“华盛顿共识”药方，强制要求受援国推行紧缩、私有化与贸易自由化。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 106)]]
+> - **1970 年代末–1990 年代 — 结构调整与华盛顿共识** 伴随布雷顿森林汇率体系瓦解与拉美、非洲主权债务危机爆发，职能重心转向向发展中国家提供中期贷款，并与[[World Bank|世界银行]]联合开出“华盛顿共识”药方，强制要求受援国推行紧缩、私有化与贸易自由化。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 106)]]
 > - **2000 年代至今 — 危机治理与社会支出争议** 历经亚洲金融危机与 2008 年全球金融海啸，IMF 设立减贫与增长信托，但在主权债务重组中对公共部门支出的刚性控制依然引发国际社会的广泛批评。
 
 ---

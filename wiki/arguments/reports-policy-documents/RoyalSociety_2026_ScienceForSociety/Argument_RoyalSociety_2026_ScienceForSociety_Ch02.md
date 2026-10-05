@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch02"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch02"
 argument_display_title: "Chapter two: Informal engagement with science"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -50,7 +50,6 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Public Engagement with Science]]"
   - "[[Praxis]]"
-  - "[[Structural Adjustment Programs]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
@@ -250,7 +249,7 @@ updated: 2026-09-15
 
 ### 论证步骤四：科普场馆生存告急：运营成本飙升与多元筹资破局
 
-在运营成本飙升与资助[[Structural Adjustment Programs|结构调整]]的夹击下，非正式科学部门正面临生存威胁。（pp. 48–50）
+在运营成本飙升与资助结构调整的夹击下，非正式科学部门正面临生存威胁。（pp. 48–50）
 
 > [!claim] 步骤四核心主张
 > 受通胀高企、场馆维护与能源成本激增、地方政府预算缩减、生活成本危机抑制门票消费，以及惠康信托等传统支柱基金会战略转向国际和专项研究等多重挤压，英国非正式科学参与部门正面临系统性的**生存威胁（Existential Threat）**；必须打破部门壁垒，确立与文化艺术部门对等的财税政策，并引入政府采购社会价值条款（Social VALUE Procurement）与现代慈善激励机制。([[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society, 2026, pp. 42]], 48–50)

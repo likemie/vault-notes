@@ -9,7 +9,7 @@ summary: "美国著名国际教育政策与比较教育学者，范德堡大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 22
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Development Education]]"
   - "[[Paradigm]]"
   - "[[Educational Multilateralism]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Document]]"
   - "[[Disciplina and Doctrina]]"
 related_theories: []
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Stephen P. Heyneman
@@ -96,7 +95,7 @@ updated: 2026-10-03
 > - **1990s–2000s — 多边援助[[Paradigm|范式]]批判与世界银行内部机制反思** 从学术官员转向独立学者，深刻剖析国际金融机构的教条主义弊端。
 >   - **代表著作** "The history and problems in the making of educational policy at the World Bank 1960–2000" (2003)。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110, 117)]]
 >   - **关键概念／理论** [[Educational Multilateralism|教育多边主义]]异化、教育生产函数局限、借贷附带条件批判。
->   - **阶段转向** 尖锐批评世界银行过度迷信“收益率计量”和[[Structural Adjustment Programs|结构调整]]附带条件，指出其用刚性经济公式扼杀后发国家教育公平的深层恶果。
+>   - **阶段转向** 尖锐批评世界银行过度迷信“收益率计量”和结构调整附带条件，指出其用刚性经济公式扼杀后发国家教育公平的深层恶果。
 
 ---
 

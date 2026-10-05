@@ -5,7 +5,7 @@ subtype: organization
 region: japan
 fact_region: "japan"
 fact_kind: "organization"
-fact_related_count: 22
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -19,7 +19,6 @@ tags:
   - theme/developmental-state
   - state-capacity
 related_concepts:
-  - "[[Structural Adjustment Programs]]"
   - "[[Embedded Autonomy]]"
   - "[[Paradigm]]"
   - "[[New Public Management]]"
@@ -48,7 +47,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-04
+updated: 2026-10-05
 title: Ministry of International Trade and Industry
 aliases:
   - MITI
@@ -64,7 +63,7 @@ aliases:
 ## 机构定位与历史职能
 
 > [!claim] 核心定位
-> **日本通商产业省（Ministry of International Trade and Industry / MITI，简称通产省）**是 1949 至 2001 年间日本中央政府统辖对外贸易、工业[[Structural Adjustment Programs|结构调整]]、科技研发攻坚与能源政策的核心超级部委（2001 年中央省厅重组后改组为经济产业省 [METI]）；作为政治学者[[Chalmers Johnson|查默斯·约翰逊]]（Chalmers Johnson, 1982）奠定“发展型国家”（Developmental State）理论的核心经验载体，MITI 依托高素质功绩制文官队伍与密集的政企协同网络，践行[[Embedded Autonomy|嵌入式自主性]]（Embedded Autonomy），引领了二战后日本从废墟中实现钢铁、汽车、造船以及半导体微电子产业的全面奇迹追赶，是第一代使命导向政策（骆驼形态）中后发国家能力的经典[[Paradigm|范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793, 796)]]
+> **日本通商产业省（Ministry of International Trade and Industry / MITI，简称通产省）**是 1949 至 2001 年间日本中央政府统辖对外贸易、工业结构调整、科技研发攻坚与能源政策的核心超级部委（2001 年中央省厅重组后改组为经济产业省 [METI]）；作为政治学者[[Chalmers Johnson|查默斯·约翰逊]]（Chalmers Johnson, 1982）奠定“发展型国家”（Developmental State）理论的核心经验载体，MITI 依托高素质功绩制文官队伍与密集的政企协同网络，践行[[Embedded Autonomy|嵌入式自主性]]（Embedded Autonomy），引领了二战后日本从废墟中实现钢铁、汽车、造船以及半导体微电子产业的全面奇迹追赶，是第一代使命导向政策（骆驼形态）中后发国家能力的经典[[Paradigm|范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793, 796)]]
 
 > [!org-context] 机构背景
 > - **运行历史** 1949 年 5 月由商工省与贸易厅合并成立，直属日本内阁；主导战后日本三十余年年均近 10% 的高速经济增长，2001 年改组为经济产业省。

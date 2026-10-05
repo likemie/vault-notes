@@ -9,10 +9,10 @@ aliases:
 summary: "国家政权自上而下通过行政特许、强制规训与庇护网络将工人、教师、学生等社会群体编入单一垄断性代表机构的政治治理模式，在教育领域表现为执政同盟将教育政策作为补偿性合法化手段以维护国家霸权"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 16
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 15
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/political-economy
   - governance
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Compensatory Legitimation]]"
   - "[[Creativity]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Research Question]]"
   - "[[Conatus]]"
   - "[[Disciplina and Doctrina]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-05
 ---
 
 # State Corporatism
@@ -78,7 +77,7 @@ updated: 2026-09-28
 > [!dev-timeline] 理论版本与贡献
 > - **1974 — 施密特双轨划分** 明确国家法团主义源自威权国家的自上而下强加与政治庇护，社会各单位丧失自主组织权。
 > - **1990/1991 — 教育政治社会学奠基** Torres 与 Morales-Gómez 提出国家法团主义下的教育政策制定模式，指出教育是维持国家霸权的关键补偿工程。
-> - **2009 — 新自由主义转型与解体** Olmos 与 Torres 指出随着全球化与新自由主义[[Structural Adjustment Programs|结构调整]]推进，国家财政撤资与去中心化削弱了传统法团同盟的恩庇物质基础，导致国家法团主义治理陷入合法性危机。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–85)]]
+> - **2009 — 新自由主义转型与解体** Olmos 与 Torres 指出随着全球化与新自由主义结构调整推进，国家财政撤资与去中心化削弱了传统法团同盟的恩庇物质基础，导致国家法团主义治理陷入合法性危机。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–85)]]
 
 ---
 
@@ -146,7 +145,7 @@ updated: 2026-09-28
 > - **维度与材料**
 >   1. *代表机制*：[[SNTE|全国教育工作者工会]]（SNTE）指派官员直接兼任 INEA 地方协调官；
 >   2. *恩庇网络*：扫盲志愿者与辅导员岗位被作为地方党组织恩庇基层的政治礼券；
->   3. *补偿功能*：托雷斯与莫拉莱斯-戈麦斯（1990）的[[Fieldwork|实地调查]]揭示，扫盲教学材料高度强调“革命制度”的正当性，将社会贫困归咎于个人缺乏文化，从而免除了国家[[Structural Adjustment Programs|结构调整]]的责任。
+>   3. *补偿功能*：托雷斯与莫拉莱斯-戈麦斯（1990）的[[Fieldwork|实地调查]]揭示，扫盲教学材料高度强调“革命制度”的正当性，将社会贫困归咎于个人缺乏文化，从而免除了国家结构调整的责任。
 > - **综合判读** 该案例证明，INEA 绝非单纯的中立技术扫盲机构，而是后革命国家法团主义为了平抑债务危机冲击、将数以百万计的边缘大众收编进政权恩庇体系而精心打造的政治防火墙。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 
 ---

@@ -9,9 +9,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 16
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 15
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: 国际发展政策研究与智库网络（International Public Policy Research Network）
 headquarters: 新德里（New Delhi，初始发起于华盛顿特区）
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Knowledge Bank]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Mediation]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Positivism]]"
   - "[[Research Utilization]]"
   - "[[Policy Brokerage]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-29
+updated: 2026-10-05
 ---
 
 # Global Development Network
@@ -128,7 +127,7 @@ updated: 2026-09-29
 > [!debates] 制度争议与批判
 >
 > > [!axis] 本土赋权修辞与总部技术霸权的张力
-> > 批评学者指出，[[World Bank\|世界银行]]创建 GDN 从一开始就带有掩饰自身霸权的合法化意图；当本土学者产出的研究结论与世行推行的新自由主义[[Structural Adjustment Programs|结构调整]]、私有化方案发生冲突时，世行便会毫不犹豫地弃用本土研究，转而动用总部集中研发的 [[Systems Approach for Better Education Results\|SABER]] 指标予以强行压制。（Stone, 2000; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024, p. 543]]）
+> > 批评学者指出，[[World Bank\|世界银行]]创建 GDN 从一开始就带有掩饰自身霸权的合法化意图；当本土学者产出的研究结论与世行推行的新自由主义结构调整、私有化方案发生冲突时，世行便会毫不犹豫地弃用本土研究，转而动用总部集中研发的 [[Systems Approach for Better Education Results\|SABER]] 指标予以强行压制。（Stone, 2000; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024, p. 543]]）
 >
 > > [!axis] [[Knowledge Mediation\|知识中介]]中立性与依附性研究生产的张力
 > > 国际政治经济学派审视指出，依靠外部资助生存的南方智库极易陷入对北方发展机构议题偏好的依附，GDN 虽然试图培育本土研究，却在无形中将西方主流[[Positivism\|实证主义]]与计量模型强加为衡量发展研究质量的唯一准则。

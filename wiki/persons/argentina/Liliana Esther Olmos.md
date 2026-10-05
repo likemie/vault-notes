@@ -9,7 +9,7 @@ summary: "阿根廷裔比较教育社会学者，加州大学洛杉矶分校拉�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 20
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Compensatory Legitimation]]"
   - "[[Financial-Intellectual Complex]]"
   - "[[Emergence]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Dual School System]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Critical Pedagogy]]"
@@ -52,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-05
 ---
 
 # Liliana Esther Olmos
@@ -76,7 +75,7 @@ updated: 2026-09-28
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1980s–1990s** 在阿根廷及拉美从事成人教育、识字运动与教育社会学研究，亲历拉美威权军政府向代议民主制转型及债务危机背景下的[[Structural Adjustment Programs|结构调整]]。
+> - **1980s–1990s** 在阿根廷及拉美从事成人教育、识字运动与教育社会学研究，亲历拉美威权军政府向代议民主制转型及债务危机背景下的结构调整。
 > - **2000s–至今** 任职于加州大学洛杉矶分校（UCLA）拉丁美洲中心与教育研究生院，与[[Carlos Alberto Torres|托雷斯]]等学者密切合作，主攻全球化政治经济学、国家理论与第三世界教育政策批判。
 
 ---

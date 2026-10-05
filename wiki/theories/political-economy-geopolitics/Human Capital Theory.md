@@ -4,10 +4,10 @@ aliases:
   - 人力资本理论
   - 人力资本
   - human capital
-summary: "将教育与培训视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论。二战后在冷战地缘博弈中成为经合组织（OECD）推行技术官僚式人力规划与世界银行构建跨国放贷指标帝国的核心理论支柱。"
+summary: "将教育与培训视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论。二战后在冷战地缘博弈中成为经合组织（OECD）推行技术官僚式人力规划与世界银行构建跨国放贷指标帝国的核心理论支柱；在创新经济学中阐明了重大工程实战历练与冷战大学研究生流动构筑高科技产业实体技术转移与人才生态的微观机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 57
+theory_related_count: 59
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -27,7 +27,9 @@ related_concepts:
   - "[[Total Factor Productivity]]"
   - "[[Independent Variable]]"
   - "[[Learning by Doing]]"
-  - "[[Structural Adjustment Programs]]"
+  - "[[Cold War University]]"
+  - "[[Technology Transfer]]"
+  - "[[Refined Mastery]]"
   - "[[Competitiveness]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
@@ -46,7 +48,6 @@ related_concepts:
   - "[[Historical Amnesia]]"
   - "[[Modern Industrial Policy]]"
   - "[[STEM Education]]"
-  - "[[Refined Mastery]]"
   - "[[Scientific Paradigm]]"
 related_theories:
   - "[[Governing at a Distance]]"
@@ -79,6 +80,7 @@ related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Schnee_1978_RP]]"
+  - "[[Argument_Fabrizio_Mowery_2005_REI]]"
   - "[[Argument_Bown_2024_JEP]]"
   - "[[Argument_Li_2025_HSSC]]"
 confidence: high
@@ -155,6 +157,16 @@ updated: 2026-10-05
 > - **前提二** 专门工程人力资本的社会生产力释放取决于其组织流动网络的制度设计——包括反垄断规制促成的专利交叉许可与离职创业宽容文化，以及大型制造企业内部从重大特种工程向商业通用产品线的跨部门经验平移机制（[[Argument_Schnee_1978_RP|Schnee, 1978, pp. 18–20]]）。
 > - **推导** ① 空间与国防公共重大项目充当了高技术专门人力资本的国家级实训基地；② 在半导体领域催化了以研发外溢与衍生企业繁衍为特征的高频“企业间外部流动网络”（如[[Bell Labs|贝尔实验室]]与仙童繁衍谱系）；③ 在计算机领域构建了以复杂系统项目主管跨界调配为特征的“企业内部知识平移机制”，共同构筑了国家高技术产业的人才生态优势。
 
+> [!proposition-chain] 核心命题六｜[[Cold War University|冷战大学]]科研资助通过研究生流动构筑新兴产业的实体人力资本转移载体
+> - **前提一** 战后美国国防部与联邦机构对[[Cold War University|冷战大学]]（如麻省理工学院、斯坦福大学、卡内基梅隆大学与伯克利分校）的计算机与工程研究进行了长达数十年的非保密基础研究注资（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005, pp. 29–31]]）。
+> - **前提二** 与传统依靠正式专利许可的交易型[[Technology Transfer|技术转移]]不同，新兴信息技术领域知识具有高度默会性与未定型性，大学与产业间最高效的知识扩散载体是直接参与前沿课题攻关的研究生与博士后（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005, p. 30]]）。
+> - **推导** ① 联邦科研预算实质上发挥了“跨期人力资本孵化基金”功能，在学术前沿培育了全美第一代掌握复杂操作系统、网络协议与芯片工艺的高阶工程师；② 受训青年学者的高频实体跨界流动（毕业任职于商业巨头或独立创办衍生企业），构成了战后美国信息技术向民用市场扩散的最关键机制；③ 证实了人力资本理论在国家创新体系维度的微观机理——高强度的公共研发投资必须与自由开放的人才流动网络相咬合，方能转化为不可逆的产业竞争优势。
+
+> [!citation-card] 法布里齐奥与莫厄里论研究生流动作为核心人力资本技术转移渠道
+> 联邦对大学基础研究的支持不仅创造了前沿科技成果，更关键的是培养了大批[[Refined Mastery|精通]]新兴计算与微电子科学的研究生。这些青年科研人才向产业界的高频流动，构成了二战后美国信息技术产业技术转移与商业化起飞的最决定性渠道，其影响力远超正式的专利排他许可。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 30)]]
+>
+> *"The mobility of graduate students and researchers trained in federally funded university research programs was among the most important channels of technology transfer in the postwar US computing and semiconductor industries, far surpassing the economic significance of formal patent licensing."*
+
 > [!mechanism-map]- 人力资本理论的多重运作机制演化图
 > ```mermaid
 > flowchart TD
@@ -188,7 +200,7 @@ updated: 2026-10-05
 > ```
 
 > [!exegesis]- 教育规划与综合中学运动的实证案例
-> 在 1960 年代 OECD 推动的地中海地区项目（[[Mediterranean Regional Project]]，MRP）以及英美等国的综合学校（Comprehensive School）运动中，政策制定者深度动用了人力资本理论。一方面，技术官僚依据帕恩斯（Herbert Parnes, 1962）的人力需求模型，测算未来二十年工业升级所需的工程师与技术人员配额，以此作为中央财政向中等与高等教育大幅追加拨款的铁证；另一方面，当经济陷入周期性失业或文凭贬值时，行政部门便以“劳动力市场[[Structural Adjustment Programs|结构调整]]与滞[[Pre-test and Post-test\|后测]]算”为技术由头规避问责，充分展现了该理论作为政策护甲与合法化借口的双重功能。
+> 在 1960 年代 OECD 推动的地中海地区项目（[[Mediterranean Regional Project]]，MRP）以及英美等国的综合学校（Comprehensive School）运动中，政策制定者深度动用了人力资本理论。一方面，技术官僚依据帕恩斯（Herbert Parnes, 1962）的人力需求模型，测算未来二十年工业升级所需的工程师与技术人员配额，以此作为中央财政向中等与高等教育大幅追加拨款的铁证；另一方面，当经济陷入周期性失业或文凭贬值时，行政部门便以“劳动力市场结构调整与滞[[Pre-test and Post-test\|后测]]算”为技术由头规避问责，充分展现了该理论作为政策护甲与合法化借口的双重功能。
 > 
 > 在跨国治理维度上，世界银行自 1980 年代起依托 Psacharopoulos 主导的教育收益率大样本跨国数据库，持续将初等教育的高回报率作为强加给第三世界借款国的政策处方，将原本具有高度不确定性的教育过程简化为确定性的金融贴现资产，构成了冷战后国际组织以数据统治教育的经典案例。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
@@ -292,3 +304,6 @@ updated: 2026-10-05
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示跨国大规模评估（OECD/PISA）崛起后，以人力资本和经济竞争力为导向的技术官僚治理如何对比较教育的研究课题、经费分配与政策咨询施加直接的量化[[Disciplina and Doctrina|规训]]压力。
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统剖析美国半导体与计算机产业发展史，揭示重大公共战略工程如何培育高技术专门工程人力资本，并通过企业间衍生创业网络与企业内部跨部门平移双重机制驱动民用产业升级。
 > - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 从[[Modern Industrial Policy|现代产业政策]]与大国半导体竞争视角，阐明高科技先进制程对高密度专门工程劳动力池的刚性依赖、跨国战略人才招募竞争，以及补贴法案中劳动力发展（IMEC 产学模式与托儿服务配套）的制度设计。
+> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 实证阐明战后美国国防科研对大学计算机系所的长期资助如何孵化新兴科技人力资本，并通过受训研究生的跨界流动构筑信息技术向产业界转移的核心载体。
+
+---

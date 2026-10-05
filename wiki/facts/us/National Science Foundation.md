@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 47
+fact_related_count: 49
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Convergence Research]]"
   - "[[Innovation Hub]]"
   - "[[Use-Inspired Basic Research]]"
+  - "[[Second-Sourcing]]"
   - "[[Paradigm]]"
   - "[[University-Industry Collaboration]]"
   - "[[Research Translation]]"
@@ -73,6 +74,7 @@ related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Stephan_2013_NBER]]"
   - "[[Argument_Mowery_2011_NBER]]"
+  - "[[Argument_Fabrizio_Mowery_2005_REI]]"
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
   - "[[Argument_Cheng_2026_KeJiChuangXin]]"
@@ -117,7 +119,7 @@ updated: 2026-10-05
 > - **1970s–1980s — 产学协同试点、超级[[Center of Calculation|计算中心]]与《[[Bayh-Dole Act of 1980|拜杜法案]]》催化**
 >   - 1970 年代初设立“国家需求应用研究计划”（RANN）；在认知科学家[[Richard C. Atkinson|理查德·C·阿特金森]]出任主任期间（1977–1980），NSF 冲破法规限制（法律规定不得直接资助营利性机构），于 1978 年设立开创性试点计划支持大学与产业界开展合作研究，直接孕育出[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（I/UCRC）。
 >   - 随后设立长达 11 年资助周期的工程研究中心（Engineering Research Centers, ERCs）与科学技术中心（Science and Technology Centers, STCs）；1980 年代 NSF 通过全国竞争在 5 所大学设立国家超级计算机中心（Supercomputer Centers），推动互联网基础设施与前沿计算普惠。
->   - 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》与 1984 年《经济安全教育法》（P.L. 99-159）相继出台，NSF 深度充当联结高校科研与产业转化的国家杠杆。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 36, 40–42)]]
+>   - 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》与 1984 年《经济安全教育法》（P.L. 99-159）相继出台，NSF 深度充当联结高校科研与产业转化的国家杠杆。在 1980 年代后期（1986–1990），随着国防部在高校计算机科学研发中的出资份额由近 60% 断崖式跌落至不足 30%，NSF 等民事机构迅速介入并扩大了对高校计算机与信息学科的常规基础研究资助，填补了军方资金退潮留下的关键真空。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 37)]]; [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 36, 40–42)]]
 > - **2011–2021 — 创业生态培育与跨学科[[Convergence Research|融合研究]]拓展**
 >   - 2011 年创设 [[NSF I-Corps]]（创新兵团），将精益创业方法论植入高校学术成果转化生态，在科研项目中内置产业反馈闭环；同时在 2019 年牛津 [[University Industry Demonstration Partnership|UIDP]] 峰会上被确立为推动 [[STEM Education|STEM]] 与人文社会科学（SSH）[[Convergence Research|融合研究]]的典范机构（如“人类技术前沿的工作未来”重大项目），并联合教育部与农业部启动首批国家人工智能研究院布局。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]; [[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 14–15)]]; [[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 40)]]
 > - **2022–至今 — 《[[CHIPS and Science Act|芯片法案]]》赋能与 TIP 理事会的区域创新变革**
@@ -132,6 +134,14 @@ updated: 2026-10-05
 > - **执行领导层（Director）** 由总统提名并经参议院确认的基金会主任（任期六年）主持日常运行，统筹各大学术理事会与跨学科倡议的资金下达与战略执行。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–36)]]
 > - **专业学术理事会体系** 涵盖生物科学、计算机与信息科学、工程、地学、数理科学、社会与行为及经济科学、[[STEM Education|STEM]] 教育（EDU 理事会），以及 2022 年新设的技术、创新与合作理事会（TIP）。
 > - **政策沉浸与前沿学者中枢** 与[[American Association for the Advancement of Science|美国科学促进会]]（AAAS）及 [[American Educational Research Association|AERA]] 建立联合机制，吸纳完成为期一年全职国会山浸润的国会科学研究员（Congressional Fellows）进入 NSF 等联邦行政中枢，执掌重大科研资助指南（RFPs）制定与优先资助领域设定，将宏观政策诉求与一线实践前瞻性融入国家科研指南设计。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 46–47)]]
+
+> [!contrast-table] NSF 民事基础科研模式 vs. 国防部（DoD）使命导向科研模式对比（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005, pp. 28–31]]）
+> | 比较维度 | NSF 民事科学资助体制 | 国防部（DoD / [[DARPA]]）国防资助体制 |
+> |---|---|---|
+> | **核心使命驱动** | 好奇心驱动的自由探索、科学普及与广泛社会福祉 | 国家安全防卫、前沿颠覆性装备突防与战略战术需求 |
+> | **评审与决策机制** | 严格的学术共同体同行评议（Peer Review）双重标准 | 项目经理（PMs）高度自主的自由裁量权与契约式硬性里程碑审查 |
+> | **下游产业连接** | 倡导学术成果公开发表、产学协同中心与自由商业化转让 | 深度绑定早期先导采购、第二货源（[[Second-Sourcing]]）与军用规格试验 |
+> | **学科预算演进** | 长期聚焦计算机与工程基础机理、STEM 人才池托底 | 在冷战后期及 9/11 后向短期试验开发倾斜，基础研究占比波动显著 |
 
 > [!pathways]- 业务运行机制与协同网络
 > - **同行评审双重黄金标准与跨机构资助接力** 自建制伊始即确立严格的同行评议审查程序，大学教师通过学校科研合同处递交的项目提案均须经过同行领域专家严谨评议；评议执行“智力价值”（Intellectual Merit）与“广泛影响”（Broader Impacts）双重准则。该模式与 [[DARPA]] 依赖内部项目经理自由裁量权的高风险使命模式形成机制互补与**跨机构资助接力（Institutional Relay）** 对于背离既有[[Paradigm|范式]]、在早期极易遭常规同行评审否决的前瞻颠覆性构想（如应变硅技术），通常由 DARPA 率先承担早期试错风险并完成概念验证；待技术可行性确立后，高校学者后续得以顺利申请 NSF 基金进行深入的机理研究与长效学术沉淀。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 36)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1142–1143)]]
@@ -148,7 +158,7 @@ updated: 2026-10-05
 > - **大学基础科研资助基石（[[Blue Skies Research]]）** 每年向全美高校与研究机构下拨数以万计的竞争性科研基金，支撑全美约四分之一的高校联邦基础研究，孕育了数百位诺贝尔奖得主与突破性科学发现。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 13)]]
 > - **[[University-Industry Collaboration|产学合作]][[Innovation Hub|创新中心]]矩阵（[[Industry-University Cooperative Research Centers|I/UCRC]]、ERCs 与 STCs）** 自 1978 年试点以来构建的产学协同长效载体，为大学教师与研究生深入企业现实工程难题、为企业锁定顶尖博士后人才提供了跨界共生网络。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **国家超级计算机中心（Supercomputer Centers）** 1980 年代在全美 5 所大学经全国竞争设立的国家级前沿计算设施，向全美合格大学教师开放基于同行评审的机时申请，为互联网早期主干网建设与计算密集型科研奠定技术基础。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
-> - **大学计算机科研基础设施与学科建制** 1960 年代起系统资助全美高校计算机实验室建设与计算机科学系（CS）课程开发，直接推动计算机学科从无到有建制化。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 176)]]
+> - **大学计算机科研基础设施与学科建制** 1960 年代起系统资助全美高校计算机实验室建设与计算机科学系（CS）课程开发，并在冷战后期接棒国防部成为高校计算机基础科研的主要民事资助支柱。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 37)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 176)]]
 > - **NSF 创新兵团创业培训体系（[[NSF I-Corps]]）** 2011 年创设的高校学术创业孵化标杆，通过教授学者创业思维并要求产业代表深度参与，在科研项目中内置产业反馈闭环，累计孵化超 1,000 家初创企业，后续撬动逾 7.6 亿美元融资。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
 > - **TIP 区域创新引擎与[[Innovation Hub|创新中心]]** 依据《[[CHIPS and Science Act|芯片与科学法案]]》重点投向非传统科技聚集区，向 10 个区域创新合作体授予高达 1.6 亿美元的十年期资助，推动先进制造、人工智能等战略[[Research Translation|技术转化]]。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]
 > - **国家人工智能研究院网络** 联合教育部、农业部等多部门围绕 10 余个重点方向设立 25 所国家 AI 研究院，由世界一流大学与领先科技企业共同组成；以加州大学圣迭戈分校牵头的大规模学习优化 AI 研究院为例，联合 MIT、耶鲁及英伟达、三星，并引入斯威特沃特联合高中学区等应用场景提供方，实现了前沿算法在芯片设计与教育场景的双向赋能。[[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 40)]]

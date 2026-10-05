@@ -1,16 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "American Association for the Advancement of Science",
-      "path": "wiki/facts/us/American Association for the Advancement of Science.md"
-    },
-    {
       "basename": "Argument_Fabrizio_Mowery_2005_REI",
       "path": "wiki/arguments/journal-articles/Revue d'économie industrielle/Argument_Fabrizio_Mowery_2005_REI.md"
     },
     {
+      "basename": "David C. Mowery",
+      "path": "wiki/persons/us/David C. Mowery.md"
+    },
+    {
+      "basename": "Structural Adjustment Programs",
+      "path": "wiki/concepts/comparative-education/Structural Adjustment Programs.md"
+    },
+    {
+      "basename": "Technological Trajectories",
+      "path": "wiki/theories/political-economy-geopolitics/Technological Trajectories.md"
+    },
+    {
+      "basename": "Network Analysis",
+      "path": "wiki/methods/mixed/Network Analysis.md"
+    },
+    {
       "basename": "DARPA",
       "path": "wiki/facts/us/DARPA.md"
+    },
+    {
+      "basename": "Argument_Brint_2023_IHE",
+      "path": "wiki/arguments/journal-articles/International Higher Education/Argument_Brint_2023_IHE.md"
+    },
+    {
+      "basename": "Human Capital Theory",
+      "path": "wiki/theories/political-economy-geopolitics/Human Capital Theory.md"
+    },
+    {
+      "basename": "Semi-Automatic Ground Environment",
+      "path": "wiki/facts/us/Semi-Automatic Ground Environment.md"
+    },
+    {
+      "basename": "European Research Area",
+      "path": "wiki/facts/eu/European Research Area.md"
+    },
+    {
+      "basename": "Technology Transfer",
+      "path": "wiki/concepts/university-industry-collaboration/Technology Transfer.md"
+    },
+    {
+      "basename": "Bell Labs",
+      "path": "wiki/facts/us/Bell Labs.md"
+    },
+    {
+      "basename": "Learning by Doing",
+      "path": "wiki/concepts/instruction-pedagogy/Learning by Doing.md"
+    },
+    {
+      "basename": "Knowledge Mediation",
+      "path": "wiki/concepts/educational-policy-reform/Knowledge Mediation.md"
+    },
+    {
+      "basename": "Historical-Comparative Method",
+      "path": "wiki/methods/qualitative/Historical-Comparative Method.md"
+    },
+    {
+      "basename": "National Science Foundation",
+      "path": "wiki/facts/us/National Science Foundation.md"
+    },
+    {
+      "basename": "American Association for the Advancement of Science",
+      "path": "wiki/facts/us/American Association for the Advancement of Science.md"
     },
     {
       "basename": "Second-Sourcing",
@@ -27,10 +83,6 @@
     {
       "basename": "General Purpose Technology",
       "path": "wiki/concepts/economics/General Purpose Technology.md"
-    },
-    {
-      "basename": "Argument_Brint_2023_IHE",
-      "path": "wiki/arguments/journal-articles/International Higher Education/Argument_Brint_2023_IHE.md"
     },
     {
       "basename": "Argument_Cheng_2026_KeJiChuangXin",
@@ -67,10 +119,6 @@
     {
       "basename": "Use-Inspired Basic Research",
       "path": "wiki/concepts/university-industry-collaboration/Use-Inspired Basic Research.md"
-    },
-    {
-      "basename": "National Science Foundation",
-      "path": "wiki/facts/us/National Science Foundation.md"
     },
     {
       "basename": "Argument_Murphy_2026_JTS",
@@ -151,54 +199,6 @@
     {
       "basename": "1986 U.S.-Japan Semiconductor Trade Agreement",
       "path": "wiki/facts/us/1986 U.S.-Japan Semiconductor Trade Agreement.md"
-    },
-    {
-      "basename": "VLSI Project",
-      "path": "wiki/facts/east-asia/VLSI Project.md"
-    },
-    {
-      "basename": "Ministry of International Trade and Industry",
-      "path": "wiki/facts/japan/Ministry of International Trade and Industry.md"
-    },
-    {
-      "basename": "Bell Labs",
-      "path": "wiki/facts/us/Bell Labs.md"
-    },
-    {
-      "basename": "Fairchild Semiconductor",
-      "path": "wiki/facts/us/Fairchild Semiconductor.md"
-    },
-    {
-      "basename": "Market Shaping and Creating",
-      "path": "wiki/concepts/science-policy/Market Shaping and Creating.md"
-    },
-    {
-      "basename": "European Chips Act",
-      "path": "wiki/facts/eu/European Chips Act.md"
-    },
-    {
-      "basename": "Historical-Comparative Method",
-      "path": "wiki/methods/qualitative/Historical-Comparative Method.md"
-    },
-    {
-      "basename": "Vertical Disintegration",
-      "path": "wiki/concepts/political-economy-geopolitics/Vertical Disintegration.md"
-    },
-    {
-      "basename": "Market Failure",
-      "path": "wiki/concepts/science-policy/Market Failure.md"
-    },
-    {
-      "basename": "Competitive Semiconductor Manufacturing Program",
-      "path": "wiki/facts/us/Competitive Semiconductor Manufacturing Program.md"
-    },
-    {
-      "basename": "Argument_Macher_1998_CMR",
-      "path": "wiki/arguments/journal-articles/California Management Review/Argument_Macher_1998_CMR.md"
-    },
-    {
-      "basename": "Technological Trajectories",
-      "path": "wiki/theories/political-economy-geopolitics/Technological Trajectories.md"
     }
   ],
   "omittedPaths": [],

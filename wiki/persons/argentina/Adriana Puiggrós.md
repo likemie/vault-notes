@@ -8,10 +8,10 @@ summary: "阿根廷著名教育史学家与批判比较教育学家，曾任阿�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 24
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 23
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1941"
 died: ""
 lifespan: "1941–至今"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Dialogue in Education]]"
   - "[[Grandes Ecoles]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Popular Education]]"
   - "[[Whiggism]]"
   - "[[Disciplina and Doctrina]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-02
+updated: 2026-10-05
 ---
 
 # Adriana Puiggrós
@@ -85,7 +84,7 @@ updated: 2026-10-02
 > - **1974** 阿根廷右翼极端势力暗杀威胁与随后的军事政变迫使其流亡墨西哥，进入墨西哥国立自治大学（UNAM）攻读拉丁美洲研究博士学位并任教。
 > - **1980** 在墨西哥出版开创性著作《帝国主义与拉丁美洲教育》（*Imperialismo y educación en América Latina*），将[[Dependency Theory|依附理论]]与[[Hegemony|葛兰西霸权理论]]融汇于拉美教育史研究。
 > - **1984** 阿根廷恢复民主宪政后返回祖国，在布宜诺斯艾利斯大学创立“拉美教育历史替代方案研究计划”（APPEAL），主持编撰十卷本《阿根廷教育史》（*Historia de la educación en la Argentina*）。
-> - **1990 年代** 与[[Carlos Alberto Torres|托雷斯]]密切合作，深入批判[[World Bank|世界银行]][[Structural Adjustment Programs|结构调整]]与华盛顿共识在拉美推行的教育市场化改革。
+> - **1990 年代** 与[[Carlos Alberto Torres|托雷斯]]密切合作，深入批判[[World Bank|世界银行]]结构调整与华盛顿共识在拉美推行的教育市场化改革。
 > - **2005–2007** 出任布宜诺斯艾利斯省教育文化总局局长（正部级），力推公立学校民主化改革。
 > - **2019–2020** 出任阿根廷国家教育部副部长。
 
@@ -98,7 +97,7 @@ updated: 2026-10-02
 >   - **代表著作** *Imperialismo y educación en América Latina*（1980）；*La [[Popular Education|educación popular]] en América Latina*（1984）。
 >   - **关键概念／方法** [[Popular Education|民众教育]]、霸权机制、历史-比较方法。
 >   - **阶段转向** 突破传统[[Whiggism|辉格史观]]与自由主义建国神话，系统揭示拉美正规学校在[[Disciplina and Doctrina|规训]]底层、服务寡头依附经济中的实质功能。
-> - **1990 年代至今 — 新自由主义批判与[[Pedagogical Subject|教育主体]]的保卫** 聚焦新自由主义[[Structural Adjustment Programs|结构调整]]、[[Endogenous and Exogenous Privatisation|教育私有化]]对民主公民身份的侵蚀。
+> - **1990 年代至今 — 新自由主义批判与[[Pedagogical Subject|教育主体]]的保卫** 聚焦新自由主义结构调整、[[Endogenous and Exogenous Privatisation|教育私有化]]对民主公民身份的侵蚀。
 >   - **代表著作** *Sujetos, disciplina y curriculum en los orígenes del sistema educativo argentino*（1990）；*The State and Public Education in Latin America*（with C. A. Torres, 1995/2007）。
 >   - **关键概念／方法** 教育主体（Pedagogical Subjects）、[[Endogenous and Exogenous Privatisation|教育私有化]]、国家撤资。
 >   - **阶段转向** 从纯粹的历史制度批判转向国家政治哲学批判，深入剖析市场逻辑如何将[[Reflexivity|反思性]]公民退化为教育消费个体。

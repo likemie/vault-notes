@@ -7,7 +7,7 @@ summary: "加拿大著名比较教育学者，多伦多大学安大略教育研�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 23
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Research Topic]]"
   - "[[Lifelong Learning]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Shadow State]]"
   - "[[Educational Meliorism]]"
   - "[[Analytical Stance]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-02
+updated: 2026-10-05
 ---
 
 # Karen Mundy
@@ -91,7 +90,7 @@ updated: 2026-10-02
 > - **1990s — 战后[[Educational Multilateralism|教育多边主义]]演化与机构霸权转移** 结合国际政治经济学体制理论，考察战后跨国教育合作形态的意识形态更替。
 >   - **代表著作** "Educational Multilateralism and World (Dis)order" (1998); "Educational Multilateralism in a Changing World Order: [[UNESCO]] and the limits of the possible" (1999)。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 >   - **关键概念／理论** [[Educational Multilateralism|教育多边主义]]、有限再分配模式、防御性与[[Disciplina and Doctrina|规训]]性合作。
->   - **阶段转向** 揭示出从战后教科文组织的福利人权取向，到[[World Bank|世界银行]][[Structural Adjustment Programs|结构调整]]主导的规训取向的质的倒退。
+>   - **阶段转向** 揭示出从战后教科文组织的福利人权取向，到[[World Bank|世界银行]]结构调整主导的规训取向的质的倒退。
 > - **2000s–至今 — 跨国公民社会网络与[[Global Partnership for Education|全球教育伙伴关系]]** 考察国际非政府组织与跨国倡导网络如何参与全球教育议程设置。
 >   - **代表著作** "Transnational advocacy networks and the world NGO movement" (2001, with L. Murphy); *Educating All Children: A Global Objective* (2008)。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 111, 118)]]
 >   - **关键概念／理论** 跨国倡导网络、[[Shadow State|影子国家]]异化、公私伙伴治理。

@@ -179,7 +179,7 @@ updated: 2026-09-29
 > [!dev-timeline] 概念演变
 > - **1993 — 市场化作为阶级策略确立** [[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）发表《教育市场、选择与社会阶级》，深刻揭露教育准市场化是国家主导的阶级再生产策略。
 > - **2008 — 内生与外生私有化[[Paradigm|范式]]提出** 鲍尔与尤德尔（Ball & Youdell）在为[[International Education|国际教育]]组织（[[Education International]]）撰写的全球报告中，首次系统界定公立教育内部运作企业化（内生）与外部服务私营化（外生）的双轨模型。
-> - **2009 — 发展中国家[[Structural Adjustment Programs|结构调整]]视阈拓展** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]（Olmos & Torres）将私有化论题延伸至[[Conditioned State Theory|受限国家]]的结构调整方案中，揭示[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]如何以紧缩贷款迫使拉美国家推行使用者自费与教育分权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
+> - **2009 — 发展中国家结构调整视阈拓展** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]（Olmos & Torres）将私有化论题延伸至[[Conditioned State Theory|受限国家]]的[[Structural Adjustment Programs|结构调整方案]]中，揭示[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]如何以紧缩贷款迫使拉美国家推行使用者自费与教育分权。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 > - **2016 — 精英网络与政策暗箱化实证深化** 奥尼尔等人（O'Neill et al.）以新西兰基础教育为样本，记录了私有化从单纯合同外包走向跨国精英网络幕后操纵政策议程的演进轨迹。
 > - **2022 — [[Internationalization of Higher Education|高等教育国际化]]因果链整合** 里兹维（Rizvi）将该理论框架运用于全球高教流动分析，揭示国际教育贸易如何将大学固化在内生私有化的循环逻辑中。
 
@@ -239,4 +239,4 @@ updated: 2026-09-29
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 细致解剖新西兰公立教育体系在内生与外生双轨私有化下的演化历程与非正式精英[[Network Governance|网络治理]]。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 揭示[[Internationalization of Higher Education|高等教育国际化]]与国际留学生学费市场如何驱动公立大学不可逆的永久性内生私有化。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 将教育私有化定性为新自由主义国家的阶级策略，揭示其在拉美[[Conditioned State Theory|受限国家]]伴随[[Structural Adjustment Programs|结构调整]]而推进的成本转嫁机制。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 将教育私有化定性为新自由主义国家的阶级策略，揭示其在拉美[[Conditioned State Theory|受限国家]]伴随结构调整而推进的成本转嫁机制。

@@ -63,8 +63,8 @@ updated: 2026-10-02
 > - **核心角色** 拉美中产阶级、非正式制度与生存互助网络研究的领军学者；通过对智利皮诺切特军政权下中产阶级家庭的长期田野民族志调查，率先揭露了新自由主义极端市场化、教育券制度与使用者付费如何残酷侵蚀普通家庭生计，为解构新自由主义“自由选择”神话提供了不可替代的一手实证人类学基准。
 > - **代表贡献** 提出拉美边缘群体与中产阶级互助生存网络模型；出版《边缘人如何生存：墨西哥城棚户区的互助网络》（1975/1977）与《智利中产阶级：新自由主义下的生存斗争》（与安娜·梅尔尼克合著，1991）。
 
-> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论洛姆尼茨等学者对新自由主义[[Structural Adjustment Programs|结构调整]]与智利社会危机的实证剖析
-> 洛姆尼茨与梅尔尼克（Lomnitz & Melnick, 1991）指出，在历史和哲学层面上，新自由主义始终与结构调整方案紧密捆绑在一起。结构调整进而通常被描述为[[World Bank|世界银行]]、[[International Monetary Fund|国际货币基金组织]]以及其他跨国金融机构所推荐的一整套紧缩政策……其对智利中产阶级生活史的[[Fieldwork|田野调查]]深刻证实，推行使用者付费与学校私有化实质上是残酷瓦解公共福利的阶级暴力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 85–86)]]
+> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论洛姆尼茨等学者对新自由主义结构调整与智利社会危机的实证剖析
+> 洛姆尼茨与梅尔尼克（Lomnitz & Melnick, 1991）指出，在历史和哲学层面上，新自由主义始终与[[Structural Adjustment Programs|结构调整方案]]紧密捆绑在一起。结构调整进而通常被描述为[[World Bank|世界银行]]、[[International Monetary Fund|国际货币基金组织]]以及其他跨国金融机构所推荐的一整套紧缩政策……其对智利中产阶级生活史的[[Fieldwork|田野调查]]深刻证实，推行使用者付费与学校私有化实质上是残酷瓦解公共福利的阶级暴力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 85–86)]]
 >
 > *Lomnitz & Melnick (1991) argue that, historically and philosophically, neoliberalism has been associated with structural adjustment programs. Structural adjustment, in turn, is usually described as a broad range of policies recommended by the World Bank, the International Monetary Fund, and other financial organizations.*
 
@@ -93,7 +93,7 @@ updated: 2026-10-02
 >   - **阶段转向** 突破传统贫困文化论，确立结构性[[Network Analysis|社会网络分析]][[Paradigm|范式]]。
 > - **1980–1990 年代 — 新自由主义对中产阶级的结构性剥夺** 聚焦智利作为新自由主义全球试验田的残酷社会后果。
 >   - **代表著作** *Chile's Middle Class: A Struggle for Survival in the Face of Neoliberalism*（with A. Melnick, 1991）。
->   - **关键概念／方法** [[Structural Adjustment Programs|结构调整]]、教育券危机、[[Case Study|个案研究]]。
+>   - **关键概念／方法** 结构调整、教育券危机、[[Case Study|个案研究]]。
 >   - **阶段转向** 阐明新自由主义公共教育撤资与使用者付费不仅打击赤贫阶层，更将原本具有稳定体面生活预期的工薪中产阶级拖入沉重债务泥潭。
 
 ---

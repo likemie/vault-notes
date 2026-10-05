@@ -34,13 +34,13 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Champ]]"
   - "[[Pact of Domination]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Politicity of Education]]"
   - "[[Development Education]]"
   - "[[Positivism]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Value Neutrality]]"
   - "[[Dual School System]]"
+  - "[[Structural Adjustment Programs]]"
 related_theories:
   - "[[Conditioned State Theory]]"
   - "[[State Corporatism]]"
@@ -115,7 +115,7 @@ updated: 2026-10-02
 ## 核心思想
 
 > [!claim] 教育政策与改革根植于隐含的国家理论与资本积累矛盾
-> 托雷斯强调教育绝非技术中立的技能分配系统，而是国家履行资本积累与社会合法化双重功能的核心争鸣[[Champ|场域]]。在拉美等外围资本主义国家，依附性的国家机器（[[Conditioned State Theory|受限国家]]）受制于跨国垄断资本与本土统治集团结成的“[[Pact of Domination|支配同盟]]”，公共教育系统呈现出精英与底层割裂的双轨形态；[[State Corporatism|国家法团主义]]则通过成人扫盲与边际机会扩张推行[[Compensatory Legitimation|补偿性合法化]]以维系政权统治。全球化背景下新自由主义[[Structural Adjustment Programs|结构调整]]迫使公共教育退缩、推行使用者付费与私有化，实质上是以市场逻辑剥夺大众公民身份的阶级策略。
+> 托雷斯强调教育绝非技术中立的技能分配系统，而是国家履行资本积累与社会合法化双重功能的核心争鸣[[Champ|场域]]。在拉美等外围资本主义国家，依附性的国家机器（[[Conditioned State Theory|受限国家]]）受制于跨国垄断资本与本土统治集团结成的“[[Pact of Domination|支配同盟]]”，公共教育系统呈现出精英与底层割裂的双轨形态；[[State Corporatism|国家法团主义]]则通过成人扫盲与边际机会扩张推行[[Compensatory Legitimation|补偿性合法化]]以维系政权统治。全球化背景下新自由主义结构调整迫使公共教育退缩、推行使用者付费与私有化，实质上是以市场逻辑剥夺大众公民身份的阶级策略。
 
 > [!claim] [[Participatory Action Research|参与式行动研究]]必须植根于明确的社会政治意图
 > 托雷斯的五项原则构成了 PAR 的拉美批判框架：PAR 必须以明确的社会和政治意图开始，与受支配和贫困的阶级和群体相呼应；研究过程必须涉及大众参与，具有社会基础；知识被视为社会整体转型的动因，由此构成对将知识与实践分离的观点的有力批判；其[[Epistemology|认识论]]基础植根于[[Critical Theory|批判理论]]及其对主客体关系的批判；最终目标是提升个体、群体和国家的意识。

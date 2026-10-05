@@ -26,7 +26,6 @@ related_concepts:
   - "[[Shopping Mall Model of Research Universities]]"
   - "[[Document]]"
   - "[[Indirect Costs of Research]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Grandes Ecoles]]"
   - "[[Academic Start-up Packages]]"
   - "[[Carnegie Classification of Institutions of Higher Education]]"
@@ -64,7 +63,7 @@ title: "Argument_Stephan_2013_NBER"
 argument_key: "Argument_Stephan_2013_NBER"
 argument_display_title: "The Endless Frontier: Reaping what Bush Sowed? (NBER Working Paper No. 19687)"
 argument_kind: "report"
-argument_related_count: 27
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -284,7 +283,7 @@ issuing_organization: "National Bureau of Economic Research"
 
 在 1968 至 1978 年间，越战升级与国家财政紧缩导致联邦对大学研发的实际投入仅增长 5%，与此前十年的迅猛扩张形成鲜明反差（p.18）。
 
-> [!policy-context] 1970 年代联邦研发紧缩与资助[[Structural Adjustment Programs|结构调整]]
+> [!policy-context] 1970 年代联邦研发紧缩与资助结构调整
 > - **联邦研发增速骤降** 扣除物价通胀因素后，1968 至 1978 年全美大学联邦科研总经费十载仅微增 5%，实际资助进入滞胀期。（p.18）
 > - **独立奖学金急剧削减与国会反制** 联邦面向青年研究人员的培训项目遭到大规模压缩，NIH 培训岗位缩减近四分之一，NSF 独立奖学金名额腰斩；面对尼克松政府彻底取消培训津贴的企图，国会强力反制通过《[[National Research Service Award Act of 1974|1974年国家研究服务奖法案]]》（NRSA），法定保障关键短缺领域的科研培训。（p.18）
 > - **硬科学博士培养回落** 伴随独立资助的大幅缩减，全美物理学博士年产量骤减 60%，数学下降 33%，化学下降 30%。（p.18）

@@ -7,7 +7,7 @@ summary: "美国比较教育学与教育政治经济学奠基泰斗，斯坦福�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 30
+person_related_count: 29
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Analytical Stance]]"
   - "[[Epistemology]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Determinism]]"
   - "[[Champ]]"
   - "[[Import Substitution Industrialisation]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 
 # Martin Carnoy
@@ -155,7 +154,7 @@ updated: 2026-10-01
 > - **理论同盟** [[Carlos Alberto Torres]] — 共同推进比较教育学国家理论与拉美外围国家受限状态研究。
 > - **理论同盟** [[Michael W. Apple|迈克尔·阿普尔]]（Michael W. Apple） — 共同奠定 1970–1980 年代美国批判教育社会学与文化再生产理论阵地。
 > - **学术史家／学科[[Epistemology|认识论]]重构者** [[Andreas Kazamias]] — 将卡诺伊确立为战后第四代比较教育政治经济学与国家理论[[Paradigm|范式]]的代表人物，阐发其对[[Positivism|实证主义]]、正统马克思主义与机械再生产论的三重超越。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 153–155)]]
-> - **批判对象** [[World Bank|世界银行]]与新古典[[Human Capital Theory|人力资本]]技术官僚 — 批判其推行的教育市场化、紧缩[[Structural Adjustment Programs|结构调整]]以及抽离政治权力的纯粹技术官僚计量分析。
+> - **批判对象** [[World Bank|世界银行]]与新古典[[Human Capital Theory|人力资本]]技术官僚 — 批判其推行的教育市场化、紧缩结构调整以及抽离政治权力的纯粹技术官僚计量分析。
 
 ---
 

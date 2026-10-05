@@ -9,7 +9,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
-argument_related_count: 28
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Technology Transfer]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Paradigm]]"
   - "[[Joint Faculty Appointments]]"
   - "[[Research Question]]"
@@ -182,7 +181,7 @@ citation_aliases:
 
    这些结构不是互斥的，许多公司同时使用多种资助来源。例如，拥有中央化预算（CTO 办公室）和分布式预算（业务单元）的公司可能要求业务部门提供配套资金作为承诺信号(p.228)。
 
-   > [!success] 操作方案：识别[[Structural Adjustment Programs|结构调整]]的时机
+   > [!success] 操作方案：识别结构调整的时机
    > 实践者需要对公司发展阶段保持敏感。以一家成长中的公司为例：早期多个业务部门独立管理与大学的零散合作（分布式预算+按职能分配），当公司进入需要有机创新的增长阶段时，分散模式无法识别和推进跨业务线的研究机会，此时将部分预算从业务单元集中到中央 AET，可以创建超越单一产品线的战略性研究议程。反过来，当集中化的预算导致 AET 离业务现实越来越远时，重新向业务单元分配部分预算可以恢复研究转化的接地性(p.229)。
 
 ---

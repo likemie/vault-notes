@@ -8,7 +8,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Development Education]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Network Governance]]"
   - "[[Scale of Measurement]]"
   - "[[Democratising Evidence]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 
 # Education International
@@ -142,7 +141,7 @@ updated: 2026-10-01
 > > 批评该组织在核心价值立场与实际联盟策略之间的深层悖论。
 > >
 > > - **批评视角（反方）** [[Argument_Beech_2009_CE\|Beech (2009)]] 等批判学者指出，EI 在官方宣言中高举反新自由主义、反对教育商品化的鲜明旗帜，但在实践中却与[[International Monetary Fund|国际货币基金组织]]（IMF）和[[World Bank\|世界银行]]建立紧密合作；这种结盟并非基于教育价值观契合，而是为了在[[Global Policy Space\|全球政策空间]]中追求[[Performativity\|操演性]]的可见度与影响力广度，导致其批判锋芒被新自由主义[[Governmentality\|治理术]]吸纳与杂合。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 351–353)]]
-> > - **机构立场（正方）** EI 辩护认为，面对多边金融机构对[[Development Education|发展中国家教育]]财政的绝对主导权，唯有通过制度化介入与战术性合作，才能将免费公共教育与保障教师权益的红线内嵌于援助贷款协议中；空洞的外部抗议无法阻止[[Structural Adjustment Programs|结构调整]]对教育的破坏。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 352–353)]]
+> > - **机构立场（正方）** EI 辩护认为，面对多边金融机构对[[Development Education|发展中国家教育]]财政的绝对主导权，唯有通过制度化介入与战术性合作，才能将免费公共教育与保障教师权益的红线内嵌于援助贷款协议中；空洞的外部抗议无法阻止结构调整对教育的破坏。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 352–353)]]
 >
 > > [!axis] 跨国建制精英化协商 vs 基层工会成员日常生计诉求
 > > 批评该组织过多投入于[[OECD\|经合组织]]与闭门国际峰会的高层循证协商，是否会导致其脱离基层教师的迫切诉求。

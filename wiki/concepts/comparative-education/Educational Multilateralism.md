@@ -9,7 +9,7 @@ aliases:
 summary: "指由三个及以上主权国家基于普遍行为原则建立的制度化教育协调与援助机制，其历史演进经历了从战后教科文组织主导的有限再分配模式，到后殖民抗争，再到新自由主义防御性与规训性模式的重大范式转型。"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Academic Freedom]]"
   - "[[Knowledge Exchange]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge Transfer]]"
   - "[[Going Native]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Educational Multilateralism
@@ -100,7 +99,7 @@ updated: 2026-10-03
 > - **普遍行为原则** 多边体制内的所有成员国在法理上遵循一套不因特定国家地位而异的规范框架与行为准则。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 > - **弥散互惠性** 成员国不在单次交易中追求绝对对称的即时对等收益，而是在长期多边合作体系中共享制度红利与集体安全。
 > - **不可分割性** 多边制度所维护的公共品（如基础教育普及、[[Academic Freedom|学术自由]]或全球[[Knowledge Exchange|知识交流]]）在制度范围内具有共享属性。
-> - **[[Disciplina and Doctrina|规训]]性附带条件** 在新自由主义阶段，多边金融机构通过[[Structural Adjustment Programs|结构调整]]与贷款条件，将受援国的教育开支与市场化改革强制绑定。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
+> - **[[Disciplina and Doctrina|规训]]性附带条件** 在新自由主义阶段，多边金融机构通过结构调整与贷款条件，将受援国的教育开支与市场化改革强制绑定。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
 > [!logic-map]- 教育多边主义的历史演变逻辑
 > ```mermaid
@@ -133,7 +132,7 @@ updated: 2026-10-03
 ### 命题二　新自由主义时期的教育多边主义沦为向借款国施加结构规训的工具
 
 > [!concept-lens] 附带条件与国家教育自主权侵蚀
-> 聚焦多边机构在债务危机与[[Structural Adjustment Programs|结构调整]]背景下，如何通过财务约束对边缘国家的教育财政与管理体系进行直接干预。
+> 聚焦多边机构在债务危机与结构调整背景下，如何通过财务约束对边缘国家的教育财政与管理体系进行直接干预。
 
 > [!claim] [[Stephen P. Heyneman|Heyneman, S.]]
 > **成本收益模型的负面效应** 国际金融机构基于[[Cost-Benefit Analysis|成本收益分析]]与生产函数模型制定的教育援助策略存在严重局限，这类多边框架以量化产出和紧缩财政为核心准绳，对发展中国家实现教育公平与制度稳定造成了深层的负面后果。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
@@ -158,7 +157,7 @@ updated: 2026-10-03
 > [!dev-timeline] 概念演变
 > - **1945–1965 — 有限再分配阶段** [[UNESCO|联合国教科文组织]]（UNESCO）主导教育多边主义，确立教育作为基本人权的国际法地位，多边合作侧重战后重建与[[Knowledge Transfer|知识转移]]援助。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 > - **1960 年代末–1970 年代末 — 抗争性多边主义** 亚非拉后殖民独立国家通过联合国大会提出建立国际经济新秩序（NIEO），要求多边教育机制支持第三世界国家的社会福利发展模式。
-> - **1980 年代–1990 年代 — 防御性与[[Disciplina and Doctrina|规训]]性阶段** [[World Bank|世界银行]]凭借巨额贷款规模超越教科文组织，以新自由主义[[Structural Adjustment Programs|结构调整]]、教育投资收益率计量为核心工具，将多边合作转变为对受援国公共支出的规训机制。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
+> - **1980 年代–1990 年代 — 防御性与[[Disciplina and Doctrina|规训]]性阶段** [[World Bank|世界银行]]凭借巨额贷款规模超越教科文组织，以新自由主义结构调整、教育投资收益率计量为核心工具，将多边合作转变为对受援国公共支出的规训机制。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 > - **1995 年至今 — 贸易规制与[[Pluri-Scalar Governance|多标度治理]]** [[World Trade Organization|世界贸易组织]]（WTO）成立并推出《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS），教育多边主义拓展至跨国教育服务贸易自由化与知识产权监管领域。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
 
 ---

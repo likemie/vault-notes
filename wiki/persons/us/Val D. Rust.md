@@ -9,7 +9,7 @@ summary: "美国比较教育学家，加州大学洛杉矶分校（UCLA）荣休
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 41
+person_related_count: 40
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Critical Pedagogy]]"
   - "[[Academic Freedom]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Commensuration]]"
   - "[[Historical Amnesia]]"
 related_theories:
@@ -70,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-02
+updated: 2026-10-05
 ---
 
 # Val D. Rust
@@ -150,7 +149,7 @@ updated: 2026-10-02
 > - **学术先驱与史学考证对象** [[Marc-Antoine Jullien|朱利安]]（开创[[Questionnaire|问卷调查]]与事实分类观察表）、[[Horace Mann|霍勒斯·曼]]（1844 年欧洲考察确立借用作为本土合法化论据）、[[Friedrich Schneider|弗里德里希·施奈德]]（1931 年创刊确立学术术语与 1943 年考证德国教育海外辐射）、[[Isaac Kandel|艾萨克·坎德尔]]（确立教育反映国家深层政治文化抱负的经典命题）。
 > - **理论对话者与批判思想源流** [[Paulo Freire|保罗·弗莱雷]]（“教育即政治”命题与反抗跨国霸权意志）、[[Henry Giroux|亨利·吉鲁]]（再生产理论批判资本主义现代性）。
 > - **学会与学术建制领导** 曾任[[Comparative and International Education Society|比较与国际教育学会]]（CIES）会长（1988–1989 年），依托会刊《比较教育评论》（CER）半个世纪[[Document|文献]]计量推进元[[Epistemology|认识论]]反思。
-> - **全球学会与多边机构研究** 深度考察[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）的全球扩展；援引[[UNESCO|联合国教科文组织]] 2006 年《[[Education for All|全民教育]]》监测报告实证检验全球化[[Structural Adjustment Programs|结构调整]]对受援国的负面冲击与古巴主权动员典范。
+> - **全球学会与多边机构研究** 深度考察[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）的全球扩展；援引[[UNESCO|联合国教科文组织]] 2006 年《[[Education for All|全民教育]]》监测报告实证检验全球化结构调整对受援国的负面冲击与古巴主权动员典范。
 
 ---
 

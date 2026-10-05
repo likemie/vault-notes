@@ -9,7 +9,7 @@ summary: "美国著名批判比较教育学家，《比较教育评论》（CER�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 17
+person_related_count: 16
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Critical Pedagogy]]"
   - "[[Cognitive Deskilling]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Paradigm]]"
   - "[[Politicity of Education]]"
 related_theories:
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 
 # Mark Ginsburg
@@ -90,7 +89,7 @@ updated: 2026-10-01
 >   - **代表著作** *Contradictions in Teacher Education and Society: A Critical Analysis*（1988）。
 >   - **关键概念／方法** 教师劳工化、国家意识形态机器、历史-比较方法。
 >   - **阶段转向** 将微观的教师职业研究与宏观的资本积累危机及国家职能矛盾相链接。
-> - **1990 年代 — 全球教育改革三维结构模型** 应对第三世界[[Structural Adjustment Programs|结构调整]]，系统提炼经济、意识形态与国家三角[[Analytic Framework|分析框架]]。
+> - **1990 年代 — 全球教育改革三维结构模型** 应对第三世界结构调整，系统提炼经济、意识形态与国家三角[[Analytic Framework|分析框架]]。
 >   - **代表著作** *Understanding Educational Reform in Global Context*（1991）；*The Politics of Educators' Work and Lives*（1995）。
 >   - **关键概念／方法** [[State Corporatism|国家法团主义]]、跨国霸权、[[Analytic Framework|分析框架]]。
 >   - **阶段转向** 深入剖析处于激进转型与危机之中的第三世界国家，解释教育改革为何屡屡蜕变为国家缓和社会矛盾的统治工具。

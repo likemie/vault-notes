@@ -6,7 +6,7 @@ aliases:
 summary: "发端于拉丁美洲的解放教育范式，主张立足被压迫工农大众的生活经验与阶级境遇，通过提问式对话教学激发批判意识觉醒，培养改造社会结构的政治能动性，与国家威权自上而下的补偿性恩庇扫盲相对立"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 33
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Avatar]]"
   - "[[Epistemology]]"
   - "[[High-Stakes Testing]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Time-Space Compression]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Global Citizenship]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 
 # Popular Education
@@ -151,7 +150,7 @@ updated: 2026-10-01
 > 从比较教育学与[[World-Systems Theory|世界体系分析]]视角，审视民众教育如何从一国本土经验扩展为抗击新自由主义政策霸权的跨国社会正义同盟。
 
 > [!claim] [[Robert Arnove|Arnove, R.]]
-> **自下而上改革方位与政治文化正义取向的契合** 阿诺夫借鉴[[Rolland Paulston|保尔斯顿]]与勒罗伊（Paulston & Leroy, 1980）的非正规教育[[Analytic Framework|分析框架]]，提出了审视教育改革动力的二维矩阵：垂直轴为发起方位（自上而下 vs 自下而上），水平轴为目标取向（经济生产力 vs 政治文化正义）。以私有化、教育券、权力下放和[[High-Stakes Testing|高利害测验]]为核心的主流改革，本质上是由国际金融机构与国家官僚自上而下发起的经济主义议程；而民众教育、社区非正规技能互助与原住民教育主权运动，则代表了**自下而上推进、以社会与文化正义为导向的解放性力量**。在信息通信技术（ICT）构建的全球流散空间中，分散在各国的边缘群体通过跨国民众教育网络实现横向联合，共同探索抵御[[Structural Adjustment Programs|结构调整]]与教育商品化危机的“[[Globalization from Below|自下而上的全球化]]”（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 113–114]]）。
+> **自下而上改革方位与政治文化正义取向的契合** 阿诺夫借鉴[[Rolland Paulston|保尔斯顿]]与勒罗伊（Paulston & Leroy, 1980）的非正规教育[[Analytic Framework|分析框架]]，提出了审视教育改革动力的二维矩阵：垂直轴为发起方位（自上而下 vs 自下而上），水平轴为目标取向（经济生产力 vs 政治文化正义）。以私有化、教育券、权力下放和[[High-Stakes Testing|高利害测验]]为核心的主流改革，本质上是由国际金融机构与国家官僚自上而下发起的经济主义议程；而民众教育、社区非正规技能互助与原住民教育主权运动，则代表了**自下而上推进、以社会与文化正义为导向的解放性力量**。在信息通信技术（ICT）构建的全球流散空间中，分散在各国的边缘群体通过跨国民众教育网络实现横向联合，共同探索抵御结构调整与教育商品化危机的“[[Globalization from Below|自下而上的全球化]]”（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 113–114]]）。
 
 > [!citation-card] 教育改革方位与自下而上全球化矩阵
 > 面对资本积累危机与[[Time-Space Compression|时空压缩]]，主流教育政策大多由国际和国家层级的官僚机构自上而下发起，并服务于经济生产力目标。与此同时，越来越多的草根倡议旨在建立更加平等的社会与教育体系，并与文化认同运动紧密相连。借由现代信息网络，分散在各国的边缘群体得以联合起来，推动以权利、正义与民主为导向的自下而上的全球化。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 113–114)]]

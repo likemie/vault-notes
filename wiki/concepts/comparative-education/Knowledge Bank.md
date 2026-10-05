@@ -7,7 +7,7 @@ aliases:
 summary: "戴安娜·斯通（Diane Stone）于 2000 年提出的概念，指世界银行在 1990 年代从传统发展放贷机构向以知识生产、研究分发与政策咨询为核心业务的全球知识中枢转型的制度性演变。知识银行转型是世界银行成为教育领域政策中介先行者的制度基础，也是其将自身研究产品与贷款条件深度绑定的权力重构节点。"
 type: concept
 domain: "comparative-education"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[Policy Brokerage]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Performance Indicators]]"
   - "[[Governing by Numbers]]"
   - "[[Epistemology]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-29
+updated: 2026-10-05
 ---
 
 # Knowledge Bank
@@ -58,7 +57,7 @@ updated: 2026-09-29
 > 知识银行（Knowledge Bank）是戴安娜·斯通（Diane Stone）于 2000 年提出的分析概念，指[[World Bank\|世界银行]]在 1990 年代完成的制度性转型：从以项目贷款与基础设施融资为核心的传统开发银行，演变为以全球[[Knowledge Production\|知识生产]]、研究数据库建设与政策处方推销为主轴的全球知识权威中枢。这一转型使世界银行超越了传统意义上的金融机构身份，确立了其作为全球教育治理领域最具影响力的知识权威与[[Policy Brokerage\|政策中介]]先行者的机构地位。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
 
 > [!concept-lens] 概念背景
-> 知识银行概念的核心张力在于：世界银行究竟是一个透过知识分享赋能各国政府的开放型学习平台，还是一个将特定发展意识形态（新自由主义[[Structural Adjustment Programs|结构调整]]、教育回报率思维、私立化方案）包装为客观知识的规制权力机构？这一张力贯穿了自 1990 年代以来所有围绕世界银行教育治理角色的学术争论。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
+> 知识银行概念的核心张力在于：世界银行究竟是一个透过知识分享赋能各国政府的开放型学习平台，还是一个将特定发展意识形态（新自由主义结构调整、教育回报率思维、私立化方案）包装为客观知识的规制权力机构？这一张力贯穿了自 1990 年代以来所有围绕世界银行教育治理角色的学术争论。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
 
 ---
 

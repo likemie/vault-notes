@@ -8,7 +8,7 @@ aliases:
 summary: "罗杰·戴尔提出的批判比较教育学核心理论，主张全球教育趋同并非自愿的普世启蒙文化扩散，而是由全球资本主义体系的内在结构性矛盾（资本积累、国家合法性与社会凝聚力）通过跨国经贸组织自上而下结构化塑造的。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 27
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Variable]]"
   - "[[New Public Management]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Policy Borrowing]]"
   - "[[Research Question]]"
 related_theories:
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-02
+updated: 2026-10-05
 ---
 
 # Globally Structured Agenda for Education
@@ -110,7 +109,7 @@ updated: 2026-10-02
 > [!theory-proposition] 命题一｜全球资本主义的积累危机驱动着跨国教育政策议程的结构化重塑
 > **解释** 戴尔认为，全球教育变革的核心驱动力并非文化理念的自发演化，而是世界资本主义经济为了克服利润率下降与生产过剩危机，迫切需要将教育重构为直接服务于资本积累的工具。这一动力迫使各国教育体系转向[[New Public Management|新公共管理]]、紧缩开支、文凭标准化与[[Human Capital Theory|人力资本]]弹性化，从而形成了跨国高度同质的新自由主义政策议程。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 >
-> **应用实例** [[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 在亚洲和[[Latin American Debt Crisis of 1982|拉美债务危机]]期间，强制推行[[Structural Adjustment Programs|结构调整]]计划，要求借贷国大幅削减公共教育支出并推行私有化，这一跨国政策协调正是全球资本积累议程结构化约束各国的典型体现。
+> **应用实例** [[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 在亚洲和[[Latin American Debt Crisis of 1982|拉美债务危机]]期间，强制推行结构调整计划，要求借贷国大幅削减公共教育支出并推行私有化，这一跨国政策协调正是全球资本积累议程结构化约束各国的典型体现。
 
 > [!theory-proposition] 命题二｜全球化通过分异化的机制组合穿透并重组民族国家的教育治理权力
 > **解释** 全球化对各国的冲击绝非千篇一律的机械复制。戴尔提出，外部力量进入民族国家取决于不同的权力关系与机制路径：对于核心发达国家，往往体现为自愿的“[[Policy Borrowing|政策借用]]与学习”；对于半边缘国家，多体现为区域协定的“规则调和与标准化”；而对于边缘贫困国家，则主要通过国际金融机构的“结构强加与苛刻贷款条件”实施硬性支配。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]

@@ -38,7 +38,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Sage]]"
   - "[[Reliability]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Growth]]"
 related_theories:
   - "[[Systems of Innovation]]"
@@ -71,7 +70,7 @@ title: "Argument_Fabrizio_Mowery_2005_REI"
 argument_key: "Argument_Fabrizio_Mowery_2005_REI"
 argument_display_title: "Defense-related R&D and the growth of the postwar information technology industrial complex in the United States"
 argument_kind: "journal-article"
-argument_related_count: 29
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -322,7 +321,7 @@ issuing_organization: ""
 
 预算结构的偏转给国家[[Systems of Innovation|创新系统]]的长期演进带来了不确定性。
 
-> [!chain-link] 预算[[Structural Adjustment Programs|结构调整]]对基础科研的潜在冲击链
+> [!chain-link] 预算结构调整对基础科研的潜在冲击链
 > - **前提：反恐战术目标驱动** 反恐战争与国土防御迫切需要短期内可部署的战术装备与防范化学、生物及放射性武器的能力。（pp. 41–42）
 > - **机制：研发时间视界收缩与学科分流** 国防研发资金预算周期缩短，试验开发挤压纯基础研究；同时国土安全资金大比例流向生物医药而非计算机与物理工程。（p. 42）
 > - **结论：大学知识溢出与工程创新底座面临侵蚀** 高校在工程科学与信息科学领域的长期基础科研基础设施可能遭遇资金增长放缓甚至绝对削减，从而削弱支撑未来民用颠覆性创新的纯知识外溢效应。（p. 42）

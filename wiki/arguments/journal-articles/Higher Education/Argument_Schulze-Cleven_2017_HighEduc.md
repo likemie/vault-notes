@@ -12,7 +12,7 @@ title: "Argument_Schulze-Cleven_2017_HighEduc"
 argument_key: "Argument_Schulze-Cleven_2017_HighEduc"
 argument_display_title: "The new political economy of higher education: between distributional conflicts and discursive stratification"
 argument_kind: "journal-article"
-argument_related_count: 39
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -48,7 +48,6 @@ related_concepts:
   - "[[Import Substitution Industrialisation]]"
   - "[[Performativity]]"
   - "[[Matthew Effect in Academia]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Quasi-commodification of Knowledge]]"
   - "[[Knowledge Capitalism]]"
   - "[[Academic Freedom]]"
@@ -226,7 +225,7 @@ Slaughter & Leslie(1997)和 Slaughter & Rhoades(2004)的 [[Academic Capitalism|�
 
 这一路径追问的核心是 Lasswell(1936)的经典问题：谁在何时、以何种方式得到了什么？其分析聚焦于制度化规则如何塑造资源和机会的分配，以及这些分配服务于谁的利益。
 
-- **Schulze-Cleven & Olson** 的跨国比较（美国、德国、挪威）是最直接的"分配冲突"分析。他们展示了 [[Varieties of Capitalism]] 的类型差异如何映射到高等教育部门：在自由主义美国，市场化最深，金融化程度最高；在保守主义德国，改革反复拉锯；在社会民主主义挪威，国家仍主导供给，但也经历了自由化进程。三类国家都经历了自由化，但自由化的形式和分配后果截然不同。在美国，利益流向金融机构和精英院校；在德国，改革更多是治理[[Structural Adjustment Programs|结构调整]]而非资源再分配；在挪威，公共供给的韧性更强(pp.803–804)。
+- **Schulze-Cleven & Olson** 的跨国比较（美国、德国、挪威）是最直接的"分配冲突"分析。他们展示了 [[Varieties of Capitalism]] 的类型差异如何映射到高等教育部门：在自由主义美国，市场化最深，金融化程度最高；在保守主义德国，改革反复拉锯；在社会民主主义挪威，国家仍主导供给，但也经历了自由化进程。三类国家都经历了自由化，但自由化的形式和分配后果截然不同。在美国，利益流向金融机构和精英院校；在德国，改革更多是治理结构调整而非资源再分配；在挪威，公共供给的韧性更强(pp.803–804)。
 - **Meyer & Zhou** 聚焦于一个具体的分配机制：美国精英大学的永久捐赠基金。这些基金不仅集中了巨额财富，更通过税收优惠将公共资金（免税）转化为私人特权（精英教育）。在极端情况下，一个哈佛学生的生均教育资源可以是一个社区学院学生的数十倍，而这种差距以卓越的名义被正当化。
 - **Jessop** 通过三重思想实验区分了三种不同的市场化程度：成本效率（cost-efficiency）只是基本的预算纪律；准商品化（[[Quasi-commodification of Knowledge|quasi-commodification]]）将知识劳动转化为可交易的商品；金融化（financialization）则是让金融资本直接进入并主导高等教育。关键洞见是：即便大学不成为营利企业，它们仍然可以被 Schumpeter 意义上的"[[Creativity|创造性]]破坏"所重塑，而政治资本主义（political capitalism）提供了另一种可能：国家和财富机构之间的紧密联盟。
 - **Reitz** 的贡献可能是其中最具理论冲击力的修正。他提出：资本主义[[Knowledge-Based Economy|知识经济]]需要一个**非资本主义的学术部门**来界定知识为有价值。为什么？因为知识本质上具有公共品的特性，一个人的使用不减少另一个人的使用，排除他人使用的成本很高。在纯市场条件下，知识的生产将严重不足。因此，需要评估和等级机制来为知识赋予价值，这个价值信号不仅指导学术界的内部资源分配，更向外部行动者（雇主、投资者、政府）提供关于在哪里寻找专业知识、创新和投资机会的指引。学术界的等级，精英大学、高影响因子期刊、引用排名，从功能主义角度看，是[[Knowledge Capitalism|知识资本主义]]运转所必需的信号基础设施(p.805)。

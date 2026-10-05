@@ -30,10 +30,10 @@ related_concepts:
   - "[[Study Population and Sample]]"
   - "[[Reflexivity]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Technical Rationality]]"
   - "[[Professional Learning Community]]"
   - "[[Shadow State]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Teaching Assistant]]"
   - "[[International Education]]"
   - "[[Research Utilization]]"
@@ -107,7 +107,7 @@ updated: 2026-09-29
 > - **修辞解构与证据溯源能力（Rhetoric Deconstruction & Source Tracing）** 主动剥离商业营销与[[Persuasive Communication in Education|说服性修辞]]外衣，追溯原始研究的设计类型、样本规模与对照组设置。
 > - **情境边界审慎权衡（Contextual Boundary Appraisal）** 敏锐识别外部[[Study Population and Sample|研究样本]]与本校/本班学情在文化、先验知识和资源上的差异，评估移植风险。
 > - **[[Reflexivity|反思性]]自我质疑习惯（Reflective Self-Questioning）** 用[[Evidence Standards|证据标准]]审视自身既有的教学惯性与直觉偏见，保持开放迭代的专业心态。
-> - **制度批判与外部[[Disciplina and Doctrina|规训]]警惕（Institutional Critique & Resistance to Co-optation）** 在宏观政策与组织治理层面，保持对外部资助机构考核指标、技术官僚方案与[[Structural Adjustment Programs|结构调整]]处方的审视能力，防止教育组织沦为去政治化的合同承包商。[[Argument_Arnove_2009_WorldSystems|(Kamat, 2004; Arnove, 2009, pp. 111–112)]]
+> - **制度批判与外部[[Disciplina and Doctrina|规训]]警惕（Institutional Critique & Resistance to Co-optation）** 在宏观政策与组织治理层面，保持对外部资助机构考核指标、技术官僚方案与结构调整处方的审视能力，防止教育组织沦为去政治化的合同承包商。[[Argument_Arnove_2009_WorldSystems|(Kamat, 2004; Arnove, 2009, pp. 111–112)]]
 
 ---
 
