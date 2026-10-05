@@ -6,10 +6,10 @@ aliases:
 summary: "大学与产业、政府及广泛社会之间通过多元双向机制进行知识流动的交互过程。涵盖合同研究、人员流动、联合研发、设施共享及隐性知识外溢，超越了传统单向线性的技术转移范式；在产业政策与创新地理视角下，知识交流高度依赖高密度专业劳动力池与实体集聚外部性。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/university-industry-collaboration
   - theme/innovation
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Vertical Disintegration]]"
   - "[[Market Failure]]"
+  - "[[Regional Innovation System]]"
 related_theories:
   - "[[Systems of Innovation]]"
 related_methods:
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # Knowledge Exchange
@@ -205,6 +206,6 @@ updated: 2026-10-04
 > | [[Third Mission]] | Concept | 知识交流是大学在科研与教学之外践行社会服务与经济赋能的核心载体。 |
 > | [[Bell Labs]] | Fact (Organization) | 实体集聚与跨学科科学家工程师高频面对面知识交流的历史工业实验室典范。 |
 > | [[Fairchild Semiconductor]] | Fact (Organization) | 硅谷仙童人才大迁徙与衍生企业潮构成了高频知识交流重塑半导体产业史的经典案例。 |
-> | [[Systems of Innovation]] | Theory | 知识交流是国家与区域创新系统内部主体协同联动的核心理论纽带。 |
+> | [[Systems of Innovation]] | Theory | 知识交流是国家与[[Regional Innovation System\|区域创新系统]]内部主体协同联动的核心理论纽带。 |
 
 ---

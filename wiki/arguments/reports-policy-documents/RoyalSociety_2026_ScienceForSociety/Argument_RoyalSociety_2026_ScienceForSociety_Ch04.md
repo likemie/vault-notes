@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_display_title: "Chapter four: Industry and business sector"
 argument_kind: "book-chapter"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -33,6 +33,7 @@ sources:
   - "[[sources/RoyalSociety_2026_ScienceForSociety/RoyalSociety_2026_ScienceForSociety|RoyalSociety_2026_ScienceForSociety]]"
 part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 related_concepts:
+  - "[[National Innovation System]]"
   - "[[Champ]]"
   - "[[Public Engagement with Science]]"
   - "[[Attrition]]"
@@ -131,7 +132,7 @@ updated: 2026-09-13
 
 ### 论证步骤一：研发主体地位与社会脱节鸿沟：产业规模、动机分化与规制束缚（pp. 68–69, 72）
 
-产业界在英国国家创新体系中占据不可替代的核心地位，是科学发现转化为社会公共福祉的关键枢纽。（p. 68）
+产业界在英国[[National Innovation System|国家创新体系]]中占据不可替代的核心地位，是科学发现转化为社会公共福祉的关键枢纽。（p. 68）
 
 > [!claim] 步骤一核心主张
 > 商业企业实际承担了全英三分之二以上的研究与试验发展（Research and Development, R&D）与创新总支出，使产业研发人员与公众参与各利益相关方的联结具有根本性的国家战略意义；然而，由于不同行业属性与商业模式的深刻分化、严苛的行业合规审查约束、以及大企业与初创小企业之间巨大的资源鸿沟，英国公众在生活成本、医疗卫生与生态环境等最高优先级的社会关切痛点上，与产业研发效益处于严重的心理与认知脱节状态。（pp. 68–69）

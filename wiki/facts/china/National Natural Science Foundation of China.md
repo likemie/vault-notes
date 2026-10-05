@@ -13,7 +13,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Research Universities]]"
+  - "[[National Innovation System]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Chinese Academy of Sciences]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-05
 ---
 
 # National Natural Science Foundation of China
@@ -86,7 +87,7 @@ updated: 2026-10-02
 
 > [!finding-cards] 关键成效与历史辐射
 > - **构筑中国基础研究资助体系的主渠道** 成为中国支撑原始创新、培育青年学者国家级学术声誉不可替代的基础性制度支柱。
-> - **东亚科技治理借鉴美式同行评议模式的典型案例** 与韩国科学与工程基金会（KOSEF）并列，成为二战后东亚国家成功吸纳美式 [[National Science Foundation|NSF]] 科学政策逻辑以加速本国国家创新体系现代化的标志性成果。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
+> - **东亚科技治理借鉴美式同行评议模式的典型案例** 与韩国科学与工程基金会（KOSEF）并列，成为二战后东亚国家成功吸纳美式 [[National Science Foundation|NSF]] 科学政策逻辑以加速本国[[National Innovation System|国家创新体系]]现代化的标志性成果。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
 
 ---
 

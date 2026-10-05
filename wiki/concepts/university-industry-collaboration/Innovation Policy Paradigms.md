@@ -11,10 +11,10 @@ aliases:
 summary: "Schot & Steinmueller（2018）与 Mazzucato（2018）等学者识别的创新政策三大范式——科学促增长（Frame 1）、国家创新系统（Frame 2）与变革转型（Frame 3），揭示了公共干预从弥补市场失灵到管理系统失灵再到主动进行市场塑造与方向性引导的递进演化逻辑"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - concept/science-policy
   - innovation-policy
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Hypothesis]]"
   - "[[Directionality of Innovation]]"
+  - "[[National Innovation System]]"
   - "[[Market Failure]]"
   - "[[Market Shaping and Creating]]"
   - "[[Knowledge Production]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-27
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Innovation Policy Paradigms
@@ -93,7 +94,7 @@ updated: 2026-10-03
 
 > [!boundary]- 概念边界
 > - **不等于 抽象的科技哲学分类** 该概念聚焦于政府公共政策介入创新活动的干预哲学、制度安排与工具组合，具有强烈的实践与政策导向。
-> - **不意味着 现实政策工具的绝对割裂** 在现代国家创新治理中，三大范式的政策工具通常以混合架构（Hybrid Policy Mix）形式在国家创新体系中共存运行。
+> - **不意味着 现实政策工具的绝对割裂** 在现代国家创新治理中，三大范式的政策工具通常以混合架构（Hybrid Policy Mix）形式在[[National Innovation System|国家创新体系]]中共存运行。
 
 ---
 
@@ -166,7 +167,7 @@ updated: 2026-10-03
 ### 命题三　现代国家创新治理普遍采取三大范式工具组合共存的混合架构
 
 > [!concept-lens] 混合政策工具组合
-> 现实中的国家创新体系并不孤立运行单一范式，而是呈现多范式工具的有机层叠。
+> 现实中的[[National Innovation System|国家创新体系]]并不孤立运行单一范式，而是呈现多范式工具的有机层叠。
 
 > [!claim] Lindner et al. & Ulrichsen
 > **混合政策组合命题** 在当代发达国家的科技创新体系中，三大范式以分层互补的形态共存运行。例如，美国同时维系着大规模的大学自由探索基础研究资助（范式一）、[[National Science Foundation|NSF]] [[University-Based Research Center|产学合作研究中心]]与[[Technology Transfer|技术转移]]网络（范式二），并依托《[[CHIPS and Science Act|芯片与科学法案]]》（[[CHIPS and Science Act|CHIPS Act]]）区域创新引擎与 [[DARPA]]/ARPA-E 机制推进战略性使命攻坚（范式三要素）。政策制胜的关键在于根据具体创新阶段与社会目标，实现多范式工具箱的精细化组合与协同配置。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 43–44)]]
@@ -200,7 +201,7 @@ updated: 2026-10-03
 > [!dev-timeline] 创新政策[[Paradigm|范式]]的历史演变脉络
 > - **1945 — 范式一确立：科学无尽前沿** 瓦内瓦尔·布什（[[Vannevar Bush]]）发布里程碑报告《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》（*Science: The Endless Frontier*），奠定政府资助基础研究以驱动长期繁荣的线性模型。
 > - **1980 — [[Bayh-Dole Act of 1980|拜杜法案]]与[[Technology Transfer|技术转移]]制度化** 美国出台《拜杜法案》（Bayh-Dole Act），允许大学拥有联邦资助成果的知识产权，拉开了全球高校专利化与技术转移的序幕。
-> - **1987–1993 — 范式二兴起：国家[[Systems of Innovation|创新系统理论]]化** Freeman（1987）、Lundvall（1992）与 Nelson（1993）正式提出国家创新系统概念；英国 1993 年发布《发挥我们的潜力》（*Realising Our Potential*）白皮书，1999 年确立长期公式化[[Knowledge Exchange|知识交流]]拨款，标志着系统范式的制度化。
+> - **1987–1993 — 范式二兴起：国家[[Systems of Innovation|创新系统理论]]化** Freeman（1987）、Lundvall（1992）与 Nelson（1993）正式提出[[National Innovation System|国家创新系统]]概念；英国 1993 年发布《发挥我们的潜力》（*Realising Our Potential*）白皮书，1999 年确立长期公式化[[Knowledge Exchange|知识交流]]拨款，标志着系统范式的制度化。
 > - **2012 — [[Transformative System Failures|变革性系统失灵]]框架提出** Weber & Rohracher（2012）在《Research Policy》发表奠基性论文，系统提出方向性、需求表达、[[Reflexivity|反思性]]与政策协调四类失灵，为超越系统范式提供理论支点。
 > - **2018 — 范式三系统建构：三范式与 ROAR 使命框架** Schot & Steinmueller（2018）在《Research Policy》发表《创新政策三框架》（*Three Frames for Innovation Policy*）；[[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）发表《[[Mission-Oriented Innovation Policy|使命导向创新政策]]：挑战与机遇》，确立以[[Market Shaping and Creating|市场塑造]]与 ROAR 框架为核心的使命导向范式。
 > - **2020–2024 — 实践落地与全球试验** 欧盟全面启动[[Horizon Europe Missions|地平线欧洲战略使命]]；美国出台《[[CHIPS and Science Act|芯片与科学法案]]》（[[CHIPS and Science Act|CHIPS Act]]）设立区域创新引擎；[[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] 提出问题–解决方案空间[[Analytic Framework|分析框架]]；[[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] 总结大学在三范式演化中的角色重塑。

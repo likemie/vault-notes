@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ tags:
   - org/learned-society
 related_concepts:
   - "[[Categorical Funding]]"
+  - "[[National Innovation System]]"
   - "[[Network Governance]]"
 related_theories: []
 related_persons:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # National Academy of Sciences
@@ -95,7 +96,7 @@ updated: 2026-10-04
 > [!finding-cards] 关键成效与历史辐射
 > - **奠定科学界的国家话语权与自治屏障** NAS 的独立法定特许地位，为美国科学界抵御政治干预提供了至关重要的体制防线，确立了“科学决策必须尊重学术专业规律”的国家政治伦理。
 > - **重塑战后科技体系顶层设计** [[Chinese Academy of Sciences|科学院]]及其核心成员深度参与了《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》起草、[[National Science Foundation|NSF]] 创建、宇航局 NASA 空间科学规划、人类基因组计划（HGP）伦理评估以及国家纳米技术倡议（NNI）等重大国家科技决策。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 34)]]
-> - **前沿国家创新体系的独立监督者与仲裁人** 依托 [[National Research Council|NRC]] 专家委员会网络，NAS 持续对 [[DARPA]]、NSF、[[Department of Energy|DOE]] 等联邦研发机构的技术路线图、预算分配公正性及产学研生态健康度进行第三方深度评估，防止国家科研过度陷入短期官僚化陷阱。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134, 1144)]]
+> - **前沿[[National Innovation System|国家创新体系]]的独立监督者与仲裁人** 依托 [[National Research Council|NRC]] 专家委员会网络，NAS 持续对 [[DARPA]]、NSF、[[Department of Energy|DOE]] 等联邦研发机构的技术路线图、预算分配公正性及产学研生态健康度进行第三方深度评估，防止国家科研过度陷入短期官僚化陷阱。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134, 1144)]]
 > - **全球现代科学建制的母本象征** 其自我繁衍与非行政化咨询模式，成为二战后许多国家重构国家科学院或科学咨询委员会时的重要制度借鉴。
 
 ---

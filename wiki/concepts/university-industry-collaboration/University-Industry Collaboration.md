@@ -10,7 +10,7 @@ aliases:
 summary: "大学与企业之间在正式协议框架下建立的有目的、深协同的制度化参与关系，横跨研究学术、教育学习与公共效益三大维度；其历史历经战后脱钩与 1980 年代法制重构，在释放实体创新潜力的同时伴生微观组织碎片化与代工车间异化的深层张力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -19,6 +19,7 @@ tags:
   - level/higher-education
   - theme/innovation
 related_concepts:
+  - "[[National Innovation System]]"
   - "[[Knowledge Production]]"
   - "[[Technology Transfer]]"
   - "[[Academic Freedom]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # University-Industry Collaboration
@@ -96,7 +97,7 @@ updated: 2026-10-04
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向高等教育机构与营利性商业实体跨越组织边界、通过要素互补与风险共担实现知识创造、人才发展与价值转化的制度化互动过程。
-> - **用途** 帮助研究者透视国家创新体系中[[Knowledge Production|知识生产]]向现实生产力转化的微观组织通道，诊断产学目标错配、协议谈判摩擦与内部治理瓶颈。
+> - **用途** 帮助研究者透视[[National Innovation System|国家创新体系]]中[[Knowledge Production|知识生产]]向现实生产力转化的微观组织通道，诊断产学目标错配、协议谈判摩擦与内部治理瓶颈。
 > - **边界** 不等于单向的[[Technology Transfer|技术转移]]（后者仅聚焦专利许可交易）；不等于松散的校企社交人际关系；也不等同于企业对大学的无偿慈善捐赠。
 
 > [!citation-card] 产学协同的实质性内涵
@@ -196,7 +197,7 @@ updated: 2026-10-04
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **价值共生与界面整合** | 产学参与超越单向线性流动，在科研、育人与公共效益三大维度实现非线性多方共生 | 宏观[[Innovation Ecosystem\|创新生态]]与多主体战略协同设计 | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall (2025b)]]; [[Argument_Swick_Jones_2025_AcademicHealthSystems\|Swick & Jones (2025)]] |
-> | **法制催化与历史演进** | 战后产学曾长期严重脱钩，依靠国家长期合作平台（NSF ERC/STC）与法定产权下放（拜杜法案）方得以系统重塑 | 科技政策变迁、国家创新体系比较与立法激励分析 | [[Argument_Atkinson_2008_TIS\|Atkinson & Blanpied (2008)]]; [[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen (2025)]] |
+> | **法制催化与历史演进** | 战后产学曾长期严重脱钩，依靠国家长期合作平台（NSF ERC/STC）与法定产权下放（拜杜法案）方得以系统重塑 | 科技政策变迁、[[National Innovation System\|国家创新体系]]比较与立法激励分析 | [[Argument_Atkinson_2008_TIS\|Atkinson & Blanpied (2008)]]; [[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen (2025)]] |
 > | **组织碎片化与异化防线** | 宏观交织与校内微观治理割裂共生，过度顺从企业短期需求面临沦为“代工车间”与知识产权冲突风险 | 高校内部治理改革、产学协议谈判与学术自由防御 | [[Argument_Atkinson_2008_TIS\|Atkinson & Blanpied (2008)]]; [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall (2025b)]]; [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison & Wilson (2025)]] |
 
 ---

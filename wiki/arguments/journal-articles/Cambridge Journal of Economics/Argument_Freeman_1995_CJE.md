@@ -18,6 +18,8 @@ tags:
   - paradigm/evolutionary-economics
   - method/comparative-historical
 related_concepts:
+  - "[[National Innovation System]]"
+  - "[[Regional Innovation System]]"
   - "[[Creativity]]"
   - "[[General Purpose Technology]]"
   - "[[Paradigm]]"
@@ -56,7 +58,7 @@ title: "Argument_Freeman_1995_CJE"
 argument_key: "Argument_Freeman_1995_CJE"
 argument_display_title: "The 'National System of Innovation' in historical perspective"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -76,12 +78,12 @@ issuing_organization: ""
 > 伴随跨国公司的全球扩张、电信网络普及与国际贸易自由化，部分学者宣称民族国家与国别经济已丧失实质分析意义。这一论调是否成立？在历史经验与当代世界经济中，为何不同国家的技术进步速度与经济增长水平不仅未能自然趋同，反而在制度演进中持续拉大差距？
 
 > [!claim] 核心主张
-> 国家与区域[[Systems of Innovation|创新系统]]依然是经济与政治分析不可替代的核心领域；技术创新的能力并不由跨国贸易和实物资本自发带来，而是深植于由国家公共教育、产业组织、企业内部研究与开发实验室、技术基础设施以及政府长期产业政策构成的制度网络之中。（pp. 5, 20–21）
+> [[National Innovation System|国家创新系统]]与[[Regional Innovation System|区域创新系统]]依然是经济与政治分析不可替代的核心领域；技术创新的能力并不由跨国贸易和实物资本自发带来，而是深植于由国家公共教育、产业组织、企业内部研究与开发实验室、技术基础设施以及政府长期产业政策构成的制度网络之中。（pp. 5, 20–21）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 19 世纪英国工业革命、普鲁士与德国工业赶超、美国产业崛起，20 世纪美德企业研发建制化，冷战时期日本与前苏联创新体制，以及 1980 年代东亚（以韩国为代表）与拉美（以巴西为代表）新兴工业化国家的长周期历史制度演进。
 > - **张力** 新古典增长理论关于信息对称与技术能够自由跨国转移所预设的增长趋同假说，对质经济史上国家间技术差距拉大与制度锁定导致的长期增长分化与赶超分歧。
-> - **贡献** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）将国家创新系统（National System of Innovation, NIS）的思想渊源系统溯源至弗里德里希·李斯特（Friedrich List），确立了国家创新系统的思想史与历史演进根基；通过质性制度比较与结构化量化指标解构了单一研发支出规模（国内研发总支出占国民生产总值比率，Gross Expenditure on Research and Development to Gross National Product ratio, GERD/GNP）的技术官僚迷思，论证了跨国公司背景下本土国家创新能力建设的不可替代性。
+> - **贡献** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）将[[National Innovation System|国家创新系统]]（National System of Innovation, NIS）的思想渊源系统溯源至弗里德里希·李斯特（Friedrich List），确立了国家[[Systems of Innovation|创新系统]]的思想史与历史演进根基；通过质性制度比较与结构化量化指标解构了单一研发支出规模（国内研发总支出占国民生产总值比率，Gross Expenditure on Research and Development to Gross National Product ratio, GERD/GNP）的技术官僚迷思，论证了跨国公司背景下本土国家创新能力建设的不可替代性。
 
 ---
 
@@ -90,7 +92,7 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Systems of Innovation\|国家创新系统理论]]**<br>[[Systems of Innovation]] | 将技术创新界定为大学、技术学校、企业与政府部门等多元主体嵌入在国家制度母体中，通过互动与合作开展的集体学习过程；用于解释为何国家制度环境直接决定技术扩散速度与长期经济绩效。（pp. 5–8） |
+> | **[[Systems of Innovation\|创新系统理论]]**<br>[[Systems of Innovation]] | 将技术创新界定为大学、技术学校、企业与政府部门等多元主体嵌入在[[National Innovation System\|国家创新系统]]与[[Regional Innovation System\|区域创新系统]]制度母体中，通过互动与合作开展的集体学习过程；用于解释为何国家与地方制度环境直接决定技术扩散速度与长期经济绩效。（pp. 5–8, 20–21） |
 > | **[[Evolutionary Economics\|演化经济学与技术差距理论]]**<br>[[Evolutionary Economics]] | 强调历史路径依赖、技术差距（Technology Gaps）、模仿滞后（Imitation Lags）以及[[Creativity\|创造性]]破坏；用于解释后发国家在面对全新[[General Purpose Technology\|通用技术]][[Paradigm\|范式]]时的结构性调整与制度多样性优势。（pp. 17–19） |
 
 > [!warrant]- 理论如何支撑论证
@@ -185,7 +187,7 @@ issuing_organization: ""
 > - **忽视市场需求与用户的双向反馈** 单向线性模型遮蔽了来自销售网络、上下游供应商以及最终用户的逆向知识回流，造成科技供给与真实产业需求脱节。（pp. 10–11）
 
 > [!row-contrast] 研发支出量化指标与[[Systems of Innovation|创新系统]]实际运行的张力
-> | 观察维度 | 单一量化研发指标（GERD/GNP）的局限 | 国家创新系统的实质运作机制 |
+> | 观察维度 | 单一量化研发指标（GERD/GNP）的局限 | [[National Innovation System\|国家创新系统]]的实质运作机制 |
 > |---|---|---|
 > | **技能与知识范围** | 仅统计正规实验室里的专业研发人员与经费支出。（p. 10） | 创新不仅依赖研发，更依赖普通技工培训、车间生产工程、工装设计与[[Total Quality Management\|全面质量管理]]。（p. 10） |
 > | **知识流动方向** | 假定科技成果自上而下单向由实验室流向市场。（p. 9） | 生产车间、供应链上下游与市场用户之间存在大量密集的双向信息反馈回路。（p. 10） |
@@ -200,7 +202,7 @@ issuing_organization: ""
 > | **日本** | 0.1% | 1.0% | 2.7% | 2.7% |
 > | **前苏联（USSR）** | 0.3% | 3.2% | 3.6% | 1.0% |
 >
-> **说明** *EC 为 12 个欧洲共同体成员国的估算加权平均值。<br>**来源** 作者根据 Bernal (1939) 结合《弗拉斯卡蒂手册》标准、OECD 统计数据以及 Freeman and Young (1965) 对苏联统计数据的修正综合估算。<br>**数据解读** 数据清楚展示了单一研发总额指标的误导性：1983 年前苏联的研发经费总占比高达 3.6%，位居各国之首；但其中超七成投向国防军工，民用研发仅占 1.0%，远落后于日本的 2.7%；这表明仅仅投入高额研发经费，并不等于民用经济具有创新活力。（p. 9）
+> **说明** *EC 为 12 个欧洲共同体成员国的估算加权平均值。<br>**来源** 作者根据 Bernal (1939) 结合《弗拉斯卡蒂手册》标准、OECD 统计数据以及 Freeman & Young (1965) 对苏联统计数据的修正综合估算。<br>**数据解读** 数据清楚展示了单一研发总额指标的误导性：1983 年前苏联的研发经费总占比高达 3.6%，位居各国之首；但其中超七成投向国防军工，民用研发仅占 1.0%，远落后于日本的 2.7%；这表明仅仅投入高额研发经费，并不等于民用经济具有创新活力。（p. 9）
 
 ---
 
@@ -282,18 +284,18 @@ issuing_organization: ""
 > [!tension-table] 区域化新维度与国家创新系统的共生关系
 > | 空间维度与范畴 | 组织形态与代表实体 | 对国家创新系统的功能定位 | 历史与理论脉络 |
 > |---|---|---|---|
-> | **上层区域（Upper Regions）** | 欧共体（EC）、北美自由贸易协定（North American Free Trade Agreement, NAFTA）等跨国区域贸易联盟。（p. 20） | 提供统一大市场与规则协调，但集团内各成员国的竞争优势依然高度依赖其自身独特的国家创新体系。（p. 20） | 尽管欧洲一体化持续推进，但英国、德国、法国、瑞典等国在科研体制与产业结构上的差异依然根深蒂固。（pp. 14–15, 20） |
-> | **下层区域（Nether Regions）** | 硅谷、意大利中北部工业区、城市高新技术产业集群等次国家级产业基地。（pp. 20–21） | 依托地理相近、熟练劳动力流动、专业技术服务与人际面对面信任，构筑微观产业网络底座。（p. 21） | 地方产业集聚并非全球化新事物；阿尔弗雷德·马歇尔早在 1890 年就指出，工业区内行业秘密飘在空气中，这种集聚历来是国家系统的重要支撑。（p. 21） |
+> | **上层区域（Upper Regions）** | 欧共体（EC）、北美自由贸易协定（North American Free Trade Agreement, NAFTA）等跨国区域贸易联盟。（p. 20） | 提供统一大市场与规则协调，但集团内各成员国的竞争优势依然高度依赖其自身独特的[[National Innovation System\|国家创新系统]]。（p. 20） | 尽管欧洲一体化持续推进，但英国、德国、法国、瑞典等国在科研体制与产业结构上的差异依然根深蒂固。（pp. 14–15, 20） |
+> | **下层区域（Nether Regions）** | 硅谷、意大利中北部工业区、城市高新技术产业集群等次国家级产业基地，即[[Regional Innovation System\|区域创新系统]]。（pp. 20–21） | 依托地理相近、熟练劳动力流动、专业技术服务与人际面对面信任，构筑微观产业网络底座。（p. 21） | 地方产业集聚并非全球化新事物；阿尔弗雷德·马歇尔早在 1890 年就指出，工业区内行业秘密飘在空气中，这种集聚历来是国家系统的重要支撑。（p. 21） |
 
 ---
 
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **国家[[Systems of Innovation|创新系统]]具有深厚思想渊源** 国家创新系统并非当代凭空发明的理论，早在 1841 年弗里德里希·李斯特关于知识资本积累、技术教育体系与战略产业扶持的论著中就已奠定了完整雏形。（pp. 5–8）
+> 1. **[[National Innovation System|国家创新系统]]具有深厚思想渊源** 国家[[Systems of Innovation|创新系统]]并非当代凭空发明的理论，早在 1841 年弗里德里希·李斯特关于知识资本积累、技术教育体系与战略产业扶持的论著中就已奠定了完整雏形。（pp. 5–8）
 > 2. **单纯追求研发投入指标存在严重局限** 研发经费占国民收入比例不能简单等同于经济创新能力，前苏联虽有高达 3.6% 的高额研发投入，但因科研与民用工业脱节导致经济陷入停滞，证明制度整合比单纯资金投入更关键。（pp. 8–12）
 > 3. **[[Education for All|全民教育]]与工科人才是技术吸收的基石** 韩国与巴西在 1980 年代的发展差距证明：普及高等教育、培养充沛的工科人才以及建立以企业为主体的自主研发机制，是后发国家实现技术赶超的必要前提。（pp. 13–15）
-> 4. **全球化并未消解民族国家的重要地位** 全球跨国企业九成以上的核心研发仍保留在母国，所谓无国界世界并不符合真实产业规律；后发国家必须依托主动的教育与科技政策，才能跨越技术差距。（pp. 16–21）
+> 4. **全球化并未消解民族国家的重要地位** 全球跨国企业九成以上的核心研发仍保留在母国，所谓无国界世界并不符合真实产业规律；后发国家必须依托[[National Innovation System|国家创新系统]]的主动教育与科技政策，才能跨越技术差距。（pp. 16–21）
 
 > [!stat-cards]- 核心数据
 > - **3.6% vs 2.7%** 1983 年前苏联研发经费占 GNP 比例达 3.6%，但扣除军工后民用研发仅占 1.0%；同期日本研发总强度为 2.7%，几乎全部为民用研发。（p. 9）
@@ -314,7 +316,7 @@ issuing_organization: ""
 > [!citation-card] 跨国公司母国锚固与全球化神话的破灭
 > 绝大多数以日本为基地的跨国公司在本质上依然是具备国际化经营业务的日本本土企业，而非真正的无国界企业；美国以及其他跨国公司在其本土环境中的表现亦完全如此。跨国公司的绝大部分研发活动依然压倒性地集中在母国大本营进行，并受到本土国家[[Systems of Innovation|创新系统]]的极深影响。（pp. 16–17）
 >
-> *The vast majority of Japanese-based TNCs remain essentially Japanese companies with international operations rather than truly international companies and the same is true of US and most other MNCs in relation to their home environment. Most R&D activities of MNCs are still overwhelmingly conducted in the domestic base of the company and are heavily influenced by the local national system of innovation.*
+> *The vast majority of Japanese-based TNCs remain essentially Japanese companies with international operations rather than truly international companies and the same is true of US and most other MNCs in relation to their home environment. Most R&D activities of MNCs are still overwhelmingly conducted in the domestic base of the company and are heavily influenced by the local [[National Innovation System|National System of Innovation]].*
 
 > [!citation-card] [[Michael Porter|迈克尔·波特]]论母国环境在激化全球竞争中的强化地位
 > 竞争优势是通过高度本地化的过程被创造和维持的。国家经济结构、价值观、文化、制度与历史的差异对竞争优势有着深刻影响。母国的作用显得比以往任何时候都更为强大。尽管竞争的全球化表面上似乎让国家变得不再重要，但实际上它却强化了国家的重要性。（p. 15）

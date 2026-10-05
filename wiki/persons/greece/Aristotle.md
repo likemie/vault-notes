@@ -6,7 +6,7 @@ summary: "古希腊哲学家，提出目的论、习惯化道德培养与理性�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,7 +33,6 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Plato]]"
-  - "[[Robin Alexander]]"
   - "[[John Dewey]]"
   - "[[Paulo Freire]]"
 related_facts: []
@@ -42,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 
 # Aristotle
@@ -63,7 +62,7 @@ updated: 2026-10-01
 > [!timeline] 生平与职涯
 > - **384 BCE** 出生于色雷斯的斯塔吉拉。
 > - **367–347 BCE** 前往雅典，进入[[Plato\|柏拉图]]创立的雅典学院（Academy）研读与教学长达二十年。
-> - **343 BCE** 受马其顿国王腓力二世邀请，担任[[Robin Alexander|亚历山大]]大帝的导师。
+> - **343 BCE** 受马其顿国王腓力二世邀请，担任亚历山大大帝的导师。
 > - **335 BCE** 返回雅典，创立吕克昂学园（Lyceum），在林荫道散步授课（逍遥学派）。
 > - **322 BCE** 逝世于埃维亚岛的加尔基斯。
 

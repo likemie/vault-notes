@@ -9,7 +9,7 @@ aliases:
 summary: "在研究型大学内部依托公共研发资金建立的大型实验仪器平台、跨学科实验室、科研数据中心与学术网络体系；它是战后美国国家创新系统中前沿科学发现、高层次创新人才供给与民用颠覆性技术衍生的最核心策源底座。"
 type: concept
 domain: "higher-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Corporate R&D Labs]]"
   - "[[Innovation Ecosystem]]"
   - "[[Disciplinary Institutionalization]]"
+  - "[[National Innovation System]]"
 related_theories:
   - "[[Actor-Network Theory]]"
   - "[[Human Capital Theory]]"
@@ -139,5 +140,5 @@ updated: 2026-10-05
 > | [[Disciplinary Institutionalization]] | Concept | 大学科研基础设施为前沿学科在大学内部完成正规制度化提供的物质与组织平台。 |
 > | [[NSF Supercomputer Centers]] | Fact | 联邦科学基金在全美大学设立尖端集中式计算基础设施并向全行业外溢的标志性项目。 |
 > | [[Human Capital Theory]] | Theory | 解释大学科研基础设施如何通过高质量青年科学家培养实现社会人力资本积累的理论。 |
-> | [[Systems of Innovation]] | Theory | 大学科研基础设施在国家创新系统三螺旋结构中所扮演的核心知识创造极角色。 |
+> | [[Systems of Innovation]] | Theory | 大学科研基础设施在[[National Innovation System\|国家创新系统]]三螺旋结构中所扮演的核心知识创造极角色。 |
 > | [[David C. Mowery]] | Person | 长期系统追踪大学科研基础设施对美国工业竞争力与技术创新影响的代表性学者。 |

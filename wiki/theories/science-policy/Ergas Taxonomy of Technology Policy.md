@@ -2,7 +2,7 @@
 summary: "由亨利·埃尔加斯于1987年提出的经典国家技术政策二分理论，将主要工业国科技战略划分为以大科学攻坚与激进技术突破为核心的使命导向型（如美、英、法）以及以技术广泛渗透、职业技能培训与增量工艺优化为核心的扩散导向型（如德、瑞、日）两大范式；为使命导向政策的制度演进与国家能力比较奠定了基础。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 22
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -13,6 +13,7 @@ tags:
   - technology-policy
   - state-capacity
 related_concepts:
+  - "[[National Innovation System]]"
   - "[[Paradigm]]"
   - "[[Big Science]]"
   - "[[Grand Challenges]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-05
 title: Ergas Taxonomy of Technology Policy
 aliases:
   - 埃尔加斯技术政策分类
@@ -62,7 +63,7 @@ aliases:
 > - **解释对象** 阐明不同工业化国家在科技研发投资、组织构架、产业政策工具与技能培训体系上的长期制度性差异及其对国家技术竞争力的影响。
 > - **理论问题** 克服以往将国家科技政策视为同质化研发投入工具的简化倾向，揭示不同国家[[Systems of Innovation|创新系统]]在“追求激进技术突破”与“促进广泛技术扩散”之间的结构性分工。
 > - **理论类型** 比较制度分析与国家科技政策类型学理论。
-> - **知识位置** 植根于比较政治经济学、[[Evolutionary Economics|演化经济学]]与国家创新系统（National Systems of Innovation）理论。
+> - **知识位置** 植根于比较政治经济学、[[Evolutionary Economics|演化经济学]]与[[National Innovation System|国家创新系统]]（National Systems of Innovation）理论。
 
 > [!claim] 核心判断
 > 亨利·埃尔加斯（Henry Ergas, 1987）论证各主要工业国的技术政策并非随机组合，而是凝练为两大截然不同的制度[[Paradigm|范式]]：一是追求激进突破、依托[[Big Science|大科学]]与国防采购的**使命导向型（Mission-Oriented）政策**（以美、英、法为代表）；二是不追求单一激进领跑、依托雄厚职业教育与行业协会网络促进技术全产业渗透的**扩散导向型（Diffusion-Oriented）政策**（以德、瑞士、瑞典为代表）。[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）进一步指出，21 世纪应对复杂[[Grand Challenges|重大挑战]]的第三代使命政策实质上要求将使命引领与敏捷扩散在社会–技术转型中重新综合。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790, 794–796)]]

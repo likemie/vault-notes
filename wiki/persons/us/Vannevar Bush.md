@@ -22,19 +22,25 @@ tags:
 related_concepts:
   - "[[Basic-Applied Research Dichotomy]]"
   - "[[Linear Model of Innovation]]"
+  - "[[National Innovation System]]"
   - "[[Academic Freedom]]"
   - "[[Blue Skies Research]]"
   - "[[Research Universities]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Soft-Money Faculty Model]]"
+  - "[[Learning by Doing]]"
+  - "[[Total Quality Management]]"
 related_theories:
+  - "[[Systems of Innovation]]"
+  - "[[Evolutionary Economics]]"
   - "[[Pasteur's Quadrant]]"
   - "[[Discovery-Invention Cycle]]"
 related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Chris Freeman]]"
   - "[[Donald Stokes]]"
   - "[[Venkatesh Narayanamurti]]"
   - "[[Paula Stephan]]"
@@ -48,12 +54,13 @@ related_facts:
   - "[[OECD]]"
   - "[[Bell Labs]]"
 related_arguments:
+  - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Narayanamurti_2013_IST]]"
   - "[[Argument_Stephan_2013_NBER]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-05
 ---
 
 # Vannevar Bush

@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Vergegenkunft]]"
+  - "[[National Innovation System]]"
   - "[[Policy Brokerage]]"
   - "[[Knowledge Production]]"
 related_theories:
@@ -158,7 +159,7 @@ updated: 2026-10-05
 > > [!axis] 冷战制度奠基（[[Vergegenkunft]] 效应） vs 1980 年代新自由主义断代
 > > 学界围绕当代教育与科研的市场化、技术官僚化究竟始于 1980 年代新自由主义改革，还是源自 1950 年代冷战地缘博弈展开辩论。
 > >
-> > - **[[Argument_Amos_2022_Springer|Amos (2022, p. 56)]] 与 [[Argument_Fuchs_2010_RP|Fuchs (2010, p. 1134)]]** 指出：国家对前沿科技与教育的全面工具化动员并非 1990 年代新自由主义的产物，其制度根基早在 1957 年斯普特尼克危机所触发的 [[DARPA|ARPA]] 创立与《[[National Defense Education Act of 1958|国防教育法]]》颁布中即已固化，并在当代通过“[[Vergegenkunft]] 效应”持续主导着国家创新体系。
+> > - **[[Argument_Amos_2022_Springer|Amos (2022, p. 56)]] 与 [[Argument_Fuchs_2010_RP|Fuchs (2010, p. 1134)]]** 指出：国家对前沿科技与教育的全面工具化动员并非 1990 年代新自由主义的产物，其制度根基早在 1957 年斯普特尼克危机所触发的 [[DARPA|ARPA]] 创立与《[[National Defense Education Act of 1958|国防教育法]]》颁布中即已固化，并在当代通过“[[Vergegenkunft]] 效应”持续主导着[[National Innovation System|国家创新体系]]。
 > > - **传统断代史学** 倾向将当代教育问责制、绩效量化与产学研军工联合体完全归咎于撒切尔—里根时期的私有化浪潮，忽视了 1950 年代军备科技竞赛构建的制度底座。
 >
 > > [!axis] 真实的科技教育危机 vs 精英操纵的话语建构

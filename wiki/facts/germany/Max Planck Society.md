@@ -12,9 +12,9 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: 独立非营利科研学会网络
 headquarters: 德国慕尼黑（Munich, Germany）
@@ -27,6 +27,7 @@ tags:
   - theme/science-policy
 related_concepts:
   - "[[Academic Freedom]]"
+  - "[[National Innovation System]]"
   - "[[General Education]]"
   - "[[Knowledge Production]]"
 related_facts:
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-05
 ---
 
 # Max Planck Society
@@ -71,7 +72,7 @@ updated: 2026-10-02
 ## 比较制度分析：德国二元科研分立与大学竞合
 
 > [!tension] 独立国家科研学会 vs 大学讲席制与研究生培养
-> - **德国国家创新体系的清晰分工**
+> - **德国[[National Innovation System|国家创新体系]]的清晰分工**
 >   1. **前沿基础科学探索** 绝对重心交由马克斯·普朗克学会网络统筹；
 >   2. **应用科学与产业工程转化** 集中于[[Fraunhofer Society Model|弗劳恩霍夫学会]]；
 >   3. **大学职能** 主要依托传统讲席制（Chair System）承担广泛的[[General Education|通识教育]]与专业人才培养。
@@ -94,7 +95,7 @@ updated: 2026-10-02
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Fraunhofer Society Model]] | Fact (Organization) | 德国国家创新体系中与马普所并列的应用技术研发支柱。 |
+> | [[Fraunhofer Society Model]] | Fact (Organization) | 德国[[National Innovation System\|国家创新体系]]中与马普所并列的应用技术研发支柱。 |
 > | [[CNRS]] | Fact (Organization) | 法国对应的国家级纯科研公立机构，同属西欧国家科研院所传统。 |
 > | [[Max Planck Institute for Human Development]] | Fact (Organization) | 马普学会旗下专注于人类发展与教育实证研究的知名专业研究所。 |
 > | [[Knowledge Production]] | Concept | 纯基础研究知识生产模式的制度化组织载体。 |

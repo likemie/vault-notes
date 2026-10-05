@@ -11,7 +11,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
   - theme/technology-innovation
   - theme/industrial-innovation
 related_concepts:
+  - "[[National Innovation System]]"
   - "[[STEM Education]]"
   - "[[Total Factor Productivity]]"
   - "[[Research Universities]]"
@@ -63,14 +64,14 @@ updated: 2026-10-05
 > - **发布时间 / 发布主体** 1949 年新中国成立至今，由中共中央、国务院主导并协同国家发改委、科技部、工信部等部委分阶段统筹发布国家科技发展规划纲要与体制改革决议。
 > - **适用地区 / 对象** 覆盖全国高等院校、科研院所、国有大型企业、高新技术民营企业、国家与地方高新区及各级地方科技创新联合体。
 > - **问题背景** 解决不同历史发展阶段中科研与经济脱节的问题：从建国初期国防工业与工业基础空白，到改革开放后科研成果转化为现实生产力动力不足（“两张皮”问题），再到当代关键核心技术受制于人的“卡脖子”困境与全球高科技竞争突围。
-> - **制度位置** 构筑中国国家创新体系的顶层政策母体，统筹指引了“863 计划”、“973 计划”、重大科技专项、《[[Made in China 2025|中国制造2025]]》以及当前科技创新与产业创新深度融合战略。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]
+> - **制度位置** 构筑中国[[National Innovation System|国家创新体系]]的顶层政策母体，统筹指引了“863 计划”、“973 计划”、重大科技专项、《[[Made in China 2025|中国制造2025]]》以及当前科技创新与产业创新深度融合战略。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]
 
 ---
 
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 新中国成立以来，中国科技创新政策经历了从体系构建、融合探索、自主创新到创新驱动深度融合的演进，推动科技与产业关系从外生隔离向深度协同根本转变；在当代大国博弈中，依托国家战略导向、地方竞相突破、市场机制吸收与 4 倍规模理工（[[STEM Education|STEM]]）人才优势，构建了全球极具规模效应与动员力的国家创新体系。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]
+> 新中国成立以来，中国科技创新政策经历了从体系构建、融合探索、自主创新到创新驱动深度融合的演进，推动科技与产业关系从外生隔离向深度协同根本转变；在当代大国博弈中，依托国家战略导向、地方竞相突破、市场机制吸收与 4 倍规模理工（[[STEM Education|STEM]]）人才优势，构建了全球极具规模效应与动员力的[[National Innovation System|国家创新体系]]。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]
 
 > [!policy-design] 政策设计与演进主线
 > - **政策目标** 统筹发展与安全，由解决国防工业与工业化初期“从无到有”的技术填补，转向提升产业[[Total Factor Productivity|全要素生产率]]与实现高水平科技自立自强。

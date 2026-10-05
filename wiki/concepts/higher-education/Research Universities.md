@@ -8,7 +8,7 @@ aliases:
 summary: "19世纪下半叶在美国以普鲁士洪堡模式为母本并融合本土赠地实用传统而崛起的现代高等教育核心组织形态；二战后经万尼瓦尔·布什报告奠定联邦常规资助基础，依托同行评议、研究生院前沿科研共生以及去中心化分层竞争，成为国家科学技术与创新系统的战略中枢。"
 type: concept
 domain: "higher-education"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[STEM Education]]"
   - "[[Variable]]"
+  - "[[National Innovation System]]"
   - "[[Shopping Mall Model of Research Universities]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
@@ -199,7 +200,7 @@ updated: 2026-10-05
 > |:-----|:-----|:-----|
 > | [[Humboldtian Model of Higher Education]] | Concept | 研究型大学将科学研究与教学统一的制度思想母本。 |
 > | [[Carnegie Classification of Institutions of Higher Education]] | Concept | 实证界定与划分高水平研究型大学群落的权威分类标准。 |
-> | [[Science, The Endless Frontier 1945]] | Fact (Policy) | 确立研究型大学在国家创新体系中核心宪章地位的历史报告。 |
+> | [[Science, The Endless Frontier 1945]] | Fact (Policy) | 确立研究型大学在[[National Innovation System\|国家创新体系]]中核心宪章地位的历史报告。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 当代联邦通过巨额资金与研发专项强力动员研究型大学攻坚关键产业的标志性法案。 |
 > | [[Design-Based Research]] | Method | 案例高校用于组织学者发展与跨学科半导体科研团队孵化的核心迭代方法论。 |
 > | [[Shopping Mall Model of Research Universities]] | Concept | 揭示当代研究型大学科研空间商业化租赁与[[Academic Capitalism\|学术资本主义]]运作的批判性隐喻。 |

@@ -10,7 +10,7 @@ summary: "美国著名创新经济学与科技政策学者，加州大学伯克�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 42
+person_related_count: 43
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Paradigm]]"
   - "[[Dual-Use Technology]]"
+  - "[[National Innovation System]]"
   - "[[Determinism]]"
   - "[[Valley of Death]]"
   - "[[Precompetitive Research]]"
@@ -161,7 +162,7 @@ updated: 2026-10-05
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **导师／核心合作者** 内森·罗森伯格（Nathan Rosenberg）、理查德·纳尔逊（Richard Nelson）— 共同奠定技术变迁制度史与国家[[Systems of Innovation|创新系统]]（NIS）理论基石。
+> - **导师／核心合作者** 内森·罗森伯格（Nathan Rosenberg）、理查德·纳尔逊（Richard Nelson）— 共同奠定技术变迁制度史与国家[[Systems of Innovation|创新系统]]（[[National Innovation System|NIS]]）理论基石。
 > - **研究合作者** 彼得·格林德利（Peter Grindley）、布莱恩·西尔弗曼（Brian Silverman）— 共同开展 [[Sematech]] 治理与高技术联盟跨国比较研究。
 > - **重要机构／政策平台** [[National Academy of Sciences]]、[[National Research Council]]、[[OECD]]、[[DARPA]] — 长期承担国家科技政策咨询与评估工作。
 > - **关联研发事实与法案** [[Sematech]]、[[VLSI Project]]、[[ESPRIT]]、[[Bayh-Dole Act of 1980]] — 其经验研究与理论批判的核心实证载体。

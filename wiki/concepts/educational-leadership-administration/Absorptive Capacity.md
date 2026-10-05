@@ -7,7 +7,7 @@ aliases:
 summary: "组织识别、吸收并情境化应用外部知识的能力；在教育与治理中取决于实践者认知基础、内部沟通网络与支持性领导，调节科研证据向微观行动的转化成效。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Evidence-Informed Practice]]"
   - "[[University-Industry Collaboration]]"
+  - "[[National Innovation System]]"
   - "[[Transfer Science]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Cognitive Deskilling]]"
@@ -78,7 +79,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Absorptive Capacity
@@ -197,7 +198,7 @@ updated: 2026-10-03
 > |---|---|---|---|
 > | **认知基础先决** | 外部知识转化取决于既有认知存量与内部开放沟通网络 | 组织学习、学区评价使用与技术追赶 | Cohen & Levinthal (1990); [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] |
 > | **需求吸收使能** | 单向推送无法突破落地瓶颈，吸收能力依赖领导示范与排程工时 | 中小学[[Evidence-Informed Practice\|证据知情实践]]与[[Knowledge Mobilisation\|知识动员]]改革 | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]]; [[Argument_Torres_2022_KMModels\|Torres (2022b)]] |
-> | **合作收益调节** | 吸收能力调节[[University-Industry Collaboration\|产学合作]]创新收益，并产生资助分配马太效应 | 产学研发合作与国家创新体系治理 | [[Argument_Cohen_2025_JTT\|Cohen et al. (2025)]] |
+> | **合作收益调节** | 吸收能力调节[[University-Industry Collaboration\|产学合作]]创新收益，并产生资助分配马太效应 | 产学研发合作与[[National Innovation System\|国家创新体系]]治理 | [[Argument_Cohen_2025_JTT\|Cohen et al. (2025)]] |
 > | **组织异质与文化土壤** | 创新转移受制于单校组织异质性与微观文化，依赖本土情境重构与吸收能力 | 区域学校协作网络、微观学校改进与[[Transfer Science\|知识转移科学]] | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]]; van Holt (2014) |
 
 ---

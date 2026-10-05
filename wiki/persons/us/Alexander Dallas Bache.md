@@ -9,7 +9,7 @@ summary: "美国著名科学家、物理学家与教育家，本杰明·富兰�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,7 +33,6 @@ related_persons:
   - "[[Calvin Stowe]]"
   - "[[Horace Mann]]"
   - "[[Henry Barnard]]"
-  - "[[Robin Alexander]]"
   - "[[Victor Cousin]]"
 related_facts:
   - "[[National Academy of Sciences]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-02
+updated: 2026-10-05
 ---
 
 # Alexander Dallas Bache
@@ -61,7 +60,7 @@ updated: 2026-10-02
 > - **代表贡献** 1836–1838 年实地走访欧洲七国 278 所学校，撰写出版长达 666 页的巨著《[[Education in Europe|欧洲教育报告]]》（*Report on Education in Europe*, 1839）；定性普鲁士初等教育为欧洲集权体系的最高典范，系统将欧洲孤儿[[Bildung|教养]]院、实科学校与工业师资培养规程引介至北美。
 
 > [!citation-card] 拉斯特论贝奇与 19 世纪美国欧洲考察热潮
-> [[Robin Alexander|亚历山大]]·达拉斯·贝奇在对欧洲学校进行为期两年的深入调研后返回美国，报告指出普鲁士初等教育是中央集权体制中最完美的典范。拉斯特等人强调，贝奇与曼、巴纳德、斯托共同构成了 19 世纪美国对欧教育学习的先驱群体。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124–125)]]
+> 亚历山大·达拉斯·贝奇在对欧洲学校进行为期两年的深入调研后返回美国，报告指出普鲁士初等教育是中央集权体制中最完美的典范。拉斯特等人强调，贝奇与曼、巴纳德、斯托共同构成了 19 世纪美国对欧教育学习的先驱群体。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124–125)]]
 >
 > *"Alexander Dallas Bache returned to America from a 2-year study of European schools to report that Prussian primary education was the 'most perfect of the centralized systems' (Bache, 1839)."*
 

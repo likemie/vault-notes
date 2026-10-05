@@ -13,7 +13,7 @@ title: "Argument_Zhang_2023_PHEI"
 argument_key: "Argument_Zhang_2023_PHEI"
 argument_display_title: "科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索"
 argument_kind: "book"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Megascience Installations]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Innovation Park]]"
+  - "[[Regional Innovation System]]"
   - "[[Going Native]]"
   - "[[Venture Philanthropy]]"
   - "[[International Education]]"
@@ -419,7 +420,7 @@ updated: 2026-10-03
 >
 > > [!features] 中东欧
 > > - **捷克、斯洛伐克** 汽车制造业具备世界较高技术水平。**立陶宛** 激光产业、生命科学产业突出。**葡萄牙** 海域广阔、海洋资源丰富，软件行业具备世界较高技术水平
-> > - **合作方向** 中东欧国家是"一带一路"科技合作重点推进区域。粤港澳大湾区可尝试通过联委会机制，由广东、香港、澳门联合中东欧国家建立长效科技合作机制。设立研发中心、联合实验室、分支研究机构等平台，建设开放互通、布局合理的区域创新体系。中东欧国家基础设施面临更新换代，可从工程项目合作入手寻求更多科技合作机会
+> > - **合作方向** 中东欧国家是"一带一路"科技合作重点推进区域。粤港澳大湾区可尝试通过联委会机制，由广东、香港、澳门联合中东欧国家建立长效科技合作机制。设立研发中心、联合实验室、分支研究机构等平台，建设开放互通、布局合理的[[Regional Innovation System|区域创新体系]]。中东欧国家基础设施面临更新换代，可从工程项目合作入手寻求更多科技合作机会
 
 > [!line-a] 国际循环建设对策
 > 粤港澳大湾区应进一步发挥港澳的独特优势，响应"一带一路"倡议，加强与沿线国家多层次的科技交流合作。以以色列、新加坡和俄罗斯为创新能力较强的重点合作对象（以色列军工科技和医疗设备、新加坡生物技术和化工、俄罗斯基础科学和军事工业），在高端制造业、生物医药、化学化工等领域开展联合研发。

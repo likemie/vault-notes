@@ -1,20 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Systems of Innovation",
-      "path": "wiki/theories/university-industry-collaboration/Systems of Innovation.md"
-    },
-    {
       "basename": "Argument_Freeman_1995_CJE",
       "path": "wiki/arguments/journal-articles/Cambridge Journal of Economics/Argument_Freeman_1995_CJE.md"
     },
     {
-      "basename": "General Purpose Technology",
-      "path": "wiki/concepts/economics/General Purpose Technology.md"
+      "basename": "National Innovation System",
+      "path": "wiki/concepts/university-industry-collaboration/National Innovation System.md"
+    },
+    {
+      "basename": "Vannevar Bush",
+      "path": "wiki/persons/us/Vannevar Bush.md"
+    },
+    {
+      "basename": "Education for All",
+      "path": "wiki/facts/global/Education for All.md"
+    },
+    {
+      "basename": "Michael Porter",
+      "path": "wiki/persons/us/Michael Porter.md"
+    },
+    {
+      "basename": "Total Quality Management",
+      "path": "wiki/concepts/educational-leadership-administration/Total Quality Management.md"
+    },
+    {
+      "basename": "Learning by Doing",
+      "path": "wiki/concepts/instruction-pedagogy/Learning by Doing.md"
     },
     {
       "basename": "Chris Freeman",
       "path": "wiki/persons/uk/Chris Freeman.md"
+    },
+    {
+      "basename": "Big Science",
+      "path": "wiki/concepts/science-policy/Big Science.md"
+    },
+    {
+      "basename": "World Bank",
+      "path": "wiki/facts/global/World Bank.md"
+    },
+    {
+      "basename": "Historical-Comparative Method",
+      "path": "wiki/methods/qualitative/Historical-Comparative Method.md"
+    },
+    {
+      "basename": "OECD",
+      "path": "wiki/facts/global/OECD.md"
+    },
+    {
+      "basename": "Robin Alexander",
+      "path": "wiki/persons/uk/Robin Alexander.md"
+    },
+    {
+      "basename": "Evolutionary Economics",
+      "path": "wiki/theories/political-economy-geopolitics/Evolutionary Economics.md"
+    },
+    {
+      "basename": "Systems of Innovation",
+      "path": "wiki/theories/university-industry-collaboration/Systems of Innovation.md"
+    },
+    {
+      "basename": "General Purpose Technology",
+      "path": "wiki/concepts/economics/General Purpose Technology.md"
     },
     {
       "basename": "Argument_Fabrizio_Mowery_2005_REI",
@@ -69,16 +117,8 @@
       "path": "wiki/facts/us/Bell Labs.md"
     },
     {
-      "basename": "Learning by Doing",
-      "path": "wiki/concepts/instruction-pedagogy/Learning by Doing.md"
-    },
-    {
       "basename": "Knowledge Mediation",
       "path": "wiki/concepts/educational-policy-reform/Knowledge Mediation.md"
-    },
-    {
-      "basename": "Historical-Comparative Method",
-      "path": "wiki/methods/qualitative/Historical-Comparative Method.md"
     },
     {
       "basename": "National Science Foundation",
@@ -159,46 +199,6 @@
     {
       "basename": "Knowledge Building Theory",
       "path": "wiki/theories/learning-science-cognitive-science/Knowledge Building Theory.md"
-    },
-    {
-      "basename": "Brainstorming",
-      "path": "wiki/concepts/instruction-pedagogy/Brainstorming.md"
-    },
-    {
-      "basename": "Situative Perspective",
-      "path": "wiki/theories/educational-psychology/Situative Perspective.md"
-    },
-    {
-      "basename": "Constructivist Paradigm",
-      "path": "wiki/concepts/educational-philosophy/Constructivist Paradigm.md"
-    },
-    {
-      "basename": "Cognitive Constructivism",
-      "path": "wiki/theories/educational-philosophy/Cognitive Constructivism.md"
-    },
-    {
-      "basename": "Design-Based Research",
-      "path": "wiki/methods/mixed/Design-Based Research.md"
-    },
-    {
-      "basename": "Sino-American Trade War",
-      "path": "wiki/facts/multi/Sino-American Trade War.md"
-    },
-    {
-      "basename": "Argument_Helgetun_2022_JEP",
-      "path": "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Helgetun_2022_JEP.md"
-    },
-    {
-      "basename": "Generative Artificial Intelligence",
-      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
-    },
-    {
-      "basename": "Knowledge Exchange",
-      "path": "wiki/concepts/university-industry-collaboration/Knowledge Exchange.md"
-    },
-    {
-      "basename": "October 2022 US Semiconductor Export Controls",
-      "path": "wiki/facts/us/October 2022 US Semiconductor Export Controls.md"
     }
   ],
   "omittedPaths": [],

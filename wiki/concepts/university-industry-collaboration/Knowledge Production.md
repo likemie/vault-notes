@@ -7,7 +7,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程；在宏观场域揭示资本偏向、跨国组织自指性指标帝国与高校基础科研体制变迁，在微观教育场域指向学习者在本土协商共同体中依托证据协调与认识论实践自主生成新知并内化说服优于强制的民主审议价值。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 88
+related_count: 89
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Justificatory Standards]]"
   - "[[Document]]"
   - "[[Epistemic Agency]]"
+  - "[[National Innovation System]]"
   - "[[Research Universities]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Blue Skies Research]]"
@@ -117,7 +118,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Knowledge Production
@@ -148,7 +149,7 @@ updated: 2026-10-03
 ### 1.1 核心定义与概念透镜
 
 > [!def] 宏观知识生产界定
-> **宏观体制知识生产（Macro-Institutional Knowledge Production）** 聚焦知识在国家创新体系、跨国治理网络与全球学术劳动力市场中的生产机制与权力政治。这一维度关注知识生产的组织载体（现代[[Research Universities|研究型大学]]的确立）、出资与分配契约（联邦竞争性资助与公共科研池再充实）、资本与成果所有权博弈（《[[Bayh-Dole Act of 1980|拜杜法案]]》与学术专利商业化），以及超国家机构依托自指性量化指标构建的政策知识垄断。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32, 41–42)]]; [[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 71–75)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> **宏观体制知识生产（Macro-Institutional Knowledge Production）** 聚焦知识在[[National Innovation System|国家创新体系]]、跨国治理网络与全球学术劳动力市场中的生产机制与权力政治。这一维度关注知识生产的组织载体（现代[[Research Universities|研究型大学]]的确立）、出资与分配契约（联邦竞争性资助与公共科研池再充实）、资本与成果所有权博弈（《[[Bayh-Dole Act of 1980|拜杜法案]]》与学术专利商业化），以及超国家机构依托自指性量化指标构建的政策知识垄断。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32, 41–42)]]; [[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 71–75)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 
 > [!concept-lens] 宏观概念透镜
 > - **含义** 科学知识的创造绝非象牙塔中超然物外的自由探索，而是被国家科技政策立法、研发资助机制与全球地缘政治网络深度嵌入的制度化活动。

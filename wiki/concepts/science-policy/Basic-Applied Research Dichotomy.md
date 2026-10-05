@@ -8,10 +8,10 @@ aliases:
 summary: "战后主导科技政策资源配置的核心分类范式，以研究者即时立项动机将科研割裂为基础与应用两轨；后因其文化阶层偏见、单向因果谬误及导致关键硬件发明资助断档而遭系统性解构"
 type: concept
 domain: "science-policy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/science-policy
   - theme/research-classification
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
+  - "[[National Innovation System]]"
   - "[[Innovation Ecosystem]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-02
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Basic-Applied Research Dichotomy
@@ -116,7 +117,7 @@ updated: 2026-10-03
 ### 命题二　二分法与市场失灵说的机械捆绑导致国家重大战略发明面临灾难性的资助断档
 
 > [!concept-lens] 公共财政资助的合法性边界
-> 探讨依据基础/应用二分法划分政府与市场边界如何对国家创新体系造成结构性破坏。
+> 探讨依据基础/应用二分法划分政府与市场边界如何对[[National Innovation System|国家创新体系]]造成结构性破坏。
 
 > [!claim] Arrow, K. & Nelson, R.
 > **[[Market Failure|市场失灵]]与纯基础资助边界** 基础研究产出非排他性、非竞争性的纯公共品知识，私营资本无法专有化回收投资，因而需要公共财政兜底；而具有明确应用目标的研发能够产生专利和专有收益，应由市场资本自发驱动。

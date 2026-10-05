@@ -13,7 +13,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ tags:
   - theme/technology-transfer
   - policy/research-governance
 related_concepts:
+  - "[[National Innovation System]]"
   - "[[Application Engineering]]"
   - "[[Big Science]]"
   - "[[Valley of Death]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-05
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Fraunhofer Society Model
@@ -52,7 +53,7 @@ updated: 2026-10-03
 ## 机构定位与组织宗旨
 
 > [!claim] 核心定位
-> 弗劳恩霍夫应用研究促进协会（Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.，通称弗劳恩霍夫学会）是德国乃至欧洲规模最大的面向产业应用研究与关键技术开发的公立科研实体；以物理学家约瑟夫·冯·夫琅和费（Joseph von Fraunhofer）命名，专司解决基础科研成果与工业界商业化应用之间的技术熟化瓶颈，构成了德国国家创新体系中承接[[Application Engineering|应用工程]]转化的中枢纽带。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
+> 弗劳恩霍夫应用研究促进协会（Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.，通称弗劳恩霍夫学会）是德国乃至欧洲规模最大的面向产业应用研究与关键技术开发的公立科研实体；以物理学家约瑟夫·冯·夫琅和费（Joseph von Fraunhofer）命名，专司解决基础科研成果与工业界商业化应用之间的技术熟化瓶颈，构成了德国[[National Innovation System|国家创新体系]]中承接[[Application Engineering|应用工程]]转化的中枢纽带。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
 
 > [!org-context] 机构背景
 > - **成立时间** 1949 年 3 月在慕尼黑正式设立，旨在促进战后西德工业重建与应用科技自主。

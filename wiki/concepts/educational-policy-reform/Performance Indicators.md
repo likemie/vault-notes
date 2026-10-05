@@ -7,7 +7,7 @@ aliases:
 summary: "经过目的性选择和加工的派生统计量，具备“技术理性”与“权力规制”双重属性（Le Galès, 2016）。通过将异质、复杂的教育系统还原为跨国可比的数值与排名，绩效指标在提供决策信息的同时重塑行动者行为与治理关系。在数字治理 2.0 时代，绩效指标成为中介机构为充满歧义性的政策决策构筑“理性表象”的核心脚手架（Steiner-Khamsi et al., 2024）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Reflexivity]]"
   - "[[Variable]]"
+  - "[[Regional Innovation System]]"
   - "[[Theories of Policy Change]]"
   - "[[STEM Education]]"
   - "[[Selectivity]]"
@@ -135,7 +136,7 @@ updated: 2026-10-05
 >   - **仪表盘警示灯功能** 索瓦若（Sauvageot, 1997）指出指标犹如汽车仪表盘上的指示灯，负责指示“温度异常”或“油量不足”，负责提示危机但无法直接给出临床治疗处方。
 > - **政策工具层面的四维运作机制（[[Argument_Rambla_2022_Springer\|Rambla, 2022]]）**
 >   - **通过互动性专业技能获取合法性** 指标依靠柯林斯（Harry Collins）所称的“互动专业知识”（Interactive Expertise），在专家与官员的反复博弈协商中建构出被视为不容置疑的技术权威。[[Argument_Rambla_2022_Springer\|(Rambla, 2022, p. 165)]]
->   - **展示可测量的治理成果** 将极其错综复杂的学校教育现实压缩为简洁清晰的可视化地图、柱状图与仪表板（如欧盟区域创新记分牌 RIS）。
+>   - **展示可测量的治理成果** 将极其错综复杂的学校教育现实压缩为简洁清晰的可视化地图、柱状图与仪表板（如欧盟区域创新记分牌 [[Regional Innovation System|RIS]]）。
 >   - **传播内嵌的[[Theories of Policy Change\|政策变革理论]]（Theories of Policy Change）** 指标体系内部预设了不可言明的因果假说（如“提高教育财政投入$\to$提升 [[STEM Education\|STEM]] 技能$\to$拉动区域 GDP 增长”）。
 >   - **重塑政治关系并执行结构性选择（[[Selectivity]]）** 遵循杰索普（[[Bob Jessop]]）的国家理论，指标通过“决定度量什么和忽视什么”，特权化某些群体的利益诉求，同时使无法量化的教育价值边缘化。
 > - **[[Governing by Numbers\|数字治理]] 2.0 时代的[[Façade of Rationality\|理性表象]]与叙事空间**
@@ -181,7 +182,7 @@ updated: 2026-10-05
 > - **1988 — [[International Indicators of Education Systems\|INES]] 项目启动与指标工业化奠基** OECD 正式设立“[[International Education\|国际教育]]指标开发项目”（INES），系统研制涵盖产出、投入与过程的三维指标体系，博塔尼（Bottani）推动确立了“不完美的数据好过没有数据”的务实政策工具主义原则。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 8)]]
 > - **1992 — 《[[Education at a Glance\|教育概览]]》（EAG）首版与指标制度化** OECD 正式出版首部《教育概览》，标志着教育绩效指标实现年度常规化出版，确立了全球通用的比较指标标准体系。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 11)]]
 > - **2000年代 — [[PISA]] 与心理测量跨国排名的绝对统治** 博塔尼称之为“绩效指标痴迷与心理测量比较的全面胜利”，指标体系不再仅仅提供系统概况，而是演变为以标准分数排序决定国家教育优劣的全球问责机制。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 13)]]
-> - **2010年代 — 区域记分牌与多边排他性同盟分化** 欧盟通过 EUROSTAT 推广区域创新记分牌（RIS）；[[World Bank\|世界银行]]则在华盛顿总部开发“[[Systems Approach for Better Education Results\|改善教育成果系统分析法]]”（SABER），各多边巨头发展出自成体系的指标数据库并借此结成排他性政策同盟。[[Argument_Rambla_2022_Springer\|(Rambla, 2022, pp. 169–170)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
+> - **2010年代 — 区域记分牌与多边排他性同盟分化** 欧盟通过 EUROSTAT 推广区域创新记分牌（[[Regional Innovation System|RIS]]）；[[World Bank\|世界银行]]则在华盛顿总部开发“[[Systems Approach for Better Education Results\|改善教育成果系统分析法]]”（SABER），各多边巨头发展出自成体系的指标数据库并借此结成排他性政策同盟。[[Argument_Rambla_2022_Springer\|(Rambla, 2022, pp. 169–170)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 
 ### 实证运作中的组织行为学与宏观绩效反思（[[Argument_Gorur_2014_Discourse|Gorur, 2014]]; [[Argument_Rambla_2022_Springer|Rambla, 2022]]; [[Argument_Rust_2009_Reflections|Rust et al., 2009]]）
 

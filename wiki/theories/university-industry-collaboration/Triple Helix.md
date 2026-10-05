@@ -8,7 +8,7 @@ aliases:
 summary: "Etzkowitz 与 Leydesdorff 于 1995 年提出的创新系统理论，阐明大学、产业与政府在知识经济中突破单向线性分工、形成非线性反馈与职能重叠的动态螺旋，并揭示了宏观制度交织与微观组织碎片化之间的深层张力。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 47
+theory_related_count: 48
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Linear Model of Innovation]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[National Innovation System]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Entrepreneurial University]]"
   - "[[Science and Technology Studies]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Triple Helix
@@ -87,7 +88,7 @@ updated: 2026-10-03
 > - **解释对象** 大学、产业界与政府三大制度领域在以知识为基础的经济中的互动关系、非线性反馈机制、组织边界渗透与协同演进过程。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 37–44)]]
 > - **理论问题** 破解单向[[Linear Model of Innovation|线性创新模型]]（政府资助基础科研 → 大学产出知识 → 工业界转化应用）以及二战后国家科研体制下大学与产业需求严重脱钩的现实困境，阐明非线性、多主体网络协同创新的制度动力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 39–41)]]
 > - **理论类型** 制度[[Systems of Innovation|创新系统]]解释理论、国家科技政策[[Analytic Framework|分析框架]]与产学研协同治理规范模型。
-> - **知识位置** 科学技术政策（Science Policy）与高等教育社会学[[Comparative Education as a Cross-Sectional Area|交叉领域]]；向上衔接国家[[Systems of Innovation|创新系统理论]]（National Systems of Innovation, NSI）与[[Knowledge-Based Economy|知识经济]]理论，中观对应[[Entrepreneurial University|创业型大学]]理论，向下对话[[Discovery-Invention Cycle|发现-发明循环]]与[[Academic Capitalism|学术资本主义]]。
+> - **知识位置** 科学技术政策（Science Policy）与高等教育社会学[[Comparative Education as a Cross-Sectional Area|交叉领域]]；向上衔接国家[[Systems of Innovation|创新系统理论]]（[[National Innovation System|National Systems of Innovation]], NSI）与[[Knowledge-Based Economy|知识经济]]理论，中观对应[[Entrepreneurial University|创业型大学]]理论，向下对话[[Discovery-Invention Cycle|发现-发明循环]]与[[Academic Capitalism|学术资本主义]]。
 
 > [!claim] 核心判断
 > 在以知识为基础的经济中，大学、产业与政府不再维持界限分明的传统功能分工，而是形成动态交织的反馈螺旋；每一方均在维持核心自主性的同时承担其他领域的衍生角色，三者交织界面的制度连接密度与治理质量决定了整个国家[[Systems of Innovation|创新系统]]的活力。然而，宏观制度维度的紧密整合并不自动等同于微观大学内部的协同一致，相反常伴生组织碎片化管理与学术使命被工业短期诉求俘获的深层张力。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 52–53, 64–65)]]; [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]

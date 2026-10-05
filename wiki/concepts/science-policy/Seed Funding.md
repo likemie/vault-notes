@@ -10,7 +10,7 @@ aliases:
 summary: "科技政策与高等教育科研资助中的敏捷启动机制。指公共资助机构在研究者尚未产出大量成熟数据或同行评议论文之前，基于初步概念验证所给予的小额非官僚化早期启动资金；在国家创新体系中构成高风险颠覆性探索的“第一波资助”，为学者确立初步声誉并为后续常规同行评议（如 NSF）资助奠定基础。"
 type: concept
 domain: "science-policy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Proof of Concept Programs]]"
+  - "[[National Innovation System]]"
   - "[[Knowledge Production]]"
   - "[[Chain of Evidence]]"
   - "[[Star Scientists]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # Seed Funding
@@ -50,7 +51,7 @@ updated: 2026-10-04
 ## 定义
 
 > [!def] 核心定义
-> **种子资助（Seed Funding / Strategic Seeding）** 指在科技政策、高等教育科研资助与风险[[Innovation Ecosystem|创新生态]]中，公共研发机构（如 [[DARPA]]）、基金会或早期风险资本在大学科研人员与初创团队尚未产出系统性实验数据、成熟原型或大批同行评议论文之前，基于极少量的初步概念验证（[[Proof of Concept Programs|proof of concept]]）而迅速拨付的小额、灵活、低行政负担的早期启动资金。在国家创新体系中，种子资助承担着高风险颠覆性构想的“催化剂”与“第一波资助”（First Wave）功能，旨在帮助学者以极快速度跨越“0到1”的初始验证门槛，确立初步学术声誉，从而为后续获得常规同行评议基金（如 [[National Science Foundation|NSF]]）或产业界规模化跟进投资创造前提。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1140, 1142)]]
+> **种子资助（Seed Funding / Strategic Seeding）** 指在科技政策、高等教育科研资助与风险[[Innovation Ecosystem|创新生态]]中，公共研发机构（如 [[DARPA]]）、基金会或早期风险资本在大学科研人员与初创团队尚未产出系统性实验数据、成熟原型或大批同行评议论文之前，基于极少量的初步概念验证（[[Proof of Concept Programs|proof of concept]]）而迅速拨付的小额、灵活、低行政负担的早期启动资金。在[[National Innovation System|国家创新体系]]中，种子资助承担着高风险颠覆性构想的“催化剂”与“第一波资助”（First Wave）功能，旨在帮助学者以极快速度跨越“0到1”的初始验证门槛，确立初步学术声誉，从而为后续获得常规同行评议基金（如 [[National Science Foundation|NSF]]）或产业界规模化跟进投资创造前提。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1140, 1142)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向科研资助体系中在“极高不确定性、极低先验数据”阶段介入的小额敏捷资本工具。

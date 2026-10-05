@@ -93,7 +93,7 @@ updated: 2026-10-01
 > - **1990s — 英法课堂实态与比较[[Learnology|微观学习学]]奠基** 深入课堂一线开展微观质性考察，探索学生如何体验学习、教师如何理解赋权，构建“学习学”概念体系。
 >   - **代表著作** *Education, Assessment and Society: A Sociological Analysis* (1996); *Learning from Comparing* (1999); *Towards a neo-comparative 'learnology' of education* (1999)。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
 >   - **关键概念／方法** [[Learnology\|微观学习学]]、[[Comparative Pedagogy\|比较教学论]]、课堂生态学。
->   - **阶段转向** 与[[Robin Alexander|亚历山大]]等学者合流，推动比较教育学由宏观体制白描全面下沉至微观课堂与学习者主体。
+>   - **阶段转向** 与亚历山大等学者合流，推动比较教育学由宏观体制白描全面下沉至微观课堂与学习者主体。
 > - **2000s–至今 — 第三代评价冲突调和与[[Lifelong Learning|终身学习]]赋权** 反思新自由主义问责制与标准化测验对学生[[Creativity|创造力]]的压制，倡导促进学习的评价（[[Formative Assessment|assessment for learning]], AfL）。
 >   - **代表著作** *Assessment: Resolving the Third-Generation Conflict* (2000); *Empowering Learners Through Assessment* (2007)。
 >   - **关键概念／方法** 发展性评价、[[Learner Autonomy|自主学习]]者认同、评价生态学。

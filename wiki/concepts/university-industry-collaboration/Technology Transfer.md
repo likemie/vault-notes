@@ -9,7 +9,7 @@ aliases:
 summary: "大学研究成果与前沿工业创新转化为商业应用与产业扩散的过程。除以 Bayh-Dole Act 为核心的专利排他许可与 TTO 商业化路径外，战后信息技术体系亦证实了公共领域开源披露、强制第二供应商工艺诀窍转移与科研人才跨界流动等非专利技术转移机制的决定性作用。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -20,6 +20,7 @@ tags:
   - "policy/bayh-dole"
 related_concepts:
   - "[[Technology Transfer Office]]"
+  - "[[National Innovation System]]"
   - "[[Second-Sourcing]]"
   - "[[Evaluation Research]]"
   - "[[General Purpose Technology]]"
@@ -78,7 +79,7 @@ updated: 2026-10-05
 ## 定义
 
 > [!def] 核心定义
-> 技术转移（Technology Transfer）是指将大学、公共科研机构或工业实验室所产出的科学发现、技术发明与工程知识（包括专利发明、实验数据、计算机软件及制造工艺诀窍），转化为产业实际应用、商业化产品及社会生产力的全过程。在以美国《[[Bayh-Dole Act of 1980|拜杜法案]]》为代表的传统法定模式中，技术转移常被狭义理解为大学通过[[Technology Transfer Office|技术转移办公室]]（TTO）开展知识产权界定、专利独占许可及衍生企业孵化的法律商业化路径；[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, p. 273)]] 然而在战后国家创新体系演化史视域下，技术转移还广泛依托于**非专利技术转移机制**，包括科研成果向公共领域的非保密披露、军方先导采购推行的强制第二货源（[[Second-Sourcing]]）工艺共享、以及高层次科研人才在大学、军工基地与初创企业间的高频流动。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29–31)]]
+> 技术转移（Technology Transfer）是指将大学、公共科研机构或工业实验室所产出的科学发现、技术发明与工程知识（包括专利发明、实验数据、计算机软件及制造工艺诀窍），转化为产业实际应用、商业化产品及社会生产力的全过程。在以美国《[[Bayh-Dole Act of 1980|拜杜法案]]》为代表的传统法定模式中，技术转移常被狭义理解为大学通过[[Technology Transfer Office|技术转移办公室]]（TTO）开展知识产权界定、专利独占许可及衍生企业孵化的法律商业化路径；[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, p. 273)]] 然而在战后[[National Innovation System|国家创新体系]]演化史视域下，技术转移还广泛依托于**非专利技术转移机制**，包括科研成果向公共领域的非保密披露、军方先导采购推行的强制第二货源（[[Second-Sourcing]]）工艺共享、以及高层次科研人才在大学、军工基地与初创企业间的高频流动。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29–31)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 连接科学发现与产业应用的关键转换枢纽，既表现为契约驱动的法定知识产权交易，更包含关系网络中的人员流动、技术标准共建与隐性经验扩散。
@@ -257,7 +258,7 @@ updated: 2026-10-05
 > | [[Technology Transfer Office]] | Concept | 大学内部专门负责知识产权披露审查、专利申请与对外商业许可谈判的核心中介机构。 |
 > | [[Second-Sourcing]] | Concept | 战后微电子产业采购体系中强制转移底层半导体制造诀窍的代表性非专利机制。 |
 > | [[Cold War University]] | Concept | 培养跨界工程技术人才并向高科技产业集群输送技术与创办者的核心组织载体。 |
-> | [[Systems of Innovation]] | Theory | 技术转移作为国家创新系统内不同子系统（大学、企业、政府）相互连接的核心功能。 |
+> | [[Systems of Innovation]] | Theory | 技术转移作为[[National Innovation System\|国家创新系统]]内不同子系统（大学、企业、政府）相互连接的核心功能。 |
 > | [[Knowledge Exchange]] | Concept | 超越单一专利转让的广义产学互动[[Paradigm\|范式]]，涵盖咨询、合同研究与人员交流。 |
 > | [[Foreground IP]] | Concept | [[University-Industry Collaboration\|产学合作]]执行期间直接产生的新增知识产权界定。 |
 > | [[Background IP]] | Concept | 合作前各方既有的背景知识产权，决定[[Freedom to Operate\|自由实施权]]与[[Research Translation\|技术转化]]可行性。 |

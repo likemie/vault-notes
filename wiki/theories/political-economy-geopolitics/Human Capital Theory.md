@@ -7,7 +7,7 @@ aliases:
 summary: "将教育与培训视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论。二战后在冷战地缘博弈中成为经合组织（OECD）推行技术官僚式人力规划与世界银行构建跨国放贷指标帝国的核心理论支柱；在创新经济学中阐明了重大工程实战历练与冷战大学研究生流动构筑高科技产业实体技术转移与人才生态的微观机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 59
+theory_related_count: 60
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Learning by Doing]]"
   - "[[Cold War University]]"
   - "[[Technology Transfer]]"
+  - "[[National Innovation System]]"
   - "[[Refined Mastery]]"
   - "[[Competitiveness]]"
   - "[[Epistemic Stances]]"
@@ -160,7 +161,7 @@ updated: 2026-10-05
 > [!proposition-chain] 核心命题六｜[[Cold War University|冷战大学]]科研资助通过研究生流动构筑新兴产业的实体人力资本转移载体
 > - **前提一** 战后美国国防部与联邦机构对[[Cold War University|冷战大学]]（如麻省理工学院、斯坦福大学、卡内基梅隆大学与伯克利分校）的计算机与工程研究进行了长达数十年的非保密基础研究注资（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005, pp. 29–31]]）。
 > - **前提二** 与传统依靠正式专利许可的交易型[[Technology Transfer|技术转移]]不同，新兴信息技术领域知识具有高度默会性与未定型性，大学与产业间最高效的知识扩散载体是直接参与前沿课题攻关的研究生与博士后（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005, p. 30]]）。
-> - **推导** ① 联邦科研预算实质上发挥了“跨期人力资本孵化基金”功能，在学术前沿培育了全美第一代掌握复杂操作系统、网络协议与芯片工艺的高阶工程师；② 受训青年学者的高频实体跨界流动（毕业任职于商业巨头或独立创办衍生企业），构成了战后美国信息技术向民用市场扩散的最关键机制；③ 证实了人力资本理论在国家创新体系维度的微观机理——高强度的公共研发投资必须与自由开放的人才流动网络相咬合，方能转化为不可逆的产业竞争优势。
+> - **推导** ① 联邦科研预算实质上发挥了“跨期人力资本孵化基金”功能，在学术前沿培育了全美第一代掌握复杂操作系统、网络协议与芯片工艺的高阶工程师；② 受训青年学者的高频实体跨界流动（毕业任职于商业巨头或独立创办衍生企业），构成了战后美国信息技术向民用市场扩散的最关键机制；③ 证实了人力资本理论在[[National Innovation System|国家创新体系]]维度的微观机理——高强度的公共研发投资必须与自由开放的人才流动网络相咬合，方能转化为不可逆的产业竞争优势。
 
 > [!citation-card] 法布里齐奥与莫厄里论研究生流动作为核心人力资本技术转移渠道
 > 联邦对大学基础研究的支持不仅创造了前沿科技成果，更关键的是培养了大批[[Refined Mastery|精通]]新兴计算与微电子科学的研究生。这些青年科研人才向产业界的高频流动，构成了二战后美国信息技术产业技术转移与商业化起飞的最决定性渠道，其影响力远超正式的专利排他许可。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 30)]]

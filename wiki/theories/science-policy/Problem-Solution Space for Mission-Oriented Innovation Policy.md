@@ -10,10 +10,10 @@ aliases:
 summary: "基于争议性、复杂性与不确定性解构社会问题与创新方案，划分二维象限并阐释三条收敛治理路径的政策分析框架"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 23
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 24
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theory/science-policy
   - innovation-policy
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Grand Challenges]]"
   - "[[Transformative System Failures]]"
   - "[[Paradigm]]"
+  - "[[National Innovation System]]"
   - "[[Market Failure]]"
   - "[[Directionality of Innovation]]"
   - "[[Reflexivity]]"
@@ -51,7 +52,7 @@ related_theories:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Problem-Solution Space for Mission-Oriented Innovation Policy
@@ -83,7 +84,7 @@ updated: 2026-10-03
 
 > [!thought-timeline] 使命导向创新政策理论的[[Paradigm|范式]]演进
 > - **经典工程使命范式（1960s–1980s）** 以阿波罗登月计划和曼哈顿工程为代表，预设目标共识高度统一、技术可行性清晰且政府作为单一采购方，聚焦自上而下的硬技术工程攻坚。
-> - **系统失灵与社会–技术转型范式（2000s–2010s）** 引入国家创新系统理论与多层级视角（Multi-Level Perspective, MLP），认识到[[Market Failure|市场失灵]]之外的制度锁定、基础设施缺失与网络协调失灵，强调方向性（[[Directionality of Innovation|directionality]]）引导。
+> - **系统失灵与社会–技术转型范式（2000s–2010s）** 引入[[National Innovation System|国家创新系统]]理论与多层级视角（Multi-Level Perspective, MLP），认识到[[Market Failure|市场失灵]]之外的制度锁定、基础设施缺失与网络协调失灵，强调方向性（[[Directionality of Innovation|directionality]]）引导。
 > - **二维空间与过程导向治理范式（2020）** 万岑伯克等人融合棘手问题理论，确立问题与方案双向解构的二维空间框架，将政策重心转向多方审议、[[Reflexivity|反思性]]试验与小胜累积的动态收敛治理。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–478)]]
 
 ---

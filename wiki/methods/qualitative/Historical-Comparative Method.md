@@ -10,7 +10,7 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度、国�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 75
+method_related_count: 76
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Public Dynamic Capabilities]]"
   - "[[Policy Brokerage]]"
   - "[[Unit of Analysis]]"
+  - "[[National Innovation System]]"
   - "[[Big Science]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
@@ -120,7 +121,7 @@ updated: 2026-10-05
 > [!method-scope] 方法范围
 > - **研究对象** 民族国家教育与科研体系建制沿革、科技与产业政策历史演进、超国家组织（IOs）治理职能变迁、跨国在“多样性与统一性”张力下的宏观演进轨迹，以及国家创新机构与[[Public Dynamic Capabilities|公共部门动态能力]]跨越 150 年的长周期形态演变。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–88)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–796)]]
 > - **问题类型** 历史成因与机制解释（Why and How）、制度发展动力探寻、国家能力代际变迁、跨国制度类型学建构、国际组织法定职能变迁与[[Policy Brokerage|政策中介]]合法性生成。
-> - **[[Unit of Analysis|分析单位]]** 民族国家、国家创新体系、历史长周期分期（如追赶型骆驼形态、冷战[[Big Science|大科学]]狮子形态、社会技术复杂挑战孩童形态）、重大法案与政策文本、跨国政府间组织（如 [[OECD]]、[[World Bank|世界银行]]、[[UNESCO]]）以及前沿公共实验机构（如 [[DARPA]]、英国 [[Government Digital Service|GDS]]）。
+> - **[[Unit of Analysis|分析单位]]** 民族国家、[[National Innovation System|国家创新体系]]、历史长周期分期（如追赶型骆驼形态、冷战[[Big Science|大科学]]狮子形态、社会技术复杂挑战孩童形态）、重大法案与政策文本、跨国政府间组织（如 [[OECD]]、[[World Bank|世界银行]]、[[UNESCO]]）以及前沿公共实验机构（如 [[DARPA]]、英国 [[Government Digital Service|GDS]]）。
 > - **输出形式** 历史因果脉络谱系、制度演进动力模型、跨国对照[[Analytic Framework|分析框架]]、中程工作假设（Working Hypotheses）、国家能力与政策形态演化类型学。
 
 > [!citation-card] 历史比较法从个案归纳工作假设的[[Epistemology\|认识论]]辩护

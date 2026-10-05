@@ -12467,6 +12467,19 @@
     ]
   },
   {
+    "title": "National Innovation System",
+    "type": "concept",
+    "path": "wiki/concepts/university-industry-collaboration/National Innovation System.md",
+    "aliases": [
+      "国家创新系统",
+      "国家创新体系",
+      "National System of Innovation",
+      "National Systems of Innovation",
+      "NIS",
+      "NSI"
+    ]
+  },
+  {
     "title": "New York Bay Area",
     "type": "concept",
     "path": "wiki/concepts/university-industry-collaboration/New York Bay Area.md",
@@ -12619,6 +12632,19 @@
       "public-private partnership",
       "研究型公私合作",
       "研究型PPP"
+    ]
+  },
+  {
+    "title": "Regional Innovation System",
+    "type": "concept",
+    "path": "wiki/concepts/university-industry-collaboration/Regional Innovation System.md",
+    "aliases": [
+      "区域创新系统",
+      "区域创新体系",
+      "Regional System of Innovation",
+      "Regional Systems of Innovation",
+      "RIS",
+      "RSI"
     ]
   },
   {
@@ -15173,8 +15199,6 @@
       "创新系统",
       "创新系统理论",
       "创新系统学派",
-      "national innovation systems",
-      "NIS",
       "innovation systems",
       "systems of innovation approach"
     ]
@@ -21581,7 +21605,6 @@
     "path": "wiki/persons/uk/Robin Alexander.md",
     "aliases": [
       "罗宾·亚历山大",
-      "亚历山大",
       "Robin J. Alexander"
     ]
   },

@@ -7,7 +7,7 @@ aliases:
 summary: "由 Dosi 与 Pavitt 奠基的演化经济学核心理论，指技术变迁沿特定范式方向进行累积性、不可逆与路径依赖的演进；阐明技术来源、需求与专有性塑造产业异质性，以及军工首发采购、反垄断规制与嵌入型网络治理如何引导并协同新兴通用技术轨道的跨国分叉与起飞。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 58
+theory_related_count: 59
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -18,6 +18,7 @@ tags:
   - theme/science-policy
 related_concepts:
   - "[[Heterogeneity]]"
+  - "[[National Innovation System]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Directionality of Innovation]]"
   - "[[Market Shaping and Creating]]"
@@ -97,7 +98,7 @@ updated: 2026-10-05
 > - **解释对象** 解释不同产业与技术系统变迁的方向、速率与累积演进路径，揭示为何技术变革不是完全随机的自由探索，而是受制于特定知识基础、用户需求与制度规则的“轨道约束”与“路径依赖”。[[Argument_Pavitt_1984_RP|(Pavitt, 1984, pp. 343–345)]]
 > - **理论问题** 破解新古典经济学“技术要素均质替代”、“无摩擦扩散”与“市场自发达致最优技术组合”的理论虚构，解释产业间创新模式为何呈现结构性[[Heterogeneity|异质性]]，以及既有成熟技术如何形成强大的自增强锁定并阻碍新兴颠覆性技术的发育。[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016, pp. 156–158)]]
 > - **理论类型** [[Evolutionary Economics|演化经济学]]微观与中观基础解释理论、产业技术创新动力学[[Analytic Framework|分析框架]]。
-> - **知识位置** 位于[[Evolutionary Economics|演化经济学]]与产业组织理论的交汇处；向上支撑部门[[Systems of Innovation|创新系统]]（Sectoral Innovation Systems）与国家创新系统理论，向前对话[[Mission-Oriented Innovation Policy|使命导向创新政策]]中关于“方向性”（[[Directionality of Innovation|directionality]]）选择、[[Market Shaping and Creating|市场塑造]]与三代使命轨迹治理的战略理论。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–806)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–792)]]
+> - **知识位置** 位于[[Evolutionary Economics|演化经济学]]与产业组织理论的交汇处；向上支撑部门[[Systems of Innovation|创新系统]]（Sectoral Innovation Systems）与[[National Innovation System|国家创新系统]]理论，向前对话[[Mission-Oriented Innovation Policy|使命导向创新政策]]中关于“方向性”（[[Directionality of Innovation|directionality]]）选择、[[Market Shaping and Creating|市场塑造]]与三代使命轨迹治理的战略理论。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–806)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–792)]]
 
 > [!claim] 核心判断
 > 技术的演进不是在所有可能维度上的随机试错，而是沿着特定“技术[[Paradigm|范式]]”所框定的“技术轨迹”（Technological Trajectories）展现出高度的累积性与不可逆性。不同产业部门的技术轨迹由技术[[Source of Knowledge|知识来源]]、用户需求特征与专有可能性三大维度共同塑造；由于成熟轨迹具有强大的网络外部性与技术锁定效应，仅仅依靠被动的市场价格信号无法自发转向可持续发展轨道，必须由国家通过使命导向政策设定明确方向，主动开辟并塑造全新的绿色技术轨迹。[[Argument_Pavitt_1984_RP|(Pavitt, 1984, pp. 343–347)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–807)]]

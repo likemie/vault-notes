@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 43
+fact_related_count: 44
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Vertical Disintegration]]"
   - "[[Market Failure]]"
   - "[[Theoretical Perspective]]"
+  - "[[National Innovation System]]"
   - "[[Innovation Ecosystem]]"
   - "[[Long-Term Public Utility]]"
   - "[[Document]]"
@@ -179,7 +180,7 @@ updated: 2026-10-05
 > > 贝尔实验室长达半个世纪的辉煌究竟源于其优越的[[Organizational Culture|组织文化]]，还是仅仅源于 AT&T 依法享有的国家电信垄断与高额资费补贴？
 > >
 > > - **批评与制度经济学视角** 市场竞争学者指出，贝尔实验室本质上是垄断特许权下的产物；在反垄断拆分后，私营竞争性资本无法继续承担无明确商业期限的超长周期应用基础研究，导致实验室研究规模不可避免地剧烈缩减。
-> > - **科技政策与循环[[Theoretical Perspective|理论视角]]** 纳拉亚纳穆尔提等学者指出，贝尔实验室的衰落正是美国国家创新体系的重大损失；它表明高风险、长周期的关键硬件与底层工艺研发无法单靠私营市场资本自发维系，联邦政府若继续拘泥于基础/应用二分法而拒绝对此类工程硬件研发给予公共资助，将使整个[[Innovation Ecosystem|创新生态]]陷入断链。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
+> > - **科技政策与循环[[Theoretical Perspective|理论视角]]** 纳拉亚纳穆尔提等学者指出，贝尔实验室的衰落正是美国[[National Innovation System|国家创新体系]]的重大损失；它表明高风险、长周期的关键硬件与底层工艺研发无法单靠私营市场资本自发维系，联邦政府若继续拘泥于基础/应用二分法而拒绝对此类工程硬件研发给予公共资助，将使整个[[Innovation Ecosystem|创新生态]]陷入断链。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
 > >
 > > > [!axis] [[Corporate R&D Labs|企业中央实验室]]衰落后的系统研发能力填补赤字
 > > 大学与风投支持的初创企业能否真正填补类似贝尔实验室这样的大型中央研发机构衰落后留下的系统创新空白？

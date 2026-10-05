@@ -6,7 +6,7 @@ aliases:
 summary: "二战后至冷战时期以斯坦福大学和麻省理工学院等为典型代表的研究型大学制度形态，其核心特征是通过深度依托美国国防部等国家安全机构的基础与应用科研经费投入，建立由联邦政府、军方、学界与工业界紧密交织的科研基础设施网络，在奠定工程与计算机前沿学科主导地位的同时重塑了现代大学的制度结构。"
 type: concept
 domain: "higher-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Center of Calculation]]"
   - "[[Knowledge Exchange]]"
   - "[[General Purpose Technology]]"
+  - "[[National Innovation System]]"
   - "[[Open-Mindedness]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Academic Freedom]]"
@@ -152,7 +153,7 @@ updated: 2026-10-05
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **学科建制与学术声誉演进** | 国防公共研发资助作为大学工程与计算机学科跨越式发展与名校声誉建立的物质支柱 | 战后美国[[Research Universities\|研究型大学]]学科制度史与高校组织社会学分析 | Fabrizio & Mowery |
-> | **知识跨界流动与人力资本培育** | 大学在国家安全科研与民用商业创新之间扮演跨界信息交流与高层次人才供给的枢纽 | 国家创新体系分析与产学研军民融合机制研究 | Fabrizio & Mowery |
+> | **知识跨界流动与人力资本培育** | 大学在国家安全科研与民用商业创新之间扮演跨界信息交流与高层次人才供给的枢纽 | [[National Innovation System\|国家创新体系]]分析与产学研军民融合机制研究 | Fabrizio & Mowery |
 > | **资助[[Open-Mindedness\|开放性]]与民用技术外溢** | 多元军种竞争性拨款与开放协议保障了科研自由度，催化通用技术底座建立 | 科学政策史与军民两用知识产权规制研究 | Fabrizio & Mowery |
 
 ---

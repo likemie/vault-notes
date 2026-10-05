@@ -14,7 +14,7 @@ aliases:
 summary: "纵向离散指原本整合在大型垄断企业内部的研发、设计、制造与封装等全价值链环节，解构并分散至专业化设计公司、代工厂、设备商与测试商等独立实体的产业组织形态；该结构赋予产业敏捷产品创新优势，但导致跨环节协调失灵、长周期基础研究萎缩，并在当代演化为极度地理集中与单点咽喉依赖的跨国多阶段网络，使单一国家推行封闭式国家冠军策略在现代彻底失效。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Innovation Ecosystem]]"
   - "[[Import Substitution Industrialisation]]"
+  - "[[National Innovation System]]"
   - "[[Modern Industrial Policy]]"
   - "[[Going Native]]"
   - "[[Variable]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # Vertical Disintegration
@@ -180,7 +181,7 @@ updated: 2026-10-04
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **技术锁定效应** | 纵向分工导致跨环节协同创新成本过高，加剧渐进改良依赖 | 高科技制造业、先进材料、光电子产业 | [[Erica Fuchs\|Fuchs (2010)]] |
-> | **治理互补机制** | 离散网络要求国家公共部门充当跨价值链整合者与风险吸收池 | 国家创新体系、颠覆性前沿技术孵化 | [[Erica Fuchs\|Fuchs (2010)]] |
+> | **治理互补机制** | 离散网络要求国家公共部门充当跨价值链整合者与风险吸收池 | [[National Innovation System\|国家创新体系]]、颠覆性前沿技术孵化 | [[Erica Fuchs\|Fuchs (2010)]] |
 > | **敏捷创新与科研隐患** | 纵向解耦将碎片化转化为敏捷设计优势，但伴随基础科研收缩风险 | 模块化高科技生态、无晶圆设计网络与基础科学政策 | [[Argument_Macher_1998_CMR\|Macher, Mowery, & Hodges (1998)]] |
 > | **国家冠军模式失效** | 跨国六大离散工序与单点咽喉依赖使单一国家全栈自主政策失效 | 现代半导体全球供应链、地缘技术联盟与出口管制 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024)]] |
 

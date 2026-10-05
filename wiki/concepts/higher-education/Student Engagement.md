@@ -9,7 +9,7 @@ aliases:
 summary: "学生在教育性活动中投入时间、精力与心智的综合构念，涵盖行为、情感、认知与认识论维度，受阶层文化习性制约，并作为连接教育环境与深层学业发展的核心中介机制。"
 type: concept
 domain: "higher-education"
-related_count: 36
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -54,7 +54,6 @@ related_methods:
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Yajun Zheng]]"
-  - "[[Robin Alexander]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
@@ -64,7 +63,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Student Engagement
@@ -194,7 +193,7 @@ updated: 2026-10-03
 ## 概念演变
 
 > [!dev-timeline] 学生投入概念的理论演变
-> - **1984 — [[Student Involvement\|学生涉入]]理论奠基** [[Robin Alexander|亚历山大]]·阿斯汀（Alexander Astin）提出涉入理论，聚焦个体生理与心理能量的全面投入，为“投入—成效”研究奠定假说基石。
+> - **1984 — [[Student Involvement\|学生涉入]]理论奠基** 亚历山大·阿斯汀（Alexander Astin）提出涉入理论，聚焦个体生理与心理能量的全面投入，为“投入—成效”研究奠定假说基石。
 > - **1991 — 学生投入理论系统化** 乔治·库（George Kuh）出版 *Involving Colleges*，将投入[[Operationalization\|操作化]]为具体教育性实践的时间与精力测量，并首次将院校制度支持纳入分析。
 > - **2000 年代 — 全国常模与实证巩固** [[National Survey of Student Engagement\|全美学生投入调查]]（NSSE）广泛应用，Pascarella & Terenzini 等学者通过海量实证确立投入对认知增益的稳健促进作用。
 > - **2023 — 质性质态与方向性深化** [[Yajun Zheng\|郑雅君]]引入“投入方向性”与“文化[[Habitus\|习性]]”视角，超越“投入越多越好”的线性[[Hypothesis\|假设]]，揭示[[Goal-Controlled Mode\|目标掌控模式]]与[[Intuition-Dependent Mode\|直觉依赖模式]]的机制差异。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]]

@@ -7,7 +7,7 @@ summary: "意大利裔经济学家，伦敦大学学院创新与公共目的研�
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Innovation Policy Paradigms]]"
   - "[[Directionality of Innovation]]"
   - "[[Picking the Willing]]"
+  - "[[National Innovation System]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[General Purpose Technology]]"
 related_theories:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Mariana Mazzucato
@@ -112,7 +113,7 @@ updated: 2026-10-03
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 拓展了[[Evolutionary Economics|演化经济学]]与国家[[Systems of Innovation|创新系统]]（National Systems of Innovation）理论，推动创新研究从“[[Market Failure|市场失灵]]/系统失灵修补”转向“[[Market Shaping and Creating|市场共创]]与[[Public Value|公共价值创造]]”，提出了完备的ROAR政策[[Analytic Framework|分析框架]]。
+> - **理论路径** 拓展了[[Evolutionary Economics|演化经济学]]与国家[[Systems of Innovation|创新系统]]（[[National Innovation System|National Systems of Innovation]]）理论，推动创新研究从“[[Market Failure|市场失灵]]/系统失灵修补”转向“[[Market Shaping and Creating|市场共创]]与[[Public Value|公共价值创造]]”，提出了完备的ROAR政策[[Analytic Framework|分析框架]]。
 > - **政策路径** 直接塑造了欧盟“[[Horizon Europe|地平线欧洲]]”（Horizon Europe）框架计划的架构，为英国、德国、巴西等国产业战略转型提供了顶层设计工具。
 > - **公共话语** 深刻扭转了国际公共舆论中关于公私部门关系的叙事，强化了公众对国家战略投资合法性与社会回报正当性的认知。
 

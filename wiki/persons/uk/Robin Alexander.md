@@ -2,18 +2,17 @@
 title: Robin Alexander
 aliases:
   - 罗宾·亚历山大
-  - 亚历山大
   - Robin J. Alexander
 summary: "剑桥大学教育学教授、英国学术院院士，跨国课堂教学文化比较与“比较教学论”（Comparative Pedagogy）奠基人，英法印俄美五国初等教育里程碑研究《文化与教学》（2000）作者，对话教学（Dialogic Teaching）理论开创者，英国《剑桥初等教育调查》领衔主持者。"
 type: person
-nationality: "uk"
+nationality: uk
 person_region: "uk"
 person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
 born: "1941"
-lifespan: "1941–至今"
+lifespan: 1941–至今
 tags:
   - subject/comparative-education
   - subject/pedagogy
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 
 # Robin Alexander

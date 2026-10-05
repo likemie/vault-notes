@@ -76,7 +76,7 @@ updated: 2026-10-01
 > - **用途** 帮助研究者穿透跨国测验（如 [[PISA]]、[[TIMSS]]）的去语境化排位表，洞悉教学法背后的深层文化[[Hypothesis|假设]]与课堂微观机制。
 > - **边界** 不等于脱离文化情境的实证微观行为[[Coding in Qualitative Research|编码]]，亦不等于一般教育学中抽象推演教学原则的思辨教学论。
 
-> [!citation-card] [[Robin Alexander|亚历山大]]论教学法作为文化的载体与实践
+> [!citation-card] 亚历山大论教学法作为文化的载体与实践
 > 教学法绝不仅仅是课堂组织与教学策略的技术汇编；教学法是关于教与学的观念、价值观、证据与集体信念的话语实践，它深深扎根于人类社会的历史与文化母体之中。任何对教学法的真正跨国比较，都必须将课堂视作民族文化规范与教育理想具身化的动态舞台。(Alexander, 2000, p. 540)
 >
 > *Pedagogy is not just about instructional techniques and classroom organization; it is the discourse and practice of teaching underpinned by ideas, values, evidence and collective beliefs. It is deeply embedded in the historical and cultural matrix of human societies. Any genuine cross-national comparison of pedagogy must view the classroom as a dynamic arena where national cultural norms and educational ideals are embodied.*
@@ -106,7 +106,7 @@ updated: 2026-10-01
 
 1. **对战后宏观[[Positivism|实证主义]]与唯方法论的纠偏** 战后第三代际实证科学化运动（诺亚与埃克斯坦、芝加哥学派）以及超国家机构（如[[World Bank|世界银行]]、[[OECD]]）将比较研究窄化为宏观投入-产出模型与去情境化的回归方程，完全忽视了教育发生的核心物理[[Champ|场域]]——学校课堂。（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 147–149]]）
 2. **英国比较教育学派的文化情境坚守** [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）考据指出，在第四代际晚期，当美国比较教育学界面临[[Postmodernism|后现代主义]]碎片化与新自由主义经济指标狂潮时，英国学术共同体展现出稳健审慎的学风，率先发起微观课堂教学与“[[Learnology|学习学]]”（Learneology）转向，将[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）关于校外文化精神力量的传统[[Creativity|创造性]]延伸至课堂教学法分析中。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, p. 155)]]
-3. **[[Robin Alexander|亚历山大]]五国比较研究的奠基** 罗宾·亚历山大在 20 世纪 90 年代主持了举世闻名的英、法、印、俄、美五国初等教育跨文化比较研究（Alexander, 2000），通过长达数年的深入[[Fieldwork\|田野调查]]与课堂[[Ethnography\|民族志]]，彻底确立了比较教学论的概念体系与方法论规程。
+3. **亚历山大五国比较研究的奠基** [[Robin Alexander|罗宾·亚历山大]]在 20 世纪 90 年代主持了举世闻名的英、法、印、俄、美五国初等教育跨文化比较研究（Alexander, 2000），通过长达数年的深入[[Fieldwork\|田野调查]]与课堂[[Ethnography\|民族志]]，彻底确立了比较教学论的概念体系与方法论规程。
 
 ---
 
@@ -121,7 +121,7 @@ updated: 2026-10-01
 > | **中观制度与课程** | 教师专业身份、国家课程大纲、教科书编纂、学校[[Organizational Culture\|组织文化]] | 法国共和国统一公民知识体系 vs 印度分层学校的阶级文化再生产 |
 > | **宏观社会文化理念** | 个人与国家的关系、知识的本质观、平等的定义、儿童期观念 | 英美个人主义与自我表达信念 vs 欧陆对公共启蒙与古典全人[[Bildung\|教化]]的敬畏 |
 
-[[Robin Alexander|亚历山大]]据此提炼出著名的“[[Dialogue in Education|对话教学]]”（Dialogic Teaching）理论，指出课堂话语互动的质量直接折射了社会文化的民主包容程度。
+亚历山大据此提炼出著名的“[[Dialogue in Education|对话教学]]”（Dialogic Teaching）理论，指出课堂话语互动的质量直接折射了社会文化的民主包容程度。
 
 ---
 
