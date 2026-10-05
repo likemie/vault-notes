@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -45,6 +45,7 @@ related_facts:
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[National Science Foundation]]"
   - "[[Department of Energy]]"
+  - "[[National Science and Technology Council]]"
   - "[[Sematech]]"
   - "[[Texas A&M Semiconductor Institute]]"
   - "[[America COMPETES Act]]"
@@ -61,7 +62,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # CHIPS and Science Act
@@ -93,7 +94,7 @@ updated: 2026-10-05
 >   - **直接制造建厂补贴（390 亿美元）** 由商务部通过竞争性申请发放，单项目补贴最高可达资本支出的 15%，用于新建或扩建晶圆制造设施；
 >   - **先进制造投资税收抵免（25% ITC）** 提供为期四年的 25% 联邦税收抵免（Section 48D），预估支持规模达 240 亿美元；
 >   - **国家科研机构扩容与人才培养** 为 [[National Science Foundation|NSF]] 授权 810 亿美元预算并增设技术、创新与伙伴关系理事会（TIP），专门加速[[Use-Inspired Basic Research|应用启发的基础研究]]与成果产业转化；为能源部（[[Department of Energy|DOE]]）科学办公室授权 305 亿美元增量预算支持二十项前沿技术攻关；同时投入数十亿美元用于理科教育，并将国家研究生研究奖学金（GRFP）年度资助名额从 2000 名增加至 3000 名。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
->   - **先进研发与劳动力发展专项（130 亿美元，含 110 亿直接研发）** 设立国家半导体技术中心（NSTC）、国家先进封装制造计划（NAPMP）、微电子计量网络及劳动力技能培训项目；汲取 [[Sematech]] 协同经验，系统性补齐工艺工程师储备；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 97–98)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
+>   - **先进研发与劳动力发展专项（130 亿美元，含 110 亿直接研发）** 设立国家半导体技术中心（[[National Science and Technology Council|NSTC]]）、国家先进封装制造计划（NAPMP）、微电子计量网络及劳动力技能培训项目；汲取 [[Sematech]] 协同经验，系统性补齐工艺工程师储备；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 97–98)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
 >   - **区域技术枢纽（Tech Hubs 计划，超 100 亿美元）** 在传统研发落后地区设立国家级技术与[[Innovation Hub|创新中心]]；[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 133–134)]]
 >   - **国防与友岸外包专项基金** 设立 20 亿美元国防专用半导体基金与 5 亿美元国际技术安全与创新基金（ITSI Fund）。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 98)]]
 > - **约束机制**
@@ -124,7 +125,7 @@ updated: 2026-10-05
 > - **发布主体** 美国国会两党（立法授权）与美国总统行政办公室。
 > - **执行主体** 美国商务部（CHIPS 计划办公室）、[[National Science Foundation|美国国家科学基金会]]（[[National Science Foundation|NSF TIP]] 理事会）、美国国防部与美国国务院（ITSI 基金）。
 > - **适用对象** 英特尔（Intel）、[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（TSMC）、三星电子（Samsung）、美光科技（Micron）、格芯（GlobalFoundries）等制造企业及全美[[Research Universities|研究型大学]]。
-> - **政策工具** 直接资本资助、税收抵免、低息联邦贷款、公私合作研发联盟（NSTC）及技术枢纽建设。
+> - **政策工具** 直接资本资助、税收抵免、低息联邦贷款、公私合作研发联盟（[[National Science and Technology Council|NSTC]]）及技术枢纽建设。
 
 > [!pathways]- 实施路径
 > - **中央战略引导** 商务部设立 CHIPS 计划办公室，建立跨部门遴选与审查标准，将供应链韧性与地缘安全审查前置。
@@ -166,7 +167,7 @@ updated: 2026-10-05
 
 > [!indicators]- 评价指标
 > - **投入指标** 527 亿美元直接资金、预估 240 亿美元税收抵免、吸引私人部门超 2000 亿美元配套建厂承诺。
-> - **过程指标** 晶圆厂开工率、环境评估审批速度、NSTC 产学联盟会员数与 TIP 资助覆盖率。
+> - **过程指标** 晶圆厂开工率、环境评估审批速度、[[National Science and Technology Council|NSTC]] 产学联盟会员数与 TIP 资助覆盖率。
 > - **结果指标** 美国先进制程全球制造份额、本土半导体高技能就业增长、对东亚单一节点依赖度下降。
 
 > [!finding-cards] 实施成效与结构反响
@@ -222,7 +223,7 @@ updated: 2026-10-05
 > |:-----|:-----|:-----|
 > | [[Modern Industrial Policy\|现代产业政策]] | 概念 | 本法案是当代美国现代产业政策最为核心的立法实践载体。 |
 > | [[Vertical Disintegration\|纵向离散]] | 概念 | 法案试图在纵向离散的全球分工体系中强行将制造节点拉回本土。 |
-> | [[Public-Private Partnership in Research\|研究型PPP]] | 概念 | NSTC 是法案推动建立的大规模国家战略型公私合作典范。 |
+> | [[Public-Private Partnership in Research\|研究型PPP]] | 概念 | [[National Science and Technology Council\|NSTC]] 是法案推动建立的大规模国家战略型公私合作典范。 |
 > | [[Innovation Hub\|创新中心]] | 概念 | 法案设立的 Tech Hubs 计划为全美区域创新中心提供长期制度与资金支持。 |
 > | [[October 2022 US Semiconductor Export Controls\|2022年10月出口管制]] | 事实 | 与本法案补贴形成“胡萝卜与大棒”攻守协同组合拳。 |
 > | [[European Chips Act\|欧洲芯片法案]] | 事实 | 欧盟针对美国芯片法案出台的对标与协同立法。 |

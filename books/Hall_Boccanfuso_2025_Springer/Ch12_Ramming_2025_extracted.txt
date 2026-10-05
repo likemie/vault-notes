@@ -1,0 +1,1058 @@
+=== PAGE 217 ===
+217© The Author(s), under exclusive license to Springer Nature 
+Switzerland AG 2025
+R. Hall, A. Boccanfuso (eds.), University-Industry Collaboration, International 
+Series in Operations Research & Management Science 369, 
+https://doi.org/10.1007/978-3-031-94913-5_12
+Chapter 12
+Gaining Support Within Companies 
+for Collaboration
+Chris Ramming
+12.1  Introduction and Terminology
+In general, for companies that engage with universities, some employees can be 
+considered “practitioners” of university engagement while others can be consid -
+ered “ stakeholders” in university engagement. Practitioners need to justify and 
+implement a material investment comprising direct financial support, in-kind contri-
+butions (such as equipment and facilities), and/or employee time. Stakeholders are 
+the beneficiaries of the practitioners’ work and typically need to participate in some 
+way to receive that benefit (e.g., with personnel and resources even if on an informal 
+or intermittent basis). We will use the term “ collaboration” to describe the activi-
+ties of engagement, for example, working together on a specific research project, 
+hosting an intern, developing curricula, or advising students. Typically, practitioners 
+have a deep understanding of both the university and the company, and they use that 
+knowledge to motivate and orchestrate collaborations that advance the goals of 
+stakeholders on both sides. This chapter is aimed primarily at supporting corporate 
+practitioners of university collaboration, and indirectly at helping university-side 
+collaborators understand the context and purpose of their collaboration from the 
+broader corporate perspective.
+Viewed through an organizational lens, practitioners are often members of a 
+broader “Academic Engagement Team” (AET) with budgeted responsibility for 
+leading and managing university collaboration in some form (see Callout 1). Some 
+large companies have multiple de facto AETs focused on different facets of collabo-
+ration, for example, research, talent acquisition, workforce development, strategic 
+marketing, and corporate social responsibility. Some very large companies also 
+have an umbrella “university relations” AET that helps coordinate the more 
+C. Ramming (*) 
+Portola Valley, CA, USA
+=== PAGE 218 ===
+218
+specialized AETs and that can serve as a one-stop interface to universities engaged 
+in multiple ways with a given company.
+In some cases, the actual corporate collaborators are formally part of an internal 
+AET, but in many cases, those collaborators are part of a stakeholder organization 
+(such as a specific product team or business unit) that is intended to benefit from the 
+collaboration activities. For example, a business unit leader may be a stakeholder in 
+research that could potentially influence product roadmaps, and given an opportu -
+nity for potential competitive advantage may be willing to formally dedicate and 
+support activities needed to achieve the benefits of university R&D collaboration. In 
+some cases, an AET practitioner will work to build stakeholder support in a “top 
+down” manner (starting with the executive stakeholders), in other cases the support 
+is built “bottom up” (through engineering stakeholders, product manager stakehold-
+ers, and so on).
+A theory of effective university–industry (UI) collaboration would be straight -
+forward to describe but for a dizzying array of variations on the theme stem -
+ming from
+• Corporate strategy (manifested in the balance of emphasis on different forms of 
+collaboration)
+• Organizational design (especially degree to which university collaboration is 
+managed by a centralized organization)
+• The maturity and role of the company in its industry (which can influence the 
+scope of university collaboration initiatives)
+• The manner and ways in which other collaborators (government, nonprofits, and 
+other companies) are incorporated into the collaboration
+• the fundamental purposes and cultures of academia and industry (often leading 
+to expectation misalignment that needs to be anticipated in the collabora -
+tion design)
+After introducing certain basic facets of university collaboration, this chapter will 
+discuss complicating factors and their implications for the design, operation, and 
+justification of AETs. This chapter will also highlight a case study that illustrates the 
+application of suggested considerations.
+12.2  Opportunities and Challenges
+To make an effective case for university collaboration, the practitioner of UI col -
+laboration needs to be an organizational “polymath”: technically astute, alert to 
+corporate philosophy, capable of navigating a variety of organizational designs, 
+adept at building support of key stakeholders, and strategically aware of the com -
+pany’s maturity and its role in a broader industry context. Before diving into practi-
+cal solutions and approaches, it is worthwhile to briefly tour some of the issues that 
+a practitioner needs to consider.
+C. Ramming
+=== PAGE 219 ===
+219
+12.2.1  Alignment with Corporate Philosophy
+To drive an effective AET, the corporate practitioner needs to be sensitive to the 
+broader philosophy of their enterprise. Industry in the United States is primarily 
+organized around the profit motive, and therefore, the returns on investment (ROI) 
+of university collaboration need to be rationalized in terms of financial or strategic 
+motivations, competitive advantage, and the opportunity costs of alternative invest-
+ments. However, individual corporate philosophy also plays a role, and in some 
+cases, the broader corporate philosophy can be either supportive or antithetical to 
+specific forms of university engagement. The deciding factor in the strength or 
+absence of university-facing functions is often the CEO’s approach to business. 
+Here are several illustrations of the relationship between corporate philosophy and 
+university engagement.
+R&D Whether and how a company supports disruptive research depends in part on 
+the company’s philosophy of growth. Does it deliberately fund “organic innova -
+tion,” that is, home-grown new products and services? Or does it grow primarily 
+through “inorganic innovation,” that is, the acquisition of companies with estab -
+lished products and services? University collaborations can be relevant in both set-
+tings, but the focus must be aligned with the broader corporate philosophy. For 
+example, to focus on organic growth the practitioner might prioritize “research 
+translation” metrics and incubation-related activities. To focus on inorganic growth, 
+the practitioner might focus on scouting entrepreneurial faculty and on internal edu-
+cation to create a more informed corporate “buyer” of acquisition targets early in 
+their lifecycle.
+Talent Acquisition In some cases, the hiring returns to a “talent acquisition” orga-
+nization may be easy to quantify and justify. For example, a company establishing 
+a new regional engineering office near a potential “talent feeder” university may see 
+an attractive recruiting ROI from engagement with that university. Similarly, even 
+without regional considerations, an organization may find that it needs to grow in 
+skills that are best cultivated in a university setting. But executive preference can 
+also be a deciding factor in the decision not to collaborate: for example, some com-
+panies deliberately hire only experienced employees and do not recruit new gradu-
+ates. Clearly, the decision to engage in technical collaborations and/or to fund 
+university programs for a talent acquisition purpose is entirely dependent on broader 
+corporate hiring policies and philosophy.
+Corporate Social Responsibility In some cases, a company may be operated on 
+tenets of “Stakeholder Capitalism” that seeks to benefit employees and society as 
+well as shareholders. Such companies may be more willing to engage in long-term 
+value creation even at the expense of short-term profits. On the other extreme, some 
+companies adhere more to Milton Friedman’s view that “The Social Responsibility 
+of a Business is to Increase its Profits,” which in some interpretations could put a 
+skeptical eye on investments in certain kinds of university initiatives (e.g., diversity 
+12 Gaining Support Within Companies for Collaboration
+=== PAGE 220 ===
+220
+and inclusion initiatives, speculative longer-term research), or perhaps simply favor 
+forms of university engagement with more obvious marketing revenue drivers such 
+as product placement and professional curriculum development.
+The bottom line is that practitioners need to clearly understand the prevailing 
+corporate philosophy as they seek support for AET initiatives.
+12.2.2  Metrics: Key Performance and Effectiveness Indicators
+To be effective in corporate settings, the practitioner needs to develop, monitor, and 
+produce results in terms of metrics aligned to corporate priorities. A typical chal -
+lenge for UI engagement is therefore to identify metrics and performance indica -
+tors. These indicators serve two purposes: first, to help justify the investment in 
+university collaborations, and second, to serve as management tools. However, 
+picking metrics is notoriously challenging for university engagement:
+• The benefits of university engagement are difficult to reduce to financial metrics 
+such as expected net present value and revenue. Without such metrics, the prac-
+titioner faces a thorny challenge in enlisting the support of business unit leaders 
+and arguing for a budget to invest in collaborations.
+• The total value of an engagement is the sum of incommensurable constituent 
+metrics corresponding to the different facets of engagement (hiring, research 
+outputs, strategic marketing, workforce development, employee development, 
+etc.). As a result, it can be challenging to make an investment case to mid-level 
+managers whose scope extends only to a subset of such facets. Correspondingly, 
+the executive whose scope extends across these facets tends to be high in the 
+organization, and may even be the CEO. This points back to the importance of 
+aligning with corporate philosophy in the design of an AET.
+• The business impact of a given investment can take many years to realize. This 
+lag induces a reliance on leading indicators that by themselves may not be per -
+suasive to business unit stakeholders (e.g., research publications may be a lead -
+ing indicator of competitive differentiation, but do not always result in business 
+impact).
+In addition to these conceptual challenges, there are many implementation chal -
+lenges in tracking university collaboration metrics. For example, at the infrastruc -
+ture level, corporate HR systems may not be configured to capture information 
+about whether a new hire was connected to a prior research collaboration.
+More generally, the results of university collaboration (especially technical 
+results) wend a long path from research groups to the benefiting product groups. 
+Tracking the provenance of collaborative contributions is particularly tricky as ideas 
+mature and as the custodian of those ideas move from group to group. Even when 
+an AET initiates a university collaboration, other groups are ultimately responsible 
+C. Ramming
+=== PAGE 221 ===
+221
+for realizing business value, and the provenance of collaborative results can be for-
+gotten along the way.
+The bottom line is that an AET will be more successful if its plans and impact 
+can be appreciated through the lens of relevant objective metrics.
+12.2.3  Funding: Allocating and Managing Budgets
+The corporate practitioner can “follow the money” to understand and support the 
+company’s goals. In general, corporate budgets are carefully allocated to reflect 
+business priorities. Clearly the decision to allocate funding in a particular way and 
+to a particular organization or suborganization is an important decision. For those 
+joining a new organization and trying to understand its philosophy of university 
+engagement, the funding landscape can be analyzed to quickly appreciate an orga -
+nization’s priorities and perspective on academic engagement. For example, fund -
+ing through a corporate foundation or donor-advised fund clearly has a philanthropic, 
+social responsibility component. In contrast, funding through a business unit or a 
+functional group (HR, marketing) tends to be very focused on extending the goals 
+of that business or functional group. And funding through a centralized organization 
+such as the CTO office will suggest interest in looking beyond current lines of 
+business.
+Importantly, for those working to evolve a company’s approach to university 
+engagement, reallocating the budget (however contentious it may become) can be a 
+key management tool. Moving budget from one organization to another is one way 
+to re-prioritize engagements to align with the purpose of the receiving 
+organization.
+The bottom line is that in the long run the returns on university collaboration 
+need to track to the purposes for which funding has been allocated, or that funding 
+can be at risk. The practitioner can sometimes use budget allocations to align effort.
+12.2.4  Governance: Deciding How to Invest
+The practitioner can extend support for university engagement by creating gover -
+nance structures that extend responsibilities and ownership to a broader set of stake-
+holders and supporters. In most corporate settings there is a close correspondence 
+between budgets and decision authority over that budget. However, for centralized 
+budgets in particular, and for university engagement programs that are not tied to 
+quarterly profit and loss constraints, practitioners often find benefit in establishing 
+governance structures that incorporate stakeholder input in the investment decisions.
+For example, a centralized research AET may wish to empower a “technology 
+council” or an “advisory council” or a “board of advisors” that reviews and recom-
+mends investment proposals, strategic plans, and research collaboration progress.
+12 Gaining Support Within Companies for Collaboration
+=== PAGE 222 ===
+222
+Although such councils are inherently inefficient in the sense that they compli -
+cate decision-making and can be viewed as mere bureaucracy, councils comprising 
+influential executives and technical leaders can nonetheless be valuable allies for 
+building awareness and support for collaborations and individual project results. 
+Ideally, council participants will both evangelize the program and help marshal the 
+resources of their organizations around activities such as research translation. 
+Deciding how to organize such governance structures is a key opportunity and 
+sometimes a challenge. Once established, changing the governance approach can be 
+as important a tool for evolution as reallocating the underlying budget.
+The bottom line is that sharing responsibility and authority can increase buy-in 
+and impact in university collaborations.
+12.2.5  Organizational Design: Optimizing the AET Overlay
+The practitioner will be more successful when the company’s AET(s) are thought -
+fully incorporated into its organizational design. However, the multifaceted range of 
+corporate interests (hiring, technology development, CSR, etc.) focused on a single 
+category of partner (universities) means that there are many possible ways to design 
+a company’s university-facing functions. The practitioner needs to consider how a 
+given design affects their approach to university collaboration.
+AETs are often implemented as “overlays” on other corporate business units (see 
+Callout 1). Fully realizing the benefits of university collaboration therefore often 
+requires practitioners to work effectively in a matrixed, highly decentralized organi-
+zation. Importantly, the position of a practitioner within the larger company struc -
+ture can be a factor in their effectiveness. “Centralized” practitioners may be more 
+distant from day-to-day business priorities and less well positioned to identify and 
+advocate for the most aligned university collaborations. Conversely, decentralized 
+practitioners may be less aware and less fully incentivized or chartered to identify 
+and advocate for university collaborations that serve the company but fall outside of 
+an individual business unit purview.
+Bottom line: practitioners need to consider and compensate for the strengths and 
+weaknesses of their particular corporate design.
+12.2.6  Evolution: Right Opportunities at the Right Time 
+in a Company’s Lifecycle
+The practitioner needs to be aware of the broader context of their company in order 
+to pursue the most impactful strategic opportunities. An often-overlooked aspect of 
+university–industry engagement is that companies evolve over time, sometimes 
+with sharp inflection points in the university relationship. By thinking broadly about 
+the evolving balance of corporate needs and the consequences for university 
+C. Ramming
+=== PAGE 223 ===
+223
+collaboration, it may be possible to anticipate and productively navigate change. 
+For example:
+• Startups face pressures that are different from those of an established company.
+• Companies in a mature industry may have research priorities that differ from 
+those in an emerging technology area.
+• Conglomerates may have broader research interests and a different organiza -
+tional structure than a company that is focused on a single line of business.
+• Market leaders in tech-heavy industry segments may invest differently than new 
+entrants (e.g., in pre-competitive research vs proprietary differentiation); even 
+the format of the research may differ in this context. For example, a market 
+leader may have a lower incentive to support open-source solutions than those 
+trying to “catch up.”
+Model of a Corporation with Academic Engagement Teams
+There are many ways to organize a company and many ways to organize an 
+AET within a company. A generic model of company organization contains 
+one or more largely independent “business units” (BUs, e.g., manufacturing, 
+design, or software) and one or more centralized cross-BU functions under 
+leaders such as the chief technology officer  or human resources officer. 
+Depending on the degree to which a company subscribes to Milton Friedman’s 
+views on its desirable scope, there may also be a leader for corporate social 
+responsibility to drive environmental sustainability, diversity, equity, inclu -
+sion, and other forms of responsibility. Some companies minimize centralized 
+functions by design, so their individual business units handle those functions; 
+others seek synergies across lines of business and leverage centralized organi-
+zations to drive synergies. An AET organization needs to be embedded in (aka 
+overlaid on) the de facto corporate structure. It can be arranged in myriad 
+ways. Some AET practitioners are “decentralized”, by which we mean embed-
+ded in their stakeholder business units. Other AET practitioners may be part 
+of a centralized organization such as the CTO office (logical for research- 
+focused practitioners) or the HR office (logical for hiring-focused practitio -
+ners). A practitioner’s university-related responsibilities may be full-time or 
+part time, and may be formal or informal. A company’s practitioners may 
+report to a single “centralized” leader or to separate leaders in their host orga-
+nization. It is common for a company pendulum to swing between centralized 
+and decentralized approaches as it evolves, reflecting the challenges of find -
+ing a balance between business-unit-specific needs and generalized, less tai -
+lored services. However, an AET is designed, the university-facing practitioner 
+seeks to inspire and leverage collaboration from engineers, hiring managers, 
+and others whose primary function and expertise does not involve university 
+collaboration.
+12 Gaining Support Within Companies for Collaboration
+=== PAGE 224 ===
+224
+In this light, the successful practitioner should prepare to lead the organization’s 
+university-facing functions through growth and change.
+Bottom line: it is essential to fully understand the company’s industry context 
+and maturity in order to make an effective case for the “right” university 
+collaborations.
+12.2.7  Timescale Harmonization: Corporate with University
+The practitioner needs to be aware of structural and cultural differences between 
+industry and universities in order to motivate successful engagements. One of the 
+most fundamental issues in UI collaboration is the difference in timescales and the 
+pace of progress. Industry partners often work on quarterly or annual planning 
+cycles, whereas PhD students need roughly 3 years to complete their thesis work. 
+Industry partners are focused on bringing ideas to market quickly and predictably, 
+whereas not every university project yields commercializable results. Even mature 
+research at a university can take years to bring to market.
+Timescales for patent commercialization can vary widely, but as explained in a 
+report (Pressman et  al., 2022) prepared for the Biotechnology Innovation 
+Organization (BIO) and the Association of University Technology Managers 
+(AUTM), “there is considerable evidence that nonprofit technology is developed by 
+its licensees for years after it is licensed but before products are sold.” The report 
+cites studies showing between 3 and 8 years are needed to commercialize a licensed 
+invention, which patent itself has presumably taken several years to issue.
+Evidently, in life sciences, innovation timelines can be even longer as it can take 
+over 10 years to go from “Phase 1” to regulatory approval (Thomas et al., 2021). In 
+other disciplines, such as information technology (cloud computing, networking, 
+etc.) and open-source software (OSS) may accelerate innovation and serve as a 
+coordinating artifact, despite differing timescales. Practitioners need to manage 
+expectations accordingly in the context of their company’s philosophy.
+Bottom line: unless timescales are harmonized and expectations are set correctly 
+on both sides, the practitioner will be challenged to motivate collaboration and 
+deliver on realistic expectations.
+12.2.8  Innovation: Bringing Research Ideas to Market
+In many cases, the practitioner needs to have a systematic approach to “research 
+translation” in order to motivate and operate collaborations with product impact. UI 
+collaborations face a special challenge in managing innovation. Bringing a research 
+concept (an “invention”) to market (“innovation”) requires significant corporate 
+investment, often over the course of years. The responsibility for bringing a 
+university- inspired idea to market often shifts to people outside of the university 
+C. Ramming
+=== PAGE 225 ===
+225
+collaboration apparatus (the AET). Setting the stage for a successful innovation 
+trajectory is challenging, as is tracking the degree of impact on a new product once 
+responsibility has been transferred to a product team. The timeframe for research 
+translation can be years, and the evidence of impact can be diffused or lost as the 
+fruits of a research collaboration evolve.
+Bottom line: to maintain support and show evidence of impact, the practitioner 
+needs to develop, retain, and articulate evidence of that impact over time.
+12.2.9  Partnering: Recognizing When to Engage Government, 
+Other Industry, and Nonprofits
+The practitioner can often leverage and magnify funding and impact through broader 
+external partnering, which can add to corporate appetite for university collabora -
+tion. Industry–university collaboration is often influenced or supported by govern -
+ments, yielding what are sometimes called “triple helix” collaborations that come in 
+the form of joint investment, joint solicitations, and a range of contractual approaches 
+from contracting to cooperative agreements. Motivating these forms of collabora -
+tion requires an understanding of the benefits and tradeoffs relative to pure bilateral 
+UI collaboration. Today, many governments are reflecting on how to maximize their 
+nation’s investment in education and research (United States, 2022; National 
+Science Foundation, 2022); optimizing UI partnerships is a topic of ongoing interest 
+(Khargonekar et al., 2021). Section 12.3.8 discusses a present-day resurgence of 
+interest in public–private partnerships.
+Bottom line: the practitioner can be more effective when considering and creat -
+ing options for funding and collaboration beyond bilateral university agreements.
+12.3  Options, Solutions, and Impact
+Touring the above-mentioned challenges and opportunities can help a practitioner 
+inspire their colleagues with carefully chosen data and rationales for university col-
+laboration. Here, we focus primarily on research collaborations; similar issues and 
+analyses apply to workforce development, corporate social responsibility, and other 
+facets of engagement.
+12 Gaining Support Within Companies for Collaboration
+=== PAGE 226 ===
+226
+12.3.1  Alignment with Corporate Priorities
+As described in section 12.2.1, practitioners of UI collaboration serve the interests 
+of the corporation and need to accommodate that philosophy, whatever it is or may 
+be. Moreover, in a subordinate role, proactively addressing change is crucial. Some 
+of the actions a practitioner can take include
+• Create programs that demonstrate returns in objective, quantifiable terms 
+that reflect the corporation’s priorities. In general, it behooves the practitioner 
+to design and maintain objective metrics of impact that substantiate the benefits 
+of the engagement.
+• Anticipate changes of control and/or philosophy. Especially for corporations 
+that lean toward stakeholder capitalism, it can be helpful to anticipate the inevi-
+table pendulum swings and forcing business cycles, which lead to company- 
+wide scrutiny of its prioritized investments. By operating in a “worst case” 
+mindset per Andy Grove’s famous motto, “Only the Paranoid Survive,” the UI 
+practitioner can develop a living portfolio of results that can be used to educate 
+new executives and respond effectively to the inevitable strategy reformulation 
+“fire drills.”
+• Partner with business unit leaders/stakeholders . In general, business unit 
+leaders are acutely aware of profit-and-loss (P&L) drivers and, as such, are able 
+to help gauge whether an AET and its programs contribute in a meaningful way. 
+As implicit or explicit stakeholders in UI collaborations, their support can be 
+crucial in justifying a central budget as well as augmenting that budget for BU- 
+tailored initiatives.
+• Earn the support of internal technical community leaders . To the extent a 
+company’s strategy is based on leadership in the state-of-the-art, technical com-
+munity leaders benefit disproportionately from insight into academic research 
+frontiers. As such, the fellows, principal engineers, and those aspiring to become 
+technical leaders see direct albeit sometimes intangible value in academic 
+engagement. For example, when the corporate promotion philosophy includes 
+technical leadership criteria, academic engagements can play an important part 
+in helping those practitioners succeed. These largely intangible “human resource” 
+returns can nonetheless contribute to support for centralized, longer-term UI 
+investments.
+• Market UI programs internally. In general, newsletters, workshops, and con -
+ferences serve the important function of raising awareness within a company and 
+in turn creating new opportunities to leverage collaborations on behalf of busi -
+ness opportunities. Investing in internal marketing therefore is a crucial align -
+ment technique.
+Notwithstanding the importance of these “defensive” measures, it is also sometimes 
+possible for practitioners/leaders of an AET to more proactively identify and shape 
+corporate direction and philosophy. In particular, AET leaders have a seat at the 
+discovery table and are privy to deep insight about the potential technical direction 
+C. Ramming
+=== PAGE 227 ===
+227
+of their industry. With a birds-eye view of that landscape, new business directions 
+can sometimes be identified that afford the university research team a leadership 
+position in shaping the company’s future. Moreover, an experienced AET leader 
+may be positioned to help a company understand when changes in its evolution can 
+be supported with new AET activities (see Sect. 12.3.5). In this light, the chief tech-
+nology officer (CTO) generally has sufficient position power to effect change and is 
+often a key partner and stakeholder in translating related insights into corporate 
+strategy effects.
+12.3.2  Metrics
+An important exercise for practitioners is to define relevant performance indicators 
+as a way of aligning with the purpose and philosophy of the AET and its specific 
+purpose within the company’s priorities. These metrics would be defined at multiple 
+levels: for the AET as a whole, for specific programs within the AET’s purview, and 
+for specific collaborations within a program. The metrics would unambiguously 
+show the value of the research (measures of effectiveness) and serve as useful man-
+agement tools along the road to business value (measures of performance). Ideally 
+the metrics would be necessary and sufficient to characterize and manage the desired 
+collaborations. In an ideal world, the raw metrics would be straightforward to imple-
+ment without excessive overhead.
+Because of lengthy research timescales, the first order of business (especially for 
+a newly created AET) is to develop “leading indicators” of success that can be used 
+to manage engagements. For example, academic publications and/or patents can be 
+viewed as leading indicators of meaningful product impact given that the academic 
+peer review process and the patent system have both been honed over decades to 
+identify novel advances. A collaboration that is intended to produce non- incremental, 
+disruptive innovation might further recognize only publications in top-tier confer -
+ences and journals, on the theory that the competition and quality bar for such con-
+ferences is higher. But even that higher bar does not assure impact, which can only 
+be judged retroactively in part by “trailing indicators” such as citations by other 
+researchers and actual use in revenue-generating products.
+In the longer run, the important industry metric must be measured in financial 
+terms and may not take place until long after the university engagement is complete, 
+and it may not be easily recognizable as deriving from the collaboration. The prac-
+titioner therefore needs to find ways to track progress even after custody of a 
+research concept has moved into a business unit. Special care should be taken to 
+document successful research translation into revenue-generating products and ser-
+vices, as these become the quantifiable metric for justifying continued investment.
+12 Gaining Support Within Companies for Collaboration
+=== PAGE 228 ===
+228
+12.3.3  Funding Approaches
+Common funding structures and their implications are listed in Table  12.1. These 
+structures are not mutually exclusive and can reinforce each other. For example, 
+companies that have both centralized funding (typically in a CTO office, as part of 
+a corporate HR apparatus, etc.) and decentralized funding (in a business unit) may 
+impose conditions on distributing that funding to universities. An example of such a 
+condition might be a requirement for business units to provide matching funds as an 
+indicator of commitment.
+One responsibility and opportunity for AET practitioners, especially in a grow -
+ing company, is to understand when specialized purposes have grown in importance 
+such that a change to such funding structures is needed. Such changes may be 
+Table 12.1 Potential academic engagement team funding structures
+Funding approach Example pros Example cons
+Inferred AET 
+values
+Centralized funding via 
+operating expense 
+(OpEx) budget
+• Less constrained by 
+current line of business 
+priorities/biases
+• Economies of scale in 
+operating personnel
+• Separation from 
+business units, 
+complicating 
+research translation 
+into product
+• Subject to short-term 
+business cycle 
+fluctuations
+• Company 
+wishes to 
+pursue 
+strategic 
+objectives 
+beyond 
+quarter-to-
+quarter P&L
+Centralized funding via 
+a corporate foundation 
+or donor-advised fund
+• Less constrained by 
+current line of business 
+priorities/biases
+• Not subject to short-
+term OpEx budget 
+fluctuations
+• Cannot be used to 
+accrue “prohibited 
+benefits” such as 
+Intellectual Property 
+(IP) rights
+• Company 
+invests in 
+corporate 
+social 
+responsibility
+Distributed funding by 
+business units via 
+“operating expense” 
+budget
+• Line of business 
+stakeholders improve odds 
+of direct research 
+translation (“innovation”) 
+into products
+• Not likely to lead to 
+new lines of 
+business
+• Company 
+expects 
+concrete, 
+short- term 
+benefits from 
+investment
+Distributed or 
+centralized funding 
+by organizational 
+functions (e.g., talent 
+acquisition, R&D, 
+CSR, marketing, 
+training)
+• Isolates facets of interest 
+(e.g., hiring) and supports 
+specialized engagements 
+for that purpose
+• Leads to AET 
+fragmentation and 
+complicated 
+interfaces between 
+different aspects of 
+university 
+collaboration
+• Company 
+values some 
+particular 
+facet of 
+collaboration
+Funding allocated to 
+“research councils” 
+representing 
+specific technical 
+disciplines contributing 
+to the company’s 
+success
+• Isolates facets of 
+technical interest (e.g., 
+networking, storage, 
+architecture) and builds 
+internal alignment around 
+related research
+• Difficult to evolve 
+budgets as new 
+technical priorities 
+emerge
+• Company 
+values a 
+particular 
+technology 
+stack
+C. Ramming
+=== PAGE 229 ===
+229
+induced by factors such as growth in the company or changes in the external envi -
+ronment and competitive landscape. The practitioner can then take a leadership role 
+in articulating the need, defining the approach, and implementing the solution.
+For example, it may be that curriculum, product donation, and talent aspects of 
+university engagement are all initially handled by the same AET team that is focused 
+on research engagements. However, as the program or company grows, it may prove 
+more efficient to fund and operate those facets through the work of specialized 
+teams. Alternatively, it may be that a company initially grows de facto AETs in 
+several of its individual business units and has no centralized AET with independent 
+funding. This arrangement may not work well if the company enters a phase where 
+it is aggressively seeking growth through organic innovation: the business units will 
+be predisposed to bolster their existing lines of business instead of seeking new 
+opportunities.
+Another motivation for centralization, as seen in the case study, can be the need 
+to respond to a company-wide strategic challenge that would not be “in scope” for 
+AETs organized by technical discipline.
+12.3.4  Using Agreement Vehicles to Align UI Timescales
+As a rule of thumb, collaborations with clearly defined technical goals and short 
+time horizons are the easiest to justify, and that justification will typically be best 
+described and evaluated by engineering team stakeholders in a company’s decen -
+tralized business units. The research topic itself can also dictate whether the engage-
+ment is best conducted in a decentralized or centralized business unit. Research 
+related to improving existing products will most naturally be homed in an existing 
+business unit. In contrast, those business units may be unable to support or even 
+appreciate research that is disruptive or adjacent to their products and services. 
+Agreements need to be tailored to the timescale of the engagement.
+Consulting At one extreme end of the spectrum are consulting agreements (with 
+faculty or students) meant to solve a specific product engineering problem. Often 
+involving confidential parameters and well-defined objectives with clear timelines 
+for impact, consulting agreements are best motivated and managed in a decentral -
+ized fashion. Engineering teams can take the lead on initiating and defining such 
+collaborations and generally have the mechanisms and processes to onboard the 
+faculty without involving the AET practitioner. Even so, a centralized AET team 
+may be helpful in tracking and understanding the frequency, number, and partici -
+pants in such consulting arrangements as they pertain to the overall value of a spe -
+cific university relationship.
+Interns and Visiting Faculty  Student internships and visiting/sabbatical faculty 
+arrangements are typically more open ended than consulting agreements, but still 
+need to be hosted in research and distributed engineering teams to be impactful. The 
+12 Gaining Support Within Companies for Collaboration
+=== PAGE 230 ===
+230
+technical value of these collaborations is often best assessed by those directly col -
+laborating. There can be crossover motivation and value to (typically centralized) 
+talent acquisition AETs, as intern programs often serve to feed an early-stage hiring 
+pipeline. Importantly, interns focused on longer-term, more open-ended research 
+collaborations are often on an academic career trajectory. It can be viewed as a 
+“win” even when these interns become faculty instead of employees, especially 
+when they continue to collaborate as faculty. The timescales for developing early- 
+career faculty relationships span many years and require a long-term mindset on the 
+part of the AET’s corporate stakeholders.
+Joint Appointments Joint faculty appointments are an emerging form of collabo-
+ration that concurrently tackle defined short-term proprietary business problems (in 
+the role’s employee persona) and broader, longer-term research opportunities (in the 
+role’s faculty persona). There is typically grass-roots industry motivation for joint 
+faculty, and evaluating the success of an employee relationship is handled by day- 
+to- day business processes. However, because the university is intimately concerned 
+with the success of the arrangement, a centralized team may add value in supporting 
+the university relationship in defining and executing the opportunity, and represent-
+ing the joint employment as an element of a broader engagement with the partner 
+university (UIDP, 2024).
+Sponsored Research Agreements (SRAs) move further down the spectrum toward 
+longer time horizons and increasingly open-ended problem formulations. These can 
+take the form of individual faculty support, affiliate program engagement (Stanford, 
+2024), large-scale research centers (Tennenhouse, 2004/2016), and other formats. 
+Maintaining corporate support for SRAs can be challenging for a practitioner 
+because universities operate on longer timelines than corporate product develop -
+ment. For example, PhD programs involve three or more years of research, com -
+pared to product groups in some industries that operate on quarterly planning cycles. 
+Moreover, the connection between university research and revenue is rarely direct.
+One approach to building support for sponsored research collaborations is to 
+handle the earliest phases of university research projects with a centralized team 
+until it matures enough to be actionable by a business unit, and then bring it to the 
+business unit’s attention for a follow-on phase of advanced development. With this 
+approach, the business unit need not be distracted by early explorations, but at the 
+same time an opportunity to shape and guide the research may be lost. The dilemma 
+for engagement management can sometimes be handled in a lightweight way by 
+inviting business unit personnel to provide strategic context to the university teams 
+and convey enough strategic perspective to inform research directions. Tracking the 
+progression of early-stage research is arguably best done by a centralized team, 
+potentially using indicators discussed below in the research translation section.
+C. Ramming
+=== PAGE 231 ===
+231
+12.3.5  Company Maturity
+Importantly, as companies progress in their lifecycle from startup to maturity, their 
+broader needs for university research collaboration can evolve significantly. The 
+practitioner may benefit from considering the company and industry context when 
+building support for collaboration. At one end of the spectrum are startups, and at 
+the other, are established industry leaders.
+At the risk of overgeneralization, startups seek to minimize technical risk by the 
+time of their founding and are focused more on engineering than the discovery of 
+additional fundamental breakthroughs. Thus, the need for university collaboration 
+may not be urgent and, if conducted at all, the research may be focused on other 
+benefits, such as talent acquisition, use case discovery, and solving complementary 
+problems. In fact, open-ended research collaborations may be viewed as a distrac -
+tion in a company’s early days. For example, despite being strong proponents of 
+research and innovation, Intel’s founders are said to have discouraged research proj-
+ects outside of their core product for fear that it would inspire people who, like 
+themselves, left a prior employer to pursue an idea that could not be realized in the 
+existing business model. Whether or not this story about Intel’s founders is apocry-
+phal, “brain drain” is a risk.
+At the opposite end of the spectrum from startups, mature industry leaders have 
+the scale and perspective to take responsibility for the overall health of their indus-
+try. It can be helpful to a practitioner to recognize when this shift takes place within 
+the company or when shifts in the industry technology landscape take place. Often 
+those shifts signal the opportunity to launch new and impactful collaborations. (See 
+the semiconductor industry case study).
+12.3.6  Research Translation
+Research translation (aka “innovation,” the process of moving discoveries into 
+products, services, and practice) is notoriously challenging. Universities and inter -
+nal research groups are traditionally focused on expanding the sum of human 
+knowledge with new ideas and discoveries (“invention”). The research process itself 
+is lengthy, requiring years to build expertise and years to make meaningful new 
+contributions, subject to some probabilistic combination of sweat equity and seren-
+dipity. Moreover, putting those inventions into practice (“innovation”) is equally 
+challenging. The process of incorporating an invention into a new product or service 
+is lengthy, fraught with technical risk (can the engineering team even incorporate 
+the result?), market risk (will product managers discover a compelling “product- 
+market fit”?), and go-to-market risk (will the company’s sales apparatus be success-
+ful?). In general, it can take years to bring a research idea to market.
+One key strategy for building an R&D pipeline is to use a funnel model in which 
+a large number of initial exploratory engagements is managed primarily by 
+12 Gaining Support Within Companies for Collaboration
+=== PAGE 232 ===
+232
+members of the AET, then winnowed down through systematic criteria until the 
+concept and its relevance are mature enough to make a case for direct business unit 
+stakeholder engagement. At that point responsibility for the collaboration may shift 
+from the AET to the business unit. Potential indicators of progress in a funnel are 
+illustrated in Fig. 12.1—such milestones can be tracked by an AET to help maintain 
+support for the overall program and help prioritize projects to actively drive to the 
+next phase. Importantly some ideas are compelling enough to skip intermediate 
+stages, for example, a business unit may take direct interest in a compelling univer-
+sity breakthrough based solely on the university’s work.
+Importantly, research translation within a company is not always the principal 
+rationale for collaboration. In some cases, the research is aimed at eliminating bot-
+tlenecks in other parts of the technology ecosystem, for example, the parallel pro -
+gramming bottleneck illustrated in the semiconductor industry case study.
+The relationship of university collaboration to inorganic growth is also interest -
+ing to consider. In some fields, such as computer science, leading faculty and stu -
+dents are often highly entrepreneurial. Thus, engaging in university collaboration 
+can provide a window into the evolution of an emerging industry. Berkeley’s tradi-
+tion of 5-year research centers has resulted both in technical advances such as 
+Apache Spark (Apache Software Foundation, n.d.) and Ray (Berkeley, n.d.)), which 
+in turn underpinned in influential “unicorn” startups (Databricks, 2013) (Anyscale, 
+2019) that have fueled important disruptive progress (including OpenAI’s ChatGPT, 
+which uses Ray (McManus, 2023)). In some cases, faculty startups may prove to be 
+competitors, and in some cases partners, and in some cases acquisition targets in 
+their own right.
+Publications, 
+preferably in 
+top-tier 
+venues
+University 
+prototype 
+(validating 
+the concept)
+Internal 
+research 
+prototype 
+(validating 
+corporate 
+relevance)
+Internal 
+business unit 
+prototype 
+(validating 
+product-
+market fit)
+Evolving the 
+business unit 
+roadmap
+Fielded 
+product/serv
+ice
+Fig. 12.1 Research translation indicators. Intermediate steps can be skipped in some cases
+C. Ramming
+=== PAGE 233 ===
+233
+When working with entrepreneurial faculty, there are multiple innovation path -
+ways available. Consider the example of Google and the research involving the 
+PageRank algorithm (Page et al., 1998). iIndustrial collaborators in that research 
+would have understood the algorithm well enough to incorporate the algorithm into 
+their own products, an approach sometimes called “organic innovation,” but 
+despite Stanford’s marketing efforts none licensed the patented algorithm. 
+Ultimately the originating students leveraged the patented intellectual property 
+and their know- how to create a company that could hypothetically have been 
+acquired at some point by some larger company as an element of a contrasting 
+“inorganic innovation” strategy. Neither pathway was taken; Google stood on its 
+own and is now one of the most valuable companies in the world.  In hindsight 
+however, the value of a collaboration with that team could have been realized 
+through either organic or inorganic innovation approaches. On the organic innova -
+tion pathway, an engineering team would have been the stakeholder. On the inor -
+ganic innovation pathway, an “corporate development” team (Corporate Finance 
+Institute, 2024) would have been been the stakeholder. On yet a third and interme-
+diate pathway lies partnering, where the stakeholders would have been some com -
+bination of the two.
+12.3.7  Broader Cross-Sector Partnering
+Emerging technology is increasingly central to the evolution of many industries: 
+biotechnology, energy, telecommunications, semiconductors, computing, and 
+manufacturing, to name a few. Universities are key contributors to technology 
+progress as well as talent creation. Despite the challenges of engaging with uni -
+versities—timeframe alignment chief among these—successful industry leaders 
+have a long tradition of engaging closely with universities and are generally moti -
+vated to continue doing so. Meanwhile, international rivalry and societal disrup -
+tions caused in part by the rapid pace of technological progress are causing 
+governments to become more active in shaping and funding novel public–private 
+partnerships. In the United States, the CHIPS and Science Act seeks to reinvigo -
+rate the semiconductor industry through a public–private partnership, the National 
+Semiconductor Technology Center (NSTC), building from a long tradition of 
+public–private partnerships in the semiconductor industry (Peña et al., 2021). The 
+Act also authorized the National Science Foundation (NSF) to launch a new 
+Technology Innovation Partnerships (TIP) directorate chartered with increasing 
+the pace of research translation and the economic benefits of the government’s 
+investment in basic research; public–private partnerships are a key tool of the TIP 
+directorate.
+An AET practitioner can leverage government partnering to increase the scale of 
+available funding, which can help defray costs. At the same time, broader partnering 
+12 Gaining Support Within Companies for Collaboration
+=== PAGE 234 ===
+234
+sometimes comes with complications that can hinder support within companies. A 
+nonexhaustive list of considerations for multistakeholder collaboration includes:
+• Governance. Multistakeholder decisions about the scope of solicitations, pro -
+posal review and selection, and post-award management can be challenging in a 
+setting with representatives from multiple sectors.
+• Theory of competition. Many public–private partnerships (PPPs) include com-
+panies that are explicitly competing with each other (Semiconductor Research 
+Corporation, 2024). Competition and cooperation require careful management. 
+Potential mitigations can include, for example, scoping the research focus in 
+precompetitive time horizons, defraying the cost of common infrastructure, 
+addressing ecosystem issues such as interoperability, or mitigating industry 
+externalities (carbon footprint, public safety, etc.).
+• Technology strategy. PPPs are often rooted in an explicit or implicit technology 
+strategy, which can become a key topic of governance. A technology strategy for 
+a PPP requires a deep understanding of the broader ecosystem and the role of 
+other government and industry organizations.
+• Intellectual property . When a PPP develops technology, the disposition of 
+intellectual property can be a key factor in the success of the partnership.
+As discussed in Section 12.5, PPPs are poised to become an even more important 
+tool in evolving the national research enterprise.
+12.4  Case Study: Inflection Points 
+in the Semiconductor Industry
+This case study illustrates how an Intel AET motivated the company to pursue an 
+industry-scale research agenda through academic partnership, drawing on a number 
+of ideas presented in this chapter.
+In the late 2000s, the semiconductor and software industry faced a key inflection 
+point. Driven up until that point by a combination of Moore’s “Law” and Dennard 
+Scaling, microprocessor consumers saw remarkable and regularly-cadenced 
+improvements in the capabilities of their personal computing based largely on 
+increased clock speed. When that clock speed trend tapered for fundamental techni-
+cal reasons, it became apparent that frequency scaling would need to be replaced by 
+other foundations, in particular by increasing the number of processors rather than 
+their clock speed. Unfortunately, this transition heralded a crisis in that software 
+would need to be rewritten to take advantage of multicore scaling, whereas consum-
+ers had previously experienced the benefits of frequency scaling without any change 
+to the underlying software. To address this industry-wide problem, Microsoft and 
+Intel teamed up to launch a prominent, large-scale university research initiative 
+called the “Universal Parallel Computing Research Centers” (UPCRC) (Green, 
+2008) and funded both the University of California at Berkeley and the University of 
+Illinois, Champaign-Urbana, to do fundamental research in parallel programming. 
+C. Ramming
+=== PAGE 235 ===
+235
+The UPCRC initiative helped reorient the entire programming community at a cru-
+cial inflection point in semiconductor technology and was followed by sustained 
+large-scale government-funded initiatives such as the NSF XPS program (National 
+Science Foundation, 2012). Today, parallelism has been richly explored and relevant 
+techniques are now incorporated into computer science curricula worldwide. Only 
+mature industry leaders, such as Microsoft and Intel, would perceive the benefit of 
+tackling industry-scale problems, and only mature industry leaders would be in a 
+position to make sufficiently large-scale investment to “move the needle.”
+The UPCRC case study is illustrative for UI research practitioners in multiple 
+dimensions corporate evolution, governance, funding, and partnering. Clearly both 
+sponsor companies recognized the need to help address an industry-wide need, and 
+both were at a point in their own evolution where it was possible to make a needle- 
+moving investment. However, the corporate mechanics were nontrivial. Up until the 
+launch of UPCRC, a set of decentralized Intel “research councils” controlled indepen-
+dent university grant budgets on a topical basis, generally with small grants (Ramming, 
+2013). The incumbent research council system was ideal for addressing a variety of 
+defined research areas through consensus mechanisms, but was not well positioned to 
+recognize or respond to fundamental shifts in the industry structure. Budgets in that 
+funding/governance regime had been largely static over time, without regard to indus-
+try or corporate context. In order to fund a large-scale UPCRC initiative, Intel Labs 
+centralized a large fraction of its research council budgets and revamped the decision 
+process to more easily follow from a de novo view of corporate research priorities. By 
+centralizing some previously decentralized funding and introducing a new gover -
+nance model, Intel positioned itself to tackle a strategic priority at scale.
+Meanwhile, Intel’s manufacturing arm continued its quest to advance process 
+technology with ever-lower feature sizes on a regular cadence. A key tool was and 
+continues to be the Semiconductor Research Corporation (SRC), a long-standing 
+PPP that funds pre-competitive university research and supports workforce develop-
+ment (Semiconductor Research Corporation, 2024). Today, dimensional scaling of 
+process technology is reaching asymptotic limits (Kim, 2024). As a result, “fabless” 
+semiconductor companies, such as Nvidia, are growing in value relative to the 
+actual manufacturer (Intel, TSMC), because architectural differentiation offers 
+enormous competitive advantage in important applications, such as artificial intel -
+ligence. Moreover, computing has become an increasingly important national secu-
+rity asset, prompting the bipartisan “CHIPS and Science” legislation intended to 
+“strengthen American manufacturing, supply chains, and national security, and 
+invest in research and development, science and technology, and the workforce of 
+the future to keep the United States the leader in the industries of tomorrow” (White 
+House, 2022). As a result, the National Semiconductor Technology Center (NSTC) 
+is now being established (National Institute of Standards and Technology (NIST, 
+n.d.)) For practitioners in the semiconductor and computing industries, the NSTC 
+represents an important development and a forcing function to revisit UI strategies 
+in ways that complement the work of the SRC.
+Bottom line: The practitioner who can anticipate strategic inflection points in an 
+industry and in a company will be better positioned to navigate change and shape 
+12 Gaining Support Within Companies for Collaboration
+=== PAGE 236 ===
+236
+productive outcomes. UI engagement naturally provides the practitioner with the 
+advanced insights needed to anticipate and address such change.
+12.5  Takeaways and Future Strategies for Motivating 
+UI Collaboration
+The intent of this chapter has been to shine a spotlight on issues that can help the 
+corporate practitioner navigate within a given corporate structure, in the context of 
+a company’s evolution, and in the context of broader industry issues. A quick recap:
+• Align initiatives with the broader corporate philosophy and be alert to evolution 
+in that philosophy.
+• Select metrics that accurately reflect and track progress against goals that are 
+meaningful in the context of an AET’s function.
+• Be alert to the implications of internal funding approaches and align initiatives 
+accordingly. Alternately, shape those funding approaches to support the needed 
+initiatives.
+• Leverage governance structures to create buy-in and support for important 
+initiatives.
+• Structure collaboration agreements that harmonize timescales and goals for both 
+the company and the university.
+• Be versed in the many facets and approaches to “research translation,” given its 
+prominence as a motivation for university collaboration.
+• Be alert to broader opportunities for broader cross-section partnering.
+Armed with these insights, the practitioner can motivate collaboration and play a 
+meaningful role in shaping a company’s opportunities.
+Looking beyond current practice, the practitioner may also need to consider 
+nation-scale and global context. The mid-2020s are seeing a confluence of disrup -
+tive trends in the US research enterprise that call for thoughtful response by UI 
+collaboration practitioners. As documented in the NSF’s biennial report on the state 
+of U.S. Science and Engineering (National Science Board, 2024a), US leadership in 
+science and technology faces increasingly stiff competition (especially from China) 
+while the US educational apparatus is failing to prepare a future scientific workforce 
+that leverages the full potential of the US talent base with the proficiency needed to 
+remain a STEM leader. More fundamentally, there are structural problems in the 
+division of labor between government, industry, academia, and the philanthropic 
+sector. Some data points (National Science Foundation, 2024b; National Science 
+Board, 2024) concerning international competition:
+• China is the top overall producer of Science & Engineering (S&E) publications 
+(crossover in 2017).
+• China is growing rapidly in publication quality as assessed by its fraction of “top 
+1%” of highly cited publications.
+C. Ramming
+=== PAGE 237 ===
+237
+• China is trending to surpass the United States in R&D expenditures.
+• China has surpassed the United States in patenting activity.
+• China has the greater knowledge and technology-intensive (KTI) manufactur -
+ing output.
+• China is now awarding more S&E degrees than the United States.
+Some data points concerning the US S&E workforce:
+• Only 50% (approximately) of graduate and postdoctoral students/researchers are 
+US citizens.
+• Roughly 30% of master’s and doctor degree students have temporary visas.
+• Women and minorities continue to be under-represented in the science and engi-
+neering workforce.
+Some data points concerning structural changes in the research enterprise:
+• US R&D funding by industry has outpaced the growth in other sources.
+• Although growing in absolute terms, the proportion of federal funding for basic 
+research has dropped (since 2011) from 65% of the total to 40%, while industry 
+has grown from 20% to 35%.
+Recognizing these challenges, the National Academy of Sciences identified UI part-
+nership as a key opportunity for progress in its 2024 “State of Science Address” 
+(McNutt, 2024). Meanwhile, the National Science Board (Reed, 2024) provided 
+congressional testimony calling for the mobilization “of all the country’s assets – 
+government (at all levels), industry, academia, and nonprofits” through a more 
+actionable National Technology Strategy. Dr. Reed’s testimony included these calls 
+to action:
+To stay competitive, we will need more coordination and partnership among government, 
+academia, and industry to speed the translation of research, develop talent in areas of 
+national need, seed STEM-based economic development nationwide, and inject critical 
+technologies into our national defense ecosystem.
+The radical changes in the R&D landscape call for a new approach that maintains the ben-
+efits of our distributed system while still positioning our nation for competitive success. 
+Facilitating a truly national S&T strategy will require the ability to effectively and effi -
+ciently execute a whole-of-government effort, prioritize resources, and work hand-in-hand 
+with our industry and academic partners, while being held accountable for progress toward 
+agreed upon national goals.
+A key enabler of radical change and progress has been the 2022 CHIPS and Science 
+Act, which appropriated tens of billions in funding for the semiconductor industry, 
+initiatives such as a National Semiconductor Technology Center, which is creating 
+opportunities for UI collaboration to advance the state of the art. The act also autho-
+rized enormous sums for R&D and innovation including a new “Directorate for 
+Technology, Innovation, and Partnerships” within the National Science Foundation. 
+Finally, the act calls for the development of a 4-year comprehensive national science 
+and technology strategy, under the guidance of the Office of Science and Technology 
+Policy (White House Office of Science and Technology Policy, 2024). These all 
+12 Gaining Support Within Companies for Collaboration
+=== PAGE 238 ===
+238
+represent meaningful opportunities for UI practitioners to formulate novel and 
+meaningful collaborations (public–private partnerships in particular) using the prin-
+ciples developed in this chapter. With tools of engagement and visibility into the 
+horizons of research, the industry practitioners of UI engagement can be leaders in 
+helping corporations contribute and compete more effectively.
+References
+Anyscale (2019). Anyscale “about us”. https://anyscale.com
+Apache Software Foundation (n.d.). Spark: A unified engine for large-scale data analytics . 
+Retrieved from Apache Foundation: https://spark.apache.com
+Berkeley Rise Lab (n.d.). Ray project site. https://rise.cs.berkeley.edu/projects/ray
+Corporate Finance Institute. (2024). Corporate development.  https://corporatefinanceinstitute.
+com/resources/management/corporate- development- guide/
+Databricks. (2013). databricks.com/about- us. https://databricks.com
+Green, K. (2008, March 19). Intel, Microsoft push parallel computing. MIT Technology Review. https://
+www.technologyreview.com/2008/03/19/221324/intel- microsoft- push- parallel- computing/
+Khargonekar, P., Kurose, J., Martin, C., & Martinis, S. (2021). Report of NSF workshop on a 
+national network of research institutes (NNRI) . National Science Foundation. https://faculty.
+sites.uci.edu/khargonekar/files/2021/07/NSF_NNRI_Workshop- _Report_Final.pdf
+Kim, K. S. (2024). The future of 2D semiconductors beyond Moore’s Law. Nature Nanotechnology, 
+19(7), 895–906. https://doi.org/10.1038/s41565- 024- 01695- 1
+McManus, R. (2023, January 17). How ray, a distributed AI framework, helps 
+power ChatGPT. The New Stack . Retrieved 2024, from https://thenewstack.io/
+how- ray- a- distributed- ai- framework- helps- power- chatgpt/
+McNutt, M. (2024, June 26). 2024 State of science address.  National Academies. https://www.
+nationalacademies.org/event/41687_06- 2024_the- state- of- the- science
+National Institute of Standards and Technology (NIST). (n.d.). National semiconduc -
+tor technology center.  https://www.nist.gov/chips/research- development- programs/
+national- semiconductor- technology- center
+National Science Board. (2024). The state of U.S. science and engineering 2024. https://ncses.nsf.
+gov/pubs/nsb20243/
+National Science Foundation. (2012, October 22). Exploiting parallelism and scalability (XPS).  
+https://new.nsf.gov/funding/opportunities/xps- exploiting- parallelism- scalability/504842/
+nsf13- 507/solicitation
+National Science Foundation. (2022). Directorate for technology, innovation, and partnerships 
+(TIP). https://new.nsf.gov/tip/about- tip
+National Science Foundation. (2024a). I/UCRC program description. https://iucrc.nsf.gov/
+National Science Foundation. (2024b). Science and engineering indicators. https://www.nsf.gov/
+statistics/seind/UI
+Page, L., Brin, S., Motwani, R., & Winograd, T. (1998). The pagerank citation ranking: Bringing 
+order to the web. http://infolab.stanford.edu/~backrub/google.html#ref
+Peña, V ., Slusarczuk, M.  M., Mandelbaum, J., Tucker, M.  A., Goldman, A.  R., & Thrift, 
+E.  M. (2021). Lessons learned from public-private partnerships (PPPs) and options to 
+establish a new microelectronics PPP . Institute for Defense Analysis. https://www.ida.
+org/research- and- publications/publications/all/l/le/lessons- learned- from- ppps- and- options 
+- to- establish- a- new- microelectronics- ppp
+C. Ramming
+=== PAGE 239 ===
+239
+Pressman, L., Planting, M., Moylan, C., & Bond, J. (2022). Economic contributions of university/
+nonprofit inventions in the United States: 1996-2020. AUTM. Retrieved from https://autm.net/
+AUTM/media/About- Tech- Transfer/Documents/BIO- AUTM- Economic- Contributions- of- 
+University- Nonprofit- Inventions_14JUN2022.pdf
+Ramming, J. C. (2013, February 11). Intel’s open collaborative research model. GUIRR Meeting: 
+A Patent System for a New Innovation. National Academies.
+Reed, D. (2024, April 2). National science board testimony. National Science Foundation. https://
+www.nationalacademies.org/event/41687_06- 2024_the- state- of- the- science
+Semiconductor Research Corporation. (2024). Member roster . Semiconductor Research 
+Corporation: https://www.src.org/src/member/roster/
+Stanford University. (2024). About industrial affiliates programs. industrialaffiliates.stanford.edu.
+Tennenhouse, D. (2004). Intel’s open collaborative model of industry-university research. Research 
+Technology Management, 47(4). https://doi.org/10.1080/08956308.2004.11671637
+Thomas, D., Chancellor, D., Micklus, A., LeFever, S., Hay, M., Chauduri, S. et al. (2021). Clinical 
+development success rates and contributing factors.  https://go.bio.org/rs/490- EHZ- 999/
+images/ClinicalDevelopmentSuccessRates2011_2020.pdf
+UIDP. (2024, January 30). The evolution and impact of joint faculty employment in university-indus-
+try collaborations. https://uidp.org/the- evolution- and- impact- of- joint- faculty- employment- in-  
+university- industry- collaborations/
+United States. (2022, August 9). Chips and science act. Public Law 117-167 . Washington, DC, 
+USA. https://www.govinfo.gov/content/pkg/PLAW- 117publ167/uslm/PLAW- 117publ167.xml
+White House. (2022, August 9). FACT SHEET: CHIPS and Science Act will lower costs, create 
+jobs, strengthen supply chains, and counter China.  Retrieved 10/2/2024, https://www.white-
+house.gov/briefing- room/statements- releases/2022/08/09/fact- sheet- chips- and- science- act- 
+will- lower- costs- create- jobs- strengthen- supply- chains- and- counter- china/
+White House Office of Science and Technology Policy. (2024, March 15). National strategy 
+on microelectronics research . https://www.whitehouse.gov/wp- content/uploads/2024/03/
+National- Strategy- on- Microelectronics- Research- March- 2024.pdf
+Chris Ramming Over the course of his career, Ramming has worked extensively at the intersec-
+tion of industry, academia, and government. At DARPA, Intel, and VMware he led programs to 
+invest in a broad range of academic research collaborations across networking, cloud computing, 
+security and privacy, artificial intelligence, and sustainability. His research investments spanned 
+individual grants, large centers, multinational engagements, and joint programs with government 
+and other companies. To realize meaningful research results in new products and services, much of 
+Ramming’s work has involved the translation and incubation of ideas emerging from those invest-
+ments. He presently serves in an advisory capacity to organizations that leverage and facilitate col-
+laborative R&D, including UIDP.org, DARPA’s Information Science and Technology Study Group 
+(ISAT), CRA.org/industry, Natcast.org, and the Confidential Computing Consortium. Ramming 
+received a BA in computer science from Yale College and an MS in computer science from UNC 
+Chapel Hill.
+12 Gaining Support Within Companies for Collaboration

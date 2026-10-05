@@ -4,15 +4,14 @@ aliases:
   - 企业风险投资
   - 企业风投
   - CVC
-  - corporate venture capital
   - corporate VC
 summary: "企业通过设立独立风险投资基金对初创企业进行股权投资的协同创新机制。决策时同时应用战略对齐与财务回报双重标准，既充当企业防范外部颠覆性创新与获取前沿技术洞察的战略雷达，又因其偏好后期阶段、成熟团队与高技术就绪度（TRL），与大学早期衍生企业存在系统性错配。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 8
+related_count: 19
 related_level: 1
 related_stars: "⭐"
-related_color: "#e5e7eb"
+related_color: "#bfdbfe"
 tags:
   - theme/entrepreneurship
   - theme/innovation
@@ -95,7 +94,7 @@ updated: 2026-10-06
 > [!feature] 核心要素
 > - **战略与财务双重评估标准（Dual-Hurdle Filter）** CVC 投资决策要求标的初创企业同时跨越两道门槛：既要具备清晰的商业盈利模型与高成长性，又要与母公司的业务布局形成技术互补或渠道协同；两个条件必须同时满足的概率显著低于单一维度，极大压缩了可投候选集。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 145)]]
 > - **外部技术雷达与反颠覆职能（Inorganic Innovation Antenna）** 在企业研发转化架构中，CVC 是“外部初创与战略并购路径”（Inorganic Pathway）的核心触角；当母公司内部研发部门因“创新者的窘境”受困于既有产品损益表时，CVC 通过股权注资建立外部防线，防范外部破坏性创新对母公司造成致命打击。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 232–233)]]
-> - **试点门槛与[[Technology Readiness Level|技术就绪度]]闭环困境（TRL Pilot Catch-22）** 企业通常要求通过概念验证试点（Pilot Program）来评估技术可行性，而试点准入普遍要求达到 TRL 6–7（系统原型在相关环境中演示）；[[University Spin-Out|大学衍生企业]]初创时通常仅处于 TRL 3–5，导致陷入“缺乏资金无法提升 TRL、TRL 偏低无法获得 CVC 试点与融资”的结构性死锁。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 145)]]
+> - **试点门槛与[[Technology Readiness Level|技术就绪度]]闭环困境（TRL Pilot Catch-22）** 企业通常要求通过概念验证试点（Pilot Program）来评估技术可行性，而试点准入普遍要求达到 TRL 6–7（系统原型在相关环境中演示）；[[University Spin-Out|大学衍生企业]]初创时通常仅处于 TRL 3–5，导致陷入“缺乏资金无法提升 TRL、TRL 偏低无法获得 CVC 试点与融资”的结构性死锁。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, pp. 145–146)]]
 > - **生物医药垂直孵化的特例模式（Biopharma Incubator Exception）** 礼来创投（Lilly Ventures）与强生创新实验室（J&J JLabs）开创了企业深度参与的孵化模式：由于生物制药领域科学突破与最终临床分子的距离极短、靶点清晰，企业愿意将高潜力大学科研直接纳入自身孵化体系；但在基础材料与教育科技等研发跨度极长、产品嵌入门槛高的领域，该模式难以直接复制。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 146)]]
 
 > [!logic-map]- 企业[[Research Translation|技术转化]]三路径与 CVC 资本配置[[Funnel Plot|漏斗图]]

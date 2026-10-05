@@ -9,7 +9,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介技术，在教育中重构人机知识确证分工；其促学成效取决于教学脚手架、评价性判断的自主维系与生产性认识论摩擦。"
 type: concept
 domain: "educational-technology"
-related_count: 116
+related_count: 123
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
