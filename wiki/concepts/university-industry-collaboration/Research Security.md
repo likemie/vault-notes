@@ -30,8 +30,8 @@ related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Dean_2025_UICollaborationSupport]]"
   - "[[Argument_Fan_2026_BCAS]]"
+  - "[[Argument_Dean_2025_UICollaborationSupport]]"
 confidence: medium
 status: draft
 created: 2026-06-03
@@ -54,7 +54,7 @@ updated: 2026-10-05
 ## 国家科技治理中的安全化转向
 
 > [!tension] 国家安全与学术自治的结构张力
-> 从国家科技政策演变看，自 2016 年以来，美国等主要国家正式将“科研安全”纳入科技治理核心议程，国际科学合作被系统性置于国家安全与大国技术竞争框架之中。国际合作、人员流动与科研活动日益被全面纳入行政审查与合规体系，科学自治的合法性日益取决于对外部风险控制与国家安全要求的响应程度。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1061)]]
+> 从国家科技政策演变看，自 2016 年以来，美国等主要国家正式将科研安全纳入科技治理核心议程，国际科学合作被系统性置于国家安全与大国技术竞争框架之中。国际合作、人员流动与科研活动日益被全面纳入行政审查与合规体系，科学自治的合法性日益取决于对外部风险控制与国家安全要求的响应程度。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1061)]]
 
 ---
 

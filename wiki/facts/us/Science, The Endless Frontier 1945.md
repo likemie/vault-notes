@@ -36,6 +36,7 @@ related_concepts:
   - "[[Market Failure]]"
   - "[[Long-Term Public Utility]]"
   - "[[PhD Overproduction in Science]]"
+  - "[[Doxa]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
   - "[[Discovery-Invention Cycle]]"
@@ -56,6 +57,7 @@ related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Caraca_2009_TFSC]]"
   - "[[Argument_Stephan_2013_NBER]]"
+  - "[[Argument_Fan_2026_BCAS]]"
 confidence: medium
 status: draft
 created: 2026-05-26
@@ -96,15 +98,15 @@ updated: 2026-10-05
 >
 > *"[[Blue Skies Research|Basic Research]] is the pacemaker of technological progress... New products and new processes do not appear full-grown. They are founded on new principles and new conceptions, which in turn are painstakingly developed by research in the purest realms of science."*
 
-> [!theory-components] 布什报告对战后国家科学资助设想的四大支柱命题
+> [!theory-components] 布什报告对战后国家科学资助设想的四大支柱命题 [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–36)]]
 > - **支持科学而非直接行政干预**
->   国家科学政策的核心使命在于为科学共同体探索提供资源保障，而非由政府对科学的具体应用进行微观行政管制，除非涉及国防安全等宪法明确规定的国家核心事务。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]
+>   国家科学政策的核心使命在于为科学共同体探索提供资源保障，而非由政府对科学的具体应用进行微观行政管制，除非涉及国防安全等宪法明确规定的国家核心事务。
 > - **以纯基础研究为联邦公共资助首要重心**
->   除国防技术之外，联邦公共资金资助科学的首要重点必须是纯基础研究，以此作为知识蓄水池和催生技术进步与工业创新的根本引擎。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]
+>   除国防技术之外，联邦公共资金资助科学的首要重点必须是纯基础研究，以此作为知识蓄水池和催生技术进步与工业创新的根本引擎。
 > - **立项评审严格遵从科学家共同体内部规范**
->   科研立项与经费分配必须严格依照学术共同体的内部准则，由独立科学家同行进行公正评议，坚决排斥非专业官僚的行政指挥。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]
+>   科研立项与经费分配必须严格依照学术共同体的内部准则，由独立科学家同行进行公正评议，坚决排斥非专业官僚的行政指挥。
 > - **确立[[Research Universities|研究型大学]]在国家[[Systems of Innovation|创新系统]]中的核心战略地位**
->   由于基础研究以大学为主要阵地，且高层次研究生与青年学者的培育唯一依托于大学实验室，资助基础研究必然要求将研究型大学置于国家科学技术体系的战略核心。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–36)]]
+>   由于基础研究以大学为主要阵地，且高层次研究生与青年学者的培育唯一依托于大学实验室，资助基础研究必然要求将研究型大学置于国家科学技术体系的战略核心。
 
 ---
 
@@ -145,7 +147,7 @@ updated: 2026-10-05
 > - **$345M vs $288.4B** 1940 年战前全美 R&D 总支出（折合 2000 年不变价 37.5 亿美元）与 2004 年全美 R&D 总支出（2000 年不变价 2,884 亿美元），反映战后联邦契约驱动下的体量巨变。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 33–34)]]
 > - **9.0% $\to$ 13.6%** 大学与学院在全美 R&D 总研发任务中的承担比例从二战前夕的 9.0% 上升至 2004 年的 13.6%（其中 61.5% 经费来自联邦资助）。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34, 43)]]
 > - **10–15 所** 二战结束时全美仅有能稳定开展高水平科学研究的大学数量。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 4)]]
-> - **743 人** 1945 年二战低谷期全美科学与工程博士年毕业总量（相较 1940 年 1618 人腰斩）。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 5)]]
+> - **743 人** 1945 年二战低谷期全美科学与工程博士年毕业总量（相较 1940 年 1618 人腰斩）。
 > - **$20M / $50M** 布什报告建议的医学研发与自然科学研发年资助目标峰值上限。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 5)]]
 > - **68.1% $\to$ 17.1%** 全美排名前 10 位高校在全美科学工程博士授予总量中所占份额（1920–1924 年至 2011 年），反映战后资助向地方院校的广泛扩散。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 12)]]
 
@@ -166,7 +168,7 @@ updated: 2026-10-05
 > > 各方对政府公共资金究竟应当止步于[[Market Failure|市场失灵]]的纯基础探索，还是应深度介入关键工程工艺与战略发明存在深刻分歧。
 > >
 > > - **新古典经济学立场** 恪守布什遗产，坚持政府资助仅限于无法专有化的公共品（基础研究），防止政府干预扭曲市场竞争。
-> > - **[[Innovation Ecosystem|创新生态]]学派立场（[[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]]）** 布什报告带来的二分法教条导致了关键硬件工艺与制造工具的“资助断档”；应当以“[[Long-Term Public Utility|长期公共效用]]”彻底取代布什的立项动机分类，对具有战略长远价值的发现与发明予以全方位支持。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
+> > - **[[Innovation Ecosystem|创新生态]]学派立场** 布什报告带来的二分法教条导致了关键硬件工艺与制造工具的“资助断档”；应当以“[[Long-Term Public Utility|长期公共效用]]”彻底取代布什的立项动机分类，对具有战略长远价值的发现与发明予以全方位支持。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
 >
 > > [!axis] 制度遗产的反思：大学适应性改造与体制异化
 > > 对当代大学科研系统深层压力的历史溯源争鸣。
@@ -174,10 +176,10 @@ updated: 2026-10-05
 > > - **布什责任论（外生政策设定说）** 倾向于将当代学术界的过度竞争、项目化生存与学科失衡归咎于战后布什报告所确立的竞争性同行评议资助框架。
 > > - **大学主动重构论（[[Argument_Stephan_2013_NBER|Stephan, 2013]]）** 强调战后科研契约的转变主要是由大学自身而非联邦政府主导；大学与教师自 1960 年代起主动推动薪资覆盖、争取更高间接成本并举债扩张设施，当代科研生态所承受的风险厌恶、[[PhD Overproduction in Science|博士过剩]]与结构性脆弱并非单纯“收获布什所播”，而是大学为迎合与套取资助而主动制度化适应的产物。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 37)]]
 >
-> > [!axis] “无止境边疆”规范地位的当代重构：从制度前提转向待证命题
+> > [!axis] 无止境边疆规范地位的当代重构：从制度前提转向待证命题
 > > 2025 年前后美国科技政策出现从以科学为中心向以技术能力为中心的结构性转向。
 > >
-> > - **制度性承诺的调整（[[Argument_Fan_2026_BCAS|樊春良, 2026]]）** 布什意义上的“科学——无止境的边疆”不仅指涉未知领域，更承载着三项核心制度承诺：对基础研究长期价值的默认信任、对科研不确定性的时间容忍、以及对科学无需持续证明即时用途的制度保障。在当前地缘技术竞争与能力动员主导的治理下，长周期自由探索的支持稳定性减弱，“无止境的边疆”正由不言自明的制度性前提，转变为需要持续证明其战略与现实价值的待正当化命题。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1063–1064)]]
+> > - **制度性承诺的调整（[[Argument_Fan_2026_BCAS|樊春良, 2026]]）** 布什意义上的科学无止境边疆不仅指涉未知领域，更承载着三项核心制度承诺：对基础研究长期价值的默认信任、对科研不确定性的时间容忍、以及对科学无需持续证明即时用途的制度保障。在当前地缘技术竞争与能力动员主导的治理下，长周期自由探索的支持稳定性减弱，无止境的边疆正由[[Doxa|不言自明]]的制度性前提，转变为需要持续证明其战略与现实价值的待正当化命题。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1063–1064)]]
 
 
 ---

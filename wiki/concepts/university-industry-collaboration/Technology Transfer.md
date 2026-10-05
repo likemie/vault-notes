@@ -41,6 +41,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Responsible Innovation]]"
   - "[[Return on Investment]]"
+  - "[[Research Security]]"
   - "[[Absorptive Capacity]]"
   - "[[Variable]]"
   - "[[Total Factor Productivity]]"
@@ -217,7 +218,7 @@ updated: 2026-10-05
 
 > [!critique] 外部批评
 > - **大学“[[Academic Capitalism|学术资本主义]]”异化批评** 批评者指出高校对专利许可收益和版税分成的过度追逐，扭曲了大学作为公共知识灯塔的崇高使命，诱发利益冲突、科研保密增加以及本科基础教学被边缘化。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 144)]]
-> - **跨国技术转移的非法情报与安全摩擦** 国家间技术转移并不完全通过公开透明的市场与法定渠道进行；冷战时期的大规模工业间谍活动证实了非正式秘密转移的客观存在，而在当代地缘政治竞争中，跨国技术转移日益面临更严苛的科研安全审查与合规摩擦。[[Argument_Glitz_2020_AER|(Glitz & Meyersson, 2020, pp. 1056, 1096)]]
+> - **跨国技术转移的非法情报与安全摩擦** 国家间技术转移并不完全通过公开透明的市场与法定渠道进行；冷战时期的大规模工业间谍活动证实了非正式秘密转移的客观存在，而在当代地缘政治竞争中，跨国技术转移日益面临更严苛的[[Research Security|科研安全]]审查与合规摩擦。[[Argument_Glitz_2020_AER|(Glitz & Meyersson, 2020, pp. 1056, 1096)]]
 
 > [!warning] 适用局限
 > 技术转移制度框架在很大程度上建立在发达经济体完善的产权法治与风险投资市场环境之上；在制度环境不健全或[[Absorptive Capacity|吸收能力]]薄弱的发展中地区，单纯复制[[Bayh-Dole Act of 1980|拜杜法案]]往往无法激活产业需求，反而导致高校专利大量沉睡闲置。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, p. 44)]]

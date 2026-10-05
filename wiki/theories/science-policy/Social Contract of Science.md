@@ -17,6 +17,36 @@ tags:
   - theme/research-governance
   - theme/social-contract-of-science
   - theme/state-science-relations
+related_concepts:
+  - "[[Knowledge Production]]"
+  - "[[Public Value]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[Research Security]]"
+  - "[[Paradigm]]"
+  - "[[Big Science]]"
+  - "[[Use-Inspired Basic Research]]"
+  - "[[Grand Challenges]]"
+  - "[[Technology-Oriented Social Contract]]"
+  - "[[Megascience Installations]]"
+  - "[[Problem Finding]]"
+  - "[[Problem Solving]]"
+  - "[[Heterogeneity]]"
+  - "[[Generative Artificial Intelligence]]"
+related_theories:
+  - "[[Pasteur's Quadrant]]"
+related_methods:
+  - "[[Analytic Framework]]"
+related_persons:
+  - "[[Vannevar Bush]]"
+related_facts:
+  - "[[Office of Scientific Research and Development]]"
+  - "[[Science, The Endless Frontier 1945]]"
+  - "[[President's Science Advisory Committee]]"
+  - "[[Restoring Gold Standard Science Executive Order]]"
+  - "[[National Science Foundation]]"
+  - "[[Office of Naval Research]]"
+related_arguments:
+  - "[[Argument_Fan_2026_BCAS]]"
 confidence: high
 status: draft
 created: 2026-10-05
@@ -30,10 +60,10 @@ updated: 2026-10-05
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 社会整体（通常由政府或公共权威代表）与科学共同体之间围绕知识生产的公共价值形成的权利与责任的整体性结构关系，及其在不同政治、经济与安全情境下的制度演变。
+> - **解释对象** 社会整体（通常由政府或公共权威代表）与科学共同体之间围绕[[Knowledge Production|知识生产]]的[[Public Value|公共价值]]形成的权利与责任的整体性结构关系，及其在不同政治、经济与安全情境下的制度演变。
 > - **理论问题** 解释为何国家应当对不可预测的基础研究提供持续公共资助，科学共同体何以在享有高度专业自治的同时向国家回报公共福祉，以及当国家安全、经济竞争或政治极化冲击既有平衡时，政府与科学的关系如何调整、失衡与重构。
-> - **理论类型** 制度主义与科技政策交叉的宏观结构分析框架。
-> - **知识位置** 处于科学社会学、科技政策学与政治学交叉领域；向上衔接国家治理与政治哲学中的社会契约传统，向下对接科研经费分配、同行评审、学术自治与科研安全等制度实践。
+> - **理论类型** 制度主义与科技政策交叉的宏观结构[[Analytic Framework|分析框架]]。
+> - **知识位置** 处于科学社会学、科技政策学与政治学[[Comparative Education as a Cross-Sectional Area|交叉领域]]；向上衔接国家治理与政治哲学中的社会契约传统，向下对接科研经费分配、同行评审、学术自治与[[Research Security|科研安全]]等制度实践。
 
 > [!claim] 核心判断
 > 科学的社会契约不是单一的法案条文或持续的政策协商过程，而是一种具有历史延续性的制度性关系结构，其核心体现为制度和资源支持、自治空间与功能期待之间的制度配置。在不同历史阶段，关键在于合法性基础、自治空间、功能期待与责任结构如何被重新界定。二战后以科学为中心的认知契约正面临深刻重组，逐步转向以国家竞争、任务牵引与技术能力获取为主导的契约形态。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1056–1057)]]
@@ -43,17 +73,17 @@ updated: 2026-10-05
 ## 理论来源与形成
 
 > [!theory-origin] 理论溯源
-> - **提出者与原始文本** 制度原型始于二战期间万尼瓦尔·布什（Vannevar Bush）主导的美国科学研究发展局（Office of Scientific Research and Development, OSRD）战时动员实践，并在 1945 年报告《科学——无止境的边疆》（*Science, the Endless Frontier*）中系统阐发；20 世纪 80 至 90 年代经哈维·布鲁克斯（Harvey Brooks）、唐·普莱斯（Don K. Price）、大卫·古斯顿（David H. Guston）与肯尼斯·肯尼斯顿（Kenneth Keniston）等学者理论化为“科学的社会契约”概念；樊春良（2026）进一步将其提炼为涵盖合法性、资源、自治、功能与责任的五维扩展分析框架。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1055–1057)]]
+> - **提出者与原始文本** 制度原型始于二战期间[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）主导的美国科学研究发展局（[[Office of Scientific Research and Development]], OSRD）战时动员实践，并在 1945 年报告《科学——无止境的边疆》（*[[Science, The Endless Frontier 1945|Science, The Endless Frontier]]*）中系统阐发；20 世纪 80 至 90 年代经哈维·布鲁克斯（Harvey Brooks）、唐·普莱斯（Don K. Price）、大卫·古斯顿（David H. Guston）与肯尼斯·肯尼斯顿（Kenneth Keniston）等学者理论化为科学的社会契约概念；[[Argument_Fan_2026_BCAS|樊春良 (2026)]]进一步将其提炼为涵盖合法性、资源、自治、功能与责任的五维扩展[[Analytic Framework|分析框架]]。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1055–1057)]]
 > - **原初问题** 战后国家如何摆脱战前仅资助政府内设机构实用研究的狭隘局限，在和平时期建立稳定资助民间大学基础科研的合法体制，同时避免政府官僚干预科学探索自由。
-> - **理论资源与材料** 吸收了古典社会契约论的权利—义务对称假定、科技政策史的制度变迁考察，以及二战与冷战时期美苏科技竞争的历史档案与资助数据。
-> - **形成路径** 从战时“政府授权—科学自治—目标责任”的合作机制提炼出三方互惠原型，进而在冷战国家安全叙事中固化为“政府资助—学术自治—长期公共回报”的标准契约范式。
+> - **理论资源与材料** 吸收了古典社会契约论的权利与义务对称假定、科技政策史的制度变迁考察，以及二战与冷战时期美苏科技竞争的历史档案与资助数据。
+> - **形成路径** 从战时政府授权、科学自治与目标责任的合作机制提炼出三方互惠原型，进而在冷战国家安全叙事中固化为政府资助、学术自治与长期公共回报的标准契约[[Paradigm|范式]]。
 
 ### 历史演化阶段
 
 > [!dev-timeline] 科学社会契约的历史演变
-> - **1945—1989 年 — 契约稳定期** 以国家安全与美苏体制竞争为根本合法性基础，建立起多元资助网络与大科学体系；科学家通过美国总统科学顾问委员会（President's Science Advisory Committee, PSAC）制度性深度嵌入国家最高决策，享有高度专业自治与信任型经费托底。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1058–1059)]]
-> - **1990—2009 年 — 契约再协商与再定义期** 冷战终结削弱了安全正当性的统摄地位，合法性转向经济竞争力、社会相关性与治理问责；通过引入应用启发的基础研究理念（巴斯德象限）、公私伙伴关系与绩效评估，形成多种契约逻辑交叠并存的过渡结构。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
-> - **2010—2024 年 — 契约危机与重构期** 绩效问责强化、重大挑战导向与科研安全审查刚性化，叠加政治极化与大国技术竞争；科学失去默认信任地位，正当性全面条件化，契约承载的多重功能负载显著上升。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060–1061)]]
+> - **1945—1989 年 — 契约稳定期** 以国家安全与美苏体制竞争为根本合法性基础，建立起多元资助网络与[[Big Science|大科学]]体系；科学家通过美国[[President's Science Advisory Committee|总统科学顾问委员会]]（President's Science Advisory Committee, PSAC）制度性深度嵌入国家最高决策，享有高度专业自治与信任型经费托底。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1058–1059)]]
+> - **1990—2009 年 — 契约再协商与再定义期** 冷战终结削弱了安全正当性的统摄地位，合法性转向经济竞争力、社会相关性与治理问责；通过引入[[Use-Inspired Basic Research|应用启发的基础研究]]理念（[[Pasteur's Quadrant|巴斯德象限]]）、公私伙伴关系与绩效评估，形成多种契约逻辑交叠并存的过渡结构。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
+> - **2010—2024 年 — 契约危机与重构期** 绩效问责强化、[[Grand Challenges|重大挑战]]导向与[[Research Security|科研安全]]审查刚性化，叠加政治极化与大国技术竞争；科学失去默认信任地位，正当性全面条件化，契约承载的多重功能负载显著上升。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060–1061)]]
 > - **2025 年起 — 转向技术型替代契约** 美国启动对二战后传统科学社会契约的制度性退出，转向以国家竞争、任务牵引与技术能力获取为中心的[[Technology-Oriented Social Contract|技术型社会契约]]，科学由国家认知中心弱化为能力体系中的组成要素。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]
 
 ---
@@ -65,7 +95,7 @@ updated: 2026-10-05
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
 > | [[Science, The Endless Frontier 1945]] | 规范前提 | 确立国家资助基础研究、包容科研不确定性与保障探索自由的制度性承诺原型。 |
-> | [[Technology-Oriented Social Contract]] | 替代范式 | 表征 2025 年后以技术能力快速获取和部署为目标的新型国家契约形态。 |
+> | [[Technology-Oriented Social Contract]] | 替代[[Paradigm\|范式]] | 表征 2025 年后以技术能力快速获取和部署为目标的新型国家契约形态。 |
 > | [[Use-Inspired Basic Research]] | 调节机制 | 在后冷战再协商期用于调和纯基础研究与国家实用需求张力的分类桥梁。 |
 > | [[Research Security]] | 治理约束 | 危机重构期重塑国际科研合作边界并削弱科学国际主义公理的国家安全工具。 |
 > | [[Restoring Gold Standard Science Executive Order]] | 规约工具 | 通过强化行政可验证性与程序审计收缩学术自治空间的制度性干预文本。 |
@@ -74,33 +104,33 @@ updated: 2026-10-05
 
 ## 核心分析维度
 
-五维分析框架提供了跨时期比较国家与科学关系的统一尺度：
+五维[[Analytic Framework|分析框架]]提供了跨时期比较国家与科学关系的统一尺度：
 
 > [!taxonomy] 科学社会契约五维分析框架
-> - **合法性基础（Legitimacy Basis）** 社会赋予科学活动公共支持的正当性依据，回答社会为何应当长期资助科学探索（如国家安全、经济繁荣、重大挑战或地缘技术竞争）。
-> - **制度与资源支持（Institutional and Resource Support）** 政府及制度化机制为知识生产提供的物质保障与组织形态（如多元同行评审基金、大科学装置、国家实验室或战略产业采购）。
-> - **自治空间（Autonomy Space）** 科学共同体在问题界定、方法路径与学术评价方面享有的自主权利及其受政治或安全约束的收放程度。
-> - **功能期待（Functional Expectations）** 国家与社会对科学在战略能力储备、公共治理、问题解决与产业转化等方面预设的回报机制。
-> - **责任结构（Responsibility Structure）** 科学共同体所承担的社会责任边界，从纯学术诚信扩展至公共沟通、合规审计、科研安全与战略使命对齐。
+> - **合法性基础** 社会赋予科学活动公共支持的正当性依据，回答社会为何应当长期资助科学探索（如国家安全、经济繁荣、[[Grand Challenges|重大挑战]]或地缘技术竞争）。
+> - **制度与资源支持** 政府及制度化机制为[[Knowledge Production|知识生产]]提供的物质保障与组织形态（如多元同行评审基金、[[Megascience Installations|大科学装置]]、国家实验室或战略产业采购）。
+> - **自治空间** 科学共同体在[[Problem Finding|问题界定]]、方法路径与学术评价方面享有的自主权利及其受政治或安全约束的收放程度。
+> - **功能期待** 国家与社会对科学在战略能力储备、公共治理、[[Problem Solving|问题解决]]与产业转化等方面预设的回报机制。
+> - **责任结构** 科学共同体所承担的社会责任边界，从纯学术诚信扩展至公共沟通、合规审计、[[Research Security|科研安全]]与战略使命对齐。
 
 ---
 
 ## 核心命题与演化机制
 
-> [!theory-proposition] 命题一｜契约稳定依赖于统摄性合法性前提与“高自治—高嵌入”对称结构
+> [!theory-proposition] 命题一｜契约稳定依赖于统摄性合法性前提与高自治与高嵌入对称结构
 > **解释** 当外部存在压倒一切的国家生存危机或体系性地缘对抗时，基础研究的长期潜能能够被直接折算为国家战略储备，从而赋予科学共同体极高的专业自治权与不设限的资源支持。科学精英深度嵌入最高安全决策，微观研究路径则免受官僚干涉，形成稳定的互惠平衡。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1058–1059)]]
 >
-> **应用实例** 冷战早中期美国通过[[President's Science Advisory Committee|美国总统科学顾问委员会（PSAC）]]将顶尖物理学与工程学者直接纳入国家核威慑与太空竞赛决策，同时通过 NSF 和 ONR 的同行评议向大学提供充沛经费，创造了 1957—1967 年的科技“黄金十年”。
+> **应用实例** 冷战早中期美国通过美国[[President's Science Advisory Committee|总统科学顾问委员会]]（President's Science Advisory Committee, PSAC）将顶尖物理学与工程学者直接纳入国家核威慑与太空竞赛决策，同时通过[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）与[[Office of Naval Research|美国海军研究办公室]]（Office of Naval Research, ONR）的同行评议向大学提供充沛经费，创造了 1957—1967 年科技黄金十年。
 
-> [!theory-proposition] 命题二｜合法性拼合与多重功能过载将促使科学正当性由“自明”滑向“条件化”
-> **解释** 当单一统摄性正当性瓦解后，国家开始将经济竞争力、社会公平、环境保护与行政问责等多种异质性目标叠加于科学之上。科学被要求持续解释自身对现实问题的即时贡献，其正当性由默认信任转变为必须由外部可测绩效换取的“条件化正当性”，契约内在张力显著激化。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1061)]]
+> [!theory-proposition] 命题二｜合法性拼合与多重功能过载将促使科学正当性由自明滑向条件化
+> **解释** 当单一统摄性正当性瓦解后，国家开始将经济竞争力、社会公平、环境保护与行政问责等多种[[Heterogeneity|异质性]]目标叠加于科学之上。科学被要求持续解释自身对现实问题的即时贡献，其正当性由默认信任转变为必须由外部可测绩效换取的条件化正当性，契约内在张力显著激化。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1061)]]
 >
-> **应用实例** 2010 年美国出台《政府绩效与成果法案现代化法案》（GPRAMA）并硬化 NSF“更广泛的影响”标准，使科研项目必须就解决重大社会挑战提供刚性证明，传统由好奇心驱动的基础探索丧失了无条件免检地位。
+> **应用实例** 2010 年美国出台《政府绩效与成果法案现代化法案》（Government Performance and Results Act Modernization Act, GPRAMA）并将 NSF 更广泛的影响（Broader Impacts）评审指标硬化为刚性门槛，使科研项目必须就解决重大社会挑战提供刚性证明，传统由好奇心驱动的基础探索丧失了无条件免检地位。
 
-> [!theory-proposition] 命题三｜国家在危机与激烈竞争情境下倾向于发展“以能力获取为中心”的技术型替代契约
-> **解释** 当地缘技术对抗急剧升温且关键新兴技术的突破主要发生于私营部门与产业生态时，国家倾向于弱化对传统学术体系漫长积累周期的依赖。政府通过行政统筹、跨部门动员、政府采购与强化安全审计，建立以技术能力快速掌控为核心的新型契约，科学由国家的“认知中心”降级为能力体系中的从属要素。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]
+> [!theory-proposition] 命题三｜国家在危机与激烈竞争情境下倾向于发展以能力获取为中心的技术型替代契约
+> **解释** 当地缘技术对抗急剧升温且关键新兴技术的突破主要发生于私营部门与产业生态时，国家倾向于弱化对传统学术体系漫长积累周期的依赖。政府通过行政统筹、跨部门动员、政府采购与强化安全审计，建立以技术能力快速掌控为核心的新型契约，科学由国家的认知中心降级为能力体系中的从属要素。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]
 >
-> **应用实例** 2025 年特朗普政府启动“创世纪计划”并颁布[[Restoring Gold Standard Science Executive Order|《恢复黄金标准的科学》行政令]]，削减高校基础探索预算，转向直接依托国家实验室与科技企业联合推进 AI 与量子技术的工程化落地。
+> **应用实例** 2025 年特朗普政府启动创世纪计划（The Genesis Mission）并颁布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，削减高校基础探索预算，转向直接依托国家实验室与科技企业联合推进人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）与量子技术的工程化落地。
 
 ---
 
@@ -108,4 +138,4 @@ updated: 2026-10-05
 
 > [!boundary] 理论边界与学术分歧
 > - **单一契约终结还是多元契约并存** 传统观点认为 20 世纪 90 年代单一契约走向终结；而希拉·斯劳特（Sheila Slaughter）等学者证明现实中呈现出国防契约、产业竞争力契约与特定领域契约并行交叠的复杂网络，不宜化约为单一制度替代。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1059)]]
-> - **认知契约与技术契约的内在张力** 技术型社会契约虽然在危机与大国竞争情境下具备响应迅速、目标聚焦与可审计的现实诱惑，但若切断科学共同体提供的认知纠错与长周期基础探索，其长期稳定性与原始创新能力将面临严重侵蚀。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1063)]]
+> - **认知契约与技术契约的内在张力** [[Technology-Oriented Social Contract|技术型社会契约]]虽然在危机与大国竞争情境下具备响应迅速、目标聚焦与可审计的现实诱惑，但若切断科学共同体提供的认知纠错与长周期基础探索，其长期稳定性与原始创新能力将面临严重侵蚀。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1063)]]
