@@ -53,6 +53,7 @@ related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
   - "[[Argument_Fuchs_2010_RP]]"
   - "[[Argument_Mowery_2011_NBER]]"
+  - "[[Argument_Logar_2014_Minerva]]"
 confidence: high
 status: draft
 created: 2026-06-05

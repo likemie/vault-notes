@@ -75,6 +75,7 @@ related_arguments:
   - "[[Argument_Schnee_1978_RP]]"
   - "[[Argument_Macher_1998_CMR]]"
   - "[[Argument_Bown_2024_JEP]]"
+  - "[[Argument_Logar_2014_Minerva]]"
 confidence: high
 status: active
 created: 2026-10-02
@@ -220,5 +221,7 @@ updated: 2026-10-05
 > | [[Venkatesh Narayanamurti]] | Person | 曾任贝尔实验室固态电子学研究主管，后将该机构经验升华为发现-发明循环理论。 |
 > | [[Brookings Institution]] | Fact (Think-tank) | 出版半导体技术扩散专著（Tilton 1971）记录贝尔实验室技术扩散与产业结构演进的权威机构。 |
 > | [[Science, The Endless Frontier 1945]] | Fact (Policy) | 战后布什报告设想的基础研究资助模式与贝尔实验室这类工业巨头并存互补。 |
+> | [[Semiconductor Research Corporation]] | Fact (Organization) | 1982 年贝尔实验室等大型企业中央研发室走向衰落后，半导体产业界创立的产学联合研发替代机制。 |
+> | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] | [[Document\|文献]] | 以贝尔实验室单一企业全链条模式的解体作为制度背景，系统对比 SRC 联合体与联邦国家实验室三种创新组织治理架构的差异与各自适用边界。 |
 
 ---
