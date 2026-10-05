@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -46,7 +46,9 @@ related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Department of Energy]]"
   - "[[CHIPS and Science Act]]"
+  - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
+  - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[American Association for the Advancement of Science]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
@@ -105,7 +107,7 @@ updated: 2026-10-06
 > - **奠定科学界的国家话语权与自治屏障** NAS 的独立法定特许地位，为美国科学界抵御政治干预提供了至关重要的体制防线，确立了“科学决策必须尊重学术专业规律”的国家政治伦理。
 > - **重塑战后科技体系顶层设计** [[Chinese Academy of Sciences|科学院]]及其核心成员深度参与了《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》起草、[[National Science Foundation|NSF]] 创建、国家航空航天局（NASA）空间科学规划、人类基因组计划（HGP）伦理评估以及国家纳米技术倡议（NNI）等重大国家科技决策。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 34)]]
 > - **前沿创新体系的独立监督者与路线仲裁人** 依托 [[National Research Council|NRC]] 专家委员会网络，NAS 持续对 [[DARPA]]、NSF、[[Department of Energy|DOE]] 等联邦研发机构的技术路线图、预算分配公正性及产学研生态健康度进行第三方深度评估，防止国家科研过度陷入短期官僚化陷阱。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134, 1144)]]
-> - **引领国家研发出资结构转型与公私伙伴协同** 敏锐揭示从联邦单核驱动向多元产学协同的历史性转变（自 2011 年至 2020 年代初，联邦基础研究占比从 65% 下降到 40%，企业研发比重升至 35%）。通过 GUIRR 与首届《国家科学现状演讲》，呼吁整合联邦政府、各州地方机构、工业界、学术界与非营利机构的全部国家资产，推动了《[[CHIPS and Science Act|芯片与科学法案]]》框架下国家半导体技术中心（[[National Science and Technology Council|NSTC]]）及 NSF 技术、创新与伙伴关系理事会（TIP）等重大公私伙伴机制的设立与深化。[[Argument_Ramming_2025_CorporateSupport|(McNutt, 2024; Ramming, 2025, pp. 237–238)]]
+> - **引领国家研发出资结构转型与公私伙伴协同** 敏锐揭示从联邦单核驱动向多元产学协同的历史性转变（自 2011 年至 2020 年代初，联邦基础研究占比从 65% 下降到 40%，企业研发比重升至 35%）。通过 GUIRR 与首届《国家科学现状演讲》，呼吁整合联邦政府、各州地方机构、工业界、学术界与非营利机构的全部国家资产，推动了《[[CHIPS and Science Act|芯片与科学法案]]》框架下[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）及 NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与伙伴关系理事会]]（TIP）等重大公私伙伴机制的设立与深化。[[Argument_Ramming_2025_CorporateSupport|(McNutt, 2024; Ramming, 2025, pp. 237–238)]]
 > - **全球现代科学建制的母本象征** 其自我繁衍与非行政化咨询模式，成为二战后许多国家重构国家科学院或科学咨询委员会时的重要制度借鉴。
 
 ---
@@ -121,7 +123,7 @@ updated: 2026-10-06
 > | [[Public-Private Partnership in Research]] | Concept | NAS 积极倡导并在《国家科学现状演讲》中重点推广的应对大国科技竞争核心制度机制。 |
 > | [[DARPA]] | Fact (Organization) | 美国国防高级研究计划局；NAS/NRC 长期对其资助战略与技术路线进行独立权威评估。 |
 > | [[National Science Foundation]] | Fact (Organization) | 由布什等 NAS 领袖推动设立的联邦基础科学资助旗舰机构。 |
-> | [[CHIPS and Science Act]] | Fact (Policy) | 呼应 NAS 倡议，通过国家半导体技术中心等新型法定机构推进产学研协同的国家立法。 |
+> | [[CHIPS and Science Act]] | Fact (Policy) | 呼应 NAS 倡议，通过[[National Semiconductor Technology Center\|国家半导体技术中心]]等新型法定机构推进产学研协同的国家立法。 |
 > | [[American Association for the Advancement of Science]] | Fact (Organization) | 与 NAS 互补的、面向全体科学工作者的大众性综合科学学会。 |
 > | [[Office of Scientific Research and Development]] | Fact (Organization) | 二战期间与 NAS 深度交织的战时科技动员领导中枢。 |
 > | [[Bell Labs]] | Fact (Organization) | 贝尔实验室总裁朱厄特曾兼任 NAS 院长，是工业研发与国家[[Chinese Academy of Sciences\|科学院]]协作的典范。 |

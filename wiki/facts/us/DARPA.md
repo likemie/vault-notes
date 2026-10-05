@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 58
+fact_related_count: 60
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -74,7 +74,9 @@ related_facts:
   - "[[MOSIS]]"
   - "[[Sematech]]"
   - "[[CHIPS and Science Act]]"
+  - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
+  - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[Information Science and Technology Study Group]]"
   - "[[Department of Energy]]"
   - "[[National Science Foundation]]"
@@ -121,7 +123,7 @@ updated: 2026-10-06
 > - **1980s — 战略计算倡议、[[VLSI Project|VLSI]] 设计革命与半导体危机应对** 面对日本半导体制造业的激烈竞争，发起战略计算倡议（Strategic Computing Initiative, SCI）；资助超大规模集成电路（Very Large Scale Integration, VLSI）结构化设计方法论革命并创立[[MOSIS|金属氧化物半导体实现服务]]（MOSIS）硅代工原型试验平台；资助加州大学伯克利分校与斯坦福大学开发精简指令集计算机（Reduced Instruction Set Computer, RISC）微处理器架构；在 1980–1989 年间资助 9 亿美元实施全额行政主导的甚高速集成电路（Very High Speed Integrated Circuits, VHSIC）计划；1987 年联合 14 家芯片制造巨头共同创立[[Sematech|半导体制造技术战略联盟]]（SEMATECH），每年提供 1 亿美元对等匹配资助（占 50%），推动公私协同与前竞争共性技术攻坚；全力推进全球卫星定位系统（Global Positioning System, GPS）的军民部署。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 180–183)]]; [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–730)]]
 > - **1990s — 冷战后军民两用转型与微系统基础探索** 在加里·登曼（Gary Denman）、拉里·林恩（Larry Lynn）与弗兰克·费尔南德斯（Frank Fernandez）领导下，DARPA 重点转向军民两用（Dual-use）技术开发与跨学科基础探索；微系统技术办公室（MTO，前身为电子技术办公室 ETO）依托开放广泛领域公告（Broad Area Announcement, [[Broad Agency Announcement|BAA]]），前瞻性资助硅锗（Silicon-Germanium, SiGe）异质结双极晶体管与应变硅材料研发，突破硅基物理极限，为后摩尔时代微处理器奠定核心工艺基石。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138)]]
 > - **2000s — [[Tony Tether|托尼·瑟瑟]]采办改革、“弥合鸿沟”与体系级系统集成** 2001 年托尼·瑟瑟（Tony Tether）出任局长，确立“弥合鸿沟”（Bridging the Gap）施政纲领，推行采办机制的激进变革；资助重心由大学转向工业界传统国防巨头（Prime Contractors），引入 12–16 个月硬性里程碑审查（Go/No-Go）与涉密限制；微观层面项目经理继续运用[[Embedded Network Governance|嵌入型网络治理]]攻克 3D 封装与超高性能片内纳米光子通信（UNIC）芯片互连；同期资助敏捷感知认知系统（CALO 项目，孵化出 Siri）并在 2004 与 2005 年举办两届无人车大挑战赛（DARPA Grand Challenge）。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138, 1142–1144)]]
-> - **2010s–至今 — 生物技术拓展、多域分布式协同与公私伙伴关系深化** 设立生物技术办公室（Biological Technologies Office, BTO），在新冠疫情暴发前数年即通过 ADEPT 计划前瞻资助莫德纳（Moderna）等团队研发 mRNA 疫苗平台与核酸药物递送技术；在空战领域推行“小妖精”（Gremlins）低成本无人机群空中回收验证；面对全球科技与地缘竞争，其早期前竞争技术培育模式进一步为《[[CHIPS and Science Act|芯片与科学法案]]》支持的国家半导体技术中心（[[National Science and Technology Council|NSTC]]）及国家科学基金会技术、创新与伙伴关系（TIP）理事会等新型公私协同体制提供关键原型。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 807)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–238)]]
+> - **2010s–至今 — 生物技术拓展、多域分布式协同与公私伙伴关系深化** 设立生物技术办公室（Biological Technologies Office, BTO），在新冠疫情暴发前数年即通过 ADEPT 计划前瞻资助莫德纳（Moderna）等团队研发 mRNA 疫苗平台与核酸药物递送技术；在空战领域推行“小妖精”（Gremlins）低成本无人机群空中回收验证；面对全球科技与地缘竞争，其早期前竞争技术培育模式进一步为《[[CHIPS and Science Act|芯片与科学法案]]》支持的[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）及国家科学基金会技术、创新与伙伴关系（[[Directorate for Technology, Innovation and Partnerships|TIP]]）理事会等新型公私协同体制提供关键原型。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 807)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–238)]]
 
 ---
 

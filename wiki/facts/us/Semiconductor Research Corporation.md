@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -50,6 +50,7 @@ related_facts:
   - "[[Sematech Centers of Excellence]]"
   - "[[Focus Center Research Program]]"
   - "[[CHIPS and Science Act]]"
+  - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[American Council on Education]]"
@@ -88,7 +89,7 @@ updated: 2026-10-06
 > - **1982–1987 — 破冰创建与前竞争产学资助体系奠基** 建立首个全行业共享的大学微电子研究资助基金，确立“行业提需求、高校出方案、同行评议立项、知识产权非独占共享”的治理准则；早期曾构想广泛吸纳外资企业，但在 1983 年修改章程限制仅允许美国本土公司参与，以化解冷战技术[[Attrition|流失]]顾虑并深度撬动联邦国防对等资助。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 241–242)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
 > - **1988–1996 — 协同 [[Sematech]] 统筹[[Sematech Centers of Excellence|大学卓越中心]]网络（SCOE）** 承担 [[Sematech]] 每年 **1000 万至 1500 万美元** 的大学科研经费转拨与统筹管理职能，在加州大学伯克利分校、斯坦福大学、麻省理工学院等高校建立 Sematech 大学卓越技术中心网络，专注于前沿光刻物理、等离子体刻蚀与材料建模基础研究。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 735, 754)]]
 > - **1997–2017 — [[Focus Center Research Program|焦点研究中心计划]]（FCRP）、NRI 扩张与分层全球开放** 1998 年联合 SIA、[[DARPA]] 与 [[Sematech]] 设立微电子先进研究联盟（MARCO），正式启动焦点研究中心计划（Focus Center Research Program, FCRP），随后设立纳米电子学研究倡议（NRI）；同时在 1999 年起重新对全球跨国半导体企业开放 GRC 等子计划的会员准入，形成“底层计划全球开放、联邦对等资助计划本土限制”的分层开放格局。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 242, 248–249)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 121, note 48)]]
-> - **2018–至今 — JUMP 2.0 与对接《[[CHIPS and Science Act|芯片法案]]》国家战略体系** 启动微电子联合大学微电子计划（JUMP 2.0），并与 2022 年《芯片与科学法案》设立的国家半导体技术中心（[[National Science and Technology Council|NSTC]]）深度协同，从行业联盟型 [[Public-Private Partnership in Research|PPP]] 跃升为国家战略级产学研核心支撑平台。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
+> - **2018–至今 — JUMP 2.0 与对接《[[CHIPS and Science Act|芯片法案]]》国家战略体系** 启动微电子联合大学微电子计划（JUMP 2.0），并与 2022 年《芯片与科学法案》设立的[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）深度协同，从行业联盟型 [[Public-Private Partnership in Research|PPP]] 跃升为国家战略级产学研核心支撑平台。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
 
 ---
 
@@ -138,7 +139,7 @@ updated: 2026-10-06
 > [!finding-cards] 关键成效与辐射影响
 > - **第二代半导体产学前竞争联合体的典范标杆** 在半导体跨界协同的三代制度演进中，SRC 作为第二代“行业前竞争联盟”的标志性组织，汇聚数十家竞争企业筹资并配合国际半导体技术路线图（ITRS）攻坚工艺微缩与新材料物理极限，成功探索出让竞争对手在底层科学层面共享资金、分摊风险并共同培育高素质后备工程师的制度模板，成为全球公私研发合作（[[Public-Private Partnership in Research|PPP]]）的教科书[[Paradigm|范式]]。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
 > - **支撑 [[Sematech]] 等[[Industry Affiliate Program|产业联盟]]的基础研究短板** 弥补了工业制造联盟聚焦中短期工程开发的局限，为全产业链提供了深厚的上游学科地基。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 754)]]
-> - **为《[[CHIPS and Science Act|芯片法案]]》与 [[National Science and Technology Council|NSTC]] 奠定制度雏形** 2022 年《芯片与科学法案》在规划国家半导体技术中心（NSTC）的产学协同与人才发展网络时，高度复刻了 SRC 运行 40 余年的运作架构与同行评审机制。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
+> - **为《[[CHIPS and Science Act|芯片法案]]》与 [[National Science and Technology Council|NSTC]] 奠定制度雏形** 2022 年《芯片与科学法案》在规划[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）的产学协同与人才发展网络时，高度复刻了 SRC 运行 40 余年的运作架构与同行评审机制。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
 
 ---
 

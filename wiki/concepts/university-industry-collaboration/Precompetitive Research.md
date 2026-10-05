@@ -8,7 +8,7 @@ aliases:
 summary: "处于探索阶段、产出的知识产权尚不具备直接商业化价值的共性技术研发活动。在产学合作与产业研发联盟中，前竞争研究充当了多边协同的制度边界：使同行竞争者在共性工艺、行业标准与基础设施层面共享成果与分摊风险，同时保留各自在专有产品设计与商业市场的独立竞争优势；Grindley et al. (1994) 揭示了其在同业横向联盟中的专有权张力及向纵向供应链协同演化的规律。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 32
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Product-Specific Research]]"
   - "[[Translational Research]]"
   - "[[Valley of Death]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Blue Skies Research]]"
   - "[[Zero-Sum Competition]]"
   - "[[Academic Freedom]]"
@@ -56,6 +57,8 @@ related_facts:
   - "[[ESPRIT]]"
   - "[[Microelectronics and Computer Technology Corporation]]"
   - "[[CHIPS and Science Act]]"
+  - "[[National Semiconductor Technology Center]]"
+  - "[[National Science and Technology Council]]"
 related_arguments:
   - "[[Argument_Narayan_Spohrer_2025_Metrics]]"
   - "[[Argument_Grindley_1994_JPAM]]"
@@ -66,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Precompetitive Research
@@ -91,7 +94,7 @@ updated: 2026-10-05
 > [!boundary]- 概念边界
 > - 不等于 [[Product-Specific Research|产品专项研究]] — 产品专项研究针对特定企业的专有产品与定制化方案，其知识产权具有高商业价值与排他性；前竞争研究聚焦共性技术与通用标准，成果通常供所有成员免版税共享。
 > - 不等于 [[Translational Research|转化研究]] — 转化研究侧重于将实验室发现跨越[[Valley of Death|死亡之谷]]推进到原型与临床/工业应用的能力与过程；前竞争研究侧重于研发所处阶段与专有权属性的性质界定。
-> - 不等于 纯基础研究 — 基础研究追求根本性的科学规律认知且通常无特定商业目标；前竞争研究多由明确的产业工程瓶颈驱动，具有明确的工业应用导向，只是尚未具体化为竞争性终极产品。
+> - 不等于 [[Curiosity-Driven Research|纯基础研究]] — 基础研究追求根本性的科学规律认知且通常无特定商业目标；前竞争研究多由明确的产业工程瓶颈驱动，具有明确的工业应用导向，只是尚未具体化为竞争性终极产品。
 
 ---
 
@@ -177,7 +180,7 @@ updated: 2026-10-05
 > [!dev-timeline] 概念演变历程
 > - **1980s — 反垄断豁免与半导体联盟兴起** 美国通过 1984 年《国家合作研究法》（NCRA），首次从法律层面界定前竞争研发（Pre-competitive R&D）并免除反垄断三倍赔偿风险；直接催生了 [[Sematech]]、[[Microelectronics and Computer Technology Corporation|MCC]] 等高技术研发联合体，以及欧洲 [[ESPRIT]] 计划。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724–728)]]
 > - **1990s — 战略转向与纵向通用基础设施确立** [[Sematech]] 的实践证明横向工艺配方共享难以维系，前竞争研究的内涵拓展为国家半导体技术路线图（NTRS）、[[Cost of Ownership|所有权成本模型]]（COO）及共有中试线认证等通用基础设施。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 731–736)]]
-> - **2000s–至今 — 产学两层知识产权与公私伙伴关系（[[Public-Private Partnership in Research|PPP]]）制度化** 前竞争原则广泛融入[[University-Industry Collaboration|产学合作]]管理与国家战略科技政策（如英国 [[Advanced Manufacturing Research Centre|AMRC]] 两层知识产权模型、美国《[[CHIPS and Science Act|芯片与科学法案]]》国家半导体技术中心 NSTC），演化为调节公私协同与市场竞争平衡的核心制度工具。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025)]]; [[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025)]]
+> - **2000s–至今 — 产学两层知识产权与公私伙伴关系（[[Public-Private Partnership in Research|PPP]]）制度化** 前竞争原则广泛融入[[University-Industry Collaboration|产学合作]]管理与国家战略科技政策（如英国 [[Advanced Manufacturing Research Centre|AMRC]] 两层知识产权模型、美国《[[CHIPS and Science Act|芯片与科学法案]]》[[National Semiconductor Technology Center|国家半导体技术中心]] [[National Science and Technology Council|NSTC]]），演化为调节公私协同与市场竞争平衡的核心制度工具。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025)]]; [[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025)]]
 
 ---
 

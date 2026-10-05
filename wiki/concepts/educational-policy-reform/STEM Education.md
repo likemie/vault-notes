@@ -8,7 +8,7 @@ aliases:
 summary: "涵盖科学、技术、工程与数学四大学科的跨学科融合教育范式与国家战略，主张打破传统分科壁垒，依托真实情境问题解决、工程设计与探究实践培养综合创新与认识论素养；在教学论上面向指导式探究与直接讲授的时序整合，并尊重各子学科的特异性认识论规程。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -65,6 +65,7 @@ related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[America COMPETES Act]]"
   - "[[National Science Foundation]]"
+  - "[[National Science and Technology Council]]"
   - "[[National Research Council]]"
 related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
@@ -80,7 +81,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-06-05
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # STEM Education
@@ -208,7 +209,7 @@ updated: 2026-10-05
 ## 典型模式与技术平台
 
 > [!pathways] 国家战略体系与政策实践机制
-> - **立法保障与顶层协调** 通过《[[America COMPETES Act|美国竞争法案]]》及 2022 年《[[CHIPS and Science Act|芯片与科学法案]]》等立法，将 STEM 纳入联邦与各州核心战略与教育问责体系；由[[National Science Foundation|美国国家科学基金会]]（NSF）、美国国家科学技术委员会（NSTC）及教育部统筹联邦五年战略规划。
+> - **立法保障与顶层协调** 通过《[[America COMPETES Act|美国竞争法案]]》及 2022 年《[[CHIPS and Science Act|芯片与科学法案]]》等立法，将 STEM 纳入联邦与各州核心战略与教育问责体系；由[[National Science Foundation|美国国家科学基金会]]（NSF）、美国[[National Science and Technology Council|国家科学技术委员会]]（NSTC）及教育部统筹联邦五年战略规划。
 > - **课程标准与实践[[Paradigm|范式]]确立** [[National Research Council|美国国家科学研究委员会]]（NRC）发布《K-12 科学教育框架》，指导研制《新一代科学教育标准》（NGSS），确立“科学与工程实践”（SEPs）的法定核心地位。
 > - **财政预算倾斜与研究生池扩容** 联邦年度预算规模稳定在数十亿美元区间，涵盖少数族裔与女性 STEM 参与、先进制造劳动力培训，并通过 GRFP 奖学金扩招 50% 应对中国理工毕业生四倍规模优势。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]
 > - **大学全链条科研与学者专业发展** 从基础教育跨学科体验贯通至高水平[[Research Universities|研究型大学]]工程攻坚；面对 140 万产业人才缺口，高校依托[[Design-Based Research|基于设计的研究]]开展多轮学者发展工作坊，系统提升跨学科产学协同就绪度。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3–7)]]

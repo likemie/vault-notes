@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -35,13 +35,14 @@ related_persons: []
 related_facts:
   - "[[Bell Labs]]"
   - "[[SBIR and STTR Programs]]"
+  - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[DARPA]]"
   - "[[Sematech]]"
 related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-10-04
+updated: 2026-10-06
 ---
 
 # US Innovation Policy System
@@ -97,7 +98,7 @@ updated: 2026-10-04
 ## 基础研究与跨领域协同
 
 > [!info]
-> 国家科学基金会新设技术、创新和伙伴关系学部（TIP），专门开展应用导向的基础研究，这是数十年来首次重大架构调整。国会批准在国家卫生研究院内设立高级卫生研究计划局（[[DARPA|ARPA]]-H），重点支持具有重大潜在影响的高风险生物医学项目。自2000年起实施的美国国家纳米计划取得重[[Big Science|大科学]]发现，并实现纳米制造技术向商业化产品的快速转化。
+> 国家科学基金会新设技术、创新和伙伴关系学部（[[Directorate for Technology, Innovation and Partnerships|TIP]]），专门开展应用导向的基础研究，这是数十年来首次重大架构调整。国会批准在国家卫生研究院内设立高级卫生研究计划局（[[DARPA|ARPA]]-H），重点支持具有重大潜在影响的高风险生物医学项目。自2000年起实施的美国国家纳米计划取得重[[Big Science|大科学]]发现，并实现纳米制造技术向商业化产品的快速转化。
 >
 > 1988年美国政府主导成立[[Sematech]]联盟，联合英特尔、德州仪器、IBM、摩托罗拉等11家企业，通过整合资源、促进信息与技术共享、加强人才交流，显著提升了半导体制造能力和材料研发水平。
 

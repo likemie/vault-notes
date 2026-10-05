@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 32
+fact_related_count: 34
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -55,6 +55,8 @@ related_facts:
   - "[[Sematech Centers of Excellence]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[CHIPS and Science Act]]"
+  - "[[National Semiconductor Technology Center]]"
+  - "[[National Science and Technology Council]]"
   - "[[Microelectronics and Computer Technology Corporation]]"
   - "[[VLSI Project]]"
   - "[[ESPRIT]]"
@@ -66,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-06
 ---
 
 # Sematech
@@ -142,7 +144,7 @@ updated: 2026-10-04
 > 4. **确立现代高技术产业公私研发联盟设计准则** 确立了以产业主导、近中期[[General Purpose Technology|通用技术]]定位、纵向产业链协同、人员借调与集中测试设施为特征的高技术公私协同治理准则。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 751–755)]]
 > 5. **成功实现机制化退出的公共资助典范** 证明了国家公共干预可以在特定危机时期有效介入、并在产业自立后主动断乳退出，避免了传统发展型国家长期补贴引发的寻租与市场扭曲。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
 > 6. **沉淀全行业协调的基础设施与技术路线图** Macher 等人强调，Sematech 最深远的贡献在于建立了超越个别企业利益的行业沟通机制与技术路线图（NTRS/ITRS），以及推广了全生命周期 COO 评估标准，使全产业链能够在分散决策下保持技术接口的高度协调。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 121–122)]]
-> 7. **为当代《[[CHIPS and Science Act|芯片与科学法案]]》提供制度蓝本** 2022 年美国《芯片法案》设立的国家半导体技术中心（NSTC），在架构设计上直接借鉴了 Sematech 的公私对等资助与共享测试线机制。
+> 7. **为当代《[[CHIPS and Science Act|芯片与科学法案]]》提供制度蓝本** 2022 年美国《芯片法案》设立的[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]），在架构设计上直接借鉴了 Sematech 的公私对等资助与共享测试线机制。
 
 > [!stat-cards]- 核心规模数据
 > - **\$200m/年** 联盟初期年度研发预算（[[DARPA]] 与企业各对等出资 1 亿美元）。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 729)]]

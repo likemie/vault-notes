@@ -9,7 +9,7 @@ summary: "加利福尼亚大学河滨分校社会学与公共政策杰出教授�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[CHIPS and Science Act]]"
+  - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[Horizon Europe]]"
   - "[[National Science Foundation]]"
   - "[[Department of Energy]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Steven Brint
@@ -109,7 +110,7 @@ updated: 2026-10-05
 > | [[Research Universities]] | Concept | 布林特毕生学术研究的核心对象与组织制度分析载体。 |
 > | [[Modern Industrial Policy]] | Concept | 布林特分析《[[CHIPS and Science Act\|芯片与科学法案]]》科技治理转型所运用的关键理论透镜。 |
 > | [[STEM Education]] | Concept | 布林特探讨中美理工人才蓄水池竞争与联邦 GRFP 奖学金扩容的核心概念。 |
-> | [[Use-Inspired Basic Research]] | Concept | 布林特分析国家科学基金会新设 TIP 局以加速成果转化所依循的科研分类取向。 |
+> | [[Use-Inspired Basic Research]] | Concept | 布林特分析国家科学基金会新设 [[Directorate for Technology, Innovation and Partnerships\|TIP]] 局以加速成果转化所依循的科研分类取向。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 布林特 2023 年论文深度评析的美国旗舰产业科技立法。 |
 > | [[Horizon Europe]] | Fact (Policy) | 布林特在美中欧三方科技战略对比中作为欧洲社会生态典范进行剖析的框架计划。 |
 > | [[National Science Foundation]] | Fact (Org) | 布林特评析其新设技术创新局及 810 亿美元预算授权的核心联邦科学资助机构。 |

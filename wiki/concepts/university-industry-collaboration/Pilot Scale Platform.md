@@ -10,7 +10,7 @@ aliases:
 summary: "位于大学/实验室基础研发与工业规模化量产之间的关键共性基础设施，通过中立的测试验证线与工艺放大环境，提供工艺可行性验证、设备成熟度评估（MTBF/COO）与小批量试生产服务，是跨越技术就绪度（TRL 4–7）“死亡之谷”与降低产业链协同风险的核心制度载体。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -51,6 +51,8 @@ related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[Ministry of International Trade and Industry]]"
   - "[[VLSI Project]]"
+  - "[[National Semiconductor Technology Center]]"
+  - "[[National Science and Technology Council]]"
   - "[[JESSI]]"
 related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
@@ -60,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-05
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Pilot Scale Platform
@@ -185,7 +187,7 @@ updated: 2026-10-05
 > - **1970s — 日本[[Ministry of International Trade and Industry|通产省]]共同研究所中试线模式** 日本在[[VLSI Project|超大规模集成电路项目]]中设立联合研究所共同中试线，开创了竞争对手共用中间试验设施的先河。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 726)]]
 > - **1980s–1990s — [[Sematech]] 奥斯汀中试线与欧洲 IMEC 模式确立** Sematech 投资数亿美元建立全流程奥斯汀中试厂，确立了以设备成熟度认证（[[Cost of Ownership|COO]]/[[Statistical Process Control|SPC]]）为核心的现代中试平台[[Paradigm|范式]]；同期比利时 IMEC 发展为面向全球开放的独立微电子中试中介。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 733–735)]]
 > - **2000s–2010s — [[Innovation Ecosystem|创新生态系统]]中的 [[Technology Readiness Level|TRL]] 跨越桥梁** 随着技术就绪度（TRL）概念的普及，中试平台被明确界定为跨越 TRL 4–7“[[Valley of Death|死亡之谷]]”的标准制度配置，广泛拓展至生物医药、先进材料与新能源领域。
-> - **2020s — 《[[CHIPS and Science Act|芯片法案]]》国家半导体技术中心（NSTC）重构** 2022 年美国《芯片与科学法案》将建设国家级先进半导体中试线（Prototyping Facilities）作为核心支柱，中试平台正式上升为国家大国博弈与技术主权竞争的核心基础设施。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135–1137)]]
+> - **2020s — 《[[CHIPS and Science Act|芯片法案]]》[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）重构** 2022 年美国《芯片与科学法案》将建设国家级先进半导体中试线（Prototyping Facilities）作为核心支柱，中试平台正式上升为国家大国博弈与技术主权竞争的核心基础设施。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1135–1137)]]
 
 ---
 

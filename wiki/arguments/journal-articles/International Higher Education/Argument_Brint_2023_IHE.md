@@ -40,6 +40,7 @@ related_facts:
   - "[[America COMPETES Act]]"
   - "[[Horizon Europe]]"
   - "[[Department of Energy]]"
+  - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[Made in China 2025]]"
 related_arguments: []
 sources:
@@ -54,7 +55,7 @@ title: "Argument_Brint_2023_IHE"
 argument_key: "Argument_Brint_2023_IHE"
 argument_display_title: "The US “CHIPS and Science” Act launches industrial policy as counter to China"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -217,7 +218,7 @@ issuing_organization: ""
 为了把研发资金落到实处，法案对两大联邦核心科研机构的预算与职能进行了扩充。
 
 > [!policy-design] 联邦科研机构的扩容与对大学的资金支持
-> - **国家科学基金会设立转化新部门** 法案为 [[National Science Foundation|NSF]] 授权了 810 亿美元预算，并增设技术、创新与伙伴关系理事会（Technology, Innovation, and Partnerships Directorate, TIP），专门负责加速[[Use-Inspired Basic Research|应用启发的基础研究]]，促使实验室里的基础科学成果尽快转化为产业实用技术；若资金落实，NSF 预算首年将增长 8%，五年内拟累计新增 360 亿美元。
+> - **国家科学基金会设立转化新部门** 法案为 [[National Science Foundation|NSF]] 授权了 810 亿美元预算，并增设[[Directorate for Technology, Innovation and Partnerships|技术、创新与伙伴关系理事会]]（Technology, Innovation, and Partnerships Directorate, TIP），专门负责加速[[Use-Inspired Basic Research|应用启发的基础研究]]，促使实验室里的基础科学成果尽快转化为产业实用技术；若资金落实，NSF 预算首年将增长 8%，五年内拟累计新增 360 亿美元。
 > - **能源部科学办公室大幅增加预算** [[Department of Energy|美国能源部]]（DOE）科学办公室在五年内拟增加 305 亿美元预算，其中相当大一部分资金将通过竞争性科研课题流向大学实验室。
 > - **增加理工科研究生国家奖学金** 安排数十亿美元用于理科教育，并将研究生研究奖学金项目（Graduate Research Fellowship Program, GRFP）的名额直接从每年 2000 名增加到 3000 名；同时随着周边芯片工厂的兴建，大学还将新增相关的劳动力技能培训项目。（p. 9）
 

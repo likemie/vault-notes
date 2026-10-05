@@ -8,7 +8,7 @@ aliases:
 summary: "政府部门、产业企业与研究型大学联合资助并协同执行科研攻关的多边制度化合作机制。不同于传统双边产学合作，其将公共部门作为共同出资与战略决策主体深度嵌入；实践中依托治理权衡、竞合理论、技术路线图与知识产权非独占共享四大支柱化解企业间协同壁垒，历经企业战略倡议、行业前竞争联盟到国家法定创新中心的三代制度演进。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 35
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -55,6 +55,8 @@ related_facts:
   - "[[National Science and Technology Council]]"
   - "[[CHIPS and Science Act]]"
   - "[[DARPA]]"
+  - "[[National Semiconductor Technology Center]]"
+  - "[[Directorate for Technology, Innovation and Partnerships]]"
 related_arguments:
   - "[[Argument_Ramming_2025_CorporateSupport]]"
   - "[[Argument_Grindley_1994_JPAM]]"
@@ -194,7 +196,7 @@ updated: 2026-10-06
 > - **1980s — 战后产业危机与行业级公私合作联合体萌芽** 面对海外竞争冲击，美国微电子产业在 1982 年发起设立 [[Semiconductor Research Corporation|SRC]]，开创全行业汇聚资金资助大学基础[[Paradigm|研究范式]]；1987 年在联邦支持下设立 [[Sematech]]，[[DARPA]] 每年对等匹配 1 亿美元，正式确立现代研究型 PPP 的财政匹配与工程协同架构。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 723–725)]]
 > - **1990s — 三螺旋理论与[[National Innovation System|国家创新系统]]网络化** 埃茨科威茨与莱德斯多夫（Etzkowitz & Leydesdorff, 1995）提出三螺旋理论，为研究型 PPP 提供了核心学术[[Analytic Framework|分析框架]]；公共治理学界开始将 PPP 视为打破大学象牙塔隔阂、加速知识溢出与区域经济集聚的核心制度载体。
 > - **2008–2015 — 企业战略先行向政府接力放大演进（[[Universal Parallel Computing Research Centers|UPCRC]] 模式）** 英特尔与微软联合出资 2000 万美元在加州大学伯克利分校与 UIUC 设立[[Universal Parallel Computing Research Centers|UPCRC]]，开创了成果全面开源的多核软件协同模式；随后 [[National Science Foundation|NSF]] 启动 XPS 计划跟进资助，确立了“企业先行突破 $\to$ 政府接力放大”的序列公私研发合作模型。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 234–236)]]
-> - **2020s — 国家法定[[Innovation Hub|创新中心]]与国家安全供应链重构（[[National Science and Technology Council|NSTC]] 时代）** 2022 年《[[CHIPS and Science Act|芯片与科学法案]]》设立国家半导体技术中心（NSTC），[[National Science Foundation|NSF]] 设立技术、创新与合作（TIP）理事会；研究型 PPP 跃升为兼顾产业商业创新、区域 [[STEM Education|STEM]] 经济平衡与国家地缘科技安全的宏观战略重器。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–238)]]
+> - **2020s — 国家法定[[Innovation Hub|创新中心]]与国家安全供应链重构（[[National Science and Technology Council|NSTC]] 时代）** 2022 年《[[CHIPS and Science Act|芯片与科学法案]]》设立[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC），[[National Science Foundation|NSF]] 设立技术、创新与合作（[[Directorate for Technology, Innovation and Partnerships|TIP]]）理事会；研究型 PPP 跃升为兼顾产业商业创新、区域 [[STEM Education|STEM]] 经济平衡与国家地缘科技安全的宏观战略重器。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–238)]]
 
 ---
 

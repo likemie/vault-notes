@@ -12440,6 +12440,8 @@
     "aliases": [
       "联合教职",
       "联合教职任命",
+      "双重教职聘任",
+      "校企双重雇佣",
       "joint appointments",
       "joint faculty",
       "joint employment"
@@ -12998,7 +13000,6 @@
     "aliases": [
       "大学第三使命",
       "第三使命",
-      "third mission",
       "third stream",
       "大学第三职能"
     ]
@@ -28901,6 +28902,19 @@
     ]
   },
   {
+    "title": "Directorate for Technology, Innovation and Partnerships",
+    "type": "fact",
+    "path": "wiki/facts/us/Directorate for Technology, Innovation and Partnerships.md",
+    "aliases": [
+      "技术、创新与合作理事会",
+      "技术、创新与伙伴关系学部",
+      "技术、创新与伙伴关系理事会",
+      "TIP",
+      "Directorate for TIP",
+      "Technology, Innovation and Partnerships Directorate"
+    ]
+  },
+  {
     "title": "Education Resources Information Center",
     "type": "fact",
     "path": "wiki/facts/us/Education Resources Information Center.md",
@@ -29194,6 +29208,16 @@
     ]
   },
   {
+    "title": "National Science Board",
+    "type": "fact",
+    "path": "wiki/facts/us/National Science Board.md",
+    "aliases": [
+      "国家科学委员会",
+      "美国国家科学委员会",
+      "NSB"
+    ]
+  },
+  {
     "title": "National Science Foundation",
     "type": "fact",
     "path": "wiki/facts/us/National Science Foundation.md",
@@ -29202,6 +29226,16 @@
       "NSF",
       "NSF TIP",
       "NSF TIP Directorate"
+    ]
+  },
+  {
+    "title": "National Semiconductor Technology Center",
+    "type": "fact",
+    "path": "wiki/facts/us/National Semiconductor Technology Center.md",
+    "aliases": [
+      "国家半导体技术中心",
+      "美国国家半导体技术中心",
+      "美国国家半导体中心"
     ]
   },
   {

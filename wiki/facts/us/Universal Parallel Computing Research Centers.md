@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_persons: []
 related_facts:
   - "[[National Science Foundation]]"
   - "[[CHIPS and Science Act]]"
+  - "[[National Semiconductor Technology Center]]"
   - "[[Semiconductor Research Corporation]]"
 related_arguments:
   - "[[Argument_Ramming_2025_CorporateSupport]]"
@@ -170,7 +171,7 @@ updated: 2026-10-06
 > | [[Public-Private Partnership in Research]] | Concept | UPCRC 成为半导体产业由企业战略倡议向行业前竞争联盟及法定[[Innovation Hub\|创新中心]]演进的第一代典型代表。 |
 > | [[Paradigm]] | Concept | 摩尔定律与 Dennard 缩放定律终结所驱动的计算机体系结构范式转换。 |
 > | [[National Science Foundation]] | Fact (Organization) | 启动 XPS 专项接力并规模化放大 UPCRC 探索成果的联邦科研资助中枢。 |
-> | [[CHIPS and Science Act]] | Fact (Policy) | 2022 年法案推动设立的国家半导体技术中心延续并制度化了 UPCRC 所开拓的公私协同路线。 |
+> | [[CHIPS and Science Act]] | Fact (Policy) | 2022 年法案推动设立的[[National Semiconductor Technology Center\|国家半导体技术中心]]延续并制度化了 UPCRC 所开拓的公私协同路线。 |
 > | [[Semiconductor Research Corporation]] | Fact (Organization) | 半导体行业第二代更具普惠性与全行业覆盖性的前竞争联盟组织。 |
 > | [[Argument_Ramming_2025_CorporateSupport\|Ramming, 2025]] | Argument | 详细记载与分析 UPCRC 案例历史全貌、治理转型与外溢效应的核心学术来源。 |
 

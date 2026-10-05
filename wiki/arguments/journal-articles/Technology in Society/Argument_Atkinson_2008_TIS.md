@@ -28,6 +28,7 @@ related_concepts:
   - "[[Humboldtian Model of Higher Education]]"
   - "[[Knowledge Production]]"
   - "[[Grandes Ecoles]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Pluralistic Federal Funding System]]"
   - "[[Carnegie Classification of Institutions of Higher Education]]"
   - "[[Technology Transfer Office]]"
@@ -88,7 +89,7 @@ title: "Argument_Atkinson_2008_TIS"
 argument_key: "Argument_Atkinson_2008_TIS"
 argument_display_title: "Research universities: Core of the US science and technology system"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -242,7 +243,7 @@ issuing_organization: ""
 > [!theory-components] 布什报告对美国科学政策构想的四大支柱命题
 > - **支持科学而非直接行政干预**
 >   国家科学政策的核心在于为科学探索提供资源保障，而非由政府微观管制科学的具体应用，除非涉及国防等宪法明确规定的国家核心安全事务。（p.35）
-> - **以纯基础研究为联邦资助首要重心**
+> - **以[[Curiosity-Driven Research|纯基础研究]]为联邦资助首要重心**
 >   除国防技术之外，联邦公共资金资助科学的首要重点必须是纯基础研究，以此作为催生技术进步与工业创新的根本引擎。（p.35）
 > - **资助流程严格遵从科学家共同体学术规范**
 >   科研立项与资金分配必须严格依照学术共同体的内部准则，由科学家同行进行独立评审，坚决排斥非专业官僚的行政指挥。（p.35）

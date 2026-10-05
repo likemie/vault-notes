@@ -12,9 +12,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 25
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1998–2013"
 initiator_organization: "半导体行业协会（SIA）、国防高级研究计划局（DARPA）、Sematech、半导体研究公司（SRC）"
@@ -52,6 +52,8 @@ related_facts:
   - "[[Semiconductor Research Corporation]]"
   - "[[Bell Labs]]"
   - "[[CHIPS and Science Act]]"
+  - "[[National Semiconductor Technology Center]]"
+  - "[[National Science and Technology Council]]"
 related_arguments:
   - "[[Argument_Macher_1998_CMR]]"
   - "[[Argument_Ramming_2025_CorporateSupport]]"
@@ -59,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Focus Center Research Program
@@ -114,7 +116,7 @@ updated: 2026-10-05
 > [!dev-timeline] 项目推进历程
 > - **1998–2002 — 首期启动与首批焦点中心建设** MARCO / [[Semiconductor Research Corporation|SRC]] 正式挂牌，在佐治亚理工学院与加州大学伯克利分校设立首批两个焦点中心（互连中心与千兆尺度系统设计中心），确立产学协同规程。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 121, note 48)]]
 > - **2003–2012 — 体系扩展与后 CMOS 新器件探索** 增设材料与结构、纳米技术及自旋电子学焦点中心，覆盖全美 30 余所[[Research Universities|研究型大学]]的数百名教授与上千名博士生。
-> - **2013–至今 — 演化为 STARnet、JUMP 与对接《[[CHIPS and Science Act|芯片法案]]》** 2013 年 FCRP 升级为半导体技术先进研究网络（STARnet），2018 年进一步演进为微电子联合大学计划（JUMP / JUMP 2.0），并成为 2022 年《芯片与科学法案》国家半导体技术中心（NSTC）大学研究网络的基础母体。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
+> - **2013–至今 — 演化为 STARnet、JUMP 与对接《[[CHIPS and Science Act|芯片法案]]》** 2013 年 FCRP 升级为半导体技术先进研究网络（STARnet），2018 年进一步演进为微电子联合大学计划（JUMP / JUMP 2.0），并成为 2022 年《芯片与科学法案》[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）大学研究网络的基础母体。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
 
 ---
 

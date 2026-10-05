@@ -12,9 +12,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 12
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 19
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 总统执行办公室直属科技政策协调与咨询法定机构
 headquarters: 美国华盛顿特区艾森豪威尔行政办公楼（EEOB, Washington, D.C., USA）
@@ -26,25 +26,34 @@ tags:
   - policy/advisory-mechanism
   - governance/federal-administration
 related_concepts:
-  - "[[Congressional Earmarks]]"
   - "[[Technology-Oriented Social Contract]]"
-  - "[[Big Science]]"
+  - "[[Paradigm]]"
+  - "[[Research Security]]"
+  - "[[Congressional Earmarks]]"
 related_theories:
+  - "[[Pasteur's Quadrant]]"
   - "[[Social Contract of Science]]"
 related_facts:
+  - "[[National Science and Technology Council]]"
   - "[[President's Science Advisory Committee]]"
+  - "[[Science in the National Interest 1994]]"
+  - "[[A Strategy for American Innovation 2011]]"
+  - "[[Restoring Gold Standard Science Executive Order]]"
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
-  - "[[Science, The Endless Frontier 1945]]"
-  - "[[Restoring Gold Standard Science Executive Order]]"
   - "[[CHIPS and Science Act]]"
+  - "[[Science, The Endless Frontier 1945]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Fan_2026_BCAS]]"
+related_methods:
+  - "[[Correlational Research]]"
+related_persons:
+  - "[[Michael Kratsios]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Office of Science and Technology Policy
@@ -59,7 +68,7 @@ updated: 2026-10-05
 > [!org-context] 机构背景
 > - **立法依据** 1976 年 5 月 11 日由美国国会通过并由杰拉尔德·福特总统签署颁布的《1976 年国家科学技术政策、组织和优先事项法案》（National Science and Technology Policy, Organization and Priorities Act of 1976, P.L. 94-282）。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 39)]]
 > - **总部地点** 华盛顿特区白宫紧邻之艾森豪威尔行政办公楼（EEOB）。
-> - **双重法人职责** OSTP 主任依例兼任总统科学顾问（Science Adviser to the President），既直接为总统研判重大科技战略，又统筹由各内阁部长组成的美国内家科学技术委员会（National Science and Technology Council, NSTC）与民间学者专家组成的总统科技顾问委员会（President's Council of Advisors on Science and Technology, PCAST）。
+> - **双重法人职责** OSTP 主任依例兼任总统科学顾问（Science Adviser to the President），既直接为总统研判重大科技战略，又统筹由各内阁部长组成的美国内家科学技术委员会（[[National Science and Technology Council]], NSTC）与民间学者专家组成的总统科技顾问委员会（President's Council of Advisors on Science and Technology, PCAST）。
 > - **经费与人事编制** 依托联邦白宫专门拨款预算运行，拥有涵盖国家安全、前沿技术、能源环境、生命科学与科学政策的专职政策研究与协调团队。
 
 ---
@@ -70,10 +79,10 @@ updated: 2026-10-05
 > - **1962 — 肯尼迪创设科学技术办公室（OST）** 肯尼迪总统在白宫内部设立非法定性质的科学技术办公室（OST），由总统科学顾问杰罗姆·威斯纳（Jerome Wiesner）执掌，开始制度化统筹日益庞大的联邦科技体系。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
 > - **1973 — 越战冲突与尼克松裁撤科学顾问** 越战期间总统与学术界关系急剧恶化，尼克松总统视[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）为大学学界插手白宫的游说团，于 1973 年悍然解散 PSAC 并废除总统科学顾问职位，白宫科技决策中枢陷入真空。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 39)]]
 > - **1975–1976 — 福特立法纠偏与法定机构 OSTP 确立** 福特总统上台后积极修复政学关系，国会两院通过公法 P.L. 94-282，正式将科技顾问机构确立为法定常设局（Statutory Agency），主任须经参议院确认并负有出席国会听证作证义务。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 39–40)]]
-> - **1993–1994 — 冷战后“重新签约”与《科学与国家利益》** 面对苏联解体与赤字攀升，克林顿与戈尔政府依托 OSTP 于 1994 年发布纲领性报告《科学与国家利益》（*Science in the National Interest*），将科学功能由国防安全转向经济繁荣与社会福祉，呼应了巴斯德象限理论，确立了跨部门协同与多重契约交叠。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
-> - **2011 — 奥巴马政府“宏大挑战”与创新战略导向** OSTP 协同国家经济委员会发布《美国创新战略》，将国家基础科研引导至清洁能源、先进制造等重大战略挑战，加速基础研究从自由探索转向外部使命牵引。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
+> - **1993–1994 — 冷战后“重新签约”与《[[Science in the National Interest 1994|科学与国家利益]]》** 面对苏联解体与赤字攀升，克林顿与戈尔政府依托 OSTP 于 1994 年发布纲领性报告《科学与国家利益》（*Science in the National Interest*），将科学功能由国防安全转向经济繁荣与社会福祉，呼应了[[Pasteur's Quadrant|巴斯德象限]]理论，确立了跨部门协同与多重契约交叠。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
+> - **2011 — 奥巴马政府“宏大挑战”与创新战略导向** OSTP 协同国家经济委员会发布《[[A Strategy for American Innovation 2011|美国创新战略]]》，将国家基础科研引导至清洁能源、先进制造等重大战略挑战，加速基础研究从自由探索转向外部使命牵引。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 > - **2025–2026 — 特朗普第二任期“再集中与再动员”及技术型契约落地**
->   - 2025 年 3 月，特朗普向 OSTP 主任迈克尔·克拉西奥斯（Michael Kratsios）发出总统指示，要求彻底聚焦前沿战略技术获取；
+>   - 2025 年 3 月，特朗普向 OSTP 主任迈克尔·克拉西奥斯（[[Michael Kratsios]]）发出总统指示，要求彻底聚焦前沿战略技术获取；
 >   - 2026 年 1 月，OSTP 发布《特朗普政府科学技术一年亮点》（*Trump Administration Science & Technology Highlights*），宣告科技治理迈入“再集中与再动员”新阶段；
 >   - 牵头落实“人工智能行动计划”与“创世纪计划”（The Genesis Mission），直接动员国家实验室与私营科技巨头，配合财政扣留拨款（impoundment）与《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，标志着从认知咨询向技术采购动员的结构性转向。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]
 
@@ -88,8 +97,8 @@ updated: 2026-10-05
 >   公法 P.L. 94-282 将 OSTP 明确设立为总统执行办公室内的法定机构（Statutory Agency）；这一转变带来深远影响：其主任提名必须经美国参议院听证批准，且当国会委员会要求时，OSTP 主任必须出席国会听证会接受质询并作证，从而将科学顾问机制从单纯服务总统个人意志转变为接受民主宪政监督的公共制度资产。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 40)]]
 
 > [!tension] 科学共同体认知权威代表 vs 总统定向指令与技术动员执行者
-> - **经典科学社会契约下的 OSTP** 作为连接顶尖大学科学家与白宫的专业制度界面，维护科学共同体对未知探索的自主裁量权，协助联邦研发资金按同行评议原则分配。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
-> - **2025 年技术型社会契约下的 OSTP** 转型为执行“总统定向—联邦统筹—部门执行—公私伙伴”动员链条的操作中枢；不再以基础知识发现为最高追求，而是将赢得人工智能、量子计算与先进半导体竞赛界定为核心国家利益，动用行政审计与扣留拨款管控科研方向。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]
+> - **经典[[Social Contract of Science|科学社会契约]]下的 OSTP** 作为连接顶尖大学科学家与白宫的专业制度界面，维护科学共同体对未知探索的自主裁量权，协助联邦研发资金按同行评议原则分配。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
+> - **2025 年[[Technology-Oriented Social Contract|技术型社会契约]]下的 OSTP** 转型为执行“总统定向—联邦统筹—部门执行—公私伙伴”动员链条的操作中枢；不再以基础知识发现为最高追求，而是将赢得人工智能、量子计算与先进半导体竞赛界定为核心国家利益，动用行政审计与扣留拨款管控科研方向。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]
 
 ---
 
@@ -101,8 +110,8 @@ updated: 2026-10-05
 > *2025 年标志着美国科技政策进入再集中与再动员阶段，OSTP 统领资源向人工智能、量子等关键技术集中，推动政策转向国家竞争与产业安全优势导向。*
 
 > [!finding-cards] 关键战略报告与历史辐射
-> - **1994 年《科学与国家利益》（*Science in the National Interest*）** 克林顿与戈尔时期由 OSTP 主导编制，系统奠定了后冷战时期联邦资助基础科研转向经济竞争力与社会繁荣的战略航标。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1059)]]
-> - **2011 年《美国创新战略》（*A Strategy for American Innovation*）** OSTP 参与主导，首次在联邦顶层设计中系统确立应对能源、卫生与先进制造等“宏大挑战”的使命驱动科研范式。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
+> - **1994 年《[[Science in the National Interest 1994|科学与国家利益]]》（*Science in the National Interest*）** 克林顿与戈尔时期由 OSTP 主导编制，系统奠定了后冷战时期联邦资助基础科研转向经济竞争力与社会繁荣的战略航标。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1059)]]
+> - **2011 年《[[A Strategy for American Innovation 2011|美国创新战略]]》（*A Strategy for American Innovation*）** OSTP 参与主导，首次在联邦顶层设计中系统确立应对能源、卫生与先进制造等“宏大挑战”的使命驱动科研[[Paradigm|范式]]。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 > - **2026 年《特朗普政府科学技术一年亮点》（*Trump Administration Science & Technology Highlights*）** 系统总结 2025 年以来的治理变革，确立人工智能与先进制造业技术主导权，将研发重点由大学基础探索转向国家实验室攻关与企业采购。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
 > - **年度联邦研发优先事项联合备忘录** 每年与白宫行政管理和预算局（OMB）联合签发，统摄国防部、能源部、[[National Science Foundation|NSF]]、NASA 及 [[National Institutes of Health|NIH]] 等机构数千亿美元研发预算的投向。
 
@@ -132,10 +141,10 @@ updated: 2026-10-05
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Social Contract of Science]] | Theory | OSTP 历经 1976 确立、1994 重新签约至 2025 技术型转向的完整契约演变全周期。 |
-> | [[Technology-Oriented Social Contract]] | Concept | 2025 年起 OSTP 主导落地的全新科技政策范式，聚焦技术直接获取与行政集中动员。 |
+> | [[Technology-Oriented Social Contract]] | Concept | 2025 年起 OSTP 主导落地的全新科技政策[[Paradigm\|范式]]，聚焦技术直接获取与行政集中动员。 |
 > | [[President's Science Advisory Committee]] | Fact (Organization) | 1957—1973 年白宫最高科技咨询前身机构，后演变为由 OSTP 支持的 PCAST。 |
 > | [[Restoring Gold Standard Science Executive Order]] | Fact (Policy) | 2025 年特朗普政府颁布的标志性行政令，由 OSTP 协同落实科学可复验性与行政审计。 |
-> | [[CHIPS and Science Act]] | Fact (Policy) | 2022 年由 OSTP 协同各部门执行的产业政策与科研安全重大立法。 |
+> | [[CHIPS and Science Act]] | Fact (Policy) | 2022 年由 OSTP 协同各部门执行的产业政策与[[Research Security\|科研安全]]重大立法。 |
 > | [[National Science Foundation]] | Fact (Organization) | 接受白宫科技战略协调并在基础研究领域落地实施的独立资助机构。 |
 > | [[National Institutes of Health]] | Fact (Organization) | OSTP 统筹预算与卫生科学战略的旗舰联邦研发机构。 |
 > | [[Science, The Endless Frontier 1945]] | Fact (Policy) | 奠定战后国家支持基础科学体制的思想理论母本。 |
@@ -146,5 +155,5 @@ updated: 2026-10-05
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从科学社会契约宏观视角，系统剖析 OSTP 在 1994 年《科学与国家利益》重新签约、2011 年宏大挑战以及 2025 年《亮点》报告“再集中与再动员”结构性转型中的制度枢纽功能。
+> - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]宏观视角，系统剖析 OSTP 在 1994 年《[[Science in the National Interest 1994|科学与国家利益]]》重新签约、2011 年宏大挑战以及 2025 年《亮点》报告“再集中与再动员”结构性转型中的制度枢纽功能。
 > - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]] — 详尽论证 1976 年公法 P.L. 94-282 创立 OSTP 的立法动因与宪政意义，剖析白宫科学顾问由总统个人幕僚转向具有国会作证义务的法定实体历程。

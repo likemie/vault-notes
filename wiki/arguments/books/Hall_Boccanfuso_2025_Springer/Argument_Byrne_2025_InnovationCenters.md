@@ -54,6 +54,7 @@ related_facts:
   - "[[University of Illinois Research Park]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Science Foundation]]"
+  - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[Brookings Institution]]"
 related_arguments: []
 sources:
@@ -69,7 +70,7 @@ title: "Argument_Byrne_2025_InnovationCenters"
 argument_key: "Argument_Byrne_2025_InnovationCenters"
 argument_display_title: "Innovation Centers and Economic Development"
 argument_kind: "book"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -314,7 +315,7 @@ citation_aliases:
 
     2022 年《[[CHIPS and Science Act|创造有益激励以生产半导体法案]]》（Creating Helpful Incentives to Produce Semiconductors Act，CHIPS 法案）拨款超过 100 亿美元用于"技术枢纽"（Tech Hubs）计划，期限长达五年。2023 年，5 亿美元被正式拨付启动该计划。2024 年 2 月，12 个地点被选定接受能力建设资助（capacity-building grants），用于扩大新兴技术的规模化应用(pp.133–134)。
 
-    [[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）通过其技术、创新与合作理事会（Technology, Innovation, and Partnerships, TIP）也从 2022 年《CHIPS 与科学法案》（CHIPS and Science Act）获得了联邦拨款。2024 年 1 月，NSF TIP 向 10 个区域创新合作体授予了高达 1.6 亿美元的十年期资助，此前已向全国各地的团队授予了 44 项不同的能力建设资助(p.134)。根据[[Brookings Institution|布鲁金斯学会]]（Brookings Institution）的分析，联邦新增创新支出的很大比例将指向基础设施和产业基础较弱、历史上联邦研发资金份额较低的地区(p.137)。这意味着新一批创新中心将面临与硅谷或波士顿截然不同的挑战。
+    [[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）通过其[[Directorate for Technology, Innovation and Partnerships|技术、创新与合作理事会]]（Technology, Innovation, and Partnerships, TIP）也从 2022 年《CHIPS 与科学法案》（CHIPS and Science Act）获得了联邦拨款。2024 年 1 月，NSF TIP 向 10 个区域创新合作体授予了高达 1.6 亿美元的十年期资助，此前已向全国各地的团队授予了 44 项不同的能力建设资助(p.134)。根据[[Brookings Institution|布鲁金斯学会]]（Brookings Institution）的分析，联邦新增创新支出的很大比例将指向基础设施和产业基础较弱、历史上联邦研发资金份额较低的地区(p.137)。这意味着新一批创新中心将面临与硅谷或波士顿截然不同的挑战。
 
 20. 除联邦层面外，多个州的创新资金机制也值得关注(pp.133–134)。
 
