@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Fan_2026_BCAS",
+      "path": "wiki/arguments/journal-articles/Bulletin of Chinese Academy of Sciences/Argument_Fan_2026_BCAS.md"
+    },
+    {
+      "basename": "Office of Naval Research",
+      "path": "wiki/facts/us/Office of Naval Research.md"
+    },
+    {
+      "basename": "Science, The Endless Frontier 1945",
+      "path": "wiki/facts/us/Science, The Endless Frontier 1945.md"
+    },
+    {
+      "basename": "Vannevar Bush",
+      "path": "wiki/persons/us/Vannevar Bush.md"
+    },
+    {
+      "basename": "Pasteur's Quadrant",
+      "path": "wiki/theories/science-policy/Pasteur's Quadrant.md"
+    },
+    {
+      "basename": "Use-Inspired Basic Research",
+      "path": "wiki/concepts/university-industry-collaboration/Use-Inspired Basic Research.md"
+    },
+    {
+      "basename": "Knowledge Production",
+      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
+    },
+    {
+      "basename": "Technology-Oriented Social Contract",
+      "path": "wiki/concepts/science-policy/Technology-Oriented Social Contract.md"
+    },
+    {
+      "basename": "Research Security",
+      "path": "wiki/concepts/university-industry-collaboration/Research Security.md"
+    },
+    {
+      "basename": "Social Contract of Science",
+      "path": "wiki/theories/science-policy/Social Contract of Science.md"
+    },
+    {
+      "basename": "Research Universities",
+      "path": "wiki/concepts/higher-education/Research Universities.md"
+    },
+    {
       "basename": "Argument_Logar_2014_Minerva",
       "path": "wiki/arguments/journal-articles/Minerva/Argument_Logar_2014_Minerva.md"
     },
@@ -105,10 +149,6 @@
       "path": "wiki/arguments/journal-articles/Revue d'économie industrielle/Argument_Fabrizio_Mowery_2005_REI.md"
     },
     {
-      "basename": "Vannevar Bush",
-      "path": "wiki/persons/us/Vannevar Bush.md"
-    },
-    {
       "basename": "Education for All",
       "path": "wiki/facts/global/Education for All.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "Technology Transfer",
       "path": "wiki/concepts/university-industry-collaboration/Technology Transfer.md"
-    },
-    {
-      "basename": "Argument_Susalka_Carbone_2025_IP_Web",
-      "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Susalka_Carbone_2025_IP_Web.md"
-    },
-    {
-      "basename": "David C. Mowery",
-      "path": "wiki/persons/us/David C. Mowery.md"
-    },
-    {
-      "basename": "Structural Adjustment Programs",
-      "path": "wiki/concepts/comparative-education/Structural Adjustment Programs.md"
-    },
-    {
-      "basename": "Network Analysis",
-      "path": "wiki/methods/mixed/Network Analysis.md"
-    },
-    {
-      "basename": "DARPA",
-      "path": "wiki/facts/us/DARPA.md"
-    },
-    {
-      "basename": "Argument_Brint_2023_IHE",
-      "path": "wiki/arguments/journal-articles/International Higher Education/Argument_Brint_2023_IHE.md"
-    },
-    {
-      "basename": "Human Capital Theory",
-      "path": "wiki/theories/political-economy-geopolitics/Human Capital Theory.md"
-    },
-    {
-      "basename": "Semi-Automatic Ground Environment",
-      "path": "wiki/facts/us/Semi-Automatic Ground Environment.md"
-    },
-    {
-      "basename": "European Research Area",
-      "path": "wiki/facts/eu/European Research Area.md"
-    },
-    {
-      "basename": "Knowledge Mediation",
-      "path": "wiki/concepts/educational-policy-reform/Knowledge Mediation.md"
     }
   ],
   "omittedPaths": [],
