@@ -67,8 +67,7 @@
               "title": "Argument_Stephan_2013_NBER"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,14 +269,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ce0c3314a2a583a3",
+  "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
+    "books/Hall_Boccanfuso_2025_Springer/figures/Figure_12-1_Research_translation_indicators_tmp-16.jpg",
+    "books/Hall_Boccanfuso_2025_Springer/figures/Figure_12-1_Research_translation_indicators.jpg",
+    "wiki/facts/us/March for Science 2017.md",
     "wiki/arguments/journal-articles/Bulletin of Chinese Academy of Sciences/Argument_Fan_2026_BCAS.md",
     "wiki/facts/us/A Strategy for American Innovation 2011.md",
     "wiki/templates/template-fact-policy.md",
     "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ramming_2025_CorporateSupport.md",
     "wiki/persons/us/Michael Kratsios.md",
-    "wiki/facts/us/March for Science 2017.md",
     "wiki/persons/us/Sheila Slaughter.md",
     "wiki/persons/us/David Guston.md",
     "wiki/concepts/science-policy/Public Value.md",
@@ -297,7 +298,6 @@
     "wiki/facts/us/Office of Science and Technology Policy.md",
     "wiki/concepts/science-policy/Big Science.md",
     "wiki/persons/us/Donald Stokes.md",
-    "wiki/facts/us/Sputnik Shock 1957.md",
     "sources/Fan_2026_BCAS.pdf",
     "wiki/arguments/journal-articles/Bulletin of Chinese Academy of Sciences",
     "raw_extracted_paper.txt",
@@ -316,7 +316,6 @@
     "sources/Fabrizio_Mowery_2005_REI/figures/Fabrizio_Mowery_2005_REI_Fig1_Defense_Nondefense_Share_Federal_RD.jpg",
     "sources_page-9.png",
     "sources_page-8.png",
-    "sources_page-7.png",
-    "sources_page-6.png"
+    "sources_page-7.png"
   ]
 }
