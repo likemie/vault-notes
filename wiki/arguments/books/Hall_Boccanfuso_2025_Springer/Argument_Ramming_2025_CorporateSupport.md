@@ -34,13 +34,13 @@ related_concepts:
   - "[[Document]]"
   - "[[Technology Transfer Office]]"
   - "[[Technology Transfer]]"
-  - "[[Corporate R&D Labs]]"
   - "[[Research Translation]]"
-  - "[[Sponsored Research Agreement]]"
   - "[[Joint Faculty Appointments]]"
+  - "[[Sponsored Research Agreement]]"
   - "[[Industry Affiliate Program]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Return on Investment]]"
+  - "[[Corporate R&D Labs]]"
   - "[[Corporate Venture Capital]]"
   - "[[Paradigm]]"
   - "[[Innovation Ecosystem]]"
@@ -107,12 +107,12 @@ publisher: "Springer"
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **实践者与利益相关者二元区分**<br>[[Academic Engagement Team\|Practitioner vs. Stakeholder Distinction]] | 区分直接负责产学合作预算审批、合同管理与统筹协调的专职人员（实践者），与实际承接技术成果、投入工程人员与使用测试设备的业务团队（利益相关者），明确 AET 是支持与协调者而非最终商业转化者的角色定位。（pp. 217–218） |
-> | **叠加层组织构型**<br>[[Corporate R&D Labs\|AET Overlay Configuration]] | 说明 AET 并非孤立的业务部门，而是嵌入并叠加在既有业务单元之上的跨部门网络，揭示实践者在没有直接行政命令权时，必须依靠组织沟通与利益协商开展工作。（pp. 222–223） |
-> | **九维企业支持分析框架**<br>[[University-Industry Collaboration\|Nine-Dimensional Support Framework]] | 涵盖经营哲学、绩效指标、资助结构、决策机制、组织设计、发展阶段、时间协调、[[Research Translation\|技术转化]]与外部伙伴九个维度，为诊断内部阻力与制定应对策略提供系统依据。（pp. 218–225） |
-> | **梯级协议工具矩阵**<br>[[Sponsored Research Agreement\|Timescale Hierarchy & Agreement Vehicles]] | 建立从短期技术咨询、中期学生实习与访问学者、双重聘用[[Joint Faculty Appointments\|联合教职]]到长期赞助研究协议的契约组合，使长周期学术探索与工业界的阶段性交付要求相适应。（pp. 229–231） |
-> | **三轨技术转化路径模型**<br>[[Research Translation\|Tri-Pathway Translation Funnel]] | 区分内部产品吸收（自主研发）、外部初创收购（资本并购）与共性生态建设（消除行业瓶颈）三条转化路径，通过阶段性里程碑降低早期研发转移的风险。（pp. 231–233） |
-> | **产业技术转折点假说**<br>[[Technological Trajectories\|Strategic Inflection Points Hypothesis]] | 指出当底层物理规律或制造工艺接近极限时，行业领先企业必须跳出常规的部门微调模式，组织全行业规模的产学协同以确立新的技术体系。（pp. 234–236） |
+> | **实践者与利益相关者二元区分**<br>Practitioner vs. Stakeholder Distinction | 区分直接负责产学合作预算审批、合同管理与统筹协调的专职人员（实践者），与实际承接技术成果、投入工程人员与使用测试设备的业务团队（利益相关者），明确 [[Academic Engagement Team\|AET]] 是支持与协调者而非最终商业转化者的角色定位。（pp. 217–218） |
+> | **叠加层组织构型**<br>AET Overlay Configuration | 说明 [[Academic Engagement Team\|AET]] 并非孤立的业务部门，而是嵌入并叠加在既有业务单元之上的跨部门矩阵网络，揭示实践者在没有直接行政命令权时，必须依靠组织沟通与利益协商开展工作。（pp. 222–223） |
+> | **九维企业支持分析框架**<br>Nine-Dimensional Support Framework | 涵盖经营哲学、绩效指标、资助结构、决策机制、组织设计、发展阶段、时间协调、[[Research Translation\|技术转化]]与外部伙伴九个维度，为诊断内部阻力与制定应对策略提供系统依据。（pp. 218–225） |
+> | **梯级协议工具矩阵**<br>Timescale Hierarchy & Agreement Vehicles | 建立从短期技术咨询、中期学生实习与访问学者、双重聘用[[Joint Faculty Appointments\|联合教职]]到长期[[Sponsored Research Agreement\|赞助研究协议]]（SRA）的契约组合，使长周期学术探索与工业界的阶段性交付要求相适应。（pp. 229–231） |
+> | **三轨技术转化路径模型**<br>Tri-Pathway Translation Funnel | 区分内部产品吸收（自主研发）、外部初创收购（资本并购）与共性生态建设（消除行业瓶颈）三条[[Research Translation\|技术转化]]路径，通过阶段性里程碑降低早期研发转移的风险。（pp. 231–233） |
+> | **产业技术转折点假说**<br>Strategic Inflection Points Hypothesis | 指出当底层物理规律或制造工艺接近极限时，行业领先企业必须跳出常规的部门微调模式，组织全行业规模的产学协同以确立新的[[Technological Trajectories\|技术轨道]]。（pp. 234–236） |
 
 > [!warrant]- 理论工具如何支撑论证展开
 > 上述分析工具为全文提供了递进的逻辑支撑：二元区分与叠加层构型首先指明了实践者的制度处境，解释了为何单纯依靠行政命令无法保证技术落地；九维[[Analytic Framework|分析框架]]与梯级协议矩阵进而为化解部门壁垒与时间冲突提供了务实手段；最终，转折点假说与转化路径模型将产学合作从单纯的项目申请提升为企业应对重大技术危机的战略选择。
