@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/university-industry-collaboration/University-Industry Collaboration.md",
+                "file": "wiki/concepts/higher-education/Academic Freedom.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "University-Industry Collaboration"
+              "title": "Academic Freedom"
             }
           },
           {
@@ -272,9 +272,15 @@
   "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
     "wiki/arguments/journal-articles/Minerva/Argument_Logar_2014_Minerva.md",
-    "wiki/facts/us/Semiconductor Research Corporation.md",
-    "wiki/concepts/university-industry-collaboration/Precompetitive Research.md",
     "wiki/arguments/journal-articles/Cambridge Journal of Economics/Argument_Freeman_1995_CJE.md",
+    "wiki/facts/us/Focus Center Research Program.md",
+    "wiki/facts/us/Sematech.md",
+    "wiki/methods/qualitative/Semi-structured Interview.md",
+    "wiki/theories/political-economy-geopolitics/Technological Trajectories.md",
+    "wiki/concepts/university-industry-collaboration/Precompetitive Research.md",
+    "wiki/facts/us/Bell Labs.md",
+    "wiki/concepts/university-industry-collaboration/University-Industry Collaboration.md",
+    "wiki/facts/us/Semiconductor Research Corporation.md",
     "wiki/concepts/university-industry-collaboration/Membership-based Research Consortium.md",
     "sources/Logar_2014_Minerva/figures/Logar_2014_Minerva_Fig1_SRC_Funding_Trends.jpg",
     "sources/Logar_2014_Minerva/figures/Logar_2014_Minerva_Fig1_SRC_Funding_Trends.png",
@@ -299,13 +305,7 @@
     "wiki/persons/global/Carlota Perez.md",
     "wiki/persons/japan",
     "wiki/concepts/political-economy-geopolitics/Technological Catch-up.md",
-    "wiki/theories/political-economy-geopolitics/Techno-economic Paradigm.md",
-    "wiki/concepts/university-industry-collaboration/User-Producer Interaction.md",
-    "wiki/persons/denmark/Bengt-Åke Lundvall.md",
-    "wiki/persons/germany/Friedrich List.md",
     "tmp_freeman_text.txt",
-    "wiki/concepts/university-industry-collaboration/National Innovation System.md",
-    "wiki/concepts/university-industry-collaboration/Regional Innovation System.md",
     "wiki/arguments/journal-articles/Cambridge Journal of Economics",
     "sources/Freeman_1995_CJE.pdf",
     "raw/the-national-system-of-innovation-in-historical-perspective-1995.pdf",

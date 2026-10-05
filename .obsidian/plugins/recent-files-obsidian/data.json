@@ -1,24 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "University-Industry Collaboration",
-      "path": "wiki/concepts/university-industry-collaboration/University-Industry Collaboration.md"
+      "basename": "Academic Freedom",
+      "path": "wiki/concepts/higher-education/Academic Freedom.md"
     },
     {
       "basename": "Argument_Logar_2014_Minerva",
       "path": "wiki/arguments/journal-articles/Minerva/Argument_Logar_2014_Minerva.md"
     },
     {
-      "basename": "Semiconductor Research Corporation",
-      "path": "wiki/facts/us/Semiconductor Research Corporation.md"
+      "basename": "Argument_Freeman_1995_CJE",
+      "path": "wiki/arguments/journal-articles/Cambridge Journal of Economics/Argument_Freeman_1995_CJE.md"
+    },
+    {
+      "basename": "Focus Center Research Program",
+      "path": "wiki/facts/us/Focus Center Research Program.md"
+    },
+    {
+      "basename": "Sematech",
+      "path": "wiki/facts/us/Sematech.md"
+    },
+    {
+      "basename": "Semi-structured Interview",
+      "path": "wiki/methods/qualitative/Semi-structured Interview.md"
+    },
+    {
+      "basename": "Technological Trajectories",
+      "path": "wiki/theories/political-economy-geopolitics/Technological Trajectories.md"
     },
     {
       "basename": "Precompetitive Research",
       "path": "wiki/concepts/university-industry-collaboration/Precompetitive Research.md"
     },
     {
-      "basename": "Argument_Freeman_1995_CJE",
-      "path": "wiki/arguments/journal-articles/Cambridge Journal of Economics/Argument_Freeman_1995_CJE.md"
+      "basename": "Bell Labs",
+      "path": "wiki/facts/us/Bell Labs.md"
+    },
+    {
+      "basename": "University-Industry Collaboration",
+      "path": "wiki/concepts/university-industry-collaboration/University-Industry Collaboration.md"
+    },
+    {
+      "basename": "Semiconductor Research Corporation",
+      "path": "wiki/facts/us/Semiconductor Research Corporation.md"
     },
     {
       "basename": "Membership-based Research Consortium",
@@ -141,10 +165,6 @@
       "path": "wiki/concepts/comparative-education/Structural Adjustment Programs.md"
     },
     {
-      "basename": "Technological Trajectories",
-      "path": "wiki/theories/political-economy-geopolitics/Technological Trajectories.md"
-    },
-    {
       "basename": "Network Analysis",
       "path": "wiki/methods/mixed/Network Analysis.md"
     },
@@ -169,10 +189,6 @@
       "path": "wiki/facts/eu/European Research Area.md"
     },
     {
-      "basename": "Bell Labs",
-      "path": "wiki/facts/us/Bell Labs.md"
-    },
-    {
       "basename": "Knowledge Mediation",
       "path": "wiki/concepts/educational-policy-reform/Knowledge Mediation.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "American Association for the Advancement of Science",
       "path": "wiki/facts/us/American Association for the Advancement of Science.md"
-    },
-    {
-      "basename": "Second-Sourcing",
-      "path": "wiki/concepts/science-policy/Second-Sourcing.md"
-    },
-    {
-      "basename": "Cold War University",
-      "path": "wiki/concepts/higher-education/Cold War University.md"
-    },
-    {
-      "basename": "Argument_Cheng_2026_KeJiChuangXin",
-      "path": "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md"
-    },
-    {
-      "basename": "China S&T Innovation Policy Evolution",
-      "path": "wiki/facts/china/China S&T Innovation Policy Evolution.md"
     }
   ],
   "omittedPaths": [],
