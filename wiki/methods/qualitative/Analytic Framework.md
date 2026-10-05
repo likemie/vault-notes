@@ -9,7 +9,7 @@ summary: "质性研究与比较教育研究中超越参与者日常语言、运�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 36
+method_related_count: 38
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"

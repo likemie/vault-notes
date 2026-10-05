@@ -9,7 +9,7 @@ aliases:
 summary: "大学研究成果与前沿工业创新转化为商业应用与产业扩散的过程。除以 Bayh-Dole Act 为核心的专利排他许可与 TTO 商业化路径外，战后信息技术体系亦证实了公共领域开源披露、强制第二供应商工艺诀窍转移与科研人才跨界流动等非专利技术转移机制的决定性作用。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"

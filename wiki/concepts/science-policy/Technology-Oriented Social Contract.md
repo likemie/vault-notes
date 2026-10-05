@@ -6,10 +6,10 @@ aliases:
 summary: "以国家竞争、产业优势与安全控制为导向，强调快速获取、部署与审计关键技术能力的国家与科研群体间新型权利责任关系形态，标志着科技治理由认知中心向能力中心的结构性转移"
 type: concept
 domain: "science-policy"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/science-policy
   - theme/state-science-relations

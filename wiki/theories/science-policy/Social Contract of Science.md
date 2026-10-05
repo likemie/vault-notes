@@ -8,10 +8,10 @@ aliases:
 summary: "社会整体与科学共同体之间围绕知识生产的公共价值形成的权利与责任结构性配置框架，核心涵盖合法性基础、制度与资源支持、自治空间、功能期待与责任结构五个分析维度"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 0
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 24
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theme/science-policy
   - theme/research-governance
