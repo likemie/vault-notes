@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "University-Industry Collaboration",
+      "path": "wiki/concepts/university-industry-collaboration/University-Industry Collaboration.md"
+    },
+    {
       "basename": "Argument_Logar_2014_Minerva",
       "path": "wiki/arguments/journal-articles/Minerva/Argument_Logar_2014_Minerva.md"
+    },
+    {
+      "basename": "Semiconductor Research Corporation",
+      "path": "wiki/facts/us/Semiconductor Research Corporation.md"
     },
     {
       "basename": "Precompetitive Research",
@@ -191,14 +199,6 @@
     {
       "basename": "China S&T Innovation Policy Evolution",
       "path": "wiki/facts/china/China S&T Innovation Policy Evolution.md"
-    },
-    {
-      "basename": "Research Universities",
-      "path": "wiki/concepts/higher-education/Research Universities.md"
-    },
-    {
-      "basename": "Made in China 2025",
-      "path": "wiki/facts/china/Made in China 2025.md"
     }
   ],
   "omittedPaths": [],

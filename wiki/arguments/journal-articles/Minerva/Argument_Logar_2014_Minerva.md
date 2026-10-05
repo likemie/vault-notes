@@ -7,9 +7,9 @@ title: "Argument_Logar_2014_Minerva"
 argument_key: "Argument_Logar_2014_Minerva"
 argument_display_title: "Semiconductor Research Corporation: A case study in cooperative innovation partnerships"
 argument_kind: "journal-article"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 26
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Minerva
 authors:
@@ -217,12 +217,12 @@ tags:
 > - **研发背景与资助介入** 20 世纪 90 年代，随着微处理器引脚密度激增以及欧盟等国际环保法规对传统铅焊料的严厉限制，半导体封装面临前所未有的材料与工艺瓶颈。SRC 提前十年布局资助大学开展无铅焊料冶金物理与倒装芯片互连研究。（p. 244）
 > - **科研产出与行业采纳** 2002 年产出该领域最具里程碑意义的高被引论文（被引 578 次，其中超过 20% 来自工业界）；SRC 累计资助产出 10 篇百引以上的系列论文。至 2000 年代中期，该工艺在英特尔、IBM 等成员企业全面实现商业化量产，帮助全行业顺利跨越了环保合规与高密度互连门槛。
 
-> [!case] 关键技术突破案例二：三面金属栅鳍式场效应晶体管（Fin Field-Effect Transistor, FinFET）
+> [!case] 关键技术突破案例二：三面金属栅鳍式场效应晶体管（Fin field-Effect Transistor, FinFET）
 > - **研发背景与资助介入** 传统二维平面 CMOS 晶体管在微缩至纳米尺度下面临严重的短沟道效应与漏电功耗激增危机。SRC 于 20 世纪 90 年代末前瞻性资助加州大学伯克利分校（University of California, Berkeley）等高校团队攻关三维立体晶体管架构。（p. 245）
 > - **科研产出与行业采纳** 攻克了 FinFET 的核心栅极结构、物理建模与关键制造参数，为英特尔等企业随后商业化 22nm 及以下先进制程奠定了核心工艺理论基石；该突破以极小的前期投入大幅延长了全美既有硅制造基础设施的服役寿命，避免了推倒重建的高昂沉没成本。
 
 > [!stat-cards]- SRC 关键科研产出指标
-> - **377 项专利** 截至文献发表，SRC 资助的大学科研累计催生 377 项授权专利，为全行业提供共有技术底座。（p. 244）
+> - **377 项专利** 截至[[Document|文献]]发表，SRC 资助的大学科研累计催生 377 项授权专利，为全行业提供共有技术底座。（p. 244）
 > - **72 篇高工业引用文献** 在 125 篇被引超过 100 次的高影响力论文中，多达 72 篇（58%）的引用中超过 15% 来自工业界，彰显了极高的商业相关性。
 > - **年均 1,500 名博士生** 每年稳定资助近 1,500 名博士研究生开展半导体相关前沿探索，成为全美集成电路人才核心摇篮。（p. 245）
 > - **9,200+ 毕业生储备** 各子计划累计培养超过 9,200 名高层次工程技术毕业生（其中 GRC 培养 6,861 人，FCRP 培养 1,963 人，NRI 培养 382 人）。（p. 246）
