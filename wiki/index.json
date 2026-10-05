@@ -24736,6 +24736,19 @@
     ]
   },
   {
+    "title": "Gewerbe-Institut",
+    "type": "fact",
+    "path": "wiki/facts/germany/Gewerbe-Institut.md",
+    "aliases": [
+      "普鲁士工艺学院",
+      "普鲁士皇家工艺学校",
+      "柏林皇家工艺学院",
+      "Gewerbeinstitut",
+      "Royal Gewerbe-Institut",
+      "Gewerbeinstitut Berlin"
+    ]
+  },
+  {
     "title": "Institute for Educational Monitoring and Quality Improvement",
     "type": "fact",
     "path": "wiki/facts/germany/Institute for Educational Monitoring and Quality Improvement.md",
@@ -25519,6 +25532,17 @@
       "全民教育倡议",
       "全民教育运动",
       "Education for All (EFA)"
+    ]
+  },
+  {
+    "title": "Frascati Manual",
+    "type": "fact",
+    "path": "wiki/facts/global/Frascati Manual.md",
+    "aliases": [
+      "弗拉斯卡蒂手册",
+      "弗拉斯卡蒂定义",
+      "Frascati Manual 1963",
+      "Frascati definitions"
     ]
   },
   {
