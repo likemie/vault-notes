@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Public-Private Partnership in Research",
+      "path": "wiki/concepts/university-industry-collaboration/Public-Private Partnership in Research.md"
+    },
+    {
       "basename": "Argument_Ramming_2025_CorporateSupport",
       "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ramming_2025_CorporateSupport.md"
+    },
+    {
+      "basename": "Semiconductor Research Corporation",
+      "path": "wiki/facts/us/Semiconductor Research Corporation.md"
+    },
+    {
+      "basename": "Technology Transfer Office",
+      "path": "wiki/concepts/university-industry-collaboration/Technology Transfer Office.md"
+    },
+    {
+      "basename": "Innovation Ecosystem",
+      "path": "wiki/concepts/university-industry-collaboration/Innovation Ecosystem.md"
+    },
+    {
+      "basename": "Corporate Venture Capital",
+      "path": "wiki/concepts/university-industry-collaboration/Corporate Venture Capital.md"
+    },
+    {
+      "basename": "Return on Investment",
+      "path": "wiki/concepts/university-industry-collaboration/Return on Investment.md"
+    },
+    {
+      "basename": "Generative Artificial Intelligence",
+      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
     },
     {
       "basename": "Sponsored Research Agreement",
@@ -45,10 +73,6 @@
       "path": "wiki/concepts/university-industry-collaboration/Academic Engagement Team.md"
     },
     {
-      "basename": "Technology Transfer Office",
-      "path": "wiki/concepts/university-industry-collaboration/Technology Transfer Office.md"
-    },
-    {
       "basename": "March for Science 2017",
       "path": "wiki/facts/us/March for Science 2017.md"
     },
@@ -73,10 +97,6 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mitter_2009_Europe.md"
     },
     {
-      "basename": "Semiconductor Research Corporation",
-      "path": "wiki/facts/us/Semiconductor Research Corporation.md"
-    },
-    {
       "basename": "Argument_Logar_2014_Minerva",
       "path": "wiki/arguments/journal-articles/Minerva/Argument_Logar_2014_Minerva.md"
     },
@@ -91,10 +111,6 @@
     {
       "basename": "Restoring Gold Standard Science Executive Order",
       "path": "wiki/facts/us/Restoring Gold Standard Science Executive Order.md"
-    },
-    {
-      "basename": "Generative Artificial Intelligence",
-      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
     },
     {
       "basename": "Office of Science and Technology Policy",
@@ -183,22 +199,6 @@
     {
       "basename": "Focus Center Research Program",
       "path": "wiki/facts/us/Focus Center Research Program.md"
-    },
-    {
-      "basename": "Sematech",
-      "path": "wiki/facts/us/Sematech.md"
-    },
-    {
-      "basename": "Semi-structured Interview",
-      "path": "wiki/methods/qualitative/Semi-structured Interview.md"
-    },
-    {
-      "basename": "Technological Trajectories",
-      "path": "wiki/theories/political-economy-geopolitics/Technological Trajectories.md"
-    },
-    {
-      "basename": "Precompetitive Research",
-      "path": "wiki/concepts/university-industry-collaboration/Precompetitive Research.md"
     }
   ],
   "omittedPaths": [],
