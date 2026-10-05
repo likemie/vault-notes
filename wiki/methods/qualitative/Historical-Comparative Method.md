@@ -10,7 +10,7 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度、国�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 76
+method_related_count: 78
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -65,6 +65,7 @@ related_concepts:
 related_theories:
   - "[[Three Generations of Mission-Oriented Policy]]"
   - "[[Systems of Innovation]]"
+  - "[[Evolutionary Economics]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Analytic Framework]]"
@@ -83,6 +84,7 @@ related_persons:
   - "[[Val D. Rust]]"
   - "[[Andreas Kazamias]]"
   - "[[Wolfgang Mitter]]"
+  - "[[Chris Freeman]]"
   - "[[Marc-Antoine Jullien]]"
 related_facts:
   - "[[OECD]]"
@@ -96,10 +98,10 @@ related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
+  - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
   - "[[Argument_Bown_2024_JEP]]"
-  - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Mowery_2011_NBER]]"
@@ -164,7 +166,7 @@ updated: 2026-10-05
 > | 维度 | 信息 |
 > |---|---|
 > | **材料来源** | 官方档案（特别调查报告 Special Reports、皇家委员会调查白皮书 Bryce Commission、议会立法案卷）、各国内政与教育部公报、国家科学与工业委员会历史报告、视察专员历史考察手札、哲人经典著述与历史统计年鉴。 |
-> | **抽样或选案** | [[Theoretical Sampling\|理论抽样]]与关键制度案例（如普鲁士中等教育报告、英国文法公学体系、法国国家中央集权督学系统）；最大变异比较（英美自由地方分权体系 vs 法德苏国家主义集权体系；美国非集权分层大学体系 vs 欧亚集权部属科研院所分立体系，[[Argument_Atkinson_2008_TIS\|(Atkinson & Blanpied, 2008, pp. 42–43)]]；美国需求侧先导采购与第二货源机制 vs 西欧绑定传统垄断电气巨头的国家资助模式，[[Argument_Fabrizio_Mowery_2005_REI\|(Fabrizio & Mowery, 2005, pp. 33–34, 38–40)]]）；跨意识形态阵营分裂对照案例（如[[Oskar Anweiler\|奥斯卡·安韦勒]]主持的西德与东德跨制度教育长周期历史比较，[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 91–92, 97–98)]]）；长周期跨代际国家能力与创新体制抽样（19 世纪末德日追赶型发展国家 vs 20 世纪中叶美欧大科学技术攻关 vs 21 世纪敏捷公共创新特区，[[Argument_Kattel_Mazzucato_2018_ICC\|(Kattel & Mazzucato, 2018, pp. 792–796)]]）；跨时期产业政策浪潮抽样（20 世纪 80 年代美日半导体贸易摩擦与纵向一体化财团模式 vs 2020 年代中美高科技地缘博弈与全球[[Vertical Disintegration\|纵向离散]]网络模式，[[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, pp. 83–86, 97–103)]]）。 |
+> | **抽样或选案** | [[Theoretical Sampling\|理论抽样]]与关键制度案例（如普鲁士中等教育报告、英国文法公学体系、法国国家中央集权督学系统）；国家创新体系与赶超型制度对照（19 世纪英国自发工业化 vs 普鲁士国家协调技校学徒制；冷战时期美日民用技术集成创新 vs 前苏联军工院所分割体制；20 世纪 80 年代韩国外向型吸收能力积累 vs 巴西外债危机下制度停滞，[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 6–15)]]）；最大变异比较（英美自由地方分权体系 vs 法德苏国家主义集权体系；美国非集权分层大学体系 vs 欧亚集权部属科研院所分立体系，[[Argument_Atkinson_2008_TIS\|(Atkinson & Blanpied, 2008, pp. 42–43)]]；美国需求侧先导采购与第二货源机制 vs 西欧绑定传统垄断电气巨头的国家资助模式，[[Argument_Fabrizio_Mowery_2005_REI\|(Fabrizio & Mowery, 2005, pp. 33–34, 38–40)]]）；跨意识形态阵营分裂对照案例（如[[Oskar Anweiler\|奥斯卡·安韦勒]]主持的西德与东德跨制度教育长周期历史比较，[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 91–92, 97–98)]]）；长周期跨代际国家能力与创新体制抽样（19 世纪末德日追赶型发展国家 vs 20 世纪中叶美欧大科学技术攻关 vs 21 世纪敏捷公共创新特区，[[Argument_Kattel_Mazzucato_2018_ICC\|(Kattel & Mazzucato, 2018, pp. 792–796)]]）；跨时期产业政策浪潮抽样（20 世纪 80 年代美日半导体贸易摩擦与纵向一体化财团模式 vs 2020 年代中美高科技地缘博弈与全球[[Vertical Disintegration\|纵向离散]]网络模式，[[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, pp. 83–86, 97–103)]]）。 |
 > | **研究者位置** | 跨文化历史诠释者。深入历史当事人的思想地平线内部，严格防范[[Whiggism\|辉格史观]]（以现代价值观剪裁历史）与当下主义偏见，反思研究者自身的民族国家与意识形态前设。 |
 > | **资料边界** | 聚焦国家制度奠基期、关键立法节点、工业与科学战略重构期以及文明转型危机期；严格划分一手文献（[[Primary and Secondary Documents\|Primary Documents]]）与后世二手研究（Secondary Literature）。 |
 
@@ -195,6 +197,7 @@ updated: 2026-10-05
 > - **适合使用** 
 >   - 探究民族国家高等教育与科研体制的深层历史成因与长周期演进动力（如美国大学如何从二战前研发边缘跃升为国家科技中枢，[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008]]）；
 >   - 追踪国家创新机构、科技与产业战略及[[Public Dynamic Capabilities|公共部门动态能力]]跨越 150 年的长周期形态演变与代际转换（如德、日、法、美、英与欧盟在不同历史时期的国家能力构建与协调失灵，[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）；
+>   - 比较不同国家[[National Innovation System|国家创新系统]]（NIS）内教育培训、工业实验室建制与产业政策的协同演化机制，解释后发经济体技术赶超或分化的深层制度动因（如 19 世纪普鲁士赶超英国、战后日本追赶美苏、80 年代韩巴分化，[[Argument_Freeman_1995_CJE|Freeman, 1995]]）；
 >   - 剖析重大教育法令（如 1862 年《赠地法案》、1950 年《NSF 法案》、1980 年《拜杜法案》）与现代学校形态的历史发生学渊源；
 >   - 追踪超国家组织（IOs）在长周期历史演变中如何确立其教育法定职责，以及从二战后经济重建转向全球[[Policy Brokerage|政策中介]]与[[Soft Power by Hard Facts|硬事实软权力]]治理的历史轨迹（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）；
 >   - 揭示跨国制度移植与[[Policy Borrowing|政策借用]]中的路径依赖与结构阻碍（如欧亚四国模仿美式大学体制时遭遇的讲席制、行政集权与科学院分立壁垒，[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008, pp. 45–48]]）；
@@ -252,6 +255,9 @@ updated: 2026-10-05
 > | [[Oskar Anweiler\|奥斯卡·安维勒]] | 人物 | 跨意识形态制度比较开拓者；主持西德与东德教育体制大型历史比较项目，为二战后历史比较法提供里程碑案例。 |
 > | [[Comparative Education as a Cross-Sectional Area\|比较教育作为交叉领域]] | 概念 | 学科属性基础；历史比较法依托横断学科属性，跨越历史学、哲学与社会学展开综合考察。 |
 > | [[Allgemeine Pädagogik\|普通教育学]] | 概念 | 欧陆哲学底座；历史比较法在欧陆传统中以普通教育学为概念与反思根基，探究教育的本质。 |
+> | [[National Innovation System\|国家创新系统]] | 概念 | 历史比较法在科技与产业经济领域的经典制度[[Unit of Analysis\|分析单位]]与解释构件。 |
+> | [[Systems of Innovation\|创新系统理论]] | 理论 | 为跨国长周期历史比较提供[[Evolutionary Economics\|演化经济学]]与制度互补性理论支撑。 |
+> | [[Chris Freeman\|克里斯·弗里曼]] | 人物 | 演化经济学家；运用长周期两两历史比较法论证国家创新系统持续有效性的典范代表。 |
 
 ---
 

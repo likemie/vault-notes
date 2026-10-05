@@ -9,6 +9,22 @@
       "path": "wiki/concepts/university-industry-collaboration/National Innovation System.md"
     },
     {
+      "basename": "Regional Innovation System",
+      "path": "wiki/concepts/university-industry-collaboration/Regional Innovation System.md"
+    },
+    {
+      "basename": "Argument_Lester_2005_MIT",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Lester_2005_MIT.md"
+    },
+    {
+      "basename": "Local Innovation Systems Project",
+      "path": "wiki/facts/us/Local Innovation Systems Project.md"
+    },
+    {
+      "basename": "Argument_Fabrizio_Mowery_2005_REI",
+      "path": "wiki/arguments/journal-articles/Revue d'économie industrielle/Argument_Fabrizio_Mowery_2005_REI.md"
+    },
+    {
       "basename": "Vannevar Bush",
       "path": "wiki/persons/us/Vannevar Bush.md"
     },
@@ -63,10 +79,6 @@
     {
       "basename": "General Purpose Technology",
       "path": "wiki/concepts/economics/General Purpose Technology.md"
-    },
-    {
-      "basename": "Argument_Fabrizio_Mowery_2005_REI",
-      "path": "wiki/arguments/journal-articles/Revue d'économie industrielle/Argument_Fabrizio_Mowery_2005_REI.md"
     },
     {
       "basename": "Technology Transfer",
@@ -187,18 +199,6 @@
     {
       "basename": "Kotter's 8-Step Change Model",
       "path": "wiki/theories/educational-policy-reform/Kotter's 8-Step Change Model.md"
-    },
-    {
-      "basename": "Argument_Bown_2024_JEP",
-      "path": "wiki/arguments/journal-articles/Journal of Economic Perspectives/Argument_Bown_2024_JEP.md"
-    },
-    {
-      "basename": "Questionnaire",
-      "path": "wiki/methods/quantitative/Questionnaire.md"
-    },
-    {
-      "basename": "Knowledge Building Theory",
-      "path": "wiki/theories/learning-science-cognitive-science/Knowledge Building Theory.md"
     }
   ],
   "omittedPaths": [],

@@ -2,10 +2,10 @@
 summary: "指以国家战略意志为导向、依赖巨额公共财政资助与大规模层级化国家实验室、跨学科协同攻关突破性物理与工程技术极限的科研组织范式；在第二代使命政策中展现出强大工程突破力，但在应对包含复杂社会维度的第三代重大挑战时遭遇制度局限。"
 type: concept
 domain: "science-policy"
-related_count: 16
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 25
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/science-policy
   - big-science
@@ -18,25 +18,35 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Wicked Problem]]"
   - "[[Incommensurability]]"
+  - "[[National Innovation System]]"
+  - "[[Learning by Doing]]"
+  - "[[Total Quality Management]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Directionality of Innovation]]"
   - "[[Complexity Paradox]]"
+  - "[[Unit of Analysis]]"
 related_theories:
   - "[[Technological Trajectories]]"
+  - "[[Evolutionary Economics]]"
+  - "[[Systems of Innovation]]"
   - "[[Three Generations of Mission-Oriented Policy]]"
+related_methods: []
 related_persons:
   - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"
   - "[[Alvin Weinberg]]"
+  - "[[Chris Freeman]]"
 related_facts:
   - "[[Apollo Program]]"
+  - "[[Chinese Academy of Sciences]]"
   - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
+  - "[[Argument_Freeman_1995_CJE]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-05
 title: Big Science
 aliases:
   - 大科学
@@ -115,6 +125,16 @@ aliases:
 
 ---
 
+### 命题三　军工与大科学投入不等同于国家民用创新活力，体制隔离将引发深层创新系统失灵
+
+> [!concept-lens] [[Evolutionary Economics|演化经济学]]与[[National Innovation System|国家创新系统]]维度
+> 审视军工主导的大科学工程对国家民用经济的挤出效应与体制分割。
+
+> [!claim] [[Argument_Freeman_1995_CJE|Freeman (1995)]]
+> **大科学军工分割与民用创新体系脱节** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）指出，冷战时期大科学与国防科研的巨额投入并不必然带来经济繁荣。苏联将超过 70% 的研发资源投向国防与航天大科学工程、其研发总支出占国民生产总值比率（GERD/GNP）在 1970 年代高达 3.6%，但其科技体制被割裂为封闭的[[Chinese Academy of Sciences|科学院]]理论所、部属设计局与缺乏研发活力的生产企业；由于缺乏生产车间的“[[Learning by Doing|干中学]]”（[[Learning by Doing]]）、质量管理（[[Total Quality Management|全面质量管理]]）与用户-供应商双向微观反馈，庞大的大科学军工复合体未能向民用产业形成有效技术扩散，最终导致民用经济长期落后与整个[[National Innovation System|国家创新系统]]的演化失败。这表明大科学唯有嵌入在产学研深度协同、具有微观互动学习机制的[[Systems of Innovation|创新系统]]中，方能转化为持久的国家竞争力。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 10–12)]]
+
+---
+
 ## 条目关联
 
 > [!entry-map]
@@ -126,3 +146,6 @@ aliases:
 > | [[Public Dynamic Capabilities]] | 概念 | 大科学要求国家在政策层级具备强大的战略研发统筹与采购协同能力。 |
 > | [[Directionality of Innovation]] | 概念 | 大科学通过国家意志强力锚定特定[[Technological Trajectories\|技术轨道]]的发展方向。 |
 > | [[Complexity Paradox]] | 概念 | 将大科学模式僵化套用于社会难题容易加剧政府部门间的条块分割。 |
+> | [[National Innovation System]] | 概念 | 审视大科学能否有效转化为广泛民用竞争力的宏观制度[[Unit of Analysis\|分析单位]]。 |
+> | [[Chris Freeman]] | 人物 | [[Evolutionary Economics\|演化经济学]]家；借助美苏日历史比较揭示大科学投入与民用创新体系割裂风险的学者。 |
+> | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] | 论证 | 实证剖析苏联大科学研发体制与民用经济割裂导致[[Systems of Innovation\|创新系统]]失灵的历史论证。 |

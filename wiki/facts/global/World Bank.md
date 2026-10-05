@@ -11,9 +11,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 47
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_count: 52
+fact_related_level: 6
+fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
 org_type: multilateral-development-bank
 headquarters: "华盛顿特区（美国）"
@@ -24,12 +24,15 @@ tags:
   - theme/global-governance
   - theme/educational-policy
   - theme/human-capital
+  - theme/innovation-policy
+  - theme/science-policy
 related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Policy Brokerage]]"
   - "[[Shadow State]]"
   - "[[Financial-Intellectual Complex]]"
   - "[[Return on Investment]]"
+  - "[[National Innovation System]]"
   - "[[International Education]]"
   - "[[Performance Indicators]]"
   - "[[Knowledge Bank]]"
@@ -45,8 +48,10 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Evolutionary Economics]]"
   - "[[Conditioned State Theory]]"
   - "[[World-Systems Theory]]"
+  - "[[Systems of Innovation]]"
 related_methods:
   - "[[Cost-Benefit Analysis]]"
   - "[[Randomised Controlled Trials]]"
@@ -57,11 +62,13 @@ related_instruments: []
 related_persons:
   - "[[George Psacharopoulos]]"
   - "[[Robert Arnove]]"
+  - "[[Chris Freeman]]"
   - "[[Stephen P. Heyneman]]"
   - "[[Rainer Kattel]]"
 related_facts:
   - "[[UNESCO]]"
   - "[[OECD]]"
+  - "[[International Monetary Fund]]"
   - "[[Poverty Reduction Strategy Papers]]"
   - "[[Global Development Network]]"
   - "[[Systems Approach for Better Education Results]]"
@@ -73,15 +80,15 @@ related_facts:
   - "[[Chartered College of Teaching]]"
   - "[[World Education Reform Database]]"
   - "[[Business Roundtable]]"
-  - "[[International Monetary Fund]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
+  - "[[Argument_Freeman_1995_CJE]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # World Bank
@@ -106,7 +113,7 @@ updated: 2026-10-03
 > [!dev-timeline]- 组织发展历程
 > - **1944–1968 — 砖瓦基建与[[UNESCO|教科文组织]]早期依附期** 初期严守硬性物理基础设施借贷，不涉足教育社会事业；1962 年向突尼斯发放首笔中等技术教育贷款；1964 年与教科文组织（UNESCO）签署《合作协定》（Co-operative Agreement），依靠 UNESCO 的专业团队物色与评估借贷国教育项目，初步敲开全球南方的教育大门。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **1968–1981 — 麦克纳马拉改革与教育研究帝国奠基期** 罗伯特·麦克纳马拉（Robert McNamara）执掌世行，将教育确立为反贫困的核心生产性支柱；聘请著名教育经济学家[[George Psacharopoulos|乔治·萨卡罗普洛斯]]（George Psacharopoulos）等组建中央研究团队，开创覆盖全球的[[Return on Investment|教育投资回报率]]（RORE）实证计量传统；1980 年 4 月正式发表里程碑式《教育部门政策文件》，单方面终结对教科文组织的依赖，确立完全独立的教育政策研究与借贷体系。[[Argument_Steiner-Khamsi_2024_CE|(Psacharopoulos, 1981; Steiner-Khamsi et al., 2024, pp. 541–542)]]
-> - **1981–1999 — 结构调整贷款与[[Disciplina and Doctrina|规训]]性多边主义确立期** [[International Education|国际教育]]多边主义经历重大转向，战后教科文组织倡导的“有限再分配多边主义”衰落，世界银行主导的“防卫性与规训性多边主义”确立（Mundy, 1998; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 110]]）。世行推行华盛顿共识，将削减公共开支、用户付费与基础教育分权作为贷款附加条件；通过[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数等技术话语将新自由主义制度化（Carnoy & Rhoten, 2002; Heyneman, 2003）；[[Robert Arnove|阿诺夫]]（Arnove, 1980, 2009）深刻指出，世行推行的教育革新实质上固化了既有的中心-边缘与国内阶层分层体系（pp. 105–106）；1999 年联合引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（PRSPs），将[[Performance Indicators|教育指标]]纳为国家宏观多边信用评级的刚性杠杆。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, p. 542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110)]]
+> - **1981–1999 — 结构调整贷款、[[Disciplina and Doctrina|规训]]性多边主义与[[National Innovation System|国家创新系统]]滞后** [[International Education|国际教育]]多边主义经历重大转向，战后教科文组织倡导的“有限再分配多边主义”衰落，世界银行主导的“防卫性与规训性多边主义”确立（Mundy, 1998; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 110]]）。世行推行华盛顿共识，将削减公共开支、用户付费与基础教育分权作为贷款附加条件；通过[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数等技术话语将新自由主义制度化（Carnoy & Rhoten, 2002; Heyneman, 2003）；[[Robert Arnove|阿诺夫]]（Arnove, 1980, 2009）深刻指出，世行推行的教育革新实质上固化了既有的中心-边缘与国内阶层分层体系（pp. 105–106）。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman, 1995）进一步从[[Evolutionary Economics|演化经济学]]考察指出，1980 年代世界银行与[[International Monetary Fund|国际货币基金组织]]强推的紧缩与外债偿付方案重创了拉美（如巴西）的[[National Innovation System|国家创新系统]]，迫使政府削减高校科研与工程教育投资，导致其与东亚新兴工业化经济体（如韩国）依靠自主研发与教育扩张的高速赶超拉开了致命差距。1999 年世行联合引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（PRSPs），将[[Performance Indicators|教育指标]]纳为国家宏观多边信用评级的刚性杠杆。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, p. 542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]
 > - **1999–至今 — [[Knowledge Bank|知识银行]]转型与[[Shadow State|影子国家]]外包机制** 沃尔芬森（James Wolfensohn）主导世行转型为“知识银行”（Knowledge Bank）；虽于 1999 年创设[[Global Development Network|全球发展网络]]（GDN）探索本土去中心化[[Knowledge Production|知识生产]]，但迅速被华盛顿总部集权的工具所取代；2011 年推出[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER），联合英美双边援助机构组建[[Building Evidence in Education|构建教育证据联盟]]（BE2），确立自指性政策仓库；与此同时，在公共服务提供上日益绕过受援国政府直接委托非政府组织提供教育，架空了国家公共权威，使 NGO 蜕变为去政治化的“[[Shadow State|影子国家]]”（Sutton & Arnove, 2004; Kamat, 2004; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 111–112]]）。[[Argument_Steiner-Khamsi_2024_CE|(Stone, 2000; Steiner-Khamsi et al., 2024, pp. 543, 545, 548)]]
 
 ---
@@ -171,7 +178,7 @@ updated: 2026-10-03
 > > [!axis] 结构调整与市场原教旨主义的后殖民破坏
 > > 发展社会学家与全球南方批评家指控世行贷款长期推行新自由主义紧缩政策。
 > >
-> > - **批判政治经济学派与世行内部反思（Bonal, 2002, 2004; Klees, 2008; Heyneman, 2003）** 批评 1980–1990 年代世行推行的结构调整计划强迫借贷国冻结教师编制、引入公立学校用户收费并加速民办私立化，给撒哈拉以南非洲和拉美公共教育系统造成严重冲击；世行前资深教育专员[[Stephen P. Heyneman|海尼曼]]（Stephen Heyneman, 2003）亦坦承，世行长期主导的[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数框架存在根本性缺陷，给更具公平性与效能的教育政策带来了严重的消极后果。[[Argument_Arnove_2009_WorldSystems|(Heyneman, 2003, cited in Arnove, 2009, p. 110)]]
+> > - **批判政治经济学派与[[Evolutionary Economics|演化经济学]]批判（Bonal, 2002; Heyneman, 2003; [[Argument_Freeman_1995_CJE|Freeman, 1995]]）** 批评 1980–1990 年代世行推行的结构调整计划强迫借贷国冻结教师编制、引入公立学校用户收费并加速民办私立化，给撒哈拉以南非洲和拉美公共教育系统造成严重冲击；世行前资深教育专员[[Stephen P. Heyneman|海尼曼]]（Stephen Heyneman, 2003）亦坦承，世行长期主导的[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数框架存在根本性缺陷，给更具公平性与效能的教育政策带来了严重的消极后果；[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman, 1995）进一步指出，世行对拉美强加的财政紧缩迫使国家压缩高等技术教育与工程研发支持，导致巴西等国的高等教育毛入学率与工程师供给停滞不前，摧毁了应对第三次技术革命（信息通信技术）所需的[[National Innovation System|国家创新系统]]能力，形成了深刻的依附性发展锁定。[[Argument_Arnove_2009_WorldSystems|(Heyneman, 2003, cited in Arnove, 2009, p. 110)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]
 > > - **世行辩护** 强调结构性改革旨在破除[[Development Education|发展中国家教育]]系统的寻租腐败与非生产性财政冗员，优先保证贫困人口享有最基本的初等读写算技能。
 >
 > > [!axis] [[Financial-Intellectual Complex|金融-智识复合体]]与单一体信贷逻辑：技术中立政策建议 vs 跨国资本[[Disciplina and Doctrina|规训]]同盟
@@ -214,6 +221,8 @@ updated: 2026-10-03
 > | [[Conditioned State Theory]] | 理论 | 阐释世行[[Structural Adjustment Programs\|结构调整]]贷款如何作为超国家杠杆剥夺外围借贷国教育自主性。 |
 > | [[World-Systems Theory]] | 理论 | 为解构世界银行跨国资本借贷与中心-边缘规训提供宏观理论视角。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 104–106)]] |
 > | [[Endogenous and Exogenous Privatisation]] | 概念 | 世行贷款附加条件推动的使用者自费（内生）与民办分权（外生）阶级策略。 |
+> | [[National Innovation System]] | 概念 | 世行结构调整与紧缩政策所严重侵蚀的发展中国家科技与工程自主能力母体。 |
+> | [[Chris Freeman]] | 人物 | [[Evolutionary Economics\|演化经济学]]家；实证对比世行受援国（如巴西）与东亚国家[[Systems of Innovation\|创新系统]]演进分化的代表学者。 |
 
 ---
 
@@ -223,3 +232,4 @@ updated: 2026-10-03
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用[[World-Systems Theory|世界体系分析]]透视世界银行等机构的教育援助政策，揭示其防卫性[[Disciplina and Doctrina|规训]]、固化国际分层以及扶植去政治化“[[Shadow State|影子国家]]”的政治经济学后果（pp. 105–107, 110–112）。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 运用[[World Education Reform Database|世界教育改革数据库]]实证检验世界银行的自指性[[Policy Brokerage|政策中介]]机制，详述其从 [[UNESCO]] 依附期到回报率帝国与[[Knowledge Bank|知识银行]]演变的全过程（pp. 540–550）。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 建立[[Conditioned State Theory|受限国家理论]][[Analytic Framework|分析框架]]，解构世界银行[[Financial-Intellectual Complex|金融-智识复合体]]通过结构调整与指标杠杆对第三世界[[State Educational Sovereignty|国家教育主权]]的深度规训（pp. 80–85）。
+> - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 运用历史比较与统计分析，揭示 1980 年代受世界银行与外债危机约束的拉美经济体（如巴西）在教育投入与产业研发上的体制停滞，对照东亚自主型[[National Innovation System|国家创新系统]]的高速赶超，从[[Evolutionary Economics|演化经济学]]维度实证反思[[Structural Adjustment Programs|结构调整方案]]的负面制度锁定（pp. 13–15）。

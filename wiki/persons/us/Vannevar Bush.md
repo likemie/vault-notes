@@ -7,10 +7,10 @@ summary: "美国电机工程师、科技管理者与战后科技政策奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 24
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 33
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1890"
 died: "1974"
 lifespan: "1890–1974"
@@ -22,20 +22,21 @@ tags:
 related_concepts:
   - "[[Basic-Applied Research Dichotomy]]"
   - "[[Linear Model of Innovation]]"
-  - "[[National Innovation System]]"
   - "[[Academic Freedom]]"
   - "[[Blue Skies Research]]"
+  - "[[Hypothesis]]"
+  - "[[Learning by Doing]]"
   - "[[Research Universities]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
-  - "[[Soft-Money Faculty Model]]"
-  - "[[Learning by Doing]]"
+  - "[[National Innovation System]]"
   - "[[Total Quality Management]]"
+  - "[[Soft-Money Faculty Model]]"
+  - "[[Emergence]]"
 related_theories:
-  - "[[Systems of Innovation]]"
   - "[[Evolutionary Economics]]"
   - "[[Pasteur's Quadrant]]"
   - "[[Discovery-Invention Cycle]]"
+  - "[[Systems of Innovation]]"
 related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
@@ -53,9 +54,10 @@ related_facts:
   - "[[DARPA]]"
   - "[[OECD]]"
   - "[[Bell Labs]]"
+  - "[[Ministry of International Trade and Industry]]"
 related_arguments:
-  - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Narayanamurti_2013_IST]]"
+  - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Stephan_2013_NBER]]"
 confidence: high
 status: active
@@ -106,7 +108,7 @@ updated: 2026-10-05
 > - **1945–1950s — 战后和平时期国家科学契约奠基期** 为摆脱战时军方严格管制、确保高校科学家[[Academic Freedom|学术自由]]与长期财政保障，建构基础研究神圣性叙事。
 >   - **代表著作** *[[Science, The Endless Frontier 1945|Science, The Endless Frontier]]* (1945)。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
 >   - **关键概念／方法** 基础研究（[[Blue Skies Research|Basic Research]]）、应用研究（Applied Research）、科技蓄水池假说、国家科学基金会。
->   - **阶段转向** 在政治游说中策略性地将纯求知的基础研究与商业化应用开发做严格切割，奠定了基础/应用二分法与单向线性模型的制度教条。
+>   - **阶段转向** 在政治游说中策略性地将纯求知的基础研究与商业化应用开发做严格切割，奠定了基础/应用二分法与单向线性模型的制度教条。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）在系统回顾中指出，这种单向线性[[Hypothesis|假设]]主导了二战后数十年的官方科技政策，但它系统性忽视了生产现场的“[[Learning by Doing|干中学]]”（[[Learning by Doing]]）、渐进工程微调、以及反向由市场和工业实践驱动基础研究的双向反馈互动。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11)]]
 
 ---
 
@@ -127,10 +129,11 @@ updated: 2026-10-05
 > [!influence-path] 影响路径
 > - **政策与机构路径** 直接促成了[[National Science Foundation|美国国家科学基金会]]（NSF）的建立，确立了同行评议与大学同行自主管理的资助体制；为战后国立卫生研究院（[[National Institutes of Health|NIH]]）、能源部（[[Department of Energy|DOE]]）及国防部高级研究计划局（[[DARPA]]）的多机构竞争性格局奠定了母体框架。
 > - **高等教育路径** 使美国顶尖[[Research Universities|研究型大学]]由战前的教学本位彻底转变为依托联邦科研经费的研究本位体系，开创了战后美国大学在全球前沿学科的长期垄断地位。
-> - **理论[[Paradigm|范式]]路径** 其倡导的“基础研究 $\rightarrow$ 应用研究 $\rightarrow$ 开发制造”单向序列被[[OECD|经合组织]]（OECD）《弗拉斯卡蒂手册》采纳为全球研发统计标准，成为战后主导半个多世纪科技政策的“线性模型”。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
+> - **理论[[Paradigm|范式]]路径** 其倡导的“基础研究 $\rightarrow$ 应用研究 $\rightarrow$ 开发制造”单向序列被[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）《弗拉斯卡蒂手册》采纳为全球研发统计标准，成为战后主导半个多世纪科技政策的“线性模型”，催生了以研发支出占国民生产总值（GNP）比重为核心的跨国科技军备竞赛指标。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]；[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–10)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统反思并批判[[Science, The Endless Frontier 1945|布什报告]]在战后制度化的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]，揭示其深植于西方贬低动手制作的文化偏见，论证该线性[[Hypothesis|假设]]已成为阻碍当代美国国家创新政策演进的体制障碍。
+> - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 从[[Evolutionary Economics|演化经济学]]与[[National Innovation System|国家创新系统]]视角系统解构布什的线性模型；指出过度迷信研发投入总额与诺贝尔奖级基础研究是战后英美与苏联的核心误区，而战后日本与东亚后发经济体正是通过打通车间质量控制（[[Total Quality Management|全面质量管理]]）、持续工艺改性与逆向工程反馈，突破了布什线性模型的理论遮蔽。
 
 ---
 
@@ -141,6 +144,7 @@ updated: 2026-10-05
 > - **战后制度继承与反思者** [[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes） — 1997 年提出[[Pasteur's Quadrant|帕斯德象限]]以打破[[Science, The Endless Frontier 1945|布什报告]]的一维滑动轴，但在分类语汇上仍保留了布什的旧术语。
 > - **当代科技创新批判者** [[Venkatesh Narayanamurti|文卡泰什·纳拉亚纳穆尔提]]（Venkatesh Narayanamurti） — 2013 年撰文宣告布什二分法终结，提出[[Discovery-Invention Cycle|发现-发明循环]]理论以取代布什的单向流水线假说。
 > - **高校科研契约反思者** [[Paula Stephan|保拉·斯蒂芬]]（Paula Stephan） — 2013 年系统考察战后大学对布什契约的能动改造与异化，揭示布什关于高风险容错、独立学生奖学金与学科均衡设想的迷失。
+> - **演化[[Systems of Innovation|创新系统]]批判者** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman） — 1995 年从历史与演化视角剖析布什线性模型与单纯研发指标的盲区，提出包含组织变革、工艺学习与制度互补的[[National Innovation System|国家创新系统]]理论。
 > - **核心关联文本与机构** [[Science, The Endless Frontier 1945]]、[[National Science Foundation|美国国家科学基金会]]（NSF）、[[Bell Labs|贝尔实验室]]。
 
 ---
@@ -160,3 +164,9 @@ updated: 2026-10-05
 > >
 > > - **外生政策归因论** 传统观点认为，布什确立的竞争性同行评议立项体制本身强化了锦标赛竞争，直接导致了大学被动卷入追求外部经费与量化指标的囚徒困境。
 > > - **大学主动重构论（[[Argument_Stephan_2013_NBER|Stephan, 2013]]）** 经济学家[[Paula Stephan|保拉·斯蒂芬]]指出，战后科研契约的转变主要是由大学自身主导推进的。大学管理层与教师自 1960 年代起主动争取以联邦课题报销专任薪酬（催生[[Soft-Money Faculty Model|软钱教职模式]]）、争取更高间接成本补偿以扩建校舍，并将学生奖学金异化为课题常规用工；布什关于“大学资助高风险研究、以独立奖学金资助研究生、保持医学与其他学科平衡”的三大洞见在大学的自利性适应中被彻底抛弃。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 37)]]
+>
+> > [!axis] 单向线性科学促增长 vs [[Systems of Innovation|创新系统]]互动学习：研发投入是否等同于国家创新活力？
+> > 高额的基础与应用研发支出是否能自发转化为国家产业竞争力与广泛的经济增长？
+> >
+> > - **线性供给驱动论（布什模型）** [[Hypothesis|假设]]科学发现是创新的根本源泉，研发支出总额及高水平科学家产出构成了国家创新能力的充分前提；只要持续向基础科学“蓄水池”注资，商业应用与经济红利将自然向产业下游顺流[[Emergence|涌现]]。
+> > - **演化创新系统论（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）** [[Chris Freeman|克里斯·弗里曼]]借助国际比较史揭示了布什假说的严重盲区：苏联在 1970 年代将高达 3.6% 的国民生产总值（GNP）投入研发、拥有全球最庞大的科学家与工程师队伍，但由于科研机构与民用工业彻底割裂、缺乏市场微观反馈与车间渐进创新，其民用产业陷入大面积停滞；相反，战后日本研发支出长期低于美苏，但依托工人的“[[Learning by Doing|干中学]]”（[[Learning by Doing]]）、[[Total Quality Management|全面质量管理]]、逆向工程以及[[Ministry of International Trade and Industry|通商产业省]]的产业网络协同，实现了跨越式技术追赶。弗里曼论证，决定国家长期竞争力的是整个[[Systems of Innovation|创新系统]]内各制度支柱（教育、产业组织、研发与政府协调）的互动学习能力，而非孤立的研发经费规模。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11, 15–18)]]

@@ -8,10 +8,10 @@ aliases:
 summary: "以 Nelson & Winter（1982）为奠基的经济学流派，将经济变迁视为多样性变异、组织惯例学习、路径依赖与动态选择的演化过程；批判新古典静态均衡假设，为技术轨迹、创新系统、公共动态能力与引领和学习范式提供底层理论基石"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 49
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_count: 53
+theory_related_level: 6
+theory_related_stars: "⭐⭐⭐⭐⭐⭐"
+theory_related_color: "#fef3c7"
 tags:
   - theory/political-economy
   - innovation-studies
@@ -30,6 +30,8 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[National Innovation System]]"
   - "[[Regional Innovation System]]"
+  - "[[General Purpose Technology]]"
+  - "[[Absorptive Capacity]]"
   - "[[Unit of Analysis]]"
   - "[[Reflexivity]]"
   - "[[Total Factor Productivity]]"
@@ -37,6 +39,7 @@ related_concepts:
   - "[[Patient Capital]]"
   - "[[Grand Challenges]]"
   - "[[New Public Management]]"
+  - "[[University-Industry Collaboration]]"
   - "[[Document]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Complexity Paradox]]"
@@ -48,7 +51,6 @@ related_concepts:
   - "[[Active Learning]]"
   - "[[Wicked Problem]]"
   - "[[Innovation Policy Paradigms]]"
-  - "[[General Purpose Technology]]"
 related_theories:
   - "[[Bounded Rationality]]"
   - "[[Technological Trajectories]]"
@@ -61,7 +63,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
-  - "[[Historical-Comparative Method]]"
 related_persons:
   - "[[Joseph Schumpeter]]"
   - "[[Herbert A. Simon]]"
@@ -70,10 +71,10 @@ related_persons:
   - "[[Rainer Kattel]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Bogliacino_Pianta_2016_EP]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
+  - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Pavitt_1984_RP]]"
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
 confidence: high
@@ -113,7 +114,7 @@ updated: 2026-10-05
 > - **1911/1942 — 熊彼特奠基** 提出创新与企业家精神是打破循环流转的动态力量，阐述创造性破坏机制。
 > - **1982 — 演化经济学正式成型** Nelson & Winter（1982）发表奠基作，建立基于有限理性、搜寻规则与组织惯例的微观演化建模体系。
 > - **1984–1988 — 技术范式与产业分类学确立** [[Argument_Pavitt_1984_RP|Pavitt (1984)]] 提出创新模式分类；Dosi（1982, 1988）确立技术范式与技术轨迹理论。
-> - **1987/1995 — [[National Innovation System|国家创新系统]]与长波范式演进** Freeman（1987, 1995）与 Lundvall 将演化视角注入国家与[[Regional Innovation System|区域创新系统]]；Freeman（1995）系统论证通用技术范式引发的制度滞后，确立制度多样性试错避免路径锁定的演化价值。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
+> - **1987/1995 — [[National Innovation System|国家创新系统]]与长波范式演进** Freeman（1987, 1995）与 Lundvall 将演化视角注入国家与[[Regional Innovation System|区域创新系统]]；[[Argument_Freeman_1995_CJE|Freeman (1995)]]系统论证[[General Purpose Technology|通用技术]]范式引发的制度滞后，确立制度多样性试错避免路径锁定的演化价值。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
 > - **2016 — 跨国经验微观[[Heterogeneity|异质性]]再验证** [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]] 利用大样本微观数据证实产业间与产业内部持久存在的异质性规律。
 > - **2018 — 市场塑造与 ROAR 政策框架** [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] 将演化经济学推进为超越[[Market Failure|市场失灵]]修补的主动市场共创与 ROAR 政策框架。
 > - **2018 — 公共部门动态能力与引领学习范式** [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] 突破传统私营企业能力局限，建立国家、政策与行政三层[[Public Dynamic Capabilities|公共部门动态能力]]矩阵，确立演化政策的[[Lead-and-Learn Paradigm|引领与学习范式]]。
@@ -130,9 +131,9 @@ updated: 2026-10-05
 > - **技术[[Paradigm|范式]]与[[Technological Trajectories|技术轨迹]]（Paradigms & Trajectories）**
 >   技术解决特定工程问题的通用模式（范式）及其沿着技术–经济权衡权轴累积演进的既定方向（轨迹）。
 > - **技术-经济范式与制度滞后（Techno-Economic Paradigms & Institutional Lag）**
->   重大通用技术革命不仅改变生产函数，更要求劳动关系、职业教育大纲与国家规制发生全面协同调适；技术变革快于制度变迁时必然引发系统性制度滞后与结构性危机。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
+>   重大[[General Purpose Technology|通用技术]]革命不仅改变生产函数，更要求劳动关系、职业教育大纲与国家规制发生全面协同调适；技术变革快于制度变迁时必然引发系统性制度滞后与结构性危机。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
 > - **技术差距与模仿滞后（Technology Gaps & Imitation Lags）**
->   国家间生产力分化取决于无形知识资本与吸收能力的差距；跨国技术扩散存在显著的时滞与制度壁垒，后发国家必须依托主动的教育与组织研发积累才能实现赶超。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8)]]
+>   国家间生产力分化取决于无形知识资本与[[Absorptive Capacity|吸收能力]]的差距；跨国技术扩散存在显著的时滞与制度壁垒，后发国家必须依托主动的教育与组织研发积累才能实现赶超。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8)]]
 > - **市场与制度选择环境（Selection Environment）**
 >   市场竞争机制与公共规制政策共同构成的筛选压力，决定了不同惯例与技术方案的生存、扩散或淘汰。
 > - **路径依赖与技术锁定（Path Dependency & Lock-in）**
@@ -151,7 +152,7 @@ updated: 2026-10-05
 
 > [!logic-map]- 演化经济学核心因果与动态演进机制
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["微观主体：有限理性企业与组织惯例"] -->|试错搜寻与研发探索| B["多样性产生（Variety & Mutation）"]
 >     B --> C["中观产业：技术轨迹与创新模式分化（Pavitt Taxonomy）"]
 >     C --> D["宏观选择：市场竞争 + 政策规制选择环境"]
@@ -221,10 +222,10 @@ updated: 2026-10-05
 ### 命题六　长波通用技术范式转型引发深层制度滞后，制度多样性试错是克服路径锁定的演化保障
 
 > [!concept-lens] 技术-经济范式转型与制度多样性
-> 探讨颠覆性通用技术变革在宏观社会经济系统中的演化传导路径，论证制度多样性对于避免过早技术与体制锁定的决定性价值。
+> 探讨颠覆性[[General Purpose Technology|通用技术]]变革在宏观社会经济系统中的演化传导路径，论证制度多样性对于避免过早技术与体制锁定的决定性价值。
 
 > [!claim] Freeman & Perez
-> **长波范式转型与制度多样性命题** 当以微电子为代表的全新[[General Purpose Technology|通用技术]]颠覆既有生产组织时，技术变迁的速率远快于社会制度的重构速率，必然引发全社会层面的“制度滞后”（Institutional Lag）与结构性调整危机。新技术潜力的充分释放，要求国家在劳动关系、职业教育大纲、工装设计、专利规制乃至电信基础设施上完成全方位的制度重构。在这一过程中，演化经济学坚决反对推行单一新自由主义经济治理模板的“单一文化”（Monoculture）；不同国家和区域创新系统在组织形态、产业扶持政策与产学合作机制上的多样性探索（Diversity），为全人类探索新技术范式的制度适配路径提供了不可替代的演化试错保障。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
+> **长波范式转型与制度多样性命题** 当以微电子为代表的全新[[General Purpose Technology|通用技术]]颠覆既有生产组织时，技术变迁的速率远快于社会制度的重构速率，必然引发全社会层面的“制度滞后”（Institutional Lag）与结构性调整危机。新技术潜力的充分释放，要求国家在劳动关系、职业教育大纲、工装设计、专利规制乃至电信基础设施上完成全方位的制度重构。在这一过程中，演化经济学坚决反对推行单一新自由主义经济治理模板的“单一文化”（Monoculture）；不同国家和[[Regional Innovation System|区域创新系统]]在组织形态、产业扶持政策与[[University-Industry Collaboration|产学合作]]机制上的多样性探索（Diversity），为全人类探索新技术范式的制度适配路径提供了不可替代的演化试错保障。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
 
 ---
 
@@ -238,7 +239,7 @@ updated: 2026-10-05
 > | **激进不确定性与路径依赖** | 揭示颠覆性创新在技术与制度空间中的历史锁定与失败必然性 | 国家重大科技专项论证、清洁能源转型与风险投资管理 | 纳尔逊–温特演化学派; [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
 > | **主动市场塑造与共创命题** | 论证国家作为前瞻引领者和市场共创者在推动系统转型中的关键角色 | [[Mission-Oriented Innovation Policy\|使命导向创新政策]]、公共开发性金融投资与公私合作契约设计 | [[Mariana Mazzucato\|马祖卡托（市场塑造理论）]]; Perez (2002) |
 > | **公共动态能力与引领学习** | 综合熊彼特双元动态能力与韦伯国家能力，以三层能力矩阵驱动制度进化 | 突破[[Complexity Paradox\|复杂性悖论]]、国家创新机构改革与敏捷数字化转型 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018)]] |
-> | **长波范式转型与制度多样性** | 阐明通用技术颠覆引发的制度滞后，确立制度多样性试错避免路径锁定的演化价值 | 通用技术范式跃迁、国家创新体系长周期制度重构与宏观政策试验 | [[Argument_Freeman_1995_CJE\|Freeman (1995)]]; Freeman & Perez (1988) |
+> | **长波范式转型与制度多样性** | 阐明通用技术颠覆引发的制度滞后，确立制度多样性试错避免路径锁定的演化价值 | 通用技术范式跃迁、[[National Innovation System\|国家创新体系]]长周期制度重构与宏观政策试验 | [[Argument_Freeman_1995_CJE\|Freeman (1995)]]; Freeman & Perez (1988) |
 
 ---
 
@@ -250,7 +251,7 @@ updated: 2026-10-05
 > - **国家[[Systems of Innovation|创新系统]]（[[National Innovation System|NIS]]）治理** Lundvall（1992）与 Nelson（1993）将演化视角落地为对大学、企业、政府与中介机构间网络交互与制度适配性的诊断，推动政策从资助单一主体转向修补系统失灵。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 29–31)]]
 > - **[[Mission-Oriented Innovation Policy|使命导向创新政策]]与 ROAR 框架** [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] 将演化经济学发展为应对重大社会挑战的操作工具，建立涵盖战略路径（Routes）、组织能力（Organizations）、动态评估（Assessment）与风险收益共享（Risks and rewards）的系统工具箱。
 > - **公共部门三层动态能力矩阵与敏捷实验治理** [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] 将演化经济学的动态能力逻辑拓展至公共管理，建立国家政治愿景、跨部门政策组合与行政敏捷团队三层操作化分析构架，为公共机构打破条块分割、开展[[Randomised Controlled Trials|随机对照试验]]（RCT）与以人为本的服务设计提供指导。（pp. 795–798）
-> - **长波通用技术范式与制度调适评估** [[Argument_Freeman_1995_CJE|Freeman (1995)]] 与 Freeman & Perez（1988）将演化经济学操作化为分析工业革命中通用技术扩散与国家制度适配性的长波历史分析工具，为诊断技术超前与制度滞后之间的结构性矛盾提供指南。（pp. 17–19）
+> - **长波[[General Purpose Technology|通用技术]][[Paradigm|范式]]与制度调适评估** [[Argument_Freeman_1995_CJE|Freeman (1995)]] 与 Freeman & Perez（1988）将演化经济学操作化为分析工业革命中通用技术扩散与国家制度适配性的长波历史分析工具，为诊断技术超前与制度滞后之间的结构性矛盾提供指南。（pp. 17–19）
 
 ---
 
