@@ -19,6 +19,7 @@ tags:
   - theme/institutional-history
   - region/europe
 related_concepts:
+  - "[[Disciplinary Institutionalization]]"
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Allgemeine Pädagogik]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
@@ -77,7 +78,7 @@ updated: 2026-10-01
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国著名比较教育学家，[[Leibniz Institute for Educational Research and Educational Information|德国国际教育研究所]]（[[Leibniz Institute for Educational Research and Educational Information|DIPF]]）总监与所长（1972–1995），[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）会长（1981–1985），[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）会长（1991–1996）。
-> - **核心角色** 20 世纪后半叶欧洲比较教育学科制度化、东西欧教育交流以及跨国学术网络的核心组织者与史学阐释者；在冷战对峙与后冷战转型时期架设起西欧与中东欧比较教育学术沟通的关键桥梁，开创了欧洲比较教育史编纂的批判制度主义传统。
+> - **核心角色** 20 世纪后半叶欧洲比较教育[[Disciplinary Institutionalization|学科制度化]]、东西欧教育交流以及跨国学术网络的核心组织者与史学阐释者；在冷战对峙与后冷战转型时期架设起西欧与中东欧比较教育学术沟通的关键桥梁，开创了欧洲比较教育史编纂的批判制度主义传统。
 > - **代表贡献** 提出欧洲比较教育演进的“统一性与多样性”核心二分结构；确立比较教育在政策咨询中的[[Navigation Metaphor in Comparative Education|航海隐喻]]（提供航线与暗礁警示而非掌舵操盘）；系统勾勒战后欧洲大学教席、独立研究所与学会建制地图；倡导将比较教育定位为依附于[[Allgemeine Pädagogik|普通教育学]]的[[Comparative Education as a Cross-Sectional Area|交叉学科]]领域。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–99)]]
 
 > [!citation-card] 人物定位的关键来源
@@ -162,7 +163,7 @@ updated: 2026-10-01
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **学术同盟与德国学术重镇伙伴** [[Oskar Anweiler]] — 共同开创战后西德苏联与东欧教育研究传统，并在 DGfE 确立[[Comparative Education as a Cross-Sectional Area|比较教育作为交叉领域]]的学科建制地位。
+> - **学术同盟与德国学术重镇伙伴** [[Oskar Anweiler]] — 共同开创战后西德苏联与东欧教育研究传统，并在 DGfE 确立[[Comparative Education as a Cross-Sectional Area|比较教育作为交叉领域]]的[[Disciplinary Institutionalization|学科建制]]地位。
 > - **学会领袖与跨大西洋同行** [[Brian Holmes]]、[[Edmund King]] — 战后共同投身[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）与世界联合会（[[World Council of Comparative Education Societies|WCCES]]）的创建与领导。
 > - **文化主义当代传承者** [[Robert Cowen]] — 共同主编与撰写《比较教育学国际手册》（2009），坚守欧洲历史文化主义与[[Epistemology|认识论]]批判主流。
 > - **实证[[Paradigm|范式]]批判对象** [[Torsten Husén]] — 评析胡森领导的 [[IEA]] 大规模测评长期游离于欧洲比较教育大学建制与 CESE 网络之外的独立轨道现象。

@@ -27,6 +27,7 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Positivism]]"
   - "[[European Education Space]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Intercultural Education]]"
   - "[[Policy Borrowing]]"
   - "[[Going Native]]"
@@ -136,7 +137,7 @@ updated: 2026-09-29
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 米特系统评析施奈德与汉斯共同开创的欧洲宏大历史文化全景范式，阐释其驱动力理论在发掘欧洲统一性与抗衡量化行为主义中的核心地位。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 将施奈德 1931 年创刊的《国际教育学评论》与 1943 年德国教育海外影响考证置于[[Influences Across Cultures|跨文化影响]]研究传统中，确立其在学科建制化与比较学术史中的里程碑地位（pp. 122–123, 126）。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 将施奈德 1931 年创刊的《国际教育学评论》与 1943 年德国教育海外影响考证置于[[Influences Across Cultures|跨文化影响]]研究传统中，确立其在[[Disciplinary Institutionalization|学科建制化]]与比较学术史中的里程碑地位（pp. 122–123, 126）。
 
 ---
 
@@ -145,7 +146,7 @@ updated: 2026-09-29
 米特（[[Wolfgang Mitter]]）从欧洲比较教育两百年演进的宏观高度，系统界定了施奈德的宗师地位与理论贡献。
 
 > [!citation-card] Rust, Johnstone, & Allaf 论施奈德在[[Influences Across Cultures|跨文化影响]]与建制化史中的奠基贡献
-> 施奈德 1931 年创立《[[International Education|国际教育]]学评论》，在创刊号中系统绘制了比较教育学的历史体系与方法边界，为学科制度化确立了规范的学术术语；其 1943 年对德国教育学在海外地位与影响的宏大学术考证，构成了研究[[Intercultural Education|跨文化教育]]影响不可或缺的历史基石，深刻启迪了战后跨国[[Policy Borrowing|政策借用]]与[[Going Native|本土化]]研究。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–123, 126)]]
+> 施奈德 1931 年创立《[[International Education|国际教育]]学评论》，在创刊号中系统绘制了比较教育学的历史体系与方法边界，为[[Disciplinary Institutionalization|学科制度化]]确立了规范的学术术语；其 1943 年对德国教育学在海外地位与影响的宏大学术考证，构成了研究[[Intercultural Education|跨文化教育]]影响不可或缺的历史基石，深刻启迪了战后跨国[[Policy Borrowing|政策借用]]与[[Going Native|本土化]]研究。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–123, 126)]]
 
 > [!citation-card] 米特论施奈德与欧洲宏大全景[[Paradigm|范式]]
 > 米特（[[Wolfgang Mitter]]）指出，在 20 世纪 20 年代至 50 年代期间，主导欧洲比较教育学术图景的是“宏大历史文化全景”（grand historical-cultural panorama），这一范式主要由德国的弗里德里希·施奈德与英国的[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）共同奠定。深受传统罗马天主教思想影响的施奈德，展现了对教育史及其驱动力中普遍的、尤其是欧洲维度的深刻洞察。这一流派深入探究各民族教育系统的历史背景与文化动力，确立了欧洲比较教育深厚的人文主义与[[Geisteswissenschaften|精神科学]]主干，有力抵御了战后大西洋彼岸量化行为主义的简单化移植。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94)]]
@@ -195,4 +196,4 @@ updated: 2026-09-29
 > | [[Wolfgang Mitter]] | 人物 | 系统评析施奈德在德国大学教席建制与欧洲宏大全景范式中的宗师地位。 |
 > | [[Val D. Rust]] | 人物 | 阐述施奈德在比较教育学术期刊制度化及跨文化影响研究传统中的先驱地位。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 122–123, 126)]] |
 > | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 提供施奈德驱动力理论、欧洲统一性理想及德语区比较教育学制演进的关键史学依据。 |
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 考据施奈德 1931 年创刊与 1943 年海外辐射专著在比较教育学科制度化历程中的关键坐标。 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 考据施奈德 1931 年创刊与 1943 年海外辐射专著在比较教育[[Disciplinary Institutionalization\|学科制度化]]历程中的关键坐标。 |

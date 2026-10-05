@@ -23,6 +23,7 @@ related_concepts:
   - "[[Corporate University]]"
   - "[[Knowledge Production]]"
   - "[[Technology Transfer]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Indirect Costs of Research]]"
   - "[[Soft-Money Faculty Model]]"
   - "[[Academic Start-up Packages]]"
@@ -78,7 +79,7 @@ updated: 2026-10-04
 > | **机构核心角色** | 高端科研空间开发商与声誉品牌授权方 | 学者自治的知识探索共同体与培育庇护所 | 科层集中管控、面向商业产出的[[Knowledge Production\|知识生产]]企业 |
 > | **学者组织身份** | 自负盈亏的“承租商铺店主”（独立 PI） | 享有终身教职薪酬保障的终身学者（Faculty） | 接受绩效考评与任务指派的受雇研发雇员 |
 > | **财务结算纽带** | 间接成本抽取与软钱薪资冲销（实质租金） | 机构内部硬钱预算统收统支与公共拨款 | 企业化成本利润中心与[[Technology Transfer\|技术转让]]商业利润 |
-> | **空间扩张驱动** | 借贷扩建实验室以争夺明星团队与管理费返还 | 按学科建制与教学科研实际需求稳步配置 | 面向高利润应用科技的产业园区孵化导向 |
+> | **空间扩张驱动** | 借贷扩建实验室以争夺明星团队与管理费返还 | 按[[Disciplinary Institutionalization\|学科建制]]与教学科研实际需求稳步配置 | 面向高利润应用科技的产业园区孵化导向 |
 
 ---
 

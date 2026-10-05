@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[Import Substitution Industrialisation]]"
   - "[[Emergence]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Paradigm]]"
   - "[[Valley of Death]]"
   - "[[Creativity]]"
@@ -41,6 +42,7 @@ related_persons: []
 related_facts:
   - "[[DARPA]]"
   - "[[VLSI Project]]"
+  - "[[ARPANET]]"
   - "[[National Science Foundation]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[1956 AT&T Consent Decree]]"
@@ -49,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # MOSIS
@@ -63,7 +65,7 @@ updated: 2026-10-04
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1981 年正式设立；源于 1970 年代末施乐帕洛阿尔托研究中心（Xerox PARC）的林·康威（Lynn Conway）与加州理工学院（Caltech）的卡弗·米德（Carver Mead）提出的超大规模集成电路（[[VLSI Project|VLSI]]）结构化设计革命。
-> - **总部地点 / 业务辐射** 总部设于美国加州南加州大学信息科学研究所，依托阿帕网（ARPANET）及后续互联网向全美及全球高校、国家实验室与中小芯片初创企业提供在线流片拼版服务。
+> - **总部地点 / 业务辐射** 总部设于美国加州南加州大学信息科学研究所，依托[[ARPANET|阿帕网]]（ARPANET）及后续互联网向全美及全球高校、国家实验室与中小芯片初创企业提供在线流片拼版服务。
 > - **法人属性与经费基础** 依托大学研究所设立的非营利公共技术服务实体，早期由 DARPA 与 国家科学基金会（[[National Science Foundation|NSF]]）提供核心研发运营资助，后逐步过渡至自负盈亏的高校与产业流片服务。
 > - **核心宗旨与法定职责** 为高校科研团队与无制造能力的初创企业提供低成本、快速迭代的集成电路原型制造通道，消除芯片物理流片的高昂资金壁垒。
 
@@ -72,7 +74,7 @@ updated: 2026-10-04
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展与服务演进历程
-> - **1978–1980 — 米德–康威革命与早期 MPC 试验** 米德与康威出版划时代著作《超大规模集成电路系统导论》，提出独立于具体晶圆代工厂工艺的“Lambda 可伸缩几何设计规则”；1979 年通过 ARPANET 开展首个多项目芯片（Multi-Project Chip, MPC79）远程流片试验，汇聚了全美十余所顶尖高校的 82 个芯片设计方案。
+> - **1978–1980 — 米德–康威革命与早期 MPC 试验** 米德与康威出版划时代著作《超大规模集成电路系统导论》，提出独立于具体晶圆代工厂工艺的“Lambda 可伸缩几何设计规则”；1979 年通过 [[ARPANET]] 开展首个多项目芯片（Multi-Project Chip, MPC79）远程流片试验，汇聚了全美十余所顶尖高校的 82 个芯片设计方案。
 > - **1981–1990 — [[DARPA]] 资助建制化与高校 [[VLSI Project|VLSI]] 繁荣** DARPA 正式注资设立 MOSIS，由丹尼·科恩（Danny Cohen）等主持；MOSIS 承接全美计算机科学系所的流片需求，直接培育了斯坦福大学（MIPS 架构）与加州大学伯克利分校（RISC 架构）微处理器革命，支撑了全美 100 多所大学的 VLSI 实验教学。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 183)]]
 > - **1990s–至今 — 商业化 Fabless 生态奠基与先进工艺拓展** 随着[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（TSMC）等商业晶圆代工厂的崛起，MOSIS 成为连接全球主流代工厂（TSMC、格罗方德、意法半导体）与全球科研机构的枢纽，支持深亚微米、FinFET 及硅光子前沿芯片原型的敏捷迭代。
 
@@ -89,7 +91,7 @@ updated: 2026-10-04
 > [!pathways]- 独特的多项目晶圆（MPW）流片机制
 > - **设计与制造解耦（Design-Fab Decoupling）** 设计人员无需掌握特定半导体厂繁杂的化学物理工艺，只需遵循标准化的设计规则；MOSIS 充当设计文件与物理代工厂之间的中立数字翻译接口。
 > - **多项目晶圆共享拼版（Multi-Project Wafer, MPW）** 将数十甚至数百个不同大学和机构提交的微型芯片设计合并到同一套高昂的光刻掩膜版（Mask Set）上，使各项目平摊掩膜和晶圆制造成本。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 183)]]
-> - **网络化敏捷提交流程（ARPANET/Internet Submission）** 开创了通过电子邮件远程提交 CIF/GDSII 芯片设计版图、数周内通过快递回寄封装测试样片的敏捷研发流程。
+> - **网络化敏捷提交流程（[[ARPANET]]/Internet Submission）** 开创了通过电子邮件远程提交 CIF/GDSII 芯片设计版图、数周内通过快递回寄封装测试样片的敏捷研发流程。
 
 ---
 
@@ -111,7 +113,7 @@ updated: 2026-10-04
 
 > [!indicators]- 体系成效指标
 > - **资源与项目规模** 累计完成超过 60,000 个芯片设计项目的流片验证，支持了数万名全球芯片设计师的工程实践。
-> - **学术与学科建制化** 支撑全美大学计算机科学与微电子学系从无到有建立起完备的 [[VLSI Project|VLSI]] 实验体系，促成了《计算机体系结构：[[Quantitative Research|量化研究]]方法》经典[[Paradigm|范式]]的建立。
+> - **学术与[[Disciplinary Institutionalization|学科建制化]]** 支撑全美大学计算机科学与微电子学系从无到有建立起完备的 [[VLSI Project|VLSI]] 实验体系，促成了《计算机体系结构：[[Quantitative Research|量化研究]]方法》经典[[Paradigm|范式]]的建立。
 > - **全球半导体产业分工重组** 推动半导体产业由纵向一体化（IDM）模式演变为“设计（Fabless）—代工（Foundry）—封测（OSAT）”的全球精细化分工网络。
 
 > [!finding-cards] 关键成效与辐射影响

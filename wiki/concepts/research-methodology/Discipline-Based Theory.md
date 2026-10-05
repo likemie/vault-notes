@@ -34,6 +34,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Scale of Measurement]]"
   - "[[Self-control]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Scientific Method]]"
   - "[[Theoretical Perspective]]"
 related_theories:
@@ -141,7 +142,7 @@ updated: 2026-09-29
 
 ### 命题二　学科本位理论在比较教育学中捍卫文化历史解释的学科自主性
 
-> [!concept-lens] 学科建制与[[Epistemology|认识论]]防卫维度
+> [!concept-lens] [[Disciplinary Institutionalization|学科建制]]与[[Epistemology|认识论]]防卫维度
 > 本命题探讨学科本位理论在比较教育学术史中如何作为抵制无理论[[Empiricism|经验主义]]调查的技术官僚入侵的制度堡垒。
 
 > [!claim] [[Wolfgang Mitter|Mitter, W.]]

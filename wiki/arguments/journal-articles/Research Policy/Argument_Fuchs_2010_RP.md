@@ -32,6 +32,7 @@ related_concepts:
   - "[[Star Scientists]]"
   - "[[Broad Agency Announcement]]"
   - "[[Saturation]]"
+  - "[[Dual-Use Technology]]"
   - "[[Seed Funding]]"
   - "[[Professional Judgment]]"
   - "[[DARPA Model]]"
@@ -80,7 +81,7 @@ title: "Argument_Fuchs_2010_RP"
 argument_key: "Argument_Fuchs_2010_RP"
 argument_display_title: "Rethinking the role of the state in technology development: DARPA and the case for embedded network governance"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -188,7 +189,7 @@ issuing_organization: ""
 #### 2. 2000 年代采办机制转向工业界与里程碑考核引发了学术界的强烈争议
 
 > [!policy-design] 采办机制的体制性重构
-> 冷战结束后，美国国防战略倾向于削减常规武器采购并加大军民两用技术研发，DARPA 在 1990 年代维持了对高校高度开放的宽松立项传统；然而 2001 年[[Tony Tether|托尼·瑟瑟]]出任局长后，全面转向支持可快速交付的防务能力，推行以老牌系统巨头为主承包商、绑定严格阶段里程碑的采办机制。（pp. 1137–1138）
+> 冷战结束后，美国国防战略倾向于削减常规武器采购并加大[[Dual-Use Technology|军民两用技术]]研发，DARPA 在 1990 年代维持了对高校高度开放的宽松立项传统；然而 2001 年[[Tony Tether|托尼·瑟瑟]]出任局长后，全面转向支持可快速交付的防务能力，推行以老牌系统巨头为主承包商、绑定严格阶段里程碑的采办机制。（pp. 1137–1138）
 
 > [!tension-table] Table 2：DARPA 资助机制在瑟瑟任职前后的对比（1992–2008）
 > | 资助机制维度 | [[Tony Tether\|瑟瑟]]任职前（Pre-Tether, 1992–2000） | [[Tony Tether\|瑟瑟]]任职后（Post-Tether, 2001–2008） |

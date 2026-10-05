@@ -9,7 +9,7 @@ aliases:
 summary: "一种具有跨部门广泛渗透性、内在持续技术动态性以及能诱发下游互补性创新与系统性生产率提升的基础技术范式。"
 type: concept
 domain: "economics"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Second-Sourcing]]"
   - "[[Technology Transfer]]"
   - "[[Technological Convergence]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Determinism]]"
   - "[[Variable]]"
 related_theories:
@@ -45,6 +46,7 @@ related_persons:
   - "[[David C. Mowery]]"
 related_facts:
   - "[[Fairchild Semiconductor]]"
+  - "[[ARPANET]]"
 related_arguments:
   - "[[Argument_Lecuyer_1999_HT]]"
   - "[[Argument_Mowery_2011_NBER]]"
@@ -153,7 +155,7 @@ updated: 2026-10-05
 > 探讨在通用目的技术萌芽期与成熟期，政府采购（特别是国防订单）与商业市场主导力量的消长，以及技术扩散方向的历史性逆转。
 
 > [!claim] Fabrizio, K. R., & [[David C. Mowery|Mowery, D. C.]]
-> **萌芽期先导采购孵化与成熟期逆向溢出规律** 柯克·法布里奇奥（Kirk R. Fabrizio）与[[David C. Mowery|大卫·莫厄里]]（David C. Mowery）指出，信息技术作为通用目的技术的崛起，高度依赖冷战初期国防部等公共部门在产业萌芽阶段承担的高额试错成本与先导采购托底。军方在半导体、计算机硬件与互联网初期的采购订单为企业提供了扩大制造规模以释放学习效应的试验基座；通过推行第二货源（[[Second-Sourcing]]）强制[[Technology Transfer|技术转让]]与阿帕网开源非专利协议，催生了高度竞争的去中心化微观产业生态。然而，随着通用目的技术在商业民用市场成熟并确立主导地位，军民技术规范产生分化（军品偏向特种恶劣环境规格，民品追求低成本与通用算力），国防采购对[[Technological Trajectories|技术轨迹]]的塑造力显著衰减，甚至遭遇技术逆向依赖，通用技术外溢方向从“军转民”彻底逆转为“民用向军工反向溢出”。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 30–34, 38, 41)]]
+> **萌芽期先导采购孵化与成熟期逆向溢出规律** 柯克·法布里奇奥（Kirk R. Fabrizio）与[[David C. Mowery|大卫·莫厄里]]（David C. Mowery）指出，信息技术作为通用目的技术的崛起，高度依赖冷战初期国防部等公共部门在产业萌芽阶段承担的高额试错成本与先导采购托底。军方在半导体、计算机硬件与互联网初期的采购订单为企业提供了扩大制造规模以释放学习效应的试验基座；通过推行第二货源（[[Second-Sourcing]]）强制[[Technology Transfer|技术转让]]与[[ARPANET|阿帕网]]开源非专利协议，催生了高度竞争的去中心化微观产业生态。然而，随着通用目的技术在商业民用市场成熟并确立主导地位，军民技术规范产生分化（军品偏向特种恶劣环境规格，民品追求低成本与通用算力），国防采购对[[Technological Trajectories|技术轨迹]]的塑造力显著衰减，甚至遭遇技术逆向依赖，通用技术外溢方向从“军转民”彻底逆转为“民用向军工反向溢出”。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 30–34, 38, 41)]]
 
 ---
 
@@ -176,7 +178,7 @@ updated: 2026-10-05
 > - **1995 — 通用目的技术理论框架奠定** 布雷斯纳汉与特拉伊滕贝格正式提出通用目的技术（GPT）模型，将其形式化为经济增长引擎。
 > - **1999 — 硅微电子产业史经验确证** 莱屈耶通过[[Fairchild Semiconductor|仙童半导体]]从军用到民用市场的历史[[Case Study|个案研究]]，确证了硅技术确立为通用目的技术的微观企业与制造机理。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 179–209)]]
 > - **2005 — 公共先导采购与军民共演规律确立** 法布里奇奥与莫厄里系统揭示国防研发与先导采购在半导体、计算机硬件、系统软件及互联网四大通用技术部门萌芽期的催化机制，阐明由萌芽期单向外溢向成熟期“民用向军工逆向溢出”的生命周期规律。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 27–44)]]
-> - **2011 — 制度生态与宏观政策演进拓展** 莫厄里系统论证了政府采购、反垄断同意令、大学学科建制与用户[[Co-invention|共同发明]]对微电子、硬件与软件融合为通用目的技术的制度塑造作用，并界定了其向能源气候领域移植的边界。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 159–188)]]
+> - **2011 — 制度生态与宏观政策演进拓展** 莫厄里系统论证了政府采购、反垄断同意令、大学[[Disciplinary Institutionalization|学科建制]]与用户[[Co-invention|共同发明]]对微电子、硬件与软件融合为通用目的技术的制度塑造作用，并界定了其向能源气候领域移植的边界。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 159–188)]]
 
 ---
 
@@ -217,4 +219,4 @@ updated: 2026-10-05
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 详尽考察[[Fairchild Semiconductor|仙童半导体]]在1960–1967年间如何通过[[Application Engineering|应用工程]]、大规模混合制造、离岸[[Assemblage|组装]]与[[Dual In-Line Package|双列直插封装]]创新，将硅微电子技术成功塑造为辐射全美计算机与消费电子等工业部门的通用目的技术。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 论证电子计算机、计算机软件与半导体组件三大基础部门如何经由国防研发投入、先导采购与第二货源机制在产业萌芽期获得催化，并在成熟期演进为由民用向军用逆向溢出的全局通用目的技术——互联网。
-> - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 系统考察战后半导体、计算机硬件与软件三大产业演化，揭示国防采购、反垄断同意令（1956年AT&T同意令、1956年IBM同意令）、大学学科建制与用户[[Co-invention|共同发明]]如何推动信息[[Technological Convergence|技术汇聚]]为互联网这一通用目的技术，并探讨其对气候变化能源创新的镜鉴意义。
+> - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 系统考察战后半导体、计算机硬件与软件三大产业演化，揭示国防采购、反垄断同意令（1956年AT&T同意令、1956年IBM同意令）、大学[[Disciplinary Institutionalization|学科建制]]与用户[[Co-invention|共同发明]]如何推动信息[[Technological Convergence|技术汇聚]]为互联网这一通用目的技术，并探讨其对气候变化能源创新的镜鉴意义。

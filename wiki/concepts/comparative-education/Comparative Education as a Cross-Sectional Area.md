@@ -32,6 +32,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Public Value]]"
   - "[[Intercultural Education]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[State Educational Sovereignty]]"
 related_facts:
@@ -153,7 +154,7 @@ updated: 2026-10-03
 
 ## 争议与批评
 
-> [!debates] 学科建制路径的理论争议
+> [!debates] [[Disciplinary Institutionalization|学科建制]]路径的理论争议
 >
 > > [!axis] 母体依附 vs 独立学科建制
 > > 围绕比较教育是否需要固守[[Allgemeine Pädagogik|普通教育学]]母体地位的建制路线分歧。
@@ -179,7 +180,7 @@ updated: 2026-10-03
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Oskar Anweiler]] | 人物 | 1967 年正式提出将比较教育定性为“交叉领域”的德国比较教育学核心奠基人。 |
-> | [[Wolfgang Mitter]] | 人物 | 总结欧洲比较教育学科建制传统、高度评价安维勒交叉领域论的学科史学者。 |
+> | [[Wolfgang Mitter]] | 人物 | 总结欧洲比较教育[[Disciplinary Institutionalization\|学科建制]]传统、高度评价安维勒交叉领域论的学科史学者。 |
 > | [[Bildung]] | 概念 | 交叉领域论所依托的[[Allgemeine Pädagogik\|普通教育学]]母体学科的核心哲学内核与育人基石。 |
 > | [[Navigation Metaphor in Comparative Education]] | 概念 | 交叉领域模式学者在面对国家政治干预时所秉持的超然政策咨询立场。 |
 > | [[State Educational Sovereignty]] | 概念 | 交叉领域研究中历史与社会学维度所考察的民族国家教育主权制度容器。 |

@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 14
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "国防承包商 / 软件工程研发机构"
 headquarters: "美国加利福尼亚州圣莫尼卡（Santa Monica, California）"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Informationalization]]"
   - "[[Paradigm]]"
   - "[[Emergence]]"
+  - "[[Dual-Use Technology]]"
   - "[[Assured Demand]]"
   - "[[Demand-side Innovation Policy]]"
   - "[[Corporate R&D Labs]]"
@@ -45,6 +46,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Schnee_1978_RP]]"
   - "[[Argument_Mowery_2011_NBER]]"
+  - "[[Argument_Fabrizio_Mowery_2005_REI]]"
 confidence: high
 status: active
 created: 2026-10-04
@@ -109,7 +111,9 @@ updated: 2026-10-05
 ## 影响与体系成效
 
 > [!finding-cards] 关键成效与辐射影响
+> - **充当美国软件工业的“程序员大学”** SDC 在承担 [[Sage]] 软件开发过程中，扮演了全美最早也最具规模的程序员大学角色，为原本缺乏正规计算机高等教育的美国系统性培育了数百至数千名掌握复杂系统架构的先驱软件人才，构筑了战后全美软件工业的基石。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 37)]]
 > - **奠定现代软件工程方法论** SDC 在应对 [[Sage]] 软件危机过程中探索出的需求分析、版本管理与模块化回归测试流程，成为全球软件工程学科的实践源头。
+> - **军工系统软件技术向早期商业大型系统溢出** SDC、IBM、TRW 及休斯等承包商在 SAGE 等军工合同中淬炼出的超大规模实时系统架构和数据交互技术诀窍，迅速向民用商业系统外溢，直接催生了以美航 Sabre 民航客票联机预订系统为代表的早期民用大型软件工程。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 37)]]
 > - **催生美国商业软件产业生态** SDC 训练出的大批软件工程师离职创业或加盟成熟厂商，直接促成了 IBM 等硬件大厂在 1969 年实现软硬件解绑（Unbundling），加速了独立软件提供商（ISV）生态的繁荣。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 178)]]
 > - **实证支持任务导向[[Human Capital Theory|人力资本理论]]** SDC 的经验证实：在全新技术[[Paradigm|范式]][[Emergence|涌现]]期，正规大学教育往往滞后；国家重大工程驱动的专业研发机构能够承担起超常规通用技能培训的公共品职能。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 19)]]
 
@@ -123,6 +127,7 @@ updated: 2026-10-05
 > |:-----|:-----|:-----|
 > | [[Semi-Automatic Ground Environment]] | Fact | SDC 为之专门设立并承担全部软件开发与人员培训的核心国家工程。 |
 > | [[Human Capital Theory]] | Theory | SDC 作为国家任务驱动的大规模通用工程人力资本孵化母体的实证案例。 |
+> | [[Dual-Use Technology]] | Concept | SDC 承担的军工系统软件工程向民用航空订票系统（Sabre）溢出的两用技术演化。 |
 > | [[Assured Demand]] | Concept | 空军对 [[Sage]] 庞大系统采购为 SDC 软件工程技术与人才培养提供的托底保障。 |
 > | [[Demand-side Innovation Policy]] | Concept | 国防软件公共采购拉动早期民用软件服务业自发扩散的机制。 |
 > | [[Corporate R&D Labs]] | Concept | SDC 开创了不同于传统硬件实验室的专业软件研发机构形态。 |

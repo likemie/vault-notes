@@ -35,6 +35,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Academic Freedom]]"
   - "[[Policy Borrowing]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Positivism]]"
   - "[[Commensuration]]"
   - "[[Scientism]]"
@@ -149,7 +150,7 @@ updated: 2026-10-02
 > - **政策与制度渗透** 学会历任骨干学者深度参与[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]、[[OECD|经合组织]]（[[OECD]]）与美国国际开发署的核心教育援助决策，直接塑造了全球教育[[Policy Borrowing|政策借用]]与技术治理的模型库。
 
 > [!finding-cards] 关键成效与辐射影响
-> - **学科建制化确立** 终结了 19 世纪零星的个人游记与业余行政考察，将比较教育建构为具有专业学会、核心刊物、博士梯队与同行评议规程的完整现代社会科学学科。
+> - **[[Disciplinary Institutionalization|学科建制化]]确立** 终结了 19 世纪零星的个人游记与业余行政考察，将比较教育建构为具有专业学会、核心刊物、博士梯队与同行评议规程的完整现代社会科学学科。
 > - **范式演变与方法拓殖** 依托 CER 半个世纪的发表实践，推动比较研究从早期思辨描述向现代经验量化拓展（非历史研究占比达约 60%）；破除了战后[[Structural Functionalism|结构功能主义]]一元垄断，孕育了包容[[Positivism|实证主义]]、[[Dependency Theory|依附理论]]、[[Critical Theory|批判理论]]与[[Postmodernism|后现代主义]]的理论[[Pluralism|多元主义]]。
 > - **全球多中心学术网络催化** 作为核心创会主体促成[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES）壮大至 33 个成员学会，从制度上瓦解了早期英美西欧学术霸权的封闭垄断，推动非西方自主知识生产的合法化。
 

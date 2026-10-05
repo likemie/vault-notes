@@ -33,6 +33,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Positivism]]"
   - "[[Falsification]]"
   - "[[Homework]]"
@@ -104,7 +105,7 @@ updated: 2026-09-24
 > |---|---|---|---|---|
 > | **核心关切** | 我或我们如何获知与检验经验 | 共同体如何提出、沟通、评估与合法化主张 | 知识在哪些学科传统与社会领域中组织 | 如何通过经验观察与受控实验验证[[Hypothesis\|假设]] |
 > | **[[Unit of Analysis\|分析单位]]** | 感知、语言、理性等认知与符号资源 | 微观话语互动、具身动作与社会规范规程 | 数学、自然科学、历史、艺术等大类系统 | 假设提出、[[Variable\|变量]]控制与实验检验线性步骤 |
-> | **认识论取向** | [[Metacognition\|元认知]]反思与跨学科认识资源考察 | 社会建构论与情境化微观互动实践 | 知识分类学与学科建制传统 | 经典[[Positivism\|实证主义]]法则性推论与经验[[Falsification\|证伪]] |
+> | **认识论取向** | [[Metacognition\|元认知]]反思与跨学科认识资源考察 | 社会建构论与情境化微观互动实践 | 知识分类学与[[Disciplinary Institutionalization\|学科建制]]传统 | 经典[[Positivism\|实证主义]]法则性推论与经验[[Falsification\|证伪]] |
 > | **课程功能** | 提供追问知识形成来源的反思工具 | 引导学生深度参与学科真实探究文化 | 框定知识探究与课程大纲的具体领域 | 作为理科实验操作的标准[[Homework\|作业]]程序规范 |
 
 ---

@@ -36,6 +36,7 @@ related_concepts:
   - "[[Second-Sourcing]]"
   - "[[Paradigm]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Research Translation]]"
   - "[[Knowledge Production]]"
   - "[[Big Science]]"
@@ -158,7 +159,7 @@ updated: 2026-10-05
 > - **大学基础科研资助基石（[[Blue Skies Research]]）** 每年向全美高校与研究机构下拨数以万计的竞争性科研基金，支撑全美约四分之一的高校联邦基础研究，孕育了数百位诺贝尔奖得主与突破性科学发现。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 13)]]
 > - **[[University-Industry Collaboration|产学合作]][[Innovation Hub|创新中心]]矩阵（[[Industry-University Cooperative Research Centers|I/UCRC]]、ERCs 与 STCs）** 自 1978 年试点以来构建的产学协同长效载体，为大学教师与研究生深入企业现实工程难题、为企业锁定顶尖博士后人才提供了跨界共生网络。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **国家超级计算机中心（Supercomputer Centers）** 1980 年代在全美 5 所大学经全国竞争设立的国家级前沿计算设施，向全美合格大学教师开放基于同行评审的机时申请，为互联网早期主干网建设与计算密集型科研奠定技术基础。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
-> - **大学计算机科研基础设施与学科建制** 1960 年代起系统资助全美高校计算机实验室建设与计算机科学系（CS）课程开发，并在冷战后期接棒国防部成为高校计算机基础科研的主要民事资助支柱。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 37)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 176)]]
+> - **大学计算机科研基础设施与[[Disciplinary Institutionalization|学科建制]]** 1960 年代起系统资助全美高校计算机实验室建设与计算机科学系（CS）课程开发，并在冷战后期接棒国防部成为高校计算机基础科研的主要民事资助支柱。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 37)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 176)]]
 > - **NSF 创新兵团创业培训体系（[[NSF I-Corps]]）** 2011 年创设的高校学术创业孵化标杆，通过教授学者创业思维并要求产业代表深度参与，在科研项目中内置产业反馈闭环，累计孵化超 1,000 家初创企业，后续撬动逾 7.6 亿美元融资。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
 > - **TIP 区域创新引擎与[[Innovation Hub|创新中心]]** 依据《[[CHIPS and Science Act|芯片与科学法案]]》重点投向非传统科技聚集区，向 10 个区域创新合作体授予高达 1.6 亿美元的十年期资助，推动先进制造、人工智能等战略[[Research Translation|技术转化]]。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]
 > - **国家人工智能研究院网络** 联合教育部、农业部等多部门围绕 10 余个重点方向设立 25 所国家 AI 研究院，由世界一流大学与领先科技企业共同组成；以加州大学圣迭戈分校牵头的大规模学习优化 AI 研究院为例，联合 MIT、耶鲁及英伟达、三星，并引入斯威特沃特联合高中学区等应用场景提供方，实现了前沿算法在芯片设计与教育场景的双向赋能。[[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 40)]]

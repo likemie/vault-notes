@@ -44,6 +44,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Scientific Paradigm]]"
   - "[[Critical Pedagogy]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Allgemeine Pädagogik]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Positivism]]"
@@ -261,7 +262,7 @@ updated: 2026-10-01
 > - **19世纪中叶 — 英国文化批判转向** 阿诺德发表《文化与无政府状态》，以欧洲大陆公学考察倡导以国家支持的古典教化抵御市侩庸人信条。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 38)]]
 > - **20世纪中叶 — 文明危机中的全人教化防线** [[Robert Ulich\|乌利希]]发表《民族教育：历史视重视角下的比较》（1961），梳理西方思想史四阶段，将教化升华为战后比较教育抵御技术官僚异化的人文底线；克拉夫基（Klafki）提出结合[[Epochal Key Problems\|时代关键问题]]的[[Critical Pedagogy|批判教学论]]教化观。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 51–52)]]；[[Argument_Schaffar_2024_CogentEdu\|(Schaffar & Wolff, 2024, pp. 6–7)]]
 > - **1940s–1950s — 二战浩劫与[[Scientific Paradigm\|比较教育科学范式]]转型** 欧洲受教育精英与法西斯极权合流的残酷事实打破了古典教化的道德神话，比较教育学全面反思唯心主义历史学派的局限，开启了追求因果规律、教育规划与政策处方的[[Scientific Paradigm\|科学范式]]转型。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–60)]]
-> - **1960s–1990s — 欧陆母体学科依托与两德制度比较** 在欧洲比较教育学科建制化过程中，安维勒与米特将教化（Bildung）及其母体学科[[Allgemeine Pädagogik|普通教育学]]（Allgemeine Pädagogik）确立为学科根基；通过将比较教育定义为横切历史与社会学的“[[Comparative Education as a Cross-Sectional Area\|交叉领域]]”，成功开展了跨越冷战意识形态对立的两德教化与教育制度宏大比较工程（Anweiler, 1990），确立了教化作为欧陆比较研究核心规范价值的地位。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 96–98)]]
+> - **1960s–1990s — 欧陆母体学科依托与两德制度比较** 在欧洲比较教育[[Disciplinary Institutionalization|学科建制化]]过程中，安维勒与米特将教化（Bildung）及其母体学科[[Allgemeine Pädagogik|普通教育学]]（Allgemeine Pädagogik）确立为学科根基；通过将比较教育定义为横切历史与社会学的“[[Comparative Education as a Cross-Sectional Area\|交叉领域]]”，成功开展了跨越冷战意识形态对立的两德教化与教育制度宏大比较工程（Anweiler, 1990），确立了教化作为欧陆比较研究核心规范价值的地位。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 96–98)]]
 > - **21世纪初至今 — 抵抗数字化算法治理与技能原子化** 面临[[Learnification\|学习化]]（Learnification）、[[Visible Learning\|可见的学习]]（Hattie）及在线自我评估（[[Online Self-Assessment\|OSA]]）的算法挤压，学界重拾教化哲学以捍卫不可度量的生命体验与开放未来。[[Argument_Larsen_2019_EducSci\|(Larsen, 2019, p. 8)]]；[[Argument_Thompson_2022_Promising_Student\|(Thompson et al., 2022, p. 227)]]
 
 ---
@@ -288,7 +289,7 @@ updated: 2026-10-01
 > > - **古典人文主义传统（Humboldt, 1961; Arnold, 1869）** 坚信研读古典人文学术能够涵养人性的至善与公义，维系社会理性与国家秩序。
 > > - **战后批判史学派（Davies, 1997; Mazower, 1998; [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou, 2009]]）** 针砭指出欧洲受教育程度最高、深谙古典文化的精英阶层不仅未能阻止暴行，反而在极权官僚中大行其道，宣告了单纯依赖[[Paideia\|古典教化]]作为道德防线的全面坍塌。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–60)]]
 >
-> > [!axis] 古典教化哲学情怀 vs 半个世纪学科制度化成就
+> > [!axis] 古典教化哲学情怀 vs 半个世纪[[Disciplinary Institutionalization|学科制度化]]成就
 > > 在比较教育学界，有学者呼吁全盘回归希腊古风 *Paideia* 以拯救学科技术官僚化危机。考恩提出了审慎的反思：过分神化教化情怀如果演变为对战后半个世纪以来跨国经验测评、因果分析与政策制度化成就的否定，实际上是在削弱学科的立足根基；必须将经验成就与历史教化自觉有机融通。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 327)]]
 > >
 > > - **古典复兴派** 主张比较教育彻底回归哲学人文教化。
@@ -330,7 +331,7 @@ updated: 2026-10-01
 > | [[Robert Ulich]] | 人物 | 编纂两千年思想史四阶段，确立以人（*Anthropos*）为中心的比较教化防线。 |
 > | [[Andreas Kazamias]] | 人物 | 系统重构历史母题中广义教化超越微观学校教育（*schooling*）的方法论价值。 |
 > | [[Oskar Anweiler]] | 人物 | 主持两德教化与教育制度大型比较项目、提出比较教育交叉领域论的德国学者。 |
-> | [[Wolfgang Mitter]] | 人物 | 阐释欧陆教化传统与普通教育学母体在比较教育学科建制中深远影响的学者。 |
+> | [[Wolfgang Mitter]] | 人物 | 阐释欧陆教化传统与普通教育学母体在比较教育[[Disciplinary Institutionalization\|学科建制]]中深远影响的学者。 |
 > | [[Franz Hilker]] | 人物 | 考据古代比较探究作为教育实践艺术的源流，倡导深植于教化传统的比较教育学建制。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 121–122)]] |
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 追溯古典教化观察、教育实践艺术源流及德语学科定名在两百年史学中的演进。 |
 

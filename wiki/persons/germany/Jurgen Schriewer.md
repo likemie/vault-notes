@@ -37,6 +37,7 @@ related_concepts:
   - "[[Discipline-Based Theory]]"
   - "[[Determinism]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Document]]"
 related_theories:
   - "[[Autopoiesis]]"
@@ -135,7 +136,7 @@ updated: 2026-09-29
 
 ### 命题二　欧洲比较教育的认识论身份必须依赖母学科理论与文化历史深描来捍卫
 
-> [!concept-lens] 学科建制与理论自主性维度
+> [!concept-lens] [[Disciplinary Institutionalization|学科建制]]与理论自主性维度
 > 本命题探讨施里韦尔在当代全球实证化与技术官僚测评冲击下对[[Discipline-Based Theory|学科理论]]尊严的捍卫。
 
 > [!claim] Schriewer, J.

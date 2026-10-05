@@ -27,6 +27,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Scientific Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Comparative History of Comparative Education]]"
   - "[[Geisteswissenschaften]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
@@ -112,7 +113,7 @@ updated: 2026-10-01
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1950年代 — 学科建制化与方法论自觉萌发** 回应学科初创期缺乏独立专业期刊与共同学术规范的危机，依托哥伦比亚大学和比较教育学会构建学术共同体交流基础设施；率先意识到学科正迈向反思自身操作工具的成熟期，呼吁将方法论探讨置于首要地位。
+> - **1950年代 — [[Disciplinary Institutionalization|学科建制化]]与方法论自觉萌发** 回应学科初创期缺乏独立专业期刊与共同学术规范的危机，依托哥伦比亚大学和比较教育学会构建学术共同体交流基础设施；率先意识到学科正迈向反思自身操作工具的成熟期，呼吁将方法论探讨置于首要地位。
 >   - **代表著作** *Some Discussion of Methods in Comparative Education* (1957); *Comparative Education at Columbia University* (1960); CER 创刊发刊词与系列社论。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 7)]]; [[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 65)]]
 >   - **阶段转向** 从流亡学者的跨国游历转向美国高等教育机构内部的学科建制化攻坚，确立同行评审规范与方法论反思自觉。
 > - **1960年代 — 历史学派与[[Scientific Paradigm\|科学范式]]之间的过渡桥梁：[[Bereday's Comparative Method|四步比较法]]** 回应传统历史学派依靠学者直觉与无序史料堆砌的弊端，在不完全否定人文历史解释的前提下，审慎吸收社会科学工具，建立系统、客观的经验归纳[[Analytic Framework\|分析框架]]。

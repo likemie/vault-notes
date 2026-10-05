@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -45,6 +45,7 @@ related_facts:
   - "[[1956 IBM Consent Decree]]"
   - "[[Office of Naval Research]]"
   - "[[DARPA]]"
+  - "[[ARPANET]]"
 related_arguments:
   - "[[Argument_Mowery_2011_NBER]]"
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
@@ -172,7 +173,7 @@ updated: 2026-10-05
 > | [[Co-invention]] | Concept | 美洲航空公司与 IBM 基于 SAGE 技术联合开发 SABRE 订票系统是共同发明的经典[[Paradigm\|范式]]。 |
 > | [[1956 IBM Consent Decree]] | Fact (Policy) | 与 SAGE 军品采购协同重塑了战后美国计算机产业的分工与竞争生态。 |
 > | [[Office of Naval Research]] | Fact (Organization) | 早期旋风工程计算资助方，为 SAGE 的实时架构奠定了技术前身。 |
-> | [[DARPA]] | Fact (Organization) | 继承并发展了 SAGE 确立的分组通信与交互计算范式，催生了 ARPANET。 |
+> | [[DARPA]] | Fact (Organization) | 继承并发展了 SAGE 确立的分组通信与交互计算范式，催生了 [[ARPANET]]。 |
 > | [[Cold War University]] | Concept | MIT 设立林肯实验室主导 SAGE 研发，是冷战大学服务国防[[Big Science\|大科学工程]]的原型。 |
 > | [[Learning by Doing]] | Concept | IBM 在 AN/FSQ-7 制造与 [[System Development Corporation\|SDC]] 在软件编写中通过干中学完成了工程能力爬坡。 |
 > | [[Technological Trajectories]] | Theory | SAGE 开辟了从批处理向实时在线交互与分布式组网演进的技术新轨道。 |

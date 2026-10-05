@@ -33,6 +33,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[International Education]]"
   - "[[Paradigm]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[State Educational Sovereignty]]"
   - "[[Rich and Thick Description]]"
 related_theories: []
@@ -121,7 +122,7 @@ updated: 2026-09-29
 > - **从行政视察迈向大学建制化的历史桥梁** 米特深刻指出，[[Michael Sadler|萨德勒]]主政的 OSIR 搭建起了 19 世纪督学行政考察与 20 世纪大学比较教育教席之间的关键桥梁，直接奠定了英国在欧洲比较教育学术建制中的双核领先地位。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 89–90)]]
 > - **孕育 20 世纪历史文化学派** 萨德勒在 OSIR 的研究直接哺育了[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel），后者将这一传统带往美国哥伦比亚大学并成为 20 世纪前半叶的主流[[Paradigm|范式]]。
 
-> [!citation-card] 米特论特别调查与报告办公室的学科建制奠基意义
+> [!citation-card] 米特论特别调查与报告办公室的[[Disciplinary Institutionalization|学科建制]]奠基意义
 > 现代大学比较教育首先在英国生根。迈克尔·萨德勒推动英国政府设立特别查询与报告办公室，以德国为核心参照系开启了系统性的比较研究；伦敦大学教育研究院（IOE）随后全面发扬了萨德勒的这一遗产，汇聚了汉斯、劳威斯、霍姆斯等学者，形成了全欧学术重镇。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 89–90)]]
 >
 > *Modern university comparative education first took root in the United Kingdom. Michael Sadler stimulated the British Government to set up the Office of Special Inquiries and Reports, initiating systematic comparative studies with Germany as the core system of reference... The IOE in London continued Sadler's legacy.*

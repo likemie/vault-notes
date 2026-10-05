@@ -34,6 +34,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Academic Iconography]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Hypothesis]]"
   - "[[Knowledge Production]]"
   - "[[Enlightenment]]"
@@ -90,7 +91,7 @@ updated: 2026-09-29
 
 > [!concept-lens] 阅读透镜
 > - **对象** 比较教育学学科史编纂学（Historiography of Comparative Education）、经典起源叙事、跨国学术网络与肖像学建构。
-> - **张力** 学科制度化带来的合法性满足 vs 历史研究实际面临的档案隐蔽与材料密度极度匮乏；西方中心与英美垄断的学科起源神话 vs 拉美（巴西、阿根廷）与欧洲大陆多元脉络被边缘化的客观现实。
+> - **张力** [[Disciplinary Institutionalization|学科制度化]]带来的合法性满足 vs 历史研究实际面临的档案隐蔽与材料密度极度匮乏；西方中心与英美垄断的学科起源神话 vs 拉美（巴西、阿根廷）与欧洲大陆多元脉络被边缘化的客观现实。
 > - **贡献** 明确提出了从单一学科史向比较教育学的比较史转型的纲领，提炼出包含女性学者显影、元认识论[[Hypothesis\|假设]]解构、跨洲关键人物深层评传、学科肖像学批判在内的五大研究议程，确立了未来决定过去的历史哲学命题。
 
 ---
@@ -221,7 +222,7 @@ updated: 2026-09-29
 > [!exegesis] 拉美教育先驱与被遮蔽女性学者的历史考察
 > 考恩强调，一部名副其实的比较教育学比较史必须正视两类触目惊心的结构性空白：
 > 1. **拉美先锋思想的沉沦** 阿根廷的 Sarmiento 既是深刻洞察美洲文明与野蛮冲突的政治家，又是以跨国考察重构阿根廷国民教育体系的杰出比较教育实践家；巴西的 Teixeira 则是[[John Dewey\|约翰·杜威]]（John Dewey）哲学的积极传播者与巴西现代公立教育的奠基人，其跨国学术联结横跨美洲与欧洲。然而，西方主导的比较教育正史对两国的历史记载几乎为零，学者们只能在专业期刊零星片段中寻觅线索。（pp.8–9）
-> 2. **女性在学科建制中的隐形** 考恩点名指出了 Ann Dryland 与 Madame Hattinguais 等女性学者的历史遭遇。她们在大学课堂、学会建立和战后跨国教育交流中做出了不可磨灭的贡献，真实地活在历史之中；但在男性学者垄断的文献编纂中，她们却彻底消失了。比较史必须承担起让隐匿者重新显影（make visible）的道义责任。（p.9）
+> 2. **女性在[[Disciplinary Institutionalization|学科建制]]中的隐形** 考恩点名指出了 Ann Dryland 与 Madame Hattinguais 等女性学者的历史遭遇。她们在大学课堂、学会建立和战后跨国教育交流中做出了不可磨灭的贡献，真实地活在历史之中；但在男性学者垄断的文献编纂中，她们却彻底消失了。比较史必须承担起让隐匿者重新显影（make visible）的道义责任。（p.9）
 
 为将宏观倡议转化为可执行的学术实践，考恩提出了依托大型基金会（如 Gulbenkian 或 Hoover Foundation）资助的跨国协同研究架构，由 Harold Noah、Max Eckstein、[[Andreas Kazamias|Andreas Kazamias]]、Wolfgang Mitter 与瓦尔·鲁斯特（[[Val D. Rust|Val Rust]]）等资深学者组成学术顾问委员会（Advisory Board），指导研究团队系统推进五大探究维度：
 

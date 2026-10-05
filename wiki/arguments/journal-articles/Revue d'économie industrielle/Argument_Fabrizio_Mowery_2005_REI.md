@@ -24,11 +24,14 @@ tags:
   - theme/procurement
   - theme/spillover
 related_concepts:
+  - "[[University-Based Research Infrastructure]]"
   - "[[General Purpose Technology]]"
   - "[[Paradigm]]"
+  - "[[Dual-Use Technology]]"
   - "[[Cold War University]]"
   - "[[Second-Sourcing]]"
   - "[[Emergence]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Knowledge Mediation]]"
   - "[[Learning Economy]]"
   - "[[Learning by Doing]]"
@@ -53,9 +56,11 @@ related_facts:
   - "[[DARPA]]"
   - "[[American Association for the Advancement of Science]]"
   - "[[National Science Foundation]]"
+  - "[[ARPANET]]"
   - "[[Bell Labs]]"
   - "[[European Research Area]]"
   - "[[Semi-Automatic Ground Environment]]"
+  - "[[System Development Corporation]]"
   - "[[National Institutes of Health]]"
 related_arguments: []
 sources:
@@ -70,9 +75,9 @@ title: "Argument_Fabrizio_Mowery_2005_REI"
 argument_key: "Argument_Fabrizio_Mowery_2005_REI"
 argument_display_title: "Defense-related R&D and the growth of the postwar information technology industrial complex in the United States"
 argument_kind: "journal-article"
-argument_related_count: 28
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 31
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Revue d'économie industrielle"
 book_title: ""
@@ -90,7 +95,7 @@ issuing_organization: ""
 > 战后美国以国防部（Department of Defense, DoD）为核心的联邦研发（Research and Development, R&D）投资与公共采购政策，究竟通过何种具体机制催生并塑造了微电子、计算机硬件、系统软件及互联网四大支柱产业？随着民用商业市场的成熟与技术扩散路径的反转，国防支持的效能呈现怎样的生命周期演变？2001 年九一一袭击事件（September 11 attacks, 9/11）后联邦研发预算向反恐与国土安全重组，又将对国家[[Systems of Innovation|创新系统]]与大学基础科研生态产生何种长远冲击？
 
 > [!claim] 核心主张
-> 战后美国信息技术（Information Technology, IT）产业复合体的崛起与制度特征，根本上依托于冷战时期联邦国防研发与先导采购在产业萌芽期提供的关键催化——国防资助奠定了大学科研基础设施与开放学科网络，先导采购与第二货源机制通过学习效应降低了技术成本并培育出高度动态的新创企业竞争生态；但国防支持的创新收益随产业成熟与商业市场扩张而递减，技术溢出逐渐演变为由民用向军用的逆向流动；9/11 后向短期战术开发与生物反恐倾斜的研发重组，可能弱化大学物理工程基础研究并侵蚀知识长期外溢效应。
+> 战后美国信息技术（Information Technology, IT）产业复合体的崛起与制度特征，根本上依托于冷战时期联邦国防研发与先导采购在产业萌芽期提供的关键催化——国防资助奠定了[[University-Based Research Infrastructure|大学科研基础设施]]与开放学科网络，先导采购与第二货源机制通过学习效应降低了技术成本并培育出高度动态的新创企业竞争生态；但国防支持的创新收益随产业成熟与商业市场扩张而递减，技术溢出逐渐演变为由民用向军用的逆向流动；9/11 后向短期战术开发与生物反恐倾斜的研发重组，可能弱化大学物理工程基础研究并侵蚀知识长期外溢效应。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 1945–2005 年战后美国信息技术产业复合体（半导体、计算机硬件、计算机软件、互联网）的演进历史、联邦研发预决算数据及国防采购制度。
@@ -105,11 +110,12 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **[[General Purpose Technology\|通用目的技术]]**<br>通用目的技术（General Purpose Technology, GPT） | 将电子计算机、半导体与软件所孕育的互联网界定为横跨多个工业部门的基础技术[[Paradigm\|范式]]，解释其广泛渗透与互补性创新扩散机制。 |
+> | **[[Dual-Use Technology\|军民两用技术]]**<br>军民两用技术（Dual-Use Technology） | 解释兼具军民潜力的技术范式在产业生命周期中的阶段演进规律，透视早期军向民溢出与成熟期民向军逆向溢出的机制切换。 |
 > | **[[Cold War University\|冷战大学]]**<br>冷战大学（Cold War University） | 揭示斯坦福大学与麻省理工学院等顶尖高校如何依托国防科研合同建立跨学科科研基础设施，促进军民知识杂交与工程人才供给。 |
 > | **[[Second-Sourcing\|第二货源采购机制]]**<br>第二货源采购机制（Second-Sourcing） | 解释国防部采购规程如何强制主承包商向竞争对手移交设计与工艺诀窍，在防范断供的同时促进产业内技术扩散与新创企业[[Emergence\|涌现]]。 |
 
 > [!warrant]- 理论如何支撑论证
-> 通用目的技术视角界定了信息技术对国民经济长期增长的战略外溢性质；冷战大学概念解释了上游基础科研、学科建制与高层次人才供给的制度源头；需求侧的先导采购与第二货源规制则打通了从实验室原型向量产规模经济与动态市场竞争跨越的微观演化链条，三者共同构建起解析公共政策与新兴产业共演的制度[[Analytic Framework|分析框架]]。
+> 通用目的技术视角界定了信息技术对国民经济长期增长的战略外溢性质；军民两用技术[[Analytic Framework|分析框架]]揭示了国防政策效能随技术生命周期演化的规律；冷战大学概念解释了上游基础科研、[[Disciplinary Institutionalization|学科建制]]与高层次人才供给的制度源头；需求侧的先导采购与第二货源规制则打通了从实验室原型向量产规模经济与动态市场竞争跨越的微观演化链条，共同构建起解析公共政策与新兴产业共演的制度[[Analytic Framework|分析框架]]。
 
 ---
 
@@ -126,7 +132,7 @@ issuing_organization: ""
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **文本样本** | 涵盖 1949–2005 年联邦政府研发支出决算、1950 年代军方先导计算机项目清单、1965–1990 年集成电路市场结构以及 9/11 后反恐与国土安全预算报告。 |
-> | **产业情境** | 聚焦半导体组件（晶体管、集成电路）、计算机硬件（从电子数值积分计算机到大型机）、计算机软件（系统软件、面向通用商业语言与 Ada 语言）及互联网（阿帕网、传输控制协议与网际协议、万维网）四大新兴支柱部门。 |
+> | **产业情境** | 聚焦半导体组件（晶体管、集成电路）、计算机硬件（从电子数值积分计算机到大型机）、计算机软件（系统软件、面向通用商业语言与 Ada 语言）及互联网（[[ARPANET\|阿帕网]]、传输控制协议与网际协议、万维网）四大新兴支柱部门。 |
 > | **跨国参照** | 选取西欧诸国（英、法、德）及日本在冷战时期的国防工业资助政策与网络通信原型部署作为对照基准。 |
 
 ---
@@ -155,7 +161,7 @@ issuing_organization: ""
 ### 论证步骤一　国防研发投资通过知识基础设施、技术衍生与先导采购三大渠道系统奠定了新兴产业底座
 
 > [!claim] 步骤一核心主张
-> 国防公共投资对民用技术创新绩效的驱动力并不局限于狭义的军用武器研制，而是通过建立大学科研基础设施、早期军转民技术衍生以及先导采购拉动微观学习效应三大核心渠道发挥全方位制度支撑作用。（pp. 30–31）
+> 国防公共投资对民用技术创新绩效的驱动力并不局限于狭义的军用武器研制，而是通过建立[[University-Based Research Infrastructure|大学科研基础设施]]、早期军转民技术衍生以及先导采购拉动微观学习效应三大核心渠道发挥全方位制度支撑作用。（pp. 30–31）
 
 #### 1. 联邦国防科研经费长期主导全美研发并支撑起前沿学科的大学科研基础设施
 
@@ -163,7 +169,7 @@ issuing_organization: ""
 
 > [!policy-context] 联邦国防研发支出的历史规模与学科分布
 > - **联邦研发在全美总研发中的支配地位** 在 1953–1978 年间，联邦研发支出占据全美研发总投入的 50% 以上，直至 1990 年后才降至 40% 以下；而在 1950 年代大部分年份中，国防研发占联邦研发支出的 80% 以上，在 1949–2005 年全期鲜少低于 50%。（pp. 28–29）
-> - **重点工程与计算学科科研基础设施的奠定** 尽管国防预算中 85%–90% 集中于战术试验与工程开发，但其投向基础与应用研究的资金依然支撑了计算机科学 35%（2001 财年）及工程科学 30% 以上的联邦科研预算，直接培育了包括斯坦福大学与麻省理工学院在内的[[Cold War University|冷战大学]]科研基础设施。（pp. 28–29）
+> - **重点工程与计算学科科研基础设施的奠定** 尽管国防预算中 85%–90% 集中于战术试验与工程开发，但其投向基础与应用研究的资金依然支撑了计算机科学 35%（2001 财年）及工程科学 30% 以上的联邦科研预算，直接培育了包括斯坦福大学与麻省理工学院在内的[[Cold War University|冷战大学]]与[[University-Based Research Infrastructure|依托大学的科研基础设施]]。（pp. 28–29）
 
 > [!example]- 图1：1949–2005年联邦政府国防与非国防研发支出占联邦研发总支出份额
 > ![](https://img.mylikemie.icu/sources/Fabrizio_Mowery_2005_REI/figures/Fabrizio_Mowery_2005_REI_Fig1_Defense_Nondefense_Share_Federal_RD.jpg)
@@ -182,7 +188,7 @@ issuing_organization: ""
 
 > [!dimension] 国防公共投资影响民用创新的三大制度渠道
 > - **知识创造与制度构建渠道**
->   国防基础与应用研究资助大学建立科研基础设施，推动计算机等新兴学科建制化，为全行业持续供给高层次科研人才与交叉知识流动。（pp. 30–31）
+>   国防基础与应用研究资助大学建立科研基础设施，推动计算机等前沿领域的[[Disciplinary Institutionalization|学科建制化]]，为全行业持续供给高层次科研人才与交叉知识流动。（pp. 30–31）
 > - **经典技术衍生渠道**
 >   军工研发直接孕育出具备民用潜力的新技术；在产业萌芽早期，由于军民技术规范重叠度极高，民用衍生效益最为直接显著。（p. 31）
 > - **先导采购与[[Learning Economy|学习经济]]渠道**
@@ -262,7 +268,7 @@ issuing_organization: ""
 在软件领域，大型防空外包工程与军方强制采购标准同样充当了最初的产业孵化平台。
 
 > [!proc] 计算机软件产业的国防孵化机制
-> 1. **[[Sage]] 防空工程与软件人才培养** 1950 年代[[Semi-Automatic Ground Environment|半自动地面防空系统]]（Semi-Automatic Ground Environment, SAGE）由国际商业机器公司（International Business Machines, IBM）制造硬件，但兰德公司（RAND Corporation）承担了空前复杂的系统软件编写；该工程实质上充当了全美数百名程序员的大学，为定制软件外包服务工业奠定了[[Human Capital Theory|人力资本]]基础。（pp. 36–37）
+> 1. **[[Sage]] 防空工程与软件人才培养** 1950 年代[[Semi-Automatic Ground Environment|半自动地面防空系统]]（Semi-Automatic Ground Environment, SAGE）由国际商业机器公司（International Business Machines, IBM）制造硬件，但兰德公司（RAND Corporation）及其分拆设立的[[System Development Corporation|系统开发公司]]（System Development Corporation, SDC）承担了空前复杂的系统软件编写；该工程实质上充当了全美数百名程序员的大学，为定制软件外包服务工业奠定了[[Human Capital Theory|人力资本]]基础。（pp. 36–37）
 > 2. **军品外包技术向民用大型系统溢出** TRW、密特公司（MITRE Corporation）、休斯（Hughes）及 IBM 等主承包商在军工合同中提炼出的复杂系统软件架构技术，迅速外溢并应用于民用商业领域（如早期的美航 Sabre 民航客票预订系统）。（p. 37）
 > 3. **强制采购规制确立通用商业语言** 国防部为解决软件兼容难题，强制要求军购计算机必须支持面向通用商业语言（Common Business-Oriented Language, COBOL），并要求所有防务管理软件必须用 COBOL 编写；国防部巨大的市场号召力直接推动了 COBOL 成为全美通用的商业编程语言标准。（p. 37）
 
@@ -271,7 +277,7 @@ issuing_organization: ""
 互联网从实验室原型走向全球通用基础设施，是国防部高级研究计划局（[[DARPA|Defense Advanced Research Projects Agency]], DARPA）分散资助与公共领域政策的典型范例。
 
 > [!method-position] 互联网关键创新的国防培育路径
-> - **分布式分组交换与 BBN 小企业合同** 1960 年代初麻省理工学院的伦纳德·克兰罗克（Leonard Kleinrock）与兰德公司的保罗·巴兰（Paul Baran）提出分组交换理论；1968 年底 DARPA 将阿帕网（Advanced Research Projects Agency Network, ARPANET）关键的接口信息处理机制造合同授予了由麻省理工学院教授创立的小型工程技术公司博尔特-贝拉内克-纽曼（Bolt, Beranek and Newman, BBN），而非传统电信寡头。（pp. 38–39）
+> - **分布式分组交换与 BBN 小企业合同** 1960 年代初麻省理工学院的伦纳德·克兰罗克（Leonard Kleinrock）与兰德公司的保罗·巴兰（Paul Baran）提出分组交换理论；1968 年底 DARPA 将[[ARPANET|阿帕网]]（[[ARPANET|Advanced Research Projects Agency Network]], ARPANET）关键的接口信息处理机制造合同授予了由麻省理工学院教授创立的小型工程技术公司博尔特-贝拉内克-纽曼（Bolt, Beranek and Newman, BBN），而非传统电信寡头。（pp. 38–39）
 > - **TCP/IP 协议置于公共领域** 1974 年由 DARPA 资助的罗伯特·卡恩（Robert Kahn）与文顿·瑟夫（Vinton Cerf）发表了传输控制协议与网际协议（Transmission Control Protocol/Internet Protocol, TCP/IP）规范；军方与学者坚持将其置于公共领域（Public Domain），不申请专利垄断；正是这种零许可壁垒的开放性，击败了 IBM 的系统网络架构（Systems Network Architecture, [[Network Analysis|SNA]]）及数字设备公司（Digital Equipment Corporation, DEC）的 DECNET 等专有标准，确立了全球互联网开放架构。（p. 39）
 > - **大规模部署与小企业合同赋能** 相比于英国与法国小规模的原型网络，美国军方资助了跨越 100 多个大学与国防科研节点的实体网络部署，同时向 BBN 等初创企业发放核心开发与采购合同，极大刺激了网络硬件与软件生态的技术竞争。（pp. 39–40）
 

@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Bildung]]"
   - "[[Ontology]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
@@ -63,7 +64,7 @@ updated: 2026-09-29
 ## 定义
 
 > [!def] 核心定义
-> **普通教育学（Allgemeine Pädagogik / General Pedagogy）** 是指欧陆（特别是德语区和中东欧）教育科学体系中居于统摄地位的基础理论学科与“母体学科”（德文：Mutterdisziplin）。它以人的[[Bildung|教化]]（Bildung）、受教育者的可塑性（Bildsamkeit）以及教育行动（Erziehung）的伦理正当性为核心研究对象，系统确立教育科学的基本概念范畴、[[Ontology|本体论]]承诺与方法论准则。在比较教育学科建制史上，普通教育学为比较教育提供了不可动摇的人文关怀根基，使其在吸纳历史学与社会学工具时始终保有对人的整全发展的规范性反思。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
+> **普通教育学（Allgemeine Pädagogik / General Pedagogy）** 是指欧陆（特别是德语区和中东欧）教育科学体系中居于统摄地位的基础理论学科与“母体学科”（德文：Mutterdisziplin）。它以人的[[Bildung|教化]]（Bildung）、受教育者的可塑性（Bildsamkeit）以及教育行动（Erziehung）的伦理正当性为核心研究对象，系统确立教育科学的基本概念范畴、[[Ontology|本体论]]承诺与方法论准则。在比较教育[[Disciplinary Institutionalization|学科建制]]史上，普通教育学为比较教育提供了不可动摇的人文关怀根基，使其在吸纳历史学与社会学工具时始终保有对人的整全发展的规范性反思。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向教育科学知识大厦的元理论中枢与母体支柱，负责反思教育的终极目的、普遍规律、伦理边界与各分支学科的[[Epistemology|认识论]]统一性。
@@ -87,7 +88,7 @@ updated: 2026-09-29
 > [!contrast-table] 欧陆普通教育学与英美教育研究建制传统对比
 > | 维度 | 欧陆普通教育学传统（Allgemeine Pädagogik） | 英美教育研究传统（Educational Studies） |
 > |---|---|---|
-> | **学科建制形态** | 拥有至高统摄地位的母体学科，各分支学科从属于母体或依附于母体 | 不设统摄性母体，由哲学、社会学、心理学与历史学多学科平行并列 |
+> | **[[Disciplinary Institutionalization\|学科建制]]形态** | 拥有至高统摄地位的母体学科，各分支学科从属于母体或依附于母体 | 不设统摄性母体，由哲学、社会学、心理学与历史学多学科平行并列 |
 > | **核心本体承诺** | 以人的[[Bildung\|教化]]、自我精神形成与道德自主为终极关怀 | 以学校制度实务、学习效率、技能习得与政策实用咨询为导向 |
 > | **理论生成方式** | 概念推演、哲学思辨、[[Geisteswissenschaften\|精神科学]]诠释学与制度发生学批判 | [[Pragmatic Paradigm\|实用主义]][[Problem Solving\|问题解决]]、经验观察、量化大样本统计与心理测量 |
 > | **与分支学科关系** | 母子血缘衍生关系，应用学科如比较教育被定位为横截面[[Comparative Education as a Cross-Sectional Area\|交叉领域]] | 扁平拼合关系，各专业模块在大学教育学院（如伦敦大学教育学院）内平行分设 |

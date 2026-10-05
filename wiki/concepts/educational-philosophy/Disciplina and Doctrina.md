@@ -28,6 +28,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Champ]]"
   - "[[New Public Management]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Externalization]]"
   - "[[Paradigm]]"
 related_theories:
@@ -150,7 +151,7 @@ updated: 2026-10-02
 
 > [!dev-timeline] 概念演变
 > - **中世纪 — 术语起源** 大学和修道院教育中分化出 `disciplina`（强调对学生行为的惩戒、纠错和规训）与 `doctrina`（强调真理的讲授和知识研究的进展）（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
-> - **现代 — 知识社会学分析** Stichweh (2001) 追溯学科建制与社会系统的演化，将二者界定为知识在“静态沉积”与“动态自我更新”之间的基本张力。
+> - **现代 — 知识社会学分析** Stichweh (2001) 追溯[[Disciplinary Institutionalization|学科建制]]与社会系统的演化，将二者界定为知识在“静态沉积”与“动态自我更新”之间的基本张力。
 > - **1980s — 批判国家理论引入：Carnoy 论规训与民主化的拉锯** 卡诺伊（Carnoy & Levin, 1985）与卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 153–154]]）打破了将学校视为资本主义单向“规训”（disciplina）工具的机械论，确立了学校是经济规训再生产与民主主体赋权（doctrina）双向博弈辩证[[Champ|场域]]的核心命题。
 > - **2000s — 学术体制批判：Mitter 论规训压力的[[Externalization|外部化]]** 米特（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）将“规训”（disciplina）范畴延伸至跨国教育研究体制，揭示超国家机构与国家资助方如何通过[[Performance Indicators|绩效指标]]对学者施加规训压力，迫使自由探究（doctrina）向实用政策合规让步。
 > - **21世纪初 — 课程政策批判应用** 该二元概念被引入针对 [[OECD]]/[[PISA]] 测量风暴的政策批判，用以解释为何[[Phenomenon-Based Learning|现象本位学习]]（PhBL）在吸纳进课程政策时会发生技能原子化（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。

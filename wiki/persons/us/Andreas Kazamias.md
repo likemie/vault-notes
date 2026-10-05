@@ -42,6 +42,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Technical Rationality]]"
   - "[[Construct]]"
   - "[[Comparative History of Comparative Education]]"
@@ -227,7 +228,7 @@ updated: 2026-10-01
 > > 在 2018 年 [[Comparative Education Society in Europe\|CESE]] 塞浦路斯会议上，有学者将卡扎米亚斯解读为预见当代危机的哲学先知，主张应当借助古典希腊灵魂[[Bildung\|教化]]（*[[Paideia]]*）全盘重构比较教育。对此，考恩提出了批判性澄清：卡扎米亚斯从未自命为先知；过度神化历史人文传统容易陷入否定学科半个世纪以来在跨国实证、政策评估与制度建制上取得的实质性成果的危险。
 > >
 > > - **CESE 2018 讨论者** 倡导回归古典希腊人文教化传统以超越当代技术官僚主义危机。
-> > - **Robert Cowen（2023）** 指出卡扎米亚斯的历史视角应当与半个世纪以来的学科制度化成就相融合，而非倒退至古典起点。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 327)]]
+> > - **Robert Cowen（2023）** 指出卡扎米亚斯的历史视角应当与半个世纪以来的[[Disciplinary Institutionalization|学科制度化]]成就相融合，而非倒退至古典起点。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 327)]]
 >
 > > [!axis] 普罗米修斯现代主义与后现代反思的碰撞
 > > 卡扎米亚斯所坚持的[[Educational Meliorism\|改良主义]]与普罗米修斯式启蒙信念，在 20 世纪末期遭遇了[[Postmodernism\|后现代主义]]与解构思潮的猛烈冲击，被批评过于依赖西方现代性线性进步叙事。

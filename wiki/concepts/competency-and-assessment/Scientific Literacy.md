@@ -35,6 +35,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Scientism]]"
   - "[[Falsification]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Construct]]"
   - "[[Science Capital]]"
   - "[[Data Literacy]]"
@@ -121,7 +122,7 @@ updated: 2026-09-23
 > - 不等于传统科技事实回忆（Factual Knowledge Recall） 单纯背诵科学定义、解题套路与标准答案不仅无法促成科学素养，反而会掩盖对科学证据本质与实验探究过程的无知。
 > - 不等于套用刻板的[[Scientific Method\|科学方法]]五步法 真实科学展现出多元门类的家族相似性与跨学科[[Heterogeneity\|异质性]]，科学素养的核心在于体会证据向公共审查开放的价值，而非机械记忆或套用普适算法。
 > - 不等于 [[Scientism\|科学主义]] 科学主义将现有科学结论神圣化为绝对无误的教条真理；科学素养则坚守[[Epistemology\|认识论]]反思，将科学视为充满暂定性、[[Falsification\|可证伪性]]与自我修正特性的社会化探究事业。
-> - 不等于 STEM 教育 STEM 教育涵盖科学、技术、工程与数学的整体学科建制，而科学素养是所有学生在教育阶段应当沉淀的核心通用素养。
+> - 不等于 STEM 教育 STEM 教育涵盖科学、技术、工程与数学的整体[[Disciplinary Institutionalization|学科建制]]，而科学素养是所有学生在教育阶段应当沉淀的核心通用素养。
 
 ---
 

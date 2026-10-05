@@ -38,6 +38,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Concept Mapping]]"
   - "[[Wicked Problem]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Dialogue in Education]]"
 related_theories:
   - "[[Situative Perspective]]"
@@ -118,7 +119,7 @@ updated: 2026-10-03
 > [!influence-path] 影响路径
 > - **奠定学术共同体基石** 2007 年与 Chinn、Duncan 联名发表的反驳[[Document\|文献]]，彻底终结了认知负荷学派企图在学术界彻底否定探究教学的尝试，成为学习科学学者必读的经典。
 > - **引领 PBL 与医学教育改革** 其关于 PBL 认知机制的综述被全球医学、工程与高等教育界奉为设计临床实践与讨论式教学的标准指南。
-> - **国际学术领导与学科制度化** 作为 ISLS 主席，极大地推动了国际学习科学学术共同体的制度化发展与跨学科交叉繁荣。
+> - **国际学术领导与[[Disciplinary Institutionalization|学科制度化]]** 作为 ISLS 主席，极大地推动了国际学习科学学术共同体的制度化发展与跨学科交叉繁荣。
 
 ---
 

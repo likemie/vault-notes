@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Development Education]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Paradigm]]"
   - "[[Knowledge Transfer]]"
   - "[[Policy Borrowing]]"
@@ -66,7 +67,7 @@ updated: 2026-10-01
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1966–1979 — [[Comparative Education Society in Europe|CESE]] 英国分会设立与自主化孕育** 在[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）早期跨国精英会员模式下，约瑟夫·劳威斯（[[Joseph Lauwerys]]）与[[Brian Holmes|布莱恩·霍姆斯]]等在伦敦大学教育研究院设立了 CESE 英国分会（British Section of CESE），以应对国内日益增长的学科建制与政策咨询需求。
+> - **1966–1979 — [[Comparative Education Society in Europe|CESE]] 英国分会设立与自主化孕育** 在[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）早期跨国精英会员模式下，约瑟夫·劳威斯（[[Joseph Lauwerys]]）与[[Brian Holmes|布莱恩·霍姆斯]]等在伦敦大学教育研究院设立了 CESE 英国分会（British Section of CESE），以应对国内日益增长的[[Disciplinary Institutionalization|学科建制]]与政策咨询需求。
 > - **1979–1997 — BCIES 独立建制与分流发展** 英国分会脱离 CESE 架构独立注册为英国[[Comparative and International Education Society|比较与国际教育学会]]（BCIES），重点对接英联邦国家学制研究与理论建设；同期，关注第三世界教育发展实务的学者成立了 BATROE。
 > - **1997 — 两会合并与 BAICE 正式创立** 为打破学术理论比较与海外实务发展之间的壁垒，BCIES 与 BATROE 在雷丁大学正式签署合并协议，成立联合学术组织 BAICE，确立了“比较”（Comparative）与“国际发展”（International/Developmental）并重的现代格局。
 > - **2000s 至今 — 全球南方连结与批判[[Paradigm|范式]]深化** 学会主办的《Compare》期刊跃升为全球比较教育领域的顶级 Q1 核心期刊；学会持续资助亚非拉发展中国家学者参会交流，就[[Post-colonial Theory|后殖民理论]]、社会正义、去殖民化教育与全球治理展开前沿论辩。

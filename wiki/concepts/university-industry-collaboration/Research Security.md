@@ -7,7 +7,7 @@ aliases:
 summary: "大学为保护研究免受外国干预和经济间谍活动威胁而建立的制度性保障措施，在开放科学与国家安全之间寻求平衡"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[University-Industry Collaboration]]"
   - "[[Foreground IP]]"
+  - "[[Dual-Use Technology]]"
   - "[[Sensitive Research]]"
 related_theories: []
 related_methods: []
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-03
-updated: 2026-09-15
+updated: 2026-10-05
 ---
 
 # Research Security
@@ -62,7 +63,7 @@ updated: 2026-09-15
 
 研究安全在[[University-Industry Collaboration|产学合作]]中尤为重要，因为产业伙伴通常涉及商业敏感信息和专利技术。在产学合作语境下，研究安全涵盖以下维度：
 - 知识产权保护：确保合作研究中产生的[[Foreground IP|前景知识产权]]归属清晰，避免不正当的[[Knowledge Transfer|知识转移]]
-- 出口管制合规：涉及军民两用技术（dual-use technology）的研究合作需遵守出口管制法规
+- 出口管制合规：涉及[[Dual-Use Technology|军民两用技术]]（dual-use technology）的研究合作需遵守出口管制法规
 - 外国影响审查：评估外国实体通过产学合作渠道获取[[Sensitive Research|敏感研究]]能力的风险
 - 透明度机制：建立研究人员对外合作关系和利益冲突的申报与审查制度
 

@@ -9,7 +9,7 @@ summary: "美国当代著名混合方法与质性研究方法论学者，系统�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 48
+person_related_count: 47
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Dependent Variable]]"
   - "[[Scientific Method]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Document]]"
   - "[[Ontology]]"
   - "[[Nominalism]]"
@@ -180,7 +181,7 @@ updated: 2026-10-05
 克雷斯维尔的思想构成了 20 世纪末以来全球社会科学与健康[[Scientific Method|科学方法]]论教育领域最通行的公共语言。
 
 > [!influence-path] 影响路径
-> - **学科建制化路径** 创办顶级期刊 JMMR 与国际协会 [[Mixed Methods International Research Association\|MMIRA]]，将原本零散、附庸于各学科的混合研究实践凝聚为具有专门哲学[[Paradigm\|范式]]、设计术语与评审规范的独立学术共同体。
+> - **[[Disciplinary Institutionalization|学科建制化]]路径** 创办顶级期刊 JMMR 与国际协会 [[Mixed Methods International Research Association\|MMIRA]]，将原本零散、附庸于各学科的混合研究实践凝聚为具有专门哲学[[Paradigm\|范式]]、设计术语与评审规范的独立学术共同体。
 > - **研究标准制定路径** 执笔美国心理学会（[[APA Style\|APA]]）与[[National Institutes of Health|美国国立卫生研究院]]（NIH）的最佳实践指南，从国家科研资助与顶刊同行评审层面对研究严密性确立了制度化评价标尺。
 > - **教科书与教学普适化路径** 其编写的《研究设计》等经典教材以极致清晰的操作架构与跨学科通识范式被全球高校广泛采用，形塑了数十万跨学科研究生的学术起步训练。
 > - **跨学科医学与健康转化路径** 在密歇根大学建立 MMMP 基地，成功将[[Mixed Methods Research\|混合方法]]与[[Joint Display\|联合展示]]引入实施科学（Implementation Science）、癌症护理与公共卫生干预，克服了纯量化[[Clinical Trial\|临床试验]]忽视患者微观体验的弊端。

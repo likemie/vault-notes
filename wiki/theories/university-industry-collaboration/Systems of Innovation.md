@@ -34,6 +34,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Unit of Analysis]]"
   - "[[Growth]]"
+  - "[[University-Based Research Infrastructure]]"
   - "[[Second-Sourcing]]"
   - "[[Multi-channel Interactive Learning Model]]"
   - "[[Market Shaping and Creating]]"
@@ -136,7 +137,7 @@ updated: 2026-10-05
 >   - **部门创新系统（Sectoral Innovation Systems, SIS）** 马莱尔巴（Franco Malerba, 2002）基于帕维特产业分类（[[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta, 2016]]），指出不同产业部门在知识基础、技术机会与专有性机制上存在根本差异，创新系统呈现部门异质性。
 >   - **区域创新系统（Regional Innovation Systems, RIS）** 阿斯海姆与格特勒（Asheim & Gertler, 2004）强调地理邻近性、隐性知识面对面传播与地方制度厚度对区域创新集群的塑造。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 865)]]
 > - **2005 — 本地创新系统与大学转型匹配模型** 麻省理工学院莱斯特（Richard K. Lester）团队通过 6 国 22 个地区（714 次[[In-depth Interview|深度访谈]]）的[[Local Innovation Systems Project|本地创新系统项目]]（LIS），打破大学必须追逐硅谷式“重磅专利许可”的一刀切迷思，提出大学支撑本地系统四大产业转型（新产业形成、产业移植、产业多元化、既有产业升级）的差异化匹配模型。[[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–24)]]
-> - **2005 — 军民协同创新系统与采购生命周期规律** 法布里奇奥与莫厄里（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]]）从国家创新系统历史演进切入，揭示美国战后以国防部（DoD）为核心的非集中式联邦研发资助与先导采购如何通过大学科研基础设施、早期技术衍生与第二货源（[[Second-Sourcing]]）三大渠道孵化出全美 IT 产业集群，并系统确立了从萌芽期军品外溢到成熟期由民向军“逆向技术溢出”（Reverse Spillovers）的创新系统生命周期规律。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 27–44)]]
+> - **2005 — 军民协同创新系统与采购生命周期规律** 法布里奇奥与莫厄里（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]]）从国家创新系统历史演进切入，揭示美国战后以国防部（DoD）为核心的非集中式联邦研发资助与先导采购如何通过[[University-Based Research Infrastructure|大学科研基础设施]]、早期技术衍生与第二货源（[[Second-Sourcing]]）三大渠道孵化出全美 IT 产业集群，并系统确立了从萌芽期军品外溢到成熟期由民向军“逆向技术溢出”（Reverse Spillovers）的创新系统生命周期规律。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 27–44)]]
 > - **2009 — 多通道互动学习与知识池重塑** 卡拉卡等（Caraça et al.）提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，指出创新涉及科技、组织与营销三类知识池，创新系统的关键在于构筑企业与微观/宏观制度环境双向共演的组织界面。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]
 > - **2018 — 从系统修补到使命导向[[Market Shaping and Creating|市场塑造]]** [[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）指出传统[[Innovation Policy Paradigms|创新系统范式]]止步于“系统修补”（System Fixing），主张从被动弥补网络与制度失灵转向主动“市场塑造与创造”，围绕重大社会挑战设定技术与经济发展的明确方向。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–806)]]
 > - **2018 至今 — [[Transformative Change|变革转型范式]]（Transformative Change）反思** 肖特与斯泰因穆勒（Schot & Steinmueller, 2018）指出传统创新系统范式过于聚焦经济增长优化与被动修复系统失灵，面对气候危机与社会不平等，亟需演进至具备“方向性”（[[Directionality of Innovation|directionality]]）的第三代政策范式。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 32–34)]]
@@ -305,7 +306,7 @@ updated: 2026-10-05
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]] — 阐述从国家创新系统“系统失灵修补”向使命导向“[[Market Shaping and Creating|市场塑造]]与创造”的理论演化脉络与 ROAR 政策[[Analytic Framework|分析框架]]。
-> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]] — 历史制度分析战后五十年美国国防研发投资与采购体系，系统阐明大学科研基础设施奠定、初生期先导采购与第二货源机制如何塑造美国 IT 创新系统，揭示产业成熟期由民向军的逆向技术溢出规律及反恐预算重组的潜在风险。
+> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]] — 历史制度分析战后五十年美国国防研发投资与采购体系，系统阐明[[University-Based Research Infrastructure|大学科研基础设施]]奠定、初生期先导采购与第二货源机制如何塑造美国 IT 创新系统，揭示产业成熟期由民向军的逆向技术溢出规律及反恐预算重组的潜在风险。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]] — 系统梳理五十年来产学关系与[[Innovation Policy Paradigms|创新政策范式]]的三次跃迁（科学促增长 → 创新系统 → [[Transformative Change|变革转型]]），详述系统失灵的完整分类（制度、网络、锁定、能力等）及大学对创新全谱系的多维贡献。
 > - [[Argument_Caraca_2009_TFSC|Caraça et al., 2009]] — 提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，整合部门、区域与国家创新系统，论证三类知识池互动及微观/宏观制度滞后造成的阻尼效应。
 > - [[Argument_Lester_2005_MIT|Lester, 2005]] — 依托 MIT [[Local Innovation Systems Project|本地创新系统项目]]（LIS）对 6 国 22 个地区的实证调研，系统构建大学匹配四种本地产业转型路径的差异化支持模型。

@@ -46,6 +46,7 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Re-Westernisation]]"
   - "[[PISA Shock]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Knowledge Production]]"
   - "[[Allgemeine Pädagogik]]"
@@ -399,7 +400,7 @@ updated: 2026-10-01
 
 ### 命题六　德英双轨传统折射政策借用与哲学反思的分野，航海隐喻警示浅层功利借用的认识论风险
 
-> [!dimension] 学科建制双轨与浅层借用批判维度
+> [!dimension] [[Disciplinary Institutionalization|学科建制]]双轨与浅层借用批判维度
 > 探讨欧洲比较教育在英德建制模式中对政策借用展现出的深层学术分歧，以及当代国际测评热潮下[[Navigation Metaphor in Comparative Education|航海隐喻]]对浅层去情境借用的认识论捍卫。
 
 > [!claim] [[Wolfgang Mitter\|Mitter, W.]]

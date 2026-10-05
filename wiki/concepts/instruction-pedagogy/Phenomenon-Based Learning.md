@@ -13,6 +13,7 @@ related_color: "#fde68a"
 related_concepts:
   - "[[Value Neutrality]]"
   - "[[Champ]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Problem-Based Learning]]"
   - "[[Research Question]]"
   - "[[Ontology]]"
@@ -68,7 +69,7 @@ updated: 2026-09-24
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向以生活世界中的现象体验为起点，通过跨学科与学科深度的协同，建构对现实世界复杂问题的认知与社会性理解。它以[[Phenomenology\|现象学]]（Phenomenology）为底色，认为“现象”是主体在以意向性（Intentionality）为特征的意识与生活世界（Lifeworld）中所体验到的意义整体，绝非[[Value Neutrality\|价值中立]]的客观实体，且包含具身认知（Embodied cognition）与主体间性（Intersubjectivity）的情感和社交特征。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2–4]]
 > - **用途** 帮助研究者和实践者跳出孤立的学科界限，探究学生如何通过真实[[Champ\|场域]]、协作和具身经验面对全球性挑战（如可持续发展）。
-> - **边界** It 不等于消灭学科建制的彻底跨学科，也不应被窄化为促进经济竞争和测量标准化技能的工具。
+> - **边界** It 不等于消灭[[Disciplinary Institutionalization|学科建制]]的彻底跨学科，也不应被窄化为促进经济竞争和测量标准化技能的工具。
 
 > [!boundary]- 概念边界
 > - 不等于彻底取消学科分类 — PhBL 并非消灭传统学科，而是倡导在保持学科自身逻辑和深度的前提下进行跨学科整合。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 4]]

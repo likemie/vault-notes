@@ -12,7 +12,7 @@ title: "Argument_Cheng_2026_KeJiChuangXin"
 argument_key: "Argument_Cheng_2026_KeJiChuangXin"
 argument_display_title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
 argument_kind: "book"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Patient Capital]]"
   - "[[New Quality Productive Forces]]"
+  - "[[Dual-Use Technology]]"
   - "[[Research Translation]]"
   - "[[Pilot Scale Platform]]"
   - "[[Mentorship]]"
@@ -252,7 +253,7 @@ citation_aliases:
 > 发挥企业"出题人"作用：在需求凝练、研发布局等环节赋予更大自主权，整合科技领军企业、专精特新企业等资源。健全企业"答题人"制度：通过[[Open Competition Mechanism\|揭榜挂帅]]与"赛马"机制遴选创新主体，产业应用导向项目原则上由企业牵头。突出企业"阅卷人"地位：构建以企业为主体的评价体系，加强独角兽企业、制造业技术创新示范企业等认定培育(p.30)。
 
 > [!info] 对策三：畅通成果转化路径
-> 创新转化机制：完善[[Technology Transfer\|技术转让]]许可、作价入股、"先使用后付费"等多元化方式，建立军民两用技术双向转化体系。推动先进适用[[Research Translation\|技术转化]]：建立标准制定、目录编制、推广应用、效果评估的全流程闭环管理。做大做强科技服务业：培育领军企业和专业化技术转移机构，完善"众创空间+孵化器+加速器"全链条孵化服务体系，支持龙头企业构建产业生态型[[Pilot Scale Platform\|中试平台]]，推进全国统一技术交易市场建设(pp.30–32)。
+> 创新转化机制：完善[[Technology Transfer\|技术转让]]许可、作价入股、"先使用后付费"等多元化方式，建立[[Dual-Use Technology|军民两用技术]]双向转化体系。推动先进适用[[Research Translation\|技术转化]]：建立标准制定、目录编制、推广应用、效果评估的全流程闭环管理。做大做强科技服务业：培育领军企业和专业化技术转移机构，完善"众创空间+孵化器+加速器"全链条孵化服务体系，支持龙头企业构建产业生态型[[Pilot Scale Platform\|中试平台]]，推进全国统一技术交易市场建设(pp.30–32)。
 
 > [!info] 对策四：加快产品升级与产业集群发展
 > 推动产品高端化：打造智能制造装备、能源装备等标志性产品，设立先进适用技术产品应用专项基金支持首次应用示范，实施"高端机床+"和"机器人+"工程。推进产业集群化：布局国家先进制造业集群，强化"源头创新—成果转化—产品开发—场景应用"全链条培育机制。提升产业链现代化：统筹关键核心技术攻关工程、产业基础再造工程和重大技术装备攻关工程，推动基础材料、AI与电子信息、新能源、生物医药等产业链深度融合(pp.32–33)。

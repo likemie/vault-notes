@@ -29,6 +29,7 @@ related_concepts:
   - "[[Research Impact]]"
   - "[[Academic Achievement]]"
   - "[[Evidence-Based Education]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Blue Skies Research]]"
   - "[[Scientific Method]]"
   - "[[Theory of Knowledge]]"
@@ -109,7 +110,7 @@ updated: 2026-09-26
 >   - **代表著作** *Trends Shaping Education* (OECD 系列旗舰报告)。
 >   - **关键概念／方法** [[Social-Emotional Learning]]、[[International Education]]、政策情景规划。
 >   - **阶段转向** 突破传统[[Academic Achievement\|学业成就]]评价框架，开创跨国社会情感能力测量与全球教育演变前瞻智库议程。
-> - **2018–至今 — [[Evidence-Based Education\|循证教育]]知识生态重构与自主演绎科学学科建制** 全面反思全球教育科研与决策实践之间的严重断层，诊断供给侧的[[Epistemology\|认识论]]赤字与意识形态羁绊。
+> - **2018–至今 — [[Evidence-Based Education\|循证教育]]知识生态重构与自主演绎科学[[Disciplinary Institutionalization|学科建制]]** 全面反思全球教育科研与决策实践之间的严重断层，诊断供给侧的[[Epistemology\|认识论]]赤字与意识形态羁绊。
 >   - **代表著作** *Perspectives on education research* (2022, In Revai (Ed.))。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 202–206)]]
 >   - **关键概念／方法** [[Epistemology]]、[[Evidence-Based Education]]、[[Blue Skies Research]]、[[Replication in Education Research\|复现危机]]、内幕偏误。
 >   - **阶段转向** 从具体的国际政策比较与测评项目，上升为对教育学作为一门独立[[Scientific Method\|经验科学]]的学科[[Theory of Knowledge\|知识论]]基础与治理机制的元科学批判。
@@ -141,7 +142,7 @@ updated: 2026-09-26
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **学科建制路径** 呼吁摆脱教育学从属于社会学或经济学的附庸地位，倡导建立教育科学自身严密的因果演绎体系与学术自律规范。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 204–205)]]
+> - **[[Disciplinary Institutionalization|学科建制]]路径** 呼吁摆脱教育学从属于社会学或经济学的附庸地位，倡导建立教育科学自身严密的因果演绎体系与学术自律规范。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 204–205)]]
 > - **政策反思路径** 告诫政策界戒除对循证有效性干预（What Works）的盲目万能崇拜，推动国际组织从单一工具推广转向深层科研生产生态治理。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 206)]]
 > - **跨国智库议程确立** 领导[[OECD\|经合组织]] [[Centre for Educational Research and Innovation\|CERI]] 确立强化教育[[Research Impact\|研究影响力]]专项跨国政策调查，成为 OECD 成员国诊断国家教育科研体系健康度的指标框架。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 202–203)]]
 

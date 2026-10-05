@@ -27,6 +27,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Paradigm]]"
   - "[[Academic Iconography]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Cultural Diplomacy]]"
   - "[[Comparative History of Comparative Education]]"
   - "[[Rationalism in International Relations]]"
@@ -136,7 +137,7 @@ updated: 2026-09-29
 > [!debates] 学术争议与反思
 >
 > > [!axis] [[Academic Iconography\|学科肖像学]]与深层历史评传的缺位
-> > 学界长期熟知劳韦里斯的卓越演讲魅力与学术外交光环，将其奉为学科建制的奠基性元老。然而，正如 [[Robert Cowen\|罗伯特·考恩]]（Robert Cowen）所指出的，比较教育学界至今缺乏一部严肃历史学家式的、具有深层批判力的劳韦里斯传记。这种现象揭示出比较教育在建构自身历史传统时，容易沉溺于制造未经反思的学科肖像学（Iconographies），而回避了对其制度权力与历史局限的深层探究。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
+> > 学界长期熟知劳韦里斯的卓越演讲魅力与学术外交光环，将其奉为[[Disciplinary Institutionalization|学科建制]]的奠基性元老。然而，正如 [[Robert Cowen\|罗伯特·考恩]]（Robert Cowen）所指出的，比较教育学界至今缺乏一部严肃历史学家式的、具有深层批判力的劳韦里斯传记。这种现象揭示出比较教育在建构自身历史传统时，容易沉溺于制造未经反思的学科肖像学（Iconographies），而回避了对其制度权力与历史局限的深层探究。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, p. 9)]]
 >
 > > [!axis] 理性主义理想与地缘现实的张力
 > > 劳韦里斯所倡导的科学人道主义与国际理解假定教育合作能够超越地缘政治分裂，但在冷战加剧的背景下，这种理想主义设定常面临被两大阵营的[[Cultural Diplomacy\|文化外交]]与意识形态竞争所工具化的现实挑战。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 424–425)]]

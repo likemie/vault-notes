@@ -41,6 +41,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Document]]"
   - "[[Praxis]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Discipline-Based Theory]]"
   - "[[Going Native]]"
   - "[[Self-control]]"
@@ -161,7 +162,7 @@ updated: 2026-06-22
 ### 论证步骤二：学科划分的历史与跨学科深度整合
 
 > [!claim] 步骤二主张
-> 现行的学科划分是人类在探索生活世界不同现象过程中沉淀出的理论秩序。PhBL 旨在保持学科深度（Disciplinary Depth）的前提下进行跨学科整合（Cross-disciplinary Integration），并非取消学科建制。(pp.4–5)
+> 现行的学科划分是人类在探索生活世界不同现象过程中沉淀出的理论秩序。PhBL 旨在保持学科深度（Disciplinary Depth）的前提下进行跨学科整合（Cross-disciplinary Integration），并非取消[[Disciplinary Institutionalization|学科建制]]。(pp.4–5)
 
 > [!contrast-table] 学科秩序的演变与整合
 > | 历史阶段 / 理论 | 知识组织方式 | 对现象的理解方式 |
@@ -240,7 +241,7 @@ updated: 2026-06-22
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **学科建制依然稳固** 芬兰基础教育改革并未用 [[Phenomenon-Based Learning\|PhBL]] 全面取代传统学科，国际上关于芬兰学校取消学科分类的报道属媒体误读。(p.2)
+> 1. **[[Disciplinary Institutionalization|学科建制]]依然稳固** 芬兰基础教育改革并未用 [[Phenomenon-Based Learning\|PhBL]] 全面取代传统学科，国际上关于芬兰学校取消学科分类的报道属媒体误读。(p.2)
 > 2. **课程文本的概念隐匿** 在芬兰语核心课程文本原版中并不存在现象本位学习（PhBL）这一专属复合术语，而是通过高频使用现象（ilmiö）概念及其与其他词汇的动态组合来渗透其教学精神。
 > 3. **[[Pragmatic Constructivism\|实用主义建构主义]]的奠基** Rauste-von Wright 在1990年代将 Dewey 的反思理念与 Mead 的社会互动理论结合，界定 PhBL 为课程自我修正模型，构成了芬兰 PhBL 政策的心理学基石。(pp.7–8)
 > 4. **新自由主义治理悖论** PhBL 的课程化过程深度卷入了 [[OECD]] 及欧盟的全球教育治理框架，导致其整体性体验理想与绩效问责下的技能原子化倾向产生持续张力。(pp.8–10)

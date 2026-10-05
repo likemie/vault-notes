@@ -37,6 +37,7 @@ related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Document]]"
   - "[[International Education]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Scientism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Paradigm Wars]]"
@@ -193,7 +194,7 @@ updated: 2026-10-01
 > [!person-network] 关系网络
 > - **思想先行者／早期合作者** 亨利·德·圣西门（Henri de Saint-Simon） 法国空想社会主义者，早年与孔德深度合作探讨实证社会改造，启发了孔德对实证产业秩序的关注，后因学术路线分歧决裂。
 > - **同时代教育科学呼应者** [[Marc-Antoine Jullien]] 共享将自然科学经验方法投射至人类社会事务病理诊断的现代性信念，致力于通过实证数据采集实现全人[[Bildung\|教化]]与[[International Education\|国际教育]]改良。
-> - **学术继承者与改造者** 爱弥尔·涂尔干（Émile Durkheim） 继承并改造了孔德的社会学独立学科诉求，摒弃其晚期先验宗教色彩，以经验统计与实证功能主义彻底完成社会学的学科制度化。
+> - **学术继承者与改造者** 爱弥尔·涂尔干（Émile Durkheim） 继承并改造了孔德的社会学独立学科诉求，摒弃其晚期先验宗教色彩，以经验统计与实证功能主义彻底完成社会学的[[Disciplinary Institutionalization|学科制度化]]。
 > - **英国呼应者与批判者** 约翰·斯图尔特·密尔（John Stuart Mill） 积极在英语世界译介孔德的前期实证哲学体系，但在孔德晚期创立极权化实证政治体系与人道教后与之保持明确思想界限。
 > - **反实证存在主义论敌** [[Søren Kierkegaard]] 激烈抨击[[Positivism\|实证主义]]将普遍冷酷法则强加于人、试图抹杀人类主观存在与生存体验的“客观性幻觉”。
 > - **法兰克福学派批判者** [[Jürgen Habermas]] 深入解构实证主义的[[Scientism\|科学主义]]迷思，批判孔德以来的实证论将所有知识等同于技术控制工具、彻底放逐了人类的交往理性与批判反思。

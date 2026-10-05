@@ -44,6 +44,7 @@ related_concepts:
   - "[[Insider-Outsider Perspective in Comparative Education]]"
   - "[[Attrition]]"
   - "[[Educational Meliorism]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Policy Borrowing]]"
   - "[[Dilution of Comparative Education]]"
   - "[[Rich and Thick Description]]"
@@ -351,7 +352,7 @@ flowchart LR
 > [!line-b] 新兴跨文化教育实践进路
 > 聚焦多民族与移民社会的微观文化互动，致力于通过课程、教科书与教学改革改善多元文化社群的社会整合，兼具高度的政策导向与一线教学[[Educational Meliorism|改良主义]]诉求；德语区在经历 1980 年代两大学派的分道扬镳后，最终在世纪之交实现了比较教育学者与跨文化教育学者的重新合流。（pp.97–98）
 
-在学科制度化路径上，欧洲长期存在的德英双轨传统在当代全球跨学科网络中正走向历史性消解：（pp.97–98）
+在[[Disciplinary Institutionalization|学科制度化]]路径上，欧洲长期存在的德英双轨传统在当代全球跨学科网络中正走向历史性消解：（pp.97–98）
 
 > [!contrast-table] 德英比较教育学科建制双轨模式对比（pp.89, 97–98）
 > | 维度 | 德国交叉领域模式 | 英国独立分支模式 |
@@ -383,7 +384,7 @@ flowchart LR
 
 > [!finding-cards] 欧洲比较教育学科演进的核心学术发现
 > - **统一性与多样性的结构性主轴** 欧洲比较教育学的百年脉络本质上由民族[[State Educational Sovereignty|国家教育主权]]的多样性与欧洲共享精神文化遗产的统一性二分法所驱动，并在当代重构为普遍主义与文化[[Pluralism|多元主义]]的张力。（pp.87–88）
-> - **文化主义与历史传统的顽强主流地位** 欧洲比较教育始终未如北美一般全盘转向行为主义与量化统计，以汉斯、[[Friedrich Schneider|弗里德里希·施奈德]]、考恩、卡扎米亚斯与施里维尔为代表的文化-历史传统始终占据[[Discipline-Based Theory|学科理论]]高地，而大规模测评（[[IEA]]/[[PISA]]）长期游离于学科建制之外。（pp.93–94）
+> - **文化主义与历史传统的顽强主流地位** 欧洲比较教育始终未如北美一般全盘转向行为主义与量化统计，以汉斯、[[Friedrich Schneider|弗里德里希·施奈德]]、考恩、卡扎米亚斯与施里维尔为代表的文化-历史传统始终占据[[Discipline-Based Theory|学科理论]]高地，而大规模测评（[[IEA]]/[[PISA]]）长期游离于[[Disciplinary Institutionalization|学科建制]]之外。（pp.93–94）
 > - **政策咨询从审慎航海转向技术官僚[[Disciplina and Doctrina|规训]]** 欧洲学界传统上以劳威斯的[[Navigation Metaphor in Comparative Education|航海隐喻]]抵御政治工具化，但在[[OECD|经合组织]]与大规模测评支配下，经济导向的证据治理迫使比较研究直接受制于行政目标与[[Performance Indicators|绩效指标]]。（pp.95–96）
 > - **跨文化融合与欧洲维度的务实转向** 比较教育正成功吸纳微观多民族整合的[[Intercultural Education|跨文化教育]]议程，并在欧盟超国家治理背景下，从抽象欧洲统一哲学走向对欧洲教育政策与跨国实证数据的务实制度分析。（pp.97–98）
 

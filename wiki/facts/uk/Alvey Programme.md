@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
   - theme/corporate-innovation
   - theme/science-policy
 related_concepts:
+  - "[[Dual-Use Technology]]"
   - "[[Research Universities]]"
   - "[[University-Industry Collaboration]]"
   - "[[Precompetitive Research]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # Alvey Programme
@@ -92,7 +93,7 @@ updated: 2026-10-04
 ## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
-> - **联合政府发起方（DTI / MOD / SERC）** 负责总体政策指导、跨部委预算协调与军民两用技术衔接。
+> - **联合政府发起方（DTI / MOD / SERC）** 负责总体政策指导、跨部委预算协调与[[Dual-Use Technology|军民两用技术]]衔接。
 > - **阿尔维理事会（Alvey Directorate）** 由借调自产业界与政府的官员组成，负责项目指南发布、学术同行评审与资金分发。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 735)]]
 > - **[[Research Universities|研究型大学]]学术团队** 负责承担算法理论推导、形式化验证与人工智能前沿探索。
 > - **工业企业研发部门** 负责工程实现、原型试制与终端市场商业化推广。

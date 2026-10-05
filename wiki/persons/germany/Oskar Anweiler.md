@@ -28,6 +28,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Paradigm]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Geisteswissenschaften]]"
   - "[[State Educational Sovereignty]]"
 related_theories:
@@ -120,7 +121,7 @@ updated: 2026-09-29
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **学科建制定位** 在德语界牢固确立了比较教育在教育科学内部作为“[[Comparative Education as a Cross-Sectional Area|交叉领域]]”的合法性，直接塑造了德国教育学会（DGfE）将比较分会置于教育学母体二级建制的组织传统。
+> - **[[Disciplinary Institutionalization|学科建制]]定位** 在德语界牢固确立了比较教育在教育科学内部作为“[[Comparative Education as a Cross-Sectional Area|交叉领域]]”的合法性，直接塑造了德国教育学会（DGfE）将比较分会置于教育学母体二级建制的组织传统。
 > - **区域国别研究标杆** 开创了战后全欧苏联与东欧社会主义教育研究的波鸿学派，所收集的大量第一手东欧教育档案[[Document|文献]]在剧变后成为国际学界的宝贵遗产。
 > - **两德体制融合智库支撑** 1990 年出版的两德教育比较专著，在冷战结束与两德教育体制重组过程中发挥了至关重要的政策咨询与事实锚定功能。
 > - **后继学派[[Paradigm|范式]]转型承前启后** 安维勒的学术开拓为波鸿鲁尔大学后续学术演进提供了肥沃土壤，其继任者克里斯蒂尔·阿迪克（Christel Adick）在此基础上顺利完成了向全球化[[World-Systems Theory|世界体系理论]]的范式跃迁。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 93)]]
@@ -159,7 +160,7 @@ updated: 2026-09-29
 > > 争论焦点在于比较教育应当作为依附于普通教育学母体的交叉领域，还是应当彻底脱离教育学母体、建立完全独立自足的比较社会科学。
 > >
 > > - **Oskar Anweiler（1967）** 坚持比较教育作为交叉领域，必须扎根于普通教育学关于人的[[Bildung|教化]]（Bildung）本源关怀，同时向历史学与社会学敞开。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
-> > - **独立社会科学派学者** 批评交叉领域定位使比较教育在学科建制上始终依附于母体，难以形成独立自主的因果分析公理与方法学壁垒。
+> > - **独立社会科学派学者** 批评交叉领域定位使比较教育在[[Disciplinary Institutionalization|学科建制]]上始终依附于母体，难以形成独立自主的因果分析公理与方法学壁垒。
 
 > [!warning] 适用边界与地缘冷战格局依赖
 > 安维勒及其波鸿学派以苏联东欧[[Document|文献]]考证为核心标志，其繁荣高度依赖于冷战两极阵营对立的历史语境。随着苏东剧变与两德统一，传统社会主义阵营研究的制度土壤发生根本变迁，迫使波鸿学派必须向更广阔的全球化、世界体系与后殖民比较理论进行全面重组。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 93)]]

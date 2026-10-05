@@ -32,6 +32,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Technical Rationality]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Educational Meliorism]]"
   - "[[Faculty Psychology]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
@@ -170,7 +171,7 @@ updated: 2026-09-29
 > **古典教化神话在二战极权废墟中的坍塌** 第二次世界大战的残酷浩劫彻底摧毁了西方知识界对古典教化学科的盲目信仰。历史血淋淋地证明，受过最高等级希腊拉丁古典人文熏陶的欧洲精英阶层，不仅未能阻止种族屠杀与极权野蛮，反而深度参与甚至主导了战争机器。这宣告了单纯依靠古典文化陶冶作为永恒价值与道德防线的全面破产，直接促成战后政策制定者抛弃空泛的人文思辨，急切转向追求精准可测、注重规划实效的实证科学范式。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–60)]]；引自 Davies (1997: 899); Mazower (1998: 185)
 
 > [!claim] [[Robert Cowen\|Cowen, R.]]
-> **防范对古风教化的浪漫化神话而否定学科制度化成就** 针对当代比较教育界部分学者试图完全退回希腊古风 *Paideia* 以逃避现代学术异化的倾向，考恩提出深刻警示：将古典教化浪漫化，若演变为对战后半个世纪以来跨国经验数据采集、严谨因果分析与政策比较制度化成就的粗暴否定，实际上是在取消比较教育作为现代学术领域的合法根基；研究者必须在承认现代学科经验建制的前提下重构历史反思自觉。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 327)]]
+> **防范对古风教化的浪漫化神话而否定[[Disciplinary Institutionalization|学科制度化]]成就** 针对当代比较教育界部分学者试图完全退回希腊古风 *Paideia* 以逃避现代学术异化的倾向，考恩提出深刻警示：将古典教化浪漫化，若演变为对战后半个世纪以来跨国经验数据采集、严谨因果分析与政策比较制度化成就的粗暴否定，实际上是在取消比较教育作为现代学术领域的合法根基；研究者必须在承认现代学科经验建制的前提下重构历史反思自觉。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 327)]]
 
 ---
 
@@ -240,4 +241,4 @@ updated: 2026-09-29
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 系统阐述希腊古典[[Bildung\|教化]]作为 19 世纪欧洲四大中等教育古典支柱之一的终极目标，以及二战后其道德防线的崩溃与向[[Scientific Paradigm\|科学范式]]的转换。
 > - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] — 考掘比较教育创立时期的历史母题，阐明广义文化教化超越狭隘学校教育的核心[[Epistemic Value\|认识论价值]]。
-> - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 对比较教育学界试图全面回归古代 Paideia 的浪漫主张展开审慎的史学与学科制度化反思。
+> - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 对比较教育学界试图全面回归古代 Paideia 的浪漫主张展开审慎的史学与[[Disciplinary Institutionalization|学科制度化]]反思。

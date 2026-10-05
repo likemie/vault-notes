@@ -8,7 +8,7 @@ summary: "美国教育评价与方法论学者，与 Lincoln 合著 Naturalistic
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"

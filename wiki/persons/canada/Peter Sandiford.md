@@ -24,6 +24,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[International Education]]"
   - "[[Scientific Paradigm]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Document]]"
   - "[[Influences Across Cultures]]"
 related_theories: []
@@ -123,7 +124,7 @@ updated: 2026-10-01
 ## 争议与批评
 
 > [!warning] 适用边界与国别并置局限
-> - 战后[[Scientific Paradigm|科学范式]]学者（如诺亚、埃克斯坦）曾批评桑迪福德开创的“国别教育（Education in ...）”教科书体例过于侧重国别制度的平行并列展示，本质上属于区域研究档案集锦，缺乏跨国横向假说检验与超越单一国家的理论通则抽象；但拉斯特等人指出，在大学学科建制初期，正是这种详实严密的国别全景教材为后世一切高级比较分析奠定了坚实的经验事实地基。
+> - 战后[[Scientific Paradigm|科学范式]]学者（如诺亚、埃克斯坦）曾批评桑迪福德开创的“国别教育（Education in ...）”教科书体例过于侧重国别制度的平行并列展示，本质上属于区域研究档案集锦，缺乏跨国横向假说检验与超越单一国家的理论通则抽象；但拉斯特等人指出，在大学[[Disciplinary Institutionalization|学科建制]]初期，正是这种详实严密的国别全景教材为后世一切高级比较分析奠定了坚实的经验事实地基。
 
 ---
 

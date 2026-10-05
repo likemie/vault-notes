@@ -32,6 +32,7 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Paradigm]]"
   - "[[Knowledge Co-production]]"
+  - "[[University-Based Research Infrastructure]]"
   - "[[Technology Transfer]]"
   - "[[Value Neutrality]]"
   - "[[Gatekeepers]]"
@@ -186,7 +187,7 @@ updated: 2026-10-05
 > 突破传统的文本与政策转译局限，探讨大学作为实体科研基础设施与高层次工程人才蓄水池，如何在国家安全公共部门与民用商业产业之间履行深层知识中介功能。
 
 > [!claim] Fabrizio & Mowery
-> **大学科研基础设施与人才载体的跨界知识中介机制** 柯克·法布里奇奥（Kirk R. Fabrizio）与[[David C. Mowery|大卫·莫厄里]]（David C. Mowery）指出，大学在国家[[Systems of Innovation|创新系统]]中的核心价值远不止于产出理论论文，而在于充当穿透联邦国防部门与民用商业产业之间壁垒的“跨部门知识中介”（Cross-Sector Knowledge Mediator）。冷战时期五角大楼对斯坦福与麻省理工学院等高校的大规模基础与应用研发注资，帮助大学建立起全美最先进的计算机与工程科研基础设施；大学依托这些前沿设施，不仅实现了军民两用课题在实验室内的交叉杂交，更通过持续向新兴 IT 产业输送受过尖端计算训练的青年科学家与系统工程师，将默会工程诀窍深度转译至商业创新实践中，实质上扮演了国家最核心的跨界知识中介网络。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29–31, 36)]]
+> **[[University-Based Research Infrastructure|大学科研基础设施]]与人才载体的跨界知识中介机制** 柯克·法布里奇奥（Kirk R. Fabrizio）与[[David C. Mowery|大卫·莫厄里]]（David C. Mowery）指出，大学在国家[[Systems of Innovation|创新系统]]中的核心价值远不止于产出理论论文，而在于充当穿透联邦国防部门与民用商业产业之间壁垒的“跨部门知识中介”（Cross-Sector Knowledge Mediator）。冷战时期五角大楼对斯坦福与麻省理工学院等高校的大规模基础与应用研发注资，帮助大学建立起全美最先进的计算机与工程科研基础设施；大学依托这些前沿设施，不仅实现了军民两用课题在实验室内的交叉杂交，更通过持续向新兴 IT 产业输送受过尖端计算训练的青年科学家与系统工程师，将默会工程诀窍深度转译至商业创新实践中，实质上扮演了国家最核心的跨界知识中介网络。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29–31, 36)]]
 
 ---
 

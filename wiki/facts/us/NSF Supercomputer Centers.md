@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -26,19 +26,22 @@ related_concepts:
   - "[[Center of Calculation]]"
   - "[[Big Science]]"
   - "[[Paradigm]]"
+  - "[[University-Based Research Infrastructure]]"
   - "[[University-Industry Collaboration]]"
 related_persons:
   - "[[Richard C. Atkinson]]"
 related_facts:
   - "[[National Science Foundation]]"
+  - "[[ARPANET]]"
   - "[[Federally Funded Research and Development Centers]]"
   - "[[Industry-University Cooperative Research Centers]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
+  - "[[Argument_Fabrizio_Mowery_2005_REI]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # NSF Supercomputer Centers
@@ -75,8 +78,9 @@ updated: 2026-10-03
 
 > [!dev-timeline] 发展演进与技术外溢
 > - **1985–1986 — 全国竞标与五大中心设立** [[National Science Foundation|NSF]] 开展高规格全美公开选拔，最终在 5 所大学确立基地；首创基于同行评议分配运行机时的管理章程，彻底确立了科学公平性与唯优原则。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 41)]]
-> - **1986–1990 年代初 — 催生 NSFNET 与现代互联网骨干** 为让全美异地学者能顺畅远程接入五大中心，NSF 斥资构建了连接各中心的 NSFNET 高速主干网络；这套网络随后迅速取代了军用的 ARPANET，直接奠定了全球民用互联网（Internet）与 TCP/IP 协议普及的物理骨干。
-> - **1993 — 孕育首个现代网页浏览器 Mosaic** 在伊利诺伊超级[[Center of Calculation|计算中心]]（NCSA），学生程序员马克·安德森（Marc Andreessen）等人利用中心环境成功开发出全球首款图文交互网页浏览器 Mosaic，直接点燃了 1990 年代中叶全球万维网（World Wide Web）的爆发浪潮。
+> - **1986–1990 年代初 — 催生 NSFNET 与现代互联网骨干** 为让全美异地学者能顺畅远程接入五大中心，NSF 斥资构建了连接各中心的 NSFNET 高速主干网络；这套网络随后迅速取代了军用的 [[ARPANET]]，直接奠定了全球民用互联网（Internet）与 TCP/IP 协议普及的物理骨干。
+> - **1990 年代初 — 算力重心转型与高校网络技术再聚焦** 随着个人台式机算力大幅提升与网络互联普及，学术研究人员对传统集中式大型超级计算机机时的绝对依赖相对减少；设在伊利诺伊大学厄巴纳-香槟分校的国家超级计算应用中心（NCSA）科研人员顺势战略调整研发方向，全面转向支撑计算机网络扩展与信息检索的新型软件技术开发。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 40)]]
+> - **1993 — 高校研究生群体孕育 Mosaic 并引爆全球万维网** 在 NCSA 开放前沿的高校科研平台支持下，由伊利诺伊大学一组在读研究生（包括马克·安德森等）成功编写出全球首款免费图文交互网页浏览器 Mosaic；Mosaic 发布的短短一年内，互联网超文本传输协议（HTTP）流量出现指数级爆发，激增了整整 3,416 倍，直接点燃了 1990 年代中叶全球万维网（World Wide Web）的商业化繁荣。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 40–41)]]
 
 ---
 
@@ -85,6 +89,7 @@ updated: 2026-10-03
 > [!finding-cards] 关键成效与历史辐射
 > - **确立大型科研设施的同行评议开放[[Paradigm|范式]]** 超级[[Center of Calculation|计算中心]]不仅提供了算力，更在制度上树立了典范：昂贵且稀缺的国家公共科研设备无须由所在院校近亲独占，通过全国范围内的同行评议公平分配，能够以最高学术效率最大化释放科研生产力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 41)]]
 > - **奠定计算科学作为“第三科研范式”的学术地位** 推动数值模拟与计算科学从边缘工具跃升为与“理论推导”和“实验室实验”并驾齐驱的现代科研支柱。
+> - **实证依托[[University-Based Research Infrastructure|大学科研基础设施]]与青年研究生创新活力** NCSA 催生 Mosaic 浏览器的史实深刻证明：国家在大学设立的高水平科研基础设施不仅解决了特定算力任务，更在宽松开放的高校学术生态中赋能了在读青年研究生群体自下而上的颠覆性技术创新，释放出重塑全球数字经济的巨大外部性。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 40–41)]]
 > - **释放民用信息高速公路的颠覆性技术红利** 围绕中心诞生的 NSFNET 与 Mosaic 浏览器，构成了从联邦公共科研投资向全球高科技经济与数字经济跨越的最壮丽成功范式之一。
 
 ---
@@ -96,6 +101,7 @@ updated: 2026-10-03
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[National Science Foundation]] | Fact (Organization) | 规划、全额资助并管理该超级计算计划的联邦主管科学机构。 |
+> | [[University-Based Research Infrastructure]] | Concept | NSF 超级[[Center of Calculation\|计算中心]]作为依托大学建立国家级开放科研基础设施的典型代表。 |
 > | [[Richard C. Atkinson]] | Person | 推动 NSF 关注前沿关键科研条件与[[University-Industry Collaboration\|产学合作]]的代表性领袖。 |
 > | [[Federally Funded Research and Development Centers]] | Fact (Organization) | 与超级[[Center of Calculation\|计算中心]]形成算力与大科学设施互补的国家级科研基地。 |
 > | [[Industry-University Cooperative Research Centers]] | Fact (Program) | 共同构成了 20 世纪 80 年代 NSF 推进科研模式改革的重要制度支柱。 |

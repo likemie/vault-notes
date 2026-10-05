@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -49,6 +49,7 @@ related_facts:
   - "[[Organisation for European Economic Co-operation]]"
   - "[[OECD]]"
   - "[[Comparative Education Center at Chicago 1958]]"
+  - "[[ARPANET]]"
   - "[[1960 Bellagio Conference]]"
   - "[[Mediterranean Regional Project]]"
   - "[[UNESCO]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # Sputnik Shock 1957
@@ -96,7 +97,7 @@ updated: 2026-10-04
 >   - 同年 9 月国会通过《[[National Defense Education Act of 1958|国防教育法]]》（National Defense Education Act，NDEA 1958），联邦财政首次对数学、科学、工程与关键外语教育进行大规模定向注资；同年芝加哥大学在卡耐基基金会资助下建立[[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 421–423)]]
 > - **1959–1961 — 跨国扩散与“经济北约”重塑期** 斯普特尼克危机促使大西洋两岸将科学技术与教育置于地缘竞争前沿；[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（OEEC）顺势自我重塑为“世界一流教育的先驱”，于 1961 年正式改组为[[OECD|经合组织]]（OECD），被西方史学界定性为旨在抗衡华沙条约组织经济阵营的“经济北约”；经合组织投入巨额资源开展跨国教育统计，将[[Human Capital Theory|人力资本理论]]与宏观控制论规划紧密缝合。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
 > - **1961–1970 年代 — 全球创新治理与教育规划[[Paradigm|范式]]成型**
->   - ARPA/DARPA 逐步探索出由项目经理（Program Managers, PMs）主导的去官僚化资助模式，在前瞻性计算机科学（如 ARPANET、分时系统）、先进半导体材料与人工智能领域奠定基础。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1136)]]
+>   - ARPA/DARPA 逐步探索出由项目经理（Program Managers, PMs）主导的去官僚化资助模式，在前瞻性计算机科学（如 [[ARPANET]]、分时系统）、先进半导体材料与人工智能领域奠定基础。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1136)]]
 >   - 1960 年[[1960 Bellagio Conference|贝拉吉奥会议]]与 1961 年华盛顿经合组织政策会议推动各国确立“教育投资驱动经济与科技增长”共识；经合组织启动地中海地区项目（[[Mediterranean Regional Project|MRP]]），[[UNESCO|联合国教科文组织]]设立[[International Institute for Educational Planning|国际教育规划研究所]]（IIEP），现代教育经济学与宏观人力预测模型全面扎根。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 ---

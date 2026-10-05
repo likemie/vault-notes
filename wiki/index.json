@@ -6393,6 +6393,18 @@
     ]
   },
   {
+    "title": "Disciplinary Institutionalization",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Disciplinary Institutionalization.md",
+    "aliases": [
+      "学科建制化",
+      "学科制度化",
+      "学科建制",
+      "知识学科化",
+      "Disciplinary institutionalization"
+    ]
+  },
+  {
     "title": "Disciplinary Socialization",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Disciplinary Socialization.md",
@@ -6862,6 +6874,18 @@
       "大学社会责任",
       "USR",
       "university corporate social responsibility"
+    ]
+  },
+  {
+    "title": "University-Based Research Infrastructure",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/University-Based Research Infrastructure.md",
+    "aliases": [
+      "依托大学的科研基础设施",
+      "大学科研基础设施",
+      "高校科研基础设施",
+      "University research infrastructure",
+      "University-based research infrastructure"
     ]
   },
   {
@@ -10640,6 +10664,16 @@
       "分布式能动性",
       "分布式行动者",
       "分布式主体性"
+    ]
+  },
+  {
+    "title": "Dual-Use Technology",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Dual-Use Technology.md",
+    "aliases": [
+      "军民两用技术",
+      "军民双重用途技术",
+      "Dual use technology"
     ]
   },
   {
@@ -29526,6 +29560,16 @@
     ]
   },
   {
+    "title": "ARPANET",
+    "type": "fact",
+    "path": "wiki/facts/us/ARPANET.md",
+    "aliases": [
+      "阿帕网",
+      "高级研究计划局网络",
+      "Advanced Research Projects Agency Network"
+    ]
+  },
+  {
     "title": "Clinical Trials Transformation Initiative",
     "type": "fact",
     "path": "wiki/facts/us/Clinical Trials Transformation Initiative.md",
@@ -31429,7 +31473,7 @@
   {
     "title": "Argument_Fabrizio_Mowery_2005_REI",
     "type": "argument",
-    "path": "wiki/arguments/journal-articles/Revue d'économie industrielle/Argument_Fabrizio_Mowery_2005_REI.md"
+    "path": "wiki/arguments/journal-articles/Revue d'économie industrielle/Argument_Fabrizio_Mowery_2005_REI.md"
   },
   {
     "title": "Argument_Kazanci_Tinmaz_Sezgin_2023_SO",

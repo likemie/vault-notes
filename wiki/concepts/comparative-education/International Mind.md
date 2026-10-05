@@ -23,6 +23,7 @@ related_concepts:
   - "[[Democratic Education]]"
   - "[[Lifelong Learning]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Epistemology]]"
 related_theories: []
 related_methods:
@@ -161,4 +162,4 @@ updated: 2026-09-24
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 深入解析了 Wight 的理性主义传统在比较教育史中的表现，将“国际心智”定位为战前国联以及战后早期 [[UNESCO]] 体系推进教育去民族主义化、实现学科建制化的核心[[Epistemology\|认识论]]武器。
+> - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 深入解析了 Wight 的理性主义传统在比较教育史中的表现，将“国际心智”定位为战前国联以及战后早期 [[UNESCO]] 体系推进教育去民族主义化、实现[[Disciplinary Institutionalization|学科建制化]]的核心[[Epistemology\|认识论]]武器。

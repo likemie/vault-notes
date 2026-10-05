@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -37,13 +37,14 @@ related_persons:
 related_facts:
   - "[[DARPA]]"
   - "[[National Science Foundation]]"
+  - "[[ARPANET]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Fuchs_2010_RP]]"
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # Mansfield Amendment 1969
@@ -97,7 +98,7 @@ updated: 2026-10-04
 > - **高校研究型学者** 大学基础科研人员 — 经受阵痛后重新分流：一部分转向 NSF 申请同行评议基金，另一部分调整研究措辞以符合军方“明确作战关系”的严格合规要求。
 
 > [!finding-cards] 历史后果与制度重构
-> - **终结 ARPA 的“自由探索黄金时代”** 1960 年代 ARPA 宽松自由、几乎不问军用背景资助开创计算机科学、ARPANET 与分时系统的黄金时代彻底落幕，机构职能被深度固化在国防采办合规体系内。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
+> - **终结 ARPA 的“自由探索黄金时代”** 1960 年代 ARPA 宽松自由、几乎不问军用背景资助开创计算机科学、[[ARPANET]] 与分时系统的黄金时代彻底落幕，机构职能被深度固化在国防采办合规体系内。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
 > - **重塑美国联邦科研分工双轨制** 奠定了此后半个世纪“NSF 主管文职自下而上基础科学探索、DARPA 主管国家安全导向颠覆性工程突破”的联邦科研二元分工格局。
 > - **催生隐身技术革命与战术武器飞跃** 迫使 DARPA 聚焦直接军事威慑，直接催生了战术飞机雷达截面积算法突破与吸波材料研发，开创了现代隐身战机（F-117、B-2）的技术先河。
 

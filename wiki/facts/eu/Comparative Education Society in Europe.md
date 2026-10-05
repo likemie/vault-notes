@@ -26,6 +26,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Knowledge Production]]"
   - "[[Document]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Soft Power]]"
   - "[[Perpetual Peace]]"
   - "[[Epistemology]]"
@@ -115,7 +116,7 @@ CESE 的演进催生并伴随了欧洲比较教育学术学会的多中心分化
 > [!finding-cards] 核心业务与学术产出矩阵
 > - **两年一度的 CESE 跨国学术双年会（Biennial Conferences）** 学会的旗舰交流平台，汇聚全欧及跨大西洋核心学者，历届主题紧密呼应时代脉搏（如综合中学改革、[[Positivism|实证主义]]争论、全球化挑战与欧洲维度）。
 > - **旗舰学会论文集与专业出版物** 历届年会精选论文集（如 1994 哥本哈根、2006 格拉纳达文集）构成了欧洲比较教育[[Knowledge Production|知识生产]]与理论演进的重要[[Document|文献]]档案。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 98–99)]]
-> - **欧洲大学比较教育教席建制孵化** 学会骨干在伦敦大学 IOE、汉堡大学、海德堡大学、波鸿鲁尔大学与柏林洪堡大学等名校中推动设立独立研究中心与讲席，奠定了学科制度化基石。
+> - **欧洲大学比较教育教席建制孵化** 学会骨干在伦敦大学 IOE、汉堡大学、海德堡大学、波鸿鲁尔大学与柏林洪堡大学等名校中推动设立独立研究中心与讲席，奠定了[[Disciplinary Institutionalization|学科制度化]]基石。
 > - **跨国政策咨询与重大比较项目论证** 搭建高规格研讨平台，为西德马普所罗宾逊主持的《社会进程中的学校改革》以及[[Edmund King|埃德蒙·金]]的西欧后义务教育项目等跨国社会学比较课题提供学术网络支撑。
 
 > [!citation-card]- 欧洲比较教育学会初期宪章宗旨（1961年）
@@ -130,7 +131,7 @@ CESE 的演进催生并伴随了欧洲比较教育学术学会的多中心分化
 > [!finding-cards] 关键成效与辐射影响
 > - **学科专业身份确立与大学建制化** CESE 的成立标志着欧洲比较教育彻底告别 19 世纪个人业余考察状态，走向建制化与组织化；使学者拥有了跨越铁幕与国界的学术身份认同，奠定了战后欧洲比较教育[[Knowledge Production|知识生产]]共同体。
 > - **欧洲战后中等教育民主化催化剂** 学会搭建的跨国交流平台，系统引导了战后欧洲中等教育从阶级分立的双轨制向综合中学（Comprehensive School）改制，推动了教育机会均等与民主化进程。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 424)]]
-> - **多边理性主义科学治理范本** 展现了学术团体与跨国组织（[[UNESCO]]、[[OECD]]）协同治理的知识循环机制：国际组织提供活动平台，学者合作推进学科建制，建制化学科反哺政策论证。
+> - **多边理性主义科学治理范本** 展现了学术团体与跨国组织（[[UNESCO]]、[[OECD]]）协同治理的知识循环机制：国际组织提供活动平台，学者合作推进[[Disciplinary Institutionalization|学科建制]]，建制化学科反哺政策论证。
 > - **冷战后中东欧学科重建与欧洲维度深化** 在东欧剧变与两德统一后，学会积极吸纳中东欧学者实现学术重构，并在 1990 年代后引领欧洲学界深化对欧盟一体化、[[Bologna Process|博洛尼亚进程]]与[[European Qualifications Framework|欧洲资格框架]]的理性制度反思。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
 
 ---
@@ -169,7 +170,7 @@ CESE 的演进催生并伴随了欧洲比较教育学术学会的多中心分化
 > | [[Joseph Lauwerys]] | 人物 | CESE 创设奠基人与首任主席（1961–1967），确立学会多边主义与学术中立信条。 |
 > | [[Wolfgang Mitter]] | 人物 | CESE 资深骨干与前主席，系统梳理学会组织演进与欧洲多中心学术网络。 |
 > | [[Brian Holmes]] | 人物 | CESE 早期核心领袖之一，力推[[Positivism\|实证主义]][[Problem Approach\|问题法]]范式并参与推动 WCCES 设立。 |
-> | [[Comparative and International Education Society]] | 事实 | 美国对应学会（CIES），与 CESE 共同构成了二战后大西洋两岸学科建制化的高峰。 |
+> | [[Comparative and International Education Society]] | 事实 | 美国对应学会（CIES），与 CESE 共同构成了二战后大西洋两岸[[Disciplinary Institutionalization\|学科建制化]]的高峰。 |
 > | [[UNESCO]] | 事实 | 战后孵化 CESE 成立的核心多边国际组织，双方在教育民主化领域形成深度智囊互构。 |
 > | [[OECD]] | 事实 | 战后与 CESE 学者保持复杂互动、当代以大规模测评[[Disciplina and Doctrina\|规训]]重塑欧洲教育治理的国际组织。 |
 

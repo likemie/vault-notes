@@ -59,6 +59,7 @@ related_concepts:
   - "[[Conatus]]"
   - "[[Knowledge Co-production]]"
   - "[[Theory of Knowledge]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Teaching Assistant]]"
   - "[[Research Scope]]"
   - "[[Internal Validity]]"
@@ -168,7 +169,7 @@ updated: 2026-09-14
 > | **[[Action Research]]**<br>校本合作行动研究 | 揭示一线学校教师作为[[Knowledge Co-production\|知识共创]]者而非被动受试者的微观机制，阐明校本行动研究如何与国家教师职业生涯阶梯相结合，驱动薄弱学校转型为内生型的知识创造型组织。（pp. 213–216） |
 
 > [!warrant]- 理论透镜如何支撑多方论辩推导
-> 上述理论透镜构成了环环相扣的推导桥梁：[[Dirk Van Damme\|范达默]]与施奈德从实证科学与[[Theory of Knowledge\|知识论]]高度出发，确立了教育研究摆脱认识论危机必须依赖高标准的**学科建制规范**；班斯、亨利与纳吉引入教师专业性与行动研究视角，证明了缺乏实践者**主体所有权**的科研注定陷入应用瘫痪；普勒茨与[[Vivian Tseng\|曾薇薇安]]则借助伙伴关系与证据民主化理论，从权力关系重组与资助机制重构的高度打破了研究者对[[Knowledge Production\|知识生产]]的**排他性垄断**；最后友利田运用批判社会学与专业伦理透镜，对狭隘工具主义的可用性话语提出警告，确保教育研究始终承担起**捍卫社会弱势群体**的根本受托使命。（pp. 201–202, 227–231）
+> 上述理论透镜构成了环环相扣的推导桥梁：[[Dirk Van Damme\|范达默]]与施奈德从实证科学与[[Theory of Knowledge\|知识论]]高度出发，确立了教育研究摆脱认识论危机必须依赖高标准的**[[Disciplinary Institutionalization|学科建制]]规范**；班斯、亨利与纳吉引入教师专业性与行动研究视角，证明了缺乏实践者**主体所有权**的科研注定陷入应用瘫痪；普勒茨与[[Vivian Tseng\|曾薇薇安]]则借助伙伴关系与证据民主化理论，从权力关系重组与资助机制重构的高度打破了研究者对[[Knowledge Production\|知识生产]]的**排他性垄断**；最后友利田运用批判社会学与专业伦理透镜，对狭隘工具主义的可用性话语提出警告，确保教育研究始终承担起**捍卫社会弱势群体**的根本受托使命。（pp. 201–202, 227–231）
 
 ---
 
@@ -508,7 +509,7 @@ updated: 2026-09-14
 
 ## 关键引用
 
-> [!citation-card] [[Dirk Van Damme\|范达默]]论教育研究的学科建制困境与研究者责任
+> [!citation-card] [[Dirk Van Damme\|范达默]]论教育研究的[[Disciplinary Institutionalization|学科建制]]困境与研究者责任
 > 提升教育研究使教育系统转型为循证知识系统的道路是漫长而曲折的。在此期间，我们应当尊重政策制定者与实践者解决自身知识需求的方式。真正的挑战在于研究共同体自身，而不在于教师和政策制定者。（p. 206）
 >
 > *The road to upgrading educational research so that education systems become evidence-based knowledge systems is a long and winding one. In the meantime, let’s be respectful of how policy makers and practitioners solve their knowledge needs. The challenge lies with the research community, not with teachers and policy makers.*

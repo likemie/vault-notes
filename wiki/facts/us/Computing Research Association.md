@@ -26,6 +26,7 @@ tags:
   - computer-science
 related_concepts:
   - "[[Research Universities]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Application Engineering]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Embedded Network Governance]]"
@@ -70,7 +71,7 @@ updated: 2026-10-04
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1972–1986年 — 创设与学科建制化** 成立早期主要协调大学计算机系的课程设置、教师发展及博士毕业生流向调查（Taulbee Survey），推动计算机科学从[[Application Engineering|应用工程]]中脱胎为独立学科建制。
+> - **1972–1986年 — 创设与[[Disciplinary Institutionalization|学科建制化]]** 成立早期主要协调大学计算机系的课程设置、教师发展及博士毕业生流向调查（Taulbee Survey），推动计算机科学从[[Application Engineering|应用工程]]中脱胎为独立学科建制。
 > - **1986–2000年 — 政策介入与华盛顿总部建立** 正式更名为美国计算机研究协会并迁至华盛顿特区，全面介入联邦信息技术政策倡导，深度参与推动《1991年高性能计算法案》（HPCA）及国家信息基础设施建设。
 > - **2001–2008年 — 捍卫大学基础研究与抗议 [[DARPA]] 改革** 在 [[Tony Tether|托尼·瑟瑟]]（Tony Tether）执掌 [[DARPA|国防高级研究计划局]] 期间，CRA 发起全国性学术抗议，严正批评 DARPA 将资金从大学转移至军工巨头并实施涉密限制，直接推动了国会对联邦科研资助政策的审查。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134, 1138)]]
 > - **2009年–至今 — 负责任 AI 与计算研究未来领导力** 设立计算社区联盟（Computing Community Consortium, CCC），持续发布人工智能、量子计算等战略路线图，成为白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）与国会的核心智库。

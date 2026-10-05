@@ -61,6 +61,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Scientific Paradigm]]"
   - "[[Domain Specificity]]"
+  - "[[Disciplinary Institutionalization]]"
   - "[[Value Neutrality]]"
   - "[[Humanistic Episteme]]"
   - "[[Working Hypothesis]]"
@@ -269,7 +270,7 @@ updated: 2026-10-01
 > - **19世纪末至20世纪中叶 — [[Positivism|实证主义]]确立与批判** 实证主义将自然科学的实证经验确立为唯一真理形态；法兰克福学派与[[Karl Popper|卡尔·波普尔]]（Karl Popper）相继批判[[Scientism|科学主义]]的独断论，奠定理论负载与可错论思想。
 > - **1970年代 — 社会[[Scientific Paradigm|科学范式]]二元划分** Burrell & Morgan（1979）将认识论作为核心[[Hypothesis|假设]]轴线，正式确立[[Objectivism|客观主义]]（实证主义）与[[Subjectivism|主观主义]]（[[Interpretive Paradigm|反实证主义]]）的[[Paradigm|范式]]光谱。
 > - **2000年代 — 认知发展与教育心理学[[Operationalization|操作化]]** [[Deanna Kuhn|迪安娜·库恩]]（Deanna Kuhn）等学者将认识论操作化为个体可发展的“[[Epistemological Understanding|认识论理解]]”模型，开创个人认识论与[[Domain Specificity|领域特殊性]]测量传统。
-> - **2000年代 — 批判认识论反抗与解构19世纪社会科学前提** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 2000; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）提出[[World-Systems Theory|世界体系分析]]是对欺骗性认识论的智识反抗，主张超越 19 世纪学科建制的分裂与[[Value Neutrality|价值中立]]假象，将追求真理与追求正义社会统一于批判认识论方案。
+> - **2000年代 — 批判认识论反抗与解构19世纪社会科学前提** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 2000; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）提出[[World-Systems Theory|世界体系分析]]是对欺骗性认识论的智识反抗，主张超越 19 世纪[[Disciplinary Institutionalization|学科建制]]的分裂与[[Value Neutrality|价值中立]]假象，将追求真理与追求正义社会统一于批判认识论方案。
 > - **2000年代末 — [[Protean Episteme|普罗透斯式认识体系]]与[[Historical Amnesia|历史健忘症]]诊断** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）以两百年学科史为镜鉴，提出跨学科探究作为“[[Protean Episteme|普罗透斯式认识体系]]”的四重代际演进（启蒙准科学、历史哲学、经验实证与批判冲突），结合[[Bernard Barber|巴伯]]（Barber, 1973）批判唯方法论主义的技术拜物教，以期刊计量数据诊断出放逐历史导致的学科“历史健忘症”危机，确立历史学与社会科学综合纲领的现代认识论合法性。
 > - **当代前沿 — [[Pragmatic Paradigm|实用主义]]整合与复杂适应** [[Mixed Methods Research|混合方法研究]]以实用主义认识论超越量质之争（Johnson et al., 2007）；[[Complexity Theory|复杂性理论]]进一步确立动态[[Emergence|涌现]]与生态反思的非线性认识论架构。
 
