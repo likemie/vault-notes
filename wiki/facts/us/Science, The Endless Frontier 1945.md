@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -195,6 +195,7 @@ updated: 2026-10-05
 > > 2025 年前后美国科技政策出现从以科学为中心向以技术能力为中心的结构性转向。
 > >
 > > - **制度性承诺的调整（[[Argument_Fan_2026_BCAS|樊春良, 2026]]）** 布什意义上的科学无止境边疆不仅指涉未知领域，更承载着三项核心制度承诺：对基础研究长期价值的默认信任、对科研不确定性的时间容忍、以及对科学无需持续证明即时用途的制度保障。在当前地缘技术竞争与能力动员主导的治理下，长周期自由探索的支持稳定性减弱，无止境的边疆正由[[Doxa|不言自明]]的制度性前提，转变为需要持续证明其战略与现实价值的待正当化命题。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1063–1064)]]
+> > - **认知驱动契约与技术型契约的替代张力** 战后依托布什报告建立的契约属于以科学为中心的认知驱动契约；而 2025 年白宫科学技术政策办公室（OSTP）主导的转向则走向了[[Technology-Oriented Social Contract|技术型社会契约]]，强调技术能力的快速获取、部署与行政可验证性，科学自治演变为高度安全化、政治化的受限自治。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]
 
 
 ---
@@ -206,6 +207,10 @@ updated: 2026-10-05
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[National Science Foundation]] | Fact (Org) | 报告直接推动建立的美国联邦基础科学最高资助机构。 |
+> | [[Office of Naval Research]] | Fact (Org) | 在战后五年立法真空期率先实践布什契约原则的海军资助机构。 |
+> | [[National Institutes of Health]] | Fact (Org) | 战后多元分布式资助网络中承担健康使命导向的另一关键支柱。 |
+> | [[Social Contract of Science]] | Theory | 报告奠定的战后美国科学治理核心范式与制度底色。 |
+> | [[Technology-Oriented Social Contract]] | Concept | 2025 年起挑战并部分替代传统边疆契约的新型治理形态。 |
 > | [[Basic-Applied Research Dichotomy]] | Concept | 报告奠定并在全美制度化的核心分类概念。 |
 > | [[Linear Model of Innovation]] | Concept | 报告所依循并赋予国家权威的单向创新过程[[Paradigm\|范式]]。 |
 > | [[Pasteur's Quadrant]] | Theory | 斯托克斯为修正布什一维分类而提出的二维动机理论。 |
