@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mitter_2009_Europe.md",
+                "file": "wiki/facts/us/March for Science 2017.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Mitter_2009_Europe"
+              "title": "March for Science 2017"
             }
           },
           {
@@ -67,7 +67,8 @@
               "title": "Argument_Stephan_2013_NBER"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -269,11 +270,26 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dbd03913e540f7fd",
+  "active": "ce0c3314a2a583a3",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/Bulletin of Chinese Academy of Sciences/Argument_Fan_2026_BCAS.md",
+    "wiki/facts/us/A Strategy for American Innovation 2011.md",
+    "wiki/templates/template-fact-policy.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ramming_2025_CorporateSupport.md",
+    "wiki/persons/us/Michael Kratsios.md",
+    "wiki/facts/us/March for Science 2017.md",
+    "wiki/persons/us/Sheila Slaughter.md",
+    "wiki/persons/us/David Guston.md",
+    "wiki/concepts/science-policy/Public Value.md",
+    "wiki/concepts/science-policy/Reproducibility Crisis.md",
+    "wiki/concepts/science-policy/Curiosity-Driven Research.md",
+    "wiki/concepts/science-policy/Mission-Oriented Research.md",
+    "wiki/facts/us/NSF Broader Impacts Criterion.md",
+    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mitter_2009_Europe.md",
     "wiki/facts/us/Semiconductor Research Corporation.md",
     "wiki/arguments/journal-articles/Minerva/Argument_Logar_2014_Minerva.md",
-    "wiki/arguments/journal-articles/Bulletin of Chinese Academy of Sciences/Argument_Fan_2026_BCAS.md",
+    "wiki/facts/us/National Science and Technology Council.md",
+    "wiki/facts/us/Science in the National Interest 1994.md",
     "sources/Fan_2026_BCAS.md",
     "wiki/facts/us/President's Science Advisory Committee.md",
     "wiki/facts/us/Restoring Gold Standard Science Executive Order.md",
@@ -282,25 +298,10 @@
     "wiki/concepts/science-policy/Big Science.md",
     "wiki/persons/us/Donald Stokes.md",
     "wiki/facts/us/Sputnik Shock 1957.md",
-    "wiki/theories/science-policy/Social Contract of Science.md",
-    "wiki/facts/us/National Science Foundation.md",
-    "wiki/facts/us/National Institutes of Health.md",
-    "wiki/facts/us/Office of Naval Research.md",
-    "wiki/facts/us/Science, The Endless Frontier 1945.md",
-    "wiki/persons/us/Vannevar Bush.md",
-    "wiki/theories/science-policy/Pasteur's Quadrant.md",
-    "wiki/concepts/university-industry-collaboration/Use-Inspired Basic Research.md",
-    "wiki/concepts/university-industry-collaboration/Knowledge Production.md",
-    "wiki/concepts/science-policy/Technology-Oriented Social Contract.md",
-    "wiki/concepts/university-industry-collaboration/Research Security.md",
-    "wiki/concepts/higher-education/Research Universities.md",
     "sources/Fan_2026_BCAS.pdf",
     "wiki/arguments/journal-articles/Bulletin of Chinese Academy of Sciences",
     "raw_extracted_paper.txt",
     "scratch/scratch_logar_text.txt",
-    "wiki/concepts/higher-education/Mentorship.md",
-    "wiki/concepts/economics/General Purpose Technology.md",
-    "wiki/concepts/university-industry-collaboration/Pilot Scale Platform.md",
     "sources/Logar_2014_Minerva/figures/Logar_2014_Minerva_Fig1_SRC_Funding_Trends.jpg",
     "sources/Logar_2014_Minerva/figures/Logar_2014_Minerva_Fig1_SRC_Funding_Trends.png",
     "sources/Logar_2014_Minerva/Logar_2014_Minerva.pdf",

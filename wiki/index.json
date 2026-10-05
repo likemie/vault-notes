@@ -10697,6 +10697,19 @@
     ]
   },
   {
+    "title": "Curiosity-Driven Research",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Curiosity-Driven Research.md",
+    "aliases": [
+      "自由探索型研究",
+      "好奇心驱动研究",
+      "好奇心驱动型研究",
+      "自由探索研究",
+      "纯基础研究",
+      "Blue-Sky Research"
+    ]
+  },
+  {
     "title": "Demand-side Innovation Policy",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Demand-side Innovation Policy.md",
@@ -10861,6 +10874,17 @@
     ]
   },
   {
+    "title": "Mission-Oriented Research",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Mission-Oriented Research.md",
+    "aliases": [
+      "任务导向型研究",
+      "使命驱动型研究",
+      "使命导向型研究",
+      "Mission-Driven Research"
+    ]
+  },
+  {
     "title": "Nature of Innovation",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Nature of Innovation.md",
@@ -10949,6 +10973,17 @@
       "反思型治理",
       "自反性治理",
       "Reflexive Governance for Sustainable Development"
+    ]
+  },
+  {
+    "title": "Reproducibility Crisis",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Reproducibility Crisis.md",
+    "aliases": [
+      "可重复性危机",
+      "复制危机",
+      "可复现性危机",
+      "Replication Crisis"
     ]
   },
   {
@@ -22284,6 +22319,15 @@
     ]
   },
   {
+    "title": "David Guston",
+    "type": "person",
+    "path": "wiki/persons/us/David Guston.md",
+    "aliases": [
+      "大卫·古斯顿",
+      "David H. Guston"
+    ]
+  },
+  {
     "title": "David Klahr",
     "type": "person",
     "path": "wiki/persons/us/David Klahr.md",
@@ -22869,6 +22913,15 @@
     ]
   },
   {
+    "title": "Michael Kratsios",
+    "type": "person",
+    "path": "wiki/persons/us/Michael Kratsios.md",
+    "aliases": [
+      "迈克尔·克拉齐奥斯",
+      "克拉齐奥斯"
+    ]
+  },
+  {
     "title": "Michael Porter",
     "type": "person",
     "path": "wiki/persons/us/Michael Porter.md",
@@ -23107,6 +23160,15 @@
       "Russell Skiba",
       "拉塞尔·斯基巴",
       "斯基巴"
+    ]
+  },
+  {
+    "title": "Sheila Slaughter",
+    "type": "person",
+    "path": "wiki/persons/us/Sheila Slaughter.md",
+    "aliases": [
+      "希拉·斯劳特",
+      "斯劳特"
     ]
   },
   {
@@ -28364,6 +28426,16 @@
     ]
   },
   {
+    "title": "March for Science 2017",
+    "type": "fact",
+    "path": "wiki/facts/us/March for Science 2017.md",
+    "aliases": [
+      "为科学而游行",
+      "科学大游行",
+      "March for Science"
+    ]
+  },
+  {
     "title": "Measuring Quality Inventory",
     "type": "fact",
     "path": "wiki/facts/us/Measuring Quality Inventory.md",
@@ -29131,6 +29203,16 @@
     ]
   },
   {
+    "title": "National Science and Technology Council",
+    "type": "fact",
+    "path": "wiki/facts/us/National Science and Technology Council.md",
+    "aliases": [
+      "国家科学技术委员会",
+      "NSTC",
+      "白宫国家科学技术委员会"
+    ]
+  },
+  {
     "title": "National Science Foundation",
     "type": "fact",
     "path": "wiki/facts/us/National Science Foundation.md",
@@ -29360,6 +29442,17 @@
       "U.S.-Japan Semiconductor Trade Agreement",
       "1986 STA",
       "Semiconductor Trade Agreement"
+    ]
+  },
+  {
+    "title": "A Strategy for American Innovation 2011",
+    "type": "fact",
+    "path": "wiki/facts/us/A Strategy for American Innovation 2011.md",
+    "aliases": [
+      "美国创新战略",
+      "美国创新战略2011",
+      "A Strategy for American Innovation",
+      "Strategy for American Innovation"
     ]
   },
   {
@@ -29598,6 +29691,17 @@
     ]
   },
   {
+    "title": "NSF Broader Impacts Criterion",
+    "type": "fact",
+    "path": "wiki/facts/us/NSF Broader Impacts Criterion.md",
+    "aliases": [
+      "更广泛的影响标准",
+      "更广泛影响准则",
+      "Broader Impacts",
+      "Broader Impacts Criterion"
+    ]
+  },
+  {
     "title": "October 2022 US Semiconductor Export Controls",
     "type": "fact",
     "path": "wiki/facts/us/October 2022 US Semiconductor Export Controls.md",
@@ -29661,6 +29765,16 @@
       "恢复黄金标准科学行政令",
       "Restoring Gold Standard Science",
       "Executive Order on Restoring Gold Standard Science"
+    ]
+  },
+  {
+    "title": "Science in the National Interest 1994",
+    "type": "fact",
+    "path": "wiki/facts/us/Science in the National Interest 1994.md",
+    "aliases": [
+      "科学与国家利益",
+      "科学在国家利益中",
+      "Science in the National Interest"
     ]
   },
   {

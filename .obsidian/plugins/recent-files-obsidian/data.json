@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "March for Science 2017",
+      "path": "wiki/facts/us/March for Science 2017.md"
+    },
+    {
+      "basename": "Argument_Fan_2026_BCAS",
+      "path": "wiki/arguments/journal-articles/Bulletin of Chinese Academy of Sciences/Argument_Fan_2026_BCAS.md"
+    },
+    {
+      "basename": "A Strategy for American Innovation 2011",
+      "path": "wiki/facts/us/A Strategy for American Innovation 2011.md"
+    },
+    {
+      "basename": "template-fact-policy",
+      "path": "wiki/templates/template-fact-policy.md"
+    },
+    {
       "basename": "Argument_Ramming_2025_CorporateSupport",
       "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ramming_2025_CorporateSupport.md"
+    },
+    {
+      "basename": "Public Value",
+      "path": "wiki/concepts/science-policy/Public Value.md"
+    },
+    {
+      "basename": "Argument_Mitter_2009_Europe",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mitter_2009_Europe.md"
     },
     {
       "basename": "Semiconductor Research Corporation",
@@ -11,10 +35,6 @@
     {
       "basename": "Argument_Logar_2014_Minerva",
       "path": "wiki/arguments/journal-articles/Minerva/Argument_Logar_2014_Minerva.md"
-    },
-    {
-      "basename": "Argument_Fan_2026_BCAS",
-      "path": "wiki/arguments/journal-articles/Bulletin of Chinese Academy of Sciences/Argument_Fan_2026_BCAS.md"
     },
     {
       "basename": "Fan_2026_BCAS",
@@ -179,26 +199,6 @@
     {
       "basename": "Regional Innovation System",
       "path": "wiki/concepts/university-industry-collaboration/Regional Innovation System.md"
-    },
-    {
-      "basename": "Argument_Lester_2005_MIT",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Lester_2005_MIT.md"
-    },
-    {
-      "basename": "Local Innovation Systems Project",
-      "path": "wiki/facts/us/Local Innovation Systems Project.md"
-    },
-    {
-      "basename": "Argument_Fabrizio_Mowery_2005_REI",
-      "path": "wiki/arguments/journal-articles/Revue d'économie industrielle/Argument_Fabrizio_Mowery_2005_REI.md"
-    },
-    {
-      "basename": "Education for All",
-      "path": "wiki/facts/global/Education for All.md"
-    },
-    {
-      "basename": "Michael Porter",
-      "path": "wiki/persons/us/Michael Porter.md"
     }
   ],
   "omittedPaths": [],
