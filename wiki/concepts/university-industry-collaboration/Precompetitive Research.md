@@ -201,6 +201,7 @@ updated: 2026-10-04
 > | [[Argument_Narayan_Spohrer_2025_Metrics\|Narayan & Spohrer (2025)]] | IBM 全球小型产学合作项目（每年 <\$250K） | 实践案例与政策反思 | IP 审查周期与合作成活率 | 小型前竞争项目若套用商业级 IP 审查，会导致法务流程拖延数月甚至使合作夭折 | 定性管理总结 | 适用于企业与大学的小型探索性课题 |
 > | [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] | 美日欧 16 个高技术研发联盟（[[Sematech]], [[VLSI Project\|VLSI]], [[ESPRIT]] 等） | 跨国[[Comparative Case Study\|比较案例研究]] | 政府资助比例（0%–100%）、研发重点调整方向 | 集中式项目管理与纵向供应链协同呈现出更高的[[Research Translation\|技术转化]]效率与设备运行稳定性 | 25+ 场访谈与 11 项工程档案分析 | 适用于高技术制造业公私研发联合体 |
 > | [[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al. (2025)]] | 英国[[Advanced Manufacturing Research Centre\|先进制造研究中心]]（AMRC）及制造业联合体 | 案例追踪与制度分析 | 两层 IP 模式下的会员参与度与转化成效 | 前竞争轨道（大学持权免版税使用）与[[Product-Specific Research\|产品专项]]轨道（赞助商独占）并行有效消除了竞争对手合作顾虑 | 深入案例分析 | 适用于制造业中试与工艺转化中心 |
+| [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] | 美国半导体研究公司（SRC）前竞争产学研发网络（1982–2011） | 单机构案例研究（访谈 $N=19$ 与历史财务档案） | 资助规模、人才产出、专利数与高被引工业引用率 | 年均资助近 1,500 名博士生（累计培养 9,200+ 毕业生）；累计产出专利 377 项；在 125 篇百引以上论文中 58%（72篇）的工业引用占比超过 15% | 定性与描述性统计档案分析 | 适用于行业级前竞争产学合作研发联合体 |
 
 ---
 

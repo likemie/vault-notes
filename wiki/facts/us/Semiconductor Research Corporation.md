@@ -106,10 +106,12 @@ updated: 2026-10-04
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务矩阵与旗舰项目
+> - **全球研究协作计划（GRC）** SRC 最早的基础项目，聚焦近中期 CMOS 演化瓶颈，依据半导体技术路线图（ITRS）由大学个人学者与中心承接；后续引入定向资金分配机制与“重要性–满意度”（IS）双维评估体系。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 248–251)]]
 > - **[[Sematech Centers of Excellence|大学卓越技术中心网络]]（SCOE / Centers of Excellence）** 1980–1990 年代与 [[Sematech]] 深度协作，在全美顶尖院校建立 10 余个微电子制造共性技术研发中心，攻克深紫外（DUV）光刻、化学机械抛光（CMP）等关键工艺基础理论。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 735)]]
-> - **[[Focus Center Research Program|焦点研究中心计划]]（FCRP / STARnet）** 1998 年通过下设的 MARCO 运营，联合 SIA、[[DARPA]] 与 SEMATECH 资助佐治亚理工学院、加州大学伯克利分校、MIT 等高校建立跨学科焦点中心，攻坚 10 至 15 年视野的互连物理、十亿门级系统设计与纳米新材料。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 121, note 48)]]
+> - **[[Focus Center Research Program|焦点研究中心计划]]（FCRP / STARnet）** 1998 年联合 SIA、[[DARPA]] 与 SEMATECH 设立，聚焦 10 至 15 年跨度、范式跃迁的多大学联合中心，由产业界与 DARPA 对等（50:50）联合注资，实行一票制协同治理。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 121, note 48)]]; [[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 248–253)]]
+> - **纳米电子学研究倡议（NRI）** 2005 年设立，面向超越 CMOS（Beyond CMOS）的全新逻辑开关物理与器件探索，由企业、NSF 与国家标准与技术研究院（NIST）联合资助。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 248–249)]]
+> - **能源研究倡议（ERI）** 拓展至智能电网与光伏领域的跨界试验项目，尝试将半导体产学研发联合体模式迁移至能源创新生态。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 248–250)]]
 > - **微电子联合大学计划（JUMP / JUMP 2.0）** 联合 [[DARPA]] 资助 7 个全美跨校研究中心（涵盖 CogniSense、CUbiC、PRISM、[[American Council on Education|ACE]] 等），攻坚高能效认知计算、智能传感与三维异构集成。
-> - **十亿节点计算机研究（nCORE / GRC）** 全球研究协作计划（GRC）持续资助纳米电子器件物理、新存储介质与先进光电互连基础科学。
 > - **十年微电子技术愿景（Decadal Plan for Semiconductors）** 联合 SIA 制定发布指引全美未来 10 年半导体研发重点的战略白皮书，成为国会制定《[[CHIPS and Science Act|芯片法案]]》的重要理论依据。
 
 > [!citation-card] [[Industry Affiliate Program|产业联盟]]不可替代大学开放基础科研与人才培养
@@ -122,9 +124,9 @@ updated: 2026-10-04
 ## 影响与体系成效
 
 > [!indicators]- 影响力维度与指标
-> - **累计科研投入与资助规模** 自 1982 年成立以来累计组织产学研研发投入超过 **25 亿美元**；每年资助全美 **100+ 所**高校的 **2,000+ 名**教授与青年研究学者。
-> - **高阶工程人才培养输出** 累计培养输送超过 **15,000 名**微电子、物理与计算机科学领域的硕士与博士毕业生，其中超过 70% 进入美国芯片与软硬件核心企业任职。
-> - **学术成果与技术外溢** 产出学术论文与技术报告 **70,000+ 篇**，催生核心发明专利 **1,000+ 项**，成为支撑摩尔定律持续演进的基础科学基石。
+> - **累计科研投入与资助规模** 自 1982 年成立以来累计组织产学研研发投入超过 **25 亿美元**；年均支持全美近 1,500 名博士研究生；在 2005 年荣获美国国家技术与创新奖章（National Medal of Technology）。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 243–246)]]
+> - **高阶工程人才培养输出** 累计培养输送超过 **15,000 名**微电子、物理与计算机科学领域的硕士与博士毕业生，其中超过 70% 进入美国芯片与软硬件核心企业任职；在 1982–1990 年间推动全美含“硅”主题博士论文从 162 篇激增至 470 篇。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 245–246)]]
+> - **学术成果与关键技术商业化** 催生数百项核心专利，在无铅倒装芯片封装（Lead-free Flip Chip Packaging）与三面金属栅 FinFET 晶体管等重大底层工艺突破中扮演了先驱资助角色。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 244–245)]]
 
 > [!finding-cards] 关键成效与辐射影响
 > - **化解竞争者[[University-Industry Collaboration|产学合作]]“公地悲剧”** 成功探索出让竞争对手在底层科学层面共享资金、分摊风险并共同培育人才的制度模板，成为全球公私研发合作（[[Public-Private Partnership in Research|PPP]]）的教科书[[Paradigm|范式]]。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
@@ -137,7 +139,13 @@ updated: 2026-10-04
 
 > [!debates] 核心争议交锋
 >
-> > [!axis] 行业联盟型 [[Public-Private Partnership in Research|PPP]] vs 国家战略型 PPP 的制度定位张力
+> > [!axis] 大型整合企业特权 vs 初创小企业的参与壁垒（“富者愈富”困局）
+> > 会员费按企业销售额比例收取以及高昂的派驻人员成本，导致中小初创企业难以真正进入治理与研发优先权核心。
+> >
+> > - **[[Argument_Logar_2014_Minerva|Logar et al. (2014)]]** 指出 SRC 模式本质上契合具有长期预研眼界和充足人员派驻能力的垂直整合大型公司；初创企业研发周期短、无法承担数额不菲的会费与联络人成本，使得技术路线决策权高度集中于巨头企业，可能造成“富者愈富”（Rich-get-richer）的行业技术路径偏倚。
+> > - **联盟组织辩护** 认为初创企业虽然未能直接参会，但同样受益于全行业共享的前竞争知识外溢、公开发表成果以及全美微电子研究生人才库的普遍扩容。
+> >
+> > > [!axis] 行业联盟型 [[Public-Private Partnership in Research|PPP]] vs 国家战略型 PPP 的制度定位张力
 > > 随着《[[CHIPS and Science Act|芯片法案]]》NSTC 等政府重资产平台的设立，传统由企业主导的 SRC 模式面临重新定位。
 > >
 > > - **[[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]]** 指出 NSTC 的出现对企业构成了“强制函数”，迫使[[University-Industry Collaboration|产学合作]]实践者重新厘清 SRC（服务于可预测的持续性路线图）与 NSTC（国家地缘科技安全与战略转折突破）的分工边界。
