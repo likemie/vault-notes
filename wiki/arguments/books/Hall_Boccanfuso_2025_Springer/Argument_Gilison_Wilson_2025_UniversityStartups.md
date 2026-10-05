@@ -17,9 +17,9 @@ related_concepts:
   - "[[Governance by Spin]]"
   - "[[Research Universities]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Sponsored Research Agreement]]"
   - "[[Proof of Concept Programs]]"
   - "[[Hypothesis]]"
-  - "[[Sponsored Research Agreement]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Academic Freedom]]"
   - "[[Research Scope]]"
@@ -64,7 +64,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-29
-updated: '2026-06-08'
+updated: 2026-10-06
 subtype: book-chapter
 publication_type: book
 title: "Argument_Gilison_Wilson_2025_UniversityStartups"
@@ -101,7 +101,7 @@ citation_aliases:
 > 实践者指南（practitioner guide），基于[[Alliance for Southern California Innovation\|南加州创新联盟]]八年的直接运营经验，以及对南加州 20 余位大学[[University-Industry Collaboration\|产学合作]]领导者和企业创新负责人的访谈、小组讨论和书面调查(pp.142-143)。访谈围绕三条主线：
 > - 产业与大学之间最有效、最常见的催生衍生企业的合作形式是什么？
 > - 大学在开发有意义的产业伙伴关系方面最有效的机制是什么？
-> - 产业赞助研究是催生衍生企业的可行渠道吗？为什么？
+> - [[Sponsored Research Agreement|产业赞助研究]]是催生衍生企业的可行渠道吗？为什么？
 >
 > 研究发现以归纳方式呈现，属于实践经验的提炼而非系统性实证检验。
 
@@ -110,7 +110,7 @@ citation_aliases:
 ## 论证结构
 
 > [!abstract]
-> **整体逻辑链** 打破宿舍创业神话 → 揭示产业赞助研究中的知识产权（Intellectual Property, IP）毒丸与风险投资（Venture Capital, VC）偏好不匹配两重结构性障碍 → 展示大学主导的概念验证（[[Proof of Concept Programs\|proof of concept]], PoP）项目与创新联盟两种有效机制 → 收束为产业参与的七级阶梯。
+> **整体逻辑链** 打破宿舍创业神话 → 揭示[[Sponsored Research Agreement|产业赞助研究]]中的知识产权（Intellectual Property, IP）毒丸与风险投资（Venture Capital, VC）偏好不匹配两重结构性障碍 → 展示大学主导的概念验证（[[Proof of Concept Programs\|proof of concept]], PoP）项目与创新联盟两种有效机制 → 收束为产业参与的七级阶梯。
 
 ---
 
@@ -385,7 +385,7 @@ citation_aliases:
 
 > [!warning]
 > **产业直接参与衍生企业创建的结构性障碍**
-> - 产业赞助研究中的知识产权（IP）捆绑构成"毒丸"，使衍生企业无法灵活创新、限制其接触更广泛的资本市场、从根本上削弱了研究人员的创业动力。三方（企业、大学、研究人员）各有其合理的利益诉求，但这些诉求的加总效应是"没有人有足够的动机去推动衍生企业创建"(pp.143-144)
+> - [[Sponsored Research Agreement|产业赞助研究]]中的知识产权（IP）捆绑构成"毒丸"，使衍生企业无法灵活创新、限制其接触更广泛的资本市场、从根本上削弱了研究人员的创业动力。三方（企业、大学、研究人员）各有其合理的利益诉求，但这些诉求的加总效应是"没有人有足够的动机去推动衍生企业创建"(pp.143-144)
 > - [[Corporate Venture Capital\|企业风险投资]]（CVC）和传统风险投资（VC）的投资偏好（成熟团队、已验证技术、巨大市场机会）与早期衍生企业的风险特征之间存在系统性不匹配。资助种子前轮次（pre-seed）的 CVC 通常要求创始团队有成功记录，"这恰恰不是[[University Spin-Out\|大学衍生企业]]的典型特征"(pp.145-146)
 > - 衍生企业的[[Technology Readiness Level\|技术就绪度]]（TRL）通常不足以满足企业试点项目的要求，形成了"需要试点来获得投资、需要投资来达到能试点的水平"的困局(p.145)
 

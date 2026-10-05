@@ -10,9 +10,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: "White House Office of Management and Budget (OMB)"
 tags:
@@ -21,6 +21,7 @@ tags:
   - "policy/research-funding"
   - "theme/university-industry-collaboration"
 related_concepts:
+  - "[[Sponsored Research Agreement]]"
   - "[[University-Industry Collaboration]]"
   - "[[Clinical Trial]]"
   - "[[Fair Market Value]]"
@@ -34,7 +35,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-06-04
-updated: 2026-09-07
+updated: 2026-10-06
 ---
 
 # OMB Uniform Guidance for Federal Awards
@@ -61,7 +62,7 @@ updated: 2026-09-07
 > 行政间接成本 26% 的上限意味着大学在制度设计上就被要求补贴研究项目——因为实际行政成本可能超过这一上限，而大学无法向联邦赞助方收取超出部分。此外，由于预算必须显示雇员实际工资而非按小时打包计费，企业在查看大学研究预算时常常感到不习惯——企业内部的研发成本核算通常不公开雇员工资，而是使用打包费率（fully loaded rates）（p.264）。
 
 > [!note]-
-> 在这种会计框架下，大学很少按小时构建研究预算，也几乎不使用完全打包时薪——尽管在产业赞助研究中这样做是允许的。此外，大学通常不在审计成本之上加收利润，进一步强化了其非营利的运作逻辑（pp.263–264）。
+> 在这种会计框架下，大学很少按小时构建研究预算，也几乎不使用完全打包时薪——尽管在[[Sponsored Research Agreement|产业赞助研究]]中这样做是允许的。此外，大学通常不在审计成本之上加收利润，进一步强化了其非营利的运作逻辑（pp.263–264）。
 
 ## 在产学合作中的角色
 

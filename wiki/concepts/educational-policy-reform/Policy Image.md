@@ -7,7 +7,7 @@ aliases:
 summary: "断裂平衡理论（PET）的核心分析概念，指特定政策议题在公众和政治精英心目中的符号化表征、价值框架与社会建构；它由实证信息、核心价值与情感修辞共同编织而成，决定了政策被认知为中立的专业自治还是急需政府介入的治理危机，是政策企业家瓦解既有政策垄断的关键话语杠杆。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Screening Off]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Industry Affiliate Program]]"
   - "[[Constructivist Paradigm]]"
   - "[[Document]]"
 related_theories:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-10-06
 ---
 
 # Policy Image
@@ -127,7 +128,7 @@ updated: 2026-09-26
 
 > [!dev-timeline] 概念演变
 > - **1993年 — 鲍姆加特纳与琼斯创立概念** 在《美国政治中的议程与不稳定性》中确立政策形象与制度场所并行的双轨动力学，分析烟草、核能与杀虫剂政策变迁。
-> - **2000年代 — 跨国比较议程项目（CAP）深化** 学界将政策形象[[Coding in Qualitative Research|编码]]技术应用于欧洲多国议会与媒体报道的大规模文本挖掘，量化证实形象的情感极性翻转是导致法案间断突变的先导指标。
+> - **2000年代 — 跨国比较议程项目（[[Industry Affiliate Program|CAP]]）深化** 学界将政策形象[[Coding in Qualitative Research|编码]]技术应用于欧洲多国议会与媒体报道的大规模文本挖掘，量化证实形象的情感极性翻转是导致法案间断突变的先导指标。
 > - **2013年 — 教育治理与证据利用生命周期扩展** 麦克唐纳与韦瑟福德将政策形象应用于跨州教育政策研究，展示了[[Policy Entrepreneur|政策企业家]]如何借助跨国测评实证数据战略性重构政策形象以推动国家级改革。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–11)]]
 
 ---

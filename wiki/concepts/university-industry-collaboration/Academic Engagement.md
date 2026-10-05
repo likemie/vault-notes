@@ -57,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-02
+updated: 2026-10-06
 ---
 
 # Academic Engagement
@@ -139,7 +139,7 @@ updated: 2026-10-02
 ### 定义
 
 > [!info]
-> 在[[University-Industry Collaboration\|产学合作]]研究脉络中，"Academic Engagement"指的是**学术研究者（教师/研究人员）以个人或团队身份与企业进行的知识性合作活动**。具体包括：产业赞助研究（industry-[[Sponsored Research Agreement\|sponsored research]]）、联合研究、学术咨询（consulting）、联合发表、学术会议交流、学生联合培养（实习、[[Cooperative Education\|合作教育]]）等（Perkmann et al., 2013, pp.423–424，转引自 Boccanfuso & Hall, 2025b, p.53）。
+> 在[[University-Industry Collaboration\|产学合作]]研究脉络中，"Academic Engagement"指的是**学术研究者（教师/研究人员）以个人或团队身份与企业进行的知识性合作活动**。具体包括：[[Sponsored Research Agreement|产业赞助研究]]（industry-[[Sponsored Research Agreement\|sponsored research]]）、联合研究、学术咨询（consulting）、联合发表、学术会议交流、学生联合培养（实习、[[Cooperative Education\|合作教育]]）等（Perkmann et al., 2013, pp.423–424，转引自 Boccanfuso & Hall, 2025b, p.53）。
 
 这一概念由 Perkmann et al.（2013）在对产学合作[[Document|文献]]的[[Systematic Review|系统综述]]中明确界定，与同一文献中的 "commercialization"（商业化）构成产学合作的两种基本类型。
 

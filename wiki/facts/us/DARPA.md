@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 51
+fact_related_count: 58
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -31,11 +31,11 @@ related_concepts:
   - "[[Broad Agency Announcement]]"
   - "[[Embedded Network Governance]]"
   - "[[Technology Transfer Office]]"
+  - "[[Paradigm]]"
   - "[[Seed Funding]]"
   - "[[Brainstorming]]"
   - "[[Flow]]"
   - "[[Vertical Disintegration]]"
-  - "[[Paradigm]]"
   - "[[General Purpose Technology]]"
   - "[[Fourth Industrial Revolution]]"
   - "[[Agile Governance]]"
@@ -46,6 +46,8 @@ related_concepts:
   - "[[Precompetitive Research]]"
   - "[[Valley of Death]]"
   - "[[Network Governance]]"
+  - "[[Corporate R&D Labs]]"
+  - "[[Public-Private Partnership in Research]]"
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Technological Trajectories]]"
@@ -71,11 +73,15 @@ related_facts:
   - "[[VLSI Project]]"
   - "[[MOSIS]]"
   - "[[Sematech]]"
+  - "[[CHIPS and Science Act]]"
+  - "[[National Science and Technology Council]]"
+  - "[[Information Science and Technology Study Group]]"
   - "[[Department of Energy]]"
   - "[[National Science Foundation]]"
   - "[[Office of Naval Research]]"
   - "[[ESPRIT]]"
   - "[[National Institutes of Health]]"
+  - "[[Universal Parallel Computing Research Centers]]"
 related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
@@ -83,10 +89,11 @@ related_arguments:
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
   - "[[Argument_Fuchs_2010_RP]]"
   - "[[Argument_Grindley_1994_JPAM]]"
+  - "[[Argument_Ramming_2025_CorporateSupport]]"
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # DARPA
@@ -114,7 +121,7 @@ updated: 2026-10-05
 > - **1980s — 战略计算倡议、[[VLSI Project|VLSI]] 设计革命与半导体危机应对** 面对日本半导体制造业的激烈竞争，发起战略计算倡议（Strategic Computing Initiative, SCI）；资助超大规模集成电路（Very Large Scale Integration, VLSI）结构化设计方法论革命并创立[[MOSIS|金属氧化物半导体实现服务]]（MOSIS）硅代工原型试验平台；资助加州大学伯克利分校与斯坦福大学开发精简指令集计算机（Reduced Instruction Set Computer, RISC）微处理器架构；在 1980–1989 年间资助 9 亿美元实施全额行政主导的甚高速集成电路（Very High Speed Integrated Circuits, VHSIC）计划；1987 年联合 14 家芯片制造巨头共同创立[[Sematech|半导体制造技术战略联盟]]（SEMATECH），每年提供 1 亿美元对等匹配资助（占 50%），推动公私协同与前竞争共性技术攻坚；全力推进全球卫星定位系统（Global Positioning System, GPS）的军民部署。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 180–183)]]; [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–730)]]
 > - **1990s — 冷战后军民两用转型与微系统基础探索** 在加里·登曼（Gary Denman）、拉里·林恩（Larry Lynn）与弗兰克·费尔南德斯（Frank Fernandez）领导下，DARPA 重点转向军民两用（Dual-use）技术开发与跨学科基础探索；微系统技术办公室（MTO，前身为电子技术办公室 ETO）依托开放广泛领域公告（Broad Area Announcement, [[Broad Agency Announcement|BAA]]），前瞻性资助硅锗（Silicon-Germanium, SiGe）异质结双极晶体管与应变硅材料研发，突破硅基物理极限，为后摩尔时代微处理器奠定核心工艺基石。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138)]]
 > - **2000s — [[Tony Tether|托尼·瑟瑟]]采办改革、“弥合鸿沟”与体系级系统集成** 2001 年托尼·瑟瑟（Tony Tether）出任局长，确立“弥合鸿沟”（Bridging the Gap）施政纲领，推行采办机制的激进变革；资助重心由大学转向工业界传统国防巨头（Prime Contractors），引入 12–16 个月硬性里程碑审查（Go/No-Go）与涉密限制；微观层面项目经理继续运用[[Embedded Network Governance|嵌入型网络治理]]攻克 3D 封装与超高性能片内纳米光子通信（UNIC）芯片互连；同期资助敏捷感知认知系统（CALO 项目，孵化出 Siri）并在 2004 与 2005 年举办两届无人车大挑战赛（DARPA Grand Challenge）。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138, 1142–1144)]]
-> - **2010s–至今 — 生物技术拓展与多域分布式协同作战** 设立生物技术办公室（Biological Technologies Office, BTO），在新冠疫情暴发前数年即通过 ADEPT 计划前瞻资助莫德纳（Moderna）等团队研发 mRNA 疫苗平台与核酸药物递送技术；在空战领域推行“小妖精”（Gremlins）低成本无人机群空中回收验证，展示了从[[Big Science|大科学]]狮子形态向多域敏捷分布式网络的演进。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 807)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
+> - **2010s–至今 — 生物技术拓展、多域分布式协同与公私伙伴关系深化** 设立生物技术办公室（Biological Technologies Office, BTO），在新冠疫情暴发前数年即通过 ADEPT 计划前瞻资助莫德纳（Moderna）等团队研发 mRNA 疫苗平台与核酸药物递送技术；在空战领域推行“小妖精”（Gremlins）低成本无人机群空中回收验证；面对全球科技与地缘竞争，其早期前竞争技术培育模式进一步为《[[CHIPS and Science Act|芯片与科学法案]]》支持的国家半导体技术中心（[[National Science and Technology Council|NSTC]]）及国家科学基金会技术、创新与伙伴关系（TIP）理事会等新型公私协同体制提供关键原型。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 807)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–238)]]
 
 ---
 
@@ -124,6 +131,7 @@ updated: 2026-10-05
 > - **局长办公室（Director's Office）** 实行极度扁平化架构，仅设局长与副局长，直接对国防部主管科技副部长负责，最大程度排除官僚中间层干扰。
 > - **技术办公室矩阵（6 大核心业务处）** 包含微系统技术处（MTO）、信息创新处（I2O）、战术技术处（[[Technology Transfer Office|TTO]]）、战略技术处（STO）、生物技术处（BTO）以及国防科学处（DSO）。
 > - **项目经理（Program Managers, PMs）核心制** 全局常设 100 至 120 名拥有深厚学术与工业界洞察的项目经理，推行 3 至 5 年的硬性短期任期轮换制，保持机构内部思维的高频迭代与求知饥渴感。
+> - **前瞻科技智囊网络（[[Information Science and Technology Study Group|ISAT]] 研究小组）** 设立由顶尖学者与产业界研发领袖组成的信息科学与技术研究小组（Information Science and Technology Study Group, ISAT）等常设学术顾问网络（如克里斯·拉明等专家长期担任顾问），充当机构感知前沿技术[[Paradigm|范式]]转移的外部雷达，协助项目经理跨越组织壁垒研判下一代颠覆性计划。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 239)]]
 > - **外包执行与网络节点定位** 本身不设任何下属实体实验室或测试车间，全部研发任务通过契约合同直接发包给全美顶尖大学、国家实验室、初创企业与工业巨头。
 
 > [!contrast-table] 1990 年代与 2000 年代[[Tony Tether|托尼·瑟瑟]]任期采办与管理机制对比（[[Argument_Fuchs_2010_RP|Fuchs, 2010, p. 1137]]）
@@ -265,3 +273,4 @@ updated: 2026-10-05
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 将 DARPA 提炼为“去中心化探索型公共组织”的典范，系统论证其在网络构建、风险投资组合管理与主动创造市场方面的治理机制与启示。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 基于对 DARPA 微系统技术办公室（MTO）在 1992–2008 年间 4 项半导体关键材料技术（SiGe、应变硅、3D封装、集成光子学）资助的长程扎根[[Case Study|案例研究]]，揭示项目经理通过非正式制度重塑研发者社会网络以引导国家[[Technological Trajectories|技术轨道]]，提出[[Embedded Network Governance|嵌入型网络治理]]新[[Paradigm|范式]]并化解学术界关于[[Tony Tether|托尼·瑟瑟]]改革导致“DARPA之死”的论争。
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 深入考察 DARPA 在对等资助 [[Sematech]] 中的催化角色，对比全额资助的 VHSIC 计划，提炼出由产业主导议程、政府提供对等资金的高技术公私研发联盟治理准则。
+> - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 结合在 DARPA、英特尔与威睿领导前沿研发合作的实践经验，阐明 DARPA 式前瞻探索与[[Corporate R&D Labs|企业研发实验室]]、[[Public-Private Partnership in Research|公私合作伙伴关系]]（如 [[Universal Parallel Computing Research Centers|UPCRC]] 与 [[National Science and Technology Council|NSTC]]）在应对产业战略技术转折点时的演进衔接。

@@ -7,9 +7,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#ede9fe"
 issuing_organization: "National Institute of Standards and Technology (NIST), U.S. Department of Commerce"
 tags:
@@ -20,6 +20,7 @@ tags:
   - level/higher-education
 related_concepts:
   - "[[Return on Investment]]"
+  - "[[Industry Affiliate Program]]"
   - "[[Technology Transfer]]"
 related_theories: []
 related_methods: []
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-10-06
 ---
 
 # ROI Initiative for Unleashing American Innovation
@@ -40,7 +41,7 @@ updated: 2026-06-10
 ## 背景
 
 > [!info]
-> 美国联邦政府每年约 1,500 亿美元的研发投资需要更有效地转化和扩散，以贡献于美国的经济活力、竞争力和国家安全。[[Return on Investment\|ROI]] Initiative 由国家标准与技术研究所代表商务部领导，作为 Lab-to-Market Cross Agency Priority (CAP) Goal 的一部分，致力于"最大化联邦科技投资向美国价值的转化"。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 6-7)]]
+> 美国联邦政府每年约 1,500 亿美元的研发投资需要更有效地转化和扩散，以贡献于美国的经济活力、竞争力和国家安全。[[Return on Investment\|ROI]] Initiative 由国家标准与技术研究所代表商务部领导，作为 Lab-to-Market Cross Agency Priority ([[Industry Affiliate Program|CAP]]) Goal 的一部分，致力于"最大化联邦科技投资向美国价值的转化"。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 6-7)]]
 
 ---
 ## 政策文本摘要

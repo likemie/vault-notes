@@ -2,12 +2,11 @@
 title: Product-Specific Research
 aliases:
   - "产品专项研究"
-  - "product-specific research"
   - "产品专项"
 summary: "产学联合体中由单个成员独立出资、建立在所有成员共享的前竞争知识之上但涉及企业专有信息的研究项目，前景知识产权归赞助企业所有，构成联合体的技术转化工具"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +20,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Assemblage]]"
+  - "[[Industry Affiliate Program]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-09-18
+updated: 2026-10-06
 ---
 
 # Product-Specific Research in University-Industry Consortia
@@ -75,7 +75,7 @@ updated: 2026-09-18
 
 > [!example]
 > - vs [[Precompetitive Research\|前竞争研究]] — 前竞争研究的 IP 归大学，所有成员平等免版税使用；产品专项研究的 IP 归赞助企业。前竞争研究解决多个成员共同面临的技术障碍（如硬金属的基础加工参数）；产品专项研究让单个成员建立差异化优势（如针对特定产品的优化加工方案）。两者不是"哪个更好"的关系，而是联合体制度设计中需要同时存在的互补层
-> - vs 企业联盟计划中的专项后续研究 — CAP 中也有类似机制：先用会费池做探索性研究，有前景的方向再由个别企业出资做专项后续研究。区别在于，CAP 的专项研究是企业从会费资助项目中"挑走"一个项目做进一步开发，联合体中的产品专项研究是企业从前竞争知识池中主动"调取"基础知识并注入自己的专有信息。前者是被动选择（从已有项目中挑），后者是主动构建（基于共享知识从头设计自己的项目）
+> - vs 企业联盟计划中的专项后续研究 — [[Industry Affiliate Program|CAP]] 中也有类似机制：先用会费池做探索性研究，有前景的方向再由个别企业出资做专项后续研究。区别在于，CAP 的专项研究是企业从会费资助项目中"挑走"一个项目做进一步开发，联合体中的产品专项研究是企业从前竞争知识池中主动"调取"基础知识并注入自己的专有信息。前者是被动选择（从已有项目中挑），后者是主动构建（基于共享知识从头设计自己的项目）
 
 ---
 

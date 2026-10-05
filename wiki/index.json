@@ -12365,7 +12365,9 @@
       "industry affiliate",
       "industry membership program",
       "产业合作伙伴计划",
-      "产业联盟项目"
+      "产业联盟项目",
+      "Corporate Affiliate Program",
+      "CAP"
     ]
   },
   {
@@ -12719,7 +12721,6 @@
     "path": "wiki/concepts/university-industry-collaboration/Product-Specific Research.md",
     "aliases": [
       "产品专项研究",
-      "product-specific research",
       "产品专项"
     ]
   },
@@ -12910,8 +12911,8 @@
       "SRA",
       "赞助研究协议",
       "sponsored research",
-      "sponsored research agreement",
-      "委托研究协议"
+      "委托研究协议",
+      "产业赞助研究"
     ]
   },
   {
@@ -28653,16 +28654,6 @@
     ]
   },
   {
-    "title": "Universal Parallel Computing Research Centers",
-    "type": "fact",
-    "path": "wiki/facts/us/Universal Parallel Computing Research Centers.md",
-    "aliases": [
-      "通用并行计算研究中心",
-      "UPCRC",
-      "Intel Microsoft UPCRC"
-    ]
-  },
-  {
     "title": "University Inc",
     "type": "fact",
     "path": "wiki/facts/us/University Inc.md",
@@ -28671,16 +28662,6 @@
       "University, Inc.",
       "大学公司化批判",
       "Washburn 大学公司化"
-    ]
-  },
-  {
-    "title": "University Industry Demonstration Partnership",
-    "type": "fact",
-    "path": "wiki/facts/us/University Industry Demonstration Partnership.md",
-    "aliases": [
-      "UIDP",
-      "大学产业示范伙伴关系",
-      "产学示范伙伴"
     ]
   },
   {
@@ -29375,6 +29356,16 @@
     "aliases": [
       "大学城科学中心",
       "费城大学城科学中心"
+    ]
+  },
+  {
+    "title": "University Industry Demonstration Partnership",
+    "type": "fact",
+    "path": "wiki/facts/us/University Industry Demonstration Partnership.md",
+    "aliases": [
+      "UIDP",
+      "大学产业示范伙伴关系",
+      "产学示范伙伴"
     ]
   },
   {
@@ -30491,6 +30482,16 @@
       "助教辅助数学应用题辅导",
       "Tutor-Assisted Mathematical Problem Solving",
       "TAMPS"
+    ]
+  },
+  {
+    "title": "Universal Parallel Computing Research Centers",
+    "type": "fact",
+    "path": "wiki/facts/us/Universal Parallel Computing Research Centers.md",
+    "aliases": [
+      "通用并行计算研究中心",
+      "UPCRC",
+      "Intel Microsoft UPCRC"
     ]
   },
   {

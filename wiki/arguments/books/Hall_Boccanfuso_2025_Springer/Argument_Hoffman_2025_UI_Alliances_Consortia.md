@@ -52,7 +52,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-28
-updated: 2026-07-13
+updated: 2026-10-06
 subtype: book-chapter
 publication_type: book
 title: "Argument_Hoffman_2025_UI_Alliances_Consortia"
@@ -280,7 +280,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success]
-> - 产学联盟与联合体的组织化程度构成一个从轻量到重度的光谱：[[Industry Advisory Board\|IAB]]（纯对话，无资金，无协议）→ CAP（会员费，投票决定研究，捐赠型或合同型）→ [[University-Based Research Center\|大学研究型中心]]（大学设定方向，政府共同资助，优先许可）→ [[Innovation Hub\|创新中心]]（多方大规模投资，治理结构，区域经济目标）(pp.108–113)
+> - 产学联盟与联合体的组织化程度构成一个从轻量到重度的光谱：[[Industry Advisory Board\|IAB]]（纯对话，无资金，无协议）→ [[Industry Affiliate Program|CAP]]（会员费，投票决定研究，捐赠型或合同型）→ [[University-Based Research Center\|大学研究型中心]]（大学设定方向，政府共同资助，优先许可）→ [[Innovation Hub\|创新中心]]（多方大规模投资，治理结构，区域经济目标）(pp.108–113)
 > - 三种基础设施性要素贯穿所有四种模式：价值主张必须从企业角度"电梯演讲"长度讲清楚、[[Boundary Spanner\|关系经理]]必须有人对关系的存活负责、[[Master Agreement\|主协议]]覆盖 IP-赔偿-治理的完整法律框架并保持长期稳定(pp.105–108)
 > - [[Advanced Manufacturing Research Centre\|AMRC]] 验证的最关键原则是**找到产业的共同痛点**——联合体的技术主题应当扎根于多公司正在独立烧钱试图解决的共同问题，而非大学自身的强项。技术焦点要窄到足以让有限投资产生可见成果，但不能窄到只吸引一个行业细分(pp.113–117)
 > - AMRC 的两层 IP 模型实现了"竞争对手合作"的制度条件：[[Precompetitive Research\|前竞争研究]] IP 归大学、所有成员免版税平等使用；[[Product-Specific Research\|产品专项研究]] IP 归赞助企业。两条轨道互补——前竞争轨道创造共享知识池，产品专项轨道构建个体竞争优势(pp.114–115, 117–118)

@@ -29,12 +29,12 @@ related_concepts:
   - "[[Professors of Practice]]"
   - "[[Cooperative Education]]"
   - "[[Executive Education]]"
+  - "[[Sponsored Research Agreement]]"
   - "[[Joint Faculty Appointments]]"
   - "[[Clinical Trial]]"
   - "[[Innovation Park]]"
   - "[[Grandes Ecoles]]"
   - "[[Technology Transfer Office]]"
-  - "[[Sponsored Research Agreement]]"
   - "[[Concierge Service]]"
   - "[[Boundary Spanner]]"
   - "[[Research Universities]]"
@@ -65,7 +65,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-27
-updated: 2026-07-08
+updated: 2026-10-06
 subtype: book-chapter
 publication_type: book
 title: "Argument_Boccanfuso_Hall_2025_OrgStrategy"
@@ -157,7 +157,7 @@ citation_aliases:
 底层是五个使命领域中的具体活动——这些是产学合作日常运作的"触达点"：
 
 - **教育** 产业从业者作为兼职讲师或[[Professors of Practice|实践教授]]授课、产业参与课程设计、实习与[[Cooperative Education|合作教育]]（co-ops）、面向产业员工的[[Executive Education|高管教育]]、在线项目、产业导向的学生社团
-- **研究** 产业赞助研究、联合体与联盟、联合聘用（[[Joint Faculty Appointments|joint appointments]]）、设施与数据共享、联合争取政府资助
+- **研究** [[Sponsored Research Agreement|产业赞助研究]]、联合体与联盟、联合聘用（[[Joint Faculty Appointments|joint appointments]]）、设施与数据共享、联合争取政府资助
 - **临床** 产业赞助[[Clinical Trial|临床试验]]、诊所与医院整合、临床创新项目——仅适用于有学术医疗中心的大学
 - **辅助/行政** 战略采购、联合产品开发、会议设施使用——这些不直接涉及学术，但涉及可观的产业合作
 - **经济/社区发展** 孵化器、[[Innovation Park|创新园区]]、技术许可、初创企业投资、小企业技术支持、标准制定
