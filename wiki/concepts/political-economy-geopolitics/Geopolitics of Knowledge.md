@@ -6,7 +6,7 @@ aliases:
 summary: "围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 79
+related_count: 80
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -89,6 +89,7 @@ related_facts:
   - "[[US-China Economic and Security Review Commission]]"
   - "[[Thousand Talents Program]]"
   - "[[China Social Credit System]]"
+  - "[[Made in China 2025]]"
   - "[[Minerva University]]"
   - "[[University Industry Innovation Network]]"
   - "[[Horizon Europe Missions]]"
@@ -104,7 +105,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Geopolitics of Knowledge
@@ -427,7 +428,7 @@ updated: 2026-10-03
 > - [[US-China Economic and Security Review Commission\|美中经济与安全审查委员会]] — 系统监控中美教育与研究合作中的"国家安全风险"，年度报告直接影响美国对华教育政策（[[Argument_Partaken_2022_Springer\|Partaken, 2022, pp.67–68]]）
 > - [[Thousand Talents Program\|千人计划]] — 被美方视为制度化知识盗窃机制；美方以经济间谍罪起诉多名参与学者，导致两国学术合作急剧冷却（[[Argument_Partaken_2022_Springer\|Partaken, 2022, p.84]]）
 > - [[China Social Credit System\|中国社会信用体系]] — GPK 监视模态的制度典范：公民知识行为被系统性暴露给国家，国家的监控活动对公民隐藏（[[Argument_Partaken_2022_Springer\|Partaken, 2022, p.81]]）
-> - Made in China 2025 — 对 AI、量子计算、半导体注入专项资金，直接重塑大学研究优先级，体现国家赞助机制决定"有价值的知识"（[[Argument_Partaken_2022_Springer\|Partaken, 2022, pp.71, 74–75]]）
+> - [[Made in China 2025]] — 对 AI、量子计算、半导体注入专项资金，直接重塑大学研究优先级，体现国家赞助机制决定"有价值的知识"（[[Argument_Partaken_2022_Springer\|Partaken, 2022, pp.71, 74–75]]）
 
 > [!evidence-grid-b] 制度-政策案例
 > - [[Horizon 2020 SSH Integration]] — 取消 SSH 独立资助渠道，横向嵌入并要求"直接为政策制定的证据基础做贡献"——[[Epistemology\|认识论]]治理的典型案例（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.42]]）

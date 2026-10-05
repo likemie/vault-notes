@@ -9,7 +9,7 @@ summary: "美国当代著名混合方法与质性研究方法论学者，系统�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 48
+person_related_count: 47
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -69,7 +69,6 @@ related_persons:
 related_facts:
   - "[[Mixed Methods International Research Association]]"
   - "[[National Institutes of Health]]"
-  - "[[Semi-Automatic Ground Environment]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
@@ -78,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # John W. Creswell
@@ -117,7 +116,7 @@ updated: 2026-10-03
 > - **1978–2015** 长期执教于内布拉斯加大学林肯分校（UNL）教育心理学系，创立内布拉斯加[[Mixed Methods Research\|混合方法研究]]办公室，因卓越贡献被授予 Clifton 讲座教授荣誉。
 > - **1994** 出版划时代教材《研究设计：定性、定量与混合方法路径》（*Research Design: Qualitative, Quantitative, and Mixed Methods Approaches*，[[Sage]] 出版社），开创性地将世界观、设计类型与具体方法构筑为三维互动机理，全球累计发行数百万册并迭代至第六版。
 > - **1998** 出版《质性探究与研究设计：在五种路径中选择》（*Qualitative Inquiry and Research Design*），确立叙事、[[Phenomenology\|现象学]]、[[Grounded Theory\|扎根理论]]、[[Ethnography\|民族志]]与[[Case Study\|案例研究]]五分法，荣获美国教科书与学术作者协会 McGuffey 终身长青奖。
-> - **2007** 与塔沙克里（Abbas Tashakkori）共同创立 [[Semi-Automatic Ground Environment|SAGE]] 旗下专业顶级学术刊物《混合方法研究期刊》（*Journal of Mixed Methods Research*, JMMR）并担任创刊主编，推动混合方法成为公认的独立学科领域。
+> - **2007** 与塔沙克里（Abbas Tashakkori）共同创立 SAGE 旗下专业顶级学术刊物《混合方法研究期刊》（*Journal of Mixed Methods Research*, JMMR）并担任创刊主编，推动混合方法成为公认的独立学科领域。
 > - **2011** 受[[National Institutes of Health|美国国立卫生研究院]]（NIH）行为与社会科学研究办公室（OBSSR）委托，共同主持跨学科专家工作组，执笔发布《健康科学中混合方法研究最佳实践指南》。
 > - **2014** 创立[[Mixed Methods International Research Association\|混合方法国际研究协会]]（MMIRA）并当选为创会主席；同年受聘为哈佛大学公共卫生学院客座教授。
 > - **2015 至今** 加盟密歇根大学医学院家庭医学系，联合领导密歇根混合方法项目（MMMP），大力推广混合方法在[[Clinical Trial\|临床试验]]、健康公平与实施科学中的落地应用；2017 年参与撰写美国心理学会（[[APA Style\|APA]]）混合方法与[[Qualitative Research\|质性研究]]报告标准。

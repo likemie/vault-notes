@@ -54,6 +54,7 @@ related_facts:
   - "[[Office of Naval Research]]"
   - "[[DARPA]]"
   - "[[MOSIS]]"
+  - "[[VLSI Project]]"
 related_arguments: []
 sources:
   - "[[sources/Mowery_2011_NBER/Mowery_2011_NBER|Mowery_2011_NBER]]"
@@ -67,7 +68,7 @@ title: "Argument_Mowery_2011_NBER"
 argument_key: "Argument_Mowery_2011_NBER"
 argument_display_title: "Federal policy and the development of semiconductors, computer hardware, and computer software: A policy model for climate change R&D? In R"
 argument_kind: "report"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -306,7 +307,7 @@ issuing_organization: "National Bureau of Economic Research"
 联邦资金不仅采购设备，更直接构建了大学的基础研发与人才培养网络。（pp.183–184）
 
 > [!feature] 大学计算机科学学科建制化的联邦推手
-> - **设备与研发基础设施托底** 1960 年代美国大学计算机设备购置经费的 66% 直接来自联邦政府（大学自筹 34%，厂商资助 16%）。[[Office of Naval Research|海军研究办公室]]（Office of Naval Research, ONR）、[[National Science Foundation|NSF]] 与 [[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）长期承担了全美高校计算机科学基础研究的主要预算，并通过设立 [[MOSIS]] 芯片原型流片服务平台 支持大学开展超大规模集成电路（VLSI）与精简指令集（RISC）微处理器设计实训。（pp.176, 183）
+> - **设备与研发基础设施托底** 1960 年代美国大学计算机设备购置经费的 66% 直接来自联邦政府（大学自筹 34%，厂商资助 16%）。[[Office of Naval Research|海军研究办公室]]（Office of Naval Research, ONR）、[[National Science Foundation|NSF]] 与 [[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）长期承担了全美高校计算机科学基础研究的主要预算，并通过设立 [[MOSIS]] 芯片原型流片服务平台 支持大学开展超大规模集成电路（[[VLSI Project|VLSI]]）与精简指令集（RISC）微处理器设计实训。（pp.176, 183）
 > - **博士点与专业人才爆发式扩张** 授予计算机科学博士学位的高校系所从 1960 年的几乎为零，迅猛增加至 1970 年的 42 所、1980 年的 85 所及 1990 年代的逾 150 所，为全美软件与半导体产业输送了庞大的高素质科学家与工程师队伍。（pp.183–184）
 
 #### 2. 用户端共同发明与大规模应用部署推动通用技术演进

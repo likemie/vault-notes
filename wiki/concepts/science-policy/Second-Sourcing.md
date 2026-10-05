@@ -9,7 +9,7 @@ aliases:
 summary: "冷战时期美国国防部在半导体与集成电路采购中强制推行的制度性采购规程，要求中标主承包商必须向竞争对手交叉许可全部专利与制造工艺诀窍以保障供应链安全；该需求侧政策在客观上打破了技术垄断壁垒，加速了默会工艺知识的跨企业流动，奠定了战后硅谷去中心化、高竞争性的微电子产业生态"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Innovation Ecosystem]]"
   - "[[Variable]]"
+  - "[[Emergence]]"
 related_theories:
   - "[[Technological Trajectories]]"
   - "[[Evolutionary Economics]]"
@@ -41,10 +42,11 @@ related_facts:
   - "[[CHIPS and Science Act]]"
 related_arguments:
   - "[[Argument_Mowery_2011_NBER]]"
+  - "[[Argument_Fabrizio_Mowery_2005_REI]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # Second-Sourcing
@@ -179,3 +181,4 @@ updated: 2026-10-04
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 深度剖析美国国防部第二货源采购机制如何与 1956 年反垄断同意令协同运作，打破半导体专有壁垒并奠定硅谷去中心化竞争生态。
+> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 阐明美国国防部在半导体采购中强制推行第二货源条款，要求供应商之间互通设计与工艺知识以避免断供，从而直接加速新创企业[[Emergence|涌现]]并激发激烈的企业间技术竞争。

@@ -72,7 +72,7 @@ updated: 2026-10-03
 >   2. **顶尖青年人才集聚于大学校** 最聪慧的学生与师资被大学校（Grandes Écoles）吸纳，但大学校传统上以专业实务培训为主，缺乏大规模基础研究实验室；
 >   3. **综合性大学沦为平民大众教学机构** 普通综合公立大学实行免试入学，生源庞大且经费严重短缺，既无法留住拔尖精英生源，又缺乏足够的科研基础设施，形成严重的科教分立与社会阶层固化。
 > - **制度移植的结构性困境**
->   当法国试图模仿[[Research Universities|美国研究型大学]]将基础前沿科研与博士生培养深度统合于大学实验室时，遭遇到强大的制度路径依赖与大学校既得利益集团的顽固阻力，导致其在[[Academic Ranking of World Universities|世界大学学术排名]]等以大学机构为统计单位的全球指标中长期处于劣势。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
+>   当法国试图模仿美国[[Research Universities|研究型大学]]将基础前沿科研与博士生培养深度统合于大学实验室时，遭遇到强大的制度路径依赖与大学校既得利益集团的顽固阻力，导致其在[[Academic Ranking of World Universities|世界大学学术排名]]等以大学机构为统计单位的全球指标中长期处于劣势。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
 
 ---
 
@@ -81,7 +81,7 @@ updated: 2026-10-03
 ### 1. 结构性分离阻断了前沿科学研究向精英青年教学的正向溢出
 
 > [!claim] 教学与研究在制度层面的物理隔绝
-> 在[[Research Universities|美国研究型大学]]体系中，顶级诺贝尔奖级学者直接承担本科与研究生教学，前沿科研成果能够无缝反哺高层次人才培养；而在法国，由于 [[CNRS]] 专职研究员无常规教学硬性考核，而大学校教员主要侧重职业[[Disciplina and Doctrina|规训]]，导致法国最优质的学术人才与最前沿的实验室产生了物理阻隔，削弱了国家[[Innovation Ecosystem|创新生态系统]]的原生聚合力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
+> 在美国[[Research Universities|研究型大学]]体系中，顶级诺贝尔奖级学者直接承担本科与研究生教学，前沿科研成果能够无缝反哺高层次人才培养；而在法国，由于 [[CNRS]] 专职研究员无常规教学硬性考核，而大学校教员主要侧重职业[[Disciplina and Doctrina|规训]]，导致法国最优质的学术人才与最前沿的实验室产生了物理阻隔，削弱了国家[[Innovation Ecosystem|创新生态系统]]的原生聚合力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
 
 ---
 

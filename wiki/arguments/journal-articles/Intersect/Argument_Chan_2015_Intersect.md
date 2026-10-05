@@ -28,6 +28,7 @@ related_concepts:
   - "[[Military-Industrial Black Hole]]"
   - "[[Ideological Capture of Science]]"
   - "[[Scientific Autarky]]"
+  - "[[Learning by Doing]]"
   - "[[Paradigm]]"
   - "[[Linear Model of Innovation]]"
   - "[[Technology Transfer]]"
@@ -60,7 +61,7 @@ title: "Argument_Chan_2015_Intersect"
 argument_key: "Argument_Chan_2015_Intersect"
 argument_display_title: "Fallen behind: Science, technology, and Soviet statism"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -210,7 +211,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 ### 论证步骤四：官僚逻辑、风险规避与创新负激励
 
 > [!line-a] 当计划指令遭遇技术创新的演化逻辑
-> 技术创新从本质上是一个演化过程：进步通过试错（trial-and-error）以跳跃方式推进，产生"加速回报"（accelerating returns）。Silicon Valley 的信条"更快失败、更常失败、更好地失败"（fail faster, fail often, fail better）概括了"做中学"（learning-by-doing）的创新逻辑：正向反馈回路使每一次迭代更有效，创造指数增长的潜力（Kurzweil, 2001, p.5）。特定的技术[[Paradigm\|范式]]、方法或路径驱动指数增长，直到该路径耗尽潜力，通过"范式转换"（paradigm shift）让位于新范式（Kuhn, 2012, p.5）。
+> 技术创新从本质上是一个演化过程：进步通过试错（trial-and-error）以跳跃方式推进，产生"加速回报"（accelerating returns）。Silicon Valley 的信条"更快失败、更常失败、更好地失败"（fail faster, fail often, fail better）概括了"做中学"（[[Learning by Doing|Learning-by-Doing]]）的创新逻辑：正向反馈回路使每一次迭代更有效，创造指数增长的潜力（Kurzweil, 2001, p.5）。特定的技术[[Paradigm\|范式]]、方法或路径驱动指数增长，直到该路径耗尽潜力，通过"范式转换"（paradigm shift）让位于新范式（Kuhn, 2012, p.5）。
 
 > [!line-a] 苏联的[[Linear Model of Innovation\|线性创新模型]]及其后果
 > 苏联对创新的想象在很多方面与这种演化—迭代过程截然对立。苏联用追求工业化的方式来追求创新，将创新框定在一个线性模型中：x 量的要素投入产生 c(x) 量的创新产出，其中 c 是一个正的常数。管理指令经济的同一套官僚逻辑被照搬到科技发展上，效果很大程度上是无效的（pp.5–6）。

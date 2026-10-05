@@ -37,9 +37,9 @@ related_persons:
 related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[National Science Foundation]]"
+  - "[[America COMPETES Act]]"
   - "[[Horizon Europe]]"
   - "[[Department of Energy]]"
-  - "[[America COMPETES Act]]"
   - "[[Made in China 2025]]"
 related_arguments: []
 sources:
@@ -71,7 +71,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 在大国科技竞争加剧以及中国科技实力快速追赶的背景下，美国长达十余年未有重大立法的联邦科技政策为何在 2022 年发生转向？这部长达千页的《[[CHIPS and Science Act|芯片与科学法案]]》如何打破过去四十年由市场主导的新自由主义传统，转而由政府直接挑选重点行业进行干预？这种政策转向能给[[Research Universities|美国研究型大学]]和理工科人才培养带来哪些实际经费与发展机会，又面临哪些落实难题？同时，美国、中国和欧洲在科技发展道路上分别呈现出怎样不同的战略思路？（pp. 9–10）
+> 在大国科技竞争加剧以及中国科技实力快速追赶的背景下，美国长达十余年未有重大立法的联邦科技政策为何在 2022 年发生转向？这部长达千页的《[[CHIPS and Science Act|芯片与科学法案]]》如何打破过去四十年由市场主导的新自由主义传统，转而由政府直接挑选重点行业进行干预？这种政策转向能给美国[[Research Universities|研究型大学]]和理工科人才培养带来哪些实际经费与发展机会，又面临哪些落实难题？同时，美国、中国和欧洲在科技发展道路上分别呈现出怎样不同的战略思路？（pp. 9–10）
 
 > [!claim] 核心主张
 > [[Steven Brint|史蒂文·布林特]]（Steven Brint）指出，2022 年美国通过的《[[CHIPS and Science Act|芯片与科学法案]]》标志着联邦政府正式打破长达四十年的新自由主义市场中立传统，首次以国家法律的形式确立了以应对中国科技竞争为直接目标的[[Modern Industrial Policy|现代产业政策]]。法案通过为半导体制造业提供巨额补贴、圈定前沿关键技术、大幅增加两大科研机构的预算，给美国高水平[[Research Universities|研究型大学]]与科学、技术、工程与数学（Science, Technology, Engineering, and Mathematics, [[STEM Education|STEM]]）教育带来重大利好。然而，美国立法程序中授权预算能否真正落实为国会实际拨付的资金存在巨大的制度落差；加之中国在工科毕业生规模和自上而下的科研动员上拥有显著优势，法案能否实现预期的竞争目标仍面临严峻考验。（pp. 9–10）
@@ -104,7 +104,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **立法文本与制度分析** | 细致研读千页规模的《[[CHIPS and Science Act\|芯片与科学法案]]》法条，对比众议院方案与参议院方案在政府干预程度上的争论与最终妥协结果。（pp. 9–10） |
-> | **历史经验与官方审计核查** | 追踪 2007 年与 2010 年《美国竞争法》的历史执行数据，引用美国政府问责局（Government Accountability Office, GAO）的审计结论检验拨款落实率。 |
+> | **历史经验与官方审计核查** | 追踪 2007 年与 2010 年《[[America COMPETES Act\|美国竞争法]]》的历史执行数据，引用美国政府问责局（Government Accountability Office, GAO）的审计结论检验拨款落实率。 |
 > | **国际科技战略比较分析** | 系统梳理美国、中国与欧盟在科研经费投入、体制动员特点、潜在治理难题及战略侧重点上的异同。（p. 10） |
 
 > [!sample-panel]- 样本与材料快照
@@ -157,7 +157,7 @@ issuing_organization: ""
 在法案出台前，美国联邦层面的科技立法陷入长期停滞，两党围绕政府是否应当直接干预科研方向展开了激烈的国会博弈。
 
 > [!policy-context] 《芯片与科学法案》出台的制度背景
-> - **立法背景** 自 2010 年《美国竞争法》再次通过后，美国在国家层面的重大科技立法停滞长达十余年。
+> - **立法背景** 自 2010 年《[[America COMPETES Act|美国竞争法]]》再次通过后，美国在国家层面的重大科技立法停滞长达十余年。
 > - **破局契机** 2022 年 8 月乔·拜登（Joseph R. Biden, Jr.）总统签署《芯片与科学法案》，正式打破政策停滞。（p. 9）
 > - **博弈核心** 国会参众两院就联邦政府干预科技发展的法定权力边界产生深刻分歧。
 > - **驱动力量** 对中国科技实力快速崛起与全球半导体产业链脆弱性的双重战略焦虑。（pp. 9–10）
@@ -249,7 +249,7 @@ issuing_organization: ""
 
 #### 1. 中国科研创新体系的发展动能与潜在制度制约
 
-布林特指出，国际社会不能低估中国在科技领域的巨大投入与追赶势头。（p. 10）
+[[Steven Brint|布林特]]指出，国际社会不能低估中国在科技领域的巨大投入与追赶势头。（p. 10）
 
 > [!evidence-grid] 中国科技实力快速崛起的实证证据（p. 10）
 > - **科学论文产出全球领先** 中国在科学论文发表总量上已超越美国，在学术引用均值与前 1% 高引论文比例上也与美国平分秋色。
@@ -303,7 +303,7 @@ issuing_organization: ""
 > - **810 亿美元** 为国家科学基金会授权的五年预算总额（首年拟增长 8%，五年拟新增 360 亿美元）。
 > - **305 亿美元** 能源部科学办公室五年内拟新增的授权预算额度。
 > - **2,000 $\to$ 3,000 名** 法案拟将国家研究生研究奖学金（GRFP）年度名额增加的幅度。
-> - **1 / 28** 历史审计发现 2007 与 2010 年《美国竞争法》中最终拿到全额拨款并落实的新项目比例。
+> - **1 / 28** 历史审计发现 2007 与 2010 年《[[America COMPETES Act|美国竞争法]]》中最终拿到全额拨款并落实的新项目比例。
 > - **4 倍** 中国高校在理工科（[[STEM Education|STEM]]）领域年度毕业生数量相比美国的倍率优势。
 > - **1000 亿欧元** 欧盟 2021–2027 年“[[Horizon Europe|地平线欧洲]]”科技发展计划的整体预算规模。
 
@@ -322,12 +322,12 @@ issuing_organization: ""
 > *Even so, the intent to counter China is clear. The leading Republican sponsor of the bill, Senator Todd Young of Indiana, said the bill would “put America in a position to outgrow, out-innovate, and out-compete our leading geopolitical foe.”*
 
 > [!citation-card] 授权与实际拨款脱节的历史现实
-> 目前尚不清楚新法律是否足以实现扬参议员的预测。在美国，资金授权往往最终无法变成真正拨付的美元。芯片资金似乎已成定局，但其他授权资金可能并非如此。例如，政府问责局对 2007 年《美国竞争法》及其 2010 年再授权法案的审查发现，这些措施中的 28 个新项目中只有 1 个获得了全额资助并得以实施。（p. 10）
+> 目前尚不清楚新法律是否足以实现扬参议员的预测。在美国，资金授权往往最终无法变成真正拨付的美元。芯片资金似乎已成定局，但其他授权资金可能并非如此。例如，政府问责局对 2007 年《[[America COMPETES Act|美国竞争法]]》及其 2010 年再授权法案的审查发现，这些措施中的 28 个新项目中只有 1 个获得了全额资助并得以实施。（p. 10）
 >
 > *It is not clear whether the new law will be sufficient to realize Young’s prediction. Authorizations for funding often do not end up as allocated dollars in the United States. Chips funding appears to be secure, but other authorizations may not be. A Government Accountability Office review of the 2007 America COMPETES bill and its 2010 reauthorization found, for example, that only one of 28 new programs in those measures was fully funded and implemented.*
 
 > [!citation-card] 中美科技政策在机制上的历史性倒置
-> 具有讽刺意味的是，中国最新的政策倡议《中国制造2025》采纳了许多传统上被视作美国优势的做法，包括先进工业生产的综合路径以及更多地利用市场机制——而正是在同一时刻，美国政策却开始通过圈定前沿技术并推动国家对其进行投资，来镜像仿效中国在过去数十年的做法。（p. 10）
+> 具有讽刺意味的是，中国最新的政策倡议《[[Made in China 2025|中国制造2025]]》采纳了许多传统上被视作美国优势的做法，包括先进工业生产的综合路径以及更多地利用市场机制——而正是在同一时刻，美国政策却开始通过圈定前沿技术并推动国家对其进行投资，来镜像仿效中国在过去数十年的做法。（p. 10）
 >
 > *Ironically, the most recent Chinese policy initiative, “Made in China 2025,” adopts many practices that have been regarded as traditional US strengths, including a comprehensive approach to advanced industrial production and greater use of market mechanisms—and it does so at precisely the same time that US policy is beginning to mirror Chinese practices from previous decades by identifying frontier technologies and promoting state investment in them.*
 

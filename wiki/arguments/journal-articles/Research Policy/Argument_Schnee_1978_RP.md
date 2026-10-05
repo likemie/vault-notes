@@ -21,13 +21,13 @@ tags:
   - technological-change
   - human-capital
 related_concepts:
+  - "[[Assured Demand]]"
   - "[[Learning Economy]]"
   - "[[Demonstration Effect]]"
   - "[[Market Shaping and Creating]]"
   - "[[Demand-side Innovation Policy]]"
-  - "[[Assured Demand]]"
-  - "[[Technological Conservatism in Mission Programs]]"
   - "[[Sage]]"
+  - "[[Technological Conservatism in Mission Programs]]"
   - "[[Document]]"
   - "[[Center of Calculation]]"
   - "[[Emergence]]"
@@ -50,11 +50,11 @@ related_facts:
   - "[[American Diploma Project]]"
   - "[[Brookings Institution]]"
   - "[[Fairchild Semiconductor]]"
-  - "[[Bell Labs]]"
   - "[[System Development Corporation]]"
+  - "[[Bell Labs]]"
 related_persons:
-  - "[[Jerome E. Schnee]]"
   - "[[John E. Tilton]]"
+  - "[[Jerome E. Schnee]]"
 sources:
   - "[[sources/Schnee_1978_RP/Schnee_1978_RP|Schnee_1978_RP]]"
 status: active
@@ -86,7 +86,7 @@ journal: "Research Policy"
 
 > [!concept-lens] 阅读透镜
 > - **对象** 1950 至 1970 年代美国半导体（晶体管、集成电路（Integrated Circuit, IC）、金属氧化物半导体（Metal-Oxide-Semiconductor, MOS）器件）与电子计算机（大型机、实时系统、数据处理服务）两大支柱产业。
-> - **张力** 传统观点倾向于将美国高技术领先地位单纯归因于私营企业的商业营销与市场竞争，忽视了国家公共大项目在技术早期承担的风险兜底与[[Market Shaping and Creating|市场创造]]功能；同时，公共项目管理者的[[Technological Conservatism in Mission Programs|技术保守要求]]与技术整体推进加速之间存在内在张力。
+> - **张力** 传统观点倾向于将美国高技术领先地位单纯归因于私营企业的商业营销与市场竞争，忽视了国家公共大项目在技术早期承担的风险兜底与[[Market Shaping and Creating|市场创造]]功能；同时，公共项目管理者的技术保守要求与技术整体推进加速之间存在内在张力。
 > - **贡献** 构建了涵盖经济影响（研发资助、确定性需求、竞争支持）、技术影响（前沿演进加速、示范效应、方向指引）与人力资本影响（企业间外部衍生网络、企业内跨部门经验平移）的三维整合[[Analytic Framework|分析框架]]。
 
 ---
@@ -112,7 +112,7 @@ journal: "Research Policy"
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **跨行业比较[[Case Study\|案例研究]]** | 选取半导体与电子计算机两大二战后同步崛起的代表性高技术产业，横向比对其在研发资助结构、政府采购份额、市场进入门槛、技术扩散路径与人才流动模式上的异同。 |
-> | **历史[[Document\|文献]]与官方产业统计分析** | 梳理美国商务部企业与防务服务署（Business and Defense Services Administration, BDSA）、电子工业协会（Electronic Industries Association, EIA）、美国众议院预算局自动数据处理（Automatic Data Processing, [[American Diploma Project\|ADP]]）设备普查报告、[[Brookings Institution\|布鲁金斯学会]]学者[[John E. Tilton|约翰·E·蒂尔顿（John E. Tilton）]]专著及格罗佩利（Gropelli）数据库的长时序数据。 |
+> | **历史[[Document\|文献]]与官方产业统计分析** | 梳理美国商务部企业与防务服务署（Business and Defense Services Administration, BDSA）、电子工业协会（Electronic Industries Association, EIA）、美国众议院预算局自动数据处理（Automatic Data Processing, [[American Diploma Project\|ADP]]）设备普查报告、[[Brookings Institution\|布鲁金斯学会]]学者[[John E. Tilton\|约翰·E·蒂尔顿（John E. Tilton）]]专著及格罗佩利（Gropelli）数据库的长时序数据。 |
 > | **高层管理人员与学界[[Expert Interview\|专家访谈]]** | 针对 IBM、优尼瓦克（Univac）、控制数据公司（Control Data Corporation, CDC）等整机企业高管，德州仪器与[[Fairchild Semiconductor\|仙童半导体]]管理层，NASA 约翰逊、兰利、戈达德三大航天中心负责人，以及重点大学计算机科学与工程教授开展深度[[Semi-structured Interview\|半结构化访谈]]。 |
 
 > [!sample-panel]- 样本与材料快照
@@ -120,7 +120,7 @@ journal: "Research Policy"
 > |---|---|
 > | **统计样本** | 1955–1968 年全美半导体与集成电路军品与民品生产出货总值、单价时序数据；1954–1963 年计算机硬件与服务市场规模序列；1957–1966 年主要半导体厂商市场份额；1960–1971 年各计算机厂商政府在册库存设备价值占比。 |
 > | **访谈样本** | 涵盖主流半导体制造企业高管、计算机系统整机承包商项目经理、三大 NASA [[Center of Calculation\|计算中心]]主管，以及东部重点大学计算机科学教授。 |
-> | **材料情境** | 依托[[Jerome E. Schnee|杰罗姆·E·施奈（Jerome E. Schnee）]]在哥伦比亚大学人力资源保护项目承担的 NASA 空间计划经济影响大型资助课题，结合冷战时期联邦国防部与空间项目解密档案展开综合考据。 |
+> | **材料情境** | 依托[[Jerome E. Schnee\|杰罗姆·E·施奈（Jerome E. Schnee）]]在哥伦比亚大学人力资源保护项目承担的 NASA 空间计划经济影响大型资助课题，结合冷战时期联邦国防部与空间项目解密档案展开综合考据。 |
 
 ---
 
@@ -169,7 +169,7 @@ journal: "Research Policy"
 
 ---
 
-### 论证步骤二　[[Assured Demand|确定性采购需求]]为早熟技术提供首发托底并释放了指数级学习经济
+### 论证步骤二　确定性采购需求为早熟技术提供首发托底并释放了指数级学习经济
 
 > [!claim] 步骤二核心主张
 > 空间与国防部门在技术商业化元年充当了包揽全额产值的首购托底买家，其重性能轻成本的采购特性为高昂器件提供了初始市场，使企业在规模扩张中释放出每翻一番成本下降 20%–30% 的[[Learning Economy|学习经济]]，驱动硬件价格剧跌十倍以上并全面激活民用市场。（pp.7–10）
@@ -254,7 +254,7 @@ journal: "Research Policy"
 > | **新创企业小计** | **64** | **60** | **68** | **65** |
 > | **全行业合计** | **100** | **100** | **100** | **100** |
 >
-> 资料来源：[[John E. Tilton|Tilton (1971, p. 66)]]（p.11）。1953 年军方在 Transitron 未获得任何显著民品订单前即批准其金键二极管用于军品；1954 年德州仪器推出首款硅晶体管迅速拿下军方大单；新创企业至 1957 年已拿下全美 64% 的总市场与 69% 的政府采购市场。在 MOS 路线上，仙童于 1960 年率先研发但因技术困难放弃后，新创衍生企业通用微电子（General Micro Electronics, GME）与美国微系统（American Micro-Systems, [[Applied Medical Innovation|AMI]]）正是依托 NASA 合同攻克了高稳定性 MOS 工艺，打破垄断成为全美关键供应商。（pp.11–13）
+> 资料来源：Tilton (1971, p. 66)（p.11）。1953 年军方在 Transitron 未获得任何显著民品订单前即批准其金键二极管用于军品；1954 年德州仪器推出首款硅晶体管迅速拿下军方大单；新创企业至 1957 年已拿下全美 64% 的总市场与 69% 的政府采购市场。在 MOS 路线上，仙童于 1960 年率先研发但因技术困难放弃后，新创衍生企业通用微电子（General Micro Electronics, GME）与美国微系统（American Micro-Systems, [[Applied Medical Innovation|AMI]]）正是依托 NASA 合同攻克了高稳定性 MOS 工艺，打破垄断成为全美关键供应商。（pp.11–13）
 
 #### 2. 联邦政府推行直接购买制打破 IBM 租赁壁垒并扶持新兴计算机厂商立足
 
@@ -289,8 +289,8 @@ journal: "Research Policy"
 
 公共大项目管理者在面临严苛使命目标时面临着深层管理困境：为确保任务万无一失，管理层倾向于采用现成可靠技术（[[Technological Conservatism in Mission Programs|使命项目中的技术保守主义]]）；但任务的极端空间与减重约束又倒逼其强力拉动前沿技术提速。
 
-> [!tension-table] 任务刚性目标约束下的[[Technological Conservatism in Mission Programs|技术保守主义]] vs. 产业整体技术推进加速
-> | 比较维度 | 公共大项目管理者的[[Technological Conservatism in Mission Programs|技术保守主义]] | 空间国防计划对产业技术演进的客观加速 |
+> [!tension-table] 任务刚性目标约束下的技术保守主义 vs. 产业整体技术推进加速
+> | 比较维度 | 公共大项目管理者的[[Technological Conservatism in Mission Programs\|技术保守主义]] | 空间国防计划对产业技术演进的客观加速 |
 > |:---|:---|:---|
 > | **决策动机** | 确保预定航天或国防战略任务绝对成功，规避灾难性发射失败风险 | 解决航天器极端有效载荷受限、导弹弹头空间与严苛抗震耐温挑战 |
 > | **技术选择取向** | 优先利用已有成熟科技，避免在重大工程内部开展未经检验的激进革命性研发 | 倒逼电子元器件向超微型化与百万小时高可靠性跨越 |
@@ -301,7 +301,7 @@ journal: "Research Policy"
 商业企业高管在面对早期复杂计算机系统时普遍存在认知盲区与不信任感，公共重大工程充当了权威的信任背书与应用范例。
 
 > [!evidence-grid] 示范效应与前沿指引的扩散机制
-> - **空军 SAGE 系统奠定实时计算[[Paradigm|范式]]** 美国空军 SAGE 系统（由兰德公司衍生出的[[System Development Corporation|系统开发公司（System Development Corporation, SDC）]]等机构负责全周期软件系统工程开发与人员培训）率先攻克了雷达数据实时采集、跨地域通信网络与集中式分时数据处理技术，直接催生了民航订票系统（IBM SABRE）与商用实时数据中心。（pp.10, 15）
+> - **空军 SAGE 系统奠定实时计算[[Paradigm|范式]]** 美国空军 SAGE 系统（由兰德公司衍生出的[[System Development Corporation|系统开发公司]]（System Development Corporation, SDC）等机构负责全周期软件系统工程开发与人员培训）率先攻克了雷达数据实时采集、跨地域通信网络与集中式分时数据处理技术，直接催生了民航订票系统（IBM SABRE）与商用实时数据中心。（pp.10, 15）
 > - **阿波罗计划注入全行业自动化控制信心** NASA [[Apollo Program|阿波罗计划]]登月计算系统的公开成功运行消除了企业高管对计算机介入核心业务的怀疑，直接推动石油炼化等连续流程工业引入计算机过程控制。（pp.10–11）
 > - **超前两至三年的前沿预示功能** 军工航电系统的先导探索成为民用工业应用的预测先导，提前展示了未来商业数据处理的技术演进方向。（p.10）
 
@@ -329,7 +329,7 @@ journal: "Research Policy"
 在计算机工业中，大型航天与国防项目充当了高级工程技术与项目管理人才的重要培养基地。
 
 > [!chain-link] 空间国防大项目人才溢出与商业转化链条
-> - **前置条件：高复杂度公共项目实战历练** [[System Development Corporation|系统开发公司（SDC）]]与 Univac、IBM 在承接 SAGE 防空网络和 NASA 航天计算工程中培育了数以千计的专业系统程序员与项目管理骨干；Univac 每年保持约 200 人全职从事 NASA 航天计算系统开发，累计数千名员工经历过空间计算系统洗礼；IBM 在休斯敦约翰逊航天中心设立庞大的实时计算机综合体。
+> - **前置条件：高复杂度公共项目实战历练** 系统开发公司（SDC）与 Univac、IBM 在承接 SAGE 防空网络和 NASA 航天计算工程中培育了数以千计的专业系统程序员与项目管理骨干；Univac 每年保持约 200 人全职从事 NASA 航天计算系统开发，累计数千名员工经历过空间计算系统洗礼；IBM 在休斯敦约翰逊航天中心设立庞大的实时计算机综合体。
 > - **中介机制：企业内部跨部门向民用业务平移** 掌握大型实时网络架构经验的项目经理与系统工程师成批调往公司商业产品线。
 > - **最终成效：民用复杂系统与国民经济基础设施升级** IBM 原 NASA 项目主管调任主持美国联邦航空局（Federal Aviation Administration, FAA）全国航路空管系统、英格兰银行实时清算系统及纽约市市政计算网络开发；CDC 与 Univac 工程师将 NASA 兰利研究中心实时仿真经验平移至大众汽车与格鲁曼民用飞机设计。（pp.19–20）
 
@@ -353,7 +353,7 @@ journal: "Research Policy"
 
 ## 关键引用
 
-> [!citation-card] 公共大项目管理者的[[Technological Conservatism in Mission Programs|技术决策困境与技术保守主义]]
+> [!citation-card] 公共大项目管理者的技术决策困境与技术保守主义
 > 空间与国防项目的管理者在做出科学与技术决策时面临着重大困境。若要确保达成既定的特定工程任务目标，他们必须规划只使用当前已有的成熟科学知识与技术。他们必须在技术上保持保守，专注于开发利用现有的最高工艺水平，而非在其计划内部开展革命性的科学探索。因此，公共项目极少成为重大创新的唯一开创者，尽管它们在推动技术进步中发挥着至关重要的作用。
 >
 > *The impacts of space and defense illustrate that the managers of a large government program face a major dilemma in making scientific and technical decisions. If they are to ensure the accomplishment of specified program objectives, they must plan to use only currently available scientific knowledge and technology. They must be technically conservative and focus on exploiting the existing state-of-the-art rather than carrying out revolutionary scientific advances within their program. Consequently, it is unlikely that public programs will originate major innovations, although they can play an important role in technological advance. (pp. 20–21)*

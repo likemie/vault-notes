@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 47
+fact_related_count: 48
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -79,10 +79,11 @@ related_arguments:
   - "[[Argument_Mowery_2011_NBER]]"
   - "[[Argument_Fuchs_2010_RP]]"
   - "[[Argument_Grindley_1994_JPAM]]"
+  - "[[Argument_Fabrizio_Mowery_2005_REI]]"
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # DARPA
@@ -247,6 +248,7 @@ updated: 2026-10-04
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 详尽剖析 DARPA 及军方机构通过 IPTO 资助阿帕网、[[VLSI Project|VLSI]] 革命、RISC 架构及高校计算机学科建设，并揭示从早期 COBOL 成功到 1980 年代 Ada 语言受挫所反映的国防采购生命周期边界。
+> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 阐明 DARPA 在阿帕网（ARPANET）原型构建与 TCP/IP 协议开发中的关键资助与广覆盖部署策略，以及其广开资助门路、向 BBN 等小企业发放先导合同以促进产业竞争与技术扩散的机制。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 将 DARPA 深度剖析为第二代[[Big Science|大科学]]使命（狮子形态）的探索型组织典范，系统论述其组织能力优势及向第三代社会挑战迁移时的理论边界。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 将 DARPA 提炼为“去中心化探索型公共组织”的典范，系统论证其在网络构建、风险投资组合管理与主动创造市场方面的治理机制与启示。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 基于对 DARPA 微系统技术办公室（MTO）在 1992–2008 年间 4 项半导体关键材料技术（SiGe、应变硅、3D封装、集成光子学）资助的长程扎根[[Case Study|案例研究]]，揭示项目经理通过非正式制度重塑研发者社会网络以引导国家[[Technological Trajectories|技术轨道]]，提出[[Embedded Network Governance|嵌入型网络治理]]新[[Paradigm|范式]]并化解学术界关于[[Tony Tether|托尼·瑟瑟]]改革导致“DARPA之死”的论争。

@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Bell Labs]]"
+  - "[[System Development Corporation]]"
   - "[[1956 IBM Consent Decree]]"
   - "[[Office of Naval Research]]"
   - "[[DARPA]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Semi-Automatic Ground Environment
@@ -57,7 +58,7 @@ updated: 2026-10-03
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1952 年正式立项立项，1958 年首个扇区投入作战部署，持续运行至 1983 年退役，总研制与部署周期跨越 30 余年。
-> - **发起方与资助机制** 美国空军（U.S. Air Force）全额资助，联合麻省理工学院林肯实验室、IBM、[[Bell Labs|贝尔实验室]]（西电公司）与兰德公司系统开发分部（System Development Corporation, SDC）协同攻关；项目累计投资高达 80 亿至 100 亿美元（超越曼哈顿工程的总开支）。
+> - **发起方与资助机制** 美国空军（U.S. Air Force）全额资助，联合麻省理工学院林肯实验室、IBM、[[Bell Labs|贝尔实验室]]（西电公司）与兰德公司系统开发分部（[[System Development Corporation]], SDC）协同攻关；项目累计投资高达 80 亿至 100 亿美元（超越曼哈顿工程的总开支）。
 > - **覆盖范围与对象** 部署覆盖全美与加拿大境内的 20 余个区域空中指挥防御扇区，联结数百座远程雷达站、拦截机基地与地空导弹阵地。
 > - **核心问题导向** 应对冷战初期苏联图-4 战略轰炸机携带核武器对美国本土实施跨极地突袭的严峻威胁，解决人工雷达标图与电话指挥在超音速空袭面前反应迟缓的系统性防空漏洞。
 
@@ -98,7 +99,7 @@ updated: 2026-10-03
 > - **系统设计与总体研发（MIT 林肯实验室）** 负责系统概念设计、早期算法攻关与关键元器件（磁芯内存）前瞻突破。
 > - **硬件工程与量产制造（IBM）** 承接 AN/FSQ-7 计算机制造，通过交付 56 台套巨型计算机建立全美最具规模的精密电子与数字计算生产线。
 > - **电信网络与数据传输（[[Bell Labs|贝尔实验室]] / 西电公司）** 设计铺设全美防空专用通信专线与模拟-数字调制解调网络。
-> - **巨型软件开发与人才培训（兰德公司 / SDC）** 汇聚并培养了当时全美近一半的专业程序员，开创了现代软件工程与代码管理规程。
+> - **巨型软件开发与人才培训（兰德公司 / [[System Development Corporation|SDC]]）** 汇聚并培养了当时全美近一半的专业程序员，开创了现代软件工程与代码管理规程。
 
 > [!pathways]- 需求侧牵引与技术外溢路径
 > - **制造规模效益** [[Sage]] 军用合同在 1950 年代中后期占据了 IBM 特殊产品销售收入的绝大部分，为其后续研发 IBM 7090 与 IBM System/360 积累了雄厚的资本和工程制造能力。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 174–176)]]
@@ -111,7 +112,7 @@ updated: 2026-10-03
 > [!indicators]- 评估指标体系
 > - **国防与工程产出** 制造并部署了 56 台 AN/FSQ-7 双机系统，实现了全美领空长达 25 年的全天候自动化防空雷达监视。
 > - **产业溢出与经济效益** 孵化了磁芯内存、调制解调器、阴极射线管人机交互界面三大核心[[General Purpose Technology|通用技术]]，推动 IBM 成为全球计算机制造产业巨头。
-> - **软件人才生态奠基** SDC 为全美信息产业培养了第一代数千名软件系统架构师与程序员，奠定了美国独立软件产业的人才蓄水池。
+> - **软件人才生态奠基** [[System Development Corporation|SDC]] 为全美信息产业培养了第一代数千名软件系统架构师与程序员，奠定了美国独立软件产业的人才蓄水池。
 
 > [!finding-cards] 核心实证结论
 > - **军品极端采购推动新兴通用技术跨越“[[Valley of Death|死亡之谷]]”** [[Sage]] 工程证明，在商业市场尚未显现的前沿技术萌芽期，国防部门作为单一先导首发用户支付巨额性能溢价，能有效分摊高昂的固定研发成本并驱动制造良率爬坡。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 174–176)]]

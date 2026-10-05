@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch07"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch07"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 31
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -52,15 +52,20 @@ related_persons:
   - "[[Alec Peterson]]"
 related_facts:
   - "[[United World Colleges]]"
+  - "[[1981 Brussels Intergovernmental Conference on the International Baccalaureate]]"
   - "[[Standing Conference of Governments of the International Baccalaureate]]"
   - "[[International Option of the French Baccalaureate]]"
   - "[[UNESCO]]"
   - "[[Grammar School]]"
   - "[[N and F Proposals]]"
+  - "[[1979 Schools Council International Baccalaureate Feasibility Study]]"
   - "[[International Baccalaureate Examinations Office]]"
+  - "[[1980 Ditchley Park United World Colleges Conference]]"
   - "[[Simon Bolivar United World Institute of Experimental Agriculture]]"
   - "[[Armand Hammer United World College of the American West]]"
+  - "[[1983 International Baccalaureate Financial Crisis]]"
   - "[[International Baccalaureate North America]]"
+  - "[[1985 United World Colleges International Council Meeting]]"
   - "[[1985 Trieste Intergovernmental Conference on the International Baccalaureate]]"
 sources:
   - "[[books/Peterson_1987_OpenCourt/Peterson_1987_OpenCourt|Peterson_1987_OpenCourt]]"

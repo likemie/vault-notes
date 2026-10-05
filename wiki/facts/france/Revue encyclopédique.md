@@ -12,9 +12,9 @@ subtype: event
 region: france
 fact_region: "france"
 fact_kind: "event"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - region/france
@@ -41,6 +41,7 @@ related_persons:
   - "[[Francis Bacon]]"
   - "[[Johann Heinrich Pestalozzi]]"
 related_facts:
+  - "[[ESPRIT]]"
   - "[[UNESCO]]"
   - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"
 related_arguments:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-29
+updated: 2026-10-05
 ---
 
 # Revue encyclopédique
@@ -79,7 +80,7 @@ updated: 2026-09-29
 > - **全球跨洲际报道网络（Circulation Throughout the Civilized World）**
 >   刊物广泛发行于欧洲、美洲、亚洲与非洲的所有文明国家，建立了由各国知名学者、外交家与通讯员组成的庞大合作网络；定期开辟专栏刊发世界各地的科学新知、文学评论与社会改良报告。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 21–22]]; Palmer, 1993:180）
 > - **1819 年人类知识分类总表（Synoptic Table of Human Knowledge）**
->   朱利安在刊物中发表创新的知识分类法，将人类知识划分为两大位阶：一级科学为物理自然科学与实用工程技术（农矿工医）；二级科学则是关涉心灵与理智的“[[Geisteswissenschaften|精神科学]]（sciences de l'esprit）”，系统涵括道德、哲学、历史、心理学与教育学。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 17–18]]; Palmer, 1993:176–178）
+>   朱利安在刊物中发表创新的知识分类法，将人类知识划分为两大位阶：一级科学为物理自然科学与实用工程技术（农矿工医）；二级科学则是关涉心灵与理智的“[[Geisteswissenschaften|精神科学]]（sciences de l'[[ESPRIT]]）”，系统涵括道德、哲学、历史、心理学与教育学。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 17–18]]; Palmer, 1993:176–178）
 > - **[[International Education\|国际教育]]与比较制度专题专栏**
 >   刊物常态化刊登关于瑞士、比利时、西班牙、英格兰、苏格兰与美利坚各州公共教育立法、学校组织、[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]人道教学法与儿童识字率的深度分析，成为 19 世纪前期欧洲掌握域外教育动向的最权威智库。（pp. 12, 21）
 

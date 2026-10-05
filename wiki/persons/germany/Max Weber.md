@@ -7,7 +7,7 @@ summary: "德国社会学家，理解社会学奠基人与新教伦理与资本�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Jerome E. Schnee]]"
   - "[[Pierre Bourdieu]]"
   - "[[Ann Swidler]]"
   - "[[Immanuel Kant]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 # Max Weber
 
@@ -82,7 +83,7 @@ updated: 2026-10-03
 >   - **1882–1886** 先后在海德堡大学、斯特拉斯堡大学、哥廷根大学和柏林大学学习法学、国民经济学、哲学、神学和历史学，主修罗马法；1883–1884 年服一年志愿兵役成为预备役军官（Kaesler, 2014, p. 198）。
 > - **1889–1897 博士执教与经验调查转向**
 >   - **1889** 在柏林大学获法学博士学位（*magna cum laude*），论文为《中世纪贸易公司史》（MWG I/1, 2008, p. 343）。
->   - **1892–1893** 完成教授资格论文《罗马农业史》，任柏林大学商法和德国法特聘教授；与表妹玛丽安娜·施尼特格（Marianne Schnitger）结婚；主持社会政策协会易北河以东农业工人状况的大规模调查（Kaesler, 2014, p. 345, 387）。
+>   - **1892–1893** 完成教授资格论文《罗马农业史》，任柏林大学商法和德国法特聘教授；与表妹玛丽安娜·[[Jerome E. Schnee|施尼]]特格（Marianne Schnitger）结婚；主持社会政策协会易北河以东农业工人状况的大规模调查（Kaesler, 2014, p. 345, 387）。
 >   - **1894–1897** 先后任弗赖堡大学国民经济学教授（1895 年发表就职演讲《民族国家与国民经济政策》）与海德堡大学国民经济学教席；1897 年与父亲激烈冲突后父亲猝逝，二人未及和解（Kaesler, 2014, p. 464；Radkau, 2005, p. 114）。
 > - **1898–1903 疾病困扰与体制外转型**
 >   - **1898–1903** 因严重神经衰弱中断教学，多次疗养（Radkau, 2005, pp. 251, 254）。

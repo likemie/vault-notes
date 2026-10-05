@@ -7,7 +7,7 @@ aliases:
 summary: "1960年代中期由仙童半导体从系统装配与印刷电路板布线视角研发的标准集成电路封装架构，通过双列平行引脚与100密耳间距设计，极大降低布线难度并适配自动插件机，成为商用集成电路大规模扩散的关键物理接口。"
 type: concept
 domain: "economics"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -27,12 +27,13 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Fairchild Semiconductor]]"
+  - "[[VLSI Project]]"
 related_arguments:
   - "[[Argument_Lecuyer_1999_HT]]"
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Dual In-Line Package
@@ -47,7 +48,7 @@ updated: 2026-10-03
 > [!concept-lens] 概念透镜
 > - **含义** 指向连接微观半导体芯片与宏观系统印刷电路板的标准化物理机械与电气互联界面。
 > - **用途** 帮助产业史学者与技术经济学家分析物理封装设计如何作为跨系统协同创新的关键纽带，消解上游先进器件与下游工业组装之间的工艺断层。
-> - **边界** 属于通孔插装（Through-Hole Technology）时代的标准封装，不适用于后期超大规模集成电路（VLSI）对超高引脚密度的表面贴装技术（Surface-Mount Technology, SMT）需求。
+> - **边界** 属于通孔插装（Through-Hole Technology）时代的标准封装，不适用于后期超大规模集成电路（[[VLSI Project|VLSI]]）对超高引脚密度的表面贴装技术（Surface-Mount Technology, SMT）需求。
 
 > [!citation-card] 双列直插封装的系统设计视角
 > 赖斯与器件开发部的封装团队合作，设计出一种不仅能简化印刷电路板布局、而且能使整机组装更具经济性的封装方案。……他们最终确立了具备双列引脚的双列直插设计。

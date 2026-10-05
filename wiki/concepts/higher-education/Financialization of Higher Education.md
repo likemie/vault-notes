@@ -45,7 +45,7 @@ updated: 2026-10-02
 ## 核心表现
 
 > [!abstract]
-> - **大学金融运作** [[Research Universities|美国研究型大学]]越来越多地通过借贷和基于捐赠基金的金融投资来运作——捐赠基金不仅是财务缓冲，更成为金融市场上活跃的投资者([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.800]])
+> - **大学金融运作** 美国[[Research Universities|研究型大学]]越来越多地通过借贷和基于捐赠基金的金融投资来运作——捐赠基金不仅是财务缓冲，更成为金融市场上活跃的投资者([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.800]])
 > - **学生贷款市场** 学费上涨与联邦贷款扩张相互强化，学生贷款已成为大型金融市场——贷方从学生支付的利息中获利([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.801]])
 > - **营利性高等教育的扩张** 营利性院校的运营利润是高等教育金融化的核心组成部分，这些机构常以高昂费用出售质量存疑的项目([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.796]])
 > - **公共资金的隐性补贴** 美国联邦学生贷款和拨款实际上大量补贴了营利性高校的增长——公共资金承担风险，私人机构获取利润(Douglass, 2012; Mettler, 2014; [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.797]])

@@ -9,7 +9,7 @@ aliases:
 summary: "行动者网络理论与治理社会学的核心概念，指将遥远、异质的现实实体通过标准化转译为流动、稳定且可组合的标准化数据表征（如测试数据、统计指标），并在中心节点进行汇聚、建模与运算，从而实现远距离治理的专业机构或空间节点。"
 type: concept
 domain: "sociology-of-education"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Output-Oriented Governance]]"
   - "[[Champ]]"
   - "[[Variable]]"
+  - "[[Ontology]]"
 related_theories:
   - "[[Actor-Network Theory]]"
   - "[[Governmentality]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # Center of Calculation
@@ -177,7 +178,7 @@ updated: 2026-10-04
 > > - **技术测量主义立场** 辩护称计算中心仅提供经过严格心理测量标定的客观工具，不带有政治偏见，为各级决策提供中立事实基础。
 > > - **批判社会学立场** 指出计算中心决定了“什么可以被计算、什么被视而不见”，将复杂的育人过程粗暴还原为窄化的学科分数，形成了排他性的量化认识论霸权（Gorur, 2015）。
 >
-> > [!axis] 单一中心化认知集权 vs 分布式数据基础设施网络
+> > [!axis] 单一中心化认知集权 vs 分布式[[Data Infrastructure|数据基础设施]]网络
 > > 围绕治理权力究竟高度收拢于单一国家计算中心，还是弥散在跨部门商业数字基础设施网络中的争论。
 > >
 > > - **单一计算中心论（Latour, 1987; [[Argument_Hartong_2018_GSE|Hartong, 2018]]）** 强调特定专业机构通过垄断全域题库与多源数据分析形成元治理中枢。
@@ -205,12 +206,12 @@ updated: 2026-10-04
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----------|
-> | [[Actor-Network Theory]] | Theory | 计算中心概念得以奠基的社会-物质本体论理论框架。 |
+> | [[Actor-Network Theory]] | Theory | 计算中心概念得以奠基的社会-物质[[Ontology\|本体论]]理论框架。 |
 > | [[Data Infrastructure]] | Concept | 计算中心赖以运作与向分布式网络演化的底层技术与制度载体。 |
 > | [[Transfer Translation Transformation]] | Concept | 计算中心将分散现实转译为流动标准化数据表征的微观操作机制。 |
 > | [[Topological Spatialisation]] | Concept | 计算中心通过数据网络折叠时空、连接微观课堂与宏观标准的空间化形态。 |
 > | [[Institute for Educational Quality Improvement]] | Fact | 德国基础教育治理体系中国家级计算中心的最典型经验案例。 |
-> | [[OECD]] | Fact | 全球教育治理领域中通过 PISA 测试行使跨国远距离治理的超级计算中心。 |
+> | [[OECD]] | Fact | 全球教育治理领域中通过 [[PISA]] 测试行使跨国远距离治理的超级计算中心。 |
 > | [[Vergleichsarbeiten]] | Fact | 计算中心向各州学校推送标准练习与汇聚诊断数据的标志性测评项目。 |
 > | [[IQB-Bildungstrend]] | Fact | 计算中心用于标定各州学业水平达标率与长期趋势的国家级监测工具。 |
 

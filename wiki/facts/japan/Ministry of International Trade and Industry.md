@@ -116,7 +116,7 @@ aliases:
 > | [[Public Dynamic Capabilities]] | 概念 | 展现了公共机构在国家战略与政策协调层级主动塑造产业结构的动态能力。 |
 > | [[Market Shaping and Creating]] | 概念 | MITI 通过 [[VLSI Project\|VLSI]] 等国家工程主动塑造了全球半导体微电子市场的竞争格局。 |
 > | [[Directionality of Innovation]] | 概念 | MITI 的产业愿景为日本技术演进设定了明确的高附加值方向。 |
-> | [[Modern Industrial Policy]] | 概念 | VLSI 计划是 [[Argument_Bown_2024_JEP|Bown & Wang（2024）]]分析现代产业政策历史前身的核心案例，骆驼形态第一代使命政策的制度实例。 |
+> | [[Modern Industrial Policy]] | 概念 | VLSI 计划是 [[Argument_Bown_2024_JEP\|Bown & Wang（2024）]]分析现代产业政策历史前身的核心案例，骆驼形态第一代使命政策的制度实例。 |
 > | [[Vertical Disintegration]] | 概念 | 日本国家冠军集成模式在 1990 年代后全球产业分散化浪潮中的历史对照案例。 |
 
 ---

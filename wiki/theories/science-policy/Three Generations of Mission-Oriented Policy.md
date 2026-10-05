@@ -2,7 +2,7 @@
 summary: "由莱纳·卡特尔与玛丽安娜·马祖卡托提出的创新政策演进理论，借鉴尼采精神三变隐喻，系统梳理使命政策从后发追赶的社会经济奠基（骆驼）、冷战大科学的技术攻关（狮子）到应对重大社会挑战的敏捷实验型社会-技术转型（儿童）三个历史代际的演进规律与组织能力要求。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 34
+theory_related_count: 35
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -52,6 +52,7 @@ related_facts:
   - "[[Horizon Europe]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
+  - "[[Argument_Brint_2023_IHE]]"
 confidence: high
 status: active
 created: 2026-10-03

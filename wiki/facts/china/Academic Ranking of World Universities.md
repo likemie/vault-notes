@@ -85,7 +85,7 @@ updated: 2026-10-02
 > - **2004–2009 年 — 全球排名军备竞赛的形成**
 >   - 英国《泰晤士高等教育》（Times Higher Education, THE）于 2004 年联合 QS 公司迅速推出世界大学排名以资抗衡；随后莱顿大学[[Science and Technology Studies|科学技术研究]]中心（CWTS Leiden Ranking）、西班牙[[National Research Council|国家研究委员会]] SCImago 机构排名等系统相继[[Emergence|涌现]]，开启全球排名竞赛（Rankings Race）。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 131)]]
 > - **2005 年 — 细分校区实证分析与美国顶尖高校垄断地位的确立**
->   - 2005 年版 ARWU 进一步区分美国多校区公立大学系统，对全球前 500 所大学按学术卓越度进行严谨排位；该版数据显示[[Research Universities|美国研究型大学]]在前 20 强中占据 17 席，成为表征美国二战后科研竞争体制优越性的关键实证依据。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
+>   - 2005 年版 ARWU 进一步区分美国多校区公立大学系统，对全球前 500 所大学按学术卓越度进行严谨排位；该版数据显示美国[[Research Universities|研究型大学]]在前 20 强中占据 17 席，成为表征美国二战后科研竞争体制优越性的关键实证依据。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **2009 年至今 — 商业机构化运作与学科细分评价**
 >   - 排名评价工作转由上海软科（ShanghaiRanking Consultancy）独立运营，逐步拓展出全球一流学科排名（Global Ranking of Academic Subjects, GRAS），深度融入各国政府高校资源分配与战略考核体系。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 131–134)]]
 
@@ -104,7 +104,7 @@ updated: 2026-10-02
 
 > [!actor-grid] 权力—立场矩阵
 > - **指标创制与量化评估倡导者** 上海交通大学研制团队与量化计量学界 — 坚持以透明、第三方可审计的[[Document|文献]]计量与学术顶尖奖项打破传统高等教育声誉网络中的主观偏见与封闭黑箱。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 130–131)]]
-> - **体制竞争受益者** [[Richard C. Atkinson|理查德·C·阿特金森]]（Richard C. Atkinson）与[[Research Universities|美国研究型大学]]群体 — 将 ARWU 排名的压倒性领先作为战后美国去中心化、同行评审同行竞争与研究生科研共生体制生产力的实证铁证。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
+> - **体制竞争受益者** [[Richard C. Atkinson|理查德·C·阿特金森]]（Richard C. Atkinson）与美国[[Research Universities|研究型大学]]群体 — 将 ARWU 排名的压倒性领先作为战后美国去中心化、同行评审同行竞争与研究生科研共生体制生产力的实证铁证。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **批判与反思阵营** 佩普卡·博亚吉耶娃（[[Pepka Boyadjieva]]）与高等教育社会学界 — 批判排名指标将大学一维化为“类哈佛”科研机器，推行一刀切评价模型，严重挤压人文社会科学、本科教学质量与地方公共服务使命。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 132–136)]]
 > - **深层制度受制约者** 欧洲大陆与东亚传统中央集权高等教育系统 — 因缺乏美国式教师个人科研项目完全竞争机制与多校区分立治理自主权，在指标体系中处于结构性不利地位，被迫开展国家级治理体制重构。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 42–43)]]
 
@@ -148,7 +148,7 @@ updated: 2026-10-02
 > > [!axis] 体制生产力表征 vs 估值偏见的量化虚构
 > > 制度史学家与科技政策学者将 ARWU 视作战后去中心化科研体制在全球优选中的真实生产力映照；而批判社会学者则认为其以片面量化指标虚构了唯一的“世界一流大学”标准，掩盖了深层制度不公。
 > >
-> > - **制度效能与竞争优势视角** Atkinson & Blanpied 强调，ARWU 排名不仅未夸大美国实力，反而客观呈现了[[Research Universities|美国研究型大学]]因师生紧密互动、分散竞争性同行评审资助与跨校争夺学术人才所迸发出的巨大创新优势，而欧亚各国中央集权高教体系的平均主义支持未能产生同等质量的突破。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–43)]]
+> > - **制度效能与竞争优势视角** Atkinson & Blanpied 强调，ARWU 排名不仅未夸大美国实力，反而客观呈现了美国[[Research Universities|研究型大学]]因师生紧密互动、分散竞争性同行评审资助与跨校争夺学术人才所迸发出的巨大创新优势，而欧亚各国中央集权高教体系的平均主义支持未能产生同等质量的突破。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–43)]]
 > > - **估值社会学与使命剥夺视角** Boyadjieva 指出，ARWU 假定了一种未被清晰界定的单一“高等教育质量”，通过赋予自然科学与精英奖项极高权重，严重惩罚了以社会融合与多元教学为导向的公立赠地大学，将[[Heterogeneity|异质性]]的公共机构异化为同质化的科研竞赛机器。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 132–136)]]
 >
 > > [!axis] 教学成果测量的有效性困境

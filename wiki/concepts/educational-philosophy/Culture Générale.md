@@ -8,7 +8,7 @@ aliases:
 summary: "源自法国理性主义与折衷主义哲学的精英中等教育通识理念，融合古典人文与现代科学，基于官能心理学与心智训练全面磨砺普遍理性，为中央集权体制选拔培育具备卓越行政才能的治理精英。"
 type: concept
 domain: "educational-philosophy"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -50,6 +50,7 @@ related_persons:
   - "[[Brian Holmes]]"
   - "[[Pierre Bourdieu]]"
 related_facts:
+  - "[[ESPRIT]]"
   - "[[Report on the State of Public Instruction in Prussia]]"
   - "[[PISA]]"
 related_arguments:
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-02
+updated: 2026-10-05
 ---
 
 # Culture Générale
@@ -143,7 +144,7 @@ updated: 2026-10-02
 > **文理平衡与官能全面陶冶** 库森在考察普鲁士中等教育后论证指出，古典语言文字是对人类精神最高本质的探索，而数学与物理则是对形式逻辑与客观观察官能的最佳锻炼。普通文化绝不排斥现代科学，而是主张将科学纳入以人文学科为统领的整全架构中，使年轻人的理智、心灵与审美官能得到均匀而协调的锻炼。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 30)]]；引自 Brewer (1971: 91–92); Halls (1965: 2)
 
 > [!claim] Halls, W. D.
-> **心智纪律超越实用技术** 在法国中等教育哲学中，普通文化被界定为一种“当所有学过的具体知识都被遗忘之后所剩下来的东西”。它的核心在于赋予个体清晰推理（*l'esprit géométrique*）与细腻洞察（*l'esprit de finesse*）的能力，使个体面对任何全新复杂领域时皆能迅速抓住核心结构。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 30)]]
+> **心智纪律超越实用技术** 在法国中等教育哲学中，普通文化被界定为一种“当所有学过的具体知识都被遗忘之后所剩下来的东西”。它的核心在于赋予个体清晰推理（*l'[[ESPRIT]] géométrique*）与细腻洞察（*l'esprit de finesse*）的能力，使个体面对任何全新复杂领域时皆能迅速抓住核心结构。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 30)]]
 
 ---
 

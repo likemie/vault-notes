@@ -9,7 +9,7 @@ aliases:
 summary: "一种主张真正知识唯独建立在感官经验、观察与实验基础之上的认识论立场，预设自然与社会遵循同质客观法则；在启蒙发轫期曾从属于全人道德教化与社会改良，而在20世纪演化为追求价值中立与法则概括的统治性实证范式。"
 type: concept
 domain: "educational-philosophy"
-related_count: 115
+related_count: 116
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -121,6 +121,7 @@ related_persons:
   - "[[Wolfgang Mitter]]"
 related_facts:
   - "[[PISA]]"
+  - "[[ESPRIT]]"
   - "[[IEA]]"
   - "[[OECD]]"
   - "[[Positivist Dispute in German Sociology]]"
@@ -143,7 +144,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # Positivism
@@ -273,7 +274,7 @@ updated: 2026-10-03
 > **准实证科学归属二级[[Geisteswissenschaften|精神科学]]并服从全人[[Bildung\|教化]]** 19 世纪初现代主义先驱[[Marc-Antoine Jullien\|马克-安托万·朱利安]]倡导的比较教育“准实证科学”，借用居维叶比较解剖学类比与机械工艺方法收集事实并编制跨国分析图表，其目的绝非 20 世纪逻辑实证论所标榜的去价值、去情境化的技术测量；朱利安将教育学归入欧陆“二级精神科学”，其经验分类始终服从于诊断法国大革命后社会道德危机、推进全人身心协调发展（[[Bildung]]）并实现欧洲[[Perpetual Peace\|永久和平]]的启蒙改良使命（[[Educational Meliorism]]）。20 世纪行为主义实证派指责其[[Questionnaire\|问卷]]带有主观偏见，本质上犯了时代错置的辉格史错误。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 13–18)]]
 
 > [!claim] Palmer, R. R.
-> **启蒙科学范畴的广义精神活动定位** 启蒙现代性时期的“科学”（Science）范畴具有深刻的历史情境性，绝非后世狭隘的实证命题检验集，而是指代人类心灵的一切理性精神活动（*toute activité de l'esprit*），涵盖道德哲学、政治经济与人文艺术，事实的经验收集天然从属于理智启蒙与人道重建。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 17–18)]]
+> **启蒙科学范畴的广义精神活动定位** 启蒙现代性时期的“科学”（Science）范畴具有深刻的历史情境性，绝非后世狭隘的实证命题检验集，而是指代人类心灵的一切理性精神活动（*toute activité de l'[[ESPRIT]]*），涵盖道德哲学、政治经济与人文艺术，事实的经验收集天然从属于理智启蒙与人道重建。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 17–18)]]
 
 ### 命题三　20 世纪中叶实证主义在比较教育中演进为追求预测法则与假设检验的量化范式，斥责历史传统为前科学
 

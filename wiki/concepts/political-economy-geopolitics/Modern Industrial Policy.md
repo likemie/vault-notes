@@ -9,7 +9,7 @@ aliases:
 summary: "现代产业政策区别于20世纪以纠正市场失灵与追求经济效率为单一导向的传统产业政策；它深度交织了国家安全、地缘政治对抗、供应链韧性与去风险目标，综合运用巨额直接补贴、前置研发资助、投资审查、单边及多边出口管制、友岸外包与战略矿产反制等全方位政策工具包。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 20
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,8 @@ related_concepts:
   - "[[Vertical Disintegration]]"
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
+  - "[[Research Universities]]"
+  - "[[STEM Education]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -41,11 +43,13 @@ related_facts:
   - "[[World Trade Organization]]"
   - "[[Ministry of International Trade and Industry]]"
   - "[[China Integrated Circuit Industry Investment Fund]]"
+  - "[[Made in China 2025]]"
   - "[[Sino-American Trade War]]"
   - "[[October 2022 US Semiconductor Export Controls]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
 related_arguments:
   - "[[Argument_Bown_2024_JEP]]"
+  - "[[Argument_Brint_2023_IHE]]"
 confidence: high
 status: active
 created: 2026-10-04
@@ -167,7 +171,7 @@ updated: 2026-10-05
 > 探讨大国在高科技与前沿战略领域如何放弃长达四十年的不直接干预偏好，转向国家主导的定向筛选与赢家扶持。
 
 > [!claim] [[Argument_Brint_2023_IHE|Brint (2023)]]
-> **挑选赢家与定向投资的范式回归** 现代产业政策代表了对 1970 年代末以来主导西方决策长达四十年的新自由主义市场共识的根本性放弃。在此之前，政府虽鼓励产学研合作，但极力回避通过定向资金流直接“挑选赢家”（picking winners）；而当代的立法与战略规划明确转向由国家直接圈定重点前沿技术清单、注入巨额公共资本并引导大学与产业深度结网，以举国科技动员对抗战略竞争对手。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
+> **挑选赢家与定向投资的[[Paradigm|范式]]回归** 现代产业政策代表了对 1970 年代末以来主导西方决策长达四十年的新自由主义市场共识的根本性放弃。在此之前，政府虽鼓励产学研合作，但极力回避通过定向资金流直接“挑选赢家”（picking winners）；而当代的立法与战略规划明确转向由国家直接圈定重点前沿技术清单、注入巨额公共资本并引导大学与产业深度结网，以举国科技动员对抗战略竞争对手。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
 
 ---
 
@@ -188,7 +192,7 @@ updated: 2026-10-05
 > [!dev-timeline] 概念演变
 > - **1970–1980年代 — 传统赶超与管理贸易** 日本[[Ministry of International Trade and Industry|通产省]]主导 [[VLSI Project|VLSI]] 项目 推动 DRAM 赶超；美日爆发激烈贸易摩擦，美国通过 [[1986 U.S.-Japan Semiconductor Trade Agreement|美日半导体贸易协定]] 实行配额管制，并组建 [[Sematech]] 研发联盟。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 83–86)]]
 > - **1990–2000年代 — 自由化与产业政策退潮** 华盛顿共识与[[World Trade Organization|世贸组织]]（WTO）规则盛行，产业政策被主流经济学界边缘化；半导体产业全面向全球 [[Vertical Disintegration|纵向离散]] 与东亚制造集聚演进。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 86–92)]]
-> - **2014–2018年代 — 国家战略资本赶超与贸易争端升级** 中国成立 [[China Integrated Circuit Industry Investment Fund|国家集成电路产业投资基金]]（大基金）并发布《中国制造2025》；特朗普政府发起 [[Sino-American Trade War|中美贸易战]] 并将华为列入实体清单，暴露关税工具在中间品长链条中的局限性。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 93–95)]]
+> - **2014–2018年代 — 国家战略资本赶超与贸易争端升级** 中国成立 [[China Integrated Circuit Industry Investment Fund|国家集成电路产业投资基金]]（大基金）并发布《[[Made in China 2025|中国制造2025]]》；特朗普政府发起 [[Sino-American Trade War|中美贸易战]] 并将华为列入实体清单，暴露关税工具在中间品长链条中的局限性。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 93–95)]]
 > - **2020年代 — 现代产业政策[[Paradigm|范式]]全面成型** 拜登政府出台 [[CHIPS and Science Act|芯片与科学法案]] 与 2022年10月出口管制新规；欧盟通过 [[European Chips Act|欧洲芯片法案]]；日本大幅补贴熊本晶圆厂与 Rapidus，标志着以巨额资本补贴、技术管辖与多边同盟为特征的现代产业政策全面主导全球高科技格局。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 97–101)]]
 
 ---
@@ -236,4 +240,4 @@ updated: 2026-10-05
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 系统构建了现代产业政策的[[Analytic Framework|分析框架]]，剖析了半导体全球供应链[[Vertical Disintegration|纵向离散]]背景下大国博弈的政策工具组合、经济代价与非预期后果。
-> - [[Argument_Brint_2023_IHE|Brint (2023)]] — 阐释美国通过《芯片与科学法案》实现科技产业政策范式转向的制度动因，分析国家定向资助与前沿技术竞争对研究型大学科研与 STEM 教育的深远影响。
+> - [[Argument_Brint_2023_IHE|Brint (2023)]] — 阐释美国通过《[[CHIPS and Science Act|芯片与科学法案]]》实现科技产业政策[[Paradigm|范式]]转向的制度动因，分析国家定向资助与前沿技术竞争对[[Research Universities|研究型大学]]科研与 [[STEM Education|STEM]] 教育的深远影响。

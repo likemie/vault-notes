@@ -11,7 +11,7 @@ aliases:
 summary: "指国家与公共机构不局限于事后修复既有市场失灵，而是通过战略投资、需求侧公共采购、标准规制与前沿引领，依托公共动态能力主动构筑、从零创造并共同重塑新经济与技术景观的公共政策范式。"
 type: concept
 domain: "science-policy"
-related_count: 35
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -31,15 +31,15 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Patient Capital]]"
   - "[[Hypothesis]]"
+  - "[[Learning Economy]]"
   - "[[Operationalization]]"
   - "[[Lead-and-Learn Paradigm]]"
   - "[[Reflexive Governance]]"
   - "[[Complexity Paradox]]"
+  - "[[Demand-side Innovation Policy]]"
+  - "[[Demonstration Effect]]"
   - "[[Picking the Willing]]"
   - "[[Directionality of Innovation]]"
-  - "[[Demand-side Innovation Policy]]"
-  - "[[Learning Economy]]"
-  - "[[Demonstration Effect]]"
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Systems of Innovation]]"
@@ -52,13 +52,16 @@ related_instruments: []
 related_persons:
   - "[[Mariana Mazzucato]]"
   - "[[Rainer Kattel]]"
+  - "[[Jerome E. Schnee]]"
+  - "[[John E. Tilton]]"
 related_facts:
   - "[[CERN]]"
   - "[[DARPA]]"
   - "[[National Institutes of Health]]"
   - "[[French Modernisation Commissions]]"
-  - "[[UN Sustainable Development Goals]]"
+  - "[[Fairchild Semiconductor]]"
   - "[[Brookings Institution]]"
+  - "[[UN Sustainable Development Goals]]"
 related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
@@ -66,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # Market Shaping and Creating
@@ -167,7 +170,7 @@ updated: 2026-10-04
 > 探讨国家如何在完全不存在民间商业需求的产业萌芽期，通过托底采购创造首发市场，并利用发包机制打破传统行业巨头垄断。
 
 > [!claim] [[Argument_Schnee_1978_RP|Schnee (1978)]]
-> **首发市场创设与竞争性结构重塑机制** 杰罗姆·E·施尼（Jerome E. Schnee）实证揭示，在 1962 年集成电路与 1954 年计算机商业化元年，联邦国防与空间采购包揽了 100% 的市场份额，直接从无到有创造了初始市场；更为关键的是，国防部坚持基于技术性能参数而非企业既往规模或声誉进行发包，将关键订单授予德州仪器、仙童半导体与 Transitron 等新创非电子管企业，使新创企业市场份额在十年内由 40% 跃升至 64%–69%，彻底打破了通用电气、美国无线电公司与雷神等老牌电子管巨头的垄断格局，通过支持激进进入者成功重塑了高度竞争的微电子产业生态。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–9)]]
+> **首发市场创设与竞争性结构重塑机制** [[Jerome E. Schnee|杰罗姆·E·施尼]]（Jerome E. Schnee）实证揭示，在 1962 年集成电路与 1954 年计算机商业化元年，联邦国防与空间采购包揽了 100% 的市场份额，直接从无到有创造了初始市场；更为关键的是，国防部坚持基于技术性能参数而非企业既往规模或声誉进行发包，将关键订单授予德州仪器、[[Fairchild Semiconductor|仙童半导体]]与 Transitron 等新创非电子管企业，使新创企业市场份额在十年内由 40% 跃升至 64%–69%，彻底打破了通用电气、美国无线电公司与雷神等老牌电子管巨头的垄断格局，通过支持激进进入者成功重塑了高度竞争的微电子产业生态。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–9)]]
 
 ---
 
@@ -187,7 +190,7 @@ updated: 2026-10-04
 
 > [!dev-timeline] 市场塑造概念演进历程
 > - **1920s–1950s — [[Market Failure|市场失灵]]与福利经济学确立** 庇古（Pigou）、萨缪尔森（Samuelson）与阿罗（Arrow）建立市场失灵理论，将公共干预严格限定于弥补外部性、提供公共品及信息不对称范畴。
-> - **1970s — 战后高科技市场创造与结构重塑实证奠基** 施尼（[[Argument_Schnee_1978_RP|Schnee, 1978]]）与蒂尔顿（Tilton, 1971）基于半导体与计算机产业的长时序研究，首次确立了联邦机构通过 100% 首发采购托底从无到有创造市场、释放微观[[Learning Economy|学习经济]]并扶植新进入者打破传统垄断的“市场创造与塑造”实证原型。
+> - **1970s — 战后高科技市场创造与结构重塑实证奠基** [[Jerome E. Schnee|施尼]]（[[Argument_Schnee_1978_RP|Schnee, 1978]]）与[[John E. Tilton|蒂尔顿]]（Tilton, 1971）基于半导体与计算机产业的长时序研究，首次确立了联邦机构通过 100% 首发采购托底从无到有创造市场、释放微观[[Learning Economy|学习经济]]并扶植新进入者打破传统垄断的“市场创造与塑造”实证原型。
 > - **1980s–1990s — [[Evolutionary Economics|演化经济学]]与[[Systems of Innovation|创新系统]]崛起** 弗里曼（Freeman）、伦德瓦尔（Lundvall）与纳尔逊（Nelson）提出国家创新系统理论，指出系统失灵（System Failures）与机构协同的重要性。
 > - **2013–2016 — 市场塑造与共创[[Paradigm|范式]]奠基** [[Mariana Mazzucato|玛丽安娜·马祖卡托]]系统阐发企业型国家理论，正式提出市场塑造与市场共创概念，倡导从被动修补转向主动创造。
 > - **2018 — 融入使命导向政策全流程与[[Public Dynamic Capabilities|公共动态能力]]综合** [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]将市场塑造[[Operationalization|操作化]]为四层使命金字塔与风险收益对称工具；[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]进一步将市场塑造确立为使命政策的两大支柱之一，并论证其依赖于国家政治合法性、政策协同组合与行政流动性三层公共动态能力以及[[Lead-and-Learn Paradigm|引领与学习范式]]。
@@ -237,6 +240,6 @@ updated: 2026-10-04
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 系统论证市场塑造与共创[[Paradigm|范式]]在应对重大社会挑战中的核心机制，提出超越[[Market Failure|市场失灵]]的[[Public Value|公共价值]]与评估框架。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 将市场塑造确立为使命政策两大支柱之一，论证其依托需求侧战略采购拉动技术外溢的机制，并提出三层[[Public Dynamic Capabilities|公共动态能力]]与[[Lead-and-Learn Paradigm|引领与学习范式]]作为制度保障。
-> - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统评估美国空间与国防项目对半导体和计算机等高科技产业的需求侧塑造机制，实证揭示早熟集成电路 100% 采购托底如何创造初始市场、释放 20%–30% 的学习经济效应并扶植新进入者重塑竞争性格局。
+> - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统评估美国空间与国防项目对半导体和计算机等高科技产业的需求侧塑造机制，实证揭示早熟集成电路 100% 采购托底如何创造初始市场、释放 20%–30% 的[[Learning Economy|学习经济]]效应并扶植新进入者重塑竞争性格局。
 
 

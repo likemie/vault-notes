@@ -20,6 +20,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Emergence]]"
+  - "[[Communities of Practice]]"
   - "[[Fourth Generation University]]"
   - "[[Research Translation]]"
   - "[[Grand Challenges]]"
@@ -44,7 +45,7 @@ title: "Argument_LernerLam_2025_TransdisciplinaryExecutiveEd"
 argument_key: "Argument_LernerLam_2025_TransdisciplinaryExecutiveEd"
 argument_display_title: "Innovating for Curricular Complexity: Executive Education for Transdisciplinary Challenges"
 argument_kind: "book"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"
@@ -113,7 +114,7 @@ citation_aliases:
 
 7. **维度三：解决方案导向**。产业的兴趣不仅在于理解问题，更在于寻找解决方案。然而解决方案本身随新知识和新技术的[[Emergence|涌现]]而快速演变。课程设计者应按照方案的采用时间框架组织内容，区分近期可行、中期可行和长期可行的策略，同时纳入不同解决方案实现预期目标的实际效果证据(p.160)。课程无法提供标准答案，但可以提供决策框架，帮助企业根据自身行业背景、区位条件、客户结构和监管环境做出判断。
 
-8. **维度四：政策动态**。政策环境的变化——包括国内和国际法律、监管框架和地缘政治变动——对产业伙伴的运营有直接影响。联合国气候变化框架公约下的年度缔约方会议（COP）设定排放目标，这些目标转化为各国的国家政策与部门法规。企业在全球运营中需要面对不同国家和区域的政策差异以及跨境调整机制。地缘政治的突然转向可以在几周内改变一个产业的市场环境。讲授气候科学的教授通常无法覆盖政策维度的讨论，课程需要引入法律和公共政策领域的专家(p.160)。
+8. **维度四：政策动态**。政策环境的变化——包括国内和国际法律、监管框架和地缘政治变动——对产业伙伴的运营有直接影响。联合国气候变化框架公约下的年度缔约方会议（[[Communities of Practice|CoP]]）设定排放目标，这些目标转化为各国的国家政策与部门法规。企业在全球运营中需要面对不同国家和区域的政策差异以及跨境调整机制。地缘政治的突然转向可以在几周内改变一个产业的市场环境。讲授气候科学的教授通常无法覆盖政策维度的讨论，课程需要引入法律和公共政策领域的专家(p.160)。
 
 ---
 

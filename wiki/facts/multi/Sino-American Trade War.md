@@ -10,7 +10,7 @@ subtype: event
 region: multi
 fact_region: "multi"
 fact_kind: "event"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -38,6 +38,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[US-China Economic and Security Review Commission]]"
+  - "[[Made in China 2025]]"
   - "[[China Integrated Circuit Industry Investment Fund]]"
   - "[[Thousand Talents Program]]"
   - "[[CHIPS and Science Act]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # Sino-American Trade War
@@ -64,7 +65,7 @@ updated: 2026-10-04
 
 > [!event-context] 历史背景与制度溯源
 > - **爆发节点** 2018 年 3 月美国总统特朗普签署对华 301 调查备忘录，2018 年 7 月美方正式对首批 340 亿美元中国商品加征 25% 惩罚性关税。
-> - **制度前史** 伴随美中经济与安全审议委员会（[[US-China Economic and Security Review Commission|USCC]]）的持续关注，美方指控中国存在强迫[[Technology Transfer|技术转让]]、知识产权侵权、巨额产业补贴（如《中国制造2025》及[[China Integrated Circuit Industry Investment Fund|国家大基金]]）等非市场扭曲行为。
+> - **制度前史** 伴随美中经济与安全审议委员会（[[US-China Economic and Security Review Commission|USCC]]）的持续关注，美方指控中国存在强迫[[Technology Transfer|技术转让]]、知识产权侵权、巨额产业补贴（如《[[Made in China 2025|中国制造2025]]》及[[China Integrated Circuit Industry Investment Fund|国家大基金]]）等非市场扭曲行为。
 > - **争端性质演进** 2018 年 3 月底，美方与欧韩等盟友的关税争端达成和解或豁免，明确将战略竞争目标单一锁定于中国，贸易争端迅速从单纯货物贸易逆差平衡演进为全维度的科技脱钩与系统性对抗。[[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 78)]]
 
 ---

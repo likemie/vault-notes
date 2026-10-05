@@ -7,7 +7,7 @@ title: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_key: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_display_title: "The Modernist Beginnings of Comparative Education: The Proto-Scientific and The Reformist-meliorist Administrative Motif"
 argument_kind: "book-chapter"
-argument_related_count: 73
+argument_related_count: 74
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -106,6 +106,7 @@ related_facts:
   - "[[Report on the State of Public Instruction in Prussia]]"
   - "[[Report on Elementary Public Instruction in Europe]]"
   - "[[National Education in Europe]]"
+  - "[[ESPRIT]]"
   - "[[Revue encyclopédique]]"
   - "[[Education for All]]"
   - "[[Common School Movement]]"
@@ -266,7 +267,7 @@ updated: 2026-10-01
 实证派的严苛批判实质上陷入了辉格史的时代倒错：它强行以 20 世纪逻辑实证主义公理（命题检验、[[Variable|变量]]回归、价值中立）裁量 19 世纪初启蒙现代性的知识构想。思想史考掘揭示出朱利安的准实证科学深深植根于欧陆人文科学传统：
 
 > [!theory-stance] 欧陆人文科学（Sciences Humaines）传统对实证指责的认识论反驳
-> - **科学范畴的历史情境性** 实证派无视“科学”概念的历史演化；罗伯特·帕尔默（R. R. Palmer, 1993）考证，朱利安将科学宽泛界定为人类心灵一切形式的理性精神活动（*toute activité de l'esprit*），涵盖道德哲学、政治经济与人文艺术。（pp.17–18）
+> - **科学范畴的历史情境性** 实证派无视“科学”概念的历史演化；罗伯特·帕尔默（R. R. Palmer, 1993）考证，朱利安将科学宽泛界定为人类心灵一切形式的理性精神活动（*toute activité de l'[[ESPRIT]]*），涵盖道德哲学、政治经济与人文艺术。（pp.17–18）
 > - **二级精神科学的知识定位** 朱利安 1819 年《人类知识总表》确立严格二元序列：一级科学研究自然物理与实用技术，二级科学研究人类心灵、道德与理智，教育学与历史、道德学并列归入二级精神科学。（Palmer, 1993:176–178; |Kaloyannaki & Kazamias, 2009, pp.17–18）
 > - **事实服务于伦理规范** 朱利安通过经验归纳与事实分类破除神学玄思，其技术化调查工具全面服从于服务全人道德教化与社会改良的启蒙伦理规范。（pp.12, 17）
 

@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Horizon Europe",
-      "path": "wiki/facts/eu/Horizon Europe.md"
+      "basename": "American Association for the Advancement of Science",
+      "path": "wiki/facts/us/American Association for the Advancement of Science.md"
+    },
+    {
+      "basename": "Argument_Fabrizio_Mowery_2005_REI",
+      "path": "wiki/arguments/journal-articles/Revue d'économie industrielle/Argument_Fabrizio_Mowery_2005_REI.md"
+    },
+    {
+      "basename": "DARPA",
+      "path": "wiki/facts/us/DARPA.md"
+    },
+    {
+      "basename": "Second-Sourcing",
+      "path": "wiki/concepts/science-policy/Second-Sourcing.md"
+    },
+    {
+      "basename": "Cold War University",
+      "path": "wiki/concepts/higher-education/Cold War University.md"
+    },
+    {
+      "basename": "Systems of Innovation",
+      "path": "wiki/theories/university-industry-collaboration/Systems of Innovation.md"
+    },
+    {
+      "basename": "General Purpose Technology",
+      "path": "wiki/concepts/economics/General Purpose Technology.md"
     },
     {
       "basename": "Argument_Brint_2023_IHE",
       "path": "wiki/arguments/journal-articles/International Higher Education/Argument_Brint_2023_IHE.md"
+    },
+    {
+      "basename": "Argument_Cheng_2026_KeJiChuangXin",
+      "path": "wiki/arguments/books/Cheng_2026_KeJiChuangXin/Argument_Cheng_2026_KeJiChuangXin.md"
+    },
+    {
+      "basename": "China S&T Innovation Policy Evolution",
+      "path": "wiki/facts/china/China S&T Innovation Policy Evolution.md"
+    },
+    {
+      "basename": "Research Universities",
+      "path": "wiki/concepts/higher-education/Research Universities.md"
+    },
+    {
+      "basename": "Made in China 2025",
+      "path": "wiki/facts/china/Made in China 2025.md"
+    },
+    {
+      "basename": "Horizon Europe",
+      "path": "wiki/facts/eu/Horizon Europe.md"
     },
     {
       "basename": "Modern Industrial Policy",
@@ -31,10 +75,6 @@
     {
       "basename": "Argument_Murphy_2026_JTS",
       "path": "wiki/arguments/journal-articles/Journal of Technology Studies/Argument_Murphy_2026_JTS.md"
-    },
-    {
-      "basename": "Research Universities",
-      "path": "wiki/concepts/higher-education/Research Universities.md"
     },
     {
       "basename": "CHIPS and Science Act",
@@ -159,46 +199,6 @@
     {
       "basename": "Technological Trajectories",
       "path": "wiki/theories/political-economy-geopolitics/Technological Trajectories.md"
-    },
-    {
-      "basename": "Corporate R&D Labs",
-      "path": "wiki/concepts/university-industry-collaboration/Corporate R&D Labs.md"
-    },
-    {
-      "basename": "Sematech",
-      "path": "wiki/facts/us/Sematech.md"
-    },
-    {
-      "basename": "Cost of Ownership",
-      "path": "wiki/concepts/university-industry-collaboration/Cost of Ownership.md"
-    },
-    {
-      "basename": "Industrial Benchmarking",
-      "path": "wiki/methods/quantitative/Industrial Benchmarking.md"
-    },
-    {
-      "basename": "Innovation Ecosystem",
-      "path": "wiki/concepts/university-industry-collaboration/Innovation Ecosystem.md"
-    },
-    {
-      "basename": "Total Quality Management",
-      "path": "wiki/concepts/educational-leadership-administration/Total Quality Management.md"
-    },
-    {
-      "basename": "Statistical Process Control",
-      "path": "wiki/methods/quantitative/Statistical Process Control.md"
-    },
-    {
-      "basename": "Patient Capital",
-      "path": "wiki/concepts/economics/Patient Capital.md"
-    },
-    {
-      "basename": "Sematech Centers of Excellence",
-      "path": "wiki/facts/us/Sematech Centers of Excellence.md"
-    },
-    {
-      "basename": "Argument_Grindley_1994_JPAM",
-      "path": "wiki/arguments/journal-articles/Journal of Policy Analysis and Management/Argument_Grindley_1994_JPAM.md"
     }
   ],
   "omittedPaths": [],

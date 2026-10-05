@@ -6377,6 +6377,15 @@
     ]
   },
   {
+    "title": "Cold War University",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Cold War University.md",
+    "aliases": [
+      "冷战大学",
+      "冷战大学体制"
+    ]
+  },
+  {
     "title": "Critic and Conscience of Society",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Critic and Conscience of Society.md",
@@ -6720,7 +6729,6 @@
     "path": "wiki/concepts/higher-education/Research Universities.md",
     "aliases": [
       "研究型大学",
-      "美国研究型大学",
       "研究型大学体制",
       "Research University",
       "US Research Universities"
@@ -31418,6 +31426,11 @@
     "title": "Argument_Sandoval_2016_RRE",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Review of Research in Education/Argument_Sandoval_2016_RRE.md"
+  },
+  {
+    "title": "Argument_Fabrizio_Mowery_2005_REI",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Revue d'économie industrielle/Argument_Fabrizio_Mowery_2005_REI.md"
   },
   {
     "title": "Argument_Kazanci_Tinmaz_Sezgin_2023_SO",

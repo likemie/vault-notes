@@ -79,7 +79,7 @@ updated: 2026-10-05
 > [!dev-timeline] 理论演进与跨领域应用
 > - **1996 — 经典科层线性八步法确立** 明确提出解冻期 3 步、推行期 3 步与固化期 2 步的严格顺序递进原则。
 > - **2014 — 双轨操作系统（Accelerate: Building Strategic Agility）修订** 面对数字化时代指数级不确定性，科特将八步法从单次线性转型升级为“传统科层架构 + 敏捷敏锐创新网络”并行的双轨系统。
-> - **2020s — 高等教育国家战略应急响应与学术组织变革** [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] 将科特理论运用于分析[[Research Universities|美国研究型大学]]如何响应《[[CHIPS and Science Act|芯片与科学法案]]》，阐明校领导层如何通过“设立 8 人跨领域战略专班 ➔ 绘制 10 大技术图谱营造紧迫感 ➔ 三级扩圈 ➔ 常态化挂牌实体半导体研究院”，完成高校跨学科科研组织的制度化变革。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–4)]]
+> - **2020s — 高等教育国家战略应急响应与学术组织变革** [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] 将科特理论运用于分析美国[[Research Universities|研究型大学]]如何响应《[[CHIPS and Science Act|芯片与科学法案]]》，阐明校领导层如何通过“设立 8 人跨领域战略专班 ➔ 绘制 10 大技术图谱营造紧迫感 ➔ 三级扩圈 ➔ 常态化挂牌实体半导体研究院”，完成高校跨学科科研组织的制度化变革。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–4)]]
 
 ---
 
