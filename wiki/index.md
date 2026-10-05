@@ -3225,7 +3225,7 @@ Total entries: **3181**
 > - [[Rising Above the Gathering Storm 2007]] — 2007 年美国国家科学院报告，重申基础与开放式研究投资的战略重要性，呼应 Vannevar Bush 的 Science, The Endless Frontier，强调科学与工程人才对美国经济未来的关键作用
 > - [[Rockland Community College IB Experiments]] — 1970年代中期洛克兰社区学院以海外学习和高中提前入学实验连接准文学士、国际文凭与大学转学，最终因学生支持、机构协调、生源变化和学校利益冲突而终止。
 > - [[SBIR and STTR Programs]] — 美国联邦政府设立的小企业创新研究（SBIR）和小企业技术转移（STTR）计划，要求产业代表直接参与项目并提供市场输入，是大学衍生企业获得非稀释性资助和早期市场验证的重要联邦渠道
-> - [[Science, The Endless Frontier 1945]] — 1945 年 Vannevar Bush 向美国总统提交的历史性科技政策报告，奠定战后美国联邦资助大学基础研究的制度底色，促成 NSF 成立，并制度化了基础/应用研究二分法与单向线性创新范式。
+> - [[Science, The Endless Frontier 1945]] — 1945 年 Vannevar Bush 向美国总统提交的划时代科技政策报告，确立二战后美国联邦资助大学基础研究的科学社会契约原型，促成 NSF 成立与多元分布式资助网络奠基，制度化了基础与应用研究二分法，并在当代面临从免检制度前提向待证命题的历史性转向。
 > - [[Smith Lever Act of 1914]] — 1914 年美国联邦立法，在赠地大学建立农业推广服务体系，以联邦资金直接支持农业产业的应用研究、教育和培训，是产学合作中连接研究与实际应用的早期制度模型
 > - [[Social Programs That Work]] — 阿诺德基金会（Arnold Ventures）维护的多领域非营利证据平台，以极高门槛著称，仅收录在真实世界中经严谨多中心RCT验证且低流失（<20%）的顶级项目。
 > - [[Social Science One]] — 哈佛大学量化社会科学研究所（IQSS）孵化的组织实施 [[King-Persily Model]]，通过独立学术委员会机制使学术研究者能够分析企业掌握的敏感数据以解决社会问题

@@ -7,7 +7,7 @@ summary: "美国电机工程师、科技管理者与战后科技政策奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 35
+person_related_count: 38
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -33,11 +33,13 @@ related_concepts:
   - "[[Soft-Money Faculty Model]]"
   - "[[Emergence]]"
   - "[[Technological Catch-up]]"
+  - "[[Technology-Oriented Social Contract]]"
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Pasteur's Quadrant]]"
   - "[[Discovery-Invention Cycle]]"
   - "[[Systems of Innovation]]"
+  - "[[Social Contract of Science]]"
 related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
@@ -61,6 +63,7 @@ related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
   - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Stephan_2013_NBER]]"
+  - "[[Argument_Fan_2026_BCAS]]"
 confidence: high
 status: active
 created: 2026-10-02
@@ -111,6 +114,7 @@ updated: 2026-10-05
 >   - **代表著作** *[[Science, The Endless Frontier 1945|Science, The Endless Frontier]]* (1945)。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
 >   - **关键概念／方法** 基础研究（[[Blue Skies Research|Basic Research]]）、应用研究（Applied Research）、科技蓄水池假说、国家科学基金会。
 >   - **阶段转向** 在政治游说中策略性地将纯求知的基础研究与商业化应用开发做严格切割，奠定了基础/应用二分法与单向线性模型的制度教条。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）在系统回顾中指出，这种单向线性[[Hypothesis|假设]]主导了二战后数十年的官方科技政策，但它系统性忽视了生产现场的“[[Learning by Doing|干中学]]”（[[Learning by Doing]]）、渐进工程微调、以及反向由市场和工业实践驱动基础研究的双向反馈互动。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11)]]
+> - **2025 年起 — 布什契约的制度性“退出”与历史重组** 樊春良（2026）系统考察指出，2025 年标志着美国科技政策在实践中启动对布什战后“科学社会契约”的退出；“无止境的边疆”从免检的制度性前提退化为需要持续证明即时回报的待正当化命题，国家治理逻辑发生从“以科学为中心的认知契约”向“以能力为中心的技术型契约”的结构性位移。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1063–1064)]]
 
 ---
 
@@ -118,6 +122,12 @@ updated: 2026-10-05
 
 > [!claim] 核心主张
 > 基础科学研究是国家技术进步与经济繁荣的源头蓄水池；基础研究的本质特征在于完全不追求任何具体实际目标与商业应用，必须赋予科研人员绝对的学术探索自由；联邦政府的核心职责是提供稳定且无干预的财政经费保障高校纯基础研究，而应用转化与工业开发则应当完全交由私营市场自发完成。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
+>
+> 樊春良（2026）进一步将布什报告提炼为支撑二战后美国科研体制得以稳定运行的三大制度性承诺：
+> 1. **国家对基础研究长期战略价值的默认信任（Default Trust in Long-Term Strategic Value）**；
+> 2. **对科研探索不确定性与失败的时间容忍（Temporal Tolerance for Uncertainty and Failure）**；
+> 3. **对科学无需持续证明即时用途的制度自治保障（Institutional Autonomy Guaranteeing Freedom from Immediate Justification）**。
+> 这三项承诺使“无止境的边疆”超越了自然地理的修辞隐喻，升华为规约国家与科学关系的制度契约宪章。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1063)]]
 
 > [!citation-card] 布什论基础科学作为国家创新的活水之源
 > 基础研究是在完全不考虑实际用途的情况下开展的。它产生的是一般性的知识以及对自然及其规律的深刻理解。这种普遍性知识提供了解答大量重要实用问题的方法，尽管它本身可能无法为其中任何一个问题给出完整的最终答案。基础研究就是科技资本的源泉，是所有技术进步的活水之源。
@@ -136,6 +146,7 @@ updated: 2026-10-05
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统反思并批判[[Science, The Endless Frontier 1945|布什报告]]在战后制度化的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]，揭示其深植于西方贬低动手制作的文化偏见，论证该线性[[Hypothesis|假设]]已成为阻碍当代美国国家创新政策演进的体制障碍。
 > - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 从[[Evolutionary Economics|演化经济学]]与[[National Innovation System|国家创新系统]]视角系统解构布什的线性模型；指出过度迷信研发投入总额与诺贝尔奖级基础研究是战后英美与苏联的核心误区，而战后日本与东亚后发经济体正是通过打通车间质量控制（[[Total Quality Management|全面质量管理]]）、持续工艺改性与逆向工程反馈，突破了布什线性模型的理论遮蔽。
+> - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 系统剖析布什《科学——无止境的边疆》所确立的三大制度性承诺，揭示 2025 年起美国科技政策实践启动对布什契约的退出、以及向技术能力导向型契约的深刻转型。
 
 ---
 
@@ -147,6 +158,7 @@ updated: 2026-10-05
 > - **当代科技创新批判者** [[Venkatesh Narayanamurti|文卡泰什·纳拉亚纳穆尔提]]（Venkatesh Narayanamurti） — 2013 年撰文宣告布什二分法终结，提出[[Discovery-Invention Cycle|发现-发明循环]]理论以取代布什的单向流水线假说。
 > - **高校科研契约反思者** [[Paula Stephan|保拉·斯蒂芬]]（Paula Stephan） — 2013 年系统考察战后大学对布什契约的能动改造与异化，揭示布什关于高风险容错、独立学生奖学金与学科均衡设想的迷失。
 > - **演化[[Systems of Innovation|创新系统]]批判者** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman） — 1995 年从历史与演化视角剖析布什线性模型与单纯研发指标的盲区，提出包含组织变革、工艺学习与制度互补的[[National Innovation System|国家创新系统]]理论。
+> - **科学社会契约演化论者** [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从科学社会契约五维框架考察战后布什范式的兴衰，指出 2025 年起“无止境的边疆”制度性承诺瓦解与技术型社会契约的结构性替代。
 > - **核心关联文本与机构** [[Science, The Endless Frontier 1945]]、[[National Science Foundation|美国国家科学基金会]]（NSF）、[[Bell Labs|贝尔实验室]]。
 
 ---
@@ -172,3 +184,9 @@ updated: 2026-10-05
 > >
 > > - **线性供给驱动论（布什模型）** [[Hypothesis|假设]]科学发现是创新的根本源泉，研发支出总额及高水平科学家产出构成了国家创新能力的充分前提；只要持续向基础科学“蓄水池”注资，商业应用与经济红利将自然向产业下游顺流[[Emergence|涌现]]。
 > > - **演化创新系统论（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）** [[Chris Freeman|克里斯·弗里曼]]借助国际比较史揭示了布什假说的严重盲区：苏联在 1970 年代将高达 3.6% 的国民生产总值（GNP）投入研发、拥有全球最庞大的科学家与工程师队伍，但由于科研机构与民用工业彻底割裂、缺乏市场微观反馈与车间渐进创新，其民用产业陷入大面积停滞；相反，战后日本研发支出长期低于美苏，但依托工人的“[[Learning by Doing|干中学]]”（[[Learning by Doing]]）、[[Total Quality Management|全面质量管理]]、逆向工程以及[[Ministry of International Trade and Industry|通商产业省]]的产业网络协同，实现了跨越式[[Technological Catch-up|技术追赶]]。弗里曼论证，决定国家长期竞争力的是整个[[Systems of Innovation|创新系统]]内各制度支柱（教育、产业组织、研发与政府协调）的互动学习能力，而非孤立的研发经费规模。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11, 15–18)]]
+>
+> > [!axis] 制度性免检前提 vs 待正当化命题：后布什时代科技契约的结构性重组
+> > 争论“无止境的边疆”是否仍能作为国家科技体系的默认基石，还是必须让位于以技术能力为核心的国家竞争契约。
+> >
+> > - **布什主义制度坚守派** 强调二战后美国八十年的科技霸权充分证明，长期稳定支持基础研究、保持学术自治与时间容忍是国家原始创新力的根本源泉，抛弃布什传统将严重损害长远国家竞争力。
+> > - **技术型契约与现实主义重塑派（[[Argument_Fan_2026_BCAS|樊春良, 2026]]）** 指出在当前激烈的大国地缘博弈与重大危机情境下，传统布什契约赖以维系的默认信任与时间容忍已不可逆转地被打破；国家追求速度、控制力与可审计结果的偏好催生了技术型社会契约，促使科学从国家的“认知中枢”降格为技术能力体系的“组成要素”，“无止境的边疆”不可避免地由免检的制度性前提退化为需要持续在政治与经济法庭上自证效用的待正当化命题。

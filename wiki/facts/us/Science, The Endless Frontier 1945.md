@@ -6,15 +6,15 @@ aliases:
   - Vannevar Bush report
   - 无尽的前沿
   - 布什报告
-summary: "1945 年 Vannevar Bush 向美国总统提交的历史性科技政策报告，奠定战后美国联邦资助大学基础研究的制度底色，促成 NSF 成立，并制度化了基础/应用研究二分法与单向线性创新范式。"
+summary: "1945 年 Vannevar Bush 向美国总统提交的划时代科技政策报告，确立二战后美国联邦资助大学基础研究的科学社会契约原型，促成 NSF 成立与多元分布式资助网络奠基，制度化了基础与应用研究二分法，并在当代面临从免检制度前提向待证命题的历史性转向。"
 type: fact
 subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 28
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 32
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - region/us
@@ -37,7 +37,10 @@ related_concepts:
   - "[[Long-Term Public Utility]]"
   - "[[PhD Overproduction in Science]]"
   - "[[Doxa]]"
+  - "[[Technology-Oriented Social Contract]]"
+  - "[[Research Security]]"
 related_theories:
+  - "[[Social Contract of Science]]"
   - "[[Pasteur's Quadrant]]"
   - "[[Discovery-Invention Cycle]]"
   - "[[Systems of Innovation]]"
@@ -49,6 +52,8 @@ related_persons:
 related_facts:
   - "[[Office of Scientific Research and Development]]"
   - "[[National Science Foundation]]"
+  - "[[Office of Naval Research]]"
+  - "[[National Institutes of Health]]"
   - "[[MIT Radiation Laboratory]]"
   - "[[OECD]]"
   - "[[Frascati Manual]]"
@@ -58,8 +63,8 @@ related_arguments:
   - "[[Argument_Caraca_2009_TFSC]]"
   - "[[Argument_Stephan_2013_NBER]]"
   - "[[Argument_Fan_2026_BCAS]]"
-confidence: medium
-status: draft
+confidence: high
+status: completed
 created: 2026-05-26
 updated: 2026-10-05
 ---
@@ -71,7 +76,7 @@ updated: 2026-10-05
 ## 背景与历史成因
 
 > [!claim] 核心定性
-> 《科学：无尽的前沿》（*Science, The Endless Frontier*）是美国[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（Office of Scientific Research and Development, OSRD）主任[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）于 1945 年 7 月向哈里·S·杜鲁门总统提交的划时代科技政策报告。该报告构成了二战后美国联邦研发资助体制的基石宪章，直接催生了国家科学基金会（[[National Science Foundation]], NSF），并在制度上固化了[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]与单向[[Linear Model of Innovation|线性创新模型]]。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
+> 《科学：无止境的前沿》（*Science, The Endless Frontier*）是美国[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（Office of Scientific Research and Development, OSRD）主任[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）于 1945 年 7 月向哈里·S·杜鲁门总统提交的划时代科技政策报告。该报告构成了二战后美国国家科研资助体制的基石宪章与[[Social Contract of Science|科学社会契约]]原型，确立了“政府出资、科学自治与长期公共回报”的三位一体互惠共生体制，催生了国家科学基金会（[[National Science Foundation]], NSF）与多元分布式资助网络，并在认识论与政策分类上制度化了[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]与单向[[Linear Model of Innovation|线性创新模型]]。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1944 年 11 月（罗斯福总统致信垂询）至 1945 年 7 月（正式提交报告），美国华盛顿特区。
@@ -83,11 +88,13 @@ updated: 2026-10-05
 
 ## 发展经过与演变阶段
 
-> [!dev-timeline] 报告编制与战后体制博弈历程
-> - **1944–1945 — 报告调研与起草** [[Vannevar Bush|万尼瓦尔·布什]]组织四个独立专门委员会（医学研究、自然科学资助、人才发现、战时知识解密）开展高强度起草；1945 年 7 月将报告正式呈交继任总统杜鲁门。
-> - **1945–1950 — 五年立法博弈与阵营对决** 布什主张设立由非政府科学家独立掌控的半自治基金会，而杜鲁门及其行政团队坚持总统任免权与公众民主监督问责，导致杜鲁门于 1947 年否决了第一版法案。1950 年双方达成妥协，杜鲁门签署法案，正式成立[[National Science Foundation|美国国家科学基金会]]（[[National Science Foundation|NSF]]）。
-> - **1950s–1980s — [[Paradigm|范式]]扩散与机构分工固化** 二分法与线性范式成为联邦预算编制的黄金法则；国家科学基金会专司大学基础科学资助，而国防部、能源部与航空航天局等任务机构则在基础研究与应用技术攻坚的边界上持续经历体制拉扯。
-> - **1990s至今 — 系统性反思与范式重构** 唐纳德·斯托克斯（1997）提出[[Pasteur's Quadrant|帕斯德象限]]以修正其动机单维性；纳拉亚纳穆尔提等人（2013）进一步从演化网络与工程使能视角宣告二分法终结，倡导走向[[Discovery-Invention Cycle|发现-发明循环]]模型。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
+> [!dev-timeline] 报告编制与战后契约演变历程
+> - **1944–1945 — 战时动员与报告起草呈递** [[Vannevar Bush|万尼瓦尔·布什]]组织四个独立专门委员会（医学研究、自然科学资助、人才发现、战时知识解密）开展高强度起草；1945 年 7 月将纲领性报告《科学——无止境的边疆》呈交继任总统杜鲁门，将战时研发合同经验升华为和平时期的国家科学资助蓝图。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1057–1058)]]
+> - **1945–1950 — 五年立法博弈与多元分布式资助网络奠基** 布什主张设立由非政府科学家独立掌控的半自治基金会，而杜鲁门行政团队坚持总统任免权与公众民主监督问责，杜鲁门于 1947 年否决首版法案。在立法僵局期间，美国原子能委员会（AEC）、[[Office of Naval Research|美国海军研究办公室]]（ONR）与[[National Institutes of Health|美国国立卫生研究院]]（NIH）先行启动大学科研资助，直至 1950 年双方妥协成立[[National Science Foundation|美国国家科学基金会]]（NSF），形成了多机构并行的分布式资助网络。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
+> - **1950s–1980s — 冷战安全驱动下的契约黄金期与二分法范式固化** 美苏对抗将国家安全确立为资助科学的统摄性合法性来源，科学家精英通过总统科学顾问委员会（PSAC）直接参与最高国策；1957 年苏联人造卫星危机后迎来经费高速增长的“黄金十年”，二分法与单向线性范式成为联邦预算编制的黄金法则。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1058–1059)]]
+> - **1990s–2000s — 冷战终结、赤字攀升与巴斯德象限的再签约妥协** 安全红利消退与财政紧缩迫使科学共同体回应经济回报与社会问责诉求；唐纳德·斯托克斯（1997）提出[[Pasteur's Quadrant|巴斯德象限]]，确立[[Use-Inspired Basic Research|应用启发的基础研究]]合法性，科学从被默认信任的自治体系转向竞争性项目自证。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
+> - **2010–2024 — 刚性绩效问责、更广泛影响与科研安全壁垒** 《政府绩效与成果法案现代化法案》（GPRAMA）出台与 NSF 刚性化“更广泛的影响”（Broader Impacts）评审门槛，叠加生物医学可重复性危机；拜登政府推动《芯片与科学法案》与[[Research Security|科研安全]]全面法定化，终结了基础科学无需自证的免检地位。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060–1061)]]
+> - **2025–至今 — 从制度前提沦为待证命题与技术型社会契约替代** 2025 年起美国政府转向以国家绝对安全和供应链主导为核心的再动员，动用行政扣留（impoundment）冻结非优先学科并发布《恢复黄金标准的科学》行政令，科学由认知中心转向技术能力要素，无止境边疆从免检制度前提退化为待证命题。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1064)]]
 
 ---
 
@@ -98,15 +105,21 @@ updated: 2026-10-05
 >
 > *"[[Blue Skies Research|Basic Research]] is the pacemaker of technological progress... New products and new processes do not appear full-grown. They are founded on new principles and new conceptions, which in turn are painstakingly developed by research in the purest realms of science."*
 
-> [!theory-components] 布什报告对战后国家科学资助设想的四大支柱命题 [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–36)]]
-> - **支持科学而非直接行政干预**
->   国家科学政策的核心使命在于为科学共同体探索提供资源保障，而非由政府对科学的具体应用进行微观行政管制，除非涉及国防安全等宪法明确规定的国家核心事务。
-> - **以纯基础研究为联邦公共资助首要重心**
->   除国防技术之外，联邦公共资金资助科学的首要重点必须是纯基础研究，以此作为知识蓄水池和催生技术进步与工业创新的根本引擎。
-> - **立项评审严格遵从科学家共同体内部规范**
->   科研立项与经费分配必须严格依照学术共同体的内部准则，由独立科学家同行进行公正评议，坚决排斥非专业官僚的行政指挥。
-> - **确立[[Research Universities|研究型大学]]在国家[[Systems of Innovation|创新系统]]中的核心战略地位**
->   由于基础研究以大学为主要阵地，且高层次研究生与青年学者的培育唯一依托于大学实验室，资助基础研究必然要求将研究型大学置于国家科学技术体系的战略核心。
+> [!theory-components] 布什报告的核心思想支柱与三大制度性承诺 [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1058, 1063)]]
+> - **核心指导思想三支柱（Foundational Pillars）**
+>   - 知识驱动公共利益：持续产生新科学知识是保障国家安全、国民健康与社会福利的根本源泉；
+>   - 基础研究源头地位：基础研究是一切应用与技术创新的发源地，成果终将通过多样链条转化为社会公共利益；
+>   - 专业自治免受政治干涉：科学共同体必须维持学术自主权与探索自由，防止受到短期政治目标或特定利益集团的随意干预。
+> - **三大制度性承诺（Three Institutional Commitments）**
+>   - 国家对基础研究长期价值的默认信任（Default trust in long-term strategic value）；
+>   - 对科研探索不确定性与失败的时间容忍（Temporal tolerance for uncertainty and exploratory failure）；
+>   - 对科学无需持续证明即时用途的制度自治保障（Institutional autonomy without constant proof of immediate utility）。
+
+> [!theory-components]- 战后国家科学资助架构的四大运行准则 [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–36)]]
+> - **支持科学而非直接行政干预** 国家政策在于提供资源保障而非微观行政管制。
+> - **以纯基础研究为联邦公共资助首要重心** 除国防技术外，以基础科学为知识蓄水池。
+> - **立项评审严格遵从科学家共同体内部规范** 依照学术共同体内部同行评议准则，排斥行政官僚指令。
+> - **确立[[Research Universities|研究型大学]]在国家创新体系中的核心战略地位** 基础研究与高层次研究生教育在大学实验室深度共生。
 
 ---
 
@@ -139,9 +152,11 @@ updated: 2026-10-05
 
 > [!finding-cards] 关键历史后果
 > - **制度创生：[[National Science Foundation|NSF]] 与现代大学研究体系** 1950 年正式创建国家科学基金会；推动大学研究型实验室形成全球最具规模的基础科学探索网络，为大学-政府-产业三螺旋的形成奠定财政基座。
+> - **制度承载：多元分布式资助网络的确立** 布什设想的中央科学基金虽经历立法博弈妥协，但其倡导的契约逻辑最终被嵌入由原子能委员会（AEC）、[[Office of Naval Research|海军研究办公室]]（ONR）、[[National Institutes of Health|国立卫生研究院]]（NIH）与 [[National Science Foundation|NSF]] 共同构成的分布式资助网络，避免了单一行政中枢对学术探索的垄断。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **话语规制：二分法成为全球政策标准** [[OECD|经济合作与发展组织]]（[[OECD]]）等国际组织在其《[[Frascati Manual|弗拉斯卡蒂手册]]》（*Frascati Manual*）中全面吸收布什报告的基础/应用划分，成为全球统计研发投入的通用准绳。
 > - **政策反思：[[Pasteur's Quadrant|帕斯德象限]]与循环理论的反向重构** 促使当代科技政策界发起长达数十年的反思运动，直接催生了斯托克斯的用启发性基础研究概念以及纳拉亚纳穆尔提等人的[[Discovery-Invention Cycle|发现-发明循环]]理论。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862–863)]]; [[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–33)]]
 > - **意外后果：大学微观激励异化与体制压力** 布什关于高风险容错、独立学生奖学金与学科均衡发展的三大核心设想在大学后续的主动改造中被逐步侵蚀，演变为软钱模式、博士用工依赖与生物医学过度集中。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 37)]]
+> - **当代规范位移：从免检制度前提退化为待证命题** 2025 年前后，支撑无止境边疆的默认信任、时间容忍与自治保障面临全面调整；基础研究探索由[[Doxa|不言自明]]的免检制度前提，退化为必须频繁接受政治审计与经济可验证性考核的待正当化命题。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1063–1064)]]
 
 > [!stat-cards]- 历史量化事实
 > - **$345M vs $288.4B** 1940 年战前全美 R&D 总支出（折合 2000 年不变价 37.5 亿美元）与 2004 年全美 R&D 总支出（2000 年不变价 2,884 亿美元），反映战后联邦契约驱动下的体量巨变。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 33–34)]]
