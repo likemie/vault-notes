@@ -8,7 +8,7 @@ aliases:
 summary: "以 Nelson & Winter（1982）为奠基的经济学流派，将经济变迁视为多样性变异、组织惯例学习、路径依赖与动态选择的演化过程；批判新古典静态均衡假设，为技术轨迹、创新系统、公共动态能力与引领和学习范式提供底层理论基石"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 59
+theory_related_count: 62
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -45,11 +45,13 @@ related_concepts:
   - "[[Document]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Complexity Paradox]]"
+  - "[[Embedded Autonomy]]"
   - "[[Computer Simulation]]"
   - "[[Picking the Willing]]"
   - "[[Performance Indicators]]"
   - "[[Cognitive Deskilling]]"
   - "[[Network Governance]]"
+  - "[[Modern Industrial Policy]]"
   - "[[Active Learning]]"
   - "[[Wicked Problem]]"
   - "[[Innovation Policy Paradigms]]"
@@ -83,10 +85,11 @@ related_arguments:
   - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Pavitt_1984_RP]]"
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
+  - "[[Argument_Reynolds_2024_JICT]]"
 confidence: high
 status: draft
 created: 2026-06-10
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Evolutionary Economics
@@ -257,6 +260,7 @@ updated: 2026-10-05
 > - **国家[[Systems of Innovation|创新系统]]（[[National Innovation System|NIS]]）治理** Lundvall（1992）与 Nelson（1993）将演化视角落地为对大学、企业、政府与中介机构间网络交互与制度适配性的诊断，推动政策从资助单一主体转向修补系统失灵。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 29–31)]]
 > - **[[Mission-Oriented Innovation Policy|使命导向创新政策]]与 ROAR 框架** [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] 将演化经济学发展为应对重大社会挑战的操作工具，建立涵盖战略路径（Routes）、组织能力（Organizations）、动态评估（Assessment）与风险收益共享（Risks and rewards）的系统工具箱。
 > - **公共部门三层动态能力矩阵与敏捷实验治理** [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] 将演化经济学的动态能力逻辑拓展至公共管理，建立国家政治愿景、跨部门政策组合与行政敏捷团队三层操作化分析构架，为公共机构打破条块分割、开展[[Randomised Controlled Trials|随机对照试验]]（RCT）与以人为本的服务设计提供指导。（pp. 795–798）
+> - **21 世纪现代产业战略过程准则与实验治理** [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] 将演化经济学关于组织惯例学习、试错搜寻与动态能力的洞见转化为指导国家产业政策执行的“七项过程准则”（Seven Process Criteria），强调通过[[Embedded Autonomy|嵌入式自主性]]、跨部门敏捷协调、公私协同共创与动态政策迭代应对激进技术与地缘不确定性。（pp. 6–9）
 > - **长波[[General Purpose Technology|通用技术]][[Paradigm|范式]]与制度调适评估** [[Argument_Freeman_1995_CJE|Freeman (1995)]] 与 Freeman & Perez（1988）将演化经济学操作化为分析工业革命中通用技术扩散与国家制度适配性的长波历史分析工具，为诊断技术超前与制度滞后之间的结构性矛盾提供指南。（pp. 17–19）
 
 ---
@@ -301,6 +305,7 @@ updated: 2026-10-05
 > | [[Three Generations of Mission-Oriented Policy]] | 理论 | 演化经济学在使命政策历史演变与治理形态变迁上的理论总结。 |
 > | [[ROAR Framework]] | 理论 | 演化经济学在使命导向公共政策领域的四大操作化支柱。 |
 > | [[Market Shaping and Creating]] | 概念 | 演化经济学打破市场失灵修补[[Hypothesis\|假设]]、确立国家主动引领的核心范式。 |
+> | [[Modern Industrial Policy]] | 概念 | 演化经济学在 21 世纪国家产业战略、韧性重构与实验治理中的前沿实践。 |
 > | [[Public Dynamic Capabilities]] | 概念 | 将演化企业动态能力拓展至公共部门的三层制度能力构件。 |
 > | [[Lead-and-Learn Paradigm]] | 概念 | 演化经济学指导公共创新政策治理的[[Active Learning\|主动学习]]与适应范式。 |
 > | [[Mission-Oriented Innovation Policy]] | 概念 | 演化经济学在应对21世纪[[Wicked Problem\|复杂社会难题]]时的具体政策范式。 |
@@ -313,7 +318,9 @@ updated: 2026-10-05
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 从经济思想史与演化经济学长波视角考证[[Friedrich List|李斯特]][[Intellectual Capital|知识资本]]渊源，以德英美日苏韩巴长周期比较论证技术差距、企业研发建制化与制度多样性试错对后发赶超与打破路径锁定的决定性作用。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 综合演化动态能力与韦伯国家能力，提出三层[[Public Dynamic Capabilities|公共部门动态能力]]分析矩阵与引领和学习治理[[Paradigm|范式]]。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 将演化经济学推进为超越[[Market Failure|市场失灵]]修补的主动[[Market Shaping and Creating|市场塑造]]理论与 ROAR 政策[[Analytic Framework|分析框架]]。
+> - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 阐释演化经济学在 21 世纪美国现代产业战略中的制度实践，提炼保障产业政策有效落地与组织动态适应的七项过程准则。
 > - [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]] — 基于大样本微观数据实证检验微观[[Heterogeneity|异质性]]常态与 Pavitt 四大[[Technological Trajectories|技术轨迹]]。
 > - [[Argument_Pavitt_1984_RP|Pavitt (1984)]] — 提出塑造技术轨迹的三大核心要素，奠定演化经济学中观产业分类学的经典基石。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 梳理演化经济学与[[Innovation Policy Paradigms|创新政策三范式]]演进脉络，分析国家[[Systems of Innovation|创新系统]]中大学角色的转变。
+
 

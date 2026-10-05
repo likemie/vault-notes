@@ -7,10 +7,10 @@ aliases:
 summary: "新古典福利经济学核心概念，指由于公共品、外部性、信息不对称与不完全竞争导致自由市场价格机制无法实现帕累托最优资源配置；在科技政策中构成了传统研发资助与产业政策（集聚外部性、干中学效应）的基准依据，但在演化经济学与当代地缘政治产业政策实践中，该框架因无法指引演化方向并被国家安全与供应链保险动机所超越，成为理论反思与扩展的核心对象。"
 type: concept
 domain: "science-policy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 34
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/economics
   - concept/science-policy
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Market Shaping and Creating]]"
   - "[[Tilting the Playing Field]]"
   - "[[Patient Capital]]"
+  - "[[Public Value]]"
   - "[[Grand Challenges]]"
 related_theories:
   - "[[Evolutionary Economics]]"
@@ -43,21 +44,25 @@ related_persons:
   - "[[Rainer Kattel]]"
   - "[[Richard Nelson]]"
 related_facts:
+  - "[[Infrastructure Investment and Jobs Act]]"
+  - "[[International Reading Association]]"
   - "[[VLSI Project]]"
   - "[[Sematech]]"
   - "[[CHIPS and Science Act]]"
   - "[[European Chips Act]]"
+  - "[[Inflation Reduction Act]]"
   - "[[Government Digital Service]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Bown_2024_JEP]]"
+  - "[[Argument_Reynolds_2024_JICT]]"
 related_methods:
   - "[[Cost-Benefit Analysis]]"
   - "[[Correlational Research]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Market Failure
@@ -176,14 +181,27 @@ updated: 2026-10-05
 
 ---
 
+---
+
+### 命题四　现代产业战略超越微观市场失灵框架而以系统性产业转型与公共价值为核心导向
+
+> [!concept-lens] 产业政策[[Paradigm|范式]]从微观修补转向系统转型
+> 探讨 21 世纪产业政策为何突破传统新古典福利经济学仅针对特定外部性进行微观纠偏的狭隘视角，转向由国家战略引领的系统性生产能力重构与包容性增长。
+
+> [!claim] [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]
+> **超越微观市场失灵的现代产业战略** 传统美国经济政策将国家干预严格限制在新古典市场失灵的狭隘范畴（如研发知识外溢、环境污染税）；然而，数十年的去工业化、供应链地缘脆弱性、气候危机以及严重的区域经济极化证明，被动的市场失灵修补无法自发维系国家长期创新繁荣与社会凝聚力。拜登政府现代产业战略通过大规模立法（[[Infrastructure Investment and Jobs Act|IIJA]]、CHIPS、[[International Reading Association|IRA]]）将政策导向彻底拓展为系统性产业转型，强调通过设定国家战略目标、提供跨部门前瞻性公共投资与制度化附加条件，实现兼具供应链安全、清洁能源转型与高质量就业的综合[[Public Value|公共价值]]。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 1–3, 6)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 市场失灵相关理论命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **方向性缺失批判** | 市场失灵理论仅能修补供给不足，无法提供创新战略方向 | 使命导向科技政策、[[Grand Challenges\|社会大挑战]]转型治理 | [[Mariana Mazzucato\|Mazzucato]] & [[Rainer Kattel\|Kattel]] (2018) |
-> | **经典生产外部性依据** | 干中学效应与集聚外部性为高科技制造补贴提供效率合理性 | 半导体晶圆制造、高端装备与先导产业培育 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024)]] |
-> | **安全保险超越逻辑** | 现代政策动因超越市场失灵修补，主动以经济效率换取安全保险 | 地缘政治博弈、现代半导体产业政策、供应链韧性重组 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024)]] |
+> | **经典生产外部性依据** | 干中学效应与集聚外部性为高科技制造补贴提供效率合理性 | 半导体晶圆制造、高端装备与先导产业培育 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024, p. 83)]] |
+> | **安全保险超越逻辑** | 现代政策动因超越市场失灵修补，主动以经济效率换取安全保险 | 地缘政治博弈、现代半导体产业政策、供应链韧性重组 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024, p. 102)]] |
+> | **系统转型与公共价值** | 现代产业战略突破狭隘微观失灵界限，由国家设定方向驱动全系统能力重构 | 绿色能源转型、先进制造复兴与区域包容性增长 | [[Argument_Reynolds_2024_JICT\|Reynolds (2024, p. 3)]] |
 
 ---
 
@@ -193,7 +211,7 @@ updated: 2026-10-05
 > - **1950–1960年代 — 福利经济学基石确立** 弗朗西斯·巴托（Francis M. Bator, 1958）系统界定市场失灵解剖学；[[Richard Nelson|理查德·纳尔逊]]（Richard Nelson, 1959）与肯尼斯·阿罗（Kenneth Arrow, 1962）论证基础科研的公共品属性与知识溢出，确立国家研发补贴的合法性边界。
 > - **1980年代 — 战略性贸易与[[Learning by Doing|干中学]]扩展** 产业组织学者将动态规模经济、干中学学习曲线与[[Agglomeration Externalities|集聚外部性]]引入半导体等高科技产业分析，为美日欧产业政策提供了理论依据。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 83, 102)]]
 > - **2010年代 — [[Evolutionary Economics|演化经济学]]批判与超越** [[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）等学者批判市场失灵框架的消极被动性，倡导由“修补失灵”转向“主动塑造与创造市场”的使命导向[[Paradigm|范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
-> - **2020年代 — 地缘政治经济学范式转型** 查德·鲍恩（Chad P. Bown）与王丹（Dan Wang）等学者指出，面对大国博弈与供应链地缘风险，主要国家产业政策全面超越了市场失灵的经济效率范畴，进入以国家安全、去风险和技术封锁为主导的现代阶段。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 101–103)]]
+> - **2020年代 — 地缘安全与系统转型范式确立** 鲍恩与王丹（[[Argument_Bown_2024_JEP|Bown & Wang, 2024]]）指出大国半导体产业政策已超越效率修补演化为国家安全与供应链保险逻辑；雷诺兹（[[Argument_Reynolds_2024_JICT|Reynolds, 2024]]）进一步阐明现代产业战略以系统性产业转型（Industrial Transformation）取代狭隘的市场失灵修补，通过国家战略目标设定与过程准则推进经济与社会复合目标。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 101–103)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 1–3, 6)]]
 
 ---
 
@@ -227,7 +245,23 @@ updated: 2026-10-05
 > |---|---|---|---|---|---|
 > | 20世纪80年代美日半导体竞争 | [[Learning by Doing\|干中学]]良率爬坡壁垒、动态规模经济与知识外溢 | 产学研合作研发财团（如 [[VLSI Project]]、[[Sematech]]） | 成功分摊共性研发成本、加速制程技术扩散与良率提升 | 需依靠国内竞争与多方企业协同防范寻租锁定 | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, pp. 83–86)]] |
 > | 2020年代全球半导体产业政策 | 地缘断链风险、国家安全保障、遏制对手先进制程追赶 | 巨额直接建厂补贴（[[CHIPS and Science Act\|CHIPS Act]]、[[European Chips Act\|EU Chips Act]]）与出口管制 | 在欧美本土建立先进制程产能，阻断最尖端技术扩散 | 削弱[[Agglomeration Externalities\|集聚经济]]红利、晶圆厂建设与运营成本大幅上升 | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, pp. 97–103)]] |
+> | 2020年代美国现代产业战略 | 制造业去工业化、供应链脆弱、气候转型与区域极化 | 三大支柱立法（[[Infrastructure Investment and Jobs Act\|IIJA]]、[[CHIPS and Science Act\|CHIPS]]、[[Inflation Reduction Act\|IRA]]）及制度化附加条件 | 推动战略产业回流，拉动超 5000 亿美元私人投资，重塑绿色与半导体生产体系 | 依赖公共行政执行能力、面临宏观通胀与劳动力供给瓶颈 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 1–3, 6)]] |
 > | 英国数字政府与创新转型 | 传统政府采购锁定、系统[[Reflexivity\|反思性]]与跨部门协调缺失 | 设立政府数字服务局（[[Government Digital Service\|GDS]]）、重构公共采购标准 | 打破单一大型 IT 供应商垄断、节约数十亿英镑财政支出 | 依赖强有力的政治授权与公共机构内部动态技术能力 | [[Argument_Kattel_Mazzucato_2018_ICC\|(Kattel & Mazzucato, 2018, pp. 797–800)]] |
+
+---
+
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 概念联系与理论作用 |
+> |:---|:---|:---|
+> | [[Market Shaping and Creating]] | 概念 | [[Evolutionary Economics\|演化经济学]]批判新古典市场失灵被动修补、主张国家主动引领共创的核心替代[[Paradigm\|范式]]。 |
+> | [[Modern Industrial Policy]] | 概念 | 超越微观外部性纠偏、转向以国家安全与产业转型为目标的 21 世纪产业政策范式。 |
+> | [[Learning by Doing]] | 概念 | 经典高技术制造业中由于经验外溢与良率攀升产生的动态规模经济市场失灵依据。 |
+> | [[Agglomeration Externalities]] | 概念 | 先进制造生态网络与空间外溢效应，构成传统产业政策干预的外部性论据。 |
+> | [[Evolutionary Economics]] | 理论 | 彻底解构新古典市场失灵静态均衡假定、提供动态能力与路径依赖分析的底层理论。 |
+> | [[CHIPS and Science Act]] | 事实 | 兼具纠正半导体干中学失灵与达成国家地缘安全保险双重目标的现代产业政策立法。 |
 
 ---
 
@@ -236,3 +270,5 @@ updated: 2026-10-05
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 系统批判了新古典市场失灵理论在科技创新政策中的方向性缺失，论证了国家从“被动修补”转向“主动塑造与创造市场”的必要性。
 > - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 梳理了半导体产业中[[Agglomeration Externalities|集聚外部性]]与[[Learning by Doing|干中学]]等经典市场失灵依据，并揭示了 2020 年代[[Modern Industrial Policy|现代产业政策]]如何由经济效率修补[[Paradigm|范式]]演进为国家安全与供应链保险逻辑。
+> - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 阐述了 21 世纪美国现代产业战略如何突破狭隘的新古典市场失灵修补教条，转向由国家战略目标引导的系统性产业转型与综合[[Public Value|公共价值创造]]。
+

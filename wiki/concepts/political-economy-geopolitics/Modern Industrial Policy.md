@@ -9,7 +9,7 @@ aliases:
 summary: "现代产业政策区别于20世纪以纠正市场失灵与追求经济效率为单一导向的传统产业政策；它深度交织了国家安全、地缘政治对抗、供应链韧性与去风险目标，综合运用巨额直接补贴、前置研发资助、投资审查、单边及多边出口管制、友岸外包、制度化附加条件与战略矿产反制等全方位政策工具包。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 35
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Market Shaping and Creating]]"
   - "[[Public Value]]"
   - "[[Paradigm]]"
+  - "[[Apprenticeship]]"
   - "[[Research Universities]]"
   - "[[STEM Education]]"
 related_theories: []
@@ -48,10 +49,11 @@ related_facts:
   - "[[China Integrated Circuit Industry Investment Fund]]"
   - "[[Made in China 2025]]"
   - "[[Sino-American Trade War]]"
+  - "[[Infrastructure Investment and Jobs Act]]"
+  - "[[International Reading Association]]"
   - "[[October 2022 US Semiconductor Export Controls]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[Inflation Reduction Act]]"
-  - "[[Infrastructure Investment and Jobs Act]]"
 related_arguments:
   - "[[Argument_Bown_2024_JEP]]"
   - "[[Argument_Reynolds_2024_JICT]]"
@@ -248,7 +250,7 @@ updated: 2026-10-06
 >
 > | 经济体 | 政策载体 | 资金规模与核心工具 | 战略重点 | 来源 |
 > |---|---|---|---|---|
-> | 美国 | 现代产业战略三大立法 (2021–2022) | IIJA（1.2万亿）、CHIPS（527亿+25%税收抵免）、IRA（3690亿至1.2万亿税收抵免）；拉动逾 5000 亿美元私人投资 | 交通电网基建升级（BABA采购）、半导体先进制程回流与护栏约束、清洁能源技术中立与5倍工资学徒制乘数 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 6–13)]] |
+> | 美国 | 现代产业战略三大立法 (2021–2022) | [[Infrastructure Investment and Jobs Act\|IIJA]]（1.2万亿）、CHIPS（527亿+25%税收抵免）、[[International Reading Association\|IRA]]（3690亿至1.2万亿税收抵免）；拉动逾 5000 亿美元私人投资 | 交通电网基建升级（BABA采购）、半导体先进制程回流与护栏约束、清洁能源技术中立与5倍工资[[Apprenticeship\|学徒制]]乘数 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 6–13)]] |
 > | 美国 | [[CHIPS and Science Act\|芯片与科学法案]] (2022) | 527 亿美元直接拨款（390 亿制造补贴 + 110 亿研发）+ 25% 投资税收抵免 | 吸引先进制程回流本土、护栏条款限制对华扩产、[[October 2022 US Semiconductor Export Controls\|全面出口管制]] | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, pp. 97–99)]] |
 > | 欧盟 | [[European Chips Act\|欧洲芯片法案]] (2023) | 430 亿欧元公共与私人投资动员 | 吸引[[Taiwan Semiconductor Manufacturing Corporation\|台积电]]、格芯与意法半导体在德法建厂，力争 2030 年实现 20% 制造份额 | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, p. 100)]] |
 > | 中国 | [[China Integrated Circuit Industry Investment Fund\|国家大基金]] (一期/二期) | 数千亿元人民币股权投资基金 + 地方配套与税收优惠 | 突破卡脖子先进制程装备与材料、重点投资成熟制程产能替代 | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, pp. 93–94)]] |
@@ -262,8 +264,8 @@ updated: 2026-10-06
 >
 > | 条目 | 类型 | 关系说明 |
 > |:---|:---|:---|
-> | [[Market Shaping and Creating]] | 概念 | 现代产业政策运用需求侧采购、技术中立税收及附加条件主动塑造与共创公共价值导向市场。 |
-> | [[Public Value]] | 概念 | 现代产业战略通过托儿服务、学徒制与社区利益计划等护栏条款所追求的社会经济合法性基准。 |
+> | [[Market Shaping and Creating]] | 概念 | 现代产业政策运用需求侧采购、技术中立税收及附加条件主动塑造与共创[[Public Value\|公共价值]]导向市场。 |
+> | [[Public Value]] | 概念 | 现代产业战略通过托儿服务、[[Apprenticeship\|学徒制]]与社区利益计划等护栏条款所追求的社会经济合法性基准。 |
 > | [[Learning by Doing]] | 概念 | 先进制程制造良率爬坡的组织学习机制，以及监管机构自适应优化审批规制的过程准则。 |
 > | [[Vertical Disintegration]] | 概念 | 全球多阶段高度细分的产业链组织形态，构成现代产业政策难以维系封闭国家冠军的结构约束。 |
 > | [[CHIPS and Science Act]] | 事实 | 现代产业政策聚焦先进制程制造回流与前沿研发战略纵深的当代核心法案。 |
