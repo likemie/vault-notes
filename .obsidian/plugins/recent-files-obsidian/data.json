@@ -5,12 +5,48 @@
       "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ramming_2025_CorporateSupport.md"
     },
     {
+      "basename": "Sponsored Research Agreement",
+      "path": "wiki/concepts/university-industry-collaboration/Sponsored Research Agreement.md"
+    },
+    {
+      "basename": "Industry Affiliate Program",
+      "path": "wiki/concepts/university-industry-collaboration/Industry Affiliate Program.md"
+    },
+    {
+      "basename": "National Academy of Sciences",
+      "path": "wiki/facts/us/National Academy of Sciences.md"
+    },
+    {
+      "basename": "Universal Parallel Computing Research Centers",
+      "path": "wiki/facts/us/Universal Parallel Computing Research Centers.md"
+    },
+    {
+      "basename": "Research Translation",
+      "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
+    },
+    {
+      "basename": "University Industry Demonstration Partnership",
+      "path": "wiki/facts/us/University Industry Demonstration Partnership.md"
+    },
+    {
+      "basename": "DARPA",
+      "path": "wiki/facts/us/DARPA.md"
+    },
+    {
       "basename": "University-Industry Collaboration",
       "path": "wiki/concepts/university-industry-collaboration/University-Industry Collaboration.md"
     },
     {
-      "basename": "Sponsored Research Agreement",
-      "path": "wiki/concepts/university-industry-collaboration/Sponsored Research Agreement.md"
+      "basename": "Corporate R&D Labs",
+      "path": "wiki/concepts/university-industry-collaboration/Corporate R&D Labs.md"
+    },
+    {
+      "basename": "Academic Engagement Team",
+      "path": "wiki/concepts/university-industry-collaboration/Academic Engagement Team.md"
+    },
+    {
+      "basename": "Technology Transfer Office",
+      "path": "wiki/concepts/university-industry-collaboration/Technology Transfer Office.md"
     },
     {
       "basename": "March for Science 2017",
@@ -163,42 +199,6 @@
     {
       "basename": "Precompetitive Research",
       "path": "wiki/concepts/university-industry-collaboration/Precompetitive Research.md"
-    },
-    {
-      "basename": "Bell Labs",
-      "path": "wiki/facts/us/Bell Labs.md"
-    },
-    {
-      "basename": "Membership-based Research Consortium",
-      "path": "wiki/concepts/university-industry-collaboration/Membership-based Research Consortium.md"
-    },
-    {
-      "basename": "Frascati Manual",
-      "path": "wiki/facts/global/Frascati Manual.md"
-    },
-    {
-      "basename": "Intellectual Capital",
-      "path": "wiki/concepts/political-economy-geopolitics/Intellectual Capital.md"
-    },
-    {
-      "basename": "Richard Nelson",
-      "path": "wiki/persons/us/Richard Nelson.md"
-    },
-    {
-      "basename": "Industrial District",
-      "path": "wiki/concepts/economics/Industrial District.md"
-    },
-    {
-      "basename": "Bounded Rationality",
-      "path": "wiki/theories/learning-science-cognitive-science/Bounded Rationality.md"
-    },
-    {
-      "basename": "Gewerbe-Institut",
-      "path": "wiki/facts/germany/Gewerbe-Institut.md"
-    },
-    {
-      "basename": "National Innovation System",
-      "path": "wiki/concepts/university-industry-collaboration/National Innovation System.md"
     }
   ],
   "omittedPaths": [],
