@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/university-industry-collaboration/Technology Transfer.md",
+                "file": "wiki/arguments/journal-articles/Cambridge Journal of Economics/Argument_Freeman_1995_CJE.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Technology Transfer"
+              "title": "Argument_Freeman_1995_CJE"
             }
           },
           {
@@ -272,6 +272,8 @@
   "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
     "wiki/arguments/journal-articles/Revue d'économie industrielle/Argument_Fabrizio_Mowery_2005_REI.md",
+    "wiki/concepts/university-industry-collaboration/Technology Transfer.md",
+    "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Susalka_Carbone_2025_IP_Web.md",
     "wiki/arguments/journal-articles/Cambridge Journal of Economics/Argument_Freeman_1995_CJE.md",
     "wiki/arguments/journal-articles/Cambridge Journal of Economics",
     "wiki/persons/uk/Chris Freeman.md",
@@ -292,7 +294,6 @@
     "wiki/theories/political-economy-geopolitics/Human Capital Theory.md",
     "wiki/facts/us/Semi-Automatic Ground Environment.md",
     "wiki/facts/eu/European Research Area.md",
-    "wiki/concepts/university-industry-collaboration/Technology Transfer.md",
     "wiki/facts/us/Bell Labs.md",
     "wiki/concepts/instruction-pedagogy/Learning by Doing.md",
     "wiki/concepts/educational-policy-reform/Knowledge Mediation.md",
@@ -300,7 +301,6 @@
     "wiki/facts/us/National Science Foundation.md",
     "wiki/facts/us/American Association for the Advancement of Science.md",
     "wiki/concepts/science-policy/Second-Sourcing.md",
-    "wiki/concepts/higher-education/Cold War University.md",
     "sources/Fabrizio_Mowery_2005_REI/figures/Fabrizio_Mowery_2005_REI_Fig4_Military_Funded_Computer_Projects.jpg",
     "sources/Fabrizio_Mowery_2005_REI/figures/Fabrizio_Mowery_2005_REI_Fig3_Total_Military_Share_IC_Sales.jpg",
     "sources/Fabrizio_Mowery_2005_REI/figures/Fabrizio_Mowery_2005_REI_Fig2_Federal_Nonfederally_Funded_RD.jpg",

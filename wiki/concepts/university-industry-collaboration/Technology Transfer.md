@@ -9,7 +9,7 @@ aliases:
 summary: "大学研究成果与前沿工业创新转化为商业应用与产业扩散的过程。除以 Bayh-Dole Act 为核心的专利排他许可与 TTO 商业化路径外，战后信息技术体系亦证实了公共领域开源披露、强制第二供应商工艺诀窍转移与科研人才跨界流动等非专利技术转移机制的决定性作用。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 42
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -86,9 +86,9 @@ updated: 2026-10-05
 > - **边界** 必须超越将技术转移等同于“专利申请与授权版税分成”的狭隘认知；颠覆性底层技术（如 TCP/IP 协议与早期冯·诺依曼计算架构）的成功转移，恰恰基于零专利许可壁垒与公共领域扩散。
 
 > [!citation-card] 战后信息技术体系中非专利技术转移机制的决定性作用
-> 在 1980 年拜杜法案出台前数十年，美国大学向工业界的技术转移主要并非通过正式专利许可实现，而是依托公开出版物、研究生与科研人员跨界流动、以及军方强制推行的第二供应商协议安排来完成。联邦资助开发的系统软件与网络通信协议被成体系地置于公共领域，构成了通用目的技术扩散的关键杠杆。（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005, pp. 29–31]]）
+> 在 1980 年拜杜法案出台前数十年，美国大学向工业界的技术转移主要并非通过正式专利许可实现，而是依托公开出版物、研究生与科研人员跨界流动、以及军方强制推行的第二供应商协议安排来完成。联邦资助开发的系统软件与网络通信协议被成体系地置于公共领域，构成了通用目的技术扩散的关键杠杆。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29–31)]]
 >
-> *The transfer of technology from universities to industry in information technology prior to the 1980 Bayh-Dole Act relied primarily on publications, the mobility of graduate students and researchers, and military-mandated second-sourcing arrangements rather than formal patent licensing... Software and network protocols developed under federal support were systematically placed into the public domain.* [[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29–31)]]
+> *The transfer of technology from universities to industry in information technology prior to the 1980 Bayh-Dole Act relied primarily on publications, the mobility of graduate students and researchers, and military-mandated second-sourcing arrangements rather than formal patent licensing... Software and network protocols developed under federal support were systematically placed into the public domain.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Knowledge Exchange|知识交流]] — 知识交流是更为广义的双向互动[[Paradigm|范式]]，涵盖无商业化转让目的的学术咨询、联合论坛、人员互访与公共对话；技术转移侧重于具有明确应用指向的技术方案、知识产权与工艺诀窍转化。

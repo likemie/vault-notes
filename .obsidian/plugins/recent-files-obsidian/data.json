@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Technology Transfer",
-      "path": "wiki/concepts/university-industry-collaboration/Technology Transfer.md"
+      "basename": "Argument_Freeman_1995_CJE",
+      "path": "wiki/arguments/journal-articles/Cambridge Journal of Economics/Argument_Freeman_1995_CJE.md"
     },
     {
       "basename": "Argument_Fabrizio_Mowery_2005_REI",
       "path": "wiki/arguments/journal-articles/Revue d'économie industrielle/Argument_Fabrizio_Mowery_2005_REI.md"
+    },
+    {
+      "basename": "Technology Transfer",
+      "path": "wiki/concepts/university-industry-collaboration/Technology Transfer.md"
+    },
+    {
+      "basename": "Argument_Susalka_Carbone_2025_IP_Web",
+      "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Susalka_Carbone_2025_IP_Web.md"
     },
     {
       "basename": "David C. Mowery",
@@ -191,14 +199,6 @@
     {
       "basename": "China Integrated Circuit Industry Investment Fund",
       "path": "wiki/facts/china/China Integrated Circuit Industry Investment Fund.md"
-    },
-    {
-      "basename": "Fair Market Value",
-      "path": "wiki/concepts/university-industry-collaboration/Fair Market Value.md"
-    },
-    {
-      "basename": "1986 U.S.-Japan Semiconductor Trade Agreement",
-      "path": "wiki/facts/us/1986 U.S.-Japan Semiconductor Trade Agreement.md"
     }
   ],
   "omittedPaths": [],
