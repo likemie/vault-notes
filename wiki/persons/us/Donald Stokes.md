@@ -10,9 +10,9 @@ type: person
 nationality: us
 person_region: "us"
 person_related_count: 24
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1927"
 died: "1997"
 lifespan: "1927–1997"
@@ -141,7 +141,7 @@ updated: 2026-10-05
 > [!person-network] 关系网络
 > - **学术对话与反思对象** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush） — 批判并打破其《科学——[[Science, The Endless Frontier 1945|无尽的前沿]]》中确立的一维线性动机轴，将其重构为二维分类矩阵。
 > - **后续理论发展与批判者** [[Venkatesh Narayanamurti|文卡泰什·纳拉亚纳穆尔提]]（Venkatesh Narayanamurti） — 指出斯托克斯未能彻底摆脱基础/应用话语体系，提出对称流转的[[Discovery-Invention Cycle|发现-发明循环]]网络。
-> - **当代制度主义评估者** [[Argument_Fan_2026_BCAS|樊春良]] — 从[[Social Contract of Science|科学社会契约]]演进脉络，将斯托克斯界定为 1990 年代“重新签约”大辩论与多重契约交叠期的核心认知重构者。
+> - **当代制度主义评估者** [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演进脉络，将斯托克斯界定为 1990 年代“重新签约”大辩论与多重契约交叠期的核心认知重构者。
 > - **核心组织平台** 普林斯顿大学伍德罗·威尔逊学院、[[Brookings Institution|布鲁金斯学会]]。
 > - **代表性案例实体** [[Bell Labs|贝尔实验室]]（常被视作[[Pasteur's Quadrant|用启发性基础研究]]的典型组织典范）。
 
