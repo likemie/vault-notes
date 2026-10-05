@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "Embedded Autonomy",
+      "path": "wiki/concepts/science-policy/Embedded Autonomy.md"
+    },
+    {
+      "basename": "Argument_Reynolds_2024_JICT",
+      "path": "wiki/arguments/journal-articles/Journal of Industry, Competition and Trade/Argument_Reynolds_2024_JICT.md"
+    },
+    {
+      "basename": "Taiwan Semiconductor Manufacturing Corporation",
+      "path": "wiki/facts/east-asia/Taiwan Semiconductor Manufacturing Corporation.md"
+    },
+    {
+      "basename": "National Semiconductor Technology Center",
+      "path": "wiki/facts/us/National Semiconductor Technology Center.md"
+    },
+    {
+      "basename": "Total Factor Productivity",
+      "path": "wiki/concepts/political-economy-geopolitics/Total Factor Productivity.md"
+    },
+    {
+      "basename": "Evolutionary Economics",
+      "path": "wiki/theories/political-economy-geopolitics/Evolutionary Economics.md"
+    },
+    {
+      "basename": "Apprenticeship",
+      "path": "wiki/concepts/instruction-pedagogy/Apprenticeship.md"
+    },
+    {
+      "basename": "Market Failure",
+      "path": "wiki/concepts/science-policy/Market Failure.md"
+    },
+    {
+      "basename": "National Competitive Advantage",
+      "path": "wiki/concepts/political-economy-geopolitics/National Competitive Advantage.md"
+    },
+    {
+      "basename": "Modern Industrial Policy",
+      "path": "wiki/concepts/political-economy-geopolitics/Modern Industrial Policy.md"
+    },
+    {
+      "basename": "Market Shaping and Creating",
+      "path": "wiki/concepts/science-policy/Market Shaping and Creating.md"
+    },
+    {
+      "basename": "Inflation Reduction Act",
+      "path": "wiki/facts/us/Inflation Reduction Act.md"
+    },
+    {
+      "basename": "CHIPS and Science Act",
+      "path": "wiki/facts/us/CHIPS and Science Act.md"
+    },
+    {
+      "basename": "Infrastructure Investment and Jobs Act",
+      "path": "wiki/facts/us/Infrastructure Investment and Jobs Act.md"
+    },
+    {
+      "basename": "Public Value",
+      "path": "wiki/concepts/science-policy/Public Value.md"
+    },
+    {
+      "basename": "Learning by Doing",
+      "path": "wiki/concepts/instruction-pedagogy/Learning by Doing.md"
+    },
+    {
+      "basename": "Statistical Process Control",
+      "path": "wiki/methods/quantitative/Statistical Process Control.md"
+    },
+    {
       "basename": "Argument_Ramming_2025_CorporateSupport",
       "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ramming_2025_CorporateSupport.md"
     },
@@ -89,10 +157,6 @@
       "path": "wiki/templates/template-fact-policy.md"
     },
     {
-      "basename": "Public Value",
-      "path": "wiki/concepts/science-policy/Public Value.md"
-    },
-    {
       "basename": "Argument_Mitter_2009_Europe",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mitter_2009_Europe.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "National Science Foundation",
       "path": "wiki/facts/us/National Science Foundation.md"
-    },
-    {
-      "basename": "National Institutes of Health",
-      "path": "wiki/facts/us/National Institutes of Health.md"
-    },
-    {
-      "basename": "Office of Naval Research",
-      "path": "wiki/facts/us/Office of Naval Research.md"
-    },
-    {
-      "basename": "Science, The Endless Frontier 1945",
-      "path": "wiki/facts/us/Science, The Endless Frontier 1945.md"
-    },
-    {
-      "basename": "Vannevar Bush",
-      "path": "wiki/persons/us/Vannevar Bush.md"
-    },
-    {
-      "basename": "Pasteur's Quadrant",
-      "path": "wiki/theories/science-policy/Pasteur's Quadrant.md"
-    },
-    {
-      "basename": "Use-Inspired Basic Research",
-      "path": "wiki/concepts/university-industry-collaboration/Use-Inspired Basic Research.md"
-    },
-    {
-      "basename": "Knowledge Production",
-      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
-    },
-    {
-      "basename": "Technology-Oriented Social Contract",
-      "path": "wiki/concepts/science-policy/Technology-Oriented Social Contract.md"
-    },
-    {
-      "basename": "Research Security",
-      "path": "wiki/concepts/university-industry-collaboration/Research Security.md"
-    },
-    {
-      "basename": "Research Universities",
-      "path": "wiki/concepts/higher-education/Research Universities.md"
-    },
-    {
-      "basename": "Mentorship",
-      "path": "wiki/concepts/higher-education/Mentorship.md"
-    },
-    {
-      "basename": "General Purpose Technology",
-      "path": "wiki/concepts/economics/General Purpose Technology.md"
-    },
-    {
-      "basename": "Pilot Scale Platform",
-      "path": "wiki/concepts/university-industry-collaboration/Pilot Scale Platform.md"
-    },
-    {
-      "basename": "Academic Freedom",
-      "path": "wiki/concepts/higher-education/Academic Freedom.md"
-    },
-    {
-      "basename": "Argument_Freeman_1995_CJE",
-      "path": "wiki/arguments/journal-articles/Cambridge Journal of Economics/Argument_Freeman_1995_CJE.md"
-    },
-    {
-      "basename": "Focus Center Research Program",
-      "path": "wiki/facts/us/Focus Center Research Program.md"
     }
   ],
   "omittedPaths": [],
