@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Strategic Autonomy",
+      "path": "wiki/concepts/political-economy-geopolitics/Strategic Autonomy.md"
+    },
+    {
+      "basename": "Argument_Bulfone_2024_IAI",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Bulfone_2024_IAI.md"
+    },
+    {
+      "basename": "European Chips Act",
+      "path": "wiki/facts/eu/European Chips Act.md"
+    },
+    {
+      "basename": "CHIPS and Science Act",
+      "path": "wiki/facts/us/CHIPS and Science Act.md"
+    },
+    {
+      "basename": "index",
+      "path": "wiki/arguments/index.md"
+    },
+    {
       "basename": "Workforce Development",
       "path": "wiki/concepts/educational-policy-reform/Workforce Development.md"
     },
@@ -51,10 +71,6 @@
     {
       "basename": "Inflation Reduction Act",
       "path": "wiki/facts/us/Inflation Reduction Act.md"
-    },
-    {
-      "basename": "CHIPS and Science Act",
-      "path": "wiki/facts/us/CHIPS and Science Act.md"
     },
     {
       "basename": "Infrastructure Investment and Jobs Act",
@@ -183,22 +199,6 @@
     {
       "basename": "Office of Science and Technology Policy",
       "path": "wiki/facts/us/Office of Science and Technology Policy.md"
-    },
-    {
-      "basename": "Big Science",
-      "path": "wiki/concepts/science-policy/Big Science.md"
-    },
-    {
-      "basename": "Donald Stokes",
-      "path": "wiki/persons/us/Donald Stokes.md"
-    },
-    {
-      "basename": "Sputnik Shock 1957",
-      "path": "wiki/facts/us/Sputnik Shock 1957.md"
-    },
-    {
-      "basename": "Social Contract of Science",
-      "path": "wiki/theories/science-policy/Social Contract of Science.md"
     }
   ],
   "omittedPaths": [],
