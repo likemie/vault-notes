@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "National Science Foundation",
+      "path": "wiki/facts/us/National Science Foundation.md"
+    },
+    {
+      "basename": "Argument_Bozeman_2004_JTT",
+      "path": "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Bozeman_2004_JTT.md"
+    },
+    {
+      "basename": "Argument_Ryabyy_2024_Maneto",
+      "path": "wiki/arguments/journal-articles/Maneto The Temple University Multi-Disciplinary Undergraduate Research Journal/Argument_Ryabyy_2024_Maneto.md"
+    },
+    {
       "basename": "Argument_Mody_2017_MOH",
       "path": "wiki/arguments/journal-articles/Management & Organizational History/Argument_Mody_2017_MOH.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Public-Private Partnership in Research",
       "path": "wiki/concepts/university-industry-collaboration/Public-Private Partnership in Research.md"
-    },
-    {
-      "basename": "Technology Transfer Office",
-      "path": "wiki/concepts/university-industry-collaboration/Technology Transfer Office.md"
-    },
-    {
-      "basename": "Innovation Ecosystem",
-      "path": "wiki/concepts/university-industry-collaboration/Innovation Ecosystem.md"
-    },
-    {
-      "basename": "Corporate Venture Capital",
-      "path": "wiki/concepts/university-industry-collaboration/Corporate Venture Capital.md"
     }
   ],
   "omittedPaths": [],

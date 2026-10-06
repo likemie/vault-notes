@@ -1,0 +1,1021 @@
+
+=== PAGE 1 ===
+The NSF Engineering Research Centers and the
+University–Industry Research Revolution: A Brief
+History Featuring an Interview with Erich Bloch
+Barry Bozeman 1
+Craig Boardman 2
+ABSTRACT. The NSF engineering research centers (ERC)
+program served notice of a sea change in university research
+funding and institutional designs, representing a transition from
+department-based, principle investigator-oriented university
+science to a new center-based model encouraging universities
+to work with industry and to work beyond the strictures of
+academic disciplines. In our view, the past three decades of U.S.
+science and technology policy have not seen an institutional
+change of greater importance. This paper begins with a brief
+history of the ERC program, including discussion of the
+program’s origins, goals and research foci, growth, and
+inﬂuence as a model for other science center programs in the
+U.S. and abroad. Our ‘‘primary data’’ include an interview with
+Erich Bloch, former NSF director who was one of the chief
+architects and advocates for the ERC program. Because of the
+historical importance of this interview, we present the entire
+interview with the original material largely unaltered. We
+conclude with discussion of the managerial challenges that
+ERCs face within the context of traditional university
+structures.
+JEL Classiﬁcation: O32, O33, O38, O31, O30
+In 1983, in the midst of a perceived U.S.
+‘‘competitiveness crisis,’’ a National Academy of
+Science panel recommended that the National
+Science Foundation (NSF) establish interdisciplin-
+ary centers for engineering research. The resultant
+engineering research centers (ERCs) were not the
+ﬁrst U.S. university research centers, nor even the
+ﬁrst NSF-funded university research centers, but
+they nonetheless served notice of a sea change in
+university research funding and institutional
+designs, constituting perhaps the genesis of the
+multipurpose, multidiscipline, university research
+center (MMURC), depending upon one’s deﬁni-
+tion (Bozeman and Boardman, 2003). Prior to the
+establishment of ERCs, there were certainly multi-
+disciplinary, multipurpose and even multi-institu-
+tional NSF centers, but none approached the
+scope or scale of the ERCs. Whereas the NSF had
+experimented with centralized, university-based
+research centers with its materials science research
+centers and its industry/university cooperative
+research centers, the ERCs were different in goals,
+design and, not insigniﬁcantly, the magnitude of
+funding.
+The goal of the ERC program to revolutionize
+engineering research and education by focusing
+more on interdisciplinary problems, building
+closer ties between industrial and academic
+research, and providing a different, more hands-
+on education for engineering undergraduate and
+graduate students. Engineering had been a step-
+child of the NSF for many years but was soon to
+have its own directorate and already had its own
+NSF director, Erich Bloch, a professional engi-
+neer who had not only spent his career in
+industry but also never obtained a Ph.D., a ﬁrst
+for the NSF director’s ofﬁce. The ERC program
+has indeed revolutionized engineering research
+and education. Not only has it inﬂuenced the way
+other federal departments and agencies approach
+the scientiﬁc and technical research problems
+which lay at the heart of their institutional re-
+search missions, but it has also fostered the estab-
+lishment of similar research endeavors abroad.
+The ERC program was, particularly at its
+inception, quite controversial. NSF was the house
+1Research Value Mapping Program
+School of Public Policy
+Georgia Tech
+Atlanta, GA 30332
+E-mail: barry.bozeman@pubpolicy.gatech.edu
+2Research Value Mapping Program
+School of Public Policy
+Georgia Tech
+Atlanta, GA 30332
+Journal of Technology Transfer, 29, 365–375, 2004
+# 2004 Kluwer Academic Publishers. Manufactured in The Netherlands.
+=== PAGE 2 ===
+of basic science. More precisely, it was the house
+of peer-reviewed, investigator-initiated basic
+science. Now, in the name of competitiveness, it
+seemed to some that the hallowed mission of NSF
+was being diverted. Worse, there was widespread
+fear that funds for small science, investigator-
+initiated projects, would be siphoned off for
+centralized centers operating not under traditional
+grants but under cooperative research agreements,
+a recently implemented expedient.
+Today, one does not often hear the term
+‘‘competitiveness’’ (though with a continued
+recession, the catch phrase may enjoy a revival)
+and the ERCs, now more than 20 years old, are
+no longer in the eye of the research funding storm.
+Indeed, the centers proved sufﬁciently popular
+that other NSF centers programs have been
+spawned, most signiﬁcantly the broad-based
+science and technology centers (STC) program.
+Moreover, while the ERC and STC programs
+were in many respects pioneering, other large
+research funding agencies, including the National
+Institutes of Health (NIH) and Department of
+Defense, have bank-rolled a signiﬁcant number of
+university-based research centers. When one adds
+to the list the many state government-sponsored
+university ‘‘centers of excellence’’ programs and
+the centers established by the universities them-
+selves, one ﬁnds that the university research
+landscape has changed remarkably during the 20
+years since the ERCs were a gleam in Erich
+Bloch’s eye. In 1983, the academic department
+and its laboratories was the place where university
+research was performed. Today, there are hun-
+dreds of university research centers and about
+one-third of academic scientists and engineers are
+afﬁliated with a multi-disciplinary, and often
+multi-university, research center.
+In our view, there has been no more important
+institutional change in the past three decades of
+U.S. science and technology policy than the
+movement from department-based, principle
+investigator-oriented university science to a new
+center-based model encouraging universities to
+work with industry and work beyond the
+strictures of academic disciplines. Most of the
+people who helped create this revolution are still
+alive and remain quite active. The purpose of our
+paper is to provide a brief overview of the
+development of the ERC and its impacts. Our
+‘‘primary data’’ for the paper include an interview
+with Erich Bloch, former NSF director and
+former Presidential Science Advisor and, most
+important for present purposes, one of the chief
+architects and advocates for the ERC program.
+Before presenting the interview with Bloch,
+however, it is useful to provide a brief history
+of the ERC program.
+1. A brief history of the engineering research
+centers program
+Origins
+In his contribution to the ﬁnal report for the 1986
+CETS
+1 symposium2 on future expectations for the
+then nascent NSF engineering research centers
+(ERC) program, George A. Keyworth II, Science
+Advisor to the President and Director of the Ofﬁce
+of Science and Technology Policy (OSTP),
+described how the idea for the ERCs ﬁrst came
+to light. It happened during a 1983 presentation
+made by the Committee on Science, Engineering,
+and Public Policy (COSEPUP)
+3 to OSTP on the
+subject of computers in design and manufacturing.
+Keyworth (1986) explains:
+The presentation brought home to all of us how
+radically the role of the engineer will change in
+light of the tremendous information-processing
+capabilities that are emerging . . . After the pre-
+sentation we were convinced that we should be
+doing more to help integrate engineering practice
+and training . . . and that our future industrial
+successes were going to depend on the availability
+of different kinds of engineers than those who had
+been successful in the past.
+Following the presentation, Keyworth and col-
+leagues, including George Low, president of Rens-
+selaer Polytechnic Institute, turned to the National
+Academy of Engineering (NAE) to assemble a
+panel for developing new strategies with which
+NSF and the university system could transform
+the American engineer, who was up to that point
+believed to be focused on narrow, discipline-based
+topics, into a cross-disciplinary scientist and
+practitioner possessing synthesis-oriented skills
+such as systems design, optimization, and integra-
+tion (Suh, 1986).
+366
+Bozeman and Boardman
+=== PAGE 3 ===
+In February 1984, the NAE panel, comprised of
+engineering leaders from universities and industry,
+responded with a report, ‘ Guidelines for Engineer-
+ing Research Centers .’ The report expressed the
+goal of a more hands-on approach to engineering
+research and education in terms of the broader
+U.S. mission of international competitiveness
+(Mayﬁeld, 1987):
+The goal of the centers is to improve engineering
+research so that U.S. engineers will be better
+prepared to assist U.S. industry in becoming more
+competitive in world markets. Thus, engineering
+research and education must be judged by their
+success in achieving this linkage.
+The tone of the report was appropriate to the
+times. Throughout the 1970s and into the 1980s,
+American industry was being outperformed by
+newly industrialized nations building niche tech-
+nology infrastructures which, combined, proved
+formidable competition to the United States in the
+world industrial market. Korean steel, Japanese
+automobiles, Taiwanese electronics, and Indone-
+sian aircraft set off a perceived ‘‘competitiveness
+crisis,’’ both in the United States and in Europe,
+which is often credited as the catalyst for the ERC
+program. Consequently, the budget proposal to
+Congress for ﬁnancial year 1985 included $10
+million for ERCs, setting the stage for a new
+engineering directorate at NSF. After the ﬁrst
+round of proposal solicitation and review in 1984,
+NSF funded six centers for 1985–1986. The goal
+then was for NSF to eventually fund 19 centers in
+addition to the original six.
+Common goals, divergent research foci
+In the 1984 Guidelines . . . report the NAE panel
+identiﬁes two main goals for the ERC program.
+The ﬁrst goal was to improve engineering research
+and education so that engineers training in
+American universities could more readily contri-
+bute to engineering practice once they graduated.
+The second goal was, by training engineers in more
+industry-relevant ways, to assist U.S. industry in
+becoming more competitive in world industrial
+markets.
+The NAE panel advised that all ERCs should
+have three characteristics in common. First, ERCs
+should foster regular interaction among university
+engineers and scientists, including students, with
+their counterparts in industry to ensure that the
+research conducted in ERCs stays relevant to the
+needs of the engineering practitioner and, more-
+over, to facilitate knowledge ﬂow and technology
+transfer between the academic and industrial
+sectors. Second, ERCs should promote interdisci-
+plinarity in its research to bring together the
+knowledge, methodologies, and tools required for
+the engineering practitioner to solve problems
+important to an industrial sector or sectors. Third,
+all ERCs must have an educational component
+designed to attune future U.S. engineers to the
+needs of industry, speciﬁcally in terms of hands-on
+engineering research and education (Parker, 1997).
+Despite these common goals and characteris-
+tics, the scope of the engineering research topics
+upon which ERCs focus is broadly diverse. The
+ﬁrst ERCs, which emerged from the ﬁrst round of
+proposal solicitation and review in 1984 and were
+established in 1985–1986, focused on the areas of
+systems research, intelligent manufacturing sys-
+tems, robotic systems in microelectronics, tele-
+communications, and biotechnological processes
+(NAS, 1986). Since that time the research empha-
+sis of ERCs has expanded to include such research
+foci as earthquake engineering research, environ-
+mentally benign semiconductor manufacturing,
+and subsurface sensing and imaging technology,
+to name a few.
+Today NSF classiﬁes all ERCs under one of
+four program meta-thrust areas for engineering
+research, which do not differ greatly from the
+research foci of the original six ERCs founded in
+1985–1986. These meta-thrusts include bio-engi-
+neering manufacturing and processing (six
+centers), earthquake engineering (three centers),
+microelectronic systems and information tech-
+nology (eight centers), and manufacturing and
+processing (ﬁve centers).
+ERC program growth: Number of centers
+At the outset of the ERC program there were six
+centers receiving NSF funds. By 1990, NSF had
+established 23 ERCs in addition to the original six,
+though many of these failed to qualify for renewed
+funding prior to the completion of the 11-year
+NSF Engineering Research Centers and the University-Industry Research Revolution 367
+=== PAGE 4 ===
+award cycle (Feller et al., 2002). By 1994, 18 ERCs
+were operating. In 1997, another ERC was added,
+increasing the count to 19 centers. As of October
+2003, there were 22 centers receiving funds
+through the ERC program. For a list of current
+ERCs and their thrust afﬁliation, see Table I. As of
+January 2002, 13 ERCs are self-sustaining after
+the conclusion of NSF support.
+Since the ERC program’s inception in 1984, NSF
+has awarded 56 grants to establish ERCs. Figure 1
+tracks the distribution of these rewards by
+year.
+Table I
+Current ERCs (as of october 2003)
+Thrust Center Lead institution Link
+Bioengineering
+manufacturing and
+ERC for the Engineering of Living
+Tissues
+Georgia Institute of Technology,
+Atlanta, GA
+www.gtec.gatech.edu
+processing Center for Computer-Integrated
+Surgical Systems and Technology
+Johns Hopkins University, Baltimore,
+MD
+http://cisstweb.cs.jhu.edu
+Biotechnology Process Engineering
+Center
+Massachusetts Institute of Technology,
+Cambridge, MA
+http://web.mit.edu/bpec/
+ERC for Biomimetic
+MicroElectronic Systems
+University of Southern California–Keck
+School of Medicine, Los Angeles, CA
+VaNTH ERC for Bioengineering
+Educational Technologies
+Vanderbilt University, Nashville, TN http://www.vanth.org/
+Engineered Biomaterials
+Engineering Research Center
+University of Washington, Seattle, WA http://www.uweb.engr.washington.edu/
+Earthquake engineering Paciﬁc Earthquake Engineering
+Research Center
+University of California at Berkeley, CA http://peer.berkeley.edu/
+Mid-America Earthquake Center University of Illinois at
+Urbana-Champaign, IL
+http://mae.ce.uiuc.edu/
+Multidisciplinary Center for
+Earthquake Engineering Research
+University of Buffalo at Buffalo, NY http://mceer.buffalo.edu/
+Microelectronic systems
+and information
+Center for Neuromorphic Systems
+Engineering
+California Institute of Technology,
+Pasadena, CA
+http://www.erc.caltech.edu/
+technology ERC for Extreme Ultraviolet
+Science and Technology
+Colorado State University, Fort Collins,
+CO
+http://euverc.colostate.edu/
+Center for Power Electronic
+Systems
+Virginia Polytechnic Institute and State
+University, Blacksburg, VA
+http://www.cpes.vt.edu/
+Integrated Media Systems Center University of Southern California,
+Los Angeles, CA
+http://imsc.usc.edu/
+Center for Subsurface Sensing and
+Imaging Systems
+Northeastern University http://www.censsis.neu.edu/
+ERC for Collaborative Adaptive
+Sensing of the Atmosphere
+University of Massachusetts, Amherst,
+MA
+http://www.casa.umass.edu/
+Packaging Research Center Georgia Institute of Technology, Atlanta,
+GA
+http://www.prc.gatech.edu/
+Center for Wireless Integrated
+MicroSystems
+University of Michigan at Ann Arbor http://www.wimserc.org/
+Manufacturing and
+processing
+ERC for Environmentally
+Benign Semiconductor
+Manufacturing
+University of Arizona, Tucson, AZ
+(lead institution) in partnership with
+Arizona State University, the University
+of California at Berkeley, Cornell
+University, MIT, and Stanford
+University
+http://www.erc.arizona.edu/
+Center for Advanced Engineering
+of Fibers and Films
+Clemson University, Clemson, SC (lead
+institution) in partnership with MIT
+www.clemson.edu/caeff
+ERC for Particle Science and
+Technology
+University of Florida, Gainesville, FL http://www.erc.uﬂ.edu/
+Center for Environmentally
+Beneﬁcial Catalysis
+University of Kansas, Lawrence, KS (lead
+institution) in partnership with University
+of Iowa and Washington University at
+St. Louis
+http://www.ku.edu//C24 cebc/
+Center for Reconﬁgurable
+Machining Systems
+University of Michigan, Ann Arbor, MI http://erc.engin.umich.edu/
+Source: http://www.erc-assoc.org/centers.htm.
+368 Bozeman and Boardman
+=== PAGE 5 ===
+An important observation to take away from
+Figure 1 is the discrepancy between number of
+awards granted and the number of centers currently
+receiving NSF funds. While some have graduated
+and are now self-sufﬁcient, others have failed to
+successfully navigate the renewal process. (In the
+interview below, Erich Bloch indicates that these
+early closures actually had some positive effects.)
+As of November 2003, 41 ERCs and three
+earthquake ERCs had been funded by NSF. This
+constitutes an historical ‘‘survival’’ rate for ERCs
+of 44/56, or 0.79.
+ERC program growth: Magnitude of funding
+Currently NSF funds approximately 30 % of ERC
+total annual budgets, with industry, other federal
+agencies, universities, and the states providing the
+remainder (Lewis, 2004). The ERC program
+constitutes a substantial proportion of annual
+NSF expenditure on engineering research and
+related activities. In ﬁnancial year 2003, ERCs
+and its spin offs received higher levels of funding
+than any other NSF engineering research endea-
+vor, save SBIRs (small business innovation
+research). Of the $132.7 million that NSF spent
+on engineering education and centers (EEC) in
+ﬁnancial year 2003 (see Figure 2, Table 3). NSF
+allocated nearly half, $65.72 million, to the ERC
+program. If this calculation is also to include NSF
+expenditure on Earthquake Engineering Research
+Centers, Nanoscale Science and Engineering Cen-
+ters, and Science and Technology Centers, the
+amount increases by $19.89 million to nearly $86
+million, or 65 % of NSF expenditure on EEC and
+approximately one sixth of overall NSF engineer-
+ing expenditure.
+4
+Estimates for ﬁnancial year 2005 demonstrate a
+modest decrease in NSF funding for the ERC
+program over the next year. To support a steady
+state of 19 ERCs, NSF has requested $63.49
+million, which is down more than $2 million from
+ﬁnancial year 2004 and down nearly $2.25 million
+from 2003.
+The ERC Progeny
+As we mentioned, the ERC program has served as
+a model for many other science center programs in
+the United States and elsewhere. Perhaps the most
+conspicuous progeny of the ERCs is the NSF’s
+own science and technology centers (STC) pro-
+gram. In a 1987 letter to NAS President Frank
+Press, NSF Director Erich Bloch indicates that the
+STC program was a direct spin off of the ERC
+program (Metzger, 1987):
+Just as the National Academy of Engineering played
+a pivotal role in shaping the approach NSF used to
+establish and administer the Engineering Research
+Figure 1. ERC awards by year, 1984–2004 ( N ¼ 56).5
+Figure 2. ENG subactivity funding (dollars in millions). 6
+NSF Engineering Research Centers and the University-Industry Research Revolution 369
+=== PAGE 6 ===
+Centers, a similar contribution can be made by the
+National Academy of Sciences with regard to this
+initiative.
+The ERC concept has been extremely inﬂuential
+in other nations. For example, just a few years
+after the ERC implementation in the United
+States, the United Kingdom implemented a
+program based explicitly on the ERC model. The
+Science Foundation of Ireland (SFI) not only set
+up its program Centers for Science, Engineering,
+and Technology but recruited former director of
+the National Science Foundation’s Science and
+Mathematics Division, Dr. William Harris, to
+serve as the SFI Director General.
+One of many examples, a quite recent one, of
+the inﬂuence of the ERC as a model is a pending
+proposal, outlined in an options paper prepared by
+the Space Science Working Group, a group of
+space scientists and university government rela-
+tions ofﬁcers, for ‘‘university-based research cen-
+ters modeled after the National Science
+Foundation’s Engineering Research Centers’’
+(Association of American Universities and the
+National Association of State Universities and
+Land-Grant Colleges, 2003, p. 1). This white paper
+on ‘‘NASA-University Workforce Development’’
+seeks to expand NASA’s ability to replace its
+rapidly retiring scientiﬁc and technical workforce
+with highly qualiﬁed next-generation scientists and
+engineers by having NASA ‘‘sponsor university
+centers, similar in structure to the Engineering
+Research Centers ...’ ’ a n d thereby establishing a
+‘‘structure envisioned for NASA-supported uni-
+versity centers . . . that would give both graduate
+and undergraduate students and opportunity to
+get hands-on experience in NASA-oriented skills.’’
+From this historical context, we turn to our
+interview with the individual who is one of those
+most responsible for the university centers revolu-
+tion, Erich Bloch (see inset).
+2. Interview with Erich Bloch
+We interviewed Erich Bloch in the late afternoon
+of May 22, 2003 in Mr. Bloch’s Washington, D.C.
+ofﬁce at the Washington Advisory Group, located
+at 1275 K Street. Previously, Bozeman had con-
+tacted Mr. Bloch and indicated we were interested
+in talking with him about the history of the NSF
+Table II
+ENG centers (dollars in millions) 7
+FY 2003 FY 2004 FY 2005
+Change over FY 2004
+Actual Estimate Request Amount Percent ( %)
+Engineering Research Centers 65.72 65.55 63.49 /C0 2.06 /C0 3.1
+Earthquake Engineering Research Centers 6.00 6.00 6.00 0.00 0.0
+Nanoscale Science and Engineering Centers 6.10 18.91 22.01 3.10 16.4
+Science and Technology Centers 7.89 7.96 7.96 0.00 0.0
+Total, Centers Support $85.71 $98.42 $99.46 $1.04 1.1
+About Eric Bloch
+As Director of the National Science Founda-
+tion from 1984–1990, Erich Bloch helped
+originate and implement the engineering
+research centers program. Among all NSF
+directors, he was the ﬁrst engineer and the ﬁrst
+who did not hold a Ph.D. For these reasons, his
+appointment was initially controversial. Before
+his NSF appointment, Bloch was Corporate
+Vice President for Technical Personnel Devel-
+opment at IBM. He received the National
+Medal of Technology for developments that
+‘‘revolutionized the computer industry,’’ and is
+the recipient of the 2002 Vannevar Bush Award.
+Currently he is afﬁliated with the Washington
+Advisory Group where he advises on corporate
+R&D management and strategic planning for
+academically based research enterprises and
+other not-for-proﬁt organizations. He is also
+serving as a member of the President’s Council
+of Advisors on Science and Technology, and is
+the Distinguished Fellow at the Council on
+Competitiveness.
+370
+Bozeman and Boardman
+=== PAGE 7 ===
+university centers programs, especially the ERCs
+and the STCs.
+We feel this interview is of historical importance
+to students of technology policy and transfer as
+well as to practitioners interested in the history of
+university-industry relations in technology trans-
+fer. Given the importance of the interview, we
+present the entire interview and the original
+material is largely unaltered. Some notes (in
+parentheses) are provided in explanation. During
+the interview, Bozeman was the lead interviewer
+and Boardman the chief transcriber.
+Bozeman: You were on the 1983 panel that
+published guidelines for ERCs. Did concept of
+the ERC crystallize before this panel got together?
+If so, how? Who were the primary actors?
+Bloch: There was no starting point in the
+traditional sense. The whole situation when I was
+on that panel—which was before I went over to
+NSF—I think the whole focus was that in the
+engineering community (scientiﬁc) research was not
+associated with engineering. I knew about engineer-
+ing, so I was appalled at this black and white idea of
+what engineering’s all about. Out of this concern
+was our focus of relating basic research to engineer-
+ing . . . to change both science and engineering
+cultures. A big proponent was George Low of RPI.
+(Dr. George Low was President of Rensselaer
+Polytechnic Institute from 1969 to 1984.) I think
+the general focus was what one can do to change this
+impression of engineering and to change the
+characteristics of engineering. But there was no
+particular singular event. But the timing was very
+important. If all this happened later there would
+have been less impact.
+Bozeman: If there was no competitiveness crisis
+it wouldn’t have happened?
+Bloch: Yes that’s my point. The coincidence of
+the ERCs and competitiveness crisis is what made
+it come to life.
+Bozeman: In advancing the ERC idea, I under-
+stand there was one especially important meeting
+with George Keyworth (President Ronald
+Reagan’s science advisor 1981–1985)?
+Bloch: George Keyworth played a big role. From
+1983 to 1984 I had many conversations with on
+competitiveness. We had a common concern. He
+participated in the semiconductor industry meet-
+ings. I was representative to those from IBM. His
+concern was that he saw lack of competitiveness in
+the semiconductor industry. This (was among the
+factors that) led to my becoming NSF director, my
+relationship with Keyworth and our common
+competitiveness concerns. Once NSF director, one
+of the ﬁrst things I did was ERCs. Keyworth was
+more cautious than me. I wanted twelve, Keyworth
+wanted one. The idea needed to penetrate the whole
+engineering community. I thought twelve would
+send a message. So that was one rationale. Then
+when I looked at NSF (pause) . . . it was just the
+paymaster for PIs (principal investigators). I
+thought this was dead wrong. The idea was that
+NSF should be concerned about competitiveness
+and look for new avenues to tie together industry
+and government and universities. It was a new idea
+to NSF. The next step was doing the same thing for
+science centers, the STCs. But there were IUCRCs
+(Industry University Cooperative Research Cen-
+ters) before all this.
+Bozeman: So did the IUCRC’s provide a sort of
+a template for the ERCs and the STCs?
+Bloch: Not really. The word ‘‘center’’ has been
+used indiscriminately. For example, we have the
+Materials Research Centers, but these were more
+instrumentation centers than anything else. They
+had no formal mandated ties to industry. ERCs
+were a different animal. The culture of the centers
+is antithetical to the PI system. (When NSF
+implemented the ERCs) I suspected there to be
+more gnashing of teeth than there was.
+Bozeman: The IUCRCs were around in 1978
+with a similar mission as ERCs—at least on paper.
+Was there anything that you knew of from the
+IUCRC experience that you explicitly avoided
+when doing the ERCs?
+Bloch: The ERCs are a different animal. They
+are much more research oriented. They are also
+broader in scope. IUCRCs drilled down to very
+speciﬁc topics. To me it was an entirely different
+program. Also, ERCs got a lot more money than
+IUCRCs. (note: the IUCRC budgets typically are
+$100,000–$200,000 per year). The two programs
+were not in conﬂict nor was one a continuation of
+the other.
+Bozeman: Was there a cadre who got quickly on
+board? Was there NSF staff that played an
+important role from the outset?
+Bloch: There was some staff that saw the need
+for change, but no one necessarily knew in what
+NSF Engineering Research Centers and the University-Industry Research Revolution 371
+=== PAGE 8 ===
+direction. Also, there were new people just coming
+in. Nam Suh was one of these. He was kind of
+torn. He grew up in a PI-grant world, but saw the
+need for changing direction. Also, the assistant
+director of biology, David Kingsbury (?) who
+knew exactly why there was a need for the change.
+Others like Bill Harris who have been here a while
+was a big supporter. Also there were many who
+opposed it. But enough of us agreed that some-
+thing had to change.
+Bozeman: At about the same time as the ERC
+concept was getting traction there was also a
+strong interest in some quarters to set up a
+National Engineering Foundation, entirely sepa-
+rate from NSF and, presumably, leaving NSF with
+no engineering programs. Did these two develop-
+ments come into conﬂict or complement one
+another?
+Bloch: I don’t know if they played against each
+other. That’s why I mentioned Nam Suh. We came
+to the conclusion that engineering was still in the
+19th century. He was convinced that something
+had to change substantively. In some ways, it was
+not really helpful that George Brown (Member of
+the House of Representatives and Chair of the
+House Science and Technology Committee) was
+lobbying for a ‘‘national engineering foundation.’’
+He didn’t get his engineering foundation. So a
+compromise took place. I’m not sure that these
+two changes were unconnected. I think they were
+quite connected. (The defeat of the engineering
+foundation helped provide the opportunity for
+NSF engineering research centers).
+Bozeman: Outside of NSF, were others in
+government or in the science and technology
+policy agencies pushing for ERC’s or some
+equivalent?
+Bloch: George (Brown) was a big Democrat
+pushing for them. He had a lot of focus on it and
+was a senior member of Congress. The White
+House science advisor (Keyworth) was also focus-
+ing on it. The OMB was in the middle of things,
+but chieﬂy because they were against allocating
+more money, especially Stockman (President
+Reagan’s Ofﬁce of Management and Budget
+Director).
+Bozeman: Was the issue of ERC’s or the
+engineering foundation on President Reagan’s
+radar screen? Did you speak with him about
+this?
+Bloch: No. Later NSF got on his screen with the
+doubling of the NSF budget.
+Bozeman: Could you tell me about the progres-
+sion of ERCs to the STCs? Was it easier to garner
+support for the STCs because of the ERC
+experience?
+Bloch: There was more criticism with the ERCs
+than the STCs. The ERCs paved the way for
+STCs. The scientists saw the money available from
+the ERCs and this led many to back the STCs.
+Many powerful people, including many members
+of the NAS (the National Academy of Science),
+saw the success of ERCs and thought that this idea
+might work for science as well as it had for
+engineering.
+Bozeman: (The ERCs proposal requests are
+quite general and do not specify particular areas of
+engineering or research foci). When setting up the
+ERC program, did you and others give much
+thought to a more targeted approach, specifying
+research areas of interest, rather than a traditional
+proposal approach?
+Bloch: We did not target because we knew if
+you threw it right over (to the university engineer-
+ing community) that we would get proposals from
+the desired targets anyway. There was a demand
+for it (becoming a center). So restricting options
+didn’t seem right. (The NSF had other targeted
+programs before the ERCs). . . . and it caused a lot
+more unpleasantness but didn’t really buy any-
+thing.
+Bozeman: I was impressed with the fact that the
+ERCs were created with no detriment to the rest of
+the NSF budget for engineering research? Was this
+a self-conscious strategy to develop support for the
+ERCs?
+Bloch: No, we never made that argument. It
+would not have been believed. (University engi-
+neering faculty) argued that if there were
+no centers then that money would have gone
+to the existing programs and funding PI’s in
+the usual way. That wasn’t true, but that was the
+spin.
+Bozeman: The ERCs have by now been in place
+for a long time. Have they veered from the original
+vision?
+Bloch: No. There have been some small
+changes, but not from the original direction. The
+program has kept its focus on education, industry,
+funds matching, which I never thought would
+372
+Bozeman and Boardman
+=== PAGE 9 ===
+happen, and the sunset clause also. It’s kept to
+these. Obviously it has changed in terms of
+selection mechanism, but . . . (no major changes).
+Bozeman: Have there been developments that
+you have found disappointing?
+Bloch: I wouldn’t say disappointing. The
+number of centers did not increase to extent that
+it should have. I had the idea of 22–23 after four or
+ﬁve years. We could have been better off with
+more centers earlier. But you can argue against
+that . . . they need time to mature, etc.
+Bozeman: In our own research (Bozeman and
+Boardman, 2003) we have conducted interviews
+with many ERC and STC directors. Most of the
+points raised are very positive but we have heard
+some complaints about NSF micromanagement
+and the amount of time required for administra-
+tion. Do you have any thoughts about this?
+Bloch: Look. I have no doubt there’s micro-
+managing going on. You can’t have an agency like
+the NSF without micromanagement. The only way
+to avoid it is to limit the number working in that
+ofﬁce. However, the academic community is
+immature. Their view is ‘‘Just send me money
+and leave me alone.’’
+Bozeman: Another point that some of the
+directors make is that the missions have become
+too broad, focusing not only on research but
+education, technology transfer and social issues
+such as minority employment and community
+outreach.
+Bloch: Life is tough.
+Bozeman: Our research seems to show that
+there is a great deal of variation in the extent to in
+which ERC’s work with industry and their
+effectiveness with industry? Is your impression
+different?
+Bloch: This is big problem (whether or not
+centers are actually collaborative). Some proposals
+build from ground up. Others take their existing
+interests and use the ‘‘stapling approach’’ (they
+simply repackage work that they are already
+doing). In the better centers the university takes
+a primary interest. So the way the university treats
+the center makes a big difference. It’s a big source
+of funding for them (the universities). I told this to
+Harris the other day. (William Harris, director
+general, Science Foundation of Ireland, former
+Assistant Director, National Science Foundation).
+I was glad I was in charge for the ﬁrst six centers.
+We learned a lot from the ﬁrst two centers that
+closed, Delaware and Santa Barbara. In a way I
+was glad that not all the centers were renewed. It
+sent a message that centers need to work to the
+commitment and have a plan . (Bloch’s emphasis) If
+you don’t have a good plan, the work and
+commitment don’t matter. You’ll fail. Because of
+this (the early failures), I believe prospective can-
+didates are more careful about implementation.
+Bozeman: (The ERCs and STCs require that
+faculty appointed in the centers have tenured or
+tenure-track appointments elsewhere in the uni-
+versity, usually discipline-based departments).
+Some of those we have interviewed tell us that
+afﬁliation with an ERC or STC may be a double
+load for researchers. They say it is like having two
+jobs. Do you think there is a potential for burnout
+or undermining productivity?
+Bloch: You can’t have it both ways. The ground
+rule is a faculty member at the center has to be a
+member of a department . . . they can’t just belong
+to a center. The problem isn’t the centers it’s the
+departments. I’m against academic departments. I
+think they should get rid of them. There is no such
+thing as chemical engineering or mechanical
+engineering by themselves. They meld. This dual
+responsibility you talk about is unavoidable. If
+someone can’t take it then they should get out. It
+seems to me that it’s up to the individual. I’m not
+so sure that centers are more prone to burnout
+than any other job.
+Bozeman: How about this as a potential
+problem with the centers: We know most directors
+have limited managerial experience. Most have
+only managed research and want to continue to
+manage research. Many have little interest or skill
+in managing the day-to-day operations, personnel,
+and ﬁnances of the center. They often hire some-
+one else to manage the other aspects and in some
+cases it seems that some managerial functions are
+just neglected. Our research seems to indicate that
+some directors are excellent managers and some
+poor. The center selection process doesn’t seem to
+pay much attention to overall management ability
+but chieﬂy research management. Do you feel this
+is a problem?
+Bloch: You can ﬁnd this in any profession and
+in any industry. But I agree with you. There are
+management problems. Maybe (management
+ability) should be part of the review process . . .
+NSF Engineering Research Centers and the University-Industry Research Revolution 373
+=== PAGE 10 ===
+but maybe not. But I agree that management
+ability can make a tremendous difference. Man-
+agement styles is the issue here, not theories of
+management. None if this is about textbook
+management. If center directors managed by
+textbook theory it would be a disaster.
+Bozeman: (The ERCs and STCs have ‘‘sunset’’
+provisions requiring that after a certain period
+they become self-sustaining and NSF funding is
+withdrawn.) Let’s turn to the sunset provisions. I
+think all the center directors understand why these
+are important, but some make the case that their
+center has a harder time becoming self-sustaining
+because their work is farther from the market or,
+in some cases, such as earthquake engineering,
+there is very little potential market. What do you
+think about these views?
+Bloch: Wait a minute. First, the sunset is very
+simple. It was put in place to make sure that
+centers ﬁnd their feet. The second reason was to
+deﬂect from the idea of promoting bricks and
+mortar centers and ever-expanding centers. The
+idea of the sunset was at that time was that the
+centers should show fruit or die . . . but there’s a
+provision that you could reapply in a new
+competition. Of course, you may lose next time
+around. A third good reason for the sunset is that
+the university should take over if they want the
+centers to continue. The university can help ﬁnd
+new sponsors and new money. It was not the idea
+of the sunset to blow it up, but to make centers
+ﬁnd other sources of support.
+Bozeman: Thank you for your time. This has
+been very helpful. I have just one last question.
+Now that you know what we are trying to get at, is
+there anything I should have asked that I didn’t
+ask?
+Bloch: You want me to do your work for you?
+(Bloch laughs). I don’t know. What would be
+interesting is to see not only how these centers
+developed, but at this stage what is their direction
+of development. For example, I am always
+embarrassed when someone asks me how many
+university centers there are. Nobody knows. NSF
+supports more than 350 centers. What are they?
+Where are they? Why are they? We need to bring
+more knowledge to bear on this. We need to
+develop a typology, a morphology of centers.
+Otherwise, how will we know if we are funding the
+right things? How will we know about the gaps?
+3. The ERC management challenge
+As can be readily inferred from the material above,
+Mr. Bloch was his usual candid self. We have no
+need to comment on the interview. Mr. Bloch’s
+perspective and opinions stand on their own.
+However, we think it appropriate to conclude
+with what we feel is one of the greatest managerial
+challenges of multipurpose, multidisciplinary uni-
+versity research centers—balancing the sometimes
+conﬂicting missions and doing so within the
+conﬁnes of universities that have not yet taken
+Mr. Bloch’s prescription to get rid of academic
+departments.
+In our interviews (Bozeman and Boardman,
+2003) with university center directors, one ERC
+director provided an especially cogent account of
+the managerial conundrum for the relatively new
+institutions: ‘‘I’m managing on the basis of a big
+carrot and a little stick. The director has no way to
+entice other than dangling money. The director
+has no power and inﬂuence like the departments
+have. People work together when they want to
+work together.’’ Another ERC director echoed
+these comments:
+My biggest challenge is the diversity of faculty
+interests and getting people to work together. There
+is no question that this issue is the biggest struggle and
+requires the most time and commitment. When we are
+trying to add something else to their agenda, they have
+to be convinced to give up something else. They have
+to decide that they want to move forward in that
+direction. People are driven by their own self-interests,
+and if they recognize that what we want them to do is
+something they want to do—they will do it. That’s why
+we try to offer opportunities to work with companies.
+This is something I can offer—opportunities to
+interact, external things with companies or maybe
+something we do at the Center, things like a seminar
+series or journal club—things that give them oppor-
+tunities for interacting in ways they want to interact.
+Even though these individuals are very invested in
+their own research, they recognize the power of
+interaction. The capacity to make linkages is due to
+having the Center and providing facilities.
+To some extent the jury is still out regarding the
+ability of these innovative institutional designs for
+research and education to co-exist with traditional
+university structures created hundreds of years ago
+and little changed since. But the revolution has
+begun.
+374
+Bozeman and Boardman
+=== PAGE 11 ===
+Acknowledgment
+The authors gratefully acknowledge the support of
+the IBM Endowment for the Business of Govern-
+ment.
+Notes
+1. National Research Council’s Commission on Engineering
+and Technical Systems (CETS).
+2. The symposium titled ‘‘The Engineering Research Centers:
+Factors Affecting Their Thrusts’’ was held on April 29–30, 1985
+under the auspices of CETS.
+3. COSEPUP was a joint committee of the National
+Academies of Science and Engineering and the Institute of
+Medicine. The presentation was on then new information
+processing capabilities, such as that enabled by the 1-megabit
+RAM chip.
+4. Total expenditure on centers divided by total engineering
+expenditures equals 85.71/541.7. See Table II.
+5. Developed by the authors from NSF data from https://
+www.fastlane.nsf.gov/a6/A6SrchAwdf.htm N of 56 includes
+ERCs and Earthquake ERCs. It does not include STCs.
+6. Figures for 1994–2003 are actual, ﬁgures for 2004–2005 are
+estimates. source: http://www.nsf.gov/bfa/bud/fy2005/pdf/
+fy2005_8.pdf.
+7. Source: http://www.nsf.gov/bfa/bud/fy2005/pdf/fy2005_
+8.pdf.
+References
+Association of American Universities and the National
+Association of State Universities and Land Grant Colleges,
+2003, NASA-University Workforce Development’’ An
+Options Paper , downloaded June 4, 2003, http://
+www.aau.edu/useful/workforce%20letter.pdf
+Bozeman, B. and C. Boardman, 2003, Managing the New
+Multipurpose, Multidiscipline University Research Centers:
+Institutional Innovation in the Academic Community ,
+Washington D.C.: IBM Endowment for the Business of
+Government.
+Feller, Irwin, Catherine P. Ailes, and J. David Roessner, 2002,
+‘Impacts of research universities on technological innova-
+tion in industry: evidence from engineering research
+centers,’ Research Policy 31, 457–474.
+Keyworth, George A. II, 1986, ‘Improving the U.S. Position in
+International Industrial Competitiveness,’ in The New
+Engineering Research Centers: Purposes, Goals, and
+Expectations, Washington D.C.: National Academy Press,
+pp. 11–18.
+Lewis, Courtland (ed.), 2004, ‘ERC Best Practices Manual: A
+Collaborative Product of the NSF Engineering Research
+Centers,’ online at http://www.erc-assoc.org/manual/bp_in-
+dex.htm.
+Mayﬁeld, Lewis G., 1987, ‘NSF’s Engineering Research Center
+Program: How It Developed,’ Engineering Education 78,
+130–132.
+Metzger, Norman (ed.), 1987, Science and Technology Centers:
+Principles and Guidelines , Washington D.C.: National
+Academy Press.
+National Academy of Sciences, 1986, The New Engineering
+Research Centers: Purposes, Goals, and Expectations ,
+Washington D.C.: National Academy Press.
+National Science Foundation FY 2005 Budget Request to
+Congress, http://www.nsf.gov/bfa/bud/fy2005/pdf/fy2005.
+pdf.
+Parker, Linda, 1997, The Engineering Research Centers
+Program: An Assessment of Beneﬁts and Outcomes , Arling-
+ton, Virginia: National Science Foundation.
+Suh, Nam P., 1986, ‘The Concept and Goals of the Engineering
+Research Centers,’ in The New Engineering Research
+Centers: Purposes, Goals, and Expectations , Washington
+D.C.: National Academy Press, pp. 37–43.
+NSF Engineering Research Centers and the University-Industry Research Revolution
+375
