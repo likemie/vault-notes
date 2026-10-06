@@ -53,19 +53,21 @@ related_facts:
   - "[[European Research Area]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[DARPA]]"
+  - "[[European Chips Act]]"
   - "[[CHIPS and Science Act]]"
   - "[[Made in China 2025]]"
 related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Brint_2023_IHE]]"
+  - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
 related_methods:
   - "[[Correlational Research]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Horizon Europe
@@ -128,7 +130,7 @@ updated: 2026-10-05
 > - **2018 年** 欧盟委员会发布战略报告《使命导向研究与创新》，正式确立[[Mariana Mazzucato|马祖卡托]]提出的使命导向创新治理蓝图。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
 > - **2019 年** 欧洲议会与理事会就第九框架计划的核心法规原则达成初步政治共识，确立三大支柱结构。
 > - **2021 年** 欧洲议会与欧盟理事会正式通过条例，计划全面启动实施（总预算达 955 亿欧元，含 NextGenerationEU 绿色复苏增量），并公布五大战略使命工作方案。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789)]]
-> - **2023 年** 在全球大国科技竞争升温背景下，国际高等教育学者系统比对《地平线欧洲》与中美产业科技战略的分野，凸显欧洲在社会福祉与生态可持续领域的差异化定位。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]
+> - **2023 年** 在全球大国科技竞争升温背景下，国际高等教育学者系统比对《地平线欧洲》与中美产业科技战略的分野，凸显欧洲在社会福祉与生态可持续领域的差异化定位。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]] 同年，欧盟通过《[[European Chips Act|欧洲芯片法案]]》，其第一支柱“欧洲芯片倡议”直接将“地平线欧洲”（尤其是第四集群“数字、工业与空间”）及“关键数字技术联合承诺”既有资助流吸纳重组，引发预算挪用与改换名目的治理争议。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 12–13)]]
 
 ---
 
@@ -158,6 +160,11 @@ updated: 2026-10-05
 > > 政策观察者质疑欧洲在芯片、人工智能等关键硬科技领域的资金与统筹力度落后于中美，面对大国博弈时的产业防御能力不足。
 > >
 > > - **[[Argument_Brint_2023_IHE|Brint (2023)]]** 指出欧洲主动选择了一条有别于中美霸权竞争的差异化路径，重点押注社会适应与生态福祉，展现了制度自洽性，但这也决定了其在纯粹前沿硬核技术竞争上的防守姿态。（p. 10）
+>
+> > [!axis] 产业危机下既有研发预算的改换名目与财政幻觉
+> > 比较政治经济学研究指出，在地缘危机倒逼下，欧盟因缺乏超国家自主财政权，频繁将“地平线欧洲”等基础研发计划资金改换名目（repurposing），用以粉饰战略产业法案的中央投入，稀释了多边公共科研的自主性。
+> >
+> > - **[[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]]** 深入拆解《[[European Chips Act|欧洲芯片法案]]》财政结构指出，欧盟宣称的 430 亿欧元芯片战略中，中央预算出资仅 33 亿欧元，且这笔资金几乎全部来自对“地平线欧洲”第二支柱数字与工业研发既有资金流的包装借用；这种缺乏中央财政增量的拼凑做法不仅构成了“财政幻觉”，更暴露出超国家层面对成员国各自为战补贴竞赛的治理无力。（pp. 12–13）
 
 ---
 
@@ -169,6 +176,7 @@ updated: 2026-10-05
 > |:-----|:-----|:-----|
 > | [[Horizon Europe Missions]] | Fact (Policy) | “地平线欧洲”第二支柱下推进五大社会挑战的核心制度载体。 |
 > | [[Mission-Oriented Innovation Policy]] | Concept | 指导“地平线欧洲”顶层设计与公共干预的核心[[Innovation Policy Paradigms\|创新政策范式]]。 |
+> | [[European Chips Act]] | Fact (Policy) | 欧盟半导体产业法案，其第一支柱吸纳并挪用了“地平线欧洲”数字与工业集群预算。[[Argument_Bulfone_2024_IAI\|(Bulfone et al., 2024, pp. 12–13)]] |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 美国同期推出的产业科技法案，与地平线欧洲构成显著战略取向对照。 |
 > | [[Mariana Mazzucato]] | Person | 欧盟委员会首席顾问，直接起草并设计了地平线欧洲使命政策模型。 |
 > | [[Geopolitics of Knowledge]] | Concept | 审视地平线欧洲将高等教育嵌入全球区域竞争算计的[[Critical Theory\|批判理论]]视角。 |
@@ -184,4 +192,6 @@ updated: 2026-10-05
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 起草欧盟使命导向研究的顶层理论与制度蓝图，提出将宏大挑战解构为战略使命、部门联动与自下而上项目组合的系统方案。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 梳理使命导向政策的三代历史演进，将“地平线欧洲”定性为以应对棘手社会转型挑战为特征的第三代政策标杆。
 > - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]] — 从批判[[Geopolitics of Knowledge|知识地缘政治]]学视角审视欧盟科技政策，警示将高等教育与科研完全编入区域竞争力算计所引发的[[Epistemology|认识论]]狭隘化风险。
+> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 揭示欧盟《[[European Chips Act|欧洲芯片法案]]》第一支柱对“地平线欧洲”科研预算的改换名目与重新吸纳，剖析欧盟在缺乏超国家财政自主权下形成的财政幻觉与治理短板（pp. 12–13）。
+
 

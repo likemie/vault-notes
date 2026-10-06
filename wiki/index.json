@@ -8583,6 +8583,17 @@
     ]
   },
   {
+    "title": "Orchestrator State",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Orchestrator State.md",
+    "aliases": [
+      "协调型国家",
+      "产业政策协调者",
+      "Orchestrator of Industrial Policy",
+      "State as Orchestrator"
+    ]
+  },
+  {
     "title": "Philanthrocapitalism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Philanthrocapitalism.md",
@@ -8647,6 +8658,17 @@
       "再西方化",
       "rewesternisation",
       "re-westernization"
+    ]
+  },
+  {
+    "title": "Reciprocal Control Mechanism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Reciprocal Control Mechanism.md",
+    "aliases": [
+      "对等控制机制",
+      "互惠控制机制",
+      "Reciprocal Control Mechanisms",
+      "Reciprocal Control"
     ]
   },
   {
@@ -24436,6 +24458,17 @@
       "欧洲比较教育学会",
       "欧洲比较教育学会成立",
       "CESE"
+    ]
+  },
+  {
+    "title": "Critical Raw Materials Act",
+    "type": "fact",
+    "path": "wiki/facts/eu/Critical Raw Materials Act.md",
+    "aliases": [
+      "关键原材料法案",
+      "欧盟关键原材料法案",
+      "CRMA",
+      "Critical Raw Materials Regulation"
     ]
   },
   {
