@@ -8,10 +8,10 @@ aliases:
 summary: "产学联盟四种组织模式中介于企业联盟计划和创新中心之间的形态，大学先选定研究方向后产业基于对齐度加入，由政府与产业双重资助，产业成员获得前景知识产权的优先谈判权"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 24
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 37
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"
@@ -169,7 +169,7 @@ updated: 2026-10-07
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **人事协调权力命题** | 双重聘任制导致中心主任缺乏人事硬权力，仅能依靠经费诱导艰难维系跨学科协作 | 大学跨学科多院系中心治理 | [[Argument_Bozeman_2004_JTT\|Bozeman & Boardman (2004)]] |
-> | **组织存续规训命题** | 十年日落条款有效遏制实体扩张惰性，倒逼中心对接市场实现自我造血或有序淘汰 | 政府[[Seed Funding\|种子资助]]的产学中心项目 | [[Erich Bloch|Bloch]] (采访者 Bozeman & Boardman) |
+> | **组织存续规训命题** | 十年日落条款有效遏制实体扩张惰性，倒逼中心对接市场实现自我造血或有序淘汰 | 政府[[Seed Funding\|种子资助]]的产学中心项目 | [[Erich Bloch\|Bloch]] (采访者 Bozeman & Boardman) |
 > | **实践教育再造命题** | 重资产中心设施向本科与研究生教学下沉，重塑工程教育实践与人才蓄水池 | 具有重资产实验平台的工科高校 | [[Argument_Mody_2017_MOH\|Mody (2017)]] |
 
 ---
@@ -203,7 +203,7 @@ updated: 2026-10-07
 
 > [!tension] 联邦资助问责的微观管理 vs 学术界只要经费不要干预的自治诉求
 > - **学术中心主任立场（蓝方）** 批评政府资助机构设立繁琐的阶段性评估与指标审计，陷入行政“微观管理”，严重分散了科研人员从事技术攻关的核心精力。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 373)]]
-> - **联邦管理者立场（红方）** [[Erich Bloch|埃里希·布洛赫]]尖锐指出，公共资金必须对纳税人负责，大学学者妄想“把钱打给我然后离我远点”是极其幼稚的幻想，严格的问责与期中淘汰是防范平庸与惰性的必要机制。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 373)]]
+> - **联邦管理者立场（红方）** [[Erich Bloch|埃里希·布洛赫]]尖锐指出，公共资金必须对纳税人负责，大学学者妄想“把钱打给我然后离我远点”是极其幼稚的幻想，严格的问责与期中淘汰是防范平庸与惰性的必要机制。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 374)]]
 
 > [!warning] 适用局限与研究盲区
 > - **大学传统院系的深层共存阻力** 拥有数百年历史的大学传统院系科层具有强大的组织韧性，新型中心模式能否真正彻底打破学科壁垒并长期良性共存，学界至今仍难下定论。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 374)]]
