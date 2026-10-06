@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Research Translation]]"
   - "[[Use-Inspired Basic Research]]"
+  - "[[Workforce Development]]"
   - "[[Innovation Hub]]"
   - "[[Public Value]]"
   - "[[Policy Conditionalities]]"
@@ -102,7 +103,7 @@ updated: 2026-10-06
 >   - **直接制造建厂补贴（390 亿美元）** 由商务部通过竞争性申请发放，单项目补贴最高可达资本支出的 15%，用于新建或扩建晶圆制造设施（其中专门划拨 20 亿美元用于保障汽车与军工成熟制程）；[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 7–8)]]
 >   - **先进制造投资税收抵免（25% ITC）** 提供为期四年的 25% 联邦投资税收抵免（Section 48D），预估支持规模达 240 亿美元；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 97–98)]]
 >   - **国家科研机构扩容与人才培养** 为 [[National Science Foundation|美国国家科学基金会]]（NSF）授权 810 亿美元预算并增设[[Directorate for Technology, Innovation and Partnerships|技术、创新与伙伴关系理事会]]（TIP），专门加速[[Use-Inspired Basic Research|应用启发的基础研究]]与成果产业转化；为[[Department of Energy|美国能源部]]（DOE）科学办公室授权 305 亿美元增量预算支持二十项前沿技术攻关；同时投入数十亿美元用于理科教育，并将国家研究生研究奖学金（GRFP）年度资助名额从 2000 名增加至 3000 名；[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
->   - **先进研发与劳动力发展专项（130 亿美元，含 110 亿直接研发）** 设立[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）、国家先进封装制造计划（NAPMP）、微电子计量网络及劳动力技能培训项目；汲取 [[Sematech]] 协同经验，系统性补齐工艺工程师储备；[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
+>   - **先进研发与[[Workforce Development|劳动力发展]]专项（130 亿美元，含 110 亿直接研发）** 设立[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）、国家先进封装制造计划（NAPMP）、微电子计量网络及劳动力技能培训项目；汲取 [[Sematech]] 协同经验，系统性补齐工艺工程师储备；[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
 >   - **区域技术枢纽（Tech Hubs 计划，超 100 亿美元）** 在传统研发落后地区设立国家级技术与[[Innovation Hub|创新中心]]；[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 133–134)]]
 >   - **国防与友岸外包专项基金** 设立 20 亿美元国防专用半导体基金与 5 亿美元国际技术安全与创新基金（ITSI Fund）。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 98)]]
 > - **约束机制**
@@ -182,7 +183,7 @@ updated: 2026-10-06
 > [!finding-cards] 实施成效与结构反响
 > - **重塑全球先进制程投资流向** 成功吸引[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（亚利桑那州两座先进制程晶圆厂）、三星（德州泰勒）、英特尔（俄亥俄与亚利桑那州）及美光（纽约州超级 DRAM 厂）落地，锁定了未来 2nm–4nm 先进产能。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]
 > - **开创三代公私研发合作新格局** 推动建立[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC），使[[University-Industry Collaboration|产学合作]]从公司自发投资跃升为国家战略级制度化创新基础设施。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
-> - **前沿研发与劳动力培育协同机制** 法案在直接补贴之外将劳动力发展确立为核心基石，借鉴欧洲 IMEC 等跨国高校-产业研发中心[[Paradigm|范式]]，设立 NSTC 产学培训网络；同时创新性要求申请 1.5 亿美元以上补贴的企业强制配套员工托儿服务（Childcare），通过社会政策工具激活女性与本地技术劳动力供给。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 97–98)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
+> - **前沿研发与劳动力培育协同机制** 法案在直接补贴之外将[[Workforce Development|劳动力发展]]确立为核心基石，借鉴欧洲 IMEC 等跨国高校-产业研发中心[[Paradigm|范式]]，设立 NSTC 产学培训网络；同时创新性要求申请 1.5 亿美元以上补贴的企业强制配套员工托儿服务（Childcare），通过社会政策工具激活女性与本地技术劳动力供给。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 97–98)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
 > - **微观高校学者动员与半导体跨学科团队孵化** 面对全美至 2030 年预计缺口达 140 万的 [[STEM Education|STEM]] 与半导体人才荒，美国高水平[[Research Universities|研究型大学]]通过设立专项工作组与半导体研究院，采用[[Design-Based Research|基于设计的研究]]开展逐层扩圈的学者发展工作坊，推动电气工程、材料科学与计算机科学等院系打破壁垒、对接产业技术需求并组建跨学科攻关网络。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 1–6)]]
 > - **激活落后地区[[Innovation Ecosystem|区域创新生态]]** Tech Hubs 与 [[National Science Foundation|NSF TIP]] 资助大幅提升了传统内陆地区[[Innovation Park|研究园区]]的[[Research Translation|技术转化]]活力与风险资本关注度。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 133–137)]]
 

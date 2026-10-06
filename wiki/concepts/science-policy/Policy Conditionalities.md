@@ -10,7 +10,7 @@ aliases:
 summary: "现代产业政策中政府向受补贴或受资助企业施加的契约性与法定约束机制；通过将公共财政支持与公共价值目标（包括高标准劳动力发展、托儿支持、禁止股票回购、超额利润分享、国家安全护栏及本土采购含量要求等）硬性绑定，旨在克服传统产业补贴的私营资本寻租与无条件分红弊端，实现兼具经济效率、供应链安全与社会包容的双重目标。"
 type: concept
 domain: "science-policy"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Apprenticeship]]"
   - "[[Paradigm]]"
+  - "[[Workforce Development]]"
   - "[[Modern Industrial Policy]]"
   - "[[Assemblage]]"
   - "[[Operationalization]]"
@@ -69,7 +70,7 @@ updated: 2026-10-06
 > [!citation-card] 现代产业战略中的制度化附加条件
 > 现代产业战略必须重塑国家与私营部门之间的社会契约。附加条件（Conditionalities）指政府为获得公共支持的企业设定特定要求，将公共投资与更广泛的公共价值目标硬性挂钩——包括要求企业投资于工人技能培训与学徒制、提供托儿服务支持、承诺利润分享，以及限制海外先进制程扩张。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–5)]]
 >
-> *Conditionalities, where government sets requirements on companies that receive public support... allow the public sector to direct support to broader societal goals and ensure public value creation, including workforce development, childcare, profit sharing, and security guardrails.*
+> *Conditionalities, where government sets requirements on companies that receive public support... allow the public sector to direct support to broader societal goals and ensure public value creation, including [[Workforce Development]], childcare, profit sharing, and security guardrails.*
 
 > [!citation-card] 护栏条款与防范资本寻租
 > 《[[CHIPS and Science Act|芯片法案]]》明确规定，任何获得直接资金支持的企业在未来十年内均被禁止使用补贴资金进行股票回购或发放股息，并被严格限制在受关切国家扩大先进制程芯片产能。这些护栏条款（Guardrails）与附加条件共同构成了防范资本寻租与维护国家安全的制度防护网。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
@@ -99,7 +100,7 @@ updated: 2026-10-06
 ## 核心要素
 
 > [!feature] [[Modern Industrial Policy|现代产业政策]]附加条件的核心构件分类学
-> - **劳动力与社会包容附加条件（Workforce & Social Inclusion）** 强制要求受资助企业提交劳动力发展计划，与工会[[Apprenticeship|注册学徒制]]及社区学院合作，并为一线工人与建筑工人提供可负担托儿保障（CHIPS 要求 >1.5 亿美元项目）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 9–10)]]
+> - **劳动力与社会包容附加条件（Workforce & Social Inclusion）** 强制要求受资助企业提交[[Workforce Development|劳动力发展计划]]，与工会[[Apprenticeship|注册学徒制]]及社区学院合作，并为一线工人与建筑工人提供可负担托儿保障（CHIPS 要求 >1.5 亿美元项目）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 9–10)]]
 > - **资本纪律与公共收益分享机制（Capital Discipline & Profit-Sharing）** 明确禁止受资助企业动用补贴资金回购本公司股票，并对超出商业预期的超额利润设置公共返还机制，实现公共与私人部门的风险收益对等。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
 > - **国家安全与地缘护栏条款（National Security Guardrails）** 设立 10 年期具有法律约束力的“护栏条款”，严禁受资助芯片制造企业在特定受关切国家扩大先进制程产能超过 5%，防范技术外溢与地缘反噬。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 8)]]
 > - **需求拉动与本土采购含量要求（Domestic Content & Demand Pull）** 通过立法（如《[[Build America, Buy America Act|以美国制造为荣法案]]》BABA）硬性要求联邦资助项目使用本土钢铁与建材，或将最高清洁税收抵免与本土[[Assemblage|组装]]配额绑定。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–14)]]

@@ -11,7 +11,7 @@ aliases:
 summary: "Schot & Steinmueller（2018）与 Mazzucato（2018）等学者识别的创新政策三大范式——科学促增长（Frame 1）、国家创新系统（Frame 2）与变革转型（Frame 3），揭示了公共干预从弥补市场失灵到管理系统失灵再到主动进行市场塑造与方向性引导的递进演化逻辑"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 40
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Transformative System Failures]]"
   - "[[Grand Challenges]]"
   - "[[Picking the Willing]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Patient Capital]]"
 related_theories:
   - "[[Systems of Innovation]]"
@@ -60,6 +61,7 @@ related_facts:
   - "[[Bayh-Dole Act of 1980]]"
   - "[[National Science Foundation]]"
   - "[[CHIPS and Science Act]]"
+  - "[[NSF Regional Innovation Engines]]"
   - "[[DARPA]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Horizon Europe Missions]]"
@@ -70,7 +72,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-27
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Innovation Policy Paradigms
@@ -170,7 +172,7 @@ updated: 2026-10-05
 > 现实中的[[National Innovation System|国家创新体系]]并不孤立运行单一范式，而是呈现多范式工具的有机层叠。
 
 > [!claim] Lindner et al. & Ulrichsen
-> **混合政策组合命题** 在当代发达国家的科技创新体系中，三大范式以分层互补的形态共存运行。例如，美国同时维系着大规模的大学自由探索基础研究资助（范式一）、[[National Science Foundation|NSF]] [[University-Based Research Center|产学合作研究中心]]与[[Technology Transfer|技术转移]]网络（范式二），并依托《[[CHIPS and Science Act|芯片与科学法案]]》（[[CHIPS and Science Act|CHIPS Act]]）区域创新引擎与 [[DARPA]]/ARPA-E 机制推进战略性使命攻坚（范式三要素）。政策制胜的关键在于根据具体创新阶段与社会目标，实现多范式工具箱的精细化组合与协同配置。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 43–44)]]
+> **混合政策组合命题** 在当代发达国家的科技创新体系中，三大范式以分层互补的形态共存运行。例如，美国同时维系着大规模的大学自由探索基础研究资助（范式一）、[[National Science Foundation|NSF]] [[University-Based Research Center|产学合作研究中心]]与[[Technology Transfer|技术转移]]网络（范式二），并依托《[[CHIPS and Science Act|芯片与科学法案]]》（[[CHIPS and Science Act|CHIPS Act]]）[[NSF Regional Innovation Engines|区域创新引擎]]与 [[DARPA]]/ARPA-E 机制推进战略性使命攻坚（范式三要素）。政策制胜的关键在于根据具体创新阶段与社会目标，实现多范式工具箱的精细化组合与协同配置。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 43–44)]]
 
 ---
 
@@ -204,7 +206,7 @@ updated: 2026-10-05
 > - **1987–1993 — 范式二兴起：国家[[Systems of Innovation|创新系统理论]]化** Freeman（1987）、Lundvall（1992）与 Nelson（1993）正式提出[[National Innovation System|国家创新系统]]概念；英国 1993 年发布《发挥我们的潜力》（*Realising Our Potential*）白皮书，1999 年确立长期公式化[[Knowledge Exchange|知识交流]]拨款，标志着系统范式的制度化。
 > - **2012 — [[Transformative System Failures|变革性系统失灵]]框架提出** Weber & Rohracher（2012）在《Research Policy》发表奠基性论文，系统提出方向性、需求表达、[[Reflexivity|反思性]]与政策协调四类失灵，为超越系统范式提供理论支点。
 > - **2018 — 范式三系统建构：三范式与 ROAR 使命框架** Schot & Steinmueller（2018）在《Research Policy》发表《创新政策三框架》（*Three Frames for Innovation Policy*）；[[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）发表《[[Mission-Oriented Innovation Policy|使命导向创新政策]]：挑战与机遇》，确立以[[Market Shaping and Creating|市场塑造]]与 ROAR 框架为核心的使命导向范式。
-> - **2020–2024 — 实践落地与全球试验** 欧盟全面启动[[Horizon Europe Missions|地平线欧洲战略使命]]；美国出台《[[CHIPS and Science Act|芯片与科学法案]]》（[[CHIPS and Science Act|CHIPS Act]]）设立区域创新引擎；[[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] 提出问题–解决方案空间[[Analytic Framework|分析框架]]；[[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] 总结大学在三范式演化中的角色重塑。
+> - **2020–2024 — 实践落地与全球试验** 欧盟全面启动[[Horizon Europe Missions|地平线欧洲战略使命]]；美国出台《[[CHIPS and Science Act|芯片与科学法案]]》（[[CHIPS and Science Act|CHIPS Act]]）设立[[NSF Regional Innovation Engines|区域创新引擎]]；[[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] 提出问题–解决方案空间[[Analytic Framework|分析框架]]；[[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] 总结大学在三范式演化中的角色重塑。
 
 ---
 
@@ -225,7 +227,7 @@ updated: 2026-10-05
 > > - **[[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]** 主张通过“[[Picking the Willing|挑选意愿者]]”而非“挑选赢家”、建立透明组合管理与风险收益共享机制化解寻租风险。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–810)]]
 >
 > > [!axis] 大学职能扩张与组织角色过载风险
-> > 从“[[Knowledge Production|知识生产]]者”到“系统催化剂”再到“中立召集者与方向贡献者”，大学承担的社会职能日益膨胀；批评者担忧角色过载可能侵蚀大学从事长周期自由探索研究（好奇心驱动）的核心根基。
+> > 从“[[Knowledge Production|知识生产]]者”到“系统催化剂”再到“中立召集者与方向贡献者”，大学承担的社会职能日益膨胀；批评者担忧角色过载可能侵蚀大学从事长周期[[Curiosity-Driven Research|自由探索研究]]（好奇心驱动）的核心根基。
 > >
 > > - **Kelleher & Ulrichsen (2022)** 警告大学若缺乏制度能力建设与学术自主权保障，多重角色期望可能导致科研人员评价撕裂与组织目标迷失。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 34–35)]]
 

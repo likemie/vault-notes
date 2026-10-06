@@ -7,7 +7,7 @@ aliases:
 summary: "将教育与培训视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论。二战后在冷战地缘博弈中成为经合组织（OECD）推行技术官僚式人力规划与世界银行构建跨国放贷指标帝国的核心理论支柱；在创新经济学中阐明了重大工程实战历练与冷战大学研究生流动构筑高科技产业实体技术转移与人才生态的微观机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 61
+theory_related_count: 62
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Historical Amnesia]]"
   - "[[Modern Industrial Policy]]"
   - "[[STEM Education]]"
+  - "[[Workforce Development]]"
   - "[[Scientific Paradigm]]"
 related_theories:
   - "[[Governing at a Distance]]"
@@ -282,7 +283,7 @@ updated: 2026-10-06
 > > [!axis] [[Modern Industrial Policy|现代产业政策]]竞争中工程人力资本的战略集聚 vs 跨国空间分散的供给断链
 > > 围绕先进制程制造对高密度专门 [[STEM Education|STEM]] 劳动力池的极度依赖，以及现代产业政策跨国分散设厂是否会遭遇人力资本短缺瓶颈展开争论。
 > >
-> > - **人力资本集聚与战略招募学派（[[Argument_Bown_2024_JEP|Bown & Wang, 2024]]）** 强调半导体制造等尖端高科技产业具有极高的人力资本专业化门槛；东亚集群的优势很大程度上源于数十年积累的高素质工程师劳动力池，中国等后发国家亦通过国家级海外人才招募计划定向引进台湾与韩国成熟工程师；美国《[[CHIPS and Science Act|芯片与科学法案]]》特设 130 亿美元用于研发与劳动力发展（借鉴欧洲 IMEC 模式），并捆绑托儿服务条款以激活本地劳动力。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 93–94, 97–98)]]
+> > - **人力资本集聚与战略招募学派（[[Argument_Bown_2024_JEP|Bown & Wang, 2024]]）** 强调半导体制造等尖端高科技产业具有极高的人力资本专业化门槛；东亚集群的优势很大程度上源于数十年积累的高素质工程师劳动力池，中国等后发国家亦通过国家级海外人才招募计划定向引进台湾与韩国成熟工程师；美国《[[CHIPS and Science Act|芯片与科学法案]]》特设 130 亿美元用于研发与[[Workforce Development|劳动力发展]]（借鉴欧洲 IMEC 模式），并捆绑托儿服务条款以激活本地劳动力。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 93–94, 97–98)]]
 > > - **空间分散引发的技能断链与成本溢价批评** 经济学家指出，工程技术人员的隐性知识积累依赖高密度的本地实体集群；出于地缘安全考量强制企业在欧美多地分散建厂，由于缺乏配套的熟练劳动力池与工程师储备，极易引发熟练技工短缺、文化冲突与工期严重延宕，暴露出人力资本供给无法随物理资本投资瞬间复制的制度性刚性。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 102–103)]]
 >
 > > [!axis] 国家重大科技工程对科技人力资源的孵化溢出 vs. 结构性挤出与供给失衡
@@ -305,7 +306,7 @@ updated: 2026-10-06
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理[[OECD|经合组织]]与[[World Bank|世界银行]]七十五年历时制度演变，揭示冷战[[Sputnik Shock 1957|斯普特尼克冲击]]后国际组织如何将人力资本理论、控制论规划与教育收益率数据库工具化，打造出跨国放贷与指标治理帝国的历史轨迹。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示跨国大规模评估（OECD/PISA）崛起后，以人力资本和经济竞争力为导向的技术官僚治理如何对比较教育的研究课题、经费分配与政策咨询施加直接的量化[[Disciplina and Doctrina|规训]]压力。
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统剖析美国半导体与计算机产业发展史，揭示重大公共战略工程如何培育高技术专门工程人力资本，并通过企业间衍生创业网络与企业内部跨部门平移双重机制驱动民用产业升级。
-> - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 从[[Modern Industrial Policy|现代产业政策]]与大国半导体竞争视角，阐明高科技先进制程对高密度专门工程劳动力池的刚性依赖、跨国战略人才招募竞争，以及补贴法案中劳动力发展（IMEC 产学模式与托儿服务配套）的制度设计。
+> - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 从[[Modern Industrial Policy|现代产业政策]]与大国半导体竞争视角，阐明高科技先进制程对高密度专门工程劳动力池的刚性依赖、跨国战略人才招募竞争，以及补贴法案中[[Workforce Development|劳动力发展]]（IMEC 产学模式与托儿服务配套）的制度设计。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 实证阐明战后美国国防科研对大学计算机系所的长期资助如何孵化新兴科技人力资本，并通过受训研究生的跨界流动构筑信息技术向产业界转移的核心载体。
 
 ---

@@ -13,9 +13,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "联邦科研资助与技术转化机构（Federal Funding & Technology Translation Directorate）"
 headquarters: "美国弗吉尼亚州亚历山大市（Alexandria, VA）"
@@ -51,6 +51,7 @@ related_persons: []
 related_facts:
   - "[[National Science Foundation]]"
   - "[[CHIPS and Science Act]]"
+  - "[[NSF Regional Innovation Engines]]"
   - "[[NSF I-Corps]]"
   - "[[SBIR and STTR Programs]]"
   - "[[DARPA]]"
@@ -70,7 +71,7 @@ updated: 2026-10-06
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **技术、创新与合作理事会（Directorate for Technology, Innovation and Partnerships, TIP）** 是[[National Science Foundation|美国国家科学基金会]]（NSF）于 2022 年依据《[[CHIPS and Science Act|芯片与科学法案]]》正式创设的全新跨界业务理事会，也是 NSF 成立 30 余年来设立的首个新理事会。作为 NSF 加速科学成果产业落地的“国家级创新引擎”，TIP 专门致力于打破从前沿基础研究到现实应用的“[[Valley of Death|死亡之谷]]”，通过构建[[Public-Private Partnership in Research|公私合作伙伴关系]]（[[Public-Private Partnership in Research|PPP]]）、布局区域创新引擎（NSF Regional Innovation Engines）与培育高技术人才，将联邦基础科学投入直接转化为国家经济繁荣、产业技术自主与国家安全优势。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233, 237)]]; [[Argument_Ramming_2025_CorporateSupport|(National Science Foundation, 2022, cited in Ramming, 2025, p. 237)]]
+> **技术、创新与合作理事会（Directorate for Technology, Innovation and Partnerships, TIP）** 是[[National Science Foundation|美国国家科学基金会]]（NSF）于 2022 年依据《[[CHIPS and Science Act|芯片与科学法案]]》正式创设的全新跨界业务理事会，也是 NSF 成立 30 余年来设立的首个新理事会。作为 NSF 加速科学成果产业落地的“国家级创新引擎”，TIP 专门致力于打破从前沿基础研究到现实应用的“[[Valley of Death|死亡之谷]]”，通过构建[[Public-Private Partnership in Research|公私合作伙伴关系]]（[[Public-Private Partnership in Research|PPP]]）、布局[[NSF Regional Innovation Engines|区域创新引擎]]（NSF Regional Innovation Engines）与培育高技术人才，将联邦基础科学投入直接转化为国家经济繁荣、产业技术自主与国家安全优势。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233, 237)]]; [[Argument_Ramming_2025_CorporateSupport|(National Science Foundation, 2022, cited in Ramming, 2025, p. 237)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2022 年 3 月启动设立，随后在 2022 年 8 月通过的《芯片与科学法案》中获得全面法定赋权与巨额预算授权；旨在应对全球科技霸权博弈、关键核心技术产业外流以及美国科研成果转化率低下的体制痛点。
@@ -85,7 +86,7 @@ updated: 2026-10-06
 > [!dev-timeline] 组织发展历程
 > - **2021 — 《无尽前沿法案》立法博弈与战略设计** 国会两党议员提出《无尽前沿法案》（Endless Frontier Act），主张在 [[National Science Foundation|NSF]] 内部重构应用[[Research Translation|技术转化]]职能，引发了科学界关于“保持[[Curiosity-Driven Research|纯基础研究]]”与“强化国家关键技术转化”的历史性大辩论。
 > - **2022 — TIP 理事会正式创设与《[[CHIPS and Science Act|芯片法案]]》立法锁定** 2022 年 3 月 NSF 主任正式宣布成立 TIP 理事会；同年 8 月总统签署《芯片与科学法案》，正式确立 TIP 的法定地位，并授权其在未来数年内动用数百亿美元推进国家技术转化生态建设。
-> - **2023–至今 — 启动区域创新引擎与政产学研联合体网络** 遴选并资助首批“NSF 区域创新引擎”，在全美落子数十个十亿美元级区域产学研联合体，确立以公私伙伴关系为核心载体的现代国家转化[[Paradigm|范式]]。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233, 237)]]
+> - **2023–至今 — 启动[[NSF Regional Innovation Engines|区域创新引擎]]与政产学研联合体网络** 遴选并资助首批“NSF 区域创新引擎”，在全美落子数十个十亿美元级区域产学研联合体，确立以公私伙伴关系为核心载体的现代国家转化[[Paradigm|范式]]。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233, 237)]]
 
 ---
 
@@ -94,7 +95,7 @@ updated: 2026-10-06
 > [!actor-grid] 组织治理架构
 > - **助理主任与理事会领导层（Assistant Director for TIP）** 由资深[[Research Translation|技术转化]]专家与学术领导者出任，直接向 [[National Science Foundation|NSF]] 主任汇报，统筹重大技术转化计划的设立与跨部门协调。
 > - **转化影响处（Division of Translational Impacts, TI）** 统筹管理 NSF 长期积累的技术商业化计划（包括 [[NSF I-Corps|I-Corps]]、[[SBIR and STTR Programs|SBIR]]/STTR 小企业创新研究计划与 PFI 创新伙伴关系项目）。
-> - **创新与技术生态处（Division of Innovation and Technology Ecosystems, [[Initial Teacher Training|ITE]]）** 负责领导“区域创新引擎”与大规模产学研研发联合体，专注于区域集群培育与产业链协同。
+> - **创新与技术生态处（Division of Innovation and Technology Ecosystems, [[Initial Teacher Training|ITE]]）** 负责领导“[[NSF Regional Innovation Engines|区域创新引擎]]”与大规模产学研研发联合体，专注于区域集群培育与产业链协同。
 > - **跨部门咨询委员会与产业顾问团** 由高科技跨国企业高管（涵盖 [[Academic Engagement Team|AET]] 领袖）、顶尖[[Grandes Ecoles|大学校]]长与地方经济发展官员组成，定期评估技术路线图与转化实效。
 
 > [!pathways]- 业务运行机制
@@ -107,7 +108,7 @@ updated: 2026-10-06
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **[[National Science Foundation|NSF]] 区域创新引擎计划（NSF Regional Innovation Engines）** 投资数十亿美元在全美培育具有全球竞争力的区域高科技[[Innovation Hub|创新中心]]，每个引擎资助周期长达 10 年、资助额最高达 1.6 亿美元。
+> - **[[National Science Foundation|NSF]] [[NSF Regional Innovation Engines|区域创新引擎]]计划（NSF Regional Innovation Engines）** 投资数十亿美元在全美培育具有全球竞争力的区域高科技[[Innovation Hub|创新中心]]，每个引擎资助周期长达 10 年、资助额最高达 1.6 亿美元。
 > - **国家融合加速器（Convergence Accelerator）** 采用类似 [[DARPA]] 的快节奏、挑战驱动管理模式，聚焦多学科交叉前沿瓶颈，加速颠覆性样机向市场转化。
 > - **国家创新网络与 [[NSF I-Corps|I-Corps]] 创业加速体系** 依托全美大学网络推广精益创业方法论，协助数千个大学实验室课题组完成商业概念验证与衍生企业创立。
 > - **新兴技术体验式学习计划（ExLENT）** 为非传统背景学生与在职技术工人提供进入人工智能、微电子等战略领域的直接实习与实战培训通道。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 237)]]
@@ -143,7 +144,7 @@ updated: 2026-10-06
 > > - **TIP 理事会辩护（正方）** 强调 TIP 是对传统基础研究理事会的增量补充而非替代；在当代[[Big Science|大科学]]时代，最深奥的科学突破往往产生于解决实际重大技术挑战（如气候变化、超导集成）的攻坚过程中。
 >
 > > [!axis] 区域平衡政策倾斜 vs 科学卓越唯绩效竞争原则之争
-> > 探讨区域创新引擎（Engines）在遴选时兼顾地理与种族多样性，是否会牺牲科学资助最高的卓越标准。
+> > 探讨[[NSF Regional Innovation Engines|区域创新引擎]]（Engines）在遴选时兼顾地理与种族多样性，是否会牺牲科学资助最高的卓越标准。
 > >
 > > - **精英[[Research Universities|研究型大学]]立场** 坚信联邦资金应严格依据同行评议中的学术水准竞争分配，反对为了“区域平衡”向科研基础薄弱的地区降格倾斜。
 > > - **包容性创新发展立场** 认为唯有激活全美各区域本土产业与社区学院资源，才能根本解决国家战略科技人才供给匮乏与区域发展严重失衡的深层危机。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 236–238)]]
@@ -161,5 +162,5 @@ updated: 2026-10-06
 > | [[National Semiconductor Technology Center]] | Fact (Organization) | 依据《芯片法案》设立的微电子中试转化平台，与 TIP 形成国家创新链协同。 |
 > | [[Public-Private Partnership in Research]] | Concept | TIP 理事会开展战略技术攻坚与资金杠杆放大的核心机制工具。 |
 > | [[Research Translation]] | Concept | TIP 理事会设立的法定核心宗旨与终极业务指向。 |
-> | [[Innovation Ecosystem]] | Concept | TIP 区域创新引擎计划旨在培育与重构的全美区域创新生态载体。 |
+> | [[Innovation Ecosystem]] | Concept | TIP [[NSF Regional Innovation Engines\|区域创新引擎]]计划旨在培育与重构的全美区域创新生态载体。 |
 > | [[Academic Engagement Team]] | Concept | 工业界 AET 实践者借力政府资金放大合作规模的核心政策对接界面。 |

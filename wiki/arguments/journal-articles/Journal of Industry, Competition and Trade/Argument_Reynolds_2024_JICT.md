@@ -30,6 +30,8 @@ related_concepts:
   - "[[Apprenticeship]]"
   - "[[Document]]"
   - "[[Total Factor Productivity]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Workforce Development]]"
   - "[[Growth]]"
 related_theories:
   - "[[Evolutionary Economics]]"
@@ -45,6 +47,8 @@ related_facts:
   - "[[International Reading Association]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
+  - "[[NSF Regional Innovation Engines]]"
+  - "[[National Science Foundation]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[Loan Programs Office]]"
   - "[[Build America, Buy America Act]]"
@@ -60,7 +64,7 @@ title: "Argument_Reynolds_2024_JICT"
 argument_key: "Argument_Reynolds_2024_JICT"
 argument_display_title: "U.S"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -170,13 +174,14 @@ journal: "Journal of Industry, Competition and Trade"
 
 > [!feature] 芯片法案的核心资助结构与规约设计
 > - **制造激励资金（390 亿美元）** 直接用于新建或扩建商业晶圆制造设施，其中专门划拨 20 亿美元用于保障汽车与军工领域的成熟制程（Legacy Chips）供应。
-> - **研发与劳动力专项（130 亿美元）** 涵盖 110 亿美元先进半导体研发与[[National Semiconductor Technology Center|国家半导体技术中心]]（National Semiconductor Technology Center, [[National Science and Technology Council|NSTC]]）建设，5 亿美元国际技术安全与创新基金（International Technology Security and Innovation Fund, ITSI），2 亿美元半导体劳动力培训，以及 20 亿美元国防专用微电子资助。（pp. 7–8）
+> - **研发与劳动力专项（130 亿美元）** 涵盖 110 亿美元先进半导体研发与[[National Semiconductor Technology Center|国家半导体技术中心]]（National Semiconductor Technology Center, [[National Science and Technology Council|NSTC]]）建设，协同[[NSF Regional Innovation Engines|国家科学基金会区域创新引擎]]（[[National Science Foundation|NSF]] Regional Innovation Engines）等地方导向[[Innovation Ecosystem|创新生态]]，5 亿美元国际技术安全与创新基金（International Technology Security and Innovation Fund, ITSI），2 亿美元半导体劳动力培训，以及 20 亿美元国防专用微电子资助。（pp. 6–8）
 > - **先进制造投资税收抵免（25% ITC）** 为半导体制造设备及厂房建设投资提供为期四年的 25% 投资税收抵免（Investment Tax Credit, ITC，法案第 48D 条）。
 > - **无国籍偏好的投资组合** 资助向所有在美建厂的企业开放（包括[[Taiwan Semiconductor Manufacturing Corporation|台积电]]、三星、英特尔与美光等），实行严格的资金池竞争，避免钦定本土单一企业。（p. 8）
 
 为防范企业获取公共补贴后进行投机性资本运作或损害国家安全，商务部设置了多重护栏与社会附加条件。（pp. 8–9）
 
 > [!policy-design] 芯片法案的护栏与社会附加条件系统
+> - **前置[[Workforce Development|劳动力发展计划]]与[[Apprenticeship|学徒制]]（Workforce Development Plan）** 申请补贴企业必须提交包含注册[[Apprenticeship|学徒制]]与高校/社区学院产教协同在内的[[Workforce Development|劳动力发展计划]]，作为资助获批的前提。
 > - **托儿服务强制配套（Childcare Mandate）** 针对申请超过 1.5 亿美元直接补贴的企业，强制要求提交为员工与施工工人提供可负担、高质量托儿服务的具体方案，以动员女性与本地技术劳动力。（pp. 8–9）
 > - **超额利润分享机制（Windfall Profit Sharing）** 当获得资助的商业项目实际现金流显著超出初始预估时，企业必须与联邦政府分享超出部分的超额利润。
 > - **股票回购严格限制（Stock Buyback Prohibitions）** 严禁企业将联邦直接补贴资金用于股票回购或派发股东股息。
@@ -237,7 +242,7 @@ journal: "Journal of Industry, Competition and Trade"
 > [!tension-table] 产业战略推进面临的结构性瓶颈与制度冲突
 > | 瓶颈维度 | 现实冲突表征 | 应对与缓解路径 |
 > |---|---|---|
-> | **技术劳动力与技能缺口** | 缺乏足够的建筑工人、电工、管道工及半导体工艺工程师，制约工程进度并推高用工成本。（pp. 13–14） | 强化社区学院合作、推广注册学徒制、落实托儿服务以动员潜在劳动力。（pp. 8–11） |
+> | **技术劳动力与技能缺口** | 缺乏足够的建筑工人、电工、管道工及半导体工艺工程师，制约工程进度并推高用工成本。（pp. 13–14） | 依托[[NSF Regional Innovation Engines\|国家科学基金会区域创新引擎]]等项目强化产教协同、全面推行前置[[Workforce Development\|劳动力发展计划]]与注册学徒制、落实托儿服务以动员潜在劳动力。（pp. 6, 8–11） |
 > | **行政许可与土地监管迟滞** | 《国家环境政策法》（National Environmental Policy Act, NEPA）跨部门环境影响评估繁琐，州与地方土地规划审批缓慢，阻碍电网与厂房建设。（pp. 5, 14） | 推进联邦与州级监管改革，如联邦能源监管委员会（FERC）2023 年电网互联新规。（p. 14） |
 > | **国家行政与专业能力赤字** | 商务部、能源部等联邦机构需在短期内审核海量申请并维持常态化沟通，面临人员与专业技术储备不足。 | 扩建专门项目办公室（如芯片计划办公室与能源部[[Loan Programs Office\|贷款项目办公室]]），提升科层技术与跨部门协调能力。（pp. 6–7） |
 > | **国际盟友摩擦与贸易争端** | 本土制造与采购限制引发欧盟、日韩等盟友担忧，加剧跨国补贴内耗与保护主义风险。 | 强化与盟友的战略协调，推动友岸外包与关键矿产多边合作协议。 |

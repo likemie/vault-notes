@@ -13,7 +13,7 @@ title: "Argument_UIDP_2012_PartnershipContinuum"
 argument_key: "Argument_UIDP_2012_PartnershipContinuum"
 argument_display_title: "The Partnership Continuum: Understanding & Developing the Pathways for Beneficial University-Industry Engagement"
 argument_kind: "report"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Grandes Ecoles]]"
   - "[[Executive Education]]"
+  - "[[Workforce Development]]"
   - "[[Research Universities]]"
   - "[[Innovation Park]]"
   - "[[Entrepreneur in Residence]]"
@@ -255,7 +256,7 @@ citation_aliases:
 
 大学是一个矩阵结构——纵向是学科性院系（schools and departments），横向是跨学科研究中心（centers of excellence）。报告指出："大学是复杂的结构，通常对产业来说难以穿透或理解"(p.16)。企业的参与可以发生在矩阵的任何交叉点上。
 
-与院系的互动通常由产业伙伴对特定学科课程提供输入、支持该学科教育（受劳动力发展驱动）以及对学院的总体支持的愿望驱动——例如通过院长咨询委员会。而与卓越中心的互动则由与特定领域或跨学科领域的大学专家建立连接的愿望驱动，这些中心汇聚了来自不同学院和系的教师(p.16)。
+与院系的互动通常由产业伙伴对特定学科课程提供输入、支持该学科教育（受[[Workforce Development|劳动力发展]]驱动）以及对学院的总体支持的愿望驱动——例如通过院长咨询委员会。而与卓越中心的互动则由与特定领域或跨学科领域的大学专家建立连接的愿望驱动，这些中心汇聚了来自不同学院和系的教师(p.16)。
 
 在更高的合作层级，产业还可以为提交给联邦机构的提案提供成本分担，或与大学共同创建联合体来应对特定问题。报告指出，产业在大学-产业联合体中的参与"被视为解决长期特定问题的必要手段，并且可以进一步寻求联邦和其他来源的资助"(p.17)。
 

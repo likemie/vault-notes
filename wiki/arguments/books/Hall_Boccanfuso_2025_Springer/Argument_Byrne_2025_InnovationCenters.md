@@ -35,6 +35,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Learning Analytics]]"
   - "[[Seed Funding]]"
+  - "[[Workforce Development]]"
   - "[[Research Question]]"
   - "[[Creativity]]"
 related_theories:
@@ -56,6 +57,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[Brookings Institution]]"
+  - "[[Inflation Reduction Act]]"
 related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch7_Byrne_2025|Ch7_Byrne_2025]]"
@@ -70,7 +72,7 @@ title: "Argument_Byrne_2025_InnovationCenters"
 argument_key: "Argument_Byrne_2025_InnovationCenters"
 argument_display_title: "Innovation Centers and Economic Development"
 argument_kind: "book"
-argument_related_count: 39
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -350,7 +352,7 @@ citation_aliases:
 ---
 
 > [!success]
-> 佐治亚州的 Stanton Springs 联合发展局示范了四个县合作的可能性。其园区吸引了大型制药工厂、劳动力发展中心和电动汽车制造厂，共创造 9000 个工作岗位和 60 亿美元总投资。州大学系统提供研究支撑，技术学院系统提供技工培训，两个本不相干的体系在同一框架下协作(p.135)。
+> 佐治亚州的 Stanton Springs 联合发展局示范了四个县合作的可能性。其园区吸引了大型制药工厂、[[Workforce Development|劳动力发展]]中心和电动汽车制造厂，共创造 9000 个工作岗位和 60 亿美元总投资。州大学系统提供研究支撑，技术学院系统提供技工培训，两个本不相干的体系在同一框架下协作(p.135)。
 
 ---
 
@@ -391,7 +393,7 @@ citation_aliases:
 
 > [!success]
 > **联邦资金与[[Innovation Hub\|创新中心]]增长的关联**
-> - 《通胀削减法案》（Inflation Reduction Act）、《重建更好法案》（Build Back Better Act）和 CHIPS 法案共同授权了数千亿美元，其中相当比例指向基础设施和产业基础较弱、历史上联邦研发资金份额较低的地区(pp.137–138)。根据[[Brookings Institution|布鲁金斯学会]]的分析，新一批创新中心将面临与硅谷或波士顿截然不同的挑战
+> - 《[[Inflation Reduction Act|通胀削减法案]]》（Inflation Reduction Act）、《重建更好法案》（Build Back Better Act）和 CHIPS 法案共同授权了数千亿美元，其中相当比例指向基础设施和产业基础较弱、历史上联邦研发资金份额较低的地区(pp.137–138)。根据[[Brookings Institution|布鲁金斯学会]]的分析，新一批创新中心将面临与硅谷或波士顿截然不同的挑战
 > - 联邦政策与围绕大学的日益成熟的风险投资（venture capital）存在协同效应，共同推动了人们对商业化与[[Technology Transfer\|技术转移]]潜力的认知提升(p.137)
 > - 新兴技术领域（人工智能、人机界面、先进制造、量子信息技术）是联邦新资金最优先支持的方向，但围绕这些领域建立的创新中心相对较少，既有合作体和新兴合作体都面临机会窗口(p.138)
 

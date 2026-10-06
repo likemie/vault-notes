@@ -32,6 +32,7 @@ related_concepts:
   - "[[Brainstorming]]"
   - "[[Unit of Analysis]]"
   - "[[Attrition]]"
+  - "[[Workforce Development]]"
   - "[[Emergence]]"
   - "[[Presence]]"
   - "[[Hypothesis]]"
@@ -67,7 +68,7 @@ title: "Argument_Murphy_2026_JTS"
 argument_key: "Argument_Murphy_2026_JTS"
 argument_display_title: "Building Collaboration and Knowledge in Semiconductor Research: A Case Study on CHIPS & Science Act Workshops"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -185,7 +186,7 @@ issuing_organization: ""
 > - **大功率器件（Power）** 攻关碳化硅与氮化镓等第三代半导体功率器件，支撑智能电网与新能源汽车能量转换。
 > - **生物电子器件（Bioelectronics）** 融合微电子与生物医疗传感，研发植入式医疗监测与柔性仿生智能接口。
 > - **社会影响与可持续（Societal Impacts & Sustainability）** 评估芯片全生命周期对水资源与环境的生态冲击，探索环境友好的绿色半导体化学与制造工艺。
-> - **劳动力系统发展（Workforce Development）** 构建跨层次、跨学科的拔尖工程科技人才实训体系，填补全美预计 140 万高技能人才缺口。
+> - **劳动力系统发展（[[Workforce Development]]）** 构建跨层次、跨学科的拔尖工程科技人才实训体系，填补全美预计 140 万高技能人才缺口。
 
 专班并非永久性官僚架构，而是在完成危机响应与动员孵化后平稳过渡为实体机构。（pp.3–4）
 

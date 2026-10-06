@@ -26,6 +26,7 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Master Agreement]]"
   - "[[Technology Transfer Office]]"
+  - "[[Workforce Development]]"
   - "[[Foreground IP]]"
   - "[[Pre-negotiated IP Rights]]"
   - "[[Product-Specific Research]]"
@@ -59,7 +60,7 @@ title: "Argument_Hoffman_2025_UI_Alliances_Consortia"
 argument_key: "Argument_Hoffman_2025_UI_Alliances_Consortia"
 argument_display_title: "University-Industry Alliances and Consortia"
 argument_kind: "book"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -153,7 +154,7 @@ citation_aliases:
 >
 > **行业咨询委员会（IAB）——关系制度化最轻量的入口**
 >
-> 6. IAB 是一群企业代表定期聚会，为大学院系或研究中心的研究方向和人才培养优先级提供意见(p.108)。它本身不产出研究或劳动力发展项目，价值在于创造"偶然互动"——企业代表和大学教授在定期的面对面交流中可能发现共同兴趣点，这些兴趣点可能导向后续的赞助研究或学生实习。
+> 6. IAB 是一群企业代表定期聚会，为大学院系或研究中心的研究方向和人才培养优先级提供意见(p.108)。它本身不产出研究或[[Workforce Development|劳动力发展]]项目，价值在于创造"偶然互动"——企业代表和大学教授在定期的面对面交流中可能发现共同兴趣点，这些兴趣点可能导向后续的赞助研究或学生实习。
 >
 > 7. 对于企业，参与 IAB 的收益是获得大学活动的"内部消息"——哪些教授在做哪些方向的研究？哪些实验室的设备可以共享？对于大学，收益是获得产业视角的外部输入——哪些研究方向产业愿意资助？发展哪些学生项目能让毕业生更容易就业？
 >

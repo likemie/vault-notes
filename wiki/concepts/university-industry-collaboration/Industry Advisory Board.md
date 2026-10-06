@@ -8,7 +8,7 @@ aliases:
 summary: "产学合作中最轻量的关系制度化机制，企业代表定期聚会为大学研究方向和人才培养提供意见，低投入高回报但不直接产出研究或培训项目"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 1
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"
 related_concepts:
+  - "[[Workforce Development]]"
   - "[[Industry Affiliate Program]]"
 related_theories: []
 related_methods: []
@@ -32,7 +33,7 @@ updated: 2026-10-06
 > [!info]
 > 行业咨询委员会（Industry Advisory Board, IAB）是一群企业代表定期聚会，向大学、学院、系或研究中心的研究方向和人才培养优先级提供意见的机制。它是一种"相对低投入、高回报"的产学互动方式（p.108）。
 
-> 行业咨询委员会本身不是产出研究或劳动力发展项目的联合体，而是一个创造"偶然互动"（serendipitous interactions）的平台——这些互动可以导向更有影响力、以成果为导向的合作（p.108）。
+> 行业咨询委员会本身不是产出研究或[[Workforce Development|劳动力发展]]项目的联合体，而是一个创造"偶然互动"（serendipitous interactions）的平台——这些互动可以导向更有影响力、以成果为导向的合作（p.108）。
 
 ---
 

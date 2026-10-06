@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 63
+fact_related_count: 64
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -81,6 +81,7 @@ related_facts:
   - "[[American Educational Research Association]]"
   - "[[DARPA]]"
   - "[[Institute of Education Sciences]]"
+  - "[[NSF Regional Innovation Engines]]"
   - "[[Brookings Institution]]"
 related_arguments:
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
@@ -180,7 +181,7 @@ updated: 2026-10-06
 > - **国家超级计算机中心（Supercomputer Centers）** 1980 年代在全美 5 所大学经全国竞争设立的国家级前沿计算设施，向全美合格大学教师开放基于同行评审的机时申请，为互联网早期主干网建设与计算密集型科研奠定技术基础。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
 > - **大学计算机科研基础设施与[[Disciplinary Institutionalization|学科建制]]** 1960 年代起系统资助全美高校计算机实验室建设与计算机科学系（CS）课程开发，并在冷战后期接棒国防部成为高校计算机基础科研的主要民事资助支柱。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 37)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 176)]]
 > - **NSF 创新兵团创业培训体系（[[NSF I-Corps]]）** 2011 年创设的高校学术创业孵化标杆，通过教授学者创业思维并要求产业代表深度参与，在科研项目中内置产业反馈闭环，累计孵化超 1,000 家初创企业，后续撬动逾 7.6 亿美元融资。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
-> - **[[Directorate for Technology, Innovation and Partnerships|TIP]] 区域创新引擎与[[Innovation Hub|创新中心]]** 依据《[[CHIPS and Science Act|芯片与科学法案]]》重点投向非传统科技聚集区，向 10 个区域创新合作体授予高达 1.6 亿美元的十年期资助，推动先进制造、人工智能等战略[[Research Translation|技术转化]]。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]
+> - **[[Directorate for Technology, Innovation and Partnerships|TIP]] [[NSF Regional Innovation Engines|区域创新引擎]]与[[Innovation Hub|创新中心]]** 依据《[[CHIPS and Science Act|芯片与科学法案]]》重点投向非传统科技聚集区，向 10 个区域创新合作体授予高达 1.6 亿美元的十年期资助，推动先进制造、人工智能等战略[[Research Translation|技术转化]]。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]
 > - **国家人工智能研究院网络** 联合教育部、农业部等多部门围绕 10 余个重点方向设立 25 所国家 AI 研究院，由世界一流大学与领先科技企业共同组成；以加州大学圣迭戈分校牵头的大规模学习优化 AI 研究院为例，联合 MIT、耶鲁及英伟达、三星，并引入斯威特沃特联合高中学区等应用场景提供方，实现了前沿算法在芯片设计与教育场景的双向赋能。[[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 40)]]
 
 > [!citation-card] 创设宪章与法定使命宣言
@@ -199,7 +200,7 @@ updated: 2026-10-06
 
 > [!finding-cards] 关键成效与辐射影响
 > - **奠定战后美国[[Research Universities|研究型大学]]的世界领军地位** 将科研资助深度嵌入大学研究生与博士后培养，构建了“前沿科研与拔尖人才培养共生”的独特美国大学科研体制；NSF 竞争性基金直接下拨至教师个人而非大学行政当局，造就了全球最具活力的高校人才竞争生态。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
-> - **塑造产学研协同全链条生态** 从 1978 年阿特金森开创的[[University-Industry Collaboration|产学合作]]试点，到《[[Bayh-Dole Act of 1980|拜杜法案]]》的制度解绑，再到 [[NSF I-Corps|I-Corps]] 与 [[Directorate for Technology, Innovation and Partnerships|TIP]] 区域创新引擎，NSF 构建了从[[Curiosity-Driven Research|纯基础研究]]、工程共性中心到商业化孵化的无缝通路。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, p. 134)]]
+> - **塑造产学研协同全链条生态** 从 1978 年阿特金森开创的[[University-Industry Collaboration|产学合作]]试点，到《[[Bayh-Dole Act of 1980|拜杜法案]]》的制度解绑，再到 [[NSF I-Corps|I-Corps]] 与 [[Directorate for Technology, Innovation and Partnerships|TIP]] [[NSF Regional Innovation Engines|区域创新引擎]]，NSF 构建了从[[Curiosity-Driven Research|纯基础研究]]、工程共性中心到商业化孵化的无缝通路。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, p. 134)]]
 > - **推动学术界与联邦政策中枢的双向赋能** 为联邦政府输送顶尖学科领军人才，完成国会山沉浸的学者进入 NSF 等机构执掌优先资助领域指南，使联邦科研立项敏捷呼应现实国家战略与教育改革诉求。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 46–47)]]
 
 > [!stat-cards]- 核心规模数据

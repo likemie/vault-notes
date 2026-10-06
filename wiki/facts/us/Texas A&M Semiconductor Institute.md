@@ -11,7 +11,7 @@ subtype: organization
 region: "us"
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Grandes Ecoles]]"
   - "[[Megascience Installations]]"
+  - "[[Workforce Development]]"
   - "[[Communities of Practice]]"
   - "[[Research Universities]]"
   - "[[Paradigm]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Texas A&M Semiconductor Institute
@@ -79,7 +80,7 @@ updated: 2026-10-05
 
 > [!pathways]- 业务运行机制
 > - **跨学科联合申报组织** 针对国家重大半导体研发项目提供全流程有组织科研服务，协助跨院系团队打破行政壁垒并编制重大联合项目书。
-> - **贯通式劳动力发展规划** 统筹本硕博及技术实训课程改革，构建覆盖本科生创新实训、研究生高阶科研与产业在职微证书（Micro-credentials）的系统化人才培育机制。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 6–7)]]
+> - **贯通式[[Workforce Development|劳动力发展]]规划** 统筹本硕博及技术实训课程改革，构建覆盖本科生创新实训、研究生高阶科研与产业在职微证书（Micro-credentials）的系统化人才培育机制。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 6–7)]]
 > - **学术交流平台常态化运营** 承办年度全州半导体峰会，定期开展跨机构海报展评、专家工作组圆桌对话与产学面对面技术路演。
 
 ---
@@ -90,7 +91,7 @@ updated: 2026-10-05
 > - **得克萨斯半导体峰会（Texas Semiconductor Summit）** 发起并常态化主办全州最高规格半导体盛会，搭建贯通白宫、联邦机构、得州政府、芯片制造龙头与顶尖高校的闭门审议与公开对话平台。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 4, 8–9)]]
 > - **10 大前沿技术攻坚布局** 围绕恶劣环境电子、先进封装、新型存储、光子学与绿色制造建立跨院系联合攻关课题集群。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, p. 4)]]
 > - **学者专业发展与[[Communities of Practice|实践共同体]]孵化** 在学习科学理论指引下常态化实施高水平学者发展研修，显著提升高校科研人员承接国家级战略任务的自信心与就绪度。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 5–6)]]
-> - **全州半导体劳动力发展行动方案** 联动产业界伙伴为工程技术学生提供高额学费资助、企业研发实习与先进制造工艺实训。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2, 7)]]
+> - **全州半导体[[Workforce Development|劳动力发展]]行动方案** 联动产业界伙伴为工程技术学生提供高额学费资助、企业研发实习与先进制造工艺实训。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2, 7)]]
 
 ---
 

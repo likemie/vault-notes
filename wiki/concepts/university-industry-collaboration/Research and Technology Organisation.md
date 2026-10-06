@@ -9,7 +9,7 @@ aliases:
 summary: "政府投资建立的桥接大学研究与产业应用之间的中介组织，履行应用研究、技术问题解决、劳动力发展、设施建设等多重功能，典型如英国 Catapult、德国 Fraunhofer 和美国 Manufacturing USA"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ tags:
   - level/higher-education
 related_concepts:
   - "[[Problem Solving]]"
+  - "[[Workforce Development]]"
   - "[[Innovation Ecosystem]]"
   - "[[Valley of Death]]"
 related_theories:
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-02
+updated: 2026-10-06
 ---
 
 # Research and Technology Organisation
@@ -52,7 +53,7 @@ updated: 2026-10-02
 
 - **应用研究** 开展桥接学术研究与产业应用所需的应用研究，使技术能够更有效地从概念走向市场
 - **技术问题解决** 为企业提供技术问题解决服务
-- **劳动力发展** 发展企业和供应链的劳动力，使其能够吸收和部署新兴技术
+- **[[Workforce Development|劳动力发展]]** 发展企业和供应链的劳动力，使其能够吸收和部署新兴技术
 - **工具和技术开发** 开发新的工具和技术以生产新产品或新服务
 - **设施和基础设施** 发展新的设施和基础设施以示范和测试新技术，或孵化新型企业
 - **标准和法规** 制定新标准和法规

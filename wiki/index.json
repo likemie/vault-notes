@@ -5454,6 +5454,18 @@
     ]
   },
   {
+    "title": "Workforce Development",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Workforce Development.md",
+    "aliases": [
+      "劳动力发展",
+      "劳动力技能开发",
+      "技能发展体系",
+      "劳动力发展计划",
+      "Workforce Development Plan"
+    ]
+  },
+  {
     "title": "Working Knowledge",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Working Knowledge.md",
@@ -30321,6 +30333,18 @@
     "aliases": [
       "国家扩散网络",
       "NDN"
+    ]
+  },
+  {
+    "title": "NSF Regional Innovation Engines",
+    "type": "fact",
+    "path": "wiki/facts/us/NSF Regional Innovation Engines.md",
+    "aliases": [
+      "区域创新引擎",
+      "NSF Engines",
+      "NSF Regional Innovation Engines Program",
+      "国家科学基金会区域创新引擎",
+      "Regional Innovation Engines"
     ]
   },
   {

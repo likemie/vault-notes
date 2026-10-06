@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
   - theme/educational-governance
 related_concepts:
   - "[[Gatekeepers]]"
+  - "[[Workforce Development]]"
   - "[[Paradigm]]"
   - "[[Research Question]]"
   - "[[Document]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-02
+updated: 2026-10-06
 ---
 
 # House Committee on Education and the Workforce
@@ -72,7 +73,7 @@ updated: 2026-10-02
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 创设于 1867 年（美国内战结束后的南方重建时期），最初设立教育委员会（Committee on Education）旨在统筹战后被解放奴隶与贫困平民的公共教育普及；后与劳工委员会合并演变为教育与劳工委员会（Committee on Education and Labor），在共和党主导时期常更名为教育与劳动力委员会。
-> - **总部地点与辐射范围** 设于美国首都华盛顿特区国会山雷伯恩众议院办公大楼（Rayburn House Office Building），管辖权辐射全美五十个州的公立学校系统、受联邦资助的高校以及劳动力发展网络。
+> - **总部地点与辐射范围** 设于美国首都华盛顿特区国会山雷伯恩众议院办公大楼（Rayburn House Office Building），管辖权辐射全美五十个州的公立学校系统、受联邦资助的高校以及[[Workforce Development|劳动力发展]]网络。
 > - **法人属性与宪政地位** 美国联邦宪法第一条授权设立的立法机关常设专门委员会，受众议院议事规程支配，掌握传唤证人、调阅机密档案、举行宣誓听证会与立法修正的最高宪政特权。
 > - **核心宗旨与法定职责** 确保联邦教育投资的宪政合规与有效性；主导重大联邦教育法案的起草、辩论与标记；对美国联邦教育部、劳工部及相关联邦科研机构（如 [[Institute of Education Sciences\|IES]]）实施常态化立法监督。
 
@@ -93,7 +94,7 @@ updated: 2026-10-02
 
 > [!actor-grid] 组织治理架构
 > - **委员会领导层（Leadership）** 由多数党推选的委员会主席（Chair）与少数党首席议员（Ranking Member）共同执掌，负责排定立法日程、指定听证会议题并掌控法案表决节奏。
-> - **专门小组委员会（Subcommittees）** 下设早期教育、初等与中等教育小组委员会（Early Childhood, Elementary, and Secondary Education）、教育改革小组委员会（Subcommittee on Education Reform）、高等教育与劳动力发展小组委员会等，承担具体法案的逐条质询与证据审查。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 34)]]
+> - **专门小组委员会（Subcommittees）** 下设早期教育、初等与中等教育小组委员会（Early Childhood, Elementary, and Secondary Education）、教育改革小组委员会（Subcommittee on Education Reform）、高等教育与[[Workforce Development|劳动力发展]]小组委员会等，承担具体法案的逐条质询与证据审查。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 34)]]
 > - **常设专业幕僚团队（Committee Staff）** 包括两党各自聘任的高级政策主任、立法法律顾问（Counsel）与资深研究分析员。这些幕僚多拥有法学博士或教育政策顶尖博士学位，任期稳定，是立法语言与学术证据的核心[[Gatekeepers\|把关人]]。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]] 与此同时，部分资深多数党幕僚（如罗伯特·斯威特 / Robert Sweet）受主席委派在数月内独立草拟法定科学定义，同时兼任全国正确阅读基金会（NRRF）主席并深度关联教科书出版巨头，其通过政商旋转门直接影响了法案中具有商业排他性的条文定义。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 32)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 6, 8)]]
 > - **专家证人与咨询网络** 在举行重大听证会时，依法由多数党和少数党分别延请权威学者、智库领袖及一线实践者到场作证。
 

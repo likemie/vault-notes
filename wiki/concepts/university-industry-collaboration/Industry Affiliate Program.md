@@ -13,10 +13,10 @@ aliases:
 summary: "大学为工业界设立的会员制产学合作组织机制，企业通过缴纳固定年会费获得对大学研究社区的优先接触权、技术简报、人才招聘通道与同行网络，采用资金池共议探索与非排他共享机制，是连接前沿学术探索与后续专项研发转化的关键战略接口。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/university-industry-collaboration
   - level/higher-education
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Research Universities]]"
   - "[[Sponsored Research Agreement]]"
+  - "[[Workforce Development]]"
   - "[[Innovation Ecosystem]]"
   - "[[University-Based Research Center]]"
   - "[[Boundary Spanner]]"
@@ -69,7 +70,7 @@ updated: 2026-10-06
 > - **边界** 产业联盟计划不同于点对点的[[Sponsored Research Agreement|赞助研究协议]]（SRA），会员企业获得的是进入大学学术生态的广泛接触权与交流权，而非针对特定技术发明的专有所有权或独占排他许可。
 
 > [!citation-card] 产业联盟的组织定位与战略价值
-> 产业联盟计划不是单纯的筹资工具，而必须由科研价值、学习体验、劳动力发展和[[Innovation Ecosystem|创新生态]]的多重收益共同驱动。
+> 产业联盟计划不是单纯的筹资工具，而必须由科研价值、学习体验、[[Workforce Development|劳动力发展]]和[[Innovation Ecosystem|创新生态]]的多重收益共同驱动。
 >
 > *CAPs must provide a clear value proposition that aligns with both the university's research strengths and the internal needs of the corporate members. A CAP cannot simply be a fundraising tool—it must be driven by the value of research, learning experiences, workforce development, and innovation.*[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, p. 110)]]
 
