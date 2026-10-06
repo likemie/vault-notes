@@ -8,7 +8,7 @@ aliases:
 summary: "大学在教学和研究之外的正式创新与经济发展使命，涵盖知识交流、技术商业化、区域经济发展和产学合作等广泛活动，2000年代后在英美等国日益制度化"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,6 +33,7 @@ related_persons: []
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
   - "[[National Science Foundation]]"
+  - "[[Engineering Research Centers]]"
   - "[[CHIPS and Science Act]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
 related_arguments:
@@ -73,7 +74,7 @@ updated: 2026-10-06
 > [!note]-
 > **英国** 第三使命的定义较广，不局限于[[Technology Transfer\|技术转移]]，而是涵盖[[Knowledge Exchange\|知识交流]]的所有途径。关键制度创新是从项目制竞争性资金转向公式驱动的长期稳定拨款，使大学能够进行系统性能力建设([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, pp.42–43]])。
 
-> **美国** 第三使命更多通过特定立法和项目推动，如 [[Bayh-Dole Act of 1980\|Bayh-Dole Act]]（1980）、[[National Science Foundation\|NSF]] 工程研究中心（ERC）和[[University-Based Research Center\|产学合作研究中心]]（IUCRC）项目（1980s）、以及 2022 年 [[CHIPS and Science Act]] 和新设的 NSF 技术创新与伙伴关系局（[[Directorate for Technology, Innovation and Partnerships|Technology, Innovation and Partnerships Directorate]]）([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, pp.39–40, 44]])。
+> **美国** 第三使命更多通过特定立法和项目推动，如 [[Bayh-Dole Act of 1980\|Bayh-Dole Act]]（1980）、[[National Science Foundation\|NSF]] [[Engineering Research Centers|工程研究中心]]（ERC）和[[University-Based Research Center\|产学合作研究中心]]（IUCRC）项目（1980s）、以及 2022 年 [[CHIPS and Science Act]] 和新设的 NSF 技术创新与伙伴关系局（[[Directorate for Technology, Innovation and Partnerships|Technology, Innovation and Partnerships Directorate]]）([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, pp.39–40, 44]])。
 
 > **中国** 1993 年《科学技术进步法》——相当于中国的 Bayh-Dole Act——要求大学雇员将发明 IP 转让给大学；随后政策允许大学自办企业和研究人员休长假从事技术转移与创业（Chen et al., 2016）([[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, p.41]])。
 

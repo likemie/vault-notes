@@ -1,6 +1,7 @@
 ---
 citation: "Bozeman, B., & Boardman, C. (2004). The NSF Engineering Research Centers and the University–Industry Research Revolution: A Brief History Featuring an Interview with Erich Bloch. The Journal of Technology Transfer, 29(3-4), 365–375."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Bozeman_2004_JTT]]"
 processed_date: 2026-10-06
 ---
 

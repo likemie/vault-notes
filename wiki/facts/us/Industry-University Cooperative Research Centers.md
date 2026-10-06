@@ -11,9 +11,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 11
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1978–至今"
 initiator_organization: 美国国家科学基金会（National Science Foundation, NSF）
@@ -27,21 +27,26 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Industry Advisory Board]]"
   - "[[Academic Freedom]]"
+  - "[[Big Science]]"
   - "[[Technology Transfer]]"
   - "[[Technology Transfer Office]]"
   - "[[University-Industry Collaboration]]"
   - "[[Construct]]"
 related_persons:
+  - "[[Erich Bloch]]"
+  - "[[Nam Pyo Suh]]"
   - "[[Richard C. Atkinson]]"
 related_facts:
   - "[[National Science Foundation]]"
+  - "[[Engineering Research Centers]]"
   - "[[Bayh-Dole Act of 1980]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
+  - "[[Argument_Bozeman_2004_JTT]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-06
 ---
 
 # Industry-University Cooperative Research Centers
@@ -78,7 +83,7 @@ updated: 2026-10-02
 
 > [!dev-timeline] 演进与衍生矩阵
 > - **1978–1980 — 探索破冰与规范成型** 阿特金森在任内力排众议打破 [[National Science Foundation|NSF]] 仅资助纯理论基础科学的传统教条，设立首批试点中心，证明了大学与企业在不同目标下完全能够通过精心机制设计达成互利共识。
-> - **1980 年代中叶 — 升级拓展至 ERC 与 STC** 基于 I/UCRC 的机制突破与模式探索，NSF 在[[Erich Bloch|埃里希·布洛赫（Erich Bloch）]]与[[Nam Pyo Suh|徐南杓（Nam Pyo Suh）]]带领下于 1984–1985 年创设资助体量更大、跨学科整合度更深的[[Engineering Research Centers|工程研究中心]]（ERC），并在 1987 年设立科学技术中心（Science and Technology Centers, STC），标志着多学科大科学中心模式成为联邦科技政策的支柱机制。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]; [[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–367, 370)]]
+> - **1980 年代中叶 — 升级拓展至 [[Engineering Research Centers|ERC]] 与 STC** 基于 I/UCRC 的机制突破与模式探索，NSF 在[[Erich Bloch|埃里希·布洛赫]]（Erich Bloch）与[[Nam Pyo Suh|徐南杓]]（Nam Pyo Suh）带领下于 1984–1985 年创设资助体量更大、跨学科整合度更深的[[Engineering Research Centers|工程研究中心]]（ERC），并在 1987 年设立科学技术中心（Science and Technology Centers, STC），标志着多学科[[Big Science|大科学]]中心模式成为联邦科技政策的支柱机制。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]; [[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–367, 370)]]
 > - **1980 年代后 — 与《[[Bayh-Dole Act of 1980|拜杜法案]]》协同共振** 1980 年《拜杜法案》通过后，I/UCRC 成为[[Technology Transfer|大学技术转移]]办公室（[[Technology Transfer Office|TTO]]）与企业联合孵化高科技衍生企业的核心制度平台，深刻辐射全美微电子、材料科学及先进制造创新集群。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 
 ---

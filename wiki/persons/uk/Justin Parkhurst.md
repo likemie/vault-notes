@@ -8,7 +8,7 @@ summary: "贾斯汀·帕克赫斯特（Justin Parkhurst）是伦敦政治经济�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -38,13 +38,14 @@ related_persons:
   - "[[Mark Rickinson]]"
   - "[[Jürgen Habermas]]"
 related_facts:
+  - "[[Engineering Research Centers]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Rickinson_2022_ER]]"
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 
 # Justin Parkhurst
@@ -55,7 +56,7 @@ updated: 2026-09-22
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国政策学者、伦敦政治经济学院（LSE）卫生政策系全球卫生政策副教授、前 LSE 全球卫生倡议主席。
-> - **核心角色** 循证政策政治学与证据治理研究的代表性领军学者，欧洲研究理事会（ERC）“卫生政策中的研究应用”（GRIP-Health）大型研究项目首席科学家。
+> - **核心角色** 循证政策政治学与证据治理研究的代表性领军学者，欧洲研究理事会（[[Engineering Research Centers|ERC]]）“卫生政策中的研究应用”（GRIP-Health）大型研究项目首席科学家。
 > - **代表贡献** 创立[[Good Governance of Evidence\|证据良好治理]]（Good Governance of Evidence）理论，出版里程碑专著《The Politics of Evidence: From Evidence-based Policy to the Good Governance of Evidence》（2017），为公共政策与教育[[Research Utilization\|研究使用]]构建了兼具技术严谨性与民主程序审议的制度分析[[Paradigm\|范式]]。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 140, 146–147)]]
 
 > [!citation-card] 证据使用作为政治制度性问题

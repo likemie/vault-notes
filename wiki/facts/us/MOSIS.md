@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -45,13 +45,14 @@ related_facts:
   - "[[ARPANET]]"
   - "[[National Science Foundation]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
+  - "[[Engineering Research Centers]]"
   - "[[1956 AT&T Consent Decree]]"
 related_arguments:
   - "[[Argument_Mowery_2011_NBER]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # MOSIS
@@ -83,7 +84,7 @@ updated: 2026-10-05
 ## 治理架构与运行机制
 
 > [!actor-grid] 组织治理与协作网络
-> - **运营管理团队（USC/[[Import Substitution Industrialisation|ISI]]）** 负责接收全球网络提交的芯片版图文件、执行自动化几何与电气设计规则检查（DRC/ERC）并完成晶圆掩膜拼版（Wafer Mask Layout）。
+> - **运营管理团队（USC/[[Import Substitution Industrialisation|ISI]]）** 负责接收全球网络提交的芯片版图文件、执行自动化几何与电气设计规则检查（DRC/[[Engineering Research Centers|ERC]]）并完成晶圆掩膜拼版（Wafer Mask Layout）。
 > - **公共资助与指导中枢（[[DARPA]] & [[National Science Foundation|NSF]]）** 负责提供战略拨款，补贴高校教师与研究生的流片费用，制定重点资助的微处理器与体系结构方向。
 > - **商业晶圆代工厂联盟（Commercial Foundries）** 包括惠普、德州仪器、IBM 及后续[[Taiwan Semiconductor Manufacturing Corporation|台积电]]等实体晶圆制造厂，向 MOSIS 提供多项目晶圆流片配额与标准工艺设计套件（PDK）。
 > - **科研与初创设计社群** 覆盖全美高校电子工程与计算机系所师生、国防工业研发团队及硅谷无晶圆厂初创公司。

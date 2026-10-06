@@ -44,6 +44,7 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
   - "[[Advanced Manufacturing Research Centre]]"
   - "[[National Science Foundation]]"
+  - "[[Engineering Research Centers]]"
   - "[[Manufacturing USA]]"
   - "[[Early Reading Intervention]]"
   - "[[Bill & Melinda Gates Foundation]]"
@@ -60,9 +61,9 @@ title: "Argument_Hoffman_2025_UI_Alliances_Consortia"
 argument_key: "Argument_Hoffman_2025_UI_Alliances_Consortia"
 argument_display_title: "University-Industry Alliances and Consortia"
 argument_kind: "book"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 year: 2025
@@ -176,7 +177,7 @@ citation_aliases:
 >
 > **大学研究型中心——跨学科的联合体平台**
 >
-> 11. 大学研究型中心在 CAP 的基础上又加了一层：**政府资助和跨机构协调**。中心可以设在单一院系内，也可以跨学科、跨学院甚至跨多所大学。部分中心通过 [[National Science Foundation\|NSF]] 的产学合作研究中心（IUCRC）和工程研究中心（ERC），或美国商务部的 [[Manufacturing USA]] Institutes 获得政府资助(pp.111–112)。
+> 11. 大学研究型中心在 CAP 的基础上又加了一层：**政府资助和跨机构协调**。中心可以设在单一院系内，也可以跨学科、跨学院甚至跨多所大学。部分中心通过 [[National Science Foundation\|NSF]] 的产学合作研究中心（IUCRC）和[[Engineering Research Centers|工程研究中心]]（ERC），或美国商务部的 [[Manufacturing USA]] Institutes 获得政府资助(pp.111–112)。
 >
 > 12. 在价值主张上，大学研究型中心与 CAP 的关键区别在于议程设置方式。CAP 的研究议程由委员会从零开始共同制定。大学研究型中心则**由大学先选定研究方向，然后产业基于对齐度决定是否加入**。这降低了产业成员的参与门槛（不需要自己定义[[Research Question\|研究问题]]），但也意味着如果大学的研究方向与产业需求不匹配，中心可能招不到成员。
 >

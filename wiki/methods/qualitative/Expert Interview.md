@@ -10,7 +10,7 @@ summary: "将受访者视为具有特定领域专业特权、制度性职能与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 35
+method_related_count: 39
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -53,16 +53,21 @@ related_methods:
   - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Dedering_2009_EERJ]]"
+  - "[[Argument_Bozeman_2004_JTT]]"
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
 related_facts:
+  - "[[National Science Foundation]]"
+  - "[[Engineering Research Centers]]"
   - "[[Massachusetts Department of Elementary and Secondary Education]]"
   - "[[Institute for Educational Monitoring and Quality Improvement]]"
 related_theories:
   - "[[Knowledge Integration]]"
+related_persons:
+  - "[[Erich Bloch]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-26
+updated: 2026-10-06
 ---
 
 # Expert Interview
@@ -165,6 +170,6 @@ updated: 2026-09-26
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Bozeman_2004_JTT\|Bozeman & Boardman (2004)]] — 通过对美国国家科学基金会前主任[[Erich Bloch|埃里希·布洛赫（Erich Bloch）]]展开深度口述史专家访谈，系统复盘了[[Engineering Research Centers|工程研究中心]]（ERC）计划在立项博弈、同行评审、淘汰退出与行政微观管理上的制度演化机制。
+> - [[Argument_Bozeman_2004_JTT\|Bozeman & Boardman (2004)]] — 通过对[[National Science Foundation|美国国家科学基金会]]前主任[[Erich Bloch|埃里希·布洛赫]]（Erich Bloch）展开深度口述史专家访谈，系统复盘了[[Engineering Research Centers|工程研究中心]]（ERC）计划在立项博弈、同行评审、淘汰退出与行政微观管理上的制度演化机制。
 > - [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] — 针对德国四个联邦州教育部质量保障与发展部门官员开展 12 场半结构化专家访谈，深入剖析州教育行政层级对大型实证监测数据的接收、处理与日常利用机制。
 > - [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019)]] — 针对美国[[Massachusetts Department of Elementary and Secondary Education\|马萨诸塞州中小学教育部]]（DESE）及德国汉堡学校与职业教育局（BSB）、[[Institute for Educational Monitoring and Quality Improvement\|汉堡教育监测与质量发展研究所]]（IfBQ）的 20 位数据专家开展 16 场半结构化专家访谈，揭示州级教育行政机构在数据清洗、算法[[Commensuration\|通约]]与问责建模中的暗箱实践与多维张力。

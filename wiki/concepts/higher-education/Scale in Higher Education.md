@@ -7,7 +7,7 @@ aliases:
 summary: "用于分析高等教育活动如何在全球、区域、国家、地方和个体等不同尺度上同时展开并相互作用的关系性概念。"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,12 +30,13 @@ related_persons:
 related_facts:
   - "[[National Science Foundation]]"
   - "[[National Natural Science Foundation of China]]"
+  - "[[Engineering Research Centers]]"
 related_arguments:
   - "[[Argument_Marginson_2025_ECNUROE]]"
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-10-02
+updated: 2026-10-06
 ---
 
 # Scale in Higher Education
@@ -97,7 +98,7 @@ updated: 2026-10-02
 ## 争议与批评
 
 > [!warning]
-> - 尺度划分本身是分析性建构而非客观事实——七层尺度的边界在经验上往往是模糊的。例如，一个欧盟 ERC 资助项目同时涉及泛国家区域尺度（EU 拨款）和全球尺度（国际合作发表），二者并非泾渭分明([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 7–8]])
+> - 尺度划分本身是分析性建构而非客观事实——七层尺度的边界在经验上往往是模糊的。例如，一个欧盟 [[Engineering Research Centers|ERC]] 资助项目同时涉及泛国家区域尺度（EU 拨款）和全球尺度（国际合作发表），二者并非泾渭分明([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 7–8]])
 > - 尺度分析可能过度强调"区分"而低估了尺度之间的相互渗透和共同建构——例如，全球排名这个"全球尺度"的现象在很大程度上是由国家政策制定者的"国家尺度"想象和实践共同制造出来的([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 4–5]])
 
 ---

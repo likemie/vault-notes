@@ -8,10 +8,10 @@ aliases:
 summary: "产学联盟四种组织模式中介于企业联盟计划和创新中心之间的形态，大学先选定研究方向后产业基于对齐度加入，由政府与产业双重资助，产业成员获得前景知识产权的优先谈判权"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 24
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"
@@ -24,14 +24,18 @@ related_concepts:
   - "[[Pre-negotiated IP Rights]]"
   - "[[Foreground IP]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Big Science]]"
   - "[[Research Translation]]"
   - "[[Grandes Ecoles]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Erich Bloch]]"
+  - "[[Nam Pyo Suh]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Industry-University Cooperative Research Centers]]"
+  - "[[Engineering Research Centers]]"
   - "[[Manufacturing USA]]"
   - "[[VLSI Project]]"
   - "[[National Research and Resource Facility for Submicron Structures]]"
@@ -40,6 +44,7 @@ related_facts:
   - "[[Sematech Centers of Excellence]]"
 related_arguments:
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
+  - "[[Argument_Bozeman_2004_JTT]]"
   - "[[Argument_Mody_2017_MOH]]"
 confidence: medium
 status: draft
@@ -77,7 +82,7 @@ updated: 2026-10-06
 > 大学研究型中心最常见的三类政府资助渠道（p.112）：
 
 - **[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）[[University-Industry Collaboration|产学合作]]研究中心（[[Industry-University Cooperative Research Centers]], IUCRC）** 美国国家科学基金会（NSF）资助的产学合作研究中心项目，是大学研究型中心最成熟的联邦资助机制之一
-- **NSF [[Engineering Research Centers|工程研究中心]]（Engineering Research Centers, ERC）** 1984 年在[[Erich Bloch|埃里希·布洛赫（Erich Bloch）]]与[[Nam Pyo Suh|徐南杓（Nam Pyo Suh）]]主持下创立的跨学科大科学工程中心，标志着从单一系所 PI 自由探索向多用途多学科大学研究中心（MMURC）的历史转型，强调将基础工程研究与产业界技术转化及工程人才培养紧密连接。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–367)]]
+- **NSF [[Engineering Research Centers|工程研究中心]]（Engineering Research Centers, ERC）** 1984 年在[[Erich Bloch|埃里希·布洛赫]]（Erich Bloch）与[[Nam Pyo Suh|徐南杓]]（Nam Pyo Suh）主持下创立的跨学科[[Big Science|大科学工程]]中心，标志着从单一系所 PI 自由探索向多用途多学科大学研究中心（MMURC）的历史转型，强调将基础工程研究与产业界[[Research Translation|技术转化]]及工程人才培养紧密连接。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–367)]]
 - **[[Manufacturing USA]] Institutes** 美国商务部主导的制造业创新研究所网络，联邦资金要求匹配非联邦资金
 
 这三个渠道的共同逻辑是：政府资金充当"催化剂"——在产业承诺资金的基础上进行匹配放大，使研究预算远大于企业单独投入的规模。申请政府资助的前提通常是已经获得了产业承诺资金，这构成了"产业匹配→政府放大"的资金撬动链条（p. 112）。在 ERC 项目中，NSF 资助约占中心年度总预算的 30%，其余由产业界、其他联邦机构与州政府配比支持。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]

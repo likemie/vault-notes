@@ -8,7 +8,7 @@ aliases:
 summary: "Merton (1968) 提出、经 Schulze-Cleven et al. (2017) 制度化的概念，描述绩效拨款和排名如何使资源向已有资源的机构进一步集中，形成评估-拨款-资源累积的自我强化循环"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -30,12 +30,13 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Research Excellence Framework]]"
+  - "[[Engineering Research Centers]]"
 related_arguments:
   - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-07-13
+updated: 2026-10-06
 ---
 
 # Matthew Effect in Academia
@@ -71,7 +72,7 @@ updated: 2026-07-13
 高排名 → 吸引更优秀的申请者（学生和教师）→ 更优秀的产出 → 维持或提升排名。这一循环在"声誉"这个符号维度上运作，排名不仅影响物质资源，更影响感知和选择。一个在排名中上升的大学突然变得更加"可见"，国际学生申请量激增、企业合作伙伴主动联系、校友捐赠增加，而这些又进一步巩固了排名的提升。
 
 > [!example] 排名上升的连锁反应
-> 一所欧洲中型大学在 Times Higher Education（THE） 排名中从 200 名跃升至 150 名。一年之内发生了一系列变化：国际学生申请量增加了 40%，尤其来自东亚的申请翻倍，因为在许多东亚国家和地区，排名是选校的首要参考；一家跨国企业的人力资源部门开始在校园举办招聘会，此前他们只在全球前 100 的大学招聘；一位获得 ERC 拨款的明星教授收到猎头电话后，决定留下来而不是跳槽，因为"排名的趋势是对的"。这些变化反过来又为下一次排名提升创造了条件。
+> 一所欧洲中型大学在 Times Higher Education（THE） 排名中从 200 名跃升至 150 名。一年之内发生了一系列变化：国际学生申请量增加了 40%，尤其来自东亚的申请翻倍，因为在许多东亚国家和地区，排名是选校的首要参考；一家跨国企业的人力资源部门开始在校园举办招聘会，此前他们只在全球前 100 的大学招聘；一位获得 [[Engineering Research Centers|ERC]] 拨款的明星教授收到猎头电话后，决定留下来而不是跳槽，因为"排名的趋势是对的"。这些变化反过来又为下一次排名提升创造了条件。
 
 ### 捐赠基金的马太效应
 

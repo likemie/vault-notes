@@ -12,7 +12,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -47,6 +47,7 @@ related_persons:
 related_facts:
   - "[[Horizon Europe]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[Engineering Research Centers]]"
   - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
@@ -121,7 +122,7 @@ updated: 2026-10-06
 
 > [!pathways] 政策落地路径与工具组合
 >
-> - **供给侧研发与耐性投资** 动员欧洲研究委员会（ERC）、欧洲创新委员会（EIC）及欧洲投资银行（EIB）向关键技术注入跨周期[[Patient Capital|耐心资本]]。
+> - **供给侧研发与耐性投资** 动员欧洲研究委员会（[[Engineering Research Centers|ERC]]）、欧洲创新委员会（EIC）及欧洲投资银行（EIB）向关键技术注入跨周期[[Patient Capital|耐心资本]]。
 > - **需求侧战略公共采购** 协同欧盟各成员国政府采购资金，对零碳交通、环保新材料等实行前瞻性首台套采购。
 > - **刚性法规与标准引领** 配合欧盟《绿色协议》出台限塑令、建筑节能标准与碳排放核算规制，为技术扩散消除市场壁垒。
 

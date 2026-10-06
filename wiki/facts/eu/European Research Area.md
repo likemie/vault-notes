@@ -10,7 +10,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_facts:
   - "[[Horizon Europe]]"
   - "[[CNRS]]"
   - "[[Max Planck Society]]"
+  - "[[Engineering Research Centers]]"
   - "[[National Science Foundation]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Chinese Academy of Sciences]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-03
+updated: 2026-10-06
 ---
 
 # European Research Area
@@ -67,7 +68,7 @@ updated: 2026-10-03
 > [!policy-design]- 方案设计
 > - **项目目标** 建设一体化的泛欧内部科研市场，提升欧洲研发投资占 GDP 比例至 3%，重构欧洲在全球科技创新网络中的领军地位。
 > - **覆盖对象** 欧洲大学联盟、公立科研机构独立学者、跨国创新联合体（Consortia）及产业研发中心。
-> - **干预措施** 设立“玛丽·居里行动计划”（Marie Curie Actions）支持跨国学者流动；建立欧洲研究理事会（ERC）实施基于独立同行评议的无国界前沿探索资助；制定跨国工程与专业资质统一互认标准（如意大利工学学位在德国免试执业）。
+> - **干预措施** 设立“玛丽·居里行动计划”（Marie Curie Actions）支持跨国学者流动；建立欧洲研究理事会（[[Engineering Research Centers|ERC]]）实施基于独立同行评议的无国界前沿探索资助；制定跨国工程与专业资质统一互认标准（如意大利工学学位在德国免试执业）。
 > - **实施控制** 实行开放协调法（Open Method of Coordination, OMC），建立 ERA 年度进展指标监测看板，定期评估各国科研政策趋同度与开放度。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 44)]]
 
 ---
@@ -76,7 +77,7 @@ updated: 2026-10-03
 
 > [!dev-timeline] 推进历程与演变
 > - **2000–2006 — 战略提出与框架计划整合** 确立欧洲研究区战略构想，将欧盟第六框架计划（FP6）全面转向支撑 ERA 一体化网络，重点资助跨国卓越网络（Networks of Excellence）与大型联合研究项目。
-> - **2007–2013 — 欧洲研究理事会（ERC）诞生与同行评议重塑** 突破传统欧盟基金偏重应用合作的局限，正式建立 ERC，参照美国 [[National Science Foundation|NSF]] 经验实施纯学术质量驱动的个人竞争性课题资助，使欧洲顶尖大学教授首次获得摆脱本国教育部行政管辖的泛欧学术资助。
+> - **2007–2013 — 欧洲研究理事会（[[Engineering Research Centers|ERC]]）诞生与同行评议重塑** 突破传统欧盟基金偏重应用合作的局限，正式建立 ERC，参照美国 [[National Science Foundation|NSF]] 经验实施纯学术质量驱动的个人竞争性课题资助，使欧洲顶尖大学教授首次获得摆脱本国教育部行政管辖的泛欧学术资助。
 > - **2014 至今 — 新时代 ERA 深度协同与技术主权** 伴随 Horizon 2020 与 [[Horizon Europe]] 的实施，ERA 进一步强化开放科学（Open Science）、研究数据云（EOSC）共享与战略性关键技术（半导体、绿色氢能、量子计算）自主可控。
 
 ---

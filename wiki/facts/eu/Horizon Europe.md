@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -49,6 +49,7 @@ related_persons:
   - "[[Mariana Mazzucato]]"
 related_facts:
   - "[[Lund Declaration 2009]]"
+  - "[[Engineering Research Centers]]"
   - "[[Horizon Europe Missions]]"
   - "[[European Research Area]]"
   - "[[UN Sustainable Development Goals]]"
@@ -92,7 +93,7 @@ updated: 2026-10-06
 > [!policy-design]- 政策设计
 > - **政策目标** 巩固前沿基础科学的全球卓越地位；驱动应对气候中和与生态转型的技术与社会突破；培育具有全球颠覆力的深科技独角兽企业；重塑欧洲在多极世界中的[[Knowledge Production|知识生产]]话语权。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–807)]]
 > - **适用对象** 成员国大学与科研机构、跨学科科研联合体（Consortia）、跨国工业界伙伴，以及广泛参与社会共创的公民群体。
-> - **政策工具** 竞争性前沿研究资助基金（ERC 自由探索资助）、跨学科使命定向攻关拨款、公私伙伴关系契约、欧洲创新理事会（EIC）的混合融资（股权直投 + [[Seed Funding|种子基金]]）与需求侧公共采购。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–809)]]
+> - **政策工具** 竞争性前沿研究资助基金（[[Engineering Research Centers|ERC]] 自由探索资助）、跨学科使命定向攻关拨款、公私伙伴关系契约、欧洲创新理事会（EIC）的混合融资（股权直投 + [[Seed Funding|种子基金]]）与需求侧公共采购。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–809)]]
 > - **约束机制** 建立具有刚性时间窗口与量化里程碑的使命评估机制，强制推行数据与论文全面开放获取（Open Access），推行公私合作中的[[Public Value|公共价值]]契约约束。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
 
 > [!citation-card] 战略导向的制度定性
@@ -154,7 +155,7 @@ updated: 2026-10-06
 > > 批评学者指出，地平线欧洲将科研经费高度捆绑于自上而下的政策使命，实质上是将大学和[[Knowledge Production|知识生产]]工具化为区域经济竞争力的服务载体，导致基础科学的自由探索受限，人文社会科学沦为工程技术的解释性附庸。
 > >
 > > - **[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]]** 批评欧盟科技规划深陷“新[[Geopolitics of Knowledge|知识地缘政治]]”的算计中，将高等教育过度编织入专有知识商品化与区域资本主义竞争链条，削弱了大学知识生产的多元[[Epistemology|认识论]]自主性。（pp. 38–40, 48–49）
-> > - **[[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]** 辩护称使命导向并非取代自由探索，而是通过第一支柱充分保障 ERC 的自下而上独立性，同时在第二支柱提供明确方向以防资本无序套利。（pp. 805–807）
+> > - **[[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]** 辩护称使命导向并非取代自由探索，而是通过第一支柱充分保障 [[Engineering Research Centers|ERC]] 的自下而上独立性，同时在第二支柱提供明确方向以防资本无序套利。（pp. 805–807）
 >
 > > [!axis] 地缘技术竞争中的有效性争议
 > > 政策观察者质疑欧洲在芯片、人工智能等关键硬科技领域的资金与统筹力度落后于中美，面对大国博弈时的产业防御能力不足。

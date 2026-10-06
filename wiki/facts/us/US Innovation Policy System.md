@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_persons: []
 related_facts:
   - "[[Bell Labs]]"
   - "[[SBIR and STTR Programs]]"
+  - "[[Engineering Research Centers]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[DARPA]]"
   - "[[Sematech]]"
@@ -89,7 +90,7 @@ updated: 2026-10-06
 
 > [!example] 高校引领与专业服务机构
 > - **斯坦福模式** 设立[[Technology Transfer Office|技术许可办公室]]（由具备科研背景的专业团队负责[[Research Translation\|技术转化]]全周期管理）和技术授权办公室，成立工业合同办公室专门负责校企合作，每年促成联合研究、委托研发、人才培养、企业咨询等多元化协作。硅谷30%风险投资流向斯坦福校友企业，顶级风投合伙人中斯坦福校友占比超40%（p.38）
-> - **MIT跨学科平台** 通过设立能源研究组织、生物技术处理工程研究中心等跨学科平台，打破传统院系界限，推动学科交叉融合
+> - **MIT跨学科平台** 通过设立能源研究组织、生物技术处理[[Engineering Research Centers|工程研究中心]]等跨学科平台，打破传统院系界限，推动学科交叉融合
 > - **NTTC（国家[[Technology Transfer\|技术转移]]中心）** 构建由联邦实验室、大学研究机构、企业合作伙伴和专家网络组成的全国性技术转移体系，下设6个地区技术转移中心（p.38）
 > - **FLC（联邦实验室技术转移联合体）** 通过一站式技术搜索平台和FLC-business数据库，促进联邦实验室与企业之间的深度合作（p.38）
 

@@ -8,7 +8,7 @@ summary: "爱尔兰梅努斯大学社会科学研究所教授，批判性数据�
 type: person
 nationality: ireland
 person_region: "ireland"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -44,13 +44,14 @@ related_instruments: []
 related_persons:
   - "[[Sigrid Hartong]]"
 related_facts:
+  - "[[Engineering Research Centers]]"
   - "[[Start Making a Reader Today]]"
 related_arguments:
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-03
+updated: 2026-10-06
 ---
 
 # Rob Kitchin
@@ -60,7 +61,7 @@ updated: 2026-10-03
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 爱尔兰人文地理学家与空间信息学者，梅努斯大学（Maynooth University）社会科学研究所（Maynooth University Social Sciences Institute, MUSSI）教授、欧洲研究理事会（ERC）高级研究员。
+> - **身份位置** 爱尔兰人文地理学家与空间信息学者，梅努斯大学（Maynooth University）社会科学研究所（Maynooth University Social Sciences Institute, MUSSI）教授、欧洲研究理事会（[[Engineering Research Centers|ERC]]）高级研究员。
 > - **核心角色** 批判性数据研究（Critical Data Studies, CDS）与智慧城市／空间[[Data Infrastructure\|数据基础设施]]研究的奠基者与领军人物；提出并系统化了数据汇聚体（Data [[Assemblage]]）理论框架，开创了从[[Ontology\|本体论]]、物质性、政治经济学与技术政治维度解剖数字基础设施的分析路径。
 > - **代表贡献** 奠定批判性数据研究理论纲领，出版里程碑著作《数据革命》（*The Data Revolution*）；提出数据绝非纯净无瑕的客观存在，而是深深嵌入社会-技术装配的建构物；其概念分析[[Paradigm\|范式]]被广泛引入教育社会学、公共治理与算法监测批判研究。
 
@@ -76,7 +77,7 @@ updated: 2026-10-03
 > [!timeline] 生平与职涯
 > - **1990–2000 — 空间认知与地理信息批判** 于英国兰卡斯特大学与威尔士大学接受地理学训练并获博士学位，早期聚焦空间行为认知、数字地理学与地图绘制社会学。
 > - **2001–2012 — 梅努斯大学任教与国家区域空间分析中心创立** 出任爱尔兰梅努斯大学国家区域空间分析研究所（NIRSA）所长，领衔爱尔兰国家空间规划与数字制图重大课题，关注大数据与空间规划技术的交互。
-> - **2013–2018 — 领衔欧洲研究理事会重大项目与数据革命理论确立** 主持欧洲研究理事会（ERC）资助项目“可编程城市”（The Programmable City），2014 年出版专著《数据革命：大数据、开放数据、[[Data Infrastructure\|数据基础设施]]及其后果》（*The Data Revolution*），并与特蕾西·劳里奥（Tracey Lauriault）共同界定批判性数据研究的理论议程。
+> - **2013–2018 — 领衔欧洲研究理事会重大项目与数据革命理论确立** 主持欧洲研究理事会（[[Engineering Research Centers|ERC]]）资助项目“可编程城市”（The Programmable City），2014 年出版专著《数据革命：大数据、开放数据、[[Data Infrastructure\|数据基础设施]]及其后果》（*The Data Revolution*），并与特蕾西·劳里奥（Tracey Lauriault）共同界定批判性数据研究的理论议程。
 > - **2019–至今 — 数字基础设施与算法治理批判深化** 担任梅努斯大学社会科学研究所正教授，系统推进算法正义、公共部门数字中介、数据伦理与城市仪表盘治理的研究，持续为国际社会学、传播学与教育治理研究提供元理论养分。
 
 ---

@@ -7,7 +7,7 @@ aliases:
 summary: "Stokes (1997) 提出的研究分类概念，指既追求基础理解又受应用考虑驱动的科研模式，以巴斯德为典范，区别于纯基础研究（玻尔象限）和纯应用研究（爱迪生象限），是理解 1980年代后大学研究取向变迁的关键概念"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -52,6 +52,7 @@ related_facts:
   - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[Research in Schools Evaluation]]"
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[Engineering Research Centers]]"
   - "[[CHIPS and Science Act]]"
   - "[[Industry-University Cooperative Research Centers]]"
 related_arguments:
@@ -141,7 +142,7 @@ updated: 2026-10-06
 > 探讨从 1980 年代以来，面对[[Corporate R&D Labs|企业中央实验室]]衰落与大国竞争，[[Research Universities|研究型大学]]如何通过[[Pasteur's Quadrant|巴斯德象限]]重塑社会合法性。
 
 > [!claim] [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]]
-> **产学协同战略化与巴斯德象限制度落地** 过去五十年间，随着企业中央实验室的萎缩与全球[[Grand Challenges|重大挑战]]的凸显，大学从单向的成果转让走向与产业深度战略协同。应用启发的基础研究成为联结高校基础科研能力与产业界现实技术瓶颈的核心界面，推动大学设立工程研究中心（ERC）与[[University-Industry Collaboration|产学合作]]中心（IUCRC），完成从传统学术象牙塔向现代[[Innovation Ecosystem|创新生态]]中枢的角色转变。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 38–40)]]
+> **产学协同战略化与巴斯德象限制度落地** 过去五十年间，随着企业中央实验室的萎缩与全球[[Grand Challenges|重大挑战]]的凸显，大学从单向的成果转让走向与产业深度战略协同。应用启发的基础研究成为联结高校基础科研能力与产业界现实技术瓶颈的核心界面，推动大学设立[[Engineering Research Centers|工程研究中心]]（ERC）与[[University-Industry Collaboration|产学合作]]中心（IUCRC），完成从传统学术象牙塔向现代[[Innovation Ecosystem|创新生态]]中枢的角色转变。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 38–40)]]
 
 ---
 
@@ -183,7 +184,7 @@ updated: 2026-10-06
 > - **1945 — 布什线性模型确立** 《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》确立战后科学契约，强调[[Curiosity-Driven Research|纯基础研究]]的自由探索与孤立性，奠定一维二分法观念。
 > - **1990s — 冷战终结与契约再协商下的合法性重塑** 冷战结束后国家安全统摄性减退，联邦赤字攀升倒逼科学界自证经济与社会价值；斯托克斯正式提出[[Pasteur's Quadrant|巴斯德象限]]，将基础机理探索与现实战略问题紧密嵌合，开启了[[Social Contract of Science|科学社会契约]]围绕经济竞争力与社会相关性的系统再协商。
 > - **1997 — 斯托克斯提出[[Pasteur's Quadrant|巴斯德象限]]** 斯托克斯出版奠基性专著，从理论上正式创立“应用启发的基础研究”[[Paradigm|范式]]，为政策界重新认识科研动机提供理论武器。
-> - **1980s–2000s — 美国 [[National Science Foundation|NSF]] 产学协同中心网络** NSF 设立工程研究中心（ERC）与[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（I/UCRC），在高校体制内培育巴斯德象限组织载体。
+> - **1980s–2000s — 美国 [[National Science Foundation|NSF]] 产学协同中心网络** NSF 设立[[Engineering Research Centers|工程研究中心]]（ERC）与[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（I/UCRC），在高校体制内培育巴斯德象限组织载体。
 > - **2022 — [[Modern Industrial Policy|现代产业政策]]下的法定建制化（NSF [[Directorate for Technology, Innovation and Partnerships|TIP]] 设立）** 美国通过《[[CHIPS and Science Act|芯片与科学法案]]》，NSF 正式设立技术、创新与伙伴关系理事会（TIP），明确将加速应用启发的基础研究与产业转化确立为联邦核心使命。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
 > - **2025 年起 — 技术导向型契约确立与三轨分化中的韧性支柱** 面对国家对即时技术能力与可审计回报的极端偏好，战后布什“无止境边疆”的默认信任被打破；科研体系分化为国家任务、应用启发与边缘化自由探索三轨，应用启发型研究成为公私研发网络中避免技术攻关陷入浅层经验试错的关键支柱。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1063–1064)]]
 

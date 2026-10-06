@@ -12,7 +12,7 @@ title: "Argument_Cheng_2026_KeJiChuangXin"
 argument_key: "Argument_Cheng_2026_KeJiChuangXin"
 argument_display_title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
 argument_kind: "book"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -73,6 +73,7 @@ related_facts:
   - "[[Hatch Act of 1887]]"
   - "[[National Science Foundation]]"
   - "[[Sematech]]"
+  - "[[Engineering Research Centers]]"
   - "[[National Natural Science Foundation of China]]"
 related_arguments: []
 sources:
@@ -458,7 +459,7 @@ citation_aliases:
 > [!info] 组织模式：产学研合作体系与知识融合
 > 日本建立从基础研究、技术开发、工程化研究到产业孵化的完整转化链条，产业技术综合研究所专注于共性技术研究贯穿全创新链。每年定期举办"产学研合作首脑会议"汇聚各方代表。美国1988年主导成立[[Sematech]]联盟联合英特尔、德州仪器等11家企业提升半导体制造能力(pp.63–64)。
 >
-> 高校层面，斯坦福设立[[Technology Transfer Office\|技术转移办公室]]和技术授权办公室负责全周期管理，成立工业合同办公室专门负责校企合作。MIT通过能源研究组织、生物技术处理工程研究中心等跨学科平台打破院系界限。自1984年起欧洲实施研究与技术开发计划，吸引近200个国家、近百万家机构参与(p.64)。
+> 高校层面，斯坦福设立[[Technology Transfer Office\|技术转移办公室]]和技术授权办公室负责全周期管理，成立工业合同办公室专门负责校企合作。MIT通过能源研究组织、生物技术处理[[Engineering Research Centers|工程研究中心]]等跨学科平台打破院系界限。自1984年起欧洲实施研究与技术开发计划，吸引近200个国家、近百万家机构参与(p.64)。
 
 > [!info] 创新环境：国际交流与区域协同
 > 德国作为欧盟"地平线计划"核心参与国，与成员国在气候变化、癌症治疗等领域取得显著合作成果。英国曾深度参与"地平线2020"计划促进欧洲科技创新协同。日本筑波科学城聚集2万名科研人员中来自10余个国家的国际学者超5000人，以筑波研究支援中心等为核心形成数百个非正式研究交流组织的创新网络(p.64)。
