@@ -9,6 +9,12 @@ summary: "欧盟2024年颁布的战略产业法规（Regulation (EU) 2024/1252�
 type: fact
 subtype: policy
 region: eu
+fact_region: "eu"
+fact_kind: "policy"
+fact_related_count: 9
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: "欧洲议会与欧盟理事会（European Parliament and Council of the European Union）"
 tags:
   - fact/policy
@@ -17,6 +23,19 @@ tags:
   - strategic-autonomy
   - industrial-policy
   - supply-chain
+related_concepts:
+  - "[[Strategic Autonomy]]"
+  - "[[Modern Industrial Policy]]"
+  - "[[Informed Consent]]"
+  - "[[Paradigm]]"
+related_methods:
+  - "[[Correlational Research]]"
+related_facts:
+  - "[[European Chips Act]]"
+  - "[[CHIPS and Science Act]]"
+  - "[[Important Projects of Common European Interest]]"
+related_arguments:
+  - "[[Argument_Bulfone_2024_IAI]]"
 confidence: high
 status: active
 created: 2026-10-06
@@ -30,10 +49,10 @@ updated: 2026-10-06
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2024 年 4 月 11 日由欧洲议会与欧盟理事会正式通过条例（Regulation (EU) 2024/1252），建立确保关键原材料安全与可持续供应的框架法案。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 16)]]
-> - **适用地区 / 对象** 覆盖欧盟 27 个成员国；面向从事铜矿、镓、稀土、锂、钴等战略矿产开采、精炼、加工、制造与回收的矿业及高科技企业。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 4, 16)]]
-> - **问题背景** 欧洲在数字与绿色产业价值链上游面临严重的对外单点依赖脆弱性。自 2008 年欧盟确立关键原材料倡议并定期更新清单以来，实证贸易数据显示欧洲对铜矿、镓、稀土的采矿依赖以及精炼铜、精炼钴的加工依赖十年间不仅未好转，部分矿产净进口依赖甚至进一步加深。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 4–5)]]
-> - **制度位置** 与《[[European Chips Act|欧洲芯片法案]]》（European Chips Act）和《净零工业法案》（Net-Zero Industry Act）构成欧盟追求[[Strategic Autonomy|战略自主]]的三大支柱性现代产业政策。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 16)]]
+> - **发布时间 / 发布主体** 2024 年 4 月 11 日由欧洲议会与欧盟理事会正式通过条例（Regulation (EU) 2024/1252），建立确保关键原材料安全与可持续供应的框架法案。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 4, 16)]]
+> - **适用地区 / 对象** 覆盖欧盟 27 个成员国；面向从事铜矿、镓、稀土、锂、钴等战略矿产开采、精炼、加工、制造与回收的矿业及高科技企业。
+> - **问题背景** 欧洲在数字与绿色产业价值链上游面临严重的对外单点依赖脆弱性。自 2008 年欧盟确立关键原材料倡议并定期更新清单以来，实证贸易数据显示欧洲对铜矿、镓、稀土的采矿依赖以及精炼铜、精炼钴的加工依赖十年间不仅未好转，部分矿产净进口依赖甚至进一步加深。
+> - **制度位置** 与《[[European Chips Act|欧洲芯片法案]]》（European [[CHIPS and Science Act|CHIPS Act]]）和《净零工业法案》（Net-Zero Industry Act）构成欧盟追求[[Strategic Autonomy|战略自主]]的三大支柱性[[Modern Industrial Policy|现代产业政策]]。
 
 ---
 
@@ -43,7 +62,7 @@ updated: 2026-10-06
 > 《关键原材料法案》（Critical Raw Materials Act, CRMA）通过立法确立战略原材料清单与多元化基准，设定至 2030 年本土开采至少 10%、精炼加工至少 40%、回收利用至少 25% 的硬性指标，并限制单一第三方国家供给占比不超过 65%，旨在扭转欧洲在数字与能源转型基础矿产上的结构性脆弱性。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 4, 16)]]
 
 > [!policy-design]- 政策设计
-> - **政策目标** 确保绿色和数字转型所需的战略原材料供应链安全与韧性；降低欧洲对单一地缘政治风险国家的供应依赖，建立原材料国家战略储备与联合采购机制。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 16)]]
+> - **政策目标** 确保绿色和数字转型所需的战略原材料供应链安全与韧性；降低欧洲对单一地缘政治风险国家的供应依赖，建立原材料国家战略储备与联合采购机制。
 > - **适用对象** 成员国矿业管理部门、跨国工业联合体、上游提纯企业及使用稀土和关键微芯片的下游终端制造企业。
 > - **政策工具**
 >   - **战略项目快速许可（Fast-track Permitting）** 简化战略开采与精炼项目行政审批，将开采许可办理周期压缩至 27 个月以内，加工与回收项目压缩至 14 个月以内。
@@ -62,9 +81,9 @@ updated: 2026-10-06
 
 > [!timeline] 政策时间线
 > - **2008 年** 欧盟委员会发布《原材料倡议》（Raw Materials Initiative），首次提出确立关键原材料清单。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 4)]]
-> - **2011–2023 年** 欧盟定期更新发布关键原材料清单（2011、2014、2017、2020、2023 年），但实证数据显示预警未转化为本土实际产能。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 4)]]
+> - **2011–2023 年** 欧盟定期更新发布关键原材料清单（2011、2014、2017、2020、2023 年），但实证数据显示预警未转化为本土实际产能。
 > - **2023 年 3 月** 欧盟委员会正式提出《关键原材料法案》立法提案。
-> - **2024 年 4 月** 欧洲议会与欧盟理事会正式签署通过《关于确保关键原材料安全与可持续供应框架的条例》（Regulation (EU) 2024/1252）。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 16)]]
+> - **2024 年 4 月** 欧洲议会与欧盟理事会正式签署通过《关于确保关键原材料安全与可持续供应框架的条例》（Regulation (EU) 2024/1252）。
 
 ---
 
@@ -85,7 +104,7 @@ updated: 2026-10-06
 > | **采矿阶段（Mining）** | 铜矿、钴矿、镓、稀土 | 极度匮乏，本土矿山开采几乎停滞 | 《关键原材料法案》（本土开采 $\ge 10\%$） |
 > | **提纯阶段（Refining）** | 精炼铜、精炼钴、高纯硅 | 产能不足，高度受制于亚洲加工产能 | 《关键原材料法案》（本土精炼 $\ge 40\%$） |
 > | **中间品与设备（Intermediate）** | 晶圆（Wafers）、微芯片 | 光刻机（ASML 局部垄断）、德国制造装备 | 《[[European Chips Act\|欧洲芯片法案]]》（IPCEI 补贴豁免） |
-> | **最终产品（Final Products）** | 计算机、高端通信终端设备 | 缺乏全球终端品牌，整体呈现贸易逆差 | 芯片法案第一支柱与数字化倡议 |
+> | **最终产品（Final Products）** | 计算机、高端通信终端设备 | 缺乏全球终端品牌，整体呈现贸易逆差 | [[CHIPS and Science Act\|芯片法案]]第一支柱与数字化倡议 |
 
 ---
 
@@ -94,7 +113,7 @@ updated: 2026-10-06
 > [!debates] 政策争议
 >
 > > [!axis] 环保法规与本土开采许可的制度冲突
-> > 争论加快采矿审批是否会削弱欧洲引以为傲的严苛环保标准与地方社区知情同意权。
+> > 争论加快采矿审批是否会削弱欧洲引以为傲的严苛环保标准与地方社区[[Informed Consent|知情同意]]权。
 > >
 > > - **工业与地缘战略界** 强调在极端地缘博弈下，若不能压缩采矿许可周期，欧洲将彻底丧失工业生存基础。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 16)]]
 > > - **环保组织与地方社区** 担忧放宽许可将导致水土污染，重蹈高污染开采覆辙，破坏绿色转型的生态初衷。
@@ -112,14 +131,14 @@ updated: 2026-10-06
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[European Chips Act]] | Fact (Policy) | 与 CRMA 共同构成欧盟针对尖端科技与基础矿产的双重产业安全立法。[[Argument_Bulfone_2024_IAI\|(Bulfone et al., 2024, p. 16)]] |
-> | [[Strategic Autonomy]] | Concept | 本法案是欧洲降低外部资源勒索风险、实现真正战略自主的关键前置条件。[[Argument_Bulfone_2024_IAI\|(Bulfone et al., 2024, p. 16)]] |
-> | [[Modern Industrial Policy]] | Concept | 突破自由市场非干预原则、由国家主导设定原材料采购与加工配额的典型范式。[[Argument_Bulfone_2024_IAI\|(Bulfone et al., 2024, p. 16)]] |
+> | [[European Chips Act]] | Fact (Policy) | 与 CRMA 共同构成欧盟针对尖端科技与基础矿产的双重产业安全立法。 |
+> | [[Strategic Autonomy]] | Concept | 本法案是欧洲降低外部资源勒索风险、实现真正战略自主的关键前置条件。 |
+> | [[Modern Industrial Policy]] | Concept | 突破自由市场非干预原则、由国家主导设定原材料采购与加工配额的典型[[Paradigm\|范式]]。 |
 > | [[Important Projects of Common European Interest]] | Fact (Program) | 成员国联合出资支持矿物精炼与循环利用技术攻关的核心政策载体。 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 基于全球 BACI-CEPII 贸易数据库系统测算美欧在采矿与提纯阶段的对外依赖度，指出欧盟自 2008 年以来的预警政策未能改善铜、钴、镓与稀土的依赖，深入评析《关键原材料法案》出台的战略背景与治理挑战（pp. 3–5, 16）。

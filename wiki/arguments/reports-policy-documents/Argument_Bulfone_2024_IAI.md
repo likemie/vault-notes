@@ -23,7 +23,7 @@ title: "Argument_Bulfone_2024_IAI"
 argument_key: "Argument_Bulfone_2024_IAI"
 argument_display_title: "Adjusting to new geopolitical realities: Semiconductors industrial policy in the US and EU (IAI Papers 24 | 13)"
 argument_kind: "report"
-argument_related_count: 19
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -32,12 +32,16 @@ sources:
 related_concepts:
   - "[[Strategic Autonomy]]"
   - "[[Policy Conditionalities]]"
+  - "[[Orchestrator State]]"
   - "[[Modern Industrial Policy]]"
   - "[[Paradigm]]"
   - "[[Market Failure]]"
   - "[[Public Value]]"
   - "[[Research Utilization]]"
   - "[[Assemblage]]"
+  - "[[University-Industry Collaboration]]"
+  - "[[Big Science]]"
+  - "[[Reciprocal Control Mechanism]]"
   - "[[Emergence]]"
 related_methods:
   - "[[Comparative Policy Analysis]]"
@@ -50,7 +54,9 @@ related_facts:
   - "[[European Chips Act]]"
   - "[[Important Projects of Common European Interest]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
+  - "[[Critical Raw Materials Act]]"
   - "[[World Trade Organization]]"
+  - "[[Inflation Reduction Act]]"
   - "[[Horizon Europe]]"
 status: draft
 created: 2026-10-06
@@ -74,7 +80,7 @@ tags:
 > 在大国地缘对抗加剧、全球供应链屡遭断链危机与大西洋两岸重拾国家干预主义的背景下，美国与欧洲联盟在数字半导体价值链各环节究竟面临怎样的结构性依赖与比较优势；两套标志性的现代产业战略——美国《[[CHIPS and Science Act|芯片与科学法案]]》与欧盟《[[European Chips Act|欧洲芯片法案]]》——在治理架构、政策目标、财政体量、工具组合与附加条件设计上存在何种制度分殊，这些制度差异如何决定各自重塑[[Strategic Autonomy|战略自主]]的实际效能。
 
 > [!claim] 核心主张
-> 美欧虽然均将半导体产业政策高度聚焦于中间制造产能回流以谋求[[Strategic Autonomy|战略自主]]，但二者展现出根本分歧的治理逻辑：美国依托中央财政的雄厚财力推行联邦高度集权化的直接资助与税收抵免，并施加涵盖国家安全护栏、劳工薪酬与利润分享的全流程刚性[[Policy Conditionalities|制度化附加条件]]；欧盟则因超国家财政税收主权的缺位，不得不采取去中心化的多层级治理模式，由欧洲联盟委员会充当产业政策协调者，依赖各成员国财政在[[Important Projects of Common European Interest|欧洲共同利益重要项目]]（Important Projects of Common European Interest, IPCEI）等框架下提供国家援助豁免与弱危机附加条件，此种模式面临加剧成员国内部财政与技术鸿沟并破坏单一市场完整性的严重系统性风险。（pp.1–3, 13–17）
+> 美欧虽然均将半导体产业政策高度聚焦于中间制造产能回流以谋求[[Strategic Autonomy|战略自主]]，但二者展现出根本分歧的治理逻辑：美国依托中央财政的雄厚财力推行联邦高度集权化的直接资助与税收抵免，并施加涵盖国家安全护栏、劳工薪酬与利润分享的全流程刚性[[Policy Conditionalities|制度化附加条件]]；欧盟则因超国家财政税收主权的缺位，不得不采取去中心化的多层级治理模式，由欧洲联盟委员会充当[[Orchestrator State|产业政策协调者]]，依赖各成员国财政在[[Important Projects of Common European Interest|欧洲共同利益重要项目]]（Important Projects of Common European Interest, IPCEI）等框架下提供国家援助豁免与弱危机附加条件，此种模式面临加剧成员国内部财政与技术鸿沟并破坏单一市场完整性的严重系统性风险。（pp.1–3, 13–17）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2011–2021 年美欧及中国在数字价值链四个阶段（采矿、提纯、中间元器件、最终制成品）的双边进出口贸易流动，以及美欧芯片法案的立法设计、预算结构与初期投资项目落地。（pp.3–4, 9–14）
@@ -191,7 +197,7 @@ tags:
 
 > [!tension] 美欧产业立法出台背后的国内政治驱动力对照
 > - **美国两党战略共识（民主党发展主义与共和党保护主义合流）** 在美国两党政治极度极化的背景下，《[[CHIPS and Science Act|芯片与科学法案]]》在参议院获得了超过 60% 的罕见绝对多数支持。拜登政府希望借助公共投资振兴制造业的平台，与共和党捍卫本土产业的保护主义诉求高度契合，共同将防范中国半导体产业追赶确立为两党结盟的战略靶标。
-> - **欧盟外部冲击倒逼（法国国家保护主义与德国多边自由贸易博弈）** 欧盟在 2019 年前依然倾向于依赖[[World Trade Organization|世贸组织]]框架与多边自由贸易解决供应问题。只是在俄乌冲突爆发、台海局势变化以及美国出台补贴法案吸引欧洲企业外迁的重重压力下，欧盟才仓促转向产业干预；但法德之间存在根本分歧——法国主张强力扶持本土产业追求[[Strategic Autonomy|战略自主]]，而德国依然忌惮破坏全球贸易规则，导致全欧层面的统一财政动员迟迟无法成形。（p.8）
+> - **欧盟外部冲击倒逼（科技人才虹吸恐慌与法德路线博弈）** 欧盟在 2019 年前依然倾向于依赖[[World Trade Organization|世贸组织]]框架与多边自由贸易解决供应问题。只是在俄乌冲突爆发、台海局势变化以及美国密集出台《[[Inflation Reduction Act|通胀削减法案]]》与《芯片法案》企图将欧洲高端企业与顶尖科技人才、工程师跨大西洋“虹吸（Lure EU companies and talents to America）”至美国的重重压力下，欧盟才仓促转向产业干预；但法德之间存在根本分歧——法国主张强力扶持本土产业追求[[Strategic Autonomy|战略自主]]，而德国依然忌惮破坏全球贸易规则，导致全欧层面的统一财政动员迟迟无法成形。（p.8）
 
 两岸政治结盟基础的分野，直接塑造了后续法案在中央财力投入与制度工具设计上的分流。（pp.8–9）
 
@@ -235,11 +241,11 @@ tags:
 
 与美国的中央直接拨款相比，欧洲的实施机制则暴露出口惠而实不至的尴尬境地。（pp.11–13）
 
-> [!case] 欧盟微电子[[Important Projects of Common European Interest|欧洲共同利益重要项目]]的合作运作
+> [!case] 欧盟微电子[[Important Projects of Common European Interest|欧洲共同利益重要项目]]的超国家产学研协作
 > 2023 年 6 月，欧委会正式放行了微电子与通信技术重大项目（IPCEI ME/CT），这是欧洲芯片战略最重要的落地抓手：
-> - **跨国协同网络** 动员了奥地利、法国、德国、意大利、西班牙等 14 个成员国，覆盖 56 家企业实施 68 项联合技术攻关，并纳入 30 余家高校机构开展 180 项跨国合作。
+> - **跨国大学与产业深度协同网络** 该项目并非单纯的企业补贴，而是构建了庞大的超国家[[University-Industry Collaboration|产学合作]]与[[Big Science|大科学]]攻关联合体：动员了奥地利、法国、德国、意大利、西班牙等 14 个成员国，不仅覆盖 56 家微电子领军企业实施 68 项联合技术研发，更系统吸纳了全欧 **30 余所大学与公共科研院所（Universities and research organisations）深度嵌入，组建了多达 180 项跨国产学研协同合作（Cross-border collaborations）**，重点攻关能效提升、资源节约型电子系统及微电子新制造方法。
 > - **资金完全来自成员国** 14 个参与国政府从本国国库掏出 81 亿欧元公共补贴，试图吸引 137 亿欧元企业配套资金。
-> - **欧委会仅充当审批者与[[Orchestrator State|协调者]]** 欧盟委员会自身不出资，只是为各成员国的国家补贴提供反垄断法规豁免，在多国企业之间组织会议与搭线撮合，日益退化或转型为产业政策的“[[Orchestrator State|协调型国家]]（Orchestrator）”。（pp.13–14）
+> - **欧委会仅充当审批者与协调者** 欧盟委员会自身不出资，只是为各成员国的国家补贴提供反垄断法规豁免，在多国企业与高校院所之间组织会议与搭线撮合，日益退化或转型为产业政策的“[[Orchestrator State|协调型国家]]（Orchestrator）”。（pp.13–14）
 
 > [!critique] 欧盟 33 亿欧元自有资金与单一市场割裂的制度困境
 > 深入拆解欧盟所谓的 430 亿欧元总盘子，即可发现其背后的治理软肋：
@@ -254,7 +260,7 @@ tags:
 > [!claim] 步骤四核心主张
 > 政府向私营企业提供巨额公共资金时，必须施加具有实质约束力的附加条件，才能防止资本寻租并确保公共利益得到履行；美国通过全流程刚性法律条件锁定了国家安全护栏与社会分配责任，而欧盟依附于危机触发的弱约束难以有效规制跨国资本，欧洲若不补齐超国家财政主权短板，战略自主将沦为纸上谈兵。（pp.14–17）
 
-依据[[Modern Industrial Policy|现代产业政策]]理论与爱丽丝·[[Alice Amsden|阿姆斯登]]（Alice Amsden, 2001）的发展型国家命题，政府出资补贴企业绝不应是单向的利益输送。国家必须与受助企业签订明确的双向契约，建立严格的“[[Reciprocal Control Mechanism|对等控制机制]]（Reciprocal Control Mechanism）”，规定企业在享受公共财政支持的同时必须承担明确的社会责任与战略义务。（pp.14–15）
+依据[[Modern Industrial Policy|现代产业政策]]理论与爱丽丝·阿姆斯登（Alice Amsden, 2001）的发展型国家命题，政府出资补贴企业绝不应是单向的利益输送。国家必须与受助企业签订明确的双向契约，建立严格的“[[Reciprocal Control Mechanism|对等控制机制]]（Reciprocal Control Mechanism）”，规定企业在享受公共财政支持的同时必须承担明确的社会责任与战略义务。（pp.14–15）
 
 > [!tension-table] 美欧半导体法案附加条件规制强度对照
 > | 规制维度 | 美国集中式法定强约束模式 | 欧盟去中心化弱约束与危机激活模式 |
@@ -305,7 +311,7 @@ tags:
 > *The US CHIPS Act stands out as one of the few bills that gathered bipartisan support, including a 60 per cent majority in the Senate, amid great polarisation between the Democratic and the Republican Party. This rare agreement shows how industrial policy is one of the few common denominators between the developmentalist platform promoted by the Democratic Party under Biden and the protectionist policy championed by 'Make America Great Again' Republicans. The [[Emergence]] of China as a new global rival, and the ensuing geopolitical tensions, have played a decisive role as a coalitional magnet.*（p.8）
 
 > [!citation-card] 欧盟委员会在产业政策中的协调者异化
-> 尽管美国联邦政府在半导体产业中的角色日益趋向于通过集中式治理直接向单个企业投放定向资金，欧盟委员会却越来越多地扮演产业政策协调者的角色。它通过便利成员国提供国家援助，并激励单一市场内部形成跨国界与跨部门的生产网络来推进战略目标。
+> 尽管美国联邦政府在半导体产业中的角色日益趋向于通过集中式治理直接向单个企业投放定向资金，欧盟委员会却越来越多地扮演[[Orchestrator State|产业政策协调者]]的角色。它通过便利成员国提供国家援助，并激励单一市场内部形成跨国界与跨部门的生产网络来推进战略目标。
 >
 > *Thus, while the industrial policy role of the US government is increasingly to shape the semiconductor sector through centralised governance and targeted funding directly available to single firms, the EU Commission increasingly operates as an 'orchestrator' of industrial policy by facilitating the provision of national state aid by member states and by incentivising the emergence of cross-country and cross-sectoral production networks in the single market.*（p.14）
 
