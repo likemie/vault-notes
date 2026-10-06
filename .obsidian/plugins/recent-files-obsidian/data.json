@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "National Science Foundation",
-      "path": "wiki/facts/us/National Science Foundation.md"
+      "basename": "Erich Bloch",
+      "path": "wiki/persons/us/Erich Bloch.md"
     },
     {
       "basename": "Argument_Bozeman_2004_JTT",
       "path": "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Bozeman_2004_JTT.md"
+    },
+    {
+      "basename": "University-Based Research Center",
+      "path": "wiki/concepts/university-industry-collaboration/University-Based Research Center.md"
+    },
+    {
+      "basename": "Engineering Research Centers",
+      "path": "wiki/facts/us/Engineering Research Centers.md"
+    },
+    {
+      "basename": "National Science Foundation",
+      "path": "wiki/facts/us/National Science Foundation.md"
     },
     {
       "basename": "Argument_Ryabyy_2024_Maneto",
@@ -187,18 +199,6 @@
     {
       "basename": "Statistical Process Control",
       "path": "wiki/methods/quantitative/Statistical Process Control.md"
-    },
-    {
-      "basename": "Argument_Ramming_2025_CorporateSupport",
-      "path": "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Ramming_2025_CorporateSupport.md"
-    },
-    {
-      "basename": "Universal Parallel Computing Research Centers",
-      "path": "wiki/facts/us/Universal Parallel Computing Research Centers.md"
-    },
-    {
-      "basename": "Public-Private Partnership in Research",
-      "path": "wiki/concepts/university-industry-collaboration/Public-Private Partnership in Research.md"
     }
   ],
   "omittedPaths": [],
