@@ -49,14 +49,18 @@ related_facts:
   - "[[ESPRIT]]"
   - "[[JESSI]]"
   - "[[1986 U.S.-Japan Semiconductor Trade Agreement]]"
+  - "[[Silicon Structures Project]]"
+  - "[[National Research and Resource Facility for Submicron Structures]]"
+  - "[[Center for Integrated Systems]]"
 related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
   - "[[Argument_Bown_2024_JEP]]"
   - "[[Argument_Macher_1998_CMR]]"
+  - "[[Argument_Mody_2017_MOH]]"
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # VLSI Project
@@ -130,11 +134,12 @@ updated: 2026-10-05
 
 > [!finding-cards] 核心实证结论
 > 1. **奠定日本半导体制造与存储器全球优势** 项目期间取得约 1200 项发明专利，打通了从材料、设备到晶圆制造的完整链条，使日本在 1980 年代上半叶超越美国成为全球最大的芯片与存储器生产国。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 727, 736–738)]]
-> 2. **成为全球高技术研发联盟的制度标杆** 树立了政府引导、企业共担、[[Precompetitive Research|前竞争研发]]共享的产业政策[[Paradigm|范式]]，直接触发了美国（[[Sematech]]、[[Microelectronics and Computer Technology Corporation|MCC]]）与欧洲（[[ESPRIT]]、[[JESSI]]）的大规模高技术联盟效仿。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 725–728)]]
+> 2. **成为全球高技术研发联盟的制度标杆与美国学术中心同源共生的催化剂** 树立了政府引导、企业共担、[[Precompetitive Research|前竞争研发]]共享的产业政策[[Paradigm|范式]]，不仅直接触发了美国（[[Sematech]]、[[Microelectronics and Computer Technology Corporation|MCC]]）与欧洲（[[ESPRIT]]、[[JESSI]]）的大规模产业联合体，更成为美国工程学者在高校发起学术制度创业（创建加州理工学院 SSP、康奈尔大学 NRRFSS 与斯坦福大学 CIS）的核心危机动员合法性话语。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 725–728)]]; [[Argument_Mody_2017_MOH|(Mody, 2017, pp. 286–287, 291–292)]]
 > 3. **开创[[Modern Industrial Policy|现代产业政策]]史前身与第一代使命政策原型** Bown 与 Wang（2024）指出，VLSI 项目代表了 20 世纪后半叶以纵向一体化国家冠军、集中式共性研发和廉价资本配给为特征的传统追赶型产业政策顶峰；该项目与日本系列（Keiretsu）企业网络相结合，促成日本在 1980 年代全球前十大芯片厂商中占据半壁江山（NEC、东芝、日立、富士通、三菱），并成为引发后续美日贸易冲突的制度根源。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 83–85)]]
 > 4. **隐性知识跨企业扩散机制验证** 证明了人员集中借调与实体联合实验室对于复杂工程技术知识扩散的关键价值。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 752–753)]]
 > 5. **本土装备与材料产业链的协同突破** 助力尼康（Nikon）与佳能（Canon）在步进式光刻机领域实现技术跨越，终结了美国企业在半导体光刻装备上的长期垄断。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 739–741)]]
 > 6. **大宗存储芯片代际跃迁的坚实底座** 提供了从 16K 到 4M DRAM 持续领先的微细加工共性工艺，直接促成了日本企业在 1980 年代对全球大宗存储器市场的绝对统治。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 109–111)]]
+> 7. **重塑美国科研公共资助逻辑** 莫迪（Mody, 2017）的历史档案研究揭示，日本通产省斥资 2.33 亿美元（737 亿日元）开展 VLSI 产学联合攻关的消息，被美国学者（如米德、哈里斯）用作直接政治杠杆，成功迫使怀疑派企业高管（如诺伊斯）与五角大楼妥协，促成了美国国家科学基金会（NSF）资助设立国家级微细加工用户设施。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 291–292)]]
 
 > [!ref-table]- 日本厂商历代 DRAM 全球市场最高份额演进（[[Argument_Macher_1998_CMR|Macher et al., 1998]], Table 1）
 >
@@ -203,3 +208,4 @@ updated: 2026-10-05
 > | [[Industrial Benchmarking]] | Method | 评估跨国半导体制造良率差距与 VLSI 政策成效的实证度量方法。 |
 > | [[David C. Mowery]] | Person | 对国际高技术研发联盟进行深入比较经济学与政策分析的核心学者。 |
 > | [[Comparative Case Study]] | Method | 剖析美日欧产业研发联盟治理异同的核心研究设计。 |
+| [[Argument_Mody_2017_MOH|Mody (2017)]] | Argument | 莫迪探讨日本 VLSI 项目如何直接催生美国微电子学术中心与产业联盟同源共生的历史研究。 |
