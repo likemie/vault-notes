@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Workforce Development",
+      "path": "wiki/concepts/educational-policy-reform/Workforce Development.md"
+    },
+    {
       "basename": "Argument_Reynolds_2024_JICT",
       "path": "wiki/arguments/journal-articles/Journal of Industry, Competition and Trade/Argument_Reynolds_2024_JICT.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Social Contract of Science",
       "path": "wiki/theories/science-policy/Social Contract of Science.md"
-    },
-    {
-      "basename": "National Science Foundation",
-      "path": "wiki/facts/us/National Science Foundation.md"
     }
   ],
   "omittedPaths": [],

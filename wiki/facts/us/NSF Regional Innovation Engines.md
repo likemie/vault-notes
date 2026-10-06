@@ -91,6 +91,22 @@ updated: 2026-10-06
 >
 > *The new legislation leans into driving regional specialization and global [[Competitiveness]] through a number of high-profile competitive grant programs that also require more inclusive regional coalitions (e.g., [[Infrastructure Investment and Jobs Act|IIJA]] Hydrogen Hubs, CHIPS Act semiconductor regional clusters as well as Regional Technology and Innovation Hubs and [[National Science Foundation]] Engine grants).*
 
+> [!logic-map]- 区域创新引擎产教协同网络
+> ```mermaid
+> flowchart TD
+>     A["国家产业战略立法\n(CHIPS / IRA / IIJA)"] --> B["地方导向创新生态\n(NSF 区域创新引擎)"]
+>     A --> C["前置劳动力法定规约\n([[Workforce Development|劳动力发展计划]])"]
+>     
+>     B --> D["产教联盟协同\n(研究型大学 + 社区学院 + 地方工会)"]
+>     C --> E["[[Apprenticeship|注册学徒制]]通道与微证书"]
+>     C --> F["职工托儿服务与照护基础设施"]
+> 
+>     D --> G["缓解战略产业技能赤字\n(Technical Labor and Skills Deficit)"]
+>     E --> G
+>     F --> G
+>     G --> H["保障数千亿美元实体制造业资本落地"]
+> ```
+
 ---
 
 ## 推进历程与阶段演进
