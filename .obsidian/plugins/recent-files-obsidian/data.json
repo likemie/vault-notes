@@ -5,6 +5,22 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_Bulfone_2024_IAI.md"
     },
     {
+      "basename": "Horizon Europe",
+      "path": "wiki/facts/eu/Horizon Europe.md"
+    },
+    {
+      "basename": "World Trade Organization",
+      "path": "wiki/facts/global/World Trade Organization.md"
+    },
+    {
+      "basename": "Taiwan Semiconductor Manufacturing Corporation",
+      "path": "wiki/facts/east-asia/Taiwan Semiconductor Manufacturing Corporation.md"
+    },
+    {
+      "basename": "Important Projects of Common European Interest",
+      "path": "wiki/facts/eu/Important Projects of Common European Interest.md"
+    },
+    {
       "basename": "Public Value",
       "path": "wiki/concepts/science-policy/Public Value.md"
     },
@@ -23,10 +39,6 @@
     {
       "basename": "Comparative Policy Analysis",
       "path": "wiki/methods/qualitative/Comparative Policy Analysis.md"
-    },
-    {
-      "basename": "Important Projects of Common European Interest",
-      "path": "wiki/facts/eu/Important Projects of Common European Interest.md"
     },
     {
       "basename": "Policy Conditionalities",
@@ -63,10 +75,6 @@
     {
       "basename": "Embedded Autonomy",
       "path": "wiki/concepts/science-policy/Embedded Autonomy.md"
-    },
-    {
-      "basename": "Taiwan Semiconductor Manufacturing Corporation",
-      "path": "wiki/facts/east-asia/Taiwan Semiconductor Manufacturing Corporation.md"
     },
     {
       "basename": "Total Factor Productivity",
@@ -191,14 +199,6 @@
     {
       "basename": "template-fact-policy",
       "path": "wiki/templates/template-fact-policy.md"
-    },
-    {
-      "basename": "Argument_Mitter_2009_Europe",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mitter_2009_Europe.md"
-    },
-    {
-      "basename": "Argument_Logar_2014_Minerva",
-      "path": "wiki/arguments/journal-articles/Minerva/Argument_Logar_2014_Minerva.md"
     }
   ],
   "omittedPaths": [],

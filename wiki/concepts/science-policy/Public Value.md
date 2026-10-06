@@ -7,7 +7,7 @@ aliases:
 summary: "指超越新古典狭隘“公共品”修补的整体性治理与创新范式；强调国家、市场与社会在应对重大战略挑战与社会技术转型的全价值链中共同创造、塑造市场，并通过制度化附加条件与护栏条款确保公共投资创造普惠的集体经济、社会与生态福祉。"
 type: concept
 domain: "science-policy"
-related_count: 35
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Return on Investment]]"
+  - "[[Strategic Autonomy]]"
   - "[[Variable]]"
   - "[[Patient Capital]]"
   - "[[Picking the Willing]]"
@@ -47,11 +48,14 @@ related_facts:
   - "[[Inflation Reduction Act]]"
   - "[[International Reading Association]]"
   - "[[Department of Energy]]"
+  - "[[Important Projects of Common European Interest]]"
   - "[[Horizon Europe]]"
+  - "[[European Chips Act]]"
   - "[[Horizon Europe Missions]]"
 related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Reynolds_2024_JICT]]"
+  - "[[Argument_Bulfone_2024_IAI]]"
 related_methods:
   - "[[Cost-Benefit Analysis]]"
   - "[[Effect Size]]"
@@ -176,6 +180,16 @@ updated: 2026-10-06
 
 ---
 
+### 命题六　超国家公共价值创造依赖中央集中财政资源以防范单一市场福利分裂
+
+> [!concept-lens] 政体财政结构与跨区域公共价值均等化
+> 探讨在多层级治理体系中，缺乏统一超国家公共资金池是否会导致公共价值追求演变为成员国之间的零和博弈与区域发展鸿沟。
+
+> [!claim] [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]]
+> **超国家财政赤字对公共价值的稀释与单一市场扭曲** 公共价值的实现不仅在于微观企业契约层面的条件设定，更取决于宏观治理架构是否拥有支撑全域普惠福祉的公共财政基石。在具备统一主权财政的美国，联邦政府集中出资能确保供应链安全、高薪就业与托儿保障等公共价值在全国重点产区由中央统一规范与落地；然而，在欧盟多层级体系下，由于缺乏超国家自主税收与统一工业基金，欧盟委员会追求的“欧洲半导体韧性与自主”公共价值，在操作中被迫蜕变为放宽国家援助规则并依赖成员国国库资助（如 [[Important Projects of Common European Interest|IPCEI]] 框架）。这种机制导致德国、法国等财政盈余大国能够大肆动用本国财政补贴跨国巨头以独占产业溢出，而南欧和东欧成员国因财政空间逼仄被严重边缘化，不仅使全欧统一的劳工与社会福利附加条件化为泡影，更引发了跨国巨头在成员国之间的补贴竞价与寻租套利，反向侵蚀了单一市场的公平竞争与区域凝聚力这一最高欧盟公共价值。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14, 16–17)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -186,6 +200,7 @@ updated: 2026-10-06
 > | **命题三｜风险收益对等** | 建立公私部门风险共担与长期收益对等共享机制 | 政府早期高风险战略注资与商业化研发合作 | [[Mariana Mazzucato\|Mazzucato (2018)]] |
 > | **命题四｜民主协商共创** | 依托公众参与和多元审议确立战略使命的政治合法性 | 重大国家科技规划与公共挑战议程设定 | [[Mariana Mazzucato\|Mazzucato (2018)]] |
 > | **命题五｜附加条件契约** | 运用法定附加条件与护栏条款将公共投资转化为普惠社会价值 | 现代产业政策落地、制造补贴与清洁能源激励 | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] |
+> | **命题六｜跨区域财政支撑** | 超国家公共价值实现依赖中央集中资金池以平抑区域补贴分化 | 多层级跨国政体工业战略、欧洲统一大市场一体化建设 | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024, pp. 13–17)]] |
 
 ---
 
@@ -208,6 +223,9 @@ updated: 2026-10-06
 > [!example] 案例二｜《[[Inflation Reduction Act|通胀削减法]]》（[[International Reading Association|IRA]]）与能源部社区利益计划（CBP）中的包容性繁荣机制
 > 美国清洁能源转型立法将公共价值深度绑定于税收抵免与拨款竞争中：在《通胀削减法》中，清洁能源项目唯有严格遵守现行工资（Prevailing Wage）标准并雇佣法定比例的注册学徒工（Registered [[Apprenticeship]]），才能获取基础抵免额 5 倍的全部清洁能源税收抵免；能源部（[[Department of Energy|DOE]]）则在所有重大竞争性资助评审中设立占 20% 评分权重的“社区利益计划”（CBP），强制要求受资助企业投资当地社区、与工会签订集体谈判协议并推进劳工多元化，同时全面落实“环境正义 40 倡议”（Justice40 Initiative），确保 40% 的联邦气候与清洁能源投资综合收益惠及历史上遭受污染与经济排斥的弱势社区。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–13)]]
 
+> [!example] 案例三｜《[[European Chips Act|欧洲芯片法案]]》与 [[Important Projects of Common European Interest|IPCEI]] 中的公共价值困境与超额利润回缴试验
+> 欧盟在追求半导体供应链韧性与自主这一超国家公共价值时，采取了不同于美国中央集权的治理进路：在微电子重大项目（IPCEI ME/CT）中动员 14 个成员国提供 81 亿欧元公共补贴，并要求受助企业执行超额利润回缴机制（Claw-back），即商业化成功后按比例返还部分补贴；然而，由于公共资金完全依赖成员国国库而非欧盟中央预算，德国与法国凭借财政空间垄断了绝大部分重大建厂资助，导致全欧范围的技能培训与区域均衡等更广泛的公共价值被成员国财力竞争所稀释，凸显出缺乏超国家财政直接投资时公共价值创造的体制局限。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14, 16–17)]]
+
 ---
 
 ## 争议与批评
@@ -219,12 +237,18 @@ updated: 2026-10-06
 > >
 > > - **新古典经济学者质疑** 认为市场价格是唯一客观的价值衡量尺度；公共价值缺乏统一货币化折算标准，容易被行政官僚主观滥用以掩盖低效投资。
 > > - **公共价值学者反驳** 指出将所有人类福祉还原为短期市场价格正是导致气候危机与贫富分化的根源；多维度指标（社会排斥率、碳减排量、健康预期寿命）比单一财务指标更能反映长期发展质量。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805, 810–812)]]
->
+> >
 > > [!axis] 附加条件的多重社会目标 vs 产业执行速度与资本竞争力
 > > 争论在产业政策中捆绑劳工与社会目标是否会削弱制造业回流速度。
 > >
 > > - **产业资本与自由市场批评** 认为强制要求托儿配套、现行工资、工会协议与超额利润分成增加了企业的合规负担与建厂资本开支，可能延缓先进产能落地与投产进度。
 > > - **现代产业战略学者辩护** 强调制造业扩张若脱离劳动力供给与社区支持将难以为继；通过附加条件解决技术工人荒、育儿照护瓶颈并保障优质薪酬，是将公共投资转化为全社会生产率稳步提升与持久公共价值的制度基石。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–13)]]
+> >
+> > [!axis] 超国家全域公共价值 vs 成员国主权财政利益割裂
+> > 探讨在缺乏超国家财政转移的联盟体系中，追求全联盟公共价值（如供应链安全与[[Strategic Autonomy|战略自主]]）是否会恶化内部不平等。
+> >
+> > - **[[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]]** 警示指出，依赖成员国国家援助推进产业自主，将导致财力雄厚的核心国家独占工业溢出，损害单一市场公平竞争底线，产生“以割裂大市场为代价换取局部自主”的公共价值逆转。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 16–17)]]
+> > - **欧洲一体化辩护** 认为 [[Important Projects of Common European Interest|IPCEI]] 强制性跨境产学研网络（180 项跨国合作）与知识溢出机制能够在一定程度上平衡技术差距，并为后续建立泛欧共同工业投资基金提供制度试验。
 
 ---
 
@@ -237,6 +261,7 @@ updated: 2026-10-06
 > |---|---|---|---|---|---|---|
 > | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] | 美国《芯片与科学法》（390 亿美元直接制造补贴）与《[[Inflation Reduction Act\|通胀削减法]]》（超 3700 亿美元气候激励） | 政策[[Process Tracing\|过程追踪]]与契约治理分析 | 托儿服务门槛、税收抵免倍数、社区利益计划（CBP）权重、环境正义目标 | 资助额 **>1.5 亿美元** 必须提供托儿方案；满足现行工资与[[Apprenticeship\|学徒制]]可获 **5 倍** 清洁能源税收抵免；[[Department of Energy\|DOE]] 竞争性资助中 CBP 占 **20% 评分权重**；Justice40 规定 **40% 气候收益** 流向弱势社区 | 联邦法案法定条款与实施细则（原文报告） | 证实[[Policy Conditionalities\|制度化附加条件]]将宏观产业补贴有效锚定于劳工福祉与包容性增长等公共价值目标 |
 > | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 欧盟“[[Horizon Europe\|地平线欧洲]]”（Horizon Europe，约 1000 亿欧元）使命型研发框架 | 政策框架构建与国际案例比较 | 使命导向设计、跨部门研发联动、公共价值评估 | 围绕气候、癌症、海洋等确立 **5 大重大社会使命**；推动全欧盟科研资金从点状补贴转向跨部门公共价值共创网络 | 欧盟委员会官方政策采纳文本（原文报告） | 确立了超越[[Market Failure\|市场失灵]]修补、以公共价值为导向的顶层使命设计逻辑 |
+> | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] | 欧盟《[[European Chips Act\|欧洲芯片法案]]》与 IPCEI ME/CT 跨国协同机制 | 比较政治经济学与多层级治理分析 | 欧盟直接预算份额、成员国国家援助规模、跨国技术协作项目数、超额利润回缴规则 | 欧盟自有预算仅 **33 亿欧元**（号称撬动 430 亿）；14 国提供 **81 亿欧元** 国家援助并撬动 **137 亿欧元** 私人资本；覆盖 **56 家企业与 68 个项目**；建立 **180 项跨国研发合作** | 官方立项数据与法案条文核查（原文报告） | 揭示多层级政体下超国家财政工具缺失对全域公共价值创造的制度约束与区域分化风险 |
 
 ---
 
@@ -245,6 +270,7 @@ updated: 2026-10-06
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 系统阐发超越[[Market Failure|市场失灵]]修补的公共价值共创理论与动态评估工具。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 实证剖析美国现代产业战略中通过托儿配套、利润分成、现行工资与社区利益计划等[[Policy Conditionalities|制度化附加条件]]与护栏条款实现公共价值创造的具体机制。
+> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 比较跨大西洋半导体产业政策中的公共价值实现路径，揭示美国集中直投强规制与欧盟多层级协调者在保障全域公共价值时的制度分殊与单一市场风险。
 
 ---
 
@@ -263,6 +289,9 @@ updated: 2026-10-06
 > | [[Horizon Europe Missions]] | Fact (Policy) | 欧盟以全社会公共价值为导向推进科研与产业转型的当代旗舰政策实践。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 嵌入托儿服务、超额利润分成与禁止股票回购等公共价值护栏的现代制造法案。 |
 > | [[Inflation Reduction Act]] | Fact (Policy) | 以现行工资与[[Apprenticeship\|学徒制]]为获取 5 倍税收抵免条件的清洁能源产业转型法案。 |
+> | [[European Chips Act]] | Fact (Policy) | 探索在多层级治理与利润回缴机制下追求半导体供应链安全公共价值的欧洲核心法案。 |
+> | [[Important Projects of Common European Interest]] | Fact (Program) | 动员 14 国 81 亿欧元国家援助以兼顾前沿技术溢出与利润回缴的跨国产业协同载体。 |
 > | [[Mariana Mazzucato]] | Person | 将公共价值理论深度融入当代创新经济学与国家治理体系的领军学者。 |
 > | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 系统阐发超越市场失灵修补的公共价值共创理论与动态评估工具的经典[[Document\|文献]]。 |
 > | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] | Argument | 详述现代产业战略如何通过附加条件与护栏条款将公共投资转化为公共价值的实证文献。 |
+> | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] | Argument | 比较跨大西洋半导体产业政策治理架构对全域公共价值创造与单一市场协调影响的实证文献。 |

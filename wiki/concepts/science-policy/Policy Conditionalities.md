@@ -10,10 +10,10 @@ aliases:
 summary: "现代产业政策中政府向受补贴或受资助企业施加的契约性与法定约束机制；通过将公共财政支持与公共价值目标（包括高标准劳动力发展、托儿支持、禁止股票回购、超额利润分享、国家安全护栏及本土采购含量要求等）硬性绑定，旨在克服传统产业补贴的私营资本寻租与无条件分红弊端，实现兼具经济效率、供应链安全与社会包容的双重目标。"
 type: concept
 domain: "science-policy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 23
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/science-policy
   - industrial-policy
@@ -120,7 +120,7 @@ updated: 2026-10-06
 
 > [!logic-map]- 附加条件在现代产业战略中的契约治理逻辑
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     subgraph 公共资金支持
 >         SUB["直接建厂补贴 / 能源部 LPO 贷款 / 投资税收抵免"]
 >     end

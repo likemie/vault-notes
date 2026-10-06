@@ -47,16 +47,19 @@ related_persons:
 related_facts:
   - "[[Infrastructure Investment and Jobs Act]]"
   - "[[International Reading Association]]"
+  - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[VLSI Project]]"
   - "[[Sematech]]"
   - "[[CHIPS and Science Act]]"
   - "[[European Chips Act]]"
   - "[[Inflation Reduction Act]]"
   - "[[Government Digital Service]]"
+  - "[[Important Projects of Common European Interest]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Bown_2024_JEP]]"
   - "[[Argument_Reynolds_2024_JICT]]"
+  - "[[Argument_Bulfone_2024_IAI]]"
 related_methods:
   - "[[Cost-Benefit Analysis]]"
   - "[[Correlational Research]]"
@@ -119,7 +122,7 @@ updated: 2026-10-06
 
 > [!logic-map]- 市场失灵类型与政策干预演进逻辑
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     subgraph 经典市场失灵
 >         KS["知识外溢 / 基础科研不足"]
 >         LBD["干中学壁垒 / 良率爬坡困难"]
@@ -202,7 +205,7 @@ updated: 2026-10-06
 > 探讨重资产高科技制造业中，自由市场价格机制为何必然诱发资本避险与单点咽喉垄断，导致市场无法自发提供具备安全冗余的产能配置。
 
 > [!claim] [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]]
-> **半导体制造业的内生市场失灵与政策干预必然性** 半导体制造绝非能够依赖自由竞争自发实现供需平衡的普通工业品市场，其技术与产业组织特征孕育了极强的结构性市场失灵：兴建一座现代尖端晶圆代工厂需要投入高达 200 亿欧元的固定资产，巨大的固定成本与折旧负担构筑了极高准入壁垒；与此同时，芯片行业历史上伴随着剧烈的繁荣与萧条交替（Boom-and-bust cycles），短缺之后往往伴随长期的产能过剩，导致私营企业在经济下行期极度避险，无法根据长期战略需求进行前瞻性逆周期投资；这直接导致全球尖端先进制程产能被极少数企业寡头垄断（如台积电垄断全球 92% 的尖端代工制造），使全球高科技生态暴露在极高的单一咽喉断裂风险之下。自由市场的避险逻辑完全无法顾及国家层面的供应链安全冗余，这构成了国家动用巨额财政补贴直接介入晶圆制造以纠正深层市场失灵的根本依据。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 7)]]
+> **半导体制造业的内生市场失灵与政策干预必然性** 半导体制造绝非能够依赖自由竞争自发实现供需平衡的普通工业品市场，其技术与产业组织特征孕育了极强的结构性市场失灵：兴建一座现代尖端晶圆代工厂需要投入高达 200 亿欧元的固定资产，巨大的固定成本与折旧负担构筑了极高准入壁垒；与此同时，芯片行业历史上伴随着剧烈的繁荣与萧条交替（Boom-and-bust cycles），短缺之后往往伴随长期的产能过剩，导致私营企业在经济下行期极度避险，无法根据长期战略需求进行前瞻性逆周期投资；这直接导致全球尖端先进制程产能被极少数企业寡头垄断（如[[Taiwan Semiconductor Manufacturing Corporation|台积电]]垄断全球 92% 的尖端代工制造），使全球高科技生态暴露在极高的单一咽喉断裂风险之下。自由市场的避险逻辑完全无法顾及国家层面的供应链安全冗余，这构成了国家动用巨额财政补贴直接介入晶圆制造以纠正深层市场失灵的根本依据。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 7)]]
 
 ---
 
@@ -261,7 +264,7 @@ updated: 2026-10-06
 > | 2020年代全球半导体产业政策 | 地缘断链风险、国家安全保障、遏制对手先进制程追赶 | 巨额直接建厂补贴（[[CHIPS and Science Act\|CHIPS Act]]、[[European Chips Act\|EU Chips Act]]）与出口管制 | 在欧美本土建立先进制程产能，阻断最尖端技术扩散 | 削弱[[Agglomeration Externalities\|集聚经济]]红利、晶圆厂建设与运营成本大幅上升 | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, pp. 97–103)]] |
 > | 2020年代美国现代产业战略 | 制造业去工业化、供应链脆弱、气候转型与区域极化 | 三大支柱立法（[[Infrastructure Investment and Jobs Act\|IIJA]]、[[CHIPS and Science Act\|CHIPS]]、[[Inflation Reduction Act\|IRA]]）及制度化附加条件 | 推动战略产业回流，拉动超 5000 亿美元私人投资，重塑绿色与半导体生产体系 | 依赖公共行政执行能力、面临宏观通胀与劳动力供给瓶颈 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 1–3, 6)]] |
 > | 英国数字政府与创新转型 | 传统政府采购锁定、系统[[Reflexivity\|反思性]]与跨部门协调缺失 | 设立政府数字服务局（[[Government Digital Service\|GDS]]）、重构公共采购标准 | 打破单一大型 IT 供应商垄断、节约数十亿英镑财政支出 | 依赖强有力的政治授权与公共机构内部动态技术能力 | [[Argument_Kattel_Mazzucato_2018_ICC\|(Kattel & Mazzucato, 2018, pp. 797–800)]] |
-> | 尖端半导体制造极端重资产与周期避险 | 单厂 200 亿欧元固定投资壁垒、剧烈繁荣萧条周期与单一咽喉垄断（TSMC 垄断 92% 先进制程） | 美欧半导体法案（中央 527 亿美元直接拨款 vs. 欧委会放宽国家援助与 IPCEI） | 跨国巨头宣布重资产建厂承诺（如台积电亚利桑那追加至 650 亿美元），试图打破单点脆弱性 | 自由市场避险机制无法自发储备安全冗余，需依赖公共资本分担资本折旧风险 | [[Argument_Bulfone_2024_IAI\|(Bulfone et al., 2024, pp. 7, 10–14)]] |
+> | 尖端半导体制造极端重资产与周期避险 | 单厂 200 亿欧元固定投资壁垒、剧烈繁荣萧条周期与单一咽喉垄断（[[Taiwan Semiconductor Manufacturing Corporation\|TSMC]] 垄断 92% 先进制程） | 美欧半导体法案（中央 527 亿美元直接拨款 vs. 欧委会放宽国家援助与 [[Important Projects of Common European Interest\|IPCEI]]） | 跨国巨头宣布重资产建厂承诺（如台积电亚利桑那追加至 650 亿美元），试图打破单点脆弱性 | 自由市场避险机制无法自发储备安全冗余，需依赖公共资本分担资本折旧风险 | [[Argument_Bulfone_2024_IAI\|(Bulfone et al., 2024, pp. 7, 10–14)]] |
 
 ---
 

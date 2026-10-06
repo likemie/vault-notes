@@ -9,7 +9,7 @@ aliases:
 summary: "现代产业政策区别于20世纪以纠正市场失灵与追求经济效率为单一导向的传统产业政策；它深度交织了国家安全、地缘政治对抗、供应链韧性与去风险目标，综合运用巨额直接补贴、前置研发资助、投资审查、单边及多边出口管制、友岸外包、制度化附加条件与战略矿产反制等全方位政策工具包。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 34
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -121,7 +121,7 @@ updated: 2026-10-06
 
 > [!logic-map]- 现代产业政策的动力与工具系统
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     subgraph 驱动力量
 >         NS["国家安全与地缘对抗"]
 >         SCR["供应链韧性与去风险"]

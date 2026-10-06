@@ -3,14 +3,14 @@ title: Mariana Mazzucato
 aliases:
   - 玛丽安娜·马祖卡托
   - 马祖卡托
-summary: "意大利裔经济学家，伦敦大学学院创新与公共目的研究所创始所长，倡导企业型国家与使命导向型创新政策，提出市场塑造与ROAR分析框架"
+summary: "意大利裔经济学家，伦敦大学学院创新与公共目的研究所创始所长，倡导企业型国家、使命导向型创新政策与产业政策附加条件契约，提出市场塑造与ROAR分析框架。"
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 25
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 34
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1968"
 died: ""
 lifespan: "1968–至今"
@@ -25,13 +25,17 @@ related_concepts:
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Paradigm]]"
   - "[[Market Shaping and Creating]]"
+  - "[[Mission-Oriented Research]]"
   - "[[Patient Capital]]"
   - "[[Grand Challenges]]"
   - "[[Wicked Problem]]"
   - "[[Innovation Policy Paradigms]]"
+  - "[[Policy Conditionalities]]"
+  - "[[Modern Industrial Policy]]"
   - "[[Directionality of Innovation]]"
   - "[[Picking the Willing]]"
   - "[[National Innovation System]]"
+  - "[[Operationalization]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[General Purpose Technology]]"
 related_theories:
@@ -49,12 +53,17 @@ related_persons:
 related_facts:
   - "[[Horizon Europe Missions]]"
   - "[[Horizon Europe]]"
+  - "[[International Reading Association]]"
+  - "[[Infrastructure Investment and Jobs Act]]"
+  - "[[European Chips Act]]"
 related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
+  - "[[Argument_Reynolds_2024_JICT]]"
+  - "[[Argument_Bulfone_2024_IAI]]"
 confidence: high
-status: draft
+status: active
 created: 2026-10-03
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Mariana Mazzucato
@@ -82,7 +91,7 @@ updated: 2026-10-05
 > - **1999** 获得新社会研究学院（The New School for Social Research）经济学博士学位。
 > - **2013** 出版代表作《企业型国家》（*The Entrepreneurial State*），系统论证了国家在苹果智能手机、生物制药、互联网等关键颠覆性创新中承担早期高风险投资的引领者角色。
 > - **2017** 创立伦敦大学学院创新与公共目的研究所（IIPP），并担任创始所长。
-> - **2018** 受欧盟委员会委托发布政策报告《欧盟使命导向研究与创新》（*Mission-Oriented Research & Innovation in the European Union*），同年在《工业与企业变迁》（*Industrial and Corporate Change*）发表关于[[Mission-Oriented Innovation Policy|使命导向创新政策]]挑战与机遇的奠基性理论论文。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
+> - **2018** 受欧盟委员会委托发布政策报告《欧盟使命导向研究与创新》（*[[Mission-Oriented Research]] & Innovation in the European Union*），同年在《工业与企业变迁》（*Industrial and Corporate Change*）发表关于[[Mission-Oriented Innovation Policy|使命导向创新政策]]挑战与机遇的奠基性理论论文。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
 
 ---
 
@@ -97,6 +106,10 @@ updated: 2026-10-05
 >   - **代表著作** *Mission-oriented innovation policies: challenges and opportunities* (2018)。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
 >   - **关键概念／方法** [[Mission-Oriented Innovation Policy]]、[[ROAR Framework]]。
 >   - **阶段转向** 从事后实证经验梳理转向事前与全流程的全球[[Innovation Policy Paradigms|创新政策范式]]建构，直接介入欧盟与多国国家战略顶层设计。
+> - **2020–至今 — [[Policy Conditionalities|制度化附加条件]]与公私契约重塑** 将公共价值理念纵深推进至实操性产业契约领域，系统构建以技能培训、利润分享、分红禁令及普惠获取为核心的附加条件分类学，主张打破无条件资本救济，以硬性双向责任重构现代产业战略。
+>   - **代表著作** 政策报告与前沿论文论及公共投资附加条件（Conditionalities for Public Investment）。
+>   - **关键概念／方法** [[Policy Conditionalities]]、[[Modern Industrial Policy]]。
+>   - **阶段转向** 由宏观理论倡导转向微观与中观层面的契约治理机制设计，影响美欧半导体与绿色产业立法实践。
 
 ---
 
@@ -121,6 +134,8 @@ updated: 2026-10-05
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 奠基性论文，系统论述[[Mission-Oriented Innovation Policy|使命导向创新政策]]的历史演进、核心机制（ROAR框架）与实施标准。
+> - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 阐释马祖卡托所倡导的附加条件与公共价值理论在美国现代产业战略（CHIPS、[[International Reading Association|IRA]]、[[Infrastructure Investment and Jobs Act|IIJA]]）中的[[Operationalization|操作化]]落地与制度实践。
+> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 从比较政治经济学视角检验马祖卡托的协调者与塑造者理论在欧洲半导体产业中的落地局限，揭示缺乏超国家财政直接投资时政策易沦为单一市场割裂的制度困境。
 
 ---
 
@@ -143,9 +158,15 @@ updated: 2026-10-05
 > >
 > > - **Buchanan (2003)** 批评行业性垂直干预极易被特定企业游说集团俘获，造成公共资源浪费。
 > > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] 主张以社会挑战而非特定行业为靶向，通过“[[Picking the Willing|挑选意愿者]]”而非“挑选赢家”来规避传统寻租弊端。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–806)]]
+>
+> > [!axis] 超国家“协调者”理想与主权财政赤字现实
+> > 比较政治经济学者检验马祖卡托倡导的国家塑造者与协调者模式在缺乏统一财政的超国家实体（欧盟）中的落地成效，指出其低估了制度结构约束。
+> >
+> > - **[[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]]** 批评指出，欧委会试图扮演马祖卡托式的“产业政策协调者”，但因缺乏中央独立财政资源与直投能力，政策实质蜕化为放宽成员国国家援助；这导致马祖卡托所主张的强规制附加条件大打折扣，并引发德法等富国垄断补贴而小国被边缘化的单一市场分裂风险。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14, 16–17)]]
+> > - **理论辩护** 强调这并非使命导向或[[Public Value|公共价值]]理论本身的缺陷，而是多层级宪政体制中超国家财政工具供给不足的制度滞后，进一步佐证了建立泛欧统一工业基金与资本市场联盟的紧迫性。
 
 > [!warning] 制度与能力边界
-> 使命导向政策对公共机构的专业素养、动态学习能力以及公私谈判筹码提出了极高要求；若缺乏探索型公共组织的制度建设，使命口号易流于形式或沦为传统补贴的包装。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–809)]]
+> 使命导向与公共价值政策对公共机构的专业素养、动态学习能力以及公私谈判筹码提出了极高要求；若缺乏真金白银的财政掌控力与探索型公共组织的制度建设，使命口号易流于形式或沦为传统国家补贴的标签包装。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–809)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 14–16)]]
 
 ---
 
@@ -153,9 +174,12 @@ updated: 2026-10-05
 
 > [!entry-map]
 >
-> | 条目 | 类型 | 贡献 |
+> | 条目 | 类型 | 贡献与理论关联 |
 > |:-----|:-----|:-----|
 > | [[Mission-Oriented Innovation Policy]] | 概念 | 重新界定了应对21世纪重大社会挑战的现代使命政策内涵与五大遴选实施标准。 |
 > | [[Market Shaping and Creating]] | 概念 | 提出超越市场失灵修补[[Paradigm\|范式]]的国家主动共创市场理论。 |
+> | [[Public Value]] | 概念 | 构建公私部门风险共担、全链条协同与普惠社会回报的价值创造体系。 |
+> | [[Policy Conditionalities]] | 概念 | 倡导将公共资金支持与企业技能培训、托儿福利、回购禁令及利润分享等社会责任硬性绑定。 |
 > | [[ROAR Framework]] | 理论 | 提出涵盖战略方向、组织能力、动态评估与风险收益共享的系统[[Analytic Framework\|分析框架]]。 |
 > | [[Horizon Europe Missions]] | 政策 | 主导设计了欧盟新一代重大科研与创新战略使命体系。 |
+> | [[European Chips Act]] | 政策 | 检验其“协调者”模式在欧洲半导体产业战略多层级治理中的落地范本。 |
