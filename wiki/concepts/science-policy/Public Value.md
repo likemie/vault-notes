@@ -18,6 +18,7 @@ tags:
   - theme/public-administration
   - theme/industrial-policy
 related_concepts:
+  - "[[Policy Conditionalities]]"
   - "[[Problem Solving]]"
   - "[[Market Failure]]"
   - "[[Market Shaping and Creating]]"
@@ -70,7 +71,7 @@ updated: 2026-10-06
 ## 定义
 
 > [!def] 核心定义
-> **公共价值（Public Value）**是指由公共部门、私营企业与公民社会组织在应对重大战略挑战与社会技术转型的全价值链中，通过共同投资、协同研发、制度创新与民主协商所共同创造的集体性经济、社会与生态福祉。在创新经济学与现代产业战略语境下，它超越了新古典经济学将公共干预严格局限于提供非排他性与非竞争性“公共品”（Public Good）的狭隘边界，主张国家不仅是市场摩擦的消极修补者或私营资本的单向去风险者，更是系统性新市场的共同创造者；公共投资的合法性不仅来自促进产能增长，更取决于能否通过制度化附加条件与护栏条款将公共资本转化为普惠共享的社会回报。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–807)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–13)]]
+> **公共价值（Public Value）**是指由公共部门、私营企业与公民社会组织在应对重大战略挑战与社会技术转型的全价值链中，通过共同投资、协同研发、制度创新与民主协商所共同创造的集体性经济、社会与生态福祉。在创新经济学与现代产业战略语境下，它超越了新古典经济学将公共干预严格局限于提供非排他性与非竞争性“公共品”（Public Good）的狭隘边界，主张国家不仅是市场摩擦的消极修补者或私营资本的单向去风险者，更是系统性新市场的共同创造者；公共投资的合法性不仅来自促进产能增长，更取决于能否通过[[Policy Conditionalities|制度化附加条件]]与护栏条款将公共资本转化为普惠共享的社会回报。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–807)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–13)]]
 
 > [!concept-lens] 概念透镜
 > - **微观组织视阈** 要求公共机构树立探索试错与动态能力导向，将绩效考核从“合规防错与支出达标”转向“催化创新溢出与社会[[Problem Solving|问题解决]]”。
@@ -116,7 +117,7 @@ updated: 2026-10-06
 > - **方向性与公共目的（[[Directionality of Innovation|directionality]] & Public Purpose）** 价值创造必须以解决气候变化、健康公平与供应链韧性等[[Grand Challenges|重大挑战]]为战略方向，防范无方向的盲目补贴扩张。
 > - **全链条协同共创（Value Chain Co-creation）** 打破基础研究与产业落地的割裂，实现供给侧研发、中游技术放大与需求侧公共采购的无缝衔接。
 > - **动态探索型组织能力（Exploratory Organizational Capabilities）** 公共机构具备吸纳跨学科人才、自主决策与[[Reflexivity|反思性]]迭代的管理架构，具备解决复杂问题的执行力。
-> - **制度化附加条件与护栏条款（Contractual Conditionalities & Guardrails）** 在政府资助契约中法定嵌入托儿保障、优质就业薪酬、社区发展投资与限制金融套利的规则，将公共资金转化为社会公共价值杠杆。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–13)]]
+> - **[[Policy Conditionalities|制度化附加条件]]与护栏条款（Contractual Conditionalities & Guardrails）** 在政府资助契约中法定嵌入托儿保障、优质就业薪酬、社区发展投资与限制金融套利的规则，将公共资金转化为社会公共价值杠杆。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–13)]]
 > - **公平对称的回报机制（Equitable Reward Sharing）** 确保公共资金投入转化为全民可及的普惠服务、价格约束、暴利分成或再投资资本，实现公私收益对等。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11–12)]]
 
 ---
@@ -171,7 +172,7 @@ updated: 2026-10-06
 > 阐明如何通过法定附加条件将巨额公共资本补贴转化为包容性劳工福祉与社区公共价值。
 
 > [!claim] [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]
-> **附加条件契约与公共价值护栏** 埃利萨贝思·雷诺兹（Elisabeth B. Reynolds）指出，21 世纪现代产业战略的成败不仅取决于财政投入的绝对规模，更取决于政策执行的契约机制设计（The "How"）。为防范公共资金沦为私营企业的无偿输血，政府必须在资助协议中嵌入严格的制度化附加条件（Conditionalities）与护栏条款（Guardrails）：在《芯片与科学法》（[[CHIPS and Science Act]], CHIPS Act）中，对申请超过 1.5 亿美元补贴的半导体制造企业强制要求提供可负担的优质托儿服务（Child Care）以吸纳女性与多元技能人才，设立超额利润分成（Upside Profit Sharing）机制使财政分享商业化暴利，并严禁企业利用补贴资金进行股票回购（Stock Buyback）；在《[[Inflation Reduction Act|通胀削减法]]》（Inflation Reduction Act, [[International Reading Association|IRA]]）中，将现行工资（Prevailing Wage）与注册[[Apprenticeship|学徒制]]（Registered Apprenticeship）标准作为享受 5 倍税收抵免的前置条件；能源部（[[Department of Energy]], DOE）更在竞争性资助中引入占 20% 评分权重的社区利益计划（Community Benefits Plan, CBP），并强制落实“环境正义 40 倡议”（Justice40 Initiative，确保 40% 的气候投资收益流向历史弱势社区）。这一系列契约工具将公共价值从抽象理念转化为具法律约束力的操作性杠杆。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–13)]]
+> **附加条件契约与公共价值护栏** 埃利萨贝思·雷诺兹（Elisabeth B. Reynolds）指出，21 世纪现代产业战略的成败不仅取决于财政投入的绝对规模，更取决于政策执行的契约机制设计（The "How"）。为防范公共资金沦为私营企业的无偿输血，政府必须在资助协议中嵌入严格的[[Policy Conditionalities|制度化附加条件]]（Conditionalities）与护栏条款（Guardrails）：在《芯片与科学法》（[[CHIPS and Science Act]], CHIPS Act）中，对申请超过 1.5 亿美元补贴的半导体制造企业强制要求提供可负担的优质托儿服务（Child Care）以吸纳女性与多元技能人才，设立超额利润分成（Upside Profit Sharing）机制使财政分享商业化暴利，并严禁企业利用补贴资金进行股票回购（Stock Buyback）；在《[[Inflation Reduction Act|通胀削减法]]》（Inflation Reduction Act, [[International Reading Association|IRA]]）中，将现行工资（Prevailing Wage）与注册[[Apprenticeship|学徒制]]（Registered Apprenticeship）标准作为享受 5 倍税收抵免的前置条件；能源部（[[Department of Energy]], DOE）更在竞争性资助中引入占 20% 评分权重的社区利益计划（Community Benefits Plan, CBP），并强制落实“环境正义 40 倡议”（Justice40 Initiative，确保 40% 的气候投资收益流向历史弱势社区）。这一系列契约工具将公共价值从抽象理念转化为具法律约束力的操作性杠杆。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–13)]]
 
 ---
 
@@ -195,7 +196,7 @@ updated: 2026-10-06
 > - **第一阶段（1995 年）：公共管理中的公共价值提出** 马克·摩尔（Mark Moore）在其经典著作《创造公共价值》（*Creating Public Value*）中首次提出该概念，构建“战略三角模型”（授权环境、运营能力、公共价值），推动公共管理者从被动服从规则转向主动创造社会价值。
 > - **第二阶段（2000 年代）：公共价值失灵标准建构** 巴里·博兹曼（Barry Bozeman）提出“公共价值失灵”（Public Value Failure）理论，批判新古典仅关注[[Market Failure|市场失灵]]的偏狭，主张将社会公平、代际利益与核心价值缺位作为国家干预的独立正当性来源。
 > - **第三阶段（2018 年）：[[Mission-Oriented Innovation Policy|使命导向创新政策]]中的[[Market Shaping and Creating|市场共创]][[Paradigm|范式]]** 玛丽安娜·[[Mariana Mazzucato|马祖卡托]]将公共价值深度融入创新经济学与科技政策，构建超越市场修复的 ROAR 框架，使公共价值成为指导[[Horizon Europe|地平线欧洲]]（Horizon Europe）与多国使命型战略的核心指南。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–810)]]
-> - **第四阶段（2022 年至今）：现代产业战略中的制度化附加条件与护栏机制** 埃利萨贝思·雷诺兹等学者将公共价值落地为具有法律约束力的政策执行工具，通过美国《芯片与科学法》（[[CHIPS and Science Act|CHIPS Act]]）与《[[Inflation Reduction Act|通胀削减法]]》（[[International Reading Association|IRA]]）中的托儿服务、现行工资、[[Apprenticeship|学徒制]]、超额利润分成与社区利益计划，构建新型公私社会契约。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–13)]]
+> - **第四阶段（2022 年至今）：现代产业战略中的[[Policy Conditionalities|制度化附加条件]]与护栏机制** 埃利萨贝思·雷诺兹等学者将公共价值落地为具有法律约束力的政策执行工具，通过美国《芯片与科学法》（[[CHIPS and Science Act|CHIPS Act]]）与《[[Inflation Reduction Act|通胀削减法]]》（[[International Reading Association|IRA]]）中的托儿服务、现行工资、[[Apprenticeship|学徒制]]、超额利润分成与社区利益计划，构建新型公私社会契约。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–13)]]
 
 ---
 
@@ -234,7 +235,7 @@ updated: 2026-10-06
 >
 > | 研究 | 样本与情境 | 研究设计 | 核心[[Variable\|变量]]或政策指标 | 原始统计与制度规则（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] | 美国《芯片与科学法》（390 亿美元直接制造补贴）与《[[Inflation Reduction Act\|通胀削减法]]》（超 3700 亿美元气候激励） | 政策[[Process Tracing\|过程追踪]]与契约治理分析 | 托儿服务门槛、税收抵免倍数、社区利益计划（CBP）权重、环境正义目标 | 资助额 **>1.5 亿美元** 必须提供托儿方案；满足现行工资与[[Apprenticeship\|学徒制]]可获 **5 倍** 清洁能源税收抵免；[[Department of Energy\|DOE]] 竞争性资助中 CBP 占 **20% 评分权重**；Justice40 规定 **40% 气候收益** 流向弱势社区 | 联邦法案法定条款与实施细则（原文报告） | 证实制度化附加条件将宏观产业补贴有效锚定于劳工福祉与包容性增长等公共价值目标 |
+> | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] | 美国《芯片与科学法》（390 亿美元直接制造补贴）与《[[Inflation Reduction Act\|通胀削减法]]》（超 3700 亿美元气候激励） | 政策[[Process Tracing\|过程追踪]]与契约治理分析 | 托儿服务门槛、税收抵免倍数、社区利益计划（CBP）权重、环境正义目标 | 资助额 **>1.5 亿美元** 必须提供托儿方案；满足现行工资与[[Apprenticeship\|学徒制]]可获 **5 倍** 清洁能源税收抵免；[[Department of Energy\|DOE]] 竞争性资助中 CBP 占 **20% 评分权重**；Justice40 规定 **40% 气候收益** 流向弱势社区 | 联邦法案法定条款与实施细则（原文报告） | 证实[[Policy Conditionalities\|制度化附加条件]]将宏观产业补贴有效锚定于劳工福祉与包容性增长等公共价值目标 |
 > | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 欧盟“[[Horizon Europe\|地平线欧洲]]”（Horizon Europe，约 1000 亿欧元）使命型研发框架 | 政策框架构建与国际案例比较 | 使命导向设计、跨部门研发联动、公共价值评估 | 围绕气候、癌症、海洋等确立 **5 大重大社会使命**；推动全欧盟科研资金从点状补贴转向跨部门公共价值共创网络 | 欧盟委员会官方政策采纳文本（原文报告） | 确立了超越[[Market Failure\|市场失灵]]修补、以公共价值为导向的顶层使命设计逻辑 |
 
 ---
@@ -243,7 +244,7 @@ updated: 2026-10-06
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 系统阐发超越[[Market Failure|市场失灵]]修补的公共价值共创理论与动态评估工具。
-> - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 实证剖析美国现代产业战略中通过托儿配套、利润分成、现行工资与社区利益计划等制度化附加条件与护栏条款实现公共价值创造的具体机制。
+> - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 实证剖析美国现代产业战略中通过托儿配套、利润分成、现行工资与社区利益计划等[[Policy Conditionalities|制度化附加条件]]与护栏条款实现公共价值创造的具体机制。
 
 ---
 

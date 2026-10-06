@@ -33,6 +33,7 @@ related_concepts:
   - "[[Market Shaping and Creating]]"
   - "[[Tilting the Playing Field]]"
   - "[[Patient Capital]]"
+  - "[[Policy Conditionalities]]"
   - "[[Public Value]]"
   - "[[Grand Challenges]]"
 related_theories:
@@ -189,7 +190,7 @@ updated: 2026-10-06
 > 探讨 21 世纪产业政策为何突破传统新古典福利经济学仅针对特定外部性进行微观纠偏的狭隘视角，转向由国家战略引领的系统性生产能力重构与包容性增长。
 
 > [!claim] [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]
-> **超越微观市场失灵的现代产业战略** 传统美国经济政策将国家干预严格限制在新古典市场失灵的狭隘范畴（如研发知识外溢、环境污染税）；然而，数十年的去工业化、供应链地缘脆弱性、气候危机以及严重的区域经济极化证明，被动的市场失灵修补无法自发维系国家长期创新繁荣与社会凝聚力。拜登政府现代产业战略通过大规模立法（[[Infrastructure Investment and Jobs Act|IIJA]]、CHIPS、[[International Reading Association|IRA]]）将政策导向彻底拓展为系统性产业转型，强调通过设定国家战略目标、提供跨部门前瞻性公共投资与制度化附加条件，实现兼具供应链安全、清洁能源转型与高质量就业的综合[[Public Value|公共价值]]。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 1–3, 6)]]
+> **超越微观市场失灵的现代产业战略** 传统美国经济政策将国家干预严格限制在新古典市场失灵的狭隘范畴（如研发知识外溢、环境污染税）；然而，数十年的去工业化、供应链地缘脆弱性、气候危机以及严重的区域经济极化证明，被动的市场失灵修补无法自发维系国家长期创新繁荣与社会凝聚力。拜登政府现代产业战略通过大规模立法（[[Infrastructure Investment and Jobs Act|IIJA]]、CHIPS、[[International Reading Association|IRA]]）将政策导向彻底拓展为系统性产业转型，强调通过设定国家战略目标、提供跨部门前瞻性公共投资与[[Policy Conditionalities|制度化附加条件]]，实现兼具供应链安全、清洁能源转型与高质量就业的综合[[Public Value|公共价值]]。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 1–3, 6)]]
 
 ---
 

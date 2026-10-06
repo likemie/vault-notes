@@ -27,6 +27,7 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[Market Shaping and Creating]]"
   - "[[Public Value]]"
+  - "[[Policy Conditionalities]]"
   - "[[Learning by Doing]]"
 related_theories: []
 related_methods: []
@@ -186,7 +187,7 @@ updated: 2026-10-06
 > |:-----|:-----|:-----|
 > | [[Modern Industrial Policy\|现代产业政策]] | 概念 | 本法案是当代美国绿色产业转型与战略干预的核心实践载体。 |
 > | [[Market Shaping and Creating\|市场塑造与市场共创]] | 概念 | 法案通过设定现行工资、[[Apprenticeship\|学徒制]]与社区利益计划等附加条件，体现了主动塑造[[Public Value\|公共价值]]导向市场的治理逻辑。 |
-> | [[Public Value\|公共价值]] | 概念 | 法案通过制度化附加条件将绿色投资转化为劳动力福祉与社区正义，是公共价值创造的代表性实践。 |
+> | [[Public Value\|公共价值]] | 概念 | 法案通过[[Policy Conditionalities\|制度化附加条件]]将绿色投资转化为劳动力福祉与社区正义，是公共价值创造的代表性实践。 |
 > | [[Learning by Doing\|干中学]] | 概念 | FERC 2023 年电网互联改革体现了在面对清洁能源并网积压时自适应调整规制的干中学准则。 |
 > | [[CHIPS and Science Act\|芯片与科学法案]] | 事实 | 同为 2022 年 8 月颁布的姐妹法案，共同构成现代产业战略的技术与制造支柱。 |
 > | [[Infrastructure Investment and Jobs Act\|基础设施投资与就业法案]] | 事实 | 为清洁能源部署与电网升级提供基础物理与交通网络支撑的前置立法。 |

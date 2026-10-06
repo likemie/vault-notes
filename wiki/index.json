@@ -10938,6 +10938,19 @@
     ]
   },
   {
+    "title": "Policy Conditionalities",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Policy Conditionalities.md",
+    "aliases": [
+      "产业政策附加条件",
+      "政策附加条件",
+      "制度化附加条件",
+      "Conditionalities",
+      "Policy Conditionality",
+      "护栏条款与附加条件"
+    ]
+  },
+  {
     "title": "Problem of Many Hands",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Problem of Many Hands.md",
@@ -29029,6 +29042,18 @@
     ]
   },
   {
+    "title": "Loan Programs Office",
+    "type": "fact",
+    "path": "wiki/facts/us/Loan Programs Office.md",
+    "aliases": [
+      "能源部贷款项目办公室",
+      "美国能源部贷款办公室",
+      "LPO",
+      "DOE Loan Programs Office",
+      "能源部贷款办公室"
+    ]
+  },
+  {
     "title": "Massachusetts Department of Elementary and Secondary Education",
     "type": "fact",
     "path": "wiki/facts/us/Massachusetts Department of Elementary and Secondary Education.md",
@@ -29518,6 +29543,18 @@
       "拜杜法案",
       "Bayh-Dole",
       "Patent and Trademark Law Amendments Act"
+    ]
+  },
+  {
+    "title": "Build America, Buy America Act",
+    "type": "fact",
+    "path": "wiki/facts/us/Build America, Buy America Act.md",
+    "aliases": [
+      "以美国制造为荣法案",
+      "BABA",
+      "买美国货条款",
+      "BABA Act",
+      "Build America Buy America"
     ]
   },
   {

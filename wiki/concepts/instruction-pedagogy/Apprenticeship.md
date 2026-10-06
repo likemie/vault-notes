@@ -32,6 +32,7 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Knowledge Transfer]]"
   - "[[National Innovation System]]"
+  - "[[Policy Conditionalities]]"
   - "[[Technological Catch-up]]"
   - "[[Refined Mastery]]"
   - "[[Intellectual Capital]]"
@@ -115,7 +116,7 @@ updated: 2026-10-06
 > - **隐性知识传递媒介（Tacit [[Knowledge Transfer]]）** 先进机械加工、半导体晶圆制造与精密装备中的公差把控、振动辨析与细微调试无法完全由操作手册穷尽，必须依靠熟练技工在生产现场以身示范与言传身教。
 > - **车间学习与逆向工程结合（Workplace Learning & Reverse Engineering）** 普鲁士经验表明，将工艺学校理论培训与车间带徒拆解进口先进设备相结合，能够使后发国家工程技术队伍以最快速度吃透核心结构。
 > - **工匠流动与技能扩散网络（Craftsmen Mobility & Dissemination）** 接受过系统学徒训练的高技能工人跨企业与跨区域流动，构成了[[National Innovation System|国家创新系统]]中隐性工艺诀窍扩散的最活跃载体。
-> - **制度化劳动力附加条件与公共资助绑定（Workforce Conditionalities & Subsidy Linkage）** 在 21 世纪产业政策中，将注册学徒制、工会标准与社区学院联动列为申请重大公共补贴的法定要求，使企业在享受产业政策红利的同时承担技能储备的公共责任。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 9–10)]]
+> - **制度化劳动力附加条件与公共资助绑定（Workforce [[Policy Conditionalities|Conditionalities]] & Subsidy Linkage）** 在 21 世纪产业政策中，将注册学徒制、工会标准与社区学院联动列为申请重大公共补贴的法定要求，使企业在享受产业政策红利的同时承担技能储备的公共责任。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 9–10)]]
 
 > [!logic-map]- 学徒制在国家创新与现代产业战略中的演进逻辑
 > ```mermaid
@@ -156,7 +157,7 @@ updated: 2026-10-06
 
 ### 命题二　注册学徒制是现代产业战略将产业补贴转化为高质量就业与制造产能的制度化契约杠杆
 
-> [!concept-lens] 产业政策附加条件与技能形成
+> [!concept-lens] [[Policy Conditionalities|产业政策附加条件]]与技能形成
 > 探讨[[Modern Industrial Policy|现代产业政策]]如何通过法定契约条款克服企业在技能培训中的短视搭便车倾向，实现先进制造产能与高质量就业的协同。
 
 > [!claim] [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]
@@ -195,7 +196,7 @@ updated: 2026-10-06
 > > - **普遍推广论** 主张后发与转型国家应直接复制双元学徒制标准，以迅速弥合青年失业与制造业技工荒。
 > > - **制度互补论** 强调学徒制必须嵌入在行业协会强制准入、工会工资协商机制与高福利保障等非市场制度网络中；脱离这一母体单独移植学徒制注定面临雇主搭便车与青年不愿入读的制度排异。
 >
-> > [!axis] 政策附加条件：提升劳工标准 vs 增加合规行政负担
+> > [!axis] [[Policy Conditionalities|政策附加条件]]：提升劳工标准 vs 增加合规行政负担
 > > 围绕现代产业法案中强制要求注册学徒制与托儿支持等附加条件是否会阻碍投资进度的争论。
 > >
 > > - **企业成本论** 认为过多的社会政策附加条件增加了企业建厂成本与合规复杂性，可能延缓先进制程晶圆厂的投产进度。
@@ -238,4 +239,4 @@ updated: 2026-10-06
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 考证 19 世纪普鲁士国家协调英国工匠带徒传艺并与工艺学校紧密协作的史实，论证隐性知识传递与学徒培训网络在后发国家内生技术积累中的基石作用。
-> - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 剖析美国现代产业战略（CHIPS、[[International Reading Association|IRA]]、[[Infrastructure Investment and Jobs Act|IIJA]]）中如何将注册学徒制与劳动力发展计划作为制度化附加条件，揭示技能形成与高质量就业在先进制造复兴中的关键支撑机制。
+> - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 剖析美国现代产业战略（CHIPS、[[International Reading Association|IRA]]、[[Infrastructure Investment and Jobs Act|IIJA]]）中如何将注册学徒制与劳动力发展计划作为[[Policy Conditionalities|制度化附加条件]]，揭示技能形成与高质量就业在先进制造复兴中的关键支撑机制。

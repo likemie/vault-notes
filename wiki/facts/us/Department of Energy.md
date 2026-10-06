@@ -25,6 +25,7 @@ tags:
   - theme/clean-energy
   - region/us
 related_concepts:
+  - "[[Mission-Oriented Research]]"
   - "[[Market Shaping and Creating]]"
   - "[[Research Universities]]"
   - "[[Modern Industrial Policy]]"
@@ -51,6 +52,7 @@ related_persons:
   - "[[Venkatesh Narayanamurti]]"
   - "[[Paula Stephan]]"
 related_facts:
+  - "[[Loan Programs Office]]"
   - "[[DARPA]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Institutes of Health]]"
@@ -74,12 +76,12 @@ updated: 2026-10-05
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 美国能源部（United States Department of Energy，简称 DOE）是美国联邦政府负责国家能源战略、核安全保障以及重大基础与工程前沿科学研发的内阁级行政主管机关；依托遍布全美的 17 所国家实验室体系，DOE 构成了美国物理科学、计算科学与大型重大科技基础设施领域的头号公共资助者与研发组织者，在科技政策中是典型的“任务导向型科研机构”（Mission-Oriented Research Agency）与绿色[[Market Shaping and Creating|市场塑造]]者。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
+> 美国能源部（United States Department of Energy，简称 DOE）是美国联邦政府负责国家能源战略、核安全保障以及重大基础与工程前沿科学研发的内阁级行政主管机关；依托遍布全美的 17 所国家实验室体系，DOE 构成了美国物理科学、计算科学与大型重大科技基础设施领域的头号公共资助者与研发组织者，在科技政策中是典型的“任务导向型科研机构”（[[Mission-Oriented Research]] Agency）与绿色[[Market Shaping and Creating|市场塑造]]者。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1977 年由吉米·卡特（Jimmy Carter）总统签署法案设立，旨在整合二战曼哈顿工程以来的能源研究与开发署（ERDA）、联邦能源署（FEA）及原子能委员会（AEC）等机构，以应对 1970 年代两次全球石油危机暴露出的国家能源安全脆弱性。
 > - **总部地点 / 业务辐射** 总部位于美国华盛顿特区，业务管辖覆盖全美 17 所多学科国家实验室、国家核安全局（NNSA）以及上百所[[Research Universities|研究型大学]]的前沿能源研究中心与清洁技术创新网络。
-> - **法人属性与经费基础** 联邦内阁级政府行政机关；年度财政预算由美国国会拨款法案全额保障，下设科学办公室（Office of Science）管理巨额物质科学基金，并通过贷款项目办公室（LPO）主导数百亿美元的国家绿色产业金融担保。
+> - **法人属性与经费基础** 联邦内阁级政府行政机关；年度财政预算由美国国会拨款法案全额保障，下设科学办公室（Office of Science）管理巨额物质科学基金，并通过贷款项目办公室（[[Loan Programs Office|LPO]]）主导数百亿美元的国家绿色产业金融担保。
 > - **核心宗旨与法定职责** “推进美国国家安全与经济繁荣”，通过解决能源、环境和核安全领域的关键科学与工程挑战，推动变革性科学发现、颠覆性技术发明与清洁能源转型。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
 
 ---

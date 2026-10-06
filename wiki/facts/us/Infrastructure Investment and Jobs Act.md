@@ -38,6 +38,7 @@ related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[Inflation Reduction Act]]"
   - "[[International Reading Association]]"
+  - "[[Build America, Buy America Act]]"
   - "[[Department of Energy]]"
 related_arguments:
   - "[[Argument_Reynolds_2024_JICT]]"
@@ -64,7 +65,7 @@ updated: 2026-10-06
 ## 政策文本摘要
 
 > [!claim] [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]
-> **采购杠杆与基础设施现代化协同** 《基础设施投资与就业法案》（Infrastructure Investment and Jobs Act, IIJA，常称两党基础设施法案，Bipartisan Infrastructure Law, BIL）授权总计 1.2 万亿美元支出（含 5500 亿美元净新增联邦投资），在系统性更新道路、桥梁、公共交通、清洁水与电网基础设施的同时，通过纳入《建设美国、购买美国法》（Build America, Buy America Act, BABA）及设立美国制造办公室（Made in America Office, MIAO）透明豁免机制，以公共采购为杠杆推动本土供应链重建。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11–13)]]
+> **采购杠杆与基础设施现代化协同** 《基础设施投资与就业法案》（Infrastructure Investment and Jobs Act, IIJA，常称两党基础设施法案，Bipartisan Infrastructure Law, BIL）授权总计 1.2 万亿美元支出（含 5500 亿美元净新增联邦投资），在系统性更新道路、桥梁、公共交通、清洁水与电网基础设施的同时，通过纳入《建设美国、购买美国法》（[[Build America, Buy America Act]], BABA）及设立美国制造办公室（Made in America Office, MIAO）透明豁免机制，以公共采购为杠杆推动本土供应链重建。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11–13)]]
 
 > [!policy-design]- 政策设计
 > - **政策目标** 升级国家现代化物理与数字基础设施网络；拓展宽带普及与清洁能源并网接入；利用大规模公共采购需求重振美国本土制造业产能与供应链韧性。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11–13)]]
@@ -86,7 +87,7 @@ updated: 2026-10-06
 
 > [!timeline] 政策时间线
 > - **2021-11-15** 拜登总统在白宫签署两党通过的《基础设施投资与就业法案》（Public Law 117-58）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
-> - **2022-04** 白宫管理与预算办公室（OMB）发布实施 BABA 的初步指导原则，启动 MIAO 统一豁免审查平台。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
+> - **2022-04** 白宫管理与预算办公室（OMB）发布实施 [[Build America, Buy America Act|BABA]] 的初步指导原则，启动 MIAO 统一豁免审查平台。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
 > - **2023-02** 联邦公路管理局（Federal Highway Administration, FHWA）出台针对电动汽车充电桩的阶段性 BABA 豁免细则，设定分步提升本土制造比例的过渡时间表。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 13)]]
 > - **2023–2024** 各州交通与水务部门全面推进项目招投标，数万个公路、桥梁、宽带与电网工程进入实质性施工。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11–13)]]
 
@@ -98,7 +99,7 @@ updated: 2026-10-06
 > - **发布主体** 美国国会两党多数派与总统行政办公室。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
 > - **执行主体** 美国交通部（Department of Transportation, DOT）、[[Department of Energy|美国能源部]]（Department of Energy, DOE）、商务部国家电信和信息管理局（National Telecommunications and Information Administration, NTIA）、环境保护署（Environmental Protection Agency, EPA）以及白宫管理与预算办公室（OMB）下设的美国制造办公室（MIAO）。
 > - **适用对象** 各州交通局、市政公用事业、电网运营商、施工总承包商与工程建材制造商。
-> - **政策工具** 公式拨款（Formula Grants）、竞争性资助（Discretionary Grants）、低息信贷计划（TIFIA 与 WIFIA）及 BABA 豁免规程。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
+> - **政策工具** 公式拨款（Formula Grants）、竞争性资助（Discretionary Grants）、低息信贷计划（TIFIA 与 WIFIA）及 [[Build America, Buy America Act|BABA]] 豁免规程。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
 
 > [!pathways]- 实施路径
 > - **资金分发与地方项目承接** 联邦通过成熟的公式拨款通道将巨额资金下拨给各州与地方政府，由地方编制基础设施翻新与扩建工程清单。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 11–12)]]
@@ -119,7 +120,7 @@ updated: 2026-10-06
 > | 行动者 | 资源类型 | 核心利益 | 立场 | 典型策略 |
 > |:---|:---|:---|:---|:---|
 > | 联邦主管部门 (DOT/DOE) | 财政资金 / 行政审批 | 落实国家重大基础设施升级、保障资金安全 | 主导推进 | 依托公式拨款与竞争性资助有序推进项目清单 |
-> | 白宫制造办公室 (MIAO) | 采购规则制定 / 豁免裁决 | 强化 BABA 本土采购比例、维护供应链稳定 | 规制平衡 | 建立阶段性透明豁免与定期复核机制 |
+> | 白宫制造办公室 (MIAO) | 采购规则制定 / 豁免裁决 | 强化 [[Build America, Buy America Act\|BABA]] 本土采购比例、维护供应链稳定 | 规制平衡 | 建立阶段性透明豁免与定期复核机制 |
 > | 地方公用事业与承包商 | 施工能力 / 本土网络 | 控制工程建造成本、避免因缺料导致工期违约 | 支持但诉苦供应链 | 积极申请 BABA 豁免，呼吁放宽非关键零部件限制 |
 > | 本土重工业与工会 | 产业产能 / 组织动员 | 获取联邦基建订单、维护工会劳工就业岗位 | 强力支持[[Going Native\|本土化]] | 游说国会收紧采购限制，监督项目使用本土钢材与建材 |
 
@@ -140,7 +141,7 @@ updated: 2026-10-06
 
 > [!indicators]- 评价指标
 > - **投入指标** 1.2 万亿美元总预算（5500 亿美元净新增直接投资）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 11)]]
-> - **过程指标** BABA 豁免申请与审查数量、公共工程招投标周期、本土供应链企业签约率。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
+> - **过程指标** [[Build America, Buy America Act|BABA]] 豁免申请与审查数量、公共工程招投标周期、本土供应链企业签约率。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]
 > - **结果指标** 道路桥梁修复里程、宽带高速覆盖率、清洁水管网更新率、本土建材制造业就业增长。
 
 > [!finding-cards] 效果与评价
@@ -158,7 +159,7 @@ updated: 2026-10-06
 
 > [!debates] 政策争议
 >
-> > [!axis] 本土采购保护（BABA） vs 基础设施建设成本与工期
+> > [!axis] 本土采购保护（[[Build America, Buy America Act|BABA]]） vs 基础设施建设成本与工期
 > > 争论严苛的购买美国货要求是否会大幅推高项目造价并导致施工严重滞后。
 > >
 > > - **国内制造业与工会** 认为必须坚持本土采购，以彻底扭转美国制造业空心化趋势。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 6, 12)]]
@@ -175,7 +176,7 @@ updated: 2026-10-06
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Modern Industrial Policy\|现代产业政策]] | 概念 | 本法案通过 BABA 与 MIAO 机制将传统基建改造为现代产业战略的需求侧拉动杠杆。 |
+> | [[Modern Industrial Policy\|现代产业政策]] | 概念 | 本法案通过 [[Build America, Buy America Act\|BABA]] 与 MIAO 机制将传统基建改造为现代产业战略的需求侧拉动杠杆。 |
 > | [[Public Value\|公共价值]] | 概念 | 法案将基础设施建设与本土制造供应链重塑及普遍公共服务连接，体现了公共价值创造逻辑。 |
 > | [[Learning by Doing\|干中学]] | 概念 | MIAO 设立的动态阶段性豁免与复核机制体现了在实施中自适应优化规制的干中学准则。 |
 > | [[CHIPS and Science Act\|芯片与科学法案]] | 事实 | 拜登政府现代产业战略的三大支柱之一，聚焦高端硬科技与先进制造。 |

@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Teaching Assistant]]"
+  - "[[Policy Conditionalities]]"
   - "[[Paradigm]]"
   - "[[Import Substitution Industrialisation]]"
   - "[[Endogenous and Exogenous Privatisation]]"
@@ -90,7 +91,7 @@ updated: 2026-10-05
 
 > [!boundary]- 概念边界
 > - 不等于 **宏观经济稳定化（Stabilization）** — 稳定化主要由 IMF 主导，侧重于极短时期内通过货币贬值、提高利率和紧缩信贷抑制通胀与平衡国际收支；而结构调整侧重于中长期的深层制度重构（如贸易自由化、公共部门私有化与去监管）。但在实践中两者通常捆绑施行。
-> - 不等于 **自主国家教育改革（Endogenous Educational Reform）** — 结构调整下的教育政策并非源于国内民主审议或教育工作者共识，而是作为获取偿债信贷的强制前置条件（Conditionalities）由外部强行植入。
+> - 不等于 **自主国家教育改革（Endogenous Educational Reform）** — 结构调整下的教育政策并非源于国内民主审议或教育工作者共识，而是作为获取偿债信贷的强制前置条件（[[Policy Conditionalities|Conditionalities]]）由外部强行植入。
 
 ---
 
@@ -110,7 +111,7 @@ updated: 2026-10-05
 ## 核心要素
 
 > [!feature] 核心要素
-> - **贷款交叉附加条件（Cross-Conditionalities）** 国际金融机构将教育领域的紧缩指标与宏观债务重组贷款直接挂钩，外围国家若不削减教育赤字和推行市场化，就无法获得展期信贷与外汇救助。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–81)]]
+> - **贷款交叉附加条件（Cross-[[Policy Conditionalities|Conditionalities]]）** 国际金融机构将教育领域的紧缩指标与宏观债务重组贷款直接挂钩，外围国家若不削减教育赤字和推行市场化，就无法获得展期信贷与外汇救助。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–81)]]
 > - **向学生收取学杂费（使用者付费）** 取消原有的公费免费政策，要求各级教育（特别是中等和高等教育）学生及家庭按“谁受益谁付费”原则自担成本，直接造成贫困劳工家庭子女学业中断与阶层分化。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 79)]]
 > - **推行[[Endogenous and Exogenous Privatisation|教育私有化]]与教育券制度** 大力扶持营利性与非营利性私立学校，压缩公立学校编制与办学经费，通过发行教育券刺激校际生源竞争，加速教育分轨分选。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 80)]]
 > - **行政与财政分权化甩包袱** 中央政府打着“地方赋权”与“社区自治”旗号，将公立学校的筹资与运维责任层层下推给财力薄弱的省邦与市镇政府，加剧区域校际鸿沟。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]

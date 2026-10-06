@@ -21,6 +21,7 @@ tags:
   - governance
 related_concepts:
   - "[[Knowledge Production]]"
+  - "[[Policy Conditionalities]]"
   - "[[Research Scope]]"
   - "[[Disciplina and Doctrina]]"
   - "[[International Education]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-03
+updated: 2026-10-06
 ---
 
 # Financial-Intellectual Complex
@@ -74,7 +75,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> 金融-智识复合体（Financial-Intellectual Complex）是由[[Joel Samoff|乔尔·萨莫夫]]（Joel Samoff）提出、用于批判以[[World Bank|世界银行]]（World Bank）为代表的多边金融机构在全球教育治理中所建构的跨国霸权体制。该机制将巨额教育贷款的资金流向与定向委托的[[Knowledge Production|知识生产]]紧密捆绑，依托雇佣专家共同体（community of experts for hire），将新古典教育经济学、[[Human Capital Theory|人力资本理论]]和厂商理论确立为普世正当的评估标准，进而借由结构调整贷款的政策附加条件重塑发展中国家的教育政策与[[Research Scope|研究边界]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
+> 金融-智识复合体（Financial-Intellectual Complex）是由[[Joel Samoff|乔尔·萨莫夫]]（Joel Samoff）提出、用于批判以[[World Bank|世界银行]]（World Bank）为代表的多边金融机构在全球教育治理中所建构的跨国霸权体制。该机制将巨额教育贷款的资金流向与定向委托的[[Knowledge Production|知识生产]]紧密捆绑，依托雇佣专家共同体（community of experts for hire），将新古典教育经济学、[[Human Capital Theory|人力资本理论]]和厂商理论确立为普世正当的评估标准，进而借由结构调整贷款的[[Policy Conditionalities|政策附加条件]]重塑发展中国家的教育政策与[[Research Scope|研究边界]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示多边金融机构不仅是资本贷方，更是具有强烈意识形态导向和[[Disciplina and Doctrina|规训]]效能的全球知识垄断生产者。
@@ -133,7 +134,7 @@ updated: 2026-10-03
 ### 命题一　跨国金融机构通过信贷附加条件与定向委托研究深度绑定以垄断国际教育政策议程
 
 > [!concept-lens] 资本-智识合流维度
-> 探讨国际多边金融组织如何超越纯粹的资金中介角色，通过定向经费委托与政策附加条件的双重锁链，将发展中国家的主权教育规划纳入跨国新自由主义轨道。
+> 探讨国际多边金融组织如何超越纯粹的资金中介角色，通过定向经费委托与[[Policy Conditionalities|政策附加条件]]的双重锁链，将发展中国家的主权教育规划纳入跨国新自由主义轨道。
 
 > [!claim] [[Joel Samoff|Samoff, J.]]
 > **智力垄断与信贷合流** [[World Bank|世界银行]]是追求知识与专业技能跨国化的金融-智识复合体核心枢纽，其利用庞大信贷预算招揽受雇专家共同体，使科研课题紧紧依附于贷款审批逻辑。这种合流剥夺了第三世界借贷国独立探索教育发展模式的自主空间，使[[International Education|国际教育]]援助沦为主权债务[[Disciplina and Doctrina|规训]]的延伸机制。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]

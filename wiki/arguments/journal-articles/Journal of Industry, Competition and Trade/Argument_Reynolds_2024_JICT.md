@@ -18,6 +18,7 @@ tags:
   - region/us
   - policy/economic-development
 related_concepts:
+  - "[[Policy Conditionalities]]"
   - "[[Learning by Doing]]"
   - "[[Public Value]]"
   - "[[Market Shaping and Creating]]"
@@ -45,6 +46,8 @@ related_facts:
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
+  - "[[Loan Programs Office]]"
+  - "[[Build America, Buy America Act]]"
 related_arguments: []
 sources:
   - "[[sources/Reynolds_2024_JICT|Reynolds_2024_JICT]]"
@@ -70,7 +73,7 @@ journal: "Journal of Industry, Competition and Trade"
 ## 研究问题
 
 > [!question]
-> 拜登政府在执政前两年通过三大里程碑法案确立了现代美国产业战略，开启了自二战以来规模空前的国家干预与资本动员。学界与政策界对该战略的探讨长期聚焦于支持哪些产业与技术（What），却相对忽视了决定政策成败的关键维度——如何实施与治理（How）。在面临传统产业政策挑选赢家、政治寻租、企业俘获、财政浪费及贸易保护主义等经典弊端时，21 世纪的产业战略如何通过制度化的过程准则、护栏条款与附加条件，在保障国家安全与绿色转型的同时规避历史失灵？（pp. 1–3）
+> 拜登政府在执政前两年通过三大里程碑法案确立了现代美国产业战略，开启了自二战以来规模空前的国家干预与资本动员。学界与政策界对该战略的探讨长期聚焦于支持哪些产业与技术（What），却相对忽视了决定政策成败的关键维度——如何实施与治理（How）。在面临传统产业政策挑选赢家、政治寻租、企业俘获、财政浪费及贸易保护主义等经典弊端时，21 世纪的产业战略如何通过制度化的过程准则、[[Policy Conditionalities|护栏条款与附加条件]]，在保障国家安全与绿色转型的同时规避历史失灵？（pp. 1–3）
 
 > [!claim] 核心主张
 > 现代产业战略的长期成效不仅取决于财政投入的广度与规模，更取决于实施过程中的制度化治理机制。通过将部门内竞争、私人资本撬动、投资组合进路、[[Learning by Doing|干中学]]弹性、全程透明度、里程碑监测评估与资金追回等七项过程准则，与防范政治俘获的护栏条款（Guardrails）以及引导[[Public Value|公共价值创造]]的附加条件（Conditionalities）深度融合，国家能够主动塑造市场并达成供应链韧性、制造业重振与社会包容目标；但其实际效能仍受到技术劳动力短缺、行政许可迟滞、国家行政协调能力赤字及深层体制边界的现实制约。（pp. 2–5, 14–15）
@@ -78,7 +81,7 @@ journal: "Journal of Industry, Competition and Trade"
 > [!concept-lens] 阅读透镜
 > - **对象** 美国拜登政府现代美国产业战略（Modern American Industrial Strategy）及其三大立法支柱——《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》（Infrastructure Investment and Jobs Act, IIJA）、《[[CHIPS and Science Act|芯片与科学法案]]》（Creating Helpful Incentives to Produce Semiconductors and Science Act, CHIPS and Science Act）与《[[Inflation Reduction Act|通胀削减法案]]》（Inflation Reduction Act, [[International Reading Association|IRA]]）的法定机制与早期实施实践。（pp. 2, 6–13）
 > - **张力** 国家战略性产业干预在追求技术主导权、供应链安全、制造业重振与气候减排目标时，与传统产业政策中常见的企业寻租、保护主义低效、挑选赢家及盟友贸易摩擦之间的制度张力。（pp. 2–5）
-> - **贡献** 超越了关于产业政策是否有效的二元抽象争论，构建了评估 21 世纪产业政策实施过程（How）的操作性[[Analytic Framework|分析框架]]，系统阐明了护栏条款与[[Market Shaping and Creating|市场塑造]]附加条件的制度设计，并客观界定了产业政策解决深层结构性矛盾的能力边界。（pp. 4–5, 14–15）
+> - **贡献** 超越了关于产业政策是否有效的二元抽象争论，构建了评估 21 世纪产业政策实施过程（How）的操作性[[Analytic Framework|分析框架]]，系统阐明了护栏条款与[[Market Shaping and Creating|市场塑造]][[Policy Conditionalities|制度化附加条件]]的设计，并客观界定了产业政策解决深层结构性矛盾的能力边界。（pp. 4–5, 14–15）
 
 ---
 
@@ -88,11 +91,11 @@ journal: "Journal of Industry, Competition and Trade"
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Modern Industrial Policy\|现代产业政策]]**<br>[[Modern Industrial Policy]] | 指向国家超越新古典新自由主义市场中立[[Hypothesis\|假设]]，通过定向研发、直接补贴、税收激励与规制工具主动引导战略性产业发展并重塑[[National Competitive Advantage\|国家竞争优势]]。（pp. 1–3） |
-> | **[[Market Shaping and Creating\|市场塑造与市场共创]]**<br>[[Market Shaping and Creating]] | 超越消极修复[[Market Failure\|市场失灵]]（Market Fixing），主张公共部门通过设定社会使命与附加条件（Conditionalities），与私人部门共担风险并共享公共回报，主动培育全新产业生态。（p. 5） |
+> | **[[Market Shaping and Creating\|市场塑造与市场共创]]**<br>[[Market Shaping and Creating]] | 超越消极修复[[Market Failure\|市场失灵]]（Market Fixing），主张公共部门通过设定社会使命与[[Policy Conditionalities\|制度化附加条件]]（Conditionalities），与私人部门共担风险并共享公共回报，主动培育全新产业生态。（p. 5） |
 > | **[[Embedded Autonomy\|嵌入式自主性]]**<br>[[Embedded Autonomy]] | 阐明国家机构既需与产业界保持制度化信息交流与战略协作以解决现实问题，又必须保持高度的科层独立性与防俘获能力。（pp. 4–5） |
 
 > [!warrant]- 理论如何支撑论证
-> 理论工具箱将现代产业战略从传统的被动补贴与关税保护，推进为基于演化与制度视角的动态治理系统。引入[[Market Shaping and Creating|市场塑造]]理论，阐明了为何公共资助可以且应当附加托儿服务、超额利润分享、[[Apprenticeship|学徒制]]与社区福利等社会责任条款，从而防范风险社会化而收益私有化的结构性失衡；借助[[Embedded Autonomy|嵌入式自主性]]视角，论证了七项过程准则与护栏条款如何构建防火墙，使公共部门在与企业紧密协作以克服信息不对称的同时，防止政策退化为特权企业的寻租工具。（pp. 4–5）
+> 理论工具箱将现代产业战略从传统的被动补贴与关税保护，推进为基于演化与制度视角的动态治理系统。引入[[Market Shaping and Creating|市场塑造]]理论与附加条件机制，阐明了为何公共资助可以且应当附加托儿服务、超额利润分享、[[Apprenticeship|学徒制]]与社区福利等社会责任条款，从而防范风险社会化而收益私有化的结构性失衡；借助[[Embedded Autonomy|嵌入式自主性]]视角，论证了七项过程准则与护栏条款如何构建防火墙，使公共部门在与企业紧密协作以克服信息不对称的同时，防止政策退化为特权企业的寻租工具。（pp. 4–5）
 
 ---
 
@@ -159,7 +162,7 @@ journal: "Journal of Industry, Competition and Trade"
 ### 论证步骤二　三大立法支柱通过护栏条款与附加条件实现市场塑造与公共价值捆绑
 
 > [!claim] 步骤二核心主张
-> 拜登政府通过《[[CHIPS and Science Act|芯片与科学法案]]》、《[[Inflation Reduction Act|通胀削减法案]]》及《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》，创新性地构建了以护栏条款限制企业寻租脱轨、以附加条件引导[[Public Value|公共价值创造]]的复合治理架构。（pp. 5–13）
+> 拜登政府通过《[[CHIPS and Science Act|芯片与科学法案]]》、《[[Inflation Reduction Act|通胀削减法案]]》及《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》，创新性地构建了以护栏条款限制企业寻租脱轨、以[[Policy Conditionalities|制度化附加条件]]引导[[Public Value|公共价值创造]]的复合治理架构。（pp. 5–13）
 
 #### 1. 《芯片与科学法案》通过资金池竞标与护栏条款兼顾产业安全和防范资本寻租
 
@@ -189,7 +192,7 @@ journal: "Journal of Industry, Competition and Trade"
 > |---|---|---|
 > | **清洁电力生产税收抵免（PTC，法案第 45Y 条）** | 对所有零温室气体排放发电技术开放统一基准抵免，取代以往单一技术指定。清洁电力生产税收抵免（Production Tax Credit, PTC）设定了公平的准入门槛。 | 满足盛行工资与[[Apprenticeship\|学徒制]]要求，抵免额度提升 **5 倍**；叠加本土制造与能源社区加成各 **10%**。 |
 > | **清洁电力投资税收抵免（ITC，法案第 48E 条）** | 面向所有清洁能源发电设备与储能设施投资，实行灵活的技术中立准入。 | 基础抵免率从 6% 提升至 **30%**（5倍乘数）；满足条件者最高可叠加至 **50%** 抵免率。 |
-> | **能源部竞争性专项拨款** | 涵盖清洁氢能、先进核能、碳捕集与工业脱碳等前沿示范项目。 | 强制提交**社区福利计划（CBPs）**（占技术评审 20% 权重），且 **40%** 效益流向弱势社区。 |
+> | **能源部竞争性专项拨款与贷款** | 涵盖清洁氢能、先进核能、碳捕集与工业脱碳等前沿示范项目，由[[Loan Programs Office\|贷款项目办公室]]（LPO）提供首台套项目融资。 | 强制提交**社区福利计划（CBPs）**（占技术评审 20% 权重），且 **40%** 效益流向弱势社区。 |
 
 法案通过严密的结构化加成机制，将碳减排与高质量工会就业深度绑定。（pp. 10–11）
 
@@ -201,7 +204,7 @@ journal: "Journal of Industry, Competition and Trade"
 
 #### 3. 《基础设施投资与就业法案》依托政府采购需求拉动本土产业链并通过动态豁免保障供应链平稳过渡
 
-《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》通过 1.2 万亿美元（含 5500 亿美元净新增联邦投资）为先进制造业与绿色转型提供基础物理与数字网络支撑，并依托《建设美国、购买美国法》（Build America, Buy America Act, BABA）发挥强大的政府采购拉动效应。（pp. 11–13）
+《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》通过 1.2 万亿美元（含 5500 亿美元净新增联邦投资）为先进制造业与绿色转型提供基础物理与数字网络支撑，并依托《[[Build America, Buy America Act|以美国制造为荣法案]]》（Build America, Buy America Act, BABA）发挥强大的政府采购拉动效应。（pp. 11–13）
 
 > [!row-contrast] 基础设施法案的重点领域与产业支撑功能
 > | 投资领域 | 资金规模 | 核心建设内容 | 对战略产业的支撑功能 |
@@ -212,7 +215,7 @@ journal: "Journal of Industry, Competition and Trade"
 > | **宽带普及与数字基础设施** | 650 亿美元 | 推进宽带平等、接入与部署计划（Broadband Equity, Access, and Deployment Program, BEAD），实现高速宽带全覆盖 | 消除内陆与农村数字鸿沟，支撑智能制造与工业互联网连接。 |
 > | **清洁电网与能源传输** | 650 亿美元 | 扩建跨区域高压输电线路，升级智能电网 | 解决新能源并网瓶颈，为高能耗晶圆厂与数据中心保障清洁电力。（pp. 11–12） |
 
-BABA 法案将本土采购要求延伸至更广泛的工业品，并通过动态豁免机制实现平稳过渡。（pp. 12–13）
+[[Build America, Buy America Act|BABA]] 法案将本土采购要求延伸至更广泛的工业品，并通过动态豁免机制实现平稳过渡。（pp. 12–13）
 
 > [!proc] BABA 采购规范与美国制造办公室动态豁免治理流程
 > 1. **拓展法定采购范畴** BABA 将采购要求从钢铁全面拓展至包括非铁金属、塑料、聚合物、玻璃、光纤、木材及干式墙板在内的所有制成品，要求项目中使用的制成品扣除劳工成本后本土组件占比超过 55%。（pp. 12–13）
@@ -236,7 +239,7 @@ BABA 法案将本土采购要求延伸至更广泛的工业品，并通过动态
 > |---|---|---|
 > | **技术劳动力与技能缺口** | 缺乏足够的建筑工人、电工、管道工及半导体工艺工程师，制约工程进度并推高用工成本。（pp. 13–14） | 强化社区学院合作、推广注册学徒制、落实托儿服务以动员潜在劳动力。（pp. 8–11） |
 > | **行政许可与土地监管迟滞** | 《国家环境政策法》（National Environmental Policy Act, NEPA）跨部门环境影响评估繁琐，州与地方土地规划审批缓慢，阻碍电网与厂房建设。（pp. 5, 14） | 推进联邦与州级监管改革，如联邦能源监管委员会（FERC）2023 年电网互联新规。（p. 14） |
-> | **国家行政与专业能力赤字** | 商务部、能源部等联邦机构需在短期内审核海量申请并维持常态化沟通，面临人员与专业技术储备不足。 | 扩建专门项目办公室（如芯片计划办公室），提升科层技术与跨部门协调能力。 |
+> | **国家行政与专业能力赤字** | 商务部、能源部等联邦机构需在短期内审核海量申请并维持常态化沟通，面临人员与专业技术储备不足。 | 扩建专门项目办公室（如芯片计划办公室与能源部[[Loan Programs Office\|贷款项目办公室]]），提升科层技术与跨部门协调能力。（pp. 6–7） |
 > | **国际盟友摩擦与贸易争端** | 本土制造与采购限制引发欧盟、日韩等盟友担忧，加剧跨国补贴内耗与保护主义风险。 | 强化与盟友的战略协调，推动友岸外包与关键矿产多边合作协议。 |
 
 #### 2. 产业政策无法单独解决地缘技术垄断与深层社会分配不平等等结构性矛盾
@@ -254,7 +257,7 @@ BABA 法案将本土采购要求延伸至更广泛的工业品，并通过动态
 
 > [!finding-cards] 核心发现
 > 1. **过程治理机制决定产业战略成败** 21 世纪产业政策必须以促成部门内竞争、调动私人资本、采取投资组合进路、具备[[Learning by Doing|干中学]]调整弹性、确保透明度、实施里程碑评估及资金追回等七项过程准则为制度基石。（pp. 4–5）
-> 2. **护栏条款与附加条件实现[[Market Shaping and Creating|市场共创]]** 拜登政府立法将托儿服务、超额利润分享、回购限制、盛行工资及社区福利计划作为资助前提，开创了防范企业寻租并主动引导[[Public Value|公共价值创造]]的产业政策新模式。（pp. 5, 8–13）
+> 2. **[[Policy Conditionalities|护栏条款与附加条件]]实现[[Market Shaping and Creating|市场共创]]** 拜登政府立法将托儿服务、超额利润分享、回购限制、盛行工资及社区福利计划作为资助前提，开创了防范企业寻租并主动引导[[Public Value|公共价值创造]]的产业政策新模式。（pp. 5, 8–13）
 > 3. **产业政策效力受制于国家能力与结构边界** 现代产业战略的落地面临技术工人短缺、行政许可迟缓与国家行政能力赤字的现实制约；且产业政策无法单独解决深层的地缘绝对垄断、碳排放缺口与社会贫富分化问题，必须与系统性制度改革相协同。（pp. 13–15）
 
 > [!stat-cards]- 核心数据
@@ -262,7 +265,7 @@ BABA 法案将本土采购要求延伸至更广泛的工业品，并通过动态
 > - **1.2 万亿美元** 《[[Inflation Reduction Act|通胀削减法案]]》预估实际可拉动的联邦税收激励与投资总规模。（p. 10）
 > - **5 倍** 清洁能源项目满足盛行工资与[[Apprenticeship|学徒制]]要求时的税收抵免增幅倍数。
 > - **40%** 正义40倡议设定的流向弱势社区的最低效益占比目标。（p. 11）
-> - **55%** BABA 法案规定的制成品中本土零部件成本占总成本的法定最低比例。（p. 13）
+> - **55%** [[Build America, Buy America Act|BABA]] 法案规定的制成品中本土零部件成本占总成本的法定最低比例。（p. 13）
 > - **6%–11%** 《通胀削减法案》预计在既有趋势基础上进一步拉动的美国温室气体减排幅度。（p. 14）
 
 ---
@@ -277,7 +280,7 @@ BABA 法案将本土采购要求延伸至更广泛的工业品，并通过动态
 > [!citation-card]- 附加条件与重塑国家与企业契约
 > [[Modern Industrial Policy|现代产业政策]]的另一个核心特征涉及塑造市场以及附加条件的作用。政府政策应当超越仅仅弥补[[Market Failure|市场失灵]]的最低要求去塑造市场，使其更好地反映国家优先考虑的价值观与社会目标……附加条件要求获得政府补贴的企业承担相应义务，旨在支持高质量就业、可持续增长与更广泛的共同繁荣。（p. 5）
 >
-> *A final additional aspect of a "modern" approach to industrial policies involves shaping markets and the role of conditionalities... In this case, government policy should go beyond the minimal requirements of addressing market failures to "shape markets," so they better reflect the values and societal goals that governments have prioritized... Conditionalities, where government places obligations on recipients of government subsidies... should be used, it is argued, to support goals such as quality jobs, sustainable [[Growth]], and more broadly shared prosperity.*
+> *A final additional aspect of a "modern" approach to industrial policies involves shaping markets and the role of [[Policy Conditionalities|Conditionalities]]... In this case, government policy should go beyond the minimal requirements of addressing market failures to "shape markets," so they better reflect the values and societal goals that governments have prioritized... Conditionalities, where government places obligations on recipients of government subsidies... should be used, it is argued, to support goals such as quality jobs, sustainable [[Growth]], and more broadly shared prosperity.*
 
 ---
 

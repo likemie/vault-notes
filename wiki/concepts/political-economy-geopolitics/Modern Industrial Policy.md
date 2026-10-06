@@ -27,6 +27,7 @@ related_concepts:
   - "[[Vertical Disintegration]]"
   - "[[Hypothesis]]"
   - "[[Market Shaping and Creating]]"
+  - "[[Policy Conditionalities]]"
   - "[[Public Value]]"
   - "[[Paradigm]]"
   - "[[Apprenticeship]]"
@@ -54,6 +55,7 @@ related_facts:
   - "[[October 2022 US Semiconductor Export Controls]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[Inflation Reduction Act]]"
+  - "[[Build America, Buy America Act]]"
 related_arguments:
   - "[[Argument_Bown_2024_JEP]]"
   - "[[Argument_Reynolds_2024_JICT]]"
@@ -110,7 +112,7 @@ updated: 2026-10-06
 > - **先进制程技术与设备多边出口管制** 运用域外管辖与关键技术垄断（如极紫外光刻机、电子设计自动化软件），对竞争对手实施先进制程设备与算力芯片禁运，形成跨国管制联盟。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 98–100)]]
 > - **护栏条款与地缘排他性限制** 规定受补贴企业在获得资金后十年内不得在特定竞争对手国家大幅扩建先进半导体制造产能，强制跨国供应链与战略对手脱钩。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 97)]]
 > - **制度化过程治理准则（Process Criteria）** 政策成败高度取决于如何实施（How），包括维持部门内竞争性、以公共激励撬动私人投资（Crowding in）、避免扶植单一全国冠军的投资组合进路（Portfolio approach）、基于[[Learning by Doing|干中学]]（Learning by doing）的动态调整弹性、全程透明度、分里程碑监测评估（M&E）以及未履约资金追回（Clawbacks）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–5)]]
-> - **[[Market Shaping and Creating|市场塑造]]附加条件（Market-Shaping Conditionalities）** 打破单纯弥补[[Market Failure|市场失灵]]的被动定位，将巨额公共资助与企业提供托儿服务、分享超额意外利润、限制股票回购、支付现行工资、雇佣注册学徒工及落实社区利益计划（Community Benefits Plan, CBP）等[[Public Value|公共价值]]目标深度绑定。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–11)]]
+> - **[[Market Shaping and Creating|市场塑造]]附加条件（Market-Shaping [[Policy Conditionalities|Conditionalities]]）** 打破单纯弥补[[Market Failure|市场失灵]]的被动定位，将巨额公共资助与企业提供托儿服务、分享超额意外利润、限制股票回购、支付现行工资、雇佣注册学徒工及落实社区利益计划（Community Benefits Plan, CBP）等[[Public Value|公共价值]]目标深度绑定。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–11)]]
 > - **友岸外包与跨国供应链多元化** 推动封装测试与成熟制程产能在越南、哥斯达黎加、巴拿马等友好国家分散布局，防范地缘热点集中爆发导致的断链风险。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 98, 100)]]
 > - **战略关键原材料出口反制** 掌握上游关键矿产（如镓、锗）主导份额的经济体，通过出口配额与许可限制反制技术管制，形成地缘经济博弈应对机制。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 101)]]
 
@@ -191,7 +193,7 @@ updated: 2026-10-06
 > 探讨 21 世纪产业政策如何突破单纯关注资金规模的政策内容视角，转向以制度化过程准则规避政治寻租与挑选赢家陷阱。
 
 > [!claim] [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]
-> **过程治理与[[Market Shaping and Creating|市场塑造]]附加条件** 现代产业政策的成败并不单纯取决于财政投入规模，而关键取决于如何实施（How）。通过建立以行业竞争性、撬动私人投资（Crowding in）、避免单一国家冠军的投资组合进路（Portfolio approach）、[[Learning by Doing|干中学]]（Learning by doing）调整弹性、透明遴选、分阶段监测评估（M&E）以及追回机制（Clawbacks）为核心的过程准则，并结合托儿服务、超额利润分享、股票回购限制、现行工资及社区利益计划等附加条件（Conditionalities），国家能够主动塑造具有[[Public Value|公共价值]]导向的市场，从而在防范政治俘获与官僚僵化的同时达成国家战略使命。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–5, 8–11)]]
+> **过程治理与[[Market Shaping and Creating|市场塑造]]附加条件** 现代产业政策的成败并不单纯取决于财政投入规模，而关键取决于如何实施（How）。通过建立以行业竞争性、撬动私人投资（Crowding in）、避免单一国家冠军的投资组合进路（Portfolio approach）、[[Learning by Doing|干中学]]（Learning by doing）调整弹性、透明遴选、分阶段监测评估（M&E）以及追回机制（Clawbacks）为核心的过程准则，并结合托儿服务、超额利润分享、股票回购限制、现行工资及社区利益计划等附加条件（[[Policy Conditionalities|Conditionalities]]），国家能够主动塑造具有[[Public Value|公共价值]]导向的市场，从而在防范政治俘获与官僚僵化的同时达成国家战略使命。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–5, 8–11)]]
 
 ---
 
@@ -270,7 +272,7 @@ updated: 2026-10-06
 > | [[Vertical Disintegration]] | 概念 | 全球多阶段高度细分的产业链组织形态，构成现代产业政策难以维系封闭国家冠军的结构约束。 |
 > | [[CHIPS and Science Act]] | 事实 | 现代产业政策聚焦先进制程制造回流与前沿研发战略纵深的当代核心法案。 |
 > | [[Inflation Reduction Act]] | 事实 | 现代产业政策聚焦清洁能源转型、技术中立抵免与工会学徒制乘数的绿色转型法案。 |
-> | [[Infrastructure Investment and Jobs Act]] | 事实 | 通过 BABA 采购要求与 MIAO 阶段性豁免机制以基建需求拉动本土制造的基础法案。 |
+> | [[Infrastructure Investment and Jobs Act]] | 事实 | 通过 [[Build America, Buy America Act\|BABA]] 采购要求与 MIAO 阶段性豁免机制以基建需求拉动本土制造的基础法案。 |
 
 ---
 

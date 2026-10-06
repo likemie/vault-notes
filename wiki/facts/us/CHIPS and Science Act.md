@@ -33,6 +33,7 @@ related_concepts:
   - "[[Use-Inspired Basic Research]]"
   - "[[Innovation Hub]]"
   - "[[Public Value]]"
+  - "[[Policy Conditionalities]]"
   - "[[Paradigm]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[STEM Education]]"
@@ -106,7 +107,7 @@ updated: 2026-10-06
 >   - **国防与友岸外包专项基金** 设立 20 亿美元国防专用半导体基金与 5 亿美元国际技术安全与创新基金（ITSI Fund）。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 98)]]
 > - **约束机制**
 >   - **国家安全十年护栏条款（National Security Guardrails）** 凡接受直接补贴的企业，在获得资金后 10 年内严禁在关切国家（特别是中国）大幅扩建或升级先进制程（扩产比例严格限制在 5% 以内），违者全额收回资金；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 97)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 9)]]
->   - **社会政策附加条款与[[Public Value|公共价值]]护栏（Conditionalities & Guardrails）** 申请直接补贴超过 1.5 亿美元的企业必须提交为员工及施工人员提供可负担高质量托儿服务的方案；必须与联邦政府约定在出现超额意外利润时进行利润分享；严禁将联邦补贴资金用于股票回购或股息分红；且工程施工需全额支付符合《戴维斯-培根法》（Davis-Bacon Act）的现行工资（Prevailing Wages）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
+>   - **社会政策附加条款与[[Public Value|公共价值]]护栏（[[Policy Conditionalities|Conditionalities]] & Guardrails）** 申请直接补贴超过 1.5 亿美元的企业必须提交为员工及施工人员提供可负担高质量托儿服务的方案；必须与联邦政府约定在出现超额意外利润时进行利润分享；严禁将联邦补贴资金用于股票回购或股息分红；且工程施工需全额支付符合《戴维斯-培根法》（Davis-Bacon Act）的现行工资（Prevailing Wages）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
 
 > [!citation-card] 芯片法案的资金规模与护栏约束
 > 2022 年《芯片与科学法案》包含 527 亿美元直接资金，其中 390 亿美元用于制造业激励，110 亿美元用于研发和劳动力发展；此外还提供 25% 的先进制造投资税收抵免。为了确保国家安全，法案设定了严格的护栏条款：禁止获得补贴的公司在未来 10 年内在被界定为关切国家（特别是中国）大幅扩大先进制程制造产能。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 97)]]

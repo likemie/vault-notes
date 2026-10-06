@@ -32,6 +32,7 @@ related_concepts:
   - "[[Technological Catch-up]]"
   - "[[Learning by Doing]]"
   - "[[Agglomeration Externalities]]"
+  - "[[Policy Conditionalities]]"
 related_theories: []
 related_methods:
   - "[[Statistical Process Control]]"
@@ -158,4 +159,4 @@ updated: 2026-10-06
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 详尽剖析台积电开创晶圆代工模式重塑全球半导体分工的经济史，揭示其先进制程垄断地位及大国产业政策争夺背后的供应链安全逻辑。
-> - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 从现代产业战略实施过程与政策附加条件视角，分析台积电亚利桑那 650 亿美元建厂面临的技能短缺、工会协商与生态重构挑战。
+> - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 从现代产业战略实施过程与[[Policy Conditionalities|政策附加条件]]视角，分析台积电亚利桑那 650 亿美元建厂面临的技能短缺、工会协商与生态重构挑战。

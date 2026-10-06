@@ -23,6 +23,7 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Return on Investment]]"
   - "[[Social Science as Legitimation Alibi]]"
+  - "[[Policy Conditionalities]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Total Factor Productivity]]"
   - "[[Independent Variable]]"
@@ -124,7 +125,7 @@ updated: 2026-10-05
 > | 潜在人才库（Latent Pool of Talents） | 概念 | 指社会大众（尤其是工农阶层）中未被传统精英教育发现和转化的智力资源，构成教育扩张的社会学论据（Halsey et al., 1961）。 |
 > | 工具性发展[[Paradigm\|范式]]（Instrumental-Developmental Paradigm） | 机制 | 战后比较教育第三代将人力资本理论升格为“教育是开启现代化大门的钥匙”的发展主义信条，提供指导国家改革与国际援助的规划处方。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 147–148)]] |
 > | [[Social Science as Legitimation Alibi]] | 机制 | 政治决策者利用人力资本的量化预测与[[Return on Investment\|投资回报]]模型作为推卸行政责任与掩盖价值决断的科学借口。 |
-> | 教育收益率数据库与放贷门槛（Rates of Return Databank & Lending Conditionalities） | 机制 | 世界银行（George Psacharopoulos）建立的涵盖 139 国、1,120 项教育投资收益率估算的大规模数据库，将人力资本理论转化为跨国结构性调整与政策放贷的量化门槛与自指性治理帝国。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]] |
+> | 教育收益率数据库与放贷门槛（Rates of Return Databank & Lending [[Policy Conditionalities\|Conditionalities]]） | 机制 | 世界银行（George Psacharopoulos）建立的涵盖 139 国、1,120 项教育投资收益率估算的大规模数据库，将人力资本理论转化为跨国结构性调整与政策放贷的量化门槛与自指性治理帝国。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]] |
 > | 控制论人力规划（Cybernetic Manpower Planning） | 方法 | 冷战时期[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）为抗衡苏联计划经济竞争，将人力资本理论与控制论相结合的技术官僚规划范式，专注于劳动力市场中长期工程师与技术人员需求的宏观预测。[[Argument_Steiner-Khamsi_2024_CE\|(Popkewitz, 2022; Steiner-Khamsi et al., 2024, p. 541)]] |
 > | 技术官僚绩效[[Disciplina and Doctrina\|规训]]（Technocratic Disciplining Pressure） | 机制 | 经合组织（OECD）等跨国组织将人力资本逻辑转化为直接约束国家研究经费与问责指标的治理手段，迫使比较教育研究从价值反思转向服从于经济竞争力的绩效达标。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 96)]] |
 > | 重大工程专门工程人力资本与多维流动机制（Mission-Oriented Engineering Human Capital & Mobility） | 机制 | 高技术产业中通过重大公共战略工程实战历练形成的高级系统架构与工程管理专门人力资本，通过半导体企业间衍生创业网络与计算机企业内部跨部门调配双重通道平移至国民经济民用领域。[[Argument_Schnee_1978_RP\|(Schnee, 1978, pp. 17–20)]] |
