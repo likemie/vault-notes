@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Strategic Autonomy",
-      "path": "wiki/concepts/political-economy-geopolitics/Strategic Autonomy.md"
-    },
-    {
       "basename": "Argument_Bulfone_2024_IAI",
       "path": "wiki/arguments/reports-policy-documents/Argument_Bulfone_2024_IAI.md"
+    },
+    {
+      "basename": "Public Value",
+      "path": "wiki/concepts/science-policy/Public Value.md"
+    },
+    {
+      "basename": "Mariana Mazzucato",
+      "path": "wiki/persons/italy/Mariana Mazzucato.md"
+    },
+    {
+      "basename": "Market Failure",
+      "path": "wiki/concepts/science-policy/Market Failure.md"
+    },
+    {
+      "basename": "Modern Industrial Policy",
+      "path": "wiki/concepts/political-economy-geopolitics/Modern Industrial Policy.md"
+    },
+    {
+      "basename": "Comparative Policy Analysis",
+      "path": "wiki/methods/qualitative/Comparative Policy Analysis.md"
+    },
+    {
+      "basename": "Important Projects of Common European Interest",
+      "path": "wiki/facts/eu/Important Projects of Common European Interest.md"
+    },
+    {
+      "basename": "Policy Conditionalities",
+      "path": "wiki/concepts/science-policy/Policy Conditionalities.md"
+    },
+    {
+      "basename": "Strategic Autonomy",
+      "path": "wiki/concepts/political-economy-geopolitics/Strategic Autonomy.md"
     },
     {
       "basename": "European Chips Act",
@@ -53,16 +81,8 @@
       "path": "wiki/concepts/instruction-pedagogy/Apprenticeship.md"
     },
     {
-      "basename": "Market Failure",
-      "path": "wiki/concepts/science-policy/Market Failure.md"
-    },
-    {
       "basename": "National Competitive Advantage",
       "path": "wiki/concepts/political-economy-geopolitics/National Competitive Advantage.md"
-    },
-    {
-      "basename": "Modern Industrial Policy",
-      "path": "wiki/concepts/political-economy-geopolitics/Modern Industrial Policy.md"
     },
     {
       "basename": "Market Shaping and Creating",
@@ -75,10 +95,6 @@
     {
       "basename": "Infrastructure Investment and Jobs Act",
       "path": "wiki/facts/us/Infrastructure Investment and Jobs Act.md"
-    },
-    {
-      "basename": "Public Value",
-      "path": "wiki/concepts/science-policy/Public Value.md"
     },
     {
       "basename": "Learning by Doing",
@@ -183,22 +199,6 @@
     {
       "basename": "Argument_Logar_2014_Minerva",
       "path": "wiki/arguments/journal-articles/Minerva/Argument_Logar_2014_Minerva.md"
-    },
-    {
-      "basename": "Fan_2026_BCAS",
-      "path": "sources/Fan_2026_BCAS.md"
-    },
-    {
-      "basename": "President's Science Advisory Committee",
-      "path": "wiki/facts/us/President's Science Advisory Committee.md"
-    },
-    {
-      "basename": "Restoring Gold Standard Science Executive Order",
-      "path": "wiki/facts/us/Restoring Gold Standard Science Executive Order.md"
-    },
-    {
-      "basename": "Office of Science and Technology Policy",
-      "path": "wiki/facts/us/Office of Science and Technology Policy.md"
     }
   ],
   "omittedPaths": [],

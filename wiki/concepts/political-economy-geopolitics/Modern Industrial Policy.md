@@ -46,6 +46,7 @@ related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[European Chips Act]]"
   - "[[World Trade Organization]]"
+  - "[[Important Projects of Common European Interest]]"
   - "[[Ministry of International Trade and Industry]]"
   - "[[China Integrated Circuit Industry Investment Fund]]"
   - "[[Made in China 2025]]"
@@ -59,6 +60,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Bown_2024_JEP]]"
   - "[[Argument_Reynolds_2024_JICT]]"
+  - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Brint_2023_IHE]]"
 confidence: high
 status: active
@@ -115,7 +117,7 @@ updated: 2026-10-06
 > - **[[Market Shaping and Creating|市场塑造]]附加条件（Market-Shaping [[Policy Conditionalities|Conditionalities]]）** 打破单纯弥补[[Market Failure|市场失灵]]的被动定位，将巨额公共资助与企业提供托儿服务、分享超额意外利润、限制股票回购、支付现行工资、雇佣注册学徒工及落实社区利益计划（Community Benefits Plan, CBP）等[[Public Value|公共价值]]目标深度绑定。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–11)]]
 > - **友岸外包与跨国供应链多元化** 推动封装测试与成熟制程产能在越南、哥斯达黎加、巴拿马等友好国家分散布局，防范地缘热点集中爆发导致的断链风险。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 98, 100)]]
 > - **战略关键原材料出口反制** 掌握上游关键矿产（如镓、锗）主导份额的经济体，通过出口配额与许可限制反制技术管制，形成地缘经济博弈应对机制。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 101)]]
-- **集中式与协调者两种国家治理形态** 比较政治经济学视阈下，现代产业政策在不同政体展现出截然不同的治理路径：美国采取联邦集中直接资助模式，由中央行政系统自上而下统一挑选优先项目与直投补贴；欧盟受制于缺乏超国家税收自主权，采取多层级去中心化模式，欧盟委员会主要作为“产业政策协调者”（Orchestrator），依托放宽国家援助审查例外与[[Important Projects of Common European Interest|欧洲共同利益重要项目（IPCEI）]]等跨国框架，动员各成员国国库与私营资本共担风险。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 3, 13–14)]]
+- **集中式与协调者两种国家治理形态** 比较政治经济学视阈下，现代产业政策在不同政体展现出截然不同的治理路径：美国采取联邦集中直接资助模式，由中央行政系统自上而下统一挑选优先项目与直投补贴；欧盟受制于缺乏超国家税收自主权，采取多层级去中心化模式，欧盟委员会主要作为“产业政策协调者”（Orchestrator），依托放宽国家援助审查例外与[[Important Projects of Common European Interest|欧洲共同利益重要项目]]（IPCEI）等跨国框架，动员各成员国国库与私营资本共担风险。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 3, 13–14)]]
 
 > [!logic-map]- 现代产业政策的动力与工具系统
 > ```mermaid
@@ -198,6 +200,16 @@ updated: 2026-10-06
 
 ---
 
+### 命题六　现代产业政策的国家治理形态取决于政体财政集权程度并深刻分化政策实施效能
+
+> [!concept-lens] 国家形态与产业政策治理架构的比较政治经济学
+> 探讨不同政体的中央财政自主权与行政统领能力如何决定现代产业政策采取集中直接投资模式还是去中心化协调者模式，进而深刻影响跨国资本动员与内部区域均衡。
+
+> [!claim] [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]]
+> **财政集权与治理形态的分水岭** 现代产业政策绝非整齐划一的干预模式，其治理架构深受国家体制与财政集权程度的制度制约。在具备高度财政自主权的单一或联邦政体（如美国），国家采取“集中直接投资模式”，由联邦中央自上而下掌控巨额直接预算，直接面向单个跨国与本土领军企业投放巨资，能迅速以全流程刚性附加条件撬动万亿级资本再投资；而在超国家多层级政体（如欧盟），受制于超国家财政主权缺位，中央行政机关无法直接发债与直投，被迫异化为“产业政策协调者”（Orchestrator），主要依靠放宽国家援助审查与搭建跨国协同框架（如 [[Important Projects of Common European Interest|IPCEI]]）动员成员国财政。这种协调者形态导致政策高度依附于成员国国库厚薄，必然引发核心国家与外围国家的补贴不平等，甚至诱发跨国巨头在区域内进行制度套利，进而加剧单一市场的离心与分裂风险。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 3, 13–14, 16–17)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 现代产业政策核心命题归纳
@@ -208,6 +220,7 @@ updated: 2026-10-06
 > | **产能扭曲与过剩隐患** | 技术管制迫使资本转向成熟制程，叠加全球补贴竞赛引发产能过剩 | 成熟制程晶圆制造、非对称反制与补贴内耗 | 资本涌入中低端产能引发的价格战风险 |
 > | **新自由主义共识破裂** | 国家打破不直接干预中立立场，公开通过定向研发清单挑选前沿赢家 | 前沿技术研发资助、大学科技动员与国家安全立法 | 国家直接筛选前沿技术清单的范式转变 |
 > | **过程治理与市场塑造** | 依托竞争性、投资组合、干中学弹性与社会附加条件防范寻租并共创公共价值 | 三大联邦法案落地、清洁能源与半导体制造业重塑 | 七项过程准则与护栏附加条件治理网络 |
+> | **政体形态与治理效能** | 财政集权程度决定直接投资与协调者模式的分化，去中心化补贴加剧区域失衡 | 跨大西洋高科技产业战略比较、超国家产业政策评估 | 超国家财政赤字、国家援助依赖与单一市场分裂风险 |
 
 ---
 
@@ -256,7 +269,7 @@ updated: 2026-10-06
 > | 美国 | 现代产业战略三大立法 (2021–2022) | [[Infrastructure Investment and Jobs Act\|IIJA]]（1.2万亿）、CHIPS（527亿+25%税收抵免）、[[International Reading Association\|IRA]]（3690亿至1.2万亿税收抵免）；拉动逾 5000 亿美元私人投资 | 交通电网基建升级（BABA采购）、半导体先进制程回流与护栏约束、清洁能源技术中立与5倍工资[[Apprenticeship\|学徒制]]乘数 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 6–13)]] |
 > | 美国 | [[CHIPS and Science Act\|芯片与科学法案]] (2022) | 527 亿美元直接拨款（390 亿制造补贴 + 110 亿研发）+ 25% 投资税收抵免 | 吸引先进制程回流本土、护栏条款限制对华扩产、[[October 2022 US Semiconductor Export Controls\|全面出口管制]] | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, pp. 97–99)]] |
 > | 欧盟 | [[European Chips Act\|欧洲芯片法案]] (2023) | 430 亿欧元公共与私人投资动员 | 吸引[[Taiwan Semiconductor Manufacturing Corporation\|台积电]]、格芯与意法半导体在德法建厂，力争 2030 年实现 20% 制造份额 | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, p. 100)]] |
-> | 美欧对比 | [[CHIPS and Science Act\|US CHIPS]] 对比 [[European Chips Act\|EU Chips]] (2022–2024) | 美方 527 亿美元直接拨款与 25% 税收抵免；欧方 33 亿欧元直接预算（预测动员 430 亿总投资，含 IPCEI 81 亿成员国援助与 137 亿私人投资） | 揭示美国联邦集中直接资助与欧盟去中心化多层级协调者两种治理模式，指出欧盟依赖成员国财政补贴加剧单一市场不平等与碎片化风险 | [[Argument_Bulfone_2024_IAI\|(Bulfone et al., 2024, pp. 9–17)]] |
+> | 美欧对比 | [[CHIPS and Science Act\|US CHIPS]] 对比 [[European Chips Act\|EU Chips]] (2022–2024) | 美方 527 亿美元直接拨款与 25% 税收抵免；欧方 33 亿欧元直接预算（预测动员 430 亿总投资，含 [[Important Projects of Common European Interest\|IPCEI]] 81 亿成员国援助与 137 亿私人投资） | 揭示美国联邦集中直接资助与欧盟去中心化多层级协调者两种治理模式，指出欧盟依赖成员国财政补贴加剧单一市场不平等与碎片化风险 | [[Argument_Bulfone_2024_IAI\|(Bulfone et al., 2024, pp. 9–17)]] |
 > | 中国 | [[China Integrated Circuit Industry Investment Fund\|国家大基金]] (一期/二期) | 数千亿元人民币股权投资基金 + 地方配套与税收优惠 | 突破卡脖子先进制程装备与材料、重点投资成熟制程产能替代 | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, pp. 93–94)]] |
 > | 日本 | 经济安保半导体专项预算 (2022–) | 超 30 亿美元补贴台积电熊本厂 + 资助 Rapidus 2nm 研发项目 | 稳固汽车与工业成熟芯片供应、联合 IBM 攻关下一代 2nm 尖端制程 | 经产省半导体与数字产业战略 |
 
@@ -284,4 +297,4 @@ updated: 2026-10-06
 > - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 系统构建了现代产业政策的[[Analytic Framework|分析框架]]，剖析了半导体全球供应链[[Vertical Disintegration|纵向离散]]背景下大国博弈的政策工具组合、经济代价与非预期后果。
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 阐释美国通过《[[CHIPS and Science Act|芯片与科学法案]]》实现科技产业政策[[Paradigm|范式]]转向的制度动因，分析国家定向资助与前沿技术竞争对[[Research Universities|研究型大学]]科研与 [[STEM Education|STEM]] 教育的深远影响。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 从政策实施与治理机制视角剖析拜登政府现代产业战略，系统提炼保障产业战略有效落地的七项过程治理准则，并基于三大联邦法案阐明护栏条款与[[Market Shaping and Creating|市场塑造]]附加条件的设计逻辑与现实边界。
-> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 构建涵盖行动主体、政策目标、资金规模、政策工具与制度化附加条件的五维比较分析框架，深入对比美欧半导体现代产业政策，揭示美国集中式补贴模式与欧盟去中心化协调者模式的制度差异、治理约束与实施效能分化。
+> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 构建涵盖行动主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]的五维比较分析框架，深入对比美欧半导体现代产业政策，揭示美国集中式补贴模式与欧盟去中心化协调者模式的制度差异、治理约束与实施效能分化。
