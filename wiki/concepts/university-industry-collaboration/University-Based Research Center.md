@@ -87,3 +87,9 @@ updated: 2026-10-06
 
 ---
 
+## 历史演变与多学科跨界灵活性
+
+> [!dev-timeline] 微电子产学研究中心的制度演进
+> - **1970 年代末 — 应对重资产瓶颈与地缘竞争** 面对洁净室与微细加工装备成本暴涨以及日本 VLSI 竞争威胁，高校学者（如康奈尔的 [[National Research and Resource Facility for Submicron Structures|NRRFSS]]、斯坦福的 [[Center for Integrated Systems|CIS]]）创设中心整合重资产机台并向全美学术界与工业界开放共享。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 286–287, 291–295)]]
+> - **1980 年代 — 与产业联合体组织嵌合** 中心充当大学内部的跨学科技术经纪人，统筹对接半导体研究公司（[[Semiconductor Research Corporation|SRC]]）与 Sematech 大学卓越中心网络，协调企业派驻工程师与流片试验。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 292–296)]]
+> - **1990 年代至今 — 跨学科平台迁移与二次制度转型** 随着微电子产业研发联合体重要性回落，大学研究型中心展现出超越纯产业联盟的结构性灵活性，迅速将微细加工装备与工艺能力迁移至生物芯片（DNA Microarray）、生物微机电（Bio-MEMS）与纳米科技等新兴产业领域。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 297–299)]]

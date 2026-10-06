@@ -12082,6 +12082,19 @@
     ]
   },
   {
+    "title": "Academic Entrepreneurship",
+    "type": "concept",
+    "path": "wiki/concepts/university-industry-collaboration/Academic Entrepreneurship.md",
+    "aliases": [
+      "学术创业",
+      "学术企业家精神",
+      "学术制度创业",
+      "academic institutional entrepreneurship",
+      "academic entrepreneur",
+      "学术创业者"
+    ]
+  },
+  {
     "title": "Academic Health System",
     "type": "concept",
     "path": "wiki/concepts/university-industry-collaboration/Academic Health System.md",
@@ -28917,6 +28930,17 @@
     ]
   },
   {
+    "title": "Center for Integrated Systems",
+    "type": "fact",
+    "path": "wiki/facts/us/Center for Integrated Systems.md",
+    "aliases": [
+      "集成系统中心",
+      "斯坦福集成系统中心",
+      "Stanford Center for Integrated Systems",
+      "Stanford CIS"
+    ]
+  },
+  {
     "title": "Clearinghouse for Military Family Readiness Continuum of Evidence",
     "type": "fact",
     "path": "wiki/facts/us/Clearinghouse for Military Family Readiness Continuum of Evidence.md",
@@ -29296,6 +29320,19 @@
     ]
   },
   {
+    "title": "National Research and Resource Facility for Submicron Structures",
+    "type": "fact",
+    "path": "wiki/facts/us/National Research and Resource Facility for Submicron Structures.md",
+    "aliases": [
+      "国家亚微米结构研究与设施中心",
+      "NRRFSS",
+      "康奈尔亚微米设施中心",
+      "康奈尔纳米加工设施",
+      "Cornell Nanofabrication Facility",
+      "CNF"
+    ]
+  },
+  {
     "title": "National Research Council",
     "type": "fact",
     "path": "wiki/facts/us/National Research Council.md",
@@ -29426,6 +29463,17 @@
       "半导体研究公司",
       "SRC",
       "半导体研究联合体"
+    ]
+  },
+  {
+    "title": "Silicon Structures Project",
+    "type": "fact",
+    "path": "wiki/facts/us/Silicon Structures Project.md",
+    "aliases": [
+      "硅结构计划",
+      "SSP",
+      "加州理工硅结构计划",
+      "Caltech Silicon Structures Project"
     ]
   },
   {
@@ -31870,6 +31918,11 @@
     "title": "Argument_Brown_Greany_2018_LPS",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md"
+  },
+  {
+    "title": "Argument_Mody_2017_MOH",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Management & Organizational History/Argument_Mody_2017_MOH.md"
   },
   {
     "title": "Argument_Ryabyy_2024_Maneto",

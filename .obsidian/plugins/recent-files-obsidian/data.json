@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Mody_2017_MOH",
+      "path": "wiki/arguments/journal-articles/Management & Organizational History/Argument_Mody_2017_MOH.md"
+    },
+    {
       "basename": "Argument_Bulfone_2024_IAI",
       "path": "wiki/arguments/reports-policy-documents/Argument_Bulfone_2024_IAI.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "A Strategy for American Innovation 2011",
       "path": "wiki/facts/us/A Strategy for American Innovation 2011.md"
-    },
-    {
-      "basename": "template-fact-policy",
-      "path": "wiki/templates/template-fact-policy.md"
     }
   ],
   "omittedPaths": [],
