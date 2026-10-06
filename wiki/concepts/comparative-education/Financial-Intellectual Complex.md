@@ -8,7 +8,7 @@ aliases:
 summary: "由乔尔·萨莫夫（Joel Samoff）提出、用以剖析世界银行等国际金融组织霸权机制的批判性概念。它揭示了多边信贷附加条件与定向委托研究之间的深度绑定，通过雇佣专家共同体与新古典经济学、人力资本理论及厂商理论，将投入产出与收益率分析裁定为唯一合法的方法论标准，重塑发展中国家的教育政策议程。"
 type: concept
 domain: "comparative-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

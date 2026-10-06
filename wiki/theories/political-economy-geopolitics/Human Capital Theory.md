@@ -7,7 +7,7 @@ aliases:
 summary: "将教育与培训视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论。二战后在冷战地缘博弈中成为经合组织（OECD）推行技术官僚式人力规划与世界银行构建跨国放贷指标帝国的核心理论支柱；在创新经济学中阐明了重大工程实战历练与冷战大学研究生流动构筑高科技产业实体技术转移与人才生态的微观机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 60
+theory_related_count: 61
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -88,7 +88,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Human Capital Theory

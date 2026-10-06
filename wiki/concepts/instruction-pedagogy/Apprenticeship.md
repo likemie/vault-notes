@@ -11,7 +11,7 @@ aliases:
 summary: "一种将技能习得深嵌于工作场所实践操作与人际互动中的职业教育与技能形成制度；强调通过熟练工匠带徒传艺将难以编码的隐性知识有效传递；在 19 世纪普鲁士国家协调工业赶超中开创了内生能力积累的典范；在 21 世纪现代产业战略中，学徒制演化为政府分配公共资助、保障劳工福祉与重塑战略制造产能的制度化附加条件与关键人力资本支柱。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

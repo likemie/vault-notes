@@ -8,7 +8,7 @@ aliases:
 summary: "波特提出的经典战略经济学理论，认为国家竞争优势并非由先天生产要素禀赋决定，而是通过高度本地化的产业集群、有效国内竞争、高标准需求与创新生态所共同创造与维持；在当代地缘经济学与现代产业政策中，该理论被进一步拓展为国家通过战略性干预主动重塑关键供应链韧性与科技主权的核心地缘想象与政策基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

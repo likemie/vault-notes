@@ -7,10 +7,10 @@ aliases:
 summary: "由彼得·埃文斯提出的发展型国家能力核心概念，指国家官僚机构既具备不受狭隘特殊利益集团俘获的韦伯式精英功绩制自主性（Autonomy），又通过制度化网络与产业界、科学家及社会主体保持密集沟通与信息协同（Embeddedness）的辩证治理构型；在使命导向政策与 21 世纪现代产业战略中，构成了国家专业化执行机构（如芯片项目办公室）在深度掌握产业真实技术动态的同时维护公共价值与护栏约束的关键制度基石。"
 type: concept
 domain: "science-policy"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/science-policy
   - state-capacity
