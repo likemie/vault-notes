@@ -104,6 +104,7 @@ updated: 2026-10-06
 > - **资本纪律与公共收益分享机制（Capital Discipline & Profit-Sharing）** 明确禁止受资助企业动用补贴资金回购本公司股票，并对超出商业预期的超额利润设置公共返还机制，实现公共与私人部门的风险收益对等。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
 > - **国家安全与地缘护栏条款（National Security Guardrails）** 设立 10 年期具有法律约束力的“护栏条款”，严禁受资助芯片制造企业在特定受关切国家扩大先进制程产能超过 5%，防范技术外溢与地缘反噬。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 8)]]
 > - **需求拉动与本土采购含量要求（Domestic Content & Demand Pull）** 通过立法（如《[[Build America, Buy America Act|以美国制造为荣法案]]》BABA）硬性要求联邦资助项目使用本土钢铁与建材，或将最高清洁税收抵免与本土[[Assemblage|组装]]配额绑定。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–14)]]
+- **集中强约束 vs. 危机激活弱约束的跨国体制分水岭** 比较产业政策分析表明，附加条件的严苛度高度依附于治理体制的集权程度：美国依托中央财政直接拨款建立起涵盖国家安全护栏、劳工现行工资、托儿保障、禁止股票回购及超额利润分享的全套集中式强约束；而欧盟因缺乏统领性财政工具，主要依托[[Important Projects of Common European Interest|IPCEI]]下的利润回缴机制以及仅在经认定的供应链突发危机状态下才激活的信息披露与本土订单优先权指令，整体约束效力显著弱于美国。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 14–17)]]
 
 > [!logic-map]- 附加条件在现代产业战略中的契约治理逻辑
 > ```mermaid
@@ -216,6 +217,7 @@ updated: 2026-10-06
 > | 《[[CHIPS and Science Act\|芯片与科学法案]]》（CHIPS Act） | 390 亿美元制造补贴 ＋ 110 亿美元研发基金 | 劳动力培育、资本纪律、利润分享、地缘护栏 | 申请 >1.5 亿美元项目需提供托儿计划与[[Apprenticeship\|注册学徒制]]；10 年内禁止关切国先进制程扩产 >5%；禁止回购股票 | 成功拉动全球巨头在美投资超 2000 亿美元，但早期面临代工厂文化与合规磨合 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 8–10)]] |
 > | 《[[Inflation Reduction Act\|通胀削减法案]]》（IRA） | 3690 亿美元清洁能源与气候转型税收激励 | 现行工资（Prevailing Wage）、注册学徒工时 | 清洁能源项目满足法定现行工资及注册学徒工时比例，可获得基准税率 5 倍（最高 30%）的投资/生产税收抵免 | 极大调动私营清洁能源投资，同时推动工会高薪与注册学徒培训规模化增长 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 9, 13)]] |
 > | 《[[Infrastructure Investment and Jobs Act\|两党基础设施法]]》（IIJA） | 1.2 万亿美元联邦基础设施专项拨款 | 《[[Build America, Buy America Act\|以美国制造为荣法案]]》（BABA） | 所有联邦资助项目使用的钢铁、制造品与建材必须 100% 在本土生产；推行分阶段豁免过渡期 | 创造数百亿美元本土采购内生需求，需妥善处理特定高端部件短期供给瓶颈 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 12–14)]] |
+> | 美欧半导体法案附加条件对比 | 美国 CHIPS Act vs. 欧盟 Chips Act | 美方全面硬性绑定（地缘护栏、劳工标准、分红回购禁令、超额利润分成）；欧方去中心化弱约束（IPCEI 利润回缴、危机期应急优先订单） | 揭示美国集中式法定强约束与欧盟去中心化弱约束的制度分水岭，指出多层级治理制约了欧盟附加条件的规制效能 | [[Argument_Bulfone_2024_IAI\|(Bulfone et al., 2024, pp. 14–17)]] |
 
 ---
 
@@ -238,3 +240,4 @@ updated: 2026-10-06
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 深度剖析美国现代产业战略（CHIPS、[[International Reading Association|IRA]]、[[Infrastructure Investment and Jobs Act|IIJA]]）中附加条件与护栏条款的制度设计、执行挑战与[[Public Value|公共价值]]产出逻辑。
+> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 比较美欧半导体产业政策中的附加条件设计，揭示美国集中式强力规制（地缘护栏、劳工标准、分红禁令、利润分成）与欧盟去中心化弱约束（IPCEI 利润回缴、危机期应急优先订单）的机制分殊与效能差异。

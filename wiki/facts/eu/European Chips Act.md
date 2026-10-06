@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-06
 ---
 
 # European Chips Act
@@ -147,10 +147,13 @@ updated: 2026-10-04
 > - **打破国家援助禁忌** 成功推动法国意法/格芯项目与德国[[Taiwan Semiconductor Manufacturing Corporation|台积电]] ESMC 项目落地，开创了欧盟成员国数十亿欧元直接资助半导体外资先导工厂的政策先例。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]
 > - **巩固欧洲特色工艺与汽车半导体基底** 稳固了 12nm–28nm 车规级微控制器与功率半导体的本地供给，降低了欧洲汽车制造业遭遇突发断链的系统风险。
 > - **强化前沿研发试验平台领导力** IMEC 亚 2nm 试验线获得欧盟与成员国联合重点注资，维持了欧洲在上游半导体基础工艺与设备材料测试领域的全球核心地位。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 98)]]
+> - **协调者角色与多层级动员局限** 欧盟委员会因缺乏超国家财政税收主权，在法案中主要作为跨国与跨部门生产网络的“协调者”（Orchestrator）；法案高度依赖成员国本国财政在第二支柱及[[Important Projects of Common European Interest|IPCEI ME/CT]]框架下的定向注资（14 国出资 81 亿欧元），容易因成员国财政实力差距诱发单一市场碎片化。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 
 > [!stat-cards]- 核心数据
-> - **430 亿欧元** 法案计划动员的公共与私人总投资预算规模。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]
+> - **33 亿 vs. 430 亿欧元** 来自欧盟共同预算的实际直接拨款（主要由既有研发资金调配），与法案计划动员的公共与私人预测总投资规模（涵盖 112 亿公共与 320 亿私人投资）形成鲜明反差。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 13)]]
 > - **20%** 欧盟设定的 2030 年全球半导体制造市场份额战略目标（2020 年仅为 9%）。
+> - **4 倍扩产** 考虑全球芯片市场高速增长，欧洲实现 20% 目标实际需将既有产能扩增 4 倍。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 12)]]
+> - **81 亿欧元** 14 个成员国在配套的[[Important Projects of Common European Interest|IPCEI ME/CT]]项目中承诺提供的国家援助规模（预计撬动 137 亿私人投资）。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 > - **29 亿欧元** 法国政府向意法半导体与格芯 Crolles 新厂提供的国家援助金额。
 > - **超 100 亿欧元** 台积电德累斯顿 ESMC 晶圆厂总投资规模（德国政府补贴约 50 亿欧元）。
 

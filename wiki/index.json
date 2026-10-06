@@ -8786,6 +8786,17 @@
     ]
   },
   {
+    "title": "Strategic Autonomy",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Strategic Autonomy.md",
+    "aliases": [
+      "战略自主",
+      "开放战略自主",
+      "Open Strategic Autonomy",
+      "欧洲战略自主"
+    ]
+  },
+  {
     "title": "Technological Catch-up",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Technological Catch-up.md",
@@ -15914,6 +15925,16 @@
     "aliases": [
       "比较性元综合",
       "比较性元分析"
+    ]
+  },
+  {
+    "title": "Comparative Policy Analysis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Comparative Policy Analysis.md",
+    "aliases": [
+      "比较政策分析",
+      "比较产业政策分析",
+      "Comparative Policy Design"
     ]
   },
   {
@@ -24587,6 +24608,18 @@
     ]
   },
   {
+    "title": "Important Projects of Common European Interest",
+    "type": "fact",
+    "path": "wiki/facts/eu/Important Projects of Common European Interest.md",
+    "aliases": [
+      "欧洲共同利益重要项目",
+      "IPCEI",
+      "Important Project of Common European Interest",
+      "IPCEI ME/CT",
+      "微电子与通信技术欧洲共同利益重要项目"
+    ]
+  },
+  {
     "title": "Tuning Project",
     "type": "fact",
     "path": "wiki/facts/eu/Tuning Project.md",
@@ -32134,6 +32167,11 @@
     "title": "Argument_Bergeron_2015_TeachingTOK",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/Argument_Bergeron_2015_TeachingTOK.md"
+  },
+  {
+    "title": "Argument_Bulfone_2024_IAI",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/Argument_Bulfone_2024_IAI.md"
   },
   {
     "title": "Argument_ONeill_2016_Report",
