@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_display_title: "Chapter four: Industry and business sector"
 argument_kind: "book-chapter"
-argument_related_count: 44
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -60,7 +60,6 @@ related_concepts:
   - "[[Industry Affiliate Program]]"
   - "[[Responsible Conduct of Research]]"
   - "[[Epistemic Resources]]"
-  - "[[Governance by Spin]]"
 related_methods:
   - "[[Case Study]]"
   - "[[Focus Group]]"
@@ -478,7 +477,7 @@ updated: 2026-09-13
 ## 自述局限
 
 > [!warning]
-> 本章分析主要聚焦于英国大中型商业研发企业、生物医药与前沿人工智能实验室以及旗舰型第三部门慈善组织的公众参与经验；对于体量巨大但资金链极度紧绷的高科技衍生初创企业（University [[Governance by Spin\|Spin]]-Outs）和中小型研发企业（Small and Medium-sized Enterprises, SMEs），如何在资源匮乏和生存压力下开展实质性公众参与，报告仅提出了依托孵化器共享机制的初步方向，未提供各垂直行业的专属支持细则；此外，跨国工业集团如何在不同主权国家的多元规制框架与文化习惯下协调一致的公众参与政策，仍有待未来跨国实证研究的深入拓展。（pp. 72, 77）
+> 本章分析主要聚焦于英国大中型商业研发企业、生物医药与前沿人工智能实验室以及旗舰型第三部门慈善组织的公众参与经验；对于体量巨大但资金链极度紧绷的高科技衍生初创企业（University Spin-Outs）和中小型研发企业（Small and Medium-sized Enterprises, SMEs），如何在资源匮乏和生存压力下开展实质性公众参与，报告仅提出了依托孵化器共享机制的初步方向，未提供各垂直行业的专属支持细则；此外，跨国工业集团如何在不同主权国家的多元规制框架与文化习惯下协调一致的公众参与政策，仍有待未来跨国实证研究的深入拓展。（pp. 72, 77）
 
 ---
 

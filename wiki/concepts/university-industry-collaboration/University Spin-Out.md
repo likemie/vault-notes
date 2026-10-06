@@ -11,7 +11,7 @@ aliases:
 summary: "基于大学研究项目产生的知识产权而创建的初创企业，区别于学生宿舍创业，面临 IP 所有权约束、风险融资缺口和技术就绪度不足等结构性挑战"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,7 +21,6 @@ tags:
   - "theme/innovation"
   - "level/higher-education"
 related_concepts:
-  - "[[Governance by Spin]]"
   - "[[Technology Transfer]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Performance Indicators]]"
@@ -45,7 +44,7 @@ updated: 2026-10-06
 ## 定义
 
 > [!info]
-> 大学衍生企业（University [[Governance by Spin\|Spin]]-Out）是基于大学研究项目中产生的知识产权（Intellectual Property, IP）而创建的初创企业，通常始于实验室研究项目，在获得初步验证后"跃入"市场（p.142）。与传统认知中将大学创业等同于学生在宿舍产生创意然后辍学创业的故事不同，大学衍生企业的路径漫长而艰难，依赖团队的坚持和基于核心科学的市场输入，而非个人灵感与才华（pp.141-142）。
+> 大学衍生企业（University Spin-Out）是基于大学研究项目中产生的知识产权（Intellectual Property, IP）而创建的初创企业，通常始于实验室研究项目，在获得初步验证后"跃入"市场（p.142）。与传统认知中将大学创业等同于学生在宿舍产生创意然后辍学创业的故事不同，大学衍生企业的路径漫长而艰难，依赖团队的坚持和基于核心科学的市场输入，而非个人灵感与才华（pp.141-142）。
 
 > [!quote]
 > 将聪明的大学生辍学创建下一个 Facebook 的场景，与一位博士后埋头在实验室研究救命的疾病疗法或减碳技术的场景混为一谈是不恰当的。"事实上，大学衍生企业面临的成功几率如此之低，以至于成功的案例才是真正的'独角兽'（Uni-corns）"（p.142）。

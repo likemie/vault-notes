@@ -7,7 +7,7 @@ title: "Argument_Logar_2014_Minerva"
 argument_key: "Argument_Logar_2014_Minerva"
 argument_display_title: "Semiconductor Research Corporation: A case study in cooperative innovation partnerships"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ sources:
   - "[[sources/Logar_2014_Minerva/Logar_2014_Minerva|Logar_2014_Minerva]]"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Membership-based Research Consortium]]"
   - "[[Precompetitive Research]]"
   - "[[Mentorship]]"
@@ -83,7 +84,7 @@ tags:
 
 > [!concept-lens] 阅读透镜
 > - **对象** 美国半导体研究公司（Semiconductor Research Corporation, SRC）及其下辖四大专项计划：全球研究协作（Global Research Collaboration, GRC）、[[Focus Center Research Program|焦点研究中心计划]]（Focus Center Research Program, FCRP）、纳米电子学研究倡议（Nanoelectronics Research Initiative, NRI）与能源研究倡议（Energy Research Initiative, ERI），以及其连接的成员企业、联邦出资机构与全美高校科研团队。
-> - **张力** 战后单一企业大实验室（如[[Bell Labs|贝尔实验室]]）全链条模式在激烈市场竞争下的解体，与高校自由探索研究难以契合产业长周期共性技术需求之间的鸿沟；以及企业横向联合中的技术外泄顾虑与科研成果共享需求之间的张力。
+> - **张力** 战后单一企业大实验室（如[[Bell Labs|贝尔实验室]]）全链条模式在激烈市场竞争下的解体，与高校[[Curiosity-Driven Research|自由探索研究]]难以契合产业长周期共性技术需求之间的鸿沟；以及企业横向联合中的技术外泄顾虑与科研成果共享需求之间的张力。
 > - **贡献** 系统解构了[[Membership-based Research Consortium|会员制研发联合体]]在战略情报获取、决策灵活性、多时域项目组合（近中远期）与高素质人才输送等维度的微观运作机制，提出了创新机构提升效能的三大核心组织战略，并客观剖析了该模式面临的中小企业参与门槛及跨行业迁移边界。
 
 ---

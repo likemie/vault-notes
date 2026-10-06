@@ -65,7 +65,7 @@ updated: 2026-09-18
 
 > [!info]
 > SID 的建设遵循了一套标准化的多边合作程序（pp.162-163）：
-> - [[Community Innovation Survey\|CIS]] 2 和 CIS 3 的数据通过与各国数据提供方（国家统计机构或经授权的研究团队）的双边合作协议获取
+> - CIS 2 和 CIS 3 的数据通过与各国数据提供方（国家统计机构或经授权的研究团队）的双边合作协议获取
 > - CIS 4 的数据主要从 Eurostat 获取（英国除外）
 > - 数据库的[[Assemblage\|组装]]使用通用协议，沿用国家统计办公室的标准化程序
 > - 货币[[Variable\|变量]]使用 GDP 平减指数（基准年 2002）和购买力平价（Purchasing Power Parity，[[Public-Private Partnership in Research\|PPP]]）转换进行通胀调整和跨国可比化

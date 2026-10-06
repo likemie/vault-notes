@@ -14,7 +14,7 @@ subtype: policy
 region: japan
 fact_region: "japan"
 fact_kind: "policy"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Tokyo Bay Area]]"
   - "[[Technology Transfer Office]]"
   - "[[Technology Transfer]]"
+  - "[[Academic Entrepreneurship]]"
   - "[[Emergence]]"
   - "[[Innovation Ecosystem]]"
 related_theories: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-06
 ---
 
 # Act on the Promotion of Technology Transfer from Universities to Private Business Operators
@@ -75,7 +76,7 @@ updated: 2026-10-03
 > [!citation-card] 大学[[Technology Transfer|技术转让]]促进法的法治功能
 > 日本政府出台《大学技术转让促进法》，在高校建立大学科技转让机构（TLO）。该机构以公司法人形式独立存在，负责挖掘、评估和选择具有产业潜能的大学研究成果并转让给企业；同时推动筑波大学等高校深化改革，允许教师创业并兼任公司董事长且对持股比例不设限制。
 >
-> *The Act on the Promotion of Technology Transfer from Universities established Technology Licensing Organizations (TLOs) as independent corporate entities, responsible for identifying, evaluating, and transferring university research to industry, while removing restrictions on academic entrepreneurship and equity holding.* [[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
+> *The Act on the Promotion of Technology Transfer from Universities established Technology Licensing Organizations (TLOs) as independent corporate entities, responsible for identifying, evaluating, and transferring university research to industry, while removing restrictions on [[Academic Entrepreneurship]] and equity holding.* [[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 
 ---
 

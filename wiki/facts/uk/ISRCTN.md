@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 19
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Statistical Analysis Plan]]"
   - "[[Hypothesis]]"
+  - "[[Reproducibility Crisis]]"
   - "[[Chain of Evidence]]"
   - "[[Variable]]"
   - "[[Screening Off]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-10-06
 ---
 
 # ISRCTN
@@ -71,7 +72,7 @@ updated: 2026-09-15
 > - **立项时间 / 周期** 2000 年正式启动上线，已持续常态化稳定运行 25 年以上。
 > - **发起方与管理架构** 由伊恩·查尔默斯发起创设，由 BioMed Central 提供技术支持与日常运维，受英国卫生与社会保障部（DHSC）认可，并对接国际医学期刊编辑委员会（ICMJE）审查标准。
 > - **覆盖范围与对象** 早期聚焦全球人体临床医学与药物试验；自 2010 年代起，广泛向教育学、犯罪学、社会工作与公共政策等复杂社会干预随机对照试验（RCT）延伸，覆盖全球数十万项试验档案。
-> - **核心问题导向** 针对长期困扰实证研究的“抽屉效应”（File Drawer Problem）、假阳性虚报、事后篡改[[Hypothesis\|假设]]（HARKing）以及选择性汇报等严重的科学可复现性危机。
+> - **核心问题导向** 针对长期困扰实证研究的“抽屉效应”（File Drawer Problem）、假阳性虚报、事后篡改[[Hypothesis\|假设]]（HARKing）以及选择性汇报等严重的科学[[Reproducibility Crisis|可复现性危机]]。
 
 ---
 

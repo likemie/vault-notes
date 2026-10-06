@@ -12,7 +12,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
   - region/eu
   - level/higher-ed
 related_concepts:
+  - "[[Mission-Oriented Research]]"
   - "[[Market Failure]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Grand Challenges]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-10-03
+updated: 2026-10-06
 ---
 
 # Horizon Europe Missions
@@ -63,7 +64,7 @@ updated: 2026-10-03
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 欧盟委员会（European Commission）于 2018 年委托玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）起草政策蓝图《欧盟使命导向研究与创新》（*Mission-Oriented Research & Innovation in the European Union*），并于 2021 年作为“[[Horizon Europe|地平线欧洲]]”（Horizon Europe, 2021–2027，总预算 955 亿欧元）框架计划的核心创新支柱正式立法颁布实施。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
+> - **发布时间 / 发布主体** 欧盟委员会（European Commission）于 2018 年委托玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）起草政策蓝图《欧盟使命导向研究与创新》（*[[Mission-Oriented Research]] & Innovation in the European Union*），并于 2021 年作为“[[Horizon Europe|地平线欧洲]]”（Horizon Europe, 2021–2027，总预算 955 亿欧元）框架计划的核心创新支柱正式立法颁布实施。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
 > - **适用地区 / 对象** 覆盖欧盟 27 个成员国及准入联系国的高等院校、科研机构、跨国企业、中小微企业、地方政府与非营利组织。
 > - **问题背景** 欧洲长期面临创新投入转化率低（“欧洲悖论”）、气候变化与老龄化等复杂社会挑战日益紧迫，以及传统分散资助模式缺乏战略聚焦与公众感知度的体制困境。
 > - **制度位置** 继 Horizon 2020 之后欧盟第九代研究与创新框架计划的旗舰机制，标志着欧洲科技创新政策从被动修补[[Market Failure|市场失灵]]（Frame 1/2）全面跃迁为主动引领社会技术转型的[[Mission-Oriented Innovation Policy|使命导向型创新政策]]（Frame 3）。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–806)]]；[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 48–49)]]

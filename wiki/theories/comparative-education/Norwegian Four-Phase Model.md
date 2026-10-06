@@ -9,10 +9,10 @@ aliases:
 summary: "由瓦尔·拉斯特基于挪威自1840年代以来的教育改革委员会制度实践提炼的跨国政策借用分析框架，涵盖发起调研、凝聚共识、确立法律框架与推进实施四个阶段，阐明主权国家如何通过常设专门委员会与民主协商白皮书，实现高度自主且具制度韧性的外部经验筛选与本土化重塑。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 16
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/globalization
   - subject/comparative-education
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
 related_theories: []
 related_methods:
+  - "[[Comparative Policy Analysis]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-06
 ---
 
 # Norwegian Four-Phase Model
@@ -55,7 +56,7 @@ updated: 2026-10-01
 > [!theory-position] 理论定位
 > - **解释对象** 主权国家如何在长时段历史进程中，以制度化机制主动吸收外部世界教育经验，并将其有机转化为本国民主福利教育体系的政策形成与借用机制。
 > - **理论问题** 传统[[Policy Borrowing|政策借用]]理论常将制度借用简化为政策精英突发奇想的权宜之计，或是将后发国家的改革视为面对西方霸权的被动适应，遮蔽了主权国家在跨国政策吸收中的制度化审慎机制与民主协商能力。
-> - **理论类型** 基于历史制度主义与比较政策分析的中观过程解释框架。
+> - **理论类型** 基于历史制度主义与[[Comparative Policy Analysis|比较政策分析]]的中观过程解释框架。
 > - **知识位置** 隶属于比较教育学中的[[Policy Borrowing|教育借用]]与[[Influences Across Cultures|跨文化影响]]理论谱系，与牛津大学戴维·菲利普斯（[[David Phillips]]）的四阶段政策借用模型构成东西方学术对话互鉴。
 
 > [!claim] 核心判断

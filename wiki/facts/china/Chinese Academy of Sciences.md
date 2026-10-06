@@ -11,7 +11,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Big Science]]"
   - "[[Grandes Ecoles]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Knowledge Production]]"
 related_facts:
   - "[[National Science Foundation]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-03
+updated: 2026-10-06
 ---
 
 # Chinese Academy of Sciences
@@ -73,7 +74,7 @@ updated: 2026-10-03
 
 > [!tension] 科学院大体量集聚 vs 建设美式世界一流大学
 > - **科研力量的高度院所集聚**
->   与美国将 80% 以上基础研究经费注入[[Grandes Ecoles|大学校]]园截然不同，中国学术部门研发的主力长期保留在中科院系统的国家级研究所中；高校虽然在师生规模上具有绝对优势，但在人均[[Megascience Installations|大科学装置]]占有率与纯基础研究财政盘子上面临中科院的有力竞争。
+>   与美国将 80% 以上基础研究经费注入[[Grandes Ecoles|大学校]]园截然不同，中国学术部门研发的主力长期保留在中科院系统的国家级研究所中；高校虽然在师生规模上具有绝对优势，但在人均[[Megascience Installations|大科学装置]]占有率与[[Curiosity-Driven Research|纯基础研究]]财政盘子上面临中科院的有力竞争。
 > - **美式[[Research Universities|研究型大学]]模式争鸣**
 >   中国高校在迈向世界一流大学（如北大、清华等）的过程中，围绕究竟应当延续国家部委集权与科学院领衔的欧陆/苏联传统，还是全面采纳美式“全面去中心化竞争、教授自由流动、前沿科研深度熔铸于大学全学科教学”的办学[[Paradigm|范式]]，学界与政策制定层展开了长达数十年的深入反思与制度探索。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 43)]]
 

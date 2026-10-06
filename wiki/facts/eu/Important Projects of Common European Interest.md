@@ -12,7 +12,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
   - theme/semiconductor
   - theme/state-aid
 related_concepts:
+  - "[[Orchestrator State]]"
   - "[[Emergence]]"
   - "[[Research Translation]]"
   - "[[Strategic Autonomy]]"
@@ -66,7 +67,7 @@ updated: 2026-10-06
 ## 方案设计与运行机制
 
 > [!claim] 核心干预假说与机制
-> IPCEI 机制依托欧盟委员会的“产业政策协调者”（Orchestrator）职能，以放宽国家援助审查为法律杠杆，激励分散的主权国家财政向具备跨国外部性的前沿研发与首度工业部署集中，并通过附带利润回缴（Claw-back）等软性附加条件维护公私利益对等。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
+> IPCEI 机制依托欧盟委员会的“[[Orchestrator State|产业政策协调者]]”（Orchestrator）职能，以放宽国家援助审查为法律杠杆，激励分散的主权国家财政向具备跨国外部性的前沿研发与首度工业部署集中，并通过附带利润回缴（Claw-back）等软性附加条件维护公私利益对等。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 
 > [!policy-design]- 方案设计
 > - **项目目标** 赋能欧洲数字化与绿色双重转型，重点攻关高能效与节约资源的微电子解决方案、先进封装和制造工艺，全面夯实欧洲在通信芯片与工业半导体领域的底层硬件自给率。
@@ -94,7 +95,7 @@ updated: 2026-10-06
 ## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
-> - **欧洲联盟委员会（European Commission）** 作为“产业政策协调者”，负责对成员国联合提报的补贴方案进行反垄断与竞争中立审查，监督技术外溢承诺，确保项目符合“泛欧利益”。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
+> - **欧洲联盟委员会（European Commission）** 作为“[[Orchestrator State|产业政策协调者]]”，负责对成员国联合提报的补贴方案进行反垄断与竞争中立审查，监督技术外溢承诺，确保项目符合“泛欧利益”。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 > - **出资成员国政府（14 Member States）** 动用各自国家财政筹措并下达具体补贴资金，承担主要财政风险，并依据协议行使超额利润回缴权利。
 > - **主导产业巨头与中小企业** 意法半导体（STMicroelectronics）、恩智浦（NXP）、英飞凌（Infineon）等 56 家核心企业，牵头展开传感器、先进封装和节能通信芯片的试验部署。
 > - **大学与公共研究机构** 30 余家顶尖高校与科研机构（如比利时微电子研究中心 IMEC、法国 CEA-Leti 等），承担基础前沿工艺验证与前导[[Research Translation|技术转化]]任务。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 6, 13–14)]]
@@ -165,5 +166,5 @@ updated: 2026-10-06
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 深度解构欧盟微电子与通信技术重大项目（IPCEI ME/CT）的治理架构、出资机制与利润回缴条款，剖析欧委会作为产业政策协调者的制度局限与单一市场分裂风险。
+> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 深度解构欧盟微电子与通信技术重大项目（IPCEI ME/CT）的治理架构、出资机制与利润回缴条款，剖析欧委会作为[[Orchestrator State|产业政策协调者]]的制度局限与单一市场分裂风险。
 

@@ -22,7 +22,6 @@ related_concepts:
   - "[[Third Mission]]"
   - "[[Learning by Doing]]"
   - "[[Modern Industrial Policy]]"
-  - "[[Governance by Spin]]"
   - "[[Problem Solving]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer Office]]"
@@ -33,6 +32,7 @@ related_concepts:
   - "[[Innovation Park]]"
   - "[[Academic Freedom]]"
   - "[[General Education]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Public Value]]"
   - "[[Innovation Ecosystem]]"
   - "[[Vertical Disintegration]]"
@@ -83,7 +83,7 @@ updated: 2026-10-05
 > *Also, diversification of supply chains for insurance purposes is likely to be costly, including if it results in plants operating (and supply chains clustering) at smaller scale or in more places that result in fewer agglomeration externalities.*
 
 > [!boundary]- 概念边界
-> - 不等于 **[[Technology Transfer|技术转移]]（Technology Transfer）** — 技术转移主要是以知识产权法为基础的线性商业化机制（专利许可、技术转让、创办 [[Governance by Spin|Spin]]-off），是知识交流的一个子集；知识交流承认非专利性隐性知识（Tacit Knowledge）与非交易性学术网络互动的巨大创新价值。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 44–46)]]
+> - 不等于 **[[Technology Transfer|技术转移]]（Technology Transfer）** — 技术转移主要是以知识产权法为基础的线性商业化机制（专利许可、技术转让、创办 Spin-off），是知识交流的一个子集；知识交流承认非专利性隐性知识（Tacit Knowledge）与非交易性学术网络互动的巨大创新价值。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 44–46)]]
 > - 不等于 **科学普及与单向传播（Public Understanding of Science）** — 科学普及主要是单向的自上而下知识灌输，而知识交流建立在大学与产业伙伴的平等双向对话与协同[[Problem Solving|问题解决]]之上。
 > - 不受限于 **单一组织内部交流** — 知识交流强调跨越学术象牙塔与企业边界的制度间穿透，特别是高频跨企业人才流动对产业技术外溢的催化。
 
@@ -182,7 +182,7 @@ updated: 2026-10-05
 > > [!axis] 商业化功利主义侵蚀[[Academic Freedom|学术自由]] vs 服务经济社会的社会契约
 > > 深度推进知识交流是否会诱使大学偏离基础科学探索与博雅[[General Education|通识教育]]初衷？
 > >
-> > - **学术纯洁性批判** 担忧过分强调服务产业和经济回报将导致人文学科与自由探索型研究边际化，使大学沦为企业的低成本外包研发部门。
+> > - **学术纯洁性批判** 担忧过分强调服务产业和经济回报将导致人文学科与[[Curiosity-Driven Research|自由探索型研究]]边际化，使大学沦为企业的低成本外包研发部门。
 > > - **现代大学社会契约论（[[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]]）** 现代纳税人支持的高等教育必须展现其[[Public Value|公共价值]]；通过广谱知识交流促进社会福祉与经济增长，不仅不排斥基础研究，反而为大学开拓了前沿研究的问题来源。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 41–43)]]
 >
 > > [!axis] 地缘安全管控与跨国开放知识交流的冲突

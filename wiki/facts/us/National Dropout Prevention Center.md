@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 16
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -41,14 +41,13 @@ related_facts:
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[California Evidence Based Clearinghouse for Child Social and Economic Welfare]]"
   - "[[Communities in Schools]]"
-  - "[[Community Innovation Survey]]"
   - "[[Quantum Opportunity Program]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-08-21
+updated: 2026-10-06
 ---
 
 # National Dropout Prevention Center
@@ -108,7 +107,7 @@ updated: 2026-08-21
 
 > [!warning] 跨中心分歧与典型案例
 > NDPC 的“宽进”导向使其评级结论常与其他“严出”机构产生极化对立：
-> - [[Communities in Schools]]（[[Community Innovation Survey\|CIS]]）— NDPC 依据 CIS 在多所学校的长期运行实践与单项准实验，赋予其最高的 **Strong Evidence** 推荐；而 [[What Works Clearinghouse\|WWC]]（评为无明显效果）和 [[Blueprints for Healthy Youth Development\|Blueprints]]（未认证）则给出完全相反的结论，形成全美最著名的证据评级冲突案例([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 25]])。
+> - [[Communities in Schools]]（CIS）— NDPC 依据 CIS 在多所学校的长期运行实践与单项准实验，赋予其最高的 **Strong Evidence** 推荐；而 [[What Works Clearinghouse\|WWC]]（评为无明显效果）和 [[Blueprints for Healthy Youth Development\|Blueprints]]（未认证）则给出完全相反的结论，形成全美最著名的证据评级冲突案例([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 25]])。
 > - [[Quantum Opportunity Program]]（QOP）— NDPC 评为 Strong Evidence，而 WWC 在细分学业域仅认定为 Potentially Positive，展现出机构门槛设定的巨大落差([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 24–25]])。
 
 ---

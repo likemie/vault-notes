@@ -8,7 +8,7 @@ aliases:
 summary: "Donald Campbell等创立的因果推断与效度评估系统理论，确立了内部效度、外部效度、构念效度与统计结论效度四分体系，主张以系统排除替代解释为因果建立前提，并为多质多法（MTMM）收敛效度检验奠定基础。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 52
+theory_related_count: 51
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -74,7 +74,6 @@ related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Communities in Schools]]"
-  - "[[Community Innovation Survey]]"
   - "[[National Dropout Prevention Center]]"
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[Education Endowment Foundation]]"
@@ -84,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-09-23
+updated: 2026-10-06
 ---
 
 # Campbellian Validity Framework
@@ -204,7 +203,7 @@ updated: 2026-09-23
 
 > [!exegesis]- 教育研究例子
 > - **阅读干预的内部效度排除（命题一应用）** 在评估某项小学阅读补救课程时，若干预后阅读流利度提升，研究必须通过随机分配或 ABAB 阶段撤回，排除“学生年龄自然增长带来的阅读发展（成熟）”以及“学区同期开展的图书馆借阅激励计划（历史）”，方能将提分归因于课程本身([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p. 462]])。
-> - **清算中心构念效度分歧（命题三应用）** 针对 [[Communities in Schools]]（[[Community Innovation Survey\|CIS]]）项目，[[National Dropout Prevention Center\|NDPC]] 依据单项准实验将其评为最高级 Strong，而 WWC 在辍学预防域评为 No Discernible Effects，[[Blueprints for Healthy Youth Development\|Blueprints]] 亦未予认证。这一冲突在 Campbellian MTMM 框架下清晰展现了“有效性”这一构念由于各机构综合门槛不同而发生的内涵异化([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 25–26]])。
+> - **清算中心构念效度分歧（命题三应用）** 针对 [[Communities in Schools]]（CIS）项目，[[National Dropout Prevention Center\|NDPC]] 依据单项准实验将其评为最高级 Strong，而 WWC 在辍学预防域评为 No Discernible Effects，[[Blueprints for Healthy Youth Development\|Blueprints]] 亦未予认证。这一冲突在 Campbellian MTMM 框架下清晰展现了“有效性”这一构念由于各机构综合门槛不同而发生的内涵异化([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 25–26]])。
 
 ---
 

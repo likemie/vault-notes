@@ -6,7 +6,7 @@ aliases:
 summary: "一种预设从基础科学到技术开发再到经济增长单向因果链的概念模型；战后主导科技政策资源配置，后因忽视反馈机制、轻视工程发明的前提使能地位而遭受系统性批判"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Total Factor Productivity]]"
   - "[[Market Failure]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Innovation Ecosystem]]"
   - "[[Paradigm]]"
   - "[[Multi-channel Interactive Learning Model]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Linear Model of Innovation
@@ -127,7 +128,7 @@ updated: 2026-10-05
 > **大学使命异化与欧洲悖论** 线性模型诱导政策制定者将大学狭隘地改造为专利生产流水线与商业孵化器，削弱了大学培养高素质批判性人才这一更为根本的知识扩散功能；在[[Total Factor Productivity|全要素生产率]]未达预期时又盲目指责大学转化不力，陷入政策逻辑闭环陷阱。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862, 866–867)]]
 
 > [!claim] Narayanamurti, V. et al.
-> **关键战略发明的资助断档危机** 政策制定者将线性模型与新古典经济学的[[Market Failure|市场失灵理论]]捆绑，规定公共财政只能资助纯基础研究，而技术发明必须交由市场承担；然而需要长期积累、极高资金密度的根本性硬件工艺与工具发明，由于投资回收期长达数十年，私营企业无力承担，政府又因其不是纯科学而拒绝资助，导致国家[[Innovation Ecosystem|创新生态]]发生灾难性的结构性断裂。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
+> **关键战略发明的资助断档危机** 政策制定者将线性模型与新古典经济学的[[Market Failure|市场失灵理论]]捆绑，规定公共财政只能资助[[Curiosity-Driven Research|纯基础研究]]，而技术发明必须交由市场承担；然而需要长期积累、极高资金密度的根本性硬件工艺与工具发明，由于投资回收期长达数十年，私营企业无力承担，政府又因其不是纯科学而拒绝资助，导致国家[[Innovation Ecosystem|创新生态]]发生灾难性的结构性断裂。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 35–36)]]
 
 ---
 

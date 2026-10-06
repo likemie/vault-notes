@@ -10,10 +10,10 @@ aliases:
 summary: "整合 Humphries et al. (2014) 跨领域综述与 Best & Holmes (2010) 三代模型构建的教育研究利用影响因素分析框架，将促成机制与阻碍障壁划分为信息、互动、个体特征、结构与组织、文化五大维度，并揭示供需倒挂与系统性协调机制"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 39
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 40
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theory/research-use
   - theme/knowledge-mobilisation
@@ -49,6 +49,7 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Meta-analysis]]"
   - "[[Questionnaire]]"
+  - "[[Comparative Policy Analysis]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Network Analysis]]"
   - "[[Systematic Review]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-17
+updated: 2026-10-06
 ---
 
 # Typology of Factors Influencing Research Use
@@ -185,7 +186,7 @@ updated: 2026-09-17
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 关系的、情境化的系统治理本体论。[[Research Utilization\|研究利用]]是多维度行动者在特定制度结构与文化网络中互动的结果，而非孤立线性的技术传递。
 > - **[[Epistemology\|认识论]]** [[Critical Realism\|批判实在论]]与[[Pragmatic Paradigm\|实用主义]]认识论。承认证据客观特性的同时，强调行动者的认知图式、组织习惯与政治诉求对证据吸收的决定性过滤作用。
-> - **方法含义** 倡导采用多维度诊断[[Questionnaire\|问卷]]、跨国比较政策分析、系统生态网络映射及质性案例追踪相结合的混合研究设计。
+> - **方法含义** 倡导采用多维度诊断[[Questionnaire\|问卷]]、跨国[[Comparative Policy Analysis|比较政策分析]]、系统生态网络映射及质性案例追踪相结合的混合研究设计。
 > - **不能直接推出的东西** 不能根据某一系统具备促成机制的绝对数量，直接推导出其教育研究利用的高水平；不能证明建立单一维度的干预（如上线开放资源库）必然导致政策或教学行为改变。
 
 > [!theory-use] 如何用于研究

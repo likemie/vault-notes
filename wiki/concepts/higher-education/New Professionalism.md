@@ -7,7 +7,7 @@ aliases:
 summary: "在晚期现代学术审计与新公共管理浪潮中，传统的学术信任与专业伦理被以标准化、可度量和可监控为特征的准契约关系所取代的制度现象"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Blue Skies Research]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Shape-Shifting]]"
   - "[[Academic Freedom]]"
   - "[[Performance Indicators]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-10-06
 ---
 
 # New Professionalism
@@ -62,7 +63,7 @@ updated: 2026-07-03
 > - **师生教学关系的去人格化**
 >   传统的[[Mentorship\|导师制]]和学术沟通被标准化课程手册（Course Books）和辅导记录单存档所[[Disciplina and Doctrina\|规训]]。教学活动被强加了一套统一的流程和文档要求，[[Student-Teacher Relationship\|师生关系]]被转化为一种透明、 managed 且随时可接受外部监控与审计的契约关系（[[Argument_Cowen_2009_CE\|Cowen, 2009, p. 321]]）。
 > - **学术研究价值的工具化与降级**
->   科研活动被紧密绑定于对外部官僚机构显性可见、并可度量的“社会影响”（impact）考核上。无法在短期内产生实用价值的纯粹求真探索，被管理主义贬低并标记为无用和低效的“[[Blue Skies Research\|蓝天研究]]”（blue-sky research），学术追求退缩为符合[[External Auditor\|外部审计]]指标的“执行力”（[[Argument_Cowen_2009_CE\|Cowen, 2009, pp. 321–322]]）。
+>   科研活动被紧密绑定于对外部官僚机构显性可见、并可度量的“社会影响”（impact）考核上。无法在短期内产生实用价值的纯粹求真探索，被管理主义贬低并标记为无用和低效的“[[Blue Skies Research\|蓝天研究]]”（[[Curiosity-Driven Research|Blue-Sky Research]]），学术追求退缩为符合[[External Auditor\|外部审计]]指标的“执行力”（[[Argument_Cowen_2009_CE\|Cowen, 2009, pp. 321–322]]）。
 > - **行政官僚体系对专业权力的剥夺**
 >   由前学者转型的高层经理人（senior managers）与中层管理经理人（manager-managers）共同构建了一个庞大的监督和度量结构。高层经理人专注于榨取学术剩余价值以迎合大学的商业和声望竞争，而中层经理人则通过 Cumbersome 的审计程序将记录保存（record-keeping）塑造成学者的核心日常，剥夺了学术共同体的传统自治权（[[Argument_Cowen_2009_CE\|Cowen, 2009, pp. 320–321]]）。
 

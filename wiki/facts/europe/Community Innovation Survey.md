@@ -1,8 +1,7 @@
 ---
 title: Community Innovation Survey
 aliases:
-  - "CIS"
-  - "欧洲社区创新调查"
+  - 欧洲社区创新调查
 summary: "Eurostat 与欧盟成员国国家统计机构合作开展的统一创新调查，基于 Oslo Manual 方法论，是欧洲创新研究最核心的企业层面数据来源，覆盖产品创新、流程创新、研发支出、创新合作等多个维度"
 type: fact
 subtype: event
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-10-06
 ---
 
 # Community Innovation Survey

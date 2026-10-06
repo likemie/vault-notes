@@ -7,7 +7,7 @@ title: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_key: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_display_title: "Working Out What Works: The Case of the Education Endowment Foundation in England"
 argument_kind: "journal-article"
-argument_related_count: 133
+argument_related_count: 134
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Pride in Learning]]"
   - "[[Document]]"
   - "[[Hypothesis]]"
+  - "[[Reproducibility Crisis]]"
   - "[[Clinical Trial]]"
   - "[[Model Dependency]]"
   - "[[Variable]]"
@@ -303,7 +304,7 @@ updated: 2026-10-04
 
 将研究全流程置于阳光之下，是通过技术根基铲除抽屉效应与模型操纵的第三道制度支柱。（pp. 51–52）
 
-> [!threat] 社会科学实证研究的选择性报告与可复现性危机（Franco et al., 2014; Open Science Collaborative, 2015）
+> [!threat] 社会科学实证研究的选择性报告与[[Reproducibility Crisis|可复现性危机]]（Franco et al., 2014; Open Science Collaborative, 2015）
 > 实证数据显示，学术界正向显著结果的发表概率比零结果高出 40 个百分点；缺乏全程透明锁定的试验极易受事后数据挖掘与模型操纵侵蚀，陷入严重的发表偏倚。
 
 > [!feature] 证据全链条透明与可复现性制度的三大支柱（pp. 51–53）

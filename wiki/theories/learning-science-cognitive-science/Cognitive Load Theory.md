@@ -7,7 +7,7 @@ aliases:
 summary: "由 John Sweller 于 1988 年创立的经典学习与教学设计理论，以人类工作记忆容量有限与长时记忆图式无限为核心架构，解构内在负荷、外在负荷与关联负荷，主张通过减少外在负荷、优化内在负荷以促进图式建构和自动化。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 49
+theory_related_count: 48
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -63,8 +63,7 @@ related_persons:
   - "[[John Sweller]]"
   - "[[Richard E. Mayer]]"
   - "[[Herbert A. Simon]]"
-related_facts:
-  - "[[Community Innovation Survey]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_DeJong_2023_ERR]]"
@@ -74,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 
 # Cognitive Load Theory
@@ -235,4 +234,4 @@ updated: 2026-09-22
 > - **[[Argument_Li_2026_CEAI\|Li et al. (2026)]]** — 将认知负荷理论拓展至生成式 AI 时代，系统揭示大语言模型在[[Structured Teaching\|结构化教学]]中释放外在负荷、在非结构化使用中切除关联负荷（[[Epistemic Friction\|认识论摩擦]]）的双向分化机制。
 > - **[[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]]** — 依托认知负荷理论[[Argument Mapping\|论证图]]形组织器如何通过空间拓扑[[Externalization\|外化]]概念关系、降低瞬时工作记忆负荷，并证实其对[[Higher-Order Thinking Skills\|高阶思维]]的大[[Effect Size\|效应量]]促进（$g = 0.778$）。
 > - **[[Argument_Liu_2026_CHBR\|Liu et al. (2026)]]** — 借助认知负荷理论解释自适应 AI [[AI Agent in Education\|智能体]]对[[Procedural Skill\|程序技能]]（$g = 0.391$）与高阶思维（$g = 0.540$）的差异化赋能机制。
-> - **[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]]** — 从批判政策社会学视角剖析认知负荷理论如何被澳大利亚保守智库 [[Community Innovation Survey\|CIS]] 包装并强制嵌入[[Initial Teacher Training\|初始教师教育]]国家标准。
+> - **[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]]** — 从批判政策社会学视角剖析认知负荷理论如何被澳大利亚保守智库 CIS 包装并强制嵌入[[Initial Teacher Training\|初始教师教育]]国家标准。

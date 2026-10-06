@@ -30,9 +30,9 @@ related_methods: []
 related_persons:
   - "[[John Sweller]]"
 related_facts:
-  - "[[Community Innovation Survey]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Strong Beginnings Report]]"
+  - "[[Community Innovation Survey]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
 confidence: high
@@ -49,7 +49,7 @@ updated: 2026-09-22
 
 > [!event-context] 机构背景
 > - **时间 / 地点** 1976年成立于悉尼，主要活跃于澳大利亚全国政策游说中。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 9]])
-> - **关键主体** 独立研究中心（[[Community Innovation Survey\|CIS]]）、董事会成员及高级研究员詹妮弗·巴金汉博士（Dr Jennifer Buckingham）。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
+> - **关键主体** 独立研究中心（CIS）、董事会成员及高级研究员詹妮弗·巴金汉博士（Dr Jennifer Buckingham）。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **制度背景** 被政策社会学家界定为典型的“保守派右翼倡导型智库”，其财务收支及资金注入来源不对公众公开。
 > - **触发条件** 新自由主义与保守派势力试图绕过公共大学管理，重塑国家教育准入机制与课程导向的政治动员。
 
@@ -67,7 +67,7 @@ updated: 2026-09-22
 ## 关键文件／声明
 
 > [!citation-card]- 智库理念生产机制批判
-> “与美国智库不同，[[Community Innovation Survey\|CIS]] 不仅推广他人提出的思想，还主动生产伪装成研究的出版物。”([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 9]])
+> “与美国智库不同，CIS 不仅推广他人提出的思想，还主动生产伪装成研究的出版物。”([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 9]])
 > 
 > “...the CIS in education in terms of its active funding of research publications, but also how research ideas are promoted... not only promote ideas that are put forward, rather than produce ideas... produce publications that are 'dressed up as research'” (Lingard, 2015, p. 15)
 
@@ -85,7 +85,7 @@ updated: 2026-09-22
 
 > [!actor-grid] 评论视角图
 > - **智库自我包装视角** 将自身定位为捍卫教育科学真理、反对教育学界“低效进步主义教学法”的科学推动者，致力于在学校和教师培训中确立“基于认知科学的高效教学”。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 9]])
-> - **学术与教师教育者视角** 声讨 [[Community Innovation Survey\|CIS]] 生产的报告根本不是同行评审的学术研究，而是带有党派游说偏见的手册，其被强加为法律必修教材严重侵犯了大学教师的学术自主权。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 9–10]])
+> - **学术与教师教育者视角** 声讨 CIS 生产的报告根本不是同行评审的学术研究，而是带有党派游说偏见的手册，其被强加为法律必修教材严重侵犯了大学教师的学术自主权。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 9–10]])
 > - **批判政策社会学视角** 揭示了 CIS 作为[[Policy Network\|政策网络]]（Policy Network）中的关键节点，展示了新自由主义异层治理下，私人资本和游说利益如何通过“证据”包装实现自我隐身。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 
 > [!tension] 争议焦点

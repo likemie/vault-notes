@@ -2,7 +2,6 @@
 title: Governance by Spin
 aliases:
   - 舆论操控
-  - Spin
 summary: "一种试图管理、遏制或使政策争议不可见的治理过程，同时运作于公众感知控制和政策本身的构建两个层面，在教育研究中用于解释国家政策话语为何以及如何将矛盾声明组合进同一份政策文件"
 type: concept
 domain: "political-economy-geopolitics"
@@ -36,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-09-14
+updated: 2026-10-06
 ---
 
 # Governance by Spin

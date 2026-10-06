@@ -10,33 +10,40 @@ aliases:
 summary: "由科学家学术好奇心与纯粹求知欲所驱动的科学探索范式，不预设即时实用目标与交付成果，依赖充分学术自治、同行评议与容忍失败的长周期投入，构成二战后无止境前沿契约的核心基石。"
 type: concept
 domain: "science-policy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 15
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/science-policy
   - theme/basic-research
   - theme/science-policy
   - theme/academic-freedom
 related_concepts:
+  - "[[Paradigm]]"
+  - "[[Hypothesis]]"
   - "[[Mission-Oriented Research]]"
   - "[[Use-Inspired Basic Research]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Technology-Oriented Social Contract]]"
+  - "[[Avatar]]"
+  - "[[Research Security]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
-  - "[[Social Contract of Science]]"
 related_facts:
-  - "[[Restoring Gold Standard Science Executive Order]]"
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[Restoring Gold Standard Science Executive Order]]"
 related_persons:
   - "[[Vannevar Bush]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
+related_methods:
+  - "[[Intervention Research]]"
+  - "[[Correlational Research]]"
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Curiosity-Driven Research
@@ -46,7 +53,7 @@ updated: 2026-10-05
 ## 定义
 
 > [!def] 核心定义
-> 自由探索型研究（Curiosity-Driven Research，亦称好奇心驱动研究或纯基础研究）是指完全由科研人员个体的学术好奇心、对自然规律未知领域的求知欲以及对科学真理的内在追求所主导的科学研究范式。其核心特征在于不以预设的即时应用、工业开发或地缘政治任务为导向，强调研究者在选题、技术路线与假设检验上的高度自主性，依赖国家或社会提供信任型、容忍失败的长周期托底资助。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1056, 1058, 1064)]]
+> 自由探索型研究（Curiosity-Driven Research，亦称好奇心驱动研究或纯基础研究）是指完全由科研人员个体的学术好奇心、对自然规律未知领域的求知欲以及对科学真理的内在追求所主导的科学[[Paradigm|研究范式]]。其核心特征在于不以预设的即时应用、工业开发或地缘政治任务为导向，强调研究者在选题、技术路线与[[Hypothesis|假设]]检验上的高度自主性，依赖国家或社会提供信任型、容忍失败的长周期托底资助。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1056, 1058, 1064)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种“由内而外”展开的认知活动，以拓展人类对宇宙、生命与物质基本法则的认识边界为唯一宗旨。
@@ -60,14 +67,14 @@ updated: 2026-10-05
 
 > [!boundary]- 概念边界
 > - 不等于 [[Mission-Oriented Research|任务导向型研究]] — 后者由国家行政中枢直接预设明确目标与交付时间表；自由探索型研究由科学家自发推进，拒绝接受指标性强制约束。
-> - 不等于 [[Use-Inspired Basic Research|应用启发的基础研究]] — 后者立足巴斯德象限，自始至终兼顾基础理解与现实应用诉求；自由探索型研究立足玻尔象限（Bohr's Quadrant），只追求纯粹机理理解而不谋求即时用途。
+> - 不等于 [[Use-Inspired Basic Research|应用启发的基础研究]] — 后者立足[[Pasteur's Quadrant|巴斯德象限]]，自始至终兼顾基础理解与现实应用诉求；自由探索型研究立足玻尔象限（Bohr's Quadrant），只追求纯粹机理理解而不谋求即时用途。
 
 ---
 
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 自由探索型研究（Curiosity-Driven） | 应用启发型研究（Use-Inspired） | 任务导向型研究（Mission-Oriented） |
+> | 维度 | 自由探索型研究（Curiosity-Driven） | 应用启发型研究（Use-Inspired） | [[Mission-Oriented Research\|任务导向型研究]]（Mission-Oriented） |
 > |---|---|---|---|
 > | **分析对象** | 自然规律、数学公理与基础机理盲区 | 兼具基础科学未知与明确应用前景的领域 | 国家紧迫战略瓶颈与重大工程关键技术 |
 > | **核心机制** | 科学家学术敏感度与同行评议共同体筛选 | 问题导向、应用情境反馈与基础机理双向穿透 | 国家战略目标垂直牵引、行政定向与合同交付 |
@@ -79,9 +86,9 @@ updated: 2026-10-05
 
 > [!feature] 核心要素
 > - **内生认知好奇心驱动** 选题源于对自然界与人类社会未解机理的学术敏感度，而非政府指令、企业横向课题或宏大政治动员。
-> - **高度自主的探索空间** 科学家在研究假设设定、路线调整与学术评议上享有充分自治，行政官僚不得任意干预研究细节。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
+> - **高度自主的探索空间** 科学家在[[Hypothesis|研究假设]]设定、路线调整与学术评议上享有充分自治，行政官僚不得任意[[Intervention Research|干预研究]]细节。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **长周期探索与高容错性** 承认基础探索的高度不可预测性与高失败率，资金支持采取信任型兜底机制而非短期绩效审计。
-> - **同行评议内部权威机制** 研究价值由同行科学家基于科学共同体的内在理性与认知贡献予以判定，而非接受外部行政审计标准的规训。
+> - **同行评议内部权威机制** 研究价值由同行科学家基于科学共同体的内在理性与认知贡献予以判定，而非接受外部行政审计标准的[[Disciplina and Doctrina|规训]]。
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -102,8 +109,8 @@ updated: 2026-10-05
 > [!concept-lens] 颠覆性创新源头
 > 探讨为何缺乏即时实用目的的自由探索，反而是维系国家长期技术突破与不可替代性的战略基石。
 
-> [!claim] 樊春良 (2026)
-> **布什报告的认知逻辑** 万尼瓦尔·布什（Vannevar Bush）在《科学——无止境的边疆》中深刻论证：基础研究是所有应用与技术进步的发源地；自由探索虽然无法预先预测具体成果的转化时间与形态，但持续产生的新知识终将以不可预测的方式转化为国家安全、国民健康与普遍社会福祉的坚实基础。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
+> [!claim] [[Argument_Fan_2026_BCAS|樊春良 (2026)]]
+> **[[Science, The Endless Frontier 1945|布什报告]]的认知逻辑** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）在《科学——无止境的边疆》中深刻论证：基础研究是所有应用与技术进步的发源地；自由探索虽然无法预先预测具体成果的转化时间与形态，但持续产生的新知识终将以不可预测的方式转化为国家安全、国民健康与普遍社会福祉的坚实基础。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 
 ---
 
@@ -112,7 +119,7 @@ updated: 2026-10-05
 > [!concept-lens] 制度退守与边缘化风险
 > 探讨当代科技政策向任务与能力驱动转型对自由探索生态造成的严重生存挤压。
 
-> [!claim] 樊春良 (2026)
+> [!claim] [[Argument_Fan_2026_BCAS|樊春良 (2026)]]
 > **免检地位丧失与分散化演变** 2025 年起美国科技政策全面迈入以技术能力获取为导向的[[Technology-Oriented Social Contract|技术型社会契约]]，国家通过行政程序可复验性审查与预算削减惩罚非优先学科；自由探索型研究在失去联邦长期稳定制度托底的困境下，正由二战后科技体系的绝对中心，退缩为更加分散、小众化乃至依赖私人慈善资本维系的边缘形态。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062, 1064)]]
 
 ---
@@ -130,9 +137,9 @@ updated: 2026-10-05
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1945–1989 — 黄金契约期与免检神话确立** 布什报告将自由探索升华为国家战略，冷战对抗为科学家换取了“高自治—高嵌入”与巨额联邦信任型经费托底，科学享有崇高的“国家理性”化身地位。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
-> - **1990–2009 — 条件化自治与巴斯德象限再协商** 冷战终结后安全红利消退，自由探索受到财政问责压力，学术界通过确立[[Pasteur's Quadrant|巴斯德象限]]（应用启发的基础研究），主动将自由探索包装为对接产业与社会效用的复合形态。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
-> - **2010–2024 — 免检地位瓦解与宏大挑战置换** 绩效问责刚性化（GPRAMA）、重大社会挑战导向（奥巴马创新战略）与科研安全合规审查，全面剥夺了自由探索“无需自证用途”的特权。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
+> - **1945–1989 — 黄金契约期与免检神话确立** [[Science, The Endless Frontier 1945|布什报告]]将自由探索升华为国家战略，冷战对抗为科学家换取了“高自治—高嵌入”与巨额联邦信任型经费托底，科学享有崇高的“国家理性”[[Avatar|化身]]地位。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
+> - **1990–2009 — 条件化自治与[[Pasteur's Quadrant|巴斯德象限]]再协商** 冷战终结后安全红利消退，自由探索受到财政问责压力，学术界通过确立[[Pasteur's Quadrant|巴斯德象限]]（[[Use-Inspired Basic Research|应用启发的基础研究]]），主动将自由探索包装为对接产业与社会效用的复合形态。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
+> - **2010–2024 — 免检地位瓦解与宏大挑战置换** 绩效问责刚性化（GPRAMA）、重大社会挑战导向（奥巴马创新战略）与[[Research Security|科研安全]]合规审查，全面剥夺了自由探索“无需自证用途”的特权。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 > - **2025–至今 — 契约退出与分散边缘化新现实** 在《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》等行政令重压下，国家绕过大学基础探索直接采购成熟技术，自由探索失去传统轴心地位，走向多轨分化中的分散生存轨道。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062, 1064)]]
 
 ---
@@ -150,7 +157,7 @@ updated: 2026-10-05
 > > [!axis] 免检神话的终结
 > > 争论自由探索免检地位丧失是体制倒退还是理性回归。
 > >
-> > - **樊春良 (2026)** 指出，自由探索在二战后的崇高地位很大程度上源于冷战地缘安全的特殊庇护，当外部安全庇护瓦解后，其免检地位的退潮具有深刻的历史必然性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1058, 1063)]]
+> > - **[[Argument_Fan_2026_BCAS|樊春良 (2026)]]** 指出，自由探索在二战后的崇高地位很大程度上源于冷战地缘安全的特殊庇护，当外部安全庇护瓦解后，其免检地位的退潮具有深刻的历史必然性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1058, 1063)]]
 
 > [!critique] 外部批评
 > - **缺乏应对现实危机的敏捷性** 批评者指出，自由探索往往由于学者个人兴趣的分散性，在面对重大公共卫生紧急状态或地缘突发竞争时无法迅速形成规模化突破。
@@ -162,5 +169,5 @@ updated: 2026-10-05
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 深度追踪自由探索型研究从二战后享受国家安全庇护的“高自治—高嵌入”中心地位，到当代因行政问责与技术型契约冲击而退化为分散、边缘形态的制度变迁全过程。

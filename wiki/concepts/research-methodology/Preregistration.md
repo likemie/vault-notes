@@ -5,7 +5,7 @@ aliases:
 summary: "在研究开始前公开登记研究设计、结果测量和分析计划的做法，用于减少事后调整、选择性报告和可疑研究实践。"
 type: concept
 domain: "research-methodology"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Clinical Trial]]"
+  - "[[Reproducibility Crisis]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Document]]"
   - "[[Counterfactual]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-02'
-updated: 2026-09-28
+updated: 2026-10-06
 ---
 
 # Preregistration
@@ -102,7 +103,7 @@ updated: 2026-09-28
 > *"A potential solution to mitigate any bias resulting from selective reporting of the best outcomes, publication bias, and researcher degrees of freedom would be to require program evaluations (including specific outcome measures and analyses) to be preregistered in order for them to be included in the WWC or other program review facilities."*
 
 > [!citation-card] 独立评估规程与方案时间戳锁定
-> 借鉴[[Clinical Trial\|临床试验]]规范，所有资助试验必须在干预开展前公开发布预先制定的评估方案与统计分析计划（SAP），并在国际标准[[Randomised Controlled Trials\|随机对照试验]][[Coding in Qualitative Research\|编码]]（[[ISRCTN\|International Standard Randomised Controlled Trial Number]]，ISRCTN）注册平台登记，以此杜绝选择性报告并应对科学可复现性危机。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 51)]]
+> 借鉴[[Clinical Trial\|临床试验]]规范，所有资助试验必须在干预开展前公开发布预先制定的评估方案与统计分析计划（SAP），并在国际标准[[Randomised Controlled Trials\|随机对照试验]][[Coding in Qualitative Research\|编码]]（[[ISRCTN\|International Standard Randomised Controlled Trial Number]]，ISRCTN）注册平台登记，以此杜绝选择性报告并应对科学[[Reproducibility Crisis|可复现性危机]]。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 51)]]
 >
 > *"All evaluations are protocol-driven and are pre-registered on the International Standard Randomised Controlled Trial Number (ISRCTN) registry... protocols and [[Structural Adjustment Programs|SAPs]] are published online ahead of trials starting, thereby preventing cherry-picking of results."*
 
@@ -173,7 +174,7 @@ updated: 2026-09-28
 > **全链条时间戳公开根除结果挑拣** 社会科学[[Document\|文献]]中显著正向结果的发表几率比零结果高出 40 个百分点（Franco et al., 2014）。英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）在资助大规模试验时，强制要求评估团队在干预开始前公开发布评估方案与[[Statistical Analysis Plan\|统计分析计划]]（SAP），并在国际标准[[Randomised Controlled Trials\|随机对照试验]][[Coding in Qualitative Research\|编码]]（[[ISRCTN]]）平台注册；评估报告模板严格基于试验报告统一标准（Consolidated Standards of Reporting Trials，CONSORT）声明，无论结果是否显著均无条件全量公开，从根本上杜绝了评估者根据事后数据走向挑拣结果或隐匿零结果的可能。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 51)]]
 
 > [!claim] [[Robert Slavin\|Slavin, R.]] E.
-> **前置质控与外部独立评估破除[[Replication in Education Research\|复现危机]]** 早期教育[[Intervention Research\|干预研究]]屡现复现危机（replication crisis），主要根源于小样本抽样、开发者自评利益冲突以及随意挑选自编测验等可疑研究实践。在《每个学生都成功法案》（[[Every Student Succeeds Act\|ESSA]]）循证改革中，大型联邦资助项目（如 i3 与 [[Education Innovation and Research\|EIR]]）和英国 EEF 强制要求在公共登记处（如 REES、ISRCTN）进行时间戳预注册并锁定统计分析计划（SAP），与[[Evaluator Independence\|第三方独立评估]]、多中心大样本整群试验共同构筑了坚实的质控标准，从根本上阻断了事后数据钓鱼与选择性报告，使达到循证标准的教育项目展现出高度可复现的实证效能。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 24–25, 27)]]
+> **前置质控与外部独立评估破除[[Replication in Education Research\|复现危机]]** 早期教育[[Intervention Research\|干预研究]]屡现复现危机（[[Reproducibility Crisis|Replication Crisis]]），主要根源于小样本抽样、开发者自评利益冲突以及随意挑选自编测验等可疑研究实践。在《每个学生都成功法案》（[[Every Student Succeeds Act\|ESSA]]）循证改革中，大型联邦资助项目（如 i3 与 [[Education Innovation and Research\|EIR]]）和英国 EEF 强制要求在公共登记处（如 REES、ISRCTN）进行时间戳预注册并锁定统计分析计划（SAP），与[[Evaluator Independence\|第三方独立评估]]、多中心大样本整群试验共同构筑了坚实的质控标准，从根本上阻断了事后数据钓鱼与选择性报告，使达到循证标准的教育项目展现出高度可复现的实证效能。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 24–25, 27)]]
 
 ---
 
@@ -235,7 +236,7 @@ updated: 2026-09-28
 
 > [!dev-timeline] 概念演变历程
 > - **2000s — 医学与[[Clinical Trial\|临床试验]]登记起源** 面对制药行业严重的[[Publication Bias\|发表偏倚]]与选择性披露危机，国际医学界建立 ClinicalTrials.gov 与国际标准[[Randomised Controlled Trials\|随机对照试验]][[Coding in Qualitative Research\|编码]]（[[ISRCTN]]）机制，将试验注册确立为国际顶刊发表的前置法定要求。
-> - **2014–2015 — 心理科学与可复现性危机反思** 开放科学合作组织（Open Science Collaboration, 2015）揭示大规模实验[[Replication in Education Research\|复现危机]]，Gelman & Loken (2014) 等学者深入剖析[[Researcher Degrees of Freedom\|研究者自由度]]与分叉路径的花园，推动开放科学中心（COS）与 OSF 预注册平台崛起。
+> - **2014–2015 — 心理科学与[[Reproducibility Crisis|可复现性危机]]反思** 开放科学合作组织（Open Science Collaboration, 2015）揭示大规模实验[[Replication in Education Research\|复现危机]]，Gelman & Loken (2014) 等学者深入剖析[[Researcher Degrees of Freedom\|研究者自由度]]与分叉路径的花园，推动开放科学中心（COS）与 OSF 预注册平台崛起。
 > - **2018 — 美国[[Institute of Education Sciences\|教育科学研究院]]创设 REES 平台** 美国教育科学研究院（IES）主导启动效能与有效性研究注册处（REES），由 Anderson 等学者（2019）系统阐发，成为美国教育因果评估治理标准化的标志性里程碑。[[Argument_Wolf_2020_JREE\|(Wolf et al., 2020, p. 444)]]
 > - **2018–2019 — 英国 [[Education Endowment Foundation\|EEF]] 制度化[[Statistical Analysis Plan\|统计分析计划]]与安全锁惩罚** 英国教育捐赠基金会（EEF）发布并三次修订《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018），出台《EEF 评估发现安全级别分类指南》（*Classification of the Security of Findings from EEF Evaluations*; The EEF, 2019c），将偏离预注册 SAP 正式确立为直接扣除 1 把安全锁的制度化质量惩罚。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 51–53, 57)]]
 > - **2019 — [[Evidence-Based Education\|循证教育]]改革确立预注册为复现质控支柱** [[Argument_Slavin_2019_EP\|Slavin (2019)]] 系统论证在大规模教育资助（如 i3、[[Education Innovation and Research\|EIR]]、EEF）中，大样本预注册与[[Evaluator Independence\|第三方独立评估]]构成了破解教育科学复现危机、确保 [[Every Student Succeeds Act\|ESSA]] 分层证据效力的制度基石。

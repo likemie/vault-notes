@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 34
+fact_related_count: 38
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -26,8 +26,8 @@ tags:
   - region/us
 related_concepts:
   - "[[Market Shaping and Creating]]"
+  - "[[Reproducibility Crisis]]"
   - "[[Transfer Science]]"
-  - "[[Research Translation]]"
   - "[[Valley of Death]]"
   - "[[Clinical Trial]]"
   - "[[Paradigm]]"
@@ -38,37 +38,41 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Long-Term Public Utility]]"
   - "[[Externalization]]"
+  - "[[Preregistration]]"
+  - "[[Attrition]]"
+  - "[[Technology-Oriented Social Contract]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Basic-Applied Research Dichotomy]]"
   - "[[Shopping Mall Model of Research Universities]]"
   - "[[Soft-Money Faculty Model]]"
-  - "[[Technology-Oriented Social Contract]]"
-  - "[[Restoring Gold Standard Science Executive Order]]"
 related_theories:
   - "[[Social Contract of Science]]"
   - "[[Pasteur's Quadrant]]"
   - "[[ROAR Framework]]"
   - "[[Discovery-Invention Cycle]]"
 related_methods:
+  - "[[External Auditor]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Mariana Mazzucato]]"
 related_facts:
+  - "[[Office of Naval Research]]"
+  - "[[National Science Foundation]]"
+  - "[[Restoring Gold Standard Science Executive Order]]"
   - "[[Nobel Prize in Physiology or Medicine]]"
   - "[[Science, The Endless Frontier 1945]]"
-  - "[[Office of Naval Research]]"
   - "[[Department of Energy]]"
   - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
-  - "[[Argument_Stephan_2013_NBER]]"
   - "[[Argument_Fan_2026_BCAS]]"
+  - "[[Argument_Stephan_2013_NBER]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # National Institutes of Health
@@ -78,7 +82,7 @@ updated: 2026-10-05
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 美国国立卫生研究院（National Institutes of Health，简称 NIH）是美国联邦政府负责生物医学与健康行为科学研发的最高权威机构，隶属于美国卫生与公众服务部（HHS）；作为战后美国多元化分布式资助机制（distributed pluralistic funding network）的健康使命基石，与原子能委员会（AEC）、海军研究办公室（[[Office of Naval Research|ONR]]）及国家科学基金会（[[National Science Foundation|NSF]]）并立，在[[Social Contract of Science|科学社会契约]]框架下统合基础病理探索与临床诊疗工艺发明，构成了激进型[[Market Shaping and Creating|市场塑造]]者与前沿健康能力策源地。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807, 809)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
+> 美国国立卫生研究院（National Institutes of Health，简称 NIH）是美国联邦政府负责生物医学与健康行为科学研发的最高权威机构，隶属于美国卫生与公众服务部（HHS）；作为战后美国多元化分布式资助机制（distributed pluralistic funding network）的健康使命基石，与原子能委员会（AEC）、[[Office of Naval Research|海军研究办公室]]（[[Office of Naval Research|ONR]]）及国家科学基金会（[[National Science Foundation|NSF]]）并立，在[[Social Contract of Science|科学社会契约]]框架下统合基础病理探索与临床诊疗工艺发明，构成了激进型[[Market Shaping and Creating|市场塑造]]者与前沿健康能力策源地。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807, 809)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 前身为 1887 年在纽约斯塔滕岛建立的海员卫生检验实验室，1891 年迁至华盛顿特区，1930 年通过《兰斯德尔法案》（Ransdell Act）正式重组命名为国家卫生研究院（NIH），旨在为控制烈性传染病与提升国家公共卫生水平提供科学支撑。
@@ -96,7 +100,7 @@ updated: 2026-10-05
 > - **1948–1960s — 战后主动动员与院外资助体系确立** 1948 年资助约 120 所高校（前 10 位医学院占据约 75% 经费）；高级官员弗雷德·斯通差旅逾 20 万英里动员学者申报，确立了以独立同行评审委员会（Study Sections）为核心的 R01 独立研究员资助机制与薪资报销渠道，奠定了分布式资助支柱地位。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 7–8, 14)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **1970s–1990s — 资助机制转向与转化医学萌芽** 独立培训项目缩减，研究生与博士后普遍依赖课题研究助研津贴（GRAs）；联合能源部启动并完成人类基因组计划（HGP）。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 18, 20)]]
 > - **1998–2002 — 国会预算翻倍计划及其体制后遗症** 国会推行五年预算翻倍（从 1998 年约 130 亿美元增至 2002 年 270 余亿美元）；刺激高校大举借债扩建科研大楼与设立软钱教职，但在翻倍结束后引发课题立项率暴跌（跌破 20%）、项目负责人显著老龄化与医学院巨额偿债危机。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 27–28, 33–34)]]
-> - **2003–2024 — 紧缩滞胀、可重复性危机与转化机制创新** 在通胀购买力下降背景下应对体制压力；设立国家推进[[Transfer Science|转化科学]]中心（NCATS）跨越临床转化“[[Valley of Death|死亡之谷]]”；同时，学术界面临日益加剧的可重复性危机（reproducibility crisis）以及《政府绩效与成果法案现代化法案》（GPRAMA）刚性量化考核，免检资助地位受到动摇。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
+> - **2003–2024 — 紧缩滞胀、[[Reproducibility Crisis|可重复性危机]]与转化机制创新** 在通胀购买力下降背景下应对体制压力；设立国家推进[[Transfer Science|转化科学]]中心（NCATS）跨越临床转化“[[Valley of Death|死亡之谷]]”；同时，学术界面临日益加剧的可重复性危机（reproducibility crisis）以及《政府绩效与成果法案现代化法案》（GPRAMA）刚性量化考核，免检资助地位受到动摇。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 > - **2025–至今 — 预算扣留、黄金标准行政令与技术优先型重塑** 2025 年起美国政府转向技术优先型治理，动用行政扣留（impoundment）冻结或削减公共卫生、成瘾医学与多元平等包容（DEI）领域的科研经费；颁布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令实施严格数据复现与审计控制，传统同行评审自治向高度安全化、合规化的受限自治转变。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]
 
 ---
@@ -177,11 +181,11 @@ updated: 2026-10-05
 > > - **预算翻倍与老龄化（[[Argument_Stephan_2013_NBER|Stephan, 2013]]）** 1998 至 2002 年预算翻倍诱使各高校大举扩招与申报项目，预算平稳后立项成功率暴跌破 20%，评审机制倾向于避险选择资深学者，50 岁以上项目负责人高达 46%。
 > > - **软钱模式与医学院次贷危机风险** 医学院将专任教师薪资[[Externalization|外部化]]并依赖项目间接成本举债建楼，年均偿债额翻倍至 690 万美元，暴露出对联邦医学资助的高度财务脆弱性。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–34)]]
 >
-> > [!axis] 科研可重复性危机与行政审计重构：专业自治 vs. 外部合规规制
+> > [!axis] 科研[[Reproducibility Crisis|可重复性危机]]与行政审计重构：专业自治 vs. 外部合规规制
 > > 探讨生命科学领域的假阳性与可重复性挑战，应当由科学共同体自主纠错，还是由行政中枢实施严格审计与资助扣留。
 > >
-> > - **共同体内部自治派** 强调生物医学探索天然具备复杂性与高度不确定性，应当恪守布什契约的专业自治原则，通过优化同行评审（Study Sections）标准、鼓励预注册与提高统计严谨性实现学术内部自我纠偏，坚决反对外部行政权力干预议题选择。
-> > - **行政规制与技术契约派（[[Argument_Fan_2026_BCAS|樊春良, 2026]]）** 面对长期蔓延的可重复性危机与公众信任流失，2025 年起行政当局颁布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，以强制数据公开、方法复现与程序合规为杠杆对 NIH 资助项目施加硬性外部约束，并动用预算扣留（impoundment）对公共卫生与非优先议题进行行政重塑；这标志着科学自治从无条件信任转向高度安全化、政治化的受限自治。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060, 1062–1063)]]
+> > - **共同体内部自治派** 强调生物医学探索天然具备复杂性与高度不确定性，应当恪守布什契约的专业自治原则，通过优化同行评审（Study Sections）标准、鼓励[[Preregistration|预注册]]与提高统计严谨性实现学术内部自我纠偏，坚决反对外部行政权力干预议题选择。
+> > - **行政规制与技术契约派（[[Argument_Fan_2026_BCAS|樊春良, 2026]]）** 面对长期蔓延的可重复性危机与公众信任[[Attrition|流失]]，2025 年起行政当局颁布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，以强制数据公开、方法复现与程序合规为杠杆对 NIH 资助项目施加硬性外部约束，并动用预算扣留（impoundment）对公共卫生与非优先议题进行行政重塑；这标志着科学自治从无条件信任转向高度安全化、政治化的受限自治。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060, 1062–1063)]]
 
 ---
 
@@ -195,9 +199,9 @@ updated: 2026-10-05
 > | [[DARPA]] | Fact (Organization) | 与 NIH 共同构成美国引领前沿高风险技术突破的联邦创新机构双壁。 |
 > | [[Office of Naval Research]] | Fact (Organization) | 战后多元分布式资助网络中承担国防基础科学探索的兄弟支柱机构。 |
 > | [[National Science Foundation]] | Fact (Organization) | 战后多元分布式资助网络中承担民事非医学科学资助的正统联邦科学基金。 |
-> | [[Social Contract of Science]] | Theory | NIH 践行的健康使命导向公共研发与学术自治契约范式。 |
+> | [[Social Contract of Science]] | Theory | NIH 践行的健康使命导向公共研发与学术自治契约[[Paradigm\|范式]]。 |
 > | [[Technology-Oriented Social Contract]] | Concept | 2025 年起以技术能力为中心、对 NIH 传统资助生态带来深刻冲击的新型治理形态。 |
-> | [[Restoring Gold Standard Science Executive Order]] | Fact (Policy) | 2025 年颁布的以数据透明和方法复现为杠杆强化外部审计的行政命令。 |
+> | [[Restoring Gold Standard Science Executive Order]] | Fact (Policy) | 2025 年颁布的以数据透明和方法复现为杠杆强化[[External Auditor\|外部审计]]的行政命令。 |
 > | [[Mission-Oriented Innovation Policy]] | Concept | NIH 遵循的以重大公共健康挑战为驱动的核心政策理论。 |
 > | [[Market Shaping and Creating]] | Concept | NIH 通过早期巨额研发资助主动开辟生物医药新市场的理论模型。 |
 > | [[ROAR Framework]] | Theory | 指导 NIH 优化组织试错与解决公私风险收益对称分配的治理框架。 |
@@ -216,4 +220,4 @@ updated: 2026-10-05
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 实证阐发 NIH 在生物医药产业中充当核心[[Market Shaping and Creating|市场创造]]者的事实，深入揭示公私研发中“风险社会化、收益私有化”的结构性失衡与治理对策。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al. (2013)]] — 系统剖析 NIH 与 [[Department of Energy|DOE]] 任务导向型科研组织机制，批评传统基础/应用二分法对长周期医疗技术发明的阻碍。
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 运用详实经济学数据量化 NIH 预算翻倍政策对大学医学院软钱教职、偿债危机及青年学者立项老龄化的深远体制后果。
-> - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 深入剖析战后 NIH 作为多元分布式资助网络支柱的确立过程，以及 2025 年前后因可重复性危机、行政扣留与黄金标准行政令引发的契约重塑。
+> - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 深入剖析战后 NIH 作为多元分布式资助网络支柱的确立过程，以及 2025 年前后因[[Reproducibility Crisis|可重复性危机]]、行政扣留与黄金标准行政令引发的契约重塑。

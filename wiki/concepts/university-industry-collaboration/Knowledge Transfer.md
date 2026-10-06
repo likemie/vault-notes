@@ -7,7 +7,7 @@ aliases:
 summary: "指知识在主体、组织或地缘权力关系中流动、传递与挪用的多义概念，横跨知识地缘政治、产学合作与循证知识动员三大理论脉络。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 51
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Praxis]]"
   - "[[Epistemology]]"
+  - "[[Mentorship]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Junzi]]"
   - "[[Transfer Science]]"
@@ -59,12 +60,16 @@ related_theories:
   - "[[Systems of Innovation]]"
   - "[[Organizational Culture]]"
 related_methods:
+  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[Plato]]"
 related_facts:
   - "[[SPECTRUM]]"
+  - "[[Silicon Structures Project]]"
+  - "[[National Research and Resource Facility for Submicron Structures]]"
+  - "[[Center for Integrated Systems]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Vergleichsarbeiten]]"
 related_arguments:
@@ -73,10 +78,11 @@ related_arguments:
   - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_Glitz_2020_AER]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
+  - "[[Argument_Mody_2017_MOH]]"
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-09-27
+updated: 2026-10-06
 ---
 
 # Knowledge Transfer
@@ -204,6 +210,16 @@ updated: 2026-09-27
 
 ---
 
+### 命题五　尖端工程领域的知识转移高度依附于面对面师生协同与驻留人员的隐性经验传授
+
+> [!concept-lens] 隐性经验（Lore）与实体驻留机制
+> 尖端工程制造与高技术工艺无法完全[[Coding in Qualitative Research|编码]]为专利文本或数据报告；有效的产学知识转移高度依赖人员物理驻留、流转科学家与校企联合指导小组，实现内生于大学实验室文化中的隐性经验双向渗透。
+
+> [!claim] Mody
+> **驻校科学家、驻留工程师与 FMA 双[[Mentorship|导师制]]驱动的隐性知识转移** 赛勒斯·莫迪（[[Argument_Mody_2017_MOH|Mody, 2017]]）揭示，在微电子先进制程中，知识转移的核心机制不仅是正式许可，而是实体化的人员嵌入与面对面“学问经验（Lore）”传授。加州理工学院[[Silicon Structures Project|硅结构计划]]（[[Silicon Structures Project|SSP]]）首创由赞助企业派遣轮转科学家进驻大学，与教授及研究生并肩研发，将象牙塔高风险探索中沉淀的隐性经验直接反哺企业；康奈尔大学国家亚微米设施（[[National Research and Resource Facility for Submicron Structures|NRRFSS]]）通过“驻留工程师（Engineer in Residence）”机制，让通用电气（GE）等公司工程师在校驻留一年系统掌握分子束外延与电子束光刻工艺，回企后成功复刻先进产线；[[Center for Integrated Systems|斯坦福集成系统中心]]（CIS）则创立由“教授—企业导师—在读研究生”构成的 FMA 团队制（Faculty-Mentor-Advisee Teams），由企业研究员直接介入研究生课题联合指导，使大学博士培养与产业前沿隐性工艺转移深度交融。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 290–292, 297)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -213,6 +229,7 @@ updated: 2026-09-27
 > | **组织通道命题** | 确立产学知识转移超越专利的技术全谱系，揭示非正式渠道与中介功能 | 大学技术转移、[[University-Industry Collaboration\|产学合作]]教育、[[Knowledge-Based Economy\|知识经济]]战略 | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall (2025b)]] |
 > | **生态基石命题** | 揭示第一代流水线转移的行动者局限及其作为复杂生态物理底座的价值 | 知识动员战略规划、政策研究受众定制、循证知识传播基础设施 | Lavis et al. (2003); [[Argument_Torres_2022_KMModels\|Torres (2022b)]] |
 > | **教育特异性命题** | 揭示教育知识转移的非线性与情境特异性，批判机械套用临床医学转化类比 | 循证教育改革、学校改进咨询、全域测评数据回传机制 | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] |
+> | **隐性经验命题** | 阐明工程制造中隐性学问（Lore）依赖人员驻留、轮转科学家与校企联合导师制（FMA）实现双向渗透 | 尖端工科研究生培养、校企双导师制、工程驻留研发 | [[Argument_Mody_2017_MOH\|Mody (2017)]] |
 
 ---
 
@@ -221,6 +238,7 @@ updated: 2026-09-27
 > [!dev-timeline] 知识转移的演变历程
 > - **古典与经院哲学根基** 希腊哲学善的理论经伪狄奥尼修斯与托马斯·阿奎那提炼为拉丁箴言 *omne bonum diffusum sui est*（一切善倾向于自我扩散），确立知识天然具有在人群中扩散的本体倾向；但古典等级制（[[Plato|柏拉图]]智者、儒家[[Junzi|君子]]）始终制约着转移的平权性（[[Argument_Partaken_2022_Springer|Partaken, 2022, p. 75]]）。
 > - **17–19世纪 — 从神学权力到地缘教义** 培根“知识即权力”（1597）在 19 世纪德国统一后被改造为扩张主义地缘政治教义——“地理知识即世界权力”，知识转移成为服务于国家霸权领土扩张的工具（[[Argument_Partaken_2022_Springer|Partaken, 2022, pp. 67–68]]）。
+> - **1970–1980s — 产学隐性经验（Lore）与驻留机制确立** 加州理工 [[Silicon Structures Project|SSP]]、康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]] 与斯坦福 CIS 探索轮转科学家、驻留工程师与 FMA 联合[[Mentorship|导师制]]，确立高技术重资产环境下以人员流动为载体的隐性经验转移[[Paradigm|范式]]。[[Argument_Mody_2017_MOH\|(Mody, 2017, pp. 290–292, 297)]]
 > - **1980s — 大学[[Bayh-Dole Act of 1980|拜杜法案]]与产学知识转移兴起** 伴随[[Knowledge-Based Economy|知识经济]]崛起，欧美大学成立知识转移办公室（KTO），知识转移在管理学中确立为技术商业化与校企隐性知识流动的核心概念。
 > - **2003 — 循证卫生决策中的 Lavis 战略框架** Lavis et al. (2003) 提出“五问”受众战略模型，标志着循证政策领域第一代知识转移分析工具的成熟。
 > - **2010–2022 — [[Knowledge Mobilisation|知识动员]]三代演进与再定位** Best & Holmes (2010) 与 [[Argument_Torres_2022_KMModels|Torres (2022b)]] 确立知识转移作为知识动员第一代线性模型的历史地位，阐明其向关系协同与自适应复杂系统模型的代际跨越。
@@ -263,6 +281,7 @@ updated: 2026-09-27
 > | [[Argument_Glitz_2020_AER\|Glitz & Meyersson (2020)]] | 东德（冷战时期）与西德工业部门 | 历史档案计量分析与行业面板数据 | 国家支持的经济间谍活动与[[Total Factor Productivity\|全要素生产率]]差距 | 间谍获取的工业机密显著缩小了东德与西德之间的技术生产率差距 | $p < 0.01$ | 揭示非对等非法知识转移在地缘技术追赶中的真实效力 |
 > | Lissoni (2012) 与 Baig (2017)；引于 [[Argument_Partaken_2022_Springer\|Partaken (2022)]] | 欧美大学学术专利（Lissoni）与全球网络安全攻击源（Baig） | 跨国数据库比较与流量监控统计 | 专利归属比例与跨国知识攻击源占比 | 欧洲 60%–81% 专利归工业公司所有；约 27%（重定向达 41%）攻击源自特定来源国 | — | 实证支持产学产权转移与网络空间[[Knowledge Sabotage\|知识破坏]]的地缘现实 |
 > | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 9)]] | 德语区各州全域测评（[[Vergleichsarbeiten\|VERA]]）与[[School Inspection\|外部学校督导]]（SI）反馈系统 | [[Literature Review\|文献综述]]与治理实证评估 | 监测数据回传向单体学校知识转移的微观改进成效 | 外部督导与统考数据回传在单体学校普遍缺乏显著的教学改善成效（mangelnde Effekte） | 质性综述确证 | 确证机械式数据回传无法自动转化为微观教学行动，[[Falsification\|证伪]]线性转移[[Hypothesis\|假设]] |
+> | [[Argument_Mody_2017_MOH\|Mody (2017, pp. 290–292, 297)]] | 加州理工学院 [[Silicon Structures Project\|SSP]]、康奈尔 [[National Research and Resource Facility for Submicron Structures\|NRRFSS]]、通用电气（GE）与斯坦福 CIS | 历史档案与企业项目档案定性分析 | 轮转科学家机制、驻留工程师、FMA 联合指导小组 | GE 派驻工程师在 NRRFSS 驻留 1 年攻克 GaAs 器件工艺并回厂复制；斯坦福 CIS 依托 FMA 团队制完成博士生与企业导师深度联合研发 | 历史实证确证 | 证实高技术工程制造中隐性学问（Lore）高度依赖人员实体驻留与[[Mentorship\|导师制]]面对面传授 |
 
 ---
 
@@ -274,3 +293,4 @@ updated: 2026-09-27
 > - [[Argument_Glitz_2020_AER|Glitz & Meyersson (2020)]] — 提供国家支持经济间谍实现强制性知识转移的大规模实证计量证据。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 梳理[[Knowledge Mobilisation|知识动员]]中的第一代线性知识转移模型（Lavis 五问框架），阐明其向关系协同与自组织生态演进的脉络。
 > - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 审视德语区教育治理中的知识转移与[[Transfer Science|转移科学]]，揭示监测数据回传在单体学校的成效缺失，批判机械套用循证医学临床转化类比。（pp. 9, 11）
+> - [[Argument_Mody_2017_MOH|Mody (2017)]] — 从历史组织学视角剖析大学微电子中心如何通过驻留工程师、轮转科学家及 FMA 校企双[[Mentorship|导师制]]，实现尖端工程制造隐性经验（Lore）与博士人才培养的深度双向转移。

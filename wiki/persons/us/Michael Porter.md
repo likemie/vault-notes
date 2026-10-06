@@ -121,7 +121,7 @@ updated: 2026-10-05
 ## 核心思想
 
 > [!claim] 核心主张
-> 国家在全球经济中的真实竞争优势，绝非源自先天的初级生产要素禀赋（如廉价劳动力或自然资源），而是通过高度[[Going Native|本土化]]的制度、教育、技术创新环境与激烈的国内竞争动态“创造并维系”起来的。国家钻石模型由四大互为支撑的支柱构成：高级生产要素（如高素质工科人才与数字基础设施）、严苛成熟的本土需求条件、高度协同的相关与支持性产业集群、以及充满活力的企业战略与国内同行竞争。在全球化加速演进的背景下，地理集中与本土创新母体不仅没有失效，反而变得更为关键。
+> 国家在全球经济中的真实竞争优势，绝非源自先天的初级生产要素禀赋（如廉价劳动力或自然资源），而是通过高度[[Going Native|本土化]]的制度、教育、技术创新环境与激烈的国内竞争动态“创造并维系”起来的。国家[[National Competitive Advantage|钻石模型]]由四大互为支撑的支柱构成：高级生产要素（如高素质工科人才与数字基础设施）、严苛成熟的本土需求条件、高度协同的相关与支持性产业集群、以及充满活力的企业战略与国内同行竞争。在全球化加速演进的背景下，地理集中与本土创新母体不仅没有失效，反而变得更为关键。
 
 > [!citation-card] 全球化悖论：母国环境在全球竞争中的不可替代性
 > 虽然竞争全球化看似使国家变得不那么重要，但实际上使其更加重要。跨国公司的全球竞争优势高度依赖于其母国本土基地的健康状况、当地要素质量以及由供应商和挑剔客户构成的地理集群。(Porter, 1990, p. 19; [[Argument_Freeman_1995_CJE|Freeman, 1995, p. 20]]; [[Argument_Moisio_2022_Springer|Moisio, 2022, p. 27]])
@@ -138,7 +138,7 @@ updated: 2026-10-05
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 钻石模型直接拓宽了产业经济学对创新的空间理解，与[[Evolutionary Economics|演化经济学]]家（如弗里曼、[[Bengt-Åke Lundvall|伦德瓦尔]]）的[[National Innovation System|国家创新系统]]理论形成强烈呼应，奠定了当代次国家级[[Regional Innovation System|区域创新系统]]与集群经济学（Storper & Harrison, 1991; Scott, 1991）的学理基石。
+> - **理论路径** [[National Competitive Advantage|钻石模型]]直接拓宽了产业经济学对创新的空间理解，与[[Evolutionary Economics|演化经济学]]家（如弗里曼、[[Bengt-Åke Lundvall|伦德瓦尔]]）的[[National Innovation System|国家创新系统]]理论形成强烈呼应，奠定了当代次国家级[[Regional Innovation System|区域创新系统]]与集群经济学（Storper & Harrison, 1991; Scott, 1991）的学理基石。
 > - **方法路径** 倡导基于微观企业[[Fieldwork|实地调查]]、跨国跨行业案例对比与产业链上下游关联测度的系统分析法，打破了宏观新古典增长模型脱离生产现场的抽象[[Hypothesis|假设]]。
 > - **政策路径** 其集群理论被[[OECD|经济合作与发展组织]]（OECD）、欧盟委员会及全球数十个主权国家采纳为产业政策指导纲领，引发了全球范围内建设高新产业园、科学城、创新走廊与国家冠军城市的浪潮。
 > - **批判性地缘政治学[[Recontextualization|再脉络化]]** 在当代[[Critical Geopolitics|批判地缘政治学]]分析中，波特的话语被揭示为驱动高等教育“[[Knowledge-Based Economization|知识经济化]]”的关键意识形态源泉，推动大学被全面重塑为服务于国家地缘经济竞争的[[Innovation Hub|创新枢纽]]。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]
@@ -152,7 +152,7 @@ updated: 2026-10-05
 ## 历史评价
 
 > [!citation-card] 弗里曼论波特：国家制度基础与产业集群不可替代
-> [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）高度评价迈克尔·波特对全球化神话的清醒批判：波特通过确证“全球化反而使母国更加重要”的悖论，为抵制激进新自由主义关于“无国界世界（Borderless World）”的虚妄幻想提供了坚实实证支持；波特强调的区域集聚与国家钻石模型，与[[National Innovation System|国家创新系统]]理论在本质上相得益彰。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
+> [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）高度评价迈克尔·波特对全球化神话的清醒批判：波特通过确证“全球化反而使母国更加重要”的悖论，为抵制激进新自由主义关于“无国界世界（Borderless World）”的虚妄幻想提供了坚实实证支持；波特强调的区域集聚与国家[[National Competitive Advantage|钻石模型]]，与[[National Innovation System|国家创新系统]]理论在本质上相得益彰。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
 >
 > *"As Michael Porter (1990) pointed out in his excellent book The Competitive Advantage of Nations, the globalization of competition might appear to make the nation less important, but instead it makes it more so."*
 

@@ -7,7 +7,7 @@ summary: "意大利裔经济学家，伦敦大学学院创新与公共目的研�
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[General Purpose Technology]]"
+  - "[[Orchestrator State]]"
 related_theories:
   - "[[ROAR Framework]]"
   - "[[Evolutionary Economics]]"
@@ -162,7 +163,7 @@ updated: 2026-10-06
 > > [!axis] 超国家“协调者”理想与主权财政赤字现实
 > > 比较政治经济学者检验马祖卡托倡导的国家塑造者与协调者模式在缺乏统一财政的超国家实体（欧盟）中的落地成效，指出其低估了制度结构约束。
 > >
-> > - **[[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]]** 批评指出，欧委会试图扮演马祖卡托式的“产业政策协调者”，但因缺乏中央独立财政资源与直投能力，政策实质蜕化为放宽成员国国家援助；这导致马祖卡托所主张的强规制附加条件大打折扣，并引发德法等富国垄断补贴而小国被边缘化的单一市场分裂风险。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14, 16–17)]]
+> > - **[[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]]** 批评指出，欧委会试图扮演马祖卡托式的“[[Orchestrator State|产业政策协调者]]”，但因缺乏中央独立财政资源与直投能力，政策实质蜕化为放宽成员国国家援助；这导致马祖卡托所主张的强规制附加条件大打折扣，并引发德法等富国垄断补贴而小国被边缘化的单一市场分裂风险。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14, 16–17)]]
 > > - **理论辩护** 强调这并非使命导向或[[Public Value|公共价值]]理论本身的缺陷，而是多层级宪政体制中超国家财政工具供给不足的制度滞后，进一步佐证了建立泛欧统一工业基金与资本市场联盟的紧迫性。
 
 > [!warning] 制度与能力边界

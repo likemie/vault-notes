@@ -9,7 +9,7 @@ aliases:
 summary: "现代产业政策区别于20世纪以纠正市场失灵与追求经济效率为单一导向的传统产业政策；它深度交织了国家安全、地缘政治对抗、供应链韧性与去风险目标，综合运用巨额直接补贴、前置研发资助、投资审查、单边及多边出口管制、友岸外包、制度化附加条件与战略矿产反制等全方位政策工具包。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Market Shaping and Creating]]"
   - "[[Policy Conditionalities]]"
   - "[[Public Value]]"
+  - "[[Orchestrator State]]"
   - "[[Paradigm]]"
   - "[[Apprenticeship]]"
   - "[[Research Universities]]"
@@ -117,7 +118,7 @@ updated: 2026-10-06
 > - **[[Market Shaping and Creating|市场塑造]]附加条件（Market-Shaping [[Policy Conditionalities|Conditionalities]]）** 打破单纯弥补[[Market Failure|市场失灵]]的被动定位，将巨额公共资助与企业提供托儿服务、分享超额意外利润、限制股票回购、支付现行工资、雇佣注册学徒工及落实社区利益计划（Community Benefits Plan, CBP）等[[Public Value|公共价值]]目标深度绑定。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–11)]]
 > - **友岸外包与跨国供应链多元化** 推动封装测试与成熟制程产能在越南、哥斯达黎加、巴拿马等友好国家分散布局，防范地缘热点集中爆发导致的断链风险。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 98, 100)]]
 > - **战略关键原材料出口反制** 掌握上游关键矿产（如镓、锗）主导份额的经济体，通过出口配额与许可限制反制技术管制，形成地缘经济博弈应对机制。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 101)]]
-- **集中式与协调者两种国家治理形态** 比较政治经济学视阈下，现代产业政策在不同政体展现出截然不同的治理路径：美国采取联邦集中直接资助模式，由中央行政系统自上而下统一挑选优先项目与直投补贴；欧盟受制于缺乏超国家税收自主权，采取多层级去中心化模式，欧盟委员会主要作为“产业政策协调者”（Orchestrator），依托放宽国家援助审查例外与[[Important Projects of Common European Interest|欧洲共同利益重要项目]]（IPCEI）等跨国框架，动员各成员国国库与私营资本共担风险。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 3, 13–14)]]
+- **集中式与协调者两种国家治理形态** 比较政治经济学视阈下，现代产业政策在不同政体展现出截然不同的治理路径：美国采取联邦集中直接资助模式，由中央行政系统自上而下统一挑选优先项目与直投补贴；欧盟受制于缺乏超国家税收自主权，采取多层级去中心化模式，欧盟委员会主要作为“[[Orchestrator State|产业政策协调者]]”（Orchestrator），依托放宽国家援助审查例外与[[Important Projects of Common European Interest|欧洲共同利益重要项目]]（IPCEI）等跨国框架，动员各成员国国库与私营资本共担风险。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 3, 13–14)]]
 
 > [!logic-map]- 现代产业政策的动力与工具系统
 > ```mermaid
@@ -206,7 +207,7 @@ updated: 2026-10-06
 > 探讨不同政体的中央财政自主权与行政统领能力如何决定现代产业政策采取集中直接投资模式还是去中心化协调者模式，进而深刻影响跨国资本动员与内部区域均衡。
 
 > [!claim] [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]]
-> **财政集权与治理形态的分水岭** 现代产业政策绝非整齐划一的干预模式，其治理架构深受国家体制与财政集权程度的制度制约。在具备高度财政自主权的单一或联邦政体（如美国），国家采取“集中直接投资模式”，由联邦中央自上而下掌控巨额直接预算，直接面向单个跨国与本土领军企业投放巨资，能迅速以全流程刚性附加条件撬动万亿级资本再投资；而在超国家多层级政体（如欧盟），受制于超国家财政主权缺位，中央行政机关无法直接发债与直投，被迫异化为“产业政策协调者”（Orchestrator），主要依靠放宽国家援助审查与搭建跨国协同框架（如 [[Important Projects of Common European Interest|IPCEI]]）动员成员国财政。这种协调者形态导致政策高度依附于成员国国库厚薄，必然引发核心国家与外围国家的补贴不平等，甚至诱发跨国巨头在区域内进行制度套利，进而加剧单一市场的离心与分裂风险。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 3, 13–14, 16–17)]]
+> **财政集权与治理形态的分水岭** 现代产业政策绝非整齐划一的干预模式，其治理架构深受国家体制与财政集权程度的制度制约。在具备高度财政自主权的单一或联邦政体（如美国），国家采取“集中直接投资模式”，由联邦中央自上而下掌控巨额直接预算，直接面向单个跨国与本土领军企业投放巨资，能迅速以全流程刚性附加条件撬动万亿级资本再投资；而在超国家多层级政体（如欧盟），受制于超国家财政主权缺位，中央行政机关无法直接发债与直投，被迫异化为“[[Orchestrator State|产业政策协调者]]”（Orchestrator），主要依靠放宽国家援助审查与搭建跨国协同框架（如 [[Important Projects of Common European Interest|IPCEI]]）动员成员国财政。这种协调者形态导致政策高度依附于成员国国库厚薄，必然引发核心国家与外围国家的补贴不平等，甚至诱发跨国巨头在区域内进行制度套利，进而加剧单一市场的离心与分裂风险。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 3, 13–14, 16–17)]]
 
 ---
 

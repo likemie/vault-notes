@@ -12,7 +12,7 @@ aliases:
 summary: "连接科学研究发现与实际应用的跨界转化过程，在产学合作中体现为技术成果商业化漏斗，在学校教育中体现为基于因果行动理论的情境再脉络化与微观课例探究，在宏观治理中体现为立足政策时间生态与立法政策简报的法律实质采纳，在前沿科技创新中体现为公共代理人依托嵌入型网络治理、闭合结构洞以引导颠覆性技术轨道的转化系统。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 74
+related_count: 75
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Business as Usual]]"
   - "[[Policy Window]]"
   - "[[Corporate Venture Capital]]"
+  - "[[Academic Entrepreneurship]]"
   - "[[Phronesis]]"
   - "[[Problem Finding]]"
   - "[[Boundary Spanner]]"
@@ -187,7 +188,7 @@ updated: 2026-10-06
 >     6. 规模化产品部署：全面推向市场交付客户，产生商业利润或战略壁垒（特定突破可跳跃中间阶段）。
 >   - **三轨转化协同路径**
 >     1. 内部产品吸收路径（Organic Innovation）：由业务线工程团队主导，将大学技术直接整合进既有商业产品线；
->     2. 外部初创并购路径（Inorganic Innovation）：由企业战略投资与并购团队（Corporate Development）主导，通过[[Corporate Venture Capital|企业风险投资]]（CVC）跟进具有高颠覆性的学术创业团队（如斯坦福大学 PageRank 算法早期买断受挫后衍生独立崛起为谷歌的反思）；
+>     2. 外部初创并购路径（Inorganic Innovation）：由企业战略投资与并购团队（Corporate Development）主导，通过[[Corporate Venture Capital|企业风险投资]]（CVC）跟进具有高颠覆性的[[Academic Entrepreneurship|学术创业]]团队（如斯坦福大学 PageRank 算法早期买断受挫后衍生独立崛起为谷歌的反思）；
 >     3. 共性生态共建路径（Ecosystem & Open Source）：以开源软件与公私联盟为载体，联合全行业攻坚共性技术底座（如加利福尼亚大学伯克利分校五年期研究中心孵化 Apache Spark 与 Ray，支撑 ChatGPT 等大模型分布式训练底座；英特尔与微软联合发起 [[Universal Parallel Computing Research Centers|UPCRC]] 攻坚多核并发瓶颈）。
 > - **场域二：基础教育实践[[Knowledge Mobilisation|知识动员]]转译流程（五阶段知识动力学，Révai, 2020; [[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]）**
 >   1. 课堂与政策痛点诊断：明确一线实践面临的真实困境与知识缺口；

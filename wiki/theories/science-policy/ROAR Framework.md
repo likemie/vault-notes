@@ -6,7 +6,7 @@ aliases:
 summary: "由玛丽安娜·马祖卡托提出的使命导向创新政策分析框架，涵盖战略路径与方向（Routes）、探索型组织能力（Organizations）、公共价值动态评估（Assessment）以及风险收益对称共享（Risks and Rewards）四大核心维度"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Picking the Willing]]"
   - "[[Reflexivity]]"
   - "[[Research Question]]"
+  - "[[Strategic Autonomy]]"
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Systems of Innovation]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-06
 ---
 
 # ROAR Framework
@@ -149,7 +150,7 @@ updated: 2026-10-03
 >     - **判读规则** 具备广泛社会协商机制可确保长期跨党派政策稳定性。
 >     - **归属与出处** 原理论，[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 808–809)]]。
 > - **D2｜探索型组织能力（Organizations）**
->   构建具备战略自主权、学习素养与组合管理能力的公共机构网络。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–810)]]
+>   构建具备[[Strategic Autonomy|战略自主]]权、学习素养与组合管理能力的公共机构网络。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–810)]]
 >   - **D2.1｜去中心化探索网络（Decentralized Explorative Networks）**
 >     - **含义** 类似于 [[DARPA]] 或高级能源研究计划署（Advanced Research Projects Agency-Energy, ARPA-E）的专业化、扁平化与高弹性公共攻关机构。
 >     - **观察线索** 项目经理自主立项权、快速终止与追加经费权、跨部门协调平台。
@@ -191,7 +192,7 @@ updated: 2026-10-03
 
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 涉及高度复杂性、跨领域协同与长期高风险投入的重大社会转型（如碳中和、老龄化健康、数字基础设施）。
-> - **成立条件** 需要具备相对稳固的政治共识、较高素质且具战略自主性的专业化公共行政团队，以及发育成熟的科研与产业基础。
+> - **成立条件** 需要具备相对稳固的政治共识、较高素质且具[[Strategic Autonomy|战略自主]]性的专业化公共行政团队，以及发育成熟的科研与产业基础。
 > - **解释不足** 对地缘政治冲突、党派极化政治对长期战略使命的频繁阻断缺乏充分的制度应对方案；对发展中国家能力严重不足情境的适配性有待深化。
 > - **转化困难** [[Public Value|公共价值]]的动态量化指标难以标准化；在公私谈判中确定合理的收益分享比例往往面临私人企业的激烈抵制。
 

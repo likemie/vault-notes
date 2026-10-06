@@ -7,10 +7,10 @@ summary: "美国当代著名科学技术政策与STS学者，亚利桑那州立�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 6
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 17
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1965"
 lifespan: "1965–至今"
 tags:
@@ -19,20 +19,32 @@ tags:
   - theme/sts
   - theme/research-integrity
 related_concepts:
+  - "[[Science and Technology Studies]]"
+  - "[[Creativity]]"
+  - "[[Responsible Innovation]]"
+  - "[[Paradigm]]"
+  - "[[Technology Transfer]]"
+  - "[[Reliability]]"
   - "[[Technology-Oriented Social Contract]]"
 related_theories:
   - "[[Social Contract of Science]]"
 related_facts:
+  - "[[American Association for the Advancement of Science]]"
+  - "[[National Science Foundation]]"
+  - "[[National Institutes of Health]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Office of Science and Technology Policy]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
 related_persons:
   - "[[Donald Stokes]]"
+related_methods:
+  - "[[Analytic Framework]]"
+  - "[[Correlational Research]]"
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # David Guston
@@ -42,12 +54,12 @@ updated: 2026-10-05
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国当代知名科学政策学与科学技术社会学（STS）学者，亚利桑那州立大学（Arizona State University, ASU）未来社会创新学院创立院长兼终身教授，美国科学促进会（AAAS）会士。
-> - **核心角色** 战后美国“[[Social Contract of Science|科学的社会契约理论]]”的最重要制度主义理论阐释者之一，开创性地将政治学中的委托—代理理论（Principal-Agent Theory）与边界组织（Boundary Organizations）概念引入科技治理研究。
+> - **身份位置** 美国当代知名科学政策学与科学技术社会学（[[Science and Technology Studies|STS]]）学者，亚利桑那州立大学（Arizona State University, ASU）未来社会创新学院创立院长兼终身教授，[[American Association for the Advancement of Science|美国科学促进会]]（AAAS）会士。
+> - **核心角色** 战后美国“[[Social Contract of Science|科学的社会契约]]理论”的最重要制度主义理论阐释者之一，开创性地将政治学中的委托—代理理论（Principal-Agent Theory）与边界组织（Boundary Organizations）概念引入科技治理研究。
 > - **代表贡献** 著作《在政治与科学之间：确保科学研究的诚信与产出率》（*Between Politics and Science*，2000），提出国家与科学界签约的核心是在信息不对称下平衡“道德风险”（科研不端）与“逆向选择”（无效研究），确立了现代科学政策的政治学分析传统。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1056)]]
 
 > [!citation-card] 科学契约的政治经济学解析
-> 科学与国家之间的契约关系绝非抽象的道德共识，而是一套高度制度化的委托—代理体制：出资方（国家）通过赋予中介与边界组织特定的规约权，既防范科学家的欺诈与学术不端，又避免直接官僚干预扼杀科学家的创造力。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1056)]]
+> 科学与国家之间的契约关系绝非抽象的道德共识，而是一套高度制度化的委托—代理体制：出资方（国家）通过赋予中介与边界组织特定的规约权，既防范科学家的欺诈与学术不端，又避免直接官僚干预扼杀科学家的[[Creativity|创造力]]。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1056)]]
 >
 > *The contractual relationship between science and the state is an institutionalized principal-agent structure: by empowering boundary organizations, the patron ensures integrity and productivity without imposing heavy-handed bureaucratic controls that stifle scientific creativity.*
 
@@ -60,15 +72,15 @@ updated: 2026-10-05
 > - **1993年** 获麻省理工学院（MIT）政治学博士学位，师从知名科学政策学者，博士论文奠定了科学契约分析的基础。
 > - **1994年** 与肯·肯尼斯顿（Kenneth Keniston）合编出版《弱化的契约？大学科学与联邦政府》（*The Fragile Contract? University Science and the Federal Government*），系统反思冷战后联邦科研资助危机。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1056)]]
 > - **2000年** 出版里程碑著作《在政治与科学之间》（*Between Politics and Science*），荣获美国政治学会公共政策最佳著作奖。
-> - **2005年起** 加盟亚利桑那州立大学，创建纳米技术社会中心（CNS-ASU）并领衔发展“负责任创新”（Responsible Innovation）治理范式。
+> - **2005年起** 加盟亚利桑那州立大学，创建纳米技术社会中心（CNS-ASU）并领衔发展“[[Responsible Innovation|负责任创新]]”（Responsible Innovation）治理[[Paradigm|范式]]。
 
 ---
 
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1994 — *The Fragile Contract? University Science and the Federal Government*** 敏锐捕捉冷战终结后美国科学界与联邦政府在预算削减与间接成本丑闻下的信任裂痕，率先提出科学社会契约再协商议题。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1056)]]
-> - **2000 — *Between Politics and Science: Assuring the Integrity and Productivity of Research*** 系统构建国家对科学资助的两大治理委托：产出率（Productivity，通过技术转移机构保障）与诚信度（Integrity，通过科研诚信办公室 ORI 保障），奠定科学契约的政治制度主义基础。
+> - **1994 — *The Fragile Contract? University Science and the Federal Government*** 敏锐捕捉冷战终结后美国科学界与联邦政府在预算削减与间接成本丑闻下的信任裂痕，率先提出[[Social Contract of Science|科学社会契约]]再协商议题。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1056)]]
+> - **2000 — *Between Politics and Science: Assuring the Integrity and Productivity of Research*** 系统构建国家对科学资助的两大治理委托：产出率（Productivity，通过[[Technology Transfer|技术转移]]机构保障）与诚[[Reliability|信度]]（Integrity，通过科研诚信办公室 ORI 保障），奠定科学契约的政治制度主义基础。
 > - **2001 — *Boundary Organizations in Environmental Policy and Science*** 提出“边界组织”理论，阐释科研与决策之间中介机构如何维系认知权威与政治责任的动态平衡。
 
 ---
@@ -88,13 +100,13 @@ updated: 2026-10-05
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 推进了科学技术社会学（STS）与公共管理学的交叉融合，将边界组织、负责任研究与创新（RRI）确立为全球科技治理的主流概念工具。
-> - **方法路径** 开创了运用委托—代理模型和制度主义工具解构科学资助体制的经验实证分析范式。
-> - **政策路径** 其关于科研诚信与产出率两难困境的分析框架，被广泛应用于美国国家科学基金会（NSF）、国立卫生研究院（NIH）等机构的伦理治理与项目绩效评估制度设计中。
-> - **跨国／跨领域传播** 负责任创新思想被欧盟“地平线2020”（Horizon 2020）框架全面采纳并向全球辐射。
+> - **理论路径** 推进了科学技术社会学（[[Science and Technology Studies|STS]]）与公共管理学的交叉融合，将边界组织、负责任研究与创新（RRI）确立为全球科技治理的主流概念工具。
+> - **方法路径** 开创了运用委托—代理模型和制度主义工具解构科学资助体制的经验实证分析[[Paradigm|范式]]。
+> - **政策路径** 其关于科研诚信与产出率两难困境的[[Analytic Framework|分析框架]]，被广泛应用于[[National Science Foundation|美国国家科学基金会]]（NSF）、国立卫生研究院（[[National Institutes of Health|NIH]]）等机构的伦理治理与项目绩效评估制度设计中。
+> - **跨国／跨领域传播** [[Responsible Innovation|负责任创新]]思想被欧盟“地平线2020”（Horizon 2020）框架全面采纳并向全球辐射。
 
-> [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 溯源科学社会契约的理论源流，将古斯顿（1994, 2000, 2011）作为界定国家与科学共同体制度化权利义务关系的核心代表学者予以系统引用。
+> [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
+> - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 溯源[[Social Contract of Science|科学社会契约]]的理论源流，将古斯顿（1994, 2000, 2011）作为界定国家与科学共同体制度化权利义务关系的核心代表学者予以系统引用。
 
 ---
 
@@ -104,7 +116,7 @@ updated: 2026-10-05
 > - **师承／合作者** [[Donald Stokes|唐纳德·斯托克斯]] — 共同参与 1990 年代关于后冷战基础研究与国家目标关系的学术大讨论。
 > - **师承／合作者** 肯·肯尼斯顿（Kenneth Keniston） — 共同合编出版《弱化的契约？》，奠定契约危机研究传统。
 > - **机构／运动／项目** 亚利桑那州立大学（ASU）未来社会创新学院 — 长期担任创立院长与核心学术领袖。
-> - **机构／运动／项目** 美国国家科学基金会（NSF） — 担任伦理与社会影响评审顾问专家。
+> - **机构／运动／项目** [[National Science Foundation|美国国家科学基金会]]（NSF） — 担任伦理与社会影响评审顾问专家。
 
 ---
 
@@ -128,5 +140,5 @@ updated: 2026-10-05
 > |:-----|:-----|:-----|
 > | [[Social Contract of Science]] | 理论 | 古斯顿是该理论当代最重要的政治学阐释者，系统论述了科学契约的委托—代理机制与再协商路径。 |
 > | [[Science, The Endless Frontier 1945]] | 事实 | 布什报告奠定了战后契约起点，古斯顿著作深入剖析了该报告所赖以维系的制度缓冲与信任基石。 |
-> | [[Technology-Oriented Social Contract]] | 概念 | 2025 年起美国科技政策新范式，彻底颠覆了古斯顿所描述的传统委托—代理缓冲机制，走向单向行政指令控制。 |
+> | [[Technology-Oriented Social Contract]] | 概念 | 2025 年起美国科技政策新[[Paradigm\|范式]]，彻底颠覆了古斯顿所描述的传统委托—代理缓冲机制，走向单向行政指令控制。 |
 > | [[Office of Science and Technology Policy]] | 事实 | 古斯顿研究的白宫科技决策关键中枢，负责在宏观层面平衡产出率与科研诚信监督。 |

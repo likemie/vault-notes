@@ -8,7 +8,7 @@ aliases:
 summary: "战后主导科技政策资源配置的核心分类范式，以研究者即时立项动机将科研割裂为基础与应用两轨；后因其文化阶层偏见、单向因果谬误及导致关键硬件发明资助断档而遭系统性解构"
 type: concept
 domain: "science-policy"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Market Failure]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Public Value]]"
   - "[[Abstract]]"
   - "[[Blue Skies Research]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-02
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Basic-Applied Research Dichotomy
@@ -57,7 +58,7 @@ updated: 2026-10-05
 ## 定义
 
 > [!def] 核心定义
-> 基础/应用研究二分法（Basic/Applied Research Dichotomy）是二战后主导全球尤其是美国科技体制建设的核心分类[[Paradigm|范式]]。该范式以科研人员开展工作当下的**初始主观动机**为判据，将科研活动划分为追求纯粹客观规律认知的基础研究与满足现实功用目的的应用研究，预设二者存在不可逆的单向传导秩序：基础研究在自由探索中产出新科学定律，进而单向流入应用研究并转化为工业技术。[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）在 1945 年报告[[Science, The Endless Frontier 1945]]中将此确立为国家科技体制基石，规定政府公共财政仅对[[Market Failure|市场失灵]]的纯基础研究承担资助义务，应用开发则交由私营市场。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
+> 基础/应用研究二分法（Basic/Applied Research Dichotomy）是二战后主导全球尤其是美国科技体制建设的核心分类[[Paradigm|范式]]。该范式以科研人员开展工作当下的**初始主观动机**为判据，将科研活动划分为追求纯粹客观规律认知的基础研究与满足现实功用目的的应用研究，预设二者存在不可逆的单向传导秩序：基础研究在自由探索中产出新科学定律，进而单向流入应用研究并转化为工业技术。[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）在 1945 年报告[[Science, The Endless Frontier 1945]]中将此确立为国家科技体制基石，规定政府公共财政仅对[[Market Failure|市场失灵]]的[[Curiosity-Driven Research|纯基础研究]]承担资助义务，应用开发则交由私营市场。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将复杂的网状科学技术生态强行裁剪为求知与致用两条互不交融的平行轨道，并将工程学贬抑为从属地位的应用科学。
@@ -108,7 +109,7 @@ updated: 2026-10-05
 > 考察研究者的立项动机能否定义知识形态，以及工程技术与科学发现之间的真实因果方向。
 
 > [!claim] Bush, V.
-> **基础研究的逻辑在先性** 基础科学研究是不考虑实用目的的自由探索，是技术进步与产业新发明的源头起搏器；若失去纯基础研究的知识储备，工业开发必将枯竭。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
+> **基础研究的逻辑在先性** 基础科学研究是不考虑实用目的的自由探索，是技术进步与产业新发明的源头起搏器；若失去[[Curiosity-Driven Research|纯基础研究]]的知识储备，工业开发必将枯竭。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
 
 > [!claim] Narayanamurti, V. et al.
 > **工程实践的科学使能机制** 科学技术史事实证明，技术发明往往大幅领先于理论科学；瓦特蒸汽机工程直接催生了热力学定律，半导体异质结与先进晶体生长等关键发明直接充当了分数量子霍尔流体等物理新发现的极端实验载体。二分法将发明矮化为科学的从属副产品，在认识论上完全倒置了历史事实。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–35)]]

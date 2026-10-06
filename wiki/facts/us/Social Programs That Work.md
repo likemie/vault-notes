@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 19
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -43,14 +43,13 @@ related_persons: []
 related_facts:
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Communities in Schools]]"
-  - "[[Community Innovation Survey]]"
   - "[[National Dropout Prevention Center]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 
 # Social Programs That Work
@@ -111,7 +110,7 @@ updated: 2026-09-22
 
 > [!warning] 跨中心分歧与典型案例
 > SPTW 的极高门槛导致全美绝大多数声名显赫的教育干预被挡在门外：
-> - [[Communities in Schools]]（[[Community Innovation Survey\|CIS]]）— 尽管在 [[National Dropout Prevention Center\|NDPC]] 获评最高级，但在 SPTW 审核中，因缺乏跨多个独立学区的一致大型 [[Randomised Controlled Trials\|RCT]] 复制数据，未能进入 Top TIER 榜单([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 25]])。
+> - [[Communities in Schools]]（CIS）— 尽管在 [[National Dropout Prevention Center\|NDPC]] 获评最高级，但在 SPTW 审核中，因缺乏跨多个独立学区的一致大型 [[Randomised Controlled Trials\|RCT]] 复制数据，未能进入 Top TIER 榜单([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 25]])。
 
 ---
 

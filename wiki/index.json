@@ -8339,8 +8339,7 @@
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Governance by Spin.md",
     "aliases": [
-      "舆论操控",
-      "Spin"
+      "舆论操控"
     ]
   },
   {
@@ -22498,6 +22497,14 @@
     ]
   },
   {
+    "title": "Erich Bloch",
+    "type": "person",
+    "path": "wiki/persons/us/Erich Bloch.md",
+    "aliases": [
+      "埃里希·布洛赫"
+    ]
+  },
+  {
     "title": "Ernst von Glasersfeld",
     "type": "person",
     "path": "wiki/persons/us/Ernst von Glasersfeld.md",
@@ -23030,6 +23037,14 @@
       "迈克尔·W·阿普尔",
       "阿普尔",
       "Apple, M. W."
+    ]
+  },
+  {
+    "title": "Nam Pyo Suh",
+    "type": "person",
+    "path": "wiki/persons/us/Nam Pyo Suh.md",
+    "aliases": [
+      "徐南杓"
     ]
   },
   {
@@ -24700,7 +24715,6 @@
     "type": "fact",
     "path": "wiki/facts/europe/Community Innovation Survey.md",
     "aliases": [
-      "CIS",
       "欧洲社区创新调查"
     ]
   },
@@ -30243,6 +30257,17 @@
     ]
   },
   {
+    "title": "Engineering Research Centers",
+    "type": "fact",
+    "path": "wiki/facts/us/Engineering Research Centers.md",
+    "aliases": [
+      "工程研究中心",
+      "ERC",
+      "NSF ERC",
+      "工程研究中心计划"
+    ]
+  },
+  {
     "title": "Enhanced Core Reading Instruction",
     "type": "fact",
     "path": "wiki/facts/us/Enhanced Core Reading Instruction.md",
@@ -32178,6 +32203,11 @@
     "title": "Argument_Atkinson_2008_TIS",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Technology in Society/Argument_Atkinson_2008_TIS.md"
+  },
+  {
+    "title": "Argument_Bozeman_2004_JTT",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Bozeman_2004_JTT.md"
   },
   {
     "title": "Argument_Cohen_2025_JTT",

@@ -8,25 +8,40 @@ aliases:
 summary: "2010年代以来在心理学、生物医学及社会科学中爆发的大量已发表经典研究无法被独立复现的方法论危机，不仅动摇了科学的内在认知权威，更被行政当局工具化为借由程序审计收紧科学自治的契约性规约杠杆。"
 type: concept
 domain: "science-policy"
-related_count: 2
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 16
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/science-policy
   - theme/research-integrity
   - theme/science-policy
   - theme/scientific-method
-related_concepts: []
+related_concepts:
+  - "[[Epistemology]]"
+  - "[[Chain of Evidence]]"
+  - "[[Attrition]]"
+  - "[[Paradigm]]"
+  - "[[Falsification]]"
+  - "[[Preregistration]]"
+  - "[[Variable]]"
+  - "[[Big Science]]"
+  - "[[Publication Bias]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_facts:
   - "[[Restoring Gold Standard Science Executive Order]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
+related_methods:
+  - "[[External Auditor]]"
+  - "[[Statistical Significance]]"
+  - "[[Qualitative Research]]"
+  - "[[Correlational Research]]"
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Reproducibility Crisis
@@ -39,12 +54,12 @@ updated: 2026-10-05
 > 可重复性危机（Reproducibility Crisis，亦称复制危机）最初是指 2010 年代初在心理学、癌症生物学、神经科学及经济学等实证学科中集中爆发的系统性方法论困境，即大量经过严格同行评议并在权威顶级期刊发表的经典实证研究，在第三方研究团队采用相同方案或独立样本进行严格复现检验时无法重现预期结果。在当代科技政治学语境中，这一学术内部的方法论自我审视被外部政治权力深度借用，演化为削弱科学认知权威、推动外部行政审计介入科研立项的强大制度杠杆。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060, 1062)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 具有方法论与政治社会学双重属性：在认识论层面揭示了实证证据链的统计脆弱性；在制度层面演化为公众信任流失与国家权力介入科学自治的突破口。
+> - **含义** 具有方法论与政治社会学双重属性：在[[Epistemology|认识论]]层面揭示了实证[[Chain of Evidence|证据链]]的统计脆弱性；在制度层面演化为公众信任[[Attrition|流失]]与国家权力介入科学自治的突破口。
 > - **用途** 帮助研究者透视科学共同体内部规范（同行评议、奖励机制）与外部政治生态（行政问责、政策清洗）之间的复杂博弈。
 > - **边界** 不等于偶发的伪造、篡改等恶性学术不端行为，其主体是由出版偏见、统计假阳性与研究自由度滥用引发的结构性偏误。
 
-> [!citation-card] 知识权威受挫与外部审计契约
-> 学术界广泛讨论的“可重复性危机”（reproducibility crisis）削弱了部分领域的知识权威……特朗普政府 2025 年 5 月颁布的行政令《恢复黄金标准的科学》，实质上是一套契约性工具，它以可重复性、透明性和程序客观性为名，强化行政可验证性，重塑了科学的合法性来源，使科学的正当性由认知权威转向程序与结果可控性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060, 1062)]]
+> [!citation-card] 知识权威受挫与[[External Auditor|外部审计]]契约
+> 学术界广泛讨论的“可重复性危机”（reproducibility crisis）削弱了部分领域的知识权威……特朗普政府 2025 年 5 月颁布的行政令《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》，实质上是一套契约性工具，它以可重复性、透明性和程序客观性为名，强化行政可验证性，重塑了科学的合法性来源，使科学的正当性由认知权威转向程序与结果可控性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060, 1062)]]
 >
 > *The "reproducibility crisis" widely debated within academia weakened the cognitive authority of certain fields... The Executive Order "Restoring Gold Standard Science," issued by the Trump administration in May 2025, essentially serves as a "contractual tool." Under the rubric of reproducibility, transparency, and procedural objectivity, it strengthens administrative verifiability and reshapes the legitimacy foundation of science, steering it from "cognitive authority" to "procedural and outcome controllability."*
 
@@ -57,19 +72,19 @@ updated: 2026-10-05
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 可重复性危机（Reproducibility Crisis） | 学术不端（Scientific Misconduct） | 范式转换与正常假说证伪 |
+> | 维度 | 可重复性危机（Reproducibility Crisis） | 学术不端（Scientific Misconduct） | [[Paradigm\|范式转换]]与正常假说[[Falsification\|证伪]] |
 > |---|---|---|---|
 > | **性质根源** | 统计功效不足、出版偏倚与研究自由度滥用 | 主观恶意伪造（Fabrication）、篡改（Falsification）或抄袭 | 新实验技术与更优理论对旧假说的经验替代 |
 > | **发生范围** | 实证学科广泛存在的系统性、结构性偏差 | 个别学者的越轨失德行为 | 科学共同体常规认知演进过程 |
-> | **治理回应** | 预注册、注册报告、开源数据与全流程透明 | 学术诚信调查、撤稿、吊销教职与法律惩戒 | 理论辩论、经验积累与新范式确立 |
+> | **治理回应** | [[Preregistration\|预注册]]、注册报告、开源数据与全流程透明 | 学术诚信调查、撤稿、吊销教职与法律惩戒 | 理论辩论、经验积累与新范式确立 |
 
 ---
 
 ## 核心要素
 
 > [!feature] 核心要素
-> - **出版偏倚与阳性结果崇拜** 期刊对统计显著性（p < .05）与突破性新奇结论的偏爱，迫使研究者雪藏阴性结果，严重扭曲文献生态。
-> - **研究自由度与统计操控** 在数据清洗与模型设定中灵活调整变量、剔除离群值，导致经验研究中充斥假阳性结论。
+> - **出版偏倚与阳性结果崇拜** 期刊对[[Statistical Significance|统计显著性]]（p < .05）与突破性新奇结论的偏爱，迫使研究者雪藏阴性结果，严重扭曲文献生态。
+> - **研究自由度与统计操控** 在数据清洗与模型设定中灵活调整[[Variable|变量]]、剔除离群值，导致经验研究中充斥假阳性结论。
 > - **量化评价机制锦标赛** 大学以高影响因子论文为核心的考核晋升体制，迫使学者追求论文发表速度，牺牲了研究方案的鲁棒性。
 > - **程序透明度缺失** 原始数据、实验记录与分析代码封闭隐匿，剥夺了同行与公众独立复现验证的基本条件。
 
@@ -92,8 +107,8 @@ updated: 2026-10-05
 > [!concept-lens] 认知权威动摇
 > 探讨方法论危机如何外溢为公众与决策层对科学系统自主性的信任崩塌。
 
-> [!claim] 樊春良 (2026)
-> **自明信任的瓦解与公共质疑** 伴随大科学成本攀升与可重复性危机发酵，科学在很多领域不仅失去了天然的“自明公共物品”属性，其关于气候、流行病与社会科学的结论甚至成为政治质疑的靶子，导致二战后社会对科学界“默认信任”的心理契约彻底动摇。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
+> [!claim] [[Argument_Fan_2026_BCAS|樊春良 (2026)]]
+> **自明信任的瓦解与公共质疑** 伴随[[Big Science|大科学]]成本攀升与可重复性危机发酵，科学在很多领域不仅失去了天然的“自明公共物品”属性，其关于气候、流行病与社会科学的结论甚至成为政治质疑的靶子，导致二战后社会对科学界“默认信任”的心理契约彻底动摇。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 
 ---
 
@@ -102,8 +117,8 @@ updated: 2026-10-05
 > [!concept-lens] 政治借用与治理异化
 > 揭示行政当局如何借学术诚信之名，将实证复现要求异化为政治审查与经费扣留的制度工具。
 
-> [!claim] 樊春良 (2026)
-> **行政可验证性置换内在认知权威** 特朗普政府 2025 年颁布的《恢复黄金标准的科学》行政令，将学界内部关于可重复性的争论转化为一套契约性工具；以程序客观性与数据复现为杠杆，剥夺同行评议的完全自治裁量权，使科学的正当性依据由专业共同体的“认知权威”转向行政官僚系统的“程序与结果可控性”。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
+> [!claim] [[Argument_Fan_2026_BCAS|樊春良 (2026)]]
+> **行政可验证性置换内在认知权威** 特朗普政府 2025 年颁布的《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，将学界内部关于可重复性的争论转化为一套契约性工具；以程序客观性与数据复现为杠杆，剥夺同行评议的完全自治裁量权，使科学的正当性依据由专业共同体的“认知权威”转向行政官僚系统的“程序与结果可控性”。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
 
 ---
 
@@ -120,9 +135,9 @@ updated: 2026-10-05
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2005–2010 — 理论预警与早期统计反思** 流行病学学者约翰·约阿尼迪斯（John Ioannidis）发表《为什么大多数发表的研究成果都是虚假的》，引发跨学科对统计功效与发表偏差的学术关注。
+> - **2005–2010 — 理论预警与早期统计反思** 流行病学学者约翰·约阿尼迪斯（John Ioannidis）发表《为什么大多数发表的研究成果都是虚假的》，引发跨学科对统计功效与[[Publication Bias|发表偏差]]的学术关注。
 > - **2011–2015 — 大规模经验复现与危机正式确立** 开放科学协作组（Open Science Collaboration）在《科学》（*Science*）发表心理学重复性研究报告，显示仅约 1/3 的经典实验能够成功重现，危机概念正式席卷全球学界。
-> - **2016–2024 — 开放科学运动与期刊审查强化** 预注册（Preregistration）、注册报告（Registered Reports）以及强制开源数据代码成为主流期刊共识，危机主要局限于学界自律改革。
+> - **2016–2024 — 开放科学运动与期刊审查强化** [[Preregistration|预注册]]（Preregistration）、注册报告（Registered Reports）以及强制开源数据代码成为主流期刊共识，危机主要局限于学界自律改革。
 > - **2025–至今 — 行政权力工具化与黄金标准行政令** 特朗普政府签署《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，标志着可重复性危机由学界内部的方法论自省，正式异化为行政当局介入议题审查、收紧科学自治的规约武器。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
 
 ---
@@ -135,22 +150,22 @@ updated: 2026-10-05
 > > 各方对解决可重复性危机的路径存在根本分歧。
 > >
 > > - **科学内部自律论** 认为危机是科学共同体自我诊断与进步的体现，应通过开放数据、改进统计学教育与期刊改革等内部自律机制化解。
-> > - **外部行政干预论** 批评科学界“内部自律”存在利益冲突与迟缓性，行政拨款机构必须设立刚性复验门槛与外部审计制度。
+> > - **外部行政干预论** 批评科学界“内部自律”存在利益冲突与迟缓性，行政拨款机构必须设立刚性复验门槛与[[External Auditor|外部审计]]制度。
 >
 > > [!axis] 行政可重复性审查的潜在滥用
 > > 争论行政令强制复现是否构成对非主流学科的政治清洗。
 > >
-> > - **樊春良 (2026)** 警示，一旦将学术可重复性上升为具有排他性法律效力的行政审核指标，极易被决策者作为借口削减不符合政治诉求的学科经费（如环境与性别研究），造成科学研究的严重畸变。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
+> > - **[[Argument_Fan_2026_BCAS|樊春良 (2026)]]** 警示，一旦将学术可重复性上升为具有排他性法律效力的行政审核指标，极易被决策者作为借口削减不符合政治诉求的学科经费（如环境与性别研究），造成科学研究的严重畸变。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
 
 > [!critique] 外部批评
-> - **复现标准的教条化风险** 批评者指出，质性研究、复杂历史观测与突发流行病现场调查具有不可重复的独特性，生硬套用实验室复现标准会扼杀重要探索。
+> - **复现标准的教条化风险** 批评者指出，[[Qualitative Research|质性研究]]、复杂历史观测与突发流行病现场调查具有不可重复的独特性，生硬套用实验室复现标准会扼杀重要探索。
 
 > [!warning] 适用局限
-> 可重复性概念主要适用于假设演绎型、受控实验或高度结构化的量化实证研究，不能机械推广至历史学、哲学或情境依赖性极高的深度质性研究中。
+> 可重复性概念主要适用于[[Hypothesis|假设]]演绎型、受控实验或高度结构化的量化实证研究，不能机械推广至历史学、哲学或情境依赖性极高的深度质性研究中。
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从科学政策与政治社会学视角切入，揭示可重复性危机如何从学术界内部的方法论讨论，被美国行政中枢借用为重塑科学合法性基础、将学术自治压制为受限自治的契约性工具。

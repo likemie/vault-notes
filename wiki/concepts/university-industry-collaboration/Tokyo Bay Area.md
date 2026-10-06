@@ -8,10 +8,10 @@ aliases:
 summary: "日本关东地区的世界级产业与科技创新湾区，以传统工业为基础转型升级形成第三产业为主、高端制造业为辅的产业结构，集聚丰田、佳能等世界500强企业，依托政府工业分散战略、筑波科学城国家研发基地、产官学师徒制协同与《大学技术转让促进法》TLO制度，形成工业+研发+政府三位一体的创新生态系统。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - region/japan
   - theme/innovation-ecosystem
@@ -27,6 +27,7 @@ related_concepts:
   - "[[New York Bay Area]]"
   - "[[Document]]"
   - "[[Apprenticeship]]"
+  - "[[Academic Entrepreneurship]]"
   - "[[International Education]]"
   - "[[Attrition]]"
   - "[[Innovation Hub]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-11
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Tokyo Bay Area
@@ -95,7 +96,7 @@ updated: 2026-10-05
 > [!feature] 东京湾区[[Innovation Ecosystem|创新生态系统]]的五大核心要素
 > - **国家战略主导的梯次工业分散机制（State-Led Industrial Dispersion Strategy）** 自 20 世纪 60 年代启动，通过统筹交通路网、环境保护、信息共享平台与行政体系改革，将制造生产环节有序分散至湾区外围，推动东京核心区聚焦总部经济、研发设计与高端生产性服务业。[[Argument_Zhang_2023_PHEI|(张寒旭等, 2023, 第4章)]]
 > - **产官学深度绑定与“[[Apprenticeship|师徒制]]”联合培养（University-Industry-Government Apprenticeship System）** 丰田、佳能等跨国领军企业投资建设工业实验室作为高校研究生的教育科研基地，以深度的“师徒制”进行工程研发实践培养；日本科学技术振兴机构（JST）建立国家级科技成果数据库促进信息流通。
-> - **高校[[Technology Transfer|技术转移]]法制化与学者创业松绑（Legislative TLOs & Academic Entrepreneurship Deregulation）** 依据《[[Act on the Promotion of Technology Transfer from Universities to Private Business Operators|大学技术转让促进法]]》设立独立法人资格的技术许可机构（[[Technology Transfer Office|TLO]]），负责挖掘、评估和许可大学专利；以筑波大学为标杆彻底放开大学教师兼职创业及持股限制。
+> - **高校[[Technology Transfer|技术转移]]法制化与学者创业松绑（Legislative TLOs & [[Academic Entrepreneurship]] Deregulation）** 依据《[[Act on the Promotion of Technology Transfer from Universities to Private Business Operators|大学技术转让促进法]]》设立独立法人资格的技术许可机构（[[Technology Transfer Office|TLO]]），负责挖掘、评估和许可大学专利；以筑波大学为标杆彻底放开大学教师兼职创业及持股限制。
 > - **[[Tsukuba Science City|筑波科学城]]与多元中介协同网络（Tsukuba Science City & Collaborative Intermediaries）** 聚集日本国立物质材料研究所、日本产业技术综合研究所等国家级重大研发机构；设立由地方政府、政策投资银行与 76 家民间机构共同出资成立的筑波研究交流支援中心，吸纳超过半数的中小型科技服务机构入驻。
 > - **全球化开放型国际科技人才引进体系（Global Talent Recruitment & Immigration Framework）** 实施宽松的移民居留政策，放宽科技人才工作与居住年限；强力推进[[300,000 Foreign Students Plan|留学30万人计划]]，增加海外派驻教育机构，简化签证与入学考核，为湾区储备全球顶尖智力资源。
 

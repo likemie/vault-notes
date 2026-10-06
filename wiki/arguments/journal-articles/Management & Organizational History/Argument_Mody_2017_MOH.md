@@ -22,19 +22,20 @@ related_concepts:
   - "[[Industry Affiliate Program]]"
   - "[[Academic Entrepreneurship]]"
   - "[[Document]]"
-  - "[[Governance by Spin]]"
   - "[[Membership-based Research Consortium]]"
   - "[[Technology Transfer]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Knowledge Transfer]]"
   - "[[Academic Freedom]]"
   - "[[University-Based Research Center]]"
+  - "[[Co-invention]]"
   - "[[Mentorship]]"
   - "[[Research Universities]]"
   - "[[Grandes Ecoles]]"
   - "[[Champ]]"
   - "[[Blue Skies Research]]"
-related_theories: []
+related_theories:
+  - "[[Institutional Isomorphism]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Active Listening]]"
@@ -47,7 +48,6 @@ related_facts:
   - "[[Semiconductor Research Corporation]]"
   - "[[Microelectronics and Computer Technology Corporation]]"
   - "[[Sematech]]"
-  - "[[Community Innovation Survey]]"
   - "[[National Research and Resource Facility for Submicron Structures]]"
   - "[[Ministry of International Trade and Industry]]"
   - "[[Bell Labs]]"
@@ -102,7 +102,7 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Academic Entrepreneurship\|学术制度创业（Academic Institutional Entrepreneurship）]]**<br>[[Academic Entrepreneurship]] | 将学术创业从单纯的衍生初创企业（[[Governance by Spin\|Spin]]-offs）拓展为行动者识别外部机遇、配置资源并赋予行动正当性以锻造新规程、组织载体与制度视线的动态过程。（p.285） |
+> | **[[Academic Entrepreneurship\|学术制度创业（Academic Institutional Entrepreneurship）]]** | 将学术创业从单纯的商业衍生初创企业（Spin-offs）拓展为行动者识别外部机遇、配置资源并赋予行动正当性以锻造新规程、组织载体与制度视线的动态过程。（p.285） |
 > | **组织同源演进与嵌合（Co-emergence and Commingling）**<br>[[Membership-based Research Consortium]] | 解释大学研究中心与产业研发联盟在外部环境选择压力下的结构镜像、资源互赖与人事网络交融机制。（pp.286, 292–293） |
 
 > [!warrant]- 理论如何支撑论证
@@ -116,7 +116,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **历史档案考证**<br>Historical Archival Research | 系统查阅里根总统图书馆半导体专项卷宗、美国国会图书馆杰克·基尔比档案（Jack S. Kilby Papers）、加州理工学院档案（卡弗·米德卷宗）、康奈尔大学图书馆工程学院院长卷宗、麻省理工学院档案馆杰罗姆·威斯纳档案、华盛顿大学档案馆等[[Primary and Secondary Documents\|一手文献]]。（pp.301–303） |
-> | **机构一手出版物分析**<br>Institutional Documentary Analysis | 细致梳理[[Center for Integrated Systems\|斯坦福集成系统中心]]通讯（[[Community Innovation Survey\|CIS]] Newsletter）、康奈尔亚微米设施研究报告、[[Sematech]] 战略规划文件以及相关行业白皮书。 |
+> | **机构一手出版物分析**<br>Institutional Documentary Analysis | 细致梳理[[Center for Integrated Systems\|斯坦福集成系统中心]]通讯（CIS Newsletter）、康奈尔亚微米设施研究报告、[[Sematech]] 战略规划文件以及相关行业白皮书。 |
 > | **历史比较过程追踪**<br>Comparative Historical Process Tracing | 对比微电子领域与生物技术领域的[[Academic Entrepreneurship\|学术创业]]路径差异，并纵向追踪加州理工学院、康奈尔、斯坦福、德克萨斯大学等中心从 1970 年代至 1990 年代的技术与资助演进。（pp.286–287, 297–299） |
 
 > [!sample-panel]- 样本与材料快照
@@ -184,7 +184,7 @@ issuing_organization: ""
 > | **危机动员话语** | **地缘竞争危机（应对日本 VLSI 计划激发的挽救本国产业意识）** | 基础科学商业化转化与新药创制期望 |
 
 > [!concept-lens] 微电子领域学术制度创业的独特性透镜
-> - **含义** 学术制度创业在此并非指科学家个人创办衍生企业（[[Governance by Spin|Spin]]-offs），而是大学教授与学术管理者主动构建跨组织平台、设立通用洁净室规则并动员多元主体的制度化行动。（pp.285–286）
+> - **含义** 学术制度创业在此并非指科学家个人创办衍生企业（衍生企业（Spin-offs）），而是大学教授与学术管理者主动构建跨组织平台、设立通用洁净室规则并动员多元主体的制度化行动。（pp.285–286）
 > - **用途** 解释为何微电子领域的[[Knowledge Transfer|知识转移]]未能采取点对点的专利许可，而是演变为以多学科物理中心为载体的持久多边治理结构。
 > - **边界** 该模式高度依赖重资产制造装备的共享属性，不适用于依托单项独占专利即可完成价值闭环的轻资产技术领域。（pp.287, 299）
 
@@ -193,7 +193,7 @@ issuing_organization: ""
 ### 论证步骤二　先驱学术中心借用联合体形态，但在人员规模、出资结构与政府协同上产生制度分化
 
 > [!claim] 步骤二核心主张
-> 早期大学微电子实体（如加州理工学院 [[Silicon Structures Project|SSP]]、康奈尔大学 [[National Research and Resource Facility for Submicron Structures|NRRFSS]]、斯坦福大学 [[Community Innovation Survey|CIS]]）探索了向联合体借用制度特性的多元模式，但在政府资金介入、工业界话语权与组织规模匹配度上呈现显著分化。（pp.289–297）
+> 早期大学微电子实体（如加州理工学院 [[Silicon Structures Project|SSP]]、康奈尔大学 [[National Research and Resource Facility for Submicron Structures|NRRFSS]]、斯坦福大学 CIS）探索了向联合体借用制度特性的多元模式，但在政府资金介入、工业界话语权与组织规模匹配度上呈现显著分化。（pp.289–297）
 
 面对日本半导体产业赶超压力，美国顶尖工程院校率先以不同制度形态重构大学微电子实验空间。
 
@@ -203,11 +203,11 @@ issuing_organization: ""
 > 加州理工学院教授卡弗·米德（Carver Mead）在 1970 年代初预见到芯片复杂度激增将导致手工设计难以为继；面对美国企业的冷漠与日本学者的[[Active Listening|积极倾听]]，米德在 1977 年发起设立了硅结构计划（Silicon Structures Project, SSP），开创了企业出资与派驻轮转科学家的微型联合体先河。（pp.290–291）
 
 > [!row-contrast] 1970 年代末三所标志性大学微电子中心的创建特征横向对比
-> | 大学中心 | 发起学者与年份 | 赞助企业与会费机制 | 政府出资角色 | 运行模式与技术重心 | 历史结局与演化转折 |
+> | 大学中心与存续跨度 | 发起学者与年份 | 赞助企业与会费机制 | 政府出资角色 | 运行模式与技术重心 | 历史结局与演化转折 |
 > |---|---|---|---|---|---|
-> | **加州理工学院**<br>[[Silicon Structures Project\|硅结构计划（SSP）]] | 卡弗·米德<br>（1977 年） | 7 家行业主要企业（IBM、施乐、DEC、英特尔、HP 等），每家每年 10 万美元 | **极少政府直接资助**（纯产业出资） | 工业界派遣轮转科学家入校与师生协同开发计算机辅助设计（Computer-Aided Design, CAD）工具 | 因教员规模过小、缺乏政府资金托底，数年后陷入停滞并解体。（pp.290–291, 296） |
-> | **康奈尔大学**<br>[[National Research and Resource Facility for Submicron Structures\|亚微米设施（NRRFSS）]] | 约瑟夫·鲍尔、查尔斯·李、爱德华·沃尔夫（1977 年） | [[Industry Affiliate Program\|产业联盟计划]]（37 家企业，每家年费 8,500 美元） | **[[National Science Foundation\|NSF]] 核心资助**（击败 15 所院校赢得国家用户设施） | 国家开放用户设施，提供机台租赁、工程咨询与人员进驻 | 成功抵御撤资危机，融入 [[Semiconductor Research Corporation\|SRC]] 卓越中心并演进为国家纳米设施网络。（pp.291–293, 297） |
-> | **斯坦福大学**<br>[[Center for Integrated Systems\|集成系统中心（CIS）]] | 约翰·林维尔、詹姆斯·梅恩德尔（1979 年） | 19–20 家赞助商，每家 75 万美元基建捐资 + 10 万美元年费 | **[[DARPA\|国防高级研究计划局]]（DARPA）巨额研发合同** + NSF 支持 | 全流程芯片试验线，软硬件垂直打通，工业研究员派驻 | 克服流片周期摩擦，二度转型为生物微阵列与信息技术平台。（pp.293–296, 298） |
+> | **加州理工学院**<br>[[Silicon Structures Project\|硅结构计划（SSP）]]<br>（1977–1981 年） | 卡弗·米德<br>（1977 年发起） | 7 家行业主要企业（IBM、施乐、DEC、英特尔、HP 等），每家每年 10 万美元 | **极少政府直接资助**（纯产业出资） | 工业界派遣轮转科学家入校与师生协同开发计算机辅助设计（Computer-Aided Design, CAD）工具 | 因教员规模过小、缺乏政府资金托底，数年后陷入停滞并于 1981 年前后解体。（pp.290–291, 296） |
+> | **康奈尔大学**<br>[[National Research and Resource Facility for Submicron Structures\|亚微米设施（NRRFSS）]]<br>（1977 年创设，1987 年更名 CNF 存续至今） | 约瑟夫·鲍尔、查尔斯·李、爱德华·沃尔夫（1977 年设立） | [[Industry Affiliate Program\|产业联盟计划]]（1981 年起吸纳 37 家企业，每家年费 8,500 美元） | **[[National Science Foundation\|NSF]] 核心资助**（击败 15 所院校赢得国家用户设施） | 国家开放用户设施，提供机台租赁、工程咨询与人员进驻 | 成功抵御撤资危机，融入 [[Semiconductor Research Corporation\|SRC]] 卓越中心并演进为国家纳米技术设施网络。（pp.291–293, 297） |
+> | **斯坦福大学**<br>[[Center for Integrated Systems\|集成系统中心（CIS）]]<br>（1979 年筹建，1984 年大楼落成存续至今） | 约翰·林维尔、詹姆斯·梅恩德尔（1979 年筹备） | 19–20 家赞助商，每家 75 万美元基建捐资 + 10 万美元年费 | **[[DARPA\|国防高级研究计划局]]（DARPA）巨额研发合同** + NSF 支持 | 全流程芯片试验线，软硬件垂直打通，工业研究员派驻 | 克服流片周期摩擦，1990 年代后二度转型为生物微阵列与信息技术平台。（pp.293–296, 298） |
 
 > [!critique-logic] 加州理工学院 SSP 的结构性脆弱性
 > 加州理工学院 SSP 的衰亡说明了纯依赖个别明星学者与纯企业出资的微型模式具有高度脆弱性：企业派驻人员规模迅速超过大学教员数量，缺乏公共制度背书与组织缓冲层，导致[[Academic Freedom|学术自由]]探索与企业短期交付诉求产生不可调和的治理摩擦。（pp.291, 296–297）
@@ -252,39 +252,42 @@ NRRFSS 在运营过程中不仅为 40 余家机构提供微纳实验室建设咨
 #### 2. 州政府的制度竞标逻辑：以大学中心作为磁吸产业联合体的核心筹码
 
 > [!row-contrast] 各州利用大学学术中心竞标产业研发联盟总部的历史案例
-> | 州别与中心载体 | 争夺目标产业联盟 | 竞争策略与资源投入 | 最终结果与区域影响 |
-> |---|---|---|---|
-> | **北卡罗来纳州**<br>北卡微电子中心（Microelectronics Center of North Carolina, MCNC） | 半导体研究公司<br>[[Semiconductor Research Corporation\|SRC]] | 州政府联合 5 所重点大学共同出资设立，由州长吉姆·亨特亲自领衔推动。 | **成功落户**<br>SRC 总部落户三角研究园，推动北卡高技术走廊崛起。 |
-> | **得克萨斯州**<br>得州大学奥斯汀分校 MRC | 微电子与计算机技术公司<br>[[Microelectronics and Computer Technology Corporation\|MCC]] | 得州州长马克·怀特向联盟承诺由州政府全资新建大学级微电子研究中心。 | **成功落户**<br>MCC 于 1983 年落户奥斯汀，奠定奥斯汀硅丘高科技集群基础。 |
-> | **得克萨斯州**<br>得州大学奥斯汀分校 MRC | 半导体制造技术战略联盟<br>[[Sematech]] | 本·斯特里特曼教授等学者游说州长，承诺出资数千万美元为大学微电子中心建造顶尖新设施。 | **成功落户**<br>Sematech 选址奥斯汀，击败纽约州伦斯勒理工学院的竞标。 |
-> | **纽约州**<br>纽约州立大学（SUNY）中心群 | 半导体制造技术战略联盟<br>[[Sematech]] | 2010 年代纽约州承诺建造电脑芯片商业化中心与化学机械研磨中心等系列大学配套。 | **逆转回流**<br>Sematech 总部随后被纽约奥尔巴尼地区从得州奥斯汀成功撬走。 |
+> | 州别与中心载体 | 争夺目标产业联盟 | 竞标年份与时间跨度 | 竞争策略与资源投入 | 最终结果与区域影响 |
+> |---|---|---|---|---|
+> | **北卡罗来纳州**<br>北卡微电子中心（Microelectronics Center of North Carolina, MCNC） | 半导体研究公司<br>[[Semiconductor Research Corporation\|SRC]] | **1981–1982 年**（早期联盟落户期） | 州政府联合 5 所重点大学共同出资设立，由州长吉姆·亨特亲自领衔推动。 | **成功落户**<br>SRC 总部落户三角研究园，推动北卡高技术走廊崛起。 |
+> | **得克萨斯州**<br>得州大学奥斯汀分校 MRC | 微电子与计算机技术公司<br>[[Microelectronics and Computer Technology Corporation\|MCC]] | **1982–1983 年**（首轮全美选址竞标） | 得州州长马克·怀特向联盟承诺由州政府全资新建大学级微电子研究中心。 | **成功落户**<br>MCC 于 1983 年落户奥斯汀，奠定奥斯汀硅丘高科技集群基础。 |
+> | **得克萨斯州**<br>得州大学奥斯汀分校 MRC | 半导体制造技术战略联盟<br>[[Sematech]] | **1987–1988 年**（制造联盟选址竞标） | 本·斯特里特曼教授等学者游说州长，承诺出资数千万美元为大学微电子中心建造顶尖新设施。 | **成功落户**<br>Sematech 于 1988 年选址奥斯汀，击败纽约州伦斯勒理工学院的竞标。 |
+> | **纽约州**<br>纽约州立大学（SUNY）中心群 | 半导体制造技术战略联盟<br>[[Sematech]] | **2002–2010 年代**（后期逆向争夺回流） | 纽约州跨期承诺建造电脑芯片商业化中心与化学机械研磨中心等系列大学级微纳配套。 | **逆转回流**<br>Sematech 研发重心与总部随后被纽约奥尔巴尼地区从得州奥斯汀成功撬走。 |
 
 > [!case] 地方政府制度竞标背后的政产学三螺旋动员
-> 州政府领导人（如得克萨斯州长马克·怀特、北卡罗来纳州长吉姆·亨特）将微电子研究中心视为培育本土高技术集群的战略催化剂；通过出资数千万美元兴建前沿大学洁净室与微电子大楼，各州成功将原本分散的联邦研发投资、跨国企业财团与顶尖学术人才锚定在特定地理空间中。（pp.293–294）
+> 州政府领导人（如得克萨斯州长马克·怀特、北卡罗来纳州长吉姆·亨特）将微电子研究中心视为培育本土高技术集群的战略催化剂；通过出资数千万美元兴建前沿大学洁净室与微电子大楼，各州成功将原本分散的联邦研发投资、跨国企业财团与顶尖学术人才锚定在特定地理空间中。
+>
+> 竞标过程亦直接推动了大学工程教育体系与课程形态的重构。例如集成电路[[Co-invention|共同发明]]人、诺贝尔物理学奖得主杰克·基尔比（Jack Kilby）在德克萨斯 A&M 大学任教期间，极力推动在校内设立开拓性的“教学用芯片试验线”（Pedagogical Fab），试图将重资产微电子制造产线置于电气工程本科生核心课程体系中央；基尔比原本期望借助 MCC 落户得州的东风进一步壮大该教学试验线，而得克萨斯大学奥斯汀分校的本·斯特里特曼教授则通过非正式统筹设备资源与州政府支持，促成了更大规模大学科研中心的诞生。（pp.293–294）
 
 ---
 
-### 论证步骤四　在制造试验与搭便车张力中，大学中心凭借多学科灵活性实现跨界二次转型
+### 论证步骤四　在制造试验与人才博弈张力中，大学中心凭借多学科灵活性实现跨界二次转型
 
 > [!claim] 步骤四核心主张
-> 大学微电子中心在自主制造芯片与满足工业界快速流片诉求上面临内在摩擦，甚至引发英特尔等企业的搭便车担忧；然而，深嵌于综合性大学生态的多学科网络赋予了学术中心超越专一性产业联盟的结构灵活性，使其在 1990 年代半导体产业退潮后成功转型为生物芯片与纳米科技平台。（pp.295–299）
+> 大学微电子中心在自主制造芯片与满足工业界快速流片诉求上面临内在摩擦，且在学生培养与定向招聘上引发企业搭便车顾虑；然而，教员与毕业生的跨校流动加速了中心形态的[[Institutional Isomorphism|制度同构]]，而深嵌于大学的多学科生态更赋予学术中心超越专一性产业联盟的结构韧性，使其在 1990 年代半导体退潮后成功跨界转型。（pp.295–299）
 
-大学洁净室在承载工业级制造试验时，不可避免地陷入生产效率与学术探索的微观治理张力。
+大学洁净室在承载工业级制造试验与人才定向输送时，不可避免地陷入生产效率与学术探索的微观治理张力。
 
-#### 1. 制造试验摩擦、搭便车顾虑与企业诉求对齐
+#### 1. 制造试验摩擦、高阶人才争夺与企业诉求对齐
 
 > [!case] 斯坦福 CIS 的 BiCMOS 制造试验与产学脱节
 > 斯坦福集成系统中心（CIS）试图在校园内完整跑通涵盖 15 万晶体管的双极型互补金属氧化物半导体（Bipolar Complementary Metal-Oxide-Semiconductor, BiCMOS）全流程流片，但遭遇了严峻的工程效率脱节：大学洁净室流片耗时长达 18 个月，而工业界工厂仅需 6 周；高昂的维护成本与缓慢的迭代速度使部分企业赞助商大失所望。（pp.295–296）
 
-> [!critique-logic] 英特尔诺伊斯对出资大学微电子中心的搭便车顾虑
-> 英特尔副董事长罗伯特·诺伊斯在面对斯坦福 CIS 的募捐请求时表现犹豫，指出大学中心的研究成果外溢过于宽泛：
+> [!critique-logic] 英特尔诺伊斯对出资大学微电子中心的人才外溢与搭便车顾虑
+> 半导体企业面临日本竞争时，对高水平工科博士短缺（Shortage of Well-Trained Ph.D.s）充满焦虑，这是其向大学大举注资的核心动因；然而，英特尔副董事长罗伯特·诺伊斯在面对斯坦福 CIS 的募捐请求时表现犹豫，揭示出企业赞助与大学研究生培养之间的结构性错配：
 >
-> 收益的扩散远比成本广泛得多。未参与 CIS 的企业将与出资参与的企业受益一样多。除非一家参与公司着眼于更广泛的宏观收益，否则最优获胜策略就是不参与出资。（p.296）
+> 我们担忧从斯坦福招募到的毕业生相对太少……斯坦福的研究生许多属于其他企业的进修借调人员，或者是外国留学生……收益的扩散远比成本广泛得多。未参与 CIS 的企业将与出资参与的企业受益一样多。除非一家参与公司着眼于更广泛的宏观收益，否则最优获胜策略就是不参与出资。（p.296）
 
 > [!pathways] 大学中心对齐产业诉求与化解搭便车的微观治理机制
-> - **FMA 三位一体[[Mentorship|导师制]]（Faculty-Mentor-Advisee Teams）** 斯坦福 CIS 创立由教授、企业导师与研究生组成的研究小组，由产业工程师直接介入课题指导，将企业攻关痛点列入学术日程。（p.297）
+> - **FMA 三位一体[[Mentorship|导师制]]（Faculty-Mentor-Advisee Teams）** 斯坦福 CIS 创立由“教授—企业导师—在读研究生”组成的联合指导小组，由产业工程师直接介入博士生课题指导，将企业攻关痛点直接列入大学学术日程，同时完成前沿工程隐性学问（Lore）的传授。（pp.290, 297）
 > - **在线技术成果分发网络** 建立早期的科研成果在线共享系统，提升工业会员获取专利报告与算法代码的时效性。
 > - **兼顾学术自由的聚焦项目** 设立工业界共同界定核心瓶颈、但研究方案由教授自由探索的立项机制，有效平衡了产业问责与学术探索自由。（pp.295–296）
+> - **师生流动驱动的组织形态同构** 康奈尔 NRRFSS 等中心主动向全美推广运行蓝本，而博士毕业生与青年教员在不同高校微电子中心之间的跨校流动（Personnel Mobility），将洁净室运维规范、计费标准与产学协调机制随身带入新机构，构成了经典模式下的[[Institutional Isomorphism|制度同构]]收敛过程。（p.297）
 
 进入 1990 年代后，随着芯片制造外包与代工模式兴起，大学微电子中心迎来了最严峻的赞助退潮考验。
 
@@ -312,7 +315,7 @@ NRRFSS 在运营过程中不仅为 40 余家机构提供微纳实验室建设咨
 
 > [!stat-cards]- 核心数据与规模快照
 > - **37 家** 1986 年康奈尔大学 [[National Research and Resource Facility for Submicron Structures|NRRFSS]] 产业联盟计划吸纳的会员企业数量，每家年缴纳 8,500 美元。（p.292）
-> - **20 家** 斯坦福大学 [[Community Innovation Survey|CIS]] 的初始企业赞助商数量，每家出资 75 万美元用于专用大楼与装备基建。（p.294）
+> - **20 家** 斯坦福大学 CIS 的初始企业赞助商数量，每家出资 75 万美元用于专用大楼与装备基建。（p.294）
 > - **7 家** 加州理工学院 [[Silicon Structures Project|SSP]] 的创始企业赞助商数量，每家出资 10 万美元年费。（pp.290, 296）
 > - **18 个月 vs 6 周** 斯坦福大学 CIS 流片试验周期与工业界半导体工厂标准制造周期的对比差距。（p.296）
 > - **60% 与 1/3** 1986 年康奈尔 NRRFSS 外部用户占比达到 60%（其中 12% 来自工业界），设施内 1/3 的在研课题获得企业资助。（p.297）
@@ -332,7 +335,7 @@ NRRFSS 在运营过程中不仅为 40 余家机构提供微纳实验室建设咨
 >
 > *Interfacing with an entire university or even a department is inefficient for a consortium, since these organizational forms rarely make quick or uncontested decisions. Interfacing with a single faculty member guarantees faster response, but not breadth of knowledge – and when the consortium’s needs change, the individual professor’s expertise may no longer be relevant. An academic center, however, can act relatively quickly and coherently, and yet can still bring the expertise of a broad and flexible array of faculty to bear on the consortium’s ever-evolving needs.*
 
-> [!citation-card]- 仙童霍根论产业界为何需要类似 [[Community Innovation Survey|CIS]] 的大学中心
+> [!citation-card]- 仙童霍根论产业界为何需要类似 CIS 的大学中心
 > 霍根博士指出，作为美国在高技术领域主要竞争对手的日本，对关乎日本经济未来的重大关键问题基础研究采取了类似的方法。霍根博士表示：“要在外国竞争中获胜，我们需要像 CIS 这样由工业界资助的计划进驻我们最好的半打大学，同时配合产业界自身对基础研究重新焕发的活力。”（p.296）
 >
 > *Dr. Hogan points out that Japan, whom he feels is America’s main competition in high technology, has employed somewhat the same approach to [[Blue Skies Research|Basic Research]] on problems crucial to Japan’s economic future .... ‘To win against foreign competition,’ says Dr. Hogan, ‘we need programs like CIS, sponsored by industry, at a half dozen more of our best universities, coupled with renewed vigor for basic research by industry itself’.*

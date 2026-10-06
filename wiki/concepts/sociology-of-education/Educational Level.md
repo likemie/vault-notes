@@ -10,7 +10,7 @@ aliases:
 summary: "衡量个体或群体接受正规学校教育的时长与最高学历层级的社会学与人口学范畴。在微观层面是认知成熟与认识论信念演化的解释变量，在宏观政治经济学层面是国家财政分配、阶级再生产与双轨分流的制度化阶梯"
 type: concept
 domain: "sociology-of-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -44,6 +44,7 @@ related_theories:
   - "[[Conditioned State Theory]]"
 related_methods:
   - "[[Quantitative Research]]"
+  - "[[Comparative Policy Analysis]]"
   - "[[Longitudinal Study]]"
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-15
-updated: 2026-09-28
+updated: 2026-10-06
 ---
 
 # Educational Level
@@ -77,7 +78,7 @@ updated: 2026-09-28
 
 > [!concept-lens] 概念透镜
 > - **含义** 兼具个体认知发展代理变量与宏观国家教育阶梯资源载体的双重属性。
-> - **用途** 在实证[[Quantitative Research|量化研究]]中用作预测[[Academic Achievement|学业表现]]、认知成熟或社会流动的核心[[Independent Variable|自变量]]/控制变量；在宏观比较政策分析中用以透视国家教育资源的阶级倾斜与层级结构失衡。
+> - **用途** 在实证[[Quantitative Research|量化研究]]中用作预测[[Academic Achievement|学业表现]]、认知成熟或社会流动的核心[[Independent Variable|自变量]]/控制变量；在宏观[[Comparative Policy Analysis|比较政策分析]]中用以透视国家教育资源的阶级倾斜与层级结构失衡。
 > - **边界** 区别于单纯的“入学率”（Enrollment Rate），受教育水平强调个体所达成的实质性学历资格沉淀与整体人口的阶梯分布。
 
 > [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论受教育层级的结构扭曲

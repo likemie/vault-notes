@@ -5,7 +5,7 @@ aliases:
 summary: "Slaughter & Leslie (1997) 提出的概念，描述大学日益卷入专利商业化、产学合作和竞争性拨款等市场导向活动，学术生产与资本积累逻辑深度绑定的制度转型过程"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 28
+theory_related_count: 29
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -44,6 +44,7 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
 related_persons:
+  - "[[Sheila Slaughter]]"
   - "[[Paula Stephan]]"
 related_facts:
   - "[[National Institutes of Health]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-02
+updated: 2026-10-06
 ---
 
 # Academic Capitalism
@@ -76,7 +77,7 @@ updated: 2026-10-02
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 希拉·斯劳特与拉里·莱斯利（Sheila Slaughter & Larry Leslie, 1997）在《学术资本主义：政治、政策与[[Entrepreneurial University|创业型大学]]》（*Academic Capitalism: Politics, Policies, and the Entrepreneurial University*）中首次提出，后由斯劳特与罗德斯（Slaughter & Gary Rhoades, 2004）在《学术资本主义与新经济》中系统扩展为涵盖学术资本主义知识体制（academic capitalism knowledge regime）的分析体系。
+> - **提出者与原始文本** [[Sheila Slaughter|希拉·斯劳特]]与拉里·莱斯利（Sheila Slaughter & Larry Leslie, 1997）在《学术资本主义：政治、政策与[[Entrepreneurial University|创业型大学]]》（*Academic Capitalism: Politics, Policies, and the Entrepreneurial University*）中首次提出，后由斯劳特与罗德斯（Slaughter & Gary Rhoades, 2004）在《学术资本主义与新经济》中系统扩展为涵盖学术资本主义知识体制（academic capitalism knowledge regime）的分析体系。
 > - **原初问题** 面对 1980 年代以来英美等国政府紧缩经常性高教财政拨款，大学与学者为何不仅被动应对，反而主动发起一系列商业化与市场竞争行为。
 > - **理论资源与材料** 吸收了资源[[Dependency Theory|依附理论]]（Resource Dependence Theory）、马克思主义政治经济学积累危机理论以及皮埃尔·布尔迪厄的[[Champ|场域]]与资本理论。
 > - **形成路径** 从追踪美、英、澳、加四国高校教师获取竞争性研究基金、申请专利与提供商业咨询的微观行动出发，提炼出高等教育机构如何从“公共品知识体制”向“学术资本主义知识体制”整体迁移的制度化解释。

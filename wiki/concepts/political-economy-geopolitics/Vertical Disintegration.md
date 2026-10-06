@@ -14,7 +14,7 @@ aliases:
 summary: "纵向离散指原本整合在大型垄断企业内部的研发、设计、制造与封装等全价值链环节，解构并分散至专业化设计公司、代工厂、设备商与测试商等独立实体的产业组织形态；该结构赋予产业敏捷产品创新优势，但导致跨环节协调失灵、长周期基础研究萎缩，并在当代演化为极度地理集中与单点咽喉依赖的跨国多阶段网络，使单一国家推行封闭式国家冠军策略在现代彻底失效。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Boundary Spanner]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Strategic Autonomy]]"
   - "[[Import Substitution Industrialisation]]"
   - "[[National Innovation System]]"
   - "[[Modern Industrial Policy]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Vertical Disintegration
@@ -167,7 +168,7 @@ updated: 2026-10-05
 
 ### 命题四　纵向离散的多阶段全球网络使单一国家推行全产业链国家冠军模式失效并凸显单点咽喉依赖
 
-> [!concept-lens] 极端专业化分工对国家战略自主政策的刚性约束
+> [!concept-lens] 极端专业化分工对国家[[Strategic Autonomy|战略自主]]政策的刚性约束
 > 探讨现代跨国极度细分与地理集中的分工体系如何瓦解传统封闭式[[Import Substitution Industrialisation|进口替代]]与国家冠军扶持逻辑。
 
 > [!claim] [[Argument_Bown_2024_JEP|Bown & Wang (2024)]]

@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -30,7 +30,8 @@ related_concepts:
   - "[[Policy Conditionalities]]"
   - "[[Learning by Doing]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -38,8 +39,10 @@ related_facts:
   - "[[Infrastructure Investment and Jobs Act]]"
   - "[[International Reading Association]]"
   - "[[Department of Energy]]"
+  - "[[European Chips Act]]"
 related_arguments:
   - "[[Argument_Reynolds_2024_JICT]]"
+  - "[[Argument_Bulfone_2024_IAI]]"
 confidence: high
 status: active
 created: 2026-10-06
@@ -167,7 +170,7 @@ updated: 2026-10-06
 > >
 > > - **美国政策倡导者** 认为重构本土完整绿色产业链是保障国家安全与防止地缘断链的必要手段。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 13)]]
 > > - **欧盟与亚洲盟友（[[Argument_Reynolds_2024_JICT|Reynolds, 2024]]）** 批评本土含量条款（Local Content Requirements）具有歧视性，迫使欧洲出台“绿色协议产业计划”（Green Deal Industrial Plan）应对资本外流。（p. 14）
-> > - **比较政治经济学批评（[[Argument_Bulfone_2024_IAI|Bulfone et al., 2024]]）** 指出《通胀削减法案》与《芯片与科学法案》形成的巨额补贴组合拳，对欧洲本土核心制造业和关键技术人才产生了极强烈的虹吸效应；该法案直接构成了打碎欧盟纯粹依赖多边贸易秩序幻想的“外部催化剂”，倒逼欧洲议会与理事会仓促跟进出台《欧洲芯片法案》并大规模松绑成员国国家援助审查规则。（p. 8）
+> > - **比较政治经济学批评（[[Argument_Bulfone_2024_IAI|Bulfone et al., 2024]]）** 指出《通胀削减法案》与《[[CHIPS and Science Act|芯片与科学法案]]》形成的巨额补贴组合拳，对欧洲本土核心制造业和关键技术人才产生了极强烈的虹吸效应；该法案直接构成了打碎欧盟纯粹依赖多边贸易秩序幻想的“外部催化剂”，倒逼欧洲议会与理事会仓促跟进出台《[[European Chips Act|欧洲芯片法案]]》并大规模松绑成员国国家援助审查规则。（p. 8）
 >
 > > [!axis] 税收抵免无上限 vs 联邦财政赤字压力
 > > 争论无上限税收激励是否会带来超出预期的巨额财政负担。
@@ -198,7 +201,7 @@ updated: 2026-10-06
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关研究索引
-> - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 系统解构《通胀削减法案》的技术中立税收抵免机制、五倍现行工资与学徒制乘数以及环境正义40倡议，评估其对美国清洁能源制造与高质量就业的制度效能（pp. 9–14）。
-> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 比较美欧产业政策演进，指出《通胀削减法案》与《芯片与科学法案》的巨额出资构成了对欧洲制造业的外部虹吸压力，成为倒逼欧盟打破多边贸易惯性、仓促出台欧洲芯片法案的关键政治经济催化剂（p. 8）。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 系统解构《通胀削减法案》的技术中立税收抵免机制、五倍现行工资与[[Apprenticeship|学徒制]]乘数以及环境正义40倡议，评估其对美国清洁能源制造与高质量就业的制度效能（pp. 9–14）。
+> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 比较美欧产业政策演进，指出《通胀削减法案》与《[[CHIPS and Science Act|芯片与科学法案]]》的巨额出资构成了对欧洲制造业的外部虹吸压力，成为倒逼欧盟打破多边贸易惯性、仓促出台[[European Chips Act|欧洲芯片法案]]的关键政治经济催化剂（p. 8）。
 

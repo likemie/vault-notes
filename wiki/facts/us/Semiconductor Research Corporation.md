@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 29
+fact_related_count: 31
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -54,12 +54,14 @@ related_facts:
   - "[[National Science and Technology Council]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[American Council on Education]]"
+  - "[[National Research and Resource Facility for Submicron Structures]]"
   - "[[Microelectronics and Computer Technology Corporation]]"
 related_arguments:
   - "[[Argument_Ramming_2025_CorporateSupport]]"
   - "[[Argument_Grindley_1994_JPAM]]"
   - "[[Argument_Logar_2014_Minerva]]"
   - "[[Argument_Macher_1998_CMR]]"
+  - "[[Argument_Mody_2017_MOH]]"
 confidence: high
 status: active
 created: 2026-06-04
@@ -139,6 +141,8 @@ updated: 2026-10-06
 > [!finding-cards] 关键成效与辐射影响
 > - **第二代半导体产学前竞争联合体的典范标杆** 在半导体跨界协同的三代制度演进中，SRC 作为第二代“行业前竞争联盟”的标志性组织，汇聚数十家竞争企业筹资并配合国际半导体技术路线图（ITRS）攻坚工艺微缩与新材料物理极限，成功探索出让竞争对手在底层科学层面共享资金、分摊风险并共同培育高素质后备工程师的制度模板，成为全球公私研发合作（[[Public-Private Partnership in Research|PPP]]）的教科书[[Paradigm|范式]]。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
 > - **支撑 [[Sematech]] 等[[Industry Affiliate Program|产业联盟]]的基础研究短板** 弥补了工业制造联盟聚焦中短期工程开发的局限，为全产业链提供了深厚的上游学科地基。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 754)]]
+> - **依托大学中心充当校园内部技术经纪人** 莫迪（[[Argument_Mody_2017_MOH|Mody, 2017]]）指出，SRC 在对接学术界时克服了院系官僚迟缓与个别学者知识老化的双重困境，通过与康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]]（设立微科学卓越中心，主任爱德华·沃尔夫进入 SRC 大学顾问委员会）与斯坦福 CIS 等大学多学科中心深度嵌合，将高校跨系所教员直接编织进国家行业路线图。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 292–293)]]
+> - **催化北卡罗来纳州微电子产业走廊崛起** 1980 年代初北卡罗来纳州长吉姆·亨特联合 5 所重点大学出资设立北卡微电子中心（MCNC），并成功将 SRC 总部争夺吸纳至三角研究园（[[Research Triangle Park|RTP]]），成为美国各州利用大学中心开展高技术制度竞标的早期经典战役。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 293–294)]]
 > - **为《[[CHIPS and Science Act|芯片法案]]》与 [[National Science and Technology Council|NSTC]] 奠定制度雏形** 2022 年《芯片与科学法案》在规划[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）的产学协同与人才发展网络时，高度复刻了 SRC 运行 40 余年的运作架构与同行评审机制。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
 
 ---
@@ -188,6 +192,7 @@ updated: 2026-10-06
 > | [[Public-Private Partnership in Research]] | Concept | SRC 作为行业自律与公私协同典范所代表的产学研合作[[Paradigm\|范式]]。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 推动设立 NSTC、在国家层面上扩展 SRC [[University-Industry Collaboration\|产学合作]]与人才培养模式的现代核心法案。 |
 > | [[David C. Mowery]] | Person | 系统评估 Sematech 与 SRC 在国家[[Systems of Innovation\|创新系统]]（NIS）中分工定位的科技政策学者。 |
+> | [[Argument_Mody_2017_MOH\|Mody (2017)]] | Argument | 探讨 SRC 与康奈尔 [[National Research and Resource Facility for Submicron Structures\|NRRFSS]]、斯坦福 CIS 等大学中心同源嵌合及北卡竞标总部历史的研究。 |
 
 ---
 

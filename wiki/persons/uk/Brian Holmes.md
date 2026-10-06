@@ -8,7 +8,7 @@ summary: "英国著名比较教育学家与科学哲学家，伦敦大学教育�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 68
+person_related_count: 69
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -60,6 +60,7 @@ related_methods:
   - "[[Problem Approach]]"
   - "[[Analytic Framework]]"
   - "[[Typological Analysis]]"
+  - "[[Comparative Policy Analysis]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -99,7 +100,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-03
+updated: 2026-10-06
 ---
 
 # Brian Holmes
@@ -198,7 +199,7 @@ updated: 2026-10-03
 > [!contrast-table] 核心命题总览
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
-> | **假说演绎问题求解命题** | 以现实教育问题与文化滞后为起点，结合初始条件进行审慎政策后果预测（$L + I = P$） | 比较政策分析、改革方案评估与零星社会工程 | Holmes (1965, pp. 19–21); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 150)]] |
+> | **假说演绎问题求解命题** | 以现实教育问题与文化滞后为起点，结合初始条件进行审慎政策后果预测（$L + I = P$） | [[Comparative Policy Analysis\|比较政策分析]]、改革方案评估与零星社会工程 | Holmes (1965, pp. 19–21); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 150)]] |
 > | **批判二元论情境权变命题** | 区分人为规范法则与权变社会学法则，反对超越时空的绝对普适铁律与机械宿命论 | 比较认识论、制度文化分析与科学哲学 | Holmes (1981, p. 78); [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, p. 63)]] |
 > | **反归纳实证清算命题** | 单纯经验归纳与无情境量化指标无法揭示深层文化精神与决策意志 | [[Positivism\|实证主义]]批判、跨国指标设计反思 | Holmes (1981, p. 110); [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, p. 66)]] |
 > | **合法化借口批判命题** | 实证政策科学充当了战后国家发展计划与跨国技术援助的政治合法化工具 | 比较学科史反思、发展援助政策批判 | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 146–147)]] |

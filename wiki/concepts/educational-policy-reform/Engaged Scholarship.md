@@ -7,7 +7,7 @@ aliases:
 summary: "由安德鲁·范德文与保罗·约翰逊（2006）开创的学术探究范式，主张将理论与实践的脱节界定为知识生产方式问题，通过学者与实践者在复杂现实问题上的平等合作与协同探究，从源头上弥合学术象牙塔与实践现场的制度与认识论鸿沟。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Boundary Spanner]]"
   - "[[Problem Solving]]"
+  - "[[National Competitive Advantage]]"
   - "[[Knowledge Co-production]]"
   - "[[Problem Finding]]"
   - "[[International Education]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 
 # Engaged Scholarship
@@ -109,7 +110,7 @@ updated: 2026-09-22
 > - **合作探究与实证研究设计（Collaborative Research Design）** 实践人员深度介入调研方案设计、课堂观察指标研制、阶段性试误与数据收集，保障研究方案具有微观可行性。
 > - **行动方案与理论成果的联合[[Transfer Translation Transformation\|转译]]（Joint [[Problem Solving]] & Translation）** 产出兼顾理论贡献与现实收益的双轨成果，既形成经同行评议的学术成果，又转化为指导学校变革的可操作干预工具与政策备忘录。
 
-> [!logic-map]- 范德文参与式学术钻石模型（Diamond Model）
+> [!logic-map]- 范德文参与式学术[[National Competitive Advantage|钻石模型]]（Diamond Model）
 > ```mermaid
 > flowchart TD
 >     subgraph Core ["参与式学术核心循环"]
@@ -156,7 +157,7 @@ updated: 2026-09-22
 
 > [!dev-timeline] 参与式学术的概念演变历程
 > - **2006 — 理论奠基与三大框架确立** Andrew H. Van de Ven 与 Paul E. Johnson 发表论文，系统区分理论—实践脱节的转移问题、形态异质问题与生产方式问题，正式奠定“参与式学术”的概念基石。
-> - **2007 — 专著体系化与钻石模型问世** Van de Ven 出版专著 *Engaged Scholarship: A Guide for Organizational and Social Research*（牛津大学出版社），系统构建由[[Problem Finding\|问题界定]]、理论建构、研究设计与解决问题组成的四大钻石循环模型。
+> - **2007 — 专著体系化与[[National Competitive Advantage|钻石模型]]问世** Van de Ven 出版专著 *Engaged Scholarship: A Guide for Organizational and Social Research*（牛津大学出版社），系统构建由[[Problem Finding\|问题界定]]、理论建构、研究设计与解决问题组成的四大钻石循环模型。
 > - **2010s — 拓展至基础教育与社会治理全域** 参与式学术思想被广泛引入教育科学领域，成为理解英国[[Teaching and Learning Research Programme\|教与学研究计划]]（TLRP）、加拿大[[Knowledge Mobilisation\|知识动员]]网络以及美国[[Research-Practice Partnership\|研究-实践伙伴关系]]（RPP）的统领性[[Epistemology\|认识论]]。
 > - **2022 — 复杂系统研究生态视角的整合** [[OECD]] [[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI）在 Révai (2022) 中将参与式学术置于[[International Education\|国际教育]][[Research Utilization\|研究利用]]的复杂系统网络之中，揭示其作为超越线性转移、达成全系统[[Knowledge Production\|知识生产]]与使用良性循环的关键纽带。
 

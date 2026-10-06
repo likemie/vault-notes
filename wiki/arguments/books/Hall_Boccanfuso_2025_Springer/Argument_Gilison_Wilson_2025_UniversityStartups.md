@@ -14,7 +14,6 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[University Spin-Out]]"
-  - "[[Governance by Spin]]"
   - "[[Research Universities]]"
   - "[[University-Industry Collaboration]]"
   - "[[Sponsored Research Agreement]]"
@@ -71,7 +70,7 @@ title: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_key: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_display_title: "University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration"
 argument_kind: "book"
-argument_related_count: 41
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -87,7 +86,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> [[University Spin-Out\|大学衍生企业]]（[[Governance by Spin\|Spin]]-outs）常被浪漫化，学生宿舍里的灵感、辍学创业、一夜成功。但现实中，"成功的大学衍生企业才是真正的独角兽"(p.142)。
+> [[University Spin-Out\|大学衍生企业]]（Spin-outs）常被浪漫化，学生宿舍里的灵感、辍学创业、一夜成功。但现实中，"成功的大学衍生企业才是真正的独角兽"(p.142)。
 >
 > 核心问题是，产业伙伴在大学衍生企业的创建和成长过程中，最有效、最实际的参与方式是什么？哪些结构性障碍限制了产业直接推动衍生企业创建的能力？哪些大学主导的项目机制能够有效撬动产业的市场洞察来提升衍生企业的成功几率？
 >
@@ -282,7 +281,7 @@ citation_aliases:
 
 ---
 
-22. 关于产业是否应该直接发起衍生企业，大学领导者对此有高度一致的反馈："产业直接发起衍生企业是扼杀真正颠覆性创新的必然方式"（the sure way to kill truly disruptive innovation is to have industry directly initiate startup and [[Governance by Spin|Spin]]-out creation at universities, p.148）。为什么？因为企业天然偏好"增量创新"而非"颠覆性创新"，前者可以在现有产品线和客户群中快速变现，后者会颠覆企业自己已有的业务。一项可以让全世界的课本都免费、个性化、实时更新的教育分发技术，对教育出版商来说是"威胁"而非"机遇"——如果出版商控制着衍生企业的方向，它会引导技术往"如何让课本卖得更贵"的方向走，而非"如何让课本变得不再需要"。
+22. 关于产业是否应该直接发起衍生企业，大学领导者对此有高度一致的反馈："产业直接发起衍生企业是扼杀真正颠覆性创新的必然方式"（the sure way to kill truly disruptive innovation is to have industry directly initiate startup and Spin-out creation at universities, p.148）。为什么？因为企业天然偏好"增量创新"而非"颠覆性创新"，前者可以在现有产品线和客户群中快速变现，后者会颠覆企业自己已有的业务。一项可以让全世界的课本都免费、个性化、实时更新的教育分发技术，对教育出版商来说是"威胁"而非"机遇"——如果出版商控制着衍生企业的方向，它会引导技术往"如何让课本卖得更贵"的方向走，而非"如何让课本变得不再需要"。
 
 ---
 

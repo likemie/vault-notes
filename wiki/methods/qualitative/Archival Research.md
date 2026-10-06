@@ -7,7 +7,7 @@ summary: "一种通过访问、筛查和分析档案馆与记录办公室中保�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_methods:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]]"
   - "[[Argument_Lecuyer_1999_HT]]"
+  - "[[Argument_Mody_2017_MOH]]"
 related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Document]]"
@@ -38,7 +39,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-03
+updated: 2026-10-06
 ---
 
 # Archival Research

@@ -8,7 +8,7 @@ aliases:
 summary: "Lynne Zucker 与 Michael Darby（1996, 2001）提出的科学社会学与创新经济学概念，指在颠覆性技术突破早期掌握不可编码隐性专有知识（自然知识资本）的极少数顶尖学者。该理论指出明星科学家在技术极早期倾向于自我封闭保护成果；Fuchs（2010）进一步证明公共代理人需通过非正式网络治理打破明星科学家的知识壁垒以加速产业扩散。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Research Translation]]"
   - "[[Activity Traps]]"
-  - "[[Governance by Spin]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge Transfer]]"
   - "[[Network Governance]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Star Scientists
@@ -91,7 +90,7 @@ updated: 2026-10-05
 > - **自然[[Intellectual Capital|知识资本]]（Naturally Occurring Intellectual Capital）** 突破性发现在极早期高度依赖科学家个人的实验直觉、独特工艺技巧与非标准化配方，无法被文字完全表述。
 > - **排他性与守门行为（Gatekeeping & Excludability）** 明星科学家及其门生倾向于形成紧密闭合的合作网络，防止关键技术细节过早外泄给竞争学术团队。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1140–1141)]]
 > - **符号资本与权威光环（Symbolic Capital）** 其学者声誉构成了技术可行性的最强信誉背书，能够直接影响国家研发立项与大企业战略投资决策。
-> - **跨界流动与衍生孵化（[[Governance by Spin|Spin]]-off & Mobility）** 明星科学家通过兼职顾问、创立衍生初创企业（Start-ups）或指导博士后进入工业界，成为前沿[[Research Translation|技术转化]]的根本枢纽。
+> - **跨界流动与衍生孵化（Spin-off & Mobility）** 明星科学家通过兼职顾问、创立衍生初创企业（Start-ups）或指导博士后进入工业界，成为前沿[[Research Translation|技术转化]]的根本枢纽。
 
 > [!logic-map]- 明星科学家与前沿技术扩散机制
 > ```mermaid

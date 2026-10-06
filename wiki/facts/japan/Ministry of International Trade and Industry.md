@@ -5,9 +5,9 @@ subtype: organization
 region: japan
 fact_region: "japan"
 fact_kind: "organization"
-fact_related_count: 22
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 29
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 国家内阁核心经济与产业科技管理部委
 headquarters: 日本东京（Tokyo, Japan）
@@ -41,14 +41,21 @@ related_persons:
   - "[[Mariana Mazzucato]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
+  - "[[Argument_Mody_2017_MOH]]"
   - "[[Argument_Bown_2024_JEP]]"
 related_facts:
   - "[[VLSI Project]]"
+  - "[[Silicon Structures Project]]"
+  - "[[National Research and Resource Facility for Submicron Structures]]"
+  - "[[Semiconductor Research Corporation]]"
+  - "[[Microelectronics and Computer Technology Corporation]]"
+  - "[[Sematech]]"
   - "[[1986 U.S.-Japan Semiconductor Trade Agreement]]"
+  - "[[National Science Foundation]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-05
+updated: 2026-10-06
 title: Ministry of International Trade and Industry
 aliases:
   - MITI
@@ -95,11 +102,13 @@ aliases:
 
 > [!dimension] 理论意义与实践贡献
 > - **后发追赶使命政策（骆驼形态）的理论基石** [[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）指出，MITI 证明了第一代使命政策的核心逻辑——通过韦伯式精英官僚网络与国家意志，动员全社会资源承担长周期探索风险，奠定现代产业基础。（pp. 792–793）
+> - **倒逼西方重构微电子研发体制的外部制度催化剂** 赛勒斯·莫迪（Cyrus C. M. Mody）指出，MITI 主导的半导体联合研发模式不仅推动了日本国内的技术崛起，更被美国产业界与决策层视为产业联合体（Research Consortia）的先驱模板（Sematech 在 1991 年报告中明确指出日本在 1971 至 1980 年间共建立了 5 个半导体研发联合体）。MITI 四年内向 [[VLSI Project|VLSI]] 计划注资 2.33 亿美元的国家行动，被美国学者与产业领袖广泛援引为“地缘生存危机”，直接成为加州理工学院（[[Silicon Structures Project|SSP]]）、康奈尔大学（[[National Research and Resource Facility for Submicron Structures|NRRFSS]]）、斯坦福大学（CIS）建立大学微电子中心，以及美国设立[[Semiconductor Research Corporation|半导体研究公司]]（[[Semiconductor Research Corporation|SRC]]）、[[Microelectronics and Computer Technology Corporation|微电子与计算机技术公司]]（[[Microelectronics and Computer Technology Corporation|MCC]]）和[[Sematech|半导体制造技术战略联盟]]（[[Sematech]]）的核心动员话语。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 289, 292, 296)]]
 > - **发展型国家的当代转型启示** 随着日本从[[Technological Catch-up|技术追赶]]走向全球技术前沿，MITI 展现了从追赶型外汇管制向开辟 21 世纪环境、清洁能源与前沿数字技术新使命的动态能力演进，为亚洲各国的政策转型提供了持续的经验样本。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 796)]]
 
 > [!stat-cards]- [[VLSI Project|VLSI]] 项目核心数据
 > - **1976–1979 年** 超大规模集成电路（Very Large Scale Integration，VLSI）国家攻坚计划实施期间，MITI 主导下五大企业联合运营共享研发设施。
 > - **五家** 联合参与 VLSI 计划的骨干企业：富士通（Fujitsu）、日立（Hitachi）、三菱电机（Mitsubishi Electric）、日本电气（NEC）和东芝（Toshiba）——横跨市场激烈竞争的对手，被强制共享基础研发资源。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 83–84)]]
+> - **2.33 亿美元** MITI 在四年内对 VLSI 联合攻关计划投入的研发预算总额，成为引发美国朝野震动并推动大学与产业界重构多边研发平台的关键外生冲击。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 292)]]
 > - **70%+** 1980 年代初日本企业在全球动态随机存取存储器（Dynamic Random Access Memory，DRAM）市场的份额峰值，标志着第一代使命政策追赶成效。
 > - **1986 年** [[1986 U.S.-Japan Semiconductor Trade Agreement|美日半导体贸易协定]]签署，要求日本保证外国芯片厂商在日市场份额不低于 20%，标志着追赶型使命政策高峰期终结。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 84–86)]]
 
@@ -118,6 +127,8 @@ aliases:
 > | [[Directionality of Innovation]] | 概念 | MITI 的产业愿景为日本技术演进设定了明确的高附加值方向。 |
 > | [[Modern Industrial Policy]] | 概念 | VLSI 计划是 [[Argument_Bown_2024_JEP\|Bown & Wang（2024）]]分析现代产业政策历史前身的核心案例，骆驼形态第一代使命政策的制度实例。 |
 > | [[Vertical Disintegration]] | 概念 | 日本国家冠军集成模式在 1990 年代后全球产业分散化浪潮中的历史对照案例。 |
+> | [[National Research and Resource Facility for Submicron Structures]] | 事实（机构） | MITI 推进 VLSI 计划引发的地缘竞争危机，直接促使 [[National Science Foundation\|NSF]] 批准资助康奈尔建立该国家微电子用户设施。 |
+> | [[Argument_Mody_2017_MOH\|Mody (2017)]] | 论证 | 莫迪剖析 MITI 联合攻关模式如何作为外部制度催化剂，倒逼美国产学界重构微电子中心与研发联合体的实证研究。 |
 
 ---
 

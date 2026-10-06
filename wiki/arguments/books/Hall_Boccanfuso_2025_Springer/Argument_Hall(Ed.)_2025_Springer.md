@@ -10,7 +10,7 @@ title: "Argument_Hall(Ed.)_2025_Springer"
 argument_key: "Argument_Hall(Ed.)_2025_Springer"
 argument_display_title: "University-Industry Collaboration: Innovation at the Interface"
 argument_kind: "book"
-argument_related_count: 90
+argument_related_count: 91
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -28,6 +28,7 @@ tags:
   - "source/edited-volume"
 related_concepts:
   - "[[University-Industry Collaboration]]"
+  - "[[Workforce Development]]"
   - "[[Research Impact]]"
   - "[[Academic Freedom]]"
   - "[[Heterogeneity]]"
@@ -156,7 +157,7 @@ citation_aliases:
 
 > [!abstract]
 > **对齐（alignment）的三个层次**
-> - **高度对齐的领域** 人才发展（workforce development）、经济增长、知识产权——双方都有强烈动机
+> - **高度对齐的领域** 人才发展（[[Workforce Development]]）、经济增长、知识产权——双方都有强烈动机
 > - **部分对齐的领域** 研究与学术——大学视其为目的本身，企业更多将其视为服务于盈利的手段
 > - **容易分歧的领域** 盈利 vs 学术声誉——从研究发现到"钱"和"名声"，企业和大学的路径截然不同：企业更直接地通过产品创新追求变现，大学更直接地通过引用追求[[Research Impact\|研究影响力]]
 

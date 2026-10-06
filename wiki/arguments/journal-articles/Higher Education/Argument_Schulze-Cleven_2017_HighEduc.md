@@ -12,7 +12,7 @@ title: "Argument_Schulze-Cleven_2017_HighEduc"
 argument_key: "Argument_Schulze-Cleven_2017_HighEduc"
 argument_display_title: "The new political economy of higher education: between distributional conflicts and discursive stratification"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -62,6 +62,7 @@ related_theories:
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Qualitative Interview]]"
+  - "[[Comparative Policy Analysis]]"
   - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
@@ -271,7 +272,7 @@ Slaughter & Leslie(1997)和 Slaughter & Rhoades(2004)的 [[Academic Capitalism|�
 
 **分歧二：符号秩序可以被因果地解释吗？**
 
-比较政策分析和功能主义解释倾向于寻找驱动学术竞争和分层的主要因果因素和机制。例如：REF 评估结果 → 拨款差异 → 大学行为改变，这是一条因果链。
+[[Comparative Policy Analysis|比较政策分析]]和功能主义解释倾向于寻找驱动学术竞争和分层的主要因果因素和机制。例如：REF 评估结果 → 拨款差异 → 大学行为改变，这是一条因果链。
 
 话语理论则拒绝这种"深层次原因 vs 表面现象"的区分框架。对于话语理论者来说，排名不是在"反映"或"掩盖"一个更深层的权力结构，排名本身就是权力运作的场所。话语不是现实的面纱，而是现实的织布机。
 

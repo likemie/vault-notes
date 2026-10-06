@@ -7,7 +7,7 @@ summary: "通过操纵教育处理、项目或实践条件来检验效果及因�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Experiential Learning]]"
   - "[[Attrition]]"
+  - "[[Reproducibility Crisis]]"
   - "[[Evidence-Based Education]]"
   - "[[Chain of Evidence]]"
   - "[[Epistemic Cognition]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-05'
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 
 ## 定义
@@ -104,7 +105,7 @@ updated: 2026-09-22
 > - **数量下降或停滞** 五本[[Experiential Learning\|经验教育]]心理学期刊中，干预研究比例从 2000 年的 40% 降至 2010 年的 25%，2020 年仍为 25%；随机实验则从 2010 年的 23% 继续降至 2020 年的 20%([[Argument_Brady_2023_EPR\|Brady et al., 2023, pp.6-7]])。
 > - **资源与时间成本高** 干预研究通常需要时间、经费和学校合作；研究者的发表压力可能促使他们选择较快完成的数据收集设计([[Argument_Brady_2023_EPR\|Brady et al., 2023, p.8]])。
 > - **学校合作条件受限** K-12 学校中的问责指标、高风险测试、教师压力和[[Attrition\|流失]]可能降低学校参与课堂实验的意愿；干预虽旨在改善学生经验，但对教师和管理者而言可能显得笨重。
-> - **小样本和统计功效问题** 许多干预研究，尤其是[[Experimental Research\|实验研究]]，样本较小；心理学复制危机可能提高了研究者对低统计功效的敏感度，并推动他们转向大型既有数据集，尽管这些数据通常是相关性的。
+> - **小样本和统计功效问题** 许多干预研究，尤其是[[Experimental Research\|实验研究]]，样本较小；心理学[[Reproducibility Crisis|复制危机]]可能提高了研究者对低统计功效的敏感度，并推动他们转向大型既有数据集，尽管这些数据通常是相关性的。
 
 ---
 

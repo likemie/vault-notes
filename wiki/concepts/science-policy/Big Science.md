@@ -2,10 +2,10 @@
 summary: "指以国家战略意志为导向、依赖巨额公共财政与集中式国家实验室攻关突破性物理与工程极限的科研组织范式。其在第二代使命政策中展现强大技术突破力，但在应对复杂社会挑战时遭遇制度局限；当代大科学成本膨胀与问责刚性化进一步加剧了科学社会契约的内部张力与合法性危机。"
 type: concept
 domain: "science-policy"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 31
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/science-policy
   - big-science
@@ -14,6 +14,7 @@ tags:
   - mission-oriented
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Reproducibility Crisis]]"
   - "[[Distributed Agency]]"
   - "[[Scientific Paradigm]]"
   - "[[Wicked Problem]]"
@@ -21,18 +22,20 @@ related_concepts:
   - "[[National Innovation System]]"
   - "[[Learning by Doing]]"
   - "[[Total Quality Management]]"
+  - "[[Megascience Installations]]"
+  - "[[Technology-Oriented Social Contract]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Directionality of Innovation]]"
   - "[[Complexity Paradox]]"
   - "[[Unit of Analysis]]"
-  - "[[Technology-Oriented Social Contract]]"
 related_theories:
+  - "[[Social Contract of Science]]"
   - "[[Technological Trajectories]]"
   - "[[Evolutionary Economics]]"
   - "[[Systems of Innovation]]"
   - "[[Three Generations of Mission-Oriented Policy]]"
-  - "[[Social Contract of Science]]"
-related_methods: []
+related_methods:
+  - "[[Correlational Research]]"
 related_persons:
   - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"
@@ -44,12 +47,12 @@ related_facts:
   - "[[DARPA]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
-  - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Fan_2026_BCAS]]"
+  - "[[Argument_Freeman_1995_CJE]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-05
+updated: 2026-10-06
 title: Big Science
 aliases:
   - 大科学
@@ -71,8 +74,8 @@ aliases:
 > - **用途** 帮助科技政策学者区分不同类型科技任务的组织治理构型，评估大型国家实验室的战略效能与外溢机制。
 > - **边界** 适用于目标明确、工程界定清晰的物理与重工业技术攻关；不等于分散在大学内部的自由探索型基础科研。
 
-> [!citation-card] 樊春良论大科学成本膨胀对科学社会契约的制度压力
-> 科学体系自身演化进一步加剧了科学社会契约的压力，如大科学模式推高科研成本，强化了外部绩效问责与政治审计；近年来学术界广泛讨论的“可重复性危机”则削弱了部分领域的知识权威，使基础科学在为什么值得支持、如何被评价与应当解决什么问题三个层面均失去了自动的正当性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
+> [!citation-card] 樊春良论大科学成本膨胀对[[Social Contract of Science|科学社会契约]]的制度压力
+> 科学体系自身演化进一步加剧了科学社会契约的压力，如大科学模式推高科研成本，强化了外部绩效问责与政治审计；近年来学术界广泛讨论的“[[Reproducibility Crisis|可重复性危机]]”则削弱了部分领域的知识权威，使基础科学在为什么值得支持、如何被评价与应当解决什么问题三个层面均失去了自动的正当性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 >
 > *大科学模式推高科研成本并强化外部问责，与可重复性危机交织，使科学正当性从自明走向不稳定且具有争议性的结构形态。*
 
@@ -149,7 +152,7 @@ aliases:
 > 审视大科学高成本演进如何反向推升外部行政审计、终结基础研究的免检特权。
 
 > [!claim] [[Argument_Fan_2026_BCAS|樊春良 (2026)]]
-> **大科学成本膨胀终结基础研究免检特权** 樊春良指出，2010 年代以来美国[[Social Contract of Science|科学的社会契约]]陷入结构性危机，不仅源于外部行政绩效问责（如 GPRAMA 法案）与使命导向的施压，更源于科学体系内部大科学模式的演进规律。大科学装置与跨学科巨型工程的扩张极度推高了单项科研任务的财政消耗与机会成本，倒逼国会与纳税人强化对其即时战略效用与可审计性的刚性要求。高昂的大科学成本与学术界“可重复性危机”产生共振，彻底剥夺了基础科学自二战以来享有的“无需自证的免检资助地位”，迫使国家科技治理加速向强调确定性技术获取与程序可控的[[Technology-Oriented Social Contract|技术型社会契约]]滑动。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
+> **大科学成本膨胀终结基础研究免检特权** 樊春良指出，2010 年代以来美国[[Social Contract of Science|科学的社会契约]]陷入结构性危机，不仅源于外部行政绩效问责（如 GPRAMA 法案）与使命导向的施压，更源于科学体系内部大科学模式的演进规律。[[Megascience Installations|大科学装置]]与跨学科巨型工程的扩张极度推高了单项科研任务的财政消耗与机会成本，倒逼国会与纳税人强化对其即时战略效用与可审计性的刚性要求。高昂的大科学成本与学术界“[[Reproducibility Crisis|可重复性危机]]”产生共振，彻底剥夺了基础科学自二战以来享有的“无需自证的免检资助地位”，迫使国家科技治理加速向强调确定性技术获取与程序可控的[[Technology-Oriented Social Contract|技术型社会契约]]滑动。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 
 ---
 
@@ -161,7 +164,7 @@ aliases:
 > |:-----|:-----|:-----------|
 > | [[Three Generations of Mission-Oriented Policy]] | 理论 | 大科学是第二代狮子形态使命导向政策的物质与组织载体。 |
 > | [[Social Contract of Science]] | 理论 | 大科学模式的成本膨胀是推高外部行政问责、打破战后科学默认信任契约的核心动力。 |
-> | [[Technology-Oriented Social Contract]] | 概念 | 2025 年起美国科技政策新范式，体现了绕开高成本基础研究、直接采购与获取技术的替代取向。 |
+> | [[Technology-Oriented Social Contract]] | 概念 | 2025 年起美国科技政策新[[Paradigm\|范式]]，体现了绕开高成本基础研究、直接采购与获取技术的替代取向。 |
 > | [[DARPA]] | 事实 | 冷战大科学背景下最具代表性的敏捷技术突破与采购资助机构。 |
 > | [[Public Dynamic Capabilities]] | 概念 | 大科学要求国家在政策层级具备强大的战略研发统筹与采购协同能力。 |
 > | [[Directionality of Innovation]] | 概念 | 大科学通过国家意志强力锚定特定[[Technological Trajectories\|技术轨道]]的发展方向。 |
@@ -176,6 +179,6 @@ aliases:
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从科学社会契约演进脉络，论证大科学模式如何推高科研成本、强化外部刚性问责，并与可重复性危机交织终结了基础科学无需自证的免检地位。
+> - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演进脉络，论证大科学模式如何推高科研成本、强化外部刚性问责，并与[[Reproducibility Crisis|可重复性危机]]交织终结了基础科学无需自证的免检地位。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 系统界定大科学作为第二代技术攻关使命政策的组织载体，论证其在应对复杂社会挑战时的制度失灵与公共采购外溢机制。
-> - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 比较冷战美苏科技体制，实证揭示缺乏民用微观反馈的大科学军备研发如何导致国家创新系统的演化失败。
+> - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 比较冷战美苏科技体制，实证揭示缺乏民用微观反馈的大科学军备研发如何导致[[National Innovation System|国家创新系统]]的演化失败。

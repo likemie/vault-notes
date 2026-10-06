@@ -8,7 +8,7 @@ aliases:
 summary: "由乔尔·萨莫夫（Joel Samoff）提出、用以剖析世界银行等国际金融组织霸权机制的批判性概念。它揭示了多边信贷附加条件与定向委托研究之间的深度绑定，通过雇佣专家共同体与新古典经济学、人力资本理论及厂商理论，将投入产出与收益率分析裁定为唯一合法的方法论标准，重塑发展中国家的教育政策议程。"
 type: concept
 domain: "comparative-education"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Case Study]]"
+  - "[[Comparative Policy Analysis]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -208,7 +209,7 @@ updated: 2026-10-06
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 81)]] | 阿根廷布宜诺斯艾利斯大学（UBA），1990 年代[[Structural Adjustment Programs\|结构调整]]期（援引 Schugurensky, 1994） | 单一高等教育机构质性[[Case Study\|案例研究]] | 经常性财政拨款削减幅度与高教市场化改革项目 | 国家经常性预算大幅核减，强制增设研究生自费收费项目与产学研商业创收指标 | — | 实证揭示[[World Bank\|世界银行]]如何依托信贷约束迫使外围国家顶尖国立大学放弃免费公共品定位，转向企业化创收 |
-> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 80)]] | 非洲与拉丁美洲发展中国家，1980–1990 年代结构调整借贷周期（援引 Samoff, 1993） | 跨国宏观比较政策分析 | 教育贷款前置附加条件包含新自由主义政策的比例 | 绝大多数初等与中等教育借贷协议均强制包含冻结教师编制、引入使用者收费（User Fees）与分权化条款 | — | 说明多边金融机构在借贷协议中贯彻单一化市场逻辑的制度刚性，排斥任何非市场取向的替代方案 |
+> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 80)]] | 非洲与拉丁美洲发展中国家，1980–1990 年代结构调整借贷周期（援引 Samoff, 1993） | 跨国宏观[[Comparative Policy Analysis\|比较政策分析]] | 教育贷款前置附加条件包含新自由主义政策的比例 | 绝大多数初等与中等教育借贷协议均强制包含冻结教师编制、引入使用者收费（User Fees）与分权化条款 | — | 说明多边金融机构在借贷协议中贯彻单一化市场逻辑的制度刚性，排斥任何非市场取向的替代方案 |
 
 ---
 

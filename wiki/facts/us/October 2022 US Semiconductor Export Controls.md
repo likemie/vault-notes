@@ -13,7 +13,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[Vertical Disintegration]]"
   - "[[Market Failure]]"
+  - "[[Strategic Autonomy]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-06
 ---
 
 # October 2022 US Semiconductor Export Controls
@@ -181,6 +182,6 @@ updated: 2026-10-04
 > | [[Sino-American Trade War]] | Fact (Event) | 2018 年关税贸易战的升级演进产物，标志着争端从关税惩罚全面转向高科技冷战与设备禁运。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 美国在实施对外出口管制的同胞互补政策，意在通过本土巨额补贴重建制造产能。 |
 > | [[China Integrated Circuit Industry Investment Fund]] | Fact (Program) | 面对严苛的先进制程出口管制，中国大基金加速向成熟制程与国产设备供应链转型。 |
-> | [[European Chips Act]] | Fact (Policy) | 欧洲在中美出口管制与地缘对抗加剧背景下追求半导体战略自主的法律框架。 |
+> | [[European Chips Act]] | Fact (Policy) | 欧洲在中美出口管制与地缘对抗加剧背景下追求半导体[[Strategic Autonomy\|战略自主]]的法律框架。 |
 
 ---

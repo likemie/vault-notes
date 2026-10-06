@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/facts/us/Microelectronics and Computer Technology Corporation.md",
+                "file": "wiki/arguments/journal-articles/Management & Organizational History/Argument_Mody_2017_MOH.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Microelectronics and Computer Technology Corporation"
+              "title": "Argument_Mody_2017_MOH"
             }
           },
           {
@@ -271,7 +271,23 @@
   },
   "active": "dbd03913e540f7fd",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Bozeman_2004_JTT.md",
+    "wiki/persons/us/Nam Pyo Suh.md",
+    "wiki/persons/us/Erich Bloch.md",
+    "wiki/facts/us/Engineering Research Centers.md",
+    "sources/Bozeman_2004_JTT.md",
+    "sources/Bozeman_2004_JTT.pdf",
+    "page5-05.png",
+    "wiki/concepts/higher-education/Academic Freedom.md",
     "wiki/arguments/journal-articles/Management & Organizational History/Argument_Mody_2017_MOH.md",
+    "wiki/facts/japan/Ministry of International Trade and Industry.md",
+    "wiki/facts/us/National Research and Resource Facility for Submicron Structures.md",
+    "wiki/facts/europe/Community Innovation Survey.md",
+    "wiki/concepts/university-industry-collaboration/Technology Transfer.md",
+    "wiki/concepts/university-industry-collaboration/Membership-based Research Consortium.md",
+    "wiki/concepts/political-economy-geopolitics/Governance by Spin.md",
+    "wiki/facts/us/Sematech.md",
+    "wiki/facts/us/Microelectronics and Computer Technology Corporation.md",
     "wiki/facts/us/Semiconductor Research Corporation.md",
     "wiki/facts/us/Center for Integrated Systems.md",
     "wiki/facts/us/Silicon Structures Project.md",
@@ -280,26 +296,12 @@
     "wiki/facts/east-asia/VLSI Project.md",
     "wiki/arguments/reports-policy-documents/Argument_Bulfone_2024_IAI.md",
     "wiki/arguments/journal-articles/Management & Organizational History",
-    "wiki/facts/us/National Research and Resource Facility for Submicron Structures.md",
     "sources/Mody_2017_MOH.md",
     "sources/Mody_2017_MOH.pdf",
     "raw/mody_extracted.txt",
     "wiki/concepts/political-economy-geopolitics/Orchestrator State.md",
     "wiki/concepts/political-economy-geopolitics/Reciprocal Control Mechanism.md",
     "wiki/facts/eu/Critical Raw Materials Act.md",
-    "wiki/facts/eu/Horizon Europe.md",
-    "wiki/facts/global/World Trade Organization.md",
-    "wiki/facts/east-asia/Taiwan Semiconductor Manufacturing Corporation.md",
-    "wiki/facts/eu/Important Projects of Common European Interest.md",
-    "wiki/concepts/science-policy/Public Value.md",
-    "wiki/persons/italy/Mariana Mazzucato.md",
-    "wiki/concepts/science-policy/Market Failure.md",
-    "wiki/concepts/political-economy-geopolitics/Modern Industrial Policy.md",
-    "wiki/methods/qualitative/Comparative Policy Analysis.md",
-    "wiki/concepts/science-policy/Policy Conditionalities.md",
-    "wiki/concepts/political-economy-geopolitics/Strategic Autonomy.md",
-    "wiki/facts/eu/European Chips Act.md",
-    "wiki/facts/us/CHIPS and Science Act.md",
     "sources/Bulfone_2024_IAI/figures/Bulfone_2024_IAI_Fig3_Investment_Jobs_Generated_By_US_State.jpg",
     "sources/Bulfone_2024_IAI/figures/Bulfone_2024_IAI_Fig2_CHIPS_Act_Investment_Announcements_By_Company.jpg",
     "sources/Bulfone_2024_IAI/figures/Bulfone_2024_IAI_Fig1_Key_Dependencies_Digital_Value_Chain.jpg",
@@ -309,13 +311,11 @@
     "sources/Bulfone_2024_IAI.pdf",
     "sources/Reynolds_2024_JICT.pdf",
     "wiki/arguments/journal-articles/Journal of Industry, Competition and Trade",
-    "raw/s10842-024-00420-x.pdf",
     "books/Hall_Boccanfuso_2025_Springer/figures/Figure_12-1_Research_translation_indicators_tmp-16.jpg",
     "books/Hall_Boccanfuso_2025_Springer/figures/Figure_12-1_Research_translation_indicators.jpg",
     "sources/Logar_2014_Minerva/figures/Logar_2014_Minerva_Fig1_SRC_Funding_Trends.jpg",
     "sources/Logar_2014_Minerva/figures/Logar_2014_Minerva_Fig1_SRC_Funding_Trends.png",
     "sources/Fabrizio_Mowery_2005_REI/figures/Fabrizio_Mowery_2005_REI_Fig4_Military_Funded_Computer_Projects.jpg",
-    "sources/Fabrizio_Mowery_2005_REI/figures/Fabrizio_Mowery_2005_REI_Fig3_Total_Military_Share_IC_Sales.jpg",
-    "sources/Fabrizio_Mowery_2005_REI/figures/Fabrizio_Mowery_2005_REI_Fig2_Federal_Nonfederally_Funded_RD.jpg"
+    "sources/Fabrizio_Mowery_2005_REI/figures/Fabrizio_Mowery_2005_REI_Fig3_Total_Military_Share_IC_Sales.jpg"
   ]
 }

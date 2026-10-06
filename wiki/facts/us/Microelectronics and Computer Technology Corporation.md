@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 14
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "私营高技术产业研发联合体（R&D Consortium）"
 headquarters: "美国得克萨斯州奥斯汀（Austin, Texas）"
@@ -25,6 +25,7 @@ tags:
   - theme/corporate-innovation
   - theme/semiconductor
 related_concepts:
+  - "[[Meta-Representational Competence]]"
   - "[[Technology Transfer]]"
   - "[[Heterogeneity]]"
   - "[[University-Industry Collaboration]]"
@@ -45,10 +46,11 @@ related_facts:
   - "[[ESPRIT]]"
 related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
+  - "[[Argument_Mody_2017_MOH]]"
 confidence: high
-status: draft
+status: active
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-06
 ---
 
 # Microelectronics and Computer Technology Corporation
@@ -58,12 +60,12 @@ updated: 2026-10-04
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **微电子与计算机技术公司（Microelectronics and Computer Technology Corporation, MCC）** 是美国于 1982 年由 10 余家主要半导体与计算机巨头联合组建的首个大型私营高技术研发联合体。MCC 旨在通过企业联合出资与集中攻关，应对[[Ministry of International Trade and Industry|日本通商产业省]]（MITI）主导的[[VLSI Project|超大规模集成电路项目]]与[[Fifth Generation Computer Systems|第五代计算机计划]]（ICOT），是美国高技术产业反思反垄断限制、探索竞争前联合研发的制度先驱。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728)]]
+> **微电子与计算机技术公司（Microelectronics and Computer Technology Corporation, MCC）** 是美国于 1982 年由 10 余家主要半导体与计算机巨头联合组建的首个大型私营高技术研发联合体。MCC 旨在通过企业联合出资与集中攻关，应对[[Ministry of International Trade and Industry|日本通商产业省]]（MITI）主导的[[VLSI Project|超大规模集成电路项目]]与[[Fifth Generation Computer Systems|第五代计算机计划]]（ICOT），是美国高技术产业反思反垄断限制、探索竞争前联合研发的制度先驱。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728)]]; [[Argument_Mody_2017_MOH|(Mody, 2017, pp. 286, 293–294)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1982 年由控制数据公司（Control Data Corporation, CDC）创始人威廉·诺里斯（William Norris）发起成立，1983 年落户得克萨斯州奥斯汀；直接动因是美国产业界对日本政府集中组织计算机与人工智能攻关的战略恐慌。
 > - **总部地点 / 业务辐射** 总部设于美国得克萨斯州奥斯汀（Austin, TX），设有大型集中式研究设施；辐射覆盖全美主要电子、计算机、半导体及航空航天企业。
-> - **法人属性与经费基础** 私营股份制研发实体（For-profit Consortial Venture）；经费完全由成员企业按项目认缴（年预算约 8000 万美元，无联邦直接兜底拨款，但积极竞标政府科研合同）。
+> - **法人属性与经费基础** 私营股份制研发实体（For-profit Consortial Venture）；经费完全由成员企业按项目认缴（年预算约 8000 万美元，无联邦直接兜底拨款，但积极竞标政府科研合同；落户时获得得克萨斯州政府资助建设大学微电子中心作为关键对等配套）。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 293–294)]]
 > - **核心宗旨与法定职责** 在高级计算机体系结构、超大规模集成电路 CAD 工具、先进封装互连技术及人工智能专家系统等长周期前沿领域开展竞争前联合攻关，实现关键技术对成员企业的商业化转移。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728)]]
 
 ---
@@ -71,9 +73,9 @@ updated: 2026-10-04
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1982–1983 — 破冰创设与集中式宏大愿景** 诺里斯联合 AMD、DEC、Harris、Honeywell、Motorola、NCR、National Semiconductor、RCA、Sperry 等 10 余家巨头创设 MCC，聘请美国国家安全局（NSA）与中央情报局（CIA）前副局长博比·英曼（Bobby Inman）出任首任 CEO；依托奥斯汀集中实验室推进四大长周期战略研发项目。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728)]]
+> - **1982–1983 — 破冰创设与各州激烈竞标选址** 诺里斯联合 AMD、DEC、Harris、Honeywell、Motorola、NCR、National Semiconductor、RCA、Sperry 等巨头创设 MCC，聘请博比·英曼（Bobby Inman）出任首任 CEO；全美数十个州展开激烈的产业政策总部争夺战，得克萨斯州长马克·怀特（Mark White）以承诺由州政府全资新建大学级微电子研究中心（[[Meta-Representational Competence|MRC]]）为筹码，最终击败亚特兰大、圣地亚哥与三角研究园等强劲对手，将 MCC 成功锁定在奥斯汀。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 293–294)]]
 > - **1984–1992 — 治理困境与向副会员制转型** 由于宏大长周期项目难以满足各成员多样化的短期商业诉求，且成员企业不愿派遣顶级技术骨干，MCC 于 1984 年修订章程允许设立“副会员（Associate Members）”机制，转向由特定成员子群出资的定制化短期项目组合。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 728, 752)]]
-> - **1993–2000 — 开放网络扩张与最终解体** 1993 年增设“小企业副会员（Small Business Associate）”与“大学合作会员（University Affiliate）”；随着成员扩展至 22 家股东会员与 47 家副会员，MCC 逐渐退化为松散的合同研发中介，最终于 2000 年代初因资金匮乏与互联网泡沫破裂而停止运营。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 752)]]
+> - **1993–2000 — 开放网络扩张与组织解体** 1993 年增设小企业与大学合作会员；随着成员扩展至 22 家股东与 47 家副会员，MCC 逐渐退化为松散的合同研发中介；由于缺乏大学多学科近邻的转型灵活性，随着 1990 年代纯微电子硬件退潮，最终于 2000 年代初因资金匮乏停止运营。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 752)]]; [[Argument_Mody_2017_MOH|(Mody, 2017, pp. 296–298)]]
 
 ---
 
@@ -151,3 +153,4 @@ updated: 2026-10-04
 > | [[Precompetitive Research]] | Concept | MCC 开展跨企业合作与规避反垄断制裁的核心法理与技术概念。 |
 > | [[Membership-based Research Consortium]] | Concept | MCC 作为会员制研发联合体在组织章程与知识产权排他期上的制度雏形。 |
 > | [[David C. Mowery]] | Person | 对 MCC 治理模式、演变轨迹及与 Sematech 进行系统比较评估的核心学者。 |
+| [[Argument_Mody_2017_MOH\|Mody (2017)]] | Argument | 探讨 MCC 作为私营联合体与大学微电子中心同源共生及得州奥斯汀竞标史的研究。 |

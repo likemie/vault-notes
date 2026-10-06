@@ -12,7 +12,7 @@ aliases:
 summary: "弗兰克·R·鲍姆加特纳与布莱恩·D·琼斯于1993年提出的公共政策变迁经典理论；指出大多数公共政策在绝大多数时期处于由专属制度场所与正面政策形象构筑的政策垄断稳态之中，但当政策企业家通过重构政策形象并开展制度场所转换时，长期惰性稳态将在短时间内发生断裂式剧变。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 32
+theory_related_count: 33
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -57,6 +57,7 @@ related_facts:
   - "[[National Governors Association]]"
   - "[[Council of Chief State School Officers]]"
   - "[[Race to the Top]]"
+  - "[[Inflation Reduction Act]]"
   - "[[American Federation of Teachers]]"
 related_arguments:
   - "[[Argument_McDonnell_2013_AJE]]"
@@ -136,7 +137,7 @@ updated: 2026-10-06
 > [!theory-proposition] 命题四｜制度摩擦与有限注意力导致政策产出呈现厚尾与非线性跳跃
 > **解释** 政府系统的信息处理能力高度受制于认知与制度摩擦（Institutional Friction）。由于决策者无法对环境中所有的微小信号做出连续边际调整，政策压力在子系统中长期积累直至压垮制度门槛；一旦宏观注意力被外部危机或颠覆性叙事激活，政策系统将迅速从完全不反应（Under-reaction）切换为过度反应（Over-reaction），在实证分布上呈现出显著的尖峰厚尾特征（Leptokurtosis）与间断跳跃。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5)]]；[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
 >
-> **应用实例** 创新政策在长达四十年间深陷新古典“[[Market Failure|市场失灵]]/研发税收间接激励”的修补垄断；然而面对气候变化危机与清洁能源转型挑战，宏观注意力迅速转向，推动欧美在数年内出台《欧洲绿色协议》（European Green Deal）与《通胀削减法案》（Inflation Reduction Act），实现向[[Mission-Oriented Innovation Policy|使命导向创新政策]]（Frame 3）的间断跃升。
+> **应用实例** 创新政策在长达四十年间深陷新古典“[[Market Failure|市场失灵]]/研发税收间接激励”的修补垄断；然而面对气候变化危机与清洁能源转型挑战，宏观注意力迅速转向，推动欧美在数年内出台《欧洲绿色协议》（European Green Deal）与《[[Inflation Reduction Act|通胀削减法案]]》（Inflation Reduction Act），实现向[[Mission-Oriented Innovation Policy|使命导向创新政策]]（Frame 3）的间断跃升。
 
 ---
 

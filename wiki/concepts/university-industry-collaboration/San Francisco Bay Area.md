@@ -8,7 +8,7 @@ aliases:
 summary: "地处美国加利福尼亚州北部的全球科技创新高地，以硅谷为核心集聚斯坦福大学等顶尖高校，以电子信息、半导体与生物医药为支柱，依托禁止竞业限制法规、企业衍生网络、多层次风险投资及跨辖区专业协调机制，形成自下而上的自组织区域创新生态系统。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Innovation Ecosystem]]"
   - "[[Application Engineering]]"
-  - "[[Governance by Spin]]"
   - "[[Innovation Park]]"
   - "[[New York Bay Area]]"
   - "[[Tokyo Bay Area]]"
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-11
-updated: 2026-10-03
+updated: 2026-10-06
 ---
 
 # San Francisco Bay Area
@@ -72,7 +71,7 @@ updated: 2026-10-03
 > [!citation-card] 硅谷企业衍生网络与创新生态
 > 硅微电子产业向民用市场的转型深刻塑造了旧金山湾区的产业地貌。仙童半导体在加州山景城、帕洛阿尔托和圣拉斐尔的扩张，不仅开创了大批量混合制造与[[Application Engineering|应用工程]]服务模式，其核心技术团队更在湾区催生了超过30家半导体衍生企业，直接构筑了硅谷高科技群落的生态底座。
 >
-> *The silicon industry's expansion was indissociable from the territorial consolidation of Silicon Valley. Fairchild Semiconductor's operations in Mountain View, Palo Alto, and San Rafael laid the organizational matrix for the Bay Area's high-technology cluster, giving birth to dozens of [[Governance by Spin|Spin]]-offs that defined the regional economy.* [[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 179–182)]]
+> *The silicon industry's expansion was indissociable from the territorial consolidation of Silicon Valley. Fairchild Semiconductor's operations in Mountain View, Palo Alto, and San Rafael laid the organizational matrix for the Bay Area's high-technology cluster, giving birth to dozens of Spin-offs that defined the regional economy.* [[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 179–182)]]
 
 > [!boundary]- 概念边界
 > - 不等于单一城市行政区划——旧金山湾区是由 9 个县、101 个城市组成的跨区域经济都市圈，各县市在保持高度自治的同时通过功能分工与专业委员会形成网络化连接。

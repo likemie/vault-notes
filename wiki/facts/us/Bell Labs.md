@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 46
+fact_related_count: 47
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[Vertical Disintegration]]"
   - "[[Market Failure]]"
+  - "[[Mission-Oriented Research]]"
   - "[[Theoretical Perspective]]"
   - "[[National Innovation System]]"
   - "[[Innovation Ecosystem]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Bell Labs
@@ -162,7 +163,7 @@ updated: 2026-10-05
 > - **打破老牌电子真空管巨头技术锁定** 尽管国防部与 AEC 在 1950 年代末将 25% 的全美半导体 R&D 经费投向西电/贝尔实验室等既有真空管制造商，但随后的重大技术突破（如硅晶体管与平面工艺）并非来自贝尔实验室内部商业化，而是由德州仪器与仙童等新兴独立商用厂商主导完成；反垄断同意令对贝尔实验室商业扩张的制度性限制，防止了老牌寡头压制颠覆性新兴架构。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 30)]]
 > - **重塑[[Knowledge Production|知识生产]]分工与现代[[University-Industry Collaboration|产学合作]]** 贝尔实验室的收缩倒逼大企业削减内部基础科研，被迫转向外部寻求[[Source of Knowledge|知识来源]]，从而直接促使大学从以往相对脱钩的状态重新嵌入国家[[Systems of Innovation|创新系统]]，成为当代最大规模的知识供给方。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 36–37, 41–42)]]
 > - **重塑产业组织形态，催生[[Modern Industrial Policy|现代产业政策]]困境** 1984 年 AT&T 被司法部强制拆分后，贝尔实验室纵向一体化的大企业覆盖全产业链研发模式随之瓦解。Bown 与 Wang（2024）指出，这一转折是美国半导体产业从单一垂直整合体演进为设计与代工相互分离的[[Vertical Disintegration|纵向离散]]（Vertical Disintegration）网络的关键制度起点。当产业中不再存在贝尔实验室这样能够独自承担全链条研发的国家冠军时，协调失灵与战略产能外流等[[Market Failure|市场失灵]]问题开始日益突出；现代产业政策须在这一无国家冠军的分散结构中寻找新的干预支点。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 83, 86–90)]]
-> - **重塑公共科研资助认知** 贝尔实验室的组织实践表明，消除科学家与工程师的日常沟通壁垒是激发生命力循环的关键，为当代[[Department of Energy|美国能源部]]（DOE）能源前沿研究中心（EFRC）等任务导向型研究机构提供了组织设计样板。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
+> - **重塑公共科研资助认知** 贝尔实验室的组织实践表明，消除科学家与工程师的日常沟通壁垒是激发生命力循环的关键，为当代[[Department of Energy|美国能源部]]（DOE）能源前沿研究中心（EFRC）等[[Mission-Oriented Research|任务导向型研究]]机构提供了组织设计样板。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]
 
 > [!stat-cards]- 核心规模数据
 > - **9 项** 贝尔实验室科学家累计斩获的诺贝尔物理学奖总数（涵盖 16 位获奖学者）。

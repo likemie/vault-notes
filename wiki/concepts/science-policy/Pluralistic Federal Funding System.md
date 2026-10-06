@@ -10,7 +10,7 @@ aliases:
 summary: "二战后美国形成的由国家科学基金会（NSF）与国防部（ONR/DARPA）、能源部（AEC/DOE）、卫生与公众服务部（NIH）、宇航局（NASA）等多家任务导向型联邦机构共同构成的去中心化科研资助体制；突破了布什报告设想的单一集权基金会模式，各机构采用多元评审标准与差异化使命，为大学研究人员提供了多重资助申请渠道与高风险学术容错空间。"
 type: concept
 domain: "science-policy"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ tags:
   - governance/research-funding
   - policy/funding-allocation
 related_concepts:
+  - "[[Curiosity-Driven Research]]"
   - "[[National Innovation System]]"
   - "[[Big Science]]"
   - "[[Megascience Installations]]"
@@ -50,7 +51,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Pluralistic Federal Funding System
@@ -60,7 +61,7 @@ updated: 2026-10-05
 ## 定义
 
 > [!def] 核心定义
-> 多元联邦资助体系（Pluralistic Federal Funding System）是指二战后在美国逐步确立的、由多个不同使命导向的联邦部门与独立机构共同构成的去中心化、多源并存的学术科研经费资助治理格局；该体系打破了[[Vannevar Bush|万尼瓦尔·布什]]在《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》中最初设想由单一国家研究基金会垄断统筹全国基础研究的中央集权式方案，形成了由专注于跨学科纯基础研究的国家科学基金会（[[National Science Foundation|NSF]]）与承担特定国家战略使命的任务型机构（如[[Office of Naval Research|海军研究办公室]] ONR、能源部 [[Department of Energy|DOE]]/原 AEC、国立卫生研究院 [[National Institutes of Health|NIH]]、国家航空航天局 NASA 等）分工协作、相互竞争与冗余托底的资助网络。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]
+> 多元联邦资助体系（Pluralistic Federal Funding System）是指二战后在美国逐步确立的、由多个不同使命导向的联邦部门与独立机构共同构成的去中心化、多源并存的学术科研经费资助治理格局；该体系打破了[[Vannevar Bush|万尼瓦尔·布什]]在《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》中最初设想由单一国家研究基金会垄断统筹全国基础研究的中央集权式方案，形成了由专注于跨学科[[Curiosity-Driven Research|纯基础研究]]的国家科学基金会（[[National Science Foundation|NSF]]）与承担特定国家战略使命的任务型机构（如[[Office of Naval Research|海军研究办公室]] ONR、能源部 [[Department of Energy|DOE]]/原 AEC、国立卫生研究院 [[National Institutes of Health|NIH]]、国家航空航天局 NASA 等）分工协作、相互竞争与冗余托底的资助网络。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]
 
 > [!concept-lens] 概念透镜
 > - **制度本质** 政治妥协与冷战防务需求交织催生的非单一中心科研资源配置生态。

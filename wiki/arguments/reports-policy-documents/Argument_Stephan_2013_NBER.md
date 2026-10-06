@@ -25,6 +25,7 @@ related_concepts:
   - "[[Soft-Money Faculty Model]]"
   - "[[Shopping Mall Model of Research Universities]]"
   - "[[Document]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Indirect Costs of Research]]"
   - "[[Grandes Ecoles]]"
   - "[[Academic Start-up Packages]]"
@@ -63,7 +64,7 @@ title: "Argument_Stephan_2013_NBER"
 argument_key: "Argument_Stephan_2013_NBER"
 argument_display_title: "The Endless Frontier: Reaping what Bush Sowed? (NBER Working Paper No. 19687)"
 argument_kind: "report"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -161,7 +162,7 @@ issuing_organization: "National Bureau of Economic Research"
 为了应对科研能力断层的国家危机，[[Vannevar Bush|万尼瓦尔·布什]]在报告中勾勒了联邦资助的顶层契约，而早期执行机构则积极开展主动动员（pp.4–10）。
 
 > [!policy-design] [[Science, The Endless Frontier 1945|布什报告]]的制度构想与早期联邦机构的主动动员
-> - **政策目标** 由联邦出资支持大学开展高风险、不可预测的纯基础研究，并在自由探索环境中培养科学后备英才。（pp.4–5）
+> - **政策目标** 由联邦出资支持大学开展高风险、不可预测的[[Curiosity-Driven Research|纯基础研究]]，并在自由探索环境中培养科学后备英才。（pp.4–5）
 > - **适用对象与规模** 面向具备研究潜力的大学与学者；建议资助规模相当克制（医学每年 500 万至 2000 万美元，自然科学每年 1000 万至 5000 万美元）。（p.5）
 > - **关键资助机制** 坚持项目研究与人才培养严格分离，主张通过独立的本科、研究生与博士后奖学金资助学者，绝不将奖学金绑定于具体实验项目。（p.5）
 > - **执行动员策略** 早期 [[National Institutes of Health|NIH]] 官员弗雷德·斯通差旅逾 20 万英里动员学者申报，新成立的 [[National Science Foundation|NSF]] 专职设立科学人才司发放独立博士生奖学金。（pp.7, 9–10）

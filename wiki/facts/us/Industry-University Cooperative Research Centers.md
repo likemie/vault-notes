@@ -78,7 +78,7 @@ updated: 2026-10-02
 
 > [!dev-timeline] 演进与衍生矩阵
 > - **1978–1980 — 探索破冰与规范成型** 阿特金森在任内力排众议打破 [[National Science Foundation|NSF]] 仅资助纯理论基础科学的传统教条，设立首批试点中心，证明了大学与企业在不同目标下完全能够通过精心机制设计达成互利共识。
-> - **1980 年代中叶 — 升级拓展至 ERC 与 STC** 基于 I/UCRC 的机制突破，NSF 于 1985 年进一步创设长期资助的工程研究中心（Engineering Research Centers, ERC），并在 1987 年设立科学技术中心（Science and Technology Centers, STC），资助期限长达 11 年，使跨学科产学协作成为联邦科技政策的支柱机制。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]
+> - **1980 年代中叶 — 升级拓展至 ERC 与 STC** 基于 I/UCRC 的机制突破与模式探索，NSF 在[[Erich Bloch|埃里希·布洛赫（Erich Bloch）]]与[[Nam Pyo Suh|徐南杓（Nam Pyo Suh）]]带领下于 1984–1985 年创设资助体量更大、跨学科整合度更深的[[Engineering Research Centers|工程研究中心]]（ERC），并在 1987 年设立科学技术中心（Science and Technology Centers, STC），标志着多学科大科学中心模式成为联邦科技政策的支柱机制。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–41)]]; [[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–367, 370)]]
 > - **1980 年代后 — 与《[[Bayh-Dole Act of 1980|拜杜法案]]》协同共振** 1980 年《拜杜法案》通过后，I/UCRC 成为[[Technology Transfer|大学技术转移]]办公室（[[Technology Transfer Office|TTO]]）与企业联合孵化高科技衍生企业的核心制度平台，深刻辐射全美微电子、材料科学及先进制造创新集群。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 
 ---

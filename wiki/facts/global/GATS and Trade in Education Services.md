@@ -11,7 +11,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Presence]]"
   - "[[International Education]]"
   - "[[Research Universities]]"
+  - "[[Strategic Autonomy]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Commensuration]]"
   - "[[Doxa]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-10-02
+updated: 2026-10-06
 ---
 
 # GATS and Trade in Education Services
@@ -125,7 +126,7 @@ updated: 2026-10-02
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 核心推动联盟** 欧美主要教育出口国（美、英、澳、新）政府与跨国高等教育企业。通过 GATS 确立全球教育市场通道，将留学生教育作为赚取巨额外汇和科研资金的核心战略产业。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
-> - **高权力 · 低利益 / 战略自主方 — 发展中战略大国** 如中国、印度等。虽面临教育主权开放压力，但依托庞大国内市场和较强国家能力，主动对接规则以吸引外资办学并倒逼国内高教现代化改革，保持了较强的战略主动性。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
+> - **高权力 · 低利益 / [[Strategic Autonomy|战略自主]]方 — 发展中战略大国** 如中国、印度等。虽面临教育主权开放压力，但依托庞大国内市场和较强国家能力，主动对接规则以吸引外资办学并倒逼国内高教现代化改革，保持了较强的战略主动性。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
 > - **低权力 · 高利益（受损方） — 脆弱边缘小国与公共教育联盟** 牙买加、尼加拉瓜等加勒比和拉美边缘国家，在外部金融压力与 [[World Trade Organization|WTO]] 规约下丧失教育宏观调控权；同时，全球教师工会联合会（[[Education International]]）与第三世界公立学校师生，面临公共经费萎缩与[[Endogenous and Exogenous Privatisation|教育私有化]]冲击。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
 > - **低权力 · 低利益 — 偏远弱势群体** 边缘地区农村贫困家庭，既无力消费昂贵的跨国教育服务，又因国家财政向重点院校与商业机制倾斜而遭受进一步边缘化。
 

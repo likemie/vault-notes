@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 60
+fact_related_count: 61
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Brainstorming]]"
   - "[[Flow]]"
   - "[[Vertical Disintegration]]"
+  - "[[Strategic Autonomy]]"
   - "[[General Purpose Technology]]"
   - "[[Fourth Industrial Revolution]]"
   - "[[Agile Governance]]"
@@ -175,7 +176,7 @@ updated: 2026-10-06
 > - **无人机空中回收系统（Gremlins 项目）** 在研发中连续遭遇九次试验失败，项目团队持续优化算法与捕获机构，最终成功实现无人机空中对接与机载回收。
 
 > [!citation-card] [[Mariana Mazzucato|马祖卡托]]论 DARPA 的去中心化探索网络
-> DARPA 之所以成为美国创新体系中最具活力的机构，关键在于其构建了一个具有高度战略自主性、敏捷决策权且容忍试错的探索型公共组织网络。项目经理被赋予突破官僚僵化的权力，能够主动扮演[[Market Shaping and Creating|市场创造]]者和风险承担者。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
+> DARPA 之所以成为美国创新体系中最具活力的机构，关键在于其构建了一个具有高度[[Strategic Autonomy|战略自主]]性、敏捷决策权且容忍试错的探索型公共组织网络。项目经理被赋予突破官僚僵化的权力，能够主动扮演[[Market Shaping and Creating|市场创造]]者和风险承担者。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 >
 > *DARPA's success lies in its culture of welcoming high-risk technological exploration and its flexible, non-bureaucratic structure... DARPA project managers have full autonomy to identify and fund radical ideas and the authority to quickly pull the plug on underperforming projects.*
 

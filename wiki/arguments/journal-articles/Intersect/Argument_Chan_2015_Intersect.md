@@ -23,7 +23,6 @@ related_concepts:
   - "[[Document]]"
   - "[[Hypothesis]]"
   - "[[Falsification]]"
-  - "[[Governance by Spin]]"
   - "[[Creativity]]"
   - "[[Military-Industrial Black Hole]]"
   - "[[Ideological Capture of Science]]"
@@ -61,7 +60,7 @@ title: "Argument_Chan_2015_Intersect"
 argument_key: "Argument_Chan_2015_Intersect"
 argument_display_title: "Fallen behind: Science, technology, and Soviet statism"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -183,7 +182,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 > [!line-a] 技术隔离：从创新到锁死的机制
 > 苏联军工系统造成了双重破坏效应：资源汲取和技术隔离。资源汲取指巨额财富和人才被吸入军事研发；技术隔离指创新成果无法溢出到民用经济。
 >
-> 苏联技术的唯一客户是国防部，而国防部对军事硬件有极其特殊和狭窄的技术要求，几乎没有动力解密技术用于军工以外的开发。过度保密封锁将军事技术隔离在公众视野之外，最大限度地减少了从军事技术到民用经济的"衍生应用"（[[Governance by Spin\|Spin]]-offs）。结果是：绝大多数创新被锁在实验室中，对民用经济的改善贡献微乎其微（p.4）。
+> 苏联技术的唯一客户是国防部，而国防部对军事硬件有极其特殊和狭窄的技术要求，几乎没有动力解密技术用于军工以外的开发。过度保密封锁将军事技术隔离在公众视野之外，最大限度地减少了从军事技术到民用经济的"衍生应用"（Spin-offs）。结果是：绝大多数创新被锁在实验室中，对民用经济的改善贡献微乎其微（p.4）。
 >
 > 将全部研究能力导向"使苏联成为一台全面战争机器"的极其狭隘目标，苏联军事工业部门变成了一个从经济中吸走巨大生产力和[[Creativity\|创造力]]的黑洞。这是 Castells 对[[Military-Industrial Black Hole]]的核心诊断。
 

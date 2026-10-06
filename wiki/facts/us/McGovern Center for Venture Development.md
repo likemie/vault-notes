@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,7 +28,6 @@ tags:
 related_concepts:
   - "[[New York Bay Area]]"
   - "[[Valley of Death]]"
-  - "[[Governance by Spin]]"
   - "[[Paradigm]]"
   - "[[Innovation Ecosystem]]"
   - "[[Technology Transfer]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-06
 ---
 
 # McGovern Center for Venture Development
@@ -61,7 +60,7 @@ updated: 2026-10-03
 > - **成立时间 / 创设背景** 2008 年由康奈尔大学在慈善家资助及纽约州科技创新政策支持下正式建立。
 > - **总部地点 / 业务辐射** 位于美国纽约州伊萨卡（Ithaca）康奈尔大学主校区，与位于纽约市的康奈尔大学威尔康奈尔医学院（Weill Cornell Medicine）及康奈尔科技校区（Cornell Tech）深度联动，业务辐射整个纽约大都市圈及美国东海岸生物医药产业带。
 > - **法人属性与经费基础** 隶属于康奈尔大学科研副校长办公室（Office of the Vice President for Research）管辖的非营利性大学内设机构，经费源于大学专项拨款、纽约州经济发展厅（Empire State Development, ESD）配套基金及校友捐赠。
-> - **核心宗旨与法定职责** 专注于生命科学、农业生物技术、先进材料与健康科技领域的早期高校衍生初创企业（University [[Governance by Spin|Spin]]-Outs）孵化与加速。
+> - **核心宗旨与法定职责** 专注于生命科学、农业生物技术、先进材料与健康科技领域的早期高校衍生初创企业（University Spin-Outs）孵化与加速。
 
 ---
 

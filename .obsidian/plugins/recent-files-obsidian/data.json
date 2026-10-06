@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Microelectronics and Computer Technology Corporation",
-      "path": "wiki/facts/us/Microelectronics and Computer Technology Corporation.md"
-    },
-    {
       "basename": "Argument_Mody_2017_MOH",
       "path": "wiki/arguments/journal-articles/Management & Organizational History/Argument_Mody_2017_MOH.md"
+    },
+    {
+      "basename": "Academic Freedom",
+      "path": "wiki/concepts/higher-education/Academic Freedom.md"
+    },
+    {
+      "basename": "Ministry of International Trade and Industry",
+      "path": "wiki/facts/japan/Ministry of International Trade and Industry.md"
+    },
+    {
+      "basename": "National Research and Resource Facility for Submicron Structures",
+      "path": "wiki/facts/us/National Research and Resource Facility for Submicron Structures.md"
+    },
+    {
+      "basename": "Community Innovation Survey",
+      "path": "wiki/facts/europe/Community Innovation Survey.md"
+    },
+    {
+      "basename": "Technology Transfer",
+      "path": "wiki/concepts/university-industry-collaboration/Technology Transfer.md"
+    },
+    {
+      "basename": "Membership-based Research Consortium",
+      "path": "wiki/concepts/university-industry-collaboration/Membership-based Research Consortium.md"
+    },
+    {
+      "basename": "Governance by Spin",
+      "path": "wiki/concepts/political-economy-geopolitics/Governance by Spin.md"
+    },
+    {
+      "basename": "Sematech",
+      "path": "wiki/facts/us/Sematech.md"
+    },
+    {
+      "basename": "Microelectronics and Computer Technology Corporation",
+      "path": "wiki/facts/us/Microelectronics and Computer Technology Corporation.md"
     },
     {
       "basename": "Semiconductor Research Corporation",
@@ -167,38 +199,6 @@
     {
       "basename": "Corporate Venture Capital",
       "path": "wiki/concepts/university-industry-collaboration/Corporate Venture Capital.md"
-    },
-    {
-      "basename": "Return on Investment",
-      "path": "wiki/concepts/university-industry-collaboration/Return on Investment.md"
-    },
-    {
-      "basename": "Generative Artificial Intelligence",
-      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
-    },
-    {
-      "basename": "Sponsored Research Agreement",
-      "path": "wiki/concepts/university-industry-collaboration/Sponsored Research Agreement.md"
-    },
-    {
-      "basename": "National Academy of Sciences",
-      "path": "wiki/facts/us/National Academy of Sciences.md"
-    },
-    {
-      "basename": "Research Translation",
-      "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
-    },
-    {
-      "basename": "University Industry Demonstration Partnership",
-      "path": "wiki/facts/us/University Industry Demonstration Partnership.md"
-    },
-    {
-      "basename": "DARPA",
-      "path": "wiki/facts/us/DARPA.md"
-    },
-    {
-      "basename": "University-Industry Collaboration",
-      "path": "wiki/concepts/university-industry-collaboration/University-Industry Collaboration.md"
     }
   ],
   "omittedPaths": [],

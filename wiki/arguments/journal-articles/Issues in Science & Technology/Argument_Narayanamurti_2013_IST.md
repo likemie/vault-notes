@@ -4,7 +4,7 @@ title: "Argument_Narayanamurti_2013_IST"
 argument_key: "Argument_Narayanamurti_2013_IST"
 argument_display_title: "RIP: The basic/applied research dichotomy"
 argument_kind: "journal-articles"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#e5e7eb"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Cultural Hierarchy]]"
   - "[[Blue Skies Research]]"
   - "[[Document]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Theoretical Knowledge]]"
   - "[[Evaluation Research]]"
   - "[[Paradigm]]"
@@ -140,7 +141,7 @@ updated: 2026-10-02
 二战后美国科技体制的建立，深刻受制于将学术沉思与动手制作人为对立的思想传统。
 
 > [!theory-origin] 战后科技政策的文化偏见与制度固化
-> - **历史起点与政策基石** 二战结束前夕，[[Vannevar Bush|万尼瓦尔·布什]]在[[Science, The Endless Frontier 1945]]中为战后美国科技体制奠定了基石。布什成功说服政界支持基础科学研究，确立了联邦财政对纯基础研究的长期资助义务。（pp. 31–32）
+> - **历史起点与政策基石** 二战结束前夕，[[Vannevar Bush|万尼瓦尔·布什]]在[[Science, The Endless Frontier 1945]]中为战后美国科技体制奠定了基石。布什成功说服政界支持基础科学研究，确立了联邦财政对[[Curiosity-Driven Research|纯基础研究]]的长期资助义务。（pp. 31–32）
 > - **制度化教条与边界** 联邦政府只对不追求实用目的的基础研究负有资助责任，具体的应用开发则完全交由商业市场自行解决；假定科学发现在实验室产生后会顺流而下自然转化为工业商品。
 > - **文化偏见的[[Epistemology|认识论]]根源** 深层根源在于古老的身心二元论偏见，习惯将动脑思考视作高贵事业，将动手制作贬低为低等技能劳动，武断推定理论认知天然高于技术制造。
 > - **体制机制隔离后果** 人为在制度上割裂了科学家与工程师的日常协作，导致理论探索与工程实践分居互不相通的体制孤岛。（p. 32）

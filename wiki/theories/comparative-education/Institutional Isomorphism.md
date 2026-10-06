@@ -9,7 +9,7 @@ aliases:
 summary: "解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学新制度主义理论，阐明组织趋同源于对制度合法性与合理化神话的追求而非纯粹的技术效率"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 34
+theory_related_count: 37
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Rationalized Myth]]"
   - "[[Corporate Education]]"
   - "[[Corporate University]]"
+  - "[[Industry Affiliate Program]]"
   - "[[International Education]]"
   - "[[Policy Borrowing]]"
   - "[[Knowledge Production]]"
@@ -54,15 +55,17 @@ related_persons:
 related_facts:
   - "[[Committee for the Accreditation of Teacher Education]]"
   - "[[Ofsted]]"
+  - "[[National Research and Resource Facility for Submicron Structures]]"
   - "[[PISA]]"
   - "[[Chartered College of Teaching]]"
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
   - "[[Argument_Helgetun_2022_JEP]]"
+  - "[[Argument_Mody_2017_MOH]]"
 confidence: high
 status: draft
 created: 2026-05-18
-updated: 2026-09-29
+updated: 2026-10-06
 ---
 
 # Institutional Isomorphism
@@ -116,6 +119,7 @@ updated: 2026-09-29
 > - **前提一** 当组织技术面临严重模糊性、实践因果机制不明或政策未来走向充满高度不确定性时，组织难以依据纯粹理性计算做出最优决策。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, p. 184)]]
 >   > [!evidence-grid]- 证据
 >   > - **[[Corporate University\|企业大学]]命名模仿** 众多跨国公司普遍采用源自美国的“[[Corporate University\|企业大学]]”称谓框架自身培训体系，以此在同行竞争中迅速获取学术权威与现代性声誉。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, p. 189)]]
+>   > - **大学微电子中心标杆复制** 面对微细加工装备成本暴涨与日本竞争的不确定性，全美顶尖工程院校密切监视先行者并复制成功经验；康奈尔大学国家亚微米设施（[[National Research and Resource Facility for Submicron Structures|NRRFSS]]）主动向加州理工、密歇根大学等 40 余所院校输出设计蓝本，促成同类大学中心在[[Industry Affiliate Program|产业联盟计划]]（CAP）等组织结构上的高度模仿趋同。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 292, 297)]]
 >   > - **[[International Education\|国际教育]][[Policy Borrowing\|政策借用]]** 面对提升国家教育竞争力的焦虑，英格兰等国政策制定者密集模仿 [[PISA]] 高表现国家（如芬兰模式、新加坡教学法），将其去语境化包装为最佳实践。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91–92)]]
 > - **前提二** 模仿场域内被公认为成功、创新或具有声望的领头羊，能以最低的探索成本为组织抵御外部质疑。
 > - **推导** 认知与技术不确定性 $\rightarrow$ 寻找声誉标杆与流通的[[Rationalized Myth\|合理化神话]] $\rightarrow$ 复制领先者的外显结构与修辞模式 $\rightarrow$ 导致跨国与跨机构的模仿型趋同。
@@ -123,6 +127,7 @@ updated: 2026-09-29
 > [!proposition-chain] 核心命题三｜规范型同构由专业化网络、同行认证与共同认知滤镜驱动
 > - **前提一** 大学专业教育、跨国行业协会与专业咨询网络为特定领域的从业者提供了标准化、跨组织的认知图式与职业规范。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, p. 183)]]
 >   > [!evidence-grid]- 证据
+>   > - **师生流动与跨机构规范移植** 赛勒斯·莫迪（[[Argument_Mody_2017_MOH|Mody, 2017]]）揭示，大学微电子研究中心的实践之所以快速收敛，关键在于教员与博士毕业生在不同大学与科研中心之间的持续横向流动；前康奈尔与加州理工学者将机台计费规范、洁净室运行准则及跨学科合作模式随身移植至新任职大学，展现了经典制度同构模型中人员专业化流动对组织趋同的强大塑造力。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 297)]]
 >   > - **专业认证网络** 跨国培训项目普遍寻求英国 CPD 认证服务（CPD Certification Service）或欧洲管理发展基金会（EFMD）同行评审认可，以确立行业标准。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, pp. 189–190)]]
 >   > - **[[Chartered College of Teaching\|特许教学学院]]规范扩散** 英国政府扶植[[Chartered College of Teaching\|特许教学学院]]研制早期职业教师专业标准，通过同行共同体将循证与实验规范内化为教师专业伦理。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 93–94)]]
 > - **前提二** 专业人员在跨组织流动中将相同的专业理念带入不同机构，形成对“何为适宜专业实践”的集体共识。
@@ -191,6 +196,7 @@ updated: 2026-09-29
 > [!dev-timeline] 发展脉络
 > - **1977 — 新制度主义理论基石确立** [[John W. Meyer\|约翰·迈耶]]与布莱恩·罗文（Meyer & Rowan, 1977）发表《作为神话与仪式的正式组织》，指出正式结构往往是获取合法性的[[Rationalized Myth\|合理化神话]]。
 > - **1983 — 三大同构机制系统提出** 迪马吉奥与鲍威尔（DiMaggio & Powell, 1983）发表《铁笼再访》，系统界定强制型、模仿型与规范型同构，确立组织[[Champ\|场域]]分析[[Paradigm\|范式]]。
+> - **1980 年代 — 高等教育科研组织同构机制验证** 莫迪（[[Argument_Mody_2017_MOH|Mody, 2017]]）揭示，在微电子高技术重资产冲击下，美国各大学微电子中心通过标杆跟踪复制、模式主动推广以及**博士生与教员跨校流动（Personnel Mobility）**，在全美范围完成了组织形态与治理规范的经典制度同构收敛。
 > - **2022 — 跨国[[Corporate Education\|企业教育]]与教育政策深化** [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] 揭示 MNCs 企业教育中的同构权威机制与地缘政治不对称；[[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] 揭示教师教育政策中证据作为合理化神话驱动的制度同构与把关机制。
 
 ---
@@ -220,5 +226,6 @@ updated: 2026-09-29
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] — 运用三种制度同构机制分析跨国公司[[Corporate Education\|企业教育]]的国际化扩散模式与权威调动策略。
 > - [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] — 揭示英格兰教师教育治理中证据作为[[Rationalized Myth\|合理化神话]]如何驱动多方机构走向规范与强制同构。
+> - [[Argument_Mody_2017_MOH|Mody (2017)]] — 从组织历史学角度实证检验大学微电子研究中心如何在不确定性环境下，依托同行对标复制、模型主动示范以及教员和博士毕业生跨机构流动（Personnel Mobility）实现经典模式的制度同构收敛。（p. 297）
 
 

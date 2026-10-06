@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_display_title: "Chapter six: Academic scientific community"
 argument_kind: "book-chapter"
-argument_related_count: 43
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -53,7 +53,6 @@ related_concepts:
   - "[[Knowledge Co-production]]"
   - "[[Research Impact]]"
   - "[[Research Proposal]]"
-  - "[[Governance by Spin]]"
   - "[[Seed Funding]]"
   - "[[Chain of Evidence]]"
   - "[[Grandes Ecoles]]"
@@ -353,7 +352,7 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 > 皇家学会于 2020 年与 2022 年两度召集 REF 主评审面板及各子面板主席研讨，并于 2022 年对全英 58 所大学的科研主管开展专项咨询，深度解构了公众参与在国家科研评估中的真实处境：
 > - **广泛覆盖与多元路径** 在 2014 年与 2021 年两轮 REF 评估中，全英约 50% 的提交影响力案例（Impact Case Studies）明确将公众参与作为促成社会经济效益的关键路径，在人文与社会科学领域占比尤高，广泛辐射了医疗临床方案革新、宏观公共政策启蒙、地方经济赋能与文化艺术繁荣。
 > - **成效微妙与量化归因困境** 公众参与带来的社会信任重建与公民认知转变往往需要历经长达数年乃至数十年的潜移默化，因果作用机制极其复杂弥散。在严苛的同行审计标准下，大学极难收集到类似于“企业新增产值”或“专利转让收入”那样的线性量化硬证据；这种微妙性极大地挫伤了大学管理层申报公众参与类案例的积极性。
-> - **商业化对公共参与的严重投资挤出** 高评分案例直接决定大学核心财政存亡。然而在大学内部，管理层投向技术创新、专利孵化与企业衍生公司（[[Governance by Spin\|Spin]]-outs）的早期[[Seed Funding|种子基金]]与法务支持，远远碾压投向公众参与的资源，导致公众参与在校内资源竞争中持续边缘化。
+> - **商业化对公共参与的严重投资挤出** 高评分案例直接决定大学核心财政存亡。然而在大学内部，管理层投向技术创新、专利孵化与企业衍生公司（Spin-outs）的早期[[Seed Funding|种子基金]]与法务支持，远远碾压投向公众参与的资源，导致公众参与在校内资源竞争中持续边缘化。
 > - **草根全员参与的不可见性** REF 过于聚焦少数高度精炼的代表性案例，完全遮蔽了全英成千上万一线学者日常开展的草根型、自发性科普与社区对话实践，未能为广大科研人员的常态化投入提供任何评价回报。
 
 > [!tension] 技术商业化与长效公众参与的校内资源竞争张力（pp. 100–101）

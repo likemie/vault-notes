@@ -7,7 +7,7 @@ summary: "美国电机工程师、科技管理者与战后科技政策奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 38
+person_related_count: 39
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -26,20 +26,21 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Hypothesis]]"
   - "[[Learning by Doing]]"
+  - "[[Curiosity-Driven Research]]"
   - "[[Research Universities]]"
   - "[[Paradigm]]"
   - "[[National Innovation System]]"
   - "[[Total Quality Management]]"
+  - "[[Technology-Oriented Social Contract]]"
   - "[[Soft-Money Faculty Model]]"
   - "[[Emergence]]"
   - "[[Technological Catch-up]]"
-  - "[[Technology-Oriented Social Contract]]"
 related_theories:
+  - "[[Social Contract of Science]]"
   - "[[Evolutionary Economics]]"
   - "[[Pasteur's Quadrant]]"
   - "[[Discovery-Invention Cycle]]"
   - "[[Systems of Innovation]]"
-  - "[[Social Contract of Science]]"
 related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
@@ -62,12 +63,12 @@ related_facts:
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
   - "[[Argument_Freeman_1995_CJE]]"
-  - "[[Argument_Stephan_2013_NBER]]"
   - "[[Argument_Fan_2026_BCAS]]"
+  - "[[Argument_Stephan_2013_NBER]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Vannevar Bush
@@ -114,16 +115,16 @@ updated: 2026-10-05
 >   - **代表著作** *[[Science, The Endless Frontier 1945|Science, The Endless Frontier]]* (1945)。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
 >   - **关键概念／方法** 基础研究（[[Blue Skies Research|Basic Research]]）、应用研究（Applied Research）、科技蓄水池假说、国家科学基金会。
 >   - **阶段转向** 在政治游说中策略性地将纯求知的基础研究与商业化应用开发做严格切割，奠定了基础/应用二分法与单向线性模型的制度教条。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）在系统回顾中指出，这种单向线性[[Hypothesis|假设]]主导了二战后数十年的官方科技政策，但它系统性忽视了生产现场的“[[Learning by Doing|干中学]]”（[[Learning by Doing]]）、渐进工程微调、以及反向由市场和工业实践驱动基础研究的双向反馈互动。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11)]]
-> - **2025 年起 — 布什契约的制度性“退出”与历史重组** 樊春良（2026）系统考察指出，2025 年标志着美国科技政策在实践中启动对布什战后“科学社会契约”的退出；“无止境的边疆”从免检的制度性前提退化为需要持续证明即时回报的待正当化命题，国家治理逻辑发生从“以科学为中心的认知契约”向“以能力为中心的技术型契约”的结构性位移。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1063–1064)]]
+> - **2025 年起 — 布什契约的制度性“退出”与历史重组** [[Argument_Fan_2026_BCAS|樊春良 (2026)]]系统考察指出，2025 年标志着美国科技政策在实践中启动对布什战后“[[Social Contract of Science|科学社会契约]]”的退出；“无止境的边疆”从免检的制度性前提退化为需要持续证明即时回报的待正当化命题，国家治理逻辑发生从“以科学为中心的认知契约”向“以能力为中心的技术型契约”的结构性位移。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1063–1064)]]
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心主张
-> 基础科学研究是国家技术进步与经济繁荣的源头蓄水池；基础研究的本质特征在于完全不追求任何具体实际目标与商业应用，必须赋予科研人员绝对的学术探索自由；联邦政府的核心职责是提供稳定且无干预的财政经费保障高校纯基础研究，而应用转化与工业开发则应当完全交由私营市场自发完成。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
+> 基础科学研究是国家技术进步与经济繁荣的源头蓄水池；基础研究的本质特征在于完全不追求任何具体实际目标与商业应用，必须赋予科研人员绝对的学术探索自由；联邦政府的核心职责是提供稳定且无干预的财政经费保障高校[[Curiosity-Driven Research|纯基础研究]]，而应用转化与工业开发则应当完全交由私营市场自发完成。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
 >
-> 樊春良（2026）进一步将布什报告提炼为支撑二战后美国科研体制得以稳定运行的三大制度性承诺：
+> [[Argument_Fan_2026_BCAS|樊春良 (2026)]]进一步将[[Science, The Endless Frontier 1945|布什报告]]提炼为支撑二战后美国科研体制得以稳定运行的三大制度性承诺：
 > 1. **国家对基础研究长期战略价值的默认信任（Default Trust in Long-Term Strategic Value）**；
 > 2. **对科研探索不确定性与失败的时间容忍（Temporal Tolerance for Uncertainty and Failure）**；
 > 3. **对科学无需持续证明即时用途的制度自治保障（Institutional Autonomy Guaranteeing Freedom from Immediate Justification）**。
@@ -158,7 +159,7 @@ updated: 2026-10-05
 > - **当代科技创新批判者** [[Venkatesh Narayanamurti|文卡泰什·纳拉亚纳穆尔提]]（Venkatesh Narayanamurti） — 2013 年撰文宣告布什二分法终结，提出[[Discovery-Invention Cycle|发现-发明循环]]理论以取代布什的单向流水线假说。
 > - **高校科研契约反思者** [[Paula Stephan|保拉·斯蒂芬]]（Paula Stephan） — 2013 年系统考察战后大学对布什契约的能动改造与异化，揭示布什关于高风险容错、独立学生奖学金与学科均衡设想的迷失。
 > - **演化[[Systems of Innovation|创新系统]]批判者** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman） — 1995 年从历史与演化视角剖析布什线性模型与单纯研发指标的盲区，提出包含组织变革、工艺学习与制度互补的[[National Innovation System|国家创新系统]]理论。
-> - **科学社会契约演化论者** [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从科学社会契约五维框架考察战后布什范式的兴衰，指出 2025 年起“无止境的边疆”制度性承诺瓦解与技术型社会契约的结构性替代。
+> - **[[Social Contract of Science|科学社会契约]]演化论者** [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从科学社会契约五维框架考察战后布什[[Paradigm|范式]]的兴衰，指出 2025 年起“无止境的边疆”制度性承诺瓦解与[[Technology-Oriented Social Contract|技术型社会契约]]的结构性替代。
 > - **核心关联文本与机构** [[Science, The Endless Frontier 1945]]、[[National Science Foundation|美国国家科学基金会]]（NSF）、[[Bell Labs|贝尔实验室]]。
 
 ---
@@ -171,7 +172,7 @@ updated: 2026-10-05
 > > [[Science, The Endless Frontier 1945|布什报告]]所奠定的基础研究至上主义是否扭曲了真实的技术演进规律？
 > >
 > > - **科学技术史与政策学者批评** 纳拉亚纳穆尔提等人指出，布什将科学与技术人为割裂为两条平行轨道，忽视了瓦特蒸汽机启发热力学、半导体异质结构发明催生量子物理发现等工程先于理论的历史事实；这种划分强化了轻视工艺制作的文化偏见，导致美国在长周期关键战略硬件制造与先进制造工艺上面临政府不愿投、市场投不起的系统性断裂。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
-> > - **历史语境主义辩护** 科技政策史学家指出，布什在 1945 年提出极端的“纯基础研究免受实用干扰”假定，在当时具有极其紧迫的政治防御意图：旨在阻止战后联邦官僚与军方对大学[[Academic Freedom|学术自由]]的过度管控，为战后美国学术界争取到了历史上空前慷慨且不受政治干预的自由资助空间。
+> > - **历史语境主义辩护** 科技政策史学家指出，布什在 1945 年提出极端的“[[Curiosity-Driven Research|纯基础研究]]免受实用干扰”假定，在当时具有极其紧迫的政治防御意图：旨在阻止战后联邦官僚与军方对大学[[Academic Freedom|学术自由]]的过度管控，为战后美国学术界争取到了历史上空前慷慨且不受政治干预的自由资助空间。
 >
 > > [!axis] 布什所播之种 vs 大学能动改造：当代学术危机的历史归因
 > > 当代[[Research Universities|研究型大学]]科研系统面临的避险风气、博士生产过剩与学科失衡，究竟应当归咎于布什的顶层设计，还是大学的主动策略？
@@ -189,4 +190,4 @@ updated: 2026-10-05
 > > 争论“无止境的边疆”是否仍能作为国家科技体系的默认基石，还是必须让位于以技术能力为核心的国家竞争契约。
 > >
 > > - **布什主义制度坚守派** 强调二战后美国八十年的科技霸权充分证明，长期稳定支持基础研究、保持学术自治与时间容忍是国家原始创新力的根本源泉，抛弃布什传统将严重损害长远国家竞争力。
-> > - **技术型契约与现实主义重塑派（[[Argument_Fan_2026_BCAS|樊春良, 2026]]）** 指出在当前激烈的大国地缘博弈与重大危机情境下，传统布什契约赖以维系的默认信任与时间容忍已不可逆转地被打破；国家追求速度、控制力与可审计结果的偏好催生了技术型社会契约，促使科学从国家的“认知中枢”降格为技术能力体系的“组成要素”，“无止境的边疆”不可避免地由免检的制度性前提退化为需要持续在政治与经济法庭上自证效用的待正当化命题。
+> > - **技术型契约与现实主义重塑派（[[Argument_Fan_2026_BCAS|樊春良, 2026]]）** 指出在当前激烈的大国地缘博弈与重大危机情境下，传统布什契约赖以维系的默认信任与时间容忍已不可逆转地被打破；国家追求速度、控制力与可审计结果的偏好催生了[[Technology-Oriented Social Contract|技术型社会契约]]，促使科学从国家的“认知中枢”降格为技术能力体系的“组成要素”，“无止境的边疆”不可避免地由免检的制度性前提退化为需要持续在政治与经济法庭上自证效用的待正当化命题。

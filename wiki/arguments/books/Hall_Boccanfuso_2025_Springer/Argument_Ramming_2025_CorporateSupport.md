@@ -7,7 +7,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Corporate R&D Labs]]"
   - "[[Corporate Venture Capital]]"
+  - "[[Academic Entrepreneurship]]"
   - "[[Paradigm]]"
   - "[[Innovation Ecosystem]]"
   - "[[Hypothesis]]"
@@ -309,7 +310,7 @@ publisher: "Springer"
 
 > [!pathways] 大学前沿研究向商业价值转化的三轨协同路径
 > - **内部产品吸收路径** 将高校原型代码与算法直接整合入企业现有产品线；适合对当前业务有明确性能提升、契合短期研发排期的成熟技术。
-> - **外部初创并购路径** 依托[[Corporate Venture Capital|企业风险投资]]（CVC）跟进具有高颠覆性的学术创业团队；适合商业模式尚未定型但具有高成长潜力的前沿成果。
+> - **外部初创并购路径** 依托[[Corporate Venture Capital|企业风险投资]]（CVC）跟进具有高颠覆性的[[Academic Entrepreneurship|学术创业]]团队；适合商业模式尚未定型但具有高成长潜力的前沿成果。
 > - **共性生态共建路径** 以开源软件与行业公私合作联盟为载体，联合全行业攻坚共性技术底座；适合需要全产业协同确立技术标准的颠覆性[[Paradigm|范式]]。（pp. 232–233）
 
 上述三条路径在产业实践中展现出截然不同的发展结果，以下两组经典案例揭示了路径选择对于企业[[Innovation Ecosystem|创新生态]]的深远影响：

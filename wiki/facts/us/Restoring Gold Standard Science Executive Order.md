@@ -11,9 +11,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 6
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "Executive Office of the President of the United States"
 tags:
@@ -24,19 +24,30 @@ tags:
   - theme/state-science-relations
   - theme/research-security
 related_concepts:
+  - "[[Epistemology]]"
+  - "[[Reproducibility Crisis]]"
+  - "[[Hypothesis]]"
   - "[[Technology-Oriented Social Contract]]"
+  - "[[Academic Freedom]]"
+  - "[[Paradigm]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Research Security]]"
   - "[[Big Science]]"
+  - "[[Document]]"
 related_theories:
   - "[[Social Contract of Science]]"
 related_facts:
+  - "[[National Science Foundation]]"
+  - "[[National Institutes of Health]]"
   - "[[Office of Science and Technology Policy]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
+related_persons:
+  - "[[Vannevar Bush]]"
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Restoring Gold Standard Science Executive Order
@@ -47,8 +58,8 @@ updated: 2026-10-05
 
 > [!policy-context] 政策背景与历史动因
 > - **发布主体与时间** 2025 年 5 月 23 日由美国总统唐纳德·特朗普（Donald Trump）签署发布。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
-> - **认识论争论的政治借用** 2010 年代以来学术界关于“可重复性危机”（reproducibility crisis）与科研诚信的内部方法论争论，被行政当局借用为推行外部行政干预与合规审计的正当化依据。
-> - **适用对象与管辖范围** 全美接受联邦研发资助的大学、独立科研机构、国家实验室，以及美国国家科学基金会（National Science Foundation, NSF）、美国国家卫生研究院（National Institutes of Health, NIH）等联邦科学基金与卫生资助机构。
+> - **[[Epistemology|认识论]]争论的政治借用** 2010 年代以来学术界关于“[[Reproducibility Crisis|可重复性危机]]”（reproducibility crisis）与科研诚信的内部方法论争论，被行政当局借用为推行外部行政干预与合规审计的正当化依据。
+> - **适用对象与管辖范围** 全美接受联邦研发资助的大学、独立科研机构、国家实验室，以及[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）、[[National Institutes of Health|美国国家卫生研究院]]（National Institutes of Health, NIH）等联邦科学基金与卫生资助机构。
 > - **争议议题与政治极化** 行政令重点针对气候变化（Climate Change）、环境毒理、公共卫生（公共防疫、疫苗与流行病学评估）以及多样性、平等与包容（Diversity, Equity, and Inclusion, DEI）相关社科研究，质疑其学术结论存在“党派偏见与方法缺陷”。
 > - **制度生态联动** 属于特朗普第二任期科技治理再集中与再动员的核心支柱，与[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（Office of Science and Technology Policy, OSTP）发布的战略指南及削减非优先领域科研预算（impoundment，扣留拨款）形成行政合力。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060, 1062)]]
 
@@ -75,13 +86,13 @@ updated: 2026-10-05
 ## 制度影响与争议
 
 > [!tension] 科学自治与行政控制的结构性冲突
-> - **学术自治的大幅收缩** 传统上，科研选题、假设验证与方法审议属于科学共同体的内在自主事务。该行政令将方法规范转化为行政直接干预科研选题的武器，导致学术自治由二战后[[Vannevar Bush|万尼瓦尔·布什]]模式下的“有条件自治”滑向高度政治化与安全化的受限自治。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
+> - **学术自治的大幅收缩** 传统上，科研选题、[[Hypothesis|假设]]验证与方法审议属于科学共同体的内在自主事务。该行政令将方法规范转化为行政直接干预科研选题的武器，导致学术自治由二战后[[Vannevar Bush|万尼瓦尔·布什]]模式下的“有条件自治”滑向高度政治化与安全化的受限自治。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
 > - **契约关系的结构异化** 打破了[[Social Contract of Science|科学的社会契约]]中“国家出资、科学家自主探索、回馈长远公共利益”的默契，加速了科研体系向[[Technology-Oriented Social Contract|技术型社会契约]]的过渡，使基础研究面临短期行政效用与合规性双重挤压。
 > - **寒蝉效应与研发分化** 在公共卫生、环境科学和人文学科领域引发普遍的审查恐惧与合规成本激增，迫使大学科研资源进一步向符合国家战略安全与确定性工程目标的关键技术聚集。
 
 > [!debate] 科学诚信治理 vs 政治化行政清洗
 > - **支持立场（行政问责与实证可信）** 强调纳税人经费不应资助无法复现、结论不可靠或带有明显政治倾向的研究；严格的数据透明度与复现审计是挽救公众对科学信任的必要法律手段。
-> - **批评立场（学术自由与同行评议捍卫）** 指出行政当局借“可重复性危机”之名行意识形态清洗之实；许多前沿探索（如复杂生态系统、长期队列流行病学调查）由于伦理、隐私或现实环境变迁无法简单机械复现，以此卡扣经费将重创基础科学探索。
+> - **批评立场（[[Academic Freedom|学术自由]]与同行评议捍卫）** 指出行政当局借“[[Reproducibility Crisis|可重复性危机]]”之名行意识形态清洗之实；许多前沿探索（如复杂生态系统、长期队列流行病学调查）由于伦理、隐私或现实环境变迁无法简单机械复现，以此卡扣经费将重创基础科学探索。
 
 ---
 
@@ -100,7 +111,7 @@ updated: 2026-10-05
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Technology-Oriented Social Contract]] | Concept | 2025 年起美国科技政策新范式，该行政令构成其重塑科学合法性与规训学术共同体的关键契约工具。 |
+> | [[Technology-Oriented Social Contract]] | Concept | 2025 年起美国科技政策新[[Paradigm\|范式]]，该行政令构成其重塑科学合法性与[[Disciplina and Doctrina\|规训]]学术共同体的关键契约工具。 |
 > | [[Social Contract of Science]] | Theory | 传统战后契约被该行政令打破，科学的合法性依据从科学家共同体的内在认知权威转向外部行政可控性。 |
 > | [[Office of Science and Technology Policy]] | Fact | 白宫科技决策与跨部门协调枢纽，将该行政令列为 2025–2026 年度重构科学治理与问责的制度重点。 |
 > | [[Research Security]] | Concept | 与该行政令形成内外夹击之势，外部防范技术外流与外国干预，内部强化政治与方法合规审查。 |
@@ -113,6 +124,6 @@ updated: 2026-10-05
 
 > [!evidence-grid-a]
 >
-> | 研究文献 | 核心发现与论述 | 对应页码 |
+> | 研究[[Document\|文献]] | 核心发现与论述 | 对应页码 |
 > |:---|:---|:---|
-> | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] | 分析特朗普政府 2025 年 5 月签署的《恢复黄金标准的科学》行政令，揭示其作为技术型社会契约下的“契约性工具”，如何借可重复性与客观性之名强化行政可验证性，将科学合法性由内在认知权威转向外部程序与结果可控性，从而导致科学自治向受限自治急剧退缩。 | pp. 1060, 1062–1063 |
+> | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] | 分析特朗普政府 2025 年 5 月签署的《恢复黄金标准的科学》行政令，揭示其作为[[Technology-Oriented Social Contract\|技术型社会契约]]下的“契约性工具”，如何借可重复性与客观性之名强化行政可验证性，将科学合法性由内在认知权威转向外部程序与结果可控性，从而导致科学自治向受限自治急剧退缩。 | pp. 1060, 1062–1063 |

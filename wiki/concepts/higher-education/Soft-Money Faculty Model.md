@@ -9,7 +9,7 @@ aliases:
 summary: "研究型大学将专任教师薪酬全部或部分转嫁给外部竞争性科研经费资助的聘任模式，大学免除基础薪酬兜底责任，导致学者深度依附项目资助并推高机构财务脆弱性"
 type: concept
 domain: "higher-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Research Universities]]"
   - "[[Externalization]]"
+  - "[[Academic Entrepreneurship]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-06
 ---
 
 # Soft-Money Faculty Model
@@ -57,7 +58,7 @@ updated: 2026-10-02
 
 > [!boundary]- 概念边界
 > - **不等于非终身轨兼职副教职（Adjunct Faculty）** 兼职副教职通常按课时计酬且不享有终身保障；而软钱教职广泛渗透至全职正规教职队伍（乃至享有正教授和终身教职头衔的医学院资深学者），其岗位在学术地位上属于全职核心序列，但薪酬来源完全脱钩于大学基准预算。
-> - **不等于短期学术创业兼职** 软钱教职模式指向高校体制内专职学者以科研课题经费维系基本生计与实验室运营的常态化人事制度，而非学者在校外创办衍生企业的商业行为。
+> - **不等于短期[[Academic Entrepreneurship|学术创业]]兼职** 软钱教职模式指向高校体制内专职学者以科研课题经费维系基本生计与实验室运营的常态化人事制度，而非学者在校外创办衍生企业的商业行为。
 
 ---
 

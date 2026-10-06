@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 30
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Technology Transfer Office]]"
   - "[[Public-Private Partnership in Research]]"
-  - "[[Governance by Spin]]"
   - "[[Industry Affiliate Program]]"
   - "[[Institutional Review Board]]"
   - "[[Clinical Trial]]"
@@ -62,7 +61,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-05
+updated: 2026-10-06
 ---
 
 # Bayh-Dole Act of 1980
@@ -119,7 +118,7 @@ updated: 2026-10-05
 > [!actor-grid] 实施角色分工
 > - **联邦资助机构（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]、[[Department of Energy|DOE]]、DOD）** 拨款监督主体。在资助协议中强制嵌入拜杜条款，接收受资助机构的发明披露报告，维护政府免版税自用权与潜在介入权。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 40)]]
 > - **高等院校及[[Technology Transfer Office|技术许可办公室]]（TLO / [[Technology Transfer Office|TTO]]）** 产权运营与管理中枢。全权受理教师发明披露、申请知识产权保护、主导与企业的专利许可谈判并向发明人按期分配收益。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 60–63)]]
-> - **一线教授与科研团队（发明人）** 创新源头。依据法律享有个人版税分成权，并在法案赋权下开办衍生初创企业（[[Governance by Spin|Spin]]-off startups）。
+> - **一线教授与科研团队（发明人）** 创新源头。依据法律享有个人版税分成权，并在法案赋权下开办衍生初创企业（Spin-off startups）。
 > - **产业界与商业企业** 承接与转化主体。通过协商排他性或非排他性许可协议，向大学支付授权费与特许提成，投资后续工程化中试并最终将技术推向市场。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, pp. 272–274)]]
 
 > [!pathways]- 实施路径与内部组织制度化

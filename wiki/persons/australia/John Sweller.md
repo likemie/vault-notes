@@ -6,7 +6,7 @@ summary: "澳大利亚认知与教育心理学家，新南威尔士大学名誉�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 34
+person_related_count: 33
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -52,7 +52,6 @@ related_persons:
   - "[[Deanna Kuhn]]"
 related_facts:
   - "[[Centre for Independent Studies]]"
-  - "[[Community Innovation Survey]]"
   - "[[Strong Beginnings Report]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
@@ -61,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-09-22
+updated: 2026-10-06
 ---
 
 # John Sweller
@@ -90,7 +89,7 @@ updated: 2026-09-22
 > - **1998** 与 Jeroen van Merriënboer 及 Fred Paas 合作发表《认知架构与教学设计》，系统确立内在认知负荷、外在认知负荷与关联认知负荷的三维分类模型。
 > - **2006** 与 Paul A. Kirschner 及 Richard E. Clark 联合发表重磅争议性论文《为什么教学中极简指导行不通》，系统批驳[[Constructivist Paradigm\|建构主义]]、[[Discovery Learning\|发现学习]]、问题导向学习与[[Inquiry-Based Learning\|探究式教学]]，引爆学习科学界长达数十年的国际大论战。
 > - **2011** 结合 David C. Geary 的进化心理学观点，出版专著《认知负荷理论》，系统提出生物初级与生物次级知识区分，为其支持[[Direct Instruction\|直接教学]]、反对自然主义自主探究奠定进化理论基础。
-> - **2021** 受澳大利亚保守派智库独立研究中心（[[Centre for Independent Studies]], [[Community Innovation Survey\|CIS]]）资助发表政策分析报告《为什么探究式学习有害学生学习》（*Why inquiry-based approaches harm students' learning*），为主张回归显性直接教学提供政策弹药。
+> - **2021** 受澳大利亚保守派智库独立研究中心（[[Centre for Independent Studies]], CIS）资助发表政策分析报告《为什么探究式学习有害学生学习》（*Why inquiry-based approaches harm students' learning*），为主张回归显性直接教学提供政策弹药。
 > - **2022** 与张莉（Li Zhang）、Paul A. Kirschner 及 William W. Cobern 联合发表论文《科学教育政策中的实证危机》（*There is an Evidence Crisis in Science Educational Policy*），公开斥责各国课程标准倡导科学探究是无视关键实证事实，直接引发由 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 牵头的全球学习科学学者集体反驳。
 > - **2023** 其学术专著与 CIS 出版物被澳大利亚联邦政府专家报告《强劲开端》（[[Strong Beginnings Report]]）列为全国[[Initial Teacher Training\|初始教师教育]]（Initial Teacher Education, ITE）“大脑与学习”核心必修[[Document\|文献]]。
 
@@ -136,7 +135,7 @@ updated: 2026-09-22
 > [!influence-path] 影响路径
 > - **理论路径** 开创了[[Cognitive Load Theory\|认知负荷理论]]，重塑了近四十年来当代认知科学对多媒体学习（如 [[Richard E. Mayer]] 的多媒体学习认知理论）、教学界面设计与复杂技能培训的理论解释框架。
 > - **方法路径** 推广了工作样例（Worked Examples）、无目标问题（Goal-Free Problems）及主观认知负荷量表等实验[[Paradigm\|范式]]，推动了实验微观控制方法在教学[[Design-Based Research\|设计研究]]中的普及。
-> - **政策路径** 其学术观点被英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）采纳并写入指导指南；被澳大利亚保守智库独立研究中心（[[Community Innovation Survey\|CIS]]）包装为政策分析文本；并在澳大利亚《强劲开端》（[[Strong Beginnings Report]]）报告中被确立为[[Initial Teacher Training\|初始教师教育]]全国必修标准。
+> - **政策路径** 其学术观点被英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）采纳并写入指导指南；被澳大利亚保守智库独立研究中心（CIS）包装为政策分析文本；并在澳大利亚《强劲开端》（[[Strong Beginnings Report]]）报告中被确立为[[Initial Teacher Training\|初始教师教育]]全国必修标准。
 > - **跨国／跨领域传播** 理论从澳大利亚与荷兰发源，广泛传播至欧美主流[[Evidence-Based Education\|循证教育]]界，被政策制定者作为反对[[Progressive Education\|进步主义教育]]、推行标准化显性教学的实证科学依据。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
