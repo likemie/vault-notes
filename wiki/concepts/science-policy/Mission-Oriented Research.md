@@ -8,10 +8,10 @@ aliases:
 summary: "由国家或公共权力自上而下设定明确战略目标、聚焦国家安全与重大关键技术突破的研发组织范式，强调战略需求牵引、资源垂直集中动员与确定性交付，与自由探索型研究及应用启发型研究构成现代科研生态的三大分化轨道。"
 type: concept
 domain: "science-policy"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 32
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/science-policy
   - theme/science-policy
@@ -26,26 +26,38 @@ related_concepts:
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Market Shaping and Creating]]"
   - "[[Research Universities]]"
+  - "[[General Purpose Technology]]"
+  - "[[Man-Computer Symbiosis]]"
+  - "[[Valley of Death]]"
   - "[[Innovation Ecosystem]]"
   - "[[Grand Challenges]]"
   - "[[Zero-Sum Competition]]"
+  - "[[Technological Republic]]"
   - "[[Technology-Oriented Social Contract]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Innovation Desert]]"
   - "[[Market Failure]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
 related_facts:
   - "[[Research in Schools Evaluation]]"
+  - "[[Manhattan Project]]"
+  - "[[Office of Scientific Research and Development]]"
+  - "[[Fairchild Semiconductor]]"
+  - "[[ARPANET]]"
+  - "[[DARPA]]"
   - "[[A Strategy for American Innovation 2011]]"
+  - "[[Autonomous Drone Swarms]]"
   - "[[Genesis Mission]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
 related_methods:
   - "[[Correlational Research]]"
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Mission-Oriented Research
@@ -129,6 +141,16 @@ updated: 2026-10-07
 
 ---
 
+### 命题三　国家安全危机与首要客户拉动是任务导向科研成功孵化通用颠覆性技术的关键机制
+
+> [!concept-lens] 国防需求牵引与[[General Purpose Technology|通用技术]]溢出
+> 探讨国家机器如何作为首要战略客户与风险承担者，通过确定性防务任务培育出革命性的通用底层技术。
+
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025)]]
+> **国防首要客户与颠覆性创新孵化** 现代硅谷与计算革命的底层技术绝非纯粹市场试错的产物，而是源于国家安全与冷战军事任务的战略牵引；二战[[Manhattan Project|曼哈顿工程]]与[[Office of Scientific Research and Development|OSRD]]动员奠定了公私科研协同范式，冷战早期军工采购（[[Fairchild Semiconductor|仙童半导体]]微芯片首要市场、圣克拉拉县海军导弹制造、空军资助利克莱德[[Man-Computer Symbiosis|人机共生]]研究）直接催生了[[ARPANET|高级研究计划局网络]]、全球定位系统与微电子工业；国家作为主导性首要客户承担了高昂的原始研发风险，才使通用颠覆性技术得以跨越[[Valley of Death|死亡之谷]]并向民用市场扩散。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–8)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -136,15 +158,16 @@ updated: 2026-10-07
 > |---|---|---|---|
 > | **国家干预与资源重构** | 任务导向重塑国家干预模式，由间接调节转向目标约束与需求牵引直接治理 | 国家战略攻坚、新兴技术竞赛与产业政策深度融合情境 | 樊春良 |
 > | **体系平衡与长期脆弱性** | 任务导向过度膨胀会挤压自由探索空间，诱发原始理论积累断裂与系统脆弱性 | 长期科技政策规划、国家[[Innovation Ecosystem\|创新生态]]平衡与基础研究资助治理 | 樊春良 |
+> | **国防首要客户与颠覆孵化** | 国家安全危机与军工前沿采购充当颠覆性底层技术跨越死亡之谷的首要孵化器 | 颠覆性技术演化、硅谷军工科技史与国家安全创新生态 | Karp & Zamiska |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 任务导向研发组织[[Paradigm|范式]]的历史演化
-> - **1940s–1970s — 战时与冷战初期军事防务任务期** 以曼哈顿计划、雷达网及阿波罗登月工程为代表，在国家存亡与阵营威慑统摄下，建立起早期由政府资助的大规模战略攻坚模式。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1057)]]
+> - **1940s–1970s — 战时与冷战初期军事防务任务期** 以[[Manhattan Project|曼哈顿工程]]、美国科学研究与开发署（[[Office of Scientific Research and Development|OSRD]]）、雷达网、阿波罗登月工程及[[DARPA|DARPA]]信息处理办公室为代表，在国家存亡与阵营威慑统摄下，建立起由联邦政府资助（峰值占全美研发支出 2/3）的大规模战略攻坚与首要采购模式。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1057)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–8)]]
 > - **2010s — 重大社会挑战与使命导向扩张期** 以 2011 年《[[A Strategy for American Innovation 2011|美国创新战略]]》为标志，任务导向由纯国防工程扩展至气候变化、新能源、先进制造等宏大社会问题（[[Grand Challenges]]）。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
-> - **2025s–至今 — 关键战略技术[[Zero-Sum Competition|排他性竞争]]期** 在[[Technology-Oriented Social Contract|技术型社会契约]]导向下，以[[Generative Artificial Intelligence|生成式人工智能]]、先进制程与量子通信为核心，推行“[[Genesis Mission|创世纪计划]]”与“AI 行动计划”，国家实验室与商业巨头成为攻关主体，确立确定性技术能力的绝对主导地位。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062, 1064)]]
+> - **2025s–至今 — 关键战略技术[[Zero-Sum Competition|排他性竞争]]与[[Technological Republic|技术共和国]]重构期** 在[[Technology-Oriented Social Contract|技术型社会契约]]与重塑[[Technological Republic|技术共和国]]诉求导向下，以[[Generative Artificial Intelligence|生成式人工智能]]、[[Autonomous Drone Swarms|自主无人机蜂群]]、先进制程与量子计算为核心，推行“[[Genesis Mission|创世纪计划]]”与敏捷软件采办，打破公共部门[[Innovation Desert|创新荒漠]]，确立确定性技术能力的绝对主导地位。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062, 1064)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 11–15)]]
 
 ---
 
@@ -175,3 +198,4 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 分析 2025 年美国科技政策转向与未来科研格局演进，指出任务导向型研究正在国家竞争与产业目标驱动下迅速扩张，重塑了科研资源分配机制与政府直接干预模式。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]] — 剖析二战与冷战时期任务导向型国家研发动员如何直接孕育早期硅谷与计算技术，论证面向 AI 战争时代重塑国家与科技产业任务同盟的紧迫性。

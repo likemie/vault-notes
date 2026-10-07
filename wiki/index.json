@@ -3303,7 +3303,8 @@
       "emergent properties",
       "emergent order",
       "涌现秩序",
-      "涌现性"
+      "涌现性",
+      "智能涌现"
     ]
   },
   {
@@ -4184,6 +4185,16 @@
     "path": "wiki/concepts/educational-philosophy/Whole Sustainability.md",
     "aliases": [
       "整体可持续性"
+    ]
+  },
+  {
+    "title": "AI Deterrence",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy/AI Deterrence.md",
+    "aliases": [
+      "人工智能威慑",
+      "算法威慑",
+      "Algorithmic Deterrence"
     ]
   },
   {
@@ -6151,6 +6162,18 @@
     ]
   },
   {
+    "title": "Artificial General Intelligence",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Artificial General Intelligence.md",
+    "aliases": [
+      "通用人工智能",
+      "AGI",
+      "Sparks of AGI",
+      "Sparks of Artificial General Intelligence",
+      "通用人工智慧"
+    ]
+  },
+  {
     "title": "Automation Bias",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Automation Bias.md",
@@ -6265,6 +6288,15 @@
     "aliases": [
       "教育技术产业",
       "EdTech产业"
+    ]
+  },
+  {
+    "title": "Eliza Effect",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Eliza Effect.md",
+    "aliases": [
+      "伊莉莎效应",
+      "伊丽莎效应"
     ]
   },
   {
@@ -6386,6 +6418,16 @@
     ]
   },
   {
+    "title": "Stochastic Parrot",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Stochastic Parrot.md",
+    "aliases": [
+      "随机鹦鹉",
+      "随机鹦鹉假说",
+      "Stochastic Parrots"
+    ]
+  },
+  {
     "title": "Technology Habituation",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Technology Habituation.md",
@@ -6441,6 +6483,16 @@
       "虚拟世界",
       "virtual worlds",
       "synthetic world"
+    ]
+  },
+  {
+    "title": "Moral Dualism",
+    "type": "concept",
+    "path": "wiki/concepts/ethics-of-technology/Moral Dualism.md",
+    "aliases": [
+      "道德二元论",
+      "善恶二元论",
+      "压迫者与被压迫者二元论"
     ]
   },
   {
@@ -6884,6 +6936,17 @@
       "PhD overproduction",
       "博士过剩",
       "graduate student cheap labor"
+    ]
+  },
+  {
+    "title": "Polymath",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Polymath.md",
+    "aliases": [
+      "博学者",
+      "博学通才",
+      "通才",
+      "Polymathy"
     ]
   },
   {
@@ -8270,6 +8333,17 @@
     ]
   },
   {
+    "title": "Bonsai Army",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Bonsai Army.md",
+    "aliases": [
+      "Bonsai Armies",
+      "盆景军队",
+      "Bonsai Industries",
+      "盆景产业"
+    ]
+  },
+  {
     "title": "Broad Agency Announcement",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Broad Agency Announcement.md",
@@ -8398,6 +8472,16 @@
     ]
   },
   {
+    "title": "Engineering Pragmatism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Engineering Pragmatism.md",
+    "aliases": [
+      "工程实用主义",
+      "技术实用主义",
+      "engineering actionism"
+    ]
+  },
+  {
     "title": "Epistemic Coloniality",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md",
@@ -8502,6 +8586,16 @@
     ]
   },
   {
+    "title": "Hard Power",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Hard Power.md",
+    "aliases": [
+      "硬实力",
+      "硬权力",
+      "物质强制力"
+    ]
+  },
+  {
     "title": "Hub and Flow Imaginaries",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Hub and Flow Imaginaries.md",
@@ -8550,8 +8644,7 @@
       "智力资本",
       "知识资本",
       "精神资本",
-      "mental capital",
-      "intellectual capital"
+      "mental capital"
     ]
   },
   {
@@ -8606,6 +8699,16 @@
       "知识经济",
       "知识型经济",
       "KBE"
+    ]
+  },
+  {
+    "title": "Long Peace",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Long Peace.md",
+    "aliases": [
+      "长和平",
+      "冷战长和平",
+      "Postwar Long Peace"
     ]
   },
   {
@@ -8967,6 +9070,16 @@
     ]
   },
   {
+    "title": "Techno-Utopianism",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Techno-Utopianism.md",
+    "aliases": [
+      "技术乌托邦主义",
+      "技术乌托邦",
+      "Techno-Utopian Ideology"
+    ]
+  },
+  {
     "title": "Technological Catch-up",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Technological Catch-up.md",
@@ -8985,8 +9098,7 @@
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Technological Republic.md",
     "aliases": [
-      "技术共和国",
-      "technological republic"
+      "技术共和国"
     ]
   },
   {
@@ -9011,6 +9123,18 @@
       "multi-factor productivity",
       "Solow residual",
       "索洛残差"
+    ]
+  },
+  {
+    "title": "Total War",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Total War.md",
+    "aliases": [
+      "总体战",
+      "全面战争",
+      "Der totale Krieg",
+      "total war",
+      "total warfare"
     ]
   },
   {
@@ -9052,6 +9176,17 @@
       "产业纵向分工碎片化",
       "纵向碎片化高科技产业",
       "纵向碎片化"
+    ]
+  },
+  {
+    "title": "Winner's Fallacy",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Winner's Fallacy.md",
+    "aliases": [
+      "胜者谬误",
+      "赢家谬误",
+      "胜者的谬误",
+      "胜者自满"
     ]
   },
   {
@@ -10888,6 +11023,16 @@
       "基础应用研究二分法",
       "basic-applied dichotomy",
       "基础研究与应用研究之争"
+    ]
+  },
+  {
+    "title": "Big Idea Famine",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Big Idea Famine.md",
+    "aliases": [
+      "大构想饥荒",
+      "Idea Famine",
+      "科技野心衰退"
     ]
   },
   {
@@ -15153,6 +15298,18 @@
     ]
   },
   {
+    "title": "End of History Thesis",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/End of History Thesis.md",
+    "aliases": [
+      "历史终结论",
+      "历史的终结",
+      "End of History",
+      "The End of History",
+      "历史终结论断"
+    ]
+  },
+  {
     "title": "Evolutionary Economics",
     "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Evolutionary Economics.md",
@@ -15239,6 +15396,16 @@
     ]
   },
   {
+    "title": "Legitimation Crisis",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Legitimation Crisis.md",
+    "aliases": [
+      "合法化危机",
+      "晚期资本主义合法化危机",
+      "Legitimation Crisis Theory"
+    ]
+  },
+  {
     "title": "Necropolitics",
     "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Necropolitics.md",
@@ -15317,6 +15484,19 @@
       "权威主义法团主义",
       "authoritarian corporatism",
       "state corporatist politics"
+    ]
+  },
+  {
+    "title": "Strategic Bargaining Theory",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Strategic Bargaining Theory.md",
+    "aliases": [
+      "战略博弈论",
+      "谢林战略博弈论",
+      "强制外交与战略议价理论",
+      "Schelling's Strategic Bargaining Theory",
+      "战略议价理论",
+      "冲突的战略"
     ]
   },
   {
@@ -21018,6 +21198,17 @@
     ]
   },
   {
+    "title": "Sébastien Bubeck",
+    "type": "person",
+    "path": "wiki/persons/france/Sébastien Bubeck.md",
+    "aliases": [
+      "Bubeck, S.",
+      "Sebastien Bubeck",
+      "塞巴斯蒂安·布贝克",
+      "布贝克"
+    ]
+  },
+  {
     "title": "Victor Cousin",
     "type": "person",
     "path": "wiki/persons/france/Victor Cousin.md",
@@ -21072,6 +21263,16 @@
       "埃德蒙德·胡塞尔",
       "Edmund G. A. Husserl",
       "Edmund Gustav Albrecht Husserl"
+    ]
+  },
+  {
+    "title": "Erich Ludendorff",
+    "type": "person",
+    "path": "wiki/persons/germany/Erich Ludendorff.md",
+    "aliases": [
+      "埃里希·鲁登道夫",
+      "Ludendorff, E.",
+      "鲁登道夫"
     ]
   },
   {
@@ -21173,13 +21374,7 @@
       "尤尔根·哈贝马斯",
       "哈贝马斯",
       "J. Habermas",
-      "Habermas, J.",
-      "Habermas (1972)",
-      "Habermas (1976)",
-      "Habermas (1981)",
-      "Habermas (1984)",
-      "Habermas (1987)",
-      "Habermas (2007)"
+      "Habermas, J."
     ]
   },
   {
@@ -21303,7 +21498,8 @@
     "path": "wiki/persons/global/Erving Goffman.md",
     "aliases": [
       "厄文·戈夫曼",
-      "欧文·戈夫曼"
+      "欧文·戈夫曼",
+      "Goffman, E."
     ]
   },
   {
@@ -21578,6 +21774,16 @@
     ]
   },
   {
+    "title": "Josep Borrell",
+    "type": "person",
+    "path": "wiki/persons/spain/Josep Borrell.md",
+    "aliases": [
+      "何塞普·博雷利",
+      "Borrell, J.",
+      "博雷利"
+    ]
+  },
+  {
     "title": "Manuel Castells",
     "type": "person",
     "path": "wiki/persons/spain/Manuel Castells.md",
@@ -21585,6 +21791,18 @@
       "曼努埃尔·卡斯特尔斯",
       "曼纽尔·卡斯特",
       "Castells, M."
+    ]
+  },
+  {
+    "title": "Alfred Nobel",
+    "type": "person",
+    "path": "wiki/persons/sweden/Alfred Nobel.md",
+    "aliases": [
+      "Alfred Bernhard Nobel",
+      "Nobel",
+      "阿尔弗雷德·诺贝尔",
+      "阿尔弗雷德·伯恩哈德·诺贝尔",
+      "诺贝尔"
     ]
   },
   {
@@ -21915,6 +22133,17 @@
     "aliases": [
       "伊恩·门特",
       "Menter, I."
+    ]
+  },
+  {
+    "title": "Irving John Good",
+    "type": "person",
+    "path": "wiki/persons/uk/Irving John Good.md",
+    "aliases": [
+      "I. J. Good",
+      "I. J. 古德",
+      "欧文·约翰·古德",
+      "欧文·J·古德"
     ]
   },
   {
@@ -22294,6 +22523,16 @@
     ]
   },
   {
+    "title": "Remi Adekoya",
+    "type": "person",
+    "path": "wiki/persons/uk/Remi Adekoya.md",
+    "aliases": [
+      "雷米·阿德科亚",
+      "Adekoya, R.",
+      "阿德科亚"
+    ]
+  },
+  {
     "title": "Richard Rose",
     "type": "person",
     "path": "wiki/persons/uk/Richard Rose.md",
@@ -22599,6 +22838,16 @@
     ]
   },
   {
+    "title": "Allan Bloom",
+    "type": "person",
+    "path": "wiki/persons/us/Allan Bloom.md",
+    "aliases": [
+      "阿兰·布鲁姆",
+      "艾伦·布鲁姆",
+      "Allan David Bloom"
+    ]
+  },
+  {
     "title": "Alvin Goldman",
     "type": "person",
     "path": "wiki/persons/us/Alvin Goldman.md",
@@ -22644,6 +22893,16 @@
     "aliases": [
       "Swidler, A.",
       "安·斯威德勒"
+    ]
+  },
+  {
+    "title": "Anne Applebaum",
+    "type": "person",
+    "path": "wiki/persons/us/Anne Applebaum.md",
+    "aliases": [
+      "安妮·阿普尔鲍姆",
+      "Applebaum, A.",
+      "阿普尔鲍姆"
     ]
   },
   {
@@ -22845,6 +23104,16 @@
     ]
   },
   {
+    "title": "David Graeber",
+    "type": "person",
+    "path": "wiki/persons/us/David Graeber.md",
+    "aliases": [
+      "大卫·格雷伯",
+      "Graeber, D.",
+      "格雷伯"
+    ]
+  },
+  {
     "title": "David Guston",
     "type": "person",
     "path": "wiki/persons/us/David Guston.md",
@@ -22913,6 +23182,17 @@
     ]
   },
   {
+    "title": "Douglas Hofstadter",
+    "type": "person",
+    "path": "wiki/persons/us/Douglas Hofstadter.md",
+    "aliases": [
+      "Hofstadter, D. R.",
+      "Douglas R. Hofstadter",
+      "道格拉斯·霍夫施塔特",
+      "霍夫施塔特"
+    ]
+  },
+  {
     "title": "Egon G. Guba",
     "type": "person",
     "path": "wiki/persons/us/Egon G. Guba.md",
@@ -22920,6 +23200,26 @@
       "Guba, E. G.",
       "Egon Guba",
       "埃贡·古巴"
+    ]
+  },
+  {
+    "title": "Eliezer Yudkowsky",
+    "type": "person",
+    "path": "wiki/persons/us/Eliezer Yudkowsky.md",
+    "aliases": [
+      "埃利泽·尤德考夫斯基",
+      "Yudkowsky, E.",
+      "尤德考夫斯基"
+    ]
+  },
+  {
+    "title": "Elon Musk",
+    "type": "person",
+    "path": "wiki/persons/us/Elon Musk.md",
+    "aliases": [
+      "埃隆·马斯克",
+      "Musk, E.",
+      "马斯克"
     ]
   },
   {
@@ -22949,6 +23249,27 @@
     "aliases": [
       "Glasersfeld, E. V.",
       "恩斯特·冯·格拉泽斯费尔德"
+    ]
+  },
+  {
+    "title": "Francis Fukuyama",
+    "type": "person",
+    "path": "wiki/persons/us/Francis Fukuyama.md",
+    "aliases": [
+      "弗朗西斯·福山",
+      "福山",
+      "Fukuyama, F."
+    ]
+  },
+  {
+    "title": "Franklin D. Roosevelt",
+    "type": "person",
+    "path": "wiki/persons/us/Franklin D. Roosevelt.md",
+    "aliases": [
+      "富兰克林·D·罗斯福",
+      "罗斯福总统",
+      "FDR",
+      "Franklin Delano Roosevelt"
     ]
   },
   {
@@ -23124,7 +23445,8 @@
     "aliases": [
       "Simon, H. A.",
       "Herbert Simon",
-      "赫伯特·A.西蒙"
+      "赫伯特·A.西蒙",
+      "赫伯特·西蒙"
     ]
   },
   {
@@ -23206,6 +23528,18 @@
       "Creswell, J. D.",
       "J. 大卫·克雷斯维尔",
       "David Creswell"
+    ]
+  },
+  {
+    "title": "J. Robert Oppenheimer",
+    "type": "person",
+    "path": "wiki/persons/us/J. Robert Oppenheimer.md",
+    "aliases": [
+      "Oppenheimer, J. R.",
+      "Robert Oppenheimer",
+      "J.罗伯特·奥本海默",
+      "罗伯特·奥本海默",
+      "奥本海默"
     ]
   },
   {
@@ -23313,6 +23647,16 @@
     ]
   },
   {
+    "title": "John Lewis Gaddis",
+    "type": "person",
+    "path": "wiki/persons/us/John Lewis Gaddis.md",
+    "aliases": [
+      "约翰·刘易斯·加迪斯",
+      "Gaddis, J. L.",
+      "加迪斯"
+    ]
+  },
+  {
     "title": "John W. Creswell",
     "type": "person",
     "path": "wiki/persons/us/John W. Creswell.md",
@@ -23341,6 +23685,16 @@
       "Meyer, J. W.",
       "John Meyer",
       "约翰·迈耶"
+    ]
+  },
+  {
+    "title": "Joseph S. Nye Jr.",
+    "type": "person",
+    "path": "wiki/persons/us/Joseph S. Nye Jr.md",
+    "aliases": [
+      "约瑟夫·奈",
+      "约瑟夫·S·奈",
+      "Joseph Nye"
     ]
   },
   {
@@ -23397,6 +23751,27 @@
     "aliases": [
       "Cuban, L.",
       "拉里·库班"
+    ]
+  },
+  {
+    "title": "Lawrence H. Keeley",
+    "type": "person",
+    "path": "wiki/persons/us/Lawrence H. Keeley.md",
+    "aliases": [
+      "Lawrence Keeley",
+      "Keeley",
+      "劳伦斯·基利",
+      "劳伦斯·H·基利"
+    ]
+  },
+  {
+    "title": "Leo Szilard",
+    "type": "person",
+    "path": "wiki/persons/us/Leo Szilard.md",
+    "aliases": [
+      "利奥·西拉德",
+      "西拉德",
+      "Leó Szilárd"
     ]
   },
   {
@@ -23532,6 +23907,16 @@
     ]
   },
   {
+    "title": "Nicholas Negroponte",
+    "type": "person",
+    "path": "wiki/persons/us/Nicholas Negroponte.md",
+    "aliases": [
+      "尼古拉斯·尼葛洛庞帝",
+      "Negroponte, N.",
+      "尼葛洛庞帝"
+    ]
+  },
+  {
     "title": "Nicholas Zamiska",
     "type": "person",
     "path": "wiki/persons/us/Nicholas Zamiska.md",
@@ -23540,6 +23925,17 @@
       "Nicholas W. Zamiska",
       "N. W. Zamiska",
       "Zamiska, N. W."
+    ]
+  },
+  {
+    "title": "Noam Chomsky",
+    "type": "person",
+    "path": "wiki/persons/us/Noam Chomsky.md",
+    "aliases": [
+      "Chomsky, N.",
+      "Noam Avram Chomsky",
+      "诺姆·乔姆斯基",
+      "乔姆斯基"
     ]
   },
   {
@@ -23573,6 +23969,18 @@
     ]
   },
   {
+    "title": "Percy Williams Bridgman",
+    "type": "person",
+    "path": "wiki/persons/us/Percy Williams Bridgman.md",
+    "aliases": [
+      "Bridgman, P. W.",
+      "Percy Bridgman",
+      "珀西·威廉斯·布里奇曼",
+      "珀西·布里奇曼",
+      "布里奇曼"
+    ]
+  },
+  {
     "title": "Peter Facione",
     "type": "person",
     "path": "wiki/persons/us/Peter Facione.md",
@@ -23580,6 +23988,16 @@
       "Peter A. Facione",
       "彼得·法乔恩",
       "法乔恩"
+    ]
+  },
+  {
+    "title": "Peter Thiel",
+    "type": "person",
+    "path": "wiki/persons/us/Peter Thiel.md",
+    "aliases": [
+      "彼得·蒂尔",
+      "Thiel, P.",
+      "蒂尔"
     ]
   },
   {
@@ -23690,6 +24108,17 @@
     ]
   },
   {
+    "title": "Robert J. Gordon",
+    "type": "person",
+    "path": "wiki/persons/us/Robert J. Gordon.md",
+    "aliases": [
+      "罗伯特·J. 戈登",
+      "Gordon, R. J.",
+      "罗伯特·戈登",
+      "戈登"
+    ]
+  },
+  {
     "title": "Robert Marzano",
     "type": "person",
     "path": "wiki/persons/us/Robert Marzano.md",
@@ -23780,6 +24209,16 @@
     ]
   },
   {
+    "title": "Steven Pinker",
+    "type": "person",
+    "path": "wiki/persons/us/Steven Pinker.md",
+    "aliases": [
+      "斯蒂芬·平克",
+      "Pinker, S.",
+      "平克"
+    ]
+  },
+  {
     "title": "Steven Stahl",
     "type": "person",
     "path": "wiki/persons/us/Steven Stahl.md",
@@ -23836,6 +24275,19 @@
       "托马斯·波普科维茨",
       "波普科维茨",
       "Popkewitz, T. S."
+    ]
+  },
+  {
+    "title": "Thomas Schelling",
+    "type": "person",
+    "path": "wiki/persons/us/Thomas Schelling.md",
+    "aliases": [
+      "托马斯·谢林",
+      "托马斯·克罗姆比·谢林",
+      "谢林",
+      "Schelling, T.",
+      "Schelling, T. C.",
+      "Thomas C. Schelling"
     ]
   },
   {
@@ -23934,6 +24386,17 @@
       "Sandoval, W.",
       "威廉·桑多瓦尔",
       "桑多瓦尔"
+    ]
+  },
+  {
+    "title": "William F. Buckley Jr.",
+    "type": "person",
+    "path": "wiki/persons/us/William F. Buckley Jr.md",
+    "aliases": [
+      "小威廉·F·巴克利",
+      "威廉·F·巴克利",
+      "William Frank Buckley Jr.",
+      "William Buckley"
     ]
   },
   {
@@ -24802,6 +25265,19 @@
       "新疆教培中心",
       "Xinjiang re-education camps",
       "新疆再教育营"
+    ]
+  },
+  {
+    "title": "Autonomous Drone Swarms",
+    "type": "fact",
+    "path": "wiki/facts/china/Autonomous Drone Swarms.md",
+    "aliases": [
+      "野外自主微型无人机集群",
+      "密集竹林微型无人机蜂群",
+      "自主微型无人机蜂群",
+      "自主无人机蜂群",
+      "Swarm of Micro Flying Robots in the Wild",
+      "浙大野外微型飞行机器人集群"
     ]
   },
   {
@@ -25978,6 +26454,17 @@
     ]
   },
   {
+    "title": "Pause Giant AI Experiments Open Letter",
+    "type": "fact",
+    "path": "wiki/facts/global/Pause Giant AI Experiments Open Letter.md",
+    "aliases": [
+      "暂停巨型人工智能实验公开信",
+      "2023年暂停超级人工智能公开信",
+      "FLI Open Letter 2023",
+      "AI Pause Open Letter"
+    ]
+  },
+  {
     "title": "Regional University Alliances",
     "type": "fact",
     "path": "wiki/facts/global/Regional University Alliances.md",
@@ -26990,6 +27477,17 @@
       "大学技术转让促进法",
       "TLO Act",
       "Act on the Promotion of Technology Transfer from Universities"
+    ]
+  },
+  {
+    "title": "Article 9 of the Japanese Constitution",
+    "type": "fact",
+    "path": "wiki/facts/japan/Article 9 of the Japanese Constitution.md",
+    "aliases": [
+      "日本国宪法第九条",
+      "Japanese Constitution Article 9",
+      "日本和平宪法第九条",
+      "和平宪法第九条"
     ]
   },
   {
@@ -29033,6 +29531,17 @@
     ]
   },
   {
+    "title": "Dartmouth Summer Research Project on Artificial Intelligence",
+    "type": "fact",
+    "path": "wiki/facts/us/Dartmouth Summer Research Project on Artificial Intelligence.md",
+    "aliases": [
+      "达特茅斯人工智能夏季研讨会",
+      "达特茅斯会议",
+      "Dartmouth AI Conference",
+      "Dartmouth Conference 1956"
+    ]
+  },
+  {
     "title": "Daubert v Merrell Dow Pharmaceuticals 1993",
     "type": "fact",
     "path": "wiki/facts/us/Daubert v Merrell Dow Pharmaceuticals 1993.md",
@@ -29049,6 +29558,17 @@
     "aliases": [
       "教育经济学运动",
       "economics of education"
+    ]
+  },
+  {
+    "title": "Einstein-Szilard Letter",
+    "type": "fact",
+    "path": "wiki/facts/us/Einstein-Szilard Letter.md",
+    "aliases": [
+      "爱因斯坦-西拉德信函",
+      "爱因斯坦致罗斯福总统信",
+      "1939年爱因斯坦信件",
+      "Einstein–Szilárd letter"
     ]
   },
   {
@@ -29120,6 +29640,19 @@
       "高等教育质量评测工具库",
       "MQI",
       "NILOA Inventory"
+    ]
+  },
+  {
+    "title": "Microsoft IVAS Contract Protest",
+    "type": "fact",
+    "path": "wiki/facts/us/Microsoft IVAS Contract Protest.md",
+    "aliases": [
+      "微软陆军头显合同抗议事件",
+      "微软军用头显抗议事件",
+      "2019年微软IVAS军用合同抗议",
+      "微软员工抗议陆军虚拟头显合同",
+      "Microsoft HoloLens Defense Contract Protest",
+      "Integrated Visual Augmentation System Protest"
     ]
   },
   {
@@ -31115,6 +31648,17 @@
     ]
   },
   {
+    "title": "Manhattan Project",
+    "type": "fact",
+    "path": "wiki/facts/us/Manhattan Project.md",
+    "aliases": [
+      "曼哈顿工程",
+      "曼哈顿计划",
+      "Manhattan District",
+      "Manhattan Engineer District"
+    ]
+  },
+  {
     "title": "Math Recovery",
     "type": "fact",
     "path": "wiki/facts/us/Math Recovery.md",
@@ -31239,6 +31783,16 @@
       "海盗数学",
       "海盗数学方程探索",
       "Pirate Math Equation Quest"
+    ]
+  },
+  {
+    "title": "Project Maven",
+    "type": "fact",
+    "path": "wiki/facts/us/Project Maven.md",
+    "aliases": [
+      "梅文项目",
+      "Algorithmic Warfare Cross-Functional Team",
+      "AWCFT"
     ]
   },
   {
@@ -31847,6 +32401,21 @@
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01",
     "type": "argument",
     "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch01.md"
+  },
+  {
+    "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch02",
+    "type": "argument",
+    "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch02.md"
+  },
+  {
+    "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch03",
+    "type": "argument",
+    "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch03.md"
+  },
+  {
+    "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch04",
+    "type": "argument",
+    "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch04.md"
   },
   {
     "title": "Argument_Kelly_Licona_2018_EpistemicPractices",

@@ -8,7 +8,7 @@ aliases:
 summary: "阿诺夫与托雷斯开创的批判比较教育学核心理论框架，强调全球经济、政治与文化力量并非单向决定本土教育，而是与民族国家和基层社区的能动力量发生持续的相互渗透、中介过滤与冲突重塑。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 46
+theory_related_count: 47
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -50,6 +50,7 @@ related_theories:
   - "[[Cultural Models]]"
   - "[[Rational Action Theory]]"
   - "[[Conditioned State Theory]]"
+  - "[[Legitimation Crisis]]"
 related_methods:
   - "[[Ethnography]]"
   - "[[Analytic Framework]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-04
+updated: 2026-10-07
 ---
 
 # Dialectic of the Global and the Local
@@ -217,6 +218,6 @@ updated: 2026-10-04
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 权威理论专章，系统确立贯通宏观世界体系与微观课堂[[Ethnography|民族志]]的双重视野，提出教育改革发起方位与目标取向二维矩阵。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 运用全球与本土辩证法解构拉美[[Conditioned State Theory|受限国家]]在跨国依附下的阶级[[Dual School System|双轨学制]]与教育合法化危机。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 运用全球与本土辩证法解构拉美[[Conditioned State Theory|受限国家]]在跨国依附下的阶级[[Dual School System|双轨学制]]与教育[[Legitimation Crisis|合法化危机]]。
 
 ---

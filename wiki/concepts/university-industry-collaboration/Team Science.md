@@ -6,7 +6,7 @@ aliases:
 summary: "以跨学科、大规模协作为特征的研究模式，Swick and Jones（2025）通过诺贝尔奖趋势论证其日益成为解决复杂科学问题的必要方式，与产学合作中医用创新对多元专业知识的整合需求直接相关"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,13 +21,14 @@ related_concepts:
   - "[[Physician-Scientist]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Alfred Nobel]]"
 related_facts: []
 related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-09-10
+updated: 2026-10-08
 ---
 
 # Team Science
@@ -40,7 +41,7 @@ updated: 2026-09-10
 ## 核心要素
 
 > [!abstract]
-> 诺贝尔奖趋势反映了团队科学兴起的两个结构性原因（pp.178–179）：
+> [[Alfred Nobel|诺贝尔]]奖趋势反映了团队科学兴起的两个结构性原因（pp.178–179）：
 > 1. **问题复杂性增加** 当代科学问题日益复杂，往往需要跨学科团队和不同组织类型的伙伴才能解决。单一机构的单一学科视角只能产生渐进式改进，变革性突破需要不同背景和思维方式的汇聚（p.185）。
 > 2. **科学合作的增长** 科学研究日益走向大团队协作，诺贝尔奖获奖者越来越多地代表数百人规模的大型跨学科团队，而非孤立的个体天才（pp.178–179）。
 

@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 6
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: 战时大学托管国防研发实验室
 headquarters: 美国马萨诸塞州剑桥（Cambridge, Massachusetts, USA）
@@ -24,9 +24,11 @@ tags:
   - policy/wartime-mobilization
 related_persons:
   - "[[Vannevar Bush]]"
+  - "[[Alfred Nobel]]"
 related_facts:
   - "[[Office of Scientific Research and Development]]"
   - "[[Bell Labs]]"
+  - "[[Manhattan Project]]"
   - "[[Federally Funded Research and Development Centers]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
@@ -35,7 +37,7 @@ related_concepts:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-03
+updated: 2026-10-08
 ---
 
 # MIT Radiation Laboratory
@@ -85,9 +87,9 @@ updated: 2026-10-03
 ## 影响与体系成效
 
 > [!finding-cards] 关键成效与历史辐射
-> - **确立 [[Office of Scientific Research and Development|OSRD]] 大学合同研发模式的成熟标杆** 正如阿特金森与布兰皮德指出的，相比具有军工封闭特例性的曼哈顿计划，MIT 辐射实验室才是“OSRD 系统如何运作的最佳典范”（*a better example of how the OSRD system worked*），证明高水平基础学者在大学环境中能爆发出无与伦比的颠覆性工程突破力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]
+> - **确立 [[Office of Scientific Research and Development|OSRD]] 大学合同研发模式的成熟标杆** 正如阿特金森与布兰皮德指出的，相比具有军工封闭特例性的[[Manhattan Project|曼哈顿计划]]，MIT 辐射实验室才是“OSRD 系统如何运作的最佳典范”（*a better example of how the OSRD system worked*），证明高水平基础学者在大学环境中能爆发出无与伦比的颠覆性工程突破力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]
 > - **催生战后高科技创新走廊（128 号公路）** 实验室战后衍生出的成百上千家微波、电子与半导体企业，直接推动了波士顿地区 128 号公路高科技走廊的兴起，构筑了现代产学研创新的地理原型。
-> - **孕育战后顶尖物理学诺奖梯队** 实验室战时汇聚与锻炼的大批年轻物理学家（如珀塞尔、施温格、拉比、拉姆塞等），战后主导了核磁共振、量子电动力学与微波波谱学的飞跃，接连斩获多项诺贝尔物理学奖。
+> - **孕育战后顶尖物理学诺奖梯队** 实验室战时汇聚与锻炼的大批年轻物理学家（如珀塞尔、施温格、拉比、拉姆塞等），战后主导了核磁共振、量子电动力学与微波波谱学的飞跃，接连斩获多项[[Alfred Nobel|诺贝尔]]物理学奖。
 
 ---
 

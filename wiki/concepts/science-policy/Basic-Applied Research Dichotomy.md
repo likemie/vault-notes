@@ -8,7 +8,7 @@ aliases:
 summary: "战后主导科技政策资源配置的核心分类范式，以研究者即时立项动机将科研割裂为基础与应用两轨；后因其文化阶层偏见、单向因果谬误及导致关键硬件发明资助断档而遭系统性解构"
 type: concept
 domain: "science-policy"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,6 +38,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
+  - "[[Alfred Nobel]]"
   - "[[Donald Stokes]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-02
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Basic-Applied Research Dichotomy
@@ -135,7 +136,7 @@ updated: 2026-10-07
 > [!contrast-table] 围绕基础/应用二分法形成的批判性命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
-> | **认识论有效性命题** | 检验先懂原理后造技术[[Hypothesis\|假设]]是否成立，揭示发明作为科学发现载体的普遍性 | 科学技术史实证、诺贝尔物理学奖谱系考证 | 布什; 纳拉亚纳穆尔提等 |
+> | **认识论有效性命题** | 检验先懂原理后造技术[[Hypothesis\|假设]]是否成立，揭示发明作为科学发现载体的普遍性 | 科学技术史实证、[[Alfred Nobel\|诺贝尔]]物理学奖谱系考证 | 布什; 纳拉亚纳穆尔提等 |
 > | **资助制度异化命题** | 揭示以立项动机定资助边界导致的战略性硬件研发断档与机构壁垒 | 国家实验室治理、科研预算编制、产业关键技术突破 | 阿罗; 纳拉亚纳穆尔提等 |
 
 ---

@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -55,6 +55,7 @@ related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"
   - "[[Vannevar Bush]]"
+  - "[[Franklin D. Roosevelt]]"
   - "[[Donald Stokes]]"
 related_facts:
   - "[[Office of Science and Technology Policy]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Science A New Golden Age 2026
@@ -82,7 +83,7 @@ updated: 2026-10-07
 
 > [!policy-context] 政策背景与历史动因
 > - **呈交时间与主管主体** 2026 年 7 月 21 日，由[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（Office of Science and Technology Policy, OSTP）主任[[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael J. Kratsios）正式呈交美国总统。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. v)]]
-> - **历史传承与对标基准** 报告明确将 1945 年[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）向罗斯福总统呈交的经典报告《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》（*Science: The Endless Frontier*）作为制度参照系，旨在为 21 世纪重写国家科学技术企业（Science and Technology Enterprise）的组织契约。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. viii, 1)]]
+> - **历史传承与对标基准** 报告明确将 1945 年[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）向[[Franklin D. Roosevelt|罗斯福总统]]呈交的经典报告《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》（*Science: The Endless Frontier*）作为制度参照系，旨在为 21 世纪重写国家科学技术企业（Science and Technology Enterprise）的组织契约。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. viii, 1)]]
 > - **触发机制与核心[[Questionnaire|问卷]]** 源于 2025 年 3 月 26 日总统给克拉齐奥斯的委托信，信中要求回答三大战略问题：
 >   1. 如何确保美国在未来关键与新兴技术领域保持绝对领导地位？
 >   2. 如何重振国家科学企业，使突破性发现更高效地转化为本土繁荣？

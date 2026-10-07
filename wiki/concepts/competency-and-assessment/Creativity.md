@@ -11,7 +11,7 @@ aliases:
 summary: "个体或群体在特定情境中综合调动认知、情绪与环境资源生成新颖且适切成果的心理能力与综合表现，在教育与心理学中兼具预测变量与发展结果的双重属性；在科学学与创新政策视阈下，个体科学创造力呈现显著的早年黄金生命周期，易受学术评价增量偏好与共识评审的体制性抑制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 76
+related_count: 78
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -60,6 +60,7 @@ related_concepts:
   - "[[Criterion Problem]]"
   - "[[Heterogeneity]]"
   - "[[Domain Specificity]]"
+  - "[[Polymath]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Jigsaw]]"
   - "[[Common Method Variance]]"
@@ -83,6 +84,7 @@ related_instruments:
   - "[[Torrance Tests of Creative Thinking]]"
   - "[[Consensual Assessment Technique]]"
 related_persons:
+  - "[[Alfred Nobel]]"
   - "[[Socrates]]"
   - "[[Mark A. Runco]]"
   - "[[Michael Kratsios]]"
@@ -106,7 +108,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Creativity
@@ -131,7 +133,7 @@ updated: 2026-10-07
 > 总体而言，结果显示训练项目对大学生的创造力具有中等但在统计上显著的影响（Hedges' $g = 0.628$）。这些发现为教育工作者和政策制定者在制定旨在培养学生创造力的课程和干预措施时提供了宝贵见解。[[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 1)]]
 
 > [!citation-card] 科学创造力的生命周期规律与体制性风险规避
-> 创新经济学与科学学研究表明，科学家取得颠覆性突破的‘大想法（Great Ideas）’与诺贝尔奖级发现的高峰期，普遍集中在其 20 岁末至 30 岁中期的早年阶段（Jones, 2010）。然而，当代学术评价体系中泛滥的增量发表指标、极低的基金资助率与共识型同行评议，迫使最具创造力的年轻学者陷入严重的‘学术风险规避（[[Academic Risk Aversion]]）’，将精力耗费在迎合主流范式的切香肠式平庸研究中。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–16)]]
+> 创新经济学与科学学研究表明，科学家取得颠覆性突破的‘大想法（Great Ideas）’与[[Alfred Nobel|诺贝尔]]奖级发现的高峰期，普遍集中在其 20 岁末至 30 岁中期的早年阶段（Jones, 2010）。然而，当代学术评价体系中泛滥的增量发表指标、极低的基金资助率与共识型同行评议，迫使最具创造力的年轻学者陷入严重的‘学术风险规避（[[Academic Risk Aversion]]）’，将精力耗费在迎合主流范式的切香肠式平庸研究中。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–16)]]
 >
 > *A classic finding in innovation economics is that scientists have their 'great ideas' early in their careers—typically in their 30s. Today, our institutional incentives enforce extreme academic risk aversion, suffocating radical divergent exploration during researchers' most fertile creative years.*
 
@@ -229,7 +231,7 @@ updated: 2026-10-07
 > 探讨个体科研人员在生命周期各阶段的创造力演变规律，以及现行科研评价体制对高风险、高方差颠覆性创造力的抑制机制。
 
 > [!claim] Jones; Chu & Evans; Kratsios
-> **生命周期创造力窗口与学术风险规避的制度破除** 创新经济学与科学计量学研究证实，基础科学领域的重大颠覆性发现与诺贝尔奖级原创成果主要由科学家在 30 岁上下的早年阶段完成（Jones, 2010）。然而，当代学术评价体制日益被“微小增量（Salami Slicing）”与“共识型同行评议（Consensus-seeking Peer Review）”所绑架。由于低资助率（低于 20%）和论文引用量考核，年轻学者在最具创造力的峰值期被迫规避高风险颠覆性假说，转向迎合[[Star Scientists|明星科学家]]主导的既定[[Paradigm|范式]]进行安全、平庸的微小修补。要重新激活颠覆性创造力，必须推行“非共识资助机制”（如设立仅需单一评委强烈推荐即可立项的 Golden Tickets 制度、抽签资助试验）和“便携式独立人才基金”，使青年探索者摆脱对成熟学术圈子的依附，真正释放探索未知的前沿创造力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–17)]]
+> **生命周期创造力窗口与学术风险规避的制度破除** 创新经济学与科学计量学研究证实，基础科学领域的重大颠覆性发现与[[Alfred Nobel|诺贝尔]]奖级原创成果主要由科学家在 30 岁上下的早年阶段完成（Jones, 2010）。然而，当代学术评价体制日益被“微小增量（Salami Slicing）”与“共识型同行评议（Consensus-seeking Peer Review）”所绑架。由于低资助率（低于 20%）和论文引用量考核，年轻学者在最具创造力的峰值期被迫规避高风险颠覆性假说，转向迎合[[Star Scientists|明星科学家]]主导的既定[[Paradigm|范式]]进行安全、平庸的微小修补。要重新激活颠覆性创造力，必须推行“非共识资助机制”（如设立仅需单一评委强烈推荐即可立项的 Golden Tickets 制度、抽签资助试验）和“便携式独立人才基金”，使青年探索者摆脱对成熟学术圈子的依附，真正释放探索未知的前沿创造力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–17)]]
 
 ---
 
@@ -271,7 +273,7 @@ updated: 2026-10-07
 > > [!axis] 领域一般性 vs [[Domain Specificity|领域特殊性]]
 > > 争论创造力是一种跨学科通用的普遍认知潜能，还是高度依赖特定领域知识与技能的情境化能力。
 > >
-> > - **通才立场** 主张[[Divergent Thinking|发散思维]]、[[Problem Finding|问题发现]]与[[Open-Mindedness|开放性]]人格是跨领域的通用基础。
+> > - **[[Polymath|通才]]立场** 主张[[Divergent Thinking|发散思维]]、[[Problem Finding|问题发现]]与[[Open-Mindedness|开放性]]人格是跨领域的通用基础。
 > > - **专才立场** 强调艺术创造与科学创造在认知机制、评价标准及神经活动模式上存在实质性分离。
 >
 > > [!axis] 创意民主化 vs 均质化与主体声音淹没

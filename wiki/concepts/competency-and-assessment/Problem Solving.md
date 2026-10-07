@@ -193,7 +193,7 @@ updated: 2026-10-07
 
 > [!dev-timeline] 问题解决理论的发展演进
 > - **1910s–1930s — 试错说与顿悟说的早期对峙** 桑代克（Edward Thorndike）提出试错联结说，强调刺激-反应之间的渐进强化；格式塔学派（苛勒 Wolfgang Köhler、邓克尔 Karl Duncker）则提出“顿悟说”（Insight），强调克服功能固着（Functional Fixedness）并对情境关系进行整体知觉重构。
-> - **1970s — 信息加工与问题空间[[Paradigm|范式]]确立** 赫伯特·西蒙（[[Herbert A. Simon]]）与纽厄尔（Allen Newell）出版里程碑专著《人类问题解决》（*Human Problem Solving*），将思维形式化为在包含初始、中间与目标状态的“问题空间”中，运用启发式策略（如手段-目的分析 Means-Ends Analysis）进行符号搜索的加工系统。
+> - **1970s — 信息加工与问题空间[[Paradigm|范式]]确立** [[Herbert A. Simon|赫伯特·西蒙]]（[[Herbert A. Simon]]）与纽厄尔（Allen Newell）出版里程碑专著《人类问题解决》（*Human Problem Solving*），将思维形式化为在包含初始、中间与目标状态的“问题空间”中，运用启发式策略（如手段-目的分析 Means-Ends Analysis）进行符号搜索的加工系统。
 > - **1990s–2000s — 真实情境与复杂问题解决（[[Creative Problem Solving|CPS]]）转向** 学习科学突破良构实验谜题的局限，德国学者（如 Dörner, Funke）推动从良构逻辑走向动态、具有不透明性且包含多重[[Variable|变量]]互动的“复杂问题解决”（Complex Problem Solving, CPS），被 [[PISA]] 测评与[[OECD|经合组织]]（OECD）确立为未来[[21st Century Skills and Competencies Discourse|核心素养]]。
 > - **2010s — 工程[[Epistemic Practices|认识论实践]]与多约束设计融合** [[Engineering Education|工程教育]]研究将问题解决深化为多重物理与经济约束下的原型迭代与折中决策规程。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 154–157)]]
 > - **2020s — [[Man-Computer Symbiosis|人机协同]]与现场排障手艺的双重重塑** 生成式 AI 推动纯符号推演与代码排错的自动化，而科技界同时重新认识到物理硬件、实验仪器与制造产线现场排障（Troubleshooting）手艺的不可替代性。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–11)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52, 56)]]

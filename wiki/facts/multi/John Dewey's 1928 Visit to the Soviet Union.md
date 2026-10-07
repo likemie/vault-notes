@@ -10,7 +10,7 @@ subtype: event
 region: multi
 fact_region: "multi"
 fact_kind: "event"
-fact_related_count: 2
+fact_related_count: 3
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ related_concepts: []
 related_theories: []
 related_methods: []
 related_persons:
+  - "[[Franklin D. Roosevelt]]"
   - "[[Sherwood Eddy]]"
 related_facts: []
 related_arguments:
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-06-02
+updated: 2026-10-08
 ---
 
 # John Dewey's 1928 Visit to the Soviet Union
@@ -40,7 +41,7 @@ updated: 2026-06-02
 ## 背景
 
 > [!info]
-> 1917 年 12 月 6 日后，美国在威尔逊总统领导下决定不承认布尔什维克领导的苏俄新政府——原因包括苏俄拒绝偿还沙皇时代债务和没收美国资产。此后三任总统延续了这一不承认政策，直到 1933 年罗斯福总统任内才正式承认苏联([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, p.102]])。在两国无正式外交关系的十六年间，美国民间人士持续访问和书写苏联——Dewey 的 1928 年访问是其中最具影响力的一次。
+> 1917 年 12 月 6 日后，美国在威尔逊总统领导下决定不承认布尔什维克领导的苏俄新政府——原因包括苏俄拒绝偿还沙皇时代债务和没收美国资产。此后三任总统延续了这一不承认政策，直到 1933 年[[Franklin D. Roosevelt|罗斯福总统]]任内才正式承认苏联([[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, p.102]])。在两国无正式外交关系的十六年间，美国民间人士持续访问和书写苏联——Dewey 的 1928 年访问是其中最具影响力的一次。
 
 苏联方面，十月革命后教育面临重建任务。苏俄教育者（Shatskii、Lunacharsky 等）在革命前就已阅读和吸收 Dewey 的著作，将其作为教育改革的理论参照。Dewey 的 *School and Society* 和 *The School and the Child* 被翻译成俄文，被用作建设新苏联学校体系的指南([[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.103–105]])。
 

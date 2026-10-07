@@ -9,7 +9,7 @@ aliases:
 summary: "Antonio Gramsci (1971) 的权力理论：区分强制与霸权，指支配群体通过法律、教育、媒体、科学、大学及智能算法等文化制度，正当化其统治并赢得被统治者积极同意的治理机制。在教育中，学校课程、全球大学排名与平台技术嵌入充当了制造文化共识与自然化中心—边缘等级的霸权装置。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 41
+theory_related_count: 42
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Research Question]]"
   - "[[Operationalization]]"
+  - "[[Hard Power]]"
   - "[[Document]]"
   - "[[Variable]]"
   - "[[Man-Computer Symbiosis]]"
@@ -178,7 +179,7 @@ updated: 2026-10-07
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 拥有成熟文化中介系统（现代学校、专业学会、出版媒体、大学体系及网络平台）的社会与全球治理[[Champ\|场域]]，擅长剖析无形、柔性与共识性的权力运作。
 > - **成立条件** 必须存在市民社会与相对独立的文化场域；受众需具备接受文化中介影响的信息接触通道。
-> - **解释不足** 葛兰西原理论偏重质性与历史哲学阐释，在现代实证研究中面临[[Operationalization\|操作化]]与量化测量难题——如何精准剥离“自愿的积极同意”与“无能为力的被迫默认”；同时，对宏观全球经济硬实力分配的结构性描绘不如[[World-Systems Theory\|世界体系理论]]清晰。
+> - **解释不足** 葛兰西原理论偏重质性与历史哲学阐释，在现代实证研究中面临[[Operationalization\|操作化]]与量化测量难题——如何精准剥离“自愿的积极同意”与“无能为力的被迫默认”；同时，对宏观全球经济[[Hard Power|硬实力]]分配的结构性描绘不如[[World-Systems Theory\|世界体系理论]]清晰。
 > - **不能直接推出** 不能仅凭发现教材中存在主导文化偏向，就直接推断所有学生都必然被彻底洗脑；文化部门的半自主性与受众的主体能动性决定了霸权效应具有不确定性。
 
 ---
@@ -187,7 +188,7 @@ updated: 2026-10-07
 
 > [!debates] 理论争议
 >
-> > [!axis] 文化“同意”的核心性 vs 经济/军事硬实力的持续基石
+> > [!axis] 文化“同意”的核心性 vs 经济/军事[[Hard Power|硬实力]]的持续基石
 > > 争论全球学术与文化霸权究竟主要源于软性的文化制度吸引，还是本质上依赖冷酷的军事与资本后盾。
 > >
 > > - **Gramsci (1971)** 强调霸权的精妙正在于摆脱暴力直接逼迫，转由市民社会文化装置赢得积极同意。

@@ -10,9 +10,9 @@ title: "Argument_Peterson_1987_OpenCourt_Ch05"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch05"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 publication_place: "La Salle, IL"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Attrition]]"
 related_persons:
   - "[[Louis Mountbatten]]"
+  - "[[Alfred Nobel]]"
   - "[[Kurt Hahn]]"
   - "[[Desmond Hoare]]"
   - "[[Alec Peterson]]"
@@ -195,7 +196,7 @@ updated: 2026-10-04
 
 > [!actor-grid] 加拿大第一轮扩展的关键角色
 > - **劳伦斯·达瓦尔（Sir Lawrence Darvall）与罗伯特·布莱克本（Robert Blackburn）** 1963 年底赴加建立国家委员会，希望形成稳定的学生选拔渠道，并推动加拿大社会理解大西洋学院。
-> - **莱斯特·皮尔逊（Lester Pearson）** 以国际合作和诺贝尔和平奖声望赋予项目政治正当性。委员会据此提出每个省选送两名学生的初步目标。
+> - **莱斯特·皮尔逊（Lester Pearson）** 以国际合作和[[Alfred Nobel|诺贝尔]]和平奖声望赋予项目政治正当性。委员会据此提出每个省选送两名学生的初步目标。
 > - **多纳德·卡梅伦（Donald Cameron）** 以班夫美术学校（Banff School of Fine Arts）创办人和负责人身份提出共享现有基地，并在联邦政府反对后继续等待政策变化。
 > - **塞德里克·索比（Cedric Sowby）与肯·罗滕伯格（Ken Rotenberg）** 扩大大西洋学院在加拿大的知名度，组织选拔与招生；罗滕伯格在项目低潮期持续推动创校。
 > - **乔治·舒斯特（Sir George Schuster）与汉基勋爵（Lord Hankey）** 分别从首校财务安全和扩展次序出发审查加拿大方案。舒斯特强调资源竞争，汉基则在班夫之外寻找不列颠哥伦比亚的可能性（pp. 99–103）。

@@ -5,7 +5,7 @@ aliases:
 summary: "把过去、现在和未来压缩进同一时间结构的文学概念，用来表达历史经验与未来想象在当下不断纠缠的非线性时间感"
 type: concept
 domain: "educational-philosophy"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,7 +22,8 @@ related_concepts:
 related_theories:
   - "[[Transitology]]"
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Alfred Nobel]]"
 related_facts:
   - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
@@ -31,13 +32,13 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-08'
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 ## 定义
 
 > [!info] 定义
-> Vergegenkunft 是德国诺贝尔文学奖得主 Günther Grass 自创的文学原则——将 Vergangenheit（过去）、Gegenwart（现在）和 Zukunft（未来）三个词融合为一个词——表达**过去、现在与未来并非线性排列，而是彼此纠缠、相互渗透**的时间观。
+> Vergegenkunft 是德国[[Alfred Nobel|诺贝尔]]文学奖得主 Günther Grass 自创的文学原则——将 Vergangenheit（过去）、Gegenwart（现在）和 Zukunft（未来）三个词融合为一个词——表达**过去、现在与未来并非线性排列，而是彼此纠缠、相互渗透**的时间观。
 >
 > [[Argument_Amos_2022_Springer\|Amos (2022, p.56)]] 借用这个概念来说明 Cowen 在 [[Transitology]] 中的核心观察：教育转型中的过去、现在和未来比严格的线性时间顺序更为交织。你不能把"现在的市场化"和"过去的国家中心"截然分开，也不能[[Hypothesis\|假设]]"未来"会干净地取代"现在"。
 >

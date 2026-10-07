@@ -8,7 +8,7 @@ aliases:
 summary: "涵盖科学、技术、工程与数学四大学科的跨学科融合教育范式与国家战略，主张打破传统分科壁垒，依托真实情境问题解决、工程设计与探究实践培养综合创新与认识论素养；在教学论上面向指导式探究与直接讲授的时序整合，并尊重各子学科的特异性认识论规程。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -61,6 +61,7 @@ related_theories:
   - "[[Knowledge Integration]]"
 related_persons:
   - "[[Ton de Jong]]"
+  - "[[Alfred Nobel]]"
 related_facts:
   - "[[Web-based Inquiry Science Environment]]"
   - "[[PhET Interactive Simulations]]"
@@ -83,7 +84,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-06-05
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # STEM Education
@@ -220,7 +221,7 @@ updated: 2026-10-07
 > 由加州大学伯克利分校（玛西娅·琳恩领衔）研发的开源探究平台，严格遵循知识整合理论。学生在探究温室效应或板块构造时，首先调动生活前概念，随后在[[Computer Simulation|计算机模拟]]中操控[[Variable|变量]]参数，基于生成的折线图与同伴展开科学论辩与反思，显著提升跨学科因果理解（Linn et al., 2006）。
 
 > [!case] [[PhET Interactive Simulations|PhET]]：高交互微世界中的因果参数操纵
-> 诺贝尔奖得主卡尔·威曼（Carl Wieman）领衔开发的仿真微世界，涵盖电路、量子力学、分子运动等百余个主题。学生通过实时操纵不可见的物理量，在直观可视化的反馈中打破前概念迷思，实证确证其在概念迁移与[[Scientific Attitude|科学态度]]上的显著增益（Wieman et al., 2008; [[Argument_DeJong_2023_ERR|De Jong et al., 2023]]）。
+> [[Alfred Nobel|诺贝尔]]奖得主卡尔·威曼（Carl Wieman）领衔开发的仿真微世界，涵盖电路、量子力学、分子运动等百余个主题。学生通过实时操纵不可见的物理量，在直观可视化的反馈中打破前概念迷思，实证确证其在概念迁移与[[Scientific Attitude|科学态度]]上的显著增益（Wieman et al., 2008; [[Argument_DeJong_2023_ERR|De Jong et al., 2023]]）。
 
 ---
 

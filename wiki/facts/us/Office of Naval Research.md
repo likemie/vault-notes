@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -34,6 +34,7 @@ related_theories:
   - "[[Social Contract of Science]]"
 related_persons:
   - "[[Peter Woods]]"
+  - "[[Alfred Nobel]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Office of Scientific Research and Development]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Office of Naval Research
@@ -111,7 +112,7 @@ updated: 2026-10-07
 ## 影响与体系成效
 
 > [!indicators]- 体系成效指标
-> - **科学突破密度** 资助学者中累计诞生 60 余位诺贝尔奖得主，开创了激光、核磁共振、现代超级计算与全球海洋学等核心学科领域。
+> - **科学突破密度** 资助学者中累计诞生 60 余位[[Alfred Nobel|诺贝尔]]奖得主，开创了激光、核磁共振、现代超级计算与全球海洋学等核心学科领域。
 > - **去中心化资助模式确立** 证明了多元、并行、非排他性的军种科研资助体制能够有效避免技术路线锁定。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 171–174)]]
 
 > [!finding-cards] 关键成效与历史辐射

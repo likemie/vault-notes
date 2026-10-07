@@ -11,7 +11,7 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
   - quality-assurance
 related_concepts:
   - "[[Data Infrastructure]]"
+  - "[[Total War]]"
   - "[[Commensuration]]"
   - "[[Academic Achievement]]"
   - "[[Bildung]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-27
+updated: 2026-10-08
 ---
 
 # Gesamtstrategie zum Bildungsmonitoring
@@ -89,7 +90,7 @@ updated: 2026-09-27
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 《国家教育监测总体战略》（Gesamtstrategie zum Bildungsmonitoring）制度化确立了由国际大型测评、国家标准达标检验、全域[[Vergleichsarbeiten\|校际比较测试]]与国家统一教育报告组成的四大实证支柱体系，打破传统输入规范主义，构建起兼顾联邦文化主权与全国质量[[Commensuration\|通约]]的循证监测基础设施。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 484–485)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–145)]]
+> 《国家教育监测[[Total War|总体战]]略》（Gesamtstrategie zum Bildungsmonitoring）制度化确立了由国际大型测评、国家标准达标检验、全域[[Vergleichsarbeiten\|校际比较测试]]与国家统一教育报告组成的四大实证支柱体系，打破传统输入规范主义，构建起兼顾联邦文化主权与全国质量[[Commensuration\|通约]]的循证监测基础设施。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 484–485)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–145)]]
 
 > [!policy-design] 政策设计与四大支柱
 > - **支柱一：定期参与国际大型[[Academic Achievement\|学业成就]]评估** 系统化参与 [[OECD]] 主导的 [[PISA]] 以及[[IEA\|国际教育成就评价协会]]（International Association for the Evaluation of Educational Achievement, IEA）主导的[[TIMSS\|国际数学与科学趋势研究]]（Trends in International Mathematics and Science Study, TIMSS）与[[PIRLS\|国际阅读素养进展研究]]（Progress in International Reading Literacy Study, PIRLS）；由设于慕尼黑工业大学的[[Zentrum für internationale Bildungsvergleichsstudien\|德国国际教育比较研究中心]]（Centre for International Student Assessment, ZIB）统一统筹执行国内抽样扩样与技术实施，为国家改革提供宏观国际参照。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 484, 488)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–141)]]
@@ -112,7 +113,7 @@ updated: 2026-09-27
 > [!dev-timeline] 推进与修订历程
 > - **2001–2002 — 应急响应与七大行动领域** [[PISA]] 2000 震荡后，[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 迅速确立学前语言促进、基础读写与数理能力、移民群体靶向支持等七大优先行动领域，并决议扩充 PISA 德国样本至 4 万人以上以支持跨州横向比对。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 488, 491)]]
 > - **2004 — 创设国家质量中枢 [[Institute for Educational Quality Improvement\|IQB]]** 各州在柏林洪堡大学联合创设教育质量发展研究所（IQB），确立国家教育标准研发与命题校准的专业学术实体与国家[[Center of Calculation\|计算中心]]。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, p. 140)]]
-> - **2006 — 正式通过总体战略决议** KMK 全会全票通过《国家教育监测总体战略》，四大支柱全面法定化，各州相继完成配套立法。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, p. 484)]]
+> - **2006 — 正式通过[[Total War|总体战]]略决议** KMK 全会全票通过《国家教育监测总体战略》，四大支柱全面法定化，各州相继完成配套立法。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, p. 484)]]
 > - **2010 — 联合创设国际比较研究中心 [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]]** KMK 协同 [[Federal Ministry of Education and Research\|BMBF]] 在慕尼黑工业大学创设 ZIB（联合 [[Leibniz Institute for Educational Research and Educational Information\|DIPF]] 与 IPN），将国际测评的实施常设化与专业化。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, p. 141)]]
 > - **2015 — 总体战略升级修订与[[Knowledge Transfer|知识转移]]赋权** [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 表决通过修订版战略，不仅将数字素养、全日制学校扩展、幼小初高衔接贯通以及持续追踪机制正式纳入总体监测体系（[[Argument_Hartong_2018_GSE|(Hartong, 2018, p. 139)]]），更专门增设“为教育政策与教育实践提供更多应用导向知识”章节，法定要求对改革实施过程进行科学追踪以总结成效条件，确保治理相关知识切实服务于整个教育系统与各单体学校的内涵发展，并正式将各州立研训与质量机构（[[German State Educational Institutes and Quality Agencies|Landesinstitute]]）确立为知识转移的核心法定行动者。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 10)]]
 
@@ -121,7 +122,7 @@ updated: 2026-09-27
 ## 实施情况与治理机制
 
 > [!actor-grid] 实施协同矩阵
-> - **顶层决策与政治监督（[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] & [[Federal Ministry of Education and Research|BMBF]]）** 制定总体战略规程，控制预算拨款，保障测试周期与教育标准的全国一致性。
+> - **顶层决策与政治监督（[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] & [[Federal Ministry of Education and Research|BMBF]]）** 制定[[Total War|总体战]]略规程，控制预算拨款，保障测试周期与教育标准的全国一致性。
 > - **国家计算中枢（[[Institute for Educational Quality Improvement|IQB]] & [[Zentrum für internationale Bildungsvergleichsstudien|ZIB]]）** IQB 负责研制国家标准题库、统筹 [[Vergleichsarbeiten|VERA]] 并运营 FDZ 数据库；ZIB 负责统筹 [[PISA]] 施测与跨国指标对接。
 > - **综合报告与信息枢纽（[[Leibniz Institute for Educational Research and Educational Information|DIPF]]）** 牵头跨机构专家联合体定期编撰《德国教育报告》，运营 DIPF-Kompass 信息系统与 TBA 测验技术。
 > - **中层中介与知识转化（各州立研训与质量机构）** 承担总体战略 2015 年增设的应用导向[[Knowledge Transfer|知识转移]]法定职能，面向基层教师开展研究证据[[Transfer Translation Transformation|转译]]、学校改进咨询与职后研训支持。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 10)]]
@@ -144,7 +145,7 @@ updated: 2026-09-27
 > [!debates] 政策争议交锋
 >
 > > [!axis] 监测数据向教学改进转化的机制困境与成效缺失（Monitoring [[Feedback]] Deficit & Mangelnde Effekte）
-> > 探讨总体战略建立的庞大[[Data Infrastructure|数据基础设施]]与单体学校微观改进之间的断裂。
+> > 探讨[[Total War|总体战]]略建立的庞大[[Data Infrastructure|数据基础设施]]与单体学校微观改进之间的断裂。
 > >
 > > - **成效缺失困境** 总体战略虽然构建了涵盖国际、州际与校际的宏观数据网络，但实证检验表明，将外部测评数据单纯回传至单体学校在促进教学改进与提升[[Academic Achievement|学业表现]]上面临普遍的“成效缺失”（mangelnde Effekte auf Einzelschulebene；Demski, 2017；Manitius & van Holt, 2019, p. 9）。自上而下的数据供给预设未能自动转化为微观学校内涵发展，重现了经典的理论与实践脱节困境。
 > > - **制度中介[[Transfer Translation Transformation|转译]]倒逼** 这一治理挫折倒逼 [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 在 2015 年修订案中紧急增设[[Knowledge Transfer|知识转移]]专章，将各州立研训与质量机构（[[German State Educational Institutes and Quality Agencies\|Landesinstitute]]）确立为法定转化中介，促发学界将教育科学构建为[[Transfer Science|转移科学]]以解剖中层界面的学术转向（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, pp. 10–12]]）。
@@ -166,7 +167,7 @@ updated: 2026-09-27
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Standing Conference of the Ministers of Education and Cultural Affairs]] | Fact (Organization) | 总体战略的制定、通过与监督实施的最高宪制性政府间协调机构。 |
+> | [[Standing Conference of the Ministers of Education and Cultural Affairs]] | Fact (Organization) | [[Total War\|总体战]]略的制定、通过与监督实施的最高宪制性政府间协调机构。 |
 > | [[Institute for Educational Quality Improvement]] | Fact (Organization) | 总体战略下创设的国家教育标准与题库研发中枢，运营第二与第三支柱。 |
 > | [[Zentrum für internationale Bildungsvergleichsstudien]] | Fact (Organization) | 总体战略下创设的国际比较学术联合体，统筹执行第一支柱 [[PISA]] 测验。 |
 > | [[Leibniz Institute for Educational Research and Educational Information]] | Fact (Organization) | 总体战略第四支柱牵头方，主导编制两年度《德国教育报告》。 |

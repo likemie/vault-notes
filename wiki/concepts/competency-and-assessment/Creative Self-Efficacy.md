@@ -10,7 +10,7 @@ aliases:
 summary: "个体对其产生创造性想法、解决复杂不良结构问题以及实现创新成果的能力所持有的主观信心与自我效能信念；是连接创造潜能向显性创造表现转化的核心外认知动力中介。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -71,6 +71,7 @@ related_instruments:
   - "[[Problem Solving Inventory]]"
 related_persons:
   - "[[Albert Bandura]]"
+  - "[[Peter Thiel]]"
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_Guo_2025_TSC]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-03
+updated: 2026-10-08
 ---
 
 # Creative Self-Efficacy
@@ -222,7 +223,7 @@ updated: 2026-10-03
 
 > [!dev-timeline] [[Creativity\|创造性]][[Self-Efficacy\|自我效能感]]理论与测评演进
 > - **1977–1997 年　[[Albert Bandura\|班杜拉]]自我效能理论奠基** 班杜拉（Bandura, 1977, 1997）提出自我效能核心理论，确立掌握经验、替代经验、社会说服与生理调控四大效能信息源，指出效能信念在面临高不确定性与开放挑战中的核心动力功能。
-> - **2002 年　组织心理学正式界定 CSE [[Construct\|构念]]** 蒂尔尼与法默（Tierney & Farmer, 2002）在《管理学会学报》（AMJ）发表奠基性论文，首次正式提出创造性自我效能感（Creative Self-Efficacy）构念并开发 6 题经典自陈量表。
+> - **2002 年　组织心理学正式界定 CSE [[Construct\|构念]]** [[Peter Thiel|蒂尔]]尼与法默（Tierney & Farmer, 2002）在《管理学会学报》（AMJ）发表奠基性论文，首次正式提出创造性自我效能感（Creative Self-Efficacy）构念并开发 6 题经典自陈量表。
 > - **2013–2018 年　教育心理学拓展与一阶[[Meta-analysis\|元分析]]验证** 卡尔沃夫斯基等（Karwowski et al., 2013）开发简式创造性自我量表（SSCS）；哈瑟等（Haase et al., 2018）完成首项 CSE 元分析（$k = 34, N = 12,058$），确立其对客观成果的稳健预测力（$r = 0.39$）。
 > - **2019 年　高校[[Creativity Training\|创造力训练]]与认知神经交互探索** 迈内尔等（Meinel et al., 2019）在高校开展实验，揭示设计思维训练对 CSE 的积极塑造，并证实测验焦虑与神经[[Executive Function\|执行功能]]在效能感传导中的调节机制。
 > - **2025–2026 年　大规模元分析确立干预增益与方法学调节** [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] [[Three-Level Meta-Analysis\|多层元分析]]揭示认知训练优于情绪训练、独立练习深思优于松散协作的干预机制；[[Argument_Park_2026_TSC\|Park et al. (2026)]] 量化了主观效能测量中的 [[Common Method Variance\|CMV]] 偏倚；[[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] [[Meta-meta-analysis\|二阶元分析]]确立全域外认知效应基准（$r = 0.14$）。

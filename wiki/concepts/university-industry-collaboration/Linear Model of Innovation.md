@@ -6,7 +6,7 @@ aliases:
 summary: "一种预设从基础科学到技术开发再到经济增长单向因果链的概念模型；战后主导科技政策资源配置，后因忽视反馈机制、轻视工程发明的前提使能地位以及导致本土制造脱节而遭受系统性批判。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -52,6 +52,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
+  - "[[Alfred Nobel]]"
   - "[[Richard Nelson]]"
   - "[[Donald Stokes]]"
 related_facts:
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Linear Model of Innovation
@@ -131,7 +132,7 @@ updated: 2026-10-07
 > **市场与设计的牵引主导性** 创新极少直接发端于前沿基础科学研究，绝大多数技术突破源于工业企业对市场需求的感知以及工程师的试错性重新设计；科学知识在此过程中仅作为既有知识库被检索调用。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 863)]]
 
 > [!claim] Narayanamurti, V. et al.
-> **工程发明作为前沿科学的前提载体** 物理学与信息技术半个世纪的六项诺贝尔物理学奖谱系表明，重大基础科学发现必须以先前的工程技术发明（如半导体异质结、超纯晶体生长工艺、高真空仪器）为物理实验平台；线性因果预设完全颠倒了技术赋能科学的历史事实。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 33–35)]]
+> **工程发明作为前沿科学的前提载体** 物理学与信息技术半个世纪的六项[[Alfred Nobel|诺贝尔]]物理学奖谱系表明，重大基础科学发现必须以先前的工程技术发明（如半导体异质结、超纯晶体生长工艺、高真空仪器）为物理实验平台；线性因果预设完全颠倒了技术赋能科学的历史事实。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 33–35)]]
 
 ---
 
@@ -222,6 +223,6 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 以私人基础研究崛起、诺贝尔奖级用启发性工作（蛋白质折叠与超导量子）以及高校单 PI 模式滞后为据，系统论证线性管道作为预算[[Hypothesis|假设]]已经失真，提出重组联邦资助并锚定本土制造。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 以私人基础研究崛起、[[Alfred Nobel|诺贝尔]]奖级用启发性工作（蛋白质折叠与超导量子）以及高校单 PI 模式滞后为据，系统论证线性管道作为预算[[Hypothesis|假设]]已经失真，提出重组联邦资助并锚定本土制造。
 > - [[Argument_Caraca_2009_TFSC|Caraça et al., 2009]] — 梳理科学在创新过程中角色的历史演进，批判线性模型引发的大学商业化偏向，提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 深入批判线性模型深层的文化偏见，以六届诺贝尔物理学奖演进谱系证明工程发明对基础科学的反向催生，宣告线性创新模型的终结。

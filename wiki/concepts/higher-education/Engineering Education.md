@@ -8,10 +8,10 @@ aliases:
 summary: "旨在培养学生在真实物理、经济与社会多重约束下运用科学与数学原理进行系统设计、优化集成与原型迭代能力的专门教育范式；涵盖从基础科学认识论实践向跨学科动手实践、车间排障技艺、系统工程与产学协同攻关的范式演进。"
 type: concept
 domain: "higher-education"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/higher-education
   - theme/curriculum-instruction
@@ -53,6 +53,7 @@ related_instruments: []
 related_persons:
   - "[[Nam Pyo Suh]]"
   - "[[Erich Bloch]]"
+  - "[[Alfred Nobel]]"
   - "[[Michael Kratsios]]"
 related_facts:
   - "[[Engineering Research Centers]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Engineering Education
@@ -181,7 +182,7 @@ updated: 2026-10-07
 > 探讨在人工智能大幅降低理论建模与代码编写门槛的背景下，工程教育为何必须回归实体制造与动手排障技艺。
 
 > [!claim] Kratsios, M.
-> **手艺重振与排障直觉论** 白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）2026 年战略报告指出，长期让渡实体制造导致工程教育培育出大量擅长数学抽象却无法维护实验仪器的毕业生。如同 2017 年诺贝尔物理学奖得主赖纳·魏斯（Rainer Weiss）依托机械加工与电路[[Assemblage|组装]]即兴技艺亲手建造激光干涉引力波天文台（LIGO）原型机一样，最尖端的科技突破深植于无法被文字[[Coding in Qualitative Research|编码]]的默会[[Process Knowledge|过程知识]]与排障手感之中。工程教育必须将车间操作、现场[[Apprenticeship|学徒制]]与产业攻坚正式内嵌于课程与学位考核，通过工业博士奖学金、国家实验室[[Practitioner-in-Residence|驻校实践者项目]]及社区学院[[Community College Strategic Anchoring|区域技能枢纽]]，全面重构工程教育的动手底座。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53)]]
+> **手艺重振与排障直觉论** 白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）2026 年战略报告指出，长期让渡实体制造导致工程教育培育出大量擅长数学抽象却无法维护实验仪器的毕业生。如同 2017 年[[Alfred Nobel|诺贝尔]]物理学奖得主赖纳·魏斯（Rainer Weiss）依托机械加工与电路[[Assemblage|组装]]即兴技艺亲手建造激光干涉引力波天文台（LIGO）原型机一样，最尖端的科技突破深植于无法被文字[[Coding in Qualitative Research|编码]]的默会[[Process Knowledge|过程知识]]与排障手感之中。工程教育必须将车间操作、现场[[Apprenticeship|学徒制]]与产业攻坚正式内嵌于课程与学位考核，通过工业博士奖学金、国家实验室[[Practitioner-in-Residence|驻校实践者项目]]及社区学院[[Community College Strategic Anchoring|区域技能枢纽]]，全面重构工程教育的动手底座。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53)]]
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 98
+related_count: 99
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Scholiocentric Approach]]"
   - "[[Enlightenment]]"
   - "[[Reference Society]]"
+  - "[[Hard Power]]"
   - "[[Mediatised Governance]]"
   - "[[Performance Pay]]"
   - "[[Policy Avoidance]]"
@@ -334,7 +335,7 @@ updated: 2026-10-07
 > **情境的不可移植性** 教育体系并非可随时装卸的机械装置，而是民族生活的活体器官。由于教育体制与其深层社会历史、宗教文化网络深度共生，跨国移植外部教育时必须保持高度情境警觉：任何脱离其原有情境的工具性借用都会因情境不兼容而触及本土系统的自发性防护机制，遭遇本土利益相关者的防御性抵抗，引发制度排异并导致改革流产或回归传统。（[[Argument_Amos_2022_Springer|Sadler, 1900, 引自 Amos, 2022, pp. 53–54]]）
 
 > [!claim] [[Eleftherios Klerides|Klerides, E.]]
-> **生存与地缘焦虑的驱动** 在国际自助竞争和主权无政府状态下，国家出于地缘竞争、工业落后恐慌或生存焦虑（如 19 世纪普法竞争、德美工业竞争、明治维新的黑船冲击、冷战[[Sputnik Shock 1957|人造卫星冲击]]等），会将地缘位阶更高的强国体制建构为“[[Reference Society|参考社会]]”（Reference Societies），试图将其教育经验视为保障主权安全、赶超地缘对手并提升硬实力的工具性资本进行借用。（[[Argument_Klerides_2023_CE|Klerides, 2023, p. 420]]）
+> **生存与地缘焦虑的驱动** 在国际自助竞争和主权无政府状态下，国家出于地缘竞争、工业落后恐慌或生存焦虑（如 19 世纪普法竞争、德美工业竞争、明治维新的黑船冲击、冷战[[Sputnik Shock 1957|人造卫星冲击]]等），会将地缘位阶更高的强国体制建构为“[[Reference Society|参考社会]]”（Reference Societies），试图将其教育经验视为保障主权安全、赶超地缘对手并提升[[Hard Power|硬实力]]的工具性资本进行借用。（[[Argument_Klerides_2023_CE|Klerides, 2023, p. 420]]）
 
 ---
 

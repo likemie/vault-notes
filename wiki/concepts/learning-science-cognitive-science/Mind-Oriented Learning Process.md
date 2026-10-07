@@ -8,10 +8,10 @@ aliases:
 summary: "Li (2012) 识别的西方文化学习过程模型，以心智发展为焦点，包含主动参与，探索与探究，思考与批判性思维，自我表达与沟通四个支柱"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - region/western
   - theme/learning-process
@@ -38,6 +38,7 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[John Dewey]]"
+  - "[[Alfred Nobel]]"
   - "[[Socrates]]"
 related_facts: []
 related_arguments:
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-09-24
+updated: 2026-10-08
 ---
 
 # Mind-Oriented Learning Process
@@ -113,7 +114,7 @@ updated: 2026-09-24
 - 参加科学展览会（science fairs），需要自选[[Research Topic|研究主题]]，独立完成完整的探究过程
 - 英语和社会课上也强调探究而非记忆——如采访大萧条或二战亲历者并撰写研究报告
 
-**诺贝尔奖得主的童年探究([[Argument_Li_2012_Cambridge|Li, 2012, pp.115-116]])**
+**[[Alfred Nobel|诺贝尔]]奖得主的童年探究([[Argument_Li_2012_Cambridge|Li, 2012, pp.115-116]])**
 - 2006 年物理学奖得主 George Smoot 回忆：儿时夜行发现月亮"跟着"汽车走，父母解释角度原理后，他"更震撼的是认识到世界可以通过简单的理性评估来理解"
 - 2005 年物理学奖得主 Roy Glauber 四岁时坚持认为收音机里藏着人，七岁时试图"抓住"电流而被保险丝烧断事件震惊——"我从未克服那种惊奇，即如此安静地穿过纤细导线的东西竟能如此猛烈地行动"
 

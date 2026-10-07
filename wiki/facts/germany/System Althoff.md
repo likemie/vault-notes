@@ -5,7 +5,7 @@ subtype: institution
 region: germany
 fact_region: "germany"
 fact_kind: "institution"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#e5e7eb"
@@ -27,6 +27,7 @@ related_concepts:
 related_theories:
   - "[[Three Generations of Mission-Oriented Policy]]"
 related_persons:
+  - "[[Alfred Nobel]]"
   - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"
 related_facts:
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-08
 title: System Althoff
 aliases:
   - 阿尔托夫体制
@@ -81,7 +82,7 @@ aliases:
 > | **学科组织灵活性** | 恪守传统四大学院边界，新兴[[Comparative Education as a Cross-Sectional Area\|交叉学科]]设立滞后。 | 国家主动划拨专项预算设立前沿交叉研究所与现代实验室。 |
 
 > [!dimension] 理论意义与实践影响
-> - **奠定德国世界科学中心地位** 阿尔托夫体制极大地激发了 19 世纪末至 20 世纪初德国学术界的原创活力，培育出一大批诺贝尔奖得主，使德国在第一次世界大战前成为全球有机化学、现代物理学与医学研究的无可争议的世界中心。（p. 793）
+> - **奠定德国世界科学中心地位** 阿尔托夫体制极大地激发了 19 世纪末至 20 世纪初德国学术界的原创活力，培育出一大批[[Alfred Nobel|诺贝尔]]奖得主，使德国在第一次世界大战前成为全球有机化学、现代物理学与医学研究的无可争议的世界中心。（p. 793）
 > - **使命导向政策第一代（骆驼形态）原型** [[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）将阿尔托夫体制确立为第一代使命政策的代表[[Paradigm|范式]]——论证了后发国家在面临追赶任务时，如何依托韦伯式功绩制高级文官网络与自上而下的体制重塑，构建起引领国家科技腾飞的[[Public Dynamic Capabilities|公共部门动态能力]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–793)]]
 
 ---

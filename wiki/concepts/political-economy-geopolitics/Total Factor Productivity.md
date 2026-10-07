@@ -9,7 +9,7 @@ aliases:
 summary: "衡量产出增长中扣除资本与劳动等要素投入贡献后的剩余部分，反映技术进步、组织效率与知识积累的综合生产率指标；在增长核算中作为索洛残差度量技术差距，在现代产业与演化经济学中，先进制造业被视为全社会全要素生产率增长与技术外溢的核心引擎，现代产业战略旨在通过重振先进制造扭转长期生产率增长放缓。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 26
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Creative Destruction]]"
   - "[[Hypothesis]]"
+  - "[[Big Idea Famine]]"
   - "[[National Competitive Advantage]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -46,6 +47,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Jack Douglas]]"
+  - "[[Robert J. Gordon]]"
 related_facts:
   - "[[International Reading Association]]"
   - "[[CHIPS and Science Act]]"
@@ -53,11 +55,12 @@ related_arguments:
   - "[[Argument_Glitz_2020_AER]]"
   - "[[Argument_Reynolds_2024_JICT]]"
   - "[[Argument_Bogliacino_Pianta_2016_EP]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04]]"
 related_instruments: []
 confidence: high
 status: active
 created: 2026-06-26
-updated: 2026-10-06
+updated: 2026-10-08
 ---
 
 # Total Factor Productivity
@@ -229,6 +232,7 @@ updated: 2026-10-06
 > | 经济部门与指标维度 | 研发与创新贡献份额 | 对全要素生产率（TFP）的传导机制 | 政策影响与演化后果 | 来源 |
 > |:---|:---|:---|:---|:---|
 > | 美国制造业部门整体 | 占全美企业研发支出 >55%，产出绝大部分商业专利 | 高度依赖车间工艺改进与[[Learning by Doing\|干中学]]良率爬坡，产生广泛技术外溢 | 去工业化削弱创新链条，[[Modern Industrial Policy\|现代产业政策]]（CHIPS/[[International Reading Association\|IRA]]）旨在重筑供给侧生产率基石 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 1–3, 14–15)]] |
+> | 美国跨世纪 TFP 增长变迁（1900–2014） | 1920–1970 黄金期 TFP 年均复合增速达 2.0% 以上，1970 年后大幅降至约 0.5% | 1970 年后第三次工业革命局限于信息娱乐通信领域，未能扭转全要素生产率长期放缓 | 揭示科技资本过度沉溺于浅层消费软件、放弃重大物理工程导致的[[Big Idea Famine\|大构想饥荒]] | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04\|(Gordon, 2016; Karp & Zamiska, 2025, pp. 48–49)]] |
 > | 冷战时期东德重点制造业 | 依靠外来科技情报（工业间谍）推动制程改造 | 关键部门情报流入显著缩小行业对数 TFP 差距达数个百分点 | 证明后发经济体能够依托外部工艺[[Technology Transfer\|技术转移]]加速 TFP 收敛 | [[Argument_Glitz_2020_AER\|(Glitz & Meyersson, 2020, pp. 1075–1078)]] |
 > | 欧洲多国制造与服务业微观企业 | 科学驱动型与专业供应商型产业具备最高 TFP 增速 | 企业间 TFP 差距达 2–9 倍，[[Heterogeneity\|异质性]]贯穿整个经济周期 | 证实创新模式与[[Technological Trajectories\|技术轨迹]]对企业生产率分化的决定性作用 | [[Argument_Bogliacino_Pianta_2016_EP\|(Bogliacino & Pianta, 2016, pp. 153–156)]] |
 
@@ -242,10 +246,12 @@ updated: 2026-10-06
 > |:---|:---|:---|
 > | [[Learning by Doing]] | 概念 | 制造业生产实践中工人与工程师积累的经验，是驱动 TFP 持续提升的核心微观机制。 |
 > | [[Modern Industrial Policy]] | 概念 | 旨在通过重振先进制造与关键技术研发、从供给侧激活国家长期 TFP 增长的产业战略。 |
+> | [[Big Idea Famine]] | 概念 | 科技资本与顶尖智力向浅层消费软件倾斜是导致 1970 年代后全要素生产率放缓的微观机理。 |
 > | [[National Competitive Advantage]] | 概念 | 全要素生产率是决定一国产业与技术体系长期国际竞争优势的根本内生指标。 |
 > | [[Technological Catch-up]] | 概念 | 后发国家通过技术溢出与工艺内生化缩小与先发国 TFP 差距的动态过程。 |
 > | [[Evolutionary Economics]] | 理论 | 将 TFP [[Heterogeneity\|异质性]]视作经济演化选择本体、打破新古典代表性企业[[Hypothesis\|假设]]的理论体系。 |
 > | [[CHIPS and Science Act]] | 事实 | 通过巨额直接资金投资先进半导体制造、力图重振全美前沿 TFP 与研发活力的标志性立法。 |
+> | [[Robert J. Gordon]] | 人物 | 提出 1970 年代以来全要素生产率增长断崖式下滑与技术创新狭窄化实证论断的经济学家。 |
 
 ---
 
@@ -254,4 +260,5 @@ updated: 2026-10-06
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Glitz_2020_AER|Glitz & Meyersson (2020)]] — 利用两德行业 TFP 差距变化评估工业间谍与[[Technology Transfer|技术转移]]的生产率效应，系统展示了非市场环境下校准 TFP 的方法论与实证发现。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 阐述先进制造业在全社会研发创新与全要素生产率增长中的战略支柱地位，揭示美国[[Modern Industrial Policy|现代产业政策]]重塑供给侧生产率动能的核心逻辑。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引[[Robert J. Gordon|罗伯特·J. 戈登]]的百年 TFP 增长实证序列，批判当代硅谷向浅层消费与广告算法退缩造成的[[Big Idea Famine|科技野心衰退]]与生产率长期停滞。
 > - [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta (2016)]] — 基于跨国微观数据证实企业全要素生产率与创新强度的微观[[Heterogeneity|异质性]]，构建基于 Pavitt 产业分类的动态[[Analytic Framework|分析框架]]。

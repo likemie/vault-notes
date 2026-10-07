@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 158
+argument_related_count: 160
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -178,6 +178,7 @@ related_persons:
   - "[[Plato]]"
   - "[[Immanuel Kant]]"
   - "[[Socrates]]"
+  - "[[Noam Chomsky]]"
   - "[[René Descartes]]"
   - "[[George Berkeley]]"
   - "[[Jean-Jacques Rousseau]]"
@@ -185,6 +186,7 @@ related_persons:
   - "[[Zhu Xi]]"
   - "[[Wang Yangming]]"
   - "[[Catherine Lewis]]"
+  - "[[Alfred Nobel]]"
   - "[[Zhuangzi]]"
 related_arguments: []
 sources:
@@ -568,7 +570,7 @@ Li 将西方知识传统分解为四个主题，每个主题不是孤立罗列�
 > [!abstract] 核心命题
 > 人类的**理智（intellect）**——后来在心理学中称为"心智"（mind）、最近在神经科学中称为"大脑回路"——是负责认识的官能。它是人类"遵循逻辑、比较对照、分析、概括——简言之，保持理性"的能力所在(p.37)。
 
-> [!info] 先天论立场：从[[Socrates\|苏格拉底]]到乔姆斯基
+> [!info] 先天论立场：从[[Socrates\|苏格拉底]]到[[Noam Chomsky|乔姆斯基]]
 > Li 梳理了这一立场的完整谱系(pp.37-39)：
 > 
 > **苏格拉底** 人类知识不是学来的，而是**回忆**起来的——心灵天生拥有知识。他通过引导一个奴隶男孩得出几何结论来"证明"这一点：男孩一开始对几何一无所知，但在苏格拉底的逐问引导下，自己说出了正确的结论(p.37)。
@@ -1782,7 +1784,7 @@ Li 在第 2 章已经把探究确立为西方学习传统的核心（追溯到�
 > [!info] 探究的制度化
 > 探究不仅是个体行为，在西方已被深度嵌入教育制度(pp.114-115)：
 > - PBS 的 *NOVA*、*Dragonfly TV*、*Design Squad* 等电视节目鼓励儿童提出问题、给出解释
-> - 诺贝尔博物馆（斯德哥尔摩）保存了每位诺贝尔奖得主的自传——大多数都详细描述了他们的探究起源。这些自传本身就在传递一个信息：**伟大的成就始于童年的一个问题**
+> - [[Alfred Nobel|诺贝尔]]博物馆（斯德哥尔摩）保存了每位诺贝尔奖得主的自传——大多数都详细描述了他们的探究起源。这些自传本身就在传递一个信息：**伟大的成就始于童年的一个问题**
 > - 学校的英语和社会科课程明确要求学生"调查和分析话题"——例如，"老师可能要求学生研究埃及金字塔是如何建造的"——而不是简单记忆"金字塔是古埃及法老的陵墓"。两者都是学习关于金字塔的知识，但前者要求学习者**重新走一遍发现的过程**，后者只要求记住结论
 
 **活动 3：思考与批判性思维（Thinking and Critical Thinking）**

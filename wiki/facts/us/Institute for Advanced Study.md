@@ -11,9 +11,9 @@ subtype: organization
 region: "us"
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 6
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: "research-institute"
 headquarters: "Princeton, New Jersey, United States"
@@ -32,7 +32,9 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[J. Robert Oppenheimer]]"
+  - "[[Alfred Nobel]]"
 related_facts:
   - "[[Cold Spring Harbor Laboratory]]"
 related_arguments:
@@ -40,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Institute for Advanced Study
@@ -64,7 +66,7 @@ updated: 2026-10-07
 
 > [!dev-timeline] 组织发展历程
 > - **1930–1945 — 欧洲大师庇护所与理论物理黄金期** 延揽因欧洲政局动荡外迁的阿尔伯特·爱因斯坦（Albert Einstein）、库尔特·哥德尔（Kurt Gödel）、埃米·诺特（Emmy Noether）与约翰·冯·诺伊曼（John von Neumann），奠定世界理论科学中心地位。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 21)]]
-> - **1947–1966 — 奥本海默治下与战后学科扩张** 罗伯特·奥本海默（J. Robert Oppenheimer）出任院长，设立电子计算机项目并创设计算机体系结构基础，扩展自然科学、历史学与社会科学学部。
+> - **1947–1966 — [[J. Robert Oppenheimer|奥本海默]]治下与战后学科扩张** 罗伯特·奥本海默（J. Robert Oppenheimer）出任院长，设立电子计算机项目并创设计算机体系结构基础，扩展自然科学、历史学与社会科学学部。
 > - **1970s–至今 — 全球顶尖学者访问网络** 维持精干的常任教授队伍（约 30 人），每年从全球选拔数百名杰出青年博士后与资深访问学者开展无约束探索。
 
 ---
@@ -89,7 +91,7 @@ updated: 2026-10-07
 ## 影响与体系成效
 
 > [!finding-cards] 关键成效与辐射影响
-> - **诺贝尔奖与菲尔兹奖摇篮** 历史上常任教授与访问学者中诞生了 35 位诺贝尔奖得主与 44 位菲尔兹奖得主。
+> - **[[Alfred Nobel|诺贝尔]]奖与菲尔兹奖摇篮** 历史上常任教授与访问学者中诞生了 35 位诺贝尔奖得主与 44 位菲尔兹奖得主。
 > - **机构组织[[Demonstration Effect|示范效应]]** 证明在传统大学教学与科研双重任务之外，设立纯粹理论研究机构对突破学科现有[[Paradigm|范式]]具有不可替代的价值。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 21)]]
 
 ---

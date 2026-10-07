@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_persons:
 related_facts:
   - "[[Department of Energy]]"
   - "[[National Science Foundation]]"
+  - "[[Manhattan Project]]"
   - "[[Apollo Program]]"
   - "[[Human Genome Project]]"
   - "[[Transformational AI Models Consortium]]"
@@ -69,7 +70,7 @@ updated: 2026-10-07
 > [!program-context] 机构背景
 > - **立项时间 / 周期规划** 2025 年 11 月由总统行政令正式签署启动，设定了跨度为十年的国家科研生产率跃升窗口。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 62)]]
 > - **发起主体与公共科研底盘** 能源部主导统筹 17 个国家实验室网络（汇聚约 4 万名科学家、工程师与技术专家，年均科研预算约 200 亿美元），并协同食品药品监督管理局（FDA）、国家科学基金会（[[National Science Foundation|NSF]]）、国家海洋和大气管理局（NOAA）与退伍军人事务部（VA）等联邦机构。
-> - **历史定位与[[Paradigm|范式]]差异** 计划被置于曼哈顿计划、[[Apollo Program|阿波罗计划]]与[[Human Genome Project|人类基因组计划]]的[[Big Science|大科学]]国家动员传统中；其根本性范式演进在于：当代最强的前沿 AI 模型与算力大量由私营产业实验室主导，联邦政府的核心增量职能不再是盲目复制商业算力集群，而是发挥**战略问题甄选**与**公共数据/实验装置调度**的独特职能。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 63)]]
+> - **历史定位与[[Paradigm|范式]]差异** 计划被置于[[Manhattan Project|曼哈顿计划]]、[[Apollo Program|阿波罗计划]]与[[Human Genome Project|人类基因组计划]]的[[Big Science|大科学]]国家动员传统中；其根本性范式演进在于：当代最强的前沿 AI 模型与算力大量由私营产业实验室主导，联邦政府的核心增量职能不再是盲目复制商业算力集群，而是发挥**战略问题甄选**与**公共数据/实验装置调度**的独特职能。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 63)]]
 
 ---
 

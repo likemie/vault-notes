@@ -8,7 +8,7 @@ summary: "美籍印裔应用物理学家与科技政策学者，哈佛大学工�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Case Study]]"
 related_instruments: []
 related_persons:
+  - "[[Alfred Nobel]]"
   - "[[Vannevar Bush]]"
   - "[[Donald Stokes]]"
 related_facts:
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Venkatesh Narayanamurti
@@ -135,7 +136,7 @@ updated: 2026-10-07
 > - **高等教育组织变革** 在哈佛大学主导推动工学院自文理学院独立设院，构建打破物理学、计算机科学与工程学传统院系藩篱的矩阵式跨学科科研与教学体系。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统梳理纳拉亚纳穆尔提等人在 2013 年提出的批判基础/应用二分法、阐述六项诺贝尔物理学奖双向演化谱系并确立[[Long-Term Public Utility|长期公共效用]]资助准绳的核心论据。
+> - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统梳理纳拉亚纳穆尔提等人在 2013 年提出的批判基础/应用二分法、阐述六项[[Alfred Nobel|诺贝尔]]物理学奖双向演化谱系并确立[[Long-Term Public Utility|长期公共效用]]资助准绳的核心论据。
 > - [[Argument_Logar_2014_Minerva|Logar et al., 2014]] — 纳拉亚纳穆尔提与合作者通过对[[Semiconductor Research Corporation|半导体研究公司]]（SRC）的深度[[Case Study|案例研究]]，提炼[[University-Industry Collaboration|产学合作]]与公私研发联合体在连接基础探索与应用需求中的三项组织有效性机制，并探讨向国家能源创新机构迁移的适用边界。
 
 ---

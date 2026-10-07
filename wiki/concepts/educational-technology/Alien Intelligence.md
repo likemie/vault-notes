@@ -8,7 +8,7 @@ aliases:
 summary: "由 Braun & Meacham (2024) 提出并由 Smith (2026) 引入教育哲学的非拟人化技术本体论概念，指具备强大模式识别与符号输出能力但缺乏人类具身生活经验、情感共鸣与伦理关怀的非人类认知实体；在读写教学中作为打破算法权威、防范成长性认识不正义并引导批判性反思审问的核心教学防御防线。"
 type: concept
 domain: "educational-technology"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Epistemic Agency]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Teaching Assistant]]"
+  - "[[Artificial General Intelligence]]"
   - "[[Paradigm]]"
   - "[[Feedback]]"
   - "[[Cognitive Deskilling]]"
@@ -69,7 +70,7 @@ updated: 2026-10-07
 > [!boundary]- 概念边界
 > - 不等于 [[Generative Artificial Intelligence|生成式人工智能]] — 后者是从工程与计算机科学角度描述的模型架构，而异己智能是从批判哲学与人机关系论角度对该技术认知特性的定性。
 > - 不等于数字导师（Digital Tutor） — 导师隐喻赋予算法以教育学上的教育者权威与育人善意，而异己智能彻底剥离其权威光环，界定为缺乏人类经验的审问客体。
-> - 不适用于通用人工智能（AGI）意识探讨 — 异己智能关注的是当下大语言模型由于缺乏具身生活而造成的认知局限，而非讨论机器是否可能发展出自我意识。
+> - 不适用于[[Artificial General Intelligence|通用人工智能]]（AGI）意识探讨 — 异己智能关注的是当下大语言模型由于缺乏具身生活而造成的认知局限，而非讨论机器是否可能发展出自我意识。
 
 ---
 

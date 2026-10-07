@@ -10,10 +10,10 @@ summary: "美国著名产业经济学家，哥伦比亚大学与科罗拉多矿�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1942"
 died: ""
 lifespan: "1942–至今"
@@ -38,6 +38,7 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Peter Thiel]]"
   - "[[Jerome E. Schnee]]"
   - "[[David C. Mowery]]"
 related_facts:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # John E. Tilton
@@ -83,7 +84,7 @@ updated: 2026-10-07
 ## 核心思想
 
 > [!claim] 核心学术思想
-> 约翰·E·蒂尔顿（John E. Tilton）的核心洞见在于：传统大企业往往深陷成熟技术[[Paradigm|范式]]的资产与组织锁定（如老牌电子管巨头通用电气、RCA 与雷神迟缓对待晶体管革新）；战后美国联邦国防采购之所以能取得巨大成功，关键在于采购官员坚持根据严格的技术性能指标公开招标并强制要求第二货源（[[Second-Sourcing]]），而不是依据企业的历史声誉或规模发包，从而为高灵活性的新创企业（如德州仪器、[[Fairchild Semiconductor|仙童半导体]]）提供了至关重要的初始市场订单，最终彻底打破了既有寡头垄断，孕育出具有全球[[Competitiveness|竞争力]]的[[Innovation Ecosystem|创新生态]]。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 8)]]
+> 约翰·E·[[Peter Thiel|蒂尔]]顿（John E. Tilton）的核心洞见在于：传统大企业往往深陷成熟技术[[Paradigm|范式]]的资产与组织锁定（如老牌电子管巨头通用电气、RCA 与雷神迟缓对待晶体管革新）；战后美国联邦国防采购之所以能取得巨大成功，关键在于采购官员坚持根据严格的技术性能指标公开招标并强制要求第二货源（[[Second-Sourcing]]），而不是依据企业的历史声誉或规模发包，从而为高灵活性的新创企业（如德州仪器、[[Fairchild Semiconductor|仙童半导体]]）提供了至关重要的初始市场订单，最终彻底打破了既有寡头垄断，孕育出具有全球[[Competitiveness|竞争力]]的[[Innovation Ecosystem|创新生态]]。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 8)]]
 
 > [!citation-card] 蒂尔顿论国防采购对打破寡头垄断与扶植新创企业的实证结论
 > 蒂尔顿（Tilton, 1971）在[[Brookings Institution|布鲁金斯学会]]专著中总结指出，政府采购对半导体产业最突出的贡献在于扶持了新创企业：
@@ -97,7 +98,7 @@ updated: 2026-10-07
 ## 影响路径与学术贡献
 
 > [!influence-path] 影响路径
-> - **产业经济学与科技政策奠基** 蒂尔顿的布鲁金斯专著直接为[[Jerome E. Schnee|杰罗姆·E·施尼]]（[[Jerome E. Schnee]], 1978）、[[David C. Mowery|大卫·C·莫厄里]]（[[David C. Mowery]], 2011）等学者的实证研究提供了核心历史数据与分析模型。
+> - **产业经济学与科技政策奠基** [[Peter Thiel|蒂尔]]顿的布鲁金斯专著直接为[[Jerome E. Schnee|杰罗姆·E·施尼]]（[[Jerome E. Schnee]], 1978）、[[David C. Mowery|大卫·C·莫厄里]]（[[David C. Mowery]], 2011）等学者的实证研究提供了核心历史数据与分析模型。
 > - **[[Demand-side Innovation Policy|需求侧创新政策]]实证支柱** 蒂尔顿证明了政府采购具有重塑市场竞争结构的动态效能，成为当代[[Demand-side Innovation Policy|需求侧创新政策]]与[[Market Shaping and Creating|市场塑造]][[Paradigm|范式]]的重要思想源头。
 
 ---
@@ -109,7 +110,7 @@ updated: 2026-10-07
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Brookings Institution]] | Fact | 蒂尔顿在此完成并出版其半导体技术扩散里程碑专著（1971）的权威智库。 |
-> | [[Assured Demand]] | Concept | 蒂尔顿专著深入量化分析的政府采购托底核心机制。 |
+> | [[Assured Demand]] | Concept | [[Peter Thiel\|蒂尔]]顿专著深入量化分析的政府采购托底核心机制。 |
 > | [[Market Shaping and Creating]] | Concept | 蒂尔顿所揭示的政府采购扶植新创企业、重塑产业竞争结构的核心政策[[Paradigm\|范式]]。 |
 > | [[Demand-side Innovation Policy]] | Concept | 蒂尔顿关于国防采购重构市场格局所支撑的上位政策体系。 |
 > | [[Jerome E. Schnee]] | Person | 在 1978 年《Research Policy》论文中系统继承并深化蒂尔顿半导体统计数据的学者。 |

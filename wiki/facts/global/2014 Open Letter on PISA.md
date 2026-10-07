@@ -13,7 +13,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -43,6 +43,7 @@ related_instruments: []
 related_persons:
   - "[[Andreas Schleicher]]"
   - "[[Stephen Ball]]"
+  - "[[Noam Chomsky]]"
   - "[[Terry Wrigley]]"
   - "[[Paul Morris]]"
   - "[[Yong Zhao]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 # 2014 Open Letter on PISA
@@ -74,7 +75,7 @@ updated: 2026-09-18
 
 > [!event-context] 事件背景
 > - **时间节点 / 传播阵地** 2014 年 5 月 6 日首发于英国主流严肃大报《卫报》（*The Guardian*），随后迅速被全球数十家主流媒体转载并在国际比较教育学界引发广泛震荡。
-> - **核心当事主体** 发起方为全球知名比较教育学家、教育社会学家与哲学家群体（代表人物包括 [[Stephen Ball]]、David Berliner、Noam Chomsky、[[Terry Wrigley]]、[[Paul Morris]]、[[Yong Zhao\|赵勇]]（Yong Zhao）、Svein Sjøberg、Peter Moss、Mathias Urban、Colin Lankshear 等）；直接受质询方为 OECD 教育与技能司总监安德烈亚斯·施莱歇尔（Andreas Schleicher）。
+> - **核心当事主体** 发起方为全球知名比较教育学家、教育社会学家与哲学家群体（代表人物包括 [[Stephen Ball]]、David Berliner、[[Noam Chomsky]]、[[Terry Wrigley]]、[[Paul Morris]]、[[Yong Zhao\|赵勇]]（Yong Zhao）、Svein Sjøberg、Peter Moss、Mathias Urban、Colin Lankshear 等）；直接受质询方为 OECD 教育与技能司总监安德烈亚斯·施莱歇尔（Andreas Schleicher）。
 > - **深层制度与社会背景** 2013 年底 [[PISA]] 2012 评估结果公布后，各国政客与媒体借由[[Media Logic\|媒介逻辑]]大肆渲染“排列表落后危机”，将教育简化为冷酷的[[Human Capital Theory\|人力资本]]军备竞赛；与此同时，OECD 进一步加速测评工具的市场化扩张，与跨国营利性出版巨头（培生集团 Pearson）展开深度技术与商业合作，引发学界对全球公共教育被商业资本与非民选官僚机构俘获的深度恐慌。
 > - **直接导火索 / 触发事件** PISA 2012 结果发布后引发的全球性政策狂热与短期功利主义应试修补，以及 OECD 筹备推行更具侵入性的新衍生产品（如针对幼儿阶段的 [[Baby PISA]] 与校级 PISA）。
 

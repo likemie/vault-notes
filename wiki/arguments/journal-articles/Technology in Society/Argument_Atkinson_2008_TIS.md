@@ -49,6 +49,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
+  - "[[Franklin D. Roosevelt]]"
+  - "[[Alfred Nobel]]"
   - "[[Richard C. Atkinson]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
@@ -92,7 +94,7 @@ title: "Argument_Atkinson_2008_TIS"
 argument_key: "Argument_Atkinson_2008_TIS"
 argument_display_title: "Research universities: Core of the US science and technology system"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 57
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -230,7 +232,7 @@ issuing_organization: ""
 
 #### 1. 战时科研动员打破了联邦政府不资助大学的传统禁忌
 
-1940 年 6 月罗斯福总统设立国家国防研究委员会（National Defense Research Committee, NDRC），并在 1941 年升格为[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（[[Office of Scientific Research and Development|OSRD]]），由万尼瓦尔·布什领衔，哈佛[[Grandes Ecoles|大学校]]长科南特、麻省理工学院（Massachusetts Institute of Technology, MIT）校长康普顿及贝尔实验室总裁朱厄特协同执掌。（pp.34–35）
+1940 年 6 月[[Franklin D. Roosevelt|罗斯福总统]]设立国家国防研究委员会（National Defense Research Committee, NDRC），并在 1941 年升格为[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（[[Office of Scientific Research and Development|OSRD]]），由万尼瓦尔·布什领衔，哈佛[[Grandes Ecoles|大学校]]长科南特、麻省理工学院（Massachusetts Institute of Technology, MIT）校长康普顿及贝尔实验室总裁朱厄特协同执掌。（pp.34–35）
 
 > [!proc] 战时科研动员向常态科研体系转化的机制推进
 > 1. **开创联邦政府与大学科研合同资助机制** [[Office of Scientific Research and Development|OSRD]] 改变了以往政府自建实验室的旧规，直接与大学签订研发合同，设立MIT [[MIT Radiation Laboratory|辐射实验室]]（Rad Lab，雷达攻关）与芝加哥大学冶金实验室（原子核链式反应），加利福尼亚大学伯克利分校主持洛斯阿拉莫斯实验室研发原子弹。（pp.34–35）
@@ -285,7 +287,7 @@ issuing_organization: ""
 这一组织生态所释放的生产力，在战后国际顶尖学术产出与世界大学学术指标中得到了直观体现。（pp.37, 42）
 
 > [!evidence-grid] 美国研究型大学全球卓越学术声誉的实证表征
-> - **诺贝尔物理学奖主导地位** 1950 至 1975 年间美国学者包揽了 26 项诺贝尔物理学奖中的绝大多数，彻底扭转了战前依赖欧洲基础理论的依附局面。（p.37）
+> - **[[Alfred Nobel|诺贝尔]]物理学奖主导地位** 1950 至 1975 年间美国学者包揽了 26 项诺贝尔物理学奖中的绝大多数，彻底扭转了战前依赖欧洲基础理论的依附局面。（p.37）
 > - **全球顶尖高校排名的压倒性垄断** 2005 年上海交通大学[[Academic Ranking of World Universities|世界大学学术排名]]（ARWU）中，全球前 20 强大学美国独占 17 席（仅英国剑桥第 2、牛津第 10 与日本东京大学第 20 名列其中），全球前 50 强中美国占据 37 席。（p.42）
 
 #### 2. 跨国制度移植受阻：西欧、东亚四国案例比较

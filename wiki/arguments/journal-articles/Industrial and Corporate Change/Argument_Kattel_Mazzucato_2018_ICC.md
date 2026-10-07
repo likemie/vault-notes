@@ -82,6 +82,7 @@ related_facts:
   - "[[Government Digital Service]]"
   - "[[Lund Declaration 2009]]"
   - "[[OECD]]"
+  - "[[Manhattan Project]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Horizon Europe]]"
   - "[[Achieve]]"
@@ -98,7 +99,7 @@ title: "Argument_Kattel_Mazzucato_2018_ICC"
 argument_key: "Argument_Kattel_Mazzucato_2018_ICC"
 argument_display_title: "Mission-oriented innovation policy and dynamic capabilities in the public sector"
 argument_kind: "journal-article"
-argument_related_count: 61
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -226,7 +227,7 @@ issuing_organization: ""
 >   - **治理特征** 依托韦伯式精英功绩制文官官僚，结合持续的组织构架重塑与高级文官网络，奠定现代科研型大学、中央银行及社会保险制度。（p. 793）
 > - **第二代（1940s–1960s）：冷战大科学的技术攻坚使命（狮子形态）**
 >   - **核心动因** 依托国家安全需求与军备竞赛，部署[[Big Science|大科学]]集中攻坚突破性物理与工程技术。
->   - **典型机构与案例** 美国曼哈顿工程、阿波罗登月、橡树岭国家实验室（[[Alvin Weinberg|阿尔文·温伯格]]领导）与[[DARPA|美国国防高级研究计划局]]（DARPA）。
+>   - **典型机构与案例** 美国[[Manhattan Project|曼哈顿工程]]、阿波罗登月、橡树岭国家实验室（[[Alvin Weinberg|阿尔文·温伯格]]领导）与[[DARPA|美国国防高级研究计划局]]（DARPA）。
 >   - **治理特征** 垂直集权的单一国家实验室、极具主权雄心的政客与权威型科技主管；虽创造巨大技术外溢，但对城市衰败等复杂社会问题缺乏响应力，且因欧洲共同体内部规划风格割裂与 NPM 成本紧缩而走向衰落。（pp. 794–795）
 > - **第三代（21 世纪至今）：重大社会挑战的社会–技术使命（儿童形态）**
 >   - **核心动因** 聚焦气候危机、老龄化照护与[[UN Sustainable Development Goals|可持续发展目标]]等非纯技术性的跨界[[Wicked Problem|棘手问题]]（Wicked Problems）。（p. 795）

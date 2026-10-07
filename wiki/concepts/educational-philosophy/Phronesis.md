@@ -9,7 +9,7 @@ aliases:
 summary: "源自亚里士多德实践哲学的核心认识论概念；指在特定道德、教育与工程情境中，个体超越机械规则与算法推演，权衡复杂变量并做出适切行动决断的实践智慧，涵盖课程审议、教师临床判断与产线实验排障手感。"
 type: concept
 domain: "educational-philosophy"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -50,6 +50,7 @@ related_instruments: []
 related_persons:
   - "[[Aristotle]]"
   - "[[Gert Biesta]]"
+  - "[[Alfred Nobel]]"
   - "[[Bob Darwish]]"
   - "[[Stephen Kemmis]]"
   - "[[Michael Kratsios]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Phronesis（实践明智 / 实践智慧）
@@ -157,7 +158,7 @@ updated: 2026-10-07
 > 探讨尖端实验科学与高端制造领域中，实践智慧如何作为默会过程知识的核心载体驱动重大技术突破。
 
 > [!claim] Kratsios, M.
-> **现场排障与手艺实践智慧论** 白宫科技政策办公室 2026 年战略报告指出，技术能力不仅包含图纸与设备硬件，更深植于熟练机械师与资深工程师世代传承的实践智慧（Phronesis）。2017 年诺贝尔物理学奖得主赖纳·魏斯（Rainer Weiss）正是凭借青年时期积累的机械加工、电路[[Assemblage|组装]]与现场调优实践智慧，才得以亲手建造出探测引力波的激光干涉引力波天文台（LIGO）原型机。这种非[[Coding in Qualitative Research|编码]]的实践智慧构成了国家创新公地与[[Engineering Education|工程教育]]的底层支柱。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51, 56)]]
+> **现场排障与手艺实践智慧论** 白宫科技政策办公室 2026 年战略报告指出，技术能力不仅包含图纸与设备硬件，更深植于熟练机械师与资深工程师世代传承的实践智慧（Phronesis）。2017 年[[Alfred Nobel|诺贝尔]]物理学奖得主赖纳·魏斯（Rainer Weiss）正是凭借青年时期积累的机械加工、电路[[Assemblage|组装]]与现场调优实践智慧，才得以亲手建造出探测引力波的激光干涉引力波天文台（LIGO）原型机。这种非[[Coding in Qualitative Research|编码]]的实践智慧构成了国家创新公地与[[Engineering Education|工程教育]]的底层支柱。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51, 56)]]
 
 ---
 

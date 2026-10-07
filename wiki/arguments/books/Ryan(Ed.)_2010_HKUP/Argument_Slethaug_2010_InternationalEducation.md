@@ -9,7 +9,7 @@ title: "Argument_Slethaug_2010_InternationalEducation"
 argument_key: "Argument_Slethaug_2010_InternationalEducation"
 argument_display_title: "Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner"
 argument_kind: "book"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -37,7 +37,8 @@ related_concepts:
   - "[[Operationalization]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Alfred Nobel]]"
 related_facts:
   - "[[OECD]]"
   - "[[UNESCO]]"
@@ -118,7 +119,7 @@ Slethaug 接着论证：如果说 PISA 是比较中小学生，那么[[Global Un
 但 2003 年上海交通大学的 [[Academic Ranking of World Universities|ARWU]] 改变了游戏规则：排名变成了全球性的。Slethaug 的关键洞见是：**不同排名机构的结果差异极大，说明"排名"根本不是客观测量，而是取决于你选择什么指标、赋予什么权重。**
 
 > 例（Slethaug 自己举的最精彩的例子）：香港大学（HKU）在 2007 年同一年内的排名——
-> - ARWU（偏研究产出、诺贝尔奖）：**未进入前 300 名**
+> - ARWU（偏研究产出、[[Alfred Nobel|诺贝尔]]奖）：**未进入前 300 名**
 > - Webometrics（偏网络可见度）：**第 156 名**
 > - THES-QS（偏同行声誉调查）：**第 24 名**
 > - "网络流行度"排名（只算网站点击量）：**第 8 名**

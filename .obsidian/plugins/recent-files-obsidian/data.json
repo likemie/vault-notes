@@ -1,24 +1,168 @@
 {
   "recentFiles": [
     {
+      "basename": "Long Peace",
+      "path": "wiki/concepts/political-economy-geopolitics/Long Peace.md"
+    },
+    {
+      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch04",
+      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch04.md"
+    },
+    {
+      "basename": "Perpetual Peace",
+      "path": "wiki/concepts/comparative-education/Perpetual Peace.md"
+    },
+    {
+      "basename": "Grand Theory",
+      "path": "wiki/concepts/sociology-of-education/Grand Theory.md"
+    },
+    {
+      "basename": "Argument_Bozeman_2004_JTT",
+      "path": "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Bozeman_2004_JTT.md"
+    },
+    {
+      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch03",
+      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch03.md"
+    },
+    {
+      "basename": "Paulo Freire",
+      "path": "wiki/persons/brazil/Paulo Freire.md"
+    },
+    {
+      "basename": "Vannevar Bush",
+      "path": "wiki/persons/us/Vannevar Bush.md"
+    },
+    {
+      "basename": "J. Robert Oppenheimer",
+      "path": "wiki/persons/us/J. Robert Oppenheimer.md"
+    },
+    {
+      "basename": "Generative Artificial Intelligence",
+      "path": "wiki/concepts/educational-technology/Generative Artificial Intelligence.md"
+    },
+    {
+      "basename": "Josep Borrell",
+      "path": "wiki/persons/spain/Josep Borrell.md"
+    },
+    {
+      "basename": "Peter Thiel",
+      "path": "wiki/persons/us/Peter Thiel.md"
+    },
+    {
+      "basename": "Bonsai Army",
+      "path": "wiki/concepts/political-economy-geopolitics/Bonsai Army.md"
+    },
+    {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch01.md"
+    },
+    {
+      "basename": "Manhattan Project",
+      "path": "wiki/facts/us/Manhattan Project.md"
+    },
+    {
+      "basename": "Strategic Bargaining Theory",
+      "path": "wiki/theories/political-economy-geopolitics/Strategic Bargaining Theory.md"
     },
     {
       "basename": "Argument_Karp_Zamiska_2025_Technological_Republic",
       "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md"
     },
     {
+      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch02",
+      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch02.md"
+    },
+    {
+      "basename": "End of History Thesis",
+      "path": "wiki/theories/political-economy-geopolitics/End of History Thesis.md"
+    },
+    {
+      "basename": "Soft Power",
+      "path": "wiki/concepts/political-economy-geopolitics/Soft Power.md"
+    },
+    {
       "basename": "Research Translation",
       "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
     },
     {
-      "basename": "Public Value",
-      "path": "wiki/concepts/science-policy/Public Value.md"
+      "basename": "Emergence",
+      "path": "wiki/concepts/educational-philosophy/Emergence.md"
+    },
+    {
+      "basename": "Pragmatic Paradigm",
+      "path": "wiki/concepts/educational-philosophy/Pragmatic Paradigm.md"
+    },
+    {
+      "basename": "Engineering Pragmatism",
+      "path": "wiki/concepts/political-economy-geopolitics/Engineering Pragmatism.md"
+    },
+    {
+      "basename": "Percy Williams Bridgman",
+      "path": "wiki/persons/us/Percy Williams Bridgman.md"
+    },
+    {
+      "basename": "Sébastien Bubeck",
+      "path": "wiki/persons/france/Sébastien Bubeck.md"
+    },
+    {
+      "basename": "Other Transaction Authority",
+      "path": "wiki/concepts/science-policy/Other Transaction Authority.md"
+    },
+    {
+      "basename": "Herbert A. Simon",
+      "path": "wiki/persons/us/Herbert A. Simon.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md"
+    },
+    {
+      "basename": "Innovation Desert",
+      "path": "wiki/concepts/science-policy/Innovation Desert.md"
+    },
+    {
+      "basename": "Science, The Endless Frontier 1945",
+      "path": "wiki/facts/us/Science, The Endless Frontier 1945.md"
+    },
+    {
+      "basename": "DARPA",
+      "path": "wiki/facts/us/DARPA.md"
     },
     {
       "basename": "Intellectual Capital",
       "path": "wiki/concepts/political-economy-geopolitics/Intellectual Capital.md"
+    },
+    {
+      "basename": "Nicholas Zamiska",
+      "path": "wiki/persons/us/Nicholas Zamiska.md"
+    },
+    {
+      "basename": "Alexander Karp",
+      "path": "wiki/persons/us/Alexander Karp.md"
+    },
+    {
+      "basename": "Technological Republic",
+      "path": "wiki/concepts/political-economy-geopolitics/Technological Republic.md"
+    },
+    {
+      "basename": "Jürgen Habermas",
+      "path": "wiki/persons/germany/Jürgen Habermas.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
+    },
+    {
+      "basename": "Argument_Stephan_2013_NBER",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
+    },
+    {
+      "basename": "Fairchild Semiconductor",
+      "path": "wiki/facts/us/Fairchild Semiconductor.md"
+    },
+    {
+      "basename": "Public Value",
+      "path": "wiki/concepts/science-policy/Public Value.md"
     },
     {
       "basename": "National Aeronautics and Space Administration",
@@ -33,16 +177,8 @@
       "path": "wiki/concepts/university-industry-collaboration/Star Scientists.md"
     },
     {
-      "basename": "Science, The Endless Frontier 1945",
-      "path": "wiki/facts/us/Science, The Endless Frontier 1945.md"
-    },
-    {
       "basename": "Organizational Culture",
       "path": "wiki/theories/sociology-of-education/Organizational Culture.md"
-    },
-    {
-      "basename": "Jürgen Habermas",
-      "path": "wiki/persons/germany/Jürgen Habermas.md"
     },
     {
       "basename": "Man-Computer Symbiosis",
@@ -53,152 +189,16 @@
       "path": "wiki/persons/us/J. C. R. Licklider.md"
     },
     {
-      "basename": "Fairchild Semiconductor",
-      "path": "wiki/facts/us/Fairchild Semiconductor.md"
-    },
-    {
       "basename": "Office of Scientific Research and Development",
       "path": "wiki/facts/us/Office of Scientific Research and Development.md"
-    },
-    {
-      "basename": "Vannevar Bush",
-      "path": "wiki/persons/us/Vannevar Bush.md"
-    },
-    {
-      "basename": "Technological Republic",
-      "path": "wiki/concepts/political-economy-geopolitics/Technological Republic.md"
-    },
-    {
-      "basename": "Innovation Desert",
-      "path": "wiki/concepts/science-policy/Innovation Desert.md"
     },
     {
       "basename": "International Schools",
       "path": "wiki/concepts/comparative-education/International Schools.md"
     },
     {
-      "basename": "Argument_Bozeman_2004_JTT",
-      "path": "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Bozeman_2004_JTT.md"
-    },
-    {
       "basename": "Argument_Kratsios_2026_OSTP",
       "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
-    },
-    {
-      "basename": "Focused Research Organization",
-      "path": "wiki/concepts/science-policy/Focused Research Organization.md"
-    },
-    {
-      "basename": "Fast Grants",
-      "path": "wiki/facts/us/Fast Grants.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md"
-    },
-    {
-      "basename": "Concept Mapping",
-      "path": "wiki/concepts/instruction-pedagogy/Concept Mapping.md"
-    },
-    {
-      "basename": "Diversity, Equity, and Inclusion",
-      "path": "wiki/concepts/educational-policy-reform/Diversity, Equity, and Inclusion.md"
-    },
-    {
-      "basename": "Cold Spring Harbor Laboratory",
-      "path": "wiki/facts/us/Cold Spring Harbor Laboratory.md"
-    },
-    {
-      "basename": "Literature Search",
-      "path": "wiki/concepts/research-methodology/Literature Search.md"
-    },
-    {
-      "basename": "21st Century Skills and Competencies Discourse",
-      "path": "wiki/concepts/educational-policy-reform/21st Century Skills and Competencies Discourse.md"
-    },
-    {
-      "basename": "Community College Strategic Anchoring",
-      "path": "wiki/concepts/higher-education/Community College Strategic Anchoring.md"
-    },
-    {
-      "basename": "Creativity",
-      "path": "wiki/concepts/competency-and-assessment/Creativity.md"
-    },
-    {
-      "basename": "Karp_Zamiska_2025_Technological_Republic",
-      "path": "books/Karp_Zamiska_2025_Technological_Republic/Karp_Zamiska_2025_Technological_Republic.md"
-    },
-    {
-      "basename": "Argument_Peterson_1987_OpenCourt_Ch08",
-      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch08.md"
-    },
-    {
-      "basename": "Argument_Peterson_1987_OpenCourt",
-      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt.md"
-    },
-    {
-      "basename": "Bob Leach",
-      "path": "wiki/persons/us/Bob Leach.md"
-    },
-    {
-      "basename": "Science A New Golden Age 2026",
-      "path": "wiki/facts/us/Science A New Golden Age 2026.md"
-    },
-    {
-      "basename": "Design-Based Research",
-      "path": "wiki/methods/mixed/Design-Based Research.md"
-    },
-    {
-      "basename": "Process Knowledge",
-      "path": "wiki/concepts/university-industry-collaboration/Process Knowledge.md"
-    },
-    {
-      "basename": "Kratsios_2026_OSTP",
-      "path": "sources/Kratsios_2026_OSTP/Kratsios_2026_OSTP.md"
-    },
-    {
-      "basename": "Linear Model of Innovation",
-      "path": "wiki/concepts/university-industry-collaboration/Linear Model of Innovation.md"
-    },
-    {
-      "basename": "Portfolio-Based Research Funding",
-      "path": "wiki/concepts/science-policy/Portfolio-Based Research Funding.md"
-    },
-    {
-      "basename": "Knowledge Production",
-      "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md"
-    },
-    {
-      "basename": "Falsification",
-      "path": "wiki/concepts/educational-philosophy/Falsification.md"
-    },
-    {
-      "basename": "Problem Solving",
-      "path": "wiki/concepts/competency-and-assessment/Problem Solving.md"
-    },
-    {
-      "basename": "Phronesis",
-      "path": "wiki/concepts/educational-philosophy/Phronesis.md"
-    },
-    {
-      "basename": "National Innovation System",
-      "path": "wiki/concepts/university-industry-collaboration/National Innovation System.md"
     }
   ],
   "omittedPaths": [],

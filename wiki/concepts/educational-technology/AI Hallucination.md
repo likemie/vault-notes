@@ -10,7 +10,7 @@ aliases:
 summary: "人工智能与教育技术学概念，指大语言模型等生成式系统输出看似连贯权威、语法高度流畅但实际上偏离客观事实、缺乏真实依据、虚构引用或逻辑自相矛盾的内容现象。"
 type: concept
 domain: "educational-technology"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Brainstorming]]"
   - "[[AI Literacy]]"
   - "[[Causal Processes]]"
+  - "[[Techno-Utopianism]]"
   - "[[Cognitive Offloading]]"
   - "[[Illusion of Competence]]"
   - "[[Self-Regulated Learning]]"
@@ -174,7 +175,7 @@ updated: 2026-10-07
 ### 命题一　AI 幻觉是自回归大语言模型概率生成机制的内在副产物而非偶发故障
 
 > [!concept-lens] 技术底层逻辑与[[Epistemology\|认识论]]局限
-> 解构大模型的运作本质，破除“AI 只是偶尔犯错、未来会很快彻底无错误”的技术乌托邦幻想。
+> 解构大模型的运作本质，破除“AI 只是偶尔犯错、未来会很快彻底无错误”的[[Techno-Utopianism|技术乌托邦]]幻想。
 
 > [!claim] Ji et al.; Li et al.
 > **概率生成的内在幻觉性** 大语言模型不是事实检索数据库，而是基于高维向量空间进行概率采样的“词语预测引擎”。模型为了维持文本的自然流畅与语义连贯，在遇到知识盲区时天然倾向于基于统计联想填补空白，因而生成幻觉并非外部偶发 bug，而是生成式模型赖以运行的内在计算特性。[[Argument_Li_2026_CEAI\|(Ji et al., 2023; Li et al., 2026, pp. 2, 10–11)]]

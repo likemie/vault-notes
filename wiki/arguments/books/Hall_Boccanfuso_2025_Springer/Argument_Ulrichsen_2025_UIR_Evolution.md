@@ -9,9 +9,9 @@ title: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_key: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_display_title: "Evolution of University-Industry Relationships for Driving Innovation"
 argument_kind: "book"
-argument_related_count: 43
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 citation: "Ulrichsen, T. C. (2025). Evolution of University-Industry Relationships for Driving Innovation. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 25–50). Cham: Springer."
@@ -62,9 +62,11 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Snowball Sampling]]"
-related_persons: []
+related_persons:
+  - "[[Alfred Nobel]]"
 related_facts:
   - "[[National Science Foundation]]"
+  - "[[Manhattan Project]]"
   - "[[MIT Radiation Laboratory]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Bell Labs]]"
@@ -149,7 +151,7 @@ Kline & Rosenberg(1986)对第三阶段的总结精辟地指出：创新过程"�
 
 Schot & Steinmueller(2018)与 Lindner et al.(2024)识别出三个政策[[Paradigm|范式]]，分别对应着国家对"创新应该怎么推动"的不同理解(pp.28–29)：
 
-**范式一：科学促增长（1940s–1980s）。** 二战期间曼哈顿计划和 MIT [[MIT Radiation Laboratory|辐射实验室]]等大规模研发项目向政策制定者展示了科学的巨大回报潜力。受此影响，战后政策以[[Linear Model of Innovation|线性创新模型]]为基础，大规模投资大学基础研究，[[Hypothesis|假设]]科学发现将自然转化为技术和产品。理论基础来自 Solow(1957)和 Arrow(1962)：知识具有公共品属性，私人市场会对其投资不足，因此政府必须弥补这一[[Market Failure|市场失灵]](pp.28–29)。
+**范式一：科学促增长（1940s–1980s）。** 二战期间[[Manhattan Project|曼哈顿计划]]和 MIT [[MIT Radiation Laboratory|辐射实验室]]等大规模研发项目向政策制定者展示了科学的巨大回报潜力。受此影响，战后政策以[[Linear Model of Innovation|线性创新模型]]为基础，大规模投资大学基础研究，[[Hypothesis|假设]]科学发现将自然转化为技术和产品。理论基础来自 Solow(1957)和 Arrow(1962)：知识具有公共品属性，私人市场会对其投资不足，因此政府必须弥补这一[[Market Failure|市场失灵]](pp.28–29)。
 
 > 然而这一范式存在根本性缺陷：1980 年之前，美国联邦政府资助的大学研究中产生了大量发明，但真正进入市场的极少。[[Bayh-Dole Act of 1980\|Bayh-Dole Act]] 立法前言直接点出："联邦资助研究中产生的发明几乎没有被商业化。"政府建了一个巨大的知识"水库"，但缺乏将水输送到需要之处的"管道"。
 
@@ -177,7 +179,7 @@ Schot & Steinmueller(2018)与 Lindner et al.(2024)识别出三个政策[[Paradig
 
 **变化三：谁在"做"创新——[[Knowledge Production|知识生产]]的组织结构也变了。** 二十世纪经历了一次大规模的"知识生产分工重组"(Arora et al., 2020)(pp.35–42)。
 
-二十世纪早期，大企业建立[[Corporate R&D Labs|中央研发实验室]]，从基础研究到产品开发实现内部一体化。AT&T [[Bell Labs|贝尔实验室]]（晶体管、激光、Unix）、Xerox PARC（图形用户界面、以太网）、IBM Research 的科研水平不亚于甚至超过顶尖大学，产出了多个诺贝尔奖(p.35)。企业实验室的黄金时代建立在一种信念之上：公司自主从事科学研究可以解锁新的商业机会。
+二十世纪早期，大企业建立[[Corporate R&D Labs|中央研发实验室]]，从基础研究到产品开发实现内部一体化。AT&T [[Bell Labs|贝尔实验室]]（晶体管、激光、Unix）、Xerox PARC（图形用户界面、以太网）、IBM Research 的科研水平不亚于甚至超过顶尖大学，产出了多个[[Alfred Nobel|诺贝尔]]奖(p.35)。企业实验室的黄金时代建立在一种信念之上：公司自主从事科学研究可以解锁新的商业机会。
 
 但到 1980 年代，在股东压力、全球竞争和技术复杂性上升的共同作用下，企业中央实验室开始衰落，研发从中央集中走向与产品部门挂钩，从内部封闭走向外部开放协作(Chesbrough, 2003; Laursen & Salter, 2006)(pp.36–37)。
 

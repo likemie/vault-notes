@@ -3,10 +3,10 @@ summary: "英国著名政治经济学家与制度比较学者，英国皇家国�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1917"
 died: "1981"
 lifespan: "1917–1981"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Public Dynamic Capabilities]]"
   - "[[Picking the Willing]]"
   - "[[Social Impact Investing]]"
+  - "[[Polymath]]"
 related_theories: []
 related_persons:
   - "[[Rainer Kattel]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-07
 title: Andrew Schonfield
 aliases:
   - Schonfield, A.
@@ -75,7 +76,7 @@ aliases:
 > |:---|:---|:---|:---|
 > | **法国（国家主导意向性规划）** | [[French Modernisation Commissions\|现代化委员会]]；公私圆桌协商；定向信贷分配。 | 巴黎综理理工与国家行政学院培养的高阶精英工程官僚。 | 成功实现钢铁、铁路、核能与航空工业的现代化跃升。 |
 > | **西德（秩序自由与银行协调网络）** | 全能银行主导的长周期资本配置；行业协会与[[Rainer Kattel\|卡特尔]]自律协调。 | 强调法律理性与稳健规制体系，注重基础研究与学徒技能。 | 奠定制造业深厚工程工艺与中小企业（Mittelstand）创新优势。 |
-> | **英国（短视行政与分散市场）** | 财政部短期紧缩主导；缺乏系统性产业协商平台。 | 通才型文官为主，缺乏工程与产业规划专业技能，易被产业俘获。 | 经济规划沦为短期口号，引发 1960–70 年代产业去工业化危机。 |
+> | **英国（短视行政与分散市场）** | 财政部短期紧缩主导；缺乏系统性产业协商平台。 | [[Polymath\|通才]]型文官为主，缺乏工程与产业规划专业技能，易被产业俘获。 | 经济规划沦为短期口号，引发 1960–70 年代产业去工业化危机。 |
 
 ---
 

@@ -59,6 +59,7 @@ related_persons:
   - "[[Tony Tether]]"
   - "[[Erica Fuchs]]"
   - "[[George Heilmeier]]"
+  - "[[Alfred Nobel]]"
   - "[[John W. Meyer]]"
 related_facts:
   - "[[DARPA]]"
@@ -83,7 +84,7 @@ title: "Argument_Fuchs_2010_RP"
 argument_key: "Argument_Fuchs_2010_RP"
 argument_display_title: "Rethinking the role of the state in technology development: DARPA and the case for embedded network governance"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -221,7 +222,7 @@ issuing_organization: ""
 > | **1990年代中期职位** | 桑迪亚国家实验室总裁兼主任 | 莱斯大学化学、物理与天文系教授 | 哈佛大学化学系教授 |
 > | **累计专利数** | 15 项 | > 90 项 | > 30 项 |
 > | **学术专著与论文数** | 宏观国防科研多项 | > 394 篇 | > 290 篇 |
-> | **学术声誉与荣誉** | 美国国家工程院院士、参谋长联席会议杰出公共服务奖章 | 1996 年诺贝尔化学奖得主（富勒烯发现者） | [[National Academy of Sciences\|美国国家科学院]]院士 |
+> | **学术声誉与荣誉** | 美国国家工程院院士、参谋长联席会议杰出公共服务奖章 | 1996 年[[Alfred Nobel\|诺贝尔]]化学奖得主（富勒烯发现者） | [[National Academy of Sciences\|美国国家科学院]]院士 |
 > | **此前是否存在合著或合作** | **无（None）** | **无（None）** | **无（None）** |
 
 > [!row-contrast] Table 4：DARPA 项目经理资助硅锗（SiGe）与应变硅技术的核心专家对比

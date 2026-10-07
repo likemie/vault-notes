@@ -7,7 +7,7 @@ summary: "德国比较教育学家与历史学家，波鸿鲁尔大学教育学�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -38,6 +38,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Peter Thiel]]"
   - "[[Wolfgang Mitter]]"
   - "[[Stanford School]]"
   - "[[Friedrich Schneider]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # Oskar Anweiler
@@ -124,7 +125,7 @@ updated: 2026-10-05
 > - **[[Disciplinary Institutionalization|学科建制]]定位** 在德语界牢固确立了比较教育在教育科学内部作为“[[Comparative Education as a Cross-Sectional Area|交叉领域]]”的合法性，直接塑造了德国教育学会（DGfE）将比较分会置于教育学母体二级建制的组织传统。
 > - **区域国别研究标杆** 开创了战后全欧苏联与东欧社会主义教育研究的波鸿学派，所收集的大量第一手东欧教育档案[[Document|文献]]在剧变后成为国际学界的宝贵遗产。
 > - **两德体制融合智库支撑** 1990 年出版的两德教育比较专著，在冷战结束与两德教育体制重组过程中发挥了至关重要的政策咨询与事实锚定功能。
-> - **后继学派[[Paradigm|范式]]转型承前启后** 安维勒的学术开拓为波鸿鲁尔大学后续学术演进提供了肥沃土壤，其继任者克里斯蒂尔·阿迪克（Christel Adick）在此基础上顺利完成了向全球化[[World-Systems Theory|世界体系理论]]的范式跃迁。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 93)]]
+> - **后继学派[[Paradigm|范式]]转型承前启后** 安维勒的学术开拓为波鸿鲁尔大学后续学术演进提供了肥沃土壤，其继任者克里斯[[Peter Thiel|蒂尔]]·阿迪克（Christel Adick）在此基础上顺利完成了向全球化[[World-Systems Theory|世界体系理论]]的范式跃迁。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 93)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 米特系统考察安维勒在波鸿鲁尔大学建立东欧比较教育重镇的史学意义，高度评价其关于比较教育依附于[[Allgemeine Pädagogik|普通教育学]]“交叉领域”定位的方法论贡献。
@@ -146,7 +147,7 @@ updated: 2026-10-05
 
 > [!person-network] 关系网络
 > - **学术同盟与德国学术领袖** [[Wolfgang Mitter]] — 战后西德比较教育学界的双子领袖，安维勒坐镇波鸿鲁尔大学，米特执掌法兰克福 [[Leibniz Institute for Educational Research and Educational Information|DIPF]]，共同开创东欧教育研究并维系 DGfE 比较分会建制。
-> - **学术继承者与[[Paradigm|范式]]推进者** 克里斯蒂尔·阿迪克（Christel Adick） — 安维勒在波鸿鲁尔大学教席的继任者，将安维勒的东欧极权体制剖析传统拓展为对全球化与[[Stanford School|斯坦福学派]][[World-Systems Theory|世界体系理论]]的研究。
+> - **学术继承者与[[Paradigm|范式]]推进者** 克里斯[[Peter Thiel|蒂尔]]·阿迪克（Christel Adick） — 安维勒在波鸿鲁尔大学教席的继任者，将安维勒的东欧极权体制剖析传统拓展为对全球化与[[Stanford School|斯坦福学派]][[World-Systems Theory|世界体系理论]]的研究。
 > - **精神源流先驱** [[Friedrich Schneider]]、[[Nicholas Hans]] — 承继德国[[Geisteswissenschaften|精神科学]]与历史学派传统，但在具体研究中摆脱了前代的形而上学玄思，走向扎实的制度[[Document|文献]]学考证。
 > - **机构阵地** 波鸿鲁尔大学（东欧教育研究中心主任）、德国教育学会（DGfE 比较分会奠基人）、[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE 骨干成员）。
 

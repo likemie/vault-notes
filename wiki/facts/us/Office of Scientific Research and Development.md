@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 21
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 联邦战时科技动员与研发协调机构
 headquarters: 美国华盛顿特区（Washington, D.C., USA）
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Technological Republic]]"
+  - "[[Total War]]"
   - "[[Research Universities]]"
   - "[[Grandes Ecoles]]"
   - "[[Pluralistic Federal Funding System]]"
@@ -35,8 +36,10 @@ related_concepts:
 related_theories:
   - "[[Pool of Knowledge]]"
 related_persons:
+  - "[[Franklin D. Roosevelt]]"
   - "[[Vannevar Bush]]"
 related_facts:
+  - "[[Manhattan Project]]"
   - "[[MIT Radiation Laboratory]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Institutes of Health]]"
@@ -51,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Office of Scientific Research and Development
@@ -64,8 +67,8 @@ updated: 2026-10-07
 > 科学研究与开发办公室（Office of Scientific Research and Development, OSRD）是第二次世界大战期间直接隶属于美国总统执行办公室的最高科技动员中枢。其核心法定职能在于统筹军民科技力量并直接对外订立武器装备与军事医学研发合同，从根本上打破了联邦政府不资助大学科研的战前传统，确立了国家安全需求与大学前沿探索紧密结盟的现代科研[[Paradigm|范式]]，成为战后美国[[Technological Republic|技术共和国]]政产学研协同体制的制度原型。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1941 年 6 月 28 日由富兰克林·罗斯福总统颁布行政命令正式设立，由[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）领衔；其前身为 1940 年 6 月成立的国家国防研究委员会（National Defense Research Committee, NDRC），旨在应对全面战争威胁下常规国防装备与军事医学的严峻挑战。
-> - **总部地点 / 业务辐射** 总部设于美国华盛顿特区，业务辐射全美主要顶尖[[Research Universities|研究型大学]]与私营工业研究实验室，深度主导了雷达、战时医学救治及曼哈顿计划核武研发的组织协调。
+> - **成立时间 / 创设背景** 1941 年 6 月 28 日由富兰克林·[[Franklin D. Roosevelt|罗斯福总统]]颁布行政命令正式设立，由[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）领衔；其前身为 1940 年 6 月成立的国家国防研究委员会（National Defense Research Committee, NDRC），旨在应对[[Total War|全面战争]]威胁下常规国防装备与军事医学的严峻挑战。
+> - **总部地点 / 业务辐射** 总部设于美国华盛顿特区，业务辐射全美主要顶尖[[Research Universities|研究型大学]]与私营工业研究实验室，深度主导了雷达、战时医学救治及[[Manhattan Project|曼哈顿计划]]核武研发的组织协调。
 > - **法人属性与经费基础** 隶属于总统执行办公室的联邦战时特设行政机构；由联邦战时特别预算全额拨款，享有高度独立且灵活的联邦研发合同签署与预算划拨权限。
 > - **核心宗旨与法定职责** 动员全美最优秀的科学家和工程师，将其智力资源迅速转化为服务盟军作战的先进军事技术与前沿医学解决方案；确保科学界在最大程度保持学术探索惯常环境的同时，全方位服务国家安全最高目标。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
 
@@ -75,7 +78,7 @@ updated: 2026-10-07
 
 > [!dev-timeline] 组织发展历程
 > - **1940–1941 — 战前动员雏形与 NDRC 奠基** 1940 年 6 月罗斯福设立国家国防研究委员会（NDRC），由[[Vannevar Bush|万尼瓦尔·布什]]领衔；在欧洲战事急剧恶化背景下，布什联合科学界领袖推动行政重组，以打破陆海军传统官僚机构对武器研发的垄断与迟钝反应。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 34)]]
-> - **1941–1944 — OSRD 正式升格与全方位战时攻关** 1941 年 6 月升格为 OSRD，布什出任主任，原 NDRC 改由哈佛[[Grandes Ecoles|大学校]]长科南特掌舵并作为武器研发核心下属部门，另一核心部门专司军事医学攻关；OSRD 拥有直接签订军用研发合同的法律授权，深度主导并设立[[MIT Radiation Laboratory|麻省理工学院辐射实验室]]（Rad Lab）攻坚微波雷达、芝加哥大学冶金实验室攻坚链式反应，并监管曼哈顿计划早期进程。1942年《科利尔》（*Collier's*）杂志向全美近三百万读者介绍布什及 OSRD 时，直称其为可能赢得战争的人，标志着科学家被置于国家生存与民主防卫的中枢。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
+> - **1941–1944 — OSRD 正式升格与全方位战时攻关** 1941 年 6 月升格为 OSRD，布什出任主任，原 NDRC 改由哈佛[[Grandes Ecoles|大学校]]长科南特掌舵并作为武器研发核心下属部门，另一核心部门专司军事医学攻关；OSRD 拥有直接签订军用研发合同的法律授权，深度主导并设立[[MIT Radiation Laboratory|麻省理工学院辐射实验室]]（Rad Lab）攻坚微波雷达、芝加哥大学冶金实验室攻坚链式反应，并监管[[Manhattan Project|曼哈顿计划]]早期进程。1942年《科利尔》（*Collier's*）杂志向全美近三百万读者介绍布什及 OSRD 时，直称其为可能赢得战争的人，标志着科学家被置于国家生存与民主防卫的中枢。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
 > - **1944–1947 — 和平转型筹划与体制制度化** 1944 年 11 月，罗斯福在华盛顿特区致信布什，要求制定战后方案，确保战时被剧烈打乱正常科研轨迹的物理学家和工程师能够将智力重新投向民用科学进步与和平时期的国家建设。1945 年布什呈递《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》报告；1947 年底 OSRD 撤销，其存续的在研医学合同被国立卫生研究院（[[National Institutes of Health|NIH]]）全盘接收，雷达与物理学合同被[[Office of Naval Research|海军研究办公室]]（ONR）等吸收，战时动员机制彻底制度化为和平时期的[[Pluralistic Federal Funding System|多元联邦资助体系]]。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
 
 ---
@@ -83,7 +86,7 @@ updated: 2026-10-07
 ## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
-> - **决策中枢（行政办公室与领导层）** 由主任[[Vannevar Bush|万尼瓦尔·布什]]统筹全盘，直接向富兰克林·罗斯福总统汇报，拥有极高行政调配权与总统政治互信。
+> - **决策中枢（行政办公室与领导层）** 由主任[[Vannevar Bush|万尼瓦尔·布什]]统筹全盘，直接向富兰克林·[[Franklin D. Roosevelt|罗斯福总统]]汇报，拥有极高行政调配权与总统政治互信。
 > - **核心科学统领阵营** 深度汇聚全美顶尖学术与工业研究领袖：哈佛[[Grandes Ecoles|大学校]]长詹姆斯·科南特（James B. Conant）、麻省理工学院校长卡尔·康普顿（Karl T. Compton）及[[Bell Labs|贝尔实验室]]总裁弗兰克·朱厄特（Frank B. Jewett）形成稳固的领导铁三角。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 34)]]
 > - **双核业务机构** 设立两大下属专业部门：一是科南特主持的武器研发部门（NDRC），二是专门设立的医学研究委员会（Committee on Medical Research, CMR），全面协调盘尼西林规模化提纯、疟疾防治与战伤救护。
 > - **大学与工业界网络** 不设庞大的自建官僚实验室，而是直接作为发包方，将研发任务通过合同精准分包至全美数十所大学实验室与工业研发中心。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
@@ -99,12 +102,12 @@ updated: 2026-10-07
 
 > [!finding-cards] 核心成果与战时攻关矩阵
 > - **MIT [[MIT Radiation Laboratory|辐射实验室]]与微波雷达** 设立麻省理工学院辐射实验室（Rad Lab），汇聚全美数百名顶尖物理学家，成功研制机载、舰载微波雷达系统并迅速列装盟军，在不列颠空战反潜与太平洋战场发挥决定性作用。
-> - **曼哈顿计划的科学孵化** OSRD 全面统筹早期原子核裂变可行性论证与芝加哥大学冶金实验室反应堆，并将新墨西哥州洛斯阿拉莫斯实验室的研发工作通过政府合同交由加利福尼亚大学（伯克利分校）全面主持。
+> - **[[Manhattan Project|曼哈顿计划]]的科学孵化** OSRD 全面统筹早期原子核裂变可行性论证与芝加哥大学冶金实验室反应堆，并将新墨西哥州洛斯阿拉莫斯实验室的研发工作通过政府合同交由加利福尼亚大学（伯克利分校）全面主持。
 > - **战时军事医学革命** 协调制药企业与大学医学院攻克盘尼西林（青霉素）工业化量产难关，研发抗疟药物与全血保存技术，使二战美军战伤死亡率相比一战大幅骤降。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35, 37)]]
 > - **《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》政策蓝图** 1944 年底罗斯福致信布什要求总结 OSRD 经验，布什于 1945 年提交报告，将 OSRD 的成功经验提炼为由国家长效资助大学基础研究的战后科技宪章。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
 
 > [!citation-card] 国家与科学界的高度互信与使命托付
-> 1942年，随着战火在欧洲和太平洋蔓延，《科利尔》（Collier's）杂志向近三百万读者介绍了[[Vannevar Bush|万尼瓦尔·布什]]这位当时鲜为人知的工程师和政府官员，并直称其为“可能赢得这场战争的人”。1944年11月，富兰克林·罗斯福总统在信中要求布什总结战时动员经验，筹划如何将那些被战事剧烈打乱研究轨迹的物理学家和工程师导向和平时期的民用科学进步。这一系列历史事实表明，科学家在国家最高决策层享有无与伦比的信任与崇高地位。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
+> 1942年，随着战火在欧洲和太平洋蔓延，《科利尔》（Collier's）杂志向近三百万读者介绍了[[Vannevar Bush|万尼瓦尔·布什]]这位当时鲜为人知的工程师和政府官员，并直称其为“可能赢得这场战争的人”。1944年11月，富兰克林·[[Franklin D. Roosevelt|罗斯福总统]]在信中要求布什总结战时动员经验，筹划如何将那些被战事剧烈打乱研究轨迹的物理学家和工程师导向和平时期的民用科学进步。这一系列历史事实表明，科学家在国家最高决策层享有无与伦比的信任与崇高地位。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
 >
 > *In 1942, an article in Collier's introduced Vannevar Bush... describing Bush as 'the man who may win the war.' In November 1944, Roosevelt sent a letter to Vannevar Bush... The challenge was to ensure that the engineers and researchers who had directed their attention to the industry of war—and particularly the physicists, who as Bush noted had 'been thrown most violently off stride'—could shift their efforts back to civilian advances.*
 

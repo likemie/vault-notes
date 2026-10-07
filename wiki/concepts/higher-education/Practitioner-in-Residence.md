@@ -12,7 +12,7 @@ aliases:
 summary: "指选拔顶尖机械师与高级技师进驻研究型大学与国家实验室，赋予其正式教职、联合指导权与成果署名权，以弥合工程理论与动手排障断层的师资与培养制度。"
 type: concept
 domain: "higher-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -36,14 +36,15 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Alfred Nobel]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Practitioner-in-Residence
@@ -127,7 +128,7 @@ updated: 2026-10-07
 
 > [!dev-timeline] 概念演变
 > - **1970s — 默会知识与实验复现研究** 哈里·科林斯（Harry Collins）揭示激光器复现必须依赖技师身体力行的现场协同，奠定实践技艺认知基础。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–48)]]
-> - **2017 — 实验技艺与引力波探测** 赖纳·魏斯（Rainer Weiss）因早年机械与焊接学徒训练亲手打造 LIGO 探测器原型而获诺贝尔物理学奖。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 51)]]
+> - **2017 — 实验技艺与引力波探测** 赖纳·魏斯（Rainer Weiss）因早年机械与焊接学徒训练亲手打造 LIGO 探测器原型而获[[Alfred Nobel|诺贝尔]]物理学奖。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 51)]]
 > - **2026 — 驻校实践者与国家工匠学者政策化** 美国白宫科技政策办公室在《科学：新黄金时代》中正式将其确立为打破单一学术阶梯、重振[[Industrial Commons|产业公地]]的高等教育制度创新。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 52)]]
 
 ---

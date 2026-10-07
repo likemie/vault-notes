@@ -11,7 +11,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Questionnaire]]"
 related_instruments: []
 related_persons:
+  - "[[Alfred Nobel]]"
   - "[[Richard C. Atkinson]]"
   - "[[Pepka Boyadjieva]]"
   - "[[Pierre Bourdieu]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-11
-updated: 2026-10-02
+updated: 2026-10-08
 ---
 
 # Academic Ranking of World Universities
@@ -94,7 +95,7 @@ updated: 2026-10-02
 ## 关键文献、法案与历史宣言
 
 > [!citation-card] ARWU 纳入门槛与评选标准声明
-> 排名系统考虑每一所拥有诺贝尔奖得主、菲尔兹奖得主和高被引研究人员的大学，以及在《自然》（*Nature*）或《科学》（*Science*）上发表过学术论文的大学。此外，拥有大量被科学引文索引扩展版（SCIE）与社会科学引文索引（SSCI）收录论文的高校也被一并纳入考量池。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 131)]]
+> 排名系统考虑每一所拥有[[Alfred Nobel|诺贝尔]]奖得主、菲尔兹奖得主和高被引研究人员的大学，以及在《自然》（*Nature*）或《科学》（*Science*）上发表过学术论文的大学。此外，拥有大量被科学引文索引扩展版（SCIE）与社会科学引文索引（SSCI）收录论文的高校也被一并纳入考量池。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 131)]]
 >
 > *The ranking considers every university that has any Nobel Laureates, Fields Medalists, Highly Cited Researchers, or papers published in Nature or Science. In addition, universities with a significant amount of papers indexed by Science Citation Index-Expanded (SCIE) and Social Science Citation Index (SSCI) are also included.*
 
@@ -114,7 +115,7 @@ updated: 2026-10-02
 > |:---|:---|:---|
 > | 核心倡导行动者 | 计量评价机构、美国高水平研究型大学、科技政策决策者 | [[Sociology of Valuation and Evaluation\|估值社会学]]学者、赠地大学联盟、区域性应用技术高校 |
 > | 大学理想类型 | 研究密集型、自然科学主导、以全球顶尖科学产出为导向的科学巨舰 | 承担多元公共使命、促进社会流动、服务区域产业与民主公民培育的复合组织 |
-> | 知识合法性标准 | 在 *Nature*、*Science* 与 SCIE 高被引论文及诺贝尔奖/菲尔兹奖的集中度 | 教学质量、专业实践技能、本土人文社科批判传承与社区公平贡献 |
+> | 知识合法性标准 | 在 *Nature*、*Science* 与 SCIE 高被引论文及[[Alfred Nobel\|诺贝尔]]奖/菲尔兹奖的集中度 | 教学质量、专业实践技能、本土人文社科批判传承与社区公平贡献 |
 > | 制度策略导向 | 集中科研重金吸引顶尖论文产出团队与外籍高被引学者 | 坚持招收弱势背景生源与提供区域公共福祉，但面临排名被惩罚风险 |
 >
 > **关键制度冲突** 两种逻辑围绕“大学是否等同于自然科学研究机构”展开深层交锋。以 ARWU 为代表的硬指标迫使全球高校走向同质化模仿，削弱了不同国家与类型院校依据本土地缘社会需求发展多元使命的制度空间。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 132–137)]]
@@ -154,7 +155,7 @@ updated: 2026-10-02
 > > [!axis] 教学成果测量的有效性困境
 > > 排名界关于是否能够以及如何测量高等教育本质质量的长久论战。
 > >
-> > - **极端精英替代论** ARWU 是全球仅有的将校友获奖作为直接考察指标的体系，虽试图直接反映人才培养终端成效，但诺贝尔奖和菲尔兹奖仅能折射极端精英群体的历史成就，与大学日常教育教学质量毫无统计关联。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 136)]]
+> > - **极端精英替代论** ARWU 是全球仅有的将校友获奖作为直接考察指标的体系，虽试图直接反映人才培养终端成效，但[[Alfred Nobel|诺贝尔]]奖和菲尔兹奖仅能折射极端精英群体的历史成就，与大学日常教育教学质量毫无统计关联。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 136)]]
 > > - **跨国评估替代方案** [[OECD|经济合作与发展组织]]（OECD）试图通过[[OECD AHELO Project|高等教育学习成果评估]]（[[OECD AHELO Project|AHELO]]）开发直接测验学生[[Critical Thinking|批判性思维]]与通用能力的工具以修正 ARWU 的缺陷，但因[[Cross-cultural Validity|跨文化效度]]与巨大成本同样陷入制度停滞。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, pp. 135–136)]]
 
 > [!citation-card] [[Global Universities Rankings|全球大学排名]]的共识缺失困境

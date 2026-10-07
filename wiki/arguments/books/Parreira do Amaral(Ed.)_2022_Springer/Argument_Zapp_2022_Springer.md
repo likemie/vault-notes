@@ -9,9 +9,9 @@ title: "Argument_Zapp_2022_Springer"
 argument_key: "Argument_Zapp_2022_Springer"
 argument_display_title: "Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks"
 argument_kind: "book"
-argument_related_count: 44
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: Geopolitical Transformations in Higher Education
 citation: "Zapp, M. (2022). Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 143–161). Cham: Springer."
@@ -55,7 +55,8 @@ related_theories:
   - "[[Systems of Innovation]]"
 related_methods:
   - "[[Analytic Framework]]"
-related_persons: []
+related_persons:
+  - "[[Alfred Nobel]]"
 related_facts:
   - "[[UN Sustainable Development Goals]]"
   - "[[OECD]]"
@@ -187,7 +188,7 @@ Zapp 在前四步论证了知识如何进入治理，第五步翻转视角——
 
 **风险二：大学的地缘政治再领土化**。Zapp 揭示了第二个悖论：大学知识越是全球化，大学本身越是**被国家重新收回**作为地缘政治竞争的棋子(pp.155–157)。表现包括：
 
-- 诺贝尔奖得主被当作"国家[[Pride in Learning|骄傲]]"来庆祝(Baram-Tsabari & Segev, 2018)
+- [[Alfred Nobel|诺贝尔]]奖得主被当作"国家[[Pride in Learning|骄傲]]"来庆祝(Baram-Tsabari & Segev, 2018)
 - 总统国事访问的行程中，大学取代了军事基地成为重要的"打卡点"
 - 各国推出"卓越计划"（excellence initiatives）和大规模研究资助来提升本国科学和[[Systems of Innovation|创新系统]](Zapp et al., 2018)
 - 建设 "[[International Education Hubs|国际教育枢纽]]"、"知识村""智慧城市"和"技术极"（technopoles）以吸引外国人才和资本(Knight, 2018; Moisio, 2018)

@@ -9,7 +9,7 @@ summary: "美国政治学家、公共政策学者，普林斯顿大学伍德罗�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 38
+person_related_count: 39
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -47,6 +47,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"
+  - "[[Alfred Nobel]]"
   - "[[Vannevar Bush]]"
   - "[[Venkatesh Narayanamurti]]"
 related_facts:
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Donald Stokes
@@ -89,7 +90,7 @@ updated: 2026-10-07
 > *"In 1997, Donald Stokes's book Pasteur's Quadrant: Basic Science and Technological Innovation was published posthumously. In this work, Stokes argued that scientific efforts were best carried out in what he termed 'Pasteur's Quadrant,' where researchers are motivated simultaneously by expanding understanding and increasing applied capabilities."*
 
 > [!citation-card] [[Michael Kratsios|克拉齐奥斯]]论斯托克斯巴斯德象限在智能时代的支配地位
-> 历史上的科学突破屡屡展现出双重驱动特征：路易·巴斯德在探究酒类变质实用工艺中开创现代微生物学；[[Bell Labs|贝尔实验室]]在解决通信放大器件时发明晶体管；克劳德·香农在优化电报传输中创立信息论。2024 年诺贝尔化学奖表彰的蛋白质结构预测算法（AlphaFold）以及 2025 年诺贝尔物理学奖表彰的超导量子器件，均兼具宏大的理论雄心与明确的现实应用指向。唐纳德·斯托克斯所界定的巴斯德象限——即由应用驱动但同时探究根本机理的研究，已占据当代科学前沿的支配地位，证明传统单向线性资助模型必须彻底重组。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 7)]]
+> 历史上的科学突破屡屡展现出双重驱动特征：路易·巴斯德在探究酒类变质实用工艺中开创现代微生物学；[[Bell Labs|贝尔实验室]]在解决通信放大器件时发明晶体管；克劳德·香农在优化电报传输中创立信息论。2024 年[[Alfred Nobel|诺贝尔]]化学奖表彰的蛋白质结构预测算法（AlphaFold）以及 2025 年诺贝尔物理学奖表彰的超导量子器件，均兼具宏大的理论雄心与明确的现实应用指向。唐纳德·斯托克斯所界定的巴斯德象限——即由应用驱动但同时探究根本机理的研究，已占据当代科学前沿的支配地位，证明传统单向线性资助模型必须彻底重组。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 7)]]
 >
 > *Donald Stokes's Pasteur's Quadrant—research inspired by use while simultaneously pursuing fundamental mechanism understanding—has come to dominate the frontier of contemporary science... proving the bankruptcy of rigid linear funding models.*
 

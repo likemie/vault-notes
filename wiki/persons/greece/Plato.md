@@ -6,7 +6,7 @@ summary: "古希腊哲学家，苏格拉底的学生、亚里士多德的老师�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 35
+person_related_count: 36
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -56,6 +56,7 @@ related_persons:
   - "[[Aristotle]]"
   - "[[René Descartes]]"
   - "[[Immanuel Kant]]"
+  - "[[Noam Chomsky]]"
   - "[[John Dewey]]"
 related_facts:
   - "[[Education for All]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # Plato
@@ -157,7 +158,7 @@ updated: 2026-09-24
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 开创了西方两千五百年的理性主义与先天论心智传统。经由新柏拉图主义传入奥古斯丁基督教神学，再延展至[[René Descartes|笛卡尔]]的“天赋观念”、[[Immanuel Kant|康德]]的“先验感性形式与知性范畴”、乔姆斯基的“普遍语法”机制，直至现代婴儿认知科学[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 27–29)]]。
+> - **理论路径** 开创了西方两千五百年的理性主义与先天论心智传统。经由新柏拉图主义传入奥古斯丁基督教神学，再延展至[[René Descartes|笛卡尔]]的“天赋观念”、[[Immanuel Kant|康德]]的“先验感性形式与知性范畴”、[[Noam Chomsky|乔姆斯基]]的“普遍语法”机制，直至现代婴儿认知科学[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 27–29)]]。
 > - **方法路径** 将对话录（Dialogues）提升为体系化哲学推演文体，确立了以几何证明、公理化演绎与概念定义辨析为核心的科学论证[[Paradigm|范式]]，奠定了西方学术探索的分析哲学根基。
 > - **政策路径** 雅典学院确立了西方第一所高等综合学术研究与讲学机构的组织模型；其哲学家王与分阶段递进筛选理念深刻渗透进西方中世纪大学、现代精英高等教育分流制度及博雅[[General Education|通识教育]]传统。
 > - **跨国／跨领域传播** 在中西比较视域下，柏拉图的精英天赋筛选与儒家“有教无类”形成文明级的互鉴对照[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 34–35)]]；在现代人工智能与教育技术领域，其[[Meno|《美诺篇》]]对话范式成为[[Intelligent Tutoring Systems|智能导师系统]]（Intelligent Tutoring Systems, ITS）交互设计的经典理论靶标[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 280–281)]]。

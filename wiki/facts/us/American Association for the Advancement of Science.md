@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -44,6 +44,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Richard C. Atkinson]]"
+  - "[[Alfred Nobel]]"
   - "[[Vannevar Bush]]"
   - "[[Zewelanji N. Serpell]]"
 related_facts:
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # American Association for the Advancement of Science
@@ -100,7 +101,7 @@ updated: 2026-10-05
 ## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
-> - **理事会（Board of Directors）与评议会（Council）** 由民选会长（通常由诺贝尔奖得主或学术宗师出任，如前 [[National Science Foundation|NSF]] 主任阿特金森）、候任会长及 24 个学部的选举代表组成，负责确立学会宏观学术方向与科学伦理标准。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 48)]]
+> - **理事会（Board of Directors）与评议会（Council）** 由民选会长（通常由[[Alfred Nobel|诺贝尔]]奖得主或学术宗师出任，如前 [[National Science Foundation|NSF]] 主任阿特金森）、候任会长及 24 个学部的选举代表组成，负责确立学会宏观学术方向与科学伦理标准。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 48)]]
 > - **首席执行官与管理团队** 由执行总裁统领，下设学术出版部、国际事务部、[[STEM Education|STEM]] 教育与人力资源部，以及科学政策项目办公室（Science Policy Programs）。
 > - **24 个专业学部（Sections）** 包括教育学（Section Q）、心理学（Section J）、社会经济与政治学（Section K）等，体现了自然科学与社会科学高度交融的综合特性。
 > - **研发预算与政策项目组（R&D Budget and Policy Program）** 独立测算并长程跟踪联邦研发预决算、机构支出与学科分布，为学术界与政策制定者提供独立财政量化基准。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 28–29)]]

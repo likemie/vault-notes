@@ -10,7 +10,7 @@ aliases:
 summary: "二战后美国形成的由国家科学基金会（NSF）与国防部（ONR/DARPA）、能源部（AEC/DOE）、卫生与公众服务部（NIH）、宇航局（NASA）等多家任务导向型联邦机构共同构成的去中心化科研资助体制；突破了布什报告设想的单一集权基金会模式，各机构采用多元评审标准与差异化使命，为大学研究人员提供了多重资助申请渠道与高风险学术容错空间。"
 type: concept
 domain: "science-policy"
-related_count: 25
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,6 +38,7 @@ related_facts:
   - "[[National Aeronautics and Space Administration]]"
   - "[[Office of Scientific Research and Development]]"
   - "[[MIT Radiation Laboratory]]"
+  - "[[Manhattan Project]]"
   - "[[Sputnik Shock 1957]]"
   - "[[National Defense Education Act of 1958]]"
   - "[[Federally Funded Research and Development Centers]]"
@@ -49,10 +50,11 @@ related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
 related_persons:
   - "[[Vannevar Bush]]"
+  - "[[Franklin D. Roosevelt]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Pluralistic Federal Funding System
@@ -128,7 +130,7 @@ updated: 2026-10-07
 > - **二战前（1940 年前）— 边缘分散与高校自筹阶段**
 >   联邦政府对大学科研几乎不存在常规性资助机制，全美研发支出的近 70% 由私营工业界主导，联邦有限经费几乎全额投向政府自设专门机构（海岸测地局、地质调查局、农业部等）；大学仅占全国 R&D 的 9%，主要依赖自身捐赠基金与州议会有限划拨，在[[National Innovation System|国家创新体系]]中处于边缘地位。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 33–34)]]
 > - **二战期间（1940–1945）— 战时集中动员与合同机制突破**
->   罗斯福总统设立国家国防研究委员会（NDRC）与[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（OSRD），由[[Vannevar Bush|万尼瓦尔·布什]]统帅；开创性打破政府自建机构旧规，直接与大学签订研发合同，设立 MIT [[MIT Radiation Laboratory|辐射实验室]]与芝加哥大学冶金实验室，动员大学顶级科学家攻坚雷达与曼哈顿工程，确立了学术研究的战略价值。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
+>   [[Franklin D. Roosevelt|罗斯福总统]]设立国家国防研究委员会（NDRC）与[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（OSRD），由[[Vannevar Bush|万尼瓦尔·布什]]统帅；开创性打破政府自建机构旧规，直接与大学签订研发合同，设立 MIT [[MIT Radiation Laboratory|辐射实验室]]与芝加哥大学冶金实验室，动员大学顶级科学家攻坚雷达与[[Manhattan Project|曼哈顿工程]]，确立了学术研究的战略价值。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
 > - **战后博弈与多元成型（1945–1950）— 填补真空与多路并进**
 >   布什呈递《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》呼吁设立单一基金会，但杜鲁门总统否决了缺乏行政问责的法案；在长达五年的立法僵局中，[[Office of Naval Research|海军研究办公室]]（ONR, 1946）、原子能委员会（AEC, 1946）及国立卫生研究院（NIH, 1947）等任务型机构率先向大学常规注入基础科研资金；1950 年 [[National Science Foundation|NSF]] 妥协成立，多元联邦资助格局正式定型。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]
 > - **冷战繁荣与[[Big Science|大科学]]扩展（1950–1975）— 人造卫星危机与体制升级**

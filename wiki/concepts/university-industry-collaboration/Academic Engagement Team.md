@@ -10,7 +10,7 @@ aliases:
 summary: "企业内部以专职预算与统筹职责领导和管理大学合作的专业组织载体，通常以跨部门叠加层（overlay）形式嵌入既有科层结构；实践者作为组织通才，需对齐公司最高经营哲学、运用多轨资助与梯级协议化解产学时间与度量错位，并在重大技术转折点推动行业级协同。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ tags:
   - theme/organizational-design
 related_concepts:
   - "[[Academic Engagement]]"
+  - "[[Polymath]]"
   - "[[University-Industry Collaboration]]"
   - "[[Commensuration]]"
   - "[[Technology Transfer Office]]"
@@ -66,7 +67,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> [[Academic Engagement|学术参与]]团队（Academic Engagement Team, AET）是跨国企业内部以直接预算责任负责领导、设计与统筹管理大学合作的专业组织单位。AET 并非独立的实体业务部门，而是作为一种跨部门叠加层（overlay）构型嵌入在企业现有的科层网络之中（如设立在首席技术官 CTO 办公室、人力资源部或分散于各业务部门之内）。AET 成员兼具学术界科研规律洞察与商业运营战略敏锐度，扮演组织通才（organizational polymath）角色，其核心职能是克服企业短期季度财务考核与大学多年学术探索之间的断层，将分散在高校的前沿科技与人才资源转化为支持企业长远发展的战略动力。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 217–218, 222–223)]]
+> [[Academic Engagement|学术参与]]团队（Academic Engagement Team, AET）是跨国企业内部以直接预算责任负责领导、设计与统筹管理大学合作的专业组织单位。AET 并非独立的实体业务部门，而是作为一种跨部门叠加层（overlay）构型嵌入在企业现有的科层网络之中（如设立在首席技术官 CTO 办公室、人力资源部或分散于各业务部门之内）。AET 成员兼具学术界科研规律洞察与商业运营战略敏锐度，扮演组织[[Polymath|通才]]（organizational polymath）角色，其核心职能是克服企业短期季度财务考核与大学多年学术探索之间的断层，将分散在高校的前沿科技与人才资源转化为支持企业长远发展的战略动力。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 217–218, 222–223)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向商业企业内部专职负责[[University-Industry Collaboration|产学合作]]的组织治理单元与实践者网络，区别于技术成果的最终商业转化者（业务部门）。
@@ -251,7 +252,7 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 提出 AET 叠加层构型、实践者作为组织通才、九维支持框架、资助治理矩阵以及 [[Universal Parallel Computing Research Centers|UPCRC]] 重大案例，系统奠定了从企业内部透视[[University-Industry Collaboration|产学合作]]的微观分析[[Paradigm|范式]]。
+> - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 提出 AET 叠加层构型、实践者作为组织[[Polymath|通才]]、九维支持框架、资助治理矩阵以及 [[Universal Parallel Computing Research Centers|UPCRC]] 重大案例，系统奠定了从企业内部透视[[University-Industry Collaboration|产学合作]]的微观分析[[Paradigm|范式]]。
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 对应大学侧视角，调查 65 所顶尖大学五类组织模式，分析[[University Corporate Engagement Professional|大学企业参与专员]]（UCEP）与中心办公室如何作为[[Boundary Spanner|边界跨越者]]与企业 AET 进行对接。
 > - [[Argument_Dean_2025_UICollaborationSupport|Dean et al. (2025)]] — 从加拿大滑铁卢大学视角探讨政府与产业 1:1 配资杠杆对撬动科研人员的成效，与企业 AET 配套资金机制形成对照。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 详析[[Semiconductor Research Corporation|半导体研究公司]]（SRC）[[Membership-based Research Consortium|会员制联合体]]的全行业多边预算分配模式，与英特尔/微软 AET 发起的双边 UPCRC 战略联合体形成机制互补。

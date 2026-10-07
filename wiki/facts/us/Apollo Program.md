@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 9
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -31,17 +31,23 @@ related_concepts:
   - "[[Demonstration Effect]]"
   - "[[Assemblage]]"
   - "[[Center of Calculation]]"
+  - "[[Big Idea Famine]]"
+  - "[[Technological Republic]]"
 related_methods:
   - "[[Correlational Research]]"
+related_persons:
+  - "[[Peter Thiel]]"
 related_facts:
   - "[[National Aeronautics and Space Administration]]"
   - "[[Fairchild Semiconductor]]"
 related_arguments:
   - "[[Argument_Schnee_1978_RP]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Apollo Program
@@ -107,7 +113,20 @@ updated: 2026-10-07
 
 ---
 
+## 历史定位与当代回响
+
+> [!claim] 宏大国家工程作为衡量文明进步的标尺
+> 进入 21 世纪，阿波罗计划在科技哲学与产业政策中被确立为衡量国家宏大工程雄心与非连续性创新的根本标尺。面对当代社会沉溺于浅层消费软件与算法流量变现所诱发的[[Big Idea Famine|大构想饥荒]]，阿波罗计划代表了民主国家通过举国体制动员前沿深科技、实现跨维度物理跃迁的经典范本，成为重塑[[Technological Republic|技术共和国]]的核心思想源泉。（Thiel, 2011; [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）
+
+> [!citation-card] [[Peter Thiel|蒂尔]]论阿波罗太空计划作为人类进步标尺
+> 阿波罗太空计划那种激进、非连续的技术大跨越，而非消费类小物件在性能上的渐进微调，才是我们评判自身成就、衡量人类真正进步的唯一标尺。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Thiel, 2011; cited in Karp & Zamiska, 2025, pp. 49–50)]]
+>
+> *The radical and discontinuous leap forward of the Apollo space program, not the incremental advances in the capabilities of consumer gadgets, should be the bar by which we judge ourselves and assess human progress.*
+
+---
+
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统评估阿波罗计划与国防大项目对美国计算机和半导体产业的经济、技术与人才影响，揭示了其在加速微型化演进、释放[[Learning Economy|学习经济]]与培育产业骨干中的关键机制。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引阿波罗登月计划作为激进非连续科技跃升的标尺，反思当代硅谷工程师野心异化、消费互联网狭隘化与[[Big Idea Famine|大构想饥荒]]。

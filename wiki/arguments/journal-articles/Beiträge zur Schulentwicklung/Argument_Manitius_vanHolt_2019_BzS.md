@@ -7,7 +7,7 @@ title: "Argument_Manitius_vanHolt_2019_BzS"
 argument_key: "Argument_Manitius_vanHolt_2019_BzS"
 argument_display_title: "Transfer als Gegenstand von Programmatik und Forschung. Einige Diskursbeobachtungen"
 argument_kind: "journal-article"
-argument_related_count: 66
+argument_related_count: 67
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Output-Oriented Governance]]"
   - "[[Commensuration]]"
+  - "[[Total War]]"
   - "[[International Education]]"
   - "[[Ontology]]"
   - "[[Evidence-Based Education]]"
@@ -215,7 +216,7 @@ updated: 2026-09-27
 #### 1. 联邦与各州通过顶层战略修订与中介机构孵化，在行政与平台维度加速布局
 
 > [!evidence-grid] 宏观政策支持与机构孵化的双轨推进网络
-> - **[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] [[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]的修订赋权** 常设各州教育与文化部长会议全面升级总体战略，将研究成果的有效转移与加工置于更高地位，明确要求对实施过程进行科学追踪以掌握成效条件，并将治理相关知识切实运用于学校改进；其增设的为教育政策与教育实践提供更多应用导向知识章节，直接将各州立研训与质量机构确立为核心中介实体。（p. 10）
+> - **[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] [[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]的修订赋权** 常设各州教育与文化部长会议全面升级[[Total War|总体战]]略，将研究成果的有效转移与加工置于更高地位，明确要求对实施过程进行科学追踪以掌握成效条件，并将治理相关知识切实运用于学校改进；其增设的为教育政策与教育实践提供更多应用导向知识章节，直接将各州立研训与质量机构确立为核心中介实体。（p. 10）
 > - **各州立研训机构联合立场文件的出台** 针对 KMK 纲领要求，全德 16 州立研究所集体签署《关于研究知识转移的联合立场文件》（Bieber et al., 2018），明确界定转移认知并提出落地行动方案。（p. 10）
 > - **[[Federal Ministry of Education and Research|BMBF]] 联邦实证教育研究专项资助聚焦** 联邦教育与研究部通过《实证教育研究框架规划》，明确提出重点资助创新研究、实施研究与转移研究。（p. 10）
 > - **新型制度化清算机构与中介平台的孵化** 德语区相继建立专门机构，例如慕尼黑工业大学依托[[Meta-analysis|元分析]]建立的教学清算中心（[[Clearing House Unterricht|CHU]]），以及各州立研究所联合创设的[[Forschungsmonitor Schule|学校研究监测平台]]（FMS），旨在面向实践界开展适切的证据二次加工。（p. 10）

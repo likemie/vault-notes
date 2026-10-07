@@ -9,7 +9,7 @@ summary: "阿根廷著名马克思主义政治学家与社会学家，拉丁美�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -34,6 +34,7 @@ related_concepts:
 related_theories:
   - "[[Postmodernism]]"
   - "[[Critical Theory]]"
+  - "[[Legitimation Crisis]]"
   - "[[Conditioned State Theory]]"
 related_methods:
   - "[[Historical-Comparative Method]]"
@@ -91,7 +92,7 @@ updated: 2026-10-07
 > [!thought-timeline] 思想发展
 > - **1980–1990 年代 — 民主转型批判与反新自由主义** 剖析拉美军政府后“民主化”如何蜕变为受制于跨国银行的“受限民主”与市场专制。
 >   - **代表著作** *Estado, capitalismo y democracia en América Latina*（1991）；*Socialismo del siglo XXI: ¿La ilusión de un nuevo comienzo?*。
->   - **关键概念／方法** 受限民主、资本积累悖论、合法化危机。
+>   - **关键概念／方法** 受限民主、资本积累悖论、[[Legitimation Crisis|合法化危机]]。
 >   - **阶段转向** 尖锐指出剥离了经济再分配与社会正义的形式民主只是一具资产阶级空壳。
 > - **2000 年代 — 帝国主义批判与马克思主义地平线重构** 应对全球化神话与[[Postmodernism|后现代主义]]思潮，捍卫帝国主义分析[[Paradigm|范式]]与[[Praxis|实践哲学]]。
 >   - **代表著作** *Imperio e Imperialismo*（2002）；*La teoría marxista hoy*（2006）。

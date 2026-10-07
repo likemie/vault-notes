@@ -7,7 +7,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
-argument_related_count: 39
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ tags:
 related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Incommensurability]]"
+  - "[[Polymath]]"
   - "[[Academic Engagement Team]]"
   - "[[Document]]"
   - "[[Technology Transfer Office]]"
@@ -94,7 +95,7 @@ publisher: "Springer"
 > 这一挑战的根源在于产学合作的价值具有多维且无法直接折算的特征（即[[Incommensurability|不可通约性]]）：大学合作带来的综合回报分散在应届毕业生招聘、前沿论文与专利产出、行业技术声誉、在职员工技能进修以及资深专家视野拓展等多个不同方面，企业无法将这些收益简单相加并换算为统一的季度营业额。与此同时，企业中层的业务主管通常只负责单一业务部门的经营指标，背负着明确的季度利润考核，而大学研究的技术突破往往需要数年时间才能真正转化为商业回报，导致企业内部极易产生忽视或削减产学合作预算的倾向（pp. 217–221）。
 
 > [!claim] 核心主张
-> 企业内部的产学合作实践者必须扮演兼顾技术理解、组织协调与战略判断的复合型角色——组织通才：不仅要根据企业最高经营理念（如自主研发与对外收购的偏好、股东回报与社会责任的权衡）调整项目定位，建立兼顾前期进展与长期效益的成果档案；更要通过灵活调整资助来源与邀请业务主管共同参与决策来建立内部互信，综合运用不同周期的合作协议缓解校企工作节奏的脱节，并在行业技术发生重大转折时推动大规模协同以化解共性瓶颈（pp. 218–236）。
+> 企业内部的产学合作实践者必须扮演兼顾技术理解、组织协调与战略判断的复合型角色——组织[[Polymath|通才]]：不仅要根据企业最高经营理念（如自主研发与对外收购的偏好、股东回报与社会责任的权衡）调整项目定位，建立兼顾前期进展与长期效益的成果档案；更要通过灵活调整资助来源与邀请业务主管共同参与决策来建立内部互信，综合运用不同周期的合作协议缓解校企工作节奏的脱节，并在行业技术发生重大转折时推动大规模协同以化解共性瓶颈（pp. 218–236）。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 聚焦跨国高科技企业内部负责大学合作的[[Academic Engagement Team|学术参与团队]]（AET）、中层业务部门（BU）管理层、企业首席技术官（CTO）及研发骨干等企业侧核心行动者。
@@ -411,7 +412,7 @@ UPCRC 的成功不仅解决了多核初期的软件生态瓶颈，更展现了[[
 ## 关键引用
 
 > [!citation-card] [[University-Industry Collaboration|产学合作]]实践者的复合型角色定位
-> 企业内部推动大学合作的实践者必须成长为兼顾多方面能力的组织通才：既要保持对前沿技术的深厚理解，又要体察企业最高经营理念的实质导向；既要能在错综复杂的矩阵式组织架构中协调顺畅，又要擅长争取各关键业务团队的真心支持；同时还要对企业所处的发展阶段及其在全行业技术格局中的位置保有清醒的战略认知。（p. 218）
+> 企业内部推动大学合作的实践者必须成长为兼顾多方面能力的组织[[Polymath|通才]]：既要保持对前沿技术的深厚理解，又要体察企业最高经营理念的实质导向；既要能在错综复杂的矩阵式组织架构中协调顺畅，又要擅长争取各关键业务团队的真心支持；同时还要对企业所处的发展阶段及其在全行业技术格局中的位置保有清醒的战略认知。（p. 218）
 >
 > *To make an effective case for university collaboration, the practitioner of UI collaboration needs to be an organizational 'polymath': technically astute, alert to corporate philosophy, capable of navigating a variety of organizational designs, adept at building support of key stakeholders, and strategically aware of the company's maturity and its role in a broader industry context.*
 

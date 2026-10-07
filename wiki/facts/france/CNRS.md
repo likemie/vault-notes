@@ -9,7 +9,7 @@ subtype: organization
 region: france
 fact_region: "france"
 fact_kind: "organization"
-fact_related_count: 19
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Alfred Nobel]]"
   - "[[Pierre Bourdieu]]"
   - "[[Dan Sperber]]"
 related_facts:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-02
+updated: 2026-10-08
 ---
 
 # CNRS
@@ -75,7 +76,7 @@ updated: 2026-10-02
 
 > [!dev-timeline] 组织发展历程
 > - **1939–1945 — 战时诞生与国立科学动员** 在物理学家让·佩兰（Jean Perrin）等先驱推动下设立，初创时期经历战时动员与维希政权时期的组织调整，奠定了国家统一调配前沿科研资源的行政法理基础。
-> - **1945–1980s — 战后黄金扩张与科研国家队成型** 戴高乐主义与国家指导主义（Dirigisme）将基础研究确立为大国复兴核心战略；设立自属实验室（Laboratoires Propres）与独立研究员序列（研究员 Chargé de recherche 与研究主任 Directeur de recherche），形成不承担本科教学、专职从事纯科学探索的“国家研究[[Chinese Academy of Sciences|科学院]]”架构，[[Emergence|涌现]]出众多诺贝尔奖与菲尔兹奖得主（包括皮埃尔·布尔迪厄在此荣膺 CNRS 金奖）。
+> - **1945–1980s — 战后黄金扩张与科研国家队成型** 戴高乐主义与国家指导主义（Dirigisme）将基础研究确立为大国复兴核心战略；设立自属实验室（Laboratoires Propres）与独立研究员序列（研究员 Chargé de recherche 与研究主任 Directeur de recherche），形成不承担本科教学、专职从事纯科学探索的“国家研究[[Chinese Academy of Sciences|科学院]]”架构，[[Emergence|涌现]]出众多[[Alfred Nobel|诺贝尔]]奖与菲尔兹奖得主（包括皮埃尔·布尔迪厄在此荣膺 CNRS 金奖）。
 > - **1980s–2000s — 混合研究单元（UMR）与大学界面共建** 为扭转自设实验室与大学教学长期割裂的弊端，CNRS 大力推进与大学及[[Grandes Ecoles|大学校]]（Grandes Écoles）共建混合研究单元（Unités Mixtes de Recherche, UMR），使 CNRS 全职研究员与大学教师在同一实验空间联合攻关，但人员编制与核心拨款渠道依然维持二元分立。
 > - **2000s–至今 — 跨国排名倒逼与卓越治理重构** 面对上海交通大学[[Academic Ranking of World Universities|世界大学学术排名]]（ARWU 2005）中法国大学由于科研署名分散而显著落后的危机，法国政府推动卓越大学建设计划（IDEX）与院校重组（如索邦大学、巴黎-萨克雷大学联盟），倒逼 CNRS 深度融入区域性大学集群的学术署名体系。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 42–43)]]
 
@@ -115,7 +116,7 @@ updated: 2026-10-02
 > [!indicators]- 影响力维度与指标
 > - **人力规模** 拥有全职固定雇员逾 32,000 人（其中专职全职研究人员超 11,000 人，工程技术与行政支持人员超 13,000 人）。
 > - **实体网络** 运营逾 1,100 个实体科研单元，其中绝大多数与法国高校及跨国机构联合设立。
-> - **学术产出与世界声望** 历届科研团队累计荣获二十余项诺贝尔奖及十余项菲尔兹奖，常年在自然指数（Nature Index）全球科研机构综合排名中位居前列。
+> - **学术产出与世界声望** 历届科研团队累计荣获二十余项[[Alfred Nobel|诺贝尔]]奖及十余项菲尔兹奖，常年在自然指数（Nature Index）全球科研机构综合排名中位居前列。
 
 > [!finding-cards] 关键成效与辐射影响
 > - **欧洲基础科研国家锚点** 作为非大学系统的国家科研母体，为法国及全欧洲抵御学术过度商业化与短期课题绩效主义提供了强大的公共制度堡垒。

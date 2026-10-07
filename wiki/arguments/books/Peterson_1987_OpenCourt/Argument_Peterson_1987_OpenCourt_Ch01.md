@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch01"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch01"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -44,6 +44,7 @@ related_persons:
   - "[[Alec Peterson]]"
   - "[[Kurt Hahn]]"
   - "[[Desmond Hoare]]"
+  - "[[Robert J. Gordon]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
 related_facts:
   - "[[Grammar School]]"
@@ -155,7 +156,7 @@ updated: 2026-08-17
 > [!case] 从萨勒姆学校到一组可复制的行动机构
 > - **1920：把昔日敌国儿童置于同一学校** 哈恩出任萨勒姆学校校长，让第一次世界大战中互为敌国的德国与英国儿童共同学习，以共同生活取代抽象的国际理解讲授。
 > - **1932：用政治选择检验学校价值** 阿道夫·希特勒（Adolf Hitler）的立场已经明朗后，哈恩致信往届学生，要求加入纳粹冲锋队或党卫队者在希特勒与萨勒姆之间作出选择。他随后被捕，经英国首相拉姆齐·麦克唐纳（Ramsay MacDonald）干预才得以流亡英国。
-> - **流亡后：把机制移入不同机构** 哈恩在英国创办或推动戈登斯敦学校、外展训练运动、爱丁堡公爵奖，最后参与形成[[United World Colleges\|联合世界书院]]。这些机构反复设置有难度的真实任务，要求参与者发展技能、承担领导与接受领导，并让服务对象而非课堂口号检验责任。皮特森因此强调，哈恩的特殊能力是把愿景转化为组织，并最终让这些理念进入教学大纲与考试制度（pp. 2–3）。
+> - **流亡后：把机制移入不同机构** 哈恩在英国创办或推动[[Robert J. Gordon|戈登]]斯敦学校、外展训练运动、爱丁堡公爵奖，最后参与形成[[United World Colleges\|联合世界书院]]。这些机构反复设置有难度的真实任务，要求参与者发展技能、承担领导与接受领导，并让服务对象而非课堂口号检验责任。皮特森因此强调，哈恩的特殊能力是把愿景转化为组织，并最终让这些理念进入教学大纲与考试制度（pp. 2–3）。
 
 > [!info] 北约防务学院的制度背景
 > - **成立目的** 北约防务学院（NATO Defense College，NDC）由北约首任欧洲盟军最高司令德怀特·艾森豪威尔（Dwight D. Eisenhower）倡议，1951 年 11 月 19 日在巴黎军事学校校舍内开设第一期课程。北约需要能够进入联盟关键岗位、理解共同防务整体问题的军官和文职官员，学院因而承担高级跨国人员培养任务。

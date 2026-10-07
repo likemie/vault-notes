@@ -8,7 +8,7 @@ aliases:
 summary: "由科学哲学家西尔维奥·丰托维奇与杰罗姆·拉维茨于 1993 年提出的科学认识论与公共政策分析概念，用以界定“事实不确定、价值有争议、赌注高昂且决策紧迫”的复杂治理情境，主张超越封闭的传统同行评议，构建吸纳公众与多元利益相关方的“扩展同行共同体”，以透明披露科学不确定性与民主对话化解决策僵局"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Scientific Uncertainty]]"
   - "[[Epistemic Aims]]"
+  - "[[Artificial General Intelligence]]"
   - "[[Emergence]]"
   - "[[Hypothesis]]"
   - "[[Discourse]]"
@@ -83,7 +84,7 @@ updated: 2026-10-07
 > | **决策赌注** | 低赌注（主要关涉局部学术或工程指标） | 中等赌注（关涉特定商业项目或临床治疗结果） | 极高赌注（关涉全人类生存、国家安全、社会公平与生命伦理） |
 > | **同行评审范围** | 狭窄的专业同行评议（学科顶刊、资助评审） | 行业资格认证与专业同行仲裁 | **扩展同行共同体**（涵盖受影响公民、患者、地方社群与立法者） |
 > | **主导[[Epistemic Aims\|认识论目标]]** | 发现客观普适真理 | 提出实用工程或医疗解决方案 | 促进价值共识协商、不确定性管理与社会信任构建 |
-> | **典型现实议题** | 测量重力加速度、合成标准化学分子 | 设计大桥结构承重、常规临床手术方案 | 气候危机应对、流行病强制封控、通用人工智能（AGI）伦理规制 |
+> | **典型现实议题** | 测量重力加速度、合成标准化学分子 | 设计大桥结构承重、常规临床手术方案 | 气候危机应对、流行病强制封控、[[Artificial General Intelligence\|通用人工智能]]（AGI）伦理规制 |
 
 ---
 

@@ -6,10 +6,10 @@ aliases:
 summary: "Massey 的空间理论概念，指空间中的开放、封闭和互联总是通过不平等的社会关系被建构和分配。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 15
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 16
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 domain: "political-economy-geopolitics"
 related_count: 14
 related_level: 1
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Multiplicity]]"
   - "[[Classical Geopolitics]]"
+  - "[[Hard Power]]"
   - "[[Relational Space]]"
   - "[[Discourse]]"
   - "[[Geopolitics of Higher Education]]"
@@ -63,7 +64,7 @@ updated: 2026-10-07
 
 > [!example]
 > - vs [[Multiplicity\|多重性]] — 多重性强��空间中差异的共存和不可预测性，权力几何学则聚焦于这种差异共存中的不对称权力关系：多重性描述空间"是什么"，权力几何学追问空间"为谁而开放、对谁而封闭"
-> - vs [[Classical Geopolitics\|古典地缘政治]] — 古典地缘政治关注领土和军事硬实力，权力几何学关注的是[[Relational Space\|关系性空间]]中的流动控制权——谁能够自由移动、谁被固定在地方、谁的叙事定义了"中心"和"边缘"
+> - vs [[Classical Geopolitics\|古典地缘政治]] — 古典地缘政治关注领土和军事[[Hard Power|硬实力]]，权力几何学关注的是[[Relational Space\|关系性空间]]中的流动控制权——谁能够自由移动、谁被固定在地方、谁的叙事定义了"中心"和"边缘"
 > - vs 依赖性（dependency） — 依赖性（如[[Dependency Theory\|依附理论]]）假定中心对边缘的单向剥削关系，权力几何学则容纳更复杂的不对称——例如，澳大利亚既是英语中心体系中的受益者（靠英语优势和签证政策吸引亚洲学生），又是英美中心体系中的半边缘者（在全球排名[[Discourse|话语]]中没有定义权）
 
 ---

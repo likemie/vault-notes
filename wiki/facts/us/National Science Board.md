@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
+  - "[[Alfred Nobel]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Science, The Endless Frontier 1945]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-08
 ---
 
 # National Science Board
@@ -82,7 +83,7 @@ updated: 2026-10-06
 ## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
-> - **委员会成员（Board Members）** 由 24 名由美国总统任命、经参议院确认的杰出领袖组成（任期 6 年，涵盖顶尖[[Grandes Ecoles|大学校]]长、诺贝尔奖得主、国家实验室主管与跨国科技企业资深高管）。
+> - **委员会成员（Board Members）** 由 24 名由美国总统任命、经参议院确认的杰出领袖组成（任期 6 年，涵盖顶尖[[Grandes Ecoles|大学校]]长、[[Alfred Nobel|诺贝尔]]奖得主、国家实验室主管与跨国科技企业资深高管）。
 > - **[[National Science Foundation|NSF]] 主任（NSF Director）** 作为第 25 位当然成员（Ex-officio Member）参与理事会日常审议与政策协调。
 > - **常设监督与战略委员会** 包括战略委员会（Committee on Strategy）、国家科学与工程政策委员会（SEP）、外部利益相关者参与委员会（AIE）及重大研究设施监督委员会。
 > - **专业科学政策顾问团队与国家统计中心协作** 深度指导国家科学与工程统计中心（NCSES）开展全美研发支出、学术发表与人力资源大样本普查。

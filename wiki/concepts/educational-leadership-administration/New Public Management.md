@@ -7,7 +7,7 @@ aliases:
 summary: "以企业管理与市场竞争逻辑重塑公共部门的治理范式，强调绩效指标、产出控制、性价比核算、供给竞争、管理问责与服务外包，在带来微观成本控制的同时导致公共部门去技能化与创新治理的青蛙视角"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Market Shaping and Creating]]"
   - "[[Source of Knowledge]]"
   - "[[Consultocracy]]"
+  - "[[Polymath]]"
   - "[[Externalization]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Knowledge-Based Economization]]"
@@ -122,7 +123,7 @@ updated: 2026-10-07
 > | **控制与评价机制** | 量化[[Performance Indicators\|绩效指标]]（KPIs）、督导评级与短期成本收益分析（CBA） | 严格行政规程审查与资历标准 | 敏捷原型迭代、全流程动态[[Reflexivity\|反思性]]评估与用户共创 |
 > | **公共机构角色** | [[Market Failure\|市场失灵]]被动修补者、合约采购方与外包监管者 | 法定规则执行者与公共秩序维护者 | [[Market Shaping and Creating\|市场塑造]]者与共创者、具备探索与学习动态能力的主体 |
 > | **对待失败与风险** | 零容忍失败，将项目受挫视为行政失职与资金浪费 | 规避程序性违规，追求行政稳妥 | 视探索性失败为组织学习与能力积累的必要对价 |
-> | **专业[[Source of Knowledge\|知识来源]]** | 核心战略与评估大规模外包给私营咨询公司（[[Consultocracy\|顾问统治]]） | 内部通才官僚科层体系 | 机构内部跨学科专才团队与多元去中心化探索网络 |
+> | **专业[[Source of Knowledge\|知识来源]]** | 核心战略与评估大规模外包给私营咨询公司（[[Consultocracy\|顾问统治]]） | 内部[[Polymath\|通才]]官僚科层体系 | 机构内部跨学科专才团队与多元去中心化探索网络 |
 
 ---
 

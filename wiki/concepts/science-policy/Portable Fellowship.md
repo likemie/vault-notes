@@ -9,7 +9,7 @@ aliases:
 summary: "科技人才与高等教育资助中直接赋权早期青年学者的流动性支持机制；将高额科研经费与生活津贴直接授予研究生或博士后学者本人（而非挂靠在资深课题负责人 PI 的特定基金项目下），并允许其自由携带经费跨校、跨院系及跨课题组流动，以打破资历垄断、对冲学术避险并重构平等的导师指导关系。"
 type: concept
 domain: "science-policy"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -39,6 +39,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"
+  - "[[Alfred Nobel]]"
 related_facts:
   - "[[National Institutes of Health]]"
   - "[[National Science Foundation]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Portable Fellowship
@@ -128,7 +129,7 @@ updated: 2026-10-07
 
 > [!example] 典型制度实践案例
 > - **霍华德·休斯医学研究所（HHMI）青年研究员与博士后可携带资助计划**
->   HHMI 为入选学者提供为期 5–7 年的全额免考核直接资助，学者可在全美任何[[Research Universities|研究型大学]]自由建立实验室。该机制孕育了数十位诺贝尔奖得主，成为全球践行“对人资助、自由携带”的公认黄金[[Paradigm|范式]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
+>   HHMI 为入选学者提供为期 5–7 年的全额免考核直接资助，学者可在全美任何[[Research Universities|研究型大学]]自由建立实验室。该机制孕育了数十位[[Alfred Nobel|诺贝尔]]奖得主，成为全球践行“对人资助、自由携带”的公认黄金[[Paradigm|范式]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
 
 ---
 

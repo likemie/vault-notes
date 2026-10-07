@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -48,7 +48,8 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Alfred Nobel]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Web-based Inquiry Science Environment]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-04
+updated: 2026-10-08
 ---
 
 # PhET Interactive Simulations
@@ -67,7 +68,7 @@ updated: 2026-10-04
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> PhET 交互式仿真平台（PhET Interactive Simulations，原名 Physics Education Technology）是由 2001 年诺贝尔物理学奖得主卡尔·威曼（Carl E. Wieman）教授于 2002 年在科罗拉多大学博尔德分校（[[Corporate University\|CU]] Boulder）发起创立的开源科学与数学教育研发项目。平台提供基于网页的交互式动画微世界，被公认为全球覆盖面最广、影响力最大、实证研究最为密集的数字化科学探究工具库。（Wieman et al., 2008；Moore & Perkins, 2018；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]）
+> PhET 交互式仿真平台（PhET Interactive Simulations，原名 Physics Education Technology）是由 2001 年[[Alfred Nobel|诺贝尔]]物理学奖得主卡尔·威曼（Carl E. Wieman）教授于 2002 年在科罗拉多大学博尔德分校（[[Corporate University\|CU]] Boulder）发起创立的开源科学与数学教育研发项目。平台提供基于网页的交互式动画微世界，被公认为全球覆盖面最广、影响力最大、实证研究最为密集的数字化科学探究工具库。（Wieman et al., 2008；Moore & Perkins, 2018；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]）
 
 > [!program-context] 项目背景
 > - **立项时间与资助** 2002 年启动，最初由卡尔·威曼捐赠其诺贝尔奖奖金设立[[Seed Funding|种子基金]]，随后获得[[National Science Foundation\|美国国家科学基金会]]（NSF）、休利特基金会（William and Flora Hewlett Foundation）与谷歌等多方数千万美元专项资助。

@@ -37,6 +37,7 @@ related_theories:
 related_methods:
   - "[[Case Study]]"
 related_persons:
+  - "[[Alfred Nobel]]"
   - "[[Friedrich List]]"
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
@@ -54,7 +55,7 @@ title: "Argument_Swick_Jones_2025_AcademicHealthSystems"
 argument_key: "Argument_Swick_Jones_2025_AcademicHealthSystems"
 argument_display_title: "The unique role of academic health systems in facilitating innovative UI partnerships"
 argument_kind: "book"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -116,7 +117,7 @@ citation_aliases:
 
 ---
 
-> [!info] [[Team Science\|团队科学]]：诺贝尔奖趋势揭示的必然性
+> [!info] [[Team Science\|团队科学]]：[[Alfred Nobel|诺贝尔]]奖趋势揭示的必然性
 > 当代科学问题的复杂性已超越单一机构或单一学科类型的解决能力。[[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]的趋势表明，获奖者越来越多地代表大型跨学科团队，自 1990 年以来每两个获奖中就至少有一个包含医师或医师科学家(pp.178–179)。详见 [[Team Science]]。
 >
 > 论证含义是：AM cycle 之所以必须依赖产学合作，根源在于没有任何单一机构能独立解决当代医学问题——团队科学不是选择，而是必然。

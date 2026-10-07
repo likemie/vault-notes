@@ -8,7 +8,7 @@ aliases:
 summary: "Etzkowitz 与 Leydesdorff 于 1995 年提出的创新系统理论，阐明大学、产业与政府在知识经济中突破单向线性分工、形成非线性反馈与职能重叠的动态螺旋，并揭示了宏观制度交织与微观组织碎片化之间的深层张力。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 52
+theory_related_count: 53
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -65,6 +65,7 @@ related_facts:
   - "[[Universal Parallel Computing Research Centers]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[National Science and Technology Council]]"
+  - "[[Manhattan Project]]"
   - "[[MIT Radiation Laboratory]]"
   - "[[Science and Technology Centers]]"
   - "[[Netherlands Top-sector Policy]]"
@@ -141,7 +142,7 @@ updated: 2026-10-07
 > [!theory-proposition] 命题一｜在以知识为基础的经济中，大学、产业与政府打破单向线性分工，形成多重非线性反馈循环
 > **解释** 传统线性模型预设基础研究成果会自动沿技术研发、试制、商业生产的单向链条向市场扩散，且将三大主体视为彼此独立的外部主体。三重螺旋理论主张，现代创新的核心动力来自大学、产业与政府之间的持续互动与双向反馈。政府通过竞争性研发计划和产权立法搭建舞台，大学通过前沿探索与衍生企业直接参与经济增殖，产业界则通过设立联合实验室向大学输入工业前沿的技术挑战，从而在三重重叠区域形成自组织、自强化的[[Innovation Ecosystem|创新生态]]。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 37–44)]]
 >
-> **应用实例** 二战期间的曼哈顿计划和[[MIT Radiation Laboratory|麻省理工学院辐射实验室]]展示了政府军方、顶尖大学物理学家与通用电气等工业企业的战时三方协同；二战后[[Vannevar Bush|万尼瓦尔·布什]]报告促成国家科学基金会（[[National Science Foundation|NSF]]）建立，使联邦政府、大学基础研究与私营工业创新长期构筑为一个由联邦拨款支撑的非线性互动网络。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 28–29)]]
+> **应用实例** 二战期间的[[Manhattan Project|曼哈顿计划]]和[[MIT Radiation Laboratory|麻省理工学院辐射实验室]]展示了政府军方、顶尖大学物理学家与通用电气等工业企业的战时三方协同；二战后[[Vannevar Bush|万尼瓦尔·布什]]报告促成国家科学基金会（[[National Science Foundation|NSF]]）建立，使联邦政府、大学基础研究与私营工业创新长期构筑为一个由联邦拨款支撑的非线性互动网络。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 28–29)]]
 
 > [!theory-proposition] 命题二｜大学与产业的良性联结需要政府制度框架赋权，产权下放与长期合作计划是螺旋旋转的制度催化剂
 > **解释** 单纯依靠市场力量或单纯依靠大学的主观意愿无法自发形成高效的三重螺旋。二战后长达三十年间，由于缺乏明确的产权激励，联邦政府资助产生的大量技术成果沉淀在档案库中，大学与工业界严重脱钩（1975 年工业资金仅占全美大学科研总经费的 3.3%）。唯有政府通过立法重构激励机制（将联邦资助成果所有权让渡给大学），并由资助机构设立长周期产学协同平台，方能激活大学建立[[Technology Transfer|技术转让]]机构、激发教师创业以及吸引企业共同投资的积极性。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 39–41)]]

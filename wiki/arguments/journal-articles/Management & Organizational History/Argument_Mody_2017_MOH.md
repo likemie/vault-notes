@@ -42,7 +42,8 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Active Listening]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Alfred Nobel]]"
 related_facts:
   - "[[VLSI Project]]"
   - "[[Silicon Structures Project]]"
@@ -70,7 +71,7 @@ title: "Argument_Mody_2017_MOH"
 argument_key: "Argument_Mody_2017_MOH"
 argument_display_title: "Academic centers and/as industrial consortia in American microelectronics research"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -264,7 +265,7 @@ NRRFSS 在运营过程中不仅为 40 余家机构提供微纳实验室建设咨
 > [!case] 地方政府制度竞标背后的政产学三螺旋动员
 > 州政府领导人（如得克萨斯州长马克·怀特、北卡罗来纳州长吉姆·亨特）将微电子研究中心视为培育本土高技术集群的战略催化剂；通过出资数千万美元兴建前沿大学洁净室与微电子大楼，各州成功将原本分散的联邦研发投资、跨国企业财团与顶尖学术人才锚定在特定地理空间中。
 >
-> 竞标过程亦直接推动了大学[[Engineering Education|工程教育]]体系与课程形态的重构。例如集成电路[[Co-invention|共同发明]]人、诺贝尔物理学奖得主杰克·基尔比（Jack Kilby）在德克萨斯 A&M 大学任教期间，极力推动在校内设立开拓性的“教学用芯片试验线”（Pedagogical Fab），试图将重资产微电子制造产线置于电气工程本科生核心课程体系中央；基尔比原本期望借助 MCC 落户得州的东风进一步壮大该教学试验线，而得克萨斯大学奥斯汀分校的本·斯特里特曼教授则通过非正式统筹设备资源与州政府支持，促成了更大规模大学科研中心的诞生。（pp.293–294）
+> 竞标过程亦直接推动了大学[[Engineering Education|工程教育]]体系与课程形态的重构。例如集成电路[[Co-invention|共同发明]]人、[[Alfred Nobel|诺贝尔]]物理学奖得主杰克·基尔比（Jack Kilby）在德克萨斯 A&M 大学任教期间，极力推动在校内设立开拓性的“教学用芯片试验线”（Pedagogical Fab），试图将重资产微电子制造产线置于电气工程本科生核心课程体系中央；基尔比原本期望借助 MCC 落户得州的东风进一步壮大该教学试验线，而得克萨斯大学奥斯汀分校的本·斯特里特曼教授则通过非正式统筹设备资源与州政府支持，促成了更大规模大学科研中心的诞生。（pp.293–294）
 
 ---
 

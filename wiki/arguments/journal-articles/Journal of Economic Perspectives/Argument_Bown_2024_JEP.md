@@ -42,7 +42,9 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Historical-Comparative Method]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Alfred Nobel]]"
+  - "[[Robert J. Gordon]]"
 related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[European Chips Act]]"
@@ -70,7 +72,7 @@ title: "Argument_Bown_2024_JEP"
 argument_key: "Argument_Bown_2024_JEP"
 argument_display_title: "Semiconductors and modern industrial policy"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -155,8 +157,8 @@ issuing_organization: ""
 晶体管的发明与摩尔定律的确立为现代信息技术革命奠定了底层硬件基石。（p. 83）
 
 > [!timeline] 早期技术突破与产业集聚历程
-> - **1940年代末** 美国电话电报公司（American Telephone and Telegraph, AT&T）旗下的[[Bell Labs|贝尔实验室]]（Bell Labs）发明晶体管，三位物理学家荣获 1956 年诺贝尔物理学奖。（p. 83）
-> - **1965** 英特尔创始人戈登·摩尔（Gordon Moore）提出芯片上晶体管数量每两年翻番的摩尔定律，确立了行业持续降低单位算力成本的迭代轨迹。（p. 83）
+> - **1940年代末** 美国电话电报公司（American Telephone and Telegraph, AT&T）旗下的[[Bell Labs|贝尔实验室]]（Bell Labs）发明晶体管，三位物理学家荣获 1956 年[[Alfred Nobel|诺贝尔]]物理学奖。（p. 83）
+> - **1965** 英特尔创始人[[Robert J. Gordon|戈登]]·摩尔（Gordon Moore）提出芯片上晶体管数量每两年翻番的摩尔定律，确立了行业持续降低单位算力成本的迭代轨迹。（p. 83）
 > - **1960–1970年代** [[Fairchild Semiconductor|仙童半导体]]（Fairchild Semiconductor）及其衍生出的众多新兴公司在加州硅谷集聚，形成了高密度人才交流与专业化供应商网络的[[Agglomeration Externalities|集聚外部性]]。（pp. 82–83）
 
 在产业起步期，半导体制造具有高昂的固定研发成本与显著的[[Learning by Doing|干中学]]效应，美国政府通过大规模政府采购充当了首要市场培育者。（p. 83）

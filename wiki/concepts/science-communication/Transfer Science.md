@@ -9,7 +9,7 @@ aliases:
 summary: "指将知识与创新从研究向实践、行政及政策领域流动的机制、条件与转化过程作为独立经验与理论对象的科学形态，强调突破单向线性传输与医学转化类比，致力于阐明转移对象、行动者网络配置与复杂情境中的作用假设。"
 type: concept
 domain: "science-communication"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
   - "[[Evidence-Based Education]]"
+  - "[[Total War]]"
   - "[[School Inspection]]"
   - "[[Further Education]]"
   - "[[Praxis]]"
@@ -65,7 +66,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-09-27
+updated: 2026-10-08
 ---
 
 # Transfer Science
@@ -168,7 +169,7 @@ updated: 2026-09-27
 > 该命题聚焦教育系统内部被长期忽视的中间层，指出知识转移不仅是大学研究者与学校教师的两极互动，更依赖中层支持机构的制度性承托。
 
 > [!claim] Manitius & van Holt
-> **中层中介实体是转移链条的决定性枢纽** 德国教育政策纲领（如[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]，KMK 总体战略）虽然在政策文本中将[[School Inspection|学校督导]]与州立研训机构确立为核心支撑主体，但实证研究长期对这些中层实体严重忽视。国际政策执行研究表明，缺乏对中层行动者网络、接口协同与制度互依性的系统考察，单向推出的新治理工具必然在基层遭遇成效缺失（mangelnde Effekte）与体制性虚脱。[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, pp. 9, 11–12]]
+> **中层中介实体是转移链条的决定性枢纽** 德国教育政策纲领（如[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]，KMK [[Total War|总体战]]略）虽然在政策文本中将[[School Inspection|学校督导]]与州立研训机构确立为核心支撑主体，但实证研究长期对这些中层实体严重忽视。国际政策执行研究表明，缺乏对中层行动者网络、接口协同与制度互依性的系统考察，单向推出的新治理工具必然在基层遭遇成效缺失（mangelnde Effekte）与体制性虚脱。[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, pp. 9, 11–12]]
 
 ---
 

@@ -41,6 +41,8 @@ related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
   - "[[Paula Stephan]]"
+  - "[[Peter Thiel]]"
+  - "[[Alfred Nobel]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
@@ -64,7 +66,7 @@ title: "Argument_Stephan_2013_NBER"
 argument_key: "Argument_Stephan_2013_NBER"
 argument_display_title: "The Endless Frontier: Reaping what Bush Sowed? (NBER Working Paper No. 19687)"
 argument_kind: "report"
-argument_related_count: 27
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -314,7 +316,7 @@ issuing_organization: "National Bureau of Economic Research"
 > - **博士后滞留蓄水池急剧膨胀** 博士后从短期的学术跃升过渡阶梯演化为常态化的低薪滞留池，占确定去向毕业生的比例持续攀升。（pp.22–23）
 > - **培养规模与行业吸纳深度脱节** 实验室为了低成本完成项目持续招收廉价研究生，忽视了学术界与工业界对顶尖研究劳动力的真实吸纳容量。（pp.22–23, 32–33）
 
-普林斯顿[[Grandes Ecoles|大学校]]长雪莉·蒂尔曼主持的全国研究委员会青年学者委员会在 1990 年代末提出，应当密切关注博士毕业生的实际就业出路，建议将毕业生的职业发展质量纳入对导师后续申请基金的评审考核中（pp.22–23）。
+普林斯顿[[Grandes Ecoles|大学校]]长雪莉·[[Peter Thiel|蒂尔]]曼主持的全国研究委员会青年学者委员会在 1990 年代末提出，应当密切关注博士毕业生的实际就业出路，建议将毕业生的职业发展质量纳入对导师后续申请基金的评审考核中（pp.22–23）。
 
 > [!example]- 图 7：全美各学科博士毕业生拥有确定性去向的比例（1991–2011）
 > ![](https://img.mylikemie.icu/sources/Stephan_2013_NBER/figures/Stephan_2013_NBER_Fig7_Doctorate_Recipients_Definite_Commitments.jpg)
@@ -390,7 +392,7 @@ NIH 名义预算在 1998 至 2002 年间翻了一番，但这并未带来稳定�
 > - **布什原初蓝图（蓝方）** 大学应享有高度自主与试错宽容，开展高风险、不可预测的纯基础科学探索，哪怕绝大多数项目遭遇失败亦在所不惜。（pp.4–5, 31）
 > - **现实避险生态（红方）** 评审委员会高度看重[[Pilot Testing|预实验]]数据的完备性与技术可行性；软钱制度下教师薪资直接绑定项目胜负，迫使学者普遍退缩至稳妥的增量型课题。学术避险倾向直接扼杀了具有变革潜力的前沿突破。（pp.30–32）
 
-诺贝尔奖得主罗杰·科恩伯格（Roger Kornberg）指出，如果申请的工作不能基本确保成功，往往很难获得资助，但最具突破性的探索往往伴随着极大的不确定性（p.31）。
+[[Alfred Nobel|诺贝尔]]奖得主罗杰·科恩伯格（Roger Kornberg）指出，如果申请的工作不能基本确保成功，往往很难获得资助，但最具突破性的探索往往伴随着极大的不确定性（p.31）。
 
 #### 2. 压力之二：[[PhD Overproduction in Science|科学博士生产过剩]]与实验室常规用工模式
 

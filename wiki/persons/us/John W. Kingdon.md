@@ -8,7 +8,7 @@ summary: "美国著名政治学者，密歇根大学政治学荣休教授，美�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -44,7 +44,8 @@ related_methods:
   - "[[Process Tracing]]"
   - "[[Analytic Framework]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Peter Thiel]]"
 related_facts:
   - "[[Chinese Academy of Sciences]]"
   - "[[Common Core State Standards]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # John W. Kingdon
@@ -114,7 +115,7 @@ updated: 2026-10-07
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 彻底终结了“问题识别—方案制定—法律采纳—政策执行”的单向线性迷思，与鲍姆加特纳和琼斯的[[Punctuated Equilibrium Theory|断裂平衡理论]]、萨巴蒂尔的支持联盟框架并列为当代政策过程理论的三大基石。
+> - **理论路径** 彻底终结了“问题识别—方案制定—法律采纳—政策执行”的单向线性迷思，与鲍姆加特纳和琼斯的[[Punctuated Equilibrium Theory|断裂平衡理论]]、萨巴[[Peter Thiel|蒂尔]]的支持联盟框架并列为当代政策过程理论的三大基石。
 > - **方法路径** 推动[[Policy Science in Comparative Education|政策科学]]从静态制度规章文本分析转向动态历时性的[[Process Tracing|过程追踪]]，聚焦政策注意力的分配瓶颈、时机把握（Timing）与[[Discourse|话语]]叙事策略。
 > - **政策与教育应用** 广泛应用于分析全美教育标准的突破性立法（如 [[Common Core State Standards|CCSS]] 运动）。麦克唐纳与韦瑟福德将其理论引入教育政策生命周期研究，展示了[[Policy Entrepreneur|政策企业家]]如何借助全美统考危机数据撬开[[Policy Window|政策之窗]]。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–6)]]
 

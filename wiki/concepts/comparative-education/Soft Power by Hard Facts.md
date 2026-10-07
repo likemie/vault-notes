@@ -8,7 +8,7 @@ aliases:
 summary: "以硬事实施展软权力由 Dennis Niemann、Kerstin Martens 与 Christian Ydesen 等提出，指涉国际组织在缺乏法定强制制裁权的前提下，通过生产标准化、可量化与可比较的硬性实证数据（如 PISA、教育指标、投资回报率），赋予政策倡议以客观科学表象并实施远处治理与绩效问责的核心规制机制。"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -45,6 +45,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Joseph S. Nye Jr.]]"
   - "[[Confucius]]"
 related_facts:
   - "[[OECD]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-29
+updated: 2026-10-08
 ---
 
 # Soft Power by Hard Facts
@@ -95,7 +96,7 @@ updated: 2026-09-29
 > [!contrast-table] 治理权力形态与机制辨析
 > | 比较维度 | 传统软权力（[[Soft Power]]） | 强制性硬法（Hard Law） | 以硬事实施展软权力（Soft Power by Hard Facts） |
 > |:---------|:------------------------|:----------------------|:----------------------------------------------|
-> | **权力渊源** | 国家文化吸引力、政治意识形态与外交道德威望（Joseph Nye） | 国际条约、法定公约、安理会决议与主权司法管辖权 | 量化测评、跨国指标库与计量经济学实证研究的科学权威 |
+> | **权力渊源** | 国家文化吸引力、政治意识形态与外交道德威望（[[Joseph S. Nye Jr.\|Joseph Nye]]） | 国际条约、法定公约、安理会决议与主权司法管辖权 | 量化测评、跨国指标库与计量经济学实证研究的科学权威 |
 > | **核心治理技术** | 文化传播、公共外交、人道援助倡导 | 法律起诉、经济制裁、贸易禁运、强制执行 | 基准设定（Benchmarking）、跨国排名、[[Peer Debriefing\|同行审议]]与“命名与羞辱” |
 > | **合规驱动力** | 价值认同与情感共鸣 | 规避法定违法成本与经济受罚风险 | 规避在国际排名中垫底引发的国内执政危机与合法性[[Attrition\|流失]] |
 > | **典型国际载体** | 好莱坞电影、[[Confucius\|孔子]]学院、联合国和平道德倡议 | [[World Trade Organization\|WTO]] 争端解决机制、国际刑事法院判决 | [[OECD\|经合组织]] [[PISA]]、世界银行 SABER 指标库与投资回报率测算 |

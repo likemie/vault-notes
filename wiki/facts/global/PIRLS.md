@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Study Population and Sample]]"
   - "[[Evaluation Research]]"
   - "[[Heterogeneity]]"
+  - "[[Total War]]"
   - "[[Reliability]]"
   - "[[School Inspection]]"
   - "[[Document]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-08
 ---
 
 # PIRLS
@@ -96,7 +97,7 @@ updated: 2026-09-18
 
 > [!dev-timeline] 项目推进历程
 > - **2001 年 — 首测确立全球基准** 举办第一轮国际测试，系统揭示各国小学 4 年级儿童阅读水平的巨大[[Heterogeneity\|异质性]]。
-> - **2006 年 — 纳入德国国家监测总体战略** 德国[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（KMK）将 PIRLS（在德国称 IGLU）连同 [[PISA]] 和 [[TIMSS]] 制度化确立为[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]第一支柱。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, p. 484)]]
+> - **2006 年 — 纳入德国国家监测[[Total War|总体战]]略** 德国[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（KMK）将 PIRLS（在德国称 IGLU）连同 [[PISA]] 和 [[TIMSS]] 制度化确立为[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]第一支柱。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, p. 484)]]
 > - **2016 年至今 — 拓展数字化在线阅读（digitalPIRLS）** 引入数字交互界面，评估学生在模拟网络环境中检索信息、辨别来源可[[Reliability\|信度]]与多文本整合的高阶数字阅读能力。
 
 ---

@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_persons: []
 related_facts:
   - "[[Bell Labs]]"
   - "[[System Development Corporation]]"
+  - "[[Manhattan Project]]"
   - "[[1956 IBM Consent Decree]]"
   - "[[Office of Naval Research]]"
   - "[[DARPA]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Semi-Automatic Ground Environment
@@ -66,7 +67,7 @@ updated: 2026-10-05
 
 > [!program-context] 机构与任务背景
 > - **立项时间 / 周期** 1952 年正式立项，1958 年首个扇区投入作战部署，持续运行至 1983 年退役，总研制与部署周期跨越 30 余年。
-> - **发起方与资助机制** 美国空军（U.S. Air Force）全额资助，联合麻省理工学院林肯实验室、IBM、[[Bell Labs|贝尔实验室]]（西电公司）与兰德公司系统开发分部（[[System Development Corporation|系统开发公司]]，SDC）协同攻关；项目累计投资高达 80 亿至 100 亿美元（超越曼哈顿工程的总开支）。
+> - **发起方与资助机制** 美国空军（U.S. Air Force）全额资助，联合麻省理工学院林肯实验室、IBM、[[Bell Labs|贝尔实验室]]（西电公司）与兰德公司系统开发分部（[[System Development Corporation|系统开发公司]]，SDC）协同攻关；项目累计投资高达 80 亿至 100 亿美元（超越[[Manhattan Project|曼哈顿工程]]的总开支）。
 > - **覆盖范围与对象** 部署覆盖全美与加拿大境内的 20 余个区域空中指挥防御扇区，联结数百座远程雷达站、拦截机基地与地空导弹阵地。
 > - **核心问题导向** 应对冷战初期苏联图-4 战略轰炸机携带核武器对美国本土实施跨极地突袭的严峻威胁，解决人工雷达标图与电话指挥在超音速空袭面前反应迟缓的系统性防空漏洞。
 

@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 65
+fact_related_count: 66
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -66,6 +66,7 @@ related_persons:
   - "[[Erich Bloch]]"
   - "[[Nam Pyo Suh]]"
   - "[[Donald Stokes]]"
+  - "[[Alfred Nobel]]"
   - "[[Michael Kratsios]]"
 related_facts:
   - "[[Office of Naval Research]]"
@@ -102,7 +103,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # National Science Foundation
@@ -165,7 +166,7 @@ updated: 2026-10-07
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务与科研矩阵
-> - **大学基础科研资助基石（[[Blue Skies Research]]）** 每年下拨数以万计竞争性科研基金，支撑全美约四分之一的高校联邦基础研究，孕育数百位诺贝尔奖得主。
+> - **大学基础科研资助基石（[[Blue Skies Research]]）** 每年下拨数以万计竞争性科研基金，支撑全美约四分之一的高校联邦基础研究，孕育数百位[[Alfred Nobel|诺贝尔]]奖得主。
 > - **[[University-Industry Collaboration|产学合作]][[Innovation Hub|创新中心]]矩阵（[[Industry-University Cooperative Research Centers|I/UCRC]]、ERCs 与 STCs）** 构建大学与工业界共同攻克关键共性工程技术的长效跨界共生网络。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **国家超级计算机中心与网络基础设施** 1980 年代在 5 所大学设立超算中心，为早期互联网（NSFNET）与现代前沿计算奠定基石。
 > - **NSF 创新兵团（[[NSF I-Corps]]）** 高校[[Academic Entrepreneurship|学术创业]]标杆，累计孵化超 1,000 家科技初创企业，撬动逾 7.6 亿美元商业化融资。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]

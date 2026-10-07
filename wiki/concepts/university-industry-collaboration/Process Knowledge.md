@@ -8,7 +8,7 @@ aliases:
 summary: "存在于熟练工程师、技师与实验科学家身上、无法完全编码为图纸与专利的排障手感与默会实践经验；作为技术能力的核心支柱，依赖物理邻近与制造生态传承，并在智能充沛时代构成物理创新的关键约束。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Alfred Nobel]]"
   - "[[Chris Freeman]]"
 related_facts:
   - "[[Workforce Pell Grants 2025]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Process Knowledge
@@ -107,7 +108,7 @@ updated: 2026-10-07
 > [!feature] 过程知识的核心生产与传递机制
 > - **人身近距接触与现场浸润** 科学社会学家哈里·科林斯（Harry Collins）对 1970 年代横向激发大气压（TEA）激光器实验室复制史的考察表明：仅凭公开论文与图纸，全球无一实验室能够成功复现；所有成功者均曾亲自派遣学者进驻原作者实验室与技师共同调试，且复现者往往无法用语言穷尽其所习得的手法。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–48)]]
 > - **研发与制造的物理邻近性（Physical Proximity）** 半导体物理学家从产线良率攻坚中提炼前沿理论难题，机器人工程师在数控机床旁依据切削振动即时修改机械结构设计；科学研究与实体生产的近距离互动构成了知识迭代的生命线。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 54)]]
-> - **学徒动手技艺先于理论抽象** 2017 年诺贝尔物理学奖得主赖纳·魏斯（Rainer Weiss）在成为顶尖实验物理学家之前，曾长期在麻省理工学院（MIT）实验室担任技师并向老工匠系统学习车工、钎焊与电路布线；魏斯将此归结为实验科学中的即兴技艺（improvisational art），正是精湛的仪器建造直觉使其成功设计出引力波天文台（LIGO）原型机。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 51)]]
+> - **学徒动手技艺先于理论抽象** 2017 年[[Alfred Nobel|诺贝尔]]物理学奖得主赖纳·魏斯（Rainer Weiss）在成为顶尖实验物理学家之前，曾长期在麻省理工学院（MIT）实验室担任技师并向老工匠系统学习车工、钎焊与电路布线；魏斯将此归结为实验科学中的即兴技艺（improvisational art），正是精湛的仪器建造直觉使其成功设计出引力波天文台（LIGO）原型机。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 51)]]
 
 ---
 

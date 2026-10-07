@@ -10,7 +10,7 @@ aliases:
 summary: "以应对重大社会挑战和变革性系统转型为核心导向，通过主动塑造与共创市场、战略方向引导、挑选意愿者、三层公共动态能力构建与引领和学习范式推动创新的公共政策体系"
 type: concept
 domain: "science-policy"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -69,6 +69,7 @@ related_persons:
   - "[[Mariana Mazzucato]]"
   - "[[Joseph Schumpeter]]"
 related_facts:
+  - "[[Manhattan Project]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[System Althoff]]"
   - "[[Ministry of International Trade and Industry]]"
@@ -98,7 +99,7 @@ updated: 2026-10-07
 > [!concept-lens] 概念透镜
 > - **含义** 指向国家和公共机构为了达成特定重大社会转型目标而主动设立议程、开辟全新[[Technological Trajectories|技术轨道]]、引导创新方向并协同多元跨界主体的战略治理体系。
 > - **用途** 帮助研究者和政策制定者超越单纯的研发补贴、专利保护或税收减免视角，透视政策如何将宏大社会挑战拆解为可操作的使命任务，打破跨部门条块分割并构建敏捷实验网络。
-> - **边界** 不等同于冷战时期封闭垂直攻关的国家科技专项（如曼哈顿工程）；当代第三代使命政策聚焦于具有高度价值争议、系统复杂性与[[Scientific Uncertainty|认知不确定性]]的社会–技术棘手难题。
+> - **边界** 不等同于冷战时期封闭垂直攻关的国家科技专项（如[[Manhattan Project|曼哈顿工程]]）；当代第三代使命政策聚焦于具有高度价值争议、系统复杂性与[[Scientific Uncertainty|认知不确定性]]的社会–技术棘手难题。
 
 > [!citation-card] 政策内涵转向
 > 使命导向政策关涉支持变革性系统转型的政策体系。社会挑战往往需要根本性的社会转型，这不仅要求技术变革，还要求制度和行为层面的根本改变，正如社会–技术转型[[Document|文献]]所指出的那样。面临当代社会的棘手挑战，使命导向创新政策的核心任务在于确保合法性、广泛公众参与以及多元行动者之间的深度协作。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
@@ -257,7 +258,7 @@ updated: 2026-10-07
 
 > [!dev-timeline] 概念演变
 > - **19 世纪末至 20 世纪初 — 第一代后发追赶使命（骆驼形态）** 德国[[System Althoff|阿尔托夫体制]]与[[Ministry of International Trade and Industry|日本通商产业省]]（MITI）依托韦伯式功绩官僚建立[[Research Universities|研究型大学]]与工业现代化底座。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–793)]]
-> - **1940s–1960s — 第二代冷战[[Big Science|大科学]]使命（狮子形态）** 美国曼哈顿工程、[[Apollo Program|阿波罗计划]]与 [[DARPA]] 模式，依靠垂直集权国家实验室进行硬科技攻坚，产生巨大民用外溢。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
+> - **1940s–1960s — 第二代冷战[[Big Science|大科学]]使命（狮子形态）** 美国[[Manhattan Project|曼哈顿工程]]、[[Apollo Program|阿波罗计划]]与 [[DARPA]] 模式，依靠垂直集权国家实验室进行硬科技攻坚，产生巨大民用外溢。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
 > - **1993 — 新旧使命对比理论化** 索特与阿伦德尔（Soete & Arundel, 1993）首次系统对比了传统国防航天使命与以环境社会挑战为中心的新型使命政策。
 > - **2012 — [[Transformative System Failures|变革性系统失灵]]框架提出** Weber & Rohracher（2012）提出涵盖方向性、需求表达、[[Reflexivity|反思性]]与跨层级协调的四类系统失灵，为新一代使命政策奠定理论基石。
 > - **2018 — 欧盟[[Horizon Europe|地平线欧洲]]战略确立与 ROAR 框架** [[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）提出[[Market Shaping and Creating|市场塑造]]、[[Picking the Willing|挑选意愿者]]机制与 ROAR [[Analytic Framework|分析框架]]，推动使命导向框架进入欧盟科研创新顶层设计。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]

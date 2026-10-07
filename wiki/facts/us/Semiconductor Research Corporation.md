@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Public-Private Partnership in Research]]"
   - "[[Research Universities]]"
   - "[[Attrition]]"
+  - "[[Total War]]"
   - "[[Precompetitive Research]]"
   - "[[Paradigm]]"
   - "[[Innovation Ecosystem]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-10-06
+updated: 2026-10-08
 ---
 
 # Semiconductor Research Corporation
@@ -99,7 +100,7 @@ updated: 2026-10-06
 ## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
-> - **理事会（Board of Directors）** 由成员企业高级研发副总裁（如 Intel、IBM、[[Taiwan Semiconductor Manufacturing Corporation|TSMC]]、TI、Qualcomm 等）组成，依据全行业中长期技术路线图审定总体战略方向与跨计划预算分配。
+> - **理事会（Board of Directors）** 由成员企业高级研发副总裁（如 Intel、IBM、[[Taiwan Semiconductor Manufacturing Corporation|TSMC]]、TI、Qualcomm 等）组成，依据全行业中长期技术路线图审定[[Total War|总体战]]略方向与跨计划预算分配。
 > - **科学顾问委员会（Science Advisory Board）** 由高校顶尖学者与国家实验室首席科学家组成，负责学科前沿洞察、技术前瞻论坛研讨与跨领域评审标准制定。
 > - **行业导师与联络员机制（Industrial Liaisons & Mentors）** 每项资助课题均配备来自不同出资企业的 2 至 3 名资深工程师担任产业导师，每月跟踪进展、派驻指导并提供工业级测试数据支持。
 > - **大学研究团队与研究生学者（SRC Scholars）** 资助覆盖教授、博士后及博士研究生，以科研项目为纽带形成直通工业界的顶尖人才蓄水池。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 245–251)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]

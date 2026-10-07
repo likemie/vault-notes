@@ -113,7 +113,7 @@ updated: 2026-10-07
 ## 理论来源与形成
 
 > [!theory-origin] 理论渊源与思想演进
-> - **理论先驱** [[Friedrich List|弗里德里希·李斯特]]（Friedrich List, 1841）对古典物质资本观的批判奠定了演化经济学关于无形[[Intellectual Capital|智力资本]]跨代积累与国家生产力思想的深层先声；[[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter）的“[[Creativity|创造性]]破坏”（[[Creative Destruction]]）理论奠定了创新作为资本主义动态引擎的核心地位；赫伯特·西蒙（[[Herbert A. Simon|Herbert Simon]]）的[[Bounded Rationality|有限理性]]（Bounded Rationality）理论打破了完全理性的最大化[[Hypothesis|假设]]；生物演化论提供了“变异–选择–保留”（Variation-Selection-Retention）的演化隐喻。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–6)]]
+> - **理论先驱** [[Friedrich List|弗里德里希·李斯特]]（Friedrich List, 1841）对古典物质资本观的批判奠定了演化经济学关于无形[[Intellectual Capital|智力资本]]跨代积累与国家生产力思想的深层先声；[[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter）的“[[Creativity|创造性]]破坏”（[[Creative Destruction]]）理论奠定了创新作为资本主义动态引擎的核心地位；[[Herbert A. Simon|赫伯特·西蒙]]（[[Herbert A. Simon|Herbert Simon]]）的[[Bounded Rationality|有限理性]]（Bounded Rationality）理论打破了完全理性的最大化[[Hypothesis|假设]]；生物演化论提供了“变异–选择–保留”（Variation-Selection-Retention）的演化隐喻。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–6)]]
 > - **奠基著作** [[Richard Nelson|理查德·纳尔逊]]与西德尼·温特（Nelson & Winter, 1982）出版里程碑著作《经济变迁的演化理论》（*An Evolutionary Theory of Economic Change*），系统确立了以“组织惯例（Organizational Routines）”替代边际最优、以“市场选择”替代均衡出清的微观–中观演化[[Paradigm|范式]]。
 > - **中观拓展与技术范式** 乔瓦尼·多西（Dosi, 1982, 1988）提出技术[[Paradigm|范式]]（Technological Paradigms）与[[Technological Trajectories|技术轨迹]]（Technological Trajectories），基思·帕维特（[[Argument_Pavitt_1984_RP|Pavitt, 1984]]）构建了产业创新分类学，将演化逻辑[[Operationalization|操作化]]为中观产业分析工具。
 > - **技术差距与后发赶超模型** 波斯纳（Posner, 1961）、弗里曼（Freeman, 1963, 1965）与法格伯格（Fagerberg, 1987, 1988）构建技术差距（Technology Gaps）与模仿滞后模型，证明跨国增长分化取决于本土知识积累，打破了新古典要素禀赋自发趋同假说。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8)]]

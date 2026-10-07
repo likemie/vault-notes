@@ -6,7 +6,7 @@ aliases:
 summary: "Sakwa 提出的概念，指以自由主义普遍主义和反多元立场为基础、支持干预主义和政权更迭的国际主义取向。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 6
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,10 +17,12 @@ tags:
 related_concepts:
   - "[[Sovereign Internationalism]]"
   - "[[Classical Geopolitics]]"
+  - "[[Hard Power]]"
   - "[[Interventionist Strategy]]"
   - "[[Discourse]]"
 related_theories:
   - "[[Pluralism]]"
+  - "[[End of History Thesis]]"
 related_methods: []
 related_persons: []
 related_facts: []
@@ -48,7 +50,7 @@ updated: 2026-10-07
 
 > [!example]
 > - vs [[Sovereign Internationalism]] — 主权国际主义容忍文明差异和多元政治制度，以不干涉为核心原则；激进自由国际主义则以西方规范评估所有社会并否定非自由政权的合法性。Sakwa（2023）将二者的关系描述为：后者是前者在冷战后的替代形态([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 14]])
-> - vs [[Classical Geopolitics\|古典地缘政治]] — 古典地缘政治以硬实力和领土控制为中心；激进自由国际主义则以普世价值和意识形态扩张为中心。但二者共享"西方优越"的基本预设
+> - vs [[Classical Geopolitics\|古典地缘政治]] — 古典地缘政治以[[Hard Power|硬实力]]和领土控制为中心；激进自由国际主义则以普世价值和意识形态扩张为中心。但二者共享"西方优越"的基本预设
 
 ---
 
@@ -57,7 +59,7 @@ updated: 2026-10-07
 > [!note]-
 > Sakwa（2023）将演变追溯为三个步骤：
 > - **1945 年** 宪章国际体系建立，以 [[Sovereign Internationalism\|主权国际主义]] 为核心理念，容忍多元政治制度
-> - **冷战后** 美国例外论取代[[Pluralism|多元主义]]，激进自由国际主义成为主导——Fukuyama（1992）"历史终结论"是其理论宣言
+> - **冷战后** 美国例外论取代[[Pluralism|多元主义]]，激进自由国际主义成为主导——Fukuyama（1992）"[[End of History Thesis|历史终结论]]"是其理论宣言
 > - **2000 年代后** 演变为英美"基于规则的秩序"，Marginson 指出这一"秩序"从未成为全球共识——"它是一个霸权集团的信条，其拥护者假定自身在所有方面均具有优越性"([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 14]])
 >
 > Marginson 进一步评论，这种征伐式自由主义令人联想到 19 世纪英国帝国主义——后者以自我定义的"文明标准"为由要求世界主导权。
@@ -70,7 +72,7 @@ updated: 2026-10-07
 > - **美国例外论** — 以美国价值和制度为普世标准，不承认其他政治体系的合法性([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 14]])
 > - **"基于规则的秩序"** — 从未成为全球共识的标准，而是一个霸权集团的信条，其拥护者假定自身在所有方面优越
 > - **[[Interventionist Strategy\|干预主义策略]]** — 支持基于人道主义目标和政权更迭的干预。Marginson 指出，这种征伐式自由主义令人联想到 19 世纪英国帝国主义
-> - **对非自由政权的排斥** — Fukuyama（1992）在《历史的终结与最后之人》中宣称西方自由民主为最终政府形式。Marginson 引 Heather & Rapley（2023）的评价："这在当时听来已是傲慢，今天看来则属妄想"([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 15]])
+> - **对非自由政权的排斥** — Fukuyama（1992）在《[[End of History Thesis|历史的终结]]与最后之人》中宣称西方自由民主为最终政府形式。Marginson 引 Heather & Rapley（2023）的评价："这在当时听来已是傲慢，今天看来则属妄想"([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 15]])
 
 ---
 

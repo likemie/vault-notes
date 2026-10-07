@@ -6,15 +6,15 @@ aliases:
   - Vannevar Bush report
   - 无尽的前沿
   - 布什报告
-summary: "1945 年万尼瓦尔·布什向美国总统提交的划时代科技政策报告，确立二战后联邦资助大学基础研究的科学社会契约原型，促成 NSF 成立与多元分布式资助网络奠基；其单向线性模型与二分法在主导西方科技治理八十年后，于2026年被白宫战略报告系统对照并重构。"
+summary: "1945 年万尼瓦尔·布什向美国总统提交的划时代科技政策报告，确立二战后联邦资助大学基础研究的科学社会契约原型与技术共和国制度基石，促成 NSF 成立与多元分布式资助网络奠基；其单向线性模型在主导西方科技治理八十年后，于2026年被白宫战略报告系统重构。"
 type: fact
 subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 47
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
+fact_related_count: 53
+fact_related_level: 6
+fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
 tags:
   - region/us
@@ -24,6 +24,7 @@ tags:
   - theme/innovation
   - theme/research-classification
 related_concepts:
+  - "[[Technological Republic]]"
   - "[[Basic-Applied Research Dichotomy]]"
   - "[[Linear Model of Innovation]]"
   - "[[Paradigm]]"
@@ -54,25 +55,30 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
+  - "[[Franklin D. Roosevelt]]"
   - "[[Michael Kratsios]]"
   - "[[Chris Freeman]]"
 related_facts:
   - "[[Office of Scientific Research and Development]]"
   - "[[National Science Foundation]]"
+  - "[[Manhattan Project]]"
   - "[[MIT Radiation Laboratory]]"
   - "[[Office of Naval Research]]"
   - "[[National Institutes of Health]]"
   - "[[President's Science Advisory Committee]]"
+  - "[[ARPANET]]"
   - "[[NSF Broader Impacts Criterion]]"
   - "[[CHIPS and Science Act]]"
   - "[[Office of Science and Technology Policy]]"
   - "[[Science A New Golden Age 2026]]"
   - "[[Genesis Mission]]"
+  - "[[DARPA]]"
   - "[[OECD]]"
   - "[[Frascati Manual]]"
 related_arguments:
   - "[[Argument_Narayanamurti_2013_IST]]"
   - "[[Argument_Fan_2026_BCAS]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Stephan_2013_NBER]]"
@@ -80,7 +86,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-26
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Science, The Endless Frontier 1945
@@ -90,13 +96,13 @@ updated: 2026-10-07
 ## 背景与历史成因
 
 > [!claim] 核心定性
-> 《科学：无止境的前沿》（*Science, The Endless Frontier*）是美国[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（[[Office of Scientific Research and Development]], OSRD）主任[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）于 1945 年 7 月向哈里·S·杜鲁门（Harry S. Truman）总统提交的划时代科技政策报告。该报告构成了二战后美国国家科研资助体制的基石宪章与[[Social Contract of Science|科学社会契约]]原型，确立了“政府出资、科学自治与长期公共回报”的三位一体体制，催生了国家科学基金会（[[National Science Foundation]], NSF）与多元分布式资助网络，并在政策分类上制度化了[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]与单向[[Linear Model of Innovation|线性创新模型]]。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
+> 《科学：无止境的前沿》（*Science, The Endless Frontier*）是美国[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（[[Office of Scientific Research and Development]], OSRD）主任[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）于 1945 年 7 月向哈里·S·杜鲁门（Harry S. Truman）总统提交的划时代科技政策报告。该报告构成了二战后美国国家科研资助体制的基石宪章与[[Social Contract of Science|科学社会契约]]原型，亦是美国[[Technological Republic|技术共和国]]政产学研协同动员模式的总体蓝图；确立了政府出资、科学自治与长期公共回报的三位一体体制，催生了国家科学基金会（[[National Science Foundation]], NSF）与多元分布式资助网络，并在政策分类上制度化了[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]与单向[[Linear Model of Innovation|线性创新模型]]。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
 
 > [!event-context] 事件背景档案
-> - **时间跨度 / 空间地理** 1944 年 11 月（罗斯福总统致信垂询）至 1945 年 7 月（正式提交报告），美国华盛顿特区。
+> - **时间跨度 / 空间地理** 1944 年 11 月（[[Franklin D. Roosevelt|罗斯福总统]]致信垂询）至 1945 年 7 月（正式提交报告），美国华盛顿特区。
 > - **核心当事主体** 富兰克林·D·罗斯福（Franklin D. Roosevelt）总统、哈里·S·杜鲁门总统、万尼瓦尔·布什及由学术界、工业界和医学界领袖组成的四个专家咨询委员会。
-> - **深层制度背景** 二战期间，以曼哈顿工程与[[MIT Radiation Laboratory|麻省理工学院辐射实验室]]（雷达技术）为代表的战时科研取得了决定性突破，但此类研究属于临时保密动员体制；战争临近终结，美国亟需建立平民化、常态化的国家科研支持框架。
-> - **直接触发事件** 1944 年 11 月 17 日，罗斯福总统致信布什，提出四项关键国家课题：战时医学知识如何造福和平时期、政府如何继续支持公共与私营科研、如何发掘并培育青年科学天才，以及如何将战时军用科学知识有序解密并转化为民用经济福祉。
+> - **深层制度背景** 二战期间，以[[Manhattan Project|曼哈顿工程]]与[[MIT Radiation Laboratory|麻省理工学院辐射实验室]]（微波雷达技术）为代表的战时科研取得了决定性突破；1942年《科利尔》（*Collier's*）杂志向近三百万读者称布什为“可能赢得战争的人”，标志着科学家被置于国家防卫的核心。战争临近终结，美国亟需将临时军事动员体制转化为常态化、平民化的国家科研支持框架。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
+> - **直接触发事件** 1944 年 11 月 17 日，罗斯福总统在华盛顿特区致信布什，提出四项关键国家课题：战时医学知识如何造福和平时期、政府如何继续支持公共与私营科研、如何发掘并培育青年科学天才，以及如何将那些受战事冲击而剧烈打乱科研轨迹的物理学家和工程师重新导向民用科学进步与和平时期的国家建设。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
 
 ---
 
@@ -105,7 +111,7 @@ updated: 2026-10-07
 > [!dev-timeline] 报告编制与契约演变历程
 > - **1944–1945 — 战时动员与报告起草呈递** [[Vannevar Bush|万尼瓦尔·布什]]组织四个独立专门委员会（医学研究、自然科学资助、人才发现、战时知识解密）开展起草；1945 年 7 月将报告《科学——无止境的边疆》呈交继任总统杜鲁门，将战时研发合同经验升华为国家科学资助蓝图。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1057–1058)]]
 > - **1945–1950 — 五年立法博弈与多元分布式资助网络奠基** 布什主张设立由非政府科学家独立掌控的半自治基金会，而杜鲁门行政团队坚持总统任免权与公众民主监督问责，杜鲁门于 1947 年否决首版法案。在立法僵局期间，原子能委员会（AEC）、[[Office of Naval Research|海军研究办公室]]（ONR）与国立卫生研究院（[[National Institutes of Health|NIH]]）先行启动大学科研资助，直至 1950 年双方妥协成立国家科学基金会（[[National Science Foundation|NSF]]），形成了多机构并行的分布式资助网络。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
-> - **1950s–1980s — 冷战安全驱动下的契约黄金期与二分法[[Paradigm|范式]]固化** 美苏对抗将国家安全确立为资助科学的统摄性合法性来源，科学家精英通过[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）直接参与最高国策；1957 年苏联人造卫星危机后迎来经费高速增长，二分法与单向线性范式成为联邦预算编制的黄金法则。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]
+> - **1950s–1980s — 冷战安全驱动下的契约黄金期与二分法[[Paradigm|范式]]固化** 美苏对抗将国家安全确立为资助科学的统摄性合法性来源，科学家精英通过[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）直接参与最高国策；1957 年苏联人造卫星危机后迎来经费高速增长，二分法与单向线性范式成为联邦预算编制的黄金法则，直接催生了[[ARPANET|阿帕网]]、早期人工智能与硅谷半导体微电子革命的底层硬件基础。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
 > - **1990s–2000s — 冷战终结、赤字攀升与[[Pasteur's Quadrant|巴斯德象限]]的再签约妥协** 安全红利消退与财政紧缩迫使科学界回应经济回报与社会问责诉求；唐纳德·斯托克斯（1997）提出[[Pasteur's Quadrant|巴斯德象限]]，确立用启发性基础研究的合法性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 > - **2010–2024 — 刚性绩效问责与[[Research Security|科研安全]]壁垒** GPRAMA 法案出台与 NSF 强化“更广泛的影响”（[[NSF Broader Impacts Criterion|Broader Impacts]]）评审门槛，叠加生物医学[[Reproducibility Crisis|可重复性危机]]与《[[CHIPS and Science Act|芯片与科学法案]]》，终结了基础科学无需自证的免检地位。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060–1061)]]
 > - **2026 — 八十年后的系统对照与体制重构** 2026 年 7 月 21 日，[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（OSTP）主任[[Michael Kratsios|迈克尔·克拉齐奥斯]]呈交《[[Science A New Golden Age 2026|科学：新的黄金时代]]》，全面对照 1945 年布什报告；文本保留了公共资助基础科学的核心合法性，但宣告单向分工管道彻底失真，系统开启向组合资助、新型组织、本土制造转化与生成核验协同的新时代重构。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. v–ix, 5–7)]]
@@ -167,9 +173,10 @@ updated: 2026-10-07
 > [!finding-cards] 关键历史后果
 > 1. **制度创生：[[National Science Foundation|NSF]] 与现代大学研究体系** 1950 年正式创建国家科学基金会；推动大学实验室形成全球最具规模的基础科学探索网络，为大学-政府-产业三螺旋奠定财政基座。
 > 2. **制度承载：多元分布式资助网络的确立** 布什设想的中央科学基金虽经历立法妥协，但其倡导的契约逻辑最终被嵌入由 AEC、[[Office of Naval Research|ONR]]、[[National Institutes of Health|NIH]] 与 NSF 共同构成的分布式资助网络，避免了单一行政中枢对学术探索的垄断。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
-> 3. **[[Discourse|话语]]规制：二分法成为全球政策标准** [[OECD|经合组织]]（OECD）等国际组织在其《[[Frascati Manual|弗拉斯卡蒂手册]]》中全面吸收布什报告的基础/应用划分，成为全球统计研发投入的通用准绳。
-> 4. **意外后果：大学微观激励异化与体制压力** 布什关于高风险容错、独立学生奖学金与学科均衡发展的三大设想在大学后续的主动改造中被逐步侵蚀，演变为软钱教职、博士用工依赖与生物医学过度集中。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 37)]]
-> 5. **当代[[Paradigm|范式]]更替：2026 年《[[Science A New Golden Age 2026|科学：新的黄金时代]]》** 2026 年 7 月白宫战略报告正式宣告布什单向分工模型终结，确立组合式资助、新型科研组织（[[Focused Research Organization|FRO]]）、本土制造承接与生成核验协同体系，开启后布什时代国家科技体制的全面重组。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–7, 20–72)]]
+> 3. **[[Technological Republic|技术共和国]]的制度基石** 报告确立的联邦科研合同外包模式，开创了冷战时期国防安全需求与前沿计算突破紧密结盟的传统，为 [[DARPA|ARPA]]、[[ARPANET|阿帕网]]以及硅谷微电子革命提供了最关键的制度母体与公共资金孵化机制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5, 7)]]
+> 4. **[[Discourse|话语]]规制：二分法成为全球政策标准** [[OECD|经合组织]]（OECD）等国际组织在其《[[Frascati Manual|弗拉斯卡蒂手册]]》中全面吸收布什报告的基础/应用划分，成为全球统计研发投入的通用准绳。
+> 5. **意外后果：大学微观激励异化与体制压力** 布什关于高风险容错、独立学生奖学金与学科均衡发展的三大设想在大学后续的主动改造中被逐步侵蚀，演变为软钱教职、博士用工依赖与生物医学过度集中。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 37)]]
+> 6. **当代[[Paradigm|范式]]更替：2026 年《[[Science A New Golden Age 2026|科学：新的黄金时代]]》** 2026 年 7 月白宫战略报告正式宣告布什单向分工模型终结，确立组合式资助、新型科研组织（[[Focused Research Organization|FRO]]）、本土制造承接与生成核验协同体系，开启后布什时代国家科技体制的全面重组。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–7, 20–72)]]
 
 ---
 
@@ -183,6 +190,7 @@ updated: 2026-10-07
 > > - **传统正统史学视角** 布什报告在冷战前夕成功捍卫了科学研究的自主性与纯洁性，将科学家从政治官僚的微观指令中解放出来，为美国奠定了长达数十年的前沿科技霸权。
 > > - **修正派与批判史学视角（[[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]]）** 布什的二分法是一种精明的政治修辞契约——用“纯基础科学会自然带来财富”的不可[[Falsification|证伪]]承诺来套取无附带条件的国会拨款，其实质是以身心二元文化偏见掩盖了工程发明在孕育科学中的决定性使能作用。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
 > > - **契约维系论（[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008]]）** 强调布什报告的核心突破在于确立了“联邦出资支持大学基础研究符合国家根本利益”的宪章共识，战后系统的成功高度依赖于同行评议与研究生培养的共生机制。
+> > - **地缘战略动员视角（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska, 2025]]）** 卡普与扎米斯卡强调，布什报告最根本的历史意义在于将顶尖科学家与工程师确立为国家民主制度生存与防卫的中枢，构筑了国家战略目标与前沿科研探索高度互信的动员体制，这一体制是西方赢得冷战并在先进计算与半导体领域取得霸权的核心支柱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5, 7, 15)]]
 >
 > > [!axis] 单向线性科学促增长 vs. 演化[[Systems of Innovation|创新系统]]学习
 > > 高额的基础与应用研发支出是否能自发转化为国家产业[[Competitiveness|竞争力]]？
@@ -205,6 +213,8 @@ updated: 2026-10-07
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[National Science Foundation]] | 事实 | 报告直接推动建立的美国联邦基础科学最高资助机构。 |
+> | [[Technological Republic]] | 概念 | 报告所奠定的国家战略防卫与前沿科技共同体紧密结盟的体制形态。 |
+> | [[Office of Scientific Research and Development]] | 事实 | 报告编制的组织依托机构，布什战时科研合同经验的策源地。 |
 > | [[Office of Naval Research]] | 事实 | 在战后五年立法真空期率先实践布什契约原则的海军资助机构。 |
 > | [[National Institutes of Health]] | 事实 | 战后多元分布式资助网络中承担健康使命导向的另一关键支柱。 |
 > | [[Science A New Golden Age 2026]] | 事实 | 2026 年 7 月由白宫 [[Office of Science and Technology Policy\|OSTP]] 呈交总统的全面对照布什报告的八十年继任战略文本。 |
@@ -220,6 +230,7 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》第一章，探讨 1944 年罗斯福致信布什的历史脉络、科学家在民主防卫中的崇高地位及战后技术共和国契约的建立。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 2026 年白宫战略报告，全面对照 1945 年布什报告，肯定其公共资助核心，同时宣告单向管道终结，提出四大支柱与 2028 财年研发预算优先序。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 系统剖析布什《科学——无止境的边疆》所确立的三大制度性承诺，揭示 2025 年起美国科技政策实践启动对布什契约的退出与结构性转型。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统反思并批判布什报告在战后制度化的[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]，提出[[Discovery-Invention Cycle|发现-发明循环]]理论。

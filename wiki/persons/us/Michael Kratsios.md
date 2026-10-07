@@ -7,7 +7,7 @@ summary: "美国当代科技政策制定者与战略管理者，曾任美国第4
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -61,11 +61,12 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Vannevar Bush]]"
+  - "[[Peter Thiel]]"
   - "[[Donald Stokes]]"
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Michael Kratsios
@@ -139,7 +140,7 @@ updated: 2026-10-07
 
 > [!person-network] 关系网络
 > - **政治委托人** 唐纳德·特朗普（Donald J. Trump） — 担任其白宫 CTO、科学顾问兼 [[Office of Science and Technology Policy|OSTP]] 主任，直接承接并执行其国家科技体制重构委托。
-> - **思想渊源与同行** 彼得·蒂尔（Peter Thiel） — 早年在 Thiel Capital 担任重要幕僚，深受其关于打破科技停滞、重振物理实体创新的技术哲学影响。
+> - **思想渊源与同行** [[Peter Thiel|彼得·蒂尔]]（Peter Thiel） — 早年在 Thiel Capital 担任重要幕僚，深受其关于打破科技停滞、重振物理实体创新的技术哲学影响。
 > - **历史对照坐标** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush） — 1945 年[[Science, The Endless Frontier 1945|布什报告]]的 2026 年继任者与对话者，在继承其公共资助核心的同时系统清算其组织与分工结论。
 > - **理论分析透镜** [[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes） — 报告全面采纳其[[Pasteur's Quadrant|巴斯德象限]]作为替代线性模型的根本[[Analytic Framework|分析框架]]。
 > - **核心关联机构与文本** [[Office of Science and Technology Policy]]、[[Science A New Golden Age 2026]]、[[Science, The Endless Frontier 1945]]、[[Genesis Mission]]。

@@ -8,7 +8,7 @@ summary: "美国哲学家、社会心理学家与社会学家，实用主义哲�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -51,6 +51,7 @@ related_persons:
   - "[[Michael Gove]]"
   - "[[John Dewey]]"
   - "[[Horace Mann]]"
+  - "[[Erving Goffman]]"
 related_facts:
   - "[[CREATES Project]]"
 related_arguments:
@@ -61,7 +62,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # George Herbert Mead
@@ -155,7 +156,7 @@ updated: 2026-10-02
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 思想经赫伯特·布鲁默（Herbert Blumer）提炼为“[[Symbolic Interactionism\|符号互动论]]”学派，并启发了埃尔温·[[Michael Gove\|戈夫]][[Horace Mann\|曼]]（Erving Goffman）的拟剧论（Dramaturgy）与霍华德·贝克尔（Howard S. Becker）的标签理论（Labeling Theory），成为社会学[[Interpretive Paradigm\|诠释范式]]最具活力的脉系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
+> - **理论路径** 思想经赫伯特·布鲁默（Herbert Blumer）提炼为“[[Symbolic Interactionism\|符号互动论]]”学派，并启发了埃尔温·[[Michael Gove\|戈夫]][[Horace Mann\|曼]]（[[Erving Goffman]]）的拟剧论（Dramaturgy）与霍华德·贝克尔（Howard S. Becker）的标签理论（Labeling Theory），成为社会学[[Interpretive Paradigm\|诠释范式]]最具活力的脉系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 > - **方法路径** 为学校微观[[Ethnography\|民族志]]、师生课堂互动分析提供了观察互动的概念工具（定义情境、角色协调、协商过程），并为[[Grounded Theory\|扎根理论]]（Glaser & Strauss）与质性探究[[Paradigm\|范式]]提供了微观[[Epistemology\|认识论]]辩护。
 > - **跨领域与课程传播** 1990年代被芬兰教育学者[[Transfer Translation Transformation\|转译]]为“[[Pragmatic Constructivism\|实用主义建构主义]]”，直接作为芬兰跨学科[[Phenomenon-Based Learning\|现象本位学习]]（PhBL）的核心课程与心理学基础。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 7–8]]
 

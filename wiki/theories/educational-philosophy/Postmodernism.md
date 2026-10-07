@@ -7,7 +7,7 @@ aliases:
 summary: "反抗启蒙现代性与实证主义决定论的思想思潮；在教育研究中解构宏大元叙事，肯定断裂、差异与本土微观情境，揭示知识的社会建构性与权力纽带，并以变色龙般的亲和性连接诠释范式、复杂性理论与批判理论。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 46
+theory_related_count: 47
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Analytical Stance]]"
 related_theories:
+  - "[[Legitimation Crisis]]"
   - "[[Post-structuralism]]"
   - "[[Complexity Theory]]"
   - "[[Critical Theory]]"
@@ -81,7 +82,7 @@ updated: 2026-10-07
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 现代性[[Knowledge Production|知识生产]]的合法化危机、教育体制中的宏大[[Grand Theory|元叙事]]霸权、微观课堂中的[[Discourse|话语]]博弈、多重共存实在与边缘群体的异质声音。
+> - **解释对象** 现代性[[Knowledge Production|知识生产]]的[[Legitimation Crisis|合法化危机]]、教育体制中的宏大[[Grand Theory|元叙事]]霸权、微观课堂中的[[Discourse|话语]]博弈、多重共存实在与边缘群体的异质声音。
 > - **理论问题** 彻底解构启蒙现代性对普遍理性、线形进步与客观科学定律的绝对崇拜，反抗[[Positivism|实证主义]]将复杂人类行动还原为机械因果法则的确定性幻觉。
 > - **理论类型** 文化与哲学批判思潮、去中心化的[[Epistemology|认识论]]框架、兼具解构与赋权功能的方法论取向。
 > - **知识位置** 20 世纪中后期发轫于法国[[Post-structuralism|后结构主义]]与欧美文化哲学；以[[Jean-François Lyotard|让-弗朗索瓦·利奥塔]]（[[Jean-François Lyotard]]）与弗雷德里克·詹姆逊（Fredric Jameson）为核心思想源流；在教育研究中以“变色龙”般的亲和性深度连接[[Interpretive Paradigm|诠释范式]]、[[Complexity Theory|复杂性理论]]与[[Critical Theory|批判理论]]。

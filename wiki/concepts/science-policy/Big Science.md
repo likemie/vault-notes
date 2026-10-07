@@ -7,7 +7,7 @@ aliases:
 summary: "以国家战略意志为导向、依赖巨额公共财政与集中式国家实验室攻关突破性物理与工程极限的科研组织范式；在冷战技术使命中奠定强大物理突破力，但在复杂社会挑战中遭遇制度局限；在当代演进为兼具超级算力、闭环自主实验室、中等规模聚焦研究组织（FRO）与大规模前竞争产学研联合体的分布式创新基础设施。"
 type: concept
 domain: "science-policy"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -55,6 +55,7 @@ related_facts:
   - "[[NSF X-Labs]]"
   - "[[Genesis Mission]]"
   - "[[DARPA]]"
+  - "[[Manhattan Project]]"
   - "[[Apollo Program]]"
   - "[[Chinese Academy of Sciences]]"
   - "[[National Science Foundation]]"
@@ -146,7 +147,7 @@ updated: 2026-10-07
 > 探讨大[[Scientific Paradigm|科学范式]]的适用边界与制度局限。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]]
-> **物理目标与社会[[Wicked Problem|棘手问题]]的[[Incommensurability|不可通约性]]** 正如阿尔温·温伯格（Alvin Weinberg, 1967）所警示的，大科学模式的巨大成功依托于其攻关目标在物理和工程层面的清晰界定性；当政策制定者试图复制曼哈顿工程或[[Apollo Program|阿波罗计划]]的集权模式来解决贫困、城市衰败或绿色转型等社会问题时，由于这些问题深深嵌入人类价值观念、生活习惯与利益博弈中，封闭集权的大科学[[Paradigm|范式]]必然因缺乏社会响应性与敏捷互动而失效。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 794–795)]]
+> **物理目标与社会[[Wicked Problem|棘手问题]]的[[Incommensurability|不可通约性]]** 正如阿尔温·温伯格（Alvin Weinberg, 1967）所警示的，大科学模式的巨大成功依托于其攻关目标在物理和工程层面的清晰界定性；当政策制定者试图复制[[Manhattan Project|曼哈顿工程]]或[[Apollo Program|阿波罗计划]]的集权模式来解决贫困、城市衰败或绿色转型等社会问题时，由于这些问题深深嵌入人类价值观念、生活习惯与利益博弈中，封闭集权的大科学[[Paradigm|范式]]必然因缺乏社会响应性与敏捷互动而失效。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 794–795)]]
 
 ---
 

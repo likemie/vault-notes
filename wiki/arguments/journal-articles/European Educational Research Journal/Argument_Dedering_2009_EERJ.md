@@ -30,6 +30,7 @@ related_concepts:
   - "[[Output-Oriented Governance]]"
   - "[[Document]]"
   - "[[Champ]]"
+  - "[[Total War]]"
   - "[[Academic Achievement]]"
   - "[[Evaluation Research]]"
   - "[[School Inspection]]"
@@ -67,9 +68,9 @@ title: "Argument_Dedering_2009_EERJ"
 argument_key: "Argument_Dedering_2009_EERJ"
 argument_display_title: "Evidence-Based Education Policy: Lip service or common practice? Empirical findings from Germany"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "European Educational Research Journal"
 book_title: ""
@@ -162,7 +163,7 @@ issuing_organization: ""
 
 德国由 16 个联邦州组成，各州享有宪法保障的文化与教育自主权（Kulturhoheit der Länder）。长期以来，德国教育管理依赖行政法规与课程大纲等输入控制手段。自 20 世纪 90 年代末起，德国教育政策开启了向产出控制与实证评估转移的经验转向（Lange, 1999）。[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（Standing Conference of the Ministers of Education and Cultural Affairs, KMK，德语：Kultusministerkonferenz）随后于 2006 年确立了[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]，确立了跨国评估、国家教育标准集中测试、[[Vergleichsarbeiten|校际比较测试]]（Vergleichsarbeiten, VERA，包含小学 3 年级测试 VERA-3 与初中 8 年级测试 VERA-8）与统一教育报告四大支柱。在 [[Evidence-Based Education|循证教育]]政策的推动下，实证数据被视为优化行政管理与提高办学效能的法定基石。（pp. 484–485）
 
-> [!policy-context] 德国教育治理从输入规制向国家监测总体战略的转型
+> [!policy-context] 德国教育治理从输入规制向国家监测[[Total War|总体战]]略的转型
 > - **文化主权与跨州协同** 16 个联邦州具有独立的学制、行政传统与政策目标，KMK 承担着在维持联邦弹性的同时制定跨州统一质量标准的最高协调职责。（pp. 484, 495）
 > - **PISA 震荡的冲击** 2001 年 12 月（国际比较）与 2002 年 6 月（跨州比较）公布的 PISA 2000 结果表明德国学生均分低于[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）平均水平且社会背景对[[Academic Achievement\|学业成绩]]影响显著，在全德引发了广泛的公众危机与政策争论（PISA 震荡）。（pp. 487–488）
 

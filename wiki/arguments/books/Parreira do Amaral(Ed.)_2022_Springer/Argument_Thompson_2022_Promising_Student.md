@@ -11,7 +11,7 @@ title: "Argument_Thompson_2022_Promising_Student"
 argument_key: "Argument_Thompson_2022_Promising_Student"
 argument_display_title: "Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University"
 argument_kind: "book"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -54,6 +54,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
 related_persons:
+  - "[[Alfred Nobel]]"
   - "[[Immanuel Kant]]"
 related_facts:
   - "[[German Excellence Initiative]]"
@@ -107,7 +108,7 @@ citation_aliases:
 
 但这里有一个不对称：大学吸引"最好的研究人员"的策略相对明确——研究经费、实验室、薪资——而吸引"最好的学生"则不同。学生的选择会影响他们自身的表现：大学需要找到的不是已经证明自己优秀的学生，而是"最有潜力的"（promising）学生——即那些被期望在**未来**表现出色的学生(p.218)。
 
-> 例：一所大学招募一位诺贝尔奖得主——这个决策的风险在于"他是否还持续高产出"。同样这所大学录取一位高中生——风险在于"她是否会在未来四年中成功完成学位，甚至成为杰出校友"。前者的信息已在论文和引用中可见；后者的大部分信息还在未来。这就是"有前景"概念的独特之处——它关于未来的承诺而非过去的记录。
+> 例：一所大学招募一位[[Alfred Nobel|诺贝尔]]奖得主——这个决策的风险在于"他是否还持续高产出"。同样这所大学录取一位高中生——风险在于"她是否会在未来四年中成功完成学位，甚至成为杰出校友"。前者的信息已在论文和引用中可见；后者的大部分信息还在未来。这就是"有前景"概念的独特之处——它关于未来的承诺而非过去的记录。
 
 ### 第二步：竞争性大学的地缘政治装置
 

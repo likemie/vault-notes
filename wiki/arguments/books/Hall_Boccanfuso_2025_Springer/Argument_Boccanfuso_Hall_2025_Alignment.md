@@ -43,6 +43,8 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Case Study]]"
 related_persons:
+  - "[[Alfred Nobel]]"
+  - "[[J. Robert Oppenheimer]]"
   - "[[Vannevar Bush]]"
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
@@ -51,6 +53,7 @@ related_facts:
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Smith Lever Act of 1914]]"
   - "[[California Master Plan for Higher Education]]"
+  - "[[Manhattan Project]]"
   - "[[MIT Radiation Laboratory]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Bayh-Dole Act of 1980]]"
@@ -70,7 +73,7 @@ title: "Argument_Boccanfuso_Hall_2025_Alignment"
 argument_key: "Argument_Boccanfuso_Hall_2025_Alignment"
 argument_display_title: "Alignment, Engagement, and Public Benefits"
 argument_kind: "book"
-argument_related_count: 40
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -119,7 +122,7 @@ citation_aliases:
 
 **步骤 1：起点观察——创新发生在"界面"上**
 
-2024 年诺贝尔奖提供了一个醒目的起点：物理学奖表彰了神经网络的基础研究，化学奖授予了预测蛋白质结构的 AlphaFold 软件。物理学奖得主 Geoffrey Hinton 曾在 Google 工作十年；化学奖得主 Dennis Hassabis and John Jumper 通过 Google DeepMind 开发了 AlphaFold。这些获奖成果的共同特征是：它们都产生于大学与产业之间的"界面"（interface）——即大学和产业为共同目标而协作的中间地带(pp.3–4)。
+2024 年[[Alfred Nobel|诺贝尔]]奖提供了一个醒目的起点：物理学奖表彰了神经网络的基础研究，化学奖授予了预测蛋白质结构的 AlphaFold 软件。物理学奖得主 Geoffrey Hinton 曾在 Google 工作十年；化学奖得主 Dennis Hassabis and John Jumper 通过 Google DeepMind 开发了 AlphaFold。这些获奖成果的共同特征是：它们都产生于大学与产业之间的"界面"（interface）——即大学和产业为共同目标而协作的中间地带(pp.3–4)。
 
 > [!example]
 > 换句话说，如果 Hinton 从未进入 Google，或者 Hassabis and Jumper 不在 DeepMind 工作，这些获得诺贝尔奖的成果可能根本不会以同样的方式出现。这挑战了"基础研究只需要在大学里做"的传统[[Hypothesis\|假设]]。
@@ -257,7 +260,7 @@ citation_aliases:
 
 **步骤 12：二战后政府投资的催化作用**
 
-曼哈顿计划（由 UC Berkeley 教授 J. Robert Oppenheimer 领导）和 MIT [[MIT Radiation Laboratory|辐射实验室]]的雷达技术研究是二战后政府研发投资的直接先例。[[Vannevar Bush]] 的报告 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]](1945)强调了对基础开放式研究的战略投资的重要性。其后果包括：国家科学基金会（NSF）的创建，以及国防部对大学基础研究项目的支持。这三种力量——政府资助、大学研究和企业创新——构成了 [[Triple Helix]] 的反馈循环(p.13)。
+[[Manhattan Project|曼哈顿计划]]（由 UC Berkeley 教授 [[J. Robert Oppenheimer]] 领导）和 MIT [[MIT Radiation Laboratory|辐射实验室]]的雷达技术研究是二战后政府研发投资的直接先例。[[Vannevar Bush]] 的报告 [[Science, The Endless Frontier 1945|Science, The Endless Frontier]](1945)强调了对基础开放式研究的战略投资的重要性。其后果包括：国家科学基金会（NSF）的创建，以及国防部对大学基础研究项目的支持。这三种力量——政府资助、大学研究和企业创新——构成了 [[Triple Helix]] 的反馈循环(p.13)。
 
 ---
 
@@ -301,7 +304,7 @@ UIDP 的项目过程也值得注意：采用"[[Heilmeier Catechism]]"格式的�
 ## 主要发现
 
 > [!success]
-- 当代最前沿的科技创新——以 2024 年诺贝尔奖为代表——越来越多地发生在大学与产业的"界面"上，纯学术或纯企业环境难以单独产生同等影响力的突破(pp.3–4)
+- 当代最前沿的科技创新——以 2024 年[[Alfred Nobel|诺贝尔]]奖为代表——越来越多地发生在大学与产业的"界面"上，纯学术或纯企业环境难以单独产生同等影响力的突破(pp.3–4)
 - [[University-Industry Collaboration|产学合作]]的核心不是建立关系（relationships），而是建立有目的的、对齐的"参与"（engagement），通常以正式协议为框架(p.4)
 - 产学合作的回报可分为三大维度：研究与学术、教育与学习、公共效益，分别对应现代大学的多重使命(pp.4–5)
 - 大学和企业的目标既有交集也有分歧：交集在人才发展、经济增长和知识产权上；分歧在盈利能力与学术声誉上。大学的财务模式表明产业资助仅占大学研究支出的极小部分（<6%）(pp.5–7)

@@ -8,7 +8,7 @@ aliases:
 summary: "学习者在明确目标与支架支持下对自身学习过程主动承担责任、进行批判性反思与元认知调节的能力与意愿。在现代因果试验中，技术辅助的自主学习需与教师主导教学解耦并析因测量，缺乏支架的放任个别化易诱发认知负荷失控与弱势学童掉队。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Technology Infusion]]"
   - "[[Epistemological Vigilance]]"
+  - "[[Techno-Utopianism]]"
   - "[[Variable]]"
   - "[[International Schools]]"
   - "[[Emergence]]"
@@ -220,7 +221,7 @@ updated: 2026-10-07
 > > - **Atkins (2009) 与 Little (2007)** 提出“自主的相互依存性”，证明即使是最私密的独立阅读与思考，其反思尺度与意义赋予依然依存于课堂对话与公共批判共同体。
 >
 > > [!axis] 技术工具自主神话 vs 教师人际引领不可替代论
-> > 技术乌托邦主义宣称自适应算法软件可完全替代教师、实现百分之百的个性化自主学习；循证因果评估则证明了软件的边界。
+> > [[Techno-Utopianism|技术乌托邦主义]]宣称自适应算法软件可完全替代教师、实现百分之百的个性化自主学习；循证因果评估则证明了软件的边界。
 > >
 > > - **McNally et al. (2018) 与 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]** 实证证实，脱离教师辅导与[[Man-Computer Symbiosis|人机协同]]的纯粹软件自学成效极低，真正的高阶效应源于软件自主与教师[[Scaffolding\|教学支架]]的紧密嵌套。
 

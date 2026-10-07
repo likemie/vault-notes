@@ -7,7 +7,7 @@ aliases:
 summary: "由彼得·埃文斯提出的发展型国家能力核心概念，指国家官僚机构既具备不受狭隘特殊利益集团俘获的韦伯式精英功绩制自主性（Autonomy），又通过制度化网络与产业界、科学家及社会主体保持密集沟通与信息协同（Embeddedness）的辩证治理构型；在使命导向政策与 21 世纪现代产业战略中，构成了国家专业化执行机构（如芯片项目办公室）在深度掌握产业真实技术动态的同时维护公共价值与护栏约束的关键制度基石。"
 type: concept
 domain: "science-policy"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Consultocracy]]"
   - "[[Cognitive Deskilling]]"
   - "[[New Public Management]]"
+  - "[[Hard Power]]"
   - "[[Apprenticeship]]"
   - "[[Market Shaping and Creating]]"
   - "[[Directionality of Innovation]]"
@@ -58,7 +59,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Embedded Autonomy
@@ -109,7 +110,7 @@ updated: 2026-10-06
 > [!feature] 嵌入式自主性的四大互锁支柱
 > - **内生韦伯式科层自主性（Internal Weberian Autonomy）** 具备高素质功绩制公务员队伍、严密的利益冲突审查规则与崇高的公共使命感，形成抵御短期政商游说与寻租俘获的集体战略定力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 793)]]
 > - **制度化外部协同连接网络（Institutionalized External Ties）** 通过法定的工业顾问委员会、产学研中试联盟（如 [[National Science and Technology Council|NSTC]]）及跨部门工作组，与企业、科学家团队建立常态化信息交换机制。
-> - **专业化内部技术与金融谈判能力（In-house Technical & Financial Capabilities）** 21 世纪产业战略经验表明，政府必须设立专门机构（如芯片项目办公室 CPO、[[Loan Programs Office|能源部贷款项目办公室]] LPO），直接吸纳具备半导体制造与投融资实操经验的产业专家，使政府具备与跨国巨头展开对等尽调与商业谈判的硬实力。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 6–7)]]
+> - **专业化内部技术与金融谈判能力（In-house Technical & Financial Capabilities）** 21 世纪产业战略经验表明，政府必须设立专门机构（如芯片项目办公室 CPO、[[Loan Programs Office|能源部贷款项目办公室]] LPO），直接吸纳具备半导体制造与投融资实操经验的产业专家，使政府具备与跨国巨头展开对等尽调与商业谈判的[[Hard Power|硬实力]]。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 6–7)]]
 > - **[[Public Value|公共价值]]护栏与动态适应能力（Public Value Guardrails & Adaptive Governance）** 保持对补贴发放的严格条件约束（如禁止股票回购、超额利润分享、劳工[[Apprenticeship|学徒制]]标准与海外产能限制），并根据技术演进动态调整政策组合。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–10)]]
 
 > [!logic-map]- 嵌入式自主性在现代产业战略中的双向运行逻辑

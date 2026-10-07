@@ -4,7 +4,7 @@ title: "Argument_Narayanamurti_2013_IST"
 argument_key: "Argument_Narayanamurti_2013_IST"
 argument_display_title: "RIP: The basic/applied research dichotomy"
 argument_kind: "journal-articles"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#e5e7eb"
@@ -56,6 +56,7 @@ related_facts:
   - "[[National Institutes of Health]]"
   - "[[Bell Labs]]"
 related_persons:
+  - "[[Alfred Nobel]]"
   - "[[Vannevar Bush]]"
   - "[[Donald Stokes]]"
   - "[[Venkatesh Narayanamurti]]"
@@ -78,7 +79,7 @@ updated: 2026-10-02
 > 二战后主导科技政策的[[Linear Model of Innovation|线性创新模型]]违背了技术先于理论的历史规律；科研实践由发现与发明双向流转构成，国家资助应废弃基于立项动机的分类标签，转向支持具备长远公共效用的重大战略探索。（pp. 31–36）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 二战后美国科技政策体制、布什报告与斯托克斯[[Pasteur's Quadrant|帕斯德象限]]框架，以及 1956 至 2009 年间信息通信技术领域的六项诺贝尔物理学奖演化谱系。
+> - **对象** 二战后美国科技政策体制、布什报告与斯托克斯[[Pasteur's Quadrant|帕斯德象限]]框架，以及 1956 至 2009 年间信息通信技术领域的六项[[Alfred Nobel|诺贝尔]]物理学奖演化谱系。
 > - **张力** 动机二分法（纯求知 vs. 纯应用）与网状[[Innovation Ecosystem|创新生态]]（发明与发现双向互促）之间的[[Epistemology|认识论]]冲突；[[Market Failure|市场失灵]]试金石与高风险战略性硬件发明缺乏公共支持之间的体制矛盾。
 > - **贡献** 宣告基础/应用二分法终结，提出[[Discovery-Invention Cycle|发现-发明循环]]模型，确立[[Long-Term Public Utility|长期公共效用]]作为国家研发投入的最高准绳。
 
@@ -104,7 +105,7 @@ updated: 2026-10-02
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **思想史与政策演进梳理** | 考察[[Vannevar Bush\|万尼瓦尔·布什（Vannevar Bush）]]1945 年报告[[Science, The Endless Frontier 1945]]确立的战后国家科研资助逻辑；审视[[Donald Stokes\|唐纳德·斯托克斯（Donald Stokes）]]1997 年提出的[[Pasteur's Quadrant\|帕斯德象限]]，分析其在打破单向线性模型的同时所遗留的术语缺陷。 |
-> | **半个世纪诺贝尔物理学奖案例分析** | 追踪 1956 年至 2009 年间物理学领域与信息通信技术（Information and Communication Technology, ICT）密切相关的六项诺贝尔奖（1956、1964、1985、1998、2000、2009 年），还原晶体管、激光器、集成电路、半导体异质结构、量子流体及光纤通信之间相互激发的历史轨迹。 |
+> | **半个世纪[[Alfred Nobel\|诺贝尔]]物理学奖案例分析** | 追踪 1956 年至 2009 年间物理学领域与信息通信技术（Information and Communication Technology, ICT）密切相关的六项诺贝尔奖（1956、1964、1985、1998、2000、2009 年），还原晶体管、激光器、集成电路、半导体异质结构、量子流体及光纤通信之间相互激发的历史轨迹。 |
 > | **公共资助政策机制推导** | 针对传统依靠市场失灵界定政府边界的做法进行反思，面向[[Department of Energy\|美国能源部（Department of Energy, DOE）]]与[[National Institutes of Health\|美国国立卫生研究院（National Institutes of Health, NIH）]]等任务导向型科研机构，提出立足[[Long-Term Public Utility\|长期公共效用（Long-Term Public Utility）]]的资助建议。 |
 
 > [!sample-panel]- 样本与材料快照
@@ -213,7 +214,7 @@ updated: 2026-10-02
 ### 论证步骤三　信息通信技术的半世纪物理学突破表明，科学发现与技术发明在动态网络中双向互促
 
 > [!claim] 步骤三核心主张
-> 科研活动本质上由发明（创造实现特定目的的新工具或工艺）与发现（揭示自然界的新事实与新知识）两大通道构成；信息通信领域半个世纪以来的六项诺贝尔物理学奖历史表明，工程技术发明往往是催生颠覆性物理学发现的先决条件。（pp. 33–35）
+> 科研活动本质上由发明（创造实现特定目的的新工具或工艺）与发现（揭示自然界的新事实与新知识）两大通道构成；信息通信领域半个世纪以来的六项[[Alfred Nobel|诺贝尔]]物理学奖历史表明，工程技术发明往往是催生颠覆性物理学发现的先决条件。（pp. 33–35）
 
 摆脱主观动机论的关键，在于转向基于客观知识产出形态的双通道分析。
 

@@ -9,7 +9,7 @@ aliases:
 summary: "指具有跨周期长远投资视野、高风险耐受力且不以短期流动性套利为目的的战略性金融资本；多由公共开发银行与国家使命机构供给，是支撑深度科技跨越死亡之谷、三代使命演化与实现重大社会转型破局的核心金融支柱"
 type: concept
 domain: "economics"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -57,6 +57,7 @@ related_facts:
   - "[[ARPA-E]]"
   - "[[National Institutes of Health]]"
   - "[[Ministry of International Trade and Industry]]"
+  - "[[Manhattan Project]]"
   - "[[Apollo Program]]"
 related_persons:
   - "[[Rainer Kattel]]"
@@ -223,7 +224,7 @@ updated: 2026-10-07
 
 > [!dev-timeline] 耐心资本理论与实践演进
 > - **19 世纪末至 20 世纪初 — 第一阶段：后发追赶现代化与制度奠基（骆驼形态）** 德国国家工业信贷与[[Ministry of International Trade and Industry|日本通商产业省]]（MITI）指导下的长期信贷，为现代[[Research Universities|研究型大学]]与重化工业基座注入跨周期资本。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–793)]]
-> - **1940s–1970s — 第二阶段：冷战[[Big Science|大科学]]与战后开发金融（狮子形态）** 美国曼哈顿工程、[[Apollo Program|阿波罗计划]]与 [[DARPA]]、[[National Institutes of Health|NIH]] 模式，通过巨额非商业研发预算和首台套采购承担极端技术不确定性；德国 [[KfW]] 支撑战后工业重建。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
+> - **1940s–1970s — 第二阶段：冷战[[Big Science|大科学]]与战后开发金融（狮子形态）** 美国[[Manhattan Project|曼哈顿工程]]、[[Apollo Program|阿波罗计划]]与 [[DARPA]]、[[National Institutes of Health|NIH]] 模式，通过巨额非商业研发预算和首台套采购承担极端技术不确定性；德国 [[KfW]] 支撑战后工业重建。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
 > - **1980s–1990s — 日美资本成本论战与 90 年代敏捷分工反思** 80 年代以麻省理工学院委员会为代表的学者将美国制造业危机归咎为缺乏日本主银行体制的低成本耐心资本；但 90 年代美国半导体在风险投资与纵向分工支持下的复兴，证实耐心资本若脱离敏捷产品设计易沦为大宗制造产能内耗。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 123–125)]]
 > - **2018 — 使命导向[[Market Shaping and Creating|市场塑造]]与 ROAR 框架** [[Mariana Mazzucato|马祖卡托]]系统论证国家作为耐心资本供给者的核心功能，提出通过 ROAR 框架与风险收益共享重塑[[Public Value|公共价值]]。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–810)]]
 > - **2018 — 三代使命演变与[[Public Dynamic Capabilities|公共动态能力]]融合** 莱纳·[[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]提出将耐心资本与国家、政策、行政三层[[Public Dynamic Capabilities|公共动态能力]]及[[Lead-and-Learn Paradigm|引领与学习范式]]深度融合，克服[[Complexity Paradox|复杂性悖论]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]

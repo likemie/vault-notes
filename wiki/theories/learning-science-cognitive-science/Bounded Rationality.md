@@ -7,10 +7,10 @@ aliases:
 summary: "由赫伯特·西蒙（Herbert A. Simon）开创的认知与决策理论，指出行为主体在信息、时间与计算能力受限条件下无法实现全局最优，只能依靠满意原则与持续反馈进行决策；在教育中解释了教师面对高复杂度课堂时依赖反馈修正开展专业判断的必然性；在国家创新系统理论中作为微观行为基石，论证了有限理性与不确定性导致主体高度依赖地理与制度邻近性开展本地化互动学习，从而奠定国家制度多样性与发展路径差异。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 39
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 40
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theory/cognitive-science
   - theme/decision-making
@@ -53,6 +53,7 @@ related_methods:
   - "[[Agent-based Modelling]]"
 related_persons:
   - "[[Herbert A. Simon]]"
+  - "[[Alfred Nobel]]"
   - "[[Bengt-Åke Lundvall]]"
   - "[[Chris Freeman]]"
   - "[[Niklas Luhmann]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-05
+updated: 2026-10-08
 ---
 
 # Bounded Rationality
@@ -97,7 +98,7 @@ updated: 2026-10-05
 
 > [!dev-timeline] 理论版本与贡献
 > - **1969/1996 — 人工科学与复杂任务界定** [[Herbert A. Simon]] 进一步提炼出复杂专业任务的根本属性：任务的内在复杂性天然大于行动者的实践计算能力。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 6)]]
-> - **1978 — 诺贝尔经济学奖肯定** 瑞典皇家[[Chinese Academy of Sciences|科学院]]授予西蒙诺贝尔经济学奖，表彰其对经济组织内部决策过程的开创性研究。
+> - **1978 — [[Alfred Nobel|诺贝尔]]经济学奖肯定** 瑞典皇家[[Chinese Academy of Sciences|科学院]]授予西蒙诺贝尔经济学奖，表彰其对经济组织内部决策过程的开创性研究。
 > - **1990s — [[Evolutionary Economics|演化经济学]]与[[National Innovation System|国家创新系统]]微观基础重构** [[Bengt-Åke Lundvall|本格特-奥克·伦德瓦尔]]（Lundvall, 1993）与[[Chris Freeman|克里斯·弗里曼]]（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）将有限理性与不确定性确立为演化经济学的微观行为公理，指出正因为主体是有限理性的，技术与知识传播高度依赖面对面的本地化互动学习（Localized Learning）与社会信任网络，从而从微观机理上[[Falsification|证伪]]了技术全球平滑[[Convergence Theory in Comparative Education|趋同论]]。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 11)]]
 > - **2019 — 教育哲学与[[Professional Judgment|专业判断]]理论应用** Ane Qvortrup（2019）将有限理性引入教学与学习关系分析，与[[Niklas Luhmann|卢曼]]（Luhmann）的技术[[Deficit Framing|赤字理论]]结合，论证[[Visible Learning|可见的学习]]（[[Visible Learning]]）提供的仅是概率[[Hypothesis|假设]]而非确定性配方，捍卫了教师面对不可预测反思循环时的专业判断地位。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, pp. 6–7)]]
 

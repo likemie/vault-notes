@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 39
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Gold Standard Science]]"
   - "[[Metascience]]"
   - "[[Paradigm]]"
+  - "[[Total War]]"
   - "[[Golden Ticket Mechanism]]"
   - "[[Data Infrastructure]]"
   - "[[Avatar]]"
@@ -49,7 +50,9 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Franklin D. Roosevelt]]"
   - "[[Mariana Mazzucato]]"
+  - "[[Alfred Nobel]]"
 related_facts:
   - "[[Office of Naval Research]]"
   - "[[National Science Foundation]]"
@@ -70,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # National Institutes of Health
@@ -94,7 +97,7 @@ updated: 2026-10-07
 
 > [!dev-timeline] 组织发展与治理演变历程
 > - **1887–1937 — 传染病控制与中央实验室初创期** 早期专注于霍乱、黄热病等跨国烈性传染病的病原微生物分离与检疫，奠定了美国现代公共卫生微观科学基础。
-> - **1937–1948 — 癌症法案与专业研究所矩阵成型** 1937 年富兰克林·罗斯福总统签署法案设立国家癌症研究所（NCI）；二战后迅速吸纳战时医学动员遗产，相继设立心肺血液研究所（NHLBI）等分支，正式形成国立卫生研究院群（Institutes of Health）的多中心格局。
+> - **1937–1948 — 癌症法案与专业研究所矩阵成型** 1937 年富兰克林·[[Franklin D. Roosevelt|罗斯福总统]]签署法案设立国家癌症研究所（NCI）；二战后迅速吸纳战时医学动员遗产，相继设立心肺血液研究所（NHLBI）等分支，正式形成国立卫生研究院群（Institutes of Health）的多中心格局。
 > - **1948–1960s — 战后主动动员与院外资助体系确立** 1948 年资助约 120 所高校（前 10 位医学院占据约 75% 经费）；高级官员弗雷德·斯通差旅逾 20 万英里动员学者申报，确立了以独立同行评审委员会（Study Sections）为核心的 R01 独立研究员资助机制与薪资报销渠道，奠定了分布式资助支柱地位。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 7–8, 14)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **1970s–1990s — 资助机制转向与[[Human Genome Project|人类基因组计划]]** 独立培训项目缩减，研究生与博士后普遍依赖课题助研津贴；联合能源部（[[Department of Energy]], DOE）启动并攻克[[Human Genome Project|人类基因组计划]]（HGP）。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 18, 20)]]
 > - **1998–2002 — 国会预算翻倍计划及其体制后遗症** 国会推行五年预算翻倍（从 1998 年约 130 亿美元增至 2002 年 270 余亿美元）；刺激高校大举借债扩建科研大楼与设立软钱教职，但在翻倍结束后引发课题立项率暴跌（跌破 20%）、项目负责人显著老龄化与医学院偿债危机。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 27–28, 33–34)]]
@@ -106,7 +109,7 @@ updated: 2026-10-07
 ## 治理架构与现代运行机制
 
 > [!actor-grid] 组织治理架构
-> - **决策机构（NIH 院长办公室）** 院长（由总统任命并经参议院确认）统领全局，制定总体战略规划与跨所重大行动计划（Common Fund），设立向院长直报的法定[[Metascience|元科学]]单元。
+> - **决策机构（NIH 院长办公室）** 院长（由总统任命并经参议院确认）统领全局，制定[[Total War|总体战]]略规划与跨所重大行动计划（Common Fund），设立向院长直报的法定[[Metascience|元科学]]单元。
 > - **研究所矩阵（27 个专业所与研究中心）** 包含国家癌症研究所（NCI）、国家过敏和传染病研究所（NIAID）等 27 个独立运作但高度协同的专业实体，各设所长与专门咨询委员会。
 > - **双层同行评审系统（Two-Tier Peer Review）** 第一层由科学家同行组成的专门评审组（Study Sections）评估科学技术卓越性，第二层由各研究所全国顾问委员会结合国家卫生重点与公共效用进行二次战略审查。
 > - **法定独立伙伴平台（FNIH）** 依托国立卫生研究院基金会（Foundation for the National Institutes of Health, FNIH），按商业灵活规则混合公共预算与私人资本，统筹公私联合攻关。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 42)]]
@@ -143,7 +146,7 @@ updated: 2026-10-07
 
 > [!indicators]- 影响力维度与指标
 > - **公共预算规模** 年度财政拨款逾 450 亿美元，为全球最大的单一生物医药研究公共赞助者。
-> - **[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]关联** 累计有超过 160 位诺贝尔奖获得者在其职业生涯中得到过 NIH 的持续资助，涵盖了战后现代医学与分子生物学的大部分重大丰碑。
+> - **[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]关联** 累计有超过 160 位[[Alfred Nobel|诺贝尔]]奖获得者在其职业生涯中得到过 NIH 的持续资助，涵盖了战后现代医学与分子生物学的大部分重大丰碑。
 > - **国民健康与预期寿命成效** 推动美国心血管疾病死亡率降低超 70%，癌症 5 年生存率从 1970 年代的 50% 提升至近 70%。
 
 > [!stat-cards]- 核心规模与体制数据

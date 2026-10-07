@@ -7,7 +7,7 @@ aliases:
 summary: "Swick and Jones（2025）描述的兼具医学博士与哲学博士学位的学术专业人员，以识别临床问题、与基础科学家合作转化、在学界和产业之间充当联络者为核心能力，是医用创新的关键催化者"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -25,14 +25,15 @@ related_concepts:
   - "[[Research Question]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Alfred Nobel]]"
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
 related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Physician-Scientist
@@ -61,7 +62,7 @@ updated: 2026-10-07
 ## 概念演变
 
 > [!note]-
-> [[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]的历史趋势反映了医师科学家日益增长的重要性：自 1990 年以来，每两个诺贝尔奖中至少有一个包含医师或医师科学家获奖者。训练有素的医师科学家是临床挑战的前线探测器，其贡献对于将研究发现转化为对患者诊疗的实质性影响至关重要（pp.178–179）。
+> [[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]的历史趋势反映了医师科学家日益增长的重要性：自 1990 年以来，每两个[[Alfred Nobel|诺贝尔]]奖中至少有一个包含医师或医师科学家获奖者。训练有素的医师科学家是临床挑战的前线探测器，其贡献对于将研究发现转化为对患者诊疗的实质性影响至关重要（pp.178–179）。
 
 ## 面临的挑战
 

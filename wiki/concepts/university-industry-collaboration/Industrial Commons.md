@@ -7,7 +7,7 @@ aliases:
 summary: "区域与国家创新体系中由密集的供应商网络、熟练技师劳动力、共享研发与测试设施以及代际沉淀的默会过程知识共同构成的集体产业生态基础设施；强调研发无法脱离实体制造而长期孤立繁荣，制造业公地的萎缩将导致底层工程设计能力退化与前沿技术外溢。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -43,6 +43,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"
+  - "[[Alfred Nobel]]"
 related_facts:
   - "[[Workforce Pell Grants 2025]]"
   - "[[Sematech]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Industrial Commons
@@ -138,7 +139,7 @@ updated: 2026-10-07
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 47–48)]] | 1970 年代新型激光实验室复现（引自 H. Collins）与分子生物实验追踪 | 科学社会学[[Ethnography\|人种志]]观察与默会知识复现实验 | 仅凭公开刊发的学术论文与方法说明，外部实验室复现成功率为 0%；所有成功者均亲赴原实验室与技师共同操作 | 质性证实[[Process Knowledge\|默会过程知识]]无法被纯文本[[Coding in Qualitative Research\|编码]]，必须依附于实体产业公地传承 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 55)]] | 俄亥俄州新奥尔巴尼与得克萨斯州泰勒市芯片制造产业生态 | 地方激励与技能培训协同个案分析 | 俄亥俄统筹全州 23 所社区学院联合开发开放式芯片制造技术员课程；得州泰勒依托产学对齐吸引近 50 亿美元先进制程投资 | 证实产学深度集聚的区域技能生态在培育持久制造与工程设计能力上的决定性作用 |
 
-> [!case] 诺贝尔物理学奖得主赖纳·魏斯的学徒经历与仪器技艺
+> [!case] [[Alfred Nobel|诺贝尔]]物理学奖得主赖纳·魏斯的学徒经历与仪器技艺
 > 2017 年诺贝尔物理学奖得主赖纳·魏斯（Rainer Weiss）在青年时期曾深入学习机械加工、钎焊与电路[[Assemblage|组装]]。魏斯将这段技艺归纳为实验科学中不可替代的“即兴工艺智慧”。正是这种深植于产业公地的精湛仪器建造直觉，使他能够亲手设计并调试激光干涉引力波天文台（LIGO）的原型机，在时空尺度上探测到十亿光年外的黑洞并合引力波，生动诠释了手艺技能对前沿[[Big Science|大科学]]发现的基石支撑。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 51)]]
 
 ---

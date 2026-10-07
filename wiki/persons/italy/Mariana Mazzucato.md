@@ -7,7 +7,7 @@ summary: "意大利裔经济学家，伦敦大学学院创新与公共目的研�
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 36
+person_related_count: 37
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -60,12 +60,13 @@ related_facts:
   - "[[European Chips Act]]"
 related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
   - "[[Argument_Reynolds_2024_JICT]]"
   - "[[Argument_Bulfone_2024_IAI]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Mariana Mazzucato
@@ -100,7 +101,7 @@ updated: 2026-10-07
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **2013–2015 — 企业型国家与风险收益不对称批判** 批判公共部门仅被视为被动市场修复者的传统偏见，揭示国家在前沿技术探索中的激进创新与风险承担功能，主张建立公共风险与公共收益相匹配的制度机制。
+> - **2013–2015 — 企业型国家与风险收益不对称批判** 批判公共部门仅被视为被动市场修复者的传统偏见，揭示国家在前沿技术探索中的激进创新与风险承担功能，主张建立公共风险与公共收益相匹配的制度机制。特别指出硅谷奇迹并非单纯由自由创业家与风险投资创造，其底层核心源于美国军方与政府长期承担的高风险战略研发投资与早期订单托底（Leslie, 2000; Mazzucato, 2013, p. 63）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 229)]]
 >   - **代表著作** *The Entrepreneurial State: Debunking Public vs. Private Myths in Risk and Innovation* (2013)。
 >   - **关键概念／方法** [[Market Shaping and Creating]]、[[Patient Capital|耐心资本]]（Patient Capital）。
 >   - **阶段转向** 由传统产业经济学转向对国家在创新链条中主动战略角色的政治经济学再审视。

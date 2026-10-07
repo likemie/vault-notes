@@ -9,7 +9,7 @@ aliases:
 summary: "由威廉·戈登创立的系统性创造力隐喻与类比训练理论与方法体系，以“使陌生变得熟悉，使熟悉变得陌生”为核心认知原则。通过直接类比、拟人类比、象征类比与幻想类比四大结构化操作支架，引导学习者在不同知识域与情感体验之间构建深层隐喻桥梁，系统克服功能固着并实现创造性飞跃。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -57,10 +57,12 @@ related_instruments:
   - "[[Remote Associates Test]]"
 related_arguments:
   - "[[Argument_Guo_2025_TSC]]"
+related_persons:
+  - "[[Robert J. Gordon]]"
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-03
+updated: 2026-10-08
 ---
 
 # Synectics
@@ -70,7 +72,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> 综联学（Synectics），中文学术界又常译为提喻法、分合法或戈登技术，是由美国[[Creativity\|创造力]]学者威廉·J·J·戈登（William J. J. Gordon, 1961）与乔治·普林斯（George M. Prince, 1970）共同创立的系统性创造力激发理论与[[Structured Teaching\|结构化教学]]法。其词源来自希腊语 *synectikos*，原意为“将看似无关的异质元素联结在一起”。该方法主张创造力的本质在于非理性情感隐喻与理性逻辑建构的动态整合，确立了“**使陌生变得熟悉（Make the strange familiar）**”与“**使熟悉变得陌生（Make the familiar strange）**”两大[[Metacognition\|元认知]]对偶原则，并通过直接类比（Direct Analogy）、拟人类比（Personal Analogy）、象征类比（Symbolic Analogy / Compressed Conflict）与幻想类比（Fantasy Analogy）四大外显操作支架，强迫认知系统跨越知识范畴边界建立深层隐喻桥梁。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 3)]]; Gordon (1961); Prince (1970)
+> 综联学（Synectics），中文学术界又常译为提喻法、分合法或[[Robert J. Gordon|戈登]]技术，是由美国[[Creativity\|创造力]]学者威廉·J·J·戈登（William J. J. Gordon, 1961）与乔治·普林斯（George M. Prince, 1970）共同创立的系统性创造力激发理论与[[Structured Teaching\|结构化教学]]法。其词源来自希腊语 *synectikos*，原意为“将看似无关的异质元素联结在一起”。该方法主张创造力的本质在于非理性情感隐喻与理性逻辑建构的动态整合，确立了“**使陌生变得熟悉（Make the strange familiar）**”与“**使熟悉变得陌生（Make the familiar strange）**”两大[[Metacognition\|元认知]]对偶原则，并通过直接类比（Direct Analogy）、拟人类比（Personal Analogy）、象征类比（Symbolic Analogy / Compressed Conflict）与幻想类比（Fantasy Analogy）四大外显操作支架，强迫认知系统跨越知识范畴边界建立深层隐喻桥梁。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 3)]]; Gordon (1961); Prince (1970)
 
 > [!concept-lens] 概念透镜
 > - **核心本质** 利用深层跨域结构映射（Structural Mapping）与具身移情模拟，打破习惯性经验束缚的高阶隐喻认知加工体系。
@@ -191,7 +193,7 @@ updated: 2026-10-03
 ## 概念演变
 
 > [!dev-timeline] 综联学（提喻法）理论演进脉络
-> - **1940–1950 年代　发明小组实践与录音分析** 威廉·戈登与阿瑟·D·利特尔公司发明设计小组成员在马萨诸塞州进行长达数千小时的工业创新录音分析，提炼直觉创造中的隐喻规律。
+> - **1940–1950 年代　发明小组实践与录音分析** 威廉·[[Robert J. Gordon|戈登]]与阿瑟·D·利特尔公司发明设计小组成员在马萨诸塞州进行长达数千小时的工业创新录音分析，提炼直觉创造中的隐喻规律。
 > - **1961 年　经典奠基专著《提喻法：[[Creativity\|创造性]]潜能的发展》出版** Gordon (1961) 正式出版《Synectics: The Development of Creative Capacity》，确立[[Making the Familiar Strange\|使熟悉变陌生]]双向原则与四大类比体系。
 > - **1970 年　普林斯拓展教学实务与商业运作** Prince (1970) 出版《The Practice of Creativity》，成立提喻法教育咨询集团，将该方法大规模推向中小学课堂与财富 500 强企业。
 > - **1972–1978 年　早期创造力实证综合确立学术地位** Torrance (1972) 与 Mansfield et al. (1978) 分别将提喻法列为全球最高效的代表性创造力培训系统之一（干预成功率 76%）。

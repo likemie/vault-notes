@@ -12,7 +12,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -38,10 +38,12 @@ related_facts:
   - "[[Max Planck Institute for Human Development]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
+related_persons:
+  - "[[Alfred Nobel]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Max Planck Society
@@ -67,7 +69,7 @@ updated: 2026-10-07
 > - **哈纳克精英治理** 研究所打破传统官僚审批，以学术领军人物为绝对核心，不设立固定的研究清单，追求原创性和突破性探索。
 > - **独立专职研究员制度** 所内全职科学家与博士后人员不承担大学常规本科教学负担，能够心无旁骛、长周期深耕纯基础前沿课题。
 > - **严密国际化评估** 学会下设由国际顶级学者组成的科学顾问委员会，每隔两至三年对各所学术产出进行极其严格的外部同行审计。
-> - **高密度的诺奖级产出** 战后学会科学家多次斩获诺贝尔物理学奖、化学奖及生理学或医学奖，成为欧洲乃至全球基础科学研究的学术灯塔。
+> - **高密度的诺奖级产出** 战后学会科学家多次斩获[[Alfred Nobel|诺贝尔]]物理学奖、化学奖及生理学或医学奖，成为欧洲乃至全球基础科学研究的学术灯塔。
 
 ---
 

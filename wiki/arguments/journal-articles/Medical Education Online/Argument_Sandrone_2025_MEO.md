@@ -9,7 +9,7 @@ title: "Argument_Sandrone_2025_MEO"
 argument_key: "Argument_Sandrone_2025_MEO"
 argument_display_title: "Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees"
 argument_kind: "journal-article"
-argument_related_count: 10
+argument_related_count: 11
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -31,7 +31,8 @@ related_methods:
   - "[[Content Analysis]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Network Analysis]]"
-related_persons: []
+related_persons:
+  - "[[Alfred Nobel]]"
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
   - "[[National Institutes of Health]]"
@@ -57,7 +58,7 @@ citation_aliases:
 > [!question]
 > [[Mentorship\|导师制]]是科学和医学中的核心概念，被定义为「一个培育过程，其中更有技能或更有经验的人，作为榜样，教授、赞助、鼓励、建议和陪伴 less skilled 或 less experienced 的人，以促进后者的专业和/或个人发展」(Anderson & Shannon, 1988)。导师制是科学家最重要的合作关系之一，导师在启动被指导者的累积优势过程中起着关键作用。
 >
-> [[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]是世界上最令人向往的科学奖项之一。获奖者受邀到斯德哥尔摩发表诺贝尔演讲，通常包括对其发现的历史和科学概述，常常穿插个人和职业生活中的轶事。
+> [[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]是世界上最令人向往的科学奖项之一。获奖者受邀到斯德哥尔摩发表[[Alfred Nobel|诺贝尔]]演讲，通常包括对其发现的历史和科学概述，常常穿插个人和职业生活中的轶事。
 >
 > 核心问题是，新晋诺贝尔奖获得者在发表诺贝尔演讲时是否、如何以及明确提到了谁作为他们的导师？
 
@@ -69,7 +70,7 @@ citation_aliases:
 > 论文基于以下理论和实证基础
 >
 > - [[Mentorship\|导师制]]在科学中的核心地位及其对被指导者成功的影响
-> - 诺贝尔奖得主的导师关系网络的非随机性
+> - [[Alfred Nobel|诺贝尔]]奖得主的导师关系网络的非随机性
 > - [[Mentorship Recognition\|导师致谢]]在学术场合中的重要性
 > - 性别和种族多样性在科学奖项中的差距
 
@@ -80,7 +81,7 @@ citation_aliases:
 > [!info]
 > 使用[[Content Analysis\|内容分析]]方法，对 208 篇[[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]演讲进行探索性分析。使用 PDF 阅读器和纯文本阅读器软件的搜索功能，计算 [[Mentorship\|mentor]] 一词在演讲中出现的次数。
 >
-> 分析范围涵盖 1901-2023 年间所有可用的诺贝尔演讲， except where only the slides, but not the lecture transcript, were uploaded（即 2017 年的 Young 和 2022、2023 年的获奖者），以及当只有视频录像但没有演讲或其[[Transcription in Qualitative Research\|转录]]本可用时（即 2020 和 2021 年）。1915-1918、1921、1925 年未颁奖，因此没有诺贝尔演讲可用。
+> 分析范围涵盖 1901-2023 年间所有可用的[[Alfred Nobel|诺贝尔]]演讲， except where only the slides, but not the lecture transcript, were uploaded（即 2017 年的 Young 和 2022、2023 年的获奖者），以及当只有视频录像但没有演讲或其[[Transcription in Qualitative Research\|转录]]本可用时（即 2020 和 2021 年）。1915-1918、1921、1925 年未颁奖，因此没有诺贝尔演讲可用。
 >
 > 同时分析了 2014-2023 年拉斯克奖的获奖感言和 1961-2022 年奥斯卡奖的获奖感言作为对比。
 
@@ -106,7 +107,7 @@ citation_aliases:
 
 ### 诺贝尔奖得主的导师关系网络
 
-诺贝尔奖得主的导师关系模式并非随机。
+[[Alfred Nobel|诺贝尔]]奖得主的导师关系模式并非随机。
 
 > [!example] 导师关系网络的非随机性
 >
@@ -184,7 +185,7 @@ citation_aliases:
 
 > [!success]
 >
-> **[[Mentorship Recognition\|导师致谢]]的缺失**。在[[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]演讲中，[[Mentorship Recognition\|导师致谢]]的缺失是令人意外的，尤其是考虑到[[Mentorship\|导师制]]在科学中的关键作用、其广泛的社会价值以及诺贝尔导师关系的非随机模式。
+> **[[Mentorship Recognition\|导师致谢]]的缺失**。在[[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]演讲中，[[Mentorship Recognition\|导师致谢]]的缺失是令人意外的，尤其是考虑到[[Mentorship\|导师制]]在科学中的关键作用、其广泛的社会价值以及[[Alfred Nobel|诺贝尔]]导师关系的非随机模式。
 >
 > **性别差异**。女性更有可能提到导师，尽管她们在获奖者中代表性严重不足。这与研究表明博士后导师比研究生导师对受训者的成功更有影响相一致。
 >
@@ -219,7 +220,7 @@ citation_aliases:
 >
 > **方法论的局限**。方法论直接、有效且无偏见，仅依赖于计算给定文本中 [[Mentorship\|mentor]] 一词的频率。
 >
-> **未分析其他诺贝尔奖项**。未来研究可以将此方法应用于物理学、化学、文学和经济学的诺贝尔演讲，以确定这种缺乏明确[[Mentorship Recognition\|导师致谢]]的现象是否仅限于生理学或医学，还是反映了跨学科的更广泛趋势。
+> **未分析其他[[Alfred Nobel|诺贝尔]]奖项**。未来研究可以将此方法应用于物理学、化学、文学和经济学的诺贝尔演讲，以确定这种缺乏明确[[Mentorship Recognition\|导师致谢]]的现象是否仅限于生理学或医学，还是反映了跨学科的更广泛趋势。
 >
 > **未探索感恩的其他形式**。虽然对诺贝尔奖历史中感恩表达的详细探索可以成为未来研究的焦点，但缺乏明确承认仍然特别令人惊讶。
 

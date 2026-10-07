@@ -9,7 +9,7 @@ aliases:
 summary: "法国高等教育特有的精英专业学院系统；以严格的高考后预科班选拔淘汰和职业导向培养著称，长期垄断国家高级工程师、高官与企业领袖培养；与专注基础研究的国家科研中心（CNRS）及大众化综合大学形成著名的三元割裂格局，构成法国难以复制英美高教教育科研一体化模式的制度根源。"
 type: concept
 domain: "higher-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -30,10 +30,12 @@ related_facts:
   - "[[Academic Ranking of World Universities]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
+related_persons:
+  - "[[Alfred Nobel]]"
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-03
+updated: 2026-10-08
 ---
 
 # Grandes Écoles
@@ -81,7 +83,7 @@ updated: 2026-10-03
 ### 1. 结构性分离阻断了前沿科学研究向精英青年教学的正向溢出
 
 > [!claim] 教学与研究在制度层面的物理隔绝
-> 在美国[[Research Universities|研究型大学]]体系中，顶级诺贝尔奖级学者直接承担本科与研究生教学，前沿科研成果能够无缝反哺高层次人才培养；而在法国，由于 [[CNRS]] 专职研究员无常规教学硬性考核，而大学校教员主要侧重职业[[Disciplina and Doctrina|规训]]，导致法国最优质的学术人才与最前沿的实验室产生了物理阻隔，削弱了国家[[Innovation Ecosystem|创新生态系统]]的原生聚合力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
+> 在美国[[Research Universities|研究型大学]]体系中，顶级[[Alfred Nobel|诺贝尔]]奖级学者直接承担本科与研究生教学，前沿科研成果能够无缝反哺高层次人才培养；而在法国，由于 [[CNRS]] 专职研究员无常规教学硬性考核，而大学校教员主要侧重职业[[Disciplina and Doctrina|规训]]，导致法国最优质的学术人才与最前沿的实验室产生了物理阻隔，削弱了国家[[Innovation Ecosystem|创新生态系统]]的原生聚合力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
 
 ---
 

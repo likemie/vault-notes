@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -32,11 +32,13 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Academic Freedom]]"
 related_persons:
+  - "[[Alfred Nobel]]"
   - "[[Richard C. Atkinson]]"
 related_facts:
   - "[[Office of Scientific Research and Development]]"
   - "[[Department of Energy]]"
   - "[[National Science Foundation]]"
+  - "[[Manhattan Project]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[President's Science Advisory Committee]]"
   - "[[MIT Radiation Laboratory]]"
@@ -45,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Federally Funded Research and Development Centers
@@ -68,7 +70,7 @@ updated: 2026-10-07
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1942–1947 — 战时起源与曼哈顿计划孵化** 曼哈顿计划期间，联邦政府打破自建军工基地的陈规，与加利福尼亚大学签署合同由其管理洛斯阿拉莫斯实验室（Los Alamos），与芝加哥大学签署合同管理冶金实验室（后为阿贡国家实验室），奠定了大学托管联邦战略实验室的原型。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]
+> - **1942–1947 — 战时起源与[[Manhattan Project|曼哈顿计划]]孵化** 曼哈顿计划期间，联邦政府打破自建军工基地的陈规，与加利福尼亚大学签署合同由其管理洛斯阿拉莫斯实验室（Los Alamos），与芝加哥大学签署合同管理冶金实验室（后为阿贡国家实验室），奠定了大学托管联邦战略实验室的原型。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]
 > - **1950–1970 年代 — 冷战[[Big Science|大科学]]扩张与功能分化** 原子能委员会（AEC）与国防部大规模扩建国家实验室网络；体系内逐步分化出两类核心形态：一类是以费米国家加速器实验室（Fermi National Accelerator Laboratory）和劳伦斯伯克利国家实验室（Lawrence Berkeley National Laboratory）为代表的“用户[[Megascience Installations|大科学装置]]型”，另一类是以洛斯阿拉莫斯、利弗莫尔（Livermore）和桑迪亚（Sandia）为代表的“核武与国家安全防御型”。
 > - **1980 年代至今 — 任务拓展与跨学科前沿转型** 冷战结束后，原本专注于核军工的实验室普遍拓展了使命边界，深度转向先进超级计算、材料科学、可再生能源、气候环境模拟及人类基因组测序等民用前沿攻关。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
 
@@ -91,7 +93,7 @@ updated: 2026-10-07
 ## 核心业务与代表性基地矩阵
 
 > [!finding-cards] 代表性[[Big Science|大科学]]基地矩阵
-> - **高能物理与前沿粒子加速基地** 费米国家加速器实验室（芝加哥附近）、劳伦斯伯克利国家实验室等，建造并运行万亿电子伏特粒子加速器与同步辐射光源，奠定了战后美国在高能物理学领域的诺贝尔奖垄断地位。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 37–38)]]
+> - **高能物理与前沿粒子加速基地** 费米国家加速器实验室（芝加哥附近）、劳伦斯伯克利国家实验室等，建造并运行万亿电子伏特粒子加速器与同步辐射光源，奠定了战后美国在高能物理学领域的[[Alfred Nobel|诺贝尔]]奖垄断地位。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 37–38)]]
 > - **全球顶尖天文与空间观测基地** 双子星天文台（Gemini Observatories，分别位于夏威夷莫纳克亚与智利帕穹山）等，由 [[National Science Foundation|NSF]] 出资委托大学联盟管理，为全球天文学家提供深空探索核心支撑。
 > - **国家安全与综合战略科学基地** 洛斯阿拉莫斯国家实验室、劳伦斯利弗莫尔国家实验室与桑迪亚国家实验室，统领战略核威慑、超级计算模拟与全球环境能源安全模拟。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
 

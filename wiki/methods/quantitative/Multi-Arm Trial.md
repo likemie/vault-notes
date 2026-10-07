@@ -11,9 +11,9 @@ summary: "包含三个或更多平行实验组（实验臂）的随机对照试�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 39
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 40
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -58,7 +58,8 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Statistical Significance]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Franklin D. Roosevelt]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Literacy Octopus]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-10-08
 ---
 
 # Multi-Arm Trial
@@ -114,7 +115,7 @@ updated: 2026-09-17
 > - **研究设计** 并行多臂随机对照试验（Parallel Multi-Arm RCT）、多臂多阶段自适应试验（MAMS）。
 > - **数据收集** 统一基线[[Pre-test and Post-test\|前测]]、多臂干预递送监测、标准化终结性测验（NPD 考分）。
 > - **分析方法** 单因素多水平[[Analysis of Variance\|方差分析]]（ANOVA）、引入协[[Variable\|变量]]的 [[Ordinary Least Squares\|OLS]] 回归、[[Hierarchical Linear Model\|多层线性模型]]（HLM）。
-> - **辅助技术** Dunnett 检验（处理组对比对照组）、Tukey HSD 检验（处理组两两互比）、Bonferroni / Benjamini-Hochberg FDR 校正。
+> - **辅助技术** Dunnett 检验（处理组对比对照组）、Tukey HSD 检验（处理组两两互比）、Bonferroni / Benjamini-Hochberg [[Franklin D. Roosevelt|FDR]] 校正。
 
 ---
 
@@ -125,7 +126,7 @@ updated: 2026-09-17
 > 2. **优化[[Sample Size Determination\|样本量]]与组间分配比例** 依据最优配比准则（如 Dunnett 根号原则），适当增加共享对照组的分配比例以提升整体统计功效。
 > 3. **执行[[Random Assignment\|随机化]]分组** 采用区组分层随机化或整群随机化将受试者（或学校）分配至各个实验臂。
 > 4. **主效应与成对均值估计** 拟合[[Covariate Adjustment\|协变量调整]]回归方程，提取各个干预臂相对于对照组的点估计与未调整[[Standard Error\|标准误]]。
-> 5. **执行多重比较校正** 针对预先设定的关键假设检验，执行 Dunnett 校正或 FDR 控制，汇报校正后的 $p$ 值与[[Confidence Interval\|置信区间]]。
+> 5. **执行多重比较校正** 针对预先设定的关键假设检验，执行 Dunnett 校正或 [[Franklin D. Roosevelt|FDR]] 控制，汇报校正后的 $p$ 值与[[Confidence Interval\|置信区间]]。
 
 ### 量化分析模块
 

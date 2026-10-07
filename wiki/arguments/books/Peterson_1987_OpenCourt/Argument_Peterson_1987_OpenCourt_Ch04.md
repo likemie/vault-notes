@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch04"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch04"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 46
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -74,6 +74,7 @@ related_persons:
   - "[[Socrates]]"
   - "[[Plato]]"
   - "[[Baruch Spinoza]]"
+  - "[[Peter Thiel]]"
 related_facts:
   - "[[UNESCO]]"
   - "[[International School of Geneva]]"
@@ -819,7 +820,7 @@ updated: '2026-09-12'
 > - **成功本身增加成本** 更多学校、考生和新联合世界书院需要更强行政；组织在收入最不稳定时恰好必须扩充能力（pp. 87–90）。
 
 > [!case] 1973 年把考试延长至 1976 年形成“有义务、无资金”的承诺
-> **治理背景** 1973 年理事会新增两名关键成员：新任国际教育局局长、UNESCO 助理总干事利奥·费尔尼格（Leo Fernig），以及荷兰中等教育主任、后任 IBO 理事会主席皮特·加蒂尔（Piet Gathier）。费尔尼格报告国际教育局董事会已以极小多数支持把 IBO 一般预算纳入长期运作，但 UNESCO 的一般决议很难迅速变成有预算的行动。
+> **治理背景** 1973 年理事会新增两名关键成员：新任国际教育局局长、UNESCO 助理总干事利奥·费尔尼格（Leo Fernig），以及荷兰中等教育主任、后任 IBO 理事会主席皮特·加[[Peter Thiel|蒂尔]]（Piet Gathier）。费尔尼格报告国际教育局董事会已以极小多数支持把 IBO 一般预算纳入长期运作，但 UNESCO 的一般决议很难迅速变成有预算的行动。
 >
 > **时间缺口** 到理事会开会时，长期 UNESCO 安排显然不可能在 1974 年秋以前完成。学生一旦开始两年 IB 课程，IBO 就有道德义务让他们参加结业考试；彼得森因此建议把原定六年试验再延长一年，除 1975 年外继续提供 1976 年考试。
 >

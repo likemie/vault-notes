@@ -4,7 +4,7 @@ aliases: [全控机构, 全控组织, 总体性机构, total institutions]
 summary: "生活领域由单一权威集中安排、成员与外界联系受限且管理者与被管理者明显分隔的机构形态，可用于审视寄宿学校的制度生活。"
 type: concept
 domain: "sociology-of-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ related_methods:
 related_persons:
   - "[[Michael Gove]]"
   - "[[Horace Mann]]"
+  - "[[Erving Goffman]]"
   - "[[Louis Cohen]]"
   - "[[Lawrence Manion]]"
   - "[[Keith Morrison]]"
@@ -32,7 +33,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 生活领域集中于同一权威
-> 全控机构（Total Institution）是一种为特定目的设立、将成员的多方面生活集中在同一场所和单一权威之下的机构形态。成员集体活动、日程与规则受到统一安排，管理者与被管理者之间存在显著分隔。厄文·[[Michael Gove|戈夫]][[Horace Mann|曼]]（Erving Goffman）以精神病院等机构说明这一形态，[[Boarding Schools|寄宿学校]]、军队与监狱也被列为可比较的实例。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.3)]]
+> 全控机构（Total Institution）是一种为特定目的设立、将成员的多方面生活集中在同一场所和单一权威之下的机构形态。成员集体活动、日程与规则受到统一安排，管理者与被管理者之间存在显著分隔。厄文·[[Michael Gove|戈夫]][[Horace Mann|曼]]（[[Erving Goffman]]）以精神病院等机构说明这一形态，[[Boarding Schools|寄宿学校]]、军队与监狱也被列为可比较的实例。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.3)]]
 
 与其他机构的比较可以使熟悉的学校生活重新成为需要解释的对象。比较应逐项考察共同特征与差异，不能直接以精神病院的经验替代对学校的观察。
 

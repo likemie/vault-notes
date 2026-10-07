@@ -15,7 +15,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Experiential Learning]]"
   - "[[Document]]"
+  - "[[Total War]]"
   - "[[Bildung]]"
   - "[[Further Education]]"
   - "[[Computerized Adaptive Testing]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-09-29
+updated: 2026-10-08
 ---
 
 # Leibniz Institute for Educational Research and Educational Information
@@ -96,7 +97,7 @@ updated: 2026-09-29
 > - **1951–1964 — 战后创设与实证比较方法引入** 1951 年在黑森州法兰克福成立，由埃里希·希瑟（Erich Hylla）等学者主导，打破德国传统思辨教育学垄断，首创以量化统计、心理测量与国际比较为核心的实证研究传统。
 > - **1964–1977 — 跨州体制化与比较教育教席建制** 1964 年签署跨州协定转制为公法研究所，更名为德国[[International Education\|国际教育]]研究所（DIPF），成为各州文教部长会议（[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]]）重要的实证咨询智库。米特（[[Wolfgang Mitter]]）指出，在此期间，DIPF 在舒尔策（Walter Schultze）与米特主持下设立了专门的比较教育研究实体与学术教席，与柏林马克斯·普朗克研究所共同成为战后德国大学之外的两大比较教育国家学术支柱。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90)]]
 > - **1977–2000 — 纳入国家联合资助体系与柏林园区拓展** 1977 年作为国家骨干科研机构纳入蓝名单（Blaue Liste，莱布尼茨学会前身）；1992 年两德统一后，柏林的德国教育史研究图书馆（Bibliothek für Bildungsgeschichtliche Forschung, BBF）正式并入 DIPF。
-> - **2001–2009 — [[PISA]] 震荡响应与国家监测总体战略支柱确立** 2000 年首轮 [[PISA]] 危机后，DIPF 深度参与 [[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]（Gesamtstrategie zum Bildungsmonitoring）设计，受 KMK 与 [[Federal Ministry of Education and Research\|BMBF]] 委托牵头成立国家教育报告联合体，并于 2006 年正式发布首部《德国教育报告》（*[[Bildung]] in Deutschland*）。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 484–485)]]
+> - **2001–2009 — [[PISA]] 震荡响应与国家监测[[Total War|总体战]]略支柱确立** 2000 年首轮 [[PISA]] 危机后，DIPF 深度参与 [[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]（Gesamtstrategie zum Bildungsmonitoring）设计，受 KMK 与 [[Federal Ministry of Education and Research\|BMBF]] 委托牵头成立国家教育报告联合体，并于 2006 年正式发布首部《德国教育报告》（*[[Bildung]] in Deutschland*）。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 484–485)]]
 > - **2010–至今 — [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]] 联合创设、技术赋能测评与基础设施数字化** 2010 年与慕尼黑工业大学（TUM）、莱布尼茨数理教育研究所（IPN）联合成立国家国际教育比较研究中心（[[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]]），DIPF 全权承担计算机化测验（TBA）与全套背景[[Questionnaire\|问卷]]研制；2018 年研究所更名为现名，系统运营全国教育信息门户 DIPF-Kompass 与德国教育云端资源。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, p. 145)]]; [[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
 
 ---
@@ -172,7 +173,7 @@ updated: 2026-09-29
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Gesamtstrategie zum Bildungsmonitoring]] | Fact (Policy) | 总体战略第四支柱：DIPF 牵头编撰的国家教育报告是其制度化支柱之一。 |
+> | [[Gesamtstrategie zum Bildungsmonitoring]] | Fact (Policy) | [[Total War\|总体战]]略第四支柱：DIPF 牵头编撰的国家教育报告是其制度化支柱之一。 |
 > | [[Zentrum für internationale Bildungsvergleichsstudien]] | Fact (Organization) | DIPF 作为核心三方联合创设单位之一，全权承担计算机测评（TBA）与[[Questionnaire\|问卷]]研发。 |
 > | [[Institute for Educational Quality Improvement]] | Fact (Organization) | 国家兄弟研究机构：IQB 统筹国家标准与题库，DIPF 统筹宏观教育报告与信息基础设施。 |
 > | [[Standing Conference of the Ministers of Education and Cultural Affairs]] | Fact (Organization) | DIPF 的核心出资方、指导部委与教育报告法定委托机构。 |

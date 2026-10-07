@@ -9,7 +9,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -27,6 +27,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[John Goormaghtigh]]"
+  - "[[Peter Thiel]]"
 related_facts:
   - "[[UNESCO]]"
   - "[[International Baccalaureate Six-Year Experiment]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-12
+updated: 2026-10-08
 ---
 
 # 1976 Hague Intergovernmental Conference on the International Baccalaureate
@@ -57,7 +58,7 @@ updated: 2026-09-12
 
 > [!dev-timeline]- 从实验收尾到政府参与治理
 > - **1974 年 — [[UNESCO]] 决议打开政府协商渠道** 加拿大、埃及、英国与北爱尔兰、伊朗、瑞士、马耳他、摩洛哥、毛里求斯、墨西哥、尼日利亚、坦桑尼亚和多哥共同提出决议，约七十个代表团一致通过，要求总干事研究 UNESCO 支持 IB 课程发展的方式。该决议提供政治授权，却没有自动形成预算承诺。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 89–93)]]
-> - **1975 年 — 备用方案取代单一整合预期** UNESCO 整合前景转弱后，约翰·古尔马蒂（[[John Goormaghtigh]]）设计政府参与的替代结构，皮特·加蒂尔（Piet Gathier）推动荷兰政府召集会议。学校提高订阅费，先维持组织到政府可以作出决定的时点（pp. 93–94）。
+> - **1975 年 — 备用方案取代单一整合预期** UNESCO 整合前景转弱后，约翰·古尔马蒂（[[John Goormaghtigh]]）设计政府参与的替代结构，皮特·加[[Peter Thiel|蒂尔]]（Piet Gathier）推动荷兰政府召集会议。学校提高订阅费，先维持组织到政府可以作出决定的时点（pp. 93–94）。
 > - **1976 年 2 月 — 海牙会议确定三项近期安排** [[International Baccalaureate|IBO]] 把服务对象界定为跨国流动群体，并提出在每个主要国际中心至少有一所学校开设 IB 的目标。古尔马蒂提出长期分工方案，由 UNESCO 日内瓦人员单位承担研究和课程发展，由受瑞士法律管辖的既有基金会继续实施考试，出资政府进入理事会。会议随后逐项表决课程合作、两年经费和 1978 年后安排（pp. 94–96）。
 > - **1976 年 4 月以后 — 原则承诺进入确认程序** 各代表团被要求尽可能在 4 月 1 日前向日内瓦威尔逊宫的 IBO 确认出资档次，以便 UNESCO 执行局月底审议。IBO 还须邀请未参会的项目参与国及其他 UNESCO 成员国加入，出资国增加后可以下调一般和特别档次（p. 96）。
 > - **1978 年 2 月 15 日 — 混合治理结构落定** UNESCO 最终拒绝整合提案，但成员国支持没有随之消失。英国政府与英联邦秘书处在伦敦兰开斯特宫合办第二次会议，参会国家数超过海牙会议的两倍；IBO 保留瑞士法律身份和 UNESCO 咨商地位，支持国建立的[[International Baccalaureate\|国际文凭]]常设会议（Standing Conference for the International Baccalaureate）获得理事会三分之一席位的提名权。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, p. 97)]]

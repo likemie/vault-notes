@@ -9,7 +9,7 @@ title: "Argument_Boyadjieva_2022_Springer"
 argument_key: "Argument_Boyadjieva_2022_Springer"
 argument_display_title: "(Un)avoidable clash: Higher education at the altar of its missions and rankings"
 argument_kind: "book"
-argument_related_count: 24
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Social Charter]]"
   - "[[Champ]]"
   - "[[Document]]"
+  - "[[Hidden Curriculum]]"
   - "[[Research Universities]]"
   - "[[Employability]]"
   - "[[Critical Thinking]]"
@@ -49,6 +50,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Questionnaire]]"
 related_persons:
+  - "[[Alfred Nobel]]"
   - "[[Pepka Boyadjieva]]"
   - "[[Ellen Hazelkorn]]"
 related_facts:
@@ -103,9 +105,9 @@ citation_aliases:
 **1.1 大学的"隐藏课程"效应**
 
 > [!example]
-> 制度理论告诉我们，制度和组织不一样。组织追求效率，而制度塑造人们的认知框架和行为规范。大学作为制度，不仅通过正式课程教学生知识，更通过它如何运作——它的建筑、仪式、等级关系、对成功的定义——向学生传递一整套关于"世界是什么样""什么样的人算成功"的隐含信息。这就是所谓的"隐藏课程"（hidden curriculum）。
+> 制度理论告诉我们，制度和组织不一样。组织追求效率，而制度塑造人们的认知框架和行为规范。大学作为制度，不仅通过正式课程教学生知识，更通过它如何运作——它的建筑、仪式、等级关系、对成功的定义——向学生传递一整套关于"世界是什么样""什么样的人算成功"的隐含信息。这就是所谓的"隐藏课程"（[[Hidden Curriculum]]）。
 >
-> 举个具体的例子：一所大学把诺贝尔奖得主的照片挂满走廊，在开学典礼上反复强调"我们培养的是未来领袖"——它传递的信息是：伟大的标志是个人卓越和国家荣誉。另一所大学在入学教育中带学生去社区做服务，在走廊展示的是校友在本地非营利组织工作的故事——它传递的信息是：成功的标志是服务他人和改善社区。这两种"隐藏课程"塑造了完全不同的毕业生，但任何排名指标都无法捕捉这种差异(pp.127–128)。
+> 举个具体的例子：一所大学把[[Alfred Nobel|诺贝尔]]奖得主的照片挂满走廊，在开学典礼上反复强调"我们培养的是未来领袖"——它传递的信息是：伟大的标志是个人卓越和国家荣誉。另一所大学在入学教育中带学生去社区做服务，在走廊展示的是校友在本地非营利组织工作的故事——它传递的信息是：成功的标志是服务他人和改善社区。这两种"隐藏课程"塑造了完全不同的毕业生，但任何排名指标都无法捕捉这种差异(pp.127–128)。
 
 **1.2 大学的"[[Social Charter|社会宪章]]"——它向社会承诺了什么？**
 

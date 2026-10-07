@@ -95,8 +95,10 @@ related_instruments:
   - "[[Heilmeier Catechism]]"
 related_persons:
   - "[[Michael Kratsios]]"
+  - "[[Franklin D. Roosevelt]]"
   - "[[Vannevar Bush]]"
   - "[[Donald Stokes]]"
+  - "[[Alfred Nobel]]"
 related_facts:
   - "[[Science A New Golden Age 2026]]"
   - "[[Office of Science and Technology Policy]]"
@@ -139,7 +141,7 @@ title: "Argument_Kratsios_2026_OSTP"
 argument_key: "Argument_Kratsios_2026_OSTP"
 argument_display_title: "Science: A new golden age (Report to the President)"
 argument_kind: "report"
-argument_related_count: 102
+argument_related_count: 104
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -171,7 +173,7 @@ issuing_organization: "Office of Science and Technology Policy"
 > [!policy-context] 总统科技战略委托背景档案
 > - **委托主体与受命者** 2025 年 3 月 26 日唐纳德·特朗普（Donald J. Trump）总统致信[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（[[Office of Science and Technology Policy]], OSTP）主任[[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael J. Kratsios）。（pp. viii–ix）
 > - **核心使命诉求** 回答如何保持关键新兴技术领先、如何减轻科研行政羁绊以释放突破潜能、如何确保科技红利惠及全体国民三大关切。（pp. viii–ix）
-> - **历史对照坐标** 全面对照 1945 年富兰克林·罗斯福（Franklin D. Roosevelt）总统致[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）的战后科学战略委托。（pp. viii–ix）
+> - **历史对照坐标** 全面对照 1945 年富兰克林·罗斯福（[[Franklin D. Roosevelt]]）总统致[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）的战后科学战略委托。（pp. viii–ix）
 > - **十年衡量基准** 2026 年 7 月报告将[[Success Criteria|成功标准]]确立为：十年后美国学者能够确信，曾经受阻而无法探究的关键科学难题，如今已获充分的探索自由。（p. vi）
 
 ---
@@ -286,7 +288,7 @@ issuing_organization: "Office of Science and Technology Policy"
 企业研发已深入基础科学核心腹地，其产出的突破性成果表明传统机构界限正在瓦解。
 
 > [!case] 企业实验室里的前沿基础研究
-> 从晶体管的发明到支撑现代机器学习的 Transformer 架构，均诞生于雇佣数千名顶尖科学家的企业实验室。这些实验室发表的论文具有极高的学术引用与理论深度，其研究薪资往往数倍乃至数十倍于传统高校，对全球拔尖人才形成强大吸附力。历史上，企业科学家在电子隧穿、表面化学、高分子科学与激光物理等领域屡获诺贝尔奖；如今，教授与博士生亦能筹集数亿美元创办直面根本性科学突破的初创企业。除了航天探测与粒子对撞等政府主导的[[Big Science|大科学]]项目外，高校扩展复杂工程系统的能力存在天然局限，而初创企业自主开展基础研究的普及，使基础与应用的传统界限彻底模糊（pp. 5–6）。
+> 从晶体管的发明到支撑现代机器学习的 Transformer 架构，均诞生于雇佣数千名顶尖科学家的企业实验室。这些实验室发表的论文具有极高的学术引用与理论深度，其研究薪资往往数倍乃至数十倍于传统高校，对全球拔尖人才形成强大吸附力。历史上，企业科学家在电子隧穿、表面化学、高分子科学与激光物理等领域屡获[[Alfred Nobel|诺贝尔]]奖；如今，教授与博士生亦能筹集数亿美元创办直面根本性科学突破的初创企业。除了航天探测与粒子对撞等政府主导的[[Big Science|大科学]]项目外，高校扩展复杂工程系统的能力存在天然局限，而初创企业自主开展基础研究的普及，使基础与应用的传统界限彻底模糊（pp. 5–6）。
 
 #### 3. 基础与应用研究呈现双向循环，资助体制仍僵化固守学科与课题组
 

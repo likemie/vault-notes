@@ -13,7 +13,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Output-Oriented Governance]]"
   - "[[School Inspection]]"
+  - "[[Total War]]"
   - "[[Knowledge Transfer]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Transfer Translation Transformation]]"
@@ -56,7 +57,7 @@ related_theories:
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-09-27
+updated: 2026-10-08
 ---
 
 # German State Educational Institutes and Quality Agencies
@@ -81,7 +82,7 @@ updated: 2026-09-27
 > [!dev-timeline] 组织发展历程
 > - **1960–1990 年代 — 传统教学大纲研制与师训实体** 各州建立教学法与师训院所，职能严格聚焦于教学大纲编制、教师进修班开设与传统教材审查，呈现典型的行政输入规制导向。
 > - **2000 年代 — [[PISA]] 震荡后的实证监测重组** 伴随德国由“输入控制”转向“[[Output-Oriented Governance|产出导向治理]]”，各州研究所承担起协调各州统一测评与[[School Inspection|学校督导]]（Schulinspektion）的职能，成为各州落实《[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]》的技术执行中枢。[[Argument_Dedering_2009_EERJ|Dedering, 2009, pp. 484–485]]
-> - **2015 年 — [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 总体战略修订中的中介职责确立** 德国各州教育与文化部长常设会议（KMK）在全面修订《国家教育监测总体战略》时，增设“为教育政策与教育实践提供更多应用导向知识”专门章节，正式将各州立研究所与质量机构确立为科研成果向基层实践转化的关键法定载体。[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 10]]
+> - **2015 年 — [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] [[Total War|总体战]]略修订中的中介职责确立** 德国各州教育与文化部长常设会议（KMK）在全面修订《国家教育监测总体战略》时，增设“为教育政策与教育实践提供更多应用导向知识”专门章节，正式将各州立研究所与质量机构确立为科研成果向基层实践转化的关键法定载体。[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 10]]
 > - **2018 年 — 发布联合立场文件与协同平台创建** 各州立研究所集体签署发布《关于研究[[Knowledge Transfer|知识转移]]的联合立场文件》（Positionspapier zum Transfer von Forschungswissen），就知识转移定义与共同行动纲领达成共识，并联合创设面向全德教师与管理者的跨州中介平台[[Forschungsmonitor Schule|学校研究监测平台]]（Forschungsmonitor Schule, FMS）。(Bieber et al., 2018)
 
 ---
@@ -148,7 +149,7 @@ updated: 2026-09-27
 
 ## 相关条目
 
-- [[Gesamtstrategie zum Bildungsmonitoring]] 德国国家教育监测总体战略，2015 年增设专章明确州立机构的[[Knowledge Transfer|知识转移]]法定职责。
+- [[Gesamtstrategie zum Bildungsmonitoring]] 德国国家教育监测[[Total War|总体战]]略，2015 年增设专章明确州立机构的[[Knowledge Transfer|知识转移]]法定职责。
 - [[Forschungsmonitor Schule]] 各州立研究所联合运营的跨区域教育实证研究中介与清算平台。
 - [[Transfer Science]] 转移科学，将州立机构作为中层行动者网络配置的关键分析实体。
 

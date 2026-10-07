@@ -10,7 +10,7 @@ title: "Argument_Nielsen_2021_IRTP"
 argument_key: "Argument_Nielsen_2021_IRTP"
 argument_display_title: "Measured lives in educational psychology"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -36,7 +36,8 @@ related_concepts:
   - "[[Variable]]"
   - "[[Feedback]]"
   - "[[Doxa]]"
-related_theories: []
+related_theories:
+  - "[[Legitimation Crisis]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
@@ -72,13 +73,13 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> 以 **Habermas (1976) 的合法化危机理论（Legitimation Crisis）** 为核心[[Analytic Framework\|分析框架]]，配合 **Schön (1983, 1987) 的[[Technical Rationality\|技术理性]]（Technical Rationality）** 概念。将 Hattie 的工作定位为对现代学校教育**合法化危机**的回应——VL 不是因其科学质量而被接受，而是因其提供了教育系统亟需的合法化功能。
+> 以 **Habermas (1976) 的[[Legitimation Crisis|合法化危机]]理论（Legitimation Crisis）** 为核心[[Analytic Framework\|分析框架]]，配合 **Schön (1983, 1987) 的[[Technical Rationality\|技术理性]]（Technical Rationality）** 概念。将 Hattie 的工作定位为对现代学校教育**合法化危机**的回应——VL 不是因其科学质量而被接受，而是因其提供了教育系统亟需的合法化功能。
 
 ## 研究方法
 
 > [!info] 研究方法
 > - 方法：理论分析（theoretical analysis）与概念批判
-> - 策略：运用 Habermas 的系统/生活世界（system/lifeworld）二元框架和合法化危机概念，解释 VL 的流行现象；结合对 VL 方法论问题的已有[[Literature Review\|文献综述]]
+> - 策略：运用 Habermas 的系统/生活世界（system/lifeworld）二元框架和[[Legitimation Crisis|合法化危机]]概念，解释 VL 的流行现象；结合对 VL 方法论问题的已有[[Literature Review\|文献综述]]
 
 ## 核心论证
 
@@ -111,7 +112,7 @@ citation_aliases:
 >
 > 技术理性铺平了教育中的手段-目的思维（means-ends thinking）——问题被理解为脱离情境的独立实体，可以通过查阅和应用基础科学知识来解决(p. 82)。
 >
-> ### 4. 合法化危机与 VL 的功能
+> ### 4. [[Legitimation Crisis|合法化危机]]与 VL 的功能
 >
 > **背景**[[PISA]] 冲击后，各国教育系统面临严重的**合法化危机**——传统共识导向的理性（tradition- and consensus-bound rationality）无法为现代学校提供充[[Synectics\|分合法]]性。丹麦前首相 Anders Fogh Rasmussen 2003 年宣布"圆桌教育学的时代已经结束"。
 >
@@ -146,7 +147,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> - **VL 的流行是合法化危机的症状，而非教育科学进步的标志**(pp. 86-88)
+> - **VL 的流行是[[Legitimation Crisis|合法化危机]]的症状，而非教育科学进步的标志**(pp. 86-88)
 > - **Hattie 的理论（[[Technical Rationality\|技术理性]]）而非数据驱动了 VL 的影响力**——政策制定者需要的是一个可用来向公众证明教育系统在"有效运作"的理论框架(p. 87)
 > - **VL 的技术理性框架系统性边缘化了学生和教师的意向性与意义寻求** 学生被原子化为[[Variable\|变量]]，学习目标不容讨论(pp. 88-89)
 > - **改进教学的出发点不应该是"什么方法有效"，而应该是"学生为什么参与学校实践"(p. 89)**
@@ -169,7 +170,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 论文为理论分析而非实证研究——其对 Hattie 流行原因的解释（合法化危机）是对 VL 方法论批评的补充而非替代
+> - 论文为理论分析而非实证研究——其对 Hattie 流行原因的解释（[[Legitimation Crisis|合法化危机]]）是对 VL 方法论批评的补充而非替代
 > - 论文将 VL 的全球流行与丹麦的具体经验（2014 年义务教育改革）紧密关联——丹麦的情境特殊性可能限制分析的跨情境推广
 > - 对"如何替代[[Technical Rationality\|技术理性]]"的正面建议仅停留在方向性层面（"从研究学生为什么参与学校实践开始"），缺乏具体的替代框架
 

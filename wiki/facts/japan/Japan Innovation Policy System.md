@@ -10,7 +10,7 @@ subtype: policy
 region: japan
 fact_region: "japan"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -27,14 +27,15 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
 related_theories: []
 related_methods: []
-related_persons: []
+related_persons:
+  - "[[Alfred Nobel]]"
 related_facts:
   - "[[Tsukuba Science City]]"
 related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-10-02
+updated: 2026-10-08
 ---
 
 # Japan Innovation Policy System
@@ -99,7 +100,7 @@ updated: 2026-10-02
 ## 人才与国际化
 
 > [!info]
-> 日本成为除欧美外获得诺贝尔奖最多的国家。人才培养措施包括：1996—2000年"博士等1万人支援计划"、2020年"加强研究能力和支持青年研究人员综合一揽子计划"、第六期基本计划配套近40项研究人才支援制度。实施"国际卓越研究大学"计划和"顶尖全球化大学计划"提升师资国际化水平。
+> 日本成为除欧美外获得[[Alfred Nobel|诺贝尔]]奖最多的国家。人才培养措施包括：1996—2000年"博士等1万人支援计划"、2020年"加强研究能力和支持青年研究人员综合一揽子计划"、第六期基本计划配套近40项研究人才支援制度。实施"国际卓越研究大学"计划和"顶尖全球化大学计划"提升师资国际化水平。
 >
 > 国际合作方面，依托APEC科技创新政策伙伴关系和东盟—日本科学技术合作委员会推动区域合作。2023年《综合创新战略2023》以"开放科学"和"AI广岛进程"为引领，通过G7多边机制开展战略性科技外交。
 

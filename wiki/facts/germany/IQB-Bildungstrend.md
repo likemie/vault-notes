@@ -13,7 +13,7 @@ subtype: program
 region: "germany"
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Discourse]]"
   - "[[Center of Calculation]]"
+  - "[[Total War]]"
   - "[[Epistemology]]"
 related_theories: []
 related_methods:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # IQB-Bildungstrend
@@ -153,7 +154,7 @@ updated: 2026-10-07
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Institute for Educational Quality Improvement]] | Fact | 全面负责该测评研发、抽样、实施与报告编制的国家[[Center of Calculation\|计算中心]]。 |
-> | [[Gesamtstrategie zum Bildungsmonitoring]] | Fact | 德国国家教育监测总体战略中代表国家标准的抽样达标监测支柱。 |
+> | [[Gesamtstrategie zum Bildungsmonitoring]] | Fact | 德国国家教育监测[[Total War\|总体战]]略中代表国家标准的抽样达标监测支柱。 |
 > | [[Vergleichsarbeiten]] | Fact | 德国监测战略中与 Bildungstrend 相互配合的全样本校级诊断测评。 |
 > | [[National Educational Panel Study]] | Fact | 德国监测战略中与 Bildungstrend 形成横纵互补的纵向追踪项目。 |
 > | [[Center of Calculation]] | Concept | IQB 依托该项目及其数据中心行使跨尺度[[Epistemology\|认识论]]治理的核心载体。 |

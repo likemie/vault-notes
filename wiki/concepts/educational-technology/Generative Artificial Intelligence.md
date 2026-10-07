@@ -6,10 +6,10 @@ aliases:
   - GenAI
   - 生成式人工智能技术
   - Artificial Intelligence
-summary: "基于大语言模型与多模态生成架构的认知中介技术，在教育中重构人机知识确证分工；其促学成效取决于教学脚手架、评价性判断的自主维系与生产性认识论摩擦。"
+summary: "基于大语言模型与多模态生成架构的认知中介与通用目的技术；在教育中重构人机知识确证分工，其促学成效取决于教学脚手架、评价性判断的自主维系与生产性认识论摩擦；在国家战略与地缘竞争中涌现出通用人工智能火花并引发软硬件层级逆转，成为决定21世纪大国均势与算法威慑的核心软件中枢。"
 type: concept
 domain: "educational-technology"
-related_count: 127
+related_count: 142
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -20,23 +20,25 @@ tags:
   - learning-sciences
   - higher-education
   - cognitive-load
+  - theme/national-security
+  - theme/geopolitics
 related_concepts:
   - "[[Boundary Object]]"
-  - "[[Scaffolding]]"
-  - "[[Epistemic Friction]]"
-  - "[[Higher-Order Thinking Skills]]"
-  - "[[Evaluative Judgement]]"
-  - "[[Epistemic Dependence]]"
-  - "[[Cognitive Offloading]]"
+  - "[[Artificial General Intelligence]]"
+  - "[[AI Deterrence]]"
   - "[[Externalization]]"
   - "[[Brainstorming]]"
   - "[[General Purpose Technology]]"
   - "[[Determinism]]"
+  - "[[Evaluative Judgement]]"
+  - "[[Scaffolding]]"
   - "[[Creativity]]"
   - "[[Critical Thinking]]"
+  - "[[Cognitive Offloading]]"
   - "[[Scientific Literacy]]"
   - "[[Data Literacy]]"
   - "[[AI Literacy]]"
+  - "[[Epistemic Dependence]]"
   - "[[Document]]"
   - "[[Epistemic Agency]]"
   - "[[Epistemic Stances]]"
@@ -55,6 +57,7 @@ related_concepts:
   - "[[Epistemic Deference]]"
   - "[[Discourse]]"
   - "[[AI Agent in Education]]"
+  - "[[Epistemic Friction]]"
   - "[[Automation Bias]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Socratic Dialogue]]"
@@ -64,6 +67,7 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Alien Intelligence]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Higher-Order Thinking Skills]]"
   - "[[Structured Teaching]]"
   - "[[Computational Thinking]]"
   - "[[Metacognition]]"
@@ -84,6 +88,7 @@ related_concepts:
   - "[[Scientific Explanation]]"
   - "[[Paradigm]]"
   - "[[Technology-Oriented Social Contract]]"
+  - "[[Hard Power]]"
   - "[[Interaction Effect]]"
   - "[[STEM Education]]"
   - "[[Inquiry-Based Learning]]"
@@ -91,6 +96,9 @@ related_concepts:
   - "[[Divergent Thinking]]"
   - "[[Defeater]]"
   - "[[Technology Infusion]]"
+  - "[[Winner's Fallacy]]"
+  - "[[Big Idea Famine]]"
+  - "[[Total Factor Productivity]]"
   - "[[Competitiveness]]"
   - "[[Research Universities]]"
   - "[[Literature Search]]"
@@ -102,6 +110,8 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Growth]]"
+  - "[[Moral Dualism]]"
+  - "[[Technological Republic]]"
   - "[[Modern Industrial Policy]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Affective Outcomes]]"
@@ -130,8 +140,11 @@ related_instruments:
   - "[[PRISMA]]"
 related_persons:
   - "[[Socrates]]"
+  - "[[Sébastien Bubeck]]"
   - "[[Alan C. K. Cheung]]"
   - "[[Chin-Chung Tsai]]"
+  - "[[Alexander Karp]]"
+  - "[[Nicholas Zamiska]]"
 related_facts:
   - "[[Office of Science and Technology Policy]]"
   - "[[Genesis Mission]]"
@@ -139,25 +152,29 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[CHIPS and Science Act]]"
+  - "[[Manhattan Project]]"
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
-  - "[[Argument_Liu_2026_CHBR]]"
-  - "[[Argument_Du_Yuan_2026_AIS]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04]]"
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
+  - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_Wu_2025_ER]]"
   - "[[Argument_Smith_2026_SPE]]"
+  - "[[Argument_Liu_2026_CHBR]]"
   - "[[Argument_Han_Gutierez_2026_IJSE]]"
   - "[[Argument_Jovchevski_2026_PT]]"
   - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Naeem_2026_Episteme]]"
   - "[[Argument_Ramming_2025_CorporateSupport]]"
   - "[[Argument_Zhao_2025_JIntell]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Bown_2024_JEP]]"
 confidence: high
 status: active
 created: 2026-09-01
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Generative Artificial Intelligence
@@ -167,12 +184,19 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 生成式人工智能（Generative Artificial Intelligence, GenAI）指以 Transformer、自回归大语言模型（Large Language Model, LLM）及多模态扩散模型（Diffusion Models）为基础架构，能够依据自然语言提示（Prompts）动态生成连贯文本、程序代码、多维图像、音视频及复杂合成制品的计算技术系统。在教育研究与学习科学视角下，生成式 AI 不仅是一项自动化内容生产工具，更是嵌入在分布式认知网络中的**交互式认知中介、对话伙伴与[[Boundary Object\|边界对象]]**。它能够通过开放式语义联想激发发散构想与反思监控，但其对学习者高阶心智的最终塑造具有高度的情境依从性：既可能在结构化[[Scaffolding\|教学支架]]下维系生产性[[Epistemic Friction\|认识论摩擦]]并实现[[Higher-Order Thinking Skills\|高阶思维]]协同；也可能在非结构化使用中将关键的[[Evaluative Judgement\|评价性判断]]委托给算法黑箱，剥离中间认识动作并滑向有害的[[Epistemic Dependence\|认识依赖]]与[[Cognitive Offloading\|认知卸载]]。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1–3, 10–11)]]; [[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2–3)]]; [[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 1–4)]]
+> 生成式人工智能（Generative Artificial Intelligence, GenAI）指以 Transformer、自回归大语言模型（Large Language Model, LLM）及多模态扩散模型（Diffusion Models）为基础架构，能够依据自然语言提示（Prompts）动态生成连贯文本、程序代码、多维图像、音视频及复杂合成制品的计算技术系统。
+> 
+> 在学习科学视角下，生成式 AI 不仅是一项自动化内容生产工具，更是嵌入在分布式认知网络中的**交互式认知中介、对话伙伴与[[Boundary Object\|边界对象]]**；在国家战略与地缘竞争视角下，前沿生成式模型展现出逼近人类复杂推理的[[Artificial General Intelligence|通用人工智能]]（AGI）火花，推动战争中枢从传统物理动能装备向以敏捷软件与算法为核心的[[AI Deterrence|人工智能威慑]]发生历史性转移。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1–3)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 18–21, 27–28)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–46)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指具有开放上下文理解与概率性合成表征能力的智能中介技术，重塑了知识检索、表征[[Externalization\|外化]]与人机认知劳动力分工的边界。
-> - **用途** 在教育中充当[[Brainstorming\|头脑风暴]]发散伙伴、学术写作支架、个性化形成性反馈提供者与跨学科概念连接中继；在国家创新战略中被确立为大国博弈的核心[[General Purpose Technology|通用目的技术]]。
-> - **边界** 区别于预设规则与[[Determinism\|决定论]]算法，其输出具有概率性不确定性与幻觉特征；无法替代人类具身体验、伦理裁决、学科证据规范核验与核心评价性判断。
+> - **含义** 指具有开放上下文理解与概率性合成表征能力的智能中介技术，重塑了知识检索、表征[[Externalization|外化]]、人机认知劳动力分工以及国家战略防务的指挥中枢。
+> - **用途** 在教育中充当[[Brainstorming|头脑风暴]]发散伙伴、学术写作支架与形成性反馈提供者；在国家战略中被确立为大国博弈的决定性[[General Purpose Technology|通用目的技术]]与战场算法神经中枢。
+> - **边界** 区别于预设规则与[[Determinism|决定论]]算法，其输出具有概率性不确定性；无法替代人类具身体验、伦理裁决、学科证据规范核验与核心[[Evaluative Judgement|评价性判断]]。
+
+> [!citation-card] 通用人工智能火花与软件主从层级颠覆视角
+> 万亿参数大模型在多维隐空间中展现出物理常识推理与概念具象化能力，标志着通用人工智能（AGI）火花的初现。在大国竞争与国防防卫中，软件与硬件的层级关系彻底颠倒：软件跃升为战略感知与指挥调度的核心中枢，动能物理硬件降维成为执行载体。下一场大国冲突的胜负将由软件与算法决定。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 18–21, 27–28)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–46)]]
+>
+> *The hierarchy between software and hardware has inverted... software is the orchestrator, and hardware is the execution layer. The next era of conflict will be won or lost with software. A new era of deterrence built on AI is set to begin.*
 
 > [!citation-card] 樊春良论人工智能作为大国技术契约的核心动员叙事
 > [[Office of Science and Technology Policy|白宫科学技术政策办公室]]（OSTP）将科学技术直接绑定国家繁荣与安全，把关键与新兴技术的全球领先视为美国“国家利益的核心”，并以“赢得 AI 竞赛、再工业化、重建供应链优势”为主要正当性叙事。通过“AI 行动计划”及“[[Genesis Mission|创世纪计划]]”（The Genesis Mission），强化国家实验室与企业在技术推进中的核心作用，使国家战略能力的获取逐步弱化对传统大学科学体系的依赖。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
@@ -180,7 +204,7 @@ updated: 2026-10-07
 > *科技政策将赢得 AI 竞赛确立为国家利益核心叙事，通过 AI 行动计划与创世纪计划动员国家实验室与企业，弱化了对传统大学基础探索的依赖。*
 
 > [!citation-card] 高等教育认知塑造视角
-> 这些研究发现表明，ChatGPT 对学生认知的影响并非该工具自身所固有，而是依存于教学框架、任务设计和教学脚手架。在缺乏教学支架的情境中，研究者观察到[[Creativity\|创造力]]优于[[Critical Thinking\|批判性思维]]的非对称模式以及双重认知侵蚀，二者往往都由认知卸载所引发。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 10)]]
+> 这些研究发现表明，ChatGPT 对学生认知的影响并非该工具自身所固有，而是依存于教学框架、任务设计和[[Scaffolding|教学脚手架]]。在缺乏教学支架的情境中，研究者观察到[[Creativity\|创造力]]优于[[Critical Thinking\|批判性思维]]的非对称模式以及双重认知侵蚀，二者往往都由[[Cognitive Offloading|认知卸载]]所引发。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 10)]]
 >
 > *These divergent findings suggest that the influence of ChatGPT on student cognition is not intrinsic to the tool itself but contingent upon pedagogical framing, task design, and instructional scaffolding... unstructured implementation frequently led to asymmetrical or diminished cognitive engagement.*
 
@@ -189,7 +213,7 @@ updated: 2026-10-07
 >
 > *Science education must shift from static factual recall to evidence evaluation, data literacy, and AI literacy, equipping young people to critically navigate algorithmic tools and their limitations.*
 
-> [!citation-card] 知识确证分工重组与认识依赖视角
+> [!citation-card] 知识确证分工重组与[[Epistemic Dependence|认识依赖]]视角
 > 认识依赖是指在与知识相关的各项活动中对人工智能系统的依托，涵盖获取信息、接收解释、综合[[Document\|文献]]、评价质量、选择诠释、消解不确定性以及为知识主张提供辩护。这一界定远比单纯的行为使用频次更为宽广。一个学习者可能频繁使用人工智能，但只要这种交互能够激发质疑、对比与反思修正，其依然保持着高度的[[Epistemic Agency\|认识主体性]]；相反，另一个学习者可能仅仅使用了一次，却在高风险的评价任务中将算法输出奉为终局定论。因此，分析的界限从来不是使用与否，而是协助形态与认知判断之间的实质关系。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 3–4)]]
 >
 > *For this review, epistemic dependence refers to reliance on AI systems for knowledge-related activity, including obtaining information, receiving explanations, synthesising sources, evaluating quality, selecting interpretations, resolving uncertainty and justifying claims. This definition is broader than behavioural frequency... The analytic boundary is therefore not use versus non-use. It is the relation between assistance and judgement.*
@@ -245,6 +269,8 @@ updated: 2026-10-07
 > - **概念探究闭合-开放问题序列与个人经验图式交织（Closed-to-Open Question Progression & Personal Schema Integration）** 在概念探究中，[[Generative AI Agent in Education|生成式智能体]]从封闭式收敛问题（厘清基础事实与概念定义）逐步过渡到开放式发散追问（[[Counterfactual|反事实]]情境、跨学科隐喻与现实迁移），并强制引导学生将抽象概念与个人独特的先验知识与生活经验图式（如结合音乐声学或空间模型）深度交织，促进深层理解与内化。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 275–278)]]
 > - **私厨隐喻与成长性认识侵害（Personal Chef Picture & Formative Epistemic Harm）** 破除将生成式 AI 视作计算器的工具辩护假定，揭示其在读写教育中代笔全流程的私厨本质。写作作为一门不可替代的认知-发现工序，其核心心智价值深植于面对空白建立观点的构思阶段、将复杂思想线性化的提纲阶段，以及基于自我评估实现深层认知重组的修改阶段。由算法代劳上述工序，剥夺了认知者习得论证组织与思想澄清等核心智力技能的试错机会，造成不可逆的成长性认识侵害。[[Argument_Smith_2026_SPE\|(Smith, 2026, pp. 2–8)]]
 > - **[[Alien Intelligence|异己智能]]定位与思维步骤全外显教学防御（Alien Intelligence & Showing Steps Protocol）** 确立防范[[Formative Epistemic Injustice|成长性认识不正义]]的双重教学防御战线：其一是在认知表征上打破拟人化共情幻想，将大语言模型严格定位于欠缺具身生活经验与伦理关怀的异己智能（Alien Intelligence），引导学生开展反向修辞审问与批判性纠偏；其二是在评价机制上推行思维步骤全透明外显（Showing Steps），强制要求提交构思笔记、草稿演变轨迹与查错日志，将评价重心彻底从终稿语言表象转向真实的认知论证过程。[[Argument_Smith_2026_SPE\|(Smith, 2026, pp. 9–14)]]
+> - **[[Artificial General Intelligence|通用人工智能]]火花与多模态空间常识（Sparks of AGI & Multimodal Commonsense Reasoning）** 万亿参数大模型展现出跨模态模式识别与物理常识隐空间表征（如[[Sébastien Bubeck|塞巴斯蒂安·布贝克]]等人开展的 3D 空间立体堆叠与 TikZ 独角兽代码绘制），打破了人类在心智、[[Creativity|创造力]]与复杂推理领域的历史垄断。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 18–21)]]
+> - **软件世纪与软硬件支配关系的根本颠覆（Software-Hardware Hierarchy Inversion）** 在国家防务与高维博弈中，生成式大模型与算法跃升为全域感知、多模态情报解算与杀伤链分派的指挥中枢，动能物理硬件（战机、坦克、舰艇）降维成为执行软件决策的消耗性载体。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–46)]]
 > - **分布式计算底座与大学前竞争开源基础设施（Distributed Computing & Open-source AI Infrastructure）** 生成式 AI 模型（如 ChatGPT 等基础大模型）的百亿/千亿级参数训练与高并发推理，不仅依赖深度学习算法，更深植于大学前竞争[[University-Industry Collaboration|产学合作]]孕育的分布式系统。加州大学伯克利分校（UC Berkeley）联合实验室（从 [[Universal Parallel Computing Research Centers|UPCRC]] 到 AMPLab、RISELab）研发的 Apache Spark 与 Ray（高性能分布式 AI 调度执行框架），直接演进为支撑 OpenAI 训练与调度超大规模生成式模型的关键工业算力底座，证明了大学长期基础探索对现代生成式人工智能产业的底层支撑功能。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 232)]]
 
 > [!quad-grid] 四重社会技术中介路径
@@ -389,6 +415,16 @@ updated: 2026-10-07
 
 ---
 
+### 命题八　前沿生成式大模型涌现出通用人工智能火花，推动大国战略竞争与战争指挥中枢向软件算法发生历史性逆转
+
+> [!concept-lens] [[Artificial General Intelligence|通用人工智能]]火花与软件[[Hard Power|硬实力]]颠覆
+> 探讨生成式大模型如何打破人类心智独占地位，并确立软件代码作为 21 世纪大国硬实力中枢的核心地位。
+
+> [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
+> **软件中枢确立与战略威慑重构** 卡普与扎米斯卡指出，以万亿参数大模型为代表的生成式人工智能，展现出跨越语言、数学与物理常识的通用人工智能（AGI）火花。在 21 世纪的软件世纪中，软件与硬件的地位彻底颠倒：软件跃升为战术决策与全域协同的指挥中枢，动能装备降维为消耗性执行载体。面对地缘对手在军事算法上的全面推进，生成式人工智能已成为构建[[AI Deterrence|人工智能威慑]]与维系大国力量均势的决定性基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 18–21, 26–28)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–46)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -401,6 +437,7 @@ updated: 2026-10-07
 > | **共生认识演进命题** | 共生伙伴关系中认识立场呈绝对主义向评价主义演进，依赖技术提示与教学双轨支架维系认识主体性 | 人机协同[[Knowledge Production\|知识建构]]、提示词工程教学、[[Inquiry-Based Learning\|探究式学习]]与认识信念发展 | [[Argument_Wu_2025_ER\|Wu et al. (2025)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] |
 > | **成长性认识正义命题** | 破除计算器辩护假定，揭示读写教育中全流程代写的私厨本质与成长性侵害，通过异己智能定位与思维全外显（Showing Steps）防范认知去技能化 | 人文学科与通识读写教育、学术论文指导、思维演进过程性评价改革 | [[Argument_Smith_2026_SPE\|Smith (2026)]] |
 > | **国家战略动员与契约重构命题** | 赢得 AI 竞赛确立为国家核心利益叙事，依托公私伙伴与国家实验室绕开大学基础研究直接获取前沿技术能力 | 大国地缘科技竞争、[[National Innovation System\|国家创新体系]]重构、技术型社会契约 | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] |
+> | **软硬件主从逆转与算法威慑命题** | AGI 隐空间[[Emergence\|涌现]]常识推理，确立软件统领动能硬件的新范式，构成 21 世纪大国力量均势的算法威慑中枢 | 大国地缘均势、国防采办重构、前沿战场软件攻坚 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
 
 ---
 
@@ -434,6 +471,18 @@ updated: 2026-10-07
 > >
 > > - **Mollick & Mollick (2023)** 倾向于将 AI 视为解放学生繁琐表达负担、加速灵感实现的认知杠杆。
 > > - **[[Argument_Smith_2026_SPE\|Smith (2026)]]** 深度论证写作本质是一项不可替代的认知-发现工序，生成式 AI 的全流程代写剥夺了学习者习得论证与反思能力的核心机会，构成严重的[[Formative Epistemic Injustice\|成长性认识不正义]]。
+>
+> > [!axis] AI 研发单边暂停倡议 vs 大国战略抢跑与[[AI Deterrence|算法威慑]]：生成式前沿模型地缘博弈争议
+> > 围绕前沿大模型安全风险与呼吁暂停研发（Pause AI）倡议展开的现实主义争论。
+> >
+> > - **单边暂停与对齐规制派** 强调前沿生成式大模型存在不可控的失控对齐风险与人类心智侵蚀，呼吁全球签署暂停研发协议并实施严苛的微观语言审查。
+> > - **战略现实主义威慑派（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska, 2025]]）** 卡普与扎米斯卡批判科技界呼吁暂停研发是自私且短视的[[Winner's Fallacy|胜者谬误]]；在缺乏可信多边核查的前提下，西方单方面停滞只会让缺乏底线的威权对手抢占算法制高点，必须加快研制保卫自由社会的武器级生成式软件中枢。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 26–28)]]
+>
+> > [!axis] 消费级浅层应用内卷 vs 深层实体重大工程：生成式 AI 资本与智力资源错配争议
+> > 批判生成式 AI 资本与人才过度向浅层商业消费软件倾斜的创新异化现象。
+> >
+> > - **[[Big Idea Famine|大构想饥荒]]批判派（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska, 2025]]）** 指出数万亿资本与顶级工程师将生成式 AI 浪费在外卖送餐、洗涤、社交游戏与广告推荐算法的微小优化上，造成宏观[[Total Factor Productivity|全要素生产率]]长期停滞；呼吁通过国家战略牵引将生成式智能导向核聚变、先进机器人与生命科学等深层物理突破。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 48–51)]]
+> > - **消费互联网平台演进派** 认为消费级市场的高流动性与海量用户反馈是推动模型快速工程化降本与算法自发迭代的最佳孵化场。
 >
 > > [!axis] 权威全知先知 vs 批判对话伙伴：人机[[Epistemic Stances\|认识立场]]的演进分歧
 > > 探讨生成式 AI 在学习者心智中究竟被建构为无所不知的真理提供者，还是需要接受持续审问与证据校验的共生思维辩友。
@@ -527,6 +576,11 @@ updated: 2026-10-07
 > |:-----|:-----|:-----|
 > | [[Technology-Oriented Social Contract]] | Concept | 2025 年起美国科技政策新[[Paradigm\|范式]]，将赢得人工智能竞赛确立为国家利益核心叙事与技术动员中枢。 |
 > | [[Social Contract of Science]] | Theory | 生成式 AI 重构国家与科学界关系，推动二战后以大学为中心的传统契约向技术采购型契约演进。 |
+> | [[AI Deterrence]] | Concept | 前沿生成式模型驱动的算法中枢与自主系统，构成 21 世纪大国力量均势的新型战略威慑形态。 |
+> | [[Artificial General Intelligence]] | Concept | 万亿参数大模型展现出的常识与推理火花，标志着通用人工智能从理论假想向工程现实演进。 |
+> | [[Big Idea Famine]] | Concept | 生成式 AI 资本与人才陷入消费级浅层应用而忽略深层实体重大工程的结构性危机。 |
+> | [[Moral Dualism]] | Concept | 阻碍前沿生成式 AI 技术与国家战略防务深度结合的认知偏见。 |
+> | [[Alexander Karp]] | Person | 《[[Technological Republic\|技术共和国]]》作者，系统论述生成式 AI 作为软件[[Hard Power\|硬实力]]对重塑地缘均势与战争形态的决定性作用。 |
 > | [[Modern Industrial Policy]] | Concept | 生成式 AI 对先进算力芯片的爆发式需求，成为推动美欧出台[[CHIPS and Science Act\|芯片法案]]与出口管制的关键宏观推手。 |
 > | [[Epistemic Friction]] | Concept | 维持生产性认识论摩擦以抵抗生成式模型流畅顺滑输出引发的心智外包与[[Cognitive Offloading\|认知卸载]]。 |
 > | [[Evaluative Judgement]] | Concept | 生成式[[Man-Computer Symbiosis\|人机协同]]中的核心人类认识能力，防范高风险评价性判断被算法置换。 |
@@ -539,6 +593,8 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025, Ch. 2)]] — 探讨万亿参数大模型展现出的[[Artificial General Intelligence|通用人工智能]]（AGI）火花及其对人类心智独占地位的挑战，批判硅谷单边暂停 AI 研发的虚伪自满，阐述生成式 AI 构筑 21 世纪[[AI Deterrence|人工智能威慑]]的核心支柱作用。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025, Ch. 4)]] — 论证生成式 AI 驱动的软件世纪彻底逆转了软硬件主从支配关系（软件为决策指挥中枢、硬件为执行载体），痛陈资本向浅层消费应用倾斜引发的[[Big Idea Famine|大构想饥荒]]，呼吁启动战场 AI 新[[Manhattan Project|曼哈顿工程]]。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，论证生成式人工智能如何成为 2025 年起美国科技政策“再集中与再动员”的核心叙事，以及国家如何依托私营科技巨头与国家实验室绕开大学基础探索直接获取技术主导权。
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]学习伙伴关系模型，系统阐释绝对主义、相对主义与评价主义三大[[Epistemic Stances\|认识立场]]，构建技术提示支架（[[Role-playing\|角色扮演]]、[[Chain-of-Thought Prompting\|思维链]]分解）与教学法支架协同矩阵，阐明维系人类[[Epistemic Agency\|认识主体性]]与防范[[Cognitive Offloading\|认知卸载]]的实践路径。
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 运用随机效应[[Meta-analysis\|元分析]]综合 29 项实验与准[[Experimental Research\|实验研究]]（59 个[[Effect Size\|效应量]]），系统确立生成式 AI 对学生[[Higher-Order Thinking Skills\|高阶思维]]的中等显著促学效应（$g = 0.609$），并实证揭示干预时长（8–16 周倒 U 型最优窗口）与[[Self-Regulated Learning\|自我调节学习]]能力（高低 SRL 组间差异极显著）的决定性调节边界。

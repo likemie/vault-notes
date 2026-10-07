@@ -8,10 +8,10 @@ summary: "美国社会学家，斯坦福学派新制度主义与世界社会理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 39
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 40
+person_related_level: 5
+person_related_stars: "⭐⭐⭐⭐⭐"
+person_related_color: "#ffedd5"
 born: "1935"
 died: ""
 lifespan: 1935–至今
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Hypothesis]]"
+  - "[[Hard Power]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Constructivist Paradigm]]"
   - "[[Discourse]]"
@@ -142,7 +143,7 @@ updated: 2026-10-07
 > *Prevailing social theories [[Accounts|account]] poorly for these changes. Given a dynamic sociocultural system, realist models can account for a world of economic and political absorption, inequality, and domination. They do not well explain a world of formally equal, autonomous, and expansive nation-state actors. (Meyer et al., 1997, p. 174)*
 
 > [!citation-card] 迈耶论为他者行动的理智化权威
-> 各种社会发展模型并非依靠硬权力的直接强制，而是由理性化的他者所承载，他们的科学与专业权威往往远超其拥有的实际资源与强制权力；现代世界文化正是通过这种理智化方式，赞美、扩展并标准化了在文化上受到[[Disciplina and Doctrina|规训]]但形式上强大的国家行动者。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 106)]]
+> 各种社会发展模型并非依靠[[Hard Power|硬权力]]的直接强制，而是由理性化的他者所承载，他们的科学与专业权威往往远超其拥有的实际资源与强制权力；现代世界文化正是通过这种理智化方式，赞美、扩展并标准化了在文化上受到[[Disciplina and Doctrina|规训]]但形式上强大的国家行动者。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 106)]]
 >
 > *Carried by rationalized others whose scientific and professional authority often exceeds their power and resources... world culture celebrates, expands, and standardizes strong but culturally somewhat tamed national actors. (Meyer et al., 1997, p. 173)*
 
@@ -217,7 +218,7 @@ updated: 2026-10-07
 > [!critique]- 批评索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 批判迈耶新制度主义世界文化流派过度依赖国家层面的入学率与法律文本等宏观统计指标，完全忽略了边缘国家内部触目惊心的阶级再生产机制与跨国资本掠夺。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 强调第四阶段[[Discourse|话语]]（1970–1990）虽然借助世界体系与跨国模型拓宽了宏观视野，但过度沉溺于当代实证数据集与组织趋同分析，在客观上加剧了比较教育学历史研究维度的边缘化（历史论文占比降至不足 5%）。
-> - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 指出世界社会理论过于倚重观念扩散与规范同构，可能低估了民族国家硬实力、地缘政治冲突以及商业资本利益对组织行为的直接强制干预。
+> - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 指出世界社会理论过于倚重观念扩散与规范同构，可能低估了民族国家[[Hard Power|硬实力]]、地缘政治冲突以及商业资本利益对组织行为的直接强制干预。
 
 > [!warning] 未解问题与边界
 > 世界社会理论在解释全球化高潮期“形式制度高度趋同”上具有无可比拟的洞察力；然而，面对当前逆全球化浪潮、大国地缘博弈复归、民粹主义排外思潮以及“脱节”（Decoupling）现象背后深层的政治利益算计，该理论单纯依靠文化模型与理性化传播的[[Analytic Framework|分析框架]]展现出明显的解释边界，亟需与政治经济学批判进行更深层次的理论对话。

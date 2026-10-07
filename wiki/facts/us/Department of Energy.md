@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 41
+fact_related_count: 43
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -52,11 +52,13 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Mariana Mazzucato]]"
+  - "[[Alfred Nobel]]"
   - "[[Venkatesh Narayanamurti]]"
   - "[[Michael Kratsios]]"
   - "[[Paula Stephan]]"
 related_facts:
   - "[[Genesis Mission]]"
+  - "[[Manhattan Project]]"
   - "[[Loan Programs Office]]"
   - "[[Human Genome Project]]"
   - "[[EUV LLC]]"
@@ -77,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Department of Energy
@@ -90,7 +92,7 @@ updated: 2026-10-07
 > 美国能源部（United States Department of Energy，简称 DOE）是美国联邦政府负责国家能源战略、核安全保障以及重大基础与工程前沿科学研发的内阁级行政主管机关；依托遍布全美的 17 所国家实验室体系（汇聚约 4 万名科学家与工程师，年研发预算约 200 亿美元），DOE 构成了美国物理科学、先进材料、高性能计算以及大型重大科技基础设施领域的头号公共资助者与研发组织者。在科技政策与国家战略中，DOE 既是冷战[[Big Science|大科学工程]]与颠覆性[[Research Translation|技术转化]]的母体，也是 21 世纪使命导向型科研、绿色[[Market Shaping and Creating|市场塑造]]以及[[Genesis Mission|创世纪计划]]（Genesis Mission）人工智能科研超级平台的战略中枢。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 19, 61–63)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1977 年由吉米·卡特（Jimmy Carter）总统签署法案设立，整合二战曼哈顿工程以来的能源研发署（ERDA）、联邦能源署（FEA）及原子能委员会（AEC）等机构，以应对 1970 年代石油危机暴露出的国家能源安全脆弱性。
+> - **成立时间 / 创设背景** 1977 年由吉米·卡特（Jimmy Carter）总统签署法案设立，整合二战[[Manhattan Project|曼哈顿工程]]以来的能源研发署（ERDA）、联邦能源署（FEA）及原子能委员会（AEC）等机构，以应对 1970 年代石油危机暴露出的国家能源安全脆弱性。
 > - **总部地点 / 业务辐射** 总部位于美国华盛顿特区福里斯特尔大厦，业务管辖覆盖全美 17 所多学科国家实验室、国家核安全局（NNSA）以及上百所[[Research Universities|研究型大学]]与私营工业的前沿技术攻关网络。
 > - **法人属性与经费基础** 联邦内阁级政府行政机关；下设科学办公室（Office of Science）管理巨额外延基础与物质科学基金，贷款项目办公室（[[Loan Programs Office|LPO]]）主导数百亿美元的国家清洁技术金融担保，并在国家安全总统备忘录授权下牵头建设跨机构的美国科学与安全平台（American Science and Security Platform, ASSP）。
 > - **核心宗旨与法定职责** “推进美国国家安全与经济繁荣”，通过攻克能源、环境、先进制造和核安全领域的关键科学与工程[[Grand Challenges|重大挑战]]，推动变革性科学发现、尖端工业转化与战略制造自主。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 61–63)]]
@@ -100,7 +102,7 @@ updated: 2026-10-07
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1942–1977 — 战时军工起源与机构整合期** 源于曼哈顿工程建立的洛斯阿拉莫斯、橡树岭等绝密实验室，历经原子能委员会（AEC）与能源研发署（ERDA），逐步从单一核武器研制拓展至核动力堆、受控核聚变与辐射生物学研究（包括后来成为[[Human Genome Project|人类基因组计划]]发端的基础工作）。
+> - **1942–1977 — 战时军工起源与机构整合期** 源于[[Manhattan Project|曼哈顿工程]]建立的洛斯阿拉莫斯、橡树岭等绝密实验室，历经原子能委员会（AEC）与能源研发署（ERDA），逐步从单一核武器研制拓展至核动力堆、受控核聚变与辐射生物学研究（包括后来成为[[Human Genome Project|人类基因组计划]]发端的基础工作）。
 > - **1977–2000 — 内阁设部与[[Big Science|大科学]]基础设施确立** 1977 年正式成立能源部，将分散的国家实验室群整合为统一的国家科研基础设施基地；在 1990 年代末，能源部劳伦斯利弗莫尔、劳伦斯伯克利与桑迪亚三大国家实验室组建“虚拟国家实验室”（Virtual National Laboratory, VNL），深度协同英特尔等工业巨头组建 [[EUV LLC]] 产学研财团，历时四年攻克极紫外光刻核心技术原型。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 44)]]
 > - **2009 — 危机应对与颠覆性绿色创新机制爆发** 在《美国复苏与再投资法案》（ARRA）支持下，正式启动高级能源研究计划署（[[ARPA-E|Advanced Research Projects Agency-Energy]], [[DARPA|ARPA]]-E，借鉴 [[DARPA]] 模式），设立能源前沿研究中心（EFRCs），并通过第 1705 条款清洁能源贷款担保计划向特斯拉等企业注入数十亿美元风险贷款。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 > - **2022 — [[CHIPS and Science Act|芯片法案]]授权与科研基础扩容** 依据《[[CHIPS and Science Act|芯片与科学法案]]》，科学办公室获授权在五年内新增 305 亿美元预算，重点通过竞争性课题流向高水平[[Research Universities|研究型大学]]实验室，与国家实验室协同攻坚清洁能源、量子计算与先进材料。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
@@ -156,7 +158,7 @@ updated: 2026-10-07
 
 > [!indicators]- 影响力维度与指标
 > - **科研资产与预算规模** 管理 17 所国家实验室，拥有全美最集中的物理科学、材料工程与超算研究网络，年科研与项目预算逾 400 亿美元。
-> - **诺贝尔奖谱系关联** 依托 DOE 资助诞生的诺贝尔物理学奖与化学奖得主逾百位。
+> - **[[Alfred Nobel|诺贝尔]]奖谱系关联** 依托 DOE 资助诞生的诺贝尔物理学奖与化学奖得主逾百位。
 > - **前沿产业母体孵化** 奠定了商用轻水堆、极紫外光刻（EUV）、现代锂电池、碳纤维与全基因组测序底层专利的早期核心基础。
 
 > [!finding-cards] 关键成效与政策辐射

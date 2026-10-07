@@ -5,7 +5,7 @@ aliases:
 summary: "Diane Stone (2020) 与 Steiner-Khamsi 等倡导的方法论立场，主张超越方法论民族主义与线性层级霸权观，将国家与全球视作相互依存的关系性空间，聚焦全球/国家联结。"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Space of Flows and Space of Places]]"
   - "[[Policy Network]]"
   - "[[Governing by Numbers]]"
+  - "[[Hard Power]]"
   - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Document]]"
@@ -176,7 +177,7 @@ updated: 2026-10-07
 > [!debates] 学术争议
 >
 > > [!axis] [[Relational Space\|关系性空间]]分析能否有效衡量地缘主权壁垒
-> > 争论过于强调关系性与相互依存是否会导致对国家硬实力和地缘对抗的低估。
+> > 争论过于强调关系性与相互依存是否会导致对国家[[Hard Power|硬实力]]和地缘对抗的低估。
 > >
 > > - **跨国学派** 坚持全球化网络已经重塑了治理本体，单纯依赖国家领土视角无法解释跨国规范流通。
 > > - **新现实主义/地缘学派** 批评方法论跨国主义在解释大国竞争、地缘政治封锁以及主权教育安全防御时可能脱离物质权力现实。

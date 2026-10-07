@@ -54,6 +54,7 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Academic Freedom]]"
   - "[[Knowledge Diplomacy]]"
+  - "[[Hard Power]]"
   - "[[Policy Network]]"
   - "[[Relational Space]]"
   - "[[Confucian Heritage Cultures]]"
@@ -96,7 +97,7 @@ title: "Argument_Yu_Xie_2025_JHE"
 argument_key: "Argument_Yu_Xie_2025_JHE"
 argument_display_title: "空间、权力与高等教育：地缘政治视角下的高等教育研究"
 argument_kind: "journal-article"
-argument_related_count: 62
+argument_related_count: 63
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -407,7 +408,7 @@ journal: "高等教育研究"
 ### 论证步骤六：跨境合作——从软实力到空间项目
 
 > [!claim] 软实力和[[Knowledge Diplomacy\|知识外交]]等概念隐含国家中心主义的分析前提，难以捕捉高校的能动性和空间-权力格局的根本性重构
-> 传统地缘政治研究将跨境合作视为国家软实力的重要载体。软实力（soft power）概念由奈（J. Nye）在冷战结束前后围绕美国是否走向相对衰落的政策与学术争论中提出（Nye, 2005），其核心是以吸引而非强制来塑造他者偏好的能力，即在硬实力之外，可以通过文化、政治价值与被视作合法的外交政策维持与放大影响力（Nye, 2004, 2005）。奈认为在传媒革命与全球化条件下，议程设置与使自身规范被视为正当对国家的影响力尤为关键。
+> 传统地缘政治研究将跨境合作视为国家软实力的重要载体。软实力（soft power）概念由奈（J. Nye）在冷战结束前后围绕美国是否走向相对衰落的政策与学术争论中提出（Nye, 2005），其核心是以吸引而非强制来塑造他者偏好的能力，即在[[Hard Power|硬实力]]之外，可以通过文化、政治价值与被视作合法的外交政策维持与放大影响力（Nye, 2004, 2005）。奈认为在传媒革命与全球化条件下，议程设置与使自身规范被视为正当对国家的影响力尤为关键。
 >
 > 国家通过跨境合作实现软实力的具体路径包括：
 > - 课程与教学设计，塑造他国对本国发展道路的好感（Wojciuk et al., 2015）

@@ -41,7 +41,8 @@ related_methods:
   - "[[Archival Research]]"
   - "[[Accounts]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Robert J. Gordon]]"
 related_facts:
   - "[[Fairchild Semiconductor]]"
 related_arguments: []
@@ -57,7 +58,7 @@ title: "Argument_Lecuyer_1999_HT"
 argument_key: "Argument_Lecuyer_1999_HT"
 argument_display_title: "Silicon for industry: Component design, mass production, and the move to commercial markets at Fairchild Semiconductor, 1960–1967"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -106,7 +107,7 @@ issuing_organization: ""
 > |------|----------------|
 > | **历史[[Case Study\|个案研究]]<br>Historical Case Study** | 以 1960 至 1967 年间的[[Fairchild Semiconductor\|仙童半导体]]为深入剖析案例，系统追踪其从军品垄断者向民用市场霸主转型的全过程。（pp. 180–182） |
 > | **[[Archival Research\|档案研究]]与文献分析<br>Archival Research & Documentary Analysis** | 详尽调阅斯坦福大学特藏档案馆（Stanford Archives and Special Collections）史蒂夫·艾伦摄影档案、杰·拉斯特收藏、诺伊斯演讲手稿、仙童内部产品目录、工程应用说明书（如 APP 44）及国防采购记录。（pp. 180, 209–216） |
-> | **口述史访谈<br>Oral History Interviews** | 对查尔斯·斯波克（Charlie Sporck）、戈登·摩尔（Gordon Moore）、约翰·赫尔姆（John Hulme）、纳尔逊·斯通（Nelson Stone）、力克斯·赖斯（Rex Rice）等企业核心高管与工程师进行口述访谈。（pp. 209–216） |
+> | **口述史访谈<br>Oral History Interviews** | 对查尔斯·斯波克（Charlie Sporck）、[[Robert J. Gordon\|戈登]]·摩尔（Gordon Moore）、约翰·赫尔姆（John Hulme）、纳尔逊·斯通（Nelson Stone）、力克斯·赖斯（Rex Rice）等企业核心高管与工程师进行口述访谈。（pp. 209–216） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |

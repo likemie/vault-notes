@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 122
+related_count: 123
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -81,6 +81,7 @@ related_theories:
   - "[[Radical Constructivism]]"
   - "[[Knowledge Building Theory]]"
   - "[[Phenomenology]]"
+  - "[[Legitimation Crisis]]"
   - "[[Critical Theory]]"
   - "[[Post-structuralism]]"
   - "[[Bounded Rationality]]"
@@ -910,7 +911,7 @@ Hattie and Zierer 自身的陈述——"课堂上只有 20% 可观察"（Hattie 
 ---
 ### 合法化危机与技术理性（Nielsen & Klitmøller, 2021）
 
-Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触及的维度：**不追问 VL 的方法论是否有效（已知有严重缺陷），而是追问为什么方法论上已被广泛批评的 VL 仍然主导全球教育政策**。答案来自 Habermas（1976）的合法化危机理论——VL 的吸引力不在于其科学质量，而在于其**合法化功能**。
+Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触及的维度：**不追问 VL 的方法论是否有效（已知有严重缺陷），而是追问为什么方法论上已被广泛批评的 VL 仍然主导全球教育政策**。答案来自 Habermas（1976）的[[Legitimation Crisis|合法化危机]]理论——VL 的吸引力不在于其科学质量，而在于其**合法化功能**。
 
 #### 论证步骤一：VL 的流行无法用经验质量解释
 
@@ -1203,7 +1204,7 @@ VL 证据在政策过程中被多次误用。[[Argument_ONeill_2012_NZJES|O'Neil
 > - [[Argument_Terhart_2011_JCS\|Terhart (2011)]] 从[[Epistemology\|认识论]]（稳定性/变异性双重困境）、[[Didaktik\|教学理论]]（[[Bildung]] 缺失）和 Foucault 政治哲学（可见性作为精致的支配）三维度论证*“很明显 Hattie 事实上没有找到圣杯”*（[[Argument_Terhart_2011_JCS\|Terhart, 2011, p. 436]]）
 > - [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 虽然承认 Hattie 的愿景“有远见”且“为他赢得了宝贵而持久的优点”，但方法*“在当前出版条件下以科学合理的方式是不可行的”*（p. 1, pp. 34–35）
 > - McKnight & Whitburn 提出学校中本应出现但缺席的论述：抗制企业品牌、重视教师专业知识、对教育研究持批判态度、选择性和策略性地使用 VL、情境比服从更重要、对学习的理解比 VL 更复杂（p. 42）
-> - Nielsen & Klitmøller（2021）从 Habermas 合法化危机理论出发，论证 VL 的全球流行不是科学质量的标志，而是其[[Technical Rationality\|技术理性]]内核满足了现代教育系统的合法化需求——以消除学生和教师的意向性为代价
+> - Nielsen & Klitmøller（2021）从 Habermas [[Legitimation Crisis|合法化危机]]理论出发，论证 VL 的全球流行不是科学质量的标志，而是其[[Technical Rationality\|技术理性]]内核满足了现代教育系统的合法化需求——以消除学生和教师的意向性为代价
 
 
 ---

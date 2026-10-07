@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Pilot Scale Platform]]"
   - "[[Innovation Hub]]"
+  - "[[Total War]]"
   - "[[STEM Education]]"
   - "[[Application Engineering]]"
   - "[[Research Translation]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-08
 ---
 
 # NSF Regional Innovation Engines
@@ -121,7 +122,7 @@ updated: 2026-10-06
 ## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
-> - **发起与资助方（[[National Science Foundation|NSF TIP]] 署）** 负责总体战略设计、公开评审组织、里程碑绩效追踪与跨联邦机构（如商务部 EDA、能源部）政策协调。
+> - **发起与资助方（[[National Science Foundation|NSF TIP]] 署）** 负责[[Total War|总体战]]略设计、公开评审组织、里程碑绩效追踪与跨联邦机构（如商务部 EDA、能源部）政策协调。
 > - **核心牵头机构（[[Research Universities|研究型大学]]与科研院所）** 提供前沿跨学科科研底座、专利技术中试转化与高阶 [[STEM Education|STEM]] 人才培养。
 > - **技术教育与技能枢纽（社区学院与技职院校）** 与企业共同开发模块化微证书、[[Apprenticeship|注册学徒制]]课程与洁净室操作实训，直接负责一线技术工人与[[Application Engineering|应用工程]]师的大规模技能输送。
 > - **产业界与用人单位（从龙头 OEM 到中小型供应商）** 提供工业场景验证、商业化配套资金、技术导师及学徒制岗位。

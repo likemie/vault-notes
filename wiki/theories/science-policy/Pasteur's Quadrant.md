@@ -8,7 +8,7 @@ aliases:
 summary: "斯托克斯（Donald Stokes）1997年提出的科研分类框架，以二维矩阵取代线性基础/应用二分法，以巴斯德象限代表同时追求机理理解与现实应用的用启发性基础研究；2026年被确立为重构联邦科研资助与新型组织形态的战略基石。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 44
+theory_related_count: 46
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -48,6 +48,7 @@ related_instruments: []
 related_persons:
   - "[[Donald Stokes]]"
   - "[[Vannevar Bush]]"
+  - "[[Alfred Nobel]]"
   - "[[Michael Kratsios]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
@@ -55,6 +56,7 @@ related_facts:
   - "[[DARPA]]"
   - "[[National Institutes of Health]]"
   - "[[Science A New Golden Age 2026]]"
+  - "[[Manhattan Project]]"
   - "[[National Science Foundation]]"
   - "[[NSF Broader Impacts Criterion]]"
   - "[[NSF X-Labs]]"
@@ -70,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Pasteur's Quadrant
@@ -106,7 +108,7 @@ updated: 2026-10-07
 > - **2000s — 任务导向型资助普及** [[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）、国立卫生研究院（[[National Institutes of Health]], NIH）及各大学跨学科前沿中心广泛将巴斯德象限作为立项设计的核心依据。
 > - **2013 — 动态循环视角的批判修正** 纳拉亚纳穆尔提等指出，巴斯德象限保留了二分法词汇，本质上仍是立项阶段的静态动机快照，无法解释科学发现与技术发明跨越数十年演进网络中的多时间尺度双向流转，主张由[[Discovery-Invention Cycle|发现-发明循环]]理论进一步更替。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 32–33)]]
 > - **2025–2026 — 技术型契约重构与抗脆弱性认知** [[Argument_Fan_2026_BCAS|樊春良 (2026)]] 揭示美国转向[[Technology-Oriented Social Contract|技术型社会契约]]；在科研生态向国家任务与产业获取集中的背景下，巴斯德象限被确立为维系深层机理探索与防范技术系统陷入认知脆弱的核心支柱。
-> - **2026 — 确立为联邦科技体制战略基石** 白宫科技战略报告《[[Science A New Golden Age 2026|科学：新的黄金时代]]》以巴斯德象限全面替换失效的线性管道，将 2024 年诺贝尔化学奖（蛋白质折叠计算）、2025 年诺贝尔物理学奖（超导量子器件）以及香农信息论和晶体管归入该象限，并以此论证发展[[Focused Research Organization|聚焦研究组织]]与重组 2028 财年联邦研发预算优先序。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 6–7, 20–26)]]
+> - **2026 — 确立为联邦科技体制战略基石** 白宫科技战略报告《[[Science A New Golden Age 2026|科学：新的黄金时代]]》以巴斯德象限全面替换失效的线性管道，将 2024 年[[Alfred Nobel|诺贝尔]]化学奖（蛋白质折叠计算）、2025 年诺贝尔物理学奖（超导量子器件）以及香农信息论和晶体管归入该象限，并以此论证发展[[Focused Research Organization|聚焦研究组织]]与重组 2028 财年联邦研发预算优先序。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 6–7, 20–26)]]
 
 ---
 
@@ -131,7 +133,7 @@ updated: 2026-10-07
 > [!theory-proposition] 命题一｜科研动机在[[Epistemology|认识论]]与社会功能上构成二维正交空间，而非互斥的零和滑动轴
 > **解释** 布什学派的传统教条假定，对实用目的的关注必然会损害科学探索的纯洁性与自主性；斯托克斯从科学史中考证出，科学发展史上大量最卓越的理论飞跃，恰恰是在攻克工业生产、农业疫病、国家防卫等极端严苛的现实问题时被逼迫出来的。动机之间不存在天然互斥，二维正交模型更符合科学共同体的实证常态。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
 >
-> **应用实例** 曼哈顿工程中的理论物理学家，在极其具体的核武器工程研制目标的倒逼下，极大地深化了中子输运理论、状态方程与流体力学非线性计算的前沿理论认知。
+> **应用实例** [[Manhattan Project|曼哈顿工程]]中的理论物理学家，在极其具体的核武器工程研制目标的倒逼下，极大地深化了中子输运理论、状态方程与流体力学非线性计算的前沿理论认知。
 
 > [!theory-proposition] 命题二｜巴斯德象限研究应成为国家创新政策与公共研发资助的战略重心
 > **解释** 斯托克斯主张，[[Curiosity-Driven Research|纯基础研究]]（玻尔象限）往往周期漫长且方向难以预测，纯应用研究（爱迪生象限）易于被私营部门资本化，而巴斯德象限既能产生惠及全人类的基础公共知识，又能直接针对重大国家战略需求产出解决方案，因此构成了政府科技投资最理想的重点支持领域。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]

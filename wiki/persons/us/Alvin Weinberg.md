@@ -3,7 +3,7 @@ summary: "美国著名核物理学家与大科学时代科技政策思想奠基�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -29,7 +29,8 @@ related_theories:
 related_persons:
   - "[[Mariana Mazzucato]]"
   - "[[Rainer Kattel]]"
-related_facts: []
+related_facts:
+  - "[[Manhattan Project]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
 related_methods:
@@ -37,7 +38,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-07
 title: Alvin Weinberg
 aliases:
   - Weinberg, A.
@@ -53,7 +54,7 @@ aliases:
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 阿尔文·马丁·温伯格（Alvin Martin Weinberg，1915–2006），美国著名核物理学家、科学哲学家与国家科技政策先驱；曼哈顿计划（Manhattan Project）核心科学家，1955 至 1973 年担任美国橡树岭国家实验室（Oak Ridge National Laboratory, ORNL）主任长达 18 年，后任美国能源分析研究所首任所长。
+> - **身份位置** 阿尔文·马丁·温伯格（Alvin Martin Weinberg，1915–2006），美国著名核物理学家、科学哲学家与国家科技政策先驱；[[Manhattan Project|曼哈顿计划]]（Manhattan Project）核心科学家，1955 至 1973 年担任美国橡树岭国家实验室（Oak Ridge National Laboratory, ORNL）主任长达 18 年，后任美国能源分析研究所首任所长。
 > - **核心贡献** 率先普及并深刻反思了“[[Big Science|大科学]]”（Big Science）概念，著有科技政策经典名著《大科学的思考》（*Reflections on Big Science*, 1967）；系统揭示了冷战时期第二代大科学国家实验室的制度生命周期与组织困境，开创性提出了国家科研资源分配的“科学选择标准”（Criteria for Scientific Choice）与“技术解决手段”（Technological Fix）[[Analytic Framework|分析框架]]。
 > - **对当代政策理论的启示** [[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）与[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）在构建[[Three Generations of Mission-Oriented Policy|使命导向政策三代演进]]理论时，深度汲取了温伯格的组织社会学洞见，用以阐明第二代使命机构为何在完成军工与登月任务后容易陷入“使命漂移”（Mission Drift），以及为何必须构建[[Public Dynamic Capabilities|公共部门动态能力]]以转向应对 21 世纪重大社会挑战。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 794–795)]]
 

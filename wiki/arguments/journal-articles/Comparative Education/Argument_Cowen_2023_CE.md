@@ -9,7 +9,7 @@ title: "Argument_Cowen_2023_CE"
 argument_key: "Argument_Cowen_2023_CE"
 argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326-340"
 argument_kind: "journal-article"
-argument_related_count: 67
+argument_related_count: 68
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -60,6 +60,7 @@ related_theories:
   - "[[Convergence Theory in Comparative Education]]"
   - "[[Human Capital Theory]]"
   - "[[Wight's Three Traditions of International Theory]]"
+  - "[[Legitimation Crisis]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Ideology Critique]]"
@@ -340,7 +341,7 @@ citation_aliases:
 
 ## 关键引用
 
-> [!citation-card]- 学术合法化危机
+> [!citation-card]- 学术[[Legitimation Crisis|合法化危机]]
 > 我们积累了过多惯例化的自我合法化方式；是时候摆脱关于我们过去的舒适陈词滥调，注意到未来至少在隐喻意义上已经是现在，而且是紧迫的。(p.326)
 >
 > *We have accumulated too many routinised ways to legitimate our academic identity; it is time to step away from comfortable clichés about our past; and to notice that the future is, at least metaphorically, now and urgent.*

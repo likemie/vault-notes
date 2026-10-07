@@ -9,7 +9,7 @@ summary: "美国人本主义心理学泰斗，来访者中心疗法与以人为�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -40,6 +40,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Alfred Nobel]]"
   - "[[Abraham Maslow]]"
   - "[[Rom Harré]]"
 related_facts: []
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-09-22
+updated: 2026-10-08
 ---
 
 # Carl Rogers
@@ -72,7 +73,7 @@ updated: 2026-09-22
 > - **1956** 与行为主义领军学者斯金纳（B. F. Skinner）展开载入史册的“人类行为控制与自由”世纪大辩论。
 > - **1963–1987** 创立人际关系研究中心（Center for Studies of the Person, CSP），将人本主义哲学全面推展至教育改革、跨文化冲突调解与和平运动。
 > - **1969** 出版教育学代表作《学习的自由》（*Freedom to Learn*），系统构建以全人为核心的人本主义教育体系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 20)]]
-> - **1987** 在加州拉霍亚逝世，同年获诺贝尔和平奖提名。
+> - **1987** 在加州拉霍亚逝世，同年获[[Alfred Nobel|诺贝尔]]和平奖提名。
 
 ---
 

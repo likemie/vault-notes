@@ -7,7 +7,7 @@ aliases:
 summary: "西方文化学习者模型，以心智为首要、好奇心为驱动、探究为过程、掌握世界为目标，与儒家学习者形成系统对比"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -47,6 +47,7 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Plato]]"
+  - "[[Alfred Nobel]]"
   - "[[Socrates]]"
   - "[[Aristotle]]"
 related_facts:
@@ -56,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Western Learner
@@ -135,7 +136,7 @@ updated: 2026-10-07
 > [!info]
 > 探究在第 2 章中已被确立为西方学习传统的核心。在第 4 章中，Li 进一步描述了探究在日常学习中的具体运作([[Argument_Li_2012_Cambridge\|Li, 2012, pp.113-121]])。
 
-当西方学习者面对不熟悉的事物、好奇心被触发时——"在这样的时候，大多数人会提出疑问"([[Argument_Li_2012_Cambridge|Li, 2012, p.113]])。Li 引用了多位诺贝尔奖得主的自传来展示探究精神的早期发展：
+当西方学习者面对不熟悉的事物、好奇心被触发时——"在这样的时候，大多数人会提出疑问"([[Argument_Li_2012_Cambridge|Li, 2012, p.113]])。Li 引用了多位[[Alfred Nobel|诺贝尔]]奖得主的自传来展示探究精神的早期发展：
 
 > [!example] Roy J. Glauber（2005 年诺贝尔物理学奖）
 > Glauber 在自传中描述了他如何"在 11 岁时开始问关于天空的问题"。一个晴朗的九月早晨，他早早醒来，"决心要看到它（太阳）"。他把祖父的望远镜从窗户伸出去，用透镜片将太阳光聚焦到一张纸上。"我一直观察到纸终于——我还以为它不会——烧了起来。"([[Argument_Li_2012_Cambridge\|Li, 2012, pp.115-116]])

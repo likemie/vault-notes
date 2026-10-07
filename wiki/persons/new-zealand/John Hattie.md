@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，Visible Learning作者与元分析综合
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 124
+person_related_count: 125
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -79,6 +79,7 @@ related_concepts:
 related_theories:
   - "[[Walberg's Educational Productivity Model]]"
   - "[[Radical Constructivism]]"
+  - "[[Legitimation Crisis]]"
   - "[[Societies of Control]]"
   - "[[Phenomenology]]"
 related_methods:
@@ -155,7 +156,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 # John Hattie
 
@@ -281,7 +282,7 @@ updated: 2026-09-22
 > [!person-network] 关系网络
 > - **师承／合作者** Herbert Walberg — 早期共同开展 226 项[[Meta-meta-analysis\|元综合]]检验[[Walberg's Educational Productivity Model\|教育生产力模型]]；[[John Biggs]] — 合作开展学习技能干预[[Meta-analysis\|元分析]]；Helen Timperley — 共同发表里程碑式反馈元分析；Gregory Yates — 合作撰写学习科学著作；Tanja Jansen 与 Jens Möller 等 — 合作开展基于 Meta-X 数据库的大语言模型[[Automated Data Extraction\|自动化数据提取]]前沿实证评测。
 > - **学生／继承者** [[Thomas Nordahl]]、Ane Qvortrup、Claus Nygaard — 斯堪的纳维亚引介者与北欧[[Going Native\|本土化]][[Transfer Translation Transformation\|转译]]者；Deb Masters — [[Visible Learning]] 培训实施与案例库联合编著者。
-> - **批评者／论敌** Ivan Snook & John Clark — 新西兰学术论战主要发起者，系统指控元分析方法缺陷；[[Gerald Grace]] — 批判其误用“社会的良知与批评者”法定角色；Ewald Terhart — 早期系统学术书评，指出理论空洞与福柯式监控统治；[[Scott Eacott]] — 批判澳大利亚[[School Leadership\|学校领导力]]陷入“[[Cult of the Guru\|大师崇拜]]”与[[Neo-Taylorism\|新泰勒主义]]；[[Klaus Nielsen]] & Jørgen Klitmøller — 细读反馈原始元分析并揭示[[Technical Rationality\|技术理性]]合法化危机。
+> - **批评者／论敌** Ivan Snook & John Clark — 新西兰学术论战主要发起者，系统指控元分析方法缺陷；[[Gerald Grace]] — 批判其误用“社会的良知与批评者”法定角色；Ewald Terhart — 早期系统学术书评，指出理论空洞与福柯式监控统治；[[Scott Eacott]] — 批判澳大利亚[[School Leadership\|学校领导力]]陷入“[[Cult of the Guru\|大师崇拜]]”与[[Neo-Taylorism\|新泰勒主义]]；[[Klaus Nielsen]] & Jørgen Klitmøller — 细读反馈原始元分析并揭示[[Technical Rationality\|技术理性]][[Legitimation Crisis|合法化危机]]。
 > - **机构／运动／项目** [[Visible Learning]] — 核心研究成果；[[Visible Learning Meta-X]] — 亲自创建并持续维护的全球最大元分析汇聚数据库；Visible Learning 品牌化与全球影响 — 其学术成果依托的跨国培训产业与政策扩散历程；[[Cognition Education]] — 长期董事兼培训商业化运营商；[[Australian Institute for Teaching and School Leadership\|AITSL]] — 担任董事会主席并推动将可见学习嵌入国家专业标准；[[Evidence for Learning]]（E4L）— 担任学校专家咨询委员会主席，指导工具包与实践指南本土化；新西兰教育部 — 委托开发 [[Assessment Tools for Teaching and Learning\|asTTle]] 评估系统与国家标准技术顾问；[[Education Endowment Foundation\|EEF]] — 资助 Visible Classroom 试点并将其实证纳入证据工具箱。
 
 ---
@@ -319,7 +320,7 @@ updated: 2026-09-22
 > > [!axis] 教育哲学审视：[[Technical Rationality\|技术理性]]、盲视框架与 [[Bildung]] 替代
 > > 质询技术理性在教育系统中的合法化功能以及对非可见学习维度的系统性[[Screening Off\|屏蔽]]。
 > >
-> > - **Nielsen 与 Klitmøller 以及 Rømer** 从[[Jürgen Habermas\|哈贝马斯]]合法化危机理论出发，指出 VL 的流行在于其技术理性内核满足了教育系统的合法化需求而非科学质量；批评评价理论篡位教育、[[Radical Constructivism\|激进建构主义]]消解教学。[[Argument_Nielsen_2021_IRTP\|(Nielsen & Klitmøller, 2021b)]]; [[Argument_Rømer_2018_EPT\|(Rømer, 2018)]]
+> > - **Nielsen 与 Klitmøller 以及 Rømer** 从[[Jürgen Habermas\|哈贝马斯]][[Legitimation Crisis|合法化危机]]理论出发，指出 VL 的流行在于其技术理性内核满足了教育系统的合法化需求而非科学质量；批评评价理论篡位教育、[[Radical Constructivism\|激进建构主义]]消解教学。[[Argument_Nielsen_2021_IRTP\|(Nielsen & Klitmøller, 2021b)]]; [[Argument_Rømer_2018_EPT\|(Rømer, 2018)]]
 > > - **Larsen 与 Zhao** 提出“盲视”批判框架，强调学习对主体并非即时可见，呼吁以 [[Bildung]] 替代；警示[[Direct Instruction\|直接教学]]（Direct Instruction，DI）效应量证据背后对[[Creativity\|创造力]]与探索精神的副作用。[[Argument_Larsen_2019_EducSci\|(Larsen, 2019)]]; [[Argument_Zhao_2017_JEC\|(Zhao, 2017)]]
 
 > [!critique]- 批评索引

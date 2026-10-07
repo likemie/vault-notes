@@ -3,6 +3,9 @@ citation: "Karp, A. C., & Zamiska, N. W. (2025). The technological republic: Har
 extracted_to:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04]]"
 processed_date: 2026-10-07
 ---
 

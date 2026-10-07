@@ -11,7 +11,7 @@ aliases:
 summary: "柏拉图探讨美德可教性与知识本质的经典过渡期对话录，提出了探究悖论（美诺悖论）、灵魂回忆说及童奴几何启发实验，既是西方先天论与启发式教学的奠基文本，也是现代教育技术批判收敛性诱导提问的核心靶标"
 type: concept
 domain: "educational-philosophy"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -47,6 +47,7 @@ related_persons:
   - "[[Plato]]"
   - "[[Socrates]]"
   - "[[René Descartes]]"
+  - "[[Noam Chomsky]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-24
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # Meno
@@ -164,7 +165,7 @@ updated: 2026-09-24
 > [!dev-timeline] 《美诺篇》思想与教学影响演变
 > - **公元前 4 世纪 — [[Plato|柏拉图]]创作** 柏拉图在雅典学园时期写下《美诺篇》，以回忆说回应美诺悖论，将[[Socrates|苏格拉底]]的口头哲学实践书面化与体系化。
 > - **17–18 世纪 — 近代唯理主义[[Epistemology|认识论]]继承** [[René Descartes|笛卡尔]]（René Descartes）与莱布尼茨（Gottfried Wilhelm Leibniz）继承《美诺篇》的精神脉络，发展出天赋观念论（Innate Ideas），对抗[[Empiricism|经验主义]]的“白板说”（Tabula Rasa）。
-> - **20 世纪下半叶 — 乔姆斯基先天语言机制与认知科学转向** 乔姆斯基（Noam Chomsky）提出著名的“柏拉图问题”（Plato's Problem）：人类如何在极有限的贫乏刺激中习得复杂的语法系统？《美诺篇》成为现代生成语法与认知科学先天主义的理论源头。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 29)]]
+> - **20 世纪下半叶 — [[Noam Chomsky|乔姆斯基]]先天语言机制与认知科学转向** 乔姆斯基（Noam Chomsky）提出著名的“柏拉图问题”（Plato's Problem）：人类如何在极有限的贫乏刺激中习得复杂的语法系统？《美诺篇》成为现代生成语法与认知科学先天主义的理论源头。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 29)]]
 > - **2026 年 — 智能教育系统中的交互批判与[[Paradigm|范式]]跃迁** 纳伊姆（Naeem）在[[Virtue Epistemology|德性认识论]]框架下解构《美诺篇》诱导问答的认识论缺陷，批判其剥夺学习者自主作者权，倡导以心理治疗式开放对话重构智能导师（Q-Tutor）的交互机制。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 280–281)]]
 
 ---

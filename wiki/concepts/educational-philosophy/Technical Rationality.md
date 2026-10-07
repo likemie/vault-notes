@@ -10,7 +10,7 @@ aliases:
 summary: "将专业实践与教育治理窄化为手段-目的因果计算与去情境化技术控制的实证主义模型；在微观教学中剥夺教师专业判断，在宏观政策与比较教育中将教育退化为劳动力技能规训并侵蚀全人教化"
 type: concept
 domain: "educational-philosophy"
-related_count: 89
+related_count: 90
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -73,6 +73,7 @@ related_concepts:
   - "[[Champ]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Legitimation Crisis]]"
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Critical Theory]]"
   - "[[Navigational Framework for Educational Researchers]]"
@@ -119,7 +120,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Technical Rationality
@@ -215,7 +216,7 @@ updated: 2026-09-29
 > 当现代国家与跨国政策系统借由客观科学修辞推行技术官僚治理时，不仅瓦解了基层实践共识，更导致教育学科人本价值与因果推论基础的严重异化。
 
 > [!claim] Habermas (1976) / Biesta (2007)
-> **系统侵蚀生活世界与合法化悖论** 技术理性在晚期现代社会中被国家治理机器广泛采纳，作为以科学客观性掩盖价值冲突的合法化工具。在教育领域，这种逻辑促成了[[New Public Management\|新公共管理]]（New Public Management, NPM）与机械问责制的盛行。将教学简化为可测量、可排名的技术指标（如部分循证改革对单一[[Randomised Controlled Trials\|随机对照试验]]（RCT）指标的迷执），消除了教师和学生作为意义寻求者的意向性，剥夺了教师的[[Professional Judgment\|专业判断]]权，最终诱发深层的系统合法化危机。
+> **系统侵蚀生活世界与合法化悖论** 技术理性在晚期现代社会中被国家治理机器广泛采纳，作为以科学客观性掩盖价值冲突的合法化工具。在教育领域，这种逻辑促成了[[New Public Management\|新公共管理]]（New Public Management, NPM）与机械问责制的盛行。将教学简化为可测量、可排名的技术指标（如部分循证改革对单一[[Randomised Controlled Trials\|随机对照试验]]（RCT）指标的迷执），消除了教师和学生作为意义寻求者的意向性，剥夺了教师的[[Professional Judgment\|专业判断]]权，最终诱发深层的系统[[Legitimation Crisis|合法化危机]]。
 
 > [!claim] [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]]
 > **技术官僚理性对全人[[Bildung\|教化]]与[[Geisteswissenschaften|人文科学]]传统的侵蚀** 卡扎米亚斯深刻批判了 1960 年代以来支配比较教育与国际政策界的技术官僚理性（Technocratic Rationalism）。现代主义实证学者将[[Scientific Method\|科学方法]]、[[Empiricism\|经验主义]]、工具主义与技术官僚理性奉为主宰神祇，将教育研究窄化为对单纯“学校教育”（Schooling）的微观[[Disciplina and Doctrina\|规训]]与经济人力产出测算，系统抹杀了以人为中心的古典全人[[Bildung\|教化]]（*[[Paideia]]*）传统与对人类政治、社会与伦理危机的哲学反思。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
@@ -269,7 +270,7 @@ updated: 2026-09-29
 > [!dev-timeline] 技术理性的哲学演化与教育批判脉络
 > - **19 世纪 — [[Positivism\|实证主义]]哲学奠基** 孔德等倡导实证主义哲学，将科学与技术控制确立为解决人类社会问题、指导一切专业实践的最高[[Paradigm\|范式]]。
 > - **1960s — 比较教育学科转型确立技术官僚理性支配** 霍姆斯、诺亚与埃克斯坦等战后实证学者推动比较教育转向因果预测与指标量化，将教育窄化为去情境化的学校[[Disciplina and Doctrina\|规训]]。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 53, 56–57)]]
-> - **1976 / 1984 — [[Critical Theory\|批判理论]]与合法化危机分析** [[Jürgen Habermas\|哈贝马斯]]出版《合法化危机》与《交往行为理论》，系统剖析技术理性作为国家行政治理媒介对日常生活世界的殖民。
+> - **1976 / 1984 — [[Critical Theory\|批判理论]]与[[Legitimation Crisis|合法化危机]]分析** [[Jürgen Habermas\|哈贝马斯]]出版《合法化危机》与《交往行为理论》，系统剖析技术理性作为国家行政治理媒介对日常生活世界的殖民。
 > - **1983 — [[Reflexivity\|反思性]]实践者模型的提出** 舍恩出版《反思性实践者》（*The Reflective Practitioner*），正式将技术理性定义为实证主义专业[[Epistemology\|认识论]]，倡导反思性实践作为替代范式。
 > - **1998 — 《[[Reading Excellence Act|卓越阅读法案]]》将实证技术理性固化为联邦科研与教学法定门槛** 国会通过《[[Reading Excellence Act|卓越阅读法案]]》，首次在法律层面排他性界定阅读与合格科学研究，开启了以联邦专款分配为杠杆强制推行单一拼读法与实验范式的技术理性规制时代。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4–5)]]
 > - **2000s — [[Evidence-Based Education\|循证教育]]运动与技术理性复兴** 随着“[[What Works Movement\|什么有效运动]]”及英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）工具包的普及，技术理性在教育政策中以[[Effect Size\|效应量]]排行榜和因果证据等级制的形式再度盛行。
@@ -341,6 +342,6 @@ updated: 2026-09-29
 > - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 审视德语区新治理调控工具（全域统考 [[Vergleichsarbeiten|VERA]]、学校外部督导）的技术理性成效缺失，揭示数据自动倒逼改进假说的破产与理论-实践困境重现。（p. 9）
 > - Nielsen & Klitmøller (2021) — 运用 Schön 和 Habermas 的[[Critical Theory|批判理论]]，系统剖析 [[Visible Learning]] 的技术理性内核及其行为主义理论谱系。
 > - Schön (1983) — 奠基性著作《[[Reflexivity|反思性]]实践者》，系统界定技术理性并阐明反思性实践作为专业[[Epistemology|认识论]]的替代方案。
-> - Habermas (1976) — 阐明技术理性作为晚期资本主义治理媒介对生活世界的侵蚀与合法化危机生成机制。
+> - Habermas (1976) — 阐明技术理性作为晚期资本主义治理媒介对生活世界的侵蚀与[[Legitimation Crisis|合法化危机]]生成机制。
 
 

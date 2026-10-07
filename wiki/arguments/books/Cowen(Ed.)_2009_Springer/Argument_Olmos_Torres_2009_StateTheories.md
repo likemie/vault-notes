@@ -57,6 +57,7 @@ related_theories:
   - "[[World Society Theory]]"
   - "[[Conditioned State Theory]]"
   - "[[State Corporatism]]"
+  - "[[Legitimation Crisis]]"
   - "[[Neocorporatism]]"
   - "[[World-Systems Theory]]"
   - "[[Cultural Models]]"
@@ -113,10 +114,10 @@ title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches"
 argument_kind: "book-chapter"
-argument_related_count: 74
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#fef3c7"
+argument_related_count: 75
+argument_related_level: 5
+argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_color: "#fecdd3"
 journal: ""
 book_title: "International Handbook of Comparative Education"
 publication_place: "Dordrecht"
@@ -137,7 +138,7 @@ issuing_organization: ""
 
 > [!concept-lens] 阅读透镜
 > - **对象** 现代国家理论与教育扩张的互动关系，以 20 世纪战后拉丁美洲（重点考证墨西哥、阿根廷、哥斯达黎加与智利）的教育发展史、工业化转型与新自由主义结构调整为核心经验案例。（pp. 73–74, 81–84）
-> - **张力** 宏大功能主义与普世世界文化理论的非历史均质化[[Hypothesis|假设]]，对决新马克思主义政治经济学强调的资本积累阶段性、合法化危机、殖民剥削遗产与历史具体性。（pp. 74–76）
+> - **张力** 宏大功能主义与普世世界文化理论的非历史均质化[[Hypothesis|假设]]，对决新马克思主义政治经济学强调的资本积累阶段性、[[Legitimation Crisis|合法化危机]]、殖民剥削遗产与历史具体性。（pp. 74–76）
 > - **贡献** 系统提炼比较教育政治社会学[[Analytic Framework|分析框架]]，确立[[Conditioned State Theory|受限国家理论]]、[[State Corporatism|国家法团主义]]、[[Compensatory Legitimation|补偿性合法化]]与[[Financial-Intellectual Complex|金融-智识复合体]]等核心[[Construct|构念]]，推动比较教育学彻底摆脱西方中心主义的现代化叙事与技术官僚迷思。（pp. 77–85）
 
 ---

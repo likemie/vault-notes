@@ -8,7 +8,7 @@ aliases:
 summary: "国家或国际组织在具有重大公共利益但面临极高商业不确定性的前沿研发领域（如新型疫苗、先进储能与碳捕集），预先承诺在技术达标后按保障价格大规模承购的拉动型资助机制；通过事后创造确定性市场需求，消除私人资本早期研发投资不足的市场失灵。"
 type: concept
 domain: "science-policy"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_methods:
 related_instruments:
   - "[[Heilmeier Catechism]]"
 related_persons:
+  - "[[Alfred Nobel]]"
   - "[[Michael Kratsios]]"
 related_facts:
   - "[[Bill & Melinda Gates Foundation]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Advance Market Commitments
@@ -96,7 +97,7 @@ updated: 2026-10-07
 > 剖析公共品外部性如何导致私人研发投资严重不足，以及 [[Academic Medical Center|AMC]] 如何重塑市场收益预期。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
-> **需求创造与投资风险消除假说** 诺贝尔经济学奖得主迈克尔·克雷默（Michael Kremer）与白宫科技战略报告共同论证指出，在疫苗、清洁能源等强公共品领域，私人企业因担心研发成功后遭遇政府价格压制或难以独占收益，往往缺乏投资意愿。AMC 机制通过预先锁定采购合同，将分散不确定的潜在社会效益转化为看得见、摸得着的确定性市场需求，从而在不依赖政府直接指令的情况下，以极高资金杠杆撬动庞大私人资本与创新人才涌入高风险攻坚领域。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28–29)]]
+> **需求创造与投资风险消除假说** [[Alfred Nobel|诺贝尔]]经济学奖得主迈克尔·克雷默（Michael Kremer）与白宫科技战略报告共同论证指出，在疫苗、清洁能源等强公共品领域，私人企业因担心研发成功后遭遇政府价格压制或难以独占收益，往往缺乏投资意愿。AMC 机制通过预先锁定采购合同，将分散不确定的潜在社会效益转化为看得见、摸得着的确定性市场需求，从而在不依赖政府直接指令的情况下，以极高资金杠杆撬动庞大私人资本与创新人才涌入高风险攻坚领域。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28–29)]]
 
 ---
 

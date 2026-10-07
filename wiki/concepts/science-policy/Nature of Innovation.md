@@ -2,7 +2,7 @@
 summary: "演化经济学与科技政策的核心本体论概念，指创新在本质上并非线性的静态要素组合，而是具有根本不确定性、累积路径依赖、集体分布式共创、非中性方向性及反思实验演化的复杂系统突变过程；构成了超越新古典市场失灵假说与确立现代使命导向治理的理论原点。"
 type: concept
 domain: "science-policy"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Agile Governance]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Reflexivity]]"
+  - "[[Techno-Utopianism]]"
   - "[[Public Value]]"
   - "[[Lead-and-Learn Paradigm]]"
   - "[[Feedback]]"
@@ -45,7 +46,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-07
 title: Nature of Innovation
 aliases:
   - 创新本质
@@ -66,7 +67,7 @@ aliases:
 > [!concept-lens] 概念透镜
 > - **含义** 确立了对创新现象的演化世界观：创新不是按部就班的工程计算，而是高度依赖试错、探索与意外发现的质变跃迁。
 > - **用途** 为公共机构设计高容错性的资助机制、组合投资策略与[[Reflexivity|反思性]]评估体系提供底层哲学依据。
-> - **边界** 创新的本质不等于放任无序的技术乌托邦幻想；它要求在尊重演化不确定性的同时，通过战略使命确立明确的[[Public Value|公共价值]]导向（方向性）。
+> - **边界** 创新的本质不等于放任无序的[[Techno-Utopianism|技术乌托邦]]幻想；它要求在尊重演化不确定性的同时，通过战略使命确立明确的[[Public Value|公共价值]]导向（方向性）。
 
 > [!citation-card] 创新的不确定性与演化探索特征
 > 创新从定义上就被根本不确定性所笼罩，这使得以失败为导向的试错探索成为创新推进的不可避免的核心法则。创新在本质上是非线性的、开放的，甚至常常直接冲击与重构既有的组织与制度边界。因此，任何试图以事前静态的量化数据和确定性合规指标去控制创新的做法，都在根本上违背了创新的内在演化规律。公共政策必须从被动的“支持与衡量”转向能够与创新不确定性共舞的“[[Lead-and-Learn Paradigm|引领与学习]]”范式。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–798)]]

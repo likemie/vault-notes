@@ -11,7 +11,7 @@ aliases:
 summary: "将公共政策全生命周期解构为问题识别、议程设置、政策制定、政策合法化、政策实施与政策评估六个连贯阶段的分析框架，揭示政策制定的内在秩序、驱动力量以及实证研究证据与专业经验、政治价值的动态阶段权变整合机制"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 41
+theory_related_count: 42
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -58,6 +58,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[John Dewey]]"
+  - "[[Peter Thiel]]"
 related_facts:
   - "[[Common Core State Standards]]"
   - "[[National Assessment of Educational Progress]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Six-Stage Model of Policymaking
@@ -201,7 +202,7 @@ updated: 2026-10-07
 > > [!axis] 线性阶段论 vs 动态网络流与间断均衡交锋
 > > 争论阶段启发式模型是否过度简化了政治过程的复杂性与突发性。
 > >
-> > - **保罗·萨巴蒂尔（Paul Sabatier, 1991, 1999）** 著名批判指出阶段模型缺乏严格因果理论支撑，将充满偶然性、重叠交错与利益撕裂的政治过程人为切割为单向推进的线性[[Hypothesis|假设]]，主张代之以倡导联盟框架（ACF）。
+> > - **保罗·萨巴[[Peter Thiel|蒂尔]]（Paul Sabatier, 1991, 1999）** 著名批判指出阶段模型缺乏严格因果理论支撑，将充满偶然性、重叠交错与利益撕裂的政治过程人为切割为单向推进的线性[[Hypothesis|假设]]，主张代之以倡导联盟框架（ACF）。
 > > - **奥克利与塞佩尔等人（Oakley et al., 2013; [[Argument_Serpell_2020_EP|Serpell, 2020]]）** 辩护指出阶段模型的核心价值在于其作为启发式地图的强大指引力，代议制立法机构存在高度制度化的程序关卡，阶段模型为研究者提供了穿透政治迷雾的导航坐标。
 >
 > > [!axis]- [[Technical Rationality|技术理性]]单向驱动 vs 阶段权变的多源证据整合

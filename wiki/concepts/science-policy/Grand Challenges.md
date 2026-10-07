@@ -8,7 +8,7 @@ aliases:
 summary: "指超越单一学科、产业与国家疆界，涉及广泛社会、技术、生态与行为维度的系统性复杂难题；构成了现代使命导向科技创新治理的根本战略锚点；在 AI 与前沿科学时代，重大挑战演化为通过高杠杆问题表述与客观盲测基准（如 CASP、创世纪计划 20 项国家挑战）将庞大组合搜索空间转化为可验证技术阶梯的核心政策工具。"
 type: concept
 domain: "science-policy"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -53,6 +53,7 @@ related_facts:
   - "[[DARPA]]"
   - "[[Genesis Mission]]"
   - "[[Department of Energy]]"
+  - "[[Manhattan Project]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
@@ -89,7 +90,7 @@ updated: 2026-10-07
 > *Well-formulated grand challenges with rigorous benchmarking unlock downstream discovery trees... The Genesis Mission directs the Department of Energy to identify at least 20 grand science and technology challenges characterized by massive combinatorial search spaces, rich structured data, and clear benchmarks.*
 
 > [!boundary]- 概念边界
-> - **不等于 20 世纪冷战式纯军事技术攻关（Cold War Moonshots）** 登月计划与曼哈顿工程的目标高度集中、边界封闭且主要依赖物理工程突破；现代重大挑战多属于[[Wicked Problem|棘手问题]]（Wicked Problems），深深嵌入于生态系统、产业供应链与社会组织网络之中。
+> - **不等于 20 世纪冷战式纯军事技术攻关（Cold War Moonshots）** 登月计划与[[Manhattan Project|曼哈顿工程]]的目标高度集中、边界封闭且主要依赖物理工程突破；现代重大挑战多属于[[Wicked Problem|棘手问题]]（Wicked Problems），深深嵌入于生态系统、产业供应链与社会组织网络之中。
 > - **不等于 缺乏硬性验证基准的泛化社会愿景** 严谨的重大挑战概念要求配套可量化的盲测标准、跨部门[[Agile Governance|敏捷治理]]（[[Agile Governance|敏捷治理]]）以及由下而上的[[Distributed Agency|分布式主体]]探索机制，否则极易沦为形式主义的[[Discourse|话语]]修辞。
 
 ---

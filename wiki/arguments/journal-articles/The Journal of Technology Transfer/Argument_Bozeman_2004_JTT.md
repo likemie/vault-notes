@@ -24,7 +24,7 @@ title: "Argument_Bozeman_2004_JTT"
 argument_key: "Argument_Bozeman_2004_JTT"
 argument_display_title: "The NSF Engineering Research Centers and the University–Industry Research Revolution: A Brief History Featuring an Interview with Erich Bloch"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ sources:
   - "[[sources/Bozeman_2004_JTT/Bozeman_2004_JTT|Bozeman_2004_JTT]]"
 related_concepts:
   - "[[University-Based Research Center]]"
+  - "[[Hard Power]]"
   - "[[Big Science]]"
   - "[[Paradigm]]"
   - "[[Competitiveness]]"
@@ -75,7 +76,7 @@ updated: 2026-10-07
 > 面对 1980 年代初美国深陷国际产业技术竞争危机的历史情境，以[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）[[Engineering Research Centers|工程研究中心]]（Engineering Research Centers, ERC）为代表的多用途多学科大学研究中心（Multipurpose, Multidiscipline [[University-Based Research Center|university research center]], MMURC）究竟如何打破战后数十年由单一学科院系和自由探索首席研究员（Principal Investigator, PI）垄断的传统科研体制？其在制度设计、资助模式、政界博弈、淘汰问责与产学互动中经历了怎样的机制演化，又对传统大学科层架构构成了何种不可调和的治理困境？
 
 > [!claim] 核心主张
-> NSF 工程研究中心计划不仅标志着美国战后科技政策最重要的组织制度变革——打破了 NSF 仅资助同行评议、个人科学家自由探索小科学的传统惯例，确立了以实体科研中心为依托、跨学科问题为导向、产业深度协同的战略资助模式；更作为原型推动了全美及海外科技资助机构向中心模式的广泛扩散。然而，由于中心制度强制要求研究人员保留学科院系编制以维系教学根基，导致科研人员承担双重考评负担，而中心主任缺乏人事硬权力，使这种新型组织模式始终面临与数百年传统大学院系科层深度共存的协调困境。
+> NSF 工程研究中心计划不仅标志着美国战后科技政策最重要的组织制度变革——打破了 NSF 仅资助同行评议、个人科学家自由探索小科学的传统惯例，确立了以实体科研中心为依托、跨学科问题为导向、产业深度协同的战略资助模式；更作为原型推动了全美及海外科技资助机构向中心模式的广泛扩散。然而，由于中心制度强制要求研究人员保留学科院系编制以维系教学根基，导致科研人员承担双重考评负担，而中心主任缺乏人事[[Hard Power|硬权力]]，使这种新型组织模式始终面临与数百年传统大学院系科层深度共存的协调困境。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 1984 年正式启动的 NSF 工程研究中心（ERC）计划，涵盖其危机动议、方案博弈、资助演化、存续规模，以及前 NSF 主任[[Erich Bloch|埃里希·布洛赫]]（Erich Bloch）对决策过程与管理机制的完整口述史料。
@@ -271,7 +272,7 @@ updated: 2026-10-07
 ### 论证步骤四　双重聘任体制与传统院系科层的深层治理困境
 
 > [!claim] 步骤四核心主张
-> ERC 在大学基层的落地受到双重雇佣制度的结构性制约，使中心主任在缺乏人事硬权力的情况下不得不依靠微弱的利益诱导艰难维系跨学科协作，折射出新型组织设计与数百年大学传统科层之间的深层冲突。（pp.373–374）
+> ERC 在大学基层的落地受到双重雇佣制度的结构性制约，使中心主任在缺乏人事[[Hard Power|硬权力]]的情况下不得不依靠微弱的利益诱导艰难维系跨学科协作，折射出新型组织设计与数百年大学传统科层之间的深层冲突。（pp.373–374）
 
 #### 1. 双重雇佣制度导致科研人员承担双重考评负担
 
@@ -299,7 +300,7 @@ updated: 2026-10-07
 > 1. **确立多学科大学研究中心支柱地位** [[Engineering Research Centers|ERC]] 计划代表了美国战后科技政策最重要的组织创新，促成了从院系孤立 PI 资助向跨学科[[Big Science|大科学]]中心模式的历史性转变。（pp.365–366）
 > 2. **建立高存续度与产业多元配比机制** ERC 保持了高达 79% 的历史存续率，中心年度总预算中产业界与地方资金占比高达约 70%，成功验证了政府种子引导与产业放大支撑的可行性。（pp.368–369）
 > 3. **[[Sunset Provisions|日落条款]]与竞争淘汰奠定制度公信力** 布洛赫顶住压力对未达标早期中心的果断关停与十年日落条款的刚性执行，确立了严肃的绩效规划约束，杜绝了公帑长期依赖现象。
-> 4. **揭示[[Dual Appointment|双重聘任制]]下的组织治理张力** 中心必须嵌入传统院系的刚性规定导致学者承担双重工作负荷，中心主任在缺乏人事硬权力的情况下只能依托利益诱导维系跨学科协作。（pp.373–374）
+> 4. **揭示[[Dual Appointment|双重聘任制]]下的组织治理张力** 中心必须嵌入传统院系的刚性规定导致学者承担双重工作负荷，中心主任在缺乏人事[[Hard Power|硬权力]]的情况下只能依托利益诱导维系跨学科协作。（pp.373–374）
 
 > [!stat-cards]- 核心数据
 > - **56** 自 1984 年至 2004 年 [[National Science Foundation|NSF]] 累计资助成立的 ERC 数量（含地震工程专项中心）。（pp.368–369）

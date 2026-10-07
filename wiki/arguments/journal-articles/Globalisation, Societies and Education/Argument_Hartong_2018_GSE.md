@@ -7,7 +7,7 @@ title: "Argument_Hartong_2018_GSE"
 argument_key: "Argument_Hartong_2018_GSE"
 argument_display_title: "Towards a topological re-assemblage of education policy? Observing the implementation of performance data infrastructures and ‘centers of calculation’ in Germany"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Policy Mobility]]"
+  - "[[Total War]]"
   - "[[Champ]]"
 related_theories:
   - "[[Actor-Network Theory]]"
@@ -205,7 +206,7 @@ updated: 2026-09-18
 > - **文化主权在州原则（Kulturhoheit der Länder）** 依据《基本法》，德国 16 个联邦州对教育事务享有排他性宪制管辖权，联邦政府被严格禁止直接干预中小学事务；各州长期依赖详尽的教学大纲（Lehrpläne）与行政法规进行输入端控制，缺乏全国统一质量标准。（p. 139）
 > - **2000 年 PISA 震荡（[[PISA Shock]]）的政治冲击** 首轮 PISA 测验中德国学生阅读、数学与科学表现显著低于 [[OECD]] 均值，且社会阶层不平等对成绩的制约极为严峻；这一 PISA 震荡彻底动摇了公众对传统学制的信任，迫使政界形成跨党派改革共识。（pp. 139–140）
 
-在危机倒逼下，KMK 于 2002 年迅速确立七大优先行动领域，并于 2006 年正式颁布《国家教育监测总体战略》（KMK, 2006；2015 年修订）。
+在危机倒逼下，KMK 于 2002 年迅速确立七大优先行动领域，并于 2006 年正式颁布《国家教育监测[[Total War|总体战]]略》（KMK, 2006；2015 年修订）。
 
 > [!row-contrast] 德国多层级标准化绩效评估体系矩阵
 > | 评估项目 / 支柱 | 施测性质与频次 | 抽样与覆盖范围 | 主导与研发机构 | 核心治理功能与政策定位 |
@@ -285,7 +286,7 @@ IQB 不仅生产宏观报告，更通过数字化平台向微观教学现场延�
 > 4. **分权与集权在[[Assemblage\|装配]]体中的复合共生** 德国教育政策并未简单走向中央集权或维持旧有分权，而是在物质技术、法律条款与专家网络的动态博弈中形成了新型复合政策装配体。（pp. 145–146）
 
 > [!stat-cards]- 核心数据
-> - **16** 参与国家监测总体战略与 VERA 测评的德国联邦州总数。（p. 139）
+> - **16** 参与国家监测[[Total War|总体战]]略与 VERA 测评的德国联邦州总数。（p. 139）
 > - **4** 国家监测战略确立的实证支柱数量。（p. 140）
 > - **≈ 40,000** 德国在 [[PISA]] 中为支持 16 州横向比对而大幅扩充的国家[[Sample Size Determination\|样本量]]（人）。（pp. 140–141）
 > - **7** 2004 年最初自发启动 VERA 比较测试先导试验的南部联邦州数量。（pp. 143–144）

@@ -8,7 +8,7 @@ summary: "英国著名政治学家、全球化理论与民主转型奠基学者�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Structural Adjustment Programs]]"
 related_theories:
   - "[[Critical Theory]]"
+  - "[[Legitimation Crisis]]"
   - "[[Pluralism]]"
   - "[[Conditioned State Theory]]"
 related_methods:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # David Held
@@ -88,7 +89,7 @@ updated: 2026-09-29
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1980 年代 — 国家[[Critical Theory|批判理论]]与民主模型** 从法兰克福学派与马克思主义国家观出发，考察资本主义合法化危机与自由主义民主的局限。
+> - **1980 年代 — 国家[[Critical Theory|批判理论]]与民主模型** 从法兰克福学派与马克思主义国家观出发，考察资本主义[[Legitimation Crisis|合法化危机]]与自由主义民主的局限。
 >   - **代表著作** *Models of Democracy*（1987）；*Political Theory and the Modern State*（1989）。
 >   - **关键概念／方法** 民主模型、国家自主性、合法化危机。
 >   - **阶段转向** 厘清了自由主义、[[Pluralism|多元主义]]与马克思主义在国家职能上的核心分歧。

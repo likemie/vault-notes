@@ -11,7 +11,7 @@ aliases:
 summary: "起源于福柯治理术谱系并经罗斯、米勒与拉图尔发展、在批判教育社会学与拓扑学中深化的空间治理理论，指权力不依赖直接行政命令或物理在场，而是通过将宏观政治抱负转译为技术标准、计算中心、不变移动物与自适应数据基础设施，在“远处”重塑主体认知与微观实践的非接触式权力机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 42
+theory_related_count: 43
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
   - "[[Champ]]"
+  - "[[Total War]]"
   - "[[Teacher Professional Agency]]"
   - "[[Output-Oriented Governance]]"
   - "[[Assemblage]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Governing at a Distance
@@ -177,7 +178,7 @@ updated: 2026-10-07
 
 > [!exegesis]- [[Gesamtstrategie zum Bildungsmonitoring|德国国家教育监测总体战略]]的拓扑远处治理解构
 > - **现象与问题** 德国联邦宪法明确赋予 16 个州文化主权（Kulturhoheit），严禁设立联邦中央集权的教育部或全国学校排名。但在 2000 年 [[PISA]] 震荡后，德国各州教育实践迅速呈现高度协同与标准统一步调。
-> - **维度与材料** [[Sigrid Hartong\|哈通]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）综合调取了：① [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]]《国家教育监测总体战略》决议文本（2006/2015）；② 柏林 [[Institute for Educational Quality Improvement\|IQB]] 题库开发与 [[Item Response Theory\|IRT]] 参数校准技术文档；③ [[Vergleichsarbeiten\|VERA]] 全域测试实施细则与在线数字练习平台架构；④ 地方学校管理系统（如北威州 SVP 软件）与教师访谈。
+> - **维度与材料** [[Sigrid Hartong\|哈通]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）综合调取了：① [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]]《国家教育监测[[Total War|总体战]]略》决议文本（2006/2015）；② 柏林 [[Institute for Educational Quality Improvement\|IQB]] 题库开发与 [[Item Response Theory\|IRT]] 参数校准技术文档；③ [[Vergleichsarbeiten\|VERA]] 全域测试实施细则与在线数字练习平台架构；④ 地方学校管理系统（如北威州 SVP 软件）与教师访谈。
 > - **综合判读**
 >   1. **转译与计算中心设立** 各州教育部长联席会议（KMK）通过建立 IQB 作为计算中心，将国家教育标准转译为心理测量学参数，规避了行政集权争议。
 >   2. **拓扑折叠实践** VERA 借助标准化纸笔与在线测试，将国家统一标准直接投送至数万间教室，教师依据 IQB 能力等级模型解读学生成绩并调整教学。

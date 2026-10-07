@@ -8,7 +8,7 @@ summary: "德国古典哲学奠基人，以三大批判重塑认识论、伦理�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Hypothesis]]"
   - "[[Self-Cultivation]]"
+  - "[[Moral Dualism]]"
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
   - "[[Realism in International Relations]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Immanuel Kant
@@ -196,7 +197,7 @@ updated: 2026-10-07
 > > [!axis] [[Revolutionism\|革命主义]]世界主义的道德激情 vs 传教干涉主义风险
 > > 怀特（Wight, 1992）指出康德式的革命主义对建立超越国家边界的人类普遍共同体怀有无限道德热忱。
 > > - **道德世界主义派（Bull, 1992）** 赞赏其消除全人类苦难、实现[[Perpetual Peace\|永久和平]]的激进人道主义伦理。
-> > - **现实主义批评派（[[Argument_Klerides_2023_CE\|Klerides, 2023]]）** 警惕其将世界划分为“忠于世界秩序者”与“阻碍历史进步者”的绝对道德二元论，指出这一传教性冲动在历史上容易异化为自命正义的霸权干涉与文明优越论。[[Argument_Klerides_2023_CE\|Klerides (2023, pp. 418–419)]]
+> > - **现实主义批评派（[[Argument_Klerides_2023_CE\|Klerides, 2023]]）** 警惕其将世界划分为“忠于世界秩序者”与“阻碍历史进步者”的绝对[[Moral Dualism|道德二元论]]，指出这一传教性冲动在历史上容易异化为自命正义的霸权干涉与文明优越论。[[Argument_Klerides_2023_CE\|Klerides (2023, pp. 418–419)]]
 
 > [!critique] 形式主义空洞批判
 > [[Georg Wilhelm Friedrich Hegel\|黑格尔]]与现代伦理学派批评康德的“定言律令”陷入纯粹的形式主义；其绝对命令要求不含矛盾的普遍化，但脱离了具体历史情境、社会关系与伦理生活（*Sittlichkeit*），在面临复杂伦理冲突时往往难以提供切实的实质性指引。
