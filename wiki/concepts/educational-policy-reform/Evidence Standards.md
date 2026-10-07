@@ -347,13 +347,13 @@ updated: 2026-10-03
 > >
 > > - **打包项目派（[[Blueprints for Healthy Youth Development\|Blueprints]], CrimeSolutions）** 主张明确的干预手册与保真度指标有利于技术复现与商业标准化采购。
 > > - **通用策略派（[[EEF Teaching and Learning Toolkit\|EEF Toolkit]], CHI, [[Early Intervention Foundation\|EIF]]）** 指出打包方案评级极易受制于开发商赞助偏倚，且难以适应[[Heterogeneity\|异质性]]学校情境；唯有基于[[Systematic Review\|系统综述]]提炼通用策略才能保障公共循证的普惠性。
-> >
+>
 > > [!axis] 因果[[Internal Validity\|内部效度]]至上 vs 真实生态多维卓越
 > > 争论聚焦于证据标准应坚持以消除偏倚为唯一尺度的传统 RCT 等级，还是迈向兼顾实施细节、经济成本与教育公平的系统性治理框架。
 > >
 > > - **传统因果优先派（早期 [[What Works Clearinghouse\|WWC]]）** 坚持随机对照试验是确证因果功效的唯一黄金标准，内部效度未获确证前，探讨成本与实施毫无意义。
 > > - **系统治理卓越派（Schneider, 2022; SEER 框架）** 指出仅知道某项干预有效远远不够；脱离构件拆解、未算经济成本、使用过度对齐自编测验的实证研究不仅无法在学校规模化落地，更可能加剧教育不平等。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206–209)]]
-> >
+>
 > > [!axis] 法定单项准入门槛 vs 全量证据体综合评价
 > > 争论聚焦于公共教育财政资助应当采纳宽松的单项合格[[Access and Acceptance in Research\|研究准入]]门槛，还是强制采纳全量证据体综合评估。
 > >

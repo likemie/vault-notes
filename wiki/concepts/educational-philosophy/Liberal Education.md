@@ -8,7 +8,7 @@ aliases:
 summary: "源自西方自由七艺与英国绅士品格培育传统的博雅教育理念，主张知识本身即为其目的，强调通过古典人文学术磨砺卓越心智与高尚品格，构成维多利亚时代大英帝国政治治理与抵御市侩庸俗主义的核心文化防线。"
 type: concept
 domain: "educational-philosophy"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Culture Générale]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Geisteswissenschaften]]"
   - "[[Enlightenment]]"
   - "[[General Education]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-07
+updated: 2026-10-08
 ---
 
 # Liberal Education
@@ -96,7 +97,7 @@ updated: 2026-10-07
 > [!citation-card] Kazamias论比较教育自由人文传统对极权主义的抵御与民主公民培育
 > 在比较教育第二论述代际（历史-哲学与自由人文主义传统）中，以[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、[[Robert Ulich|乌利希]]、汉斯与施奈德为代表的学者，将古典博雅教育、德国精神教化（*Bildung*）与古希腊教化（*Paideia*）熔铸为一种鲜明的人文主义认识[[Paradigm|范式]]。他们坚信博雅教育肩负着崇高的启蒙使命与社会改良旨趣，致力于培养具有健全理性与自主判断力的民主公民，将“自由、平等、博爱”与个人尊严确立为抵御 20 世纪纳粹法西斯与极权主义意识形态的本体道德堡垒。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 143–144)]]
 >
-> *The historical-philosophical cum liberal-humanist discourse... represented by Michael Sadler, I. L. Kandel, Robert Ulich, [[Nicholas Hans]], and [[Friedrich Schneider]]... conceived of comparative education within the matrix of the [[Geisteswissenschaften|Human Sciences]] (Geisteswissenschaften)... fostered [[Enlightenment]], human betterment, liberal-humanist values, democratic citizenship, and 'liberty, equality, fraternity' to counteract totalitarian ideologies.*
+> *The historical-philosophical cum liberal-humanist [[Discourse]]... represented by Michael Sadler, I. L. Kandel, Robert Ulich, [[Nicholas Hans]], and [[Friedrich Schneider]]... conceived of comparative education within the matrix of the [[Geisteswissenschaften|Human Sciences]] (Geisteswissenschaften)... fostered [[Enlightenment]], human betterment, liberal-humanist values, democratic citizenship, and 'liberty, equality, fraternity' to counteract totalitarian ideologies.*
 
 > [!boundary] 概念边界
 > - 不等于 **现代[[General Education\|通识教育]]（[[General Education]]）** 现代通识教育往往面向大众高等教育，关注不同学科思维模式的平衡选修与认知迁移（如 Peterson 与 IB 课程）；而传统自由教育具有鲜明的阶层属性，专指以古典人文学术为唯一合法核心、以塑造少数特权绅士阶层为目标的精英传统。
@@ -223,7 +224,7 @@ updated: 2026-10-07
 > >
 > > - **工业现代化与社会批判派** 抨击其具有排他性、反工业主义与阶层固化倾向。
 > > - **人文保守主义学派** 坚守其在培养自制、正直品格与民主政治智慧上的独特贡献。
-> >
+>
 > > [!axis] 古典人文学科霸权 vs 现代自然科学与实用知识的合法性
 > > 围绕自由教育的课程载体究竟应当以古希腊罗马古典学为主体，还是将现代自然科学与社会科学置于平等地位的世纪大论辩。
 > >

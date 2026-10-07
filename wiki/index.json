@@ -8324,6 +8324,17 @@
     ]
   },
   {
+    "title": "Anaconda in the Chandelier",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Anaconda in the Chandelier.md",
+    "aliases": [
+      "吊灯里的巨蟒",
+      "吊灯巨蟒效应",
+      "吊灯巨蟒",
+      "anaconda in the chandelier metaphor"
+    ]
+  },
+  {
     "title": "Banal Imperialism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Banal Imperialism.md",
@@ -8568,6 +8579,17 @@
     ]
   },
   {
+    "title": "Goldfish Bowl Politics",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Goldfish Bowl Politics.md",
+    "aliases": [
+      "金鱼缸政治",
+      "金鱼缸效应",
+      "政治金鱼缸",
+      "goldfish bowl effect"
+    ]
+  },
+  {
     "title": "Governance by Spin",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Governance by Spin.md",
@@ -8593,6 +8615,17 @@
       "硬实力",
       "硬权力",
       "物质强制力"
+    ]
+  },
+  {
+    "title": "Heckler's Veto",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Heckler's Veto.md",
+    "aliases": [
+      "起哄者否决",
+      "扰乱者否决",
+      "倒喝彩否决",
+      "hecklers veto"
     ]
   },
   {
@@ -22924,6 +22957,16 @@
     ]
   },
   {
+    "title": "Aryeh Neier",
+    "type": "person",
+    "path": "wiki/persons/us/Aryeh Neier.md",
+    "aliases": [
+      "阿里耶·内尔",
+      "阿里耶·内伊尔",
+      "Neier, A."
+    ]
+  },
+  {
     "title": "Bernard Barber",
     "type": "person",
     "path": "wiki/persons/us/Bernard Barber.md",
@@ -23865,6 +23908,17 @@
     ]
   },
   {
+    "title": "Michael Sandel",
+    "type": "person",
+    "path": "wiki/persons/us/Michael Sandel.md",
+    "aliases": [
+      "迈克尔·桑德尔",
+      "桑德尔",
+      "Michael J. Sandel",
+      "Sandel, M. J."
+    ]
+  },
+  {
     "title": "Michael W. Apple",
     "type": "person",
     "path": "wiki/persons/us/Michael W. Apple.md",
@@ -23966,6 +24020,16 @@
       "保拉·斯蒂芬",
       "Stephan, P.",
       "Paula E. Stephan"
+    ]
+  },
+  {
+    "title": "Pauli Murray",
+    "type": "person",
+    "path": "wiki/persons/us/Pauli Murray.md",
+    "aliases": [
+      "保利·默里",
+      "Anna Pauline Murray",
+      "Murray, P."
     ]
   },
   {
@@ -29390,6 +29454,17 @@
     ]
   },
   {
+    "title": "2023 Congressional Hearing on Campus Antisemitism",
+    "type": "fact",
+    "path": "wiki/facts/us/2023 Congressional Hearing on Campus Antisemitism.md",
+    "aliases": [
+      "2023年国会高校反犹主义听证会",
+      "国会高校反犹听证会",
+      "2023年美国大学校长国会听证会",
+      "2023 university presidents congressional testimony"
+    ]
+  },
+  {
     "title": "A Nation at Risk 1983",
     "type": "fact",
     "path": "wiki/facts/us/A Nation at Risk 1983.md",
@@ -29459,6 +29534,16 @@
     "aliases": [
       "中佛罗里达研究园",
       "CFRP"
+    ]
+  },
+  {
+    "title": "Checkers Speech",
+    "type": "fact",
+    "path": "wiki/facts/us/Checkers Speech.md",
+    "aliases": [
+      "跳棋演讲",
+      "尼克松跳棋演讲",
+      "Fund speech"
     ]
   },
   {
@@ -29757,6 +29842,18 @@
       "Vannevar Bush report",
       "无尽的前沿",
       "布什报告"
+    ]
+  },
+  {
+    "title": "Skokie Free Speech Case",
+    "type": "fact",
+    "path": "wiki/facts/us/Skokie Free Speech Case.md",
+    "aliases": [
+      "斯科基言论自由案",
+      "斯科基案",
+      "Skokie case",
+      "National Socialist Party of America v. Village of Skokie",
+      "Collin v. Smith"
     ]
   },
   {
@@ -32416,6 +32513,11 @@
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch04",
     "type": "argument",
     "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch04.md"
+  },
+  {
+    "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch05",
+    "type": "argument",
+    "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch05.md"
   },
   {
     "title": "Argument_Kelly_Licona_2018_EpistemicPractices",

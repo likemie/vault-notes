@@ -205,13 +205,13 @@ updated: 2026-10-07
 > >
 > > - **技术理性假定失效** 行政管理部门预设只要建立标准题库与督导量规并将结果反馈，单体学校便能自主对齐改进；实证研究表明，督导报告常被束之高阁，教师面对抽象统计数字产生防御心理，数据供给并未转化为微观课堂质量提升（[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019, p. 9]]）。
 > > - **中层[[Transfer Translation Transformation|转译]]支持缺位** 单纯的数据反馈忽视了学校[[Organizational Culture|组织文化]]、微观人际网络与教师专业信念的多重过滤；缺乏中层研训机构（[[German State Educational Institutes and Quality Agencies\|Landesinstitute]]）与督导部门的专业转译与对话支持，产出导向治理极易演化为形式主义的数字流转。
-> >
+>
 > > [!axis] 理性数据决策预设 vs 学校日常微观政治
 > > 产出导向治理预设学校具有充分的[[Data Literacy\|数据素养]]与理性分析文化，能够将外来评价转化为客观改进方案；然而批判学者指出，学校现场深陷日常事务缠绕与专业直觉惯性，外来数据极易被象征性利用（Symbolic Use）或沦为行政应付公文。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 20–22)]]
 > >
 > > - **新治理倡导者** 主张将实证数据作为推进目标管理与循证问责的核心依据。
 > > - **组织社会学研究者** 强调松散耦合理论（Loose Coupling）与符号仪式化应对，批判其[[Technical Rationality\|技术理性]]主义的盲区。
-> >
+>
 > > [!axis] 资源依赖诉求 vs 产出问责挤压
 > > 实证研究表明，绝大多数中小学管理者仍将[[Class Size\|班额]]缩减和师资物理投入视为提升质量的首要先决条件；新治理强调在不大幅扩张资源的前提下通过数据优化过程，常被一线批评为政府推卸公共财政保障责任的[[Discourse|话语]]修辞。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 31–32)]]
 

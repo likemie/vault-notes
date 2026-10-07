@@ -223,7 +223,7 @@ updated: 2026-09-27
 > >
 > > - **严格防范派（[[Blueprints for Healthy Youth Development\|Blueprints]], [[Education Endowment Foundation\|EEF]], Wadhwa）** 坚信没有独立评估的证据是沙上建塔，允许开发者自评会使整个循证体系沦为商业利益代言人。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 11–15)]]
 > > - **技术包容派（[[What Works Clearinghouse\|WWC]], [[Best Evidence Encyclopedia\|BEE]], Slavin）** 认为只要研究设计严谨（大样本整群 [[Randomised Controlled Trials\|RCT]]、低[[Attrition\|流失]]率、[[Hierarchical Linear Model\|多层线性模型]] HLM 校正），开发者团队同样能产出高[[Internal Validity\|内部效度]]研究；若过度苛求独立性，将导致合规方案数量骤减，无法满足一线学校迫切的采购需求。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 24, 26–27)]]
-> >
+>
 > > [!axis] 研发者与评估者协作支持 vs 评估客观纯洁性
 > > 探讨在现场实施中，研发者的深入介入究竟是保障[[Implementation Fidelity\|实施保真度]]还是污染了因果因果效度。
 > >

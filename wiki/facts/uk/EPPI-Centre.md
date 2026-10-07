@@ -160,12 +160,12 @@ updated: 2026-10-01
 > >
 > > - **外部批判观点** [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] 等学者指出，EPPI-Centre 虽然有效解决了证据可及性与审查严谨性，但无法自动保障研究结论的外部效度。若将脱离特定制度情境的综合证据直接作为通用指南推行，极易遭遇地方微观教学实际的排异反应。
 > > - **机构方法回应** 中心大力开发主题综合与实施环境分析模块，强调综述报告必须系统呈现干预在不同社会阶层、文化背景与制度条件下的[[Heterogeneity\|异质性]]表现。
-> >
+>
 > > [!axis] 关系型中介与全系统生态网络（Ecosystem）的距离
 > > 探讨依托精英大学的研究中心能否充分激发一线教师的主动实践变革。
 > >
 > > - **[[Knowledge Mediation\|知识中介]]演进批判** [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] 指出，尽管 EPPI-Centre 积极探索多方协作与能力建设，但其运行重心依然偏向大学象牙塔内的“证据生产与[[Transfer Translation Transformation\|转译]]供给”；相比于 [[Education Endowment Foundation\|EEF]] 构建的“[[Research Schools Network\|研究学校网络]]”（Research Schools Network）扎根学校基层、驱动一线主动“拉动”（Pull）证据的全系统生态模型，传统学术证据中心依然存在一定程度的供给侧偏斜。
-> >
+>
 > > [!axis] 清算中介因果作用[[Hypothesis|假设]]与微观转移实效知之甚少
 > > 探讨清算机构模式在推动微观教育教学常态化变革中的实证成效赤字。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
 > >

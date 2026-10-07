@@ -9,7 +9,7 @@ aliases:
 summary: "总体战指动员国家全体国民、经济工业基础与社会意志的极限战争形态。一战德国陆军将领埃里希·鲁登道夫在1935年《总体战》中确立了人民本身与工业产能皆为直接合法打击目标的战争法则；二战期间美军对日战略地毯式火攻与广岛长崎原子弹投放展现了总体战动能破坏的物理极限，并直接倒逼战后大国建立核恐怖均势，从而奠定了维系大国长和平的现代战略威慑体系。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

@@ -335,7 +335,7 @@ Bogdan & Biklen（1992）提出了把关人在审查研究方案时核心关切�
 > >
 > > - **[[New Public Management\|新公共管理]]倡导者** 主张通过绩效刚性与问责评估打破校长的把关防线，迫使其依从统一标准。
 > > - **组织制度与批判学者** 强调松散耦合的合理性，主张尊重单校把关人根据本土学情调适政策的专业智慧。
-> >
+>
 > > [!axis] 高利害迎检自保 vs 低利害形成性赋能（[[Ofsted]] 模式 vs [[Institute for Educational Monitoring and Quality Improvement\|IfBQ]] 模式）
 > > 探讨外部宏观环境如何决定把关人是将证据作为应付视导的护盾，还是作为促进学校自我改进的工具。（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025]]）
 > >

@@ -294,10 +294,10 @@ updated: 2026-10-07
 > >
 > > - **一般性倡导者** 主张规划、查错与反思策略能够跨学科灵活迁移。
 > > - **特殊性立场者** 强调若缺乏深层学科概念知识，元认知监控往往无法准确判断专业论据与设计方案的有效性。
-> >
+>
 > > [!axis] 个人独立深思 vs 小组同伴协同中的元认知负荷
 > > [[Cooperative Learning\|合作学习]]倡导者认为同伴互辩能激发元认知碰撞；但实证[[Meta-analysis\|元分析]]表明，松散的小组协作常引发责任分散与元认知监控盲区，独立个人深思更有利于沉淀完整的自我调节回路（[[Argument_Guo_2025_TSC\|Guo et al., 2025]]）。
-> >
+>
 > > [!axis] 自陈式测量偏差 vs 过程性行为追踪
 > > 传统研究过度依赖自陈量表（如 MAI、[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]]），极易受到社会赞许性与“[[Illusion of Competence\|虚假能力错觉]]（Illusion of Competence）”污染；前沿研究呼吁采用基于思维出声法（Think-aloud）、眼动追踪与提示词日志（Prompt Trail）的客观过程性测量。
 

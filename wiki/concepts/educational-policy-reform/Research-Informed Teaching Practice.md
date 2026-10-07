@@ -235,7 +235,7 @@ updated: 2026-10-07
 > >
 > > - **[[Positivism\|实证主义]]普适取向** 假定最佳证据具有跨情境的可移植性。
 > > - **[[Situative Perspective\|情境主义]]建构取向** 强调实践者必须根据校本微观条件对外部方案展开再情境化改造。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 165)]]
-> >
+>
 > > [!axis] 学术[[Document\|文献]]单向推送还是专业共同体[[Transfer Translation Transformation\|转译]]
 > > 传统[[Knowledge Mobilisation\|知识动员]]侧重自上而下向学校推送简报与数据库；当代学者强调，原始论文语言晦涩，单向推送无法跨越实践门槛，唯有依托[[Professional Learning Community\|专业学习共同体]]与结构化研习协议展开协作意义建构才能落地。
 > >

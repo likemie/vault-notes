@@ -230,13 +230,13 @@ flowchart LR
 > >
 > > - **批评视角（反方）** 批判与实践取向学者指出，IES 长期将随机对照试验（RCT）奉为绝对金标准，过度聚焦内部效度，将学校课堂复杂的生态情境视作需要排除的噪音，导致黑箱化；昂贵冗长的实验周期亦难以快速响应一线政策与课堂紧迫的即时挑战。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 204–205, 208)]]
 > > - **机构立场（正方）** IES 院长施奈德强调，离开严谨的[[Causality\|因果推断]]，教育政策就会沦为未经验证的直觉与时尚；同时 IES 正通过 SEER 改革走出单纯 RCT 的狭隘误区，通过要求详尽记录实施反差、[[Counterfactual\|反事实]]情境并依托数字平台开展快速试错迭代，兼顾科学严密性与情境[[Ecological Validity\|生态效度]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206–208)]]
-> >
+>
 > > [!axis] [[Statistical Normalisation|统计正态化]]追求均值 vs 离群弱势群体的受托照护
 > > 批评该机构植根于大样本[[Statistical Significance|统计显著性]]与正态分布[[Hypothesis|假设]]的研究规程，是否会系统性遮蔽处于两端的极端处境不利群体。
 > >
 > > - **批评视角（反方）** 友利田真木人（Makito Yurita）等批判学者指出，以大样本统计与可用性为基准的科研取向，追求的是总体均值效应与主流群体的干预效率，极易将少数族裔、被剥夺权利者及特殊需求学生贬斥为统计离群值，背离了教育作为公共服务对弱势群体承担的受托照护使命。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, pp. 225–227)]]
 > > - **机构立场（正方）** IES 坚决捍卫公共科研资助的正义底色，不仅在《[[Education Sciences Reform Act 2002|2002年教育科学改革法]]案》中将缩小处境不利学生学业鸿沟确立为法定立项基准，更在 SEER 标准中将积极回应教育不平等列为强制准则，要求研究必须对不同亚群体进行[[Heterogeneity|异质性]]效应分析与公平评估。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 208)]]
-> >
+>
 > > [!axis] 宏观统一标准与真实学业产出脱钩争议（国家标准 vs 课程教材）
 > > 围绕统一课程标准能否切实提升学生[[Academic Achievement|学业成就]]，IES 创始领导层与政策倡导者展开了持久的实证交锋。
 > >

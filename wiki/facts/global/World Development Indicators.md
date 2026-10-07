@@ -135,7 +135,7 @@ updated: 2026-10-07
 > >
 > > - **批判视角** 1,600 余项[[Performance Indicators\|教育指标]]的存在制造了典型的[[Surplus of Evidence\|证据过剩]]状态，使得任何政府官员都不可能通读全量数据；[[World Bank\|世界银行]]由此获得了"提炼者"与"诠释者"的垄断特权——这正是 Steiner-Khamsi 等人所批判的世界银行[[Policy Brokerage\|政策中介]]的自指性扩张机制。
 > > - **世行辩护** 免费开放的原则使全球任何研究者都能独立下载原始数据并自行分析，最大限度降低了信息不对称。
-> >
+>
 > > [!axis] [[Human Capital Theory\|人力资本理论]]框架的强行[[Commensuration\|通约化]]
 > > WDI 教育指标体系的设计隐含了特定的政策[[Paradigm\|范式]]预设。
 > >

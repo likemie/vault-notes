@@ -10,10 +10,10 @@ summary: "阿尔弗雷德·伯恩哈德·诺贝尔（Alfred Bernhard Nobel, 1833
 type: person
 nationality: sweden
 person_region: "sweden"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1833"
 died: "1896"
 lifespan: 1833–1896

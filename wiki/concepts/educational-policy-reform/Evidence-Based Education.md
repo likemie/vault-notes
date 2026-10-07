@@ -443,7 +443,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > >
 > > - **供给端单向理性假设** 清算机制预设了三重递进式假设：只要将学术论文改写为简明摘要，实践者便会自发展开阅读；只要知晓科学证据，便会破除经验直觉并重塑信念；只要信念转变，便能在无外部持续支持下自动改善微观课堂行动。
 > > - **实证成效黑箱与转移研究赤字** 国际经验表明，清算中心究竟在多大程度上能够达成既定的实践转移目标，实证证据依然极度匮乏。单纯降低[[Document|文献]]阅读门槛，无法替代针对学校[[Organizational Culture|组织文化]]和教师[[Absorptive Capacity|吸收能力]]（Absorptive Capacity）的深层制度建设。
-> >
+>
 > > [!axis] 教师教育多范式治理与大学学术自治生态抵制
 > > EBE 政策试图将实证证据与标准化指标强制嵌入大学师范培养与职后研训（如德国 [[Qualitätsoffensive Lehrerbildung|QLB]] 工程），但在高校内部遭遇了学术生态的深层抵制。[[Argument_Manitius_vanHolt_2019_BzS\|(Heinrich & Streblow, 2019; Manitius & van Holt, 2019, p. 13)]]
 > >

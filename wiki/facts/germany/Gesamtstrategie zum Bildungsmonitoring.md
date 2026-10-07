@@ -149,13 +149,13 @@ updated: 2026-10-08
 > >
 > > - **成效缺失困境** 总体战略虽然构建了涵盖国际、州际与校际的宏观数据网络，但实证检验表明，将外部测评数据单纯回传至单体学校在促进教学改进与提升[[Academic Achievement|学业表现]]上面临普遍的“成效缺失”（mangelnde Effekte auf Einzelschulebene；Demski, 2017；Manitius & van Holt, 2019, p. 9）。自上而下的数据供给预设未能自动转化为微观学校内涵发展，重现了经典的理论与实践脱节困境。
 > > - **制度中介[[Transfer Translation Transformation|转译]]倒逼** 这一治理挫折倒逼 [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 在 2015 年修订案中紧急增设[[Knowledge Transfer|知识转移]]专章，将各州立研训与质量机构（[[German State Educational Institutes and Quality Agencies\|Landesinstitute]]）确立为法定转化中介，促发学界将教育科学构建为[[Transfer Science|转移科学]]以解剖中层界面的学术转向（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, pp. 10–12]]）。
-> >
+>
 > > [!axis] 密集测评引发的行政过载与横向跨库整合瓶颈
 > > 探讨高频密集的国家战略施测对地方行政体系造成的运转负荷。
 > >
 > > - **科层运转瓶颈** 实证调查表明，多重评估工具频繁常态化施测使各州官员被试卷分发、数据校验等繁琐事务耗竭精力，[[Working Knowledge\|实践运作知识]]认知负荷过载；负责校际测试的部门与负责督导的部门各自为政，难以实现跨数据库的横向综合分析。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 493–494)]]
 > > - **基层学校负担** 一线学校反映各类评估周期过密，加重了教师应检应试负担，且测试后往往缺乏针对性的后续教学支持与资源倾斜。
-> >
+>
 > > [!axis] 全票一致决议机制与最低共识妥协
 > > 批评联邦协调机制摩擦成本高昂，重大决议往往为了达成全票一致而妥协为各方都能接受的最低共识，难以彻底消除各州间深厚的体制壁垒。
 

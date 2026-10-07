@@ -245,7 +245,7 @@ updated: 2026-10-01
 > >
 > > - **[[Positivism|实证主义]]阵营（Noah & Eckstein, 1969; Anderson & Foster, 1961）** 坚持[[Scientific Method|科学方法]]一元论，主张用标准化[[Variable|变量]]、大规模测试与[[Multiple Regression|多元回归]]替代个案阐释，以建立跨越时空的普遍因果法则。
 > > - **精神科学阵营（Dilthey, 1883; Sadler, 1900; Kandel, 1933; [[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）** 强调教育深嵌于各民族独特的精神土壤与历史政体中，唯有通过历史考证与情境理解才能触及教育本质。
-> >
+>
 > > [!axis] 纯技术预测工具 vs [[Working Hypothesis|历史工作假说]]与人文批判
 > > 争论比较教育学应当充当国家技术官僚的短期预测工程，还是培育开阔历史视野与公民民主反思的博雅学术。
 > >

@@ -262,25 +262,25 @@ updated: 2026-10-07
 > >
 > > - **人力资本学派** 坚信正规教育直接增强了个体的认知资本与生产技能，从而创造了真实经济价值。
 > > - **信号与筛选理论** 肯尼斯·阿罗（Kenneth Arrow, 1973）与迈克尔·斯宾塞（Michael Spence, 1973）指出，教育主要发挥“筛选装置”（Screening Device）和“能力信号”功能，文凭溢价源于先天能力偏好而非教育带来的生产力提升。
-> >
+>
 > > [!axis] 科学[[Technical Rationality|技术理性]]规划 vs 统治正统免责借口
 > > 围绕人力资本预测与量化模型是纯粹的科学规划工具还是服务于官僚政治的伪装工具展开争论。
 > >
 > > - **技术官僚学派** 认为依托人力预测模型（Parnes, 1962）能精准测算国家人才结构，实现社会资源的最优宏观配置。
 > > - **批判政治学派与马修** 指出人力资本的实证外衣在实质上充当了“[[Social Science as Legitimation Alibi|合法化借口]]”（Alibi），政客借此推卸政策失误责任，掩饰阶级不平等与意识形态决断（[[Argument_Mattheou_2009_ScientificParadigm|Mattheou, 2009, pp. 67–68]]）。
-> >
+>
 > > [!axis] 人文[[Bildung|教化]]与批判反思 vs 人力资本与经济[[Competitiveness|竞争力]][[Disciplina and Doctrina|规训]]
 > > 围绕比较教育究竟应当维系植根于哲学与历史传统的教化（Bildung）反思与审慎导航，还是彻底沦为服务于国家人力资本积累与经济对标的实用工具展开交锋。
 > >
 > > - **欧陆传统与米特立场** 坚持[[Navigation Metaphor in Comparative Education|比较教育的航海隐喻]]与批判启蒙价值，警惕技术官僚将学科矮化为人力资本与绩效对标的附庸。
 > > - **跨国技术官僚规训** [[OECD|经合组织]]与政府部门通过财政资助与问责指标，强制将[[Research Problem|研究议题]]锚定于提升国家经济人力资本存量与全球竞争力。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 96)]]
-> >
+>
 > > [!axis] 工具性发展[[Paradigm|范式]]与[[Empiricism|唯方法论主义]] vs 历史文化深度与[[Geisteswissenschaften|精神科学]]
 > > 围绕人力资本理论主导的“教育-发展-现代化”工具性发展范式是否造成学科“[[Historical Amnesia|历史失忆症]]”展开论争。
 > >
 > > - **芝加哥人力资本学派与方法论[[Empiricism|经验主义]]者（Psacharopoulos, 1987; Noah & Eckstein, 1969）** 将教育抽象为促进经济起飞与现代化的决定性[[Independent Variable|自变量]]，主张借助投入产出计量模型与跨国收益率数据库指导发展规划。
 > > - **批判学术史家与卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）** 揭示该范式在[[Epistemology|认识论]]上陷入去情境化、无历史性的“唯方法论主义”（methodologism），将复杂的历史文化演化抽离为单向度的经济资本积累，沦为跨国官僚机构与资助者的合法化工具。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
-> >
+>
 > > [!axis] [[Modern Industrial Policy|现代产业政策]]竞争中工程人力资本的战略集聚 vs 跨国空间分散的供给断链
 > > 围绕先进制程制造对高密度专门 [[STEM Education|STEM]] 劳动力池的极度依赖，以及现代产业政策跨国分散设厂是否会遭遇人力资本短缺瓶颈展开争论。
 > >

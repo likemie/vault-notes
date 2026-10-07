@@ -221,7 +221,7 @@ updated: 2026-09-29
 > >
 > > - **Kandel（1933）** 坚持民族主义、国家意志与国民性格是决定教育体系的最深层力量。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 40–41)]]
 > > - **实证与批判学者（1960s）** 主张将解释重心转移至阶级分层、工业化需求与可测量的社会经济[[Variable\|变量]]。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 53–54)]]
-> >
+>
 > > [!axis] 国民同质性[[Hypothesis\|假设]] vs 内部多元与权力[[Heterogeneity\|异质性]]
 > > 民族国家内部是否存在单一、同质且稳固的国民性格。
 > >

@@ -253,7 +253,7 @@ updated: 2026-09-22
 > >
 > > - **循证规范派** 遵循方法匹配问题原则（Method-to-Question [[Matching]]）：当核心问题是“某方案相比替代方案是否有效”时，实验设计是最佳设计；大样本整群设计与[[Hierarchical Linear Model\|分层线性模型]]（Hierarchical Linear Model, HLM）分析已有效保障了外部概化力。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 26, 29)]]
 > > - **[[Critical Realism\|批判实在论]]与方法多元论** 指出 RCT 依赖高度受控环境，教师的主观热情既是干预显效的[[Necessary and Sufficient Conditions\|必要条件]]也是实验污染源；过度聚焦“何者有效”排除了“为何有效”、“对谁有效”及质性情境理解。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, pp. 5–7)]]; [[Argument_Cowen_2019_ERE\|(Cowen, 2019)]]; [[Argument_Biesta_2010_SPE\|(Biesta, 2010)]]
-> >
+>
 > > [!axis] 预包装结构化项目采纳 vs 教师微观情境专业裁量
 > > 争论学校究竟应当严格执行标准化商业项目，还是依靠教师专业智慧进行自适应调整。
 > >
