@@ -636,7 +636,7 @@ sources:
 > [!citation-card] 证据生态系统的自省与元研究视阈
 > 尽管关于研究应用的研究是具有重大实践意义的核心社会科学领域，但迄今为止此类研究依然相对稀缺。证据使用是所有科学共同面临的课题，而对证据使用的研究则是唯一适用于所有其他科学的社会科学分支。忽视研究应用之研究不仅会危及知识中介机构自身的公信力与有效性，更会延误循证政策与实践作为一个成熟专业领域的演进步伐。（pp. 157–158）
 >
-> *There are relatively few studies of "research on research use" despite it being a key area of social science with major practical implications. The use of evidence is an issue for all sciences and its study is the one area of social science that applies to all other sciences. Neglecting "research on research use" jeopardises KBI credibility and effectiveness.*
+> *There are relatively few studies of "[[Metascience|Research on Research]] use" despite it being a key area of social science with major practical implications. The use of evidence is an issue for all sciences and its study is the one area of social science that applies to all other sciences. Neglecting "research on research use" jeopardises KBI credibility and effectiveness.*
 
 ---
 

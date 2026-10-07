@@ -8,7 +8,7 @@ aliases:
 summary: "存在于熟练工程师、技师与实验科学家身上、无法完全编码为图纸与专利的排障手感与默会实践经验；作为技术能力的核心支柱，依赖物理邻近与制造生态传承，并在智能充沛时代构成物理创新的关键约束。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

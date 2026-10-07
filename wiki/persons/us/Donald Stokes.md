@@ -5,14 +5,14 @@ aliases:
   - Donald E. Stokes
   - D. E. Stokes
   - D. Stokes
-summary: "美国政治学家、公共政策学者，普林斯顿大学伍德罗·威尔逊学院前院长。针对冷战后国家安全合法性消退与财政赤字危机，于 1997 年出版《帕斯德象限》，提出二维研究动机模型，确立“由应用启发的基础研究”合法性，打破战后线性模型，成为克林顿政府《科学与国家利益》（1994）等科技政策与科研资助战略重构的认知基石。"
+summary: "美国政治学家、公共政策学者，普林斯顿大学伍德罗·威尔逊学院前院长。针对冷战后国家安全合法性消退与财政赤字危机，于 1997 年出版《帕斯德象限》，提出二维研究动机模型，确立“由应用启发的基础研究”合法性，打破战后线性模型；在 2026 年白宫科技报告中被确立为解释晶体管、信息论、AlphaFold 及现代量子器件等前沿科技突破的根本理论基石。"
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 28
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 35
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1927"
 died: "1997"
 lifespan: "1927–1997"
@@ -24,7 +24,9 @@ tags:
 related_concepts:
   - "[[Use-Inspired Basic Research]]"
   - "[[Blue Skies Research]]"
+  - "[[Scientific Autarky]]"
   - "[[Epistemology]]"
+  - "[[Focused Research Organization]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Competitiveness]]"
   - "[[Paradigm]]"
@@ -32,6 +34,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Technology Transfer]]"
   - "[[Linear Model of Innovation]]"
+  - "[[Operationalization]]"
   - "[[Pragmatic Paradigm]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
@@ -42,20 +45,26 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Michael Kratsios]]"
   - "[[Vannevar Bush]]"
   - "[[Venkatesh Narayanamurti]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[Science A New Golden Age 2026]]"
+  - "[[Bell Labs]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[Brookings Institution]]"
   - "[[Science in the National Interest 1994]]"
   - "[[National Science Foundation]]"
+  - "[[NSF X-Labs]]"
+  - "[[Genesis Mission]]"
   - "[[Department of Energy]]"
   - "[[National Institutes of Health]]"
-  - "[[Bell Labs]]"
+  - "[[Office of Science and Technology Policy]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Narayanamurti_2013_IST]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: high
 status: active
 created: 2026-10-02
@@ -70,13 +79,18 @@ updated: 2026-10-07
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国政治学家、公共政策学者、科学与技术政策理论家；普林斯顿大学伍德罗·威尔逊公共与国际事务学院（Woodrow Wilson School of Public and International Affairs）院长（1974–1992）；曾任密歇根大学政治学教授、社会研究所（ISR）资深研究员及英国纳菲尔德学院访问学者。
-> - **核心角色** 战后美国科学政策与研究分类学的重要革新者；在 1997 年出版的代表作《[[Pasteur's Quadrant|帕斯德象限]]：基础科学与技术创新》中，首次将[[Science, The Endless Frontier 1945|布什报告]]确立的一维线性滑动轴拓展为二维研究动机矩阵，确立了“由[[Use-Inspired Basic Research|应用启发的基础研究]]”（Use-Inspired [[Blue Skies Research|Basic Research]]）的正统合法地位，成为 1990 年代冷战终结与赤字攀升背景下科学界与美国政府“重新签约”的核心认知蓝图。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]; [[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 32–33)]]
-> - **代表贡献** 创立帕斯德象限理论（Pasteur's Quadrant Model）；早期与安格斯·坎贝尔（Angus Campbell）等人合著《美国选民》（*The American Voter*, 1960）奠定了当代政治行为学与选民投票理论基础；重塑了战后西方关于科学自由与社会责任之间关系的政策契约讨论。
+> - **核心角色** 战后美国科学政策与研究分类学的重要革新者；在 1997 年出版的代表作《[[Pasteur's Quadrant|帕斯德象限]]：基础科学与技术创新》中，首次将[[Science, The Endless Frontier 1945|布什报告]]确立的一维线性滑动轴拓展为二维研究动机矩阵，确立了“由[[Use-Inspired Basic Research|应用启发的基础研究]]”（Use-Inspired [[Blue Skies Research|Basic Research]]）的正统合法地位，不仅成为 1990 年代冷战终结与赤字攀升背景下科学界与美国政府“重新签约”的核心认知蓝图，更在 2026 年白宫科技报告《[[Science A New Golden Age 2026|科学：新的黄金时代]]》中被确立为解构当代前沿科技突破与重组联邦研发资助体系的四大理论支柱之一。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]; [[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 32–33)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 7, 158)]]
+> - **代表贡献** 创立帕斯德象限理论（Pasteur's Quadrant Model）；早期与安格斯·坎贝尔（Angus Campbell）等人合著《美国选民》（*The American Voter*, 1960）奠定了当代政治行为学与选民投票理论基础；深刻重塑了西方关于[[Scientific Autarky|科学自主]]与社会责任之间关系的政策契约。
 
 > [!citation-card] 斯托克斯对战后科技政策的重塑定位
 > 1997 年，唐纳德·斯托克斯的遗著《帕斯德象限：基础科学与技术创新》出版。斯托克斯在书中论证指出，科研工作在落入其所谓的“帕斯德象限”时能够取得最佳成效——在这一象限中，研究人员受到拓展基本理解与提升应用能力的双重动机驱动。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
 >
 > *"In 1997, Donald Stokes's book Pasteur's Quadrant: Basic Science and Technological Innovation was published posthumously. In this work, Stokes argued that scientific efforts were best carried out in what he termed 'Pasteur's Quadrant,' where researchers are motivated simultaneously by expanding understanding and increasing applied capabilities."*
+
+> [!citation-card] [[Michael Kratsios|克拉齐奥斯]]论斯托克斯巴斯德象限在智能时代的支配地位
+> 历史上的科学突破屡屡展现出双重驱动特征：路易·巴斯德在探究酒类变质实用工艺中开创现代微生物学；[[Bell Labs|贝尔实验室]]在解决通信放大器件时发明晶体管；克劳德·香农在优化电报传输中创立信息论。2024 年诺贝尔化学奖表彰的蛋白质结构预测算法（AlphaFold）以及 2025 年诺贝尔物理学奖表彰的超导量子器件，均兼具宏大的理论雄心与明确的现实应用指向。唐纳德·斯托克斯所界定的巴斯德象限——即由应用驱动但同时探究根本机理的研究，已占据当代科学前沿的支配地位，证明传统单向线性资助模型必须彻底重组。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 7)]]
+>
+> *Donald Stokes's Pasteur's Quadrant—research inspired by use while simultaneously pursuing fundamental mechanism understanding—has come to dominate the frontier of contemporary science... proving the bankruptcy of rigid linear funding models.*
 
 ---
 
@@ -97,21 +111,19 @@ updated: 2026-10-07
 > - **1950s–1960s — 经验政治学与选民行为实证研究奠基期** 运用大规模调查抽样与统计方法分析公众政治心理与投票行为。
 >   - **代表著作** *The American Voter* (1960); *Elections and the Political Order* (1966)。
 >   - **关键概念／方法** 密歇根选民模型、党派认同（Party Identification）、长期与短期政治态度维度。
->   - **阶段转向** 奠定严谨的经验测量与多维矩阵分析方法论基础。
 > - **1970s–1980s — 公共政策治理与跨学科领导力转型期** 执掌普林斯顿公共政策学院，关注国家重大公共问题分析与行政决策优化。
 >   - **代表工作** 推动公共政策研究生教育跨学科改革，融合经济学、政治学与工程技术评估。
->   - **阶段转向** 从具体的选举实证研究转向宏观国家治理战略与制度设计。
 > - **1990s — 战后科技政策契约反思与[[Pasteur's Quadrant|帕斯德象限]]确立期** 直面冷战终结、安全红利消退与联邦预算赤字攀升的重压，针对 1993—1994 年美国围绕基础研究合法性展开的“重新签约”大辩论，系统反思《科学——[[Science, The Endless Frontier 1945|无尽的前沿]]》一维模型的[[Epistemology|认识论]]缺陷，呼应克林顿政府《[[Science in the National Interest 1994|科学与国家利益]]》（1994）的战略转型。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
->   - **代表著作** *Pasteur's Quadrant: Basic Science and Technological Innovation* (1997)。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
+>   - **代表著作** *Pasteur's Quadrant: Basic Science and Technological Innovation* (1997)。
 >   - **关键概念／方法** [[Pasteur's Quadrant|帕斯德象限]]、由[[Use-Inspired Basic Research|应用启发的基础研究]]（Use-Inspired [[Blue Skies Research|Basic Research]]）、玻尔象限（纯求知）、爱迪生象限（纯应用）。
->   - **阶段转向** 突破一维线性滑动轴，构建二维研究动机矩阵，为基础研究在后冷战时期获取国家资助提供兼顾根本理解与现实应用的复合合法性。
+> - **2020s — 智能时代与国家科技战略的制度化落地期** 在 2026 年白宫科技报告中，斯托克斯的二维框架被全面确立为国家科技战略的底层逻辑，直接指导了 [[National Science Foundation|NSF TIP]] 理事会、[[NSF X-Labs|X-Labs]]、[[Focused Research Organization|聚焦研究组织]]（FRO）与[[Genesis Mission|创世纪计划]]等一系列跨越基础与应用二分法的新型科研体制设计。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 7, 21–26, 61–63)]]
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心主张
-> [[Vannevar Bush|万尼瓦尔·布什]] 1945 年报告所确立的“基础研究与应用研究相互排斥”的一维模型与科学史经验严重脱节；科学研究应依据“是否追求根本性理解”与“是否考虑实际应用”两个独立维度，划分为玻尔象限（[[Curiosity-Driven Research|纯基础研究]]）、爱迪生象限（纯应用研究）与[[Pasteur's Quadrant|帕斯德象限]]（由[[Use-Inspired Basic Research|应用启发的基础研究]]）；兼具理论深度与重大应用价值的帕斯德象限研究，才是现代国家科技[[Competitiveness|竞争力]]与产业创新的核心策源地。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
+> [[Vannevar Bush|万尼瓦尔·布什]] 1945 年报告所确立的“基础研究与应用研究相互排斥”的一维模型与科学史经验严重脱节；科学研究应依据“是否追求根本性理解”与“是否考虑实际应用”两个独立维度，划分为玻尔象限（[[Curiosity-Driven Research|纯基础研究]]）、爱迪生象限（纯应用研究）与[[Pasteur's Quadrant|帕斯德象限]]（由[[Use-Inspired Basic Research|应用启发的基础研究]]）；兼具理论深度与重大应用价值的帕斯德象限研究，才是现代国家科技[[Competitiveness|竞争力]]与产业创新的核心策源地。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 7)]]
 
 > [!citation-card] 樊春良论斯托克斯与冷战后科学契约的再协商
 > 面对冷战终结与赤字攀升带来的合法性危机，斯托克斯于 1997 年提出巴斯德象限理论，确立了“应用启发的基础研究”概念。该[[Paradigm|范式]]打破了纯基础与纯应用的机械二分，为既追求根本性理解又受实际应用问题启发的科研活动提供了坚实的[[Epistemology|认识论]]合法性，成为克林顿政府《[[Science in the National Interest 1994|科学与国家利益]]》（1994）之后维系科学界与国家新契约的核心认知支柱。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
@@ -123,18 +135,13 @@ updated: 2026-10-07
 >
 > *"Stokes notes how 'often technology is the inspiration of science rather than the other way around'..."*
 
-> [!citation-card] 二维研究动机矩阵的分类学突破
-> 斯托克斯将研究划分为以路易·巴斯德（Louis Pasteur）为代表的用启发性基础研究、以尼尔斯·玻尔（Niels Bohr）为代表的纯理论探索，以及以托马斯·爱迪生（Thomas Edison）为代表的实用改良，确立了前沿学术探索与现实重大社会需求之间高度兼容的正当性。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
->
-> *"Stokes argued that scientific efforts were best carried out in what he termed 'Pasteur's Quadrant,' where researchers are motivated simultaneously by expanding understanding and increasing applied capabilities."*
-
 ---
 
 ## 影响路径
 
 > [!influence-path] 影响路径
 > - **政策[[Paradigm|范式]]重构与多重契约交叠** 终结了战后“基础研究必须远离实用”的狭隘教条，为 1990 年代冷战遗产型契约、经济[[Competitiveness|竞争力]]型契约与健康研究特定契约的复合共存提供了[[Epistemology|认识论]]基石；为[[National Science Foundation|美国国家科学基金会]]（NSF）、能源部（[[Department of Energy|DOE]]）及国立卫生研究院（[[National Institutes of Health|NIH]]）设立重大战略使命导向的跨学科研究计划提供了理论正当性。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
-> - **科研治理属性的历史转向** 斯托克斯框架促使科学界从冷战时期“默认获得无条件信任的自治共同体”，转变为必须频繁证明经济效益与社会相关性的“受制度管理的专业系统”，客观上开启了由长期机构兜底向竞争性项目制与绩效问责的过渡。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
+> - **2026 联邦科技体制改革的理论基石** 在白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）2026 年战略报告中，斯托克斯理论被直接运用于诊断联邦资助机构对 1950 年代学科与单 PI 课题组的僵化固守，推动政策转向组合式资助、[[Focused Research Organization|聚焦研究组织]]（FRO）与开放国家实验室基础设施。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 7–8, 21–26)]]
 > - **高等教育与[[University-Industry Collaboration|产学合作]]路径** 促使全球[[Research Universities|研究型大学]]重新审视学术评价体系，使兼顾工业转化与前沿论文发表的应用基础研究摆脱“二等学术”的偏见，直接推动了现代高校[[Technology Transfer|技术转移]]与企业联合实验室的蓬勃发展。
 > - **理论演进路径** 启发了后续学者对[[Linear Model of Innovation|线性创新模型]]的系统解构，成为纳拉亚纳穆尔提等人提出[[Discovery-Invention Cycle|发现-发明循环]]理论的重要思想前阶与对话靶标。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 32–33)]]
 
@@ -144,9 +151,9 @@ updated: 2026-10-07
 
 > [!person-network] 关系网络
 > - **学术对话与反思对象** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush） — 批判并打破其《科学——[[Science, The Endless Frontier 1945|无尽的前沿]]》中确立的一维线性动机轴，将其重构为二维分类矩阵。
+> - **当代政策[[Operationalization|操作化]]者** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios） — 在 2026 年白宫科技报告中将斯托克斯[[Pasteur's Quadrant|巴斯德象限]]确立为重构联邦科研体制的核心理论支柱，推动制度化落地。
 > - **后续理论发展与批判者** [[Venkatesh Narayanamurti|文卡泰什·纳拉亚纳穆尔提]]（Venkatesh Narayanamurti） — 指出斯托克斯未能彻底摆脱基础/应用话语体系，提出对称流转的[[Discovery-Invention Cycle|发现-发明循环]]网络。
 > - **当代制度主义评估者** [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演进脉络，将斯托克斯界定为 1990 年代“重新签约”大辩论与多重契约交叠期的核心认知重构者。
-> - **核心组织平台** 普林斯顿大学伍德罗·威尔逊学院、[[Brookings Institution|布鲁金斯学会]]。
 > - **代表性案例实体** [[Bell Labs|贝尔实验室]]（常被视作[[Pasteur's Quadrant|用启发性基础研究]]的典型组织典范）。
 
 ---
@@ -172,5 +179,6 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 将斯托克斯[[Pasteur's Quadrant|巴斯德象限]]确立为白宫 2026 年科技体制重构报告的核心理论支柱，论证晶体管、信息论、AlphaFold 及量子器件的双重驱动特征，并以此为依据提出重组联邦资助机构、设立中等规模工程科学组织与闭环自主实验室的系统方案。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，论述斯托克斯[[Pasteur's Quadrant|巴斯德象限]]如何成为 1990 年代美国应对冷战终结与赤字攀升、推动科学与社会“重新签约”并构建复合型契约的核心[[Epistemology|认识论]]支柱。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 评述斯托克斯[[Pasteur's Quadrant|帕斯德象限]]在打破一维线性模型上的里程碑贡献，同时指明其由于继续沿用二分法旧词汇且局限于静态主观动机，未能充分揭示科学发现与工程发明跨越数十年的动态网络互动机制。

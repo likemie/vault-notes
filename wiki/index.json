@@ -10970,7 +10970,8 @@
     "aliases": [
       "元科学",
       "科学的科学",
-      "Science of Science"
+      "Science of Science",
+      "Research on Research"
     ]
   },
   {
@@ -11026,7 +11027,9 @@
     "path": "wiki/concepts/science-policy/Permissionless Innovation.md",
     "aliases": [
       "无许可创新",
-      "Permissionless Experimentation"
+      "Permissionless Experimentation",
+      "自由去建造",
+      "Freedom to Build"
     ]
   },
   {
@@ -12575,6 +12578,8 @@
       "innovation hubs",
       "place-based innovation hub",
       "基于地点的创新中心",
+      "区域创新中心",
+      "区域创新枢纽",
       "innovation center"
     ]
   },

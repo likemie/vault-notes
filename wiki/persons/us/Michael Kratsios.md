@@ -7,7 +7,7 @@ summary: "美国当代科技政策制定者与战略管理者，曾任美国第4
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"

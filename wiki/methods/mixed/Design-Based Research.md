@@ -8,13 +8,13 @@ aliases:
   - design study
   - 设计实验
   - design-based study
-summary: "以真实情境中的多轮迭代循环为核心的混合方法论：通过设计、实施、评估与持续精炼教育干预，同时生成情境化的教与学理论并沉淀可迁移的设计原则"
+summary: "以真实情境中的多轮迭代循环为核心的混合方法论：通过设计、实施、评估与持续精炼教学或专业组织干预，同时生成情境化的教与学机制理论并沉淀可迁移的处方性设计原则。"
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 38
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 40
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
 tags:
   - method/design-based
@@ -42,6 +42,8 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Epistemic Responsibility]]"
   - "[[Causality]]"
+  - "[[Research Universities]]"
+  - "[[Champ]]"
   - "[[Scientific Explanation]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
@@ -68,10 +70,11 @@ related_arguments:
   - "[[Argument_Zhang_2022_SE]]"
   - "[[Argument_Murphy_2026_JTS]]"
 confidence: high
-status: draft
+status: active
 created: 2026-07-12
-updated: 2026-10-05
+updated: 2026-10-07
 ---
+
 # Design-Based Research
 
 ---
@@ -79,16 +82,16 @@ updated: 2026-10-05
 ## 定义
 
 > [!def] 基于设计的研究
-> 基于设计的研究（Design-Based Research, DBR，亦称设计研究或设计实验）是一种以多轮迭代为核心的方法论框架：研究者与实践者在真实的教育情境中共同设计、实施、评估和精炼教学干预与学习环境，在解决复杂实践问题的同时，生成扎根于真实情境的教与学理论，并沉淀可迁移的设计原则（Brown, 1992; Collins, 1992; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]]; [[Argument_Zhang_2022_SE\|Zhang et al., 2022]]）。
+> **基于设计的研究（Design-Based Research, DBR，亦称设计研究或设计实验）**是一种以多轮实境迭代为核心的方法论框架：研究者与实践者在真实的教育或专业组织情境中共同设计、实施、评估和精炼教学干预与学习环境，在解决复杂实践问题的同时，生成扎根于真实情境的教与学理论，并沉淀可迁移的设计原则（Brown, 1992; Collins, 1992; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16]]; [[Argument_Zhang_2022_SE|Zhang et al., 2022]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 真实教育生态中的教学干预、技术支架、课程设计、协作机制与社会实践架构。
 > - **问题类型** 系统创新在真实情境中如何运作？产生何种学习成效？背后的社会认知机制与设计条件是什么？（Shavelson et al., 2003, p. 28）
-> - **[[Unit of Analysis\|分析单位]]** 干预系统本身及其与学习环境的交互生态——将干预视为持续演化的设计产物，而非静态的输入-输出黑箱。
-> - **输出形式** 双重产出：① 经过实境检验的实用教育产品（课程方案、软件工具、课堂组织架构）；② 情境化的教与学机制理论及设计原则（Design Principles）。
+> - **[[Unit of Analysis|分析单位]]** 干预系统本身及其与学习环境的交互生态——将干预视为持续演化的设计产物，而非静态的输入-输出黑箱。
+> - **输出形式** 双重产出：① 经过实境检验的实用教育产品（课程方案、软件工具、组织协作架构）；② 情境化的教与学机制理论及处方性设计原则（Design Principles）。
 
 > [!citation-card] DBR 集体论基于设计的研究本质
-> 基于设计的研究不仅是为了验证某种教学设计是否有效，更重要的是阐明它为什么有效、在何种情境下有效。研究通过在真实情境中持续介入与调整，将理论构建与实践干预紧密交织在一起。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|(Cohen et al., 2011, Ch16)]]
+> 基于设计的研究不仅是为了验证某种教学设计是否有效，更重要的是阐明它为什么有效、在何种情境下有效。研究通过在真实情境中持续介入与调整，将理论构建与实践干预紧密交织在一起。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch16)]]
 >
 > *Design-based research goes beyond merely evaluating whether an intervention works; its primary aim is to explain why and how it works within authentic contexts, weaving theory building and practical refinement into an iterative developmental continuum. (Design-Based Research Collective, 2003, p. 5)*
 
@@ -97,15 +100,15 @@ updated: 2026-10-05
 ## 方法定位
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **[[Epistemology\|认识论]]立场** 扎根于[[Pragmatic Paradigm\|实用主义范式]]（Pragmatic [[Paradigm]]），强调知识的[[Ecological Validity|生态效度]]（[[Ecological Validity]]）与实践效用，主张通过改变现实来理解现实（Cobb et al., 2003, p. 10）。
+> - **[[Epistemology|认识论]]立场** 扎根于[[Pragmatic Paradigm|实用主义范式]]（Pragmatic [[Paradigm]]），强调知识的[[Ecological Validity|生态效度]]（Ecological Validity）与实践效用，主张通过改变现实来理解现实（Cobb et al., 2003, p. 10）。
 > - **研究者角色** 兼具干预设计者、促学协作者与理论建构者的复合角色，与一线教师和学习者紧密合作，深度介入情境而非保持冷眼旁观。
 > - **有效性标准** 强调理论的情境解释力、干预在生态情境中的可用性与可迁移性，而非实验室控制下的统计泛化性。
-> - **不声称回答的问题** 无法提供单一[[Hypothesis|假设]]的隔离因果检验；不适用于需要严格对照组与[[Random Assignment\|随机化]]控制的传统假设检验。
+> - **不声称回答的问题** 无法提供单一[[Hypothesis|假设]]的隔离因果检验；不适用于需要严格对照组与[[Random Assignment|随机化]]控制的传统假设检验。
 
 > [!method-stack] 方法层级
 > - **研究设计** 历时迭代循环设计：[[Problem Finding|问题界定]] $\rightarrow$ 原型开发 $\rightarrow$ 实境测试 $\rightarrow$ 机制分析 $\rightarrow$ 理论与设计再迭代（DBR Collective, 2003）。
 > - **数据收集** 课堂音视频记录、师生研讨录音、在线协作话语（如[[Theory of Knowledge|知识论]]坛日志）、学习反思笔记、现场观察笔记与[[Semi-structured Interview|半结构化访谈]]。
-> - **分析方法** 多[[Variable|变量]]微观发生分析（Microgenetic Analysis）、[[Interactional Ethnography\|互动民族志]]事件地图分析、[[Network Analysis\|社会网络分析]]（SNA）与历时典型案例追踪（Telling Case Analysis）。
+> - **分析方法** 多[[Variable|变量]]微观发生分析（Microgenetic Analysis）、[[Interactional Ethnography|互动民族志]]事件地图分析、[[Network Analysis|社会网络分析]]（SNA）与历时典型案例追踪（Telling Case Analysis）。
 > - **辅助技术** 数字化[[Learning Analytics|学习分析]]工具、[[Coding in Qualitative Research|质性编码]]软件与协作话语可视化。
 
 ---
@@ -142,7 +145,7 @@ updated: 2026-10-05
 > - **设计类型** 嵌入式[[Mixed Methods Research|混合方法]]（Embedded Mixed-Methods）与纵向历时追踪设计。
 > - **先后顺序** 质性互动观察与量化[[Discourse Analysis|话语分析]]同步并行，相互印证。
 > - **整合点** 将课堂质性微观[[Rich and Thick Description|深描]]（如师生对话、微实验）与量化[[Network Analysis|网络分析]]（如 SNA 回帖密度、BOOK 总结[[Coding in Qualitative Research|编码]]）在事件地图中进行互文整合（Intertextual Integration）。
-> - **整合逻辑** 借助质性[[Ethnography|民族志]]呈现机制发生的生动情境与行动者意图，借助量化指标刻画全班[[Knowledge Building Theory|知识建构]]的广度与结构特征（[[Argument_Zhang_2022_SE\|Zhang et al., 2022]]）。
+> - **整合逻辑** 借助质性[[Ethnography|民族志]]呈现机制发生的生动情境与行动者意图，借助量化指标刻画全班[[Knowledge Building Theory|知识建构]]的广度与结构特征（[[Argument_Zhang_2022_SE|Zhang et al., 2022]]）。
 
 > [!feature] 设计研究生成的四类累积知识
 > - **探索全新学习环境的可能性** 打破传统课堂与专业壁垒边界，开辟以学习者/研究者为中心的协作知识建构新样态。
@@ -189,12 +192,13 @@ updated: 2026-10-05
 > [!entry-map]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
-> | [[Knowledge Building Theory]] | 理论 | 核心理论渊源——为学习环境设计提供知识创造与[[Epistemic Responsibility\|集体认知责任]]的[[Epistemology\|认识论]]支柱 |
+> | [[Knowledge Building Theory]] | 理论 | 核心理论渊源——为学习环境设计提供知识创造与[[Epistemic Responsibility\|集体认知责任]]的认识论支柱 |
 > | [[Reflective Structuration]] | 理论 | 产出理论范例——在 DBR 迭代中提炼的关于学生[[Epistemic Agency\|认识能动性]]与组织重塑的动态机制理论 |
 > | [[Interactional Ethnography]] | 补充方法 | 核心质性分析工具——用于微观刻画设计干预中师生话语与社会互动的演进脉络 |
 > | [[Network Analysis]] | 补充方法 | 核心量化分析工具——用于测量设计干预下全班协作网络与回帖关系的拓扑结构演化 |
-> | [[Experimental Research]] | 对比方法 | [[Paradigm\|范式]]参照——实验研究追求严格控制与去情境化[[Causality\|因果推断]]，DBR 追求真实生态迭代与机制效用 |
+> | [[Experimental Research]] | 对比方法 | 范式参照——实验研究追求严格控制与去情境化[[Causality\|因果推断]]，DBR 追求真实生态迭代与机制效用 |
 > | [[Mixed Methods Research]] | 上位方法 | 方法论家族——DBR 依托[[Pragmatic Paradigm\|实用主义范式]]，深度融合质性[[Ethnography\|民族志]]与量化统计分析 |
+> | [[Research Universities]] | 概念 | DBR 从中小学课堂拓展至大学跨学科科研团队孵化与学者发展的组织[[Champ\|场域]] |
 
 ---
 

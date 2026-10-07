@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Research Universities",
-      "path": "wiki/concepts/higher-education/Research Universities.md"
-    },
-    {
       "basename": "Argument_Kratsios_2026_OSTP",
       "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
+    },
+    {
+      "basename": "Academic Medical Center",
+      "path": "wiki/concepts/university-industry-collaboration/Academic Medical Center.md"
+    },
+    {
+      "basename": "Directorate for Technology, Innovation and Partnerships",
+      "path": "wiki/facts/us/Directorate for Technology, Innovation and Partnerships.md"
+    },
+    {
+      "basename": "Focused Research Organization",
+      "path": "wiki/concepts/science-policy/Focused Research Organization.md"
+    },
+    {
+      "basename": "Center of Calculation",
+      "path": "wiki/concepts/sociology-of-education/Center of Calculation.md"
+    },
+    {
+      "basename": "DARPA",
+      "path": "wiki/facts/us/DARPA.md"
+    },
+    {
+      "basename": "Randomised Controlled Trials",
+      "path": "wiki/methods/quantitative/Randomised Controlled Trials.md"
+    },
+    {
+      "basename": "Reproducibility Crisis",
+      "path": "wiki/concepts/science-policy/Reproducibility Crisis.md"
+    },
+    {
+      "basename": "Scientific Literacy",
+      "path": "wiki/concepts/competency-and-assessment/Scientific Literacy.md"
+    },
+    {
+      "basename": "Creativity",
+      "path": "wiki/concepts/competency-and-assessment/Creativity.md"
+    },
+    {
+      "basename": "Star Scientists",
+      "path": "wiki/concepts/university-industry-collaboration/Star Scientists.md"
+    },
+    {
+      "basename": "National Science Foundation",
+      "path": "wiki/facts/us/National Science Foundation.md"
+    },
+    {
+      "basename": "Donald Stokes",
+      "path": "wiki/persons/us/Donald Stokes.md"
+    },
+    {
+      "basename": "Big Science",
+      "path": "wiki/concepts/science-policy/Big Science.md"
+    },
+    {
+      "basename": "Design-Based Research",
+      "path": "wiki/methods/mixed/Design-Based Research.md"
+    },
+    {
+      "basename": "Research Universities",
+      "path": "wiki/concepts/higher-education/Research Universities.md"
     },
     {
       "basename": "Innovation Hub",
@@ -71,10 +127,6 @@
     {
       "basename": "Bell Labs",
       "path": "wiki/facts/us/Bell Labs.md"
-    },
-    {
-      "basename": "DARPA",
-      "path": "wiki/facts/us/DARPA.md"
     },
     {
       "basename": "National Institutes of Health",
@@ -147,58 +199,6 @@
     {
       "basename": "International School of Geneva",
       "path": "wiki/facts/switzerland/International School of Geneva.md"
-    },
-    {
-      "basename": "United World Colleges",
-      "path": "wiki/facts/global/United World Colleges.md"
-    },
-    {
-      "basename": "International Baccalaureate",
-      "path": "wiki/concepts/curriculum/International Baccalaureate.md"
-    },
-    {
-      "basename": "Terminal Courses",
-      "path": "wiki/concepts/curriculum/Terminal Courses.md"
-    },
-    {
-      "basename": "General Education",
-      "path": "wiki/concepts/educational-philosophy/General Education.md"
-    },
-    {
-      "basename": "Argument_Bozeman_2004_JTT",
-      "path": "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Bozeman_2004_JTT.md"
-    },
-    {
-      "basename": "Computational Thinking Scale",
-      "path": "wiki/instruments/scales/Computational Thinking Scale.md"
-    },
-    {
-      "basename": "Whole Person Education",
-      "path": "wiki/concepts/educational-philosophy/Whole Person Education.md"
-    },
-    {
-      "basename": "Patriotic Education",
-      "path": "wiki/concepts/educational-philosophy/Patriotic Education.md"
-    },
-    {
-      "basename": "International Education",
-      "path": "wiki/concepts/higher-education/International Education.md"
-    },
-    {
-      "basename": "March for Science 2017",
-      "path": "wiki/facts/us/March for Science 2017.md"
-    },
-    {
-      "basename": "William T. Harris",
-      "path": "wiki/persons/us/William T. Harris.md"
-    },
-    {
-      "basename": "SBIR and STTR Programs",
-      "path": "wiki/facts/us/SBIR and STTR Programs.md"
-    },
-    {
-      "basename": "Best Evidence Synthesis",
-      "path": "wiki/facts/new-zealand/Best Evidence Synthesis.md"
     }
   ],
   "omittedPaths": [],

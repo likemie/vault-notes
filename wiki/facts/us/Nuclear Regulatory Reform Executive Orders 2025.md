@@ -85,7 +85,7 @@ updated: 2026-10-07
 > - **第一任期** 推动并支持国会通过两党立法，开启核管理委员会现代化的早期机制探索。
 > - **2025 年 5 月** 总统正式签署四项核监管改革行政令，确立 18 个月修规倒计时。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 37)]]
 > - **2025 年末–2026 年** 能源部启动先进反应堆加速试验区，配合国防部微堆计划（Project Pele）开展模块化部署验证。
-> - **2026 年 7 月** 白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）将四项核命令确立为国家“自由去建造”与[[Permissionless Innovation|无许可创新]]的标杆样本。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 36–37)]]
+> - **2026 年 7 月** 白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）将四项核命令确立为国家“[[Permissionless Innovation|自由去建造]]”与[[Permissionless Innovation|无许可创新]]的标杆样本。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 36–37)]]
 > - **2030 年目标期** 行政令规定启动全美 10 座新型大型反应堆的实际开工建造。
 
 ---
