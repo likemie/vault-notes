@@ -16,6 +16,7 @@
 - 采用 `single-argument` 时，章节处理结果累积到全书 Argument 的「章节推进」和「关键引用」，并在整合阶段提炼「跨章综合」。
 - 采用 `chapter-arguments` 时，全书 Argument 只记录全书问题、总体论证、章节索引和跨章综合；章节细节写入章节 Argument。
 - 全书 Argument 使用 `wiki/templates/template-argument-monograph.md`。
+- 全书整合按 `TEMPLATE-SPEC.md` 的模块分工减少重复。分章 overview 默认只保留一张章节导航表；论证图与步骤、跨章综合与综合发现分别择一使用。章节概述写各章功能，跨章综合写章节之间的解释关系。
 - 图片、表格、新建条目提及规则和脚本运行规则按 `vault-schema.md` 执行；基础索引统一运行 `.venv/bin/python3 scripts/vault_index.py`。
 
 ---

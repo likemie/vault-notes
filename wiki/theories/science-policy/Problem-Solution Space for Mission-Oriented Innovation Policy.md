@@ -10,7 +10,7 @@ aliases:
 summary: "基于争议性、复杂性与不确定性解构社会问题与创新方案，划分二维象限并阐释三条收敛治理路径的政策分析框架"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Problem Finding]]"
   - "[[Scientific Uncertainty]]"
+  - "[[Regulatory Sandbox]]"
   - "[[Reflexive Governance]]"
   - "[[Research Question]]"
   - "[[Problem of Many Hands]]"
@@ -52,7 +53,7 @@ related_theories:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Problem-Solution Space for Mission-Oriented Innovation Policy
@@ -159,7 +160,7 @@ updated: 2026-10-05
 > [!theory-proposition] 命题二｜高度发散的棘手挑战必须通过差异化的收敛路径实现向合法化对齐的结构性转变
 > **解释** 面对问题与方案双重发散的高度棘手挑战（第一象限），不存在单一普适的最优治理模式，政策制定者可以通过三条不同路径实现向双重收敛（第四象限）的跃迁：
 > 1. **问题导向路径（Problem-led Pathway）** 优先通过科学共识建构、伦理话语重构与公众审议消除问题争议，在确立坚实社会需求共识后再探索与筛选多元技术方案；
-> 2. **解决方案导向路径（Solution-led Pathway）** 优先通过监管沙盒、利基试验消除技术不确定性，在方案成熟后反向重构并激发公共问题意识与制度需求；
+> 2. **解决方案导向路径（Solution-led Pathway）** 优先通过[[Regulatory Sandbox|监管沙盒]]、利基试验消除技术不确定性，在方案成熟后反向重构并激发公共问题意识与制度需求；
 > 3. **混合演化路径（Hybrid / Co-evolutionary Pathway）** 在多元利益相关方参与平台中，通过[[Reflexivity|反思性]]治理与小步渐进策略，实现问题重构与技术方案迭代的同步演化。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 481–485)]]
 >
 > **应用实例** 荷兰陆上风电政策通过建立由政府、能源企业、地方社区与环保组织共同参与的国家能源协议（Energieakkoord 2013），在协商风机选址与噪音补偿标准的同时动态调整国家可再生能源发展目标，典型体现了混合演化路径的治理机制。
@@ -246,7 +247,7 @@ updated: 2026-10-05
 > |:---------|:-------------------|:-----------------|:-------------------|
 > | **问题端棘手性诊断**<br>[[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020, pp. 476–477)]] | 该社会问题的紧迫性、成因与责任归属是否达成社会共识？ | 议会辩论频次、民调极化度、跨部门管辖冲突、科学界共识报告。 | 若存在严重伦理争议或管辖权扯皮，判定为问题发散；反之判定为问题收敛。 |
 > | **方案端棘手性诊断**<br>[[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020, pp. 477–478)]] | 候选创新方案的技术可行性、成本收益、配套依赖与社会可接受度如何？ | 专利与原型成熟度、行业准入壁垒、邻避抗议、配套基础设施缺口。 | 若方案伴随巨大次生风险或制度抵触，判定为方案发散；反之判定为方案收敛。 |
-> | **治理路径匹配度判读**<br>[[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020, pp. 481–485)]] | 当前政策采取的工具组合是否符合其收敛路径特征？ | 专家委员会与立法（问题导向）、监管沙盒与采购（方案导向）、共治协议（混合演化）。 | 若在问题高度争议时强推单一技术采购，判定存在方向性失灵与合法性赤字。 |
+> | **治理路径匹配度判读**<br>[[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020, pp. 481–485)]] | 当前政策采取的工具组合是否符合其收敛路径特征？ | 专家委员会与立法（问题导向）、[[Regulatory Sandbox\|监管沙盒]]与采购（方案导向）、共治协议（混合演化）。 | 若在问题高度争议时强推单一技术采购，判定存在方向性失灵与合法性赤字。 |
 > | **反思性治理能力评估**<br>[[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020, pp. 485–487)]] | 政策体系是否具备动态反馈、小胜累积与防止路径锁定的纠偏机制？ | 阶段性评估制度、公民参与渠道、多元技术备选库、转向退出条款。 | 若缺乏纠偏通道且忽视替代方案，判定存在制度僵化与锁定风险。 |
 
 ### 整体分析示例

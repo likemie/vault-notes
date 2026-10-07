@@ -28,7 +28,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-09-10
+updated: 2026-10-07
 ---
 
 # Academic Health System

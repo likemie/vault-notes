@@ -12,7 +12,7 @@ aliases:
 summary: "连接科学研究发现与实际应用的跨界转化过程，在产学合作中体现为技术成果商业化漏斗，在学校教育中体现为基于因果行动理论的情境再脉络化与微观课例探究，在宏观治理中体现为立足政策时间生态与立法政策简报的法律实质采纳，在前沿科技创新中体现为公共代理人依托嵌入型网络治理引导颠覆性技术轨道，在国家硬科技战略中体现为打破规制阻滞、依托共享试验场、中试平台与前竞争联合体将前沿科学锚定于本土实体制造与战略产业能力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 88
+related_count: 89
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Problem Finding]]"
   - "[[Boundary Spanner]]"
+  - "[[Regulatory Sandbox]]"
   - "[[Innovation Ecosystem]]"
   - "[[Competitiveness]]"
   - "[[Academic Engagement Team]]"
@@ -231,7 +232,7 @@ updated: 2026-10-07
 >   4. 第三方技术权威背书（Authoritative Endorsement）：以国家声誉撬动企业董事会与风险投资；
 >   5. 动态跟踪与资助接力（Institutional Relay）：全程监测前沿构想，完成 [[DARPA]] 与 [[National Science Foundation|NSF]] 的接力流转。
 > - **场域五：国家硬科技实体制造转化与试验场模型（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）**
->   1. 规制松绑与监管沙盒（Regulatory Sandboxes & Permissionless Innovation）：打破核能（NRC）与生物医疗（FDA）繁冗审批阻滞，将不行动代价纳入成本核算，以真实世界运行数据修订法规；
+>   1. 规制松绑与[[Regulatory Sandbox|监管沙盒]]（Regulatory Sandboxes & Permissionless Innovation）：打破核能（NRC）与生物医疗（FDA）繁冗审批阻滞，将不行动代价纳入成本核算，以真实世界运行数据修订法规；
 >   2. 共享试验场与国家实验室[[Big Science|大科学]]设施开放（Shared Testbeds & User Facilities）：依托莫哈韦火箭试验台、能源部 28 个用户设施与国家纳米基础设施（NNCI）共享机时与洁净室，降低早期重资产试错成本；
 >   3. 敏捷技术许可与公私伙伴架构（OTA / CRADA, FNIH / [[Accelerating Medicines Partnership|AMP]]）：突破繁琐采购法案，借助其它交易授权（OTA）与合作研发协议（CRADA）加速成果流转；
 >   4. 前竞争技术联合体攻关（Pre-competitive Consortia）：政府统筹跨行业共性风险，借鉴[[Human Genome Project|人类基因组计划]]与极紫外光刻联合体（[[EUV LLC]]）模式攻关前沿制造工艺；
@@ -345,7 +346,7 @@ updated: 2026-10-07
 >
 > > [!warrant]- 理论推导与经验依据
 > > 1. **平板显示与电池化学的外流教训** 战后“政府出资、论文公开、市场自然承接”的单向线性模型在当代彻底失效。美国科研界率先奠定了平板显示技术与先进锂电池化学的基础原理，但因本土缺乏持续的制造生态支持，量产工艺与供应链红利被竞争对手全面获取。回报与下一轮设计能力积累在转化与制造环节，而非仅在最初发表的实验室。
-> > 2. **打破规制枷锁与恢复[[Permissionless Innovation|无许可创新]]** 繁复严苛的行政许可在物理实体世界设立了极高的制度摩擦（如先进核能开工需经历近十年审批与数亿美元开支、创新医疗器械被迫赴海外开展[[Clinical Trial|临床试验]]）。政府必须推行监管沙盒，将审批延迟导致的“不行动代价”纳入成本核算，在受控场景下先行先试，以真实数据作为修订法律规章的依据。
+> > 2. **打破规制枷锁与恢复[[Permissionless Innovation|无许可创新]]** 繁复严苛的行政许可在物理实体世界设立了极高的制度摩擦（如先进核能开工需经历近十年审批与数亿美元开支、创新医疗器械被迫赴海外开展[[Clinical Trial|临床试验]]）。政府必须推行[[Regulatory Sandbox|监管沙盒]]，将审批延迟导致的“不行动代价”纳入成本核算，在受控场景下先行先试，以真实数据作为修订法律规章的依据。
 > > 3. **共享基础设施跨越中试“[[Valley of Death|死亡之谷]]”** 硬件创新必须经历极端环境测试与工艺放大。莫哈韦非营利火箭试验场以极低费用开放加固设施与空域豁免，直接催生了重塑全球航天的商业火箭集群；推动能源部 28 个[[Big Science|大科学]]用户设施与国家纳米基础设施（NNCI）共享机时与微纳洁净室，联合共建 GMP 级生命科学中试平台，能够将初创企业的原型试制与概念验证周期从数年压缩至数周。
 > > 4. **前竞争联合体化解跨行业共性风险** 对于单家企业无力承担但机理清晰的重大工程瓶颈，联邦政府应发挥战略召集力，借鉴[[Human Genome Project|人类基因组计划]]与极紫外光刻联合体（[[EUV LLC|EUV LLC]]）范式，协调多元主体共担风险，完成从科学突破到工业母机制造的战略闭环。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 38–45)]]
 
@@ -457,7 +458,7 @@ updated: 2026-10-07
 > | [[Knowledge Mobilisation]] | Concept | 研究转化所隶属的宏观上位概念框架，涵盖从知识创生、转译到系统应用的完整生态。 |
 > | [[Embedded Network Governance]] | Concept | 前沿颠覆性技术转化的核心治理机制，揭示公共部门如何重塑网络拓扑架构以引导技术转化。 |
 > | [[Structural Holes]] | Concept | 产学研与[[Vertical Disintegration\|纵向离散]]产业中阻碍技术转化的结构性断裂，依赖公共代理人主动闭合。 |
-> | [[Permissionless Innovation]] | Concept | 规制沙盒与硬科技转化的制度原则，主张权衡行政不行动代价，为物理实体建造松绑。 |
+> | [[Permissionless Innovation]] | Concept | [[Regulatory Sandbox\|规制沙盒]]与硬科技转化的制度原则，主张权衡行政不行动代价，为物理实体建造松绑。 |
 > | [[Pilot Scale Platform]] | Concept | 跨越从实验室理论到工业部署验证鸿沟的中试工艺平台，研究转化落地的关键工程载体。 |
 > | [[Research Utilization]] | Concept | 研究转化的终端应用形态，涵盖工具性、概念性、战略性与法条化使用。 |
 > | [[Legislative Policy Brief]] | Concept | 宏观政策转化的核心文本载体，整合核心实证综述与由律师起草之法定示范条文。 |

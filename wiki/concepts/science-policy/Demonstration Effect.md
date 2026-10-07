@@ -8,7 +8,7 @@ aliases:
 summary: "指公共部门或先导机构通过在前沿重大任务中公开部署、测试与运行新型复杂技术，向潜在商业用户与产业界展示技术可行性与可靠性，从而消除信息不对称、化解认知疑虑并加速市场采纳的机制。"
 type: concept
 domain: "science-policy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Sage]]"
   - "[[Demand-side Innovation Policy]]"
+  - "[[Regulatory Sandbox]]"
   - "[[Return on Investment]]"
 related_methods:
   - "[[In-depth Interview]]"
@@ -37,7 +38,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Demonstration Effect
@@ -136,7 +137,7 @@ updated: 2026-10-05
 > [!dev-timeline] 示范效应概念发展历程
 > - **1949–1953 — 消费与国际发展经济学起源** 詹姆斯·杜森贝里（James Duesenberry, 1949）在相对收入假说中提出个体消费的示范效应；拉格纳·纳克斯（Ragnar Nurkse, 1953）将其扩展至国际经济学，揭示发展中国家居民对发达国家高消费模式的模仿倾向。
 > - **1978 — 科技政策与产业经济学中的技术示范效应** 施奈（[[Argument_Schnee_1978_RP|Schnee, 1978]]）将示范效应引入科技创新与产业政策领域，系统阐明了政府空间与国防大项目如何通过公开运行计算机系统消除商界疑虑、推动民用工业技术采纳。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 10–11)]]
-> - **2000s至今 — 使命导向政策中的先导示范工程** 现代创新政策学者（如 Mazzucato, Edler & Georghiou）进一步将示范效应纳入[[Demand-side Innovation Policy|需求侧创新政策]]工具箱，在智慧城市、智能电网、氢能交通与近零碳示范工程中广泛设计国家级先导试验区与监管沙盒。
+> - **2000s至今 — 使命导向政策中的先导示范工程** 现代创新政策学者（如 Mazzucato, Edler & Georghiou）进一步将示范效应纳入[[Demand-side Innovation Policy|需求侧创新政策]]工具箱，在智慧城市、智能电网、氢能交通与近零碳示范工程中广泛设计国家级先导试验区与[[Regulatory Sandbox|监管沙盒]]。
 
 ---
 

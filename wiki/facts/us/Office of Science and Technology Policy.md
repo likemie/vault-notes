@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,8 @@ related_concepts:
   - "[[Linear Model of Innovation]]"
   - "[[Focused Research Organization]]"
   - "[[Metascience]]"
+  - "[[Regulatory Sandbox]]"
+  - "[[Industrial Commons]]"
   - "[[Competitiveness]]"
   - "[[Paradigm]]"
   - "[[Research Translation]]"
@@ -100,7 +102,7 @@ updated: 2026-10-07
 > - **[[Metascience|元科学]]单元法定授权机制** OSTP 推动在各联邦科学机构（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]、[[Department of Energy|DOE]] 等）设立直属局长的独立[[Metascience|元科学]]部门，拥有法定实验预算与开展[[Randomised Controlled Trials|随机对照试验]]（[[Randomised Controlled Trials|RCT]]）的权限，对资助机制与评审有效性进行实证评估。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32)]]
 > - **联邦研发预算战略指导（OSTP-OMB Joint [[Memos]]）** 联合白宫预算局向各部委发布绑定性研发优先事项指令，要求各机构在 2028 财年预算中重新平衡资助组合，向物理科学、工程、前沿计算与[[Pasteur's Quadrant|用启发性基础研究]]倾斜。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 86)]]
 > - **跨部门重大任务统筹（Flagship Initiatives）** 统筹协调多部门联合行动，包括整合国家超级计算与仪器网络的[[Genesis Mission|创世纪计划]]，以及跨部门践行机器可读复现标准的《[[Restoring Gold Standard Science Executive Order|恢复黄金标准科学行政令]]》。
-> - **公私协同与监管试验场开放** 理顺大学与国家实验室的技术许可壁垒，推动能源部 28 个世界级用户设施向产业初创企业开放，并在全国范围内推动各州设立实体技术监管沙盒。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 38–41)]]
+> - **公私协同与监管试验场开放** 理顺大学与国家实验室的技术许可壁垒，推动能源部 28 个世界级用户设施向产业初创企业开放，并在全国范围内推动各州设立实体技术[[Regulatory Sandbox|监管沙盒]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 38–41)]]
 
 ---
 
@@ -112,7 +114,7 @@ updated: 2026-10-07
 
 > [!tension] 科学共同体认知权威代表 vs. 总统定向指令与国家战略动员者
 > - **经典[[Social Contract of Science|科学社会契约]]下的 OSTP** 作为连接顶尖大学科学家与白宫的专业制度界面，维护科学共同体对未知探索的自主裁量权，协助联邦研发资金按同行评议原则分配。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
-> - **技术型契约与黄金时代重构下的 OSTP** 转型为统筹“对人赋权—机制创新—本土制造—智能核验”全链条的战略枢纽；既坚守联邦资助基础研究的公共职能，又主导打破单向管道与学科壁垒，推动科研体系与国家产业公地深度融合。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–7)]]
+> - **技术型契约与黄金时代重构下的 OSTP** 转型为统筹“对人赋权—机制创新—本土制造—智能核验”全链条的战略枢纽；既坚守联邦资助基础研究的公共职能，又主导打破单向管道与学科壁垒，推动科研体系与国家[[Industrial Commons|产业公地]]深度融合。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–7)]]
 
 ---
 
@@ -140,7 +142,7 @@ updated: 2026-10-07
 > > OSTP 在制定国家优先事项时，应当坚持保护具有高度不确定性的自由探索，还是强化科研与本土制造、手艺技能的硬性联结。
 > >
 > > - **纯科学自治学派** 主张好奇心驱动的基础科学是不可替代的源泉，过度绑定本土制造与转化考核将扼杀深层理论突破。
-> > - **产业公地重构学派（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）** 论证指出，脱离了本土先进制造与试验设施，公开的学术论文将直接外溢为竞争对手的产业红利；必须在体制上将科学发现与熟练手艺、区域制造生态紧密锚定，才能实现国家科技投资的长久繁荣。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–56)]]
+> > - **[[Industrial Commons|产业公地]]重构学派（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）** 论证指出，脱离了本土先进制造与试验设施，公开的学术论文将直接外溢为竞争对手的产业红利；必须在体制上将科学发现与熟练手艺、区域制造生态紧密锚定，才能实现国家科技投资的长久繁荣。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–56)]]
 
 ---
 

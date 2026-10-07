@@ -35,6 +35,7 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Public Value]]"
   - "[[Institutionalising Social Learning]]"
+  - "[[Regulatory Sandbox]]"
   - "[[Reflexivity]]"
   - "[[Open-Mindedness]]"
   - "[[Feedback]]"
@@ -61,7 +62,7 @@ title: "Argument_Wanzenbock_2020_SPP"
 argument_key: "Argument_Wanzenbock_2020_SPP"
 argument_display_title: "A framework for mission-oriented innovation policy: Alternative pathways through the problem–solution space"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -304,7 +305,7 @@ issuing_organization: ""
 > | 路径名称 | 轨迹方向 | 核心动力与治理机制 | 政策工具组合 | 代表性经验案例 |
 > |---|---|---|---|---|
 > | **问题导向路径**<br>（Problem-led Pathway） | 第一象限 ➔ 第二象限 ➔ 第四象限<br>（先收敛问题，再收敛方案） | 优先通过科学证据整合、[[Institutionalising Social Learning\|制度化社会学习]]、价值框架重构与公众审议消除问题争议，确立社会需求后再探索多元方案 | 专家委员会、公众听证会、立法框架重构、规制标准出台 | **公共场所禁烟规制** 通过确立二手烟危害非吸烟者的科学与道德共识，使控烟问题由个人习惯争议收敛为公共健康保护，进而合法化了餐厅禁烟与重税规制。（pp.481–483） |
-> | **解决方案导向路径**<br>（Solution-led Pathway） | 第一象限 ➔ 第三象限 ➔ 第四象限<br>（先收敛方案，再收敛问题） | 优先在利基市场或试验区内研发和验证具体技术方案，待技术成熟后反向重构并激发公共需求 | 研发补贴、监管沙盒、政府采购、先导示范工程 | **英国 CCTV 监控系统** 安防产业与政府先期推进摄像头技术布设，随后借助反恐与治安舆论将公共安全问题向 CCTV 能力对齐，实现全国性制度化应用。（pp.483–484） |
+> | **解决方案导向路径**<br>（Solution-led Pathway） | 第一象限 ➔ 第三象限 ➔ 第四象限<br>（先收敛方案，再收敛问题） | 优先在利基市场或试验区内研发和验证具体技术方案，待技术成熟后反向重构并激发公共需求 | 研发补贴、[[Regulatory Sandbox\|监管沙盒]]、政府采购、先导示范工程 | **英国 CCTV 监控系统** 安防产业与政府先期推进摄像头技术布设，随后借助反恐与治安舆论将公共安全问题向 CCTV 能力对齐，实现全国性制度化应用。（pp.483–484） |
 > | **混合演化路径**<br>（Hybrid / Co-evolutionary） | 第一象限 ➔ 对角线直接协同 ➔ 第四象限<br>（问题与方案同步演化） | 通过多方利益相关者治理平台，以[[Reflexivity\|反思性]]试验和小胜（Small Wins）策略实现问题重构与技术方案迭代的动态平衡 | 转型竞技场（Transition Arenas）、多方协商协议、适应性空间规划 | **荷兰陆上风电治理** 通过国家能源协议（Energieakkoord 2013）将可再生能源目标与地方社区选址、景观补偿机制实时联动协商，在冲突中动态收敛。（pp.484–485） |
 
 > [!chain-link] 过程导向使命政策的合法化收敛链条

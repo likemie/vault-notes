@@ -3,7 +3,6 @@ title: Science A New Golden Age 2026
 aliases:
   - 科学：新的黄金时代
   - 科学新黄金时代
-  - Science: A New Golden Age
   - Kratsios report
   - 克拉齐奥斯报告
 summary: "2026年7月由白宫科学技术政策办公室（OSTP）主任迈克尔·克拉齐奥斯呈交总统的纲领性国家科技政策报告；以1945年布什报告为制度基准，全面反思线性模型失灵与私营研发主导新现实，确立巴斯德象限导向，围绕重塑对人资助、畅通本土制造转化、重振过程知识与学徒制、推进创世纪计划与黄金标准科学四大支柱，提出重构国家创新体制的行动蓝图并附2028财年联邦研发预算优先事项指导。"
@@ -12,12 +11,12 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 32
+fact_related_count: 34
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "Office of Science and Technology Policy"
-period: "2026年7月21日呈交发布"
+issuing_organization: Office of Science and Technology Policy
+period: 2026年7月21日呈交发布
 tags:
   - region/us
   - policy/science-policy
@@ -27,9 +26,11 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Success Criteria]]"
+  - "[[Advance Market Commitments]]"
   - "[[Pull Mechanisms for Innovation]]"
   - "[[Metascience]]"
   - "[[Permissionless Innovation]]"
+  - "[[Regulatory Sandbox]]"
   - "[[Hypothesis]]"
   - "[[Process Knowledge]]"
   - "[[National Innovation System]]"
@@ -99,10 +100,10 @@ updated: 2026-10-07
 > - **支柱一：重塑以研究者个人为核心的科研资助体制（第二章）**
 >   - 破除将首席科学家（PI）异化为文书管理员的行政摩擦，扩大可随人跨校迁移的早期学者奖学金（如 [[National Science Foundation|NSF]] GRFP）；
 >   - 大规模推广为期 7 年、免于短期汇报的长周期“对人资助”（People, not projects）；
->   - 引入金券机制（Golden Tickets）、48 小时快速资助（Fast Grants）以及事后买单的技术悬赏与高级市场承诺（[[Pull Mechanisms for Innovation|拉动机制]]）；
+>   - 引入金券机制（Golden Tickets）、48 小时快速资助（Fast Grants）以及事后买单的技术悬赏与[[Advance Market Commitments|高级市场承诺]]（[[Pull Mechanisms for Innovation|拉动机制]]）；
 >   - 在每个联邦资助机构内设立直属于局长的[[Metascience|元科学]]单元（Metascience Units），依托[[Randomised Controlled Trials|随机对照试验]]检验并迭代资助规则。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 20–32)]]
 > - **支柱二：确保科学发现高效转化为本土产业能力（第三章）**
->   - 坚守[[Permissionless Innovation|无许可创新]]原则，推广综合性监管沙盒，打破以防范[[Hypothesis|假设]]性风险为名的行政延宕；
+>   - 坚守[[Permissionless Innovation|无许可创新]]原则，推广综合性[[Regulatory Sandbox|监管沙盒]]，打破以防范[[Hypothesis|假设]]性风险为名的行政延宕；
 >   - 推动能源部 17 个国家实验室大型科研仪器与国防部测试试验场向民用创新主体全面开放；
 >   - 组建由产业主导议程、政府对等出资的前竞争技术联合体，攻克共性工程断代瓶颈；
 >   - 全面推行 2025 年 5 月四项核监管改革行政令（[[Nuclear Regulatory Reform Executive Orders 2025]]），设定 18 个月修规上限并开启 2030 年 10 座新反应堆建设。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 33–46)]]
@@ -167,7 +168,7 @@ updated: 2026-10-07
 > | [[Pasteur's Quadrant]] | Concept | 报告确立的现代国家科技资助与机构设计的核心理论框架。 |
 > | [[Focused Research Organization]] | Concept | 报告建议大力推广以填补中等规模工程公共品缺口的新型科研组织形态。 |
 > | [[Process Knowledge]] | Concept | 报告第四章强调必须通过本土制造业与[[Apprenticeship\|学徒制]]重新锚定的默会工程经验。 |
-> | [[Pull Mechanisms for Innovation]] | Concept | 报告提倡作为传统事前资助补充的重大技术悬赏与高级市场承诺机制。 |
+> | [[Pull Mechanisms for Innovation]] | Concept | 报告提倡作为传统事前资助补充的重大技术悬赏与[[Advance Market Commitments\|高级市场承诺]]机制。 |
 > | [[Directorate for Technology, Innovation and Partnerships]] | Fact (Organization) | 旗下 X 实验室被报告作为新型科研组织与前竞争资助的试验载体。 |
 
 ---

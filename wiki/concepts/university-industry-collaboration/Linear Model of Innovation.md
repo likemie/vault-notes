@@ -6,10 +6,10 @@ aliases:
 summary: "一种预设从基础科学到技术开发再到经济增长单向因果链的概念模型；战后主导科技政策资源配置，后因忽视反馈机制、轻视工程发明的前提使能地位以及导致本土制造脱节而遭受系统性批判。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/innovation-studies
   - theme/science-policy
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Pilot Scale Platform]]"
   - "[[Attrition]]"
+  - "[[Industrial Commons]]"
   - "[[Paradigm]]"
   - "[[Multi-channel Interactive Learning Model]]"
   - "[[Academic Freedom]]"
@@ -163,7 +164,7 @@ updated: 2026-10-07
 > |:---|:---|:---|:---|
 > | **演化认识论批判** | 批判单向因果预设，确立技术发明对前沿科学的反向使能机制 | 科学技术史实证考证、前沿实验物理平台演化 | Kline & Rosenberg; Narayanamurti 等 |
 > | **政策治理异化批判** | 揭示国家研发资助中的市场失灵教条与关键硬件资助断档 | 国家实验室考核、科技预算编制、大学商业化评估 | Caraça 等; Narayanamurti 等 |
-> | **地缘制造失链批判** | 诊断单向管道在缺乏本土制造承接时的收益外溢与过程知识流失 | 战略技术转化、产业公地重构、试验基础设施建设 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
+> | **地缘制造失链批判** | 诊断单向管道在缺乏本土制造承接时的收益外溢与过程知识流失 | 战略技术转化、[[Industrial Commons\|产业公地]]重构、试验基础设施建设 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
 
 ---
 

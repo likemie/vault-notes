@@ -8,7 +8,7 @@ aliases:
 summary: "在高度复杂与不确定情境下，通过持续监测、多方学习与动态调整来防范路径锁定的现代治理模式"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Performance Indicators]]"
   - "[[Document]]"
+  - "[[Regulatory Sandbox]]"
   - "[[Grand Challenges]]"
 related_theories: []
 related_arguments:
@@ -41,7 +42,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Reflexive Governance
@@ -130,7 +131,7 @@ updated: 2026-10-03
 > **[[Reflexivity|反思性]]作为复杂转型治理的核心元能力** 在面对高度不可预测的社会生态转型时，任何试图依靠单一控制中心进行全局优化的传统治理方案都会遭遇知识极限。反思性治理的实质是建立一种元治理（Meta-governance）能力，使政策体系能够在互动中识别自身的认知盲区与制度副效应，并通过持续试错完成形态演进。
 
 > [!claim] Weber, K. M. & Rohracher, H.
-> **克服反思性失灵以支撑变革性转型** 反思性失灵是导致绿色技术无法突破既有化石能源体制壁垒的关键原因。通过引入前瞻预见（Foresight）、参与式技术评估（Participatory Technology Assessment）与适应性监管沙盒，能够有效打破体制惯性并为新兴方案提供试错空间。
+> **克服反思性失灵以支撑变革性转型** 反思性失灵是导致绿色技术无法突破既有化石能源体制壁垒的关键原因。通过引入前瞻预见（Foresight）、参与式技术评估（Participatory Technology Assessment）与适应性[[Regulatory Sandbox|监管沙盒]]，能够有效打破体制惯性并为新兴方案提供试错空间。
 
 ---
 

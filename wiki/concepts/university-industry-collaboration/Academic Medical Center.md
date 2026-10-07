@@ -6,7 +6,7 @@ aliases:
 summary: "大学医学院及其合作教学医院组成的高教与医疗研究实体，以学术-临床二元结构为核心特征；在产学合作与临床试验中既是前沿转化研究与专有生物模型验证的不可替代基石，也因多重串行审查、高管理费率与漫长启动周期面临系统性效率挑战。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Academic Health System]]"
   - "[[Contract Research Organization]]"
+  - "[[Advance Market Commitments]]"
   - "[[Institutional Review Board]]"
   - "[[Translational Research]]"
   - "[[Competitiveness]]"
@@ -72,7 +73,7 @@ updated: 2026-10-07
 ## 概念辨析
 
 > [!contrast-table] 医疗科研与[[Clinical Trial|临床试验]]载体多维辨析表
-> | 比较维度 | 学术医学中心（AMC） | 学术健康系统（[[Academic Health System\|AHS]]） | 社区试验基地（Community Sites） | 合同研究组织（[[Contract Research Organization\|CRO]]） |
+> | 比较维度 | 学术医学中心（[[Advance Market Commitments\|AMC]]） | 学术健康系统（[[Academic Health System\|AHS]]） | 社区试验基地（Community Sites） | 合同研究组织（[[Contract Research Organization\|CRO]]） |
 > |:---|:---|:---|:---|:---|
 > | **核心组织逻辑** | 学术-临床二元结构 | 学术-临床-产业三元生态 | 纯临床诊疗与医疗服务 | 纯商业化研发外包与项目管理 |
 > | **核心机构构成** | 大学医学院 + 教学医院 | 旗舰医院 + 研究所 + 区域医疗网 + 产业孵化器 | 社区医院 / 私人专科诊所 | 商业外包公司与专业监查团队 |

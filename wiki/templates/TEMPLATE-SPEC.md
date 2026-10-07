@@ -10,7 +10,7 @@ related_persons:
   - "[[Yajun Zheng]]"
 status: active
 created: 2026-06-01
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 # Template Spec
 
@@ -203,14 +203,14 @@ Monograph Argument 是整本专著的论证入口。它可以作为 `single-argu
 
 - 使用 `template-argument-monograph.md`。
 - `subtype` 使用 `monograph`，`publication_type` 使用 `book`。
-- `## 全书定位` 使用 `[!monograph-profile]`，说明核心对象、论证类型、处理粒度和材料边界。
-- `## 研究问题与核心主张` 使用 `[!question]` 和 `[!monograph-thesis]`，区分问题起点、核心解释和最终贡献。
-- `## 理论、概念与方法工具` 使用 `[!monograph-tools]` 和 `[!monograph-method]`，说明理论概念如何贯穿全书、材料如何支撑论证、方法不能支持什么推断。
-- `## 全书论证地图` 使用 `[!book-argument-map]` 和 `[!argument-steps]`，先用 Mermaid 图显示全书路径，再用步骤说明问题、工具、前提、证据、推论、结论和谨慎处理处。
-- `## 章节推进` 使用 `[!chapter-arc]` 和 `[!chapter-index]`，记录章节在全书论证中的功能和链接；不要把章节写成完整小型笔记。
+- `## 全书定位` 使用 `[!monograph-profile]`，只说明对象、文献类型、处理粒度与已读材料范围，不预先重复全书结论。
+- `## 研究问题与核心主张` 使用 `[!question]` 和 `[!monograph-thesis]`，分别回答“要解决什么问题”与“全书给出什么答案”。核心主张保留简短总判断，不展开章节证据或再次复述问题起点。
+- `## 理论、概念与方法工具` 使用 `[!monograph-tools]` 和 `[!monograph-method]`，只说明贯穿全书的分析工具、材料来源与分析方式；具体概念定义链接已有条目。这里只标明证据类型，不重复末节的完整局限。
+- `## 全书论证地图` 在 `[!book-argument-map]` 与 `[!argument-steps]` 之间择一，呈现全书解释路径，不逐章复述。图不足以表达关键前提或中间推论时，只补充遗漏的短段落；不得再附一套与图逐项对应的步骤。
+- `## 章节推进` 默认合并为一张 `[!textbook-overview]` 三列表，依次写章节链接、该章独有内容及论证功能、主要关联条目。`chapter-arguments` 的第一列链接章节 Argument，表格链接别名转义竖线；章节链接骨架由 `vault_index.py` 维护。不得同时增加逐章内容相同的 `[!chapter-arc]` 或 `[!chapter-index]`。后两者仅可替代表格用于非分章 overview 的其他组织形式。
 - `single-argument` 时，可在 `## 章节推进` 下为已处理章节保留简短 `### 第X章` 小节；`chapter-arguments` 时，章节细节写入章节 Argument，本页只维护章节索引和跨章综合。
-- `## 跨章综合` 使用 `[!book-synthesis]`、`[!finding-cards]` 和必要的 `[!stat-cards]`，只提炼能跨章节成立的主题线索、综合发现和核心数据。
-- 关键引用持续补充到 `## 关键引用`，标注章节与页码；没有页码时只标注章节，不编造页码。
+- `## 跨章综合` 围绕问题或主题，用 `[!book-synthesis]` 组织不同章节之间的递进、对照、修正或共同机制。概述式结论可改用 `[!finding-cards]`，二者默认择一，不再将同一综合重写为“综合发现”。每项说明由哪些章节或页码支持；不能把单章摘要简单并排。跨章数据确有比较价值时单独制表，具体案例和数值优先回链章节页或主条目。
+- 关键引用集中到 `## 关键引用`，同一引文不同时出现在核心主张与后部引用区。只保留支撑全书解释的少量原文，标注章节与页码；没有页码时只标注章节，不编造页码。
 - `## 自述局限与使用边界` 使用 `[!book-limits]`，区分作者自述局限、材料边界、推断边界和引用提醒。
 - 整本书 source record 创建前，可以暂时省略 `## 来源` 的 source wikilink；source record 创建后再补入。
 - `summary` 说明全书核心论证，写法为“研究对象/核心问题 + 理论视角/材料 + 全书论证或发现”。

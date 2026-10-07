@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Star Scientists",
-      "path": "wiki/concepts/university-industry-collaboration/Star Scientists.md"
+      "basename": "Argument_Peterson_1987_OpenCourt",
+      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt.md"
+    },
+    {
+      "basename": "Argument_Peterson_1987_OpenCourt_Ch08",
+      "path": "wiki/arguments/books/Peterson_1987_OpenCourt/Argument_Peterson_1987_OpenCourt_Ch08.md"
     },
     {
       "basename": "Argument_Kratsios_2026_OSTP",
       "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
+    },
+    {
+      "basename": "Science A New Golden Age 2026",
+      "path": "wiki/facts/us/Science A New Golden Age 2026.md"
+    },
+    {
+      "basename": "Design-Based Research",
+      "path": "wiki/methods/mixed/Design-Based Research.md"
+    },
+    {
+      "basename": "Star Scientists",
+      "path": "wiki/concepts/university-industry-collaboration/Star Scientists.md"
     },
     {
       "basename": "Process Knowledge",
@@ -161,10 +177,6 @@
       "path": "wiki/concepts/science-policy/Big Science.md"
     },
     {
-      "basename": "Design-Based Research",
-      "path": "wiki/methods/mixed/Design-Based Research.md"
-    },
-    {
       "basename": "Research Universities",
       "path": "wiki/concepts/higher-education/Research Universities.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Metascience",
       "path": "wiki/concepts/science-policy/Metascience.md"
-    },
-    {
-      "basename": "Innovation Ecosystem",
-      "path": "wiki/concepts/university-industry-collaboration/Innovation Ecosystem.md"
-    },
-    {
-      "basename": "Science A New Golden Age 2026",
-      "path": "wiki/facts/us/Science A New Golden Age 2026.md"
-    },
-    {
-      "basename": "Genesis Mission",
-      "path": "wiki/facts/us/Genesis Mission.md"
     }
   ],
   "omittedPaths": [],

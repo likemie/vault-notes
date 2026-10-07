@@ -8,10 +8,10 @@ aliases:
 summary: "指超越单一学科、产业与国家疆界，涉及广泛社会、技术、生态与行为维度的系统性复杂难题；构成了现代使命导向科技创新治理的根本战略锚点；在 AI 与前沿科学时代，重大挑战演化为通过高杠杆问题表述与客观盲测基准（如 CASP、创世纪计划 20 项国家挑战）将庞大组合搜索空间转化为可验证技术阶梯的核心政策工具。"
 type: concept
 domain: "science-policy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/science-policy
   - grand-challenges
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Agile Governance]]"
   - "[[Distributed Agency]]"
   - "[[Directionality of Innovation]]"
+  - "[[Advance Market Commitments]]"
   - "[[Market Shaping and Creating]]"
   - "[[Metascience]]"
   - "[[Process Knowledge]]"
@@ -128,7 +129,7 @@ updated: 2026-10-07
 > ```
 > 1. **战略愿景锚定** 识别关乎国家安全、经济繁荣与前沿探索的关键未知领域。
 > 2. **高杠杆问题表述** 将宏观难题精准解构为满足“高维搜索空间、丰富数据、硬性基准”的具体挑战。
-> 3. **拉动工具与平台协同** 依托[[Pull Mechanisms for Innovation|拉动机制]]（里程碑奖金、预先市场承诺）、[[Big Science|大科学]]设施开放与跨机构联合体，吸引跨领域团队竞争。
+> 3. **拉动工具与平台协同** 依托[[Pull Mechanisms for Innovation|拉动机制]]（里程碑奖金、[[Advance Market Commitments|预先市场承诺]]）、[[Big Science|大科学]]设施开放与跨机构联合体，吸引跨领域团队竞争。
 > 4. **闭环自主探索与验证** 结合科学 AI 模型生成与国家实验室自主机器人实验室（如 A-Lab、Polybot）进行原位高速验证。
 > 5. **下游能力普及化** 推动关键核心技术从“实验室手艺”转化为“通用可购买基础设施”，激活万亿级产业生态。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 43–44, 62)]]
 

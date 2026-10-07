@@ -9,7 +9,7 @@ aliases:
 summary: "大学研究成果与前沿工业创新转化为商业应用与产业扩散的过程。除以 Bayh-Dole Act 为核心的专利排他许可与 TTO 商业化路径外，战后信息技术体系亦证实了公共领域开源披露、强制第二供应商工艺诀窍转移与科研人才跨界流动的决定性作用；当代科技政策进一步依托合作研发协议（CRADA）与其它交易授权（OTA）推动敏捷化与统一许可框架，将技术转移锚定于国家技术主权与本土制造能力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Paradigm]]"
   - "[[Research Translation]]"
+  - "[[Regulatory Sandbox]]"
   - "[[Problem Solving]]"
   - "[[Academic Entrepreneurship]]"
   - "[[Process Knowledge]]"
@@ -130,7 +131,7 @@ updated: 2026-10-07
 > |---|---|---|---|---|
 > | **主导技术领域** | 生物医药、新型化学合成、分子遗传学 | 计算机体系结构、半导体集成电路、互联网协议 | 先进制造、硬科技初创、量子与微电子制造 | 装备制造改造、软件工程咨询、企业定制培训 |
 > | **产权与协议载体** | 排他/非排他专利、商业秘密、[[Technology Transfer Office\|TTO]] 许可合同 | 公共领域报告、开源代码、技术标准规范 | 统一标准化 IP 框架、CRADA 协议、其它交易授权（OTA） | 联合出版物、双向人员交流、产学联合研发中心 |
-> | **核心驱动机制** | 专利排他权保护与许可费/版税分成激励 | 政府首发采购需求、强制[[Second-Sourcing\|第二货源]]、全额公共资助 | 压缩行政摩擦、受控监管沙盒、共享试验场与本土制造闭环 | 关系社会资本、互惠网络与产学协同[[Problem Solving\|问题解决]] |
+> | **核心驱动机制** | 专利排他权保护与许可费/版税分成激励 | 政府首发采购需求、强制[[Second-Sourcing\|第二货源]]、全额公共资助 | 压缩行政摩擦、受控[[Regulatory Sandbox\|监管沙盒]]、共享试验场与本土制造闭环 | 关系社会资本、互惠网络与产学协同[[Problem Solving\|问题解决]] |
 > | **知识流动形态** | 显性法权界定、排他垄断期、点对点交易 | 公开披露、研讨会授课、隐性工艺带教 | 敏捷商业协议、国家实验室机时共享、创业科学家进驻 | 长期双向人员互访、非正式咨询与[[Academic Entrepreneurship\|学术创业]] |
 > | **代表性案例** | 斯坦福大学 Cohen-Boyer 重组 DNA 专利许可 | ENIAC 架构公开披露、[[Bell Labs\|贝尔实验室]]晶体管研讨会、TCP/IP | 能源部国家实验室 OTA 协议、伯克利 Activate 创业科学家 | 英国 Alvey 计划、各高校工业联络计划（ILP） |
 

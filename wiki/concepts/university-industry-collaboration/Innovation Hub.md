@@ -12,7 +12,7 @@ aliases:
 summary: "基于特定地理区位的跨部门创新联合体，将区域内大学、领军企业、初创公司、投资者与政府组织起来围绕共同战略愿景进行大规模协同投资；从早期大学研究园区与“密度就是命运”的关系网络，演进为整合开放大科学设施、中试平台、技能学徒制与区域先进制造集群的国家产业韧性引擎。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Research Universities]]"
+  - "[[Industrial Commons]]"
   - "[[Competitiveness]]"
   - "[[Innovation Park]]"
   - "[[Megascience Installations]]"
@@ -73,7 +74,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> **创新中心（Innovation Hub / 创新枢纽 / 基于地点的创新中心）**是一种基于特定地理区位的跨部门研发与产业化协同组织，将区域内的核心利益相关者——[[Research Universities|研究型大学]]、领军企业、初创公司、风险投资者、国家实验室与地方政府紧密组织起来，围绕区域比较优势与国家战略需求形成共同愿景，系统催化新技术的早期发现、中试工程验证、商业化部署及其配套高技能劳动力培养。在实践中，创新中心既是产学研联合体中深度协同的最高形态，也是现代国家产业战略重塑区域制造业公地与供应链安全的核心载体。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 112–113)]]; [[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 124, 137)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 54–55)]]
+> **创新中心（Innovation Hub / 创新枢纽 / 基于地点的创新中心）**是一种基于特定地理区位的跨部门研发与产业化协同组织，将区域内的核心利益相关者——[[Research Universities|研究型大学]]、领军企业、初创公司、风险投资者、国家实验室与地方政府紧密组织起来，围绕区域比较优势与国家战略需求形成共同愿景，系统催化新技术的早期发现、中试工程验证、商业化部署及其配套高技能劳动力培养。在实践中，创新中心既是产学研联合体中深度协同的最高形态，也是现代国家产业战略重塑区域[[Industrial Commons|制造业公地]]与供应链安全的核心载体。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 112–113)]]; [[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 124, 137)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 54–55)]]
 
 > [!concept-lens] 概念透镜
 > - **核心使命** 打破传统高校象牙塔与工业界之间的隔阂，通过人际交互密度与共享工程设施，将实验室科学发现迅速转化为具备可制造性与商业[[Competitiveness|竞争力]]的实体产品。
@@ -160,7 +161,7 @@ updated: 2026-10-07
 > > 争论创新中心应当聚焦于城市写字楼联合办公与商务服务，还是深入投资高成本的实体中试车间与制造车间。
 > >
 > > - **轻资产地产与服务论** 认为创新中心应保持敏捷，通过空间租赁与社群运营快速实现财务自负盈亏。
-> > - **产业公地与硬科技制造论** 强调纯软件与轻资产无法带来长久产业[[Competitiveness|竞争力]]；缺乏中试线、洁净室与实体制造配套的创新中心，极易退化为普通商业地产。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 40, 54)]]
+> > - **[[Industrial Commons|产业公地]]与硬科技制造论** 强调纯软件与轻资产无法带来长久产业[[Competitiveness|竞争力]]；缺乏中试线、洁净室与实体制造配套的创新中心，极易退化为普通商业地产。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 40, 54)]]
 >
 > > [!axis] 区域禀赋内生培育 vs. 机械照搬沿海模式
 > > 围绕中西部内陆地区如何建设创新中心的分歧。

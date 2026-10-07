@@ -12,7 +12,7 @@ aliases:
 summary: "由全球教育治理中的多边组织、国家政府和跨国智库共同推动的政策修辞与规范框架，旨在界定未来劳动力市场所需关键能力并塑造教育政策与自我企业家主体性；实证研究揭示其存在技能空心化、实践转译断裂以及高教宏观倡导与微观评价滞后的制度脱节，二阶元分析证实合作学习对21世纪综合高阶技能具有显著赋能效应（ES = 0.76/0.84）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 68
+related_count: 69
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Data Literacy]]"
   - "[[AI Literacy]]"
+  - "[[Process Knowledge]]"
   - "[[Socioscientific Issues]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Cooperative Learning]]"
@@ -57,8 +58,9 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Authentic Assessment]]"
   - "[[Reliability]]"
-  - "[[Post-Fordism]]"
   - "[[Problem Solving]]"
+  - "[[Engineering Education]]"
+  - "[[Post-Fordism]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
   - "[[Cooperative Integrated Reading and Composition]]"
@@ -89,17 +91,16 @@ related_facts:
   - "[[Melbourne Declaration]]"
   - "[[PISA]]"
   - "[[TESTA Project]]"
-  - "[[Office of Science and Technology Policy]]"
 related_arguments:
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_Wong_2022_HERD]]"
   - "[[Argument_SpronkenSmith_2024_AEHE]]"
   - "[[Argument_Beech_2009_CE]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Zhao_2020_JEC]]"
-  - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: high
 status: active
 created: 2026-05-20
@@ -113,7 +114,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 21 世纪技能与素养话语（21st Century Skills and Competencies Discourse，SCD）是一套在全球教育治理中广泛运作的政策修辞与规范框架。该话语由[[OECD|经合组织]]（OECD）、世界经济论坛（WEF）、[[UNESCO|联合国教科文组织]]（UNESCO）、欧盟委员会及跨国商业智库共同塑造，旨在应对工业 4.0、数字化转型与[[Knowledge-Based Economy|知识经济]]的不确定性，界定未来劳动力参与劳动市场与社会生活所必须具备的关键通用能力（Key Competencies），进而通过国际评估、资格框架和课程重组规约各国的教育改革方向与个体的自我发展责任。在人工智能与先进制造深度重塑劳动形态的新时期，该话语进一步分化为“认知抽象论”与“实体排障手艺论”的深刻反思。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 254)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53, 58)]]
+> 21 世纪技能与素养话语（21st Century Skills and Competencies Discourse，[[Single-Case Design|SCD]]）是一套在全球教育治理中广泛运作的政策修辞与规范框架。该话语由[[OECD|经合组织]]（OECD）、世界经济论坛（WEF）、[[UNESCO|联合国教科文组织]]（UNESCO）、欧盟委员会及跨国商业智库共同塑造，旨在应对工业 4.0、数字化转型与[[Knowledge-Based Economy|知识经济]]的不确定性，界定未来劳动力参与劳动市场与社会生活所必须具备的关键通用能力（Key Competencies），进而通过国际评估、资格框架和课程重组规约各国的教育改革方向与个体的自我发展责任。在人工智能与先进制造深度重塑劳动形态的新时期，该话语进一步分化为“认知抽象论”与“实体排障手艺论”的深刻反思。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 254)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53, 58)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 话语将关注焦点从宏观社会结构的再分配改革，转向个体技能与素养的终身积累，将青年与劳动者塑造为必须对自身[[Employability|就业能力]]负全责的“[[Self-Entrepreneur|自我企业家]]”。
@@ -130,7 +131,7 @@ updated: 2026-10-07
 ## 概念辨析
 
 > [!contrast-table] 核心素养及相关概念辨析
-> | 维度 | 21 世纪技能与素养话语 (SCD) | [[Graduate Attributes\|毕业生特质]] | 传统学科知识体系 |
+> | 维度 | 21 世纪技能与素养话语 ([[Single-Case Design\|SCD]]) | [[Graduate Attributes\|毕业生特质]] | 传统学科知识体系 |
 > |---|---|---|---|
 > | **运作[[Champ\|场域]]** | [[Global Policy Space\|全球政策空间]]、多边组织、跨国智库 | 高等院校内部课程治理与培养方案 | 基础学科院系、专业学术共同体 |
 > | **核心机制** | 经济不确定性修辞、标准化评估驱动 | 院校愿景[[Transfer Translation Transformation\|转译]]、学习产出对齐 | 概念演进、[[Epistemology\|认识论]]探究与[[Paradigm\|范式]]训练 |
@@ -222,7 +223,7 @@ updated: 2026-10-07
 > 探讨人工智能普及使代码编写与文本推演边际成本急剧下降后，21 世纪核心素养为何必须向“实体排障手艺”与“人机自动化核验”深度转向。
 
 > [!claim] Kratsios, M.
-> **实体排障手艺与人机核验素养论** 白宫科技政策办公室 2026 报告深刻指出，单纯依赖黑板推导与抽象文本生成的传统 21 世纪技能话语已无法应对现代技术挑战。一方面，AI 在宏观规律挖掘与微观结构设计中展现出巨大赋能，要求人才具备人机协同的黄金标准自动化核验能力；另一方面，由于物理世界的原子规律、芯片产线与精密实验仪器具有刚性制约，熟练机械师与高级工程师在现场沉淀的默会[[Process Knowledge|过程知识]]、物理[[Problem Solving|排障直觉]]（Troubleshooting）与车间动手手艺（Craftsmanship），重新成为不可替代的国家核心技能基石。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53, 58–60)]]
+> **实体排障手艺与人机核验素养论** 白宫科技政策办公室 2026 报告深刻指出，单纯依赖黑板推导与抽象文本生成的传统 21 世纪技能话语已无法应对现代技术挑战。一方面，AI 在宏观规律挖掘与微观结构设计中展现出巨大赋能，要求人才具备人机协同的黄金标准自动化核验能力；另一方面，由于物理世界的原子规律、芯片产线与精密实验仪器具有刚性制约，熟练机械师与高级工程师在现场沉淀的默会[[Process Knowledge|过程知识]]、物理排障直觉（[[Problem Solving|Troubleshooting]]）与车间动手手艺（Craftsmanship），重新成为不可替代的国家核心技能基石。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53, 58–60)]]
 
 ---
 
@@ -326,10 +327,10 @@ updated: 2026-10-07
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Higher-Order Thinking Skills]] | Concept | 21 世纪技能话语试图界定并测查的核心高阶认知与心智能力。 |
-> | [[Problem Solving]] | Concept | 21 世纪技能矩阵中解决劣构真实挑战的核心支柱构念。 |
+> | [[Problem Solving]] | Concept | 21 世纪技能矩阵中解决劣构真实挑战的核心支柱[[Construct\|构念]]。 |
 > | [[Critical Thinking]] | Concept | 4C 技能中强调证据评估、论证辨析与反思怀疑的核心思维能力。 |
-> | [[Engineering Education]] | Concept | 推动 21 世纪素养从纯认知抽象向动手实训与多约束系统设计转化的教育范式。 |
+> | [[Engineering Education]] | Concept | 推动 21 世纪素养从纯认知抽象向动手实训与多约束系统设计转化的教育[[Paradigm\|范式]]。 |
 > | [[Process Knowledge]] | Concept | 智能时代 21 世纪技能话语反思抽象空心化、重振实体排障手感所依赖的默会工艺知识。 |
-> | [[Graduate Attributes]] | Concept | 大学对 21 世纪通用能力话语进行院校本位转译与课程对齐的治理载体。 |
-> | [[OECD]] | Fact (Organization) | 长期主导全球 21 世纪技能标准设定与 PISA 测评跨国治理的多边组织。 |
+> | [[Graduate Attributes]] | Concept | 大学对 21 世纪通用能力话语进行院校本位[[Transfer Translation Transformation\|转译]]与课程对齐的治理载体。 |
+> | [[OECD]] | Fact (Organization) | 长期主导全球 21 世纪技能标准设定与 [[PISA]] 测评跨国治理的多边组织。 |
 > | [[Michael Kratsios]] | Person | 主张重塑智能时代车间排障手艺与工匠素养底座的科技政策学者。 |

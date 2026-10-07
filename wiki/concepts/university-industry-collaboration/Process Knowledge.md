@@ -8,10 +8,10 @@ aliases:
 summary: "存在于熟练工程师、技师与实验科学家身上、无法完全编码为图纸与专利的排障手感与默会实践经验；作为技术能力的核心支柱，依赖物理邻近与制造生态传承，并在智能充沛时代构成物理创新的关键约束。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/innovation
   - theme/manufacturing
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Hypothesis]]"
   - "[[Phronesis]]"
+  - "[[Industrial Commons]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[National Innovation System]]"
   - "[[Engineering Education]]"
@@ -115,7 +116,7 @@ updated: 2026-10-07
 
 ### 命题一　制造外流将诱发工程设计能力与前沿探索问题的不可逆衰减
 
-> [!concept-lens] 产业公地（Industrial Commons）与设计-制造反馈循环
+> [!concept-lens] [[Industrial Commons|产业公地]]（Industrial Commons）与设计-制造反馈循环
 > 检验将实体制造外包离岸、仅在本土保留高附加值设计与论文研发的政策[[Hypothesis|假设]]是否有效。
 
 > [!claim] Kratsios, M. J.; [[Chris Freeman|Freeman, C.]]
@@ -147,7 +148,7 @@ updated: 2026-10-07
 
 > [!debates] 学术与政策争议
 >
-> > [!axis] 去制造化轻资产模式 vs. 实体产业公地维护
+> > [!axis] 去制造化轻资产模式 vs. 实体[[Industrial Commons|产业公地]]维护
 > > 围绕发达经济体是否可以专注于纯软件、设计与金融，而将重资产实体制造全部外包。
 > >
 > > - **新自由主义轻资产分工论** 认为微笑曲线两端（前沿研发与品牌营销）附加值最高，放弃低附加值制造外包有助于资本效率最大化。
@@ -163,7 +164,7 @@ updated: 2026-10-07
 
 ## 实证数据
 
-> [!ref-table]- 产业公地与制作参与宏观统计（无[[Effect Size|效应量]]）
+> [!ref-table]- [[Industrial Commons|产业公地]]与制作参与宏观统计（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |

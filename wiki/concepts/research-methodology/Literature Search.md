@@ -4,10 +4,10 @@ aliases: ["文献检索", "文献搜索", "literature retrieval", "searching for
 summary: "研究过程中系统检索、筛选和评估文献的操作性步骤，包括检索策略、网络操作符、数据库选择、信息类型识别、文献优先级排序与质量评估及网站评估。"
 type: concept
 domain: "research-methodology"
-related_count: 44
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 54
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags: [source/textbook, method/research-process]
 related_concepts:
   - "[[Document]]"
@@ -29,9 +29,13 @@ related_concepts:
   - "[[Informationalization]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Normal School]]"
+  - "[[Generative Artificial Intelligence]]"
+  - "[[Chain of Evidence]]"
+  - "[[Paradigm]]"
   - "[[Reliability]]"
   - "[[Construct]]"
   - "[[Variable]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Literature Map]]"
@@ -39,10 +43,13 @@ related_methods:
   - "[[Cohort Study]]"
   - "[[Trend Study]]"
   - "[[Correlational Research]]"
+  - "[[Network Analysis]]"
+  - "[[Systematic Review]]"
 related_persons:
   - "[[Louis Cohen]]"
   - "[[Lawrence Manion]]"
   - "[[Keith Morrison]]"
+  - "[[Michael Kratsios]]"
 related_facts:
   - "[[SPECTRUM]]"
   - "[[Education Resources Information Center]]"
@@ -55,12 +62,16 @@ related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[Comparative and International Education Society]]"
   - "[[British Association for International and Comparative Education]]"
+  - "[[Office of Science and Technology Policy]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
+  - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
-confidence: medium
-status: draft
+related_instruments:
+  - "[[PRISMA]]"
+confidence: high
+status: active
 created: 2026-06-21
 updated: 2026-10-07
 ---
@@ -372,6 +383,15 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 
 ---
 
+### 智能时代与 AI 代理文献检索的范式跃迁
+
+> [!feature] 智能代理驱动的自动化文献挖掘与知识综合
+> - **微观文献检索的自动化代理承接** 随着[[Generative Artificial Intelligence|生成式人工智能]]与自主研究代理（Research Agents）进入科学工作流，文献检索从传统手工卡片、布尔操作符与关键词数据库匹配，跃升为海量学术语料与开源代码的自主语义挖掘、[[Chain of Evidence|证据链]]跨模态提取与初步假说生成。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 70–72)]]
+> - **检索对象从静态文献延伸至动态代码与可复现沙盒** 伴随科学交流[[Paradigm|范式]]向“动态研究笔记本”（包含数据、代码与运行环境）的演进，文献检索不再局限于孤立的 PDF 静态文本，而是直接穿透检索可执行算法、原始实验数据、未发表负面结果以及自动化形式化证明脚本。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 67–70)]]
+> - **学术劳动分工的重组与聚焦** 智能代理在微观层面承担起数以万计文献的初筛、跨语言翻译与关联网络构建，使人类研究者从繁琐的机械信息检索中解放出来，将核心认知精力聚焦于高阶理论综合与原创问题定义。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 70)]]
+
+---
+
 ## 围绕概念形成的命题
 
 ---
@@ -412,13 +432,35 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 
 ---
 
+### 命题三　智能科研范式下 AI 代理检索重塑学术分工并驱动人类聚焦高阶战略综合
+
+> [!concept-lens] 人机共生学术分工与高阶认知聚焦
+> 剖析大模型与智能代理深度介入文献检索后，研究者如何从繁重的微观信息搬运中解脱，转向宏观科学方向把控与跨学科综合。
+
+> [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
+> **文献检索代理化与人类高阶价值聚焦假说** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）领衔的白宫科技战略报告论证指出，随着人工智能系统全面融入科研流程，数以万亿计的智能代理能够在微观层面以极高效率执行文献检索、信息抽取、模式挖掘与初步跨学科关联；这一技术跃升彻底颠覆了传统科研中耗费学者大量时间的初级信息检索环节。在这种新型人机共生分工中，人类科学家的不可替代性将牢固聚焦于宏观战略方向的审慎把控、原创性根本命题的提炼提出、跨异质领域的批判性知识综合，以及重大科技伦理价值的决断。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 70–72)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
-> |---|---|---|---|
-> | **论证支撑与信效度奠基** | 确立研究的可信度、效度、理论框架与学术合法性 | 研究设计与论证构建阶段 | Cohen, L.; Manion, L.; Morrison, K. |
-> | **知识空白识别与课题生成** | 发现被忽略问题、理论矛盾、方法缺陷并把握问题本质 | [[Research Topic\|研究选题]]与问题确立阶段 | 齐梅 |
+> | 命题类型 | 核心指向 | 关键机制与适用情境 | 代表学者 / 论据 |
+> |:---|:---|:---|:---|
+> | **论证支撑与信效度奠基** | 确立研究的可信度、效度、理论框架与学术合法性 | 文献综述论证链条构建、术语与构念界定 | Cohen, L.; Manion, L.; Morrison, K. |
+> | **知识空白识别与课题生成** | 发现被忽略问题、理论矛盾、方法缺陷并把握问题本质 | 批判性阅读、知识空白挖掘、[[Research Topic\|研究选题]]与设计 | 齐梅 |
+> | **智能代理分工与高阶综合** | 代理执行海量文献挖掘，人类聚焦宏观方向与根本命题提出 | 智能科研工作流、动态研究笔记本检索、战略认知聚焦 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
+
+---
+
+## 概念演变历程
+
+> [!dev-timeline] [[Document|文献]]检索[[Paradigm|范式]]与工具的谱系演化脉络
+> - **19 世纪–20 世纪中叶 — 印刷目录、卡片索引与人工追溯时代** 文献检索主要依赖图书馆实体卡片目录、印刷索引年鉴（如 Index Medicus）、学位论文书目与学者间互助追溯。
+> - **1960s–1980s — 计算机化专业数据库与布尔逻辑检索** 1966 年美国[[Education Resources Information Center|教育资源信息中心]]（[[Education Resources Information Center|ERIC]]）创设，计算机数据库与布尔操作符（AND, OR, NOT）成为系统检索的标准工具。
+> - **1990s–2000s — 互联网学术搜索平台与引文[[Network Analysis|网络分析]]** Web of Science、Google Scholar、中国知网（CNKI）等大型在线平台崛起，SSCI 引文追踪（绵延法）与关键词倒三角检索成为规范流程。
+> - **2010s — 开放获取、[[Systematic Review|系统综述]]标准与证据库整合** DOAJ 开放获取目录普及，[[PRISMA]] 系统综述流程与 [[What Works Clearinghouse|WWC]]、[[EPPI-Centre]] 等循证证据库成为高质量文献检索与筛选的核心基准。
+> - **2025–2026 — 生成式 AI 代理、语义关联与动态研究笔记本检索** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告确立智能时代科研新范式，智能代理承担自动化文献挖掘与代码/数据沙盒溯源，驱动人类学者向宏观战略综合演进。
 
 ---
 
@@ -430,9 +472,36 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > [!warning] 期刊影响因子的评价边界
 > 影响因子（impact factor）指某刊物近两年刊出的论文被 SSCI 或 CSSCI 论文引用的总次数与刊出论文总数之比（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015, Ch.1]]）。影响因子仅衡量期刊层面的整体引用影响力，不代表单篇论文的具体质量。在文献检索中，影响因子可作为筛选期刊的参考指标之一，但不应替代对单篇文献内容的实质性评估。
 
+> [!debates] 文献检索[[Paradigm|范式]]学术争鸣
+>
+> > [!axis] 手工精读与结构化布尔检索 vs AI 代理自动化文献挖掘与算法黑箱
+> > 争论研究者应当坚守人工逐篇阅读与关键词精确布尔筛选，还是依托大模型代理进行全自动文献综合。
+> >
+> > - **传统方法规范派** 强调人工亲身精读文献是培养学术品味、洞察隐性方法[[Hypothesis|假设]]与体会作者论证手感的不可替代过程；AI 检索容易产生幻觉假引用并忽略非结构化默会知识。
+> > - **AI 增强与人机协同派（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）** 论证面对全球每年数百万篇海量论文爆发，传统人工检索已达认知极限；唯有利用智能代理执行全景式文献挖掘与机器验证，人类学者才能在高阶理论层面维系跨学科视野。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 70–72)]]
+
 > [!feature] 质量评估标准
 > - **文献质量评估标准** 期刊文章应优先选择有严格同行评审委员会的国家级评审期刊；在线期刊应核实是否有已发布的同行评审标准与编辑委员会；书籍应选择学术声誉良好且运营成熟的专业出版社；优先参考近 10 年内的最新研究；网络文献需审慎评估其是否代表严谨和系统的学术研究（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
 > - **网站评估标准** 针对网络来源，研究者需从六大维度评估其适用性：**目的**（是否明确且适切）、**权威性与真实性**（作者资质与机构声誉）、**内容**（时效性与覆盖范围）、**可[[Reliability\|信度]]与合法性**（受尊重机构背书）、**准确性与完整性**（是否有可靠参考文献）、**客观性与严谨性**（有无商业或立场偏见）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, pp.131–133]]）。
+
+---
+
+## 条目关联网络
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关联维度与贡献 |
+> |:---|:---|:---|
+> | [[Document]] | Concept | 文献检索的对象实体，涵盖期刊论文、学术专著、政策报告与原始一手档案。 |
+> | [[Literature Review]] | Concept | 文献检索直接服务的上层综合论证任务，将检索获取的零散材料转化为结构化综述。 |
+> | [[Inverted Triangle Literature Search]] | Concept | 文献检索的具体操作策略模型，指从宽泛背景向特定核心问题逐层收窄的检索方法。 |
+> | [[Research Question]] | Concept | 文献检索的核心导向与出发点，通过检索发现空白以提炼具有理论与现实意义的问题。 |
+> | [[Generative Artificial Intelligence]] | Concept | 驱动文献检索向自动化智能代理挖掘、语义跨模态提取与知识综合跃迁的核心技术。 |
+> | [[Literature Map]] | Method | 文献检索结果的视觉化拓扑呈现方法，展示不同文献主题之间的分组与衍生关系。 |
+> | [[What Works Clearinghouse]] | Fact (Organization) | 实施大规模系统性文献检索与证据综合、评定干预证据等级的国家级专业机构。 |
+> | [[Education Resources Information Center]] | Fact (Organization) | 全球最大的教育学计算机化文献书目数据库与在线词表检索平台。 |
+> | [[Michael Kratsios]] | Person | 主持起草白宫 [[Office of Science and Technology Policy\|OSTP]] 2026 报告，系统阐明智能代理在文献检索与科学工作流中分工重塑的政策学者。 |
+> | [[Louis Cohen]] | Person | 权威教育研究方法学者，系统阐明文献检索对于确立研究信效度与构建理论框架的逻辑链条。 |
 
 ---
 
@@ -442,3 +511,5 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 系统阐述了[[Document\|文献]]检索七步法、主要学术数据库、搜索优先级与迭代搜索策略。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011, Ch.7)]] — 提出了文献检索服务于论证与信效度的推进逻辑、网络检索操作符、信息类型分类（Box 7.2）及网站评估标准。
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015, Ch.1)]] — 提出了文献分类的双维度（公开性与加工程度）、文献资料的三类载体、文献检索的五种操作方法以及在课题选题中的四项发现机制。
+> - [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] — 白宫科技战略报告，阐述在智能时代自主研究代理如何承担微观文献检索与假说生成，驱动人类科研分工向宏观战略综合演化。
+

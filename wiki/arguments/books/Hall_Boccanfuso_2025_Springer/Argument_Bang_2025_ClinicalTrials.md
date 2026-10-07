@@ -26,6 +26,7 @@ related_concepts:
   - "[[Preregistration]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Informed Consent]]"
+  - "[[Advance Market Commitments]]"
   - "[[Paradigm]]"
   - "[[Research Question]]"
   - "[[Research Utilization]]"
@@ -54,7 +55,7 @@ title: "Argument_Bang_2025_ClinicalTrials"
 argument_key: "Argument_Bang_2025_ClinicalTrials"
 argument_display_title: "University–Industry Relations in Clinical Trials"
 argument_kind: "book"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -271,7 +272,7 @@ Table 11.2 提供了临床试验启动度量指标的详细对比，揭示学术
 > | 监管包提交时间 | 0 ~ > 30 天（通常使用申办方选择的中心 IRB） | > 30–45 天（通常需定制[[Informed Consent\|知情同意书]]并提交 IRB 依赖协议给本地 IRB） |
 > | 监管提交到 IRB 批准 | 0 ~ > 15 天（独立商业 IRB 每月多次会议） | > 30–60 天（取决于 IRB 委员会会议时间和提交截止日期） |
 > | 合同/预算收到到执行 | > 30–45 天 | > 60–120 天（可能包括医保覆盖分析的额外审查、计费计划等） |
-> | 合同执行到激活 | > 30–45 天 | > 30–60 天（可能需要额外的 AMC 激活要求才能进入入组就绪状态） |
+> | 合同执行到激活 | > 30–45 天 | > 30–60 天（可能需要额外的 [[Advance Market Commitments\|AMC]] 激活要求才能进入入组就绪状态） |
 
 > [!example] 120 天 vs 60 天的差距意味着什么？
 > 假设一款新药针对的是快速进展的癌症适应症，患者入组窗口极窄。如果学术 A 中心的启动时间为 60 天，它能在申办方的入组高峰期中占据先机；而学术 B 中心的启动时间为 120 天以上，到达激活状态时前几批患者可能已经被社区基地和国际基地纳入。这种差异直接转化为入组数量、数据质量和产业方未来是否再次选择该基地。

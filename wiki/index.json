@@ -4664,6 +4664,16 @@
     ]
   },
   {
+    "title": "Goodhart's Law",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Goodhart's Law.md",
+    "aliases": [
+      "古德哈特定律",
+      "古德哈特法则",
+      "Goodhart's principle"
+    ]
+  },
+  {
     "title": "Grade Retention",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Grade Retention.md",
@@ -10728,6 +10738,17 @@
     ]
   },
   {
+    "title": "Advance Market Commitments",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Advance Market Commitments.md",
+    "aliases": [
+      "高级市场承诺",
+      "预先市场承诺",
+      "预先采购承诺",
+      "Advance Market Commitment"
+    ]
+  },
+  {
     "title": "Agile Governance",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Agile Governance.md",
@@ -10870,6 +10891,16 @@
       "嵌入式自主性",
       "嵌入性自主",
       "嵌入的自主性"
+    ]
+  },
+  {
+    "title": "Eroom's Law",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Eroom's Law.md",
+    "aliases": [
+      "厄鲁姆定律",
+      "反摩尔定律",
+      "Eroom's law of drug discovery"
     ]
   },
   {
@@ -11081,7 +11112,8 @@
     "aliases": [
       "组合式科研资助",
       "组合式拨款",
-      "Portfolio Approach to Grantmaking"
+      "Portfolio Approach to Grantmaking",
+      "组合式研究资助"
     ]
   },
   {
@@ -11137,6 +11169,17 @@
       "反思型治理",
       "自反性治理",
       "Reflexive Governance for Sustainable Development"
+    ]
+  },
+  {
+    "title": "Regulatory Sandbox",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Regulatory Sandbox.md",
+    "aliases": [
+      "监管沙盒",
+      "规制沙盒",
+      "政策沙盒",
+      "Regulatory Sandboxes"
     ]
   },
   {
@@ -12533,6 +12576,16 @@
       "自由实施权",
       "freedom to operate",
       "freedom-to-operate"
+    ]
+  },
+  {
+    "title": "Industrial Commons",
+    "type": "concept",
+    "path": "wiki/concepts/university-industry-collaboration/Industrial Commons.md",
+    "aliases": [
+      "产业公地",
+      "制造业公地",
+      "Manufacturing Commons"
     ]
   },
   {
@@ -30206,7 +30259,6 @@
     "aliases": [
       "科学：新的黄金时代",
       "科学新黄金时代",
-      "Science: A New Golden Age",
       "Kratsios report",
       "克拉齐奥斯报告"
     ]

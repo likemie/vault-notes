@@ -8,7 +8,7 @@ aliases:
 summary: "设立于高校和研究机构内部的伦理审查委员会，依据美国联邦法规在数据收集前审查涉及人类受试者的研究方案，在临床试验中同时也是影响启动效率的关键运营节点"
 type: concept
 domain: "research-methodology"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Guilty Knowledge]]"
   - "[[Emergence]]"
   - "[[Academic Medical Center]]"
+  - "[[Advance Market Commitments]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 # Institutional Review Board
@@ -176,7 +177,7 @@ IRB 特别关注**弱势群体（vulnerable populations）**的保护，包括�
 >
 > | 维度 | 中心 IRB（Central IRB） | 本地 IRB（Local IRB） |
 > |---|---|---|
-> | **使用场景** | 非学术基地（社区、去中心化）的默认选择 | AMC 的标准配置 |
+> | **使用场景** | 非学术基地（社区、去中心化）的默认选择 | [[Advance Market Commitments\|AMC]] 的标准配置 |
 > | **审查速度** | 0 ~ > 15 天（独立商业 IRB 每月多次会议） | > 30–60 天（取决于委员会会议时间和提交截止日期） |
 > | **启动优势** | 申办方可预先选择熟悉的 IRB，免除机构间协议 | 需要定制[[Informed Consent\|知情同意书]]（Informed Consent Form, ICF），提交 IRB 依赖协议 |
 > | **管理费** | 纳入申办方预算 | 额外的机构 IRB 依赖管理费 |

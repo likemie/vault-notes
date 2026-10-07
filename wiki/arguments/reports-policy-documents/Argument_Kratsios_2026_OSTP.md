@@ -36,10 +36,12 @@ related_concepts:
   - "[[Focused Research Organization]]"
   - "[[Metascience]]"
   - "[[Permissionless Innovation]]"
+  - "[[Regulatory Sandbox]]"
   - "[[Grand Challenges]]"
   - "[[Apprenticeship]]"
   - "[[Innovation Hub]]"
   - "[[Big Science]]"
+  - "[[Eroom's Law]]"
   - "[[Star Scientists]]"
   - "[[Document]]"
   - "[[Creativity]]"
@@ -48,6 +50,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Center of Calculation]]"
   - "[[Decodification]]"
+  - "[[Advance Market Commitments]]"
   - "[[Academic Medical Center]]"
   - "[[Scientific Method]]"
   - "[[Competitiveness]]"
@@ -61,9 +64,11 @@ related_concepts:
   - "[[Engineering Education]]"
   - "[[University-Industry Collaboration]]"
   - "[[National Innovation System]]"
+  - "[[Industrial Commons]]"
   - "[[Problem Solving]]"
   - "[[Phronesis]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Goodhart's Law]]"
   - "[[Literature Search]]"
   - "[[Portfolio-Based Research Funding]]"
 related_theories:
@@ -111,10 +116,10 @@ title: "Argument_Kratsios_2026_OSTP"
 argument_key: "Argument_Kratsios_2026_OSTP"
 argument_display_title: "Science: A new golden age (Report to the President)"
 argument_kind: "report"
-argument_related_count: 74
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#dcfce7"
+argument_related_count: 79
+argument_related_level: 5
+argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_color: "#fecdd3"
 journal: ""
 book_title: ""
 publication_place: "Washington, DC"
@@ -215,7 +220,7 @@ issuing_organization: "Office of Science and Technology Policy"
 
 > [!pathways] 《[[Science A New Golden Age 2026|科学：新的黄金时代]]》四大政策支柱总览
 > - **第二章　重塑以研究者个人为核心的科研资助体制** 破除行政文书羁绊，扩大可随人迁移的早期奖学金与长周期对人资助；引入金券、快速资助、[[Pull Mechanisms for Innovation|拉动机制]]等多元选拔渠道；在联邦机构内设立具有对照实验权限的[[Metascience|元科学]]单元。
-> - **第三章　确保科学发现高效转化为本土产业能力** 恢复[[Permissionless Innovation|无许可创新]]并推行监管沙盒；向产业界全面开放能源部（[[Department of Energy]], DOE）国家实验室与国防部测试试验场；依托前竞争联合体与[[Grand Challenges|重大挑战]]计划攻克行业共性工程瓶颈。
+> - **第三章　确保科学发现高效转化为本土产业能力** 恢复[[Permissionless Innovation|无许可创新]]并推行[[Regulatory Sandbox|监管沙盒]]；向产业界全面开放能源部（[[Department of Energy]], DOE）国家实验室与国防部测试试验场；依托前竞争联合体与[[Grand Challenges|重大挑战]]计划攻克行业共性工程瓶颈。
 > - **第四章　推动科技红利回归本土制造、手艺技能与区域生态** 拆除高等教育与职业培训的壁垒，将[[Apprenticeship|学徒制]]与动手实践计入培养体系；设立驻校实践者与国家工匠奖学金；建设基于地方制造集群与社区学院的区域[[Innovation Hub|创新中心]]。
 > - **第五章　在智能时代同步扩大[[Hypothesis|假设]]生成与实验核验规模** 全面推进[[Genesis Mission|创世纪计划]]，整合国家超级算力与仪器网络；践行黄金标准科学，建立机器可读的自动化复现基础设施；发展适应人工智能科研[[Paradigm|范式]]的新型学术交流机制。
 
@@ -321,7 +326,7 @@ issuing_organization: "Office of Science and Technology Policy"
 生物医学与微电子等关键领域的经验事实表明，单纯扩大经费规模并未带来突破性产出的线性增长，科研边际生产率正面临普遍放缓的挑战（pp. 13–14）。
 
 > [!stat-cards] 研发效率放缓与成本上升的关键测度
-> - **80×** 1950 年以来通胀调整后每十亿美元产出新药数量的下降倍数（厄鲁姆定律，约每九年减半）。（p. 13）
+> - **80×** 1950 年以来通胀调整后每十亿美元产出新药数量的下降倍数（[[Eroom's Law|厄鲁姆定律]]，约每九年减半）。（p. 13）
 > - **18×** 1970 年代初以来维持晶体管密度历史增长所需的研究人员增幅。（p. 14）
 > - **3–25×** 1969 年以来农业研发投入的扩大倍数，而产出增速大体持平。（p. 14）
 > - **51 / 42** NIH 课题负责人整体平均年龄（从 39 岁升至 51 岁）与首次获资助者平均年龄（从 36 岁升至 42 岁）。（p. 16）
@@ -449,7 +454,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 > - **可携带式早期学者奖学金** 依托 NSF 研究生研究奖学金计划（Graduate Research Fellowship Program, GRFP）等项目，将资助直接赋权博士生本人并允许跨校跨组携带，激发对高水平导师的自主选择权。（p. 28）
 > - **快速资助通道（Fast Grants）** 简化繁琐流程，将申报审批压缩至 48 小时以内，适用于突发危机应对与窗口期极短的前沿探索。（p. 28）
 
-同时，资助体系应协同运用事前资助与事后买单的[[Pull Mechanisms for Innovation|拉动机制]]，在目标明确但路径未知的领域设立重大奖金与高级市场承诺（Advance Market Commitments, [[Academic Medical Center|AMC]]）。
+同时，资助体系应协同运用事前资助与事后买单的[[Pull Mechanisms for Innovation|拉动机制]]，在目标明确但路径未知的领域设立重大奖金与[[Advance Market Commitments|高级市场承诺]]（Advance Market Commitments, [[Academic Medical Center|AMC]]）。
 
 > [!feature] 拉动机制与前沿资助假设矩阵
 > - **重大技术悬赏奖金** 一千万美元私人亚轨道飞行奖金拉动数亿美元研发投入，展示以明确结果为导向的杠杆效应。（p. 29）
@@ -653,7 +658,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 深植于民间的建造文化与动手实践是[[National Innovation System|国家创新体系]]不可忽视的基石。
 
 > [!case] 学院之外民间工坊与试验基地的建造传统
-> 遍布全美各地的创客工坊、退役跑道旁的航天推进剂测试点，以及沙漠棚屋中青年学者自主拼装的聚变原型，生动展现了深植于民间的建造文化。降低前沿科研仪器的准入门槛，让非传统学术背景的制作者与手艺人顺畅融入国家创新网络，是重振产业公地的根本路径（pp. 55–56）。
+> 遍布全美各地的创客工坊、退役跑道旁的航天推进剂测试点，以及沙漠棚屋中青年学者自主拼装的聚变原型，生动展现了深植于民间的建造文化。降低前沿科研仪器的准入门槛，让非传统学术背景的制作者与手艺人顺畅融入国家创新网络，是重振[[Industrial Commons|产业公地]]的根本路径（pp. 55–56）。
 
 重振产业公地需要培育紧密集聚的[[Innovation Ecosystem|区域创新生态]]。
 
@@ -721,7 +726,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 > [!critique-logic] 传统期刊出版模式在智能时代的结构性危机
 > - **人为制造稀缺** 少数匿名审稿人垄断评价权，评审周期冗长且充斥学术派系利益冲突。（p. 67）
-> - **指标异化失效** 论文篇数与影响因子落入古德哈特定律，沦为学术公关与灌水刷量的博弈工具。（pp. 67–68）
+> - **指标异化失效** 论文篇数与影响因子落入[[Goodhart's Law|古德哈特定律]]，沦为学术公关与灌水刷量的博弈工具。（pp. 67–68）
 > - **过程信息缺失** 静态出版物排斥失败实验、原始中间数据与真实排障记录，造成知识沉没。（p. 67）
 
 必须发展适应智能时代科研范式的新型学术交流基础设施。
@@ -783,7 +788,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 > [!stat-cards]- 核心数据
 > - **7000 亿 / 2000 亿** 企业年研发投入（美元）相对联邦政府年研发预算的对比量级。（pp. 5, 20）
 > - **40% / 10%–15%** 接受 NIH 资助机构的平均间接成本率，与私人资助管理费率的对比区间。（p. 8）
-> - **80× / 18×** 1950 年来制药研发效率（厄鲁姆定律）下降倍数，与维持晶体管密度增速所需研究人员的历史增幅。（pp. 13–14）
+> - **80× / 18×** 1950 年来制药研发效率（[[Eroom's Law|厄鲁姆定律]]）下降倍数，与维持晶体管密度增速所需研究人员的历史增幅。（pp. 13–14）
 > - **50% / 40%** 计算机科学与数学博士毕业生中临时签证持有者占比，与自然科学及工程博士中该群体的比例。（pp. 10–11）
 > - **4000 亿** 2025 年美国企业承诺投入人工智能基础设施的资金总额（美元）。（p. 57）
 
@@ -817,7 +822,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 > [!warning] 报告自述边界与实施局限
 > - 报告承认成熟领域进步放缓存在客观难度上升的成分，虽列举历史案例说明新工具可打破停滞，但未能在实证数据上严格剥离制度摩擦与学科内在探索极限的各自贡献率。（p. 14）
-> - 明确指出拉动奖金与高级市场承诺仅适用于目标清晰但技术路径未知的工程问题，不适用于漫无目的的纯好奇心探索。（p. 29）
+> - 明确指出拉动奖金与[[Advance Market Commitments|高级市场承诺]]仅适用于目标清晰但技术路径未知的工程问题，不适用于漫无目的的纯好奇心探索。（p. 29）
 > - 二次方资助在科学基金配置中的有效性仍处于开源社区类比阶段，尚缺乏大样本实证检验。（p. 30）
 > - 强调区域创新集群依赖地方各级政府协同，若政策设计不当可能沦为向可迁移资本输送利益的无序竞次。（p. 54）
 > - 基于 AI 代理、云端实验与去中心化审计的新型科研[[Paradigm|范式]]仍处于零散萌芽期，完整运作体系的自发成熟仍具高度不确定性。（pp. 69–70）

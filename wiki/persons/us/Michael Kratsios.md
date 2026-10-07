@@ -7,7 +7,7 @@ summary: "美国当代科技政策制定者与战略管理者，曾任美国第4
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 35
+person_related_count: 36
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Metascience]]"
   - "[[Pull Mechanisms for Innovation]]"
   - "[[Pilot Scale Platform]]"
+  - "[[Regulatory Sandbox]]"
   - "[[Apprenticeship]]"
   - "[[Focused Research Organization]]"
   - "[[Permissionless Innovation]]"
@@ -102,7 +103,7 @@ updated: 2026-10-07
 > - **2020 — *Industries of the Future*** 将人工智能、量子信息科学、5G 先进通信、先进制造和合成生物学确立为美国必须维持排他性优势的五大未来产业。
 > - **2025 — *American AI Action Plan & The [[Genesis Mission]]*** 依托跨部门垂直动员，整合能源部（[[Department of Energy]], DOE）国家实验室算力与商业模型生态，赋能科学[[Hypothesis|假设]]生成与自主实验。
 > - **2026年1月 — *Trump Administration Science & Technology Highlights*** 发布执政首年白皮书，宣告科技政策迈入以战略技术为中心的“再集中与再动员”新阶段。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
-> - **2026年7月 — *[[Science A New Golden Age 2026|Science: A New Golden Age]]*** 呈交总统的里程碑式国家科技体制重构报告。系统清算单向线性模型，提出重塑对人资助机制、将科学发现锚定于本土先进制造、重振学徒手艺与[[Process Knowledge|过程知识]]、在智能时代实现生成与核验同步扩大的四大政策支柱。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 1–86)]]
+> - **2026年7月 — *Science: A New Golden Age*** 呈交总统的里程碑式国家科技体制重构报告。系统清算单向线性模型，提出重塑对人资助机制、将科学发现锚定于本土先进制造、重振学徒手艺与[[Process Knowledge|过程知识]]、在智能时代实现生成与核验同步扩大的四大政策支柱。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 1–86)]]
 
 ---
 
@@ -112,7 +113,7 @@ updated: 2026-10-07
 > 克拉齐奥斯的政策哲学融合了新保守主义的技术现实主义与现代[[Metascience|元科学]]的机制设计思维，其核心思想由四大支柱构成：
 > 1. **坚守公共基础研究资助，但破除单向管道迷思** 坚守联邦资助私人市场不愿充分承担之基础研究的公共职能，但彻底否定从基础到应用单向线性的流水线预设，确立以[[Pasteur's Quadrant|巴斯德象限]]为核心的二维探索逻辑。
 > 2. **资助重心由机构项目转向科学家个人** 破除行政文书与低资助率造成的风险厌恶，扩大可随人迁移的早期奖学金（如 GRFP）与长周期对人资助（如先锋奖模式），引入金券、快速资助与[[Pull Mechanisms for Innovation|拉动机制]]。
-> 3. **科学发现必须锚定本土制造与[[Process Knowledge|过程知识]]** 强调技术不仅由图纸专利构成，更深植于熟练工人的排障手感与默会知识；必须通过开放[[Pilot Scale Platform|中试平台]]、监管沙盒与在岗[[Apprenticeship|学徒制]]，防止公共科研收益被海外竞争对手单向吸附。
+> 3. **科学发现必须锚定本土制造与[[Process Knowledge|过程知识]]** 强调技术不仅由图纸专利构成，更深植于熟练工人的排障手感与默会知识；必须通过开放[[Pilot Scale Platform|中试平台]]、[[Regulatory Sandbox|监管沙盒]]与在岗[[Apprenticeship|学徒制]]，防止公共科研收益被海外竞争对手单向吸附。
 > 4. **在人工智能时代平衡扩大生成与核验能力** 既利用[[Genesis Mission|创世纪计划]]释放 AI 生成[[Hypothesis|假设]]的强大能力，又同步建设机器可读、自动化实验的黄金标准科学核验基础设施。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–7, 20–72)]]
 
 > [!policy-design] 克拉齐奥斯治理工具箱
