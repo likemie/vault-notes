@@ -11116,7 +11116,8 @@
     "aliases": [
       "创新拉动机制",
       "拉动机制",
-      "Pull Mechanism"
+      "Pull Mechanism",
+      "按结果付费机制"
     ]
   },
   {
@@ -12905,7 +12906,9 @@
     "path": "wiki/concepts/university-industry-collaboration/Process Knowledge.md",
     "aliases": [
       "过程知识",
-      "技术过程知识"
+      "技术过程知识",
+      "默会过程知识",
+      "Tacit Process Knowledge"
     ]
   },
   {

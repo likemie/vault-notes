@@ -5,6 +5,14 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
     },
     {
+      "basename": "Bell Labs",
+      "path": "wiki/facts/us/Bell Labs.md"
+    },
+    {
+      "basename": "DARPA",
+      "path": "wiki/facts/us/DARPA.md"
+    },
+    {
       "basename": "National Institutes of Health",
       "path": "wiki/facts/us/National Institutes of Health.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Erich Bloch",
       "path": "wiki/persons/us/Erich Bloch.md"
-    },
-    {
-      "basename": "University-Based Research Center",
-      "path": "wiki/concepts/university-industry-collaboration/University-Based Research Center.md"
-    },
-    {
-      "basename": "Argument_Ryabyy_2024_Maneto",
-      "path": "wiki/arguments/journal-articles/Maneto The Temple University Multi-Disciplinary Undergraduate Research Journal/Argument_Ryabyy_2024_Maneto.md"
     }
   ],
   "omittedPaths": [],
