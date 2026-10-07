@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 52
+fact_related_count: 53
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
+  - "[[Discourse]]"
   - "[[Navigation Metaphor in Comparative Education]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -157,7 +158,7 @@ updated: 2026-10-07
 > [!entry-map] 核心关联网络
 > | 条目 | 类型 | 关系说明 |
 > |:-----|:-----|:-----|
-> | [[PISA\|国际学生评估项目]] | Fact | 跨国大规模学生学业评价的主要竞争者与后来者，与 IEA 争夺全球教育治理话语权 |
+> | [[PISA\|国际学生评估项目]] | Fact | 跨国大规模学生学业评价的主要竞争者与后来者，与 IEA 争夺全球教育治理[[Discourse\|话语]]权 |
 > | [[OECD\|经济合作与发展组织]] | Fact | PISA 的主办机构，与 IEA 在国际测评市场与[[Governing at a Distance\|远处治理]]模式上形成竞合 |
 > | [[Scientific Paradigm\|比较教育学科学范式]] | Concept | IEA 是 1960 年代比较教育学经验量化科学[[Paradigm\|范式]]最具代表性的跨国制度实践典范 |
 > | [[Social Science as Legitimation Alibi\|实证社会科学作为合法化借口]] | Concept | IEA 生产的量化排位硬数据长期被各国政客与国际援助机构借用为推行预定政策的政治合法化借口 |

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_display_title: "Research Methods in Education · Ch18"
 argument_kind: "book-chapter"
-argument_related_count: 61
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Research Question]]"
   - "[[Reflective Thinking]]"
+  - "[[Discourse]]"
   - "[[Research-Practice Gap]]"
   - "[[Didaktik]]"
   - "[[Scientific Method]]"
@@ -203,7 +204,7 @@ updated: 2026-09-13
 > 琼·麦克尼夫（McNiff, 2002, p. 17）进一步补充：行动研究者支持"人们可以创造自己的身份"的观点，并应允许他人也这样做。雪莉·格伦迪（Grundy, 1987, p. 142）则将行动研究视为关注改善"社会存在条件"的活动（p. 265）。
 
 > [!citation-card]- Kemmis & McTaggart 论行动研究的双重关注
-> 行动研究同样关注改变个体，以及改变个体所属群体、机构和社会的文化。一个群体的文化可以根据构成该群体互动的语言和话语、活动和实践以及社会关系和组织来定义。（Kemmis & McTaggart, 1992, p. 16）
+> 行动研究同样关注改变个体，以及改变个体所属群体、机构和社会的文化。一个群体的文化可以根据构成该群体互动的语言和[[Discourse|话语]]、活动和实践以及社会关系和组织来定义。（Kemmis & McTaggart, 1992, p. 16）
 >
 > *Action research is concerned equally with changing individuals, on the one hand, and, on the other, the culture of the groups, institutions and societies to which they belong.*
 

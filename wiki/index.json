@@ -2404,6 +2404,16 @@
     ]
   },
   {
+    "title": "Hidden Curriculum",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Hidden Curriculum.md",
+    "aliases": [
+      "隐性课程",
+      "潜在课程",
+      "隐蔽课程"
+    ]
+  },
+  {
     "title": "IB Diploma Programme",
     "type": "concept",
     "path": "wiki/concepts/curriculum/IB Diploma Programme.md",
@@ -6326,6 +6336,18 @@
     ]
   },
   {
+    "title": "Man-Computer Symbiosis",
+    "type": "concept",
+    "path": "wiki/concepts/educational-technology/Man-Computer Symbiosis.md",
+    "aliases": [
+      "人机共生",
+      "man-computer symbiosis",
+      "human-computer symbiosis",
+      "人机协同",
+      "人机紧密耦合"
+    ]
+  },
+  {
     "title": "Marginal Gains Hypothesis",
     "type": "concept",
     "path": "wiki/concepts/educational-technology/Marginal Gains Hypothesis.md",
@@ -8959,6 +8981,15 @@
     ]
   },
   {
+    "title": "Technological Republic",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Technological Republic.md",
+    "aliases": [
+      "技术共和国",
+      "technological republic"
+    ]
+  },
+  {
     "title": "Technology Driver Hypothesis",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Technology Driver Hypothesis.md",
@@ -9501,6 +9532,14 @@
       "substantive content theory",
       "学科本位理论",
       "学科基础理论"
+    ]
+  },
+  {
+    "title": "Discourse",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/Discourse.md",
+    "aliases": [
+      "话语"
     ]
   },
   {
@@ -11045,6 +11084,17 @@
     ]
   },
   {
+    "title": "Innovation Desert",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Innovation Desert.md",
+    "aliases": [
+      "创新荒漠",
+      "创新荒漠化",
+      "innovation desert",
+      "innovation deserts"
+    ]
+  },
+  {
     "title": "Institutionalising Social Learning",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Institutionalising Social Learning.md",
@@ -12144,6 +12194,17 @@
     "path": "wiki/concepts/sociology-of-education/The Shock of the Elite.md",
     "aliases": [
       "精英冲击"
+    ]
+  },
+  {
+    "title": "Total Institution",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Total Institution.md",
+    "aliases": [
+      "全控机构",
+      "全控组织",
+      "总体性机构",
+      "total institutions"
     ]
   },
   {
@@ -16198,6 +16259,16 @@
     ]
   },
   {
+    "title": "Autobiographical Analysis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Autobiographical Analysis.md",
+    "aliases": [
+      "自传分析",
+      "自传式叙事分析",
+      "autobiographical narrative analysis"
+    ]
+  },
+  {
     "title": "Autoethnography",
     "type": "method",
     "path": "wiki/methods/qualitative/Autoethnography.md",
@@ -16357,6 +16428,16 @@
       "opportunity sampling",
       "偶遇抽样",
       "accidental sampling"
+    ]
+  },
+  {
+    "title": "Conversation Analysis",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Conversation Analysis.md",
+    "aliases": [
+      "会话分析",
+      "conversational analysis",
+      "课堂会话分析"
     ]
   },
   {
@@ -21217,6 +21298,15 @@
     ]
   },
   {
+    "title": "Erving Goffman",
+    "type": "person",
+    "path": "wiki/persons/global/Erving Goffman.md",
+    "aliases": [
+      "厄文·戈夫曼",
+      "欧文·戈夫曼"
+    ]
+  },
+  {
     "title": "Gerard Renaud",
     "type": "person",
     "path": "wiki/persons/global/Gerard Renaud.md",
@@ -22489,6 +22579,18 @@
     ]
   },
   {
+    "title": "Alexander Karp",
+    "type": "person",
+    "path": "wiki/persons/us/Alexander Karp.md",
+    "aliases": [
+      "亚历山大·卡普",
+      "Alexander C. Karp",
+      "Alex Karp",
+      "A. C. Karp",
+      "Karp, A. C."
+    ]
+  },
+  {
     "title": "Alfred Schutz",
     "type": "person",
     "path": "wiki/persons/us/Alfred Schutz.md",
@@ -23085,6 +23187,18 @@
     ]
   },
   {
+    "title": "J. C. R. Licklider",
+    "type": "person",
+    "path": "wiki/persons/us/J. C. R. Licklider.md",
+    "aliases": [
+      "约瑟夫·利克莱德",
+      "J.C.R. Licklider",
+      "Joseph Licklider",
+      "Joseph Carl Robnett Licklider",
+      "Licklider, J. C. R."
+    ]
+  },
+  {
     "title": "J. David Creswell",
     "type": "person",
     "path": "wiki/persons/us/J. David Creswell.md",
@@ -23415,6 +23529,17 @@
       "斯梅尔塞",
       "Smelser, N.",
       "Neil J. Smelser"
+    ]
+  },
+  {
+    "title": "Nicholas Zamiska",
+    "type": "person",
+    "path": "wiki/persons/us/Nicholas Zamiska.md",
+    "aliases": [
+      "尼古拉斯·扎米斯卡",
+      "Nicholas W. Zamiska",
+      "N. W. Zamiska",
+      "Zamiska, N. W."
     ]
   },
   {
@@ -31559,6 +31684,11 @@
     "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
   },
   {
+    "title": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md"
+  },
+  {
     "title": "Argument_Arnove_2009_WorldSystems",
     "type": "argument",
     "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
@@ -31712,6 +31842,11 @@
     "title": "Argument_Karp_Zamiska_2025_Technological_Republic",
     "type": "argument",
     "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md"
+  },
+  {
+    "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01",
+    "type": "argument",
+    "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch01.md"
   },
   {
     "title": "Argument_Kelly_Licona_2018_EpistemicPractices",

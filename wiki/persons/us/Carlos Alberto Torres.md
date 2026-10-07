@@ -8,7 +8,7 @@ summary: "阿根廷裔批判教育社会学者，加州大学洛杉矶分校杰�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Compensatory Legitimation]]"
   - "[[Financial-Intellectual Complex]]"
+  - "[[Discourse]]"
   - "[[Global Citizenship]]"
   - "[[Document]]"
   - "[[Popular Education]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-19
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Carlos Alberto Torres
@@ -82,7 +83,7 @@ updated: 2026-10-02
 > [!person-profile] 人物档案
 > - **身份位置** 阿根廷裔[[Critical Pedagogy|批判教育学]]与教育政治社会学者，加州大学洛杉矶分校（UCLA）杰出教授，[[Paulo Freire|弗莱雷]]研究所（Paulo Freire Institute）创始主任。
 > - **核心角色** 将[[Paulo Freire|弗莱雷]]的批判教育学传统、新马克思主义国家理论与政治经济学深度整合，为比较教育学奠定拉美外围国家视角的宏观政治社会学[[Analytic Framework|分析框架]]。
-> - **代表贡献** 提出[[Participatory Action Research|参与式行动研究]]（PAR）五项原则（1992）；系统阐发外围国家的[[Conditioned State Theory|受限国家理论]]；揭示拉美[[State Corporatism|国家法团主义]]下的教育[[Compensatory Legitimation|补偿性合法化]]机制；批判新自由主义全球化与[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的话语垄断。
+> - **代表贡献** 提出[[Participatory Action Research|参与式行动研究]]（PAR）五项原则（1992）；系统阐发外围国家的[[Conditioned State Theory|受限国家理论]]；揭示拉美[[State Corporatism|国家法团主义]]下的教育[[Compensatory Legitimation|补偿性合法化]]机制；批判新自由主义全球化与[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的[[Discourse|话语]]垄断。
 
 > [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论国家理论与教育政策诊断
 > 界定教育的“真实”问题以及最适宜的解决方案，在很大程度上取决于支撑、证成并指引教育诊断与方案提议的国家理论。然而，正如[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy, 1992）所指出的，大多数教育问题分析都暗含着一种国家理论，但在教育研究与实践中，这种理论的根本前提却极少被识别或阐明。对我们自身的理论假定保持自我审思，是开展扎实学术研究的前提条件。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 73)]]
@@ -132,7 +133,7 @@ updated: 2026-10-02
 > [!influence-path] 影响路径
 > - **理论路径** 融合法兰克福学派[[Critical Theory|批判理论]]、葛兰西[[Hegemony|文化霸权]]学说与拉美[[Dependency Theory|依附论]]，构建起剖析[[Development Education|发展中国家教育]]政策与扩张困境的“[[Conditioned State Theory|受限国家]]”宏观政治社会学[[Analytic Framework|分析框架]]。
 > - **方法路径** 规范并推广[[Participatory Action Research|参与式行动研究]]（PAR）的政治导向与民众赋权原则，打破了将研究对象视作被动被测者的[[Positivism|实证主义]]主客二分传统。
-> - **政策批判路径** 深刻解构以[[World Bank|世界银行]]为代表的国际金融组织所推行的新自由主义[[Endogenous and Exogenous Privatisation|教育私有化]]话语，揭示[[Financial-Intellectual Complex|金融-智识复合体]]的技术官僚议程。
+> - **政策批判路径** 深刻解构以[[World Bank|世界银行]]为代表的国际金融组织所推行的新自由主义[[Endogenous and Exogenous Privatisation|教育私有化]][[Discourse|话语]]，揭示[[Financial-Intellectual Complex|金融-智识复合体]]的技术官僚议程。
 > - **学术建制与跨国传播** 依托 UCLA [[Paulo Freire|弗莱雷]]研究所与[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES），搭建全球[[Critical Pedagogy|批判教育学]]与[[Popular Education|民众教育]]学术网络，推动[[Global Citizenship|全球公民教育]]理念落地。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引

@@ -9,7 +9,7 @@ title: "Argument_Ryabyy_2024_Maneto"
 argument_key: "Argument_Ryabyy_2024_Maneto"
 argument_display_title: "A horse derby, a missed connection, and hiking through the Alps: John Dewey's 1928 visit to the Soviet Union"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Learning by Doing]]"
   - "[[Dialogue in Education]]"
   - "[[Progressive Education]]"
+  - "[[Discourse]]"
   - "[[Reliability]]"
   - "[[Grandes Ecoles]]"
   - "[[Hypothesis]]"
@@ -198,7 +199,7 @@ citation_aliases:
 >
 > "民主"（democracy）这个词不是随意选的。Shatskii 知道 Dewey 的整个教育哲学建立在"教育与民主"的关系之上——在 Democracy & Education(1916)中，Dewey 将民主界定为一种"联合生活方式"而不仅是政治制度。Shatskii 在告别信中使用"民主"一词，是在用 Dewey 的语言向他致敬，同时也在传递一种政治愿景——尽管这愿景在斯大林时代的苏联已经变得越来越不可能。
 >
-> > 这一步骤的关键在于：它展示了这次访问中真正的思想交流——不是单向的"美国人教苏联人"，而是两个已经各自实践了十多年进步教育的改革者之间的对话。他们用的是同一种"语言"（进步教育的话语），但他们所处的政治条件完全不同。
+> > 这一步骤的关键在于：它展示了这次访问中真正的思想交流——不是单向的"美国人教苏联人"，而是两个已经各自实践了十多年进步教育的改革者之间的对话。他们用的是同一种"语言"（进步教育的[[Discourse|话语]]），但他们所处的政治条件完全不同。
 >
 > ---
 >

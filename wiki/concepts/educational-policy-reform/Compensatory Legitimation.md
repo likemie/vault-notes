@@ -8,10 +8,10 @@ aliases:
 summary: "资本主义或法团主义国家在面对资本积累矛盾与深刻社会不平等引发的合法性赤字时，将教育扩张（特别是成人教育、扫盲与入学机会扩增）作为代偿性政治整合机制，以在不触动阶级支配结构的前提下换取大众顺从与政治霸权维护"
 type: concept
 domain: "educational-policy-reform"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/educational-policy
   - political-economy
@@ -20,6 +20,7 @@ tags:
   - corporatism
 related_concepts:
   - "[[Social Science as Legitimation Alibi]]"
+  - "[[Discourse]]"
   - "[[Pact of Domination]]"
   - "[[Dual School System]]"
   - "[[Import Substitution Industrialisation]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Compensatory Legitimation
@@ -81,7 +82,7 @@ updated: 2026-10-05
 > | 维度 | 补偿性合法化（Compensatory Legitimation） | 专家政治[[Social Science as Legitimation Alibi\|合法化借口]]（Legitimation Alibi） | 民主赋权再分配（Democratic Redistribution） |
 > |---|---|---|---|
 > | **主导动因** | 阶级矛盾激化、群众反抗风险上升与国家统合危机 | 技术官僚寻求政策决策的科学中立权威证明 | 基层社会运动与大众对社会正义的真实争夺 |
-> | **核心举措** | 扩大入学率、开展群众性成人教育、宣示教育平等 | 委托智库量化建模、援引计量经济学与预测公式 | 消除双轨分选、缩小城乡校际资源鸿沟、赋予话语权 |
+> | **核心举措** | 扩大入学率、开展群众性成人教育、宣示教育平等 | 委托智库量化建模、援引计量经济学与预测公式 | 消除双轨分选、缩小城乡校际资源鸿沟、赋予[[Discourse\|话语]]权 |
 > | **结构影响** | 维系既有阶级霸权与不平等经济再生产 | 掩盖政策价值偏见，将政治问题技术化 | 动摇特权阶层垄断，重塑国家权力结构 |
 
 ---

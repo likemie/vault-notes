@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 140
+method_related_count: 141
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -77,6 +77,7 @@ related_concepts:
   - "[[Validity as Inferences]]"
   - "[[Evidence Standards]]"
   - "[[Recommendations for Practice]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Complexity Theory]]"
@@ -404,7 +405,7 @@ updated: 2026-10-07
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 阐明[[Complexity Theory|复杂性理论]]对受控实验与 RCT 黄金标准的四大[[Epistemology|认识论]]解构、Kuhn 复杂性五大公理、[[Unit of Analysis|分析单位]]转向以及概率因果、[[Counterfactual|反事实]]、[[Screening Off|筛选隔离]]等[[Causality|因果推断]]全景。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 阐明[[World Bank|世界银行]]（World Bank）如何将其专属[[Policy Brokerage|政策中介]]工具库（最佳实践组合）建立在随机对照试验（RCTs）的证据基石之上，并剖析微观实验技术在跨国循证放贷与结构调整治理中发挥的自指性合法化功能。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill (2021)]] — 深度复盘英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）十年来资助超 200 项大规模教育 RCT 的制度演进，系统剖析独立评估人机制、[[Preregistration|预注册]][[Statistical Analysis Plan|统计分析计划]]（SAP）、[[Implementation and Process Evaluation|实施与过程评估]]（IPE）整合、[[School Choice|学校选择]]与[[Teacher Choices|教师选择]]新设计，以及应对[[Effect Size|效应量]]衰减与不确定性报告的方法学突破。
-> - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] — 实证解剖英格兰[[Evidence Era|证据时代]]将临床医学 RCT 奉为[[Rationalized Myth|合理化神话]]的政策话语建构，剖析从研究设计到政策转化中[[Epistemological Coherence|认识论连贯性]]的断裂，以及由此衍生的依策造据风险。
+> - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] — 实证解剖英格兰[[Evidence Era|证据时代]]将临床医学 RCT 奉为[[Rationalized Myth|合理化神话]]的政策[[Discourse|话语]]建构，剖析从研究设计到政策转化中[[Epistemological Coherence|认识论连贯性]]的断裂，以及由此衍生的依策造据风险。
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 系统反驳认知负荷学派对探究教学缺乏纯粹实验室 RCT 的指责，援引 Lazonder & Harmsen (2016) 元分析实证检验确立 RCT 与准实验在效应量量级上无显著差异，基于 Schuster et al. (2018) 课堂严格 RCT 证实探究教学的深层概念优势，并为复杂教育情境中涵盖多元组件的“项目式研究”（Program-based RCTs）之[[Ecological Validity|生态效度]]与常态对照组（[[Business as Usual|BAU]]）设计提供方法学辩护（[[Argument_DeJong_2023_ERR|De Jong et al., 2023, pp. 4–6]]）。
 > - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne (2003)]] — 系统考证美国联邦成文法（NCLB 与 ESRA 2002）及 [[What Works Clearinghouse|WWC]] 创设初期的 RCT 制度化历史，揭示行政规程对随机实验的强烈惯性偏好（如 [[Institute of Education Sciences|IES]] 首期因果资助 100% 为随机实验），并深入论述学术共同体如何依托 NRC 六大原则与国会质证推动联邦立法打破单一 RCT 垄断，确立问题导向的方法适配观。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统评述[[Metascience|元科学]]（Metascience）中运用 RCT 与部分随机化抽签资助试验（Lottery-based Allocation）评估同行评议一致性与防范风险规避的实证探索，推动将因果实验设计应用于国家科学资助机制本身的制度优化。

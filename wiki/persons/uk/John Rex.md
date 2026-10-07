@@ -9,10 +9,10 @@ summary: "英国著名社会学家，华威大学荣休教授，冲突理论与�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1925"
 died: "2011"
 lifespan: "1925–2011"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Interpretivism]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Cultural Capital]]"
   - "[[Interpretive Paradigm]]"
 related_theories:
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # John Rex
@@ -101,7 +102,7 @@ updated: 2026-10-01
 
 > [!influence-path] 影响路径
 > - **方法论反思路径** 构成了对素朴[[Interpretivism|诠释主义]]、纯粹[[Phenomenology\|现象学]]与相对主义[[Ethnography\|民族志]]的最强有力制衡，确立了“研究者必须超越被研究者自我报告”的批判性原则。
-> - **教育批判社会学** 深刻启迪了教育研究者：在课堂观察中不仅要记录学生的抱怨或教师的表态，更要穿透当事人的主观话语，考察再生产机制、[[Cultural Capital\|文化资本]]分配与意识形态欺骗。
+> - **教育批判社会学** 深刻启迪了教育研究者：在课堂观察中不仅要记录学生的抱怨或教师的表态，更要穿透当事人的主观[[Discourse|话语]]，考察再生产机制、[[Cultural Capital\|文化资本]]分配与意识形态欺骗。
 > - **种族与移民理论** 开拓了英国族群关系社会学，奠定了住房阶级、制度性歧视与后殖民移民研究的理论传统。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引

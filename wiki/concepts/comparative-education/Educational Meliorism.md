@@ -7,7 +7,7 @@ aliases:
 summary: "源自拉丁语更好之意且以改善社会与人类境况为根本导向的探究旨趣，是贯穿19世纪比较与国际教育发端的统治性认识论母题"
 type: concept
 domain: "comparative-education"
-related_count: 70
+related_count: 71
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Bildung]]"
   - "[[Scientism]]"
+  - "[[Discourse]]"
   - "[[Hypothesis]]"
   - "[[Falsification]]"
   - "[[Intangible Spiritual Forces]]"
@@ -96,7 +97,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Educational Meliorism
@@ -161,7 +162,7 @@ updated: 2026-10-02
 > [!contrast-table] 概念辨析
 > | 维度 | 教育改良主义（Educational Meliorism） | 政策借用（Policy Borrowing） | [[Value Neutrality\|价值无涉]]实证论（[[VALUE Rubrics\|VALUE]]-Free [[Positivism]]） | 方法论拜物教（Methodological Fetishism） |
 > |------|--------------------------------------|-----------------------------|---------------------------------------|-----------------------------------------|
-> | **核心旨趣** | 以实现人类福祉、社会善治与制度改进为探究的先验合法性 | 探讨政策决策者在立法博弈中策略性动用外部经验的话语过程 | 追求剔除研究者主观价值，寻求普遍共变的因果法则 | 狭隘地将科学等同于定量建模，崇拜数理技术工具 |
+> | **核心旨趣** | 以实现人类福祉、社会善治与制度改进为探究的先验合法性 | 探讨政策决策者在立法博弈中策略性动用外部经验的[[Discourse\|话语]]过程 | 追求剔除研究者主观价值，寻求普遍共变的因果法则 | 狭隘地将科学等同于定量建模，崇拜数理技术工具 |
 > | **[[Epistemology\|认识论]]动力** | 应对现代性危机、启蒙人道主义关怀与国家政治建制 | 解决本土政客的正当性赤字、寻求改革的合法化背书 | [[Hypothesis\|假设]]演绎检验、经验数据[[Falsification\|证伪]]与中立规律发现 | 官僚问责驱动、指标量化竞赛与跨国排名竞争 |
 > | **对事实的态度** | 经验事实调查全面从属于伦理规范与全人道德[[Bildung\|教化]] | 战略性抽取有利于本土改革论证的特定实绩或条文 | 事实与价值截然二分，追求价值中立的数据集演算 | 事实被降维为可测量的标准化脱水指标 |
 > | **代表人物** | [[Marc-Antoine Jullien\|朱利安]]、[[Victor Cousin\|库森]]、[[Horace Mann\|曼]]、斯托、巴纳德 | 菲利普斯、厄克斯、施泰纳-汉姆西 | [[Harold Noah\|诺亚]]、[[Max Eckstein\|埃克斯坦]]、[[George Bereday\|贝雷迪]] | 战后行为主义实证派学者、现代跨国测试官僚 |
@@ -183,7 +184,7 @@ updated: 2026-10-02
 >   深嵌于 19 世纪大革命创伤、普鲁士耶拿惨败重建、美利坚独立后自由共和体制维系等重大危机之中，充当现代民族国家重构公共领域与社会整合的核心纽带。（pp. 24–26, 31–32）
 > - **唯心主义、历史整体主义与[[Intangible Spiritual Forces\|无形精神力量]]的共生互嵌（Idealist & Holistic Meliorism）**
 >   在[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]等古典历史比较学派手中，改良主义与唯心主义哲学（思想观念支配人类行动）、历史整体主义以及不可捉摸的精神力量紧密交织；坚信教育是推动文明进步与道德净化的崇高事业，比较探究的终极抱负在于通过对文化理想与无形力量的人文洞察，促进民族间的精神理解，并在剧烈政治危机中捍卫民主制度的人道主义根基。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–60)]]
-> - **四重论述代际演进与批判解放型改良主义（Four Discourse Generations & Critical-Emancipatory Meliorism）**
+> - **四重论述代际演进与批判解放型改良主义（Four [[Discourse]] Generations & Critical-Emancipatory Meliorism）**
 >   [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）以两百年学科史为跨度，系统梳理了改良主义形态的四重历史代际演变：从第一代[[Enlightenment|启蒙运动]]下[[Scholiocentric Approach|以校为中心]]（scholiocentric）的“道德教育改良主义”，到第二代萨德勒与坎德尔的“历史-文化哲学有机改良主义”，再到第三代被战[[Postpositivism|后实证主义]]异化为服务国家规划与技术援助的“行政治理[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）”；最终在 1970–1990 年代第四代批判冲突[[Paradigm|范式]]（Carnoy, Arnove, Paulston）中升华为“批判解放型改良主义（Critical-Emancipatory Meliorism）”——打破国家中立[[Hypothesis|假设]]，将改良主义转化为解构资本主义意识形态再生产、揭露文化帝国主义并赋权被压迫阶级参与社会变革的批判解放工程。（pp. 139–156）
 
 上述核心要素如何在大西洋两岸分化演进并熔铸为现代比较认识论问题域，可通过以下逻辑图清晰呈现：
@@ -234,7 +235,7 @@ updated: 2026-10-02
 > **外部实绩[[Transfer Translation Transformation\|转译]]为击溃本土保守派的合法化武器** 霍勒斯·曼身处美利坚联邦分权与城镇自治语境，面对保守学监联合会与正统教会对公税公学的猛烈攻击，战略性抽取欧洲专制君主国公立学校的卓越教学与人道纪律实绩，以“专制君主尚能办好公学、自由共和国任由公民愚昧岂非文明耻辱”发起降维反诘，成功为争议改革确立不可撼动的政治合法化依据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 31–34)]]
 
 > [!claim] Kaloyannaki, P. & Kazamias, A. M.
-> **权力结构分流催生改良主义的双重机制演进** 卡洛扬纳基与卡扎米亚斯总结指出，政治体制的权力结构直接决定了外部知识的处理方式：法国官僚集权体制促成了行政精英的法规直接移植，而北美分权民主博弈则迫使改革者将外部经验转译为公共说服的话语资本；两种模式互为镜像，共同丰富了改良主义的实践形态。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 33–34)]]
+> **权力结构分流催生改良主义的双重机制演进** 卡洛扬纳基与卡扎米亚斯总结指出，政治体制的权力结构直接决定了外部知识的处理方式：法国官僚集权体制促成了行政精英的法规直接移植，而北美分权民主博弈则迫使改革者将外部经验转译为公共说服的[[Discourse|话语]]资本；两种模式互为镜像，共同丰富了改良主义的实践形态。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 33–34)]]
 
 ---
 
@@ -380,7 +381,7 @@ updated: 2026-10-02
 
 > [!warning] 适用局限
 > - **警惕滑向技术官僚主义的“处方开具”** 改良主义若脱离了批判性反思与对本土权力结构的体察，极易退化为简单开具药方（prescription-mongering）的浅层[[Pragmatic Paradigm\|实用主义]]。
-> - **警惕沦为跨国强权推销“最佳实践”的遮羞布** 在当代全球教育治理中，若缺乏对全球不平等权力结构的批判，改良话语可能被国际金融机构与霸权国家利用，成为强推新自由主义标准化政策的[[Disciplina and Doctrina\|规训]]工具。
+> - **警惕沦为跨国强权推销“最佳实践”的遮羞布** 在当代全球教育治理中，若缺乏对全球不平等权力结构的批判，改良[[Discourse|话语]]可能被国际金融机构与霸权国家利用，成为强推新自由主义标准化政策的[[Disciplina and Doctrina\|规训]]工具。
 
 ---
 

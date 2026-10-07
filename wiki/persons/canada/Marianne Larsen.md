@@ -7,7 +7,7 @@ summary: "加拿大比较教育与教育史学家，西安大略大学荣休教�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Space Production]]"
+  - "[[Discourse]]"
   - "[[Policy Borrowing]]"
   - "[[Protean Episteme]]"
 related_theories:
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Marianne Larsen
@@ -103,7 +104,7 @@ updated: 2026-10-01
 ## 核心思想
 
 > [!claim] 核心主张
-> 历史绝非被动储存于档案馆中的死寂事实，而是每时每刻都在塑造当下政策可能性与话语边界的权力/知识[[Champ|场域]]；比较教育学若沦为现时性量化指标与[[Policy Borrowing|政策借用]]公关工具，就会在实质上蜕变为患上“[[Historical Amnesia|历史健忘症]]”的技术附庸。唯有借助历史批判谱系学与多元方法论，将历史维度的深层反思注入跨国比较之中，比较教育才能真正打破对新自由主义通用模型的迷信，发挥解构霸权与拓展社会公正的智识功能。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 155–156)]]
+> 历史绝非被动储存于档案馆中的死寂事实，而是每时每刻都在塑造当下政策可能性与[[Discourse|话语]]边界的权力/知识[[Champ|场域]]；比较教育学若沦为现时性量化指标与[[Policy Borrowing|政策借用]]公关工具，就会在实质上蜕变为患上“[[Historical Amnesia|历史健忘症]]”的技术附庸。唯有借助历史批判谱系学与多元方法论，将历史维度的深层反思注入跨国比较之中，比较教育才能真正打破对新自由主义通用模型的迷信，发挥解构霸权与拓展社会公正的智识功能。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 155–156)]]
 
 ---
 

@@ -6,10 +6,10 @@ aliases:
 summary: "Maxwell 质性效度类型之一，指研究者描述的事实准确性——不得是编造的、选择性的或扭曲的，在此意义上效度包含了信度"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-methods
   - theme/validity
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Qualitative Validity]]"
   - "[[Reliability]]"
+  - "[[Discourse]]"
   - "[[Interpretive Validity]]"
   - "[[Theoretical Validity]]"
   - "[[Construct]]"
@@ -28,7 +29,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-10-07
 ---
 # Descriptive Validity
 
@@ -41,7 +42,7 @@ updated: 2026-06-23
 
 > [!concept-lens] 概念透镜
 > - **含义** 描述效度是效度诸类型中最基础的一种——在研究者进入任何解释、理论化或评价之前，首先必须回答：我对所发生事实的描述是否准确？
-> - **用途** 描述效度为[[Qualitative Research\|质性研究]]提供一个**事实底线**——即使质性研究拥抱多重解释和主观意义，它仍需要确保其所描述的事件、话语和行为在**事实层面**是正确的。
+> - **用途** 描述效度为[[Qualitative Research\|质性研究]]提供一个**事实底线**——即使质性研究拥抱多重解释和主观意义，它仍需要确保其所描述的事件、[[Discourse|话语]]和行为在**事实层面**是正确的。
 > - **边界** 描述效度关注的是 Blumenfeld-Jones (1995) 所称的"真实"（truth）——客观上发生了什么事实。它与[[Interpretive Validity\|解释效度]]不同：后者关注的是这些事实对参与者而言的**主观意义（fidelity——忠实于被研究者的主观体验）**。描述效度也与 Glaser & Strauss (1967) 的"可信性"（credibility）概念相呼应。
 
 ---

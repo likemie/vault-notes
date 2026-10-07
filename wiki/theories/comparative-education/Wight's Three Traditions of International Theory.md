@@ -8,7 +8,7 @@ aliases:
 summary: "马丁·怀特将国际关系思想归纳为现实主义（马基雅维利）、理性主义（格劳秀斯）和革命主义（康德）三大传统，分别以权力、权威和武力为核心概念，克莱里德斯将其引入比较教育以解构学科的注意力议程与知识生产"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 45
+theory_related_count: 46
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Development Education]]"
   - "[[International Education]]"
   - "[[Post-Fordism]]"
+  - "[[Discourse]]"
   - "[[Reference Society]]"
   - "[[Policy Entrepreneur]]"
   - "[[Global Citizenship]]"
@@ -127,7 +128,7 @@ updated: 2026-10-07
 >   > [!evidence-grid]- 证据
 >   > - **殖民地部门设立** 门罗与[[Isaac Kandel\|坎德尔]]在哥伦比亚大学参与美国对菲律宾和波多黎各的殖民教育规划；伦敦大学教育学院设立殖民地系以培训殖民地教育官僚 (p. 421)。
 >   > - **冷战后的“[[Development Turn in Comparative Education\|发展转向]]”** 美苏争夺独立国家忠诚期间，比较教育通过证明[[Development Education|发展中国家教育]]“滞后”来为地缘援助与现代化干预开辟合法性，比较与[[International Education\|国际教育]]学会增添相应词汇反映了该转向 (p. 421)。
->   > - **建制合流与新自由主义延续** [[World Bank\|世界银行]]和[[OECD\|经合组织]]等多边组织将教育视作[[Human Capital Theory\|人力资本]]投资，制造代表[[Post-Fordism|后福特主义]]效率的“最佳实践”话语，延续了全球支配关系 (p. 422)。
+>   > - **建制合流与新自由主义延续** [[World Bank\|世界银行]]和[[OECD\|经合组织]]等多边组织将教育视作[[Human Capital Theory\|人力资本]]投资，制造代表[[Post-Fordism|后福特主义]]效率的“最佳实践”[[Discourse|话语]]，延续了全球支配关系 (p. 422)。
 > - **推导** 比较教育在现实主义下演变为一种现代主义的工具，驱使国家出于地缘竞争和工业焦虑疯狂观摩“[[Reference Society\|参考社会]]”，同时也使比较教育沦为列强推行殖民同化和地缘干预的“文明化工程”。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 419–422]])
 
 > [!proposition-chain] 核心命题三｜理性主义的制度正当性假设将比较教育重塑为多行动者网络[[Governing at a Distance\|远处治理]]的技术中介与促进和平的[[International Mind\|国际心智]]平台
@@ -182,7 +183,7 @@ updated: 2026-10-07
 
 > [!theory-stance] [[Epistemology\|认识论]]立场
 > - **[[Ontology\|本体论]]** 国际社会并非静止的地理空间，而是由权力斗争（现实主义）、法律规则（理性主义）和压迫与解放（[[Revolutionism\|革命主义]]）的多重本体建构而成的关系网络。
-> - **认识论** 否认存在中立的比较教育学术，任何比较实践都是地缘关系与政治哲学的投影；主张通过话语的“在场”与“缺席”解构学科知识的权力本质。
+> - **认识论** 否认存在中立的比较教育学术，任何比较实践都是地缘关系与政治哲学的投影；主张通过[[Discourse|话语]]的“在场”与“缺席”解构学科知识的权力本质。
 > - **方法含义** 要求研究者抛弃[[Methodological Statism\|方法论国家主义]]，将教育转移与流动的分析放置于超国家资本和地缘支配的宏观格局中；提倡运用历史解构、批判性[[Discourse Analysis\|话语分析]]和地缘政治分析开展研究。
 > - **不能直接推出的东西** 本理论不提供关于“如何改良教育体系”的直接技术方案，也不提供某种具有普适性的最佳政策转移模式。
 

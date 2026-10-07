@@ -7,10 +7,10 @@ aliases:
 summary: "批判性认识论与认知科学概念，指研究者与学习者持续审视日常语言、前科学常识预设及算法表面流畅性以维持认知主体性与深层推理的心智机制。"
 type: concept
 domain: "educational-philosophy"
-related_count: 48
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - epistemological-vigilance
   - epistemology
@@ -21,11 +21,13 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Scientific Method]]"
   - "[[Epistemic Friction]]"
   - "[[Cognitive Offloading]]"
   - "[[Reliability]]"
   - "[[Critical Thinking]]"
+  - "[[Discourse]]"
   - "[[Source Evaluation]]"
   - "[[Creativity]]"
   - "[[Surface and Deep Learning]]"
@@ -76,7 +78,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Epistemological Vigilance
@@ -86,7 +88,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> [[Epistemology\|认识论]]警觉（Epistemological / Epistemic Vigilance）指认知主体（科学研究者或学习者）在[[Knowledge Production\|知识生产]]、信息接收与人机协同交互全程中，**持续对日常语言、前科学自发常识以及技术算法的表面语义流畅性保持的主动质疑、批判审视与事实核查机制**。在社会[[Scientific Method\|科学方法]]论中，它体现为研究者对抗日常概念渗透与对象化预设的终身智识实践；在认知科学与教育人工智能中，它体现为学习者抵御生成式算法误导、维持“[[Epistemic Friction\|认识论摩擦]]”以防范有害[[Cognitive Offloading\|认知卸载]]的核心心智防线。[[Argument_Eacott_2015_EPT\|(Eacott, 2015, p. 322)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 10–11)]]
+> [[Epistemology\|认识论]]警觉（Epistemological / Epistemic Vigilance）指认知主体（科学研究者或学习者）在[[Knowledge Production\|知识生产]]、信息接收与[[Man-Computer Symbiosis|人机协同]]交互全程中，**持续对日常语言、前科学自发常识以及技术算法的表面语义流畅性保持的主动质疑、批判审视与事实核查机制**。在社会[[Scientific Method\|科学方法]]论中，它体现为研究者对抗日常概念渗透与对象化预设的终身智识实践；在认知科学与教育人工智能中，它体现为学习者抵御生成式算法误导、维持“[[Epistemic Friction\|认识论摩擦]]”以防范有害[[Cognitive Offloading\|认知卸载]]的核心心智防线。[[Argument_Eacott_2015_EPT\|(Eacott, 2015, p. 322)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 10–11)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向主体在面对外部信息与中介工具时，主动评估证据[[Reliability\|可靠性]]、识别概念预设与检验逻辑自洽性的动态反思倾向。
@@ -94,7 +96,7 @@ updated: 2026-09-22
 > - **边界** 区别于对一切知识持怀疑态度的虚无主义，它旨在通过严格的标准校准与[[Triangulation\|三角互证]]确立可靠认识；同时超越事后静态的质检操作，是一种内嵌于认知监控与探究活动全过程的能动性状态。
 
 > [!citation-card] Bourdieu et al. 论社会学反思中的认识论警觉
-> 认识论警觉在社会科学中尤为必要，因为自发社会学家的日常语言与意见，与研究者的科学话语之间的界限比任何其他地方都更为模糊。[[Argument_Eacott_2015_EPT\|(Bourdieu et al., 1968/1991, 引自 Eacott, 2015, p. 322)]]
+> 认识论警觉在社会科学中尤为必要，因为自发社会学家的日常语言与意见，与研究者的科学[[Discourse|话语]]之间的界限比任何其他地方都更为模糊。[[Argument_Eacott_2015_EPT\|(Bourdieu et al., 1968/1991, 引自 Eacott, 2015, p. 322)]]
 >
 > *Epistemological vigilance is particularly necessary in the social sciences, where the separation between the everyday language and opinion of the spontaneous sociologist and the scientific discourse of the researcher is more blurred than elsewhere.*
 
@@ -120,7 +122,7 @@ updated: 2026-09-22
 > [!contrast-table] [[Epistemology\|认识论]]警觉在跨学科语境中的[[Construct\|构念]]辨析
 > | 比较维度 | 社会学反思方法论语境 | 认知与演化科学语境 | [[Generative Artificial Intelligence\|生成式 AI]] 与人机学习科学语境 |
 > |---|---|---|---|
-> | **核心分析主体** | 社会科学研究者、教育行政学者 | 人类个体、信息接收者与沟通者 | 人机协同中的探究者、学生 |
+> | **核心分析主体** | 社会科学研究者、教育行政学者 | 人类个体、信息接收者与沟通者 | [[Man-Computer Symbiosis\|人机协同]]中的探究者、学生 |
 > | **警觉针对的核心客体** | 日常惯用词、常识概念（[[Doxa]]）、制度化神圣标签 | 欺骗性言论、不可靠信息源、虚假陈述 | 模型[[AI Hallucination\|幻觉]]（Hallucination）、算法偏见、表面语义流畅性 |
 > | **内在认知与社会机制** | 参与性对象化、对对象建构过程的持续批判 | 认知[[Trust Calibration\|信任校准]]、信念修正与反省性推理 | [[Metacognition\|元认知]]监控、认识论摩擦维持、提示词迭代核查 |
 > | **防御失败的典型后果** | 沦为既有权力结构与管理主义的合法化工具 | 陷入认知盲从与错误信念传播 | 触发有害的[[Cognitive Offloading\|认知卸载]]、批判思维退化与心智外包 |
@@ -163,7 +165,7 @@ updated: 2026-09-22
 > 该命题揭示了社会科学家与研究对象之间深层的具身嵌入关系，指出科学研究的最大敌人并非客观技术的匮乏，而是对社会世界的“熟悉性”所滋生的理所当然感。
 
 > [!claim] [[Scott Eacott\|Eacott, S.]]
-> **日常语言侵蚀与常识性神圣标签批判** 社会科学学者在社会化进程中天然内化了客观结构，因而极易以未经反思的常识视角（[[Doxa]]）建构研究对象。以教育行政为例，“领导力”被树立为不可触碰的神圣标签，大量研究直接借用“质量”、“改进”、“有效”等日常管理话语制造虚假的科学感，而未追问其背后的权力利益分配。[[Epistemology\|认识论]]警觉要求研究者不仅分析对象，更要将“建构对象的过程本身作为对象”，抵抗常识的持续回潮。[[Argument_Eacott_2015_EPT\|(Eacott, 2015, pp. 322–324)]]
+> **日常语言侵蚀与常识性神圣标签批判** 社会科学学者在社会化进程中天然内化了客观结构，因而极易以未经反思的常识视角（[[Doxa]]）建构研究对象。以教育行政为例，“领导力”被树立为不可触碰的神圣标签，大量研究直接借用“质量”、“改进”、“有效”等日常管理[[Discourse|话语]]制造虚假的科学感，而未追问其背后的权力利益分配。[[Epistemology\|认识论]]警觉要求研究者不仅分析对象，更要将“建构对象的过程本身作为对象”，抵抗常识的持续回潮。[[Argument_Eacott_2015_EPT\|(Eacott, 2015, pp. 322–324)]]
 
 > [!claim] [[Pierre Bourdieu\|Bourdieu, P.]]
 > **超越[[Positivism\|实证主义]]无辜幻想的对象化自觉** [[Positivism\|实证主义]]对“认识论完美无辜状态”的幻想掩盖了科学研究的建构本质。真正的科学与伪科学的根本分水岭，不在于是否进行对象建构，而在于研究者是否清醒意识到自身的建构行为，并通过持续的认识论警觉与“参与性对象化”，努力掌控自身建构行为的性质及其不可避免产生的社会效应。[[Argument_Eacott_2015_EPT\|(Bourdieu et al., 1993/1999, 引自 Eacott, 2015, p. 323)]]
@@ -172,7 +174,7 @@ updated: 2026-09-22
 
 ### 命题二　认识论警觉是学习者化解算法表面流畅性迷思并抵御认知卸载的核心防线
 
-> [!concept-lens] 人机协同学习与高阶心智维持维度
+> [!concept-lens] [[Man-Computer Symbiosis|人机协同]]学习与高阶心智维持维度
 > 该命题阐明在[[Generative Artificial Intelligence\|生成式人工智能]]深度融入学习活动的背景下，认识论警觉是防止学生从“人机对话伙伴”滑向“被动心智外包”的关键调节[[Variable\|变量]]。
 
 > [!claim] Li, C.
@@ -204,7 +206,7 @@ updated: 2026-09-22
 > - **2013 — [[Epistemic Friction\|认识论摩擦]]理论拓展** Medina 提出认识论摩擦概念，指出维持生产性的认知阻力与多元质疑是形成抵抗性认识论与深层审思的基石。
 > - **2015 — 教育行政学批判应用** [[Argument_Eacott_2015_EPT\|Eacott (2015)]] 将其引入教育行政与领导力研究，批判该领域对“领导力”、“管理主义”等日常概念的未经反思的顺从，主张以认识论警觉重塑科学研究的智识凝视。
 > - **2026 — 人工智能与教育学习重构** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 针对 ChatGPT 在高等教育中的认知塑造，[[Systematic Review\|系统综述]] 67 项实证研究，将认识论警觉确立为学习者化解算法顺滑表象、防止有害[[Cognitive Offloading\|认知卸载]]并实现批判与创造协同增益的核心中介机制。
-> - **2026 — 科学教育与人机协同解释实践** [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] 将认识论警觉框架落地于初中科学人机协同解释课堂，提出“内容—信源—接收者”三维评估模型，实证揭示显性学科标准与反思提示语双轨支架如何驱动学生对 AI 多模态生成物展开持续审问与迭代修正。
+> - **2026 — 科学教育与[[Man-Computer Symbiosis|人机协同]]解释实践** [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] 将认识论警觉框架落地于初中科学人机协同解释课堂，提出“内容—信源—接收者”三维评估模型，实证揭示显性学科标准与反思提示语双轨支架如何驱动学生对 AI 多模态生成物展开持续审问与迭代修正。
 
 ---
 
@@ -249,7 +251,7 @@ updated: 2026-09-22
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 6)]] | 全球 67 项高等教育实证研究（2022–2025） | [[PRISMA]] [[Systematic Review\|系统综述]]与主题综合（[[Mixed Methods Appraisal Tool\|MMAT]] 评估） | [[Critical Thinking\|批判性思维]]赋能机制：事实核查与查错机制主题 | 19 项实证研究明确报告显性查错与[[Epistemology\|认识论]]怀疑激发批判性思维增长 | 纳入文献 87% MMAT $\ge 80\%$ | 证实教学情境中认识论警觉训练能有效转化为分析性思维 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 7)]] | 全球 67 项高等教育实证研究（2022–2025） | PRISMA 系统综述与主题综合（MMAT 评估） | 批判性思维风险机制：过度依赖与心智怠惰主题 | 21 项实证研究报告缺乏警觉导致直接复制粘贴与[[Cognitive Offloading\|认知卸载]] | — | 揭示非结构化环境中认识论警觉缺失带来的普遍思维退化 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 11)]] (引述 Archila et al., 2024) | 大学本科生科学写作课程 | 教学干[[Pilot Testing\|预实验]]与文本分析 | 对抗性红队测试（Red-teaming）与[[AI Hallucination\|幻觉]]识别 | 学生在[[Reflexivity\|反思性]]核查任务中主动识别出 14 处模型虚构[[Document\|文献]]与事实幻觉 | — | 证明结构化查错规程能将认识论警觉转化为可测量的核验行为 |
-> | [[Argument_Eacott_2015_EPT\|Eacott (2015, p. 324)]] | 教育行政与领导力学术文献 | 理论介入与学科话语认识论解构 | “领导力”等日常概念的批判性审视频率 | 绝大多数主流教育行政研究未对其规范性主旨提出认识论质疑 | — | 质性理论分析，揭示学科[[Champ\|场域]]对前科学概念警觉的系统性缺位 |
+> | [[Argument_Eacott_2015_EPT\|Eacott (2015, p. 324)]] | 教育行政与领导力学术文献 | 理论介入与学科[[Discourse\|话语]]认识论解构 | “领导力”等日常概念的批判性审视频率 | 绝大多数主流教育行政研究未对其规范性主旨提出认识论质疑 | — | 质性理论分析，揭示学科[[Champ\|场域]]对前科学概念警觉的系统性缺位 |
 
 ---
 

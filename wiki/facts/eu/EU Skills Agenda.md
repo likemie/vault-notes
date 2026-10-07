@@ -10,7 +10,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Policy Network]]"
   - "[[Selectivity]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Theory of Change]]"
   - "[[Neocorporatism]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # EU Skills Agenda
@@ -110,7 +111,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心[[Theory of Change|变�
 ## 效果与评价
 
 > [!success]
-> - Skills Agenda 成功将"教育培训体系"建构为欧盟政策话语中的核心概念，使其与"[[Innovation Ecosystem\|创新生态]]体系"并列成为 [[Europe 2020 Strategy]] 的两大支柱([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.170–171]])
+> - Skills Agenda 成功将"教育培训体系"建构为欧盟政策[[Discourse|话语]]中的核心概念，使其与"[[Innovation Ecosystem\|创新生态]]体系"并列成为 [[Europe 2020 Strategy]] 的两大支柱([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.170–171]])
 > - 在制度传统较强的国家（奥地利、德国、芬兰），地方专业人员将欧盟的官方[[Theory of Change\|变革理论]]内化并翻译为本地可操作的版本，表明欧盟的政策话语确实在地方层面产生了认知影响（p.172–173）
 
 > [!info]- 核心数据

@@ -37,6 +37,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Discourse]]"
   - "[[Document]]"
   - "[[Epistemic Ascent]]"
   - "[[Learning Progression]]"
@@ -98,7 +99,7 @@ title: "Argument_McDonnell_2013_AJE"
 argument_key: "Argument_McDonnell_2013_AJE"
 argument_display_title: "Evidence use and the Common Core State Standards movement: From problem definition to policy adoption"
 argument_kind: "journal-article"
-argument_related_count: 60
+argument_related_count: 61
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -221,7 +222,7 @@ issuing_organization: ""
 
 #### 3. 政策企业家融合两党核心价值观，并依托慈善基金建立跨界游说网络
 
-客观的数字本身不会产生政治感召力，政策企业家必须把数据包装进符合两党根本关切的价值话语中。（pp. 4–5, 10–11）
+客观的数字本身不会产生政治感召力，政策企业家必须把数据包装进符合两党根本关切的价值[[Discourse|话语]]中。（pp. 4–5, 10–11）
 
 > [!tension-table]- 实证指标与两党核心价值的双轨对接机制
 > 

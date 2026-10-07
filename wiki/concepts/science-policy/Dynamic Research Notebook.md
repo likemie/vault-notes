@@ -9,7 +9,7 @@ aliases:
 summary: "适应智能与数据密集型科学范式的新型学术交流与成果发布基础设施；批判并替代源自17世纪印刷时代的静态PDF期刊论文，以集成实时数据流、可执行代码容器（Docker/Conda）、环境依赖与自动化测试管道的动态交互式笔记本为知识发布基准，支持自动化AI复现代理进行秒级验证与跨平台审计。"
 type: concept
 domain: "science-policy"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Metascience]]"
   - "[[Reproducibility Crisis]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Paradigm]]"
   - "[[Process Knowledge]]"
   - "[[Knowledge Production]]"
@@ -58,7 +59,7 @@ updated: 2026-10-07
 > **动态研究笔记本（Dynamic Research Notebook / Executable Computational Research Notebook）** 是现代科学交流基础设施与开放[[Scientific Paradigm|科学范式]]演进中的核心知识发布载体。该概念针对源自 17 世纪印刷时代的静态 PDF 学术期刊论文无法承载现代数据密集型与 AI 科学的根本弊端而提出。动态研究笔记本不再将科研成果固化为孤立的静态图表与文字段落，而是将**全量原始实验数据流**、**清洗与统计分析代码**、**容器化环境依赖（如 Docker 镜像或 Conda 环境配置）**，以及**交互式可视化仪表盘**完全封装为一个可在任何云端或本地算力节点上一键运行、动态复现与实时审计的交互式可执行文档。在当代科学政策与[[Metascience|元科学]]视阈下，动态研究笔记本被确立为终结学术造假、化解[[Reproducibility Crisis|可重复性危机]]并支撑 AI 智能代理自动验证与知识重组的下一代科学交流新基准。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 67–68)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 从“单向阅读印刷品论文”向“人机协同执行可交互计算代码”的学术出版载体[[Paradigm|范式]]转移。
+> - **含义** 从“单向阅读印刷品论文”向“[[Man-Computer Symbiosis|人机协同]]执行可交互计算代码”的学术出版载体[[Paradigm|范式]]转移。
 > - **用途** 消除传统学术论文将原始排障过程、阴性数据与环境参数隐藏于“方法黑箱”中的弊端，赋能学术共同体与 AI 代理进行毫秒级端到端复核。
 > - **边界** 动态研究笔记本是交流载体与计算环境的封装，它依赖底层标准化云算力与数据公地（如 [[Protein Data Bank|PDB]] 与美国科学云）的支持，不能单凭软件工具解决缺乏物理实验数据的本质瓶颈。
 

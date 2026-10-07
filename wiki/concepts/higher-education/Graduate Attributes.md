@@ -9,7 +9,7 @@ aliases:
 summary: "大学认定学生在学期间应发展出的品质、技能和理解，涵盖本科与博士两个层次，用于组织课程、评价培养目标和回应外部问责。"
 type: concept
 domain: "higher-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Global Citizenship]]"
   - "[[Lifelong Learning]]"
+  - "[[Discourse]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Research Literacy]]"
   - "[[Critical Thinking]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-08-20
+updated: 2026-10-07
 ---
 
 ## 定义
@@ -69,7 +70,7 @@ updated: 2026-08-20
 ## 概念辨析
 
 > [!example]
-> - vs [[Employability]] — 毕业生特质涵盖更广泛的人文素养（如[[Global Citizenship\|全球公民]]、[[Lifelong Learning\|终身学习]]），就业能力是其中一个维度([[Argument_Wong_2022_HERD\|Wong et al., 2022, p.1341]])。就业能力话语更偏向雇主要求和短期职场准备，毕业生特质则包含公民责任和终身发展
+> - vs [[Employability]] — 毕业生特质涵盖更广泛的人文素养（如[[Global Citizenship\|全球公民]]、[[Lifelong Learning\|终身学习]]），就业能力是其中一个维度([[Argument_Wong_2022_HERD\|Wong et al., 2022, p.1341]])。就业能力[[Discourse|话语]]更偏向雇主要求和短期职场准备，毕业生特质则包含公民责任和终身发展
 > - **本科 vs 博士层次** — 本科毕业生特质强调通用性和基础性，博士层次则要求"更高水平的能力"([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p.86]])。博士特质还包括学术声誉（scholarship）和职业管理（career management）等本科不常见的维度([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, pp.98–99]])
 
 ---
@@ -92,7 +93,7 @@ updated: 2026-08-20
 
 ### 研究与学术素养
 
-本科层次，[[Argument_Wong_2022_HERD|Wong et al. (2022)]]对 UK 76 所大学网站的分析发现，66% 的大学在其毕业生特质中包含学术与[[Research Literacy|研究素养]]话语。该话语聚焦三个子维度（pp.1348–1350）：
+本科层次，[[Argument_Wong_2022_HERD|Wong et al. (2022)]]对 UK 76 所大学网站的分析发现，66% 的大学在其毕业生特质中包含学术与[[Research Literacy|研究素养]][[Discourse|话语]]。该话语聚焦三个子维度（pp.1348–1350）：
 - **学术读写能力**（32%）：学术英语能力、清晰论证、有说服力的书面与口头表达；部分大学纳入定量分析能力
 - **研究素养**（16%）：[[Critical Thinking|批判性思维]]、证据评估、知识创造意识、研究程序的理解与应用
 - **伦理责任与可持续性** 诚信研究、平等机会承诺、数字平台上的伦理行为

@@ -11,7 +11,7 @@ aliases:
 summary: "依托自然语言处理与多轮语音文本交互技术，在教学情境中提供拟真会话演练、即时纠错反馈、启发式追问与自适应语料推送的交互中介系统。"
 type: concept
 domain: "educational-technology"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[AI Agent in Education]]"
   - "[[Scaffolding]]"
   - "[[Procedural Skill]]"
+  - "[[Discourse]]"
   - "[[Feedback]]"
   - "[[Presence]]"
   - "[[Revoicing]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Conversational AI in Education
@@ -63,7 +64,7 @@ updated: 2026-09-17
 > - **边界** 需防范由于语言模型幻觉产生的错误语法或事实误导，以及在需要严密空间几何推导或多步骤公式运算场景下的表示局限。
 
 > [!citation-card]- 关键表述
-> 对话式智能体通过提供低焦虑、随时可用的多轮对话语境与即时发音纠错，极大地激活了学生在语言与读写学科中的主动输出动机，取得了强劲的促学效果。（[[Argument_Liu_2026_CHBR\|Liu et al., 2026, pp. 2]], 7）
+> 对话式智能体通过提供低焦虑、随时可用的多轮对[[Discourse|话语]]境与即时发音纠错，极大地激活了学生在语言与读写学科中的主动输出动机，取得了强劲的促学效果。（[[Argument_Liu_2026_CHBR\|Liu et al., 2026, pp. 2]], 7）
 >
 > *Conversational AI agents provide low-anxiety, on-demand multi-turn dialogue environments with immediate linguistic [[Feedback]], substantially driving student verbal engagement and skill automation in language and literacy learning.*
 

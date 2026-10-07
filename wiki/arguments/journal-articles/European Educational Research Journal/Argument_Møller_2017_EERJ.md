@@ -9,7 +9,7 @@ title: "Argument_Møller_2017_EERJ"
 argument_key: "Argument_Møller_2017_EERJ"
 argument_display_title: "Leading education beyond what works"
 argument_kind: "journal-article"
-argument_related_count: 12
+argument_related_count: 13
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Literature Review]]"
   - "[[School Leadership]]"
+  - "[[Discourse]]"
   - "[[New Public Management]]"
   - "[[Reflexivity]]"
   - "[[Operationalization]]"
@@ -87,7 +88,7 @@ citation_aliases:
 > OECD 的 ISL 项目将[[School Leadership\|学校领导力]]呈现为去政治化的"最佳实践"，但：
 > - 表面上政治中立的模型仍然是政治化的(p.377)
 > - 对绩效问责氛围没有实质性批评
-> - 两个矛盾话语并行运作：专业化共同体 vs [[New Public Management\|新公共管理]]的外部控制
+> - 两个矛盾[[Discourse|话语]]并行运作：专业化共同体 vs [[New Public Management\|新公共管理]]的外部控制
 > - [[PISA]] 嵌入 OECD 的政府间结构，塑造国家教育系统内部的绩效和风险管理
 > - 为了建立跨国可比性，教育系统之间的差异被淡化——这是从非常不同的系统引进"最佳实践"的前提
 >
@@ -108,7 +109,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> 1. **[[OECD]] 的两面性** OECD 同时推广分布式领导的"专业共同体"话语和[[New Public Management\|新公共管理]]的"外部控制"话语，二者并行运作构成悖论(p.377)
+> 1. **[[OECD]] 的两面性** OECD 同时推广分布式领导的"专业共同体"[[Discourse|话语]]和[[New Public Management\|新公共管理]]的"外部控制"话语，二者并行运作构成悖论(p.377)
 >
 > 2. **ISSPP 的共同主题** 跨 20+ 国的成功校长叙事呈现共同主题——伦理关怀、道德使命感、关系信任、对社会正义的承诺(p.380)。但 Møller 提醒这些发现基于自我报告，校长可能知道"正确答案"
 >

@@ -9,7 +9,7 @@ summary: "英国当代教育社会学与社会语言学奠基理论家，开创�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 47
+person_related_count: 48
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Horizontal Knowledge Structure]]"
   - "[[Totally Pedagogised Society]]"
   - "[[New Sociology of Education]]"
+  - "[[Discourse]]"
   - "[[Grand Theory]]"
   - "[[Hypothesis]]"
   - "[[Areas of Knowledge]]"
@@ -78,7 +79,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-05-23
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Basil Bernstein
@@ -125,7 +126,7 @@ updated: 2026-10-01
 >   - **代表著作** *Class, Codes and Control, Vol. 3: Towards a Theory of Educational Transmissions* (1975/1977)。
 >   - **关键概念** 分类（classification）、框架（framing）、聚集型代码与整合型代码。
 >   - **阶段转向** 建立了分析课程与教学的严密形式化矩阵工具，揭示课程设置与师生控制权背后深嵌的权力分配机制；推动 1970 年代[[New Sociology of Education\|新教育社会学]]思潮的生成，但始终与经验基础薄弱的激进[[Phenomenology\|现象学]]派保持审慎距离。[[Argument_Ball_2008_SR\|Ball, 2008, p. 658]]
-> - **1985–2000 — 教学话语、教育装置与知识结构阶段（Pedagogic Discourse & Knowledge Structures）** 本阶段系统构建教育装置（Pedagogic Device）[[Grand Theory\|宏大理论]]，追问社会知识如何被生产、转化、再分配与主体认同化。
+> - **1985–2000 — 教学[[Discourse|话语]]、教育装置与知识结构阶段（Pedagogic Discourse & Knowledge Structures）** 本阶段系统构建教育装置（Pedagogic Device）[[Grand Theory\|宏大理论]]，追问社会知识如何被生产、转化、再分配与主体认同化。
 >   - **代表著作** *Pedagogy, Symbolic Control and Identity: Theory, Research, Critique* (1996/2000)。
 >   - **关键概念** [[Recontextualization\|再脉络化]]（recontextualization）、[[Regulative and Instructional Discourse\|规约性话语与教学性话语]]、[[Horizontal Knowledge Structure\|横向知识结构]]与纵向知识结构。
 >   - **阶段转向** 完成了从单纯批判资本主义教育压迫向建构普适性符号控制内部语法的体系化飞跃；深刻预见了学校教育逻辑向全社会渗透的[[Totally Pedagogised Society\|全盘教育化社会]]景象。[[Argument_Cowen_2023_CE\|Cowen, 2023, p. 336]]
@@ -135,7 +136,7 @@ updated: 2026-10-01
 ## 核心思想
 
 > [!claim] 核心主张
-> 教育绝非中立传递客观真理的技术工场，而是权力分配与社会控制原则借以合法化运作的符号中介装置。教育系统通过结构性的分类与框架界线、教学话语的[[Recontextualization\|再脉络化]]过滤以及主导性语言代码的制度性霸权，持续再生产阶级结构的不平等；微观情境中的师生互动、协商与定义，从根本上受到宏观权力不对称与客观制度结构的刚性制约。
+> 教育绝非中立传递客观真理的技术工场，而是权力分配与社会控制原则借以合法化运作的符号中介装置。教育系统通过结构性的分类与框架界线、教学[[Discourse|话语]]的[[Recontextualization\|再脉络化]]过滤以及主导性语言代码的制度性霸权，持续再生产阶级结构的不平等；微观情境中的师生互动、协商与定义，从根本上受到宏观权力不对称与客观制度结构的刚性制约。
 
 > [!feature] 伯恩斯坦理论体系的四大核心支柱
 > - **语言代码理论（Language Codes）**
@@ -174,7 +175,7 @@ updated: 2026-10-01
 > - **跨国传播** 广泛传播至澳大利亚、南非、拉美、北欧及东亚，成为探究社会阶层固化、教育公平治理与现代性符号暴力的世界性学术母语。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Ball_2008_SR\|Ball, 2008]] — 以 Bernstein [[Horizontal Knowledge Structure\|横向知识结构]]和教育话语为分析透镜，重构英国教育社会学演变史，剖析学科内部碎片化与[[Paradigm\|范式]]争鸣。
+> - [[Argument_Ball_2008_SR\|Ball, 2008]] — 以 Bernstein [[Horizontal Knowledge Structure\|横向知识结构]]和教育[[Discourse|话语]]为分析透镜，重构英国教育社会学演变史，剖析学科内部碎片化与[[Paradigm\|范式]]争鸣。
 > - [[Argument_McPhail_2023_JCS\|McPhail et al., 2023]] — 运用 Bernstein [[Regulative and Instructional Discourse\|规约性话语与教学性话语]]理论，评估新西兰国家课程改革中概念知识遭排挤的[[Epistemology\|认识论]]危机。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 27]] — 引用 Bernstein (1974) 对微观[[Interpretive Paradigm\|诠释范式]]、常人方法学与[[Symbolic Interactionism\|符号互动论]]展开严肃的方法论与权力不对称批判。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|Cohen et al., 2011, Ch. 2, p. 114]] — 引用 Bernstein (1970, 1971) 批判泰勒主义[[Technical Rationality\|技术理性]]课程，审视[[Action Research\|行动研究]]在面对宏观权力中心时的赋权限度。
@@ -186,7 +187,7 @@ updated: 2026-10-01
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承与思想渊源** 埃米尔·涂尔干（Émile Durkheim，提供有机团结、集体意识、仪式与分类控制的社会学古典基石）、米歇尔·福柯（Michel Foucault，话语规则与微观权力运作）。
+> - **师承与思想渊源** 埃米尔·涂尔干（Émile Durkheim，提供有机团结、集体意识、仪式与分类控制的社会学古典基石）、米歇尔·福柯（Michel Foucault，[[Discourse|话语]]规则与微观权力运作）。
 > - **学术盟友与理论互鉴** 迈克尔·扬（1970 年代共同开辟知识社会学转向，虽伯恩斯坦对其早期 NSE 的主观相对主义持批评态度，但晚年两人共同促成社会实在论复兴）、[[Pierre Bourdieu\|皮埃尔·布迪厄]]（英法教育再生产理论的双子星，布迪厄偏重外部[[Cultural Capital\|文化资本]]与[[Champ\|场域]]惯习，伯恩斯坦则深入剖析教育知识内部传递的代码与分类语法）、[[Stephen Ball\|斯蒂芬·鲍尔]]（运用伯恩斯坦[[Horizontal Knowledge Structure\|横向知识结构]]与话语理论重构英国教育社会学史）。
 > - **论敌与方法论对立** 微观[[Phenomenology\|现象学]]派、常人方法学派与主观互动论者（批评其把制度与客观权力虚无化为纯粹的面谈协商）；保守派语言赤字论者（驳斥其将工人阶级语言判定为认知缺陷的阶级偏见）。
 

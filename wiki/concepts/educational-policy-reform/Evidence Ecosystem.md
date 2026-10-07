@@ -9,7 +9,7 @@ aliases:
 summary: "指由研究生产者、政策制定者、教育实践者、中介机构与资助方等多方行动者共同构成，通过评价、综合、翻译、中介动员与实践应用等多向交互与动态反馈回路，驱动研究证据协同演化的复杂自适应系统。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 90
+related_count: 91
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Formative Assessment]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
+  - "[[Discourse]]"
   - "[[Preregistration]]"
   - "[[Innovation Hub]]"
   - "[[Going Native]]"
@@ -120,7 +121,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Evidence Ecosystem
@@ -245,7 +246,7 @@ updated: 2026-10-02
 > | **明确变革具体环节** | 机构意图改变既有生态的哪一部分？聚焦何种使用者问题与何种类型的研究证据及证据主张？ | 目标空泛，混淆了固化方案推广与灵活机制迁移的界限。 |
 > | **区分直接用户与终极受益人** | 谁是中介工作的直接使用者？谁是政策或实践干预的最终受益者？ | 将中介活动触达的直接对象（如校长）与终极受益人（如学生学业）混为一谈。 |
 > | **把握历史演进轨迹** | 机构业务重心随时间发生了哪些转移，背后的原因是什么？ | 缺乏战略定力，随短期资助潮流盲目摇摆业务重心。 |
-> | **理顺生态内部协同** | 与生态内其他行动者（包括其他中介机构）存在怎样的互动、业务重叠或分工合作？ | 相互争夺话语权与资助资源，导致中介产出碎片化与使用者认知混乱。 |
+> | **理顺生态内部协同** | 与生态内其他行动者（包括其他中介机构）存在怎样的互动、业务重叠或分工合作？ | 相互争夺[[Discourse\|话语]]权与资助资源，导致中介产出碎片化与使用者认知混乱。 |
 
 > [!tension-table] 外层大系统与制度情境的生态自省诊断框架（Box 7.3; [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, pp. 151–152]]）
 > | 核心维度 | 关键追问 | 现实偏误与治理隐患 |

@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Legislative Policy Brief]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Boundary Spanner]]"
+  - "[[Discourse]]"
   - "[[Examination-Oriented Education]]"
   - "[[Policy Window]]"
   - "[[Problem Finding]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # The Education Trust
@@ -124,7 +125,7 @@ updated: 2026-10-02
 > [!indicators]- 影响力维度与指标
 > - **资源与资助网络** 作为全美最具实力的 18 家教育组织之一，获得[[Bill & Melinda Gates Foundation|盖茨基金会]]数千万美元专项资助支持，常态化参与全美每周教育政策策略协调会。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 20, 22)]]
 > - **政策与制度渗透** 主导将学生亚群数据分解写入联邦 [[No Child Left Behind Act 2001|NCLB]] 法案；与 [[Achieve]] 联合构建的跨州标准网络为 45 州采纳 [[Common Core State Standards|CCSS]] 奠定了早期制度基础。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 41–42)]]; [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8, 16)]]
-> - **公共话语与观念重构** 将单纯的学术测试指标升华为衡量民权与教育正义的国家标尺，打破了长期以来掩盖薄弱学校与弱势学生学业失败的平均主义繁荣假象。
+> - **公共[[Discourse|话语]]与观念重构** 将单纯的学术测试指标升华为衡量民权与教育正义的国家标尺，打破了长期以来掩盖薄弱学校与弱势学生学业失败的平均主义繁荣假象。
 
 > [!finding-cards] 关键成效与辐射影响
 > 1. **重塑联邦教育问责基石** EdTrust 是推动联邦立法确立按学生亚群拆解公布[[Academic Achievement|学业成绩]]这一制度性规范的最关键推手，彻底终结了以往用全校平均分掩盖少数族裔和贫困学生失败的局面，奠定了全美循证问责的法理框架。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 45)]]

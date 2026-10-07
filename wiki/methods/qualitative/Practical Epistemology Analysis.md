@@ -3,9 +3,9 @@ summary: "实践认识论分析（Practical Epistemological Analysis, PEA）由�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 31
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 32
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 title: "Practical Epistemology Analysis"
 aliases:
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Scaffolding]]"
   - "[[Unit of Analysis]]"
+  - "[[Discourse]]"
   - "[[Construct]]"
   - "[[Rich and Thick Description]]"
   - "[[Academic Achievement]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 # Practical Epistemology Analysis
 
@@ -73,7 +74,7 @@ updated: 2026-09-22
 > [!method-scope] 方法范围
 > - **研究对象** 课堂教学互动中的口头交谈、具身手势、实验操作以及实物媒介（如地图、天球仪、仪器读数）。
 > - **问题类型** 适合回答学习者如何在即时活动中产生理解障碍、如何调动先验经验建立新关联，以及特定[[Scaffolding\|教学支架]]如何影响意义生成。
-> - **[[Unit of Analysis\|分析单位]]** 连续话语回合（turns of talk）、具身操作片段或师生围绕特定科学现象展开的微观交互事件。
+> - **[[Unit of Analysis\|分析单位]]** 连续[[Discourse|话语]]回合（turns of talk）、具身操作片段或师生围绕特定科学现象展开的微观交互事件。
 > - **输出形式** 微观话语[[Transcription in Qualitative Research\|转录]][[Coding in Qualitative Research\|编码]]序列、认知裂隙产生与弥合的动态轨迹图、学生就地意义建构的质性机制阐释。
 
 > [!citation-card] 论实践认识论分析的微观核心
@@ -94,7 +95,7 @@ updated: 2026-09-22
 > [!method-stack] 方法层级
 > - **研究设计** 微观交互[[Ethnography\|人种志]]、课堂[[Discourse Analysis\|话语分析]]、实验室微观[[Observation Method\|观察研究]]。
 > - **数据收集** 课堂多角度音视频录像、师生即时手势与操作记录、实验教具交互轨迹、学生生成性文本与图表。
-> - **分析方法** 逐行多模态话语[[Coding in Qualitative Research\|编码]]、意义裂隙分类分析、关联建构路径追踪。
+> - **分析方法** 逐行多模态[[Discourse|话语]][[Coding in Qualitative Research\|编码]]、意义裂隙分类分析、关联建构路径追踪。
 > - **辅助技术** 音视频切片转录软件（Transana, ELAN）、微观言语互动情境还原、手势与语调多模态标注。
 
 ---
@@ -102,7 +103,7 @@ updated: 2026-09-22
 ## 研究程序
 
 > [!proc] 通用程序
-> 1. **确定微观互动事件** 选取师生或同伴围绕某一探究任务（如重力测量、振动规律、化学反应）展开的完整话语片段。
+> 1. **确定微观互动事件** 选取师生或同伴围绕某一探究任务（如重力测量、振动规律、化学反应）展开的完整[[Discourse|话语]]片段。
 > 2. **进行多模态精细[[Transcription in Qualitative Research\|转录]]** 将口头言语、停顿、语调高低、身体手势、仪器操作与教具移动同步转录为对应行。
 > 3. **执行 PEA 核心四元[[Coding in Qualitative Research\|编码]]** 逐句标定对话中的立足点（`Stand Fast`）、认知裂隙（`Gaps`）、建立关联（`Relations`）与情境碰撞（`Encounters`）。
 > 4. **绘制意义建构轨迹** 梳理学生如何通过建立新关联填补裂隙，或者旧有关联为何失效从而引发新的认知裂隙。
@@ -136,7 +137,7 @@ updated: 2026-09-22
 > - **建立关联（Relations）** 
 >   学习者调动先验经验、具身动作或实物教具，将立足点与未知对象建立语义或因果连接的动态过程。
 > - **情境碰撞（Encounters）** 
->   学习者与外部物质环境（实验仪器、样本、天球仪）或他人话语发生直接互动，促使潜在[[Hypothesis\|假设]]显性化。
+>   学习者与外部物质环境（实验仪器、样本、天球仪）或他人[[Discourse|话语]]发生直接互动，促使潜在[[Hypothesis\|假设]]显性化。
 
 ---
 
@@ -146,7 +147,7 @@ updated: 2026-09-22
 > - **适合使用** 
 >   - 探究科学课堂中微观意义建构与概念转变的即时发生过程；
 >   - 分析具身动作、物理教具与数字传感器在学生推理中的中介作用；
->   - 考察教师在师生对话中如何通过提问与元话语有效搭建[[Epistemology\|认识论]]支架。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 149–150)]]
+>   - 考察教师在师生对话中如何通过提问与元[[Discourse|话语]]有效搭建[[Epistemology\|认识论]]支架。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 149–150)]]
 > - **谨慎使用** 
 >   - 教师主导的纯讲授式大班教学（学生自发言语极少，难以捕捉裂隙与关联建构）；
 >   - 缺乏高质量录像与多模态[[Transcription in Qualitative Research\|转录]]条件的二手研究。

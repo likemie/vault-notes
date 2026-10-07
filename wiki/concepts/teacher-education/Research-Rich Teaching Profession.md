@@ -7,7 +7,7 @@ aliases:
 summary: "指将教学职业从技术性执行者重塑为以学术探究、循证审议与反思性实践为核心特征的高阶专业形态；主张教师必须具备对学术研究的批判性解读与情境化运用能力（Research Literacy），并通过职前教育、系统性持续专业发展（CPD）以及大学-学校伙伴关系的生态支持，将高质量研究证据内嵌于日常教学决策与专业身份认同之中。"
 type: concept
 domain: "teacher-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Professional Judgment]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Discourse]]"
 related_theories: []
 related_methods:
   - "[[Action Research]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Research-Rich Teaching Profession
@@ -115,7 +116,7 @@ updated: 2026-09-22
 > 探讨学术[[Research Literacy\|研究素养]]如何从外在于教师的技能要求，转变为保障专业决策自主性、抵御[[Technical Rationality\|技术理性]]控制的核心动力。
 
 > [!claim] White, S. & [[Mark Rickinson\|Rickinson, M.]]
-> **研究素养内生化保障专业自主裁量** 教学绝非机械照搬最佳证据清单的技术化操作，面对复杂多变的真实课堂，外部证据必须经过一线教师审慎的[[Professional Judgment\|专业判断]]与情境[[Transfer Translation Transformation\|转译]]方能产生成效；强化研究充实型教学专业的核心，正是通过系统培育教师的研究素养与反思心智倾向，使教师摆脱对外部标准化方案的盲从，真正拥有基于实证知识进行专业裁量的话语权与主体性。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, p. 134)]]
+> **研究素养内生化保障专业自主裁量** 教学绝非机械照搬最佳证据清单的技术化操作，面对复杂多变的真实课堂，外部证据必须经过一线教师审慎的[[Professional Judgment\|专业判断]]与情境[[Transfer Translation Transformation\|转译]]方能产生成效；强化研究充实型教学专业的核心，正是通过系统培育教师的研究素养与反思心智倾向，使教师摆脱对外部标准化方案的盲从，真正拥有基于实证知识进行专业裁量的[[Discourse|话语]]权与主体性。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, p. 134)]]
 
 ---
 

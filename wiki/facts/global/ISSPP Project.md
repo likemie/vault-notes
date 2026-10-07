@@ -8,7 +8,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -18,6 +18,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[International Large-Scale Assessments]]"
+  - "[[Discourse]]"
   - "[[School Leadership]]"
   - "[[Academic Achievement]]"
   - "[[Champ]]"
@@ -34,12 +35,12 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-02'
-updated: 2026-09-15
+updated: 2026-10-07
 ---
 ## 背景
 
 > [!info] 背景
-> 2002 年前后，在以 [[PISA]] 为代表的[[International Large-Scale Assessments\|国际大规模评估]]日益主导教育政策话语的背景下，一群研究者发起了一项跨国合作研究，旨在超越去情境化的"领导力清单"，转而理解在什么文化、社会和政治条件下[[School Leadership\|学校领导力]]被认为是成功的([[Argument_Møller_2017_EERJ\|Møller, 2017, p.379]])。
+> 2002 年前后，在以 [[PISA]] 为代表的[[International Large-Scale Assessments\|国际大规模评估]]日益主导教育政策[[Discourse|话语]]的背景下，一群研究者发起了一项跨国合作研究，旨在超越去情境化的"领导力清单"，转而理解在什么文化、社会和政治条件下[[School Leadership\|学校领导力]]被认为是成功的([[Argument_Møller_2017_EERJ\|Møller, 2017, p.379]])。
 
 ## 经过
 

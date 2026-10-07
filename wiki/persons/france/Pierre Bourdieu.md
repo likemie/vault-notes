@@ -8,7 +8,7 @@ summary: "法国社会学家，场域-习性-资本理论创立者与区分作�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 46
+person_related_count: 47
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Epistemological Vigilance]]"
   - "[[Non-monetary Competition]]"
   - "[[School Leadership]]"
+  - "[[Discourse]]"
   - "[[Going Native]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Goal-Controlled Mode]]"
@@ -75,7 +76,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Pierre Bourdieu
@@ -176,7 +177,7 @@ updated: 2026-10-02
 > - **国际社会理论传统的整合与推进**
 >   布迪厄的关系性实践社会学，推进并重构了经典社会学的三个核心传统：韦伯的符号合法性（发展为**[[Champ\|场域]]**）、马克思的**资本**一般化（扩展到[[Non-monetary Competition\|非货币竞争]]活动），以及涂尔干的客观结构倾向（与结构主义融合为**[[Habitus\|习性]]**）。这确立了学术界的跨国传播价值。
 > - **[[School Leadership\|学校领导力]]与教育行政批判研究**
->   教育行政领域借此解构管理主义话语。[[Argument_Eacott_2011_JEAH\|Eacott (2011, p. 45)]] 将场域、习性和资本引入澳大利亚新南威尔士校长培训体制分析，指出绩效问责、最佳实践和效率语言组成的 Doxa 使得教育场域被政治和商业场域渗透，校长被去自主化为政策交付人。
+>   教育行政领域借此解构管理主义[[Discourse|话语]]。[[Argument_Eacott_2011_JEAH\|Eacott (2011, p. 45)]] 将场域、习性和资本引入澳大利亚新南威尔士校长培训体制分析，指出绩效问责、最佳实践和效率语言组成的 Doxa 使得教育场域被政治和商业场域渗透，校长被去自主化为政策交付人。
 > - **中国精英大学的出路资本化与习性变现**
 >   中国高等教育研究通过[[Going Native\|本土化]]改造，将工具应用到了精英大学情境。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] 指出，家庭不平等通过资本化过程[[Transfer Translation Transformation\|转译]]为新生的初始习性差异。优势家庭学生展现出**[[Goal-Controlled Mode\|目标掌控模式]]**，主动变现[[Cultural Capital\|文化资本]]；弱势家庭学生则陷入**[[Intuition-Dependent Mode\|直觉依赖模式]]**，面临**[[Cultural Disembedding\|文化脱嵌]]**与**[[Cultural Disorientation\|文化迷失]]**。
 > - **当代高等教育的新封建主义政治经济学**

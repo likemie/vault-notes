@@ -37,6 +37,7 @@ related_concepts:
   - "[[Purpose Statement]]"
   - "[[European Education Space]]"
   - "[[Research Scope]]"
+  - "[[Discourse]]"
   - "[[PISA Literacy]]"
   - "[[Problem Solving]]"
   - "[[Creativity]]"
@@ -92,7 +93,7 @@ title: "Argument_Li_2025_HSSC"
 argument_key: "Argument_Li_2025_HSSC"
 argument_display_title: "The effects of PISA on global basic education reform: A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -209,7 +210,7 @@ issuing_organization: ""
 > PISA 已吸引全球 90 多个国家和经济体参与 OECD 全球倡议（OECD, 2022b），但研究仅覆盖 17 个国家。PISA 政策影响的全球图景存在严重的**经验盲区**，尤其在中东、非洲、南亚和东南亚地区。纳入研究的核心主题涵盖教育质量改革（宏观/中观/微观三层决策）、教育公平（机会/过程/结果）、政策趋同与[[Transfer Translation Transformation\|转译]]机制及影响因素（国际组织角色、国内政治、文化传统），文献数量随时间呈上升趋势。
 
 > [!note] 各国对 PISA 结果的反应强度差异
-> PISA 结果公布后，各国的政策反应强度呈现显著差异。德国、土耳其、丹麦、墨西哥和葡萄牙反应强烈，PISA 结果直接触发了广泛的政策辩论和改革议程；美国（早期）、芬兰和法国则表现出极端漠不关心（extreme indifference）（Martens & Niemann, 2013）。反应强度与两个条件有关：PISA 评估内容在国家话语中的权重，以及国家自我认知与实证结果之间的落差。具有相似 PISA 排名的国家可能启动完全不同的政策——法国和英国在 2001 年 PISA 中获得了相似结果，但此后采取了不同策略来改进教育表现（Baird et al., 2016）。
+> PISA 结果公布后，各国的政策反应强度呈现显著差异。德国、土耳其、丹麦、墨西哥和葡萄牙反应强烈，PISA 结果直接触发了广泛的政策辩论和改革议程；美国（早期）、芬兰和法国则表现出极端漠不关心（extreme indifference）（Martens & Niemann, 2013）。反应强度与两个条件有关：PISA 评估内容在国家[[Discourse|话语]]中的权重，以及国家自我认知与实证结果之间的落差。具有相似 PISA 排名的国家可能启动完全不同的政策——法国和英国在 2001 年 PISA 中获得了相似结果，但此后采取了不同策略来改进教育表现（Baird et al., 2016）。
 
 ---
 

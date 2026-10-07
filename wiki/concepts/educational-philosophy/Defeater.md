@@ -14,7 +14,7 @@ aliases:
 summary: "在认识论中指能够削弱或推翻某一信念、主张或推理确证效力的反向证据或反驳理由；在智能决策与人机协同中被转化为主动呈现冲突证据的认知支架，为人类行使独立审议提供可抗辩性支持。"
 type: concept
 domain: "educational-philosophy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Reliability]]"
   - "[[Hypothesis]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Automation Bias]]"
   - "[[Scaffolding]]"
   - "[[Epistemic Friction]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Defeater
@@ -58,7 +59,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> **击败者（Defeater，又称[[Epistemology|认识论]]击败者）** 源自[[Formal Epistemology|形式认识论]]与可撤销推理（Defeasible Reasoning）理论，指当主体获得某一新的信息、证据或理由 $D$ 时，原本支持信念或主张 $P$ 的正当性理由被削弱或彻底失效的认识论[[Construct|构念]]。约翰·波洛克（John L. Pollock, 1987）确立了其经典二元分类：削弱型击败者（Undercutting Defeaters，直接攻击证据源的[[Reliability|可靠性]]或推理链条的连贯性，证明原证据无法充分支持结论）与反驳型击败者（Rebutting Defeaters，直接提供支持互斥结论 $\neg P$ 或竞争性[[Hypothesis|假设]]的实质反向证据）。在现代人机协同决策与教育技术中，击败者被维卢温坎普与伯伊斯曼（Veluwenkamp & Buijsman, 2025）及 Jovchevski 等转化为交互设计机制，通过界面主动呈现冲突性数据与替代解释，为人类操作者提供反驳算法提示的可抗辩性支持（Contestability Support），构成抵御[[Automation Bias|自动化偏差]]与维系有意义人类控制的核心[[Scaffolding|认知脚手架]]。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 23–25)]]
+> **击败者（Defeater，又称[[Epistemology|认识论]]击败者）** 源自[[Formal Epistemology|形式认识论]]与可撤销推理（Defeasible Reasoning）理论，指当主体获得某一新的信息、证据或理由 $D$ 时，原本支持信念或主张 $P$ 的正当性理由被削弱或彻底失效的认识论[[Construct|构念]]。约翰·波洛克（John L. Pollock, 1987）确立了其经典二元分类：削弱型击败者（Undercutting Defeaters，直接攻击证据源的[[Reliability|可靠性]]或推理链条的连贯性，证明原证据无法充分支持结论）与反驳型击败者（Rebutting Defeaters，直接提供支持互斥结论 $\neg P$ 或竞争性[[Hypothesis|假设]]的实质反向证据）。在现代[[Man-Computer Symbiosis|人机协同]]决策与教育技术中，击败者被维卢温坎普与伯伊斯曼（Veluwenkamp & Buijsman, 2025）及 Jovchevski 等转化为交互设计机制，通过界面主动呈现冲突性数据与替代解释，为人类操作者提供反驳算法提示的可抗辩性支持（Contestability Support），构成抵御[[Automation Bias|自动化偏差]]与维系有意义人类控制的核心[[Scaffolding|认知脚手架]]。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 23–25)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指能够瓦解原主张确证基础的反向证据、冲突事实或逻辑漏洞，展现了人类[[Knowledge Building Theory|知识建构]]与信念更新的可撤销性本质。
@@ -121,7 +122,7 @@ updated: 2026-09-22
 ### 命题二　击败者机制与反思机器的协同构建了抵御过度信任的认知安全防护体系
 
 > [!concept-lens] 认知安全与[[Trust Calibration|信任校准]]
-> 探讨击败者如何与[[Socrates|苏格拉底]]式追问协同，构筑人机协同决策的综合防护网。
+> 探讨击败者如何与[[Socrates|苏格拉底]]式追问协同，构筑[[Man-Computer Symbiosis|人机协同]]决策的综合防护网。
 
 > [!claim] [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **击败者与反思机器的双重安全防线** 击败者机制负责提供证据维度的认知反常（反驳事实），而反思机器（Reflection Machines）负责提供程序维度的理性追问（审思理由）。二者协同构成了向人机交互回路注入生产性[[Epistemic Friction|认识论摩擦]]的完整系统，有效打破了算法客观性迷信与例行公事化应对，实现了对过度信任的动态阻断与批判性信任校准。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–25)]]

@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09"
 argument_display_title: "Research Methods in Education · Ch09"
 argument_kind: "book-chapter"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Sponsor in Research]]"
   - "[[Reflexivity]]"
   - "[[Confidentiality]]"
+  - "[[Discourse]]"
   - "[[Screening Off]]"
   - "[[Research Purpose]]"
   - "[[Dialogue in Education]]"
@@ -482,7 +483,7 @@ Doc 参与了写作过程——Whyte 将论文草稿拿给 Doc 审阅，其批�
 > - **公共知情权优先——"目的正当化手段"** Walford (2001, p. 30) 认为："对公共利益的潜在收益是巨大的。虽然会对参与者的私生活有一定程度的侵入，但这在研究重要政策问题时是可以被正当化的。"某些问题——财务违规、暴力行为、歧视——的公共利益权重可能压倒个人隐私的保护。
 
 > [!warning] "胆小的社会科学家"
-> Mitchell (1993, p. 54) 警告："胆小的社会科学家可能以此为借口，回避面对那些希望将自身行为和利益遮蔽在公众审视之外的有权、有特权且高度凝聚的群体。"换言之，隐私权的话语——虽然是真诚的——也可能被研究者用作不涉足敏感但重要的研究领域的方便借口。Simons & Usher (2000, p. 5) 则给出了一句总结性的判断："政治和伦理是不可分割地交织在一起。"
+> Mitchell (1993, p. 54) 警告："胆小的社会科学家可能以此为借口，回避面对那些希望将自身行为和利益遮蔽在公众审视之外的有权、有特权且高度凝聚的群体。"换言之，隐私权的[[Discourse|话语]]——虽然是真诚的——也可能被研究者用作不涉足敏感但重要的研究领域的方便借口。Simons & Usher (2000, p. 5) 则给出了一句总结性的判断："政治和伦理是不可分割地交织在一起。"
 
 ---
 
@@ -770,7 +771,7 @@ Lee (1993, pp. 102–114) 将敏感访谈的操作总结为四个需要逐一处
 >
 > *Doing research is not only a matter of designing a project and collecting, analysing and reporting data – that is the optimism of idealism or ignorance; it is a matter of interpersonal relations, potentially continual negotiation, delicate forging and sustaining of relationships, setback, modification and compromise.*
 
-> [!citation-card]- Doc 的担保话语
+> [!citation-card]- Doc 的担保[[Discourse|话语]]
 > "你告诉我你想让我看什么，我们来安排。当你想了解信息时，我会去问，你听着。当你想了解他们的人生哲学时，我会挑起争论并为你获取它……你不会有任何麻烦。你以朋友的身份进来。"（Whyte, 1993, p. 292）
 >
 > *"You tell me what you want me to see, and we'll arrange it. When you want some information, I'll ask for it, and you listen. When you want to find out their philosophy of life, I'll start an argument and get it for you... You won't have any trouble. You come in as a friend."*

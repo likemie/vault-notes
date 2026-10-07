@@ -6,10 +6,10 @@ aliases:
 summary: "姆本贝提出的理论概念，指主权权力在很大程度上体现为决定谁可以活、谁必须死的能力，近年被用于分析中国的语言政策和民族教育政策"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 7
-theory_related_level: 0
-theory_related_stars: ""
-theory_related_color: "#e5e7eb"
+theory_related_count: 8
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 domain: "political-economy-geopolitics"
 related_count: 7
 related_level: 0
@@ -21,6 +21,7 @@ tags:
   - theme/death
   - theme/biopolitics
 related_concepts:
+  - "[[Discourse]]"
   - "[[Boarding Schools]]"
   - "[[Paradigm]]"
   - "[[Zhonghua Minzu]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: '2026-08-27'
+updated: 2026-10-07
 ---
 
 # Necropolitics
@@ -59,7 +60,7 @@ updated: '2026-08-27'
 > *“The ultimate expression of sovereignty resides, to a large degree, in the power and the capacity to dictate who may live and who must die.”* (Mbembe 2003, p. 11)
 
 > [!boundary]- 概念边界
-> - 不等于 [[Settler Colonialism\|定居殖民主义]] — 定居殖民主义以“消灭的逻辑”为核心进行土地占领与人口替代；死亡政治更强调主权对生死决定权的话语与制度控制。
+> - 不等于 [[Settler Colonialism\|定居殖民主义]] — 定居殖民主义以“消灭的逻辑”为核心进行土地占领与人口替代；死亡政治更强调主权对生死决定权的[[Discourse|话语]]与制度控制。
 
 ---
 
@@ -93,7 +94,7 @@ updated: '2026-08-27'
 > [!debates] [[Paradigm\|范式]]局限与去政治化效果
 > 
 > > [!axis] 西方范式的政治去势
-> > - **布拉格（[[Argument_Bulag_2024_CE\|Bulag, 2024]]）** 西方的灭绝种族与死亡政治批判虽然有力，却面临政治悖论。它将少数民族重新定义为“土著人民”（indigenous peoples），这一基于[[Settler Colonialism\|定居殖民主义]]的框架在国际法上将自决权降格为国家主权框架内的内部自治，客观上与中国国家消解少数民族独立政治主体性的意图构成了非意图的话语合谋。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 98, 100]])
+> > - **布拉格（[[Argument_Bulag_2024_CE\|Bulag, 2024]]）** 西方的灭绝种族与死亡政治批判虽然有力，却面临政治悖论。它将少数民族重新定义为“土著人民”（indigenous peoples），这一基于[[Settler Colonialism\|定居殖民主义]]的框架在国际法上将自决权降格为国家主权框架内的内部自治，客观上与中国国家消解少数民族独立政治主体性的意图构成了非意图的[[Discourse|话语]]合谋。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 98, 100]])
 > > - **托马斯·阿尔伯茨（Thomas Alberts, 2015）** 全球土著运动的演进表明，土著框架倾向于与国家内部的自治体系妥协，而非追求反殖民的民族自决。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 100]])
 
 ---

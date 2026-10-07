@@ -7,7 +7,7 @@ summary: "系统分析开放文本与传播材料的推论性研究方法，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 57
+method_related_count: 58
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
+  - "[[Discourse]]"
   - "[[Reflexivity]]"
   - "[[Rich and Thick Description]]"
   - "[[Research Purpose]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-16
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Content Analysis
@@ -111,7 +112,7 @@ updated: 2026-10-01
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 文本不具备独立于读者的绝对客观自明性，文本内嵌多重社会文化语境与话语张力；内容分析要求研究者在文本语言表层特征与深层社会情境之间开展解释性循环。
+> - **知识观** 文本不具备独立于读者的绝对客观自明性，文本内嵌多重社会文化语境与[[Discourse|话语]]张力；内容分析要求研究者在文本语言表层特征与深层社会情境之间开展解释性循环。
 > - **研究者角色** 研究者是内容分析的核心诠释工具，其理论前见、[[Coding in Qualitative Research\|编码]]审慎性与范畴敏感度直接决定分析质量，必须全程依托[[Reflexivity\|反身性]]备忘录（[[Memos]]）与[[Audit Trail\|审核追踪]]保持自我批判。
 > - **量质融合取向** 内容分析打破了质性与量化的二元对立，最高质量的内容分析通常兼顾统计计数（频次、交叉分析、相关检验）与质性[[Rich and Thick Description\|深描]]（语境还原、叙事还原、典型引言佐证）。
 > - **有效性标准** 范畴设置必须满足三大铁律：反映[[Research Purpose\|研究目的]]（reflect research purpose）、类属穷尽（exhaustive）、彼此互斥（mutually exclusive）；编码过程须达致高编码者[[Reliability\|信度]]（inter-coder reliability）与可重复性。

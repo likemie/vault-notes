@@ -10,7 +10,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Knowledge Co-production]]"
   - "[[Academic Freedom]]"
+  - "[[Discourse]]"
   - "[[School Inspection]]"
   - "[[Research Proposal]]"
   - "[[Technical Rationality]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-10-07
 ---
 
 # National Strategy for Educational Research and Enquiry
@@ -128,7 +129,7 @@ updated: 2026-09-13
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 核心引领者** 威尔士政府（Welsh Government） — 掌握财政划拨、立法与行政主导权，将全系统科研统筹作为推动威尔士国家课程与教学改革的战略支点。
 > - **高权力 · 中利益 — 关键学术供给者** 威尔士高等教育机构（HEIs） — 拥有学术生产主导权与方法论权威，初期需平衡[[Academic Freedom\|学术自由]]选题与本土政策需求导向之间的张力。
-> - **低权力 · 高利益 — 核心实践受影响者** 3 至 18 岁学校教师与领导者 — 处于教育实施一线，迫切需要科学证据指导日常教学与解决学习困难，但在自上而下的科研议程中话语权较弱，NSERE 赋予其探究参与权。
+> - **低权力 · 高利益 — 核心实践受影响者** 3 至 18 岁学校教师与领导者 — 处于教育实施一线，迫切需要科学证据指导日常教学与解决学习困难，但在自上而下的科研议程中[[Discourse|话语]]权较弱，NSERE 赋予其探究参与权。
 > - **中权力 · 中利益 — 区域中介协同者** 区域教育联合体（Regional Consortia）与地方当局 — 承担区域层面的研修资源配置与[[School Inspection\|学校督导]]职能，是战略由顶层设计下沉为学校行动的关键转化中介。
 
 > [!prop-table]- 关键行动者属性

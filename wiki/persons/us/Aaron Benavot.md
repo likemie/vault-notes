@@ -8,10 +8,10 @@ summary: "美国著名比较教育学家与教育社会学家，纽约州立大�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 22
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "c. 1953"
 died: ""
 lifespan: "c. 1953–至今"
@@ -29,7 +29,9 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[International Education]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Discourse]]"
   - "[[Document]]"
+  - "[[Hidden Curriculum]]"
   - "[[Areas of Knowledge]]"
 related_theories:
   - "[[Cultural Models]]"
@@ -53,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Aaron Benavot
@@ -110,7 +112,7 @@ updated: 2026-09-29
 > 全球学校课程的演进是世界文化理性化神话扩散的核心晴雨表；然而，宏观官方课程大纲在形式上的高度同构，绝不意味着教室内教学实践的均质化。在教育权力下放与学校自主的全球政策潮流下，课程大纲的落实呈现出尖锐的“阶层化社会建构”——优势阶层学校利用自主权强化高阶数理与精英知识，而劣势学校则在补救教学中牺牲了[[21st Century Skills and Competencies Discourse|核心素养]]，导致宏观上的[[Institutional Isomorphism|制度同形]]在微观上转化为维系既有阶层不平等的合法化外衣。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 108)]]
 
 > [!citation-card] 贝纳沃特论课程趋同与本土学校分化
-> 尽管跨国扩散促成了课程门类的全球通用化，但在国家权力向地方学校下放的政策冲击下，实际执行呈现出高度的分歧。学校的社会阶层背景、结构性地位与资源动员能力，深度制约了国家法定科目的实际落实形态，使得趋同的话语遮蔽了微观教育资源与知识分配的不平等。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 108)]]
+> 尽管跨国扩散促成了课程门类的全球通用化，但在国家权力向地方学校下放的政策冲击下，实际执行呈现出高度的分歧。学校的社会阶层背景、结构性地位与资源动员能力，深度制约了国家法定科目的实际落实形态，使得趋同的[[Discourse|话语]]遮蔽了微观教育资源与知识分配的不平等。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 108)]]
 >
 > *Contextual factors like school structure, the socioeconomic background of students, and the successful mobilization of instructional resources affect the construction of school structure, showing how global curricular diffusion is locally modified.*
 
@@ -139,7 +141,7 @@ updated: 2026-09-29
 > [!debates] 学术争议
 >
 > > [!axis] 课程大纲是否等同于课堂教学真实知识
-> > 批判学者质疑量化课程史研究只统计官方大纲规定的课时比例，忽视了教室门后的“隐性课程”与实际教学内容。
+> > 批判学者质疑量化课程史研究只统计官方大纲规定的课时比例，忽视了教室门后的“[[Hidden Curriculum|隐性课程]]”与实际教学内容。
 > >
 > > - **批判人类学视角（Anderson-Levitt 等）** 指责大纲统计只触及制度表象，各地教师完全可以在相同的课时内教授截然相反的文化价值。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
 > > - **贝纳沃特回应** 承认官方大纲与教学实践存在脱耦，但坚持大纲反映了民族国家追求国际合法性的[[Cultural Models|世界文化模型]]，具有独立的宏观制度实在性。

@@ -6,7 +6,7 @@ aliases:
 summary: "批判地缘政治与比较教育中指代超国家机构和西方国家通过日常、技术化且看似价值中立的跨国教育绩效数据（如 PISA 排名），建立普世效率指标，在无形中巩固西方中心规则并再生产对非西方社会认识论压制与他者化（Othering）的霸权机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Value Neutrality]]"
+  - "[[Discourse]]"
   - "[[Rote Learning]]"
   - "[[Creativity]]"
   - "[[Bildung]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # Banal Imperialism
@@ -60,7 +61,7 @@ updated: 2026-09-24
 > [!concept-lens] 概念透镜
 > - **隐蔽与日常性** 借鉴了 Michael Billig “平庸民族主义”的逻辑，强调该机制不再依赖传统的武力侵占或强硬的意识形态灌输，而是通过看似枯燥、技术性的日常排位数据，使全球国家在追求排名的焦虑中自愿臣服于西方秩序。 (Silova & Auld, 2019)
 > - **“科学中立”的面具** 数据的可测量性与客观性为新自由主义的地缘扩张提供了天然的道德免责，将本质上带有文化偏见的西方精英模式转化为[[Value Neutrality\|价值中立]]的全球“最佳实践”。
-> - **认识论矮化** 即使非西方系统（如东亚）在测评中击败西方，帝国霸权话语仍能通过[[Orientalism\|东方主义]]式（Orientalist）的解释，将其降格为“[[Rote Learning\|死记硬背]]”或“机械训练”的落后产物，确立西方的认识型优越感。 (Takayama, 2018, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 428]])
+> - **认识论矮化** 即使非西方系统（如东亚）在测评中击败西方，帝国霸权[[Discourse|话语]]仍能通过[[Orientalism\|东方主义]]式（Orientalist）的解释，将其降格为“[[Rote Learning\|死记硬背]]”或“机械训练”的落后产物，确立西方的认识型优越感。 (Takayama, 2018, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 428]])
 
 > [!boundary]- 概念边界
 > 不适用于 — 传统大国以军事占领、直接行政管制和课本强制输入为特征的强硬霸权侵略（这属于古典地理帝国主义或直接文化帝国主义范畴）。
@@ -92,7 +93,7 @@ updated: 2026-09-24
 ### 命题一　跨国绩效排名虽然看似客观中立，实质上构成了对非西方社会进行认识型规训的“平庸帝国主义”机制
 
 > [!concept-lens] 绩效主义与去殖民批判
-> 这一命题解构了技术治理话语如何沦为地缘新殖民控制的日常工具。
+> 这一命题解构了技术治理[[Discourse|话语]]如何沦为地缘新殖民控制的日常工具。
 
 > [!claim] Silova, I. & Auld, E.
 > **以数字重构世界秩序的日常霸权** 证明，新自由主义全球化下，西方霸权（**[[Re-Westernisation\|再西方化]]**）的维系主要不再依靠强权压迫，而是将 [[OECD]] 等机构重塑为“知识新帝国”来进行隐性治理。[[PISA]] 大数据的日常化生产与排位，构成了“平庸的帝国主义”的核心机制。它通过强迫各国将教育简化为单一维度的效率排名，不仅抽空了地方教育的本土智慧与文化遗产，还将追求排名的国家锁死在西方预设的“高绩效”轨道上，潜移默化地完成了西方主导世界秩序的[[Epistemology\|认识论]]再生产。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 428–429]])

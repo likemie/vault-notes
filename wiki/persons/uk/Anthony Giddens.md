@@ -8,7 +8,7 @@ summary: "英国当代社会学家与社会理论家，系统提出结构化理�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 42
+person_related_count: 43
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Double Hermeneutic]]"
   - "[[Reflexivity]]"
+  - "[[Discourse]]"
   - "[[Epistemology]]"
   - "[[Voluntarism]]"
   - "[[Determinism]]"
@@ -89,7 +90,7 @@ updated: 2026-10-07
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国当代社会理论家，伦敦政治经济学院（LSE）前院长，剑桥大学国王学院终身研究员，英国上议院终身贵族；政体出版社（Polity Press）联合创始人。
-> - **核心角色** 在社会学理论与教育研究方法论中，吉登斯是连接经典社会学反思、微观行动诠释与宏观社会结构分析的核心理论枢纽；他系统揭示了[[Positivism|实证主义]]的两大核心[[Hypothesis|假设]]，提出著名的[[Double Hermeneutic|双重诠释]]（Double Hermeneutic）学说，为[[Qualitative Research|质性研究]]、[[Reflexivity|反思性]]（反身性）以及制度化话语权力分析确立了基础性的[[Epistemology|认识论]]坐标。
+> - **核心角色** 在社会学理论与教育研究方法论中，吉登斯是连接经典社会学反思、微观行动诠释与宏观社会结构分析的核心理论枢纽；他系统揭示了[[Positivism|实证主义]]的两大核心[[Hypothesis|假设]]，提出著名的[[Double Hermeneutic|双重诠释]]（Double Hermeneutic）学说，为[[Qualitative Research|质性研究]]、[[Reflexivity|反思性]]（反身性）以及制度化[[Discourse|话语]]权力分析确立了基础性的[[Epistemology|认识论]]坐标。
 > - **代表贡献**
 >   1. **双重诠释学与前诠释世界** 论证社会科学的研究对象是一个已被行动者赋予意义的生活世界，确立研究者诠释叠加于参与者自我诠释之上的二阶建构法则；
 >   2. **实证主义两大假设的批判** 提炼出实证主义社会学的方法论统一与产出同构两大预设，揭示其实证自然主义对人类自我阐释能力的系统遮蔽；

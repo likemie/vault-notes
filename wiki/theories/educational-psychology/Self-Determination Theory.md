@@ -7,7 +7,7 @@ aliases:
 summary: "当代人类动机与人格的核心宏观理论，主张个体具有追求自主性、胜任感与归属感三大基本心理需求的内在成长倾向，构筑了从无动机、外在动机到内在动机的自决连续体，广泛应用于教育环境设计与人机协同学习赋能。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 30
+theory_related_count: 31
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Working Memory]]"
   - "[[Intrinsic vs Extrinsic Motivation]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Champ]]"
   - "[[Generative Artificial Intelligence]]"
 related_theories:
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-05'
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Self-Determination Theory
@@ -184,7 +185,7 @@ updated: 2026-09-22
 > - **1971–1975 — 认知评价理论萌芽** Deci 发表经典索玛立方块实验，发现外部金钱奖励破坏了学生的内在动机，开启对自我决定机制的探索。
 > - **1985 — SDT 正式创立** Deci & Ryan 出版里程碑专著 *[[Intrinsic vs Extrinsic Motivation\|intrinsic motivation]] and Self-Determination in Human Behavior*，确立六大子理论体系。
 > - **2000 — 教育与健康领域大繁荣** Ryan & Deci 在 *American Psychologist* 发表当代经典综述，SDT 全面席卷教育心理学课堂动机研究。
-> - **2024–2025 — 人机协同与 AI 时代的新拓展** 扩展至人机协同学习[[Champ\|场域]]；[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 在 *Educational Research Review* 通过[[Meta-analysis\|元分析]]证实 [[Generative Artificial Intelligence\|GenAI]] 对大学生[[Affective Outcomes\|情感动机]]的大[[Effect Size\|效应量]]（$g^+ = 0.617$），实证确立了 SDT 在智能教育环境中的解释力。
+> - **2024–2025 — [[Man-Computer Symbiosis|人机协同]]与 AI 时代的新拓展** 扩展至人机协同学习[[Champ\|场域]]；[[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 在 *Educational Research Review* 通过[[Meta-analysis\|元分析]]证实 [[Generative Artificial Intelligence\|GenAI]] 对大学生[[Affective Outcomes\|情感动机]]的大[[Effect Size\|效应量]]（$g^+ = 0.617$），实证确立了 SDT 在智能教育环境中的解释力。
 
 ---
 

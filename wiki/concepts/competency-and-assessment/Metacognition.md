@@ -14,7 +14,7 @@ aliases:
 summary: "个体对自己认知过程的意识、评估与主动调节，包括元认知知识与元认知调节两个核心成分。它不仅构成批判性思维与人机协同认识论警觉的防御中介，更是驱动创造性问题解决、策略内化与克服思维定势的核心高阶认知机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 84
+related_count: 85
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Epistemic Friction]]"
   - "[[Wicked Problem]]"
   - "[[Problem Solving]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Hypothesis]]"
   - "[[Scale of Measurement]]"
   - "[[Epistemic Agency]]"
@@ -119,7 +120,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-07-01
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Metacognition
@@ -143,7 +144,7 @@ updated: 2026-10-03
 >
 > 显性元认知指导使学生习得规划、监控与评价自身思维过程的策略，能显著提高学生在[[Wicked Problem|劣构问题]]中的顿悟表征重构能力与远距离概念联想表现，证明创造性[[Problem Solving\|问题解决]]本质上依赖高质量的元认知调控。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10; Hargrove & Nietfeld, 2015)]]
 >
-> 在人机共生探究中，高阶元认知监控表现为对生成式 AI 输出的[[Hypothesis\|假设]]前提、逻辑一致性与[[Scale of Measurement\|测量尺度]]展开持续审问，防止被动认知卸载侵蚀人类的[[Epistemic Agency\|认识主体性]]。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–365)]]
+> 在[[Man-Computer Symbiosis|人机共生]]探究中，高阶元认知监控表现为对生成式 AI 输出的[[Hypothesis\|假设]]前提、逻辑一致性与[[Scale of Measurement\|测量尺度]]展开持续审问，防止被动认知卸载侵蚀人类的[[Epistemic Agency\|认识主体性]]。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–365)]]
 
 > [!boundary]- 概念边界辨析
 > - **认知加工（Cognition）** 认知加工直接针对任务对象（如阅读文本、计算公式、生成创意用途）；元认知则针对认知加工本身（如审视当前生成的构想是否陷入某种思维定势，或检验特定解题路径是否有效）。
@@ -161,7 +162,7 @@ updated: 2026-10-03
 > | **核心对象** | 认知过程本身（二阶心智反思） | 外部任务客体或领域知识（一阶加工） | 论证推理的真伪、效度与偏倚 | 整个学习生态系统与自我行为 | 个体应对创新挑战的自信与信念 |
 > | **主要功能** | 监控、评估、调准策略与突破定势 | [[Coding in Qualitative Research\|编码]]、存储、提取、运算与生成表达 | 评估论据、识别谬误、权衡替代解释 | 统合动机、情感、行为与物理环境 | 激发启动动机、维持抗挫折韧性 |
 > | **经典操作示例** | “我当前这套解题策略可能陷入了死胡同，需要退回重新表征问题” | “根据欧姆定律公式，计算当前电路的电流与电压数值” | “该[[Study Population and Sample\|研究样本]]缺乏[[Random Assignment\|随机分组]]，因而因果推论存在[[Threats to Internal Validity\|内部效度威胁]]” | “设定每天早晨专注阅读 45 分钟，并清理桌面手机干扰” | “我相信自己面对新颖[[Wicked Problem\|劣构问题]]时能构想出突破性解决方案” |
-> | **在人机协同中的角色** | 维持[[Epistemological Vigilance\|认识论警觉]]，抵抗算法流畅假象 | 借助 AI 提高打字、翻译与检索效率 | 核验 AI 生成[[Document\|文献]]与证据的真实性 | 规划人机协作分工并监控交互耗时 | 维持对自身原创能力的信心防线 |
+> | **在[[Man-Computer Symbiosis\|人机协同]]中的角色** | 维持[[Epistemological Vigilance\|认识论警觉]]，抵抗算法流畅假象 | 借助 AI 提高打字、翻译与检索效率 | 核验 AI 生成[[Document\|文献]]与证据的真实性 | 规划人机协作分工并监控交互耗时 | 维持对自身原创能力的信心防线 |
 
 ---
 
@@ -244,7 +245,7 @@ updated: 2026-10-03
 > **中间认识动作剥离与生产性摩擦的元认知激活功能** 批判整合性综述揭示，[[Generative Artificial Intelligence\|生成式人工智能]]的无摩擦委派将检索、比对、综合与起草等复杂动作一键压缩，其最深刻的认识论危害在于切除了工作流程中必不可少的中间认识动作（Intermediate Epistemic Actions）。当学生无需权衡相互冲突的解释或经历直面反常证据的认知挣扎时，负责状态评估与策略调校的元认知监控便彻底失去激活土壤，使学习者直接沦陷于算法的虚假流畅权威。唯有在人机界面与教学规程中主动注入生产性认识摩擦（Productive Epistemic Friction）——例如推行对抗性反思质询与多源反馈对照，强制要求学生撰写修改决策辩护词——才能重新唤醒元认知监控机能，守住[[Evaluative Judgement\|评价性判断]]的主体掌控权。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 5–8)]]
 
 > [!claim] Wu et al.
-> **人机共生中的多层元认知监控与[[Epistemic Stances\|认识立场]]跃迁** 在真实复杂统计推论人机交互实验中，元认知监控深度直接决定了学生的认识立场：缺乏元认知监控的学生表现为绝对论盲从，直接复制大模型代码；具备中等元认知者表现为多元论，知晓多种公式但缺乏排他性裁决标准；而具备高阶元认知监控的学习者能够主动察觉大模型的自相矛盾、[[Scale of Measurement\|测量尺度]]违背与前提假设破绽，通过 7 轮持续的压力测试、方法排除与同伴研讨达成评价论跃迁。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–366)]]
+> **[[Man-Computer Symbiosis|人机共生]]中的多层元认知监控与[[Epistemic Stances\|认识立场]]跃迁** 在真实复杂统计推论人机交互实验中，元认知监控深度直接决定了学生的认识立场：缺乏元认知监控的学生表现为绝对论盲从，直接复制大模型代码；具备中等元认知者表现为多元论，知晓多种公式但缺乏排他性裁决标准；而具备高阶元认知监控的学习者能够主动察觉大模型的自相矛盾、[[Scale of Measurement\|测量尺度]]违背与前提假设破绽，通过 7 轮持续的压力测试、方法排除与同伴研讨达成评价论跃迁。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–366)]]
 
 ---
 
@@ -279,7 +280,7 @@ updated: 2026-10-03
 > - **2010 年代　批判反思、[[Epistemology\|认识论]]课程与[[Creative Problem Solving\|创造性问题解决]]** [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] 探讨 IB 认识论（ToK）课程的元认知训练效能；哈格罗夫与尼特菲尔德（Hargrove & Nietfeld, 2015）开展准实验，证实显性元认知指导对高校[[Creativity\|创造性]][[Problem Solving\|问题解决]]的因果促学作用。
 > - **2025 年　基线控制[[Meta-analysis\|元分析]]确证“[[Metacognitive Laziness\|元认知惰性]]”** [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 通过 57 项高校实验元分析证实生成式 AI 对元认知无统计显著促进（$g^+ = 0.078, p = .789$），推翻技术自发促学假说，实证确立防范元认知惰性的紧迫性。
 > - **2025–2026 年　大规模[[Meta-analysis\|元分析]]确立协同机制与 AI 警觉防线** [[Argument_Park_2026_TSC\|Park et al. (2026)]] 确立[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]共享元认知底座（$r = 0.386$）；[[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 揭示独立练习深思（$g = 0.682$）促进元认知策略内化的组织优势；[[Argument_Li_2026_CEAI\|Li et al. (2026)]] 确立显性元认知监控作为生成式 AI 时代维系[[Epistemological Vigilance\|认识论警觉]]的战略防线。
-> - **2025 年　人机共生学习伙伴中的元认知质询与立场进阶** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 通过统计推论多轮交互对话追踪，实证揭示高阶元认知监控如何驱动学习者主动突破大模型的虚假流畅与自相矛盾，实现从绝对论盲从向评价论的演进。
+> - **2025 年　[[Man-Computer Symbiosis|人机共生]]学习伙伴中的元认知质询与立场进阶** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 通过统计推论多轮交互对话追踪，实证揭示高阶元认知监控如何驱动学习者主动突破大模型的虚假流畅与自相矛盾，实现从绝对论盲从向评价论的演进。
 > - **2026 年　关系性[[Epistemic Agency\|认识主体性]]与生产性认识摩擦的元认知转向** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 揭示无摩擦委派切除中间认识动作导致元认知监控瘫痪的社会技术路径，提出通过对抗性反思质询与生产性认识摩擦捍卫[[Evaluative Judgement\|评价性判断]]的主体掌控权。
 
 ---
@@ -380,7 +381,7 @@ updated: 2026-10-03
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出人机共生自适应[[Epistemic Stances\|认识立场]]框架，以 7 轮统计推论人机交互微观语料实证揭示元认知监控在抵御消极[[Cognitive Offloading\|认知卸载]]与促成评价论进阶中的决定性作用。
+> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]框架，以 7 轮统计推论人机交互微观语料实证揭示元认知监控在抵御消极[[Cognitive Offloading\|认知卸载]]与促成评价论进阶中的决定性作用。
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] — [[Meta-analysis\|元分析]] 57 项[[Experimental Research\|实验研究]]中生成式 AI 对大学生产出的多维效应，报告对元认知无统计显著促进（$g^+ = 0.078, p = 0.789, k = 10$），揭示了防范“[[Metacognitive Laziness\|元认知惰性]]”与开展显性反思培训的紧迫性。
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — [[Three-Level Meta-Analysis\|三水平元分析]]（$k = 51, N = 12,548$）确立[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]的稳健正相关（$r = 0.386$），论证元认知监控是驱动两类[[Higher-Order Thinking Skills\|高阶思维]]协同的核心纽带。
 > - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — 多层[[Meta-analysis\|元分析]]揭示高校[[Creativity Training\|创造力干预]]总体增益（$g = 0.628$），并在纳入的 Hargrove & Nietfeld (2015) 等研究基础上，揭示独立个体练习（$g = 0.682$）胜于小组协作（$g = 0.567$）促进策略内化的元认知机制。

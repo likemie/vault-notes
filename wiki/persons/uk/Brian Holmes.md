@@ -8,7 +8,7 @@ summary: "英国著名比较教育学家与科学哲学家，伦敦大学教育�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 69
+person_related_count: 70
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Big Science]]"
   - "[[Value Neutrality]]"
+  - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Discipline-Based Theory]]"
   - "[[Technical Rationality]]"
@@ -100,7 +101,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Brian Holmes
@@ -190,7 +191,7 @@ updated: 2026-10-06
 > *Holmes launched a three-pronged epistemological critique: empirical inductivism verifies only within its own frame of reference; it naively assumes unambiguous operationalisation across cultures; and it expels the living spirit, national character, and policy makers' intent.*
 
 > [!citation-card] 实证社会科学作为国家规划与技术援助的[[Social Science as Legitimation Alibi|合法化借口]]
-> 卡扎米亚斯在批判反思中指出，战后第三代际三[[Big Science|大科学]]流派虽在具体方法上存在分歧，但共同构建了以[[Value Neutrality|价值中立]]、定量测量与客观预测为旗帜的科学话语。在美苏冷战与第三世界去殖民化浪潮中，这套实证政策科学深度服务于国家五年计划、[[Human Capital Theory|人力资本]]规划与国际援助机构（如[[World Bank|世界银行]]、美国国际开发署）的项目设计，成为将深刻政治干预包装为客观技术决策的[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 145–147, 150–151)]]
+> 卡扎米亚斯在批判反思中指出，战后第三代际三[[Big Science|大科学]]流派虽在具体方法上存在分歧，但共同构建了以[[Value Neutrality|价值中立]]、定量测量与客观预测为旗帜的科学[[Discourse|话语]]。在美苏冷战与第三世界去殖民化浪潮中，这套实证政策科学深度服务于国家五年计划、[[Human Capital Theory|人力资本]]规划与国际援助机构（如[[World Bank|世界银行]]、美国国际开发署）的项目设计，成为将深刻政治干预包装为客观技术决策的[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 145–147, 150–151)]]
 
 ---
 

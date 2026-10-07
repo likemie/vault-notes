@@ -7,7 +7,7 @@ aliases:
 summary: "通过教育、文化机构和精英培育来提升国家软实力、国际形象和跨国影响力的战略。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Executive Education]]"
+  - "[[Discourse]]"
 related_theories: []
 related_methods:
   - "[[Case Study]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-10-07
 ---
 
 # Cultural Diplomacy
@@ -85,7 +86,7 @@ updated: 2026-05-19
 
 ### 叙事重构与话语生产
 
-通过官方话语将高等教育投资与国家身份叙事绑定——发布官方愿景文件和国际传播材料，将高等教育扩张讲述为"宽容"、"进步"、"现代化"的证明。这些叙事同时面向国内和国际受众。
+通过官方[[Discourse|话语]]将高等教育投资与国家身份叙事绑定——发布官方愿景文件和国际传播材料，将高等教育扩张讲述为"宽容"、"进步"、"现代化"的证明。这些叙事同时面向国内和国际受众。
 
 - **阿联酋案例** 引用开国者谢赫扎耶德关于"宽容、和平和稳定"的价值话语，将当代高等教育投资框定为对建国价值的传承。2020 年全球[[Soft Power|软实力]]指数排名地区第一、全球第 18——官方将此归因于"国家持续致力于确保机遇、创新、发展和宽容的环境"（MoFAIC, 2020, cited in p.208）
 

@@ -9,7 +9,7 @@ aliases:
 summary: "成人教育与学习科学中关于个体如何通过关键反思审视并重构既有心理假设、信念图式与参照框架，从而实现根本性视角转换的理论体系。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 30
+theory_related_count: 31
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Mind Mapping]]"
   - "[[Research Universities]]"
+  - "[[Discourse]]"
   - "[[Research Question]]"
   - "[[Learning Analytics]]"
   - "[[Paradigm]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Transformative Learning Theory
@@ -102,7 +103,7 @@ updated: 2026-10-05
 > | 参照框架（Frame of Reference） | 核心结构 | 个体理解世界的深层过滤网络，由“心智习惯”（Habit of Mind，文化/社会/心理倾向）和“激活观点”（Point of View，具体态度与信念）构成。 |
 > | 引发困惑的处境（Disorienting Dilemma） | 触发机制 | 既有经验框架无法解释或应对的生活变故或重大现实挑战，打破原初认知平衡并驱动探究。 |
 > | 批判性[[Hypothesis\|假设]]自省（Critical Reflection of Assumptions） | 认知机制 | 对支撑自身信念与行为的前设条件、前提假设及文化偏见展开元认知审视。[[Argument_Murphy_2026_JTS\|(Murphy Jr. et al., 2026, p. 6)]] |
-> | 批判性审辩对话（Rational Discourse） | 社会机制 | 在开放包容的环境中与具有不同视角的同伴展开证据质询与论证，共同检验新理解的有效性。 |
+> | 批判性审辩对话（Rational [[Discourse]]） | 社会机制 | 在开放包容的环境中与具有不同视角的同伴展开证据质询与论证，共同检验新理解的有效性。 |
 > | 视角转换（Transformation in Perspective） | 产出状态 | 形成更为开放、包容、具批判性与[[Reflexivity\|反思性]]的深层参照框架，促发根本性的行动策略转变。 |
 
 ---
@@ -134,7 +135,7 @@ updated: 2026-10-05
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---------|:---------------|:-----------------|:-----------------|
 > | 困境触发与感知危机（Mezirow, 1991） | 认知两难与冲击感知：学习者是否感知到既有框架无法解释新现实？ | 调研问卷中对新政策/新知识的迷茫表述、对传统研究模式受限的坦承言论 | 出现对旧经验失效的明确反思即支持困境成立；若仅表达任务繁重不属于两难困境 |
-> | 批判性[[Hypothesis\|假设]]自省（Mezirow, 1991） | 潜隐[[Hypothesis\|假设]]审视：学习者是否主动质疑自身学科传统、工作方式或[[Paradigm\|研究范式]]的固有前设？ | 工作坊反思文本、小组研讨中对“以往只顾发论文、不问国家产业需求”的自省话语 | 明确点破既有假设盲区支持深层反思；纯粹技术细节纠错不属于假设反思 |
+> | 批判性[[Hypothesis\|假设]]自省（Mezirow, 1991） | 潜隐[[Hypothesis\|假设]]审视：学习者是否主动质疑自身学科传统、工作方式或[[Paradigm\|研究范式]]的固有前设？ | 工作坊反思文本、小组研讨中对“以往只顾发论文、不问国家产业需求”的自省[[Discourse\|话语]] | 明确点破既有假设盲区支持深层反思；纯粹技术细节纠错不属于假设反思 |
 > | 跨界审辩对话（Mezirow, 1991） | 对话与证据质询：学习者是否通过与不同学科或背景同伴的交流检验新见解？ | 跨学科小组讨论录音、圆桌对话实录、海报交流中的互动表现记录 | 展现多方观点对质、吸收异质视角支持理性对话；单向聆听宣讲不属于审辩对话 |
 > | 视角转换与行动重构（Mezirow, 1991; [[Argument_Murphy_2026_JTS\|Murphy Jr. et al., 2026]]） | 参照框架重塑与行动就绪度：学习者是否建立全新科研与实践身份，并在战略项目中展现就绪度？ | [[Pre-test and Post-test\|后测]]问卷中展现的全局政策视野表述、组建跨学科团队申报重大战略课题的行为记录 | 明确陈述科研身份视角转化并付诸联合行动即支持转化发生；需排查短期应试套话 |
 

@@ -7,7 +7,7 @@ aliases:
 summary: "力求研究导致行动并赋权参与者理解并转变其世界的效度类型，根植于批判理论与女性主义研究，主张效度标准本身是权力话语的产物"
 type: concept
 domain: "research-methodology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Value Neutrality]]"
+  - "[[Discourse]]"
   - "[[Research Ethics]]"
   - "[[Conscientization]]"
 related_theories:
@@ -32,7 +33,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-10-07
 ---
 # Catalytic Validity
 
@@ -59,7 +60,7 @@ updated: 2026-06-23
 >   催化效度要求揭露**谁对情境的定义在情境中运作**——即现存秩序的"理所当然性"是如何被特定群体的利益所维持的。研究应揭示沟通和社会结构中的扭曲、意识形态变形和局限（LeCompte & Preissle, 1993）。
 > - **促进解放（Promoting emancipation）**
 >   催化效度要求研究能在公正、平等和民主的社会中促进参与者的解放、自主和自由（Masschelein, 1991）。Usher (1996) 认为这是[[Feminist Research\|女性主义研究]]的主要特征——且需要渗透**所有**研究。
-> - **效度作为权力话语（Validity as power discourse）**
+> - **效度作为权力[[Discourse|话语]]（Validity as power discourse）**
 >   Scheurich (1996) 提出了最激进的反思：效度不过是实际上由**有权力的研究社群**对可接受研究进行治安和设限的**面具**——效度话语实际上是**界定有价值知识的权力话语**。催化效度的最强版本质疑了效度标准本身的合法性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 173–174)]]
 
 ---

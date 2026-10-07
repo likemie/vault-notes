@@ -8,7 +8,7 @@ aliases:
 summary: "Niklas Luhmann 与 Karl-Eberhard Schorr (1979) 提出的概念，指教育因果链条在当下无法获得经验验证，从而形成结构性技术赤字，催生了对量化硬事实与政策中介的永续需求。"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Scientific Uncertainty]]"
   - "[[Scaffolding]]"
   - "[[Causality]]"
+  - "[[Discourse]]"
   - "[[Evidence-Based Education]]"
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-23
+updated: 2026-10-07
 ---
 
 # Technology Deficit of Education
@@ -97,7 +98,7 @@ updated: 2026-09-23
 > - **因果链条的时间滞后性（Temporal Lag of [[Causality]]）** 教育的核心价值在于促进个体的长远发展与未来社会适应，然而未来的社会情境与技术变革充满偶联性，导致当下的教育干预与长期的育人成效之间无法建立确定性的因果追溯。(Luhmann & Schorr, 1979)
 > - **生产函数的不可计算性（Non-computability of Educational Production Function）** 教学过程高度依赖师生互动与情境共创，任何标准化的投入（如生均经费、师生比、教材设备）都无法必然且等比例地兑现为均质的个体产出，打破了技术官僚对精确工程化规划的幻想。
 > - **对可操作证据的代偿性渴求（Compensatory Demand for Actionable Evidence）** 面对无法消除的未来风险，国家教育官僚系统产生强烈的控制欲，迫切需要外部专家与智库提供看似切实可行的行动处方，以将不可知的不确定性转化为可管理的技术风险。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
-> - **危机延伸式治理话语（Crisis-Extension Governance Framing）** [[Policy Brokerage\|政策中介]]机构通过将未来建构为“当前不稳定或危机状态的必然延续”，成功制造改革紧迫感，使当下的政策干预成为免于未来厄运的救赎工具。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
+> - **危机延伸式治理[[Discourse|话语]]（Crisis-Extension Governance Framing）** [[Policy Brokerage\|政策中介]]机构通过将未来建构为“当前不稳定或危机状态的必然延续”，成功制造改革紧迫感，使当下的政策干预成为免于未来厄运的救赎工具。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid

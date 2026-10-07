@@ -9,7 +9,7 @@ aliases:
 summary: "二战后盛行于英美社会学与比较教育学的核心宏观理论范式，将社会视为由相互依存的子系统构成的有机均衡系统，强调教育承担着社会化、人才选拔与劳动力分流的客观功能，以价值共识、社会整合与适应性演进维系现代功绩制民主社会。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Research Question]]"
   - "[[Cultural Capital]]"
+  - "[[Hidden Curriculum]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Scientism]]"
   - "[[Epistemology]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Structural Functionalism
@@ -151,7 +152,7 @@ updated: 2026-10-01
 > - **成立条件** 假定劳动力市场存在客观评价标准且行政系统具备理性纠偏能力。
 > - **解释不足** 具有保守主义倾向，难以解释由深刻阶级对立、种族歧视、殖民掠夺引发的剧烈社会冲突与革命性变革；将社会秩序视为理所当然，忽视了秩序背后的权力压迫与意识形态霸权。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–154)]]
 > - **转化困难** “功能”一词极易滑向目的论（Teleology）和套套逻辑（Tautology，即“某制度之所以存在是因为它有功能，因为它有功能所以它存在”）。
-> - **不能直接推出** 不能根据观察到的教育分流结果直接断定社会选拔是完全公平的，忽视了[[Cultural Capital|文化资本]]、隐性课程等隐蔽的阶层再生产机制。
+> - **不能直接推出** 不能根据观察到的教育分流结果直接断定社会选拔是完全公平的，忽视了[[Cultural Capital|文化资本]]、[[Hidden Curriculum|隐性课程]]等隐蔽的阶层再生产机制。
 
 ---
 

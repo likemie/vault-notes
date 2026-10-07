@@ -6,7 +6,7 @@ aliases:
 summary: "指专业从业者（教师与公职决策者）以维护专业实践完整性与批判思维的方式理解、审视与整合多元方法论研究的能力与德性；不仅是在有效性与适切性之间进行专业判断的中介素养，更是抵御后真相算法操纵、捍卫作为基本民主权利的科学素养的制度基石"
 type: concept
 domain: "teacher-education"
-related_count: 61
+related_count: 62
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Variable]]"
   - "[[Research Utilization]]"
+  - "[[Discourse]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Data Literacy]]"
   - "[[Evaluation Research]]"
@@ -86,7 +87,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-09-23
+updated: 2026-10-07
 ---
 
 # Research Literacy
@@ -156,7 +157,7 @@ updated: 2026-09-23
 > - **[[Research Utilization\|研究使用]]（Research Use）** 教师在备课、教学法改进、反思与教研对话中主动应用科研成果的实际行为（外显行为转化变量）。
 
 > [!feature] 中介转化模型下的研究素养支架（[[Argument_Brown_2017_ER\|Brown et al., 2017, pp. 161–162]]）
-> - **克服学术话语壁垒（Bridging Academic Language Barriers）** 原始学术期刊通常充斥抽象统计模型与复杂概念，对教师构成严苛的研究素养门槛；推进研究利用必须依靠中介者将学术论文[[Transfer Translation Transformation\|转译]]为实践者可吸收的语言。
+> - **克服学术[[Discourse|话语]]壁垒（Bridging Academic Language Barriers）** 原始学术期刊通常充斥抽象统计模型与复杂概念，对教师构成严苛的研究素养门槛；推进研究利用必须依靠中介者将学术论文[[Transfer Translation Transformation\|转译]]为实践者可吸收的语言。
 > - **结构化研习协议与工具包（Structured Mediation Protocols）** 依托[[Research Learning Communities\|研究学习共同体]]（RLC）等载体，由大学研究者提供转译后的实证总结与研习协议，帮助学校从依赖浮躁的快餐式小妙招，转向深入探究有效机制的学习文化。
 > - **双素养协同培育（Dual Literacy Integration）** 研究素养必须与[[Data Literacy\|数据素养]]协同互补，防止缺乏校本数据诊断而盲目追逐时髦热点。
 
@@ -300,7 +301,7 @@ updated: 2026-09-23
 > >
 > > - **Williams & Coles (2007); Brown & Zhang (2016)** 侧重测量个体教师的信息素养与研究态度。
 > > - **[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]]** 主张将意识、态度、知觉技能与外显使用统整建模，通过[[Theory of Planned Behavior\|计划行为理论]]解释态度向行为转化的知觉控制中介机制。
-> > - **[[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]** 批判个体测量助长了赤字话语，掩盖了教师在价值冲突与情境权衡中的专业理性。
+> > - **[[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]** 批判个体测量助长了赤字[[Discourse|话语]]，掩盖了教师在价值冲突与情境权衡中的专业理性。
 > > - **[[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]]** 强调研究素养必须从孤立技能转向支撑适切证据与深思熟虑参与双核融合的个体使能构件，并与组织领导力和反思文化深度互构。
 > > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]** 强调若脱离组织与系统的可持续结构与信任机制，单靠提升个体研究素养无法促成深度[[Research Utilization\|研究使用]]。
 > > - **[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]** 指出若将研究素养的培养局限于一线教师，而忽视掌握顶层资源的公职政策制定者，极易造成政策层面的“系统性脱责”；公职人员若缺乏批判素养，易使国家问责与科研拨款沦为商业利益俘获的工具。

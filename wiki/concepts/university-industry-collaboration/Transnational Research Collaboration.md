@@ -7,7 +7,7 @@ aliases:
 summary: "高等教育中的跨国研究合作形式，涉及学者、机构和国家在知识生产、声誉竞争与政策目标上的多重联结。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
 - region/global
 - level/higher-ed
 related_concepts:
+  - "[[Discourse]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge Transfer]]"
   - "[[Geopolitics of Knowledge]]"
@@ -53,7 +54,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!info]
-> 跨国研究合作指来自不同国家的研究者、机构和资助方跨越国界共同开展研究活动的实践。[[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] 的分析焦点不在于合作的运作形式，而在于揭示驱动跨国研究合作的**多重理性如何在当代被融合进同一套话语**——个体研究者的学术利益、机构的声誉与基础设施需求、国家的贸易与外交目标被整合为表面统一的合作议程([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.98–99]])。
+> 跨国研究合作指来自不同国家的研究者、机构和资助方跨越国界共同开展研究活动的实践。[[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] 的分析焦点不在于合作的运作形式，而在于揭示驱动跨国研究合作的**多重理性如何在当代被融合进同一套[[Discourse|话语]]**——个体研究者的学术利益、机构的声誉与基础设施需求、国家的贸易与外交目标被整合为表面统一的合作议程([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.98–99]])。
 
 ## 概念辨析
 
@@ -64,7 +65,7 @@ updated: 2026-10-07
 ## 概念演变
 
 > [!note]-
-> [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] 追溯了跨国研究合作的网络化转型：从传统的双边学术交流模式转向基于 Castells (1996) [[Network Society\|网络社会]]逻辑和 Benkler (2006)"网络财富"的多节点、多层次协作网络。这一转型不仅改变了合作的技术形式，更重组了驱动合作的利益结构——个体、机构和国家的利益被融合进同一套合作话语之中([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.98–99]])。
+> [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] 追溯了跨国研究合作的网络化转型：从传统的双边学术交流模式转向基于 Castells (1996) [[Network Society\|网络社会]]逻辑和 Benkler (2006)"网络财富"的多节点、多层次协作网络。这一转型不仅改变了合作的技术形式，更重组了驱动合作的利益结构——个体、机构和国家的利益被融合进同一套合作[[Discourse|话语]]之中([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.98–99]])。
 
 ## 核心要素
 
@@ -101,7 +102,7 @@ updated: 2026-10-07
 
 > [!warning]
 > - 跨国研究合作中多重理性的融合可能掩盖权力不对称——发达国家机构和国家在议程设置、资源分配和成果归属上占据优势地位([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.98–99]])
-> - Collins (2007) 对 [[GATS and Trade in Education Services\|GATS]] 的批评可延伸至研究合作领域：合作话语可能"反映了一种新帝国主义，其中更强大的国家将发展中国家保留为市场，并在其中继续在智识上进行统治"（Collins, 2007, p.283, cited in [[Argument_Rizvi_2022_Springer\|Rizvi, 2022, p.97]]）
+> - Collins (2007) 对 [[GATS and Trade in Education Services\|GATS]] 的批评可延伸至研究合作领域：合作[[Discourse|话语]]可能"反映了一种新帝国主义，其中更强大的国家将发展中国家保留为市场，并在其中继续在智识上进行统治"（Collins, 2007, p.283, cited in [[Argument_Rizvi_2022_Springer\|Rizvi, 2022, p.97]]）
 
 ## 相关案例／政策
 

@@ -7,7 +7,7 @@ title: "Argument_Revai_2022_ChangingLandscape"
 argument_key: "Argument_Revai_2022_ChangingLandscape"
 argument_display_title: "The changing landscape of research use in education"
 argument_kind: "book-chapter"
-argument_related_count: 63
+argument_related_count: 64
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Evidence Ecosystem]]"
   - "[[Evidence-Based Education]]"
+  - "[[Discourse]]"
   - "[[Phronesis]]"
   - "[[Knowledge Co-production]]"
   - "[[Research Utilization]]"
@@ -120,7 +121,7 @@ updated: 2026-09-24
 > 解决教育研究、政策与实践长期脱节的根本出路，在于超越将知识视为现成货品的单向线性转移思维，转向以多方共创与动态反馈为核心的[[Evidence Ecosystem\|证据生态系统]]（Evidence Ecosystem）；唯有重塑学术研究评价体制、激活多元行动者关系网络并建立国家级协调战略，才能真正释放教育研究在公共治理与学校改进中的变革潜能。（pp.18–22）
 
 > [!concept-lens] 阅读透镜
-> - **对象** [[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD\|OECD]]）成员国[[Evidence-Based Education\|循证教育]]政策与实践（Evidence-Informed Policy and Practice in Education, EIPP）话语演进、知识动员模型演变及跨国教育研发体制。
+> - **对象** [[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD\|OECD]]）成员国[[Evidence-Based Education\|循证教育]]政策与实践（Evidence-Informed Policy and Practice in Education, EIPP）[[Discourse|话语]]演进、知识动员模型演变及跨国教育研发体制。
 > - **张力** 狭隘循证医学金标准对教育复杂现实的裁剪 vs [[Phronesis\|实践智慧]]的包容性诉求；学术期刊发表导向的传统激励 vs 实践导向[[Knowledge Co-production\|知识共创]]的时间与信任成本。
 > - **贡献** 厘清了研究、证据与知识的边界，构建了线性-关系-复杂系统三层嵌套的动员模型[[Analytic Framework\|分析框架]]，并为 OECD 跨国政策调查确立了多维度评估路标。
 
@@ -176,7 +177,7 @@ updated: 2026-09-24
 ### 论证步骤一　研究证据的核心功能在于启发专业判断而非替代决策，教育循证必须确立证据与实践智慧互补共生的认识论基石
 
 > [!claim] 步骤一核心主张
-> [[Evidence-Based Education\|循证教育]]话语已从盲目套用医学有效性金标准的[[Positivism\|实证主义]]偏误，转向情境适切的多元证据观；研究证据的核心功能在于启发[[Professional Judgment\|专业判断]]与重塑思维，而非提供机械化的处方。（pp.16–18）
+> [[Evidence-Based Education\|循证教育]][[Discourse|话语]]已从盲目套用医学有效性金标准的[[Positivism\|实证主义]]偏误，转向情境适切的多元证据观；研究证据的核心功能在于启发[[Professional Judgment\|专业判断]]与重塑思维，而非提供机械化的处方。（pp.16–18）
 
 自 2000 年代初期起，[[OECD|经合组织]]（[[OECD]]）[[Centre for Educational Research and Innovation|教育研究与创新中心]]（Centre for Educational Research and Innovation, [[Centre for Educational Research and Innovation|CERI]]）持续关注教育研发与[[Epistemic Governance|知识治理]]，启动了贯穿二十年的循证探究历程。（pp.16–17）
 

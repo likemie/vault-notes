@@ -7,7 +7,7 @@ aliases:
 summary: "论辩推理模型中的基础认识论立场，视知识为绝对客观、存在唯一正确答案的事实；在人机共生学习中表现为将大模型视为确定性答案机而产生表面顺从与消极认知卸载。"
 type: concept
 domain: "educational-psychology"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -17,6 +17,7 @@ related_concepts:
   - "[[Certainty of Knowledge]]"
   - "[[Justification for Knowing]]"
   - "[[Teaching Assistant]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Cognitive Offloading]]"
   - "[[Epistemic Agency]]"
   - "[[Epistemic Stances]]"
@@ -43,7 +44,7 @@ related_methods:
   - "[[Correlational Research]]"
 status: active
 created: 2026-08-15
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Absolutist
@@ -58,7 +59,7 @@ updated: 2026-09-22
 > [!concept-lens] 概念透镜
 > - **含义** 标志着个体在“[[Certainty of Knowledge\|知识的确定性]]”与“[[Justification for Knowing\|认知的辩护]]”上处于最低层级，完全被外部客观维度主导。
 > - **用途** 帮[[Teaching Assistant\|助教]]育者识别学生所处的认识论发展位置，解释他们为何对存在合理争议的议题持非黑即白的态度，以及为何在人机交互中容易产生盲信与偷懒。
-> - **人机共生视界** 在智能中介环境中，绝对论立场是诱发消极[[Cognitive Offloading\|认知卸载]]（表面顺从）的核心根源，导致学习者将[[Epistemic Agency\|认识主体性]]完全让渡给技术算法。
+> - **[[Man-Computer Symbiosis|人机共生]]视界** 在智能中介环境中，绝对论立场是诱发消极[[Cognitive Offloading\|认知卸载]]（表面顺从）的核心根源，导致学习者将[[Epistemic Agency\|认识主体性]]完全让渡给技术算法。
 > - **边界** 个体在某一领域是绝对论者，不代表其在所有领域都是绝对论者。通常个体在物理事实与算法生成领域维持绝对论的时间最长。
 
 > [!citation-card] 绝对主义立场在人机交互中的认知表征
@@ -129,7 +130,7 @@ updated: 2026-09-22
 > [!dev-timeline] 概念演变
 > - **1970–2000 年 — 传统发展心理学二元论定位** Perry (1970) 与 [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 将绝对论界定为[[Epistemology\|认识论]]发展的初级阶段，视知识为确定无疑的客观事实。
 > - **2011 年 — 情境化[[Epistemic Stances\|认识立场]]重构** Chinn 等人（2011）指出绝对论并非固定特质，而是学习者在特定学科命题情境中采纳的教条确信姿态。
-> - **2025 年 — 人机共生时代绝对主义顺从与[[Cognitive Offloading\|认知卸载]]研究** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 揭示大语言模型交互中绝对主义立场的消极认知卸载机制，并提出双轨支架转化路径。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
+> - **2025 年 — [[Man-Computer Symbiosis|人机共生]]时代绝对主义顺从与[[Cognitive Offloading\|认知卸载]]研究** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 揭示大语言模型交互中绝对主义立场的消极认知卸载机制，并提出双轨支架转化路径。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
 
 ---
 
@@ -156,7 +157,7 @@ updated: 2026-09-22
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出人机共生自适应[[Epistemic Stances\|认识立场]]框架，系统揭示绝对主义立场在与生成式 AI 交互中的表面顺从与[[Cognitive Offloading\|认知卸载]]表现，并构建双轨支架干预机制。
+> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]框架，系统揭示绝对主义立场在与生成式 AI 交互中的表面顺从与[[Cognitive Offloading\|认知卸载]]表现，并构建双轨支架干预机制。
 > - [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] — 在梳理[[Epistemology\|认识论]]发展模型时，将绝对论作为反映知识确定性、简单性及[[Cognitive Source\|认知来源]]与辩护的初始结构性成分。
 > - [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] — 将绝对论纳入其三层认识论发展框架，揭示了绝对论立场在面对主观性侵入时的脆弱性，以及在事实领域的相对顽固性。
 

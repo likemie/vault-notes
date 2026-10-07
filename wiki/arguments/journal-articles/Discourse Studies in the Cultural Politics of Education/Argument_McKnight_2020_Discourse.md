@@ -10,7 +10,7 @@ title: "Argument_McKnight_2020_Discourse"
 argument_key: "Argument_McKnight_2020_Discourse"
 argument_display_title: "Seven reasons to question the hegemony of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Lesson Study]]"
   - "[[Document]]"
   - "[[Literature Review]]"
+  - "[[Discourse]]"
   - "[[Positivism]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
@@ -90,7 +91,7 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> 论文以七个批判性论点逐层展开（作者明确表示"七"这个数字本身即是对 VL 中充斥的管理话语——测量、表演性和"交付"——的挑衅性和反讽性回应）：
+> 论文以七个批判性论点逐层展开（作者明确表示"七"这个数字本身即是对 VL 中充斥的管理[[Discourse|话语]]——测量、表演性和"交付"——的挑衅性和反讽性回应）：
 >
 > ### 1. [[Visible Learning]] 承载政治包袱
 > 视觉作为主导性和殖民性感官，在新自由主义语境中并非中性选择。VL 暗示教师和学生是全能的行动者——命运在自己手中，从而否定了国家强制课程、测试制度、排名表等的结构性暴力。VL 创造了"每个人都可以监视其他所有人"的监控文化（教师-学生、家长-教师、校长-教师、学者-教师、国家-教师、国家-学者）。教师被保持在"[[Ontology\|本体论]]上不安全"的状态以被去政治化(Ball, 2003)。提出问题：VL 使什么具体化了？谁的获益？暴力和资本流动在哪里？

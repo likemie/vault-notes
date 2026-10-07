@@ -7,7 +7,7 @@ summary: "挪威教育领导力学者，学校治理与问责研究者，为教�
 type: person
 nationality: norway
 person_region: "norway"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -18,6 +18,7 @@ tags:
 - jorunn-mller
 - region/norway
 related_concepts:
+  - "[[Discourse]]"
   - "[[School Leadership]]"
   - "[[Reflexivity]]"
   - "[[Knowledge Production]]"
@@ -37,7 +38,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-02'
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 ## 简介
 
@@ -49,7 +50,7 @@ updated: 2026-09-29
 > [!info] 核心思想
 > Møller 的核心学术立场是对教育领导力研究中的去政治化倾向进行批判。她论证([[Argument_Møller_2017_EERJ\|Møller, 2017]])：
 >
-> 1. **[[OECD]] 话语的去政治化批判** OECD 的教育领导力"最佳实践"模型表面上以政治中立的技术语言呈现，实则高度政治化，尤其当涉及社会正义导向时（p.377）
+> 1. **[[OECD]] [[Discourse|话语]]的去政治化批判** OECD 的教育领导力"最佳实践"模型表面上以政治中立的技术语言呈现，实则高度政治化，尤其当涉及社会正义导向时（p.377）
 > 2. **领导力研究的方法论反思** ISSPP 类型的成功[[School Leadership\|学校领导力]]研究虽有贡献，但过度关注个人能力、忽视权力结构，有陷入"英雄叙事"的风险（p.380-381）
 > 3. **双重分析战线的必要性** 既要改善学校实践，也要让问责体系的设计者为其设计负责（p.382-383）
 > 4. **教育作为道德事业** "成功需要问：在什么方面的成功或为了什么的成功？谁的成功？谁受益？在什么条件下的成功？教育是且始终将是一个有争议的领域"（p.383）

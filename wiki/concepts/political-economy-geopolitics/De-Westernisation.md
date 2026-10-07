@@ -7,7 +7,7 @@ aliases:
 summary: "去殖民理论中指代非西方新兴地缘主体（如中国）通过经济崛起与主权话语建设，企图夺取对全球资本主义世界秩序与殖民权力矩阵掌控权的政治空间运动。它与西方“再西方化”地缘战略相对立，虽然在政治与权威领域挑战西方主导，但在本质上仍维护资本主义体系的生存。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ tags:
   - paradigm/decolonial
   - subject/comparative-education
 related_concepts:
+  - "[[Discourse]]"
   - "[[Re-Westernisation]]"
   - "[[Epistemology]]"
   - "[[Innovation Hub]]"
@@ -57,7 +58,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 去西方化（De-Westernisation）是去殖民理论（尤其是 Mignolo 的权力殖民矩阵学说）中的核心概念。它指的是非西方新兴国家（以中国的崛起为典型代表）借助经济实力、技术自主与民族国家主权话语，在国际秩序中挑战西方的地缘政治霸权，力图从西方（如美国）手中夺取对世界秩序与发展主导权的政治空间运动。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 430]])
+> 去西方化（De-Westernisation）是去殖民理论（尤其是 Mignolo 的权力殖民矩阵学说）中的核心概念。它指的是非西方新兴国家（以中国的崛起为典型代表）借助经济实力、技术自主与民族国家主权[[Discourse|话语]]，在国际秩序中挑战西方的地缘政治霸权，力图从西方（如美国）手中夺取对世界秩序与发展主导权的政治空间运动。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 430]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 一场在接受全球资本主义运行逻辑大前提下，关于世界秩序最高控制权易手的地缘竞争与政治博弈形式。
@@ -87,7 +88,7 @@ updated: 2026-10-07
 
 > [!feature] 核心要素
 > - **资本主义框架保留（Survival of Capitalism）** 去西方化在经济上不挑战资本主义积累逻辑，而是通过发展高技术民族主义和[[Innovation Hub\|创新中心]]参与竞争。(Mignolo, 2011, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 430]])
-> - **国家主义权威夺取（Reclamation of State Authority）** 动用强力国家机器与[[Going Native\|本土化]]文化话语，挑战西方主导的多边[[Disciplina and Doctrina\|规训]]权威。
+> - **国家主义权威夺取（Reclamation of State Authority）** 动用强力国家机器与[[Going Native\|本土化]]文化[[Discourse|话语]]，挑战西方主导的多边[[Disciplina and Doctrina\|规训]]权威。
 > - **认识与主体性张力（Epistemic Tension）** 虽然在制度运作上对抗西方的[[Governing at a Distance\|远处治理]]，但在评估和[[Competitiveness|竞争力]]话语中仍受西方新自由主义框架规训（例如国内高校对西方大学排名评价标准表现出的高度敏感）。
 
 > [!logic-map]- 要素关系
@@ -117,7 +118,7 @@ updated: 2026-10-07
 
 > [!dev-timeline] 概念演变
 > - **2011 — 殖民矩阵的双重道路划分** [[Walter Mignolo]] 在 *The Darker Side of Western Modernity* 中明确界定了去西方化（de-colonial path 的分化形态）与西方[[Re-Westernisation\|再西方化]]的地缘对抗关系，指出两者核心在于争夺控制权。(Mignolo, 2011, 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 430]])
-> - **2023 — 比较教育话语的去西方化解构** Klerides 追溯冷战后的[[Revolutionism\|革命主义]]演进，指出中国的崛起以及学会中对去殖民性、南南对话讨论的增加，将“去西方化”推至比较教育研究的前沿焦点。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 429]])
+> - **2023 — 比较教育[[Discourse|话语]]的去西方化解构** Klerides 追溯冷战后的[[Revolutionism\|革命主义]]演进，指出中国的崛起以及学会中对去殖民性、南南对话讨论的增加，将“去西方化”推至比较教育研究的前沿焦点。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 429]])
 > - **2025 — 地缘政治向空间能动者转型** 余婧然、谢爱磊指出，随着大国博弈在 2016 年后进入自觉研究，去西方化要求高等教育作为空间实践者，在技术民族主义与人才安全化变局下，主动重构跨国流动与地缘空间版图。([[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊, 2025, pp. 5–6]])
 
 ---

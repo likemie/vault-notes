@@ -4,12 +4,13 @@ aliases: ["话语性机会结构", "话语机会结构", "discursive and institu
 summary: "Parreira do Amaral & Dale (2015) 提出的教育治理分析概念，区分制度性机会结构和话语性机会结构——后者指话语框定思维与行动可能性的方式，调节全球高等教育中服务、职位和实践的可及性"
 type: concept
 domain: "sociology-of-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags: ["theme/discourse", "theme/global-governance", "theme/opportunity", "theme/subjectification", "region/europe"]
 related_concepts:
+  - "[[Discourse]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
@@ -27,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-10-07
 ---
 
 # Discursive Opportunity Structures
@@ -35,7 +36,7 @@ updated: 2026-05-21
 ## 定义
 
 > [!info]
-> 话语性机会结构（discursive opportunity structures）是 Parreira do Amaral & Dale（2015）在教育轨迹治理研究中提出的分析概念，指话语如何"框定思维与行动的可能性"（frame the possibilities of thought and action），并由此调节全球高等教育中服务、职位和实践的可及性([[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, p.253]])。
+> [[Discourse|话语]]性机会结构（discursive opportunity structures）是 Parreira do Amaral & Dale（2015）在教育轨迹治理研究中提出的分析概念，指话语如何"框定思维与行动的可能性"（frame the possibilities of thought and action），并由此调节全球高等教育中服务、职位和实践的可及性([[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, p.253]])。
 
 [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022, p.253)]]在分析（新）[[Geopolitics of Knowledge|知识地缘政治]]的主体性生产时，将这一概念纳入其[[Analytic Framework|分析框架]]：分析话语意味着重建其对社会问题的构成方式，并分解其如何生产主体性。
 
@@ -45,14 +46,14 @@ updated: 2026-05-21
 > Parreira do Amaral & Dale（2015）区分了两类机会结构([[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, p.253]])：
 
 - **制度性机会结构（institutional opportunity structures）** 以学校系统、教育政策、工作设施和研究基础设施等物质性制度形态存在——这是传统教育治理分析关注的对象
-- **话语性机会结构（discursive opportunity structures）** 个体所面对的话语框架，在其中他们发展职业生涯、推进生活项目、按自己认为有意义的目标准则进行自我导航
+- **[[Discourse|话语]]性机会结构（discursive opportunity structures）** 个体所面对的话语框架，在其中他们发展职业生涯、推进生活项目、按自己认为有意义的目标准则进行自我导航
 
 二者的关系并非并列而是叠加：个体同时面对制度性约束和话语性框定，话语性机会结构决定了哪些思维和行动路径被视为"可欲的"、"合理的"或"可行的"——从而在制度性结构之外，以更隐蔽的方式调节教育轨迹的可及性([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.253]])。
 
 ## 在知识地缘政治分析中的应用
 
 > [!abstract]
-> [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022, pp.253-254, 264-265)]]将话语性机会结构概念用于分析 21 世纪 [[Single-Case Design\|SCD]] 如何作为（新）[[Geopolitics of Knowledge\|知识地缘政治]]的治理工具运作：
+> [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022, pp.253-254, 264-265)]]将[[Discourse|话语]]性机会结构概念用于分析 21 世纪 [[Single-Case Design\|SCD]] 如何作为（新）[[Geopolitics of Knowledge\|知识地缘政治]]的治理工具运作：
 
 SCD 话语通过界定"未来所需的关键技能"，塑造了个体在全球高等教育中的话语性机会结构——它决定了：
 - 哪些能力被视为"有价值"的（如[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]、协作、沟通），哪些被边缘化

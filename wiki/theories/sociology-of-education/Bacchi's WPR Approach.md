@@ -9,7 +9,7 @@ aliases:
 summary: "Carol Bacchi (2009) 提出的政策分析框架，通过六个递进问题审视政策文本中问题如何被表征和建构，揭示权力、假设和沉默，属于批判政策社会学传统。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[Policy Mobility]]"
+  - "[[Discourse]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Theoretical Standpoint]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 # Bacchi's WPR Approach
@@ -58,7 +59,7 @@ updated: 2026-09-18
 > 该方法在理论上与批判政策社会学（Critical Policy Sociology）紧密关联，专注于质疑权力分配、[[Knowledge Production\|知识生产]]以及[[Policy Mobility\|政策流动]]（policy mobilities）背后的意图与机制（Ozga, 2021）。
 
 > [!claim] 核心主张
-> 政策是通过将某些状况界定为“问题”来行使治理权力的。一旦某种“问题表征”获得官方话语的权威地位，它就会主动建构社会成员的认知，并合理化特定的制度化干预手段（Bacchi, 2009）。
+> 政策是通过将某些状况界定为“问题”来行使治理权力的。一旦某种“问题表征”获得官方[[Discourse|话语]]的权威地位，它就会主动建构社会成员的认知，并合理化特定的制度化干预手段（Bacchi, 2009）。
 
 ---
 
@@ -69,7 +70,7 @@ updated: 2026-09-18
 > 1. **问题表征的识别** 政策将“问题”表征为什么？（识别政策试图纠正的核心状况）
 > 2. **预设与[[Hypothesis\|假设]]分析** 这种“问题表征”基于什么深层预设或假设？（挖掘其底层概念、[[Epistemology\|认识论]]基础和二元对立）
 > 3. **历史建构过程** 这种“问题表征”是如何形成的？（追溯其演变轨迹、关键转折点和权力博弈）
-> 4. **沉默与排除的追问** 哪些议题被沉默了？（寻找被政策话语有意或无意排除的社会因素与解释路径）
+> 4. **沉默与排除的追问** 哪些议题被沉默了？（寻找被政策[[Discourse|话语]]有意或无意排除的社会因素与解释路径）
 > 5. **物质与话语效果** 这种“问题表征”产生了什么效果？（分析对政策主体造成的行为限制、身份建构与物质后果）
 > 6. **生产与颠覆的探索** 这种“问题表征”如何被生产、传播和捍卫？如何被质疑、颠覆和替代？（探索权力网络的维护机制与反抗的可能性）
 
@@ -80,7 +81,7 @@ updated: 2026-09-18
 > [!theory-components] 关键构件
 > - **问题表征（Problem Representation）** 政策文本赋予问题的特定界定方式，构成了治理的起点。
 > - **预设（Presuppositions）** 使某种问题表征显得“理所当然”的底层信念或意识形态。
-> - **沉默（Silences）** 被政策话语系统性排除在外的竞争性解释或关键社会现实。
+> - **沉默（Silences）** 被政策[[Discourse|话语]]系统性排除在外的竞争性解释或关键社会现实。
 > - **话语效果（Discourse Effects）** 限制社会成员讨论与思考该议题的范围与方式。
 > - **主体化效果（Subjectification Effects）** 政策如何对相关群体（如职前教师、大学教师教育者）进行角色塑造和身份定位（如将其表征为“不合格者”或“合规审计对象”）。
 
@@ -107,7 +108,7 @@ updated: 2026-09-18
 ## 适用边界
 
 > [!theory-boundary] 分析局限
-> - **话语偏重** 该方法极度倚重对文本和话语的解构，在分析具体政策在复杂学校环境中的微观实施（enactment）与物质妥协时需要辅以其他社会学方法。
+> - **[[Discourse|话语]]偏重** 该方法极度倚重对文本和话语的解构，在分析具体政策在复杂学校环境中的微观实施（enactment）与物质妥协时需要辅以其他社会学方法。
 > - **分析者主观性** 确定哪些议题属于“沉默”或“排除”，高度依赖研究者自身的[[Theoretical Standpoint\|理论立场]]，容易引入研究者的主观价值偏见。
 
 ---

@@ -7,7 +7,7 @@ aliases:
 summary: "指公共政策制定中针对同一客观情境或治理问题同时并存多种互不相容、无法通约的思考方式与价值取向的生态特征。在信息过量时代，更多知识证据无法自发消除歧义性，反而加剧解释撕裂，促使决策者将数字作为理性表象的脚手架以应对多元分歧。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -17,6 +17,7 @@ tags:
   - theme/governance
 related_concepts:
   - "[[Surplus of Evidence]]"
+  - "[[Discourse]]"
   - "[[Scaffolding]]"
   - "[[Epistemology]]"
   - "[[Scientific Uncertainty]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # Policy Ambiguity
@@ -76,7 +77,7 @@ updated: 2026-09-26
 ## 定义
 
 > [!def] 核心定义
-> **政策歧义性（Policy Ambiguity）**是指在公共决策环境中，面对同一政策议题、客观情境或社会现象，存在多种互不相容、无法简单依靠经验事实或计算逻辑予以弥合的理解框架、价值诉求与阐释视角的根本性生态特质（state of having many ways of thinking about the same circumstances or phenomena）。在数字经济造成海量[[Surplus of Evidence\|证据过剩]]的时代，信息供给的扩张非但无法自动消除歧义性以实现理性的循证决策，反而加剧了多元立场的解释性冲突，迫使治理系统诉诸具备理性客观外衣的量化指标构筑话语[[Scaffolding\|脚手架]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
+> **政策歧义性（Policy Ambiguity）**是指在公共决策环境中，面对同一政策议题、客观情境或社会现象，存在多种互不相容、无法简单依靠经验事实或计算逻辑予以弥合的理解框架、价值诉求与阐释视角的根本性生态特质（state of having many ways of thinking about the same circumstances or phenomena）。在数字经济造成海量[[Surplus of Evidence\|证据过剩]]的时代，信息供给的扩张非但无法自动消除歧义性以实现理性的循证决策，反而加剧了多元立场的解释性冲突，迫使治理系统诉诸具备理性客观外衣的量化指标构筑[[Discourse|话语]][[Scaffolding\|脚手架]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向决策者所处的情境具有多重、流动且相互竞争的意义解释，不存在唯一的客观问题定义。
@@ -197,7 +198,7 @@ updated: 2026-09-26
 > > - **批判治理学者** 揭示现代政策中介本质上是“自指性利益同盟”，它们利用歧义性推销自身预设的政策方案，充当行政当局推行争议性改革的合法化弹药。
 
 > [!critique] 外部批评
-> - **陷入相对主义与虚无主义泥潭** 过度强调歧义性容易导致对政策客观效果的虚无化解构，诱导研究者将一切科学实证证据都贬低为政客随心所欲讲述的“话语故事”，从而损害了严肃实证研究对公共权力的监督效能。
+> - **陷入相对主义与虚无主义泥潭** 过度强调歧义性容易导致对政策客观效果的虚无化解构，诱导研究者将一切科学实证证据都贬低为政客随心所欲讲述的“[[Discourse|话语]]故事”，从而损害了严肃实证研究对公共权力的监督效能。
 
 > [!warning] 适用局限
 > 该概念专属于多重价值目标交织、权力分散的政治与社会系统；在中央高度集权、技术标准绝对统一或危机应急指挥等具有压倒性单一行动指令的决策情境中，歧义性会被行政权力瞬间压制，其分析效用受限。

@@ -6,9 +6,9 @@ summary: "批判理论的核心质性方法论，通过反思实践揭示社会�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 39
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 41
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/critical
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Value Neutrality]]"
   - "[[Unit of Analysis]]"
+  - "[[Discourse]]"
   - "[[Decodification]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
@@ -29,6 +30,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Interpretive Paradigm]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Hidden Curriculum]]"
   - "[[Reliability]]"
   - "[[Problem-Posing Education]]"
   - "[[Culture of Silence]]"
@@ -63,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-16
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Ideology Critique
@@ -78,7 +80,7 @@ updated: 2026-10-01
 > [!method-scope] 方法范围
 > - **研究对象** 教育制度、国家课程政策、学校科层组织、教材文本、知识选择机制中隐蔽的权力支配与阶级/性别/种族利益运作。
 > - **问题类型** 回答“谁的知识被合法化”、“谁的利益被服务”、“权力如何通过教育制度再生产”以及“如何打破虚假意识并实现解放”等规范批判与机制解释问题。
-> - **[[Unit of Analysis|分析单位]]** 制度规程、政策文本、国家课程大纲、微观课堂话语实践、跨国援助协定与组织运行过程。
+> - **[[Unit of Analysis|分析单位]]** 制度规程、政策文本、国家课程大纲、微观课堂[[Discourse|话语]]实践、跨国援助协定与组织运行过程。
 > - **输出形式** 权力关系拓扑图谱、支配利益分析报告、意识形态[[Decodification|解码]]框架与赋权行动议程。
 
 > [!citation-card] 支配利益在普遍利益外衣下的运作
@@ -103,7 +105,7 @@ updated: 2026-10-01
 
 > [!method-stack] 方法层级
 > - **研究设计** 批判性[[Case Study|案例研究]]、批判性政策[[Discourse Analysis|话语分析]]、[[Action Research|行动研究]]、体制[[Ethnography|民族志]]（Institutional Ethnography）。
-> - **数据收集** 官方政策法典、国家课程标准、教科书话语、深层访谈、[[Participant Observation|参与观察]]与体制互动记录。
+> - **数据收集** 官方政策法典、国家课程标准、教科书[[Discourse|话语]]、深层访谈、[[Participant Observation|参与观察]]与体制互动记录。
 > - **分析方法** [[Jürgen Habermas|哈贝马斯]]四阶段反思实践、意识形态运作机制[[Decodification|解码]]、利益冲突映射、话语考古与权力谱系分析。
 > - **辅助技术** [[Reflexivity|反思性]]备忘录、参与者反身性对谈（Reflexive Dialogue）、多重利益主体权力解构矩阵。
 
@@ -132,7 +134,7 @@ updated: 2026-10-01
 > |---|---|
 > | **材料来源** | 官方政策文本、行政督导报告、国家与校本课程大纲、教科书典型图文、教师与边缘学生[[In-depth Interview\|深度访谈]]录音、学校仪式现场观察记录。 |
 > | **抽样与选案** | 批判性目的抽样、典型极端个案选案、最大利益反差选案；特别关注被体制静音（silenced）的弱势群体代表。 |
-> | **研究者位置** | 坦诚披露研究者的阶级、性别与理论偏好，审视自身是否在批判过程中无意施加了新的话语特权；与行动者确立平等的对谈与互惠伙伴关系。 |
+> | **研究者位置** | 坦诚披露研究者的阶级、性别与理论偏好，审视自身是否在批判过程中无意施加了新的[[Discourse\|话语]]特权；与行动者确立平等的对谈与互惠伙伴关系。 |
 > | **资料边界** | 涵盖政策从立法起草、行政颁布、媒体宣传到学校微观执行的全流程，重点识别“文本与实践的断裂带”及“谁的视角被系统性剔除”。 |
 
 > [!proc] 意识形态批判质性分析程序
@@ -148,7 +150,7 @@ updated: 2026-10-01
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - 国家重大教育改革、新自由主义绩效问责与标准化课程政策的批判性解构。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 117–149)]]
->   - 揭露学校教育中的隐性课程、种族与性别刻板印象、阶级再生产机制。
+>   - 揭露学校教育中的[[Hidden Curriculum|隐性课程]]、种族与性别刻板印象、阶级再生产机制。
 >   - 比较教育学中解构国际组织（如[[World Bank|世界银行]]、[[OECD]]）将西方中心主义与新殖民资本逻辑包装为“客观中立发展模式”的研究。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 132–133)]]
 > - **谨慎使用**
 >   - 必须与受访者建立深度信任与互惠伦理，严防研究者以“先知批判者”姿态居高临下指导一线实践，避免将批判异化为纯粹的理论宣泄。

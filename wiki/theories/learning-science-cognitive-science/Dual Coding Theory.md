@@ -7,7 +7,7 @@ aliases:
 summary: "人类认知由独立的非言语视觉表象与言语符号双通道构成，图文协同表征能显著降低工作记忆负荷并强化长时记忆整合的认知学习理论"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Dual Coding Theory

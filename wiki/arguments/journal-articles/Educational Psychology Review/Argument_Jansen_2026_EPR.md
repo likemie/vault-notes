@@ -33,6 +33,7 @@ related_concepts:
   - "[[General Purpose Technology]]"
   - "[[Tracking]]"
   - "[[AI Hallucination]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
@@ -69,7 +70,7 @@ title: "Argument_Jansen_2026_EPR"
 argument_key: "Argument_Jansen_2026_EPR"
 argument_display_title: "Automated data extraction by large language models: Assessing accuracy in comparison to human experts using the example of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -108,7 +109,7 @@ issuing_organization: ""
 > | **[[AI Hallucination\|AI 幻觉]]与误差分类学**<br>[[AI Hallucination]] | 建立涵盖事实虚构、信息遗漏、跨表计算偏差与报告模糊性选择偏误的四维诊断体系。 |
 
 > [!warrant]- 理论如何支撑论证
-> 负责任证据综合中人工智能使用（Responsible use of AI in evidence SynthEsis）指南为本研究确立了评价基线：任何人工智能系统的引入都不能直接假定其可[[Reliability\|信度]]，而必须通过严密的实证评测确定其在特定任务情境下的准确性基准；同时，人类专家必须保持对系统的因果追踪能力。通过解构模型与人类在不同误差类型上的认知表现，研究得以将统计一致性指标转化为人机协同分工的理论依据。（pp. 3, 6, 20, 24）
+> 负责任证据综合中人工智能使用（Responsible use of AI in evidence SynthEsis）指南为本研究确立了评价基线：任何人工智能系统的引入都不能直接假定其可[[Reliability\|信度]]，而必须通过严密的实证评测确定其在特定任务情境下的准确性基准；同时，人类专家必须保持对系统的因果追踪能力。通过解构模型与人类在不同误差类型上的认知表现，研究得以将统计一致性指标转化为[[Man-Computer Symbiosis|人机协同]]分工的理论依据。（pp. 3, 6, 20, 24）
 
 ### 核心变量与操作化编码表（仅量化研究填写）
 

@@ -8,7 +8,7 @@ aliases:
 summary: "实践者在特定物理与社会情境中通过长期实践积累的、兼具默会性与具身性的实践智慧与手艺知识，能够应对现场偶发挑战并促成实际成效的专门知识类型。"
 type: concept
 domain: "sociology-of-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Empiricism]]"
   - "[[Communities of Practice]]"
+  - "[[Discourse]]"
   - "[[Boundary Spanner]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Transfer Translation Transformation]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Contributory Expertise
@@ -90,7 +91,7 @@ updated: 2026-10-05
 > [!contrast-table] 专长形态辨析
 > | 维度 | 贡献型专长（[[Contributory Expertise]]） | 交互型专长（[[Interactional Expertise]]） | 泛在专长（Ubiquitous Expertise） |
 > |---|---|---|---|
-> | **知识本质** | 具身、默会、情境化的手艺知识与受训判断力 | 符号化、标准化、技术客观性的话语体系 | 融入日常生活语言与常识的通用生活技能 |
+> | **知识本质** | 具身、默会、情境化的手艺知识与受训判断力 | 符号化、标准化、技术客观性的[[Discourse\|话语]]体系 | 融入日常生活语言与常识的通用生活技能 |
 > | **行动核心** | 克服偶发阻碍、即兴应对与现场成效实现 | 论点阐释、证据翻译、中介沟通与政策倡导 | 日常社会交往与基础生活功能维持 |
 > | **评价标准** | 现场问题是否解决、微观生态是否改善 | 证据是否严谨、推论是否合乎逻辑、论证是否具备说服力 | 常识沟通顺畅度与社会常态遵从 |
 > | **典型群体** | 教师、中小学校长、临床医师、一线工匠 | 智库学者、政策分析师、[[Boundary Spanner\|知识经纪人]]、外来督导员 | 普通社会公众、未受专业训练的外行人士 |
@@ -156,7 +157,7 @@ updated: 2026-10-05
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2002 — 专长第三次浪潮奠基** Collins & Evans (2002) 提出专长与经验研究（SEE）纲领，突破传统[[Positivism\|实证主义]]与相对主义二元论，首次确立贡献型专长（能够实际参与专业实践）与[[Interactional Expertise\|交互型专长]]（能够无障碍转述专业话语）的理论分界。
+> - **2002 — 专长第三次浪潮奠基** Collins & Evans (2002) 提出专长与经验研究（SEE）纲领，突破传统[[Positivism\|实证主义]]与相对主义二元论，首次确立贡献型专长（能够实际参与专业实践）与[[Interactional Expertise\|交互型专长]]（能够无障碍转述专业[[Discourse|话语]]）的理论分界。
 > - **2007 — 周期专长理论化与《重思专长》** Collins & Evans (2007) 出版《重思专长》（*Rethinking Expertise*），将贡献型专长系统化[[Operationalization\|操作化]]为依赖默会知识传递、扎根[[Communities of Practice|实践社群]]的具身化能力，确立其作为实践知识合法性源头的地位。
 > - **2019 — 专长危机与公共领域制度博弈** Eyal (2019) 在《专长危机》（*The Crisis of Expertise*）中将专长二元论引入政治社会学分析，揭示技术客观性专家与一线实践专家在监管、问责与公共危机中的权力冲突与合法性竞争。
 > - **2025 — 教育治理与学校循证实践的跨国比较** [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] 首次将专长社会学框架引入英格兰、苏格兰与德国三地[[School Leadership\|学校领导]]者[[Research Utilization\|证据使用]]的跨国比较，揭示高利害市场化治理如何压制贡献型专长并诱发表演性依从，而低利害与专业自主环境如何为贡献型专长提供生长空间。

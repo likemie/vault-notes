@@ -6,7 +6,7 @@ aliases:
 summary: "保罗·弗莱雷与批判教育学提出的概念，指在压迫性社会与储蓄式教育中被压迫者被剥夺批判性话语权与表达自由、陷入被动服从的无声状态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Banking Model of Education]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Discourse]]"
   - "[[Active Learning]]"
   - "[[Conscientization]]"
   - "[[Problem-Posing Education]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Culture of Silence
@@ -50,7 +51,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 沉默文化（Culture of Silence）是[[Paulo Freire\|保罗·弗莱雷]]（Paulo Freire）在[[Critical Pedagogy\|批判教育学]]与扫盲实践中提炼的核心概念。它指被压迫者与受教育者在社会压迫结构及[[Banking Model of Education\|储蓄式教育]]的长期[[Disciplina and Doctrina\|规训]]下，丧失了对自身生活现实进行批判性审视与发声的权力，陷入被动接受统治者话语与价值认同的无声状态。在 Freire & Darwish (2009) 的论述中，真正生长/成长与[[Active Learning\|主动学习]]的发生，本质上就是打破这一沉默文化、实现[[Conscientization\|批判意识觉醒]]并迈向实践的过程 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 7)]]。
+> 沉默文化（Culture of Silence）是[[Paulo Freire\|保罗·弗莱雷]]（Paulo Freire）在[[Critical Pedagogy\|批判教育学]]与扫盲实践中提炼的核心概念。它指被压迫者与受教育者在社会压迫结构及[[Banking Model of Education\|储蓄式教育]]的长期[[Disciplina and Doctrina\|规训]]下，丧失了对自身生活现实进行批判性审视与发声的权力，陷入被动接受统治者[[Discourse|话语]]与价值认同的无声状态。在 Freire & Darwish (2009) 的论述中，真正生长/成长与[[Active Learning\|主动学习]]的发生，本质上就是打破这一沉默文化、实现[[Conscientization\|批判意识觉醒]]并迈向实践的过程 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 7)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示了被动受教不仅仅是认知层面的知识缺乏，更是政治与精神层面的被剥夺状态（被视作被动的客体 Objects）。
@@ -67,7 +68,7 @@ updated: 2026-09-17
 ## 核心要素
 
 > [!theory-components] 沉默文化的三大表现维度
-> - **话语权被剥夺（Deprivation of Voice）**
+> - **[[Discourse|话语]]权被剥夺（Deprivation of Voice）**
 >   在权威日程与[[Banking Model of Education\|储蓄式教育]]中，学生只被允许听讲与记忆，无法将教学与自身切身经验建立联系 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 6–7)]]。
 > - **被动客体化（Objectification）**
 >   学习者被假定为“一无所知的空容器”，丧失了作为能动主体（Subjects）独立思考与做决定的能力 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 6)]]。

@@ -8,7 +8,7 @@ summary: "法国认知科学家与哲学家，关联理论与认识论警觉理�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Decodification]]"
   - "[[Source Evaluation]]"
   - "[[Epistemic Cognition]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Cognitive Offloading]]"
   - "[[Epistemic Agency]]"
   - "[[Hypothesis]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Dan Sperber
@@ -120,7 +121,7 @@ updated: 2026-09-22
 
 > [!influence-path] 影响路径
 > - **科学教育与[[Epistemic Cognition|认识论认知]]** Sperber 的[[Epistemological Vigilance|认识论警觉]]理论被当代科学教育学者（Bielik & Krell, 2025; Tseng et al., 2021; [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez, 2026]]）引入课堂探究，用于建构学生对科学主张与生成式 AI 内容的“内容—信源—接收者”三维审验支架。
-> - **教育技术与人工智能伦理** 在人机协同学习中，Sperber 对盲从与欺骗的演化警示，直接催生了以防范[[Cognitive Offloading|认知卸载]]、强化[[Epistemic Agency|认识主体性]]与设计[[Epistemology|认识论]]挑衅为核心的人机互动教学[[Paradigm|范式]]。
+> - **教育技术与人工智能伦理** 在[[Man-Computer Symbiosis|人机协同]]学习中，Sperber 对盲从与欺骗的演化警示，直接催生了以防范[[Cognitive Offloading|认知卸载]]、强化[[Epistemic Agency|认识主体性]]与设计[[Epistemology|认识论]]挑衅为核心的人机互动教学[[Paradigm|范式]]。
 > - **认知语用学与心智哲学** 关联理论至今仍是全球语言学、语用学与人工智能语义理解研究的基础范式之一。
 
 ---

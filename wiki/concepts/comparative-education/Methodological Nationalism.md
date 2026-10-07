@@ -5,10 +5,10 @@ aliases:
 summary: "把民族国家视为现代社会自然单位的方法论立场，容易遮蔽全球联系、跨尺度过程和空间关系的复杂性"
 type: concept
 domain: "comparative-education"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - region/global
   - theme/geopolitics
@@ -16,6 +16,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Space of Flows and Space of Places]]"
+  - "[[Discourse]]"
   - "[[Ontology]]"
   - "[[Classical Geopolitics]]"
   - "[[Unit of Analysis]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-12
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Methodological Nationalism
@@ -75,7 +76,7 @@ updated: 2026-09-29
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将“国家/社会/领土”天然等同，并将国家地理边界视为分析起点与终点的认识预设。
-> - **用途** 帮助研究者识别并反思学术话语、政策文本和实证比较中潜藏的“国家中心”盲区，看见跨国网络和全球流动空间的自主逻辑。
+> - **用途** 帮助研究者识别并反思学术[[Discourse|话语]]、政策文本和实证比较中潜藏的“国家中心”盲区，看见跨国网络和全球流动空间的自主逻辑。
 > - **边界** 批判方法论民族主义不等于主张“国家已消亡”或“国家不重要”，而是拒绝将国家视为唯一的[[Analytic Framework\|分析框架]]与[[Ontology\|本体论]]单位。
 
 > [!citation-card]- 关键表述
@@ -238,6 +239,6 @@ updated: 2026-09-29
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 提出[[Methodological Transnationalism\|方法论跨国主义]]路径，超越将国家视为孤立容器或被动霸权受体的研究取向。
 > - [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]] — 论证 Massey 的[[Relational Space\|关系空间]]理论如何为超越高等教育研究中的方法论民族主义提供[[Ontology\|本体论]]支撑。
-> - [[Argument_Beech_2009_CE\|Beech (2009)]] — 从术语层面剖析比较教育的国家偏见，并运用[[Space of Flows and Space of Places\|流动空间与地方空间]]重构教育政策话语的三级[[Transfer Translation Transformation\|转译]]。
+> - [[Argument_Beech_2009_CE\|Beech (2009)]] — 从术语层面剖析比较教育的国家偏见，并运用[[Space of Flows and Space of Places\|流动空间与地方空间]]重构教育政策[[Discourse|话语]]的三级[[Transfer Translation Transformation\|转译]]。
 > - [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] — 揭示传统比较教育中静态教育转移的国家领土[[Hypothesis\|假设]]，提出关系性流通的阐释。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 运用该概念批判历史和比较教育研究中的“方法论民族主义、国家主义、[[Methodological Educationism\|教育主义]]叠加”现象，阐释其对跨国教育网络研究的遮蔽。

@@ -7,7 +7,7 @@ aliases:
 summary: "一种为检验论证而替不赞同立场辩护的说话实践，在西方家庭学习社会化中可用于训练儿童论证能力"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
   - theme/argumentation
   - field/instruction-pedagogy
 related_concepts:
+  - "[[Discourse]]"
   - "[[Action Better Than Words]]"
 related_theories: []
 related_methods: []
@@ -29,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Devil's Advocate
@@ -58,7 +59,7 @@ updated: 2026-09-22
 > [!abstract]
 > Li 指出，许多受过良好教育的西方父母在日常对话中向儿童示范 devil's advocate 的做法，作为社会化儿童论证能力的一部分([[Argument_Li_2012_Cambridge\|Li, 2012, pp.95-96]])。
 
-父母也会示范类似的话语框架，如"公平地说，我能理解……""站在对方的立场，我虽然不同意他们，但能体谅……"。通过这种方式，儿童学会了如何为不同立场辩护、如何识别论证的弱点、如何在不认同的情况下依然有效地阐述对方论点——这些技能在西方教育系统中被高度重视。
+父母也会示范类似的[[Discourse|话语]]框架，如"公平地说，我能理解……""站在对方的立场，我虽然不同意他们，但能体谅……"。通过这种方式，儿童学会了如何为不同立场辩护、如何识别论证的弱点、如何在不认同的情况下依然有效地阐述对方论点——这些技能在西方教育系统中被高度重视。
 
 > [!example]
 > 西方中学普遍设有辩论队，学生参与校内和校际辩论比赛，优胜者可升至城市、州/省和国家级别——"获得认可的辩论者在大学录取中受到择优院校的追捧"([[Argument_Li_2012_Cambridge\|Li, 2012, p.86]])。

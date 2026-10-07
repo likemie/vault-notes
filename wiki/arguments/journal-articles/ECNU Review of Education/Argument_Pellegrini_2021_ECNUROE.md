@@ -10,7 +10,7 @@ title: "Argument_Pellegrini_2021_ECNUROE"
 argument_key: "Argument_Pellegrini_2021_ECNUROE"
 argument_display_title: "Evidence-based policies in education: Initiatives and challenges in Europe"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Reusability Paradox]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Discourse]]"
   - "[[External Validity]]"
   - "[[Class Size]]"
 related_theories: []
@@ -144,7 +145,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> 1. 欧盟从 2006 年起逐步把[[Research Utilization\|证据使用]]纳入教育和培训政策话语，并通过 2007 年工作文件、2009 年 ET 2020、[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 和 Eurydice 报告持续推动证据文化(pp.28-31)。
+> 1. 欧盟从 2006 年起逐步把[[Research Utilization\|证据使用]]纳入教育和培训政策[[Discourse|话语]]，并通过 2007 年工作文件、2009 年 ET 2020、[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 和 Eurydice 报告持续推动证据文化(pp.28-31)。
 > 2. 欧洲的政策语言更偏向 evidence-informed 而非 evidence-based，这意味着证据来源更宽，政策文件更倾向指导成员国而非规定统一行动线(p.26)。
 > 3. 英国在欧洲证据政策基础设施中处于前沿位置，[[EPPI-Centre]]、[[Education Endowment Foundation\|EEF]]、[[Strategic School Improvement Fund\|SSIF]] and TLIF 等机制体现了研究生成、[[Knowledge Mediation\|知识中介]]和政策资助之间的连接(pp.31-33)。
 > 4. 欧洲证据使用面临[[External Validity\|外部效度]]和可迁移性难题，尤其受 43 个教育系统、24 种官方语言和各国课程标准差异影响(p.36)。

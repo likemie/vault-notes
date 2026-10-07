@@ -11,7 +11,7 @@ aliases:
 summary: "社会认识论、认知伦理学与人机协同核心概念，指认知主体将外部行动者或技术系统的判断视为比自身判断更具权威性与可信度，单凭来源属性而放弃自主审思与反常证据权衡的认识论让渡状态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Reliability]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Automation Bias]]"
   - "[[Trust Calibration]]"
   - "[[Epistemic Dependence]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Epistemic Deference
@@ -62,7 +63,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> [[Epistemology|认识论]]顺从（Epistemic Deference）是指认知主体在面对特定判断或决策任务时，**单凭某一主张来源于特定外部行动者（如人类专家、权威机构或自动化决策支持系统），便将该主张视为比自身判断更具权威性或可[[Reliability|信度]]，进而推翻、压制或停止自身独立审思与反常证据权衡的认识让渡行为**。[[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026, pp. 10–12)]] 在人机协同中，认识论顺从既可以是在面对高度复杂不可验任务时的工具理性策略（理性顺从），也可以在面对明确反常证据时异化为放弃自主能动性的病理化盲从（强[[Automation Bias|自动化偏差]]）。
+> [[Epistemology|认识论]]顺从（Epistemic Deference）是指认知主体在面对特定判断或决策任务时，**单凭某一主张来源于特定外部行动者（如人类专家、权威机构或自动化决策支持系统），便将该主张视为比自身判断更具权威性或可[[Reliability|信度]]，进而推翻、压制或停止自身独立审思与反常证据权衡的认识让渡行为**。[[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026, pp. 10–12)]] 在[[Man-Computer Symbiosis|人机协同]]中，认识论顺从既可以是在面对高度复杂不可验任务时的工具理性策略（理性顺从），也可以在面对明确反常证据时异化为放弃自主能动性的病理化盲从（强[[Automation Bias|自动化偏差]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 刻画认知主体在人机与人际关系中让渡自身认识权威、将信念形成的最终依据外包给技术系统的认识论状态。
@@ -89,7 +90,7 @@ updated: 2026-09-22
 > | **权威来源** | 单凭系统身份赋予绝对权威 | 依赖专业分工与[[Evidence Network\|证据网络]] | 基于证言者的可[[Reliability\|信度]]历史与证据支持 | 基于对系统局部能力与边界的动态校准 |
 > | **反常证据处理** | **推翻或压制**自身掌握的相左证据 | 在自身缺乏专业能力时[[Epoché\|悬置]]判断 | 权衡证言与自身背景知识的自洽性 | **主动凸显**反常证据并据此发起抗辩 |
 > | **主体能动性** | 主动放弃信念修正与反思义务 | 维持目标设定与宏观审慎 | 保持对信息的理解与同化 | 行使实质性裁决权与[[Meaningful Human Control\|有意义的人类控制]] |
-> | **伦理属性** | 在高风险情境中构成道德能动性放弃 | 知识社会协作的常态 | 知识传递的基本机制 | 负责任人机协同的规范理想 |
+> | **伦理属性** | 在高风险情境中构成道德能动性放弃 | 知识社会协作的常态 | 知识传递的基本机制 | 负责任[[Man-Computer Symbiosis\|人机协同]]的规范理想 |
 
 ---
 

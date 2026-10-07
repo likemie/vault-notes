@@ -9,7 +9,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
 - region/uk
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[Discourse]]"
   - "[[Selective Education]]"
   - "[[Moral Sidestep]]"
 related_theories: []
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: 2026-10-07
 ---
 
 ## 背景
@@ -96,7 +97,7 @@ Bainbridge et al. 指出：议会辩论中"FSM 儿童在文法学校中的低比
 
 ### "社会流动性"叙事的瓦解
 
-在 2016 年社会流动性委员会报告发布前，"[[Grammar School|文法学校]]促进社会流动"的论述有 53 次议会提及；报告发布后骤降至 13 次。但"好学校"这一更根本的话语（以 [[Ofsted]] 评级为操作工具的道德侧步）未被同一证据动摇([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.25]])。
+在 2016 年社会流动性委员会报告发布前，"[[Grammar School|文法学校]]促进社会流动"的论述有 53 次议会提及；报告发布后骤降至 13 次。但"好学校"这一更根本的[[Discourse|话语]]（以 [[Ofsted]] 评级为操作工具的道德侧步）未被同一证据动摇([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.25]])。
 
 ### 政策反弹的持续性
 
@@ -110,7 +111,7 @@ Bainbridge et al. 指出：议会辩论中"FSM 儿童在文法学校中的低比
 - [[Grammar School]] — 11+ 成绩决定学生是否进入文法学校
 - [[Education and Inspections Act 2006]] — 禁止新建文法学校的法律框架
 - [[Selective Schools Expansion Fund]] — 允许现有文法学校扩张的政策，间接扩展了 11+ 的覆盖范围
-- [[Moral Sidestep]] — Bainbridge et al. 发现"文法学校好"的道德话语被用于回避关于 11+ 选拔负面影响的证据
+- [[Moral Sidestep]] — Bainbridge et al. 发现"文法学校好"的道德[[Discourse|话语]]被用于回避关于 11+ 选拔负面影响的证据
 
 ---
 

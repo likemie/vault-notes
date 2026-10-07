@@ -12,7 +12,7 @@ subtype: organization
 region: chile
 fact_region: "chile"
 fact_kind: "organization"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Venture Philanthropy]]"
   - "[[Policy Network]]"
+  - "[[Discourse]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Epistemic Governance]]"
   - "[[Knowledge Mediation]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # SUMMA
@@ -169,7 +170,7 @@ updated: 2026-10-01
 > > - **机构防守与独立性保障** SUMMA 于 2019 年通过基金会独立法人注册与多元融资架构（美洲开发银行公共品基金、国际多边发展组织捐赠及成员国政府匹配），建立了严格的学术与治理防火墙以捍卫公共利益。
 
 > [!citation-card] 跨国证据资本运作的批判社会学视阈
-> 跨国矿业与金融资本通过资助英国 EEF 及其全球伙伴（如智利 SUMMA 和澳大利亚 E4L），在全球范围内编排了一套去政治化的“循证客观性”话语；资本由此在政策网络异层治理中获得了合法介入主权教育治理的特许通道。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, p. 8)]]; [[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> 跨国矿业与金融资本通过资助英国 EEF 及其全球伙伴（如智利 SUMMA 和澳大利亚 E4L），在全球范围内编排了一套去政治化的“循证客观性”[[Discourse|话语]]；资本由此在政策网络异层治理中获得了合法介入主权教育治理的特许通道。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, p. 8)]]; [[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 8)]]
 >
 > *"Transnational philanthropic capital, through initiatives such as the BHP Foundation's partnership with the EEF, finances evidence intermediaries across Australia and Latin America, establishing a global heterarchy that recasts educational politics into technical evidence-based solutions."*
 

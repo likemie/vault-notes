@@ -5,7 +5,7 @@ aliases:
 summary: "Slaughter & Leslie (1997) 提出的概念，描述大学日益卷入专利商业化、产学合作和竞争性拨款等市场导向活动，学术生产与资本积累逻辑深度绑定的制度转型过程"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 29
+theory_related_count: 30
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Research Proposal]]"
   - "[[Research Question]]"
+  - "[[Discourse]]"
   - "[[Technology Transfer Office]]"
   - "[[Emergence]]"
   - "[[Cultural Capital]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Academic Capitalism
@@ -132,7 +133,7 @@ updated: 2026-10-06
 > - **[[Research Question|研究问题]]** 解释大学组织为何会出现科研选题规避风险、青年教师生存焦虑、博士毕业生供求失衡以及高校重资产借贷等系统性制度病理。
 > - **分析对象与单位** [[Research Universities|研究型大学]]管理层、学科院系、实验室课题组微观用工网络，以及国家科技资助机构政策文本。
 > - **需要的材料** 高校财务审计年报（间接成本提取率、自筹配套比例）、教师聘任合同中软钱占比、博士生助研津贴流向统计及科研项目立项明细。
-> - **解释目标** 揭示学术卓越话语背后遮蔽的微观经济成本收益激励，透视学术资本主义对大学公共使命的侵蚀机制。
+> - **解释目标** 揭示学术卓越[[Discourse|话语]]背后遮蔽的微观经济成本收益激励，透视学术资本主义对大学公共使命的侵蚀机制。
 
 > [!theory-framework] 命题如何转化为分析维度
 >

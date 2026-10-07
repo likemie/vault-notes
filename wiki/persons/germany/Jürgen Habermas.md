@@ -15,7 +15,7 @@ summary: "德国当代哲学家与社会理论家，法兰克福学派第二代�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 44
+person_related_count: 45
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Ideal Speech Situation]]"
   - "[[Enlightenment]]"
+  - "[[Discourse]]"
   - "[[Scientism]]"
   - "[[Linguistic Turn]]"
   - "[[Bildung]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # Jürgen Habermas
@@ -124,7 +125,7 @@ updated: 2026-09-24
 > - **1971–1981** 出任施塔恩贝格马克斯·普朗克科学技术世界生活条件研究所所长；1973 年发表《晚期资本主义的合法化问题》，提出著名的合法化危机（Legitimation Crisis）分析模型。
 > - **1980** 荣获阿多诺奖，发表里程碑式演讲《现代性——一项未完成的工程》（*Die Moderne: Ein unvollendetes Projekt*），开启与[[Postmodernism\|后现代主义]]思潮长达数十年的跨国辩论。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 25)]]
 > - **1981** 出版两卷本代表巨著《交往行动理论》（*Theorie des kommunikativen Handelns*），完成批判理论从“意识哲学”向“语言与交往哲学”的[[Paradigm\|范式]]飞跃。
-> - **1983–1994** 重返法兰克福大学任教直至荣休；相继出版《现代性的哲学话语》（1985）与《在事实与规范之间》（1992），深化商谈民主与法哲学建构。
+> - **1983–1994** 重返法兰克福大学任教直至荣休；相继出版《现代性的哲学[[Discourse|话语]]》（1985）与《在事实与规范之间》（1992），深化商谈民主与法哲学建构。
 
 ---
 
@@ -138,7 +139,7 @@ updated: 2026-09-24
 >   - **关键概念／方法** 公共领域（Public Sphere）、再封建化、[[Positivism\|实证主义]]批判、[[Scientism\|科学主义]]、技术/实践/解放三种知识构成性兴趣。
 >   - **阶段转向** 克服第一代批判学者（霍克海默、阿多诺）在《启蒙辩证法》中陷入的绝对文化悲观主义绝境，转向[[Epistemology\|认识论]]层面的[[Paradigm\|范式]]重构，论证科学主义对诠释学、审美与批判知识的压抑。
 > - **1970s–1980s — 合法化危机、交往行动理论与现代性辩护阶段** 面对西方福利国家危机与后现代解构思潮的冲击，确立交往理性范式。
->   - **代表著作** 《晚期资本主义的合法化问题》（1973）、《现代性——一项未完成的工程》（1980）、《交往行动理论》（1981）、《现代性的哲学话语》（1985）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 25)]]; [[Argument_Nielsen_2021_IRTP\|(Nielsen & Klitmøller, 2021b)]]
+>   - **代表著作** 《晚期资本主义的合法化问题》（1973）、《现代性——一项未完成的工程》（1980）、《交往行动理论》（1981）、《现代性的哲学[[Discourse|话语]]》（1985）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 25)]]; [[Argument_Nielsen_2021_IRTP\|(Nielsen & Klitmøller, 2021b)]]
 >   - **关键概念／方法** 合法化危机（Legitimation Crisis）、系统与生活世界（System and Lifeworld）、生活世界的殖民化、交往理性（Communicative Rationality）、[[Ideal Speech Situation\|理想言说情境]]、未完成的现代性。
 >   - **阶段转向** 完成[[Critical Theory\|批判理论]]的[[Linguistic Turn\|语言学转向]]；以“主体间性（Intersubjectivity）”取代[[René Descartes\|笛卡尔]]-[[Immanuel Kant\|康德]]式的孤立先验主体；坚决捍卫现代性工程的理性潜能，抵御[[Post-structuralism\|后结构主义]]的相对主义退缩。
 > - **1990s 至今 — 商谈民主、宪政爱国主义与后民族构想阶段** 致力于全球化与多元文化条件下的民主法治重构。
@@ -199,7 +200,7 @@ updated: 2026-09-24
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 24–25)]] — 运用哈贝马斯现代性未完成工程与理性公共领域理论，奠定 19 世纪前中期现代比较教育起源的思想史阐释基架。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 18–19)]] — 评述哈贝马斯与法兰克福学派对[[Positivism\|实证主义]]、[[Scientism\|科学主义]]与技术主义的社会哲学批判，指出其消解价值伦理争辩并造就“无良知社会”的危险。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02\|Cohen et al. (2011, Ch. 2, pp. 23–25)]] — 详尽解构哈贝马斯三种知识构成性兴趣及其对教育批判[[Paradigm\|研究范式]]与[[Ideology Critique\|意识形态批判]]的奠基。
-> - [[Argument_Nielsen_2021_IRTP\|Nielsen & Klitmøller (2021b)]] — 运用哈贝马斯合法化危机与系统/生活世界二元框架，深度剖析现代[[Evidence-Based Education\|循证教育]]评价话语的技术理性本质。
+> - [[Argument_Nielsen_2021_IRTP\|Nielsen & Klitmøller (2021b)]] — 运用哈贝马斯合法化危机与系统/生活世界二元框架，深度剖析现代[[Evidence-Based Education\|循证教育]]评价[[Discourse|话语]]的技术理性本质。
 
 ---
 
@@ -228,7 +229,7 @@ updated: 2026-09-24
 > > 批判学者对哈贝马斯设想的“免除一切权力强制的纯粹理性沟通”是否具有现实可行性存在争议。
 > >
 > > - **批判肯定派（Kemmis, 2014）** 认为理想言说情境并非描述现实状态，而是作为规制性理想（Regulative Ideal），为诊断现实沟通中的权力扭曲与意识形态压迫提供不可或缺的参照坐标。
-> > - **权力现实主义派（Foucault 学派）** 认为话语与权力不可分割，任何被视为“纯粹理性”的公共审议背后均深嵌着知识-权力的微观[[Disciplina and Doctrina\|规训]]，不存在绝对无污染的语言绿洲。
+> > - **权力现实主义派（Foucault 学派）** 认为[[Discourse|话语]]与权力不可分割，任何被视为“纯粹理性”的公共审议背后均深嵌着知识-权力的微观[[Disciplina and Doctrina\|规训]]，不存在绝对无污染的语言绿洲。
 
 > [!warning] 理论边界与当代反思
 > 面对数字时代社交媒体算法推荐、假新闻泛滥与微观极化政治，传统基于实体印刷报刊与咖啡馆对话构建的“资产阶级公共领域”面临深层瓦解；哈贝马斯在晚年著作中亦反思了算法资本对公共审议的新型“再封建化”冲击，促使教育学必须将批判媒介素养与数字公共领域治理纳入商谈伦理的新议程。

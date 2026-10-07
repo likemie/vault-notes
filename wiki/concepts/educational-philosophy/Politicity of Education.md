@@ -9,7 +9,7 @@ aliases:
 summary: "批判教育学揭示的教育本质属性，拒绝技术官僚主义的价值中立虚构，主张教育在认识论、分析与伦理维度上天然内嵌于权力关系、国家意志与意识形态对抗之中，学校教育本质上是多元社会政治经济方案博弈的争鸣场域"
 type: concept
 domain: "educational-philosophy"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Value Neutrality]]"
   - "[[Champ]]"
+  - "[[Discourse]]"
   - "[[Conscientization]]"
   - "[[Subjectivism]]"
   - "[[Official Knowledge]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Politicity of Education
@@ -80,7 +81,7 @@ updated: 2026-10-01
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一切教育行动、课程知识选择与制度规划所必然承载的权力归属、阶级利益与价值立场。
-> - **用途** 瓦解技术官僚与新自由主义经济学家用“科学客观”包装教育政策的去政治化话语。
+> - **用途** 瓦解技术官僚与新自由主义经济学家用“科学客观”包装教育政策的去政治化[[Discourse|话语]]。
 > - **边界** 政治性不等于狭隘的政党政治宣传（Partisanship）或党派灌输，而是要求研究者与教育者对自身理论预设、价值取向与服务阶层保持清醒的认识论反思。
 
 > [!citation-card]- 弗莱雷论教育固有的政治性
@@ -139,7 +140,7 @@ updated: 2026-10-01
 > 阐明技术官僚对“教育危机”的界定绝非纯粹科学发现，而是服务于国家维系积累与合法化平衡的政治策略。
 
 > [!claim] [[Martin Carnoy|Carnoy, M.]] & [[Carlos Alberto Torres|Torres, C. A.]]
-> **教育问题诊断内生于隐蔽的国家理论假定** 马丁·卡诺伊与托雷斯指出，界定教育的真实问题及适宜解法，根本上取决于支撑该诊断的国家理论。大多数教育政策研究自诩中立，却从未明确审视其理论前提；一旦将国家还原为资本积累与政治统治的工具，便可发现诸如“办学效率低下”、“教师问责不力”等危机诊断，本质上是国家为了削减公共开支、转移积累危机而推行的阶级话语。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 73, 77–78)]]
+> **教育问题诊断内生于隐蔽的国家理论假定** 马丁·卡诺伊与托雷斯指出，界定教育的真实问题及适宜解法，根本上取决于支撑该诊断的国家理论。大多数教育政策研究自诩中立，却从未明确审视其理论前提；一旦将国家还原为资本积累与政治统治的工具，便可发现诸如“办学效率低下”、“教师问责不力”等危机诊断，本质上是国家为了削减公共开支、转移积累危机而推行的阶级[[Discourse|话语]]。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 73, 77–78)]]
 
 > [!claim] [[Liliana Esther Olmos|Olmos, L. E.]] & [[Carlos Alberto Torres|Torres, C. A.]]
 > **外围[[Conditioned State Theory|受限国家]]教育扩张的[[Compensatory Legitimation|补偿性合法化]]功能** 在第三世界依附性资本主义国家中，教育系统的膨胀并非源于纯粹的技术发展需求，而是国家在积累能力匮乏与外部债务约束下推行的[[Compensatory Legitimation|补偿性合法化]]策略；国家通过增发边缘教育文凭来缓和底层社会的阶级矛盾，掩盖分配正义的缺位。[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009, pp. 81–82)]]
@@ -217,7 +218,7 @@ updated: 2026-10-01
 > | [[Official Knowledge]] | 概念 | 刻画国家机器与统治阶级如何将自身偏好的政治文化内容法典化为学校合法知识。 |
 > | [[Compensatory Legitimation]] | 理论 | 阐明国家在面临积累危机时，如何通过非生产性的教育机会扩张实施政治合法性补偿。 |
 > | [[Conditioned State Theory]] | 理论 | 揭示外围受限国家在跨国资本与本土阶级冲突夹击下，教育体系必然呈现的依附与分裂特征。 |
-> | [[Financial-Intellectual Complex]] | 概念 | 揭示国际金融机构如何利用贷款资金捆绑去政治化的技术主义研究话语。 |
+> | [[Financial-Intellectual Complex]] | 概念 | 揭示国际金融机构如何利用贷款资金捆绑去政治化的技术主义研究[[Discourse\|话语]]。 |
 > | [[Dual School System]] | 概念 | 体现教育政治性的制度产物，由精英垄断高阶教育与大众滞留劣质公学构成结构割裂。 |
 > | [[Paulo Freire]] | 人物 | 奠基者，首次系统提出教育固有的政治性命题，开创解放教育学传统。 |
 > | [[Carlos Alberto Torres]] | 人物 | 将弗莱雷思想与新马克思主义国家理论结合，系统阐释教育政治性的[[Epistemology\|认识论]]、分析与伦理维度。 |

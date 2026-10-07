@@ -8,10 +8,10 @@ aliases:
 summary: "由巫俊宇、李元萱、柴清生与蔡今中（Wu et al., 2025）提出的人机协同学习理论框架，通过修订蔡今中网络学习认识论假说，揭示生成式人工智能环境下学习者的认识立场、先验知识与知识辩护方式如何决定人机共享认识能动性的实现样态，并提出促进立场向评价论演进的教学支架与技术干预机制。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 38
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 40
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theory/educational-psychology
   - theme/human-ai-interaction
@@ -24,10 +24,12 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Agency]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Epistemic Stances]]"
   - "[[General Purpose Technology]]"
   - "[[Assemblage]]"
   - "[[Homework]]"
+  - "[[Discourse]]"
   - "[[Epistemological Beliefs]]"
   - "[[Scaffolding]]"
   - "[[Construct]]"
@@ -65,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Symbiotic Framework of Adaptive Epistemic Stances
@@ -81,7 +83,7 @@ updated: 2026-10-03
 > - **知识位置** 处于[[Epistemic Cognition\|认识论认知]]、人机交互与教育技术学的[[Comparative Education as a Cross-Sectional Area|交叉领域]]，直接承袭并发展了[[Chin-Chung Tsai\|蔡今中]]（Chin-Chung Tsai, 2004）的网络学习认识论假说。
 
 > [!claim] 核心判断
-> 人机协同学习并非单向的人类操纵机器或算法替代人类，而是一个人机共享认识能动性的共生系统；学习者能否在人机交互中实现深层认知理解，取决于其[[Epistemic Stances\|认识立场]]、先验知识与知识辩护方式的适配程度，且唯有依托系统化教学反思支架与技术提示，频繁的人机交互才能有效促进学习者认识立场向评价论演进。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360, 364–366)]]
+> [[Man-Computer Symbiosis|人机协同]]学习并非单向的人类操纵机器或算法替代人类，而是一个人机共享认识能动性的共生系统；学习者能否在人机交互中实现深层认知理解，取决于其[[Epistemic Stances\|认识立场]]、先验知识与知识辩护方式的适配程度，且唯有依托系统化教学反思支架与技术提示，频繁的人机交互才能有效促进学习者认识立场向评价论演进。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360, 364–366)]]
 
 ---
 
@@ -90,8 +92,8 @@ updated: 2026-10-03
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 巫俊宇（Jiun-Yu Wu）、李元萱（Yuan-Hsuan Lee）、柴清生（Ching Sing Chai）与[[Chin-Chung Tsai\|蔡今中]]（Chin-Chung Tsai）于 2025 年在 *Educational Researcher* 发表专论 *Strengthening Human [[Epistemic Agency]] in the Symbiotic Learning Partnership With [[Generative Artificial Intelligence]]*。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–368)]]
 > - **原初问题** 生成式大模型（如 [[General Purpose Technology|GPT]]-4.5、Gemini 2.5、Claude 3.5）提供了高度整合且流畅的知识解答，弱化了学习者自主检索、筛选和[[Assemblage\|组装]]信息的必要性，引发了人类主体可能丧失认识能动性的普遍担忧。
-> - **理论资源与材料** 汲取 Tsai (2004) 关于网络学习[[Epistemology\|认识论]]的两大经典假说、[[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 与 [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 的[[Epistemic Stances\|认识论立场]]三阶段模型（绝对论、多元论、评价论）、Scardamalia (2002) 的集体认识责任理论，并结合大学生使用 ChatGPT 解决统计推论[[Homework\|作业]]的微观交互对话语料。
-> - **形成路径** 将网络搜索引擎时代基于自主信息筛选的认识论模型，重塑为生成式大模型时代基于对话质询、批判检验与人机共生的自适应认识立场框架，推导出两大修订核心命题。
+> - **理论资源与材料** 汲取 Tsai (2004) 关于网络学习[[Epistemology\|认识论]]的两大经典假说、[[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 与 [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 的[[Epistemic Stances\|认识论立场]]三阶段模型（绝对论、多元论、评价论）、Scardamalia (2002) 的集体认识责任理论，并结合大学生使用 ChatGPT 解决统计推论[[Homework\|作业]]的微观交互对[[Discourse|话语]]料。
+> - **形成路径** 将网络搜索引擎时代基于自主信息筛选的认识论模型，重塑为生成式大模型时代基于对话质询、批判检验与[[Man-Computer Symbiosis|人机共生]]的自适应认识立场框架，推导出两大修订核心命题。
 
 ### 后续修订与扩展
 
@@ -150,7 +152,7 @@ updated: 2026-10-03
 ## 理论局限与适用边界
 
 > [!theory-boundary] 理论局限与适用边界
-> - **适合分析** 涉及复杂概念理解、[[Problem Solving\|问题解决]]、方案设计与学术论辩的人机协同学习情境。
+> - **适合分析** 涉及复杂概念理解、[[Problem Solving\|问题解决]]、方案设计与学术论辩的[[Man-Computer Symbiosis|人机协同]]学习情境。
 > - **成立条件** 学习者拥有与大模型进行多轮对话的技术交互通道，且任务具备[[Open-Mindedness|开放性]]与可探讨空间。
 > - **解释不足** 尚未充分纳入学习者的动机结构（如时间压力、成绩敏感度）、学科兴趣及[[Self-Efficacy\|自我效能感]]对交互行为的复杂[[Interaction Effect\|调节效应]]。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 366)]]
 > - **不能直接推出** 不能单纯将使用频次等同于[[Epistemology\|认识论]]成熟度，亦不能[[Hypothesis\|假设]]所有学科任务中模型辅助都能自动带来智力增益。
@@ -160,5 +162,5 @@ updated: 2026-10-03
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 框架奠基专论，系统建构自适应[[Epistemic Stances\|认识立场]]与人机共生学习理论，提出两大核心修订命题。
+> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 框架奠基专论，系统建构自适应[[Epistemic Stances\|认识立场]]与[[Man-Computer Symbiosis|人机共生]]学习理论，提出两大核心修订命题。
 > - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 从关系性[[Epistemology\|认识论]]视角探讨人机相互依赖下的主体性自持，与本框架形成互补呼应。

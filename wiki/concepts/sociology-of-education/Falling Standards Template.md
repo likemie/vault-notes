@@ -7,7 +7,7 @@ aliases:
 summary: "大众媒介在报道教育事务时惯常套用的一种仪式化与还原论叙事框架，无论实证数据是否平稳，均系统性将国家教育系统描述为处于标准下滑与全面危机之中"
 type: concept
 domain: "sociology-of-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,6 +18,7 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Disciplina and Doctrina]]"
+  - "[[Discourse]]"
   - "[[Causality]]"
   - "[[Academic Achievement]]"
   - "[[PISA Shock]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 # Falling Standards Template
@@ -58,7 +59,7 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> 水平下降模板（Falling Standards Template）指大众新闻媒体在报道学校教育、考试成绩及大规模学生评估结果时，惯常套用的一种高度可预测、仪式化且严重简化的叙事框架（Warmington & Murphy, 2004, 2007）。在这一框架[[Disciplina and Doctrina\|规训]]下，无论客观实证数据表现为历时平稳还是细微波动，媒体均本能地将其重构为“国家教育水平全面滑坡”、“公立学校陷入制度性瘫痪”以及“年轻一代在国际竞争中被对手甩开”的失败者叙事，从而成为大众传媒建构教育危机、引导公众集体焦虑的常规话语技术（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）。
+> 水平下降模板（Falling Standards Template）指大众新闻媒体在报道学校教育、考试成绩及大规模学生评估结果时，惯常套用的一种高度可预测、仪式化且严重简化的叙事框架（Warmington & Murphy, 2004, 2007）。在这一框架[[Disciplina and Doctrina\|规训]]下，无论客观实证数据表现为历时平稳还是细微波动，媒体均本能地将其重构为“国家教育水平全面滑坡”、“公立学校陷入制度性瘫痪”以及“年轻一代在国际竞争中被对手甩开”的失败者叙事，从而成为大众传媒建构教育危机、引导公众集体焦虑的常规[[Discourse|话语]]技术（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向新闻生产中长期积淀、代代相传的负面叙事模具，用于将复杂的教育[[Causality\|因果关系]]还原为单一的“水准下降”。
@@ -83,7 +84,7 @@ updated: 2026-09-18
 > [!contrast-table] 概念辨析
 > | 维度 | Falling Standards Template（水平下降模板） | [[Media Logic\|Media Logic（媒介逻辑）]] | [[Mediatised Governance\|Mediatised Governance（媒介化治理）]] |
 > |:---|:---|:---|:---|
-> | **范畴属性** | 话语层面的具体叙事格式与叙事剧本 | 制度层面的传播运行总法则与新闻价值规范 | 政治与治理层面的跨[[Champ\|场域]]共谋体制 |
+> | **范畴属性** | [[Discourse\|话语]]层面的具体叙事格式与叙事剧本 | 制度层面的传播运行总法则与新闻价值规范 | 政治与治理层面的跨[[Champ\|场域]]共谋体制 |
 > | **运作机制** | 将所有实证输入强制转化为“失败者故事” | 筛选冲突、坏消息、耸动标题与排列表 | 政治精英利用媒介模板推销新自由主义争议改革 |
 > | **表现形态** | “英国青少年得差评”、“教育陷入低迷”等头条 | 30 秒广播通稿、一维排列表、信息图 | 剥离民主监督、架空实证[[Chain of Evidence\|证据链]]的行政与立法落地 |
 

@@ -9,7 +9,7 @@ aliases:
 summary: "个体理解人工智能基本运作机制、能力边界与算法偏见，能够维持认识论警觉并负责任地将智能工具作为放大人类认知与高阶思维而非替代自身思考的综合素养范式。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 43
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Illusion of Competence]]"
   - "[[Epistemology]]"
   - "[[Data Literacy]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Scientific Literacy]]"
   - "[[Nature of Science]]"
   - "[[Computational Thinking]]"
@@ -47,6 +48,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Epistemic Practices]]"
   - "[[Epistemic Ideals]]"
+  - "[[Discourse]]"
   - "[[Evidence Standards]]"
   - "[[Evaluative Judgement]]"
   - "[[Feedback Literacy]]"
@@ -69,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # AI Literacy
@@ -98,7 +100,7 @@ updated: 2026-09-22
 > *AI literacy training empowers students to critically examine outputs rather than passively accept them... fostering the epistemic vigilance needed for synergistic higher-order thinking.*
 
 > [!boundary] 概念边界辨析
-> - **[[Data Literacy\|数据素养]]（Data Literacy）** 数据素养侧重于数据采集、统计图表解读、概率推断与风险评估，是 AI 素养的数理基础；AI 素养进一步聚焦于深度学习黑箱、大语言模型生成逻辑、算法偏见与人机协同认知分工。
+> - **[[Data Literacy\|数据素养]]（Data Literacy）** 数据素养侧重于数据采集、统计图表解读、概率推断与风险评估，是 AI 素养的数理基础；AI 素养进一步聚焦于深度学习黑箱、大语言模型生成逻辑、算法偏见与[[Man-Computer Symbiosis|人机协同]]认知分工。
 > - **[[Scientific Literacy\|科学素养]]（Scientific Literacy）** 科学素养涵盖对自然现象的实证探究、假说检验与[[Nature of Science\|科学本质]]理解；AI 素养是科学素养在智能化时代的延伸，强调如何利用智能工具赋能科学探究而非侵蚀实证精神。
 > - **[[Computational Thinking\|计算思维]]（Computational Thinking）** 计算思维强调问题分解、模式识别、抽象建模与算法设计；AI 素养更偏向技术使用者对黑箱系统的认识论评估、对话策略与社会伦理审视。
 
@@ -109,7 +111,7 @@ updated: 2026-09-22
 > [!contrast-table] 人工智能素养与相关数字素养[[Construct\|构念]]对比
 > | 比较维度 | **人工智能素养（AI Literacy）** | **[[Computational Thinking\|计算思维]]（Computational Thinking）** | **[[Data Literacy\|数据素养]]（Data Literacy）** | **传统数字素养（Digital Literacy）** |
 > |---|---|---|---|---|
-> | **核心指向** | 智能系统运作理解、人机协同规制与算法批判 | 逻辑问题求解、算法构建与系统抽象设计 | 数据分析、统计推断、图表解读与证据评价 | 数字化工具操作、信息检索与多媒体沟通 |
+> | **核心指向** | 智能系统运作理解、[[Man-Computer Symbiosis\|人机协同]]规制与算法批判 | 逻辑问题求解、算法构建与系统抽象设计 | 数据分析、统计推断、图表解读与证据评价 | 数字化工具操作、信息检索与多媒体沟通 |
 > | **技术底层关注** | 概率生成机制、神经网络黑箱、生成[[AI Hallucination\|幻觉]]与偏见 | 逻辑控制流、数据结构、递归与算法复杂度 | [[Sampling Error\|抽样误差]]、分布特征、相关与[[Causality\|因果关系]] | 软件界面交互、文件格式、网络协议应用 |
 > | **关键认知操作** | [[Epistemological Vigilance\|认识论警觉]]、提示词迭代、输出审订、[[Metacognition\|元认知监控]] | 任务分解、模式归纳、抽象建模、调试查错 | 趋势识别、异常值检验、统计偏误识别 | 信息筛选、格式转换、数字化协作分享 |
 > | **AI 交互中的角色** | 决定是批判性[[Dialogue in Education\|对话]]（协同）还是被动顺从（卸载） | 理解大模型架构原理与编写自动化脚本 | 评估大模型训练数据集的代表性与偏差 | 操作 ChatGPT 界面与导出文本数据 |
@@ -121,7 +123,7 @@ updated: 2026-09-22
 
 > [!feature] 人工智能素养的四维[[Construct\|构念]]框架（Ng et al., 2021; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society, 2026]]; [[Argument_Li_2026_CEAI\|Li et al., 2026]]）
 > - **技术认知与机制理解（Knowing & Understanding AI）** 把握大语言模型等算法的概率预测本质、训练数据集依赖性、生成幻觉（Hallucination）与黑箱特性，建立对智能系统能力的合理预期。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]
-> - **批判性应用与人机协同（Critical Application & Co-Inquiry）** 熟练运用结构化提示词设计（Prompt Engineering），将 AI 定位为拓展思维视角的“对话伙伴”与“[[Scaffolding\|脚手架]]”，坚持“放大认知而非外包思考”的行动底线。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 10–12)]]
+> - **批判性应用与[[Man-Computer Symbiosis|人机协同]]（Critical Application & Co-Inquiry）** 熟练运用结构化提示词设计（Prompt Engineering），将 AI 定位为拓展思维视角的“对话伙伴”与“[[Scaffolding\|脚手架]]”，坚持“放大认知而非外包思考”的行动底线。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 10–12)]]
 > - **[[Epistemological Vigilance\|认识论警觉]]与多源验证（Epistemic Vigilance & Evaluation）** 保持对模型输出的怀疑态度，识别虚假事实与逻辑漏洞，通过[[Primary and Secondary Documents\|一手文献]]核查、[[Triangulation\|三角互证]]与反思日志对生成文本进行严格审订。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3)]]
 > - **伦理审思与主体性维护（Ethical [[Reflexivity]] & Agency Preservation）** 敏锐洞察算法偏见、数据隐私侵犯、知识产权归属与数字鸿沟风险，自觉在人机协作中保留个人独特的学术声音与价值立场。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 34)]]
 
@@ -190,7 +192,7 @@ updated: 2026-09-22
 > 探讨如何防止人工智能素养窄化为工具主义操作流，阐明将模型生成物置于学科[[Epistemic Ideals\|认识论标准]]下审视的高阶素养内涵。
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]
-> **从提示词技巧转向[[Epistemology\|认识论]]探究实践** 当前教育话语常将人工智能素养窄化为孤立的操作技术、提示词技巧（Prompt Technique）或学术诚信合规难题（Ng et al., 2021）。然而，真正的关键在于培养学生将人工智能生成物作为“探究对象”（Object of Inquiry）而非“权威交付成果”的认识论实践能力。高水平的人工智能素养必然与学科[[Evidence Standards\|证据标准]]、[[Evaluative Judgement\|评价性判断]]（Evaluative Judgement, Tai et al., 2018）以及[[Feedback Literacy\|反馈素养]]（Feedback Literacy, Carless & Boud, 2018）深度融合：学生不仅要能获取算法反馈，更要能批判性追问“输出遵循了哪种学科标准”、“什么证据能推翻该结论”，并在人机协同中对最终成果承担不可推卸的[[Epistemic Responsibility\|认识论责任]]。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 1, 6, 8)]]
+> **从提示词技巧转向[[Epistemology\|认识论]]探究实践** 当前教育[[Discourse|话语]]常将人工智能素养窄化为孤立的操作技术、提示词技巧（Prompt Technique）或学术诚信合规难题（Ng et al., 2021）。然而，真正的关键在于培养学生将人工智能生成物作为“探究对象”（Object of Inquiry）而非“权威交付成果”的认识论实践能力。高水平的人工智能素养必然与学科[[Evidence Standards\|证据标准]]、[[Evaluative Judgement\|评价性判断]]（Evaluative Judgement, Tai et al., 2018）以及[[Feedback Literacy\|反馈素养]]（Feedback Literacy, Carless & Boud, 2018）深度融合：学生不仅要能获取算法反馈，更要能批判性追问“输出遵循了哪种学科标准”、“什么证据能推翻该结论”，并在[[Man-Computer Symbiosis|人机协同]]中对最终成果承担不可推卸的[[Epistemic Responsibility\|认识论责任]]。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 1, 6, 8)]]
 
 ---
 
@@ -212,7 +214,7 @@ updated: 2026-09-22
 > - **2000 年代初 — 计算机与信息素养（ICT Literacy）** 聚焦计算机基本硬件操作、办公软件使用与互联网信息检索技能。
 > - **2010 年代 — [[Computational Thinking\|计算思维]]与编程教育（Computational Thinking）** 强调逻辑抽象、算法分解、模式识别与代码编程能力的普及。
 > - **2020 年左右 — AI 素养概念提出与框架雏形** Ng et al. (2021) 率先提出涵盖“知晓、应用、评价、伦理”的 AI 素养四维概念模型。
-> - **2026 年初 — 批判性 AI 素养与生成式智能时代[[Epistemology\|认识论]]重塑** 随着大语言模型普及，研究从工具操作技能全面转向“[[Epistemological Vigilance\|认识论警觉]]、认知防卸载、人机协同反思与主体性维护”。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 31–32)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3)]]
+> - **2026 年初 — 批判性 AI 素养与生成式智能时代[[Epistemology\|认识论]]重塑** 随着大语言模型普及，研究从工具操作技能全面转向“[[Epistemological Vigilance\|认识论警觉]]、认知防卸载、[[Man-Computer Symbiosis|人机协同]]反思与主体性维护”。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 31–32)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3)]]
 > - **2026 年 — [[Epistemic Practices\|认识论实践]]转向与[[Evaluative Judgement\|评价性判断]]融合** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 批判将人工智能素养简化为提示词操作或合规防弊的狭隘倾向，提出将其与学科[[Epistemic Ideals\|认识论标准]]、评价性判断及[[Feedback Literacy\|反馈素养]]深度整合，确立将模型输出作为探究对象、对最终结论承担实质责任的批判性素养[[Paradigm\|范式]]。
 
 ---
@@ -262,7 +264,7 @@ updated: 2026-09-22
 > - **英国皇家学会跨学科 AI 与科学探究融合大纲（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society, 2026]]）**
 >   将 AI 素养设计为贯穿物理、化学、生物与地理的综合实践线索。学生在进行气候变化或基因数据分析时，必须利用 AI 工具开展数据建模，同时强制撰写“算法局限与数据偏见评估报告”，使技术认知与实证探究紧密结合。
 > - **大学课堂“提示词追踪与去幻觉答辩”教学规程（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）**
->   教师在期末评估中引入“过程性提示词链（Prompt Trail）”与“现场口头辩护”，要求学生向全班展示如何通过批判性提问纠正 ChatGPT 给出的错误信息，将评价重心从单纯提交终稿转向展示人机协同中的[[Metacognition\|元认知监控]]与 AI 批判素养。
+>   教师在期末评估中引入“过程性提示词链（Prompt Trail）”与“现场口头辩护”，要求学生向全班展示如何通过批判性提问纠正 ChatGPT 给出的错误信息，将评价重心从单纯提交终稿转向展示[[Man-Computer Symbiosis|人机协同]]中的[[Metacognition\|元认知监控]]与 AI 批判素养。
 
 ---
 

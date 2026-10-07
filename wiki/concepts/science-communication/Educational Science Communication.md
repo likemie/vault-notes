@@ -10,7 +10,7 @@ aliases:
 summary: "面向教师、教育管理者与公众开展的教育研究成果阐释、中介与双向对话形态，主张超越单向线性传输与学术声誉顾虑，借助播客、清算平台及社交网络实现受众适配的证据转化。"
 type: concept
 domain: "science-communication"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Virtual Teacher Staffroom]]"
   - "[[Refutational Evidence]]"
   - "[[Document]]"
+  - "[[Discourse]]"
   - "[[Evidence-Based Education]]"
   - "[[Variable]]"
 related_theories:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Educational Science Communication
@@ -128,7 +129,7 @@ updated: 2026-09-22
 ### 命题一　单向线性知识传输无法契合复杂教学实践情境且容易加剧教师的认知防御与研究疏离
 
 > [!concept-lens] 实践情境性与教师认知防卫
-> 探讨传统学术[[Document\|文献]]为何在一线教学中难以转化，以及单向[[Falsification\|证伪]]话语如何引发实践者的心理排斥。
+> 探讨传统学术[[Document\|文献]]为何在一线教学中难以转化，以及单向[[Falsification\|证伪]][[Discourse|话语]]如何引发实践者的心理排斥。
 
 > [!claim] Gräsel (2019)
 > **情境适配是转移发生的先决条件** 科学研究成果无法直接作为行动指令被教师吸收，唯有将其转化为契合特定学校与课堂生态的实践情境语言，才能为证据知情行动奠定认知基础。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 253, 258)]]
@@ -198,7 +199,7 @@ updated: 2026-09-22
 > > 探讨在将复杂的统计参数与方法学局限通俗化时，如何防止产生新的误解。
 > >
 > > - **学术保守派** 担忧大众化转译会牺牲科学严谨性，使证据呈现走向片面化。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 253)]]
-> > - **传播倡导派** 强调只要以高质量、经受检验的证据为底线，针对受众话语体系进行语言适配不仅必要而且能够通过概念转变实现有效纠偏。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 258)]]
+> > - **传播倡导派** 强调只要以高质量、经受检验的证据为底线，针对受众[[Discourse|话语]]体系进行语言适配不仅必要而且能够通过概念转变实现有效纠偏。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 258)]]
 >
 > > [!axis] 中介机构的受众穿透瓶颈：教师教育者乘数效应 vs 直接面向广大一线教师
 > > 探讨清算平台是将资源集中于大学教师教育者，还是直接面向广大中小学一线教师。

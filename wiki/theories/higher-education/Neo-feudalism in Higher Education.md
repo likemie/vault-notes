@@ -7,7 +7,7 @@ aliases:
 summary: "Schulze-Cleven et al. (2017) 引入的分析范式，主张当代学术等级通过忠诚联盟、群体特权和声望展示等封建式机制维持，市场化和竞争非但未消解等级反而将其固化为新封建秩序"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 11
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Knowledge Capitalism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Operationalization]]"
+  - "[[Discourse]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-09-11
+updated: 2026-10-07
 ---
 
 # Neo-feudalism in Higher Education
@@ -112,7 +113,7 @@ updated: 2026-09-11
 > [!warning]
 > - 新封建主义的概念是否过度延伸了封建类比？现代学术等级依赖的是制度化的评价体系（同行评审、排名）而非个人化的封君-封臣关系，两者在权力性质上存在根本差异
 > - 各篇文章对新封建主义的理解并不统一——Jessop 将其置于政治资本主义分析中，Reitz 强调评估机制的功能必要性，Wieczorek et al. 则将其[[Operationalization\|操作化]]为 Weber 式理想类型——概念的一致性尚待建立
-> - 新封建主义的批判力量在于揭示市场话语（"卓越"、"竞争"）掩盖下的权力关系，但作为[[Analytic Framework\|分析框架]]，其与 Bourdieu 的[[Champ\|场域]]理论和新 Weber 主义的边界尚需进一步清晰化
+> - 新封建主义的批判力量在于揭示市场[[Discourse|话语]]（"卓越"、"竞争"）掩盖下的权力关系，但作为[[Analytic Framework\|分析框架]]，其与 Bourdieu 的[[Champ\|场域]]理论和新 Weber 主义的边界尚需进一步清晰化
 
 ## 相关研究
 

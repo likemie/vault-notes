@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Abstract]]"
   - "[[Learning Progression]]"
+  - "[[Discourse]]"
   - "[[Gatekeepers]]"
   - "[[Document]]"
 related_theories: []
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # American Federation of Teachers
@@ -138,7 +139,7 @@ updated: 2026-09-26
 > > AFT 领导层在早期为 CCSS 站台背书的策略在工会基层引发了尖锐的内部批评。
 > >
 > > - **基层批判派教师** 谴责领导层过早接受了具有新自由主义色彩的国家统一标准，未能在早期坚决阻断后续联邦[[Race to the Top|力争上游]]（RTTT）高利害问责的绑架。
-> > - **温加滕与领导层回应** 强调若工会选择作壁上观或一味反对，标准将完全由商业测评公司和脱离实践的技术官僚包办，参与深度审读是为广大基层教师争取专业话语权与过渡资源的唯一务实途径。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 15, 17–18)]]
+> > - **温加滕与领导层回应** 强调若工会选择作壁上观或一味反对，标准将完全由商业测评公司和脱离实践的技术官僚包办，参与深度审读是为广大基层教师争取专业[[Discourse|话语]]权与过渡资源的唯一务实途径。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 15, 17–18)]]
 
 ---
 

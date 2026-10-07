@@ -9,10 +9,10 @@ aliases:
 summary: "Schein 提出的组织文化三层次框架（器物、信奉价值观、深层基本假设），揭示了表层可见符号与官方理念如何常与深层防御心理及信任赤字发生结构性断裂，并解释了正式管理文化重构与微观非正式制度之间的解耦与韧性"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 49
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_count: 51
+theory_related_level: 6
+theory_related_stars: "⭐⭐⭐⭐⭐⭐"
+theory_related_color: "#fef3c7"
 tags:
   - theory/organization-studies
   - theory/research-methodology
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Data Infrastructure]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Discourse]]"
   - "[[Dialogue in Education]]"
   - "[[Evidence Ecosystem]]"
   - "[[Embedded Researcher]]"
@@ -33,6 +34,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Open-Mindedness]]"
   - "[[Research Literacy]]"
+  - "[[Hidden Curriculum]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Based Education]]"
   - "[[School Inspection]]"
@@ -78,7 +80,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-05
-updated: 2026-10-04
+updated: 2026-10-07
 ---
 
 # Organizational Culture
@@ -94,7 +96,7 @@ updated: 2026-10-04
 > - **知识位置** 由 Edgar Schein (1985, 1992) 奠定三层次架构，后经复杂系统[[Knowledge Mobilisation\|知识动员]]理论（Best & Holmes, 2010）引入教育政策与证据生态分析，被[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]列为衡量跨国循证文化心态与组织制度环境的核心理论基底（[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022]]; [[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]]）；亦被教育关键数据研究用于解析不同行政治理文化对数字化学校监测与[[Data Infrastructure\|数据基础设施]]采纳形态的深层[[Disciplina and Doctrina\|规训]]机制（[[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019]]）；并在前沿科技研发治理中被[[Erica Fuchs|埃丽卡·福克斯]]用于解构高风险创新机构（如 [[DARPA]]）在宏观采办制度剧烈震荡下微观非正式治理制度的深层韧性（[[Argument_Fuchs_2010_RP\|Fuchs, 2010]]）。
 
 > [!claim] 核心主张
-> 组织文化由三个层次嵌套构成：表层的物质器物与制度结构、中间层的官方信奉价值观、以及最深层的潜意识基本假设与防御规范；表层器物与口头理念能够展示组织正在呈现何种形象，但组织的实质决策与行动逻辑由深层基本假设决定，二者之间普遍存在着表层崇尚科学与深层信任赤字的认知断层（Schein, 1992; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]]; [[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 92–95]]）；同时，组织在面临上层管理话语与合同机制剧烈重组时，深层沉淀的微观非正式制度与同侪交往规范构成了维系组织核心效能的稳定基石（[[Argument_Fuchs_2010_RP\|Fuchs, 2010, pp. 1144–1145]]）。
+> 组织文化由三个层次嵌套构成：表层的物质器物与制度结构、中间层的官方信奉价值观、以及最深层的潜意识基本假设与防御规范；表层器物与口头理念能够展示组织正在呈现何种形象，但组织的实质决策与行动逻辑由深层基本假设决定，二者之间普遍存在着表层崇尚科学与深层信任赤字的认知断层（Schein, 1992; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]]; [[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 92–95]]）；同时，组织在面临上层管理[[Discourse|话语]]与合同机制剧烈重组时，深层沉淀的微观非正式制度与同侪交往规范构成了维系组织核心效能的稳定基石（[[Argument_Fuchs_2010_RP\|Fuchs, 2010, pp. 1144–1145]]）。
 
 > [!citation-card] 组织文化三层次模型的核心定义
 > 组织文化是特定群体在解决外部适应与内部整合问题过程中习得的共享基本假设模式；该模式因运作有效而被群体视作理所当然，并作为感知、思考和应对相关难题的正确方式传授给新成员。其在结构上由器物、信奉的价值观与基本潜在假设三个层次依次深化构成（Schein, 1992; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], 27.4）。
@@ -210,7 +212,7 @@ updated: 2026-10-04
 ---
 
 > [!proposition-chain]- 延伸命题
-> - **推论一（源自核心命题一）** 器物组合可以构成强有力的组织隐性课程叙事：把器物组合起来（如校长的私密大办公室与教师狭窄开放格子间并列）能够向成员清晰传达关于权力、地位、关怀与尊重的非言明信息（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al., 2011, 27.4]]）。
+> - **推论一（源自核心命题一）** 器物组合可以构成强有力的组织[[Hidden Curriculum|隐性课程]]叙事：把器物组合起来（如校长的私密大办公室与教师狭窄开放格子间并列）能够向成员清晰传达关于权力、地位、关怀与尊重的非言明信息（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al., 2011, 27.4]]）。
 > - **推论二（源自核心命题二）** 外部中介机构的长期物理嵌入能够松动深层防御假设：通过设置[[Embedded Researcher\|嵌入式研究者]]与长效对话例会，组织成员在日常非正式交往中逐渐建立人际信任，推动深层假设由防备转向协同（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 88–90]]）。
 > - **推论三（源自核心命题一与核心命题二）** 技术基础设施的落地形态与采纳深度受制于组织的问责假设与行政文化：同一套数字化监测与统计器物，在惩罚性高利害问责假设下极易诱发基层防御性规避与部门间数据割裂；而在低利害诊断自治假设下则更倾向于发展为非惩罚性专业反馈中介（[[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019]]）。
 > - **推论四（源自核心命题二与推论三）** 学校微观组织文化对外部数据反馈与督导建议构成防御性过滤与[[Transfer Translation Transformation|转译]]阻抗：单体学校在面对外部学业统考数据（如 [[Vergleichsarbeiten\|VERA]]）与督导报告回传时，其内部由教师共同体形成的深层组织文化与专业自主假设构成了关键的过滤屏障。在缺乏支持反思对话的探究文化与中层研训支持时，学校往往将外部数据视为自上而下的科层监控，本能采取仪式性应对或防御性搁置，导致外部实证知识向微观教学转化的严重受阻与成效缺失（[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019, p. 9]]）。
@@ -238,7 +240,7 @@ updated: 2026-10-04
 > [!theory-use] 如何用于研究
 > - **作为分析透镜** 运用三层次框架分层[[Coding in Qualitative Research\|编码]]教育组织（学校或教育部委）的文化维度，辨析器物、口号与潜意识[[Hypothesis\|假设]]之间的张力。
 > - **作为诊断工具** 识别循证政策改革在落地过程中遭遇的阻力根源，判断阻力究竟是缺乏物理器物（如缺乏报告平台），还是深层基本假设中的信任危机。
-> - **作为批判视角** 戳破各类教育管理机构形式主义的循证仪式表演，揭示隐藏在科学话语背后的权力防御。
+> - **作为批判视角** 戳破各类教育管理机构形式主义的循证仪式表演，揭示隐藏在科学[[Discourse|话语]]背后的权力防御。
 > - **报告方式** 报告文化研究证据时，应明确标注文档、访谈、观察与量表数据分别对应哪一[[Cultural Hierarchy\|文化层次]]，避免层次混淆与过度推论。
 
 > [!logic-map]- 分析流程图
@@ -257,7 +259,7 @@ updated: 2026-10-04
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 学校与教育行政机构内部的隐性课程、环境符号象征意义、改革阻力机制以及循证决策中的政学信任断裂。
+> - **适合解释** 学校与教育行政机构内部的[[Hidden Curriculum|隐性课程]]、环境符号象征意义、改革阻力机制以及循证决策中的政学信任断裂。
 > - **谨慎使用** 急剧变动或初创期的松散教育联盟，这类组织尚未沉淀出稳定的深层共享[[Hypothesis\|假设]]，更易受外部短期环境剧烈扰动。
 > - **不适合解释** 纯技术性教学法干预的短期因果效应大小；不能代替具体的微观课堂师生认知互动分析。
 > - **常见误用** 将[[Artefact\|器物]]符号过度浪漫化或过度阴谋论化；把成员在[[Questionnaire\|问卷]]上的赞同打分直接等同于组织的深层文化现实。

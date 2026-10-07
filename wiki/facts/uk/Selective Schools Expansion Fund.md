@@ -9,9 +9,9 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
@@ -20,6 +20,7 @@ tags:
 - region/uk
 - level/k12
 related_concepts:
+  - "[[Discourse]]"
   - "[[Selective Education]]"
   - "[[Moral Sidestep]]"
 related_theories: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: 2026-10-07
 ---
 
 ## 背景
@@ -75,7 +76,7 @@ SSEF 仅面向英格兰 163 所现存[[Grammar School|文法学校]]——这些
 
 - **法律灰色地带** 新建[[Grammar School|文法学校]]被 2006 年法律明确禁止，SSEF 以"扩展现有学校"而非"新建"的方式在法律边缘运作，其法律依据被指为可疑([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3]])
 - **证据缺失** 该政策的制定缺乏实证研究支持——绝大多数研究证据表明选择性教育无效或有害，但在议会辩论中这些证据被系统性地以道德侧步回避([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3, 11]])
-- **道德侧步典型案例**[[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]以此政策为案例，揭示了政策制定者如何将 [[Ofsted]] 评级混同为研究证据，构造"文法学校 = 好学校"的道德话语来替代基于证据的政策论证([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.17–19]])
+- **道德侧步典型案例**[[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]]以此政策为案例，揭示了政策制定者如何将 [[Ofsted]] 评级混同为研究证据，构造"文法学校 = 好学校"的道德[[Discourse|话语]]来替代基于证据的政策论证([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.17–19]])
 
 ## 相关概念／政策
 

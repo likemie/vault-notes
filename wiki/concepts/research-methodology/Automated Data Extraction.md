@@ -9,7 +9,7 @@ aliases:
 summary: "系统评价与元分析方法学概念，指运用自然语言处理与大语言模型等人工智能技术从学术文献全文中自动识别、抽取并结构化效应量、样本量等统计量与研究特征的自动化规程。"
 type: concept
 domain: "research-methodology"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Visible Learning]]"
   - "[[Creativity]]"
 related_theories: []
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Automated Data Extraction
@@ -166,7 +167,7 @@ updated: 2026-10-03
 
 > [!debates] 学术争议
 >
-> > [!axis] 全自动提取 vs 人机协同验证
+> > [!axis] 全自动提取 vs [[Man-Computer Symbiosis|人机协同]]验证
 > > 争论是否可以直接使用 LLMs 提取结果发布系统评价，还是必须保留人类逐条复核。
 > >
 > > - **全自动乐观派（Cao et al., 2025）** 认为多模型投票共识已具备极高置[[Reliability\|信度]]，可在两天内重现十几项系统评价，极大加速科学积累。

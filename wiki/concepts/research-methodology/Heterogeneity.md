@@ -6,7 +6,7 @@ aliases:
 summary: "跨研究或同一群体内部超出抽样误差的系统性变异；在量化元分析中表征效应量分布发散并指导调节变量分析，在复杂系统与混合方法中揭示均值遮蔽的质性动因多样性，并在教学实验中解构干预构念子维度与学习者认知背景的异质效应。"
 type: concept
 domain: "research-methodology"
-related_count: 66
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Grand Theory]]"
   - "[[Epistemic Governance]]"
+  - "[[Discourse]]"
   - "[[Epistemic Ideals]]"
   - "[[Variable]]"
   - "[[Construct]]"
@@ -91,7 +92,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # Heterogeneity
@@ -142,7 +143,7 @@ updated: 2026-09-24
 > - **[[Meta-analysis\|元分析]]中的统计变异与调节探索** 通过 [[Cochran's Q Test\|Q 检验]]与 $I^2$ 统计量判定真实变异占比；借助[[Forest Plot\|森林图]]呈现效应离散分布；通过[[Moderator Analysis\|调节变量分析]]探寻干预在不同学段、时长或实施条件下的差异效应。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 32)]]
 > - **[[Mixed Methods Research\|混合方法]]中的解释多样性与动因解构** 单一统计量（如百分比、相关系数）往往掩盖了行动者内部截然相反的动机结构与情境理解。混合方法研究将质性数据作为揭示统计均值下隐藏解释异质性的核心工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 23)]]
 > - **复杂系统中的本体[[Open-Mindedness|开放性]]与异质共生** [[Complexity Theory\|复杂性理论]]视异质性为世界的基本存在形态（Heterogeneity is the watchword）；社会与教育系统具备开放性、动态演化与流变特质，拒斥[[Determinism\|决定论]][[Grand Theory\|宏大叙事]]，要求包容多元视阈与异质边缘声音。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 11, 32)]]
-> - **[[Epistemic Governance\|知识治理]]网络中的主体内外部异质性与多源数据整合** 教育知识生态并非均质主体构成的机械流水线；研究者、政策制定者与实践教师三方群体各自内部高度分化（Internal heterogeneity），且各群体之间在话语体系、时间周期与[[Epistemic Ideals\|认识论标准]]上存在深刻的外部异质性（External heterogeneity）（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 60–61]]）。在跨国元中介治理层面，证据综合亦面临从单一量化 [[Randomised Controlled Trials\|RCT]] 试验拓展至融合量化[[Effect Size\|效应量]]、质性个案[[Rich and Thick Description\|深描]]与情境[[Variable\|变量]]等多源异质数据（Heterogeneous data sources）综合的前沿方法学突破（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 66]]）。
+> - **[[Epistemic Governance\|知识治理]]网络中的主体内外部异质性与多源数据整合** 教育知识生态并非均质主体构成的机械流水线；研究者、政策制定者与实践教师三方群体各自内部高度分化（Internal heterogeneity），且各群体之间在[[Discourse|话语]]体系、时间周期与[[Epistemic Ideals\|认识论标准]]上存在深刻的外部异质性（External heterogeneity）（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 60–61]]）。在跨国元中介治理层面，证据综合亦面临从单一量化 [[Randomised Controlled Trials\|RCT]] 试验拓展至融合量化[[Effect Size\|效应量]]、质性个案[[Rich and Thick Description\|深描]]与情境[[Variable\|变量]]等多源异质数据（Heterogeneous data sources）综合的前沿方法学突破（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 66]]）。
 > - **干预[[Construct\|构念]]子维度与学习者群体异质性（Construct & Population Heterogeneity）** 在教学实验与大规模测评中，异质性不仅存在于研究之间，更深刻存在于干预构念内部与学习者认知特征之中。其一为干预构念子维度异质性（Construct Heterogeneity），如[[Inquiry-Based Learning\|探究式教学]]涵盖多种具体活动，实证表明实验设计与数据推论正向预测科学表现，而泛化无准备的[[Classroom Debate\|课堂辩论]]则呈负向关联（Cairns, 2019; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 5]]），将其笼统打包会抹杀内部截然相反的子维度效应；其二为学习者认知背景异质性（Learner Heterogeneity），教学干预效能高度受制于学习者的先前知识水平（专业知识逆转效应；Kalyuga et al., 2003）与[[Executive Function\|执行功能]][[Inhibitory Control\|抑制控制]]能力（Kwon & Lawson, 2000; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 7–8]]），彰显因材施教（ATI）的决定性意义。
 
 > [!taxonomy] 统计异质性量化与模型决策

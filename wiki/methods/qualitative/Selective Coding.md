@@ -8,9 +8,9 @@ summary: "扎根理论质性数据分析的三级编码终局阶段，在开放�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 31
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 32
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Reflexivity]]"
+  - "[[Discourse]]"
   - "[[Hypothesis]]"
 related_theories: []
 related_methods:
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Selective Coding
@@ -190,7 +191,7 @@ updated: 2026-09-22
 
 > [!method-fit] 适用判断
 > - **适合使用** 旨在从质性文本中生成解释性理论模型的[[Grounded Theory\|扎根理论]]研究；面对海量离散[[Coding in Qualitative Research\|编码]]需要进行体系化收敛的中大型质性项目。
-> - **谨慎使用** 纯描述性[[Fieldwork\|田野调查]]、话语修辞微观分析，或材料篇幅极短且缺乏历时因果演进的问答调查。
+> - **谨慎使用** 纯描述性[[Fieldwork\|田野调查]]、[[Discourse|话语]]修辞微观分析，或材料篇幅极短且缺乏历时因果演进的问答调查。
 > - **不适合使用** 验证预设[[Hypothesis\|假设]]的纯[[Quantitative Research\|量化研究]]，或仅需要生成主题词频清单的浅层内容检索。
 
 > [!method-limits] 方法局限

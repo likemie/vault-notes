@@ -8,7 +8,7 @@ aliases:
 summary: "罗杰·戴尔提出的批判比较教育学核心理论，主张全球教育趋同并非自愿的普世启蒙文化扩散，而是由全球资本主义体系的内在结构性矛盾（资本积累、国家合法性与社会凝聚力）通过跨国经贸组织自上而下结构化塑造的。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Policy Borrowing]]"
   - "[[Research Question]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[World Society Theory]]"
   - "[[World-Systems Theory]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Globally Structured Agenda for Education
@@ -124,7 +125,7 @@ updated: 2026-10-05
 > - **[[Research Question|研究问题]]** 某项跨国教育改革政策究竟由何种全球资本力量驱动？该政策通过何种具体机制输入受援国？受援国的[[State Educational Sovereignty|国家教育主权]]在何种程度上被重组或让渡？
 > - **分析对象与单位** 国际组织政策协定文本、国家宏观教育立法、跨国信贷谈判记录及财政预算分配结构。
 > - **需要的材料** [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 谈判议程、[[World Bank|世界银行]]国别援助备忘录、教育部政策白皮书、双边与多边资助合同。
-> - **解释目标** 拆解看似中立的教育改革话语，识破其背后的跨国资本利益与依附控制关系。
+> - **解释目标** 拆解看似中立的教育改革[[Discourse|话语]]，识破其背后的跨国资本利益与依附控制关系。
 
 > [!theory-framework] 命题如何转化为分析维度
 >

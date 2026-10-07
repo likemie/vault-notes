@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26"
 argument_display_title: "Research Methods in Education · Ch26"
 argument_kind: "book-chapter"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -62,6 +62,7 @@ related_concepts:
   - "[[Visual Data]]"
   - "[[Reflexivity]]"
   - "[[Knowledge Production]]"
+  - "[[Discourse]]"
   - "[[Dialogue in Education]]"
   - "[[Rote Learning]]"
   - "[[First and Second Order Emotion]]"
@@ -463,7 +464,7 @@ Ginsburg（1978）的批评针对的是支撑行为主义取向角色扮演的�
 > | 维度 | 无脚本／即兴角色扮演 | 有脚本角色扮演 |
 > |------|----------------------|----------------|
 > | **灵活性** | 增加灵活性 | 较低 |
-> | **话语** | 鼓励多样化话语，允许[[Dialogue in Education\|对话]]交换中自然的轮流发言 | 不允许同等级别的话语与灵活回应 |
+> | **[[Discourse\|话语]]** | 鼓励多样化话语，允许[[Dialogue in Education\|对话]]交换中自然的轮流发言 | 不允许同等级别的话语与灵活回应 |
 > | **对参与者的要求** | 结构松散的角色扮演对参与者要求更高，需要更多事先准备 | 要求较低 |
 > | **适用** | 开放角色扮演 | 特定研究目标时使用（见 Kasper & Roever, 2005） |
 

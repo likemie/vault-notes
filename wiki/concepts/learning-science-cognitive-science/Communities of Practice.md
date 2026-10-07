@@ -9,7 +9,7 @@ aliases:
 summary: "由一群围绕共同关注的问题、事业或追求，通过持续而规律的社会交往与共享实践，共同深化专业知识并逐步建构专业身份认同的社会化协作群体。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Emergence]]"
   - "[[Scaffolding]]"
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[Epistemic Cognition]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Communities of Practice
@@ -149,7 +150,7 @@ updated: 2026-10-05
 > > - **现代教育干预设计（Murphy Jr. et al.）** 证实面对国家紧迫战略危机，依托 [[Design-Based Research|DBR]] 迭代多期工作坊并设立专班[[Scaffolding|脚手架]]，能够人为成功“播种”并培育出良性运转的新型科研实践共同体。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3–6)]]
 >
 > > [!axis] 社群温情包容 vs 内部权力微观压迫
-> > 批评早期理论将共同体描绘为过于田园牧歌式的和谐社群，忽视了行会元老对学徒的隐蔽剥削、学科话语霸权以及对新[[Paradigm|范式]]的保守排斥。
+> > 批评早期理论将共同体描绘为过于田园牧歌式的和谐社群，忽视了行会元老对学徒的隐蔽剥削、学科[[Discourse|话语]]霸权以及对新[[Paradigm|范式]]的保守排斥。
 
 ---
 
@@ -168,4 +169,4 @@ updated: 2026-10-05
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 实证检验依托情境学习理论与 [[Design-Based Research|DBR]] 框架的系列工作坊如何在高水平大学中成功孵化半导体跨学科实践共同体，强调面对面深度交互与包容合法边缘参与者的关键价值。
-> - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 将实践共同体作为[[Epistemic Cognition|认识论认知]]社会文化研究的[[Unit of Analysis|分析单位]]，探讨共同体话语如何塑造[[Evidence Standards|证据标准]]与探究规范。
+> - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 将实践共同体作为[[Epistemic Cognition|认识论认知]]社会文化研究的[[Unit of Analysis|分析单位]]，探讨共同体[[Discourse|话语]]如何塑造[[Evidence Standards|证据标准]]与探究规范。

@@ -8,7 +8,7 @@ subtype: event
 region: sweden
 fact_region: "sweden"
 fact_kind: "event"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -20,6 +20,7 @@ tags:
 - level/k12
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Discourse]]"
   - "[[Effective Teaching]]"
   - "[[Research Question]]"
   - "[[Evidence-Based Education]]"
@@ -32,7 +33,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-20'
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 ## 背景
 
@@ -66,7 +67,7 @@ updated: 2026-09-22
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - Håkansson 并没有声称瑞典已经“证明 Hattie 正确”。这篇文章更像接受史和转化史分析，说明 VL 如何改变学校改进的话语和操作重心，而不是对其效果做严格因果验证（Håkansson, 2015, pp.52–59）。
+> - Håkansson 并没有声称瑞典已经“证明 Hattie 正确”。这篇文章更像接受史和转化史分析，说明 VL 如何改变学校改进的[[Discourse|话语]]和操作重心，而不是对其效果做严格因果验证（Håkansson, 2015, pp.52–59）。
 > - 文章也提醒，课堂近端策略是否真正改善学生学习，仍然取决于地方学校文化、领导力和持续协作条件；如果只采纳术语而不改变工作方式，VL 只会停留在口号层面（Håkansson, 2015, pp.58–59）。
 
 ## 相关概念／理论
@@ -75,5 +76,5 @@ updated: 2026-09-22
 > - [[Visible Learning]] — 瑞典学校改进重新聚焦课堂教学的关键触发器
 > - [[Effective Teaching]] — 瑞典案例把“什么样的教学更有效”从[[Research Question\|研究问题]]转成改进议程
 > - [[Evidence-Based Education]] — “科学基础与经验证据”的法律要求为 VL 在学校改进中的落地提供了制度支撑
-> - [[Policy Borrowing]] — 瑞典不是简单复制 Hattie，而是把 VL 翻译成适合本地学校改进的话语和流程
+> - [[Policy Borrowing]] — 瑞典不是简单复制 Hattie，而是把 VL 翻译成适合本地学校改进的[[Discourse|话语]]和流程
 

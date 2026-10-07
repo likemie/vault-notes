@@ -3,7 +3,7 @@ title: Justification for Knowing
 summary: "衡量个体如何评估知识主张、运用证据，以及如何在不同观点之间进行概率性的评价与辩护。这是高阶认识论理论的核心机制。"
 type: concept
 domain: "educational-psychology"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ related_concepts:
   - "[[Justificatory Standards]]"
   - "[[Epistemology]]"
   - "[[Subjectivism]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Problem Solving]]"
   - "[[Epistemic Agency]]"
@@ -38,7 +39,7 @@ related_arguments:
   - "[[Argument_Wu_2025_ER]]"
 status: active
 created: 2026-08-14
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Justification for Knowing
@@ -72,7 +73,7 @@ updated: 2026-10-03
 
 ### 命题二　人机协同学习中多重辩护方式是克服算法盲从并实现深度理解的必要路径
 
-> [!concept-lens] 人机共生中的辩护分化
+> [!concept-lens] [[Man-Computer Symbiosis|人机共生]]中的辩护分化
 > 探讨面对[[Generative Artificial Intelligence\|生成式人工智能]]生成的现成答案时，学习者采用何种辩护机制影响人机协同[[Problem Solving\|问题解决]]的质量。
 
 > [!claim] [[Argument_Wu_2025_ER\|Wu et al. (2025)]]
@@ -97,7 +98,7 @@ updated: 2026-10-03
 > - **1991 年 — 论辩中的专长审视** Kuhn (1991) 提出了[[Argumentative Reasoning\|论辩推理]]模型，指出[[Evaluativist\|评价论者]]（evaluatists）超越了绝对论的盲从和多元论的虚无，能够基于相对优劣来评估专家的专长和不同的知识主张。
 > - **1994 年 — [[Wicked Problem|劣构问题]]的反思判断** King & Kitchener (1994) 在研究[[Reflexivity\|反思性]]判断（[[Reflective Judgment Model\|Reflective Judgment]]）时，明确将个体“如何为劣构问题提供辩护”作为核心。高阶认知者能结合多种视角，运用批判性质询进行概率性辩护。
 > - **1997 年 — 统合为最高阶维度** [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 在重构[[Epistemological Theories\|认识论理论]]框架时，将 Kuhn 和 King & Kitchener 对评价机制的研究吸收，确立了“认知的辩护”维度。这是区分高阶认知者（能否理性权衡证据）与中阶认知者（陷入相对主义虚无）的关键标尺。
-> - **2025 年 — 人机协同情境中的多重辩护拓展** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 将知识辩护拓展至人机共生学习环境，揭示个人辩护、权威辩护与多重辩护在人机交互对话与算法结果核验中的不同表现。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–364)]]
+> - **2025 年 — [[Man-Computer Symbiosis|人机协同]]情境中的多重辩护拓展** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 将知识辩护拓展至[[Man-Computer Symbiosis|人机共生]]学习环境，揭示个人辩护、权威辩护与多重辩护在人机交互对话与算法结果核验中的不同表现。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–364)]]
 
 ---
 

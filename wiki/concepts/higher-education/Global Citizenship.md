@@ -10,7 +10,7 @@ aliases:
 summary: "高等与基础教育语境中挑战传统国民身份的受教育者身份与品质能力分析框架。在理性主义脉络下，它表现为包含数字、文化、社会沟通及环境素养的跨界就业能力组合；在批判与革命主义视角中，它被视为缺乏精确性的“漂浮能指”，一方面为超国家组织的数据远处治理与新自由主义经济教义（如全球竞争力）背书，另一方面也构成了再西方化地缘话语的一部分。"
 type: concept
 domain: "higher-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Educated Identity]]"
   - "[[Graduate Attributes]]"
+  - "[[Discourse]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Methodological Educationism]]"
   - "[[Reflexivity]]"
@@ -75,7 +76,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 这个概念指向一种超越主权国家边界的、跨文化的、生态关怀的受教育者身份（[[Educated Identity]]）重构。
-> - **用途** 用于评估高等教育及博士生特质（[[Graduate Attributes]]）在应对多元就业与国际化环境时的综合能力框架；在比较教育研究中，用于透视全球话语政策流转中跨国非政府组织与超国家[[Disciplina and Doctrina\|规训]]的合法化修辞。
+> - **用途** 用于评估高等教育及博士生特质（[[Graduate Attributes]]）在应对多元就业与国际化环境时的综合能力框架；在比较教育研究中，用于透视全球[[Discourse|话语]]政策流转中跨国非政府组织与超国家[[Disciplina and Doctrina\|规训]]的合法化修辞。
 > - **边界** 不能与单纯用于跨国商业竞争的“全球胜任力”或局限于特定国家内部参与的“积极公民身份”等同，它更带有伦理关怀与去中心化认同。
 
 > [!citation-card]- 关键表述
@@ -126,7 +127,7 @@ updated: 2026-10-07
 ### 命题一　全球公民是一面掩盖地缘资本和再西方化逻辑的模糊修辞旗帜
 
 > [!concept-lens] 批判与去神话视角
-> 这一命题关注全球公民概念在跨国流通中如何被超国家组织塑造成一种中立客观的普世话语，但实质上充当了全球新自由主义经济教义的“受教育者身份”掩护。
+> 这一命题关注全球公民概念在跨国流通中如何被超国家组织塑造成一种中立客观的普世[[Discourse|话语]]，但实质上充当了全球新自由主义经济教义的“受教育者身份”掩护。
 
 > [!claim] [[Eleftherios Klerides\|Klerides, E.]]
 > **模糊性与[[Re-Westernisation\|再西方化]]载体** 从国际关系视角的[[Revolutionism\|革命主义]]传统指出，全球公民在理性主义话语中被视作挑战国民国家桎梏的国际主义概念，但由于缺乏精确性而成为掩盖霸权的“模糊概念”；在革命主义看来，它往往被新自由主义教义重新定义，与全球[[Competitiveness|竞争力]]、雇主利益深度绑定，并在实质上成为了推动西方新自由主义普世学校模型输出与再西方化（re-Westernisation）地缘政治战略的隐性载体。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 425–429]])
@@ -181,7 +182,7 @@ updated: 2026-10-07
 
 > [!critique] 外部批评
 > - **伞状术语下的政治模糊性** 比较教育学者指出，全球公民由于概念缺乏精确性，沦为政治上高度模糊（vagueness）的表面修辞，缺乏实际可供监督和测量的微观行为指标。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])
-> - **地缘[[Re-Westernisation\|再西方化]]战略的代理** [[Revolutionism\|革命主义]]传统学者指出，当前的全球公民话语实际上被注入了大量全球[[Competitiveness|竞争力]]和企业家的商业增殖价值，构成了维系既有不平等世界体系、配合世界秩序再西方化（re-Westernisation）的象征工具。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 429]])
+> - **地缘[[Re-Westernisation\|再西方化]]战略的代理** [[Revolutionism\|革命主义]]传统学者指出，当前的全球公民[[Discourse|话语]]实际上被注入了大量全球[[Competitiveness|竞争力]]和企业家的商业增殖价值，构成了维系既有不平等世界体系、配合世界秩序再西方化（re-Westernisation）的象征工具。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 429]])
 
 > [!warning] 适用局限
 > 概念在实证操作时，容易面临高影响力体验（如国际外展、非官方组织志愿服务）在“一切时间服从论文科研”这一学术霸权文化面前的系统性边缘化。([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p. 97]])
@@ -197,7 +198,7 @@ updated: 2026-10-07
 > |---|---|---|---|---|---|---|
 > | [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024, pp. 89–90)]] | 三所新西兰大学的 136 名 PhD 毕业生校友 | [[Mixed Methods Research\|混合方法]]问卷调查与访谈研究 | 毕业生各项特质的发展感知评分（1–5 Likert量表） | 全球公民子项均值最低：环境素养 2.8/5、文化理解 3.2/5、全球视野 3.4/5 | 三所大学无统计学显著差异 (p > 0.05) | 表明在高度专精的博士培养中，全球公民素养的缺失是一个跨体制的系统性赤字，未因大学定位不同而改变。 |
 > | [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024, p. 93)]] | 三所新西兰大学的 136 名 PhD 毕业生校友 | 混合方法[[Questionnaire\|问卷调查]]与访谈研究 | 毕业生各项特质的实际职场应用感知评分（1–5 Likert量表） | 全球公民子项应用分偏低：环境素养 3.0/5、全球视野 3.7/5、文化理解 3.9/5 | 明显低于研究与专业学术技能 (4.2/5) | 与博士毕业生当前过度集中在传统学术圈就业（59%）的保守劳动力结构有关，随着向非学术界转移，其应用需求可能会发生重置。 |
-> | [[Argument_Wong_2022_HERD\|Wong et al. (2022)]] | 英国 76 所明确列出[[Graduate Attributes\|毕业生特质]]的大学官方文本库 | 文本质性映射与[[Content Analysis\|内容分析]] | 全球公民与参与话语及其子维度的覆盖率 | 总体覆盖率 70% (53/76 所)，但环境意识仅占 11% (8 所)，外语与国际网络仅占 8% | — | 证明英国本科层次的“全球公民”教育目标存在严重的结构性口号化与口惠而实不至的失衡。 |
+> | [[Argument_Wong_2022_HERD\|Wong et al. (2022)]] | 英国 76 所明确列出[[Graduate Attributes\|毕业生特质]]的大学官方文本库 | 文本质性映射与[[Content Analysis\|内容分析]] | 全球公民与参与[[Discourse\|话语]]及其子维度的覆盖率 | 总体覆盖率 70% (53/76 所)，但环境意识仅占 11% (8 所)，外语与国际网络仅占 8% | — | 证明英国本科层次的“全球公民”教育目标存在严重的结构性口号化与口惠而实不至的失衡。 |
 
 ---
 
@@ -214,6 +215,6 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024)]] — 在博士教育层面的七域[[Graduate Attributes\|毕业生特质]]分类中[[Revoicing\|重铸]]了该域，细化了由环境素养、文化理解和全球视野构成的实证评估赤字。
-> - [[Argument_Wong_2022_HERD\|Wong et al. (2022)]] — 检视了英国高校本科毕业生特质话语，指出了全球公民话语的极高纸面覆盖度与其极低的环境、外语应用度之间的张力。
+> - [[Argument_Wong_2022_HERD\|Wong et al. (2022)]] — 检视了英国高校本科毕业生特质[[Discourse|话语]]，指出了全球公民话语的极高纸面覆盖度与其极低的环境、外语应用度之间的张力。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 从 Wight 的三个传统理论深度剖析了该概念，指出了其在理性主义中的国际社会强化逻辑与在[[Revolutionism\|革命主义]]中的地缘政治[[Re-Westernisation\|再西方化]]实质。
 > - [[Argument_Beech_2009_CE\|Beech (2009)]] — 提到了多边组织将跨国非政府组织（NGO）视为新兴“全球公民社会”的代表以谋求合法性的宏观政策逻辑。

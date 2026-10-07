@@ -10,9 +10,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "常态化机制（2010年代末至今）"
 initiator_organization: "Society for Research in Child Development"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Policymaking Chronosystem]]"
   - "[[Policy Brokerage]]"
   - "[[Policy Window]]"
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[APA Style]]"
   - "[[Policy Mobility]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # Rapid Assessment and Response Strategy
@@ -99,7 +100,7 @@ updated: 2026-09-26
 
 > [!finding-cards] 关键成效与示范价值
 > - **打通突发[[Policy Window|政策窗口]]的敏捷通道** 成功证明学术社群能够在不牺牲科学底线的前提下，适应政治世界的极速节律，实现了学术知识库对国家突发立法的即时供给。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 47)]]
-> - **提升学术组织的公共能见度与话语权** 改变了传统专业学会仅在年度例会发表学术见解的被动状态，使学术学会转型为积极介入公共政策辩论的知识行动者。
+> - **提升学术组织的公共能见度与[[Discourse|话语]]权** 改变了传统专业学会仅在年度例会发表学术见解的被动状态，使学术学会转型为积极介入公共政策辩论的知识行动者。
 > - **为其他学科组织提供机制[[Paradigm\|范式]]** 启发了包括 [[American Educational Research Association\|AERA]]、[[APA Style\|APA]] 在内的诸多社会科学组织建立快速科学传播与政策突击工作组。
 
 ---

@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Decodification]]"
   - "[[Evidence Standards]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Direct Instruction]]"
   - "[[Response to Proven Instruction]]"
   - "[[Teaching Assistant]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # Read, Write, & Type
@@ -94,7 +95,7 @@ updated: 2026-09-24
 > [!dev-timeline] Read, Write, & Type 发展历程
 > - **1995–2002 — 软件开发与人机交互先导测试** 赫隆团队将语音学理论与计算机人机工程学结合，在特教诊所测试打字对阅读障碍的辅助效应。
 > - **2003–2010 — 托格森团队严格 [[Randomised Controlled Trials\|RCT]] [[Efficacy Trial\|效力试验]]** 托格森等学者（Torgesen, Wagner, Rashotte, Herron, & Lindamood, 2010）在公立学校开展对照试验，证实其在教师小组指导下对一年级弱势儿童[[Decodification\|解码]]能力的显著因果提升。
-> - **2015–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据技术先驱** 被斯莱文列为初等阅读 Tier 2 教师小组辅导代表性强证据方案，成为人机协同阅读干预的早期经典。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **2015–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据技术先驱** 被斯莱文列为初等阅读 Tier 2 教师小组辅导代表性强证据方案，成为[[Man-Computer Symbiosis|人机协同]]阅读干预的早期经典。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 ---
 
@@ -113,7 +114,7 @@ updated: 2026-09-24
 > [!finding-cards] 核心实证结论
 > - **显著的标准化阅读因果[[Effect Size\|效应量]]** 在托格森团队主导的[[Randomised Controlled Trials\|随机对照试验]]中，接受辅导的学生在全国标准化阅读测验上测得平均 $+0.42$ 的因果效应量，达 [[Every Student Succeeds Act\|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 > - **手眼耳口脑多感官协同机制** 评估证实，打字消除了传统书写对精细动作的极度消耗，使儿童得以将宝贵的认知资源全部集中于语音分割与拼读规则运算。
-> - **早期人机协同的局限性** 试验同时表明，该软件无法完全替代教师——若缺乏教师在旁的微组针对性点拨，单纯依靠儿童自主玩软件的效应量将大幅减弱。
+> - **早期[[Man-Computer Symbiosis|人机协同]]的局限性** 试验同时表明，该软件无法完全替代教师——若缺乏教师在旁的微组针对性点拨，单纯依靠儿童自主玩软件的效应量将大幅减弱。
 
 > [!stat-cards]- 关键实证数据
 > - **+0.42** 随机对照试验测得的综合平均阅读效应量（$ES$），获 ESSA Strong 最高等级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
@@ -127,5 +128,5 @@ updated: 2026-09-24
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Read, Write, & Type 列为初等阅读 Tier 2 教师辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释技术工具如何在 Tier 2 小组干预中辅[[Teaching Assistant\|助教]]师突破认知卡点。
-> - [[Lightning Squad]] — 霍普金斯大学同源的人机协同读写干预方案，与本方案共同代表了教育技术赋能干预的演进脉络。
+> - [[Lightning Squad]] — 霍普金斯大学同源的[[Man-Computer Symbiosis|人机协同]]读写干预方案，与本方案共同代表了教育技术赋能干预的演进脉络。
 > - [[Lindamood Phoneme Sequencing]] — 同属托格森团队评估的强证据多感官语音干预标杆。

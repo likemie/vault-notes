@@ -8,7 +8,7 @@ summary: "质性数据与内容分析中将离散分析单元与微观编码归�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
+method_related_count: 39
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Reflexivity]]"
   - "[[Reliability]]"
+  - "[[Discourse]]"
   - "[[Attrition]]"
 related_theories:
   - "[[Ethnomethodology]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-24
-updated: 2026-09-28
+updated: 2026-10-07
 ---
 
 # Domain Analysis
@@ -220,7 +221,7 @@ flowchart TD
 > > 争论领域范畴之间是否应当像量化[[Content Analysis\|内容分析]]那样追求严格的边界排他性。
 > >
 > > - **Robson (1993) & Weber (1990)** 强调分析范畴必须具备互斥性与穷尽性，以确保不同编码者之间的一致性与测量[[Reliability\|信度]]。
-> > - **Hammersley & Atkinson (1983)** 与 **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 566)]]** 明确指出，在[[Qualitative Research\|质性研究]]中将同一经验条目赋予多个领域范畴不仅完全合理，而且是极为可取的做法，因为人类社会生活的话语具有多维内涵，强制互斥会导致数据丰富性与真实性的大量[[Attrition\|流失]]。
+> > - **Hammersley & Atkinson (1983)** 与 **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, p. 566)]]** 明确指出，在[[Qualitative Research\|质性研究]]中将同一经验条目赋予多个领域范畴不仅完全合理，而且是极为可取的做法，因为人类社会生活的[[Discourse|话语]]具有多维内涵，强制互斥会导致数据丰富性与真实性的大量[[Attrition\|流失]]。
 >
 > > [!axis] 静态拓扑分类 vs 动态叙事流失
 > > 争论基于九大语义关系的“下位词—覆盖词”空间拓扑分类，是否会切断经验叙事的时间流变与因果张力。

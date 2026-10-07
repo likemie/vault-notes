@@ -6,7 +6,7 @@ summary: "奥地利-美国社会学家与哲学家，现象学社会学奠基人
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -39,6 +39,7 @@ related_theories:
   - "[[Ethnomethodology]]"
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Conversation Analysis]]"
   - "[[Ethnography]]"
   - "[[Discourse Analysis]]"
   - "[[Correlational Research]]"
@@ -55,7 +56,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Alfred Schutz
@@ -131,7 +132,7 @@ updated: 2026-10-01
 
 > [!influence-path] 影响路径
 > - **理论路径** 直接创立[[Phenomenology\|现象学]]社会学学派，其关于生活世界与常识知识库存的洞见，被彼得·伯格与托马斯·卢克曼发展为奠基性的《实在的社会构建》（*The Social Construction of Reality*, 1966），成为知识社会学的[[Paradigm\|范式]]标杆。
-> - **方法路径** 为[[Qualitative Research\|质性研究]]中的[[Interpretive Paradigm\|诠释范式]]确立了第一序[[Construct\|构念]]（参与者常识理解）与第二序构念（研究者科学概念）的[[Operationalization\|操作化]]桥梁，深刻启蒙了加芬克尔（[[Harold Garfinkel]]）的常人方法学，将日常会话分析与破坏性实验推上微观探究前沿。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
+> - **方法路径** 为[[Qualitative Research\|质性研究]]中的[[Interpretive Paradigm\|诠释范式]]确立了第一序[[Construct\|构念]]（参与者常识理解）与第二序构念（研究者科学概念）的[[Operationalization\|操作化]]桥梁，深刻启蒙了加芬克尔（[[Harold Garfinkel]]）的常人方法学，将日常[[Conversation Analysis|会话分析]]与破坏性实验推上微观探究前沿。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 > - **教育研究应用** 为微观教育[[Ethnography\|民族志]]、课堂互动[[Discourse Analysis\|话语分析]]、教师实践知识（Practitioner Knowledge）与学生亚文化分类图式研究提供了直接的理论透镜。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引

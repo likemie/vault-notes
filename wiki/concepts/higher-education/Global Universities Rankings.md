@@ -9,10 +9,10 @@ aliases:
 summary: "对高等教育机构进行比较性评估和排序的工具系统，已成为驱动大学竞争、政策调整和全球高教分层的重要基础设施。"
 type: concept
 domain: "higher-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
 - university-rankings
 - higher-education
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Space-Making]]"
   - "[[Non-monetary Competition]]"
   - "[[Champ]]"
+  - "[[Discourse]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Research Universities]]"
   - "[[Value Neutrality]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Global Universities Rankings
@@ -167,7 +168,7 @@ Thompson 等人（2022, pp.219–220）从 [[Competitiveness|高等教育竞争�
 
 ### 作为物质与话语的双重经济
 
-排名塑造了一种**同时是物质的和话语的**经济([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.801]])：
+排名塑造了一种**同时是物质的和[[Discourse|话语]]的**经济([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.801]])：
 
 - **物质层面** 排名直接塑造经济资源的分配——政府支出（如英国 [[Research Excellence Framework]]（REF） 评估结果决定 Quality-Related（QR）研究拨款）、研究拨款（高排名大学在竞争性资助中占据优势）、捐赠流向（校友和慈善家倾向于捐赠给排名上升的大学）
 - **话语层面** 排名决定了"谁被视为卓越"——高排名不仅带来物质回报，更带来符号权力。一所排名上升的大学在媒体中获得更多正面报道、在国际会议中获得更多发言权、在政策咨询中获得更多邀请

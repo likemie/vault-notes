@@ -8,7 +8,7 @@ summary: "英国比较教育先驱与历史主义学派代表人物，主持教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 56
+person_related_count: 57
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Competitiveness]]"
   - "[[Educational Meliorism]]"
+  - "[[Discourse]]"
   - "[[Positivism]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
@@ -262,7 +263,7 @@ updated: 2026-10-07
 > > [!axis] 技术工具论 vs [[Epistemology\|认识论]]空洞危机
 > > 争论围绕萨德勒的“实用价值”遗产是否正在阻碍学科的理论化进程展开。
 > > - **实用[[Educational Meliorism\|改良主义]]立场** 绝大多数比较教育学者支持萨德勒的遗产，认为“情境约束”和“政策借鉴的实用价值”构成了该学科存在的底线合法性与社会改良价值。
-> > - **学术性超越立场** 考恩对萨德勒的“实用价值”路径进行了严厉解构，指出这一框架促成了学科在认识论上的停滞与科学话语的混乱，使学科面临严重的认识型老化危机。[[Argument_Cowen_2023_CE\|(Cowen, 2023, pp. 327–328)]]
+> > - **学术性超越立场** 考恩对萨德勒的“实用价值”路径进行了严厉解构，指出这一框架促成了学科在认识论上的停滞与科学[[Discourse|话语]]的混乱，使学科面临严重的认识型老化危机。[[Argument_Cowen_2023_CE\|(Cowen, 2023, pp. 327–328)]]
 > >
 > > [!axis] 质性文化直觉 vs 战后科学[[Positivism\|实证主义]]
 > > 20 世纪 60 年代战后实证学派对萨德勒精神遗产的猛烈发难。

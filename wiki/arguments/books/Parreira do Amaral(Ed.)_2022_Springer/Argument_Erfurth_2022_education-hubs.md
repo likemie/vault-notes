@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Cultural Diplomacy]]"
+  - "[[Discourse]]"
   - "[[Soft Power]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
@@ -49,7 +50,7 @@ title: "Argument_Erfurth_2022_education-hubs"
 argument_key: "Argument_Erfurth_2022_education-hubs"
 argument_display_title: "Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates"
 argument_kind: "book"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -83,7 +84,7 @@ citation_aliases:
 [[Analytic Framework|分析框架]]由此导出 两个分析维度：
 
 - **政治经济维度** 国家如何通过自由市场式的高等教育产业环境吸引大学、学生和企业，直接推动经济增长和多样化
-- **[[Cultural Diplomacy|文化外交]]维度** 国家如何利用高等教育提升国际形象、投射进步形象、获得更大国际话语权
+- **[[Cultural Diplomacy|文化外交]]维度** 国家如何利用高等教育提升国际形象、投射进步形象、获得更大国际[[Discourse|话语]]权
 
 两个维度在同一个枢纽项目中共存但可能产生摩擦，其间的张力是本章实证分析的核心线索(pp.205–211)。
 
@@ -93,7 +94,7 @@ citation_aliases:
 > [!info]
 
 - 研究设计：[[Comparative Case Study|比较案例研究]]（Comparative [[Case Study]], Bartlett & Vavrus, 2017），通过三个轴比较新加坡和阿联酋——水平轴（不同地点相似政策如何展开）、垂直轴（跨尺度关注）、横贯轴（历时追溯 1990–2018 年间现象的变迁）。本章重点使用横贯维度(p.202, 204)
-- 分析方法：**批判[[Discourse Analysis|话语分析]](Critical Discourse Analysis, Fairclough, 2003)**，结合文本分析与社会理论分析，考察教育枢纽如何被话语性地生产、话语建构如何沉淀为社会结构(p.202)
+- 分析方法：**批判[[Discourse Analysis|话语分析]](Critical Discourse Analysis, Fairclough, 2003)**，结合文本分析与社会理论分析，考察教育枢纽如何被[[Discourse|话语]]性地生产、话语建构如何沉淀为社会结构(p.202)
 - 数据来源：(1) 政策文件（新加坡 60 份、阿联酋 38 份），含政治演讲、法律/法案、计划战略、报告、研究、网站；(2) 半结构化[[Expert Interview|专家访谈]]共 18 份（两国各 9 位），涵盖政策、教育产业和学术界专家(p.202)。本章主要利用[[Qualitative Documents|文件数据]]，因其在"建立问题"和构建解决方案方面具有丰富的表征性作用(Bartlett & Vavrus, 2017, p.92)
 
 
@@ -136,7 +137,7 @@ citation_aliases:
 **阿联酋（详见 [[UAE Education Hub Projects]]）**(pp.207–211)：
 
 - 2004 年前后：领导层更替后启动现代化议程，以经济多元化和全球融合为驱动
-- **阿布扎比** 利用石油财富资助高端文化机构——NYU Abu Dhabi、索邦大学、卢浮宫阿布扎比——通过关联全球高雅文化投射进步形象。引用阿联酋外交部官方话语："阿联酋建于开国者谢赫扎耶德关于宽容、和平和稳定的基本价值之上"(MoFAIC, 2020)。2020 年阿联酋全球软实力指数排名地区第一、全球第 18(MoFAIC, 2020)
+- **阿布扎比** 利用石油财富资助高端文化机构——NYU Abu Dhabi、索邦大学、卢浮宫阿布扎比——通过关联全球高雅文化投射进步形象。引用阿联酋外交部官方[[Discourse|话语]]："阿联酋建于开国者谢赫扎耶德关于宽容、和平和稳定的基本价值之上"(MoFAIC, 2020)。2020 年阿联酋全球软实力指数排名地区第一、全球第 18(MoFAIC, 2020)
 - **迪拜** 侧重政治经济维度——通过专门经济区吸引国际分校产业集群（如 Dubai International Financial Center 模仿英国法律体系），2006 年成立知识与人发署（KHDA）进行质量监管。目前拥有全球第二多国际分校（33 所），仅次于中国（36 所）(EY Parthenon, 2019)
 
 阿联酋案例展示了文化外交与政治经济的**空间分工**——阿布扎比承担文化外交功能，迪拜承担政治经济功能——两者在同一联邦体系内并行不悖。
@@ -161,7 +162,7 @@ citation_aliases:
 
 > [!success]
 
-- 新加坡和阿联酋的教育枢纽项目是**国家主导**的地缘政治项目，旨在减轻对国际组织的依赖、获得更大全球政治话语权(p.205)
+- 新加坡和阿联酋的教育枢纽项目是**国家主导**的地缘政治项目，旨在减轻对国际组织的依赖、获得更大全球政治[[Discourse|话语]]权(p.205)
 - 教育枢纽的"政策混合体"（policy-mix）远超出高等教育领域——需纳入发展经济学、[[Cultural Diplomacy|文化外交]]和地缘政治等多重视角才能充分理解(p.205)
 - 新加坡呈现出两维度的**时间交替**模式："[[Singapore Education Hub Policy|东方波士顿]]"（文化外交先行）→"全球校园"（政治经济跟进）→ 2007 年市场失败 → 监管回撤(pp.207–209)
 - 阿联酋呈现出两维度的**空间分工**模式：阿布扎比承担文化外交（高端文化机构），迪拜承担政治经济（国际分校产业集群）(pp.208–211)

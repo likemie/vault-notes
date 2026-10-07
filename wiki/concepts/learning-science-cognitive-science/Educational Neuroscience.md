@@ -11,7 +11,7 @@ aliases:
 summary: "将神经科学发现应用于教育实践的跨学科领域，主张以大脑学习机制为依据设计教学。被批评为简化主义，忽视社会互动和情境因素，且在历史上曾被用于为压迫性政策提供科学依据。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Screening Off]]"
+  - "[[Discourse]]"
   - "[[What Works Movement]]"
   - "[[Working Memory]]"
   - "[[Initial Teacher Training]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Educational Neuroscience
@@ -64,7 +65,7 @@ updated: 2026-09-29
 
 ## 围绕概念形成的命题
 
-> [!feature] 脑科学教育话语的核心主张
+> [!feature] 脑科学教育[[Discourse|话语]]的核心主张
 > 在当前主流的循证教学与“[[What Works Movement\|什么有效运动]]”中，脑科学话语被高度提炼为以下关键教学主张：
 > - **认知架构与[[Working Memory\|工作记忆]]物理限制** 人类的短期记忆是一条极窄的生理通道，教学设计必须通过工作示例或明确教学来减少大脑处理信息时的负荷。
 > - **新手与专家的大脑二元框架** 新手脑与专家脑在生理和认知结构上存在质的差异。由于新手大脑缺乏丰富的长期记忆图式，因此在生理上不适合探究式或自主性学习。
@@ -75,7 +76,7 @@ updated: 2026-09-29
 ## 概念演变
 
 > [!timeline] 概念演变与政策接受
-> - 1960s 脑科学和神经科学话语开始在澳大利亚早期儿童教育改革中露头，并逐步经历生物政治学化过程（Millei & Joronen, 2016）。
+> - 1960s 脑科学和神经科学[[Discourse|话语]]开始在澳大利亚早期儿童教育改革中露头，并逐步经历生物政治学化过程（Millei & Joronen, 2016）。
 > - 1993 约翰·布鲁尔（John Bruer）率先倡导基于神经科学的教育（“brain-based education”）。然而，他随后成为这一趋势最强烈的批判者之一，指出从神经科学直接跨越到教育实践是一步“太远的桥梁”（a bridge too far）（Bruer, 1993, cited in OECD, 2007, p. 132）。
 > - 2002 [[OECD]] 发布《理解大脑：走向新的学习科学》报告，警告过度依赖脑科学可能“导致建立一个过度科学化且高度顺从（highly conformist）的教育体系”的严重后果（p. 17）。
 > - 2007 OECD 发布后续报告，重申神经科学绝非灵丹妙药，必须依赖整合哲学、社会科学及教育本身的真正的跨学科方法（p. 21），并明确警告脑科学极易生成滥用（generate abuse，p. 132）。
@@ -105,4 +106,4 @@ updated: 2026-09-29
 > |---|---|---|
 > | [[OECD]] | 多次发布报告系统性论述教育神经科学的边界，警告其不能替代社会学与哲学，且极易被政策滥用。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 7–8]] |
 > | [[Strong Beginnings Report]] | 强制强推“大脑与学习”作为澳洲初始教师教育必修大纲的核心政策[[Document\|文件]]。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 3–4]] |
-> | [[Argument_Skourdoumbis_2024_AER]] | 对《强劲开端》报告中脑科学大纲进行批判性话语解构，指出其简化主义与历史政治风险。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 6–7]] |
+> | [[Argument_Skourdoumbis_2024_AER]] | 对《强劲开端》报告中脑科学大纲进行批判性[[Discourse\|话语]]解构，指出其简化主义与历史政治风险。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 6–7]] |

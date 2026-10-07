@@ -7,10 +7,10 @@ title: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_key: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_display_title: "The Modernist Beginnings of Comparative Education: The Proto-Scientific and The Reformist-meliorist Administrative Motif"
 argument_kind: "book-chapter"
-argument_related_count: 74
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#fef3c7"
+argument_related_count: 75
+argument_related_level: 5
+argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_color: "#fecdd3"
 authors:
   - "[[Pella Kaloyannaki|Kaloyannaki, P.]]"
   - "[[Andreas Kazamias|Kazamias, A. M.]]"
@@ -35,6 +35,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Auslandspadagogik]]"
+  - "[[Discourse]]"
   - "[[Educational Meliorism]]"
   - "[[Paradigm]]"
   - "[[Geisteswissenschaften]]"
@@ -127,7 +128,7 @@ updated: 2026-10-01
 ## 研究问题
 
 > [!question]
-> 比较教育学（Comparative Education, CE）在 19 世纪前中期的现代主义起源具有何种[[Epistemology\|认识论]]根基、方法论程序与意识形态诉求？作为公认学科始祖的[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）所倡导的准实证科学（science positive），与同时代活跃于大西洋两岸的政策制定者（如法国的[[Victor Cousin\|维克多·库森]]（Victor Cousin）与美国的[[Horace Mann\|霍勒斯·曼]]（Horace Mann）等）的[[Auslandspadagogik\|外国教育学]]（Auslandspädagogik）考察话语之间，存在怎样的内在承继与结构性裂痕？贯穿于所有异域教育探究背后的[[Educational Meliorism\|教育改良主义]]（Educational Meliorism），如何将跨国事实探究分化为以国家主权为核心的制度移植（transplantation）与以抗衡国内政治阻力为目的的合法化依据（legitimating rationales）双重机制？（pp.11–13, 24–25, 33–34）
+> 比较教育学（Comparative Education, CE）在 19 世纪前中期的现代主义起源具有何种[[Epistemology\|认识论]]根基、方法论程序与意识形态诉求？作为公认学科始祖的[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）所倡导的准实证科学（science positive），与同时代活跃于大西洋两岸的政策制定者（如法国的[[Victor Cousin\|维克多·库森]]（Victor Cousin）与美国的[[Horace Mann\|霍勒斯·曼]]（Horace Mann）等）的[[Auslandspadagogik\|外国教育学]]（Auslandspädagogik）考察[[Discourse|话语]]之间，存在怎样的内在承继与结构性裂痕？贯穿于所有异域教育探究背后的[[Educational Meliorism\|教育改良主义]]（Educational Meliorism），如何将跨国事实探究分化为以国家主权为核心的制度移植（transplantation）与以抗衡国内政治阻力为目的的合法化依据（legitimating rationales）双重机制？（pp.11–13, 24–25, 33–34）
 
 > [!claim] 核心主张
 > 比较教育学的现代主义发端由后启蒙现代性[[Paradigm\|范式]]所催生的两种核心母题共同塑造：
@@ -157,7 +158,7 @@ updated: 2026-10-01
 > 这一组理论工具构成了从[[Epistemology\|认识论]]预设到政治行动策略的严密推理桥梁：
 > 1. [[Enlightenment\|启蒙现代性范式]]与改良主义解释了[[Marc-Antoine Jullien\|朱利安]]、[[Victor Cousin\|库森]]与[[Horace Mann\|霍勒斯·曼]]等不同国别学者何以不约而同地将教育确立为社会大厦的基石，并试图借助跨国经验来救治各国的制度缺陷；
 > 2. [[Faculty Psychology\|心灵官能心理学]]与欧洲大陆[[Geisteswissenschaften|人文科学]]概念，合理解释了朱利安[[Questionnaire\|问卷]]中看似充满道德说教与价值偏见的题项，破除了现代[[Positivism\|实证主义]]对早期[[Document\|文献]]的脱节指责；
-> 3. 外国教育学与政策借用框架，精准切分了欧洲大陆中央集权行政体制下的法案移植逻辑，与美洲联邦分权共和政体下地方改革者动用外部证据平抑本土争议的话语合法化机制。（pp.17–18, 28–30, 33–34）
+> 3. 外国教育学与政策借用框架，精准切分了欧洲大陆中央集权行政体制下的法案移植逻辑，与美洲联邦分权共和政体下地方改革者动用外部证据平抑本土争议的[[Discourse|话语]]合法化机制。（pp.17–18, 28–30, 33–34）
 
 ---
 
@@ -168,7 +169,7 @@ updated: 2026-10-01
 > |------|----------------|
 > | **历史文献辨析与思想史考掘**<br>Intellectual Historiography | 对[[Marc-Antoine Jullien\|朱利安]]《计划》初版本、[[Victor Cousin\|库森]]普鲁士教育报告原著、[[Horace Mann\|霍勒斯·曼]]第七次年度报告以及相关传记史料开展考据，还原各思想家从大革命阵痛到七月王朝、从波士顿学监争议到边疆立州立法的具体情境。（pp.11–13, 24–26, 31–32） |
 > | **问卷指标与法案文本分析**<br>Textual & Indicator Analysis | 逐项解构朱利安[[Questionnaire\|问卷]]在初等与中等教育领域设计的指标维度，细致比对[[Prussian Draft Education Law of 1819\|普鲁士 1819 年聚芬法案条文]]与法国 1833 年[[Guizot Law of 1833\|基佐法案]]条款之间的法制移植痕迹。（pp.14–17, 26–29） |
-> | **跨大西洋认识论比较**<br>Transatlantic Epistemic Comparison | 将法兰西欧陆学者（以实证归纳与国家法典为中心）与美利坚学者（以共和民情、地方自治与经验叙事为中心）进行双向对称性对照，提炼借用话语在不同政治体制下的功能分殊。（pp.31–34） |
+> | **跨大西洋认识论比较**<br>Transatlantic Epistemic Comparison | 将法兰西欧陆学者（以实证归纳与国家法典为中心）与美利坚学者（以共和民情、地方自治与经验叙事为中心）进行双向对称性对照，提炼借用[[Discourse\|话语]]在不同政治体制下的功能分殊。（pp.31–34） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -386,7 +387,7 @@ updated: 2026-10-01
 
 > [!proc] 库森欧陆实定法直接转置的四阶段机制
 > 1. **官方行政使命调研** 受教育部委派作为官方使节赴德开展实地调研，聚焦普鲁士[[Prussian Draft Education Law of 1819\|聚芬法案]]的体制构架，确立为法国提供技术蓝本的考察目标。（pp.26–27）
-> 2. **编制官方比较报告** 发表《普鲁士公共教育现状报告》，以“考察普鲁士、心系法兰西”确立审慎借用准则，在欧美大西洋两岸确立广泛的政策话语影响力。（pp.25–26, 30）
+> 2. **编制官方比较报告** 发表《普鲁士公共教育现状报告》，以“考察普鲁士、心系法兰西”确立审慎借用准则，在欧美大西洋两岸确立广泛的政策[[Discourse|话语]]影响力。（pp.25–26, 30）
 > 3. **国家公共资源法哲学奠基** 提炼“教育属国家公共资源”的核心法理，破除教会神权与家庭私权对教育的垄断，为国家最高督导权确立伦理与法权正当性。（p.28）
 > 4. **国家最高立法实定法化** 主笔将外国技术条款转化为《1833年基佐法案》，通过强制市镇建校、省立师范与中央督学网络，完成外国经验的国家法典转置。（pp.28–29）
 

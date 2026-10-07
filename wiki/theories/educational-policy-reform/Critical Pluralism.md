@@ -6,7 +6,7 @@ aliases:
 summary: "Jacqueline Edmondson 提出的教育政策分析理论框架，将批判理论与参与式多元主义相结合，主张政策是负载权威价值观的社会建构，倡导教育者通过三类政策研究与多阵线政治策略实现实质性民主参与"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 19
+theory_related_count: 20
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -18,6 +18,7 @@ tags:
   - theme/critical-policy-analysis
   - paradigm/critical
 related_concepts:
+  - "[[Discourse]]"
   - "[[Ontology]]"
   - "[[Decodification]]"
   - "[[Disciplina and Doctrina]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-24
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # Critical Pluralism
@@ -56,7 +57,7 @@ updated: 2026-09-24
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 教育政策制定过程中的权力博弈、证据话语建构，以及教育专业人员与公众在民主治理中的实质性参与路径。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 1–2)]]
+> - **解释对象** 教育政策制定过程中的权力博弈、证据[[Discourse|话语]]建构，以及教育专业人员与公众在民主治理中的实质性参与路径。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 1–2)]]
 > - **理论问题** [[Pluralism|传统多元主义]]忽视社会各群体在权力与资本上的巨大结构性不平等；[[Neocorporatism|法团主义]]将政策谈判局限于高层组织代表而引发会员合法性危机；次政府与[[Elite Theory|精英理论]]将政策制定视为封闭集团的寡头控制，从而导致基层教育者陷入政治无能感与顺从主义。
 > - **理论类型** 规范性与批判性政策[[Analytic Framework|分析框架]]，兼具制度分析功能与实践行动指引。
 > - **知识位置** 融合了罗伯特·达尔（Robert Dahl）等人的参与式民主多元论传统、[[Patrick Shannon|帕特里克·香农]]（Patrick Shannon）与安妮·施耐德和海伦·英格拉姆（Anne Schneider & Helen Ingram）的[[Critical Policy Analysis|批判性政策研究]]，以及瓦尔特·帕克（Walter Parker）的有原则民主行动主义。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 2, 10–12)]]
@@ -107,7 +108,7 @@ updated: 2026-09-24
 ## 核心命题
 
 > [!theory-proposition] 命题一｜政策是负载价值判断且投射社会理想的权威性人为建构
-> **解释** 政策文本所宣称的客观目标与科学标准，本质上是特定利益群体在特定历史时空下将其世界观、意识形态与利益取向予以制度化赋权的产物。任何看似纯粹科学或技术的政策干预规程，都预设了何种社会生活与公民类型被认可、何种经验与话语被排斥的价值裁决。正如施耐德和英格拉姆（Schneider & Ingram, 1997）所阐发的，政策是关于人们应当如何共同生活的权威宣称，始于作者对理想社会的预设。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–12)]]
+> **解释** 政策文本所宣称的客观目标与科学标准，本质上是特定利益群体在特定历史时空下将其世界观、意识形态与利益取向予以制度化赋权的产物。任何看似纯粹科学或技术的政策干预规程，都预设了何种社会生活与公民类型被认可、何种经验与[[Discourse|话语]]被排斥的价值裁决。正如施耐德和英格拉姆（Schneider & Ingram, 1997）所阐发的，政策是关于人们应当如何共同生活的权威宣称，始于作者对理想社会的预设。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–12)]]
 >
 > **应用实例** 在《[[Reading Excellence Act|卓越阅读法案]]》立法中，将阅读法定定义为基于拼读的[[Decodification|解码]]能力，并非纯粹的认知心理学发现，而是保守派政界与特定[[Experimental Research|实验研究]]者将行为主义[[Disciplina and Doctrina|规训]]投射为国家教育理想的权威性价值建构。
 
@@ -145,7 +146,7 @@ updated: 2026-09-24
 ## 局限性与适用边界
 
 > [!theory-boundary] 局限性与适用边界
-> - **适合分析** 官方强力规制学科教学法与科研标准的政策制定事件、专业学会的代表性危机、学术话语同盟对决策的寡头垄断，以及自下而上的民主抗争与政策反思。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 1–4, 10–11)]]
+> - **适合分析** 官方强力规制学科教学法与科研标准的政策制定事件、专业学会的代表性危机、学术[[Discourse|话语]]同盟对决策的寡头垄断，以及自下而上的民主抗争与政策反思。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 1–4, 10–11)]]
 > - **成立条件** 需要研究者具备穿透技术性科学话语的多维政策研究能力（统整功能主义、沟通性与批判性），以及实践者具备一定的宪政常识与公民行动意愿。
 > - **解释不足与现实制约** 埃德蒙森自述，批判性[[Pluralism|多元主义]]所倡导的地方合宪抵制策略（如学区主动拒绝申请联邦巨额专项拨款），在深陷财政匮乏与经费赤字危机的薄弱学区极难实施，普通教师在抗衡国家立法机器与商业同盟时承受着巨大的经济与职业压力。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 13–14)]]
 > - **转化困难** 地方抵制行动多呈现散点化与个案性，难以在短时间内凝聚为全国性常态化的政策替代方案；跨界公众联盟（教师、家长、学生与民权组织）的组织协调与持续动员成本高昂。

@@ -4,7 +4,7 @@ aliases: ["引言缺陷模型", "deficiencies model", "deficiency model of an in
 summary: "基于文献缺口构建研究必要性的四部分引言写作模板，依次为研究问题陈述、文献证据综述、文献缺陷指出和受众重要性说明，在社会科学中广泛应用"
 type: concept
 domain: "academic-writing"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Variable]]"
   - "[[Research Problem]]"
+  - "[[Discourse]]"
 related_theories: []
 related_methods:
   - "[[Literature Map]]"
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-09-11
+updated: 2026-10-07
 ---
 
 # Deficiencies Model for an Introduction
@@ -115,7 +116,7 @@ updated: 2026-09-11
 > >
 > > **三、文献证据中的缺陷（Deficiencies in Evidence）**
 > >
-> > 极少有研究关注了高中作为考察青少年烟草使用场所的社会情境。在高中阶段，学生形成了同伴群体，这可能助长青少年吸烟。同伴往往成为一般行为的强大社会影响因素，而属于运动队、音乐团体或"邋遢"群体可能影响对吸烟的思考（McVea et al., in press）。学校也是青少年一天中大部分时间所处的场所（Fibkins, 1993），并且是可用的研究对象。学校为教师和行政人员提供了戒除烟草使用并执行烟草使用政策的示范场所（O'Hara et al., 1999）。现有的青少年烟草使用研究主要是量化的，关注结果和跨理论模型（Pallonen, 1998）。然而，质性研究提供了学生在自己话语中的详细视角、对多元视角的复杂分析，以及不同高中的具体学校情境如何塑造学生对烟草的体验（Creswell, in press）。此外，质性探究提供了让高中生作为协同研究者参与的机会，这一数据收集程序可以增强学生视角的效度，不受成人视角的污染。
+> > 极少有研究关注了高中作为考察青少年烟草使用场所的社会情境。在高中阶段，学生形成了同伴群体，这可能助长青少年吸烟。同伴往往成为一般行为的强大社会影响因素，而属于运动队、音乐团体或"邋遢"群体可能影响对吸烟的思考（McVea et al., in press）。学校也是青少年一天中大部分时间所处的场所（Fibkins, 1993），并且是可用的研究对象。学校为教师和行政人员提供了戒除烟草使用并执行烟草使用政策的示范场所（O'Hara et al., 1999）。现有的青少年烟草使用研究主要是量化的，关注结果和跨理论模型（Pallonen, 1998）。然而，质性研究提供了学生在自己[[Discourse|话语]]中的详细视角、对多元视角的复杂分析，以及不同高中的具体学校情境如何塑造学生对烟草的体验（Creswell, in press）。此外，质性探究提供了让高中生作为协同研究者参与的机会，这一数据收集程序可以增强学生视角的效度，不受成人视角的污染。
 > >
 > > **四、该问题对受众的重要性（Importance of Problem for Audiences）**
 > >

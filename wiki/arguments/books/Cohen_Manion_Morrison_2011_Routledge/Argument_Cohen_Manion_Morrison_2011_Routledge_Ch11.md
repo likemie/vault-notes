@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_display_title: "Research Methods in Education · Ch11"
 argument_kind: "book-chapter"
-argument_related_count: 83
+argument_related_count: 86
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Ontology]]"
   - "[[Causality]]"
+  - "[[Discourse]]"
   - "[[Artefact]]"
   - "[[Self-spectator]]"
   - "[[Informed Consent]]"
@@ -59,6 +60,7 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Alternative Hypothesis]]"
   - "[[Non-maleficence and Beneficence in Research]]"
+  - "[[Total Institution]]"
   - "[[Research Problem]]"
   - "[[Heterogeneity]]"
   - "[[Saturation]]"
@@ -68,6 +70,7 @@ related_concepts:
   - "[[Covert Research]]"
   - "[[Fitness for Purpose]]"
   - "[[Face Validity]]"
+  - "[[Hidden Curriculum]]"
   - "[[Unit of Analysis]]"
   - "[[Qualitative Validity]]"
   - "[[Causal Processes]]"
@@ -288,7 +291,7 @@ Lofland（1971）提出自然主义方法旨在回答三个核心问题：社会
 > | 环境 | 物理空间和社会环境的布局、资源与约束。 |
 > | 人和关系 | 人群构成、角色分配和人际互动模式。 |
 > | 行为、行动和活动 | 可观察的外显行为、日常实践和仪式化活动。 |
-> | 言语行为 | 人们说了什么、如何说的，以及话语背后的文化规则。 |
+> | 言语行为 | 人们说了什么、如何说的，以及[[Discourse\|话语]]背后的文化规则。 |
 > | 心理立场 | 态度、信念、情感和意义归因。 |
 > | 历史 | 个人和群体的历史脉络、事件序列和集体记忆。 |
 > | 物理对象 | [[Artefact\|物质文化]]、人工制品及其在社会生活中的功能。 |
@@ -441,7 +444,7 @@ LeCompte & Preissle（1993, pp. 106–107）进一步列出了一组更广的伦
 
 #### 阶段4：决定抽样（Deciding the Sampling）
 
-理想世界中研究者可研究整个群体，如 Goffman（1968）对总体性机构（医院、监狱、警察部队）的研究和早期人类学家对孤立社群的研究。但在现实世界中这几乎不再可能（p.417）。抽样不仅指人，还指事件、地点、时间、行为、活动、场景和过程（Miles & Huberman, 1984, p. 36）。
+理想世界中研究者可研究整个群体，如 Goffman（1968）对[[Total Institution|总体性机构]]（医院、监狱、警察部队）的研究和早期人类学家对孤立社群的研究。但在现实世界中这几乎不再可能（p.417）。抽样不仅指人，还指事件、地点、时间、行为、活动、场景和过程（Miles & Huberman, 1984, p. 36）。
 
 LeCompte & Preissle（1993, pp. 82–83）指出民族志方法排除统计抽样有七个原因：
 
@@ -678,7 +681,7 @@ Silverman（1993, pp. 92–93）补充了访谈的六项用途：
 > [!seq-table] 场外数据如何解释微观情境：四个经典研究
 > | 研究 | 核心发现 |
 > |------|----------|
-> | Bowles & Gintis（1976） | 学校隐性课程为学生准备不平等资本主义体系中的差异化职业未来。 |
+> | Bowles & Gintis（1976） | 学校[[Hidden Curriculum\|隐性课程]]为学生准备不平等资本主义体系中的差异化职业未来。 |
 > | Hurn（1978） | 自我实现预言机制。 |
 > | Pollard（1985, p. 110） | 小学日常互动为学生准备更广泛社会的个人主义、竞争、成就取向和等级制度。 |
 > | Delamont（1981） | 教育学者应研究类似但不同的机构（如医院、监狱等总体性机构）[[Making the Familiar Strange\|使熟悉变陌生]]。 |
@@ -793,7 +796,7 @@ Larsson（2009, p. 36）最终论证：**质性研究概括化的责任在于受
 > - **程序转型** 五阶段模型与[[Ideology Critique\|意识形态批判]]四阶段平行：描述情境→穿透成因→制定改变议程→评价新情境达成。从描述→理解→质疑→改变的完整转换。
 
 > [!proc] 批判民族志的五阶段模型（Carspecken, 1996）
-> 1. **编制初步记录：独白式数据收集** 研究者较被动，即参与观察者。独白指仅为自己写笔记。效度检查：多种录制设备+多观察者；灵活观察表；足够长时间克服[[Hawthorne Effect\|霍桑效应]]；低推断术语；同伴情况报告；参与者验证。借鉴 Habermas 有效性主张：**真理性**（话语真相）、**正当性**（说话者权利）、**可理解性**和**真诚性（pp.448–449）**。
+> 1. **编制初步记录：独白式数据收集** 研究者较被动，即参与观察者。独白指仅为自己写笔记。效度检查：多种录制设备+多观察者；灵活观察表；足够长时间克服[[Hawthorne Effect\|霍桑效应]]；低推断术语；同伴情况报告；参与者验证。借鉴 Habermas 有效性主张：**真理性（[[Discourse|话语]]真相）**、**正当性**（说话者权利）、**可理解性**和**真诚性（pp.448–449）**。
 > 2. **初步重构分析** 揭示参与者对情境的"想当然"意义成分和抽象，识别引导情境的价值系统、规范、关键概念。Carspecken（1996, p. 42）指出重构性意味着将通常不被参与者自身表达出的文化主题/社会系统因素**重构表达出来**→**使不言之物成为话语**。效度：与参与者访谈和小组讨论；成员检查以平等化权力关系；同伴情况报告；长期参与；片段分析；[[Negative Case Analysis\|负面案例分析]]（pp.449–450）。
 > 3. **对话式数据生成** 参与者被要求反思自己的情境、处境、生活并对自己的生活进行理论化→使参与者有**发声权**、**民主化研究**，可能产生挑战前两个阶段的新数据。效度：一致性检查；重复访谈；使观察与叙述匹配；避免[[Leading Questions\|引导性问题]]（同伴情况报告检查）；参与者验证；让参与者用自身术语描述情境（pp.450–451）。
 > 4. **发现系统关系** 将研究群体与影响的更广泛因素关联：本地社区群体、产生文化产品的本地场所等。效度：维持早期阶段要求、研究分析与参与者评论匹配、同伴情况报告+参与者验证。

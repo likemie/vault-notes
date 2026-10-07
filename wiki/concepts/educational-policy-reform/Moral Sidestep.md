@@ -5,7 +5,7 @@ aliases:
 summary: "以道德关切回避、替代或压过实证研究证据的话语策略，常用于分析政策争论中的价值与证据错位。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -14,6 +14,7 @@ tags:
 - evidence-based-policy
 - policy-making
 related_concepts:
+  - "[[Discourse]]"
   - "[[Document]]"
 related_theories: []
 related_methods: []
@@ -27,12 +28,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: 2026-10-07
 ---
 
 ## 定义
 
-Moral sidestep（道德侧步）指政策制定者以道德关切为理由回避实证研究证据、从而维持既有权力结构和利益格局的话语策略。该概念由 Alex Stevens（2019）在毒品政策研究中首次提出并命名。
+Moral sidestep（道德侧步）指政策制定者以道德关切为理由回避实证研究证据、从而维持既有权力结构和利益格局的[[Discourse|话语]]策略。该概念由 Alex Stevens（2019）在毒品政策研究中首次提出并命名。
 
 > "Stevens (2019), who observed politicians using moral concerns to avoid making evidence-based policy decisions and described this as a 'moral sidestep'"([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.3]])
 
@@ -40,7 +41,7 @@ Moral sidestep（道德侧步）指政策制定者以道德关切为理由回避
 
 ## 两种类型
 
-道德侧步在[[Document|文献]]中表现为两种不同的运作机制——回避型与建构型。二者的核心区分在于：侧步是**被动回避证据**还是**主动建构替代话语**。
+道德侧步在[[Document|文献]]中表现为两种不同的运作机制——回避型与建构型。二者的核心区分在于：侧步是**被动回避证据**还是**主动建构替代[[Discourse|话语]]**。
 
 ### 回避型道德侧步（Evasive Moral Sidestep）
 
@@ -83,7 +84,7 @@ Stevens 借鉴 Archer（2000）的 corporate agency 与 primary agency 区分来
 
 ## 核心要素
 
-- **道德话语替代证据** 决策者以"这是对的／好的"等道德断言取代对实证研究的理性回应([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3]])
+- **道德[[Discourse|话语]]替代证据** 决策者以"这是对的／好的"等道德断言取代对实证研究的理性回应([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3]])
 - **权力维护功能** 道德侧步的整体效果是保护既有利益和权力失衡，使弱势群体的诉求被忽视和排斥([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.10]])
 - **与 corporate agency 的关联**道德侧步依赖 Archer（2000）所称的 corporate agency——社会优势群体以规范性价值和结构主导政治社会景观；而 primary agency（利益分散、被排除在集体行动之外的群体）则缺乏影响决策的能力。两种类型均依赖此机制([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.9]])
 
@@ -106,7 +107,7 @@ Stevens 借鉴 Archer（2000）的 corporate agency 与 primary agency 区分来
 
 **概念迁移的适用性**Stevens（2019）的回避型道德侧步源于毒品政策情境（涉及刑事化、去人性化），其在教育政策中的适用性需要修正——Bainbridge et al. 的研究表明教育情境产生了不同的侧步机制（建构型），暗示道德侧步的形式可能与政策领域特性相关([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.19]])。
 
-**侧步并非不可撼动** 当社会流动性委员会报告提供了强有力的"内部证据"后，议会辩论中以[[Grammar School|文法学校]]促进社会流动性的论述显著减少（从 2016 年 9–11 月的 53 次降至 2016 年 11 月后的 13 次），表明道德话语在面对足够有力的机构内部证据时可以被部分瓦解。但"好学校"这一更根本的话语未被同一证据动摇([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.25]])。
+**侧步并非不可撼动** 当社会流动性委员会报告提供了强有力的"内部证据"后，议会辩论中以[[Grammar School|文法学校]]促进社会流动性的论述显著减少（从 2016 年 9–11 月的 53 次降至 2016 年 11 月后的 13 次），表明道德[[Discourse|话语]]在面对足够有力的机构内部证据时可以被部分瓦解。但"好学校"这一更根本的话语未被同一证据动摇([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.25]])。
 
 **"坏学校"的沉默面向** 建构型侧步的阴暗面是——未被评级为"good"的学校如何在此话语中被系统性剥夺资源和能动性，这一问题尚未被充分探讨([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.10, 19]])。
 

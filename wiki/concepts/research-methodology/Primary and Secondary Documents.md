@@ -15,7 +15,7 @@ aliases:
 summary: "一手文献是由事件目击者直接记录或原始实证研究生成的文献，二手文献是通过对一手文献的分析、改写或综合形成的阐述。在循证教育中，一手与二手文献在理解门槛、信息保真度与实践转化效能上呈现出显著的方法学差异。"
 type: concept
 domain: "research-methodology"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[Document]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Discourse]]"
   - "[[Artefact]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Counterfactual]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-24
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Primary and Secondary Documents
@@ -95,7 +96,7 @@ updated: 2026-10-01
 
 > [!boundary] 概念边界与转化局限
 > - 不等于 工程化工件 — 一手与二手文献均属于文本形态；工程化工件是将因果规律深度封装进免除底层统计认知负荷的预制脚本化教案与软件工具。
-> - 区分取决于使用情境与问题 — 一份文献作为领域学术贡献时是二手文献，而在考察该历史时期的学术思潮与话语流变时自身即构成一手文献。
+> - 区分取决于使用情境与问题 — 一份文献作为领域学术贡献时是二手文献，而在考察该历史时期的学术思潮与[[Discourse|话语]]流变时自身即构成一手文献。
 
 ---
 

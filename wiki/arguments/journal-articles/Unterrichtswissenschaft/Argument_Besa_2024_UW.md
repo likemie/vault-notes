@@ -7,7 +7,7 @@ title: "Argument_Besa_2024_UW"
 argument_key: "Argument_Besa_2024_UW"
 argument_display_title: "Evidenzfernes Lehrkräftehandeln – braucht die Bildungsforschung eine neue Wissenschaftskommunikation? Unterrichtswissenschaft, 52(2), 251–262"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Learning Style Myth]]"
   - "[[Knowledge Transfer]]"
   - "[[Educational Science Communication]]"
+  - "[[Discourse]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Hypothesis]]"
@@ -83,7 +84,7 @@ updated: 2026-09-18
 > 针对德语区职前师范生与在岗教师普遍依附于缺乏经验检验的直觉性经验知识（如坚信[[Learning Style Myth\|学习风格神话]]）、且实证教育研究成果难以有效融入常态课堂教学的顽固困境，教育科学研究界应如何反思传统单向线性的[[Knowledge Transfer\|知识转移]]模式局限，并通过重塑科学传播形态促进教师教育与教学实践的证据知情行动？（pp. 251–252）
 
 > [!claim] 核心主张
-> 实证教育研究向课堂实践的转化绝非单纯取决于证据的科研质量，而必须摆脱将教师视为被动受体的单向自上而下知识转移，转向非线性、双向乃至多向互惠的[[Educational Science Communication\|教育科学传播]]；教育研究者应破除参与大众科普会影响学术声誉的顾虑，积极拓展播客、信息中介平台及社交网络等多样化媒介形态，采用契合一线教师话语习惯的通俗语言开展针对性概念转变，并推动学术界在制度上确立研究合成与通俗[[Transfer Translation Transformation\|转译]]的独立科学价值。（pp. 252–254, 258）
+> 实证教育研究向课堂实践的转化绝非单纯取决于证据的科研质量，而必须摆脱将教师视为被动受体的单向自上而下知识转移，转向非线性、双向乃至多向互惠的[[Educational Science Communication\|教育科学传播]]；教育研究者应破除参与大众科普会影响学术声誉的顾虑，积极拓展播客、信息中介平台及社交网络等多样化媒介形态，采用契合一线教师[[Discourse|话语]]习惯的通俗语言开展针对性概念转变，并推动学术界在制度上确立研究合成与通俗[[Transfer Translation Transformation\|转译]]的独立科学价值。（pp. 252–254, 258）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 德语区职前师范生、在岗教师、大学与进修机构教师教育者（Lehrkräftebildende）、教育行政管理者与教育科学研究共同体。

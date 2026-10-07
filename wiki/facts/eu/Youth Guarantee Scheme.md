@@ -9,7 +9,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -22,6 +22,7 @@ tags:
 - level/k12
 - level/higher-ed
 related_concepts:
+  - "[[Discourse]]"
   - "[[Apprenticeship]]"
   - "[[Further Education]]"
   - "[[Network Governance]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Youth Guarantee Scheme
@@ -53,7 +54,7 @@ updated: 2026-10-05
 > [!info]
 > Youth Guarantee Scheme（青年保障计划）由欧盟理事会于 2013 年 4 月 22 日通过理事会建议书（Council Recommendation）设立，是 [[Europe 2020 Strategy]]（2010–2020）框架下应对青年失业问题的关键政策工具。该计划将就业、青年工作和教育培训领域联结起来，旨在解决完成义务教育后进入失业状态的青年群体面临的过渡困境(European Council, 2013; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.169]])。
 >
-> Youth Guarantee 的设立标志着欧盟政策话语中的一个重要转变：义务教育的结束不再意味着国家责任的终止，而是进入一个由就业、教育、培训和[[Apprenticeship|学徒制]]共同构成的保障新阶段。这体现了欧盟对"教育培训体系"一体化理解的具体制度化——即教育不应是孤立于就业之外的服务，而应与就业政策无缝衔接([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168–169]])。
+> Youth Guarantee 的设立标志着欧盟政策[[Discourse|话语]]中的一个重要转变：义务教育的结束不再意味着国家责任的终止，而是进入一个由就业、教育、培训和[[Apprenticeship|学徒制]]共同构成的保障新阶段。这体现了欧盟对"教育培训体系"一体化理解的具体制度化——即教育不应是孤立于就业之外的服务，而应与就业政策无缝衔接([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168–169]])。
 
 ## 政策文本摘要
 
@@ -98,7 +99,7 @@ Youth Guarantee 与 [[EU Skills Agenda]] 和 [[Innovation Union]] 共同构成 [
 ## 效果与评价
 
 > [!success]
-> - [[Argument_Rambla_2022_Springer\|Rambla (2022)]]指出，通过将就业与教育培训的制度衔接塑造为一种"保障"（guarantee），该计划重新定义了国家在青年过渡阶段的责任边界——从传统的义务教育服务提供者扩展为青年生命历程过渡的持续保障者。在政策话语层面，"4 个月"时限为青年从教育到就业的过渡提供了一个清晰、可操作的制度锚点（p.169）
+> - [[Argument_Rambla_2022_Springer\|Rambla (2022)]]指出，通过将就业与教育培训的制度衔接塑造为一种"保障"（guarantee），该计划重新定义了国家在青年过渡阶段的责任边界——从传统的义务教育服务提供者扩展为青年生命历程过渡的持续保障者。在政策[[Discourse|话语]]层面，"4 个月"时限为青年从教育到就业的过渡提供了一个清晰、可操作的制度锚点（p.169）
 > - Youth Guarantee 与 [[EU Skills Agenda]] 和 [[Innovation Union]] 的制度化衔接，使青年就业保障不再是一个孤立的临时措施，而是创新与教育培训政策体系的有机组成部分（p.170）
 
 ## 争议与评论

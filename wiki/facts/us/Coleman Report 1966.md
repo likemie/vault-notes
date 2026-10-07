@@ -9,9 +9,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
 - coleman-report
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Learning Gain]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Counterfactual]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Refraction Framework]]"
 related_methods:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-04'
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 ## 背景
 
@@ -221,7 +222,7 @@ updated: 2026-09-22
 > > 
 > > 相对于改革其他机构，对改革学校的更大强调，一种犬儒但完全合理的解释是它服务于一个目的：它转移了人们对不平等真正来源的注意力，从而服务于那些从当前社会安排中受益的人的利益。
 >
-> 这一解读将学校改革话语定位为一种**意识形态功能** 通过将公众注意力集中在学校（一个相对安全的改革目标），系统性转移了对更广泛社会结构（最低工资、医疗保障、公共交通、带薪家事假、亲劳工立法、大规模监禁等）的关注——而这些才是成就差距的真正主要来源。
+> 这一解读将学校改革[[Discourse|话语]]定位为一种**意识形态功能** 通过将公众注意力集中在学校（一个相对安全的改革目标），系统性转移了对更广泛社会结构（最低工资、医疗保障、公共交通、带薪家事假、亲劳工立法、大规模监禁等）的关注——而这些才是成就差距的真正主要来源。
 >
 > ### 当代政策含义
 >

@@ -9,7 +9,7 @@ title: "Argument_Hattie_2015_Paideia"
 argument_key: "Argument_Hattie_2015_Paideia"
 argument_display_title: "Synlig læring i dag"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
+  - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Falsification]]"
   - "[[Document]]"
@@ -63,7 +64,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question\|研究问题]]
-> [[Visible Learning]] 已经从一本 2009 年出版的研究综合扩展为一组面向教师、[[School Leadership\|学校领导]]和政策系统的实践话语。核心问题因此变成：在面对方法论批评、[[Effect Size\|效应量]]误读和学习概念争议时，如何重新说明 Visible Learning 的中心主张，使它不被简化成“照排行榜选教学法”的技术菜单？(pp.9-11)
+> [[Visible Learning]] 已经从一本 2009 年出版的研究综合扩展为一组面向教师、[[School Leadership\|学校领导]]和政策系统的实践[[Discourse|话语]]。核心问题因此变成：在面对方法论批评、[[Effect Size\|效应量]]误读和学习概念争议时，如何重新说明 Visible Learning 的中心主张，使它不被简化成“照排行榜选教学法”的技术菜单？(pp.9-11)
 >
 > 更直白地说，这篇文章要把 Visible Learning 从一个容易被误读的“干预排名表”，重新解释成一个学校里的工作习惯：教师和学校要持续追问“我的教学到底对学生产生了多大影响，这种影响是否足够好”。(pp.11-13)
 

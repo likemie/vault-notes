@@ -9,7 +9,7 @@ summary: "美国政治学家、公共政策学者，普林斯顿大学伍德罗�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Linear Model of Innovation]]"
   - "[[Operationalization]]"
+  - "[[Discourse]]"
   - "[[Pragmatic Paradigm]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
@@ -152,7 +153,7 @@ updated: 2026-10-07
 > [!person-network] 关系网络
 > - **学术对话与反思对象** [[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush） — 批判并打破其《科学——[[Science, The Endless Frontier 1945|无尽的前沿]]》中确立的一维线性动机轴，将其重构为二维分类矩阵。
 > - **当代政策[[Operationalization|操作化]]者** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios） — 在 2026 年白宫科技报告中将斯托克斯[[Pasteur's Quadrant|巴斯德象限]]确立为重构联邦科研体制的核心理论支柱，推动制度化落地。
-> - **后续理论发展与批判者** [[Venkatesh Narayanamurti|文卡泰什·纳拉亚纳穆尔提]]（Venkatesh Narayanamurti） — 指出斯托克斯未能彻底摆脱基础/应用话语体系，提出对称流转的[[Discovery-Invention Cycle|发现-发明循环]]网络。
+> - **后续理论发展与批判者** [[Venkatesh Narayanamurti|文卡泰什·纳拉亚纳穆尔提]]（Venkatesh Narayanamurti） — 指出斯托克斯未能彻底摆脱基础/应用[[Discourse|话语]]体系，提出对称流转的[[Discovery-Invention Cycle|发现-发明循环]]网络。
 > - **当代制度主义评估者** [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演进脉络，将斯托克斯界定为 1990 年代“重新签约”大辩论与多重契约交叠期的核心认知重构者。
 > - **代表性案例实体** [[Bell Labs|贝尔实验室]]（常被视作[[Pasteur's Quadrant|用启发性基础研究]]的典型组织典范）。
 
@@ -168,7 +169,7 @@ updated: 2026-10-07
 > > - **[[Argument_Fan_2026_BCAS|樊春良 (2026, p. 1060)]]** 指出：斯托克斯的巴斯德象限在冷战后赤字压力下有效构筑了“追求基本理解”与“兼顾应用启发”的妥协[[Paradigm|范式]]，使基础科学在失去单一国家安全庇护后获得多元合法性；但这种妥协也将科学拉入了“受制度管理的专业系统”，资助逻辑从长期机构托底转向竞争性项目制，科学必须频繁自证对产业创新与社会问题的贡献，客观上为日后的刚性绩效审计与技术导向替代铺垫了道路。
 > > - **科学政策传统辩护** 强调巴斯德象限是面对国会削减预算风暴时最务实且高明的理论保全策，若无该模型对“探索根本理解”维度的顽强捍卫，学术研究极易在[[Pragmatic Paradigm|实用主义]]逼迫下彻底退化为短期商业开发。
 >
-> > [!axis] 主观动机局限与话语残留批评
+> > [!axis] 主观动机局限与[[Discourse|话语]]残留批评
 > > [[Pasteur's Quadrant|帕斯德象限]]是否真正解决了基础与应用研究的人为割裂？
 > >
 > > - **纳拉亚纳穆尔提等人的系统批评** 纳拉亚纳穆尔提等学者指出，斯托克斯框架存在两大未竟之业：第一，它依然依据研究者在立项当下的心理动机进行分类，无法解释一个最初单纯为了解决通信工程难题的项目（如晶体管或高纯异质结构制造）如何在数十年后演变为前沿微观物理的重大理论发现；第二，斯托克斯继续沿用“基础”与“应用”这两个带有历史等级偏见的旧术语，未能完整展现发明与发现在网络中跨越数十年的双向流转全貌。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 32–33)]]

@@ -12,9 +12,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: think-tank
 headquarters: "美国华盛顿哥伦比亚特区"
@@ -28,6 +28,7 @@ tags:
   - standards-based-reform
 related_concepts:
   - "[[School Choice]]"
+  - "[[Discourse]]"
   - "[[College and Career Readiness]]"
   - "[[Paradigm]]"
   - "[[Document]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # Thomas B. Fordham Institute
@@ -74,7 +75,7 @@ updated: 2026-09-26
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **1997–2003年 — 《各州学术标准状况》系列报告确立行业权威** 连续发布全美各州课程标准评级报告，组织顶尖学科专家对 50 州大纲逐一打出 A 到 F 的严苛等级，撕开了各州自吹自擂的虚假面纱，奠定了在基于标准的改革领域的权威话语权。
+> - **1997–2003年 — 《各州学术标准状况》系列报告确立行业权威** 连续发布全美各州课程标准评级报告，组织顶尖学科专家对 50 州大纲逐一打出 A 到 F 的严苛等级，撕开了各州自吹自擂的虚假面纱，奠定了在基于标准的改革领域的权威[[Discourse|话语]]权。
 > - **2004–2008年 — 联合发起[[American Diploma Project|美国文凭项目]]（ADP）** 联合[[Achieve|阿奇夫]]（Achieve）与代表民权阵营的[[The Education Trust|教育信托]]（The Education Trust）组建跨党派同盟，共同研发[[American Diploma Project|美国文凭项目]]，率先确立[[College and Career Readiness|大学与职业就绪]]基准。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9, 21)]]
 > - **2009–2012年 — 全力推动 [[Common Core State Standards|CCSS]] 研制与全美微观对标评估** 作为核心智囊深度介入 CCSS 审议，出资开展覆盖全美的跨州标准多维比对研究；在后续保守派基层对国家标准反弹时，持续站在学术前沿捍卫高质量标准的正当性。
 

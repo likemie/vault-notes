@@ -29,6 +29,7 @@ related_concepts:
   - "[[Divergent Thinking]]"
   - "[[Creativity]]"
   - "[[Heterogeneity]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Scaffolding]]"
   - "[[Structured Teaching]]"
   - "[[Metacognition]]"
@@ -115,7 +116,7 @@ title: "Argument_Li_2026_CEAI"
 argument_key: "Argument_Li_2026_CEAI"
 argument_display_title: "The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes"
 argument_kind: "journal-article"
-argument_related_count: 76
+argument_related_count: 77
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -132,7 +133,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> [[Generative Artificial Intelligence\|生成式人工智能]]（以 ChatGPT 为代表）在高等教育中的迅速普及引发了关于学生高阶心智发展的广泛争议。既有综述多将[[Higher-Order Thinking Skills\|高阶思维]]笼统合并为一般的[[Academic Achievement\|学业表现]]、学习动机或宽泛的认知参与，未能系统区分[[Convergent Thinking\|收敛性认知加工]]（如[[Critical Thinking\|批判性思维]]）与[[Divergent Thinking\|发散性认知加工]]（如[[Creativity\|创造性思维]]）在人机交互中所受到的[[Heterogeneity\|异质性]]塑造。本研究旨在系统探究：在高等教育不同教学情境与任务设计下，ChatGPT 如何分别塑造大学生的批判性思维与创造性思维？二者在人机协同学习中呈现何种共现演进模式？哪些教学调节条件能够促进高阶思维的协同发展并规避认知退化风险？
+> [[Generative Artificial Intelligence\|生成式人工智能]]（以 ChatGPT 为代表）在高等教育中的迅速普及引发了关于学生高阶心智发展的广泛争议。既有综述多将[[Higher-Order Thinking Skills\|高阶思维]]笼统合并为一般的[[Academic Achievement\|学业表现]]、学习动机或宽泛的认知参与，未能系统区分[[Convergent Thinking\|收敛性认知加工]]（如[[Critical Thinking\|批判性思维]]）与[[Divergent Thinking\|发散性认知加工]]（如[[Creativity\|创造性思维]]）在人机交互中所受到的[[Heterogeneity\|异质性]]塑造。本研究旨在系统探究：在高等教育不同教学情境与任务设计下，ChatGPT 如何分别塑造大学生的批判性思维与创造性思维？二者在[[Man-Computer Symbiosis|人机协同]]学习中呈现何种共现演进模式？哪些教学调节条件能够促进高阶思维的协同发展并规避认知退化风险？
 
 > [!claim] 核心主张
 > ChatGPT 对大学生认知发展的影响并非技术固有的必然属性，而是高度依存于任务的教学情境与[[Scaffolding\|脚手架]]设计。当嵌入探究导向、反思提示与对话式互动的[[Structured Teaching\|结构化教学]]设计中时，ChatGPT 能够作为认知放大器与中介伙伴，通过促进[[Metacognition\|元认知]]监控、论证建构与发散构想，驱动批判性思维与创造性思维的“双向协同增益”；反之，在缺乏教学支架的非结构化或工具主义应付情境中，ChatGPT 会诱发严重的[[Cognitive Offloading\|认知卸载]]与心智惰性，导致“创造性繁荣伴随批判性萎缩”的非对称发展，乃至批判与创造能力的“双重认知侵蚀”。
@@ -412,7 +413,7 @@ issuing_organization: ""
 > - **将 ChatGPT 定位为跨学科[[Boundary Object\|边界对象]]与连接节点（Connective Node）** 充分释放大模型跨学科知识检索与体裁迁移的优势，设计真实情境下的跨领域综合任务（如科技向善伦理辩论、跨学科系统建模）。
 > - **构建超越 AI 的多源反馈生态网络（Multi-Source [[Feedback]] Ecosystem）** 将 AI 的即时形成性评语置于生态底层，必须与教师的专业点拨、同伴的深度质询以及自我认知校准进行四维三角互证，防范技术崇拜。
 
-> [!tension-table] 人机协同教学模式的范式转向：工具中心论 vs 活动系统重构
+> [!tension-table] [[Man-Computer Symbiosis|人机协同]]教学模式的范式转向：工具中心论 vs 活动系统重构
 > | 教学系统维度 | 传统的工具中心论模式（Tool-Centric Paradigm） | 新兴的活动系统重构模式（Activity-System Reconfiguration） |
 > |---|---|---|
 > | **技术角色定位** | 快速交差的便利工具、答案贩卖机或学术作弊隐患 | 分布式认知网络中的中继节点、对话伙伴与[[Boundary Object\|边界对象]] |

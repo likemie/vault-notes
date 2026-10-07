@@ -8,7 +8,7 @@ aliases:
 summary: "在多文本阅读与数字化探究中，学习者主动审验作者资质、出版机构意图、潜在利益冲突及文本可信度的批判性认知规程与教学框架；元分析证实显性教授信源评估对学业成就具有高度因果促进效应（d = 0.800）。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Reflexivity]]"
   - "[[AI Literacy]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Reliability]]"
   - "[[Document]]"
   - "[[Benevolence]]"
@@ -64,7 +65,7 @@ related_arguments:
 status: active
 confidence: high
 created: 2026-09-21
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Source Evaluation
@@ -81,7 +82,7 @@ updated: 2026-10-03
 > - **用途** 帮助研究者和教育者看见学生面对信息洪流与生成式算法输出时的批判性甄别能力，指导设计专门的多文本阅读策略与[[AI Literacy|人工智能素养]]课程。
 > - **边界** 区别于个体对知识本质的哲学信念；它属于操作层面的认知技能、策略体系与教学组织模式。
 
-> [!citation-card] Sperber et al. 及 Han & Gutierez 论人机协同中的二手信源评估
+> [!citation-card] Sperber et al. 及 Han & Gutierez 论[[Man-Computer Symbiosis|人机协同]]中的二手信源评估
 > 在人机协同与多文本探究中，信源评估具体展开为针对沟通中介者专业性、[[Reliability|可靠性]]及潜在偏见的系统审验。面对生成式人工智能时，学习者必须超越表层文本，主动追问算法输出背后的[[Document|文献]]依据、权威共识与科学事实基础，防范将概率生成模型误判为无所不知的直接真理源。(Sperber et al., 2010; [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez, 2026, p. 5]])
 >
 > *Source evaluation involves examining whether the source has the competence, [[Benevolence]], and authority to convey truth. In GenAI interactions, learners question the evidence and literature underlying AI claims to guard against algorithmic authority.*
@@ -146,7 +147,7 @@ updated: 2026-10-03
 > 探讨大语言模型如何遮蔽[[Primary and Secondary Documents|原始文献]]出处，以及学习者如何通过显性提问提示语对 AI 展开二手信源审问。
 
 > [!claim] [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]]
-> **人机协同中的第二手信源审验与权威共识对照机制** [[Generative Artificial Intelligence|生成式人工智能]]并非一手[[Knowledge Production|知识生产]]者，而是通过统计模型重组互联网数据的第二手信息中介。在利用 GenAI 建构[[Scientific Explanation|科学解释]]时，初中生在显性反思提问提示语（如“这与课本一致吗”、“谁支持该观点”）引导下，系统展开针对 AI 输出的二手信源评估（Second-hand Source Evaluation）：
+> **[[Man-Computer Symbiosis|人机协同]]中的第二手信源审验与权威共识对照机制** [[Generative Artificial Intelligence|生成式人工智能]]并非一手[[Knowledge Production|知识生产]]者，而是通过统计模型重组互联网数据的第二手信息中介。在利用 GenAI 建构[[Scientific Explanation|科学解释]]时，初中生在显性反思提问提示语（如“这与课本一致吗”、“谁支持该观点”）引导下，系统展开针对 AI 输出的二手信源评估（Second-hand Source Evaluation）：
 > - **[[Document|文献]]依据追问** 主动追问 AI 给出断言背后的原始研究、科学家观点或教科书依据；
 > - **权威共识对照** 将 AI 生成的因果机制与权威教材或课程标准进行严格比对，识别模型遗漏与事实扭曲；
 > - **算法中介局限体认** 清醒体认大模型输出只是待检验的认知线索，而非不可质疑的学科权威。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 5, 18–22)]]
@@ -171,7 +172,7 @@ updated: 2026-10-03
 > - **2008–2011 — 多文本阅读认知模型拓展** 鲁埃等学者（Rouet & Britt）提出多文本理解的文档模型与 MD-TRACE 架构，将信源节点（Source Node）确立为多文本心理表征的核心支柱。
 > - **2014–2018 — 数字化时代的显性策略干预** 梅森等学者（Mason et al., 2014）与斯坦福史学教育课题组（Wineburg & McGrew, 2018）将信源评估开发为标准化的教学策略（如[[Lateral Reading\|横向阅读法]]），证明短期显性指导即可显著纠正学生的网络盲信。
 > - **2021 — 因果[[Meta-analysis\|元分析]]确立高效应干预地位** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 通过元分析量化证实，信源评估教学框架在[[Epistemic Cognition\|认识论认知]]干预中录得 $d = 0.800$ 的大[[Effect Size\|效应量]]，确立了其作为高效能教学干预[[Paradigm\|范式]]的实证基准。
-> - **2026 — 生成式 AI 时代的二手信源审问与文献溯源** [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] 将信源评估拓展至人机协同[[Scientific Explanation|科学解释]]领域，实证揭示显性反思提问提示语如何驱动学生对大模型展开二手信源审查、文献溯源与教材权威对照。
+> - **2026 — 生成式 AI 时代的二手信源审问与文献溯源** [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] 将信源评估拓展至[[Man-Computer Symbiosis|人机协同]][[Scientific Explanation|科学解释]]领域，实证揭示显性反思提问提示语如何驱动学生对大模型展开二手信源审查、文献溯源与教材权威对照。
 
 ---
 
@@ -202,7 +203,7 @@ updated: 2026-10-03
 >
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026, pp. 5–22)]] | 韩国 8 名初中生（4 对配对），两节科学人机协同解释课 | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]] | 反思提问提示语驱动的二手信源评估 | 学生在反思提示语引导下主动追问 AI 生成断言背后的[[Document\|文献]]出处与教材共识支持，排查算法单向偏见 | 质性深度案例分析 | 证实显性提问支架能有效将中学生的信源评估技能迁移至生成式 AI 交互环境 |
+> | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026, pp. 5–22)]] | 韩国 8 名初中生（4 对配对），两节科学[[Man-Computer Symbiosis\|人机协同]]解释课 | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]] | 反思提问提示语驱动的二手信源评估 | 学生在反思提示语引导下主动追问 AI 生成断言背后的[[Document\|文献]]出处与教材共识支持，排查算法单向偏见 | 质性深度案例分析 | 证实显性提问支架能有效将中学生的信源评估技能迁移至生成式 AI 交互环境 |
 
 ---
 

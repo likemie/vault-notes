@@ -8,7 +8,7 @@ aliases:
 summary: "在认识论认知AIR模型中，用于生成可信、有效认识产出的因果性认识过程及其适用与保障条件。"
 type: concept
 domain: "educational-psychology"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Determinism]]"
   - "[[Alternative Hypothesis]]"
+  - "[[Discourse]]"
   - "[[Epistemic Cognition]]"
   - "[[Causal Processes]]"
   - "[[Academic Achievement]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Reliable Epistemic Processes
@@ -165,7 +166,7 @@ updated: 2026-09-22
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **[[Determinism\|因果决定论]]** | 证据可信度取决于生成过程的因果可靠性 | 证据源头信度评估、[[Alternative Hypothesis\|替代假设]]排除 | Duncan & Chinn |
-> | **条件洞察论** | 审视方法约束条件构成高阶科学推理的质性标尺 | 科学论证与课堂话语质性评价 | Duncan & Chinn |
+> | **条件洞察论** | 审视方法约束条件构成高阶科学推理的质性标尺 | 科学论证与课堂[[Discourse\|话语]]质性评价 | Duncan & Chinn |
 > | **社会机理论** | 可靠过程基于共同体社会协商并依赖因果机制理解 | 科学实践教学、元认识论审议与主体性建构 | Duncan & Chinn |
 > | **显性规程论** | 可靠认识过程必须依托显性支架与规程示范方能有效习得 | 探究教学设计、多文本信源评估训练与程序支架开发 | Cartiff et al. |
 

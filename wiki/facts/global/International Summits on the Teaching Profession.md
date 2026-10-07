@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Whole Person Education]]"
   - "[[International Education]]"
   - "[[Performance Indicators]]"
+  - "[[Discourse]]"
   - "[[Research Utilization]]"
   - "[[Dialogue in Education]]"
 related_theories: []
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # International Summits on the Teaching Profession
@@ -149,7 +150,7 @@ updated: 2026-09-26
 > > - **执行断层** 若本土教育体制缺乏配套财政支持与工会集体谈判权保障，国际峰会承诺易沦为空洞外交辞令。
 
 > [!lessons] 经验教训与启示
-> - **实证能力是工会对话的前提** 教师工会若想在跨国政策博弈中获得真正平等的话语权，必须建立自身独立的学术研究机构与实证数据挖掘能力，以扎实证据替代感性道德诉求。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210, 212)]]
+> - **实证能力是工会对话的前提** 教师工会若想在跨国政策博弈中获得真正平等的[[Discourse|话语]]权，必须建立自身独立的学术研究机构与实证数据挖掘能力，以扎实证据替代感性道德诉求。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210, 212)]]
 > - **超越二元对立的交往审议价值** 证明了将对立利益相关方置于共同研究证据面前开展结构化对话，是化解公共政策深层价值分歧的最有效途径。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211–212)]]
 
 ---

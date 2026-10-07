@@ -8,10 +8,10 @@ aliases:
 summary: "学习者在面临学业困难或知识盲区时，主动识别障碍、调动外部社会或技术资源以维持学习进程的自我调节学习与认识论策略，涵盖工具性求助、执行性求助与人机交互低威胁求助"
 type: concept
 domain: "educational-psychology"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 confidence: high
 status: active
 tags:
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Self-Regulated Learning]]"
   - "[[Epistemology]]"
   - "[[Metacognition]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Cognitive Offloading]]"
   - "[[Problem Solving]]"
   - "[[Epistemic Stances]]"
@@ -55,7 +56,7 @@ related_arguments:
   - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Li_2012_Cambridge]]"
 created: 2026-09-22
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Academic Help-Seeking
@@ -70,7 +71,7 @@ updated: 2026-09-29
 > [!concept-lens] 概念透镜
 > - **含义** 学习者将外部社会网络与技术系统转化为自身认知拓展延伸的自适应行为过程。
 > - **用途** 帮助教育研究者诊断学生在面对困难时是采取建设性探究还是陷入学业拖延与防御性逃避，并评估教学环境与技术工具的心理安全感。
-> - **人机共生视界** 在生成式人工智能环境中，求助对象从“高社会评价威胁的人际权威”拓展为“全天候、无偏见且低威胁的智能中介”，深刻重塑了学业求助的心理成本与认识论动力学。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 361–362)]]
+> - **[[Man-Computer Symbiosis|人机共生]]视界** 在生成式人工智能环境中，求助对象从“高社会评价威胁的人际权威”拓展为“全天候、无偏见且低威胁的智能中介”，深刻重塑了学业求助的心理成本与认识论动力学。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 361–362)]]
 > - **边界** 必须严格区分旨在获得认知启发与掌握解法的“工具性求助（Instrumental Help-Seeking）”与旨在逃避认知加工、直接索要现成答案的“执行性求助（Executive Help-Seeking）”。
 
 > [!citation-card] 学业求助的社会评价威胁与心理壁垒
@@ -173,7 +174,7 @@ updated: 2026-09-29
 > | **自我调节属性** | 适应性求助是元认知调控与资源管理的高阶认知策略。 | 复杂学业[[Problem Solving\|问题解决]]、[[Learner Autonomy\|自主学习]]与元认知发展 | Zimmerman; Pintrich; Karabenick |
 > | **求助恐惧阻碍** | 害怕暴露愚蠢与负面社会评价诱发求助回避，阻碍认知发展。 | 传统班级课堂、[[High-Stakes Testing\|高利害评估]]与师生互动 | Bornschlegl et al.; Ryan & Pintrich |
 > | **文化信念调节** | 东方视求助为谦逊美德（无羞感），西方易将求助视为能力缺陷。 | [[Intercultural Education\|跨文化教育]]心理学、同伴互动与比较教育 | [[Argument_Li_2012_Cambridge\|Li (2012)]] |
-> | **技术去威胁赋能** | 生成式 AI 消除社会评价风险与权力壁垒，释放提问动能并驱动立场跃迁。 | 人工智能教育应用、人机协同探究与统计推论学习 | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]]; [[Argument_Wu_2025_ER\|Wu et al. (2025)]] |
+> | **技术去威胁赋能** | 生成式 AI 消除社会评价风险与权力壁垒，释放提问动能并驱动立场跃迁。 | 人工智能教育应用、[[Man-Computer Symbiosis\|人机协同]]探究与统计推论学习 | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]]; [[Argument_Wu_2025_ER\|Wu et al. (2025)]] |
 
 ---
 

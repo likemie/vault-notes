@@ -12,7 +12,7 @@ aliases:
 summary: "学习科学经典理论，由斯卡达马利亚与贝莱特提出；主张教学的核心不在于记忆现成事实，而在于引导学习者作为协作共同体对作为公共制品的观点进行持续改进，承担集体认知责任，并在反思性结构化中实现深层科学探究"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 41
+theory_related_count: 42
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Theory of Knowledge]]"
+  - "[[Discourse]]"
   - "[[Document]]"
   - "[[Problem Solving]]"
   - "[[Creativity]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Knowledge Building Theory
@@ -89,7 +90,7 @@ updated: 2026-10-05
 > - **知识位置** 植根于社会文化历史学派（[[Lev Vygotsky|维果茨基]]）与波普尔（[[Karl Popper|Karl Popper]]）的世界 3（客观知识世界）哲学，与情境学习（Situated Learning）、分布式认知（Distributed Cognition）及计算机支持的协作学习（Computer-Supported Collaborative Learning, CSCL）深度交融。
 
 > [!claim] 核心判断
-> 知识建构理论的核心主张在于：学校课堂完全能够且应当成为真实的知识创造社群。学生的学习活动不应是对成熟学者结论的肤浅摹仿，而应是通过提出真实问题、生成多元[[Hypothesis|假设]]、在公共平台（如[[Theory of Knowledge|知识论]]坛（Knowledge Forum, KF））上将观点作为可修改的客观对象，通过持续的社会化话语对话实现观点的不断改进（Idea Improvement），进而实质性推进整个共同体的集体知识前沿。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 891–892)]]
+> 知识建构理论的核心主张在于：学校课堂完全能够且应当成为真实的知识创造社群。学生的学习活动不应是对成熟学者结论的肤浅摹仿，而应是通过提出真实问题、生成多元[[Hypothesis|假设]]、在公共平台（如[[Theory of Knowledge|知识论]]坛（Knowledge Forum, KF））上将观点作为可修改的客观对象，通过持续的社会化[[Discourse|话语]]对话实现观点的不断改进（Idea Improvement），进而实质性推进整个共同体的集体知识前沿。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 891–892)]]
 
 ---
 
@@ -106,7 +107,7 @@ updated: 2026-10-05
 > [!concept-lens] 知识建构的 12 条设计原则架构
 > 斯卡达马利亚与贝莱特将知识建构[[Operationalization|操作化]]为 12 条相互交织的设计原则，涵盖观点、共同体与评估三大集群：
 > - **观点集群（Ideas Cluster）** 真实观点与真实问题（Real Ideas, Authentic Problems）、观点改进（Improvable Ideas）、观点多样性（Idea Diversity）、观点提升（[[Research in Schools Evaluation|RISE]] Above）。
-> - **共同体集群（Community Cluster）** [[Epistemic Agency|认识能动性]]（Epistemic Agency）、集体[[Epistemic Responsibility|认知责任]]（Collective Cognitive Responsibility）、知识建构话语（Knowledge Building Discourse）、民主化知识（Democratizing Knowledge）、对称性知识推进（Symmetric Knowledge Advancement）、泛在知识建构（Pervasive Knowledge Building）。
+> - **共同体集群（Community Cluster）** [[Epistemic Agency|认识能动性]]（Epistemic Agency）、集体[[Epistemic Responsibility|认知责任]]（Collective Cognitive Responsibility）、知识建构[[Discourse|话语]]（Knowledge Building Discourse）、民主化知识（Democratizing Knowledge）、对称性知识推进（Symmetric Knowledge Advancement）、泛在知识建构（Pervasive Knowledge Building）。
 > - **手段与评估集群（Means & Assessment Cluster）** 建设性利用权威资源（Constructive Uses of Authoritative Sources）、嵌入性与转化性评估（Embedded, Concurrent, and Transformative Assessment）。
 
 ### 后续修订与扩展
@@ -158,7 +159,7 @@ updated: 2026-10-05
 ## 转化为分析框架
 
 > [!theory-use] 框架入口
-> - **[[Research Question|研究问题]]** 评估课堂探究环境是否具备知识建构特质、诊断学习者协作话语的认识深度、分析师生在探究中的权能分配与组织演进。
+> - **[[Research Question|研究问题]]** 评估课堂探究环境是否具备知识建构特质、诊断学习者协作[[Discourse|话语]]的认识深度、分析师生在探究中的权能分配与组织演进。
 > - **分析对象与单位** 课堂话语互动回合、在线论坛帖子内容与引用网络、探究小组构型演变、单元反思综合笔记。
 > - **需要的材料** [[Theory of Knowledge|知识论]]坛（KF）全量发帖数据、课堂面对面讨论录像[[Transcription in Qualitative Research|转录]]文本、学生手写反思日志、教师促学干预记录。
 > - **解释目标** 揭示共同体知识进展轨迹，判断教学实践是陷入了仪式性程序还是达成了实质性的观点创新。
@@ -181,7 +182,7 @@ updated: 2026-10-05
 > - **成立条件** 教学具有相对充裕的探究时间周期、具备支持观点可视化的数字化协作平台、教师具备良好的促学反思与动态支架设计能力。
 > - **解释不足** 对需要高度程序化自动化训练的基础技能（如算术运算法则、拼写规则）解释力有限；在此类任务中强行套用开放建构可能导致认知效率低下。
 > - **转化困难** 在高度标准化应试问责体系下，追求开放生成的知识建构常面临教学进度受限与课时不足的严峻现实挑战。
-> - **不能直接推出** 不能单纯依据学生在数字平台上发帖数量的多寡直接等同于深层概念理解，必须结合话语实质内容与认识复杂度进行深入[[Coding in Qualitative Research|质性编码]]。
+> - **不能直接推出** 不能单纯依据学生在数字平台上发帖数量的多寡直接等同于深层概念理解，必须结合[[Discourse|话语]]实质内容与认识复杂度进行深入[[Coding in Qualitative Research|质性编码]]。
 
 ---
 

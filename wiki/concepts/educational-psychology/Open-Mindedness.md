@@ -9,10 +9,10 @@ aliases:
 summary: "指认识主体在求真与理解等认识论动机驱动下，能够敏锐产生并公允审视替代性视角、依据新事实反思并修正自身信念的稳定理智美德。"
 type: concept
 domain: "educational-psychology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - educational-psychology
   - virtue-epistemology
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Epistemic Virtues and Vices]]"
   - "[[Teaching Assistant]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Humility]]"
   - "[[Brainstorming]]"
   - "[[Skill of Questioning]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-23
-updated: 2026-09-23
+updated: 2026-10-07
 ---
 
 # Open-Mindedness
@@ -62,7 +63,7 @@ updated: 2026-09-23
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向认识主体克服信念固着、自我辩护与确认偏差，以求真为导向向异见和新事实保持理智开放的品格特质。
-> - **用途** 帮[[Teaching Assistant|助教]]育哲学与学习科学研究者突破单纯灌输多元观点表象的技巧化训练，解释为何掌握批判性质疑技能的学生在现实辩论中仍可能固执己见，为通过人机协同和叙事引导培育深层品格提供规范依据。
+> - **用途** 帮[[Teaching Assistant|助教]]育哲学与学习科学研究者突破单纯灌输多元观点表象的技巧化训练，解释为何掌握批判性质疑技能的学生在现实辩论中仍可能固执己见，为通过[[Man-Computer Symbiosis|人机协同]]和叙事引导培育深层品格提供规范依据。
 > - **边界** 思想开放不等于相对主义（认为所有观点等价正确）或毫无立场的轻信盲从；它要求主体基于证据质量进行理智审裁，核心在于公允对待异见，而非无条件接纳错误信念。
 
 > [!citation-card] 思想开放的德性责任论内涵与动机本质
@@ -144,7 +145,7 @@ updated: 2026-09-23
 ### 命题二　通过提问引导生成多个答案并阐述理由是培养思想开放技能的有效教学路径
 
 > [!concept-lens] [[Scaffolding|教学支架]]与多答案探究规程
-> 探讨如何通过外显的交互规约（特别是在人机协同学习中）训练学生审视替代视角的[[Procedural Skill|程序性技能]]。
+> 探讨如何通过外显的交互规约（特别是在[[Man-Computer Symbiosis|人机协同]]学习中）训练学生审视替代视角的[[Procedural Skill|程序性技能]]。
 
 > [!claim] Naeem, H.
 > **提问型导师对思想开放技能的刻意训练** 传统的教学互动往往倾向于诱导唯一的确定性标准答案，强化了思维封闭与权威顺从。提问导师（Q-Tutor）系统通过精巧的提示词工程重构提问逻辑：系统主动提出促使学生生成“不止一个可能答案”的问题，引导学生为每一种可能回答阐述理由，并对这些理由展开辩证对比。这一交互[[Paradigm|范式]]为学生提供了反复实践替代性视角生成的认知脚手架，构筑了思想开放美德所必需的底层技能基石。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 278–280)]]
@@ -181,7 +182,7 @@ updated: 2026-09-23
 > - **古典时期 — [[Socrates|苏格拉底]]反讽与自知无知** 苏格拉底通过承认自身一无所知并在辩证法中向一切可能的真知敞开，奠定了思想开放作为哲学求知底色的古典传统。
 > - **20 世纪末 — [[Critical Thinking|批判性思维]]与认知倾向研究** 认知心理学（如 Baron, 1988）将思想开放（Actively Open-Minded Thinking, AOT）作为克服确认偏差、评估相反证据的独立思考倾向进行量化测量。
 > - **2010 年代 — [[Virtue Epistemology|美德认识论]]责任论体系化** Jason Baehr (2011) 与 Linda Zagzebski (1996) 确立德性责任论框架，将思想开放明确界定为由求真动机与多视角审视技能构成的核心[[Epistemic Virtues and Vices|理智美德]]。
-> - **2025–2026 年 — 人工智能时代提问驱动与交互培育重构** Lani Watson (2025) 提出通过良好提问实践思想开放；Hadeel Naeem (2026) 在人机协同与抵御[[Cognitive Deskilling|去技能化]]背景下，系统提出利用 Q-Tutor 的追问规制与兴趣故事叙事模式培育思想开放美德的完整教学模型。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 278–282)]]
+> - **2025–2026 年 — 人工智能时代提问驱动与交互培育重构** Lani Watson (2025) 提出通过良好提问实践思想开放；Hadeel Naeem (2026) 在[[Man-Computer Symbiosis|人机协同]]与抵御[[Cognitive Deskilling|去技能化]]背景下，系统提出利用 Q-Tutor 的追问规制与兴趣故事叙事模式培育思想开放美德的完整教学模型。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 278–282)]]
 
 ---
 

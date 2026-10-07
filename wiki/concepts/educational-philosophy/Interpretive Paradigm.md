@@ -11,7 +11,7 @@ aliases:
 summary: "与实证主义相对的研究范式，强调从行动者内部视角理解主观意义、生活世界与情境独特性，以归纳、扎根与自然主义方式整体把握人类意向行动。"
 type: concept
 domain: "educational-philosophy"
-related_count: 59
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Normative Paradigm]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
+  - "[[Discourse]]"
   - "[[Rich and Thick Description]]"
   - "[[Working Hypothesis]]"
   - "[[Emergence]]"
@@ -89,7 +90,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Interpretive Paradigm
@@ -103,7 +104,7 @@ updated: 2026-10-01
 
 > [!concept-scope] 概念范围
 > - **探究立场** 拒绝主客二元割裂，坚持主体间性（Intersubjectivity）与主位进路（Emic），以行动者的自我理解与[[Thomas Theorem\|情境定义]]为基点。
-> - **研究对象** 人类具有意图与[[Reflexivity\|反思性]]的“行动”（Action），而非受刺激机械驱动的“行为”（Behaviour）；涵盖日常常识、微观互动、身体体验与话语象征。
+> - **研究对象** 人类具有意图与[[Reflexivity\|反思性]]的“行动”（Action），而非受刺激机械驱动的“行为”（Behaviour）；涵盖日常常识、微观互动、身体体验与[[Discourse|话语]]象征。
 > - **方法形态** [[Qualitative Research\|质性研究]]、[[Ethnography\|民族志]]、[[Case Study\|个案研究]]、[[Participant Observation\|参与观察]]、生活史叙事与[[Phenomenology\|现象学]][[Rich and Thick Description\|深描]]。
 > - **知识形态** 扎根于具体时空语境的[[Working Hypothesis|工作假说]]、[[Rich and Thick Description\|厚描述]]与从资料中归纳[[Emergence\|涌现]]出的情境化理论，而非普适无时空的宏大因果铁律。
 
@@ -166,7 +167,7 @@ updated: 2026-10-01
 > [!feature] 教室草莓事件的学理启示（Box 1.5）
 > - **事件情境[[Rich and Thick Description\|深描]]** 实习教师在课堂上发下幻灯片，其中一张是重型卡车，一名平时爱捣乱的学生突然大喊“草莓！”，全班学生与教师顿时爆发出极富默契的哄堂大笑。
 > - **定量[[Coding in Qualitative Research\|编码]]的彻底瘫痪** 若使用当时风靡的[[Flanders Interaction Analysis Categories\|弗兰德斯互动分析]]分类系统（FIAC，标准化 10 范畴编码），这一事件只能被机械记录为“范畴 9（学生主动发言）”接着“范畴 10（无法分类的混乱与杂音）”。编码在统计[[Reliability\|信度]]上高度精准，却把整个事件的真实教育意义屠戮殆尽——它完全无法解释大家为什么哄堂大笑。
-> - **情境[[Indexicality\|索引性]]与历时性意义共同体** 沃尔克与阿德尔曼（Walker & Adelman, 1975）深入调查发现：前一天该班进行投影阅读教学时，曾放映过巨大的“草莓”图片；学生借用前一天的图像指代今天的卡车，是在巧妙幽默地考验实习教师的情境反应。这一话语意义深深嵌入在班级历时性发展的组织脉络中。任何抽离历时性情境的量化切片，都必然陷入严重的方法学盲区。
+> - **情境[[Indexicality\|索引性]]与历时性意义共同体** 沃尔克与阿德尔曼（Walker & Adelman, 1975）深入调查发现：前一天该班进行投影阅读教学时，曾放映过巨大的“草莓”图片；学生借用前一天的图像指代今天的卡车，是在巧妙幽默地考验实习教师的情境反应。这一[[Discourse|话语]]意义深深嵌入在班级历时性发展的组织脉络中。任何抽离历时性情境的量化切片，都必然陷入严重的方法学盲区。
 
 ### 命题三　自然主义探究公理重构方法论规范：从普遍法则走向扎根理论与厚描述
 
@@ -248,7 +249,7 @@ updated: 2026-10-01
 > | [[Grounded Theory]] | 理论 | 诠释范式下最具代表性的归纳理论建构方法，主张理论从情境资料中持续[[Emergence\|涌现]]。 |
 > | [[Rich and Thick Description]] | 概念 | 诠释探究的标准表述形态，通过交织事实、意义与组织脉络实现整体呈现。 |
 > | [[Emic and Etic]] | 概念 | 确立主位进路（Emic）作为捕捉内部行动者真实视角的关键方法论准则。 |
-> | [[Indexicality]] | 概念 | 揭示社会话语与行为意义对特定时空与历时性交往历史的不可剥离附着性。 |
+> | [[Indexicality]] | 概念 | 揭示社会[[Discourse\|话语]]与行为意义对特定时空与历时性交往历史的不可剥离附着性。 |
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 15)]] — 全景奠定诠释范式与规范性范式的哲学对照、Burrell & Morgan 四维框架、三大理论传统、教室草莓事件（Box 1.5）与四重批判。

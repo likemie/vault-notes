@@ -7,7 +7,7 @@ aliases:
 summary: "一种将课程与教学视为文化政治斗争场域的批判教育哲学，主张以学生的活经验为起点，通过对话式提问、批判意识觉醒与可能性的语言，解构传统储蓄式教育与当代数智异化中的权力压迫，旨在培育具有自主性与社会解放潜能的批判求知者。"
 type: concept
 domain: "educational-philosophy"
-related_count: 52
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemic Agency]]"
   - "[[Value Neutrality]]"
+  - "[[Discourse]]"
   - "[[Operationalization]]"
   - "[[Classroom Management]]"
   - "[[Alien Intelligence]]"
@@ -39,8 +40,10 @@ related_concepts:
   - "[[Culture of Silence]]"
   - "[[Constructed Knowledge]]"
   - "[[Externalization]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[International Education]]"
   - "[[Structural Adjustment Programs]]"
+  - "[[Hidden Curriculum]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Forced Knowledge Transfer]]"
   - "[[Policy Borrowing]]"
@@ -79,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Critical Pedagogy
@@ -92,7 +95,7 @@ updated: 2026-10-01
 > 批判教育学（Critical Pedagogy，亦作解放教育学）是一种将学校课程、知识传递与师生互动界定为文化政治[[Champ|场域]]的规范性教育哲学。它源于法兰克福学派[[Critical Theory|批判理论]]与[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）的解放实践，主张教育必须从学生的真实活经验出发，审视日常压迫与被沉默体验中蕴含的意识形态控制。在[[Theory of Knowledge|知识论]]层面，批判教育学坚决拒斥将学生视为空容器的[[Banking Model of Education|储蓄式教育]]（Banking Model of Education），倡导通过[[Problem-Posing Education|提问式教育]]（Problem-Posing Education）与反思实践（[[Praxis]]）唤醒批判意识（[[Conscientization|conscientização]]）；在当代数智技术背景下，它进一步拓展为抵抗算法全流程代劳的批判工具，致力于打破对[[Generative Artificial Intelligence|生成式人工智能]]的权威迷信，捍卫学生的[[Epistemic Agency|认识主体性]]与社会解放自主性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 145–148)]]; [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 5–9)]]; [[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 课程与教学绝非[[Value Neutrality|价值中立]]的技术传递，而是不同社会阶层与文化群体争夺话语权与合法性的文化政治场域。
+> - **含义** 课程与教学绝非[[Value Neutrality|价值中立]]的技术传递，而是不同社会阶层与文化群体争夺[[Discourse|话语]]权与合法性的文化政治场域。
 > - **用途** 帮助研究者与教育工作者识别课程安排与智能技术中的意识形态支配，将教学从顺从性灌输转化为促发批判意识与主体赋权的解放过程。
 > - **边界** 属于规范性批判哲学而非描述性量化模型；提供的是价值反思与实践重构方向，不能机械等同于[[Operationalization|操作化]]的[[Classroom Management|课堂管理]]技巧或单一的教学技能模板。
 
@@ -137,7 +140,7 @@ updated: 2026-10-01
 > - **活经验作为教学起点（Lived Experience）** 教学必须扎根于学生真实的社会生活经历与压迫感官体验，拒绝将脱离具体情境的普适大纲强加于学生。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 145–147)]]
 > - **[[Conscientization|批判意识觉醒]]与反思实践（Conscientização & [[Praxis]]）** 引导学生看穿支配性意识形态对日常现实的遮蔽，将批判思考与改造世界的实际行动紧密联结，打破[[Culture of Silence|沉默文化]]（[[Culture of Silence|Culture of Silence]]）。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 7–10)]]
 > - **[[Problem-Posing Education|提问式教育]]取代[[Banking Model of Education|储蓄式教育]]模式（Problem-Posing vs. Banking）** 坚决废黜自上而下单向灌输的知识存款模式，建立师生平等的对话机制，在共同面对真实问题的生成性探究中[[Constructed Knowledge|建构知识]]。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 75–76)]]
-> - **可能性的语言与文化政治[[Champ|场域]]（Language of Possibility & Cultural Politics）** 视学校为不同话语争夺合法性的政治场域（[[Champ|场域]]），以赋权与希望的可能性的语言，取代消极被动的支配性叙事。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 147–148)]]
+> - **可能性的语言与文化政治[[Champ|场域]]（Language of Possibility & Cultural Politics）** 视学校为不同[[Discourse|话语]]争夺合法性的政治场域（[[Champ|场域]]），以赋权与希望的可能性的语言，取代消极被动的支配性叙事。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 147–148)]]
 > - **[[Alien Intelligence|异己智能]]定位与思维全外显防御（Alien Intelligence & Showing Steps）** 将批判教育学的对话解放精神投射于智能时代：拒绝把 AI 视为共情伙伴，将其明确界定为缺乏人类具身生活与道德意图的异己智能，通过强制外显思考过程构筑认识防御。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]
 > - **跨国宏观维度的全球化批判与结构再生产透视（Global Reproduction & Liberation Praxis）** 吸收[[Henry Giroux|吉鲁]]（Henry Giroux）与[[Paulo Freire|弗莱雷]]的批判思想，将批判教育学投射于跨国教育治理与比较研究：揭示核心国家通过附带条件的跨国援助推行资本主义制度强制再生产，倡导以主权自决与人道主义解放实践（praxis of liberation）取代盲目追求西方资本主义现代性。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–135)]]
 
@@ -190,7 +193,7 @@ updated: 2026-10-01
 
 ### 命题三　生成式人工智能潜藏着数字储蓄式教育风险，必须通过确立异己智能视角与思维全外显重构批判教学防线
 
-> [!concept-lens] 人机共生异化与数字时代解放维度
+> [!concept-lens] [[Man-Computer Symbiosis|人机共生]]异化与数字时代解放维度
 > 该命题将批判教育学的核心命题延伸至人工智能时代，揭示算法全盘代劳与技术崇拜背后的新型被动受教风险，重构技术环境下的反思防御规程。
 
 > [!claim] Smith, S. J.
@@ -204,7 +207,7 @@ updated: 2026-10-01
 > 该命题将批判教育学从微观学校课堂延伸至全球宏观地缘政治与[[International Education|国际教育]]发展领域，揭示跨国教育援助与借用背后潜伏的资本主义霸权控制，确立以人类福祉与文化自主为核心的解放实践方向。
 
 > [!claim] Shor & Freire (1987); Rust, Johnstone, & Allaf (2009)
-> **教育即政治与超越西方资本主义现代性** 伊拉·肖尔与[[Paulo Freire|保罗·弗莱雷]]（Shor & Freire, 1987）深刻指出，教育在本质上蕴含着鲜明的政治属性，根本不存在脱离政治意识形态的中立教育。[[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）进一步结合[[Henry Giroux|吉鲁]]（Henry Giroux）的再生产理论，批判主流比较教育学长期将追求西方工业现代性作为定义教育的潜意识基准，实质上合谋了资本主义跨国扩张；核心国家通过附带苛刻前置条件的跨国援助与[[Structural Adjustment Programs|结构调整方案]]，向发展中国家强制移植私有化体制与依附性隐蔽课程。[[UNESCO|联合国教科文组织]]《[[Education for All|全民教育]]》（[[Exploratory Factor Analysis|EFA]]）在亚非拉的推进历程表明，被迫照搬外部市场化模式的国家普遍受挫，而坚持主权自决与社会主义人道主义国家动员的古巴则取得了突出的教育成就。比较教育学必须彻底扬弃技术官僚干涉，转向以主权自决与社会正义为内核的解放实践（praxis of liberation）。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–135)]]
+> **教育即政治与超越西方资本主义现代性** 伊拉·肖尔与[[Paulo Freire|保罗·弗莱雷]]（Shor & Freire, 1987）深刻指出，教育在本质上蕴含着鲜明的政治属性，根本不存在脱离政治意识形态的中立教育。[[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）进一步结合[[Henry Giroux|吉鲁]]（Henry Giroux）的再生产理论，批判主流比较教育学长期将追求西方工业现代性作为定义教育的潜意识基准，实质上合谋了资本主义跨国扩张；核心国家通过附带苛刻前置条件的跨国援助与[[Structural Adjustment Programs|结构调整方案]]，向发展中国家强制移植私有化体制与依附性[[Hidden Curriculum|隐蔽课程]]。[[UNESCO|联合国教科文组织]]《[[Education for All|全民教育]]》（[[Exploratory Factor Analysis|EFA]]）在亚非拉的推进历程表明，被迫照搬外部市场化模式的国家普遍受挫，而坚持主权自决与社会主义人道主义国家动员的古巴则取得了突出的教育成就。比较教育学必须彻底扬弃技术官僚干涉，转向以主权自决与社会正义为内核的解放实践（praxis of liberation）。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–135)]]
 
 ---
 
@@ -224,7 +227,7 @@ updated: 2026-10-01
 
 > [!dev-timeline] 概念演变
 > - **1960–1970s — 解放实践奠基期** [[Paulo Freire|保罗·弗莱雷]]在巴西贫困农村扫盲运动中践行批判意识培养，1968/1972 年出版《被压迫者教育学》，提出[[Banking Model of Education|储蓄式教育]]批判、[[Problem-Posing Education|提问式教育]]与反思实践（[[Praxis]]），确立批判教育学的理论基石。
-> - **1980–1990s — 北美理论建构与文化政治转向** [[Henry Giroux|亨利·吉鲁]]（Henry Giroux）、彼得·麦克拉伦（Peter McLaren）与[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）等学者将法兰克福学派[[Critical Theory|批判理论]]引入北美课程领域，提出可能性的语言与抵制理论，将学校定义为阶级、种族与性别话语争夺的文化政治[[Champ|场域]]。
+> - **1980–1990s — 北美理论建构与文化政治转向** [[Henry Giroux|亨利·吉鲁]]（Henry Giroux）、彼得·麦克拉伦（Peter McLaren）与[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）等学者将法兰克福学派[[Critical Theory|批判理论]]引入北美课程领域，提出可能性的语言与抵制理论，将学校定义为阶级、种族与性别[[Discourse|话语]]争夺的文化政治[[Champ|场域]]。
 > - **2000–2010s — 全球化反思、[[Geopolitics of Knowledge|知识地缘政治]]与跨国再生产批判** 批判教育学进一步与[[Post-colonial Theory|后殖民理论]]、全球南方视角以及[[Geopolitics of Knowledge|知识地缘政治]]交织；学者运用储蓄式教育概念剖析[[Forced Knowledge Transfer|强制知识转移]]与跨国[[Policy Borrowing|政策借用]]中的隐性权力梯度（[[Argument_Partaken_2022_Springer|Partaken, 2022]]）；拉斯特等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）将吉鲁与弗莱雷的再生产批判引入全球化教育响应研究，确立了跨国解放实践[[Paradigm|范式]]。
 > - **2020s — 数智异化与生成式 AI 批判重构** 面对大语言模型的全面渗透，[[Argument_Smith_2026_SPE|Smith (2026)]] 将弗莱雷的批判传统与[[Posthumanism|后人类主义]]技术哲学相融通，针对算法代劳造成的[[Formative Epistemic Injustice|成长性认识不正义]]，提出[[Alien Intelligence|异己智能]]（Alien Intelligence）审问与思维步骤全外显（Showing Steps）方案，开启批判教育学的数智技术防御转向。
 

@@ -9,7 +9,7 @@ title: "Argument_Hattie_2010_NZJES"
 argument_key: "Argument_Hattie_2010_NZJES"
 argument_display_title: "On being a 'critic and conscience of society': The role of the education academic in public debates"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Critic and Conscience of Society]]"
   - "[[Reflexivity]]"
   - "[[Visible Learning]]"
+  - "[[Discourse]]"
   - "[[Hypothesis]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
@@ -73,7 +74,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：个人经验[[Reflexivity\|反思性]]叙述（reflective personal narrative），非实证研究
 > - 案例：以 *[[Visible Learning]]* (2009) 出版后的媒体反应、与政策制定者的互动、以及遭受的各类批评为经验材料
-> - [[Analytic Framework\|分析框架]]：以 Alexander (2010) 的四种腐蚀性话语（dichotomy, derision, myth, meaninglessness）分析当代公共批评的特征
+> - [[Analytic Framework\|分析框架]]：以 Alexander (2010) 的四种腐蚀性[[Discourse|话语]]（dichotomy, derision, myth, meaninglessness）分析当代公共批评的特征
 
 ## 核心论证
 

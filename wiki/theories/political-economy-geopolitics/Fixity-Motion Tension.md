@@ -5,7 +5,7 @@ aliases:
 summary: "解释资本主义为何一方面依赖空间固着来组织生产与投资、另一方面又不断推动流动以打破既有配置的空间动力学理论"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Spatial Sortings]]"
   - "[[Geopolitical Subject]]"
   - "[[Economic Patriotism]]"
+  - "[[Discourse]]"
   - "[[Operationalization]]"
   - "[[Hypothesis]]"
 related_theories: []
@@ -140,7 +141,7 @@ Harvey 的理论论证从资本主义生产方式的根本特征出发，可以�
 > - [[Hub and Flow Imaginaries]] 是该张力的**意识形态表达** 枢纽代表固着的需求（锚定资本的地点），流动代表资本的全球移动性。这些想象将固着-流动张力转化为"自然的"世界图景
 > - [[Spatial Sortings]] 是该张力的**空间结果** 被固着投资锚定的枢纽成为"赢家"，资本流动放弃的地区成为"输家"
 > - [[Geopolitical Subject]] 是该张力的**主体要求** 理想的知识经济主体需要能够在固着（对地方的贡献和忠诚）与流动（全球移动性）之间同时运作
-> - [[Economic Patriotism]] 是该张力的**政治策略** 国家以爱国话语动员资源建设固着锚点（冠军城市），试图在无法消除的流动压力面前维持领土利益
+> - [[Economic Patriotism]] 是该张力的**政治策略** 国家以爱国[[Discourse|话语]]动员资源建设固着锚点（冠军城市），试图在无法消除的流动压力面前维持领土利益
 >
 
 ## 理论基础

@@ -7,7 +7,7 @@ summary: "英国比较教育学者，政策借用与跨国吸引类型学共同�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 9
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
+  - "[[Discourse]]"
   - "[[Concept Mapping]]"
   - "[[Document]]"
   - "[[Global Universities Rankings]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-09-11
+updated: 2026-10-07
 ---
 ## 简介
 
@@ -57,11 +58,11 @@ updated: 2026-09-11
 > - Phillips, D. & Ochs, K. (2003). Processes of [[Policy Borrowing]] in education: some explanatory and analytical devices. *Comparative Education*, 39(4), 451–461. — 提出[[Policy Borrowing\|政策借用]]四阶段循环模型
 > - Phillips, D. & Ochs, K. (2004a). Researching policy borrowing: some methodological problems in comparative education. *British Educational Research Journal*, 30(6), 773–784. — 反思政策借用研究方法论困境
 > - Phillips, D. & Ochs, K. (Eds.) (2004b). *Educational Policy Borrowing: historical perspectives*. Oxford: Symposium Books. — 政策借用历史案例汇编
-> - Ochs, K. (2005). *Educational Policy Borrowing and its Implications for Reform and Innovation*. Unpublished D.Phil dissertation, University of Oxford. — 深化政策借用理论，区分政策文本与政策话语，提出四种"火花"动机分类
+> - Ochs, K. (2005). *Educational Policy Borrowing and its Implications for Reform and Innovation*. Unpublished D.Phil dissertation, University of Oxford. — 深化政策借用理论，区分政策文本与政策[[Discourse|话语]]，提出四种"火花"动机分类
 
 ## 核心思想
 
-> [!info] 政策文本与政策话语的区分
+> [!info] 政策文本与政策[[Discourse|话语]]的区分
 > Ochs 在 Ball (1994) 的基础上，对教育政策转移做出了重要区分([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 233, 227]])：
 > - **政策文本（Policy Text）：** 可被转移的具体书面政策内容
 > - **政策话语（Policy Discourse）：** 关于教育的谈论、概念化和框架化方式——可以脱离伴随政策而独立转移

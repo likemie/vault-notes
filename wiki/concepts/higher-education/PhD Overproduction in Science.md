@@ -9,7 +9,7 @@ aliases:
 summary: "当代科学实验室将博士生与博士后作为廉价劳动力支撑科研项目运转，导致博士毕业生供给规模长期超出学术研究岗位实际吸纳能力的结构性失衡"
 type: concept
 domain: "higher-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Research Universities]]"
   - "[[Academic Freedom]]"
+  - "[[Discourse]]"
   - "[[Variable]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # PhD Overproduction in Science
@@ -119,7 +120,7 @@ updated: 2026-10-02
 > 探讨为何多年来关于缩减博士招生的政策建议屡屡落空。
 
 > [!claim] Stephan, P.
-> **既得利益集团视现行剥削性结构为成功典范** 尽管各类国家委员会（如 Tilghman 委员会）反复呼吁控制博士招生并改善青年学者处境，但掌握学术话语权的资深教授与大学领导层将充沛的廉价劳动力供给视为维系美国科研全球霸权的基石，因而本能地抵制结构性改革。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 33)]]
+> **既得利益集团视现行剥削性结构为成功典范** 尽管各类国家委员会（如 Tilghman 委员会）反复呼吁控制博士招生并改善青年学者处境，但掌握学术[[Discourse|话语]]权的资深教授与大学领导层将充沛的廉价劳动力供给视为维系美国科研全球霸权的基石，因而本能地抵制结构性改革。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 33)]]
 
 ---
 

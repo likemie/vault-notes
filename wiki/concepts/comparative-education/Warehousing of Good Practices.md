@@ -7,7 +7,7 @@ aliases:
 summary: "世界银行特有的政策知识打包与中介模式，指将分散于全球各地的政策项目经验集中汇编入库、贴标分类后向各国政府按需推送的政策借鉴服务机制。与 OECD 外向型横向国别比较模式相对，世界银行以自身历史项目组合作为知识仓库，形成高度自指的经验汲取循环。"
 type: concept
 domain: "comparative-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Source of Knowledge]]"
   - "[[Policy Brokerage]]"
   - "[[Knowledge Production]]"
+  - "[[Discourse]]"
   - "[[Façade of Rationality]]"
   - "[[Document]]"
   - "[[Governing by Numbers]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Warehousing of Good Practices
@@ -73,7 +74,7 @@ updated: 2026-09-22
 > - **入库环节** [[World Bank\|世界银行]]在全球各贷款国实施教育项目，收集项目绩效评估数据，经由内部评审后纳入最佳实践数据库，并以标签化主题归类（如"教师培训最佳实践""课程改革案例库"）。
 > - **推送环节** 各国政府通过与世界银行的项目谈判、政策对话与技术援助渠道获取处方推荐；世界银行顾问携带仓库中的"已验证成功案例"，向资金依赖型全球南方国家提供条件性政策建议。
 > - **自指循环** 入库的经验往往来自世界银行自身资助的项目，由世界银行自行评估，再由世界银行员工写入仓库并传播——形成从资助到评估到传播的全链条自指性权力结构。
-> - **合法化机制** 通过"已有充分证据"的话语构建，将自身项目组合的经验包装为科学严谨的循证实践，借助[[Façade of Rationality\|理性表象]]将政治性的政策处方转换为看似中立的技术建议。
+> - **合法化机制** 通过"已有充分证据"的[[Discourse|话语]]构建，将自身项目组合的经验包装为科学严谨的循证实践，借助[[Façade of Rationality\|理性表象]]将政治性的政策处方转换为看似中立的技术建议。
 
 ---
 

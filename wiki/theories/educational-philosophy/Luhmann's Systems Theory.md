@@ -7,7 +7,7 @@ aliases:
 summary: "将社会理解为由自创生沟通构成的多重功能分化系统，严格区分社会系统与个体心理系统，以操作封闭、结构耦合与盲点机制揭示观察界限与自适应生态演化。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 35
+theory_related_count: 36
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Epistemic Stances]]"
+  - "[[Discourse]]"
   - "[[Visible Learning]]"
   - "[[Professional Judgment]]"
   - "[[Attrition]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Luhmann's Systems Theory
@@ -149,7 +150,7 @@ updated: 2026-10-02
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 激进的沟通本体论（Communication-only Ontology）。社会不是肉身人类的集合，而是沟通事件的递归再生产网络；人属于系统的复杂环境。
 > - **[[Epistemology\|认识论]]** 二阶[[Constructivist Paradigm\|建构主义]]认识论。不存在脱离观察者的客观现实镜像；知识是观察系统利用特定区分进行二阶观察的产物。
-> - **方法含义** 倡导区分分析（Form Analysis）、二阶观察方法与功能分析；追踪沟通代码的运转逻辑，揭示显赫话语背后的未见盲区。
+> - **方法含义** 倡导区分分析（Form Analysis）、二阶观察方法与功能分析；追踪沟通代码的运转逻辑，揭示显赫[[Discourse|话语]]背后的未见盲区。
 > - **不能直接推出的东西** 不能推导出任何机械的工程学干预处方；不能直接证明某种政策指令必定能在微观心理层面产生线性因果产出。
 
 > [!theory-use] 如何用于研究

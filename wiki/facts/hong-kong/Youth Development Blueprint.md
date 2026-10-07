@@ -9,7 +9,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Psychologisation]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Cuban's Curriculum Change Theory]]"
 related_methods: []
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-07-13
+updated: 2026-10-07
 ---
 
 # Youth Development Blueprint
@@ -71,7 +72,7 @@ updated: 2026-07-13
 > [!citation-card]- 关键条文
 > 蓝图旨在协助青年建立正向思维，让他们体验多元发展，同时建立对社会的认同感和国家归属感。
 >
-> *“Official discourse reduces youth alienation to a matter of individual psychological deviance... seeking explanations for public discontent at the level of private or individual maladaptation.”*（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.154]]）
+> *“Official [[Discourse]] reduces youth alienation to a matter of individual psychological deviance... seeking explanations for public discontent at the level of private or individual maladaptation.”*（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.154]]）
 
 ---
 
@@ -103,7 +104,7 @@ updated: 2026-07-13
 > [!finding-cards] 效果与评价
 > - **结构性矛盾的心理学翻译** 蓝图成功使用“积极思维”与“希望”等心理学词汇，将青年面对高房租、考试压力与政治参与缺失的结构性不满，翻译为个体的感恩缺失与心态调适失败（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.153–154]]）。
 > - **政治能动性的彻底过滤** 蓝图通篇完全以去政治化的语言表达，彻底排除了青年对社会改革和法治边界的任何理性辩论可能。
-> - **消解体制问责** 蓝图所传导的官方信息在于“改变自我的决心重于改革制度的行动”，从而把体制性弊端的讨论排除在可思考的话语边界之外。
+> - **消解体制问责** 蓝图所传导的官方信息在于“改变自我的决心重于改革制度的行动”，从而把体制性弊端的讨论排除在可思考的[[Discourse|话语]]边界之外。
 
 ---
 

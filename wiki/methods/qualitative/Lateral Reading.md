@@ -10,7 +10,7 @@ summary: "由 Wineburg 与 McGrew (2019) 提出的网络信息与证据核验方
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Epistemological Vigilance]]"
   - "[[Illusion of Competence]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Working Memory]]"
   - "[[Epistemic Agency]]"
   - "[[Operationalization]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Lateral Reading
@@ -121,7 +122,7 @@ updated: 2026-09-22
 
 > [!method-fit] 适用判断
 > - **适合使用** 
->   1. **人机协同学习与学术写作** 学生核验生成式 AI 提供的参考[[Document\|文献]]与统计数据真实性时；[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, p. 8)]]
+>   1. **[[Man-Computer Symbiosis|人机协同]]学习与学术写作** 学生核验生成式 AI 提供的参考[[Document\|文献]]与统计数据真实性时；[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, p. 8)]]
 >   2. **复杂跨学科公共议题审议** 涉及气候政策、公共卫生疫苗争议或人工智能伦理等高度杂合价值与利益的议题考证；
 >   3. **网络虚假信息与公关伪装识别** 鉴别打着独立科研所旗号的行业利益集团游说网站。
 > - **谨慎使用** 面对涉及高度精密数理推演或前沿纯理论纯逻辑内部有效性审查时，横向阅读只能提供外部信誉线索，最终仍需回归文本内部的形式逻辑演算（垂直阅读）。

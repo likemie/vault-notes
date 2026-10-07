@@ -11,7 +11,7 @@ title: "Argument_Bainbridge_2022_ROE"
 argument_key: "Argument_Bainbridge_2022_ROE"
 argument_display_title: "Responding to research evidence in Parliament: A case study on selective education policy"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Justified Warrants]]"
   - "[[Hypothesis]]"
   - "[[Deficit Framing]]"
+  - "[[Discourse]]"
   - "[[Literature Review]]"
   - "[[Document]]"
   - "[[Open-Mindedness]]"
@@ -88,7 +89,7 @@ citation_aliases:
 **方法 2：轶事分析(p.15–16)**
 - 对 "anecdote" 主题（67 次提及）进行语境分析
 - 按学校类型（文法/信仰/综合/现代中学）和党派归属分类
-- 识别轶事在构建"好学校"话语中的功能
+- 识别轶事在构建"好学校"[[Discourse|话语]]中的功能
 
 **方法 3：嘉年华式分析（Carnivalesque Analysis）(p.17–19)**
 - 借鉴 Aydarova(2020)的 Bakhtin 式嘉年华方法：研究者作为"小丑"角色，破坏"官方真理"、挑战改革者为公众消费策划的叙事
@@ -108,7 +109,7 @@ citation_aliases:
 ## 论证结构
 
 1. **[[Literature Review|文献综述]]三阶段** 审查政府与学术界对"证据"的不同理解 → 综述证据在政策制定中使用的[[Document|文献]] → 提供选择性教育研究证据与政党宣言概述(p.4–12)
-2. **[[Descriptive Analysis|描述统计]]分析（Findings 1）** 以 NVivo [[Coding in Qualitative Research|编码]]议会辩论，识别主题频率和党派分布，发现"好学校"话语的主导地位——164 次提及，保守党 125 vs 工党 30(p.14–15)
+2. **[[Descriptive Analysis|描述统计]]分析（Findings 1）** 以 NVivo [[Coding in Qualitative Research|编码]]议会辩论，识别主题频率和党派分布，发现"好学校"[[Discourse|话语]]的主导地位——164 次提及，保守党 125 vs 工党 30(p.14–15)
 3. **轶事分析（Findings 2）** 识别议会辩论中轶事证据的使用模式——保守党使用[[Grammar School|文法学校]]轶事的频率是工党两倍以上（18 vs 8）；31/67 次轶事直接关涉文法学校(p.16–17)
 4. **[[Carnivalesque Analysis|嘉年华式分析]]（Findings 3）** 以玩味态度外推政策逻辑——若所有 [[Ofsted]] 评级 good/outstanding 学校均获同等扩展资金，总预算将超 £84 亿(p.17–19)
 5. **单场辩论深度分析（Findings 4）** 对 2016 年"教育与社会流动性"辩论进行详细论证分析，追踪证据被接受、回避或道德侧步的具体机制(p.19–25)
@@ -138,7 +139,7 @@ citation_aliases:
 - "Anecdote" 是第六高频主题（67 次），在工党（26）和保守党（28）之间分布均匀
 - 但保守党议员使用文法学校轶事的频率是工党的两倍以上（18 vs 8）
 - 31/67 次轶事直接关涉文法学校（vs 信仰学校 2、现代中学 3、综合学校 9）
-- 轶事被反复用于构建"好学校"话语的"合法性"，尽管轶事不符合政府自身对"证据"的定义(Coldwell et al., 2017)(p.16–17)
+- 轶事被反复用于构建"好学校"[[Discourse|话语]]的"合法性"，尽管轶事不符合政府自身对"证据"的定义(Coldwell et al., 2017)(p.16–17)
 
 关键引用示例——Gareth Johnson MP (2015, Conservative)：
 > “我想建立一条贯穿这场辩论的线索——即文法学校（grammar schools）仅仅是优秀的学校，而我们需要优秀的学校来蓬勃发展。”
@@ -208,7 +209,7 @@ citation_aliases:
 
 ## 关键引用
 
-> “已经出现的是一种具有建构性的话语，因为它积极且持续地扭曲了‘优秀’的含义——这是一种向幻想中的‘优秀’世界的侧步避让（sidestep），同时也远离了一个经常不被提及的‘糟糕’世界。”
+> “已经出现的是一种具有建构性的[[Discourse|话语]]，因为它积极且持续地扭曲了‘优秀’的含义——这是一种向幻想中的‘优秀’世界的侧步避让（sidestep），同时也远离了一个经常不被提及的‘糟糕’世界。”
 > ("What has emerged...is a discourse that is constructive as it actively and persistently distorts the meaning of 'good'—it is a sidestep into a world of fantasised goodness, while also away from an often-unspoken world of 'badness'")(p.19)
 
 > “‘优秀学校’的话语是一种源自教育标准局（[[Ofsted]]）的循证立场，这使其更具欺骗性；它是一个披着证据语言外衣的道德侧步。”
@@ -234,7 +235,7 @@ citation_aliases:
 
 **时间滞后** 数据来源于 2015–2019 年，论文发表时许多政治角色已变动。但作者指出该辩论处于"关键节点"——[[Grammar School|文法学校]]的社会流动性承诺正被鼓吹、辩论并最终被[[Falsification|证伪]]的时刻(p.29)。
 
-**[[Descriptive Analysis|描述统计]]的局限** "未被说出的东西无法被计数"(p.14)。统计只能捕捉被言说的主题，无法捕捉被系统性沉默的内容。例如，未被评为"good"的学校（隐性"坏学校"）如何在此话语中被剥夺资源和能动性——这一点未被深入探讨(p.10)。
+**[[Descriptive Analysis|描述统计]]的局限** "未被说出的东西无法被计数"(p.14)。统计只能捕捉被言说的主题，无法捕捉被系统性沉默的内容。例如，未被评为"good"的学校（隐性"坏学校"）如何在此[[Discourse|话语]]中被剥夺资源和能动性——这一点未被深入探讨(p.10)。
 
 **单场辩论的代表性** 仅对一场辩论（2016 年教育与社会流动性）进行了详细论证分析。作者承认这并非研究期间唯一涉及证据的辩论，但该辩论提供了"最持久的证据交锋"(p.24)。
 

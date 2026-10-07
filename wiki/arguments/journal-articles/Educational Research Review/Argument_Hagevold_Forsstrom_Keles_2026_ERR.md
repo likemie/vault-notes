@@ -7,7 +7,7 @@ title: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_key: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_display_title: "Research on research use in schools: A systematic review with a framework synthesis"
 argument_kind: "journal-article"
-argument_related_count: 58
+argument_related_count: 59
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Source of Knowledge]]"
   - "[[Research-Practice Gap]]"
+  - "[[Discourse]]"
   - "[[Communities of Practice]]"
   - "[[Teacher Professional Agency]]"
   - "[[Institutional Distrust]]"
@@ -238,7 +239,7 @@ updated: 2026-09-15
 > | 组织层面 | 时间（k = 46） | 最常被引用的障碍；缺乏专门、受保护的教研时间，研究参与只能挤占教师已很紧张的日程 |
 > |  | 获取（k = 31） | 难以获得研究材料与中介支持，教师接触不到合适的文献与资源 |
 > |  | 资源（k = 15） | 材料、角色分工与经费不足，与时间和获取共同构成结构性障碍 |
-> |  | 文化（k = 18） | 缺乏研究文化，研究参与被留给个别有兴趣的教师（Booher et al., 2020）；自上而下指令常“凭空而来”（Boyne & Beadle, 2017）；“没时间”的抱怨常是更深层问题（缺代理、缺支持、缺决策话语权）的替代说法（Baildon et al., 2022） |
+> |  | 文化（k = 18） | 缺乏研究文化，研究参与被留给个别有兴趣的教师（Booher et al., 2020）；自上而下指令常“凭空而来”（Boyne & Beadle, 2017）；“没时间”的抱怨常是更深层问题（缺代理、缺支持、缺决策[[Discourse\|话语]]权）的替代说法（Baildon et al., 2022） |
 > |  | 领导（k = 21） | 领导不提供支持、冷漠或主动阻碍研究（Abbott et al., 2017; Ahmed & Pervin, 2015）；“更受截止日期驱动，而非研究驱动”（Baildon et al., 2022），其他优先事项挤压研究 |
 > | 个体层面 | 技能缺失（k = 22） | 无法获取与理解研究、无法批判评估、缺乏应用信心、看不出相关性；常可追溯到培训不足（Ahmed, 2016; Davidson & Nowicki, 2012） |
 > |  | 不利心态（k = 16） | 缺乏信任、兴趣与相关感，造成研究与日常现实的脱节和冷漠（Ahmed & Pervin, 2015; Hwang, 2023）；固定心态与舒适区惯性进一步固守现状（Ashur & Bagadood, 2022） |

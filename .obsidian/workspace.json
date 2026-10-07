@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md",
+                "file": "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Bozeman_2004_JTT.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Cohen_Manion_Morrison_2011_Routledge"
+              "title": "Argument_Bozeman_2004_JTT"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/comparative-education/International Schools.md",
+                "file": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch01.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "International Schools"
+              "title": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01"
             }
           },
           {
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -270,36 +270,36 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1a4f14d7b6aba2f6",
+  "active": "ce0c3314a2a583a3",
   "lastOpenFiles": [
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md",
-    "wiki/concepts/instruction-pedagogy/Concept Mapping.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md",
+    "wiki/persons/global/Erving Goffman.md",
+    "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md",
+    "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch01.md",
+    "wiki/concepts/university-industry-collaboration/Research Translation.md",
+    "wiki/concepts/science-policy/Public Value.md",
+    "wiki/concepts/political-economy-geopolitics/Intellectual Capital.md",
+    "wiki/facts/us/National Aeronautics and Space Administration.md",
+    "wiki/facts/us/ARPANET.md",
+    "wiki/concepts/university-industry-collaboration/Star Scientists.md",
+    "wiki/facts/us/Science, The Endless Frontier 1945.md",
+    "wiki/theories/sociology-of-education/Organizational Culture.md",
+    "wiki/persons/germany/Jürgen Habermas.md",
+    "wiki/concepts/educational-technology/Man-Computer Symbiosis.md",
+    "wiki/persons/us/J. C. R. Licklider.md",
+    "wiki/facts/us/Fairchild Semiconductor.md",
+    "wiki/facts/us/Office of Scientific Research and Development.md",
+    "wiki/persons/us/Vannevar Bush.md",
+    "wiki/concepts/political-economy-geopolitics/Technological Republic.md",
+    "wiki/concepts/science-policy/Innovation Desert.md",
+    "wiki/concepts/comparative-education/International Schools.md",
+    "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Bozeman_2004_JTT.md",
+    "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md",
+    "wiki/concepts/science-policy/Focused Research Organization.md",
+    "wiki/facts/us/Fast Grants.md",
+    "wiki/persons/us/Nicholas Zamiska.md",
+    "wiki/persons/us/Alexander Karp.md",
     "raw/美国研究型大学在国家半导体体系中的角色重构_卓泽林.pdf",
     "raw/Louis Cohen, Lawrence Manion, Keith Morrison, Richard Bell - Research Methods in Education (Routledge Ltd) - libgen.li/美国研究型大学在国家半导体体系中的角色重构_卓泽林.pdf",
-    "wiki/facts/us/Activate Fellowship.md",
-    "wiki/concepts/science-policy/Quadratic Funding in Science.md",
-    "wiki/concepts/science-policy/Other Transaction Authority.md",
-    "wiki/facts/us/Institute for Advanced Study.md",
-    "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29.md",
-    "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md",
-    "wiki/concepts/educational-policy-reform/Diversity, Equity, and Inclusion.md",
-    "wiki/facts/us/Cold Spring Harbor Laboratory.md",
-    "wiki/concepts/research-methodology/Literature Search.md",
-    "wiki/facts/us/National Aeronautics and Space Administration.md",
-    "wiki/concepts/educational-policy-reform/21st Century Skills and Competencies Discourse.md",
-    "wiki/concepts/higher-education/Community College Strategic Anchoring.md",
-    "wiki/concepts/higher-education/Seniority Barrier in Academia.md",
-    "wiki/concepts/educational-policy-reform/Outcome-Based Apprenticeship Funding.md",
-    "wiki/concepts/competency-and-assessment/Creativity.md",
-    "wiki/concepts/higher-education/Practitioner-in-Residence.md",
-    "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Bozeman_2004_JTT.md",
-    "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md",
-    "books/Karp_Zamiska_2025_Technological_Republic/Karp_Zamiska_2025_Technological_Republic.md",
-    "wiki/concepts/science-policy/Dynamic Research Notebook.md",
-    "wiki/concepts/science-policy/Gold Standard Science.md",
     "raw/Karp_Zamiska_2025_Technological_Republic_txt/manifest.json",
     "raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch18_An_Aesthetic_Point_of_View_Notes.txt",
     "raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch18_An_Aesthetic_Point_of_View.txt",

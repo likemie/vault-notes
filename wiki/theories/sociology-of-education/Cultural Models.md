@@ -10,7 +10,7 @@ aliases:
 summary: "由历史文化过程积淀并持续演进的共享概念框架，在微观层面指文化成员用以解释、预测与指导学习及社会行动的原型图式（如东西方学习模型），在宏观跨国层面指世界社会理论所论述的普世化制度脚本（如国民经济发展、公民资产与国家可改进性信念）。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 45
+theory_related_count: 46
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Research Question]]"
+  - "[[Discourse]]"
   - "[[Self-Cultivation]]"
   - "[[Lifelong Learning]]"
   - "[[International Education]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-22
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Cultural Models
@@ -170,7 +171,7 @@ updated: 2026-10-02
 ## 转化为分析框架
 
 > [!theory-use] 框架入口
-> - **[[Research Question|研究问题]]** 适合解释微观跨文化学习行为的信念根源，以及宏观国家教育改革话语的跨国同质化与本土变异机制。
+> - **[[Research Question|研究问题]]** 适合解释微观跨文化学习行为的信念根源，以及宏观国家教育改革[[Discourse|话语]]的跨国同质化与本土变异机制。
 > - **分析对象与单位** 微观为个体的学习话语与理想原型；宏观为主权国家的政策文本、官方课程纲要、国际组织借贷备忘录及课堂日常实践。
 > - **需要的材料** 质性语言词汇、[[In-depth Interview|深度访谈]]、教科书道德画像、国家教育宏观规划文本、教学课时统计表与课堂[[Ethnography|民族志]]记录。
 > - **解释目标** 识别深层文化模型的构成维度，厘清表层制度模仿、国家中介过滤与微观社会结构之间的解耦或张力。
@@ -189,7 +190,7 @@ updated: 2026-10-02
 ## 局限性与适用边界
 
 > [!theory-boundary] 局限性与适用边界
-> - **适合分析** 跨文化长时段的稳定观念框架、[[International Education|国际教育]]制度文本的表层话语趋同、跨国课程改革的形式演化。
+> - **适合分析** 跨文化长时段的稳定观念框架、[[International Education|国际教育]]制度文本的表层[[Discourse|话语]]趋同、跨国课程改革的形式演化。
 > - **成立条件** 微观分析需依托丰富的本土语言与原型材料；宏观分析需区分官方政策修辞与实际行政资源配置，并结合微观[[Qualitative Observation|田野观察]]。
 > - **解释不足** 容易将复杂的社会阶级冲突简化为统一的文化共享，忽视文化内部弱势阶层对统治文化模型的批判与抵抗。
 > - **不能直接推出** 不能根据存在共享的文化模型直接推断每个个体的实际行动，亦不能根据国家签署了普世文化公约直接推断其建立了公平健全的教育体系。

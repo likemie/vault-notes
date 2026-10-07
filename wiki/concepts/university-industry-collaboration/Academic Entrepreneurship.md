@@ -10,10 +10,10 @@ aliases:
 summary: "大学学者与相关行动者识别外部机遇、调配组织资源并赋予新实践以合法性，进而创建新型科研实体、跨界合作网络与制度规则的动态过程；涵盖商业化衍生创业（如生物技术初创）与重构大学组织边界的学术制度创业（如微电子产学研究中心与联合体网络）。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/university-industry-collaboration
   - theme/entrepreneurship
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Mentorship]]"
   - "[[University-Based Research Center]]"
   - "[[Membership-based Research Consortium]]"
+  - "[[Discourse]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Academic Entrepreneurship
@@ -222,5 +223,5 @@ updated: 2026-10-06
 | [[Center for Integrated Systems]] | Fact (Organization) | 斯坦福学者发起学术制度创业的标志性代表。 |
 | [[National Research and Resource Facility for Submicron Structures]] | Fact (Organization) | 康奈尔学者与 [[National Science Foundation\|NSF]] 官员协同创设的国家级用户设施案例。 |
 | [[Semiconductor Research Corporation]] | Fact (Organization) | 紧密联动大学学术中心的产业研发资助联合体。 |
-| [[VLSI Project]] | Fact (Program) | 日本国家级攻关联盟，构成美国微电子学术制度创业的核心危机动员话语。 |
+| [[VLSI Project]] | Fact (Program) | 日本国家级攻关联盟，构成美国微电子学术制度创业的核心危机动员[[Discourse\|话语]]。 |
 | [[Argument_Mody_2017_MOH\|Mody (2017)]] | Argument | 本概念理论构架与微电子实证案例的核心来源[[Document\|文献]]。 |

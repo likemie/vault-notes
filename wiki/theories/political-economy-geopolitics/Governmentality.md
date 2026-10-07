@@ -9,7 +9,7 @@ aliases:
 summary: "Foucault 的权力分析概念，指通过塑造主体自我理解而非直接强制来引导行为的治理理性，以自我技术为重要运作机制"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 29
+theory_related_count: 30
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ tags:
   - theme/governmentality
   - theme/subjectification
 related_concepts:
+  - "[[Discourse]]"
   - "[[Online Self-Assessment]]"
   - "[[Promising Student]]"
   - "[[Assemblage]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-20
-updated: '2026-08-27'
+updated: 2026-10-07
 ---
 
 # Governmentality
@@ -84,7 +85,7 @@ updated: '2026-08-27'
 ## 核心命题
 
 > [!abstract]
-> 治理术的命题结构遵循由内到外的逻辑：权力通过"行为的引导"运作（核心机制）；自由不是治理的对立面，而是其运作条件（机制悖论）；自我技术是个体将自身改造为合治理形态的具体手段（技术层）；主体化是治理的核心效果，但个体并非话语的被动容器（主体化层）；在空间维度上，治理不依赖直接命令，而是通过远距机制在全球尺度运作（空间-尺度层）。
+> 治理术的命题结构遵循由内到外的逻辑：权力通过"行为的引导"运作（核心机制）；自由不是治理的对立面，而是其运作条件（机制悖论）；自我技术是个体将自身改造为合治理形态的具体手段（技术层）；主体化是治理的核心效果，但个体并非[[Discourse|话语]]的被动容器（主体化层）；在空间维度上，治理不依赖直接命令，而是通过远距机制在全球尺度运作（空间-尺度层）。
 
 > [!logic-map] 核心命题关系
 > 

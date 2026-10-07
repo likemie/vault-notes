@@ -8,7 +8,7 @@ aliases:
 summary: "指高等教育相对于国家和经济既受塑造又保有部分独立运作逻辑的状态，用于分析大学制度的相对自主性。"
 type: concept
 domain: "higher-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Geopolitics of Higher Education]]"
   - "[[Methodological Globalism]]"
   - "[[Academic Freedom]]"
+  - "[[Discourse]]"
   - "[[Creativity]]"
   - "[[Double Spatiality of Universities]]"
   - "[[Ontology]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: '2026-05-18'
+updated: 2026-10-07
 ---
 
 # Semi-Autonomy of Higher Education
@@ -61,7 +62,7 @@ updated: '2026-05-18'
 > [!example]
 > - vs 完全自主（full autonomy） — 完全自主意味着大学和科学不受外部力量约束。半自主性承认大学"几乎不可能不是国家的"（双重空间性），但同时指出全球尺度使大学"得以成为不为国家所完全定义的存在"([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 8]])
 > - vs 完全被决定（full determination） — [[World-Systems Theory\|世界体系理论]]和[[Methodological Globalism\|方法论全球主义]]持有此立场：高等教育和科学只是政治经济的上层建筑。半自主性论证的关键证据是：中国、韩国、印度、伊朗、巴西等国的科学产出增长模式各不相同，与政治经济的相关性各异——"如果科学产出完全由政治经济决定，那么这些国家的增长曲线应该是相似的"([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 13]])
-> - vs 新自由主义"[[Academic Freedom\|学术自由]]"话语 — 新自由主义框架下的"学术自由"通常指向个体的研究和教学自由，半自主性则是一个**制度层面**的概念，指高等教育部门作为一个整体相对于国家和经济系统的关系
+> - vs 新自由主义"[[Academic Freedom\|学术自由]]"[[Discourse|话语]] — 新自由主义框架下的"学术自由"通常指向个体的研究和教学自由，半自主性则是一个**制度层面**的概念，指高等教育部门作为一个整体相对于国家和经济系统的关系
 
 ---
 

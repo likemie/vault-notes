@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 19
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Business as Usual]]"
   - "[[Academic Achievement]]"
   - "[[Dependent Variable]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Direct Instruction]]"
   - "[[Ecological Validity]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Web-based Inquiry Science Environment
@@ -146,7 +147,7 @@ updated: 2026-09-22
 > > 争论焦点在于高度智能化的探究平台是否会边缘化一线教师的作用。
 > >
 > > - **技术自主论** 认为自适应算法能够完成诊断与支架推送，可在教师缺位或精力有限时独立保障高质量探究。
-> > - **人机协同论** 强调无论算法多先进，复杂的价值引导、班级共同体批判协商及深层概念统整依然高度依赖人类教师的专业智慧，系统定位必须是“赋能教师”而非“替代教师”（Linn et al., 2023；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 10]]）。
+> > - **[[Man-Computer Symbiosis|人机协同]]论** 强调无论算法多先进，复杂的价值引导、班级共同体批判协商及深层概念统整依然高度依赖人类教师的专业智慧，系统定位必须是“赋能教师”而非“替代教师”（Linn et al., 2023；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 10]]）。
 
 > [!lessons] 经验教训与启示
 > - **避免纯技术堆砌** 平台早期尝试过复杂的 3D 渲染，但发现过度的视觉花哨反而分散了学生的注意力并加重了外在认知负荷；后期的界面设计高度克制，紧密围绕“[[Knowledge Integration\|知识整合]]”认知目标开展减负设计。

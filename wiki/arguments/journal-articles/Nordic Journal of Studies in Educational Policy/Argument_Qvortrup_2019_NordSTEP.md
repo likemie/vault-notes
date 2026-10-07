@@ -9,7 +9,7 @@ title: "Argument_Qvortrup_2019_NordSTEP"
 argument_key: "Argument_Qvortrup_2019_NordSTEP"
 argument_display_title: "Visible learning and its enemies – the missing link"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Technology Deficit of Education]]"
   - "[[Reflexivity]]"
+  - "[[Discourse]]"
   - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
@@ -77,7 +78,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 方法：讨论论文（discussion paper）——以论辩和分析为主要方法
-> - 分析策略：以 Alexander (2011) 的四种批判性政策话语（二分法、嘲弄、神话、无意义）为框架，分析丹麦 Hattie 批评[[Document\|文献]]的修辞特征
+> - 分析策略：以 Alexander (2011) 的四种批判性政策[[Discourse|话语]]（二分法、嘲弄、神话、无意义）为框架，分析丹麦 Hattie 批评[[Document\|文献]]的修辞特征
 > - [[Epistemology\|认识论]]立场："观察位置"(von Foerster, 1984; Thyssen, 2012)——不同的理论代表不同的观察位置和透镜，不同观察产生不同图像，相互补充而非排斥
 
 ## 核心论证
@@ -86,7 +87,7 @@ citation_aliases:
 > 1. **前提／观察** 在丹麦，Hattie 的 [[Visible Learning]] 引发了大量但主要是批评性的反应——包括情绪化的（"不喜欢数字和统计"）和基于表面阅读的（将 Hattie et al.于古典行为主义）批评。一个由研究者、政治家和工会代表组成的解释社群在短期内形成，将 Hattie 从教育英雄转变为教育敌人;2017 年出版的批评文集 [[Hattie på dansk]] 汇集了多篇强烈反对 Hattie 的文章，是这场争议走向制度化扩散的节点(p.3-4, 7)
 >
 > 2. **论证步骤**
->    - **步骤一** 批评者的误读并非偶然——某些批评使用 Alexander 识别的"二分法话语"（统计 vs 独特性）和"嘲弄话语"（歪曲、嘲笑、人身攻击），将自己置于 Popper 所定义的"科学游戏"之外(p.3-4)
+>    - **步骤一** 批评者的误读并非偶然——某些批评使用 Alexander 识别的"二分法[[Discourse|话语]]"（统计 vs 独特性）和"嘲弄话语"（歪曲、嘲笑、人身攻击），将自己置于 Popper 所定义的"科学游戏"之外(p.3-4)
 >    - **步骤二** 定量与定性方法的对立源于将[[Epistemology\|认识论]]与[[Ontology\|本体论]]混淆——"真理"是认识论问题而非本体论问题。不同的观察透镜（phenomenological vs statistical）产生不同的图像，只要都遵循高效度标准，它们相互补充而非相互排斥(p.5)
 >    - **步骤三** 教学与学习之间不存在简单的[[Causality\|因果关系]]——两者是通过[[Structural Coupling\|结构耦合]]链接的两个封闭系统的关系。教学干预必须经过学生闭合的、自我指涉的、复杂的和不可预测的反思循环。因此，教师必须运用[[Professional Judgment\|专业判断]]——基于研究知识和方法知识、在理性赤字的条件下、通过反馈持续修正(p.6-7)
 >

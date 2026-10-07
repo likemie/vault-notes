@@ -8,7 +8,7 @@ summary: "学习科学与教育技术学者，纽约州立大学奥尔巴尼分�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Authentic Science Practices]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Discourse]]"
   - "[[Problem Solving]]"
   - "[[Operationalization]]"
   - "[[Epistemic Responsibility]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Jianwei Zhang
@@ -81,7 +82,7 @@ updated: 2026-09-22
 > [!timeline] 生平与职涯
 > - **1990s** 在北京师范大学心理学院攻读发展与教育心理学，师从陈琦教授，系统开展[[Constructivist Paradigm|建构主义]]学习理论与多媒体教学心理学研究。
 > - **2000s** 前往加拿大多伦多大学安大略教育研究院（Ontario Institute for Studies in Education, OISE）深造与工作，与 [[Marlene Scardamalia]] 及 [[Carl Bereiter]] 紧密合作，全面参与[[Knowledge Building Theory|知识建构]]与[[Theory of Knowledge|知识论]]坛的技术研发与实证干预工程。
-> - **2007** 提出探究线索分析法（Inquiry Threads Analysis），为追踪和量化协作话语中的持续[[Problem Solving|问题解决]]轨迹提供了经典分析工具。
+> - **2007** 提出探究线索分析法（Inquiry Threads Analysis），为追踪和量化协作[[Discourse|话语]]中的持续[[Problem Solving|问题解决]]轨迹提供了经典分析工具。
 > - **2008–至今** 任教于纽约州立大学奥尔巴尼分校教育学院教育理论与实践系，领衔多项[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）资助的设计基研究项目，系统探索中小学科学课堂中基于原则的知识建构与元话语反思机制。
 > - **2018–2022** 结合社会学结构化理论与[[Interactional Ethnography|互动民族志]]，系统提炼出[[Reflective Structuration|反思性结构化]]机制，并在《科学教育》（*Science Education*）等顶级期刊发表系列里程碑成果。
 
@@ -94,7 +95,7 @@ updated: 2026-09-22
 >   - **代表著作** *Sustaining Knowledge Building as a Principle-Based Innovation at an Elementary School* (2007); *Designs for Principle-Based Innovation in Knowledge Building* (2011).
 >   - **关键概念／方法** [[Knowledge Building Theory|知识建构]]、探究线索分析（Inquiry Threads Analysis）、基于原则的设计（Principle-Based Design）。
 >   - **阶段转向** 从早期的程序化协作脚本转向基于 12 条核心原则的开放生成式探究，强调思想持续改进（Sustained Idea Improvement）与集体[[Epistemic Responsibility|认知责任]]。
-> - **2010–2017 — 元话语反思、支架设计与跨年级知识流动** 此阶段探讨学习者如何通过元话语反思监控全班知识进展，突破孤立小组的隔阂。
+> - **2010–2017 — 元[[Discourse|话语]]反思、支架设计与跨年级知识流动** 此阶段探讨学习者如何通过元话语反思监控全班知识进展，突破孤立小组的隔阂。
 >   - **代表著作** *Formulating Knowledge-Building Communities in Primary Science Classrooms* (2015); *Promoting Deep Learning Through Collaborative Discourse* (2018).
 >   - **关键概念／方法** 元话语（Metadiscourse）、跨空间交互、[[Theory of Knowledge|知识论]]坛（Knowledge Forum）。
 >   - **阶段转向** 关注点由单个小组的话语分析拓展为整个班级知识共同体的空间与时间生态系统。

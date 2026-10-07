@@ -9,9 +9,9 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: Quality Indicators for Learning and Teaching
 tags:
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Initial Teacher Training]]"
   - "[[Student Satisfaction]]"
+  - "[[Discourse]]"
   - "[[Screening Off]]"
   - "[[What Works Movement]]"
 related_theories: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Graduate Outcomes Survey
@@ -64,7 +65,7 @@ updated: 2026-09-17
 ## 争议与评论
 
 > [!tension] 争议焦点
-> - **工具争议（政策文本的“选择性循证”与话语操纵）**
+> - **工具争议（政策文本的“选择性循证”与[[Discourse|话语]]操纵）**
 >   批判政策社会学者指出，虽然 2023 年《强劲开端》报告宣称要推进“基于证据”的改革，但其专家小组在立论时却系统性地[[Screening Off\|屏蔽]]了 GOS 报告中“75% 毕业生对教师教育课程感到满意”的权威数据（([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 5]])）。
 >   相反，改革报告选择性地捞取了 GOS 调查中一个局部的边缘数据——即“有 32% 的毕业生受访者希望在入职后获得更好或更相关的课程内容”，并以此作为推翻现有大纲、强推国家标准化认知负荷课程的核心论据。
 > - **实证基础薄弱争议**

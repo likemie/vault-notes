@@ -9,7 +9,7 @@ aliases:
 summary: "根据学术能力、测试成绩或职业取向将学生分配至不同课程轨道、教学班组或学校类型的制度化分流实践，在宏观上加剧社会阶层隔离并削弱公平与动机，在微观上强化能力固化信念与自我实现预言"
 type: concept
 domain: "sociology-of-education"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Nerd]]"
+  - "[[Discourse]]"
   - "[[Mediatised Governance]]"
   - "[[Paradigm]]"
   - "[[Competitiveness]]"
@@ -193,7 +194,7 @@ updated: 2026-10-07
 > - **教学实践** 在完成学段升学选拔后，学校内部极其强调全体学生共享统一高标准的学术大纲与高阶核心知识，而不是针对所谓“笨学生”提供降阶教材。
 > - **同伴文化对照** 在美国分轨学校中，由于知性—社交二分（[[Intellectual-Social Divide]]）与实体能力论，学生演化出“努力但不能过于费力”的小群体潜规则，高努力学者被贬为“[[Nerd\|书呆子]]（Nerd）”；而在东亚非分轨语境下，[[Academic Engagement\|学业投入]]被公认为普遍的美德标准。
 
-> [!case] 英国政客应对 [[PISA]] 分轨证据的“遗漏话语”
+> [!case] 英国政客应对 [[PISA]] 分轨证据的“遗漏[[Discourse|话语]]”
 > 在英格兰应对 PISA 2012 评估的过程中，执政精英展现出对分轨证据的高度策略性操纵（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, pp. 114, 117–118]]）：
 > - **实证建议与政治剪裁** [[OECD]] 报告明确警告英格兰系统内部存在根深蒂固的层化与选拔问题，并在国际案例中力推波兰与德国的去分轨成功经验。
 > - **遗漏话语策略** 教育大臣 [[Michael Gove]] 在议会政策陈述中，虽然高调挪用“促进社会公正”的道德口号，却动用话语特权对经合组织关于“分轨选拔破坏公平”的核心警告实施了彻底的“遗漏话语（Discourse of Omission）”。
@@ -257,7 +258,7 @@ updated: 2026-10-07
 > | [[PISA]] | Fact (Program) | 提供了证实分轨与教育公平、学习动机显著负相关的全球跨国大样本经验数据库。 |
 > | [[OECD]] | Fact (Organization) | 倡导波兰与德国去分轨综合化改革经验、警示学校层化风险的超国家智库机构。 |
 > | [[Grammar School]] | Fact (Policy) | 英国中等教育早期能力选拔物理分轨的经典制度实体，屡屡成为政客借机复辟的焦点。 |
-> | [[Policy Avoidance]] | Concept | 媒体与政客在讨论教育改革时，系统性回避分轨负面证据与具体政策细节的话语机制。 |
+> | [[Policy Avoidance]] | Concept | 媒体与政客在讨论教育改革时，系统性回避分轨负面证据与具体政策细节的[[Discourse\|话语]]机制。 |
 > | [[Moral Sidestep]] | Concept | 政客借“好学校”等道德辞藻回避选择性分轨学校破坏社会公平证据的修辞策略。 |
 > | [[Mediatised Governance]] | Concept | 导致跨国评估中关于分轨的严谨实证建议被本土政治与[[Media Logic\|媒介逻辑]]联合绑架的宏观治理形态。 |
 > | [[Quasi-Experimental Designs]] | Method | 当学校抵制[[Random Assignment\|随机分配]]导致能力分班 [[Randomised Controlled Trials\|RCT]] 招募失败时，评估分班政策的替代因果设计。 |
@@ -273,6 +274,6 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] — 基于 [[PISA]] 跨国大样本数据实证揭示分轨制对教育公平与学生动机的系统性损害，并深度解构英格兰执政精英在[[Mediatised Governance\|媒介化治理]]中对[[OECD\|经合组织]]分轨警告的“遗漏话语”策略。
+> - [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] — 基于 [[PISA]] 跨国大样本数据实证揭示分轨制对教育公平与学生动机的系统性损害，并深度解构英格兰执政精英在[[Mediatised Governance\|媒介化治理]]中对[[OECD\|经合组织]]分轨警告的“遗漏[[Discourse|话语]]”策略。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 从东西方文化心理与自我观差异切入，批判西方分轨制的实体能力论与被动适应逻辑，揭示低轨学生遭遇的“个人降级”与自我实现的失败预言。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 记录[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在能力分组因果试验招募失败（Roy et al., 2014）后，转向利用自然变异与[[Quasi-Experimental Designs\|准实验设计]]（QEDs）评估学校内生组织选择的方法学制度转型。

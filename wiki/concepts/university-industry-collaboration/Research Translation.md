@@ -12,7 +12,7 @@ aliases:
 summary: "连接科学研究发现与实际应用的跨界转化过程，在产学合作中体现为技术成果商业化漏斗，在学校教育中体现为基于因果行动理论的情境再脉络化与微观课例探究，在宏观治理中体现为立足政策时间生态与立法政策简报的法律实质采纳，在前沿科技创新中体现为公共代理人依托嵌入型网络治理引导颠覆性技术轨道，在国家硬科技战略中体现为打破规制阻滞、依托共享试验场、中试平台与前竞争联合体将前沿科学锚定于本土实体制造与战略产业能力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 92
+related_count: 93
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -62,6 +62,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Competitiveness]]"
   - "[[Academic Engagement Team]]"
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Professional Judgment]]"
   - "[[Literature Review]]"
@@ -294,7 +295,7 @@ updated: 2026-10-07
 > 全球大多数教育系统在体制上积累了过剩的学术研究生产主体，但直面一线教学情境与微观实践转化的专业中介组织极度匮乏，形成中心学术过剩与外围实践贫瘠的反差。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, pp. 78–84)]]
 >
 > > [!warrant]- 理论推导与经验依据
-> > [[OECD]] 37 个教育系统调查显示，逾 85% 系统的“研究生产”活跃组织类别数显著超越“实践促成”；大学与教育部委牢固垄断了研究话语权，而面向微观课堂的教师专业发展机构、实践转化中介与校际网络大多处于边缘地带，导致一线学校在推进循证实践时陷入缺乏转化专业支撑的孤立境地。
+> > [[OECD]] 37 个教育系统调查显示，逾 85% 系统的“研究生产”活跃组织类别数显著超越“实践促成”；大学与教育部委牢固垄断了研究[[Discourse|话语]]权，而面向微观课堂的教师专业发展机构、实践转化中介与校际网络大多处于边缘地带，导致一线学校在推进循证实践时陷入缺乏转化专业支撑的孤立境地。
 
 ---
 

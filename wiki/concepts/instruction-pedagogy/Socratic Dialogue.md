@@ -10,7 +10,7 @@ aliases:
 summary: "以连续提问、澄清假设、呈现反例与暴露认知矛盾为核心的启发式教学对话策略，在哲学思辨与理科探究中作为关键言语支架促进概念重构与批判性思维发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Critical Thinking]]"
   - "[[Paradigm]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[AI Agent in Education]]"
   - "[[Epistemic Friction]]"
   - "[[Trust Calibration]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # Socratic Dialogue
@@ -78,7 +79,7 @@ updated: 2026-09-24
 ## 定义
 
 > [!def] 核心定义
-> [[Socrates\|苏格拉底]]对话（Socratic Dialogue）是一种以结构化连续追问为载体的启发式交互策略。引导者或系统不直接给出终局答案或标准公式，而是通过界定核心术语、追问潜在前提[[Hypothesis\|假设]]、引入极端反例并暴露逻辑矛盾，促使主体主动审视并重构既有认知，最终实现理性知识的自主构建与[[Critical Thinking\|批判性思维]]发展。在现代科学探究教学中，苏格拉底对话被确立为非讲授型教学指导的重要[[Paradigm\|范式]]；在现代人机协同与决策支持系统中，苏格拉底对话进一步被工程化为对抗性质询[[AI Agent in Education|智能体]]（反思机器），通过开放追问主动注入生产性[[Epistemic Friction|认识论摩擦]]，防范对算法输出的[[Trust Calibration|过度信任]]与[[Automation Bias|自动化偏差]]。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 285–286)]]; [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 9–10)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 3)]]; [[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–22)]]
+> [[Socrates\|苏格拉底]]对话（Socratic Dialogue）是一种以结构化连续追问为载体的启发式交互策略。引导者或系统不直接给出终局答案或标准公式，而是通过界定核心术语、追问潜在前提[[Hypothesis\|假设]]、引入极端反例并暴露逻辑矛盾，促使主体主动审视并重构既有认知，最终实现理性知识的自主构建与[[Critical Thinking\|批判性思维]]发展。在现代科学探究教学中，苏格拉底对话被确立为非讲授型教学指导的重要[[Paradigm\|范式]]；在现代[[Man-Computer Symbiosis|人机协同]]与决策支持系统中，苏格拉底对话进一步被工程化为对抗性质询[[AI Agent in Education|智能体]]（反思机器），通过开放追问主动注入生产性[[Epistemic Friction|认识论摩擦]]，防范对算法输出的[[Trust Calibration|过度信任]]与[[Automation Bias|自动化偏差]]。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 285–286)]]; [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 9–10)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 3)]]; [[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–22)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将交互过程重构为平等的辩证探究，通过[[Reflexivity\|反思性]]质询“助产”出主体内心隐蔽的理性理解、因果模型与审议理由。
@@ -123,7 +124,7 @@ updated: 2026-09-24
 > - **[[Hypothesis\|假设]]显性化与引入反例** 追问该解释背后的隐含假设，提供冲突性实验数据或极端情境检验其普遍性。
 > - **认知冲突与困境暴露（Aporia）** 呈现反常数据与原观点的逻辑摩擦，使学生意识到朴素直觉的局限性与漏洞。
 > - **理性修正与概念重构** 在教师言语支架引导下，学生整合反思结果重新建立严密的科学概念模型。
-> - **基于大语言模型的苏格拉底反思机器（AI-Powered Socratic Reflection Machines）** 将自回归大语言模型（Large Language Models, LLMs）配置为对抗性质询[[AI Agent in Education|智能体]]（Reflection Machines, RMs），在人机协同关键决策与探究节点发起不可预测的连续追问，依据用户输入的实质内容动态调整反思深度，主动注入生产性[[Epistemic Friction|认识论摩擦]]并有效抵御交互形式化。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–23)]]
+> - **基于大语言模型的苏格拉底反思机器（AI-Powered Socratic Reflection Machines）** 将自回归大语言模型（Large Language Models, LLMs）配置为对抗性质询[[AI Agent in Education|智能体]]（Reflection Machines, RMs），在[[Man-Computer Symbiosis|人机协同]]关键决策与探究节点发起不可预测的连续追问，依据用户输入的实质内容动态调整反思深度，主动注入生产性[[Epistemic Friction|认识论摩擦]]并有效抵御交互形式化。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–23)]]
 
 > [!taxonomy] 六大经典苏格拉底提问类型
 > - **澄清型提问** “你用……这个概念的具体含义是什么？”“能用自己的话重述你的核心主张吗？”
@@ -171,7 +172,7 @@ updated: 2026-09-24
 
 ### 命题四　基于大语言模型的苏格拉底式质询智能体通过动态开放追问注入认识论摩擦以抵御算法顺从与自动化偏差
 
-> [!concept-lens] 人机协同决策与对抗性质询
+> [!concept-lens] [[Man-Computer Symbiosis|人机协同]]决策与对抗性质询
 > 探讨如何利用大语言模型的开放语义生成能力，将苏格拉底对话从传统人际教学拓展为智能交互决策中的认知安全防护机制。
 
 > [!claim] Xi et al.; [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
@@ -247,5 +248,5 @@ updated: 2026-09-24
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 综合 341 项实证研究，定量评估苏格拉底对话（$k=8, g+=0.27$）对学生[[Critical Thinking\|批判性思维]]的干预效果。
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 阐述对话在克服储蓄式灌输、建立批判性共同探究中的哲学与教学机制。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 分析苏格拉底式提问引导在文化母子学习对话与心智启蒙中的体现。
-> - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 提出基于大语言模型的反思机器（Reflection Machines），将苏格拉底对话[[Operationalization|操作化]]为人机协同决策中的对抗性质询[[AI Agent in Education|智能体]]，通过注入生产性[[Epistemic Friction|认识论摩擦]]抵御[[Automation Bias|自动化偏差]]并维系有意义人类控制。
+> - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 提出基于大语言模型的反思机器（Reflection Machines），将苏格拉底对话[[Operationalization|操作化]]为[[Man-Computer Symbiosis|人机协同]]决策中的对抗性质询[[AI Agent in Education|智能体]]，通过注入生产性[[Epistemic Friction|认识论摩擦]]抵御[[Automation Bias|自动化偏差]]并维系有意义人类控制。
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 在教育人工智能（Q-Tutor）交互设计中反思苏格拉底式提问的收敛性预设局限，提出由苏格拉底几何诱导向心理治疗式开放探究对话跃迁，以捍卫学习者的思想作者权与[[Creativity|创造力]]美德。

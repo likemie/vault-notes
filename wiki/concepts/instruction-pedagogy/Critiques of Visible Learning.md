@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 121
+related_count: 122
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Neuroplasticity]]"
   - "[[Value Neutrality]]"
+  - "[[Discourse]]"
   - "[[Technical Rationality]]"
   - "[[Positivism]]"
   - "[[Competitiveness]]"
@@ -893,7 +894,7 @@ Hattie and Zierer 自身的陈述——"课堂上只有 20% 可观察"（Hattie 
 >
 >> [!timeline] "学习"在丹麦语境中的语义演变（[[Argument_Larsen_2019_EducSci\|Larsen, 2019, p. 8–9]]）
 >> - **1960–70年代** 'læring'（学习）最初是批判性、解放性的术语
->> - **1990年代起** 被资本主义逻辑吸收，转向以效率为核心的话语
+>> - **1990年代起** 被资本主义逻辑吸收，转向以效率为核心的[[Discourse|话语]]
 >> - **当代** 成为不可逃避、无所不在的状态和"自然"要求
 >
 > Larsen 的核心替代方案是复兴 [[Bildung]]（教养）概念。作为 VL 的替代方案，Larsen 提出了具身化-扩展辩证法：每次学习都将学习内容具身化在身体存在中，而每次具身化值得具身化的东西，就扩展了身体与心智综合——这是一个双向运动（[[Argument_Larsen_2019_EducSci\|Larsen, 2019, pp. 8–10]]）。
@@ -1212,7 +1213,7 @@ VL 证据在政策过程中被多次误用。[[Argument_ONeill_2012_NZJES|O'Neil
 [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 以 VL 丹麦引介者的身份，针对上述批评提出了三重辩护论证（详见 [[Argument_Qvortrup_2019_NordSTEP]]）：
 
 > [!tension] 论证一：批评者形成了意识形态驱动的解释社群
-> Qvortrup 以 Fish (1980) 的解释社群概念解释丹麦 Hattie 批评现象的起源：一个由研究者、政治家和工会代表组成的强解释社群在短期内形成，将 Hattie 从教育英雄转变为教育敌人（[[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019, p. 5]]）。Qvortrup 使用 Alexander (2011) 的四种批判性政策话语框架分析丹麦批评[[Document\|文献]]，识别了其中至少两种话语——二分法话语（统计 vs 独特性）和嘲弄话语（歪曲、嘲笑、人身攻击）——论证这些批评将自己置于 Popper 的"科学游戏"之外（[[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019, pp. 3–4]]）。
+> Qvortrup 以 Fish (1980) 的解释社群概念解释丹麦 Hattie 批评现象的起源：一个由研究者、政治家和工会代表组成的强解释社群在短期内形成，将 Hattie 从教育英雄转变为教育敌人（[[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019, p. 5]]）。Qvortrup 使用 Alexander (2011) 的四种批判性政策[[Discourse|话语]]框架分析丹麦批评[[Document\|文献]]，识别了其中至少两种话语——二分法话语（统计 vs 独特性）和嘲弄话语（歪曲、嘲笑、人身攻击）——论证这些批评将自己置于 Popper 的"科学游戏"之外（[[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019, pp. 3–4]]）。
 
 > [!logic-map] 论证二：定量与定性的对立源于混淆[[Epistemology\|认识论]]与[[Ontology\|本体论]]
 > Qvortrup 以 von Foerster (1984) 的"观察位置"和 Thyssen (2012) 的"哲学目光"为框架，论证[[Epistemology\|认识论]]维度不是非此即彼的选择——通过[[Phenomenology\|现象学]]镜片观察产生一种结果，通过统计镜片观察产生另一种结果。如果两种进路都遵循高效度标准，它们相互补充而非相互排斥（[[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019, p. 5]]）。此论证直接回应了批评者对 VL 定量方法论的根本质疑。

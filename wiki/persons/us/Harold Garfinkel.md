@@ -6,7 +6,7 @@ summary: "美国社会学家，常人方法学（Ethnomethodology）创始人，
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Indexicality]]"
   - "[[Reflexivity]]"
   - "[[Determinism]]"
+  - "[[Discourse]]"
   - "[[Epistemology]]"
   - "[[Multiplist]]"
   - "[[Ontology]]"
@@ -35,6 +36,7 @@ related_theories:
   - "[[Phenomenology]]"
   - "[[Structural Functionalism]]"
 related_methods:
+  - "[[Conversation Analysis]]"
   - "[[Ethnography]]"
   - "[[Accounts]]"
   - "[[Fieldwork]]"
@@ -53,7 +55,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Harold Garfinkel
@@ -65,7 +67,7 @@ updated: 2026-10-01
 > [!person-profile] 人物档案
 > - **身份位置** 美国社会学家，常人方法学（[[Ethnomethodology]]，亦译俗民方法学）创始人，曾长期担任加利福尼亚大学洛杉矶分校（UCLA）社会学系教授。
 > - **核心角色** 20世纪微观社会学革命的领军人物。加芬克尔从[[Alfred Schutz\|阿尔弗雷德·舒茨]]（[[Alfred Schutz]]）的生活世界[[Phenomenology\|现象学]]汲取养分，对主流[[Structural Functionalism|结构功能主义]]关于社会秩序由外在客观法则决定的[[Hypothesis\|假设]]发起激进挑战；他拒绝将行动者视作被动遵从规范的“文化笨蛋”（Cultural Dopes），主张社会秩序是由行动者在日常实践推理中动态创造与维持的成就，为社会科学[[Interpretive Paradigm\|诠释范式]]与微观互动研究开辟了全新的经验调查方向。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
-> - **代表贡献** 创立常人方法学，提出[[Indexicality\|索引性]]（Indexicality）与[[Reflexivity\|反思性]]（Reflexivity）核心分析范畴，发明破坏性实验（Breaching Experiments）并催生了会话分析（Conversation Analysis）。
+> - **代表贡献** 创立常人方法学，提出[[Indexicality\|索引性]]（Indexicality）与[[Reflexivity\|反思性]]（Reflexivity）核心分析范畴，发明破坏性实验（Breaching Experiments）并催生了[[Conversation Analysis|会话分析]]（Conversation Analysis）。
 
 > [!citation-card] Garfinkel 论常人方法学的探究主旨与日常现象的自身权利
 > 常人方法学的目标，是将实践活动、实践情境和日常实践的社会学推理作为经验研究的课题；通过对日常生活最平淡无奇的活动给予通常只赋予非凡事件的专注，寻求将其作为自有权利的现象来探索。（Garfinkel, 1967, p. vii；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]）
@@ -84,7 +86,7 @@ updated: 2026-10-01
 > - **1946–1952年** 进入哈佛大学社会关系学系攻读博士，师从塔尔科特·帕森斯（Talcott Parsons）。期间深入反思帕森斯的顶层规范[[Determinism\|决定论]]，前往纽约新社会研究学院旁听[[Alfred Schutz\|阿尔弗雷德·舒茨]]（[[Alfred Schutz]]）的[[Phenomenology\|现象学]]讲座，1952年完成博士论文《感知他人行动者的知觉与反应研究》。
 > - **1954年** 在参与美国陪审团决策录音研究中正式铸造“常人方法学”（[[Ethnomethodology]]）这一学术术语，用以指称普通人理解与产生日常社会秩序的方法技巧。同年受聘为加利福尼亚大学洛杉矶分校（UCLA）助理教授并任教至1987年荣休。
 > - **1967年** 出版里程碑式代表作《常人方法学研究》（*Studies in Ethnomethodology*），在学术界掀起微观社会学海啸，全面奠定常人方法学作为独立研究流派的国际地位。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
-> - **1970s–1990s** 推动“常人方法学工作研究”（Studies of Work），深入科学实验室、神经外科手术室与天文台，剖析高度专业化知识与科学事实的现场制造过程；其弟子哈维·萨克斯（Harvey Sacks）与伊曼纽尔·谢格洛夫（Emanuel Schegloff）在其启迪下开创了微观会话分析（Conversation Analysis）。
+> - **1970s–1990s** 推动“常人方法学工作研究”（Studies of Work），深入科学实验室、神经外科手术室与天文台，剖析高度专业化知识与科学事实的现场制造过程；其弟子哈维·萨克斯（Harvey Sacks）与伊曼纽尔·谢格洛夫（Emanuel Schegloff）在其启迪下开创了微观[[Conversation Analysis|会话分析]]（Conversation Analysis）。
 > - **2011年** 4月21日以93岁高龄逝世于加州太平洋帕利塞兹家中。
 
 ---
@@ -110,7 +112,7 @@ updated: 2026-10-01
 ## 核心思想
 
 > [!claim] 核心主张
-> 加芬克尔对传统社会学秩序观发起根本性颠覆：社会秩序绝非外在于行动者的客观实体或预设法则，而是行动者在日常实践中运用常识技巧持续建构、维持并使之在理性上“可说明”（accountable）的实践成就。行动者绝非被动承受结构塑造的“文化笨蛋”（cultural dopes），而是主动解释情境的意义建构者。社会探究必须怀疑既定实在性，深入剖析日常生活的“惊人[[Indexicality\|索引性]]”（awesome indexicality）与话语描述与情境互为因果的“[[Reflexivity\|反思性]]”（reflexivity），从参与者内部机制透视社会秩序的生成过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
+> 加芬克尔对传统社会学秩序观发起根本性颠覆：社会秩序绝非外在于行动者的客观实体或预设法则，而是行动者在日常实践中运用常识技巧持续建构、维持并使之在理性上“可说明”（accountable）的实践成就。行动者绝非被动承受结构塑造的“文化笨蛋”（cultural dopes），而是主动解释情境的意义建构者。社会探究必须怀疑既定实在性，深入剖析日常生活的“惊人[[Indexicality\|索引性]]”（awesome indexicality）与[[Discourse|话语]]描述与情境互为因果的“[[Reflexivity\|反思性]]”（reflexivity），从参与者内部机制透视社会秩序的生成过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 
 > [!feature] 常人方法学的核心概念与操作机制
 > 常人方法学围绕日常生活实践推理确立了四大关键[[Epistemology\|认识论]]与方法论支柱（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）：
@@ -122,7 +124,7 @@ updated: 2026-10-01
 > [!taxonomy] 常人方法学的两大主要流派
 > 在经验研究取向上，常人方法学主要分化为两大分支传统（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）：
 > - **语言常人方法学（Linguistic [[Ethnomethodology]]）**
->   聚焦于日常语言运用与日常会话的微观组织结构。分析高度依赖于未言明的“理所当然”意涵、索引性表达的使用，以及日常交谈如何传达出远超字面言辞所表达的深层意义，由此催生出严密的会话分析（Conversation Analysis）。
+>   聚焦于日常语言运用与日常会话的微观组织结构。分析高度依赖于未言明的“理所当然”意涵、索引性表达的使用，以及日常交谈如何传达出远超字面言辞所表达的深层意义，由此催生出严密的[[Conversation Analysis|会话分析]]（Conversation Analysis）。
 > - **情境常人方法学（Situational Ethnomethodology）**
 >   将观察视野投向更广阔的社会活动范围，探究人们如何协商自身所处的具体社会环境，以及如何在动态情境中使环境变得有序可理解；在实证方法上常运用破坏性实验揭露潜在运作机制。
 
@@ -136,7 +138,7 @@ updated: 2026-10-01
 ## 历史评价
 
 > [!citation-card] Burrell 与 Morgan 论常人方法学对社会成就的内部透视
-> 常人方法学关注人们如何理解自身的日常世界。更具体而言，它针对参与者在社会相遇中达成并维系互动的机制——他们所作的[[Hypothesis\|假设]]、所采用的惯例以及所采纳的实践。常人方法学因此寻求以其自身的话语来理解社会成就；它致力于从内部去理解它们。（Burrell & Morgan, 1979；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]）
+> 常人方法学关注人们如何理解自身的日常世界。更具体而言，它针对参与者在社会相遇中达成并维系互动的机制——他们所作的[[Hypothesis\|假设]]、所采用的惯例以及所采纳的实践。常人方法学因此寻求以其自身的[[Discourse|话语]]来理解社会成就；它致力于从内部去理解它们。（Burrell & Morgan, 1979；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]）
 >
 > *[[Ethnomethodology]], then, is concerned with how people make sense of their everyday world. More especially, it is directed at the mechanisms by which participants [[Achieve]] and sustain interaction in a social encounter – the assumptions they make, the conventions they utilize and the practices they adopt. Ethnomethodology thus seeks to understand social accomplishments in their own terms; it is concerned to understand them from within.*
 
@@ -146,7 +148,7 @@ updated: 2026-10-01
 
 > [!influence-path] 影响路径
 > - **理论路径** 颠覆了传统社会学的结构[[Determinism\|决定论]]，将社会学研究的重心从抽象宏观体系彻底转向行动者微观实践推理，开辟了社会建构论与日常生活研究的新[[Paradigm\|范式]]。
-> - **方法路径** 催生了哈维·萨克斯（Harvey Sacks）等人的微观会话分析（Conversation Analysis），确立了逐字[[Transcription in Qualitative Research\|转录]]、交替轮次（Turn-taking）与修复机制（Repair）等微观实证方法标准。
+> - **方法路径** 催生了哈维·萨克斯（Harvey Sacks）等人的微观[[Conversation Analysis|会话分析]]（Conversation Analysis），确立了逐字[[Transcription in Qualitative Research\|转录]]、交替轮次（Turn-taking）与修复机制（Repair）等微观实证方法标准。
 > - **教育研究应用** 为教育[[Ethnography\|民族志]]与课堂微观研究提供了强大的分析透镜（如著名的课堂“草莓事件”，Walker & Adelman, 1975），揭示了师生互动中默会[[Indexicality\|索引性]]规则如何决定课堂控制与学业成败。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
@@ -161,7 +163,7 @@ updated: 2026-10-01
 >   - **[[Alfred Schutz\|阿尔弗雷德·舒茨]]（Alfred Schutz）** 精神导师，加芬克尔将其生活世界常识与[[Typification\|类型化]]概念转化为微观经验研究规程。
 >   - **塔尔科特·帕森斯（Talcott Parsons）** 博士导师，加芬克尔通过反叛其宏观规范[[Determinism\|决定论]]，走向了常人方法学的经验道路。
 > - **学生／合作者**
->   - **哈维·萨克斯（Harvey Sacks）** 杰出弟子，常人方法学会话分析（CA）的主要创立者。
+>   - **哈维·萨克斯（Harvey Sacks）** 杰出弟子，常人方法学[[Conversation Analysis|会话分析]]（CA）的主要创立者。
 >   - **伊曼纽尔·谢格洛夫（Emanuel Schegloff）** 早期学术伙伴，推动会话分析在社会学与语言学界制度化。
 > - **学术论敌**
 >   - **正统[[Positivism\|实证主义]]与量化社会学家** 加芬克尔批判其运用预设[[Questionnaire\|问卷]]与机械[[Coding in Qualitative Research\|编码]]强加外在虚假秩序，忽视日常生活的原初丰富性。

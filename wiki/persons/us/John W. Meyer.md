@@ -8,7 +8,7 @@ summary: "美国社会学家，斯坦福学派新制度主义与世界社会理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 38
+person_related_count: 39
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Discourse]]"
   - "[[Policy Borrowing]]"
   - "[[Research Universities]]"
   - "[[Knowledge Production]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-11
-updated: 2026-10-04
+updated: 2026-10-07
 ---
 
 # John W. Meyer
@@ -152,7 +153,7 @@ updated: 2026-10-04
 > [!influence-path] 影响路径
 > - **理论路径** 开创[[Stanford School|斯坦福学派]]新制度主义社会学与[[World Society Theory|世界社会理论]]，彻底改写了组织社会学关于正式结构的理性效率假定，并为比较教育学奠定了世界文化[[Paradigm|范式]]（World Culture Perspective）；与国际关系领域的[[Constructivist Paradigm|社会建构主义]]形成理论互补，推动全球治理研究从侧重物质强权的硬治理转向侧重观念、规范与知识的[[Epistemic Governance|知识治理]]。
 > - **方法路径** 倡导大规模、长时段的跨国量化比较研究方法，通过建立战后全球多国入学率数据库、国家课程纲要分类与课时比例数据库、人权与环境条约签署数据库等，奠定了运用宏观跨国面板数据检验微观[[Institutional Isomorphism|制度同构]]效应的研究设计规范。
-> - **政策路径** 深刻影响了联合国教育、科学及文化组织（[[UNESCO]]）、[[OECD|经济合作与发展组织]]（OECD）等跨国机构的监测逻辑与政策话语；迈耶揭示的“理性神话与仪式性脱节”成为评估全球教育改革[[Policy Borrowing|政策借用]]、标准化问责制异化与政策执行落差的标准分析工具。
+> - **政策路径** 深刻影响了联合国教育、科学及文化组织（[[UNESCO]]）、[[OECD|经济合作与发展组织]]（OECD）等跨国机构的监测逻辑与政策[[Discourse|话语]]；迈耶揭示的“理性神话与仪式性脱节”成为评估全球教育改革[[Policy Borrowing|政策借用]]、标准化问责制异化与政策执行落差的标准分析工具。
 > - **跨国／跨领域传播** 斯坦福学派形成了庞大的跨国学术传承，研究脉络从中小学学科知识构成（Benavot）、妇女公民参政权扩展（Ramirez）延伸至当代[[Research Universities|研究型大学]]向完全组织的转型（Zapp, Bromley），成为现代高等教育学、国际比较教育学与公共政策分析的核心理论渊源。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
@@ -215,7 +216,7 @@ updated: 2026-10-04
 
 > [!critique]- 批评索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 批判迈耶新制度主义世界文化流派过度依赖国家层面的入学率与法律文本等宏观统计指标，完全忽略了边缘国家内部触目惊心的阶级再生产机制与跨国资本掠夺。
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 强调第四阶段话语（1970–1990）虽然借助世界体系与跨国模型拓宽了宏观视野，但过度沉溺于当代实证数据集与组织趋同分析，在客观上加剧了比较教育学历史研究维度的边缘化（历史论文占比降至不足 5%）。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 强调第四阶段[[Discourse|话语]]（1970–1990）虽然借助世界体系与跨国模型拓宽了宏观视野，但过度沉溺于当代实证数据集与组织趋同分析，在客观上加剧了比较教育学历史研究维度的边缘化（历史论文占比降至不足 5%）。
 > - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 指出世界社会理论过于倚重观念扩散与规范同构，可能低估了民族国家硬实力、地缘政治冲突以及商业资本利益对组织行为的直接强制干预。
 
 > [!warning] 未解问题与边界

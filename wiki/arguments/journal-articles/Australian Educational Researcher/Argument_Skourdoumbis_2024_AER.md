@@ -10,7 +10,7 @@ title: "Argument_Skourdoumbis_2024_AER"
 argument_key: "Argument_Skourdoumbis_2024_AER"
 argument_display_title: "A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement"
 argument_kind: "journal-article"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Initial Teacher Training]]"
   - "[[Attrition]]"
+  - "[[Discourse]]"
   - "[[Policy Network]]"
   - "[[Value Neutrality]]"
   - "[[School Leadership]]"
@@ -99,7 +100,7 @@ citation_aliases:
 > [!question] 核心关切与政策谜题
 > 澳大利亚自1979年以来已进行了101次政府主导的教师教育审查，是检验[[Initial Teacher Training\|初始教师教育]]（Initial Teacher Education, ITE）政策改革的肥沃土壤。2023年联邦政府发布《强劲开端》（*[[Strong Beginnings Report\|Strong Beginnings]]*）报告，在延续2015年教师教育部长级咨询组（[[Teacher Education Ministerial Advisory Group]], TEMAG）《行动立即开始》报告和2022年优质初始教师教育（Quality Initial Teacher Education, QITE）审查逻辑的基础上，首次在全国范围内将“大脑与学习”（神经科学）列为ITE的必修核心课程。
 >
-> 这一改革带来了重大的政策谜题：一场因全国性教师严重短缺危机而发起的政策审查，为何最终绕过了教师[[Attrition\|流失]]的根本原因（如过载工作量），转而将问题表征为教师培训质量缺陷？将神经科学强制列入必修课程的深层逻辑是什么？“什么有效”运动的话语策略如何通过[[Policy Network\|政策网络]]进行“理念编排”，服务于特定中介组织和保守智库的私人与制度性利益？
+> 这一改革带来了重大的政策谜题：一场因全国性教师严重短缺危机而发起的政策审查，为何最终绕过了教师[[Attrition\|流失]]的根本原因（如过载工作量），转而将问题表征为教师培训质量缺陷？将神经科学强制列入必修课程的深层逻辑是什么？“什么有效”运动的[[Discourse|话语]]策略如何通过[[Policy Network\|政策网络]]进行“理念编排”，服务于特定中介组织和保守智库的私人与制度性利益？
 
 > [!claim] 核心主张
 > 报告中将“大脑与学习”强制列为初始教师教育（ITE）核心课程，并非客观、[[Value Neutrality\|价值中立]]的循证决策，而是一种生物简化主义与赤字话语的体现。这一改革由官方教育证据中介组织[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（Australian Education Research Organisation, [[Australian Education Research Organisation\|AERO]]）、评估认证机构[[Australian Institute for Teaching and School Leadership\|澳大利亚教学与学校领导力协会]]（Australian Institute for Teaching and [[School Leadership]], [[Australian Institute for Teaching and School Leadership\|AITSL]]）与保守智库独立研究中心（[[Centre for Independent Studies]], CIS）组成的权力网络共同动员与编排，旨在通过强制性与惩罚性的认证机制，确立标准化“什么有效”知识的霸权，从而剥夺教师教育者的课程自主权，将教育本质从“人际沟通与意义建构”异化为可度量监控的“[[Causality\|因果关系]]”。
@@ -120,7 +121,7 @@ citation_aliases:
 > | **Bacchi的WPR分析法**<br>[[Bacchi's WPR Approach]] | “什么是问题表征”（What's the problem represented to be?）[[Analytic Framework\|分析框架]]（Bacchi, 2009）。通过六个递进问题审视《强劲开端》优先改革1及附录D中的核心内容规范和参考文献，解构政策如何建构问题、隐藏假设、制造沉默并产生排他性效果。 |
 
 > [!warrant]- 理论如何支撑论证
-> 批判政策社会学和WPR分析法引导我们打破对“循证改革”的盲目信任。它提供了一套解构工具：首先追踪政策文本中被界定的“问题”（即教师质量缺陷），接着寻找该界定背后的[[Epistemology\|认识论假设]]（即大脑作为中性信息处理器的简化预设），然后通过“寻找沉默”暴露其剔除的历史脉络（优生学与赤字话语风险），最后把视野从文本延伸至[[Policy Network\|政策网络]]，勾勒出[[Australian Education Research Organisation\|AERO]]、[[Australian Institute for Teaching and School Leadership\|AITSL]]、CIS等网络节点如何协同垄断“有效知识”的定义权，从而把政策转化为对教师教育和教师实践的惩罚性控制。
+> 批判政策社会学和WPR分析法引导我们打破对“循证改革”的盲目信任。它提供了一套解构工具：首先追踪政策文本中被界定的“问题”（即教师质量缺陷），接着寻找该界定背后的[[Epistemology\|认识论假设]]（即大脑作为中性信息处理器的简化预设），然后通过“寻找沉默”暴露其剔除的历史脉络（优生学与赤字[[Discourse|话语]]风险），最后把视野从文本延伸至[[Policy Network\|政策网络]]，勾勒出[[Australian Education Research Organisation\|AERO]]、[[Australian Institute for Teaching and School Leadership\|AITSL]]、CIS等网络节点如何协同垄断“有效知识”的定义权，从而把政策转化为对教师教育和教师实践的惩罚性控制。
 
 ---
 
@@ -229,7 +230,7 @@ citation_aliases:
 > [!critique-fatal] 对弱势学生的生物赤字标签化与隐形种族主义
 > - **生理缺陷归因**Rose & Rose (1976) 指出，当所有人类经验被归结为“刺激-反应、奖励-惩罚”时，个人在竞争社会中的失败就被视为“其化学或大脑结构的缺陷”（p. 121），从而完全隐藏了社会压迫结构。
 > - **缺陷标签的确立** 新手/专家脑的二元划分为 职前教师提供了便捷的生物缺陷标签（Mahoney, 2023）。当弱势 SES 学生的学习表现不佳时，更容易被归结为其“大脑发育缺陷”，而非教育资源分配不公。
-> - **隐形种族主义（Hidden Racism）**Gillborn (2016) 论证指出，对遗传学或生物决定论的强调，使伪科学话语得以在缺陷设定的政策议程中为种族主义和排他行径背书（p. 366）。
+> - **隐形种族主义（Hidden Racism）**Gillborn (2016) 论证指出，对遗传学或生物决定论的强调，使伪科学[[Discourse|话语]]得以在缺陷设定的政策议程中为种族主义和排他行径背书（p. 366）。
 
 ---
 

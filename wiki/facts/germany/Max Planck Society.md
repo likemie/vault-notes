@@ -12,7 +12,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[National Innovation System]]"
   - "[[General Education]]"
   - "[[Curiosity-Driven Research]]"
+  - "[[Discourse]]"
   - "[[Knowledge Production]]"
 related_facts:
   - "[[Fraunhofer Society Model]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Max Planck Society
@@ -85,7 +86,7 @@ updated: 2026-10-06
 ## 影响与体系成效
 
 > [!finding-cards] 关键成效与历史辐射
-> - **维护欧洲[[Curiosity-Driven Research|纯基础研究]]的全球标杆** 为战后德国在去军事化与废墟重建中迅速重塑全球顶尖基础科学话语权提供了决定性制度支柱。
+> - **维护欧洲[[Curiosity-Driven Research|纯基础研究]]的全球标杆** 为战后德国在去军事化与废墟重建中迅速重塑全球顶尖基础科学[[Discourse|话语]]权提供了决定性制度支柱。
 > - **促发当代“卓越倡议”的科教融通反思** 20 世纪末至 21 世纪初，面对美国大学将博士生教育深度熔铸于前沿国家科研项目的制度优势，德国政府推动“卓越大学倡议”（Excellence Initiative），强力引导马普所与顶尖综合大学联合设立国际马克斯·普朗克研究学校（IMPRS），以修补研究所与大学研究生教育之间的二元裂痕。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
 
 ---

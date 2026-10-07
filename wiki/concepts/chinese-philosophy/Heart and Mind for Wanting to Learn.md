@@ -7,7 +7,7 @@ aliases:
 summary: "中国本土学习概念，指一个人内在的求知欲望与向学之心，Jin Li 将其置于中国学习传统六主题框架中作为核心动力机制"
 type: concept
 domain: "chinese-philosophy"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Ways of Knowing]]"
   - "[[Enculturation]]"
   - "[[Learning Virtues]]"
+  - "[[Discourse]]"
   - "[[Cross-cultural Validity]]"
   - "[[Concept Mapping]]"
   - "[[Humility]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-09-23
+updated: 2026-10-07
 ---
 
 # Heart and Mind for Wanting to Learn
@@ -110,7 +111,7 @@ Li 随后在与哈佛教育学院的中国同侪讨论时，他们一致认可�
 >
 > - **表扬机制** 考试后，老师常让"最努力"——而非"成绩最好"——的学生站起来接受全班掌声。肯定的是学习美德（learning virtue），而非学习结果
 > - **归因模式** 学生表现不佳时，老师的第一反应永远是"你不用功、你不专心、你没听讲、你练得不够"——几乎从不归因于先天智力不足
-> - **教室话语** 中国教室至今挂着毛泽东语录"好好学习，天天向上"——在毛的浩繁著作中，唯有这句话被选中永久张贴。"它挂在黑板上方，任何人进入教室都不可能看不到。它挂在那里，永远去语境化，仿佛是一个独立而永恒的光环"([[Argument_Li_2012_Cambridge\|Li, 2012, p.19 note 20]])。教室中也常见对联"书山有路勤为径，学海无涯苦作舟"——将"勤奋"与"吃苦"明确刻画为求知的必经之路([[Argument_Li_2012_Cambridge\|Li, 2012, p.13]])
+> - **教室[[Discourse|话语]]** 中国教室至今挂着毛泽东语录"好好学习，天天向上"——在毛的浩繁著作中，唯有这句话被选中永久张贴。"它挂在黑板上方，任何人进入教室都不可能看不到。它挂在那里，永远去语境化，仿佛是一个独立而永恒的光环"([[Argument_Li_2012_Cambridge\|Li, 2012, p.19 note 20]])。教室中也常见对联"书山有路勤为径，学海无涯苦作舟"——将"勤奋"与"吃苦"明确刻画为求知的必经之路([[Argument_Li_2012_Cambridge\|Li, 2012, p.13]])
 
 > [!success]
 > ### 概念的[[Cross-cultural Validity\|跨文化效度]]

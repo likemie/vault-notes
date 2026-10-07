@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Self-Efficacy]]"
   - "[[Response to Proven Instruction]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Paradigm]]"
 related_theories: []
 related_methods:
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # QuickReads
@@ -131,4 +132,4 @@ updated: 2026-09-17
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Quick Reads 评定为初等阅读 Tier 2 [[Teaching Assistant\|助教]]小组辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释如何通过 QuickReads 等微型高频工具充实 Tier 2 流畅度小组干预。
 > - [[Sound Partners]] — 同属助教实施的早期阅读强证据方案，二者形成“K–1 音素拼读”向“2–3 流畅度概念复读”的进阶衔接。
-> - [[Lightning Squad]] — 1–3 年级人机协同阅读辅导强证据方案，与 QuickReads 共同代表了低成本高效能的阅读技术赋能[[Paradigm\|范式]]。
+> - [[Lightning Squad]] — 1–3 年级[[Man-Computer Symbiosis|人机协同]]阅读辅导强证据方案，与 QuickReads 共同代表了低成本高效能的阅读技术赋能[[Paradigm\|范式]]。

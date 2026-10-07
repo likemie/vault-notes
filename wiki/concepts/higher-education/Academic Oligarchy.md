@@ -8,10 +8,10 @@ aliases:
 summary: "Clark (1983) 三角协调模型中专业寡头一极的当代延伸，描述市场竞争和评估治理如何催生少数精英大学对资源分配和价值定义的寡头式控制，而非预期的开放竞争"
 type: concept
 domain: "higher-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - academic-oligarchy
   - higher-education
@@ -22,6 +22,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Non-monetary Competition]]"
+  - "[[Discourse]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Research Impact]]"
   - "[[Knowledge Production]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-10-07
 ---
 
 # Academic Oligarchy
@@ -48,7 +49,7 @@ updated: 2026-06-01
 > [!info]
 > 学术寡头（Academic Oligarchy）源自 Burton Clark（1983）在 The Higher Education System 中提出的三角协调模型，将"专业寡头"（professional oligarchy）定位为高等教育治理中与国家权威和市场力量并列的第三极。在 Clark 的原始框架中，专业寡头指资深教授和学术行会通过控制学术标准、准入资格和同行评审来治理高等教育的一种协调模式。
 
-[[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]]在分析高等教育的新政治经济学时重新激活并扩展了这一概念：在当代竞争转型中，市场化和[[Non-monetary Competition|非货币竞争]]不仅没有消解专业寡头的权力，反而催生了**新型的学术寡头结构**，少数精英大学和精英学者在公平竞争和卓越的话语下，进一步集中了对学术资源分配和价值定义的实质控制（pp.798–799, 808–809）。
+[[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]]在分析高等教育的新政治经济学时重新激活并扩展了这一概念：在当代竞争转型中，市场化和[[Non-monetary Competition|非货币竞争]]不仅没有消解专业寡头的权力，反而催生了**新型的学术寡头结构**，少数精英大学和精英学者在公平竞争和卓越的[[Discourse|话语]]下，进一步集中了对学术资源分配和价值定义的实质控制（pp.798–799, 808–809）。
 
 > [!quote]
 > "在竞争和市场化的转向中，现有等级倾向于被正式化和固化，而非松动……学术寡头，在竞争的新结构中扮演着重要角色。"([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.798–799]])
@@ -86,7 +87,7 @@ updated: 2026-06-01
 
 ### 话语合法化：从"寡头"到卓越
 
-学术寡头最成功的运作可能是话语层面的：它不被称作寡头，而被称作卓越。当 Harvard and Stanford 持续占据全球排名顶端时，这不被描述为"寡头垄断的再生产"，而被描述为"卓越的持续认可"。排名的语言，世界一流、全球领先、国际知名，将寡头结构翻译成了功绩等级。这一话语转换是寡头合法化的核心机制：如果人们相信排名的位置反映的是质量而非"权力"，那么寡头的存在就不是问题，而是自然秩序。
+学术寡头最成功的运作可能是[[Discourse|话语]]层面的：它不被称作寡头，而被称作卓越。当 Harvard and Stanford 持续占据全球排名顶端时，这不被描述为"寡头垄断的再生产"，而被描述为"卓越的持续认可"。排名的语言，世界一流、全球领先、国际知名，将寡头结构翻译成了功绩等级。这一话语转换是寡头合法化的核心机制：如果人们相信排名的位置反映的是质量而非"权力"，那么寡头的存在就不是问题，而是自然秩序。
 
 > 正如 Marginson（2006, 2009）所论证的，排名"确认、巩固和再生产高等教育的声望和权力"，将资源差异和全球[[Knowledge Production\|知识生产]]的不均衡合法化。这正是寡头所需要的：不是暴力，而是共识([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.802]])。
 
@@ -98,5 +99,5 @@ Clark（1983）的三角协调模型，国家权威、市场力量、专业寡�
 - **市场力量的重新定义** 所谓的"市场"主要不是价格驱动的自由竞争，而是国家设计的准市场，[[Performance Indicators|绩效指标]]、排名、评估驱动的拨款
 - **专业寡头的巩固** 在国家和市场的双重转型中，专业寡头（资深教授、精英大学、期刊编辑网络）实际上**增强**了其对学术价值定义的控制。因为准市场的运作需要"质量标准"，而谁来决定这些标准？正是寡头本身
 
-Angermuller进一步指出，学术行动者通过日常的话语实践，使用可用的地位范畴（"Harvard 教授"、"Nature 论文"、"[[Research Excellence Framework|REF]] 4*"）来定位自己和他人，在 Burdon Clark 的国家-市场-专业寡头三角中持续进行着符号位置的协商和争夺([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.807–808]])。
+Angermuller进一步指出，学术行动者通过日常的[[Discourse|话语]]实践，使用可用的地位范畴（"Harvard 教授"、"Nature 论文"、"[[Research Excellence Framework|REF]] 4*"）来定位自己和他人，在 Burdon Clark 的国家-市场-专业寡头三角中持续进行着符号位置的协商和争夺([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp.807–808]])。
 

@@ -9,10 +9,10 @@ aliases:
 summary: "指慈善捐助者不以直接提供社会救济或维持日常运营为目的，而是将私营资本作为政策杠杆与催化剂，以撬动公共财政配资、重塑国家法定教育议程、推销因果循证量规并孵化新型中介实体为核心诉求的策略性慈善范式。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - philanthropy
   - venture-philanthropy
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Assemblage]]"
   - "[[Venture Philanthropy]]"
+  - "[[Discourse]]"
   - "[[Theories of Policy Change]]"
   - "[[Return on Investment]]"
   - "[[Bildung]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-04
+updated: 2026-10-07
 ---
 
 # Catalytic Philanthropy
@@ -71,7 +72,7 @@ updated: 2026-10-04
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向私人慈善资本作为战略杠杆，以改变公共系统运行规则、重组国家财政与引导法定教育改革为目标的行为模式。
-> - **用途** 破除“慈善即纯粹利他奉献”的浪漫化迷思，揭示富豪基金会与[[Venture Philanthropy\|风险慈善]]中介如何凭借相对微额的私营资本，统摄国家公共教育政策话语权并规避民主审查。
+> - **用途** 破除“慈善即纯粹利他奉献”的浪漫化迷思，揭示富豪基金会与[[Venture Philanthropy\|风险慈善]]中介如何凭借相对微额的私营资本，统摄国家公共教育政策[[Discourse|话语]]权并规避民主审查。
 > - **边界** 区别于单纯的企业社会责任（CSR）公关活动，也区别于针对特定学校危房修缮或奖学金发放的个案直捐。
 
 > [!citation-card] [[Social Ventures Australia|SVA]] 效仿[[Bill & Melinda Gates Foundation|盖茨基金会]]的证据催化慈善模式
@@ -101,7 +102,7 @@ updated: 2026-10-04
 
 > [!feature] 核心要素
 > - **撬动公共财政的放大器效应（Financial Catalysis and Co-funding）** 催化慈善的资金从不追求包揽全部成本，而是通过先期投入[[Seed Funding|种子基金]]，向政府施加政治压力，迫使公共财政提供多倍配资（[[Matching]] Funds），实现资本影响力的指数级放大。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520, 526)]]
-> - **因果证据话语垄断（Evidence Monopoly as Trojan Horse）** 将[[Randomised Controlled Trials\|随机对照试验]]（RCT）等特定因果实证工具包包装为“客观中立”的科学标尺，通过催化设立证据中介，迫使公立学校依据量规组织教学。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 530–531)]]
+> - **因果证据[[Discourse|话语]]垄断（Evidence Monopoly as Trojan Horse）** 将[[Randomised Controlled Trials\|随机对照试验]]（RCT）等特定因果实证工具包包装为“客观中立”的科学标尺，通过催化设立证据中介，迫使公立学校依据量规组织教学。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 530–531)]]
 > - **跨界网络动员能力（Orchestration of Heterogeneous Networks）** 捐赠者充当网络编排者（Network Orchestrator），联合智库、跨国咨询公司与高阶官僚协同游说，形成不可逆的改革势头。
 > - **制度样板与原型示范（Prototype Demonstration）** 率先在部分弱势公立学校开展试验改造，随后以“成功案例”为由游说议会修改法案，实现自下而上的国家立法突破。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 525, 528)]]
 
@@ -151,7 +152,7 @@ updated: 2026-10-04
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **财政杠杆命题** | 催化慈善以少量资金撬动国家财政与立法，驱动国家演化为催化平台 | [[Policy Network\|政策网络]]动员、公私联合配资审查 | Kramer (2009); Reckhow (2013); [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] |
-> | **量规规训命题** | 证据催化慈善以因果实证量规垄断政策话语，导致基层教师去专业化 | 循证工具包推广、学校资助绩效考核 | Tompkins-Stange (2016) |
+> | **量规规训命题** | 证据催化慈善以因果实证量规垄断政策[[Discourse\|话语]]，导致基层教师去专业化 | 循证工具包推广、学校资助绩效考核 | Tompkins-Stange (2016) |
 
 ---
 

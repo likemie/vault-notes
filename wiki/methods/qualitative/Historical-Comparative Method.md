@@ -10,7 +10,7 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度、国�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 79
+method_related_count: 80
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
+  - "[[Discourse]]"
   - "[[Research Question]]"
   - "[[Working Hypothesis]]"
   - "[[Vertical Disintegration]]"
@@ -109,7 +110,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Historical-Comparative Method
@@ -145,7 +146,7 @@ updated: 2026-10-05
 > [!method-stack] 方法层级
 > - **研究设计** 比较历史分析（Comparative-Historical Analysis）、多案例时空追踪、制度发生学路径、国际组织多源历史档案重构（Archival reconstruction）。
 > - **数据收集** 官方档案文件、教育视察报告、议会立法记录、国际组织早期成立文书与战略报告、教育统计年鉴、思想家经典原著。
-> - **分析方法** 历史考据、概念分析、因素[[Analytic Framework\|分析框架]]（Factorial Analysis）、类型学对比、思想史话语解读、长周期政策轨迹追踪（Longitudinal policy trajectory tracing）。
+> - **分析方法** 历史考据、概念分析、因素[[Analytic Framework\|分析框架]]（Factorial Analysis）、类型学对比、思想史[[Discourse|话语]]解读、长周期政策轨迹追踪（Longitudinal policy trajectory tracing）。
 > - **辅助技术** 史料版本校勘、跨国比较矩阵、历史分期年表、理论备忘录撰写、多重分析透镜整合（历史透镜、全球治理透镜与政策转移透镜）。
 
 ---

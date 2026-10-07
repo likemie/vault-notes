@@ -7,7 +7,7 @@ aliases:
 summary: "把世界想象为由枢纽中心和边缘区域构成流动结构的空间想象，用于解释知识经济中的集中、连接和不平等。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Creativity]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Discourse]]"
   - "[[Knowledge-Based Economy]]"
   - "[[National Competitive Advantage]]"
   - "[[Post-Fordism]]"
@@ -81,7 +82,7 @@ Moisio 借用 Jessop（2005）对"想象"（imaginaries）的分析——想象�
 > - **枢纽中心性** 大城市、[[Innovation Hub\|创新中心]]、大学城等特定场所被想象为价值创造的核心节点。政策关注的焦点是"特定场所、地点和集体主体在价值创造以及控制全球资金和人才流动中的角色"([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.27]])
 - **流动优先** 资金、人才和思想的全球自由流通被预设为经济活力的前提。国家、城市和区域面临的核心政策问题被重构为："如何管理全球流动性，从而如何将这些政治社区锚定到全球价值链中"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
 - **理想主体的建构** 创意创业者（creative entrepreneur）被塑造为枢纽与流动世界中的理想经济主体——"这一形象可以采取多种形式"——他们灵活、流动、富有[[Creativity|创造力]]，能够在全球枢纽城市之间自由穿梭和工作([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
-- **多样化的空间表述** 集群（clusters）、创意城市、创业城市、智慧城市、学习区域、创新中心、快乐城市、[[Innovation Ecosystem|创新生态系统]]等概念，从学术话语扩散为全球城市政策的通用词汇，"已成为[[Knowledge-Based Economy|知识经济]]空间组织的具体表述"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
+- **多样化的空间表述** 集群（clusters）、创意城市、创业城市、智慧城市、学习区域、创新中心、快乐城市、[[Innovation Ecosystem|创新生态系统]]等概念，从学术[[Discourse|话语]]扩散为全球城市政策的通用词汇，"已成为[[Knowledge-Based Economy|知识经济]]空间组织的具体表述"([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
 - **全球化的悖论** 枢纽与流动想象表面上强调无国界的全球流动，但正如 Porter（1990）指出的——"虽然竞争全球化看似使国家变得不那么重要，但实际上使其更加重要"——国家在创造和维护枢纽中扮演着不可替代的角色([[Argument_Moisio_2022_Springer|Moisio, 2022, p.27]])
 
 ---
@@ -137,7 +138,7 @@ Moisio 借用 Jessop（2005）对"想象"（imaginaries）的分析——想象�
 > [!example]
 > - [[Fixity-Motion Tension]] — Harvey 的固着-流动张力是 枢纽与流动想象的结构性根源：枢纽对应资本对空间固着的需求，流动对应资本的全球流动性
 - [[Geopolitical Subject]] — 枢纽与流动想象所要求的主体类型：装备上特定技能、行为和"空间心态"，能够在全球枢纽之间自由流动并服务于知识密集型资本积累的人形集合
-- [[Critical Geopolitics]] — 批判地缘政治学为分析 枢纽与流动想象如何被话语建构和政治想象生产提供了理论工具
+- [[Critical Geopolitics]] — 批判地缘政治学为分析 枢纽与流动想象如何被[[Discourse|话语]]建构和政治想象生产提供了理论工具
 
 ---
 

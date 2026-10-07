@@ -8,7 +8,7 @@ summary: "Bartlett 与 Vavrus 提出的突破传统封闭单元的比较研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 41
+method_related_count: 42
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Variable]]"
   - "[[International Education Hubs]]"
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Graduate Attributes]]"
   - "[[Data Infrastructure]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-19
-updated: 2026-10-04
+updated: 2026-10-07
 ---
 
 # Comparative Case Study
@@ -136,7 +137,7 @@ updated: 2026-10-04
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - 分析**边界模糊、多尺度交织**的现象——如[[International Education Hubs|国际教育枢纽]]、跨境高等教育、[[GATS and Trade in Education Services|教育服务贸易]]与国际组织规约在地方的转化。
->   - 考察**全球与本土辩证互动**——当研究旨在揭示全球同质化话语如何在微观学校遭遇变通、抵制与重构时（如 Arnove 2009 评述的多国比较案例）。
+>   - 考察**全球与本土辩证互动**——当研究旨在揭示全球同质化[[Discourse|话语]]如何在微观学校遭遇变通、抵制与重构时（如 Arnove 2009 评述的多国比较案例）。
 >   - 跨越国家内部（地方与国家）与国家外部（跨国与区域治理）的多标度制度与治理变迁研究。
 > - **谨慎使用**
 >   - 仅依赖二手政策文本作为单一数据来源的研究，极易退化为案头[[Documentary Analysis|文献分析]]，无法充分激活多尺度与田野互证的优势（[[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp. 212–213]]）。

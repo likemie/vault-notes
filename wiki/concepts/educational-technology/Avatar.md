@@ -8,7 +8,7 @@ aliases:
 summary: "在数字虚拟世界与交互式学习环境中代表人类用户或人工智能系统的可配置拟人化数字表征；在质性研究中作为投射技术与身份实验媒介，在人机交互与智能探究中作为提供自适应脚手架与即时诊断的拟人教学导师。"
 type: concept
 domain: "educational-technology"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Computer Simulation]]"
   - "[[Construct]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Presence]]"
   - "[[Informed Consent]]"
   - "[[Research Ethics]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Avatar
@@ -187,7 +188,7 @@ updated: 2026-09-22
 > - **第三阶段：质性教育研究中的方法论转向（2010s）**
 >   科恩等人（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011]]）将化身转化为教育研究的数据采集工具，结合[[Projection Technique\|投射技术]]与[[Ideal Speech Situation\|理想言说情境]]，运用于学生公民身份认同与敏感社会价值观探索。
 >
-> - **第四阶段：智能自适应探究与人机协同教学导师（2020s 至今）**
+> - **第四阶段：智能自适应探究与[[Man-Computer Symbiosis|人机协同]]教学导师（2020s 至今）**
 >   随着计算机视觉与智能代理发展，化身拓展为具备认知诊断能力的拟人化教学导师（Pedagogical Avatar），在混合现实与科学实验室中自适应提供提问支架，促进概念的主动发现（Yannier et al., 2020; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023]]）。
 
 ---

@@ -6,10 +6,10 @@ aliases:
 summary: "在人机协同探究中，生成式人工智能通过生成具有不完备性、拟人化修辞、逻辑跳跃或需辨析的暂定内容，主动激发学习者的认识论警觉与批判性核验本能，促使其从被动认知卸载转向深度审问与多源求证的教学中介角色。"
 type: concept
 domain: "educational-technology"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/artificial-intelligence
   - theme/epistemic-cognition
@@ -17,6 +17,7 @@ tags:
   - theme/instructional-design
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemological Vigilance]]"
   - "[[Scaffolding]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Epistemic Provocateur
@@ -64,7 +65,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> [[Epistemology|认识论]]挑衅者（Epistemic Provocateur）是指在人机协同探究与[[Knowledge Building Theory|知识建构]]情境中，[[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, GenAI）超越单纯的“信息提供者”与“对话伙伴”定位，通过生成具有不完备性、表层顺滑但暗含因果断裂、拟人化修辞或分类缺陷的暂定性内容，反向触发并激活学习者的[[Epistemological Vigilance|认识论警觉]]（Epistemic Vigilance），迫使学生主动实施审问、求证、批判与迭代重构的教学中介生态位。[[Argument_Han_Gutierez_2026_IJSE|(Han & Gutierez, 2026, pp. 6–7, 22–24)]]
+> [[Epistemology|认识论]]挑衅者（Epistemic Provocateur）是指在[[Man-Computer Symbiosis|人机协同]]探究与[[Knowledge Building Theory|知识建构]]情境中，[[Generative Artificial Intelligence|生成式人工智能]]（Generative Artificial Intelligence, GenAI）超越单纯的“信息提供者”与“对话伙伴”定位，通过生成具有不完备性、表层顺滑但暗含因果断裂、拟人化修辞或分类缺陷的暂定性内容，反向触发并激活学习者的[[Epistemological Vigilance|认识论警觉]]（Epistemic Vigilance），迫使学生主动实施审问、求证、批判与迭代重构的教学中介生态位。[[Argument_Han_Gutierez_2026_IJSE|(Han & Gutierez, 2026, pp. 6–7, 22–24)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 重新界定算法在教学中的认知功能：人工智能偶尔出现的错误、片面罗列与表征失真并非教学事故，而在显性[[Scaffolding|教学支架]]引导下被转化为打破思维惰性、激活批判性质询的“认知催化剂”。
@@ -150,7 +151,7 @@ updated: 2026-09-22
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **缺陷促学论** | 算法不完备输出充当认识论挑衅者，能有效激发[[Epistemological Vigilance\|认识论警觉]]与批判求证 | 人机协同科学探究、提示词工程与论证教学 | Han & Gutierez; Zhao et al.; Li et al. |
+> | **缺陷促学论** | 算法不完备输出充当认识论挑衅者，能有效激发[[Epistemological Vigilance\|认识论警觉]]与批判求证 | [[Man-Computer Symbiosis\|人机协同]]科学探究、提示词工程与论证教学 | Han & Gutierez; Zhao et al.; Li et al. |
 > | **支架约束论** | 挑衅者角色依赖显性学科标准、反思提示与协作规范协同保障 | 课堂人机协作设计、防范认知卸载与智能素养培育 | Han & Gutierez; Barzilai et al.; Park |
 
 ---

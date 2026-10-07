@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Growth]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Learning Economy]]"
 related_theories:
   - "[[Theory of Mind]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Brookings Institution
@@ -132,7 +133,7 @@ updated: 2026-10-05
 > - **奠定科技政策与产业组织实证分析[[Paradigm|范式]]** [[John E. Tilton|蒂尔顿]]的布鲁金斯专著直接启示了后续关于政府采购、需求拉动与产业竞争动态的研究（如 Schnee 1978; Mowery 2011），确立了公共采购通过扶植新进入者防止寡头锁定的经济学[[Analytic Framework|分析框架]]。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 8)]]
 > - **打破教育政策狂热中的单向共识迷思** 充当了政策推进过程中的“学术刹车片”，使政策制定者与学术界深刻意识到：科学研究本身绝非无争议的真理机器，而是充斥着模型设定与取样视角的深刻分歧。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 19, 21–22)]]
 > - **倒逼支持派学者完善计量因果模型** 其严苛的“相关系数为零”结论，直接迫使[[William H. Schmidt|威廉·H·施密特]]（William H. Schmidt）等支持派学者重新审视旧有数据，引入贫困率控制与[[Hierarchical Linear Model|多层线性模型]]，极大地推进了教育政策分析的方法严谨度。
-> - **重塑公共循证政策话语标准** 坚守统计严密性，抵制政客将相关性草率等同于[[Causality|因果性]]的政策修辞，提升了国会产业与教育听证的学术理性。
+> - **重塑公共循证政策[[Discourse|话语]]标准** 坚守统计严密性，抵制政客将相关性草率等同于[[Causality|因果性]]的政策修辞，提升了国会产业与教育听证的学术理性。
 
 ---
 

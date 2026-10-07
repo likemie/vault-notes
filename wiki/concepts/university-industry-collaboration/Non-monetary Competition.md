@@ -7,7 +7,7 @@ aliases:
 summary: "学术场域中以声望、认可和区隔等 Bourdieu 意义上的符号商品为核心通货的竞争形式，区别于以价格和利润驱动的常规市场，用于解释排名和评估为何能驱动大学行为"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[New Public Management]]"
   - "[[Sociology of Valuation and Evaluation]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Academic Capitalism]]"
   - "[[Post-structuralism]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-09-16
+updated: 2026-10-07
 ---
 
 # Non-monetary Competition
@@ -89,7 +90,7 @@ updated: 2026-09-16
 
 ### 评估与赋值社会学
 
-Lamont（2012）概括的"[[Sociology of Valuation and Evaluation|评估与赋值社会学]]"（sociology of valuation and evaluation）帮助揭示话语竞争的过程，特别是评估、量化绩效测量和个体与机构序数排名的兴起。该领域研究强调学术质量管理中竞争加剧的非预期负面效应——如引用索引不仅选择性极强地测量研究绩效（Münch, 2013, pp.149–152），还可能通过触发研究者追求狭窄策略而阻碍科学进步（Rogge, 2015, pp.209f; Fang et al., 2012）([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.798]])。
+Lamont（2012）概括的"[[Sociology of Valuation and Evaluation|评估与赋值社会学]]"（sociology of valuation and evaluation）帮助揭示[[Discourse|话语]]竞争的过程，特别是评估、量化绩效测量和个体与机构序数排名的兴起。该领域研究强调学术质量管理中竞争加剧的非预期负面效应——如引用索引不仅选择性极强地测量研究绩效（Münch, 2013, pp.149–152），还可能通过触发研究者追求狭窄策略而阻碍科学进步（Rogge, 2015, pp.209f; Fang et al., 2012）([[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, p.798]])。
 
 ## 与新封建等级的关系
 

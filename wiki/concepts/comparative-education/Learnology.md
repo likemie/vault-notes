@@ -8,7 +8,7 @@ aliases:
 summary: "20 世纪末英国比较教育学派开创的微观研究范式，由帕特丽夏·布罗德富特系统阐发，主张将比较研究重心从宏观体制与财政政策下沉至课堂场域中学习者的主体体验、心智过程与评价认同互动，与罗宾·亚历山大的“比较教学论”共同构成比较教育微观转向的双翼。"
 type: concept
 domain: "comparative-education"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ tags:
   - region/uk
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Construct]]"
   - "[[Positivism]]"
   - "[[Pedagogical Subject]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Learnology
@@ -60,7 +61,7 @@ updated: 2026-10-01
 ## 定义
 
 > [!def] 核心定义
-> **微观学习学（Learnology，亦作 Learneology）**是 20 世纪晚期英国比较教育学派开创的微观[[Qualitative Research|质性研究]][[Paradigm|范式]]，由英国学者[[Patricia Broadfoot|帕特丽夏·布罗德富特]]（Patricia Broadfoot, 1999）正式提出。该范式主张将跨文化比较的视线从宏观的国家学制、财政投入与标准化测验产出，转向教育活动最核心的发生地——课堂，系统考察处于特定文化与社会契约之中的学生如何建构学习者身份、体验评价话语并实现心智发展，致力于在微观深度上复兴比较教育的人文关怀。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
+> **微观学习学（Learnology，亦作 Learneology）**是 20 世纪晚期英国比较教育学派开创的微观[[Qualitative Research|质性研究]][[Paradigm|范式]]，由英国学者[[Patricia Broadfoot|帕特丽夏·布罗德富特]]（Patricia Broadfoot, 1999）正式提出。该范式主张将跨文化比较的视线从宏观的国家学制、财政投入与标准化测验产出，转向教育活动最核心的发生地——课堂，系统考察处于特定文化与社会契约之中的学生如何建构学习者身份、体验评价[[Discourse|话语]]并实现心智发展，致力于在微观深度上复兴比较教育的人文关怀。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将“学习”（Learning）本身作为跨国跨文化比较的核心[[Construct|构念]]，聚焦学生在微观互动中如何赋予学习以个人与社会意义。
@@ -79,7 +80,7 @@ updated: 2026-10-01
 > [!contrast-table] 学习学与相关学术进路的维度辨析
 > | 辨析维度 | 微观学习学（Learnology） | [[Comparative Pedagogy\|比较教学论]]（Comparative Pedagogy） | 传统宏观比较教育（Macro Comparative Education） |
 > |:-----|:-----|:-----|:-----|
-> | **核心视角** | 学习者中心；学习体验与身份建构 | 教师与课堂互动中心；教学思维与文化话语 | 国家与体制中心；学制结构与[[Policy Borrowing\|政策借用]] |
+> | **核心视角** | 学习者中心；学习体验与身份建构 | 教师与课堂互动中心；教学思维与文化[[Discourse\|话语]] | 国家与体制中心；学制结构与[[Policy Borrowing\|政策借用]] |
 > | **微观焦点** | 评价如何形塑学生认同、学习动力与意义赋予 | 教学常规、师生对话、时间空间与任务设计 | 普及率、财政拨款比例、考试选拔分流机制 |
 > | **代表学者** | [[Patricia Broadfoot\|帕特丽夏·布罗德富特]] | [[Robin Alexander\|罗宾·亚历山大]] | [[Harold Noah\|哈罗德·诺亚]]、[[George Psacharopoulos\|乔治·普萨哈罗普洛斯]] |
 > | **学术旨趣** | 理解跨文化学习者的人性与尊严 | 揭示教学法背后的深层文化精神与教育契约 | 为国家人力规划与宏观治理提供决策参考 |
@@ -90,7 +91,7 @@ updated: 2026-10-01
 
 > [!feature] 比较学习学的核心分析构件
 > - **学习者主体性与认同建构** 关注在不同文化与制度形态下，儿童如何将自己建构为“成功者”或“失败者”，考察文化价值对学习[[Self-Efficacy|自我效能感]]的根本塑造。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
-> - **评价话语的文化中介机制** 剖析课堂测试、口头反馈与档案记录如何作为权力和文化价值的微观载体，影响学习者的情绪体验与认知投入。
+> - **评价[[Discourse|话语]]的文化中介机制** 剖析课堂测试、口头反馈与档案记录如何作为权力和文化价值的微观载体，影响学习者的情绪体验与认知投入。
 > - **校内外文化精神的有机共鸣** 继承[[Michael Sadler|迈克尔·萨德勒]]的深层精神力量学说，认为潜沉于社区、家庭与历史传统中的无形力量直接渗透进儿童的学习日常，支配着学习行为的实际发生。
 
 ---

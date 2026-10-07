@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch25"
 argument_display_title: "Research Methods in Education · Ch25"
 argument_kind: "book-chapter"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Nature of Science]]"
   - "[[Epistemology]]"
+  - "[[Discourse]]"
   - "[[Research Purpose]]"
   - "[[Scale in Higher Education]]"
   - "[[Conatus]]"
@@ -532,7 +533,7 @@ Fransella（2003, pp. 455–457）提供了该理论所有组成部分的简明�
 > - 使用主成分表征，对每位学生和讲师分别追踪地质学和地理学两个元素在学年首末的位置变化
 > - 仅仅学习科学内容并未增进对科学社会角色的理解，也未帮助学生在面对社会的科学议题时做出良好的公共决策（pp. 12–13）
 
-> [!case] Lui & Lee（2005）：计算机中介同伴话语中的概念理解
+> [!case] Lui & Lee（2005）：计算机中介同伴[[Discourse|话语]]中的概念理解
 > **研究设计**
 > - **参与者** 12名研究生加课程教师
 > - **元素与构念** 六种数据库设计方法论（元素，由研究者提供），11个数据库设计概念（构念，由研究者提供）

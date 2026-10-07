@@ -9,7 +9,7 @@ aliases:
 summary: "一种挑战经典实证主义绝对确定性与机械决定论的研究哲学立场，主张知识具有本质上的推测性、理论负荷性与可错性；在承认客观实在持续存在的同时包容多元实在与情境阐释，倡导以非普适探索性假说推进科学反思与广义人文探究。"
 type: concept
 domain: "educational-philosophy"
-related_count: 67
+related_count: 68
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Variable]]"
   - "[[Champ]]"
+  - "[[Discourse]]"
   - "[[Hypothesis]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Scientific Method]]"
@@ -95,7 +96,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Postpositivism
@@ -149,7 +150,7 @@ updated: 2026-10-01
 > | **[[Ontology\|本体论假设]]** | 幼稚实在论：客观实在独立且遵循不可变的确定性规律 | [[Critical Realism\|批判实在论]]：客观实在存在，但受人类认知局限只能被不完美或概率性地把握 | 相对主义实在论：实在由社会历史互动中的个体与群体主观赋予意义而生成 | 反本质主义：否定独立实在与[[Grand Theory\|元叙事]]，实在呈现为多重碎片化的话语表征 |
 > | **认识论关系** | 主客绝对二元分离，研究者如同冷峻客观的中立镜像 | 观察带有理论与价值负荷，研究者通过严格反思与误差控制逼近真理 | 主客交往共生，研究者与参与者共同建构理解 | 话语权力建构，知识是特定权力[[Champ\|场域]]中被生产和特权化的产物 |
 > | **真理与知识性质** | 普遍不变法则，知识具有累积性与终极证实性 | 知识具有推测性、[[Falsification\|可证伪性]]与可错性，经由猜测与反驳持续修正 | 地方性、语境化与多元阐释，关注经验复杂性而非普遍归约 | 相对主义与地方性视角，拒斥任何普遍真理宣称与宏大叙事 |
-> | **事实与价值关系** | 严格的事实与价值分离（[[Value Neutrality\|价值中立]]） | 事实与价值不可分离，研究由价值观与范式共同体驱动，需严格程序反思 | 价值是理解的内在构成部分，研究者主动公开自身前设与立场 | 价值与权力纠缠共生，不存在超然于权力话语之外的中立事实 |
+> | **事实与价值关系** | 严格的事实与价值分离（[[Value Neutrality\|价值中立]]） | 事实与价值不可分离，研究由价值观与范式共同体驱动，需严格程序反思 | 价值是理解的内在构成部分，研究者主动公开自身前设与立场 | 价值与权力纠缠共生，不存在超然于权力[[Discourse\|话语]]之外的中立事实 |
 > | **方法论与逻辑路径** | [[Hypothesis\|假设]]演绎法、大样本调查、受控实验与统计回归 | 修正的假设演绎法、准实验、[[Mixed Methods Research\|混合方法]]多重理据、非普适的中程探索性假说 | 质性归纳法、[[In-depth Interview\|深度访谈]]、[[Participant Observation\|参与观察]]、[[Narrative Research\|叙事研究]]与[[Phenomenology\|现象学]]分析 | 文本解构、[[Discourse Analysis\|话语分析]]、谱系学考掘与反讽叙事 |
 > | **主要论敌与批评** | 形而上学思辨与主观体验 | 经典实证主义的教条确定性与绝对因果律；后现代的无边界相对主义 | 实证主义的去情境化与主体客体化 | 启蒙现代性的宏大叙事、理性极权与普遍[[Disciplina and Doctrina\|规训]]体系 |
 
@@ -165,7 +166,7 @@ updated: 2026-10-01
 > - **非普适[[Working Hypothesis|探索性假说]]与中程归纳（Limited Working [[Hypothesis\|hypotheses]]）** 超越普遍永恒铁律与个殊不可比的虚假二元对立：学者能够从个殊、具体与经验的历史事实中归纳提炼中程假说，这些非普适探索性假说可投射至其他类似情境中接受检验与反哺阐释，在特殊与一般之间建立双向解释循环。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 56)]]
 > - **多元实在论与主观诠释双重取向（Pluralist Realism & Interpretive Affinity）** 后实证范式在实在观上分化出两大互补支流：一是坚持客观实在持续存在但承认其具有多重共存层面的多元实在论；二是与[[Phenomenology\|现象学]]及诠释学有深厚亲缘性、主张主体多重诠释处于核心地位的主观诠释取向。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, pp. 733–734)]]
 > - **系统性误差控制与多重理据审视（Systematic Error-checking & Multiple Warrants）** 在量化与[[Mixed Methods Research\|混合方法]]实践中，后实证主义承认测量与证据总是不完美的，因此强调严格审查方法偏差、设立[[Reliability\|信度]]效度规范，并通过多重测量、准实验控制与[[Triangulation\|三角互证]]建立多重理据。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, p. 7)]]
-> - **广义科学观与人文本体锚定（Wissenschaft & Anthropocentric [[Paideia]]）** 打破战后英美经验实证话语对“科学”（*Science*）概念的技术性窄化，恢复德语广义科学（*Wissenschaft*）与希腊语理性求知（*Episteme*）的博大学统，确立以人（*anthropos*）和全人[[Bildung\|教化]]（*paideia*）为中心的终极价值关怀。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
+> - **广义科学观与人文本体锚定（Wissenschaft & Anthropocentric [[Paideia]]）** 打破战后英美经验实证[[Discourse|话语]]对“科学”（*Science*）概念的技术性窄化，恢复德语广义科学（*Wissenschaft*）与希腊语理性求知（*Episteme*）的博大学统，确立以人（*anthropos*）和全人[[Bildung\|教化]]（*paideia*）为中心的终极价值关怀。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
 
 后实证主义展示了从批判实证霸权到开辟多元探究路径的认识论流变。
 
@@ -208,7 +209,7 @@ updated: 2026-10-01
 ### 命题二　后实证认识论破除狭隘实证科学垄断并将广义科学范畴向人文探究开放
 
 > [!concept-lens] 科学概念溯源与跨文化认识论体系重建
-> 该维度关注卡扎米亚斯与当代科学哲学家如何打破战后英美[[Empiricism\|经验主义]]对“科学”话语的技术性垄断，恢复欧陆博大[[Geisteswissenschaften|人文科学]]传统的合法地位。
+> 该维度关注卡扎米亚斯与当代科学哲学家如何打破战后英美[[Empiricism\|经验主义]]对“科学”[[Discourse|话语]]的技术性垄断，恢复欧陆博大[[Geisteswissenschaften|人文科学]]传统的合法地位。
 
 > [!claim] [[Andreas Kazamias\|Kazamias, A.]] M.
 > **德语 Wissenschaft 与希腊语 Episteme 破除英语 Science 的实证霸权** 20 世纪 60 年代实证学派对历史与哲学比较传统的贬斥，根源于其将“科学”（Science）狭隘垄断为自然科学与数理统计实证主义的语义霸权。在欧洲大陆思想史中，德语词 *Wissenschaft* 与古希腊词 *Episteme* 始终指代统辖自然、社会、文化与人文学科的系统化、规范化理性知识体系。一旦突破英语 *Science* 的技术狭义化，关注制度历史演化根由与文化意涵的历史比较探究，完全符合规范科学的严密标准。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 56)]]
@@ -279,7 +280,7 @@ updated: 2026-10-01
 > > 争论焦点在于：放弃实证主义绝对确定性后，是否必须滑向“怎么都行”（Anything goes）的认识论相对主义？
 > > 
 > > - **后实证主义阵营（Popper, 1968; Phillips & Burbules, 2000）** 坚持客观实在独立存在，主张通过经验反驳、方法反思与跨情境有限检验逐步逼近真实，坚决抵制虚无主义。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 732)]]
-> > - **激进后现代与后结构学派（Jameson, 1991; Derrida）** 认为后实证主义仍未彻底摆脱对[[Grand Theory\|宏大叙事]]与真理幽灵的依恋，任何自称“逼近真理”的努力本质上仍是在维系特定话语霸权。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, pp. 752–759)]]
+> > - **激进后现代与后结构学派（Jameson, 1991; Derrida）** 认为后实证主义仍未彻底摆脱对[[Grand Theory\|宏大叙事]]与真理幽灵的依恋，任何自称“逼近真理”的努力本质上仍是在维系特定[[Discourse|话语]]霸权。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, pp. 752–759)]]
 > 
 > > [!axis] 还原论离散[[Variable\|变量]]检验 vs [[Complexity Theory\|复杂适应系统]]整体[[Emergence\|涌现]]
 > > 争论焦点在于：面对多变互联的教育世界，研究应聚焦于可操作变量的因果离析，还是系统整体关系的动态把握？

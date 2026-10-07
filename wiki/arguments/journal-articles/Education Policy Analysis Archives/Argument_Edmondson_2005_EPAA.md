@@ -26,6 +26,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Discourse]]"
   - "[[Competitiveness]]"
   - "[[Decodification]]"
   - "[[Definition of Terms]]"
@@ -75,7 +76,7 @@ title: "Argument_Edmondson_2005_EPAA"
 argument_key: "Argument_Edmondson_2005_EPAA"
 argument_display_title: "Policymaking in education: Understanding influences on the Reading Excellence Act"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -136,7 +137,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **政策文献分析**<br>[[Documentary Analysis]] | 系统对比《[[Reading Excellence Act\|卓越阅读法案]]》众议院初版法案（H.R. 2614）与参议院最终妥协版本的立法文本条文，重点对比分析“阅读”与“科学研究”的法定词汇变化。 |
-> | **听证会与话语追踪** | 细致审查国会[[House Committee on Education and the Workforce\|众议院教育与劳动力委员会]]听证会档案，深入剖析关键证人（如里德·里昂）的发言修辞及其与法条起草的对应关系。 |
+> | **听证会与[[Discourse\|话语]]追踪** | 细致审查国会[[House Committee on Education and the Workforce\|众议院教育与劳动力委员会]]听证会档案，深入剖析关键证人（如里德·里昂）的发言修辞及其与法条起草的对应关系。 |
 > | **关键行动者通信记录** | 调取[[International Reading Association\|国际阅读协会]]华盛顿办事处执行主任理查德·朗（Richard Long）关于法案幕后游说的详细证词与通信记录，还原法案词汇修改的闭门博弈情境。 |
 
 > [!sample-panel]- 样本与材料快照
@@ -272,7 +273,7 @@ issuing_organization: ""
 > - **[[Elite Theory|精英理论]]（Elite Theory）**
 >   同质化专家与权力精英掌控议程。诊断：借由官方报告生产垄断性共识，剥夺公众自决权。（pp. 3, 9–10）
 
-> [!case] 案例分析：国家专家委员会（NRC 与 [[National Reading Panel|NRP]]）对科学共识的话语垄断（Schumpeter; p. 10）
+> [!case] 案例分析：国家专家委员会（NRC 与 [[National Reading Panel|NRP]]）对科学共识的[[Discourse|话语]]垄断（Schumpeter; p. 10）
 > - **精英民主与议程控制** [[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter）揭示，在精英民主体制下，普通公民往往无法自主决定公共议程，议程总是由少数社会精英预先设计并强加给社会。国家权力通过设立高规格专家委员会生产看似中立客观的学术共识，从而在合法性层面上彻底压制异见。
 > - **专家构成的高度同质化** 国家研究委员会（NRC）于 1998 年发布的《预防幼童阅读困难》报告，以及随后国会依《卓越阅读法案》授权设立的国家阅读委员会（National Reading Panel, NRP），成员绝大多数来自量化心理学与认知医学领域。（p. 10）
 > - **范式排他性与科学标签化** 官方支持的权威委员会以总结唯一科学真理的面目出现，系统性地把[[Qualitative Research|质性研究]]、[[Action Research|行动研究]]、儿童文学与社会文化学派的学者排斥在决策范围之外。特定群体的意识形态偏好被包装为全社会的客观标准，使得教师和学校只要偏离拼读路线，就会被扣上反科学的标签。

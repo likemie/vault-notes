@@ -8,7 +8,7 @@ aliases:
 summary: "行动者能够熟练掌握并运用特定领域的专门语言与概念体系进行有效沟通、知识转译与理性论辩，但缺乏在实践现场直接开展实际操作的具身经验与默会手艺的专门知识类型。"
 type: concept
 domain: "sociology-of-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Reliability]]"
   - "[[Educational Brokerage Agency]]"
+  - "[[Discourse]]"
   - "[[Unit of Analysis]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Interactional Expertise
@@ -55,7 +56,7 @@ updated: 2026-09-22
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向脱离现场具体物理操作与具身手艺、以语言和符号体系为媒介的专门知识与转译说服能力。
-> - **用途** 帮助研究者透视政策制定者、科研人员、智库与教育[[Educational Brokerage Agency\|知识中介机构]]在知识流通过程中的合法性建构与话语权。
+> - **用途** 帮助研究者透视政策制定者、科研人员、智库与教育[[Educational Brokerage Agency\|知识中介机构]]在知识流通过程中的合法性建构与[[Discourse|话语]]权。
 > - **边界** 不等于在现场拥有丰富实践解决能力的[[Contributory Expertise\|贡献型专长]]，亦不等于缺乏领域专门语言理解力的一般大众常识。
 
 > [!citation-card] 交互型专长的技术客观性与说服特质
@@ -74,7 +75,7 @@ updated: 2026-09-22
 > [!contrast-table] 专长类型辨析
 > | 维度 | 本概念（[[Interactional Expertise]]） | [[Contributory Expertise\|贡献型专长（Contributory Expertise）]] |
 > |------|--------|----------------|
-> | 知识媒介 | 符号、专业话语、概念框架与统计抽象 | 默会手艺、具身经验、受训判断力与现场直觉 |
+> | 知识媒介 | 符号、专业[[Discourse\|话语]]、概念框架与统计抽象 | 默会手艺、具身经验、受训判断力与现场直觉 |
 > | 合法性基石 | 论证说服力、方法学严谨性与技术客观性 | 实践成效、问题现场解决与情境适应性 |
 > | 典型行动者 | 学术研究者、政策顾问、中介机构经纪人、督导员 | 一线教师、学校管理者、临床专业工作者 |
 > | 局限性 | 容易脱离复杂的微观社会情境与偶发制约 | 地方性与情境依附性强，难以直接普遍化推广 |
@@ -113,7 +114,7 @@ updated: 2026-09-22
 > 围绕专长获得社会信任与制度授权的方式展开，揭示交互型专长与现场实操的分离。
 
 > [!claim] Collins & Evans
-> **说服与修辞构建的信任体系** 贡献型专家的合法性直接依托于其实践产出与现场操作成效，而交互型专家的信誉则高度取决于其如何富有说服力地表达、捍卫和推销其学术主张。他们通过强调自身的客观中立性与对公共利益的服务来赢得制度信任，并借由专业声誉与话语资本扩大影响力。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 8)]]
+> **说服与修辞构建的信任体系** 贡献型专家的合法性直接依托于其实践产出与现场操作成效，而交互型专家的信誉则高度取决于其如何富有说服力地表达、捍卫和推销其学术主张。他们通过强调自身的客观中立性与对公共利益的服务来赢得制度信任，并借由专业声誉与[[Discourse|话语]]资本扩大影响力。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 8)]]
 
 ---
 
@@ -145,7 +146,7 @@ updated: 2026-09-22
 > > 交互型专家在[[Policy Network\|政策网络]]中的膨胀是否正在侵蚀教育实践的专业自主与民主协商机制。
 > >
 > > - **Eyal（2019）** 技术官僚制倾向于依赖单一权威的社会图景，假定受过训练的交互型专家能为复杂现实提供确定性解法；而民主决策视角强调知识的争议性、暂存性与地方情境性，主张依靠多元视角的协作审议。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 8)]]
-> > - **Biesta（2007）** 批判基于“有效做法”的[[Evidence-Based Education\|循证教育]]将价值判断与目的审议缩减为狭隘的技术手段选择，赋予交互专家过度的话语统治权。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 7)]]
+> > - **Biesta（2007）** 批判基于“有效做法”的[[Evidence-Based Education\|循证教育]]将价值判断与目的审议缩减为狭隘的技术手段选择，赋予交互专家过度的[[Discourse|话语]]统治权。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 7)]]
 
 ---
 

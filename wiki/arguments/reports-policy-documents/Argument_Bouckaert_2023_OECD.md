@@ -7,7 +7,7 @@ title: "Argument_Bouckaert_2023_OECD"
 argument_key: "Argument_Bouckaert_2023_OECD"
 argument_display_title: "The assessment of students' creative and critical thinking skills in higher education across OECD countries: A review of policies and related practices (OECD Education Working Papers No"
 argument_kind: "report"
-argument_related_count: 113
+argument_related_count: 114
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Constructive Alignment]]"
   - "[[Authentic Assessment]]"
   - "[[Grandes Ecoles]]"
+  - "[[Discourse]]"
   - "[[Creativity Assessment]]"
   - "[[Critical Thinking Assessment]]"
   - "[[Assessment Backwash]]"
@@ -170,7 +171,7 @@ updated: 2026-09-18
 
 > [!concept-lens] 阅读透镜
 > - **对象** OECD 成员国高等教育系统的政策战略文本、国家资格框架、外部质量保障体系、大规模标准化考试以及[[Grandes Ecoles|大学校]]本评价实践。（pp. 4–8）
-> - **张力** 宏观政策话语对高阶思维能力的“高调倡导”与微观课堂教学中以事实回忆为主的传统考核之间的“松散耦合”（Loose Coupling）与制度脱节。（pp. 18–20, 25–29）
+> - **张力** 宏观政策[[Discourse|话语]]对高阶思维能力的“高调倡导”与微观课堂教学中以事实回忆为主的传统考核之间的“松散耦合”（Loose Coupling）与制度脱节。（pp. 18–20, 25–29）
 > - **贡献** 构建了促进高等教育[[Creativity Assessment\|创造力评价]]与[[Critical Thinking Assessment\|批判性思维评价]]的“五大政策杠杆”[[Analytic Framework\|分析框架]]，系统厘清了从标准化客观测试向校本[[Authentic Assessment\|真实性评价]]转型的实践路径与测量工具谱系，并提出了六大系统性未来行动策略。（pp. 20, 30–34）
 
 ---

@@ -11,7 +11,7 @@ aliases:
 summary: "由政府机构、研究理事会或多边金融机构预先限定研究主题、目标与方法学规程的资助模式，研究者通过竞标以合同工形式承接项目。在当代教育治理中，它推动了教育研究从学术自发探索（蓝天研究）向服务于赞助方政策目标与意识形态规训的系统性转变。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[New Public Management]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Variable]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Categorical Funding
@@ -100,7 +101,7 @@ updated: 2026-10-05
 > - **标书竞标与合同化劳动（Bidding & Contract Labour）** 学者围绕项目规格竞标，竞争焦点在于谁能更精准、迅速地达成资助方的目标诉求。
 > - **成果政策相关性与工具理性（Instrumental Policy Relevance）** 强制要求研究能够直接转化为行政指南、效益指标或预算优化模型。
 > - **数据控制权让渡与选择性披露（Selective Publication）** 资助方往往在协议中保留审查与推迟发布的特权，以防不利实证破坏政策正当性。(Sanday, 1993)
-> - **跨国多边委托与受雇专家共同体（Transnational Experts for Hire）** 国际多边金融机构通过长期大额委托合同，培植遵循华盛顿政策处方的跨国专家网络，垄断全球教育话语。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
+> - **跨国多边委托与受雇专家共同体（Transnational Experts for Hire）** 国际多边金融机构通过长期大额委托合同，培植遵循华盛顿政策处方的跨国专家网络，垄断全球教育[[Discourse|话语]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 
 > [!logic-map]- 分类资助的议程[[Disciplina and Doctrina|规训]]与政策闭环
 > ```mermaid
@@ -199,7 +200,7 @@ updated: 2026-10-05
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | Burgess (1993, pp. 36–37) | 英国经济与社会研究理事会（ESRC）及政府部门资助项目，1980–1990 年代 | 资助政策与科研预算历史档案追踪 | 政策导向分类资助占整体科研资助比例变动 | 政策导向项目预算急剧攀升，自由选题的[[Blue Skies Research\|蓝天研究]]资助份额遭受剧烈挤压 | — | 实证证明西方国家公共科研经费分配从学术主导向资助方主导的不可逆结构性转移 |
-> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 80)]] | [[World Bank\|世界银行]]教育部门全球委托研究项目，1980–2000 年代借贷周期 | 国际组织预算分配与专家聘用网络宏观分析 | 定向委托研究所涉预算规模与新古典理论模型采用率 | 长期高额预算专项资助定向委托项目，受雇专家共同体所产出的研究结论几乎 100% 依附于[[Human Capital Theory\|人力资本]]与收益率框架 | — | 说明多边金融机构如何借助巨额分类资助在全球范围内消灭学术竞争对手、独霸话语权 |
+> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 80)]] | [[World Bank\|世界银行]]教育部门全球委托研究项目，1980–2000 年代借贷周期 | 国际组织预算分配与专家聘用网络宏观分析 | 定向委托研究所涉预算规模与新古典理论模型采用率 | 长期高额预算专项资助定向委托项目，受雇专家共同体所产出的研究结论几乎 100% 依附于[[Human Capital Theory\|人力资本]]与收益率框架 | — | 说明多边金融机构如何借助巨额分类资助在全球范围内消灭学术竞争对手、独霸[[Discourse\|话语]]权 |
 
 ---
 

@@ -35,6 +35,7 @@ related_concepts:
   - "[[Growth]]"
   - "[[Ontology]]"
   - "[[Epistemic Cognition]]"
+  - "[[Discourse]]"
   - "[[Dialogue in Education]]"
   - "[[Operationalization]]"
   - "[[Epistemic Stances]]"
@@ -105,7 +106,7 @@ title: "Argument_Du_Yuan_2026_AIS"
 argument_key: "Argument_Du_Yuan_2026_AIS"
 argument_display_title: "Epistemic dependence in AI-mediated learning"
 argument_kind: "journal-article"
-argument_related_count: 68
+argument_related_count: 69
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -152,7 +153,7 @@ issuing_organization: ""
 > | **[[Epistemic Injustice\|认识不正义理论]]**<br>Epistemic Injustice | 米兰达·弗里克（Miranda Fricker）与伊丽莎白·安德森（Elizabeth Anderson）阐明知识评判中的权力不对等与制度排斥，结合[[Growth\|成长]]性[[Epistemic Injustice\|认识不正义]]分析算法对多元地方性知识与弱势群体发展机会的压制。（pp.7–8） |
 
 > [!warrant]- 理论如何支撑论证
-> 社会认识论确立了依赖是求知过程的[[Ontology\|本体论]]前提，从而驳斥了要求学生彻底脱离技术以达致技术纯洁性的教条主义设想；[[Extended Mind Theory\|延展心智理论]]进一步为认知卸载提供了辩护空间，但同时划定了清晰边界：唯有当学习者保留对人机耦合的有效控制、理解系统输入并能独立复现核心逻辑时，工具整合才具有发展正当性；[[Epistemic Cognition\|认识论认知]]理论深入微观心智机制，揭示出若算法直接给出终局判定，学习者将因丧失认知挣扎而无法建立批判性鉴别力；认识正义理论则将视阈从微观人机互动拉升至宏观结构，证明技术中介的权威并非中立产物，必须依托制度性分布式责任与知识多样性保障，防止技术系统隐蔽再生产主流阶层的话语特权。（pp.2–8）
+> 社会认识论确立了依赖是求知过程的[[Ontology\|本体论]]前提，从而驳斥了要求学生彻底脱离技术以达致技术纯洁性的教条主义设想；[[Extended Mind Theory\|延展心智理论]]进一步为认知卸载提供了辩护空间，但同时划定了清晰边界：唯有当学习者保留对人机耦合的有效控制、理解系统输入并能独立复现核心逻辑时，工具整合才具有发展正当性；[[Epistemic Cognition\|认识论认知]]理论深入微观心智机制，揭示出若算法直接给出终局判定，学习者将因丧失认知挣扎而无法建立批判性鉴别力；认识正义理论则将视阈从微观人机互动拉升至宏观结构，证明技术中介的权威并非中立产物，必须依托制度性分布式责任与知识多样性保障，防止技术系统隐蔽再生产主流阶层的[[Discourse|话语]]特权。（pp.2–8）
 
 ---
 

@@ -9,7 +9,7 @@ summary: "随机效应元分析中衡量超出抽样误差之外的初级研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Study Population and Sample]]"
   - "[[Hypothesis]]"
+  - "[[Discourse]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Between-Study Variance
@@ -111,7 +112,7 @@ flowchart TD
 ## 统计功能与影响机制
 
 > [!feature] $\tau^2$ 对[[Meta-analysis\|元分析]]推断的核心调节作用
-> - **权重再平衡（Weight Leveling）** 当 $\tau^2$ 较大时，各研究的随机权重 $w_i^* = \frac{1}{v_i + \tau^2}$ 趋于相等，有效防止单一大样本研究垄断合并结论，赋予小样本研究适度的话语权。
+> - **权重再平衡（Weight Leveling）** 当 $\tau^2$ 较大时，各研究的随机权重 $w_i^* = \frac{1}{v_i + \tau^2}$ 趋于相等，有效防止单一大样本研究垄断合并结论，赋予小样本研究适度的[[Discourse|话语]]权。
 > - **[[Standard Error\|标准误]]扩张与保守推断** 随机效应合并估计量的方差为 $\text{Var}(\hat{\mu}) = \frac{1}{\sum w_i^*}$。$\tau^2$ 的存在使得合并[[Confidence Interval\|置信区间]]展宽，反映了外推至更广总体的真实不确定性。
 > - **[[Prediction Interval\|预测区间]]构建基石** 在估计未来一项同类新研究的潜在效应范围时，$\tau^2$ 提供了个体研究效应离散度的直接测度。
 

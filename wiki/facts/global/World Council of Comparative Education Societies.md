@@ -11,9 +11,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: academic-association
 headquarters: "Paris, France / Ottawa, Canada"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Global Citizenship]]"
   - "[[Epistemology]]"
+  - "[[Discourse]]"
   - "[[Champ]]"
   - "[[Growth]]"
 related_theories:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # World Council of Comparative Education Societies
@@ -101,7 +102,7 @@ updated: 2026-10-01
 > [!concept-lens] 全球学术治理中的“双重会员制”与欧洲地位
 > [[Wolfgang Mitter|沃尔夫冈·米特]]（[[Wolfgang Mitter]]）在总结欧洲学术学会演变时专门指出，欧洲比较教育界在 WCCES 内部呈现出独特的“平行/双重会员制”（parallel membership）：
 > - 欧洲学者既通过泛欧区域学会（[[Comparative Education Society in Europe|CESE]]）成为 WCCES 的组成板块，同时又通过各自独立的国家学会（如英国学会、德国学会、西班牙学会等）在 WCCES 享有独立代表权；
-> - 这种表面的“代表资格重叠”（duplication）从未引发管辖冲突，相反，它在后殖民与全球化时代**极大地巩固和放大了欧洲学者在世界比较教育最高学术讲坛上的话语权与理论领导力**，确保了欧洲坚守的以学科为本的理论传统不被单纯的大型量化测评或行政技术官僚主义所淹没。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
+> - 这种表面的“代表资格重叠”（duplication）从未引发管辖冲突，相反，它在后殖民与全球化时代**极大地巩固和放大了欧洲学者在世界比较教育最高学术讲坛上的[[Discourse|话语]]权与理论领导力**，确保了欧洲坚守的以学科为本的理论传统不被单纯的大型量化测评或行政技术官僚主义所淹没。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
 
 > [!citation-card] 爱泼斯坦与拉斯特论世界学会联合会与学科国际化扩展
 > 欧文·爱泼斯坦（Erwin Epstein, 1981）将比较教育学走出欧美核心圈的过程界定为“比较教育的国际化”（internationalization of comparative education）。这一领域的跨国扩展，最生动地体现在 1970 年成立的世界比较教育学会联合会（WCCES）的壮大历程中——从最初以欧美少数社团为主，稳步发展为囊括各大洲 33 个成员学会并在古巴哈瓦那等地召开多届世界大会的全球学术网络，标志着学科摆脱了单一的欧洲中心主义，走向真正的全球多中心时代。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 129–130)]]

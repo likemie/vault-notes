@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 51
+fact_related_count: 52
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Teaching Assistant]]"
   - "[[Recommendations for Practice]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Discourse]]"
   - "[[School Inspection]]"
   - "[[Class Size]]"
   - "[[Professional Judgment]]"
@@ -82,7 +83,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 # What Works Network
@@ -171,7 +172,7 @@ updated: 2026-09-18
 ## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
-> - **高权力 · 高利益 — 核心中介与治理枢纽** 英国中央内阁办公室（Cabinet Office）与各领域旗舰有效性中心（如 [[Education Endowment Foundation\|EEF]]、[[National Institute for Health and Care Excellence\|NICE]]） — 掌控国家循证战略规划、核心留本基金配给与公共话语权，主导制定证据评价规则与资助方向。
+> - **高权力 · 高利益 — 核心中介与治理枢纽** 英国中央内阁办公室（Cabinet Office）与各领域旗舰有效性中心（如 [[Education Endowment Foundation\|EEF]]、[[National Institute for Health and Care Excellence\|NICE]]） — 掌控国家循证战略规划、核心留本基金配给与公共[[Discourse|话语]]权，主导制定证据评价规则与资助方向。
 > - **高权力 · 低利益 — 潜在制约者与权威督导方** 英国教育标准局（[[Ofsted]]）、财政部与各中央行政部委 — 掌控对基层学校与公共机构的法定督导评级及财政预算周期，其高利害问责指标对一线机构拥有绝对支配权，但对具体学术证据包的微观细节关注度有限。
 > - **低权力 · 高利益 — 基层实践与受影响群体** 中小学校长、一线教师、[[Teaching Assistant\|助教]]（TAs）、社工与处境不利学生 — 承担日常教学与干预落实，直接承受政策与督导问责压力，但长期缺乏参与中介工具包与指南前期设计的制度渠道。
 > - **低权力 · 低利益 — 边缘行动者** 商业教育培训机构与民间教材软件供应商 — 受到工具包客观功效排名的市场挤压，试图通过向学校兜售未经因果检验的商业方案维持商业利益。

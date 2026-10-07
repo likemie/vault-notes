@@ -9,7 +9,7 @@ title: "Argument_Eacott_2017_SLM"
 argument_key: "Argument_Eacott_2017_SLM"
 argument_display_title: "School leadership and the cult of the guru: The neo-Taylorism of Hattie"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Rational-Control Rhetoric]]"
   - "[[Visible Learning]]"
   - "[[Document]]"
+  - "[[Discourse]]"
   - "[[Instructional Leadership]]"
   - "[[Transformative Leadership]]"
   - "[[Scientism]]"
@@ -161,7 +162,7 @@ updated: 2026-09-16
 
 在面临系统衰退时，管理修辞会根据衰退的性质发生分化：如果经济或教育系统经历迅速的崩溃（如金融危机或大萧条），管理修辞通常会转向“规范/意向修辞”（normative/aspirational rhetoric）以提供情感抚慰和乌托邦未来；而在澳大利亚面临的 NAPLAN、[[PISA]] 和 [[TIMSS]] 成绩慢性下滑背景下，系统自发激活了[[Rational-Control Rhetoric|理性/控制修辞]] (Rational/Control Rhetoric)，其核心关切是“避免探底”并建立确保成功的刚性结构（p.415）。这种理性修辞极大地激发了决策层对“唯一正确方法”和“什么最有效”的技术渴望。
 
-与这种理性饥渴形成鲜明对比的是，澳大利亚传统的大规模教学改革（如昆士兰州的 QSRLS、新基础项目和优质教学改革）由于理论过于精细，在行政实践中面临严重障碍。校长的日常工作几乎被行政、人事和财务预算完全侵占，实际用于教学领导的时间微乎其微（p.416）。传统的教学过程理论缺乏能够与科层决策无缝接轨的扁平数据中介，导致学校管理者在面对标准化测试下滑压力时，陷入了行政控制话语的严重真空。
+与这种理性饥渴形成鲜明对比的是，澳大利亚传统的大规模教学改革（如昆士兰州的 QSRLS、新基础项目和优质教学改革）由于理论过于精细，在行政实践中面临严重障碍。校长的日常工作几乎被行政、人事和财务预算完全侵占，实际用于教学领导的时间微乎其微（p.416）。传统的教学过程理论缺乏能够与科层决策无缝接轨的扁平数据中介，导致学校管理者在面对标准化测试下滑压力时，陷入了行政控制[[Discourse|话语]]的严重真空。
 
 > [!tension] 历史深层张力：管理与教学的结构性分离
 > 20 世纪初，美国教育行政学者如斯特雷耶（George Strayer）、埃利奥特（Edward Elliot）、博比特（Franklin Bobbit）和库伯利（Ellwood Cubberly）在创建教育行政学科时，便合法化了“管理”与“教学”的二分法。在这个历史惯性下，校长被塑造为学校的首席执行官（CEO）而非教学导师，这种管理与教学的结构性脱节，为量化控制工具的介入打开了时间窗口。
@@ -220,7 +221,7 @@ updated: 2026-09-16
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **理性修辞的主导与[[School Leadership\|学校领导力]]的行政退化** 澳大利亚在面临 NAPLAN 和 [[PISA]] 成绩缓慢下滑时，行政系统出于规避衰退的理性恐慌，将改进窄化为寻找某种标准化、确定性的技术工具，[[John Hattie\|哈蒂]]的VL填补了管理者的“行政话语饥渴”（p.415）。
+> 1. **理性修辞的主导与[[School Leadership\|学校领导力]]的行政退化** 澳大利亚在面临 NAPLAN 和 [[PISA]] 成绩缓慢下滑时，行政系统出于规避衰退的理性恐慌，将改进窄化为寻找某种标准化、确定性的技术工具，[[John Hattie\|哈蒂]]的VL填补了管理者的“行政[[Discourse|话语]]饥渴”（p.415）。
 > 2. **哈蒂品牌商业帝国的建立与学校自我合规** 哈蒂自 2009 年起与 ACEL and Corwin 出版公司结盟，将学术理论包装为高度排他性的商业培训品牌，导致大量学校为谋求合规而自我标识为“哈蒂学校”（p.419）。
 > 3. **数据账本与[[Neo-Taylorism\|新泰勒主义]]微观控制的制度深锁** 哈蒂[[Effect Size\|效应量]]账本将复杂的教学体验降维为 d = 0.40 的度量衡，且通过哈蒂担任 [[Australian Institute for Teaching and School Leadership\|AITSL]] 主席的身份内嵌于国家教师与校长专业标准中，实现了“无数据即无学习”的微观监控，构成了教师去专业化与[[Cognitive Deskilling|去技能化]]的新泰勒主义管理悲剧（pp.421–422）。
 

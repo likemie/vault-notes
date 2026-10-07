@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27"
 argument_display_title: "Research Methods in Education · Ch27"
 argument_kind: "book-chapter"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Research Question]]"
   - "[[Covert Research]]"
+  - "[[Discourse]]"
   - "[[Research Ethics]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Anonymity in Research]]"
@@ -174,7 +175,7 @@ updated: '2026-08-27'
 > - **前提二：观看者带着自身背景** 观看者以自身的价值观、传记、文化与背景解读图像，同一图像因此有多重解读（Rose, 2007, p. 11）。
 > - **前提三：图像承载多重语境** 图像是特定技术、构图特征与社会语境的产物，不能脱离其生产与观看语境（Banks, 1995, p. 2）。
 > - **推论：图像是呈现而非复制** 图像不仅是现实的复制（Flick, 2009, p. 240），更是现实的呈现，且是时间绑定的，捕捉的是特定瞬间。
-> - **方法含义：图像是话语，须三角互证** 更稳妥的做法是把视觉图像视为在讲述一个故事（一种话语），而非单一客观现实；视觉数据因此通常作为[[Triangulation\|三角互证]]数据中的一种元素，而非独立成局。
+> - **方法含义：图像是[[Discourse|话语]]，须三角互证** 更稳妥的做法是把视觉图像视为在讲述一个故事（一种话语），而非单一客观现实；视觉数据因此通常作为[[Triangulation\|三角互证]]数据中的一种元素，而非独立成局。
 
 > [!warning] 数据过载与可管理性
 > 单幅图像或单个录像序列贮存大量信息，带来数据过载、选择性与可管理性问题，尤其体现在数据分析阶段。视觉数据很少独立成局，常与文字、听觉、口头与观察数据并列，构成[[Triangulation\|三角互证]]中的一种元素，并可按第32章的方法与其他数据一并分析。

@@ -12,9 +12,9 @@ summary: "基于方差分解比较两组或多组连续变量均值差异的推�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 39
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 40
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/statistical
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Unit of Analysis]]"
   - "[[Independent Variable]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Homework]]"
   - "[[Epistemic Stances]]"
   - "[[Multiplist]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Analysis of Variance (ANOVA)
@@ -93,7 +94,7 @@ updated: 2026-09-22
 >
 > *ANOVA is the primary statistical technique in experimental research for comparing group means on continuous outcome variables across categorical factor levels.*
 
-> [!citation-card] 人机协同中的效应量多公式辨析
+> [!citation-card] [[Man-Computer Symbiosis|人机协同]]中的效应量多公式辨析
 > 在高级统计学[[Homework\|作业]]中，单因素方差分析的效应量指标 $\omega^2$ 存在多种数学表述（基于离差平方和与基于 $F$ 值的公式）。具备多元论[[Epistemic Stances\|认识立场]]的学习者能够借助大语言模型（如 ChatGPT）探索多种公式背后的数学等价性与小样本偏差校正机制，深化对参数估计边界的理解。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–365)]]
 >
 > *[[Multiplist]] learners engage in multi-turn dialogues with ChatGPT to dissect equivalent representations of [[Omega-Squared]] in one-way ANOVA, understanding how different formulas adjust for sample-size bias.*

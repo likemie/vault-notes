@@ -11,10 +11,10 @@ summary: "法国当代著名马克思主义哲学家与政治活动家，巴黎�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1946"
 died: "2010"
 lifespan: "1946–2010"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Growth]]"
   - "[[Critical Pedagogy]]"
   - "[[Epistemology]]"
+  - "[[Discourse]]"
   - "[[Popular Education]]"
   - "[[Politicity of Education]]"
   - "[[Champ]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Daniel Bensaïd
@@ -109,7 +110,7 @@ updated: 2026-10-02
 
 > [!influence-path] 影响路径
 > - **理论路径** 为 21 世纪[[Critical Pedagogy|批判教育学]]与教育政治社会学提供了坚实的哲学[[Epistemology|认识论]]支柱，其冷面科学与炽热乌托邦的辩证构想，直接被[[Carlos Alberto Torres|托雷斯]]等学者用作重构比较教育解放性[[Praxis|实践哲学]]的方法论指南。
-> - **认识论转化** 破除了批判学者在面对跨国金融资本垄断时容易陷入的悲观宿命论，将“斗争的不可预测性”与“行动的伦理必然性”相结合，激活了当代批判反抗的话语力量。
+> - **认识论转化** 破除了批判学者在面对跨国金融资本垄断时容易陷入的悲观宿命论，将“斗争的不可预测性”与“行动的伦理必然性”相结合，激活了当代批判反抗的[[Discourse|话语]]力量。
 > - **跨国传播** 其著作被翻译为西语、葡语、英语等多种语言，深刻影响了拉美激进[[Popular Education|民众教育]]学者、欧洲反紧缩运动倡导者与世界社会论坛的政策抗辩网络。
 
 ---

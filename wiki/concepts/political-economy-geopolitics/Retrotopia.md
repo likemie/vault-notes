@@ -5,7 +5,7 @@ aliases:
 summary: "鲍曼提出的概念，指将理想社会定位于被偷走或遗弃但未死的过去的乌托邦想象，用于分析中国的中华民族复兴话语"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -14,6 +14,7 @@ tags:
   - theme/nationalism
   - theme/utopia
 related_concepts:
+  - "[[Discourse]]"
   - "[[Zhonghua Minzu]]"
   - "[[Paradigm]]"
   - "[[Grand Theory]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Retrotopia
@@ -46,7 +47,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向将理想社会投射于过去的想象，强调失落家园的重建与传统或真理的回归。
-> - **用途** 协助研究者理解国家或民粹主义话语如何动员集体记忆以重建凝聚力。
+> - **用途** 协助研究者理解国家或民粹主义[[Discourse|话语]]如何动员集体记忆以重建凝聚力。
 > - **边界** 不等于传统乌托邦（指向未来）或单纯的个体怀旧（缺乏系统性的政治投射与边界建构）。
 
 > [!citation-card]- 关键表述
@@ -71,7 +72,7 @@ updated: 2026-09-17
 ## 应用于中国语境
 
 > [!concept-lens] 伟大复兴与前现代大一统
-> 乌拉迪恩·E·布拉格（Uradyn E. Bulag, 2024）将怀旧乌托邦用于分析中国的“[[Zhonghua Minzu\|中华民族]]伟大复兴”话语。习近平提出的“中国梦”所设想的复兴的中华民族，具备怀旧乌托邦的特征：它指向一个前现代的、大一统的中国文明辉煌过去，试图通过跨历史叙事重建这一失落家园。这一话语将古代中国想象为具有非凡道德吸引力的文明中心，假定周边蛮族均因仰慕汉文化而自愿融入。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 104–107]])
+> 乌拉迪恩·E·布拉格（Uradyn E. Bulag, 2024）将怀旧乌托邦用于分析中国的“[[Zhonghua Minzu\|中华民族]]伟大复兴”[[Discourse|话语]]。习近平提出的“中国梦”所设想的复兴的中华民族，具备怀旧乌托邦的特征：它指向一个前现代的、大一统的中国文明辉煌过去，试图通过跨历史叙事重建这一失落家园。这一话语将古代中国想象为具有非凡道德吸引力的文明中心，假定周边蛮族均因仰慕汉文化而自愿融入。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 104–107]])
 
 > [!claim] [[Fei Xiaotong\|费孝通]]（Fei Xiaotong）：多元一体与鸦片战争觉醒
 > 费孝通（Fei Xiaotong, 1988）提出的“中华民族多元一体”格局，将中华民国的国家领土边界投射回古代，将所有 56 个民族限定在今日国界之内。他将中华民族从“自在”（自然的、无意识的整合）到“自觉”（被西方的冲击唤醒）的转变归因于鸦片战争的冲击，而非民族的内在发展，在叙事中赋予汉人以唯一的联合主体地位。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 105]])

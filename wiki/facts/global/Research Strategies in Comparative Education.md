@@ -13,7 +13,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Positivism]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Evidence Standards]]"
   - "[[Scientific Paradigm]]"
 related_theories: []
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Research Strategies in Comparative Education
@@ -100,7 +101,7 @@ updated: 2026-10-01
 > [!finding-cards] 关键历史后果
 > - **破除纯思辨主导迷思** 证实缺乏明确研究方法与实证证据的哲学思辨/游记随笔论文在期刊中的比例发生断崖式下跌，从 1960 年代的过半数骤降至不足 20%，确立了经验[[Positivism|实证主义]]在学科期刊生产中的主导地位。
 > - **质性与[[Quantitative Research|量化研究]]的格局定格** 揭示了比较教育学在分析工具上虽出现显著的量化激增（以调查[[Questionnaire|问卷]]为主），但质性与自然情境研究（如访谈、[[Ethnography|民族志]]、[[Qualitative Observation|田野观察]]）始终构成了学科最坚固的基石与传统优势。
-> - **母学科重心迁移** 数据表明比较教育学者的学科认同从建制初期的历史学与哲学，全面转向以社会学、政治学与经济学为主体，完成了母学科[[Paradigm|范式]]的话语重置。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 131)]]
+> - **母学科重心迁移** 数据表明比较教育学者的学科认同从建制初期的历史学与哲学，全面转向以社会学、政治学与经济学为主体，完成了母学科[[Paradigm|范式]]的[[Discourse|话语]]重置。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 131)]]
 
 > [!stat-cards] 核心历史数据
 > - **3** 大核心旗舰期刊被系统纳入全样本回溯分析（CER、CE、IJED）。

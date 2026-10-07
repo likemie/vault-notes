@@ -7,7 +7,7 @@ summary: "法国哲学家、数学家与科学家，近代哲学之父，以我�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Meno]]"
   - "[[Ontology]]"
   - "[[Critical Thinking]]"
+  - "[[Discourse]]"
   - "[[Metacognition]]"
   - "[[Theory of Knowledge]]"
   - "[[Falsification]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # René Descartes
@@ -91,7 +92,7 @@ updated: 2026-09-24
 > - **1618** 加入荷兰拿骚的莫里斯亲王的军队，任军官。同年结识荷兰科学家 Isaac Beeckman，激发其数学和物理学兴趣
 > - **1619** 在多瑙河畔乌尔姆的暖房中做了三个梦，据笛卡尔自述，梦使他确信应以数学方法统一全部科学，标志其哲学计划的诞生
 > - **1628** 移居荷兰，在宗教和政治相对自由的荷兰度过此后大部分生涯
-> - **1637** 匿名出版《谈谈方法》（*Discourse on Method*），附有《屈光学》《气象学》《几何学》三篇论文，后者创立了解析几何
+> - **1637** 匿名出版《谈谈方法》（*[[Discourse]] on Method*），附有《屈光学》《气象学》《几何学》三篇论文，后者创立了解析几何
 > - **1641** 出版《第一哲学沉思集》（*Meditations on First Philosophy*），系统论证心物二元论与上帝存在
 > - **1649** 应瑞典女王克里斯蒂娜邀请前往斯德哥尔摩担任其哲学教师
 > - **1650** 因不适应瑞典严寒气候，罹患肺炎在斯德哥尔摩逝世，年仅 53 岁
@@ -101,7 +102,7 @@ updated: 2026-09-24
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1637 — *Discourse on Method*（谈谈方法）** 以法语写作，提出笛卡尔的方法论四规则和我思故我在。Li 引此论述笛卡尔怀疑。[[Argument_Li_2012_Cambridge\|(Li, 2012, p.28, 脚注 20)]]
+> - **1637 — *[[Discourse]] on Method*（谈谈方法）** 以法语写作，提出笛卡尔的方法论四规则和我思故我在。Li 引此论述笛卡尔怀疑。[[Argument_Li_2012_Cambridge\|(Li, 2012, p.28, 脚注 20)]]
 > - **1641 — *Meditations on First Philosophy*（第一哲学沉思集）** 以拉丁语写作，六个沉思系统论证从彻底怀疑到心物二元论的完整哲学体系。Li 引此论述他无法通过任何其他手段确认自己的存在，除了我思。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp.28, 脚注 20)]]
 > - **1644 — *Principles of Philosophy*（哲学原理）** 以教科书形式系统阐述其物理学和形而上学（待核）
 > - **1649 — *The Passions of the Soul*（论灵魂的激情）** 最后一部著作，讨论情感的身心关系，提出松果体为身心交互点的理论（待核）

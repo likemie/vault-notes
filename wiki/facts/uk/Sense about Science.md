@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Critical Thinking]]"
   - "[[Document]]"
+  - "[[Discourse]]"
   - "[[Scientific Literacy]]"
   - "[[Public Engagement with Science]]"
 related_theories: []
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Sense about Science
@@ -80,7 +81,7 @@ updated: 2026-09-22
 ## 效果与评价
 
 > [!finding-cards] 效果与评价
-> 1. **赋权公民成为活跃的证据审查者** 打破了技术官僚对科学话语权的垄断，通过 Ask for Evidence 行动使广大师生与公民掌握了科学探究与证据核验的核心思维方法。
+> 1. **赋权公民成为活跃的证据审查者** 打破了技术官僚对科学[[Discourse|话语]]权的垄断，通过 Ask for Evidence 行动使广大师生与公民掌握了科学探究与证据核验的核心思维方法。
 > 2. **筑牢青年学者的学术诚信与发声底气** VoYS 训练网络有效缓解了青年学者面对公众舆论放大镜时的畏难情绪，为国家培育了一批兼具深厚学术功底与敏捷传播素养的现代青年科学家队伍。
 
 ---

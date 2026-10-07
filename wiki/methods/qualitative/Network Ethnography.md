@@ -8,7 +8,7 @@ summary: "一种追踪全球化与网络化治理背景下政策流动的质性�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
+method_related_count: 39
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Unit of Analysis]]"
+  - "[[Discourse]]"
   - "[[Co-affiliation]]"
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-19
+updated: 2026-10-07
 ---
 
 # Network Ethnography
@@ -79,7 +80,7 @@ updated: 2026-09-19
 > [!method-scope] 方法范围
 > - **研究对象** 跨国与国家[[Policy Network\|政策网络]]、[[Educational Brokerage Agency\|教育中介机构]]、[[Venture Philanthropy\|风险慈善]]基金会、企业顾问、政府官员、立法文本、公司注册档案、资金流向及会议交往[[Champ\|场域]]。
 > - **问题类型** 政策如何在异质网络中被构想、[[Transfer Translation Transformation\|转译]]、游说并合法化为制度实体；非正式关系与企业资本如何重塑国家教育决策。
-> - **[[Unit of Analysis\|分析单位]]** 政策流动轨迹、行动者节点（人物与机构）、关系连接（互任董事、共同资助）、网络事件（峰会、工作坊）与中介话语。
+> - **[[Unit of Analysis\|分析单位]]** 政策流动轨迹、行动者节点（人物与机构）、关系连接（互任董事、共同资助）、网络事件（峰会、工作坊）与中介[[Discourse|话语]]。
 > - **输出形式** 政策网络拓扑图、行动者[[Co-affiliation\|共同从属]]矩阵、制度沿革时间轴、关键节点深度个案叙事与权力机制批判阐释。
 
 > [!citation-card] 政策网络成员的流动性本质
@@ -128,7 +129,7 @@ updated: 2026-09-19
 > 1. 资料清洗与实体对齐：将跨国、跨机构的企业高管、基金会理事与政府官员姓名、职务及任期进行标准化匹配。
 > 2. 关系[[Coding in Qualitative Research\|编码]]与网络拓扑构建：依据资助关系、组织从属、咨询分包与立法引用建立关系矩阵。
 > 3. 制度考古与时间线重构：梳理立法演变、重大审查报告与机构成立的因果推移脉络。
-> 4. 结构与话语互证：将客观商业法律档案与主观公关宣传、媒体访谈进行反差对质，揭示意识形态遮蔽机制。
+> 4. 结构与[[Discourse|话语]]互证：将客观商业法律档案与主观公关宣传、媒体访谈进行反差对质，揭示意识形态遮蔽机制。
 
 ---
 

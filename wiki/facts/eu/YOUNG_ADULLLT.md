@@ -9,9 +9,9 @@ subtype: event
 region: eu
 fact_region: "eu"
 fact_kind: "event"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
 - region/eu
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Theories of Policy Change]]"
   - "[[Performance Indicators]]"
+  - "[[Discourse]]"
   - "[[Network Governance]]"
   - "[[Policy Network]]"
   - "[[Apprenticeship]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-14'
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # YOUNG_ADULLLT
@@ -67,7 +68,7 @@ updated: 2026-10-05
 >   - 奥地利（2 区）、保加利亚（2 区）、德国（2 区）、西班牙（2 区）
 >   - 芬兰（2 区）、克罗地亚（2 区）、意大利（2 区）、葡萄牙（2 区）、英国（2 区）
 > - **受访者类型** 终身学习政策专家——包括各级政府官员、培训机构管理者、社会伙伴代表、非营利组织负责人等
-> - **核心议题** 区域层面的终身学习政策治理模式、专业人员对政策话语的接受与转化、地方层面的[[Theory of Change\|变革理论]]建构
+> - **核心议题** 区域层面的终身学习政策治理模式、专业人员对政策[[Discourse|话语]]的接受与转化、地方层面的[[Theory of Change\|变革理论]]建构
 
 ## 主要发现
 

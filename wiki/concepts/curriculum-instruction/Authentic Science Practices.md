@@ -9,7 +9,7 @@ aliases:
 summary: "当代科学教育的核心范式：倡导学生像专业科学家共同体一样直面科学不确定性、构建与修订因果解释、展开基于证据的论辩并享有认识能动性，而非机械执行预设教案"
 type: concept
 domain: "curriculum-instruction"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Hypothesis]]"
   - "[[Reflective Structuration]]"
+  - "[[Discourse]]"
   - "[[Externalization]]"
   - "[[Direct Instruction]]"
   - "[[Scientific Explanation]]"
@@ -153,7 +154,7 @@ updated: 2026-10-07
 ### 命题三　真实科学实践整合认识、社会与物质维度以促进深层科学解释建构
 
 > [!concept-lens] 实践多维整合维度
-> 本命题揭示科学探究并非孤立的心智运算，而是话语、工具与社会规则交织的整体性实践。
+> 本命题揭示科学探究并非孤立的心智运算，而是[[Discourse|话语]]、工具与社会规则交织的整体性实践。
 
 > [!claim] Ford, M. J. & Forman, E. A.
 > **科学实践的双重社会角色** 福特与福曼提出，真实科学实践包含“观念主张的创造者”与“批判性证据的评审者”双重角色；课堂必须建立支持这两种角色对称互动的社会机制。(Ford & Forman, 2006)

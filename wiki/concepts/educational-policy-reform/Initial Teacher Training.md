@@ -9,7 +9,7 @@ aliases:
 summary: "指个体在正式获得合格教师资格（QTS）并独立执教前所接受的系统性专业职前准备阶段，涵盖大学本位培养、校本学徒制及混合临床实践模式"
 type: concept
 domain: "educational-policy-reform"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Reflexivity]]"
   - "[[Apprenticeship]]"
   - "[[Discipline-Based Theory]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Initial Teacher Training
@@ -67,7 +68,7 @@ updated: 2026-10-05
 > - **边界** 聚焦于职前准入与资质认证阶段，不包含教师入职后的持续专业发展（Continuing Professional Development, CPD）与高级领导力研修。
 
 > [!citation-card] 教师教育政策的演进与概念分野
-> 政策话语从早期强调[[Reflexivity\|反思性]]与学科探究的初始教师教育（ITE）转向突出实用技能与操作合规的初始教师培训（ITT），折射出英格兰治理体系对教师专业性内涵的重塑。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 89–91)]]
+> 政策[[Discourse|话语]]从早期强调[[Reflexivity\|反思性]]与学科探究的初始教师教育（ITE）转向突出实用技能与操作合规的初始教师培训（ITT），折射出英格兰治理体系对教师专业性内涵的重塑。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 89–91)]]
 >
 > *The shift in nomenclature and policy framing around ITT in England reflects a broader institutional reconstitution of teacher professionalism from university-led education to school-led practical training.*
 

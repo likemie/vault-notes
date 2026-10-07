@@ -9,7 +9,7 @@ aliases:
 summary: "科技人才与高等教育资助中直接赋权早期青年学者的流动性支持机制；将高额科研经费与生活津贴直接授予研究生或博士后学者本人（而非挂靠在资深课题负责人 PI 的特定基金项目下），并允许其自由携带经费跨校、跨院系及跨课题组流动，以打破资历垄断、对冲学术避险并重构平等的导师指导关系。"
 type: concept
 domain: "science-policy"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Creativity]]"
+  - "[[Discourse]]"
   - "[[Research Topic]]"
   - "[[Research Scope]]"
   - "[[Document]]"
@@ -68,7 +69,7 @@ updated: 2026-10-07
 > |:---|:---|:---|
 > | **资助拨付对象** | 拨给资深 PI 的特定研究基金（如 [[National Institutes of Health\|NIH]] R01 / [[National Science Foundation\|NSF]] Standard Grant） | 直接拨付给青年学者个体（如 NSF GRFP / 独立博士后基金） |
 > | **经费携带性与流动权** | 资金完全绑定特定课题与特定实验室，学生离开即失去经费 | 资金跟随学者流动，可跨院系、跨学校甚至跨学科自由携带 |
-> | **师生权力关系** | 雇主与廉价雇佣劳工关系，青年学者话语权极低、依附性极强 | 平等的学术合作与学术指导关系，青年学者享有自主谈判权 |
+> | **师生权力关系** | 雇主与廉价雇佣劳工关系，青年学者[[Discourse\|话语]]权极低、依附性极强 | 平等的学术合作与学术指导关系，青年学者享有自主谈判权 |
 > | **[[Research Topic\|研究选题]]取向** | 严格限定在 PI 已获批基金的特定合同指标内，高度保守 | 允许学者根据个人科学好奇心自主探索前沿异端或交叉交叉课题 |
 > | **对科研避险的效应** | 加剧青年学者学术避险，被迫追逐主流期刊指标以求转正 | 消除短期生存焦虑，释放[[Creativity\|创造力]]黄金期的颠覆性探索潜能 |
 

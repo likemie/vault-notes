@@ -11,7 +11,7 @@ summary: "美国近代教育家与首任联邦教育专员，作为比较教育�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 36
+person_related_count: 37
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Policy Borrowing]]"
   - "[[Normal School]]"
+  - "[[Discourse]]"
   - "[[Educational Meliorism]]"
   - "[[Epistemology]]"
   - "[[Unit of Analysis]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Henry Barnard
@@ -156,7 +157,7 @@ updated: 2026-10-01
 > - **专业师范与学术传播** 借助《美国教育杂志》，巴纳德将欧洲先进的[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]实物教学法、福禄贝尔幼儿园运动及德意志[[Normal School\|师范学校]]模式系统导入全美，极大加速了美国师资专业化与公立学校现代化的进程。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 详尽剖析巴纳德在 19 世纪美洲话语中的独特地位，探讨其实际上作为卓越的“教育编年史家与[[Ethnography\|民族志]]学者”，如何筑就不可替代的事实基石。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 详尽剖析巴纳德在 19 世纪美洲[[Discourse|话语]]中的独特地位，探讨其实际上作为卓越的“教育编年史家与[[Ethnography\|民族志]]学者”，如何筑就不可替代的事实基石。
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 确立巴纳德在比较教育“第一重论述代际（启蒙准科学与行政改良代际）”中的美洲核心坐标，剖析其“[[Scholiocentric Approach|以校为中心]]”（Scholiocentric）描述性考察如何充当游说立法机关与争取公共财政的政治合法化依据（pp. 140–141）。
 
 ---

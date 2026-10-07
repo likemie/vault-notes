@@ -1,6 +1,106 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01",
+      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch01.md"
+    },
+    {
+      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic",
+      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md"
+    },
+    {
+      "basename": "Research Translation",
+      "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
+    },
+    {
+      "basename": "Public Value",
+      "path": "wiki/concepts/science-policy/Public Value.md"
+    },
+    {
+      "basename": "Intellectual Capital",
+      "path": "wiki/concepts/political-economy-geopolitics/Intellectual Capital.md"
+    },
+    {
+      "basename": "National Aeronautics and Space Administration",
+      "path": "wiki/facts/us/National Aeronautics and Space Administration.md"
+    },
+    {
+      "basename": "ARPANET",
+      "path": "wiki/facts/us/ARPANET.md"
+    },
+    {
+      "basename": "Star Scientists",
+      "path": "wiki/concepts/university-industry-collaboration/Star Scientists.md"
+    },
+    {
+      "basename": "Science, The Endless Frontier 1945",
+      "path": "wiki/facts/us/Science, The Endless Frontier 1945.md"
+    },
+    {
+      "basename": "Organizational Culture",
+      "path": "wiki/theories/sociology-of-education/Organizational Culture.md"
+    },
+    {
+      "basename": "Jürgen Habermas",
+      "path": "wiki/persons/germany/Jürgen Habermas.md"
+    },
+    {
+      "basename": "Man-Computer Symbiosis",
+      "path": "wiki/concepts/educational-technology/Man-Computer Symbiosis.md"
+    },
+    {
+      "basename": "J. C. R. Licklider",
+      "path": "wiki/persons/us/J. C. R. Licklider.md"
+    },
+    {
+      "basename": "Fairchild Semiconductor",
+      "path": "wiki/facts/us/Fairchild Semiconductor.md"
+    },
+    {
+      "basename": "Office of Scientific Research and Development",
+      "path": "wiki/facts/us/Office of Scientific Research and Development.md"
+    },
+    {
+      "basename": "Vannevar Bush",
+      "path": "wiki/persons/us/Vannevar Bush.md"
+    },
+    {
+      "basename": "Technological Republic",
+      "path": "wiki/concepts/political-economy-geopolitics/Technological Republic.md"
+    },
+    {
+      "basename": "Innovation Desert",
+      "path": "wiki/concepts/science-policy/Innovation Desert.md"
+    },
+    {
+      "basename": "International Schools",
+      "path": "wiki/concepts/comparative-education/International Schools.md"
+    },
+    {
+      "basename": "Argument_Bozeman_2004_JTT",
+      "path": "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Bozeman_2004_JTT.md"
+    },
+    {
+      "basename": "Argument_Kratsios_2026_OSTP",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
+    },
+    {
+      "basename": "Focused Research Organization",
+      "path": "wiki/concepts/science-policy/Focused Research Organization.md"
+    },
+    {
+      "basename": "Fast Grants",
+      "path": "wiki/facts/us/Fast Grants.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29.md"
+    },
+    {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md"
     },
@@ -15,18 +115,6 @@
     {
       "basename": "Concept Mapping",
       "path": "wiki/concepts/instruction-pedagogy/Concept Mapping.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29.md"
-    },
-    {
-      "basename": "Argument_Kratsios_2026_OSTP",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
     },
     {
       "basename": "Diversity, Equity, and Inclusion",
@@ -53,14 +141,6 @@
       "path": "wiki/concepts/competency-and-assessment/Creativity.md"
     },
     {
-      "basename": "Argument_Bozeman_2004_JTT",
-      "path": "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Bozeman_2004_JTT.md"
-    },
-    {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md"
-    },
-    {
       "basename": "Karp_Zamiska_2025_Technological_Republic",
       "path": "books/Karp_Zamiska_2025_Technological_Republic/Karp_Zamiska_2025_Technological_Republic.md"
     },
@@ -83,10 +163,6 @@
     {
       "basename": "Design-Based Research",
       "path": "wiki/methods/mixed/Design-Based Research.md"
-    },
-    {
-      "basename": "Star Scientists",
-      "path": "wiki/concepts/university-industry-collaboration/Star Scientists.md"
     },
     {
       "basename": "Process Knowledge",
@@ -123,82 +199,6 @@
     {
       "basename": "National Innovation System",
       "path": "wiki/concepts/university-industry-collaboration/National Innovation System.md"
-    },
-    {
-      "basename": "Workforce Pell Grants 2025",
-      "path": "wiki/facts/us/Workforce Pell Grants 2025.md"
-    },
-    {
-      "basename": "Engineering Education",
-      "path": "wiki/concepts/higher-education/Engineering Education.md"
-    },
-    {
-      "basename": "Academic Engagement",
-      "path": "wiki/concepts/university-industry-collaboration/Academic Engagement.md"
-    },
-    {
-      "basename": "Accelerating Medicines Partnership",
-      "path": "wiki/facts/us/Accelerating Medicines Partnership.md"
-    },
-    {
-      "basename": "Pilot Scale Platform",
-      "path": "wiki/concepts/university-industry-collaboration/Pilot Scale Platform.md"
-    },
-    {
-      "basename": "Megascience Installations",
-      "path": "wiki/concepts/political-economy-geopolitics/Megascience Installations.md"
-    },
-    {
-      "basename": "Clinical Trial",
-      "path": "wiki/concepts/university-industry-collaboration/Clinical Trial.md"
-    },
-    {
-      "basename": "National Research Council",
-      "path": "wiki/facts/us/National Research Council.md"
-    },
-    {
-      "basename": "Technology Transfer",
-      "path": "wiki/concepts/university-industry-collaboration/Technology Transfer.md"
-    },
-    {
-      "basename": "Competitiveness",
-      "path": "wiki/concepts/university-industry-collaboration/Competitiveness.md"
-    },
-    {
-      "basename": "Research Translation",
-      "path": "wiki/concepts/university-industry-collaboration/Research Translation.md"
-    },
-    {
-      "basename": "Random Assignment",
-      "path": "wiki/methods/quantitative/Random Assignment.md"
-    },
-    {
-      "basename": "United Kingdom Metascience Unit",
-      "path": "wiki/facts/uk/United Kingdom Metascience Unit.md"
-    },
-    {
-      "basename": "Heilmeier Catechism",
-      "path": "wiki/instruments/checklists/Heilmeier Catechism.md"
-    },
-    {
-      "basename": "Scientific Method",
-      "path": "wiki/concepts/educational-philosophy/Scientific Method.md"
-    },
-    {
-      "basename": "Academic Medical Center",
-      "path": "wiki/concepts/university-industry-collaboration/Academic Medical Center.md"
-    },
-    {
-      "basename": "Directorate for Technology, Innovation and Partnerships",
-      "path": "wiki/facts/us/Directorate for Technology, Innovation and Partnerships.md"
-    },
-    {
-      "basename": "Focused Research Organization",
-      "path": "wiki/concepts/science-policy/Focused Research Organization.md"
-    },
-    {
-      "basename": "Center of Calculation",
-      "path": "wiki/concepts/sociology-of-education/Center of Calculation.md"
     }
   ],
   "omittedPaths": [],

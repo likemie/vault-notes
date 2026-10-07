@@ -8,7 +8,7 @@ summary: "中国春秋时期思想家、教育家，儒学创始人，以修身�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 38
+person_related_count: 39
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Going Native]]"
   - "[[Recontextualization]]"
+  - "[[Discourse]]"
   - "[[Sage]]"
   - "[[Symbolic Boundary]]"
   - "[[Cultural Hierarchy]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Confucius
@@ -142,7 +143,7 @@ updated: 2026-09-17
 > - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 揭示孔子启发式对话思想与维果茨基社会文化理论的文化选择性亲和，及其在当代高压应试下对 LCE 改革的[[Going Native\|本土化]]赋能。
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 记录蔡元培等学者在杜威访华与 1950 年代批评中对孔子权威符号的跨文化[[Recontextualization\|再脉络化]]与反转调用。
 > - [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] — 实证揭示当代217册必修教材如何将孔子塑造为中华文化等价物，以及少数民族与信教学生对其男权等级性与人类中心主义的解构。
-> - [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010)]] — 剖析政治话语（如新加坡“儒家社会”）对孔子标签的过度泛化与剥离。
+> - [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010)]] — 剖析政治[[Discourse|话语]]（如新加坡“儒家社会”）对孔子标签的过度泛化与剥离。
 
 ---
 

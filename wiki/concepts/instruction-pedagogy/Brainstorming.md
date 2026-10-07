@@ -8,7 +8,7 @@ aliases:
 summary: "由亚历克斯·奥斯本提出的经典发散构思与群体创造力技法，以“延迟评判、以量求质、自由畅想、搭便车改进”四大原则为基石。当代群体动力学研究揭示了面对面口头互动中的生产阻塞与评价顾虑，推动了书面脑力激荡与个体-群体混合模式的发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Learned Helplessness]]"
   - "[[Variable]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Blended Learning]]"
   - "[[SCAMPER]]"
   - "[[Heterogeneity]]"
@@ -65,7 +66,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Brainstorming
@@ -211,7 +212,7 @@ updated: 2026-10-05
 > | **口头生产损失** | 传统面对面口头头脑风暴由于生产阻塞导致显著群体损失（$d = -0.57$） | 生产阻塞（解释 60% 损失）、评价顾虑、社会惰化 | Diehl & Stroebe (1987); Mullen et al. (1991) |
 > | **异步书面协同** | 书面脑力激荡与电子系统消除阻塞与顾虑，释放群体语义启动增益 | 全并发写入、匿名机制、长时记忆外在提示 | Paulus & Yang (2000); Baruah & Paulus (2008) |
 > | **独立训练优势** | 独立练习促学效应（$g = 0.682$）优于小组协作（$g = 0.567$），需个体先行 | 消除认知协调内耗、深层图式构建、混合流程 | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]]; Paulus (2000) |
-> | **人机协同发散** | 生成式 AI 消除排队阻塞但形成构想空间锚定，需个体先行审思规避思维固着 | 工具性发散协助、潜在构想空间重塑、语义锚定效应 | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] |
+> | **[[Man-Computer Symbiosis\|人机协同]]发散** | 生成式 AI 消除排队阻塞但形成构想空间锚定，需个体先行审思规避思维固着 | 工具性发散协助、潜在构想空间重塑、语义锚定效应 | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] |
 
 ---
 
@@ -223,7 +224,7 @@ updated: 2026-10-05
 > - **1987–1991 年　过程损失机制解离与[[Meta-analysis\|元分析]]确证** 迈克尔·迪尔（Michael Diehl）与沃尔夫冈·施特罗贝（Wolfgang Stroebe, 1987）通过四联实验精准分离出生产阻塞为核心根源；布莱恩·穆伦（Brian Mullen）等人（1991）元分析确立面对面群体损失[[Effect Size\|效应量]]（$d = -0.57$）。
 > - **2000 年代　书面脑力激荡与认知协同模型成型** 鲍勒斯（Paul Paulus, 2000）提出群体认知交互理论，并与杨晓（Huei-Chuan Yang, 2000）以及乔恩·巴鲁阿（Jonali Baruah, 2008）证实书面与电子异步脑力激荡能克服生产阻塞，逆转群体优势。
 > - **2025 年　[[Creativity\|创造力]][[Three-Level Meta-Analysis\|多层元分析]]量化独立练习优势** [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 实证确立独立练习（$g = 0.682$）对小组协作（$g = 0.567$）的效能胜出，为头脑风暴的[[Blended Learning\|混合教学]]交付确立坚实基准。
-> - **2026 年　人机协同头脑风暴与构想空间重塑** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 揭示生成式 AI 作为发散伙伴在极大消除协作摩擦的同时，能够潜在锚定构想空间，指出人机头脑风暴必须保持独立反思以抵抗认知惰性。
+> - **2026 年　[[Man-Computer Symbiosis|人机协同]]头脑风暴与构想空间重塑** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 揭示生成式 AI 作为发散伙伴在极大消除协作摩擦的同时，能够潜在锚定构想空间，指出人机头脑风暴必须保持独立反思以抵抗认知惰性。
 > - **2026 年　写作起草中头脑风暴外包的[[Epistemic Injustice|认识不正义]]审视** [[Argument_Smith_2026_SPE\|Smith (2026)]] 从写作学过程模型出发，深刻批判将灵感生成全盘推给 AI 的代劳倾向，指出绕过自主构思挣扎将剥夺学生珍视自身经验的实践机会，导致自我强加的[[Reliability|信度]]赤字与[[Formative Epistemic Injustice|成长性认识不正义]]。
 
 ---

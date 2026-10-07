@@ -10,10 +10,10 @@ aliases:
 summary: "有机结合面对面实体课堂教学与数字化在线学习环境的教学模式，通过整合物理临场交互、异步自主探究与自适应智能支架，重构学习时空并促进深层理解与高阶思维发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/instruction
   - theme/pedagogy
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Constructive Alignment]]"
   - "[[Self-Regulated Learning]]"
   - "[[Metacognition]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Epistemic Value]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemic Agency]]"
@@ -54,7 +55,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Blended Learning
@@ -157,7 +158,7 @@ updated: 2026-09-22
 ### 命题三　人机混合学习的实质是认知主体性的关系性协同，实体面对面课堂承担对抗算法无摩擦委托的辩论制衡功能
 
 > [!concept-lens] 人机混合认知与实体[[Champ\|场域]]重构
-> 探讨混合教学如何从简单的“线上/线下时空混合”升级为“人机协同求知（Hybrid Human-AI Learning）”，分析线下面对面课堂在打破算法流畅假象中的[[Epistemic Value\|认识论价值]]。
+> 探讨混合教学如何从简单的“线上/线下时空混合”升级为“[[Man-Computer Symbiosis|人机协同]]求知（Hybrid Human-AI Learning）”，分析线下面对面课堂在打破算法流畅假象中的[[Epistemic Value\|认识论价值]]。
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]
 > **人机混合学习与实体辩论制衡** 随着[[Generative Artificial Intelligence\|生成式人工智能]]深度介入求知过程，混合式学习的内涵已拓展为“人机混合学习（Hybrid Human-AI Learning）”（Molenaar, 2022; Gašević et al., 2023; [[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026]]）。在这种新型混合生态中，学习者的[[Epistemic Agency\|认识主体性]]并非表现为孤立排斥技术，而是在与智能工具的紧密交互中保持实质性的批判参与。此时，混合式学习中“线下面对面实体课堂”的战略地位发生质的重构：由于学生在线上容易被算法的流畅综合语调诱导而放弃深层思考，线下面对面研讨成为刻意营造“[[Epistemic Friction\|认知摩擦]]”（[[Epistemic Friction]]）、迫使学生对算法生成的主张进行公开辩护与漏洞质询的核心避风港，从而有效防范有害[[Epistemic Dependence\|认识依赖]]并落实分布式责任。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 5, 7–8)]]

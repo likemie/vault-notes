@@ -8,7 +8,7 @@ aliases:
 summary: "论辩推理模型中的中间认识论立场，主张知识纯属主观意见，所有观点都同等有效；在人机共生学习中表现为意识到大模型输出的多样性但缺乏客观评判标准，导致选择迷失与批判性比较匮乏。"
 type: concept
 domain: "educational-psychology"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -16,6 +16,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Teaching Assistant]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Evaluative Judgement]]"
   - "[[Critical Thinking]]"
   - "[[Epistemic Agency]]"
@@ -45,7 +46,7 @@ related_methods:
   - "[[Correlational Research]]"
 status: active
 created: 2026-08-15
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # Multiplist
@@ -60,7 +61,7 @@ updated: 2026-09-24
 > [!concept-lens] 概念透镜
 > - **含义** 标志着个体从盲从权威的绝对客观，彻底滑向了相对主义的主观立场，完全被主观维度主导。
 > - **用途** 帮[[Teaching Assistant\|助教]]育者理解为什么部分学生能够接纳多种声音，却极度抗拒对声音进行批判性比较；解释人机交互中学生为何提出泛化追问却无法做出定论。
-> - **人机共生视界** 在智能中介环境中，多元主义立场虽优于绝对主义的盲从，但极易导致认知参与停留在发散层面，无法落实基于因果证据的[[Evaluative Judgement\|评价性判断]]。
+> - **[[Man-Computer Symbiosis|人机共生]]视界** 在智能中介环境中，多元主义立场虽优于绝对主义的盲从，但极易导致认知参与停留在发散层面，无法落实基于因果证据的[[Evaluative Judgement\|评价性判断]]。
 > - **边界** 在品味和审美领域成为多元论者是自然的，但在科学事实、数据推论和价值观领域停留在多元论，则是[[Critical Thinking\|批判性思维]]与[[Epistemic Agency\|认识主体性]]发展的阻碍。
 
 > [!citation-card] 多元主义立场在人机交互中的认知表征
@@ -118,7 +119,7 @@ updated: 2026-09-24
 
 ### 命题三　生成式人工智能环境下多元主义立场导致选择迷失与批判性比较匮乏
 
-> [!concept-lens] 人机共生中的相对主义瓶颈
+> [!concept-lens] [[Man-Computer Symbiosis|人机共生]]中的相对主义瓶颈
 > 揭示大语言模型输出的多样性如何成为[[Pluralism|多元主义]]者的认知陷阱，以及如何通过支架干预实现评价论跃迁。
 
 > [!claim] Wu et al.
@@ -142,7 +143,7 @@ updated: 2026-09-24
 > [!dev-timeline] 概念演变
 > - **1970–2000 年 — 相对主义过渡态的确立** Perry（1970）与 [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 将多元论界定为[[Epistemology\|认识论]]发展的瓶颈期，标志着对确定性权威的破除与对主观意见平权的执着。
 > - **2011 年 — 情境化多元怀疑立场** Chinn 等人（2011）指出多元论在科学探究中可表现为主观怀疑或对相互冲突模型的平等接纳姿态。
-> - **2025 年 — 人机共生中[[Pluralism|多元主义]]选择困境与支架干预** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 揭示大模型生成多样性给多元主义者带来的选择迷失，并提出通过提示词与同行评议双轨支架跨越相对主义瓶颈的实践路径。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
+> - **2025 年 — [[Man-Computer Symbiosis|人机共生]]中[[Pluralism|多元主义]]选择困境与支架干预** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 揭示大模型生成多样性给多元主义者带来的选择迷失，并提出通过提示词与同行评议双轨支架跨越相对主义瓶颈的实践路径。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
 
 ---
 

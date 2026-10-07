@@ -7,7 +7,7 @@ aliases:
 summary: "大众媒体在选择、加工与呈现现实时所遵循的组织惯例、格式规程与新闻价值体系，在教育治理中迫使政策行动者积累媒介资本并以危机叙事迎合媒体规则"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Falling Standards Template]]"
   - "[[Dramatic Tension]]"
   - "[[Screening Off]]"
+  - "[[Discourse]]"
   - "[[Performance Pay]]"
   - "[[Determinism]]"
   - "[[Data Infrastructure]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 # Media Logic
@@ -139,7 +140,7 @@ updated: 2026-09-18
 > 探讨执政精英如何将传统官僚权力转化为符合媒介生产节律的新闻资本，借跨国评估工具推销争议性本土改革。
 
 > [!claim] Davis & Seymour; Couldry
-> **双重媒介资本的协同** 现代政治领袖的统治效能高度取决于其在媒介[[Champ\|场域]]中的资本储量；制度性媒介资本提供了垄断官方信源与信息发布的特权，而个性化媒介资本使行动者熟谙记者的生产约束，能够精准投喂符合版面要求的话语诱饵。
+> **双重媒介资本的协同** 现代政治领袖的统治效能高度取决于其在媒介[[Champ\|场域]]中的资本储量；制度性媒介资本提供了垄断官方信源与信息发布的特权，而个性化媒介资本使行动者熟谙记者的生产约束，能够精准投喂符合版面要求的[[Discourse|话语]]诱饵。
 
 > [!claim] Grey & Morris
 > **[[Michael Gove\|戈夫]]的媒介资本变现与危机推销** 英国教育大臣迈克尔·戈夫（Michael Gove）作为前《泰晤士报》资深记者，拥有极高的个性化与制度性媒介资本；他深谙“媒介游戏规则”，在 PISA 发布的当天下午闪电发表议会演讲，运用“停滞”、“被甩在身后”等高度契合小报头条的修辞，将原本不支持新自由主义政策的 [[OECD]] 数据反向篡改为强推学院化与[[Performance Pay\|绩效工资]]的灵丹妙药。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 116–120, 125)]]

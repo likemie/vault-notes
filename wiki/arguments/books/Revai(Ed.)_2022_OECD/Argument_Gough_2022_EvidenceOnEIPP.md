@@ -7,10 +7,10 @@ title: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_key: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_display_title: "Evidence on evidence-informed policy and practice"
 argument_kind: "book-chapter"
-argument_related_count: 74
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#fef3c7"
+argument_related_count: 75
+argument_related_level: 5
+argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_color: "#fecdd3"
 authors:
   - "[[David Gough|Gough, D.]]"
   - "[[Jonathan Sharples|Sharples, J.]]"
@@ -79,6 +79,7 @@ related_concepts:
   - "[[Recommendations for Practice]]"
   - "[[Scaffolding]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Discourse]]"
   - "[[School Inspection]]"
   - "[[Construct]]"
   - "[[Initial Teacher Training]]"
@@ -340,7 +341,7 @@ sources:
 > | **具体变革目标** | 机构意图改变既有生态的哪一部分？聚焦何种使用者问题与何种类型的研究证据及证据主张？ | 目标空泛，混淆了固化方案推广与灵活机制迁移的界限。 |
 > | **使用者与受益人** | 谁是中介工作的直接使用者？谁是政策或实践干预的最终受益者？ | 将中介活动触达的直接对象（如校长）与终极受益人（如学生学业）混为一谈。 |
 > | **历史纵向演进** | 机构业务重心随时间发生了哪些转移，背后的原因是什么？ | 缺乏战略定力，随短期资助潮流盲目摇摆业务重心。 |
-> | **生态内部协同** | 与生态内其他行动者（包括其他中介机构）存在怎样的互动、业务重叠或分工合作？ | 相互争夺话语权与资助资源，导致中介产出碎片化与使用者认知混乱。 |
+> | **生态内部协同** | 与生态内其他行动者（包括其他中介机构）存在怎样的互动、业务重叠或分工合作？ | 相互争夺[[Discourse\|话语]]权与资助资源，导致中介产出碎片化与使用者认知混乱。 |
 
 ---
 

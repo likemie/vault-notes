@@ -8,7 +8,7 @@ aliases:
 summary: "起源于移民研究、由克莱伯特（J. Kleibert）引入跨境高等教育领域的概念，指制度性与空间性因素协同运作以引导、规训与筛选跨境流动的复合机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
   - region/global
   - theme/geopolitics
 related_concepts:
+  - "[[Discourse]]"
   - "[[Disciplina and Doctrina]]"
   - "[[STEM Education]]"
 related_theories: []
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-29
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Infrastructures of Immobility
@@ -42,7 +43,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 流动基础设施（infrastructures of (im)mobility）指一系列制度性与空间性因素——签证机制、地理区位、话语规范、奖学金系统、国际办学网络等——协同运作，实现对跨境流动的引导、[[Disciplina and Doctrina\|规训]]与筛选。该概念起源于移民研究（Xiang & Lindquist, 2014; Lin et al., 2017），由经济地理学家克莱伯特（J. Kleibert, 2018, 2020）引入跨境高等教育领域。这些制度安排深度嵌入国家与区域的移民制度体系，参与国家的边界管理与人才流动治理，并在话语层面建构着何种流动是合法的、优先的与可控的。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 9–10)]]
+> 流动基础设施（infrastructures of (im)mobility）指一系列制度性与空间性因素——签证机制、地理区位、[[Discourse|话语]]规范、奖学金系统、国际办学网络等——协同运作，实现对跨境流动的引导、[[Disciplina and Doctrina\|规训]]与筛选。该概念起源于移民研究（Xiang & Lindquist, 2014; Lin et al., 2017），由经济地理学家克莱伯特（J. Kleibert, 2018, 2020）引入跨境高等教育领域。这些制度安排深度嵌入国家与区域的移民制度体系，参与国家的边界管理与人才流动治理，并在话语层面建构着何种流动是合法的、优先的与可控的。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 9–10)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 流动基础设施揭示了一个核心洞察：学术流动不仅仅是个人选择的结果，更是制度性空间通过特定物质和规则安排筛选和塑造的结果。基础设施这一概念强调这些安排的日常性、物质性和隐蔽性——它们像管道和电网一样，在"正常运作"中不被注意，但深刻地决定了谁能流动、流向何方。
@@ -56,7 +57,7 @@ updated: 2026-09-22
 > [!feature] 核心要素
 > - **物质性形态** 奖学金分配系统等——这些制度安排通过资源配置直接决定谁能流动、流向何处。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 9–10)]]
 > - **制度性形态** 国际办学网络（如海外分校的布局和准入政策）、签证制度（如[[STEM Education\|STEM]]领域的签证配额和技术出口控制）——这些制度安排嵌入国家移民与安全体系，参与边境控制与人才流动治理。
-> - **话语建构功能** 这些制度安排不仅在物质层面运作，还在话语层面建构着何种流动是"合法的""优先的"与"可控的"，深刻影响着全球学术流动格局的认知与想象。
+> - **[[Discourse|话语]]建构功能** 这些制度安排不仅在物质层面运作，还在话语层面建构着何种流动是"合法的""优先的"与"可控的"，深刻影响着全球学术流动格局的认知与想象。
 > - **高校作为流动基础设施的节点** 高校并非流动基础设施的中性载体——高校工作人员因承担对国际学生的出勤监管等职责，逐步被卷入日常的边境管理工作，可被视为国家边界治理的执行者（Yu, 2024）。边境治理不再仅仅存在于国家边界或边检口岸，而是被嵌入高校的日常教学与管理中。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, p. 10)]]
 
 ---

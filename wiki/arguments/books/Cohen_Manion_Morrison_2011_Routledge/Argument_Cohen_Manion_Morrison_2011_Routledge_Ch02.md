@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_display_title: "Research Methods in Education · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 75
+argument_related_count: 77
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Scientism]]"
   - "[[Critical Pedagogy]]"
+  - "[[Discourse]]"
   - "[[Metascience]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Variable]]"
@@ -95,6 +96,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Ethnography]]"
   - "[[Triangulation]]"
+  - "[[Conversation Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Causal Modeling]]"
@@ -377,7 +379,7 @@ Tyler（1949）的课程四问原理如下：
 > [!exegesis]- 课程作为文化政治：具体怎么理解？
 > 传统课程观将课程视为一个**技术问题** 专家确定目标 → 选择内容 → 组织教学 → 考试检验。这套逻辑假设存在一套中立的、对所有人都有利的知识，只需要"科学地"选择和传递即可。
 >
-> 批判教育学翻转了这一假设：**课程内容本身是不同文化群体争夺话语权的战场**。所谓的中立知识，实际上是支配群体的文化被包装成普适知识。举例来说：
+> 批判教育学翻转了这一假设：**课程内容本身是不同文化群体争夺[[Discourse|话语]]权的战场**。所谓的中立知识，实际上是支配群体的文化被包装成普适知识。举例来说：
 > - 历史课只讲帝国扩张的"文明使命"而不讲殖民暴力，这本身就是一种文化政治——它选择了征服者的叙事，压制了被征服者的声音。
 > - 文学课只收录白人男性作家的作品、将女性作家和少数族裔作家排除在外，这不是文学质量的"客观判断"，而是**谁的文学算作值得教的文学**这一文化权力的运作。
 > - 科学课将科学呈现为一套与政治无关的客观真理，却从不讨论科学[[Knowledge Production\|知识生产]]如何被军事资助和产业利益所塑造——这种"去政治化"本身就是一种政治姿态：它让学生接受现状而非质疑现状。
@@ -482,7 +484,7 @@ Denzin（1989）、Mies（1993）、Haig（1999）和 De Laine（2000）提出�
 > - **从价值无涉到蓄意偏袒** 所谓中立的研究被有意识的、蓄意的偏袒所取代，研究者明确认同参与者的利益。
 > - **从象牙塔到参与式变革** 旁观者知识理论被参与式方法取代，通过行动研究，所有参与者共同参与争取解放的斗争。
 > - **改变现状是起点而非终点** 如果我们想了解梨子，就必须咀嚼它（Mies, 1993，引用中国谚语）。
-> - **[[Triangulation\|三角互证]]与多方法**的广泛使用：包括视觉技术（录像、照片、电影）、会话分析、文本解构和[[Meta-analysis\|元分析]]。
+> - **[[Triangulation\|三角互证]]与多方法**的广泛使用：包括视觉技术（录像、照片、电影）、[[Conversation Analysis|会话分析]]、文本解构和[[Meta-analysis\|元分析]]。
 > - **对数字化调查的批判性评估** 包括对问题措辞的批判，因为问题本身就是权力的表达。
 > - **个人证词、口头叙事和长访谈** 使女性声音得以被听见，贴近活经验，避免对人们经验的未经检验的假设。
 > - **情感和感受是研究的组成部分** 不应在客观性的名义下被排除出研究（Edwards & Mauthner, 2002, p. 19）。

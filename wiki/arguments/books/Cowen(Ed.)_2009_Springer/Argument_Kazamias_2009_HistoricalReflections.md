@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_HistoricalReflections"
 argument_key: "Argument_Kazamias_2009_HistoricalReflections"
 argument_display_title: "Comparative Education: Historical Reflections"
 argument_kind: "book-chapter"
-argument_related_count: 81
+argument_related_count: 82
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Historical Amnesia]]"
   - "[[Document]]"
+  - "[[Discourse]]"
   - "[[Empiricism]]"
   - "[[Knowledge Production]]"
   - "[[Unit of Analysis]]"
@@ -140,7 +141,7 @@ updated: 2026-10-01
 > 比较教育学本质上是一门多学科交叉的[[Geisteswissenschaften|人文科学]]（Human Science, *Vergleichende Erziehungswissenschaft*），表现为一种能够因应不同时代智识思潮、方法风尚与意识形态诉求而变换装束的[[Protean Episteme|普罗透斯式认识体系]]（Protean Episteme）；战[[Postpositivism|后实证主义]]对单一普遍规律与预测功能的狂热追求使学科陷入抽离情境的方法论主义，而在世纪之交多元范式扩张的表象之下，学科因近乎彻底抛弃历史维度而患上了严重的[[Historical Amnesia|历史健忘症]]（Historical Amnesia），亟需通过历史学与社会科学的理性综合重申比较史学的合法性与人文关怀。（pp.139–140, 147–149, 155–156）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 跨越两个世纪的比较教育学思想史[[Document|文献]]、核心代表人物著作、方法论大论战话语以及当代期刊研究策略计量调查。（pp.139–140, 156）
+> - **对象** 跨越两个世纪的比较教育学思想史[[Document|文献]]、核心代表人物著作、方法论大论战[[Discourse|话语]]以及当代期刊研究策略计量调查。（pp.139–140, 156）
 > - **张力** 普遍规律诉求与历史情境独特性之间的对立；实证[[Empiricism|唯方法论主义]]与多学科人文科学定位之间的撕裂；世纪之交实证文献繁荣与历史维度断崖式衰退之间的深刻悖论。（pp.144–146, 149, 155–156）
 > - **贡献** 提出并确立了普罗透斯式认识体系的学科史[[Analytic Framework|分析框架]]，系统梳理了四大论述代际演替脉络，以期刊计量证据揭示了学科的历史健忘症危机，为学科再造提供了坚实的历史哲学坐标。（pp.139–140, 151–156）
 
@@ -451,7 +452,7 @@ updated: 2026-10-01
 ## 自述局限
 
 > [!warning]
-> 作者自述本章旨在作为一篇具有宏观历史哲学与理论反省性质的个人学术自白（Personal Testament），侧重于梳理比较教育话语的“代际”与“类型”，并未穷尽微观具体国家教育系统内部的个案差异与全部制度细节；对英国与北美比较教育学术脉络的侧重反映了作者自身的学术生涯履历，对非英语世界的某些区域性历史脉络未能予以均等篇幅展开。（pp.139–140, 151, 155–156）
+> 作者自述本章旨在作为一篇具有宏观历史哲学与理论反省性质的个人学术自白（Personal Testament），侧重于梳理比较教育[[Discourse|话语]]的“代际”与“类型”，并未穷尽微观具体国家教育系统内部的个案差异与全部制度细节；对英国与北美比较教育学术脉络的侧重反映了作者自身的学术生涯履历，对非英语世界的某些区域性历史脉络未能予以均等篇幅展开。（pp.139–140, 151, 155–156）
 
 ---
 

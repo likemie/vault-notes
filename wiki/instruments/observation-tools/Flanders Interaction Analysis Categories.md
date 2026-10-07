@@ -10,7 +10,7 @@ aliases:
 summary: "Flanders 开发的经典课堂言语互动系统化观察工具，采用 3 秒时间取样将课堂言语行为划分为 10 类，通过矩阵分析评估课堂结构与师生互动模式，亦成为反思实证量化编码忽视情境索引性的经典范例。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 16
+instrument_related_count: 17
 instrument_related_level: 3
 instrument_related_stars: "⭐⭐⭐"
 instrument_related_color: "#cffafe"
@@ -31,6 +31,7 @@ tags:
   - research-methodology
 related_concepts:
   - "[[Operationalization]]"
+  - "[[Discourse]]"
   - "[[Assertiveness]]"
   - "[[Direct Instruction]]"
   - "[[Positivism]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-25
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Flanders Interaction Analysis Categories
@@ -71,7 +72,7 @@ updated: 2026-10-02
 > - **实施方式** 观察者进入现场或回看课堂录像，采用 3 秒等距时间取样，记录当下最能概括言语行为种类的数字代码，生成时间序列矩阵。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015, Ch. 3)]]
 
 > [!citation-card] FIAC 课堂言语互动分类体系的分析旨趣
-> 弗兰德斯互动分析体系将课堂复杂的言语交往[[Operationalization\|操作化]]为 10 类相互排斥的行为[[Coding in Qualitative Research\|编码]]，通过 3 秒等距时间取样建立互动时间序列。一节 40–50 分钟的典型课堂可产生 800–1000 个连续代码，连接成序列后填入 10×10 的交互矩阵，能够揭示出课堂教学的话语权分配、控制形态与交往模式。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015, Ch. 3)]]
+> 弗兰德斯互动分析体系将课堂复杂的言语交往[[Operationalization\|操作化]]为 10 类相互排斥的行为[[Coding in Qualitative Research\|编码]]，通过 3 秒等距时间取样建立互动时间序列。一节 40–50 分钟的典型课堂可产生 800–1000 个连续代码，连接成序列后填入 10×10 的交互矩阵，能够揭示出课堂教学的[[Discourse|话语]]权分配、控制形态与交往模式。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015, Ch. 3)]]
 >
 > *Flanders Interaction Analysis Categories (FIAC) operationalises classroom verbal exchanges into ten mutually exclusive categories through three-second time sampling, generating interaction matrices to reveal pedagogical structures and teacher-student control patterns.*
 
@@ -119,7 +120,7 @@ updated: 2026-10-02
 FIAC 生成的互动数据可通过 10×10 矩阵计算核心教学指标：
 
 > [!proc] FIAC 矩阵衍生分析指标
-> 1. **教师话语时间比率（Teacher Talk %）** 类别 1 至 7 的编码总频次除以全部记录总频次；通常传统讲授型课堂中教师话语往往占 60%–70% 以上。
+> 1. **教师[[Discourse|话语]]时间比率（Teacher Talk %）** 类别 1 至 7 的编码总频次除以全部记录总频次；通常传统讲授型课堂中教师话语往往占 60%–70% 以上。
 > 2. **学生话语时间比率（Student Talk %）** 类别 8 与 9 的编码总频次除以全部记录总频次；反映学生在课堂中的发声空间。
 > 3. **教师间接与直接影响比（I/D Ratio）** 间接言语（类别 1+2+3+4）除以直接言语（类别 5+6+7）；比值大于 1 表明教师倾向于民主启发与情感支持，小于 1 则表明教师倾向于权威主导与[[Direct Instruction\|直接讲授]]控制。
 > 4. **学生主动性发言比率** 类别 9 频次除以（类别 8 + 类别 9）；反映学生发言中独立思考与创新主动性的比重。
@@ -167,7 +168,7 @@ FIAC 生成的互动数据可通过 10×10 矩阵计算核心教学指标：
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 20–21)]] | 英文原始版 | 援引 Walker & Adelman (1975) 英国中学作文课案例（草莓事件），考察[[Coding in Qualitative Research\|编码]]员对师生言语的记录效度 | 表面编码[[Reliability\|信度]]极高，但[[Ecological Validity\|生态效度]]与[[Construct Validity\|构念效度]]因忽略情境[[Indexicality\|索引性]]而破产 | 7-4-9-10 编码序列无法解释全班哄堂大笑与亲密默契，证实机械分类对课堂情境知识的系统误读 |
-> | [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015, Ch. 3)]] | 中文教材介绍版 | 课堂教学观察方法与教育研究方法教学 | 详细界定 10 个互斥类别的判定标准与 10×10 互动矩阵分析技术 | 提供师生话语比、I/D 比、积极与消极言语比等系列定量诊断公式 |
+> | [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015, Ch. 3)]] | 中文教材介绍版 | 课堂教学观察方法与教育研究方法教学 | 详细界定 10 个互斥类别的判定标准与 10×10 互动矩阵分析技术 | 提供师生[[Discourse\|话语]]比、I/D 比、积极与消极言语比等系列定量诊断公式 |
 
 ---
 

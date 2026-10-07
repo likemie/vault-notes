@@ -5,7 +5,7 @@ aliases:
 summary: "Chen (2023) 提出的概念，政权以文化、历史和传统话语包装政治控制，替代公开的政治意识形态论证"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ tags:
   - region/china
   - region/hong-kong
 related_concepts:
+  - "[[Discourse]]"
   - "[[Zhonghua Minzu]]"
   - "[[Sinicisation]]"
   - "[[Filial Piety]]"
@@ -46,7 +47,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 政治的文化化（Culturalisation of Politics）是由 Chen（2023）提出的理论概念。它指的是当一个政权在公共话语中无法或不愿公开依靠纯粹的政治意识形态（如共产主义、阶级斗争）来论证其统治合法性时，转而使用文化、历史、道德传统和种族归属话语来包装政治控制与权力垄断的治理策略（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.154]]）。
+> 政治的文化化（Culturalisation of Politics）是由 Chen（2023）提出的理论概念。它指的是当一个政权在公共[[Discourse|话语]]中无法或不愿公开依靠纯粹的政治意识形态（如共产主义、阶级斗争）来论证其统治合法性时，转而使用文化、历史、道德传统和种族归属话语来包装政治控制与权力垄断的治理策略（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.154]]）。
 
 > [!concept-lens] 概念透镜
 > - **指向机制** 揭示政治权威如何将具有强制力的政治秩序重塑为看似天然、温情、无可辩驳的文化归属义务。
@@ -78,7 +79,7 @@ updated: 2026-10-07
 ## 核心要素
 
 > [!feature] 核心要素
-> - **统治合法性话语替代** 在共产主义等意识形态吸引力消退后，转向诉诸共同的种族起源与本质化的传统美德（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.139]]）。
+> - **统治合法性[[Discourse|话语]]替代** 在共产主义等意识形态吸引力消退后，转向诉诸共同的种族起源与本质化的传统美德（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.139]]）。
 > - **话语表达的去政治化** 营造“我们只是在宏扬传统文化”的非政治表象，使强加的政治服从变成天经地义的情感义务（p.154）。
 > - **排斥机制的文化化呈现** 将不接受官方身份界定的人斥为背弃祖宗与孝道文化的违规者，以此取代政治异见者的分类。
 
@@ -103,7 +104,7 @@ updated: 2026-10-07
 > 探析如何利用儒家道德特质和本质化历史叙事，接管并消解学校课程中原有的关于法治、权利与能动性的批判讨论。
 
 > [!claim] Vickers, 2024
-> **美德话语对政[[Governmentality\|治理性]]辩论的替代与接管**
+> **美德[[Discourse|话语]]对政[[Governmentality\|治理性]]辩论的替代与接管**
 > - **道德说教对法治边界探讨的置换** 官方在[[Citizenship and Social Development\|公民与社会发展科]]教材中，以灌输包括孝、[[Benevolence\|仁]]、义、礼等在内的个人道德特质，系统替换了通识科时代以《基本法》为核心的法治边界划分和政治能动性探究。顺从被重新定义为对家庭和国家整体的文化反哺义务（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.150–151]]）。
 > - **本质化种族叙事对主权的证成** 强调香港与内地的种族同源同种（“炎黄子孙”），利用不平等条约的历史脉络强加“香港从未是殖民地”的官方叙事，使顺从北京的管治权成为不可抗拒的血脉归属与道德责任（pp.149, 154）。
 
@@ -134,7 +135,7 @@ updated: 2026-10-07
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2023 — 概念提出** Chen 提出政治的文化化概念，解构转型期政权合法性话语体系的转换。
+> - **2023 — 概念提出** Chen 提出政治的文化化概念，解构转型期政权合法性[[Discourse|话语]]体系的转换。
 > - **2024 — 比较教育实证应用** Vickers 将该概念引入对香港2020年后教育重组的分析，实证剖析[[Citizenship and Social Development\|公社科]]中以儒家美德和“炎黄子孙”话语消解政治能动性的去政治化治理逻辑（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.154]]）。
 
 ---

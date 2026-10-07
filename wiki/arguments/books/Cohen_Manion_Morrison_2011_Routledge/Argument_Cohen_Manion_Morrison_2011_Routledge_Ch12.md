@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_display_title: "Research Methods in Education · Ch12"
 argument_kind: "book-chapter"
-argument_related_count: 39
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Chain of Evidence]]"
   - "[[Hypothesis]]"
+  - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Champ]]"
   - "[[Creativity]]"
@@ -237,7 +238,7 @@ updated: '2026-08-27'
 政府以及组织和压力团体发布报告，以检视特定的政策问题并提出解决方案。报告是政策研究的基础材料，但研究者必须对它们保持一种有原则的不信任：
 
 > [!warning] 使用报告时的注意事项
-> 报告提供的信息虽然往往极为有益，但不能假定其总是准确的，应与其他来源对校。政策报告也是揭示支撑改革方案的意识形态预设的窗口：它们代表特定立场或意识形态（Scott, 2000, p. 27），同时体现国家政策中固有的矛盾和张力（Codd, 1988）。此外，报告的物质形态也在变化：早期报告往往篇幅浩大、包含数卷附录（含证人口头和书面证据），而近几十年的报告则倾向于篇幅更短、焦点更窄、格式更读者友好以提升公众吸引力。这种形式变化本身就是研究政策话语变迁的材料。
+> 报告提供的信息虽然往往极为有益，但不能假定其总是准确的，应与其他来源对校。政策报告也是揭示支撑改革方案的意识形态预设的窗口：它们代表特定立场或意识形态（Scott, 2000, p. 27），同时体现国家政策中固有的矛盾和张力（Codd, 1988）。此外，报告的物质形态也在变化：早期报告往往篇幅浩大、包含数卷附录（含证人口头和书面证据），而近几十年的报告则倾向于篇幅更短、焦点更窄、格式更读者友好以提升公众吸引力。这种形式变化本身就是研究政策[[Discourse|话语]]变迁的材料。
 
 > [!case] Hakim（1982）的[[Secondary Analysis\|二手分析]]框架
 > Hakim 将"[[Secondary Analysis\|二手分析]]（secondary analysis）"定义为对已有数据集的进一步分析，这种分析以不同于原始调查的解释路径和发现方式推进对数据的理解。在教育领域，人口普查报告和专门的数据集，如英国的[全国儿童发展研究](https://www.esds.ac.uk)（National Child Development Study）为此类分析提供了丰富资源。二手分析的方法论优势在于：研究者可以绕过一手数据收集的巨大成本和时间，直接进入分析层面；而其挑战则在于必须充分理解原始数据的收集方式、[[Variable\|变量]]定义和[[Sampling Frame\|抽样框架]]，以避免不恰当的比较或推断。
@@ -475,7 +476,7 @@ Jupp & Norris（1993）将文献分析的多元理论路径归纳为三种一般
 > *There is the frustration of events reported without follow up, individuals not clearly identified, ambiguous [[Accounts]] or those which provide a wealth of detail except that which is desperately sought.*
 
 > [!citation-card]- 论文献的[[Linguistic Turn\|语言学转向]]分析
-> 文献应被理解为与文本生产的符号学相关：意义如何在文本中制造、读者如何从文本中获取意义、作者意图相对于读者解释的地位、话语共同体在文本接受中的角色等。（Cohen, 1999, p. 81，转引自第12章，p.18）
+> 文献应被理解为与文本生产的符号学相关：意义如何在文本中制造、读者如何从文本中获取意义、作者意图相对于读者解释的地位、[[Discourse|话语]]共同体在文本接受中的角色等。（Cohen, 1999, p. 81，转引自第12章，p.18）
 >
 > *Documents should be understood in relation to the semiotics of text production, how meaning is made in text, how readers take meaning from text, the status of authorial intention versus the reader's interpretation, the role of the community of discourse in the reception of text, and so forth.*
 

@@ -12,7 +12,7 @@ subtype: policy
 region: "us"
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 34
+fact_related_count: 35
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Learning Progression]]"
   - "[[Policy Window]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Discourse]]"
   - "[[Scaffolding]]"
   - "[[Academic Achievement]]"
   - "[[Professional Judgment]]"
@@ -142,7 +143,7 @@ updated: 2026-10-07
 > |:---|:---|:---|:---|:---|
 > | NGA & CCSSO | 政治合法性与全美州级网络 | 确立全国统一质量基准，提升州级治理权威 | 倡导与主导 | 强调州级发起自愿联合，借助实证研究淡化意识形态争议 |
 > | [[Achieve]] & Hunt Institute | 政策专业知识与政界跨党派人脉 | 促进教育与经济发展对接，推动系统性教育改革 | 强力支持 | 充当[[Policy Entrepreneur\|政策企业家]]，组织常态化跨机构倡导协调，为各州提供立法咨询支持 |
-> | AFT & NEA | 庞大教师会员基底与草根动员网络 | 保障教师专业话语权，确保标准具备课堂可操作性 | 支持并审慎修正 | 组建一线名师审查组，就标准文字清晰度与年级梯度施加技术性修改 |
+> | AFT & NEA | 庞大教师会员基底与草根动员网络 | 保障教师专业[[Discourse\|话语]]权，确保标准具备课堂可操作性 | 支持并审慎修正 | 组建一线名师审查组，就标准文字清晰度与年级梯度施加技术性修改 |
 > | 州教育委员会（SBE） | 法定政策审批与立法合法化权威 | 履行本州教育受托人职责，避免地方选民争议 | 多数迅速支持 | 委托开展原有州标准与 CCSS 严密对比，以此说服保守议员采纳 |
 > | 验证委员会批评派 | 学术声誉与学科专业严密性 | 维护极高标准的学术严苛度，防范平庸化风险 | 反对与弃权 | 拒绝签署最终认证报告，公开抨击新标准在高级数学与经典文学要求上不及部分州已有标准 |
 

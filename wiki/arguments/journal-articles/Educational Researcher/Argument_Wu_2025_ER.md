@@ -25,6 +25,7 @@ related_concepts:
   - "[[Cognitive Offloading]]"
   - "[[Epistemology]]"
   - "[[Epistemic Stances]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Scaffolding]]"
   - "[[Epistemic Agency]]"
   - "[[Epistemic Cognition]]"
@@ -43,6 +44,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Metacognition]]"
   - "[[Open-Mindedness]]"
+  - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Scale of Measurement]]"
   - "[[Constructivist Paradigm]]"
@@ -89,7 +91,7 @@ title: "Argument_Wu_2025_ER"
 argument_key: "Argument_Wu_2025_ER"
 argument_display_title: "Strengthening Human Epistemic Agency in the Symbiotic Learning Partnership With Generative Artificial Intelligence"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -109,7 +111,7 @@ issuing_organization: ""
 > 在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）能够直接生成结构完整、逻辑连贯且极具说服力的知识解答背景下，教育研究面临以下核心关切：
 > 1. **技术[[Paradigm\|范式]]转型与认知危机** 生成式大语言模型与传统基于规则检索的系统有何根本不同？为什么它在大幅降低信息搜寻成本的同时，容易诱发学生的[[Cognitive Offloading\|认知卸载]]（Cognitive Offloading）与认识盲从？
 > 2. **[[Epistemology\|认识论]]维度的获益分化** 在面对具体的劣构学术任务（如统计推论方法选择与公式辨析）时，持不同[[Epistemic Stances\|认识立场]]（绝对论、多元论、评价论）与先验知识水平的学习者，其人机交互过程与推论决策机制呈现出怎样的微观差异？
-> 3. **人机共生关系的构建路径** 单纯增加人机交互频次能否自发促进学习者认识论水平的发展？教育者应当如何结合溯源核验[[Scaffolding\|教学支架]]与高级提示技术，推动学习者向高阶评价论立场演进，确保人类始终掌握[[Knowledge Building Theory|知识建构]]与评判的实质裁决权？（pp. 358–360）
+> 3. **[[Man-Computer Symbiosis|人机共生]]关系的构建路径** 单纯增加人机交互频次能否自发促进学习者认识论水平的发展？教育者应当如何结合溯源核验[[Scaffolding\|教学支架]]与高级提示技术，推动学习者向高阶评价论立场演进，确保人类始终掌握[[Knowledge Building Theory|知识建构]]与评判的实质裁决权？（pp. 358–360）
 
 > [!claim] 核心主张
 > 人机协同学习超越了传统的单向工具操控模式，构成人机共享[[Epistemic Agency\|认识能动性]]的共生系统；学习者从人机交互中获得的认知增益取决于其认识立场、先验知识与知识辩护方式的协同适配。频繁的人机交互不会自发促进认识论成熟，唯有依托跨源头核验的教学反思支架与高级提示技术，方能驱动认识立场向评价论演进，确保人类学习者始终掌握知识建构与评判的实质裁决权。（pp. 358–360, 364–366）
@@ -195,7 +197,7 @@ issuing_organization: ""
 
 针对[[UNESCO|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）在人工智能教育能力框架中强调的人类能动性要求，人机交互绝不能停留在人类下达指令、机器返回答案的单向工具操控模式。借用 [[Marlene Scardamalia|玛琳·斯卡达玛利亚]]（Marlene Scardamalia） 与 Bereiter（2006）关于认识能动性的经典界定，学习者必须在设定目标、选择策略与评价成果的全链条中享有实质自主权，因此人机交互应被重新定义为共生学习伙伴关系（Symbiotic Learning Partnership）。（pp. 358–360）
 
-> [!dimension] 人机共生伙伴关系的认识论定位
+> [!dimension] [[Man-Computer Symbiosis|人机共生]]伙伴关系的认识论定位
 > - **主体定位：从单向操控转向共享认识能动性**
 >   人类与智能系统构成人机共享认识能动性（Shared Epistemic Agency）网络；大模型承担观点初步整合，人类维持最高调控。（pp. 359–360）
 > - **核心职责：坚守批判审问与最终裁决权**
@@ -222,7 +224,7 @@ issuing_organization: ""
 
 #### 2. 三位学生的统计推论微观案例证实：高阶认识立场与丰富先验知识是抵御算法盲从的关键
 
-在高级统计学研究生课堂中，通过采集并分析三位具有不同先验知识与认识立场的学生（Student A, Student B, Student C）在完成真实复杂统计[[Homework|作业]]时与 ChatGPT 的多轮对话语料，为该理论命题提供了微观实证检验。（pp. 362–365）
+在高级统计学研究生课堂中，通过采集并分析三位具有不同先验知识与认识立场的学生（Student A, Student B, Student C）在完成真实复杂统计[[Homework|作业]]时与 ChatGPT 的多轮对[[Discourse|话语]]料，为该理论命题提供了微观实证检验。（pp. 362–365）
 
 > [!row-contrast] 学生与大语言模型交互的多维特征与推论路径对照
 > | 分析维度 | Student A（[[Absolutist\|绝对论者]]） | Student B（[[Multiplist\|多元论者]]） | Student C（[[Evaluativist\|评价论者]]） |
@@ -302,7 +304,7 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **确立人机共享[[Epistemic Agency\|认识能动性]]共生[[Paradigm\|范式]]** 人机协同学习超越了传统工具使用逻辑，构成人机共享认识能动性的共生系统。人类学习者必须通过自适应[[Epistemic Stances\|认识立场]]的动态调适，坚守对知识有效性的实质裁决权。（pp. 358–360）
+> 1. **确立人机共享[[Epistemic Agency\|认识能动性]]共生[[Paradigm\|范式]]** [[Man-Computer Symbiosis|人机协同]]学习超越了传统工具使用逻辑，构成人机共享认识能动性的共生系统。人类学习者必须通过自适应[[Epistemic Stances\|认识立场]]的动态调适，坚守对知识有效性的实质裁决权。（pp. 358–360）
 > 2. **证实认识立场与先验知识对获益的双重调节（修订假说一）** 质性对话协议分析表明，持有评价论立场且先验知识丰富的学习者能够通过多轮深度质询实现知识增益；而缺乏先验知识且持绝对论立场的学习者容易陷入对大模型的盲从与[[Cognitive Offloading\|认知卸载]]。（pp. 360–364）
 > 3. **揭示立场演进对教学与技术支架的条件依赖（修订假说二）** 频繁的人机交互不会自发促进[[Epistemology\|认识论]]成熟。唯有将持续交互与溯源[[Scaffolding\|教学支架]]、同伴审议及[[Chain-of-Thought Prompting\|思维链]]等提示技术相结合，方能有效推动认识立场由绝对论向评价论演进。（pp. 364–366）
 > 4. **构建可落地的双轨干预操作矩阵** 提出了融合跨源比对、同伴研讨、[[Role-playing\|角色扮演]]提示与专业检索增强生成的系统性促学路径，为[[Generative Artificial Intelligence\|生成式人工智能]]时代的教学变革提供了理论依据与实践方案。（pp. 365–366）

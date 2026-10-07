@@ -8,7 +8,7 @@ aliases:
 summary: "由 King 和 Kitchener 提出的认知发展与信念辩护模型，描述个体面对劣构问题时从前反思阶段（阶段1-3）、准反思阶段（阶段4-5）向反思阶段（阶段6-7）演进的认识论认知路径。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Epistemic Cognition]]"
   - "[[Task Structure]]"
   - "[[Epistemology]]"
+  - "[[Discourse]]"
   - "[[Open-Mindedness]]"
   - "[[Hypothesis]]"
   - "[[Epistemological Beliefs]]"
@@ -48,7 +49,7 @@ related_arguments:
   - "[[Argument_Cartiff_2021_JEP]]"
 status: active
 created: 2026-08-13
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Reflective Judgment Model
@@ -72,7 +73,7 @@ updated: 2026-10-03
 > King & Kitchener (1994, 2002) 将个体的反思性判断能力划分为三大认知发展时期，细分为七个具有内在逻辑一致性的递进发展阶段（见下表）：
 
 > [!ref-table]- 表 1：反思性判断模型（RJM）七个发展阶段的[[Epistemology\|认识论]]特征与辩护方式（基于 King & Kitchener, 1994, 2002; [[Argument_Hofer_1997_RER\|Hofer & Pintrich, 1997]]）
-> | 发展时期 | 阶段编号 | 知识本质观（View of Knowledge） | 信念辩护概念（Concept of Justification） | 典型思维表征与代表性话语 |
+> | 发展时期 | 阶段编号 | 知识本质观（View of Knowledge） | 信念辩护概念（Concept of Justification） | 典型思维表征与代表性[[Discourse\|话语]] |
 > |---|---|---|---|---|
 > | **前反思思维<br>(Pre-Reflective Thinking)<br>阶段 1–3** | **阶段 1：绝对直接主义** | 知识是绝对确凿、单一直观且客观存在的。真理通过直接观察或个人感官经验即可直接获得（眼见为实）。 | 不需要为信念辩护，因为事物就是所见到的那样；不存在主观信念与客观现实的区分，没有问题具有不确定性。 | 事物就是这样的，因为我亲眼看到了，根本不需要讨论。 |
 > | | **阶段 2：绝对权威主义** | 知识是绝对确定的，但并非人人直接可见。真理客观存在并由外部权威（如教师、科学家、神职人员）所持有。 | 信念通过直接诉诸权威来证成。如果存在不同意见，是因为某些人掌握了错误事实，或者权威尚未向大众宣布正确答案。 | 课本和老师是这么说的，所以这是对的；有争议是因为有人没学到正确知识。 |

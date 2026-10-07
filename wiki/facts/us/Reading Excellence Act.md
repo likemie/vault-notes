@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Paradigm]]"
   - "[[Decodification]]"
+  - "[[Discourse]]"
   - "[[Positivism]]"
   - "[[Hypothesis]]"
   - "[[Normal School]]"
@@ -87,7 +88,7 @@ updated: 2026-10-07
 > |:---|:---|:---|
 > | **阅读定义** | 依赖拼读技能快速无误[[Decodification\|解码]]印刷词汇、运用理解策略并对文本审美价值进行批判思考的过程。重点强调字母与发音对应及流利解码。 | 从印刷文本获取意义的复合系统。不仅要求音位连接与生词解码，还明确纳入阅读流利度、背景知识与词汇积累、主动建构意义策略及维持阅读动机。 |
 > | **科研标准定义** | 命名为可靠且可复制的研究（Reliable, Replicable Research）。要求大样本代表性、信效度测量、检验竞争性理论及同行评议。 | 命名为科学本位阅读研究（Scientifically Based Reading Research, SBRR）。要求运用系统经验方法、严密数据分析及可跨情境复验的有效数据。 |
-> | **话语特征** | 机械技能取向，明显体现认知心理学与神经生物学对实验干预范式的单一偏好。 | 折衷复合取向，保留了[[Positivism\|实证主义]]控制框架，但吸收了专业教育者对阅读情境、背景知识与动机维系的诉求。 |
+> | **[[Discourse\|话语]]特征** | 机械技能取向，明显体现认知心理学与神经生物学对实验干预范式的单一偏好。 | 折衷复合取向，保留了[[Positivism\|实证主义]]控制框架，但吸收了专业教育者对阅读情境、背景知识与动机维系的诉求。 |
 
 > [!citation-card] 参议院妥协版关于科学本位阅读研究的法定界定
 > 科学本位阅读研究是指运用严密、系统和客观的程序获取与阅读发展、阅读教学和阅读困难相关的有效知识；该研究应包括运用观察或实验的系统性经验方法，涉及足以检验预设[[Hypothesis|假设]]并论证得出结论的严谨数据分析。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 5)]]
@@ -126,7 +127,7 @@ updated: 2026-10-07
 ## 行动者与利益相关者
 
 > [!actor-grid] 卓越阅读法案权力—利益矩阵（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005, pp. 6–10]]）
-> - **高权力 · 高利益 — 关键行动者** 国会教育委员会核心领导层（比尔·古德林）与联邦官僚机构（[[National Institute of Child Health and Human Development|NICHD]] [[G. Reid Lyon|里德·里昂]]），直接掌控立法程序与科研证据话语霸权。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 8)]]
+> - **高权力 · 高利益 — 关键行动者** 国会教育委员会核心领导层（比尔·古德林）与联邦官僚机构（[[National Institute of Child Health and Human Development|NICHD]] [[G. Reid Lyon|里德·里昂]]），直接掌控立法程序与科研证据[[Discourse|话语]]霸权。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 8)]]
 > - **高权力 · 低利益 — 潜在否决者或盟友** 参议院两党温和派议员，关注教育专项经费分配但缺乏对阅读学术细节的深究，在获得各方妥协方案后迅速放行。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 7)]]
 > - **低权力 · 高利益 — 受影响群体** 基层中小学阅读教师与[[Normal School|师范教育]]者，直接受制于联邦经费绑定的教学规范，虽通过十万封写信抗议表达反对，但因缺乏制度化资本而难以撼动核心法条。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 6)]]
 > - **高利益 · 中等权力 — 调解中介** 专业组织（如[[International Reading Association|国际阅读协会]] IRA 与[[National Council of Teachers of English|全美英语教师委员会]] NCTE），借助专业声望介入立法谈判，推动有限的词汇修正。
@@ -180,7 +181,7 @@ updated: 2026-10-07
 > > - **地方学区与宪政法学学者（Linn, 2003）** 指出美国宪法并未赋予联邦管理课程的权力，以专项经费胁迫地方放弃多元读写课程属于规制越权。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 13)]]
 >
 > > [!axis] 科学研究标准的实证垄断与学术多元之争
-> > 争论官方推行的实证干预[[Paradigm|范式]]是否构成了学术话语霸权。
+> > 争论官方推行的实证干预[[Paradigm|范式]]是否构成了学术[[Discourse|话语]]霸权。
 > >
 > > - **[[National Institute of Child Health and Human Development|NICHD]] 与量化心理学学者（Lyon, [[National Reading Panel|NRP]]）** 坚称直接且系统的拼读教学与实验对照研究是唯一经过科学验证的方法。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8, 10)]]
 > > - **读写学者与一线教师（Strauss, 2001; Goodman, 1999; NCTE）** 指责官方以科学共识为名行利益垄断之实，将质性、文化与[[Action Research|行动研究]]排除在外，实质上服务于商业出版集团的利润。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 6, 9–10)]]

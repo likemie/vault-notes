@@ -4,7 +4,7 @@ title: "Argument_Narayanamurti_2013_IST"
 argument_key: "Argument_Narayanamurti_2013_IST"
 argument_display_title: "RIP: The basic/applied research dichotomy"
 argument_kind: "journal-articles"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#e5e7eb"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Teaching Assistant]]"
   - "[[Return on Investment]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
   - "[[Discovery-Invention Cycle]]"
@@ -321,7 +322,7 @@ updated: 2026-10-02
 > [!finding-cards] 核心发现
 > 1. **线性模型与二分法脱离了科研实际规律** 二战后基于《科学——[[Science, The Endless Frontier 1945|无尽的前沿]]》建立的二分法[[Paradigm|范式]]，将科研人为划分为两条相互隔离的平行轨道，成为妨碍制定整体性创新战略的体制障碍。（p. 31）
 > 2. **历史事实确证发明与发现能够双向转化** 瓦特蒸汽机对热力学理论的启发，以及半导体异质结构发明直接促成新型量子液体科学发现的历史脉络，有力推翻了理论认知必定先于技术发明的传统教条。（pp. 32–34）
-> 3. **斯托克斯[[Pasteur's Quadrant|帕斯德象限]]未能彻底走出旧话语** 斯托克斯框架虽拓展至二维平面，但分类基础依然停留在个人立项动机层面，且继续沿用二分法术语，未能彻底克服对科学与技术的割裂认知。（p. 32）
+> 3. **斯托克斯[[Pasteur's Quadrant|帕斯德象限]]未能彻底走出旧[[Discourse|话语]]** 斯托克斯框架虽拓展至二维平面，但分类基础依然停留在个人立项动机层面，且继续沿用二分法术语，未能彻底克服对科学与技术的割裂认知。（p. 32）
 > 4. **确立长远公共效用作为国家资助新准绳** 政府财政介入的合理标准应从是否属于基础研究转向是否具备长远公共效用。公共研发基金应优先支持那些能够在数十年尺度上消除创新网络瓶颈的重大探索。（p. 36）
 
 ---

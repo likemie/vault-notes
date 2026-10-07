@@ -10,7 +10,7 @@ title: "Argument_Beech_2015_GSE"
 argument_key: "Argument_Beech_2015_GSE"
 argument_display_title: "Interpreting the circulation of educational discourse across space: searching for new vocabularies"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - critique/concept
 related_concepts:
   - "[[Policy Borrowing]]"
+  - "[[Discourse]]"
   - "[[Methodological Nationalism]]"
   - "[[Hypothesis]]"
   - "[[Global-Local Binary]]"
@@ -79,7 +80,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 比较教育中使用的既有词汇，如转移、全球化、[[Policy Borrowing\|政策借用]]，在解释教育话语跨空间流通及其在不同情境中的转化时存在显著局限，无法捕捉教育中新的权力/知识地理所固有的复杂性。需要发展新的概念来分析教育话语的跨空间运动。
+> 比较教育中使用的既有词汇，如转移、全球化、[[Policy Borrowing\|政策借用]]，在解释教育[[Discourse|话语]]跨空间流通及其在不同情境中的转化时存在显著局限，无法捕捉教育中新的权力/知识地理所固有的复杂性。需要发展新的概念来分析教育话语的跨空间运动。
 >
 > 核心问题是如何超越以[[Methodological Nationalism\|方法论民族主义]]为基础的静态空间概念，发展能够捕捉教育话语跨空间流通之复杂性的新词汇。
 
@@ -149,7 +150,7 @@ citation_aliases:
 [[Policy Borrowing|政策借用]]概念存在两个问题。第一，Phillips (2000) 指出「借用」一词在语言上暗示了暂时性。他列举了其他曾被使用的术语，包括复制、挪用和进口，但最终回到了借用一词。第二，也是更重要的问题，[[Policy Borrowing|政策借用]]倾向于只关注国家政策，通常是书面政策文本。
 
 > [!warning] 只关注国家政策的局限
-> 如果只将注意力集中在国家政策上，就会错过教育话语权力扩散的大部分机制。在[[Government to Governance Shift\|从统治到治理的转变]]中，权力的部署方式发生了变化。
+> 如果只将注意力集中在国家政策上，就会错过教育[[Discourse|话语]]权力扩散的大部分机制。在[[Government to Governance Shift\|从统治到治理的转变]]中，权力的部署方式发生了变化。
 >
 > [[Network Governance\|网络治理]]描述了国家性质和运作方式的一系列变化。这并不一定意味着国家的削弱，但涉及教育治理在国家组织、民族国家、次国家和非政府机构之间的分工(Dale, 2005)。国家适应并转变为「网络国家」，由国际、跨国、国家、区域、地方和非政府政治机构之间的复杂权力共享和协商决策网络构成(Castells, 2000)。
 >
@@ -223,7 +224,7 @@ citation_aliases:
 
 > [!success]
 >
-> **既有词汇的局限**。转移、全球化、[[Policy Borrowing\|政策借用]]等概念基于领土性和静态的空间[[Hypothesis\|假设]]，无法捕捉教育话语跨空间流通的复杂性。这些概念有时被用作逃避复杂性的舒适方式。
+> **既有词汇的局限**。转移、全球化、[[Policy Borrowing\|政策借用]]等概念基于领土性和静态的空间[[Hypothesis\|假设]]，无法捕捉教育[[Discourse|话语]]跨空间流通的复杂性。这些概念有时被用作逃避复杂性的舒适方式。
 >
 > **[[Global-Local Binary\|全球/地方二元对立]]的误导**。将全球与地方视为对立两极掩盖了权力关系的复杂性。全球化概念需要被锐化而非被丢弃，需要仔细定义其含义、边界和行动者。
 >

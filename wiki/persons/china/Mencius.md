@@ -8,10 +8,10 @@ summary: "战国时期儒家思想家，孔子学说的直接继承者，以性�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: c. 372 BCE
 died: 289 BCE
 lifespan: c. 372 BCE – 289 BCE
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Sense of Shame]]"
   - "[[Humility]]"
   - "[[Ritual Propriety]]"
+  - "[[Discourse]]"
   - "[[Bildung]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-09-23
+updated: 2026-10-07
 ---
 
 # Mencius
@@ -127,7 +128,7 @@ updated: 2026-09-23
 > - **理论路径** — 性善论与[[Four Sprouts\|四端]]说为[[Confucian Learning Tradition\|儒家学习传统]]提供了哲学基石；“人人皆可为尧舜”使道德修养从贵族特权走向平民化[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 43)]]。
 > - **思想史路径** — “自得之”成为[[Neo-Confucianism\|宋明理学]]（如[[Zhu Xi\|朱熹]]、[[Wang Yangming\|王阳明]]）重新发现内在体验与心性修养的关键枢纽。
 > - **政策与课程路径** — 《孟子》被朱熹列入“四书”，主导[[Civil Service Examination\|科举]]考试逾六百年；当代中国《语文》必修教材将其选为“中华优秀传统文化”的[[Official Knowledge\|官方知识]]典范[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
-> - **跨文化反思路径** — “[[Take the World Upon Oneself\|以天下为己任]]”的士人精神影响了后世知识分子；然而在当代多元文化研究中，少数民族与信教学生指出教材所渲染的“[[Self-Cultivation\|修身]]、齐家、治国、平天下”话语带有强烈的男性主导（male-dominant）与政治精英压迫色彩，忽视了女性与少数族群的主体价值[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 69)]]。
+> - **跨文化反思路径** — “[[Take the World Upon Oneself\|以天下为己任]]”的士人精神影响了后世知识分子；然而在当代多元文化研究中，少数民族与信教学生指出教材所渲染的“[[Self-Cultivation\|修身]]、齐家、治国、平天下”[[Discourse|话语]]带有强烈的男性主导（male-dominant）与政治精英压迫色彩，忽视了女性与少数族群的主体价值[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 69)]]。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 系统分析孟子的性善论、四端说与自得之思想对东亚学习模型的奠基作用。
@@ -156,7 +157,7 @@ updated: 2026-09-23
 > > - **[[Xunzi\|荀子]]（战国）** — 主张“性恶论”，认为人性充满趋利欲望，道德必须通过外部[[Bildung\|教化]]与礼法约束强行矫正。
 
 > [!critique]- 批评索引
-> - [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] — 边缘学生批判指出，教材中宣传的孟子式“修身齐家治国平天下”构成了男权精英政治话语，漠视女性角色，且将汉族精英的政治抱负包装为普遍的国族规范。
+> - [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] — 边缘学生批判指出，教材中宣传的孟子式“修身齐家治国平天下”构成了男权精英政治[[Discourse|话语]]，漠视女性角色，且将汉族精英的政治抱负包装为普遍的国族规范。
 
 > [!warning] 未解问题与边界
 > 孟子“性善论”赋予了个人极高的道德能动性，但在面对现代多元文化冲突时，如何避免将“自得之”的内在道德感异化为排他性的文化优越感，是传统儒学现代化转型的关键边界。

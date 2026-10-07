@@ -13,7 +13,7 @@ summary: "19世纪北美圣经学者与教育改革家，受俄亥俄州议会�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Auslandspadagogik]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Educational Meliorism]]"
+  - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Policy Borrowing]]"
 related_theories: []
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Calvin Stowe
@@ -141,7 +142,7 @@ updated: 2026-09-29
 ## 历史评价
 
 > [!citation-card] 奈特论[[Report on Elementary Public Instruction in Europe\|斯托报告]]的跨州政策动员
-> 斯托受俄亥俄州委托收集对本州有益的欧洲公共教育事实与信息；其报告在全美引发空前轰动，推动多州议会拨款重印，成为 19 世纪中叶美国[[Common School Movement\|公学运动]]极具政策说服力的话语武器。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 31–32)]]；引自 Knight (1930:248)
+> 斯托受俄亥俄州委托收集对本州有益的欧洲公共教育事实与信息；其报告在全美引发空前轰动，推动多州议会拨款重印，成为 19 世纪中叶美国[[Common School Movement\|公学运动]]极具政策说服力的[[Discourse|话语]]武器。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 31–32)]]；引自 Knight (1930:248)
 >
 > *Stowe was commissioned by the state of Ohio to collect, while in Europe, 'such facts and information as he may deem useful to the State [Ohio] in relation to the various systems of public instruction and education'.*
 

@@ -8,9 +8,9 @@ aliases:
 summary: "1975年由DARPA局长乔治·海尔迈耶（George Heilmeier）确立的高风险颠覆性科技项目立项与评审黄金标准问卷。包含八项无行话、重实效的核心质询，涵盖目标界定、现状极限、创新路径、深远影响、风险测度、预算周期及阶段性验收考核；在白宫OSTP（2026）等当代创新政策中，被确立为使命导向型科研机构与联邦基金组合问责的基准评估工具。"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 19
-instrument_related_level: 3
-instrument_related_stars: "⭐⭐⭐"
+instrument_related_count: 20
+instrument_related_level: 4
+instrument_related_stars: "⭐⭐⭐⭐"
 instrument_related_color: "#e5e7eb"
 part_of: ""
 developers:
@@ -30,6 +30,7 @@ tags:
   - theme/metascience
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Research Translation]]"
   - "[[Portfolio-Based Research Funding]]"
   - "[[DARPA Model]]"
@@ -129,7 +130,7 @@ updated: 2026-10-07
 > [!finding-cards] 历史辐射与全球采纳
 > - **重塑 [[DARPA]] 使命管理纪律** 终结了 1960 年代对高校缺乏明确约束的开放撒钱模式，确立了“高风险探索必须匹配严苛里程碑考核”的现代治理文化。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
 > - **全球新型创新机构的共同基石** 先后被[[Department of Energy|美国能源部]]先进能源研究计划署（[[ARPA-E]]）、卫生高级研究计划署（[[ARPA-H]]）、情报先进研究计划署（IARPA）、英国高级研究与发明署（ARIA）等全球机构定为核心立项评价工具。
-> - **跨越科学探索与工程转化的沟通桥梁** 迫使科学家跳出象牙塔纯学术话语，以解决重大现实瓶颈为导向重构研究设计，极大地促进了前沿成果向产业界的[[Research Translation|技术转化]]。
+> - **跨越科学探索与工程转化的沟通桥梁** 迫使科学家跳出象牙塔纯学术[[Discourse|话语]]，以解决重大现实瓶颈为导向重构研究设计，极大地促进了前沿成果向产业界的[[Research Translation|技术转化]]。
 > - **国家科研基金组合审计标尺** 白宫 [[Office of Science and Technology Policy|OSTP]]《科学：新黄金时代》报告进一步将其作为联邦资助组合（[[Portfolio-Based Research Funding]]）开展独立绩效审计与去官僚化问责的通用基准。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 32)]]
 
 ---

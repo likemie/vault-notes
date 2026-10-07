@@ -10,7 +10,7 @@ title: "Argument_Teng_2025_CE"
 argument_key: "Argument_Teng_2025_CE"
 argument_display_title: "Migration for school choice: urbanisation and rural social stratification in China"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Open-Mindedness]]"
   - "[[Academic Attrition]]"
+  - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
@@ -205,7 +206,7 @@ source_language: en
 > | **总计** | **667** | **2461** | **27.1%** | **-** | **-** | **-** |
 
 > [!case] 政策引导与强制分流之下的学校合并：G县村级小学8号学校案例
-> 湖北省G县政府于 2022 年正式关闭了村级小学8号学校，并将其原学区内的全部农村儿童划归到新建成的县城公立小学X号学校。在这个过程中，当地政府官员和教师扮演了积极的动员角色。教育局官员向村民大肆宣传新建县城学校在硬件设施和师资力量上的绝对优势，动员并鼓励家长进城租房陪读。最终，在失去就近入学选择后，大部分家庭被迫接受了前往县城租房的长途迁移，这表明地方政府如何通过行政手段与话语引导，将关闭村校与城镇化人口吸纳紧密绑定在一起。(p.307)
+> 湖北省G县政府于 2022 年正式关闭了村级小学8号学校，并将其原学区内的全部农村儿童划归到新建成的县城公立小学X号学校。在这个过程中，当地政府官员和教师扮演了积极的动员角色。教育局官员向村民大肆宣传新建县城学校在硬件设施和师资力量上的绝对优势，动员并鼓励家长进城租房陪读。最终，在失去就近入学选择后，大部分家庭被迫接受了前往县城租房的长途迁移，这表明地方政府如何通过行政手段与[[Discourse|话语]]引导，将关闭村校与城镇化人口吸纳紧密绑定在一起。(p.307)
 
 ---
 

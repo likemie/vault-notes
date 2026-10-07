@@ -7,7 +7,7 @@ title: "Argument_Revai(Ed.)_2022_OECD"
 argument_key: "Argument_Revai(Ed.)_2022_OECD"
 argument_display_title: "Who cares about using education research in policy and practice?: Strengthening research engagement"
 argument_kind: "edited-volume"
-argument_related_count: 61
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Discipline-Based Theory]]"
   - "[[Paradigm]]"
   - "[[Champ]]"
+  - "[[Discourse]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Research Utilization]]"
   - "[[Evidence-Informed Practice]]"
@@ -138,7 +139,7 @@ updated: 2026-09-14
 ## 全书结构与章节路线
 
 > [!volume-structure] 全书结构
-> - **Part I: Conceptual landscape and the evolution of the [[Champ\|field]]（Ch. 1–3）** [[Concept Mapping\|概念图]]景与领域演进。从历史视阈梳理证据知情政策与实践（EIPP）话语变迁，辨析研究、证据与知识的边界，系统评述与比较主流[[Knowledge Mobilisation\|知识动员]]模型，考证[[Educational Brokerage Agency\|教育中介机构]]的发展脉络与体制困境。（pp.14–74）
+> - **Part I: Conceptual landscape and the evolution of the [[Champ\|field]]（Ch. 1–3）** [[Concept Mapping\|概念图]]景与领域演进。从历史视阈梳理证据知情政策与实践（EIPP）[[Discourse|话语]]变迁，辨析研究、证据与知识的边界，系统评述与比较主流[[Knowledge Mobilisation\|知识动员]]模型，考证[[Educational Brokerage Agency\|教育中介机构]]的发展脉络与体制困境。（pp.14–74）
 > - **Part II: Actors and mechanisms facilitating [[Research Utilization\|Research Use]] in policy and practice（Ch. 4–7）** 促进研究应用的行动者与机制。全面呈现 [[OECD]] 跨国政策调查核心数据，描绘国家与地方教育系统中促进研究利用的组织与个人行动者图景，分类诊断促成机制与结构性障碍，借鉴医疗与环境等跨行业证据应用经验，并提出中介机制本身的循证标准。（pp.75–164）
 > - **Part III: New approaches to understanding research use（Ch. 8–11）** 理解研究应用的新路径与未来方向。从知识共建（Co-construction）、实践情境中的[[Quality Use of Research Evidence Framework\|高质量研究使用]]（Quality Use of Research）、多利益相关者争议视角（涵盖工会、政府与基金会），最终汇聚收束为改善研-政-学深度联动的系统性治理启示。（pp.165–245）
 
@@ -205,7 +206,7 @@ updated: 2026-09-14
 
 > [!chapter-roadmap] 章节处理路线
 > - **已处理章节**
->   - Ch. 01 [[Argument_Revai_2022_ChangingLandscape]]。Nóra Révai 梳理证据知情话语与[[Knowledge Mobilisation\|知识动员]]概念演进，界定研究、证据与知识边界，批判线性模型并引入复杂系统论视角，确立 [[OECD]] 政策调查设计与全书分析架构。
+>   - Ch. 01 [[Argument_Revai_2022_ChangingLandscape]]。Nóra Révai 梳理证据知情[[Discourse|话语]]与[[Knowledge Mobilisation\|知识动员]]概念演进，界定研究、证据与知识边界，批判线性模型并引入复杂系统论视角，确立 [[OECD]] 政策调查设计与全书分析架构。
 >   - Ch. 02 [[Argument_Torres_2022_KMModels]]。[[José Manuel Torres]] 借助 Best & Holmes 三代模型透镜，横向比较跨领域四大主流知识动员模型（Lavis、Graham KTA、Levin [[Research Knowledge Mobilisation Model\|RKM]]、Gough 证据生态），结合微观行为改变与教师声音前沿，确立未来[[Evidence Ecosystem\|证据生态系统]]模型的建构路标。
 >   - Ch. 03 [[Argument_Burns_Schuller_2022_BrokerageAgencies]]。[[Tracey Burns]] & [[Theory of Mind\|ToM]] Schuller 考证 2007–2022 年全球[[Educational Brokerage Agency\|教育中介机构]]演进史，揭示后真相时代挑战与实践倾斜诱发的政策脱责隐忧，借助循证医学危机剖析证据商业化与刚性指南的负面效应，指出机构受制于 2–3 年政治预算周期的存续悖论，并倡导推进“中介的中介”（Brokering the Brokers）以建构跨国[[Cumulative Knowledge Base\|累积性知识库]]。
 >   - Ch. 04 [[Argument_Hill_2022_FacilitatingActors]]。Jordan Hill 基于 OECD 跨国政策调查（29 国 37 个教育系统）实证数据，全景刻画促进研究应用的 17 类组织行动者与个体专业角色，揭示大学垄断生产、实践组织边缘化、部委依附生产而非促成转化、教师被局限为被动数据收集客体，以及政策制定者人际网络沦为狭隘“交易型”接触等系统性结构断层。
@@ -223,7 +224,7 @@ updated: 2026-09-14
 ## 各章概览
 
 > [!chapter-index] 章节索引
-> - **Ch. 01 — The Changing Landscape of [[Research Utilization\|Research Use]] in Education** [[Argument_Revai_2022_ChangingLandscape]] — 梳理证据知情政策与实践话语演进，界定研究、证据与知识概念边界，阐述从线性模型到复杂系统模型的[[Paradigm\|范式]]转型，并介绍 [[OECD]] 政策调查框架。
+> - **Ch. 01 — The Changing Landscape of [[Research Utilization\|Research Use]] in Education** [[Argument_Revai_2022_ChangingLandscape]] — 梳理证据知情政策与实践[[Discourse|话语]]演进，界定研究、证据与知识概念边界，阐述从线性模型到复杂系统模型的[[Paradigm\|范式]]转型，并介绍 [[OECD]] 政策调查框架。
 > - **Ch. 02 — Louder than Words: Review and Comparative Analysis of [[Knowledge Mobilisation]] Models** [[Argument_Torres_2022_KMModels]] — 系统评述与比较主流知识动员模型（线性、关系、KTA、[[Research Knowledge Mobilisation Model\|RKM]]、[[Evidence Ecosystem\|证据生态系统]]），探讨系统复杂性与促成机制。
 > - **Ch. 03 — History and Evolution of [[Educational Brokerage Agency\|brokerage agencies in education]]** [[Argument_Burns_Schuller_2022_BrokerageAgencies]] — 考证 15 年来全球教育中介机构在治理模式（部委嵌入、政府资助自治、独立慈善）、受众定位与方法学立场上的历史演变，剖析后真相挑战与政策脱责风险，揭示短期政治预算周期导致的机构夭折悖论，并提出“中介的中介”元治理路线图。
 > - **Ch. 04 — Who is Facilitating Research Use in Education Systems?** [[Argument_Hill_2022_FacilitatingActors]] — 基于 OECD 政策调查数据，详尽描绘在国家与地方教育系统中促进研究应用的组织与个体行动者，揭示学术生产主导与实践外围化、部委联结脱节、一线教师被动客体化及政策决策交易型互动的深层断裂。

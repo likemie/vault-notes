@@ -5,7 +5,7 @@ aliases:
 summary: "把现代社会理解为由流动网络而非稳定等级结构主导的理论，用于解释信息、资本与知识如何在跨边界连接中重新组织"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 22
+theory_related_count: 23
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Space of Flows and Space of Places]]"
+  - "[[Discourse]]"
   - "[[Global Policy Space]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Transnational Research Collaboration]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 ## 核心主张
@@ -73,7 +74,7 @@ updated: 2026-10-02
 > - **1996** — [[Manuel Castells]] 出版 *The [[Research in Schools Evaluation\|RISE]] of the Network Society*（信息时代三部曲第一卷），系统阐述网络社会概念，将信息技术革命、经济全球化和网络化组织形式的兴起整合为一个统一的理论框架
 > - **2000** — Castells 在 *British Journal of Sociology* 发表网络社会探索性理论，进一步阐述网络的二元纳入／排除逻辑和权力动态（Castells, 2000c）
 > - **2006** — Yochai Benkler 出版 *The Wealth of Networks*，将网络社会理论延伸至[[Knowledge Production\|知识生产]]领域，论证网络化的知识生产（如开源软件、维基百科式的协作）正在挑战传统的、等级化的知识生产模式
-> - **2009** — Beech 将 Castells 的[[Space of Flows and Space of Places\|流动空间与地方空间]]区分和网络逻辑应用于比较教育中的话语流通分析，提出[[Global Policy Space\|全球政策空间]]概念([[Argument_Beech_2009_CE\|Beech, 2009]])
+> - **2009** — Beech 将 Castells 的[[Space of Flows and Space of Places\|流动空间与地方空间]]区分和网络逻辑应用于比较教育中的[[Discourse|话语]]流通分析，提出[[Global Policy Space\|全球政策空间]]概念([[Argument_Beech_2009_CE\|Beech, 2009]])
 > - **2022** — Rizvi 将网络社会理论整合进其[[Geopolitics of Higher Education\|高等教育地缘政治]]分析，用于解释[[Transnational Research Collaboration\|跨国研究合作]]的网络化转型([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.98–99]])
 >
 
@@ -94,12 +95,12 @@ updated: 2026-10-02
 
 
 > [!success] 多重理性的网络化融合
-> Rizvi 将网络社会理论应用于解释一个更深层的现象：跨国研究合作中**多重理性的无缝融合**（详见 跨国研究合作 > 核心要素）。个体研究者的学术兴趣、机构的声誉需求、国家的贸易和外交目标——这些来自不同层次、服务于不同目标的理性——在合作网络中被融合进同一套话语。网络社会理论为此提供了概念基础：正是因为社会组织已从等级制的"各就各位"转变为网络化的"多重连接"，同一个合作项目才能同时承载学术、经济、外交的多重意义([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.98–99]])。
+> Rizvi 将网络社会理论应用于解释一个更深层的现象：跨国研究合作中**多重理性的无缝融合**（详见 跨国研究合作 > 核心要素）。个体研究者的学术兴趣、机构的声誉需求、国家的贸易和外交目标——这些来自不同层次、服务于不同目标的理性——在合作网络中被融合进同一套[[Discourse|话语]]。网络社会理论为此提供了概念基础：正是因为社会组织已从等级制的"各就各位"转变为网络化的"多重连接"，同一个合作项目才能同时承载学术、经济、外交的多重意义([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.98–99]])。
 >
 
 ## 在比较教育研究中的应用
 
-> [!success] [[Global Policy Space\|全球政策空间]]与教育话语流通
+> [!success] [[Global Policy Space\|全球政策空间]]与教育[[Discourse|话语]]流通
 > [[Argument_Beech_2009_CE\|Beech (2009)]]将 Castells 的[[Space of Flows and Space of Places\|流动空间]]概念和网络逻辑应用于分析比较教育中教育话语的跨空间流通与转化。他的分析揭示了网络社会理论在理解教育政策话语方面的三个应用层面：
 
 > [!success] 流动空间中的议程设置
@@ -116,7 +117,7 @@ updated: 2026-10-02
 
 - Castells (1996, 2000a, 2000c) — 信息时代三部曲及网络社会探索性理论
 - Benkler (2006) — 网络财富概念，将网络社会理论延伸至[[Knowledge Production|知识生产]]的经济学分析
-- [[Argument_Beech_2009_CE|Beech (2009)]] — 将网络社会理论的空间分析应用于比较教育中的全球政策话语流通
+- [[Argument_Beech_2009_CE|Beech (2009)]] — 将网络社会理论的空间分析应用于比较教育中的全球政策[[Discourse|话语]]流通
 
 ---
 

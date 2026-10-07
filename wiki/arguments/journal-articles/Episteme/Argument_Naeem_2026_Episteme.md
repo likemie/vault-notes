@@ -56,6 +56,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Divergent Thinking]]"
   - "[[Ontology]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Epoché]]"
 related_theories:
   - "[[Virtue Epistemology]]"
@@ -82,7 +83,7 @@ title: "Argument_Naeem_2026_Episteme"
 argument_key: "Argument_Naeem_2026_Episteme"
 argument_display_title: "Teaching skills and intellectual virtues with generative AI"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -432,7 +433,7 @@ issuing_organization: ""
 > 1. **直接答案交付引致内生思维机能与[[Creativity|创造力]]的双重[[Cognitive Deskilling|去技能化]]**（pp. 270–273）
 >    算法即时提供完整答案剥夺了学生调动[[Working Memory|工作记忆]]与推理的认知挣扎，遵循用进废退动力学致使大脑机能退化（钢琴家隐喻）；同时实证证明（Doshi & Hauser, 2024），过度依赖 AI 代劳构思显著压缩了群体创意多样性，引发普遍同质化。
 > 2. **[[Skill of Questioning|善于提问]]是驱动高阶探究与达成深层理解的枢纽智力技能**（pp. 272–274, 276–277）
->    提问技能（Watson, 2018）具有熟练度梯次，是个体定位认知缺口并通向[[Open-Mindedness|思想开放]]的大门；以直接答案拦截规则重构 AI 交互，是防范去技能化、促使学生在人机协同中保有自主性的根本出路。
+>    提问技能（Watson, 2018）具有熟练度梯次，是个体定位认知缺口并通向[[Open-Mindedness|思想开放]]的大门；以直接答案拦截规则重构 AI 交互，是防范去技能化、促使学生在[[Man-Computer Symbiosis|人机协同]]中保有自主性的根本出路。
 > 3. **从封闭到开放的问题递进序列促成把握解释性关联的深层理解**（pp. 275–278）
 >    Q-Tutor 通过在科学与哲学主题中实施从事实检索向结构-功能因果机制推进的追问策略，促使学生将抽象知识与音乐、天文等个人独特经验图式紧密交织，达成具有鲜明个体印记的深度理解。
 > 4. **心理治疗式问答对话确立了学生对于思想成果的自主作者权**（pp. 280–281）

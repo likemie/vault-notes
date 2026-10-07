@@ -8,7 +8,7 @@ aliases:
 summary: "20 世纪 50 至 70 年代支配英美比较教育学的知识体系与研究纲领，摒弃古典历史学派主观印象与思辨归因，通过变量控制、量化共变检验与假说-演绎问题法探寻跨国规律与政策预测，并在实践中与战后国家理性规划形成合法化共谋"
 type: concept
 domain: "comparative-education"
-related_count: 61
+related_count: 62
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Positivism]]"
   - "[[Epistemology]]"
+  - "[[Discourse]]"
   - "[[Rationalism in International Relations]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Unit of Analysis]]"
@@ -88,7 +89,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Scientific Paradigm
@@ -113,7 +114,7 @@ updated: 2026-10-01
 > [!boundary]- 概念边界
 > - 不等于 [[Positivism\|实证主义]] — 科学范式是具体的学科知识纲领，涵盖了结构功能主义、假说-演绎批判理性主义与经验计量等多重流派，实证主义仅为其底层[[Epistemology\|认识论]]之一。
 > - 不等于 比较教育学学科整体 — 科学范式仅为学科演进中的特定阶段（1950s末–1970s初），前后分别存在历史-哲学传统与后现代/批判多元范式。
-> - 不适用于解释脱离制度功能与政策干预的纯粹形而上学思辨或后现代去中心化的话语游戏。
+> - 不适用于解释脱离制度功能与政策干预的纯粹形而上学思辨或后现代去中心化的[[Discourse|话语]]游戏。
 
 ---
 
@@ -244,7 +245,7 @@ updated: 2026-10-01
 > - **1950 年代末 — 历史范式危机与转型萌发** 二战浩劫击碎了古典人文[[Bildung|教化]]精英的神话，古典历史学派被指责沉溺于宏观文化白描而无力回应战后重建规划；[[George Bereday|乔治·贝雷迪]]（George Bereday）提出比较四步法，将学科目标推向跨国普遍法则探寻，充当过渡桥梁。（pp. 59–62）
 > - **1960 年代 — 科学范式全盛与[[Epistemology|认识论]]大论战** 芝加哥大学中心建立，推进超越时空的制度规律探索；诺亚与埃克斯坦（1969）出版《走向比较教育科学》，建立[[Variable|变量]]共变检验程序；霍姆斯（1965, 1981）提出[[Critical Dualism|批判二元论]]与假说-演绎[[Problem Approach|问题法]]，以预测力划界；科学范式确立绝对统治地位。（pp. 62–67）
 > - **1970 年代中叶 — 三重危机与全包容神话破灭** 西方滞胀与第三世界危机戳破了实证规划承诺；量子物理学打破[[Determinism|决定论]]神话；后现代思潮解构[[Grand Theory|宏大叙事]]，单一科学范式不可逆转地走向衰落。（pp. 68–69）
-> - **1980 年代至今 — 学科复数化与全球治理制度惯性** 学界确立多元范式并存且无霸权主导的共识（[[Comparative Educations]]）；与此同时，实证量化模式在 [[IEA]] 与 [[OECD]]（如 [[PISA]] 测验）等跨国治理机制中依然保有强大的制度惯性话语权。（p. 69）
+> - **1980 年代至今 — 学科复数化与全球治理制度惯性** 学界确立多元范式并存且无霸权主导的共识（[[Comparative Educations]]）；与此同时，实证量化模式在 [[IEA]] 与 [[OECD]]（如 [[PISA]] 测验）等跨国治理机制中依然保有强大的制度惯性[[Discourse|话语]]权。（p. 69）
 > - **2000 年代 — [[Pluralism|健康多元主义]]实证确立** 拉斯特等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）依托[[Document|文献]]计量实证证实，冷战时期单一实证功能主义正统已彻底终结，学科演进为涵盖 26 种理论传统的健康多元主义格局，确立了方法论与理论工具自由选择的成熟研究范式。
 
 ---

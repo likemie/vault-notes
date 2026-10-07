@@ -7,7 +7,7 @@ aliases:
 summary: "以企业管理与市场竞争逻辑重塑公共部门的治理范式，强调绩效指标、产出控制、性价比核算、供给竞争、管理问责与服务外包，在带来微观成本控制的同时导致公共部门去技能化与创新治理的青蛙视角"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Patient Capital]]"
   - "[[Governing by Numbers]]"
   - "[[Performance Indicators]]"
+  - "[[Discourse]]"
   - "[[Doxa]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Champ]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # New Public Management
@@ -95,7 +96,7 @@ updated: 2026-10-03
 > - **用途** 揭示教育政策中绩效考核、大学商业化运营、[[School Inspection|学校督导]]评级，以及国家科技治理中组织去技能化、过度依赖外部咨询与缺乏长期[[Patient Capital|耐性资本]]的管理主义根源。
 > - **边界** 不等于公共服务的彻底私有化与完全放弃国家责任，而是国家通过远程[[Governing by Numbers|数字治理]]、[[Performance Indicators|绩效指标]]与合约外包在准市场环境中实施间接控制。
 
-> [!citation-card] 治理话语的[[Doxa|不言自明]]化
+> [!citation-card] 治理[[Discourse|话语]]的[[Doxa|不言自明]]化
 > 新公共管理的话语已经深刻嵌入教育结构之中：效率、效能、绩效、质量保证、[[Public-Private Partnership in Research|公私合作伙伴关系]]等术语全面覆盖基础教育与高等教育各层级，演进为[[Champ|场域]]内不言自明的前提假定。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
 >
 > *NPM discourses have become deeply embedded in educational structures, with efficiency, performance, and accountability naturalized as self-evident axioms.*
@@ -265,7 +266,7 @@ updated: 2026-10-03
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 批判 NPM 将政府局限于被动市场修补与外包监管的弊端，论证企业型国家的主动[[Market Shaping and Creating|市场塑造]]与共创能力。
 > - [[Argument_Møller_2017_EERJ|Møller (2017)]] — 分析挪威等北欧国家基础教育中 NPM 问责制与督导评级对教师专业自主与教育公平的侵蚀。
 > - [[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022)]] — 揭示英格兰 35 年教师教育改革中 NPM 如何将循证实践异化为性价比核算与[[Policy-Based Evidence-Making|逆向证据生产]]。
-> - [[Argument_Amos_2022_Springer|Amos (2022)]] — 阐明 NPM 治理话语在教育结构中的自然化嵌入与[[Knowledge-Based Economization|知识经济化]]机制。
+> - [[Argument_Amos_2022_Springer|Amos (2022)]] — 阐明 NPM 治理[[Discourse|话语]]在教育结构中的自然化嵌入与[[Knowledge-Based Economization|知识经济化]]机制。
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 探讨[[Internationalization of Higher Education|高等教育国际化]]中 NPM 驱动的留学生市场化依赖与企业化转型。
 > - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 批判领导力培训项目中管理主义能力框架对校长专业身份的[[Disciplina and Doctrina|规训]]。
 > - [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]] — 比较英德高等教育中 NPM 绩效评估与[[Research Excellence Framework|研究卓越框架]]对资源分层的强化。

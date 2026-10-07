@@ -9,7 +9,7 @@ aliases:
 summary: "一种主张真正知识唯独建立在感官经验、观察与实验基础之上的认识论立场，预设自然与社会遵循同质客观法则；在启蒙发轫期曾从属于全人道德教化与社会改良，而在20世纪演化为追求价值中立与法则概括的统治性实证范式。"
 type: concept
 domain: "educational-philosophy"
-related_count: 116
+related_count: 117
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -63,6 +63,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Critique of Evidence-Based Education]]"
   - "[[Working Hypothesis]]"
+  - "[[Discourse]]"
   - "[[Big Science]]"
   - "[[Formal Epistemology]]"
   - "[[Practical Epistemology]]"
@@ -144,7 +145,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Positivism
@@ -435,7 +436,7 @@ updated: 2026-10-05
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 2010 与 2020 年五大顶级教育心理学期刊发表[[Document\|文献]] | 历时性方法学内容计量[[Coding in Qualitative Research\|编码]] | 量化[[Intervention Research\|干预研究]] vs [[Qualitative Research\|质性研究]]占比 | 量化干预与[[Correlational Research\|相关研究]]仍占 78%，呈现强大制度惯性，质性升至 22% | $p < .05$ | 验证了实证量化模式在主流学科中持续的主导地位与多元范式松动 |
-> | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] | 跨国可见学习政策与课堂实证评估报告 | 话语与方法学批判分析 | [[Meta-analysis\|元分析]]效应量与循证处方指标 | 揭示将师生教学交往降解为单一效应量指标造成课堂[[Ontology\|本体论]]抽空 | — | 质性批判展现新实证主义在微观教学中面临的本体论边界 |
+> | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] | 跨国可见学习政策与课堂实证评估报告 | [[Discourse\|话语]]与方法学批判分析 | [[Meta-analysis\|元分析]]效应量与循证处方指标 | 揭示将师生教学交往降解为单一效应量指标造成课堂[[Ontology\|本体论]]抽空 | — | 质性批判展现新实证主义在微观教学中面临的本体论边界 |
 
 ---
 
@@ -450,7 +451,7 @@ updated: 2026-10-05
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 剖析比较教育学两百年四重论述代际演变，揭示 20 世纪 60 年代“新科学革命”如何异化为斯蒂芬·图尔敏（Stephen Toulmin, 1963）所批评的科学一元论与[[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1972）所批判的[[Empiricism|唯方法论主义]]（Methodologism）；阐明霍姆斯（[[Brian Holmes]]）[[Problem Approach|问题法]]作为“后相对论社会科学”对古典实证论的拒斥，结合卡诺伊（Carnoy, 1983）批判揭示实证主义作为资本主义再生产“意识形态借口”的政治本质，并实证诊断实证霸权导致历史论文暴跌跌破 5% 所诱发的严重“[[Historical Amnesia|历史健忘症]]”（Historical Amnesia）。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 深入剖析 20 世纪 60 年代比较教育实证[[Scientific Paradigm\|科学范式]]内部围绕“法则性质”的深刻分野（芝加哥学派的恒常规律 vs 哥大学派的[[Variable\|变量]]函数共变 vs 霍姆斯的权变社会学法则与预测划界），揭示实证主义之所以在实践中胜出，根源于其充当了战后国家五年计划与技术援助的政治[[Social Science as Legitimation Alibi\|合法化借口]]（alibi），并追踪其在现实危机、量子不确定性转向与后现代思潮冲击下向多元范式演进的终结轨迹。
 > - [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] — 揭示中小学科学教育深受教条实证主义影响，将科学探究扭曲为呆板的线性实验室规程，进而呼吁突破幼稚的[[Formal Epistemology\|形式认识论]]，转向关注学生在真实探究情境中的[[Practical Epistemology\|实践认识论]]。
-> - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] — 剖析当代[[Evidence-Based Education\|循证教育]]狂热标榜的实证主义科学话语，揭示将教学质量简化为[[Meta-analysis\|元分析]][[Effect Size\|效应量]]与量化控制[[Variable\|变量]]，本质上是对微观教学实践关系性[[Ontology\|本体论]]的粗暴抽空。
+> - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] — 剖析当代[[Evidence-Based Education\|循证教育]]狂热标榜的实证主义科学[[Discourse|话语]]，揭示将教学质量简化为[[Meta-analysis\|元分析]][[Effect Size\|效应量]]与量化控制[[Variable\|变量]]，本质上是对微观教学实践关系性[[Ontology\|本体论]]的粗暴抽空。
 > - [[Argument_Cowen_2009_CE\|Cowen (2009b)]] — 回顾比较教育学科发展史，指出以美国 1960 年代科学实证派（如诺亚与埃克斯坦）为代表的实证主义霸权曾试图将跨国比较改造为脱离情境的假设检验与定律发现，最终在学科反思中被“转移-[[Transfer Translation Transformation\|转译]]-变形”的后实证视角所解构。
 > - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne (2003)]] — 系统考证 2000–2003 年美国联邦立法中“法定实证主义”（以卡斯尔草案和 [[No Child Left Behind Act 2001|NCLB]] 强制量化实验假设检验为代表）与后实证科学原则（NRC SRE 与 ESRA 2002 方法契合问题）的历史争鸣，论证学术界公共审议在反制实证主义行政垄断中的关键作用。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 梳理欧洲比较教育学科范式演变，系统阐释 20 世纪 60 至 80 年代德国社会学“实证主义之争”（*[[Positivist Dispute in German Sociology|Positivismusstreit]]*）与新马克思主义思潮对实证主义量化范式的深刻反弹，揭示欧陆传统如何抵抗英美实证范式的一统天下并捍卫历史文化与社会批判维度。

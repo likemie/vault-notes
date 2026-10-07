@@ -7,7 +7,7 @@ aliases:
 summary: "将空间理解为社会网络、制度安排与耐用材料构成的动态拓扑构型而非静态领土容器；在教育政策研究中用于解构全球与国家二元对立，透视政策网络中的策略性外在化以及耐用客体构建的异层支配秩序。"
 type: concept
 domain: "comparative-education"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Operationalization]]"
   - "[[Space of Flows and Space of Places]]"
+  - "[[Discourse]]"
   - "[[Hypothesis]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Shape-Shifting]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # Relational Space
@@ -108,7 +109,7 @@ updated: 2026-09-26
 > [!contrast-table] 概念辨析
 > | 维度 | 关系性空间（Relational Space） | 领土性空间（Territorial Space） | [[Space of Flows and Space of Places\|流动空间]]（Space of Flows） |
 > |------|-----------------------------|------------------------------|--------------------------|
-> | **空间本质** | 社会关系、制度网络与话语实践生成的动态拓扑 | 边界固定的地理领土与行政管辖物理容器 | 电子脉冲、全球资本与信息技术构建的技术拓扑 |
+> | **空间本质** | 社会关系、制度网络与[[Discourse\|话语]]实践生成的动态拓扑 | 边界固定的地理领土与行政管辖物理容器 | 电子脉冲、全球资本与信息技术构建的技术拓扑 |
 > | **全球/国家关系** | 相互依存、多维渗透与共生的重叠空间 | 外部环境与内部主权的二元对立与排他割裂 | 超越并架空民族国家的无缝技术网络与速度支配 |
 > | **知识流动[[Hypothesis\|假设]]** | 知识在转移空间（Transfer Space）中被[[Transfer Translation Transformation\|转译]]重构 | 知识从发源国到输入国的线性空间平移 | 去语境化信息在全球信息通道中的瞬时全域覆盖 |
 > | **治理分析焦点** | 行动者网络[[Assemblage\|组装]]、策略性外在化与两阶段过滤 | 主权国家的国家利益、科层规制与边境管控 | 跨国精英网络、自动化算法协议与全球流动控制 |
@@ -121,7 +122,7 @@ updated: 2026-09-26
 > - **网络动态生产与重构空间** 空间并非被动容纳行动者的物理背景，而是由网络关系的配置、重构与[[Assemblage\|组装]]不断生产的动态产物；不存在单一的绝对空间，不同的社会行动者网络共存并创造各异的实践空间。[[Argument_Beech_2015_GSE\|(Beech & Artopoulos, 2015)]]
 > - **空间是社会过程的效果而非容器** 空间被界定为社会、政治与经济过程的动态生成结果（Effect），其外延随着行动者卷入程度与交互强度的增减而发生拓扑[[Shape-Shifting\|形变]]。
 > - **耐用客体对关系空间的物理化锚定（Embodiment in Durable Materials）** 关系空间不仅是由主体互动维系的主观交往空间，而且借助物理和法律实体的“耐用材料”（如公司法法人章程、法定税法修正案、因果推论量规）获得长程延展与制度刚性；耐用客体将特定利益集团的意志固化为客观治理规则，使其免受民主政党轮替冲击。[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 8]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 527]]
-> - **超越全球/地方固定二元对立** 彻底打破“全球在宏观外侧、地方在微观内侧”的刚性嵌套想象，揭示全球规范如何内生于本土行政重构，以及本土危机如何通过[[Externalization\|外化]]为全球话语得以合法化。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
+> - **超越全球/地方固定二元对立** 彻底打破“全球在宏观外侧、地方在微观内侧”的刚性嵌套想象，揭示全球规范如何内生于本土行政重构，以及本土危机如何通过[[Externalization\|外化]]为全球[[Discourse|话语]]得以合法化。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
 > - **[[Transfer Space\|转移空间]]（Transfer Space）的意义[[Recontextualization\|再脉络化]]** 政策知识绝非从甲地直接复印至乙地，而是在由国际组织、专家智库与国家官僚共同构成的转移空间中，经历选择性提取、包装转化与再脉络化重塑。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540, 546)]]
 
 > [!logic-map]- 关系性空间视阈下的[[Policy Mobility\|政策流动]]拓扑图

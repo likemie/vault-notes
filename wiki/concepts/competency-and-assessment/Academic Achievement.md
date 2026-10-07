@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（Official Academic Achievement, OAA）、预估总评成绩（Estimated Overall Academic Achievement, EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 136
+related_count: 137
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Homework]]"
   - "[[Cognitive Offloading]]"
+  - "[[Discourse]]"
   - "[[Performance Pay]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[School Choice]]"
@@ -164,7 +165,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-15
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Academic Achievement
@@ -306,7 +307,7 @@ updated: 2026-10-03
 
 ### 命题七　全球数据治理下跨国学业成就指标的高度可塑性易被国内政客再造为虚假停滞危机以合法化争议改革
 
-> [!concept-lens] 宏观治理中的学业成就话语建构
+> [!concept-lens] 宏观治理中的学业成就[[Discourse|话语]]建构
 > 探讨在大规模国际评估（如[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA））中，去情境化的学业成就指标如何从客观心理测量结果异化为高度可塑的话语资本，被执政者用于制造危机修辞与强推本土争议改革。
 
 > [!claim] [[Argument_Grey_2018_CE\|Grey & Morris (2018, pp. 114–116, 125–126)]]
@@ -498,7 +499,7 @@ updated: 2026-10-03
 > | Lodewyk（实验子样本） | 89 名加拿大十年级中学生（独立学校实验子样本） | 平衡顺序组内对比设计 | [[Task Structure\|良构任务]]（Well-Structured Task, WST）表现、劣构任务（Ill-Structured Task, IST）表现、[[Reflexivity\|反思性]]判断（[[Reflective Judgment Model\|Reflective Judgment]], RJ）得分 | WST 均分 70.30，IST 均分 67.72；认识论三因子无法预测 WST（$R^2 = .04, p = .37$），但显著预测 IST（$R^2 = .12, p = .01$）与 RJ（$R^2 = .10, p = .04$）；SK 是 IST 与 RJ 的核心负向预测源（$\beta = -.24, p = .02$） | 两任务均分差异 $t(88) = -1.38, p = .17, ES = 0.15$；IST 模型 $F(3,85) = 3.80, p = .01$；RJ 模型 $F(3,85) = 2.97, p = .04$ | 确立[[Task Structure\|任务结构]]对学业表现[[Epistemology\|认识论]]制约效应的关键调节作用 |
 > | Lodewyk（性别差异分析） | 447 名全样本及 89 名实验子样本 | 性别差异对比分析（独立样本 t 检验与 [[Multivariate Analysis of Variance\|MANOVA]]） | 生理性别（男/女）、EOAA、WST 表现、IST 表现、认识论三因子 | 女生在各维度学业成就上全面显著优于男生：EOAA（$76.90\%$ vs $72.05\%$）、WST（$75.60$ vs $65.12$）、IST（$71.64$ vs $63.88$）；女生在 FQAL 和 CK 信念成熟度上显著超越男生 | EOAA 性别差异 $t(444) = 3.99, p < .001$；WST 性别差异 $t(87) = 2.92, p = .004, ES = .58$；IST 性别差异 $t(87) = 2.08, p = .04, ES = .44$；MANOVA 性别主效应 $F(3,437) = 12.82, p < .001, \eta^2 = .08$ | 表明性别在长期与短期学业成就上的优势受更成熟的能力观与真理观支撑 |
 > | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | 740 名美国中学生 | [[Questionnaire\|问卷调查]]与[[Multinomial Logistic Regression\|多项逻辑回归]] | 历史与数学学科平时成绩、[[Epistemic and Ontological Cognition\|认识论与本体论认知]]阶段 | 较差的数学学科成绩显著正向预测学生落入绝对主义/初级认识论阶段的几率（$OR = 1.770$） | $p < .01$ | 表明特定学科的学业失败会强化朴素与教条的认知信念 |
-> | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] | 英格兰 15 岁学生（PISA 2006–2012 历时追踪样本） | 跨国评估数据二次分析与官方政策话语解构 | 阅读、数学、科学跨国学业成就均分及历时趋势 | 科学分（514）高于 [[OECD]] 均线（501），数学（494）与阅读（499）持平均线；2006–2012 历时成绩完全平稳无降，但在官方修辞中被再造为停滞衰退危机 | 历时趋势无统计显著下降 | 证实宏观跨国学业成就数据易与政治危机叙事发生断裂 |
+> | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] | 英格兰 15 岁学生（PISA 2006–2012 历时追踪样本） | 跨国评估数据二次分析与官方政策[[Discourse\|话语]]解构 | 阅读、数学、科学跨国学业成就均分及历时趋势 | 科学分（514）高于 [[OECD]] 均线（501），数学（494）与阅读（499）持平均线；2006–2012 历时成绩完全平稳无降，但在官方修辞中被再造为停滞衰退危机 | 历时趋势无统计显著下降 | 证实宏观跨国学业成就数据易与政治危机叙事发生断裂 |
 > | [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] | 涵盖英美数万名中小学生的大规模试验汇总（如 Florida 数据使用 60 校、Bristol [[Research Learning Communities\|RLC]] 119 校 5,462 人、NFER 读写章鱼等） | 大规模[[Systematic Review\|系统综述]]与多项因果干预试验跨个案综合 | 教师中阶实践行为改变 vs 学生终端统考学业成就（KS2、数学与阅读统考分） | 中介行为指标普遍大幅提升（如数据素养 $ES = 0.69 \sim 0.76$），但终端学业成绩普遍呈零效应（Florida 数学 $ES = 0.02$、Bristol 阅读 $ES = -0.03$、NFER 读写统考无差异、反馈行动研究未优于常模） | 严密 RCT 试验终端学业差异均无统计学显著性（$p > .05$） | 证实中介行为改善与终端学业成就存在结构性脱节；过程指标不可替代学业成就；工程化工件是打破脱节的关键 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, pp. 1–3)]] | $N = 67$ 项高等教育实证研究（涵盖 2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合 | 学业成就与高阶思维[[Construct\|构念]]区隔及综述方法学对比 | 批判既有 6 项同类综述（如 Dimeli & Kostas, 2025; Deng et al., 2024 等）将高阶心智笼统合并为一般学业表现（Academic Achievement/Performance）的局限；实证确立在缺乏教学支架的情境下，ChatGPT 的表面流畅产出会诱发[[Cognitive Offloading\|认知卸载]]，导致学业终稿表观完整但批判/创造能力双重侵蚀 | — | 系统综述证据，确立[[Generative Artificial Intelligence\|生成式 AI]] 时代高阶思维与常规学业表现的构念区隔与过程性测量必要性 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]（引述 Allen et al., 2018; Hodgen et al., 2019） | 英格兰中小学大规模因果评估样本（涵盖 82 项以上首要结果测验评估报告） | 循证因果评估综合方法学分析与测验质量审查 | 首要学业成就测验工具选择、[[Reliability\|信度]]、地板与天花板效应、自编测验偏倚 | 审查证实商业化标准化测验在因果试验中频现地板与天花板效应，区分度缺失致使干预效果无法被敏感检出；开发者自编测验系统性虚高效应量；确立[[National Pupil Database\|国家学生数据库]]（NPD）全国统考学业档案作为低损耗、零自编偏倚的权威基准 | 心理测量学信度缺陷导致部分因果评估产生假阴性结论；学业成就测验必须满足与外部高利害统考强相关且对广泛学业能力具备[[External Validity\|外部效度]] | 确立大规模教育因果评估中首要学业成就指标的心理测量学质量准则与行政数据对接优势 |

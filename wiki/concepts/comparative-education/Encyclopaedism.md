@@ -5,7 +5,7 @@ aliases:
 summary: "一种以广泛覆盖既定学科知识和准确复现事实为通识教育标准的课程范式，可解释多科目课程的浅层学习、考试反拨以及能力改革中旧有分科结构的延续。"
 type: concept
 domain: "comparative-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Paradigmatic Learning]]"
   - "[[International Baccalaureate]]"
+  - "[[Discourse]]"
   - "[[Theory of Knowledge]]"
   - "[[Geisteswissenschaften]]"
   - "[[Transfer Translation Transformation]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Encyclopaedism
@@ -115,7 +116,7 @@ updated: 2026-09-29
 ### 命题三　能力改革可以改变政策语言而保留百科全书式课程结构
 
 > [!concept-lens] 政策革新与结构延续
-> 百科全书主义已经嵌入科目分类、教师岗位和课程管理。改革同时面对国际能力话语与国内既有制度时，政策文本可以并置两种逻辑，而无需立即重组全部课程关系。
+> 百科全书主义已经嵌入科目分类、教师岗位和课程管理。改革同时面对国际能力[[Discourse|话语]]与国内既有制度时，政策文本可以并置两种逻辑，而无需立即重组全部课程关系。
 
 > [!claim] [[Jason Beech\|Beech, J.]]
 > **矛盾并置具有政治功能** 1990 年代巴西中等教育改革用能力、技术和跨学科工作组织政策语言，并把课程名义上归入三大领域；各领域内部仍保留物理、化学、历史等传统科目，合计仍为十四门。跨学科能力回应国际机构和改革派，科目延续回应教师及保守力量。百科全书式结构因而能够在革新语言中继续运行，这种组合体现国家层面协调多方要求的方式。[[Argument_Beech_2009_CE\|Beech (2009, pp. 355–357)]]
@@ -139,7 +140,7 @@ updated: 2026-09-29
 > - **1960 年　牛津课程改革把通识从一般知识转向学科方法** 牛津大学教育系提出横跨文理的四门专门科目和一个统整区块，用于宗教、体育、创意艺术以及学科方法与限度。通识程度开始由事实储量转向能否区分审美、道德、历史与科学判断。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 41–43)]]
 > - **1966 至 1968 年　英、美、法改革路线在约六门深度学科上汇合** 丹尼尔·贝尔（Daniel Bell）提出通过专门化实现通识教育；让·卡佩勒（Jean Capelle）批评法国考试把学生变成按题目交付知识样本的储存者，主张从十余个浅学领域缩减到约六门多样学科。英国试图扩大过窄的专门化，法国试图压缩百科全书课程，两条路线都把深度和多样性结合起来。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 39–43)]]
 > - **1960 年代后期　IB 用六学科和[[Paradigmatic Learning\|范例学习]]形成制度回应** 赫尔穆特·贝克尔（Hellmut Becker）的范例学习主张主动留下知识空白，以共同核心提供背景，再用少数选项深入研究学科方法。IB 据此用六学科维持跨领域分布，用科内深究防止六门课再次变成压缩的百科全书课程，并以[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）比较各学科的证据、方法与限度。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 43–48)]]
-> - **1990 年代　全球能力话语将百科全书主义塑造成改革对象** [[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）、[[World Bank\|世界银行]]（World Bank，WB）和联合国教育、科学及文化组织（[[UNESCO\|United Nations Educational, Scientific and Cultural Organization]]，UNESCO）推广能力发展与尊重多样性。阿根廷、巴西和智利的课程政策相继批评记忆、去语境化和割裂的分科传统。[[Argument_Beech_2009_CE\|Beech (2009, pp. 353–356)]]
+> - **1990 年代　全球能力[[Discourse|话语]]将百科全书主义塑造成改革对象** [[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）、[[World Bank\|世界银行]]（World Bank，WB）和联合国教育、科学及文化组织（[[UNESCO\|United Nations Educational, Scientific and Cultural Organization]]，UNESCO）推广能力发展与尊重多样性。阿根廷、巴西和智利的课程政策相继批评记忆、去语境化和割裂的分科传统。[[Argument_Beech_2009_CE\|Beech (2009, pp. 353–356)]]
 > - **1990 年代以后　能力语言与百科全书结构形成混合课程** 巴西政策用三大跨学科领域重组课程表述，却在领域内部保留十四门传统科目。百科全书主义由公开的教育理想转变为可以隐藏在改革框架中的制度结构。[[Argument_Beech_2009_CE\|Beech (2009, pp. 356–357)]]
 
 ---
@@ -162,4 +163,4 @@ updated: 2026-09-29
 
 > [!evidence-grid] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987)]] 追踪欧洲[[General Education\|通识教育]]从多科目知识覆盖转向多种思维方式的过程，并以 IB 的六学科、共同核心和深度选项呈现课程回应。
-> - [[Argument_Beech_2009_CE\|Beech (2009)]] 追踪全球教育话语在拉丁美洲的[[Transfer Translation Transformation\|转译]]，揭示百科全书式分科如何在能力与跨学科改革语言中继续存在。
+> - [[Argument_Beech_2009_CE\|Beech (2009)]] 追踪全球教育[[Discourse|话语]]在拉丁美洲的[[Transfer Translation Transformation\|转译]]，揭示百科全书式分科如何在能力与跨学科改革语言中继续存在。

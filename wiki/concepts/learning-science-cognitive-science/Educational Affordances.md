@@ -10,7 +10,7 @@ aliases:
 summary: "源自生态心理学与教育技术学的核心构念，指技术工具在特定教学情境中与学习者及任务环境交互时所展现出的、可被感知并支持特定认知与教学行动的客观使能属性。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Epistemic Dependence]]"
   - "[[Epistemology]]"
   - "[[Evaluative Judgement]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Ontology]]"
   - "[[Document]]"
   - "[[Variable]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Educational Affordances
@@ -194,7 +195,7 @@ updated: 2026-09-22
 > | **关系性涌现命题** | 可供性是工具、学习者与任务动态匹配的产物 | 教育技术评估与学习环境设计 | Kirschner et al. (2004) |
 > | **二元张力命题** | 生成式 AI 兼具认知使能与认知外包的双向可供性 | 生成式 AI 高等教育实证研究 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] |
 > | **教学转化命题** | 结构化教学支架决定潜在可供性向高阶心智的实际转化 | 课堂探究设计与高校教学改革 | Bower (2008); [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] |
-> | **社会认识论中介命题** | 技术可供性通过社会技术中介重构确证分工，决定认识依赖是生产性还是有害性 | 人机协同探究、学术诚信与评价改革 | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] |
+> | **社会认识论中介命题** | 技术可供性通过社会技术中介重构确证分工，决定认识依赖是生产性还是有害性 | [[Man-Computer Symbiosis\|人机协同]]探究、学术诚信与评价改革 | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] |
 
 ---
 

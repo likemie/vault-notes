@@ -7,7 +7,7 @@ summary: "通过系统分析课程文件、政府政策、媒体报道和学术�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 17
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Lifelong Learning]]"
+  - "[[Discourse]]"
   - "[[Causality]]"
   - "[[Externalization]]"
 related_theories:
@@ -43,7 +44,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 ## 定义
@@ -79,7 +80,7 @@ updated: 2026-09-26
 > [!success] 适用场景
 > - 分析**单个科目**的完整生命周期（创立→实施→废除/改革）
 > - 比较**不同历史时期**课程变革逻辑的差异
-> - 分析**政策话语**的转变（如从全球论述到国家安全论述的切换）
+> - 分析**政策[[Discourse|话语]]**的转变（如从全球论述到国家安全论述的切换）
 > - 追踪**外部政治事件**（如抗议、法律变更）对课程的影响
 
 ## 局限性

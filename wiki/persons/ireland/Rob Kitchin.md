@@ -8,7 +8,7 @@ summary: "爱尔兰梅努斯大学社会科学研究所教授，批判性数据�
 type: person
 nationality: ireland
 person_region: "ireland"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Ontology]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Technical Rationality]]"
   - "[[Data Literacy]]"
   - "[[Disciplina and Doctrina]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Rob Kitchin
@@ -89,7 +90,7 @@ updated: 2026-10-06
 >   - **代表著作** *Code/Space: Software and Everyday Life* (2011, 与 Martin Dodge 合著)。
 >   - **关键概念／方法** [[Data Infrastructure]]、软件社会学。
 >   - **阶段转向** 从传统地理信息技术转向对算法、软件与数字化物质性的哲学批判。
-> - **2014–2018 — 数据革命与数据汇聚体框架确立** 直面全球大数据话语的膨胀，系统剖析数据[[Ontology\|本体论]]，构建涵盖规范体制、商业模式、技术堆栈与行政实践的数据汇聚体。
+> - **2014–2018 — 数据革命与数据汇聚体框架确立** 直面全球大数据[[Discourse|话语]]的膨胀，系统剖析数据[[Ontology\|本体论]]，构建涵盖规范体制、商业模式、技术堆栈与行政实践的数据汇聚体。
 >   - **代表著作** *The Data Revolution: Big Data, Open Data, Data Infrastructures and Their Consequences* (2014); *Towards Critical Data Studies* (2014, 与 Tracey Lauriault 合著)。
 >   - **关键概念／方法** [[Data Infrastructure]]、[[Technical Rationality]]。
 >   - **阶段转向** 正式确立批判性数据[[Paradigm\|研究范式]]，将数据系统剖析拓展至社会全领域。

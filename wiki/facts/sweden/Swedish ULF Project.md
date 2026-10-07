@@ -13,7 +13,7 @@ subtype: program
 region: sweden
 fact_region: "sweden"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ tags:
   - theme/teacher-agency
 related_concepts:
   - "[[Problem Finding]]"
+  - "[[Discourse]]"
   - "[[Scientific Method]]"
   - "[[Hypothesis]]"
   - "[[Theoretical Knowledge]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-15
+updated: 2026-10-07
 ---
 
 # Swedish ULF Project
@@ -83,7 +84,7 @@ updated: 2026-09-15
 > [!policy-design]- 方案设计
 > - **项目目标** 验证高校与中小学开展协同研究的可行组织模型；将实践本位科研制度化嵌入教师职前教育与在校日常教研；为瑞典基础教育建立坚实的科学证据底座。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–217)]]
 > - **双向议题发起机制** 彻底改变过去只能由大学教授拟定课题的做法，制度化允许并鼓励中小学校长与教研组根据日常课堂教学痛点自主提出研究课题，与对口高校研究团队共同论证立项。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 216)]]
-> - **常态化对话平台** 在高校与学区之间设立跨界研讨工作坊（Seminars），定期组织学者与教师就教学难点、概念定义、实证方法与阶段性数据展开深入对话，促成共享话语的沉淀。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 218–219)]]
+> - **常态化对话平台** 在高校与学区之间设立跨界研讨工作坊（Seminars），定期组织学者与教师就教学难点、概念定义、实证方法与阶段性数据展开深入对话，促成共享[[Discourse|话语]]的沉淀。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 218–219)]]
 
 > [!citation-card] 瑞典 ULF 项目愿景与宗旨
 > ULF 试点项目的战略目标在于开发并测试大学学术界与学校系统之间长期可持续的合作模型，以巩固和强化学校日常活动所依托的科学学科底色与研究方法路径。该合作模型旨在使学校内部的专业人员能够自主发起研究，从而产出对学校实践高度适切的高质量科研成果。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–217)]]
@@ -111,7 +112,7 @@ updated: 2026-09-15
 
 > [!pathways]- 实施路径与管理
 > - **明确主体角色分工（Clarity in actor roles）** 在合作早期阶段充分澄清教师与学者的角色定位，避免对教师科研技能提出不切实际的学术幻想。
-> - **确立专业地位平等（Equality）** 正式确立教师的实践性专业知识与学者的学术[[Theoretical Knowledge\|理论知识]]享有平等的权威，打破大学研究者在研讨中的话语垄断。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 218)]]
+> - **确立专业地位平等（Equality）** 正式确立教师的实践性专业知识与学者的学术[[Theoretical Knowledge\|理论知识]]享有平等的权威，打破大学研究者在研讨中的[[Discourse|话语]]垄断。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 218)]]
 > - **搭建便捷中介平台（Accessible arenas）** 通过常态化微型研讨小组让双方持续接触，实现知识需求的共同界定与学术概念的情境化重构。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 218–219)]]
 > - **坚守学术质量防线（Ensuring scientific quality）** 强调实践本位研究同样必须恪守科研伦理与严谨方法，防止长期协作退化为缺乏证据效力的纯事务性改进。
 > - **贯穿全流程参与（Actor involvement in all phases）** 支持教师深度介入研究前期需求诊断、中期干预与后期转化全周期。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 219)]]
@@ -126,7 +127,7 @@ updated: 2026-09-15
 > - **知识双向转化** 校本教学法改进方案形成数量、教师教育课程更新程度与同行评议论文产出。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 218–219)]]
 
 > [!finding-cards] 核心实证结论
-> - **确立[[Third Space Discourse\|第三空间话语]]优势** 独立评估表明，高成效的项目并未强求教师变成职业科学家或学者变成中小学教员，而是在两者相遇处形成了超越二元对立的杂合型第三空间话语。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–218)]]
+> - **确立[[Third Space Discourse\|第三空间话语]]优势** 独立评估表明，高成效的项目并未强求教师变成职业科学家或学者变成中小学教员，而是在两者相遇处形成了超越二元对立的杂合型第三空间[[Discourse|话语]]。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–218)]]
 > - **提升一线教师科研素养** 显著增强了一线教师对实证[[Document\|文献]]的批判性阅读与评价能力，激发了日常教学反思与探究动能。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 218)]]
 > - **识别发展性漂移风险** 评估警示，随着项目推进，若缺乏严格的学术方法把关，实践伙伴关系极易出现偏重表面组织活动而忽视科学证据效力的发展性漂移（Developmental drift）。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 219)]]
 

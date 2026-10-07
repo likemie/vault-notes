@@ -9,7 +9,7 @@ aliases:
 summary: "罗伯逊、博纳尔与戴尔开创的教育全球化批判性空间治理分析框架，通过治理标度、治理实体与治理活动三维矩阵，解构全球化与跨国经贸规制下国家教育主权的再领土化与公共性重组。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 27
+theory_related_count: 28
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Champ]]"
   - "[[Attrition]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Educational Governance Framework]]"
   - "[[Globally Structured Agenda for Education]]"
@@ -191,7 +192,7 @@ updated: 2026-10-07
 > > 围绕 [[World Trade Organization|WTO]] 等超国家多标度规则究竟是促进全球共同繁荣还是拉大南北差距展开交锋。
 > >
 > > - **世贸组织官方与主流自由贸易经济学家** 宣称消除边境壁垒将促成教育资源的最佳配置，使所有成员国享受到高质量的[[International Education|国际教育]]服务。
-> > - **世界体系与[[Dependency Theory|依附论]]批判学者 ([[Argument_Arnove_2009_WorldSystems\|Arnove, 2009]])** 揭露这种多边普惠话语掩盖了残酷的权力非对称性，弱小国家在超国家规约下门户大开，沦为中心国家教育输出的单向倾销地。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
+> > - **世界体系与[[Dependency Theory|依附论]]批判学者 ([[Argument_Arnove_2009_WorldSystems\|Arnove, 2009]])** 揭露这种多边普惠[[Discourse|话语]]掩盖了残酷的权力非对称性，弱小国家在超国家规约下门户大开，沦为中心国家教育输出的单向倾销地。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
 
 > [!critique]- 批评索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 强调在运用多标度治理框架时必须引入世界体系政治经济学视角，指出必须警惕将三维矩阵退化为静态技术分类，唯有结合中心-边缘的非对称权力结构，方能看透多标度规约的剥削本质。

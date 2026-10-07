@@ -7,7 +7,7 @@ summary: "阿根廷圣安德烈斯大学教育学者，研究教育话语的跨�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 18
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -19,6 +19,7 @@ tags:
   - theme/comparative-education
   - theme/educational-transfer
 related_concepts:
+  - "[[Discourse]]"
   - "[[Policy Borrowing]]"
   - "[[Relational Space]]"
   - "[[Grammar of Schooling]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 # Jason Beech
 
@@ -54,7 +55,7 @@ updated: 2026-09-18
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Jason Beech 是阿根廷圣安德烈斯大学（Universidad de San Andrés）教育学者，研究教育话语的跨空间流通、[[Policy Borrowing\|政策借用]]与比较教育方法论。他与 Artopoulos (2015) 合著的论文批评了比较教育中转移、全球化、政策借用等既有词汇的局限，提出使用[[Relational Space\|关系性空间]]概念和[[Actor-Network Theory\|行动者网络理论]]来分析教育话语的跨空间流通。
+> - **身份位置** Jason Beech 是阿根廷圣安德烈斯大学（Universidad de San Andrés）教育学者，研究教育[[Discourse|话语]]的跨空间流通、[[Policy Borrowing\|政策借用]]与比较教育方法论。他与 Artopoulos (2015) 合著的论文批评了比较教育中转移、全球化、政策借用等既有词汇的局限，提出使用[[Relational Space\|关系性空间]]概念和[[Actor-Network Theory\|行动者网络理论]]来分析教育话语的跨空间流通。
 
 ---
 
@@ -69,7 +70,7 @@ updated: 2026-09-18
 > [!tip]- 阿根廷教育政策研究
 > Beech & Barrenechea (2011) 研究了阿根廷教育治理中的市场化倾向，分析了阿根廷是否是新自由主义教育治理的「黑天鹅」。他们的工作揭示了阿根廷官方教育部门抵制市场力量与实际政策中私人企业参与之间的张力。阿根廷《国家教育法》规定国家不会将教育视为盈利服务，但通过 [[Conectar Igualdad\|PCI]] 等项目，英特尔、微软等私人企业正在阿根廷课堂中部署其权力（引自 Beech & Artopoulos, 2015）。
 
-> [!tip]- [[Global Policy Space\|全球政策空间]]与教育话语转化
+> [!tip]- [[Global Policy Space\|全球政策空间]]与教育[[Discourse|话语]]转化
 > [[Argument_Beech_2009_CE\|Beech (2009)]]在 *Comparative Education* 上发表论文，将 Castells 的[[Space of Flows and Space of Places\|流动空间与地方空间]]区分和[[Network Society\|网络社会]]理论应用于分析教育话语的跨空间流通与转化，提出[[Global Policy Space\|全球政策空间]]概念。该文追踪全球教育话语（以"能力发展"和"尊重多样性"为例）在三个空间层面——全球政策空间、国家、学校实践——的逐层变形，论证了全球话语被抽象化为脱离历史经验的"[[Floating Signifier\|漂浮能指]]"以求得最大可接受性，并在国家和实践层被基于本土语境重新解读和转化的过程。这一[[Analytic Framework\|分析框架]]整合了网络社会理论、[[Recontextualization\|再脉络化]]和[[Educated Identity\|受教育身份]]建构，为理解比较教育中的教育转移提供了空间分析维度。
 
 ---
@@ -80,7 +81,7 @@ updated: 2026-09-18
 > - Beech, J. (2006). The theme of educational transfer in comparative education: A view over time. *Research in Comparative and [[International Education]]*, 1(1), 2–13.
 > - Beech, J. (2009). Policy spaces, mobile discourses, and the definition of [[Educated Identity\|educated identities]]. *Comparative Education*, 45(3), 347–364.
 > - Beech, J. (2011). *Global Panaceas, Local Realities: International Agencies and the Future of Education*. Peter Lang.
-> - Beech, J., & [[Alejandro Artopoulos\|Artopoulos, A.]] (2015). Interpreting the circulation of educational discourse across space: searching for new vocabularies. *Globalisation, Societies and Education*, 14(1), 1–18.
+> - Beech, J., & [[Alejandro Artopoulos\|Artopoulos, A.]] (2015). Interpreting the circulation of educational [[Discourse]] across space: searching for new vocabularies. *Globalisation, Societies and Education*, 14(1), 1–18.
 > - Beech, J., & Barrenechea, I. (2011). Pro-market [[Educational Governance Framework\|Educational Governance]]: Is Argentina a black swan? *Critical Studies in Education*, 52(3), 279–293.
 
 ---

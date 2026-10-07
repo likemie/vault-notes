@@ -10,7 +10,7 @@ aliases:
 summary: "一种以设定教育标准、开展学习成效监测与提供数据反馈为核心，强调路径自主而非目标自主的现代教育治理模式，与传统的投入导向科层规制形成鲜明对照。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Feedback]]"
   - "[[Data Literacy]]"
+  - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Document]]"
   - "[[Dependent Variable]]"
@@ -63,7 +64,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-27
+updated: 2026-10-07
 ---
 
 # Output-Oriented Governance
@@ -212,7 +213,7 @@ updated: 2026-09-27
 > > - **组织社会学研究者** 强调松散耦合理论（Loose Coupling）与符号仪式化应对，批判其[[Technical Rationality\|技术理性]]主义的盲区。
 > >
 > > [!axis] 资源依赖诉求 vs 产出问责挤压
-> > 实证研究表明，绝大多数中小学管理者仍将[[Class Size\|班额]]缩减和师资物理投入视为提升质量的首要先决条件；新治理强调在不大幅扩张资源的前提下通过数据优化过程，常被一线批评为政府推卸公共财政保障责任的话语修辞。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 31–32)]]
+> > 实证研究表明，绝大多数中小学管理者仍将[[Class Size\|班额]]缩减和师资物理投入视为提升质量的首要先决条件；新治理强调在不大幅扩张资源的前提下通过数据优化过程，常被一线批评为政府推卸公共财政保障责任的[[Discourse|话语]]修辞。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 31–32)]]
 
 ---
 

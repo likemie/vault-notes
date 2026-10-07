@@ -9,7 +9,7 @@ aliases:
 summary: "学习者为了达成学业目标，主动对自身的认知过程、动机体验和行为策略进行规划、监控、评价与反思性调整的循环性心理与行为系统"
 type: concept
 domain: "competency-and-assessment"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Scaffolding]]"
   - "[[Cognitive Offloading]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Task Structure]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Self-Efficacy]]"
@@ -58,7 +59,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-31
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Self-Regulated Learning
@@ -72,7 +73,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 学习者对自身认知加工、情绪动机与行为环境实施自主监控、前瞻性调控与风险中和的心理机能。
-> - **用途** 揭示人机协同学习中深层理解与浅层应付的行为分化机制，指导自适应学习环境与支架式提示词设计。
+> - **用途** 揭示[[Man-Computer Symbiosis|人机协同]]学习中深层理解与浅层应付的行为分化机制，指导自适应学习环境与支架式提示词设计。
 > - **边界** 自我调节学习不仅是静态的个体特质，更是受到具体[[Task Structure\|任务结构]]、教学提示与外部反馈环境深度塑造的情境化表现。
 
 > [!citation-card]- 关键表述：自我调节在人机交互中的认知审视功能（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）
@@ -107,7 +108,7 @@ updated: 2026-09-17
 > [!feature] 核心要素
 > - **前瞻规划阶段（Forethought & Planning）** 包含学习目标制定、任务分析、战略性提示词设计与先验知识激活，预先设定人机交互的认知边界，防范漫无目的索取现成答案。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3)]]
 > - **表现与意志控制阶段（Performance & Volitional Control）** 运用自我监控、事实核查与多源[[Triangulation\|三角互证]]，持续审查人工智能生成内容的逻辑与准确性，中和认知盲从。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 6–7)]]
-> - **自我反思与图式重构阶段（Self-Reflection & Adaptation）** 评估人机协同成果、归因分析并调整后续交互策略，将深度探究经验整合到长时记忆图式中。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 7–8)]]；[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, p. 16)]]
+> - **自我反思与图式重构阶段（Self-Reflection & Adaptation）** 评估[[Man-Computer Symbiosis|人机协同]]成果、归因分析并调整后续交互策略，将深度探究经验整合到长时记忆图式中。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 7–8)]]；[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, p. 16)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -159,7 +160,7 @@ updated: 2026-09-17
 ### 命题三　自我调节学习在人机协同中承担风险中和中枢与成效断层分流的决定性调节功能
 
 > [!concept-lens] 风险中和中枢与群体认知分水岭
-> 探讨学习者内在自我调节能力如何充当认知缓冲与控制中枢，既中和智能算法对思维深度的侵蚀风险，又主导了人机协同促学成效的断层式两极分化。
+> 探讨学习者内在自我调节能力如何充当认知缓冲与控制中枢，既中和智能算法对思维深度的侵蚀风险，又主导了[[Man-Computer Symbiosis|人机协同]]促学成效的断层式两极分化。
 
 > [!claim] [[Wang Yangming\|Wang, Y.]]; Huang, R.; [[Yong Zhao\|Zhao, Y.]]
 > **风险中和机制与认知分水岭** 生成式 AI 对思维发展的赋能并非无条件成立，自我调节学习构成了至关重要的中枢调节机制。理论上，大语言模型交互具有即时满足与表层流畅的特质，极易诱发心智惰性与盲目顺从；SRL 通过持续的监控、反思与策略调整，充当了不可或缺的“风险中和器”，有效抵消了算法幻觉、认知外包与思维惰性等潜在负面效应。在机制分流上，高自律学习者主动设定目标、将 AI 视为协同副驾驶并批判性吸收其输出，从而实现认知图式的跃升；而低自律学习者缺乏目标校准与审验能力，极易被算法牵引而滑向被动顺从与虚假理解，致使技术赋能严重受限。[[Argument_Zhao_2025_JIntell\|(Wang & Huang, 2024; Zhao et al., 2025, pp. 11–12, 16)]]
@@ -227,4 +228,4 @@ updated: 2026-09-17
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 运用随机效应[[Meta-analysis\|元分析]]检验生成式 AI 促进学生[[Higher-Order Thinking Skills\|高阶思维]]的调节机制，实证确立自主调节学习能力构成极其显著的分流门槛（$Q_b = 40.962, p < 0.001$），高自律水平学生获得大效应提升（$g = 0.863$），而低自律学生促学成效微弱（$g = 0.284$），并在理论上确立了 SRL 的“风险中和”功能与双向强化互促机制。
-> - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项实证研究，将自我调节学习确立为人机协同中实现批判性与[[Creativity\|创造性思维]]双向增益的核心认知机制。
+> - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项实证研究，将自我调节学习确立为[[Man-Computer Symbiosis|人机协同]]中实现批判性与[[Creativity\|创造性思维]]双向增益的核心认知机制。

@@ -8,7 +8,7 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指个体通过家庭社会化与教育获得并在特定场域中具有交换价值的文化资源（具身化、客体化和制度化）。在大规模教育实证研究中常操作化为家庭藏书量等资源，实证表明其既直接赋能学业表现，又通过培育批判性认识论信念间接促进高阶成就。"
 type: concept
 domain: "sociology-of-education"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Going Native]]"
+  - "[[Discourse]]"
   - "[[School Leadership]]"
   - "[[Epoché]]"
 related_theories:
@@ -66,7 +67,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-08
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Cultural Capital
@@ -224,7 +225,7 @@ updated: 2026-09-22
 >
 > > [!axis] 概念边界的重叠性与新自由主义[[Transfer Translation Transformation\|转译]]
 > > 学界对其与[[Human Capital Theory\|人力资本]]、社会资本的清晰界线存在争议。例如在劳动力市场中，优雅的沟通能力常被经济学家直接折算为高效率的人力资本回报。
-> > - **批判学派学者** 认为这混淆了文化资本的阶级再生产阶层属性，使其沦为新自由主义个人增值的话语工具。
+> > - **批判学派学者** 认为这混淆了文化资本的阶级再生产阶层属性，使其沦为新自由主义个人增值的[[Discourse|话语]]工具。
 >
 > > [!axis] 经验测量的代理性困难与指标争议
 > > 在量化实证研究中，直接测量深层惯习存在困难，学者多采用代理指标（父母学历或家庭藏书量）。

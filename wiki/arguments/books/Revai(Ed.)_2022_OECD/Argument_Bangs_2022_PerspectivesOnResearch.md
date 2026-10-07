@@ -7,7 +7,7 @@ title: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_key: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_display_title: "Perspectives on education research (N. Révai, Ed.)"
 argument_kind: "book-chapter"
-argument_related_count: 84
+argument_related_count: 85
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Democratising Evidence]]"
   - "[[Third Space Discourse]]"
+  - "[[Discourse]]"
   - "[[Statistical Normalisation]]"
   - "[[Research-Practice Partnership]]"
   - "[[Evidence Standards]]"
@@ -147,7 +148,7 @@ updated: 2026-09-14
 > 历经二十余年[[Evidence-Based Education\|循证教育]]改革的持续推进与科研经费投入的不断攀升，教育研究为何依然未能有效转化为支撑宏观政策与微观教学的高质量证据，反而深陷[[Epistemology\|认识论]]不确定性、[[Discipline-Based Theory\|学科理论]]依附、[[Replication in Education Research\|复现危机]]与严重的供需断层？面对教育[[Knowledge Production\|知识生产]]超越传统大学象牙塔的现实，来自学术界、联邦政府科学资助机构、全球教师工会联合会、一线示范学校、国家级试点项目以及慈善基金会的不同利益相关者，如何重新定义教育研究的目的、科学严谨性与社会有效性？如何从根本上重塑教育证据的生产规程、资助标准、伙伴关系与专业伦理？（pp. 200–202）
 
 > [!claim] 核心主张
-> 教育研究摆脱当前论文产出过剩却实践影响贫乏的系统性困境，既不能退回狭隘技术主义的因果控制与短期功利主义可用性修辞，也不能固守于学术共同体孤立封闭的自说自话；唯有在供给侧推进科学标准的立体化重构，推行涵盖构件拆解、成本核算、通用测量与敏捷复现的教育科研卓越标准（Standards for Excellence in Education Research, SEER）体系，同时在生产机制上全面推进[[Democratising Evidence\|证据民主化]]（democratising evidence），构建承认异质专业价值的[[Third Space Discourse\|第三空间话语]]（third space discourse）伙伴关系，将资助评价重心转向长效组织能力建设，并坚守专业伦理以防范[[Statistical Normalisation\|统计正态化]]对社会弱势离群群体的制度性遮蔽。（pp. 202–204, 206–209, 217–223, 225–228, 229–231）
+> 教育研究摆脱当前论文产出过剩却实践影响贫乏的系统性困境，既不能退回狭隘技术主义的因果控制与短期功利主义可用性修辞，也不能固守于学术共同体孤立封闭的自说自话；唯有在供给侧推进科学标准的立体化重构，推行涵盖构件拆解、成本核算、通用测量与敏捷复现的教育科研卓越标准（Standards for Excellence in Education Research, SEER）体系，同时在生产机制上全面推进[[Democratising Evidence\|证据民主化]]（democratising evidence），构建承认异质专业价值的[[Third Space Discourse\|第三空间话语]]（third space [[Discourse]]）伙伴关系，将资助评价重心转向长效组织能力建设，并坚守专业伦理以防范[[Statistical Normalisation\|统计正态化]]对社会弱势离群群体的制度性遮蔽。（pp. 202–204, 206–209, 217–223, 225–228, 229–231）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 跨国教育科研生产体系、政府科学资助机构、全球教师工会联合会、一线中小学、国家级[[Research-Practice Partnership\|研究-实践伙伴关系]]（Research-Practice Partnership, RPP）试点与大型教育慈善基金会。
@@ -169,7 +170,7 @@ updated: 2026-09-14
 > | **[[Action Research]]**<br>校本合作行动研究 | 揭示一线学校教师作为[[Knowledge Co-production\|知识共创]]者而非被动受试者的微观机制，阐明校本行动研究如何与国家教师职业生涯阶梯相结合，驱动薄弱学校转型为内生型的知识创造型组织。（pp. 213–216） |
 
 > [!warrant]- 理论透镜如何支撑多方论辩推导
-> 上述理论透镜构成了环环相扣的推导桥梁：[[Dirk Van Damme\|范达默]]与施奈德从实证科学与[[Theory of Knowledge\|知识论]]高度出发，确立了教育研究摆脱认识论危机必须依赖高标准的**[[Disciplinary Institutionalization|学科建制]]规范**；班斯、亨利与纳吉引入教师专业性与行动研究视角，证明了缺乏实践者**主体所有权**的科研注定陷入应用瘫痪；普勒茨与[[Vivian Tseng\|曾薇薇安]]则借助伙伴关系与证据民主化理论，从权力关系重组与资助机制重构的高度打破了研究者对[[Knowledge Production\|知识生产]]的**排他性垄断**；最后友利田运用批判社会学与专业伦理透镜，对狭隘工具主义的可用性话语提出警告，确保教育研究始终承担起**捍卫社会弱势群体**的根本受托使命。（pp. 201–202, 227–231）
+> 上述理论透镜构成了环环相扣的推导桥梁：[[Dirk Van Damme\|范达默]]与施奈德从实证科学与[[Theory of Knowledge\|知识论]]高度出发，确立了教育研究摆脱认识论危机必须依赖高标准的**[[Disciplinary Institutionalization|学科建制]]规范**；班斯、亨利与纳吉引入教师专业性与行动研究视角，证明了缺乏实践者**主体所有权**的科研注定陷入应用瘫痪；普勒茨与[[Vivian Tseng\|曾薇薇安]]则借助伙伴关系与证据民主化理论，从权力关系重组与资助机制重构的高度打破了研究者对[[Knowledge Production\|知识生产]]的**排他性垄断**；最后友利田运用批判社会学与专业伦理透镜，对狭隘工具主义的可用性[[Discourse|话语]]提出警告，确保教育研究始终承担起**捍卫社会弱势群体**的根本受托使命。（pp. 201–202, 227–231）
 
 ---
 
@@ -374,7 +375,7 @@ updated: 2026-09-14
 > [!dimension] 普勒茨论构建成熟研究-实践伙伴关系的六项结构性主张
 > - **超越填补鸿沟的浅薄隐喻**
 >   将研究者与实践者描绘为非此即彼的鸿沟是对专业生态的严重误读。两者的思考语言、工作节奏与价值取向天然不同，正是这种固有差异构成了彼此独特的专业价值；真正的伙伴关系不是消除差异，而是明确承认并包容这些差异。（pp. 217–218）
-> - **构建对话性的[[Third Space Discourse\|第三空间话语]]（third space discourse）**
+> - **构建对话性的[[Third Space Discourse\|第三空间话语]]（third space [[Discourse]]）**
 >   不同于在大学主场或在学校主场的自说自话，两方必须在持续交流中形成一种兼具学术反思与教学敏感性的全新公共话语体系（Moje et al., 2004）。第三空间并非毫无冲突的乐园，而是双方基于共同改进目标展开建设性论辩的专业[[Champ\|场域]]。（p. 218）
 > - **理清行动者角色定位而非追求人人成为共同研究者**
 >   实践表明，强行要求一线教师在繁重教学之余担任共同研究者往往导致角色混乱与精力耗竭；更高效的分工是让教师作为决策与议题把关专家，在课题确立与方案论证中输入不可替代的实践智慧，让研究者专注于研究设计，各守其位、优势互补。（p. 218）
@@ -530,7 +531,7 @@ updated: 2026-09-14
 > *Action research will only be useful in the lives of educators if they can hope to change their own school conditions and develop their competences, thereby bringing practical benefits... I must note, however, that we are talking about a “lucky coincidence” in the case of this school as it has a researcher teacher who works closely with the university (as an instructor) and three master teacher colleagues who are also involved in research... Such lucky constellations, however, are not yet widespread.*
 
 > [!citation-card] 普勒茨论超越鸿沟隐喻与构建[[Third Space Discourse\|第三空间话语]]
-> 弥合研究与实践鸿沟的举措容易模糊理论与实践、科学知识与经验知识、研究者与实践者、大学与学校之间的界线……另一种建设性的方式是明确承认甚至欣赏研究者与实践者之间的差异，包括源自其不同实践的独特价值、视角、长处与短板。通过时间和资源投入，这种协作能够促成一种拥有共同语言和旨趣的第三空间话语。（pp. 217–218）
+> 弥合研究与实践鸿沟的举措容易模糊理论与实践、科学知识与经验知识、研究者与实践者、大学与学校之间的界线……另一种建设性的方式是明确承认甚至欣赏研究者与实践者之间的差异，包括源自其不同实践的独特价值、视角、长处与短板。通过时间和资源投入，这种协作能够促成一种拥有共同语言和旨趣的第三空间[[Discourse|话语]]。（pp. 217–218）
 >
 > *Another way could be to explicitly recognise and even appreciate the differences between researchers and practitioners including the values, perspectives, strengths and weaknesses that follow from their practices... Over time and with resources and efforts, the discourses can potentially become a common one with shared language and interests between researchers and practitioners, creating a “third space discourse”.*
 

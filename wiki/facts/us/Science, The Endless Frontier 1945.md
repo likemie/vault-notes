@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 46
+fact_related_count: 47
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Process Knowledge]]"
   - "[[Metascience]]"
   - "[[Blue Skies Research]]"
+  - "[[Discourse]]"
   - "[[Science and Technology Studies]]"
   - "[[Falsification]]"
   - "[[Competitiveness]]"
@@ -146,7 +147,7 @@ updated: 2026-10-07
 
 ## 行动者阵营与制度构想博弈
 
-> [!actor-grid] 战后科技政策治理话语博弈
+> [!actor-grid] 战后科技政策治理[[Discourse|话语]]博弈
 > - **布什学派精英科学家阵营** [[Vannevar Bush|万尼瓦尔·布什]]与顶尖[[Research Universities|研究型大学]]领导层 — 主张科学家同行自主自治，强调资助完全不受政治和经济即时应用目的干扰的纯基础科学，政府只需出资而不干预。
 > - **新政民主派与基尔戈阵营** 参议员哈维·基尔戈（Harley Kilgore）与杜鲁门政府预算局 — 主张国家资助的科研成果必须归属全体纳税人所有，强调研发应直接服务于社会重大现实难题与地理平衡分配，主张由文官局长实施严格监管。
 > - **产业界与市场原教旨力量** 工业界与专利法倡导者 — 极力主张联邦财政只能止步于无排他性的基础理论，坚决抵制政府直接资助应用技术与产业开发，防范政府干预私人资本市场。
@@ -166,7 +167,7 @@ updated: 2026-10-07
 > [!finding-cards] 关键历史后果
 > 1. **制度创生：[[National Science Foundation|NSF]] 与现代大学研究体系** 1950 年正式创建国家科学基金会；推动大学实验室形成全球最具规模的基础科学探索网络，为大学-政府-产业三螺旋奠定财政基座。
 > 2. **制度承载：多元分布式资助网络的确立** 布什设想的中央科学基金虽经历立法妥协，但其倡导的契约逻辑最终被嵌入由 AEC、[[Office of Naval Research|ONR]]、[[National Institutes of Health|NIH]] 与 NSF 共同构成的分布式资助网络，避免了单一行政中枢对学术探索的垄断。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
-> 3. **话语规制：二分法成为全球政策标准** [[OECD|经合组织]]（OECD）等国际组织在其《[[Frascati Manual|弗拉斯卡蒂手册]]》中全面吸收布什报告的基础/应用划分，成为全球统计研发投入的通用准绳。
+> 3. **[[Discourse|话语]]规制：二分法成为全球政策标准** [[OECD|经合组织]]（OECD）等国际组织在其《[[Frascati Manual|弗拉斯卡蒂手册]]》中全面吸收布什报告的基础/应用划分，成为全球统计研发投入的通用准绳。
 > 4. **意外后果：大学微观激励异化与体制压力** 布什关于高风险容错、独立学生奖学金与学科均衡发展的三大设想在大学后续的主动改造中被逐步侵蚀，演变为软钱教职、博士用工依赖与生物医学过度集中。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 37)]]
 > 5. **当代[[Paradigm|范式]]更替：2026 年《[[Science A New Golden Age 2026|科学：新的黄金时代]]》** 2026 年 7 月白宫战略报告正式宣告布什单向分工模型终结，确立组合式资助、新型科研组织（[[Focused Research Organization|FRO]]）、本土制造承接与生成核验协同体系，开启后布什时代国家科技体制的全面重组。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–7, 20–72)]]
 

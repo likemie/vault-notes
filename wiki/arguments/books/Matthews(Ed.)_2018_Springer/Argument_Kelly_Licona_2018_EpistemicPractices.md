@@ -7,7 +7,7 @@ title: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_key: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_display_title: "Epistemic practices and science education"
 argument_kind: "book-chapter"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Rote Learning]]"
   - "[[Scientific Method]]"
+  - "[[Discourse]]"
   - "[[Epistemic Practices]]"
   - "[[Engineering Education]]"
   - "[[Socioscientific Issues]]"
@@ -103,7 +104,7 @@ updated: 2026-09-28
 ## 研究问题
 
 > [!question]
-> 在科学史、科学哲学与科学教学（History, Philosophy, and Sociology of Science and Science Teaching, HPS&ST）领域中，研究视野长期偏重规范性的历史与哲学理论，而来自认知科学、社会学、人类学与修辞学的跨学科科学实践实证成果往往遭到边缘化或防范。传统的科学教育普遍将[[Epistemology\|认识论]]窄化为抽象孤立的哲学命题，或将其等同于测量学生心智中去情境的个人信念，导致教学要么沦为静态知识结论的[[Rote Learning\|死记硬背]]，要么退化为套用所谓[[Scientific Method\|科学方法]]（Scientific Method）五步法的教条程序，忽视了真实科学活动中微观共同体的话语协商、证据评估与社会规程。面对这一理论与现实困境，科学教育应当如何走出仅传授既定知识结论与将认识论视为孤立个体信念的双重局限，汲取跨学科科学实践研究对行动中的科学（science-in-the-making）的实证洞见，从而在课堂教学中系统确立以微观共同体为基础的[[Epistemic Practices\|认识论实践]]（Epistemic Practices）[[Analytic Framework\|分析框架]]？（pp. 139–141, 143–144）
+> 在科学史、科学哲学与科学教学（History, Philosophy, and Sociology of Science and Science Teaching, HPS&ST）领域中，研究视野长期偏重规范性的历史与哲学理论，而来自认知科学、社会学、人类学与修辞学的跨学科科学实践实证成果往往遭到边缘化或防范。传统的科学教育普遍将[[Epistemology\|认识论]]窄化为抽象孤立的哲学命题，或将其等同于测量学生心智中去情境的个人信念，导致教学要么沦为静态知识结论的[[Rote Learning\|死记硬背]]，要么退化为套用所谓[[Scientific Method\|科学方法]]（Scientific Method）五步法的教条程序，忽视了真实科学活动中微观共同体的[[Discourse|话语]]协商、证据评估与社会规程。面对这一理论与现实困境，科学教育应当如何走出仅传授既定知识结论与将认识论视为孤立个体信念的双重局限，汲取跨学科科学实践研究对行动中的科学（science-in-the-making）的实证洞见，从而在课堂教学中系统确立以微观共同体为基础的[[Epistemic Practices\|认识论实践]]（Epistemic Practices）[[Analytic Framework\|分析框架]]？（pp. 139–141, 143–144）
 
 > [!claim] 核心主张
 > 科学教育的核心目标不仅在于传授概念结论，更在于引导学生作为微观协商共同体的成员，亲身参与提出、沟通、评估与合法化知识主张的[[Epistemic Practices\|认识论实践]]。这一实践内生具有交互生成、情境嵌入、历史互文与制度后果四大特征，在探究式科学、[[Engineering Education|工程教育]]与[[Socioscientific Issues\|社会科学议题]]（Socioscientific Issues, SSI）等不同领域中呈现出鲜明的学科认识论差异；通过引入[[Family Resemblance Approach\|家族相似性进路]]（Family Resemblance Approach, FRA）、[[Practical Epistemology\|实践认识论]]分析（[[Practical Epistemology Analysis\|Practical Epistemological Analysis]], PEA）与历史科学的[[Retrodiction\|回溯推测]]（Retrodiction），能够彻底打破僵化的科学方法神话，培育融合基础文本读写与公共证据审议的批判性[[Scientific Literacy\|科学素养]]。（pp. 140, 148, 150–158, 161）
@@ -122,7 +123,7 @@ updated: 2026-09-28
 > |---|---|---|---|
 > | **社会实践认识论**<br>Social Epistemology | Helen Longino (1990, 2002); Gregory J. Kelly (2008, 2016) | [[Epistemology\|认识论]]主体是微观社会协商共同体而非孤立个体；科学知识依赖公共论坛、吸收批评、公认标准与平等智识权威四项社会规范确立。（pp. 140, 148） | 为“提出、沟通、评估、合法化”四维行动模型及“交互、情境、互文、后果”四大本体特征奠定核心哲学与社会学根基。 |
 > | **三维科学教育目标论**<br>Three-Part Harmony Goals | Richard Duschl (2008) | 科学教育必须同步整合概念（Conceptual）、认识论（Epistemic）与社会（Social）三大学习目标，三者相互支撑，不可割裂。（pp. 140–141） | 作为组织教学取向对比（科学探究、工程教育、[[Socioscientific Issues\|社会科学议题]]）的顶层课程架构。 |
-> | **情境化实践认识论**<br>Situated Practical Epistemology | Ludwig Wittgenstein (1958); Per-Olof Wickman (2004); Leif Östman & Wickman (2014) | 认识论是在微观话语与行动中就地生成的语言游戏；通过立足点（Stand Fast）、认知裂隙（Gaps）与建立关联（Relations）刻画意义协商。（pp. 149–150） | 为原生态课堂师生互动、具身动作、符号互文与意义建构提供微观机制解释工具。 |
+> | **情境化实践认识论**<br>Situated Practical Epistemology | Ludwig Wittgenstein (1958); Per-Olof Wickman (2004); Leif Östman & Wickman (2014) | 认识论是在微观[[Discourse\|话语]]与行动中就地生成的语言游戏；通过立足点（Stand Fast）、认知裂隙（Gaps）与建立关联（Relations）刻画意义协商。（pp. 149–150） | 为原生态课堂师生互动、具身动作、符号互文与意义建构提供微观机制解释工具。 |
 
 > [!warrant]- 理论如何支撑论证
 > 理论框架由“宏观社会认识论转向—中观三维课程目标—微观课堂[[Practical Epistemology\|实践认识论]]”三层支柱有机咬合而成：海伦·朗基诺（Helen Longino）与凯利（Gregory J. Kelly）确立了认识论主体的社会性与规范性基准；理查德·杜施尔（Richard Duschl）的三维目标论为剖析探究科学、[[Engineering Education|工程教育]]与社会科学议题（SSI）提供了统一的课程分析坐标；而维特根斯坦（Ludwig Wittgenstein）与佩尔-奥洛夫·威克曼（Per-Olof Wickman）的实践认识论则将分析直接下沉到课堂微观话语互动的语言游戏之中。
@@ -136,7 +137,7 @@ updated: 2026-09-28
 > |---|---|
 > | **方法路径**<br>Interactional Ethnography & Discourse Analysis | 结合跨学科科学实践研究综述、微观交互人种志（Interactional Ethnography）与质性[[Discourse Analysis\|话语分析]]，重点考察口头与书面语言、符号系统、语调特征与具身动作（手势与操作）。（pp. 139, 144–147） |
 > | **微观分析工具**<br>Practical Epistemological Analysis (PEA) | 运用[[Practical Epistemology\|实践认识论]]分析（Practical Epistemological Analysis, PEA），通过[[Coding in Qualitative Research\|编码]]立足点（Stand Fast）、认知裂隙（Gaps）与建立关联（Relations），微观追踪师生在[[Dialogue in Education\|对话]]与操作中的即时意义建构。（pp. 149–150） |
-> | **案例综合**<br>Multi-Case Comparative Synthesis | 横跨中小学与大学学段，综合对比四项具有代表性的原生态课堂实证案例，涵盖物理探究、工程设计、地质写作与教师引导话语。（pp. 144–147） |
+> | **案例综合**<br>Multi-Case Comparative Synthesis | 横跨中小学与大学学段，综合对比四项具有代表性的原生态课堂实证案例，涵盖物理探究、工程设计、地质写作与教师引导[[Discourse\|话语]]。（pp. 144–147） |
 > | **学科矩阵分析**<br>Disciplinary Matrix Comparison | 针对探究式科学、工程教育与社会科学议题三大教学取向，在学习目标与[[Epistemic Practices\|认识论实践]]两个层面系统编制跨领域比较矩阵。（pp. 142–143, 156–157） |
 
 > [!sample-panel]- 样本与材料快照
@@ -171,7 +172,7 @@ updated: 2026-09-28
 
 #### 1. 科学认识论主体是情境化社会协商群体而非笛卡尔孤立知者
 
-传统认识论[[Paradigm|范式]]建立在[[René Descartes|笛卡尔]]孤立知者假说之上，而科学实践研究将认识论重心从个体心智表征转向了微观实践共同体的话语协商：
+传统认识论[[Paradigm|范式]]建立在[[René Descartes|笛卡尔]]孤立知者假说之上，而科学实践研究将认识论重心从个体心智表征转向了微观实践共同体的[[Discourse|话语]]协商：
 
 > [!row-contrast] 认识论主体[[Paradigm\|范式]]的根本转向（pp. 140, 147–148）
 > | 比较维度 | 传统个体认识论范式（Cartesian Subject） | 社会实践认识论范式（[[Epistemic Practices]]） |
@@ -389,7 +390,7 @@ flowchart LR
 > 2. **[[Epistemic Practices\|认识论实践]]涵盖四个核心行动环节** 知识主张的提出、沟通、评估与合法化构成课堂互动的基本环节，贯穿于探索发现、证据论证与交流表达的全过程。（pp. 144–147）
 > 3. **认识论实践具有四大本体特征** 实践是在集体互动中生成的（交互性）、嵌入特定情境与传统的（情境性）、借由过往符号传承的（互文性）以及涉及身份认同与认可的（后果性）。（pp. 156–159）
 > 4. **三大教学取向呈现出鲜明的学科认识论差异** 探究科学（解释自然现象）、[[Engineering Education|工程教育]]（多约束优化设计）与[[Socioscientific Issues\|社会科学议题]]（平衡多元价值与[[Informal Reasoning\|非形式推理]]）在问题类型、证据范围与评价准则上各有侧重，不存在单一通用的[[Scientific Method\|科学方法]]。（pp. 142–143, 154–157）
-> 5. **[[Family Resemblance Approach\|家族相似性进路]]（FRA）与[[Practical Epistemology\|实践认识论]]分析（[[Practical Epistemology Analysis\|PEA]]）解构了线性科学方法教条** 地学的[[Retrodiction\|回溯推测]]（Retrodiction）、化学的模型规律与生物的概率思维证明了学科多样性；PEA 揭示了立足点、认知裂隙与关联建构的微观机制；动手操作必须结合教师显性元话语反思，才能有效促进基础与派生[[Scientific Literacy\|科学素养]]的发展。（pp. 144–145, 149–154, 161）
+> 5. **[[Family Resemblance Approach\|家族相似性进路]]（FRA）与[[Practical Epistemology\|实践认识论]]分析（[[Practical Epistemology Analysis\|PEA]]）解构了线性科学方法教条** 地学的[[Retrodiction\|回溯推测]]（Retrodiction）、化学的模型规律与生物的概率思维证明了学科多样性；PEA 揭示了立足点、认知裂隙与关联建构的微观机制；动手操作必须结合教师显性元[[Discourse|话语]]反思，才能有效促进基础与派生[[Scientific Literacy\|科学素养]]的发展。（pp. 144–145, 149–154, 161）
 
 ---
 
@@ -401,7 +402,7 @@ flowchart LR
 > *A key contribution of this empirical work on the practice of [[Knowledge Production|Knowledge Construction]] is the shift in the consideration of the epistemic subject from the individual knower to that of a relevant social group. This research adds to the work in philosophy identifying limitations of epistemologies based in, or assuming, a Cartesian subject. This shift suggests the need to examine the social processes determining what counts as knowledge, to consider a communal understanding of meaning, to evaluate ideas set in historical and public contexts, and to recognize the importance of the assessment of knowledge claims by relevant groups. Such social processes can become routinized and patterned over time becoming epistemic practices.*
 
 > [!citation-card] 论认识论实践的四维行动与本体特征界定
-> 认识论实践是群体成员提出、沟通、评估和合法化知识主张的社会组织性与互动实现性方式。借鉴科学研究与教育研究的成果，认识论实践具有交互生成性（由人与人之间通过协同活动建构而成）、情境性（深深嵌入在社会实践与文化规范之中）、互文性（通过连贯的话语、符号与象征符号的历史网络进行沟通）以及后果性（被合法化的知识直接具象化了权力与文化）。正是通过应用这些认识论实践，共同体才为其知识主张提供了正当性辩护。（p. 140）
+> 认识论实践是群体成员提出、沟通、评估和合法化知识主张的社会组织性与互动实现性方式。借鉴科学研究与教育研究的成果，认识论实践具有交互生成性（由人与人之间通过协同活动建构而成）、情境性（深深嵌入在社会实践与文化规范之中）、互文性（通过连贯的[[Discourse|话语]]、符号与象征符号的历史网络进行沟通）以及后果性（被合法化的知识直接具象化了权力与文化）。正是通过应用这些认识论实践，共同体才为其知识主张提供了正当性辩护。（p. 140）
 >
 > *Epistemic practices are the socially organized and interactionally accomplished ways that members of a group propose, communicate, evaluate, and legitimize knowledge claims. Drawing from studies of science and education, this chapter argues that epistemic practices are interactional (constructed among people through concerted activity), contextual (situated in social practices and cultural norms), intertextual (communicated through a history of coherent discourses, signs and symbols), and consequential (legitimized knowledge instantiates power and culture). Through application of these epistemic practices, communities justify knowledge claims.*
 
@@ -429,7 +430,7 @@ flowchart LR
 > 1. **职业科学实践不能直接生搬硬套到学校** 职业科研中存在激烈的利益竞争与人际博弈，这些行为如果直接复制到中小学课堂，可能对学生的心理健康与合作态度产生负面影响。教学设计必须以育人目标为前提，不能盲目追求表面上的原真性（pp. 148–149）；
 > 2. **概念知识与实践进阶的关系仍需深入研究** [[Epistemic Practices\|认识论实践]]高度依赖具体学科的概念基础，缺乏知识支撑的实践容易变成无意义的机械操作；但两者在不同年级和主题下究竟如何相互促进，仍需更多实证证据（pp. 159–160）；
 > 3. **跨学科实践能力的迁移范围有待检验** 学生在某一领域（如流行病学异常数据识别）形成的[[Epistemology\|认识论]]经验，能在多大程度上迁移到其他学科（如气象学或工程设计），目前尚缺乏充分的实证结论（p. 160）；
-> 4. **教师实践观念与教材权威惯性的冲突** 教学中教师往往习惯依赖教材给出的标准步骤，容易在言语中使用过于绝对的论断，如何在师资培训中帮[[Teaching Assistant\|助教]]师建立[[Reflexivity\|反思性]]话语意识仍是一大挑战（pp. 153–154）。
+> 4. **教师实践观念与教材权威惯性的冲突** 教学中教师往往习惯依赖教材给出的标准步骤，容易在言语中使用过于绝对的论断，如何在师资培训中帮[[Teaching Assistant\|助教]]师建立[[Reflexivity\|反思性]][[Discourse|话语]]意识仍是一大挑战（pp. 153–154）。
 
 ---
 

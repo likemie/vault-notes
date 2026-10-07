@@ -14,7 +14,7 @@ title: "Argument_Hansen_2015_Paideia"
 argument_key: "Argument_Hansen_2015_Paideia"
 argument_display_title: "Leder Temanummer om synlig læring"
 argument_kind: "journal-article"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Document]]"
   - "[[New Public Management]]"
   - "[[Professional Learning Community]]"
+  - "[[Discourse]]"
   - "[[Analytical Stance]]"
 related_theories:
   - "[[Dynamic Knowledge and Learning Model]]"
@@ -92,7 +93,7 @@ citation_aliases:
 > - 导言把VL的核心重新表述为“教师评估自身影响”的实践原则，而不是单纯识别哪一种教学因素在排行表上更高(p.4)。
 > - 导言明确承认VL现有证据更偏向[[Surface and Deep Learning\|表层学习]]，因此需要继续推进对知识与学习概念的重建，避免把学习结果理解得过于单薄(pp.4–5)。
 > - 主题号内部形成了三种互补路线：Qvortrup 提供支持方的概念修正，Laursen 检验丹麦语境中的跨文化适用性，Allerup 审查[[Effect Size\|效应量]]排序的统计前提(pp.5–6)。
-> - 导言把瑞典案例和 Nordahl 的系统论述串起来，说明VL在北欧并不只是一套研究结果，也正在重塑学校改进话语，尤其强调教师协作、课堂观察和专业资本建设(pp.6–8)。
+> - 导言把瑞典案例和 Nordahl 的系统论述串起来，说明VL在北欧并不只是一套研究结果，也正在重塑学校改进[[Discourse|话语]]，尤其强调教师协作、课堂观察和专业资本建设(pp.6–8)。
 > - Nordahl 在导言结尾所代表的立场非常强硬：完全拒绝使用 Hattie 及[[Correlational Research\|相关研究]]结果的人，需要为儿童未来承担道德责任；问题不在于学校有没有激励，而在于教师是否具备改进教学所需的专业知识与集体能力(pp.7–8)。
 
 ## 关键引用

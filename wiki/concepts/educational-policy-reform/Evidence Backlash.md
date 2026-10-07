@@ -7,7 +7,7 @@ aliases:
 summary: "在后真相时代由于算法极化、反专家情绪与心理防卫机制共振而引发的对科学实证证据的刻意贬低与激进怀疑现象；在Burns & Schuller（2022）教育中介研究中被确立为动摇传统循证政策“客观理性”预设的重大认识论危机，表明单纯提供更多证据不仅无法消除偏见，反而可能刺激受众产生更深层的认知防卫与反弹。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Grade Retention]]"
+  - "[[Discourse]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Abstract]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Evidence Backlash
@@ -51,7 +52,7 @@ updated: 2026-09-22
 > [!concept-lens] 概念透镜
 > - **含义** 指向证据与受众心理认知/群体认同之间的对抗性互动，表现为“科学事实愈确凿，群体抗拒愈激进”的反常效应。
 > - **用途** 帮助研究者透视教育政策与实践中为何大量高质量研究结论（如特定[[Grade Retention\|留级]]政策的负面效果、特定全纳教育方案）在推行时反而引发激烈的基层抗拒或公众抵制。
-> - **边界** 它不同于学术共同体内部基于方法论规范的正常批评与学术争议（Scientific Debate），其驱动力主要源于身份认同防卫、算法信息茧房以及政治话语对专家的污名化。
+> - **边界** 它不同于学术共同体内部基于方法论规范的正常批评与学术争议（Scientific Debate），其驱动力主要源于身份认同防卫、算法信息茧房以及政治[[Discourse|话语]]对专家的污名化。
 
 > [!citation-card] Burns & Schuller 论证据反弹与专家公信力侵蚀
 > 某些话语中对“专家”的公开轻蔑引发了对真相与事实正在失去效用的担忧，我们可能正在目睹一场科学与研究被刻意贬低的“证据反弹”。这些都是令人警醒的论断。如果它们属实，那么教育实践与政策中证据利用的匮乏，就绝不仅仅是一个获取渠道、供给可用性或完善证据利用流程的问题……它无法通过提供更多获取机会、更多可用数据、甚至是能力建设来解决。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 57)]]

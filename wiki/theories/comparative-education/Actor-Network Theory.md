@@ -8,7 +8,7 @@ aliases:
 summary: "起源于布鲁诺·拉图尔、米歇尔·卡隆与约翰·劳的科学技术学（STS）社会理论与方法论框架，将社会与制度理解为人类与非人类行动者通过持续转译与关系物质性生成的异质网络。在比较教育研究中，它被用于解构国家中心主义与政策借用假设，通过追踪多尺度网络、互客体性、耐用客体装配（教科书、测评量规、技术协议、立法条款）与关系空间，揭示隐藏在教育改革与远处治理背后的非线性转译、变异及公私权力重组机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 56
+theory_related_count: 57
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Relational Space]]"
   - "[[Policy Mobility]]"
+  - "[[Discourse]]"
   - "[[Center of Calculation]]"
   - "[[Topological Spatialisation]]"
   - "[[Data Infrastructure]]"
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Actor-Network Theory
@@ -117,7 +118,7 @@ updated: 2026-09-29
 > - **1986 — 转译四阶段模型建立** Callon 提出转译四阶段[[Analytic Framework\|分析框架]]（问题化、利益化、征募、动员），使行动者网络理论（Actor-Network Theory, ANT）具备可操作的经验研究工具。（Callon, 1986, 引自 [[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, p. 8]]）
 > - **1992 — 关系物质性与耐用材料策略** Law 提出关系物质性概念，指出口头言语和思想瞬时易逝，社会秩序的跨时空维系必须借由文本、建筑与法律等耐用材料予以具身化践行。（Law, 1992, 引自 [[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 2]]）
 > - **2005 — 重新[[Assemblage\|组装]]社会与方法论澄清** Latour 出版《重新组装社会》，澄清 ANT 并非一种实体论学说，而是一种追踪异质行动者痕迹的“旅行者方法论”。（Latour, 2005）
-> - **2015–2023 — 比较教育[[Policy Mobility\|政策流动]]转向** Beech & Artopoulos 将 ANT 引入跨国数字教育，提出超越领土国家的“[[Relational Space\|关系空间]]”政策流通论；Klerides 追溯比较教育引入 ANT 以解构全球治理流动话语与基准测评[[Governing at a Distance\|远处治理]]黑箱。（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, pp. 8–11]]；[[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]]）
+> - **2015–2023 — 比较教育[[Policy Mobility\|政策流动]]转向** Beech & Artopoulos 将 ANT 引入跨国数字教育，提出超越领土国家的“[[Relational Space\|关系空间]]”政策流通论；Klerides 追溯比较教育引入 ANT 以解构全球治理流动[[Discourse|话语]]与基准测评[[Governing at a Distance\|远处治理]]黑箱。（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, pp. 8–11]]；[[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]]）
 > - **2018 — 拓扑学空间化与国家[[Center of Calculation\|计算中心]]** [[Sigrid Hartong\|西格丽德·哈通]]（Sigrid Hartong）将 ANT 的[[Center of Calculation\|计算中心]]（Centers of Calculation）与[[Topological Spatialisation\|拓扑空间]]理论结合，考察德国绩效[[Data Infrastructure\|数据基础设施]]（[[Institute for Educational Quality Improvement\|IQB]]、[[Vergleichsarbeiten\|VERA]]）如何在维持地方文化主权的同时，通过不变移动物（统一题库、数字练习平台）实现跨尺度的远处治理与拓扑政策重组。（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 134–146]]）
 > - **2022 — 无生命客体装配与国家科研中介批判** 埃玛·罗威（Emma Rowe）结合[[Network Ethnography\|网络民族志]]，提出“无生命客体的装配”，揭示《公司法》注册底座、董事交叉兼职与标准化量规如何将跨国[[Venture Philanthropy\|风险慈善]]网络装配为看似客观中立的国家中介实体。（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–5]]）
 
@@ -149,7 +150,7 @@ updated: 2026-09-29
 > **应用实例** 在阿根廷“[[Conectar Igualdad\|平等连接]]”（Conectar Igualdad）数字化项目中，课堂教学秩序并非单纯由教师威权或国家大纲决定，而是由 Netbook 笔记本电脑、教室插座、双系统软件及中国服务器共同构成的微观装配所维系；电池耗尽或断网会直接摧毁教学流程。（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, p. 11]]）
 
 > [!theory-proposition] 命题二｜政策和知识的跨空间流通是非线性的[[Transfer Translation Transformation\|转译]]过程，而非机械的跨国领土借用
-> **解释** 全球教育改革倡议（如[[PISA\|国际学生评估项目]]［Programme for International Student Assessment, PISA］或[[Effective Teaching\|有效教学]]模型）的跨空间流动，不能被视作在一个中心生产、在另一个边缘原样接收的静态物理转移。政策流通是处于[[Relational Space\|关系空间]]中的流动话语，必须经过本土多行动者网络（决策官员、政党智库、媒体评论员、教研员）在“问题化”、“利益化”、“征募”与“动员”四个阶段的博弈重构与物质条件折射，才能扎根为起作用的局部实践。（Callon, 1986; 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]]；[[Argument_Li_2025_HSSC\|Li et al., 2025, p. 6]]）
+> **解释** 全球教育改革倡议（如[[PISA\|国际学生评估项目]]［Programme for International Student Assessment, PISA］或[[Effective Teaching\|有效教学]]模型）的跨空间流动，不能被视作在一个中心生产、在另一个边缘原样接收的静态物理转移。政策流通是处于[[Relational Space\|关系空间]]中的流动[[Discourse|话语]]，必须经过本土多行动者网络（决策官员、政党智库、媒体评论员、教研员）在“问题化”、“利益化”、“征募”与“动员”四个阶段的博弈重构与物质条件折射，才能扎根为起作用的局部实践。（Callon, 1986; 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]]；[[Argument_Li_2025_HSSC\|Li et al., 2025, p. 6]]）
 >
 > **应用实例** 国际[[OECD\|经合组织]]（OECD）发布 PISA 数据后，并不能自动引发成员国教育改革；只有当本国[[Policy Network\|政策网络]]将数据转化为本土危机叙事，并借助[[Going Native\|本土化]]测试指南与媒体动员完成二次转译时，测评数据才能转化为具体的问责政策。（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）
 
@@ -190,7 +191,7 @@ updated: 2026-09-29
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---|:---|:---|:---|
 > | **广义对称性（命题一）** | **异质行动者识别**<br>有哪些非人类实体直接参与了秩序建构？它们施加了何种约束？ | 硬件设备、操作协议、软件许可证、教室布线、评估标准文本、数据报表。 | 若特定物质节点的增减直接导致实践流程中断或转向，则判定其具有行动元地位；不能将非人类还原为纯被动工具。 |
-> | **转译四阶段（命题二）** | **转译与本土折射**<br>外部理念如何经过问题化、利益化、征募与动员被本土网络吸纳？ | 政策咨询白皮书、政府听证会记录、专家委员会组成、媒体公关话语。 | 追踪原初提议在各阶段发生的语义妥协、利益交换与形式变形；若仅有自上而下行政命令而无各方博弈结网，则转译机制不完全。 |
+> | **转译四阶段（命题二）** | **转译与本土折射**<br>外部理念如何经过问题化、利益化、征募与动员被本土网络吸纳？ | 政策咨询白皮书、政府听证会记录、专家委员会组成、媒体公关[[Discourse\|话语]]。 | 追踪原初提议在各阶段发生的语义妥协、利益交换与形式变形；若仅有自上而下行政命令而无各方博弈结网，则转译机制不完全。 |
 > | **关系物质性与耐用客体（命题三）** | **耐用客体装配与黑箱化**<br>网络通过哪些耐用材料维持跨时空形态？去政治化表象掩盖了什么？ | 公司注册执照、特别法案条款、董事会章程细则、因果证据量规、保密豁免协议。 | 检查技术量规与法律文件是否阻断了公众批评；若制度特许条款为私营分包提供隐蔽通道，则判定存在黑箱化权力装配。 |
 > | **[[Center of Calculation\|计算中心]]与拓扑折叠（命题四）** | **计算中心与数据流动**<br>机构如何收集不变移动物并在远处施加控制？数据基础设施如何折叠空间？ | 题库参数、数据交换协议、集中式服务器、全域测试指南、微观练习平台。 | 追踪数据从边缘向中心汇集与标准从中心向边缘反向辐射的闭环；若地方实践直接被远程软件与量规参数所重塑，则判定存在拓扑远处治理。 |
 > | **网络脆断机制（命题一与三）** | **脆弱性与断裂暴露**<br>网络在何种条件下会暴露其拼装本质？哪些节点是潜在断裂点？ | 系统技术故障记录、财务审计漏洞、民间信息公开申请（FOI）、人事变动。 | 寻找使网络日常运转中断的危机事件；当非人类节点失灵导致后台博弈被置于聚光灯下时，即可确认装配的脆弱性边界。 |
@@ -245,5 +246,5 @@ updated: 2026-09-29
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合 ANT、[[Network Ethnography\|网络民族志]]与耐用材料[[Assemblage\|装配]]视角，解构澳大利亚 [[Australian Education Research Organisation\|AERO]] 国家证据中介背后的《公司法》注册底座、董事会跨界[[Co-affiliation\|共同从属]]及麦肯锡系[[Venture Philanthropy\|风险慈善]]渗透网络。
 > - [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] — 运用 ANT 追踪阿根廷 [[Conectar Igualdad\|PCI]] 数字教育项目课堂微观装配，揭示跨国技术资本权力如何绕过国家反商业化法规直接在教学空间中建构秩序。
 > - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — 借助 ANT 的多行动者[[Transfer Translation Transformation\|转译]]模型，剖析国家内部[[Policy Network\|政策网络]]如何在多方博弈中折射并[[Going Native\|本土化]]转译 [[OECD]] [[PISA]] 评估信息。
-> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 追溯理性主义比较教育传统中引入 ANT，以分析全球教育治理中流动话语、政策图景与数据[[Governing at a Distance\|远处治理]]的隐秘运作。
+> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 追溯理性主义比较教育传统中引入 ANT，以分析全球教育治理中流动[[Discourse|话语]]、政策图景与数据[[Governing at a Distance\|远处治理]]的隐秘运作。
 

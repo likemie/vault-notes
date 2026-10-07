@@ -24,6 +24,7 @@ related_concepts:
   - "[[Fourth Generation University]]"
   - "[[Research Translation]]"
   - "[[Grand Challenges]]"
+  - "[[Discourse]]"
   - "[[Technology Transfer]]"
   - "[[Heterogeneity]]"
   - "[[University-Industry Collaboration]]"
@@ -45,7 +46,7 @@ title: "Argument_LernerLam_2025_TransdisciplinaryExecutiveEd"
 argument_key: "Argument_LernerLam_2025_TransdisciplinaryExecutiveEd"
 argument_display_title: "Innovating for Curricular Complexity: Executive Education for Transdisciplinary Challenges"
 argument_kind: "book"
-argument_related_count: 12
+argument_related_count: 13
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"
@@ -131,7 +132,7 @@ citation_aliases:
 > |------|---------|------------|
 > | 气候科学与影响 | 超越大众媒体的气候认知；基线数据、变暖趋势、极端事件归因、气候阈值 | 将基本科学研究与商业决策关联，在"海平面上升多少"和"物理风险与转型风险"之间建立连接 |
 > | 国内外政策环境 | UNFCCC and COP 机制、各国国内立法与行政令、欧美与全球南方政策差异 | 企业全球运营面临不同国家排放法规的编织网，政策如何激励或约束企业行为是授课重点 |
-> | 能源转型与脱碳路径 | 净零排放概念、脱碳路径情景建模 | 将脱碳从公共话语术语转化为可操作的企业策略选项 |
+> | 能源转型与脱碳路径 | 净零排放概念、脱碳路径情景建模 | 将脱碳从公共[[Discourse\|话语]]术语转化为可操作的企业策略选项 |
 > | 减缓、适应、韧性与脆弱性 | 气候变化相关术语的政策与法规定义 | 使学习者具备与政策制定者和监管机构共享的专业语言体系 |
 > | 气候技术与创新 | 可再生能源、电池、碳捕获、绿色采矿 | 通过[[Technology Transfer\|大学技术转移]]官员和创业顾问介绍产业资助研究的真实案例 |
 > | 气候金融 | 政府、慈善与私人资本的重新配置；绿色债券、碳市场 | 将投资风险谱系扩展到气候相关风险 |

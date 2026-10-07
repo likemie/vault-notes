@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Output-Oriented Governance]]"
   - "[[Governing by Numbers]]"
   - "[[Policy Brokerage]]"
+  - "[[Discourse]]"
   - "[[Evidence Standards]]"
   - "[[Causality]]"
   - "[[Development Education]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Building Evidence in Education
@@ -81,7 +82,7 @@ updated: 2026-10-03
 > [!dev-timeline] 组织发展历程
 > - **2012–2014 — 联盟创设与标准统一** [[World Bank\|世界银行]]联手英美双边发展机构正式组建 BE2，发布首版评估方法论指导框架，力推[[Randomised Controlled Trials\|随机对照试验]]（RCTs）作为教育干预有效性的核心基准。
 > - **2015–2020 — 扩容与指南体系建设** 吸收澳大利亚外交贸易部（DFAT）、[[UNICEF\|联合国儿童基金会]]（UNICEF）、[[UNESCO\|联合国教科文组织]]（UNESCO）等机构以观察员或轮值成员身份加入；联合国际影响评估倡议（3ie）等机构发布教育干预[[Cost-Benefit Analysis|成本效益分析]]标准指南。
-> - **2021–至今 — [[Governing by Numbers\|数字治理]] 2.0 时代的同盟强化** 在全球证据供给过量与多边竞争加剧的背景下，BE2 进一步强化排他性协作网络，通过共同资助与证据准入白名单机制，巩固捐助方在[[International Education\|国际教育]][[Policy Brokerage\|政策中介]]中的话语霸权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
+> - **2021–至今 — [[Governing by Numbers\|数字治理]] 2.0 时代的同盟强化** 在全球证据供给过量与多边竞争加剧的背景下，BE2 进一步强化排他性协作网络，通过共同资助与证据准入白名单机制，巩固捐助方在[[International Education\|国际教育]][[Policy Brokerage\|政策中介]]中的[[Discourse|话语]]霸权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 
 ---
 

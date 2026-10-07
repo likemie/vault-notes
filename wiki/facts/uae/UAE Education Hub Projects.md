@@ -10,7 +10,7 @@ subtype: policy
 region: uae
 fact_region: "uae"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
 - theme/development
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Discourse]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Soft Power]]"
   - "[[Cultural Diplomacy]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-19
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # UAE Education Hub Projects
@@ -53,7 +54,7 @@ updated: 2026-10-03
 > [!info]
 > 阿联酋的教育枢纽项目根植于两大结构性驱动力([[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, pp.205–207]])：
 
-**经济多元化** 阿联酋政府长期依赖石油收入为预算提供资金。减少这一依赖——即经济学家所称的"经济多元化"——是 2004 年前后领导层更替后现代化议程的核心。在[[Knowledge-Based Economy|知识经济]]话语的全球上升期，高等教育和研究被定位为从资源依赖型经济转向知识创新型经济的关键杠杆。
+**经济多元化** 阿联酋政府长期依赖石油收入为预算提供资金。减少这一依赖——即经济学家所称的"经济多元化"——是 2004 年前后领导层更替后现代化议程的核心。在[[Knowledge-Based Economy|知识经济]][[Discourse|话语]]的全球上升期，高等教育和研究被定位为从资源依赖型经济转向知识创新型经济的关键杠杆。
 
 **全球融合而非区域整合** 与新加坡不同，阿联酋所在的中东地区在 2000 年代初期陷入战争和危机。新领导层因此选择绕过区域、直接融入**全球**经济体系——"全球融合而非区域整合"成为阿联酋国家发展项目的驱动因素（p.206）。
 
@@ -72,7 +73,7 @@ updated: 2026-10-03
 - **阿布扎比** 以国家石油财富资助高端外国大学和文化机构——NYU Abu Dhabi、索邦大学阿布扎比、卢浮宫阿布扎比——通过**关联全球高雅文化**来提升国家形象和[[Soft Power|软实力]]
 - **迪拜** 通过创建专门的**高等教育经济区**（模仿其金融自由区的成功模式），吸引国际分校形成产业集群，将高等教育打造为可直接盈利的出口产业，同时服务于日益增长的 expat 人口的教育需求
 
-核心官方话语框架来自阿联酋外交部："阿联酋建于开国者谢赫扎耶德关于宽容、和平和稳定的基本价值之上。他的指导策略是向所有文化和人民展示友谊，推广温和伊斯兰教，并为与所有国家的互利合作而努力"（MoFAIC, 2020, cited in p.208）。
+核心官方[[Discourse|话语]]框架来自阿联酋外交部："阿联酋建于开国者谢赫扎耶德关于宽容、和平和稳定的基本价值之上。他的指导策略是向所有文化和人民展示友谊，推广温和伊斯兰教，并为与所有国家的互利合作而努力"（MoFAIC, 2020, cited in p.208）。
 
 ---
 

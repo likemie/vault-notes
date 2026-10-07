@@ -7,7 +7,7 @@ aliases:
 summary: "以商业资本逻辑、市场化工具与企业家精神重构社会公益与公共治理的宏观制度范式与意识形态，主张资本主义可天然具备慈善属性；其核心特征在于将国家传统的财政再分配职能转移至免税中介机构与顾问网络，将公共教育等领域转化为投资市场，引发民主问责侵蚀与公共财富逆向流动的批判。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Venture Philanthropy]]"
   - "[[Deductible Gift Recipient]]"
+  - "[[Discourse]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Policy Network]]"
   - "[[Network Governance]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Philanthrocapitalism
@@ -87,7 +88,7 @@ updated: 2026-09-22
 > [!feature] 核心特征
 > - **做善事与做生意兼得的意识形态预设** 宣称利润追求与社会公益不仅不冲突，反而能相互促进，将商业思维和企业家才能包装为引领社会创新与公共体系变革的唯一有效动力（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 521]]）。
 > - **公共资源的逆向再分配通道** 国家通过设立全额免税法定资质（如澳大利亚第一类可抵税捐赠受赠人［[[Deductible Gift Recipient]] Type 1, DGR1］法定资质）与直接财政补贴，扶持庞大的商业咨询和中介机构；公立学校面临财政紧缩，被迫转而竞逐由企业资本把关的微额资助（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 527–528]]）。
-> - **去政治化的技术官僚与金融从业话语** 将原本关涉教育公平、公民权利与资源分配的正义议题，[[Transfer Translation Transformation\|转译]]为证据中介、杠杆撬动、买入与绩效对赌等中立化、技术化的金融管理指标。
+> - **去政治化的技术官僚与金融从业[[Discourse|话语]]** 将原本关涉教育公平、公民权利与资源分配的正义议题，[[Transfer Translation Transformation\|转译]]为证据中介、杠杆撬动、买入与绩效对赌等中立化、技术化的金融管理指标。
 > - **政商无缝切换的旋转门网络** 跨国投资银行、战略管理咨询公司（如麦肯锡、贝恩）的高管，与国家教育部委长官、独立审查委员会专员之间形成高频交叉任职网络（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 528–530]]）。
 
 > [!logic-map]- 慈善资本主义在国家公共教育中的运行逻辑

@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 138
+argument_related_count: 139
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Double Hermeneutic]]"
   - "[[Emergence]]"
+  - "[[Discourse]]"
   - "[[Concurrent Validity]]"
   - "[[Predictive Validity]]"
   - "[[Convergent and Discriminant Validity]]"
@@ -252,7 +253,7 @@ updated: 2026-09-18
 > - **归纳分析** 不使用先验范畴，让范畴从数据中[[Emergence\|涌现]]
 > - **以受访者的术语呈现数据** 不以研究者的语言覆盖参与者的声音
 > - **从参与者的视角看情境** "从本地人的视角"（Geertz, 1974）
-> - **参与者验证（[[Member Checking\|respondent validation]]）**很重要 参与者有权确认、修正或补充研究者对其话语和行为的解释
+> - **参与者验证（[[Member Checking\|respondent validation]]）**很重要 参与者有权确认、修正或补充研究者对其[[Discourse|话语]]和行为的解释
 > - **捕捉意义和意图**至关重要 不只是记录行为，而是理解行为背后的意义
 
 ---

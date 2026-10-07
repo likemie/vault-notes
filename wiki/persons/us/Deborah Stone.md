@@ -7,7 +7,7 @@ summary: "美国著名政策学者，布兰代斯大学公共政策荣休教授�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Champ]]"
+  - "[[Discourse]]"
   - "[[Positivism]]"
   - "[[Causality]]"
   - "[[Policy Entrepreneur]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Deborah Stone
@@ -100,7 +101,7 @@ updated: 2026-10-03
 ## 核心思想
 
 > [!claim] 核心主张
-> 斯通的核心论断在于彻底解构了将政策制定视作“理性工程项目”（The Rationality Project）的古典迷思。她指出，政策制定的核心[[Champ|场域]]不是冷静计算成本收益的经济市场，而是充满共同体认同、观念冲突与权力博弈的“政治城邦”（Polis）。在城邦之中，没有任何事实或数据能够独立于政治主观诠释而存在；所有的政策辩论本质上都是关于概念定义、利益分配与正义范畴的话语争夺。政策制定者最重要的工作从来不是机械地搜寻最优技术解，而是通过精妙的隐喻、数字包装与因果故事叙事，将客观存在的社会落差策略性重塑为需要政府立即纠正的不公危机。
+> 斯通的核心论断在于彻底解构了将政策制定视作“理性工程项目”（The Rationality Project）的古典迷思。她指出，政策制定的核心[[Champ|场域]]不是冷静计算成本收益的经济市场，而是充满共同体认同、观念冲突与权力博弈的“政治城邦”（Polis）。在城邦之中，没有任何事实或数据能够独立于政治主观诠释而存在；所有的政策辩论本质上都是关于概念定义、利益分配与正义范畴的[[Discourse|话语]]争夺。政策制定者最重要的工作从来不是机械地搜寻最优技术解，而是通过精妙的隐喻、数字包装与因果故事叙事，将客观存在的社会落差策略性重塑为需要政府立即纠正的不公危机。
 
 > [!citation-card] 统计指标与量化数字的政治象征性
 > 斯通指出，在政策论战中，数字从来不是中立客观的度量衡，而是高度带电的政治符号。对指标的选取、度量与呈现本质上是一种划定社会边界、挑选指责对象以及制造紧迫恐慌感的修辞艺术。行动者通过动员指标反差，能够将原本抽象的治理平庸包装为迫在眉睫的文明存亡危机。
@@ -113,7 +114,7 @@ updated: 2026-10-03
 
 > [!influence-path] 影响路径
 > - **理论路径** 确立了[[Interpretivism|解释主义]]政策分析的学科合法性，将后现代哲学、政治修辞学与[[Constructivist Paradigm|社会建构主义]]注入传统的实证政策分析，与哈罗德·拉斯韦尔的民主[[Policy Science in Comparative Education|政策科学]]构成了深刻的辩证对话。
-> - **方法路径** 推动了政策[[Discourse Analysis|话语分析]]（Policy Discourse Analysis）、叙事政策框架（NPF）以及质性框架分析的发展，为解构政策报告中的数据修辞提供了锐利的方法论手术刀。
+> - **方法路径** 推动了政策[[Discourse Analysis|话语分析]]（Policy [[Discourse]] Analysis）、叙事政策框架（NPF）以及质性框架分析的发展，为解构政策报告中的数据修辞提供了锐利的方法论手术刀。
 > - **教育政策应用** 深刻启发了当代教育循证政策的批判性研究。麦克唐纳与韦瑟福德借助斯通的[[Problem Finding|问题界定]]理论，揭示出全美课程改革倡导者如何巧妙动员统考数据反差与跨国测评落后指标，编织出一套将“各州分权标准”等同于“危害国家经济安全与教育诚信”的因果危机故事。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–11)]]
 
 ---

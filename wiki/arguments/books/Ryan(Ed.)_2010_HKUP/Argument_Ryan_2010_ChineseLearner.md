@@ -9,7 +9,7 @@ title: "Argument_Ryan_2010_ChineseLearner"
 argument_key: "Argument_Ryan_2010_ChineseLearner"
 argument_display_title: "The Chinese Learner: Misconceptions and Realities"
 argument_kind: "book"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Refined Mastery]]"
   - "[[Hypothesis]]"
+  - "[[Discourse]]"
   - "[[Epistemology]]"
   - "[[Scientific Explanation]]"
   - "[[Avatar]]"
@@ -198,7 +199,7 @@ Ryan (pp.42–43)从文献中归纳出如下被反复使用的对立表格：
 **例：** 2005 年 Australasia 教育哲学学会香港年会（主题："批判性思维与学习：价值、概念与议题"）的征稿通知，就明确以上述对立框架组织论述(p.43)：
 > "大澳亚地区各国的教育受到截然不同的历史和文化视角的影响——从西方的到儒家的、从自由的到社群的、从殖民的到后殖民的……自由主义对独立自主个体的理想，是否与关系中的身份认同的社群价值相冲突？"
 
-Ryan 指出，这份征稿通知虽然是"故意"用二元逻辑来激发讨论，但它恰恰精准复现了文献中无处不在的二分法——**将中西教育呈现为互斥的、可清晰定义的、静止不变的整体**。这种话语一旦成为学术会议的"默认框架"，就很难被挑战——参会者会更关注"两个体系如何不同"，而非"这个二分法本身是否有问题"。
+Ryan 指出，这份征稿通知虽然是"故意"用二元逻辑来激发讨论，但它恰恰精准复现了文献中无处不在的二分法——**将中西教育呈现为互斥的、可清晰定义的、静止不变的整体**。这种[[Discourse|话语]]一旦成为学术会议的"默认框架"，就很难被挑战——参会者会更关注"两个体系如何不同"，而非"这个二分法本身是否有问题"。
 
 #### 3b. 用"儒家传统"当万能解释——听起来有道理，但没有证据
 

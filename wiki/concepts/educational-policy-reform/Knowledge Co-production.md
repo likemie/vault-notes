@@ -10,7 +10,7 @@ aliases:
 summary: "研究者、教育实践者与决策者平等介入研究问题提出、方案设计、数据解析与成果转化的全周期协作模式，旨在打破单向线性知识传递并化解实践者沦为被动数据收集客体的体制困境；苏格兰与德国的治理经验证实制度化实践者探究与同侪会商是弥合专长断裂、实现知识共创的关键路径。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Pride in Learning]]"
   - "[[Document]]"
+  - "[[Discourse]]"
   - "[[Ontology]]"
   - "[[Evaluation Research]]"
   - "[[Boundary Spanner]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Knowledge Co-production
@@ -168,7 +169,7 @@ updated: 2026-09-22
 
 > [!debates] 知识共创的实践张力与制度反思
 > 
-> > [!axis] 平等共创理想 vs 学术资本与话语不对称
+> > [!axis] 平等共创理想 vs 学术资本与[[Discourse|话语]]不对称
 > > 探讨大学研究者与一线教师在合作中是否能真正建立平等伙伴关系。
 > > 
 > > - **共创倡导者** 强调实践者拥有的情境化手艺知识具有不可替代的[[Ontology\|本体论]]价值，主张通过全周期共同设计实现互惠共赢。（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]]）

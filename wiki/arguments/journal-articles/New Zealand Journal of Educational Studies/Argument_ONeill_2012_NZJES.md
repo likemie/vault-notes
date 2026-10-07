@@ -9,7 +9,7 @@ title: "Argument_ONeill_2012_NZJES"
 argument_key: "Argument_ONeill_2012_NZJES"
 argument_display_title: "Material fallacies of education research evidence and public policy advice"
 argument_kind: "journal-article"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Material Fallacies]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Discourse]]"
   - "[[Lesson Study]]"
   - "[[Class Size]]"
   - "[[Familiarization]]"
@@ -60,12 +61,12 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - [[Material Fallacies]] — Kreeft (2010) 的逻辑分类：实质谬误是"在理解术语的含义或用法方面的错误"(p.85)，本文将其应用于教育政策[[Discourse Analysis\|话语分析]]
-> - [[Policy Entrepreneur]] — Mintrom (2000) 概念，用以理解政策行动者如何在教育改革话语中定位自身以倡导、塑造和获益
+> - [[Policy Entrepreneur]] — Mintrom (2000) 概念，用以理解政策行动者如何在教育改革[[Discourse|话语]]中定位自身以倡导、塑造和获益
 
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：政策话语案例分析（commentary）
+> - 方法：政策[[Discourse|话语]]案例分析（commentary）
 > - 分析对象：Treasury (2011) 简报文本、部长议会答复(House of Representatives, 2012)、Hattie (2009a, 2009b) VL 证据
 > - [[Analytic Framework\|分析框架]]：Kreeft [[Material Fallacies\|实质谬误]]分类 + Ball (2007) 公共部门信任/不信任悖论
 
@@ -83,7 +84,7 @@ citation_aliases:
 
 > [!success] 主要发现
 > - Hattie VL 中"教学质量"（quality of teaching，排名 56/138）的[[Meta-analysis\|元分析]]证据全部来自大学生评教，按此定义对学校教育政策无任何可证明的相关性(pp.154-155)
-> - "优质教学"(quality teaching, Alton-Lee, 2003)和"教学质量"(quality of teaching, Hattie, 2009a)在学术和政策话语中日益被当作口号使用，引发基于词汇熟悉度而非理性的膝跳反射式赞同或反对(p.155)
+> - "优质教学"(quality teaching, Alton-Lee, 2003)和"教学质量"(quality of teaching, Hattie, 2009a)在学术和政策[[Discourse|话语]]中日益被当作口号使用，引发基于词汇熟悉度而非理性的膝跳反射式赞同或反对(p.155)
 > - Treasury 将"教学质量"用作代理概念（proxy concept），以包装更具争议的政策目的（如教师绩效管理），使其获得接受
 > - Hattie 的综合涵盖早教、学校教育和高等教育所有阶段，非学校阶段的研究对学校教育政策无已证明的相关性，但其纳入扭曲了特定主题的平均[[Effect Size\|效应量]]和排名位置(pp.155-156)
 > - Hattie 本人承认的若干重要警示被 Treasury 忽略：相关不等于因果(p.3)、成功效应多来自创新而非日常课堂(p.6)、该书"不涉及课堂生活"（p.viii）、非元分析研究可提供更丰富细致的证据(p.255)(pp.156-157)

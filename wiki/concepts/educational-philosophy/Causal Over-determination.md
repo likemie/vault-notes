@@ -7,7 +7,7 @@ aliases:
 summary: "一个效果是多个原因的产物，而其中每一个原因本身都足以单独产生该效果——这一现象对单一干预归因的主张构成挑战"
 type: concept
 domain: "educational-philosophy"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Counterfactual]]"
   - "[[Homework]]"
+  - "[[Hidden Curriculum]]"
   - "[[Compound Causes]]"
   - "[[Interaction Effect]]"
   - "[[Total Quality Management]]"
@@ -30,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-10-04
+updated: 2026-10-07
 ---
 
 # Causal Over-determination
@@ -58,7 +59,7 @@ updated: 2026-10-04
 > 在教育情境中，声称某一干预"独自"导致某个效果的主张面临过度决定的挑战。例如，学生数学成绩的提高可能同时源于更多[[Homework\|家庭作业]]、家长施压、金钱奖励、学校压力和大学录取条件——任何一项单独都可能产生效果。效果是"过度决定的"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 63–64]]）。
 
 > [!claim] 学校中过度决定的日常运作
-> 为什么年幼学童在学校中表现得如此规矩，尽管没有人明确教过他们隐性课程（hidden curriculum）？答案是过度决定：许多事件——无论是单独还是组合——都通向同一结果：幼童必须按被告知的去做，而拥有愉快的学校体验取决于他们如何有效地学会这些规则并遵守它们。多个原因，同一效果：好行为（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, p. 63]]）。
+> 为什么年幼学童在学校中表现得如此规矩，尽管没有人明确教过他们[[Hidden Curriculum|隐性课程]]（hidden curriculum）？答案是过度决定：许多事件——无论是单独还是组合——都通向同一结果：幼童必须按被告知的去做，而拥有愉快的学校体验取决于他们如何有效地学会这些规则并遵守它们。多个原因，同一效果：好行为（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, p. 63]]）。
 
 ## 概念辨析
 

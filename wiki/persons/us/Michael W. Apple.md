@@ -9,10 +9,10 @@ summary: "美国当代著名批判教育社会学者与课程理论泰斗，威�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1942"
 died: ""
 lifespan: "1942–至今"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Cognitive Deskilling]]"
   - "[[Official Knowledge]]"
   - "[[Paradigm]]"
+  - "[[Hidden Curriculum]]"
   - "[[Cultural Capital]]"
   - "[[Value Neutrality]]"
   - "[[Politicity of Education]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Michael W. Apple
@@ -83,7 +84,7 @@ updated: 2026-10-01
 > - **1942** 出生于美国新泽西州帕特森一个贫困的工人阶级家庭，早年担任公立小学与初中教师，深受基层劳工抗争与民权运动浸润。
 > - **1970** 于哥伦比亚大学教育学院（Teachers College, Columbia University）获得博士学位，受存在主义[[Phenomenology|现象学]]、法兰克福学派与葛兰西统识理论影响，致力于开创教育批判社会学。
 > - **1970–至今** 任教于威斯康星大学麦迪逊分校，长达半个世纪执掌[[Critical Pedagogy|批判教育学]]与课程研究讲席，培养了来自全球南方与东亚的几代批判教育学者。
-> - **1979** 出版《意识形态与课程》（*Ideology and Curriculum*），系统论证学校不仅再生产经济资本，更通过“隐性课程”（Hidden Curriculum）合法化资产阶级[[Cultural Capital|文化资本]]，该书入选国际比较教育学会“20世纪最重要的教育学著作”。
+> - **1979** 出版《意识形态与课程》（*Ideology and Curriculum*），系统论证学校不仅再生产经济资本，更通过“[[Hidden Curriculum|隐性课程]]”（Hidden Curriculum）合法化资产阶级[[Cultural Capital|文化资本]]，该书入选国际比较教育学会“20世纪最重要的教育学著作”。
 > - **1982** 发表《课程形态与技术控制的逻辑：建构占有性个人》（*Curricular form and the logic of technical control*），深入揭示资本主义生产方式从福特制流水线向[[Post-Fordism|后福特制]]转型中，课程与教师劳动如何被技术官僚[[Cognitive Deskilling|去技能化]]。
 > - **1990s–2000s** 出版《[[Official Knowledge|官方知识]]》（*Official Knowledge*, 1993）与《受教育的“正确”方式》（*Educating the "Right" Way*, 2001），系统解剖新自由主义市场化与审计文化对公立教育的侵蚀；长期与[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]紧密合作并为其著作撰写权威前言。
 
@@ -92,7 +93,7 @@ updated: 2026-10-01
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1970s — 隐性课程与文化再生产批判** 打破学校是[[Value Neutrality|价值中立]]的知识殿堂的神话。
+> - **1970s — [[Hidden Curriculum|隐性课程]]与文化再生产批判** 打破学校是[[Value Neutrality|价值中立]]的知识殿堂的神话。
 >   - **代表著作** *Ideology and Curriculum* (1979)。
 >   - **关键概念／理论** 隐性课程、[[Cultural Capital|文化资本]]再生产、[[Official Knowledge|官方知识]]合法化。
 >   - **阶段转向** 吸收葛兰西文化统识与[[Pierre Bourdieu|布迪厄]]文化资本理论，揭示正规学校如何通过官方课程的选择与删减，将占统治地位阶级的文化偏见包装为中立的“高深学术知识”。

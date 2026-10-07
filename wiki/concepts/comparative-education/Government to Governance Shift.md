@@ -8,7 +8,7 @@ aliases:
 summary: "描述国家治理模式从传统科层制统治转向多元行动者网络化治理的变化，教育治理在国家、国际组织、企业和非政府机构之间分工"
 type: concept
 domain: "comparative-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Network Governance]]"
   - "[[Global-Local Binary]]"
+  - "[[Discourse]]"
   - "[[Policy Borrowing]]"
   - "[[Policy Network]]"
 related_theories:
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-09-14
+updated: 2026-10-07
 ---
 
 # Government to Governance Shift
@@ -53,7 +54,7 @@ updated: 2026-09-14
 >
 > **边界模糊**。Ball & Junemann (2012) 使用[[Network Governance\|网络治理]]概念分析英格兰教育政策的变化，发现国家、经济和公民社会之间的边界正在变得模糊，教育的边界和空间视野正在以各种方式被拉伸、分散和重新配置。教育的定义、教学实践的管理方式、教育的组织和资助方式都在被重新定义（引自 Beech & Artopoulos, 2015）。
 >
-> **多元行动者**。参与教育空间的行动者包括国际机构、大学、企业、咨询公司、发展机构、区域集团和非政府组织。这些行动者不容易被归入[[Global-Local Binary\|全球/地方二元对立]]，其话语权力也不总是通过国家政策来部署。
+> **多元行动者**。参与教育空间的行动者包括国际机构、大学、企业、咨询公司、发展机构、区域集团和非政府组织。这些行动者不容易被归入[[Global-Local Binary\|全球/地方二元对立]]，其[[Discourse|话语]]权力也不总是通过国家政策来部署。
 >
 > **新旧并存**。一些官僚形式的政府仍然存在，与新的干预和影响形式并存。Ball & Junemann 的分析集中在正在改变或正在变化过程中的内容，但提醒读者注意旧形式的持续存在（引自 Beech & Artopoulos, 2015）。
 

@@ -27,6 +27,7 @@ related_concepts:
   - "[[Areas of Knowledge]]"
   - "[[Scientism]]"
   - "[[Knowledge Questions]]"
+  - "[[Discourse]]"
   - "[[Hypothesis]]"
   - "[[Homework]]"
   - "[[Operationalization]]"
@@ -85,7 +86,7 @@ title: "Argument_Zemplen_2007_SciEduc"
 argument_key: "Argument_Zemplen_2007_SciEduc"
 argument_display_title: "Conflicting agendas: Critical thinking versus science education in the International Baccalaureate Theory of Knowledge course"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -177,7 +178,7 @@ issuing_organization: ""
 > [!chain-link] 框架如何变成灌输（pp.171–172，note 11）
 > - **评估需要标准** TOK 声称由问题构成，但评估必须给出分数，分数依赖标准，标准必然使用术语。评估标准的关键要素是识别和理解相关知识问题、对不同观点进行批判性反思、以及连接多种认知方式和知识领域。
 > - **标准制造了捷径** 学生只需在论文中罗列 TOK 图表（图 2）上的术语，嵌入显示批判性反思的语句，就能获得相当好的分数。一位不满的教师 Hugh Mitchell 描述了这个公式：以 Reuben Abel 的 *Man is the Measure* 为起点，加入几句西方哲学经典的引用，在倒数第二段添加反主张（counterclaims），BINGO，稳拿 B 甚至 A。
-> - **术语排斥了另类思维** 这一框架偏袒某些推理风格，排斥另一些。它无法容纳[[Bruno Latour\|布鲁诺·拉图尔]]式的主体—客体消解路径，也无法容纳基于行动的感知理论。框架声称要统一各种话语形式、教授提问，但在反对传统灌输的同时，创造了自身的灌输形式。
+> - **术语排斥了另类思维** 这一框架偏袒某些推理风格，排斥另一些。它无法容纳[[Bruno Latour\|布鲁诺·拉图尔]]式的主体—客体消解路径，也无法容纳基于行动的感知理论。框架声称要统一各种[[Discourse|话语]]形式、教授提问，但在反对传统灌输的同时，创造了自身的灌输形式。
 > - **批判性思维课程变成自身不可批判的对象** 所有学科都通过提供框架来灌输，但 TOK 的框架特殊之处在于：它被创造出来恰恰是为了反对灌输。用这样一个框架来灌输，比用成熟的学术学科来灌输更不可接受。
 >
 > > [!exegesis]- 类比：一门课教媒体素养，教材本身却充满宣传

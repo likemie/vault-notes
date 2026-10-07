@@ -10,7 +10,7 @@ summary: "俄裔英国比较教育学家，伦敦大学国王学院读者，20 �
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 42
+person_related_count: 43
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Commensuration]]"
   - "[[Analytical Stance]]"
+  - "[[Discourse]]"
   - "[[Knowledge Production]]"
   - "[[Educational Meliorism]]"
   - "[[Empiricism]]"
@@ -72,7 +73,7 @@ related_theories:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Nicholas Hans
@@ -203,7 +204,7 @@ updated: 2026-10-01
 > [!influence-path] 影响路径
 > - **理论路径** 创立的“自然-宗教-世俗”因素三分法被二战后多国比较教育教科书奉为标准分析模版，深刻塑造了战后欧洲与英联邦比较教育的课程组织方式。
 > - **方法路径** 规范了比较教育中的[[Historical-Comparative Method\|历史比较法]]，将原本松散的观念漫谈提升为具有固定维度对照的结构化分析程序。
-> - **政策与实践** 通过主编《教育年鉴》持续介入战后欧洲教育重建与去法西斯化改革话语，推动民主公民教育理念的跨国传播。
+> - **政策与实践** 通过主编《教育年鉴》持续介入战后欧洲教育重建与去法西斯化改革[[Discourse|话语]]，推动民主公民教育理念的跨国传播。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯阐述汉斯作为比较教育学“第二代”历史-哲学学派代表人物，主张将比较教育界定为广义教育科学（*Vergleichende Erziehungswissenschaft*）与人文学科（*[[Geisteswissenschaften]]*），并以历史与社会科学理性的结合推动教育改良。

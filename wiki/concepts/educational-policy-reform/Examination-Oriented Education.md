@@ -8,7 +8,7 @@ aliases:
 summary: "以标准化高利害考试成绩为教育质量与个体价值核心衡量指标的制度化教学与评价体系。在中国根植于科举文化传统并由高考多层问责机制维持；在当代全球语境下表现为与教育计算机化对齐的模式识别与公式套路化规训，前置性造成未成年学习者的成长性认识不正义。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -20,6 +20,7 @@ tags:
   - theme/epistemic-injustice
 related_concepts:
   - "[[Computerization of Education]]"
+  - "[[Discourse]]"
   - "[[Quality Education]]"
   - "[[Epistemology]]"
   - "[[Disciplina and Doctrina]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Examination-Oriented Education
@@ -77,7 +78,7 @@ updated: 2026-09-29
 
 > [!concept-lens] 概念透镜
 > - **制度本质** 不仅是教学方法的偏狭，更是连接选拔制度、行政问责、文化心理与社会流动的复合体制。
-> - **话语建构** 在中国政策与学术话语中常被建构为[[Quality Education|素质教育]]的对立极，形成“应试 vs 素质”的双轨张力（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009]]）。
+> - **[[Discourse|话语]]建构** 在中国政策与学术话语中常被建构为[[Quality Education|素质教育]]的对立极，形成“应试 vs 素质”的双轨张力（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009]]）。
 > - **[[Epistemology|认识论]]代价** 应试教育将丰富的文本阐释、道德探究与探究体验置换为机械的提分技术与公式写作，使学习者在求知能力形成期遭遇长期的心智[[Disciplina and Doctrina|规训]]（Learned et al., 2020; Collin, 2024; [[Argument_Smith_2026_SPE|Smith, 2026]]）。
 
 > [!citation-card] 传统考试文化对当代学校实践的支撑
@@ -203,7 +204,7 @@ updated: 2026-09-29
 > |---|---|---|---|---|
 > | **核心价值取向** | 选拔分流、高分至上、模式识别 | 全面发展、创新精神、主体健全 | 行政绩效监控、资源分配与奖惩 | 信息处理、规则匹配与计算逻辑 |
 > | **主导教学[[Paradigm\|范式]]** | 教师中心讲授、大批量题海操练、套路公式 | [[Inquiry-Based Learning\|探究学习]]、活动教学、跨学科综合 | 目标分解教学、测试对齐与考前冲刺 | 寻找中心句、圈划过渡词、机械化拆解 |
-> | **社会认同基础** | 深厚的“以成绩取士”文化认同与公平信仰 | 官方政策主导、学术精英与前沿话语 | 新自由主义公共管理契约与审计文化 | [[Technical Rationality\|技术理性]]至上与量化[[Cult of Efficiency\|效率崇拜]] |
+> | **社会认同基础** | 深厚的“以成绩取士”文化认同与公平信仰 | 官方政策主导、学术精英与前沿[[Discourse\|话语]] | 新自由主义公共管理契约与审计文化 | [[Technical Rationality\|技术理性]]至上与量化[[Cult of Efficiency\|效率崇拜]] |
 > | **未成年人心智影响** | 诱发焦虑，压抑独创，前置造成[[Epistemic Injustice\|认识不正义]] | 理论上激发潜能，实践中常沦为表面形式 | 强化分数挂帅，引发教学测验窄化 | 导致主观阐释与深层价值探究全面萎缩 |
 
 ---
@@ -218,7 +219,7 @@ updated: 2026-09-29
 > > - **公平卫道论（[[Argument_Wang_2025_CE|Wang & McLaughlin, 2025]]）** 强调在人口规模巨大且资源分布不均的社会，统一标准化考试是阻断特权寻租、为寒门子弟提供公平向上流动阶梯的唯一现实制度托底。
 > > - **批判[[Epistemology|认识论]]（[[Argument_Smith_2026_SPE|Smith, 2026]]; Learned et al., 2020）** 指出应试体制以牺牲一代代学生的高阶认知发育、主观批判阐释与心理健康为代价，在未成年人最关键的心智塑造期强加了不可逆的[[Epistemic Malformation|认知畸变]]。
 >
-> > [!axis] [[Quality Education|素质教育]]改革的成效：制度性重构 vs 话语修辞层面的共存
+> > [!axis] [[Quality Education|素质教育]]改革的成效：制度性重构 vs [[Discourse|话语]]修辞层面的共存
 > > 争论推行三十年的素质教育改革究竟是深刻改变了课堂生态，还是沦为应试主导结构下的修辞点缀。
 > >
 > > - **渐进重构论** 认为新课标、跨学科综合评价逐步松动了唯分数论，教学法创新正在由点及面渗透。
@@ -233,7 +234,7 @@ updated: 2026-09-29
 > |---|---|---|---|---|---|
 > | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] | 中国东部与中部 4 所中学（2 所城市、2 所农村，含示范校与普通校） | 质性多案例研究与[[Third Generation Activity Theory\|活动理论]]分析 | 教师主导讲授比例、统考数据分析模式、行政考核与改革动力 | 100% 学校在统考后逐题分析数据并对齐教学；农村与后进校为突破瓶颈采纳 [[Learner-Centred Education\|LCE]]，但全员视“成绩不降”为绝对底线 | 证实应试教育是由多层行政问责与社会道德信念锁定的高稳态活动系统 |
 > | Learned et al. (2020)（引自 [[Argument_Smith_2026_SPE\|Smith, 2026]]） | 欧美中学读写课堂 | 质性[[Fieldwork\|田野调查]]与师生追踪 | [[High-Stakes Testing\|高利害测验]]对课堂生态与写作心理的影响 | 教师在高压测验下被迫放弃自由阅读，全盘转向公式套路写作训练；学生表现出普遍的焦虑与情绪创伤 | 揭示西方高利害测验与公式写作对应试心理异化的跨国共性 |
-> | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] | 中国教育政策话语与历史文本 | 历史制度主义与[[Discourse Analysis\|话语分析]] | 应试教育与[[Quality Education\|素质教育]]二元对立的政策建构 | 两者在政策文本中被建构为不可调和的对立[[Paradigm\|范式]]，但在学校日常管理中高度妥协与混杂 | 揭示应试教育话语背后的意识形态与政治治理逻辑 |
+> | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] | 中国教育政策[[Discourse\|话语]]与历史文本 | 历史制度主义与[[Discourse Analysis\|话语分析]] | 应试教育与[[Quality Education\|素质教育]]二元对立的政策建构 | 两者在政策文本中被建构为不可调和的对立[[Paradigm\|范式]]，但在学校日常管理中高度妥协与混杂 | 揭示应试教育话语背后的意识形态与政治治理逻辑 |
 > | Collin (2024)（引自 [[Argument_Smith_2026_SPE\|Smith, 2026]]） | 美国读写教育百年历史与课程档案 | 历史社会学与读写史考察 | 读写教学目标演进与测验技能异化 | 读写教育彻底放弃了早期追求道德真理与社会至善的探究目标，退化为圈过渡词等细碎技能操练 | 确立了读写教育向应试技能主义蜕变的工具化历史脉络 |
 
 ---
@@ -252,7 +253,7 @@ updated: 2026-09-29
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 运用[[Third Generation Activity Theory|活动理论]]系统剖析中国学校应试教育系统的协调性机制、多层问责网络与教师道德认同，揭示应试底线对 [[Learner-Centred Education|LCE]] 改革的制约。
 > - [[Argument_Smith_2026_SPE\|Smith (2026)]] — 结合读写教育史与[[Critical Pedagogy|批判教育学]]，揭示高利害应试体系催生的[[Computerization of Education|教育计算机化]]与公式套路写作，如何在生成式 AI 时代前置并加剧[[Formative Epistemic Injustice|成长性认识不正义]]。
-> - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 深入分析中国官方与学术话语中应试教育与[[Quality Education|素质教育]]的二元建构及其在政策实践中的模糊性与复杂性。
+> - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 深入分析中国官方与学术[[Discourse|话语]]中应试教育与[[Quality Education|素质教育]]的二元建构及其在政策实践中的模糊性与复杂性。
 
 ---
 

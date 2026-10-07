@@ -9,7 +9,7 @@ summary: "质性数据分析中将文本、图像及多模态数据拆解分段�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 66
+method_related_count: 67
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Central Phenomenon]]"
   - "[[Working Memory]]"
+  - "[[Discourse]]"
   - "[[Hypothesis]]"
   - "[[Chain of Evidence]]"
   - "[[Construct]]"
@@ -93,7 +94,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # Coding in Qualitative Research
@@ -223,7 +224,7 @@ updated: 2026-09-24
 > [!decisions] 新手操作决策：粗编码、双重赋码与认知容量控制
 > - **初筛阶段优先选用“粗编码”（Coarse Coding）** 初学者最容易犯的错误是一开始就拟定数十个细碎标签，导致短期[[Working Memory\|工作记忆]]迅速超载。先采用 **原因（CAUSE）**、**性质（NATURE）**、**结果（OUTCOME）** 与 **应对（HANDLING）** 四个广谱大类实施粗赋码，能够像分流漏斗一样将数据迅速划分到可管理的独立主题池中，为后续细化奠定基础。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, pp. 570–571)]]
 > - **多维复合语句的“双重赋码”（Dual Coding）** 经验语句常兼具多重属性（如既表达压力诱因又揭示其破坏性质）。初筛阶段无需强行削足适履进行排他割裂；赋予双重编码能最大程度保留经验丰富度与真实性，后续二级分类归组时再系统消化复合属性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 571)]]
-> - **从类别的“分布偏态”捕捉深层社会事实** 审视宏观领域的频次分布偏态（如 CAUSE 占 23 项次，而 HANDLING 仅占 3 项次），可揭示话语能量聚焦与制度性支持网络缺位等深层症结，无需复杂推断统计即可锁定研究重点。
+> - **从类别的“分布偏态”捕捉深层社会事实** 审视宏观领域的频次分布偏态（如 CAUSE 占 23 项次，而 HANDLING 仅占 3 项次），可揭示[[Discourse|话语]]能量聚焦与制度性支持网络缺位等深层症结，无需复杂推断统计即可锁定研究重点。
 > - **认知容量与浅层层级控制原则** 人类短期工作记忆一般仅能同时维持 4±1 或 7±2 个编码节点，单次阅读最多同时承载约 90 个编码（Miles & Huberman, 1994）。吉布斯（Graham Gibbs）建议编码树状层级应当保持“浅层”（shallow）而非过度嵌套的深层结构，以维持分析结构的清晰可控；同时依托持续比较检验机制，持续往复比对新旧文本片段以排除反例。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Gibbs, 2007; Cohen et al., 2011, p. 562)]]
 
 > [!proc] 质性数据生成意义的十二种策略（Miles & Huberman 阶梯模型）

@@ -10,7 +10,7 @@ summary: "用于辅助质性研究中文本、音频与图像数据组织、编�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 53
+method_related_count: 55
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Reflexivity]]"
   - "[[Epistemology]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Qualitative Validity]]"
   - "[[Qualitative Reliability]]"
   - "[[Open-Mindedness]]"
@@ -35,6 +36,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Working Memory]]"
   - "[[Operationalization]]"
+  - "[[Discourse]]"
   - "[[Going Native]]"
   - "[[Epistemic Friction]]"
   - "[[Assemblage]]"
@@ -80,7 +82,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-09-23
+updated: 2026-10-07
 ---
 
 # Qualitative Computer Software
@@ -115,7 +117,7 @@ updated: 2026-09-23
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** [[Qualitative Research\|质性研究]]视知识为扎根于具体社会语境与主体经验中的主观意义建构；计算工具是协助管理复杂经验资料的技术中介，而非独立生成客观实在的认识论代理。
-> - **研究者角色** 研究者始终处于人机协同的中心，作为主动诠释者与理论架构者。软件提供数据库检索、结构化映射与候选模式建议，研究者则负责赋予意义、裁决分类边界、反思潜在偏误并提炼理论洞见。
+> - **研究者角色** 研究者始终处于[[Man-Computer Symbiosis|人机协同]]的中心，作为主动诠释者与理论架构者。软件提供数据库检索、结构化映射与候选模式建议，研究者则负责赋予意义、裁决分类边界、反思潜在偏误并提炼理论洞见。
 > - **有效性标准** 依托全面系统的样本覆盖与透明数据检索保障[[Qualitative Validity\|质性效度]]；通过跨[[Coding in Qualitative Research\|编码]]者独立赋码比较与规则一致性维护[[Qualitative Reliability\|质性信度]]；借助完整的[[Audit Trail\|审计追踪]]确保分析链条的可审计性与可确证性。
 > - **不声称回答的问题** 软件无法直接揭示文本背后的潜意识动机、非言语权力博弈或未言明的文化禁忌；亦不能脱离研究者的理论敏锐度与[[Reflexivity\|反思性]]判断而独立推导出合法的因果解释。
 
@@ -183,7 +185,7 @@ updated: 2026-09-23
 >   - 多人协作团队研究，需要依托统一[[Qualitative Codebook\|编码手册]]开展独立赋码并检验[[Intercoder Agreement\|编码者间一致性]]时。
 >   - 采用[[Grounded Theory\|扎根理论]]或[[Template Analysis\|模板分析]]等高度依赖概念分层、持续比较与网络建模的方法论时。
 > - **谨慎使用**
->   - 纯粹的深层[[Narrative Research\|叙事探究]]（Narrative Research）或诗意话语研究：过度依赖软件切片检索可能打碎故事连续性与整体时序经验，需辅以整篇连贯叙事记述。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
+>   - 纯粹的深层[[Narrative Research\|叙事探究]]（Narrative Research）或诗意[[Discourse|话语]]研究：过度依赖软件切片检索可能打碎故事连续性与整体时序经验，需辅以整篇连贯叙事记述。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
 >   - 涉及地方高度口语化方言、深层双关隐喻或特定亚文化禁忌的文本：传统检索与大语言模型极易误判，必须依赖研究者密集的[[Going Native\|本土化]]语境核验。
 > - **不适合使用**
 >   - 将软件作为“自动化结论生成机”，研究者放弃对经验材料的直接阅读与[[Reflexivity\|反身性]]诠释。
@@ -193,7 +195,7 @@ updated: 2026-09-23
 
 ## 局限性
 
-> [!method-limits] 方法局限与人机协同风险
+> [!method-limits] 方法局限与[[Man-Computer Symbiosis|人机协同]]风险
 > - **工具宰制与方法倒置（The Tail Wags the Dog）** 多数软件的设计架构天然偏向[[Grounded Theory\|扎根理论]]式的[[Coding in Qualitative Research\|编码]]与检索（Code-and-Retrieve）逻辑，容易诱使研究者机械迎合软件提供的功能与树状层级，忽视对文本更深层的批判性追问与诠释学理解（Crowley et al., 2002; Richards, 2002; Coffey et al., 1996）。软件是工具而非方法论指导者，研究者不能让工具逻辑反客为主。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, p. 539)]]
 > - **编码碎片化与语境剥离（Decontextualization）** 软件将连续文本切分为孤立片段存入节点数据库，若单纯按编码抽取片段进行[[Assemblage\|装配]]，极易抽离发生的时间序列、背景环境与情感张力（Gibbs, 2007; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, p. 562]]）。研究者若过度沉溺于节点切片，可能因技术屏障而“疏远数据”（Distance from Data），削弱[[Qualitative Research\|质性研究]]立足的[[Rich and Thick Description\|深描]]根基。
 > - **算法依赖与虚假模式风险（[[AI Hallucination\|Algorithmic Hallucination]]）** 当引入大语言模型辅助赋码与主题生成时，模型固有的一致性幻觉、去情境化归纳偏倚以及预训练语料中的文化刻板印象可能带来系统性失真；机器可能拼凑出看似严密实则脱离现实经验的“伪主题”。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 578)]]

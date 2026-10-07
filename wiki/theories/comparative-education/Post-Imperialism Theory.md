@@ -9,7 +9,7 @@ aliases:
 summary: "第三世界发展研究与国际政治经济学的重要批判理论流派，主张跨国大资产阶级与发展中国家本土统治阶级和管理资产阶级跨越国界结成支配同盟，解释了外围国家国家机器何以在外部跨国资本渗透与内部既得利益维护的双重合谋下推行阶级分化的教育与公共政策"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 11
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Pact of Domination]]"
   - "[[Construct]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Financial-Intellectual Complex]]"
 related_theories:
   - "[[Dependency Theory]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Post-Imperialism Theory
@@ -97,7 +98,7 @@ updated: 2026-10-05
 > **应用实例** 在拉美教育改革中，跨国金融机构与本土技术官僚合谋削减公立基础教育经费，同时对服务跨国企业技能需求的高等技术与商科教育进行定向倾斜，导致普通平民教育深陷资源短缺泥潭。
 
 > [!theory-proposition] 命题二｜跨国霸权机制削弱国家作为公共福利仲裁者的合法性
-> **解释** 当国家统治阶级依附于跨国资本同盟时，国家公共政策必然呈现严重的阶级双轨性：在话语上高喊全民现代化，在实践中推行使用者付费与私有化，致使大众对国家公共性产生根本怀疑。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
+> **解释** 当国家统治阶级依附于跨国资本同盟时，国家公共政策必然呈现严重的阶级双轨性：在[[Discourse|话语]]上高喊全民现代化，在实践中推行使用者付费与私有化，致使大众对国家公共性产生根本怀疑。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 >
 > **应用实例** 墨西哥与阿根廷等国在新自由主义结构调整期间，政府将国立大学重组为自负盈亏的市场主体，这一政策直接顺应了跨国投资对廉价专业劳动力的需求，却激化了本土青年与工农阶级的广泛抗争。
 

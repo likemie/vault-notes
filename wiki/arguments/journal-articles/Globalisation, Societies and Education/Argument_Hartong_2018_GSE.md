@@ -7,7 +7,7 @@ title: "Argument_Hartong_2018_GSE"
 argument_key: "Argument_Hartong_2018_GSE"
 argument_display_title: "Towards a topological re-assemblage of education policy? Observing the implementation of performance data infrastructures and ‘centers of calculation’ in Germany"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[PISA Shock]]"
   - "[[Topological Spatialisation]]"
   - "[[Assemblage]]"
+  - "[[Discourse]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Commensuration]]"
   - "[[Disciplina and Doctrina]]"
@@ -92,7 +93,7 @@ updated: 2026-09-18
 > 在全球化与数字化交织推进的背景下，教育政策的[[Rescaling\|尺度重组]]（rescaling）如何打破传统的国家、区域与地方等层级化行政界限？正统新制度主义的世界体系与[[Policy Borrowing\|政策借用]]理论侧重宏观趋同，忽视了技术客体、软件算法与数据流转的社会-物质性；在高度分权且宪法保障各州文化主权的德国教育体制中，以[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（Institute for Educational Quality Improvement, IQB）为代表的[[Center of Calculation\|计算中心]]（Center of Calculation）与跨尺度绩效[[Data Infrastructure\|数据基础设施]]（Data Infrastructure），如何在经历 2000 年[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）震荡（[[PISA Shock]]）后建立并运转？这种数据流动如何在法律明文禁止编制学校排名的约束下，通过时空折叠驱动教育政策的[[Topological Spatialisation\|拓扑学重组]]（Topological Re-[[Assemblage]]）？（pp. 134–136）
 
 > [!claim] 核心主张
-> 教育治理的跨尺度重组不仅依赖宏观政策话语与行政命令，更依托于将微观教育现象[[Transfer Translation Transformation\|转译]]为可[[Commensuration\|通约]]数据的绩效数据基础设施；德国在 PISA 震荡后建立的 IQB 作为国家计算中心，通过统筹国家教育标准、联邦州学业达标趋势比较（[[IQB-Bildungstrend]]）与全德[[Vergleichsarbeiten\|校际比较测试]]（Vergleichsarbeiten, VERA）题库，并在内部设立教育研究数据中心（Research Data Centre, FDZ / 德语：Forschungsdatenzentrum），在法律严格禁止公开发布学校排名表与维护各州文化主权的强制度约束下，依然在各州行政边界之间搭建起密集的拓扑连通管道，实现了对基层学校教学实践的远程拓扑[[Disciplina and Doctrina\|规训]]与政策重组。（pp. 143–146）
+> 教育治理的跨尺度重组不仅依赖宏观政策[[Discourse|话语]]与行政命令，更依托于将微观教育现象[[Transfer Translation Transformation\|转译]]为可[[Commensuration\|通约]]数据的绩效数据基础设施；德国在 PISA 震荡后建立的 IQB 作为国家计算中心，通过统筹国家教育标准、联邦州学业达标趋势比较（[[IQB-Bildungstrend]]）与全德[[Vergleichsarbeiten\|校际比较测试]]（Vergleichsarbeiten, VERA）题库，并在内部设立教育研究数据中心（Research Data Centre, FDZ / 德语：Forschungsdatenzentrum），在法律严格禁止公开发布学校排名表与维护各州文化主权的强制度约束下，依然在各州行政边界之间搭建起密集的拓扑连通管道，实现了对基层学校教学实践的远程拓扑[[Disciplina and Doctrina\|规训]]与政策重组。（pp. 143–146）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 德国在 PISA 震荡后构建的国家教育监测体系，重点考察各州教育与文化部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs]], KMK）的监测战略、柏林洪堡大学教育质量发展研究所（[[Institute for Educational Quality Improvement\|IQB]]）及其研发的跨州数据基础设施。

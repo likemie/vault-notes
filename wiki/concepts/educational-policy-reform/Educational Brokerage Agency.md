@@ -17,7 +17,7 @@ aliases:
 summary: "产生、评估并在政策制定者、教育实践者与公众之间传播研究成果的制度化实体与中介网络，呈现出部委依附、政府资助自治与独立慈善三种治理模式，以及因果实证（RCT）与多元综合两种方法学立场；在两至三年的政治预算周期下面临突出的存续危机与跨机构元中介需求。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 133
+related_count: 134
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -70,6 +70,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Teaching Assistant]]"
   - "[[Legislative Policy Brief]]"
+  - "[[Discourse]]"
   - "[[Normal School]]"
   - "[[Research-Practice Gap]]"
   - "[[Hypothesis]]"
@@ -170,7 +171,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-12
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Educational Brokerage Agency
@@ -335,7 +336,7 @@ updated: 2026-10-05
 > **循证医学危机对教育中介的五重警示** 循证医学运动暴露出五大意外后果：循证质量标志被既得商业利益绑架、临床指南数量泛滥导致无法消化、微弱的统计学显著性缺乏实际临床意义、单一指南无法适应复杂多重并发症，以及机械的技术化决策提示抹杀以患者为中心的临床智慧。这些异化倾向高度平行于教育领域：若教育中介机构仅热衷于打造刚性干预指南和技术驱动的决策算法，将导致一线教学被拆解为碎片化的标准化流程，严重侵蚀教师的[[Phronesis\|实践智慧]]与[[Professional Judgment\|专业判断]]。（Greenhalgh et al., 2014; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 65–66]]）
 
 > [!claim] Lubienski
-> **从客观[[Boundary Spanner\|边界跨越者]]退化为利益游说商** 在商业资本与教育科技（EdTech）大举侵入教育知识系统的背景下，原本承担客观中介职能的机构与专家面临被市场裹挟的严峻风险。中介话语极易从公正连接供需的“边界跨越者”（Boundary Spanners）蜕变为借由“证据知情”黄金外衣兜售特定商业产品与技术方案的“自利操纵者”（Spinners），将公共循证运动异化为商业营销手段。（Lubienski, 2019; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 60]]）
+> **从客观[[Boundary Spanner\|边界跨越者]]退化为利益游说商** 在商业资本与教育科技（EdTech）大举侵入教育知识系统的背景下，原本承担客观中介职能的机构与专家面临被市场裹挟的严峻风险。中介[[Discourse|话语]]极易从公正连接供需的“边界跨越者”（Boundary Spanners）蜕变为借由“证据知情”黄金外衣兜售特定商业产品与技术方案的“自利操纵者”（Spinners），将公共循证运动异化为商业营销手段。（Lubienski, 2019; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 60]]）
 
 > [!claim] Kelly et al.
 > **市场化中介激增与一线实践者认知过载** 在高度分化与市场化的教育治理环境中，公共财政将中观支持开放给多元商业与慈善实体，促成中介机构的大量繁衍。中介密集推销的摘要工具与培训资源使得一线[[School Leadership\|学校领导]]者陷入严重的信息轰炸与信任疲劳（“每周都有新花样”），导致校长退回至熟人网络推荐，甚至将中介工具包异化为应对督导问责的表演性防御修辞。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 11–12, 21–22)]]

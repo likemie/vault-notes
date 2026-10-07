@@ -9,7 +9,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Communities of Practice]]"
+  - "[[Discourse]]"
   - "[[New Public Management]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-02'
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 ## 背景
 
@@ -87,7 +88,7 @@ updated: 2026-10-05
 > [[Argument_Møller_2017_EERJ\|Møller (2017, p.377)]]提出了三条关键批评：
 >
 > - **去政治化呈现**[[OECD]] 报告将表面上政治中立的"最佳实践"模型呈现为去政治化的，未能承认这些模型仍然是政治化的。对当前绩效问责氛围没有提出实质性批评，权力结构未被问题化
-> - **两个矛盾话语的并存** OECD 同时推崇分布式领导的"专业共同体"话语（去科层化）和[[New Public Management\|新公共管理]]的"外部控制"话语（市场化），二者并行运作，构成一个悖论
+> - **两个矛盾[[Discourse|话语]]的并存** OECD 同时推崇分布式领导的"专业共同体"话语（去科层化）和[[New Public Management\|新公共管理]]的"外部控制"话语（市场化），二者并行运作，构成一个悖论
 > - **社会正义导向的虚假中立** 任何带有社会正义导向意图的政策本质上都是高度政治化的，因为它通常需要更具再分配性或福利主义的方法，但 OECD 以中立技术语言包装此类政策
 
 ## 相关概念／理论

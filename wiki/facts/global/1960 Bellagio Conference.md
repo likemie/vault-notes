@@ -11,7 +11,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Bildung]]"
   - "[[Liberal Education]]"
+  - "[[Discourse]]"
   - "[[Cultural Capital]]"
   - "[[Incommensurability]]"
   - "[[International Education]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # 1960 Bellagio Conference
@@ -110,7 +111,7 @@ updated: 2026-10-02
 > |:---|:---|:---|
 > | 核心行动者 | 舒尔茨（Theodore Schultz）、OEEC 秘书处、洛克菲勒基金会 | 欧陆传统教育学者、财政部预算紧缩官僚 |
 > | 阶级／社会基础 | 战后现代技术官僚、跨国发展精英、工业界资方 | 传统文化精英、古典学院派学者、地方保守税民 |
-> | 核心价值话语 | 生产性投资 / 人力资本积累 / 经济增长发动机 | 公共消费负担 / 道德教化 / 阶层区隔[[Cultural Capital\|文化资本]] |
+> | 核心价值[[Discourse\|话语]] | 生产性投资 / 人力资本积累 / 经济增长发动机 | 公共消费负担 / 道德教化 / 阶层区隔[[Cultural Capital\|文化资本]] |
 > | 斗争策略 | 计量模型实证展示 / 跨国政策峰会 / 援助资金捆绑 | 捍卫教育自治 / 强调哲学[[Incommensurability\|不可通约性]] / 财政封锁 |
 >
 > **关键分歧** 教育开支究竟是能够带来长效经济红利的资本性投资，还是必须受制于国家税收总量的福利性净消耗。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]

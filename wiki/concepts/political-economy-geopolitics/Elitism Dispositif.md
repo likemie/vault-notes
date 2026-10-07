@@ -6,7 +6,7 @@ aliases:
 summary: "Maesse 借 Foucault 的 dispositif 概念分析经济学学科精英生产的机制，统一评估、资源集中和院系规模化共同运作，系统性地制造学科的中心-边缘分化并溢出至政治和媒体场域"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Constructivist Paradigm]]"
+  - "[[Discourse]]"
   - "[[Champ]]"
   - "[[Paradigm]]"
   - "[[Reliability]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-10-07
 ---
 
 # Elitism Dispositif
@@ -44,7 +45,7 @@ updated: 2026-06-01
 > [!info]
 > 精英部署（Elitism Dispositif）是 Maesse 在 Schulze-Cleven et al.（2017）的一期 Higher Education 中提出的批判[[Constructivist Paradigm\|建构主义]]概念，借用了 Foucault 的 dispositif（部署/装置）概念来分析经济学作为社会科学学科中学术精英的生产和再生产机制。它描述了一套制度配置——统一的科研产出评估、物质与人力资源的机构集中、院系规模与合作水平——共同运作以明确界定谁被承认为学科的精英、谁被推至学术可见度的边缘([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.806]])。
 
-Foucault 的 dispositif 指异质元素（制度、法律、话语、建筑、科学陈述等）之间形成的策略性网络，它回应某种紧迫需求并产生特定的权力效应。Maesse 将这一概念用于学术[[Champ|场域]]分析：精英部署不只是"精英存在"的事实，而是一套**生产**精英的制度机器——它通过评估标准的统一化、资源的集中化和院系组织的规模化，系统性地制造学科内部的中心-边缘分化。
+Foucault 的 dispositif 指异质元素（制度、法律、[[Discourse|话语]]、建筑、科学陈述等）之间形成的策略性网络，它回应某种紧迫需求并产生特定的权力效应。Maesse 将这一概念用于学术[[Champ|场域]]分析：精英部署不只是"精英存在"的事实，而是一套**生产**精英的制度机器——它通过评估标准的统一化、资源的集中化和院系组织的规模化，系统性地制造学科内部的中心-边缘分化。
 
 ## 运作机制
 
@@ -68,7 +69,7 @@ Foucault 的 dispositif 指异质元素（制度、法律、话语、建筑、�
 ## 与相关概念的关系
 
 > [!example]
-> - vs [[Discursive Stratification]]：话语分层是更广泛的分析路径——关注所有形式的话语如何建构社会等级。精英部署是话语分层在经济学学科中的一个具体案例——展示了评估、排名和机构集中如何成为生产精英身份的制度机器
+> - vs [[Discursive Stratification]]：话语分层是更广泛的分析路径——关注所有形式的[[Discourse|话语]]如何建构社会等级。精英部署是话语分层在经济学学科中的一个具体案例——展示了评估、排名和机构集中如何成为生产精英身份的制度机器
 > - vs [[Academic Oligarchy]]：学术寡头描述的是**结果**——少数精英机构和学者对资源和标准的垄断性控制。精英部署描述的是**生产过程**——这种寡头结构是如何被制度性地制造和维持的
 > - vs Foucault 的 dispositif：Foucault 的原始概念涵盖更广泛的社会控制装置（如监狱、诊所、学校）。Maesse 将其特定化于学术[[Champ\|场域]]中的精英生产机制——保留了 Foucault 对权力生产性的关注（权力不只是压制，更是制造），但聚焦于学术界的特定制度配置
 

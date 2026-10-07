@@ -9,7 +9,7 @@ aliases:
 summary: "源自母学科（社会科学、人文学科或教育学）的实质性理论框架。在混合方法研究中指从学科文献中提取、用以识别构念变量并统一整合质性与量化研究的理论透镜；在欧洲比较教育学中特指大学讲座教授基于普通教育学、历史学与社会哲学传统的学科本体理论，代表着抵制纯技术主义测量调查与捍卫学术自律的核心壁垒。"
 type: concept
 domain: "research-methodology"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Scale of Measurement]]"
+  - "[[Discourse]]"
   - "[[Self-control]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Scientific Method]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-31
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Discipline-Based Theory
@@ -108,7 +109,7 @@ updated: 2026-10-05
 
 > [!feature] 比较教育学中学科本位理论的建制地位
 > 米特（[[Argument_Mitter_2009_Europe|Mitter, 2009, pp. 93–94]]）指出，欧洲比较教育学的发展牢固依托于大学讲座教授制（University Chairs）：
-> - **母学科理论壁垒** 欧洲各大学的比较教育讲座长期由历史学、哲学与[[Allgemeine Pädagogik|普通教育学]]（[[Allgemeine Pädagogik]]）学者执掌，学科本位理论牢牢占据学术话语的“指挥高地”。
+> - **母学科理论壁垒** 欧洲各大学的比较教育讲座长期由历史学、哲学与[[Allgemeine Pädagogik|普通教育学]]（[[Allgemeine Pädagogik]]）学者执掌，学科本位理论牢牢占据学术[[Discourse|话语]]的“指挥高地”。
 > - **抵御[[Empiricism|经验主义]]测验** 与北美行为主义与纯实证调查导向不同，欧洲学科本位学者长期将大型跨国心理测量调查（如早期 [[IEA]] 调查）视为缺乏学科理论根基的边缘技术，坚决捍卫以文化解释、历史演变与教育哲学为核心的学科理论正统。
 
 ---

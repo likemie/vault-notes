@@ -7,10 +7,10 @@ aliases:
 summary: "以知识、创新、高等教育、研发与高阶思维技能作为价值创造与全球竞争核心要素的经济形态；在技术自动化与AI浪潮下，其战略重心从静态专业知识转向高阶认知能力，但面临宏观政策宣示与微观学业评价滞后的深层制度悖论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/knowledge-based-economy
   - theme/higher-order-thinking
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Reflexivity]]"
   - "[[Lifelong Learning]]"
+  - "[[Discourse]]"
   - "[[Growth]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Theoretical Knowledge]]"
@@ -91,7 +92,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 经济财富的创造重心从自然资源与有形物质资产，系统性转移至无形知识资产、前沿研发与非程序化高阶认知能力的生产、管理、分配与[[Reflexivity\|反身性]]应用。
-> - **用途** 揭示国家与超国家组织（如 [[OECD]]、[[World Bank\|世界银行]]）为何将高等教育重塑为核心经济基础设施，解释[[Lifelong Learning\|终身学习]]扩张与 21 世纪技能话语的宏观政治经济学根源，并诊断高教宏观政策与微观考核实践之间的制度断裂。
+> - **用途** 揭示国家与超国家组织（如 [[OECD]]、[[World Bank\|世界银行]]）为何将高等教育重塑为核心经济基础设施，解释[[Lifelong Learning\|终身学习]]扩张与 21 世纪技能[[Discourse|话语]]的宏观政治经济学根源，并诊断高教宏观政策与微观考核实践之间的制度断裂。
 > - **边界** 区别于单纯的“高科技产业部门”，KBE 是一种跨越私营、公共与第三部门的全社会经济形态；若脱离额外经济系统（法律、教育、科研质保）的制度支撑，单纯的资本投入无法自发形成良性知识生态。
 
 > [!citation-card]- 经典界定
@@ -148,7 +149,7 @@ updated: 2026-10-07
 > 在 KBE 逻辑下，大学不再是脱离世俗的象牙塔，而被重构为直接生产高附加值专利、吸引全球跨国资本与输出高技能劳动力的国家核心战略基础设施。
 
 > [!claim] Moisio; Rizvi
-> **大学作为[[Competitiveness|国家竞争力]]的战略支柱** 随着资本积累从物质密集型转向知识密集型，大学的战略政治角色根本性增加；亚洲各国政府与西方发达国家普遍以 KBE 话语为合法性依据，大规模扩张高等教育预算并实施教育出口战略，将高教政策转变为经济、外交与地缘安全政策的复合体。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, p. 23)]]; [[Argument_Rizvi_2022_Springer\|(Rizvi, 2022, pp. 95–100)]]
+> **大学作为[[Competitiveness|国家竞争力]]的战略支柱** 随着资本积累从物质密集型转向知识密集型，大学的战略政治角色根本性增加；亚洲各国政府与西方发达国家普遍以 KBE [[Discourse|话语]]为合法性依据，大规模扩张高等教育预算并实施教育出口战略，将高教政策转变为经济、外交与地缘安全政策的复合体。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, p. 23)]]; [[Argument_Rizvi_2022_Springer\|(Rizvi, 2022, pp. 95–100)]]
 
 ---
 
@@ -199,7 +200,7 @@ updated: 2026-10-07
 > [!dev-timeline] 知识经济概念演进脉络
 > - **十九世纪先驱 — [[Friedrich List]] 国家[[Systems of Innovation\|创新系统]]萌芽** List《政治经济学的国家系统》（1841）主张国家必须通过有组织的技术教育、科研与长期产业政策拓展知识优势，奠定[[National Innovation System|国家创新系统]]的知性根源。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, p. 22)]]
 > - **二战后奠基（1950s–1970s） — 知识工作者与后工业理论** Drucker（1959/1969）提出“知识工作者”；Bell（1973）阐述[[Theoretical Knowledge\|理论知识]]在后工业主义中的核心地位；人造卫星危机（1957）促使 [[OECD]] 将 [[STEM Education\|STEM]] 教育与国家地缘经济[[Competitiveness|竞争力]]深度绑定。[[Argument_Amos_2022_Springer\|(Amos, 2022, p. 56)]]
-> - **经济学理论化（1980s–1990s） — 内生增长与新自由主义全球化** Romer（1986）内生增长理论将知识与[[Human Capital Theory\|人力资本]]确立为不受边际收益递减限制的内生动力；世界银行（1991）与 OECD（1996）正式将 KBE 话语确立为全球教育与经济政策主导典范。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, p. 23)]]
+> - **经济学理论化（1980s–1990s） — 内生增长与新自由主义全球化** Romer（1986）内生增长理论将知识与[[Human Capital Theory\|人力资本]]确立为不受边际收益递减限制的内生动力；世界银行（1991）与 OECD（1996）正式将 KBE [[Discourse|话语]]确立为全球教育与经济政策主导典范。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, p. 23)]]
 > - **全球扩散与空间运作（2000s–2010s） — 教育出口与枢纽建设** 亚洲国家与澳大利亚将 KBE 转化为教育出口战略；新加坡与迪拜通过“教育枢纽”政策将大学完全产业化为经济增长极。[[Argument_Rizvi_2022_Springer\|(Rizvi, 2022)]]; [[Argument_Erfurth_2022_education-hubs\|(Erfurth, 2022)]]
 > - **智能时代评价重构（2020s至今） — 聚焦高阶认知素养与评价治理** 面对生成式 AI 与劳动力深度重组，OECD 等国际组织反思“教育扩张”数量指标，转向推动以[[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]与真实表现任务为核心的高教评价与治理变革。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023)]]
 
@@ -209,7 +210,7 @@ updated: 2026-10-07
 
 > [!debates] 学术争议焦点
 >
-> > [!axis] 知识经济话语的批判轴线
+> > [!axis] 知识经济[[Discourse|话语]]的批判轴线
 > > - **[[Spatial Sortings\|空间分化]]与不平等极化（Spatial Polarization）** [[Progressive Neoliberalism\|进步新自由主义]]的 KBE 极度偏向少数跨国大都市[[Innovation Hub\|创新枢纽]]，导致非枢纽中小城镇与农村地区经历不可逆的经济衰退与人才失血。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, pp. 30–32)]]
 > > - **以市场扩张替代民主制度建设（Institutional Substitution）** 教育枢纽研究揭示，威权政权常将“投资 KBE 基础设施与分校园区”作为合法性幌子，以此规避实质性的政治民主与公民社会制度建设。[[Argument_Erfurth_2022_education-hubs\|(Erfurth, 2022, pp. 200, 211)]]
 > > - **教育[[Public Value|公共价值]]与人文关怀的工具化矮化（Instrumentalization）** 将高等教育窄化为单纯的[[Human Capital Theory\|人力资本]]投资与劳动力再生产机器，剥离了教育在社会公平、审美情趣与民主公民素养培育上的崇高本质。
@@ -231,7 +232,7 @@ updated: 2026-10-07
 > [!evidence-grid-a] 相关[[Document\|文献]]索引
 > - [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] — [[OECD]] 国际报告，系统论证知识经济与技术自动化背景下，高等教育如何通过五大政策杠杆重构[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]的评价生态。
 > - [[Argument_Moisio_2022_Springer\|Moisio (2022)]] — 系统阐述知识经济与[[Knowledge-Based Economization\|知识经济化]]的理论演进、[[Cultural Political Economy\|文化政治经济学]]框架及[[Spatial Sortings\|空间分化]]效应。
-> - [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] — 剖析知识经济话语如何重塑亚洲高等教育扩张与澳大利亚国家教育出口战略。
+> - [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] — 剖析知识经济[[Discourse|话语]]如何重塑亚洲高等教育扩张与澳大利亚国家教育出口战略。
 > - [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] — 揭示后福特永久创新经济如何驱动[[Further Education\|继续教育]]与企业培训的结构性膨胀。
 > - [[Argument_Erfurth_2022_education-hubs\|Erfurth (2022)]] — 比较新加坡与[[UAE Education Hub Projects\|阿联酋教育枢纽]]，批判 KBE 话语掩盖制度建设不足的深层缺陷。
 > - [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]] — 揭示 21 世纪技能话语作为 KBE 在个体主体性层面的微观[[Operationalization\|操作化]]与[[Self-Entrepreneur\|自我企业家]][[Disciplina and Doctrina\|规训]]。

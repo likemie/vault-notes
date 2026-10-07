@@ -8,10 +8,10 @@ summary: "美国哲学家，田纳西大学诺克斯维尔分校荣休教授，�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "c. 1945"
 died: ""
 lifespan: "c. 1945–至今"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Enlightenment]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Ontology]]"
   - "[[Reliability]]"
   - "[[Big Science]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # John Hardwig
@@ -105,7 +106,7 @@ updated: 2026-10-03
 > [!influence-path] 影响路径
 > - **理论路径** 作为社会[[Epistemology\|认识论]]（Social Epistemology）的开创者之一，其观点直接促发了[[Alvin Goldman\|阿尔文·戈德曼]]（Alvin Goldman）等分析认识论学者关于非专家如何评估专家证言、信誉与学术分歧机制的系统探索。
 > - **学习科学与教育认识论路径** 纠正了[[Radical Constructivism\|激进建构主义]]盲目贬抑学术权威与显性教学的倾向，为理解学习者如何在专家支架与共同体证言引导下逐步走向成熟认识提供了认识论辩护。
-> - **人工智能认识论路径** 在生成式大模型成为日常[[Knowledge Production\|知识生产]]中介的背景下，[[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 等学者直接将哈德威格的[[Epistemic Dependence\|认识依赖]]框架引入人机协同研究，论证学生对外部工具的借助具备社会[[Ontology\|本体论]]必然性，核心课题在于区分合理的理性依赖与丧失评价能力的盲目顺从。
+> - **人工智能认识论路径** 在生成式大模型成为日常[[Knowledge Production\|知识生产]]中介的背景下，[[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 等学者直接将哈德威格的[[Epistemic Dependence\|认识依赖]]框架引入[[Man-Computer Symbiosis|人机协同]]研究，论证学生对外部工具的借助具备社会[[Ontology\|本体论]]必然性，核心课题在于区分合理的理性依赖与丧失评价能力的盲目顺从。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 将哈德威格的认识依赖理论确立为人机中介学习的哲学源流，论证现代人类知识生产历来深嵌于外部工具与专家网络之中，并以此破除脱离技术的虚假纯洁性幻想。
@@ -117,7 +118,7 @@ updated: 2026-10-03
 > [!person-network] 关系网络
 > - **思想发展与共鸣者** [[Alvin Goldman\|阿尔文·戈德曼]]（Alvin Goldman） — 戈德曼在承认哈德威格“现代人必然[[Epistemic Dependence\|认识依赖]]”的前提下，进一步系统构建了外行在专家产生分歧时评估专家[[Reliability\|可靠性]]的五条理性准则。
 > - **哲学批判靶子** 勒内·[[René Descartes\|笛卡尔]]（René Descartes）与伊曼纽尔·[[Immanuel Kant\|康德]]（Immanuel Kant） — 启蒙[[Epistemology\|认识论]]追求个体理智的绝对自足，哈德威格以[[Big Science|大科学]]时代的实验事实证明了个体自足神话的不可能性。
-> - **当代教育中介应用者** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 借用其理论作为人机共生学习中界定认识责任与教学法改革的哲学起点。
+> - **当代教育中介应用者** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 借用其理论作为[[Man-Computer Symbiosis|人机共生]]学习中界定认识责任与教学法改革的哲学起点。
 
 ---
 

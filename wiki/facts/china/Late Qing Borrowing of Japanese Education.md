@@ -9,7 +9,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -21,6 +21,7 @@ tags:
 - education-reform
 - late-qing
 related_concepts:
+  - "[[Discourse]]"
   - "[[Normal School]]"
   - "[[Cross-National Attraction]]"
   - "[[Pre-Transfer Agency]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-05-28'
+updated: 2026-10-07
 ---
 
 ## 背景
@@ -61,7 +62,7 @@ updated: '2026-05-28'
 >
 > 康有为、梁启超推动的"百日维新"试图全面效法日本明治维新，包括废除[[Civil Service Examination\|科举]]、建立新式学堂体系。变法被慈禧太后发动政变终结，但"日本作为模型"的思路并未消失——保守派同样在其自身的框架内接受了日本参照。
 >
-> ### 1900–1905：制度借用加速——从话语到政策
+> ### 1900–1905：制度借用加速——从[[Discourse|话语]]到政策
 >
 > 庚子事变（1900 年）后的危机进一步加速了改革进程。这一时期的核心政策动作包括：
 >

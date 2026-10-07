@@ -42,6 +42,7 @@ related_concepts:
   - "[[Scientific Uncertainty]]"
   - "[[Scaffolding]]"
   - "[[Policy Ambiguity]]"
+  - "[[Discourse]]"
   - "[[Democratisation of Expertise]]"
   - "[[Technologies of Exclusion]]"
   - "[[Champ]]"
@@ -147,7 +148,7 @@ title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 108
+argument_related_count: 109
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -248,7 +249,7 @@ issuing_organization: ""
 教育领域的公共决策面临三重相互交织的制度生态约束，使得纯粹的学术研究成果无法顺畅转化为具体的政策行动。（pp.538–540）
 
 > [!quad-grid] 教育政策环境的三重生态特质与数字[[Scaffolding\|脚手架]]
-> - **政策情境的歧义性（[[Policy Ambiguity]]）** 援引[[Multiple Streams Framework\|多源流分析框架]]（Multiple Streams Framework，MSF）关于决策歧义性的理论界定（Zahariadis, 2017），面对同一教育现象往往存在多种互不兼容的理解视角（[[Policy Ambiguity\|政策歧义性]]）；在此情境下，更多知识不但无法消除分歧，反而加剧了解释冲突，迫使中介机构通过裁量与筛选建立确定性话语。（pp.538–539）
+> - **政策情境的歧义性（[[Policy Ambiguity]]）** 援引[[Multiple Streams Framework\|多源流分析框架]]（Multiple Streams Framework，MSF）关于决策歧义性的理论界定（Zahariadis, 2017），面对同一教育现象往往存在多种互不兼容的理解视角（[[Policy Ambiguity\|政策歧义性]]）；在此情境下，更多知识不但无法消除分歧，反而加剧了解释冲突，迫使中介机构通过裁量与筛选建立确定性[[Discourse|话语]]。（pp.538–539）
 > - **[[Democratisation of Expertise\|专业知识民主化]]带来的公共争议与[[Technologies of Exclusion\|排除性技术]]（Technologies of Exclusion）** 教育领域呈现广泛的[[Democratisation of Expertise\|专业知识民主化]]（Democratisation of Expertise）特征，缺乏医学等行业的天赋技术排他壁垒，公众与从业者皆自视为教育行家，致使教育研究天然成为意识形态争夺的[[Champ\|场域]]；面对这一公众质疑压力，国际组织与政策中介通过推行[[Randomised Controlled Trials\|随机对照试验]]（RCTs）或复杂的跨国心理测量模型等[[Technologies of Exclusion\|排除性技术]]（Technologies of Exclusion），构筑起唯有专家方能解读的统计壁垒，以维护其科学垄断特权。（p.539）
 > - **未来结果不可验证导致的技术赤字与[[Promissory Legitimacy\|期许性合法性]]** 教育面临固有的技术赤字（[[Technology Deficit of Education]]），由于育人成效应面向不可预测的未来，其因果链条无法在当下获得经验检验；决策者由此产生深刻的未来风险焦虑，促使国际组织通过建构[[Promissory Legitimacy\|期许性合法性]]（Promissory Legitimacy），将未来预设为可以通过当下干预来规避的行动方案（Robertson & Beech, 2023; pp. 539–540）。
 > - **数字作为[[Façade of Rationality\|理性表象]]的脚手架（Numbers as Scaffolding for [[Façade of Rationality]]）** 援引[[Wendy Espeland\|温迪·埃斯佩兰德]]（Wendy Espeland，2015）与门尼肯（Andrea Mennicken，2019）对量化社会学的理论分析，相比质性叙事，量化指标具备理性、精确与普适的话语表象（Façade of Rationality）；政策制定者热衷于数字，是因为数字指标“激发了叙事”，不仅看似客观，更为其依循自身政治意图讲述“指标意味着什么的故事”预留了充分空间。（Espeland, 2015, p. 65; pp. 539–540）

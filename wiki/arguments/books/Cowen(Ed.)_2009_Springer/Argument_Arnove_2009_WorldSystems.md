@@ -7,7 +7,7 @@ title: "Argument_Arnove_2009_WorldSystems"
 argument_key: "Argument_Arnove_2009_WorldSystems"
 argument_display_title: "World-systems Analysis and Comparative Education in the Age of Globalization"
 argument_kind: "book-chapter"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[New Managerialism]]"
   - "[[Virtual University]]"
+  - "[[Discourse]]"
   - "[[Educational Multilateralism]]"
   - "[[Lifelong Learning]]"
   - "[[Structural Adjustment Programs]]"
@@ -230,7 +231,7 @@ updated: 2026-09-29
 > - **基础教育政策组合** 在中小学推行管理权力下放、学校私有化、教育券与[[School Choice\|择校]]计划，并设立统一的[[Academic Achievement\|学业成就]]标准与基于标准化测验的严格绩效问责制度，使国家退缩为制定指标与评估结果的审计者。
 > - **高等教育管理转型** 引入[[New Managerialism|新管理主义]]（New Managerialism），将市场的语言与运行逻辑直接套用于大学管理，将院系科研与教学改造成追求经济效益与市场排名的经营单位，并催生出依托跨国特许经营协议的[[Virtual University|虚拟大学]]。（pp.107, 112）
 
-新自由主义理念并非自发扩散，而是由占据优势地位的国际组织通过特定的话语体系（如[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数）制度化地强加给受援国（Carnoy & Rhoten, 2002; Heyneman, 2003）。
+新自由主义理念并非自发扩散，而是由占据优势地位的国际组织通过特定的[[Discourse|话语]]体系（如[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数）制度化地强加给受援国（Carnoy & Rhoten, 2002; Heyneman, 2003）。
 
 > [!tension-table] [[Educational Multilateralism|国际教育多边主义]]的三阶段演化（Mundy, 1998, 1999; p.110）
 > | 历史阶段 | 多边合作的核心特征与理念导向 | 主导性国际机构与治理后果 |

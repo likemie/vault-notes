@@ -8,7 +8,7 @@ aliases:
 summary: "一种将学习和认知视为特定社会、文化与物理环境中持续进行的参与实践（participation in social practices），而非个体头脑内部脱域知识存储的理论范式。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Cognitive Apprenticeship]]"
   - "[[Anchored Instruction]]"
   - "[[Epistemic Cognition]]"
+  - "[[Discourse]]"
   - "[[Research Universities]]"
   - "[[Epistemic Climate]]"
   - "[[Evidence Standards]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-19
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Situative Perspective
@@ -85,7 +86,7 @@ updated: 2026-10-05
 
 > [!dev-timeline] 理论演进与应用拓展
 > - **1990s — 情境认知革命与分布式认知交融** Greeno、Collins 等学习科学家将情境观引入教育设计，推动[[Cognitive Apprenticeship|认知学徒制]]（Cognitive Apprenticeship）与[[Anchored Instruction|锚定教学]]（Anchored Instruction）兴起。
-> - **2010s — [[Epistemic Cognition|认识论认知]]的情境转向** Sandoval 等学者指出，认识论认知（Epistemic Cognition）并非抽象信念，而是特定共同体在话语互动中动态协商“什么样的证据才算数”的社会实践。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
+> - **2010s — [[Epistemic Cognition|认识论认知]]的情境转向** Sandoval 等学者指出，认识论认知（Epistemic Cognition）并非抽象信念，而是特定共同体在[[Discourse|话语]]互动中动态协商“什么样的证据才算数”的社会实践。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
 > - **2020s — 高等教育国家战略科研团队孵化** [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] 将情境主义理论引入高水平[[Research Universities|研究型大学]]应对《[[CHIPS and Science Act|芯片与科学法案]]》的学者专业发展中，解释传统工程教师如何通过结构化小组研讨以合法边缘性参与形式进入半导体前沿网络，在面对面交互中建立学术互信并形成持久的跨学科实践共同体。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–3, 6)]]
 
 ---
@@ -107,7 +108,7 @@ updated: 2026-10-05
 ## 核心命题
 
 > [!theory-proposition] 命题一｜认知不可剥离于其发生的物理与社会文化情境
-> **解释** 个体的思维方式是被其所处的物质中介（如实验仪器、数字仿真）、文化符号（如专业话语）和互动结构（如研讨规则）深刻塑造的。脱离具体任务目标与共同体交往网络的标准化纸笔测量，无法反映主体在真实生态中的能力。学习的核心不是“获取静态知识”，而是“改变参与社会实践的方式”。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
+> **解释** 个体的思维方式是被其所处的物质中介（如实验仪器、数字仿真）、文化符号（如专业[[Discourse|话语]]）和互动结构（如研讨规则）深刻塑造的。脱离具体任务目标与共同体交往网络的标准化纸笔测量，无法反映主体在真实生态中的能力。学习的核心不是“获取静态知识”，而是“改变参与社会实践的方式”。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]
 >
 > **应用实例** 在高校半导体跨学科工作坊中，若脱离国家法案与产业真实痛点进行纯理论讲授，教师参与度极低；将学者置于“应对 140 万人才短缺与百亿美元产业投资”的真实战略情境中，依托分组圆桌与产业对话，跨学科研讨与学术动员才真正被激活。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–5)]]
 
@@ -133,7 +134,7 @@ updated: 2026-10-05
 ## 局限性与适用边界
 
 > [!theory-boundary] 局限性与适用边界
-> - **适合分析** 真实工作场所学习、跨学科团队协作、学术共同体演进、课堂小组话语互动及[[Apprenticeship|学徒制]]培养。
+> - **适合分析** 真实工作场所学习、跨学科团队协作、学术共同体演进、课堂小组[[Discourse|话语]]互动及[[Apprenticeship|学徒制]]培养。
 > - **成立条件** 必须具备真实的[[Communities of Practice|实践共同体]]土壤、充裕的面对面深度交互时间，以及容纳边缘参与者的包容性组织制度。
 > - **解释不足** 对个体大脑内部短时间内高度自动化的符号逻辑推导、孤立记忆提取等纯认知加工过程解释力较弱。
 > - **不能直接推出** 不能单纯依赖外部言语互动直接推断个体内心真实的认知信念；学生或学者有时可能为了顺应现场社交规则而产生合规言论（推论危机）。

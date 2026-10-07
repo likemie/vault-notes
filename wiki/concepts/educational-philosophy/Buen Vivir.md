@@ -6,7 +6,7 @@ aliases:
 summary: "安第斯原住民传统中的好好生活概念，强调与自然、共同体和日常再生产保持和谐，而不是把更多消费视为更好生活"
 type: concept
 domain: "educational-philosophy"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Ubuntu]]"
   - "[[Posthumanism]]"
+  - "[[Discourse]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -29,7 +30,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-08'
-updated: '2026-05-18'
+updated: 2026-10-07
 ---
 
 ## 定义
@@ -45,7 +46,7 @@ updated: '2026-05-18'
 ## 概念辨析
 
 > [!example] 概念辨析
-> - vs Desarrollo（发展） — "发展"话语以 GDP 增长、工业化和城市化为进步指标；Buen Vivir 质疑"发展"本身是否等同于"好生活"，强调前者可能以破坏生态系统和共同体纽带为代价
+> - vs Desarrollo（发展） — "发展"[[Discourse|话语]]以 GDP 增长、工业化和城市化为进步指标；Buen Vivir 质疑"发展"本身是否等同于"好生活"，强调前者可能以破坏生态系统和共同体纽带为代价
 > - vs [[Ubuntu]] — 两者都拒绝个体主义，但侧重不同：Buen Vivir 更强调人与自然系统的和谐（生态维度），Ubuntu 更强调人际互依性（社会关系维度）。Amos 认为 Buen Vivir 与[[Posthumanism\|后人类主义]]的共鸣可能更直接([[Argument_Amos_2022_Springer\|Amos, 2022, p.64]])
 > - vs [[Posthumanism]] — Buen Vivir 是后人类主义在非西方文化传统中的"家族性"表达：将人类放回生态系统之中，承认多元世界的共存
 >

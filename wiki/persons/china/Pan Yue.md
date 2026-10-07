@@ -7,7 +7,7 @@ summary: "中国统战官员与历史学者，现任国家民委主任，因提�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Sinicisation]]"
+  - "[[Discourse]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-09-11
+updated: 2026-10-07
 ---
 
 # Pan Yue
@@ -71,7 +72,7 @@ updated: 2026-09-11
 > [!timeline] 生平与职涯
 > - **1960** 出生。
 > - **2003–2015** 任国家环境保护总局（后升格为环境保护部）副局长、副部长，期间因掀起“区域限批”等“环保风暴”而广受公共舆论关注。
-> - **2020** 出任国务院侨务办公室主任。期间发表多篇关于中西文明对比及大一统历史演进的学术长文，确立了其在官方统战理论界的话语主导地位。
+> - **2020** 出任国务院侨务办公室主任。期间发表多篇关于中西文明对比及大一统历史演进的学术长文，确立了其在官方统战理论界的[[Discourse|话语]]主导地位。
 > - **2022** 出任中央统战部副部长、国家民委主任、党组书记。打破了该职位长期由少数民族干部出任的政治惯例，标志着国家民族工作全面转入强力融合的新阶段。
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-09-11
 > 
 > > [!axis] 五胡历史是自愿融合还是帝国暴力
 > > - **潘岳 (Pan Yue) (2020)** 认为少数民族在进入中原后自愿放弃原有风俗是其对先进文明的体认与“自愿自我牺牲”。
-> > - **乌拉迪恩·布拉格 (Uradyn E. Bulag) (2024)** 驳斥称这套话语通过将侵略美化为“仰慕”，抹杀了同化中的惨烈对抗与国家暴力，在逻辑上与日本大东亚战争时期“大东亚共荣圈”的殖民合理化说辞无异。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 105]])
+> > - **乌拉迪恩·布拉格 (Uradyn E. Bulag) (2024)** 驳斥称这套[[Discourse|话语]]通过将侵略美化为“仰慕”，抹杀了同化中的惨烈对抗与国家暴力，在逻辑上与日本大东亚战争时期“大东亚共荣圈”的殖民合理化说辞无异。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 105]])
 > 
 > > [!critique]- 批评索引
 > > - [[Argument_Bulag_2024_CE\|Bulag, 2024]] — 指出潘岳的统战修辞将历史转化为现实的统治工具，实质上剥夺了少数民族的反殖民自决话语权。

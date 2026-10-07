@@ -10,7 +10,7 @@ subtype: program
 region: "germany"
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Attrition]]"
   - "[[Rescaling]]"
+  - "[[Discourse]]"
 related_theories: []
 related_methods:
   - "[[Cohort Study]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # National Educational Panel Study
@@ -160,7 +161,7 @@ updated: 2026-09-29
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Data Infrastructure]] | Concept | NEPS 构成了德国教育实证研究最核心的纵向国家数据基础设施。 |
-> | [[Rescaling]] | Concept | 联邦政府通过资助跨州纵向基建实现跨尺度政策触达与话语塑造。 |
+> | [[Rescaling]] | Concept | 联邦政府通过资助跨州纵向基建实现跨尺度政策触达与[[Discourse\|话语]]塑造。 |
 > | [[Federal Ministry of Education and Research]] | Fact | 发起、初期全额资助并推动其转为永久国家基建的联邦主管机构。 |
 > | [[Leibniz Institute for Educational Research and Educational Information]] | Fact | NEPS 联合研究网络的创始核心成员之一及数据共享协作伙伴。 |
 > | [[Gesamtstrategie zum Bildungsmonitoring]] | Fact | 德国国家教育监测战略框架下纵向实证研究的重要支撑支柱。 |

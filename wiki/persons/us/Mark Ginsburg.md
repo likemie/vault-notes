@@ -9,7 +9,7 @@ summary: "美国著名批判比较教育学家，《比较教育评论》（CER�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Critical Pedagogy]]"
   - "[[Cognitive Deskilling]]"
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Politicity of Education]]"
 related_theories:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Mark Ginsburg
@@ -99,7 +100,7 @@ updated: 2026-10-05
 ## 核心思想
 
 > [!claim] 核心主张
-> 教育改革从来不仅是提高学校效率的教育学内部调整，而是一场由全球与国内经济结构约束、统治阶级合法化意识形态与国家相对自主性三者互动决定的政治经济博弈；特别是在经历剧烈社会转型的欠发达国家中，国家往往借由改革话语和改良承诺来掩盖深刻的阶级断层，教育系统实质上充当了国家协调外部资本积累压力与内部统治合法性危机的核心竞技场。
+> 教育改革从来不仅是提高学校效率的教育学内部调整，而是一场由全球与国内经济结构约束、统治阶级合法化意识形态与国家相对自主性三者互动决定的政治经济博弈；特别是在经历剧烈社会转型的欠发达国家中，国家往往借由改革[[Discourse|话语]]和改良承诺来掩盖深刻的阶级断层，教育系统实质上充当了国家协调外部资本积累压力与内部统治合法性危机的核心竞技场。
 
 > [!citation-card] 全球语境下教育改革的三维政治经济学视角
 > 无论是在核心国家还是外围社会，理解教育改革的实质，都必须将其置于全球经济变迁、主流意识形态竞争以及民族国家权力运作的交叉点上。改革方案的提出和受挫，反映的不是单纯的技术逻辑，而是社会各阶级力量对比的动态妥协。

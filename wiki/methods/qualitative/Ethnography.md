@@ -10,7 +10,7 @@ summary: "源自人类学与社会学的质性研究设计，要求研究者在�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 62
+method_related_count: 63
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Gatekeepers]]"
   - "[[Emic and Etic]]"
+  - "[[Discourse]]"
   - "[[Artefact]]"
   - "[[Hypothesis]]"
   - "[[Emergence]]"
@@ -89,7 +90,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-30
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Ethnography
@@ -148,7 +149,7 @@ updated: 2026-10-05
 
 > [!feature] 民族志的六项产出面向与七个观察维度
 > - **六项产出面向（Hitchcock & Hughes, 1989）** 描述性文化知识、情境化活动叙事、成员身份界定标准、社会互动规则模式、第一人称内部人记述、可迁移的理论解释模型。
-> - **七个关键观察维度（Lofland, 1971; Baker, 1994）** 空间环境、人与关系网络、外显活动与仪式实践、言语话语行为、主观态度与情感立场、生活史与集体记忆、[[Artefact|物质文化]]与工具人工物。
+> - **七个关键观察维度（Lofland, 1971; Baker, 1994）** 空间环境、人与关系网络、外显活动与仪式实践、言语[[Discourse|话语]]行为、主观态度与情感立场、生活史与集体记忆、[[Artefact|物质文化]]与工具人工物。
 
 > [!feature] 有效民族志的11条操作性标准（Spindler & Spindler, 1992）
 > 1. 观察在即时情境与宏观语境中均具相关性；
@@ -230,7 +231,7 @@ updated: 2026-10-05
 > [!contrast-table] 民族志与相关质性设计辨析
 > | 维度 | 民族志（Ethnography） | [[Case Study\|案例研究]]（Case Study） | [[Grounded Theory\|扎根理论]]（Grounded Theory） |
 > |:-----|:----------------------|:----------------------|:---------------------------|
-> | **研究焦点** | 文化共享群体的整体价值、行为与话语模式。 | 具有明确时空边界的特定个案（事件、项目或机构）。 | 聚焦某一核心社会过程，提炼中层理论模型。 |
+> | **研究焦点** | 文化共享群体的整体价值、行为与[[Discourse\|话语]]模式。 | 具有明确时空边界的特定个案（事件、项目或机构）。 | 聚焦某一核心社会过程，提炼中层理论模型。 |
 > | **田野驻留** | 必须长期沉浸驻留于自然生活情境。 | 视个案需要而定，可以长期亦可短期多次收集。 | 以[[Saturation\|理论饱和]]为终止准则，不强调单一现场长期生活。 |
 > | **核心证据** | 主位视角的[[Rich and Thick Description\|厚描述]]、生活史与仪式实践。 | 多源证据围绕个案议题的[[Triangulation\|三角互证]]。 | 严格按三级[[Coding in Qualitative Research\|编码]]体系从文本中提炼的概念关系图。 |
 

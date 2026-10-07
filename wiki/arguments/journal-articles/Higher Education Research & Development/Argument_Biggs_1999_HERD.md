@@ -28,6 +28,7 @@ related_concepts:
   - "[[Criterion-Referenced Test]]"
   - "[[Praxis]]"
   - "[[Conatus]]"
+  - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Paradigm]]"
   - "[[Educative Conceptual Change]]"
@@ -63,7 +64,7 @@ title: "Argument_Biggs_1999_HERD"
 argument_key: "Argument_Biggs_1999_HERD"
 argument_display_title: "What the student does: Teaching for enhanced learning"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -149,7 +150,7 @@ issuing_organization: ""
 > |------|-------|--------|
 > | **学习动机与目标** | 对专业有兴趣，有明确的学术与职业计划，希望真正学好 | 主要想取得就业资格，所学专业并非首选，只愿付出足以通过课程的[[Conatus\|努力]] |
 > | **讲座前的准备** | 有相关先备知识，并带着希望得到回答的问题 | 相关背景知识较少，也没有需要回答的问题 |
-> | **如何处理教师的话语** | 把新信息当作知识结构中的“拱心石”，用来连接已有认识 | 把新信息当作需要记录的另一块“砖”，逐条记进笔记 |
+> | **如何处理教师的[[Discourse\|话语]]** | 把新信息当作知识结构中的“拱心石”，用来连接已有认识 | 把新信息当作需要记录的另一块“砖”，逐条记进笔记 |
 > | **典型活动** | 关联、应用、反思、解释，必要时理论化 | 记笔记、识别线索、记忆并在考试中按提示再现 |
 > | **学习结果** | 反思所学内容对自己的意义，主动形成整体理解 | 以避免考试失败为目标，只记住彼此割裂的信息 |
 > | **当前学习方式** | 采用[[Surface and Deep Learning\|深层学习]]方式，但这不是固定的人格属性 | 采用表层学习方式，但这不是固定的人格属性 |

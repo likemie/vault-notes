@@ -8,7 +8,7 @@ aliases:
 summary: "家长为子女选择就读学校的实践与政策逻辑，受家庭经济、社会与文化资本的系统筛选；在不同体制下分化为以新自由主义竞争为导向的市场化择校与以行政分流为导向的城镇化择校；多层实证数据显示学校间方差仅占 5–10%，择校难以替代微观教师教学质量。"
 type: concept
 domain: "sociology-of-education"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,6 +19,7 @@ tags:
   - policy/neoliberalism
 related_concepts:
   - "[[Habitus]]"
+  - "[[Discourse]]"
   - "[[Peidu]]"
   - "[[Cultural Capital]]"
   - "[[Champ]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # School Choice
@@ -71,7 +72,7 @@ updated: 2026-10-02
 > - **用途** 帮助研究者透视国家新自由主义市场政策或人口城镇化导流战略如何与家庭能动性发生互动，以及资源分配的马太效应。
 > - **边界** 解释义务教育和高中阶段的选择性入学行为，不涉及不具备选择权利的强制性分配和纯粹学术选拔。
 
-> [!citation-card] 腾飞与王论择校的双向政策话语与实践形态
+> [!citation-card] 腾飞与王论择校的双向政策[[Discourse|话语]]与实践形态
 > 在多数国家的政策话语中，择校被设计为一种通过市场竞争打破公立教育垄断、提高教育质量的自上而下改革策略。然而，它也可以表现为底层家庭在教育机会空间分配不均时，自下而上主动发起的地理随迁与家庭重组行为。[[Argument_Teng_2025_CE\|Teng & Wang (2025, p. 302)]]
 > 
 > *In the policy discourses of most countries, school choice is designed as a top-down reform strategy to dismantle the state monopoly of public schooling and to improve educational quality... However, it can also manifest as an organic family practice.*
@@ -205,7 +206,7 @@ updated: 2026-10-02
 > - **阶级隔离与不平等再生产（红方）** 择校导致公立资源的阶级极化，中产家庭垄断优势资源，底层家庭面临事实上的教育剥夺。[[Argument_Teng_2025_CE\|Teng & Wang (2025, pp. 313–314)]]
 
 > [!critique] 效能盲区批评
-> - **校际与校内方差错置** 择校话语假定学校是同质且效能差异巨大的实体，但实证数据显示学校间方差仅 5–10%，校内教师间方差高达 30%。择校政策诱导家长将大量资源与焦虑投入到校际竞争中，遮蔽了课堂内部教学法与教师专业发展的决定性作用。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 13–14)]]
+> - **校际与校内方差错置** 择校[[Discourse|话语]]假定学校是同质且效能差异巨大的实体，但实证数据显示学校间方差仅 5–10%，校内教师间方差高达 30%。择校政策诱导家长将大量资源与焦虑投入到校际竞争中，遮蔽了课堂内部教学法与教师专业发展的决定性作用。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 13–14)]]
 
 > [!critique] 公共性[[Attrition|流失]]与国家责任外包批判
 > - **教育公共品的私有化异化** 批评者指出，择校政策以“赋予家长权利”为修辞，实质上是国家将自身应当承担的优质均衡教育责任转嫁给个体家庭与市场；当弱势家庭因资本匮乏无法在择校市场中竞争时，国家借助审计达标的程序中立性掩盖了结构性不平等，导致公共教育体系碎片化与民主公信力流失。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 107, 113)]]

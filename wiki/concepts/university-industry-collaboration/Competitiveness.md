@@ -11,7 +11,7 @@ aliases:
 summary: "驱动国家科技战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置。在宏观上体现为打破规制阻滞、依托共享试验场与先进制造将基础科学转化为国家产业技术与地缘科技主权；在中观上体现为以产学工程中心突破学科壁垒，以及依托排名与卓越审计将大学重塑为争夺资源与声誉的准市场主体；在微观上体现为通过学习分析与产线组织学习管理潜在努力与工程技艺以消除不确定性。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 59
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Academic Attrition]]"
   - "[[STEM Education]]"
   - "[[New Public Management]]"
+  - "[[Discourse]]"
   - "[[Determinism]]"
   - "[[University-Industry Collaboration]]"
   - "[[University-Based Research Center]]"
@@ -283,7 +284,7 @@ updated: 2026-10-07
 >
 > > [!axis] 单一论文卓越至上 vs 本土试验场与先进制造锚定
 > > 探讨国家竞争力取决于顶刊论文数量，还是取决于本土中试与实体制造能力。
-> > - **纯学术发表至上派** 认为基础科学突破是全人类财富，只要维持论文引用领先即可自然保有全球科技话语权。
+> > - **纯学术发表至上派** 认为基础科学突破是全人类财富，只要维持论文引用领先即可自然保有全球科技[[Discourse|话语]]权。
 > > - **实体制造锚定派（Kratsios 2026）** 指出仅有论文而无本土制造会导致由纳税人买单的成果被对手产业垄断；下一代设计能力与国家核心竞争力深植于制造与工艺环节。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 33–35)]]
 >
 > > [!axis] 排名指标的自我参照循环 vs 学术共同体本质异化

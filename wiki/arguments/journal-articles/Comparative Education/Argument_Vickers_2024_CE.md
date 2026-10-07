@@ -9,7 +9,7 @@ title: "Argument_Vickers_2024_CE"
 argument_key: "Argument_Vickers_2024_CE"
 argument_display_title: "The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
   - policy/national-security-law
 related_concepts:
   - "[[General Education]]"
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Psychologisation]]"
   - "[[One Country, Two Systems]]"
@@ -75,7 +76,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 2020年香港特别行政区维护国家安全法（[[National Security Law]]）实施后，国民教育的推行力度和紧迫性空前提高。2022年，[[Citizenship and Social Development\|公民与社会发展科]]（Citizenship and Social Development）正式取代[[General Education\|通识教育]]科（[[Liberal Studies\|Liberal Studies]]）。这一课程替代仅是对官方身份认同话语的强化，还是标志着教育目标从培养具备批判思考的公民转向灌输单一中国国族身份的质的变化（qualitative change）？（p.138）
+> 2020年香港特别行政区维护国家安全法（[[National Security Law]]）实施后，国民教育的推行力度和紧迫性空前提高。2022年，[[Citizenship and Social Development\|公民与社会发展科]]（Citizenship and Social Development）正式取代[[General Education\|通识教育]]科（[[Liberal Studies\|Liberal Studies]]）。这一课程替代仅是对官方身份认同[[Discourse|话语]]的强化，还是标志着教育目标从培养具备批判思考的公民转向灌输单一中国国族身份的质的变化（qualitative change）？（p.138）
 
 > [!claim] 核心主张
 > 通识教育科向公民与社会发展科的转变并非课程微调，而是一场深刻的[[Paradigm\|范式转换]]（paradigm shift）。学校教育的使命已从培养能在多元社会中行使判断力的自主公民，彻底转变为灌输与中央意志高度统一、抹除能动性的爱国臣民（p.154）。这一灌输体系与制度层面的压制以及课外的[[Psychologisation\|心理化]]（psychologisation）治理机制协同运作，共同消解了集体政治能动性（pp.153–154）。
@@ -94,7 +95,7 @@ citation_aliases:
 > |---|---|
 > | **文化-种族国族主义（culturalist-racialist nationalism）** | 官方在习近平时代将统治合法性基础全面转向以中华优秀传统文化为核心的本质主义国族观，强调以汉族为中心的血缘与文化认同的绝对绑定（pp.138–139）。 |
 > | **[[Schmittian Sovereignty\|施密特（Carl Schmitt）式主权理论]]** | 主权者的本质在于决定例外状态（state of exception），而非制定规则。这一逻辑被[[Jiang Shigong\|强世功]]应用于香港，认为中央对香港主权在于定义法律的权力本身。国家安全法即是例外状态的制度化，将香港宪制从法治转变为以法而治（pp.139, 155）。 |
-> | **[[Culturalisation of Politics\|政治的文化化（culturalisation of politics）]]** | 当政权无法或不愿直接以赤裸的政治意识形态论证合法性时，转而使用文化、传统和身份话语来包装政治控制，将政治归属转化为文化责任（p.154）。 |
+> | **[[Culturalisation of Politics\|政治的文化化（culturalisation of politics）]]** | 当政权无法或不愿直接以赤裸的政治意识形态论证合法性时，转而使用文化、传统和身份[[Discourse\|话语]]来包装政治控制，将政治归属转化为文化责任（p.154）。 |
 > | **[[Psychologisation\|青年问题的心理化（psychologisation）]]** | 当社会不满无法通过政治途径解决时，官方推行积极思维和感恩教育话语，将结构性的政治与社会矛盾转化为个体的心理适应问题，从而消解集体行动的合法性（pp.153–154）。 |
 > | **[[Decolonial Paradox\|去殖民思维的悖论]]（decolonial thinking paradox）** | 仅凭制度的殖民起源便否定其正当性，实际上是以反殖民名义剥夺了本土人（native agency）的自主选择权，沦为新型威权主义的共犯（pp.154–155）。 |
 
@@ -194,7 +195,7 @@ citation_aliases:
 > ### **维度四 公民权利、法治与国家安全的位阶（Civil Rights, Law, and National Security）**
 > * **变迁轨迹** 从通识教育科时代的抗议与权利的合法行使以及法治张力辩论，转向公民与社会发展科时代的国家安全高于一切权利的安全本位灌输，删去所有集体行动和抗议的讨论，强调权利的非绝对性和总体国家安全的无限延伸（pp.152–153）。
 > * **通识教育科的权利本位与社会抗争的合法化** 原教科书将法治的精神直接与公民权、社会参与挂钩，并在遇到冲突时引导学生多角度讨论。例如，教材以两整页的篇幅探讨2014年占领中环运动的利弊，客观呈现不同利益相关者（stakeholders）的辩论。同时，教材将参与七一游行以及维多利亚公园的六四烛光晚会列为合法的集体行动（collective action）案例，以此说明香港居民行使表达自由、集会自由的合法路径。
-> * **公民与社会发展科的安全至上与服从政治** 新教科书将上述抗争案例彻底删除。结构框架被重组为：先讲授维护国家安全的极端必要性，后探讨特区居民的基本权利。在教材的持份者论坛中，关于国家安全法如何促进香港长期繁荣的讨论，发言者清一色被替换为建制派人士的赞颂话语。国家安全的定义被无限拉伸，涵盖了经济、文化、生态、科技、太空、深海及极地等16个总体安全领域，为任何层面的国家干预提供了无限延伸的红线依据。在最后简要提及表达和结社自由时，教材使用黑体字特别警告：“这些权利并非绝对的，必须受到法律的限制”。此外，教材专门辟出章节，为公务员及民选官员的宣誓效忠制度提供宪制正当性辩护，从而为排除民主派参选人提供了教材背书（p.152）。
+> * **公民与社会发展科的安全至上与服从政治** 新教科书将上述抗争案例彻底删除。结构框架被重组为：先讲授维护国家安全的极端必要性，后探讨特区居民的基本权利。在教材的持份者论坛中，关于国家安全法如何促进香港长期繁荣的讨论，发言者清一色被替换为建制派人士的赞颂[[Discourse|话语]]。国家安全的定义被无限拉伸，涵盖了经济、文化、生态、科技、太空、深海及极地等16个总体安全领域，为任何层面的国家干预提供了无限延伸的红线依据。在最后简要提及表达和结社自由时，教材使用黑体字特别警告：“这些权利并非绝对的，必须受到法律的限制”。此外，教材专门辟出章节，为公务员及民选官员的宣誓效忠制度提供宪制正当性辩护，从而为排除民主派参选人提供了教材背书（p.152）。
 
 > [!contrast-table] 四维教科书具体案例与话语转变
 > | 比较维度 <span class="scrollable-table-marker"></span> | 通识教育科（LS）教科书（2020年版）案例与叙事 | 公民与社会发展科（CSD）教科书（2022年版）案例与叙事 | 本质转变与修辞策略 |
@@ -266,7 +267,7 @@ citation_aliases:
 > *“The POST-2020 overhaul of the curriculum for [[Liberal Studies]] / CSD signals a decisive shift from an emphasis on fostering qualities … essential to the responsible exercise of participatory citizenship, towards imposition of a homogenous and totalising vision of Hong Kong-as-Chinese.”*
 
 > [!citation-card]- 青年异化的心理学消解
-> 与此同时，官方话语将青年的疏离感简化为个体心理异常的问题。随着对既定秩序的批评如今被定性为叛国并被宣布为非法，对公众不满的解释就必须在私人或个体适应不良的层面上去寻找了。（p.154）
+> 与此同时，官方[[Discourse|话语]]将青年的疏离感简化为个体心理异常的问题。随着对既定秩序的批评如今被定性为叛国并被宣布为非法，对公众不满的解释就必须在私人或个体适应不良的层面上去寻找了。（p.154）
 >
 > *“Official discourse meanwhile reduces youth alienation to a matter of individual psychological deviance. With critique of the established order now outlawed as treasonous, explanations for public discontent must be sought at the level of private or individual maladaptation.”*
 

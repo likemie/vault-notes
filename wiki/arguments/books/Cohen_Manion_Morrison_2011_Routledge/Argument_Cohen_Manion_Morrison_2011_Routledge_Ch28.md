@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28"
 argument_display_title: "Research Methods in Education · Ch28"
 argument_kind: "book-chapter"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Idiographic]]"
   - "[[Nomothetic]]"
   - "[[Causality]]"
+  - "[[Discourse]]"
   - "[[External Validity]]"
   - "[[Research Purpose]]"
   - "[[Hypothesis]]"
@@ -235,7 +236,7 @@ updated: '2026-09-08'
 
 > [!feature] 民族志描写的四个特征（Geertz, 1973, pp. 20–1）
 > - **解释性的（interpretive）** 民族志描写本身是一种解释。
-> - **解释的对象是社会话语之流** 它解释的正是社会话语的流动。
+> - **解释的对象是社会[[Discourse|话语]]之流** 它解释的正是社会话语的流动。
 > - **把所说从转瞬即逝中救出** 解释在于把社会话语的所说从其消逝的场合中救出，并固定在可再度查阅的语汇中。
 > - **显微镜式的（microscopic）** 民族志描写是显微镜式的，聚焦具体而微小的情境。
 
@@ -369,7 +370,7 @@ updated: '2026-09-08'
 ## 关键引用
 
 > [!citation-card]- Geertz 论[[Ethnography\|民族志]]学者的铭写
-> 民族志学者铭写社会话语，他把它写下来。这样一来，他就把一件只存在于其发生瞬间的转瞬事件，转化为一种存在于其铭写之中、可以被再次查阅的记述。（28.2）
+> 民族志学者铭写社会[[Discourse|话语]]，他把它写下来。这样一来，他就把一件只存在于其发生瞬间的转瞬事件，转化为一种存在于其铭写之中、可以被再次查阅的记述。（28.2）
 >
 > *The ethnographer "inscribes" social discourse; he writes it down. In so doing, he turns it from a passing event, which exists only in its own moment of occurrence, into an [[Accounts\|account]], which exists in its inscriptions and can be reconsulted. (Geertz, 1973, p. 19)*
 

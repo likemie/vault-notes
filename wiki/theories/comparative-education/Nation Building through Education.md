@@ -6,7 +6,7 @@ aliases:
 summary: "国家利用教育系统在边疆地区推行统一国族认同，Yan & Morris 将香港 LS→CSD 纳入此框架与西藏、新疆、内蒙古并置分析"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 20
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Patriotic Education]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Discourse]]"
   - "[[One Country, Two Systems]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -116,7 +117,7 @@ updated: 2026-10-07
 > - **批评立场** 强制性语言替换（普通话替代藏语、维吾尔语、蒙古语）和历史叙事替代（"[[Zhonghua Minzu\|中华民族]]"替代地方族群历史）构成联合国定义的"文化灭绝"——"强制同化"（forced assimilation）。
 > - **中国政府立场** 这是"民族团结教育"——所有族群在中国宪法下享有平等权利，"中华民族"是包容性而非排他性的身份框架。普通话教育是为了保障少数民族融入国家经济和社会发展的平等机会。
 >
-> **目前状态** 此争议在国际学术界和人权话语中持续。Leibold & Dorjee (2024) 和 Tobin (2024) 的实证研究为批评立场提供了经验支持，但在中国大陆内部这一分析被视为政治敏感。
+> **目前状态** 此争议在国际学术界和人权[[Discourse|话语]]中持续。Leibold & Dorjee (2024) 和 Tobin (2024) 的实证研究为批评立场提供了经验支持，但在中国大陆内部这一分析被视为政治敏感。
 
 
 > [!warning] 香港的特殊性：[[One Country, Two Systems\|一国两制]]下的"谨慎"同化

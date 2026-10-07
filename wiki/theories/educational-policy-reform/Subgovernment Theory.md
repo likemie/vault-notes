@@ -9,7 +9,7 @@ aliases:
 summary: "阐释政策制定由国会专门委员会、行政官僚机构与特定利益集团三方紧密结盟所垄断的政治学分析框架，揭示封闭铁三角对专业话语、科研资助与法定标准的排他性支配"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Policy Science in Comparative Education]]"
   - "[[Paradigm]]"
   - "[[Document]]"
+  - "[[Discourse]]"
   - "[[Scientific Paradigm]]"
   - "[[Epistemology]]"
   - "[[Whole Language]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-24
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # Subgovernment Theory
@@ -96,7 +97,7 @@ updated: 2026-09-26
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
 > | 铁三角（Iron Triangle） | 机制 | 由国会下属专门委员会、负责执行的行政官僚机构、受资助的研究机构及商业利益集团构成稳固的三边互惠利益链条。 |
-> | 专家话语垄断（Monopoly on Expertise） | 机制 | 次政府通过把持官方咨询渠道与国家资助平台，将自身推崇的学术[[Paradigm\|范式]]上升为唯一的科学定性，进而排斥其他学术理论。 |
+> | 专家[[Discourse\|话语]]垄断（Monopoly on Expertise） | 机制 | 次政府通过把持官方咨询渠道与国家资助平台，将自身推崇的学术[[Paradigm\|范式]]上升为唯一的科学定性，进而排斥其他学术理论。 |
 > | 封闭政策亚系统（Closed Policy Subsystem） | 概念 | 指游离于广泛公众视野之外的立法与行政细分节点，具备极高的专业技术门槛，使得普通公民和外部团体极难进入与参与。 |
 
 > [!mechanism-map]- 次政府铁三角运作与知识垄断机制图

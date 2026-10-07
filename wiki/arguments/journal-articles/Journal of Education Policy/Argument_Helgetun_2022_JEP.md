@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Research Utilization]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Discourse]]"
   - "[[Rationalized Myth]]"
   - "[[Evidence Era]]"
   - "[[New Public Management]]"
@@ -79,7 +80,7 @@ title: "Argument_Helgetun_2022_JEP"
 argument_key: "Argument_Helgetun_2022_JEP"
 argument_display_title: "From an age of measurement to an evidence era? Policy-making in teacher education in England"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -99,7 +100,7 @@ issuing_organization: ""
 > 2010 年英国保守党与自由民主党联合政府上台后，英格兰教师教育政策制定中的[[Research Utilization\|证据使用]]模式发生了何种根本性转变？不同形式的研究证据在政策过程中如何被各方行动者调动、[[Transfer Translation Transformation\|转译]]与重塑？新媒体与权力网络如何影响了政策的合法化机制？（pp. 88–89）
 
 > [!claim] 核心主张
-> 英格兰教师教育政策话语已从以审计与量化指标为中心的测量时代，演进为以证据作为主导性[[Rationalized Myth\|合理化神话]]的[[Evidence Era\|证据时代]]；然而，白皮书中激增的学术化引文与国际借用并未促成纯粹理性的科学决策，反而深嵌于[[New Public Management\|新公共管理]]（New Public Management, NPM）的适宜性逻辑中，演化为受政府把关支配的[[Policy-Based Evidence-Making\|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM）。（pp. 88, 90–94）
+> 英格兰教师教育政策[[Discourse|话语]]已从以审计与量化指标为中心的测量时代，演进为以证据作为主导性[[Rationalized Myth\|合理化神话]]的[[Evidence Era\|证据时代]]；然而，白皮书中激增的学术化引文与国际借用并未促成纯粹理性的科学决策，反而深嵌于[[New Public Management\|新公共管理]]（New Public Management, NPM）的适宜性逻辑中，演化为受政府把关支配的[[Policy-Based Evidence-Making\|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM）。（pp. 88, 90–94）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 1983 至 2019 年间英格兰教师教育领域的 46 份核心政策文本、白皮书及 20 位政策高层知情人的[[Elite Interview\|精英访谈]]。

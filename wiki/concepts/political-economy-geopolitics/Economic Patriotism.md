@@ -5,7 +5,7 @@ aliases:
 summary: "将爱国情感与特定领土利益绑定并通过政策把资源集中于关键产业、城市或机构的国家战略实践。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
+  - "[[Discourse]]"
   - "[[National Competitive Advantage]]"
   - "[[Spatial Sortings]]"
   - "[[Selectivity]]"
@@ -46,13 +47,13 @@ updated: 2026-10-07
 >
 > > "国家将资源转移到大规模投资首都城市和城市基础设施，从信息技术到研究、金融平台到交通。如果说有什么限制的话，那就是没有什么能阻止它们发展国家冠军城市或区域。"（cited in Moisio, 2022, pp.28–29）
 >
-> [[Argument_Moisio_2022_Springer\|Moisio (2022)]]将经济爱国主义定位为[[Knowledge-Based Economization\|知识经济化]]中国家的核心行为逻辑——它不是传统军事或领土爱国主义，而是一种通过"爱国"话语来合法化空间选择性投资的经济治理策略。
+> [[Argument_Moisio_2022_Springer\|Moisio (2022)]]将经济爱国主义定位为[[Knowledge-Based Economization\|知识经济化]]中国家的核心行为逻辑——它不是传统军事或领土爱国主义，而是一种通过"爱国"[[Discourse|话语]]来合法化空间选择性投资的经济治理策略。
 >
 
 ## 概念辨析
 
 > [!example] 概念辨析
-> - vs 传统爱国主义（Political Patriotism）：传统爱国主义以民族国家整体为情感对象，强调全体国民的统一利益；经济爱国主义则将爱国话语绑定到特定领土部分的经济发展上——"冠军城市"的利益被等同于国家利益([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.28–29]])
+> - vs 传统爱国主义（Political Patriotism）：传统爱国主义以民族国家整体为情感对象，强调全体国民的统一利益；经济爱国主义则将爱国[[Discourse|话语]]绑定到特定领土部分的经济发展上——"冠军城市"的利益被等同于国家利益([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.28–29]])
 > - vs [[National Competitive Advantage]]：Porter 理论为经济爱国主义提供了理论合法性——如果国家是"竞争优势的根本创造场所"，那么集中资源打造"冠军"场所就是合理的政策选择
 > - vs [[Spatial Sortings]]：经济爱国主义是驱动空间分选的机制之一——"国家在空间中越来越具有选择性"，选择性地投资某些地方而忽略其他([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.28, 30–31]])
 >
@@ -62,7 +63,7 @@ updated: 2026-10-07
 > [!abstract] 核心要素
 > - **空间选择性（Spatial [[Selectivity]]）** 国家越来越有选择性地对待其领土——"城市创新空间被视为'空间例外'，国家和地方当局希望它们成为实现经济和政治成功的领土平台"([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.28]])
 > - **基础设施投资集中化** 信息技术、研究机构、金融平台、交通网络等战略性基础设施被集中在少数大城市（Crouch & Le Galès, 2012, p.406, cited in [[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.28–29]]）
-> - **爱国话语的挪用** 爱国情感被动员来为空间极化政策提供合法性——将特定城市的繁荣呈现为"国家荣誉"和"民族利益"
+> - **爱国[[Discourse|话语]]的挪用** 爱国情感被动员来为空间极化政策提供合法性——将特定城市的繁荣呈现为"国家荣誉"和"民族利益"
 > - **全球化-领土化的张力** 经济爱国主义在接纳全球资本流动的同时，通过领土锚定策略来"固定"流动的资本——体现了 [[Fixity-Motion Tension]]([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.27–29]])
 >
 
@@ -79,7 +80,7 @@ updated: 2026-10-07
 
 > [!warning] 争议与批评
 > - 经济爱国主义以"国家利益"之名将公共资源集中于少数枢纽城市，实际上加剧了国家内部的空间不平等——Davidson & Rees-Mogg（1999）预见的"跨国认知精英"与无法适应新跨国世界的人群之间的分化([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.31–32]])
-> - "经济爱国主义"话语可能掩盖了跨国资本——而非国家——作为空间发展方向的实质决定力量
+> - "经济爱国主义"[[Discourse|话语]]可能掩盖了跨国资本——而非国家——作为空间发展方向的实质决定力量
 >
 
 ## 相关概念

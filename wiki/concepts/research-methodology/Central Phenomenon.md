@@ -9,7 +9,7 @@ aliases:
 summary: "质性研究与扎根理论中探索、理解与理论建构的统摄性轴心概念，在研究设计中界定单一研究聚焦点，在主轴与选择性编码中作为具备最大解释力的核心范畴统摄全部因果机制与故事线。"
 type: concept
 domain: "research-methodology"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Nondirectional Language]]"
   - "[[Emergence]]"
   - "[[Open-Mindedness]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Reflexivity]]"
   - "[[Research Question]]"
   - "[[Hypothesis]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-31
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Central Phenomenon
@@ -187,7 +188,7 @@ flowchart TD
 > - **1987–1990 — [[Paradigm\|范式]]模型与[[Story Line\|故事线]]规范化** 施特劳斯（Strauss, 1987）与施特劳斯与科宾（Strauss & Corbin, 1990）系统确立六要素范式模型，将核心现象正式确立为[[Axial Coding\|主轴编码]]的结构枢纽与[[Selective Coding\|选择性编码]]中故事线的核心承载者。
 > - **1994–2003 — [[Qualitative Research\|质性研究]]设计规范化** 约翰·克雷斯威尔（Creswell, 1994, 2003）将“核心现象”引入质性研究设计规范，确立了[[Purpose Statement\|目的陈述]]脚本、核心提问公式与[[Nondirectional Language\|非方向性语言]]准则。
 > - **2011 — [[Coding in Qualitative Research\|编码]]阶梯与教材方法论定型** [[Louis Cohen\|路易斯·科恩]]等（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]]）在经典专著第 30 章中，将核心现象打通并嵌入[[Content Analysis\|内容分析]]与编码包容层级架构（Ch. 30），阐释其与[[Domain Analysis\|领域分析]]及理论生成的衔接规程。
-> - **2020s — 计算质性分析与人机协同演进** 在 [[Qualitative Computer Software\|CAQDAS]] 语义知识图谱与大语言模型（LLM）时代，文本主题建模（Topic Modeling）与无监督语义聚类能够快速生成候选核心节点，但最终对核心现象的理论命名、主轴关系对齐与[[Epistemology\|认识论]]审校，仍依赖人类学者的[[Reflexivity\|反身性]]判断。
+> - **2020s — 计算质性分析与[[Man-Computer Symbiosis|人机协同]]演进** 在 [[Qualitative Computer Software\|CAQDAS]] 语义知识图谱与大语言模型（LLM）时代，文本主题建模（Topic Modeling）与无监督语义聚类能够快速生成候选核心节点，但最终对核心现象的理论命名、主轴关系对齐与[[Epistemology\|认识论]]审校，仍依赖人类学者的[[Reflexivity\|反身性]]判断。
 
 ---
 

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30"
 argument_display_title: "Research Methods in Education · Ch30"
 argument_kind: "book-chapter"
-argument_related_count: 63
+argument_related_count: 65
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Problem Solving]]"
   - "[[Champ]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Paradigm]]"
   - "[[Central Phenomenon]]"
@@ -51,6 +52,7 @@ related_concepts:
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Dependent Variable]]"
   - "[[Hawthorne Effect]]"
+  - "[[Discourse]]"
   - "[[Hypothesis]]"
   - "[[Construct]]"
   - "[[Predictive Validity]]"
@@ -186,7 +188,7 @@ updated: 2026-09-08
 > [!factors] 决定编码成效与认知负荷的三大关键因素（Miles & Huberman, 1994）
 > - **编码介入的时间节点** 早期赋码能够及时引导后续数据收集并加深对文本的理解；延后编码则容易造成材料堆积并丧失分析敏锐度。
 > - **人类工作记忆的容量上限** 人类短期工作记忆一般仅能同时维持 4±1 或 7±2 个编码节点。若单次分析调动的代码超过该生理极限，将导致严重的分析疲劳与分类漂移。
-> - **计算工具与人机协同的支撑效能** 现代质性分析高度依赖计算机辅助[[Qualitative Computer Software\|质性数据分析软件]]（Computer-Assisted Qualitative Data Analysis Software，[[Qualitative Computer Software\|CAQDAS]]）在节点管理与复杂检索上的技术支持，主流工具包括 NVivo、MAXQDA、ATLAS.ti 与 Dedoose 等；随着[[Generative Artificial Intelligence\|生成式人工智能]]的发展，质性分析进一步拓展出人机协同的智能编码模式。
+> - **计算工具与[[Man-Computer Symbiosis|人机协同]]的支撑效能** 现代质性分析高度依赖计算机辅助[[Qualitative Computer Software\|质性数据分析软件]]（Computer-Assisted Qualitative Data Analysis Software，[[Qualitative Computer Software\|CAQDAS]]）在节点管理与复杂检索上的技术支持，主流工具包括 NVivo、MAXQDA、ATLAS.ti 与 Dedoose 等；随着[[Generative Artificial Intelligence\|生成式人工智能]]的发展，质性分析进一步拓展出人机协同的智能编码模式。
 
 为了引导研究者在编码过程中提出系统性的分析设问，[[Miranda Fricker|弗里克]]提炼了指引开放编码的 11 个关键追问方向（Flick, 2009, p. 310；p. 561）：
 
@@ -327,7 +329,7 @@ updated: 2026-09-08
 > [!proposition-chain] 内容分析的三阶推论链条（Krippendorff, 2004）
 > - **起点：显性特征描述（Manifest Characteristics）** 严格系统地厘清传播事实本身，回答谁在对谁说什么、通过何种渠道、采用何种修辞方式（p. 46）。
 > - **推论机制：前置动因反推（Antecedents Inference）** 由语言表征逆推传播行动背后的深层原因、动机意图、权力关系以及制度生成语境（Mayring, 2004, p. 267）。
-> - **条件约束：话语使用语境（Contexts of Use）** 推论有效性取决于是否充分考量了文本生成的历史制度背景、作者意图与特定话语网络（pp. 22–24）。
+> - **条件约束：[[Discourse|话语]]使用语境（Contexts of Use）** 推论有效性取决于是否充分考量了文本生成的历史制度背景、作者意图与特定话语网络（pp. 22–24）。
 > - **结果：后置效应研判（Consequences Inference）** 科学评估传播对受众心理、组织运作、公共政策或社会文化现实所造成的实质影响与深层后果。
 
 ---

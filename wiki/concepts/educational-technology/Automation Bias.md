@@ -13,7 +13,7 @@ aliases:
 summary: "人机交互、认知心理学与人工智能伦理核心构念，指人类操作者过度依赖自动化或人工智能决策支持系统的提示（或沉默），甚至在面对相左证据时仍放弃自主判断或忽视矛盾线索的系统性决策偏差。"
 type: concept
 domain: "educational-technology"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ tags:
   - theme/human-ai-interaction
   - theme/cognitive-bias
 related_concepts:
+  - "[[Man-Computer Symbiosis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Trust Calibration]]"
   - "[[Epistemology]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Automation Bias
@@ -68,7 +69,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 自动化偏差（Automation Bias）是指人类操作者在人机协同决策情境中，将自动化或人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）决策支持系统的提示（或其沉默）作为替代自主信息搜集与审思的启发式替代品，过度依赖系统线索而产生执行错误（Commission Errors）或遗漏错误（Omission Errors）的系统性决策倾向。[[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026, pp. 2–5)]] 根据操作者对矛盾证据的接触与认知卷入程度，可进一步划分为两类形态：
+> 自动化偏差（Automation Bias）是指人类操作者在[[Man-Computer Symbiosis|人机协同]]决策情境中，将自动化或人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）决策支持系统的提示（或其沉默）作为替代自主信息搜集与审思的启发式替代品，过度依赖系统线索而产生执行错误（Commission Errors）或遗漏错误（Omission Errors）的系统性决策倾向。[[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026, pp. 2–5)]] 根据操作者对矛盾证据的接触与认知卷入程度，可进一步划分为两类形态：
 > 1. **弱自动化偏差（Weak Automation Bias）** 操作者在未主动查阅或忽略唾手可得的相左证据的情况下，盲目追随系统的提示或沉默，其认知机制源于认知吝啬与警觉性替代，在伦理上构成应知而未注意的过失疏忽（Culpable Negligence）；
 > 2. **强自动化偏差（Strong Automation Bias）** 操作者在已经察觉、记录或权衡了矛盾证据，甚至自身已形成相反判断的情况下，依然顺从系统的提示或沉默，其根源在于[[Trust Calibration|信任失调]]（Miscalibrated Trust）与过度信任（Overtrust），并在[[Epistemology|认识论]]上构成了对技术系统的[[Epistemic Deference|认识论顺从]]（[[Epistemic Deference]]）。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 1–2, 6–11)]]
 
@@ -181,7 +182,7 @@ updated: 2026-09-22
 > [!contrast-table] 自动化偏差核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **认知机制分流命题** | 弱偏差源于认知吝啬与启发替代，强偏差源于过度信任与认识顺从 | 人机协同决策、航空驾驶、医疗辅助诊断 | Mosier et al. (1998); Skitka et al. (2000); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
+> | **认知机制分流命题** | 弱偏差源于认知吝啬与启发替代，强偏差源于过度信任与认识顺从 | [[Man-Computer Symbiosis\|人机协同]]决策、航空驾驶、医疗辅助诊断 | Mosier et al. (1998); Skitka et al. (2000); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
 > | **自主侵蚀命题** | 强偏差通过抑制信念修正能力与剥落制度性权威双向削弱自主性 | 算法审计、高阶专业工作流、人工智能辅助办公 | [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]]; Mackenzie (2008); Stoljar (2000) |
 > | **道德失职命题** | 强偏差架空人在回路与有意义人类控制，违背人类尊严与道德审思义务 | 军事自主武器、临床急救、司法刑罚评估 | [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]]; Sparrow (2016); Santoni de Sio & van den Hoven (2018) |
 > | **摩擦干预命题** | 借助反思机器与反驳型击败者注入认知摩擦，重建批判性信任与可质询性 | 智能界面交互设计、人机团队安全架构 | Veluwenkamp & Buijsman (2025); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |

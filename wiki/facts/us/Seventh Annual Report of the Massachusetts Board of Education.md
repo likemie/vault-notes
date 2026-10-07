@@ -13,7 +13,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Normal School]]"
   - "[[Policy Borrowing]]"
+  - "[[Discourse]]"
   - "[[Popular Education]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-28
+updated: 2026-10-07
 ---
 
 # Seventh Annual Report of the Massachusetts Board of Education
@@ -123,7 +124,7 @@ updated: 2026-09-28
 
 > [!pathways]- 实施路径：从域外考察到本土立法的转译机制
 > - **非中央命令体制下的政治转译** 与法国[[Victor Cousin\|库森]]依托中央部委指令将普鲁士经验直接法典化（1833 年基佐法案）截然不同，美国的联邦分权体制迫使曼必须走公共舆论动员与议会说服路线。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 33–34]]）
-> - **作为政治合法化依据的话语杠杆** 曼并不主张照搬普鲁士君主政体的法律外壳，而是战略性地运用普鲁士“在无体罚、高素养师资与普及入学”上的无可辩驳事实，打破国内保守派宣称“免收学费与废除体罚将导致混乱”的道德恐吓，为[[Common School Movement\|公学运动]]赢得了强大的政治合法性（legitimating rationales）。（pp. 33–34）
+> - **作为政治合法化依据的[[Discourse|话语]]杠杆** 曼并不主张照搬普鲁士君主政体的法律外壳，而是战略性地运用普鲁士“在无体罚、高素养师资与普及入学”上的无可辩驳事实，打破国内保守派宣称“免收学费与废除体罚将导致混乱”的道德恐吓，为[[Common School Movement\|公学运动]]赢得了强大的政治合法性（legitimating rationales）。（pp. 33–34）
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "学习科学与认识论认知中的核心构念，指个体对特定知识主张采取的差异化态度或姿态（如坚信、怀疑、暂且接受、作为工作假设）；在人机协同探究中深化为根据技术中介形态与任务需求动态调适的主体反思姿态。"
 type: concept
 domain: "educational-psychology"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Working Hypothesis]]"
   - "[[Epistemic Cognition]]"
   - "[[Educational Affordances]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Cognitive Offloading]]"
   - "[[Epistemological Beliefs]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Epistemic Stances
@@ -81,7 +82,7 @@ updated: 2026-10-01
 > [!concept-lens] 概念透镜
 > - **含义** 认知主体与特定知识命题或信息代理之间信奉度与批判距离的关系度量。
 > - **用途** 解释个体如何在同一认知体系内对不同学科主张与信源保持高度差异化态度；分析人机交互中学习者如何避免盲信算法或走向全面怀疑。
-> - **人机共生视界** [[Generative Artificial Intelligence\|生成式人工智能]]时代，认识立场直接决定学习者与大语言模型交互时的[[Cognitive Offloading\|认知卸载]]性质（是退化为表面顺从，还是转化为深层协同）。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360)]]
+> - **[[Man-Computer Symbiosis|人机共生]]视界** [[Generative Artificial Intelligence\|生成式人工智能]]时代，认识立场直接决定学习者与大语言模型交互时的[[Cognitive Offloading\|认知卸载]]性质（是退化为表面顺从，还是转化为深层协同）。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360)]]
 > - **边界** 认识立场是对命题或信源的情境化姿态，不等于个体内在固化的性格特质，亦不等于抽象的[[Epistemological Beliefs\|认识论信念]]（Epistemological Beliefs）。
 
 > [!citation-card] Chinn et al. 论认识立场的多元共存
@@ -114,7 +115,7 @@ updated: 2026-10-01
 
 ## 核心要素
 
-> [!feature] 认识立场的五大核心梯度与人机共生特征
+> [!feature] 认识立场的五大核心梯度与[[Man-Computer Symbiosis|人机共生]]特征
 > - **教条式确信（Dogmatic Certainty / 绝对论）** 将知识或 AI 输出视为不容置疑的既定真理，直接全盘接纳，诱发表面顺从与消极[[Cognitive Offloading\|认知卸载]]。
 > - **主观多元化（Radical Multiplism / 多元论）** 认识到知识与模型输出存在多种可能，但认为所有观点同等有效，缺乏评价动机，滑向虚无主义或选择困境。
 > - **评价性审问（Critical Evaluatism / 评价论）** 视大模型为具有局限的思考伙伴，通过跨信源证据核验、批判性提问与因果辩护，在人机交互中掌握核心裁决权。
@@ -153,7 +154,7 @@ updated: 2026-10-01
 
 ### 命题二　面对生成式 AI 中介学习者必须培育动态自适应的认识立场以规避认识依赖
 
-> [!concept-lens] 人机共生与认识立场分化
+> [!concept-lens] [[Man-Computer Symbiosis|人机共生]]与认识立场分化
 > 揭示学习者在面对算法流畅输出时，如何通过立场的动态调适防范评价权外包与有害依赖。
 
 > [!claim] [[Argument_Wu_2025_ER\|Wu et al. (2025)]] & [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]
@@ -193,7 +194,7 @@ updated: 2026-10-01
 > [!dev-timeline] 概念演变脉络
 > - **1970–1990 年代 — 确定性阶段论主导** 威廉·佩里（William G. Perry）、帕特里夏·金（Patricia King）与凯伦·基奇纳（Karen Kitchener）等学者将个人[[Epistemology\|认识论]]视为由绝对主义（二元确定）向相对主义、再向[[Reflexivity\|反思性]]承诺发展的单向阶梯。
 > - **2011 年 — 扩展[[Epistemic Cognition\|认识论认知]]与立场重构** [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] 正式提出“认识立场（Epistemic Stances）”作为五大核心构件之一，彻底打破单一确定性维度，奠定命题情境化态度研究基石。
-> - **2025–2026 年 — 人工智能中介与自适应立场转向** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 与 [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 将其引入人机共生学习，确立“自适应认识立场”与双轨支架干预矩阵，作为防范有害[[Epistemic Dependence\|认识依赖]]、维系关系性[[Epistemic Agency\|认识主体性]]的核心机制。
+> - **2025–2026 年 — 人工智能中介与自适应立场转向** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 与 [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 将其引入[[Man-Computer Symbiosis|人机共生]]学习，确立“自适应认识立场”与双轨支架干预矩阵，作为防范有害[[Epistemic Dependence\|认识依赖]]、维系关系性[[Epistemic Agency\|认识主体性]]的核心机制。
 
 ---
 
@@ -214,7 +215,7 @@ updated: 2026-10-01
 > [!example] 典型教学与交互案例
 > - **统计推论任务中的人机交互立场分化**
 >   在面对[[Likert Scale\|李克特量表]]一致性检验的统计[[Homework\|作业]]时，绝对论学生直接采信 ChatGPT 推荐的[[Chi-Squared Test\|卡方检验]]并由讲义核对；多元论学生追问不同[[Effect Size\|效应量]]公式的区别但不作取舍；评价论学生则针对数据尺度（顺序[[Variable\|变量]]）与配对属性连续质询 ChatGPT，识别出麦克尼马尔检验的局限并结合同伴讨论最终选定斯皮尔曼相关。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–364)]]
-> - **人机协同论文写作中的双轨立场切换**
+> - **[[Man-Computer Symbiosis|人机协同]]论文写作中的双轨立场切换**
 >   学生在[[Literature Search\|文献检索]]与初稿构想阶段将 ChatGPT 的输出视作“工作[[Hypothesis\|假设]]（[[Working Hypothesis]]）”，借助其发散构想拓展思路；而在进入核心因果推论与结论提炼阶段，学生立即切换为“审问与查错立场”，核对[[Primary and Secondary Documents\|原始文献]][[Chain of Evidence\|证据链]]，有效防止了算法幻觉导致的学术不端。
 
 ---
@@ -222,7 +223,7 @@ updated: 2026-10-01
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出人机自适应认识立场框架，系统解构绝对论、多元论与评价论在人机协同解决问题中的表现与转化机制，并建立双轨支架干预模型。
+> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出人机自适应认识立场框架，系统解构绝对论、多元论与评价论在[[Man-Computer Symbiosis|人机协同]]解决问题中的表现与转化机制，并建立双轨支架干预模型。
 > - [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] — 奠基性专论，系统将确定性重构为个体的情境化认识立场，确立[[Epistemic Cognition\|认识论认知]]扩展框架。
 > - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 将适应性认识立场引入人工智能中介学习审思，论证根据中介形态自适应调整立场是抵御[[Epistemic Dependence\|认识依赖]]与维护主体性的关键机制。
 

@@ -3,7 +3,7 @@ title: Epistemological Beliefs
 summary: "关于个体对知识本质及认知过程的假设与信念。该研究领域经历了从早期一维发展阶段模型，到 Schommer 多维独立量表，再到被重构为“认识论理论”核心四维度，以及近期被拆分为本体论与认识论认知（EOC）的演变过程。"
 type: concept
 domain: "educational-psychology"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Metacognition]]"
   - "[[Academic Achievement]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Cognitive Offloading]]"
   - "[[Scaffolding]]"
   - "[[Epistemic Stances]]"
@@ -66,7 +67,7 @@ related_arguments:
   - "[[Argument_Lodewyk_2007_EP]]"
 status: active
 created: 2026-08-13
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Epistemological Beliefs
@@ -81,7 +82,7 @@ updated: 2026-10-03
 > [!concept-lens] 概念透镜
 > - **含义** 探讨学生如何理解[[Certainty of Knowledge\|知识的确定性]]、简单性、来源以及如何为其辩护。
 > - **用途** 作为理解学生在面对[[Wicked Problem|劣构问题]]或复杂学术任务时，为何采取特定学习策略（如[[Rote Learning\|死记硬背]]或深度精加工）的关键中介[[Variable\|变量]]，并可用于预测阅读理解、[[Metacognition\|元认知]]监控和[[Academic Achievement\|学业成绩]]。
-> - **技术与人机共生视界** 在数字与人工智能环境中，认识论信念调节学习者与技术交互时的信息导航与[[Cognitive Offloading\|认知卸载]]模式，且在适切[[Scaffolding\|教学支架]]下可被技术环境逆向重塑。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–361)]]
+> - **技术与[[Man-Computer Symbiosis|人机共生]]视界** 在数字与人工智能环境中，认识论信念调节学习者与技术交互时的信息导航与[[Cognitive Offloading\|认知卸载]]模式，且在适切[[Scaffolding\|教学支架]]下可被技术环境逆向重塑。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–361)]]
 > - **边界** 严格的认识论信念应当仅聚焦于“知识与认知本身”。它不同于隐性智力理论（如能力是否固定）或对学习难度的预期（如学习快慢）。
 
 > [!citation-card] 网络与智能技术中介下的认识论信念重塑
@@ -101,7 +102,7 @@ updated: 2026-10-03
 > - **2007 年 — 大规模纵向追踪与因果/社会化检验** [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] 基于德国 [[TOSCA]] 追踪数据，通过结构方程模型证实知识确定性信念在控制智力与家庭背景后仍能显著独立预测[[Academic Achievement\|学业成就]]，并揭示了学科选择中的自我选择与大学[[Disciplinary Socialization\|学科社会化]]双重机制。
 > - **2008-2010 年 — 阶段论与维度论的整合与重定** Greene 等人提出整合性的 [[Epistemic and Ontological Cognition\|EOC]] 模型，将对“[[Certainty of Knowledge\|知识的确定性]]与简单性”的信念重新界定为“[[Ontology\|本体论]]认知”（ontological cognition），并通过[[Factor Mixture Modeling\|因子混合模型]]将独立维度的测量分数成功聚类回个人的认知发展阶段中。
 > - **2021 年 — [[Meta-analysis\|元分析]]证实聚焦证据确证模型的干预优势** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 通过认识论干预元分析证实，基于多维信念模型与证据协调等聚焦知识本质与确证机制的现代模型干预能产生中等以上提分效果（$d \approx 0.63$），而基于 Schommer 宽泛认知信念模型的干预则无显著效果（$d = 0.185$），为构念边界净化提供了因果实证支持。
-> - **2025 年 — [[Generative Artificial Intelligence\|生成式人工智能]]与人机共生认识理论升级** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 将认识论信念理论升级为人机共生自适应[[Epistemic Stances\|认识立场]]框架，揭示绝对主义、相对主义与评价主义认识论信念在与大语言模型交互中对[[Cognitive Offloading\|认知卸载]]性质的决定性分化作用。
+> - **2025 年 — [[Generative Artificial Intelligence\|生成式人工智能]]与[[Man-Computer Symbiosis|人机共生]]认识理论升级** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 将认识论信念理论升级为人机共生自适应[[Epistemic Stances\|认识立场]]框架，揭示绝对主义、相对主义与评价主义认识论信念在与大语言模型交互中对[[Cognitive Offloading\|认知卸载]]性质的决定性分化作用。
 
 ---
 
@@ -172,7 +173,7 @@ updated: 2026-10-03
 
 ### 命题五　技术中介与人工智能交互中认识论信念的调节与逆向重塑机制
 
-> [!concept-lens] 数字化与人机共生学习情境
+> [!concept-lens] 数字化与[[Man-Computer Symbiosis|人机共生]]学习情境
 > 探讨学习者的认识论信念如何调节其在数字化与智能中介环境中的认知策略，以及技术环境如何反向驱动认识论信念演进。
 
 > [!claim] Tsai & Wu et al.
@@ -236,7 +237,7 @@ updated: 2026-10-03
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出人机共生自适应[[Epistemic Stances\|认识立场]]框架，阐明[[Epistemology\|认识论]]信念在智能技术中介学习中的调节与重塑机制，并构建双轨支架干预矩阵。
+> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]框架，阐明[[Epistemology\|认识论]]信念在智能技术中介学习中的调节与重塑机制，并构建双轨支架干预矩阵。
 > - [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] — 追踪德国高中毕业生进入大学后的确定性[[Epistemology\|认识论]]信念，揭示[[Disciplinary Socialization\|学科社会化]]与自我选择机制。
 > - [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] — 检验加拿大中学生在不同[[Task Structure\|任务结构]]（良构与劣构）下认识论信念对任务表现和[[Reflexivity\|反思性]]判断的差异化预测作用。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 认识论干预[[Meta-analysis\|元分析]]，对比了不同理论模型指导下的干预效果，实证证实聚焦知识与确证维度的现代模型显著优于混入一般学习信念的传统模型。

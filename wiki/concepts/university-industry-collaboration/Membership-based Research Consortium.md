@@ -12,7 +12,7 @@ aliases:
 summary: "多家企业作为会员共同出资支持大学或多机构前竞争研究、成果由会员共享或保留优先许可权的制度安排；通过汇聚分散科研预算、建立出资用户导向的问责机制与产学导师互动，平衡高校学术自由与产业长周期技术需求，并防范单一企业垄断或 IP 毒丸困境。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Pilot Scale Platform]]"
   - "[[Cost of Ownership]]"
   - "[[Meta-Representational Competence]]"
+  - "[[Discourse]]"
   - "[[General Purpose Technology]]"
   - "[[Learning Analytics]]"
   - "[[Variable]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Membership-based Research Consortium
@@ -213,7 +214,7 @@ updated: 2026-10-06
 ## 争议与局限
 
 > [!debates] 中小企业排斥与大企业议程垄断风险
-> 争论联合体高门槛是否会加剧产业内部话语权倾斜。
+> 争论联合体高门槛是否会加剧产业内部[[Discourse|话语]]权倾斜。
 >
 > - **[[Argument_Logar_2014_Minerva|Logar et al. (2014)]]** 指出联合体会费按销售额比例征收且需常态化派驻资深专家参与战略评审，初创企业无力承担人力与财务成本，使得研究议程高度向垂直整合巨头倾斜，存在大企业垄断技术路线的结构性缺陷。
 > - **[[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson (2025)]]** 认为单中心级联合体通过大学保留 IP 与开放非独占许可，反而为中小初创公司和学术衍生企业提供了抗衡巨头封锁的庇护所。

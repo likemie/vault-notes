@@ -7,7 +7,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Sponsored Research Agreement]]"
   - "[[Industry Affiliate Program]]"
   - "[[Return on Investment]]"
+  - "[[Discourse]]"
   - "[[Corporate R&D Labs]]"
   - "[[Corporate Venture Capital]]"
   - "[[Academic Entrepreneurship]]"
@@ -231,7 +232,7 @@ publisher: "Springer"
 > - **主动发起战略对齐汇报** 在新任 CEO 或业务主管上任时，迅速以具象化档案展现产学合作对公司战略目标的实质支撑，将防御性答辩转化为重塑战略认同的主动沟通。（p. 226）
 
 > [!warrant]- 实践者在公司战略决策中的双向沟通机制
-> 实践者并不只是被动适应既有经营方针的行政协调员。由于 AET 成员常年深入科研第一线，对全行业潜在的技术转向具备更广的视野，往往比深陷日常版本交付的业务主管更早察觉到重大技术趋势。当 AET 能够与具备决策话语权的首席技术官（CTO）建立通畅沟通时，实践者便能变被动答辩为主动建议，协助企业高层提前调整技术研发布局（pp. 226–227）。
+> 实践者并不只是被动适应既有经营方针的行政协调员。由于 AET 成员常年深入科研第一线，对全行业潜在的技术转向具备更广的视野，往往比深陷日常版本交付的业务主管更早察觉到重大技术趋势。当 AET 能够与具备决策[[Discourse|话语]]权的首席技术官（CTO）建立通畅沟通时，实践者便能变被动答辩为主动建议，协助企业高层提前调整技术研发布局（pp. 226–227）。
 
 #### 2. 五种资助结构反映不同的战略偏好，重配预算流向是调整产学合作优先级的核心管理杠杆
 

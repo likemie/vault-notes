@@ -6,7 +6,7 @@ summary: "研究者与实践者合作，通过计划—行动—观察—反思�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 67
+method_related_count: 68
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Teacher-as-Researcher]]"
   - "[[Grand Theory]]"
   - "[[Concurrency of Learning]]"
+  - "[[Discourse]]"
   - "[[Document]]"
   - "[[Research Question]]"
   - "[[Creativity]]"
@@ -90,7 +91,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-06-25
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 # Action Research
 
@@ -184,7 +185,7 @@ updated: 2026-10-05
 > - **核心循环与实践** 通过变革改进教育并从中学习（原则一）；遵循“计划 ➔ 行动 ➔ 观察 ➔ 反思”的螺旋迭代（原则三）；保持系统学习并对意外发现开放（原则六）；从实践中提炼理论认识（原则七）；通过坚实证据检验[[Hypothesis|假设]]与制度假设（原则八、九）；撰写个人反思日志实现[[Concurrency of Learning|并行学习]]（原则十）。
 > - **合作与共同体建设** 实践者自主参与（原则二）；对改进负有责任的人全员协作（原则四）；建立自我批判的合作共同体（原则五）。
 > - **政治维度与推进策略** 正视触动既有利益的政治过程（原则十一）；深入批判工作情境的制度结构（原则十二）；从小处着手、从小循环起步、从小群体逐步扩大共同体（原则十三、十四、十五）。
-> - **成果建档与公开辩护** 系统建立活动实践、话语表达、社会关系与研究能力四类变革记录（原则十六）；向公众与同行提供有理据的检验辩护（原则十七）。
+> - **成果建档与公开辩护** 系统建立活动实践、[[Discourse|话语]]表达、社会关系与研究能力四类变革记录（原则十六）；向公众与同行提供有理据的检验辩护（原则十七）。
 
 ---
 
@@ -237,7 +238,7 @@ updated: 2026-10-05
 > [!feature] 核心群体工具与特色方法
 > - **[[Nominal Group Technique\|名义小组技术]]（NGT）** 通过“独立静默书写 ➔ 轮流展示陈述 ➔ 聚类合并澄清 ➔ 独立投票排序”四个阶段，在单次会议中高效收敛群体共识，避免强势个体主导（Morrison, 1993）。
 > - **[[Delphi Technique\|德尔菲技术]]（Delphi）** 通过多轮背对背匿名书面问卷与反馈汇总，使专家或教师团队逐步趋向共识，有效免受群体人际压力干扰。
-> - **现场协作支持技术** 包含激发团队[[Creativity\|创造力]]的[[Brainstorming\|头脑风暴]]法、由研究者/行动者/评价者三方共同审议的三角形[[Observation Method\|观察法]]，以及保障各方平等话语权的中立主席法。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015, Ch.9)]]
+> - **现场协作支持技术** 包含激发团队[[Creativity\|创造力]]的[[Brainstorming\|头脑风暴]]法、由研究者/行动者/评价者三方共同审议的三角形[[Observation Method\|观察法]]，以及保障各方平等[[Discourse|话语]]权的中立主席法。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015, Ch.9)]]
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "由 John Sweller 于 1988 年创立的经典学习与教学设计理论，以人类工作记忆容量有限与长时记忆图式无限为核心架构，解构内在负荷、外在负荷与关联负荷，主张通过减少外在负荷、优化内在负荷以促进图式建构和自动化。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 48
+theory_related_count: 49
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Task Structure]]"
   - "[[Working Memory]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Scaffolding]]"
   - "[[Epistemic Friction]]"
   - "[[Construct]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Cognitive Load Theory
@@ -86,7 +87,7 @@ updated: 2026-10-06
 > - **解释对象** 人类认知架构在处理新信息与复杂任务时的心智负荷分配机制，以及教学信息呈现与[[Task Structure\|任务结构]]对知识内化效能的影响。
 > - **理论问题** 传统教学往往忽视人类[[Working Memory\|工作记忆]]的物理容量限制，导致学习者面临认知超载（Cognitive Overload）；探究式自由探索如何影响初学者的认知建构；智能生成技术如何重塑心智负荷再分配。
 > - **理论类型** 认知心理学解释理论、学习科学机制模型与微观教学设计规范框架。
-> - **知识位置** 由澳大利亚认知心理学家 [[John Sweller]] 于 1988 年创立，后与 Fred Paas、Jeroen van Merriënboer 及 [[Richard E. Mayer]] 的多媒体学习理论深度融合，并在当代[[Generative Artificial Intelligence\|生成式人工智能]]（Artificial Intelligence, AI）人机协同（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）与科学探究教学论辩（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023]]）中获得持续检验与理论拓展。
+> - **知识位置** 由澳大利亚认知心理学家 [[John Sweller]] 于 1988 年创立，后与 Fred Paas、Jeroen van Merriënboer 及 [[Richard E. Mayer]] 的多媒体学习理论深度融合，并在当代[[Generative Artificial Intelligence\|生成式人工智能]]（Artificial Intelligence, AI）[[Man-Computer Symbiosis|人机协同]]（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）与科学探究教学论辩（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023]]）中获得持续检验与理论拓展。
 
 > [!claim] 核心判断
 > 人类认知架构的核心特征是狭窄有限的工作记忆（Working Memory, WM）与容量庞大持久的长时记忆（Long-Term Memory, LTM）之间的结构性不对称；教学设计的最优目标在于通过精细解构教学任务，消除不必要的外在认知负荷（Extraneous Load），优化由元素交互性决定的内在认知负荷（Intrinsic Load），并释放有限的心智资源转化为关联认知负荷（Germane Load），以促进长时记忆中知识图式（Schemas）的建构与自动化提取。在复杂教学与数字化环境中，[[Scaffolding\|教学支架]]必须精准平衡认知负荷，防止将关键的[[Epistemic Friction\|认识论摩擦]]（Epistemic Friction）有害外包，或因缺乏支架导致盲目试错超载。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 1–3)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 10–11)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 1–3)]]
@@ -162,7 +163,7 @@ updated: 2026-10-06
 
 ---
 
-> [!theory-proposition] 命题四｜技术赋能人机协同中认知负荷呈现结构化赋能与非结构化侵蚀的双向分化
+> [!theory-proposition] 命题四｜技术赋能[[Man-Computer Symbiosis|人机协同]]中认知负荷呈现结构化赋能与非结构化侵蚀的双向分化
 > **解释** 生成式 AI 等智能技术具备极高的即时语义模式生成能力，能够高效代劳机械性文字重排与浅层信息汇编。若在教学中提供明确量规与反思提示（结构化路径），AI 能有效剥离机械外在负荷，促使学生将释放出的心智资源投入[[Metacognition\|元认知监控]]与深度概念审订；若缺乏结构化规制（非结构化路径），AI 的高流畅度会诱发破坏性[[Cognitive Offloading\|认知卸载]]，直接切除图式重组所必需的关联认知负荷（[[Epistemic Friction\|认识论摩擦]]），导致[[Higher-Order Thinking Skills\|高阶思维]]退化。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 9–11)]]
 >
 > **应用实例** 在大学学术论文综述写作中，若学生仅指令 AI 生成整篇[[Literature Review\|文献综述]]并直接提交，深层比较不同学术观点的反思过程被完全切除；而在设计了“[[Argument Mapping\|论证图]]谱[[Externalization\|外化]] + AI 寻找反例 + 人工辩驳审定”的结构化任务中，AI 代劳检索排版负荷，学生专注于权衡对立理论，达成了[[Critical Thinking\|批判性思维]]的显著增益。
@@ -175,7 +176,7 @@ updated: 2026-10-06
 > - **[[Research Question\|研究问题]]** 教学材料、人机交互系统或课堂教学流程如何分配学习者的认知负荷；是否存在引发认知超载的外在设计缺陷；数字化工具是在促进还是在损害图式建构。
 > - **分析对象与单位** 学习者个体或小组在特定教学任务中的微观认知加工过程、眼动注视行为、任务完成时延与主观负荷报告。
 > - **需要的材料** 教学界面设计文本/多媒体素材、任务操作日志、主观李克特心智负荷量表数据、眼动瞳孔测量数据及前[[Pre-test and Post-test\|后测]]知识迁移成绩。
-> - **解释目标** 诊断教学干预对内在负荷、外在负荷与关联负荷的调节机制，优化人机协同界面与教学时序编排。
+> - **解释目标** 诊断教学干预对内在负荷、外在负荷与关联负荷的调节机制，优化[[Man-Computer Symbiosis|人机协同]]界面与教学时序编排。
 
 > [!theory-framework] 命题如何转化为分析维度
 >

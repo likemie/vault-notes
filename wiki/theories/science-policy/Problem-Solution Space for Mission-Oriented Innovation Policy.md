@@ -10,7 +10,7 @@ aliases:
 summary: "基于争议性、复杂性与不确定性解构社会问题与创新方案，划分二维象限并阐释三条收敛治理路径的政策分析框架"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 25
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Problem Finding]]"
   - "[[Scientific Uncertainty]]"
+  - "[[Discourse]]"
   - "[[Regulatory Sandbox]]"
   - "[[Reflexive Governance]]"
   - "[[Research Question]]"
@@ -159,7 +160,7 @@ updated: 2026-10-07
 
 > [!theory-proposition] 命题二｜高度发散的棘手挑战必须通过差异化的收敛路径实现向合法化对齐的结构性转变
 > **解释** 面对问题与方案双重发散的高度棘手挑战（第一象限），不存在单一普适的最优治理模式，政策制定者可以通过三条不同路径实现向双重收敛（第四象限）的跃迁：
-> 1. **问题导向路径（Problem-led Pathway）** 优先通过科学共识建构、伦理话语重构与公众审议消除问题争议，在确立坚实社会需求共识后再探索与筛选多元技术方案；
+> 1. **问题导向路径（Problem-led Pathway）** 优先通过科学共识建构、伦理[[Discourse|话语]]重构与公众审议消除问题争议，在确立坚实社会需求共识后再探索与筛选多元技术方案；
 > 2. **解决方案导向路径（Solution-led Pathway）** 优先通过[[Regulatory Sandbox|监管沙盒]]、利基试验消除技术不确定性，在方案成熟后反向重构并激发公共问题意识与制度需求；
 > 3. **混合演化路径（Hybrid / Co-evolutionary Pathway）** 在多元利益相关方参与平台中，通过[[Reflexivity|反思性]]治理与小步渐进策略，实现问题重构与技术方案迭代的同步演化。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 481–485)]]
 >

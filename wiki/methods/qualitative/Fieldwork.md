@@ -10,9 +10,9 @@ summary: "研究者深入研究现场进行长期观察、参与和深度体验�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 39
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 40
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/data-collection
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Document]]"
   - "[[Hypothesis]]"
+  - "[[Discourse]]"
   - "[[Empiricism]]"
   - "[[Variable]]"
   - "[[Research Question]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-25
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Fieldwork
@@ -111,7 +112,7 @@ updated: 2026-10-01
 
 > [!feature] 田野调查的四个根本特征
 > - **实证调查（相对于纯理论思辨）** 核心旨在探寻研究对象真实、原初的生活与教学图景。通常不预设刚性封闭的[[Hypothesis|假设]]，而是从不可预知的进程中敏锐捕捉意义，形成自下而上的理论归纳与扎根建构。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch.7)]]
-> - **文化诠释（透过日常探寻意义体系）** 文化现象分散琐碎，体现在教育现场的细微言行中。田野研究不仅记录行为表象，更致力于破译行动者共享的价值代码、话语隐喻与微观权力关系。
+> - **文化诠释（透过日常探寻意义体系）** 文化现象分散琐碎，体现在教育现场的细微言行中。田野研究不仅记录行为表象，更致力于破译行动者共享的价值代码、[[Discourse|话语]]隐喻与微观权力关系。
 > - **整体性与比较视野（贯通宏观体系与微观实践）** 现代田野研究不再局限于孤立的单一村落或个案，而是从社会制度整体与跨国比较视角审视微观课堂；教育问题始终是宏观政治经济结构与微观行动者实践辩证互动的产物。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
 > - **回归真实的课堂教学生活（打破实证功能主义垄断）** 20 世纪 80 至 90 年代，随着比较教育学第四阶段话语（Discourse 4）中[[Structural Functionalism|结构功能主义]]与[[Empiricism|唯方法论主义]]独大局面的瓦解，人类学田野调查广泛进入学科，促使学者摆脱抽象[[Variable|变量]]回归鲜活的课堂与教学过程本身。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
 

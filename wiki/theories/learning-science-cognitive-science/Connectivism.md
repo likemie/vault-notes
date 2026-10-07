@@ -9,10 +9,10 @@ aliases:
 summary: "由 George Siemens 与 Stephen Downes 提出的数字时代学习理论，认为学习是连接专业节点或信息源的网络构建过程，知识分布于人际与非人类技术网络的动态连接之中"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 23
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 24
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theory/learning-science
   - field/educational-technology
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[AI Literacy]]"
   - "[[Epistemological Vigilance]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Rote Learning]]"
   - "[[Epistemic Stances]]"
   - "[[Learning Analytics]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Connectivism
@@ -101,7 +102,7 @@ updated: 2026-09-22
 
 > [!proposition-chain]- 延伸命题
 > - **推论一（源自核心命题一）** 当智能节点输出虚假或有偏信息（幻觉）时，网络连接的脆弱性要求学习者必须具备强大的[[AI Literacy\|人工智能素养]]与[[Epistemological Vigilance\|认识论警觉]]。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3)]]
-> - **推论二（源自核心命题二）** 教学设计应从线性的内容传授转向构建多源反馈与人机协同的生态网络系统。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 11–12)]]
+> - **推论二（源自核心命题二）** 教学设计应从线性的内容传授转向构建多源反馈与[[Man-Computer Symbiosis|人机协同]]的生态网络系统。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 11–12)]]
 
 > [!mechanism-map]- 连通主义学习机制图
 > ```mermaid
@@ -148,7 +149,7 @@ updated: 2026-09-22
 > - **2005 年 理论发轫** George Siemens 发表 *Connectivism: A Learning Theory for the Digital Age*，正式确立理论基石。
 > - **2008 年 cMOOCs 教学实验** Siemens 与 Downes 创办首门连通主义大规模开放在线课程（CCK08），验证网络化自主协同学习。
 > - **2010 年代 [[Learning Analytics\|学习分析学]]整合** 理论与复杂网络科学、学习分析学（Learning Analytics）深度融合。
-> - **2020 年代 生成式 AI 与人机共生网络** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 将连通主义应用于大语言模型研究，把 ChatGPT 定位为分布式认知网络中的关键连接中继与模式识别工具。
+> - **2020 年代 生成式 AI 与[[Man-Computer Symbiosis|人机共生]]网络** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 将连通主义应用于大语言模型研究，把 ChatGPT 定位为分布式认知网络中的关键连接中继与模式识别工具。
 
 ---
 

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19"
 argument_display_title: "Research Methods in Education · Ch19"
 argument_kind: "book-chapter"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[Presence]]"
   - "[[Externalization]]"
   - "[[Epoché]]"
+  - "[[Discourse]]"
   - "[[Scaffolding]]"
   - "[[Research Question]]"
   - "[[Independent Variable]]"
@@ -323,7 +324,7 @@ updated: 2026-09-07
 > [!axioms] 理想言说情境下虚拟世界沟通的十四项原则
 >
 > > [!feature] 沟通自由
-> > - **进入话语** 所有参与者均可自由进入。
+> > - **进入[[Discourse|话语]]** 所有参与者均可自由进入。
 > > - **检查主张** 可自由检查任何可疑主张。
 > > - **评估解释** 可自由评估各种解释。
 > > - **修改框架** 可自由修改给定概念框架。

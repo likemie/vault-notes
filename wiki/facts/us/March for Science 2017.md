@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Research Universities]]"
   - "[[Academic Freedom]]"
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Citizen Science]]"
   - "[[Disciplina and Doctrina]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # March for Science 2017
@@ -92,7 +93,7 @@ updated: 2026-10-06
 > |:---|:---|:---|
 > | 核心行动者 | [[Research Universities\|研究型大学]]学者 / AAAS | 特朗普行政当局 / 保守智库 |
 > | 阶级／社会基础 | 科学专业技术人员 / 环保倡导者 / 公民公众 | 保守选民集团 / 传统产业与化石能源资本 |
-> | 核心价值话语 | 循证决策 / 同行评议 / 学术自由 / 科学实证权威 | 质疑精英建制 / 抨击科研浪费 / 优先经济增长与主权利益 |
+> | 核心价值[[Discourse\|话语]] | 循证决策 / 同行评议 / 学术自由 / 科学实证权威 | 质疑精英建制 / 抨击科研浪费 / 优先经济增长与主权利益 |
 > | 斗争策略 | 街头请愿 / 媒体倡导 / 国会游说 / 诉讼与数据归档 | 削减科研预算 / 限制联邦学者发声 / 人事清洗 |
 >
 > **关键分歧** 双方围绕科学是否享有超越党派政治的客观认知权威，以及联邦政府是否有权凭借政治意识形态削减科研资助并干预科学证据发布。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1061)]]

@@ -8,7 +8,7 @@ aliases:
 summary: "Grice 提出的四条会话合作原则，包括量、质、关联和清晰，可用于比较不同文化中的说话风格与互动期待"
 type: concept
 domain: "science-communication"
-related_count: 1
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,7 +17,8 @@ tags:
   - theme/speaking
   - theme/cross-cultural-communication
   - field/communication-discourse
-related_concepts: []
+related_concepts:
+  - "[[Discourse]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -27,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Grice's Conversational Maxims
@@ -35,7 +36,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!info]
-> Grice（1975）提出四条"合作原则"（cooperative principles）来描述人们在日常对话中如何协作以达成有效沟通。这些准则最初被认为描述了人类会话的普遍模式，但 Li（2012）在第 8 章中指出——"这些会话规则，或说话语法，最初被认为是普遍的人类会话模式，但可能毕竟不那么普遍"。它们更常用于描述西方人的说话风格，而非所有文化的说话模式([[Argument_Li_2012_Cambridge\|Li, 2012, p.87]])。
+> Grice（1975）提出四条"合作原则"（cooperative principles）来描述人们在日常对话中如何协作以达成有效沟通。这些准则最初被认为描述了人类会话的普遍模式，但 Li（2012）在第 8 章中指出——"这些会话规则，或说[[Discourse|话语]]法，最初被认为是普遍的人类会话模式，但可能毕竟不那么普遍"。它们更常用于描述西方人的说话风格，而非所有文化的说话模式([[Argument_Li_2012_Cambridge\|Li, 2012, p.87]])。
 
 ---
 
@@ -46,7 +47,7 @@ updated: 2026-09-22
 
 ### 1. 量的准则（Maxim of Quantity）：不多不少
 
-说话者关注在给定会话语境中所需的**言语量**。如被朋友在校园路上问"你去哪里？"，回答"健身房"即可——很少有人会说完整的"我正在去健身房"。如果说了完整句子，反而会导致对方产生负面印象：不专注、怪异、开玩笑、或出了什么问题([[Argument_Li_2012_Cambridge|Li, 2012, p.87]])。
+说话者关注在给定会[[Discourse|话语]]境中所需的**言语量**。如被朋友在校园路上问"你去哪里？"，回答"健身房"即可——很少有人会说完整的"我正在去健身房"。如果说了完整句子，反而会导致对方产生负面印象：不专注、怪异、开玩笑、或出了什么问题([[Argument_Li_2012_Cambridge|Li, 2012, p.87]])。
 
 > [!tip]-
 > Li 指出，这一准则反映了西方自希腊以来对效率（economy/efficiency）和数量敏感性的关切——"这正是科学思维的基础"([[Argument_Li_2012_Cambridge\|Li, 2012, p.87]])。

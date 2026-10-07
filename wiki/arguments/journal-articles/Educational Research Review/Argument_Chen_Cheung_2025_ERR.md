@@ -67,6 +67,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Fade-out Effect]]"
   - "[[Interaction Effect]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Intercultural Education]]"
   - "[[Paradigm]]"
   - "[[Learner Autonomy]]"
@@ -126,7 +127,7 @@ title: "Argument_Chen_Cheung_2025_ERR"
 argument_key: "Argument_Chen_Cheung_2025_ERR"
 argument_display_title: "Effect of generative artificial intelligence on university students learning outcomes: A systematic review and meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 89
+argument_related_count: 90
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -396,7 +397,7 @@ issuing_organization: ""
 > - **看校正后置信区间是否依然大于零确证真实基本盘** 读表的最关键一步是审视调整后的 95% 置信区间下限：若在最苛刻的虚拟补齐后，**区间下限仍稳固高于零点**（如总体为 [0.132, 0.509]），且数值完全落入[[Evidence-Based Education\|循证教育]]学公认的常态区间（0.10–0.25），即可得出坚实结论——技术促学实效确凿无疑，但其实际作用是温和而理性的。
 
 > [!pathways] 高等教育生成式 AI 循证教学整合与政策治理路径（pp. 18–19）
-> - **学段与学科差异化教学适配** 重点加强对大一新生的过渡期 AI 赋能，文科重在人机协同思辨与写作论证，理工医科需明确 AI 作为数据整理与编程辅助的工具边界，警惕虚假代答。
+> - **学段与学科差异化教学适配** 重点加强对大一新生的过渡期 AI 赋能，文科重在[[Man-Computer Symbiosis|人机协同]]思辨与写作论证，理工医科需明确 AI 作为数据整理与编程辅助的工具边界，警惕虚假代答。
 > - **显性反思支架与元认知训练植入** 课程设计必须强制融入“生成内容批判性评价”、“提示词迭代反思”与“结构化自我监控表”，防范学生陷入不经思考的“元认知惰性”。
 > - **真实课堂的中周期模块化整合（4–12 周）** 避免单次孤立的演示实验，亦防范超长学期无序使用引发的技术脱敏；在 4–12 周的专题教学模块中设定明确的教学目标与评估节点。
 > - **数字包容与[[Intercultural Education|跨文化教育]]公平保障** 针对低数字化与欠发达地区高校加大技术开放与教师培训力度；在高权力距离文化中利用 AI 界面重塑师生互动，推动从“教师中心”向“学习者中心”[[Paradigm\|范式]]跃迁。

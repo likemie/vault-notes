@@ -11,7 +11,7 @@ aliases:
 summary: "在社会与教育探究中兼具物质实体与方法学双重维度的核心概念：既指承载文化与制度话语的有形物质实体，又指因测量偏差与工具局限导致的方法学人为假象。"
 type: concept
 domain: "research-methodology"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -22,6 +22,7 @@ tags:
   - method/qualitative
   - paradigm/poststructuralism
 related_concepts:
+  - "[[Discourse]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Construct]]"
   - "[[Document]]"
@@ -64,7 +65,7 @@ related_persons:
 confidence: high
 status: stable
 created: 2026-08-05
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Artefact
@@ -74,7 +75,7 @@ updated: 2026-10-05
 ## 定义
 
 > [!def] 核心定义
-> 器物与人工制品（artefact / artifact）在当代社会与教育探究中包含双重方法论维度：（1）**物质文化与话语实践实体**，指在田野与组织空间中客观存在的有形物体（如教室陈设、桌椅布局、教材教具、展示展板、儿童玩具、服装、数字界面与[[Generative Artificial Intelligence\|生成式人工智能]]工具等），它们作为视觉与物质数据，直观投射制度文化、权力关系与深层意识形态；（2）**方法论人为产物（Methodological Artefact）**，指在实证或[[Experimental Research\|实验研究]]中，并非研究对象自身的客观规律，而是由于测量工具偏倚、研究者效应或特定情境诱导（如[[Role-playing\|角色扮演]]中的社会期望）所催生的“虚假因果假象”。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al., 2011, Ch. 27, p. 531]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, p. 189]]
+> 器物与人工制品（artefact / artifact）在当代社会与教育探究中包含双重方法论维度：（1）**物质文化与[[Discourse|话语]]实践实体**，指在田野与组织空间中客观存在的有形物体（如教室陈设、桌椅布局、教材教具、展示展板、儿童玩具、服装、数字界面与[[Generative Artificial Intelligence\|生成式人工智能]]工具等），它们作为视觉与物质数据，直观投射制度文化、权力关系与深层意识形态；（2）**方法论人为产物（Methodological Artefact）**，指在实证或[[Experimental Research\|实验研究]]中，并非研究对象自身的客观规律，而是由于测量工具偏倚、研究者效应或特定情境诱导（如[[Role-playing\|角色扮演]]中的社会期望）所催生的“虚假因果假象”。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al., 2011, Ch. 27, p. 531]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, p. 189]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 物质维度指向物理世界中可被观察与多感官交互的有形对象；方法学维度指向因设计缺陷而在数据中浮现的工具偏倚副产物。
@@ -114,7 +115,7 @@ updated: 2026-10-05
 
 > [!feature] 器物的双重形态与方法特征
 > - **易观察而难解读的物理表征** 器物如金字塔、教室内陈设一样极易被直观看到，但其深层含义高度依赖语境，脱离使用情境往往产生南辕北辙的解读。
-> - **生产之中的话语实践与制度文本** [[Post-structuralism\|后结构主义]]与[[Discourse Analysis\|话语分析]]将物质器物确立为处于流动生产中的制度文本，反映权力的划界与空间的规范化控制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 30]]
+> - **生产之中的[[Discourse|话语]]实践与制度文本** [[Post-structuralism\|后结构主义]]与[[Discourse Analysis\|话语分析]]将物质器物确立为处于流动生产中的制度文本，反映权力的划界与空间的规范化控制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 30]]
 > - **儿童与弱势群体探究的投射媒介** 玩偶、模型、木偶等熟悉器物能够降低受访者的戒备心理，将抽象的情感、冲突与刻板印象具象化。
 > - **方法假象的工具诱发性** 在[[Role-playing\|角色扮演]]（[[Role-playing]]）或实验室操纵中，被试往往报告“自己应该做什么”而非“真实做什么”，形成人为诱发的数据偏差。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26\|Cohen et al., 2011, Ch. 26, p. 518]]
 > - **跨方法三角校准机制** 通过[[Heterogeneity\|异质性]]方法（如将严格实验与实地角色扮演对照）检验研究结论，方法对比越大，排除方法人为产物的确[[Reliability\|信度]]越高。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011, Ch. 10, p. 189]]
@@ -156,7 +157,7 @@ updated: 2026-10-05
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **文化话语映射命题** | 物质器物反映制度秩序与组织文化，但具有解释多义性 | 校园空间、教室环境、教科书物质文化分析 | Schein; Cohen et al. |
+> | **文化[[Discourse\|话语]]映射命题** | 物质器物反映制度秩序与组织文化，但具有解释多义性 | 校园空间、教室环境、教科书物质文化分析 | Schein; Cohen et al. |
 > | **方法效度防范命题** | 单一测量易造就方法人为产物，必须依托跨方法三角检验 | 实验设计、角色扮演、量化与质性综合研究 | Lin; Cohen et al. |
 
 ---
@@ -166,7 +167,7 @@ updated: 2026-10-05
 > [!dev-timeline] 概念演变
 > - **19 世纪末–20 世纪初 — 经典人类学与考古学物质文化传统** 将器物作为辨识失落文明、技术演进与社会分层的关键实体证据。
 > - **1970–1990 — 组织社会学与方法论批判期** Schein 确立器物在[[Organizational Culture\|组织文化]]三层结构中的位置；方法论学者将“人为产物”引入测量效度批判，强调[[Triangulation\|三角验证]]对排除工具伪效应的意义（Lin, 1976）。
-> - **2000 至今 — [[Post-structuralism\|后结构主义]]话语转向与数字中介** 物质器物被视为处于持续生产中的话语文本（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）；ChatGPT 等[[Generative Artificial Intelligence\|生成式人工智能]]被界定为兼具鲁棒性与情境塑模性的数字人工制品与[[Boundary Object\|边界对象]]（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）。
+> - **2000 至今 — [[Post-structuralism\|后结构主义]][[Discourse|话语]]转向与数字中介** 物质器物被视为处于持续生产中的话语文本（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）；ChatGPT 等[[Generative Artificial Intelligence\|生成式人工智能]]被界定为兼具鲁棒性与情境塑模性的数字人工制品与[[Boundary Object\|边界对象]]（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）。
 
 ---
 

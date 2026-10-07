@@ -7,7 +7,7 @@ aliases:
 summary: "克莱里德斯在国际关系理论视域下提出的概念，指比较教育在不同国际关系思想传统影响下，选择性关注某些问题（在场）而忽略另一些问题（缺席）的话语过滤与知识生产机制"
 type: concept
 domain: "comparative-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Screening Off]]"
   - "[[Epistemology]]"
+  - "[[Discourse]]"
   - "[[Readings of the Global]]"
   - "[[Comparative Educations]]"
   - "[[Hypothesis]]"
@@ -74,7 +75,7 @@ updated: 2026-10-07
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向比较教育知识生产中由于底层地缘政治和国际关系设想的不同，导致研究重点呈现系统性偏倚、[[Screening Off\|屏蔽]]和选择性呈现的规律。
 > - **用途** 它帮助研究者批判性地识别特定学术研究“照亮了什么，又遮蔽了什么”，进而解构看似客观的比较研究背后的地缘利益与知识权力分配。
-> - **边界** 它侧重于宏观地缘和[[Epistemology\|认识论]]层次上的话语屏蔽分析，不适合用来解释学者个人微观主观学术兴趣的偶然转变。
+> - **边界** 它侧重于宏观地缘和[[Epistemology\|认识论]]层次上的[[Discourse|话语]]屏蔽分析，不适合用来解释学者个人微观主观学术兴趣的偶然转变。
 
 > [!citation-card]- 关键表述
 > 国际关系的三大传统提供了不同的“全球阅读方式”，并使“多重的比较教育”成为可能。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 417)]]
@@ -102,7 +103,7 @@ updated: 2026-10-07
 
 > [!feature] 核心要素
 > - **在场（Presences）** 指在特定国关传统影响下，在比较教育研究中被高度强调、制度化显现并占据统治地位的主题（如现实主义下的民族国家、借用吸引与[[Reference Society\|参考社会]]；或理性主义下的[[Governing at a Distance\|远处治理]]与大数据评估）。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 420–425]])
-> - **缺席（Absences）** 指被学术话语系统性[[Screening Off\|屏蔽]]、遗忘、排斥在研究视线之外的主题（如现实主义下被掩盖的殖民扩张暗面与权力不对称；或理性主义下被掩盖的[[OECD\|经合组织]]数据独裁与新自由主义资本统治）。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 421]])
+> - **缺席（Absences）** 指被学术[[Discourse|话语]]系统性[[Screening Off\|屏蔽]]、遗忘、排斥在研究视线之外的主题（如现实主义下被掩盖的殖民扩张暗面与权力不对称；或理性主义下被掩盖的[[OECD\|经合组织]]数据独裁与新自由主义资本统治）。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 421]])
 > - **[[Epistemology\|认识论]]混合（Intermixing of Epistemologies）** 三大传统的注意力议程不是割裂的，它们在比较教育的实际文本与历史演进中往往呈现出复杂的混合、妥协和交叉共存状态。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 431]])
 
 > [!logic-map]- 要素关系
@@ -142,7 +143,7 @@ updated: 2026-10-07
 ### 命题类型三　理性主义注意力议程在推动远处治理分析时掩盖了技术数据评估背后的霸权支配
 
 > [!concept-lens] 技术评估与去政治化
-> 探讨理性主义下技术治理话语如何构建起中立合作幻象。学者们共同解构量化基准评估下的[[Soft Power\|软性权力]]垄断。
+> 探讨理性主义下技术治理[[Discourse|话语]]如何构建起中立合作幻象。学者们共同解构量化基准评估下的[[Soft Power\|软性权力]]垄断。
 
 > [!claim] Klerides, E.
 > **[[Governing at a Distance\|远处治理]]技术** 理性主义注意力议程推动了由国际组织、非政府组织与跨国智库构成的“多行动者网络”、“多边合作”与“[[Global Citizenship\|全球公民]]身份”在场，将基准测试与教育评估重构为缓解冲突的中立工具；但这也通过“科学中立”的数据话语掩盖了跨国治理网络背后的地缘政治权力垄断，使去政治化的技术治理面纱成为遮蔽新自由主义资本效率扩张的缺席。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])
@@ -173,7 +174,7 @@ updated: 2026-10-07
 ## 概念演变
 
 > [!dev-timeline] 注意力议程概念的学理演变
-> - **2000 — 奠定全球阅读基础** [[Robert Cowen\|罗伯特·考恩]]提出“[[Readings of the Global\|阅读全球]]”理念，倡导将全球化教育视作多重文本，奠定了分析学术话语选择性与多样性的前置理论基础。
+> - **2000 — 奠定全球阅读基础** [[Robert Cowen\|罗伯特·考恩]]提出“[[Readings of the Global\|阅读全球]]”理念，倡导将全球化教育视作多重文本，奠定了分析学术[[Discourse|话语]]选择性与多样性的前置理论基础。
 > - **2023 — 概念系统引入比较教育** [[Eleftherios Klerides\|克莱里德斯]]引入[[Wight's Three Traditions of International Theory\|怀特国际理论三大传统]]，系统阐述了“注意力议程”的在场与缺席机制，完成了对学科[[Knowledge Production\|知识生产]]底层地缘政治预设的系统解构。
 > - **2023 至今 — 混合形态与新冷战反思** 学界开始运用该概念反思美乌对抗、美俄对抗下的新地缘危机，探索注意力议程在主权领土回归与核威胁背景下的重新分配。
 
@@ -190,7 +191,7 @@ updated: 2026-10-07
 
 > [!critique] 学理与方法论批判
 > - **过度欧洲中心主义** 整个注意力议程的基础依赖于怀特对欧洲国际理论的归纳，其三位代表学者（马基雅维利、格劳秀斯、[[Immanuel Kant\|康德]]）以及所涉及的哲学底色皆源于西欧传统，限制了其对非西方世界自主国际关系思想及注意力重组的解释力。
-> - **非西方帝国主义的[[Screening Off\|屏蔽]]** 该概念自身在强力反思西方话语对非西方心智的殖民时，也选择性地将历史上和现实中“非西方帝国”的地缘扩张和殖民奴役列为了缺席。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 430]])
+> - **非西方帝国主义的[[Screening Off\|屏蔽]]** 该概念自身在强力反思西方[[Discourse|话语]]对非西方心智的殖民时，也选择性地将历史上和现实中“非西方帝国”的地缘扩张和殖民奴役列为了缺席。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 430]])
 
 ---
 
@@ -204,4 +205,4 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 系统引入马丁·怀特的三大传统，界定了比较教育学术形态下注意力议程的在场与缺席机制。
-> - [[Argument_Cowen_2009_CE\|Cowen (2009)]] — 奠定了“[[Readings of the Global\|阅读全球]]”话语变迁与教育转移形态变形的理论脉络。
+> - [[Argument_Cowen_2009_CE\|Cowen (2009)]] — 奠定了“[[Readings of the Global\|阅读全球]]”[[Discourse|话语]]变迁与教育转移形态变形的理论脉络。

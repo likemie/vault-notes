@@ -9,7 +9,7 @@ summary: "通过识别行动者、关系、节点和连接来测量社会关系�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 42
+method_related_count: 43
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Emergence]]"
+  - "[[Discourse]]"
   - "[[Reliability]]"
   - "[[Construct Validity]]"
   - "[[Theory of Knowledge]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Network Analysis
@@ -101,7 +102,7 @@ updated: 2026-09-22
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 关系实在论（Relational Realism）。认为社会现实是由相互联系的纽带构成的系统，整体网络具有超越个体属性之和的[[Emergence|涌现]]特征（Emergent Properties），与[[Complexity Theory|复杂性理论]]及分布式认知理论深度契合。
-> - **研究者角色** 兼具客观测度与质性解释：量化提取网络拓扑结构指标，结合田野话语与访谈解释连接背后的学术互助、观点改进或资源交换意图。
+> - **研究者角色** 兼具客观测度与质性解释：量化提取网络拓扑结构指标，结合田野[[Discourse|话语]]与访谈解释连接背后的学术互助、观点改进或资源交换意图。
 > - **有效性标准** 边界界定的完整性与合理性、关系数据重测一致性（[[Reliability|信度]]），以及关系测度与真实社会互动的[[Construct Validity|建构效度]]（构念效度）。
 > - **不声称回答的问题** 不能从静态网络拓扑结构截面数据中直接推断确定性因果方向；每个分析层次的涌现规律不能完全简化还原为低层次个体的心理偏好。
 
@@ -120,7 +121,7 @@ updated: 2026-09-22
 > 2. **确定关系形式与内容维度** 明确连接的实质内容：观点回应、同行建议寻求、资源共享、政策咨询或情感支持；界定有向（Directed）或无向（Undirected）、二元（0/1）或赋权（Weighted）连接。
 > 3. **构建关系矩阵与清洗数据** 将收集的关系[[Data Transformation|数据转换]]为 $N \times N$ 的邻接矩阵，处理对称性与缺失节点。
 > 4. **计算网络拓扑测度** 计算网络整体密度、传递性、各节点度数与中介中心度，探测子群聚类。
-> 5. **混合质性情境化解释** 结合话语[[Transcription in Qualitative Research|转录]]与[[Qualitative Observation|田野观察]]，解释高中心度节点的领导力成因、跨组流动机制及边缘节点的联通状态。
+> 5. **混合质性情境化解释** 结合[[Discourse|话语]][[Transcription in Qualitative Research|转录]]与[[Qualitative Observation|田野观察]]，解释高中心度节点的领导力成因、跨组流动机制及边缘节点的联通状态。
 
 ### 量化分析与核心测度公式
 

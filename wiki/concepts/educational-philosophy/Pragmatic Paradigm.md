@@ -8,7 +8,7 @@ aliases:
 summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动、适合目的与方法自由）。"
 type: concept
 domain: "educational-philosophy"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Paradigm Wars]]"
   - "[[Scientific Attitude]]"
   - "[[Knowledge Transfer]]"
+  - "[[Discourse]]"
   - "[[Quality Education]]"
   - "[[Commensuration]]"
   - "[[Research Ethics]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Pragmatic Paradigm
@@ -196,7 +197,7 @@ updated: 2026-10-05
 > **民主目标与渐进方法的悖论分离** 证明在民国中国，实用主义被拆解为民主、渐进实验、[[Scientific Attitude\|科学态度]]等碎片；急于救国的改革者拥抱民主目标却抛弃渐进方法，展示了实用主义在跨国[[Knowledge Transfer\|知识转移]]中的结构性拆解。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.610–611, 622]]）
 
 > [!claim] [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]]
-> **政治话语中的功能性变形** 证明实用主义在建国后中国经历了从“反动伪科学”到现代化与[[Quality Education\|素质教育]]话语盟友的三重变形。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.79–93]]）
+> **政治[[Discourse|话语]]中的功能性变形** 证明实用主义在建国后中国经历了从“反动伪科学”到现代化与[[Quality Education\|素质教育]]话语盟友的三重变形。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.79–93]]）
 
 ---
 
@@ -262,4 +263,4 @@ updated: 2026-10-05
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 阐释实用主义世界观（Pragmatic Worldview）在研究设计与方法选择中的具体应用。
 > - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 梳理比较教育学术史中的[[Paradigm|范式]]演化，阐述霍姆斯基于[[John Dewey|杜威]]实用主义建立的[[Hypothesis|假设]]-演绎[[Problem Approach|问题法]]，并确认实用互动论在挑战功能主义单一霸权中的范式地位。
 > - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 揭示实用主义[[Paradigm|范式]]（民主目标与渐进方法）在民国中国跨国转移中的拆解与[[Recontextualization|本土重构]]。
-> - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 追踪实用主义范式在建国后中国教育政治话语中的三重变形。
+> - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 追踪实用主义范式在建国后中国教育政治[[Discourse|话语]]中的三重变形。

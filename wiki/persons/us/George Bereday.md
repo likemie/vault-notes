@@ -11,7 +11,7 @@ summary: "哥伦比亚大学师范学院比较教育学讲座教授，《比较�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Scientific Explanation]]"
   - "[[Working Hypothesis]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Scientific Method]]"
   - "[[Critical Dualism]]"
   - "[[Variable]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # George Bereday
@@ -176,7 +177,7 @@ updated: 2026-10-05
 > *There was also that marvellous account in Bereday's book (1964) about scholars in other countries and their universities and departments. Comparative education existed and it had a history as well... Both Bereday and Lauwerys linked persons and ideas across cultures and continents and for quite justifiable reasons – including their impact on their own institutions, and on the societies of comparative education and on generations of graduate students.*
 
 > [!citation-card] 马修论贝雷迪作为历史学派与[[Scientific Paradigm\|科学范式]]之间的关键过渡桥梁
-> 贝雷迪的立场在比较教育学迈向科学[[Paradigm\|范式]]的转型中极具代表性，他充当了历史范式与科学范式之间的桥梁。尽管他的前三个步骤基本旨在理解和解释特定的教育现象，但其终极目标依然是综合分析，即探寻所有教育体制据以构建的内在普遍力量，并由此推导出跨国普遍法则或类型学。建立法则由此成为比较教育学占主导地位的方法论话语。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 61–62)]]
+> 贝雷迪的立场在比较教育学迈向科学[[Paradigm\|范式]]的转型中极具代表性，他充当了历史范式与科学范式之间的桥梁。尽管他的前三个步骤基本旨在理解和解释特定的教育现象，但其终极目标依然是综合分析，即探寻所有教育体制据以构建的内在普遍力量，并由此推导出跨国普遍法则或类型学。建立法则由此成为比较教育学占主导地位的方法论[[Discourse|话语]]。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 61–62)]]
 >
 > *The position of Bereday, who served as a bridge between the historical and the scientific paradigm, is characteristic in this respect. While his first three steps aimed basically at understanding and explaining specific educational phenomena, his ultimate aim remained total analysis; an exercise, i.e. which 'deals with the imminent general forces upon which all systems are built' and which lead to 'the formulation of 'laws' or 'typologies'... Establishing laws, as the mature sciences did... became a dominant methodological discourse for comparative education.*
 

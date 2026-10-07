@@ -7,7 +7,7 @@ title: "Argument_Cowen(Ed.)_2009_Springer"
 argument_key: "Argument_Cowen(Ed.)_2009_Springer"
 argument_display_title: "International Handbook of Comparative Education"
 argument_kind: "edited-volume"
-argument_related_count: 81
+argument_related_count: 82
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Champ]]"
+  - "[[Discourse]]"
   - "[[Development Education]]"
   - "[[Comparative History of Comparative Education]]"
   - "[[Shape-Shifting]]"
@@ -162,7 +163,7 @@ updated: 2026-10-04
 
 > [!volume-structure] 全书结构
 > - **Section 1 / Ch. 01–10 — 学科的创建与再造（The Creation and Re-creation of a [[Champ\|field]]）** 反思学科起源神话、现代主义源头、科学[[Paradigm\|范式]]、国家理论、[[World-Systems Theory|世界体系分析]]与欧洲传统。（pp.3–157）
-> - **Section 2 / Ch. 11–20 — 政治形态与教育系统（Political Formations and Educational Systems）** 考察帝国主义与殖民遗产、民族国家建构、希腊/意大利国家形态、后社会主义转型与欧盟话语。（pp.161–334）
+> - **Section 2 / Ch. 11–20 — 政治形态与教育系统（Political Formations and Educational Systems）** 考察帝国主义与殖民遗产、民族国家建构、希腊/意大利国家形态、后社会主义转型与欧盟[[Discourse|话语]]。（pp.161–334）
 > - **Section 3 / Ch. 21–30 — 民族、国际与全球（The National, The International, and The Global）** 审视教育转移、流动与移民、原教旨与世俗主义、世界性、多元文化教育、[[Development Education|国际发展教育]]以及[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）与多边银行。（pp.337–495）
 > - **Section 4 / Ch. 31–40 — 工业化、[[Knowledge-Based Economy\|知识经济]]与教育（Industrialisation, Knowledge Economies and Education）** 分析公共教育分层、职业教育、评估国家（Evaluative State）、欧洲高教区重构、亚太市场化与[[Network Society\|网络社会]]。（pp.499–650）
 > - **Section 5 / Ch. 41–50 — 后殖民主义（Postcolonialism）** 深入探讨[[Post-colonial Theory\|后殖民理论]]、次撒哈拉非洲、性别与暴力、人权局限与社会正义。（pp.653–806）

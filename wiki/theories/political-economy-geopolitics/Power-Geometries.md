@@ -6,7 +6,7 @@ aliases:
 summary: "Massey 的空间理论概念，指空间中的开放、封闭和互联总是通过不平等的社会关系被建构和分配。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 14
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Classical Geopolitics]]"
   - "[[Relational Space]]"
+  - "[[Discourse]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Operationalization]]"
   - "[[Ontology]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: '2026-08-27'
+updated: 2026-10-07
 ---
 
 # Power-Geometries
@@ -63,7 +64,7 @@ updated: '2026-08-27'
 > [!example]
 > - vs [[Multiplicity\|多重性]] — 多重性强��空间中差异的共存和不可预测性，权力几何学则聚焦于这种差异共存中的不对称权力关系：多重性描述空间"是什么"，权力几何学追问空间"为谁而开放、对谁而封闭"
 > - vs [[Classical Geopolitics\|古典地缘政治]] — 古典地缘政治关注领土和军事硬实力，权力几何学关注的是[[Relational Space\|关系性空间]]中的流动控制权——谁能够自由移动、谁被固定在地方、谁的叙事定义了"中心"和"边缘"
-> - vs 依赖性（dependency） — 依赖性（如[[Dependency Theory\|依附理论]]）假定中心对边缘的单向剥削关系，权力几何学则容纳更复杂的不对称——例如，澳大利亚既是英语中心体系中的受益者（靠英语优势和签证政策吸引亚洲学生），又是英美中心体系中的半边缘者（在全球排名话语中没有定义权）
+> - vs 依赖性（dependency） — 依赖性（如[[Dependency Theory\|依附理论]]）假定中心对边缘的单向剥削关系，权力几何学则容纳更复杂的不对称——例如，澳大利亚既是英语中心体系中的受益者（靠英语优势和签证政策吸引亚洲学生），又是英美中心体系中的半边缘者（在全球排名[[Discourse|话语]]中没有定义权）
 
 ---
 
@@ -73,7 +74,7 @@ updated: '2026-08-27'
 > - **开放与封闭的不对称控制** — 空间的开放不是均等的：一些人（精英学者、跨国公司）可以自由跨越边界，另一些人（难民、低技能移民）则被系统性排斥。关键在于"互联关系的权力地图"（the map of power of openness）（Massey, 2005, pp. 93, 166, 171）
 > - **全球空间的制造者与承受者** — 在高等教育中，伦敦、英国和美国是"新自由主义资本主义全球"被生产出来的地点——这些地方的机构不仅受益于全球流动，更是全球空间不平等关系的制造者。顶尖英美大学既是知识网络的枢纽，也是全球不平等的生产场所([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 12]])
 > - **轨迹交汇中的权力差异** — 不同行动者的轨迹在空间中交汇，但他们在交汇中的议价能力完全不同。一位孟加拉国留学生与一所英国大学的"轨迹交汇"看似是双方自愿的市场交易，但大学设定学费、签证条件和学位标准，学生只能接受或离开([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 3–4, 12]])
-> - **空间想象的政治性** — 谁有权力"想象"空间并使其想象成为制度现实？2002/2003 年中国大学规划者和伦敦杂志共同"想象"了以校准排名排序的全球大学世界——但排名指标（以英美大学为模板）的确立权并不平等。排名话语定义了"世界一流"的模样，非英美大学只能在该话语内竞争([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 4–5]])
+> - **空间想象的政治性** — 谁有权力"想象"空间并使其想象成为制度现实？2002/2003 年中国大学规划者和伦敦杂志共同"想象"了以校准排名排序的全球大学世界——但排名指标（以英美大学为模板）的确立权并不平等。排名[[Discourse|话语]]定义了"世界一流"的模样，非英美大学只能在该话语内竞争([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 4–5]])
 
 ---
 

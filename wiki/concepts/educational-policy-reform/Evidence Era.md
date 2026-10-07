@@ -6,7 +6,7 @@ aliases:
 summary: "由 Helgetun & Menter 提出的教育治理范式概念，指教育政策合法化超越单纯依靠量化指标的测量时代，演进为借助学术引用、国际最佳实践、医学类比与随机对照试验等多维证据修辞确立正当性的治理新阶段"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Rationalized Myth]]"
   - "[[Governing by Numbers]]"
+  - "[[Discourse]]"
   - "[[Document]]"
   - "[[Reflexivity]]"
   - "[[Performance Indicators]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Evidence Era
@@ -68,7 +69,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示当代教育治理中政策合法化修辞从单一[[Governing by Numbers\|数字治理]]向全方位科学证据包装的范式演进。
-> - **用途** 帮助分析政策白皮书中的学术化引证风格、智库与专业团体在证据中介中的角色，以及循证修辞如何重构专业话语权。
+> - **用途** 帮助分析政策白皮书中的学术化引证风格、智库与专业团体在证据中介中的角色，以及循证修辞如何重构专业[[Discourse|话语]]权。
 > - **边界** 并不意味着政策制定真正变得完全由科学理性主导，而是指诉诸证据成为了政策合法化不可或缺的制度性仪式与文化认知脚本。
 
 > [!citation-card] 从测量时代向证据时代的范式演进
@@ -98,7 +99,7 @@ updated: 2026-09-17
 
 > [!feature] 核心要素
 > - **学术规[[Paradigm\|范式]]引文普及** 政策白皮书与指导文件普遍采用类似学术论文的标准引文格式与参考[[Document\|文献]]列表，以此彰显政策依据的透明度与客观性。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 91)]]
-> - **[[Epistemology\|认识论]]实验层级确立** 在政策话语中极度推崇以 [[Randomised Controlled Trials\|RCT]] 与系统评价为代表的因果实证研究，将医学临床范式作为教师教育改革的理想蓝图。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 90)]]
+> - **[[Epistemology\|认识论]]实验层级确立** 在政策[[Discourse|话语]]中极度推崇以 [[Randomised Controlled Trials\|RCT]] 与系统评价为代表的因果实证研究，将医学临床范式作为教师教育改革的理想蓝图。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 90)]]
 > - **去语境化国际参照** 广泛以[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）高表现国家（如芬兰、新加坡）作为有效实践的合法性来源。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91–92)]]
 > - **官方守门与代理机构扶植** 政府充当[[Gatekeepers\|守门人]]，定向扶植官方认可的专业代言机构（如[[Chartered College of Teaching\|特许教学学院]]）以排斥传统大学批判力量。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 93–94)]]
 
@@ -172,7 +173,7 @@ updated: 2026-09-17
 > - **[[Epistemology\|认识论]]全流程断裂** 政策引文常剥离原始学术研究的方法论[[Hypothesis\|假设]]与适用边界，导致去语境化政策干预在一线强制推行。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 96)]]
 
 > [!warning] 适用局限
-> 证据时代描述的是宏观政策话语与合法化机制的结构性演进，不宜被误读为一线教师教学决策已完全被学术研究所支配。
+> 证据时代描述的是宏观政策[[Discourse|话语]]与合法化机制的结构性演进，不宜被误读为一线教师教学决策已完全被学术研究所支配。
 
 ---
 

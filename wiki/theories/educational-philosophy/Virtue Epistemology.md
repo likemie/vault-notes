@@ -11,7 +11,7 @@ aliases:
 summary: "将认识论的关注焦点从命题信念的孤立确证转移到认知主体本身及其理智品格与认知官能；涵盖德性可靠论、德性责任论及面向智能时代的人机分布式德性认识论，为理智品格教育与探究教学提供规范性哲学基础。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 40
+theory_related_count: 41
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Epistemic Cognition]]"
   - "[[Inquiry-Based Learning]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Intellectual Emotions]]"
   - "[[Humility]]"
   - "[[Epistemic Value]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-09-23
+updated: 2026-10-07
 ---
 
 # Virtue Epistemology
@@ -103,7 +104,7 @@ updated: 2026-09-23
 > - **1980 年代 — 德性认识论转向肇始** Ernest Sosa 发表《德性认识论的漂流木》（The Raft and the Pyramid），首次正式引入“智识德性（Intellectual Virtue）”概念化解基础论与融贯论的百年争端，开创德性可靠论。
 > - **1990 年代 — 德性责任论确立** Lorraine Code 与 Linda Zagzebski（1996）发表《心智的美德》（Virtues of the Mind），将伦理学概念全面引入认识论，主张理智美德是受动机引导的可赞赏品格特质，奠定德性责任论大厦。
 > - **2010 年代 — [[Epistemic Cognition|认识论认知]]与品格教育融合** [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] 将理智美德与恶德正式纳入教育心理学“[[Expanded Framework of Epistemic Cognition|扩展的认识论认知框架]]”，开启德性认识论在科学教育与[[Inquiry-Based Learning|探究式学习]]中的实证化应用。
-> - **2026 年 — 智能时代与人机共生德性认识论** [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 将德性责任论拓展至生成式 AI 交互与教育技术哲学，提出通过[[Socrates|苏格拉底]]式提问导师（Q-Tutor）与[[Intellectual Emotions|理智情感]]激发防范[[Cognitive Deskilling|去技能化]]，重塑人机分布式智能生态下的理智品格培育路径。
+> - **2026 年 — 智能时代与[[Man-Computer Symbiosis|人机共生]]德性认识论** [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 将德性责任论拓展至生成式 AI 交互与教育技术哲学，提出通过[[Socrates|苏格拉底]]式提问导师（Q-Tutor）与[[Intellectual Emotions|理智情感]]激发防范[[Cognitive Deskilling|去技能化]]，重塑人机分布式智能生态下的理智品格培育路径。
 
 ---
 
@@ -160,7 +161,7 @@ updated: 2026-09-23
 
 ### 命题三　德性认识论为智能时代人机认知分工与去技能化防范提供规范性底座
 
-> [!concept-lens] 人机共生环境中的分布式[[Epistemic Agency|认识主体性]]与[[Cognitive Deskilling|去技能化]]
+> [!concept-lens] [[Man-Computer Symbiosis|人机共生]]环境中的分布式[[Epistemic Agency|认识主体性]]与[[Cognitive Deskilling|去技能化]]
 > 探讨在生成式 AI 深度介入[[Knowledge Production|知识生产]]的背景下，德性认识论如何为技术治理与教学交互提供规范指引。
 
 > [!claim] Naeem; Alfano
@@ -190,10 +191,10 @@ updated: 2026-09-23
 > > - **德性责任论派（Code, Zagzebski, Montmarquet, Baehr）** 坚持美德必须包含主体的[[Epistemology|认识论]]能动性与对真理的内在追求，强调主体对其信念状态负有认识责任。
 >
 > > [!axis] 个体主义认识论 vs 分布式/扩展德性认识论
-> > 探讨理智美德是否仅属于孤立的生物学个体，还是能够扩展并分布在人机协同网络与社会共同体中。
+> > 探讨理智美德是否仅属于孤立的生物学个体，还是能够扩展并分布在[[Man-Computer Symbiosis|人机协同]]网络与社会共同体中。
 > >
 > > - **传统个体派** 坚持理智品格只能归属于具备意识和道德自主性的人类主体。
-> > - **扩展/共生派（Alfano, Naeem）** 主张在人机共生系统中，技术[[AI Agent in Education|智能体]]可通过功能性提示与规则设计参与构成分布式认识回路，充当培育人类理智美德的外部支架。
+> > - **扩展/共生派（Alfano, Naeem）** 主张在[[Man-Computer Symbiosis|人机共生]]系统中，技术[[AI Agent in Education|智能体]]可通过功能性提示与规则设计参与构成分布式认识回路，充当培育人类理智美德的外部支架。
 >
 > > [!axis] [[Situative Perspective|情境主义]]质疑 vs 美德可教性
 > > 心理学情境主义（Situationism）批评传统德性论，认为人类行为主要由微观情境决定，不存在稳定跨情境的美德特质；德性教育家则主张理智习惯可通过系统训练内化。

@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Presence]]"
   - "[[Evidence Standards]]"
   - "[[Response to Proven Instruction]]"
+  - "[[Man-Computer Symbiosis]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Lightning Squad
@@ -131,5 +132,5 @@ updated: 2026-09-17
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Lightning Squad 列为技术辅助[[Teaching Assistant\|助教]]小组辅导（Tier 2，[[Effect Size\|效应量]] $+0.34$）达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的代表范例，系统论证教育技术扩增辅导效能的路径。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何以 Lightning Squad 等兼具低成本与高保真度的技术方案充实多层体系。
-> - [[Sound Partners]] — 经典人工一对一辅导方案，与 Lightning Squad 形成传统面对面辅导 vs 人机协同辅导的对比分析。
+> - [[Sound Partners]] — 经典人工一对一辅导方案，与 Lightning Squad 形成传统面对面辅导 vs [[Man-Computer Symbiosis|人机协同]]辅导的对比分析。
 > - [[Teaching Assistant]] — 教学助教主条目，分析技术辅助工具如何赋能非专业助教实现高阶教学支持。

@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 44
+fact_related_count: 45
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Output-Oriented Governance]]"
   - "[[Research Utilization]]"
   - "[[Epistemology]]"
+  - "[[Discourse]]"
   - "[[Creativity]]"
   - "[[Critical Thinking Assessment]]"
   - "[[Paradigm]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-11
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Centre for Educational Research and Innovation
@@ -145,7 +146,7 @@ updated: 2026-10-02
 ## 影响与体系成效
 
 > [!indicators]- 影响力维度与指标
-> - **理念先导力** 率先将[[Lifelong Learning\|终身学习]]与高阶认知素养植入全球政策话语，深刻塑造了 20 世纪下半叶以来的跨国教育思潮。
+> - **理念先导力** 率先将[[Lifelong Learning\|终身学习]]与高阶认知素养植入全球政策[[Discourse|话语]]，深刻塑造了 20 世纪下半叶以来的跨国教育思潮。
 > - **制度孵化规模** 孕育的 [[International Indicators of Education Systems\|INES]] 与指标体系最终发展为调动数十个国家、囊括数十万数据点的全球测验帝国。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **多边协商建制** 推动设立 [[International Summits on the Teaching Profession\|ISTP]] 闭门峰会与吸纳教师工会进入核心治理层，打破了国际组织单一服务政府官僚的传统单极模式。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212)]]
 > - **工具采纳度** [[Creativity\|创造力]]与[[Critical Thinking Assessment\|批判性思维评价]]原型量规被欧美数十所高等院校与中小学直接采纳为校本课程嵌入式评价标准。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 28–30)]]

@@ -7,14 +7,14 @@ aliases:
 summary: "梁启超 1902 年引入的现代国族概念，经费孝通 1988 年以“多元一体”重新阐释后进入中共主流话语，指以当代物理领土或汉文化为边界、包容 56 个民族的单一国族共同体"
 type: concept
 domain: "chinese-philosophy"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
 confidence: high
 status: active
 created: '2026-05-25'
-updated: 2026-10-01
+updated: 2026-10-07
 tags:
   - region/china
   - theme/national-identity
@@ -23,6 +23,7 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Official Knowledge]]"
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Second-generation Ethnic Policy]]"
@@ -67,7 +68,7 @@ related_arguments:
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向官方主导的、将中国境内 56 个民族凝聚为单一国族共同体的政治与文化建构。
 > - **用途** 帮助研究者分析中国民族政策转向、历史教科书“[[Official Knowledge\|官方知识]]”构建，以及推广通用语言文字与“铸牢中华民族共同体意识”的合法性基础[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 97)]][[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 65)]]。
-> - **边界** 不等于单一的汉族或特定少数民族；在宪制话语中，后者被定义为构成中华民族整体的多元元素[[Argument_Xu_2024_CE\|(Xu, 2024, p. 576)]]。
+> - **边界** 不等于单一的汉族或特定少数民族；在宪制[[Discourse|话语]]中，后者被定义为构成中华民族整体的多元元素[[Argument_Xu_2024_CE\|(Xu, 2024, p. 576)]]。
 
 > [!citation-card]- 关键表述
 > 费孝通对中华民族的定义，试图将宪法中定义的多民族国家转变为具有族群多样性的单一国族。[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 101)]]
@@ -120,7 +121,7 @@ related_arguments:
 ### 命题一　中华民族“多元一体”话语服务于国家从多民族宪制向单一国族的同化主义转型
 
 > [!concept-lens] 国族建构与同化主义转向
-> 探讨“中华民族”话语如何从社会学学术概念演变为国家政治意志，并为推行[[Second-generation Ethnic Policy\|第二代民族政策]]与通用语言文字改革提供合法性。
+> 探讨“中华民族”[[Discourse|话语]]如何从社会学学术概念演变为国家政治意志，并为推行[[Second-generation Ethnic Policy\|第二代民族政策]]与通用语言文字改革提供合法性。
 
 > [!claim] Uradyn E. Bulag (2024)
 > **“多元一体”格局的同化导向与自我牺牲要求** [[Fei Xiaotong\|费孝通]] 1988 年提出的“中华民族多元一体格局”表面上强调多元与一体并存，实质上试图将宪法规定的多民族国家重构为单一国族政治实体。该话语赋予汉文化超自然的同化吸引力，将古代族际战争与近代非汉群体的牺牲解读为“不自觉”与“自觉”融入中华民族一体化的过程，为后来的第二代民族政策与熔炉同化提供了理论正当性[[Argument_Bulag_2024_CE\|(Bulag, 2024, pp. 97, 101–105)]]。
@@ -179,7 +180,7 @@ related_arguments:
 > > - **胡鞍钢与胡联合（2011）** — 提出以交往、交流、交融为核心的第二代民族政策，主张模仿美国的国族“熔炉”同化模式，废除民族区域自治制度。这一主张被批评为模仿陈旧的熔炉同化论[[Argument_Bulag_2024_CE\|(Bulag, 2024, pp. 102–103)]]。
 >
 > > [!axis] 概念转换中的非意图合谋
-> > - **中西学界的概念置换** — 西方学界推动以“族群”取代宪法中的“民族”以解构大叙事，客观上被同化政策学者挪用为废除民族自治权的依据（认为民族既然是建构的即可政策拆除），达成非意图话语合谋[[Argument_Bulag_2024_CE\|(Bulag, 2024, pp. 101–103)]]。
+> > - **中西学界的概念置换** — 西方学界推动以“族群”取代宪法中的“民族”以解构大叙事，客观上被同化政策学者挪用为废除民族自治权的依据（认为民族既然是建构的即可政策拆除），达成非意图[[Discourse|话语]]合谋[[Argument_Bulag_2024_CE\|(Bulag, 2024, pp. 101–103)]]。
 >
 > > [!axis] 新清史与文明底色的冲突
 > > - **清朝身份的主权争议** — 中华民族[[Grand Theory\|宏大叙事]]无法容忍新清史学者强调清朝满族统治者内陆亚洲特异性身份的研究，官方常将其定性为分裂学术阴谋[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 106)]]。
@@ -197,7 +198,7 @@ related_arguments:
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Bulag_2024_CE\|Bulag (2024)]] — 探究了中华民族复兴[[Retrotopia\|怀旧乌托邦]]在内蒙古语言改革与民族同化政策中的实践。
-> - [[Argument_Xu_2024_CE\|Xu (2024)]] — 对中国历史教科书中的中华民族族裔文化观与领土观进行了实证话语对比分析。
+> - [[Argument_Xu_2024_CE\|Xu (2024)]] — 对中国历史教科书中的中华民族族裔文化观与领土观进行了实证[[Discourse|话语]]对比分析。
 > - [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] — 实证分析 217 册必修教材中“中华民族”话语的汉儒正统化及其在少数民族学生中的[[Reflexivity\|反思性]]回应。
 > - [[2020 Inner Mongolia Bilingual Education Reform]] — 国家为推广通用语言文字与铸牢中华民族共同体意识而实施的语言替代性改革实证案例。
 > - [[Xinjiang Vocational Education and Training Centers]] — 官方以铸牢中华民族共同体意识为名实施的同化与职业培训设施案例。

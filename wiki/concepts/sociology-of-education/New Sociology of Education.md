@@ -6,7 +6,7 @@ aliases:
 summary: "1970年代英国教育社会学的问题转向，将学校知识、课程和课堂过程本身视为教育不平等生产机制。"
 type: concept
 domain: "sociology-of-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Knowledge Questions]]"
   - "[[Creativity]]"
   - "[[Champ]]"
+  - "[[Discourse]]"
   - "[[Political Arithmetic]]"
   - "[[School Effectiveness]]"
 related_theories:
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: '2026-08-27'
+updated: 2026-10-07
 ---
 
 # New Sociology of Education
@@ -55,12 +56,12 @@ updated: '2026-08-27'
 > - [[Knowledge Questions\|知识问题]]化：NSE 将学校知识从“应被传授的内容”转化为“需要被解释的社会事实”，追问其分类、合法性和阶级效果([[Argument_Ball_2008_SR\|Ball, 2008, pp.657-659]])。
 > - 学校内部视角：学校不再只是机会分配制度中的一个环节，而成为新的社会学实验室；课堂、课程和教师实践进入持续的批判性研究目光([[Argument_Ball_2008_SR\|Ball, 2008, pp.657-658]])。
 > - 理论混合性：NSE 不是单一理论，而是由[[Phenomenology\|现象学]]、互动论、知识社会学、不同版本的马克思主义和批判教育研究构成的松散组合，因此同时具有[[Creativity\|创造力]]和内部张力([[Argument_Ball_2008_SR\|Ball, 2008, pp.659-660]])。
-> - 政策疏离：NSE 与国家政策的关系较弱，许多教育社会学家把直接服务政策看作没有意义甚至政治上可疑；这在政策[[Champ\|场域]]中留下空间，使新右派知识分子能够用自己的研究和话语介入教育争论。
+> - 政策疏离：NSE 与国家政策的关系较弱，许多教育社会学家把直接服务政策看作没有意义甚至政治上可疑；这在政策[[Champ\|场域]]中留下空间，使新右派知识分子能够用自己的研究和[[Discourse|话语]]介入教育争论。
 
 ## 治理含义
 
 > [!warning] 学校成为新的可见对象
-> NSE 对学校知识和教师实践的批判，原本旨在揭示福利学校如何再生产不平等；但这种目光也无意中把学校和教师专业知识暴露给新的政策干预。换言之，NSE 将“病理”从家庭转移到学校和教师身上，使学校成为后来管理科学、领导话语和 治理技术 能够进入的对象([[Argument_Ball_2008_SR\|Ball, 2008, pp.657-658]])。
+> NSE 对学校知识和教师实践的批判，原本旨在揭示福利学校如何再生产不平等；但这种目光也无意中把学校和教师专业知识暴露给新的政策干预。换言之，NSE 将“病理”从家庭转移到学校和教师身上，使学校成为后来管理科学、领导[[Discourse|话语]]和 治理技术 能够进入的对象([[Argument_Ball_2008_SR\|Ball, 2008, pp.657-658]])。
 
 ## 概念辨析
 

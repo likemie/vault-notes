@@ -8,7 +8,7 @@ aliases:
 summary: "英格兰基础教育治理转型中的核心政策取向，主张学校与教师承担自我改进的第一责任，依托多学院信托与教学学校联盟实现校际互助与证据扩散，将中央干预降至最低；其实践成效高度依赖学校的研究使用能力，并与延续的高压绩效问责体制存在深层结构性张力。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Performativity]]"
   - "[[School Leadership]]"
   - "[[Hypothesis]]"
+  - "[[Discourse]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Self-Improving School System
@@ -215,7 +216,7 @@ updated: 2026-10-02
 > [!debates] 学术争议
 >
 > > [!axis] 自我改进是真正的专业赋权还是国家责任的转嫁甩包袱
-> > 学界激烈争论去中心化自我改进究竟是释放了学校与教师的专业能动性，还是新自由主义治理下政府削减公共教育支出、转嫁改进失败责任的话语策略。
+> > 学界激烈争论去中心化自我改进究竟是释放了学校与教师的专业能动性，还是新自由主义治理下政府削减公共教育支出、转嫁改进失败责任的[[Discourse|话语]]策略。
 > >
 > > - **[[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]]** 指出自下而上探索具备积极价值，但若缺乏系统性能力建设与外部制度配套，自我改进的基石将极其不稳。
 > > - **批判政策学者** 认为将改进责任完全归咎于学校个体，掩盖了区域经济不平等与教育资源分配不公的结构性根源。

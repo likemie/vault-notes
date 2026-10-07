@@ -7,10 +7,10 @@ summary: "中国著名人类学家与社会学家，提出了中华民族多元�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1910"
 died: "2005"
 lifespan: "1910–2005"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Depoliticalization of Ethnic Policy]]"
   - "[[Second-generation Ethnic Policy]]"
   - "[[Boarding Schools]]"
+  - "[[Discourse]]"
   - "[[Official Knowledge]]"
 related_theories:
   - "[[Structural Functionalism]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-25'
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Fei Xiaotong
@@ -156,6 +157,6 @@ updated: 2026-10-02
 > [!entry-map]
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Zhonghua Minzu]] | 概念 | 重塑了中华民族的多元一体格局理论，成为官方民族政策转型的核心话语。 |
+> | [[Zhonghua Minzu]] | 概念 | 重塑了中华民族的多元一体格局理论，成为官方民族政策转型的核心[[Discourse\|话语]]。 |
 > | [[Official Knowledge]] | 概念 | 提供了领土型中国[[Paradigm\|范式]]，用于分析中国历史教科书中的国族认同建构。 |
 > | [[Boarding Schools]] | 概念 | 其整合话语被间接应用于论证少数民族寄宿教育及同化政策的合理性。 |

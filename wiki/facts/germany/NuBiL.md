@@ -12,9 +12,9 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2017–2021"
 initiator_organization: "明斯特大学（Universität Münster）、汉堡大学（Universität Hamburg）"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Hypothesis]]"
   - "[[Further Education]]"
+  - "[[Discourse]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Transfer Science]]"
   - "[[Homework]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-09-27
+updated: 2026-10-07
 ---
 
 # NuBiL
@@ -90,7 +91,7 @@ updated: 2026-09-27
 >   4. **象征性合规动机（Symbolische Nutzung）** 为迎合督导检查或校内[[Further Education|继续教育]]达标要求而被动引述学术术语，缺乏微观行为实质改变。
 > - **制约教师科研接触的关键制度与个人阻碍**
 >   - *日常教学沉重负荷与时间赤字*：繁杂琐碎的行政治理事务使教师极度缺乏深度阅读实证论文的时间窗口。
->   - *学术文本话语壁垒与方法学术语隔阂*：未经[[Transfer Translation Transformation|转译]]的统计模型与[[Meta-analysis|元分析]][[Effect Size|效应量]]让一线教师产生认知疏离。
+>   - *学术文本[[Discourse|话语]]壁垒与方法学术语隔阂*：未经[[Transfer Translation Transformation|转译]]的统计模型与[[Meta-analysis|元分析]][[Effect Size|效应量]]让一线教师产生认知疏离。
 >   - *对学院派脱离实际的固有防御偏见*：教师常将高校研究视为“象牙塔中不食人间烟火的理论说教”。
 
 ---

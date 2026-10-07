@@ -11,7 +11,7 @@ aliases:
 summary: "基于逻辑规则与领域证据，对多重线索与信息进行批判性审视、筛选、演绎推导并收敛至唯一最优解的确定性认知加工过程。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Convergent Thinking
@@ -195,7 +196,7 @@ updated: 2026-09-17
 > - **1960s — [[Remote Associates Test\|远距离联想测验]]的收敛测量** S. A. Mednick 研发远距离联想测验（RAT），开创了以“给定三词寻找唯一共同联结词”测度聚合[[Creativity\|创造潜能]]的[[Paradigm\|范式]]。
 > - **1980s–1990s — [[Creative Problem Solving\|创造性问题解决模型]]（CPS）整合** Isaksen & Treffinger 等将聚合思维正式嵌入 CPS 各阶段的“生成—聚焦”循环中。
 > - **2020–2025 年 — [[Meta-analysis\|元分析]]对思维类型干预效应的量化确立** [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 首次在大样本元分析中量化对比了外在[[Scaffolding\|脚手架]]对聚合思维（$g = 0.680$）与发散思维（$g = 1.167$）的差异化赋能规律。
-> - **2026 年 — 生成式 AI 与人机协同论证重构** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 系统揭示了生成式 AI 作为辩难对手促进聚合批判思维（$n=27$）与诱发[[Cognitive Offloading\|认知卸载]]（$n=21$）的机制分水岭。
+> - **2026 年 — 生成式 AI 与[[Man-Computer Symbiosis|人机协同]]论证重构** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 系统揭示了生成式 AI 作为辩难对手促进聚合批判思维（$n=27$）与诱发[[Cognitive Offloading\|认知卸载]]（$n=21$）的机制分水岭。
 
 ---
 

@@ -9,7 +9,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
 - nsw
 related_concepts:
   - "[[School Autonomy]]"
+  - "[[Discourse]]"
   - "[[School Choice]]"
   - "[[New Public Management]]"
   - "[[Operationalization]]"
@@ -34,7 +35,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: 2026-10-07
 ---
 ## 背景
 
@@ -59,7 +60,7 @@ updated: '2026-05-18'
 ## 实施情况
 
 > [!example] 实施情况
-> 利益相关者揭示了 LSLD 的实质与官方话语之间的尖锐矛盾（Keddie et al., 2020, IJLE, p.6-7）：
+> 利益相关者揭示了 LSLD 的实质与官方[[Discourse|话语]]之间的尖锐矛盾（Keddie et al., 2020, IJLE, p.6-7）：
 >
 > > "地方学校地方决策与家长选择或解放学校、或任何那些政治外表毫无关系。它是他们获取成本效率并在几乎所有学校运作领域削减成本的工具……是关于我们如何省钱……"（Edward, teacher union, NSW, p.6-7）
 >
@@ -77,7 +78,7 @@ updated: '2026-05-18'
 ## 争议与评论
 
 > [!warning] 争议与评论
-> - **表面话语与实际功能的分离** LSLD 的名称暗示赋权和解放，但利益相关者一致认为其实质功能是成本削减
+> - **表面[[Discourse|话语]]与实际功能的分离** LSLD 的名称暗示赋权和解放，但利益相关者一致认为其实质功能是成本削减
 > - **招聘困难** 即使在提供"每年 25 万澳元"激励的 NSW 部分地区，"没有人会接受……这是一种悲惨的存在。你将是一个孤独的人，在很长一段时间里"（Norman, bureaucrat, NSW, p.9-10）
 > - **比较视角** NSW 的 LSLD and WA 的 [[Independent Public Schools Western Australia\|IPS]]、Victoria 的自我管理学校共同构成澳大利亚各州不同版本的[[School Autonomy\|学校自主权]]改革光谱——NSW 因历史上集中化程度高，其权力下放的影响尤为显著
 
@@ -86,6 +87,6 @@ updated: '2026-05-18'
 > [!example] 相关概念／理论
 > - [[School Autonomy]] — LSLD 是 NSW 版的学校自主权改革
 > - [[Independent Public Schools Western Australia]] — WA 的并行政策，可作比较
-> - [[New Public Management]] — LSLD 体现了 NPM 经济效率话语在学校治理中的[[Operationalization\|操作化]]
+> - [[New Public Management]] — LSLD 体现了 NPM 经济效率[[Discourse|话语]]在学校治理中的[[Operationalization\|操作化]]
 > - [[Gonski Reforms]] — Gonski 改革与 LSLD 下的公平资金分配直接相关
 

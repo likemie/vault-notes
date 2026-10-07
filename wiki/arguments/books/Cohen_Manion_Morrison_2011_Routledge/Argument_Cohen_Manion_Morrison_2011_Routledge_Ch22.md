@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_display_title: "Research Methods in Education · Ch22"
 argument_kind: "book-chapter"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Reliability]]"
   - "[[Habitus]]"
+  - "[[Discourse]]"
   - "[[Ideal Speech Situation]]"
   - "[[Definition of Terms]]"
   - "[[Reflexivity]]"
@@ -355,7 +356,7 @@ Bliss 等人（1983）识别了评判网络充分性的若干标准（p.453）�
 ### 22.6 话语分析
 
 > [!def] 话语分析
-> [[Discourse Analysis\|话语分析]]与陈述法共享对情境中的语言的关注，但有独立的传统和分析焦点。话语研究者探索日常谈话和日常解释的组织，以及其中执行的**社会行动**。收集、转录和分析话语数据构成了一种心理学自然史（Edwards & Potter, 1993）。话语可被视为在组织上和内容上具有连贯性的语言材料集合，使人们能够在社会情境中建构意义（Coyle, 1995, p. 245）。对**意义建构**的强调表明了话语分析的**行动视角**。语言不只是描述世界，也在做事情（p.454）。
+> [[Discourse Analysis\|话语分析]]与陈述法共享对情境中的语言的关注，但有独立的传统和分析焦点。[[Discourse|话语]]研究者探索日常谈话和日常解释的组织，以及其中执行的**社会行动**。收集、转录和分析话语数据构成了一种心理学自然史（Edwards & Potter, 1993）。话语可被视为在组织上和内容上具有连贯性的语言材料集合，使人们能够在社会情境中建构意义（Coyle, 1995, p. 245）。对**意义建构**的强调表明了话语分析的**行动视角**。语言不只是描述世界，也在做事情（p.454）。
 
 #### 哈贝马斯批判理论的关联
 
@@ -564,7 +565,7 @@ Heath（1982）的经典研究是陈述法在教育研究中应用的最完整�
 >
 > *Helpful as the choice of an expressive coding mood or neat use of indentation or brackets may be, the code actually says no more than the network distinguishes.*
 
-> [!citation-card]- Edwards 论课堂话语中的权力不对称
+> [!citation-card]- Edwards 论课堂[[Discourse|话语]]中的权力不对称
 > 教师非常有效地控制着课堂谈话，通过告诉学生何时说话、谈论什么以及他们说得有多好，在课堂中再生产权力不对称。（第22章, p.457）
 >
 > *Teachers control classroom talk very effectively, reproducing asymmetries of power in the classroom by telling the students when to talk, what to talk about, and how well they have talked. (Edwards, 1980)*

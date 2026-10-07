@@ -9,7 +9,7 @@ title: "Argument_Partaken_2022_Springer"
 argument_key: "Argument_Partaken_2022_Springer"
 argument_display_title: "Two faces of geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 46
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Forced Knowledge Transfer]]"
   - "[[Typification]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Discourse]]"
   - "[[Hypothesis]]"
   - "[[Fourth Industrial Revolution]]"
   - "[[Incommensurability]]"
@@ -126,7 +127,7 @@ citation_aliases:
 
 > 这一步建立了分析的历史纵轴：同一句"知识即权力"，在 Bacon 笔下是上帝全知的神学属性，到 19 世纪德国地理学家手中则成为帝国扩张的行动纲领——说明知识与权力的关系本身就是历史地变迁的，概念被不同时代的力量重新定义和征用。
 
-**观察 3** 从词频数据看，"[[Geopolitics of Knowledge]]"话语在 1990 年代出现，2000 年代和 2010 年代迅速强化。2010 年后，"知识"已超过能源、石油、资本主义等传统议题，成为"geopolitics of *"后面最常见的名词——意味着当代地缘政治中最密集的书写和辩论已从自然资源争夺转向了知识争夺(p.68)。
+**观察 3** 从词频数据看，"[[Geopolitics of Knowledge]]"[[Discourse|话语]]在 1990 年代出现，2000 年代和 2010 年代迅速强化。2010 年后，"知识"已超过能源、石油、资本主义等传统议题，成为"geopolitics of *"后面最常见的名词——意味着当代地缘政治中最密集的书写和辩论已从自然资源争夺转向了知识争夺(p.68)。
 
 **提出核心问题** 后殖民研究通常将 GPK 的问题域界定为"[[Knowledge Production|知识生产]]"（knowledge production）——谁生产知识、以什么视角、为谁的利益。但这一视角是否抓住了 GPK 的全部？Partaken 提出反向[[Hypothesis|假设]]：GPK 的真正核心（epicenter）从殖民时代至今一直是[[Knowledge Transfer|知识转移]]（knowledge transfer）而非知识生产(p.68–69)。
 
@@ -249,7 +250,7 @@ Big Data 不仅是巨型数据仓库，更包含人们将数据语料转化为�
 ## 主要发现
 
 > [!success]
-> - "[[Geopolitics of Knowledge\|知识地缘政治]]"（geopolitics of knowledge）一词的使用频率在 2010 年后急剧上升，超过了围绕能源、石油等自然资源的 GPK 话语(p.68)
+> - "[[Geopolitics of Knowledge\|知识地缘政治]]"（geopolitics of knowledge）一词的使用频率在 2010 年后急剧上升，超过了围绕能源、石油等自然资源的 GPK [[Discourse|话语]](p.68)
 > - [[Narrative Knowledge\|叙事知识]](Lyotard, 1979/1984)处于急剧衰退中，原因不是后现代对[[Grand Theory\|元叙事]]的不信任，而是全球化中商业价值的"科学知识"得到国家和产业赞助(p.74–75, 83–84)
 > - 经济间谍活动确实能有效缩小技术差距：[[Argument_Glitz_2020_AER\|Glitz & Meyersson (2020)]] 对东德国家支持的经济间谍的大规模研究证明，东德通过间谍活动显著缩小了与西德的工业技术差距(p.77)
 > - 美国 FBI 截至 2019 年 7 月约有 1000 项对中国[[Economic and Industrial Espionage\|知识产权盗窃]]的调查(p.79)

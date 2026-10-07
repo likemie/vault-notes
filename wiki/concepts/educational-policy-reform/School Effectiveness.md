@@ -6,7 +6,7 @@ aliases:
 summary: "以学校差异解释学生成绩差异的研究取向，在政策中把学校转译为可测量、可比较、可干预的组织对象。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,6 +17,7 @@ tags:
   - region/uk
   - method/quantitative
 related_concepts:
+  - "[[Discourse]]"
   - "[[Professional Judgment]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Document]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-10-07
 ---
 
 # School Effectiveness
@@ -53,13 +54,13 @@ updated: 2026-05-23
 > [!abstract] 核心要素
 > - 学校中心解释：把低成就解释为学校组织、风气、教学质量和领导差异，而不是首先归因于阶级、族裔、家庭或学生特征([[Argument_Ball_2008_SR\|Ball, 2008, pp.663-664]])。
 > - 可测量结果：重视学生成绩和学校表现的可测量指标，并与教育市场化、绩效评价、教师问责和学校排名相互衔接([[Argument_Ball_2008_SR\|Ball, 2008, p.663]])。
-> - 改进话语：把学校区分为有效与无效、健康与有病、胜任与卓越，从而为审查、发展规划、自我评价和评估提供理由([[Argument_Ball_2008_SR\|Ball, 2008, pp.664-665]])。
+> - 改进[[Discourse|话语]]：把学校区分为有效与无效、健康与有病、胜任与卓越，从而为审查、发展规划、自我评价和评估提供理由([[Argument_Ball_2008_SR\|Ball, 2008, pp.664-665]])。
 > - 技术化教师：教师和校长被呈现为技能和能力的集合，其[[Professional Judgment\|专业判断]]不再足以保证秩序与生产力，而可能被视为需要管理的风险([[Argument_Ball_2008_SR\|Ball, 2008, p.665]])。
 
 ## 理论基础
 
 > [!tip]- 理论基础
-> 学校效能可以从 [[Governmentality]] 角度理解：它并不只是描述学校差异，而是在政策中构造出可检查、可比较、可矫正的学校对象。它通过中性指标、检查和改进话语，把学校转化为可治理的组织([[Argument_Ball_2008_SR\|Ball, 2008, pp.663-665]])。
+> 学校效能可以从 [[Governmentality]] 角度理解：它并不只是描述学校差异，而是在政策中构造出可检查、可比较、可矫正的学校对象。它通过中性指标、检查和改进[[Discourse|话语]]，把学校转化为可治理的组织([[Argument_Ball_2008_SR\|Ball, 2008, pp.663-665]])。
 
 ## 治理机制
 

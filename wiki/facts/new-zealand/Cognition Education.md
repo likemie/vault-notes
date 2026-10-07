@@ -11,7 +11,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Transfer Translation Transformation]]"
   - "[[School Leadership]]"
+  - "[[Discourse]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-23'
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Cognition Education
@@ -106,7 +107,7 @@ updated: 2026-09-22
 > [!warning]
 > - O'Neill 等指出，Cognition 同时具有慈善信托和营利公司结构，但 2015 年 Trust 的慈善捐赠仅约 251,000，只占当年 Cognition Group 总收入的 0.9%。与此同时，2012 至 2014 年公司向 Trust 的大额捐赠又使 Limited 连续报亏、无税负，这使其慈善地位（charitable status）与公共利益（public benefit）之间的关系受到质疑。([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp.71-73]])
 > - Hattie 在 Cognition Trust 董事会任职，同时又通过 VL 商业化获得版税。Johnson & Janzen 认为，即便这未必构成正式利益冲突，这种安排在观感上也至少是模糊的。([[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023, p.31]])
-> - 从 Johnson & Janzen 的批判视角看，Cognition 不只是承接了一本畅销书的培训业务，而是把新西兰市场化教育环境中已成形的 edu-business 平台，与 VL 的证据话语、品牌扩张和专业发展市场连接起来。([[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023, p.30-31]])
+> - 从 Johnson & Janzen 的批判视角看，Cognition 不只是承接了一本畅销书的培训业务，而是把新西兰市场化教育环境中已成形的 edu-business 平台，与 VL 的证据[[Discourse|话语]]、品牌扩张和专业发展市场连接起来。([[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023, p.30-31]])
 
 ## 相关概念／政策
 

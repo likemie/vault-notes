@@ -13,7 +13,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 40
+fact_related_count: 41
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Inhibitory Control]]"
   - "[[Social-Emotional Learning]]"
   - "[[Gamification]]"
+  - "[[Discourse]]"
   - "[[Educational Level]]"
   - "[[Affective Outcomes]]"
   - "[[Technical Rationality]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Baby PISA
@@ -139,7 +140,7 @@ updated: 2026-09-22
 
 > [!pathways]- 实施路径与品牌扩张逻辑
 > - **品牌霸权驱动的产品线裂变** [[Argument_Grey_2018_CE\|Grey & Morris (2018)]]揭示，跨国机构的扩张本质依赖其品牌霸权的溢出效应。当 [[PISA]] 在全球政治辩论中确立了无可动摇的“质量黄金标准”声誉后，OECD 便顺理成章地利用该品牌影响力向下延伸出“Baby PISA”，以此占领此前未被量化治理完全穿透的学前教育领域。
-> - **象征性共谋与危机倒逼采纳** 各国执政者倾向于利用 PISA 制造“本土教育落后”的恐慌修辞，而 OECD 策略性纵容此类扭曲，换取全球政策话语对自身量化公信力的依赖。这种机制制造出一种紧迫感：决策者认为若不从 5 岁开始建立量化追踪，国家将在未来的 PISA 跨国竞争中“输在起跑线上”，进而为采纳 Baby PISA 提供了强大的国内政治动能（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, pp. 125–126]]；[[Argument_Zhao_2020_JEC\|Zhao, 2020]]）。
+> - **象征性共谋与危机倒逼采纳** 各国执政者倾向于利用 PISA 制造“本土教育落后”的恐慌修辞，而 OECD 策略性纵容此类扭曲，换取全球政策[[Discourse|话语]]对自身量化公信力的依赖。这种机制制造出一种紧迫感：决策者认为若不从 5 岁开始建立量化追踪，国家将在未来的 PISA 跨国竞争中“输在起跑线上”，进而为采纳 Baby PISA 提供了强大的国内政治动能（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, pp. 125–126]]；[[Argument_Zhao_2020_JEC\|Zhao, 2020]]）。
 
 ---
 

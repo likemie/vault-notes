@@ -10,7 +10,7 @@ aliases:
 summary: "从单一问题或起点向多个不同方向生成多样化、新颖与丰富构想的认知探索过程，是创造潜能与发散性认知加工的核心操作化构念。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Heterogeneity]]"
   - "[[Problem Finding]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Creativity Training]]"
   - "[[Working Memory]]"
   - "[[Graphic Organizer]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # Divergent Thinking
@@ -138,7 +139,7 @@ updated: 2026-09-24
 > - **独创性（Originality）** 构想在统计常模或参照群体中的罕见度与新颖性，是[[Creativity\|创造性]]评定的核心质性指标。
 > - **精细性（Elaboration）** 对核心构想进行结构化展开、细节补充、逻辑修饰与具体实施路径规划的程度。
 
-> [!logic-map]- 发散思维认知要素与人机协同加工路径
+> [!logic-map]- 发散思维认知要素与[[Man-Computer Symbiosis|人机协同]]加工路径
 > ```mermaid
 > flowchart TD
 >     A["开放性问题 / 劣构设计情境"] --> B["<b>发散思维加工系统</b>"]
@@ -202,7 +203,7 @@ updated: 2026-09-24
 
 ### 命题四　生成式 AI 具有发散构想催化与思维早熟收敛压制的双向调节效应
 
-> [!concept-lens] 人机协同发散与心智惰性风险
+> [!concept-lens] [[Man-Computer Symbiosis|人机协同]]发散与心智惰性风险
 > 大模型在[[Problem Solving\|问题解决]]初期能极大降低构想门槛，但自由使用下极易诱发思维早熟收敛与主体性剥落。
 
 > [!claim] Urban et al.; Awal; Li et al.
@@ -298,7 +299,7 @@ updated: 2026-09-24
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 7)]] | 全球 67 项高等教育实证研究（2022–2025） | [[Systematic Review\|系统综述]]与主题综合（PRISMA 2020 框架） | 构想拓展与发散思维主题（Ideation Expansion & DT） | 31 项实证研究报告 ChatGPT 显著提升了学生在开放任务中的构想广度与发散思维流畅性 | 87% 研究 MMAT $\ge 80\%$ | 确立发散思维是[[Generative Artificial Intelligence\|生成式 AI]] 最广泛激发的认知维度 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 8)]]（引述 Urban et al., 2024） | 捷克高校大学生实验（$N = 120$） | 准实验组间对比设计 | [[Torrance Tests of Creative Thinking\|TTCT]] 与 [[Alternate Uses Test\|AUT]] 测验表现 | AI 辅助组在发散流畅性与精细性得分上显著优于无技术辅助控制组 | $p < .01$ | 证实生成式 AI 具有激发发散思维流畅性的直接测验增益 |
 > | 同上（引述 Awal, 2024） | 创意写作专业大学生 | 质性个案追踪与过程记录 | 发散探索持续性与构想收敛速度 | 超 45% 的学生在获得首个 AI 生成的故事大纲后立即终止自主[[Brainstorming\|头脑风暴]] | — | 揭示缺乏反思支架时发散探索极易发生思维早熟收敛 |
-> | [[Argument_Smith_2026_SPE\|(Smith, 2026, p. 7)]]（引述 He et al., 2024） | 头脑风暴与创意生成团队 | 质性调查与人机协同行为追踪 | AI 辅助头脑风暴的构想特征与认知影响 | 团队普遍报告借助 AI 头脑风暴生成的发散构想趋向高度均质化（more homogenous），且担忧过度依赖会滋生思维惰性 | — | 证实生成式 AI 构想发散在真实协作中存在算法同质化与能动性消解瓶颈 |
+> | [[Argument_Smith_2026_SPE\|(Smith, 2026, p. 7)]]（引述 He et al., 2024） | 头脑风暴与创意生成团队 | 质性调查与[[Man-Computer Symbiosis\|人机协同]]行为追踪 | AI 辅助头脑风暴的构想特征与认知影响 | 团队普遍报告借助 AI 头脑风暴生成的发散构想趋向高度均质化（more homogenous），且担忧过度依赖会滋生思维惰性 | — | 证实生成式 AI 构想发散在真实协作中存在算法同质化与能动性消解瓶颈 |
 
 ---
 
@@ -307,7 +308,7 @@ updated: 2026-09-24
 > [!example] 典型教学应用案例
 > - **空间[[Mind Mapping\|思维导图]]驱动的放射状[[Brainstorming\|头脑风暴]]（[[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al., 2026]]）**
 >   在开题构思阶段，学生使用放射状思维导图（$g = 1.041$）从核心问题向外延伸至少 4 级分支，通过强制空间展开克服线性思维障碍，最大化激活观念灵活性。
-> - **人机协同“粗糙原料二次解构”创意工作坊（Cake, 2025; [[Argument_Li_2026_CEAI\|Li et al., 2026]]）**
+> - **[[Man-Computer Symbiosis|人机协同]]“粗糙原料二次解构”创意工作坊（Cake, 2025; [[Argument_Li_2026_CEAI\|Li et al., 2026]]）**
 >   学生利用 ChatGPT 快速生成 10 种跨学科解题设想，随后教师介入要求学生对这 10 种设想进行批判性解构，挑出其中 3 个进行反直觉重组，有效化解了 45% 的早熟收敛风险。
 > - **言语符号即时[[Externalization\|外化]]与显式原创指导微工作坊（[[Argument_Guo_2025_TSC\|Guo et al., 2025]]）**
 >   在 4–8 周（$< 2$ 个月）的模块化工作坊中，采用[[Alternate Uses Test\|另类用途测验]]（AUT）结合显式指导语鼓励与同伴口头观念碰撞，通过言语符号快速激活远距离语义网络，产生 $g = 0.998$ 的极高发散增益。

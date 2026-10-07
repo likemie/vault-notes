@@ -10,7 +10,7 @@ aliases:
 summary: "二十世纪大型工业企业设立的内部中央研发机构，涵盖从前沿基础研究到终端产品开发的全链条创新；1980年代起因市场竞争与股东短期回报压力而衰落，引发国家创新系统中基础研究与系统集成能力的结构性空白。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Competitiveness]]"
   - "[[Absorptive Capacity]]"
+  - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Document]]"
   - "[[Innovation Ecosystem]]"
@@ -205,7 +206,7 @@ updated: 2026-10-07
 > > 中央实验室的丰硕科学产出是否真正转化为其母公司的商业竞争力。
 > >
 > > - **转化脱节批评** Xerox PARC 发明了个人电脑 GUI、以太网与鼠标，但商业红利几乎全被苹果与微软攫取；AT&T [[Bell Labs|贝尔实验室]]发明晶体管与 Unix，母公司却因反垄断受限而未能垄断芯片与软件市场。
-> > - **战略期权辩护** 基础科学研究为母公司提供了无可估量的[[Absorptive Capacity|吸收能力]]（Absorptive Capacity）与全球电信标准话语权，其技术外溢构成了整个美国信息经济繁荣的底座。
+> > - **战略期权辩护** 基础科学研究为母公司提供了无可估量的[[Absorptive Capacity|吸收能力]]（Absorptive Capacity）与全球电信标准[[Discourse|话语]]权，其技术外溢构成了整个美国信息经济繁荣的底座。
 
 > [!warning] 适用局限
 > 建立企业中央实验室高度依赖超额垄断利润与稳定的非竞争性市场环境。在充分竞争或轻资产数字软件行业，强行复制重资产中央实验室模式极易导致研发与市场脱节、陷入沉没成本陷阱。

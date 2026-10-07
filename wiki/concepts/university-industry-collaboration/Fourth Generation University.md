@@ -10,7 +10,7 @@ aliases:
 summary: "Malkov et al.（2024）提出的大学代际演化框架，第四代大学在教学、研究与经济参与之外强调直接参与复杂社会挑战的解决，哥伦比亚大学将其类似理念称为第四宗旨（Fourth Purpose）"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Knowledge Exchange]]"
   - "[[Knowledge Production]]"
   - "[[Entrepreneurial University]]"
+  - "[[Discourse]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-30
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Fourth Generation University
@@ -69,7 +70,7 @@ updated: 2026-10-03
 > - **第三代**[[Entrepreneurial University\|创业型大学]]（[[Entrepreneurial University]]），教学 + 研究 + 经济参与（Etzkowitz et al., 2000）
 > - **第四代** 第四代大学，教学 + 研究 + 经济参与 + 社会挑战解决方案
 
-> 第四代话语的出现在一定程度上反映了[[Third Mission\|第三使命]]在制度化数十年后，大学正在寻找超越经济量化指标的社会价值叙事（pp.161-162）。
+> 第四代[[Discourse|话语]]的出现在一定程度上反映了[[Third Mission\|第三使命]]在制度化数十年后，大学正在寻找超越经济量化指标的社会价值叙事（pp.161-162）。
 
 ---
 

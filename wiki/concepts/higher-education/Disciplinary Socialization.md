@@ -8,7 +8,7 @@ aliases:
 summary: "高等教育中的认知涵化机制，指大学生在进入特定院系专业后，逐步内化该学科独特的认识论范式、话语体系、思维习惯与价值规范的过程，与入学前的自我选择效应共同驱动学科间的认知分化。"
 type: concept
 domain: "higher-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Enculturation]]"
   - "[[Epistemology]]"
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Epistemological Beliefs]]"
   - "[[Hypothesis]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Disciplinary Socialization
@@ -50,7 +51,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 学科社会化（Disciplinary Socialization），又称学科涵化（Disciplinary [[Enculturation]]），指学生在接受特定学科专业的高等教育过程中，通过课程讲授、学术评价、师生互动与同行文化熏陶，逐步吸收并内化该学科特有的[[Epistemology\|认识论]]规范、概念话语、思维[[Paradigm\|范式]]与认知习惯的过程。它强调学科并非单纯的知识信息载体，而是一种强有力的认知亚文化环境，持续重塑学生的认识论图式。[[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007, pp. 351–352)]]
+> 学科社会化（Disciplinary Socialization），又称学科涵化（Disciplinary [[Enculturation]]），指学生在接受特定学科专业的高等教育过程中，通过课程讲授、学术评价、师生互动与同行文化熏陶，逐步吸收并内化该学科特有的[[Epistemology\|认识论]]规范、概念[[Discourse|话语]]、思维[[Paradigm\|范式]]与认知习惯的过程。它强调学科并非单纯的知识信息载体，而是一种强有力的认知亚文化环境，持续重塑学生的认识论图式。[[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007, pp. 351–352)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学科专业共同体对学生知识观、推理逻辑与学术行为的系统性涵化机制（"learn correct diction or couth behavior", Perry 1970）。
@@ -84,7 +85,7 @@ updated: 2026-09-17
 
 > [!feature] 学科社会化的核心要素
 > - **学科[[Epistemology\|认识论]]文化的浸润** 不同学科在知识确定性、[[Paradigm\|范式]]共识与真理标准上存在本质差异（Biglan 学科分类），硬科学与工程强调公理标准，文社科强调多重视角解构。
-> - **专业评价与隐性话语规范** 考试形式、论文评阅标准与导师学术期望，不断奖赏符合本学科认识论规范的思考方式，惩罚或淘汰异质思维。
+> - **专业评价与隐性[[Discourse|话语]]规范** 考试形式、论文评阅标准与导师学术期望，不断奖赏符合本学科认识论规范的思考方式，惩罚或淘汰异质思维。
 > - **认知图式的累积极化效应** 随着就读年限增加，不同学科环境持续反向拉大软硬学科学生在确定性信念与反思能力上的差距。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, p. 363)]]
 
 > [!logic-map]- 学科分化的双重机制因果链
@@ -127,7 +128,7 @@ updated: 2026-09-17
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1970 — 发展心理学提出涵化机制** Perry (1970) 在哈佛本科生追踪中指出，大学学术共同体通过日常话语（"diction and couth behavior"）将学生涵化进更成熟的[[Epistemology\|认识论]]体系。
+> - **1970 — 发展心理学提出涵化机制** Perry (1970) 在哈佛本科生追踪中指出，大学学术共同体通过日常[[Discourse|话语]]（"diction and couth behavior"）将学生涵化进更成熟的[[Epistemology\|认识论]]体系。
 > - **1973–1993 — 学科分类与横截面关联** Biglan (1973) 提出软硬学科分类，Jehng et al. (1993) 与 Paulsen & Wells (1998) 发现硬学科学生持有更幼稚的确定性信念，但受限于横截面设计无法排除生源自我选择。
 > - **2007 — 纵向因果分离与双重机制确立** [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] 基于 [[TOSCA]] 两波纵向数据，首次在统计上成功剥离自我选择与学科社会化效应，确立了学科社会化的因果解释力。
 

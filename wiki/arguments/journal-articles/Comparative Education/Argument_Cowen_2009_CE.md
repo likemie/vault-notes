@@ -9,7 +9,7 @@ title: "Argument_Cowen_2009_CE"
 argument_key: "Argument_Cowen_2009_CE"
 argument_display_title: "The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327"
 argument_kind: "journal-article"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Auslandspadagogik]]"
   - "[[Bildung]]"
+  - "[[Discourse]]"
   - "[[Cult of Efficiency]]"
   - "[[Educated Identity]]"
   - "[[International Education]]"
@@ -177,7 +178,7 @@ citation_aliases:
 > 转移是更广泛的跨国流动性的一部分。历史与现实中的教育流动性包含三种层层递进的形态，它们展示了教育与社会变迁之间深刻的交互网络（pp.317–320）。
 
 > [!timeline] 第一形态：人的物理流动历史轨迹
-> 表现为移民与难民大规模物理迁移的历史图景。这种物理流动不仅改变了学校的治理结构与话语（如埃利斯岛大移民催生[[Cult of Efficiency\|效率崇拜]]与科层集权化治理），也使[[Educated Identity\|受教育身份]]极其复杂，需要诉诸德国社会学传统中的移情式理解（Verstehen）以把握身份在流散中的[[Shape-Shifting\|形变]]与创伤（pp.317–318）。
+> 表现为移民与难民大规模物理迁移的历史图景。这种物理流动不仅改变了学校的治理结构与[[Discourse|话语]]（如埃利斯岛大移民催生[[Cult of Efficiency\|效率崇拜]]与科层集权化治理），也使[[Educated Identity\|受教育身份]]极其复杂，需要诉诸德国社会学传统中的移情式理解（Verstehen）以把握身份在流散中的[[Shape-Shifting\|形变]]与创伤（pp.317–318）。
 > - **19世纪至20世纪初（美国大移民潮与学校系统治理化）** 欧洲大批移民通过纽约埃利斯岛涌入，极大地改变了美国大都市的人口结构。面临异质人群的涌入，教育家和政策制定者展开了关于学校治理的大规模实验。这一物理流动直接促成了以泰勒制为蓝本的[[Cult of Efficiency\|效率崇拜]]（Callahan, 1962）以及城市学校行政集权化的单一最佳系统（Tyack, 1974）的诞生。学校不再是简单的拼贴机构，而被重塑为行使社会控制、同化外来人口并灌输民主与工业纪律的科层制机器（p.317）。
 > - **1930年代（经济大萧条与内部流动应对）** 经济崩溃和中西部沙尘暴灾难催生了美国历史上最大规模的内部流民潮。大量失业人口和家庭流离失所，学校系统必须调整自身的边界：不仅要提供基础知识，还被迫承担起社会福利、职业再培训、儿童救济以及心理安抚等复合功能，成为联邦政府应对深层社会危机、重构地方社会秩序的基本抓手（Cremin, 1980）。
 > - **1945年（二战后欧洲难民潮与制度重建）** 二战的终结伴随着边界重划与数百万流离失所者的跨国大迁移。面对全欧洲范围内的教育断层与难民儿童融合问题，[[International Education\|国际教育]]合作急剧加速。比较教育学界在伦敦大学教育研究院《教育年鉴》的主导下，立即针对战后废墟上的学校体制重组、反法西斯去军事化以及异质文化人口的融合政策展开系统研讨（Judt, 2007）。

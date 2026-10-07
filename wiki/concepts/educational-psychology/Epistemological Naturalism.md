@@ -6,7 +6,7 @@ aliases:
 summary: "一种主张将认识论从先验哲学转向利用心理学和认知科学的实证方法，研究人类实际信念生成机制与社会实践的哲学转向。"
 type: concept
 domain: "educational-psychology"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -15,6 +15,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Scientific Method]]"
   - "[[Praxis]]"
+  - "[[Discourse]]"
   - "[[Reliability]]"
   - "[[Causal Processes]]"
   - "[[Hypothesis]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Epistemological Naturalism
@@ -66,7 +67,7 @@ updated: 2026-09-17
 > [!contrast-table] 概念辨析
 > | 维度 | 自然化[[Epistemology\|认识论]] | 传统规范性认识论 | 极端相对主义 |
 > |------|--------|----------------|----------------|
-> | 分析对象 | 真实的人类大脑、心理机制与社会[[Praxis\|实践]]。 | 理想化、抽象的认知主体。 | 权力结构与纯粹的话语建构。 |
+> | 分析对象 | 真实的人类大脑、心理机制与社会[[Praxis\|实践]]。 | 理想化、抽象的认知主体。 | 权力结构与纯粹的[[Discourse\|话语]]建构。 |
 > | 核心机制 | 寻找信念生成的因果机制及其在自然界的[[Reliability\|可靠性]]。 | 寻找先验的逻辑确证。 | 否认客观真理的存在，知识仅由语境决定。 |
 > | 适用范围 | 实证科学、认知科学、教育心理学。 | 哲学思辨、形式逻辑领域。 | 后现代文化研究、权力批判。 |
 

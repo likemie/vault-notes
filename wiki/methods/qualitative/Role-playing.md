@@ -12,7 +12,7 @@ summary: "一种让参与者在具身虚构情境中公开扮演他人角色的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 29
+method_related_count: 30
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Authentic Instruction]]"
   - "[[Critical Thinking]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Evaluativist]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Role-playing
@@ -76,7 +77,7 @@ updated: 2026-09-22
 > 角色扮演（Role-playing）是一种让参与者在“仿佛”（as-if）的具身或技术中介情境中有意识地代入特定角色的活动方式（Sellers, 2002, p. 498）。
 > - **作为教学策略（Pedagogy）** 属于[[Authentic Instruction\|真实性教学]]的核心子类，通过创设利益与价值冲突情境，促使学生代入特定社会或学术角色展开论辩与协商，强力激发换位思考并促进[[Critical Thinking\|批判性思维]]（[[Argument_Abrami_2015_RER\|Abrami et al., 2015, p. 287]]）。
 > - **作为[[Qualitative Research\|质性研究]]方法（Research Method）** 一种质性资料收集手段，研究者通过观察、录像与记录参与者在虚构情境中的即兴互动，探索难以通过[[Questionnaire\|问卷]]直接触及的深层内隐态度、价值取向与决策机制（Bolton & Heathcote, 1999, p. 57; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26\|Cohen et al., 2011, Ch. 26]]）。
-> - **作为人机共生提示支架（AI Role-playing Prompting）** 在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）学习情境中，指通过提示词指令大语言模型扮演特定认识角色（如[[Socrates\|苏格拉底]]式启发者、挑剔的同行审稿人或反方辩友），形成认知对抗与求证张力，引导学生承担评价者角色并向[[Evaluativist\|评价主义认识立场]]演进（[[Argument_Wu_2025_ER\|Wu et al., 2025, pp. 363–366]]）。
+> - **作为[[Man-Computer Symbiosis|人机共生]]提示支架（AI Role-playing Prompting）** 在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）学习情境中，指通过提示词指令大语言模型扮演特定认识角色（如[[Socrates\|苏格拉底]]式启发者、挑剔的同行审稿人或反方辩友），形成认知对抗与求证张力，引导学生承担评价者角色并向[[Evaluativist\|评价主义认识立场]]演进（[[Argument_Wu_2025_ER\|Wu et al., 2025, pp. 363–366]]）。
 
 > [!concept-lens] 方法透镜
 > - **多维定位** 既是[[Higher-Order Thinking Skills\|高阶思维]]培育的真实性教学策略与质性探索工具，也是人机协同中打破单向问答、构建多源反思情境的技术中介支架。
@@ -104,7 +105,7 @@ updated: 2026-09-22
 
 ## 核心操作程序与实施要点
 
-> [!proc] 角色扮演实施四阶段流程（含人机协同演化）
+> [!proc] 角色扮演实施四阶段流程（含[[Man-Computer Symbiosis|人机协同]]演化）
 > 1. **情境架构与角色卡设计（Framing & Role Prompts）**
 >    - 阐明核心困境（Dilemma）、争议约束条件与探究目标；
 >    - 为人类参与者提供背景卡，或为大模型编写系统提示词（System Prompt），明确其认知立场、专业边界与反问规则（如“你必须以挑剔审稿人身份指出我方案中的 3 个漏洞，绝不直接给出标准答案”）。
@@ -143,7 +144,7 @@ updated: 2026-09-22
 
 > [!method-fit] 适用场景
 > - 探讨涉及多方利益冲突、道德伦理或公共政策等劣构争议议题；
-> - 在人机协同中通过角色提示工程规避大模型顺应性幻觉，营造[[Socrates\|苏格拉底]]式研讨氛围；
+> - 在[[Man-Computer Symbiosis|人机协同]]中通过角色提示工程规避大模型顺应性幻觉，营造[[Socrates\|苏格拉底]]式研讨氛围；
 > - 获取难以通过标准化[[Questionnaire\|问卷]]测量的内隐态度与动态决策行为资料。
 
 > [!method-limits] 局限性与风险控制

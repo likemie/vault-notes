@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04"
 argument_display_title: "Research Methods in Education · Ch04"
 argument_kind: "book-chapter"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Causal Over-determination]]"
   - "[[Homework]]"
+  - "[[Hidden Curriculum]]"
   - "[[Exogenous and Endogenous Variables]]"
   - "[[Conatus]]"
   - "[[Rashomon Effect]]"
@@ -363,7 +364,7 @@ Reichenbach（1956）和 Salmon（1998）提出了**[[Screening Off|筛选隔离
 >
 > **分析** 数学成绩的提升可能不需要全部因素都同时存在，任何一项单独都足以产生效果。效果是过度决定的。这反驳了教育中某项干预**独自**改善了表现的常见主张（pp.63–64）。
 
-> [!example] 案例4：学校中的隐性课程与过度决定
+> [!example] 案例4：学校中的[[Hidden Curriculum|隐性课程]]与过度决定
 > **现象** 为什么年幼学童在学校中如此规矩，尽管没有人明确教过他们隐性课程（hidden curriculum，Jackson, 1968）的规则、规矩、轮流、分享、安静、知道教师掌管一切且拥有全部权力、忍受延迟和拒绝、以及只是必须争取教师注意的众多孩子之一？
 >
 > **过度决定的解释** 许多事件，无论是单独还是组合，都通向同一结果：幼童必须按被告知的去做；拥有愉快的学校体验取决于她如何有效地学会这些规则并遵守它们。**多因一果：好行为（p.63）**。

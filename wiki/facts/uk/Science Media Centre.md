@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ tags:
 related_concepts:
   - "[[Science Journalism]]"
   - "[[Scientific Literacy]]"
+  - "[[Discourse]]"
   - "[[Whole Language]]"
   - "[[Academic Achievement]]"
   - "[[Research Literacy]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-03'
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Science Media Centre
@@ -79,7 +80,7 @@ updated: 2026-10-02
 > - **成立时间 / 设立地点** 2002 年 4 月在伦敦正式投入运营，独立常设实体驻于威康信托基金会（Wellcome Trust）总部。([[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 56)]])
 > - **历史诱因与制度起源** 诞生于 20 世纪末英国狂牛病（BSE）、转基因农作物（GM Crops，当时媒体贬称为“科学怪人食品”Frankenfoods）与麻疹、腮腺炎和风疹三联疫苗（[[Mixed Methods Research\|MMR]] vaccine）引发的严重社会恐慌与媒体信任危机。英国上议院科学技术特别委员会（House of Lords Select Committee on Science and Technology）于 2000 年发布第三号报告《科学与社会》（*Science and Society*），明确呼吁创设独立的专业中介机构，重建新闻传媒界与科学共同体之间的互信机制。
 > - **机构属性与经费基础** 注册为独立慈善机构（Independent Charity），由独立受托人董事会与跨学科科学顾问委员会共同领导。为确立其中立性与公信力，机构执行严苛的“5% 资助红线”制度：任何单一企业、高校、慈善基金会或政府机构的资助上限不得超过年度运营总预算的 5%，经费来源高度分散于上百家科研学会、大学、媒体集团与公益信托。
-> - **核心宗旨与法定使命** 在科学议题成为大众媒体头条新闻的关键时刻，为新闻采编室快速提供客观、权威且经过同行评议检验的专家评述，确保公共话语建立在严谨实证依据之上，抵御煽动性炒作与伪科学操纵。
+> - **核心宗旨与法定使命** 在科学议题成为大众媒体头条新闻的关键时刻，为新闻采编室快速提供客观、权威且经过同行评议检验的专家评述，确保公共[[Discourse|话语]]建立在严谨实证依据之上，抵御煽动性炒作与伪科学操纵。
 
 ---
 
@@ -140,7 +141,7 @@ updated: 2026-10-02
 
 > [!tension] 受众维度的根本性拓展与反商业操纵防线（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 59–64]]）
 > - **从跑口记者延伸至寻求实证依据的广大大众** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022, pp. 62, 64)]] 指出，大众媒体导向型中介不仅服务于寻求事实核查的专业记者，其更深层的受众是“寻求理解大众传媒中教育与科学研究声称底层证据依据的广大大众（the broader public seeking to understand the evidence base）”。在后真相时代的碎片化舆论场中，中介机构承担起提升公民公共[[Scientific Literacy\|证据素养]]（[[Research Literacy\|研究素养]]）的民主基石功能。
-> - **反制商业利益操纵者（Spinners）与“证据知情”标签的利益绑架** 随着“证据驱动”话语成为主流，教育科技资本与商业咨询公司往往打着“证据知情”的公关护身符，通过挑选局部有利指标（Cherry-picking）包装商业软件或特定教学方案，使原本中立的“[[Boundary Spanner\|边界跨越者]]”（Boundary Spanners）蜕化为推销特定利益的“自利操纵者”（Spinners）（Lubienski, 2019; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 60]]）。SMC / EMC 模式以严格的独立性、同行评议标准与强制利益冲突申报，构成了抵御商业公关绑架、维护知识客观性的制度屏障。
+> - **反制商业利益操纵者（Spinners）与“证据知情”标签的利益绑架** 随着“证据驱动”[[Discourse|话语]]成为主流，教育科技资本与商业咨询公司往往打着“证据知情”的公关护身符，通过挑选局部有利指标（Cherry-picking）包装商业软件或特定教学方案，使原本中立的“[[Boundary Spanner\|边界跨越者]]”（Boundary Spanners）蜕化为推销特定利益的“自利操纵者”（Spinners）（Lubienski, 2019; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 60]]）。SMC / EMC 模式以严格的独立性、同行评议标准与强制利益冲突申报，构成了抵御商业公关绑架、维护知识客观性的制度屏障。
 
 > [!row-contrast] 全球科学与教育媒体中介协作网络谱系（SMC Global Network & EMC）
 > | 机构名称与国别 | 创立时间与常设地点 | 治理与经费机制 | 核心业务与辐射受众 | 学理价值与制度特征 |

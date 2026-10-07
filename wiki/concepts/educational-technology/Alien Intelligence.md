@@ -8,7 +8,7 @@ aliases:
 summary: "由 Braun & Meacham (2024) 提出并由 Smith (2026) 引入教育哲学的非拟人化技术本体论概念，指具备强大模式识别与符号输出能力但缺乏人类具身生活经验、情感共鸣与伦理关怀的非人类认知实体；在读写教学中作为打破算法权威、防范成长性认识不正义并引导批判性反思审问的核心教学防御防线。"
 type: concept
 domain: "educational-technology"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Reliability]]"
   - "[[Metacognition]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Scaffolding]]"
 related_theories:
   - "[[Formative Epistemic Injustice]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-23
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Alien Intelligence
@@ -124,7 +125,7 @@ updated: 2026-10-02
 ### 命题二　异己智能定位要求读写教学从被动采纳建议转向反向修辞审问与主动事实核查
 
 > [!concept-lens] 教学法与[[Metacognition|元认知]]审阅维度
-> 探讨如何将异己智能概念转化为课堂中具有可操作性的读写探究任务，重塑人机协同关系。
+> 探讨如何将异己智能概念转化为课堂中具有可操作性的读写探究任务，重塑[[Man-Computer Symbiosis|人机协同]]关系。
 
 > [!claim] Smith, S. J.
 > **对话角色的逆转与修辞反思激活** 当大语言模型被定性为异己智能时，学生不再是被动接收润色建议的受教者，而是转变为主动的修辞质询者。面对 AI 输出的高级词汇，学生必须追问：“为什么这个异己机器会给出这种词句？这种复杂表述是否违背了我作为人类作者向特定人类读者传递真实情感的交际意图？”这种批判性审问迫使学生激活高阶元认知，让算法输出沦为促进自我评估深化的[[Scaffolding|教学支架]]。[[Argument_Smith_2026_SPE|Smith (2026, p. 10)]]

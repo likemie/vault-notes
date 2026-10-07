@@ -10,7 +10,7 @@ summary: "通过引导大语言模型显式生成逐步推理路径以解决复�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 25
+method_related_count: 26
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -19,6 +19,7 @@ tags:
   - theme/ai-in-education
   - method/computational
 related_concepts:
+  - "[[Man-Computer Symbiosis]]"
   - "[[Scaffolding]]"
   - "[[Hypothesis]]"
   - "[[Unit of Analysis]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-09-23
+updated: 2026-10-07
 ---
 
 # Chain-of-Thought Prompting
@@ -63,7 +64,7 @@ updated: 2026-09-23
 ## 定义
 
 > [!def] 方法定义
-> 思维链提示（Chain-of-Thought Prompting, CoT）是一种通过在提示词（Prompts）中显式引入分步骤中间推理轨迹（Step-by-Step Reasoning Trajectories），引导大语言模型（Large Language Models, LLMs）将复杂、多步骤的认知推理任务分解为连贯推理序列的提示工程方法。在教育与人机协同学习视域下，CoT 不仅是提升算法在数学、统计学与逻辑推理准确率的技术工具，更是将模型黑盒式的直接答案输出转化为外显化、可观察、可模仿的认识[[Scaffolding\|脚手架]]（Cognitive Scaffolding）。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 366)]]; [[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 2–4)]]
+> 思维链提示（Chain-of-Thought Prompting, CoT）是一种通过在提示词（Prompts）中显式引入分步骤中间推理轨迹（Step-by-Step Reasoning Trajectories），引导大语言模型（Large Language Models, LLMs）将复杂、多步骤的认知推理任务分解为连贯推理序列的提示工程方法。在教育与[[Man-Computer Symbiosis|人机协同]]学习视域下，CoT 不仅是提升算法在数学、统计学与逻辑推理准确率的技术工具，更是将模型黑盒式的直接答案输出转化为外显化、可观察、可模仿的认识[[Scaffolding\|脚手架]]（Cognitive Scaffolding）。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 366)]]; [[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 2–4)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 大语言模型的人机交互提示语、复杂推理任务（如统计推论、算法设计、数理证明、逻辑论辩）及学习者的思维链外显记录。
@@ -71,7 +72,7 @@ updated: 2026-09-23
 > - **[[Unit of Analysis\|分析单位]]** 交互轮次（Dialogue Turns）、中间推理节点（Reasoning Steps）、提示语模板与生成文本逻辑流。
 > - **输出形式** 分步推理链条、中间参数推导轨迹、纠错反思文本与最终问题解答。
 
-> [!citation-card] 人机共生中的思维链技术干预功能
+> [!citation-card] [[Man-Computer Symbiosis|人机共生]]中的思维链技术干预功能
 > 在人机协同学习的双轨干预矩阵中，思维链策略通过指令大模型分步骤展示其推理过程，不仅能够显著减少算法偏差与事实幻觉，更为先验知识匮乏的学习者提供了清晰的思维脚手架，提升了人机交互的透明度与可解释性。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 366)]]
 >
 > *Using the chain of thoughts strategy by asking the [[Generative Artificial Intelligence\|GenAI]] to reflect on its generation of output step by step, learners can enhance the GenAI's performance by generating more unbiased and accurate output... making complex concepts easier to grasp.*
@@ -87,7 +88,7 @@ updated: 2026-09-23
 > - **不声称回答的问题** CoT 本身不能保证每一步前提的绝对真实性（当基底模型存在事实幻觉时，可能生成“看似条理分明却从错误前提推导”的伪逻辑），因此必须与检索增强生成（RAG）和人类多源溯源核验相结合。
 
 > [!method-stack] 方法层级
-> - **研究设计** 人工智能教育应用（AIEd）、人机协同学习实验、提示工程对比研究。
+> - **研究设计** 人工智能教育应用（AIEd）、[[Man-Computer Symbiosis|人机协同]]学习实验、提示工程对比研究。
 > - **数据收集** 人机多轮对话日志、思维链提示模板、分步推理评分量规。
 > - **分析方法**
 >   - 零样本思维链（Zero-Shot CoT，如提示语 `"Let's think step by step"`）

@@ -8,7 +8,7 @@ summary: "行动研究中最激进的一支，以哈贝马斯批判理论为认�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 30
+method_related_count: 31
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Critical Thinking Disposition]]"
   - "[[Humility]]"
   - "[[Theoretical Perspective]]"
+  - "[[Discourse]]"
   - "[[Dialogue in Education]]"
   - "[[Document]]"
 related_theories:
@@ -55,7 +56,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-19
-updated: 2026-09-23
+updated: 2026-10-07
 ---
 # Emancipatory Action Research
 
@@ -231,7 +232,7 @@ updated: 2026-09-23
 > - **削弱个体[[Teacher-as-Researcher\|教师即研究者]]** 偏袒自我批判的共同体，忽视了个体教师在课堂层面的能动性。[[Stephen Kemmis\|凯米斯]]与麦克塔格特（Kemmis & McTaggart, 1992, p. 152）自己也质疑为什么行动研究必须是群体过程
 > - **减少实践影响** 将行动研究局限于学术界的知识商品化，脱离改进实践的根本目的
 > - **促进服从** 通过对批判正统的盲从反而促进方法论服从，与解放的目标自相矛盾
-> - **精英主义** 以学术理论家的批判话语主导行动研究议程，却声称服务平等主义
+> - **精英主义** 以学术理论家的批判[[Discourse|话语]]主导行动研究议程，却声称服务平等主义
 > - **狭隘和特殊主义的解放观** 对什么是解放以及如何进行行动研究采用单一、排他的定义
 
 > [!note] 批评的综合判断

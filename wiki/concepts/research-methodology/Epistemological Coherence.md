@@ -7,7 +7,7 @@ aliases:
 summary: "指教育研究从问题界定、实地观察、数据分析直至政策转译与课堂应用的完整链条中，必须保持内在认识论逻辑的统一性与不间断性，用以抵御去语境化偏误与政策伪科学"
 type: concept
 domain: "research-methodology"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Discourse]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Document]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Epistemological Coherence
@@ -80,7 +81,7 @@ updated: 2026-09-17
 > *Important in this regard, we believe coherent logic should extend from the start of evidence production to application (where evidence-based policy continues that same logic), and not be broken at any point along the way... if the goal is to separate episteme from doxa and to [[Construct]] valid evidence for informing any practice, academics need to engage government with epistemological clarity; not just to stand up to nonsense, but to identify what is nonsense, how is it nonsense, and how can we avoid it.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Internal Validity\|内部效度]]（Internal Validity） — 内部效度仅检验实验设计内[[Independent Variable\|自变量]]与[[Dependent Variable\|因变量]]的因果关联强度；认识论连贯性关照证据外推至政策话语与实践操作时的全流程逻辑一致性。
+> - 不等于 [[Internal Validity\|内部效度]]（Internal Validity） — 内部效度仅检验实验设计内[[Independent Variable\|自变量]]与[[Dependent Variable\|因变量]]的因果关联强度；认识论连贯性关照证据外推至政策[[Discourse|话语]]与实践操作时的全流程逻辑一致性。
 > - 不等于 政策适宜性（Political Appropriateness） — 适宜性逻辑侧重方案在政治上是否易于被官员接受并顺利落地；认识论连贯性坚持科学逻辑与情境前提不可妥协。
 
 ---

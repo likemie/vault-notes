@@ -9,7 +9,7 @@ summary: "将规则主导的系统性程序与质性诠释深度融合的文本�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 54
+method_related_count: 55
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Content Validity]]"
   - "[[Determinism]]"
   - "[[Document]]"
+  - "[[Discourse]]"
   - "[[Meaningful Human Control]]"
   - "[[Interpretivism]]"
   - "[[Positivism]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Qualitative Content Analysis
@@ -120,7 +121,7 @@ updated: 2026-10-01
 > - **不声称回答的问题** QCA 不仅凭词频分布推断[[Determinism\|因果决定论]]，亦不脱离文本生产脉络进行抽象玄思。
 
 > [!method-stack] 方法层级
-> - **研究设计** 质性文本研究、探索性[[Mixed Methods Research\|混合方法]]设计、[[Document\|文献]]考据与政策话语评估。
+> - **研究设计** 质性文本研究、探索性[[Mixed Methods Research\|混合方法]]设计、[[Document\|文献]]考据与政策[[Discourse|话语]]评估。
 > - **数据收集** [[Semi-structured Interview\|半结构化访谈]][[Transcription in Qualitative Research\|转录]]、开放[[Questionnaire\|问卷]]文本、课堂互动录像文字稿、组织制度文本。
 > - **分析方法** 归纳总结性[[Content Analysis\|内容分析]]、阐释明确性内容分析、结构演绎性内容分析、形成性复核、领域归并。
 > - **辅助技术** [[Qualitative Computer Software\|CAQDAS]] 软件的编码树与交叉表功能、[[Meaningful Human Control|人在回路]]的文本分块与规则匹配。

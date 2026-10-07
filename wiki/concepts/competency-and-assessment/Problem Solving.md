@@ -10,7 +10,7 @@ aliases:
 summary: "指个体在面对阻碍且无直接算法可用时，通过表征初始状态、搜索算子空间、在多重约束下权衡取舍、应用启发式策略与现场排障调试，以克服障碍并达成目标状态的高级认知与实践过程。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Critical Thinking]]"
   - "[[Operationalization]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Phronesis]]"
   - "[[Creativity]]"
   - "[[Divergent Thinking]]"
@@ -91,7 +92,7 @@ updated: 2026-10-07
 > - **边界** 区别于已有现成套路的机械常规练习（Exercise）；亦区别于前期的敏锐察觉（[[Problem Finding|问题发现]]）与纯[[Reflexivity|反思性]]证据挑错（[[Critical Thinking|批判性思维]]）。
 
 > [!citation-card] 问题解决的核心界定与认知特征
-> 问题解决能力被[[Operationalization|操作化]]为面对劣构、复杂且无现成既定程序的情境时，学习者执行问题空间表征、边界约束分析、多路径探索、算法调试与方案验证优化的综合实践能力。在人机协同中，它表现为高强度的逻辑推演与程序性探索。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 7–8, 14)]]
+> 问题解决能力被[[Operationalization|操作化]]为面对劣构、复杂且无现成既定程序的情境时，学习者执行问题空间表征、边界约束分析、多路径探索、算法调试与方案验证优化的综合实践能力。在[[Man-Computer Symbiosis|人机协同]]中，它表现为高强度的逻辑推演与程序性探索。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 7–8, 14)]]
 >
 > *Problem-solving is operationalized as the comprehensive practical capacity to perform problem-space representation, constraint analysis, multi-pathway exploration, algorithmic debugging, and solution validation under ill-structured, complex contexts lacking ready-made procedures.*
 
@@ -116,7 +117,7 @@ updated: 2026-10-07
 > | **典型思维方式** | 目标导向搜索、手段-目的分析、多约束权衡 | [[Reflexivity\|反思性]]怀疑、证据求证、逻辑推理 | [[Divergent Thinking\|发散思维]]、远距离联想、概念重组 | [[Hypothesis\|假设]]检验、异常信号隔离、反向追踪与根因分析 |
 > | **认知/物理输入** | 具有阻碍的劣构或良构问题情境 | 既有的主张、论点、文本或事实证据 | 开放领域的多元刺激与跨界信息 | 产线设备报警、实验反常噪声、系统崩溃日志 |
 > | **终局产出形态** | 可行性解决方案、验证代码、行动方案 | 审慎的价值/事实判断、评价报告 | 新颖且适切的创意产品、理论原型 | 修复后的工作原型、良率达标产线、排障手册 |
-> | **人机协同促学机制** | **步骤天然契合** AI 提供多路径解法并协同排错 | **错误激发反思** AI 偶尔犯错（[[AI Hallucination\|幻觉]]）促使学生核对求证 | **内容同质化制约** 容易受常见套路与大众平庸方案束缚 | **虚实结合** AI 分析日志，人类专家手感排查物理故障 |
+> | **[[Man-Computer Symbiosis\|人机协同]]促学机制** | **步骤天然契合** AI 提供多路径解法并协同排错 | **错误激发反思** AI 偶尔犯错（[[AI Hallucination\|幻觉]]）促使学生核对求证 | **内容同质化制约** 容易受常见套路与大众平庸方案束缚 | **虚实结合** AI 分析日志，人类专家手感排查物理故障 |
 
 ---
 
@@ -163,7 +164,7 @@ updated: 2026-10-07
 > 探讨[[Generative Artificial Intelligence|生成式人工智能]]与自动化调试工具在问题解决生命周期中的认知[[Educational Affordances|可供性]]，分析其作为“思维副驾驶”对逻辑推演的赋能机制及其引发的心智懒惰风险。
 
 > [!claim] Zhao et al.
-> **程序性高度契合与[[Cognitive Offloading|认知外包]]反思机制** 问题解决对方案搜索、边界约束分析与迭代测试具有极高的程序性依赖。生成式人工智能具有高维向量关联与语法逻辑解析特质，能高效产出多种候选解法并辅助逻辑验证，与问题解决的程序性需求产生高度契合，从而在人机协同中充当强大的“思维副驾驶”。然而，若缺乏强有力的过程性监管与反思引导，学生极易滑向直接索取现成答案的“捷径式学习”，导致底层逻辑推演与手动排错能力的退化。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 14–15)]]
+> **程序性高度契合与[[Cognitive Offloading|认知外包]]反思机制** 问题解决对方案搜索、边界约束分析与迭代测试具有极高的程序性依赖。生成式人工智能具有高维向量关联与语法逻辑解析特质，能高效产出多种候选解法并辅助逻辑验证，与问题解决的程序性需求产生高度契合，从而在[[Man-Computer Symbiosis|人机协同]]中充当强大的“思维副驾驶”。然而，若缺乏强有力的过程性监管与反思引导，学生极易滑向直接索取现成答案的“捷径式学习”，导致底层逻辑推演与手动排错能力的退化。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 14–15)]]
 
 ---
 
@@ -195,7 +196,7 @@ updated: 2026-10-07
 > - **1970s — 信息加工与问题空间[[Paradigm|范式]]确立** 赫伯特·西蒙（[[Herbert A. Simon]]）与纽厄尔（Allen Newell）出版里程碑专著《人类问题解决》（*Human Problem Solving*），将思维形式化为在包含初始、中间与目标状态的“问题空间”中，运用启发式策略（如手段-目的分析 Means-Ends Analysis）进行符号搜索的加工系统。
 > - **1990s–2000s — 真实情境与复杂问题解决（[[Creative Problem Solving|CPS]]）转向** 学习科学突破良构实验谜题的局限，德国学者（如 Dörner, Funke）推动从良构逻辑走向动态、具有不透明性且包含多重[[Variable|变量]]互动的“复杂问题解决”（Complex Problem Solving, CPS），被 [[PISA]] 测评与[[OECD|经合组织]]（OECD）确立为未来[[21st Century Skills and Competencies Discourse|核心素养]]。
 > - **2010s — 工程[[Epistemic Practices|认识论实践]]与多约束设计融合** [[Engineering Education|工程教育]]研究将问题解决深化为多重物理与经济约束下的原型迭代与折中决策规程。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 154–157)]]
-> - **2020s — 人机协同与现场排障手艺的双重重塑** 生成式 AI 推动纯符号推演与代码排错的自动化，而科技界同时重新认识到物理硬件、实验仪器与制造产线现场排障（Troubleshooting）手艺的不可替代性。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–11)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52, 56)]]
+> - **2020s — [[Man-Computer Symbiosis|人机协同]]与现场排障手艺的双重重塑** 生成式 AI 推动纯符号推演与代码排错的自动化，而科技界同时重新认识到物理硬件、实验仪器与制造产线现场排障（Troubleshooting）手艺的不可替代性。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–11)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52, 56)]]
 
 ---
 

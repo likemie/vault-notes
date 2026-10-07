@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 41
+fact_related_count: 42
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Policy Brokerage]]"
   - "[[Performance Indicators]]"
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[School Choice]]"
@@ -139,7 +140,7 @@ updated: 2026-10-07
 > |:---|:---|:---|
 > | 核心行动者 | 里根政府、NCEE 委员会、工商企业领袖、各州保守派州长 | 全美教育协会（NEA）、[[American Federation of Teachers\|美国教师联盟]]（American Federation of Teachers，AFT）、进步教育学者 |
 > | 阶级／社会基础 | 跨国大工商业资本、保守派政治精英、郊区中产阶层 | 公立学校基层教师、工会力量、多元文化与少数族裔社区代表 |
-> | 核心价值话语 | 卓越标准、国家安全、经济竞争力、责任问责、绩效评估 | 教育公平、民主参与、公民权保障、全人发展、批判性思考 |
+> | 核心价值[[Discourse\|话语]] | 卓越标准、国家安全、经济竞争力、责任问责、绩效评估 | 教育公平、民主参与、公民权保障、全人发展、批判性思考 |
 > | 斗争策略 | 媒体危机动员、跨国横向比较数据借力、州立法硬性达标 | 质疑测试有效性、揭露财政拨款短缺、抗议去专业化与污名化 |
 >
 > **关键分歧** 双方的核心冲突在于：究竟应将教育定义为服务于国家在全球市场竞争胜出的经济武器与[[Human Capital Theory\|人力资本]]产出母体，还是保障社会民主平等与个体全面发展的公共事业。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 8–10)]]
@@ -151,7 +152,7 @@ updated: 2026-10-07
 > [!indicators]- 历史影响维度
 > - **制度创生与立法** 促成全美 45 个州大幅提高公立高中毕业学分与课程要求；促使美国联邦教育部得以在保守派裁撤风暴中幸存并扩权；直接孵化了[[OECD\|经合组织]] [[International Indicators of Education Systems\|INES]] 项目及后续 [[PISA]] 测评体系。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 10, 12)]]
 > - **思想[[Paradigm\|范式]]变迁** 彻底打破了战后早期的平等主义与社会补偿叙事，确立了“卓越”（Excellence）、标准、问责与以跨国数据为依据的[[Evidence-Based Education\|证据本位教育]]主导范式；实现了比较教育中的“比较转向”（Comparative Turn），将跨国横向比较确立为提升国家教育质量的最佳引擎。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
-> - **社会结构重塑** 话语焦点从 1960 年代[[Coleman Report 1966\|科尔曼报告]]强调的家庭背景与种族阶级结构，彻底转移至学校内部绩效；促成了以高利害测试和标准为基础的[[School Choice\|择校]]与绩效问责机制，强化了中产阶级与底层劳工学区之间的阶层分化。[[Argument_Downey_2016_SoE\|(Downey & Condron, 2016, p. 2)]]
+> - **社会结构重塑** [[Discourse|话语]]焦点从 1960 年代[[Coleman Report 1966\|科尔曼报告]]强调的家庭背景与种族阶级结构，彻底转移至学校内部绩效；促成了以高利害测试和标准为基础的[[School Choice\|择校]]与绩效问责机制，强化了中产阶级与底层劳工学区之间的阶层分化。[[Argument_Downey_2016_SoE\|(Downey & Condron, 2016, p. 2)]]
 
 > [!finding-cards] 关键历史后果
 > - **催生国际指标项目** 报告将[[Performance Indicators\|教育指标]]决策的主导权从学者与心理测量学家手中夺走，交到了政府高级行政官员与政策制定者手中，直接促成 OECD 启动 INES 项目，奠定了全球跨国教育数据基准。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 12)]]
@@ -181,7 +182,7 @@ updated: 2026-10-07
 > > [!axis] 教育政治框定的历史大翻转（家庭[[Determinism\|决定论]] vs 学校责任论）
 > > 围绕教育不平等根源的政治解释学翻转展开史学论辩。
 > >
-> > - **社会学制度史视角** 指出该报告标志着美国教育政治话语的根本性倒转：1966 年[[Coleman Report 1966\|科尔曼报告]]将学业差距归因于家庭与社会背景曾被视为保守立场，而到了 1983 年，保守派已全面倒向将学校界定为全部问题的根源，以学校内部效能掩盖深层资本主义结构不平等。[[Argument_Downey_2016_SoE\|(Downey & Condron, 2016, p. 2)]]
+> > - **社会学制度史视角** 指出该报告标志着美国教育政治[[Discourse|话语]]的根本性倒转：1966 年[[Coleman Report 1966\|科尔曼报告]]将学业差距归因于家庭与社会背景曾被视为保守立场，而到了 1983 年，保守派已全面倒向将学校界定为全部问题的根源，以学校内部效能掩盖深层资本主义结构不平等。[[Argument_Downey_2016_SoE\|(Downey & Condron, 2016, p. 2)]]
 > > - **激进左翼批判传统** 认为无论是[[David Coleman|科尔曼]]还是 1983 报告，本质上都未能直面资本主义阶级再生产机器的本质，只是在不同历史时期为了维护统治秩序而轮换替罪羊。
 >
 > > [!axis] 战后全球危机动员链的历时演变（战后早期动员 vs 80年代比较转向）
@@ -208,7 +209,7 @@ updated: 2026-10-07
 > | [[Education at a Glance]] | Fact ([[Document]]) | INES 项目的标志性年度旗舰产物，成为全球教育绩效排名的核心基准。 |
 > | [[PISA]] | Fact (Program) | 危机治理[[Paradigm\|范式]]在全球范围的制度化集大成者，将国际排名恐慌常规化。 |
 > | [[American Attraction to Japanese Education 1980s]] | Fact (Event) | 报告在[[Cross-National Attraction\|跨国吸引力]]中发挥危机化功能的核心对象，促成对日教育的密集考察与借用。 |
-> | [[Coleman Report 1966]] | Fact (Event) | 报告所逆转的前置标志性社会学调查，开启了从家庭责任向学校责任的话语倒转。 |
+> | [[Coleman Report 1966]] | Fact (Event) | 报告所逆转的前置标志性社会学调查，开启了从家庭责任向学校责任的[[Discourse\|话语]]倒转。 |
 > | [[Cross-National Attraction]] | Concept | 报告通过将外国卓越表现转化为本国危机修辞，构成了跨国吸引力的典型案例。 |
 > | [[Externalization]] | Concept | 报告将国内有争议的改革包装为对国际经济落后危机的必要应对，体现了外在化逻辑。 |
 > | [[Governing by Numbers]] | Concept | 报告作为历史关键推手，开启了以量化比较指标为主导的全球教育[[Governing at a Distance\|远程治理]]模式。 |

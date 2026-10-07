@@ -13,7 +13,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Paradigm]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Discourse]]"
   - "[[Policy Borrowing]]"
   - "[[Educational Meliorism]]"
 related_theories: []
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-10-07
 ---
 
 # Report on Elementary Public Instruction in Europe
@@ -120,7 +121,7 @@ updated: 2026-09-06
 > - **转译核心** [[Calvin Stowe\|卡尔文·斯托]]与俄亥俄州议会公学改革派议员。
 > - **受益与覆盖群体** 俄亥俄州学区委员会、中西部拓殖家庭、全美重印各州的立法决策者。
 > - **抵制群体** 边疆极端地方主义纳税人、私立宗派学校主办方。
-> - **话语功能** 作为击碎“公立学校是专制集权与违宪抢劫”借口的强力“政治合法化依据（legitimating rationales）”。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 33–34]]）
+> - **[[Discourse|话语]]功能** 作为击碎“公立学校是专制集权与违宪抢劫”借口的强力“政治合法化依据（legitimating rationales）”。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 33–34]]）
 
 > [!pathways]- 实施路径：从俄亥俄官方报告到全美公学立法的转译机制
 > - **立法动员的跨州引爆点** 斯托报告不仅直接推动了俄亥俄州自身的公学法案，更通过马萨诸塞州、宾夕法尼亚州等五州议会的官方再版决议，演化为一场席卷全美的公共政策[[Document\|文献]]大动员。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 31–32]]）

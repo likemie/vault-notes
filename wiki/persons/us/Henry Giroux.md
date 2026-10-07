@@ -3,10 +3,10 @@ title: Henry Giroux
 type: person
 status: stable
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-07
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ aliases:
   - Henry A. Giroux
 related_concepts:
   - "[[Critical Pedagogy]]"
+  - "[[Hidden Curriculum]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Determinism]]"
   - "[[Conscientization]]"
@@ -59,7 +60,7 @@ related_persons:
 ### 1. 结构再生产批判与隐蔽课程（Hidden Curriculum）
 在 1983 年出版的经典专著《教育中的理论与抗争》（*Theory and Resistance in Education*）中，吉鲁对正规学校教育进行了激进的政治学解构：
 - **服务于支配社会** 吉鲁指出，“学校本质上是在支配社会的利益主导下运作的”（schools function in the interest of the dominant society）；
-- **隐蔽课程与霸权[[Disciplina and Doctrina|规训]]** 除了正式课程大纲，学校更通过无处不在的科层规程、仪式规范和权威关系（即隐蔽课程），在日常生活中潜移默化地再生产不平等的阶级关系与顺从意识形态。
+- **[[Hidden Curriculum|隐蔽课程]]与霸权[[Disciplina and Doctrina|规训]]** 除了正式课程大纲，学校更通过无处不在的科层规程、仪式规范和权威关系（即隐蔽课程），在日常生活中潜移默化地再生产不平等的阶级关系与顺从意识形态。
 
 ### 2. 抵制理论（Resistance Theory）与主体能动性
 与早期机械[[Determinism|决定论]]式的马克思主义再生产理论（如鲍尔斯与金蒂斯的对应原则）不同，吉鲁高度强调被压迫主体在制度内部的能动性与抗争空间：

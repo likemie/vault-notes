@@ -9,7 +9,7 @@ aliases:
 summary: "以儿童发展与经验学习为核心的教育改革运动，在跨国传播中演化出民主参与、社会主义改造、实用主义提分与修辞合法化等多重再脉络化形态"
 type: concept
 domain: "educational-philosophy"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Discovery Learning]]"
   - "[[Critical Thinking]]"
+  - "[[Discourse]]"
   - "[[Quality Education]]"
   - "[[Selective Affinity]]"
   - "[[General Education]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-09-27
+updated: 2026-10-07
 ---
 
 # Progressive Education
@@ -152,7 +153,7 @@ updated: 2026-09-27
 > **[[Experiential Learning\|经验学习]]与民主社会塑造** [[John Dewey\|杜威]]（1916）主张学校不仅是知识传授场所，更是民主社会的雏形。教育必须从儿童的已有经验出发，将[[Discovery Learning\|发现学习]]与社会合作相结合，使个体在参与共同活动中形成[[Critical Thinking\|批判性思维]]与社会责任感。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 34)]]
 
 > [!claim] [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]]
-> **课程改革的三驱动力模型** Cuban（1992）识别出进步教育运动是驱动国家课程变革的三大外部力量之一（与国防/安全、立法并列）。课程变革本质上是政治过程，进步教育提供了重塑课堂权力与教学常规的话语阵地。[[Argument_Yan_2025_JCS\|(Yan & Morris, 2025, p. 488)]]
+> **课程改革的三驱动力模型** Cuban（1992）识别出进步教育运动是驱动国家课程变革的三大外部力量之一（与国防/安全、立法并列）。课程变革本质上是政治过程，进步教育提供了重塑课堂权力与教学常规的[[Discourse|话语]]阵地。[[Argument_Yan_2025_JCS\|(Yan & Morris, 2025, p. 488)]]
 
 ---
 
@@ -225,7 +226,7 @@ updated: 2026-09-27
 > | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] | 中国 1919–2009 年近百年间关于[[John Dewey\|杜威]]教育思想的文献与论述 | 历史[[Recontextualization\|再脉络化]]追踪与文献分析 | 意识形态议程、个人网络、外来思想元素的拾取/忽略/扭曲 | 杜威思想经历了民国反迷信武器、毛泽东时代批判魔鬼、1980s 现代化旗帜到当代[[Quality Education\|素质教育]]代言人的四次质变再脉络化 | 历史文献分析 — | 聚焦特定思想家在中国的接受史 |
 > | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] | 华北某区域 4 所案例学校（2 城市、2 农村），4 校长 9 骨干教师 | 质性多[[Case Study\|案例研究]]（Case Study），结合第三代活动理论 | [[Test-Based Accountability\|考试问责]]、[[Learner-Centred Education\|LCE]]/进步教育系统、共享目标解码与权力共享边界 | 谋求突破的学校成功将进步探究法[[Pragmatic Paradigm\|实用主义]]地再脉络化为攻克高阶考题或提升 45 分钟效率的工具，但受限于高考大纲而排除了学生共决课程的权力维度 | 质性转录与[[Qualitative Observation\|田野观察]] — | 展现了高利害考试环境下外来教学法本土再脉络化的机制与硬边界 |
 > | [[Argument_Cowen_2009_CE\|Cowen (2009b)]] | 战后占领期日本与西德美占区教育改革档案与立法记录 | 比较教育转移与[[Transfer Translation Transformation\|转译]]分析 | 美式学制与进步教育指令、地方政治文化、转译修辞 | 日本顺应美式指令转译为民主重生与行政效能结合，西德保守精英以学术标准为名联合抵制综合中学 | 历史比较分析 — | 揭示战后美式进步教育移植的[[Heterogeneity\|异质性]]结果 |
-> | [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]] | 香港[[General Education\|通识教育]]（LS）1990s–2020s 创立与废除全过程官方文档与立法记录 | 课程政策历史分析，结合 Cuban 3 因素框架 | 进步教育运动、国家安全/新冷战、立法协商 | 创立阶段政府将进步教育探究法包装为全球趋势修辞；废除阶段国家安全上升为决定性力量 | 课程政策分析 — | 揭示了进步教育话语在课程政治中的修辞功能 |
+> | [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]] | 香港[[General Education\|通识教育]]（LS）1990s–2020s 创立与废除全过程官方文档与立法记录 | 课程政策历史分析，结合 Cuban 3 因素框架 | 进步教育运动、国家安全/新冷战、立法协商 | 创立阶段政府将进步教育探究法包装为全球趋势修辞；废除阶段国家安全上升为决定性力量 | 课程政策分析 — | 揭示了进步教育[[Discourse\|话语]]在课程政治中的修辞功能 |
 
 ---
 

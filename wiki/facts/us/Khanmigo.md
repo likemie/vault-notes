@@ -10,9 +10,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2023–至今"
 initiator_organization: "Khan Academy"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Socratic Dialogue]]"
   - "[[Business as Usual]]"
   - "[[Epistemic Agency]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Paradigm]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Constructed Knowledge]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Khanmigo
@@ -60,7 +61,7 @@ updated: 2026-10-03
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2023 年 3 月随 GPT-4 同步发布先导测试版，2024 年起逐步在全美多州学区及全球开展规模化[[Business as Usual\|常态教学]]部署。
 > - **发起方与技术生态** 由可汗学院发起，深度融合 OpenAI 大语言模型技术、可汗学院全学科标准化知识图谱与检索增强生成算法（RAG）。
-> - **核心问题导向** 解决生成式 AI 介入教育时容易诱发的“不假思索获取答案”、“算法事实幻觉”与“人类[[Epistemic Agency\|认识主体性]]让渡”危机，探索符合教育伦理的人机共生教学系统[[Paradigm\|范式]]。
+> - **核心问题导向** 解决生成式 AI 介入教育时容易诱发的“不假思索获取答案”、“算法事实幻觉”与“人类[[Epistemic Agency\|认识主体性]]让渡”危机，探索符合教育伦理的[[Man-Computer Symbiosis|人机共生]]教学系统[[Paradigm\|范式]]。
 
 ---
 
@@ -75,7 +76,7 @@ updated: 2026-10-03
 > - **教师协同仪表盘** 为一线教师提供班级交互学情诊断看板，自动标记高频概念卡点与求助模式，辅助精准差异化教学。
 
 > [!citation-card] 教育专用[[Intelligent Tutoring Systems\|智能教学系统]]的[[Paradigm\|范式]]创新
-> Khanmigo 等由先进生成式 AI 驱动的专用教学系统，深度整合了苏格拉底式对话等教学法框架，并运用检索增强生成算法交付准确且无偏的内容；它通过设定目标、监控进度与提供建设性反馈，引导学生逐步掌握复杂概念，展现出人机协同[[Constructed Knowledge\|建构知识]]的巨大潜力。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–359)]]
+> Khanmigo 等由先进生成式 AI 驱动的专用教学系统，深度整合了苏格拉底式对话等教学法框架，并运用检索增强生成算法交付准确且无偏的内容；它通过设定目标、监控进度与提供建设性反馈，引导学生逐步掌握复杂概念，展现出[[Man-Computer Symbiosis|人机协同]][[Constructed Knowledge\|建构知识]]的巨大潜力。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–359)]]
 >
 > *Khanmigo, powered by advanced [[Generative Artificial Intelligence\|GenAI]], incorporates pedagogical frameworks such as Socratic dialogue and uses techniques such as retrieval augmented generation (RAG) algorithms to deliver accurate and unbiased content... offering targeted support and personalized learning experiences.*
 

@@ -14,7 +14,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[General Education]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Knowledge Mediation]]"
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Hypothesis]]"
   - "[[Positivism]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # National Education in Europe
@@ -140,7 +141,7 @@ updated: 2026-09-22
 > [!actor-grid] 制度[[Transfer Translation Transformation\|转译]]矩阵
 > - **汇纂与转译核心** [[Henry Barnard\|亨利·巴纳德]]——通过汇集事实充当[[Knowledge Mediation\|知识中介]]。
 > - **服务对象** 全美各州立法机关、州立[[Normal School\|师范学校]]校长、公立学区督学与广大教育工作者。
-> - **话语功能** 充当美国[[Common School Movement\|公学运动]]在制度法典、课程设置与师资考评上的“技术智库”与“合法化依据（legitimating rationales）”。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 33–34]]）
+> - **[[Discourse|话语]]功能** 充当美国[[Common School Movement\|公学运动]]在制度法典、课程设置与师资考评上的“技术智库”与“合法化依据（legitimating rationales）”。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 33–34]]）
 > - **衍生制度成果** 直接催生了美国联邦教育局（Office of Education）的统计监测机制，并为各州公立师范学校的正规化建设提供了现成方案。
 
 > [!pathways]- 实施路径：从[[Document\|文献]]汇纂到行政实践的渗透机制

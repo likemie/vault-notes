@@ -7,7 +7,7 @@ aliases:
 summary: "指向在传统与数字媒体中传播的与科学证据或学界共识相悖的错误或误导性信息，涵盖无恶意失实与蓄意操纵，其扩散受算法推荐、极化回音室与源头新闻通稿夸大共同驱动，治理依赖证据透明、不确定性坦诚沟通与科研诚信制度融合。"
 type: concept
 domain: "science-communication"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -16,6 +16,7 @@ tags:
   - theme/misinformation
   - theme/digital-media
 related_concepts:
+  - "[[Discourse]]"
   - "[[Hypothesis]]"
   - "[[Scientific Uncertainty]]"
   - "[[Scientific Literacy]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Scientific Misinformation
@@ -58,7 +59,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 科学虚假信息（Scientific Misinformation）是指在大众传媒、数字社交平台与公共话语空间中传播的，在事实层面不准确、存在实质性误导或与当前同行评议科学共识相违背的信息内容。它不仅包括缺乏恶意动机的错误转述或过度简化，也涵盖带有明确政治、商业或意识形态操纵意图的虚假陈述，在公共卫生决策、疫苗接种、气候变化治理等关键领域对个体健康与现代社会运行造成深远危害。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 58)]]
+> 科学虚假信息（Scientific Misinformation）是指在大众传媒、数字社交平台与公共[[Discourse|话语]]空间中传播的，在事实层面不准确、存在实质性误导或与当前同行评议科学共识相违背的信息内容。它不仅包括缺乏恶意动机的错误转述或过度简化，也涵盖带有明确政治、商业或意识形态操纵意图的虚假陈述，在公共卫生决策、疫苗接种、气候变化治理等关键领域对个体健康与现代社会运行造成深远危害。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 58)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向与实证科学证据相脱节的错误信息形态，揭示信息在生产、中介、算法分发与受众认知各个环节中的失真机制。

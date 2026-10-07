@@ -7,7 +7,7 @@ title: "Argument_Mausethagen_2025_ERR"
 argument_key: "Argument_Mausethagen_2025_ERR"
 argument_display_title: "A systematic critical review of research on ‘research use’ in education: Towards more profession-sensitive conceptualisations"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Hypothesis]]"
   - "[[Variable]]"
+  - "[[Discourse]]"
   - "[[Literature Search]]"
   - "[[Reflexivity]]"
   - "[[Epistemology]]"
@@ -113,7 +114,7 @@ updated: 2026-08-26
 > | **[[Profession-Sensitive Conceptualisations of Research Use\|专业敏感型概念化（Fourth Generation）]]** | 本文提出的第四代框架，核心在于立足教师职业实践的独特性，聚焦多源知识动态整合（[[Knowledge Integration]]）与专业伦理规范。（pp. 7–8） |
 
 > [!warrant]- 理论如何支撑论证
-> 借助 Boaz & Nutley（2019）的代际框架以及线性与复杂、个体与情境两组分析工具，本研究得以系统解构 34 篇文献的深层[[Hypothesis\|假设]]，清晰梳理出研究者在提问方式、[[Variable\|变量]]测量和建议推论中潜藏的思维盲区，进而解释为何单靠增加外部组织支持依然无法跳出赤字话语的怪圈。（pp. 2, 4）
+> 借助 Boaz & Nutley（2019）的代际框架以及线性与复杂、个体与情境两组分析工具，本研究得以系统解构 34 篇文献的深层[[Hypothesis\|假设]]，清晰梳理出研究者在提问方式、[[Variable\|变量]]测量和建议推论中潜藏的思维盲区，进而解释为何单靠增加外部组织支持依然无法跳出赤字[[Discourse|话语]]的怪圈。（pp. 2, 4）
 
 ---
 
@@ -158,7 +159,7 @@ updated: 2026-08-26
 ### 论证步骤一：三十年文献在提问时普遍把教师预设为能力短缺的客体
 
 > [!claim] 步骤一主张
-> 现有[[Document\|文献]]在提出问题时表现出高度的思维定势：普遍不加反思地假定教师在知识或能力上存在赤字，把[[Research Utilization\|研究使用]]视作矫正教师技能短板的干预手段，形成长期停滞的赤字话语。（pp. 4–5）
+> 现有[[Document\|文献]]在提出问题时表现出高度的思维定势：普遍不加反思地假定教师在知识或能力上存在赤字，把[[Research Utilization\|研究使用]]视作矫正教师技能短板的干预手段，形成长期停滞的赤字[[Discourse|话语]]。（pp. 4–5）
 
 > [!chain-link] 证据到判断
 > - **科研绝对化预设** 文献普遍先验假定使用科研成果必然促进学校改进并激发创新教学；因此，科研与课堂脱节被理所当然地看作一道必须由外部力量填补的能力鸿沟（如 Hodges, 1996; Anwaruddin & Pervin, 2015; Brown et al., 2018）。

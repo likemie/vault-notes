@@ -9,9 +9,9 @@ title: "Argument_Hattie_2017_SLM"
 argument_key: "Argument_Hattie_2017_SLM"
 argument_display_title: "Educators are not uncritical believers of a cult figure"
 argument_kind: "journal-article"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: School Leadership & Management
 citation: "Hattie, J. (2017). Educators are not uncritical believers of a cult figure. School Leadership & Management, 37(4), 427–430."
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
   - "[[Falsification]]"
+  - "[[Discourse]]"
   - "[[Critic and Conscience of Society]]"
   - "[[Paradigm]]"
   - "[[Success Criteria]]"
@@ -63,7 +64,7 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - Popper(1959) — [[Falsification\|证伪主义]]（falsifiability）：做出大胆猜想并接受证伪是学术进步的本质。Hattie 声称 VL 包含许多"大胆猜想"，因此"容易被证伪"(p.428)
-> - Alexander(2010)的四种腐蚀性话语（dichotomy, derision, myth, meaninglessness）——加上 Eacott(2017)新增的 cult 话语，Hattie 以此框架分析批评模式(p.427)
+> - Alexander(2010)的四种腐蚀性[[Discourse|话语]]（dichotomy, derision, myth, meaninglessness）——加上 Eacott(2017)新增的 cult 话语，Hattie 以此框架分析批评模式(p.427)
 > - Said(1993)的公共知识分子概念——学者需站在社会与制度之外积极扰动现状，同时面向尽可能广泛的公众
 
 ## 研究方法

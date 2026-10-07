@@ -9,7 +9,7 @@ summary: "美国教育政策学者，印第安纳大学布卢明顿分校（Indi
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Policy Network]]"
   - "[[Market Failure]]"
+  - "[[Discourse]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Christopher Lubienski
@@ -110,7 +111,7 @@ updated: 2026-10-03
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 将政治经济学的"[[Market Failure|市场失灵]]"分析引入教育政策[[Knowledge Production\|知识生产]]领域，为比较教育批判政策研究提供了一套解释智库主导政策话语的理论工具。
+> - **理论路径** 将政治经济学的"[[Market Failure|市场失灵]]"分析引入教育政策[[Knowledge Production\|知识生产]]领域，为比较教育批判政策研究提供了一套解释智库主导政策[[Discourse|话语]]的理论工具。
 > - **实证路径** 大规模公私立学校比较研究（《公立学校优势》）颠覆了新自由主义[[School Choice\|择校]]倡导者的核心实证主张，在美国教育政策辩论中引发持续反响。
 > - **国际传播** "思想市场"与"信息孤岛"概念被 Steiner-Khamsi、Martens、Ydesen 等欧洲比较教育学者引入全球教育治理分析，成为解释[[Surplus of Evidence\|证据过剩]]时代[[Policy Brokerage\|政策中介]]崛起的核心背景理论之一。
 

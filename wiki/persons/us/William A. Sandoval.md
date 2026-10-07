@@ -9,7 +9,7 @@ summary: "美国科学教育与学习科学学者，加州大学洛杉矶分校�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -30,10 +30,12 @@ related_concepts:
   - "[[Construct]]"
   - "[[Justificatory Standards]]"
   - "[[Hypothesis]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Epistemic Scaffolding]]"
   - "[[Causality]]"
   - "[[Epistemological Beliefs]]"
   - "[[Epistemic Commitments]]"
+  - "[[Discourse]]"
   - "[[Epistemic Ideals]]"
   - "[[Scaffolding]]"
   - "[[Student Engagement]]"
@@ -56,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # William A. Sandoval
@@ -85,7 +87,7 @@ updated: 2026-10-02
 > - **2003–2005** 发表重要论文 *Formal explanations as causal narratives* (2003) 与 *Understanding students' practical epistemologies and their influence on learning science* (2005)，系统确立解释驱动探究框架与[[Practical Epistemology|实践认识论]]理论。
 > - **2014** 在 *Journal of the Learning Sciences* 发表方法论名篇 *Conjecture Mapping: An Approach to Systematic Educational Design Research*，规范了学习科学中设计[[Hypothesis|假设]]与干预中介的操作映射流程。
 > - **2016** 在 *Review of Research in Education* 发表综述 *Science education, epistemological commitments, and educational research*，全面梳理科学教育从心理信念向社会[[Epistemic Practices|认识论实践]]的历史转向。
-> - **2020s** 其关于科学解释评价标准（相关性、因果链、概念网络、多模态表征）的理论框架被广泛应用于跨国科学课程研制以及人机协同探究教学（如 [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez, 2026]]）。
+> - **2020s** 其关于科学解释评价标准（相关性、因果链、概念网络、多模态表征）的理论框架被广泛应用于跨国科学课程研制以及[[Man-Computer Symbiosis|人机协同]]探究教学（如 [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez, 2026]]）。
 
 ---
 
@@ -101,7 +103,7 @@ updated: 2026-10-02
 >   - **核心问题** 学生的[[Epistemological Beliefs|认识论信念]]如何转化为课堂探究行动，以及如何系统设计干预环境促进深层探究。
 >   - **代表著作** *Conjecture Mapping* (2014); *Science education, epistemological commitments, and educational research* (2016)。
 >   - **关键概念** 猜想映射（Conjecture Mapping）、[[Epistemic Practices|认识论实践]]、[[Epistemic Commitments|认识论承诺]]（Epistemological Commitments）。
->   - **思想贡献** 推动科学教育摆脱[[Questionnaire|问卷]]测量个人认识论信念的静态局限，将研究焦点转移到课堂微观话语互动与基于设计的研究方法论。
+>   - **思想贡献** 推动科学教育摆脱[[Questionnaire|问卷]]测量个人认识论信念的静态局限，将研究焦点转移到课堂微观[[Discourse|话语]]互动与基于设计的研究方法论。
 
 ---
 

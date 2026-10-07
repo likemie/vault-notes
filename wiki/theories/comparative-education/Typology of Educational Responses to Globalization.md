@@ -9,10 +9,10 @@ aliases:
 summary: "拉斯特等人提出的全球化教育响应四分批判分析框架，整合主动采纳的接受、草根抗衡的抵制、本土赋权的恢复以及霸权强加的强制再生产四重动力机制，打破自愿对等借用假定并确立解放实践导向。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 38
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 40
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - subject/comparative-education
   - theory/globalization
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Cross-National Attraction]]"
   - "[[Policy Borrowing]]"
+  - "[[Hidden Curriculum]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Structural Adjustment Programs]]"
@@ -34,6 +35,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Policy Mobility]]"
   - "[[Going Native]]"
+  - "[[Discourse]]"
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Academic Attrition]]"
@@ -92,7 +94,7 @@ updated: 2026-10-07
 > - **提出者与原始文本** [[Val D. Rust|瓦尔·拉斯特]]（[[Val D. Rust]]）在 2004 年论文《教育改革中的外国影响》（*Foreign Influences in Educational Reform*）中首创三阶段类型学；随后在与布莱恩·约翰斯通（Brian Johnstone）与卡琳·阿拉夫（Carine Allaf）合著的《比较教育学发展之反思》（*Reflections on the Development of Comparative Education*, 2009）中正式升级为四维分析模型。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 133)]]
 > - **原初问题** 传统比较教育中的[[Cross-National Attraction|跨国吸引]]与[[Policy Borrowing|政策借用]]理论预设了国家间对称而互利的良性互动，无法解释后殖民时代为什么外部教育干预频频引发第三世界国家的体制动荡、原住民语言文化的急剧凋零以及全球教育不平等的持续固化。
 > - **理论资源与材料** 吸收了[[Henry Giroux|吉鲁]]（Henry Giroux）关于学校充当支配社会利益工具的再生产理论、[[Paulo Freire|保罗·弗莱雷]]（[[Paulo Freire]]）关于教育即政治与文化行动的解放实践思想，以及联合国教育、科学及文化组织（[[UNESCO|United Nations Educational, Scientific and Cultural Organization]]，UNESCO）《[[Education for All|全民教育]]》（Education for All, [[Exploratory Factor Analysis|EFA]]）的全球追踪监测实证数据。
-> - **形成路径** 从拉斯特原初基于历史改革经验提炼的主动应对范畴出发，青年一代学者敏锐指出主流比较教育缺乏对霸权国家非对称暴力强加的透视，通过嫁接批判社会学的隐蔽课程与结构依附，补足了强制再生产维度，完成从描述性分类向批判性解释模型的深化升级。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 134)]]
+> - **形成路径** 从拉斯特原初基于历史改革经验提炼的主动应对范畴出发，青年一代学者敏锐指出主流比较教育缺乏对霸权国家非对称暴力强加的透视，通过嫁接批判社会学的[[Hidden Curriculum|隐蔽课程]]与结构依附，补足了强制再生产维度，完成从描述性分类向批判性解释模型的深化升级。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 134)]]
 
 ### 后续修订与扩展
 
@@ -110,7 +112,7 @@ updated: 2026-10-07
 > | **接受（Receptivity）** | 自愿改良机制 | 民族国家或地方教育共同体出于自主改良意愿，对外部教育思想与制度模型进行积极吸收、[[Transfer Translation Transformation\|转译]]与本土融合。 |
 > | **抵制（Resistance）** | 批判反抗机制 | 进步主义知识分子与草根社会力量联合，针对新自由主义全球化的资本霸权与文化同质化展开制度与意识形态层面的反向抗争。 |
 > | **恢复（Restoration）** | 文化赋权机制 | 动员边缘与原住民社群，抢救、活化与制度化由于殖民统治与全球文化扩张而濒临灭绝的本土语言、历史记忆与传统知识体系。 |
-> | **强制再生产（Reproduction）** | 霸权压迫机制 | 核心霸权国家与跨国金融机构借助政治经济制裁与结构性依附，向第三世界国家强行植入资本主义教育体制与意识形态隐蔽课程。 |
+> | **强制再生产（Reproduction）** | 霸权压迫机制 | 核心霸权国家与跨国金融机构借助政治经济制裁与结构性依附，向第三世界国家强行植入资本主义教育体制与意识形态[[Hidden Curriculum\|隐蔽课程]]。 |
 
 > [!contrast-table] 四重教育响应机制对照表
 > | 分析维度 | 接受（Receptivity） | 抵制（Resistance） | 恢复（Restoration） | 强制再生产（Reproduction） |
@@ -198,7 +200,7 @@ updated: 2026-10-07
 >   - **D1.2｜本土哲学转译与制度嫁接** 考察是否将外部技术合理剥离其原产国意识形态并服务于本土宪制目标。
 > - **D2｜抵制维度（Resistance Analysis）**
 >   考察面对外部同质化资本渗透时草根力量维系文化主权与社会公平的抗争机制。
->   - **D2.1｜话语解构与意识形态揭露** 知识分子与工会识别外部援助背后的新自由主义控制。
+>   - **D2.1｜[[Discourse|话语]]解构与意识形态揭露** 知识分子与工会识别外部援助背后的新自由主义控制。
 >   - **D2.2｜组织动员与集体行动反抗** 罢工、游行、自建批判性社区学堂等实际阻断行动。
 > - **D3｜恢复维度（Restoration Analysis）**
 >   考察边缘群体与原住民社群在现代化浪潮中自下而上重建文化生态的自救机制。
@@ -207,7 +209,7 @@ updated: 2026-10-07
 > - **D4｜强制再生产维度（Reproduction Analysis）**
 >   考察外部核心强权通过不对等跨国规约强制输出不平等资本主义秩序的支配机制。
 >   - **D4.1｜跨国资金挂钩与政策绑架** 援助资金与强制推行教育凭证化、私有化和削减财政强行挂钩。
->   - **D4.2｜[[Knowledge Production|知识生产]]依附与意识形态隐蔽课程** 直接采用西方核心出版集团教材并推行排他性语言考试。
+>   - **D4.2｜[[Knowledge Production|知识生产]]依附与意识形态[[Hidden Curriculum|隐蔽课程]]** 直接采用西方核心出版集团教材并推行排他性语言考试。
 
 ### 整体分析示例
 

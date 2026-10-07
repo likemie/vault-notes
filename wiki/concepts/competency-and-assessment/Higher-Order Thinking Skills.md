@@ -10,7 +10,7 @@ aliases:
 summary: "超越基础事实再认与机械程序算法的复杂心智加工能力，植根于布鲁姆认知目标分类学高阶层级并涵盖批判性思维、问题解决、元认知、协作与创造力"
 type: concept
 domain: "competency-and-assessment"
-related_count: 80
+related_count: 82
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Teaching Assistant]]"
   - "[[Evaluation Research]]"
   - "[[Self-control]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Epistemic Stances]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Scale of Measurement]]"
@@ -110,7 +111,7 @@ related_arguments:
   - "[[Argument_Liu_2026_CHBR]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
 created: 2026-08-24
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Higher-Order Thinking Skills
@@ -132,7 +133,7 @@ updated: 2026-09-22
 >
 > *HOTS are defined as complex cognitive processes that are non-algorithmic, effortful, and involve [[Self-control\|self-regulation]], often yielding multiple solutions or requiring nuanced judgment in the face of uncertainty (Resnick, 1987)... Higher-order thinking frameworks operationalize problem solving, metacognition, critical thinking, collaboration, and creativity (Liu et al., 2024; McLoughlin & Mynard, 2009).*
 
-> [!citation-card]- 人机共生中的自适应[[Epistemic Stances\|认识立场]]与高阶思维激活
+> [!citation-card]- [[Man-Computer Symbiosis|人机共生]]中的自适应[[Epistemic Stances\|认识立场]]与高阶思维激活
 > 在[[Generative Artificial Intelligence\|生成式人工智能]]介入的学习网络中，高阶思维的展现高度依从于学习者的自适应认识立场（Adaptive Epistemic Stance）。持有绝对论立场的学习者容易让渡认知控制权而停留在低阶代码或文本复制层面；唯有持有评价论立场并具备丰富先验知识的学习者，才能通过对大模型输出展开持续的多轮压力测试、[[Scale of Measurement\|测量尺度]]辨析与多源三角核验，将人机交互深化为高水平的高阶推论与方法论评价。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
 >
 > *In human-AI learning networks, higher-order thinking manifests through adaptive epistemic stances: while [[Absolutist]] stances induce [[Cognitive Offloading]] and superficial compliance, [[Evaluativist]] stances [[Activate Fellowship|Activate]] rigorous metacognitive monitoring, stress-testing, and multi-source justification.*
@@ -233,7 +234,7 @@ updated: 2026-09-22
 > 考察生成式 AI 作为中介工具时，批判性思维（收敛加工）与创造性思维（发散加工）两类高阶思维如何产生协同增益、非对称演进或双重侵蚀。
 
 > [!claim] [[Argument_Li_2026_CEAI\|Li et al. (2026)]]
-> **高阶思维在人机协同中分化出三大共现演进轨迹** 对高等教育实证研究的[[Systematic Review\|系统综述]]表明，ChatGPT 等生成式技术对高阶思维的塑造具有显著的情境依从性。在考察双向思维的[[Document\|文献]]中，高阶思维分化出三大共现模式：① **双向协同增益模式（Synergistic Enhancement）** 在嵌入反思量规与[[Socrates\|苏格拉底]]追问的[[Structured Teaching\|结构化教学]]中，AI 作为认知放大器同时促进发散构想与批判论证；② **非对称模式（Asymmetrical Development）** 技术赋能发散构想的同时，缺乏反思引导导致学生将证据核查外包给 AI，造成“创造性繁荣伴随批判性萎缩”；③ **双重认知侵蚀模式（Joint Cognitive Erosion）** 在无支架的直接答案索取中，严重的[[Cognitive Offloading\|认知卸载]]导致两类思维同步退化。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 9–11)]]
+> **高阶思维在[[Man-Computer Symbiosis|人机协同]]中分化出三大共现演进轨迹** 对高等教育实证研究的[[Systematic Review\|系统综述]]表明，ChatGPT 等生成式技术对高阶思维的塑造具有显著的情境依从性。在考察双向思维的[[Document\|文献]]中，高阶思维分化出三大共现模式：① **双向协同增益模式（Synergistic Enhancement）** 在嵌入反思量规与[[Socrates\|苏格拉底]]追问的[[Structured Teaching\|结构化教学]]中，AI 作为认知放大器同时促进发散构想与批判论证；② **非对称模式（Asymmetrical Development）** 技术赋能发散构想的同时，缺乏反思引导导致学生将证据核查外包给 AI，造成“创造性繁荣伴随批判性萎缩”；③ **双重认知侵蚀模式（Joint Cognitive Erosion）** 在无支架的直接答案索取中，严重的[[Cognitive Offloading\|认知卸载]]导致两类思维同步退化。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 9–11)]]
 
 ---
 
@@ -262,7 +263,7 @@ updated: 2026-09-22
 
 ### 命题七　自适应认识立场与元认知监控决定人机交互中高阶思维的加工深度与演进路径
 
-> [!concept-lens] 人机共生中的[[Epistemic Stances\|认识立场]]阶梯与高阶思维激活
+> [!concept-lens] [[Man-Computer Symbiosis|人机共生]]中的[[Epistemic Stances\|认识立场]]阶梯与高阶思维激活
 > 探讨生成式大模型交付完整解答情境下，不同认识立场的学习者如何展现不同深度的认知加工，以及双轨干预支架如何驱动高阶思维发展。
 
 > [!claim] [[Argument_Wu_2025_ER\|Wu et al. (2025)]]
@@ -294,7 +295,7 @@ updated: 2026-09-22
 > - **2010 年代 [[Computational Thinking\|计算思维]]与多维技能拓展** Korkmaz et al. (2017) 研制[[Computational Thinking Scale\|计算思维量表]]（CTS），将算法思维、[[Critical Thinking\|批判性思维]]、[[Problem Solving\|问题解决]]与[[Creativity\|创造力]]整合为可测量的技术高阶认知[[Construct\|构念]]。
 > - **2020 年代 21世纪[[21st Century Skills and Competencies Discourse\|核心素养]]与二阶证据确证** [[Meta-meta-analysis\|二阶元分析]]相继证实[[Constructivist Paradigm\|建构主义]][[Cooperative Learning\|合作学习]]（$ES = 0.76$）与人工智能技术支架（$ES = 0.63$）对高阶思维的显著促进效应，确立了宏观证据基准。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026)]]; [[Argument_Unal_2026_JECR\|(Ünal et al., 2026)]]
 > - **2025 年 认知加工深度级差与算法心智适配模型确立** [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 揭示技术效应从表层语言向高阶思维及元认知单调递减规律（$g^+ = 0.580 \to 0.078$）；[[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 综合 29 项实验确立生成式 AI 促进高阶思维总体中等偏大基准（$g = 0.609$），解构出“问题解决（$0.745$）$>$ 批判性思维（$0.691$）$>$ 创造力（$0.444$）”的结构性级差，并揭示[[Self-Regulated Learning\|自主调节学习]]能力（$Q_b = 40.962$）与 8–16 周倒 U 型周期对抵御[[Cognitive Offloading\|认知外包]]的决定性边界。
-> - **2025 年 人机共享[[Epistemic Agency\|认识能动性]]与自适应[[Epistemic Stances\|认识立场]]理论提出** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 针对生成式 AI 介入统计推论等复杂学术任务，修订[[Chin-Chung Tsai\|蔡今中]]（Tsai, 2004）网络学习[[Hypothesis\|假设]]，揭示高阶思维深层激活对评价论认识立场与显性溯源/同伴支架的条件依赖，构建自适应认识立场人机共生学习理论。
+> - **2025 年 人机共享[[Epistemic Agency\|认识能动性]]与自适应[[Epistemic Stances\|认识立场]]理论提出** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 针对生成式 AI 介入统计推论等复杂学术任务，修订[[Chin-Chung Tsai\|蔡今中]]（Tsai, 2004）网络学习[[Hypothesis\|假设]]，揭示高阶思维深层激活对评价论认识立场与显性溯源/同伴支架的条件依赖，构建自适应认识立场[[Man-Computer Symbiosis|人机共生]]学习理论。
 > - **2026 年 双透镜整合与三大共现演进模型** [[Argument_Li_2026_CEAI\|Li et al. (2026)]] 针对 ChatGPT 在高等教育中的认知塑造，构建了批判性思维（收敛加工）与创造性思维（发散加工）的双透镜高阶思维整合框架，实证确立了人机协同中高阶思维的三大共现轨迹与六大教学干预规制。
 
 ---

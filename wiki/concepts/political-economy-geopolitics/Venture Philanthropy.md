@@ -8,7 +8,7 @@ aliases:
 summary: "以投资而非赠款为核心逻辑的金融化慈善模式，将风险投资与私募股权纪律引入公共治理，强调组织能力建设与量化回报；在教育政策中通过跨国资金流动与人事重叠构建影子网络，推动国家向异层治理转型，重构公共财政再分配并引发民主问责侵蚀争议。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Seed Funding]]"
   - "[[Return on Investment]]"
   - "[[Philanthrocapitalism]]"
+  - "[[Discourse]]"
   - "[[Policy Network]]"
   - "[[Assemblage]]"
   - "[[Epistemology]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-04
-updated: 2026-10-04
+updated: 2026-10-07
 ---
 
 # Venture Philanthropy
@@ -91,7 +92,7 @@ updated: 2026-10-04
 > | **运行逻辑** | 战略性多年投资、留本基金运营与高介入度赋能 | 一次性赠款分配、善意救济与无偿资助 | 股权投资、市场化估值与资本高倍退出 |
 > | **治理关系** | 深度嵌入受助方董事会，掌控战略与运营决策 | 外部资助者角色，尊重受助机构自主运营 | 派遣董事，行使股东投票权与重大事务否决权 |
 > | **评估标准** | 社会[[Return on Investment\|投资回报]]率（SROI）、标准化因果[[Effect Size\|效应量]]与里程碑考核 | 财务报销合规性、活动产出与受助人数统计 | 财务回报率（IRR）、企业净利润与估值倍数 |
-> | **话语语系** | 证据经纪（brokerage）、买入（buy in）、杠杆撬动、孵化 | 捐助、仁爱、利他、扶危济困 | 资本利得、尽职调查、股权稀释、上市退出 |
+> | **[[Discourse\|话语]]语系** | 证据经纪（brokerage）、买入（buy in）、杠杆撬动、孵化 | 捐助、仁爱、利他、扶危济困 | 资本利得、尽职调查、股权稀释、上市退出 |
 > | **制度定位** | 公私伙伴关系、影子[[Policy Network\|政策网络]]与中介实体[[Assemblage\|装配]]枢纽 | 宗教或人道主义第三部门补充力量 | 纯私营市场化金融中介机构 |
 
 ---

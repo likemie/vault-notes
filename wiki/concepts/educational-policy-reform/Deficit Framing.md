@@ -15,7 +15,7 @@ aliases:
 summary: "将社会、政策或教育教学问题归因于目标群体（如教师、弱势学生或家庭文化）知识、技能、动机或资本匮乏的认识论预设，在宏观政策上表现为假定教师能力赤字，在微观教学中表现为推卸教学责任的防御性归因"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -28,6 +28,7 @@ tags:
   - theme/educational-equity
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Discourse]]"
   - "[[Research Utilization]]"
   - "[[Academic Achievement]]"
   - "[[Bildung]]"
@@ -65,7 +66,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-26
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Deficit Framing
@@ -75,7 +76,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 赤字框架（Deficit Framing / Deficit Perspective，在教学与文化研究中常被称为赤字理论 Deficit Theorising 或赤字归因）指社会政策、教育改革与学术研究中，一种习惯性将问题根源归咎于行动主体（如教师、弱势学生或家庭文化）自身能力不足、素质欠缺或动机匮乏的[[Epistemology\|认识论]]预设与话语模式。
+> 赤字框架（Deficit Framing / Deficit Perspective，在教学与文化研究中常被称为赤字理论 Deficit Theorising 或赤字归因）指社会政策、教育改革与学术研究中，一种习惯性将问题根源归咎于行动主体（如教师、弱势学生或家庭文化）自身能力不足、素质欠缺或动机匮乏的[[Epistemology\|认识论]]预设与[[Discourse|话语]]模式。
 >
 > 该概念在教育领域呈现两大核心表现维度：
 > 1. **宏观[[Research Utilization\|研究使用]]层面** 当观察到中小学教师极少直接套用科研成果时，政策制定者与研究者首先推定是教师科研素养不足、数据理解能力欠缺或参与动机薄弱，并假定只要自上而下开展补救性培训、输入科学证据，即可纠正手艺型经验教学并提升学生[[Academic Achievement\|学业表现]]（[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, pp. 4–5]]）。
@@ -184,7 +185,7 @@ updated: 2026-09-22
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **问题预设与结论停滞** | 揭示赤字框架如何导致三十年来学术提问与调查结论的高度雷同 | 审视教育循证改革文献与政策话语 | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]; Hodges (1996); Cain et al. (2019) |
+> | **问题预设与结论停滞** | 揭示赤字框架如何导致三十年来学术提问与调查结论的高度雷同 | 审视教育循证改革文献与政策[[Discourse\|话语]] | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]; Hodges (1996); Cain et al. (2019) |
 > | **推论简单化与自我循环** | 剖析政策建议退回技能补课的还原主义机制与理论盲点 | [[Evaluation Research\|评估研究]]使用干预方案与教师培训设计 | Schaik et al. (2018); Brown & Zhang (2018) |
 > | **课堂免责与差距固化** | 揭示教师对学生家庭的赤字归因如何成为推卸教学责任的防御心理盾牌 | 弱势群体教育、土著教育与差异化教学研究 | Bishop et al. (2003) |
 > | **数据意外与图式重构** | 论证平行班级高增值证据（$d > 0.80$）如何打破赤字神话并驱动教学反思 | 校本教研干预、读写加速项目与[[Professional Learning Community\|专业学习共同体]]建设 | Timperley (2004, 2005)；Schutzwohl (1998)；[[Argument_Hattie_2005_ACER\|Hattie (2005)]] |

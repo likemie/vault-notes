@@ -10,7 +10,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 19
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Primary and Secondary Documents]]"
   - "[[International Education]]"
+  - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
   - "[[Soft Power by Hard Facts]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # World Education Reform Database
@@ -93,7 +94,7 @@ updated: 2026-09-17
 
 > [!dev-timeline]- 项目推进历程
 > - **2010年代初期 — 架构设计与[[Primary and Secondary Documents\|原始文献]]采集** 团队系统检索各国官方公报、[[UNESCO\|联合国教科文组织]][[International Education\|国际教育]]局（IBE）历史档案以及各国教育部历史卷宗，确立收录边界与元数据标准。
-> - **2018–2021 — [[Coding in Qualitative Research\|编码]]系统成型与初步实证发表** 完成 6,700 项政策的统一量化标引，帕特里夏·布罗姆利等（Bromley et al., 2021）发表首期宏观分析报告，揭示 21 世纪以来国际组织报告在特定教育理念上的话语重心转移。
+> - **2018–2021 — [[Coding in Qualitative Research\|编码]]系统成型与初步实证发表** 完成 6,700 项政策的统一量化标引，帕特里夏·布罗姆利等（Bromley et al., 2021）发表首期宏观分析报告，揭示 21 世纪以来国际组织报告在特定教育理念上的[[Discourse|话语]]重心转移。
 > - **2023–至今 — 哈佛数据共享平台开源与第二代深度应用** 在 Harvard Dataverse 发布 WERD V2 全量开放数据集，引发全球学者利用该数据库开展自然语言处理（NLP）分析、政策扩散网络建模以及国际组织经验汲取模式比较。
 
 ---
@@ -137,7 +138,7 @@ updated: 2026-09-17
 > > 新制度主义社会学者指出，法律文本的颁布并不等同于教室层面的真实实施。
 > >
 > > - **批判学者** 指出 WERD 记录的是“宣称的改革（Promised Reforms）”，在许多发展中国家，国家为了获取国际援助而立法，但在现实中存在严重的政策与实践脱耦。
-> > - **数据库研发团队** 强调该数据库的设计初衷在于精准测量国家层面的政策意图与跨国话语流通，文本层面的趋同与分歧本身即是全球治理最重要的合法性表征。
+> > - **数据库研发团队** 强调该数据库的设计初衷在于精准测量国家层面的政策意图与跨国[[Discourse|话语]]流通，文本层面的趋同与分歧本身即是全球治理最重要的合法性表征。
 
 > [!lessons] 经验教训与启示
 > - **实施教训** 非英语与非主要西方语种的法律文件可能在翻译与标准化[[Coding in Qualitative Research\|编码]]中遗失深层本土文化语境与地方性制度修辞。

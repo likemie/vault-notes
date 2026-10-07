@@ -34,6 +34,7 @@ related_concepts:
   - "[[AI Hallucination]]"
   - "[[Literature Review]]"
   - "[[Homework]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Champ]]"
   - "[[Learned Helplessness]]"
   - "[[High-Stakes Testing]]"
@@ -74,7 +75,7 @@ title: "Argument_Smith_2026_SPE"
 argument_key: "Argument_Smith_2026_SPE"
 argument_display_title: "Generative artificial intelligence, formative epistemic injustice, and educators’ solutions"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -165,7 +166,7 @@ issuing_organization: ""
 > | **证词不正义（Testimonial Epistemic Injustice）** | 因听者偏见导致言说者遭受信度赤字。倡导者指出 AI 能够抹平非标准语体差异：例如非裔美国英语（African American Vernacular English, AAVE）背景的学生常因教师对标准美语（Standard American English, SAE）的偏见而错失学业机会，AI 润色能让其表达转换为规范学术文风，避免因身份偏见被扣分；凯西·海滕（Kathy Hytten, 2025）指出 AI 几分钟即可完成原本耗时数天的[[Literature Review\|文献综述]]并产出规范学术语调。（p.3） | 统一语体看似规避了当下偏见，实则迫使边缘群体放弃自身的独特性与文化主体性，掩盖了深层教育不公。 |
 
 > [!implication] 经典认识不正义[[Paradigm|范式]]的育人盲区：成人预设遮蔽了学习者的发展权
-> Fricker 的认识不正义范式预设对象为心智成熟的成年求知者，关注的是既有知识产出在社会交往中是否受到公正评判。然而，Hytten (2025, 2026) 敏锐地对学术主体声音（Scholarly Voice）的消解与使用 AI 的伦理正当性表达了深层焦虑。在教育情境中，核心育人问题是：“学生用 AI 完成[[Homework|作业]]后自己究竟学到了什么？教师面对人机协同文本如何合乎伦理地评估学生的真实读写能力？”这些本质性的育人追问被计算器隐喻与成人[[Epistemology|认识论]]彻底遮蔽。（pp.3–4）
+> Fricker 的认识不正义范式预设对象为心智成熟的成年求知者，关注的是既有知识产出在社会交往中是否受到公正评判。然而，Hytten (2025, 2026) 敏锐地对学术主体声音（Scholarly Voice）的消解与使用 AI 的伦理正当性表达了深层焦虑。在教育情境中，核心育人问题是：“学生用 AI 完成[[Homework|作业]]后自己究竟学到了什么？教师面对[[Man-Computer Symbiosis|人机协同]]文本如何合乎伦理地评估学生的真实读写能力？”这些本质性的育人追问被计算器隐喻与成人[[Epistemology|认识论]]彻底遮蔽。（pp.3–4）
 
 #### 2. 雇佣私厨隐喻与成长性认识不正义理论的三重检验标准
 

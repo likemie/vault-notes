@@ -13,7 +13,7 @@ aliases:
 summary: "指认识主体在求知过程中促进或阻碍达到认识论目标的性格倾向与品格特质。在德性责任论视角下由追求认知善品的求真动机与成功导向的智力技能双重构件所组成。"
 type: concept
 domain: "educational-psychology"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Intellectual Emotions]]"
   - "[[Ontology]]"
   - "[[Epistemic Cognition]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Effective Teaching]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Cognitive Deskilling]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-09-23
+updated: 2026-10-07
 ---
 
 # Epistemic Virtues and Vices
@@ -158,7 +159,7 @@ updated: 2026-09-23
 
 ### 命题三　生成式人工智能可通过功能性德性榜样与启发式提问脚手架有效培育理智品格
 
-> [!concept-lens] 人机协同教学法与数智品格教育可行性
+> [!concept-lens] [[Man-Computer Symbiosis|人机协同]]教学法与数智品格教育可行性
 > 探讨无意识的人工智能系统如何超越解题机器，成为儿童理智美德发展的[[Effective Teaching|有效教学]]支架。
 
 > [!claim] Naeem, H.

@@ -10,7 +10,7 @@ aliases:
 summary: "主张科学研究应排除研究者主观价值偏见并保持程序中立的认识论规范；在启蒙发轫期曾被道德改良统摄，在韦伯与20世纪实证学派中被法典化为科学基石，而在批判理论与当代循证反思中被解构为服务于数字审计治理的权力意识形态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 84
+related_count: 85
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Scientific Method]]"
   - "[[Incommensurability]]"
+  - "[[Discourse]]"
   - "[[Geisteswissenschaften]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Evidence-Based Education]]"
@@ -113,7 +114,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Value Neutrality
@@ -193,7 +194,7 @@ updated: 2026-10-01
 > - **程序控制与研究者超然（Procedural Rigour & Detachment）** 依靠标准化[[Questionnaire\|问卷]]、双盲实验、[[Random Assignment\|随机分配]]、统计协方差控制以及同行评议机制，将研究者主观偏见对数据结论的渗入降至最低。
 > - **技术官僚免责与去政治化合法性外衣（Technocratic Alibi & Depoliticized Legitimation）** 价值中立往往被政府机构、跨国组织（[[World Bank|世界银行]]、[[OECD|经合组织]]）与技术官僚借用为推行预定政策的客观性屏障；通过宣称研究结果“价值无涉”，决策者将充满阶级利益矛盾的政治决断包装为中立自然规律，以此规避公众道德审议与行政问责。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 147–148, 153–154)]]
 > - **古典人文与改良传统的价值关切[[Incommensurability|不可通约性]]（Incommensurability with Humanist-Meliorist Values）** 价值中立在[[Epistemology|认识论]]上与启蒙及历史哲学传统存在根本断裂：启蒙初期的比较教育（[[Marc-Antoine Jullien|朱利安]]、[[Horace Mann|曼]]）天然承载着道德改良（[[Educational Meliorism]]）与人道解放使命，而历史-哲学学派（[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯）则视民主价值防卫为核心志业，两代学者皆明确拒斥将教育研究矮化为冰冷、去价值的[[Variable|变量]]运算。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 140–144)]]
-> - **去政治化客观修辞（Depoliticized Scientific Discourse）** 在学术文本中采用去人称化表达、数据图表与概率陈述，构建无党派立场、中立客观的科学权威形象。
+> - **去政治化客观修辞（Depoliticized Scientific [[Discourse]]）** 在学术文本中采用去人称化表达、数据图表与概率陈述，构建无党派立场、中立客观的科学权威形象。
 > - **量化效度的[[Positivism\|实证主义]]前提（Positivist Validity Premise）** 该传统将价值中立列为实证主义[[Quantitative Research\|量化研究]]效度的九大基石之一——与可控性、可复制性、去情境化、随机化和可观测性并列，构成研究者对“价值无涉”的方法论承诺。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 10, pp. 158–159)]]
 > - **手段-目的工程学分离（Means-Ends Separation）** 将研究职责严格限定为评估“手段的技术有效性”，而将“目标的价值正当性”剥离并推给政治家与公众决定，奠定了现代技术官僚治理模式的理论基础。
 
@@ -240,7 +241,7 @@ updated: 2026-10-01
 > 该维度聚焦法兰克福学派与[[Critical Pedagogy\|批判教育学]]，揭露所谓“中立客观”背后隐藏的政治保守性与权力合谋。
 
 > [!claim] [[Jürgen Habermas\|Habermas, J.]]
-> **知识构成旨趣与假中立意识形态** 任何人类[[Knowledge Production\|知识生产]]都受制于深层的“知识构成旨趣”（技术旨趣、实践交往旨趣与解放旨趣）；实证主义将追求控制的技术旨趣伪装为唯一的、中立的客观科学，实际上通过排斥批判反思，剥夺了被压迫者挑战不公正体制的话语武器，在客观实效上沦为巩固统治阶级既得利益的意识形态仆从。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, pp. 29, 113)]]
+> **知识构成旨趣与假中立意识形态** 任何人类[[Knowledge Production\|知识生产]]都受制于深层的“知识构成旨趣”（技术旨趣、实践交往旨趣与解放旨趣）；实证主义将追求控制的技术旨趣伪装为唯一的、中立的客观科学，实际上通过排斥批判反思，剥夺了被压迫者挑战不公正体制的[[Discourse|话语]]武器，在客观实效上沦为巩固统治阶级既得利益的意识形态仆从。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, pp. 29, 113)]]
 
 > [!claim] [[Louis Cohen\|Cohen, L.]], [[Lawrence Manion\|Manion, L.]] & [[Keith Morrison\|Morrison, K.]]
 > **政治中立呼吁的意识形态饱和性** 在充满阶级压迫与不平等的社会中，呼吁“价值中立”的研究由于拒绝反思制度性压迫，本质上就是意识形态饱和的；这种研究通过假装天真与无偏见，起到了阻遏激进变革、维系现状（Status Quo）的保守政治功能。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, p. 29)]]
@@ -378,7 +379,7 @@ updated: 2026-10-01
 > | [[Social Science as Legitimation Alibi\|实证社会科学作为合法化借口]] | 概念 | 价值中立被技术官僚工具化为行政免责与政治辩护的伪客观外衣。 |
 > | [[Carol Weiss\|卡罗尔·韦斯]] | 人物 | 经典[[Policy Science in Comparative Education\|政策科学]]理论家，提出“政策制定关乎价值”、“研究主要充当政治合法化燃料而非引擎”等核心洞见。 |
 > | [[Carlos Alberto Torres\|卡洛斯·阿尔贝托·托雷斯]] | 人物 | 批判教育学者，深刻解构教育政策的技术中立修辞，揭示其背后隐匿的国家理论与资本积累矛盾。 |
-> | [[Liliana Esther Olmos\|莉莉安娜·埃丝特·奥尔莫斯]] | 人物 | 与托雷斯合作剖析新自由主义教育改革中伪价值中立话语的阶级策略本质。 |
+> | [[Liliana Esther Olmos\|莉莉安娜·埃丝特·奥尔莫斯]] | 人物 | 与托雷斯合作剖析新自由主义教育改革中伪价值中立[[Discourse\|话语]]的阶级策略本质。 |
 > | [[Martin Carnoy\|马丁·卡诺伊]] | 人物 | 运用国家矛盾理论，揭示实证主义“价值中立”模型掩盖阶级剥削与再生产的意识形态本质。 |
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 梳理比较教育学方法论争鸣中卡扎米亚斯关于改良主义、[[Ideology Critique\|意识形态批判]]与严格价值中立的三重轴线。 |
 > | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 历史考证比较教育四重代际，批判实证主义对价值中立的机械迷信及其作为政治借口的工具化异化。 |

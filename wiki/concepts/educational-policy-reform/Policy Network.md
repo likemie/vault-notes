@@ -12,7 +12,7 @@ aliases:
 summary: "由政府部门、中介组织、智库、高校与私有资本等多元行动者交织构成的网状治理结构。在批判政策社会学中揭示国家作为市场缔造者与私营中介协同重构再分配与理念编排的异层治理，在实证治理中测度政务网络规模与互动深度非线性解耦。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Document]]"
   - "[[Assemblage]]"
+  - "[[Discourse]]"
   - "[[Co-affiliation]]"
   - "[[Evidence Ecosystem]]"
   - "[[Competitiveness]]"
@@ -107,7 +108,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **核心内涵** 描述教育决策权与证据动员权向网络状分布结构的分散化与再集中，兼具非正式权力结盟、公私资本嵌套、国家异层催化与科层政务咨询的多重面向。
-> - **理论用途** 一方面用于解构中立循证话语背后的公私利益共生、跨界[[Co-affiliation\|共同从属]]与财政逆向再分配，另一方面用于诊断国家[[Evidence Ecosystem\|教育证据生态系统]]中信息流通的密度、频率与结构性梗阻。
+> - **理论用途** 一方面用于解构中立循证[[Discourse|话语]]背后的公私利益共生、跨界[[Co-affiliation\|共同从属]]与财政逆向再分配，另一方面用于诊断国家[[Evidence Ecosystem\|教育证据生态系统]]中信息流通的密度、频率与结构性梗阻。
 > - **制度边界** 既不同于严格遵循科层命令与公开问责的传统官僚制政府（Bureaucracy），也不同于松散自由的纯学术研讨圈，网络中的节点保持着制度化的常规互动、资金纽带、法律特许规程或人事渗透。
 
 > [!citation-card] 部委政务网络中的非线性解耦
@@ -129,7 +130,7 @@ updated: 2026-10-07
 > |---|---|---|---|---|
 > | **治理结构与纽带** | 公私节点交叉缠绕的异质治理网状结构 | 垂直自上而下的层级法定指令与规章制度 | 基于同行评议与学术规范的学术网络 | 基于商业合同与买卖契约的交易关系 |
 > | **权力与控制来源** | 理念编排、多重人事任职与资金渗透 | 法定行政权威与国家强制力监督 | 学术声誉、方法学严谨性与知识发现 | 市场[[Competitiveness\|竞争力]]、交付效率与客户满意度 |
-> | **知识流动特征** | 战略性筛选、话语包装与特定证据背书 | 公文流转、政令发布与自上而下政策传导 | 自由探讨、反思争鸣与经验[[Falsification\|证伪]] | 按委托方需求交付定制化决策简报 |
+> | **知识流动特征** | 战略性筛选、[[Discourse\|话语]]包装与特定证据背书 | 公文流转、政令发布与自上而下政策传导 | 自由探讨、反思争鸣与经验[[Falsification\|证伪]] | 按委托方需求交付定制化决策简报 |
 > | **核心潜在风险** | 民主问责虚化、大网络陷阱与利益集团捕获 | 僵化教条、响应迟缓与严重脱离一线实际 | 象牙塔闭门造车、成果可操作性与可及性差 | 证据商业化变现与短视技术性修补 |
 
 ---
@@ -137,7 +138,7 @@ updated: 2026-10-07
 ## 核心要素
 
 > [!feature] 核心要素
-> - **理念编排与话语建构（Idea Orchestration）** 网络内部各节点（如智库、官方中介）协同宣传特定政策话语或实证理论（如将特定认知科学理论包装为唯一科学真理），框定讨论前提并排斥异质观点（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]）。
+> - **理念编排与[[Discourse|话语]]建构（Idea Orchestration）** 网络内部各节点（如智库、官方中介）协同宣传特定政策话语或实证理论（如将特定认知科学理论包装为唯一科学真理），框定讨论前提并排斥异质观点（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]]）。
 > - **人事与资金的跨界穿梭（[[Boundary Spanner\|boundary spanning]] & Shared Affiliations）** 核心骨干在官方监管机构、民间智库、跨国慈善基金会与中介组织之间兼任多重职务，实现政策意图的隐性合流（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024]]）。
 > - **机构[[Co-affiliation\|共同从属]]与多重从属性（Co-affiliation & [[Multiplicity]]）** 政策网络决策层跨越政界、商界与慈善界，以共同捐赠人、多重董事兼职与子公司控股构成闭环网络（如 [[Social Ventures Australia\|SVA]] 董事、[[Education Endowment Foundation\|EEF]] 高管与商业银行家共同主导 [[Australian Education Research Organisation\|AERO]]）（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–10]]）。
 > - **耐用客体[[Assemblage\|装配]]与立法锚定（Inanimate Assemblage & Legislative Anchoring）** 政策网络借助《公司法》注册资质、法案修改条款、公司章程以及因果实证量规等耐用客体，将特定的私营分包与公私合作模式制度化固化为国家行政常态（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–3, 5]]）。
@@ -173,7 +174,7 @@ updated: 2026-10-07
 ### 命题一　异质治理通过跨界理念编排与话语垄断重构公共教育政策范式
 
 > [!concept-lens] 公私网络对有效知识定义权的垄断机制
-> 揭示政策网络如何绕过代议制民主审议，通过选择性包装科学话语确立排他性的政策议程。
+> 揭示政策网络如何绕过代议制民主审议，通过选择性包装科学[[Discourse|话语]]确立排他性的政策议程。
 
 > [!claim] Skourdoumbis, A.; Rowe, E.
 > **理念编排对民主政策审议的置换** 政策网络通过公私联合，垄断教育领域中“有效知识”的裁决权，将复杂的社会正义与教学情境问题窄化为单一的生理学或技术性指标，从而规避广泛的社会民主辩论。网络中的官方证据中介与跨国基金会（如英国[[Education Endowment Foundation\|教育捐赠基金会]]，EEF）通过定向资助特定的[[Randomised Controlled Trials\|随机对照试验]]（RCT）与证据综述，将特定学说（如[[Cognitive Load Theory\|认知负荷理论]]）强行确立为官方教师培养大纲的必修基准，系统性排斥了关注社会阶层与文化背景的批判学说。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, pp. 6–8)]]
@@ -287,7 +288,7 @@ updated: 2026-10-07
 > | **大学与教育学院** | 32 | 28 | 高度咬合（传统学术生产垄断） |
 > | **其他公共研究机构** | 20 | 18 | 高度咬合（官方御用研究队伍） |
 > | **智库** | 10 | 3 | 严重脱节（转化中介遭体制性排斥） |
-> | **专业团体与协会** | 14 | 4 | 严重脱节（实践端专业话语被冷落） |
+> | **专业团体与协会** | 14 | 4 | 严重脱节（实践端专业[[Discourse\|话语]]被冷落） |
 > | **教师工会** | 13 | 2 | 极端脱节（65% 形式覆盖，但 92% 属罕见寒暄） |
 
 > [!ref-table]- 表三：澳大利亚跨国[[Venture Philanthropy\|风险慈善]]政策网络与 [[Australian Education Research Organisation\|AERO]] [[Co-affiliation\|共同从属]]拓扑（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5–10]]）
@@ -326,7 +327,7 @@ updated: 2026-10-07
 > > - **批判学者立场** 权力向非民选的智库与跨国商业慈善实体转移，直接破坏了代议制民主的透明度与问责底线（Ball, 2012; [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024]]）。
 > > - **新公共治理学者立场** 主张现代复杂社会需要网状治理，网络能够打破科层官僚的刚性条块分割，快速集成跨界智慧。
 >
-> > [!axis] 金融化从业话语统摄 vs 公共教育民主价值消解
+> > [!axis] 金融化从业[[Discourse|话语]]统摄 vs 公共教育民主价值消解
 > > 探讨政策网络广泛采纳金融投行从业术语对教育本质的重构。
 > >
 > > - **批判学者立场** 埃玛·罗威（Emma Rowe）揭露政策网络将“[[Educational Brokerage Agency\|证据经纪人]]”、“买入”以及“金钱是我们对话的通用货币”升格为通用语言，实质是资本逻辑对教育公共性、批判性与教师[[Professional Judgment\|专业判断]]的[[Epistemic Coloniality\|认识论殖民]]。（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]）

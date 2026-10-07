@@ -9,10 +9,10 @@ aliases:
 summary: "Antonio Gramsci (1971) 的权力理论：区分强制与霸权，指支配群体通过法律、教育、媒体、科学、大学及智能算法等文化制度，正当化其统治并赢得被统治者积极同意的治理机制。在教育中，学校课程、全球大学排名与平台技术嵌入充当了制造文化共识与自然化中心—边缘等级的霸权装置。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 39
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 41
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 domain: "political-economy-geopolitics"
 related_count: 32
 related_level: 3
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Critical Pedagogy]]"
   - "[[Geopolitics of Higher Education]]"
+  - "[[Discourse]]"
   - "[[Official Knowledge]]"
   - "[[Global Universities Rankings]]"
   - "[[Disciplina and Doctrina]]"
@@ -45,6 +46,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Document]]"
   - "[[Variable]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Epistemology]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Sinicisation]]"
@@ -73,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-13
-updated: 2026-09-28
+updated: 2026-10-07
 ---
 
 # Hegemony
@@ -99,7 +101,7 @@ updated: 2026-09-28
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 意大利思想家安东尼奥·葛兰西（Antonio Gramsci, 1971）在 1929–1935 年被法西斯政权关押期间所撰写的《狱中[[Memos\|札记]]》（*Quaderni del carcere*）中系统阐述。[[Argument_Marginson_2025_ECNUROE\|(Marginson, 2025, p. 13)]]
 > - **原初问题** 针对 20 世纪初经典马克思主义在西欧资本主义国家的预测落空——为何经济危机爆发时无产阶级没有发动革命，反而由法西斯与资产阶级政权稳固掌控了政权。
-> - **理论资源与材料** 批判性改造马基雅维利关于统治需兼顾“狮子（暴力）与狐狸（智谋/共识）”的政治寓言；吸收列宁关于无产阶级政治领导权的概念；深入考察意大利南部问题、罗马天主教会数百年维系统治的话语实践以及知识分子阶层的社会功能。
+> - **理论资源与材料** 批判性改造马基雅维利关于统治需兼顾“狮子（暴力）与狐狸（智谋/共识）”的政治寓言；吸收列宁关于无产阶级政治领导权的概念；深入考察意大利南部问题、罗马天主教会数百年维系统治的[[Discourse|话语]]实践以及知识分子阶层的社会功能。
 > - **形成路径** 葛兰西划分了“政治社会（Political Society，行使国家直接强制）”与“市民社会（Civil Society，行使文化领导权）”，论证稳定的资产阶级统治依靠市民社会中教会、学校、报刊与社团构筑的“堑壕防御体系”，确立了从“运动战（暴力夺权）”转向“阵地战（夺取文化领导权）”的革命战略。
 
 ### 后续修订与扩展
@@ -138,7 +140,7 @@ updated: 2026-09-28
 > [!theory-proposition] 命题二｜文化部门具备半自主性且霸权始终面临不完整同意与反霸权抵抗
 > **解释** 霸权绝非机械的单向洗脑或全盘极权控制。文化部门（教育、学术、艺术）必须对政治与经济系统保持适度的“半自主性（[[Semi-Autonomy of Higher Education\|semi-autonomy]]）”；唯有当大学和学者展现出探求真理的专业自主假象时，其制造的共识才具备社会可[[Reliability\|信度]]。然而，正因为半自主性的存在，文化[[Champ\|场域]]永远无法实现百分之百的意识形态铁板一块，被支配者立足于边缘文化资源与日常经验，始终展开着反霸权抵抗与“不完整的同意（Incomplete Consent）”。[[Argument_Marginson_2025_ECNUROE\|(Marginson, 2025, pp. 13–14)]]; [[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 68–70)]]
 >
-> **应用实例** [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] 对中国 37 名少数民族大学生的[[In-depth Interview\|深度访谈]]表明，尽管学生在义务教育中全面接受了以汉儒为核心的官方教科书教育，但有高达 86% 的学生在大学阶段明确拒斥“儒家等于中华文化”的霸权等式，展现出立足于本土民族文化对主流教科书话语的反霸权解构。
+> **应用实例** [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] 对中国 37 名少数民族大学生的[[In-depth Interview\|深度访谈]]表明，尽管学生在义务教育中全面接受了以汉儒为核心的官方教科书教育，但有高达 86% 的学生在大学阶段明确拒斥“儒家等于中华文化”的霸权等式，展现出立足于本土民族文化对主流教科书[[Discourse|话语]]的反霸权解构。
 
 > [!theory-proposition] 命题三｜霸权通过语法修辞与空间叙事自然化中心—边缘的[[Cultural Hierarchy\|文化等级]]
 > **解释** 霸权话语不仅仅是在内容层面灌输意识形态，更通过隐蔽的语法结构、师生隐喻与时空定位，将不平等的权力关系转化为具有道德善意的文明[[Bildung\|教化]]叙事，使处于边缘位置的主体在情感与认知上接受自身的次生地位。[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 67–68)]]
@@ -156,7 +158,7 @@ updated: 2026-09-28
 
 > [!theory-use] 框架入口
 > - **[[Research Question\|研究问题]]** 某项教育政策、课程标准、国际评价工具或智能化教学平台，如何将特定群体的利益与世界观转化为不可置疑的常识？其中存在何种制度化共识制造机制与边缘反抗空间？
-> - **分析对象与单位** 国家统编教科书话语、大学排名指标体系、国际留学流动政策文本、高校智能化采购与教学平台交互日志。
+> - **分析对象与单位** 国家统编教科书[[Discourse|话语]]、大学排名指标体系、国际留学流动政策文本、高校智能化采购与教学平台交互日志。
 > - **需要的材料** 课程大纲与教科书文本、政策法案、高校师生[[In-depth Interview\|深度访谈]]、排名机构指标计算权重、算法系统的训练数据分布与审核日志。
 > - **解释目标** 解构被视为客观中立的教育制度或技术中介背后的权力共谋，评估其制造积极同意与再生产不平等的效力，识别反霸权与认识正义的破局路径。
 
@@ -199,7 +201,7 @@ updated: 2026-09-28
 
 > [!tension] 霸权同化整合意图 vs 边缘群体的反霸权抵抗
 > - **同化整合意图（支配方）** 试图通过统编课程、学术认证与算法标准模板将主流[[Paradigm\|范式]]塑造为唯一正统（[[Argument_Yu_2024_CE\|Yu & Zhao, 2024]]; [[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026]]）。
-> - **主体性能动抵抗（边缘方）** 边缘主体调动本土经验、信仰与批判警觉，拒绝霸权垄断，将主导话语相对化为多元文化之一。
+> - **主体性能动抵抗（边缘方）** 边缘主体调动本土经验、信仰与批判警觉，拒绝霸权垄断，将主导[[Discourse|话语]]相对化为多元文化之一。
 
 > [!critique]- 批评索引
 > - [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]] — 指出霸权概念在经验实证[[Operationalization\|操作化]]上的模糊性，以及难以精确衡量文化同意具体阈值的测量缺陷。
@@ -223,6 +225,6 @@ updated: 2026-09-28
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]] — 将葛兰西霸权理论系统引入[[Geopolitics of Higher Education\|高等教育地缘政治]]，替代[[World-Systems Theory\|世界体系理论]]，剖析美式大学、引文评价与大学排名如何制造全球知识等级的积极同意。
 > - [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] — 结合 217 册教材文本与少数民族学子访谈，实证揭示国家课程如何作为霸权装置自然化文化中心主义，以及边缘群体的反霸权解构。
-> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 将霸权理论拓展至人机共生时代的[[Epistemology\|认识论]]批判，揭示大模型语料偏倚与高校平台捆绑如何隐蔽再生产主导阶层文化霸权，倡导捍卫认识多样性与分布式责任。
+> - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 将霸权理论拓展至[[Man-Computer Symbiosis|人机共生]]时代的[[Epistemology\|认识论]]批判，揭示大模型语料偏倚与高校平台捆绑如何隐蔽再生产主导阶层文化霸权，倡导捍卫认识多样性与分布式责任。
 > - [[Geopolitics of Knowledge]] — 应用霸权理论解释西方学术[[Paradigm\|范式]]对发展中国家大学学术议程与认知图式的[[Disciplina and Doctrina\|规训]]与支配。
 > - [[Sinicisation]] — 探讨国家如何通过制度性教育与文化装置实现多民族国家的认同整合与文化领导权建构。

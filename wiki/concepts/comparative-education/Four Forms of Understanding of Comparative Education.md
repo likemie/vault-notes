@@ -6,7 +6,7 @@ aliases:
 summary: "Cowen（2023）诊断比较教育学科长期并存的四种理解形式，包括求同存异、趋同理论、政策科学和结果导向，指出它们各自的政治预设"
 type: concept
 domain: "comparative-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Educated Identity]]"
   - "[[Screening Off]]"
+  - "[[Discourse]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Convergence Theory in Comparative Education]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Four Forms of Understanding of Comparative Education
@@ -110,7 +111,7 @@ updated: 2026-09-22
 ## 争议与批评
 
 > [!warning]
-> - **政治预设的隐蔽性**。四种理解形式都带有政治预设，但学科长期忽视这一点。求同存异的中性偏见掩盖了对极端政治与国家概念的忽视，[[Convergence Theory in Comparative Education\|趋同理论]]的进化假象掩盖了对强制性权力关系的[[Screening Off\|屏蔽]]，[[Policy Science in Comparative Education\|政策科学]]明确与国家权力结盟而丧失批判距离，结果导向沦为新自由主义经济话语的测量工具并强化特定全球秩序。它们在[[Epistemology\|认识论]]与政治结盟上存在双重冲突([[Argument_Cowen_2023_CE\|Cowen, 2023, pp.332–334]])。
+> - **政治预设的隐蔽性**。四种理解形式都带有政治预设，但学科长期忽视这一点。求同存异的中性偏见掩盖了对极端政治与国家概念的忽视，[[Convergence Theory in Comparative Education\|趋同理论]]的进化假象掩盖了对强制性权力关系的[[Screening Off\|屏蔽]]，[[Policy Science in Comparative Education\|政策科学]]明确与国家权力结盟而丧失批判距离，结果导向沦为新自由主义经济[[Discourse|话语]]的测量工具并强化特定全球秩序。它们在[[Epistemology\|认识论]]与政治结盟上存在双重冲突([[Argument_Cowen_2023_CE\|Cowen, 2023, pp.332–334]])。
 > - **共存而非替代**。这四种形式不是历史替代关系，而是同时并存的。学科从未认真审视它们之间的矛盾，也从未选择其中一种作为主导[[Paradigm\|范式]]([[Argument_Cowen_2023_CE\|Cowen, 2023, p.332]])。
 
 ---

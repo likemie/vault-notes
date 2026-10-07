@@ -8,7 +8,7 @@ aliases:
 summary: "一种由政治迫切性与媒介逻辑共同驱动的治理形态，指出政策行动者与大众媒体通过选择性建构危机叙事并规避具体方案审视，使全球评估数据转化为推动本土激进改革的合法化工具"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Governance by Spin]]"
   - "[[Policy Avoidance]]"
   - "[[Hypothesis]]"
+  - "[[Discourse]]"
   - "[[Soft Power]]"
   - "[[Dramatic Tension]]"
   - "[[Falling Standards Template]]"
@@ -54,7 +55,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Mediatised Governance
@@ -90,7 +91,7 @@ updated: 2026-09-22
 > | 维度 | 媒介化治理（Mediatised Governance） | 全球教育治理（Global [[Educational Governance Framework\|Educational Governance]]） | 舆论操控治理（[[Governance by Spin]]） |
 > |---|---|---|---|
 > | **核心驱动力量** | 本土[[Media Logic\|媒体逻辑]]、新闻价值与政客媒介资本的双向互动 | 超国家机构（[[OECD]]）的跨国对标、指标监控与同行评议 | 国家政府公关机器对公众感知的单向塑造与争议消解 |
-> | **数据工具角色** | 评估数据成为高度可塑的修辞弹药，用于制造危机感 | 评估数据作为客观指标，界定全球最佳实践与质量基准 | 政策文本中的模糊话语，用于并置矛盾声明以安抚多元群体 |
+> | **数据工具角色** | 评估数据成为高度可塑的修辞弹药，用于制造危机感 | 评估数据作为客观指标，界定全球最佳实践与质量基准 | 政策文本中的模糊[[Discourse\|话语]]，用于并置矛盾声明以安抚多元群体 |
 > | **媒体功能定位** | 拥有相对自主性的独立政治制度，主导政策议题边框 | 作为超国家组织全球知识传播与[[Soft Power\|软实力]]扩散的流通渠道 | 作为被政府公关策略借用的信息展示橱窗与公关平台 |
 > | **政策审视状态** | **[[Policy Avoidance\|政策规避]]（Policy Avoidance）** 聚焦危机本身，对改革细则免于审查 | 依赖专家网络与同行审查，强化技术官僚方案审视 | 追求政策表面的中立化与稳定性，避免激化政治对抗 |
 
@@ -101,7 +102,7 @@ updated: 2026-09-22
 > [!feature] 媒介化治理的四大核心要素
 > - **[[Media Logic\|媒介逻辑]]（Media Logic）** 新闻媒介固有的选择、加工与呈现原则（Altheide & Snow, 1979）。媒体高度偏好具有负面性、人情味、冲突性与迫近性的事件，倾向于将复杂社会现象压缩为具有[[Dramatic Tension\|戏剧张力]]的失败者故事或[[Falling Standards Template\|水平下降模板]]。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 111–112)]]
 > - **媒介资本（Media Capital）** 政治行动者在公共媒介[[Champ\|场域]]中积累并动员的权力资源（Davis & Seymour, 2010），细分为依附于职位的制度性媒介资本与依附于言语魅力、记者人脉与警句制造能力的个性化媒介资本。政治人物凭借高媒介资本能够有效向媒体提供素材并引导头条基调。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, p. 125)]]
-> - **遗漏话语（Discourse of Omission）** 政治精英在引述国际报告时采取的高度选择性修辞策略。凡是违背本土执政党既定意识形态的实证证据（如早期分流加剧不公、外部问责加剧焦虑、[[Performance Pay\|绩效工资]]无效）均被系统性剔除；凡是有利于既定改革议程的修辞则被过度放大。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 117–120)]]
+> - **遗漏[[Discourse|话语]]（Discourse of Omission）** 政治精英在引述国际报告时采取的高度选择性修辞策略。凡是违背本土执政党既定意识形态的实证证据（如早期分流加剧不公、外部问责加剧焦虑、[[Performance Pay\|绩效工资]]无效）均被系统性剔除；凡是有利于既定改革议程的修辞则被过度放大。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 117–120)]]
 > - **[[Policy Avoidance\|政策规避]]（Policy Avoidance）** 新闻媒体对政策实质细则与证据基础的主动放弃式审查。媒体在狂热报道国际排列表与国家危机时，极少深入讨论政府提出的应对政策是否合理、可行或与评估证据相符，导致民主制度中媒体的第四权力监察职能实质性缺席。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 122–125)]]
 
 > [!logic-map]- 媒介化治理的要素运转机制
@@ -155,7 +156,7 @@ updated: 2026-09-22
 > 探讨国内政治精英如何利用国际评估报告的复杂性与多重文本特性，通过系统性过滤与修辞重塑，将实证稳定的学业数据包装为刻不容缓的制度危机。
 
 > [!claim] [[Argument_Grey_2018_CE\|Grey & Morris (2018)]]
-> **评估工具的可塑性与危机修辞建构** 跨国评估数据具有极强的数据可塑性（plasticity）。政治行动者在面对国际测验数据时，并非客观汲取政策建议，而是依据本土选举与党派利益实施遗漏话语（discourse of omission）。在英格兰案例中，政府官方声明彻底过滤掉了 [[OECD]] 关于分轨分流损害教育公平、[[Rote Learning\|死记硬背]]属于旧官僚系统、[[Performance Pay\|绩效工资]]无法提升教师质量等关键结论，反而借由停滞、下滑、被全球竞争者甩在身后等高度情绪化的警句，在学业总分实证稳定的客观背景下生造出一场国家教育危机，以此为其私有化与严苛问责的新自由主义改革议程披上国际循证的合法化外衣。（pp. 116–120）
+> **评估工具的可塑性与危机修辞建构** 跨国评估数据具有极强的数据可塑性（plasticity）。政治行动者在面对国际测验数据时，并非客观汲取政策建议，而是依据本土选举与党派利益实施遗漏[[Discourse|话语]]（discourse of omission）。在英格兰案例中，政府官方声明彻底过滤掉了 [[OECD]] 关于分轨分流损害教育公平、[[Rote Learning\|死记硬背]]属于旧官僚系统、[[Performance Pay\|绩效工资]]无法提升教师质量等关键结论，反而借由停滞、下滑、被全球竞争者甩在身后等高度情绪化的警句，在学业总分实证稳定的客观背景下生造出一场国家教育危机，以此为其私有化与严苛问责的新自由主义改革议程披上国际循证的合法化外衣。（pp. 116–120）
 
 ---
 
@@ -185,7 +186,7 @@ updated: 2026-09-22
 > [!dev-timeline] 媒介化治理理论谱系与演变
 > - **1979 年 — [[Media Logic\|媒介逻辑]]的提出** Altheide & Snow 出版《Media Logic》，首次系统阐述大众媒介并非透明容器，而是具有自身特定的组织机制、修辞语法与感知偏好，任何社会机构欲进入大众视野均须适应其生产逻辑。
 > - **1999–2014 年 — 政治媒介化理论体系化** Mazzoleni & Schulz (1999) 提出政治媒介化概念；Strömback & Esser (2014) 将其发展为现代民主国家转型的元进程理论框架，确立了媒介化区别于传统中介传播（mediation）的理论自主性。
-> - **2010–2016 年 — 媒介化向教育政策研究的迁移** Lingard & Rawolle (2004) 与 Rawolle (2010) 率先探讨澳大利亚教育政策的媒介化现象；Baroutsis & Lingard (2016) 运用框架理论分析媒体如何通过计数与比较建构澳大利亚学校问责话语。
+> - **2010–2016 年 — 媒介化向教育政策研究的迁移** Lingard & Rawolle (2004) 与 Rawolle (2010) 率先探讨澳大利亚教育政策的媒介化现象；Baroutsis & Lingard (2016) 运用框架理论分析媒体如何通过计数与比较建构澳大利亚学校问责[[Discourse|话语]]。
 > - **2018 年 — 媒介化全球教育治理批判性分析视角的提出** [[Paul Morris\|Paul Morris]] 与 Sue Grey 发表《[[PISA]]: multiple ‘truths’ and mediatised global governance》，正式将媒介化概念与全球教育治理及跨国比较教育深度融合，揭示了跨国数据、政治修辞与本土媒体合谋的治理机制，开拓了超越超国家[[Convergence Theory in Comparative Education\|趋同论]]的新批判研究路径。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018)]]
 
 ---
@@ -212,4 +213,4 @@ updated: 2026-09-22
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]与实证案例
 > - [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] — 以英格兰应对 2012 年 [[PISA]] 结果为案例，系统论证了教育大臣 [[Michael Gove]] 如何动员个人与制度媒介资本，在媒体[[Falling Standards Template\|水平下降模板]]与[[Policy Avoidance\|政策规避]]的协同下，将平稳的评估数据转化为推动学院学校、严苛督导与[[Performance Pay\|绩效工资]]改革的媒介化治理过程。
-> - [[Argument_Beech_2009_CE\|Beech (2009)]] — 在阿根廷与巴西课程改革研究中揭示国家话语如何利用电视与大众媒体语言的口号化特征，将不相容的改革政策并置为看似现代的公众形象。
+> - [[Argument_Beech_2009_CE\|Beech (2009)]] — 在阿根廷与巴西课程改革研究中揭示国家[[Discourse|话语]]如何利用电视与大众媒体语言的口号化特征，将不相容的改革政策并置为看似现代的公众形象。

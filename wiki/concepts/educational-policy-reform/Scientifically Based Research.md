@@ -9,7 +9,7 @@ aliases:
 summary: "由 2001 年美国《不让一个孩子掉队法》（NCLB）与 2002 年《教育科学改革法》（ESRA）确立的联邦法定证据准入标准，强调运用严谨、系统与客观的实证程序（优先青睐实验与准实验设计）获取教育有效知识，后因缺乏操作化分级及对原则与评估的混淆，在 2015 年 ESSA 中被四级循证标准替代"
 type: concept
 domain: "educational-policy-reform"
-related_count: 61
+related_count: 62
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[Performance Pay]]"
+  - "[[Discourse]]"
   - "[[Metascience]]"
   - "[[Big Science]]"
   - "[[Phronesis]]"
@@ -170,7 +171,7 @@ updated: 2026-10-07
 > | **研发管线脱节命题** | 法定证据口号若缺乏公共研发基础设施与存量支撑则易沦为空洞符号 | 国家科研资助、智库建设、中介平台运营 | [[Argument_Slavin_2019_EP\|Slavin (2019, pp. 22–24)]] |
 > | **规制反噬异化命题** | 死板的[[Technical Rationality\|技术理性]]指标规制必然引发自上而下的教学异化与治理危机 | 高利害问责政策评估、[[Performance Pay\|绩效工资]]改革、行政规章制定 | [[Argument_Serpell_2020_EP\|Serpell (2020, pp. 41–42)]] |
 > | **分级进化替代命题** | 二元模糊的科学准入必然走向[[Operationalization\|操作化]]、包容性更强的多层级证据治理 | 教育法律重新授权、[[Evidence Standards\|证据标准]]迭代、政策工具转型 | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021, p. 109)]] |
-> | **利益同盟建构命题** | 法定科学标准本质上是次政府铁三角垄断学术话语与商业利益的制度化建构 | 政策制定政治学分析、循证立法批判、政商联盟审议 | [[Argument_Edmondson_2005_EPAA\|Edmondson (2005, pp. 8–11)]] |
+> | **利益同盟建构命题** | 法定科学标准本质上是次政府铁三角垄断学术[[Discourse\|话语]]与商业利益的制度化建构 | 政策制定政治学分析、循证立法批判、政商联盟审议 | [[Argument_Edmondson_2005_EPAA\|Edmondson (2005, pp. 8–11)]] |
 > | **功能分野与审议演进命题** | 法定科学标准区分服务支出合规与科研资助划定，且在学界公共审议与国会质证中保持动态演进空间 | 联邦教育科研立法、资助标准制定、多元[[Paradigm\|范式]]合法性辩护 | [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003, pp. 31–37)]] |
 
 ---
@@ -268,7 +269,7 @@ updated: 2026-10-07
 > > - **严谨实证因果辩护（[[Argument_Slavin_2002_ER|Slavin, 2002]]）** 从政治与学科合法性角度有力辩护指出，长期以来教育研究充斥着未经检验的教学时尚与主观意识形态钟摆，缺乏公信力；正是因为缺乏无可挑剔的实验因果证据，教育才迟迟未能步入类似现代医学与农业的累积性进步轨道，设立高门槛 SBR 标准旨在集中公共资源修复教育研究的糟糕声誉。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 18–19)]]
 > > - **知识生态规训与[[Paradigm|范式]]霸权批判（[[Argument_Revai_2022_ChangingLandscape|Révai, 2022]]; [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022]]）** 指出 [[No Child Left Behind Act 2001|NCLB]] 将 SBR 严苛绑定于大规模量化 [[Randomised Controlled Trials|RCT]] 与 [[Quasi-Experimental Designs|QED]]，实质上是对国家教育科研生产方式施加了极具行政色彩的强力规训，在制度层面排斥了深具本土情境价值的[[Qualitative Research|质性研究]]、[[Action Research|行动研究]]与一线教师的[[Phronesis|实践智慧]]。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, pp. 60–65)]]
 >
-> > [!axis] 次政府政商利益同盟与排他性科学话语垄断
+> > [!axis] 次政府政商利益同盟与排他性科学[[Discourse|话语]]垄断
 > > 争论 SBR 标准究属客观科学演进，抑或政商集团垄断资源与话语的工具。
 > >
 > > - **国家管理与行政官僚立场（Lyon, 1997; Goodling, 1997）** 将国家资助的量化医学[[Experimental Research|实验研究]]包装为唯一的科学定论，声称直接且系统的语音拼读教学是唯一经验证的科学方案。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 8)]]

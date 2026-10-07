@@ -8,7 +8,7 @@ aliases:
 summary: "梳理公共部门与教育领域证据使用思维演进的分析框架，从理性-线性（第一代）、关系网络（第二代）、系统全局（第三代）递进至以教师多源知识整合与专业规范为核心的专业敏感型（第四代）模型"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 27
+theory_related_count: 28
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -53,7 +53,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Four Generations of Research Use

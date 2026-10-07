@@ -9,7 +9,7 @@ aliases:
 summary: "阿尔伯特·班杜拉提出的社会认知动机核心构念，指个体对自身在特定任务情境中组织并执行必要行动以达成特定目标的胜任信念；通过预期、努力持久度与目标设定调节学习与教学，并在支架式探究与认识论实践中作为亲历掌握经验塑造的学科胜任信念与科学知者身份认同关键成果。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
+  - "[[Discourse]]"
   - "[[Direct Instruction]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Nature of Science]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Self-Efficacy
@@ -176,7 +177,7 @@ updated: 2026-09-22
 ### 命题四　支架式科学探究与课堂认识论实践通过具身掌握经验显著培育学生的学科自我效能感与知者身份认同
 
 > [!concept-lens] 科学探究情境中的自我效能生成与[[Epistemology\|认识论]]动因
-> 探讨自主探究与微观话语协商实践相较于单向[[Direct Instruction\|直接讲授]]，如何通过引导学生深度参与真实科学[[Knowledge Building Theory|知识建构]]，直接提供亲历掌握经验以提升其学科自我效能感，并建立合法的科学知者身份。
+> 探讨自主探究与微观[[Discourse|话语]]协商实践相较于单向[[Direct Instruction\|直接讲授]]，如何通过引导学生深度参与真实科学[[Knowledge Building Theory|知识建构]]，直接提供亲历掌握经验以提升其学科自我效能感，并建立合法的科学知者身份。
 
 > [!claim] [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]
 > **探究体验对科学自我效能感与认识论动因的独特培育** 在科学教育与教学法争论中，教学成效的衡量不能窄化为孤立的概念性事实测验。实证研究明确表明，[[Inquiry-Based Learning\|探究式学习]]在激发学生的[[Nature of Science\|科学本质]]（Nature of Science, NOS）认知、探究实践素养、科学学习兴趣以及自我效能感等非认知与认识论维度上具有直接讲授无法替代的独特育人价值；依照[[Albert Bandura\|班杜拉]]的社会认知理论，亲历掌握经验（Mastery Experiences）是自我效能感最稳固的信息来源，在支架式探究中，学生通过自主提出[[Hypothesis\|假设]]、[[Design-Based Research\|设计实验]]并解决真实认知阻碍，亲身获得了作为“知识发现者与检验者”的具身掌握体验，从而显著强化了面对复杂科学挑战时的胜任信念与认识论动因（[[Epistemic Agency]]）。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 10)]]
@@ -204,7 +205,7 @@ updated: 2026-09-22
 > - **1977 — 社会认知理论奠基** [[Albert Bandura\|阿尔伯特·班杜拉]]发表《自我效能：迈向行为改变的综合理论》（*Self-efficacy: Toward a unifying theory of behavioral change*），正式确立自我效能感概念及其四大信息源与调节机制。
 > - **1980s–1990s — 学业动机与学习策略领域广泛应用** 学界将自我效能感从临床心理治疗拓展至教育学与学习科学领域，实证揭示其对学生[[Academic Achievement\|学业成就]]、[[Metacognition\|元认知]]策略使用与成就归因的关键中介作用（Pintrich & De Groot, 1990; Bandura, 1997）。
 > - **2000s–2010s — 教师自我效能感与[[Epistemological Beliefs\|认识论信念]]研究深化** 研究重点拓展至教师群体（Teacher Self-Efficacy），揭示教师效能感与[[Classroom Management\|课堂管理]]、[[Inquiry-Based Learning\|探究式教学]]实施及自身认识论信念的双向重塑机制（Buehl & Beck, 2015；[[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers, 2015]]）。
-> - **2018 — 课堂[[Epistemic Practices\|认识论实践]]与科学身份建构整合** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] 基于微观交互[[Discourse Analysis\|话语分析]]，揭示教师显性元话语与认识论实践参与对多元文化课堂中边缘群体学生学科自我效能感与科学知者身份认同的动态建构机制。
+> - **2018 — 课堂[[Epistemic Practices\|认识论实践]]与科学身份建构整合** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] 基于微观交互[[Discourse Analysis\|话语分析]]，揭示教师显性元[[Discourse|话语]]与认识论实践参与对多元文化课堂中边缘群体学生学科自我效能感与科学知者身份认同的动态建构机制。
 > - **2020s — 认知迷思批判与科学传播视野拓展** 贝萨（[[Argument_Besa_2024_UW\|Besa, 2024]]）等学者将自我效能感引入[[Educational Science Communication\|教育科学传播]]与神经神话批判语境，揭示本质主义标签对学生效能感的隐性侵蚀，强调通过循证[[Knowledge Mobilisation\|知识动员]]维护学习者与教师的专业效能。
 > - **2023 — 科学探究实践与学科非认知效能整合** [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 明确确立了探究式学习在培育科学自我效能感、[[Nature of Science\|科学本质]]（NOS）认知与[[Epistemology\|认识论]]动因（[[Epistemic Agency]]）上的不可替代性，拓展了自我效能感在现代科学教育评价中的维度。
 
@@ -245,7 +246,7 @@ updated: 2026-09-22
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统阐明[[Inquiry-Based Learning\|探究式学习]]在培养学生科学自我效能感、[[Nature of Science\|科学本质观]]与[[Epistemology\|认识论]]动因（[[Epistemic Agency]]）上的独特育人机制，突破了将教学法成效窄化为单一事实概念测验的局限。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] — 结合课堂[[Discourse Analysis\|话语分析]]案例，阐释微观[[Epistemic Practices\|认识论实践]]参与和教师显性元话语如何帮助多元文化背景下的边缘学生构建科学知者地位与学科自我效能感（pp. 146–147, 159）。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] — 结合课堂[[Discourse Analysis\|话语分析]]案例，阐释微观[[Epistemic Practices\|认识论实践]]参与和教师显性元[[Discourse|话语]]如何帮助多元文化背景下的边缘学生构建科学知者地位与学科自我效能感（pp. 146–147, 159）。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 详细梳理了[[Albert Bandura\|班杜拉]]关于自我效能感如何通过预期、努力、任务选择和目标设定等四大机制调控学习者动机的基础心理学模型。
 > - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015)]] — 将自我效能感拓展至教师群体，通过跨国大样本调查证实教龄累积与复杂探究课程（如[[Theory of Knowledge\|知识论]]）的成功实施能够显著提升教师教学效能感。
 > - [[Argument_Besa_2024_UW\|Besa (2024)]] — 揭示未经检验的教育神经神话（如[[Learning Style Myth\|学习风格假说]]）通过本质主义标签对学生多通道任务自我效能感造成的习得性削弱与设限机制。

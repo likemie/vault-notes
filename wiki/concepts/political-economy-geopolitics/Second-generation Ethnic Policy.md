@@ -5,7 +5,7 @@ aliases:
 summary: "中国二十一世纪初提出的一种关于民族整合的政策主张，主张借鉴美国熔炉模式，废除区域自治与优惠政策，将各民族融为统一的中华民族国族"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Paradigm]]"
   - "[[Boarding Schools]]"
+  - "[[Discourse]]"
   - "[[Depoliticalization of Ethnic Policy]]"
   - "[[Retrotopia]]"
 related_theories:
@@ -31,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Second-generation Ethnic Policy
@@ -46,7 +47,7 @@ updated: 2026-10-03
 > [!concept-lens] 概念透镜
 > - **含义** 该概念代表了当代中国民族国家整合[[Paradigm\|范式]]的重大改变——从多民族共和国模式转向单一国族一体化模式。
 > - **用途** 帮助研究者理解 2012 年后中国推广普通话、收紧区域自治权、推行[[Boarding Schools\|寄宿学校]]以及淡化地方少数民族特殊性的政策逻辑。
-> - **边界** 它不是一项国家公开颁布的单一法令，而是一套系统的、已被广泛吸纳入官方实践的政策理论与话语纲领。
+> - **边界** 它不是一项国家公开颁布的单一法令，而是一套系统的、已被广泛吸纳入官方实践的政策理论与[[Discourse|话语]]纲领。
 
 > [!citation-card]- 关键表述
 > 既然民族是国家建构出来的虚假实体，那么就可以通过国家政策予以拆除。中国应主张借鉴美国同化少数族裔的熔炉模式，废除少数民族享有的宪法区域自治和优惠政策。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 102–103]])
@@ -89,7 +90,7 @@ updated: 2026-10-03
 ### 命题类型二：去政治化同化的话语伪装
 
 > [!concept-lens] 建构论学术的工具化
-> 该类命题分析这一政策如何通过学术话语重构来逃避人权与暴力指控。
+> 该类命题分析这一政策如何通过学术[[Discourse|话语]]重构来逃避人权与暴力指控。
 
 > [!claim] Bulag, U. E. (乌拉迪恩·布拉格)
 > 指出第二代民族政策通过把少数民族的文化消亡包装为少数民族对国族[[Retrotopia\|怀旧乌托邦]]的自愿“自我牺牲”，成功地将强制性的同化暴力进行了道德化粉饰，从而合理化了国家权力的威权推进。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 98, 109]])

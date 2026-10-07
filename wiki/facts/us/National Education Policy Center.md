@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[High-Stakes Testing]]"
   - "[[Performance Pay]]"
+  - "[[Discourse]]"
   - "[[School Choice]]"
   - "[[Causality]]"
   - "[[Research-Policy Gap]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # National Education Policy Center
@@ -105,7 +106,7 @@ updated: 2026-10-02
 
 > [!finding-cards] 关键成效与辐射影响
 > - **打通科学研究通往法案文本的“最后一公里”** 通过法定示范条文，NEPC 从根本上解决了立法幕僚“认可学者观点却无暇起草法条”的制度瓶颈，其起草的多部示范法规被各州议会直接吸纳进正式法案文本。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
-> - **重塑公共政策话语的科学审慎度** 通过 Think Twice 项目的持续监督，遏制了伪劣实证数据向立法中枢的渗透，迫使各智库提升报告编写的研究方法水准。
+> - **重塑公共政策[[Discourse|话语]]的科学审慎度** 通过 Think Twice 项目的持续监督，遏制了伪劣实证数据向立法中枢的渗透，迫使各智库提升报告编写的研究方法水准。
 > - **典[[Paradigm\|范式]]履行教育[[Educational Brokerage Agency\|知识经纪]]功能** 成为全美公认的连接大学前沿科研成果与宏观立法机构的顶级知识中介机构。
 
 ---

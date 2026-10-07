@@ -7,7 +7,7 @@ summary: "英国教育研究者，批判实在论取向的证据本位教学批�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Ontology]]"
+  - "[[Discourse]]"
   - "[[Scientific Method]]"
   - "[[Evidence-Based Reform]]"
   - "[[Visible Learning]]"
@@ -58,7 +59,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 ## 简介
 
@@ -91,7 +92,7 @@ updated: 2026-09-18
 >
 > 2. **[[Critical Realism\|批判实在论]]视角** Wrigley 引入 Bhaskar 的三层[[Ontology\|本体论]]（real / actual / empirical）论证 EBE 的方法论停留在"经验层"观察规则性，未能深入"真实层"寻找因果机制。教育是开放系统，规律性只在人为封闭的条件下才出现。
 >
-> 3. **新自由主义框架分析** Wrigley 将 EBE 的兴起置于新自由主义政策框架中——"什么有效"的话语通过技术中立的外表抹除教育目的和价值问题，使教师被去专业化。
+> 3. **新自由主义框架分析** Wrigley 将 EBE 的兴起置于新自由主义政策框架中——"什么有效"的[[Discourse|话语]]通过技术中立的外表抹除教育目的和价值问题，使教师被去专业化。
 >
 > > "The sloganistic 'what works' reflects a neoliberal demand to extract maximum efficiency from education, while marginalising the qualitative and political dimensions of human formation." ([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 13]])
 >
@@ -125,7 +126,7 @@ updated: 2026-09-18
 > [!note-] 对后续研究的影响
 > - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]对 EEF Toolkit 的方法论批判被 Bainbridge et al.（2022, p.3）引用，作为讨论英国议会选择性教育政策辩论中[[Research Utilization\|证据使用]]问题的理论基础——标志着 Wrigley 的批判从方法论研究进入政策分析领域
 > - [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker (2019, p. 123)]] 援引 Biesta（2010, p. 496）的开放/递归/符号系统理论作为批判 EBT 方法论的核心依据——"将开放系统视为封闭系统来对待是不科学的"——形成了批判实在论与[[Pragmatic Paradigm\|实用主义]]教育哲学在方法论批判中的交汇
-> - 其"简单科学观"概念为后续 EBE 批判者提供了区别于"反科学"立场的话语资源
+> - 其"简单科学观"概念为后续 EBE 批判者提供了区别于"反科学"立场的[[Discourse|话语]]资源
 
 ## 争议与批评
 

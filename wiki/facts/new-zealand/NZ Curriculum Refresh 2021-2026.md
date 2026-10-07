@@ -11,7 +11,7 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Big Ideas]]"
   - "[[Epistemology]]"
   - "[[Regulative and Instructional Discourse]]"
+  - "[[Discourse]]"
   - "[[Recontextualization]]"
   - "[[Ontology]]"
   - "[[Mātauranga Māori]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 # NZ Curriculum Refresh 2021-2026
@@ -117,7 +118,7 @@ updated: 2026-09-18
 
 > [!warning]
 > - **[[Epistemology\|认识论]]混乱**。UKD 结构在认识论上是混乱的。从课程设计和学习的角度来看，知道-做-理解是更合乎逻辑的概念框架。课程文件声称该结构「清晰且易于使用」，但作者发现其多层次结构实际上相当复杂([[Argument_McPhail_2023_JCS\|McPhail et al., 2023]])。
-> - **[[Regulative and Instructional Discourse\|规约性话语]]主导**。课程改革主要关注创建规约性话语，即道德和政治义务的话语，而非学科知识的识别和组织。Te Mātaiaho 更像是一份阐述道德和政治义务的文件，而非传统意义上的课程文件。
+> - **[[Regulative and Instructional Discourse\|规约性话语]]主导**。课程改革主要关注创建规约性[[Discourse|话语]]，即道德和政治义务的话语，而非学科知识的识别和组织。Te Mātaiaho 更像是一份阐述道德和政治义务的文件，而非传统意义上的课程文件。
 > - **[[Recontextualization\|再脉络化]]原则的张力**。三种突出的再脉络化原则之间存在潜在的[[Ontology\|本体论]]和认识论张力：
 >   - **双文化主义**[[Mātauranga Māori\|毛利知识体系]]被用来创造主题和隐喻凝聚力，但其与课程声称转向关注学习进步和增长之间存在潜在矛盾
 >   - **地方化** 强调与当地社区共同设计课程，但可能与「不能留给偶然的学习」产生冲突

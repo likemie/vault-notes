@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[School Leadership]]"
   - "[[Initial Teacher Training]]"
+  - "[[Discourse]]"
   - "[[Policy Network]]"
 related_theories: []
 related_methods: []
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Australian Institute for Teaching and School Leadership
@@ -59,7 +60,7 @@ updated: 2026-10-06
 ## 经过
 
 > [!timeline] 机构发展与关键活动
-> - 2011 受命开发《澳大利亚教师专业标准》，确立对全国教师和教师培训体系的官方标准话语权（Barnes & Cross, 2021, p. 460）。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
+> - 2011 受命开发《澳大利亚教师专业标准》，确立对全国教师和教师培训体系的官方标准[[Discourse|话语]]权（Barnes & Cross, 2021, p. 460）。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 > - 2015 [[Teacher Education Ministerial Advisory Group\|TEMAG]] 改革报告出台，进一步巩固和扩大了 AITSL 在全国[[Initial Teacher Training\|初始教师教育]]（ITE）认证与合规管理中的地位。
 > - 2017 巴金汉博士获任 AITSL 非执行董事，开始在官方教师标准把关机构中任职。
 > - 2023 《强劲开端》报告出台（建议一），授权 AITSL 将“核心内容”以附表形式强制嵌入《国家ITE项目认证标准与程序》中，其职权正式扩张至具体的大学课程设计监控。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11]])

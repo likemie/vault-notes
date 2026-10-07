@@ -7,7 +7,7 @@ summary: "一种用于预测名义变量（包含两个以上无序类别）的�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
+  - "[[Discourse]]"
   - "[[Academic Achievement]]"
   - "[[Educational Level]]"
 related_theories: []
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Multinomial Logistic Regression
@@ -98,7 +99,7 @@ updated: 2026-09-17
 >
 > **这个公式在做什么** 将反人类直觉的“对数几率”（Log-odds）转换成现实世界中容易理解的“倍数”关系。
 >
-> **数学直觉** 逻辑回归的原始输出 $\beta$ 告诉你“自变量增加1个单位，对数几率变了多少”。通过取自然指数 $e^\beta$，它变成了我们熟悉的话语：如果自变量 $X$ 增加一个单位，个体落入目标类别 $k$ （相较于基准类别 $K$）的几率就会变成原来的 $e^\beta$ 倍。
+> **数学直觉** 逻辑回归的原始输出 $\beta$ 告诉你“自变量增加1个单位，对数几率变了多少”。通过取自然指数 $e^\beta$，它变成了我们熟悉的[[Discourse|话语]]：如果自变量 $X$ 增加一个单位，个体落入目标类别 $k$ （相较于基准类别 $K$）的几率就会变成原来的 $e^\beta$ 倍。
 >
 > **结果怎么读** 如果 $OR > 1$，说明自变量增加了进入目标类别 $k$ 的几率（正向预测）；如果 $0 < OR < 1$，说明降低了该几率（负向预测）；如果 $OR = 1$，说明该变量没影响。
 

@@ -10,7 +10,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[STEM Education]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Discourse]]"
   - "[[Policy Network]]"
 related_theories: []
 related_methods: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 ## 概述
 
@@ -82,5 +83,5 @@ updated: 2026-09-22
 ## 分析意义
 
 > [!success] 分析意义
-> TFNZ 体现了[[Policy Entrepreneur\|政策创业者]]如何在公共福利话语（解决教育不平等）、非营利结构（慈善信托）和跨国私营部门连接（Aotearoa Foundation 美国对冲基金资助、Teach for All 全球网络）之间运作。O'Neill 等将其与 NZI（亲市场智库）作为新西兰[[Policy Network\|政策网络]]的两个代表案例进行对比分析([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p.x]])。
+> TFNZ 体现了[[Policy Entrepreneur\|政策创业者]]如何在公共福利[[Discourse|话语]]（解决教育不平等）、非营利结构（慈善信托）和跨国私营部门连接（Aotearoa Foundation 美国对冲基金资助、Teach for All 全球网络）之间运作。O'Neill 等将其与 NZI（亲市场智库）作为新西兰[[Policy Network\|政策网络]]的两个代表案例进行对比分析([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p.x]])。
 

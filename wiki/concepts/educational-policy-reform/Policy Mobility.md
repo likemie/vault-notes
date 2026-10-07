@@ -10,7 +10,7 @@ aliases:
 summary: "指涉政策观念、治理技术与制度模型在跨国、跨区域及公私异质网络中被解构、转译、变异和再语境化的动态过程；强调政策并非在真空或纯粹地理空间中的静态线性转移，而是伴随社会-技术中介、权力拓扑与资本纽带的流动性装配。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Champ]]"
   - "[[Unit of Analysis]]"
+  - "[[Discourse]]"
   - "[[Policy Entrepreneur]]"
   - "[[Paradigm]]"
   - "[[Ontology]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Policy Mobility
@@ -110,7 +111,7 @@ updated: 2026-09-22
 > *"In Australia, the state has actively catalysed and legitimised the [[Research in Schools Evaluation\|RISE]] of venture philanthropy in public education through tax incentives, policy endorsements, and collaborative governance arrangements..."*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Policy Borrowing\|政策借用]]（Policy Borrowing） — 政策借用通常以主权民族国家（如教育部、立法机关）为核心[[Unit of Analysis\|分析单位]]，关注国内政治行动者如何利用外部名望话语作为合法化本土改革的“外生火花”（Phillips & Ochs, 2004；Steiner-Khamsi, 2004）；政策流动打破民族国家“容器论”，将国家视为跨国异质网络中的一个参与节点，侧重去中心化、多尺度的流动拓扑（Ball, 2016；Peck & Theodore, 2015）。
+> - 不等于 [[Policy Borrowing\|政策借用]]（Policy Borrowing） — 政策借用通常以主权民族国家（如教育部、立法机关）为核心[[Unit of Analysis\|分析单位]]，关注国内政治行动者如何利用外部名望[[Discourse|话语]]作为合法化本土改革的“外生火花”（Phillips & Ochs, 2004；Steiner-Khamsi, 2004）；政策流动打破民族国家“容器论”，将国家视为跨国异质网络中的一个参与节点，侧重去中心化、多尺度的流动拓扑（Ball, 2016；Peck & Theodore, 2015）。
 > - 不等于 政策转移（Policy Transfer） — 传统政策转移研究假定政策是在欧几里得地理空间中点对点、相对完整的静态知识搬运与理性经验汲取（Rose, 1991；Dolowitz & Marsh, 1996）；政策流动强调政策在穿梭过程中始终处于不稳定的“变异”（mutation）状态，并在到达目的地时被异质行动者重新拼装。
 > - 不等于 [[Institutional Isomorphism\|制度同构]]（Institutional Isomorphism） — 制度同构强调场域内组织在强制、模仿或规范压力下的被动趋同（DiMaggio & Powell, 1983）；政策流动强调中介机构、咨询寡头与[[Policy Entrepreneur\|政策企业家]]的主动建构、套利游说与空间重塑。
 
@@ -124,7 +125,7 @@ updated: 2026-09-22
 > | **空间[[Ontology\|本体论]]** | 关系性[[Topological Spatialisation\|拓扑空间]]（Relational Topologies）；打破国家内外边界，关注多尺度网络穿梭 | 比较民族国家空间；以内外二元划界，关注“外部借入”与“[[Going Native\|本土化]]” | [[René Descartes\|笛卡尔]]/欧几里得地理空间；点对点的主权管辖区位移 |
 > | **流动客体属性** | 处于未定型状态的[[Assemblage\|装配]]体与变异混合物（Mutating Assemblages） | 相对清晰的政策文本、制度模式或教育实践 | 完整的政策法规、管理方案或项目工具包 |
 > | **核心驱动机制** | “快速政策”（Fast policy）、跨国资本流动、咨询寡头推动与异质网络装配 | 本土执政当局的合法化诉求、正当性危机应对与交叉吸引（Attraction） | 决策者的理性经验汲取（Lesson-drawing）、自愿模仿或国际组织施加的强制压力 |
-> | **物质与技术维度** | 核心关注因果量规、咨询报告、公司章程与法律修正案等无生命耐用材料 | 侧重话语、意识形态、比较修辞与文化滤网 | 侧重制度规范、行政规章与操作指南 |
+> | **物质与技术维度** | 核心关注因果量规、咨询报告、公司章程与法律修正案等无生命耐用材料 | 侧重[[Discourse\|话语]]、意识形态、比较修辞与文化滤网 | 侧重制度规范、行政规章与操作指南 |
 > | **国家角色定位** | 国家是异质网络中的积极催化者、立法赋权者与共同装配节点 | 国家是具有完全自主裁量权的主权借用主体 | 国家是寻求最优政策效能的理性行动主体 |
 
 ---
@@ -195,7 +196,7 @@ updated: 2026-09-22
 ### 命题二　政策跨国流动依赖耐用物质材料的锚定与法律技术装置的特许装配
 
 > [!concept-lens] 物质[[Assemblage\|装配]]维度：无生命材料与远距离控制（Long-Distance Control）
-> 探讨抽象的流动话语如何通过物理和法律材料的具身化获得超越时空的稳定性，并对目标生态实施长程[[Disciplina and Doctrina\|规训]]。
+> 探讨抽象的流动[[Discourse|话语]]如何通过物理和法律材料的具身化获得超越时空的稳定性，并对目标生态实施长程[[Disciplina and Doctrina\|规训]]。
 
 > [!claim] Law, J. & Singleton, V.
 > **网络在耐用材料中的固化机制** 异质行动者网络如果仅依赖转瞬即逝的人际话语或行政倡议，将极易瓦解溃散；唯有将关系网络刻写、固化并具身于无生命客体与耐用材料之中（如建筑、围栏、法定表格与技术工具），网络才能维系跨越时空的恒常形状，实现远距离治理（Law, 1992；Law & Singleton, 2005）。
@@ -261,7 +262,7 @@ updated: 2026-09-22
 > > - **[[Post-structuralism\|后结构主义]]与政策社会学学者（Gulson et al., 2017）** 坚决反驳将政策化约为可度量指标的做法，主张政策流动研究的核心价值恰恰在于解构量化测评与循证工具背后的政治[[Assemblage\|装配]]与资本利益。
 
 > [!critique] 外部批评
-> - **过度泛化与概念通胀** 部分批评指出，若将一切政策出台都归因于模糊的“流动”与“网络装配”，极易消解公共政策制定过程中各政党议员、一线教师工会与选民所付出的具体民主博弈努力，导致政治行动的能动性被结构性流动话语所稀释。
+> - **过度泛化与概念通胀** 部分批评指出，若将一切政策出台都归因于模糊的“流动”与“网络装配”，极易消解公共政策制定过程中各政党议员、一线教师工会与选民所付出的具体民主博弈努力，导致政治行动的能动性被结构性流动[[Discourse|话语]]所稀释。
 
 > [!warning] 适用局限
 > 政策流动分析框架高度适用于具有明显跨国借鉴背景、公私混合资助、咨询公司深度介入及证据中介参与的新自由主义教育改革议题；当分析对象属于完全内生、高度受制于封闭传统宗教习俗或缺乏外部资本介入的微观地方教学规范变迁时，该框架的解释力较为有限。

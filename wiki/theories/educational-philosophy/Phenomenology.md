@@ -5,7 +5,7 @@ aliases:
 summary: "以主观意识和直接经验为核心的哲学传统与认识论框架，关注意识如何主动赋予世界意义，揭示具身感知与日常生活世界的主体间性本质，是诠释范式与质性研究的三大核心支柱之一。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 52
+theory_related_count: 54
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -41,11 +41,13 @@ related_concepts:
   - "[[Doxa]]"
   - "[[Flow]]"
   - "[[Hypothesis]]"
+  - "[[Hidden Curriculum]]"
   - "[[Constructivist Paradigm]]"
   - "[[Assemblage]]"
   - "[[Ontology]]"
   - "[[Discipline-Based Theory]]"
   - "[[Powerful Knowledge]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Symbolic Interactionism]]"
   - "[[Critical Realism]]"
@@ -74,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Phenomenology
@@ -203,7 +205,7 @@ updated: 2026-10-01
 ## 局限性与适用边界
 
 > [!theory-boundary] 局限性与适用边界
-> - **适合分析** 学习者的深层情感危机、师生微妙的主体间信任建立、隐性课程体验、跨学科现象探究、对教育技术化政策的哲学批判。
+> - **适合分析** 学习者的深层情感危机、师生微妙的主体间信任建立、[[Hidden Curriculum|隐性课程]]体验、跨学科现象探究、对教育技术化政策的哲学批判。
 > - **成立条件** 研究者需要具备极高的方法论[[Reflexivity|反思性]]（Reflexivity），主动[[Epoché|悬置]]先验偏见，并投入充足的时间与参与者建立深度信任。
 > - **解释不足** 理论聚焦于微观生活世界的意义生成，本身并不直接解释宏观制度变迁、大规模教育财政资源分配或跨国教育体系的结构性规律。
 > - **转化困难** 概念体系高度抽象幽微（如意向性、先验自我、生活世界），在公共政策对话中不易转化为简明扼要的技术指标，易被技术官僚斥为“不可操作”。
@@ -233,7 +235,7 @@ updated: 2026-10-01
 
 > [!critique]- 批评索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, p. 23)]] — 系统梳理[[Interpretive Paradigm|诠释范式]]下现象学对实证[[Objectivism|客观主义]]的批判逻辑与先验意识三要素。
-> - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024, p. 4)]] — 深入反思全球治理技能话语对现象学生活世界的原子化侵蚀。
+> - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024, p. 4)]] — 深入反思全球治理技能[[Discourse|话语]]对现象学生活世界的原子化侵蚀。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019, p. 3)]] — 从现象学身体知觉与自由生成角度，全面解构 Hattie 可见学习范式的测量狂热。
 
 ---

@@ -9,7 +9,7 @@ title: "Argument_Eacott_2015_EPT"
 argument_key: "Argument_Eacott_2015_EPT"
 argument_display_title: "Problematising the intellectual gaze of the educational administration scholar"
 argument_kind: "journal-article"
-argument_related_count: 12
+argument_related_count: 13
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Epistemological Break]]"
   - "[[Definition of Terms]]"
   - "[[Epistemological Vigilance]]"
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Reflexivity]]"
@@ -80,7 +81,7 @@ citation_aliases:
 >
 > 2. **前科学世界与断裂（The Pre-scientific World and the Break）** 教育行政若接受日常常识（[[Doxa]]）来建构研究对象，就会沦为"合法化既有权力关系的工具"(p.320)。科学探究需要在方法论的层面进行[[Epistemological Break\|认识论断裂]]——拒绝先验定义（如[[Definition of Terms\|操作性定义]]）、视理论为穿过经验的工具而非套用的模板、"拿建构对象的过程本身作为对象"(p.314, 320-322)。
 >
-> 3. **[[Epistemological Vigilance\|认识论警觉]]（Epistemological Vigilance）** 在社会科学的日常语言与科学话语之间的界限比任何其他领域都模糊的处境下，研究者需要持续的警觉来抵御日常语言的渗透(p.322-323)。这一项目的核心障碍是"对研究对象的熟悉性"——它持续生产着概念化（如领导力、组织结构）及其合法化条件。
+> 3. **[[Epistemological Vigilance\|认识论警觉]]（Epistemological Vigilance）** 在社会科学的日常语言与科学[[Discourse|话语]]之间的界限比任何其他领域都模糊的处境下，研究者需要持续的警觉来抵御日常语言的渗透(p.322-323)。这一项目的核心障碍是"对研究对象的熟悉性"——它持续生产着概念化（如领导力、组织结构）及其合法化条件。
 >
 > **核心主张：**
 >
@@ -92,7 +93,7 @@ citation_aliases:
 > [!success] 主要发现
 > - 教育行政领域中**大多数 Bourdieu 式研究没有超越对 Bourdieu 思维工具（[[Champ\|场域]]、[[Habitus\|习性]]、资本）的使用**，忽略了更根本的[[Epistemology\|认识论]]预备问题(p.313-314)
 > - 教育行政研究存在一种"默契共识"（tacit agreement）：对不同意见者施以"善意忽视"（benign neglect），而非真正的学术争论。这一领域的危机不在[[Paradigm\|范式]]分歧，而在**作为[[Knowledge Production\|知识生产]]场域与实践场域的关系**(p.323-324)
-> - "领导力"是该领域的**神圣标签**——"不像对管理和/或行政的批判，更不用说对官僚制的妖魔化，'领导力'是该领域当前的神圣标签。质疑其学术合法性，就是将这一领域学术和实践的生成基础——对我们大多数人来说，就是我们的身份——带到话语层面"(p.324)
+> - "领导力"是该领域的**神圣标签**——"不像对管理和/或行政的批判，更不用说对官僚制的妖魔化，'领导力'是该领域当前的神圣标签。质疑其学术合法性，就是将这一领域学术和实践的生成基础——对我们大多数人来说，就是我们的身份——带到[[Discourse|话语]]层面"(p.324)
 > - 管理主义项目的核心特征是"将智识工作（如研究对象的建构、解构和重构的批判和分析）**贬低为异国情调、放纵和非公共利益**"(Gunter, 2013, p.323)
 
 ## 关键引用

@@ -10,7 +10,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Venture Philanthropy]]"
   - "[[Evidence-Based Education]]"
+  - "[[Discourse]]"
   - "[[Positivism]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Policy Mobility]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Centre for Educational Statistics and Evaluation
@@ -105,7 +106,7 @@ updated: 2026-10-02
 > > [!axis] 公共行政科学化前驱 vs 国家[[Evidence Network\|证据网络]]企业化演进的跳板
 > > 探讨 [[Comparative Education Society in Europe\|CESE]] NSW 作为公立科层内部的研究实体，如何为后续由[[Venture Philanthropy\|风险慈善]]与跨国投行主导的国家级 [[Australian Education Research Organisation\|AERO]] 铺平了道路。
 > >
-> > - **[[Network Ethnography\|网络民族志]]与治理社会学视角（Lewis & Hogan, 2019；Rowe, 2022）** 埃玛·罗威（Emma Rowe）指出，CESE 作为早期的州级研究中心倡议，成功将[[Evidence-Based Education\|循证教育]]的话语在澳洲公立系统中合法化；其领袖珍妮·多诺万（Jenny Donovan）随后出任 AERO 首任 CEO。然而这一演进发生了深刻的制度质变：CESE 仍受州教育部公法与政府科层严格监管，而国家级的 AERO 却脱离了纯粹公立属性，依据《公司法》注册为担保有限公司并与麦肯锡系风险慈善（[[Social Ventures Australia\|SVA]]）深度绑定，使原本用于服务公立教育的数据评估技术沦为私营咨询寡头营利分包的特权通道。
+> > - **[[Network Ethnography\|网络民族志]]与治理社会学视角（Lewis & Hogan, 2019；Rowe, 2022）** 埃玛·罗威（Emma Rowe）指出，CESE 作为早期的州级研究中心倡议，成功将[[Evidence-Based Education\|循证教育]]的[[Discourse|话语]]在澳洲公立系统中合法化；其领袖珍妮·多诺万（Jenny Donovan）随后出任 AERO 首任 CEO。然而这一演进发生了深刻的制度质变：CESE 仍受州教育部公法与政府科层严格监管，而国家级的 AERO 却脱离了纯粹公立属性，依据《公司法》注册为担保有限公司并与麦肯锡系风险慈善（[[Social Ventures Australia\|SVA]]）深度绑定，使原本用于服务公立教育的数据评估技术沦为私营咨询寡头营利分包的特权通道。
 > > - **[[Positivism\|实证主义]]政策支持者视角** 肯定 CESE 打破了澳洲教育界长期凭直觉拍脑袋决策的陈规陋习，为全澳教师提供了真正扎根本土的大样本真实课堂实证支撑。
 
 ---

@@ -5,7 +5,7 @@ aliases:
 summary: "Bhaskar 的科学哲学，区分实在、实际、经验三层本体论并强调开放系统中的因果机制，为教育研究批判封闭实验逻辑提供框架"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 44
+theory_related_count: 45
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Bildung]]"
   - "[[Professional Judgment]]"
+  - "[[Discourse]]"
   - "[[Interpretive Paradigm]]"
   - "[[Heterogeneity]]"
   - "[[Hypothesis]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # Critical Realism
@@ -184,7 +185,7 @@ updated: 2026-09-26
 > - **适合解释** 复杂的、层级交织的社会政策评估；解析宏观社会结构（如阶级不平等、新自由主义审计体制）对微观教育实践的制约与交互机制。
 > - **谨慎使用** 在进行局部、短期、局限于特定技术维度的测量（如单纯的班级出勤率统计）时，需防范由于[[Ontology\|本体论]]的无限延伸而稀释了量化描述性指标的指示作用；必须配合中层理论（Middle-range Theory）进行实操。
 > - **不适合解释** 无法为教师提供即刻生效的“百宝箱式”教学动作指南；在极端不可控或剧烈变动的情境中，无法进行精确的线性行为预测。
-> - **常见误用** 将批判实在论对[[Empiricism\|经验主义]]与[[Positivism\|实证主义]]局限性的解构，误解为对统计、测量或 [[Randomised Controlled Trials\|RCT]] 的全盘否定；或陷入形而上学话语，仅在哲学层面打转，而不去具体搜集经验和实际层面的运作证据。([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 16]])
+> - **常见误用** 将批判实在论对[[Empiricism\|经验主义]]与[[Positivism\|实证主义]]局限性的解构，误解为对统计、测量或 [[Randomised Controlled Trials\|RCT]] 的全盘否定；或陷入形而上学[[Discourse|话语]]，仅在哲学层面打转，而不去具体搜集经验和实际层面的运作证据。([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 16]])
 
 ---
 

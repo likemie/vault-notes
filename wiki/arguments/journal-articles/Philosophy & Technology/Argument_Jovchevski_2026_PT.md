@@ -21,6 +21,7 @@ tags:
   - theme/epistemology
   - theme/human-agency
 related_concepts:
+  - "[[Man-Computer Symbiosis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Automation Bias]]"
   - "[[Epistemology]]"
@@ -57,7 +58,7 @@ title: "Argument_Jovchevski_2026_PT"
 argument_key: "Argument_Jovchevski_2026_PT"
 argument_display_title: "What is wrong with automation bias?"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -74,7 +75,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 在医疗诊断、军事指挥、航空航天及公共行政等高风险人机协同决策情境中，操作者过度依赖自动化或人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）决策系统的提示，甚至在面对相左证据时仍放弃自主判断，这种[[Automation Bias|自动化偏差]]究竟造成了何种实质性的[[Epistemology|认识论]]、伦理学与道德规范危害？工效学若将其单纯视为认知吝啬或注意力懈怠，是否忽略了更深层的[[Trust Calibration|信任失调]]与权威让渡？如何通过人机交互界面的机制重塑，恢复人类在关键决策中的自主性与道德裁决权？
+> 在医疗诊断、军事指挥、航空航天及公共行政等高风险[[Man-Computer Symbiosis|人机协同]]决策情境中，操作者过度依赖自动化或人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）决策系统的提示，甚至在面对相左证据时仍放弃自主判断，这种[[Automation Bias|自动化偏差]]究竟造成了何种实质性的[[Epistemology|认识论]]、伦理学与道德规范危害？工效学若将其单纯视为认知吝啬或注意力懈怠，是否忽略了更深层的[[Trust Calibration|信任失调]]与权威让渡？如何通过人机交互界面的机制重塑，恢复人类在关键决策中的自主性与道德裁决权？
 
 > [!claim] 核心主张
 > 自动化偏差必须根据操作者对矛盾证据的认知卷入状态，严格区分为基于认知吝啬与过失疏忽的弱自动化偏差，以及基于过度信任与[[Epistemic Deference|认识论顺从]]的强自动化偏差。强自动化偏差不仅从程序性信念修正与实质性关系权威两个维度削弱人类操作者的自主能动性，更在高风险情境中将[[Meaningful Human Control|人在回路]]退化为形式化橡皮图章、架空[[Meaningful Human Control|有意义的人类控制]]（Meaningful Human Control, MHC）并背离了不可让渡的道德审思义务。唯有通过反思机器（Reflection Machines, RMs）与反驳型[[Defeater|击败者]]向交互系统注入[[Epistemic Friction|认识论摩擦]]，才能有效实现批判性信任校准并恢复操作者的实质抗辩权。
@@ -263,7 +264,7 @@ issuing_organization: ""
 
 借鉴[[Defeater|击败者]]设计框架（Veluwenkamp & Buijsman, 2025），通过界面架构直接支持人类操作者的独立审思。
 
-> [!quad-grid] 击败者机制在人机协同中的分类与功能
+> [!quad-grid] 击败者机制在[[Man-Computer Symbiosis|人机协同]]中的分类与功能
 > - **[[Defeater|削弱型击败者]]（Undercutting Defeaters）**
 >   挑战输入数据的可靠性或系统处理流水线的置信度。（p. 23）
 > - **[[Defeater|反驳型击败者]]（Rebutting Defeaters）**
@@ -309,7 +310,7 @@ issuing_organization: ""
 > [!warning] 原文自述局限与现实挑战
 > 1. **反思交互的形式化与例行公事化风险** 任何制度化反思实践均存在被操作者退化为机械敷衍应对的风险，长期使用中用户可能与大模型产生相互妥协的浅层交互模式，需未来研究持续探索维持认知挑战的动态策略。（pp. 22–23）
 > 2. **[[Defeater|击败者]]过载与认知带宽冲突** 在界面中引入过多击败者机制可能导致操作者面临信息过载，反向加重认知负担或促使操作者完全无视击败者；如何在反思摩擦力与认知可承受性之间实现最佳平衡高度依赖于具体领域情境，有待进一步实证检验。（pp. 23–24）
-> 3. **人机协同共适应演进的不确定性** 长期人机协作中人类与语言模型在言语行为和交互模式上的双向适应可能改变反思的深度与方向，必须建立防范向确认偏差收敛的保障机制。（p. 25）
+> 3. **[[Man-Computer Symbiosis|人机协同]]共适应演进的不确定性** 长期人机协作中人类与语言模型在言语行为和交互模式上的双向适应可能改变反思的深度与方向，必须建立防范向确认偏差收敛的保障机制。（p. 25）
 
 ---
 

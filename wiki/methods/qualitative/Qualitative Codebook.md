@@ -8,7 +8,7 @@ summary: "质性研究中系统记录编码标签、操作化定义、纳入排�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 32
+method_related_count: 34
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Working Memory]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Research Question]]"
 related_theories:
   - "[[Situative Perspective]]"
@@ -41,6 +42,7 @@ related_methods:
   - "[[Intercoder Agreement]]"
   - "[[Grounded Theory]]"
   - "[[Memos]]"
+  - "[[Conversation Analysis]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Qualitative Content Analysis]]"
   - "[[Qualitative Computer Software]]"
@@ -57,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # Qualitative Codebook
@@ -82,7 +84,7 @@ updated: 2026-09-24
 > [!boundary]- 概念边界
 > - **不等于 编码清单（Coding List）** 编码清单仅为代码标签或软件节点的平面列表；编码手册必须配备完整的操作化界定、正反纳入排除规则与典型引语锚点。
 > - **不等于 [[Grounded Theory\|扎根理论]]分析备忘录（[[Memos]]）** 备忘录记录研究者对理论关系的[[Open-Mindedness|开放性]]反思与概念联想；编码手册侧重规则的标准化、稳定性与团队间可复验性。
-> - **不适用于纯粹微观会话分析** 当研究完全聚焦于不可分割的瞬时语调、会话微互动与复杂时序流动时，机械套用预设编码手册容易造成情境剥离与语义割裂。
+> - **不适用于纯粹微观[[Conversation Analysis|会话分析]]** 当研究完全聚焦于不可分割的瞬时语调、会话微互动与复杂时序流动时，机械套用预设编码手册容易造成情境剥离与语义割裂。
 
 ---
 
@@ -173,7 +175,7 @@ updated: 2026-09-24
 > |---|---|---|---|
 > | **信度控制命题** | 显性化规则消除编码歧义与主观漂移 | 多编码员团队协作与方法审计 | Weber (1990); [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]] |
 > | **演化动力命题** | 预设框架与经验涌现保持双向迭代 | [[Qualitative Content Analysis\|质性内容分析]]与[[Grounded Theory\|扎根理论]]融合 | Flick (1998); Guest et al. (2012) |
-> | **前沿重构命题** | 编码手册转化为 LLM 结构化提示词协议 | 人机协同与大规模文本计算分析 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011]] |
+> | **前沿重构命题** | 编码手册转化为 LLM 结构化提示词协议 | [[Man-Computer Symbiosis\|人机协同]]与大规模文本计算分析 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011]] |
 
 ---
 

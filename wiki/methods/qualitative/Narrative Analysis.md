@@ -8,7 +8,7 @@ summary: "以故事为意义建构与表达的基本形式，通过时间序列�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 19
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
+  - "[[Total Institution]]"
   - "[[Hypothesis]]"
   - "[[Emergence]]"
   - "[[Abstract]]"
@@ -33,6 +34,8 @@ related_methods:
   - "[[Case Study]]"
   - "[[Narrative Research]]"
   - "[[Coding in Qualitative Research]]"
+  - "[[Field Notes]]"
+  - "[[Autobiographical Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Stories as Research Data]]"
   - "[[Correlational Research]]"
@@ -41,11 +44,12 @@ related_facts:
   - "[[Education Sciences Reform Act 2002]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31]]"
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Narrative Analysis
@@ -81,6 +85,31 @@ updated: 2026-10-03
 > - **辅助技术** [[Coding in Qualitative Research\|编码]]、备忘录、[[Reflexivity\|反身性]]；叙事分析是编码的对照面。
 
 ## 研究程序
+
+### 完整叙事的语言与制度分析
+
+叙事分析还可以由文本的描写方式解释行为如何在制度条件中成为可理解的行动。来自[[Field Notes|田野笔记]]的第三人称连续叙事，既保存经验联系，也通过事件与词汇选择形成特定立场。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.3)]]
+
+> [!proc] 将行为放回叙事情境
+> 1. **确认形成过程** 区分田野笔记与被组织成连续故事的报告，说明谁在叙述以及材料怎样被选择。
+> 2. **提取情境条件** 将行动与物品可及性、私人空间、规则和权威安排联系，保留整体经历。
+> 3. **核对语言线索** 查看反复出现的词汇、象征、叙述语气与细节，辨认其实际和隐喻意义。
+> 4. **审查解释** 说明支持当前读法的依据，并询问还有哪些解释、哪些额外数据能够支持或反驳判断。
+> 5. **检查沉默** 注意未被同等呈现的群体、善意行动和其他制度理由，避免把叙事的说服力等同于完整性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.3)]]
+
+在 [[Total Institution|全控机构]]（Total Institution） 的储物叙事中，随身携带日用品可与缺乏安全、可及的私人储存空间相联系；看似古怪的行为由此可被读作维护隐私与自主性的行动。工作人员基于安全与照料的解释仍须保留。第一人称材料的事件选择和自我呈现详见 [[Autobiographical Analysis|自传分析]]（Autobiographical Analysis）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.3–31.4)]]
+
+### 从描述到解释的证据提问
+
+> [!proc] 复核叙事解释
+> 1. **描述行动** 明确正在发生什么，以及叙事重点呈现了哪些行为与处境。
+> 2. **说明依据** 对行为为何如此的解释，应指出实际支持它的描述细节。
+> 3. **检视替代** 询问相同材料还允许提出哪些推论和解释。
+> 4. **辨认缺失** 明确哪些额外材料有助于支持或反驳当前判断。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.3)]]
+
+叙事的符号效果也需要检查。一个物品可以同时提供实际用途与身份象征，文字的说服力不能单独保证解释的完整性；较少呈现的行动和立场仍会影响结论。
+
+### 叙事重构与呈现
 
 > [!proc] 叙事与传记的分析流程
 > 1. **选择性聚焦** 叙事与传记不能记录全部事件，须依据研究者选择的判据（如关键时刻、关键决策、对参与者有意义的事件、主题、行为、人物、时间节点、关键经验、个案历史的重构）选择文本单元。
@@ -129,6 +158,9 @@ updated: 2026-10-03
 > | [[Causality\|因果性]] | 相关概念 | 叙事的时间序列使研究者能够推断因果，这是叙事分析的重要价值之一。 |
 
 ## 使用此方法的研究
+
+- [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|Cohen et al. (2011, §31.3)]] 以 Goffman (1968) 的精神病院储物叙事示范词汇、制度限制、象征意义和替代解释的共同分析。
+
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|Cohen et al. (2011, Ch. 29)]] — 系统介绍叙事与传记分析进路：以 Bruner 的故事理论、Labov 的叙事结构、传记的时序重构与最终叙事的多种建构方式说明如何以叙事形式组织质性数据。

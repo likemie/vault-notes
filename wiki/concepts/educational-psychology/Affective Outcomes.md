@@ -13,7 +13,7 @@ aliases:
 summary: "教育心理学与教学干预研究中指称学生情感领域可观测、可测量产出的操作化概念，涵盖自信心、学科态度、内在动机与一般学习感知等非认知结果变量。理论渊源根植于 Krathwohl 等人（1964）的情感分类学，与学业成就、高阶思维构成学习产出的三大支柱；实证研究表明其在合作学习中具有稳健正向响应（ES = 0.51），但受学科与测量工具影响具有高度情境依赖性。"
 type: concept
 domain: "educational-psychology"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Constructivist Paradigm]]"
   - "[[Task Structure]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Variable]]"
   - "[[Emergence]]"
   - "[[Academic Help-Seeking]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Affective Outcomes
@@ -153,7 +154,7 @@ updated: 2026-09-22
 > |---|---|---|---|
 > | **干预有效性** | 合作学习对情感产出具有显著正向赋能（$ES = 0.51$） | K-12 与高等教育课堂教学法改革 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] |
 > | **情境依赖性** | 情感产出对干预的响应受学科任务结构与互动机制深度调节 | 具体学科教学设计与情感干预规划 | Güngör et al. |
-> | **技术中介赋能** | 生成式 AI 消除求助焦虑并满足自主胜任感，稳健促进情感动机（$g^+ = 0.617$） | 高校人机协同探究、自适应学习与跨文化教学 | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
+> | **技术中介赋能** | 生成式 AI 消除求助焦虑并满足自主胜任感，稳健促进情感动机（$g^+ = 0.617$） | 高校[[Man-Computer Symbiosis\|人机协同]]探究、自适应学习与跨文化教学 | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
 
 ---
 

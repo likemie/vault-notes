@@ -7,7 +7,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程；在宏观场域揭示资本偏向、跨国组织自指性指标帝国与高校基础科研体制变迁，在微观教育场域指向学习者在本土协商共同体中依托证据协调与认识论实践自主生成新知并内化说服优于强制的民主审议价值。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 110
+related_count: 111
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Soft Power by Hard Facts]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Epistemic Practices]]"
   - "[[Champ]]"
   - "[[University-Industry Collaboration]]"
@@ -151,7 +152,7 @@ updated: 2026-10-07
 > [!def] 核心界定
 > 知识生产（Knowledge Production）是指行动者在特定的[[Epistemology|认识论]][[Paradigm|范式]]、制度生态与交互关系中，对经验世界进行符号表征、实证检验并确立其真理性与合法性的社会化实践过程。该概念贯穿了宏观体制治理与微观教学建构两重互补的分析视阈：
 > 1. **宏观体制与地缘政治视阈** 揭示大学、国家与产业资本如何重塑科研知识的生产机制与法律所有权，透视跨国治理机构如何凭借自指性量化指标行使[[Soft Power by Hard Facts|硬事实软权力]]，以及战后竞争性资助与产学协同如何推动大学由知识传播场所转变为知识生产核心；
-> 2. **微观课堂与学习科学视阈** 指涉学习者摆脱被动接受现成灌输的从属地位，作为能动探究主体在本土协商共同体与人机共生网络中开展提出、沟通、评估与合法化的四维[[Epistemic Practices|认识论实践]]，将观点作为客观制品持续改进并内化“说服优于强制”的民主审议价值。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]; [[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 72–75)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 140, 161)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 891–893)]]; [[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 358–361)]]
+> 2. **微观课堂与学习科学视阈** 指涉学习者摆脱被动接受现成灌输的从属地位，作为能动探究主体在本土协商共同体与[[Man-Computer Symbiosis|人机共生]]网络中开展提出、沟通、评估与合法化的四维[[Epistemic Practices|认识论实践]]，将观点作为客观制品持续改进并内化“说服优于强制”的民主审议价值。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]; [[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 72–75)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 140, 161)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 891–893)]]; [[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 358–361)]]
 
 > [!contrast-table] 宏观体制[[Champ|场域]]与微观课堂场域的知识生产特征对比
 > | 比较维度 | 第一部分：宏观体制与地缘政治中的知识生产 | 第二部分：微观课堂与学习科学中的知识生产 |
@@ -277,7 +278,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 微观概念透镜
 > - **含义** 学生在课堂中开展调查并自主生成对其自身而言全新的理解，行使实质性的[[Epistemic Agency|认识能动性]]，将观点视为可以被持续改进的客观“概念制品”。
-> - **用途** 解构[[Inquiry-Based Learning|指导式探究]]教学与[[Direct Instruction|直接讲授]]灌输的本质分歧，指导设计支持观点持续提升的协作数字化论坛与人机共生学习环境。
+> - **用途** 解构[[Inquiry-Based Learning|指导式探究]]教学与[[Direct Instruction|直接讲授]]灌输的本质分歧，指导设计支持观点持续提升的协作数字化论坛与[[Man-Computer Symbiosis|人机共生]]学习环境。
 > - **边界** 课堂知识生产衡量的是对学生个体和学习共同体而言的新颖性与严密性，并不要求发现人类尚未知晓的客观物理定律。
 
 > [!citation-card] 课堂[[Epistemic Practices|认识论实践]]与民主审议伦理
@@ -375,7 +376,7 @@ updated: 2026-10-07
 > - **2000s–2010s — 科学教育中的[[Epistemic Practices|认识论实践]]与本土共同体转向** 科学教育与学习科学界打破“[[Direct Instruction|直接讲授]]已知事实”的传统做法，[[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] 提出四维认识论实践框架，确立微观课堂中证据协商与民主审议的价值基础。
 > - **2022 — [[Knowledge Building Theory|知识建构学派]]的[[Reflective Structuration|反思性结构化]]模型** [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 证实小学生群体通过动态重组意向领域与持续观点改进，能自主实现深层因果解释建模并实质推进集体公共知识前沿。
 > - **2022–2024 — 超国家自指性指标帝国与[[Governing by Numbers|数字治理]]批判** [[Argument_Partaken_2022_Springer|Partaken (2022)]] 剖析欧洲学术专利中的资本剥夺；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 揭露[[World Bank|世界银行]]与经合组织自产、自销、自资助的一体化治理特权。
-> - **2025–2026 — 人机共生协同建构与[[Evaluative Judgement|评价性判断]]的认识论重构** [[Argument_Wu_2025_ER|Wu et al. (2025)]] 提出人机共生学习伙伴模型，阐明[[Evaluativist|评价主义认识立场]]对 AI 生成命题确证的规制机理；[[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] 开启知识生产劳动分工重组审视，警惕判断型协助置换人类评价性判断。
+> - **2025–2026 — [[Man-Computer Symbiosis|人机共生]]协同建构与[[Evaluative Judgement|评价性判断]]的认识论重构** [[Argument_Wu_2025_ER|Wu et al. (2025)]] 提出人机共生学习伙伴模型，阐明[[Evaluativist|评价主义认识立场]]对 AI 生成命题确证的规制机理；[[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] 开启知识生产劳动分工重组审视，警惕判断型协助置换人类评价性判断。
 > - **2025–2026 — 技术导向型契约确立与知识生产的三轨分化** [[Argument_Fan_2026_BCAS|樊春良 (2026, pp. 1061–1064)]] 剖析美国《迈向新的黄金时代：美国科学政策的范式转变》报告，标志着战后基础研究契约向技术导向型契约让渡，揭示知识生产从好奇心驱动的认知蓄水池降维为技术主权工具，并形成国家任务、安全规约大学与私营科技资本三轨分立格局。
 > - **2026 — [[Genesis Mission|创世纪计划]]与智能时代知识生产生成-核验生态重塑** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, pp. 62–70]]）主持发布白宫《[[Science A New Golden Age 2026|科学：新的黄金时代]]》战略报告，反思 17 世纪静态期刊出版与封闭同行评议局限，依托[[Genesis Mission|创世纪计划]]整合国家算力仪器，推行[[Dynamic Research Notebook|动态研究笔记本]]、负面数据共享与自动化黄金标准机器核验基础设施。
 
@@ -409,7 +410,7 @@ updated: 2026-10-07
 > > - **直接讲授派（Sweller & Kirschner）** 强调初学者的[[Working Memory|工作记忆]]极其有限，自行摸索前人已知定律会耗费宝贵认知资源，直接讲授成熟概念结构更为高效可靠。
 > > - **指导式探究与[[Knowledge Building Theory|知识建构]]派（De Jong, Kelly, Zhang）** 坚持认为直接记忆无法促发深层概念转变；唯有让学生亲历假说提出、数据核验与公共辩论的完整生产过程，才能发展[[Critical Thinking|批判性思维]]，内化说服优于强制的科学审议精神。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 2–4)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, p. 161)]]
 >
-> > [!axis] 人机共生维度：算法端到端交付 vs 评价主义批判性共建
+> > [!axis] [[Man-Computer Symbiosis|人机共生]]维度：算法端到端交付 vs 评价主义批判性共建
 > > 探讨在[[Generative Artificial Intelligence|生成式人工智能]]时代，知识生产是否异化为无摩擦提示词输出，还是演化为批判性人机共建。
 > >
 > > - **算法替代与黑箱担忧派（[[Argument_Du_Yuan_2026_AIS|Du & Yuan, 2026]]）** 警告学生与学者若过度依赖 AI 进行逻辑裁决与质量评价，将丧失在科研挫折中建立的学科专长与认知鉴别力。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 3–5)]]

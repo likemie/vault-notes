@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 91
+fact_related_count: 92
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Reference Society]]"
   - "[[Policy Borrowing]]"
   - "[[Document]]"
+  - "[[Discourse]]"
   - "[[Epistemology]]"
   - "[[Competitiveness]]"
   - "[[Revolutionism]]"
@@ -225,7 +226,7 @@ updated: 2026-10-07
 > - **学术[[Paradigm\|范式]]迁移** 强力助推了“[[Evidence-Based Education\|循证教育]]政策”在全球的合法性确立，引导教育决策从传统的政治协商或意识形态偏好转向高度依赖量化测量的[[Positivism\|实证主义]]逻辑。
 > - **政策震慑与标杆树立** 借助公开排名触发跨国“PISA 冲击”，迫使德国、日本等传统教育强国展开自上而下的全国性标准改革与课程洗牌，树立以高表现国家为原型的“[[Reference Society\|参考社会]]”，引发广泛的[[Policy Borrowing\|政策借用]]。
 > - **治理形态创新** 成功探索出无须依托强制性国际公约约束、仅凭借数据披露、公开排队与同行声誉压力调控主权国家政策的[[Governing at a Distance\|远处治理]]（Governing at a Distance）与[[Governing by Numbers\|数字治理]]典型模式。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 424–425)]]
-> - **主权国家法定行政转化中的中介垄断** 在国家教育改革从议程设置迈向官方行政立法或颁行阶段时，OECD 的[[Policy Brokerage\|政策中介]]工具与指标表现出极强的排他性垄断力。实证研究显示，在挪威能力课程改革中，尽管前期咨询吸纳了 464 篇多元[[Document\|文献]]，但教育部最终颁布的官方行政法规中仅保留 22 篇参考文献，其中高达 20 篇被经合组织审查组垄断（涵盖[[Definition and Selection of Competencies\|能力界定与选择]]（Definition and Selection of Competencies，DeSeCo）项目框架及 OECD 挪威教育政策审查报告），印证了经合组织在主权国家行政决策出台阶段无与伦比的话语权威。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
+> - **主权国家法定行政转化中的中介垄断** 在国家教育改革从议程设置迈向官方行政立法或颁行阶段时，OECD 的[[Policy Brokerage\|政策中介]]工具与指标表现出极强的排他性垄断力。实证研究显示，在挪威能力课程改革中，尽管前期咨询吸纳了 464 篇多元[[Document\|文献]]，但教育部最终颁布的官方行政法规中仅保留 22 篇参考文献，其中高达 20 篇被经合组织审查组垄断（涵盖[[Definition and Selection of Competencies\|能力界定与选择]]（Definition and Selection of Competencies，DeSeCo）项目框架及 OECD 挪威教育政策审查报告），印证了经合组织在主权国家行政决策出台阶段无与伦比的[[Discourse|话语]]权威。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 
 > [!stat-cards]- 核心规模数据
 > 38 个正式成员国，逾 80 个 PISA 测评参与经济体，单轮受测学生样本约 60 万人，汇聚 3,000 余名专业雇员及数亿欧元年度综合运作预算。
@@ -254,7 +255,7 @@ updated: 2026-10-07
 > > [!axis] 测试品牌霸权与对本土政治曲解的象征性共谋
 > > 探讨 OECD 面对主权国家政客公然扭曲其报告实证结论时的默许立场与民主授权争议。
 > >
-> > - **品牌扩张与象征性共谋（批判视角）** 学者指出，面对本土政客（如英国 [[Michael Gove]]）利用“遗漏话语”将平稳数据曲解为衰退危机、借机推销违背 OECD 建议的激进私有化与[[Performance Pay\|绩效工资]]政策，OECD 几乎从不公开发声纠偏；因为对 OECD 而言，最核心利益在于确保全球教育话语被牢牢锁定在由其定义的量化评估框架内，政客制造危机反向巩固了 [[PISA]] 作为卓越质量金标准的品牌霸权，为其衍生测试工具（[[Baby PISA]]、[[Programme for the International Assessment of Adult Competencies\|PIAAC]]、PISA for Schools）开辟市场，展现出跨国机构与国内政客的象征性共谋。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 125–126)]]
+> > - **品牌扩张与象征性共谋（批判视角）** 学者指出，面对本土政客（如英国 [[Michael Gove]]）利用“遗漏[[Discourse|话语]]”将平稳数据曲解为衰退危机、借机推销违背 OECD 建议的激进私有化与[[Performance Pay\|绩效工资]]政策，OECD 几乎从不公开发声纠偏；因为对 OECD 而言，最核心利益在于确保全球教育话语被牢牢锁定在由其定义的量化评估框架内，政客制造危机反向巩固了 [[PISA]] 作为卓越质量金标准的品牌霸权，为其衍生测试工具（[[Baby PISA]]、[[Programme for the International Assessment of Adult Competencies\|PIAAC]]、PISA for Schools）开辟市场，展现出跨国机构与国内政客的象征性共谋。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 125–126)]]
 > > - **民主授权缺失与短期应试修补（学术界公开信）** 2014 年 5 月全球 83 位著名教育学者在《卫报》发表联名公开信，直接致信 OECD 教育总监，严厉谴责 OECD 作为未经民主选举的经济机构缺乏主导各国公共教育政策的宪制授权，批评其过度依赖单一量化指标引发急功近利的短期应试修补（short-term fixes），严重牺牲了教育的人文与公民价值。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, p. 123)]]
 >
 > > [!axis] 跨国治理复合体中的排他性同盟与利基割据

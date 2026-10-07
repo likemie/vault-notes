@@ -8,7 +8,7 @@ aliases:
 summary: "指以自觉的战略性与发展性取向，在全校教职工中系统培育证据知情实践与文化的组织形态；其判定标准不仅在于具体决策是否参考研究，更在于学校在组织层面是否具备使用证据的意图、意愿与能力，并建立起支撑反思性探究的制度化生态。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Construct]]"
+  - "[[Discourse]]"
   - "[[Variable]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Research-Engaged School
@@ -247,7 +248,7 @@ updated: 2026-10-02
 > > - **质量探究取向（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a]]）** 强调研究参与学校的核心标志在于教师对证据适切性、实践审议审慎度以及教学转化有效性保持持久的好奇与深层探究。
 
 > [!warning] 适用局限
-> - **取向与能力的测量主观性** 概念基于“意图、意愿与能力”等组织[[Construct\|构念]]，实务评估高度依赖自陈量表，容易受到社会期望效应与表面合规话语的干扰。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 117)]]
+> - **取向与能力的测量主观性** 概念基于“意图、意愿与能力”等组织[[Construct\|构念]]，实务评估高度依赖自陈量表，容易受到社会期望效应与表面合规[[Discourse|话语]]的干扰。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 117)]]
 > - **样本学段与自选偏差** 现有严谨实证数据多来自自愿参与干预的小学样本（如 [[Research Learning Communities\|RLC]] 项目学校），对资源匮乏学校或中等教育阶段的组织适用性仍需谨慎检验。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 132–133)]]
 
 ---

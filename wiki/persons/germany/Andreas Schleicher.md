@@ -8,7 +8,7 @@ summary: "德国教育统计学家、经合组织（OECD）教育与技能司司
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 40
+person_related_count: 41
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Performance Indicators]]"
   - "[[School Autonomy]]"
+  - "[[Discourse]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
   - "[[Rote Learning]]"
@@ -108,7 +109,7 @@ updated: 2026-10-07
 > - **1999 — *Measuring Student Knowledge and Skills: A New Framework for Assessment*** 奠基性评估框架，确立 [[PISA]] 脱离学校课程教材记忆、转向测量 15 岁学生在现实情境中迁移与应用高阶知识能力的评价逻辑。
 > - **2014 — *PISA 2012 Results: What Makes Schools Successful*** 系统总结全球高绩效学校治理特征，提出[[School Autonomy\|学校自主权]]、专业协作文化与基于证据的自我诊断是卓越体系的核心驱动力。
 > - **2018 — *World Class: How to Build a 21st-Century School System*** 个人代表专著，系统整合[[OECD\|经合组织]]二十年跨国评估实证洞见，倡导从工业时代的流水线科层教育向面向 21 世纪的专业化、自适应与全球素养现代学习生态转型。
-> - **2021 — *OECD Studies and the Case of PISA, [[Programme for the International Assessment of Adult Competencies\|PIAAC]], and [[Teaching and Learning International Survey\|TALIS]]*** 与 Ikeda, Thorn, & Tremblay 合著，系统解构经合组织如何将大规模跨国评估工具打包，构筑起主导全球教育公共政策咨询与标准制定的专业话语网络。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 547)]]
+> - **2021 — *OECD Studies and the Case of PISA, [[Programme for the International Assessment of Adult Competencies\|PIAAC]], and [[Teaching and Learning International Survey\|TALIS]]*** 与 Ikeda, Thorn, & Tremblay 合著，系统解构经合组织如何将大规模跨国评估工具打包，构筑起主导全球教育公共政策咨询与标准制定的专业[[Discourse|话语]]网络。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 547)]]
 
 ---
 

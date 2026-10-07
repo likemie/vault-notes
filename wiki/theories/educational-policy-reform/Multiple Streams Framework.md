@@ -9,7 +9,7 @@ aliases:
 summary: "由约翰·金登（John Kingdon）创立并由尼古拉斯·扎哈利亚迪斯（Nikolaos Zahariadis）深化的公共政策分析框架；将政策制定过程解构为相对独立的问题流、政策流与政治流，阐明在决策歧义性与信息过载情境下，政策企业家如何抓住政策之窗实现三流耦合以促成改革议程设定。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Policy Window]]"
   - "[[Policy Entrepreneur]]"
   - "[[Façade of Rationality]]"
+  - "[[Discourse]]"
   - "[[Scaffolding]]"
   - "[[Determinism]]"
   - "[[Transfer Translation Transformation]]"
@@ -86,7 +87,7 @@ updated: 2026-10-07
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | 问题流（Problem Stream） | 机制 | 描述社会状况如何通过统计指标变动（Indicators）、焦点事件（Focusing Events）或既往政策反馈，被话语建构为必须解决的公共危机。 |
+> | 问题流（Problem Stream） | 机制 | 描述社会状况如何通过统计指标变动（Indicators）、焦点事件（Focusing Events）或既往政策反馈，被[[Discourse\|话语]]建构为必须解决的公共危机。 |
 > | 政策流（Policy Stream） | 机制 | 专家、智库与学者在“政策原始汤（Policy Primeval Soup）”中不断构思、辩驳与重组技术方案，方案的萌生通常先于具体问题的浮现。 |
 > | 政治流（Politics Stream） | 机制 | 由国民情绪（National Mood）、公众舆论波动、政党力量对比及政府行政换届构成，遵循完全独立于专业证据的政治逻辑运转。 |
 > | [[Policy Window\|政策之窗]]（Policy Window） | 框架 | 问题恶化或政治形势剧变所开启的转瞬即逝的政策行动机遇期，为推动重大改革提供了制度缺口。 |
@@ -106,7 +107,7 @@ updated: 2026-10-07
 > [!proposition-chain] 核心命题二｜歧义性情境下中介耦合与[[Policy Window|政策之窗]]开启命题
 > - **前提一** 公共决策生态充斥着深刻的歧义性，面对同一教育现状，各派政治力量拥有不可调和的价值取向与归因方式。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 538)]]
 > - **前提二** 信息的过载导致决策者的注意力成为最稀缺的资源；单纯增加研究证据只会加剧认知混乱，无法自然推导出唯一的行动方案。
-> - **前提三** 突发危机（如大规模国际测评落后造成的制度恐慌）或政治换届短暂打开“政策之窗”；[[Policy Entrepreneur\|政策企业家]]（[[Policy Brokerage\|政策中介]]）利用量化数字构建出理性、客观与精确的话语表象（[[Façade of Rationality]]），将特定方案与被界定的危机强行锁定。
+> - **前提三** 突发危机（如大规模国际测评落后造成的制度恐慌）或政治换届短暂打开“政策之窗”；[[Policy Entrepreneur\|政策企业家]]（[[Policy Brokerage\|政策中介]]）利用量化数字构建出理性、客观与精确的[[Discourse|话语]]表象（[[Façade of Rationality]]），将特定方案与被界定的危机强行锁定。
 > - **推导** 政策变迁的实质不是全面理性的科学决策，而是在政策之窗开启的有限窗口期内，政策中介凭借话语和符号技术促成问题流、政策流与政治流的策略性耦合。
 
 > [!proposition-chain]- 延伸命题
@@ -142,7 +143,7 @@ updated: 2026-10-07
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 拒绝将政策系统视为机械的理性因果机器；政策世界是复杂的“有组织的无序状态（Organized Anarchy）”，充满了结构性歧义、流动的参与者与偏好的不确定性。
 > - **[[Epistemology\|认识论]]** 强调证据的使用具有高度的情境依赖性与建构性；研究成果不是直接转化为行动的硬因果，而是行动者在博弈中用于界定问题与包装方案的符号资源。
-> - **方法含义** 倡导[[Process Tracing|过程追踪法]]（Process Tracing）、历史制度分析与政策[[Discourse Analysis\|话语分析]]，重点追踪特定方案何时、由谁、以何种话语修辞被装入政策议程。
+> - **方法含义** 倡导[[Process Tracing|过程追踪法]]（Process Tracing）、历史制度分析与政策[[Discourse Analysis\|话语分析]]，重点追踪特定方案何时、由谁、以何种[[Discourse|话语]]修辞被装入政策议程。
 > - **不能直接推出的东西** 不能根据三流耦合的事实自动推导该政策方案在微观实践中具备实质教育有效性；该框架解释的是“议程如何确立”，而非“政策是否科学”。
 
 > [!theory-use] 如何用于研究

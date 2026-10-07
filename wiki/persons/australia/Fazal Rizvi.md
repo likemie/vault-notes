@@ -7,7 +7,7 @@ summary: "澳大利亚高等教育与全球化研究学者，国际化与地缘�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[APA Style]]"
   - "[[Knowledge Capitalism]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Classical Geopolitics]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economization]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 ## 简介
 
@@ -85,7 +86,7 @@ updated: 2026-09-24
 
 
 > [!info] [[Transnational Research Collaboration\|跨国研究合作]]中的多重理性融合
-> Rizvi 揭示了推动[[Transnational Research Collaboration\|跨国研究合作]]的四重理性——个体研究者的学术兴趣、机构的声誉和基础设施需求、国家的贸易和外交目标——在现代合作话语中被无缝地融合进同一套叙事中。同一个联合实验室可以同时被表述为学术合作、声誉建设、贸易促进和公共外交([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.98–99]])。
+> Rizvi 揭示了推动[[Transnational Research Collaboration\|跨国研究合作]]的四重理性——个体研究者的学术兴趣、机构的声誉和基础设施需求、国家的贸易和外交目标——在现代合作[[Discourse|话语]]中被无缝地融合进同一套叙事中。同一个联合实验室可以同时被表述为学术合作、声誉建设、贸易促进和公共外交([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.98–99]])。
 
 
 > [!info] [[Critical Geopolitics\|批判地缘政治学]]作为分析透镜
@@ -97,7 +98,7 @@ updated: 2026-09-24
 ## 影响
 
 > [!success] 影响
-> - 为[[Geopolitics of Knowledge\|知识地缘政治]]的分析补充了市场化维度——此前 GPK 的讨论关注了[[Knowledge-Based Economization\|知识经济化]]、[[Spatial Sortings\|空间分选]]和[[Epistemology\|认识论]]治理，但普遍遗漏了亚洲崛起如何通过改变[[International Education\|国际教育]]的市场结构和话语逻辑来重塑全球 GPK 格局([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.89–90]])
+> - 为[[Geopolitics of Knowledge\|知识地缘政治]]的分析补充了市场化维度——此前 GPK 的讨论关注了[[Knowledge-Based Economization\|知识经济化]]、[[Spatial Sortings\|空间分选]]和[[Epistemology\|认识论]]治理，但普遍遗漏了亚洲崛起如何通过改变[[International Education\|国际教育]]的市场结构和[[Discourse|话语]]逻辑来重塑全球 GPK 格局([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.89–90]])
 > - 为[[International Education Hubs\|国际教育枢纽]]的分析提供了亚洲视角——IEHs 集中体现了亚洲国家从国际化的被动接受者到主动塑造者的角色转变
 > - 对[[New Public Management\|NPM]] 在高等教育中的运作机制提供了新的因果解释——国际化成功本身成为加速 NPM 渗透的催化剂，而非仅仅是 NPM 的应用领域
 >

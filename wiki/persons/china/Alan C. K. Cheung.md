@@ -8,7 +8,7 @@ summary: "香港中文大学教育学院教授、证据本位教育改革与大�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 41
+person_related_count: 42
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Metacognitive Laziness]]"
   - "[[Scaffolding]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Operationalization]]"
   - "[[Output-Oriented Governance]]"
   - "[[Scientism]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-02'
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Alan C. K. Cheung
@@ -141,7 +142,7 @@ updated: 2026-09-22
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 推进[[Third Generation Activity Theory\|活动理论]]（AT-MCSCL）在人机协同学习中的[[Operationalization\|操作化]]；实证建构教育技术[[Marginal Gains Hypothesis\|边际效益假说]]，为技术赋能弱势群体的补偿机制提供理论依据。
+> - **理论路径** 推进[[Third Generation Activity Theory\|活动理论]]（AT-MCSCL）在[[Man-Computer Symbiosis|人机协同]]学习中的[[Operationalization\|操作化]]；实证建构教育技术[[Marginal Gains Hypothesis\|边际效益假说]]，为技术赋能弱势群体的补偿机制提供理论依据。
 > - **方法路径** 将美国[[What Works Clearinghouse\|有效干预清算中心]]（[[What Works Clearinghouse\|WWC]]）与 Slavin 学派的基线等效控制准则（$d < 0.25$）引入 AI 教育元分析，推动数据与分析代码完全开源，树立了高标准透明度与可复现性范式。
 > - **政策路径** 推动[[Evidence-Based Education\|循证教育]]决策理念在香港及大中华区政策制定中的渗透，主张将有限教育经费优先投向经高质量实证检验且具有高边际收益的数字化基建与干预项目。
 > - **跨国／跨领域传播** 创办并维护 [[Best Evidence in Brief\|BEiB]] 中文版，长期将欧美最新教育 [[Randomised Controlled Trials\|RCT]] 研究翻译引介给海外华人学者与一线教育者，架设东西方循证教育学术桥梁。

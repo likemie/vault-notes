@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23"
 argument_display_title: "Research Methods in Education · Ch23"
 argument_kind: "book-chapter"
-argument_related_count: 64
+argument_related_count: 65
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Fitness for Purpose]]"
   - "[[Halo Effect]]"
+  - "[[Discourse]]"
   - "[[Homework]]"
   - "[[Classroom Management]]"
   - "[[Research Purpose]]"
@@ -519,7 +520,7 @@ Dyer（1995, pp. 181–186）提出结构化观察必须处理九项关键原则
 > [!feature] 结构化观察的三种分析路径
 > - **频率计数** 按个体、群体、班级、事件、活动、行为等进行计数
 > - **模式识别** 行为序列、对话或互动顺序（如[[Discourse Analysis\|话语分析]]或课堂对话中的问答序列）、频繁出现的事件/行为/人/互动类型的组合
-> - **聚合数据** 从个体到群体到班级、从个体到男女、从个别课到课程或科目、从个别行为到行为类别、从个别话语单位到话语类型（封闭式问题/开放式问题、扩展回应/单词回应、教师发起/学生发起的对话）、在任务/偏离任务行为
+> - **聚合数据** 从个体到群体到班级、从个体到男女、从个别课到课程或科目、从个别行为到行为类别、从个别[[Discourse|话语]]单位到话语类型（封闭式问题/开放式问题、扩展回应/单词回应、教师发起/学生发起的对话）、在任务/偏离任务行为
 
 > [!info] 结构化观察数据的双重分析路径
 > 数据可转换为数字，使用全套统计分析（见本书第五部分）。除将数据**量化（quantitized）**外，结构化观察数据也可以转化为叙述性陈述、描述和主题，即**质化（qualitized）**（23.4 节）。

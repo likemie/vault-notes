@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 83
+fact_related_count: 84
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Procedural Skill]]"
   - "[[Creativity]]"
   - "[[Rashomon Effect]]"
+  - "[[Discourse]]"
   - "[[Employability]]"
   - "[[Lifelong Learning]]"
   - "[[Policy Borrowing]]"
@@ -166,7 +167,7 @@ updated: 2026-10-07
 > - **周期性主测轮换** 每三年为一个周期，阅读、数学、科学依次作为主测领域，辅以财经素养、[[Creativity\|创造性]]思维等创新模块。
 > - **跨国共同量表** 依托[[Item Response Theory\|项目反应理论]]（IRT）与 Rasch 测量建立跨国均值（500 分）与标准差（100 分）量表，实现历时与跨国横向可比。
 > - **背景[[Questionnaire\|问卷]]与社会学透视** 采集学生家庭社会经济文化地位（ESCS）、学校资源、教师教学法等丰富[[Variable\|变量]]，为教育公平与效能分析提供海量微观数据。
-> - **数据可塑性与[[Rashomon Effect\|罗生门效应]]（Data Plasticity & Rashomon Effect）** PISA 成果发布体系由长篇技术主报告、简明国别简报（Country Notes）与精要简讯（PISA in Focus）构成；庞大的指标网络赋予评估数据极高的话语可塑性，使同一批数据能被不同立场的国内政治精英、游说团体与大众媒体各取所需，剪裁为相互冲突的政策依据与“多重真相”。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018)]]
+> - **数据可塑性与[[Rashomon Effect\|罗生门效应]]（Data Plasticity & Rashomon Effect）** PISA 成果发布体系由长篇技术主报告、简明国别简报（Country Notes）与精要简讯（PISA in Focus）构成；庞大的指标网络赋予评估数据极高的[[Discourse|话语]]可塑性，使同一批数据能被不同立场的国内政治精英、游说团体与大众媒体各取所需，剪裁为相互冲突的政策依据与“多重真相”。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018)]]
 
 > [!info] 差异化定位与营销策略（[[Argument_Zhao_2020_JEC\|Zhao, 2020]]）
 > PISA 的全球成功是一场精准的市场化定位案例。在 PISA 之前，[[IEA]]（[[International Education\|国际教育]]成就评价协会）已深耕 [[TIMSS]] 和 [[PIRLS]] 评估数十年。PISA 通过直击各国政府对未来全球竞争与青年[[Employability\|就业能力]]的普遍焦虑，提出了三大核心问询：“年轻人是否准备好迎接未来挑战？他们能否有效分析、推理与沟通？他们是否具备[[Lifelong Learning\|终身学习]]的能力？”（OECD 1999, p. 7）。PISA 借此宣称其测量的是“未来生活所需的基本技能”，从而击败传统课程导向评估，确立了全球主导地位。
@@ -240,7 +241,7 @@ updated: 2026-10-07
 > - **高分低趣与科学抱负悖论（Score-Interest & Well-being Paradox）** 实证表明，PISA 科学高分国家的学生往往表现出更低的学科内在兴趣与更弱的未来科学职业抱负（Kjærnsli & Lie, 2011）；高分体系学生的心理幸福感（Well-being）与创业[[Self-Efficacy\|自我效能感]]往往显著偏低（OECD 2017; Royal Society, 2026a, p. 32）。
 > - **文化[[Transfer Translation Transformation\|转译]]偏误与美化威权教育（Authoritarian Cultural Misattribution）** 部分推广者将东亚部分地区的高分归因于“学生对失败的自我谴责与责任感”，但批判学者指出，自我谴责往往是威权式服从、严苛惩罚与高压管教的副产品，而非可移植的教育卓越秘诀。
 > - **抽样代表性与心理测量偏差（Methodological & Psychometric Flaws）** 按年龄（15 岁）而非年级抽样导致跨年级混合偏差；特殊教育需求学生被系统性排除；德语等语种试题长度比英语长 18% 却使用相同作答时限；Rasch 模型在多国阅读与科学数据上存在项目功能差异（DIF），严重动摇了国家排名的稳健性（Kreiner & Christensen, 2014; Solheim & Lundetræ, 2018）。
-> - **[[Mediatised Governance\|媒介化治理]]与本土政治曲解（[[Mediatised Governance\|媒介化治理]]与[[Rashomon Effect\|罗生门效应]]）** 跨国评估不仅是技术测量，更演化为国家政客与大众传媒共谋的政治舞台。政治精英利用新闻发稿时效与媒介“标准下滑模版（[[Falling Standards Template]]）”，通过选择性引述与“遗漏话语”虚构国家教育停滞危机；而媒体受制于通稿依赖与专业门槛，集体陷入“[[Policy Avoidance\|政策规避]]（policy avoidance）”，不仅未履行第四权力对政策实证依据的核查职责，反而充当了未经民主审议的激进私有化改革的扩音器，导致严肃的跨国比较退化为高度政治化的象征性治理游戏。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018)]]
+> - **[[Mediatised Governance\|媒介化治理]]与本土政治曲解（[[Mediatised Governance\|媒介化治理]]与[[Rashomon Effect\|罗生门效应]]）** 跨国评估不仅是技术测量，更演化为国家政客与大众传媒共谋的政治舞台。政治精英利用新闻发稿时效与媒介“标准下滑模版（[[Falling Standards Template]]）”，通过选择性引述与“遗漏[[Discourse|话语]]”虚构国家教育停滞危机；而媒体受制于通稿依赖与专业门槛，集体陷入“[[Policy Avoidance\|政策规避]]（policy avoidance）”，不仅未履行第四权力对政策实证依据的核查职责，反而充当了未经民主审议的激进私有化改革的扩音器，导致严肃的跨国比较退化为高度政治化的象征性治理游戏。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018)]]
 > - **探究频次负相关表象与教学“黄金点”解构（Inquiry-Achievement Fallacy & Sweet Spot）** [[Direct Instruction\|直接教学]]倡导者常援引 PISA 2015 报告中探究频次与科学成绩呈表面负相关的横截面数据，质疑探究教学的政策有效性。然而，多层非线性建模揭示：探究频次与科学成就呈倒 U 型曲线（Chen et al., 2017; Oliver et al., 2021），适度探究伴随最高学业收益（存在“教学黄金点”），极端过高或完全缺失才伴随低分；更关键的是，探究成效高度受制于教师指导的调节（Aditomo & Klieme, 2020），在涵盖 15 万名学生的 20 个高低表现地区中，无指导探究普遍与成绩负相关，而教师[[Inquiry-Based Learning\|指导式探究]]在所有 16 个有效实施地区均与科学素养高度显著正相关；此外，PISA 学生自评[[Questionnaire\|问卷]]将照本宣科的验证实验与深层探究混淆，且遮蔽了探究活动内部的[[Heterogeneity\|异质性]]（Cairns, 2019；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 5–6]]）。
 
 ---

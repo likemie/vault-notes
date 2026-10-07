@@ -8,7 +8,7 @@ aliases:
 summary: "由乔尔·萨莫夫（Joel Samoff）提出、用以剖析世界银行等国际金融组织霸权机制的批判性概念。它揭示了多边信贷附加条件与定向委托研究之间的深度绑定，通过雇佣专家共同体与新古典经济学、人力资本理论及厂商理论，将投入产出与收益率分析裁定为唯一合法的方法论标准，重塑发展中国家的教育政策议程。"
 type: concept
 domain: "comparative-education"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Disciplina and Doctrina]]"
   - "[[International Education]]"
+  - "[[Discourse]]"
   - "[[Knowledge Bank]]"
   - "[[Global Education Governing Complex]]"
   - "[[Blue Skies Research]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Financial-Intellectual Complex
@@ -84,7 +85,7 @@ updated: 2026-10-06
 > - **边界** 区别于单纯的学术思想流派或无信贷约束力的跨国智库；该复合体具备将知识成果直接转化为超国家主权贷款硬性约束的制度强制力。
 
 > [!citation-card] 萨莫夫论世界银行的财智复合体本质
-> 世界银行是一个追求知识与专业技能跨国化的智识与金融复合体中的核心参与者，它利用受雇专家共同体，使研究与教育融资形成强力合流。世界银行在全球教育的权力与决策网络中占据核心枢纽，通过多种途径对发展中国家的研究与政策制定乃至国际教育话语施加异乎寻常的影响。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
+> 世界银行是一个追求知识与专业技能跨国化的智识与金融复合体中的核心参与者，它利用受雇专家共同体，使研究与教育融资形成强力合流。世界银行在全球教育的权力与决策网络中占据核心枢纽，通过多种途径对发展中国家的研究与政策制定乃至国际教育[[Discourse|话语]]施加异乎寻常的影响。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 >
 > *The World Bank is a major player in an intellectual and financial complex pursuing the transnationalization of knowledge and expertise, using a community of experts for hire in a process where there is a strong confluence of research and educational financing. The world is seen as having a pivotal role in the network of power and decision making in education worldwide, influencing in peculiar ways research and policy-making in developing countries as well as influencing the international discourse in education by different means.*
 

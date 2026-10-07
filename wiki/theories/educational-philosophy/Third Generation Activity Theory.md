@@ -15,7 +15,7 @@ aliases:
 summary: "在 Vygotsky 中介三角与 Engeström 六要素模型基础上发展出的理论范式，聚焦多活动系统相遇时的矛盾、边界跨越、人机协同分工与扩展性改造机制，包含教育技术领域的 AT-MCSCL 分析框架。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 51
+theory_related_count: 53
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Selective Affinity]]"
   - "[[Policy Borrowing]]"
   - "[[Test-Based Accountability]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[Scaffolding]]"
@@ -61,6 +62,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
+  - "[[Discourse]]"
   - "[[Interaction Effect]]"
 related_theories: []
 related_methods:
@@ -83,7 +85,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-09-23
+updated: 2026-10-07
 ---
 
 # Third Generation Activity Theory
@@ -158,7 +160,7 @@ updated: 2026-09-23
 > - **前提二（机制转化）** 学校通过将 LCE 的探究对话机制与中国儒家启发式传统及高考高阶解题能力建立[[Selective Affinity\|选择性亲和]]（Selective Affinity），提炼出“以探究赋能应试”的学校特定共享目标。
 > - **推导** 共享客体的确立带动了规则（允许适度偏离大纲）、工具（将对话发展为攻克难题工具）与分工（校领导承担问责风险）的全要素重组，打破了应试与素养的二元对立。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 598–603)]]
 
-> [!proposition-chain] 核心命题五｜生成式 AI 介入下的教学活动系统失调与人机协同规制重构（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）
+> [!proposition-chain] 核心命题五｜生成式 AI 介入下的教学活动系统失调与[[Man-Computer Symbiosis|人机协同]]规制重构（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）
 > - **前提一（工具侵蚀风险）** 生成式 AI 作为新型中介工具进入大学教学，其高速语义生成与传统的“终稿文本评价”规则发生剧烈冲突，在非结构化使用中诱发严重的[[Cognitive Offloading\|认知卸载]]与批判/创造双重侵蚀。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 9–11)]]
 > - **前提二（教学客体升维）** 单纯的“技术接纳”或“机械禁令”属于失效的工具中心论，必须将教学客体升级为“自适应专业特长与高阶心智协同”。
 > - **推导** 教学活动系统必须实施全面扩展性改造：① 中介工具重塑为知识中继节点与[[Boundary Object\|边界对象]]；② 规则由终稿查重转向过程性提示词链追踪与反思辩护；③ 劳动分工实行人机解耦（AI 发散初筛，人类收敛裁决）；④ 共同体构建涵盖 AI、教师与同伴的多源反馈生态。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 11–13)]]
@@ -257,7 +259,7 @@ updated: 2026-09-23
 > - **2001 — 第三代：多活动系统互动与扩展性改造** Engeström 正式提出第三代活动理论，聚焦多个活动系统的相遇、边界跨越与扩展性学习网络。
 > - **2025 — 教育改革与跨文化[[Transfer Translation Transformation\|转译]]实证应用** Wang & McLaughlin 运用第三代活动理论解构中国 4 所高中在跨国培训后，如何通过建立共享客体实现[[Test-Based Accountability\|考试问责]]与 [[Learner-Centred Education\|LCE]] 改革双系统的扩展性改造。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 586–605)]]
 > - **2025 — 活动理论移动协作学习框架（AT-MCSCL）的大样本[[Meta-analysis\|元分析]][[Operationalization\|操作化]]** [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 承袭 Jonassen & Rohrer-Murphy (1999) 与 Collis & Margaryan (2004) 的传统，构建 AT-MCSCL 六要素调节分析架构，对 57 项高等教育生成式 AI 实证实施多维全要素[[Coding in Qualitative Research\|编码]]，确立了边际效益递增与权力壁垒破除的宏观生态机制。
-> - **2026 — 生成式 AI 人机协同与教学规制重构** Li et al. 将第三代活动理论应用于高等教育生成式 AI 整合研究，提出超越工具中心论的六大教学干预规制与人机认知分工模型。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 11–13)]]
+> - **2026 — 生成式 AI [[Man-Computer Symbiosis|人机协同]]与教学规制重构** Li et al. 将第三代活动理论应用于高等教育生成式 AI 整合研究，提出超越工具中心论的六大教学干预规制与人机认知分工模型。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 11–13)]]
 
 ---
 
@@ -269,7 +271,7 @@ updated: 2026-09-23
 > > 批评者认为六要素系统结构过于严密，可能低估微观个体（如一线师生）在强系统压迫下的日常抵制与即兴能动性。
 > >
 > > - **Engeström（2001）** 强调系统矛盾正依赖主体的批判质疑与边界跨越来激发扩展性学习。
-> > - **[[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, p. 593)]]** 证明学校校长和教师通过能动地[[Transfer Translation Transformation\|转译]]改革话语，反向重构了活动规则。
+> > - **[[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, p. 593)]]** 证明学校校长和教师通过能动地[[Transfer Translation Transformation\|转译]]改革[[Discourse|话语]]，反向重构了活动规则。
 >
 > > [!axis] 共享客体建构与系统权力不对等的遮蔽
 > > 批评者质疑在高利害[[Test-Based Accountability\|考试问责]]或商业科技公司垄断等强系统面前，弱势教学系统的妥协常被美化为“共享客体”。

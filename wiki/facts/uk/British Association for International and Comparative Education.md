@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Development Education]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Knowledge Transfer]]"
   - "[[Policy Borrowing]]"
 related_theories:
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # British Association for International and Comparative Education
@@ -86,6 +87,6 @@ updated: 2026-10-05
 ## 学术影响与学科史地位
 
 > [!impact-cards]
-> - **确立英国在英语世界比较教育的核心学术话语权** 通过高品质期刊《Compare》与密集的学术出版，主导了英语学术界关于教育全球化、[[Knowledge Transfer|知识转移]]与[[Policy Borrowing|政策借用]]的前沿概念探讨。
+> - **确立英国在英语世界比较教育的核心学术[[Discourse|话语]]权** 通过高品质期刊《Compare》与密集的学术出版，主导了英语学术界关于教育全球化、[[Knowledge Transfer|知识转移]]与[[Policy Borrowing|政策借用]]的前沿概念探讨。
 > - **示范了跨领域学会整合的制度模式** BCIES 与 BATROE 的成功合并，为其他国家消除基础理论研究与发展应用援助研究之间的学术藩篱提供了经典范例。
 > - **维系英国大学比较教育师资与研究生培养生态** 设立学生奖学金与早期职业研究者支持机制，为英国及国际学界培育了数代顶尖比较教育专门人才。

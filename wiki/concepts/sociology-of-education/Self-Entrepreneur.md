@@ -4,12 +4,13 @@ aliases: ["自我企业家", "企业型自我", "entrepreneurial self", "自我�
 summary: "Bröckling (2015) 提出的新自由主义主体性概念，指个体将自身视为需要不断投资、优化和营销的企业，其意愿和激情而非实际技能成为新的生产要素。"
 type: concept
 domain: "sociology-of-education"
-related_count: 4
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags: ["theme/neoliberalism", "theme/subjectivity", "theme/employability"]
 related_concepts:
+  - "[[Discourse]]"
   - "[[Employability]]"
   - "[[Lifelong Learning]]"
 related_theories:
@@ -22,7 +23,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-10-07
 ---
 
 # Self-Entrepreneur
@@ -32,12 +33,12 @@ updated: 2026-05-20
 > [!info]
 > 自我企业家（self-entrepreneur / entrepreneurial self）是 Bröckling（2015）在 Foucault [[Governmentality\|治理术]]理论脉络中提出的新自由主义主体性概念，指个体将自身视为一个需要持续投资、优化和营销的企业。这种主体性不以具体技能的掌握为核心，而是以**自我引导的模式（modes of self-conduct）**——即主体性本身——作为生产的来源（Reed, 2009, p.33, cit. by Zelinka, 2022, p.261）。
 
-在 21 世纪技能与素养话语的语境中，自我企业家代表了一种以**[[Employability|就业力]]和市场为导向**的主体性([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.260]])。这种主体性正在全球范围内成为一种"心灵景观"（mindscape）——一种新型文化（Moisio & Kangas, 2016, p.275）。
+在 21 世纪技能与素养[[Discourse|话语]]的语境中，自我企业家代表了一种以**[[Employability|就业力]]和市场为导向**的主体性([[Argument_Zelinka_2022_SCD_subjectivity|Zelinka, 2022, p.260]])。这种主体性正在全球范围内成为一种"心灵景观"（mindscape）——一种新型文化（Moisio & Kangas, 2016, p.275）。
 
 ## 核心机制
 
 > [!abstract]
-> [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022, p.261)]]在分析 21 世纪技能话语时，将自我企业家的运作机制概括为：
+> [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022, p.261)]]在分析 21 世纪技能[[Discourse|话语]]时，将自我企业家的运作机制概括为：
 
 **自我实现与自我责任化**。个体有义务获取新能力并扩展现有能力，将结构性问题的解决负担转移到个体身上（Parreira do Amaral & Zelinka, 2019）。
 
@@ -49,5 +50,5 @@ updated: 2026-05-20
 
 > [!example]
 > - vs **[[Employability]]** — 就业力是自我企业家主体性的外在表现和目标维度；自我企业家则描述了支撑就业力的主体性结构。
-> - vs **[[Lifelong Learning\|终身学习]]者** — 自我企业家是主动拥抱技能获取竞赛的"愿意主体"；而不愿主体则成为终身学习话语的干预对象([[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, p.261]])。
+> - vs **[[Lifelong Learning\|终身学习]]者** — 自我企业家是主动拥抱技能获取竞赛的"愿意主体"；而不愿主体则成为终身学习[[Discourse|话语]]的干预对象([[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, p.261]])。
 

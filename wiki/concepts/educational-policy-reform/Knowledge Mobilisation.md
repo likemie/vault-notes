@@ -12,7 +12,7 @@ aliases:
 summary: "教育研究利用领域的全系统构念，指研究知识通过沟通传播、能力建设、伙伴关系与系统化方法进入政策与实践的社会交互与多方共创过程，旨在克服证据供需脱节与双向能力赤字。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 65
+related_count: 66
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Theoretical Knowledge]]"
   - "[[Ontology]]"
   - "[[Engaged Scholarship]]"
+  - "[[Discourse]]"
   - "[[Teaching Assistant]]"
   - "[[Persuasive Communication in Education]]"
   - "[[Research Literacy]]"
@@ -97,7 +98,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-21"
-updated: 2026-09-27
+updated: 2026-10-07
 ---
 
 # Knowledge Mobilisation
@@ -204,7 +205,7 @@ updated: 2026-09-27
 ## 核心要素
 
 > [!feature] 知识动员（KMb）的四类核心推进策略
-> - **沟通与传播（Communication and Dissemination）** 优化证据呈现的清晰度与可及性，破除学术晦涩话语；帮[[Teaching Assistant\|助教]]育者辨识[[Persuasive Communication in Education\|说服性修辞]]与真实证据。
+> - **沟通与传播（Communication and Dissemination）** 优化证据呈现的清晰度与可及性，破除学术晦涩[[Discourse|话语]]；帮[[Teaching Assistant\|助教]]育者辨识[[Persuasive Communication in Education\|说服性修辞]]与真实证据。
 > - **能力建设（Capacity Building）** 消除研究生产者与使用者的双向能力赤字，培育[[Research Literacy\|研究素养]]、[[Data Literacy\|数据素养]]与分析性评估立场。
 > - **伙伴关系与网络（Partnerships and Networks）** 依托[[Research-Practice Partnership\|研究-实践伙伴关系]]（RPP）与中层领导网络，建立跨越学术与实践边界的协作共同体。
 > - **系统化方法（Systemic Approaches）** 构建全系统层面的制度文化、基础设施、资源保障与长效激励机制，突破时间与资源瓶颈。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 130–131)]]
@@ -343,7 +344,7 @@ updated: 2026-09-27
 > | **复杂系统模型（Systems Model）** | 各行动者深度嵌入复杂自适应系统，知识在协同共创中动态生成 | 激活全系统使能机制，协同推进多元证据、协同领导、跨组织网络与战略沟通 | 依赖国家级战略协同与长效公共投入，面临科层条块分割与传统学术考评阻力 | **宏观治理统摄** 重塑评价激励、配置长效资源，包容性嵌套低阶形态实现生态协同 |
 
 > [!warrant]- 为什么系统模型是“包容性嵌套”而非“机械替代”
-> 如果脱离第一代线性分发奠定的标准化证据与物理可及性，复杂系统将沦为缺乏坚实经验客体支撑的空转话语；而如果缺乏第二代关系网络与跨界中介，宏观制度设计也无法穿透组织壁垒触达一线教室。复杂系统模型正是将信息交付与人际信任有机整合进更高级别的自适应制度环境中。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 18–20)]]
+> 如果脱离第一代线性分发奠定的标准化证据与物理可及性，复杂系统将沦为缺乏坚实经验客体支撑的空转[[Discourse|话语]]；而如果缺乏第二代关系网络与跨界中介，宏观制度设计也无法穿透组织壁垒触达一线教室。复杂系统模型正是将信息交付与人际信任有机整合进更高级别的自适应制度环境中。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 18–20)]]
 
 > [!implication]- 政策与制度设计的[[Reflexivity\|反思性]]推论
 > - **警惕忽视基础交付的“唯系统论”空转** 推动生态建设不可废弃数据库建设、证据分发与转译工具包等基础服务，否则生态将面临“信息断粮”。

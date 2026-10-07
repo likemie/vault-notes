@@ -11,9 +11,9 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "European Union"
 tags:
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Strategic Autonomy]]"
   - "[[Modern Industrial Policy]]"
   - "[[Competitiveness]]"
+  - "[[Discourse]]"
   - "[[Policy Conditionalities]]"
   - "[[Vertical Disintegration]]"
 related_theories: []
@@ -131,7 +132,7 @@ updated: 2026-10-07
 > | 行动者 | 资源类型 | 核心利益 | 立场 | 典型策略 |
 > |:---|:---|:---|:---|:---|
 > | 德国经济部 | 庞大国家财政 / 工业腹地 | 重振萨克森硅谷、保卫本土汽车工业供应链 | 强力主导 | 斥资数十亿欧元直接资助台积电与英特尔 |
-> | 法国工业部 | 国家援助政策话语权 | 保持微电子主权、发展 FD-SOI 特色工艺 | 强力主导 | 联合补贴意法半导体与格芯扩产 |
+> | 法国工业部 | 国家援助政策[[Discourse\|话语]]权 | 保持微电子主权、发展 FD-SOI 特色工艺 | 强力主导 | 联合补贴意法半导体与格芯扩产 |
 > | 欧盟委员会 | 规则审批与反垄断管辖权 | 统筹[[Strategic Autonomy\|欧洲战略自主]]、防范内部单一市场破裂 | 规制协调 | 充当协调者，开辟国家援助豁免绿色通道并推行 [[Important Projects of Common European Interest\|IPCEI]] 利润回缴 |
 > | 台积电 (TSMC) | 先进制程制造工艺 | 分散地缘风险、获取欧洲建厂高额财政补贴 | 积极合作 | 绑定欧洲汽车芯片三巨头成立合资实体 |
 > | 中小及南欧成员国 | 欧洲单一市场投票权 | 维护内部市场公平竞争、防范产业过度向法德集聚 | 审慎保留 | 要求强化第一支柱全欧共享研发，呼吁建立欧盟层面的共同产业基金 |

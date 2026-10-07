@@ -10,7 +10,7 @@ aliases:
 summary: "人类操作者对自动化与智能系统赋予的主观信任水平与系统客观实际能力及情境边界相匹配的动态平衡状态，其失调（过度信任）是诱发认识论顺从与强自动化偏差的根本根源。"
 type: concept
 domain: "educational-technology"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ tags:
   - decision-making
 related_concepts:
   - "[[Generative Artificial Intelligence]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Construct]]"
   - "[[Automation Bias]]"
   - "[[Epistemology]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # Trust Calibration
@@ -61,7 +62,7 @@ updated: 2026-09-26
 ## 定义
 
 > [!def] 核心定义
-> **人机信任校准（Trust Calibration，又称信任校准）** 指人类操作者或学习者对自动化与人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）系统赋予的主观信任水平（Trust），与系统在特定任务情境中的客观真实能力（Capabilities）及有效边界相吻合的动态适应状态。在工效学、认知心理学与人机交互领域，信任校准是决定人机协同效能与安全性的核心[[Construct|构念]]；当信任水平超出系统实际能力时发生**过度信任（Overtrust）**，诱发盲目顺从与[[Automation Bias|强自动化偏差]]；当信任水平低于系统实际能力时发生**信任不足（Undertrust / Distrust）**，导致对正确建议的非理性拒绝与技术闲置。在哲学与社会[[Epistemology|认识论]]视角下，信任校准不仅是主观心理感受，更是关于信任分配是否具备客观充分理由的规范性确证机制。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 8–12)]]
+> **人机信任校准（Trust Calibration，又称信任校准）** 指人类操作者或学习者对自动化与人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）系统赋予的主观信任水平（Trust），与系统在特定任务情境中的客观真实能力（Capabilities）及有效边界相吻合的动态适应状态。在工效学、认知心理学与人机交互领域，信任校准是决定[[Man-Computer Symbiosis|人机协同]]效能与安全性的核心[[Construct|构念]]；当信任水平超出系统实际能力时发生**过度信任（Overtrust）**，诱发盲目顺从与[[Automation Bias|强自动化偏差]]；当信任水平低于系统实际能力时发生**信任不足（Undertrust / Distrust）**，导致对正确建议的非理性拒绝与技术闲置。在哲学与社会[[Epistemology|认识论]]视角下，信任校准不仅是主观心理感受，更是关于信任分配是否具备客观充分理由的规范性确证机制。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 8–12)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指人类主观信任与智能代理客观能力、训练集边界及情境极限之间的动态匹配度。
@@ -142,7 +143,7 @@ updated: 2026-09-26
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **过度信任实质命题** | 过度信任驱动强自动化偏差并演化为深层认识论顺从 | 高风险人机协同、临床医疗AI诊断、智能风控审批 | Muir (1987); Lee & See (2004); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
+> | **过度信任实质命题** | 过度信任驱动强自动化偏差并演化为深层认识论顺从 | 高风险[[Man-Computer Symbiosis\|人机协同]]、临床医疗AI诊断、智能风控审批 | Muir (1987); Lee & See (2004); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
 > | **客观理由解耦命题** | 信任校准独立于主观自信，取决于是否掌握情境反常理由 | 复杂专业决策、非标准数据场景、专家与AI冲突分析 | Jovchevski 等（2026） |
 > | **认知摩擦校准命题** | 依托反思机器与击败者注入认知摩擦以实现动态信任校准 | 智能交互界面设计、人机回路安全规程、可抗辩AI系统 | Hoff & Bashir (2015); Jovchevski et al. |
 

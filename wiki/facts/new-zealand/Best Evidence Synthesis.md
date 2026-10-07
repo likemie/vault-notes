@@ -11,7 +11,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Transfer Translation Transformation]]"
   - "[[International Education]]"
+  - "[[Discourse]]"
   - "[[Evidence-Based Education]]"
   - "[[Flow]]"
   - "[[Knowledge Mobilisation]]"
@@ -131,7 +132,7 @@ updated: 2026-10-07
 
 > [!finding-cards] 核心成效与学术贡献
 > - **开创部委嵌入式中介范例** 证实教育部内部设立专门研发单元能够极大缩短政策决策与学术证据的时空延迟，确保国家战略直接汲取全球实证智慧([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 61–62]])。
-> - **引领[[International Education\|国际教育]]领导力与专业学习实证标准** Robinson et al. (2009) 的领导力[[Meta-analysis\|元分析]]与海伦·廷珀利（Helen Timperley et al., 2007）的教师专业学习框架被[[OECD\|经合组织]]及英美澳等国广泛引为国家标准，极大提升了新西兰教育研究的国际话语权。
+> - **引领[[International Education\|国际教育]]领导力与专业学习实证标准** Robinson et al. (2009) 的领导力[[Meta-analysis\|元分析]]与海伦·廷珀利（Helen Timperley et al., 2007）的教师专业学习框架被[[OECD\|经合组织]]及英美澳等国广泛引为国家标准，极大提升了新西兰教育研究的国际[[Discourse|话语]]权。
 > - **兼顾科学严谨与文化多元性** 成功验证了[[Systematic Review\|系统综述]]可以同时兼纳量化[[Effect Size\|效应量]]与质性文化叙事，为原住民国家探索非殖民化[[Evidence-Based Education\|循证教育]]提供了制度示范。
 
 > [!stat-cards]- 标志性产出与规模指标

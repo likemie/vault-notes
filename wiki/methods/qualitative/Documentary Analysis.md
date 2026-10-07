@@ -8,7 +8,7 @@ summary: "一种通过系统评估文献的真实性、可靠性、意义和语�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
+method_related_count: 39
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Linguistic Turn]]"
+  - "[[Discourse]]"
   - "[[Interpretive Paradigm]]"
   - "[[Critical Thinking]]"
   - "[[Construct Validity]]"
@@ -63,7 +64,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Documentary Analysis
@@ -123,7 +124,7 @@ updated: 2026-10-06
 ### 文本分析：解释学与语言学转向
 
 > [!info] 文本层面的深入分析
-> 对文本语言和形式的分析受到解释学（hermeneutics）和文学批评的影响（Reinfandt, 2009）。部分教育史研究采用[[Linguistic Turn\|语言学转向]]（linguistic turn），关注意义的文本生产、读者的意义获取、作者意图与读者解释的关系，以及话语共同体在文本接受中的作用（Cohen, 1999, p. 81）。
+> 对文本语言和形式的分析受到解释学（hermeneutics）和文学批评的影响（Reinfandt, 2009）。部分教育史研究采用[[Linguistic Turn\|语言学转向]]（linguistic turn），关注意义的文本生产、读者的意义获取、作者意图与读者解释的关系，以及[[Discourse|话语]]共同体在文本接受中的作用（Cohen, 1999, p. 81）。
 
 ### 三种理论传统
 

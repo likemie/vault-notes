@@ -6,10 +6,10 @@ aliases:
 summary: "Bourdieu 场域理论概念，指场域中被自然化为理所当然的正统信念，通过结构安排而非显性强制维持其合法性"
 type: concept
 domain: "sociology-of-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - doxa
   - bourdieu
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Tracking]]"
   - "[[Paradigm]]"
   - "[[Habitus]]"
+  - "[[Discourse]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Nerd]]"
   - "[[Talent Assumption]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-09
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Doxa
@@ -92,7 +93,7 @@ Doxa 的核心不在于"有人相信它"——而在于**没人想到要去质�
 
 **vs 意识形态（ideology）**。意识形态是需要被言说、辩护和传播的信念体系——它知道自己有对手。Doxa 则处于"不被言说"的层面——它不是被捍卫的正统，而是从未被质疑的前提。这一区分引出 Bourdieu 的 doxa-orthodoxy-heterodoxy 光谱（见[[#概念演变|概念演变]]）。
 
-**doxa-orthodoxy-heterodoxy 光谱**。Bourdieu 区分了场域中话语斗争的三个层次：
+**doxa-orthodoxy-heterodoxy 光谱**。Bourdieu 区分了场域中[[Discourse|话语]]斗争的三个层次：
 - **Doxa** 不被言说、不被感知为可争辩的共识——"事情本就如此"的领域
 - **Orthodoxy** 当 doxa 受到挑战时，被明确捍卫的正统——"事情应当如此"的论述
 - **Heterodoxy** 被容忍或压制的异见——"事情未必如此"的替代性论述
@@ -141,7 +142,7 @@ Bourdieu 的[[Epistemology|认识论]]将 doxa 视为科学研究必须决裂的
 
 **Husserl [[Phenomenology|现象学]]**。doxa 在 Husserl 处被重新激活，指生活世界中的原初信念（Ur-doxa）——先于一切理论判断的对世界存在的根本信念。Husserl 的关注点不在社会支配，而在意识如何构成世界经验的前提。
 
-**Bourdieu 的转化（1970s–1980s）**。Bourdieu 将 doxa 从认识论范畴转化为**社会分析**的操作概念：doxa 不再是普遍的认知状态，而是特定 [[Champ|场域]] 中历史建构的、被自然化了的共识。这一转化的关键是：doxa 从"个体怎么认知世界"的问题变成了"社会结构如何使某些信念变得不可质疑"的问题。Bourdieu 进一步区分 doxa（不被言说的共识）、orthodoxy（被明确捍卫的正统）与 heterodoxy（被容忍的异见），形成[[#概念辨析|场域话语斗争的光谱]]。
+**Bourdieu 的转化（1970s–1980s）**。Bourdieu 将 doxa 从认识论范畴转化为**社会分析**的操作概念：doxa 不再是普遍的认知状态，而是特定 [[Champ|场域]] 中历史建构的、被自然化了的共识。这一转化的关键是：doxa 从"个体怎么认知世界"的问题变成了"社会结构如何使某些信念变得不可质疑"的问题。Bourdieu 进一步区分 doxa（不被言说的共识）、orthodoxy（被明确捍卫的正统）与 heterodoxy（被容忍的异见），形成[[#概念辨析|场域[[Discourse|话语]]斗争的光谱]]。
 
 ---
 

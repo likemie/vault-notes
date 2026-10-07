@@ -23,6 +23,7 @@ related_concepts:
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
   - "[[Educational Meliorism]]"
+  - "[[Discourse]]"
   - "[[Literature Review]]"
 related_theories:
   - "[[Governmentality]]"
@@ -44,7 +45,7 @@ title: "Argument_Ball_2008_SR"
 argument_key: "Argument_Ball_2008_SR"
 argument_display_title: "Some sociologies of education: A history of problems and places, and segments and gazes"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -125,7 +126,7 @@ citation_aliases:
 > ### 研究目光
 > - [[Political Arithmetic]] 把阶级、家庭、学校和机会结构连接起来，使教育不平等成为福利国家可认识、可测量、可干预的问题(pp.654-657)。
 > - [[New Sociology of Education]] 将教育社会学目光转向学校知识和课堂过程，打破政治算术的政策[[Educational Meliorism\|改良主义]]，但也无意中帮助把学校和教师实践打开为新的治理对象(pp.657-659)。
-> - [[School Effectiveness]] 在政策中成为一种正常化技术：它建构有效学校的规范模型，把无效学校异常化，并通过检查、测试、排行榜和改进话语推进学校管理(pp.663-665)。
+> - [[School Effectiveness]] 在政策中成为一种正常化技术：它建构有效学校的规范模型，把无效学校异常化，并通过检查、测试、排行榜和改进[[Discourse|话语]]推进学校管理(pp.663-665)。
 >
 > ### 政策后果
 > - 教育社会学持续生产新的权力光学，使学校、教师和学生在知识与政策中被重新组织、重构和[[Disciplina and Doctrina\|规训]](p.665)。

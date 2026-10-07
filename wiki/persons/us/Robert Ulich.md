@@ -8,7 +8,7 @@ summary: "德裔美籍教育哲学家与文化史学家，哈佛大学教授，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 45
+person_related_count: 46
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Geisteswissenschaften]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Interpretive Paradigm]]"
   - "[[Bildung]]"
   - "[[Enlightenment]]"
@@ -89,7 +90,7 @@ updated: 2026-10-07
 > - **代表贡献** 巨著《国家教育：历史视角下的比较》（*The Education of Nations: A Comparison in Historical Perspective*, 1961）；坚持以“人（anthropos）”为中心的比较哲学；将西方文明史演进与教师人文教育深度整合。
 
 > [!citation-card] Kazamias论乌利希与第二论述代际的历史哲学人文传统
-> 历史-哲学与自由人文代际的比较教育话语由萨德勒、坎德尔、乌利希、汉斯与施奈德等学者共同开创。作为从纳粹德国流亡美国的社会民主派学者，乌利希等人坚守精神科学（*Geisteswissenschaften*）的[[Interpretive Paradigm|诠释范式]]，将国家教育系统作为嵌入在深厚文化传统与历史动因中的有机整体进行理解，致力于通过启蒙、自由民主与全人博雅[[Bildung|教化]]，构筑抵御 20 世纪法西斯与极权主义的理性防线。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 143–144)]]
+> 历史-哲学与自由人文代际的比较教育[[Discourse|话语]]由萨德勒、坎德尔、乌利希、汉斯与施奈德等学者共同开创。作为从纳粹德国流亡美国的社会民主派学者，乌利希等人坚守精神科学（*Geisteswissenschaften*）的[[Interpretive Paradigm|诠释范式]]，将国家教育系统作为嵌入在深厚文化传统与历史动因中的有机整体进行理解，致力于通过启蒙、自由民主与全人博雅[[Bildung|教化]]，构筑抵御 20 世纪法西斯与极权主义的理性防线。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 143–144)]]
 >
 > *The historical-philosophical cum liberal-humanist discourse... represented by Michael Sadler, I. L. Kandel, Robert Ulich, Nicholas Hans, and Friedrich Schneider... conceived of comparative education within the matrix of the human sciences (Geisteswissenschaften), emphasizing history and philosophy, fostering democratic citizenship, [[Enlightenment]], and liberty against totalitarianism.*
 

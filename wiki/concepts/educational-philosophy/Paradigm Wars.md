@@ -8,7 +8,7 @@ aliases:
 summary: "20世纪70至90年代社会科学与教育研究领域中量化实证范式与质性诠释范式之间的制度化方法论对立与论辩，后被混合方法研究的实用主义运动所超越与重构"
 type: concept
 domain: "educational-philosophy"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Scale of Measurement]]"
   - "[[Commensuration]]"
+  - "[[Discourse]]"
   - "[[Research Question]]"
   - "[[Objectivism]]"
   - "[[Subjectivism]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 # Paradigm Wars
@@ -141,7 +142,7 @@ updated: 2026-09-18
 > **方法之争的实质是不可调和的世界观冲突** 范式战争并非关于[[Questionnaire\|问卷]]好还是访谈好的技术分歧，而是两套关于世界究竟是客观硬质还是主观建构的根本信念之战；学者们退守于不可[[Commensuration\|通约]]的方法论阵营中，使得理性对话在长达二十年间陷入僵局。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 116]]
 
 > [!claim] Kuhn, T. S.
-> **缺乏中立公尺引发阵营排他性对抗** 当科学共同体发生范式分裂时，由于缺乏共同认可的中立评判尺度，范式之间的论争不可避免地演化为争夺学术话语权与合法性认可的范式政治。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 116]]
+> **缺乏中立公尺引发阵营排他性对抗** 当科学共同体发生范式分裂时，由于缺乏共同认可的中立评判尺度，范式之间的论争不可避免地演化为争夺学术[[Discourse|话语]]权与合法性认可的范式政治。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 116]]
 
 ---
 

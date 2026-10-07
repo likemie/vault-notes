@@ -6,7 +6,7 @@ summary: "一种以批判理论为根基的研究方法论，通过揭露父权�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 24
+method_related_count: 26
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Knowledge Production]]"
   - "[[Unit of Analysis]]"
+  - "[[Discourse]]"
   - "[[Epistemology]]"
   - "[[Value Neutrality]]"
   - "[[Consequential Validity]]"
@@ -35,6 +36,7 @@ related_methods:
   - "[[Ideology Critique]]"
   - "[[Triangulation]]"
   - "[[Meta-analysis]]"
+  - "[[Conversation Analysis]]"
   - "[[Quantitative Research]]"
   - "[[In-depth Interview]]"
   - "[[Critical Policy Analysis]]"
@@ -47,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-16
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # Feminist Research
@@ -60,7 +62,7 @@ updated: 2026-09-24
 > [!method-scope] 方法范围
 > - **研究对象** 女性的生活经验、性别压迫机制、父权制[[Knowledge Production\|知识生产]]、教育中的性别不平等。
 > - **问题类型** 回答"谁的""为谁""在谁的利益中"等权力问题，揭示被沉默的声音和被压制的经验。
-> - **[[Unit of Analysis\|分析单位]]** 性别作为经验类别、制度过程、话语实践。
+> - **[[Unit of Analysis\|分析单位]]** 性别作为经验类别、制度过程、[[Discourse|话语]]实践。
 > - **输出形式** 赋权行动、女性声音呈现、性别权力分析、变革实践。
 
 > [!citation-card]- 关键定义
@@ -82,7 +84,7 @@ updated: 2026-09-24
 > - **研究设计** 女性主义[[Action Research\|行动研究]]、[[Participatory Research\|参与式研究]]、[[Ethnography\|民族志]]。
 > - **数据收集** 引导式对话（而非标准化访谈）、个人证词、口头叙事、长访谈、自传性材料。
 > - **分析方法**[[Ideology Critique\|意识形态批判]]、解构、意识提升、文本分析。
-> - **辅助技术**[[Triangulation\|三角互证]]、多方法、视觉技术（录像、照片、电影）、[[Meta-analysis\|元分析]]、会话分析。
+> - **辅助技术**[[Triangulation\|三角互证]]、多方法、视觉技术（录像、照片、电影）、[[Meta-analysis\|元分析]]、[[Conversation Analysis|会话分析]]。
 
 ---
 
@@ -109,7 +111,7 @@ updated: 2026-09-24
 > - 象牙塔中的旁观者知识理论被参与式方法取代——可能通过[[Action Research\|行动研究]]——所有参与者（包括研究者）参与争取女性解放的斗争。
 > - 改变现状的需要是社会研究的起点——"如果我们想了解梨子，就必须咀嚼它"（Mies, 1993，引用中国谚语）。
 > - 广泛使用[[Triangulation\|三角互证]]和多种方法（包括视觉技术）。
-> - 使用语言技术如会话分析。
+> - 使用语言技术如[[Conversation Analysis|会话分析]]。
 > - 使用文本分析如解构关于女性的文件和文本。
 > - 使用[[Meta-analysis\|元分析]]综合个别研究的发现。
 > - 离开数字化调查并对其进行批判性评估，包括对问题措辞的批判。

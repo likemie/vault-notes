@@ -9,7 +9,7 @@ aliases:
 summary: "由罗伯特·斯莱文等学者针对教育干预短期效应衰减提出的政策与教学假说，主张克服脉冲式单一干预的局限性，在学前至高中全学段连年推行经过实证检验的高质量教学模式，通过连贯干预剂量的逐年叠加实现学生学业优势的终身稳固累积。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Scientific Explanation]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Teaching Assistant]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Dependent Variable]]"
   - "[[Academic Achievement]]"
   - "[[Response to Proven Instruction]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Cumulative Dosage Principle
@@ -133,7 +134,7 @@ updated: 2026-09-22
 > > 学界对全学段连年推行高强度循证干预的财政成本与长期收益率存在激烈争论。
 > >
 > > - **怀疑观点** 部分教育经济学者指出，随着学生年龄增长，高年级学科内容复杂性与认知分化加剧，标准化干预方案的边际[[Effect Size\|效应量]]可能显著递减，且连年采购成套方案将给公立学区带来不可承受的财政压力。
-> > - **斯莱文与支持阵营（2019）** 斯莱文辩护指出，通过引入低成本教学[[Teaching Assistant\|助教]]（TA）与人机协同方案（如 [[Lightning Squad]]），连年干预的边际成本可大幅摊薄；相比后续学生退学、犯罪及特殊教育转介的巨额社会成本，早期至中期的连续预防具有极其巨大的长期净现值。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> > - **斯莱文与支持阵营（2019）** 斯莱文辩护指出，通过引入低成本教学[[Teaching Assistant\|助教]]（TA）与[[Man-Computer Symbiosis|人机协同]]方案（如 [[Lightning Squad]]），连年干预的边际成本可大幅摊薄；相比后续学生退学、犯罪及特殊教育转介的巨额社会成本，早期至中期的连续预防具有极其巨大的长期净现值。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 ---
 

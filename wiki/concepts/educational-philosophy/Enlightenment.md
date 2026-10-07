@@ -10,7 +10,7 @@ aliases:
 summary: "18世纪欧洲以理性批判、经验科学、世俗化与普遍人权为核心的现代性奠基运动，主张摆脱未成熟状态，将公共教育确立为培育自主公民、重构公共领域、推进立宪法权与实现永久和平的本体机制；当代延伸至通过科学实践中的证据协商与理性说服培育民主公共审议素养。"
 type: concept
 domain: "educational-philosophy"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Scientific Literacy]]"
   - "[[Practical Epistemology]]"
+  - "[[Discourse]]"
   - "[[State Educational Sovereignty]]"
 related_persons:
   - "[[Marc-Antoine Jullien]]"
@@ -78,7 +79,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Enlightenment
@@ -243,7 +244,7 @@ updated: 2026-10-01
 > >
 > > [!axis] 普世人权标准 vs 西方中心主义与殖民知识霸权
 > > - **自由主义世界主义学派** 主张启蒙所倡导的人人平等、科学理性与基本人权具备跨越地域文化的普遍规范价值。
-> > - **后殖民与去殖民理论学者** 批判启蒙运动以“理性 vs 野蛮”的二元对立话语将欧洲文明自封为历史终极尺度，在历史上成为西方殖民征服、[[Hegemony|文化霸权]]输出与压制非西方本土[[Epistemology|认识论]]的道义掩护。
+> > - **后殖民与去殖民理论学者** 批判启蒙运动以“理性 vs 野蛮”的二元对立[[Discourse|话语]]将欧洲文明自封为历史终极尺度，在历史上成为西方殖民征服、[[Hegemony|文化霸权]]输出与压制非西方本土[[Epistemology|认识论]]的道义掩护。
 
 > [!warning] 适用边界
 > 启蒙现代性[[Paradigm|范式]]是一种宏观文明转型理论与规范价值传统；在分析具体的微观教育实践与不同文化传统时，必须警惕以均质化、去历史化的“理性进步主义”暴力抹杀本土经验的多样性与地方性知识的自足价值。

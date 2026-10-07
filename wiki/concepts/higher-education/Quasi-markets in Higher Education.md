@@ -7,10 +7,10 @@ aliases:
 summary: "政府通过标准化产出指标和竞争性评选来分配高等教育拨款的准市场机制，表面奖励卓越，实际作为制度化马太效应使资源向已有优势的机构进一步集中"
 type: concept
 domain: "higher-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - quasi-markets
   - higher-education
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Matthew Effect in Academia]]"
   - "[[New Public Management]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Academic Capitalism]]"
 related_methods: []
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Quasi-markets in Higher Education
@@ -96,7 +97,7 @@ updated: 2026-10-02
 ## 市场话语的意识形态功能
 
 > [!warning]
-> 准市场的一个核心悖论是："市场"话语与功绩神话携手并进。竞争性支出表面上奖励卓越，但其实际功能之一是**证成公共资源的不平等分配**。当一个未获得拨款的院系被告知"你的 [[Research Excellence Framework\|REF]] 表现不够好"，而非"你所在的院校不在决策委员会的人脉网络中"，不平等的分配结果获得了客观、公正和"基于质量"的外观([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.801–802]])。
+> 准市场的一个核心悖论是："市场"[[Discourse|话语]]与功绩神话携手并进。竞争性支出表面上奖励卓越，但其实际功能之一是**证成公共资源的不平等分配**。当一个未获得拨款的院系被告知"你的 [[Research Excellence Framework\|REF]] 表现不够好"，而非"你所在的院校不在决策委员会的人脉网络中"，不平等的分配结果获得了客观、公正和"基于质量"的外观([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.801–802]])。
 >
 > 当美国公共资助者在 1960–70 年代转向同行评审作为拨款工具时，这一转变的设计目标之一就是确保"科学家对纳税人的问责"（Biagioli, 2002, p.123）。评估工具由此同时完成了三重操作：**分配资源**（谁拿到钱）、**制造合法性**（为什么这样分配是公正的）、以及**归咎责任**（拿不到钱是因为你不够卓越）。
 

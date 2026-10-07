@@ -8,7 +8,7 @@ aliases:
 summary: "波特提出的经典战略经济学理论，认为国家竞争优势并非由先天生产要素禀赋决定，而是通过高度本地化的产业集群、有效国内竞争、高标准需求与创新生态所共同创造与维持；在当代地缘经济学与现代产业政策中，该理论被进一步拓展为国家通过战略性干预主动重塑关键供应链韧性与科技主权的核心地缘想象与政策基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[STEM Education]]"
   - "[[Modern Industrial Policy]]"
+  - "[[Discourse]]"
   - "[[Economic Patriotism]]"
   - "[[Innovation Park]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -136,7 +137,7 @@ updated: 2026-10-07
 ### 命题二　国家竞争优势话语作为地缘政治想象深刻驱动了空间极化与经济爱国主义
 
 > [!concept-lens] [[Critical Geopolitics|批判地缘政治学]]与空间治理维度
-> 剖析竞争力话语如何被国家权力工具化，用于重构领土政策与调动国家认同。
+> 剖析竞争力[[Discourse|话语]]如何被国家权力工具化，用于重构领土政策与调动国家认同。
 
 > [!claim] [[Argument_Moisio_2022_Springer|Moisio (2022)]]
 > **地缘政治想象与空间极化机制** [[Sami Moisio|萨米·莫伊西奥]]（Sami Moisio）指出，波特的国家竞争优势理论在本质上扮演了具有“构成性与履行性角色”的地缘政治想象。政策制定者将国家竞争叙事与领土空间绑定，催生了[[Economic Patriotism|经济爱国主义]]（Economic Patriotism），并将巨额公共财政与科技资源优先注入特定的“国家冠军城市”、超级[[Innovation Park|创新园区]]与核心枢纽（[[Hub and Flow Imaginaries|Hub and Flow Imaginaries]]），从而引发了被选中的[[Innovation Hub|创新枢纽]]与边缘区域之间深刻的空间极化。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–31)]]
@@ -193,7 +194,7 @@ updated: 2026-10-07
 > > 克鲁格曼（Paul Krugman）等国际贸易学者批评将“国家”拟人化为企业进行竞争是危险的执念（Dangerous Obsession），认为贸易本质上是互利共赢的；波特及当代战略学者则反驳指出，高科技战略产业的技术外溢与集聚垄断决定了国家长期的[[Total Factor Productivity|全要素生产率]]与地缘安全边界。
 > >
 > > - **Krugman (1994)** 认为国家不是企业，过度渲染国家间[[Competitiveness|竞争力]]竞争容易滑向破坏性的贸易保护主义。
-> > - **[[Argument_Moisio_2022_Springer|Moisio (2022)]]; [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]** 指出在当代地缘对抗中，国家竞争力话语已被深刻内化为国家安全与制造自主的核心决策框架。
+> > - **[[Argument_Moisio_2022_Springer|Moisio (2022)]]; [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]** 指出在当代地缘对抗中，国家竞争力[[Discourse|话语]]已被深刻内化为国家安全与制造自主的核心决策框架。
 >
 > > [!axis] 区域资源集聚优化 vs 区域间空间极化
 > > 争论国家优先培育“超级冠军城市与技术枢纽”是否会加剧广大内陆与边缘区域的经济衰退与政治不满。
@@ -224,7 +225,7 @@ updated: 2026-10-07
 > | [[Learning by Doing]] | 概念 | 构成国家竞争优势微观制造生产率提升与良率爬坡的根本学习机制。 |
 > | [[Agglomeration Externalities]] | 概念 | 波特钻石模型中集群形成与竞争优势维持的核心微观经济学机制。 |
 > | [[Knowledge-Based Economization]] | 概念 | 国家竞争优势作为地缘政治想象所推动的核心空间与经济重塑过程。 |
-> | [[Economic Patriotism]] | 概念 | 国家竞争优势话语在微观政策与政治动员层面的情感与利益载体。 |
+> | [[Economic Patriotism]] | 概念 | 国家竞争优势[[Discourse\|话语]]在微观政策与政治动员层面的情感与利益载体。 |
 > | [[Hub and Flow Imaginaries]] | 概念 | 支撑国家竞争优势空间资源倾斜的核心空间治理图景。 |
 > | [[Spatial Sortings]] | 概念 | 国家竞争优势导向政策引发的核心与边缘区域空间极化后果。 |
 > | [[CHIPS and Science Act]] | 事实 | 美国重振半导体本土制造与科研战略纵深国家竞争优势的旗舰立法。 |

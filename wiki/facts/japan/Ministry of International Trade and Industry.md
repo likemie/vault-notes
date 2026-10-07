@@ -5,7 +5,7 @@ subtype: organization
 region: japan
 fact_region: "japan"
 fact_kind: "organization"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Market Failure]]"
   - "[[Patient Capital]]"
   - "[[Return on Investment]]"
+  - "[[Discourse]]"
   - "[[Technological Catch-up]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Directionality of Innovation]]"
@@ -55,7 +56,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-06
+updated: 2026-10-07
 title: Ministry of International Trade and Industry
 aliases:
   - MITI
@@ -102,7 +103,7 @@ aliases:
 
 > [!dimension] 理论意义与实践贡献
 > - **后发追赶使命政策（骆驼形态）的理论基石** [[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）指出，MITI 证明了第一代使命政策的核心逻辑——通过韦伯式精英官僚网络与国家意志，动员全社会资源承担长周期探索风险，奠定现代产业基础。（pp. 792–793）
-> - **倒逼西方重构微电子研发体制的外部制度催化剂** 赛勒斯·莫迪（Cyrus C. M. Mody）指出，MITI 主导的半导体联合研发模式不仅推动了日本国内的技术崛起，更被美国产业界与决策层视为产业联合体（Research Consortia）的先驱模板（Sematech 在 1991 年报告中明确指出日本在 1971 至 1980 年间共建立了 5 个半导体研发联合体）。MITI 四年内向 [[VLSI Project|VLSI]] 计划注资 2.33 亿美元的国家行动，被美国学者与产业领袖广泛援引为“地缘生存危机”，直接成为加州理工学院（[[Silicon Structures Project|SSP]]）、康奈尔大学（[[National Research and Resource Facility for Submicron Structures|NRRFSS]]）、斯坦福大学（CIS）建立大学微电子中心，以及美国设立[[Semiconductor Research Corporation|半导体研究公司]]（[[Semiconductor Research Corporation|SRC]]）、[[Microelectronics and Computer Technology Corporation|微电子与计算机技术公司]]（[[Microelectronics and Computer Technology Corporation|MCC]]）和[[Sematech|半导体制造技术战略联盟]]（[[Sematech]]）的核心动员话语。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 289, 292, 296)]]
+> - **倒逼西方重构微电子研发体制的外部制度催化剂** 赛勒斯·莫迪（Cyrus C. M. Mody）指出，MITI 主导的半导体联合研发模式不仅推动了日本国内的技术崛起，更被美国产业界与决策层视为产业联合体（Research Consortia）的先驱模板（Sematech 在 1991 年报告中明确指出日本在 1971 至 1980 年间共建立了 5 个半导体研发联合体）。MITI 四年内向 [[VLSI Project|VLSI]] 计划注资 2.33 亿美元的国家行动，被美国学者与产业领袖广泛援引为“地缘生存危机”，直接成为加州理工学院（[[Silicon Structures Project|SSP]]）、康奈尔大学（[[National Research and Resource Facility for Submicron Structures|NRRFSS]]）、斯坦福大学（CIS）建立大学微电子中心，以及美国设立[[Semiconductor Research Corporation|半导体研究公司]]（[[Semiconductor Research Corporation|SRC]]）、[[Microelectronics and Computer Technology Corporation|微电子与计算机技术公司]]（[[Microelectronics and Computer Technology Corporation|MCC]]）和[[Sematech|半导体制造技术战略联盟]]（[[Sematech]]）的核心动员[[Discourse|话语]]。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 289, 292, 296)]]
 > - **发展型国家的当代转型启示** 随着日本从[[Technological Catch-up|技术追赶]]走向全球技术前沿，MITI 展现了从追赶型外汇管制向开辟 21 世纪环境、清洁能源与前沿数字技术新使命的动态能力演进，为亚洲各国的政策转型提供了持续的经验样本。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 796)]]
 
 > [!stat-cards]- [[VLSI Project|VLSI]] 项目核心数据

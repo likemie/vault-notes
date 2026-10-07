@@ -6,7 +6,7 @@ aliases:
 summary: "围绕学校方向设定、人员发展、组织改进与信任建立展开的教育实践，在证据知情视域下依托榜样示范与制度化排程促成高质量研究使用与学校变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Output-Oriented Governance]]"
   - "[[Instructional Leadership]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
   - "[[Doxa]]"
@@ -65,7 +66,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # School Leadership
@@ -215,7 +216,7 @@ updated: 2026-09-24
 > > - **主流管理学研究** 倾向于将学校成败全部归功于个别卓越校长的魄力与决策。
 > > - **批判政策学者** 强调分布式领导与集体实践，批判英雄叙事对制度性不平等的掩盖。
 >
-> > [!axis] [[OECD\|经合组织]]（OECD）领导力话语的去政治化包装
+> > [!axis] [[OECD\|经合组织]]（OECD）领导力[[Discourse|话语]]的去政治化包装
 > > OECD 报告将表面中立的最佳实践模型呈现为去政治化的技术操作，忽视了教育改革本质上深嵌于福利再分配与意识形态博弈之中。[[Argument_Møller_2017_EERJ\|(Møller, 2017, p. 377)]]
 >
 > > [!axis] 市场竞争驱动与教育正义追求的深层冲突

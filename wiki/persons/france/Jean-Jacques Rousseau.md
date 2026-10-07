@@ -7,7 +7,7 @@ summary: "法国启蒙思想家与教育哲学家，以《爱弥儿》《社会�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[Critical Thinking Disposition]]"
   - "[[Western Learner]]"
+  - "[[Discourse]]"
   - "[[Ideal Learner]]"
   - "[[Progressive Education]]"
 related_theories: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-09-11
+updated: 2026-10-07
 ---
 # Jean-Jacques Rousseau
 
@@ -73,7 +74,7 @@ updated: 2026-09-11
 ## 主要著作
 
 > [!abstract]
-> - Rousseau, J. J. (1750). *Discourse on the Sciences and Arts*（《论科学与艺术》）. — 成名作，首次提出文明使人道德堕落的论题（待核）
+> - Rousseau, J. J. (1750). *[[Discourse]] on the Sciences and Arts*（《论科学与艺术》）. — 成名作，首次提出文明使人道德堕落的论题（待核）
 > - Rousseau, J. J. (1755). *Discourse on the Origin and Basis of Inequality Among Men*（《论人类不平等的起源与基础》）. — 提出自然状态（state of nature）概念，区分自然的不平等与社会的不平等（待核）
 > - Rousseau, J. J. (1761). *Julie, or the New Heloise*（《新爱洛漪丝》）. — 书信体小说，探讨爱情、美德与自然情感，18 世纪最畅销作品之一（待核）
 > - Rousseau, J. J. (1762). *The Social Contract*（《社会契约论》）. — 以"人是生而自由的，却无往不在枷锁之中"开篇，提出"公意"（general will）理论，深刻影响了法国大革命和现代民主思想（待核）

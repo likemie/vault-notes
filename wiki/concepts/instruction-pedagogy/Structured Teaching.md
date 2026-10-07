@@ -7,7 +7,7 @@ aliases:
 summary: "在教学组织与认知支架中强调清晰目标、系统规划、过程监控与师生/人机动态互动平衡的教学范式。既包含基础教育中教师领导与自主学习的有机协调，亦指智能技术整合中防范认知卸载并激活高阶心智的递归探究支架体系。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Homework]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Learner Autonomy]]"
   - "[[Performance Pay]]"
@@ -66,7 +67,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-09-21
+updated: 2026-10-07
 ---
 
 # Structured Teaching
@@ -100,7 +101,7 @@ updated: 2026-09-21
 > *“Common [[Randomised Controlled Trials\|RCT]] designs are not always suited to answering some kinds of questions of importance to schools and teachers... sometimes an RCT design is not acceptable to participants (e.g., Sutherland et al., 2017). [[Teacher Choices]] investigates the everyday classroom decisions that teachers make, rather than manualised interventions.”*
 
 > [!boundary]- 概念边界辨析
-> - **不等于讲坛式教学（Pulpit / Recitation Teaching）** 讲坛式教学以教师站在前方单向灌输和碎片化问答为主，学生处于被动听讲状态；结构化教学强调教师清晰组织为小组研讨、探究辩论和人机协同提供支架，倡导高质量的双向互动。
+> - **不等于讲坛式教学（Pulpit / Recitation Teaching）** 讲坛式教学以教师站在前方单向灌输和碎片化问答为主，学生处于被动听讲状态；结构化教学强调教师清晰组织为小组研讨、探究辩论和[[Man-Computer Symbiosis|人机协同]]提供支架，倡导高质量的双向互动。
 > - **不等于机械套用直接教学（Direct Instruction）** 直接教学特指包含标准步骤、示范与即时纠错的特定教学法；结构化教学是更宽泛的教学组织原则，可灵活嵌入[[Inquiry-Based Learning\|探究式学习]]、基于设计的学习（DBL）或翻转课堂中。
 > - **不等于缺乏支持的激进个别化（Unguided Individualisation）** 极端的[[Learner Autonomy\|自主学习]]让学生独自承担复杂的理解与进度规划，容易导致弱势学生“表面自由、实际掉队”；结构化教学强调自主必须伴随目标、支架与多源反馈。
 > - **不等于忽视教师职业伦理的手册化干预硬性嫁接** 在现场因果试验中，成套手册化结构性干预（Manualised Programmes）若与粗暴的外在金钱奖惩（如[[Performance Pay\|绩效工资]]）机械捆绑，极易破坏教师同行信任与内在专业利他认同，诱发伦理抵制乃至招募流产（Sutherland et al., 2017；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）。结构化教学指导（Instructional Coaching）的成效高度依赖于尊重新生教研生态的专业支持模式。
@@ -129,7 +130,7 @@ updated: 2026-09-21
 > - **多源反馈与理解监控（Multi-Source [[Feedback]] & Comprehension Monitoring）** 整合智能系统的形成性评语、教师专业点拨、同伴深度质询与自我认知校准，构建四维一体的反馈生态网络。
 > - **动态支架渐退与自我调节赋权（Dynamic Fading & [[Self-Regulated Learning\|SRL]] Empowerment）** 结构的强弱与介入深度随学生的先验知识储备、[[Metacognition\|元认知]]成熟度及技术素养动态调整，由强支架逐步过渡到学生独立自我调节学习。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, p. 595)]]
 
-> [!logic-map]- 结构化教学要素及其在人机协同中的调节机制
+> [!logic-map]- 结构化教学要素及其在[[Man-Computer Symbiosis|人机协同]]中的调节机制
 > ```mermaid
 > flowchart TD
 >     subgraph 结构化教学设计维度["结构化教学设计维度 (Instructional Dimensions)"]
@@ -193,7 +194,7 @@ updated: 2026-09-21
 > **动态平衡与支架渐退机制** 教学研究不支持“固定不变的教师控制”，最佳教学实践表现为动态调整：学生越缺乏自我调节能力、任务越复杂，教师越需要提供高度结构化的目标拆解与步骤指引；随着学生独立管理能力的增强，外部结构应逐步减退，转化为内在的[[Learner Autonomy\|自主学习]]。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 594–595)]]
 
 > [!claim] [[Argument_Li_2026_CEAI\|Li et al. (2026)]]
-> **显性素养赋权与[[Epistemological Vigilance\|认识论警觉]]建构** 在人机协同学习中，结构化教学必须包含显性的[[AI Literacy\|人工智能素养]]培训（AI Literacy）与反思规程，使学生在前瞻规划、过程监控与结果审定中维持“认识论警觉”，从而在技术支架逐渐隐入后台时依然具备独立的自适应专业特长（Adaptive Expertise）。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 10–12)]]
+> **显性素养赋权与[[Epistemological Vigilance\|认识论警觉]]建构** 在[[Man-Computer Symbiosis|人机协同]]学习中，结构化教学必须包含显性的[[AI Literacy\|人工智能素养]]培训（AI Literacy）与反思规程，使学生在前瞻规划、过程监控与结果审定中维持“认识论警觉”，从而在技术支架逐渐隐入后台时依然具备独立的自适应专业特长（Adaptive Expertise）。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 10–12)]]
 
 ---
 
@@ -213,7 +214,7 @@ updated: 2026-09-21
 > [!dev-timeline] 概念演变脉络
 > - **2011 — 政策口号引入与教师领导重提** 瑞典 2011 年课程改革（Lgr 11）与教育条例正式引入“结构化教学（structured teaching）”，作为扭转国际测评（[[PISA]]）成绩下滑、重塑教师课堂组织与领导职责的政策要求。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 584–585)]]
 > - **2015 — 比较[[Meta-meta-analysis\|元综合]]与“结构—互动”教学论重构** Håkansson 基于 43 项国际与本土教学研究综述，将结构化教学从模糊的政策口号提炼为“教师结构与能动互动的动态平衡”，澄清了其与[[Direct Instruction\|直接教学]]及讲坛式灌输的本质区别。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a)]]
-> - **2026 — 智能[[Technology Infusion\|技术整合]]与高等教育[[Scaffolding\|认知支架]][[Paradigm\|范式]]演进** Li et al. 在生成式 AI 与[[Higher-Order Thinking Skills\|高阶思维]][[Systematic Review\|系统综述]]中深化了结构化教学的内涵，将其发展为涵盖提示词链追踪、递归探究任务循环、多源反馈生态的人机协同教学规制，确立了其防范算法心智侵蚀的关键防御价值。[[Argument_Li_2026_CEAI\|(Li et al., 2026)]]
+> - **2026 — 智能[[Technology Infusion\|技术整合]]与高等教育[[Scaffolding\|认知支架]][[Paradigm\|范式]]演进** Li et al. 在生成式 AI 与[[Higher-Order Thinking Skills\|高阶思维]][[Systematic Review\|系统综述]]中深化了结构化教学的内涵，将其发展为涵盖提示词链追踪、递归探究任务循环、多源反馈生态的[[Man-Computer Symbiosis|人机协同]]教学规制，确立了其防范算法心智侵蚀的关键防御价值。[[Argument_Li_2026_CEAI\|(Li et al., 2026)]]
 
 ---
 

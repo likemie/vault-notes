@@ -5,7 +5,7 @@ aliases:
 summary: "涵盖个体关于知识和认知过程的所有显性或隐性信念与认知实践活动的总括性术语。是理解学习过程、批判性思维与情境适应的核心变量。"
 type: concept
 domain: "educational-psychology"
-related_count: 76
+related_count: 77
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -15,6 +15,7 @@ related_concepts:
   - "[[Justificatory Standards]]"
   - "[[Document]]"
   - "[[Epistemological Beliefs]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemic Stances]]"
   - "[[Epistemic Agency]]"
@@ -96,7 +97,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 # Epistemic Cognition
 （[[Epistemology|认识论]]认知）
@@ -111,7 +112,7 @@ updated: 2026-09-24
 > [!concept-lens] 概念透镜
 > - **含义** 这个概念指向学生在面对复杂信息时，调用的知识[[Justificatory Standards\|确证标准]]与心智过程。相比于早期[[Document\|文献]]中常用的“[[Epistemological Beliefs\|认识论信念]]（Epistemological Beliefs）”，它是一个更为宽泛且具包容性的伞形术语，强调认知的动态性、情境性和社会互动性。
 > - **用途** 它帮助研究者看见为什么学生在面临学术任务时会采取不同的探究深度，以及为何他们对同一论据会有完全不同的采信标准。
-> - **人机共生视界** 在[[Generative Artificial Intelligence\|生成式人工智能]]介入的复杂技术环境中，[[Epistemology\|认识论]]认知拓展为学习者在人机交互中校准算法信任、调适[[Epistemic Stances\|认识立场]]与维持[[Epistemic Agency\|认识主体性]]的高级调控机制。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360)]]
+> - **[[Man-Computer Symbiosis|人机共生]]视界** 在[[Generative Artificial Intelligence\|生成式人工智能]]介入的复杂技术环境中，[[Epistemology\|认识论]]认知拓展为学习者在人机交互中校准算法信任、调适[[Epistemic Stances\|认识立场]]与维持[[Epistemic Agency\|认识主体性]]的高级调控机制。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360)]]
 > - **边界** 它不适合解释缺乏“追求真实（truth）”动机的纯智力游戏或单纯的话术辩论。
 
 > [!citation-card] 人机共生环境中的认识论认知拓展
@@ -133,7 +134,7 @@ updated: 2026-09-24
 > - **多维模型（Multidimensional Models）** 以 Schommer (1990) 为开创者。该流派彻底打破了单向线性发展的[[Hypothesis\|假设]]，认为认识论是由若干相对独立、不必同步发展的信念维度组成的系统。[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 进一步将其经典化，划分为知识的性质（Nature of knowledge，如简单性、确定性）与认识的性质（Nature of knowing，如[[Source of Knowledge\|知识的来源]]、知识的证成）两大核心[[Construct\|构念]]簇。
 > - **哲学驱动模型（Philosophically Driven Models）** 旨在解决早期心理学模型缺乏分析认识论哲学根基的根本缺陷。以 [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] 及 Chinn, Rinehart & Buckland (2014) 提出的 [[AIR Model of Epistemic Cognition\|AIR]] 框架为代表，该流派将认识论认知拆解为微观网络：包含探究目标的[[Epistemic Aims\|认识论目标]]（Epistemic aims）、评估证据与模型的[[Epistemic Ideals\|认识论理想]]（Epistemic ideals）以及实现这些目标的[[Reliable Epistemic Processes\|可靠认识论过程]]（Reliable processes）。[[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] 进一步将其拓展至科学论证与实践评估，指出认识论认知并非脱域的逻辑运算，而是与学科实体知识、元[[Epistemological Understanding\|认识论理解]]及共同体[[Epistemic Agency\|认识主体性]]深度纠缠。
 > - **学科/领域驱动模型（Discipline-Driven Models）** 受[[Situative Perspective\|情境认知]]（Situated cognition）理论深度启发，强调认识论并不是跨领域的稳定特质，而是高度依赖特定任务情境的。例如，Elby & Hammer (2001) 提出的[[Epistemic Resources\|认识论资源]]模型明确指出，学生在分析历史史料与解决物理方程时，会瞬间动态激活完全不同的认识论预设；而 Muis et al. (2006) 则进一步系统化了这种[[Domain Specificity\|领域特异性]]的理论框架。
-> - **人机共生适应性模型（Symbiotic & AI-Mediated Models）** 以 [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出的共生[[Epistemic Stances\|适应性认识立场]]框架为代表。面对[[Generative Artificial Intelligence\|生成式人工智能]]环境中的海量生成与不确定性，该流派揭示认识论认知表现为学习者在人机交互中的[[Epistemic Stances\|适应性认识立场]]调适，阐明认识立场如何决定[[Cognitive Offloading\|认知卸载]]的性质分化，并论证通过技术提示词支架与教学法支架的双轨干预促进认识立场向评价主义演进。
+> - **[[Man-Computer Symbiosis|人机共生]]适应性模型（Symbiotic & AI-Mediated Models）** 以 [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出的共生[[Epistemic Stances\|适应性认识立场]]框架为代表。面对[[Generative Artificial Intelligence\|生成式人工智能]]环境中的海量生成与不确定性，该流派揭示认识论认知表现为学习者在人机交互中的[[Epistemic Stances\|适应性认识立场]]调适，阐明认识立场如何决定[[Cognitive Offloading\|认知卸载]]的性质分化，并论证通过技术提示词支架与教学法支架的双轨干预促进认识立场向评价主义演进。
 
 > [!feature] 认识论认知的微观构成
 > 根据 [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] 的整合框架，真正的认识论认知必须包含五个排他性微观组件：
@@ -205,7 +206,7 @@ updated: 2026-09-24
 
 ### 命题四　人工智能中介环境中认识论认知表现为适应性认识立场的动态调适与双轨支架干预响应
 
-> [!concept-lens] 人机共生认识论与干预机制
+> [!concept-lens] [[Man-Computer Symbiosis|人机共生]]认识论与干预机制
 > 探讨[[Generative Artificial Intelligence\|生成式人工智能]]嵌入学习情境后，认识论认知如何从个体内隐的静态信念系统拓展为在人机交互回路中动态调适[[Epistemic Stances\|认识立场]]与应对[[Cognitive Offloading\|认知卸载]]的高阶调控机制。
 
 > [!claim] Wu et al.
@@ -236,7 +237,7 @@ updated: 2026-09-24
 > - **2011–2018 — 教育研究应用：哲学驱动与整合框架** [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] 与 [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] 提出了基于规范哲学与多层系统的整合框架；[[Argument_Greene_2018_JEP\|Greene et al. (2018)]] 的[[Meta-analysis\|元分析]]确立了该领域的实证基准。
 > - **2021 — 因果干预证据：教学框架与干预时长的元分析检验** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 针对 26 项实验与准[[Experimental Research\|实验研究]]开展首个干预元分析，证实认识论认知教学干预对[[Academic Achievement\|学业成就]]有中等因果促进效应（$d = 0.509$）；揭示[[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]优于非指导式设计，并发现短周期高强度干预显著优于学期长周期干预。
 > - **2025 — 实践与论证转向：认识论实质与主体性** [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] 将 [[AIR Model of Epistemic Cognition\|AIR]] 框架[[Operationalization\|操作化]]为科学论证评价的中位规范模板，推动认识论认知从静态信念测量全面走向探究实践中的学科认识论实质与共同体[[Epistemic Agency\|认识主体性]]建构。
-> - **2025 — 人机共生认识论转向：自适应[[Epistemic Stances\|认识立场]]与双轨干预框架** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 将认识论认知拓展至[[Generative Artificial Intelligence\|生成式人工智能]]时代，提出人机共生自适应认识立场理论，系统揭示认识立场对[[Cognitive Offloading\|认知卸载]]性质的分化机制，并建立技术提示词与教学法双轨干预矩阵。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–368)]]
+> - **2025 — [[Man-Computer Symbiosis|人机共生]]认识论转向：自适应[[Epistemic Stances\|认识立场]]与双轨干预框架** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 将认识论认知拓展至[[Generative Artificial Intelligence\|生成式人工智能]]时代，提出人机共生自适应认识立场理论，系统揭示认识立场对[[Cognitive Offloading\|认知卸载]]性质的分化机制，并建立技术提示词与教学法双轨干预矩阵。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–368)]]
 
 ---
 
@@ -252,7 +253,7 @@ updated: 2026-09-24
 
 > [!tension] 核心张力：静态心智表征 vs 动态人机交互[[Epistemic Stances\|认识立场]]调适
 > - **静态表征论（蓝方）** 倾向于将认识论认知视为个体在特定发展阶段或学科领域中相对恒定的信念特质，主要通过问卷或访谈在任务前后静态捕获。
-> - **人机共生动态调适论（红方）** [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 358–368)]] 认为在智能技术实时介入的情境中，个体的认识论认知是随提示词支架、模型反馈不确定性与同行评议动态流转的认识立场（绝对/相对/评价主义），强调在交互过程中实时捕捉与支架引导。
+> - **[[Man-Computer Symbiosis|人机共生]]动态调适论（红方）** [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 358–368)]] 认为在智能技术实时介入的情境中，个体的认识论认知是随提示词支架、模型反馈不确定性与同行评议动态流转的认识立场（绝对/相对/评价主义），强调在交互过程中实时捕捉与支架引导。
 
 > [!critique] 外部批评
 > - **脱域困境** 建构派广泛使用的标准化自陈量表将缄默的知识强行脱离语境显性化，犯了认识论错误；且部分通用问卷仅靠庞杂题海推高[[Reliability\|信度]]，掩盖了[[Construct Validity\|构念效度]]。[[Argument_Greene_2018_JEP\|(Greene et al., 2018)]]
@@ -306,5 +307,5 @@ updated: 2026-09-24
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 针对 26 项实验与准实验[[Intervention Research\|干预研究]]开展首个元分析，证实认识论认知教学干预对学业成就具有中等因果促进效应（$d = 0.509$），并确立[[Inquiry-Based Learning\|指导式探究]]、[[Source Evaluation\|信源评估]]及短周期聚焦干预的相对优势。
 > - [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] — 采用[[Three-Level Meta-Analysis\|三层元分析]]模型综合韩国中小学生 512 个[[Effect Size\|效应量]]，证实认识论认知与学习成果呈小到中等正相关（r = 0.191），并揭示学段与[[Construct\|构念]]维度的关键[[Interaction Effect\|调节效应]]。
 > - [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] — 将 [[AIR Model of Epistemic Cognition\|AIR]] 认识论认知模型[[Operationalization\|操作化]]为科学论证评价体系，构建观察与证据整合的规范模板，实证揭示[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠过程]]对论证实质的决定机制。
-> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出人机共生自适应[[Epistemic Stances\|认识立场]]框架，揭示认识论认知在人机交互中的动态调节效应，论证[[Evaluativist\|评价主义认识立场]]对克服消极[[Cognitive Offloading\|认知卸载]]的关键价值，并提出技术与教学法双轨支架干预机制。
+> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]框架，揭示认识论认知在人机交互中的动态调节效应，论证[[Evaluativist\|评价主义认识立场]]对克服消极[[Cognitive Offloading\|认知卸载]]的关键价值，并提出技术与教学法双轨支架干预机制。
 

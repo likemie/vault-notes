@@ -7,13 +7,13 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic"
 argument_display_title: "The Technological Republic: Hard Power, Soft Belief, and the Future of the West"
 argument_kind: "book"
-argument_related_count: 1
+argument_related_count: 10
 argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_stars: ""
 argument_related_color: "#ede9fe"
 authors:
-  - "Karp, A. C."
-  - "Zamiska, N. W."
+  - "[[Alexander Karp|Karp, A. C.]]"
+  - "[[Nicholas Zamiska|Zamiska, N. W.]]"
 source_language: en
 book_title: "The Technological Republic: Hard Power, Soft Belief, and the Future of the West"
 publication_place: New York
@@ -32,7 +32,18 @@ tags:
 sources:
   - "[[books/Karp_Zamiska_2025_Technological_Republic/Karp_Zamiska_2025_Technological_Republic|Karp_Zamiska_2025_Technological_Republic]]"
 related_concepts:
+  - "[[Technological Republic]]"
+  - "[[Innovation Desert]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Document]]"
+related_persons:
+  - "[[Alexander Karp]]"
+  - "[[Nicholas Zamiska]]"
+  - "[[J. C. R. Licklider]]"
+  - "[[Vannevar Bush]]"
+  - "[[Jürgen Habermas]]"
+related_arguments:
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
 status: draft
 created: '2026-10-07'
 updated: '2026-10-07'
@@ -42,8 +53,8 @@ updated: '2026-10-07'
 ## 全书定位
 
 > [!monograph-profile] 阅读档案
-> - **书名** 《技术共和国》（The Technological Republic: Hard Power, Soft Belief, and the Future of the West，中文名为暂译）。
-> - **作者** 亚历山大·C. 卡普（Alexander C. Karp）与尼古拉斯·W. 扎米斯卡（Nicholas W. Zamiska）。
+> - **书名** 《[[Technological Republic|技术共和国]]》（The Technological Republic: Hard Power, Soft Belief, and the Future of the West，中文名为暂译）。
+> - **作者** 亚历山大·C. 卡普（[[Alexander Karp|Alexander C. Karp]]）与尼古拉斯·W. 扎米斯卡（[[Nicholas Zamiska|Nicholas W. Zamiska]]）。
 > - **处理粒度** `chapter-arguments`。本页作为全书入口，后续按章建立独立论证页。
 > - **材料边界** 当前完成目录核对与文本拆分，尚未进行章节论证解读。
 
@@ -52,9 +63,9 @@ updated: '2026-10-07'
 按原书顺序分为四部、十八章。以下十八个 TXT 各自包含英文正文、对应尾注与图表来源；各章论证页将在解读时建立。
 
 > [!textbook-overview] 章节导航与阅读进度
-> | 章节 | 原文与处理状态 | 主要关联条目 |
+> | 章节 | 内容概要 | 主要关联条目 |
 > |---|---|---|
-> | 第1章 Lost Valley | Part I: The Software Century；原书 pp. 3–15。[Ch01_Lost_Valley.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch01_Lost_Valley.txt)。待解读。 | — |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01\|第1章 Lost Valley]] | Part I: The Software Century；原书 pp. 3–15。追溯硅谷诞生与国家战略、国防军工的深厚渊源，批判当代硅谷向消费主义的退缩，提出重构[[Technological Republic\|技术共和国]]与工程文化重塑治理。 | [[Technological Republic\|技术共和国]]、[[Innovation Desert\|创新荒漠]]、[[Man-Computer Symbiosis\|人机共生]]、[[Alexander Karp\|亚历山大·卡普]]、[[Nicholas Zamiska\|尼古拉斯·扎米斯卡]]、[[J. C. R. Licklider\|利克莱德]]、[[Vannevar Bush\|布什]]、[[Jürgen Habermas\|哈贝马斯]] |
 > | 第2章 Sparks of Intelligence | Part I: The Software Century；原书 pp. 16–28。[Ch02_Sparks_of_Intelligence.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch02_Sparks_of_Intelligence.txt)。待解读。 | — |
 > | 第3章 The Winner’s Fallacy | Part I: The Software Century；原书 pp. 29–36。[Ch03_The_Winner_s_Fallacy.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch03_The_Winner_s_Fallacy.txt)。待解读。 | — |
 > | 第4章 End of the Atomic Age | Part I: The Software Century；原书 pp. 37–54。[Ch04_End_of_the_Atomic_Age.txt](../../../../raw/Karp_Zamiska_2025_Technological_Republic_txt/Ch04_End_of_the_Atomic_Age.txt)。待解读。 | — |

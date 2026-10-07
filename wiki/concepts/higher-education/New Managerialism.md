@@ -10,7 +10,7 @@ aliases:
 summary: "指将私营企业的市场逻辑、绩效问责、契约管理与成本中心核算移植到公共教育特别是高等教育机构中的治理范式，强调通过目标量化、审计文化与行政集权重构学术组织。"
 type: concept
 domain: "higher-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Performance Indicators]]"
+  - "[[Discourse]]"
   - "[[Academic Freedom]]"
   - "[[Creativity]]"
   - "[[School Autonomy]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # New Managerialism
@@ -87,7 +88,7 @@ updated: 2026-09-29
 ## 核心要素
 
 > [!feature] 核心要素
-> - **市场话语与企业化重组** 将企业管理话语（如客户满意度、成本中心、品牌战略、产出效率）全面引入学术治理。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
+> - **市场[[Discourse|话语]]与企业化重组** 将企业管理话语（如客户满意度、成本中心、品牌战略、产出效率）全面引入学术治理。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
 > - **审计文化与绩效量化指标** 建立严密的绩效目标监控体系，将学术研究、教学质量与社会服务折算为可测量、可评级与可排名的数字指标。
 > - **管理层集权与专业权力剥夺** 削弱教授治校与院系自主权，行政权力向最高执行管理层集中，推行自上而下的目标传导。
 > - **财务分权与自负盈亏压力** 将各院系与研究中心设定为独立的成本中心，要求学术单元自行开拓创收渠道并承担财务风险。

@@ -9,7 +9,7 @@ title: "Argument_Cowen_2023_CE"
 argument_key: "Argument_Cowen_2023_CE"
 argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326-340"
 argument_kind: "journal-article"
-argument_related_count: 66
+argument_related_count: 67
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Conversational AI in Education]]"
   - "[[Policy Science in Comparative Education]]"
+  - "[[Discourse]]"
   - "[[Research Question]]"
   - "[[Democratic Education]]"
   - "[[Revolutionism]]"
@@ -264,7 +265,7 @@ citation_aliases:
 >   关注可测量的教育产出。经历了从 Lauwerys（1965）最初以理解（Verstehen）不同国家“[[Educated Identity\|受教育身份]]”理想模型的学术尝试，向通过 IEA and PISA 进行效率测量的转变。其政治预设已从学术性的文化理解，彻底转向配合在世界范围内确立新自由主义经济定义的政治斗争。国际测试沦为追求“解决方案”的比较工具，将复杂的教育和文化语境抽空，仅剩下测量技术细节，作为效率运动的附属品与社会温度计，在实践中极大地强化并维护了单一、特定世界秩序的政治合理性。(pp.333–334)
 
 > [!warrant]- 推理桥梁
-> 比较教育的四大范式不仅在[[Ontology\|本体论]]与认识论上冲突，更是相互竞争的政治行动话语。尤其是当代结果导向测量将学术理解完全抽空，堕为社会效率运动的温度计，这迫使研究者必须审视自己究竟在为哪种政治秩序作辩护。(pp.333–334)
+> 比较教育的四大范式不仅在[[Ontology\|本体论]]与认识论上冲突，更是相互竞争的政治行动[[Discourse|话语]]。尤其是当代结果导向测量将学术理解完全抽空，堕为社会效率运动的温度计，这迫使研究者必须审视自己究竟在为哪种政治秩序作辩护。(pp.333–334)
 
 ---
 
@@ -330,7 +331,7 @@ citation_aliases:
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **学术焦虑与陈词滥调危机**。诊断比较教育学术合法化长期寄生于 Sadler、Jullien、Mill 等历史陈词滥调上，面临严重的[[Epistemology\|认识论]]碎片化与科学话语混乱危机。(p.327, p.328)
+> 1. **学术焦虑与陈词滥调危机**。诊断比较教育学术合法化长期寄生于 Sadler、Jullien、Mill 等历史陈词滥调上，面临严重的[[Epistemology\|认识论]]碎片化与科学[[Discourse|话语]]混乱危机。(p.327, p.328)
 > 2. **四种理解形式及其政治共谋**。归纳了学科中并存的四种理解形式：求同存异（历史文化中性偏见掩盖国家概念的缺失，忽视极端政治）、[[Convergence Theory in Comparative Education\|趋同理论]]（借由温和动词和模糊主体掩盖权力关系，制造天然良性同构幻觉）、[[Policy Science in Comparative Education\|政策科学]]（与自由民主国家的民主权力结盟，退化为丧失批判距离的决策咨询工具）与结果导向（配合确立新自由主义经济定义，以效率度量压倒文化脉络，强化特定世界秩序的政治合理性），揭示了它们在认识论与政治结盟上的双重矛盾。(pp.332–334)
 > 3. **绩效管理对学术原创性的腐蚀**。揭示学术界微观管理政治中以即时影响与一流大学为名的控制话语，已演变为限制理论建构与[[Academic Freedom\|学术自由]]的腐蚀性[[Deductive Rationality\|演绎理性]]。(p.332)
 > 4. **重构学科议程的两大伦理支点**。提出以转移与[[Educated Identity\|受教育身份]]作为学科重建的学术与道德基石，借以在AI资本主义时代应对[[Totally Pedagogised Society\|全盘教育化社会]]的挑战。(pp.335–336)

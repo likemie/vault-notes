@@ -11,7 +11,7 @@ aliases:
 summary: "知识建构理论与学习科学中的核心协作模式：学生打破固定分组与预设脚本，根据涌现的兴趣、认知需求与探究线索自发组队与流动重组，以通透边界促进全班知识共享与深度建构"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Authentic Science Practices]]"
   - "[[Metacognition]]"
   - "[[Creativity]]"
+  - "[[Discourse]]"
   - "[[Homework]]"
   - "[[Academic Achievement]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-09-23
+updated: 2026-10-07
 ---
 
 # Opportunistic Collaboration
@@ -132,7 +133,7 @@ updated: 2026-09-23
 > **通透边界与去孤岛化** 张建伟等通过 3 年[[Design-Based Research|设计实验]]实证表明，固定分组模式不可避免地导致小组间形成认知护城河；而弹性协作赋予学生自由组队的权能，促使学生在不同问题领域间高频穿梭，将分散的小组智慧交织成全班互通的知识网络。[[Argument_Zhang_2022_SE\|(Zhang et al., 2022, pp. 892–893)]]; (Zhang et al., 2007, 2009)
 
 > [!claim] Sawyer, R. K.
-> **即兴协作与分布式[[Creativity|创造力]]** 索耶指出，真正的群体创造力依赖于无脚本的即兴互动与自组织流动；弹性协作模拟了专业创新团队的自发演化机制，使集体智能得以在开放流动的话语空间中充分[[Emergence|涌现]]。(Sawyer, 2007, 2015)
+> **即兴协作与分布式[[Creativity|创造力]]** 索耶指出，真正的群体创造力依赖于无脚本的即兴互动与自组织流动；弹性协作模拟了专业创新团队的自发演化机制，使集体智能得以在开放流动的[[Discourse|话语]]空间中充分[[Emergence|涌现]]。(Sawyer, 2007, 2015)
 
 ---
 

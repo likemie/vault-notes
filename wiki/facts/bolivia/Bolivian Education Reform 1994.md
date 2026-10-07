@@ -9,7 +9,7 @@ subtype: policy
 region: bolivia
 fact_region: "bolivia"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
   - region/latin-america
   - level/k12
 related_concepts:
+  - "[[Discourse]]"
   - "[[Floating Signifier]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Educated Identity]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-08-20
+updated: 2026-10-07
 ---
 
 # Bolivian Education Reform 1994
@@ -76,7 +77,7 @@ updated: 2026-08-20
 
 > [!actor-grid] 实施进路与现实阻力
 > - **普遍性进路** 将原住民语言和文化定义为每一个儿童教育的核心组成部分，不论其具体的族裔背景为何。这彻底打破了传统的“边缘附加式”多元文化课程设计，将其嵌入国家核心课程的地基。
-> - **制度性阻力** 尽管官方话语实现了反殖民转向，但改革在各级教育机构的实际落地上面临严峻的结构性挑战，根深蒂固的种族主义、性别歧视和语言歧视持续存在于系统的各个层面，制约着政策逻辑的转化。(Luykx & Lopez, 2008, p. 45, 引自 [[Argument_Beech_2009_CE\|Beech, 2009, pp. 359–360]])
+> - **制度性阻力** 尽管官方[[Discourse|话语]]实现了反殖民转向，但改革在各级教育机构的实际落地上面临严峻的结构性挑战，根深蒂固的种族主义、性别歧视和语言歧视持续存在于系统的各个层面，制约着政策逻辑的转化。(Luykx & Lopez, 2008, p. 45, 引自 [[Argument_Beech_2009_CE\|Beech, 2009, pp. 359–360]])
 
 ---
 
@@ -84,13 +85,13 @@ updated: 2026-08-20
 
 > [!finding-cards] 效果与评价
 > - **反殖民教育的最全面尝试** 被学术界评价为迄今为止打破将摧毁原住民身份作为学校核心目标之一的殖民同化工程（文明化工程）的最全面努力。(Luykx & Lopez, 2008, p. 45, 引自 [[Argument_Beech_2009_CE\|Beech, 2009, pp. 359–360]])
-> - **多数群体的少数话语悖论** 同上研究指出，玻利维亚原住民占总人口的 50% 以上（在人口学上属于多数群体）。然而，这场改革却动用了国际上通常用于保护边缘“少数群体”文化认同的“尊重多样性”话语，使其转化为保护占人口一半的多数群体免受少数精英统治阶层压迫的独特地缘斗争。
+> - **多数群体的少数[[Discourse|话语]]悖论** 同上研究指出，玻利维亚原住民占总人口的 50% 以上（在人口学上属于多数群体）。然而，这场改革却动用了国际上通常用于保护边缘“少数群体”文化认同的“尊重多样性”话语，使其转化为保护占人口一半的多数群体免受少数精英统治阶层压迫的独特地缘斗争。
 
 ---
 
 ## 理论意义
 
-> [!finding-cards] 尊重多样性话语的地方化对照
+> [!finding-cards] 尊重多样性[[Discourse|话语]]的地方化对照
 > [[Argument_Beech_2009_CE\|Beech (2009, pp. 358–361)]]将玻利维亚教育改革作为全球[[Floating Signifier\|漂浮能指]]在实践层面地方化[[Transfer Translation Transformation\|转译]]的典型案例。同一个全球性口号（“尊重多样性”）在南美不同政治语境中，由于接收环境的社会和物质特征差异，产生了截然不同的地方化转化效果，表现为以下三种典型进路。
 > - **玻利维亚** 演变为普遍性的反殖民“多数群体”斗争话语，将原住民文化强制纳入针对每一个儿童的核心教育。
 > - **阿根廷国家层面** 将原住民定位为局部“少数群体”边缘问题，通过在常规教育体系之外设立少数针对性辅助项目来处理。

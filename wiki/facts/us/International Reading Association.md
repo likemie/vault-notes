@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Whole Language]]"
   - "[[Decodification]]"
+  - "[[Discourse]]"
   - "[[Progressive Education]]"
   - "[[Positivism]]"
   - "[[Technical Rationality]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # International Reading Association
@@ -116,7 +117,7 @@ updated: 2026-09-24
 
 > [!finding-cards] 关键成效与辐射影响
 > - **阻击极度狭隘法定定义的制度屏障** 在 1998 年众议院极右翼势力与拼读游说集团试图推行绝对拼读独大的危急时刻，IRA 通过高超的国会幕僚游说，为全美学校保留了阅读教学中不可或缺的背景知识与阅读动机要素，避免了联邦法案在起点上彻底退化为纯粹的发音训练法。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 5–7)]]
-> - **专业话语权在联邦政策中的确立** 确立了专业教育学术团体在联邦立法谈判桌上的常任交涉地位，打破了国会完全由商业游说组织包揽的技术垄断。
+> - **专业[[Discourse|话语]]权在联邦政策中的确立** 确立了专业教育学术团体在联邦立法谈判桌上的常任交涉地位，打破了国会完全由商业游说组织包揽的技术垄断。
 > - **对一线阅读教学实践的日常渗透** 其颁布的标准和期刊构成了全美数十万语文教师专业培训的日常养分，深刻塑造了美国公立学校对多元文学阅读的理解。
 
 ---

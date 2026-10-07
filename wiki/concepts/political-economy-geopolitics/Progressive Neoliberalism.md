@@ -5,7 +5,7 @@ aliases:
 summary: "Nancy Fraser 提出的概念，指新自由主义经济政策与进步社会议程之间形成的话语和政治联盟。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
 - silicon-valley-worldview
 - region/global
 related_concepts:
+  - "[[Discourse]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Operationalization]]"
@@ -30,19 +31,19 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: 2026-10-07
 ---
 
 ## 定义
 
 > [!info] 定义
-> 进步新自由主义（Progressive Neoliberalism）是 Nancy Fraser（2019）提出的概念，指一种将新自由主义经济政策（去监管化、私有化、自由市场）与进步社会议程（多样性、包容、赋权）在话语层面相结合的政治意识形态形态。[[Argument_Moisio_2022_Springer\|Moisio (2022)]]将其定位为过去三十年[[Knowledge-Based Economization\|知识经济化]]过程的主要政治推力——一种"硅谷世界观"（Silicon Valley worldview），强调无国界世界、技术经济无限增长和全球化精英网络([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.31–32]])。
+> 进步新自由主义（Progressive Neoliberalism）是 Nancy Fraser（2019）提出的概念，指一种将新自由主义经济政策（去监管化、私有化、自由市场）与进步社会议程（多样性、包容、赋权）在[[Discourse|话语]]层面相结合的政治意识形态形态。[[Argument_Moisio_2022_Springer\|Moisio (2022)]]将其定位为过去三十年[[Knowledge-Based Economization\|知识经济化]]过程的主要政治推力——一种"硅谷世界观"（Silicon Valley worldview），强调无国界世界、技术经济无限增长和全球化精英网络([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.31–32]])。
 >
 
 ## 概念辨析
 
 > [!example] 概念辨析
-> - vs 经典新自由主义（Classical Neoliberalism, Reagan/Thatcher）：经典新自由主义更公开地与社会保守主义结盟，缺乏进步社会议程的话语包装；进步新自由主义将新自由主义经济政策与多样性和包容性等进步话语结合，具有更强的文化合法化能力
+> - vs 经典新自由主义（Classical Neoliberalism, Reagan/Thatcher）：经典新自由主义更公开地与社会保守主义结盟，缺乏进步社会议程的[[Discourse|话语]]包装；进步新自由主义将新自由主义经济政策与多样性和包容性等进步话语结合，具有更强的文化合法化能力
 > - vs [[Knowledge-Based Economy]]：KBE 是经济形态本身；进步新自由主义是推动其发展的主导政治意识形态——"在过去几十年中，[[Knowledge-Based Economization\|知识经济化]]与被称为进步新自由主义的高度乐观的资本主义意识形态版本紧密相连"([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.31–32]])
 >
 
@@ -52,13 +53,13 @@ updated: '2026-05-18'
 > - **硅谷世界观** 以硅谷为代表的科技乌托邦主义——相信技术创新可以解决所有社会问题，超越民族国家边界([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.31–32]])
 > - **无国界世界想象** 全球化被视为通向"无国界世界"的进步过程，可以在全球范围内实现合作、理性和良好治理([[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.24, 30]])
 > - **无限增长的承诺**[[Knowledge-Based Economy\|KBE]] 被呈现为具有"无限增长的诱人承诺"——作为对 1980 年代已显现的各种物质和环境增长极限的"解毒剂"([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.24]])
-> - **双面性** 进步新自由主义同时运作两个议程——经济层面的新自由主义去监管化和市场化，以及文化层面的多样性、包容性和赋权话语——但后者常常掩盖前者的物质不平等后果（Fraser, 2019, cited in）
+> - **双面性** 进步新自由主义同时运作两个议程——经济层面的新自由主义去监管化和市场化，以及文化层面的多样性、包容性和赋权[[Discourse|话语]]——但后者常常掩盖前者的物质不平等后果（Fraser, 2019, cited in）
 >
 
 ## 概念演变
 
 > [!note-] Fraser 的批判
-> Nancy Fraser 在其对当代资本主义的分析中论证，进步新自由主义通过将新自由主义经济政策与进步社会议程的话语结合，实现了比经典新自由主义更强的文化和政治合法性。这种结合使得对新自由主义的批评容易被曲解为"反对社会进步"（Fraser, 2019, cited in [[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.31–32]]）。
+> Nancy Fraser 在其对当代资本主义的分析中论证，进步新自由主义通过将新自由主义经济政策与进步社会议程的[[Discourse|话语]]结合，实现了比经典新自由主义更强的文化和政治合法性。这种结合使得对新自由主义的批评容易被曲解为"反对社会进步"（Fraser, 2019, cited in [[Argument_Moisio_2022_Springer\|Moisio, 2022, pp.31–32]]）。
 
 
 > [!note-] Moisio 的空间化应用

@@ -12,7 +12,7 @@ title: "Argument_Wong_2022_HERD"
 argument_key: "Argument_Wong_2022_HERD"
 argument_display_title: "A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), 1340–1355"
 argument_kind: "journal-article"
-argument_related_count: 11
+argument_related_count: 12
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Graduate Attributes]]"
   - "[[Return on Investment]]"
+  - "[[Discourse]]"
   - "[[Lifelong Learning]]"
   - "[[Employability]]"
   - "[[Global Citizenship]]"
@@ -69,20 +70,20 @@ citation_aliases:
 > - 方法：质性归纳主题分析（inductive thematic analysis），使用 NVivo and NCapture 收集和[[Coding in Qualitative Research\|编码]]数据
 > - 样本：Universities UK 137 所成员大学中，76 所（55%）至少有一个公开网页列出[[Graduate Attributes\|毕业生特质]]（截至 2020 年 1 月）
 > - 数据来源：大学官方网站公开的毕业生特质页面
-> - 分析流程：三位作者独立编码相同数据（三所大学网站）→ 讨论差异达成共识 → 逐步精炼编码框架 → 超过 30 个子代码归纳为四大话语(p.1343)
+> - 分析流程：三位作者独立编码相同数据（三所大学网站）→ 讨论差异达成共识 → 逐步精炼编码框架 → 超过 30 个子代码归纳为四大[[Discourse|话语]](p.1343)
 
 ## 核心论证
 
 > [!example] 核心论证
 > 1. 高等教育市场化推动大学通过[[Graduate Attributes\|毕业生特质]]来证明自身价值(p.1340)
 > 2. 对 UK 137 所大学官网的系统搜索发现 76 所公开列出了毕业生特质(p.1343)
-> 3. 归纳主题分析识别出四大话语，共同勾勒 UK "理想毕业生"的轮廓(p.1343–1350)
+> 3. 归纳主题分析识别出四大[[Discourse|话语]]，共同勾勒 UK "理想毕业生"的轮廓(p.1343–1350)
 > 4. 毕业生特质的形成主要由高层管理或市场营销驱动，缺乏系统的教育理论支撑和师生参与；倡导更开放包容的讨论来确定何为特定大学乃至特定学科的"理想毕业生"特质(p.1351)
 
 ## 主要发现
 
 > [!success] 主要发现
-> - UK 大学毕业生的四大特质话语(p.1343–1350)：
+> - UK 大学毕业生的四大特质[[Discourse|话语]](p.1343–1350)：
 >   1. **自我意识与[[Lifelong Learning\|终身学习]]**（89% 大学）：批判性自我意识、情商、适应性、有效沟通、组织与时间管理
 >   2. **[[Employability\|就业能力]]与专业发展**（75%）：团队合作、领导力、专业知识与商业意识
 >   3. **[[Global Citizenship\|全球公民]]与参与**（70%）：社会与公民责任、平等多元包容、人际技能、环境意识

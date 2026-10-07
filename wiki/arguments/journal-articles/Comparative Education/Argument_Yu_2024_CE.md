@@ -10,7 +10,7 @@ title: "Argument_Yu_2024_CE"
 argument_key: "Argument_Yu_2024_CE"
 argument_display_title: "Confucianism in multicultural China: 'official knowledge' vs marginalised views"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ tags:
 related_concepts:
   - "[[Official Knowledge]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Discourse]]"
   - "[[Cultural Hierarchy]]"
   - "[[Cultural Disembedding]]"
   - "[[Value Neutrality]]"
@@ -84,7 +85,7 @@ citation_aliases:
 > [!question] 核心关切与经验谜题
 > 当代中国国家强制性学校课程中，复兴的儒家传统如何作为[[Official Knowledge\|官方知识]]被呈现与建构，以及处于文化边缘位置的非汉少数民族及宗教背景学生如何理解和评价这一传统 (pp. 59–60)。
 > 
-> 经验谜题在于：自1980年代末以来，儒家复兴与党国主导的“中华优秀传统文化”宣传已持续三十余年，中小学生在学校大量接受儒家内容教育。然而，那些文化与信仰身份游离于“汉儒圈”之外的边缘学生——例如在清真寺礼拜的回族与东乡族学生、在转经筒旁长大的藏族学生或西北地区的基督教学生——究竟如何接收、[[Transfer Translation Transformation\|转译]]乃至抵制这些被教科书塑造成“中华文化唯一核心”的内容？这一长期被主导话语遮蔽的经验盲区，正是本研究追问的起点。
+> 经验谜题在于：自1980年代末以来，儒家复兴与党国主导的“中华优秀传统文化”宣传已持续三十余年，中小学生在学校大量接受儒家内容教育。然而，那些文化与信仰身份游离于“汉儒圈”之外的边缘学生——例如在清真寺礼拜的回族与东乡族学生、在转经筒旁长大的藏族学生或西北地区的基督教学生——究竟如何接收、[[Transfer Translation Transformation\|转译]]乃至抵制这些被教科书塑造成“中华文化唯一核心”的内容？这一长期被主导[[Discourse|话语]]遮蔽的经验盲区，正是本研究追问的起点。
 
 > [!claim] 核心主张
 > 官方教科书将儒家传统塑造为“中华性”（Chinese-ness）的唯一缩影与文化等价物，并通过“非汉政权向汉儒学习”的文明化叙事强化了汉文化中心与少数民族边缘之间的[[Cultural Hierarchy\|文化等级]]；然而，处于边缘位置的学生并未单向内化该霸权话语，而是将其降格为中国多元文化与世界观中的一种，并从自身民族与灵性信仰出发对儒学的人类中心主义、男权等级性与终极关怀匮乏发起了跨文化反思。
@@ -185,7 +186,7 @@ citation_aliases:
 > - **语文** 将《论语》判定为对中华文化形成最具决定性影响的经典，大量选编《三字经》《礼记》《[[Mencius\|孟子]]》进行道德与文化灌输 (PEP 2016a, pp. 83–87)。
 > - **英语** 将孔子选入“英雄画廊”（Gallery of Heroes），与林肯、爱因斯坦及钱学森并列，塑造成代表中国的文化符号 (PEP 2016b, p. 69)。
 >
-> > [!boundary] 话语滑移带来的排他性[[Symbolic Boundary\|象征边界]]
+> > [!boundary] [[Discourse|话语]]滑移带来的排他性[[Symbolic Boundary\|象征边界]]
 > > 教科书完成了一个关键的修辞滑移：从“儒家是中华文化的重要组成部分”隐蔽地滑动为“中华文化本质上就是儒家文化”。这一等价化操作彻底将55个少数民族的文化传统排除在“国家文化正统”的象征边界之外 (p. 67)。
 
 > [!line-b] 线索B：构建“非汉政权学习汉儒”的[[Cultural Hierarchy\|文化等级]]与文明化叙事
@@ -258,7 +259,7 @@ citation_aliases:
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **话语垄断与符号等价化** 教科书将儒家传统塑造为“中华性”的唯一代名词，通过跨学科符号堆叠完成了“中华文化 = 儒家文化”的排他性[[Official Knowledge\|官方知识]]建构 (p. 67)。
+> 1. **[[Discourse|话语]]垄断与符号等价化** 教科书将儒家传统塑造为“中华性”的唯一代名词，通过跨学科符号堆叠完成了“中华文化 = 儒家文化”的排他性[[Official Knowledge\|官方知识]]建构 (p. 67)。
 > 2. **隐秘等级与文明化[[Bildung\|教化]]** 教科书表面承认多民族存在，实则通过“非汉政权学习汉儒”的统一模板，将汉族置于“文明施教者”的高位，建构了中心—边缘的[[Cultural Hierarchy\|文化等级]]。
 > 3. **边缘抵制与主体性再定位** 边缘学生并未盲从官方叙事，86%的学生将其降格为多元文化之一，并立足于自身信仰批判了儒学的男权性、人类中心主义及灵性匮乏 (pp. 68–70)。
 > 4. **单向同化的反讽后果** 强行推广汉儒正统抹平差异的政策，导致边缘族群产生严重的[[Cultural Disembedding\|文化脱嵌]]与异化感，加剧了民族与文化分裂 (p. 71)。
@@ -276,7 +277,7 @@ citation_aliases:
 ## 关键引用
 
 > [!citation-card]- [[Official Knowledge\|官方知识]]的[[Cultural Hierarchy\|文化等级]]效应
-> 对儒家传统的阐释构成了一种垄断性与主导性话语，强化了不同文化群体之间的[[Cultural Hierarchy\|文化等级]] (p. 59)。
+> 对儒家传统的阐释构成了一种垄断性与主导性[[Discourse|话语]]，强化了不同文化群体之间的[[Cultural Hierarchy\|文化等级]] (p. 59)。
 >
 > *The interpretation of the Confucian tradition is a monopolising and dominant discourse that reinforces the cultural hierarchy between different cultural groups.*
 

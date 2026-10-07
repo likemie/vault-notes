@@ -7,7 +7,7 @@ title: "Argument_Logar_2014_Minerva"
 argument_key: "Argument_Logar_2014_Minerva"
 argument_display_title: "Semiconductor Research Corporation: A case study in cooperative innovation partnerships"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Champ]]"
   - "[[Heterogeneity]]"
+  - "[[Discourse]]"
   - "[[Pilot Scale Platform]]"
   - "[[General Purpose Technology]]"
   - "[[Growth]]"
@@ -279,7 +280,7 @@ tags:
 > [!tension-table] SRC 治理局限与跨领域迁移阻碍分析
 > | 挑战维度 | 机制成因与具体表现 | 对公共政策与跨界迁移的启示 |
 > |:---|:---|:---|
-> | **中小初创企业参与门槛** | 会费按销售额比例收取且需要持续派遣资深研发人员参与评审，小企业研发视野短浅且无力承担人员与财务成本，使得技术路线话语权高度向垂直整合大巨头倾斜，存在大企业垄断研发议程的潜在风险。（pp. 255–256） | 联邦国家实验室需通过设立专门的开放[[Pilot Scale Platform\|中试平台]]（如 NIST 纳米制造中心）或低门槛合作通道，弥补产业联合体对中小企业的排斥缺陷。（p. 256） |
+> | **中小初创企业参与门槛** | 会费按销售额比例收取且需要持续派遣资深研发人员参与评审，小企业研发视野短浅且无力承担人员与财务成本，使得技术路线[[Discourse\|话语]]权高度向垂直整合大巨头倾斜，存在大企业垄断研发议程的潜在风险。（pp. 255–256） | 联邦国家实验室需通过设立专门的开放[[Pilot Scale Platform\|中试平台]]（如 NIST 纳米制造中心）或低门槛合作通道，弥补产业联合体对中小企业的排斥缺陷。（p. 256） |
 > | **宏观经济周期与预算波动** | 会费与成员企业销售额直接挂钩，在 2009–2010 年等全球半导体行业萧条期，企业会费下滑导致联合体研发预算缩水达 30%，在全行业最需要研发储备时面临资金被动缩减。（pp. 252, 255） | 纯私营联合体抗周期能力有限；公共任务导向型机构必须保持逆周期的长远预算稳定机制。（pp. 257–258） |
 > | **技术形态与前竞争范围差异** | 半导体具有[[General Purpose Technology\|通用技术]]（General Purpose Technology, GPT）属性，底层芯片突破可广泛应用于多元消费终端，前竞争边界宽广；而光伏（Photovoltaic, PV）等能源技术的最终产品是无差异的电能，且面临沉淀资产长达 40 年的庞大电网基础设施锁定，前竞争阶段与最终商用高度重叠，技术商业化路径远较半导体复杂。 | 不能机械照搬半导体联合体模式；能源科技创新必须将政策支持延伸至中试示范、电网准入与全链条部署环节。（pp. 256–257） |
 

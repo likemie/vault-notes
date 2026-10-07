@@ -25,6 +25,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Reliable Epistemic Processes]]"
   - "[[Epistemic Ideals]]"
+  - "[[Discourse]]"
   - "[[Epistemic Cognition]]"
   - "[[Epistemic Agency]]"
   - "[[Epistemic Aims]]"
@@ -87,7 +88,7 @@ title: "Argument_Duncan_2025_CI"
 argument_key: "Argument_Duncan_2025_CI"
 argument_display_title: "Evaluating the Quality of Argumentation: The Role of Epistemic Ideals and Reliable Processes"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -110,7 +111,7 @@ issuing_organization: ""
 > 科学论证质量的评估必须实现从句法结构分析向认识论实质评估的[[Paradigm\|范式]]转向。基于目标、理想与[[Reliable Epistemic Processes\|可靠过程]]模型（Aims, Ideals, and Reliable Processes, [[AIR Model of Epistemic Cognition\|AIR]]），优质科学论证不仅需要合理的结构形态，更本质地取决于论证者所调动的[[Epistemic Ideals\|认识论理想]]（如全域证据契合、多源证据收敛、推论直接性与决定性），以及对证据生成中[[Reliable Epistemic Processes\|可靠认识论过程]]及其因果约束条件的敏锐审查。（pp. 201–202, 210–211）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 科学教育中的口头与书面论证、初中生在基于模型的探究（Model-Based Inquiry, MBI）中的论证表现、伪科学舆论话语（气候变化否定论与反疫苗宣传文本）。
+> - **对象** 科学教育中的口头与书面论证、初中生在基于模型的探究（Model-Based Inquiry, MBI）中的论证表现、伪科学舆论[[Discourse|话语]]（气候变化否定论与反疫苗宣传文本）。
 > - **张力** 句法结构的完整性与认识论实质的合理性之间的严重脱节：结构分析给予高分的文本可能充斥劣质认识论判断；而结构看似简短的学生日常话语却可能蕴含深刻的过程可靠性洞察。
 > - **贡献** 将[[Epistemic Cognition\|认识论认知]]领域权威的 AIR 模型系统拓展至科学论证评价体系，提出了结构分析与认识论分析互补的双重视角，开发了涵盖观察实践与证据整合的认识论质性分析模板，确立了培育学生元认识论辩护能力与[[Epistemic Agency\|认识主体性]]的教学进路。
 
@@ -145,7 +146,7 @@ issuing_organization: ""
 > | 样本层面 | 构成 |
 > |---|---|
 > | **书面论证样本** | 源自长期开展的促进科学推理与概念转变（Promoting Reasoning and Conceptual Change in Science, PRACCIS）项目第二队列：来自一所生源多样、[[Academic Achievement\|学业表现]]偏低的中学，5名教师执教的24个七年级科学班级，共332名学生完成的书面论证论文。（p. 212） |
-> | **口头话语样本** | 源自同一中学不同学年的另一队列：由2名教师执教的10个班级，记录全学年探究课堂录像，选取食物网单元中围绕弱观察证据展开的师生密集口头对话实录。 |
+> | **口头[[Discourse\|话语]]样本** | 源自同一中学不同学年的另一队列：由2名教师执教的10个班级，记录全学年探究课堂录像，选取食物网单元中围绕弱观察证据展开的师生密集口头对话实录。 |
 > | **论证任务材料** | 包含两类典型任务：（1）HIV遗传抗性任务，提供4项不同质量与直接性的证据，包括猫免疫缺陷病毒（Feline Immunodeficiency Virus, FIV）抗性、血库助理访谈、猿猴免疫缺陷病毒（Simian Immunodeficiency Virus, SIV）抗性、Paxton团队25名高危人群白细胞测试；（2）格陵兰食物网任务，提供旅馆老板在电台广播中依据住客无序登记记录的北极狐与三文鱼目击数量。（pp. 212–213, 216） |
 
 ---
@@ -193,7 +194,7 @@ issuing_organization: ""
 
 #### 2. 伪科学文本对纯结构主义评价的典型反例
 
-然而，结构分析的核心局限在于：众多在[[Epistemology|认识论]]上存在严重缺陷的伪科学论证，在结构评分中却能轻易斩获高分。作者依据现实社会中气候变暖否定论与反疫苗宣传的典型话语，构造了两个完全符合实际论调但极具认识论欺骗性的反例文本，进行逐层解构（pp. 203–204）：
+然而，结构分析的核心局限在于：众多在[[Epistemology|认识论]]上存在严重缺陷的伪科学论证，在结构评分中却能轻易斩获高分。作者依据现实社会中气候变暖否定论与反疫苗宣传的典型[[Discourse|话语]]，构造了两个完全符合实际论调但极具认识论欺骗性的反例文本，进行逐层解构（pp. 203–204）：
 
 > [!pseudo-contrast] 典型伪科学文本的结构主义评析与认识论实质解构（pp. 203–204）
 > | 评析维度 | 全球变暖否定论反例文本 | 反疫苗运动宣传反例文本 |

@@ -7,10 +7,10 @@ summary: "英国比较教育学者，提出跨国吸引力情境概念地图，�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: ""
-person_related_color: "#e5e7eb"
+person_related_count: 8
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "c. 1978"
 died: ""
 lifespan: "c. 1978–至今"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Concept Mapping]]"
   - "[[International Education]]"
   - "[[Externalization]]"
+  - "[[Discourse]]"
   - "[[Policy Borrowing]]"
   - "[[Pre-Transfer Agency]]"
 related_theories: []
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-28'
-updated: 2026-09-11
+updated: 2026-10-07
 ---
 ## 简介
 
@@ -86,7 +87,7 @@ Rappleye 的核心理论动作是将"情境"拆解为两个相互独立的层面
 
 ### 停滞的修辞
 
-Rappleye 将 Holmes (1981) 的"抵制的力量"（forces of reaction）重新框定为"停滞的修辞"（rhetoric of stasis）。历史、传统和文化固然有真实的"更广阔世界"后果，但在教育改革辩论中，这些高度可塑的概念往往被锻造成武器来抵制变革。研究者需要判断一个"传统"在多大程度上反映了真实的结构约束，在多大程度上只是抵制变革的话语策略（p. 232）。
+Rappleye 将 Holmes (1981) 的"抵制的力量"（forces of reaction）重新框定为"停滞的修辞"（rhetoric of stasis）。历史、传统和文化固然有真实的"更广阔世界"后果，但在教育改革辩论中，这些高度可塑的概念往往被锻造成武器来抵制变革。研究者需要判断一个"传统"在多大程度上反映了真实的结构约束，在多大程度上只是抵制变革的[[Discourse|话语]]策略（p. 232）。
 
 ### 四种吸引力火花
 
@@ -107,7 +108,7 @@ Rappleye 基于晚清中国借用日本教育的历史案例提出：当改革�
 
 > [!success] 影响
 > - **[[Policy Borrowing\|政策借用]]研究** — 情境[[Concept Mapping\|概念地图]]为[[Policy Borrowing\|政策借用]]四阶段循环模型的第一阶段（[[Cross-National Attraction\|跨国吸引力]]）提供了最系统的分析工具，回应了 Phillips & Ochs 自己承认的"情境分析是最困难任务"这一瓶颈([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 226]])
-> - **[[Pre-Transfer Agency\|前转移能动性]]** — 在 Steiner-Khamsi (2000) 呼吁的基础上，明确区分了前转移能动性与后转移能动性，将分析视野推进到外国范例进入国内话语的最初时刻([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 227]])
+> - **[[Pre-Transfer Agency\|前转移能动性]]** — 在 Steiner-Khamsi (2000) 呼吁的基础上，明确区分了前转移能动性与后转移能动性，将分析视野推进到外国范例进入国内[[Discourse|话语]]的最初时刻([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 227]])
 > - **比较教育方法论** — 提出比较教育学者应更有意识地介入政策辩论的规范性主张：通过将外国系统研究与"本国"情境的推力或阻力明确联系起来，学者可以支持或反对借用，而非让不熟悉外国情境的政治家和媒体来"翻译"研究成果([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, pp. 237–238]])
 > - **对 Phillips & Ochs 框架的深化** — 将原有的单层"推动力"拆分为结构-人的双层互动，新增对称的阻力侧，补充了四种吸引力"火花"的动机分类
 

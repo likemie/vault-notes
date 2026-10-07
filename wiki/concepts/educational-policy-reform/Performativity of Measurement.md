@@ -6,7 +6,7 @@ aliases:
 summary: "指测量不仅描述现实，也会通过分类、比较和激励机制主动塑造对象、行为和优先事项的生产性作用。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Decodification]]"
   - "[[School Leadership]]"
   - "[[New Public Management]]"
+  - "[[Discourse]]"
   - "[[Communities of Practice]]"
   - "[[New Managerialism]]"
   - "[[Evidence Standards]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 ## 定义
@@ -132,7 +133,7 @@ updated: 2026-10-05
 > - 管理者和学校领导者都将数据的生产和使用视为解决学校和 student 层面问题的"合法方式"——结果，教育劣势问题被框定为技术问题而非权力与资源分配问题（p.382, citing Sellar, 2015）
 > - "[[New Public Management\|新公共管理]]改革分散了对公平问题的注意力"（p.382, citing Hall et al., 2015）
 >
-> **两个矛盾话语的并行运作([[Argument_Møller_2017_EERJ\|Møller, 2017, p.377]])**
+> **两个矛盾[[Discourse|话语]]的并行运作([[Argument_Møller_2017_EERJ\|Møller, 2017, p.377]])**
 > - OECD 同时推崇两种相互矛盾的测量与治理逻辑：(1) 将学校从科层制转变为专业[[Communities of Practice|实践共同体]]的"最佳实践"话语；(2) 新公共管理的外部控制和绩效问责话语
 > - 二者并非相互替代，而是**并行运作**——构成测量既是赋权工具又是控制工具的矛盾现象
 >
@@ -192,7 +193,7 @@ updated: 2026-10-05
 > [!warning] 竞争 vs 民主的根本张力([[Argument_Møller_2017_EERJ\|Møller, 2017]])
 > [[Argument_Møller_2017_EERJ\|Møller (2017, p.382)]]识别了绩效测量在教育中引发的根本张力：
 >
-> - **一方** 竞争与私有化话语（支撑[[New Public Management\|新公共管理]]），绩效测量作为市场选择和资源分配的技术手段
+> - **一方** 竞争与私有化[[Discourse|话语]]（支撑[[New Public Management\|新公共管理]]），绩效测量作为市场选择和资源分配的技术手段
 > - **另一方** 根植于社会民主意识形态的话语（公平、参与、综合教育），关注教育作为公共产品
 >
 > Møller 论证必须理解维持教育作为公共产品的条件和过程，并质疑当前的绩效问责体系是否正在以牺牲公平为代价来追求可测量的成绩提升([[Argument_Møller_2017_EERJ\|Møller, 2017, p.382-383]])。

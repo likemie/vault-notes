@@ -8,7 +8,7 @@ aliases:
 summary: "东亚课堂中以倾听为核心的学习方式，强调通过专注倾听、内化和反思参与学习，沉默不等于被动"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Action Better Than Words]]"
   - "[[Student Engagement]]"
   - "[[Student Attitude]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods:
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-10-07
 ---
 
 # Listening-Oriented Learning
@@ -104,7 +105,7 @@ Inagaki、Hatano and Morita 对日本课堂的研究发现，尽管口头表达�
 > - **内部差异** Li 的模型是文化理想型，不适用于所有东亚学习者。在中国城市学校和改革导向的课堂中，学生的口头表达正在显著增加([[Argument_Li_2012_Cambridge\|Li, 2012, p.xi]])
 
 > [!tip]-
-> 详见 Li (2012) 全书论证第 8 章——特别是第四步（课堂话语制度化）、第五步（家庭社会化）和第六步（两种学习者画像），倾听导向学习作为东亚模式在其中与西方模式形成系统对比。
+> 详见 Li (2012) 全书论证第 8 章——特别是第四步（课堂[[Discourse|话语]]制度化）、第五步（家庭社会化）和第六步（两种学习者画像），倾听导向学习作为东亚模式在其中与西方模式形成系统对比。
 
 ---
 

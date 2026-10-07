@@ -8,7 +8,7 @@ summary: "加拿大著名学习科学家与教育心理学家，多伦多大学�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Knowledge Production]]"
   - "[[Metacognition]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemology]]"
   - "[[Inquiry-Based Learning]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Marlene Scardamalia
@@ -84,7 +85,7 @@ updated: 2026-09-22
 > - **1980 年代中叶 — 研发 CSILE 系统** 开创全球首个计算机支持的协作学习（CSCL）网络平台 CSILE，探索利用技术支持意向性学习共同体。
 > - **1990 年代 — [[Knowledge Building Theory|知识建构理论]]体系形成** 提出知识建构 12 条核心原则，区分“为学习而学习（Learning）”与“将知识作为公共制品进行创造与改良（Knowledge Building）”。
 > - **2002 年 — 正式界定[[Epistemic Agency\|认识能动性]]（Epistemic Agency）** 发表标志性论文，系统阐述认识能动性作为学生从被动执行程序转向承担共同体知识进步最高调控权的标志。
-> - **2020 年代 — 人机共生与人工智能时代的回响** 其认识能动性理论被广泛引入[[Generative Artificial Intelligence\|生成式人工智能]]教育哲学研究，成为评估人机协作中人类是否保留核心认知裁决权的理论基石。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360)]]
+> - **2020 年代 — [[Man-Computer Symbiosis|人机共生]]与人工智能时代的回响** 其认识能动性理论被广泛引入[[Generative Artificial Intelligence\|生成式人工智能]]教育哲学研究，成为评估人机协作中人类是否保留核心认知裁决权的理论基石。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360)]]
 
 ---
 

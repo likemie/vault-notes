@@ -7,7 +7,7 @@ aliases:
 summary: "科学教育与课程论核心概念，指学习者依据学科评价标准与经验证据为自然现象建构因果机制、概念网络与多模态理论模型的认识论实践。"
 type: concept
 domain: "curriculum"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,8 +27,10 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Cognitive Complexity Index]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Reflective Structuration]]"
+  - "[[Discourse]]"
   - "[[Operationalization]]"
   - "[[Theory of Knowledge]]"
   - "[[Growth]]"
@@ -50,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Scientific Explanation
@@ -148,7 +150,7 @@ updated: 2026-09-22
 
 ### 命题二　显性评价标准赋能学习者在人机协同中识别模型生成解释的机制遗漏与片面性
 
-> [!concept-lens] 人机共生学习与算法生成解释评估维度
+> [!concept-lens] [[Man-Computer Symbiosis|人机共生]]学习与算法生成解释评估维度
 > 聚焦生成式 AI 辅助解释生成的场景，阐明学生如何运用学科解释标准破除大语言模型的顺滑表象并实施针对性修正。
 
 > [!claim] [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez (2026)]]
@@ -165,7 +167,7 @@ updated: 2026-09-22
 > 阐明在长周期开放探究中，共同体如何通过历时反思与意向领域重构，实现从低阶事实罗列向高阶跨系统因果解释的稳步跃升。
 
 > [!claim] [[Argument_Zhang_2022_SE|Zhang et al. (2022)]]
-> **[[Reflective Structuration|反思性结构化]]驱动科学解释的高阶演进** 科学解释的认知复杂度演进并非线性发生，而是深度依赖师生对探究架构的历时共同结构化。在长周期知识建构课堂中，学生依托意向领域海报与多重视图话语，持续反思已有解释的局限性；通过提出解释寻求型问题（占比达 76.7%）与跨系统关联问题，学生自发打破器官孤岛，构建起眼睛光学成像与大脑神经信号处理协同的复杂因果机制，使班级绝大多数最终综合笔记达到完全科学水平与详细因果解释。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 905–907, 915–916)]]
+> **[[Reflective Structuration|反思性结构化]]驱动科学解释的高阶演进** 科学解释的认知复杂度演进并非线性发生，而是深度依赖师生对探究架构的历时共同结构化。在长周期知识建构课堂中，学生依托意向领域海报与多重视图[[Discourse|话语]]，持续反思已有解释的局限性；通过提出解释寻求型问题（占比达 76.7%）与跨系统关联问题，学生自发打破器官孤岛，构建起眼睛光学成像与大脑神经信号处理协同的复杂因果机制，使班级绝大多数最终综合笔记达到完全科学水平与详细因果解释。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 905–907, 915–916)]]
 
 ---
 
@@ -187,7 +189,7 @@ updated: 2026-09-22
 > - **2005–2013 — 科学教育中的[[Epistemology|认识论]]转向** [[Argument_Sandoval_2005_SE|Sandoval (2005)]]、McNeill et al. (2006) 及美国《下一代科学标准》（NGSS, 2013）将科学解释确立为中小学科学探究的核心[[Epistemic Practices|认识论实践]]，强调因果机制与证据协调。
 > - **2019 — 四维评价标准系统化** de Andrade, Freire & Baptista (2019) 系统提出优质科学解释的四项评价标准（相关性、因果叙事、概念框架、适切表征水平），为课堂解释评估提供可操作的[[Operationalization|操作化]]工具。
 > - **2022 — [[Knowledge Building Theory|协作知识建构]]中的解释深化与层级[[Coding in Qualitative Research|编码]]** [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 提出科学理解（4 级）与认知复杂度（4 级）双维编码体系，证实[[Reflective Structuration|反思性结构化]]能有效驱动小学生从简单事实描述跃升至高阶详细因果解释。
-> - **2026 — 人机协同多模态解释建构** [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez (2026)]] 将科学解释实践置于生成式 AI 协同探究语境，揭示学生如何依托四项标准对 AI 生成的文本与多模态图像展开持续的内容审验、因果补全与表征修正。
+> - **2026 — [[Man-Computer Symbiosis|人机协同]]多模态解释建构** [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez (2026)]] 将科学解释实践置于生成式 AI 协同探究语境，揭示学生如何依托四项标准对 AI 生成的文本与多模态图像展开持续的内容审验、因果补全与表征修正。
 
 ---
 
@@ -232,4 +234,4 @@ updated: 2026-09-22
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 提出科学理解（4 级）与认知复杂度（4 级）双维[[Analytic Framework|分析框架]]，揭示[[Reflective Structuration|反思性结构化]]如何驱动小学生在 7 个月人体系统探究中建构出高质量、跨系统的详细因果科学解释。
-> - [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez (2026)]] — 将 de Andrade et al. (2019) 的四项科学解释标准应用于初中生人机协同探究，揭示学生如何依据相关性、因果叙事、概念网络与表征水平对 AI 输出展开微观话语审问与多模态制品重构。
+> - [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez (2026)]] — 将 de Andrade et al. (2019) 的四项科学解释标准应用于初中生[[Man-Computer Symbiosis|人机协同]]探究，揭示学生如何依据相关性、因果叙事、概念网络与表征水平对 AI 输出展开微观[[Discourse|话语]]审问与多模态制品重构。

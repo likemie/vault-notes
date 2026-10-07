@@ -8,7 +8,7 @@ aliases:
 summary: "政治学与政策科学核心理论，主张公共政策是由拥有高度同质化利益与价值偏好的少数权力精英自上而下制定；在教育政策中常用于解构国家专家委员会以专业中立为掩护制造排他性科学共识的权力机制。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Epoché]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Whole Language]]"
   - "[[Research Question]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Elite Theory
@@ -97,7 +98,7 @@ updated: 2026-10-03
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | 权力精英（Power Elite） | 概念 | 把持国家核心决策管辖权、科研基金流向与主流意识形态话语的极少数关键行动者。 |
+> | 权力精英（Power Elite） | 概念 | 把持国家核心决策管辖权、科研基金流向与主流意识形态[[Discourse\|话语]]的极少数关键行动者。 |
 > | 操纵性公共议程（Manufactured Agenda） | 机制 | 通过由少数精英挑选和设计的公共议题与测评标准，自上而下塑模民众认知并引导舆论共识。 |
 > | 同质化专家委员会（Homogenous Expert Panels） | 制度载体 | 官方以去政治化的“专业资格”为准则遴选但实际上高度依附于单一学术[[Paradigm\|范式]]的高规格评审团队。 |
 > | 技术性合法化（Technocratic Legitimation） | 机制 | 借由严密的量化[[Meta-analysis\|元分析]]和实证科学标签，将精英自身的阶级与范式偏好包装为全社会客观真理。 |
@@ -107,7 +108,7 @@ updated: 2026-10-03
 ## 核心命题
 
 > [!theory-proposition] 命题一｜公共政策是具有相似偏好与权力的少数精英自上而下推进的产物而非公众意志的汇总
-> **解释** 精英理论主张，公共政策并非多元利益群体自由协商折衷的产物，而是集中体现了社会核心领导层的价值预设与长期战略利益。精英集团凭借对信息、资本、行政权力与专业话语的垄断，能够极其高效地在封闭圈层内达成排他性共识，并将非主流群体的诉求阻挡在正式立法程序之外。[[Argument_Edmondson_2005_EPAA\|(Mills, 1956; Theodoulou & Cahn, 1995; Edmondson, 2005, p. 10)]]
+> **解释** 精英理论主张，公共政策并非多元利益群体自由协商折衷的产物，而是集中体现了社会核心领导层的价值预设与长期战略利益。精英集团凭借对信息、资本、行政权力与专业[[Discourse|话语]]的垄断，能够极其高效地在封闭圈层内达成排他性共识，并将非主流群体的诉求阻挡在正式立法程序之外。[[Argument_Edmondson_2005_EPAA\|(Mills, 1956; Theodoulou & Cahn, 1995; Edmondson, 2005, p. 10)]]
 >
 > **应用实例** 在美国《[[Reading Excellence Act\|卓越阅读法案]]》审议期间，全美逾十万名公立学校一线教师致信国会反对法案对自然拼读的狭隘规制，但国会教育委员会领导层与少数政商精英直接通过口头表决（voice vote）强行通过法案，基层民意在封闭的精英决策中完全失效。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, pp. 6, 8)]]
 
@@ -124,7 +125,7 @@ updated: 2026-10-03
 > - **[[Research Question|研究问题]]** 某项教育改革或科研评价政策的法定标准究竟由谁定义？国家专家评审机制是否实质上构成了同质化精英对决策议程的封闭垄断？
 > - **分析对象与单位** 官方专家委员会的委员专业背景构成、国家重大咨询报告遴选规程、高利害立法中的听证专家言论与利益声明。
 > - **需要的材料** 专家委员会遴选标准会议实录、委员过往科研项目资助来源与企业关联清单、重大政策出台过程中的不同[[Paradigm|范式]]学者的排斥与被采纳记录。
-> - **解释目标** 揭示政策技术话语背后的精英议程操纵机制，破除公众对“官方中立专家共识”的盲信。
+> - **解释目标** 揭示政策技术[[Discourse|话语]]背后的精英议程操纵机制，破除公众对“官方中立专家共识”的盲信。
 
 > [!theory-framework] 精英理论分析维度与判读规则
 >

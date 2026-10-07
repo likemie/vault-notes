@@ -8,7 +8,7 @@ aliases:
 summary: "指在非西方威权情境中，部分去殖民学者因过度审查社会制度与自由法治的西方殖民起源（pedigree），而在客观上否定并剥夺了本土人（native agency）选择和保留这些制度的权利，与威权统治者在文化相对主义上达成合流的理论矛盾"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - hegemony
   - comparative-education
 related_concepts:
+  - "[[Discourse]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Grand Theory]]"
   - "[[Disciplina and Doctrina]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-07-13'
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Decolonial Paradox
@@ -51,7 +52,7 @@ updated: 2026-09-22
 > 去殖民化思维的悖论（Decolonial Paradox / Decolonial Thinking Paradox）是由比较教育学者爱德华·维克（Edward Vickers）基于哲学家奥卢费米·泰沃（Olúfẹ́mi Táíwò）的学说提炼而成的批判性概念。它指的是在非西方威权国家（如中国）与地方社会（如香港）的冲突中，西方去殖民主义（decoloniality）学者仅因法治、基本人权和特区独立宪制地位等制度起源于西方殖民历史，便否定其正当性，在客观上剥夺了本土居民（native agency）选择和保留这些保护性制度的自决权，从而沦为威权统治者行使主权决断与强力整肃的理论共犯（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp. 154–155]]）。
 
 > [!concept-lens] 概念透镜
-> - **指向对象** 学术界（尤其是盎格鲁教育学界）将反殖民话语绝对化，以反西方霸权为由合理化非西方国家权力扩张的认知错位。
+> - **指向对象** 学术界（尤其是盎格鲁教育学界）将反殖民[[Discourse|话语]]绝对化，以反西方霸权为由合理化非西方国家权力扩张的认知错位。
 > - **分析用途** 用于剖析西方左翼学者在面对香港法治受损、通识科被废除及再教育危机时选择“集体失语”或为威权逻辑辩护的认知心理与学术虚无主义根源。
 > - **概念边界** 它并不否认西方殖民主义的历史罪恶，而是警示不能以“反殖民”为借口，将本地学童和市民追求的自由与专业自主空间扣上“殖民遗毒”的帽子予以消灭（p.155）。
 
@@ -65,7 +66,7 @@ updated: 2026-09-22
 ## 概念辨析
 
 > [!contrast-table] 去殖民悖论与传统反殖民及威权民族主义的区别
-> | 比较维度 | 去殖民悖论视角（Vickers / Táíwò） | 传统去殖民话语（如 Mignolo） | 威权去殖民修辞（如[[Jiang Shigong\|强世功]] / 官方） |
+> | 比较维度 | 去殖民悖论视角（Vickers / Táíwò） | 传统去殖民[[Discourse\|话语]]（如 Mignolo） | 威权去殖民修辞（如[[Jiang Shigong\|强世功]] / 官方） |
 > |---|---|---|---|
 > | **核心关注点** | 本地人（native agency）选择和保留有效制度的自主权。 | 解构西方“地缘政治知识霸权”，追求彻底的脱钩（de-linking）。 | 以“反帝”和“去殖民”为名，确立国家主权的绝对控制。 |
 > | **对自由与法治的看法** | 虽然起源于殖民历史，但作为限制权力和保护弱者的工具应当被保留。 | 视其为西方地缘政治霸权的制度附庸和文化隐性控制。 | 视其为“殖民遗毒”和对“一国”国家安全的潜在 subversion 隐患。 |
@@ -98,7 +99,7 @@ updated: 2026-09-22
 ### 命题一　去殖民学者对“思想血统”（pedigree）的本质化审查，使其与非西方威权国家的“反帝”话语在摧毁地方自治上达成理论共谋
 
 > [!concept-lens] 机制剖析
-> 探析学者如何因过度沉迷于批判西方话语的殖民性，而在客观上为非西方国家消除地方分权、强行确立国家主权决断提供了道德遮护。
+> 探析学者如何因过度沉迷于批判西方[[Discourse|话语]]的殖民性，而在客观上为非西方国家消除地方分权、强行确立国家主权决断提供了道德遮护。
 
 > [!claim] Vickers, 2024
 > **谱系审查与威权压迫的理论共谋**

@@ -5,7 +5,7 @@ aliases:
 summary: "批判教育被学习结果和效果逻辑全面重写的概念，指出教师角色、课程内容和教育目的会被压缩为促进可测学习的手段"
 type: concept
 domain: "educational-philosophy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -13,6 +13,7 @@ tags:
 - learnification
 - stance/critique
 related_concepts:
+  - "[[Discourse]]"
   - "[[Critical Thinking]]"
   - "[[Critical Pedagogy]]"
   - "[[Paradigm]]"
@@ -35,13 +36,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-08-27'
+updated: 2026-10-07
 ---
 
 ## 定义
 
 > [!info] 定义
-> Learnification 是 [[Gert Biesta]] 提出的批判性概念，描述"学习"概念已失去其原有内涵，被一种高度问题化的、以效果为中心的"学习结果"（learning outcome）逻辑所吞噬的现象。该概念的核心诊断是：学习从一个具有解放潜能的术语，被改造为将教师降格为"学习促进者"（facilitators of learning）的话语机制([[Argument_Larsen_2019_EducSci\|Larsen, 2019, p.2]])。
+> Learnification 是 [[Gert Biesta]] 提出的批判性概念，描述"学习"概念已失去其原有内涵，被一种高度问题化的、以效果为中心的"学习结果"（learning outcome）逻辑所吞噬的现象。该概念的核心诊断是：学习从一个具有解放潜能的术语，被改造为将教师降格为"学习促进者"（facilitators of learning）的[[Discourse|话语]]机制([[Argument_Larsen_2019_EducSci\|Larsen, 2019, p.2]])。
 >
 > [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] 引用 Biesta 的观点指出，learnification 使教育目的被狭窄化为可测量的学习结果，同时遮蔽了教育中不可量化的维度——如品格形成、[[Critical Thinking\|批判性思维]]和自主判断。
 
@@ -68,7 +69,7 @@ updated: '2026-08-27'
 > [!example] 与相关概念的区别
 > - **vs [[Visible Learning]]** — VL 是 learnification 在教育研究中的典型技术实现：以[[Effect Size\|效应量]]排名量化学习，将教学简化为最大化可见的学习（Visible Learning，VL）结果的方法组合。Larsen 的批评核心是 VL 作为 learnification 的终极表达([[Argument_Larsen_2019_EducSci\|Larsen, 2019, p.1-2]])
 > - **vs [[Bildung]]** — Learnification 是诊断，Bildung 是替代方案。前者描述学习概念被效果逻辑吞噬的问题，后者提供超越学习[[Paradigm\|范式]]的品格教育框架
-> - **vs [[Evidence-Based Education]]** — Learnification and EBE 共享"什么有效"的工具理性逻辑，但 learnification 概念更侧重学习话语对教育关系（特别是教师角色）的改造
+> - **vs [[Evidence-Based Education]]** — Learnification and EBE 共享"什么有效"的工具理性逻辑，但 learnification 概念更侧重学习[[Discourse|话语]]对教育关系（特别是教师角色）的改造
 
 ## 争议与批评
 

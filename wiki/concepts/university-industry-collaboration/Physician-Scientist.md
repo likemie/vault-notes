@@ -7,7 +7,7 @@ aliases:
 summary: "Swick and Jones（2025）描述的兼具医学博士与哲学博士学位的学术专业人员，以识别临床问题、与基础科学家合作转化、在学界和产业之间充当联络者为核心能力，是医用创新的关键催化者"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Refined Mastery]]"
+  - "[[Discourse]]"
   - "[[Research Question]]"
 related_theories: []
 related_methods: []
@@ -31,7 +32,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-09-15
+updated: 2026-10-07
 ---
 
 # Physician-Scientist
@@ -48,7 +49,7 @@ updated: 2026-09-15
 > [!abstract]
 > 医师科学家必须具备三项[[21st Century Skills and Competencies Discourse\|关键能力]]（pp.176–177）：
 > 1. **持续创新的思维模式（mindset of continuous innovation）** 能够识别医学问题和临床中的不足，不仅察觉痛点，而且具备解决问题的基本驱动力。
-> 2. **翻译性合作伙伴能力** 作为基础科学家的可靠合作者，能够将实验室发现带到真实世界中验证。他们必须同时[[Refined Mastery\|精通]]医疗系统和产业两种话语体系——"speakers of both health system and industry vernacular"（p.176）。
+> 2. **翻译性合作伙伴能力** 作为基础科学家的可靠合作者，能够将实验室发现带到真实世界中验证。他们必须同时[[Refined Mastery\|精通]]医疗系统和产业两种[[Discourse|话语]]体系——"speakers of both health system and industry vernacular"（p.176）。
 > 3. **团队导向的技能与行为（group-oriented skills and behaviors）** 能够与不同参考框架的合作伙伴——包括大学、产业、工程师、发明家——有效协作，理解并整合多种视角。
 
 ## 概念辨析

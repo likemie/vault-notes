@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Gatekeepers]]"
   - "[[Epistemological Break]]"
+  - "[[Discourse]]"
   - "[[Research-Engaged School]]"
   - "[[Test-Based Accountability]]"
 related_theories: []
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-15
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # The Importance of Teaching
@@ -177,7 +178,7 @@ updated: 2026-09-22
 > | [[Self-Improving School System]] | 概念 | 该白皮书是英格兰确立自我改进学校系统治理[[Paradigm\|范式]]的法定大宪章，四项准则即出自本政策。 |
 > | [[Evidence Era]] | 概念 | 该白皮书标志着英格兰教育治理从测量时代跨入证据时代的历史分水岭。 |
 > | [[Rationalized Myth]] | 概念 | 白皮书将学术引文与国际借用作为主导性的制度合理化神话以获取外部合法性。 |
-> | [[Policy-Based Evidence-Making]] | 概念 | 白皮书开启的证据话语在实践中异化为迎合政治适宜性预期的逆向证据生产模式。 |
+> | [[Policy-Based Evidence-Making]] | 概念 | 白皮书开启的证据[[Discourse\|话语]]在实践中异化为迎合政治适宜性预期的逆向证据生产模式。 |
 > | [[Teaching Schools]] | 政策／机构 | 白皮书确立的核心横向互助组织平台，统筹教师职前培养、在职发展与科研转化。 |
 > | [[Academy Programme in England]] | 政策 | 与白皮书协同推进的办学体制改革，打破地方教育局垄断并组建多学院联合信托（MATs）。 |
 > | [[Research-Engaged School]] | 概念 | 白皮书第三项核心准则所追求的理想微观组织形态，强调学校具备深度使用研究证据的能力与意愿。 |

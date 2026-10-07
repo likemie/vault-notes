@@ -6,7 +6,7 @@ aliases:
 summary: "大众媒体与公共舆论在极力夸大教育危机的同时，系统性回避对执政者推出的激进改革方案、因果机制与实证证据展开实质审视的媒介异化现象"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -17,6 +17,7 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Chain of Evidence]]"
+  - "[[Discourse]]"
   - "[[Moral Sidestep]]"
   - "[[Policy Borrowing]]"
   - "[[Transfer Translation Transformation]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 # Policy Avoidance
@@ -56,7 +57,7 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> 政策规避（Policy Avoidance）指大众新闻媒体在深度介入教育政策传播与危机建构过程中，将绝大部分版面与受众注意力狂热倾注于炒作抽象的质量危机、排列表落后与政治替罪羊，却对执政精英趁机推出的具体激进改革方案、操作机制及其背后的实证[[Chain of Evidence\|证据链]]条表现出系统性脱敏、冷漠与避而不谈的话语异化现象（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）。在政策规避机制下，争议性政策并非因获得社会广泛认同而落地，而是因未受到任何实质性追问与专业核查而在舆论真空中被“默认强化”（Reinforced by default）。
+> 政策规避（Policy Avoidance）指大众新闻媒体在深度介入教育政策传播与危机建构过程中，将绝大部分版面与受众注意力狂热倾注于炒作抽象的质量危机、排列表落后与政治替罪羊，却对执政精英趁机推出的具体激进改革方案、操作机制及其背后的实证[[Chain of Evidence\|证据链]]条表现出系统性脱敏、冷漠与避而不谈的[[Discourse|话语]]异化现象（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）。在政策规避机制下，争议性政策并非因获得社会广泛认同而落地，而是因未受到任何实质性追问与专业核查而在舆论真空中被“默认强化”（Reinforced by default）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向新闻媒体在面对复杂公共政策时出现的审议断裂：聚焦危机、逃避方案；聚焦口水战、逃避因果实证。
@@ -104,7 +105,7 @@ updated: 2026-09-18
 ### 命题一　政策规避机制使得缺乏实证支持的激进争议政策在舆论真空中获得默认通过
 
 > [!concept-lens] 媒体沉默对行政专断的合法化护航
-> 探讨大众传媒在面对权力话语时，如何通过对方案细节的集体回避，反向赋权执政精英强推争议性法案。
+> 探讨大众传媒在面对权力[[Discourse|话语]]时，如何通过对方案细节的集体回避，反向赋权执政精英强推争议性法案。
 
 > [!claim] Grey & Morris
 > **默认许可与争议政策通关** 在英国 2013 年应对 [[PISA]] 的过程中，教育大臣[[Michael Gove\|戈夫]]借危机宣布了包括强制学院化、[[Performance Pay\|绩效工资]]制在内的五大改革支柱；主流媒体在接下来的报道周期中，几乎没有任何一家对这些支柱是否具有实证支持展开追查，也没有揭露其政策取向与 [[OECD]] 倡导建议之间的南辕北辙；媒体的政策规避使得这一套原本在教育界饱受争议的新自由主义重组方案，在公众舆论中如同未经审议的既成事实一般顺利确立。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 124–125)]]

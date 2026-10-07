@@ -12,9 +12,9 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "Singapore Economic Development Board; Ministry of Trade and Industry; Ministry of Education"
 tags:
@@ -26,6 +26,7 @@ tags:
 - theme/development
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Discourse]]"
   - "[[Cultural Diplomacy]]"
   - "[[Soft Power]]"
   - "[[International Education Hubs]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-10-07
 ---
 
 # Singapore Education Hub Policy
@@ -50,7 +51,7 @@ updated: 2026-05-19
 > [!info]
 > 新加坡的教育枢纽政策根植于冷战结束后的地缘经济重组。1990 年代初市场资本主义在全球范围的扩张——特别是前共产主义国家开始改革其生产、贸易和消费模式——为全球私营部门创造了巨大商机。新加坡作为前英国殖民地，地理位置邻近前"共产主义世界"，其政治领导层意识到：如果能在区域内众多港口中脱颖而出，成为西方资本和公司进入亚洲市场的**区域门户（hub）**，将获得巨大的经济利益([[Argument_Erfurth_2022_education-hubs\|Erfurth, 2022, pp.206–207]])。
 
-与此同时，发展经济学中的[[Knowledge-Based Economy|知识经济]]话语正处于上升期——知识、创新和高等教育被重新定位为经济增长的核心驱动力。新加坡将这一话语与自身的地缘经济定位相结合，产生了"通过高等教育和研究的聚集来推动发展"的战略构想。新加坡不是追求更具包容性的社会政治制度，而是集中发展"知识制度（大学、公共研究机构和企业实验室）"（Koh, 2006, p.144, cited in [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.200]]）。
+与此同时，发展经济学中的[[Knowledge-Based Economy|知识经济]][[Discourse|话语]]正处于上升期——知识、创新和高等教育被重新定位为经济增长的核心驱动力。新加坡将这一话语与自身的地缘经济定位相结合，产生了"通过高等教育和研究的聚集来推动发展"的战略构想。新加坡不是追求更具包容性的社会政治制度，而是集中发展"知识制度（大学、公共研究机构和企业实验室）"（Koh, 2006, p.144, cited in [[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, p.200]]）。
 
 ---
 
@@ -132,7 +133,7 @@ updated: 2026-05-19
 > [!tip]-
 - [[International Education Hubs]] — 新加坡是 IEH 的典型和先驱案例，其"东方波士顿"+"全球校园"的双阶段模式为 Knight 的三类型学提供了实证注脚
 - [[Hub and Flow Imaginaries]] — "东方波士顿"是 Hub and [[Flow]] 想象在国家政策层面的教科书级运作
-- [[Knowledge-Based Economy]] — KBE 话语为新加坡教育枢纽提供了全部合法性框架
+- [[Knowledge-Based Economy]] — KBE [[Discourse|话语]]为新加坡教育枢纽提供了全部合法性框架
 
 ---
 

@@ -8,7 +8,7 @@ aliases:
 summary: "Bernstein（2001）提出的概念，指教育关系从学校扩展到整个社会的社会形态，Cowen 视其为分析 21 世纪教育变迁的关键理论资源"
 type: concept
 domain: "sociology-of-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Lifelong Learning]]"
+  - "[[Discourse]]"
   - "[[Champ]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Scientism]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Totally Pedagogised Society
@@ -68,7 +69,7 @@ updated: 2026-09-22
 > [!contrast-table] 核心概念辨析
 > | 维度 | 全盘教育化社会 (Totally Pedagogised Society) | [[Lifelong Learning\|终身学习]] (Lifelong Learning) | 教育化 (Pedagogization) |
 > |------|-------------------|-------------------|-------------------|
-> | **性质定位** | 批判社会学关于社会控制的结构形态学诊断。(p. 336) | 超国家机构极力推广的规范性政策话语与治理修辞。 | 描述教育逻辑向非教育领域扩张的过程性概念。 |
+> | **性质定位** | 批判社会学关于社会控制的结构形态学诊断。(p. 336) | 超国家机构极力推广的规范性政策[[Discourse\|话语]]与治理修辞。 | 描述教育逻辑向非教育领域扩张的过程性概念。 |
 > | **分析焦点** | **结构控制** 关注教学与评价关系如何泛化为不可逃脱的社会基础。(p. 336) | **个体责任** 强调个人在经济变迁中必须不断自我重塑与[[Human Capital Theory\|人力资本]]更新。 | **领域渗透** 关注司法、医疗、企业管理等社会系统被包装成“学习[[Champ\|场域]]”。 |
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-09-22
 
 > [!theory-components] 全盘教育化社会的核心要素
 > - **涂尔干式社会基础（Durkheimian Social Base）**
->   该概念并非简单的政策话语或意识形态宣传，而是扎根于对 21 世纪社会结构转型与劳动分工变迁的涂尔干式社会学透视。它关注的是何种社会基础系统性地催生了传统学校围墙之外的教学关系。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 336]])
+>   该概念并非简单的政策[[Discourse|话语]]或意识形态宣传，而是扎根于对 21 世纪社会结构转型与劳动分工变迁的涂尔干式社会学透视。它关注的是何种社会基础系统性地催生了传统学校围墙之外的教学关系。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 336]])
 > - **教育关系的去边界化弥散（Dispersion of Pedagogic Relations）**
 >   传统的教学与评估关系历史上被局限在学校和大学系统内，由教师和学校代理人实施。而在全盘教育化社会中，这些关系被无缝编织进家庭、职场、社交网络和日常算法中，使人人成为受训者，处处成为评估点。(p. 336)
 > - **从“新闻用语”向“连贯理论”的转变（Theoretical Coherence）**

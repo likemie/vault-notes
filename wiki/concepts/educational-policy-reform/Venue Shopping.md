@@ -8,7 +8,7 @@ aliases:
 summary: "断裂平衡理论中政策企业家用于打破制度垄断的关键策略，指行动者在原有决策体制因既得利益阻碍陷入僵局时，策略性搜寻并转向对自身政策理念更为友好的替代性制度场所（如联邦法院、行政委员会、州际横向组织或私人慈善网络），通过转移博弈主场以重构政策形象并实现合法化破局。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Policy Image]]"
   - "[[Policy Entrepreneur]]"
   - "[[Competitiveness]]"
+  - "[[Discourse]]"
   - "[[Champ]]"
 related_theories:
   - "[[Punctuated Equilibrium Theory]]"
@@ -106,7 +107,7 @@ updated: 2026-10-07
 
 ### 命题二　场所转换必须伴随政策形象的重新表征才能形成合法性闭合
 
-> [!concept-lens] 场所与话语的协同机制
+> [!concept-lens] 场所与[[Discourse|话语]]的协同机制
 > 光换场地并不足以确保成功，新场地必须配套新证据与新话语，以适应新受众的合法性要求。
 
 > [!claim] McDonnell, L. M. & Weatherford, M. S.

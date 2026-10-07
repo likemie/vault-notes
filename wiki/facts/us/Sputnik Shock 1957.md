@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 41
+fact_related_count: 42
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Progressive Education]]"
   - "[[Normal School]]"
   - "[[STEM Education]]"
+  - "[[Discourse]]"
   - "[[Competitiveness]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Development Turn in Comparative Education]]"
@@ -145,7 +146,7 @@ updated: 2026-10-07
 > |:---|:---|:---|
 > | **核心诉求** | 组建直属联邦的高风险科研先锋队（[[DARPA]]）；强化科学、技术、工程与数学（[[STEM Education\|STEM]]）教育与尖端人才选拔 | 维系地方社区学区自治；促进儿童个性全面发展与民主公民生活融入 |
 > | **治理工具** | 联邦直属特许机构、同行专家自由裁量资助、[[National Defense Education Act of 1958\|NDEA]] 定向拨款、结构化教材 | 地方学区自筹经费、综合性生活技能课程、非竞争性发展评价 |
-> | **合法化话语** | 冷战技术霸权维护、防止地缘突袭与经济长期[[Competitiveness\|竞争力]] | 宪法公共福利保障、教育公平与个体自由发展 |
+> | **合法化[[Discourse\|话语]]** | 冷战技术霸权维护、防止地缘突袭与经济长期[[Competitiveness\|竞争力]] | 宪法公共福利保障、教育公平与个体自由发展 |
 >
 > **关键分歧** 国家的科学技术与教育系统究竟应当作为服务于大国地缘博弈与尖端技术突袭的“国家创新武器”，还是作为保障公民人格完整与地方自治的“社会公共福利”。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1134)]]
 
@@ -184,7 +185,7 @@ updated: 2026-10-07
 > > - **[[Argument_Amos_2022_Springer|Amos (2022, p. 56)]] 与 [[Argument_Fuchs_2010_RP|Fuchs (2010, p. 1134)]]** 指出：国家对前沿科技与教育的全面工具化动员并非 1990 年代新自由主义的产物，其制度根基早在 1957 年斯普特尼克危机所触发的 [[DARPA|ARPA]] 创立与《[[National Defense Education Act of 1958|国防教育法]]》颁布中即已固化，并在当代通过“[[Vergegenkunft]] 效应”持续主导着[[National Innovation System|国家创新体系]]。
 > > - **传统断代史学** 倾向将当代教育问责制、绩效量化与产学研军工联合体完全归咎于撒切尔—里根时期的私有化浪潮，忽视了 1950 年代军备科技竞赛构建的制度底座。
 >
-> > [!axis] 真实的科技教育危机 vs 精英操纵的话语建构
+> > [!axis] 真实的科技教育危机 vs 精英操纵的[[Discourse|话语]]建构
 > > 围绕斯普特尼克危机是反映了美国真实的科技与教育落后，还是被国防科研精英与国际组织策略性利用的政策动员修辞展开辩论。
 > >
 > > - **[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024, pp. 540–542)]]** 认为：斯普特尼克危机开创了“通过周期性危机叙事为国际技术官僚与联邦官僚拓展[[Policy Brokerage|政策中介]]权力与预算空间”的标准范式，危机话语往往远超实际科技差距本身。

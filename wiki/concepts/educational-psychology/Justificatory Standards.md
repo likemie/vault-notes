@@ -7,7 +7,7 @@ aliases:
 summary: "在认识论认知模型中，个体或共同体在评价知识主张、证据可信度与理论解释时所依据的细粒度准则，涵盖个体认知试探法与共同体社会协商的实践规范。"
 type: concept
 domain: "educational-psychology"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Reliable Epistemic Processes]]"
   - "[[Trust Calibration]]"
+  - "[[Discourse]]"
   - "[[Evidence Standards]]"
   - "[[Domain Specificity]]"
   - "[[Academic Achievement]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Justificatory Standards
@@ -106,7 +107,7 @@ updated: 2026-09-22
 > - **实证确证标准（Evidential Standards）** 涉及如何利用经验材料与实验数据确证信念，如要求全域证据契合、无重大反例、推论直接性以及大规模多源收敛印证。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, pp. 154–155)]]; [[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 209–211)]]
 > - **非实证确证标准（Nonevidential Standards）** 涉及理论美学与形式逻辑的要求，包括[[Internal Consistency\|内部一致性]]（internal consistency）、解释简洁性（simplicity）、模型优雅性以及启发未来研究的能力（fruitfulness）。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, p. 155)]]
 > - **证词与权威确证标准（Testimonial Standards）** 评估他人报告与专家证词的细粒度理由，区分盲目盲信与基于科学共同体同行评议、方法透明度及利益冲突审查的理性校准信任（[[Trust Calibration|Calibrated Trust]]）。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, pp. 151–153)]]
-> - **动态情境敏感性与社会协商（Situational Sensitivity & Social Negotiation）** 确证标准随任务情境动态调整，并在课堂话语互动流中由师生共同体持续辩驳协商而成。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 471)]]
+> - **动态情境敏感性与社会协商（Situational Sensitivity & Social Negotiation）** 确证标准随任务情境动态调整，并在课堂[[Discourse|话语]]互动流中由师生共同体持续辩驳协商而成。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 471)]]
 
 > [!logic-map]- 双重视角下确证标准的构成与运作机制
 > ```mermaid
@@ -164,7 +165,7 @@ updated: 2026-09-22
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **微观机制论** | 细粒度确证标准直接决定信息甄别与争议裁决机制 | 文本冲突加工、伪科学识别、自陈测量修正 | Chinn et al. |
-> | **情境协商论** | 确证标准高度情境敏感并在共同体话语中动态建构 | 课堂[[Discourse Analysis\|话语分析]]、小组探究实践与学科文化习得 | Sandoval et al. |
+> | **情境协商论** | 确证标准高度情境敏感并在共同体[[Discourse\|话语]]中动态建构 | 课堂[[Discourse Analysis\|话语分析]]、小组探究实践与学科文化习得 | Sandoval et al. |
 > | **论证操作论** | 确证标准操作化为[[Epistemology\|认识论]]理想，引领论证评价转向实质 | 科学论证教学与评价、[[Causal Modeling\|因果建模]]与证据裁决 | Duncan & Chinn |
 
 ---
@@ -186,7 +187,7 @@ updated: 2026-09-22
 >
 > > [!axis] 方法论推论危机：如何准确捕捉缄默的确证标准？
 > > - **自陈量表法** 试图要求受试者将缄默的（tacit）确证标准强行显性化，常测出社会赞许的“理想口号”，[[Construct Validity\|构念效度]]严重受损。
-> > - **[[Discourse Analysis\|话语分析]]法** 通过课堂互动话语流观察被执行的规范，但面临从外在行为推断隐性心智标准的推论危机（inference problem），呼唤质性话语与认知建模的混合测量。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
+> > - **[[Discourse Analysis\|话语分析]]法** 通过课堂互动[[Discourse|话语]]流观察被执行的规范，但面临从外在行为推断隐性心智标准的推论危机（inference problem），呼唤质性话语与认知建模的混合测量。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
 
 > [!warning] 适用局限与迁移挑战
 > - **学科专业[[Disciplina and Doctrina\|规训]]与公民日常生活语境的脱节** 当前研究主要考察学生在高度[[Scaffolding\|脚手架]]化的学科环境（如实验室模拟）中表现出的专业确证标准。然而，当这些标准进入信息过载、虚假新闻与利益操纵并存的日常“公民生活（civic life）”时，学习者往往面临迁移断层。如何在[[Citizen Science\|公民科学]]教育中培养兼具专业审慎与日常可用性的校准确证标准，仍是重大未决课题。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]

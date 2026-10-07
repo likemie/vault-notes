@@ -9,7 +9,7 @@ aliases:
 summary: "Toulmin 提出的领域依赖论证结构模型，将论证拆解为主张、数据、保证、支撑、限定词与反驳六个部件；当代科学教育批判其纯句法结构无法甄别披着规范外衣的伪科学论证。"
 type: theory
 theory_field: "argumentation-and-logic"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Champ]]"
+  - "[[Discourse]]"
   - "[[Operationalization]]"
   - "[[Epistemic Ideals]]"
   - "[[Theory of Knowledge]]"
@@ -41,7 +42,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-07-05
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Toulmin's Argumentation Model
@@ -108,7 +109,7 @@ updated: 2026-09-17
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 论证是发生在社会情境中的言语与交往行为，而非真空中的抽象形式推演。
 > - **[[Epistemology\|认识论]]** 论证的辩护力具有领域依赖性（[[Champ\|field]]-dependency）——科学论证依托实证与理论，法学依托法条判例，历史学依托史料互证。
-> - **方法含义** 将口头话语或书面文本切分为主张、数据、保证、支撑、反驳等句法功能单元。
+> - **方法含义** 将口头[[Discourse|话语]]或书面文本切分为主张、数据、保证、支撑、反驳等句法功能单元。
 > - **不能直接推出的东西** 构件的完备性不能直接推出结论的科学真理性与经验可[[Reliability\|信度]]。模型只刻画形式句法构造，不提供检验保证与数据实质真伪的认识论准则。
 
 > [!theory-use] 如何用于研究

@@ -8,7 +8,7 @@ aliases:
 summary: "以多元行动者横向协作、关系协调与异层结构替代垂直科层或纯粹市场的公共治理方式；在批判教育政策与演化科技政策中揭示国家并未空心化退场，而是表现为积极特许赋权、资助中介并缔造市场的异层担保人，以及通过去中心化探索网络引领使命导向创新的催化者。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 68
+related_count: 69
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Public-Private Partnership in Research]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Strategic Autonomy]]"
+  - "[[Discourse]]"
   - "[[Social Impact Investing]]"
   - "[[Assemblage]]"
   - "[[Deductible Gift Recipient]]"
@@ -151,7 +152,7 @@ updated: 2026-10-07
 > - **多元行动者互赖与公私跨界结盟（Interdependence & Multi-Actor Alliances）** 政策不再由单一政府行政部门闭门垄断，而是由跨国金融资本、商业战略咨询顾问、本土慈善信托、学术智库与公共官僚共同构筑治理同盟，各方在资金、专业信誉与法定资质上形成深度互赖。[[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. viii]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 524]]
 > - **国家演进为异层市场缔造者与经纪人（The State as Heterarchical Market-Maker & Broker）** 国家并未退场或被空心化，而是转型为“市场缔造者”（Market-maker）与“元治理者”（Meta-governor）；国家主动运用立法修正案与公共财政定向注资，积极孵化并扶持私营中介组织承接公共职能。[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 522–523]]
 > - **去中心化探索网络与[[Public Dynamic Capabilities|公共动态能力]]（Decentralized Exploratory Networks & Dynamic Capabilities）** 在科技创新与产业攻坚领域，网络治理展现为类似 [[DARPA]] 的去中心化探索网络，通过赋予项目经理高度[[Strategic Autonomy|战略自主]]权与组合容错空间，引领公私主体共同攻关。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
-> - **治理话语转型：从国家直接供给到国家补贴与[[Social Impact Investing|社会投资]]（Discursive Shift: State Provision to Social Investment）** 政策话语发生根本性重构，从战后普遍性的“国家资助与提供”转向强调“纳税人可负担能力限制”下的“国家补贴”、“战略投资”与“社会投资”，为私营资本在公立体系中索取决策权和财产权提供了伦理合法性。[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 7–8]]
+> - **治理[[Discourse|话语]]转型：从国家直接供给到国家补贴与[[Social Impact Investing|社会投资]]（Discursive Shift: State Provision to Social Investment）** 政策话语发生根本性重构，从战后普遍性的“国家资助与提供”转向强调“纳税人可负担能力限制”下的“国家补贴”、“战略投资”与“社会投资”，为私营资本在公立体系中索取决策权和财产权提供了伦理合法性。[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 7–8]]
 > - **耐用客体、契约外包与公私伙伴关系[[Assemblage|装配]]（Contractual Outsourcing & [[Public-Private Partnership in Research|PPP]] Assemblage）** 治理协调高度依托实体化的“耐用客体”——包括公私合作伙伴关系（PPP）特许经营合同、非营利担保有限公司注册底座，以及法定免税资格（如澳大利亚 [[Deductible Gift Recipient|DGR1]] 资质），使商业资本得以在免受公法直接问责的缝隙中运作。[[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. vi]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 523]]
 > - **量规统摄与“通过指标的治理”（Governance by Indicators & Performance Metrics）** 网络治理摒弃了繁文缛节的行政微观干预，转而依靠量化[[Performance Indicators|绩效指标]]、实证证据工具箱与质量基准进行远程控制（[[Governing at a Distance]]），将公私多元主体的注意力锁定在可审计的技术成果之上。[[Argument_Rambla_2022_Springer|Rambla, 2022, pp. 174–175]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 531]]
 
@@ -231,7 +232,7 @@ updated: 2026-10-07
 > 揭露网络治理如果沦为对私人咨询寡头的被动依赖，将造成严重的国家去能力化与公共决策黑箱。
 
 > [!claim] O'Neill et al., Rowe & Mazzucato
-> **公司法外壳与商业外包造成的民主赤字与能力空心化** 约翰·奥尼尔与埃玛·罗威等学者指出，当网络治理被新自由主义[[New Public Management|新公共管理]]话语主导时，中介组织往往依据《公司法》注册为独立担保有限公司，借此规避公法所要求的政府信息公开义务；多重兼职高管在闭门董事会中内定公共议程，造成了严重的民主问责赤字。马祖卡托进一步警示，若政府将核心战略分析与技术评估全盘外包给商业咨询公司，将从内部抽空公共行政团队的专业动态能力，使国家沦为被咨询巨头和游说利益俘获的被动提款机。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xv)]]; [[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 530–533)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
+> **公司法外壳与商业外包造成的民主赤字与能力空心化** 约翰·奥尼尔与埃玛·罗威等学者指出，当网络治理被新自由主义[[New Public Management|新公共管理]][[Discourse|话语]]主导时，中介组织往往依据《公司法》注册为独立担保有限公司，借此规避公法所要求的政府信息公开义务；多重兼职高管在闭门董事会中内定公共议程，造成了严重的民主问责赤字。马祖卡托进一步警示，若政府将核心战略分析与技术评估全盘外包给商业咨询公司，将从内部抽空公共行政团队的专业动态能力，使国家沦为被咨询巨头和游说利益俘获的被动提款机。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xv)]]; [[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 530–533)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 
 ---
 
@@ -263,7 +264,7 @@ updated: 2026-10-07
 
 ### 一、新西兰：福利国家话语转型与公私化九大制度实例
 
-自 2008 年以来，新西兰国家党主导的政府大力推进网络治理模式，其核心伴随着深层的政策话语转型：从战后普遍性“国家资助与国家提供”（State funded and provided）全面转向仅谈论“政府补贴”（Subsidies）、“资本投资”（Investments）、“精准瞄准”（Targeting）和“[[Social Impact Investing|社会投资]]”（Social investment）。官方宣称普遍性供给已超出纳税公民的可负担能力，从而将私人资本在公共教育中的进入合法化，并默认私人投资者在政策决定上拥有道德与财产权利（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 7–8]]）。
+自 2008 年以来，新西兰国家党主导的政府大力推进网络治理模式，其核心伴随着深层的政策[[Discourse|话语]]转型：从战后普遍性“国家资助与国家提供”（State funded and provided）全面转向仅谈论“政府补贴”（Subsidies）、“资本投资”（Investments）、“精准瞄准”（Targeting）和“[[Social Impact Investing|社会投资]]”（Social investment）。官方宣称普遍性供给已超出纳税公民的可负担能力，从而将私人资本在公共教育中的进入合法化，并默认私人投资者在政策决定上拥有道德与财产权利（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 7–8]]）。
 
 > [!framework-table] 新西兰公立教育网络治理九大制度转型实例（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）
 > | 领域分类 | 制度项目名称 | 核心网络形态与公私运作机制 | 关键政策效果与治理变迁 |
@@ -350,6 +351,6 @@ updated: 2026-10-07
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 论述如何通过“去中心化探索型公共网络”（如 [[DARPA]]、[[ARPA-E]]）实现使命导向攻坚，并尖锐批判将核心智识外包给商业咨询公司所导致的国家去能力化风险。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 基于对 DARPA MTO 在 1992 至 2008 年间 4 项半导体关键技术资助的长程扎根[[Case Study|案例研究]]，首次提出[[Embedded Network Governance|嵌入型网络治理]][[Paradigm|范式]]，阐明公共代理人如何主动重塑研发社会网络以引导国家战略[[Technological Trajectories|技术轨道]]。
 > - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 结合 Gephi 网络拓扑与税法追踪，深入剖析澳大利亚[[Venture Philanthropy|风险慈善]]网络如何依托异层国家实践改写公共教育再分配。
-> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统检视新西兰基础教育向网络治理转型过程中，话语变迁与 9 大公私化改革实例。
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统检视新西兰基础教育向网络治理转型过程中，[[Discourse|话语]]变迁与 9 大公私化改革实例。
 > - [[Argument_Rambla_2022_Springer|Rambla (2022)]] — 基于欧盟 [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]实证解析欧洲大陆官僚科层与网络治理的复杂杂合形态与指标远程[[Disciplina and Doctrina|规训]]。
 > - [[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987)]] — 详尽记录[[United World Colleges|联合世界书院]]（UWC）如何依托多中心、分层网络治理协调跨国公私资源与学术自治。

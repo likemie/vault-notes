@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
   - formative-assessment
 related_concepts:
   - "[[Intelligent Tutoring Systems]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[STEM Education]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Direct Instruction]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Inq-Blotter
@@ -66,7 +67,7 @@ updated: 2026-09-22
 
 > [!program-context] 项目背景
 > - **研发周期** 2018 年完成原型算法架构与人机交互界面设计，2020 年代全面整合进 Inq-[[Intelligent Tutoring Systems\|ITS]] 云生态并在全美多州中小学规模化应用。
-> - **发起与资助方** 罗格斯大学认知与教育技术实验室联合 Apprendis 公司，获得[[National Science Foundation\|美国国家科学基金会]]（NSF）与[[Institute of Education Sciences\|教育科学研究院]]（IES）关于人机协同教育专项基金资助。
+> - **发起与资助方** 罗格斯大学认知与教育技术实验室联合 Apprendis 公司，获得[[National Science Foundation\|美国国家科学基金会]]（NSF）与[[Institute of Education Sciences\|教育科学研究院]]（IES）关于[[Man-Computer Symbiosis|人机协同]]教育专项基金资助。
 > - **覆盖对象** K-12 阶段科学与 [[STEM Education\|STEM]] 课堂任课教师，支持教师在配备平板电脑或笔记本的环境下对 30–40 名学生开展同步实时监控。
 > - **核心问题导向** [[Inquiry-Based Learning\|探究学习]]倡导以学生为中心，但常态班级中每位学生探究进度差异极大；教师往往只能在教室内盲目巡视，无法及时察觉那些表面端坐但在算法底层反复盲目试错、陷入认知困境的隐性受挫学生。（Gobert, Sao Pedro, & Betts, 2023）
 

@@ -5,7 +5,7 @@ aliases:
 summary: "中国学者马戎于 2004 年提出的一种理论主张，建议将宪法地位的政治民族（nationality）概念降格为文化层面的族群（ethnicity）概念，以消除少数民族的政治自决与自治诉求"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -13,6 +13,7 @@ tags:
   - sociology/ethnic-studies
   - region/china
 related_concepts:
+  - "[[Discourse]]"
   - "[[Second-generation Ethnic Policy]]"
   - "[[Zhonghua Minzu]]"
 related_theories: []
@@ -26,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-10-07
 ---
 
 # Depoliticalization of Ethnic Policy
@@ -39,7 +40,7 @@ updated: 2026-06-26
 > **民族政策去政治化**是由中国社会学家[[Ma Rong\|马戎]] (Ma Rong) 于 2004 年正式提出的一项学术与政策纲领。该理论主张将中国宪法和法理层面的“民族”（nationality，携带政治自治及潜在自决主权的建制概念）降格为文化和社会学层面的“族群”（ethnicity / zuqun，仅具有文化差异但无政治特权的社会群体）。通过对“民族”进行去政治化重构，旨在将民族自治问题转化为单纯的文化多样性问题，从而消除少数民族提出主权和宪法自治要求的政治合法性基础。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 101–103]])
 
 > [!concept-lens] 概念透镜
-> - **含义** 从话语层面拆除少数民族与国家主权分享的法理联结，将政治斗争转化为融合与平等公民权的命题。
+> - **含义** 从[[Discourse|话语]]层面拆除少数民族与国家主权分享的法理联结，将政治斗争转化为融合与平等公民权的命题。
 > - **用途** 解释中国政策界如何利用西方社会建构论话语，论证“拆除民族识别与民族自治制度”的科学性与合理性。
 > - **边界** 不等于对少数民族文化的彻底消灭，而是要求其退出政治舞台和法律制度，退缩为纯粹的私人生活风俗。
 
@@ -52,7 +53,7 @@ updated: 2026-06-26
 > |------|--------|----------------|----------------|
 > | **主要倡导者** | [[Ma Rong\|马戎]] (Ma Rong) | 胡鞍钢、胡联合等 | [[Fei Xiaotong\|费孝通]]、早期中共民族理论家 |
 > | **核心机制** | 将 political `minzu` 转化为 cultural `zuqun` | 废除自治地方、优惠与双语教学，推行熔炉同化 | 设立自治机关，确认 56 个民族的法定地位 |
-> | **政治定位** | 学术话语的重构与法理解构 | 国家行政与教育制度的强制性一体化 | 宪法保障下的多元共治与有限政治地位 |
+> | **政治定位** | 学术[[Discourse\|话语]]的重构与法理解构 | 国家行政与教育制度的强制性一体化 | 宪法保障下的多元共治与有限政治地位 |
 
 ---
 
@@ -69,7 +70,7 @@ updated: 2026-06-26
 
 ### 命题类型一：概念建构的双向政治挪用
 
-> [!concept-lens] 建构话语的反转机制
+> [!concept-lens] 建构[[Discourse|话语]]的反转机制
 > 该命题揭示了西方学术界用于反抗政治霸权的话语工具，是如何在中国学术界转换为支持国家同化权力的法理武器。
 
 > [!claim] Bulag, U. E. (乌拉迪恩·布拉格)

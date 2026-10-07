@@ -12,7 +12,7 @@ subtype: policy
 region: russia
 fact_region: "russia"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - "level/higher-education"
   - "region/russia"
 related_concepts:
+  - "[[Discourse]]"
   - "[[Academic Freedom]]"
   - "[[Scientific Autarky]]"
 related_theories: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-30'
-updated: '2026-06-30'
+updated: 2026-10-07
 ---
 
 # Federal Law No. 121-FZ on Foreign Agents
@@ -59,7 +60,7 @@ updated: '2026-06-30'
 
 > [!policy-design]- 政策设计
 > - **目标** 识别并限制受外部资金支持的境内政治和思想活动，防范国家安全威胁。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, p. 44]])
-> - **对象** 接受境外任何资助并从事政治、社会或学术话语游说的非商业机构、研究中心以及个人。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 44–45]])
+> - **对象** 接受境外任何资助并从事政治、社会或学术[[Discourse|话语]]游说的非商业机构、研究中心以及个人。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 44–45]])
 > - **工具** 强制性“外国代理人”标签、专门的财务与审计报告系统，以及前置行政许可备案。
 > - **约束方式** 强制性登记注册与刑事/行政处罚威慑。
 

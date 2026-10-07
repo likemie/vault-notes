@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge Production]]"
   - "[[Theoretical Perspective]]"
+  - "[[Discourse]]"
   - "[[Doxa]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
@@ -194,6 +195,6 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合戴尔等人[[Pluri-Scalar Governance|多标度治理]]模型，深刻揭示 WTO/[[GATS and Trade in Education Services|GATS]] 规则对民族[[State Educational Sovereignty|国家教育主权]]的冲击以及中心大国与边缘小国之间的不对称自主权鸿沟（pp. 110–111）。
-> - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 系统阐明 WTO 与 GATS 框架如何将高等教育重塑为可交易商品，分析其话语效应如何将新自由主义教育议程制度化为全球[[Doxa|不言自明]]的共识（pp. 97–98）。
+> - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 系统阐明 WTO 与 GATS 框架如何将高等教育重塑为可交易商品，分析其[[Discourse|话语]]效应如何将新自由主义教育议程制度化为全球[[Doxa|不言自明]]的共识（pp. 97–98）。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 考察美欧芯片产业政策与地缘政治转变，揭示 2019 年前欧盟对 WTO 多边贸易解决方案的依赖如何被中美大国补贴竞赛击溃，最终倒逼欧洲突破多边框架转向产业政策干预（p. 8）。
 

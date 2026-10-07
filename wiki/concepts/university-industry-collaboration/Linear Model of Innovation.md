@@ -6,7 +6,7 @@ aliases:
 summary: "一种预设从基础科学到技术开发再到经济增长单向因果链的概念模型；战后主导科技政策资源配置，后因忽视反馈机制、轻视工程发明的前提使能地位以及导致本土制造脱节而遭受系统性批判。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -15,6 +15,7 @@ tags:
   - theme/science-policy
   - theme/research-policy
 related_concepts:
+  - "[[Discourse]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Epistemology]]"
   - "[[Big Science]]"
@@ -74,7 +75,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 线性创新模型（Linear Model of Innovation）是一种预设创新过程遵循从基础科学、应用研究、技术开发到市场商业化单向因果链条的概念模型。其基本公式为：基础研究 → 应用研究 → 技术开发 → 商业生产 → 经济社会福祉。[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》等战后政策话语将其确立为全球科技资源配置的主导理论依据，假定公共财政对基础科学的投入是产业创新与经济增长的充分且[[Necessary and Sufficient Conditions|必要条件]]，将基础科学置于创新价值链的绝对主导地位；随后受到创新研究界与科学技术史学家的系统性质疑。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862–863)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–7)]]
+> 线性创新模型（Linear Model of Innovation）是一种预设创新过程遵循从基础科学、应用研究、技术开发到市场商业化单向因果链条的概念模型。其基本公式为：基础研究 → 应用研究 → 技术开发 → 商业生产 → 经济社会福祉。[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》等战后政策[[Discourse|话语]]将其确立为全球科技资源配置的主导理论依据，假定公共财政对基础科学的投入是产业创新与经济增长的充分且[[Necessary and Sufficient Conditions|必要条件]]，将基础科学置于创新价值链的绝对主导地位；随后受到创新研究界与科学技术史学家的系统性质疑。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862–863)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–7)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种单向、自上而下、由科学单向推导技术的创新[[Epistemology|认识论假设]]。

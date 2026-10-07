@@ -10,7 +10,7 @@ title: "Argument_Schaffar_2024_CogentEdu"
 argument_key: "Argument_Schaffar_2024_CogentEdu"
 argument_display_title: "Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Discourse]]"
   - "[[Open-Mindedness]]"
   - "[[Dialogue in Education]]"
   - "[[Epochal Key Problems]]"
@@ -83,7 +84,7 @@ updated: 2026-06-22
 > PhBL 深深植根于欧陆的[[Phenomenology\|现象学]]、[[Bildung\|教化]]（Bildung）和教学论（[[Didaktik]]）哲学传统，以及近代[[Pragmatic Paradigm\|实用主义]][[Constructivist Paradigm\|建构主义]]（[[Pragmatic Constructivism]]）心理学。其真正的教育价值在于培养学生合作面对复杂全球性挑战的整体性能力。然而，当 PhBL 被纳入芬兰课程政策时，被迫向强调标准化测量、问责制和技能原子化（Atomisation of Skills）的全球经济竞争逻辑妥协，面临被碎片化和工具化的风险。(pp.2, 8–10)
 
 > [!concept-lens]- 阅读透镜
-> - **对象** 芬兰基础教育国家核心课程中的 PhBL 政策话语、背后的教育思想史脉络，以及赫尔辛基大学的 SveaSus 教学实验案例 (pp.1–3)
+> - **对象** 芬兰基础教育国家核心课程中的 PhBL 政策[[Discourse|话语]]、背后的教育思想史脉络，以及赫尔辛基大学的 SveaSus 教学实验案例 (pp.1–3)
 > - **张力** [[Phenomenology\|现象学]]与[[Bildung\|教化]]传统主张的生活世界体验整体性、[[Open-Mindedness|开放性]]和内在价值，与新自由主义全球治理下以经济和测量为导向的技能拆分及绩效问责之间的冲突 (pp.9–10)
 > - **贡献** 澄清了国际社会对芬兰取消学科的普遍误读，从概念考古学和知识社会学视角揭示了 PhBL 课程化背后的新自由主义悖论，为理解跨学科课程改革的政策风险提供了[[Analytic Framework\|分析框架]] (pp.2, 9–11)
 
@@ -206,7 +207,7 @@ updated: 2026-06-22
 > 在21世纪前后的全球化语境中，PhBL 被正式写入芬兰国家课程标准，这一过程深受 [[OECD]]、欧盟等国际组织软治理（Soft governance）的影响，旨在提高芬兰在国际经济中的竞争优势。(pp.8–9)
 
 > [!chain-link] 政策吸纳逻辑链
-> - **1990年代经济危机与[[Nordic Model of Education\|北欧模式]]的冲击** 苏联解体后芬兰遭遇严重经济衰退，政策制定者急于将国家转型为信息社会（Information society）。面对传统[[Nordic Model of Education\|北欧教育模式]]的危机，他们积极响应 OECD 以市场劳动力需求为导向的政策话语。(p.8)
+> - **1990年代经济危机与[[Nordic Model of Education\|北欧模式]]的冲击** 苏联解体后芬兰遭遇严重经济衰退，政策制定者急于将国家转型为信息社会（Information society）。面对传统[[Nordic Model of Education\|北欧教育模式]]的危机，他们积极响应 OECD 以市场劳动力需求为导向的政策[[Discourse|话语]]。(p.8)
 > - **[[PISA]] 夺冠与最佳模型的维持焦虑** 芬兰在 OECD 的 PISA 测试中意外名列前茅，成为[[International Education\|国际教育]]效仿的对象。这种最佳（Top model）地位催生了通过持续改革维持领先优势、避免落后于竞争对手的政策话语。(pp.8–9)
 > - **国际技能标准的课程转化** 在此背景下，PhBL 的课程化被表述为对 OECD [[21st Century Skills and Competencies Discourse\|21世纪技能]]（21st century skills）和欧盟横向能力（Transversal competencies）政策的直接回应。(p.9)
 

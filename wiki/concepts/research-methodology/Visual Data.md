@@ -9,10 +9,10 @@ aliases:
 summary: "教育研究中以图像形态存在、可供研究者观看与解读的数据类型，涵盖照片、影片、录像、器物、图画等；视觉数据是层层意义包裹的呈现，由生产、图像与受众三重维度共同建构"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/research-methodology
   - theme/visual-research
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Artefact]]"
   - "[[Research Utilization]]"
+  - "[[Discourse]]"
   - "[[Epistemology]]"
   - "[[Document]]"
   - "[[Reliability]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-05
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Visual Data
@@ -75,7 +76,7 @@ updated: 2026-09-17
 >   受众是图像的基本特征，受众以自身价值观、传记、文化与背景去观看和阅读图像，同一图像因此存在多重解读。
 
 > [!warning] 视觉数据的选择性
-> 图像虽然能记录镜头前的真实，但图像制作者已经决定纳入或排除什么、聚焦何处、镜头指向哪里（Becker, 1986; Denzin, 1989）。图像是时间绑定的，捕捉的是特定瞬间。因此更稳妥的做法是把视觉图像视为在讲述一个故事（a discourse），而非呈现单一客观现实；伴随图像的说明文字同样是选择性的叙事。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, 27.1)]]
+> 图像虽然能记录镜头前的真实，但图像制作者已经决定纳入或排除什么、聚焦何处、镜头指向哪里（Becker, 1986; Denzin, 1989）。图像是时间绑定的，捕捉的是特定瞬间。因此更稳妥的做法是把视觉图像视为在讲述一个故事（a [[Discourse]]），而非呈现单一客观现实；伴随图像的说明文字同样是选择性的叙事。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, 27.1)]]
 
 > [!warning] 数据过载与[[Triangulation\|三角互证]]
 > 单幅图像或单个录像序列贮存大量信息，从而带来数据过载、选择性与可管理性问题。视觉数据很少独立成局，通常作为[[Triangulation\|三角互证]]数据中的一种元素，与其他文字、听觉、口头与观察数据并列使用。
@@ -89,7 +90,7 @@ updated: 2026-09-17
 > **视觉图像绝不是无辜的** 视觉图像包裹着层层意义与诠释，作为现实的呈现被观看者解读。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, 27.1)]]
 
 > [!claim] Cohen, Manion & Morrison（2011）
-> **把图像视为话语而非客观现实** 鉴于图像的选择性与时间绑定性质，更稳妥的做法是把视觉图像视为在讲述一个故事（一种话语），而不是单一客观现实。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, 27.1)]]
+> **把图像视为[[Discourse|话语]]而非客观现实** 鉴于图像的选择性与时间绑定性质，更稳妥的做法是把视觉图像视为在讲述一个故事（一种话语），而不是单一客观现实。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, 27.1)]]
 
 ## 概念辨析
 

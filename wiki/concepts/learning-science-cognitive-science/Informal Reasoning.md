@@ -2,7 +2,7 @@
 summary: "非形式推理（Informal Reasoning）是指在面对开放、复杂、结构不良（ill-structured）且缺乏唯一标准算法的现实争议性问题时，个体基于不完全信息综合调动经验证据、逻辑论证、伦理关怀与价值权衡进行因果推论、多角度权衡与反驳辩护的认知过程。作为社会科学议题（SSI）与公民科学素养的核心支撑，非形式推理揭示了日常与科学决策中证据评估与价值审议的动态交互机制。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Paradigm]]"
   - "[[Practical Epistemology]]"
+  - "[[Discourse]]"
 related_theories: []
 related_methods:
   - "[[Coding in Qualitative Research]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 # Informal Reasoning
 
@@ -138,7 +139,7 @@ updated: 2026-09-22
 > [!dev-timeline] 概念演变
 > - **1980s — 认知心理学转向** Voss 等人将非形式推理从传统形式逻辑学中独立出来，开辟了对社会科学与复杂现实[[Problem Solving\|问题解决]]机制的认知研究。
 > - **2000s — 科学教育领域[[Paradigm\|范式]]确立** Sadler 与 Zeidler 将非形式推理引入科学教育，系统建立了基于[[Socioscientific Issues\|社会科学议题]]（SSI）的推理模式[[Coding in Qualitative Research\|编码]]体系与实证测量工具。
-> - **2010s 至今 — [[Practical Epistemology\|实践认识论]]与公民审议融合** Kelly & Licona 等人将非形式推理融入微观话语协商与[[Epistemic Practices\|认识论实践]]框架，确立其作为公共[[Scientific Literacy\|科学素养]]核心支柱的学术地位。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 154–157)]]
+> - **2010s 至今 — [[Practical Epistemology\|实践认识论]]与公民审议融合** Kelly & Licona 等人将非形式推理融入微观[[Discourse|话语]]协商与[[Epistemic Practices\|认识论实践]]框架，确立其作为公共[[Scientific Literacy\|科学素养]]核心支柱的学术地位。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 154–157)]]
 
 ---
 

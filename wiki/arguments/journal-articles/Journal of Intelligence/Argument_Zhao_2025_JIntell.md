@@ -29,7 +29,7 @@ title: "Argument_Zhao_2025_JIntell"
 argument_key: "Argument_Zhao_2025_JIntell"
 argument_display_title: "Does Generative Artificial Intelligence Improve Students' Higher-Order Thinking? A Meta-Analysis Based on 29 Experiments and Quasi-Experiments"
 argument_kind: "journal-article"
-argument_related_count: 62
+argument_related_count: 63
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Document]]"
   - "[[Working Memory]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Zone of Proximal Development]]"
   - "[[Metacognition]]"
   - "[[Dialogue in Education]]"
@@ -125,7 +126,7 @@ status: draft
 > [!concept-lens] 阅读透镜
 > - **对象** 2022 年底 ChatGPT 问世至 2025 年 8 月间公开发表的 29 项中英文实验与准[[Experimental Research\|实验研究]]，涵盖 59 个独立[[Effect Size\|效应量]]与广泛大中小学跨学科教学场景。
 > - **张力** 既有实证[[Document\|文献]]在“[[Scaffolding\|认知脚手架]]假说”（释放[[Working Memory\|工作记忆]]以激活深层反思）与“捷析学习假说”（机械套用现成结果导致批判与创新能力侵蚀）之间存在严重分歧，且缺乏对高阶思维认知子维度与调节变量的系统量化整合。
-> - **贡献** 首次针对生成式 AI 与高阶思维的因果关联展开严谨一阶[[Meta-analysis\|元分析]]，确立了“问题解决 $>$ 批判思维 $>$ 创造力”的效应梯度，实证揭示了 8–16 周的中期干预黄金窗口与自主调节学习能力的决定性门槛，构建了人机协同促进高阶思维的综合理论模型。
+> - **贡献** 首次针对生成式 AI 与高阶思维的因果关联展开严谨一阶[[Meta-analysis\|元分析]]，确立了“问题解决 $>$ 批判思维 $>$ 创造力”的效应梯度，实证揭示了 8–16 周的中期干预黄金窗口与自主调节学习能力的决定性门槛，构建了[[Man-Computer Symbiosis|人机协同]]促进高阶思维的综合理论模型。
 
 ---
 
@@ -365,7 +366,7 @@ status: draft
 > 
 > *模型全面整合了生成式 AI 作用于高阶思维的核心机制路径：三大认知维度在效应量上呈现阶梯式递减；干预时长通过倒 U 型心理适应机制发挥作用；自主调节学习能力则作为关键中和器主导了效应量的高低分流。（p. 17）*
 >
-> **图表解读** 该理论模型将元分析的所有实证发现系统整合为一个动态的人机协同促学框架，读图需理清三条核心路径：
+> **图表解读** 该理论模型将元分析的所有实证发现系统整合为一个动态的[[Man-Computer Symbiosis|人机协同]]促学框架，读图需理清三条核心路径：
 > - **输入端与效应梯次输出** 模型左侧为生成式 AI 作为外部[[Scaffolding\|认知脚手架]]的技术输入，右侧对应高阶思维输出；清晰展现了技术赋能随心智加工特质呈现的阶梯式递减规律（从程序性契合的问题解决，到差错激发的批判性思维，再到受同质化制约的创造力）。
 > - **情境与时间调节机制的外部约束** 模型中层纳入了干预时长（倒 U 型曲线）与教学模式（PBL 与混合式）作为外部边界条件，揭示出技术介入并非线性累加，而是需要合适的时间窗口与真实[[Task Structure\|劣构任务]]的牵引。
 > - **自主调节学习作为核心中介调节中枢** 模型中心突出了自主调节学习（SRL）的关键“中和与分流”机制——高自律学习者借助元认知监控维持思维主动性，使 AI 成为思维“磨刀石”；低自律学习者则在算法的即时满足中缴械，滑向“捷径式学习”与认知外包，从而决定了最终促学成效走向分化。

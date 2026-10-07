@@ -11,9 +11,9 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "World Trade Organization"
 tags:
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Commensuration]]"
   - "[[Doxa]]"
+  - "[[Discourse]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Analytical Stance]]"
   - "[[Attrition]]"
@@ -152,7 +153,7 @@ updated: 2026-10-07
 > - **意识形态合法性渗透** GATS 的核心效应不仅在于强制合规，更在于它成功将新自由主义教育改革构筑为全球政策界[[Doxa|不言自明]]的常识。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
 
 > [!finding-cards] 效果与评价
-> - **话语效应远超直接强制力** 里兹维（[[Argument_Rizvi_2022_Springer|Rizvi, 2022]]）强调，由于 GATS 允许成员国自愿选择开放部门，其直接司法制裁案例极为罕见；然而其最大的制度后果在于话语层面——它使“教育是一种可交易的商品”成为全球无可争议的前提，为西方大学将国际学生作为收入来源提供了完全合法的意识形态庇护。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
+> - **[[Discourse|话语]]效应远超直接强制力** 里兹维（[[Argument_Rizvi_2022_Springer|Rizvi, 2022]]）强调，由于 GATS 允许成员国自愿选择开放部门，其直接司法制裁案例极为罕见；然而其最大的制度后果在于话语层面——它使“教育是一种可交易的商品”成为全球无可争议的前提，为西方大学将国际学生作为收入来源提供了完全合法的意识形态庇护。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
 > - **推动[[Internationalization of Higher Education|高等教育国际化]]理性根本转向** 促使高等教育国际化从二战后的“援助与文化交流理性”彻底转向追求经济利润与学术资本积累的“商业市场理性”。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
 > - **重构教育权力在多标度空间的再领土化** 罗伯逊、博纳尔与戴尔（2002）指出，GATS 促成了全球教育系统超越传统民族国家领土边界的重组，在超国家（[[World Trade Organization|WTO]]/经贸同盟）、国家与次国家层次之间建立了复杂的空间制约网络。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
@@ -202,4 +203,4 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合[[Pluri-Scalar Governance|多标度治理]]矩阵，深入分析 GATS 消除边境壁垒对[[State Educational Sovereignty|国家教育主权]]的削弱，并揭示大国借力革新与小国调控权丧失的非对称结构（pp. 110–111）。
-> - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 详尽剖析 GATS 在高等教育商品化中的制度与话语角色，揭示其如何将新自由主义全球议程合法化为[[Doxa|不言自明]]的前提（pp. 97–98）。
+> - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 详尽剖析 GATS 在高等教育商品化中的制度与[[Discourse|话语]]角色，揭示其如何将新自由主义全球议程合法化为[[Doxa|不言自明]]的前提（pp. 97–98）。

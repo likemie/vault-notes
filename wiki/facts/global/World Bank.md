@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 53
+fact_related_count: 54
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -28,6 +28,7 @@ tags:
   - theme/science-policy
 related_concepts:
   - "[[Disciplina and Doctrina]]"
+  - "[[Discourse]]"
   - "[[Policy Brokerage]]"
   - "[[Shadow State]]"
   - "[[Financial-Intellectual Complex]]"
@@ -99,7 +100,7 @@ updated: 2026-10-07
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 世界银行（World Bank）是二战后布雷顿森林体系确立的全球最大多边开发金融与知识援助机构。自 20 世纪 80 年代以来，世界银行取代[[UNESCO|联合国教科文组织]]成为全球教育政策的实质主导者，引领了以结构调整和财政紧缩为核心的“防卫性与[[Disciplina and Doctrina|规训]]性多边主义”（Mundy, 1998; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）；其依托庞大的信贷附加条件与技术话语（[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数），一方面演进为与[[OECD|经合组织]]（OECD）并驾齐驱的全球教育数据驱动型[[Policy Brokerage|政策中介]]先行中枢（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）；另一方面也被批判政治经济学者界定为建构跨国知识垄断、固化国际分层与推行去政治化“[[Shadow State|影子国家]]”外包的[[Financial-Intellectual Complex|金融-智识复合体]]核心枢纽。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110–112)]]
+> 世界银行（World Bank）是二战后布雷顿森林体系确立的全球最大多边开发金融与知识援助机构。自 20 世纪 80 年代以来，世界银行取代[[UNESCO|联合国教科文组织]]成为全球教育政策的实质主导者，引领了以结构调整和财政紧缩为核心的“防卫性与[[Disciplina and Doctrina|规训]]性多边主义”（Mundy, 1998; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）；其依托庞大的信贷附加条件与技术[[Discourse|话语]]（[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数），一方面演进为与[[OECD|经合组织]]（OECD）并驾齐驱的全球教育数据驱动型[[Policy Brokerage|政策中介]]先行中枢（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）；另一方面也被批判政治经济学者界定为建构跨国知识垄断、固化国际分层与推行去政治化“[[Shadow State|影子国家]]”外包的[[Financial-Intellectual Complex|金融-智识复合体]]核心枢纽。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110–112)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1944 年 7 月布雷顿森林会议倡议成立国际复兴开发银行（IBRD），1945 年正式运作，最初旨在资助战后欧洲重建，冷战时期转入对亚非拉新独立发展中国家的经济与社会基础设施开发贷款。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
@@ -114,7 +115,7 @@ updated: 2026-10-07
 > [!dev-timeline]- 组织发展历程
 > - **1944–1968 — 砖瓦基建与[[UNESCO|教科文组织]]早期依附期** 初期严守硬性物理基础设施借贷，不涉足教育社会事业；1962 年向突尼斯发放首笔中等技术教育贷款；1964 年与教科文组织（UNESCO）签署《合作协定》（Co-operative Agreement），依靠 UNESCO 的专业团队物色与评估借贷国教育项目，初步敲开全球南方的教育大门。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **1968–1981 — 麦克纳马拉改革与教育研究帝国奠基期** 罗伯特·麦克纳马拉（Robert McNamara）执掌世行，将教育确立为反贫困的核心生产性支柱；聘请著名教育经济学家[[George Psacharopoulos|乔治·萨卡罗普洛斯]]（George Psacharopoulos）等组建中央研究团队，开创覆盖全球的[[Return on Investment|教育投资回报率]]（RORE）实证计量传统；1980 年 4 月正式发表里程碑式《教育部门政策文件》，单方面终结对教科文组织的依赖，确立完全独立的教育政策研究与借贷体系。[[Argument_Steiner-Khamsi_2024_CE|(Psacharopoulos, 1981; Steiner-Khamsi et al., 2024, pp. 541–542)]]
-> - **1981–1999 — 结构调整贷款、[[Disciplina and Doctrina|规训]]性多边主义与[[National Innovation System|国家创新系统]]滞后** [[International Education|国际教育]]多边主义经历重大转向，战后教科文组织倡导的“有限再分配多边主义”衰落，世界银行主导的“防卫性与规训性多边主义”确立（Mundy, 1998; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 110]]）。世行推行华盛顿共识，将削减公共开支、用户付费与基础教育分权作为贷款附加条件；通过[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数等技术话语将新自由主义制度化（Carnoy & Rhoten, 2002; Heyneman, 2003）；[[Robert Arnove|阿诺夫]]（Arnove, 1980, 2009）深刻指出，世行推行的教育革新实质上固化了既有的中心-边缘与国内阶层分层体系（pp. 105–106）。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman, 1995）进一步从[[Evolutionary Economics|演化经济学]]考察指出，1980 年代世界银行与[[International Monetary Fund|国际货币基金组织]]强推的紧缩与外债偿付方案重创了拉美（如巴西）的[[National Innovation System|国家创新系统]]，迫使政府削减高校科研与[[Engineering Education|工程教育]]投资，导致其与东亚新兴工业化经济体（如韩国）依靠自主研发与教育扩张的高速赶超拉开了致命差距。1999 年世行联合引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（PRSPs），将[[Performance Indicators|教育指标]]纳为国家宏观多边信用评级的刚性杠杆。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, p. 542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]
+> - **1981–1999 — 结构调整贷款、[[Disciplina and Doctrina|规训]]性多边主义与[[National Innovation System|国家创新系统]]滞后** [[International Education|国际教育]]多边主义经历重大转向，战后教科文组织倡导的“有限再分配多边主义”衰落，世界银行主导的“防卫性与规训性多边主义”确立（Mundy, 1998; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 110]]）。世行推行华盛顿共识，将削减公共开支、用户付费与基础教育分权作为贷款附加条件；通过[[Cost-Benefit Analysis|成本效益分析]]与教育生产函数等技术[[Discourse|话语]]将新自由主义制度化（Carnoy & Rhoten, 2002; Heyneman, 2003）；[[Robert Arnove|阿诺夫]]（Arnove, 1980, 2009）深刻指出，世行推行的教育革新实质上固化了既有的中心-边缘与国内阶层分层体系（pp. 105–106）。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman, 1995）进一步从[[Evolutionary Economics|演化经济学]]考察指出，1980 年代世界银行与[[International Monetary Fund|国际货币基金组织]]强推的紧缩与外债偿付方案重创了拉美（如巴西）的[[National Innovation System|国家创新系统]]，迫使政府削减高校科研与[[Engineering Education|工程教育]]投资，导致其与东亚新兴工业化经济体（如韩国）依靠自主研发与教育扩张的高速赶超拉开了致命差距。1999 年世行联合引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（PRSPs），将[[Performance Indicators|教育指标]]纳为国家宏观多边信用评级的刚性杠杆。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, p. 542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]
 > - **1999–至今 — [[Knowledge Bank|知识银行]]转型与[[Shadow State|影子国家]]外包机制** 沃尔芬森（James Wolfensohn）主导世行转型为“知识银行”（Knowledge Bank）；虽于 1999 年创设[[Global Development Network|全球发展网络]]（GDN）探索本土去中心化[[Knowledge Production|知识生产]]，但迅速被华盛顿总部集权的工具所取代；2011 年推出[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER），联合英美双边援助机构组建[[Building Evidence in Education|构建教育证据联盟]]（BE2），确立自指性政策仓库；与此同时，在公共服务提供上日益绕过受援国政府直接委托非政府组织提供教育，架空了国家公共权威，使 NGO 蜕变为去政治化的“[[Shadow State|影子国家]]”（Sutton & Arnove, 2004; Kamat, 2004; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 111–112]]）。[[Argument_Steiner-Khamsi_2024_CE|(Stone, 2000; Steiner-Khamsi et al., 2024, pp. 543, 545, 548)]]
 
 ---

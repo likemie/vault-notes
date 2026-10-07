@@ -2,7 +2,7 @@
 summary: "指现代公共治理中政策议题越是复杂交织与跨领域，政府行政机构越发退守部门壁垒并导致政策制定碎片化、条块分割的制度异化现象；新公共管理的微观合规考核与外包进一步加剧了这一困境，需依托统摄性国家使命与多层级公共动态能力予以破解。"
 type: concept
 domain: "science-policy"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Externalization]]"
   - "[[Cognitive Deskilling]]"
+  - "[[Discourse]]"
   - "[[Wicked Problem]]"
   - "[[Paradigm]]"
   - "[[Public Dynamic Capabilities]]"
@@ -30,7 +31,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-07
 title: Complexity Paradox
 aliases:
   - 复杂性悖论
@@ -72,7 +73,7 @@ aliases:
 > |:---|:---|:---|
 > | **结果争议性与责任规避** | 复杂社会政策的最终成效往往难以通过单一量化指标衡量且极易引发政治争议，导致各部门倾向于退守狭隘法定职能以规避问责。 | 跨部门协调在日常行政流程中被边缘化，宏观战略淹没于例行事务。 |
 > | **[[New Public Management\|新公共管理]]的“青蛙视角”** | 1980 年代 NPM 改革推行微观成本控制与短视绩效考核，迫使官僚只看基层可度量的合规指标（即只看眼前狭小区域的青蛙视角）。 | 抹杀高风险、长周期系统性转型的合理性，造成组织认知短视。 |
-> | **核心职能[[Externalization\|外部化]]与[[Cognitive Deskilling\|去技能化]]** | 广泛将战略规划、数字化与技术评估外包给商业咨询机构，导致公共机构丧失跨部门整合的内部技术理解力。 | 部门间缺乏共享的专业话语与技术协调能力，进一步退守各自条块。 |
+> | **核心职能[[Externalization\|外部化]]与[[Cognitive Deskilling\|去技能化]]** | 广泛将战略规划、数字化与技术评估外包给商业咨询机构，导致公共机构丧失跨部门整合的内部技术理解力。 | 部门间缺乏共享的专业[[Discourse\|话语]]与技术协调能力，进一步退守各自条块。 |
 
 ---
 

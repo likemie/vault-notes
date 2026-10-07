@@ -48,6 +48,7 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Fitness for Purpose]]"
   - "[[Knowledge Transfer]]"
+  - "[[Discourse]]"
   - "[[Problem Solving]]"
   - "[[Definition of Terms]]"
   - "[[Internal Validity]]"
@@ -97,7 +98,7 @@ title: "Argument_Rickinson_2022_ER"
 argument_key: "Argument_Rickinson_2022_ER"
 argument_display_title: "A framework for understanding the quality of evidence use in education"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -244,7 +245,7 @@ issuing_organization: ""
 > | **教育领域** | 倡导实践型证据（专业判断）、研究型证据与数据型证据的复合集成（Nelson & Campbell, 2019; [[British Educational Research Association\|BERA]], 2014）。 | 将研究证据与教师日常教学智慧、课堂动态情境及学生差异深度融合（Earl, 2015; Greany & Maxwell, 2017; Farley-Ripple et al., 2018）。 |
 > | **公共政策** | 政策决策兼具科学性与政治性，依赖对议程与利益诉求的综合审议（Boaz & Nutley, 2019; Nutley et al., 2010）。 | 在多方利益博弈中权衡政策情境、公众诉求与不同类型证据的适用效力（[[Justin Parkhurst\|Parkhurst]], 2017; Hawkins & Parkhurst, 2016; Breckon, 2016; Gluckman, 2011）。 |
 
-专业判断的不可替代性，深刻驱动了循证运动在[[Epistemology|认识论]]哲学上的自我修正，推动话语体系从生硬的因果规定走向深度的经验融通。
+专业判断的不可替代性，深刻驱动了循证运动在[[Epistemology|认识论]]哲学上的自我修正，推动[[Discourse|话语]]体系从生硬的因果规定走向深度的经验融通。
 
 > [!theory-stance] 从证据本位向证据知情话语的历史性转向
 > 这一跨领域的经验演进，共同印证了从证据本位（evidence-based）向证据知情（evidence-informed）话语的历史性跨越：专业实践应当由研究证据提供启发而非完全建立在其上，研究证据应当与专业知识相互补充而非取而代之（Boaz et al., 2019; p. 139）。
@@ -468,7 +469,7 @@ QURE 框架不仅提供了一套概念分类，更旨在打破教育实践中形
 >
 > *External clinical evidence can inform, but can never replace, individual clinical expertise, and it is this expertise that decides whether the external evidence applies to the individual patient at all.*
 
-> [!citation-card] 证据使用转向证据知情话语的[[Epistemology\|认识论]]内涵
+> [!citation-card] 证据使用转向证据知情[[Discourse|话语]]的[[Epistemology\|认识论]]内涵
 > 这一转向体现了从证据本位向证据知情话语的转变。这一转变强调专业实践应当由研究证据提供启发（而非完全建立在证据之上），研究证据应当与专业知识相互补充（而非取代专业知识）。（Boaz et al., 2019; 引于 p. 139）
 >
 > *This shift is about professional practice being informed by (not based on) research evidence and research evidence complementing (rather than replacing) professional knowledge.*

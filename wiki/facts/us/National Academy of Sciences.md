@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 34
+fact_related_count: 35
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Categorical Funding]]"
   - "[[Paradigm]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Discourse]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Network Governance]]"
   - "[[University-Industry Collaboration]]"
@@ -111,7 +112,7 @@ updated: 2026-10-07
 ## 影响与体系成效
 
 > [!finding-cards] 关键成效与历史辐射
-> - **奠定科学界的国家话语权与自治屏障** NAS 的独立法定特许地位，为美国科学界抵御政治干预提供了至关重要的体制防线，确立了“科学决策必须尊重学术专业规律”的国家政治伦理。
+> - **奠定科学界的国家[[Discourse|话语]]权与自治屏障** NAS 的独立法定特许地位，为美国科学界抵御政治干预提供了至关重要的体制防线，确立了“科学决策必须尊重学术专业规律”的国家政治伦理。
 > - **重塑战后科技体系顶层设计** 国家[[Chinese Academy of Sciences|科学院]]及其核心成员深度参与了《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》起草、[[National Science Foundation|NSF]] 创建、[[National Aeronautics and Space Administration|国家航空航天局]]（NASA）空间科学规划、[[Human Genome Project|人类基因组计划]]（HGP）伦理评估以及国家纳米技术倡议（NNI）等重大国家科技决策。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 34)]]
 > - **前沿创新体系的独立监督者与路线仲裁人** 依托 NRC 专家委员会网络，NAS 持续对 [[DARPA]]、NSF、[[Department of Energy|DOE]] 等联邦研发机构的技术路线图、预算分配公正性及产学研生态健康度进行第三方深度评估，防止国家科研过度陷入短期官僚化陷阱。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134, 1144)]]
 > - **引领国家研发出资结构转型与公私伙伴协同** 敏锐揭示从联邦单核驱动向多元产学协同的历史性转变（自 2011 年至 2020 年代初，联邦基础研究占比从 65% 下降到 40%，企业研发比重升至 35%）。通过 GUIRR 与首届《国家科学现状演讲》，呼吁整合联邦政府、各州地方机构、工业界、学术界与非营利机构的全部国家资产，推动了《[[CHIPS and Science Act|芯片与科学法案]]》框架下[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）及 NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与伙伴关系理事会]]（TIP）等重大公私伙伴机制的设立与深化。[[Argument_Ramming_2025_CorporateSupport|(McNutt, 2024; Ramming, 2025, pp. 237–238)]]

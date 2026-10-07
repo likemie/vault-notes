@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[AI Hallucination]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Scientific Explanation]]"
   - "[[Epistemic Scaffolding]]"
   - "[[Scaffolding]]"
@@ -72,7 +73,7 @@ title: "Argument_Han_Gutierez_2026_IJSE"
 argument_key: "Argument_Han_Gutierez_2026_IJSE"
 argument_display_title: "‘How can we check the evidence presented by GenAI’s response?’: students’ epistemic vigilance of their co-constructed scientific explanations with GenAI"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -89,7 +90,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 在[[Generative Artificial Intelligence\|生成式人工智能]]（generative artificial intelligence, GenAI）深度融入科学教育的背景下，大语言模型展现出的表面语义流畅性与潜在的生成虚构（[[AI Hallucination]]）对学生的认知判断构成了严峻挑战。既有探索多聚焦于人工智能对探究产出与推理结果的辅助效能，却极少考察学生在人机协同建构[[Scientific Explanation\|科学解释]]过程中如何对算法生成的知识展开批判性评估与核验。初中科学学习者在显性[[Epistemic Scaffolding\|认识论支架]]（explicit epistemic [[Scaffolding]]）的支持下，如何践行[[Epistemological Vigilance\|认识论警觉]]（epistemic vigilance）？学科解释标准与[[Reflexivity\|反思性]]提问提示语如何协同引导学生对人机生成的文本与多模态图像开展内容、信源及自我认知层面的审问、核对与迭代重构？
+> 在[[Generative Artificial Intelligence\|生成式人工智能]]（generative artificial intelligence, GenAI）深度融入科学教育的背景下，大语言模型展现出的表面语义流畅性与潜在的生成虚构（[[AI Hallucination]]）对学生的认知判断构成了严峻挑战。既有探索多聚焦于人工智能对探究产出与推理结果的辅助效能，却极少考察学生在[[Man-Computer Symbiosis|人机协同]]建构[[Scientific Explanation\|科学解释]]过程中如何对算法生成的知识展开批判性评估与核验。初中科学学习者在显性[[Epistemic Scaffolding\|认识论支架]]（explicit epistemic [[Scaffolding]]）的支持下，如何践行[[Epistemological Vigilance\|认识论警觉]]（epistemic vigilance）？学科解释标准与[[Reflexivity\|反思性]]提问提示语如何协同引导学生对人机生成的文本与多模态图像开展内容、信源及自我认知层面的审问、核对与迭代重构？
 
 > [!claim] 核心主张
 > 初中生在人机协同建构科学解释时具备践行多维认识论警觉的认知潜能；通过显性学科解释标准（直接主导内容评估并间接辐射信源与自身监控）与反思性提问提示语（显性驱动信源核验与接收者自我监控并锚定于内容质量）构成的双轨协同支架，学生能够将生成式人工智能定位为信息源、对话伙伴与“[[Epistemology|认识论]]挑衅者”（[[Epistemic Provocateur]]），在多轮提示词重构、多模态图文修正与权威教科书[[Triangulation\|三角互证]]中牢固维系核心[[Epistemic Agency\|认识主体性]]，有效阻断心智盲从与消极[[Cognitive Offloading\|认知卸载]]。（pp.2–7, 22–24）
@@ -138,7 +139,7 @@ issuing_organization: ""
 > | **语料情境** | 课后非计分自愿拓展活动；课堂对话与访谈均以韩语原声进行并逐字转录，抽取 4 组核心对话片段英译后进行深层多模态[[Coding in Qualitative Research\|编码]]。（pp.8–9） |
 > | **分析层级** | 包含四层架构：（1）宏观[[Epistemology\|认识论]]事件划分；（2）中观评价动作编码；（3）微观多模态[[Discourse Analysis\|话语分析]]；（4）跨数据源[[Triangulation\|三角互证]]（录像、制品、访谈）。（pp.9–10） |
 
-> [!row-contrast] 表1：课程设计与人机协同课堂规范（源自 Table 1, p. 7）
+> [!row-contrast] 表1：课程设计与[[Man-Computer Symbiosis|人机协同]]课堂规范（源自 Table 1, p. 7）
 > | 课时主题与时长 | 人机协同建构目标 | 课堂协作规范与具体要求 |
 > |---|---|---|
 > | **第 1 课（2 课时）**<br>植物为何生长良好？<br>（Why do plants grow well?） | 运用 **Canva**，依据植物根、茎、叶等器官的结构与功能，协同建构植物茁壮生长的科学因果解释与图解。 | **同伴全程联合审议（joint peer deliberation）**<br>每个小组必须对每一个输入的提示词和每一条人工智能输出进行充分协商；唯有双方达成共识的想法才能进入下一轮提示词。 |
@@ -313,7 +314,7 @@ issuing_organization: ""
 
 > [!stat-cards]- 核心数据
 > - **8** 韩国初中二年级参与学生总数（人，分为 4 个合作小组）。（p.6）
-> - **2** 开展的人机协同科学探究课时主题（植物生长机制与真菌分类学界定）。（p.7）
+> - **2** 开展的[[Man-Computer Symbiosis|人机协同]]科学探究课时主题（植物生长机制与真菌分类学界定）。（p.7）
 > - **4** 课堂确立的人机协同核心规范与科学解释评价标准维度。（pp.7–8）
 > - **3** 质性[[Discourse Analysis\|话语分析]]提炼的核心认识论警觉实践维度（内容、信源、接收者评估）。（pp.11–22）
 
@@ -331,7 +332,7 @@ issuing_organization: ""
 >
 > *Most crucial however, was its role as an epistemic provocateur by producing responses that encourage students' epistemic vigilance to question, verify, critique.*
 
-> [!citation-card]- 中学生在人机协同中的认知主体地位
+> [!citation-card]- 中学生在[[Man-Computer Symbiosis|人机协同]]中的认知主体地位
 > 在其认知水平范围内，中学生在显性认识论支架的辅助下，完全能够对 GenAI 生成的科学解释展开严谨的认识论警觉，使学生始终保持为主要认识主体。（p.2）
 >
 > *These findings suggest that within their cognitive levels, middle school students may engage in epistemic vigilance with explicit epistemic scaffolding, positioning students as primary epistemic agents.*

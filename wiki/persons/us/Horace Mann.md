@@ -8,7 +8,7 @@ summary: "美国公立学校运动领袖与马萨诸塞州教育委员会首任�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Rote Learning]]"
   - "[[Policy Borrowing]]"
+  - "[[Discourse]]"
   - "[[Auslandspadagogik]]"
   - "[[Influences Across Cultures]]"
   - "[[Postpositivism]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Horace Mann
@@ -196,7 +197,7 @@ updated: 2026-10-05
 
 > [!influence-path] 影响路径
 > - **公学体制确立与全美扩散** 在马萨诸塞州成功确立公税资助、面向全体开放、实行州级教委视导与无宗派道德准则的公立学校体制，成为北部与中西部各州（如俄亥俄、密歇根、康涅狄格）普遍效仿的立国标杆。
-> - **比较教育合法化论证[[Paradigm\|范式]]** 突破了单纯的法律条文抄录与机械移植，示范了在分权民主政体中如何将外部成功事实[[Transfer Translation Transformation\|转译]]为公共说服的话语资本，开创了“比较借鉴作为政治合法化依据（Borrowing as Legitimating Rationale）”的经典范式。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 33–34)]]
+> - **比较教育合法化论证[[Paradigm\|范式]]** 突破了单纯的法律条文抄录与机械移植，示范了在分权民主政体中如何将外部成功事实[[Transfer Translation Transformation\|转译]]为公共说服的[[Discourse|话语]]资本，开创了“比较借鉴作为政治合法化依据（Borrowing as Legitimating Rationale）”的经典范式。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 33–34)]]
 > - **[[Normal School\|师范教育]]专业化与公立师训建制** 推动列克星敦[[Normal School\|师范学校]]建立，彻底终结了美国传统由落第文人或兼差人员充任教职的混乱局面，奠定了美国教师职业专业化标准。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 31)]]
 > - **人道主义教学法与儿童中心革命** 大力倡导[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]直观教学法，有力抗击波士顿校长保守联盟，推动体罚在全美公立学校的逐步退场与基于关爱的温和人道纪律普及。（Downs, 1974:88–92）
 > - **民权政治与人人平等实践** 在国会众议院领衔抵抗奴隶制扩张，在安提阿学院率先践行男女同校与非宗派高等教育，将公立教育的平等承诺延伸至更宽广的民权领域。
@@ -231,7 +232,7 @@ updated: 2026-10-05
 >
 > *...they used them not just as models to be imitated or 'borrowed', but also as legitimating rationales in their efforts to persuade their respective legislatures to establish and finance public educational systems.*
 
-> [!citation-card] 弗雷泽与布里克曼论美洲话语的“[[Auslandspadagogik\|外国教育学]]”定位
+> [!citation-card] 弗雷泽与布里克曼论美洲[[Discourse|话语]]的“[[Auslandspadagogik\|外国教育学]]”定位
 > 曼等人的经验记述与朱利安不同，并非严格意义上的现代比较科学探究，而属于 19 世纪大西洋世界蓬勃兴起的外国教育学（Auslandspädagogik）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 33)]]；引自 Fraser & Brickman (1968:19)
 >
 > *Unlike Jullien’s, the American discourse was only tangentially about comparative education, and like Cousin’s, it was more about foreign education, or to use Fraser’s and Brickman’s terminology, it was Auslandspadagogik.*

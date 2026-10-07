@@ -7,7 +7,7 @@ aliases:
 summary: "Apple 提出的批判课程论核心概念，指学校课程中被国家与支配群体选择性界定为合法、正当且值得传授的知识，反映并再生产社会中的文化权力关系与政治霸权"
 type: concept
 domain: "curriculum"
-related_count: 17
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Cultural Hierarchy]]"
   - "[[Value Neutrality]]"
+  - "[[Hidden Curriculum]]"
   - "[[Powerful Knowledge]]"
   - "[[Discipline-Based Theory]]"
   - "[[Selectivity]]"
@@ -27,6 +28,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[One Country, Two Systems]]"
   - "[[Policy Borrowing]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Social Realism]]"
   - "[[Hegemony]]"
@@ -44,7 +46,7 @@ related_instruments: []
 confidence: high
 status: active
 created: '2026-05-21'
-updated: 2026-09-28
+updated: 2026-10-07
 ---
 
 # Official Knowledge
@@ -67,7 +69,7 @@ updated: 2026-09-28
 > *“Schools are not VALUE-neutral, but are 'official knowledge' – the selective legitimation of particular groups' knowledge, a process that is itself political.”*
 
 > [!boundary]- 概念边界
-> - **不等于 隐性课程（Hidden Curriculum）** — 隐性课程侧重非正式的规范、服从态度与阶层习惯再生产；官方知识侧重显性教学大纲、标准教材与法定考核内容的政治合法化。
+> - **不等于 [[Hidden Curriculum|隐性课程]]（Hidden Curriculum）** — 隐性课程侧重非正式的规范、服从态度与阶层习惯再生产；官方知识侧重显性教学大纲、标准教材与法定考核内容的政治合法化。
 > - **不等于 客观学术知识（Objective Knowledge）** — 官方知识指经过国家权力删减、选择与价值加冕后的教育中介化知识。
 
 ---
@@ -75,7 +77,7 @@ updated: 2026-09-28
 ## 概念辨析
 
 > [!contrast-table] 课程知识概念辨析
-> | 维度 | 官方知识（Official Knowledge） | 隐性课程（Hidden Curriculum） | 强[[Powerful Knowledge\|有力知识]]（Powerful Knowledge） |
+> | 维度 | 官方知识（Official Knowledge） | [[Hidden Curriculum\|隐性课程]]（Hidden Curriculum） | 强[[Powerful Knowledge\|有力知识]]（Powerful Knowledge） |
 > |---|---|---|---|
 > | **核心视角** | 支配群体利益的合法化与文化加冕 | 规范、服从态度与阶层习惯的隐性传授 | 学科专门化、概念化与非经验的客观知识 |
 > | **载体形式** | 法定大纲、统编教材、国家考试 | 课堂秩序、时间管理、师生权力互动 | 系统化[[Discipline-Based Theory\|学科理论]]体系与抽象概念 |
@@ -155,7 +157,7 @@ updated: 2026-09-28
 > > - **去中心化市场审查模式（[[Argument_Xu_2024_CE\|Xu, 2024]]）** — 依靠民间出版自由竞争与政府柔性审核，但容易受商业利益与历史保守主义妥协的影响。
 
 > [!critique] 外部批评
-> - **忽略抵制与再解释（Agency Deficit）** — 结构主义批评指出，过分强调官方知识的统治霸权容易忽视教师在课堂实践中的微观再解释，以及学生作为主体对官方话语的疏离或抵制。
+> - **忽略抵制与再解释（Agency Deficit）** — 结构主义批评指出，过分强调官方知识的统治霸权容易忽视教师在课堂实践中的微观再解释，以及学生作为主体对官方[[Discourse|话语]]的疏离或抵制。
 > - **过度政治化风险** — [[Social Realism\|社会实在论]]学者（如 [[Michael Young]]）批评批判课程论将所有学科知识均简化为“统治权力的政治工具”，忽略了知识本身所具有的客观结构与认知赋权价值。
 
 > [!warning] 适用局限

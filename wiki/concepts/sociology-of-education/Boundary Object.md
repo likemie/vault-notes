@@ -8,7 +8,7 @@ aliases:
 summary: "指在不同社会群体或学科共同体之间保持足够通用性以维持共同认同，同时又具备充分可塑性以适应各方特定情境需求的物质、符号或数字化人工制品"
 type: concept
 domain: "sociology-of-education"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,8 +22,10 @@ related_concepts:
   - "[[Communities of Practice]]"
   - "[[Areas of Knowledge]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Boundary Spanner]]"
   - "[[Dialogue in Education]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Problem Solving]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Critical Thinking]]"
@@ -39,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Boundary Object
@@ -57,7 +59,7 @@ updated: 2026-10-05
 > - **边界** 边界对象本身不能消除不同群体间的利益冲突或[[Paradigm\|范式]]分歧，它只是提供了一个持续开展对话、协商与协作的共同平台。
 
 > [!citation-card]- 关键表述
-> 跨越学科与语言情境，ChatGPT 发挥着边界对象的作用——这是一种灵活且具适应性的人工制品，在维持连贯性的同时能够实现情境化的重新诠释。学生使用它来跨越通用学术惯例与特定学科话语之间的边界。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 11)]]
+> 跨越学科与语言情境，ChatGPT 发挥着边界对象的作用——这是一种灵活且具适应性的人工制品，在维持连贯性的同时能够实现情境化的重新诠释。学生使用它来跨越通用学术惯例与特定学科[[Discourse|话语]]之间的边界。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 11)]]
 >
 > *Across disciplinary and linguistic contexts, ChatGPT operated as a boundary object — a flexible, adaptable artifact that maintained coherence while enabling contextual reinterpretation. Students used it to navigate genre boundaries...*
 
@@ -85,7 +87,7 @@ updated: 2026-10-05
 > - **结构稳定性（Structural Coherence）** 依托底层大语言模型的模式匹配与标准语法架构，维持跨情境的一致连贯性。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 11)]]
 > - **跨界中介性（Cross-Domain Mediation）** 协助学习者在通用学术写作与特定专业领域推理之间搭建沟通桥梁。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 11–12)]]
 
-> [!logic-map]- 边界对象在人机协同教学中的中介结构
+> [!logic-map]- 边界对象在[[Man-Computer Symbiosis|人机协同]]教学中的中介结构
 > ```mermaid
 > flowchart TD
 >     subgraph DisciplinaryCommunities["<b>异质学科与实践共同体</b>"]
@@ -156,7 +158,7 @@ updated: 2026-10-05
 > > - **Star（2010）** 在回顾反思中强调，边界对象必须同时满足“局部可塑性”与“跨界共有鲁棒性”，且植根于具体的合作实践，不能简单等同于泛泛的媒介或通信渠道。
 >
 > > [!warning] 权力不对称与算法偏见
-> > 边界对象可能隐藏技术开发者预设的文化与意识形态偏见，弱势群体的声音在与大模型交互时可能被主流算法话语所同化或消解。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 13)]]
+> > 边界对象可能隐藏技术开发者预设的文化与意识形态偏见，弱势群体的声音在与大模型交互时可能被主流算法[[Discourse|话语]]所同化或消解。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 13)]]
 
 ---
 

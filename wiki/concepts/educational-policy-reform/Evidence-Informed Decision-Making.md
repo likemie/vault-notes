@@ -7,7 +7,7 @@ aliases:
 summary: "在规划、实施或调整政策、项目与服务前系统咨询最佳可用研究证据的审议过程，强调通过六大因果机制改变决策者行为与心理状态的系统框架。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Research Literacy]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Discourse]]"
   - "[[Construct]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Knowledge Production]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Evidence-Informed Decision-Making
@@ -100,7 +101,7 @@ updated: 2026-09-17
 >   1. **意识建立（Awareness）** 唤醒决策者对研究证据价值与可及性的认知；
 >   2. **认同协商（Agreement）** 促成决策者对特定研究结论与改革方向的价值认同；
 >   3. **能力建设（Skills）** 培育搜寻、评估与解读复杂学术证据的[[Research Literacy\|研究素养]]；
->   4. **沟通可及（Communication）** 通过清晰[[Transfer Translation Transformation\|转译]]消除学术晦涩话语，提升证据触达率；
+>   4. **沟通可及（Communication）** 通过清晰[[Transfer Translation Transformation\|转译]]消除学术晦涩[[Discourse|话语]]，提升证据触达率；
 >   5. **互动机会（Interaction）** 搭建研究者与官员面对面研讨与持续对话的常态化平台；
 >   6. **结构规程（Structure）** 建立要求在政策出台前必须出具实证证据评估的行政法制规程。
 > - **中介心理状态转化链（Intermediate Psychological Outcomes）** 六大机制作用于中间心理状态——能力、动机与机会（Capability, Motivation, Opportunity / [[COM-B Model\|COM-B]] 行为改变模型），最终驱动实质性[[Research Utilization\|证据使用]]行为的发生（[[Argument_Torres_2022_KMModels\|Torres, 2022, pp. 46–47]]）。

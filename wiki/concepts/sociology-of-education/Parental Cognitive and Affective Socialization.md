@@ -8,7 +8,7 @@ aliases:
 summary: "Li (2012) 通过母-子对话研究识别的两种文化社会化模式，欧裔母亲侧重心智-智力框架与兴趣-骄傲情感，台湾母亲侧重美德-品格框架与吃苦-坚持情感"
 type: concept
 domain: "sociology-of-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
   - field/cultural-psychology
 related_concepts:
   - "[[Learning Virtues]]"
+  - "[[Discourse]]"
   - "[[Pride in Learning]]"
   - "[[Cognitive Source]]"
   - "[[Heart and Mind for Wanting to Learn]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Parental Cognitive and Affective Socialization
@@ -57,7 +58,7 @@ updated: 2026-09-22
 **欧美母亲的认知社会化**聚焦于心智维度([[Argument_Li_2012_Cambridge|Li, 2012, p.248–259]])：
 - **心智来源** 母亲从"心智"这一文化资源中汲取合法性，引导孩子将学习行为与智力、思维能力、理解力关联起来
 - **心智效力归因** 母亲构建的因果逻辑以心智理解力为核心环节。例如，发现孩子不懂数学 → 母亲用心智找出问题所在 → 确保孩子理解 → 孩子独立完成 → 孩子快乐
-- **典型话语** "你知道这是聪明人做的事吗？""你用恐龙的名字来给一大类动物命名——不是只有恐龙！"
+- **典型[[Discourse|话语]]** "你知道这是聪明人做的事吗？""你用恐龙的名字来给一大类动物命名——不是只有恐龙！"
 
 **台湾母亲的认知社会化**聚焦于美德维度([[Argument_Li_2012_Cambridge|Li, 2012, p.259–265]])：
 - **美德来源** 母亲从"[[Learning Virtues|学习美德]]"这一文化资源中汲取合法性，引导孩子将学习成果与勤奋、坚持、专注、认真等美德关联起来

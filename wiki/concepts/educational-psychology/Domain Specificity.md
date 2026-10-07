@@ -9,7 +9,7 @@ aliases:
 summary: "指出个体的认知能力、思维技能与认识论信念并非跨情境通用的，而是深度内嵌于特定学科知识结构与社会情境中；现代研究主张通过通用规则与学科融入相结合的混合双层模型实现认知迁移"
 type: concept
 domain: "educational-psychology"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Epistemic Resources]]"
+  - "[[Discourse]]"
   - "[[Epistemology]]"
   - "[[Heterogeneity]]"
   - "[[Scaffolding]]"
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Domain Specificity
@@ -103,7 +104,7 @@ updated: 2026-09-22
 > - **边界** 区别于假定心智能力跨学科完全通用的**领域一般性（Domain Generality）**；同时面临更微观的“细粒度情境资源（[[Epistemic Resources]]）”对宏大学科边界的理论解构。
 
 > [!boundary]- 概念边界
-> - 不等于 **情境特异性（Context Specificity）** — 领域特异性通常指向文理学科或生活范畴等宏观建制，而情境特异性则深入到课堂微观任务目标、话语互动与即时评价标准（[[Argument_Sandoval_2016_RRE\|Sandoval et al., 2016]]）。
+> - 不等于 **情境特异性（Context Specificity）** — 领域特异性通常指向文理学科或生活范畴等宏观建制，而情境特异性则深入到课堂微观任务目标、[[Discourse|话语]]互动与即时评价标准（[[Argument_Sandoval_2016_RRE\|Sandoval et al., 2016]]）。
 > - 不等于 **专业知识匮乏（Lack of Prior Knowledge）** — 领域特异性强调[[Epistemology\|认识论]]标准（如物理学用实验证实 vs 历史学用史料互证）的[[Heterogeneity\|异质性]]，而非单纯的学科事实记忆差异。
 
 ---

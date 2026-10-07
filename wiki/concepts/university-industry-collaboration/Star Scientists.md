@@ -8,7 +8,7 @@ aliases:
 summary: "Lynne Zucker 与 Michael Darby（1996, 2001）提出的科学社会学与创新经济学概念，指在颠覆性技术突破早期掌握不可编码隐性专有知识（自然知识资本）的极少数顶尖学者。该理论指出明星科学家在技术早期倾向于自我封闭保护成果，公共代理人需通过嵌入型网络治理打破壁垒；Kratsios（2026）与科学学（Metascience）研究进一步揭示明星科学家的学术网络易造成注意力锁定与范式垄断，需通过去中心化资助与资助青年独立学者打破代际固化。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Intellectual Capital]]"
   - "[[Scientific Paradigm]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Research Translation]]"
   - "[[Activity Traps]]"
   - "[[Knowledge-Based Economy]]"
@@ -92,7 +93,7 @@ updated: 2026-10-07
 > | 维度 | 明星科学家（Star Scientists） | 常规学术研究者（Academic PI） | 科技创业家（Technological Entrepreneur） |
 > |:---|:---|:---|:---|
 > | **核心资本属性** | 极其稀缺的不可[[Coding in Qualitative Research\|编码]]隐性突破技术与崇高学术声望 | 标准同行评议下的规范化学术研究能力 | 商业组织、市场敏感度与风险融资能力 |
-> | **知识流动特征** | 早期高度私密化、技术诀窍物理绑定在团队内部；中后期主导学术话语与引用网络 | 倾向于尽快发表论文与申请标准专利 | 围绕商业机密与市场垄断构建护城河 |
+> | **知识流动特征** | 早期高度私密化、技术诀窍物理绑定在团队内部；中后期主导学术[[Discourse\|话语]]与引用网络 | 倾向于尽快发表论文与申请标准专利 | 围绕商业机密与市场垄断构建护城河 |
 > | **对创新的驱动方式** | 开辟全新[[Scientific Paradigm\|科学范式]]与颠覆性物理可行性 | 在既定[[Paradigm\|范式]]内进行渐进式知识增量探索 | 将成熟[[Research Translation\|技术转化]]为可规模化盈利的产品 |
 > | **前沿转化与代际瓶颈** | 知识难以脱手、对外部产业缺乏信任；易造成青年学者独立滞后 | 成果缺乏工程可行性、陷入[[Activity Traps\|活动陷阱]] | 难以评估颠覆性物理底层风险 |
 

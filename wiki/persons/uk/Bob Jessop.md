@@ -7,7 +7,7 @@ summary: "英国社会学家和政治经济学家，文化政治经济学代表�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Cultural Diplomacy]]"
+  - "[[Discourse]]"
   - "[[Competitiveness]]"
   - "[[Reflexivity]]"
   - "[[Hub and Flow Imaginaries]]"
@@ -82,7 +83,7 @@ Jessop 对[[Knowledge-Based Economy|知识经济]]研究的核心贡献体现在
 
 ### 文化政治经济学（CPE）
 
-Jessop and Sum 共同提出 [[Cultural Political Economy|CPE]] 框架，将文化（意义制造、话语、想象）置于政治经济分析的中心位置。在此框架中，"想象"不仅是对经济现实的描述——它们具有"构成性和履行性角色"（constitutive and performative role），即想象在制造其所描述的现实([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.23, 26–27]])。
+Jessop and Sum 共同提出 [[Cultural Political Economy|CPE]] 框架，将文化（意义制造、[[Discourse|话语]]、想象）置于政治经济分析的中心位置。在此框架中，"想象"不仅是对经济现实的描述——它们具有"构成性和履行性角色"（constitutive and performative role），即想象在制造其所描述的现实([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.23, 26–27]])。
 
 ### KBE 作为霸权的元治理对象
 
@@ -121,7 +122,7 @@ Sum & Jessop（2013, p.284）提供了 Moisio 所采纳的 KBE 经典定义：
 
 - 其 [[Cultural Political Economy|CPE]] 框架直接影响了 Moisio（2018, 2022）的[[Knowledge-Based Economization|知识经济化]]概念发展
 - [[Knowledge-Based Economy|KBE]] 作为"元治理"对象的定位为高等教育研究提供了分析大学在知识经济中战略角色的理论资源
-- "额外经济条件的共在"概念解释了为什么教育、科学和法律在 KBE 话语中被如此凸显
+- "额外经济条件的共在"概念解释了为什么教育、科学和法律在 KBE [[Discourse|话语]]中被如此凸显
 - CPE 框架通过 [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] 的应用进入教育枢纽研究领域，为区分国家高等教育项目的[[Cultural Diplomacy|文化外交]]与政治经济维度提供了分析工具
 
 ---

@@ -7,7 +7,7 @@ summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 92
+method_related_count: 93
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Paradigm]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Discourse]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Postpositivism]]"
@@ -119,7 +120,7 @@ related_instruments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Systematic Review
@@ -163,7 +164,7 @@ updated: 2026-10-01
 > | **[[Framework Synthesis\|框架综合法]]** | 依据预设的先验政策或理论框架，将质性与混合实证文献结构化映射分类 | Carroll et al., 2011 |
 > | **[[Grounded Theory\|扎根理论综合]]** | 跨越多个原始案例应用质性扎根理论的开放与[[Axial Coding\|轴心编码]]生成全新实体理论 | Howell Major & Savin-Baden, 2010 |
 > | **[[Realist Evaluation\|实在论综合]]（Realist Synthesis）** | 聚焦于“情境—机制—结果”（CMO）构型，探究复杂干预在特定土壤下的因果链条 | Pawson, 2006 |
-> | **[[Content Analysis\|内容分析综合]]** | 对文本资料中的概念频次、命题结构与政策话语进行显性与隐性内容量化分析 | Miles & Huberman, 1984 |
+> | **[[Content Analysis\|内容分析综合]]** | 对文本资料中的概念频次、命题结构与政策[[Discourse\|话语]]进行显性与隐性内容量化分析 | Miles & Huberman, 1984 |
 > | **质性比较分析综合（[[Qualitative Content Analysis\|QCA]]）** | 运用布尔代数与集合论，探究诱发特定干预结果的多重并发因果条件构型 | Ragin, 2008 |
 
 ---

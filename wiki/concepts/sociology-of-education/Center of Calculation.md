@@ -9,7 +9,7 @@ aliases:
 summary: "行动者网络理论与治理社会学的核心概念，指将遥远、异质的现实实体通过标准化转译为流动、稳定且可组合的标准化数据表征（如测试数据、统计指标），并在中心节点进行汇聚、建模与运算，从而实现远距离治理的专业机构或空间节点。"
 type: concept
 domain: "sociology-of-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Epistemology]]"
   - "[[Topological Spatialisation]]"
+  - "[[Discourse]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Homework]]"
   - "[[Science and Technology Studies]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Center of Calculation
@@ -133,7 +134,7 @@ updated: 2026-10-05
 > 探讨专业测评机构如何依托数据处理技术，在宪法没有赋予其行政命令权的前提下成为事实上的政策枢纽。
 
 > [!claim] [[Bruno Latour\|Latour, B.]]; Rose, N.; [[Sigrid Hartong\|Hartong, S.]]
-> **数据汇聚带来的认知与治理集权** 在现代教育治理中，真正的控制权不仅存在于行政首脑机关，更转移到了掌握数据汇聚与建模能力的计算中心手中。[[Argument_Hartong_2018_GSE\|Hartong (2018)]] 详细考察了德国[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB）的崛起过程：在各州享有分散文化主权的宪制背景下，各州教育与文化部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs]], KMK）将国家标准的标定、[[Vergleichsarbeiten\|校际比较测试]]（Vergleichsarbeiten, VERA）的命题以及跨州学业趋势比较的组织权统一委托给 IQB。IQB 依托其内部设立的研究数据中心（FDZ），成为全德唯一有能力汇聚并交叉分析 16 个联邦州全样本数据、国际 [[PISA]] 数据库及纵向追踪数据的超级计算节点。这种对标准化数据表征的集中汇聚与运算能力，使 IQB 成为跨越联邦与各州界限的元治理（meta-governance）中枢，实质性主导了德国基础教育的质量话语（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 140–145]]）。
+> **数据汇聚带来的认知与治理集权** 在现代教育治理中，真正的控制权不仅存在于行政首脑机关，更转移到了掌握数据汇聚与建模能力的计算中心手中。[[Argument_Hartong_2018_GSE\|Hartong (2018)]] 详细考察了德国[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB）的崛起过程：在各州享有分散文化主权的宪制背景下，各州教育与文化部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs]], KMK）将国家标准的标定、[[Vergleichsarbeiten\|校际比较测试]]（Vergleichsarbeiten, VERA）的命题以及跨州学业趋势比较的组织权统一委托给 IQB。IQB 依托其内部设立的研究数据中心（FDZ），成为全德唯一有能力汇聚并交叉分析 16 个联邦州全样本数据、国际 [[PISA]] 数据库及纵向追踪数据的超级计算节点。这种对标准化数据表征的集中汇聚与运算能力，使 IQB 成为跨越联邦与各州界限的元治理（meta-governance）中枢，实质性主导了德国基础教育的质量[[Discourse|话语]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 140–145]]）。
 
 ---
 

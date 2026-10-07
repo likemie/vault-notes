@@ -11,10 +11,10 @@ aliases:
 summary: "假定根据学习者自我报告的偏好感官通道（视觉、听觉、动觉等）定制教学即可显著提升学业成效的流行信念，已被大量实证认知研究证伪，但仍在教师教育和大众出版物中广泛存在并产生负面教学偏差。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - field/learning-science-cognitive-science
   - field/educational-psychology
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Learned Helplessness]]"
   - "[[Epistemology]]"
   - "[[Teacher Beliefs]]"
+  - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Normal School]]"
   - "[[Document]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Learning Style Myth
@@ -180,7 +181,7 @@ updated: 2026-09-22
 > > [!axis] 实践指南读物的经验背书 vs 实证教育科学的严格检验
 > > 探讨为何大量面向中小学教师的畅销指南手册（如 Paradies & Linser, 2003）在缺乏严谨来源甚至存在前后矛盾的情况下，依然将学习风格作为核心教学原则推荐。
 > >
-> > - **指南读物作者群** 多由一线实践教师撰写，主要依托个人教学经验与权威话语自我合法化，倾向于迎合大众常识直觉。
+> > - **指南读物作者群** 多由一线实践教师撰写，主要依托个人教学经验与权威[[Discourse|话语]]自我合法化，倾向于迎合大众常识直觉。
 > > - **教育科学研究者** 强调教育实践必须立足于经受检验的高质量证据，呼吁研究者与实践者联合编撰科学严谨的专业行动手册（如 Greutmann et al., 2020）。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 255)]]
 >
 > > [!axis] 纯学术论文的单向批驳 vs 多媒体受众适配的对话式纠偏

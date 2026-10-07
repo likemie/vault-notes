@@ -8,7 +8,7 @@ aliases:
 summary: "大学在教学和研究之外的正式创新与经济发展使命，涵盖知识交流、技术商业化、区域经济发展和产学合作等广泛活动，2000年代后在英美等国日益制度化"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Innovation Park]]"
   - "[[Fourth Generation University]]"
+  - "[[Discourse]]"
   - "[[Technology Transfer]]"
   - "[[University-Based Research Center]]"
   - "[[Multi-University]]"
@@ -66,7 +67,7 @@ updated: 2026-10-07
 - **1980s–1990s** 在美国 [[Bayh-Dole Act of 1980|Bayh-Dole Act]] 和英国一系列政策改革（取消 British Technology Group 的 IP 垄断、Alvey 计划、1993 年白皮书 *Realising Our Potential*）的推动下，政府重新强调大学对经济[[Competitiveness|竞争力]]的贡献（pp.39–41）。
 - **2000 年代至今** 第三使命正式化和制度化——大学设立了专门的领导角色、战略规划、支持办公室、内部转化基金、[[Innovation Park|科技园区]]和能力培训体系（pp.41–44）。
 
-该框架的最新延伸之一是 [[Fourth Generation University|第四代大学]]（Fourth Generation University）话语，后者在教学、研究和经济参与之外强调大学直接参与复杂社会挑战的解决方案开发。二者并非替代关系，而是在理论资源和制度化程度上各有侧重。
+该框架的最新延伸之一是 [[Fourth Generation University|第四代大学]]（Fourth Generation University）[[Discourse|话语]]，后者在教学、研究和经济参与之外强调大学直接参与复杂社会挑战的解决方案开发。二者并非替代关系，而是在理论资源和制度化程度上各有侧重。
 
 ---
 

@@ -9,7 +9,7 @@ summary: "批判取向的质性教育政策研究方法与认识论范式，将�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 32
+method_related_count: 33
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # Critical Policy Analysis
@@ -70,7 +71,7 @@ updated: 2026-09-24
 ## 定义
 
 > [!def] 方法定义
-> 批判性政策分析（Critical Policy Analysis, CPA；亦称批判性政策研究 Critical Policy Study）是一种植根于批判社会理论的质性教育政策研究方法与反思[[Paradigm|范式]]。它将公共政策视作特定阶层或权力精英将其关于“理想社会”的权威愿景转化为法律制度与日常实践的历史性建构，聚焦追问“政策究竟提供了什么、剥夺了什么”（what policies offer and what they deny），致力于系统解构政策文本中的意识形态话语、特权同盟利益输送与[[Disciplina and Doctrina|规训]]控制，从而为受政策压制的边缘群体与一线教育者重夺民主参与能动性提供分析武器。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–13)]]
+> 批判性政策分析（Critical Policy Analysis, CPA；亦称批判性政策研究 Critical Policy Study）是一种植根于批判社会理论的质性教育政策研究方法与反思[[Paradigm|范式]]。它将公共政策视作特定阶层或权力精英将其关于“理想社会”的权威愿景转化为法律制度与日常实践的历史性建构，聚焦追问“政策究竟提供了什么、剥夺了什么”（what policies offer and what they deny），致力于系统解构政策文本中的意识形态[[Discourse|话语]]、特权同盟利益输送与[[Disciplina and Doctrina|规训]]控制，从而为受政策压制的边缘群体与一线教育者重夺民主参与能动性提供分析武器。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–13)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 法案条文、听证卷宗、专家委员会报告、行政规约、政商游说档案、主流媒体危机修辞及一线学校抵制实践。
@@ -105,7 +106,7 @@ updated: 2026-09-24
 > [!proc] 通用程序
 > 1. **问题确立与权力定位** 识别当前教育政策热点背后被官方掩盖的价值冲突与利益集团。
 > 2. **全周期档案搜集** 系统爬梳法案草案演变、国会听证记录、基金资助流向、专家委员会会议实录及草根抗议信件。
-> 3. **话语与意识形态解构** 运用文本分析解剖核心术语法定定义的窄化过程，辨识官方将局部偏好包装为“客观科学共识”的修辞策略。
+> 3. **[[Discourse|话语]]与意识形态解构** 运用文本分析解剖核心术语法定定义的窄化过程，辨识官方将局部偏好包装为“客观科学共识”的修辞策略。
 > 4. **利益铁三角与结构剖析** 绘制官僚部门、立法委员与商业资本之间的旋转门网络与利益输送链条。
 > 5. **反制战略设计** 基于诊断结论，为一线教育者构筑多元民主联盟（[[Critical Pluralism|批判性多元主义]]）与合宪抵制提供实用行动纲领。
 

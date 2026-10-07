@@ -5,7 +5,7 @@ aliases:
 summary: "强调星球共同体、生命多样性和世界普遍责任的替代全球化概念，用以对抗市场驱动的单一路径全球化"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 2
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,6 +16,7 @@ tags:
 - world-making
 - alternative-globalization
 related_concepts:
+  - "[[Discourse]]"
   - "[[Posthumanism]]"
 related_theories: []
 related_methods: []
@@ -26,7 +27,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-08'
-updated: '2026-05-18'
+updated: 2026-10-07
 ---
 
 ## 定义
@@ -40,7 +41,7 @@ updated: '2026-05-18'
 ## 概念演变
 
 > [!note-] 概念演变
-> "全球化"一词最初由比利时生物学家 Ovide Decroly 在 1929 年引入学术话语。在 Decroly 的使用中，全球化是一种**认知功能**——在不预先知道其组成元素的情况下，整体把握现实的能力。这个意义后来被市场、劳动力灵活化和文化同质化的论说覆盖了([[Argument_Amos_2022_Springer\|Amos, 2022, p.61]])。
+> "全球化"一词最初由比利时生物学家 Ovide Decroly 在 1929 年引入学术[[Discourse|话语]]。在 Decroly 的使用中，全球化是一种**认知功能**——在不预先知道其组成元素的情况下，整体把握现实的能力。这个意义后来被市场、劳动力灵活化和文化同质化的论说覆盖了([[Argument_Amos_2022_Springer\|Amos, 2022, p.61]])。
 >
 > 法国哲学家 Simone Weil 复兴了这一被遗忘的含义。法学家 Alain Supiot (2019) 系统阐述了 Weil 的 mondialisation 概念——以"星球的普世性"（planetary ecumene）为视野，关注对生命的顾及和对多元或多样形式的尊重。Supiot 明确将 mondialisation 作为 globalisation 的反概念使用。
 >
@@ -59,6 +60,6 @@ updated: '2026-05-18'
 > [!abstract] 核心要素
 > - **认知功能恢复**恢复 Decroly (1929) 的原初含义——全球化首先是把握整体现实的能力，不是经济过程([[Argument_Amos_2022_Springer\|Amos, 2022, p.61]])
 > - **多元性的尊重** 以"星球的普世性"替代"市场的普世性"，人类和非人类生命的多元形式不被简化为可交换的商品
-> - **具体生活世界优先** 区别于全球化的"宏观趋势"话语，Mondialisation 以特定地方的生活世界为参照和出发
+> - **具体生活世界优先** 区别于全球化的"宏观趋势"[[Discourse|话语]]，Mondialisation 以特定地方的生活世界为参照和出发
 >
 

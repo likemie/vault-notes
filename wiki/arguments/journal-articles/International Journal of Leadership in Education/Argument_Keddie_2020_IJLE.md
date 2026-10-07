@@ -16,7 +16,7 @@ title: "Argument_Keddie_2020_IJLE"
 argument_key: "Argument_Keddie_2020_IJLE"
 argument_display_title: "The constitution of school autonomy in Australian public education: areas of paradox for social justice"
 argument_kind: "journal-article"
-argument_related_count: 6
+argument_related_count: 7
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ tags:
 - paradox
 related_concepts:
   - "[[Research Question]]"
+  - "[[Discourse]]"
   - "[[School Autonomy]]"
 related_theories: []
 related_methods:
@@ -57,7 +58,7 @@ citation_aliases:
 > [!info] [[Research Question\|研究问题]]
 > 论文试图回答以下问题(IJLE, p.5, 12-13)：
 >
-> 1. 市场化的哪些话语和实践构成[[School Autonomy\|学校自主权]]、以损害社会正义的方式？
+> 1. 市场化的哪些[[Discourse|话语]]和实践构成[[School Autonomy\|学校自主权]]、以损害社会正义的方式？
 > 2. 这些话语和实践如何改变了澳大利亚公立教育中"公共"的含义？
 > 3. 它们如何改变了公立教育为公共善（public good）的理念？
 
@@ -65,7 +66,7 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - **Fraser (2009) 的再分配正义（redistributive justice）** 将社会正义界定为"对学生的人力和物质资源的更公平分配"(IJLE, p.3, 5)
-> - **Dolan (2020) 的悖论分析（paradox analysis）** 将悖论理解为"由话语的构成性实践所形成，而非作为冲突或复杂性的表征"——目的是"问题化并使主导当代学校教育的话语变得脆弱，揭示塑造和影响[[School Autonomy\|学校自主权]]的竞争性利益"(IJLE, p.5-6)
+> - **Dolan (2020) 的悖论分析（paradox analysis）** 将悖论理解为"由[[Discourse|话语]]的构成性实践所形成，而非作为冲突或复杂性的表征"——目的是"问题化并使主导当代学校教育的话语变得脆弱，揭示塑造和影响[[School Autonomy\|学校自主权]]的竞争性利益"(IJLE, p.5-6)
 
 ## 研究方法
 
@@ -82,7 +83,7 @@ citation_aliases:
 > [!example] 核心论证
 > 论文以 Dolan 的悖论框架，围绕四大悖论展开论证(IJLE, p.5)：
 >
-> 1. **经济效率与差异化拨款** 经济效率话语和实践 + 公私部门间差异化拨款 → 构成学校"自主权" → 制造经济不公
+> 1. **经济效率与差异化拨款** 经济效率[[Discourse|话语]]和实践 + 公私部门间差异化拨款 → 构成学校"自主权" → 制造经济不公
 > 2. **竞争与个人主义** 竞争和个人主义话语和实践 → 构成[[School Autonomy\|学校自主权]] → 削弱系统层面的公平（个别学校的成功以其他学校为代价）
 > 3. **权力下放与经济理性主义** 权力下放和经济理性主义 → 构成学校自主权 → 使本已弱势的学校（农村/偏远、低SES、小规模）更加不利
 > 4. **需求本位拨款** 需求本位拨款在缺乏透明度、精细度和行政支持时 → 构成学校自主权 → 制造经济不公（包括资金挪用和误用）
@@ -92,7 +93,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> - 经济效率话语伴随着[[School Autonomy\|学校自主权]]改革"破坏了传统上与支持公立学校相关的中央教育官僚机构的结构、资源和项目"，使学校自行管理先前由国家负责的义务(IJLE, p.3-4)
+> - 经济效率[[Discourse|话语]]伴随着[[School Autonomy\|学校自主权]]改革"破坏了传统上与支持公立学校相关的中央教育官僚机构的结构、资源和项目"，使学校自行管理先前由国家负责的义务(IJLE, p.3-4)
 > - 竞争制造了公立系统内的分层和残余化——通过"评估（公开奖励）和贬低（公开羞辱）学校"(p.4)
 > - 学校自主权没有单向地与学术成就提升相关联——"没有证据将学校自主权改革与澳大利亚学生成绩的提升单向地联系起来"(p.3)
 > - 农村/偏远、低SES、小规模学校在权力下放系统中面临不成比例的不利影响(p.9-10)

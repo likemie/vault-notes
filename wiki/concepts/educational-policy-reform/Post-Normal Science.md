@@ -8,7 +8,7 @@ aliases:
 summary: "由科学哲学家西尔维奥·丰托维奇与杰罗姆·拉维茨于 1993 年提出的科学认识论与公共政策分析概念，用以界定“事实不确定、价值有争议、赌注高昂且决策紧迫”的复杂治理情境，主张超越封闭的传统同行评议，构建吸纳公众与多元利益相关方的“扩展同行共同体”，以透明披露科学不确定性与民主对话化解决策僵局"
 type: concept
 domain: "educational-policy-reform"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Epistemic Aims]]"
   - "[[Emergence]]"
   - "[[Hypothesis]]"
+  - "[[Discourse]]"
   - "[[Scientific Literacy]]"
   - "[[Rote Learning]]"
   - "[[Critical Thinking]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Post-Normal Science
@@ -116,7 +117,7 @@ updated: 2026-09-22
 ### 命题一　在后常规情境中以封闭专家技术官僚掩盖政治权衡必然引发公众信任危机
 
 > [!concept-lens] 信任侵蚀机制
-> 围绕决策者在重大风险决策中滥用权威科学话语所产生的反噬后果展开探讨。
+> 围绕决策者在重大风险决策中滥用权威科学[[Discourse|话语]]所产生的反噬后果展开探讨。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
 > **政客滥用“遵循科学”口号是对科学公信力的制度性侵蚀** 当政府部长宣称自己只是在“遵循科学”（Following the science）时，往往掩盖了实际拍板是基于政治妥协、经济考量或党派利益的真相；这种虚假的科学客观性外衣一旦被戳破，不仅无法推卸决策失误的政治责任，反而让公众将对政策的不满直接转化为对科学本身的不信任，导致科学顾问机制丧失社会中立性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 86)]]

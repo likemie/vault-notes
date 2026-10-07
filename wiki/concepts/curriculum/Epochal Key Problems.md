@@ -5,10 +5,10 @@ aliases:
 summary: "Klafki 提出的课程组织概念，以环境危机、社会不平等和战争等时代问题连接学科深度与跨学科广度。"
 type: concept
 domain: "curriculum"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - epochal-key-problems
 - didaktik
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Bildung]]"
+  - "[[Discourse]]"
   - "[[Atomisation of Knowledge and Skills]]"
   - "[[Champ]]"
 related_theories: []
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-05-18'
+updated: 2026-10-07
 ---
 
 ## 定义
@@ -61,7 +62,7 @@ updated: '2026-05-18'
 
 > [!example] 与相关概念的区别
 > - vs [[Phenomenon-Based Learning]] — Epochal Key Problems 是课程选择和组织原则；PhBL 是可围绕这些问题展开的教学取向。前者回答"为什么选择这些问题"，后者回答"如何围绕现象组织学习"([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp.7, 11]])。
-> - vs 21 世纪技能 — 21 世纪技能话语常把未来挑战理解为经济竞争和劳动力市场适应问题；时代关键问题更强调公共责任、价值判断和共同生活的伦理政治维度。若时代问题被拆成可测能力清单，它就会滑向 [[Atomisation of Knowledge and Skills]]([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp.9-11]])。
+> - vs 21 世纪技能 — 21 世纪技能[[Discourse|话语]]常把未来挑战理解为经济竞争和劳动力市场适应问题；时代关键问题更强调公共责任、价值判断和共同生活的伦理政治维度。若时代问题被拆成可测能力清单，它就会滑向 [[Atomisation of Knowledge and Skills]]([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp.9-11]])。
 
 ## 理论基础
 
@@ -72,7 +73,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 时代关键问题可能被政策话语重新包装为可测量能力或项目活动，从而失去其规范性和批判性。若课程只把"气候变化"等问题拆成可评估任务，却不让学生追问生活方式、公共责任和不确定未来，概念就会被工具化([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp.9-10]])。
+> - 时代关键问题可能被政策[[Discourse|话语]]重新包装为可测量能力或项目活动，从而失去其规范性和批判性。若课程只把"气候变化"等问题拆成可评估任务，却不让学生追问生活方式、公共责任和不确定未来，概念就会被工具化([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp.9-10]])。
 
 ## 相关案例／政策
 

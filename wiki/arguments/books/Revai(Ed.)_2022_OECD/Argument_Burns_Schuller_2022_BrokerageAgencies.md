@@ -7,7 +7,7 @@ title: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_key: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_display_title: "History and evolution of brokerage agencies in education"
 argument_kind: "book-chapter"
-argument_related_count: 94
+argument_related_count: 95
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Recommendations for Practice]]"
   - "[[Lifelong Learning]]"
+  - "[[Discourse]]"
   - "[[Epistemology]]"
   - "[[Evidence Backlash]]"
   - "[[Technocognition]]"
@@ -243,7 +244,7 @@ updated: 2026-09-24
 ### 论证步骤一　后真相算法茧房、实践下沉引发的政策脱责与多主体复杂网络彻底瓦解了古典线性知识推送范式
 
 > [!claim] 步骤一核心主张
-> 自 2007 年[[OECD\|经合组织]]首份标志性报告以来的十五年间，教育循证话语经历了根本性结构重塑：后真相语境与社交媒体侵蚀了对科学客观性的基本信奉；关注重心向学校课堂实践的大幅倾斜引发政策制定者自我脱责的隐忧；而分权化与信息过载则迫使[[Epistemic Governance\|知识治理]]告别简单的单向供给推送，转向深植于社会互动的关系网络。（pp. 56–60）
+> 自 2007 年[[OECD\|经合组织]]首份标志性报告以来的十五年间，教育循证[[Discourse|话语]]经历了根本性结构重塑：后真相语境与社交媒体侵蚀了对科学客观性的基本信奉；关注重心向学校课堂实践的大幅倾斜引发政策制定者自我脱责的隐忧；而分权化与信息过载则迫使[[Epistemic Governance\|知识治理]]告别简单的单向供给推送，转向深植于社会互动的关系网络。（pp. 56–60）
 
 #### 1. 后真相算法茧房与反科学情绪动摇客观理性预设，证据治理亟需采纳“技术认知法”主动免疫
 

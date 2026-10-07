@@ -11,7 +11,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Theories of Policy Change]]"
   - "[[Transfer Space]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Discourse]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Knowledge and Innovation Exchange
@@ -153,4 +154,4 @@ updated: 2026-10-03
 > | [[Global Partnership for Education]] | Fact (Organization) | 发起设立与主要资金出资方。 |
 > | [[Policy Brokerage]] | Concept | KIX 是数字化时代国际组织实施区域化政策中介的标杆工具。 |
 > | [[Transfer Space]] | Concept | KIX 区域枢纽构成了典型的政策借鉴与本土[[Transfer Translation Transformation\|转译]]空间。 |
-> | [[Building Evidence in Education]] | Fact (Organization) | 另一大型捐助国证据机制，与 GPE 共同竞逐全球南方政策话语权。 |
+> | [[Building Evidence in Education]] | Fact (Organization) | 另一大型捐助国证据机制，与 GPE 共同竞逐全球南方政策[[Discourse\|话语]]权。 |

@@ -7,7 +7,7 @@ aliases:
 summary: "指贯穿个体全生命周期的自愿性、适应性与累积性学习过程，既包含服务知识经济与劳动力重构的人力资本技能更新，更涵盖支撑公民健康、理性决策、民主协商与社会文化基础设施构建的全人发展与非正式参与生态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Cognitive Flexibility]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Discourse]]"
   - "[[Employability]]"
   - "[[Policy Borrowing]]"
   - "[[Externalization]]"
@@ -86,7 +87,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 终身学习超越了将教育等同于一次性学龄阶段文凭获取的传统观念，强调学习是跨越儿童、青年、成人与老年全生命周期的具身化[[Knowledge Building Theory|知识建构]]与能力迭代过程。
-> - **用途** 在政策研究中，它一方面被用作分析全球化[[Knowledge-Based Economy\|知识经济]]与产业变革下劳动力技能升级的分析工具；另一方面作为批判透镜，揭示官方借用国际流行话语以合法化本土课程改革的修辞机制。
+> - **用途** 在政策研究中，它一方面被用作分析全球化[[Knowledge-Based Economy\|知识经济]]与产业变革下劳动力技能升级的分析工具；另一方面作为批判透镜，揭示官方借用国际流行[[Discourse|话语]]以合法化本土课程改革的修辞机制。
 > - **边界** 终身学习不应被窄化为纯粹服务劳动力市场[[Employability\|就业能力]]的职业培训，亦不应演变为将国家公共教育保障责任推卸给个体的借口，而是必须依托普惠均等的公共社会与文化基础设施予以制度化支撑。
 
 > [!boundary]- 概念边界
@@ -100,7 +101,7 @@ updated: 2026-10-07
 > [!dev-timeline] 50 年概念演变脉络
 > - **1972 年 [[UNESCO|联合国教科文组织]]《学会生存》报告奠基** 联合国教科文组织（UNESCO）发布《学会生存》（Learning to Be: The World of Education Today and Tomorrow，Faure 报告），首次在国际层面系统确立终身教育理念，强调教育的人本主义属性与个体自由全面发展。
 > - **1996 年 德洛尔报告确立四大支柱与应对全球化挑战** 联合国教科文组织发布《教育：财富蕴藏其中》（Learning: The Treasure Within，Delors 报告），将终身学习凝练为四大支柱：学会认知（Learning to know）、学会做事（Learning to do）、学会共处（Learning to live together）以及学会生存（Learning to be），并警惕经济全球化与纯粹功利主义可能侵蚀社会连带；但国际多边治理主导权已开始向国际金融机构倾斜。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
-> - **1990 年代末至 2000 年代初 [[Knowledge-Based Economy|知识经济]]主导与[[Policy Borrowing|政策借用]]转向** 伴随全球化进程，终身学习被[[World Bank|世界银行]]（[[World Bank]]）与 [[OECD]] 深度重塑为服务[[Knowledge-Based Economy|知识经济]]与劳动力市场[[Employability|就业能力]]的工具；各国政府亦频繁借用终身学习话语作为[[Externalization|外部化]]国内矛盾的政策工具。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 487)]]
+> - **1990 年代末至 2000 年代初 [[Knowledge-Based Economy|知识经济]]主导与[[Policy Borrowing|政策借用]]转向** 伴随全球化进程，终身学习被[[World Bank|世界银行]]（[[World Bank]]）与 [[OECD]] 深度重塑为服务[[Knowledge-Based Economy|知识经济]]与劳动力市场[[Employability|就业能力]]的工具；各国政府亦频繁借用终身学习[[Discourse|话语]]作为[[Externalization|外部化]]国内矛盾的政策工具。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 487)]]
 > - **2006 年与 2018 年 欧盟[[21st Century Skills and Competencies Discourse|关键能力]]框架** 欧洲联盟（European Union, EU）发布并更新《终身学习核心素养建议书》（[[EU Key Competences for Lifelong Learning]]），确立了包括科学、数学、数字素养、公民素养及[[Learner Autonomy|自主学习]]在内的八大终身学习关键能力。
 > - **2020 年代中 数字化、绿色化转型与社会文化基础设施跃迁** 面对[[Generative Artificial Intelligence|生成式人工智能]]（Artificial Intelligence, AI）颠覆与气候变化危机，英国皇家学会（Royal Society, 2026）重塑终身学习[[Construct|构念]]，提出涵盖[[Data Literacy|数据素养]]、批判性 AI 素养与可持续发展素养的交叉素养框架，并将科技馆、探索中心及[[Citizen Science|公民科学]]确立为保障全民终身学习的社会与文化基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 31–32)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
 
@@ -133,7 +134,7 @@ updated: 2026-10-07
 ### 命题一　终身学习在政策实践中常被用作外部化国内矛盾与合法化课程改革的修辞工具
 
 > [!concept-lens] [[Policy Borrowing|政策借用]]与修辞合法化
-> 批判政策研究表明，国际机构倡导的终身学习话语在进入主权国家或地区的教育决策时，往往脱离原初的人本主义内核，被官方改造为转移治理压力、推动本土改革合法化的修辞策略。
+> 批判政策研究表明，国际机构倡导的终身学习[[Discourse|话语]]在进入主权国家或地区的教育决策时，往往脱离原初的人本主义内核，被官方改造为转移治理压力、推动本土改革合法化的修辞策略。
 
 > [!claim] [[Argument_Yan_2025_JCS|Yan & Morris (2025)]]
 > **终身学习话语的[[Externalization|外部化]]功能** 在分析香港世纪之交的课程改革时指出，官方在 1998 年《施政报告》及 2001 年《学会学习》纲领中密集引入终身学习与[[Knowledge-Based Economy|知识经济]]话语，其核心动机在于政策外部化（[[Externalization]]）；即借用全球通行话语来将本土政治争议与制度弊端包装为顺应世界大势的必然选择，以此压制一线教师与公众对改革激进性的质疑。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 487)]]
@@ -181,7 +182,7 @@ updated: 2026-10-07
 >
 > > [!axis] 风险个体化 vs 国家制度性保障
 > > 当技术变革导致岗位淘汰时，终身学习的成本与责任应由谁承担？
-> > - **新自由主义政策话语** 将学习责任单向转嫁给个人，宣称失业是由于个人未能积极终身学习所致。
+> > - **新自由主义政策[[Discourse|话语]]** 将学习责任单向转嫁给个人，宣称失业是由于个人未能积极终身学习所致。
 > > - **社会批判学者与皇家学会建议四** 强调国家必须设立法定专项资金，将科普场馆与成人技能重塑确立为公共财政保障的社会基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 52)]]
 
 > [!critique] 外部批评与实践落差
@@ -207,7 +208,7 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] — 深度剖析终身学习话语在香港课程改革中的政策[[Externalization|外部化]]与修辞借用机制。
+> - [[Argument_Yan_2025_JCS|Yan & Morris (2025)]] — 深度剖析终身学习[[Discourse|话语]]在香港课程改革中的政策[[Externalization|外部化]]与修辞借用机制。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 倡导面向全体公民的全生命周期[[Scientific Literacy|科学素养]]建设，以[[Data Literacy|数据素养]]与批判性 AI 素养重构跨人生阶段的基础素养底座，并将[[Informal Science Learning|非正式科学学习]]场馆与社区参与网络确立为国家终身学习不可或缺的公共社会文化基础设施。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, p. 110)]] — 揭示终身学习在战后[[International Education|国际教育]]多边主义转型中的权力位移，分析[[UNESCO|联合国教科文组织]]人本主义终身教育构想如何在[[World Bank|世界银行]]等金融机构崛起中被新自由主义[[Disciplina and Doctrina|规训]]与[[Human Capital Theory|人力资本]]导向所取代。
 

@@ -7,7 +7,7 @@ aliases:
 summary: "东亚文化学习模型，以修身为核心目标，包含完善自我、以天下为己任、学习美德和行胜于言四个文化主题"
 type: theory
 theory_field: "chinese-philosophy"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Humility]]"
   - "[[Action Better Than Words]]"
   - "[[Junzi]]"
+  - "[[Discourse]]"
   - "[[Grice's Conversational Maxims]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-09-23
+updated: 2026-10-07
 ---
 
 # Confucian Learning Tradition
@@ -91,7 +92,7 @@ updated: 2026-09-23
 
 [[Confucius|孔子]]对巧言令色极度不信任——**[[Junzi|君子]]欲讷于言而敏于行**。说话是一种严肃的道德行为，因为它将说话者承诺于相应的行动。因此，典范之人说话少、行动快([[Argument_Li_2012_Cambridge|Li, 2012, pp.52-54]])。
 
-第 8 章大幅深化了这一主题。Li 从《论语》中辨识出孔子对三种**问题说话**的系统诊断([[Argument_Li_2012_Cambridge|Li, 2012, pp.97-99]])：（1）**巧言**——心与言分离的欺骗性话语，巧言令色，鲜矣仁；（2）**谄媚之言**——逢迎讨好使说话者远离真诚；（3）**自夸之言**——缺乏谦逊的空洞自吹，如子路的率尔而对被孔子哂之。三种问题的共同点在于**外在言辞与说话者内心状态之间的不一致([[Argument_Li_2012_Cambridge|Li, 2012, p.99]])**。
+第 8 章大幅深化了这一主题。Li 从《论语》中辨识出孔子对三种**问题说话**的系统诊断([[Argument_Li_2012_Cambridge|Li, 2012, pp.97-99]])：（1）**巧言**——心与言分离的欺骗性[[Discourse|话语]]，巧言令色，鲜矣仁；（2）**谄媚之言**——逢迎讨好使说话者远离真诚；（3）**自夸之言**——缺乏谦逊的空洞自吹，如子路的率尔而对被孔子哂之。三种问题的共同点在于**外在言辞与说话者内心状态之间的不一致([[Argument_Li_2012_Cambridge|Li, 2012, p.99]])**。
 
 三种对应美德([[Argument_Li_2012_Cambridge|Li, 2012, pp.99-100]])：（1）**天无言而化万物**——天何言哉？四时行焉，百物生焉（Analects 17.19），不说话被确立为最高德行的理想；（2）**行先于言、多于言**——先行其言而后从之，这不是西方的修辞性沉默，而是对行动伦理意义的全力前景化；（3）**说话的社会协调性**——非礼勿言、可与言而不与之言，失人；不可与言而与之言，失言，孔子自身在乡党似不能言者、在朝廷便便言，唯谨尔。
 

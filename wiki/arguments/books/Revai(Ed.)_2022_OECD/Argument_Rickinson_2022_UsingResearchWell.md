@@ -7,7 +7,7 @@ title: "Argument_Rickinson_2022_UsingResearchWell"
 argument_key: "Argument_Rickinson_2022_UsingResearchWell"
 argument_display_title: "Using research well in educational practice"
 argument_kind: "book-chapter"
-argument_related_count: 39
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Emergence]]"
   - "[[Poor Research Use]]"
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Push and Pull Models of Knowledge Mobilisation]]"
@@ -179,7 +180,7 @@ updated: 2026-09-14
 ### 论证步骤一　研究使用议程必须从关注证据质量转向关注使用质量，依托 QURE 框架界定高质量使用的核心与使能构件
 
 > [!claim] 步骤一核心主张
-> 改善教育实践中的证据应用，必须打破长期垄断政策话语的学术供给侧偏误，实现从探讨何谓优质证据向明确何谓优质使用的[[Paradigm\|范式]]转向；[[Quality Use of Research Evidence Framework\|QURE]] 框架将质量使用界定为在复杂系统内由个体与组织使能条件协同支持的、对适切研究证据的深思熟虑参与和实施。（pp.183–185）
+> 改善教育实践中的证据应用，必须打破长期垄断政策[[Discourse|话语]]的学术供给侧偏误，实现从探讨何谓优质证据向明确何谓优质使用的[[Paradigm\|范式]]转向；[[Quality Use of Research Evidence Framework\|QURE]] 框架将质量使用界定为在复杂系统内由个体与组织使能条件协同支持的、对适切研究证据的深思熟虑参与和实施。（pp.183–185）
 
 #### 1. 证据利用必须打破单向供给驱动（Push）偏误，确立以实践者为中心的需求牵引（Pull）新范式
 

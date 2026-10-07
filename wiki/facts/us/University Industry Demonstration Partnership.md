@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Physician-Scientist]]"
   - "[[Avatar]]"
   - "[[Refined Mastery]]"
+  - "[[Discourse]]"
   - "[[Clinical Trial]]"
   - "[[Technology Transfer Office]]"
   - "[[Boundary Spanner]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # University Industry Demonstration Partnership
@@ -133,7 +134,7 @@ updated: 2026-10-06
 > 该案例表明，UIDP 构筑的国际实践者物理网络能够在特定时空节点产生强大的关系加速效应。
 
 > [!citation-card] [[Physician-Scientist|医师科学家]]：UIDP 使命在生物医学领域的具象化
-> 医师科学家（Physician-Scientist）被视为 UIDP 降低跨部门壁垒使命在现代医学健康系统中的典型人格[[Avatar|化身]]：他们必须同时[[Refined Mastery|精通]]医疗服务体系与产业生物医药两条话语体系，在学术探索、[[Clinical Trial|临床试验]]与产业转化之间充当关键的跨界双向翻译者与中介枢纽。
+> 医师科学家（Physician-Scientist）被视为 UIDP 降低跨部门壁垒使命在现代医学健康系统中的典型人格[[Avatar|化身]]：他们必须同时[[Refined Mastery|精通]]医疗服务体系与产业生物医药两条[[Discourse|话语]]体系，在学术探索、[[Clinical Trial|临床试验]]与产业转化之间充当关键的跨界双向翻译者与中介枢纽。
 >
 > *Physician-scientists must be speakers of both health system and industry vernacular, acting as liaisons among academic, industry, and other vital partners to translate laboratory discovery into clinical practice.* [[Argument_Swick_Jones_2025_AcademicHealthSystems|(Swick & Jones, 2025, pp. 176–177)]]
 
@@ -170,7 +171,7 @@ updated: 2026-10-06
 > > - **情境复杂性派** 指出公立大学（受州法规制严格限制知识产权出让）与私立名校之间存在巨大差异，大企业的知识产权独占诉求无法完全被标准化模板化解，一线管理者仍需保持高度的权变谈判弹性。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, pp. 284–285)]]
 >
 > > [!axis] 会员制准入壁垒 vs 公共利益外溢
-> > UIDP 作为收取年费的精英会员制组织，其资源与话语权是否过度偏向财力雄厚的顶尖名校与大型跨国巨头。
+> > UIDP 作为收取年费的精英会员制组织，其资源与[[Discourse|话语]]权是否过度偏向财力雄厚的顶尖名校与大型跨国巨头。
 > >
 > > - **资源集中性反思** 地方中小型高校与资源匮乏的区域初创企业因难以承担会费或缺乏专职产学团队，往往难以充分接入 UIDP 核心议程。
 > > - **外溢公共品辩护** UIDP 坚持将大部分操作指南与共识原则公开发布，使全社会非会员机构同样能免费受益于其沉淀的最佳实践。

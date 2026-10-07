@@ -6,14 +6,14 @@ aliases:
 summary: "群体或个体在面对主导文化场域（如精英大学或国家学校课程）时，因自身文化语码被边缘化而产生的疏离感与身份断裂"
 type: concept
 domain: "sociology-of-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 confidence: high
 status: active
 created: '2026-05-09'
-updated: 2026-09-17
+updated: 2026-10-07
 tags:
   - cultural-disembedding
   - higher-education
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Habitus]]"
+  - "[[Discourse]]"
   - "[[The Shock of the Elite]]"
   - "[[Cultural Disorientation]]"
   - "[[Cultural Barrier]]"
@@ -55,7 +56,7 @@ related_arguments:
 > [!concept-lens] 概念透镜
 > - **含义** 指指向行动者在其文化属性与制度化场域的默认规范不匹配时所体验到的主客观疏离现象。
 > - **用途** 帮助研究者分析第一代大学生/寒门学子进入精英大学时的物理与文化屏障，以及少数民族与信教学生在汉儒中心主义国家课程中体验到的结构性边缘化[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]][[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
-> - **边界** 涵盖微观阶层场域（个体在特定机构中的短暂疏离）与宏观国族场域（群体在国家统治话语中的系统性脱嵌）。
+> - **边界** 涵盖微观阶层场域（个体在特定机构中的短暂疏离）与宏观国族场域（群体在国家统治[[Discourse|话语]]中的系统性脱嵌）。
 
 > [!citation-card]- 关键表述
 > 官方主导的儒家版本将其呈现为单一汉文化的核心……要求所有民族效仿，这种叙事反而倾向于加剧文化分裂与疏离（文化脱嵌）。[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]
@@ -84,7 +85,7 @@ related_arguments:
 ## 核心要素
 
 > [!feature] 核心要素
-> - **环境与话语的陌生感** — 物理设施（导航、选课系统）或符号话语（《论语》核心论、精英谈吐）与原初经验剧烈脱节[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 116)]][[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
+> - **环境与[[Discourse|话语]]的陌生感** — 物理设施（导航、选课系统）或符号话语（《论语》核心论、精英谈吐）与原初经验剧烈脱节[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 116)]][[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
 > - **文化语码转换屏障** — 缺乏将自身经验转化为[[Champ\|场域]]内“高尚/正确”话语的能力，从而倾向于沉默或边缘抱团[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 117)]]。
 > - **原初社群关系断裂** — 进入新场域后，与原初亲友在语言、关切与价值观上产生距离感[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 118)]]。
 > - **[[Reflexivity\|反思性]]疏离与抵抗** — 在宏观脱嵌中，受排斥群体往往不完全内化正统文化，而是通过反思性将主导文化降格为多元之一[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 68)]]。
@@ -111,7 +112,7 @@ related_arguments:
 > 探讨弱势阶层学生在进入精英高等教育时所经历的初级适应危机。
 
 > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]
-> **第一代大学生的文化脱嵌体验** [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] 提出文化脱嵌是寒门学子面临的第一重文化障碍。学生在进入精英大学后，感受到物理空间（大都市交通、选课系统）与社交话语（无法用精英同学熟悉的语码表达）的全面陌生感，并伴随着[[Sense of Shame\|羞耻感]]。这一障碍偏向短期，随着同伴支持、组织整合与校园生活的累积，多数学生可在一年内逐步缓解[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, pp. 115–120)]]。
+> **第一代大学生的文化脱嵌体验** [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] 提出文化脱嵌是寒门学子面临的第一重文化障碍。学生在进入精英大学后，感受到物理空间（大都市交通、选课系统）与社交[[Discourse|话语]]（无法用精英同学熟悉的语码表达）的全面陌生感，并伴随着[[Sense of Shame\|羞耻感]]。这一障碍偏向短期，随着同伴支持、组织整合与校园生活的累积，多数学生可在一年内逐步缓解[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, pp. 115–120)]]。
 
 ---
 

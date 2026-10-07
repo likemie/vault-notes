@@ -7,10 +7,10 @@ aliases:
 summary: "Lamont (2012) 概括的研究领域，关注排名和绩效测量如何同时完成资源分配、合法性制造和不平等正当化三重操作，为理解学术评估的非预期效应提供经验基础"
 type: concept
 domain: "sociology-of-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - sociology-of-evaluation
   - higher-education
@@ -20,6 +20,7 @@ tags:
   - paradigm/critical
   - level/higher-ed
 related_concepts:
+  - "[[Discourse]]"
   - "[[Performativity of Measurement]]"
   - "[[Reliability]]"
   - "[[Discursive Stratification]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-09-11
+updated: 2026-10-07
 ---
 
 # Sociology of Valuation and Evaluation
@@ -47,14 +48,14 @@ updated: 2026-09-11
 > [!info]
 > 评估与赋值社会学（Sociology of Valuation and Evaluation）是由 Lamont（2012）在 Annual Review of Sociology 中概括的一个比较研究领域。它关注评估（evaluation）、量化绩效测量（quantitative performance measures）和序数排名（ordinal rankings）如何塑造个体和机构的社会地位——以及这些评价工具本身的建构、使用和社会效应([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.798]])。
 
-在 Schulze-Cleven et al.（2017）对高等教育新政治经济学的分析中，这一研究领域被定位为揭示话语竞争过程的"第二条探究线索"——与微观社会学实践理论（Latour, Foucault）互补。它帮助研究者理解：排名和评估不仅"反映"学术质量，更在"制造"它们所测量的现象（pp.798–799）。
+在 Schulze-Cleven et al.（2017）对高等教育新政治经济学的分析中，这一研究领域被定位为揭示[[Discourse|话语]]竞争过程的"第二条探究线索"——与微观社会学实践理论（Latour, Foucault）互补。它帮助研究者理解：排名和评估不仅"反映"学术质量，更在"制造"它们所测量的现象（pp.798–799）。
 
 ## 概念辨析
 
 > [!example]
 > - vs [[Performativity of Measurement]]：测量的履行性关注指标如何改变被测量者的行为——一个更具体的因果机制。评估与赋值社会学关注更广泛的制度和文化过程——评估工具如何建立信任、制造合法性和塑造公平标准。
 > - vs [[Cultural Political Economy]]：CPE 关注符号与物质在宏观经济政治秩序中的相互构成；评估与赋值社会学更聚焦于中观层面的评价工具和评价实践的社会效应。
-> - vs 批判[[Discourse Analysis\|话语分析]]：两者都关注评价话语的建构性，但评估与赋值社会学更注重经验性的比较研究（如 Lamont 2009 对同行评审中学科特定公平标准的跨国比较），而非哲学性的解构。
+> - vs 批判[[Discourse Analysis\|话语分析]]：两者都关注评价[[Discourse|话语]]的建构性，但评估与赋值社会学更注重经验性的比较研究（如 Lamont 2009 对同行评审中学科特定公平标准的跨国比较），而非哲学性的解构。
 
 ## 核心发现
 

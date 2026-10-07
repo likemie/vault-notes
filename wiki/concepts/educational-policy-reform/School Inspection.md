@@ -9,7 +9,7 @@ aliases:
 summary: "由国家或地方政府授权的外部独立机构对学校教育教学质量、管理运行与合规状态开展现场审查、评级发布与行政问责的制度化规制机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Output-Oriented Governance]]"
   - "[[Official Knowledge]]"
+  - "[[Discourse]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Test-Based Accountability]]"
   - "[[Self-control]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-27
+updated: 2026-10-07
 ---
 
 # School Inspection
@@ -98,7 +99,7 @@ updated: 2026-09-27
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向外部国家公权力对具有相对自主权的学校组织开展的常规或突击现场质量审查与行政裁决机制。
-> - **用途** 审视国家如何通过设置督导框架确立“何为合格学校”的[[Official Knowledge\|官方知识]]话语，揭示高利害外部审查如何[[Disciplina and Doctrina\|规训]]校长与教师的微观教学实践与合规策略。
+> - **用途** 审视国家如何通过设置督导框架确立“何为合格学校”的[[Official Knowledge\|官方知识]][[Discourse|话语]]，揭示高利害外部审查如何[[Disciplina and Doctrina\|规训]]校长与教师的微观教学实践与合规策略。
 > - **边界** 学校督导是“自上而下、由外而内”的法定行政监控，不同于学校以内部自我诊断为目的的“校本自我评估（School Self-Evaluation, SSE）”，亦不同于完全依赖纯量化测验分数的“基于测试的问责（[[Test-Based Accountability]]）”。
 
 > [!citation-card] 惩罚性督导与专业共同体的制度对立
@@ -165,7 +166,7 @@ updated: 2026-09-27
 
 ### 命题二　行政督导等级在政策辩论中被道德化滑移为研究证据以掩盖政治偏好
 
-> [!concept-lens] 督导评级作为政治修辞挡箭牌的话语建构机制
+> [!concept-lens] 督导评级作为政治修辞挡箭牌的[[Discourse|话语]]建构机制
 > 揭示执政者如何将缺乏同行评议的行政检查结果伪装成“客观科学证据”，阻断关于争议教育政策的严肃实证审查。
 
 > [!claim] Bainbridge et al.
@@ -305,7 +306,7 @@ updated: 2026-09-27
 > | [[Output-Oriented Governance]] | Concept | 驱动当代学校督导从传统合规稽查向目标协定、数据诊断与协商[[Dialogue in Education\|对话]]转型的宏观治理形态。 |
 > | [[PISA Shock]] | Concept | 触发德语区打破投入规制惯性、全面引入国家教育标准与现代外部学校督导体系的政策分水岭。 |
 > | [[Test-Based Accountability]] | Concept | 与学校督导相互交织的另一种宏观问责机制，为督导提供了量化风险预警与数据监控依据。 |
-> | [[Moral Sidestep]] | Concept | 政客将技术性督导评级偷换为道德上的“好学校”话语以规避学术证据审查的核心机制。 |
+> | [[Moral Sidestep]] | Concept | 政客将技术性督导评级偷换为道德上的“好学校”[[Discourse\|话语]]以规避学术证据审查的核心机制。 |
 > | [[Policy Avoidance]] | Concept | 媒体在大肆报道督导危机与学校不及格丑闻时，系统性回避对督导制度合法性审查的现象。 |
 > | [[Mediatised Governance]] | Concept | 执政者动员媒体炒作督导结果、以行政威慑推进争议性激进改革的宏观媒介化治理形态。 |
 > | [[School Autonomy]] | Concept | 督导问责常常以“赋予学校自主权”为幌子，实则建立起更为严苛的新自由主义遥控[[Disciplina and Doctrina\|规训]]。 |

@@ -6,7 +6,7 @@ aliases:
 summary: "教育实践、供给、研究和政策被市场逻辑、投资关系和商业组织深度渗透所形成的跨国产业场域"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -20,6 +20,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Champ]]"
+  - "[[Discourse]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Competitiveness]]"
@@ -75,7 +76,7 @@ updated: 2026-10-07
 > **全球教育产业（Global Education Industry, GEI）**是指教育实践、供给、研究和政策日益被经济理性形塑的跨国[[Champ\|场域]]，涵盖经济化（economization）、市场化（marketization）、私有化（privatization）、商品化（commodification）和金融化（financialization）等多重过程，将教育重构为一个日益全球化并由私营组织管理的部门（Verger et al., 2016, p. 3, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p. 42]]）。在新自由主义全球治理下，它还通过可测量性（measurability）和绩效问责制（accountability）将教育实践及课程政策引向全球经济竞争轨道，侵蚀传统的教育公共属性与整体性价值（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 该概念不仅指向营利性教育产品和服务的跨国生产与消费，也指向一套关于教育效能与创新的新自由主义话语系统和软治理技术。
+> - **含义** 该概念不仅指向营利性教育产品和服务的跨国生产与消费，也指向一套关于教育效能与创新的新自由主义[[Discourse|话语]]系统和软治理技术。
 > - **用途** 帮助研究者识别教育改革背后多元私营行动者与跨国组织的网络关系，揭示数据化评价、教育科技与技能原子化等政策工具如何重构地方教育生态。
 > - **边界** 它不限于传统公共教育的狭义私有化形式（如特许学校或教育券），而是一个涵盖教育供给、研究、政策论证和认知想象被市场逻辑全面渗透的广泛场域（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp. 42–43]]）。
 
@@ -103,7 +104,7 @@ updated: 2026-10-07
 > - **多重经济理性** 在经济化、市场化、私有化、商品化和金融化等多重理性交织中运作（Verger et al., 2016; Parreira do Amaral et al., 2019, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p. 42]]）。
 > - **独立的规则系统** 由自身的过程集合、规则系统和社会力量构成，作用于教育服务和商品的生产、供给和需求的生成中（Verger et al., 2016, p. 4, cited in）。
 > - **多样化的行动者网络** 包含跨国公司、慈善基金会、社会企业、数据经纪人以及私营教育提供者等，通过数字平台、行业联盟和复杂连结构成跨国政策影响网络（Parreira do Amaral & Thompson, 2019, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p. 43]]）。
-> - **教育想象的话语生产** 不限于物质的商业交易，而是通过关于“技能缺口”、“个性化学习”与“教育创新”的话语，生产一套替代性或颠覆性的教育想象，侵蚀公立教育的合法性（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp. 42–43]]）。
+> - **教育想象的[[Discourse|话语]]生产** 不限于物质的商业交易，而是通过关于“技能缺口”、“个性化学习”与“教育创新”的话语，生产一套替代性或颠覆性的教育想象，侵蚀公立教育的合法性（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp. 42–43]]）。
 > - **全球渗透性与软治理** 通过以经济为基础的概念（如效率、竞争），以及国际组织（如 [[OECD]]、欧盟）的标准化测量与基准比较（Benchmarking），全球渗透至各国的教育改革议程中（；[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 8–9]]）。
 > - **[[Corporate Education\|企业教育]]与技能采购市场** 企业培训是 GEI 极其庞大的板块。欧盟三分之一至三分之二的企业培训已外包给第三方提供商。该市场由在线学习平台、管理咨询公司和 IT 巨头垄断，并通过证书认证体系确立了事实上的准入标准（[[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp. 190–193]]）。
 > - **技能原子化与测量驱动** 强调将复杂的、整体性的教育实践（如跨学科学习）拆解为细小的、可标准化的、具有明确经济实用价值的技能单元（如 [[21st Century Skills and Competencies Discourse\|21世纪技能]] 或横向能力），使之适合进行[[External Auditor\|外部审计]]、比较和市场化交易（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]）。
@@ -151,7 +152,7 @@ updated: 2026-10-07
 
 ### 命题类型一：全球教育治理与国家课程的吸纳（Global Educational Governance & Curricular Absorption）
 
-> [!concept-lens] 全球教育治理的话语转化
+> [!concept-lens] 全球教育治理的[[Discourse|话语]]转化
 > 这一命题群关注全球教育产业如何通过话语和政策工具渗透国家教育体制，将本具有整体性、批判性倾向的本地方言改革（如芬兰跨学科[[Phenomenon-Based Learning\|现象本位学习]]）转化为符合全球资本运作所需的标准化指标。
 
 > [!claim] <Parreira do Amaral, M.>
@@ -213,7 +214,7 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] — 分析了全球教育产业作为话语与物质的[[Champ\|场域]]，如何深度介入和形塑[[Geopolitics of Higher Education\|高等教育的地缘政治]]转型。
+> - [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] — 分析了全球教育产业作为[[Discourse|话语]]与物质的[[Champ\|场域]]，如何深度介入和形塑[[Geopolitics of Higher Education\|高等教育的地缘政治]]转型。
 > - [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] — 探究了[[Corporate Education\|企业教育]]市场的演进史，揭示了在线学习寡头企业通过证书体系和网络效应确立市场主导地位的过程。
 > - [[Argument_Amos_2022_Springer\|Amos (2022)]] — 提出了推动 EdTech 扩张的“利润-正义-专业发展”三重驱动力框架，指出数字化的强力锁定特征。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge (2022)]] — 探讨了在数字时代，专有软件如何将特定教学[[Hypothesis\|假设]][[Coding in Qualitative Research\|编码]]进算法中，从而实现对教学关系的全球标准化重塑。
@@ -225,5 +226,5 @@ updated: 2026-10-07
 
 - [[Minerva University]] — 融合了风险资本、专有技术和全球流动的典型 GEI 高等教育颠覆案例（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022, pp. 45–48]]）。
 - [[International Education Hubs]] — 国家或地区层面以经济[[Competitiveness|竞争力]]驱动的跨国教育战略布局，高度依赖 GEI 提供的政策语境与市场机制。
-- [[Finnish National Core Curriculum]] — 芬兰 2014 年版基础教育国家核心课程。该课程积极响应国际技能话语，包含了对于跨学科现象的指标化要求（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 8–9]]）。
+- [[Finnish National Core Curriculum]] — 芬兰 2014 年版基础教育国家核心课程。该课程积极响应国际技能[[Discourse|话语]]，包含了对于跨学科现象的指标化要求（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 2, 8–9]]）。
 - [[SveaSus Project]] — 赫尔辛基大学的可持续世界遗产学习项目。该项目代表了旨在通过具身、艺术与主体间性对话，抵制技能原子化的[[Phenomenon-Based Learning|现象本位学习]]（PhBL）实践探索（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 1, 4]]）。

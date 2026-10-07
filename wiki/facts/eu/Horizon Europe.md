@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 34
+fact_related_count: 35
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -29,6 +29,7 @@ tags:
 related_concepts:
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Knowledge Production]]"
+  - "[[Discourse]]"
   - "[[Seed Funding]]"
   - "[[Public Value]]"
   - "[[Big Science]]"
@@ -92,7 +93,7 @@ updated: 2026-10-07
 > “地平线欧洲”（Horizon Europe，全称为欧盟第九研究与创新框架计划，Framework Programme 9, FP9）总预算达 955 亿欧元，是全球规模最大的跨国公共科技资助体系；其核心在于依托三大支柱重塑科技创新链条，告别被动补贴，将第三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]制度化为以解决气候危机、癌症防治及智慧生态为锚点的全系统战略规划。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789)]]
 
 > [!policy-design]- 政策设计
-> - **政策目标** 巩固前沿基础科学的全球卓越地位；驱动应对气候中和与生态转型的技术与社会突破；培育具有全球颠覆力的深科技独角兽企业；重塑欧洲在多极世界中的[[Knowledge Production|知识生产]]话语权。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–807)]]
+> - **政策目标** 巩固前沿基础科学的全球卓越地位；驱动应对气候中和与生态转型的技术与社会突破；培育具有全球颠覆力的深科技独角兽企业；重塑欧洲在多极世界中的[[Knowledge Production|知识生产]][[Discourse|话语]]权。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–807)]]
 > - **适用对象** 成员国大学与科研机构、跨学科科研联合体（Consortia）、跨国工业界伙伴，以及广泛参与社会共创的公民群体。
 > - **政策工具** 竞争性前沿研究资助基金（[[Engineering Research Centers|ERC]] 自由探索资助）、跨学科使命定向攻关拨款、公私伙伴关系契约、欧洲创新理事会（EIC）的混合融资（股权直投 + [[Seed Funding|种子基金]]）与需求侧公共采购。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–809)]]
 > - **约束机制** 建立具有刚性时间窗口与量化里程碑的使命评估机制，强制推行数据与论文全面开放获取（Open Access），推行公私合作中的[[Public Value|公共价值]]契约约束。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]

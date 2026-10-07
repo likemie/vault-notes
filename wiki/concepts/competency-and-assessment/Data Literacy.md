@@ -7,10 +7,10 @@ aliases:
 summary: "涵盖个体在数字化社会中理解、解读与批判评估数据的通识能力，以及教育者在学校探究中系统采集质检多源数据、超越单一终结性评价、进行定性定量三角验证的专业实践胜任力；虽能精准诊断学情病因，但自身不包含现成教学策略，亟需与研究素养协同驱动探究闭环。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - field/curriculum
   - theme/stem-education
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Research-Informed Teaching Practice]]"
   - "[[STEM Education]]"
   - "[[Professional Learning Community]]"
+  - "[[Discourse]]"
   - "[[Affective Outcomes]]"
   - "[[Cognitive Deskilling]]"
   - "[[Professional Judgment]]"
@@ -75,7 +76,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Data Literacy
@@ -232,7 +233,7 @@ updated: 2026-09-22
 > > - **组织支架取向** 强调依托[[Data Team Intervention\|数据团队]]（Data Team）与[[Professional Learning Community\|专业学习共同体]]（PLC）提供集体探究支架。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 158, 167)]]
 > >
 > > [!axis] 操作现成数据集的技术技能还是审视生产机制的基础设施素养
-> > 传统政策话语将数据素养窄化为教师提取和使用现成数据报表的技术胜任力；批判性数据学者指出，由于数据在采集与建模阶段已被算法深度去情境化与价值加权，仅教导使用者接受既定数据将加剧算法[[Disciplina and Doctrina\|规训]]，必须升级为能够审视并介入基础设施全链条的批判素养。
+> > 传统政策[[Discourse|话语]]将数据素养窄化为教师提取和使用现成数据报表的技术胜任力；批判性数据学者指出，由于数据在采集与建模阶段已被算法深度去情境化与价值加权，仅教导使用者接受既定数据将加剧算法[[Disciplina and Doctrina\|规训]]，必须升级为能够审视并介入基础设施全链条的批判素养。
 > >
 > > - **数据集操作取向** 关注对既有数据的[[Descriptive Analysis\|描述统计]]分析、图表判读与合规教学应用。
 > > - **基础设施质询取向** 关注对算法逻辑、[[Commensuration\|通约]]规则、数据所有权及系统选择性的批判反思与制度介入。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 10–11)]]

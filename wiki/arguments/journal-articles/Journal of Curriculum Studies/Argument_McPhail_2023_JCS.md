@@ -11,7 +11,7 @@ title: "Argument_McPhail_2023_JCS"
 argument_key: "Argument_McPhail_2023_JCS"
 argument_display_title: "Knowledge and the New Zealand curriculum refresh"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Recontextualization]]"
   - "[[Regulative and Instructional Discourse]]"
+  - "[[Discourse]]"
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Outcomes-based Education]]"
   - "[[Rote Learning]]"
@@ -107,7 +108,7 @@ citation_aliases:
 ---
 
 > [!info] [[Basil Bernstein\|伯恩斯坦]]的知识结构与再脉络化
-> [[Basil Bernstein\|伯恩斯坦]]区分了[[Regulative and Instructional Discourse\|规约性话语]]和教学性话语。规约性话语是创造秩序、关系和身份的道德话语，教学性话语包含所选知识及其组织。教学性话语嵌入更强的规约性话语之中，这意味着任何课程都不是中性的知识传递工具，而是承载着特定的道德和意识形态立场。
+> [[Basil Bernstein\|伯恩斯坦]]区分了[[Regulative and Instructional Discourse\|规约性话语]]和教学性[[Discourse|话语]]。规约性话语是创造秩序、关系和身份的道德话语，教学性话语包含所选知识及其组织。教学性话语嵌入更强的规约性话语之中，这意味着任何课程都不是中性的知识传递工具，而是承载着特定的道德和意识形态立场。
 >
 > 再脉络化是知识从生产场所（如大学）到课程和学校的转化过程。在这个过程中，原始意义可能被误解或改变，也可能受到意识形态的影响。
 
@@ -150,7 +151,7 @@ citation_aliases:
 ## 论证结构
 
 > [!example]
-> 从课程改革的背景出发，经由[[Regulative and Instructional Discourse\|规约性话语]]分析和知识结构分析，到达课程改革主要关注规约性话语而非学科知识的结论。各步骤之间存在严格的递进关系。先说明学科知识为何重要，再揭示规约性话语如何主导课程改革，然后分析知识结构中的[[Epistemology\|认识论]]混乱，最后指出 UKD 框架的逻辑问题。
+> 从课程改革的背景出发，经由[[Regulative and Instructional Discourse\|规约性话语]]分析和知识结构分析，到达课程改革主要关注规约性[[Discourse|话语]]而非学科知识的结论。各步骤之间存在严格的递进关系。先说明学科知识为何重要，再揭示规约性话语如何主导课程改革，然后分析知识结构中的[[Epistemology\|认识论]]混乱，最后指出 UKD 框架的逻辑问题。
 
 ### 第一步：学科知识为何重要
 
@@ -332,7 +333,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success]
-> - **[[Regulative and Instructional Discourse\|规约性话语]]主导**。课程改革主要关注创建规约性话语，即道德和政治义务的话语，而非学科知识的识别和组织。
+> - **[[Regulative and Instructional Discourse\|规约性话语]]主导**。课程改革主要关注创建规约性[[Discourse|话语]]，即道德和政治义务的话语，而非学科知识的识别和组织。
 > - **[[Recontextualization\|再脉络化]]原则的张力**。双文化主义、地方化和道德原则三种再脉络化原则之间存在潜在的[[Ontology\|本体论]]和[[Epistemology\|认识论]]张力。
 > - **[[Big Ideas\|大概念]]的不一致**。[[Big Ideas\|大概念]]在不同学科中的构想不同，有些捕捉知识，有些论证学科价值。
 > - **概念识别不足**。概念很少被明确标记，其重要性可能被忽视。

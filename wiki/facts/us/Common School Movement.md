@@ -12,9 +12,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
 related_count: 20
 related_level: 2
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Bildung]]"
   - "[[Normal School]]"
+  - "[[Discourse]]"
   - "[[Ontology]]"
   - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Common School Movement
@@ -154,7 +155,7 @@ updated: 2026-10-01
 
 ### 命题二　跨国教育考察机制并非直接制度移植，而是将外部公学实绩转译为击败国内反对派的政治合法化依据
 
-> [!concept-lens] 跨大西洋知识流动在联邦分权政体下的话语功能
+> [!concept-lens] 跨大西洋知识流动在联邦分权政体下的[[Discourse|话语]]功能
 > 剖析比较教育探究在不同国家权力结构下的功能分化，阐明美洲改革者如何在缺乏中央命令特权的情境中，将欧陆公学实绩[[Transfer Translation Transformation\|转译]]为公共论辩的话语武器。
 
 > [!claim] Kaloyannaki, P. and [[Andreas Kazamias\|Kazamias, A.]] M.

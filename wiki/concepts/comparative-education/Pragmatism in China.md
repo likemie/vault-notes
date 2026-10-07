@@ -9,7 +9,7 @@ aliases:
 summary: "实用主义哲学在中国的传播、选择性吸收、制度转译与政治再脉络化历史，揭示外来理论在危机与救国语境中的拆解、重构与话语变形。"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Recontextualization]]"
+  - "[[Discourse]]"
   - "[[Knowledge Transfer]]"
   - "[[Going Native]]"
   - "[[Paradigm]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Pragmatism in China
@@ -60,7 +61,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> Pragmatism in China（[[Pragmatic Paradigm\|实用主义]]在中国）专指[[John Dewey\|杜威]]实用主义哲学在中国（晚清、民国及建国后）的传播、选择性采纳、制度[[Transfer Translation Transformation\|转译]]与政治[[Recontextualization\|再脉络化]]历史。它并非对西方原典的忠实复制或被动引进，而是中国教育改革者与政治精英出于救国、制度重构与话语重塑需求，将 Pragmatism 从一个完整的哲学体系拆解为服务于特定政治议程的话语工具。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.68–72]]；[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.609–612]]）
+> Pragmatism in China（[[Pragmatic Paradigm\|实用主义]]在中国）专指[[John Dewey\|杜威]]实用主义哲学在中国（晚清、民国及建国后）的传播、选择性采纳、制度[[Transfer Translation Transformation\|转译]]与政治[[Recontextualization\|再脉络化]]历史。它并非对西方原典的忠实复制或被动引进，而是中国教育改革者与政治精英出于救国、制度重构与[[Discourse|话语]]重塑需求，将 Pragmatism 从一个完整的哲学体系拆解为服务于特定政治议程的话语工具。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.68–72]]；[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.609–612]]）
 
 > [!concept-lens] 概念透镜
 > - **含义** 聚焦外来复合学术思想在进入非西方危机社会时的[[Knowledge Transfer\|知识转移]]、翻译[[Coding in Qualitative Research\|编码]]、制度转译与政治可塑性。
@@ -139,7 +140,7 @@ updated: 2026-09-17
 
 ### 命题三　实用主义在当代与建国后中国经历了意识形态批判与现代化话语重构的三重变形
 
-> [!concept-lens] 建国后政治环境中的话语重塑
+> [!concept-lens] 建国后政治环境中的[[Discourse|话语]]重塑
 > 学者追踪了实用主义在建国后中国政治话语中从反动批判到现代化话语盟友的演变。
 
 > [!claim] [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009, pp.79–93)]]
@@ -163,7 +164,7 @@ updated: 2026-09-17
 > [!dev-timeline] 概念演变
 > - **17世纪–1913 — 语义前史与铺垫** 清代“经世致用”实学传统；1864年李鸿章提出“所需非所学”；1913年黄炎培发表《学校教育采用[[Pragmatic Paradigm\|实用主义]]之商榷》。
 > - **1919–1928 — 民国3T跨国转移与重构** [[John Dewey\|杜威]]访华讲演；1922新学制去政治化折算与1923课程错位；1923–1928[[Paradigm\|范式]]转向《新教育评论》[[Scientific Attitude\|科学态度]]与[[Tao Xingzhi\|陶行知]]乡村教育。
-> - **1949至今 — 建国后三重政治变形** 1950年代被政治批判为反动唯心主义 ➔ 1980年代通过陶行知恢复名誉 ➔ 1990年代至今重构为[[Quality Education\|素质教育]]理论资源与反新自由主义话语盟友。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009]]）
+> - **1949至今 — 建国后三重政治变形** 1950年代被政治批判为反动唯心主义 ➔ 1980年代通过陶行知恢复名誉 ➔ 1990年代至今重构为[[Quality Education\|素质教育]]理论资源与反新自由主义[[Discourse|话语]]盟友。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009]]）
 
 ---
 
@@ -175,7 +176,7 @@ updated: 2026-09-17
 > > 传统学者认为民国知识分子没有准确理解[[John Dewey\|杜威]]的完整哲学；[[Argument_Cowen_2009_CE\|Cowen (2009)]], [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]] 与 [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] 证明这不是个人理解力不足或翻译错误，而是外来理论落入非西方危机社会时的结构性必然。
 
 > [!warning] 适用局限
-> 概念专用于分析中国近代及当代教育思想史、政策话语与跨国知识转移；不应用于解释无政治危机语境下的纯学术哲学传播。
+> 概念专用于分析中国近代及当代教育思想史、政策[[Discourse|话语]]与跨国知识转移；不应用于解释无政治危机语境下的纯学术哲学传播。
 
 ---
 

@@ -10,7 +10,7 @@ aliases:
 summary: "指个体与公众在面对自然现象、实证证据与公共决策时所秉持的理性探究倾向与价值取向，涵盖实证怀疑、拥抱不确定性、开放反思等认识论心智，并在历史教育改革（如1920年代民国新教育）与现代公众科学态度调查（如PAS 2025）中扮演核心话语功能。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Epoché]]"
   - "[[Variable]]"
   - "[[Pragmatism in China]]"
+  - "[[Discourse]]"
 related_theories: []
 related_methods:
   - "[[Confidence Interval]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-23
+updated: 2026-10-07
 ---
 
 # Scientific Attitude
@@ -241,5 +242,5 @@ updated: 2026-09-23
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]] — 系统考证 1920 年代民国[[New Education Movement\|新教育运动]][[Paradigm\|范式]]转向与赵乃传科学态度三要素。
-> - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 追踪科学态度与[[Pragmatism in China\|实用主义在中国]]现代政治话语中的[[Transfer Translation Transformation\|转译]]演变。
+> - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 追踪科学态度与[[Pragmatism in China\|实用主义在中国]]现代政治[[Discourse|话语]]中的[[Transfer Translation Transformation\|转译]]演变。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 整合 20 年科研人员公众参与态度[[Longitudinal Study\|纵向调查]]与 [[Public Attitudes to Science\|PAS 2025]] 全国民意数据，论证以批判性审视证据、接纳不确定性与抵御恐慌新闻为核心的建设性科学态度，倡导负责任传播（[[Responsible Conduct of Research\|RCR]]）的学术伦理自律。

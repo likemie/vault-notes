@@ -10,7 +10,7 @@ aliases:
 summary: "关于知识本质的底层认知假设与哲学追求。在西方思想史中体现为以数学和逻辑为范式追求客观永恒真知的文化传统；在教育心理学中则是衡量个体认识论成熟度（绝对固定 vs 相对演变）的核心维度，实证表明其独立负向预测学业成绩并受学科选择与社会化的双重塑造。"
 type: concept
 domain: "educational-philosophy"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Falsification]]"
+  - "[[Discourse]]"
   - "[[Self-Cultivation]]"
   - "[[Wicked Problem]]"
   - "[[Simplicity of Knowledge]]"
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Certainty of Knowledge
@@ -93,7 +94,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> 知识的确定性（Certainty of Knowledge）是一个跨越哲学[[Epistemology\|认识论]]与教育心理学的核心概念：在宏观西方思想史中，它指代以数学和演绎逻辑为[[Paradigm\|范式]]、追求客观普遍与永恒真理的文化认知传统（即“真知”）；在微观教育心理学中，它指代个体对知识本质的底层认知预设，即个体究竟倾向于认为知识是由外部权威确立的绝对固定之永恒真理，还是特定历史语境下人类建构、具有暂时性与[[Falsification\|可证伪性]]的学术话语终产物。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 23–26)]]；[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997, pp. 119–120)]]；[[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007, pp. 348–350)]]
+> 知识的确定性（Certainty of Knowledge）是一个跨越哲学[[Epistemology\|认识论]]与教育心理学的核心概念：在宏观西方思想史中，它指代以数学和演绎逻辑为[[Paradigm\|范式]]、追求客观普遍与永恒真理的文化认知传统（即“真知”）；在微观教育心理学中，它指代个体对知识本质的底层认知预设，即个体究竟倾向于认为知识是由外部权威确立的绝对固定之永恒真理，还是特定历史语境下人类建构、具有暂时性与[[Falsification\|可证伪性]]的学术[[Discourse|话语]]终产物。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 23–26)]]；[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997, pp. 119–120)]]；[[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007, pp. 348–350)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 包含宏观哲学层面上对超感官永恒秩序的追寻，以及微观认知发展层面上对知识“绝对确定 vs. 暂时演变”的信念取向。

@@ -12,7 +12,7 @@ summary: "以真实情境中的多轮迭代循环为核心的混合方法论：�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 40
+method_related_count: 41
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Hypothesis]]"
   - "[[Problem Finding]]"
+  - "[[Discourse]]"
   - "[[Theory of Knowledge]]"
   - "[[Variable]]"
   - "[[Learning Analytics]]"
@@ -107,7 +108,7 @@ updated: 2026-10-07
 
 > [!method-stack] 方法层级
 > - **研究设计** 历时迭代循环设计：[[Problem Finding|问题界定]] $\rightarrow$ 原型开发 $\rightarrow$ 实境测试 $\rightarrow$ 机制分析 $\rightarrow$ 理论与设计再迭代（DBR Collective, 2003）。
-> - **数据收集** 课堂音视频记录、师生研讨录音、在线协作话语（如[[Theory of Knowledge|知识论]]坛日志）、学习反思笔记、现场观察笔记与[[Semi-structured Interview|半结构化访谈]]。
+> - **数据收集** 课堂音视频记录、师生研讨录音、在线协作[[Discourse|话语]]（如[[Theory of Knowledge|知识论]]坛日志）、学习反思笔记、现场观察笔记与[[Semi-structured Interview|半结构化访谈]]。
 > - **分析方法** 多[[Variable|变量]]微观发生分析（Microgenetic Analysis）、[[Interactional Ethnography|互动民族志]]事件地图分析、[[Network Analysis|社会网络分析]]（SNA）与历时典型案例追踪（Telling Case Analysis）。
 > - **辅助技术** 数字化[[Learning Analytics|学习分析]]工具、[[Coding in Qualitative Research|质性编码]]软件与协作话语可视化。
 
@@ -117,7 +118,7 @@ updated: 2026-10-07
 
 > [!proc] 基于设计的研究标准迭代循环
 > 1. **问题识别与理论奠基** 联合一线实践者深入现场，识别核心教学困境与认知瓶颈，结合学习科学理论构建初始干预方案与设计假说。
-> 2. **原生态实境干预与多模态数据采集** 在无人工隔离的真实课堂或专业组织情境中实施设计方案，全程采集多模态过程数据（音视频、在线话语、调查[[Questionnaire|问卷]]、现场协作制品）。
+> 2. **原生态实境干预与多模态数据采集** 在无人工隔离的真实课堂或专业组织情境中实施设计方案，全程采集多模态过程数据（音视频、在线[[Discourse|话语]]、调查[[Questionnaire|问卷]]、现场协作制品）。
 > 3. **微观机制分析与反思评估** 追踪学习者认知与社会互动的微观演进轨迹，识别设计中的卡点、意外发现与未预期机制。
 > 4. **设计精炼与再迭代实施** 依据实证反馈调整教学架构、技术支架、交付模态或组织规则，进入下一轮实境检验与深度迭代。
 > 5. **理论提炼与设计原则沉淀** 跨越多个迭代周期提炼可迁移的教与学机制理论，形成具操作性的处方性设计原则（Design Principles）。
@@ -194,7 +195,7 @@ updated: 2026-10-07
 > |---|---|---|
 > | [[Knowledge Building Theory]] | 理论 | 核心理论渊源——为学习环境设计提供知识创造与[[Epistemic Responsibility\|集体认知责任]]的认识论支柱 |
 > | [[Reflective Structuration]] | 理论 | 产出理论范例——在 DBR 迭代中提炼的关于学生[[Epistemic Agency\|认识能动性]]与组织重塑的动态机制理论 |
-> | [[Interactional Ethnography]] | 补充方法 | 核心质性分析工具——用于微观刻画设计干预中师生话语与社会互动的演进脉络 |
+> | [[Interactional Ethnography]] | 补充方法 | 核心质性分析工具——用于微观刻画设计干预中师生[[Discourse\|话语]]与社会互动的演进脉络 |
 > | [[Network Analysis]] | 补充方法 | 核心量化分析工具——用于测量设计干预下全班协作网络与回帖关系的拓扑结构演化 |
 > | [[Experimental Research]] | 对比方法 | 范式参照——实验研究追求严格控制与去情境化[[Causality\|因果推断]]，DBR 追求真实生态迭代与机制效用 |
 > | [[Mixed Methods Research]] | 上位方法 | 方法论家族——DBR 依托[[Pragmatic Paradigm\|实用主义范式]]，深度融合质性[[Ethnography\|民族志]]与量化统计分析 |

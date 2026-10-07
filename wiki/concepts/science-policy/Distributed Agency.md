@@ -2,7 +2,7 @@
 summary: "源自科学技术论与演化制度主义的核心概念，指重大技术创新与社会系统转型的能动性并非集中于单一英雄式企业家或全能中央政府，而是分散分布于多元异质的行动者网络之中；在第三代使命导向政策中构成了多元主体协同共创与分布式探索的理论基石。"
 type: concept
 domain: "science-policy"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Grand Challenges]]"
   - "[[Problem Finding]]"
+  - "[[Discourse]]"
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Innovation Ecosystem]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-07
 title: Distributed Agency
 aliases:
   - 分布式主体
@@ -73,7 +74,7 @@ aliases:
 > *Third-generation missions are driven by [[Grand Challenges]] that are 'wicked' problems... they exhibit distributed agency (multilateral organizations, large philanthropic foundations, grassroots social movements, users), with a strong focus on social responsiveness, multidisciplinary cross-design, and user-centred experimentation.*
 
 > [!boundary]- 概念边界
-> - **不等于 单一中心的多部门外包执行** 传统外包中核心决策权依然高度集中在单一发包方手中；分布式主体强调不同行动者在[[Problem Finding|问题界定]]、方案探索与价值评估中均拥有实质性的话语权与能动性。
+> - **不等于 单一中心的多部门外包执行** 传统外包中核心决策权依然高度集中在单一发包方手中；分布式主体强调不同行动者在[[Problem Finding|问题界定]]、方案探索与价值评估中均拥有实质性的[[Discourse|话语]]权与能动性。
 > - **不适用于 边界封闭、纯粹物理工程极限攻关的孤立任务** 如制造特定原子反应堆，该情境更适配层级化垂直攻关；分布式主体专属于涉及公众生活方式、社会规范与多元利益交织的系统转型议题。
 
 ---

@@ -7,7 +7,7 @@ aliases:
 summary: "儒家文化家庭中以学习美德为中心的家长辅导方式，强调学习关键在于品德、自我改进和持续努力而非天赋"
 type: concept
 domain: "chinese-philosophy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Cognitive Source]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Pride in Learning]]"
+  - "[[Discourse]]"
   - "[[Document]]"
 related_theories: []
 related_methods:
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-04
+updated: 2026-10-07
 ---
 
 # Confucian Tutoring Style
@@ -103,7 +104,7 @@ updated: 2026-10-04
 > - 即使对话以其他话题（心智活动、积极情感、消极情感）开头，台湾对话者也会在第二轮或第三轮**转回学习美德**——美德是对话的"引力中心"([[Argument_Li_2012_Cambridge\|Li, 2012]])
 
 > [!example]
-> 一个典型的话语案例：母亲与女儿 Jia 讨论写作。母亲先肯定女儿理解课文主旨的进步（"你甚至不需要我教你了"），但紧接着就转向"你还需要在作文上加把劲"和"我觉得你在其他方面也需要坚持"——她甚至在表扬之前就已经提到需要改进([[Argument_Li_2012_Cambridge\|Li, 2012]])。
+> 一个典型的[[Discourse|话语]]案例：母亲与女儿 Jia 讨论写作。母亲先肯定女儿理解课文主旨的进步（"你甚至不需要我教你了"），但紧接着就转向"你还需要在作文上加把劲"和"我觉得你在其他方面也需要坚持"——她甚至在表扬之前就已经提到需要改进([[Argument_Li_2012_Cambridge\|Li, 2012]])。
 >
 > 更多儒家式辅导的对话示例与 Li 的[[Discourse Analysis\|话语分析]]操作，见 [[Microelectronics and Computer Technology Corporation|MCC]] 话语分析示例。
 

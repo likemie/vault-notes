@@ -43,6 +43,7 @@ related_concepts:
   - "[[Refined Mastery]]"
   - "[[Dialogue in Education]]"
   - "[[Positivism]]"
+  - "[[Discourse]]"
   - "[[Epistemic Stances]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
@@ -91,7 +92,7 @@ title: "Argument_Kelly_2025_ROE"
 argument_key: "Argument_Kelly_2025_ROE"
 argument_display_title: "Comparing school leaders' experiences of research use in England, Scotland and Germany"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -193,7 +194,7 @@ issuing_organization: ""
 
 #### 1. 认知主义系统模型假定理性乌托邦并掩盖权力不对等的知识扭曲
 
-主流教育政策话语将[[School Leadership|学校领导]]与教师预设为标准信息传送带上的理性执行者，忽视了真实[[Champ|场域]]中的权力与资源约束。
+主流教育政策[[Discourse|话语]]将[[School Leadership|学校领导]]与教师预设为标准信息传送带上的理性执行者，忽视了真实[[Champ|场域]]中的权力与资源约束。
 
 > [!critique-logic] 功能主义线性系统模型的理性乌托邦假定
 > 主流教育政策话语（如 [[Education Endowment Foundation\|EEF]] 推广的《循证指南：学校实施手册》（*Putting Evidence to Work*）或澳大利亚 [[Monash Q Project\|Monash Q]] 项目）普遍基于功能主义系统论，假定只要建立起涵盖研究者、经纪人与教师的五步循环模型，证据就能顺畅流淌。这种认知主义系统模型完全无视了教育场域中权力不对等、利益博弈与资源匮乏对知识流动的制度扭曲，将实践困境错误归咎于教师个人的认知盲区或信息闭塞。（pp. 6–7）

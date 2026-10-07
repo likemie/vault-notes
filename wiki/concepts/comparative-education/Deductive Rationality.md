@@ -7,7 +7,7 @@ aliases:
 summary: "Cowen（2005）提出的概念，指学术管理话语中的压缩政策话语和控制话语，通过绩效衡量重新定义大学和被认为是好的知识"
 type: concept
 domain: "comparative-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,6 +16,7 @@ tags:
   - theme/higher-education
   - theory/critical-theory
 related_concepts:
+  - "[[Discourse]]"
   - "[[Knowledge Production]]"
   - "[[Totally Pedagogised Society]]"
   - "[[New Public Management]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: '2026-07-04'
+updated: 2026-10-07
 ---
 
 # Deductive Rationality
@@ -45,7 +46,7 @@ updated: '2026-07-04'
 ## 定义
 
 > [!def] 核心定义
-> 演绎理性（Deductive Rationality）是比较教育与高等教育批判概念，由 [[Robert Cowen]] 于 2005 年提出。它指当代大学管理主义中自上而下的行政命令与绩效话语体系，具体表现为“压缩的政策话语和控制话语”（compressed policy-words, words of control）。这类话语通过高压且高频的量化管理和绩效衡量，直接定义“什么是好的知识”，把学术思考异化为功绩机器上的螺丝钉，使大学依附于经济利益并退化为纯粹的企业。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 332]])
+> 演绎理性（Deductive Rationality）是比较教育与高等教育批判概念，由 [[Robert Cowen]] 于 2005 年提出。它指当代大学管理主义中自上而下的行政命令与绩效[[Discourse|话语]]体系，具体表现为“压缩的政策话语和控制话语”（compressed policy-words, words of control）。这类话语通过高压且高频的量化管理和绩效衡量，直接定义“什么是好的知识”，把学术思考异化为功绩机器上的螺丝钉，使大学依附于经济利益并退化为纯粹的企业。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 332]])
 
 > [!concept-lens] 概念透镜
 > - **含义** 指管理主义话语中被高度压缩、不可争辩的行政指令集。它剔除了复杂的学术脉络和地方历史，直接下达量化指标命令。(p. 332)
@@ -64,7 +65,7 @@ updated: '2026-07-04'
 > [!contrast-table] 核心概念辨析
 > | 维度 | 演绎理性 (Deductive Rationality) | [[Totally Pedagogised Society\|全盘教育化社会]] (Totally Pedagogised Society) | [[New Public Management\|新公共管理]] (New Public Management) |
 > |------|-------------------|-------------------|-------------------|
-> | **分析焦点** | 当代大学内部自上而下的行政管理指令与绩效控制话语。(p. 332) | 全社会范围内教育关系与评价指标泛化、日常化的结构性变迁。(p. 336) | 整个公共部门（包括医疗、教育等）引入市场竞争机制的治理变革运动。 |
+> | **分析焦点** | 当代大学内部自上而下的行政管理指令与绩效控制[[Discourse\|话语]]。(p. 332) | 全社会范围内教育关系与评价指标泛化、日常化的结构性变迁。(p. 336) | 整个公共部门（包括医疗、教育等）引入市场竞争机制的治理变革运动。 |
 > | **作用机制** | **微观政治控制** 通过压缩政策话语（如影响声明、排名指标）判定“合法知识”。(p. 332) | **宏观社会[[Disciplina and Doctrina\|规训]]** 迫使个体在日常生活的每个阶段和角落接受[[Lifelong Learning\|终身学习]]规训。 | **中观制度重组** 通过引入外包、合同化管理与绩效审计重塑公共服务组织。 |
 
 ---
@@ -93,7 +94,7 @@ updated: '2026-07-04'
 
 ## 理论警示
 
-> [!warning] 演绎理性与极端政治话语的危险类比
+> [!warning] 演绎理性与极端政治[[Discourse|话语]]的危险类比
 > 演绎理性对大学学术性的摧毁往往是微妙、渐进而隐蔽的。然而，[[Robert Cowen]] 提出警告：当前的绩效管理主义演绎理性，在通过压制性语言直接判定合法知识这一本质上，与历史上的极端政治性演绎理性（例如号召向工农兵学习的强权话语）具有高度的相似性。它们都依靠行政强权直接判决知识的生死，长此以往，对[[Academic Freedom\|学术自由]]思考和新理论萌芽的摧毁力是同样致命和具有破坏性的。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 332]])
 
 ---

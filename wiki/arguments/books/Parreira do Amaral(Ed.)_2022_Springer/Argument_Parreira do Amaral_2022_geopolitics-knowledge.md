@@ -9,9 +9,9 @@ title: "Argument_Parreira do Amaral_2022_geopolitics-knowledge"
 argument_key: "Argument_Parreira do Amaral_2022_geopolitics-knowledge"
 argument_display_title: "Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: 'Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation'
 citation: "Parreira do Amaral, M. (2022). Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 35–51). Cham: Springer."
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Hypothesis]]"
+  - "[[Discourse]]"
   - "[[Classical Geopolitics]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
@@ -89,7 +90,7 @@ citation_aliases:
 
 ### 脉络一：批判地缘政治学（Critical Geopolitics）
 
-源自人文地理学和政治地理学的近期智识发展。[[Critical Geopolitics|批判地缘政治学]]者(Agnew, 2003; Kuus, 2017)检视塑造世界政治的地理[[Hypothesis|假设]]和话语建构，认为"空间性不限于领土性"，需要关注将"国际政治空间化并表征为以特定类型场所为特征的'世界'"的政治实践(Kuus, 2017, p.2, p.37)。
+源自人文地理学和政治地理学的近期智识发展。[[Critical Geopolitics|批判地缘政治学]]者(Agnew, 2003; Kuus, 2017)检视塑造世界政治的地理[[Hypothesis|假设]]和[[Discourse|话语]]建构，认为"空间性不限于领土性"，需要关注将"国际政治空间化并表征为以特定类型场所为特征的'世界'"的政治实践(Kuus, 2017, p.2, p.37)。
 
 这一脉络将[[Classical Geopolitics|古典地缘政治]]概念扩展至涵盖"主导国家和其统治阶级对空间——控制领土和／或生产现代陆地空间的互动性流动——的掌控努力"(Agnew & Corbridge, quoted in Moisio, 2018, p.3, p.37)，增加了关系性和话语-符号维度，关注地缘政治秩序如何不仅通过领土控制更通过话语和意义建构实践被建构和稳定化。
 
@@ -117,7 +118,7 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 > [!example]
 本章的论证分为五个步骤展开：
 
-**第一步（§3.1 引言）：问题提出与概念定位。** 确立知识社会/[[Knowledge-Based Economy|知识经济]]话语的霸权地位——创新被热情拥抱为所有社会问题的万能解药，高等教育被置于当代社会未来讨论的核心。引出论证核心主张：高等教育正被整合进不同行动者的战略想象和计算之中，以确立和改善其在全球知识经济中的位置(pp.35–37)。
+**第一步（§3.1 引言）：问题提出与概念定位。** 确立知识社会/[[Knowledge-Based Economy|知识经济]][[Discourse|话语]]的霸权地位——创新被热情拥抱为所有社会问题的万能解药，高等教育被置于当代社会未来讨论的核心。引出论证核心主张：高等教育正被整合进不同行动者的战略想象和计算之中，以确立和改善其在全球知识经济中的位置(pp.35–37)。
 
 **第二步（§3.2 新[[Geopolitics of Knowledge|知识地缘政治]]）：概念框架的展开。** 从地缘政治的[[Definition of Terms|操作性定义]]出发（"对场所和空间中霸权的斗争"，Petersen & Wehrmann, 2015），追溯[[Classical Geopolitics|古典地缘政治]]→[[Critical Geopolitics|批判地缘政治]]→[[Knowledge-Based Economization|知识经济化]]地缘政治的理论演进路径，并呈现后殖民/[[Decolonial Geopolitics of Knowledge|去殖民知识地缘政治]]批判的另一条脉络。在两条脉络的对话中提出"新知识地缘政治"的综合概念(pp.36–40)。
 
@@ -144,7 +145,7 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 > [!success]
 - **"新[[Geopolitics of Knowledge|知识地缘政治]]"的出现** 创新、科研能力和教育被视为在全球经济竞争中取得成功的关键。高等教育机构成为知识密集型资本主义想象的核心——被同时视为专有知识、创新学习环境和驱动创新的主体性的主要生产场所。[[Knowledge Production|知识生产]]被整合进国家、区域和企业在全球经济中的战略定位(pp.38–39)
 - **知识范畴的三重窄化** 在这一语境中，"知识"主要指向：(a) 创意及相关创新在生产链中创造价值的角色；(b) 将知识商品化的尝试，包括专家、学者等生产知识的过程；(c) 关于政治社群作为[[Knowledge-Based Economy|知识经济]]体表现的数据的持续收集(Moisio, 2018, p.9, p.39)
-- **两条地缘政治脉络的共构性**[[Classical Geopolitics|古典地缘政治]]和关系性地缘政治并非前后替代关系而是共构——如 RCEP 协议中既包含全球连接性的开放流动话语，又包含国家层面的权力博弈（中国的战略计算旨在超越美国主导的 TPP），两者共同构成当代地缘政治的实际运作逻辑(pp.37–38)
+- **两条地缘政治脉络的共构性**[[Classical Geopolitics|古典地缘政治]]和关系性地缘政治并非前后替代关系而是共构——如 RCEP 协议中既包含全球连接性的开放流动[[Discourse|话语]]，又包含国家层面的权力博弈（中国的战略计算旨在超越美国主导的 TPP），两者共同构成当代地缘政治的实际运作逻辑(pp.37–38)
 - **[[Global Regionalisms|全球区域主义]]中的高等教育角色转变** Robertson et al. (2016) 的研究实现了关键的[[Epistemology|认识论]]转向——从"国际组织如何影响教育"转向"教育项目如何参与想象和建构世界区域本身"——发现了高等教育在话语层面构成区域地缘政治想象的核心支柱。这种转向也揭示了区域之间的差异不仅是经济关系侧重点不同的结果，更是因为政治、文化和历史动态中介了制度形态和其他社会关系的性质(p.41)
 - **[[Global Education Industry|GEI]] 作为系统性[[Champ|场域]]** GEI 不仅是一系列经济过程的集合，更是一个包含"自身过程、规则系统和社会力量"的独立运作领域(Verger et al., 2016, p.4)。其"建立在以经济为基础的立论基础上"的概念已成为全球教育改革和重组的普遍话语资源(pp.42–43)
 - **IEHs 作为治理理性转换的信号** 高等教育治理的基本理性正从社会/教育范畴（可及性、公平、质量、开放研究）转向经济范畴（收入创造、可专利的非开放研究、[[Competitiveness|竞争力]]）(pp.44–45)

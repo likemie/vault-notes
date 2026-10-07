@@ -9,7 +9,7 @@ aliases:
 summary: "源自朱利安《比较教育工作计划》的学科发端母题，主张将教育比拟于比较解剖学等自然科学，运用标准化问卷与比较观察表归纳普遍法则，并将经验事实探究深嵌于全人体智德启蒙与欧洲永久和平的人道世界主义关怀"
 type: concept
 domain: "comparative-education"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Leading Questions]]"
   - "[[Enlightenment]]"
+  - "[[Discourse]]"
   - "[[Policy Borrowing]]"
   - "[[Document]]"
 related_theories: []
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Proto-Scientific Motif
@@ -198,7 +199,7 @@ updated: 2026-09-29
 >
 > > [!axis] 客观实证测量 vs 引导性道德设问的主观偏向
 > > - **逻辑实证派（Noah & Eckstein）** 批评[[Marc-Antoine Jullien\|朱利安]][[Questionnaire\|问卷]]在道德与宗教板块充斥大量“[[Leading Questions\|引导性问题]]”，将自身对于全人[[Bildung\|教化]]的主观愿望强加于事实收集，损害了作为科学测量的客观性。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 16–17)]]
-> > - **历史解释派（Kaloyannaki & Kazamias）** 指出早期现代性话语中“科学”即意味着心智对迷信盲从的理性清理，道德启蒙本身就是当时最高标准的理性事实，不能以后世机械[[Positivism\|实证主义]]剪裁历史。
+> > - **历史解释派（Kaloyannaki & Kazamias）** 指出早期现代性[[Discourse|话语]]中“科学”即意味着心智对迷信盲从的理性清理，道德启蒙本身就是当时最高标准的理性事实，不能以后世机械[[Positivism\|实证主义]]剪裁历史。
 >
 > > [!axis] 普遍跨国科学法则 vs 历史文化情境的独特性
 > > 批判学者指出，准科学母题试图跨越欧洲各异的政治文化情境、直接归纳出放之四海而皆准的“教育确定原则”，容易忽视各国教育制度与本土宗教、语言及阶级结构的深度嵌合，开创了技术主义[[Policy Borrowing\|政策借用]]的普适性幻想。

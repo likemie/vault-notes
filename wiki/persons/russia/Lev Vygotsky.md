@@ -9,14 +9,14 @@ summary: "苏联心理学家，社会文化心理学与文化-历史活动理论
 type: person
 nationality: russia
 person_region: "russia"
-person_related_count: 29
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
 confidence: high
 status: draft
 created: 2026-06-06
-updated: 2026-10-04
+updated: 2026-10-07
 born: "1896"
 died: "1934"
 lifespan: "1896–1934"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Selective Affinity]]"
   - "[[Theoretical Knowledge]]"
+  - "[[Discourse]]"
   - "[[Educational Neuroscience]]"
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Variable]]"
@@ -125,7 +126,7 @@ related_arguments:
 
 > [!influence-path] 影响路径
 > - **理论路径** 提出的第一代心理中介三角（Subject–Tool–Object）被 [[Yrjö Engeström\|Yrjö Engeström]]（1987, 2001）扩展为第二代与[[Third Generation Activity Theory\|第三代活动理论]]；科学/自发概念区分被 [[Michael Young]] 与 Graham McPhail 吸收为[[Social Realism\|社会实在论]]与[[Curriculum Design Coherence Model\|课程设计连贯性模型]]（CDCM）的核心[[Epistemology\|认识论]]工具。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 590)]]; [[Argument_McPhail_2023_JCS\|(McPhail et al., 2023, p. 4)]]
-> - **方法路径** [[Scaffolding\|认知支架]]理论成为家庭社会化与母子对话研究（[[Microelectronics and Computer Technology Corporation|MCC]]）中质性[[Discourse Analysis\|话语分析]]（Discourse Analysis）的核心理论锚点。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 198)]]
+> - **方法路径** [[Scaffolding\|认知支架]]理论成为家庭社会化与母子对话研究（[[Microelectronics and Computer Technology Corporation|MCC]]）中质性[[Discourse Analysis\|话语分析]]（[[Discourse]] Analysis）的核心理论锚点。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 198)]]
 > - **政策与教学路径** 广泛影响了全局以学生为中心教育（[[Learner-Centred Education\|LCE]]）、[[Dialogue in Education|对话教学]]（Dialogic Teaching）与学科课程设计的编制。
 > - **批判路径** 在[[Educational Neuroscience\|教育神经科学]]（[[Educational Neuroscience\|Educational Neuroscience]]）兴起时，维果茨基社会文化理论被学者用于抵制将学习简化为大脑神经元生理机制的还原论，保护学习的社会性与关系维度。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 121)]]
 

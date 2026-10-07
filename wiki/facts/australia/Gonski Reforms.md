@@ -8,7 +8,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
 - equity
 related_concepts:
   - "[[Growth]]"
+  - "[[Discourse]]"
   - "[[Venture Philanthropy]]"
   - "[[Policy Network]]"
   - "[[Educational Brokerage Agency]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 ## 背景
 
@@ -79,7 +80,7 @@ updated: 2026-09-18
 ## 效果与评价
 
 > [!success] 效果与评价
-> - **积极面** 被利益相关者视为关键的"补偿机制"（compensatory mechanisms），可在一定程度上缓解市场话语和实践对社会正义的破坏（Keddie et al., 2020, IJLE, p.11-12）
+> - **积极面** 被利益相关者视为关键的"补偿机制"（compensatory mechanisms），可在一定程度上缓解市场[[Discourse|话语]]和实践对社会正义的破坏（Keddie et al., 2020, IJLE, p.11-12）
 > - **局限性** 在分配缺乏透明度和精细度、缺乏行政支持时，需求本位拨款的补偿能力受到根本性削弱（Keddie et al., 2020, IJLE, p.12）
 > - **结构性批评** 在当前的公私混合拨款模式下，需求本位拨款"对缓解嵌入教育系统的结构性资源分配不公几乎无能为力"——这种不公源于（1）非公立部门获得慷慨公共拨款的模式，和（2）各学校从社区和其他来源获取资源的巨大差异性能力（Keddie et al., 2020, IJLE, p.12）
 

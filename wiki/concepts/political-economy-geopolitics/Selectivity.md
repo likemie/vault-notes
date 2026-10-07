@@ -8,7 +8,7 @@ aliases:
 summary: "治理中的结构性偏向机制，使某些政策选项、行动者和利益更容易获得支持，而其他替代方案被系统性边缘化"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ tags:
 - policy-instruments
 - region/global
 related_concepts:
+  - "[[Discourse]]"
   - "[[Performance Indicators]]"
   - "[[Lifelong Learning]]"
   - "[[Operationalization]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Selectivity
@@ -50,7 +51,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!info]
-> 在治理和政策分析中，选择性（selectivity）指政策工具和制度安排系统性地优先某些政策替代方案、同时使其他方案被边缘化的过程。此概念源自 Jessop（2007）的策略关系国家理论（strategic-relational approach）：政策工具并非中立的筛选器，而是嵌入特定的权力关系，使某些政策选择比其他选择在操作上更可行、在话语上更"自然"([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.166, 174]])。
+> 在治理和政策分析中，选择性（selectivity）指政策工具和制度安排系统性地优先某些政策替代方案、同时使其他方案被边缘化的过程。此概念源自 Jessop（2007）的策略关系国家理论（strategic-relational approach）：政策工具并非中立的筛选器，而是嵌入特定的权力关系，使某些政策选择比其他选择在操作上更可行、在[[Discourse|话语]]上更"自然"([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.166, 174]])。
 >
 > Jessop 的关键洞见在于：选择性不是决策者有意的偏见或偏袒，而是政策工具本身的结构性特征。在自由主义经济秩序的框架下——即 Jessop 所描述的"欧盟就业和经济政策的深层预设"——政策工具"不可避免地使决策者聚焦于某些议题而忽略其他"(Jessop, 2007; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.166]])。
 
@@ -60,7 +61,7 @@ updated: 2026-09-22
 ## 概念辨析
 
 > [!example]
-> - vs 有意的偏向（intentional bias）：选择性不是决策者主动排斥某些议题，而是政策工具本身的设计使某些替代方案在操作上更可行、在话语上更"合理"。这是一种结构效应，而非个人动机([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.174]])
+> - vs 有意的偏向（intentional bias）：选择性不是决策者主动排斥某些议题，而是政策工具本身的设计使某些替代方案在操作上更可行、在[[Discourse|话语]]上更"合理"。这是一种结构效应，而非个人动机([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.174]])
 > - vs 优先级设定（priority-setting）：优先级设定是明确的议程选择（如"本年度重点推进创新政策"），而选择性是隐性的——它是政策工具运作中产生的系统性效应，常不被行动者意识到（Jessop, 2007）
 > - vs [[Performance Indicators]]：选择性是绩效指标的四个操作维度之一。绩效指标是工具，选择性是该工具产生的一种系统性效应——指该工具"筛选掉了什么"。详见 [[Performance Indicators]]
 
@@ -84,7 +85,7 @@ updated: 2026-09-22
 
 ### 同质化效应
 
-通用政策框架将高度异质的区域纳入同一讨论范畴，忽视区域之间的根本结构性差异。尽管区域创新记分牌明确显示北欧、德语区和西大西洋区域的创新能力远高于南欧和东欧，官方的"创新生态体系"话语仍[[Hypothesis|假设]]所有区域适合同一政策框架([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174]])。这与 [[Spatial Sortings]] 的机制相通：知识密集型资本主义系统性地将地点和人口划分为"赢家"与"输家"。
+通用政策框架将高度异质的区域纳入同一讨论范畴，忽视区域之间的根本结构性差异。尽管区域创新记分牌明确显示北欧、德语区和西大西洋区域的创新能力远高于南欧和东欧，官方的"创新生态体系"[[Discourse|话语]]仍[[Hypothesis|假设]]所有区域适合同一政策框架([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174]])。这与 [[Spatial Sortings]] 的机制相通：知识密集型资本主义系统性地将地点和人口划分为"赢家"与"输家"。
 
 ### 就业维度优先于赋权维度
 

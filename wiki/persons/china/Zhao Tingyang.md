@@ -7,7 +7,7 @@ summary: "中国哲学家，以天下理论著称，提出以中国为中心的�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -20,6 +20,7 @@ tags:
   - field/political-philosophy
   - theory/tianxia
 related_concepts:
+  - "[[Discourse]]"
   - "[[Zhonghua Minzu]]"
   - "[[Sinicisation]]"
   - "[[Unit of Analysis]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Zhao Tingyang
@@ -49,7 +50,7 @@ updated: 2026-10-02
 
 > [!person-profile] 人物档案
 > - **身份位置** 中国哲学家，中国社会[[Chinese Academy of Sciences|科学院]]哲学研究所研究员。
-> - **核心角色** 以“天下” (Tianxia) 体系的理论建构而闻名，主张以中国为中心的世界秩序替代西方威斯特伐利亚主权体系。其思想在习近平时代受到高度关注，为“人类命运共同体”及国族伟大复兴话语提供了哲学基础。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 106–107]])
+> - **核心角色** 以“天下” (Tianxia) 体系的理论建构而闻名，主张以中国为中心的世界秩序替代西方威斯特伐利亚主权体系。其思想在习近平时代受到高度关注，为“人类命运共同体”及国族伟大复兴[[Discourse|话语]]提供了哲学基础。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 106–107]])
 > - **代表贡献** 提出“天下体系”、“神性中国/配天”和“逐鹿中原”的征服隐喻。
 
 > [!citation-card]- 人物定位的关键来源
@@ -85,7 +86,7 @@ updated: 2026-10-02
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **2005 — 《天下体系：世界制度哲学导论》** 将中国传统的“天下”观念转化为现代政治哲学话语，提出超越威斯特伐利亚国家体系的替代方案。
+> - **2005 — 《天下体系：世界制度哲学导论》** 将中国传统的“天下”观念转化为现代政治哲学[[Discourse|话语]]，提出超越威斯特伐利亚国家体系的替代方案。
 > - **2016 — 《天下：一种可能世界秩序的天下体系》** 系统性建构“无外部”的世界哲学，阐发中原文明如何通过吸纳机制将征服者“[[Sinicisation\|中国化]]”。([[Argument_Bulag_2024_CE\|Bulag, 2024, pp. 106–107]])
 > - **2021 — *All Under Heaven: The Tianxia System for a Possible World Order***：将“天下”理论推向国际地缘政治和比较教育研究视野，主张以天下作为重构全球政治与知识关系的框架。
 
@@ -110,7 +111,7 @@ updated: 2026-10-02
 
 ### 少数民族的自愿牺牲与“成为”
 
-- **文化死亡作为“成为” (Becoming)** 在天下话语下，少数民族文化和独特身份的消亡不被视为被强制同化或毁灭，而被解释为由于对华夏先进文化的仰慕而做出的自愿“自我牺牲”。这种“死”实际上是一种向更高文明层次的超越性转换（即“成为”中国的一部分）。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 107]])
+- **文化死亡作为“成为” (Becoming)** 在天下[[Discourse|话语]]下，少数民族文化和独特身份的消亡不被视为被强制同化或毁灭，而被解释为由于对华夏先进文化的仰慕而做出的自愿“自我牺牲”。这种“死”实际上是一种向更高文明层次的超越性转换（即“成为”中国的一部分）。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 107]])
 - **汉字的神性吸引** 赵汀阳高度赞美汉字（Hanzi）的表意和跨地域属性，认为它是赋予“神性中国”无可比拟的普遍吸引力与文明整合力的物质和符号基础。([[Argument_Bulag_2024_CE|Bulag, 2024, p. 107]])
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-10-02
 
 > [!influence-path] 影响路径
 > - **学术与理论路径** 已渗透到全球知识关系和高等教育比较研究中。例如，西蒙·马金森 (Simon Marginson)、杨锐 (Yang Rui) 和 许心 (Xu Xin) (2022) 将赵汀阳的天下概念作为理解跨国高等教育知识合作与非西方模式的启发式分析工具。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 113]])
-> - **政策与[[Grand Theory\|元叙事]]路径** 与习近平时代官方提出的“构建人类命运共同体”及“中国无征服基因/中国拥有和平基因”的话语体系形成强烈的共振。这一体系被官方用于洗白历史上的同化政策，将其包装为少数民族的自愿融入。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 106]])
+> - **政策与[[Grand Theory\|元叙事]]路径** 与习近平时代官方提出的“构建人类命运共同体”及“中国无征服基因/中国拥有和平基因”的[[Discourse|话语]]体系形成强烈的共振。这一体系被官方用于洗白历史上的同化政策，将其包装为少数民族的自愿融入。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 106]])
 
 > [!evidence-grid]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Bulag_2024_CE\|Bulag, 2024]] — 系统批判了赵汀阳天下体系背后的同化政治，指出其如何通过“自愿牺牲”的修辞来合理化少数民族的历史性文化消亡。

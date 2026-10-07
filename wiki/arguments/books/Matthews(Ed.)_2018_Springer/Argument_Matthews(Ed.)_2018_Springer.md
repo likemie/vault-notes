@@ -7,9 +7,9 @@ title: "Argument_Matthews(Ed.)_2018_Springer"
 argument_key: "Argument_Matthews(Ed.)_2018_Springer"
 argument_display_title: "History, Philosophy and Science Teaching: New Perspectives"
 argument_kind: "edited-volume"
-argument_related_count: 28
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#e5e7eb"
 authors: []
 editors:
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
   - "[[Epistemic Practices]]"
+  - "[[Hidden Curriculum]]"
   - "[[Knowledge Production]]"
   - "[[Ontology]]"
   - "[[Self-Regulated Learning]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Nature of Science]]"
   - "[[Reflexivity]]"
   - "[[Construct]]"
+  - "[[Discourse]]"
   - "[[Scientific Paradigm]]"
   - "[[Positivism]]"
   - "[[Scientism]]"
@@ -82,7 +84,7 @@ updated: 2026-10-03
 > [!volume-profile] 编著档案
 > - **核心议题** 系统审视科学史、科学哲学与科学教学（HPS&ST）跨学科传统的最新发展，着重澄清科学教育对[[Enlightenment\|启蒙运动]]（Enlightenment）传统的历史承继、反思[[Constructivist Paradigm\|建构主义]]与[[Postmodernism\|后现代主义]]在文化科学教育研究中的相对主义困境，并将[[Epistemology\|认识论]]探讨向微观课堂教学、课程结构设计以及防止教条灌输（indoctrination）深化。
 > - **材料边界** 本总览页依据迈克尔·马修斯（Michael R. Matthews）撰写的导论（*New Perspectives in History, Philosophy and Science Teaching: An Introduction*，pp. ix–xxv）、全书目录体系以及各章核心论证提炼而成。
-> - **章节关系** 全书采用四板块递进深化的逻辑架构：由宏观维度的科学、文化与启蒙传统（Part I），转向中观维度的科学教学与认知学习中的[[Epistemic Practices\|认识论实践]]（Part II），继而落实为微观具体学科领域的课程开发与正当性辩护（Part III），最后上升至教育哲学维度的教条灌输、隐性课程与反思能力（Part IV）。
+> - **章节关系** 全书采用四板块递进深化的逻辑架构：由宏观维度的科学、文化与启蒙传统（Part I），转向中观维度的科学教学与认知学习中的[[Epistemic Practices\|认识论实践]]（Part II），继而落实为微观具体学科领域的课程开发与正当性辩护（Part III），最后上升至教育哲学维度的教条灌输、[[Hidden Curriculum|隐性课程]]与反思能力（Part IV）。
 > - **使用方式** 本页作为全书知识结构的导航枢纽，确立全书核心议题与各章 Argument 的映射网络，指导后续分章的具体处理与跨章线索追踪。
 
 ---
@@ -118,7 +120,7 @@ updated: 2026-10-03
 > - **Part I / Ch. 1–4 — 科学、文化与教育（Science, Culture and Education）** 回应科学教育在多元文化语境中的世界观定位问题。第 1 章以风水为例探讨科学与伪科学的界分及科学教育的文化责任；第 2 章从概念哲学角度澄清启蒙作为个体属性而非抽象名词的[[Epistemology\|认识论]]内涵；第 3 章提供晚期奥斯曼帝国与土耳其共和国科学教育与启蒙传统的国别实证考察；第 4 章深入剖析文化科学教育研究（CSSE）的后现代[[Constructivist Paradigm\|建构主义]]起源及其认识论危机。（pp. xi–xvii）
 > - **Part II / Ch. 5–7 — 科学教学与学习（Teaching and Learning Science）** 探讨科学认识论与学习心理学机制的深度融合。第 5 章[[Scientifically Based Research\|基于科学研究]]（science studies）实证考察科学课堂中的[[Epistemic Practices\|认识论实践]]与共同体意义协商；第 6 章运用[[Self-Regulated Learning\|自我调节学习]]（SRL）理论系统桥接[[Nature of Science\|科学本质]]（NOS）教学的显性与[[Reflexivity\|反思性]]路径；第 7 章呈现恩斯特·马赫 1890 年论自然科学教学中心理与逻辑要素的开创性德文论文首个英文全译本。（pp. xvii–xix）
 > - **Part III / Ch. 8–10 — 课程开发与正当性辩护（Curriculum Development and Justification）** 聚焦科学课程的内在逻辑建构与课程论证。第 8 章提出将科学知识视为一种文化系统并以文化内容知识（CCK）重塑物理学教学[[Paradigm\|范式]]；第 9 章整合科学史、科学哲学、科学本身与科学教育研究（SER）四大支柱，展示以色列初中能量课程的实证设计方案；第 10 章批判演化论教学中流于功利的技术说辞，提出更具说服力且以学生为中心的演化素养论证集合。（pp. xix–xxi）
-> - **Part IV / Ch. 11–12 — 灌输与科学教育（Indoctrination and Science Education）** 引入教育哲学经典概念重审科学教学规范性。第 11 章分析科学课堂隐性课程中所传递的歪曲科学形象与潜在的教条灌输机制；第 12 章在分析哲学层面上探讨科学入门学习中作为基准阈值的正当性灌输及其向独立反思怀疑的转化机制。（pp. xxi–xxii）
+> - **Part IV / Ch. 11–12 — 灌输与科学教育（Indoctrination and Science Education）** 引入教育哲学经典概念重审科学教学规范性。第 11 章分析科学课堂[[Hidden Curriculum|隐性课程]]中所传递的歪曲科学形象与潜在的教条灌输机制；第 12 章在分析哲学层面上探讨科学入门学习中作为基准阈值的正当性灌输及其向独立反思怀疑的转化机制。（pp. xxi–xxii）
 
 全书的四大板块与核心论证逻辑可通过如下结构流程直观呈现：
 
@@ -159,7 +161,7 @@ flowchart TD
 > - **文化科学教育研究（Cultural Studies of Science Education, CSSE）与[[Constructivist Paradigm\|建构主义]]批判** 全书直面审视的当代流派。编者指明建构主义（constructivism）在认识论上的主观唯心主义陷阱，警告 CSSE 中滋生的后现代文化相对主义正在动摇科学真理的公共合法性。（pp. xv–xvii）
 > - **[[Epistemic Practices\|认识论实践]]（Epistemic Practices）与[[Self-Regulated Learning\|自我调节学习]]（Self-Regulated Learning, SRL）** Part II 的核心机制工具。将认识论主体从[[René Descartes\|笛卡尔]]式的孤立个体拓展为社会协商共同体，并在认知心理学层面利用 SRL 目标设定、监控与反思子过程落实科学思维培育。（pp. xvii–xix）
 > - **文化内容知识（Cultural Content Knowledge, CCK）** Part III 提出的物理学课程重塑[[Paradigm\|范式]]。将科学知识超越狭隘的公式解题体系，呈现为人类思想史上关于重量、光学等根本[[Construct\|构念]]演化的文化全景。（pp. xix–xx）
-> - **教条灌输（Indoctrination）与隐性课程（Hidden Curriculum）** Part IV 的规范分析工具。探讨当科学知识因远离直接感官经验而不得不依赖权威证言与第二手信息时，如何界定合法概念入门与歪曲灌输的规范性界限。（pp. xxi–xxii）
+> - **教条灌输（Indoctrination）与[[Hidden Curriculum|隐性课程]]（Hidden Curriculum）** Part IV 的规范分析工具。探讨当科学知识因远离直接感官经验而不得不依赖权威证言与第二手信息时，如何界定合法概念入门与歪曲灌输的规范性界限。（pp. xxi–xxii）
 
 ---
 
@@ -173,13 +175,13 @@ flowchart TD
 >   - **阅读价值** 本线索展现了理性辩护从抽象分析哲学（Nola 对启蒙属性的流行病学考察）、具体民俗迷信剖析（Matthews 对风水伪科学性的界定）、国别现代化政教冲突史（Peker & Taskin 对土耳其世俗教育的考察），到当代学术阵地清理（McCarthy 对 CSSE 内部后现代相对主义的严厉批判）的完整推进链条。
 > - **主题线索二：[[Epistemology\|认识论]]探究与微观学习心理机制的贯通** 探讨科学哲学中的认识论规范如何有效转化为学生课堂认知与思维习惯。
 >   - **相关章节** Ch. 5 [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]；Ch. 6 Argument_Peters-Burton_2018_NOSLearningSRL；Ch. 7 Argument_Mach_2018_PsychologicalLogicalMoment。
->   - **阅读价值** 从科学社会学与[[Ethnography\|人种志]]观察中的微观话语实践（Kelly & Licona），过渡到教育心理学中[[Self-Regulated Learning\|自我调节学习]]理论与显性[[Reflexivity\|反思性]] [[Nature of Science\|NOS]] 的深度平行对应（Peters-Burton），最终追溯至历史源头——马赫论科学教学中心理发生优先于纯粹逻辑推演的经典洞见，形成了科学教育认识论转向的立体透视。
+>   - **阅读价值** 从科学社会学与[[Ethnography\|人种志]]观察中的微观[[Discourse|话语]]实践（Kelly & Licona），过渡到教育心理学中[[Self-Regulated Learning\|自我调节学习]]理论与显性[[Reflexivity\|反思性]] [[Nature of Science\|NOS]] 的深度平行对应（Peters-Burton），最终追溯至历史源头——马赫论科学教学中心理发生优先于纯粹逻辑推演的经典洞见，形成了科学教育认识论转向的立体透视。
 > - **主题线索三：科学概念建构的四支柱模型与课程合理性辩护** 探讨学科核心概念（如力学[[Construct\|构念]]、能量守恒定律、生物演化论）如何依托科学史哲完成课程重构与意义建构。
 >   - **相关章节** Ch. 8 Argument_Galili_2018_ScientificKnowledgeCulture；Ch. 9 Argument_Lehavi_Eylon_2018_EnergyCurriculumHPS；Ch. 10 Argument_Smith_2018_EvolutionJustifications。
 >   - **阅读价值** 克服科学课程单纯面向考试与升学的功利主义取向。Galili 阐明文化内容知识如何展现[[Scientific Paradigm\|科学范式]]演进；Lehavi 和 Eylon 提出了整合科学、科学史、科学哲学与科学教育研究的四支柱课程研发模型；Smith 则揭示了现行演化论教学中功利辩护的破产，主张以美学、存在性与基础素养重新确立演化论在现代思想中的根基。
 > - **主题线索四：权威传递、证据信念与教条灌输的边界审视** 直面科学教育中由于学科专业壁垒而产生的不经反思即可接受结论的认识论困境。
 >   - **相关章节** Ch. 11 Argument_Hansson_2018_IndoctrinationHiddenCurriculum；Ch. 12 Argument_Wagner_2018_WarrantedIndoctrination。
->   - **阅读价值** Hansson 揭示了课堂中未经检验的[[Positivism\|实证主义]]、唯[[Scientism\|科学主义]]形象如何构成隐性课程中的教条灌输，损害了学生对科学的认同；Wagner 则从分析哲学视角论证了在进入专门学科门槛时，暂时的权威认同与基本程序接纳可作为正当性灌输（warranted indoctrination）的必要基准，关键在于这一基准能否成功引导学生走向对证据提出独立质疑的成熟阶段。
+>   - **阅读价值** Hansson 揭示了课堂中未经检验的[[Positivism\|实证主义]]、唯[[Scientism\|科学主义]]形象如何构成[[Hidden Curriculum|隐性课程]]中的教条灌输，损害了学生对科学的认同；Wagner 则从分析哲学视角论证了在进入专门学科门槛时，暂时的权威认同与基本程序接纳可作为正当性灌输（warranted indoctrination）的必要基准，关键在于这一基准能否成功引导学生走向对证据提出独立质疑的成熟阶段。
 
 ---
 
@@ -193,7 +195,7 @@ flowchart TD
 >   - **Ch. 01** Argument_Matthews_2018_FengShui — 迈克尔·马修斯（Michael R. Matthews）对风水迷信、科学与伪科学界分以及科学教育世界观重塑责任的核心论证，直接奠定全书反思文化相对主义的基调。
 >   - **Ch. 02** Argument_Nola_2018_EnlightenmentTruths — 罗伯特·诺拉（Robert Nola）运用当代分析哲学对启蒙抽象名词化陷阱进行的概念清算与流行病学属性模型，是全书的理论枢纽。
 >   - **Ch. 04** Argument_McCarthy_2018_CSSEAppraisal — 克里斯汀·麦卡锡（Christine L. McCarthy）对文化科学教育研究（CSSE）与后现代[[Constructivist Paradigm\|建构主义]]的哲学解构，属于科学教育哲学争论的标志性[[Document\|文献]]。
->   - **Ch. 11** Argument_Hansson_2018_IndoctrinationHiddenCurriculum — 莉娜·汉森（Lena Hansson）关于隐性课程、唯[[Scientism\|科学主义]]扭曲形象与教条灌输的分析。
+>   - **Ch. 11** Argument_Hansson_2018_IndoctrinationHiddenCurriculum — 莉娜·汉森（Lena Hansson）关于[[Hidden Curriculum|隐性课程]]、唯[[Scientism\|科学主义]]扭曲形象与教条灌输的分析。
 > - **后续推进章节**
 >   - **Ch. 03** Argument_Peker_Taskin_2018_TurkeyEnlightenment — 奥斯曼帝国与现代土耳其[[Enlightenment\|启蒙运动]]与科学教育历史演进案例。
 >   - **Ch. 06** Argument_Peters-Burton_2018_NOSLearningSRL — [[Self-Regulated Learning\|自我调节学习]]（SRL）理论与 [[Nature of Science\|NOS]] 教学策略的认知心理学整合。
@@ -221,7 +223,7 @@ flowchart TD
 > - **Ch. 08 — Scientific Knowledge as a Culture: A [[Paradigm]] for Meaningful Teaching and Learning of Science** Argument_Galili_2018_ScientificKnowledgeCulture（待处理） — 伊加尔·加利利（Igal Galili）提出文化内容知识（CCK）范式，通过重量与光学像等物理学概念的历史演化，论证将科学知识作为文化体系教学能够有效促进跨学科深度理解与普遍[[Scientific Literacy\|科学素养]]。（pp. 203–234）
 > - **Ch. 09 — Integrating Science Education Research and History and Philosophy of Science in Developing an Energy Curriculum** Argument_Lehavi_Eylon_2018_EnergyCurriculumHPS（待处理） — 亚龙·莱哈维（Yaron Lehavi）与巴特-谢娃·埃隆（Bat-Sheva Eylon）结合以色列中学能量教学实践，系统阐释如何整合科学本身、科学史、科学哲学以及科学教育研究四支柱研发新型能量课程。（pp. 235–260）
 > - **Ch. 10 — Teaching Evolution: Criticism of Common Justifications and the Proposal of a More Warranted Set** Argument_Smith_2018_EvolutionJustifications（待处理） — 迈克·史密斯（Mike U. Smith）深入剖析演化论教学中传统功利性辩护的局限性与说服力匮乏，提出一套植根于现代生物学基础地位、现代科学素养与审美意蕴的新辩护体系。（pp. 261–280）
-> - **Ch. 11 — Science Education, Indoctrination, and the Hidden Curriculum** Argument_Hansson_2018_IndoctrinationHiddenCurriculum（待处理） — 莉娜·汉森（Lena Hansson）聚焦科学教学中的隐性课程，揭示将科学无形中等同于[[Positivism\|实证主义]]、唯[[Scientism\|科学主义]]与无神论观念所造成的教条灌输效应，并探讨其对学生科学身份认同的破坏。（pp. 283–306）
+> - **Ch. 11 — Science Education, Indoctrination, and the [[Hidden Curriculum]]** Argument_Hansson_2018_IndoctrinationHiddenCurriculum（待处理） — 莉娜·汉森（Lena Hansson）聚焦科学教学中的隐性课程，揭示将科学无形中等同于[[Positivism\|实证主义]]、唯[[Scientism\|科学主义]]与无神论观念所造成的教条灌输效应，并探讨其对学生科学身份认同的破坏。（pp. 283–306）
 > - **Ch. 12 — Warranted Indoctrination in Science Education** Argument_Wagner_2018_WarrantedIndoctrination（待处理） — 保罗·瓦格纳（Paul A. Wagner）从概念哲学角度剖析科学教育中依赖权威与证言的客观必然性，提出将正当性灌输界定为帮助学生跨越学科入门阈值并走向严谨怀疑态度的基准工具。（pp. 307–316）
 
 ---

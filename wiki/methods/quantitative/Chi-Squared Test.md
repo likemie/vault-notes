@@ -12,7 +12,7 @@ summary: "检验类别变量间关联性或单变量观测分布与理论分布�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 38
+method_related_count: 39
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Epistemic Agency]]"
   - "[[Epistemological Theories]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Epistemic Friction]]"
 related_theories: []
 related_methods:
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Chi-Squared Test
@@ -275,7 +276,7 @@ updated: 2026-09-22
 > | [[Effect Size]] | 补充方法 | 提供 Cramér's $V$ 与 $\phi$ 系数，克服卡方统计量随样本量膨胀的缺陷。 |
 > | [[Sample Size Determination]] | 前置方法 | 确保抽样规模满足期望频数 $\ge 5$ 的基本数学假设。 |
 > | [[Scale of Measurement]] | 前置理论 | 区分名义、顺序、等距与等比尺度，防范将顺序/连续数据不当降级为卡方分类。 |
-> | [[Epistemic Stances]] | [[Epistemological Theories\|认识论理论]] | 解释学习者在人机协同解决卡方检验任务时的思维差异（绝对论 vs 多元论 vs 评价论）。 |
+> | [[Epistemic Stances]] | [[Epistemological Theories\|认识论理论]] | 解释学习者在[[Man-Computer Symbiosis\|人机协同]]解决卡方检验任务时的思维差异（绝对论 vs 多元论 vs 评价论）。 |
 > | [[Metacognition]] | 调控机制 | 在大模型误推卡方检验时激活[[Epistemic Friction\|认知摩擦]]与多源核验的核心监控中枢。 |
 
 ---

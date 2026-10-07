@@ -6,7 +6,7 @@ aliases:
 summary: "比较教育的核心概念之一，指教育系统所塑造的理想人格与文化期望，Cowen 将其与转移并列为学科未来发展的两大伦理与学术问题"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -17,6 +17,7 @@ tags:
 related_concepts:
   - "[[Policy Network]]"
   - "[[Space of Flows and Space of Places]]"
+  - "[[Discourse]]"
   - "[[Shape-Shifting]]"
   - "[[Recontextualization]]"
   - "[[Global Policy Space]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-09-28
+updated: 2026-10-07
 ---
 
 # Educated Identity
@@ -71,7 +72,7 @@ updated: 2026-09-28
 
 > [!boundary]- 概念边界
 > - 不等于 课程目标 (Curriculum Objectives) — 课程目标是局部的学科知识与技能期望，受教育身份是系统层面对社会文化人格的整体构建。
-> - 不等于 [[Space of Flows and Space of Places\|流动空间]] — 流动空间是塑造现代受教育身份的[[Policy Network\|全球政策网络]]承载体，而受教育身份是其塑造的话语产物。
+> - 不等于 [[Space of Flows and Space of Places\|流动空间]] — 流动空间是塑造现代受教育身份的[[Policy Network\|全球政策网络]]承载体，而受教育身份是其塑造的[[Discourse|话语]]产物。
 
 ---
 
@@ -92,7 +93,7 @@ updated: 2026-09-28
 > - **理想人格与文化期望（Cultural Expectations）** 定义在特定的社会经济条件下，何为合格的“受教育者”，体现社会的主流文化与伦理共识。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 336]])
 > - **领土附着性与历史惯性（National Territoriality）** 受教育身份历史上由民族国家主权教育系统定义，与国民身份建构（如阿根廷、巴西对[[Encyclopaedism\|百科全书主义]]的不同吸收）紧密交织。([[Argument_Beech_2009_CE\|Beech, 2009, p. 355]])
 > - **超国家网络去历史化建构（Global Construction）** 在[[Network Society\|网络社会]]中，超国家机构在[[Global Policy Space\|全球政策空间]]中将受教育身份重塑为“能力开发”和“[[Lifelong Learning\|终身学习]]”等抽象的、去语境化的[[Floating Signifier\|漂浮能指]]，服务于[[Post-Fordism|后福特主义]]的全球劳动力需求。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 353–355]])
-> - **多级[[Transfer Translation Transformation\|转译]]与微观[[Shape-Shifting\|形变]]（Local Translation and Shape-shifting）** 抽象的全球理想身份在向国家政策和学校教室降落时，受到地方历史话语（如百科全书分科）和物质条件（如贫困）的强烈制约而发生实质性形变，甚至演变为“尊重贫困”等与原初意图相反的结果。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 358–361]])
+> - **多级[[Transfer Translation Transformation\|转译]]与微观[[Shape-Shifting\|形变]]（Local Translation and Shape-shifting）** 抽象的全球理想身份在向国家政策和学校教室降落时，受到地方历史[[Discourse|话语]]（如百科全书分科）和物质条件（如贫困）的强烈制约而发生实质性形变，甚至演变为“尊重贫困”等与原初意图相反的结果。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 358–361]])
 > - **伦理与政治见证的学术手段（Ethical and Political Witnessing）** [[Argument_Cowen_2023_CE\|Cowen (2023)]] 提出，该概念必须作为见证我们以教育之名对全世界的孩子做了什么的道德手段，去拷问和记录地缘政治剧变、战争冲突（如乌克兰战争、阿富汗情境）或极端政治干预（如[[National Security Law\|香港国安法]]下的课程变迁）对儿童受教育生命状态的实际人道后果。(p.336)
 > - **道德形容词的震荡工具（Shock Tools of Moral Vocabulary）** 在分析受教育身份的生存境遇时，应直接引入“英雄的”（heroic）、“陌生的”（strange）与“野蛮的”（barbaric）等道德形容词，打破专业中立与精致的相对主义滤镜，直面教育背后的国家暴力与伦理灾难。(p.335)
 
@@ -116,7 +117,7 @@ updated: 2026-09-28
 
 > [!critique] 外部批评：去历史化的“[[Floating Signifier\|漂浮能指]]”与政治共谋
 > - **第一种理解形式的去政治化与道德盲区** [[Argument_Cowen_2023_CE\|Cowen (2023)]] 批评专注于情境求同存异的历史比较传统，因其在分析中缺乏“国家”（State）权力维度以及对“受教育身份”的政治拷问，容易对法西斯主义、国家社会主义或国家机器的极端暴力行为失声，沦为去政治化的温和历史陈述。(pp.332–333)
-> - **结果导向测量的政治合谋** 现代基于国际测试的结果测量不仅窄化了受教育身份，更公开与新自由主义经济话语共谋，沦为效率运动的附属品与维护单一特定地缘政治合理性的社会温度计。(pp.333–334)
+> - **结果导向测量的政治合谋** 现代基于国际测试的结果测量不仅窄化了受教育身份，更公开与新自由主义经济[[Discourse|话语]]共谋，沦为效率运动的附属品与维护单一特定地缘政治合理性的社会温度计。(pp.333–334)
 > - **微观实践层面的扭曲与再生产** 全球倡导的能力口号由于缺乏历史语境，在地方实践中常产生异化。如 [[Argument_Beech_2009_CE\|Beech (2009)]] 发现，布宜诺斯艾利斯郊区的教师将去历史化的“尊重多样性”[[Transfer Translation Transformation\|转译]]为“尊重贫困”，事实上降低了对贫困儿童的学术期望，加速了社会地位的再生产。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 360–361]])
 
 ---

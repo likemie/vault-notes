@@ -8,7 +8,7 @@ summary: "西班牙社会学家，信息时代和网络社会理论的主要奠�
 type: person
 nationality: spain
 person_region: "spain"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -21,6 +21,7 @@ tags:
   - theme/information-society
 related_concepts:
   - "[[Space of Flows and Space of Places]]"
+  - "[[Discourse]]"
   - "[[Shape-Shifting]]"
   - "[[Praxis]]"
   - "[[Governance by Spin]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Manuel Castells
@@ -60,7 +61,7 @@ updated: 2026-09-17
 
 > [!person-profile] 人物档案
 > - **身份位置** 西班牙社会学家，南加州大学传播学讲座教授。
-> - **核心角色** 信息时代和[[Network Society\|网络社会]]理论的主要奠基人。在教育研究中，其网络国家、[[Space of Flows and Space of Places\|流动空间与地方空间]]及媒体政治等概念被广泛用于解释跨国教育政策话语的流通、翻译与本土[[Shape-Shifting\|形变]]机制。
+> - **核心角色** 信息时代和[[Network Society\|网络社会]]理论的主要奠基人。在教育研究中，其网络国家、[[Space of Flows and Space of Places\|流动空间与地方空间]]及媒体政治等概念被广泛用于解释跨国教育政策[[Discourse|话语]]的流通、翻译与本土[[Shape-Shifting\|形变]]机制。
 > - **代表贡献** 提出了 [[Network Society\|网络社会]]、[[Space of Flows and Space of Places\|流动空间与地方空间]]、网络国家（Network State）与媒体政治（Media Politics）理论。
 
 ---
@@ -71,7 +72,7 @@ updated: 2026-09-17
 > | 类型 | 条目 | 贡献 |
 > |:-----|:-----|:-----|
 > | 概念 | [[Space of Flows and Space of Places]] | 区分地理定位的物理环境与允许在非领土毗连下同时发生的流动空间，解释社会[[Praxis\|实践]]的脱嵌。 |
-> | 概念 | [[Governance by Spin]] | 其媒体政治与电视语言特性，被用于解释国家如何借助印象管理将复杂政策话语塑造成简化口号。 |
+> | 概念 | [[Governance by Spin]] | 其媒体政治与电视语言特性，被用于解释国家如何借助印象管理将复杂政策[[Discourse\|话语]]塑造成简化口号。 |
 > | 概念 | [[Informationalization]] | 阐明信息化与[[Soviet Statism\|国家主义]]体制的结构性冲突，论证信息自由流动与[[Snowball Sampling\|网络化]]逻辑。 |
 > | 概念 | [[Soviet Statism]] | 定义国家主义围绕国家机器所有者对社会剩余价值的占有，阐明其在信息时代的转型困境。 |
 > | 概念 | [[Military-Industrial Black Hole]] | 揭示苏联国家主义因将超额科技资源与人才封锁在封闭保密的军工系统而阻碍民用信息化创新的恶性循环。 |
@@ -134,7 +135,7 @@ updated: 2026-09-17
 
 > [!influence-path] 影响路径
 > - **理论路径** 其空间理论（[[Space of Flows and Space of Places\|流动空间]] vs 地方空间）和[[Network Society\|网络社会]]学重塑了批判地理学和比较教育学，为打破传统的“[[Methodological Nationalism\|方法论民族主义]]”提供了核心分析工具。
-> - **政策路径** 网络国家和媒体政治理论揭示了当代国家采纳“能力导向课程”等高度抽象、可塑的全球话语的政治动机，即利用媒体友好型口号进行[[Governance by Spin\|舆论操控]]（Spin）来调和多元利益关系。
+> - **政策路径** 网络国家和媒体政治理论揭示了当代国家采纳“能力导向课程”等高度抽象、可塑的全球[[Discourse|话语]]的政治动机，即利用媒体友好型口号进行[[Governance by Spin\|舆论操控]]（Spin）来调和多元利益关系。
 > - **实证应用** 其理论被广泛应用于研究跨国教育治理机构（如 [[OECD]]、[[World Bank\|世界银行]]）的影响力，以及拉美（巴西、阿根廷）与中国的高等教育和基础教育改革实践。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
@@ -146,4 +147,4 @@ updated: 2026-09-17
 ## 争议与批评
 
 > [!critique]- 批评索引
-> - [[Argument_Beech_2009_CE\|Beech (2009, p. 349)]] — 指出虽然 Castells 强调了[[Space of Flows and Space of Places\|流动空间]]对地方空间的支配地位，但教育的最终实践（如具体的教学与学习）必须附着于特定的地理领土（地方空间）。忽略地方空间的物质条件和既有历史话语的中介作用，将导致无法解释全球政策话语在落地时发生的深层[[Shape-Shifting\|形变]]。
+> - [[Argument_Beech_2009_CE\|Beech (2009, p. 349)]] — 指出虽然 Castells 强调了[[Space of Flows and Space of Places\|流动空间]]对地方空间的支配地位，但教育的最终实践（如具体的教学与学习）必须附着于特定的地理领土（地方空间）。忽略地方空间的物质条件和既有历史[[Discourse|话语]]的中介作用，将导致无法解释全球政策话语在落地时发生的深层[[Shape-Shifting\|形变]]。

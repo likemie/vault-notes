@@ -7,7 +7,7 @@ title: "Argument_Torres_2022_KMModels"
 argument_key: "Argument_Torres_2022_KMModels"
 argument_display_title: "Louder than words: Review and comparative analysis of knowledge mobilisation models"
 argument_kind: "book-chapter"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -58,6 +58,7 @@ related_concepts:
   - "[[Evidence-Innovation Knowledge Dynamics]]"
   - "[[Theoretical Perspective]]"
   - "[[Problem Solving]]"
+  - "[[Discourse]]"
   - "[[Research Scope]]"
 related_theories:
   - "[[Research Knowledge Mobilisation Model]]"
@@ -450,14 +451,14 @@ Révai (2020) 在 [[OECD]] 工作论文中提出了教育生态中证据与创�
 > - **确立学生与教师专业学习的终极目标基准** 突破纯技术中介指标，将改善学生学习成果与支持教育者专业学习置于不可动摇的显性价值地位，指引系统演进方向。
 > - **包容多元形态知识并推动证据与教育创新共生** 承认[[Phronesis\|实践智慧]]、默会经验与学术证据的对等合法性，将知识动员过程实质定位为面向教学难题解决的知识创生与创新扩散过程。
 > - **突破组织标签转向多维重叠的功能视角** 摒弃研究者-实践者二元割裂标签，以功能为轴心建模，为系统内行动者的跨界流动与复合职能履职提供制度空间。
-> - **构建全系统宏观协调机制与共享话语体系** 搭建跨越政府、大学与中小学的常态化协商平台，在共同专业语言下消除隔阂，推动教育证据生态系统的高效自适应演化。（pp.51–52）
+> - **构建全系统宏观协调机制与共享[[Discourse|话语]]体系** 搭建跨越政府、大学与中小学的常态化协商平台，在共同专业语言下消除隔阂，推动教育证据生态系统的高效自适应演化。（pp.51–52）
 
 ---
 
 ## 局限性与研究缺口
 
 > [!warning] [[Research Scope\|研究范围]]与理论抽象局限
-> - **模型采样的非穷尽性偏差** 采取的是代表性采样而非穷尽式综述，主要选取在英美及国际组织话语中占据统治地位的英文模型，可能遗漏了非西方语境下的本土动员[[Paradigm\|范式]]。（p.37）
+> - **模型采样的非穷尽性偏差** 采取的是代表性采样而非穷尽式综述，主要选取在英美及国际组织[[Discourse|话语]]中占据统治地位的英文模型，可能遗漏了非西方语境下的本土动员[[Paradigm\|范式]]。（p.37）
 > - **抽象理论模型与真实系统运行的落差** 任何模型都是对复杂现实的高度抽象与简化；模型在图纸上的优雅架构并不自动等同于实践系统中的顺畅运行，仍亟待 [[OECD]] 后续各章实证调查数据的验证。（pp.36–37）
 
 ---

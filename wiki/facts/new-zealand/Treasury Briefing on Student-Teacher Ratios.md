@@ -8,7 +8,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -19,6 +19,7 @@ tags:
 - region/new-zealand
 - stance/critique
 related_concepts:
+  - "[[Discourse]]"
   - "[[Visible Learning]]"
   - "[[Class Size]]"
   - "[[Material Fallacies]]"
@@ -40,14 +41,14 @@ related_instruments: []
 confidence: medium
 status: published
 created: '2026-05-06'
-updated: 2026-09-07
+updated: 2026-10-07
 ---
 ## 背景
 
 > [!info] 背景
 > 2011 年新西兰大选后，国家党联合政府（自 2008 年起执政）继续推进以提升学生成绩标准为核心的教育改革议程。政府立场是可以通过提高读写和算术成绩标准、支持低成就学生保持参与以获得中学资格、满足毛利和太平洋岛民学生特殊需求，在学校内部解决教育差距问题（Ministry of Education, 2011）。
 >
-> 在此背景下，新西兰的公立学校教育政策话语日益受到 [[John Hattie]] 的 [[Visible Learning]] 证据综合的影响。
+> 在此背景下，新西兰的公立学校教育政策[[Discourse|话语]]日益受到 [[John Hattie]] 的 [[Visible Learning]] 证据综合的影响。
 
 ## 经过
 
@@ -72,7 +73,7 @@ updated: 2026-09-07
 > [!warning] O'Neill 的三重批评
 > [[Argument_ONeill_2012_NZJES\|O'Neill (2012)]] 从三个维度论证 Treasury 建议存在[[Material Fallacies\|实质谬误]]：
 >
-> - **术语模糊且使用不一致** Hattie VL 中"教学质量"（quality of teaching）的[[Meta-analysis\|元分析]]证据全部来自大学生评教，按此定义对学校教育政策无任何可证明的相关性；"优质教学"和"教学质量"在新西兰学术和政策话语中日益被当作口号使用
+> - **术语模糊且使用不一致** Hattie VL 中"教学质量"（quality of teaching）的[[Meta-analysis\|元分析]]证据全部来自大学生评教，按此定义对学校教育政策无任何可证明的相关性；"优质教学"和"教学质量"在新西兰学术和政策[[Discourse|话语]]中日益被当作口号使用
 > - **研究证据局限性被忽视** Hattie 的综合涵盖所有教育阶段（早教至高等教育），非学校阶段研究被纳入扭曲了[[Effect Size\|效应量]]和排名；Hattie 本人明确警示相关不等于因果、成功效应多来自创新而非日常课堂、该书"不涉及课堂生活"
 > - **政策结论无效** Treasury 建议增加生师比直接与 Hattie 本人结论矛盾；[[OECD]] 数据（2011）显示新西兰中小学生师比已高于 OECD 均值，不存在进一步增加的证据基础
 
@@ -80,7 +81,7 @@ updated: 2026-09-07
 
 > [!success] 影响与后果
 > - O'Neill 的评论引发了对教育研究证据在政策建议中被误用问题的学术讨论
-> - 该案例被用作教育政策话语中证据误用的典型范例，凸显研究者有责任警惕并挑战基于[[Material Fallacies\|实质谬误]]的公共政策辩论
+> - 该案例被用作教育政策[[Discourse|话语]]中证据误用的典型范例，凸显研究者有责任警惕并挑战基于[[Material Fallacies\|实质谬误]]的公共政策辩论
 > - 揭示了新西兰教育政策过程中存在的信任/不信任悖论（Ball, 2007）以及[[Policy Entrepreneur\|政策创业者]]（Mintrom, 2000）在改革话语中的角色
 
 ## 争议与评论

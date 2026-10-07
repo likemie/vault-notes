@@ -9,7 +9,7 @@ aliases:
 summary: "西方教育思想史上关于知识组织和传授的一对经典二元范式：disciplina 侧重既有知识的灌训与规训，doctrina 侧重知识的动态生产与开放更新"
 type: concept
 domain: "educational-philosophy"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Disciplinary Institutionalization]]"
   - "[[Externalization]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods: []
@@ -164,4 +165,4 @@ updated: 2026-10-07
 > [!evidence-grid-a] 相关论证索引
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff (2024)]] — 运用这一[[Paradigm|范式]]剖析了芬兰[[Phenomenon-Based Learning|现象本位学习]]在绩效评估压力下被技能原子化收纳的本质。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009, p. 96)]] — 揭示超国家治理与科研资助体系如何对比较教育学者施加规训压力，促使学术[[Knowledge Production|知识生产]]向政策问责与技术官僚规训屈从。
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 153–154)]] — 在第四阶段话语梳理中引介卡诺伊批判国家理论，阐明学校在生产关系规训再生产与大众民主诉求之间的辩证张力。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 153–154)]] — 在第四阶段[[Discourse|话语]]梳理中引介卡诺伊批判国家理论，阐明学校在生产关系规训再生产与大众民主诉求之间的辩证张力。

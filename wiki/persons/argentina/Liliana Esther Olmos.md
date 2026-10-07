@@ -9,7 +9,7 @@ summary: "阿根廷裔比较教育社会学者，加州大学洛杉矶分校拉�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 19
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Compensatory Legitimation]]"
   - "[[Financial-Intellectual Complex]]"
+  - "[[Discourse]]"
   - "[[Emergence]]"
   - "[[Dual School System]]"
   - "[[Endogenous and Exogenous Privatisation]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-28
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Liliana Esther Olmos
@@ -63,7 +64,7 @@ updated: 2026-10-05
 > [!person-profile] 人物档案
 > - **身份位置** 阿根廷裔比较教育社会学者，长期在加州大学洛杉矶分校（UCLA）拉丁美洲中心与教育研究生院从事研究工作。
 > - **核心角色** 从新马克思主义政治经济学与批判政治社会学视角，深入考察第三世界与拉丁美洲教育扩张的制度动力、依附性国家机器的运作机制以及全球化与新自由主义调整对公共教育公平的冲击。
-> - **代表贡献** 与[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（Carlos Alberto Torres）合作系统阐述[[Conditioned State Theory|受限国家理论]]在教育扩张中的解释机制，剖析拉美双轨教育体制与[[State Corporatism|国家法团主义]]下的[[Compensatory Legitimation|补偿性合法化]]，批判[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的话语垄断。
+> - **代表贡献** 与[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（Carlos Alberto Torres）合作系统阐述[[Conditioned State Theory|受限国家理论]]在教育扩张中的解释机制，剖析拉美双轨教育体制与[[State Corporatism|国家法团主义]]下的[[Compensatory Legitimation|补偿性合法化]]，批判[[World Bank|世界银行]][[Financial-Intellectual Complex|金融-智识复合体]]的[[Discourse|话语]]垄断。
 
 > [!citation-card]- 奥尔莫斯与托雷斯论国家与教育扩张
 > 任何对教育与国家关系的分析，都必须考虑到这些关系的多层级、复杂性与动态性，揭示出在历史与社会力量冲击政治和教育机构时所[[Emergence|涌现]]的诸多张力与矛盾。有些理论往往假定教育扩张存在单一因果，忽视了在具体的结构、政治与历史约束下运作的国家对于教育在其积累与合法化职能中所做贡献的重视程度。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 73–74)]]
@@ -105,7 +106,7 @@ updated: 2026-10-05
 
 > [!influence-path] 影响路径
 > - **理论路径** 推进了比较教育社会学对国家机器自主性与依附性边界的辩证认识，将[[Conditioned State Theory|受限国家理论]]确立为剖析第三世界教育不平等的重要典范。
-> - **政策批判路径** 揭穿了以[[World Bank|世界银行]]为代表的国际金融组织将教育新自由主义化、私有化（[[Endogenous and Exogenous Privatisation|内生与外生私有化]]）的霸权话语，揭示[[Financial-Intellectual Complex|金融-智识复合体]]的技术官僚议程。
+> - **政策批判路径** 揭穿了以[[World Bank|世界银行]]为代表的国际金融组织将教育新自由主义化、私有化（[[Endogenous and Exogenous Privatisation|内生与外生私有化]]）的霸权[[Discourse|话语]]，揭示[[Financial-Intellectual Complex|金融-智识复合体]]的技术官僚议程。
 > - **区域研究路径** 深化了拉美[[Critical Pedagogy|批判教育学]]与成人扫盲运动对[[State Corporatism|国家法团主义]]（[[State Corporatism]]）机制的警惕，促使研究者直面双轨教育不平等背后的结构性阶级压迫。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引

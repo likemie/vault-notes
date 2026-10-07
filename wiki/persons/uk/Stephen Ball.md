@@ -7,7 +7,7 @@ summary: "英国教育社会学家，伦敦大学学院教育学院政策社会�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 36
+person_related_count: 37
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -23,6 +23,7 @@ tags:
   - region/uk
 related_concepts:
   - "[[Policy Network]]"
+  - "[[Discourse]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Network Governance]]"
   - "[[Policy Entrepreneur]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-05'
-updated: 2026-09-28
+updated: 2026-10-07
 ---
 
 # Stephen Ball
@@ -77,7 +78,7 @@ updated: 2026-09-28
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育社会学家，伦敦大学学院教育学院（UCL Institute of Education）政策社会学荣休教授。
-> - **核心角色** 批判性教育政策社会学的开拓者，在全球教育市场化、私有化、[[Policy Network|政策网络]]治理以及新自由主义审计文化研究中承担核心话语构建者的枢纽角色。
+> - **核心角色** 批判性教育政策社会学的开拓者，在全球教育市场化、私有化、[[Policy Network|政策网络]]治理以及新自由主义审计文化研究中承担核心[[Discourse|话语]]构建者的枢纽角色。
 > - **代表贡献** 提出教育政策制定的多重语境框架；系统区分教育的[[Endogenous and Exogenous Privatisation|内生与外生私有化]]；揭示教育市场化作为新自由主义国家的“阶级策略”；发展[[Network Governance|网络治理]]与跨国[[Policy Entrepreneur|政策创业者]]的社会学批判。
 
 ---
@@ -107,7 +108,7 @@ updated: 2026-09-28
 ## 核心思想
 
 > [!claim] 核心主张
-> 教育政策绝非单纯自上而下的中立文本，而是在多重复杂语境中不断生产和[[Recontextualization|再脉络化]]的话语博弈[[Champ|场域]]。新自由主义治理通过“审计社会”与“[[Governing by Numbers|以数字治理]]”等绩效考核技术全面侵蚀公立教育，利用[[Evidence-Based Education|循证教育]]中“[[Value Neutrality|价值中立]]”的伪科学修辞规避深层价值审议，剥夺教师的专业反思与伦理判断力，最终将教育的民主陶冶宗旨降格为流水线式的生产效率控制。
+> 教育政策绝非单纯自上而下的中立文本，而是在多重复杂语境中不断生产和[[Recontextualization|再脉络化]]的[[Discourse|话语]]博弈[[Champ|场域]]。新自由主义治理通过“审计社会”与“[[Governing by Numbers|以数字治理]]”等绩效考核技术全面侵蚀公立教育，利用[[Evidence-Based Education|循证教育]]中“[[Value Neutrality|价值中立]]”的伪科学修辞规避深层价值审议，剥夺教师的专业反思与伦理判断力，最终将教育的民主陶冶宗旨降格为流水线式的生产效率控制。
 
 ### 核心命题
 
@@ -157,7 +158,7 @@ updated: 2026-09-28
 > [!tension] 争议焦点
 > - **争议对象** 鲍尔政策分析中的[[Post-structuralism|后结构主义]]倾向。
 > - **批评立场** 传统马克思主义社会学家的批评。
-> - **批评观点** 批评者认为，鲍尔对政策的分析过度聚焦于话语、权力的微观技术以及弥散性治理网络，在一定程度上弱化了对资本主义国家机器、宏观阶级结构硬性制约与资本积累内在矛盾的总体性把握。
+> - **批评观点** 批评者认为，鲍尔对政策的分析过度聚焦于[[Discourse|话语]]、权力的微观技术以及弥散性治理网络，在一定程度上弱化了对资本主义国家机器、宏观阶级结构硬性制约与资本积累内在矛盾的总体性把握。
 
 ---
 

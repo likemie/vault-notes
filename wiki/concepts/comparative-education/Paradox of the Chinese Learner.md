@@ -7,7 +7,7 @@ aliases:
 summary: "中国／儒家文化圈学习者看似依赖低效学习方式却持续取得高水平成就之间的矛盾"
 type: concept
 domain: "comparative-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
   - "[[Learning Gap]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Cultural Models]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-22'
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Paradox of the Chinese Learner
@@ -136,7 +137,7 @@ updated: 2026-09-22
 > [!warning]
 > - **悖论框架本身的西方中心预设** 将中国学习方式定性为"看似低效的"，实际上预设了西方教育方法的优越性——悖论之所以是"悖论"，恰恰因为它以西方标准为默认参照系
 > - **过度同质化 [[Confucian Heritage Cultures\|CHC]] 内部差异** 将中国、日本、韩国、越南学习者的高成就归因于同一套"儒家价值"，可能掩盖了各国不同的教育制度、政治经济条件和本土文化传统
-> - **悖论可能已被解决** 经过 Marton、Dahlin、Watkins、Li 等三十余年的研究，"悖论"可能已不再是悖论——它只是揭示了两种文化学习模型在目的、过程和成就标准上的系统性差异。在此意义上，"[[Chinese Learner\|中国学习者]]悖论"的持久生命力更多反映了**西方教育话语对替代性学习模型持续的不理解**，而非研究证据的缺乏
+> - **悖论可能已被解决** 经过 Marton、Dahlin、Watkins、Li 等三十余年的研究，"悖论"可能已不再是悖论——它只是揭示了两种文化学习模型在目的、过程和成就标准上的系统性差异。在此意义上，"[[Chinese Learner\|中国学习者]]悖论"的持久生命力更多反映了**西方教育[[Discourse|话语]]对替代性学习模型持续的不理解**，而非研究证据的缺乏
 
 ---
 

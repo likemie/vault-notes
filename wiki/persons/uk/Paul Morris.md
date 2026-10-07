@@ -7,7 +7,7 @@ summary: "英国比较教育与课程研究学者，香港课程政治与政策�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Mediatised Governance]]"
   - "[[Rashomon Effect]]"
+  - "[[Discourse]]"
   - "[[Media Logic]]"
   - "[[International Schools]]"
   - "[[IB Diploma Programme]]"
@@ -47,7 +48,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 ## 简介
 
@@ -63,7 +64,7 @@ updated: 2026-09-24
 >
 > 2. **威权国家主义与教育的国安化** 在后 2019 香港语境下，教育从社会流动的工具转变为国家安全和民族建构的手段。Morris and Vickers 合作，分析了《国安法》如何加速了香港教育的"大陆化"。（Vickers & Morris, 2022）
 >
-> 3. **[[Mediatised Governance\|媒介化治理]]与 PISA 的[[Rashomon Effect\|多重真实]]** 揭示跨国大规模评估数据进入国内公共领域后所触发的“[[Rashomon Effect\|罗生门效应]]”；本土政客运用“遗漏话语”与危机修辞扭曲国际报告，而大众媒体依循自身的[[Media Logic\|媒介逻辑]]建构“水平下降”叙事并规避具体政策审查，共同催生了媒介化治理形态。（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）
+> 3. **[[Mediatised Governance\|媒介化治理]]与 PISA 的[[Rashomon Effect\|多重真实]]** 揭示跨国大规模评估数据进入国内公共领域后所触发的“[[Rashomon Effect\|罗生门效应]]”；本土政客运用“遗漏[[Discourse|话语]]”与危机修辞扭曲国际报告，而大众媒体依循自身的[[Media Logic\|媒介逻辑]]建构“水平下降”叙事并规避具体政策审查，共同催生了媒介化治理形态。（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）
 >
 > > "The strain of holding together a society shot through with profound divisions of class, residency, culture and ethnicity falls largely upon schooling and propaganda, backed up by repressive violence." (Vickers & Morris, 2022, p. 47，引自 [[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 483]])
 

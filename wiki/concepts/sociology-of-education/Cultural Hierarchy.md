@@ -7,14 +7,14 @@ aliases:
 summary: "支配群体将其文化视角合法化为社会正统标准，将边缘或少数群体文化降至从属地位的符号支配与教育再生产机制"
 type: concept
 domain: "sociology-of-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 confidence: high
 status: active
 created: '2026-07-23'
-updated: 2026-09-17
+updated: 2026-10-07
 tags:
   - cultural-hierarchy
   - official-knowledge
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Official Knowledge]]"
+  - "[[Discourse]]"
   - "[[Symbolic Boundary]]"
   - "[[Bildung]]"
   - "[[Zhonghua Minzu]]"
@@ -62,7 +63,7 @@ related_arguments:
 > - **边界** 不同于基于生物学建构的“种族等级”（Race Hierarchy），文化等级侧重于文化符号、历史叙事、宗教传统与语言语码的不平等价值赋予。
 
 > [!citation-card]- 关键表述
-> 对儒家传统的阐释构成了一种垄断性主导话语，强化了不同文化群体之间的文化等级。[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 59)]]
+> 对儒家传统的阐释构成了一种垄断性主导[[Discourse|话语]]，强化了不同文化群体之间的文化等级。[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 59)]]
 >
 > *“The interpretation of the Confucian tradition is a monopolising and dominant discourse that reinforces the cultural hierarchy between different cultural groups.”*
 
@@ -78,7 +79,7 @@ related_arguments:
 > | 概念 | 核心聚焦 | 作用机制 | 表现形式 |
 > |:---|:---|:---|:---|
 > | **文化等级（Cultural Hierarchy）** | 群体文化间的不平等顺位与价值排序[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 59)]] | 垂直的价值赋予与正统/边缘分层 | “正统/中心 vs. 异域/从属”的文化地位划分 |
-> | **[[Symbolic Boundary\|象征边界]]** | “我们”与“他们”之间的主观分类线 | 差异的道德化、自然化与排斥正当化 | “纯真 vs. 功利”、“负责 vs. 不负责”的道德话语 |
+> | **[[Symbolic Boundary\|象征边界]]** | “我们”与“他们”之间的主观分类线 | 差异的道德化、自然化与排斥正当化 | “纯真 vs. 功利”、“负责 vs. 不负责”的道德[[Discourse\|话语]] |
 > | **[[Hegemony\|文化霸权]]** | 统治阶级将自身世界观伪装为全民常识 | 意识形态合意塑造与隐性统治 | 被被统治者无批判接受的统治逻辑 |
 
 ---
@@ -86,7 +87,7 @@ related_arguments:
 ## 核心要素
 
 > [!feature] 核心要素
-> - **正统话语的垄断（Discursive Monopolisation）** — 将主导群体的文化（如汉族儒家传统）提升为国家“唯一”或“核心”的文化象征，剥夺其他文化的代表性[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
+> - **正统[[Discourse|话语]]的垄断（Discursive Monopolisation）** — 将主导群体的文化（如汉族儒家传统）提升为国家“唯一”或“核心”的文化象征，剥夺其他文化的代表性[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
 > - **师生与[[Bildung\|教化]]隐喻（Teacher-Student Metaphor）** — 在历史与文化叙事中，将主导文化塑造为“施教者/文明化者”，将非主导群体塑造为“受教者/学习者”，固定两者的支配-服从关系[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
 > - **少数文化的“异域化”与边缘化（Exoticisation & Marginalisation）** — 将少数族群文化置于非主流的“民俗展示”或“落后待改造”位置，排除在核心知识体系之外[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 60)]]。
 > - **文化不平等的制度化再生产** — 通过国家课程、审查制度与评价体系，将符号层面的文化等级硬化为社会与政治层面的结构性不平等[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。

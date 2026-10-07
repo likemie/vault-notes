@@ -7,7 +7,7 @@ aliases:
 summary: "Frijda 提出的情绪理论，强调认知评估在情绪生成中的核心作用，将情绪过程分解为七个阶段，并认为文化参与每个阶段的调节"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 14
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Humility]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Cultural Models]]"
 related_methods:
@@ -39,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-09-23
+updated: 2026-10-07
 ---
 
 # Appraisal Theory
@@ -162,4 +163,4 @@ updated: 2026-09-23
 ## 应用领域
 
 > [!case] 应用领域索引
-> - [[Mother-Child Conversation]] / [[MCC Discourse Analysis Examples]] — 在儿童[[Parental Cognitive and Affective Socialization\|情感社会化]]和母子话语研究中，作为解释情感对话如何传递文化评估规则的理论基础。
+> - [[Mother-Child Conversation]] / [[MCC Discourse Analysis Examples]] — 在儿童[[Parental Cognitive and Affective Socialization\|情感社会化]]和母子[[Discourse|话语]]研究中，作为解释情感对话如何传递文化评估规则的理论基础。

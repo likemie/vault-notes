@@ -50,6 +50,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Creativity]]"
   - "[[Diversity, Equity, and Inclusion]]"
+  - "[[Discourse]]"
   - "[[Scientific Literacy]]"
   - "[[Reproducibility Crisis]]"
   - "[[Grandes Ecoles]]"
@@ -138,7 +139,7 @@ title: "Argument_Kratsios_2026_OSTP"
 argument_key: "Argument_Kratsios_2026_OSTP"
 argument_display_title: "Science: A new golden age (Report to the President)"
 argument_kind: "report"
-argument_related_count: 101
+argument_related_count: 102
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -387,7 +388,7 @@ issuing_organization: "Office of Science and Technology Policy"
 资助评审机制若引入非学术性评价指标，将对选拔质量与科研公正性造成结构性扭曲。
 
 > [!case] 偏离科学能力准则的历史教训与现实扭曲
-> 2021 至 2024 年间，NSF 重点涉及[[Diversity, Equity, and Inclusion|多元、平等与包容]]（Diversity, Equity, and Inclusion, DEI）倡议的资助份额由不足 1% 激增至 25% 以上；[[National Aeronautics and Space Administration|国家航空航天局]]（National Aeronautics and Space Administration, NASA）一度要求提案必须包含包容性计划，并由半数具备 DEI 背景的专家组成专门小组进行评审。此类政策迫使科研人员在硬核技术提案中附会非学术性话语，其机制类似于 1920 年代哈佛大学为限制犹太学生比例而引入的非客观品格评价体系。以与[[Scientific Literacy|科学素养]]无关的标准筛选人才，其最终代价是损害国家整体的科学探索能力（p. 17）。
+> 2021 至 2024 年间，NSF 重点涉及[[Diversity, Equity, and Inclusion|多元、平等与包容]]（Diversity, Equity, and Inclusion, DEI）倡议的资助份额由不足 1% 激增至 25% 以上；[[National Aeronautics and Space Administration|国家航空航天局]]（National Aeronautics and Space Administration, NASA）一度要求提案必须包含包容性计划，并由半数具备 DEI 背景的专家组成专门小组进行评审。此类政策迫使科研人员在硬核技术提案中附会非学术性[[Discourse|话语]]，其机制类似于 1920 年代哈佛大学为限制犹太学生比例而引入的非客观品格评价体系。以与[[Scientific Literacy|科学素养]]无关的标准筛选人才，其最终代价是损害国家整体的科学探索能力（p. 17）。
 
 #### 5. 碎片化短周期考核机制阻碍高风险长周期探索
 

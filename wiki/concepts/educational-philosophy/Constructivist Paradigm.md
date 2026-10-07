@@ -10,7 +10,7 @@ aliases:
 summary: "跨越研究哲学、学习理论与社会理论的概念家族，强调意义、知识和规范在主体活动及社会历史互动中形成，并用于质性研究、课程设计与观念权力分析"
 type: concept
 domain: "educational-philosophy"
-related_count: 66
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Constructive Alignment]]"
   - "[[Teaching and Learning Activities]]"
   - "[[Epistemology]]"
+  - "[[Discourse]]"
   - "[[Progressive Education]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Test-Based Accountability]]"
@@ -95,7 +96,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 # Constructivist Paradigm
 
@@ -183,7 +184,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > 如果经验的意义来自行动者与世界的互动，研究者就需要进入参与者的社会历史情境，询问他们怎样界定问题、使用概念并协商现实。开放式提问、自然情境资料和归纳分析由此获得方法论依据。
 
 > [!claim] [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]]
-> **情境中的意义生成**　建构主义世界观要求研究者保存参与者观点的多样性与复杂性，通过较宽泛的问题让意义从材料中逐步显现，再结合参与者的历史和文化背景解释主题。研究者也要说明自身位置如何影响诠释。由此形成的知识是一项有证据约束的解释工作，不能简化成对参与者话语的机械[[Transcription in Qualitative Research\|转录]]。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 1, pp. 8–9)]]
+> **情境中的意义生成**　建构主义世界观要求研究者保存参与者观点的多样性与复杂性，通过较宽泛的问题让意义从材料中逐步显现，再结合参与者的历史和文化背景解释主题。研究者也要说明自身位置如何影响诠释。由此形成的知识是一项有证据约束的解释工作，不能简化成对参与者[[Discourse|话语]]的机械[[Transcription in Qualitative Research\|转录]]。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 1, pp. 8–9)]]
 
 ---
 
@@ -252,7 +253,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 
 > [!critique] 外部批评
 > - **教师与内容可能被削弱** [[Argument_Rømer_2018_EPT\|Rømer (2018)]] 批评 Hattie 一方面接受激进建构主义对外部知识和教师权威的削弱，另一方面又把教师中心的直接指导加入同一框架，因而没有解决教师应代表何种内容和规范的问题。[[Argument_Rømer_2018_EPT\|(Rømer, 2018, pp. 6–8)]]
-> - **课程知识可能被通用技能取代** [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] 指出，建构主义话语与[[Outcomes-based Education\|结果导向课程]]和 21 世纪技能结合时，学科知识容易被描述成可随时替换的事实，课程准入的不平等问题随之被遮蔽。[[Argument_McPhail_2023_JCS\|(McPhail et al., 2023, pp. 3–5)]]
+> - **课程知识可能被通用技能取代** [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] 指出，建构主义[[Discourse|话语]]与[[Outcomes-based Education\|结果导向课程]]和 21 世纪技能结合时，学科知识容易被描述成可随时替换的事实，课程准入的不平等问题随之被遮蔽。[[Argument_McPhail_2023_JCS\|(McPhail et al., 2023, pp. 3–5)]]
 > - **反建构主义判断也需要接受证据审查** [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] 通过审计 Hattie 对[[Whole Language\|全语言]]研究的处理，认为其对建构主义和教师促进者角色的先在立场影响了研究纳入、分类和[[Effect Size\|效应量]]解释。这项批评提醒研究者分别检查[[Theoretical Standpoint\|理论立场]]与证据程序。
 
 > [!warning] 适用局限

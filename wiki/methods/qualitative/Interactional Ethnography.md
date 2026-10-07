@@ -9,7 +9,7 @@ summary: "结合微观话语分析与历时民族志的质性研究范式，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 34
+method_related_count: 35
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Discourse]]"
   - "[[Unit of Analysis]]"
   - "[[Rich and Thick Description]]"
   - "[[Reflexivity]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Interactional Ethnography
@@ -75,7 +76,7 @@ updated: 2026-09-22
 > 互动[[Ethnography|民族志]]（Interactional Ethnography, IE，亦作交互民族志、互动人种志）是一种融合微观[[Discourse Analysis|话语分析]]、常人方法学与历时[[Ethnography|民族志]]的[[Qualitative Research|质性研究]][[Paradigm|范式]]。它通过对特定社会共同体（如课堂、实验室或学术团队）进行长周期的浸润式实地观察、多模态音视频采集与[[Transcription in Qualitative Research|逐字转录]]，构建跨越时间跨度的事件地图（Event Mapping）与互文网络（Intertextual Web），系统追踪成员之间如何在微观言语互动、符号中介与行动协商中共同建构文化实践、[[Epistemology|认识论]]准则与组织化结构。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 899–900)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 共同体成员在日常情境中的话语互动、手势多模态表征、数字中介物操作、制度性文本以及行动背后的规范协商过程。
+> - **研究对象** 共同体成员在日常情境中的[[Discourse|话语]]互动、手势多模态表征、数字中介物操作、制度性文本以及行动背后的规范协商过程。
 > - **问题类型** 适合回答共同体文化实践如何被微观建构、特定认识规范如何历时突现、社会与认识结构如何在互动中被重塑等机制性与过程性解释问题。
 > - **[[Unit of Analysis|分析单位]]** 互动回合（Turn of Talk）、课堂教学事件（Classroom Event）、历时探究线索（Inquiry Thread）及整个学习共同体的历史演化轨迹。
 > - **输出形式** 事件演化时间线、互文关系网络图、话语转录深度解读、典型案例（Telling Case）[[Rich and Thick Description|厚描述]]与社会认识机制模型。
@@ -91,7 +92,7 @@ updated: 2026-09-22
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 秉持社会建构论与情境认识论，视意义、知识与社会结构为行动者在特定历史文化情境中通过符号中介与言语互动共同协商生成的产物，而非孤立存在于个体头脑中的静态表征。
-> - **研究者角色** 研究者作为长周期[[Qualitative Observation|田野观察]]者与记录者，既需要深入现场捕捉未言明的情境细节，又必须保持理论敏锐性与[[Reflexivity|反身性]]（Reflexivity），避免将先验[[Hypothesis|假设]]强加于受访者与行动者的话语逻辑。
+> - **研究者角色** 研究者作为长周期[[Qualitative Observation|田野观察]]者与记录者，既需要深入现场捕捉未言明的情境细节，又必须保持理论敏锐性与[[Reflexivity|反身性]]（Reflexivity），避免将先验[[Hypothesis|假设]]强加于受访者与行动者的[[Discourse|话语]]逻辑。
 > - **有效性标准** 遵循[[Qualitative Research|质性研究]]的可[[Reliability|信度]]（Credibility）、可转移性（Transferability）与可确认性（Confirmability）；依托长周期浸润、多元语料[[Triangulation|三角互证]]（音视频、在线话语、实体笔记、反思访谈）以及针对核心事件的双向因果追溯保障推论效度。
 > - **不声称回答的问题** 不用于大样本总体参数估计或净[[Effect Size|效应量]]因果检验，不能从单一典型案例的质性互动直接外推全人口统计概率分布。
 
@@ -107,7 +108,7 @@ updated: 2026-09-22
 
 > [!proc] 通用程序
 > 1. **进入田野与长周期系统记录** 深入研究[[Champ|场域]]进行全程参与或[[Non-participant Observation|非参与式观察]]，综合运用音视频设备和现场笔记，建立按时间[[Coding in Qualitative Research|编码]]的完整事件日志。
-> 2. **构建事件地图（Event Mapping）** 梳理田野全貌，依据时间与活动主题划分关键事件节点，标定各阶段的核心参与者、主题话语与生成的[[Artefact|人工制品]]。
+> 2. **构建事件地图（Event Mapping）** 梳理田野全貌，依据时间与活动主题划分关键事件节点，标定各阶段的核心参与者、主题[[Discourse|话语]]与生成的[[Artefact|人工制品]]。
 > 3. **识别关键转折事件与典型案例（Telling Cases）** 筛选出推动共同体规范转型、认识框架重组或认知突破的关键事件，作为深入微观剖析的典型载体。
 > 4. **双向互文追踪与微观[[Discourse Analysis|话语分析]]** 针对选定事件进行[[Transcription in Qualitative Research|逐字转录]]，向前回溯该事件的历史根源（前序对话、既有制品），向后追踪其对后续实践的持续塑造，绘制互文网络（Intertextual Web）。
 > 5. **多源三角核验与[[Rich and Thick Description|厚描述]]产出** 将话语转录与课后访谈、数字平台日志相互印证，撰写情境化厚描述，提炼出具有理论解释力的动态机制。
@@ -136,7 +137,7 @@ updated: 2026-09-22
 > 在针对五年级人体系统探究的研究中，研究者通过互动民族志方法记录了 7 个月内发生的全部 35 次教学事件，建立事件地图；针对“眼睛探究线索”展开长达 7 个月的双向互文追踪，从最初的大脑讨论、便利贴提炼，到[[Theory of Knowledge|知识论]]坛发帖、跨组流动研讨，再到 BOOK 视图综合，清晰重构了观点改进与弹性分组的微观演进机制。
 >
 > ![](https://img.mylikemie.icu/sources/Zhang_2022_SE/figures/Zhang_2022_SE_Fig7_Eye_Inquiry_Tracing.jpg)
-> *图 1 互动民族志与探究线索分析结合：眼睛探究主题跨越 7 个月的事件地图与互文话语追踪轨迹*
+> *图 1 互动民族志与探究线索分析结合：眼睛探究主题跨越 7 个月的事件地图与互文[[Discourse|话语]]追踪轨迹*
 
 ---
 
@@ -154,7 +155,7 @@ updated: 2026-09-22
 > [!method-limits] 方法局限
 > - **偏误来源** 观察者效应（[[Hawthorne Effect]]）、[[Transcription in Qualitative Research|转录]]与[[Coding in Qualitative Research|编码]]过程中的主观解释倾向、由于语料极其庞大导致对边缘事件的挂一漏万。
 > - **适用边界** 结论高度依赖特定班级文化、教师促学风格与具体学科情境，跨情境直接复制需审慎评估语境相似度。
-> - **误用风险** 容易将微观话语断章取义地拼贴为表面化的故事，忽略系统性的事件地图构建与严格的互文历史回溯。
+> - **误用风险** 容易将微观[[Discourse|话语]]断章取义地拼贴为表面化的故事，忽略系统性的事件地图构建与严格的互文历史回溯。
 > - **补救方式** 坚持双研究者平行观察、严格执行高标准的[[Intercoder Agreement|编码一致性]]检验、综合利用量化网络数据（[[Network Analysis|SNA]]）与历时线索图进行多维三角校准。
 
 ---

@@ -9,9 +9,9 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: ""
 tags:
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Growth]]"
   - "[[Performance Indicators]]"
+  - "[[Discourse]]"
   - "[[Selectivity]]"
   - "[[Hypothesis]]"
   - "[[Operationalization]]"
@@ -100,7 +101,7 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 ## 效果与评价
 
 > [!success]
-> - Innovation Union 成功将"[[Innovation Ecosystem\|创新生态]]体系"建构为欧盟政策话语中的核心概念，使区域成为创新政策的基本治理单元([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.175]])
+> - Innovation Union 成功将"[[Innovation Ecosystem\|创新生态]]体系"建构为欧盟政策[[Discourse|话语]]中的核心概念，使区域成为创新政策的基本治理单元([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.175]])
 > - 政策通过[[Performance Indicators\|绩效指标]]和区域排名有效地动员了各成员国和区域的竞争意识（p.165）
 
 ### 结构性局限
@@ -116,7 +117,7 @@ EUROSTAT 的区域创新记分牌（Regional Innovation Scoreboard）是 Innovat
 
 > [!warning]
 > - **区域同质化[[Hypothesis\|假设]]** Innovation Union 假设所有欧盟区域——无论其经济发展水平、制度传统和创新能力如何——都应且能够成为同一类型的"[[Innovation Ecosystem\|创新生态]]体系"。这一假设忽视了区域之间在产业结构、[[Human Capital Theory\|人力资本]]、制度能力等维度上的根本结构性差异([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.174]])
-> - **创新定义的窄化** 通过将创新[[Operationalization\|操作化]]为研发支出、专利数量和科技人员数量，Innovation Union 在话语上排除了社会创新、文化创新和基层互助创新。这一操作化定义的窄化并非技术必然，而是一种政治选择——但它被指标的"客观性"外表所遮蔽（p.174–175）
+> - **创新定义的窄化** 通过将创新[[Operationalization\|操作化]]为研发支出、专利数量和科技人员数量，Innovation Union 在[[Discourse|话语]]上排除了社会创新、文化创新和基层互助创新。这一操作化定义的窄化并非技术必然，而是一种政治选择——但它被指标的"客观性"外表所遮蔽（p.174–175）
 > - **与 [[EU Skills Agenda]] 的协调问题** 两个旗舰政策共享"协同演化"的[[Theory of Change\|变革理论]]（[[Theories of Policy Change]]），但在治理实践中，通过模糊此前分离的政策领域边界，为代表不同层级政府的行动者带来了大量协调问题——这些在政策设计中未被充分预见（p.169）
 
 ## 相关概念／理论

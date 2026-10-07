@@ -7,7 +7,7 @@ aliases:
 summary: "戴安娜·斯通（Diane Stone）于 2000 年提出的概念，指世界银行在 1990 年代从传统发展放贷机构向以知识生产、研究分发与政策咨询为核心业务的全球知识中枢转型的制度性演变。知识银行转型是世界银行成为教育领域政策中介先行者的制度基础，也是其将自身研究产品与贷款条件深度绑定的权力重构节点。"
 type: concept
 domain: "comparative-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Epistemology]]"
   - "[[Epistemic Governance]]"
+  - "[[Discourse]]"
   - "[[Research Utilization]]"
   - "[[Paradigm]]"
   - "[[Value Neutrality]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Knowledge Bank
@@ -78,7 +79,7 @@ updated: 2026-10-05
 > 知识银行转型的本质是[[World Bank\|世界银行]]对政策权威来源的重新定义：从"谁出钱谁说了算"的贷款条件性（Conditionality）规制，转向"谁掌握知识谁主导议程"的[[Epistemology\|认识论]]规制（[[Epistemic Governance]]）。通过将教育数据生产、研究发布与政策咨询融为一体，世界银行建立了自指性的知识权威循环，使其政策处方具备了绕过主权政治的科学合法性。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 542–543)]]
 
 > [!citation-card] [[Global Development Network\|GDN]] 的承诺与失落
-> 全球发展网络（GDN）最初旨在打破世界银行总部主导的知识垄断，将[[Knowledge Production\|知识生产]]权力下放至各国研究者；但 GDN 的去中心化承诺最终被"众多集中管理的倡议所遮蔽"——包括教育领域的 [[Systems Approach for Better Education Results\|SABER]] 评估体系。这一历史结果揭示，知识银行转型在话语上宣称知识共享，在实践上仍以总部集中控制为主轴。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
+> 全球发展网络（GDN）最初旨在打破世界银行总部主导的知识垄断，将[[Knowledge Production\|知识生产]]权力下放至各国研究者；但 GDN 的去中心化承诺最终被"众多集中管理的倡议所遮蔽"——包括教育领域的 [[Systems Approach for Better Education Results\|SABER]] 评估体系。这一历史结果揭示，知识银行转型在[[Discourse|话语]]上宣称知识共享，在实践上仍以总部集中控制为主轴。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
 >
 > *Initially meant to strengthen knowledge production at the country level – as opposed to knowledge production in the headquarters – to strengthen the [[Research Utilization\|Use of Research Evidence]] for policy decisions, the Global Development Network lost its great promise and was eclipsed by numerous other centrally administered initiatives (such as SABER in the education sector).*
 
@@ -106,6 +107,6 @@ updated: 2026-10-05
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[World Bank]] | 事实（机构） | 知识银行是世界银行机构演化的核心概念框架，描述其在 1990 年代完成的[[Policy Brokerage\|政策中介]]身份转型。 |
-> | [[Global Development Network]] | 事实（项目） | GDN 是知识银行概念最直接的制度化实验，其兴衰轨迹揭示了知识银行话语与实践之间的落差。 |
+> | [[Global Development Network]] | 事实（项目） | GDN 是知识银行概念最直接的制度化实验，其兴衰轨迹揭示了知识银行[[Discourse\|话语]]与实践之间的落差。 |
 > | [[Warehousing of Good Practices]] | 概念 | 最佳实践仓储是知识银行运营模式中最具特征性的知识打包与传播机制。 |
 > | [[Policy Brokerage]] | 概念 | 知识银行转型是世界银行将自身角色从金融机构重定位为全球[[Policy Brokerage\|政策中介]]的制度基础。 |

@@ -5,7 +5,7 @@ aliases:
 summary: "Diane Stone (2020) 与 Steiner-Khamsi 等倡导的方法论立场，主张超越方法论民族主义与线性层级霸权观，将国家与全球视作相互依存的关系性空间，聚焦全球/国家联结。"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Space of Flows and Space of Places]]"
   - "[[Policy Network]]"
   - "[[Governing by Numbers]]"
+  - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Document]]"
 related_methods:
@@ -53,7 +54,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Methodological Transnationalism
@@ -187,7 +188,7 @@ updated: 2026-09-29
 > > - **国家自主性论** 指出行政官僚对法案的最终签署权表明主权国家仍牢牢掌握政策关卡。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 548)]]
 
 > [!critique] 外部批评
-> - **微观实操界限与物质权力稀释** 批评者指出，过于强调跨尺度关系网络与[[Transfer Space\|转移空间]]的话语[[Transfer Translation Transformation\|转译]]，容易模糊硬性国家财政约束、地缘政治强制与主权安全审查等刚性结构力量对政策流动的决定性封锁作用。
+> - **微观实操界限与物质权力稀释** 批评者指出，过于强调跨尺度关系网络与[[Transfer Space\|转移空间]]的[[Discourse|话语]][[Transfer Translation Transformation\|转译]]，容易模糊硬性国家财政约束、地缘政治强制与主权安全审查等刚性结构力量对政策流动的决定性封锁作用。
 
 > [!warning] 适用局限
 > 该方法论高度适用于高度开放、积极参与跨国治理对话与国际评测的政策体系；对于极度封闭、排斥外部评估或面临严重外部制裁的孤立政权，全球/国家联结的解释力相对有限。

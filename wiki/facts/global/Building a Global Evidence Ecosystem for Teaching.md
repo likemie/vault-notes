@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 30
+fact_related_count: 31
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Policy Mobility]]"
   - "[[Venture Philanthropy]]"
+  - "[[Discourse]]"
   - "[[Knowledge Production]]"
   - "[[Output-Oriented Governance]]"
   - "[[Policy Network]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 # Building a Global Evidence Ecosystem for Teaching
@@ -118,7 +119,7 @@ updated: 2026-09-18
 > > [!axis] 全球科研普惠 vs 跨国资本网络与“[[Policy Mobility\|快速政策]]”的输出通道
 > > 探讨项目作为普惠性科研援助，与其背后全球资源采掘资本洗绿及企业化治理渗透之间的张力。
 > >
-> > - **[[Network Ethnography\|网络民族志]]与唯物主义批判视角（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）** 埃玛·罗威（Emma Rowe）揭示，该项目是典型的“快速政策”（fast policy）与跨国资本纽带载体。必和必拓作为全球铁矿石开采跨国寡头，通过其免税慈善基金会注资英国 [[Education Endowment Foundation\|EEF]]，进而将资金与商业量规跨大西洋、跨太平洋输送至澳大利亚等国；这种运作将华尔街投行、矿业资本与新自由主义[[Venture Philanthropy\|风险慈善]]紧密串联，以“中立科学证据”的崇高话语，合法遮蔽了私营资本对主权国家公共教育[[Knowledge Production\|知识生产]]标准的统摄与渗透（pp. 6, 8）。
+> > - **[[Network Ethnography\|网络民族志]]与唯物主义批判视角（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）** 埃玛·罗威（Emma Rowe）揭示，该项目是典型的“快速政策”（fast policy）与跨国资本纽带载体。必和必拓作为全球铁矿石开采跨国寡头，通过其免税慈善基金会注资英国 [[Education Endowment Foundation\|EEF]]，进而将资金与商业量规跨大西洋、跨太平洋输送至澳大利亚等国；这种运作将华尔街投行、矿业资本与新自由主义[[Venture Philanthropy\|风险慈善]]紧密串联，以“中立科学证据”的崇高[[Discourse|话语]]，合法遮蔽了私营资本对主权国家公共教育[[Knowledge Production\|知识生产]]标准的统摄与渗透（pp. 6, 8）。
 > > - **官方与循证支持者视角** 肯定该项目极大降低了发展中国家与中等收入国家获取国际前沿教学实证的门槛，有效遏制了缺乏证据支持的低效教学商业软件在基层的泛滥。
 ---
 

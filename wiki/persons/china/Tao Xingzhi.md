@@ -9,7 +9,7 @@ summary: "中国教育家，哥伦比亚大学师范学院毕业，杜威在华�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Scientific Attitude]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Quality Education]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Paradigm Wars]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Tao Xingzhi
@@ -63,7 +64,7 @@ updated: 2026-10-03
 > - **代表贡献** 提出[[Scientific Attitude\|科学态度]]三大要素（基于客观事实、实验渐进精神、精细研究）；创办晓庄试验乡村师范；提出“生活即教育、社会即学校、教学做合一”本土化教育理论。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.620–621]]）
 
 > [!citation-card]- 人物定位的关键来源
-> 陶行知不仅是哥大留美网络的核心，更在1980年代充当了杜威思想被重新正名与接入“四个现代化”教育话语的关键中介。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.84–86]]）
+> 陶行知不仅是哥大留美网络的核心，更在1980年代充当了杜威思想被重新正名与接入“四个现代化”教育[[Discourse|话语]]的关键中介。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.84–86]]）
 
 ---
 
@@ -77,7 +78,7 @@ updated: 2026-10-03
 > - **1925** 创办《新教育评论》（*Review of [[New Education Movement\|The New Education]]*），确立[[Scientific Attitude\|科学态度]]原则，取代激进民主政治路线。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, p.620]]）
 > - **1927** 创办南京晓庄试验乡村[[Normal School\|师范学校]]，践行“生活即教育”与乡村重建。
 > - **1946** 逝世于上海。
-> - **1981** 在当代中国学术界被重新评定为“批判性吸收杜威”的典范，为1980年代[[Quality Education\|素质教育]]与科学创新话语奠基。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.84–86]]）
+> - **1981** 在当代中国学术界被重新评定为“批判性吸收杜威”的典范，为1980年代[[Quality Education\|素质教育]]与科学创新[[Discourse|话语]]奠基。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.84–86]]）
 
 ---
 
@@ -119,7 +120,7 @@ updated: 2026-10-03
 > [!influence-path] 影响路径
 > - **理论路径** 开创了中国“生活教育”理论体系与[[Scientific Attitude\|科学态度]]方法论闭环。
 > - **实践路径** 创办晓庄乡村师范，推动民国平民教育与乡村建设运动。
-> - **1980年代话语重构** 1980年代初中国学术界通过“重新评价陶行知批判性吸收[[John Dewey\|杜威]]”间接解封了杜威思想的合法性，并为邓小平四个现代化提供了教育话语支撑。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.84–86]]）
+> - **1980年代[[Discourse|话语]]重构** 1980年代初中国学术界通过“重新评价陶行知批判性吸收[[John Dewey\|杜威]]”间接解封了杜威思想的合法性，并为邓小平四个现代化提供了教育话语支撑。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.84–86]]）
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]] — 详细分析了陶行知《新教育评论》时代推行[[Scientific Attitude\|科学态度]]的[[Paradigm\|范式]]转向。

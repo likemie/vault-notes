@@ -13,7 +13,7 @@ summary: "Harré & Secord 提出的社会行为质性研究方法论，秉持“
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 34
+method_related_count: 35
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Hypothesis]]"
   - "[[Construct]]"
+  - "[[Discourse]]"
   - "[[Operationalization]]"
   - "[[Indexicality]]"
   - "[[Rich and Thick Description]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-22
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # Ethogenic Approach
@@ -144,7 +145,7 @@ updated: 2026-09-26
 > [!feature] 人因取向的五大基本原则（Harré, 1978）
 > - **共时与历时分析的严格区分** 明确区分对特定时刻存在的社会实践与制度结构的剖析（共时分析），与对社会实践被创造、变迁和转化的历史阶段与过程的探究（历时分析）；两种分析均不指向发现自然科学式的普遍规律。
 > - **意义系统的核心地位** 社会互动依赖于行动者在主体间向各种实体赋予意义而展开；人因研究聚焦于意义系统——即社会行动在具体片段中被达成的完整意义序列；相同的身体动作（如眨眼或微笑）在不同社会片段中承载着迥然不同的意义。
-> - **伴随行动的言语即陈述** 伴随行动发生的话语旨在使该行动变得可理解、可接受与可辩护，这便是陈述活动（accounting）；正由于陈述具有社会建构性，研究者方能从中推导出关于陈述的分析性再陈述。
+> - **伴随行动的言语即陈述** 伴随行动发生的[[Discourse|话语]]旨在使该行动变得可理解、可接受与可辩护，这便是陈述活动（accounting）；正由于陈述具有社会建构性，研究者方能从中推导出关于陈述的分析性再陈述。
 > - **语言与传统的构成性作用** 人类倾向于成长为其语言、文化传统、显性规范与默会知识所期待成为的那种主体；因此，深入探究语言与文化传统是透视人类行动秘密的核心通道。
 > - **常识理解优于物理学模型** 人因研究所依托的研究技艺深植于对社会生活世界的常识性洞察；诗人和戏剧家的创作模型——对角色、情节、动机与仪式的把握，远比实验物理学家的机械因果模型更能揭示人类行动的真谛。
 

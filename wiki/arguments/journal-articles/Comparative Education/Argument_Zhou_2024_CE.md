@@ -10,7 +10,7 @@ title: "Argument_Zhou_2024_CE"
 argument_key: "Argument_Zhou_2024_CE"
 argument_display_title: "A fragmentation of Dewey: Dewey in the political and educational reforms of China, 1910s–1920s"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Democratic Education]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Scientific Attitude]]"
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Geometries of Insertion]]"
   - "[[Champ]]"
@@ -89,7 +90,7 @@ citation_aliases:
 > [!exegesis]- 核心概念辨析：什么是杜威思想的碎片化？
 > 本研究中的碎片化既非指接受者的理解能力不足，也非指对原典的有意歪曲或滥用（faithfulness or abuse）。在原始语境中，杜威的哲学是一个高度有机相融的整体：民主政治目标、儿童中心立场、实验主义方法与[[Scientific Attitude\|科学态度]]相互支撑（p.610）。
 > 
-> 然而，当这一复合体系进入一个社会制度根本不同的接受环境时，不同阵营的行动者受自身政治诉求与现实焦虑的驱使，**各自切割出自身所需的概念构件**，并抛弃其余部分。这些被切割出来的碎片在新的政治话语中被赋予了独立且排他的意义，最终使得杜威这一符号在接收国演变为多重面孔的复合体（pp.622–623）。
+> 然而，当这一复合体系进入一个社会制度根本不同的接受环境时，不同阵营的行动者受自身政治诉求与现实焦虑的驱使，**各自切割出自身所需的概念构件**，并抛弃其余部分。这些被切割出来的碎片在新的政治[[Discourse|话语]]中被赋予了独立且排他的意义，最终使得杜威这一符号在接收国演变为多重面孔的复合体（pp.622–623）。
 
 ---
 
@@ -123,7 +124,7 @@ citation_aliases:
 > |----------|------|
 > | **演讲记录样本** | 杜威在华两年间巡回11个省份的讲演记录、口译与笔录整理文本。 |
 > | **期刊与文本数据库** | 瀚文民国书库（Hanwei Database）、CNKI中文期刊全文数据库、馆际互借档案及重印汇编[[Document\|文献]]。 |
-> | **核心人物话语** | [[Jiang Menglin\|蒋梦麟]]、[[Tao Xingzhi\|陶行知]]、[[Hu Shi\|胡适]]、蒋琦、沈颐、赵乃传、查良钊等改革领袖的发表文章与社论（pp.613, 619–620）。 |
+> | **核心人物[[Discourse\|话语]]** | [[Jiang Menglin\|蒋梦麟]]、[[Tao Xingzhi\|陶行知]]、[[Hu Shi\|胡适]]、蒋琦、沈颐、赵乃传、查良钊等改革领袖的发表文章与社论（pp.613, 619–620）。 |
 
 > [!warning] 史料使用说明：讲演记录的二次转译问题
 > 论文使用的杜威讲演材料高度依赖中文口译与笔录整理（如胡适、蒋梦麟等人的现场翻译与后刊文本）。杜威原话在现场即经过了中国知识分子的第一层转译（Translation）。论文虽将这些记录视为杜威原意的代表，但客观上这些文本本身已包含了第一道[[Going Native\|本土化]]的解读与调整。
@@ -175,7 +176,7 @@ citation_aliases:
 ### 步骤二（思想引入）：急于求成的救国心态——拥抱民主理想，忽视渐进方法（1919–1921）
 
 > [!claim] 主张
-> [[John Dewey\|杜威]]访华正值[[New Culture Movement\|新文化运动]]与[[May Fourth Movement\|五四运动]]的激进高潮。在以教育救国的急迫心态下，《新教育》话语精英高度采纳了杜威的[[Democratic Education\|民主教育]]理想与儿童中心，却系统性地将杜威反复强调的渐进[[Pragmatism in China\|实验主义]]方法置于次要地位（pp.614–616）。
+> [[John Dewey\|杜威]]访华正值[[New Culture Movement\|新文化运动]]与[[May Fourth Movement\|五四运动]]的激进高潮。在以教育救国的急迫心态下，《新教育》[[Discourse|话语]]精英高度采纳了杜威的[[Democratic Education\|民主教育]]理想与儿童中心，却系统性地将杜威反复强调的渐进[[Pragmatism in China\|实验主义]]方法置于次要地位（pp.614–616）。
 
 > [!dev-timeline] 杜威思想引入期的历史推进脉络
 > - **1915–1918 — 新教育概念的激进转折**早期泛指西方与日本教育的新教育一词，在五四前夕与新文化运动的民主与科学口号深度绑定，明确转向民主教育与儿童中心立场（p.614）。

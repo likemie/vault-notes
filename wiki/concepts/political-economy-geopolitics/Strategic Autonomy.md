@@ -8,10 +8,10 @@ aliases:
 summary: "国家或区域性政治联盟在国际地缘对抗与全球价值链断链风险下，通过强化本土关键制造产能、多元化供应链供应来源、管控核心技术流失以及减少对外部单一主导力量的非对称依赖，确保自主制定政策与防范外部经济胁迫的战略能力。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/political-economy
   - strategic-autonomy
@@ -19,6 +19,7 @@ tags:
   - industrial-policy
   - trade-policy
 related_concepts:
+  - "[[Discourse]]"
   - "[[Modern Industrial Policy]]"
   - "[[Import Substitution Industrialisation]]"
   - "[[Policy Conditionalities]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Strategic Autonomy
@@ -43,7 +44,7 @@ updated: 2026-10-06
 ## 定义
 
 > [!def] 核心定义
-> **战略自主（Strategic Autonomy / 开放战略自主，Open Strategic Autonomy）**指国家或超国家政治经济联盟在地缘政治危机与全球供应链不确定性加剧的背景下，具备独立设定战略目标、保护关键经济安全命脉并抵御外部经济胁迫的制度化能力。该概念最初源于欧洲防务与外交政策话语，随着新冠疫情冲击、大国经贸摩擦以及关键数字元器件短缺，迅速延伸至经济、科技与产业政策领域。在数字与半导体产业中，战略自主并不等同于退回完全的经济自给自足，而是强调通过识别价值链全阶段的关键依赖，运用[[Modern Industrial Policy|现代产业政策]]培育本土研发与先进制造能力，同时构建多元化国际贸易伙伴网络，以在高度相互依存的全球体系中确立防御性与进攻性兼具的行动自由。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 2–3, 11–12)]]
+> **战略自主（Strategic Autonomy / 开放战略自主，Open Strategic Autonomy）**指国家或超国家政治经济联盟在地缘政治危机与全球供应链不确定性加剧的背景下，具备独立设定战略目标、保护关键经济安全命脉并抵御外部经济胁迫的制度化能力。该概念最初源于欧洲防务与外交政策[[Discourse|话语]]，随着新冠疫情冲击、大国经贸摩擦以及关键数字元器件短缺，迅速延伸至经济、科技与产业政策领域。在数字与半导体产业中，战略自主并不等同于退回完全的经济自给自足，而是强调通过识别价值链全阶段的关键依赖，运用[[Modern Industrial Policy|现代产业政策]]培育本土研发与先进制造能力，同时构建多元化国际贸易伙伴网络，以在高度相互依存的全球体系中确立防御性与进攻性兼具的行动自由。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 2–3, 11–12)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向主权实体在关键生产要素、前沿技术与关键基础设施上免于受制于单一地缘对手或不可控外部冲击的自主决断空间。

@@ -7,7 +7,7 @@ aliases:
 summary: "断裂平衡理论（PET）的核心分析概念，指特定政策议题在公众和政治精英心目中的符号化表征、价值框架与社会建构；它由实证信息、核心价值与情感修辞共同编织而成，决定了政策被认知为中立的专业自治还是急需政府介入的治理危机，是政策企业家瓦解既有政策垄断的关键话语杠杆。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,6 +18,7 @@ tags:
   - policy-image
   - agenda-setting
 related_concepts:
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Policy Entrepreneur]]"
   - "[[Venue Shopping]]"
@@ -57,7 +58,7 @@ updated: 2026-10-07
 > 政策形象（Policy Image，亦称政策意象）是弗兰克·R·鲍姆加特纳（Frank R. Baumgartner）与布赖恩·D·琼斯（Bryan D. Jones）在[[Punctuated Equilibrium Theory|断裂平衡理论]]中提出的核心分析概念。该概念指特定公共政策议题在广大公众、大众传媒以及政治精英心目中的符号化表征、价值框架与综合认知建构。一个政策形象兼具经验实证信息（Empirical Information）与情感规范评价（Emotive/Normative Valences），决定了该议题是被界定为平稳运行且值得信赖的“专业自治领域”，还是被认知为失控破产、亟待外部宏观政治权力强势介入的“治理灾难”。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 政策议题在社会与政治网络中的主导性象征表征与话语叙事结构。
+> - **含义** 政策议题在社会与政治网络中的主导性象征表征与[[Discourse|话语]]叙事结构。
 > - **用途** 解释政策体系为何能长期维持高度稳态（正向形象支撑垄断），以及为何会在短期内爆发颠覆性剧变（负面形象击穿防御引发注意力级联）。
 > - **边界** 政策形象不等于公众对某项政策的孤立民调支持率，而是深度嵌于制度结构内部的话语霸权与问题归因[[Paradigm|范式]]。
 
@@ -97,7 +98,7 @@ updated: 2026-10-07
 
 ### 命题一　积极政策形象是维系既有政策垄断与抵御外部干预的合法性外壳
 
-> [!concept-lens] [[Punctuated Equilibrium Theory|政策垄断]]的话语防御机制
+> [!concept-lens] [[Punctuated Equilibrium Theory|政策垄断]]的[[Discourse|话语]]防御机制
 > 在常规政治时期，封闭的政策铁三角通过输出象征公共利益或专业理性的正向形象，使外部政治家与公众确信现状运行良好，从而将挑战者排除在决策议程之外。
 
 > [!claim] Baumgartner, F. R. & Jones, B. D.
@@ -142,7 +143,7 @@ updated: 2026-10-07
 > > 唯物主义政策分析学者与[[Constructivist Paradigm|建构主义]]学者围绕政策形象的本质展开了辩论。
 > >
 > > - **实证唯物派学者** 认为政策形象的变迁归根结底是由客观物质危机所决定的（如切尔诺贝利核事故或经济长期衰退），修辞包装只是滞后的附属物。
-> > - **断裂平衡与修辞学派学者（Stone, 2012; Baumgartner & Jones, 1993）** 反驳指出，相同的客观数据可以被编织成截然相反的形象故事；危机从来不会自动发声，唯有当[[Policy Entrepreneur|政策企业家]]通过精巧的话语符号对数据进行战略性表征并赋予价值意义时，具有政治杀伤力的政策形象才得以成型。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5)]]
+> > - **断裂平衡与修辞学派学者（Stone, 2012; Baumgartner & Jones, 1993）** 反驳指出，相同的客观数据可以被编织成截然相反的形象故事；危机从来不会自动发声，唯有当[[Policy Entrepreneur|政策企业家]]通过精巧的[[Discourse|话语]]符号对数据进行战略性表征并赋予价值意义时，具有政治杀伤力的政策形象才得以成型。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5)]]
 
 ---
 

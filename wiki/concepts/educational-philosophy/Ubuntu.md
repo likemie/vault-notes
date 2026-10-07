@@ -5,7 +5,7 @@ aliases:
 summary: "强调个体在关系中成其为人的非洲关系性伦理哲学，并在现代技术哲学与教育学中用于重构算法治理、促进共情与化解认识不正义。"
 type: concept
 domain: "educational-philosophy"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Critical Pedagogy]]"
   - "[[Epistemic Agency]]"
+  - "[[Man-Computer Symbiosis]]"
 related_theories:
   - "[[Epistemic Injustice]]"
   - "[[Human Capital Theory]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: medium
 status: active
 created: '2026-05-08'
-updated: 2026-09-28
+updated: 2026-10-07
 ---
 
 # Ubuntu
@@ -169,7 +170,7 @@ updated: 2026-09-28
 > - **传统原初形态 — 南部非洲本土生活世界** 作为班图语系民族世代相传的伦理准则与谚语智慧，强调部落社群内部的守望互助、调解协商与对先祖神灵的敬畏连带。
 > - **1990s — 后种族隔离时期的国家与宪政建构** 伴随南非民主转型与真相与和解委员会（TRC）的运作，德斯蒙德·图图（Desmond Tutu）等学者与领袖将乌班图提升为国家和解与宪政人道主义的核心哲学基础，确立修复性正义（Restorative Justice）原则。
 > - **2020s 初 — 全球[[Posthumanism|后人类主义]]教育哲学对话** [[Argument_Amos_2022_Springer|Amos (2022)]] 等学者挖掘乌班图的关系[[Ontology|本体论]]资源，与西方后人类主义理论形成跨文化共振，用于反思新自由主义教育改革对竞争个体的异化塑造。（p. 64）
-> - **2023 至今 — 算法伦理与教育认识正义跨界应用** 面对医疗大数据与大语言模型的认知冲击，Pozzi (2023)、Ferlito & De Proost (2023) 与 [[Argument_Smith_2026_SPE|Smith (2026)]] 将乌班图转化为抵御自动化认知压迫的实践原则，在人机协同中捍卫人类主体的求知发展权。（pp. 9–10）
+> - **2023 至今 — 算法伦理与教育认识正义跨界应用** 面对医疗大数据与大语言模型的认知冲击，Pozzi (2023)、Ferlito & De Proost (2023) 与 [[Argument_Smith_2026_SPE|Smith (2026)]] 将乌班图转化为抵御自动化认知压迫的实践原则，在[[Man-Computer Symbiosis|人机协同]]中捍卫人类主体的求知发展权。（pp. 9–10）
 
 ---
 

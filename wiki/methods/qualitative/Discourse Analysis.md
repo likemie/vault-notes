@@ -5,12 +5,13 @@ summary: "以日常谈话和文本中的语言使用为研究对象的方法，�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 32
+method_related_count: 37
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags: [method/qualitative, data-analysis, theme/language, paradigm/interpretive, paradigm/critical]
 related_concepts:
+  - "[[Discourse]]"
   - "[[Unit of Analysis]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
@@ -18,8 +19,9 @@ related_concepts:
   - "[[Analytical Stance]]"
   - "[[Research Question]]"
   - "[[Causality]]"
-  - "[[Ideal Speech Situation]]"
+  - "[[Double Hermeneutic]]"
   - "[[Reliability]]"
+  - "[[Ideal Speech Situation]]"
   - "[[Scientific Explanation]]"
   - "[[Epistemological Vigilance]]"
   - "[[Epistemic Practices]]"
@@ -31,16 +33,19 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Ideology Critique]]"
+  - "[[Conversation Analysis]]"
+  - "[[Narrative Analysis]]"
+  - "[[Autobiographical Analysis]]"
   - "[[Accounts]]"
   - "[[Ethogenic Approach]]"
   - "[[Correlational Research]]"
   - "[[Structured Observation]]"
-  - "[[Narrative Analysis]]"
   - "[[Multimodal Discourse Analysis]]"
 related_persons:
   - "[[Jürgen Habermas]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
   - "[[Argument_Duncan_2025_CI]]"
   - "[[Argument_Grey_2018_CE]]"
@@ -51,14 +56,14 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 # Discourse Analysis
 
 ## 定义
 
 > [!def] 方法定义
-> 话语分析（discourse analysis）探索日常谈话和日常解释的组织，以及其中执行的**社会行动**。话语可被视为在组织上和内容上具有连贯性的语言材料集合，使人们能够在社会情境中建构意义（Coyle, 1995, p. 245）。对意义建构的强调表明了话语分析的**行动视角**——语言不只是描述世界，而是在做事情：传递信息、说服、指责、谴责、鼓励等。
+> [[Discourse|话语]]分析（discourse analysis）探索日常谈话和日常解释的组织，以及其中执行的**社会行动**。话语可被视为在组织上和内容上具有连贯性的语言材料集合，使人们能够在社会情境中建构意义（Coyle, 1995, p. 245）。对意义建构的强调表明了话语分析的**行动视角**——语言不只是描述世界，而是在做事情：传递信息、说服、指责、谴责、鼓励等。
 
 > [!method-scope] 方法范围
 > - **研究对象** 日常谈话、课堂对话、文本材料、访谈[[Transcription in Qualitative Research\|转录]]——即作为情境化的话语实践的语言（Edwards, 1991）。
@@ -74,7 +79,7 @@ updated: 2026-09-22
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 知识由语言在社会情境中建构，语言不只是透明的意义载体，其本身就是社会实在的构成部分。话语分析的文本本身也是可被分析的话语。
+> - **知识观** 知识由语言在社会情境中建构，语言不只是透明的意义载体，其本身就是社会实在的构成部分。[[Discourse|话语]]分析的文本本身也是可被分析的话语。
 > - **研究者角色** 研究者需要仔细阅读和解释文本材料，解释必须由语言证据支持；需要高度敏感于语言的细微差别（Coyle, 1995, p. 247）；需要保持[[Reflexivity\|反身性]]，因为研究者自身的话语也在建构"发现"。
 > - **有效性标准** 通过寻求替代解释和话语中的变异程度来排除竞争性解释；语言证据必须直接支持解释；反身性对自身的[[Analytical Stance\|分析立场]]进行审视。
 > - **不声称回答的问题** 不声称从话语中直接推断参与者的内在心理状态；不声称产生超越该话语情境的普遍概括。
@@ -86,6 +91,19 @@ updated: 2026-09-22
 > - **辅助技术** [[Transcription in Qualitative Research\|转录]]、反身性记录、[[Ideology Critique\|意识形态批判]]（[[Critical Theory\|批判理论]]传统）
 
 ## 研究程序
+
+### 完整文本的情境化分析
+
+分段[[Coding in Qualitative Research|编码]]之外，完整会话、叙事与自传可以保留先后顺序和经验的连贯性。此进路以语言细节与社会情境相互核对，允许同一文本承载多个[[Discourse|话语]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.5)]]
+
+> [!proc] 从完整文本到有依据的解释
+> 1. **保留整体** 说明文本形成的情境和受众，会话以行号保留时序，叙事与自传保持事件联系。
+> 2. **选择视角** 分别考察情境对语言的影响、语言互动、表达模式和语言与社会结构的联系。
+> 3. **核对细节** 查看回合、评价、话题转换、词汇、语气、隐喻、代词及被省略的声音。
+> 4. **联系情境** 将解释置于课堂规则、机构生活或职业经历中，说明语言证据如何支持判断。
+> 5. **比较读法** 保留替代解释，审视文本选择与研究者投射，不把丰富语言的说服力当作唯一正确性的证明。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.5)]]
+
+不同材料要求不同分析动作，详见 [[Conversation Analysis|会话分析]]（Conversation Analysis）、[[Narrative Analysis|叙事分析]]（Narrative Analysis）与 [[Autobiographical Analysis|自传分析]]（Autobiographical Analysis）。这些示范保留完整文本的主张，不意味着所有话语分析都排斥编码。
 
 ### 质性方法模块
 
@@ -108,14 +126,19 @@ updated: 2026-09-22
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 研究课堂互动中的语言使用和权力关系；分析政策文本和教育话语的建构方式；理解儿童如何通过语言参与[[Knowledge Building Theory|知识建构]]（Edwards & Mercer, 1987）；揭示话语中系统性扭曲沟通的压制性力量（Habermas）。
+> - **适合使用** 研究课堂互动中的语言使用和权力关系；分析政策文本和教育[[Discourse|话语]]的建构方式；理解儿童如何通过语言参与[[Knowledge Building Theory|知识建构]]（Edwards & Mercer, 1987）；揭示话语中系统性扭曲沟通的压制性力量（Habermas）。
 > - **谨慎使用** 当需要大样本统计概括时；当[[Research Question\|研究问题]]更适合通过实验或调查回答时；当研究者的话语立场可能过度影响解释时。
 > - **不适合使用** 需要标准化测量和[[Causality\|因果推断]]的研究；将语言仅视为信息传递工具的研究。
 
 ## 局限性
 
+### 连续诠释与披露的限度
+
+文字[[Transcription in Qualitative Research|转录]]只能保存可转录的选择，不能完整反映现场活动。参与者理解、转录、分析、报告与读者阅读共同构成多层诠释，见 [[Double Hermeneutic|双重诠释]]（Double Hermeneutic）。承认自身偏见不会自动阻止选择性阅读，[[Reflexivity|反身性]]披露不足以独自保证[[Reliability|信度]]与效度。课堂权力解释还须与善意教学和群体秩序维护的解释比较。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.2)]]
+
+
 > [!method-limits] 方法局限
-> - **偏误来源** 缺乏系统性（Coyle, 1995, p. 256）；过度强调语言建构而忽视现象独立性；研究者的话语立场可能影响分析结果。
+> - **偏误来源** 缺乏系统性（Coyle, 1995, p. 256）；过度强调语言建构而忽视现象独立性；研究者的[[Discourse|话语]]立场可能影响分析结果。
 > - **适用边界** 不能从话语分析直接推断参与者的内在认知状态或心理过程；分析结果的情境嵌入性限制了可转移性。
 > - **误用风险** 将话语分析本身物化——忘记话语分析也是一个可被分析的话语（Ashmore, 1989）；忽视话语的物质条件和制度约束。
 > - **补救方式** 高度的[[Reflexivity\|反身性]]；寻求替代解释和变异检验；将话语分析与制度和物质条件分析结合。
@@ -133,8 +156,11 @@ updated: 2026-09-22
 
 ## 使用此方法的研究
 
+- [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|Cohen et al. (2011, Ch. 31)]] 通过课堂会话、Goffman 的机构生活叙事和虚构教师自传示范完整文本的多层解释，区分可核对细节与竞争性读法。
+
+
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|Cohen et al. (2011, Ch. 22, pp. 385–402)]] — 系统介绍话语分析的定义、与[[Jürgen Habermas\|哈贝马斯]][[Critical Theory\|批判理论]]的关联、Edwards的课堂话语分析案例，以及方法批评
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|Cohen et al. (2011, Ch. 22, pp. 385–402)]] — 系统介绍[[Discourse|话语]]分析的定义、与[[Jürgen Habermas\|哈贝马斯]][[Critical Theory\|批判理论]]的关联、Edwards的课堂话语分析案例，以及方法批评
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al. (2011, Ch. 23, pp. 403–420)]] — 将话语分析列为[[Structured Observation\|结构化观察]]数据的分析方法之一，用于课堂对话问答序列和互动模式分析（23.4 节）
 > - [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] — 运用话语分析法深入解析七年级科学课堂上围绕北极狐与三文鱼种群观察证据的口头论辩对话序列，揭示学生如何通过多轮师生与生生互动敏锐反思观察过程的[[Reliability\|可靠性]]条件。
 > - [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] — 运用话语分析与[[Narrative Analysis\|叙事分析]]技术对比 [[OECD]] 官方文本、英国教育大臣议会声明与大众媒体报道，揭示政客如何利用遗漏话语与危机修辞扭曲国际评估事实以服务本土改革议程。

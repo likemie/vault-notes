@@ -5,7 +5,7 @@ aliases:
 summary: "把教育目的与价值判断置于证据选择之前的教育取向，强调先回答想培养什么样的人与社会，再讨论什么做法有效"
 type: concept
 domain: "educational-philosophy"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Critical Thinking]]"
+  - "[[Hidden Curriculum]]"
   - "[[Academic Achievement]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Epistemology]]"
@@ -34,7 +35,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-07
+updated: 2026-10-07
 ---
 
 ## 定义
@@ -60,7 +61,7 @@ updated: 2026-09-07
 > > 例：有强证据表明高强度应试训练能提高标准化测试成绩。但如果教育者认为[[Critical Thinking\|批判性思维]]比测试分数更重要，他们可以选择放弃该手段——证据告知了一条路径，但价值决定了是否走这条路。
 > 2. **手段-目的的内在联系** 教育中的手段不是中立的——使用某种教学方式不仅达成目的，还教给学生关于该方式本身的东西（如使用惩罚教会"暴力是合法手段"）。
 >
-> > Carr (1992, p. 249) 的例子：使用惩罚手段达成课堂秩序的目的，同时教给学生"以力量实现意志是允许的"——手段本身成为一个隐性课程，传递了关于权力和控制的价值。([[Argument_Biesta_2010_SPE\|Biesta, 2010, pp. 500–501]])
+> > Carr (1992, p. 249) 的例子：使用惩罚手段达成课堂秩序的目的，同时教给学生"以力量实现意志是允许的"——手段本身成为一个[[Hidden Curriculum|隐性课程]]，传递了关于权力和控制的价值。([[Argument_Biesta_2010_SPE\|Biesta, 2010, pp. 500–501]])
 > 3. **构成性** 价值不是教育的"元素"之一，而是**构成教育实践本身的条件**——没有价值取向就没有教育实践。
 >
 > > 例：一个声称自己在"教学"但无法回答"教这个是为了什么"的老师，实际上可能只是在执行技术性程序（如训练学生填对[[Multiple-Choice Questions\|选择题]]）。Biesta 的论证是：程序没有目的就不构成教育——它可能构成操控、训练或灌输，但不是教育。

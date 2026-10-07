@@ -8,7 +8,7 @@ summary: "美国著名教育经济学家、高级外交官与国际教育规划�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Educational Multilateralism]]"
   - "[[Paradigm]]"
   - "[[Policy Brokerage]]"
+  - "[[Discourse]]"
   - "[[Technology Deficit of Education]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Philip H. Coombs
@@ -103,7 +104,7 @@ updated: 2026-09-29
 
 > [!influence-path] 影响路径
 > - **制度化路径** 亲手缔造[[International Institute for Educational Planning\|联合国教科文组织国际教育规划研究所]]（IIEP），开创了联合国体系以跨国培训、指标规划与数据建模向第三世界输出规划技术的治理样板。
-> - **话语[[Paradigm\|范式]]路径** 确立了以“危机叙事”动员财政资源、重塑公众预期并为跨国专家干预提供合法性辩护的话语模型，直接启发了后来的《国家处在危险之中》及[[OECD\|经合组织]]跨国指标体系。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> - **[[Discourse|话语]][[Paradigm\|范式]]路径** 确立了以“危机叙事”动员财政资源、重塑公众预期并为跨国专家干预提供合法性辩护的话语模型，直接启发了后来的《国家处在危险之中》及[[OECD\|经合组织]]跨国指标体系。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - **政策转移路径** 促成了美国国内教育规划技术与多边国际组织的无缝咬合，为冷战时期西方大国主导全球南方教育发展合作提供了关键思想弹药。
 
 ---
@@ -143,7 +144,7 @@ updated: 2026-09-29
 > |:-----|:-----|:-----|
 > | [[Policy Brokerage]] | 概念 | 通过世界教育危机大会奠定跨国政策中介与多边干预的合法性基石。 |
 > | [[Technology Deficit of Education]] | 概念 | 将教育系统投入产出的内在滞后失衡界定为危机动因，强化跨国规划需求。 |
-> | [[A Nation at Risk 1983]] | 政策 | 其倡导的危机动员话语直接启发了 1980 年代美国国内及跨国指标危机报告。 |
+> | [[A Nation at Risk 1983]] | 政策 | 其倡导的危机动员[[Discourse\|话语]]直接启发了 1980 年代美国国内及跨国指标危机报告。 |
 > | [[International Institute for Educational Planning]] | 组织 | 参与创建并担任首任所长，奠定战后[[International Education\|国际教育]]规划专业化标准。 |
 
 ---

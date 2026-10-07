@@ -7,7 +7,7 @@ aliases:
 summary: "北欧福利国家制度的核心支柱，以民主、团结、社会公平和人人平等为原则，致力于通过公共均等化基础教育促进社会整合"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[Global Education Industry]]"
   - "[[Global Education Reform Movement]]"
+  - "[[Discourse]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Transfer Translation Transformation]]"
   - "[[New Public Management]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-22'
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Nordic Model of Education
@@ -77,7 +78,7 @@ updated: 2026-09-17
 > - **团结与社会包容** 视学校为促进社会成员相互理解、建立集体责任感和情感共鸣的合作共同体，强调协作解决问题而非个体间竞争（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 8, 10]]）。
 > - **教师专业信任** 历史上面临较少的外部监督。北欧（特别是芬兰）体制传统上赋予教师高度的教学法决策权，依赖教师的社会责任感而非外部问责数据（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 8]]）。
 > - **与 [[PISA]] 公平框架的天然契合** 北欧模式强调的[[Education for All\|全民教育]]（Education for All）和包容原则与 [[PISA]] 的公平框架高度一致。挪威案例中，这一文化背景因素使得该国无需对 PISA 结果做出激烈的政策调整——北欧模式本身已涵盖了 PISA 倡导的公平与包容目标（Baird et al., 2016，引自 [[Argument_Li_2025_HSSC\|Li et al., 2025]]）。
-> - **文化与语言的韧性抵抗** 北欧模式对 [[Global Education Reform Movement\|GERM]] 的某些要素具有文化-语言层面的免疫力。挪威语中缺乏 accountability 一词，加之国家对学校和市政自治的传统支持，使基于测试的强力问责制在北欧语境中难以获得话语合法性。
+> - **文化与语言的韧性抵抗** 北欧模式对 [[Global Education Reform Movement\|GERM]] 的某些要素具有文化-语言层面的免疫力。挪威语中缺乏 accountability 一词，加之国家对学校和市政自治的传统支持，使基于测试的强力问责制在北欧语境中难以获得[[Discourse|话语]]合法性。
 
 ---
 
@@ -87,7 +88,7 @@ updated: 2026-09-17
 
 ### 命题类型一：全球化对本土模式的冲击（Global Hegemony & Local Erosion）
 
-> [!concept-lens] 软治理对国家话语的扭转
+> [!concept-lens] 软治理对国家[[Discourse|话语]]的扭转
 > 这一命题群关注国际经济组织如何利用量化治理侵蚀并重塑北欧各国的教育主权与核心价值。
 
 > [!claim] <Schaffar, B., & Wolff, L.-A.>
@@ -102,7 +103,7 @@ updated: 2026-09-17
 
 > [!dev-timeline] 概念演变
 > - **1920s–1970s — 奠基与黄金时期** 北欧各国相继推行基础学校（Comprehensive School）改革，统一替代传统的分流精英学校，确立了融合平等与团结的“北欧教育模式”基石（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 8]]）。
-> - **1990s — 萧条下的改革变局** 苏联解体和经济萧条促使北欧（如芬兰）引入[[New Public Management\|新公共管理]]改革，废除教材审查等传统控制，但在理念上开始积极倒向 [[OECD]] 等组织的全球软治理与市场话语。
+> - **1990s — 萧条下的改革变局** 苏联解体和经济萧条促使北欧（如芬兰）引入[[New Public Management\|新公共管理]]改革，废除教材审查等传统控制，但在理念上开始积极倒向 [[OECD]] 等组织的全球软治理与市场[[Discourse|话语]]。
 > - **2000s 至今 — [[PISA]] 冲击与新自由主义重构** PISA 夺冠将芬兰捧为全球效仿的模型，但同时也使北欧模式处于持续变革以防止“落后”的竞争性高压中，标准化测量和技能原子化导致该模式的民主与人道主义核心理念面临持续消解风险（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 8–10]]）。
 
 ---

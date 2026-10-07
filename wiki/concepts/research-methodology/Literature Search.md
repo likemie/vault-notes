@@ -4,7 +4,7 @@ aliases: ["文献检索", "文献搜索", "literature retrieval", "searching for
 summary: "研究过程中系统检索、筛选和评估文献的操作性步骤，包括检索策略、网络操作符、数据库选择、信息类型识别、文献优先级排序与质量评估及网站评估。"
 type: concept
 domain: "research-methodology"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Construct]]"
   - "[[Variable]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Hypothesis]]"
 related_theories: []
 related_methods:
@@ -435,7 +436,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 
 ### 命题三　智能科研范式下 AI 代理检索重塑学术分工并驱动人类聚焦高阶战略综合
 
-> [!concept-lens] 人机共生学术分工与高阶认知聚焦
+> [!concept-lens] [[Man-Computer Symbiosis|人机共生]]学术分工与高阶认知聚焦
 > 剖析大模型与智能代理深度介入文献检索后，研究者如何从繁重的微观信息搬运中解脱，转向宏观科学方向把控与跨学科综合。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
@@ -479,7 +480,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > > 争论研究者应当坚守人工逐篇阅读与关键词精确布尔筛选，还是依托大模型代理进行全自动文献综合。
 > >
 > > - **传统方法规范派** 强调人工亲身精读文献是培养学术品味、洞察隐性方法[[Hypothesis|假设]]与体会作者论证手感的不可替代过程；AI 检索容易产生幻觉假引用并忽略非结构化默会知识。
-> > - **AI 增强与人机协同派（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）** 论证面对全球每年数百万篇海量论文爆发，传统人工检索已达认知极限；唯有利用智能代理执行全景式文献挖掘与机器验证，人类学者才能在高阶理论层面维系跨学科视野。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 70–72)]]
+> > - **AI 增强与[[Man-Computer Symbiosis|人机协同]]派（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）** 论证面对全球每年数百万篇海量论文爆发，传统人工检索已达认知极限；唯有利用智能代理执行全景式文献挖掘与机器验证，人类学者才能在高阶理论层面维系跨学科视野。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 70–72)]]
 
 > [!feature] 质量评估标准
 > - **文献质量评估标准** 期刊文章应优先选择有严格同行评审委员会的国家级评审期刊；在线期刊应核实是否有已发布的同行评审标准与编辑委员会；书籍应选择学术声誉良好且运营成熟的专业出版社；优先参考近 10 年内的最新研究；网络文献需审慎评估其是否代表严谨和系统的学术研究（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。

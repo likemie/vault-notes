@@ -5,7 +5,7 @@ aliases:
 summary: "两次世界大战期间国际联盟知识合作组织推动的概念，指世界各国人民中间一种比民族主义心态更适合国际合作的普遍心态。在理性主义国际关系传统下，该概念通过跨国教科书去偏见化和客观学校知识构建，成为二战后UNESCO和欧洲比较教育学会（CESE）推进科学治理与和平承诺的认知基础。"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -15,6 +15,7 @@ tags:
   - subject/comparative-education
   - region/global
 related_concepts:
+  - "[[Discourse]]"
   - "[[Hypothesis]]"
   - "[[Revolutionism]]"
   - "[[Global Citizenship]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # International Mind
@@ -52,7 +53,7 @@ updated: 2026-10-05
 
 > [!concept-lens] 概念透镜
 > - **指向关系** 它代表了一种超越本国中心主义（ethnocentrism）的心理认知状态，强调在承认民族国家主权的前提下，通过消除教科书偏见和增进学者跨国流动，形塑具有包容性和客观性的国际主义主体意识。
-> - **学术用途** 在比较教育学科史上，它被用作证成跨国教科书审查、学术合作网络以及多边教育咨询中立性与合理性的核心话语，将比较教育塑造为促进人类和平改良的理性科学工具。
+> - **学术用途** 在比较教育学科史上，它被用作证成跨国教科书审查、学术合作网络以及多边教育咨询中立性与合理性的核心[[Discourse|话语]]，将比较教育塑造为促进人类和平改良的理性科学工具。
 > - **边界条件** 它依赖于多边契约和理性科学治理的自由主义[[Hypothesis\|假设]]，通常假定跨国对话能够消解根本性的地缘利益对立，因而在面对激烈的地缘权力争夺（现实主义）或深层不平等结构（[[Revolutionism\|革命主义]]）时解释力有限。
 
 > [!citation-card]- 关键表述
@@ -102,7 +103,7 @@ updated: 2026-10-05
 ### 命题一　学校知识的主体间客观化是重构“国际心智”、消解民族国家地缘冲突的根本通路
 
 > [!concept-lens] 知识去政治化路径
-> 这一维度的命题探讨了如何通过比较方法和多边审查，将学校中传授的冲突历史“客观化”，使之脱离狂热的民族主义动员话语。
+> 这一维度的命题探讨了如何通过比较方法和多边审查，将学校中传授的冲突历史“客观化”，使之脱离狂热的民族主义动员[[Discourse|话语]]。
 
 > [!claim] 齐默恩的论点（1930年代）
 > **教科书去偏见化是消除冲突认知根源的前提** 认为学校知识如果充斥着对邻国的刻板印象与歪曲，将持续制造敌意；必须通过超国家组织的比较审查建构客观的中立历史叙事，方能构建适合合作的多边心态。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 424]])
@@ -139,7 +140,7 @@ updated: 2026-10-05
 
 > [!dev-timeline] 概念演变
 > - **1920s–1930s — 起源与早期教科书互审运动** 国际联盟知识合作组织（ICIC/IIIC）成立，副主任 Zimmern 正式界定“国际心智”。北欧协会及美洲国家国际会议开展跨国历史教科书审查，确立“消除遗漏与刻板印象”以建构客观知识的实践模式。
-> - **1940s–1970s — [[UNESCO]]建制化与大学学科网络确立** 联合国教科文组织（UNESCO）继承该遗产，首位比较教育教授 [[Joseph Lauwerys]] 将其列为学科三大价值之首。伦敦大学IOE比较教育学系与[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE，1961年）相继成立，将“国际理解”全面固化为专业建制话语。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 424]])
+> - **1940s–1970s — [[UNESCO]]建制化与大学学科网络确立** 联合国教科文组织（UNESCO）继承该遗产，首位比较教育教授 [[Joseph Lauwerys]] 将其列为学科三大价值之首。伦敦大学IOE比较教育学系与[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE，1961年）相继成立，将“国际理解”全面固化为专业建制[[Discourse|话语]]。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 424]])
 > - **1990s 至今 — [[Lifelong Learning\|终身学习]]与[[Global Citizenship\|全球公民]]教育（GCED）的融合** “国际心智”的内核与 UNESCO 的终身学习与全球公民教育倡议融合，继续作为理性主义话语框架，在逆全球化与地缘紧张局势中发挥跨国人文主义沟通的作用。
 
 ---

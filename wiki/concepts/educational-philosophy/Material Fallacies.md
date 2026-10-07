@@ -5,7 +5,7 @@ aliases:
 summary: "逻辑学中因误解术语含义、适用范围或使用方式而产生的推理错误，用于分析政策和研究话语中的证据误用现象。"
 type: concept
 domain: "educational-philosophy"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -14,6 +14,7 @@ tags:
 - evidence-based-education
 - research-methodology
 related_concepts:
+  - "[[Discourse]]"
   - "[[Document]]"
   - "[[Class Size]]"
   - "[[Evidence-Based Education]]"
@@ -29,7 +30,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-06'
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 ## 定义
@@ -39,12 +40,12 @@ updated: 2026-09-18
 >
 > [[Argument_ONeill_2012_NZJES\|O'Neill (2012)]] 将实质谬误概念引入教育政策[[Discourse Analysis\|话语分析]]，用以审查教育研究证据在政策建议中被误用的现象。
 >
-> > "Just as in practical logic, public policy discourse becomes problematic when the terms used are ambiguous, unclear or vague."（ONeill, 2012, p.153）
+> > "Just as in practical logic, public policy [[Discourse]] becomes problematic when the terms used are ambiguous, unclear or vague."（ONeill, 2012, p.153）
 
 ## 核心要素
 
 > [!abstract] 口号化
-> Kreeft 指出，当一个表达"被用来基于对词汇的熟悉度而非理性来产生不经思考的膝跳反射式赞同或反对"时，该表达即成为口号（Kreeft, 2010, p.78）。在教育政策话语中，"优质教学"（Quality Teaching, Alton-Lee, 2003）和"教学质量"（Quality of Teaching, Hattie, 2009a）等术语虽然在最初源自对研究[[Document\|文献]]的理性分析，但已日益在新西兰的学术和公共政策话语中被当作口号使用（ONeill, 2012, p.155）
+> Kreeft 指出，当一个表达"被用来基于对词汇的熟悉度而非理性来产生不经思考的膝跳反射式赞同或反对"时，该表达即成为口号（Kreeft, 2010, p.78）。在教育政策[[Discourse|话语]]中，"优质教学"（Quality Teaching, Alton-Lee, 2003）和"教学质量"（Quality of Teaching, Hattie, 2009a）等术语虽然在最初源自对研究[[Document\|文献]]的理性分析，但已日益在新西兰的学术和公共政策话语中被当作口号使用（ONeill, 2012, p.155）
 
 
 > [!abstract] 代理概念
@@ -71,5 +72,5 @@ updated: 2026-09-18
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 仅分析政策建议文本的缺陷（术语不清、证据不完整、论证无效）在方法论上有限——要充分理解教育政策的运作，还需关注政策行动者的主体定位、制度利益和话语权力关系（ONeill, 2012, p.159）
+> - 仅分析政策建议文本的缺陷（术语不清、证据不完整、论证无效）在方法论上有限——要充分理解教育政策的运作，还需关注政策行动者的主体定位、制度利益和[[Discourse|话语]]权力关系（ONeill, 2012, p.159）
 

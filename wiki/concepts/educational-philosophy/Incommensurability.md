@@ -8,7 +8,7 @@ aliases:
 summary: "库恩范式理论的核心认识论构念，指不同科学范式之间缺乏中立公认的共同原则、标准或衡量尺度，因而无法在同一逻辑评价体系下直接比较优劣"
 type: concept
 domain: "educational-philosophy"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Voluntarism]]"
   - "[[Research Question]]"
   - "[[Knowledge Production]]"
+  - "[[Discourse]]"
   - "[[Document]]"
   - "[[Variable]]"
   - "[[Scientific Method]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Incommensurability
@@ -208,7 +209,7 @@ updated: 2026-09-22
 
 > [!debates] 学术争议与反思
 >
-> > [!axis] 不可[[Commensuration\|通约]]性是客观存在的[[Epistemology\|认识论]]断层，还是人为建构的话语壁垒
+> > [!axis] 不可[[Commensuration\|通约]]性是客观存在的[[Epistemology\|认识论]]断层，还是人为建构的[[Discourse|话语]]壁垒
 > > 争论焦点在于：量化与质性真的在[[Ontology\|本体论]]上无法沟通，还是被学者出于学术部落主义和身份政治而人为放大的夸大之词？
 > >
 > > - **[[Paradigm\|范式]]纯粹主义立场（Smith & Heshusius, 1986）** 坚称量化实证的客观唯实论与质性诠释的建构论在逻辑上水火不容，任何试图调和二者的尝试都是浅薄的认识论自相矛盾。

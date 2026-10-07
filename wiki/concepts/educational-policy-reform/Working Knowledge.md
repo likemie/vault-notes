@@ -8,7 +8,7 @@ aliases:
 summary: "决策者与管理者在工作情境中自发且常规调用的结构化知识体系，包含信念、假定、实践经验及社会科学知识，在新证据进入时发挥认知过滤与调适中介功能"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Output-Oriented Governance]]"
   - "[[School Inspection]]"
+  - "[[Discourse]]"
   - "[[Hypothesis]]"
   - "[[Document]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
@@ -45,7 +46,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 # Working Knowledge
@@ -89,7 +90,7 @@ updated: 2026-09-18
 > [!feature] 核心要素
 > - **前置信念与假定（Pre-existing Beliefs and Assumptions）** 行动者关于教育规律、学生能力分布与学校运作的常识性信念，构成理解新数据的底层参照系。
 > - **制度实践经验（Experiential Professional Knowledge）** 官员或管理者在长期从事教育教学、[[School Inspection\|学校督导]]或科层行政中积累的本土情境经验与组织惯例。
-> - **内化的社会科学知识（Internalized Social Science Knowledge）** 经由学术研讨、政策简报或日常自学吸收，融入日常话语框架的专业概念与因果推论模型。
+> - **内化的社会科学知识（Internalized Social Science Knowledge）** 经由学术研讨、政策简报或日常自学吸收，融入日常[[Discourse|话语]]框架的专业概念与因果推论模型。
 > - **拆解与降维机制（Dissembling Mechanism）** 管理者面对高度复杂的量化统计模型时，自发展开降维分解，提取易于理解的局部信息以契合决策需求。
 > - **简化与释义重构（Simplifying and Sensemaking Recombination）** 将拆解后的局部数据片段与行政人员的本土经验、常识假定及当前施政优先事项重新拼装，赋予其行动层面的实践意义。
 > - **认知过滤透镜（Cognitive Filters）** 运作知识作为前置透镜，优先吸收与既有实践框架相容的改革进路，阻滞或排斥反直觉的复杂统计推断。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 485–486)]]

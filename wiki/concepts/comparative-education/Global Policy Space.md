@@ -6,7 +6,7 @@ aliases:
 summary: "Beech 基于 Castells 网络社会理论提出的概念，指全球教育场场域中多元行动者通过跨国网络协作与竞争、生产并倡导教育政策方案的空间，其话语兼具稳定性与可塑性且抽离于地方历史经验"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Performativity]]"
   - "[[Methodological Nationalism]]"
+  - "[[Discourse]]"
   - "[[Unit of Analysis]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Floating Signifier]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Global Policy Space
@@ -55,7 +56,7 @@ updated: 2026-10-02
 
 > [!concept-lens] 概念透镜
 > - **指向机制** 指向超越地理疆界的流动空间节点网络，其运行逻辑由[[Performativity\|操演性]]（以绩效和影响力范围为导向）与项目制协作主导。
-> - **学术用途** 解放传统的“[[Methodological Nationalism\|方法论民族主义]]”视角，使研究者能透视全球政策话语脱嵌于地方经验而生产、流通的权力机制。
+> - **学术用途** 解放传统的“[[Methodological Nationalism\|方法论民族主义]]”视角，使研究者能透视全球政策[[Discourse|话语]]脱嵌于地方经验而生产、流通的权力机制。
 > - **适用边界** 并非用于描述国家间的外交或双边关系，而是描述跨国多中心网络所构成的非对称权力场域。
 
 > [!citation-card]- 关键表述
@@ -101,7 +102,7 @@ updated: 2026-10-02
 
 ## 运行机制与话语特征
 
-全球政策空间的网络属性与[[Performativity|操演性]]运作，系统性地决定了在其中被生产和流传的话语具有以下三大核心运行特征：
+全球政策空间的网络属性与[[Performativity|操演性]]运作，系统性地决定了在其中被生产和流传的[[Discourse|话语]]具有以下三大核心运行特征：
 
 > [!feature] 全球教育政策话语的运行特征
 > - **稳定性与可塑性（Stability & Malleability）** 整合不同利益和文化背景的需要决定了话语的二元结构：既有核心品牌的稳定性以维持其全球权威，又有极强的可塑性允许各方自行填空。([[Argument_Beech_2009_CE\|Beech, 2009, p. 353]])
@@ -122,5 +123,5 @@ updated: 2026-10-02
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Beech_2009_CE\|Beech (2009)]] — 提出全球政策空间概念，深入追踪了在其中被生产的“能力发展”和“尊重多样性”两条话语线索，揭示其在拉丁美洲落地的多级[[Transfer Translation Transformation\|转译]]与实践变形。
+> - [[Argument_Beech_2009_CE\|Beech (2009)]] — 提出全球政策空间概念，深入追踪了在其中被生产的“能力发展”和“尊重多样性”两条[[Discourse|话语]]线索，揭示其在拉丁美洲落地的多级[[Transfer Translation Transformation\|转译]]与实践变形。
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 探讨全球测量网络（如 [[PISA]]）作为主导节点对全球政策空间的[[Performativity\|操演性]]宰制，批判了由此导致的比较教育量化技术化。

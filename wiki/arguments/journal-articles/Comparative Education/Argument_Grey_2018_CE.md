@@ -24,6 +24,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Mediatised Governance]]"
   - "[[Rashomon Effect]]"
+  - "[[Discourse]]"
   - "[[Media Logic]]"
   - "[[Policy Avoidance]]"
   - "[[Performance Pay]]"
@@ -72,7 +73,7 @@ title: "Argument_Grey_2018_CE"
 argument_key: "Argument_Grey_2018_CE"
 argument_display_title: "PISA: multiple ‘truths’ and mediatised global governance"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -92,7 +93,7 @@ issuing_organization: ""
 > 过去三十年中，[[International Large-Scale Assessments\|国际大规模学生评估]]（International Large-Scale Assessments, ILSAs）对各国国内教育政策制定产生了深远影响，尤其是由[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）主持的[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, [[PISA]]）常被学界描述为催生全球教育治理机制与推动各国政策趋向标准化新自由主义模式的核心驱动力。既往[[Document\|文献]]广泛探讨了 PISA 对宏观政策文本的冲击，却极少深入探究评估数据在主权国家内部究竟如何通过关键行动者向公众呈现与[[Transfer Translation Transformation\|转译]]。本文以英格兰应对 2012 年 PISA 结果（2013 年 12 月发布）为个案，系统探究三大关键行动者——[[OECD]] 官方机构、本土政治行动者（以时任教育大臣 [[Michael Gove]] 为代表）以及大众新闻媒体（严肃大报、通俗小报、商业期刊与广播电视）——如何分别阐释同一批数据，重点剖析媒体自身的生产逻辑如何深度介入政策议程，催生出一种框定公共辩论维度的[[Mediatised Governance\|媒介化治理]]。（pp. 109–111）
 
 > [!claim] 核心主张
-> PISA 数据的发布在主权国家内部展现出深刻的[[Rashomon Effect\|罗生门效应]]，实证数据沦为具有极高可塑性的话语资源；英格兰政客通过系统性的遗漏话语与负面危机修辞制造出教育全面停滞与衰退的虚假神话，以此为其既定的私有化与严苛问责改革正名；大众媒体则依循追求冲突、归责与耸动标题的[[Media Logic\|媒介逻辑]]放大危机，同时对具体政策方案与政客对国际数据的歪曲采取[[Policy Avoidance\|政策规避]]，消解了第四权力的民主问责职能；最终，政治迫切性与媒介逻辑深度交织，共同促成了限制政策讨论维度的[[Mediatised Governance\|媒介化治理]]（mediatised governance），表明全球教育治理并非表现为超国家机构自上而下的政策趋同，而是被本土媒介生态与国内政治诉求深度重塑。（pp. 110–112, 125–127）
+> PISA 数据的发布在主权国家内部展现出深刻的[[Rashomon Effect\|罗生门效应]]，实证数据沦为具有极高可塑性的[[Discourse|话语]]资源；英格兰政客通过系统性的遗漏话语与负面危机修辞制造出教育全面停滞与衰退的虚假神话，以此为其既定的私有化与严苛问责改革正名；大众媒体则依循追求冲突、归责与耸动标题的[[Media Logic\|媒介逻辑]]放大危机，同时对具体政策方案与政客对国际数据的歪曲采取[[Policy Avoidance\|政策规避]]，消解了第四权力的民主问责职能；最终，政治迫切性与媒介逻辑深度交织，共同促成了限制政策讨论维度的[[Mediatised Governance\|媒介化治理]]（mediatised governance），表明全球教育治理并非表现为超国家机构自上而下的政策趋同，而是被本土媒介生态与国内政治诉求深度重塑。（pp. 110–112, 125–127）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2013 年 12 月 3 日 PISA 2012 结果发布当天及紧随周期内，英国议会官方陈述记录、OECD 官方出版物与演示文稿、英国主流报刊与广播电视报道。
@@ -112,7 +113,7 @@ issuing_organization: ""
 > | **媒介资本（整合入 [[Media Logic\|媒介逻辑]]）** | 依托 Davis & Seymour (2010) 的概念，区分制度性媒介资本（内阁大臣职权）与个性化媒介资本（前记者的言辞魅力与人脉），解释政治人物如何精准利用媒体规律引导公众议程。（pp. 113, 125） |
 
 > [!warrant]- 理论如何支撑论证
-> 这一理论框架使分析超越了单纯核对“数据真伪”或揭示政客“话语偏差”的表层事实核查，推进至剖析话语权力运作与媒介制度互动的深层解释维度。通过引入罗生门效应，研究将 [[OECD]] 报告、议会声明与新闻报道置于平等的叙事文本地位；进而借助[[Media Logic\|媒介逻辑]]与[[Mediatised Governance\|媒介化治理]]，揭示出政客并非孤立地发表政治谎言，而是精准利用媒体对坏消息、冲突与耸动标题的嗜好（新闻价值），以极具冲击力的简短警句向媒体提供传播素材；媒体则在追逐耸动排列表的同时主动回避了对政策细节与[[Chain of Evidence\|证据链]]条的审视（即[[Policy Avoidance\|政策规避]]），二者的共振促成了超越个别政党意图的制度性治理形态。（pp. 111–114, 124–126）
+> 这一理论框架使分析超越了单纯核对“数据真伪”或揭示政客“[[Discourse|话语]]偏差”的表层事实核查，推进至剖析话语权力运作与媒介制度互动的深层解释维度。通过引入罗生门效应，研究将 [[OECD]] 报告、议会声明与新闻报道置于平等的叙事文本地位；进而借助[[Media Logic\|媒介逻辑]]与[[Mediatised Governance\|媒介化治理]]，揭示出政客并非孤立地发表政治谎言，而是精准利用媒体对坏消息、冲突与耸动标题的嗜好（新闻价值），以极具冲击力的简短警句向媒体提供传播素材；媒体则在追逐耸动排列表的同时主动回避了对政策细节与[[Chain of Evidence\|证据链]]条的审视（即[[Policy Avoidance\|政策规避]]），二者的共振促成了超越个别政党意图的制度性治理形态。（pp. 111–114, 124–126）
 
 ---
 
@@ -121,7 +122,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **话语与叙事分析**<br>[[Discourse Analysis]] & [[Narrative Analysis]] | 综合运用定性话语分析与叙事分析技术，系统审查文本中的隐喻、对比修辞、主观定性词汇以及被策略性剔除的遗漏话语，重构叙事中责任归属与危机建构的修辞路径。（p. 114） |
+> | **话语与叙事分析**<br>[[Discourse Analysis]] & [[Narrative Analysis]] | 综合运用定性话语分析与叙事分析技术，系统审查文本中的隐喻、对比修辞、主观定性词汇以及被策略性剔除的遗漏[[Discourse\|话语]]，重构叙事中责任归属与危机建构的修辞路径。（p. 114） |
 > | **历时材料追踪** | 严格按照解读公开的时间顺序推进分析：从 2013 年 12 月 3 日上午 [[OECD]] 伦敦发布会材料，到当天下午教育大臣向下议院的口头陈述，再到当日及紧随周期内英国主流媒体的即时报道。（pp. 114–115） |
 > | **跨主体多维对比** | 将 OECD 提出的教育系统改革五大维度（学生包容、课程教学、教师质量、工作组织、问责制度），逐项与教育大臣推行的政策五大支柱以及媒体报道的核心关注点进行跨维度对照。（pp. 115–124） |
 
@@ -165,7 +166,7 @@ issuing_organization: ""
 ### 论证步骤一　英格兰实证成绩历时平稳无降，国际机构双轨发布模式为多重事实建构留下阐释缝隙
 
 > [!claim] 步骤一核心主张
-> [[OECD]] 官方数据明确显示英格兰在 [[PISA]] 中的[[Academic Achievement\|学业表现]]历时长期平稳，并未发生任何客观的绩效衰退；然而，OECD 自身在传播策略上采取了技术中立的国别简报与高度价值倡导的全球报告双轨分流模式，为后续政治力量的偏颇解读留下了话语缝隙。（pp. 114–116）
+> [[OECD]] 官方数据明确显示英格兰在 [[PISA]] 中的[[Academic Achievement\|学业表现]]历时长期平稳，并未发生任何客观的绩效衰退；然而，OECD 自身在传播策略上采取了技术中立的国别简报与高度价值倡导的全球报告双轨分流模式，为后续政治力量的偏颇解读留下了[[Discourse|话语]]缝隙。（pp. 114–116）
 
 #### 1. 客观表现平稳与 PISA 灾难神话的实证破除
 
@@ -327,7 +328,7 @@ issuing_organization: ""
 
 > [!finding-cards] 核心研究发现
 > 1. **国际评估数据的[[Rashomon Effect\|罗生门效应]]** 英格兰 [[PISA]] 2012 数据的发布与解读展现出深刻的主观真实建构分歧：客观数据显示英格兰[[Academic Achievement\|学业成绩]]自 2006 年起平稳无降，但在政客与媒体的修辞再造下，被一致物化为一场前所未有的国家教育衰退危机。（pp. 114–116, 125）
-> 2. **政治精英系统性的遗漏话语** 英国教育大臣 [[Michael Gove]] 在议会声明中策略性过滤掉了 [[OECD]] 关于分轨分流破坏公平、[[Rote Learning\|死记硬背]]属于旧官僚系统、[[Performance Pay\|绩效工资]]无效的核心结论，借 PISA 强行推销背道而驰的改革五大支柱。（pp. 117–120）
+> 2. **政治精英系统性的遗漏[[Discourse|话语]]** 英国教育大臣 [[Michael Gove]] 在议会声明中策略性过滤掉了 [[OECD]] 关于分轨分流破坏公平、[[Rote Learning\|死记硬背]]属于旧官僚系统、[[Performance Pay\|绩效工资]]无效的核心结论，借 PISA 强行推销背道而驰的改革五大支柱。（pp. 117–120）
 > 3. **大众媒体的[[Policy Avoidance\|政策规避]]与第四权力退化** 英国各派媒体受自身[[Media Logic\|媒介逻辑]]支配，全盘接受并极化危机叙事，但在对待政府具体政策方案时采取集体性的[[Policy Avoidance\|政策规避]]，未对其证据基础进行任何批判审视，消解了民主监督职能。（pp. 121–125）
 > 4. **提出批判性的[[Mediatised Governance\|媒介化治理]]分析视角** 研究[[Falsification\|证伪]]了超国家组织能够直接通过跨国评估强制推行政策同质化收敛的简单[[Hypothesis\|假设]]，论证了在媒体高度自主的民主国家中，本土政治修辞与媒介逻辑的共谋构成了媒介化治理，为批判教育政策如何逃避民主问责提供了关键分析工具。（pp. 125–127）
 
@@ -342,7 +343,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card] 评估数据的[[Rashomon Effect\|罗生门效应]]与主观真实
-> 我们认为，[[PISA]] 数据的发布遭遇了一种被称为“罗生门效应”的变体……单一事件（在本文中为一组数据的出版）充满争议与歧义，并因具有不同动机的个体或群体而被赋予多重阐释。这种对真实主观性与事实准确性不确定性的强调……挑战了强调“基于 PISA 的政策制定”具有客观、理性与科学性质的主导话语。（pp. 111–112）
+> 我们认为，[[PISA]] 数据的发布遭遇了一种被称为“罗生门效应”的变体……单一事件（在本文中为一组数据的出版）充满争议与歧义，并因具有不同动机的个体或群体而被赋予多重阐释。这种对真实主观性与事实准确性不确定性的强调……挑战了强调“基于 PISA 的政策制定”具有客观、理性与科学性质的主导[[Discourse|话语]]。（pp. 111–112）
 >
 > *We argue that the release of the PISA data was subject to a variation of what has become known as the ‘Rashomon effect’... whereby a single event, in this case, the publication of a body of data, is contested, ambiguous and subject to multiple interpretations by individuals or groups with different motivations. This emphasis on the subjectivity of truth and the uncertainty of factual accuracy... challenges the prevailing discourse, which stresses the objective, rational and scientific nature of ‘PISA based policy-making’.*
 
@@ -361,7 +362,7 @@ issuing_organization: ""
 ## 自述局限
 
 > [!warning]
-> - **量化覆盖不足** 未系统量化媒体报道的全部发稿频次、版面面积及广播电视播出总时长，分析偏重于深度质性话语与叙事结构剖析。（p. 114）
+> - **量化覆盖不足** 未系统量化媒体报道的全部发稿频次、版面面积及广播电视播出总时长，分析偏重于深度质性[[Discourse|话语]]与叙事结构剖析。（p. 114）
 > - **未纳入社交媒体分析** 经验资料局限于主流全国性报刊与专业广播电视，未考察社交网络平台（如 Twitter）上普通受众的民间再解读与互动传播。
 > - **不展开对 [[OECD]] 政策有效性的外部学理批判** 研究重点聚焦于比较不同本土行动者对相同报告信息的阐释差异，未对 OECD 自身倡导的政策建议在教育学上的合理性展开外在系统论证。
 > - **未分析商业咨询机构的衍生话语** 未全面追踪跨国咨询公司（如麦肯锡）及教育学术智库在后期对 2012 年 [[PISA]] 数据的二次解读与游说过程。

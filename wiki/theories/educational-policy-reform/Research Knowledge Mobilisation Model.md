@@ -8,7 +8,7 @@ aliases:
 summary: "由 Ben Levin 提出的经典教育知识动员系统理论模型，将研究流动表征为生产、使用与中介三大功能情境的动态重叠与双向反馈，提出五阶段研究利用阶梯与机制-障壁诊断比率，并深嵌于宏观社会背景之中"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 26
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Heterogeneity]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Discourse]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Research Knowledge Mobilisation Model
@@ -112,7 +113,7 @@ updated: 2026-09-22
 > - **推导** ① 模型以不同粗细的双向箭头表征关系强度；② 缺乏制度支持与信任的双向渠道极为脆弱（细箭头）；③ 唯有通过宏观政策倡导与中介机制维系高频互动（粗箭头），研究证据才能持续渗透进政策与教学决断。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 40–41)]]
 
 > [!proposition-chain] 核心命题三｜促成机制与阻碍障壁的相对比例构成全系统知识动员运作优先级的敏感诊断器
-> - **前提一（系统优先事项的运作性表征）** Levin (2011) 与 [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a, p. 106)]] 强调，评估一个教育系统是否真正将研究动员置于核心战略地位，不能仅凭文本话语与政策口号，而应审视其在动员网络各功能界面中实际配置的促成机制与遭遇的现实障壁比例。
+> - **前提一（系统优先事项的运作性表征）** Levin (2011) 与 [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a, p. 106)]] 强调，评估一个教育系统是否真正将研究动员置于核心战略地位，不能仅凭文本[[Discourse|话语]]与政策口号，而应审视其在动员网络各功能界面中实际配置的促成机制与遭遇的现实障壁比例。
 > - **前提二（机制与障壁比率的诊断灵敏度）** 当某一功能情境或交互界面中促成机制的密度与多样性显著超越阻碍障壁时，表明该领域享有高度运作优先级与资源承诺；反之，若阻碍障壁丛生而机制匮乏（例如教学实践端面临高达 76% 的工时短缺障壁，但仅有 32% 的系统建立了教师需求映射机制），则暴露了系统在转化链条上的结构性瘫痪。
 > - **推导** ① 生产、使用与中介各界面的“机制—障壁比”构成了全系统知识动员运作优先级的敏感指示器；② 系统治理干预不仅在于盲目增加单点促成机制，更在于通过制度统筹破除高壁垒功能界面中的不对称阻滞。
 

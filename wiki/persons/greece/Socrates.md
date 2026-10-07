@@ -6,7 +6,7 @@ summary: "古希腊哲学家，西方批判性思维与省察生活的最高人�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Empiricism]]"
   - "[[Critical Thinking Disposition]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Automation Bias]]"
   - "[[Academic Freedom]]"
   - "[[Paradigm]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Socrates
@@ -151,7 +152,7 @@ updated: 2026-10-01
 
 > [!influence-path] 影响路径
 > - **理论路径** 奠定了西方[[Virtue Epistemology|德性认识论]]与理性反思传统，开启了人类思想史上持续两千五百年的先天论心智与[[Empiricism|经验论]]（[[Empiricism]]）世纪大论战[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 27–29)]]；塑造了西方对[[Critical Thinking Disposition|批判性思维倾向]]的至高推崇。
-> - **方法路径** 开创了非讲授型的[[Socratic Dialogue|苏格拉底式对话]]教学法；在哈佛大学法学院案例教学法、当代科学探究物理教学（Physics by Inquiry）以及人机协同抗[[Automation Bias|自动化偏差]]的“反思机器（Reflection Machines）”中被广泛采用。
+> - **方法路径** 开创了非讲授型的[[Socratic Dialogue|苏格拉底式对话]]教学法；在哈佛大学法学院案例教学法、当代科学探究物理教学（Physics by Inquiry）以及[[Man-Computer Symbiosis|人机协同]]抗[[Automation Bias|自动化偏差]]的“反思机器（Reflection Machines）”中被广泛采用。
 > - **政策路径** 苏格拉底宁死不放弃哲学探究与公开批评的殉道行为，成为西方现代[[Academic Freedom|学术自由]]、思想不受政治裁判以及公民良知抵抗的制度化伦理源泉[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 32–33)]]。
 > - **跨国／跨领域传播** 在中西比较视域下，苏格拉底与[[Confucius|孔子]]构成了人类古代轴心文明互为镜像的至圣先师[[Argument_Li_2012_Cambridge|(Li, 2012, p. 164 脚注 2)]]；在当代人工智能教育技术中，纳伊姆通过解构其几何诱导的收敛预设缺陷，推动了智能导师从苏格拉底式向心理治疗式交互[[Paradigm|范式]]的现代转型[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 280–281)]]。
 

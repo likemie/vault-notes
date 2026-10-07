@@ -10,7 +10,7 @@ aliases:
 summary: "人工智能伦理学、人机协同与规范技术哲学核心构念，指在自动化与智能系统辅助决策全流程中，人类保持对系统因果链的主动追踪与价值响应能力，主导分歧仲裁与道德裁决权，防止人在回路退化为形式化橡皮图章。"
 type: concept
 domain: "educational-technology"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -23,6 +23,7 @@ tags:
   - theme/human-agency
 related_concepts:
   - "[[Generative Artificial Intelligence]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Tracking]]"
   - "[[Construct]]"
   - "[[Trust Calibration]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Meaningful Human Control
@@ -74,7 +75,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 有意义的人类控制（Meaningful Human Control, MHC）源自人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）伦理学、自主系统治理与人机协同理论（Santoni de Sio & van den Hoven, 2018），指在人工智能与自动化决策支持系统深度介入的复杂任务或高风险决策中，**人类行动者绝非充当被动签字或机械确认的形式化外壳，而是保持对系统推理因果链的认知理解与主动追踪能力，主导关键证据权衡与分歧仲裁，并在出现异常、偏误或价值冲突时具备实质性的干预、否决与伦理问责权**。[[Argument_Jansen_2026_EPR|(Jansen et al., 2026, pp. 6, 20, 24)]]; [[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 17–20)]]
+> 有意义的人类控制（Meaningful Human Control, MHC）源自人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）伦理学、自主系统治理与[[Man-Computer Symbiosis|人机协同]]理论（Santoni de Sio & van den Hoven, 2018），指在人工智能与自动化决策支持系统深度介入的复杂任务或高风险决策中，**人类行动者绝非充当被动签字或机械确认的形式化外壳，而是保持对系统推理因果链的认知理解与主动追踪能力，主导关键证据权衡与分歧仲裁，并在出现异常、偏误或价值冲突时具备实质性的干预、否决与伦理问责权**。[[Argument_Jansen_2026_EPR|(Jansen et al., 2026, pp. 6, 20, 24)]]; [[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 17–20)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 确立人类在人机协同决策中的实质性规范主导权，要求同时满足因果与规范层面的“追踪条件（[[Tracking]] Condition）”以及自主干预层面的“响应条件（Responsiveness Condition）”。

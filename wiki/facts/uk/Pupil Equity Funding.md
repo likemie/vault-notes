@@ -10,7 +10,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[Research Utilization]]"
+  - "[[Discourse]]"
   - "[[School Leadership]]"
   - "[[Gatekeepers]]"
   - "[[Phronesis]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 # Pupil Equity Funding
@@ -82,7 +83,7 @@ updated: 2026-09-18
 ## 时间线
 
 > [!timeline] 政策推进时间线
-> - 2015 [[OECD\|经合组织]]发布《改进苏格兰的学校》评估报告，推动苏格兰政策话语转向循证改进。
+> - 2015 [[OECD\|经合组织]]发布《改进苏格兰的学校》评估报告，推动苏格兰政策[[Discourse|话语]]转向循证改进。
 > - 2017 苏格兰政府正式设立学童公平资助（PEF），并联合 [[Education Endowment Foundation\|EEF]] 推出苏格兰版[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]。
 > - 2022 苏格兰政府发布《国家改进框架》与缪尔报告，持续调整治理结构。
 > - 2023 苏格兰政府公布《学校研究计划（2023–2026）》并宣布筹建卓越教学中心。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 3)]]

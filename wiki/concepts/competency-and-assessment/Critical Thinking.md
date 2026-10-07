@@ -6,7 +6,7 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 104
+related_count: 105
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Self-Regulated Learning]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Scientific Explanation]]"
   - "[[Epistemological Vigilance]]"
   - "[[Learning Gain]]"
@@ -128,7 +129,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-09-23
+updated: 2026-10-07
 ---
 
 # Critical Thinking
@@ -297,7 +298,7 @@ updated: 2026-09-23
 > **AI 错误引发的批判反思契机与思维提升** 基于实验与准实验的一阶[[Meta-analysis\|元分析]]证实，生成式 AI 对学生批判性思维具有显著促进作用（$g = 0.691$）。研究揭示出独特的促学机制：在合理的教学引导下（如人机对抗辩论），生成式 AI 偶尔出现的事实错误与算法幻觉非但没有成为学习阻碍，反而成了一个绝佳的反思训练场景；正因为 AI 会犯错，促使学生不敢再盲从它的回答，而是主动查阅[[Primary and Secondary Documents\|一手文献]]核实证据、寻找逻辑漏洞并展开质疑。但这种批判性思维的提升高度依赖学生的[[Self-Regulated Learning\|自主调节学习]]能力，缺乏自律和反思习惯的学生更容易被虚假信息误导。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 10–13, 15–16)]]
 
 > [!claim] Han & Gutierez
-> **人机协同[[Scientific Explanation|科学解释]]中的[[Epistemological Vigilance|认识论警觉]]与批判性审验机制** 在高中生利用生成式 AI 协同建构科学解释的实证研究中，批判性思维具体体现为多维度的“[[Epistemological Vigilance\|认识论警觉]]”（Epistemic Vigilance）行为。研究表明，学生面对 AI 生成的科学主张时，仅凭直觉或表面流畅性难以自发激活深度批判；唯有在双轨脚手架（显性概念支架与批判性审验提示）的支持下，学生才能主动实施源头追溯、跨数据源[[Triangulation|三角互证]]以及对抗性逻辑质询，从而从盲目信任或全盘否定的极端立场，转向兼顾合理采纳与严谨纠错的审慎评估。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 11–13)]]
+> **[[Man-Computer Symbiosis|人机协同]][[Scientific Explanation|科学解释]]中的[[Epistemological Vigilance|认识论警觉]]与批判性审验机制** 在高中生利用生成式 AI 协同建构科学解释的实证研究中，批判性思维具体体现为多维度的“[[Epistemological Vigilance\|认识论警觉]]”（Epistemic Vigilance）行为。研究表明，学生面对 AI 生成的科学主张时，仅凭直觉或表面流畅性难以自发激活深度批判；唯有在双轨脚手架（显性概念支架与批判性审验提示）的支持下，学生才能主动实施源头追溯、跨数据源[[Triangulation|三角互证]]以及对抗性逻辑质询，从而从盲目信任或全盘否定的极端立场，转向兼顾合理采纳与严谨纠错的审慎评估。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 11–13)]]
 
 ### 命题总览
 
@@ -430,14 +431,14 @@ updated: 2026-09-23
 > | EUA Trends (2018) 调查，引自同上 | $N = 303$ 所全欧大学（覆盖 43 国） | 宏观院校调查 | 预期学习成果与考核方式改革 | 76% 大学为所有课程设定预期成果，88% 大学据此调整了考核方式，但 66% 在考核对齐中遭遇制度阻碍 | — | 欧洲高等教育区大范围普查，揭示批判性思维教学与考核对齐的制度惯性 |
 > | [[CRITHINKEDU Project\|CRITHINKEDU]] (Dominguez, 2018)，引自同上 | $N = 53$ 名欧洲 9 国大学教师 | 深度[[Qualitative Interview\|质性访谈]] | 日常课程中批判性思维显性测评工具使用率 | 47 / 53 名任课教师在日常教学考核中完全没有使用任何特定工具或显性量规 | — | 揭示高校微观教学中显性[[Critical Thinking Assessment\|批判性思维测评]]工具与教师评价素养的严重匮乏 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | $N = 67$ 项高等教育实证研究（涵盖 2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合 | ChatGPT 对批判性思维（CT）影响的主题频数分布 | 赋能维度：[[Metacognition\|元认知]]参与（27 项）、论证建构（22 项）、查错核验（19 项）、自我调节（17 项）、学科推理（15 项）；风险维度：过度依赖与心智惰性（21 项）、浅层参与（18 项）、论证退化（14 项）、元[[Cognitive Offloading\|认知卸载]]（12 项） | — | 质性主题证据，揭示[[Generative Artificial Intelligence\|生成式 AI]] 对批判性思维的促进高度依存于反思提示、结构化脚手架与 AI 素养 |
-> | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] | $N = 2$ 个微观典型案例（高中科学课堂） | [[Multimodal Discourse Analysis\|多模态话语分析]]与质性微观发生学追踪 | 人机协同[[Scientific Explanation\|科学解释]]中的[[Epistemological Vigilance\|认识论警觉]]表现与审验层级（自发 vs 支架驱动） | 揭示学生在无支架时易受 AI 流畅性误导，而在双轨支架支持下可开展多源[[Triangulation\|三角互证]]与事实溯源，实现批判性修正与认识论能动性发展 | — | 质性案例证据，深化了人机协同科学解释中批判性审验的微观机制与教学支持路径 |
+> | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] | $N = 2$ 个微观典型案例（高中科学课堂） | [[Multimodal Discourse Analysis\|多模态话语分析]]与质性微观发生学追踪 | 人机协同[[Scientific Explanation\|科学解释]]中的[[Epistemological Vigilance\|认识论警觉]]表现与审验层级（自发 vs 支架驱动） | 揭示学生在无支架时易受 AI 流畅性误导，而在双轨支架支持下可开展多源[[Triangulation\|三角互证]]与事实溯源，实现批判性修正与认识论能动性发展 | — | 质性案例证据，深化了[[Man-Computer Symbiosis\|人机协同]]科学解释中批判性审验的微观机制与教学支持路径 |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - **人机协同[[Scientific Explanation|科学解释]]与[[Epistemological Vigilance|认识论警觉]]** [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] 运用[[Multimodal Discourse Analysis|多模态话语分析]]追踪高中生与 [[Generative Artificial Intelligence|GenAI]] 协同建构科学解释的认知过程，揭示双轨支架对批判性审验与证据[[Triangulation|三角互证]]的激活机制。
+> - **[[Man-Computer Symbiosis|人机协同]][[Scientific Explanation|科学解释]]与[[Epistemological Vigilance|认识论警觉]]** [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] 运用[[Multimodal Discourse Analysis|多模态话语分析]]追踪高中生与 [[Generative Artificial Intelligence|GenAI]] 协同建构科学解释的认知过程，揭示双轨支架对批判性审验与证据[[Triangulation|三角互证]]的激活机制。
 > - **显性教学与学校实施** [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] 以 [[IB Diploma Programme\|IB DP]] 的 ToK 为案例，结合量表、学校案例和毕业生比较，检验显性独立课程及其实施条件。
 > - **课程评估的[[Construct Validity\|构念效度]]** [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] 用多套批判性思维分类框架审查 ToK 目标、评估目标和评分描述符的[[Construct\|构念]]覆盖。
 > - **跨情境迁移与评估困境** [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015)]] 证实了独立探究课程对学生其他学科和未来学业产生的批判性思维“溢出效应”，并揭示了其实操评估的主观性痛点。

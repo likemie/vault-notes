@@ -5,7 +5,7 @@ aliases:
 summary: "Lyotard 区分于科学知识的知识类型，强调通过故事、传统和文化实践传递意义与合法性。"
 type: concept
 domain: "educational-philosophy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,6 +17,7 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Grand Theory]]"
   - "[[Falsification]]"
+  - "[[Discourse]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-10
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Narrative Knowledge
@@ -56,7 +57,7 @@ updated: 2026-09-22
 > [!note]-
 > 叙事知识的概念经历了从 Lyotard 的哲学区分到 Partaken 的 [[Geopolitics of Knowledge\|GPK]] 诊断工具的演变：
 > - **Lyotard (1979) 的原始区分** 在《后现代状况》中，Lyotard 将知识区分为叙事知识（narrative knowledge）与科学知识（scientific knowledge）。叙事知识涵盖传统社会中通过叙事传递的社会规范、价值判断和合法性原则；科学知识则依赖经验验证、可重复性和[[Falsification\|证伪]]逻辑。后现代状况的核心特征是对[[Grand Theory\|元叙事]]（metanarratives）的怀疑——"简化到极致，我将后现代定义为对元叙事的怀疑"（Lyotard, 1979/1984, p.xxiv）([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.71, 74]])
-> - **Lyotard 晚期的发展话语批判** Lyotard（1988/1991）进一步论证"发展"已成为当代主导意识形态——一种"不需要终极目的的准形而上学"，"不依附于类似理性和人类自由解放的理念"，因而是"非人的"（Lyotard, 1988/1991, p.7; 引自 Partaken, 2022, p.84）
+> - **Lyotard 晚期的发展[[Discourse|话语]]批判** Lyotard（1988/1991）进一步论证"发展"已成为当代主导意识形态——一种"不需要终极目的的准形而上学"，"不依附于类似理性和人类自由解放的理念"，因而是"非人的"（Lyotard, 1988/1991, p.7; 引自 Partaken, 2022, p.84）
 > - **Park (2015) 的"[[Epistemology\|认识论]]之战"** 在后现代社会科学中，认识论之争（war of epistemologies）已悄然取代[[Paradigm\|范式]]之争（war of paradigms）——知识理论逐渐等同于科学哲学，叙事知识的生产者"过度关注认识论问题"，反而进一步边缘化了叙事知识的社会相关性([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.74]])
 > - **[[Argument_Partaken_2022_Springer\|Partaken (2022)]] 的 GPK 再诊断** Partaken 将 Lyotard 的诊断置于当代 GPK 语境中重新解释——叙事知识的衰退不是因为后现代对元叙事的哲学怀疑，而是更物质性的原因：在全球化中具有商业价值的科学知识（硬科学、可专利知识）得到了国家和产业的有力赞助和推动。与此同时，不仅元叙事面临怀疑，"各种次要叙事也面临同样的怀疑"。Fanon and Chen 所代表的后殖民 GPK 传统，虽然批判了西方[[Knowledge Production\|知识生产]]的霸权，但其自身作为叙事知识的一部分，也未能逃脱这一衰退趋势([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.74–75]])
 

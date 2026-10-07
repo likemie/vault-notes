@@ -39,6 +39,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Causality]]"
   - "[[Variable]]"
+  - "[[Discourse]]"
   - "[[Champ]]"
 related_theories: []
 related_methods:
@@ -86,7 +87,7 @@ title: "Argument_Eisenhart_Towne_2003_ER"
 argument_key: "Argument_Eisenhart_Towne_2003_ER"
 argument_display_title: "Contestation and change in national policy on \\\"scientifically based\\\" education research"
 argument_kind: "journal-article"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -280,7 +281,7 @@ issuing_organization: ""
 #### 1. 学者消极退回象牙塔只会让政治力量单向定义国家科研标准
 
 > [!attention] 学者群体退出政策对话的潜在风险
-> 如果学者群体因为对政策取向感到不满或厌恶行政管制而退回象牙塔，采取回避、冷眼旁观或全盘否定的态度，最终只会让学术共同体失去对政策规则的话语权，导致政治力量单向封闭科学标准的界定。（pp. 32, 36–37）
+> 如果学者群体因为对政策取向感到不满或厌恶行政管制而退回象牙塔，采取回避、冷眼旁观或全盘否定的态度，最终只会让学术共同体失去对政策规则的[[Discourse|话语]]权，导致政治力量单向封闭科学标准的界定。（pp. 32, 36–37）
 
 #### 2. 跨越方法门户分歧并积极参与政策对话，是维系研究多元生态的生命线
 

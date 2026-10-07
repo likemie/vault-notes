@@ -10,7 +10,7 @@ title: "Argument_Downey_2016_SoE"
 argument_key: "Argument_Downey_2016_SoE"
 argument_display_title: "Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality"
 argument_kind: "journal-article"
-argument_related_count: 10
+argument_related_count: 11
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Tracking]]"
   - "[[Literature Review]]"
   - "[[Counterfactual]]"
+  - "[[Discourse]]"
   - "[[Hypothesis]]"
 related_theories:
   - "[[Refraction Framework]]"
@@ -96,7 +97,7 @@ citation_aliases:
 > 5. **分析系统性盲点的代价(pp.7–11)**
 >    - 对研究：错误估计成就差距的主要来源（差距主要在学校入学前形成）
 >    - 对政策：过度投资学校改革而忽视早期童年和更广泛的社会政策
->    - 对公共话语：强化了"学校是问题"的叙事，削弱了对增加学校暴露时间（如延长学年）的支持
+>    - 对公共[[Discourse|话语]]：强化了"学校是问题"的叙事，削弱了对增加学校暴露时间（如延长学年）的支持
 
 ## 主要发现
 
@@ -105,7 +106,7 @@ citation_aliases:
 > - **加拿大 vs 美国比较的启示** 加拿大 4–5 岁儿童在 PPVT 阅读测试上已领先美国儿童 .31 SD——与 15–16 岁 [[PISA]] 阅读差距（.30 SD）几乎相同——暗示国际考试成绩差距可能在正式学校入学前已基本确定(Merry, 2013, pp.7–8)
 > - **教师／学校有效性的分布可能与社会经济地位弱相关** 当更严格地分离学校效应后，服务于高 SES 和低 SES 儿童的学校在促进学习方面的差异可能很小甚至不存在(Downey, von Hippel & Hughes, 2008, Lauen & Gaddis, 2013, pp.8–9)
 > - **缩小差距需要的不只是平等化学校质量** 如果低 SES 儿童目前享有与高 SES 儿童大致相似的学习环境，那么缩小差距需要的不是将低 SES 学校提升到高 SES 学校水平——而是需要为低 SES 儿童创造**显著优于**高 SES 儿童的学校学习环境(p.9)
-> - **延长学年的政策意义被忽视** 如果学校已是补偿性的，那么延长学年（保持当前学校质量分布不变）将改善美国儿童的认知技能，并最大程度惠及弱势群体——但由于"学校是问题"的叙事主导了公共话语，这一政策选项被忽视(p.10)
+> - **延长学年的政策意义被忽视** 如果学校已是补偿性的，那么延长学年（保持当前学校质量分布不变）将改善美国儿童的认知技能，并最大程度惠及弱势群体——但由于"学校是问题"的叙事主导了公共[[Discourse|话语]]，这一政策选项被忽视(p.10)
 
 ## 关键引用
 

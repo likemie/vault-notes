@@ -7,7 +7,7 @@ title: "Argument_Hill_2022_FacilitatingActors"
 argument_key: "Argument_Hill_2022_FacilitatingActors"
 argument_display_title: "Who is facilitating research use in education systems? In N"
 argument_kind: "book-chapter"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -37,6 +37,7 @@ tags:
 related_concepts:
   - "[[Evidence Ecosystem]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Document]]"
   - "[[Hypothesis]]"
@@ -110,7 +111,7 @@ updated: 2026-09-18
 
 > [!concept-lens] 阅读透镜
 > - **对象** [[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]] 2021 年政策调查（[[Strengthening the Impact of Education Research Policy Survey]]）覆盖的 29 个国家 37 个教育系统教育部，以及针对 6 国开展的跟进[[In-depth Interview\|深度访谈]]。（pp.75–76）
-> - **张力** 口头上提倡多方[[Knowledge Mobilisation\|知识动员]]与系统协同 vs 实证中大学垄断话语、实践组织边缘化、中介机构部委联系断裂与人际交易型互动的结构性鸿沟。（pp.78–87, 92–95）
+> - **张力** 口头上提倡多方[[Knowledge Mobilisation\|知识动员]]与系统协同 vs 实证中大学垄断[[Discourse|话语]]、实践组织边缘化、中介机构部委联系断裂与人际交易型互动的结构性鸿沟。（pp.78–87, 92–95）
 > - **贡献** 首次提供涵盖 17 类组织行动者在生产、政策促成与实践促成三维度的跨国比较基底，实证解构了行动者活跃度与部委联结强度之间的非线性关系，为突破线性传递[[Paradigm\|范式]]提供了详实的中观组织与微观个体实证证据。（pp.76–77, 95–96）
 
 ---
@@ -482,7 +483,7 @@ updated: 2026-09-18
 对图 4-8 中部委自陈态度与人际信任指标的交叉检视，揭示出政学关系内部深藏的心理防线。（pp.92–93）
 
 > [!tension] 循证政策文化的认知反差：理念高度认同 vs 政学信任赤字
-> - **积极的循证自陈理念（蓝方）** 部委官员高度认同研究重要性（均分 4.46）、流程循证预期（4.04）与学习新技能意愿（3.73），政策话语表现出强烈的[[Scientism\|科学主义]]拥护。
+> - **积极的循证自陈理念（蓝方）** 部委官员高度认同研究重要性（均分 4.46）、流程循证预期（4.04）与学习新技能意愿（3.73），政策[[Discourse|话语]]表现出强烈的[[Scientism\|科学主义]]拥护。
 > - **脆弱的人际信任纽带（红方）** 当涉及政学协作实质时，对研究人员的高度信任（3.40）与对研究及其使用的共识水平（3.10）双双垫底，凸显出表面理念一致下的深层价值防备。（pp.92–93）
 
 在制度能力层面，大多数教育系统未能为决策官员提供充足的循证能力支撑。（pp.93–94）

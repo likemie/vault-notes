@@ -7,7 +7,7 @@ title: "Argument_Manitius_vanHolt_2019_BzS"
 argument_key: "Argument_Manitius_vanHolt_2019_BzS"
 argument_display_title: "Transfer als Gegenstand von Programmatik und Forschung. Einige Diskursbeobachtungen"
 argument_kind: "journal-article"
-argument_related_count: 65
+argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Policy Science in Comparative Education]]"
   - "[[Document]]"
   - "[[Knowledge Mediation]]"
+  - "[[Discourse]]"
   - "[[Technical Rationality]]"
   - "[[Variable]]"
   - "[[Recontextualization]]"
@@ -153,7 +154,7 @@ updated: 2026-09-27
 > |---|---|
 > | **政策与法规文本** | [[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]]（Standing Conference of the Ministers of Education and Cultural Affairs, KMK）《国家教育监测总体战略》（KMK, 2015）、《教师教育标准：教育科学》（KMK, 2019）、联邦-州行政协议（Bund-Länder-Vereinbarung, BLV, 2013）教师教育质量攻坚计划、[[Federal Ministry of Education and Research\|联邦教育与研究部]]（Federal Ministry of Education and Research, BMBF）《实证教育研究框架规划》（BMBF, 2017）以及各州立研究所联合立场文件（Bieber et al., 2018）。（pp. 9–10, 12） |
 > | **机构案例与实证项目** | 慕尼黑工业大学[[Clearing House Unterricht\|教学清算中心]]（Clearing House Unterricht, CHU）、各州立研究所联合创建的[[Forschungsmonitor Schule\|学校研究监测平台]]（Forschungsmonitor Schule, FMS）、德国大型模型试验项目（SINUS、SINUS-Transfer、CHiK）。（pp. 10–11） |
-> | **研究材料性质** | 针对德语区转移话语与制度实践开展的综合性学术导论与批判性话语观察（Diskursbeobachtungen）。（pp. 9–13） |
+> | **研究材料性质** | 针对德语区转移[[Discourse\|话语]]与制度实践开展的综合性学术导论与批判性话语观察（Diskursbeobachtungen）。（pp. 9–13） |
 
 ---
 
@@ -380,7 +381,7 @@ updated: 2026-09-27
 ## 自述局限
 
 > [!warning] 原文自述局限与[[Research Scope|研究边界]]
-> - **话语观察的探索性与概览性定位** 作为编著全书的导论性综述，论证侧重于勾勒德语区教育转移的宏观政策话语与实证研究现状，并未开展独立的大[[Sample Size Determination|样本量]]化或深入个案质性调查。（pp. 9, 13）
+> - **[[Discourse|话语]]观察的探索性与概览性定位** 作为编著全书的导论性综述，论证侧重于勾勒德语区教育转移的宏观政策话语与实证研究现状，并未开展独立的大[[Sample Size Determination|样本量]]化或深入个案质性调查。（pp. 9, 13）
 > - **德语区中层中介实体实证数据的不足** 虽然中层机构（各州立研究所与[[School Inspection|学校督导]]）在制度设计中居于枢纽地位，但受制于德语区既有实证研究的严重空白，对中层界面微观运作的论述仍主要依托政策文本与英美实施科学理论的间接观照。（pp. 11–12）
 > - **未直接消解转移研究的既有缺口** 文集各章在反映转移议题多样性的同时，德语区转移研究在理论建构、概念精确化与国际成果吸收上的诸多历史欠账并不会因单一一本文集而彻底消除，仍需学界展开持久的学科自觉与跨界研究。（p. 13）
 

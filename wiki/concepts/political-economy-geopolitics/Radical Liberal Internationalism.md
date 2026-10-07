@@ -6,7 +6,7 @@ aliases:
 summary: "Sakwa 提出的概念，指以自由主义普遍主义和反多元立场为基础、支持干预主义和政权更迭的国际主义取向。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Sovereign Internationalism]]"
   - "[[Classical Geopolitics]]"
   - "[[Interventionist Strategy]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Pluralism]]"
 related_methods: []
@@ -28,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # Radical Liberal Internationalism
@@ -76,7 +77,7 @@ updated: 2026-09-24
 ## 争议与批评
 
 > [!warning]
-> - **[[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]的批评** — 激进自由国际主义将其"基于规则的秩序"呈现为普遍共识，但实际上从未获得全球同意。它是一种伪装成普遍主义的霸权话语([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 14]])
+> - **[[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]]的批评** — 激进自由国际主义将其"基于规则的秩序"呈现为普遍共识，但实际上从未获得全球同意。它是一种伪装成普遍主义的霸权[[Discourse|话语]]([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 14]])
 > - **历史类比** — Marginson 将激进自由国际主义比作 19 世纪英国帝国主义的"文明标准"话语：二者都以自我定义的优越性为由要求主导世界
 > - **对高等教育的含义** — 在激进自由国际主义框架下，"国际化"在很大程度上意味着西方化——英语大学的全球扩张被正当化为普遍规范的传播([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 15–17]])
 

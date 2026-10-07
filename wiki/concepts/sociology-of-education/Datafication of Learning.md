@@ -6,7 +6,7 @@ aliases:
 summary: "指在全球量化治理与新自由主义基于结果的规制驱动下，教育系统将关注焦点从教学转移到学习，并将复杂的育人过程与认知成长还原为可追踪、可量化、跨国可比的数字流、能力指标与数据库资产的认识论与社会技术过程。"
 type: concept
 domain: "sociology-of-education"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Paradigm]]"
   - "[[Unit of Analysis]]"
+  - "[[Discourse]]"
   - "[[Governing by Numbers]]"
   - "[[Cultural Capital]]"
   - "[[Visible Learning]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Datafication of Learning
@@ -106,7 +107,7 @@ updated: 2026-10-03
 ## 核心要素
 
 > [!feature] 核心要素
-> - **从“教”向“学”的话语位移** 新自由主义公共行政通过贬低传统的投入规制（如教师编制、办学历史、师训课程），将注意力压倒性地引向产出端的“学生学到了什么”，为数据化铺平意识形态道路。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
+> - **从“教”向“学”的[[Discourse|话语]]位移** 新自由主义公共行政通过贬低传统的投入规制（如教师编制、办学历史、师训课程），将注意力压倒性地引向产出端的“学生学到了什么”，为数据化铺平意识形态道路。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
 > - **微观认知经验的[[Commensuration\|通约化]]与离散化** 复杂的思维过程、情绪韧性与道德体验被转化为离散的代码与连续性量表，原本不具有可比性的不同文化背景学生被纳入同一标尺。
 > - **[[Governing at a Distance\|远处治理]]与算法化审计** 学习数据化打破了学校围墙的物理边界，使[[UNESCO\|联合国教科文组织]]、[[OECD\|经合组织]]等超国家机构能够直接透过数据流对成员国课堂实施远程规制。
 > - **教育数据的资产化与市场提炼** 学习生成的数据流被国际商业资本（如 Pearson、McKinsey）与慈善基金会捕获，转化为可变现的算法模型、培训软件与咨询服务合同。
@@ -131,7 +132,7 @@ updated: 2026-10-03
 ### 命题一　结果导向的行政规制必须经由从教到学的系统论转译才能演变为学习数据化
 
 > [!concept-lens] 系统论外在化与语篇[[Transfer Translation Transformation\|转译]]
-> 阐释外部公共行政逻辑如何被教育系统内部消化吸收，以及“学习”话语如何充当了数据化的特洛伊木马。
+> 阐释外部公共行政逻辑如何被教育系统内部消化吸收，以及“学习”[[Discourse|话语]]如何充当了数据化的特洛伊木马。
 
 > [!claim] Fenwick, T.
 > **治理知识对教育重心的[[Paradigm\|范式]]重塑** 现代教育监管的核心技术是通过比较与专业知识重构教育；新自由主义结果规制并不能直接生硬地套用在教师身上，它必须将自身包装为“以学生学习为中心”的人文进步话语，从而使全方位的学习监测获得伦理合法性。

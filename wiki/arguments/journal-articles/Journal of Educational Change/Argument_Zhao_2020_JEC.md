@@ -9,7 +9,7 @@ title: "Argument_Zhao_2020_JEC"
 argument_key: "Argument_Zhao_2020_JEC"
 argument_display_title: "Two decades of havoc: A synthesis of criticism against PISA"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Document]]"
   - "[[Lifelong Learning]]"
+  - "[[Discourse]]"
   - "[[International Education]]"
   - "[[Competitiveness]]"
   - "[[Evaluation Research]]"
@@ -88,7 +89,7 @@ citation_aliases:
 
 PISA 的成功是一个绝佳的营销案例。它首先利用了人类对未来的普遍焦虑。父母想知道孩子是否会有好生活，政治家想知道国家是否有人才建设更繁荣的经济，公众想知道年轻人是否会成为成功的社会成员。
 
-PISA 巧妙地利用了这种焦虑，提出了三个问题：年轻人是否准备好迎接未来挑战？他们能否有效分析、推理和沟通？他们是否有[[Lifelong Learning|终身学习]]的能力（[[OECD]] 1999, p.7）？这些话语从 1999 年引入 PISA 的文件开始，几乎在所有 PISA 报告中被重复（Sjøberg 2015b）。
+PISA 巧妙地利用了这种焦虑，提出了三个问题：年轻人是否准备好迎接未来挑战？他们能否有效分析、推理和沟通？他们是否有[[Lifelong Learning|终身学习]]的能力（[[OECD]] 1999, p.7）？这些[[Discourse|话语]]从 1999 年引入 PISA 的文件开始，几乎在所有 PISA 报告中被重复（Sjøberg 2015b）。
 
 > [!info] PISA 的差异化定位
 > 作为[[International Education\|国际教育]]评估，PISA 是后来者。在 PISA 之前，[[IEA\|国际教育成就评价协会]]（IEA）自 1960 年代以来一直在运营国际评估，提供 [[TIMSS]] and [[PIRLS]] 等有影响力的项目。一个后来者要击败建立者，必须提供不同的、更好的东西。PISA 正是这样承诺的。

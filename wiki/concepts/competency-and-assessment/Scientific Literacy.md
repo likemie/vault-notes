@@ -10,7 +10,7 @@ aliases:
 summary: "个体理解科学运作机制、批判性评估多源证据质量、接纳科学知识暂定性与不确定性，并在日常生活和公共审议中做出理性判断的核心公民素养，涵盖科学本质理解、证据辨析、认识论实践、抵御虚假信息与大模型幻觉，以及在公共政策中坚守基于客观实证可复现性与学术卓越的“金标准科学”评价心智。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 66
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -62,6 +62,7 @@ related_concepts:
   - "[[International Large-Scale Assessments]]"
   - "[[Variable]]"
   - "[[Scientific Explanation]]"
+  - "[[Discourse]]"
   - "[[Competitiveness]]"
   - "[[Diversity, Equity, and Inclusion]]"
   - "[[Engineering Education]]"
@@ -276,7 +277,7 @@ updated: 2026-10-07
 >   米勒与奥斯本（Millar & Osborne, 1998）发表里程碑报告，明确提出面向公民的科学素养（Science Literacy for Citizenship），强调理解证据性质、[[Scientific Explanation|科学解释]]模式与社会科技争议评估，彻底颠覆了以大学升学为唯一导向的学科中心主义。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 >
 > - **第三阶段（2006–2018 年）：[[PISA]] 测评标准化与[[Epistemic Practices|认识论实践]]转向**
->   [[OECD|经济合作与发展组织]]（OECD）将科学素养确立为 PISA 核心领域，实现了跨国标准化测量；同时 [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] 等学者推动认识论实践转向，破除教条的[[Scientific Method|科学方法]]神话，确立微观话语协商与跨学科[[Heterogeneity|异质性]]视角。
+>   [[OECD|经济合作与发展组织]]（OECD）将科学素养确立为 PISA 核心领域，实现了跨国标准化测量；同时 [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] 等学者推动认识论实践转向，破除教条的[[Scientific Method|科学方法]]神话，确立微观[[Discourse|话语]]协商与跨学科[[Heterogeneity|异质性]]视角。
 >
 > - **第四阶段（2026 年）：数字智能时代不确定性驾驭与[[Science Capital|科学资本]]深度整合**
 >   英国皇家学会《科学为了社会》报告正式出台五大支柱定义，将科学素养深度嵌入科学资本（Science Capital）第一支柱；同时融入[[Data Literacy|数据素养]]、AI 素养与抵御虚假信息的批判防线，并明确要求将证据分析技能拓展至立法与行政决策层。[[Argument_RoyalSociety_2026_ScienceForSociety|(The Royal Society, 2026, p. 116)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 88)]]
@@ -334,4 +335,4 @@ updated: 2026-10-07
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 系统梳理基于 [[PISA]] 2015 大规模实证数据的科学素养研究，论证了探究教学提升科学素养的关键在于教师支架与活动维度（实验操作 vs 盲目辩论），揭示了探究与[[Direct Instruction|直接教学]]协同促成科学素养生成的“最佳平衡点”。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 提出科学素养官方五大支柱界定，倡导中小学科学教育摆脱应试记忆并转向以证据评估、实践探究与接纳[[Scientific Uncertainty|科学不确定性]]为核心的[[Citizen Science|公民科学]]素养；并在第五章针对国会议员与公务员队伍提出提升 [[STEM Education|STEM]] 研究和数据分析技能的国家行动建议。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫 [[Office of Science and Technology Policy|OSTP]] 报告从国家科研治理维度确立“金标准科学”评价原则，剖析非学术性意识形态筛选对科研评价标准的侵蚀，倡导回归实证可复现性与学术卓越。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 从[[Epistemic Practices|认识论实践]]视阈论证科学素养的民主价值，批判单一线性的[[Scientific Method|科学方法]]教条，提出依托探究科学、[[Engineering Education|工程教育]]与[[Socioscientific Issues|社会科学议题]]的多维规程及显性元话语反思培育公共理性审议能力。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 从[[Epistemic Practices|认识论实践]]视阈论证科学素养的民主价值，批判单一线性的[[Scientific Method|科学方法]]教条，提出依托探究科学、[[Engineering Education|工程教育]]与[[Socioscientific Issues|社会科学议题]]的多维规程及显性元[[Discourse|话语]]反思培育公共理性审议能力。

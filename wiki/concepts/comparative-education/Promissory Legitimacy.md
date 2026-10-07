@@ -7,7 +7,7 @@ aliases:
 summary: "指国际组织在面临教育技术赤字与未来不确定性时，将其治理权威建立在对教育未来的期许与危机规避允诺之上的正当化机制。国际组织将未来危机描绘为当下脆弱现实的逻辑延伸，并向各国政府推销即可采取行动的循证方案以生产确定性。"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,6 +18,7 @@ tags:
   - theme/future-studies
 related_concepts:
   - "[[Policy Brokerage]]"
+  - "[[Discourse]]"
   - "[[Technology Deficit of Education]]"
   - "[[Façade of Rationality]]"
   - "[[Champ]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Promissory Legitimacy
@@ -63,7 +64,7 @@ updated: 2026-09-29
 > **期许性合法性（Promissory Legitimacy）**是指国际组织和[[Policy Brokerage\|政策中介]]机构在缺乏强制行政管辖权与无法在当下实证检验教育因果效益的制度约束下，将其政策建议与规制权力的正当性建立在对“未来的危机叙事与避险允诺”之上的治理机制。由于教育的因果链条（今天的受教育提升个体未来应对不确定性的能力）只能在不可预测的未来进行回溯检验，治理机构通过将未来建构为当下脆弱现实的逻辑延伸，向主权国家推介“即可采取行动的循证研究”（Actionable Research Evidence），允诺只要当下采纳其量化指标与干预工具即可规避未来危机，从而在当下生产出管理不确定性的政治确定性。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向全球治理行动者在面临技术不确定性时，依靠对教育未来的话语建构、危机设想与政策承诺来换取当下政治权威与决策服从的合法化机制。
+> - **含义** 指向全球治理行动者在面临技术不确定性时，依靠对教育未来的[[Discourse|话语]]建构、危机设想与政策承诺来换取当下政治权威与决策服从的合法化机制。
 > - **用途** 帮助研究者看清国际组织（如 [[OECD]]、[[World Bank\|世界银行]]）为何高度热衷于发布面向 2030 年乃至 2050 年的“未来学校”、“未来技能”与危机预警报告，揭示前瞻性循证政策倡导背后的权力再生产逻辑。
 > - **边界** 不适合解释基于历史刚性法律授权（如宪法管辖权）或立竿见影的短期技术干预；容易与基于实际经济产出的“绩效合法性”（Performance Legitimacy）混淆。
 
@@ -193,7 +194,7 @@ updated: 2026-09-29
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 全球 30 个涉足教育的政府间国际组织（IGO） | 历时网络与文本追踪分析 | [[Policy Brokerage\|政策中介]]工具类型与合法性修辞 | 跨国可比数据与未来期许成为所有多边组织标配；非教育专门机构占 1/3（9/30）均采用教育服务于未来使命话语 | — | 定性与历时实证，揭示多边组织普遍依托前瞻性期许建构政策合法性 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 全球 30 个涉足教育的政府间国际组织（IGO） | 历时网络与文本追踪分析 | [[Policy Brokerage\|政策中介]]工具类型与合法性修辞 | 跨国可比数据与未来期许成为所有多边组织标配；非教育专门机构占 1/3（9/30）均采用教育服务于未来使命[[Discourse\|话语]] | — | 定性与历时实证，揭示多边组织普遍依托前瞻性期许建构政策合法性 |
 
 ---
 

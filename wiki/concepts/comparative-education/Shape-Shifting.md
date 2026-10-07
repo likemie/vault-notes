@@ -7,7 +7,7 @@ aliases:
 summary: "教育制度、思想或实践在跨国移动过程中发生的形态变化，强调移动不是忠实复制而是一系列变形，由 Cowen (2009b) 作为比较教育的理论问题提出，并由 Beech (2009) 进一步发展为多层级转译分析"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Growth]]"
   - "[[Time-Space Compression]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Network Society]]"
 related_methods:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Shape-Shifting
@@ -98,7 +99,7 @@ updated: 2026-09-29
 > - **[[Robert Cowen]] 理论倡议**
 >   Robert [[Argument_Cowen_2009_CE\|Cowen (2009b)]] 系统提出形变（Shape-shifting）这一理论关切，批评比较教育学长期沉迷于描述情境或方法论执迷，而忽视了对教育现象流动中形状变化的精细化描述。
 > - **[[Jason Beech]] 的实证层级化**
->   [[Argument_Beech_2009_CE\|Beech (2009)]] 将形变进一步带入[[Network Society\|网络社会]]背景，追踪了全球教育话语（能力与多样性）在拉美落地时的层级形变：国家层面的话语并置杂糅与学校层面的微观形变。
+>   [[Argument_Beech_2009_CE\|Beech (2009)]] 将形变进一步带入[[Network Society\|网络社会]]背景，追踪了全球教育[[Discourse|话语]]（能力与多样性）在拉美落地时的层级形变：国家层面的话语并置杂糅与学校层面的微观形变。
 > - **后续多样化案例的发展**
 >   后期学者（如 Zhou & Westberg, 2024）进一步将形变应用至民国时期[[John Dewey\|杜威]]教育思想的引介分析，展示了教育思想形态在不同政治、意识形态波折下的变形路径。
 
@@ -108,4 +109,4 @@ updated: 2026-09-29
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cowen_2009_CE\|Cowen (2009b)]] — 提出“移动即变形”理论命题，援引战后德国与日本接受同源美式民主化蓝图却演化出截然相反制度形状的学制对比（Shibata, 2005），论证教育流动作为社会学[[Recontextualization\|再脉络化]]必然引发核心配置变形。
-> - [[Argument_Beech_2009_CE\|Beech (2009)]] — 将形变理论运用于[[Network Society\|网络社会]]政策分析，通过巴西中等教育改革中国家政策对跨学科话语的杂糅并置（14 门传统分科包装），以及布宜诺斯艾利斯贫民区学校中教师将“尊重多样性”[[Transfer Translation Transformation\|转译]]为“降低学术期望”的微观实践，实证揭示全球话语在多层级落地中的形态变异。
+> - [[Argument_Beech_2009_CE\|Beech (2009)]] — 将形变理论运用于[[Network Society\|网络社会]]政策分析，通过巴西中等教育改革中国家政策对跨学科[[Discourse|话语]]的杂糅并置（14 门传统分科包装），以及布宜诺斯艾利斯贫民区学校中教师将“尊重多样性”[[Transfer Translation Transformation\|转译]]为“降低学术期望”的微观实践，实证揭示全球话语在多层级落地中的形态变异。

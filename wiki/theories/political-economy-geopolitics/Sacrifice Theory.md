@@ -6,7 +6,7 @@ aliases:
 summary: "哈尔伯塔尔提出的政治哲学理论，认为政治共同体通过成员的自我牺牲和殉道获得道德价值，牺牲与感恩构成闭合循环"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 9
+theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
   - theme/nation-building
   - theme/sovereignty
 related_concepts:
+  - "[[Discourse]]"
   - "[[Zhonghua Minzu]]"
   - "[[Retrotopia]]"
   - "[[Paradigm]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Sacrifice Theory
@@ -70,7 +71,7 @@ updated: 2026-09-17
 > [!theory-components] 核心要素
 > - **“牺牲—感恩—忠诚”的闭合循环** 共同体值得牺牲（预设） $\to$ 成员做出牺牲 $\to$ 牺牲证明了共同体的道德价值 $\to$ 幸存者因债务感而更加忠诚 $\to$ 进一步要求并合理化更多的牺牲。该循环具有强烈的自我强化特征。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 109]])
 > - **逻辑反转（Inversion）** 牺牲不是共同体价值的“结果”，而是共同体价值的“来源”——正是因为有人愿意为之流血或消亡，该共同体才在道德上变善。
-> - **自愿性的修辞** 牺牲在政治话语中必须被呈现为“自愿的”。被迫的牺牲仅是压迫性暴力，无法产生道德增信；只有当牺牲被塑造成受害者的主动贡献时，它才能转变为统治合法性的来源。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 98, p. 109]])
+> - **自愿性的修辞** 牺牲在政治[[Discourse|话语]]中必须被呈现为“自愿的”。被迫的牺牲仅是压迫性暴力，无法产生道德增信；只有当牺牲被塑造成受害者的主动贡献时，它才能转变为统治合法性的来源。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 98, p. 109]])
 
 ---
 
@@ -80,7 +81,7 @@ updated: 2026-09-17
 > 乌拉迪恩·E·布拉格（Uradyn E. Bulag, 2024）将该理论应用于分析中国的[[Zhonghua Minzu\|中华民族]]建构。国家通过弘扬为国族建立和复兴流血牺牲的革命烈士，赋予了中华民族无可置疑的道德价值。这种历史债务在今天被合理地用于要求各少数民族进一步做出自我牺牲，即放弃自身的族群特异性、文化与语言。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 109]])
 > 
 > 这一机制在地方政策中的运作表现为：
-> - **“感恩”话语与纵向绑定** 国家利用感恩叙事，将少数民族与中央的主权权力进行纵向绑定，淡化了强力同化的暴力本质（Sorace, 2021; Yeh, 2013）。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 110]])
+> - **“感恩”[[Discourse|话语]]与纵向绑定** 国家利用感恩叙事，将少数民族与中央的主权权力进行纵向绑定，淡化了强力同化的暴力本质（Sorace, 2021; Yeh, 2013）。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 110]])
 
 > [!claim] 蒙古族精英的象征性服从（“北疆楷模”）
 > 在2020年[[2020 Inner Mongolia Bilingual Education Reform\|内蒙古双语教育改革]]危机后，官方高调授予蒙古族歌手金花 (Jinhua) 和内蒙古师范大学副校长阿拉坦仓 (Altansang) “北疆楷模”称号，表彰其学习国家通用语言的努力。这在牺牲理论下是典型的“牺牲展演”：少数民族精英带头放弃母语教育权利，用自我割舍来论证中华民族这一[[Retrotopia\|怀旧乌托邦]]的无上吸引力。([[Argument_Bulag_2024_CE\|Bulag, 2024, p. 110]])

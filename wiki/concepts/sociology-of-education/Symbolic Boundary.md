@@ -6,14 +6,14 @@ aliases:
 summary: "Lamont 的概念，指通过赋予行为、品味和价值观以道德含义来划分我们与他们的区隔机制，被郑雅君用于高等教育微观习性分析，被 Yu & Zhao 用于国家课程宏观官方知识分析"
 type: concept
 domain: "sociology-of-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 confidence: high
 status: active
 created: '2026-05-08'
-updated: 2026-10-01
+updated: 2026-10-07
 tags:
   - symbolic-boundary
   - cultural-sociology
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Habitus]]"
   - "[[Official Knowledge]]"
   - "[[Cultural Capital]]"
+  - "[[Discourse]]"
   - "[[Learnology]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
@@ -88,7 +89,7 @@ related_arguments:
 
 > [!feature] 核心要素
 > - **差异的道德化（Moralization of Differences）** — 将群体间原本客观的行为或品味差异升格为道德优劣判断（如“我们淳朴责任，他们功利套路”或“我们正统，他们边缘”）[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 169)]]。
-> - **边界的自然化（Naturalization of Boundaries）** — 通过日常习惯、话语或制度化教育，将人为建构的边界伪装成“理所当然”的自然事实与社会常识[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
+> - **边界的自然化（Naturalization of Boundaries）** — 通过日常习惯、[[Discourse|话语]]或制度化教育，将人为建构的边界伪装成“理所当然”的自然事实与社会常识[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 > - **排斥的正当化（Legitimation of Exclusion）** — 边界一旦成为道德事实，对异己的排斥便被合理化为“正当选择”，从而免除了行动者的道德罪恶感[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 170)]]。
 > - **硬化为社会边界（Hardening into Social Boundaries）** — 道德边界阻断了跨群体的[[Cultural Capital\|文化资本]]传递与社会交往，最终巩固了阶级与族群的结构性不平等（Lamont & Molnár, 2002）。
 
@@ -110,7 +111,7 @@ related_arguments:
 ### 命题一　高等教育微观互动中不同阶层习性建构了自我标识与道德拒斥他者的象征边界
 
 > [!concept-lens] 微观阶层[[Habitus\|习性]]与大学生自我/他者区隔
-> 探讨大学生的阶层文化背景如何转化为道德评价话语，并在不同学业文化模式之间划出难以逾越的心理界限。
+> 探讨大学生的阶层文化背景如何转化为道德评价[[Discourse|话语]]，并在不同学业文化模式之间划出难以逾越的心理界限。
 
 > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]
 > **目标掌控者与直觉依赖者之间的道德话语对立** [[Yajun Zheng\|郑雅君]]发现，精英大学中来自优势阶层的目标掌控者与来自弱势阶层的直觉依赖者不仅存在策略差异，更各自构建了一套道德化话语来标识自我并道德拒斥他者[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, pp. 168–172)]]。目标掌控者以“自我负责、有趣”自居，将无目标生活道德判定为“不负责任”；直觉依赖者则以“淳朴、纯真、无套路”自居，将策略性套近乎与选简单课道德判定为“功利心强、动机不纯”。这种象征边界有效地阻断了弱势阶层学生向优势阶层[[Learnology|学习学]]业策略的可能性[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 170)]]。
@@ -160,7 +161,7 @@ related_arguments:
 > - **1984 年 — 阶级区隔理论基础** — Bourdieu 在《区隔》（*Distinction*）中提出[[Cultural Capital\|文化资本]]与趣味区隔，为象征边界提供了社会学雏形。
 > - **1992–2002 年 — 象征边界与社会边界框架建立** — Michèle Lamont 在 *Money, Morals, and Manners* (1992) 及 Lamont & Molnár (2002) 中明确提出“象征边界”概念，将道德边界与阶级/文化边界并列，并阐明象征边界硬化为社会边界的理论机制。
 > - **2015 年 — 理论扩展与综述** — Lamont et al. (2015) 在 *International Encyclopedia of the Social & Behavioral Sciences* 中系统整理差异道德化、自然化与排斥正当化三大环节。
-> - **2023 年 — 中文高等教育[[Champ\|场域]]应用** — [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] 将象征边界运用于中国精英大学第一代大学生研究，揭示“目标掌控者”与“直觉依赖者”之间的道德话语排斥[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 168)]]。
+> - **2023 年 — 中文高等教育[[Champ\|场域]]应用** — [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] 将象征边界运用于中国精英大学第一代大学生研究，揭示“目标掌控者”与“直觉依赖者”之间的道德[[Discourse|话语]]排斥[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 168)]]。
 > - **2024 年 — 国家课程与[[Official Knowledge\|官方知识]]场域应用** — [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] 将象征边界从微观人际互动扩展至国家教科书（217 册）研究，分析[[Official Knowledge\|官方知识]]对“汉儒中华性”的符号边界自然化与少数民族的[[Reflexivity\|反思性]]回应[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 
 ---
@@ -192,7 +193,7 @@ related_arguments:
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 实证揭示中国精英大学中优势与弱势阶层学生如何通过“有趣”与“淳朴”的道德话语构建象征边界。
+> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 实证揭示中国精英大学中优势与弱势阶层学生如何通过“有趣”与“淳朴”的道德[[Discourse|话语]]构建象征边界。
 > - [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] — 实证分析 217 册必修教材中“中国文化=儒家文化”符号边界的构建及其在少数民族学生中的[[Cultural Disembedding\|文化脱嵌]]效应。
 > - [[China Basic Education Curriculum Reform]] — 2001 年基础教育课程改革出台的必修教材充当了国家符号边界自然化的制度载体。
 
@@ -205,7 +206,7 @@ related_arguments:
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[Habitus]] | 概念 | 阶层习性是形成微观道德象征边界的文化心理根源。 |
-> | [[Goal-Controlled Mode]] | 概念 | 以“自我负责、有趣”为话语符号构建对直觉依赖者的区隔。 |
+> | [[Goal-Controlled Mode]] | 概念 | 以“自我负责、有趣”为[[Discourse\|话语]]符号构建对直觉依赖者的区隔。 |
 > | [[Intuition-Dependent Mode]] | 概念 | 以“淳朴、无套路”为道德武器抵制策略性学业行为。 |
 > | [[Official Knowledge]] | 概念 | 国家通过学校课程与教科书系统划定并自然化的宏观符号边界。 |
 > | [[Cultural Disembedding]] | 概念 | 单向度汉儒符号边界的自然化在少数民族学生中引起的脱嵌反应。 |

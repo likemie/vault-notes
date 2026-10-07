@@ -8,7 +8,7 @@ aliases:
 summary: "在比较教育与政策借用研究中，指被特定国家用作自身教育体制改革、政策辩护或合法化重构的外部参照范例或制度模板。概念源自施赖弗（Jürgen Schriewer）的“外化假说”与卢曼系统论，强调系统对外部参照点的内部建构以应对政策情境的偶然性与不确定性。在当代全球量化治理中，经合组织通过外向型同行比较建构参考社会，而世界银行则展现出以自身工具与项目为依归的自指性中介特征。"
 type: concept
 domain: "comparative-education"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -21,6 +21,7 @@ tags:
   - theme/global-governance
 related_concepts:
   - "[[Policy Borrowing]]"
+  - "[[Discourse]]"
   - "[[Externalization]]"
   - "[[Scientific Uncertainty]]"
   - "[[Policy Brokerage]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-05
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Reference Society
@@ -76,7 +77,7 @@ updated: 2026-09-29
 ## 定义
 
 > [!def] 核心定义
-> 参考社会（Reference Society，亦称参照社会或模范社会），在比较教育学与公共政策转移研究中，指被主权国家决策者或特定教育系统视为[[Policy Borrowing\|政策借用]]（Policy Borrowing）、制度改革或话语合法化之理想典范的他国或地区社会。概念植根于施赖弗（[[Jurgen Schriewer|Jürgen Schriewer]]）的“[[Externalization\|外化]]假说”（Externalisation Thesis）与[[Niklas Luhmann\|卢曼]]（Niklas Luhmann）的社会系统论，强调教育系统为了应对内部决策所固有的偶然性、价值争议与[[Scientific Uncertainty\|认知不确定性]]，在内部能动建构出指向外部世界的“权威参照点”。在当代全球量化治理生态下，参考社会不仅由国际大型测评（如 [[PISA]]）排名所催生，更深受地缘政治关系、文化亲近性与意识形态亲和力的深层制约。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540, 545)]]
+> 参考社会（Reference Society，亦称参照社会或模范社会），在比较教育学与公共政策转移研究中，指被主权国家决策者或特定教育系统视为[[Policy Borrowing\|政策借用]]（Policy Borrowing）、制度改革或[[Discourse|话语]]合法化之理想典范的他国或地区社会。概念植根于施赖弗（[[Jurgen Schriewer|Jürgen Schriewer]]）的“[[Externalization\|外化]]假说”（Externalisation Thesis）与[[Niklas Luhmann\|卢曼]]（Niklas Luhmann）的社会系统论，强调教育系统为了应对内部决策所固有的偶然性、价值争议与[[Scientific Uncertainty\|认知不确定性]]，在内部能动建构出指向外部世界的“权威参照点”。在当代全球量化治理生态下，参考社会不仅由国际大型测评（如 [[PISA]]）排名所催生，更深受地缘政治关系、文化亲近性与意识形态亲和力的深层制约。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540, 545)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种被社会系统在内部主动“投射”和“建构”出的外部理想范本，用以为国内备受争议的改革方案提供不可抗拒的外部合法性与理性依据。
@@ -123,7 +124,7 @@ updated: 2026-09-29
 > - **系统论视角下的[[Externalization\|外化]]与不确定性管理** 遵循施赖弗（Schriewer, 1990）与[[Niklas Luhmann\|卢曼]]（Luhmann, 1995）的系统论阐发，现代公共教育体制深陷未来不可知（技术赤字）与多元利益博弈的泥潭。国内政策辩论越激烈，决策者越需要将论证支点“外化”至世界体系或特定参考社会，以此构筑超脱本土派系纠葛的客观中立性。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
 > - **跨国评估排名作为量化筛选机器** [[PISA]] 等跨国大规模测试通过全球单一量表排布，为世界各国自动生成了一目了然的“模范社会排行榜”。高位国家自动获得象征资本与道义光环，成为中介组织推销现成政策方案的活体展示柜。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]
 > - **文化亲近性与意识形态的偏向性参照** 参考社会的选择绝非纯粹的分数高低决定，而是受到地缘、文化与政治制度的深刻筛选。西方政策界在面对东亚地区（如上海、新加坡）长期包揽 PISA 榜首时，往往以“文化特异性、应试苦读与[[Creativity\|创造力]]匮乏”为由排斥其作为制度模板，反而持续对文化亲近的[[Nordic Model of Education\|北欧模式]]保持高度尊崇。
-> - **双向话语建构与被参照国的主动合法化** 参考社会不仅是借用方的单向投射，也是被参照国（如芬兰）主动将国际排名转化为国内政策合法性的[[Reflexivity\|反身性]]实践。被参照国借此将本国体制包装为“世界第一”以压制国内改革异见，推动本国专家成为全球[[Policy Brokerage\|政策中介]]网络中的学术明星。
+> - **双向[[Discourse|话语]]建构与被参照国的主动合法化** 参考社会不仅是借用方的单向投射，也是被参照国（如芬兰）主动将国际排名转化为国内政策合法性的[[Reflexivity\|反身性]]实践。被参照国借此将本国体制包装为“世界第一”以压制国内改革异见，推动本国专家成为全球[[Policy Brokerage\|政策中介]]网络中的学术明星。
 > - **多边机构中介取向的分野：外向型同行参照 vs 机构自指性** 依据全球教育改革数据库（[[World Education Reform Database\|WERD]]）对 60 年文本的挖掘，[[OECD\|经合组织]]（OECD）将建构外部参考社会作为政策中介的核心（通过同行审查与国别互评促成互相效仿）；相反，[[World Bank\|世界银行]]在经验汲取中表现出鲜明的“自指性”（Self-referential），其政策处方主要指涉自身内部沉淀的 [[Systems Approach for Better Education Results\|SABER]] 指标集和借贷项目，将自身而非主权国家塑造为终极参照体。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
 
 > [!logic-map]- 参照社会在政策转移与外化中的运作机制流程图
@@ -154,7 +155,7 @@ updated: 2026-09-29
 > 各国向参考社会学习时，通常只借用其高分所赋予的象征合法性来论证本国既定议程，而极少真正移植其深层制度土壤（如芬兰高度的教师专业信任、低利害考核机制在英美往往被改写为强化集权测试问责）。
 
 > [!claim] 命题四：超国家治理复合体分化为外向型参考社会与自指性中介体系
-> 在[[Governing by Numbers\|数字治理]] 2.0 时代，[[Policy Brokerage\|政策中介]]工具箱的多样化瓦解了单一模范逻辑：[[OECD\|经合组织]]依托横向国别比较维持外向型参考社会网络，而[[World Bank\|世界银行]]则通过排他性技术工具（[[Systems Approach for Better Education Results\|SABER]]）构筑起闭门自证的自指性话语体系。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
+> 在[[Governing by Numbers\|数字治理]] 2.0 时代，[[Policy Brokerage\|政策中介]]工具箱的多样化瓦解了单一模范逻辑：[[OECD\|经合组织]]依托横向国别比较维持外向型参考社会网络，而[[World Bank\|世界银行]]则通过排他性技术工具（[[Systems Approach for Better Education Results\|SABER]]）构筑起闭门自证的自指性[[Discourse|话语]]体系。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
 
 ---
 
@@ -163,7 +164,7 @@ updated: 2026-09-29
 > [!case] 韩国：从默然借用到北欧与东亚参照体系的动态重构
 > 韩国在参与 [[PISA]] 之前长期保持对日本教育政策的“默然借用”（Silent Borrowing）；PISA 2003 结果出炉后，韩国教育界迅速将视线转向排名领先的芬兰，掀起芬兰教育学习热潮；而在 PISA 2009 之后，上海的卓越崛起促使韩国反思自身兼具儒家传统与高压测试的东亚共性。韩国决策层敏锐利用外部参考社会的更迭，在分权化改革、私立辅导监管与公立学校优质化之间动态寻求借用杠杆。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]
 
-> [!case] 芬兰：参考社会地位的双向话语利用与神话生产
+> [!case] 芬兰：参考社会地位的双向[[Discourse|话语]]利用与神话生产
 > 芬兰教育界并未因 PISA 夺冠而颠覆本国原有的松散联邦体制，反而将 PISA 结果解释为对本国综合学校传统、延迟分流与无标准化统考哲学的“科学背书”。芬兰中央官僚将 PISA 与早期意识形态化的国际测评切割，强化其客观性形象；然而在外部世界（如英美）向芬兰取经时，其去中心化与教师完全自主权等核心制度被系统性忽略，仅沦为推行本土[[New Public Management\|新公共管理]]改革的修辞挂件。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]; (Rautalin & Alasuutari, 2009, p. 546)
 
 > [!case] 法国：文化亲近性压倒排名逻辑的典范
@@ -192,7 +193,7 @@ updated: 2026-09-29
 > [!debates] 学术争议与批判反思
 >
 > > [!axis] [[Technical Rationality\|技术理性]]选优 vs 文化帝国主义与西方中心偏见
-> > 国际机构宣称参考社会由严密因果数据客观筛选产生；批判比较学者指责其本质是西方新自由主义治理话语的特权背书。
+> > 国际机构宣称参考社会由严密因果数据客观筛选产生；批判比较学者指责其本质是西方新自由主义治理[[Discourse|话语]]的特权背书。
 > >
 > > - **[[Positivism\|实证主义]]政策[[Transfer Science|转移学]]者** 坚信 [[PISA]] 等标准化大数据提供了跨越国界的客观基准，高位参考社会承载了最前沿的教育生产力。
 > > - **批判后殖民学者（[[Argument_Klerides_2023_CE\|Klerides, 2023]]; [[Argument_Li_2025_HSSC\|Li et al., 2025]]）** 揭示西方国家对非西方参考社会的系统性降格，指出模范社会的加冕往往充当了新自由主义绩效问责与去语境化政策推销的特洛伊木马。

@@ -5,10 +5,10 @@ aliases:
 summary: "从去殖民视角分析知识如何与全球权力空间共同构成的理论，强调西方认识论通过殖民差异维持支配并主张知识生产去殖民化"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 31
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 32
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
 - decolonial-theory
 - geopolitics-of-knowledge
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Ways of Knowing]]"
   - "[[Knowledge Production]]"
   - "[[Research Universities]]"
+  - "[[Discourse]]"
   - "[[Ontology]]"
   - "[[Corporate University]]"
   - "[[Cultural Hierarchy]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 ## 核心主张
@@ -77,7 +78,7 @@ updated: 2026-10-02
 > [!abstract]
 > - **殖民性不同于殖民主义** 殖民主义（colonialism）是历史上的政治军事统治形式，殖民性（coloniality）则是持续运作的权力逻辑——即使殖民行政体系已结束，殖民性通过[[Knowledge Production\|知识生产]]、分类系统和制度安排继续塑造全球不平等秩序。例：今天的高等教育排名系统以英美[[Research Universities|研究型大学]]为基准模板，即使前殖民地国家已独立，其大学仍被按照西方标准评价和排序，这正是殖民性的持续运作
 > - **殖民差异（Colonial Difference）** 殖民者与被殖民者之间的绝对差异——不仅是政治经济的，更是[[Epistemology\|认识论]]的。殖民差异将非欧洲的知识体系标注为"传统的""本土的""非科学的"，从而将其排除在全球知识生产的合法范畴之外（Mignolo, 2002, p.59, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.38]]）。例：中医学在西方医学教育体系中长期不被承认为"科学知识"，尽管其具有数千年的临床实践传统——这是殖民差异在知识分类中的表现
-> - **认识论不服从（Epistemic Disobedience）** Mignolo 提出的去殖民实践策略——主动"去链接"（delink）西方认识论框架，拒绝在其话语体系内部寻求承认和合法性，转而从被边缘化的知识传统中建构替代性[[Ways of Knowing\|认知方式]]（Mignolo, 2009, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp.39–40]]）
+> - **认识论不服从（Epistemic Disobedience）** Mignolo 提出的去殖民实践策略——主动"去链接"（delink）西方认识论框架，拒绝在其[[Discourse|话语]]体系内部寻求承认和合法性，转而从被边缘化的知识传统中建构替代性[[Ways of Knowing\|认知方式]]（Mignolo, 2009, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp.39–40]]）
 > - **对"开放社会科学"的批判**Gulbenkian Commission (1996) 倡导将社会科学向世界"开放"，吸纳更多非西方声音和议题；Mignolo 等去殖民学者批评这一方案不足以动摇西方认识论的霸权地位——因为它只是在现有框架内增加多样性，而非挑战框架本身的认识论前提。"开放"的做法只会将社会科学维持为一项全球学术事业（planetary academic enterprise），而不改变其知识生产的深层逻辑（Mignolo, 2002, p.64, cited in）
 > - **多元世界（Pluriverse）而非单一世界（Universe）** 近年该脉络的发展方向——以 [[Arturo Escobar]] (2018) 的 *Designs for the Pluriverse* 和 Reiter (2019) 的 *Constructing the Pluriverse* 为代表，主张不再追求单一的全球知识秩序，而是为多种[[Ontology\|本体论]]、认识论和方法论的共存开辟空间([[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp.38–39]])
 
@@ -132,7 +133,7 @@ updated: 2026-10-02
 >
 > | 维度   | 批判地缘政治学                                      | 去殖民知识地缘政治              |
 > | ---- | -------------------------------------------- | ---------------------- |
-> | 分析焦点 | 空间配置、政治想象和话语如何建构地缘政治秩序                       | [[Epistemology\|认识论]]如何维系和稳定全球权力的空间不平等   |
+> | 分析焦点 | 空间配置、政治想象和[[Discourse\|话语]]如何建构地缘政治秩序                       | [[Epistemology\|认识论]]如何维系和稳定全球权力的空间不平等   |
 > | 核心问题 | 谁在想像和建构世界空间？通过什么机制？                          | 谁的知识被认定为"知识"？什么认识论被排除？ |
 > | 关键概念 | 空间性≠领土性、关系性地缘政治、[[Hub and Flow Imaginaries]] | 殖民差异、殖民性、认识论不服从        |
 > | [[Praxis\|实践]]取向 | 揭示和批判构成全球[[Knowledge-Based Economy\|知识经济]]网络的话语和物质实践                      | 去殖民化——动摇西方认识论根基，开辟多元世界 |
@@ -146,7 +147,7 @@ updated: 2026-10-02
 > [!success]
 > [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]] 将这一脉络与[[Critical Geopolitics\|批判地缘政治学]]并列，作为理解当代高等教育[[Geopolitics of Knowledge\|知识地缘政治]]转型的两大分析支柱之一。具体应用层面：
 >
-> - **揭示"创新"话语的[[Epistemology\|认识论]]暴力** 当前全球高等教育政策中，创新被视为所有问题的万能解药——"创新是热情拥抱为所有社会和经济问题的万能解药"([[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.35]])。从去殖民视角看，这一"创新"话语并非认识论中立——它预设了一个特定的知识价值等级：能够产生专利、推动经济增长、可商业化的知识（通常来自 [[STEM Education\|STEM]] 学科和[[Positivism\|实证主义]]方法论）被赋予最高价值，而批判性、阐释性、非工具性的知识（通常来自人文学科和质性社会科学）被系统性地边缘化
+> - **揭示"创新"[[Discourse|话语]]的[[Epistemology\|认识论]]暴力** 当前全球高等教育政策中，创新被视为所有问题的万能解药——"创新是热情拥抱为所有社会和经济问题的万能解药"([[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.35]])。从去殖民视角看，这一"创新"话语并非认识论中立——它预设了一个特定的知识价值等级：能够产生专利、推动经济增长、可商业化的知识（通常来自 [[STEM Education\|STEM]] 学科和[[Positivism\|实证主义]]方法论）被赋予最高价值，而批判性、阐释性、非工具性的知识（通常来自人文学科和质性社会科学）被系统性地边缘化
 > - **诊断 [[Horizon 2020 SSH Integration\|Horizon 2020 SSH]] 整合的殖民性后果** 欧盟研究资助框架取消 SSH 独立渠道并要求其"直接为政策证据基础做贡献"——Parreira do Amaral (2019) 论证这实质上是将 SSH 研究的价值缩减为其对"技术科学创新和应对社会挑战的工具性/实践性贡献的潜力"([[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.42]])。这一制度安排的深层逻辑可从去殖民视角理解：它再生产了西方认识论的等级秩序——自然科学作为"真正的知识"，SSH 只有在辅助和加速自然科学的创新目标时才有存在价值。例：在 Horizon 2020 框架下，一项关于欧盟移民政策的[[Ethnography\|人类学研究]]必须将其提案框定为对"社会凝聚力"或"劳动力市场效率"的贡献才能获得资助——研究的认识论自主性在制度层面被消解
 > - **分析与抵抗"别无选择"的话语** 当前[[Knowledge-Based Economization\|知识经济化]]话语弥漫着"无可替代"（there-is-no-alternative）的修辞——将知识密集型资本主义呈现为唯一可行的未来。从去殖民视角，这种"别无选择"的话语本身就是殖民性的当代表现——它封闭了对可能的替代性未来的想象空间([[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.40]])
 

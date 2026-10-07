@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 45
+fact_related_count: 46
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Effective Teaching]]"
+  - "[[Discourse]]"
   - "[[Document]]"
   - "[[Assemblage]]"
   - "[[Value Neutrality]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Australian Education Research Organisation
@@ -236,7 +237,7 @@ updated: 2026-09-22
 > [!indicators]- 影响力维度与指标
 > - **资源与资本规模** 获得联邦及各州政府 5000 万澳元联合财政资助，对接数以亿计的跨国[[Venture Philanthropy\|风险慈善]]基金会（BHP 基金会、[[Sutton Trust\|萨顿信托]]）与金融咨询资本。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 7–8]])
 > - **政策与制度渗透** 直接主导全国大学教师教育课程大纲制定，将原本柔性的循证指南上升为关乎院校办学资质与联邦资金分配的刚性问责铁律。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]])
-> - **生态与话语垄断** [[Going Native\|本土化]]移植英国 [[Education Endowment Foundation\|EEF]] 工具模型，依托公私网络形成对国家教育研究议程定义权的集中垄断。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2, 8]])
+> - **生态与[[Discourse|话语]]垄断** [[Going Native\|本土化]]移植英国 [[Education Endowment Foundation\|EEF]] 工具模型，依托公私网络形成对国家教育研究议程定义权的集中垄断。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2, 8]])
 
 > [!finding-cards] 关键成效与辐射影响
 > - **教师教育知识定义权的收拢** 成功通过证据评估框架和内部[[Document\|文献]]，掌控了职前教师大纲“大脑与学习”板块知识的官方裁决权。

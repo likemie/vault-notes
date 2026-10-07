@@ -2,7 +2,7 @@
 summary: "知识资金（Funds of Knowledge, FoK）是指深植于家庭、社区与日常文化实践中，历史上积累、代际传递且对个体生存与福祉至关重要的战略性知识、技能与文化资源网络。该取向彻底批判并将教育实践从“文化亏空”假设中解放出来，主张教师深入社区挖掘学生的家庭文化资本与地方性知晓方式，将其转化为课堂学科探究的合法认识论资产与认知支架。"
 type: concept
 domain: "curriculum-instruction"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Humility]]"
   - "[[Third Space Discourse]]"
+  - "[[Discourse]]"
 related_theories: []
 related_methods:
   - "[[Ethnography]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-09-23
+updated: 2026-10-07
 ---
 # Funds of Knowledge
 
@@ -124,7 +125,7 @@ updated: 2026-09-23
 > **教师作为人种志学者的身份转变** 冈萨雷斯等人强调，知识资金项目要求教师走出讲台、以人类学访谈者的[[Humility\|谦逊]]姿态深入学生家庭；这一体验打破了传统自上而下的学术权威偏见，促使教师将家庭视为平等的智识对话伙伴。
 
 > [!claim] Varelas, M. et al. (2012)
-> **多重知晓方式的混合空间构建** 瓦雷拉斯等人指出，科学课堂应当构建允许儿童日常知晓方式与正规科学概念相互碰撞、交织对话的“[[Third Space Discourse\|第三空间]]”（Third Space），避免粗暴地用标准科学话语压制学生的本土文化叙事。
+> **多重知晓方式的混合空间构建** 瓦雷拉斯等人指出，科学课堂应当构建允许儿童日常知晓方式与正规科学概念相互碰撞、交织对话的“[[Third Space Discourse\|第三空间]]”（Third Space），避免粗暴地用标准科学[[Discourse|话语]]压制学生的本土文化叙事。
 
 ---
 

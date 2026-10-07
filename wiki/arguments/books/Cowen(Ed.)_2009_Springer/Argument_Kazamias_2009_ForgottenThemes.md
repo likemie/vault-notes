@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten Men, Forgotten Themes: The Historical-philosophical-cultural and Liberal Humanist Motif in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 83
+argument_related_count: 84
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Empiricism]]"
   - "[[Determinism]]"
+  - "[[Discourse]]"
   - "[[Rationalism in International Relations]]"
   - "[[Educational Meliorism]]"
   - "[[Policy Borrowing]]"
@@ -204,7 +205,7 @@ updated: 2026-09-07
 
 19 世纪初至中叶的比较教育发端存在明显的认知断裂：[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）在 1817 年试图仿效解剖学建立实证分类量表与普遍科学法则，而随后几十年主导跨国教育研究的却是一批行政官员与政策顾问的视察报告。（pp.37–38）
 
-> [!contrast-table] 19 世纪初中期比较教育早期话语模式对照
+> [!contrast-table] 19 世纪初中期比较教育早期[[Discourse|话语]]模式对照
 > | 比较维度 | 朱利安的实证科学构想（1817） | 行政官员与政策顾问考察话语（1830s–1860s） |
 > |---|---|---|
 > | **代表人物** | [[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris） | [[Horace Mann\|霍勒斯·曼]]（Horace Mann）、[[Calvin Stowe\|卡尔文·斯托]]（Calvin Stowe）、约翰·格里斯科姆（John Griscom）、[[Henry Barnard\|亨利·巴纳德]]（Henry Barnard）、[[Victor Cousin\|维克多·库森]]（Victor Cousin）等 |
@@ -528,7 +529,7 @@ flowchart LR
 > [!finding-cards] 核心发现
 > 1. **历史学派母题的七大[[Epistemology\|认识论]]基石** [[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]共同奠立了以广义[[Geisteswissenschaften|人文科学]]、因果因素解释学、历史[[Educational Meliorism\|改良主义]]、民族国家单元、质性优位、自由民主信念与观念唯心比较为支柱的学术[[Paradigm\|范式]]。（pp.39–42）
 > 2. **奠基学者独特的范式分支贡献** 萨德勒立足特别调查署实践开创[[Intangible Spiritual Forces\|校外无形精神力量]]情境论；坎德尔首创国家意志与政体解释[[Variable\|变量]]；汉斯建立自然、宗教与世俗三维阶梯式因素框架并敏锐指出英美与苏联民主在教育公平上的共同缺陷；乌利希贯通西方思想文明四阶段开辟以人为本的[[Bildung\|教化]]史路径。（pp.42–52）
-> 3. **1960年代实证危机的本质是话语垄断** [[Positivism\|实证主义]]者对历史学派前科学、主观神秘与缺乏预测的指责，源于战后英美[[Empiricism\|经验主义]]对科学（Science）概念的狭隘语义垄断，抹杀了德语 *Wissenschaft* 与希腊语 *Episteme* 的深厚人文科学传统。（pp.52–56）
+> 3. **1960年代实证危机的本质是[[Discourse|话语]]垄断** [[Positivism\|实证主义]]者对历史学派前科学、主观神秘与缺乏预测的指责，源于战后英美[[Empiricism\|经验主义]]对科学（Science）概念的狭隘语义垄断，抹杀了德语 *Wissenschaft* 与希腊语 *Episteme* 的深厚人文科学传统。（pp.52–56）
 > 4. **非普适[[Working Hypothesis|探索性假说]]确立[[Historical-Comparative Method\|历史比较法]]现代科学合法性** 援引[[Crane Brinton\|克莱恩·布林顿]]的比较史学理论，论证历史研究能够经由归纳提炼中程的非普适探索性假说，在特殊与一般之间建立双向循环检验，从而打破个殊性不可比较的实证主义神话，确立了以人（*Anthropos*）为中心的现代学科防线。（pp.56–57）
 
 > [!timeline]- 标志性学术史与[[Document\|文献]]里程碑

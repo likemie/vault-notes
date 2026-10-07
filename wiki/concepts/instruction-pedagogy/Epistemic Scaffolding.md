@@ -6,7 +6,7 @@ aliases:
 summary: "教学法与学习科学概念，指通过使学科认识论规范、评价标准与反思路径显性化以引导学习者评估知识、辩护主张并参与学科核心探究实践的教学支持机制。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Justificatory Standards]]"
   - "[[Teaching Assistant]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Epistemic Agency]]"
   - "[[Metacognition]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Epistemic Scaffolding
@@ -59,7 +60,7 @@ updated: 2026-10-02
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向旨在使隐性学科认识论准则、证据评估维度与自我监控问题外显化的中介工具与对话指引。
-> - **用途** 帮[[Teaching Assistant\|助教]]师与课程设计者超越单一“给步骤、给概念”的浅层指导，为学习者在复杂探究及人机协同环境中提供[[Higher-Order Thinking Skills\|高阶思维]]脚手架。
+> - **用途** 帮[[Teaching Assistant\|助教]]师与课程设计者超越单一“给步骤、给概念”的浅层指导，为学习者在复杂探究及[[Man-Computer Symbiosis|人机协同]]环境中提供[[Higher-Order Thinking Skills\|高阶思维]]脚手架。
 > - **边界** 认识论支架不直接提供结论性知识答案，而是构建评价知识与主张的规则体系；它必须在保持学习者[[Epistemic Agency\|认识主体性]]的前提下动态介入与逐渐褪除。
 
 > [!citation-card] 认识论支架的本质特征
@@ -126,7 +127,7 @@ updated: 2026-10-02
 
 ### 命题二　学科标准与反思提示语构成的双轨支架在人机协同中实现对算法内容、信源与理解状态的协同监控
 
-> [!concept-lens] 人机共生学习与多维[[Epistemological Vigilance\|认识论警觉]]激发维度
+> [!concept-lens] [[Man-Computer Symbiosis|人机共生]]学习与多维[[Epistemological Vigilance\|认识论警觉]]激发维度
 > 聚焦[[Generative Artificial Intelligence\|生成式人工智能]]深度介入科学探究的情境，阐明单一支架的局限以及标准与提问双轨协同驱动全面认知审验的内在逻辑。
 
 > [!claim] [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]]
@@ -152,7 +153,7 @@ updated: 2026-10-02
 > [!dev-timeline] 概念演变
 > - **2019 — CSCL [[Epistemology\|认识论]]支架概念奠基** Lin & Puntambekar 明确提出并界定认识论支架，将其与传统程序性、概念性支架区分开来，强调外显化科学探究底层认识论的重要性。
 > - **2020–2021 — 分布式支架理论深化** Puntambekar 提出分布式支架理论，阐明认识论支架如何协同分布于教师对话、学习材料与数字化工具中。
-> - **2026 — 人机协同解释与双轨支架系统** [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] 将认识论支架拓展至生成式 AI 协同学习领域，构建“显性学科标准 + 反思提问提示语”双轨认识论支架体系，实证解析其激活初中生三维[[Epistemological Vigilance\|认识论警觉]]的微观机制。
+> - **2026 — [[Man-Computer Symbiosis|人机协同]]解释与双轨支架系统** [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] 将认识论支架拓展至生成式 AI 协同学习领域，构建“显性学科标准 + 反思提问提示语”双轨认识论支架体系，实证解析其激活初中生三维[[Epistemological Vigilance\|认识论警觉]]的微观机制。
 
 ---
 
@@ -188,4 +189,4 @@ updated: 2026-10-02
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 系统构建并实证检验了由[[Scientific Explanation\|科学解释]]四标准与[[Reflexivity\|反思性]]提问提示语构成的显性[[Epistemology\|认识论]]双轨支架，揭示其在初中生人机协同科学解释建构中激活[[Epistemological Vigilance\|认识论警觉]]的微观互动路径。
+> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 系统构建并实证检验了由[[Scientific Explanation\|科学解释]]四标准与[[Reflexivity\|反思性]]提问提示语构成的显性[[Epistemology\|认识论]]双轨支架，揭示其在初中生[[Man-Computer Symbiosis|人机协同]]科学解释建构中激活[[Epistemological Vigilance\|认识论警觉]]的微观互动路径。

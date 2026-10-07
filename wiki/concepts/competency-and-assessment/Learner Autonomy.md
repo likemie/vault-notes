@@ -8,10 +8,10 @@ aliases:
 summary: "学习者在明确目标与支架支持下对自身学习过程主动承担责任、进行批判性反思与元认知调节的能力与意愿。在现代因果试验中，技术辅助的自主学习需与教师主导教学解耦并析因测量，缺乏支架的放任个别化易诱发认知负荷失控与弱势学童掉队。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/autonomy
   - theme/critical-thinking
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Scaffolding]]"
   - "[[Dialogue in Education]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Epistemology]]"
   - "[[Hypothesis]]"
   - "[[Self-Efficacy]]"
@@ -76,7 +77,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-07-02
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Learner Autonomy
@@ -118,7 +119,7 @@ updated: 2026-09-17
 > |---|---|---|---|---|
 > | **核心属性** | 具备[[Metacognition\|元认知]]意识与批判反思的能动自我调节 | 脱离组织环境与人际交互的个人自主阅读 | 教师清晰目标引导与高能动互动的动态平衡 | 放弃教师组织责任、全盘推给学生的自由放任 |
 > | **支架角色** | 依赖渐退式认知脚手架（[[Scaffolding\|Scaffolding]]）达成独立 | 缺乏外部过程性支架，全凭个体先验摸索 | 教师主导搭建分步量规与反思反馈支架体系 | 抽离外部支架，假定学生天生具备自律与规划力 |
-> | **社会互动性** | 高度社会化，在探究[[Dialogue in Education\|对话]]与同伴质询中建构 | 极低，属于封闭独白式信息获取 | 高度双向，倡导活跃的课堂研讨与人机协同 | 碎片化，学生各自为政，课堂缺乏公共对话 |
+> | **社会互动性** | 高度社会化，在探究[[Dialogue in Education\|对话]]与同伴质询中建构 | 极低，属于封闭独白式信息获取 | 高度双向，倡导活跃的课堂研讨与[[Man-Computer Symbiosis\|人机协同]] | 碎片化，学生各自为政，课堂缺乏公共对话 |
 > | **适用边界与风险** | 需前置培养[[Epistemology\|认识论]]自信，否则面临自由失效 | 缺乏校准机制，易产生理解偏差与倦怠 | 过度程序化易滑向刻板[[Direct Instruction\|直接教学]]，需动态调控 | 严重拉大阶层鸿沟，基础脆弱学生“表面自由、实际掉队” |
 
 ---
@@ -221,7 +222,7 @@ updated: 2026-09-17
 > > [!axis] 技术工具自主神话 vs 教师人际引领不可替代论
 > > 技术乌托邦主义宣称自适应算法软件可完全替代教师、实现百分之百的个性化自主学习；循证因果评估则证明了软件的边界。
 > >
-> > - **McNally et al. (2018) 与 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]** 实证证实，脱离教师辅导与人机协同的纯粹软件自学成效极低，真正的高阶效应源于软件自主与教师[[Scaffolding\|教学支架]]的紧密嵌套。
+> > - **McNally et al. (2018) 与 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]** 实证证实，脱离教师辅导与[[Man-Computer Symbiosis|人机协同]]的纯粹软件自学成效极低，真正的高阶效应源于软件自主与教师[[Scaffolding\|教学支架]]的紧密嵌套。
 
 ---
 
@@ -259,4 +260,4 @@ updated: 2026-09-17
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 量化评估 IB 课程对学生[[Critical Thinking\|批判性思维]]与独立探究能力的长期因果促进效应。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 总结 [[Education Endowment Foundation\|EEF]] 多臂析因试验（如 ABRA 试验）经验，实证解构技术软件自主学习与教师主导辅导的独立效应与交互机制。
 > - [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]] — 比较[[Meta-meta-analysis\|元综合]]反思瑞典极端去结构化个人主义自学的实践灾难，确立结构化支架作为真自主前提的理论地位。
-> - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]]生成式 AI 时代学习者在人机协同中维持[[Epistemological Vigilance\|认识论警觉]]与抵御算法[[Cognitive Offloading\|认知卸载]]的自主防御机制。
+> - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]]生成式 AI 时代学习者在[[Man-Computer Symbiosis|人机协同]]中维持[[Epistemological Vigilance\|认识论警觉]]与抵御算法[[Cognitive Offloading\|认知卸载]]的自主防御机制。

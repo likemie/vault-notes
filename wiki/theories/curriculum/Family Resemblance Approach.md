@@ -2,7 +2,7 @@
 summary: "家族相似性进路（Family Resemblance Approach, FRA）是由哲学与科学教育学者居罗尔·伊尔齐克（Gürol Irzik）、罗伯特·诺拉（Robert Nola）及西贝尔·埃尔杜兰（Sibel Erduran）基于维特根斯坦家族相似性概念开创的科学本质理论范式。该理论旨在取代僵化单一的共识要素清单，将科学重构为由认知-认识论系统（活动、价值、方法论、知识产品）与社会-建制系统构成的多维动态网络，为解释不同科学分支的认识论异质性奠定了坚实基础。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 27
+theory_related_count: 28
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Socioscientific Issues]]"
   - "[[Research Question]]"
   - "[[Domain Specificity]]"
+  - "[[Discourse]]"
   - "[[Homework]]"
   - "[[Reflexivity]]"
   - "[[Academic Achievement]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 # Family Resemblance Approach
 
@@ -124,7 +125,7 @@ updated: 2026-09-22
 
 > [!theory-use] 框架入口
 > - **[[Research Question\|研究问题]]** 用于分析科学课程标准、教材文本与课堂互动中对[[Nature of Science\|科学本质]]的表征广度与深度；指导教师设计体现[[Domain Specificity\|学科特异性]]的探究活动。
-> - **分析对象与单位** 科学教科书章节、课程标准文本单元、课堂师生研讨话语片段。
+> - **分析对象与单位** 科学教科书章节、课程标准文本单元、课堂师生研讨[[Discourse|话语]]片段。
 > - **需要的材料** 教学大纲文本、教材探究活动设计、课堂录像[[Transcription in Qualitative Research\|转录]]文本与学生论证[[Homework\|作业]]。
 > - **解释目标** 评估教学内容是否涵盖完整的认知与社会系统，是否避免了教条线性的[[Scientific Method\|科学方法]]偏误。
 
@@ -146,7 +147,7 @@ updated: 2026-09-22
 > - **适合分析** 中小学与大学各学科（物理、化学、生物、地学、工程）课程标准、教材[[Content Analysis\|内容分析]]，以及探究教学设计的[[Epistemology\|认识论]]广度评估。
 > - **成立条件** 需要教师具备对具体学科发展史与科学哲学的基本素养，能够辨识各分支的独特认识论规程。
 > - **解释不足** 理论维度较为宏大庞杂，在微观课堂实时教学中，难以在一节课内同时完整覆盖所有 11 个子维度。
-> - **不能直接推出** 不能仅凭 FRA 矩阵的完整性直接推导出学生科学[[Academic Achievement\|学业成绩]]的必然提高；需要配合微观话语支架方能落地。
+> - **不能直接推出** 不能仅凭 FRA 矩阵的完整性直接推导出学生科学[[Academic Achievement\|学业成绩]]的必然提高；需要配合微观[[Discourse|话语]]支架方能落地。
 
 ---
 

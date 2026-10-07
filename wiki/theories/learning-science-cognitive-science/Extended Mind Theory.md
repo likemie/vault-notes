@@ -10,7 +10,7 @@ aliases:
 summary: "由 Andy Clark 与 David Chalmers 于 1998 年创立、后经 Clark（2025）面向生成式 AI 深化的认知哲学理论，提出宇称原则与耦合系统观，主张认知过程可跨越颅骨与身体边界延展至外部环境人造物，为认知卸载与人机协同学习提供了本体论与功能主义合法性基石。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 33
+theory_related_count: 34
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Externalization]]"
   - "[[Problem Solving]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Technology Infusion]]"
   - "[[Scaffolding]]"
 related_theories:
@@ -55,7 +56,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Extended Mind Theory
@@ -153,7 +154,7 @@ updated: 2026-10-01
 ## 局限性与适用边界
 
 > [!theory-boundary] 局限性与适用边界
-> - **适合分析** 人机协同教学与工作场景中外部工具的认知功能评估，特别是辨析某项[[Technology Infusion|技术整合]]究竟是放大了学习者的认知能力还是替代了认知挣扎过程。
+> - **适合分析** [[Man-Computer Symbiosis|人机协同]]教学与工作场景中外部工具的认知功能评估，特别是辨析某项[[Technology Infusion|技术整合]]究竟是放大了学习者的认知能力还是替代了认知挣扎过程。
 > - **成立条件** 需要有可观察的人机交互回路（操作日志、出声思考协议），以及撤除工具后的能力迁移测验数据，才能区分良性延展与有害替代。
 > - **严格区别于心理学[[Theory of Mind\|心智理论]]（Theory of Mind, ToM）** 本理论探讨认知系统在物理环境中的空间延展与工具耦合，切勿与发展心理学中关于儿童理解他人信念意图的心智理论（ToM）混淆。
 > - **偶联谬误（Coupling-Constitution Fallacy）** Adams & Aizawa（2001）指出，不能仅因某物与人脑存在紧密的因果耦合便认定该物构成了心智本身；在教学实践中不能将技术采纳等同于心智能力的自然提升。

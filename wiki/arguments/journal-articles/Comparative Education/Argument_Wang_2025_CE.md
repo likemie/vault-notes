@@ -10,7 +10,7 @@ title: "Argument_Wang_2025_CE"
 argument_key: "Argument_Wang_2025_CE"
 argument_display_title: "Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Document]]"
   - "[[Rote Learning]]"
+  - "[[Discourse]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Progressive Education]]"
   - "[[Determinism]]"
@@ -244,7 +245,7 @@ citation_aliases:
 > - **评估规则多元化（Diversification of Rules）**
 >   打破单一以分定乾坤的硬性考评，通过制定过程性观摩指标（城市二校）或课改额外加分（农村二校），为教学试验提供制度化护航(pp. 600–601)。
 > - **中介工具的[[Going Native\|本土化]]反思（Localization of Tools）**
->   拒绝对外部模式的盲目照搬，通过校本研讨对比新旧教法，解构传统讲授的局限，寻找到契合本地考情与学情的本土话语(p. 599)。
+>   拒绝对外部模式的盲目照搬，通过校本研讨对比新旧教法，解构传统讲授的局限，寻找到契合本地考情与学情的本土[[Discourse|话语]](p. 599)。
 
 > [!warrant]- 理论推理桥梁
 > Engeström（2001）指出，系统间的矛盾是扩展性改造的催化剂。城市二校与农村二校的经验证明，当学校领袖成功将外部引介的教学理念与本土高利害考试中的特定痛点（[[Higher-Order Thinking Skills\|高阶思维]]要求与农村家庭支持缺失）相结合时，活动系统的主体便获得了重构规则与分工的合法性。这种重构反过来改变了只有教师主导才能考高分的传统信念，实现了应试与改革的相互借力(pp. 600–602)。

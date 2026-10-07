@@ -8,7 +8,7 @@ summary: "瑞士教育历史与课程学学者，以课程历史的宗教与政�
 type: person
 nationality: switzerland
 person_region: "switzerland"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,6 +22,7 @@ tags:
   - region/switzerland
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Discourse]]"
   - "[[International Education]]"
   - "[[Educated Identity]]"
 related_theories:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # Daniel Tröhler
@@ -61,7 +62,7 @@ updated: 2026-09-24
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **2013** 发表关于教育语言历史根源的研究，剖析现代课程背后的新教神学与共和主义政治话语。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 423)]]
+> - **2013** 发表关于教育语言历史根源的研究，剖析现代课程背后的新教神学与共和主义政治[[Discourse|话语]]。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 423)]]
 > - **2022** 与合作者分析[[International Education\|国际教育]]绩效数据（如 [[PISA]]）如何成为民族国家再生产权力的手段，揭示数据治理对地方民主决策的挤压。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 421)]]
 > - **2023** 针对东亚比较教育史发表研究，指出比较教育从根本上是服务于大国地缘统治的[[Epistemology\|认识论]]权力游戏，并提出课程变革受国家生存与地缘竞争利益支配。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 334)]]
 
@@ -70,7 +71,7 @@ updated: 2026-09-24
 ## 核心思想
 
 > [!claim] 核心主张
-> 教育与课程改革在本质上是由民族国家建构、国内政治控制以及地缘利益竞争驱动的。国际间的“政策学习”并非中性的技术改进，而是源于无政府状态下国家为了维护自身权力与地位，对竞争对手所展开的“贪婪而好奇”的观察。比较教育的学术与政策流变史，实质上总是伴随着政治大国的意识形态输出与话语征服。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 420)]]; [[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 334)]]
+> 教育与课程改革在本质上是由民族国家建构、国内政治控制以及地缘利益竞争驱动的。国际间的“政策学习”并非中性的技术改进，而是源于无政府状态下国家为了维护自身权力与地位，对竞争对手所展开的“贪婪而好奇”的观察。比较教育的学术与政策流变史，实质上总是伴随着政治大国的意识形态输出与[[Discourse|话语]]征服。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 420)]]; [[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 334)]]
 
 > [!citation-card]- 经典表述：国家竞争与贪婪学习
 > 译文：在国际无政府状态下，国家将教育视为提升权力能力和维持国际地位的工具，由此驱动对外国教育模式的“贪婪而好奇”的观察。

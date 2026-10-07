@@ -14,7 +14,7 @@ aliases:
 summary: "跨越政治学、文化哲学与比较教育学的核心宏观理论。在政治治理层面，主张权力分散于多元竞争的利益集团之间，政策是公开民主博弈与妥协的产物；在比较教育与文化哲学层面，主张文化多元主义（Cultural Pluralism），强调教育深植于多元语言、宗教与地方生态，抗衡世界体系单一普遍主义规训；在学科知识生产层面，主张健康多元主义（Healthy Pluralism），确立实证、批判、后现代等数十种理论视角与混合方法并存共荣的学科合法形态。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 57
+theory_related_count: 58
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Policy Network]]"
   - "[[Commensuration]]"
+  - "[[Discourse]]"
   - "[[Ontology]]"
   - "[[Grandes Ecoles]]"
   - "[[Scientific Paradigm]]"
@@ -92,7 +93,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Pluralism
@@ -153,7 +154,7 @@ updated: 2026-10-02
 > | 文化多元性（Cultural Plurality） | 概念 | 界定教育制度内生所依托的不可[[Commensuration\|通约]]的语言、宗教、族群与地方历史生态。 |
 > | 健康多元主义（Healthy Pluralism） | [[Epistemology\|认识论]]/规范 | 确立学术研究中多理论[[Paradigm\|范式]]、多方法论平等对话、互补共荣的学科合法形态。 |
 > | 范式霸权（Paradigm [[Hegemony]]） | 批判概念 | 揭示以单一[[Scientism\|科学主义]]、功能主义或跨国指标治理排斥异质视角的认识论垄断。 |
-> | [[Cultural Capital\|文化资本门槛]]（Cultural Capital Barrier） | 机制 | 解释微弱基层群体在进入正式立法与学术决策场域时面临的制度与话语筛选阻隔。 |
+> | [[Cultural Capital\|文化资本门槛]]（Cultural Capital Barrier） | 机制 | 解释微弱基层群体在进入正式立法与学术决策场域时面临的制度与[[Discourse\|话语]]筛选阻隔。 |
 
 ---
 
@@ -165,7 +166,7 @@ updated: 2026-10-02
 > **应用实例** 在公立教育立法中，议会定期举行公众听证会，邀请一线全美英语教师学会（[[National Council of Teachers of English|NCTE]]）、国际阅读学会（[[International Reading Association|IRA]]）及家长代表参与论证，对教学指导原则进行跨党派公开协商。
 
 > [!theory-proposition] 命题二｜阶级与[[Cultural Capital|文化资本]]差异导致传统多元博弈发生制度性失灵
-> **解释** 经典多元主义盲目假定所有利益群体拥有均等的发声机会与政治资源，忽略了阶级、资本与官僚权力的巨大落差。在制度化[[Champ|场域]]中，缺乏专业建制话语与人脉游说资本的草根群体（如一线公立教师），极易被由联邦官员、立法专委会领导与商业财团组成的“次政府铁三角”（[[Subgovernment Theory|Subgovernments]]）系统性边缘化，使多元博弈沦为形式化仪式。该命题由埃德蒙森（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005]]）结合布尔迪厄文化资本理论对传统多元主义进行批判性修正而确立。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 6)]]
+> **解释** 经典多元主义盲目假定所有利益群体拥有均等的发声机会与政治资源，忽略了阶级、资本与官僚权力的巨大落差。在制度化[[Champ|场域]]中，缺乏专业建制[[Discourse|话语]]与人脉游说资本的草根群体（如一线公立教师），极易被由联邦官员、立法专委会领导与商业财团组成的“次政府铁三角”（[[Subgovernment Theory|Subgovernments]]）系统性边缘化，使多元博弈沦为形式化仪式。该命题由埃德蒙森（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005]]）结合布尔迪厄文化资本理论对传统多元主义进行批判性修正而确立。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 6)]]
 >
 > **应用实例** 在美国联邦《[[Reading Excellence Act|卓越阅读法案]]》（Reading Excellence Act, REA）立法中，数百名一线阅读教师提交的亲笔请愿信被议员斥为“缺乏科研资质的感性抱怨”，而商业出版商与实证神经科学家却垄断了听证会发言席位。
 

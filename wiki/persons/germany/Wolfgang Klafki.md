@@ -7,7 +7,7 @@ summary: "德国教育学家和 Didaktik 代表人物，批判建设性教学论
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Geisteswissenschaften]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Reflexivity]]"
+  - "[[Discourse]]"
   - "[[Constructivist Paradigm]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Atomisation of Knowledge and Skills]]"
@@ -50,7 +51,7 @@ related_methods:
 confidence: high
 status: draft
 created: '2026-05-06'
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Wolfgang Klafki
@@ -142,7 +143,7 @@ updated: 2026-09-29
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **师承／合作者** 根据其德语维基百科条目记载，他师从[[Geisteswissenschaften|精神科学]]教育学代表 Erich Weniger 与哲学与教育学家 Theodor Litt；其教学论思想亦与[[Phenomenology\|现象学]]创始人 [[Edmund Husserl]] 的生活世界体验和具身反思传统相呼应。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 3–4, 6]] 同门同侪包括 Klaus Mollenhauer、Wolfgang Kramp、Herwig Blankertz，共同塑造了德国二战后至70年代的教育学话语转向。
+> - **师承／合作者** 根据其德语维基百科条目记载，他师从[[Geisteswissenschaften|精神科学]]教育学代表 Erich Weniger 与哲学与教育学家 Theodor Litt；其教学论思想亦与[[Phenomenology\|现象学]]创始人 [[Edmund Husserl]] 的生活世界体验和具身反思传统相呼应。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 3–4, 6]] 同门同侪包括 Klaus Mollenhauer、Wolfgang Kramp、Herwig Blankertz，共同塑造了德国二战后至70年代的教育学[[Discourse|话语]]转向。
 > - **学生／继承者**
 >   - Hans Christoph Berg — 学术关系：Klafki 从1990年代起长期支持并积极参与其同僚 Berg 推动的“教学艺术（Lehrkunst）”设计，并担任其二导师。
 >   - Astrid Kaiser 等 — 师承关系：Klafki 指导了 70 余名博士，大多成为德国各高校和学科教学论（特别是常识课教学论）的领军人物。

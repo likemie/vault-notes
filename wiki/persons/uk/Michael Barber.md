@@ -9,7 +9,7 @@ summary: "英国著名教育政策顾问与跨国管理咨询领袖，“交付�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 35
+person_related_count: 36
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Technical Rationality]]"
   - "[[Tracking]]"
+  - "[[Discourse]]"
   - "[[New Public Management]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Venture Philanthropy]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-04
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Michael Barber
@@ -139,7 +140,7 @@ updated: 2026-10-01
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论与话语路径** 将“交付学”确立为跨国公共管理与[[New Public Management\|新公共管理]]（New Public Management, NPM）晚期的显学话语，使“指标追踪”、“例行审议（Stocktakes）”与“交付机构（Delivery Units）”成为数十个主权国家与[[World Bank\|世界银行]]、[[OECD\|经合组织]]等国际组织的通用治理词汇。
+> - **理论与[[Discourse|话语]]路径** 将“交付学”确立为跨国公共管理与[[New Public Management\|新公共管理]]（New Public Management, NPM）晚期的显学话语，使“指标追踪”、“例行审议（Stocktakes）”与“交付机构（Delivery Units）”成为数十个主权国家与[[World Bank\|世界银行]]、[[OECD\|经合组织]]等国际组织的通用治理词汇。
 > - **政策与组织路径** 领导英国首相交付组与学校标准与效能组，彻底将目标设定与表格化绩效审计制度化；其麦肯锡报告的政策建议直接被英国教育大臣[[Michael Gove\|戈夫]]采纳并写入 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]，奠定了以 1.25 亿英镑政府资金创设英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）的政策法理基石（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
 > - **跨国与跨界商业化路径** 从英国白厅内阁流转至麦肯锡战略咨询，再流动至跨国教育出版寡头培生集团，[[Bernard Barber|巴伯]]开创了教育专家跨越政、商、学三界的高级“旋转门”轨迹，深刻推动了跨国商业咨询公司（如麦肯锡、波士顿咨询）对主权国家公共教育改革的深度介入与议程统摄。
 
@@ -188,7 +189,7 @@ updated: 2026-10-01
 > | [[The Importance of Teaching]] | 政策 | 2010 年英国政府白皮书，直接吸纳[[Bernard Barber\|巴伯]]关于教师质量与独立证据基金会的建议。 |
 > | [[Social Ventures Australia]] | 组织 | 麦肯锡校友网络与巴伯倡导的跨国证据模式向澳洲[[Transfer Translation Transformation\|转译]]的关键承接载体。 |
 > | [[Evidence for Learning]] | 组织 | 引入 EEF 工具包并获联合资助的澳洲本土试验平台，深植于巴伯构建的跨国网络。 |
-> | [[Paul Morris]] | 人物 | 批判比较教育学者，深入剖析巴伯交付学话语背后的政治神学修辞与绩效霸权。 |
+> | [[Paul Morris]] | 人物 | 批判比较教育学者，深入剖析巴伯交付学[[Discourse\|话语]]背后的政治神学修辞与绩效霸权。 |
 > | [[Michael Gove]] | 人物 | 英国前教育大臣，依据巴伯的咨询理念在白皮书中规划创设 EEF。 |
 > | [[Argument_Cowen_2023_CE\|Cowen (2023)]] | 关键论证 | 记录并深化对巴伯交付学体系作为政治神学与指标管理附属品的理论批判。 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 关键论证 | 揭示 EEF 的创设深植于巴伯的麦肯锡全球网络及其对澳洲[[Venture Philanthropy\|风险慈善]]中介的跨国辐射。 |

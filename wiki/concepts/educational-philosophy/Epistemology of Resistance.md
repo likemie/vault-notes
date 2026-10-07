@@ -6,7 +6,7 @@ aliases:
 summary: "从被排斥群体的具体经验出发构建替代性知识形式的认识论取向，用于反抗支配性知识秩序。"
 type: concept
 domain: "educational-philosophy"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,6 +18,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Stances]]"
+  - "[[Discourse]]"
   - "[[Knowledge Production]]"
   - "[[Official Knowledge]]"
   - "[[Epistemic Practices]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Epistemology of Resistance
@@ -52,7 +53,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!info]
-> [[Epistemology]] of Resistance（抵抗认识论）是一种从被排斥群体的**具体经验**出发，通过实践行动（而非仅靠理论论述）直接制造替代性知识形式的[[Epistemic Stances\|认识论立场]]。它区别于在学术话语层面论证西方认识论霸权的做法——抵抗认识论**首先存在于行动中** 剧场表演、口述叙事、社区博物馆策展、集体记忆保存——这些实践本身就是[[Knowledge Production\|知识生产]]，不需要等待学术体制的认证([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.109–110]])。
+> [[Epistemology]] of Resistance（抵抗认识论）是一种从被排斥群体的**具体经验**出发，通过实践行动（而非仅靠理论论述）直接制造替代性知识形式的[[Epistemic Stances\|认识论立场]]。它区别于在学术[[Discourse|话语]]层面论证西方认识论霸权的做法——抵抗认识论**首先存在于行动中** 剧场表演、口述叙事、社区博物馆策展、集体记忆保存——这些实践本身就是[[Knowledge Production\|知识生产]]，不需要等待学术体制的认证([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.109–110]])。
 
 > 抵抗认识论的概念根源可追溯至 Fanon (1952) 对殖民知识暴力的分析和 Freire (1972) 对被压迫者认识论权利的论证。在拉丁美洲去殖民思想传统中，Mignolo 的"认识论不服从"（epistemic disobedience）为其提供了理论框架。但抵抗认识论的独特之处在于它强调**实践优先**——不是在理论上论证替代认识论的必要性，而是在剧场、博物馆和口述传统中直接制造[[Official Knowledge\|官方知识]]体系无法消化的"另类知识"([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.105–106, 109–110]])。
 
@@ -63,7 +64,7 @@ updated: 2026-09-22
 ## 概念辨析
 
 > [!example]
-> - vs **去殖民[[Epistemology\|认识论]]（Mignolo）** Mignolo 的"认识论不服从"在学术话语层面论证去链接西方认识论的必要性；抵抗认识论则在具体实践（剧场、博物馆、口述传统）中实际执行这种不服从。前者提供理论框架，后者提供实践形态，两者互补([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.105–106, 109–110]])
+> - vs **去殖民[[Epistemology\|认识论]]（Mignolo）** Mignolo 的"认识论不服从"在学术[[Discourse|话语]]层面论证去链接西方认识论的必要性；抵抗认识论则在具体实践（剧场、博物馆、口述传统）中实际执行这种不服从。前者提供理论框架，后者提供实践形态，两者互补([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.105–106, 109–110]])
 > - vs **替代性认识论（Alternative Epistemology）** 替代性认识论是一个更宽泛的范畴，涵盖所有不同于西方主流认识论的知识体系（如原住民知识、安第斯宇宙观）。抵抗认识论特指那些在与霸权认识论的**直接对抗中**被锻造的[[Epistemic Forms\|认识论形式]]——它因抵抗而生，在抵抗中获取形态，不仅仅是"不同的"而是"对抗性的"
 > - vs **[[Critical Pedagogy\|批判教育学]]（Critical Pedagogy, Freire）** Freire 关注被压迫者通过教育过程获得批判意识（[[Conscientization\|conscientização]]）；抵抗认识论关注被压迫者通过[[Knowledge Production\|知识生产]]实践直接制造与霸权知识竞争的替代知识。两者共享政治承诺但操作路径不同——前者走教育，后者走知识生产本身
 
@@ -72,13 +73,13 @@ updated: 2026-09-22
 > [!note]-
 > - 抵抗认识论的早期形态可追溯至 Fanon (1952) 对殖民知识暴力的分析和 Freire (1972) 的[[Critical Pedagogy\|批判教育学]]
 > - 在拉丁美洲去殖民思想（Mignolo、Dussel、Quijano）中，"[[Epistemology\|认识论]]抵抗"被理论化为去殖民认识论的核心策略，但主要停留在理论论证层面
-> - [[Richard Castelo Branco]] (2020) 在里约热内卢 Rocinha 贫民窟剧场实践中开发了 EspectAtor 方法，将抵抗认识论从理论话语带入具体的艺术实践([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110, 援引 Branco, 2020]])
+> - [[Richard Castelo Branco]] (2020) 在里约热内卢 Rocinha 贫民窟剧场实践中开发了 EspectAtor 方法，将抵抗认识论从理论[[Discourse|话语]]带入具体的艺术实践([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110, 援引 Branco, 2020]])
 > - [[Dell Delambre]] (2022) 将抵抗认识论整合进 [[Ganz-Methode]] 的实证基础，将其定位为"从意义张力中产生的知识形式"在实践中的具体呈现([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.109–110, 112–113]])
 
 ## 核心要素
 
 > [!abstract]
-> - **实践性而非纯理论性** 抵抗[[Epistemology\|认识论]]不是在学术论著中被论证的哲学立场，而是在具体实践——剧场表演、口述叙事、社区博物馆策展——中被**实践**出来的认识论。它首先存在于行动中，其次才被理论话语捕捉和命名([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.109–110]])
+> - **实践性而非纯理论性** 抵抗[[Epistemology\|认识论]]不是在学术论著中被论证的哲学立场，而是在具体实践——剧场表演、口述叙事、社区博物馆策展——中被**实践**出来的认识论。它首先存在于行动中，其次才被理论[[Discourse|话语]]捕捉和命名([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.109–110]])
 > - **与[[Official Knowledge\|官方知识]]模型处于张力中** 抵抗认识论不是与世隔绝的"替代知识"——它必然与官方知识模型（大学的学术标准、博物馆的策展权威、书写中心主义）处于紧张关系中。这种张力是其构成性特征，不是偶然的副作用([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110]])
 > - **从被排除者的经验出发** 抵抗认识论的知识源头是被霸权系统排斥的具体经验——贫民窟居民的暴力创伤、被抹除的地方历史、被贬低的口述传统。知识不是"关于"被排除者的，而是"来自"被排除者的
 > - **承载而非急于消解张力** 抵抗[[Epistemic Practices\|认识论实践]]不需要立即获得官方体制的承认——它首先需要在张力中**存在**。急于让官方体制"认证"抵抗知识，等于用旧标准来评判新知识。这一原则与 [[Ganz-Methode]] 的张力承载逻辑 一致([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.112–113]])

@@ -8,7 +8,7 @@ aliases:
 summary: "研究者与实践组织之间长期、互惠的协作机制，通过共同确定问题、协同生产与情境化运用知识，被视为弥合研究-实践鸿沟并打破线性知识转移瓶颈的重要制度安排。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 61
+related_count: 62
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Professional Learning Community]]"
   - "[[Hypothesis]]"
   - "[[Third Space Discourse]]"
+  - "[[Discourse]]"
   - "[[Champ]]"
   - "[[Reflexivity]]"
   - "[[Boundary Spanner]]"
@@ -90,7 +91,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-26
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Research-Practice Partnership
@@ -139,7 +140,7 @@ updated: 2026-09-22
 > [!feature] 核心要素
 > - **长期互惠治理承诺** RPP 建立在超越具体课题周期的长期制度化契约之上，双方共同协商优先事项，共享研究所有权与成果权益。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 131)]]
 > - **[[Research Question\|研究问题]]联合建构** 摒弃学术界闭门造车的纯理论[[Hypothesis\|假设]]，从学校管理、课堂教学与区域治理的真实复杂困境中共同提炼研究问题。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 21–22)]]
-> - **[[Third Space Discourse\|第三空间]]对话机制（Third Space Discourse）** 拒绝消除研究者与实践者固有专业差异的同化思维，搭建平等交流的常态化小型研讨[[Champ\|场域]]，赋予一线教师直接发起研究课题的制度化权利，在兼具[[Reflexivity\|反思性]]与教学敏感性的第三空间中实现优势互补。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–219)]]
+> - **[[Third Space Discourse\|第三空间]]对话机制（Third Space [[Discourse]]）** 拒绝消除研究者与实践者固有专业差异的同化思维，搭建平等交流的常态化小型研讨[[Champ\|场域]]，赋予一线教师直接发起研究课题的制度化权利，在兼具[[Reflexivity\|反思性]]与教学敏感性的第三空间中实现优势互补。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 217–219)]]
 > - **名师与研究型教师双轨分工协同** 在微观学校端确立内外部专业分工，由专职名师在校内主持教学法微观改进，由享受带薪科研时间的研究型教师负责跨校学术辐射与高校深度对接，打破依靠个别明星校长的偶发星象运气。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 215–216)]]
 > - **双向跨界中介能力** 突破证据生产者与使用者的双向能力赤字，培育兼通学术方法与现场情境的[[Boundary Spanner\|跨界中介者]]（boundary spanners）（Campbell et al., 2017）。
 > - **高质量[[Research Utilization\|证据使用]]的组织基建与外部联结（Infrastructure & Relationship Enabler）** 在[[Quality Use of Research Evidence Framework\|研究证据质量使用框架]]（[[Quality Use of Research Evidence Framework\|QURE]]）中，RPP 被明确确立为支撑学校组织使能的关键外部基础架构与专业人际网络；它打破了传统学校孤立无援的困境，使校内研究协调员能够顺畅借力外部学术专长，推动证据使用从单次项目合作深化为对适切证据的持续审慎研讨。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 134, 143–144)]]
@@ -229,7 +230,7 @@ updated: 2026-09-22
 > - **2018–2019 — [[Research Schools Network\|研究学校网络]]与学习对话演进** 英国 [[Education Endowment Foundation\|EEF]] 建立“研究学校网络”（Research Schools Network），并衍生出高校与学校深度合作的“研究学习网络”（Research Learning Networks, RLNs），通过学习对话促进[[Knowledge Co-production\|知识共创]]（Brown, 2018；[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, pp. 20–21]]）。
 > - **2022 — 纳入复杂系统跨国政策调查** [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] 依托 [[OECD]] 29 国政策调查，将 RPP 提升为复杂[[Evidence Ecosystem\|证据生态系统]]建设的支柱机制，指出当前国际上政策-研究伙伴关系远落后于实践-研究伙伴关系，呼吁建立更具包容性的多方共治网络。
 > - **2022 — 跨国实证调查揭示大学-中小学伙伴关系的制度化局限** [[Argument_Hill_2022_FacilitatingActors\|Hill (2022, p. 82)]] 针对 29 国 37 个教育系统调查显示，大学-中小学伙伴关系与网络在各国的活跃度呈现显著系统特异性，远未成为 OECD 国家的普遍制度化实践：尽管其在推动实践转化上被寄予厚望，但哥伦比亚、加拿大魁北克等诸多系统明确报告该类伙伴网络在促进教学实践应用端“完全不活跃”，奥地利与斯洛伐克等系统则报告其仅活跃于论文生产端，证实学术界参与的混合型伙伴关系在跨界落地上面临严重的机制脱节。
-> - **2022 — 承认差异并构建“[[Third Space Discourse\|第三空间话语]]”与跨部门协作模型** [[Tine S. Prøitz\|蒂内·S·普勒茨]]（Tine S. Prøitz）总结瑞典国家级 ULF 试点项目（覆盖 25 所设立教师教育的高校与 150 余个市镇），指出 RPP 不应试图抹平实践者与研究者在工作情境与话语体系上的固有差异，而应通过承认差异构建“第三空间话语”（Third Space Discourse），在研讨会与共同议程中明确角色分工以保障科学质量。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–220)]]
+> - **2022 — 承认差异并构建“[[Third Space Discourse\|第三空间话语]]”与跨部门协作模型** [[Tine S. Prøitz\|蒂内·S·普勒茨]]（Tine S. Prøitz）总结瑞典国家级 ULF 试点项目（覆盖 25 所设立教师教育的高校与 150 余个市镇），指出 RPP 不应试图抹平实践者与研究者在工作情境与[[Discourse|话语]]体系上的固有差异，而应通过承认差异构建“第三空间话语”（Third Space Discourse），在研讨会与共同议程中明确角色分工以保障科学质量。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–220)]]
 > - **2022 — [[Democratising Evidence\|证据民主化]]导向的 RPP 架构与资助生态再造** [[Vivian Tseng\|薇薇安·曾]]（[[Vivian Tseng]]）将 RPP 界定为推进“[[Democratising Evidence\|证据民主化]]”的核心战略，依托 Henrick et al. (2017) 的伙伴关系五大效能维度（信任培植、严谨[[Action Research\|行动研究]]、支持实践目标、产出外溢知识、双向能力建设），呼吁资助机构提供长期灵活资助，将关系基础设施与能力建设列为核心交付物，打破传统的“唯论文”学术考核。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–224)]]
 > - **2022 — [[Quality Use of Research Evidence Framework\|QURE]] 框架确立其为组织基建与生态协同使能构件** 马克·里克森（[[Mark Rickinson]]）等系统梳理国际循证图景，将美国的 RPP（Coburn & Penuel, 2016）与英国的[[Research-Engaged School\|研究参与学校]]（Godfrey & Brown, 2019）、澳大利亚研究型教师职业体系并列为推动研究-实践联结的国际代表机制；在 QURE 框架中，RPP 不仅被界定为学校组织的基础架构（建立外部研究伙伴联结）与个体关系使能条件，更被作为构建复杂宏观证据生态系统的中枢网络（Boaz & Nutley, 2019; Farley-Ripple et al., 2018），推动其核心关注从“建立合作机制”向“深化适切证据与审慎实施的使用质量”升级。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 134, 143–144)]]
 
@@ -244,7 +245,7 @@ updated: 2026-09-22
 > | **时间周期** | 追求即时性、应对日常行政与教学紧迫节点 | 追求严谨论证、长期数据追踪与同行评议周期 |
 > | **成果形式** | 教学设计、操作指南、教案工具与校本改进方案 | 英文同行评议期刊论文、学术专著、实验评估报告 |
 > | **考核激励** | 满足[[School Inspection\|学校督导]]问责、学生学业表现与同行认可 | 满足学术职称评审、科研基金资助与学科排名要求 |
-> | **话语空间** | 扎根学校日常语言与情境直觉 | 依附学科专业术语与统计建模规程 |
+> | **[[Discourse\|话语]]空间** | 扎根学校日常语言与情境直觉 | 依附学科专业术语与统计建模规程 |
 
 > [!debates] 学术争议
 >
@@ -287,7 +288,7 @@ updated: 2026-09-22
 > TLRP（2000–2011）是英国历时最长、规模最大的教育研究资助计划之一。该计划明确确立了四大战略支柱：用户参与（User Engagement）、伙伴关系可持续性（Partnerships for Sustainability）、联合[[Knowledge Production\|知识生成]]（Knowledge Generation by Project Teams）以及专业能力建设（Capacity Building）。它系统探索了高校研究人员如何深入中小学及职业教育现场共同设计课题，成为现代[[Evidence Ecosystem\|证据生态系统]]中大学-学校伙伴关系的奠基性范例。（OECD, 2007；引于 [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 20]]）
 
 > [!case] 案例四：瑞典发展、学习与研究国家级科研-实践合作试点项目（[[Swedish ULF Project\|Utveckling, Lärande, Forskning]], ULF）
-> 瑞典中央政府于 2017–2021 年正式委托开展 ULF 试点项目，后经政府决定延长至 2024 年作为过渡期，目标是确立为永久性国家法定制度。该项目覆盖瑞典全国拥有教师教育资格的全部 25 所大学、150 多个市镇教育局以及数以千计的中小学教师。其核心制度创新在于：打破大学单向立项垄断，赋予学校教师直接发起科研课题的法定权利；构建兼具理论反思与教学敏感性的[[Third Space Discourse\|第三空间话语]]（third space discourse）；并在常态化小型工作坊中理清角色定位，让教师担任决策与议题把关专家，学者负责研究设计，各守其位以维系科学严谨性。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–220, 224–225)]]
+> 瑞典中央政府于 2017–2021 年正式委托开展 ULF 试点项目，后经政府决定延长至 2024 年作为过渡期，目标是确立为永久性国家法定制度。该项目覆盖瑞典全国拥有教师教育资格的全部 25 所大学、150 多个市镇教育局以及数以千计的中小学教师。其核心制度创新在于：打破大学单向立项垄断，赋予学校教师直接发起科研课题的法定权利；构建兼具理论反思与教学敏感性的[[Third Space Discourse\|第三空间话语]]（third space [[Discourse]]）；并在常态化小型工作坊中理清角色定位，让教师担任决策与议题把关专家，学者负责研究设计，各守其位以维系科学严谨性。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–220, 224–225)]]
 
 > [!case] 案例五：匈牙利赫约凯赖斯图尔小学大学-学校深度组织共创（[[Complex Instruction Programme\|CIP]] 推广）
 > 匈牙利一所处于经济萧条与罗姆族聚居区的薄弱小学，在经历 2008 年外来工时调研（无反馈、高负担的单向采掘）失败后，转向与综合性大学建立深度共创伙伴关系。双方围绕评估组织运转、考察教职工动机、测绘管理效能三大支柱系统诊断，成功将斯坦福大学复合教学计划（CIP）[[Going Native\|本土化]]。学校依托 2013 教师生涯阶梯，由专职名师主抓校内日常教学转化，由享有带薪科研时间的研究型教师主抓大学对接与跨校辐射，最终将 CIP 模式辐射推广至全匈牙利近 200 所中小学校。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 213–216, 219–220)]]

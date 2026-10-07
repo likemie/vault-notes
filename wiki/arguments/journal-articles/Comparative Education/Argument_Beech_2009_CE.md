@@ -18,6 +18,7 @@ tags:
   - region/global
   - region/latin-america
 related_concepts:
+  - "[[Discourse]]"
   - "[[Encyclopaedism]]"
   - "[[Educated Identity]]"
   - "[[Global Policy Space]]"
@@ -82,7 +83,7 @@ title: "Argument_Beech_2009_CE"
 argument_key: "Argument_Beech_2009_CE"
 argument_display_title: "Policy spaces, mobile discourses, and the definition of educated identities"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -97,7 +98,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 同一个教育理念，比如培养学生的能力或尊重多样性，出现在 [[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，[[OECD]]）的报告里、巴西的国家课程文件里、布宜诺斯艾利斯郊区教师的日常话语里，但它们的含义是相同的吗？如果不是，是什么机制导致了意义的变化？这些变化又产生了怎样的实际后果？
+> 同一个教育理念，比如培养学生的能力或尊重多样性，出现在 [[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，[[OECD]]）的报告里、巴西的国家课程文件里、布宜诺斯艾利斯郊区教师的日常[[Discourse|话语]]里，但它们的含义是相同的吗？如果不是，是什么机制导致了意义的变化？这些变化又产生了怎样的实际后果？
 
 比较教育长期关注一个核心问题：当教育思想从一个地方传播到另一个地方时，它发生了什么变化？传统的回答诉诸文化、政治制度、经济环境等语境因素来解释这种变化。例如法国[[Encyclopaedism|百科全书主义]]在阿根廷和巴西被作出了不同的解读，形成了各自特定的[[Educated Identity|受教育身份]]定义(Hans, 1958, 引自 pp.347–348)。
 
@@ -120,7 +121,7 @@ issuing_organization: ""
 
 ## 理论框架
 
-为了重建空间分析的基础，本文从对比较教育中[[Methodological Nationalism|方法论民族主义]]的批判出发，调用了三个核心理论资源，共同回答如果不再把国家当作空间分析的默认单位，教育话语的流通应该如何在空间维度上被理解：
+为了重建空间分析的基础，本文从对比较教育中[[Methodological Nationalism|方法论民族主义]]的批判出发，调用了三个核心理论资源，共同回答如果不再把国家当作空间分析的默认单位，教育[[Discourse|话语]]的流通应该如何在空间维度上被理解：
 
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
@@ -221,7 +222,7 @@ Castells 据此区分了两种空间逻辑：
 > | **访谈样本** | 阿根廷和巴西的若干教师教育者（Teacher Educators），这群人直接负责培养未来的中小学教师(p.358)。 |
 > | **经验案例** | [[Bolivian Education Reform 1994\|玻利维亚1994年教育改革]]、阿根廷跨文化双语教育项目、布宜诺斯艾利斯郊区（棚户区与富人区毗邻）的学校实践环境(pp.359–361)。 |
 
-为了具体展示同一套话语在三个空间层面中的逐层转化，本文选择两个概念作为贯穿全文的追踪线索：
+为了具体展示同一套[[Discourse|话语]]在三个空间层面中的逐层转化，本文选择两个概念作为贯穿全文的追踪线索：
 
 > [!line-a] 追踪线索一：能力发展（Development of Competencies）
 > 主张学校知识的价值应以学生能够用知识做什么来衡量，而非以记住了多少事实知识来定义。该概念源自企业管理和职业培训，与[[Post-Fordism|后福特主义]]劳动组织对高素养工人的新需求相关(De Ketele, 2008, 引自 pp.353–354)。
@@ -249,7 +250,7 @@ Castells 据此区分了两种空间逻辑：
 >     style E fill:#fef3c7,stroke:#d97706,stroke-width:2px
 > ```
 
-> [!chain-link] 话语流通的逐层转化链
+> [!chain-link] [[Discourse|话语]]流通的逐层转化链
 > - **第一步：[[Global Policy Space\|全球政策空间]]的网络话语生产**
 >   多中心网络在[[Performativity\|操演性]]驱动下，将具体历史经验剥离，生产出兼具稳定性和可塑性的[[Floating Signifier\|漂浮能指]]。
 > - **第二步：国家层面的选择性具体化与并置**
@@ -448,7 +449,7 @@ Castells 据此区分了两种空间逻辑：
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **[[Space of Flows and Space of Places\|流动空间]]塑造话语机制** 全球教育网络受网络逻辑与[[Performativity\|操演性]]驱动，为了获取最大的接受度，强制生产出脱离历史经验的、可塑且相对稳定的“[[Floating Signifier\|漂浮能指]]”话语。(pp.350–353)
+> 1. **[[Space of Flows and Space of Places\|流动空间]]塑造[[Discourse|话语]]机制** 全球教育网络受网络逻辑与[[Performativity\|操演性]]驱动，为了获取最大的接受度，强制生产出脱离历史经验的、可塑且相对稳定的“[[Floating Signifier\|漂浮能指]]”话语。(pp.350–353)
 > 2. **国家层面具体化并置** 国家在翻译全球话语时，因网络国家特征和[[Governance by Spin\|舆论操控]]需要，在政策文件中并置“革新”与“保守”的矛盾声明（如巴西课程中的跨学科与14门独立学科共存）。(pp.355–358)
 > 3. **实践中不一致化为障碍** 在具体学校实践中，政策文本层面的矛盾转变为实际行动障碍，实践者面临教学行动的“一致性要求”，被迫为模糊字眼分配明确的定义。(pp.358–359)
 > 4. **微观[[Transfer Translation Transformation\|转译]]的物质约束** 全球话语的[[Going Native\|本土化]][[Shape-Shifting\|形变]]受制于既有认知框架（如用行为目标[[Absorptive Capacity\|吸收能力]]）以及所处领土的物质现实（如布宜诺斯艾利斯郊区的“尊重多样性”转译为对贫困的默许）。(pp.358–361)
@@ -462,7 +463,7 @@ Castells 据此区分了两种空间逻辑：
 >
 > *“It is these networks that constitute what I shall call a 'global policy space'. By this I refer to a space in which a variety of actors who are not tied to a single national space interact, exchange information and establish partnerships to define what they perceive to be common educational problems and propose global solutions.”*
 
-> [!citation-card]- 全球话语的策略性设计
+> [!citation-card]- 全球[[Discourse|话语]]的策略性设计
 > 在全球教育政策空间中生产和再生产的话语需要精细的设计，以便在倡导这些话语时，能够让不同意识形态的组织开展合作。此外，这些话语通常结合了不兼容的陈述，以寻求在不同文化、意识形态、社会经济和政治脉络中的可接受性。(pp.352–353)
 >
 > *“Thus, discourse produced and reproduced in the global policy space of education requires a sophisticated elaboration that would allow for collaboration between organisations with different ideologies in its advocacy. In addition, these discourses often combine incongruent statements in the search for acceptability in different cultural, ideological, socio-economic and political contexts.”*
@@ -487,7 +488,7 @@ Castells 据此区分了两种空间逻辑：
 ## 自述局限
 
 > [!warning] 自述局限
-> 本文明确承认分析范围的局限(pp.348, 355, 361)。三个语境之间并非只有全球→国家→实践这一条流通路径：存在不经过国家的全球学校网络直接交换信息，也存在对某些全球影响几乎完全不渗透的国家。文中的命题是探索性的（exploratory propositions），仅勾勒了一种特定的、在当代最具典型性的流通路径，并未试图构建关于三个语境互动的完备理论。此外，不同行动者类型（国际机构、企业、区域组织和大学）各自有其组织逻辑影响话语类型，本文强调的是[[Global Policy Space\|全球政策空间]]作为整体的结构属性作为一个额外但重要的解释因素，并未否认行动者逻辑的差异性。
+> 本文明确承认分析范围的局限(pp.348, 355, 361)。三个语境之间并非只有全球→国家→实践这一条流通路径：存在不经过国家的全球学校网络直接交换信息，也存在对某些全球影响几乎完全不渗透的国家。文中的命题是探索性的（exploratory propositions），仅勾勒了一种特定的、在当代最具典型性的流通路径，并未试图构建关于三个语境互动的完备理论。此外，不同行动者类型（国际机构、企业、区域组织和大学）各自有其组织逻辑影响[[Discourse|话语]]类型，本文强调的是[[Global Policy Space\|全球政策空间]]作为整体的结构属性作为一个额外但重要的解释因素，并未否认行动者逻辑的差异性。
 
 ---
 

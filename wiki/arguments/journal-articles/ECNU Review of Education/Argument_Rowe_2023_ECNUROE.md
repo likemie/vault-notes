@@ -7,7 +7,7 @@ title: "Argument_Rowe_2023_ECNUROE"
 argument_key: "Argument_Rowe_2023_ECNUROE"
 argument_display_title: "Philanthrocapitalism and the state: Mapping the rise of venture philanthropy in public education in Australia"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Institutional Review Board]]"
   - "[[Return on Investment]]"
   - "[[Catalytic Philanthropy]]"
+  - "[[Discourse]]"
   - "[[Consultocracy]]"
   - "[[Social Impact Investing]]"
   - "[[Boundary Spanner]]"
@@ -186,7 +187,7 @@ updated: 2026-09-20
 > - **跨国基金会的战略渗透与政治造势** 比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]（Bill & Melinda Gates Foundation）开创的证据导向[[Catalytic Philanthropy\|催化慈善]]模式成为全球范本；在推进特许学校的政策运动中，盖茨基金会的资金占据了倡导联盟总预算的近 80%（Fontdevila et al., 2021）；雷克豪（Sarah Reckhow, 2013）指出，在总统大选后，全美教育界领袖并非齐聚华盛顿聆听总统施政演讲，而是齐聚西雅图聆听盖茨夫妇宣讲基金会的教育优先议程。
 > - **董事会进步主义者的权力集中** 这一网络被金融家与企业顾问牢牢把控，雷克豪（Sarah Reckhow）将其形象地称作董事会进步主义者（boardroom progressives）；非民选的商业巨头在不承担任何民主问责的条件下，深度掌控了国家教育改革议程的制定权。（p. 521）
 
-跨国资本的治理雄心与金融化话语，直接驱动了全澳范围内以 [[Social Ventures Australia|SVA]] 为核心的[[Policy Network|政策网络]]拓扑构建。
+跨国资本的治理雄心与金融化[[Discourse|话语]]，直接驱动了全澳范围内以 [[Social Ventures Australia|SVA]] 为核心的[[Policy Network|政策网络]]拓扑构建。
 
 > [!figure]- 图1：[[Social Ventures Australia\|SVA]] 及其广泛的资助者、合作伙伴与捐助者[[Policy Network\|政策网络]]拓扑
 > ![](https://img.mylikemie.icu/sources/Rowe_2023_ECNUROE/figures/Rowe_2023_ECNUROE_Fig1_SVA_Expansive_Network.jpg)

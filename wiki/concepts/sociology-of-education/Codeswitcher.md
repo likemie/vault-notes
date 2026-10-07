@@ -9,7 +9,7 @@ aliases:
 summary: "Bishop兄弟描述的美国学校中在同伴面前遵守try but not too hard规范、私下努力学习的双重行为策略"
 type: concept
 domain: "sociology-of-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
   - theme/self-presentation
 related_concepts:
   - "[[Nerd]]"
+  - "[[Discourse]]"
   - "[[Homework]]"
   - "[[Academic Achievement]]"
   - "[[Avatar]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-08-20
+updated: 2026-10-07
 ---
 
 # Codeswitcher
@@ -60,7 +61,7 @@ updated: 2026-08-20
 - 声称自己"没怎么学习""随便考考"
 - 避免在同伴面前显示对学术学习的兴趣
 - 隐瞒自己的真实成绩
-- 附和"努力没什么用"的同伴话语
+- 附和"努力没什么用"的同伴[[Discourse|话语]]
 
 **私下行为（backstage）** 在家庭和独处时——
 - 按部就班地完成[[Homework|作业]]和复习

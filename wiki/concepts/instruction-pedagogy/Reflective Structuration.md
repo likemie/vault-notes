@@ -10,7 +10,7 @@ aliases:
 summary: "学习科学与知识建构领域的核心机制，指探究共同体成员在教师支持下，随着集体探究推进，基于对突现进展与认知缺口的反思监控，历时性地协同建构与重塑共享探究方向、弹性组织架构与认识规范的动态过程"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Epistemic Agency]]"
   - "[[Scaffolding]]"
+  - "[[Discourse]]"
   - "[[Discovery Learning]]"
   - "[[Metacognition]]"
   - "[[Opportunistic Collaboration]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-09-23
+updated: 2026-10-07
 ---
 
 # Reflective Structuration
@@ -76,7 +77,7 @@ updated: 2026-09-23
 > - **边界** 反思性结构化不是全盘抛弃教师指导与课程标准的绝对虚无主义，而是在教师提供宏观情境锚定与促学[[Scaffolding|脚手架]]的前提下，将具体的探究方向界定权与分组重组权实质性移交给学生共同体。
 
 > [!citation-card] 反思性结构化的理论界定与四维内涵
-> 反思性结构化被定义为一个反思性且突现的过程，知识共同体成员据此随着时间推移共同构建共享的探究结构，以塑造和重塑他们用于[[Knowledge Building Theory|知识建构]]的协作努力。该机制整合了四维共享探究结构：① 认识框架（Epistemic Framing）即共同体应探索什么与追求什么；② 社会构型（Social Configurations）即谁以何种角色与谁建立联系并协作；③ 实践框架（Pragmatic Framing）即共同体应如何开展探究、协作与话语交流；④ 价值与原则（Values and Principles）即用于证明共同体为何采取特定运作方式的正当性辩护。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 893–894)]]
+> 反思性结构化被定义为一个反思性且突现的过程，知识共同体成员据此随着时间推移共同构建共享的探究结构，以塑造和重塑他们用于[[Knowledge Building Theory|知识建构]]的协作努力。该机制整合了四维共享探究结构：① 认识框架（Epistemic Framing）即共同体应探索什么与追求什么；② 社会构型（Social Configurations）即谁以何种角色与谁建立联系并协作；③ 实践框架（Pragmatic Framing）即共同体应如何开展探究、协作与[[Discourse|话语]]交流；④ 价值与原则（Values and Principles）即用于证明共同体为何采取特定运作方式的正当性辩护。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 893–894)]]
 >
 > *We define reflective structuration as a reflective and emergent process by which members of a knowledge community coconfigure shared inquiry structures over time to shape and reshape their collaborative efforts for knowledge building. The coconstructed inquiry structures provide students with a shared framing of their unfolding inquiry practices, including (a) epistemic framing about what the community should investigate; (b) social configurations about who connects with whom; (c) pragmatic framing of how to conduct inquiry; and (d) values and principles used to justify why the community should operate in specific ways.*
 
@@ -115,7 +116,7 @@ updated: 2026-09-23
 > [!proc] [[Reflexivity|反思性]]结构化的四阶段实施循环
 > 1. **阶段一｜初始情境锚定与个体疑问激发** 教师设计[[Open-Mindedness|开放性]]体验活动，激活学生的好奇心与初始直觉，学生用便利贴记录原始疑问。
 > 2. **阶段二｜共享结构共建与弹性小组自组织** 师生在全班研讨中将零散疑问聚类为初始意向领域海报，学生依据探究兴趣与知识互补自主组建弹性小组。
-> 3. **阶段三｜协作话语深耕与结构动态重构** 学生在 KF 专属视图与面对面讨论中持续推进观点改进；面对反常数据与新机制谜题，共同体反思现有边界，自发衍生新意向领域并调整人员流转。
+> 3. **阶段三｜协作[[Discourse|话语]]深耕与结构动态重构** 学生在 KF 专属视图与面对面讨论中持续推进观点改进；面对反常数据与新机制谜题，共同体反思现有边界，自发衍生新意向领域并调整人员流转。
 > 4. **阶段四｜元认知综合与集体知识前沿提升** 小组与全班定期在 BOOK 视图中提炼综合理解，梳理未解问题与跨领域关联，为下一轮探究重组确立方向。
 
 > [!logic-map]- [[Reflexivity|反思性]]结构化的双向历时演化机制
@@ -162,7 +163,7 @@ updated: 2026-09-23
 > 阐明不断演进的意向领域图表如何引导学生超越单一器官或孤立现象，自主发起对多系统协同机制的高阶探索。
 
 > [!claim] [[Argument_Zhang_2022_SE|Zhang et al. (2022)]]
-> **意向领域演进对解释性探究的驱动** 意向领域并非僵化的分类档案盒，而是持续生长的认知地图。随着探究推进，学生通过反思现有知识边界，自发将宏观主题（如大脑系统）解构并重组为更具机制深度的子领域（如眼睛成像、神经传导与反射弧），并在各领域总结中主动提出跨领域综合问题，促使课堂话语从孤立的事实罗列稳步转向对复杂因果链条的系统建构。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 900–903)]]
+> **意向领域演进对解释性探究的驱动** 意向领域并非僵化的分类档案盒，而是持续生长的认知地图。随着探究推进，学生通过反思现有知识边界，自发将宏观主题（如大脑系统）解构并重组为更具机制深度的子领域（如眼睛成像、神经传导与反射弧），并在各领域总结中主动提出跨领域综合问题，促使课堂[[Discourse|话语]]从孤立的事实罗列稳步转向对复杂因果链条的系统建构。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 900–903)]]
 
 ---
 
@@ -208,7 +209,7 @@ updated: 2026-09-23
 > > - **反思结构化倡导者（[[Argument_Zhang_2022_SE|Zhang et al., 2022]]）** 论证在教师提供的大主题框架（如人体系统）内，学生的自发深入与跨领域整合不仅能完全覆盖核心课标要求，更能达成传统灌输无法实现的深层原理理解。
 
 > [!warning] 适用局限
-> 反思性结构化要求教师具备敏锐的促学诊断素养与灵活调适教学进度的能力。若教师完全缺位或缺乏搭建元话语支架的经验，探究可能退化为低效的无序漫游。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 917–919)]]
+> 反思性结构化要求教师具备敏锐的促学诊断素养与灵活调适教学进度的能力。若教师完全缺位或缺乏搭建元[[Discourse|话语]]支架的经验，探究可能退化为低效的无序漫游。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 917–919)]]
 
 ---
 

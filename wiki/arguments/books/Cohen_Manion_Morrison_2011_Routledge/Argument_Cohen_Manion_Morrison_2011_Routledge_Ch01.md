@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 126
+argument_related_count: 127
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -58,6 +58,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Heterogeneity]]"
   - "[[Postpositivism]]"
+  - "[[Discourse]]"
   - "[[Emergence]]"
   - "[[Variable]]"
   - "[[Unit of Analysis]]"
@@ -241,7 +242,7 @@ updated: 2026-09-09
 >   - **自然主义与诠释范式进路** 人本主义心理学（[[Carl Rogers\|罗杰斯]]全人模式）与“[[Anthropomorphic Model\|人的科学]]”[[Anthropomorphic Model\|拟人化模型]]（[[Rom Harré\|Harré]] & Secord “把人当作人类来对待”）；行为分析的事件分析法（[[Ethogenic Approach\|ethogenic]] method）；教室互动案例[[Rich and Thick Description\|深描]]：“草莓事件”与 [[Flanders Interaction Analysis Categories\|FIAC]] 机械分类 7-4-9-10 的破产（复刻 Box 1.5）；自然主义与质性探究的 11 项核心特征（含[[Thomas Theorem\|托马斯定理]]情境定义）；Douglas [[Normative Paradigm\|规范范式]]（行为/过去因果/宏大理性大厦）vs 诠释范式（行动/未来意向/[[Grounded Theory\|扎根理论]]与多面图像）；三大质性传统（胡塞尔[[Epoché\|悬置]]与舒茨意识流、[[Reflexivity\|反思性]]、[[Typification\|类型化]]及多重实在；加芬克尔日常推理质疑、[[Indexicality\|索引性]]与反思性、语言 vs 情境两流派；米德/布卢默/[[Peter Woods\|伍兹]]三大公理与五大互动焦点）；诠释范式的四重学术批判（Rex 虚假意识与客观视角、Bernstein 权力不对称与结构忽视、微观封闭与活动剧场局限、主观报告不可靠与自证预言）。
 >   - **[[Mixed Methods Research\|混合方法研究]]：第三次方法论运动** 超越“非 0 即 1”二元对立，从范式战争走向方法论务实主义；[[Pragmatic Paradigm\|实用主义]]哲学基础（实践驱动与“有效即真理”）；Johnson et al. 19 种定义谱系与九大合法化类型；Teddlie & Tashakkori 六大领域与七维度；Greene 四大领域；Caracelli & Greene 四大数据整合策略（[[Data Transformation\|数据转换]]、类型学发展、极端案例分析、数据合并）；“学校像监狱”的 100 人[[Heterogeneity\|异质性]]理由范例；六类设计类型学（平行、顺序、准混合、转换、多层、完全整合）；九大核心操作决策维度；关于混合方法是否构成“独立新范式”的论辩与审慎结论。
 > - **后现代转向与新兴前沿（第8–9节）**
->   - **[[Postpositivism\|后实证主义]]、[[Postmodernism\|后现代主义]]与[[Post-structuralism\|后结构主义]]** 现代主义“钟表宇宙观”的解体；后实证主义的可错论、理论负载与多元理据；Fredric Jameson 后现代主义 11 项核心特征全景解析；后结构主义 Foucault/Derrida 话语实践、去中心化主体与意义解构；三者的哲学亲缘谱系与方法论共振。
+>   - **[[Postpositivism\|后实证主义]]、[[Postmodernism\|后现代主义]]与[[Post-structuralism\|后结构主义]]** 现代主义“钟表宇宙观”的解体；后实证主义的可错论、理论负载与多元理据；Fredric Jameson 后现代主义 11 项核心特征全景解析；后结构主义 Foucault/Derrida [[Discourse|话语]]实践、去中心化主体与意义解构；三者的哲学亲缘谱系与方法论共振。
 >   - **[[Complexity Theory\|复杂性理论]]：新兴范式** 学校作为复杂适应系统；五大核心机制：正负反馈、连接性（雨林生态循环隐喻 vs 学校生态网络）、[[Emergence\|涌现]]性、自组织（Kauffman“秩序是免费的，它取代了控制”）、自组织临界性与转折点；彻底颠覆[[Randomised Controlled Trials\|随机对照试验]]（RCT）“黄金标准”：开放情境中“保持[[Variable\|变量]]恒常是误导性的，所测量的只是历史”；[[Unit of Analysis\|分析单位]]革命：从孤立变量转向生态网络与奇异吸引子；复杂性方法论重构：[[Case Study\|案例研究]]、生活叙事、[[Action Research\|行动研究]]与[[Teacher-as-Researcher\|教师即研究者]]运动；Sarah Kuhn 复杂性研究五大公理。
 
 ---
@@ -967,7 +968,7 @@ updated: 2026-09-09
 > *When the question of truth is raised in an objective manner, reflection is directed objectively to the truth as an object to which the knower is related. Reflection is not focused on the relationship, however, but upon the question of whether it is the truth to which the knower is related. If only the object to which he is related is the truth, the subject is accounted to be in the truth. When the question of truth is raised subjectively, reflection is directed subjectively to the nature of the individual’s relationship; if only the mode of this relationship is in the truth, the individual is in the truth, even if he should happen to be thus related to what is not true.*
 
 > [!citation-card] Walker & Adelman 论课堂互动分析的[[Indexicality\|索引性]]情境
-> 课堂互动中的话语意义深嵌于特定组织背景与历时性互动关系中。单纯依据预设行为[[Coding in Qualitative Research\|编码]]系统记录下的互动序列，无论[[Reliability\|信度]]与效度多么严密，都无法解释行动者之间共享的幽默与默会理解。唯有理解师生随时间演进的意义共同体，方能把握社会情境的真实成就。（pp. 459–484）
+> 课堂互动中的[[Discourse|话语]]意义深嵌于特定组织背景与历时性互动关系中。单纯依据预设行为[[Coding in Qualitative Research\|编码]]系统记录下的互动序列，无论[[Reliability\|信度]]与效度多么严密，都无法解释行动者之间共享的幽默与默会理解。唯有理解师生随时间演进的意义共同体，方能把握社会情境的真实成就。（pp. 459–484）
 >
 > *Such a string of codings, however reliable and valid, would not help anyone to understand why such an interruption was funny. Human curiosity makes us want to know why everyone laughs – and so, I would argue, the social scientist needs to know too... Here a casual comment made in the past has become an integral part of the shared meaning system of the class. It can only be comprehended by seeing the relationship as developing over time.*
 

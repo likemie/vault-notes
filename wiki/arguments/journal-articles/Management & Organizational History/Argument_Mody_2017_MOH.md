@@ -25,6 +25,7 @@ related_concepts:
   - "[[Membership-based Research Consortium]]"
   - "[[Technology Transfer]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Discourse]]"
   - "[[Knowledge Transfer]]"
   - "[[Academic Freedom]]"
   - "[[University-Based Research Center]]"
@@ -69,7 +70,7 @@ title: "Argument_Mody_2017_MOH"
 argument_key: "Argument_Mody_2017_MOH"
 argument_display_title: "Academic centers and/as industrial consortia in American microelectronics research"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -182,7 +183,7 @@ issuing_organization: ""
 > | **专利与市场保护** | 快速迭代且全行业交叉许可，单一企业难以长期独占工艺优势 | 依靠单一化合物或特定序列专利获得长效排他垄断 |
 > | **主要组织形态** | **大型持久的多边产学联合体与大学中心网络**（数十家企业共同出资） | **微观商业初创公司（Start-ups）与双边/三边短期项目联盟** |
 > | **长周期研发依托** | 依赖外部公共平台或行业联合体汇集资金以分摊前瞻性风险 | 依赖风险投资注资与制药巨头收购或阶段性许可 |
-> | **危机动员话语** | **地缘竞争危机（应对日本 VLSI 计划激发的挽救本国产业意识）** | 基础科学商业化转化与新药创制期望 |
+> | **危机动员[[Discourse\|话语]]** | **地缘竞争危机（应对日本 VLSI 计划激发的挽救本国产业意识）** | 基础科学商业化转化与新药创制期望 |
 
 > [!concept-lens] 微电子领域学术制度创业的独特性透镜
 > - **含义** 学术制度创业在此并非指科学家个人创办衍生企业（衍生企业（Spin-offs）），而是大学教授与学术管理者主动构建跨组织平台、设立通用洁净室规则并动员多元主体的制度化行动。（pp.285–286）

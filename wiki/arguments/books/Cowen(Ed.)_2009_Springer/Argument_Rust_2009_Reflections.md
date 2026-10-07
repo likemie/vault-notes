@@ -7,7 +7,7 @@ title: "Argument_Rust_2009_Reflections"
 argument_key: "Argument_Rust_2009_Reflections"
 argument_display_title: "Reflections on the Development of Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 120
+argument_related_count: 122
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -37,6 +37,7 @@ tags:
 sources:
   - "[[books/Cowen(Ed.)_2009_Springer/Ch09_Rust_Johnstone_Allaf_2009|Ch09_Rust_Johnstone_Allaf_2009]]"
 related_concepts:
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Influences Across Cultures]]"
   - "[[Theoretical Perspective]]"
@@ -71,6 +72,7 @@ related_concepts:
   - "[[Structural Coupling]]"
   - "[[Rationalized Myth]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Hidden Curriculum]]"
   - "[[Champ]]"
   - "[[Epoché]]"
   - "[[Ontology]]"
@@ -173,7 +175,7 @@ updated: 2026-10-01
 ## 研究问题
 
 > [!question]
-> 比较教育学自近代以来的学科演进呈现何种形态？学术史叙事如何因书写者的预设立场而发生偏颇？战后学科在追求实证科学化过程中，为何贬低了十九世纪大学建制化之前的跨文化考察遗产？从 1950 年代[[Structural Functionalism|结构功能主义]]一统天下走向当代多元争鸣，究竟标志着学科陷入碎片化解体，还是展现了理论成熟的[[Pluralism|多元主义]]？在全球化纵深推进与不对等跨国权力格局下，比较教育学如何超越西方资本主义现代性话语，重构关照弱势群体并推动全球正义的解放[[Paradigm|范式]]？（pp.121–123, 131–135）
+> 比较教育学自近代以来的学科演进呈现何种形态？学术史叙事如何因书写者的预设立场而发生偏颇？战后学科在追求实证科学化过程中，为何贬低了十九世纪大学建制化之前的跨文化考察遗产？从 1950 年代[[Structural Functionalism|结构功能主义]]一统天下走向当代多元争鸣，究竟标志着学科陷入碎片化解体，还是展现了理论成熟的[[Pluralism|多元主义]]？在全球化纵深推进与不对等跨国权力格局下，比较教育学如何超越西方资本主义现代性[[Discourse|话语]]，重构关照弱势群体并推动全球正义的解放[[Paradigm|范式]]？（pp.121–123, 131–135）
 
 > [!claim] 核心主张
 > 比较教育学拥有贯通古今的连续性学术传统，十九世纪以来的[[Influences Across Cultures|跨文化影响]]考证构成了比肩比较文学的坚实学术根基；战后结构功能主义教条的衰落不仅未导致学科瓦解，反而催生了涵盖 26 种[[Theoretical Perspective|理论视角]]的健康多元主义；面对全球化冲击，学科必须彻底打破将教育等同于资本主义现代性的狭隘偏见，将分析视野从单向度的自愿[[Policy Borrowing|政策借用]]扩展至涵盖接受、抵制、恢复与强制再生产的四维批判分析模型，重归以人类福祉与文化自决为核心的人道主义使命。（pp.123–126, 131–135）
@@ -446,7 +448,7 @@ updated: 2026-10-01
 > | 序号 | 理论范式（中英文对照） | 认识论谱系集群 | 核心关切与分析视阈 | 学科演进定位与理论功能 |
 > | :---: | :--- | :--- | :--- | :--- |
 > | **01** | 结构功能主义<br>*(Structural Functionalism)* | 实证与功能主义集群 | 社会整合、系统均衡、角色分工、制度适应 | 1950–1960 年代冷战期学科的主导霸权正统，预设教育在社会有机体中的顺向稳定功能 |
-> | **02** | 现代化理论<br>*(Modernization Theory)* | 实证与功能主义集群 | 传统向现代线性演进、西方制度扩散、发展阶段 | 战后西方对外教育援助与政策输出的核心话语，将后发国家教育落后归咎于内部技术缺失 |
+> | **02** | 现代化理论<br>*(Modernization Theory)* | 实证与功能主义集群 | 传统向现代线性演进、西方制度扩散、发展阶段 | 战后西方对外教育援助与政策输出的核心[[Discourse\|话语]]，将后发国家教育落后归咎于内部技术缺失 |
 > | **03** | [[Human Capital Theory\|人力资本理论]]<br>*(Human Capital Theory)* | 实证与功能主义集群 | 教育收益率、技能人力储备、生产率与经济增长 | 将教育开支重新定性为高回报生产性投资，成为二战后国家教育规划与国际组织放贷的计量支柱 |
 > | **04** | 系统论<br>*(Systems Theory)* | 实证与功能主义集群 | 输入—转换—产出—反馈模型、系统边界与环境 | 借鉴控制论与工程系统模型，宏观分析国民教育子系统与外部政治经济环境的[[Structural Coupling\|结构耦合]] |
 > | **05** | 理性选择理论<br>*(Rational Choice Theory)* | 实证与功能主义集群 | 效用最大化行动者、博弈均衡、成本收益核算 | 解构微观家长、师生与行政官僚在教育准入、学业分流与资源竞争中的策略博弈 |
@@ -457,7 +459,7 @@ updated: 2026-10-01
 > | **10** | [[World-Systems Theory\|世界体系分析]]<br>*(World-Systems Analysis)* | 马克思主义与批判经济学 | 核心—半边缘—边缘全球劳动分工、跨国依附网络 | 将教育援助与借用置于 500 年现代世界体系演进中，揭示多边金融机构与核心大国的霸权[[Disciplina and Doctrina\|规训]] |
 > | **11** | [[Critical Theory\|批判理论]]<br>*(Critical Theory)* | 马克思主义与批判经济学 | 意识形态批判、启蒙反思、工具理性解构、大众解放 | 剥除技术官僚与实证量化的中立伪装，使比较研究重新回归关照社会公平与人类解放的向度 |
 > | **12** | 新殖民主义理论<br>*(Neo-colonialism)* | 马克思主义与批判经济学 | 隐性文化帝国主义、学术依附、中心话语垄断 | 揭示领土殖民瓦解后，核心大都市科研中心与跨国出版垄断对全球南方学术主权的隐性支配 |
-> | **13** | 阻力与抗争理论<br>*(Resistance Theory)* | 马克思主义与批判经济学 | 微观主体能动性、隐蔽课程拒斥、校园反抗文化 | 援引 Giroux (1983) 理论，揭示底层师生并非被动接受霸权强加，始终在学校[[Champ\|场域]]开展能动反抗 |
+> | **13** | 阻力与抗争理论<br>*(Resistance Theory)* | 马克思主义与批判经济学 | 微观主体能动性、[[Hidden Curriculum\|隐蔽课程]]拒斥、校园反抗文化 | 援引 Giroux (1983) 理论，揭示底层师生并非被动接受霸权强加，始终在学校[[Champ\|场域]]开展能动反抗 |
 > | **14** | [[Critical Pedagogy\|解放教育学]]<br>*(Liberation Pedagogy)* | 马克思主义与批判经济学 | 受压迫者赋权、对话式教学、批判意识化 | 援引 Freire (1998) 思想，探讨全球南方摆脱跨国新自由主义依附、立足人道主义动员的实践路径 |
 > | **15** | [[Phenomenology\|现象学]]<br>*(Phenomenology)* | 解释主义与微观社会互动 | 意识意向性、生活世界、[[Epoché\|悬置]]前设、本质直观 | 深入考察行动者在日常教育遭遇中的直接主观感知，拒绝将主体简化为被动的宏观统计指标 |
 > | **16** | [[Symbolic Interactionism\|符号互动论]]<br>*(Symbolic Interactionism)* | 解释主义与微观社会互动 | 符号媒介、[[Thomas Theorem\|情境定义]]、自我镜映、互动标签 | 聚焦学校内部日常面对面互动，分析越轨标签、师生角色博弈及微观文化意义的动态生成 |

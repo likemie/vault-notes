@@ -8,7 +8,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
   - national-education
   - region/hong-kong
 related_concepts:
+  - "[[Discourse]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Psychologisation]]"
   - "[[Critical Thinking Disposition]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # My Pledge to Act
@@ -52,7 +53,7 @@ updated: 2026-09-22
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 香港教育局（EDB）于2019年8月开学前首次大张旗鼓推行（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.153]]）。
 > - **适用对象 / 范围** 香港所有幼稚园、小学和中学的全体学生。
-> - **问题背景** 2019年[[2019 Hong Kong Protests\|反修例运动]]爆发，大批中学生参与街头示威，教育局及港府认为青年群体普遍出现情绪偏激和价值偏离。为此引入正向心理学与“感恩教育”话语作为行为[[Disciplina and Doctrina\|规训]]手段。
+> - **问题背景** 2019年[[2019 Hong Kong Protests\|反修例运动]]爆发，大批中学生参与街头示威，教育局及港府认为青年群体普遍出现情绪偏激和价值偏离。为此引入正向心理学与“感恩教育”[[Discourse|话语]]作为行为[[Disciplina and Doctrina\|规训]]手段。
 > - **制度位置** 后《国安法》时代教育去政治化改造的课外情感抓手，与课内《[[Citizenship and Social Development\|公民与社会发展科]]》及课外《[[Youth Development Blueprint\|青年发展蓝图]]》共同构建起针对青年群体的三层协同控制体系（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.153–154]]）。
 
 ---
@@ -100,7 +101,7 @@ updated: 2026-09-22
 > - **态度改变成效** 在表面上消灭了校内的政治性集体抗议，但导致学生在内心产生更深层的伪装与犬儒主义。
 
 > [!finding-cards] 效果与评价
-> - **内地“感恩教育”话语的移植** 该计划实质上共享了中国内地威权主义下“感恩教育”的本质——通过灌输对家长和政治建制的绝对服从，消除青年寻求政治参与的能动性（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.153]]）。
+> - **内地“感恩教育”[[Discourse|话语]]的移植** 该计划实质上共享了中国内地威权主义下“感恩教育”的本质——通过灌输对家长和政治建制的绝对服从，消除青年寻求政治参与的能动性（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.153]]）。
 > - **体制问责的彻底消解** 将结构性的民生困难、地缘冲突与学习重压，转化为学生个人的心理弹性（resilience）和心态管理问题。
 > - **学生表演性顺从的加剧** 强制性的“快乐”和“感恩”要求无法促成实质性的情感认同，反而加剧了师生在体制面前的表演性行为，造成“表面感恩、内心疏离”的撕裂状态（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, pp. 490–491]]）。
 

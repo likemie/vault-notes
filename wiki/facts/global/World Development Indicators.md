@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Return on Investment]]"
   - "[[Commensuration]]"
+  - "[[Discourse]]"
   - "[[Grade Retention]]"
   - "[[Document]]"
   - "[[Operationalization]]"
@@ -81,7 +82,7 @@ updated: 2026-10-07
 ## 方案设计与运行机制
 
 > [!claim] 核心机制假说
-> WDI 的核心机制在于将不可[[Commensuration\|通约]]的全球发展差异浓缩为可跨国直接比较的数字指标，以此为[[World Bank\|世界银行]]构建政策处方提供"客观科学"的数据庇护；指标数量的历史性爆炸式增长本身就是世界银行对全球教育规制话语权持续扩张的制度性证据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
+> WDI 的核心机制在于将不可[[Commensuration\|通约]]的全球发展差异浓缩为可跨国直接比较的数字指标，以此为[[World Bank\|世界银行]]构建政策处方提供"客观科学"的数据庇护；指标数量的历史性爆炸式增长本身就是世界银行对全球教育规制[[Discourse|话语]]权持续扩张的制度性证据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 > [!policy-design]- 方案设计
 > - **数据收集方式** 整合各国官方行政统计（教育部数据）、人口普查、家庭调查（如[[UNICEF\|儿童基金会]][[Multiple Indicator Cluster Surveys\|MICS]]、世行 LSMS）与国际组织专项调查，经标准化处理后汇入数据库。
@@ -100,7 +101,7 @@ updated: 2026-10-07
 > - **1978–1988 年 — 统计汇编早期积累** [[World Bank\|世界银行]]内部统计部门开始系统整合全球发展数据，主要为内部研究与放贷决策服务，[[Performance Indicators\|教育指标]]仍属于宏观发展统计的附属模块。
 > - **1989 年 — 《世界发展指标》印刷年鉴正式发布** 作为《世界发展报告》的配套统计附件出版，教育统计数据首度以结构化跨国指标集形式公开发布，包含 116 项教育相关指标，标志着世界银行正式将教育统计纳入其发展规制工具链。
 > - **1997–2004 年 — 数字化开放与全球推广** 1997 年发布 CD-ROM 版数据库；2004 年免费网络开放，为全球政府、学者和智库提供一站式教育统计比较平台，大幅降低了世界银行知识产品的获取门槛。
-> - **2010 年代 — [[Human Capital Theory\|人力资本]]指数（HCI）整合** 2018 年世界银行正式推出《人力资本指数》（Human Capital Index），将儿童早期发展、学校学习成绩（[[PISA]]/[[PIRLS]] 等）与成人健康预期寿命整合为单一可比国家排名，依赖 WDI 教育指标子集作为底层数据，进一步强化了世界银行对[[Human Capital Theory\|人力资本]]国际测量话语权的垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
+> - **2010 年代 — [[Human Capital Theory\|人力资本]]指数（HCI）整合** 2018 年世界银行正式推出《人力资本指数》（Human Capital Index），将儿童早期发展、学校学习成绩（[[PISA]]/[[PIRLS]] 等）与成人健康预期寿命整合为单一可比国家排名，依赖 WDI 教育指标子集作为底层数据，进一步强化了世界银行对[[Human Capital Theory\|人力资本]]国际测量[[Discourse|话语]]权的垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 
 ---
 

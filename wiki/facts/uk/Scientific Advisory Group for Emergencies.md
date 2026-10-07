@@ -12,9 +12,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "国家应急专家科学咨询委员会"
 headquarters: "伦敦内阁办公室（Cabinet Office, London, UK）"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Scientific Literacy]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Research Utilization]]"
   - "[[Moral Sidestep]]"
   - "[[Big Science]]"
@@ -147,7 +148,7 @@ updated: 2026-10-07
 > > [!axis] “遵循科学”修辞与政治决策推诿争议（独立科学参谋 vs 政治避雷针）
 > > 探讨执政精英如何将科学咨询作为掩盖行政迟缓与逃避民主问责的工具。
 > >
-> > - **政治推诿话语陷阱** [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022, p. 150)]]与[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|The Royal Society (2026, p. 81)]]指出，当政府官员在新闻发布会上机械重复“我们只是在遵循科学/遵循 SAGE 建议”时，实质上是将复杂的资源再分配、社会公平权衡以及伦理价值抉择等本应由政治家承担的民主问责，狡黠地转嫁给独立学者，使科学家成为政策失误的替罪羊。
+> > - **政治推诿[[Discourse|话语]]陷阱** [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022, p. 150)]]与[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|The Royal Society (2026, p. 81)]]指出，当政府官员在新闻发布会上机械重复“我们只是在遵循科学/遵循 SAGE 建议”时，实质上是将复杂的资源再分配、社会公平权衡以及伦理价值抉择等本应由政治家承担的民主问责，狡黠地转嫁给独立学者，使科学家成为政策失误的替罪羊。
 > > - **挑选性采纳（Cherry-picking）策略** 政府内阁在幕后黑箱中对科学家的审慎建言进行投机性取舍：对符合执政党短期经济考量的建议予以高调落实，而对严厉封控或弱势群体救济等高成本建议则压制延宕，违背了[[Research Utilization\|研究使用]]的科学伦理（Gough, 2020）。
 
 > [!critique] 外部学术质询与元研究反思（议会特别调查与历史反思）

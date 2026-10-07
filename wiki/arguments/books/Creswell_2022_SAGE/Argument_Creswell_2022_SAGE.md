@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 195
+argument_related_count: 196
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -83,6 +83,7 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Construct]]"
   - "[[Scale of Measurement]]"
+  - "[[Discourse]]"
   - "[[Naturalistic Generalization]]"
   - "[[Self-control]]"
   - "[[Research Purpose]]"
@@ -650,7 +651,7 @@ citation_aliases:
 
 质性研究者可用的几种主要理论立场视角：
 - **女性主义视角（Feminist perspectives）** 视女性的压迫性处境及其制度框架为问题所在(Olesen, 2000)
-- **种族化话语（Racialized discourses）** 提出谁控制[[Knowledge Production|知识生产]]的问题，尤其关注有色人种群体(Ladson-Billings, 2000)
+- **种族化[[Discourse|话语]]（Racialized discourses）** 提出谁控制[[Knowledge Production|知识生产]]的问题，尤其关注有色人种群体(Ladson-Billings, 2000)
 - **批判理论视角（Critical theory perspectives）** 赋权人类超越种族、阶级和性别约束(Fay, 1987)
 - **[[Queer Theory|酷儿理论]]（Queer theory）** 聚焦 LGBTQ2A+ 个体身份，反对客体化(Gamson, 2000)
 - **残障探究（Disability inquiry）** 从社会文化视角理解残障人群(Mertens, 2009)

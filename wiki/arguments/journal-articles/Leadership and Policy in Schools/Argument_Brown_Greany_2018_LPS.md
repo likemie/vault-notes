@@ -26,7 +26,7 @@ title: "Argument_Brown_Greany_2018_LPS"
 argument_key: "Argument_Brown_Greany_2018_LPS"
 argument_display_title: "The evidence-informed school system in England: Where should school leaders be focusing their efforts? Leadership and Policy in Schools, 17(1), 115–137"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Activity Traps]]"
   - "[[Professional Learning Community]]"
+  - "[[Discourse]]"
   - "[[Research Utilization]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Dialogue in Education]]"
@@ -113,7 +114,7 @@ updated: 2026-09-21
 
 > [!concept-lens] 阅读透镜
 > - **对象** 英格兰 79 所公立小学（包括 60 所[[Research Learning Communities\|研究学习共同体]]干预项目学校与 19 所具备精确应答率的对照学校）中 696 名教师及[[School Leadership\|学校领导]]者在干预实施前的基线横断面调查数据。（pp.126–128）
-> - **张力** 政策话语将[[Research Utilization\|研究使用]]标定为自我改进系统的核心驱动力，但微观学校层面普遍匮乏假设反思与成效评价机制；同时，外部高压问责体制持续强化总结性达标要求，与证据知情改进所必需的试错、反思与深度探究争夺学校有限的资源与注意力。（pp.121–122, 129–132）
+> - **张力** 政策[[Discourse|话语]]将[[Research Utilization\|研究使用]]标定为自我改进系统的核心驱动力，但微观学校层面普遍匮乏假设反思与成效评价机制；同时，外部高压问责体制持续强化总结性达标要求，与证据知情改进所必需的试错、反思与深度探究争夺学校有限的资源与注意力。（pp.121–122, 129–132）
 > - **贡献** 将分散在教育学、组织学习与政策学领域的规范性主张收敛为包含“能力—文化—环境—结构”的可测四因素框架，并通过大样本实证数据揭示“高意愿与低机制”的脱节特征，将学界争论从“是否应当使用证据”推进至“学校领导者与政策系统应优先在何处精准发力”。（pp.122, 126–127, 133）
 
 ---

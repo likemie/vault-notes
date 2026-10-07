@@ -7,10 +7,10 @@ summary: "法国著名哲学家、人类学家与科学社会学家，科学技�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 31
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 32
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1947"
 died: "2022"
 lifespan: 1947–2022
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Topological Spatialisation]]"
+  - "[[Discourse]]"
   - "[[Policy Network]]"
   - "[[Constructivist Paradigm]]"
 related_theories:
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Bruno Latour
@@ -142,7 +143,7 @@ updated: 2026-09-22
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 结合拉图尔的计算中心与[[Topological Spatialisation\|拓扑空间]]理论，分析德国教育质量监测[[Data Infrastructure\|数据基础设施]]如何实现跨尺度的远处治理。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 借用拉图尔互客体性与耐用材料装配理论，解构澳大利亚国家证据中介（[[Australian Education Research Organisation\|AERO]]）背后的非公立权力渗透。
 > - [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] — 运用拉图尔 [[Actor-Network Theory\|ANT]] 与非人类能动性概念，剖析阿根廷国家数字化项目中微观硬件对课堂教学秩序的直接建构。
-> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 追溯比较教育学引入拉图尔 ANT 以解构全球治理中流动话语与远处治理黑箱。
+> - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 追溯比较教育学引入拉图尔 ANT 以解构全球治理中流动[[Discourse|话语]]与远处治理黑箱。
 
 ---
 

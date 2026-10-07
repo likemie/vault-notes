@@ -9,7 +9,7 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 142
+related_count: 143
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[Epistemology]]"
   - "[[Tracking]]"
+  - "[[Discourse]]"
   - "[[Teaching Assistant]]"
   - "[[New Public Management]]"
   - "[[Knowledge Mobilisation]]"
@@ -172,7 +173,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Evidence-Based Education
@@ -312,7 +313,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022, pp. 7–8)]]：
 > - **线性模型（Linear Model）** 假设证据与政策之间存在直接连接——研究产生证据，证据直接转化为政策。这是 EBE 强版本隐含的模型，但被广泛批评为过于简化。
 > - **多流模型（Multiple Streams Model）** 政策决策受证据、经济因素和公众舆论三股力量（问题流、政策流和政治流）的同时影响，证据只是其中一股力量。
-> - **混战模型（Melee Model）** 科学证据、政治选票、经济成本和社会价值四种类型在决策过程中流动交互，政策结果是多方力量混战、权力妥协与话语斗争的产物。
+> - **混战模型（Melee Model）** 科学证据、政治选票、经济成本和社会价值四种类型在决策过程中流动交互，政策结果是多方力量混战、权力妥协与[[Discourse|话语]]斗争的产物。
 
 > [!info] 转化过程的制度障碍
 > 多项研究识别了证据到政策转化中的系统性障碍：研究对政策的影响仍然有限（[[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021]]）；商业智库的快速增长与 EBE 兴起相伴——智库可以更快产出且更符合政府既有观点（[[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022]]）。
@@ -355,7 +356,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > - **1990年代初** 起源与医学类比。Guyatt 等人提出循证医学（EBM）[[Paradigm\|范式]]，David Hargreaves 等人将教育研究与医学进行类比，开启了教育证据本位的探讨。
 > - **1998–2015年** 英美等国的强势政策与制度化建设。美国通过 [[No Child Left Behind Act 2001\|NCLB]] 立法、设立 [[What Works Clearinghouse\|WWC]]，英国建立 [[Education Endowment Foundation\|EEF]]、[[What Works Network]]，将证据与联邦/中央拨款深度绑定。
 > - **2004–2020年** 批判性[[Document\|文献]]与学术思潮的[[Emergence\|涌现]]。以 Biesta、Wiliam、Wrigley 等为代表的学者，从哲学、方法论和政治经济学多角度对 EBE 的[[Technical Rationality\|技术理性]]及统计窄化进行了系统性解构，推动了向"[[Evidence-Informed Practice\|证据知情实践]]"（EIP）等替代方案的演进。
-> - **2000s–至今** [[PISA]] 作为全球推动力。[[PISA]] 的数据驱动比较分析和循证研究范式，使"以数据为基础的政策制定"成为全球教育改革的核心话语。德国在 PISA 冲击后将循证政策制定纳入教育治理新模式，日本建立了学校管理的"证据—改进循环"（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）。
+> - **2000s–至今** [[PISA]] 作为全球推动力。[[PISA]] 的数据驱动比较分析和循证研究范式，使"以数据为基础的政策制定"成为全球教育改革的核心[[Discourse|话语]]。德国在 PISA 冲击后将循证政策制定纳入教育治理新模式，日本建立了学校管理的"证据—改进循环"（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）。
 
 ### 起源：从循证医学到教育政策信号（1992–1996）
 

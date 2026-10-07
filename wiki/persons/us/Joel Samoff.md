@@ -8,7 +8,7 @@ summary: "美国比较教育学家与非洲政治发展学者，斯坦福大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 29
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Disciplina and Doctrina]]"
   - "[[International Education]]"
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Policy Borrowing]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Joel Samoff
@@ -76,7 +77,7 @@ updated: 2026-10-01
 > - **代表贡献** 提出并命名“金融-智识复合体”（1992）；揭示国际援助机构放贷逻辑中技术官僚工具理性的铁板一块特征（1993）；与[[Martin Carnoy|马丁·卡诺伊]]合著《第三世界的教育与社会转型》（1990）。
 
 > [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论萨莫夫的金融-智识复合体分析
-> 萨莫夫极具说服力地指出，世界银行是在推进知识与专业技能跨国化进程中运作的金融-智识复合体的核心操盘手。它通过招募受雇专家智库，建立起一种研究生产与教育融资深度汇流的权力机制。世界银行在全球教育的权力网络与决策流程中占据枢纽地位，以特殊方式深刻左右着发展中国家的学术研究与政策制定，并通过多重渠道操纵着[[International Education|国际教育]]政策话语。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
+> 萨莫夫极具说服力地指出，世界银行是在推进知识与专业技能跨国化进程中运作的金融-智识复合体的核心操盘手。它通过招募受雇专家智库，建立起一种研究生产与教育融资深度汇流的权力机制。世界银行在全球教育的权力网络与决策流程中占据枢纽地位，以特殊方式深刻左右着发展中国家的学术研究与政策制定，并通过多重渠道操纵着[[International Education|国际教育]]政策[[Discourse|话语]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 >
 > *Samoff argues persuasively that the World Bank is a major player in an intellectual and financial complex pursuing the transnationalization of knowledge and expertise, using a community of experts for hire in a process where there is a strong confluence of research and educational financing. The world is seen as having a pivotal role in the network of power and decision making in education worldwide, influencing in peculiar ways research and policy-making in developing countries as well as influencing the international discourse in education by different means.*
 
@@ -115,7 +116,7 @@ updated: 2026-10-01
 >
 > *The World Bank’s logic of analysis cannot be characterized as pluralistic. Although not free from tensions and contradictions, the organization is quite monolithic (Samoff, 1992, 1993)... there is a diversity of theoretical perspectives within the ranks of the World Bank’s researchers. But he points out that the organization’s logic is implacably applied in the context of its lending and that the workings of its managers in charge of lending are distant from the theoretical and empirical analysis of its researchers.*
 
-> [!citation-card] 结构调整话语的概念模糊与政治强制
+> [!citation-card] 结构调整[[Discourse|话语]]的概念模糊与政治强制
 > 结构调整通常被描绘为世界银行、[[International Monetary Fund|国际货币基金组织]]和其他金融机构推荐的一整套广泛政策。虽然世界银行试图在宏观稳定化、结构调整与部门调整政策之间做出概念区分，但正如萨莫夫所指出的，世界银行自身也承认，在日常实践中这些关键术语的通俗使用往往是模糊且前后矛盾的，但它们作为强制贷款附加条件的刚性却从未减弱。[[Argument_Olmos_Torres_2009_StateTheories|(Samoff, 1990; Olmos & Torres, 2009, p. 80)]]
 >
 > *Although the World Bank differentiates among stabilization, [[Structural Adjustment Programs|Structural Adjustment]], and adjustment policies, it acknowledges that the general use of these terms "is often imprecise and inconsistent" (Samoff, 1990).*
@@ -131,7 +132,7 @@ updated: 2026-10-01
 
 > [!influence-path] 影响路径
 > - **理论路径** 提出的[[Financial-Intellectual Complex|金融-智识复合体]]成为国际比较教育与全球教育治理领域不可或缺的核心[[Analytic Framework|分析框架]]，为解构全球教育[[Policy Borrowing|政策借用]]与[[Disciplina and Doctrina|规训]]提供了强有力的概念武器。
-> - **方法路径** 倡导深度制度[[Ethnography|民族志]]与援助政治经济学批判，追踪资助资金流向与政策研究话语生产之间的因果链条，开创了对国际多边机构开展“[[Researching Up and Researching Down|向上研究]]”（Studying Up）的方法先河。
+> - **方法路径** 倡导深度制度[[Ethnography|民族志]]与援助政治经济学批判，追踪资助资金流向与政策研究[[Discourse|话语]]生产之间的因果链条，开创了对国际多边机构开展“[[Researching Up and Researching Down|向上研究]]”（Studying Up）的方法先河。
 > - **政策路径** 深度参与[[UNESCO|联合国教科文组织]]与非洲本土智库的政策反思，其学术成果直接推动了受援国对国际金融机构“附加条件”的合法性质疑与政策自主权争取。
 > - **转型国家政治经济学比较** 与卡诺伊合作开创对第三世界社会主义转型社会（中国、古巴、莫桑比克、坦桑尼亚）的宏观历史比较，确立国家政权与政治意志在打破依附与重塑教育体系中的主导性推动作用。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 154–155)]]
 

@@ -9,7 +9,7 @@ summary: "源自社会学的经典质性研究设计，通过理论抽样、多�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 62
+method_related_count: 63
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Externalization]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Research Question]]"
   - "[[Epoché]]"
   - "[[Rich and Thick Description]]"
@@ -91,7 +92,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-30
-updated: 2026-10-04
+updated: 2026-10-07
 ---
 
 # Grounded Theory
@@ -223,7 +224,7 @@ updated: 2026-10-04
 ---
 
 ### 大语言模型人在回路（HITL）协同前沿
-随着[[Generative Artificial Intelligence|生成式人工智能]]的演进，[[Qualitative Research|质性研究]]拓展出人机协同的智能扎根分析模式：
+随着[[Generative Artificial Intelligence|生成式人工智能]]的演进，[[Qualitative Research|质性研究]]拓展出[[Man-Computer Symbiosis|人机协同]]的智能扎根分析模式：
 - **语义初筛与隐喻启发** 大模型可辅助执行海量[[Transcription in Qualitative Research|转录]]文本的无先验语义扫描，从离散陈述中快速归纳候选主题、识别异常表达，为[[Open Coding|开放编码]]提供概念启发。
 - **[[Meaningful Human Control|人在回路]]（HITL）防线** 质性研究的[[Epistemology|认识论]]根基在于对主体真实生活体验的共情与理解，大模型不能代替人类感受田野温度。核心范畴的确立、[[Story Line|故事线]]的统摄提炼以及反常案例的经验回溯核验，必须由人类研究者牢牢掌控，并建立详尽的[[Audit Trail|审计追踪]]记录。
 

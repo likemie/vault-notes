@@ -9,7 +9,7 @@ aliases:
 summary: "批判性政策研究概念，指决策者预先确立政治意图与改革方案，再对学术研究与经验数据进行选择性筛选、重构或定制以逆向论证政策正当性的政治过程"
 type: concept
 domain: "educational-policy-reform"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemological Break]]"
   - "[[Analytical Stance]]"
+  - "[[Discourse]]"
   - "[[Research Topic]]"
   - "[[Epistemology]]"
 related_theories: []
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # Policy-Based Evidence-Making
@@ -165,7 +166,7 @@ updated: 2026-09-24
 > > 学者在参与政府委托咨询时究竟是受到权力结构压制的被动[[Transfer Translation Transformation\|转译]]者，还是主动适应游戏规则的共谋行动者。
 > >
 > > - **结构压制论** 强调政府通过财政资助与出版审查构成强大的[[Gatekeepers\|守门人]]垄断，倒逼研究者迎合政策落地预期（如[[Carter Review of Initial Teacher Training\|卡特审查]]）。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 94)]]
-> > - **策略性行动论** 认为学者与智库在一定程度上利用基于政策的证据制造谋取学术资本与政策话语权，二者存在相互赋能与利用的双向博弈。
+> > - **策略性行动论** 认为学者与智库在一定程度上利用基于政策的证据制造谋取学术资本与政策[[Discourse|话语]]权，二者存在相互赋能与利用的双向博弈。
 
 > [!critique] 外部批评与制度后果
 > - **消解民主审议价值** 将涉及教育目的与公共利益的政治与价值争议伪装为纯粹的技术有效性问题，削弱了公众与专业群体的民主审议空间。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 96)]]

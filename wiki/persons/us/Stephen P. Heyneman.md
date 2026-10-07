@@ -9,7 +9,7 @@ summary: "美国著名国际教育政策与比较教育学者，范德堡大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[School Effectiveness]]"
+  - "[[Discourse]]"
   - "[[Academic Achievement]]"
   - "[[Hypothesis]]"
   - "[[Development Education]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Stephen P. Heyneman
@@ -68,7 +69,7 @@ updated: 2026-10-05
 > - **代表贡献** 与威廉·洛克斯利（William Loxley）共同提出里程碑式的“海尼曼-洛克斯利效应”（Heyneman-Loxley Effect, 1983）；发表权威学术自省长文《世界银行教育政策制定的历史与问题（1960–2000）》（Heyneman, 2003），系统解构世界银行基于新古典经济学的跨国放贷逻辑。
 
 > [!citation-card] [[Robert Arnove|阿诺夫]]论海尼曼对世界银行[[Analytic Framework|分析框架]]局限性的反思
-> 跨国技术援助与金融机构的政策话语，紧密绑定于对各级各类教育价值的[[Cost-Benefit Analysis|成本效益分析]]与生产函数模型。然而，正如前世界银行教育司资深官员海尼曼（Heyneman, 2003）所坦诚承认的那样，这一狭隘的经济学分析框架存在极其严重的局限性，并对发展中国家制定更为公平和有效的教育政策造成了深远的负面后果。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
+> 跨国技术援助与金融机构的政策[[Discourse|话语]]，紧密绑定于对各级各类教育价值的[[Cost-Benefit Analysis|成本效益分析]]与生产函数模型。然而，正如前世界银行教育司资深官员海尼曼（Heyneman, 2003）所坦诚承认的那样，这一狭隘的经济学分析框架存在极其严重的局限性，并对发展中国家制定更为公平和有效的教育政策造成了深远的负面后果。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 >
 > *The discourse of these international agencies is tied to cost-benefit and production function analyses of the value of different levels and types of education, an analytical framework that former World Bank education staff member Heyneman (2003) admits has had serious limitations and negative consequences for more equitable and effective education policies.*
 

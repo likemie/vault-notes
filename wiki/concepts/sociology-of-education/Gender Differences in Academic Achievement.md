@@ -8,7 +8,7 @@ aliases:
 summary: "男女学生在学业成绩、微观学术任务及认知信念上呈现的系统性差异。既有实证揭示女生在平时总评与良构/劣构任务上普遍领先，其机制受学校规范适应、学习动机投入、能力可塑性信念及关系性认知方式的共同驱动。"
 type: concept
 domain: "sociology-of-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Task Structure]]"
   - "[[Self-control]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Domain Specificity]]"
   - "[[Epistemology]]"
   - "[[Growth]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-06
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Gender Differences in Academic Achievement
@@ -108,7 +109,7 @@ updated: 2026-09-22
 
 > [!claim] Pintrich (2002); [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]]
 > **心理性别取向命题** 粗放的生物学男女二分容易掩盖深层的认知与情感机制。
-> 结合女性认识方式（[[Women's Ways of Knowing]]）与关系性认知理论，女生更倾向于采用情境化连接与多元权衡的认识方式；而具有双性化（androgynous）心理特质的学生在学业面对挑战时能维持更高的学术自信与话语表达力。未来的学业性别研究应从表层生理分类转向心理性别角色、情绪体验与[[Domain Specificity\|领域特殊性]]反思。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, p. 325)]]
+> 结合女性认识方式（[[Women's Ways of Knowing]]）与关系性认知理论，女生更倾向于采用情境化连接与多元权衡的认识方式；而具有双性化（androgynous）心理特质的学生在学业面对挑战时能维持更高的学术自信与[[Discourse|话语]]表达力。未来的学业性别研究应从表层生理分类转向心理性别角色、情绪体验与[[Domain Specificity\|领域特殊性]]反思。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, p. 325)]]
 
 ---
 

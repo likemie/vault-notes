@@ -13,7 +13,7 @@ subtype: program
 region: east-asia
 fact_region: "east-asia"
 fact_kind: "program"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Precompetitive Research]]"
   - "[[Paradigm]]"
   - "[[Academic Entrepreneurship]]"
+  - "[[Discourse]]"
   - "[[Modern Industrial Policy]]"
   - "[[Document]]"
   - "[[Technological Catch-up]]"
@@ -138,7 +139,7 @@ updated: 2026-10-07
 
 > [!finding-cards] 核心实证结论
 > 1. **奠定日本半导体制造与存储器全球优势** 项目期间取得约 1200 项发明专利，打通了从材料、设备到晶圆制造的完整链条，使日本在 1980 年代上半叶超越美国成为全球最大的芯片与存储器生产国。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 727, 736–738)]]
-> 2. **成为全球高技术研发联盟的制度标杆与美国学术中心同源共生的催化剂** 树立了政府引导、企业共担、[[Precompetitive Research|前竞争研发]]共享的产业政策[[Paradigm|范式]]，不仅直接触发了美国（[[Sematech]]、[[Microelectronics and Computer Technology Corporation|MCC]]）与欧洲（[[ESPRIT]]、[[JESSI]]）的大规模产业联合体，更成为美国工程学者在高校发起[[Academic Entrepreneurship|学术制度创业]]（创建加州理工学院 [[Silicon Structures Project|SSP]]、康奈尔大学 [[National Research and Resource Facility for Submicron Structures|NRRFSS]] 与斯坦福大学 CIS）的核心危机动员合法性话语。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 725–728)]]; [[Argument_Mody_2017_MOH|(Mody, 2017, pp. 286–287, 291–292)]]
+> 2. **成为全球高技术研发联盟的制度标杆与美国学术中心同源共生的催化剂** 树立了政府引导、企业共担、[[Precompetitive Research|前竞争研发]]共享的产业政策[[Paradigm|范式]]，不仅直接触发了美国（[[Sematech]]、[[Microelectronics and Computer Technology Corporation|MCC]]）与欧洲（[[ESPRIT]]、[[JESSI]]）的大规模产业联合体，更成为美国工程学者在高校发起[[Academic Entrepreneurship|学术制度创业]]（创建加州理工学院 [[Silicon Structures Project|SSP]]、康奈尔大学 [[National Research and Resource Facility for Submicron Structures|NRRFSS]] 与斯坦福大学 CIS）的核心危机动员合法性[[Discourse|话语]]。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 725–728)]]; [[Argument_Mody_2017_MOH|(Mody, 2017, pp. 286–287, 291–292)]]
 > 3. **开创[[Modern Industrial Policy|现代产业政策]]史前身与第一代使命政策原型** Bown 与 Wang（2024）指出，VLSI 项目代表了 20 世纪后半叶以纵向一体化国家冠军、集中式共性研发和廉价资本配给为特征的传统追赶型产业政策顶峰；该项目与日本系列（Keiretsu）企业网络相结合，促成日本在 1980 年代全球前十大芯片厂商中占据半壁江山（NEC、东芝、日立、富士通、三菱），并成为引发后续美日贸易冲突的制度根源。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 83–85)]]
 > 4. **隐性知识跨企业扩散机制验证** 证明了人员集中借调与实体联合实验室对于复杂工程技术知识扩散的关键价值。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 752–753)]]
 > 5. **本土装备与材料产业链的协同突破** 助力尼康（Nikon）与佳能（Canon）在步进式光刻机领域实现技术跨越，终结了美国企业在半导体光刻装备上的长期垄断。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 739–741)]]

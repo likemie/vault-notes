@@ -8,7 +8,7 @@ aliases:
 summary: "德语区指称对异域教育制度与实践开展百科全书式描述性、报道性调查的文献与知识传统，构成了19世纪比较教育学制度化前的核心经验载体"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Hypothesis]]"
   - "[[International Education]]"
+  - "[[Discourse]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Artefact]]"
   - "[[Policy Borrowing]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Auslandspadagogik
@@ -171,7 +172,7 @@ updated: 2026-10-05
 > **实证科学派对前科学编年史的严苛批判** 诺亚与埃克斯坦指出，19 世纪绝大多数所谓比较学者的著述在严格意义上并非科学比较研究。以巴纳德、曼等人为代表的调查充斥着对第一手材料不加鉴别的盲目搜集、叙述与再版，其文本缺乏科学[[Hypothesis\|假设]]检验、概念控制与[[Variable\|变量]]关联推导，本质上属于现代实证科学成型之前的“前科学编年史记录（pre-scientific chronicling）”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 32–33; Noah & Eckstein, 1969, pp. 25–26)]]
 
 > [!claim] Kaloyannaki, P. & [[Andreas Kazamias\|Kazamias, A.]] M.
-> **解构辉格史神话并确立外国教育学的编年叙事定位** 卡洛扬纳基与卡扎米亚斯深入论证指出，除[[Marc-Antoine Jullien\|朱利安]]带有准实证科学构想外，19 世纪活跃于英法美官方决策层的话语（[[Victor Cousin\|库森]]、[[Horace Mann\|曼]]、斯托与巴纳德）在很大程度上只触及了比较教育学的边缘；它们在认识论形态上本质是德语区所谓的“外国教育学（Auslandspädagogik）”。这些文献展现出显著的描述性、报道性、非历史化与非分析性特征，缺乏现代历史科学所要求的深层情境归因与解释学诠释；学者们实质上充当了卓越的教育编年史官与[[Ethnography\|民族志]]记录者。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]
+> **解构辉格史神话并确立外国教育学的编年叙事定位** 卡洛扬纳基与卡扎米亚斯深入论证指出，除[[Marc-Antoine Jullien\|朱利安]]带有准实证科学构想外，19 世纪活跃于英法美官方决策层的[[Discourse|话语]]（[[Victor Cousin\|库森]]、[[Horace Mann\|曼]]、斯托与巴纳德）在很大程度上只触及了比较教育学的边缘；它们在认识论形态上本质是德语区所谓的“外国教育学（Auslandspädagogik）”。这些文献展现出显著的描述性、报道性、非历史化与非分析性特征，缺乏现代历史科学所要求的深层情境归因与解释学诠释；学者们实质上充当了卓越的教育编年史官与[[Ethnography\|民族志]]记录者。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]
 
 ---
 

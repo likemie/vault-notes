@@ -7,9 +7,9 @@ summary: "批判理论在行动中的民族志：将权力、不平等和解放�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 17
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - theory/critical
@@ -22,7 +22,9 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Research Question]]"
+  - "[[Hidden Curriculum]]"
   - "[[Critical Pedagogy]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Post-colonial Theory]]"
@@ -39,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # Critical Ethnography
@@ -102,7 +104,7 @@ updated: 2026-09-24
 ## 适用边界
 
 > [!method-boundary] 适用边界
-> - **适合解释** 教育中的结构性不平等、权力与资源分配、隐性课程的政治功能、制度性歧视、教育政策的阶级/种族/性别效应。
+> - **适合解释** 教育中的结构性不平等、权力与资源分配、[[Hidden Curriculum|隐性课程]]的政治功能、制度性歧视、教育政策的阶级/种族/性别效应。
 > - **谨慎使用** 当研究者的政治议程可能压倒参与者的真实声音时；当意识形态承诺可能预先决定研究发现时；在权力关系极不对称的环境中（如监狱、精神病院），研究者的"干预"可能带来参与者无法承受的代价。
 > - **不适合解释** 纯粹技术性的教学法效能问题；不以社会正义为目标的认知或心理过程研究。
 > - **常见误用** 将批判[[Ethnography\|民族志]]简单等同于"批评式写作"；未经过充分田野数据收集即跳入宏观理论解释（跳过 Carspecken 的前三个阶段）；以研究者自身政治议程替代参与者声音。
@@ -111,7 +113,7 @@ updated: 2026-09-24
 
 > [!dev-timeline] 发展脉络
 > - **1920s–1930s — 法兰克福学派起源**[[Critical Theory\|批判理论]]奠基，将社会科学的任务从描述社会转向批判和改变社会。
-> - **1970s–1980s — 批判教育研究的兴起**Bowles & Gintis (1976) 对资本主义美国学校教育的分析；Apple 对隐性课程的批判；Freire 的[[Critical Pedagogy|解放教育学]]。
+> - **1970s–1980s — 批判教育研究的兴起**Bowles & Gintis (1976) 对资本主义美国学校教育的分析；Apple 对[[Hidden Curriculum|隐性课程]]的批判；Freire 的[[Critical Pedagogy|解放教育学]]。
 > - **1990s — 批判[[Ethnography\|民族志]]的系统化** Thomas (1993) 正式定义批判民族志为"批判理论在行动中"；Carspecken (1996) 提出五阶段操作模型。
 > - **2000s — 扩展到位置性与多重压迫**Madison (2005) 强调研究者的位置性和伦理责任；交叉性理论丰富了批判民族志对多重压迫的分析。
 
@@ -123,7 +125,7 @@ updated: 2026-09-24
 > > 批判[[Ethnography\|民族志]]要求研究者从描述者转变为社会变革的行动者。但这是否混淆了研究和政治行动主义的边界？
 > >
 > > - **Quantz (1992)** 认为研究不可避免地服务某些利益，在批判民族志中研究者必须揭示这些利益并推动参与者走向解放和自由。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, p. 448)]]
-> > - **质疑立场** 研究者作为局外人将自己的政治议程加诸被研究群体，可能构成新的殖民和话语霸权。
+> > - **质疑立场** 研究者作为局外人将自己的政治议程加诸被研究群体，可能构成新的殖民和[[Discourse|话语]]霸权。
 >
 > > [!axis] 客观性是否可能或被期待？
 > > 批判民族志主张事实与价值不可分，拒斥传统的中立研究立场。但这是否削弱了研究被其他立场者接受的可能性？

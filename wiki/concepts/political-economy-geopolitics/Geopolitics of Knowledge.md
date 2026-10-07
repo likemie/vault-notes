@@ -6,7 +6,7 @@ aliases:
 summary: "围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 83
+related_count: 84
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -18,6 +18,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Knowledge Production]]"
+  - "[[Discourse]]"
   - "[[Classical Geopolitics]]"
   - "[[Relational Space]]"
   - "[[Knowledge-Based Economization]]"
@@ -118,7 +119,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!info] 核心定义
-> 知识地缘政治（Geopolitics of Knowledge，GPK）指在知识密集型资本主义的全球语境中，高等教育被重构为[[Knowledge Production\|知识生产]]、创新和[[Human Capital Theory\|人力资本]]的核心场所，从而成为地缘政治竞争和战略定位的关键维度。该概念关注创新、科学和教育如何被想象为个体、企业、地区和国家的全球竞争优势来源，以及这一过程中涉及的政治、话语和物质/结构性转变（Thompson & Parreira do Amaral, 2022, pp.8–9）。
+> 知识地缘政治（Geopolitics of Knowledge，GPK）指在知识密集型资本主义的全球语境中，高等教育被重构为[[Knowledge Production\|知识生产]]、创新和[[Human Capital Theory\|人力资本]]的核心场所，从而成为地缘政治竞争和战略定位的关键维度。该概念关注创新、科学和教育如何被想象为个体、企业、地区和国家的全球竞争优势来源，以及这一过程中涉及的政治、[[Discourse|话语]]和物质/结构性转变（Thompson & Parreira do Amaral, 2022, pp.8–9）。
 
 > [!quote]
 > "geopolitics of"之后最常见的名词从 2010 年起已是 Knowledge——超越 energy、oil、capitalism、Europe、war——知识已成为当代地缘政治中书写和辩论最密集的主题。（[[Argument_Partaken_2022_Springer\|Partaken, 2022, p.68]]）
@@ -148,7 +149,7 @@ updated: 2026-10-07
 
 > [!timeline] 概念演变
 > - **1980s–1990s** 人文地理学空间转向：[[Doreen Massey]]、Harvey 等人将空间理解从领土性转向关系性；拉丁美洲去殖民思想兴起（Mignolo, Dussel），形成[[Critical Geopolitics\|批判地缘政治学]]与去殖民传统两条平行脉络
-> - **1990s** "geopolitics of knowledge"话语出现（Partaken 的 Ngram 分析）；两条脉络分别追问：谁建构地缘政治秩序（批判地缘政治学）vs 谁的知识被认定为知识（去殖民传统）
+> - **1990s** "geopolitics of knowledge"[[Discourse|话语]]出现（Partaken 的 Ngram 分析）；两条脉络分别追问：谁建构地缘政治秩序（批判地缘政治学）vs 谁的知识被认定为知识（去殖民传统）
 > - **2000s–2010s** GPK 话语快速强化；空间转向深化，地缘政治分析从领土性转向关系性、网络化视角（Thompson & Parreira do Amaral, 2022, p.10）
 > - **2010s** 知识明显超越能源、石油等自然资源，成为"geopolitics of"语境中书写最密集的主题（[[Argument_Partaken_2022_Springer\|Partaken, 2022, p.68]]）
 > - **2018** [[Sami Moisio]] 提出[[Knowledge-Based Economization\|知识经济化]]概念，整合 Harvey 的[[Fixity-Motion Tension\|固着-流动张力]]与 Porter 的[[National Competitive Advantage\|国家竞争优势]]，将批判地缘政治学与全球经济过程相链接
@@ -181,14 +182,14 @@ updated: 2026-10-07
 > [!phase] 第二阶段（2015 至今）：西方的部分去全球化与中美脱钩
 > 不均衡但广泛的西方对跨境连接的反弹，由双重因素触发：（a）长期殖民秩序的侵蚀和全球[[Multiplicity\|多重性]]的增长——包括中国和全球南方大部分地区的崛起；（b）欧美人口的新自由主义贫困化催生了民粹政治。规范国际主义和世界主义让位于单一国家认同论、多边主义削弱、本土主义反移民（包括跨境学生流动），以及美国推动的中美在政治经济-技术-科学-大学领域关系的部分破裂（[[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 22–23]]）。
 >
-> 这一阶段证实了 Massey 的核心洞见：试图通过话语或强力"固定"空间的策略最终都"逃避了空间的挑战——即空间作为多重性"（[[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 6]]）。英美全球化最终无法维持其同质化控制——"每个空间最终都会部分地从那些使用它的人手中逃脱"（Lefebvre, 1991, p. 26, cited in [[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 12]]）。
+> 这一阶段证实了 Massey 的核心洞见：试图通过[[Discourse|话语]]或强力"固定"空间的策略最终都"逃避了空间的挑战——即空间作为多重性"（[[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 6]]）。英美全球化最终无法维持其同质化控制——"每个空间最终都会部分地从那些使用它的人手中逃脱"（Lefebvre, 1991, p. 26, cited in [[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 12]]）。
 
 ---
 
 ## 核心命题
 
 > [!abstract]
-> GPK 的命题结构从宏观到微观形成三个相互嵌套的分析层次：①**空间-竞争层**——[[Knowledge-Based Economization\|知识经济化]]重构了大学的空间逻辑和国家竞争形态，其核心悖论是[[Fixity-Motion Tension\|固着-流动张力]]与 Hub-[[Flow]] 想象；②**主体-治理层**——大学成为生产特定主体性的核心地缘政治装置，治理通过[[Epistemology\|认识论]]控制在全球尺度运作；③**知识-认识论层**——GPK 的最终战场是知识本身：谁生产何种知识、知识如何流动和被控制（两面模型），以及哪种认识论被认定为合理（[[Narrative Knowledge\|叙事知识]]衰退），决定话语权力的全球格局。
+> GPK 的命题结构从宏观到微观形成三个相互嵌套的分析层次：①**空间-竞争层**——[[Knowledge-Based Economization\|知识经济化]]重构了大学的空间逻辑和国家竞争形态，其核心悖论是[[Fixity-Motion Tension\|固着-流动张力]]与 Hub-[[Flow]] 想象；②**主体-治理层**——大学成为生产特定主体性的核心地缘政治装置，治理通过[[Epistemology\|认识论]]控制在全球尺度运作；③**知识-认识论层**——GPK 的最终战场是知识本身：谁生产何种知识、知识如何流动和被控制（两面模型），以及哪种认识论被认定为合理（[[Narrative Knowledge\|叙事知识]]衰退），决定[[Discourse|话语]]权力的全球格局。
 
 > [!logic-map] 核心命题关系
 >
@@ -227,7 +228,7 @@ updated: 2026-10-07
 ## 理论语境
 
 > [!logic-map] 理论归属
-> - [[Knowledge-Based Economization]] — Moisio（2018）提供关键分析工具，将注意力从[[Knowledge-Based Economy\|知识经济]]话语层面转向物质过程和实践
+> - [[Knowledge-Based Economization]] — Moisio（2018）提供关键分析工具，将注意力从[[Knowledge-Based Economy\|知识经济]][[Discourse|话语]]层面转向物质过程和实践
 > - [[Critical Geopolitics]] — 批判地缘政治学脉络提供[[Relational Space\|关系性空间]]分析和话语建构分析工具；[[Sami Moisio]] 为 GPK 批判地缘政治学方向的核心代表
 > - [[Decolonial Geopolitics of Knowledge]] — Mignolo and Dussel 的去殖民批判揭示当前知识经济化在[[Epistemology\|认识论]]层面的殖民性延续
 > - [[Doreen Massey]] — Massey（2005）的[[Relational Space\|关系性空间]]理论为 GPK 提供核心[[Ontology\|本体论]]基础：空间不是固定容器而是多重轨迹的交汇，任何权力系统都不可能永久固定（[[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp.5–7]]）
@@ -266,7 +267,7 @@ updated: 2026-10-07
 >   澳大利亚 [[Academic Ranking of World Universities\|ARWU]] 前 100 大学（人口仅 2500 万）
 
 > [!finding-cards]
-> 1. 知识话语自 2010 年起超越能源、石油等自然资源，成为地缘政治讨论最密集的主题（[[Argument_Partaken_2022_Springer\|Partaken, 2022, p.68]]）
+> 1. 知识[[Discourse|话语]]自 2010 年起超越能源、石油等自然资源，成为地缘政治讨论最密集的主题（[[Argument_Partaken_2022_Springer\|Partaken, 2022, p.68]]）
 > 2. 国际化主导理性已从发展主义转向市场理性（收入创造、全球排名），高等教育被视为出口产业（[[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.96–97]]）
 > 3. [[Global Universities Rankings\|全球大学排名]]是 GPK 的核心运作机制，通过"[[Halo Effect\|光环效应]]"固化[[Knowledge Production\|知识生产]]不平等等级秩序（[[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, pp.132–138]]）
 > 4. GPK 呈现两个历史阶段：1990–2015 美国主导霸权式全球化；2015 至今西方部分去全球化与中美脱钩（[[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp.15–32]]）
@@ -437,7 +438,7 @@ updated: 2026-10-07
 > - [[Horizon 2020 SSH Integration]] — 取消 SSH 独立资助渠道，横向嵌入并要求"直接为政策制定的证据基础做贡献"——[[Epistemology\|认识论]]治理的典型案例（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.42]]）
 > - [[International Education Hubs\|国际教育枢纽]] — 集中在东亚和中东（香港、新加坡、阿联酋等），学生枢纽→人才枢纽→知识/[[Innovation Hub\|创新枢纽]]的梯级代表与[[Knowledge-Based Economy\|知识经济]]逻辑越来越深度的整合（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp.43–45]]）
 > - [[Minerva University]] — 无校园、全球化营利性大学，学生四年在七个世界城市轮转，体现高等教育彻底"脱嵌"民族国家框架（Thompson & Parreira do Amaral, 2022, pp.2–3）
-> - [[University Industry Innovation Network\|UIIN]] Thoughtbook 系列 — "想象"被赋予证据地位以塑造政策：未来大学愿景以诊断性事实呈现，展示话语如何物质化为制度驱动力（Thompson & Parreira do Amaral, 2022, pp.3–4）
+> - [[University Industry Innovation Network\|UIIN]] Thoughtbook 系列 — "想象"被赋予证据地位以塑造政策：未来大学愿景以诊断性事实呈现，展示[[Discourse|话语]]如何物质化为制度驱动力（Thompson & Parreira do Amaral, 2022, pp.3–4）
 > - 大学图书馆空间重构 — 从知识储存和智识闲暇场所（Muße）转变为"makerspaces"和创新创业中心，是 GPK 逻辑改造高等教育物理空间的物质性表现（Thompson & Parreira do Amaral, 2022, pp.4–6）
 > - 澳大利亚亚洲世纪白皮书（2012）— 将亚洲崛起定位为"机遇"；配套 AISRF and ACSRF 将研究合作与贸易外交目标深度绑定（[[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.99–100]]）
 > - [[Horizon Europe Missions]] — 将研究整合为针对五大社会挑战的使命承诺，反映欧盟以研究驱动全球[[Competitiveness|竞争力]]和规范性影响力的地缘政治策略

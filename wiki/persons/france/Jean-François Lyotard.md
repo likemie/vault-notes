@@ -8,7 +8,7 @@ summary: "法国后结构主义哲学家，后现代状况作者与知识合法�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 35
+person_related_count: 36
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Commensuration]]"
   - "[[Incommensurability]]"
+  - "[[Discourse]]"
   - "[[Growth]]"
   - "[[Critical Pedagogy]]"
   - "[[Geopolitics of Knowledge]]"
@@ -126,7 +127,7 @@ updated: 2026-10-07
 > - **Late 1970s–1980s — 后现代状况与分歧哲学阶段** 研究后工业社会知识合法性的蜕变，探讨去中心化公正以及无法[[Commensuration\|通约]]的言说不义。
 >   - **代表著作** 《后现代状况》（*The Postmodern Condition*, 1979）、《公正》（*Au juste*, 1979）、《分歧》（*Le Différend*, 1983）。
 >   - **关键概念／方法** [[Performativity\|绩效性]]（[[Performativity]]）、[[Grand Theory\|元叙事]]怀疑、分歧（The Differend）、[[Incommensurability\|不可通约性]]（[[Incommensurability]]）。
->   - **阶段转向** 从感性的欲望释放转向语言游戏与微观政治。受维特根斯坦“语言游戏”和[[Immanuel Kant\|康德]]“判断力批判”启发，在《后现代状况》中诊断了宏大叙事的崩塌和输入输出式绩效性的崛起；在《分歧》中，他定义了“分歧”这一受害者由于缺乏主流话语表达手段而沦为沉默的极端不义，呼吁为不可言说者作证。
+>   - **阶段转向** 从感性的欲望释放转向语言游戏与微观政治。受维特根斯坦“语言游戏”和[[Immanuel Kant\|康德]]“判断力批判”启发，在《后现代状况》中诊断了宏大叙事的崩塌和输入输出式绩效性的崛起；在《分歧》中，他定义了“分歧”这一受害者由于缺乏主流[[Discourse|话语]]表达手段而沦为沉默的极端不义，呼吁为不可言说者作证。
 > - **Late 1980s–1990s — 系统“非人”批判与时间现象学回归阶段** 回应全球化与高速科技发展对人类人性的工具化改塑，回归晚年时间的沉思。
 >   - **代表著作** 《非人》（*The Inhuman*, 1988）、《童年阅读》（*Lectures d'enfance*, 1991）、《奥古斯丁的忏悔》（*The Confession of Augustine*, 1998）。
 >   - **关键概念／方法** 非人（The Inhuman）、童年思想（infantia）、时间现象学。
@@ -139,7 +140,7 @@ updated: 2026-10-07
 ## 核心思想
 
 > [!claim] 核心主张
-> 后现代时期的标志是**对宏大[[Grand Theory\|元叙事]]（如人类解放、科学进步大叙事）的怀疑**。知识的合法化基础已从“是否真实/是否正义”彻底转向以“优化输入产出比”为核心目标的**[[Performativity\|绩效性]]（[[Performativity]]）**。在绩效性逻辑的主导下，社会关系和机构运营被强加了绩效“恐怖”（要么可操作，要么消失）。同时，不同的话语系统（语言游戏）之间存在着**不可[[Commensuration\|通约]]的分歧（The Differend）**，当强势话语强行以自身的规则裁判弱势话语时，将制造出受害者无法诉说和申辩的根本不义。
+> 后现代时期的标志是**对宏大[[Grand Theory\|元叙事]]（如人类解放、科学进步大叙事）的怀疑**。知识的合法化基础已从“是否真实/是否正义”彻底转向以“优化输入产出比”为核心目标的**[[Performativity\|绩效性]]（[[Performativity]]）**。在绩效性逻辑的主导下，社会关系和机构运营被强加了绩效“恐怖”（要么可操作，要么消失）。同时，不同的[[Discourse|话语]]系统（语言游戏）之间存在着**不可[[Commensuration\|通约]]的分歧（The Differend）**，当强势话语强行以自身的规则裁判弱势话语时，将制造出受害者无法诉说和申辩的根本不义。
 
 > [!citation-card]- 关键表述
 > 1. **后现代的定义**
@@ -165,7 +166,7 @@ updated: 2026-10-07
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 其[[Narrative Knowledge\|叙事知识]]与科学知识的划分成为[[Critical Pedagogy\|批判教育学]]和[[Geopolitics of Knowledge\|知识地缘政治]]分析的关键视角；对[[Grand Theory\|元叙事]]解体的论证解释了传统国家同质化课程体系的瓦解和全球多元化话语的兴起。
+> - **理论路径** 其[[Narrative Knowledge\|叙事知识]]与科学知识的划分成为[[Critical Pedagogy\|批判教育学]]和[[Geopolitics of Knowledge\|知识地缘政治]]分析的关键视角；对[[Grand Theory\|元叙事]]解体的论证解释了传统国家同质化课程体系的瓦解和全球多元化[[Discourse|话语]]的兴起。
 > - **政策与制度评估** [[Performativity\|绩效性]]概念被广泛引入教育社会学和高等教育研究，用于分析国家和全球教育监测项目（如 [[PISA]] 排名、大学绩效问责与[[Academic Capitalism\|学术资本主义]]）。
 > - **跨国／跨领域传播** 其思想被比较教育学者借用，剖析超国家评估机构如何在绩效追求下迫使地方学校改造自身以迎合可测量指标。
 

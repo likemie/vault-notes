@@ -8,7 +8,7 @@ aliases:
 summary: "组织社会学与新制度主义核心概念，指在特定制度环境中被广泛接受为理性、正当和有效的规则与信念，作为文化认知框架为组织实践赋予合法性"
 type: concept
 domain: "sociology-of-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Technical Rationality]]"
   - "[[Champ]]"
+  - "[[Discourse]]"
   - "[[Performance Indicators]]"
   - "[[New Public Management]]"
   - "[[Policy-Based Evidence-Making]]"
@@ -33,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Rationalized Myth
@@ -47,7 +48,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向组织[[Champ\|场域]]中被普遍假定为客观理性、能带来有效治理的制度规范与认知蓝图。
-> - **用途** 帮助研究者揭示组织与政策制定者为何热衷于采纳特定改革话语（如循证实践、[[Performance Indicators\|绩效指标]]），以及这种采纳如何服务于符号层面的合法性建构。
+> - **用途** 帮助研究者揭示组织与政策制定者为何热衷于采纳特定改革[[Discourse|话语]]（如循证实践、[[Performance Indicators\|绩效指标]]），以及这种采纳如何服务于符号层面的合法性建构。
 > - **边界** 不等于对技术工具本身的客观科学评估，也不等同于单纯的政治欺骗或虚假陈述，而是行动者共同沉浸其中并视作理所当然的认知脚本。
 
 > [!citation-card] 制度合法性与神话扩散
@@ -95,7 +96,7 @@ updated: 2026-09-17
 
 ## 教育与政策应用
 
-合理化神话在新制度主义教育研究中被广泛用于解释教育改革话语的全球扩散与政策修辞演变。
+合理化神话在新制度主义教育研究中被广泛用于解释教育改革[[Discourse|话语]]的全球扩散与政策修辞演变。
 
 在英格兰教师教育政策的研究中，[[Argument_Helgetun_2022_JEP|Helgetun & Menter (2022, pp. 90–93)]] 指出证据已演进为一种新型的主导性合理化神话。在[[New Public Management|新公共管理]]（New Public Management, NPM）语境下，政府部门与政策制定者通过在白皮书与政策规程中密集嵌入学术引文、国际经验（如芬兰或新加坡模式）以及[[Randomised Controlled Trials|随机对照试验]]等科学修辞，为政策确立毋庸置疑的正当性；然而在深层运作中，政策制定依然服从于[[Policy-Based Evidence-Making|基于政策的证据制造]]与适宜性逻辑。
 

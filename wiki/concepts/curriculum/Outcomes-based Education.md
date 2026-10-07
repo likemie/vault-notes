@@ -8,7 +8,7 @@ aliases:
 summary: "以学习结果为中心的课程设计范式，强调可测量的学习成果而非知识内容，在新西兰 2007 年课程和全球教育改革中广泛采用，近年受到社会实在论批评"
 type: concept
 domain: "curriculum"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Creativity]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Discourse]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
 related_theories:
   - "[[Curriculum Design Coherence Model]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 # Outcomes-based Education
@@ -86,7 +87,7 @@ updated: 2026-09-18
 > [!abstract]
 > - **以成果为中心**。结果导向课程关注学生在学习结束时应达到的可测量成果，而非学生应学习的知识内容。这导致知识被边缘化或被视为理所当然([[Argument_McPhail_2023_JCS\|McPhail et al., 2023]])。
 > - **通用能力强调**。结果导向课程往往强调通用能力和 21 世纪技能，如学习能力、批判思维、[[Creativity\|创造力]]等，而非学科特定的知识。
-> - **新自由主义逻辑**。结果导向课程与[[Knowledge-Based Economy\|知识经济]]话语紧密相关，倾向于以功能性方式框架教育，使政府能够更明确地看到其教育投资的结果（Lourie 2020, 引自 McPhail et al., 2023）。
+> - **新自由主义逻辑**。结果导向课程与[[Knowledge-Based Economy\|知识经济]][[Discourse|话语]]紧密相关，倾向于以功能性方式框架教育，使政府能够更明确地看到其教育投资的结果（Lourie 2020, 引自 McPhail et al., 2023）。
 > - **社会温度计**。在结果导向模式下，比较教育被掏空了学术理解的所有形式，只剩下测量技术的细节，成为效率运动的附属品([[Argument_Cowen_2023_CE\|Cowen, 2023, p.334]])。
 
 ---

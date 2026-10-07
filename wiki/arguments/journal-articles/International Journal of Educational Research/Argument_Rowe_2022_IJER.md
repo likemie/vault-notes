@@ -25,6 +25,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Value Neutrality]]"
   - "[[Evidence-Based Education]]"
+  - "[[Discourse]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Co-affiliation]]"
   - "[[Epistemology]]"
@@ -79,7 +80,7 @@ title: "Argument_Rowe_2022_IJER"
 argument_key: "Argument_Rowe_2022_IJER"
 argument_display_title: "The assemblage of inanimate objects in educational research: Mapping venture philanthropy, policy networks and evidence brokers"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -104,7 +105,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **研究对象** 澳大利亚教育研究组织（AERO）长达十年的创生历程、公司注册历史档案、相关立法修正案及底层政策网络拓扑。
 > - **制度张力** 官方公共界面宣称的超党派公共证据经纪人与私下监管档案揭示的依据企业法设立且法定特许与慈善资本合作之间的体制脱节。
-> - **理论贡献** 将[[Actor-Network Theory\|行动者网络理论]]（Actor-Network Theory, ANT）中的关系物质性与[[Network Ethnography\|网络民族志]]（Network [[Ethnography]]）相结合，提出将政策网络视作无生命客体装配体的批判分析路径，穿透了全球[[Evidence-Based Education\|循证教育]]“什么有效”（what works）运动去政治化的话语迷障。
+> - **理论贡献** 将[[Actor-Network Theory\|行动者网络理论]]（Actor-Network Theory, ANT）中的关系物质性与[[Network Ethnography\|网络民族志]]（Network [[Ethnography]]）相结合，提出将政策网络视作无生命客体装配体的批判分析路径，穿透了全球[[Evidence-Based Education\|循证教育]]“什么有效”（what works）运动去政治化的[[Discourse|话语]]迷障。
 
 ---
 
@@ -121,7 +122,7 @@ issuing_organization: ""
 > | **[[Venture Philanthropy\|风险慈善与金融化中介语系]]**<br>[[Venture Philanthropy]] | 揭示风险慈善机构如何将风险投资和私募股权纪律引入公共领域，运用证据经纪（brokerage）、买入（buy in）等源自金融交易的术语重构国家教育科研议程与价值体系。（pp. 3–4） |
 
 > [!warrant]- 理论如何支撑论证
-> 理论框架打破了宏观科层国家与微观学校实践的二元对立，将政策机构视作由文本、法条、资金与人事关系在异质网络中动态维系的装配体。行动者网络理论揭示了转瞬即逝的话语如何借助耐用材料获得超越时空的稳定性；政策[[Network Analysis\|网络分析]]则阐明看似彼此分离的跨国金融机构、智库与国家行政机关，如何通过重叠董事、资助纽带与共享[[Epistemology\|认识论]]形成高度同质的行动联盟，从而为解构 [[Australian Education Research Organisation\|AERO]] 的合法性修辞提供了严密的推论桥梁。（pp. 2–4）
+> 理论框架打破了宏观科层国家与微观学校实践的二元对立，将政策机构视作由文本、法条、资金与人事关系在异质网络中动态维系的装配体。行动者网络理论揭示了转瞬即逝的[[Discourse|话语]]如何借助耐用材料获得超越时空的稳定性；政策[[Network Analysis\|网络分析]]则阐明看似彼此分离的跨国金融机构、智库与国家行政机关，如何通过重叠董事、资助纽带与共享[[Epistemology\|认识论]]形成高度同质的行动联盟，从而为解构 [[Australian Education Research Organisation\|AERO]] 的合法性修辞提供了严密的推论桥梁。（pp. 2–4）
 
 ---
 
@@ -267,7 +268,7 @@ SVA 作为全澳最大的社会创投机构，管理着 1.5 亿澳元基金，�
 >
 > *…a good ordering strategy is to embody a set of relations in durable materials. Consequently, a relatively stable network is one embodied in and performed by a range of durable materials.* (Law, 1992, p. 387)
 
-> [!citation-card] 金融话语在[[Policy Network\|政策网络]]中的[[Epistemology\|认识论]]统摄
+> [!citation-card] 金融[[Discourse|话语]]在[[Policy Network\|政策网络]]中的[[Epistemology\|认识论]]统摄
 > [[Educational Brokerage Agency\|证据经纪人]]或买入（buy in）等金融从业术语，在整个网络中被如此频繁地使用，以至于人们对其司空见惯。但这恰恰揭示了将网络紧密维系在一起的关键认识论联结。正如一位著名[[Venture Philanthropy\|风险慈善]]家在主旨演讲中所言：“金钱是我们对话的通用货币。”这一论调在此后几乎每一场演讲中都被呼应为共享的观看之道。（pp. 3–4）
 >
 > *These financier terms, such as evidence broker, or ‘buy in’, are scattered throughout the network to the extent they are unremarkable. But they point to important epistemic bindings that hold the network together. This was captured effectively by one prominent venture philanthropist who stated during their keynote, ‘Money is the currency of our conversation’. This was agreed upon and echoed in almost every presentation subsequently as a shared ‘way of seeing’.*

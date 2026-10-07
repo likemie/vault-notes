@@ -10,7 +10,7 @@ title: "Argument_Parreira do Amaral_2022_Springer"
 argument_key: "Argument_Parreira do Amaral_2022_Springer"
 argument_display_title: "Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation"
 argument_kind: "book"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Classical Geopolitics]]"
   - "[[Relational Space]]"
+  - "[[Discourse]]"
   - "[[Global Regionalisms]]"
   - "[[Regulatory Regionalism]]"
   - "[[Global Education Industry]]"
@@ -109,7 +110,7 @@ citation_aliases:
 
 > [!tip]-
 > - [[Geopolitics of Knowledge]] — 全书核心分析透镜：从[[Classical Geopolitics\|古典地缘政治]]（领土扩张、民族国家中心）转向[[New Geopolitics\|新地缘政治]]（[[Relational Space\|关系性空间]]构型、政治想象与全球连接性），整合后殖民／去殖民视角(Mignolo, 2002, 2009)
-- [[Knowledge-Based Economization]] — Moisio (2018) 的概念框架，关注知识密集型资本主义的物质过程及其通过想象和客观化社会实践的话语建构
+- [[Knowledge-Based Economization]] — Moisio (2018) 的概念框架，关注知识密集型资本主义的物质过程及其通过想象和客观化社会实践的[[Discourse|话语]]建构
 - [[Global Regionalisms]] — Robertson et al. (2016) 的框架，分析高等教育如何被整合进世界各地区的区域整合项目（EU、ASEAN 等）
 - [[Regulatory Regionalism]] — Jayasuriya (2010) 与 Robertson (2010) 的概念，揭示超国家组织在高等教育区域化中的监管角色
 - [[Global Education Industry]] — Verger et al. (2016) 与 Parreira do Amaral et al. (2019) 的框架，涵盖经济化、商品化、私有化、数字化、市场化、标准化等全球教育变革维度

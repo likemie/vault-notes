@@ -7,7 +7,7 @@ summary: "丹麦教育哲学学者，Bildung 复兴与 Visible Learning 批判�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
+  - "[[Discourse]]"
   - "[[Learnification]]"
   - "[[Neuroplasticity]]"
   - "[[Bildung]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 ## 简介
 
@@ -62,7 +63,7 @@ updated: 2026-09-22
 
 > [!note-] 生平与职涯
 > - 任职于奥胡斯大学丹麦教育学院（Danish School of Education, Aarhus University），位于哥本哈根
-> - 1965 年开始上学，亲身经历了丹麦教育从"indlæring"（注入式学习）话语到"læring"（学习）话语、再到当代 [[Learnification]] 的历史变迁([[Argument_Larsen_2019_EducSci\|Larsen, 2019, p.8]])
+> - 1965 年开始上学，亲身经历了丹麦教育从"indlæring"（注入式学习）[[Discourse|话语]]到"læring"（学习）话语、再到当代 [[Learnification]] 的历史变迁([[Argument_Larsen_2019_EducSci\|Larsen, 2019, p.8]])
 > - 2018 年 10 月在哥本哈根与 [[John Hattie]] 进行公开对话，主题为"教育的目的"（The Purpose of Education）（[[Argument_Larsen_2019_EducSci\|Larsen, 2019]], Ref.10）
 > - 2013 年在惠灵顿维多利亚大学发表关于[[Neuroplasticity\|神经可塑性]]当代趣味与局限的分析
 > - 2015 年发表对 Hattie 证据信条的盲点分析

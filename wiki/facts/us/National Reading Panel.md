@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 41
+fact_related_count: 42
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Professional Judgment]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Elite Theory]]"
   - "[[Subgovernment Theory]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # National Reading Panel
@@ -178,7 +179,7 @@ updated: 2026-10-03
 > | [[Scientifically Based Research]] | Concept | 该委员会奠定并推向政策顶峰的核心科研[[Disciplina and Doctrina\|规训]]概念。 |
 > | [[Teacher Professional Agency]] | Concept | 该委员会推行的标准化拼读规约直接削弱了一线教师的主体能动性。 |
 > | [[Whole Language]] | Concept | 该委员会审查结论直接针对并压制的核心对立教学流派。 |
-> | [[Elite Theory]] | Theory | 剖析该委员会同质化精英专家结构与话语垄断的核心政治学理论。 |
+> | [[Elite Theory]] | Theory | 剖析该委员会同质化精英专家结构与[[Discourse\|话语]]垄断的核心政治学理论。 |
 > | [[Subgovernment Theory]] | Theory | 揭示其与国会教育委员会、[[National Institute of Child Health and Human Development\|NICHD]] 官僚及出版商铁三角合谋的理论框架。 |
 > | [[Reading Excellence Act]] | Fact (Policy) | 推动该委员会正式组建与法定[[Evidence Standards\|证据标准]]授权的前置母法。 |
 > | [[No Child Left Behind Act 2001]] | Fact (Policy) | 全面继承该委员会审查产出并法定强制实施“阅读优先”的国家基本法。 |

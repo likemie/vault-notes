@@ -10,7 +10,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 51
+fact_related_count: 53
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -27,6 +27,7 @@ tags:
   - region/international
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Discourse]]"
   - "[[Sage]]"
   - "[[School Leadership]]"
   - "[[Endogenous and Exogenous Privatisation]]"
@@ -43,6 +44,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Project-Based Learning]]"
   - "[[Inquiry-Based Learning]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Paradigm]]"
   - "[[Policy Entrepreneur]]"
   - "[[Educational Management Organisation]]"
@@ -86,7 +88,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Visible Learning Branding and Global Influences
@@ -97,7 +99,7 @@ updated: 2026-09-22
 ## 背景与历史成因
 
 > [!claim] 核心定性
-> 《[[Visible Learning\|可见的学习]]》（Visible Learning, VL）不仅是一项基于海量[[Meta-analysis\|元分析]]的教育学术综合，更是当代教育史上规模最大的将公共科研成果转化为跨国商业培训特许、量化绩效认证与国家政策治理标准的知识商业化事件。其通过轻资产跨国授权与政策创业网络，深刻重塑了多国基础教育的治理话语与教研生态。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, pp. viii–ix)]]; [[Argument_Johnson_2023_CE\|(Johnson & Janzen, 2023, p. 30)]]
+> 《[[Visible Learning\|可见的学习]]》（Visible Learning, VL）不仅是一项基于海量[[Meta-analysis\|元分析]]的教育学术综合，更是当代教育史上规模最大的将公共科研成果转化为跨国商业培训特许、量化绩效认证与国家政策治理标准的知识商业化事件。其通过轻资产跨国授权与政策创业网络，深刻重塑了多国基础教育的治理[[Discourse|话语]]与教研生态。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, pp. viii–ix)]]; [[Argument_Johnson_2023_CE\|(Johnson & Janzen, 2023, p. 30)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2006 年商标申请启动，2009 年专著出版后迅速扩张，2018 年被 Corwin 全面收购，持续影响至今；发源于新西兰，扩散至澳大利亚、英国、斯堪的纳维亚、北美及俄罗斯等 23 个以上国家。[[Argument_Knudsen_2017_NordSTEP\|(Knudsen, 2017, p. 254)]]
@@ -189,7 +191,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > - **2011–2014 — 跨国扩张与政策标准嵌入期** 注册 Visible Learningplus 国际商标；Hattie 赴墨尔本大学并出任 [[Australian Institute for Teaching and School Leadership\|AITSL]] 主席，将指标嵌入澳大利亚国家标准；丹麦议会通过引用 VL 的公立学校改革。
 > - **2015–2017 — 衍生生态与制度化渗透期** e-asTTle 启动商业化招标；ACEL 与 Corwin 建立深度合作推广联盟；推出 Visible Classroom 应用程序并在英国与北美推广；维多利亚州教育部官方背书；俄文版出版。
 > - **2018–2023 — 跨国集团收购与学术批判深化期** Corwin（[[Sage]] 集团）正式收购 Visible Learningplus；原书续作出版；遭遇批判学者关于利益冲突、伪科学与[[Neo-Taylorism\|新泰勒主义]]的系统清算。
-> - **2024 至今 — 二阶数据库基础设施化与质量反思期** 底层数据库拓展为收录 2,100 余项[[Meta-analysis\|元分析]]的 [[Visible Learning Meta-X]]；[[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] 实证评测揭示早期历史录入偏离，推动向人机协同验证[[Paradigm\|范式]]演进。
+> - **2024 至今 — 二阶数据库基础设施化与质量反思期** 底层数据库拓展为收录 2,100 余项[[Meta-analysis\|元分析]]的 [[Visible Learning Meta-X]]；[[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] 实证评测揭示早期历史录入偏离，推动向[[Man-Computer Symbiosis|人机协同]]验证[[Paradigm\|范式]]演进。
 
 ---
 

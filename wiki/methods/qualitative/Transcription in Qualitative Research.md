@@ -10,7 +10,7 @@ summary: "将口头访谈、人机交互有声思维或对话记录转换为书�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 25
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Epistemic Responsibility]]"
   - "[[Reliability]]"
   - "[[Theoretical Perspective]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Epistemology]]"
   - "[[School Leadership]]"
   - "[[Scientific Explanation]]"
@@ -37,6 +38,7 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Discourse Analysis]]"
   - "[[Qualitative Research]]"
+  - "[[Conversation Analysis]]"
   - "[[In-depth Interview]]"
   - "[[Questionnaire]]"
   - "[[Multimodal Discourse Analysis]]"
@@ -51,7 +53,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Transcription in Qualitative Research
@@ -107,7 +109,7 @@ updated: 2026-09-22
 
 ### 命题三　人工智能自动化转写极大降低转录负荷但强化了研究者的认识论审查责任
 
-> [!concept-lens] 人机协同转录时代的[[Epistemology\|认识论]]重塑
+> [!concept-lens] [[Man-Computer Symbiosis|人机协同]]转录时代的[[Epistemology\|认识论]]重塑
 > 探讨大模型与语音识别工具（ASR）在加速质性数据处理的同时带来的算法风险与质量控制要求。
 
 > [!claim] Wu et al.
@@ -135,7 +137,7 @@ updated: 2026-09-22
 > | **大模型与 ASR 转写** | 深度神经网络语音识别（如 Whisper）结合 LLM 文本规整 | 速度极快（数分钟内完成），成本极低 | 遇口音、背景噪音或专业术语易出现语义平滑与幻觉替换 | 必须由研究者结合录音逐行进行人工校对与纠偏 |
 > | **多模态对齐转录** | 音频流、屏幕操作录像与提示词日志时间戳精确同步 | 全面捕获有声思维与人机界面交互的因果关联 | 数据维度庞杂，对齐软件与分析流程较为繁琐 | 建立多维时间轴[[Coding in Qualitative Research\|编码]]标准，杜绝割裂分析 |
 
-> [!proc] 规范转录与人机协同校对五步操作流程
+> [!proc] 规范转录与[[Man-Computer Symbiosis|人机协同]]校对五步操作流程
 > 1. **音频录制与脱敏标记（Audio Capture & Anonymization）**
 >    - 采用高保真录音设备，为受访者赋予唯一匿名编码，建立化名对照索引表。
 > 2. **算法自动化初转（Automated ASR Transcription）**
@@ -153,7 +155,7 @@ updated: 2026-09-22
 ## 争议与批评
 
 > [!tension] 逐字字面记录（Verbatim Fidelity） vs 语义可读性重构（Clean/Readable Transcription）
-> - **逐字保真派（Conversation Analysis）** 坚持记录每一个结巴、语气助词（“嗯”、“啊”）、呼吸声与毫秒级停顿，认为任何平滑都是对原始社会互动机制的破坏。
+> - **逐字保真派（[[Conversation Analysis]]）** 坚持记录每一个结巴、语气助词（“嗯”、“啊”）、呼吸声与毫秒级停顿，认为任何平滑都是对原始社会互动机制的破坏。
 > - **主题分析派（Thematic Analysis）** 主张适度清理不影响核心含义的语病与赘字，以提高文本可读性并聚焦于实质性观点。
 > - **折中规范** 严格区分研究性质：微观[[Discourse Analysis\|话语分析]]必须执行极致逐字转录，而宏观政策或主题提取研究可在明确说明的前提下进行规范化清理。
 
@@ -164,7 +166,7 @@ updated: 2026-09-22
 > [!example] 实证研究中的典型转录应用
 > - **经典[[In-depth Interview\|深度访谈]]与[[Focus Group\|焦点小组]]转录（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011]]）**
 >   在[[School Leadership\|学校领导力]]变革研究中，研究者不仅转录教师访谈的字面内容，更细致标记了谈及绩效评估时的沉默停顿与苦笑，从而揭示出[[Questionnaire\|问卷]]中无法体现的隐性制度焦虑。
-> - **人机共生探究中的有声思维多模态转录（[[Argument_Wu_2025_ER\|Wu et al., 2025]]）**
+> - **[[Man-Computer Symbiosis|人机共生]]探究中的有声思维多模态转录（[[Argument_Wu_2025_ER\|Wu et al., 2025]]）**
 >   在师范生利用 ChatGPT 进行统计推论的人机交互研究中，研究者同步捕获学生的“边想边说”（Think-Aloud）音频与屏幕交互行为。通过将口语转录文本（如遇到 AI 生成公式时的疑惑叹气）与学生提示词修改动作进行毫秒级对齐转录，精准还原了学习者从绝对主义盲从向评价主义审问演进的动态认知轨迹。
 > - **人机协同[[Scientific Explanation|科学解释]]中的多模态对话与提示词日志转录（[[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez, 2026]]）**
 >   在高中生利用生成式 AI 协同建构科学解释的研究中，研究者同步采集课堂实时录音录像、AI 对话日志与学生最终修订文本。转录过程严格遵循逐字原则（Verbatim Transcription），完整保留学生的语气停顿、重复、疑惑发问与同伴争议，并与 AI 生成时间戳及提示词修改记录对齐，为后续开展[[Multimodal Discourse Analysis|多模态话语分析]]和[[Epistemological Vigilance|认识论警觉]]水平[[Coding in Qualitative Research|编码]]奠定了高保真数据基础。
@@ -174,6 +176,6 @@ updated: 2026-09-22
 ## 相关研究
 
 > [!evidence-grid-a] [[Qualitative Research\|质性研究]]与方法索引
-> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 结合课堂音视频与 [[Generative Artificial Intelligence|GenAI]] 对话日志开展高精度逐字转录与时间戳对齐，为[[Multimodal Discourse Analysis|多模态话语分析]]与人机协同解释的[[Epistemology|认识论]]审验提供经验证据。
+> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 结合课堂音视频与 [[Generative Artificial Intelligence|GenAI]] 对话日志开展高精度逐字转录与时间戳对齐，为[[Multimodal Discourse Analysis|多模态话语分析]]与[[Man-Computer Symbiosis|人机协同]]解释的[[Epistemology|认识论]]审验提供经验证据。
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 在生成式 AI 学习实验中实施高精度多模态有声思维转录，结合屏幕日志与音频回溯系统[[Coding in Qualitative Research\|编码]]学习者的[[Epistemic Stances\|认识立场]]演变与[[Cognitive Offloading\|认知卸载]]行为。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011, Ch. 21 & Ch. 28)]] — 详述[[Qualitative Interview\|质性访谈]]转录作为理论性选择转换的[[Epistemology\|认识论]]本质（第 21 章），以及质性数据准备中的转录规范与管理操作规程（第 28 章）。

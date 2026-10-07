@@ -20,6 +20,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Funding Exit Mechanism]]"
   - "[[Embedded Network Governance]]"
   - "[[Network Governance]]"
@@ -82,7 +83,7 @@ title: "Argument_Fuchs_2010_RP"
 argument_key: "Argument_Fuchs_2010_RP"
 argument_display_title: "Rethinking the role of the state in technology development: DARPA and the case for embedded network governance"
 argument_kind: "journal-article"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -102,7 +103,7 @@ issuing_organization: ""
 > 长期以来，关于政府在科技创新政策中适切角色的学术论战普遍深陷于两大传统阵营的二元对立：新自由主义自由市场派主张国家职能应严格限于税收优惠、普遍补贴与不设定向的基础科研出资，由市场价格机制自发决定技术胜出者；而中央计划与发展型国家学派则主张由国家科层自上而下选定战略产业与技术赢家（Picking winners）。然而，这两种[[Paradigm|范式]]均无法充分解释美国战后高科技产业（如互联网、个人计算机、激光与现代半导体）的核心源头——[[DARPA|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, [[DARPA]]）长达五十年的治理实践。更为棘手的是，在 2001 至 2008 年[[Tony Tether|托尼·瑟瑟]]（Tony Tether）出任局长期间，DARPA 经历了历史上最剧烈的采办机制改革，将研发资金由大学大幅转移至军工与产业巨头，并推行严苛的阶段性里程碑考核，招致计算机科学学术界关于经典模式已死的强烈抗议。本文旨在解答：国家究竟能否以及如何超越市场放任与科层挑选赢家的二分法，在前沿硬科技领域主动识别并引导[[Technological Trajectories|技术轨道]]？[[Tony Tether|托尼·瑟瑟]]任期内引发巨大争议的激进重组是否真的终结了 DARPA 的核心运作机制？（pp. 1133–1135）
 
 > [!claim] 核心主张
-> DARPA 之所以能够在不自上而下指定单一技术赢家的前提下成功开辟颠覆性技术轨道，其根基并不在于表层容易变动的采办合同条规或[[Organizational Culture|组织文化]]话语，而在于项目经理之间长期稳定维系的一套微观非正式制度；在 2001 年前后两任领导期内，尽管受资助对象与宏观合同结构发生剧烈重组，但这套由识别前沿方向、播撒共同主题、工作坊强制知识流动、第三方权威背书以及[[Funding Exit Mechanism|适时断乳退出]]构成的非正式治理制度完全稳定延续。据此，科技政策制定必须在传统市场与科层之间引入一个全新的理论范式——[[Embedded Network Governance|嵌入型网络治理]]（Embedded [[Network Governance]]），即具备深厚专业认知并身处网络中心节点的公共代理人，主动依托[[Network Plasticity|网络可塑性]]重塑科学家与企业之间的研发社会网络，以此应对[[Vertical Disintegration|纵向碎片化产业生态]]并引导国家战略技术轨道。（pp. 1133–1135, 1144–1146）
+> DARPA 之所以能够在不自上而下指定单一技术赢家的前提下成功开辟颠覆性技术轨道，其根基并不在于表层容易变动的采办合同条规或[[Organizational Culture|组织文化]][[Discourse|话语]]，而在于项目经理之间长期稳定维系的一套微观非正式制度；在 2001 年前后两任领导期内，尽管受资助对象与宏观合同结构发生剧烈重组，但这套由识别前沿方向、播撒共同主题、工作坊强制知识流动、第三方权威背书以及[[Funding Exit Mechanism|适时断乳退出]]构成的非正式治理制度完全稳定延续。据此，科技政策制定必须在传统市场与科层之间引入一个全新的理论范式——[[Embedded Network Governance|嵌入型网络治理]]（Embedded [[Network Governance]]），即具备深厚专业认知并身处网络中心节点的公共代理人，主动依托[[Network Plasticity|网络可塑性]]重塑科学家与企业之间的研发社会网络，以此应对[[Vertical Disintegration|纵向碎片化产业生态]]并引导国家战略技术轨道。（pp. 1133–1135, 1144–1146）
 
 > [!concept-lens] 阅读透镜
 > - **对象** DARPA 微系统技术办公室（Microsystems Technology Office, MTO）在 1992 至 2008 年间资助推进摩尔定律极限的四项半导体关键材料技术（硅锗 SiGe、应变硅 strained Si、三维封装技术、硅基集成光子学）。（p. 1134）

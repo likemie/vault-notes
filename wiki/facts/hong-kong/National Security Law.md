@@ -10,7 +10,7 @@ subtype: event
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "event"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Psychologisation]]"
   - "[[Paradigm]]"
   - "[[Knowledge Framework]]"
+  - "[[Discourse]]"
   - "[[One Country, Two Systems]]"
   - "[[Zhonghua Minzu]]"
   - "[[Soft Power]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-07-13
+updated: 2026-10-07
 ---
 
 # National Security Law
@@ -107,7 +108,7 @@ updated: 2026-07-13
 >   - **教科书[[Knowledge Framework\|知识框架]]的系统重构** [[Citizenship and Social Development\|公社科]]教材完成了四个维度的改写：历史叙事本质化、宪制解释从属化、文化定位工具化以及权利与抗议叙事的全面抹除（pp.148–153）。
 > - **知识影响**
 >   - **青年不满的[[Psychologisation\|心理化]]治理** 配合国安[[Disciplina and Doctrina\|规训]]，港府推行感恩与幸福教育，将青年对社会制度与权利的合理诉求矮化为个体的心理调试问题，从而解构政治能动性（p.153）。
->   - **[[Schmittian Sovereignty\|例外状态]]逻辑在香港落地** 施密特式主权例外逻辑在香港宪制体制中常态化，重塑了香港治理话语，完成了从法治到以法而治的[[Paradigm\|范式转换]]（p.155）。
+>   - **[[Schmittian Sovereignty\|例外状态]]逻辑在香港落地** 施密特式主权例外逻辑在香港宪制体制中常态化，重塑了香港治理[[Discourse|话语]]，完成了从法治到以法而治的[[Paradigm\|范式转换]]（p.155）。
 
 ---
 
@@ -126,7 +127,7 @@ updated: 2026-07-13
 > [!citation-card]- 青年异化的[[Psychologisation\|心理化]]归因
 > 官方论述将青年的异化矮化为个人心理偏差问题。由于对现有秩序的批判已被定性为国安红线，对公众不满的解释只能诉诸个人或私人的适应不良（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.154]]）。
 >
-> *“Official discourse meanwhile reduces youth alienation to a matter of individual psychological deviance. With critique of the established order now outlawed as treasonous, explanations for public discontent must be sought at the level of private or individual maladaptation.”*
+> *“Official [[Discourse]] meanwhile reduces youth alienation to a matter of individual psychological deviance. With critique of the established order now outlawed as treasonous, explanations for public discontent must be sought at the level of private or individual maladaptation.”*
 
 ---
 

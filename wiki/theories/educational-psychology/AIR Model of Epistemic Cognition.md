@@ -8,7 +8,7 @@ aliases:
 summary: "当代教育心理学与学习科学的核心认识论认知模型，将认识实践解构为认识目标、认识论理想与可靠认识论过程三大相互交织的构件。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 47
+theory_related_count: 48
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Theoretical Standpoint]]"
   - "[[Ontology]]"
   - "[[Epistemic Stances]]"
+  - "[[Discourse]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Procedural Knowledge]]"
   - "[[Socioscientific Issues]]"
@@ -74,7 +75,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # AIR Model of Epistemic Cognition
@@ -145,7 +146,7 @@ updated: 2026-10-03
 > - **方法论含义** 评估学生的科学论证、探究能力或认识发展水平时，不能仅统计其言语或文本中结构性部件（Claim, Evidence, Reasoning）的出现频率，必须深入分析其言说背后的[[Epistemic Ideals\|认识论理想]]类型及对过程可靠性条件的敏感度。
 
 > [!theory-use] 如何用于研究与教学
-> - **作为分析与[[Coding in Qualitative Research\|编码]]框架** 用于质性编码学生在书面科学论文、口头辩论或小组研讨中的话语，析出其对证据[[Sample Size Determination\|样本量]]、[[Blinding\|盲法]]条件、仪器局限、多源聚合性等认识要素的掌握程度。
+> - **作为分析与[[Coding in Qualitative Research\|编码]]框架** 用于质性编码学生在书面科学论文、口头辩论或小组研讨中的[[Discourse|话语]]，析出其对证据[[Sample Size Determination\|样本量]]、[[Blinding\|盲法]]条件、仪器局限、多源聚合性等认识要素的掌握程度。
 > - **作为[[Scaffolding\|教学支架]]设计指引** 在探究教学中引入“模型-证据连接矩阵”（[[Model-Evidence-Link Matrix\|Model-Evidence-Link]] Matrices），引导学生依据班级自主共建的“好证据”与“好模型”公共准则开展评估。
 > - **作为元认识论对话触发器** 在课堂中组织元认识论审议（meta-epistemic discussions），促使学生跳出对具体结论的争论，转向辩护“为什么在当前情境下双盲/系统观察比个人直觉更可靠”。
 
@@ -168,7 +169,7 @@ updated: 2026-10-03
 > [!theory-boundary] 适用边界
 > - **适合解释** 科学探究、模型建构教学、多源证据协调、争议性[[Socioscientific Issues\|社会科学议题]]论辩及数字时代虚假信息甄别中的认知与[[Metacognition\|元认知]]活动。
 > - **谨慎使用** 高度程式化的算术推演或纯粹逻辑演绎任务，在这类封闭形式体系中因果经验过程与采样等认识条件空间极小。
-> - **不适合解释** 纯粹文学审美、修辞修饰技巧或无[[Epistemic Aims\|认识目标]]的纯情感表达性话语。
+> - **不适合解释** 纯粹文学审美、修辞修饰技巧或无[[Epistemic Aims\|认识目标]]的纯情感表达性[[Discourse|话语]]。
 
 ---
 

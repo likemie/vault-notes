@@ -9,7 +9,7 @@ aliases:
 summary: "由卡罗尔·韦斯开创并经公共政策与教育研究发展的理论模型谱系，系统阐明学术研究进入政策与实践的非线性多元机制（知识驱动、问题解决、互动、政治、战术、启蒙及社会智识事业），奠定工具性、概念性与象征性使用三元分类的基础。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 56
+theory_related_count: 57
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Problem Finding]]"
   - "[[Research Utilization]]"
+  - "[[Discourse]]"
   - "[[Construct]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Research Literacy]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Research Utilization Models
@@ -105,7 +106,7 @@ updated: 2026-10-02
 > [!citation-card]- 关键表述
 > [[Research Utilization\|研究利用]]并不总是意味着做出具体决策时的直接依据。更常见的情况是，研究的概念和理论逐渐扩散并渗透到决策者的日常思考中，以缓慢而累积的方式重构他们理解问题、定义优先级与评价备选方案的整体智识地图。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 132)]]
 >
-> *Research use is not a single, monolithic act of direct implementation. Instead, it encompasses multiple diffuse pathways through which research evidence, theoretical perspectives, and empirical concepts percolate into the policy and professional discourse, gradually reshaping how problems are understood and framed.*
+> *Research use is not a single, monolithic act of direct implementation. Instead, it encompasses multiple diffuse pathways through which research evidence, theoretical perspectives, and empirical concepts percolate into the policy and professional [[Discourse]], gradually reshaping how problems are understood and framed.*
 
 ---
 
@@ -167,7 +168,7 @@ updated: 2026-10-02
 > [!proposition-chain]- 延伸命题
 > - **推论一（源自核心命题一：互动模型的制度化演进）** 从 Weiss 的互动模型出发，当代教育改革演化出了“第四代研究使用”理论与[[Ecosystem for Research-Engaged Schools\|研究参与学校生态系统模型]]（Ecosystem for [[Research-Engaged School\|Research-Engaged Schools]]），主张研究机构与中小学建立“研究者-实践者伙伴关系”（Researcher-Practitioner Partnerships, [[Research-Practice Partnership\|RPP]]），从单向[[Knowledge Transfer\|知识转移]]（Transfer）走向[[Knowledge Co-production\|知识共创]]（Co-production）。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 3)]]
 > - **推论二（源自核心命题二：反向象征性异化推论）** 当[[New Public Management\|新公共管理]]（NPM）与高利害问责机制将“证据本位”强行作为量化考核指标时，学校和教师为了展示合法性，极易倒退向政治模型与战术模型，产生仪式性的象征性使用（如言语上堆砌术语、机械填报量表），阻碍真实教学反思。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 18)]]
-> - **应用命题** 在教育政策与教师教育评价中，不得仅以“是否有具体证据被直接采纳（工具性指标）”作为衡量科研转化成效的唯一标准，必须将概念性理解深化、专业话语更新与探究文化塑造纳入多维评价体系。
+> - **应用命题** 在教育政策与教师教育评价中，不得仅以“是否有具体证据被直接采纳（工具性指标）”作为衡量科研转化成效的唯一标准，必须将概念性理解深化、专业[[Discourse|话语]]更新与探究文化塑造纳入多维评价体系。
 
 > [!mechanism-map]- 机制图
 > ```mermaid

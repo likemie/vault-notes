@@ -6,13 +6,14 @@ aliases:
 summary: "个体在认知实践中表现出的隐性或无法言传的认识论倾向，常通过行为而非口头报告体现。"
 type: concept
 domain: "educational-psychology"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags: []
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Discourse]]"
   - "[[Epistemic Cognition]]"
   - "[[Justificatory Standards]]"
 related_theories: []
@@ -28,7 +29,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # Epistemic Commitments
@@ -42,7 +43,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 行动中体现的认识论预设，而非口头陈述的信念。
-> - **用途** 弥补了传统自陈式[[Questionnaire\|问卷]]（self-report questionnaires）的测量盲区，为通过观察学生的课堂话语和互动来评估[[Epistemic Cognition\|认识论认知]]提供了理论依据。
+> - **用途** 弥补了传统自陈式[[Questionnaire\|问卷]]（self-report questionnaires）的测量盲区，为通过观察学生的课堂[[Discourse|话语]]和互动来评估[[Epistemic Cognition\|认识论认知]]提供了理论依据。
 > - **边界** “承诺”一词避免了“信念（beliefs）”一词往往暗示的“明确、有意识的赞同”，涵盖了更底层的心理自动反应。
 
 ---

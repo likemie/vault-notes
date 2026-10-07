@@ -7,7 +7,7 @@ summary: "牛津大学教师教育荣休教授，英国教育研究协会与苏�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Scientism]]"
   - "[[Reflective Thinking]]"
+  - "[[Discourse]]"
   - "[[Gatekeepers]]"
   - "[[Discipline-Based Theory]]"
   - "[[Transfer Translation Transformation]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 # Ian Menter
@@ -107,7 +108,7 @@ updated: 2026-09-18
 ## 核心思想
 
 > [!claim] 核心主张
-> 门特认为，教师专业化必须建立在扎实的[[Research Literacy\|研究素养]]与[[Reflective Thinking\|反思性探究]]基础之上，反对将教师简化为执行国家现成方案的技术交付工；在当代教育治理中，证据话语已被制度化为一种主导性的“[[Rationalized Myth\|合理化神话]]”，政府表面上推崇科学证据与分散办学，实质上通过官方守门与适宜性筛选，推行基于政策意图的逆向证据制造以维系中央控制。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91–95)]]
+> 门特认为，教师专业化必须建立在扎实的[[Research Literacy\|研究素养]]与[[Reflective Thinking\|反思性探究]]基础之上，反对将教师简化为执行国家现成方案的技术交付工；在当代教育治理中，证据[[Discourse|话语]]已被制度化为一种主导性的“[[Rationalized Myth\|合理化神话]]”，政府表面上推崇科学证据与分散办学，实质上通过官方守门与适宜性筛选，推行基于政策意图的逆向证据制造以维系中央控制。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91–95)]]
 
 > [!citation-card] 教师教育中的研究导向临床实践
 > 教师不仅是技术熟练的工匠，更是具备研究素养的实践探究者。有效的[[Initial Teacher Training\|初始教师教育]]必须打破理论与实践的二元对立，将严谨学术证据作为临床教学诊断与决策的核心支撑。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 95)]]

@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 108
+argument_related_count: 109
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -86,6 +86,7 @@ related_concepts:
   - "[[Peidu]]"
   - "[[The Shock of the Elite]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Discourse]]"
   - "[[Work Meaning Schemas]]"
   - "[[Graduation Pathway Typology]]"
   - "[[Determinism]]"
@@ -956,7 +957,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 
 **（d）直觉依赖者的社会性投入：被习惯性忽略的宝藏**
 
-核心主张：弱势学生在社会性投入上不仅面临物质限制（经济窘迫），更面临**文化语码**的深层障碍——他们不掌握精英大学社交环境中默认的文化技能和话语体系，频繁经历融入失败，进而形成"社会性回避"的恶性循环。
+核心主张：弱势学生在社会性投入上不仅面临物质限制（经济窘迫），更面临**文化语码**的深层障碍——他们不掌握精英大学社交环境中默认的文化技能和[[Discourse|话语]]体系，频繁经历融入失败，进而形成"社会性回避"的恶性循环。
 
 具体机制：
 - **"语言包"比喻（大成）** 适应大学社交环境相当于"重新下载安装语言包"——需要包含校园热门话题、网络流行语、本地常识等。"一群学生坐一起开始开玩笑……你并不能讲出一个很好的玩笑"，根源在于文化语码的不适配

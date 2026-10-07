@@ -7,7 +7,7 @@ summary: "加拿大高等教育学者，国际教育枢纽与跨境高教研究�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 16
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Innovation Models Evolution]]"
   - "[[Knowledge Production]]"
+  - "[[Discourse]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Cultural Diplomacy]]"
@@ -43,7 +44,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-07
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 # Jane Knight
 
@@ -89,7 +90,7 @@ Knight 提出[[International Education Hubs|国际教育枢纽]]（IEH）超越�
 > [!quote]
 > "A country-level hub where a country is building and positioning itself as an attractive and acknowledged center of education, training, knowledge production, and innovation activities."（Knight, 2014b, p.5, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.43]]）
 
-三类型学的核心区分在于枢纽的主要驱动力：**学生枢纽**以吸引国际学生和扩大教育出口为核心；**人才枢纽**以培养和留住高技能劳动力为重心；**知识/[[Innovation Hub|创新枢纽]]**以知识生产、研发和创新活动为引擎。这一分类框架使原本模糊的"[[International Education|国际教育]]枢纽"政策话语具有了可比较、可分析的研究维度。
+三类型学的核心区分在于枢纽的主要驱动力：**学生枢纽**以吸引国际学生和扩大教育出口为核心；**人才枢纽**以培养和留住高技能劳动力为重心；**知识/[[Innovation Hub|创新枢纽]]**以知识生产、研发和创新活动为引擎。这一分类框架使原本模糊的"[[International Education|国际教育]]枢纽"政策[[Discourse|话语]]具有了可比较、可分析的研究维度。
 
 [[Argument_Zapp_2022_Springer|Zapp (2022)]] 在分析大学的地缘政治再领土化时援引 Knight (2018) 关于教育枢纽、知识村和智慧城市的分析，指出这些空间策略体现了全球化时代的一个深层悖论：大学知识越是跨越国界流动，大学空间本身越是被国家重新收回为地缘政治竞争的工具([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.155–156]])。参见 [[Geopolitics of Knowledge]]。
 

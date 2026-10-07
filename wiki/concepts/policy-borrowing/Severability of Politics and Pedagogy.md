@@ -12,7 +12,7 @@ aliases:
 summary: "教育政策借用与跨文化影响理论中的经典认识论与政治哲学命题，由斯托、霍勒斯·曼与巴纳德在借用普鲁士教育经验时提出，主张人类心智认知机能具有跨文化普遍性，基础教学法的高效性在认识论上独立于专制政体意志，借用国能够剥离被动顺从的意识形态灌输，将教学模式本土化重塑为培育民主公民的工具。"
 type: concept
 domain: "policy-borrowing"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Growth]]"
   - "[[Structural Coupling]]"
+  - "[[Hidden Curriculum]]"
   - "[[Open-Mindedness]]"
   - "[[Normal School]]"
   - "[[Disciplina and Doctrina]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Severability of Politics and Pedagogy
@@ -85,7 +86,7 @@ updated: 2026-10-01
 > [!contrast-table] 概念辨析
 > | 维度 | 恶政与教学法可分性命题 | [[Structural Functionalism\|结构功能主义]]整体论 | 批判意识形态再生产论 |
 > |---|---|---|---|
-> | **对政教关系的预设** | 相对自主与自然可分 | [[Structural Coupling\|结构耦合]]与顺向功能匹配 | 总体性隐蔽课程与阶级霸权共谋 |
+> | **对政教关系的预设** | 相对自主与自然可分 | [[Structural Coupling\|结构耦合]]与顺向功能匹配 | 总体性[[Hidden Curriculum\|隐蔽课程]]与阶级霸权共谋 |
 > | **对待外来体制态度** | 工具性甄别借用与民主赋义 | 普遍现代化规律线性扩散 | 警惕跨国新殖民主义文化侵略 |
 > | **对教师与教学法的看法** | 遵循普遍心智规律的认知科学 | 履行社会整合功能的专业角色 | 承载特定意识形态国家机器的宰制工具 |
 

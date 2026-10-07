@@ -9,7 +9,7 @@ aliases:
 summary: "吉塔·施泰纳-哈姆西（Gita Steiner-Khamsi）与温迪·埃斯佩兰德（Wendy Espeland）等学者提出的批判性理论构念，指在充斥歧义性、争议性与不确定性的教育决策生态中，数字作为理性表象的脚手架，相比质性论述能为政策制定者构筑出具备客观性、精确度与普适性的政治外壳。这种外衣在压制外部质疑的同时，为决策者依循自身政治偏好自由阐释指标意义保留了弹性空间。"
 type: concept
 domain: "comparative-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Scaffolding]]"
   - "[[Governing by Numbers]]"
+  - "[[Discourse]]"
   - "[[Zone of Proximal Development]]"
   - "[[Scientific Uncertainty]]"
   - "[[Causality]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Façade of Rationality
@@ -82,7 +83,7 @@ updated: 2026-10-02
 > 当政府面临国内旷日持久的教育争端或财政紧缩压力时，外部国际指标与最佳实践排名被迅速动员为无可辩驳的硬事实。这种对外部量化成果的援引并非为了寻求真实的技术改进，而是为了给既定的政治决断披上一层理性与科学的合法外衣。(Steiner-Khamsi, 2013, pp. 20–22)
 
 > [!boundary] 概念边界
-> - 不等于 [[Governing by Numbers\|数字治理]] — 数字治理关注的是通过跨国测评与指标监测重构权力分配的宏观规制体制，而理性表象聚焦于数字如何在微观与中观政策话语中发挥合法化包装与修辞遮蔽功能。
+> - 不等于 [[Governing by Numbers\|数字治理]] — 数字治理关注的是通过跨国测评与指标监测重构权力分配的宏观规制体制，而理性表象聚焦于数字如何在微观与中观政策[[Discourse|话语]]中发挥合法化包装与修辞遮蔽功能。
 > - 不等于 [[Scaffolding\|认知脚手架]] — 教学论中的脚手架是帮助学习者跨越[[Zone of Proximal Development\|最近发展区]]的支持性工具，而政策语境中的理性脚手架特指用以支撑政治论辩、平息公众质疑的话语支撑物。
 > - 不等于 [[Scientific Uncertainty\|科学不确定性]] — 科学不确定性探讨的是[[Causality\|因果关系]]与经验证据本身的或然性，而理性表象探讨的是决策者利用数字确定性假象去压制和掩盖不确定性的修辞策略。
 
@@ -93,7 +94,7 @@ updated: 2026-10-02
 > [!contrast-table] 概念辨析
 > | 维度 | 本概念（Façade of Rationality） | [[Governing by Numbers\|数字治理]] | [[Technical Rationality\|技术官僚理性]]（Technocratic Rationality） |
 > |---|---|---|---|
-> | **分析对象** | 决策者对量化指标的话语包装与象征利用 | 跨国组织与国家机器运行的量化规制体制 | 专家系统依循工程逻辑实施的纯粹技术计算 |
+> | **分析对象** | 决策者对量化指标的[[Discourse\|话语]]包装与象征利用 | 跨国组织与国家机器运行的量化规制体制 | 专家系统依循工程逻辑实施的纯粹技术计算 |
 > | **核心机制** | 借数字的客观性假象遮蔽政治利益并保留阐释自由 | 通过指标设定、排名比较与[[Peer Debriefing\|同行审议]]实施间接规制 | 依据严格的成本效益与投入产出模型决定资源配置 |
 > | **合法性来源** | 普适、精确的科学外观（实际服务于政治意图） | 标准化数据的大规模采集与跨国可比性 | [[Value Neutrality\|价值中立]]的工具理性与专业化计算规程 |
 > | **适用情境** | 充满价值纷争、高度不确定性与公众审视的政治决策 | 全球化多边监测网络与后[[New Public Management\|新公共管理]]问责框架 | 目标单一、因果链条闭合的封闭型技术官僚体系 |
@@ -177,7 +178,7 @@ updated: 2026-10-02
 > - **技术去政治化陷阱** 理性外衣过分掩盖了教育的伦理、阶层与历史维度，促使政策制定陷入对指标排名的病态追逐，引发严重的为了指标而教等反冲效应。
 
 > [!warning] 适用局限
-> 理性表象[[Construct\|构念]]专注于揭示政策高层的政治话语修辞与合法化动员，对于学校一线教师如何在微观课堂中接纳、[[Transfer Translation Transformation\|转译]]或抵制具体量化工具的日常实践缺乏细致的解释力。
+> 理性表象[[Construct\|构念]]专注于揭示政策高层的政治[[Discourse|话语]]修辞与合法化动员，对于学校一线教师如何在微观课堂中接纳、[[Transfer Translation Transformation\|转译]]或抵制具体量化工具的日常实践缺乏细致的解释力。
 
 ---
 

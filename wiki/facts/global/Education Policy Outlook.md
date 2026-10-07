@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[International Large-Scale Assessments]]"
   - "[[Policy Brokerage]]"
   - "[[Soft Power]]"
+  - "[[Discourse]]"
   - "[[Knowledge Transfer]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Policy Borrowing]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-10-07
 ---
 
 # Education Policy Outlook
@@ -128,7 +129,7 @@ updated: 2026-09-12
 > > - **比较教育批评（Steiner-Khamsi, 2004; Waldow, 2017）** 指出 EPO 在梳理各国"成功政策"时往往割裂特定文化历史与制度禀赋的深层情境，将复杂的社会—政治—历史现象压缩为可直接移植的政策处方标签，推动各国陷入不切实际的政策仿制（Policy Mimicry）。
 > > - **[[OECD\|经合组织]]立场** 强调 EPO 始终强调"情境适应"（Adaptation to Context）的必要性，推荐各国汲取政策逻辑而非机械照搬具体措施。
 > >
-> > [!axis] 经合组织成员国中心化与全球南方的话语边缘化
+> > [!axis] 经合组织成员国中心化与全球南方的[[Discourse|话语]]边缘化
 > > EPO 覆盖范围以高收入 OECD 成员国为核心，对全球南方的代表性严重不足。
 > >
 > > - **全球南方批评** 绝大多数全球教育挑战最严峻的低收入国家并非经合组织成员，其政策经验、资源约束与制度情境在 EPO 的[[Analytic Framework\|分析框架]]中严重缺位；将高收入成员国的经验推介给资源匮乏的发展中国家本质上是高度不对等的[[Knowledge Transfer\|知识转移]]。

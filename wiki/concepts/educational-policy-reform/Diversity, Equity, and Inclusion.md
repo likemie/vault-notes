@@ -12,7 +12,7 @@ aliases:
 summary: "指强调在组织、教育与学术机构中促进人口学背景多样性、消除历史与结构性不平等、并构建包容性文化与制度环境的政策框架与价值理念。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Academic Freedom]]"
   - "[[Hypothesis]]"
+  - "[[Discourse]]"
   - "[[Gold Standard Science]]"
   - "[[Variable]]"
 related_theories: []
@@ -110,7 +111,7 @@ updated: 2026-10-07
 > 探讨将身份政治与多样性要求引入基础科学同行评议对学术卓越与创新效率的潜在影响。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
-> **学术能力优先与选拔扭曲** 当联邦资助机构将重点过度转向多元、平等与包容（DEI）倡议，并强制要求技术提案附带包容性计划时，迫使科研人员在硬核科学论证中附会非学术性话语；此类基于非客观标准的人才筛选机制类似于历史上排斥特定群体的非学术考量，其最终代价是损害国家整体的前沿科学探索能力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
+> **学术能力优先与选拔扭曲** 当联邦资助机构将重点过度转向多元、平等与包容（DEI）倡议，并强制要求技术提案附带包容性计划时，迫使科研人员在硬核科学论证中附会非学术性[[Discourse|话语]]；此类基于非客观标准的人才筛选机制类似于历史上排斥特定群体的非学术考量，其最终代价是损害国家整体的前沿科学探索能力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
 
 ---
 
@@ -137,7 +138,7 @@ updated: 2026-10-07
 
 > [!tension] 群体代表性促进与纯粹学术优选的价值冲突
 > - **社会正义与代表性论（蓝方）** 认为学术界长期存在系统性特权，强制推行 DEI 能够吸纳被忽视的人才，拓宽科学问题视角并实现教育公平。
-> - **科学功绩制与效率优先论（红方）** 强调前沿科技突破取决于最卓越的智慧与严格的实验能力，引入非学术话语会导致评价异化与合规寻租。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
+> - **科学功绩制与效率优先论（红方）** 强调前沿科技突破取决于最卓越的智慧与严格的实验能力，引入非学术[[Discourse|话语]]会导致评价异化与合规寻租。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]
 
 ---
 

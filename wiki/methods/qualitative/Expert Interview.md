@@ -10,9 +10,9 @@ summary: "将受访者视为具有特定领域专业特权、制度性职能与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 39
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 40
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
+  - "[[Discourse]]"
   - "[[Working Knowledge]]"
   - "[[Commensuration]]"
 related_methods:
@@ -67,7 +68,7 @@ related_persons:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Expert Interview
@@ -147,7 +148,7 @@ updated: 2026-10-06
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源** 印象管理偏误（专家美化本部门决策合规性）、官僚公关话语阻隔、样本准入壁垒。
+> - **偏误来源** 印象管理偏误（专家美化本部门决策合规性）、官僚公关[[Discourse|话语]]阻隔、样本准入壁垒。
 > - **适用边界** 访谈结论受特定行政体制、法律传统与政治文化制约，跨国或跨制度外推需审慎。
 > - **误用风险** 容易将个别专家的主观认知或策略性辩白直接误判为客观组织事实。
 > - **补救方式** 坚持多方[[Triangulation\|三角互证]]，将专家口述与官方正式通告、统计报表、法案档案及对立利益相关者证言相互印证。

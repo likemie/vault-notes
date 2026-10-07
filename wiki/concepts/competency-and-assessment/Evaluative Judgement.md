@@ -8,7 +8,7 @@ aliases:
 summary: "学习者理解何为良好工作质量，并能够对自己及他人的工作质量做出审慎、明智评价决策的核心能力。在高等教育与智能化求知情境中，评价性判断被确立为不可向算法外包的核心认识能力与终身学习基石。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Learner Autonomy]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Self-Regulated Learning]]"
   - "[[Homework]]"
   - "[[Critical Thinking]]"
@@ -51,7 +52,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Evaluative Judgement
@@ -62,7 +63,7 @@ updated: 2026-10-05
 ## 定义
 
 > [!def] 核心定义
-> 评价性判断（Evaluative Judgement）是指**学习者理解何为良好工作的质量标准，并能够对自己以及他人的学术成果或实践表现做出审慎、明智评价决策的能力**。由乔安娜·戴（Joanna Tai）与戴维·鲍德（David Boud）等人于 2018 年系统界定，该[[Construct\|构念]]强调评价不仅是教师的单向外部打分，更是学习者在离开正规教育后持续开展[[Learner Autonomy\|自主学习]]与专业实践不可或缺的元能力。在人机共生学习中，评价性判断被确立为不可让渡给人工智能算法的核心认识底线。Tai et al. (2018); [[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4–6)]]
+> 评价性判断（Evaluative Judgement）是指**学习者理解何为良好工作的质量标准，并能够对自己以及他人的学术成果或实践表现做出审慎、明智评价决策的能力**。由乔安娜·戴（Joanna Tai）与戴维·鲍德（David Boud）等人于 2018 年系统界定，该[[Construct\|构念]]强调评价不仅是教师的单向外部打分，更是学习者在离开正规教育后持续开展[[Learner Autonomy\|自主学习]]与专业实践不可或缺的元能力。在[[Man-Computer Symbiosis|人机共生]]学习中，评价性判断被确立为不可让渡给人工智能算法的核心认识底线。Tai et al. (2018); [[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4–6)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于被动遵循教师量规的“达标测验”，评价性判断指向学习者内部质量表征的建构与动态校准，是连接知识标准与[[Self-Regulated Learning\|自我调节学习]]的关键枢纽。
@@ -89,7 +90,7 @@ updated: 2026-10-05
 > |---|---|---|---|---|
 > | **认知层级** | 高阶元能力，融合学科标准与反思决策 | 中阶认知行为，指向具体任务的自查 | 低阶依从行为，对照既定指标逐条核对 | 外部机器计算，基于统计或模式匹配输出 |
 > | **标准来源** | 内部内化并动态校准的质量表征 | 外部给定的量规或教师提供的范例 | 显性化的文字评分规则细则 | 深度学习算法的隐性权重与概率分布 |
-> | **适用情境** | 开放劣构情境、人机协同辩论、终身专业实践 | 结构化课程[[Homework\|作业]]、阶段性模拟测验 | 封闭性标准测试、考试阅卷评分 | 语法排错、标准化测试与海量作业初筛 |
+> | **适用情境** | 开放劣构情境、[[Man-Computer Symbiosis\|人机协同]]辩论、终身专业实践 | 结构化课程[[Homework\|作业]]、阶段性模拟测验 | 封闭性标准测试、考试阅卷评分 | 语法排错、标准化测试与海量作业初筛 |
 > | **主体角色** | 独立负责的评判者与知识主张捍卫者 | 任务执行者与行为校正者 | 规则遵循者与合规操作者 | 机器评价结果的被动接收者 |
 
 ---
@@ -102,7 +103,7 @@ updated: 2026-10-05
 > - **独立决断与责任承担（Autonomous Decision-making）** 面对矛盾建议或算法生成结论时，敢于做出采纳或拒绝的判断，并为自己的最终决策承担学术与实践责任。
 > - **形成性改进的行动转化（Productive Action）** 将判断结果转化为切实可行的作品修订与认知图式重构，形成[[Self-Regulated Learning\|自我调节学习]]闭环。
 
-> [!logic-map]- 评价性判断在人机协同求知中的运行机制
+> [!logic-map]- 评价性判断在[[Man-Computer Symbiosis|人机协同]]求知中的运行机制
 > ```mermaid
 > flowchart LR
 >     A["学术任务与初始草案"] --> B["获取多源输入: AI/同伴/文献"]
@@ -142,7 +143,7 @@ updated: 2026-10-05
 
 ### 命题三　人工智能环境下的评价性判断具有不可委托性，是区分生产性与有害认识依赖的核心分水岭
 
-> [!concept-lens] 人机共生环境中的判断权分配
+> [!concept-lens] [[Man-Computer Symbiosis|人机共生]]环境中的判断权分配
 > 探讨生成式技术的即时评级与润色如何威胁学习者的评价能力，确立人类不可让渡的认知底线。
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]
@@ -167,7 +168,7 @@ updated: 2026-10-05
 > - **1980–1990 年代 — [[Formative Assessment\|形成性评价]]与学生参与萌芽** [[Michael Sadler\|萨德勒]]（Royce Sadler, 1989）提出划时代的形成性评价理论，指出学生要改进学习，必须具备关于良好成果的概念并能够将其与自身现状做对比。
 > - **2000–2010 年代 — 可持续评估（Sustainable Assessment）** 戴维·鲍德（David Boud, 2000）提出可持续评估理念，强调评估应当着眼于满足学生离开大学后的未来学习需求，为评价判断概念奠定理论基石。
 > - **2018 年 — 评价性判断[[Construct\|构念]]正式确立与系统化** 乔安娜·戴等（Tai et al., 2018）在 *Higher Education* 发表开创性论文，正式将“评价性判断（Evaluative Judgement）”[[Operationalization\|操作化]]为包含理解标准、自我反思、同伴评阅与独立裁决的完整理论架构。
-> - **2026 年 — 智能时代人机共生中的[[Epistemology\|认识论]]重塑** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 将评价性判断引入人工智能哲学与学习科学的前沿交叉，确立其为界定有害[[Epistemic Dependence\|认识依赖]]的核心诊断标尺，提出人机交互必须围绕“保护并培育学生的评价性判断”进行教学法与评价体系全方位重构。
+> - **2026 年 — 智能时代[[Man-Computer Symbiosis|人机共生]]中的[[Epistemology\|认识论]]重塑** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 将评价性判断引入人工智能哲学与学习科学的前沿交叉，确立其为界定有害[[Epistemic Dependence\|认识依赖]]的核心诊断标尺，提出人机交互必须围绕“保护并培育学生的评价性判断”进行教学法与评价体系全方位重构。
 
 ---
 
@@ -230,4 +231,4 @@ updated: 2026-10-05
 > | [[Epistemic Dependence\|认识依赖]] | 诊断标准 | 评价性判断是否被算法替代，是划分生产性依赖与有害依赖的决定性标尺。 |
 > | [[AI Literacy\|人工智能素养]] | 高阶内涵 | 批判性 AI 素养超越提示词操作，立足于运用评价性判断审判模型输出。 |
 > | [[Feedback\|教学反馈]] | 互动载体 | [[Feedback Literacy\|反馈素养]]的核心即在于对反馈信息的价值做出独立、明智的评价性判断。 |
-> | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] | 智能时代深化 | 论证评价性判断在人机协同中的不可委托性，构建反思决策追踪的治理方案。 |
+> | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] | 智能时代深化 | 论证评价性判断在[[Man-Computer Symbiosis\|人机协同]]中的不可委托性，构建反思决策追踪的治理方案。 |

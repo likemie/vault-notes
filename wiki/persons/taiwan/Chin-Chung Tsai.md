@@ -9,10 +9,10 @@ summary: "台湾师范大学讲座教授、学习科学与教育技术领域国�
 type: person
 nationality: taiwan
 person_region: "taiwan"
-person_related_count: 30
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 32
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1967"
 lifespan: "1967–至今"
 tags:
@@ -22,6 +22,7 @@ tags:
   - theme/epistemic-cognition
 related_concepts:
   - "[[Epistemological Beliefs]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Epistemology]]"
   - "[[Epistemic Stances]]"
   - "[[Epistemic Agency]]"
@@ -30,6 +31,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Learning Analytics]]"
   - "[[Inquiry-Based Learning]]"
+  - "[[Discourse]]"
   - "[[Cognitive Offloading]]"
   - "[[Epistemic Dependence]]"
   - "[[Scaffolding]]"
@@ -60,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Chin-Chung Tsai
@@ -71,10 +73,10 @@ updated: 2026-09-22
 
 > [!person-profile] 人物档案
 > - **身份位置** 中国台湾学习科学与教育技术学者，台湾师范大学学习科学跨国顶尖研究中心讲座教授、教育学院院长，国际权威期刊 *Computers & Education* 与 *International Journal of Science Education* 前主编/主编。
-> - **核心角色** 在学习者科学[[Epistemological Beliefs\|认识论信念]]、网络化学习环境认知机制以及人机协同[[Knowledge Building Theory|知识建构]]研究中发挥奠基性枢纽作用。
+> - **核心角色** 在学习者科学[[Epistemological Beliefs\|认识论信念]]、网络化学习环境认知机制以及[[Man-Computer Symbiosis|人机协同]][[Knowledge Building Theory|知识建构]]研究中发挥奠基性枢纽作用。
 > - **代表贡献** 提出网络学习[[Epistemology\|认识论]]两大假说（Tsai, 2004）；开创基于认识[[Network Analysis\|网络分析]]的学习交互研究；建构人机自适应[[Epistemic Stances\|认识立场]]与共生学习理论框架。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360)]]
 
-> [!citation-card] 人机共生学习环境中的认识调适定位
+> [!citation-card] [[Man-Computer Symbiosis|人机共生]]学习环境中的认识调适定位
 > 在人工智能中介的学习环境中，学习者并非单向接受机器输出，而是通过动态调适认识立场与交互策略，与智能系统建立共享的[[Epistemic Agency\|认识能动性]]，实现双向的智力增益。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 360)]]
 >
 > *This shared epistemic agency between humans and [[Generative Artificial Intelligence\|GenAI]] [[CREATES Project\|CREATES]] opportunities for mutual intellectual [[Growth]]. To fully leverage this potential, learners must adopt an adaptive epistemic stance.*
@@ -88,7 +90,7 @@ updated: 2026-09-22
 > - **2004** 发表于权威期刊关于网络化教学与认识论信念重塑的奠基性论文，系统提出网络学习环境对不同认识论信念学习者的差异化影响及逆向重塑机制。
 > - **2006–2019** 先后出任台湾科技大学与台湾师范大学讲座教授，长期主持教育技术与学习科学前沿研究团队，历任国际顶级期刊 *Computers & Education* 与 *International Journal of Science Education* 主编。
 > - **2020–至今** 出任台湾师范大学教育学院院长，主持学习科学跨国顶尖研究中心，推进[[Generative Artificial Intelligence\|生成式人工智能]]时代的认知建模与自适应支架研究。
-> - **2025** 与合作者在 *Educational Researcher* 发表专论，将网络[[Epistemology\|认识论]]假说升级为生成式人工智能时代的人机共生认识理论框架。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–368)]]
+> - **2025** 与合作者在 *Educational Researcher* 发表专论，将网络[[Epistemology\|认识论]]假说升级为生成式人工智能时代的[[Man-Computer Symbiosis|人机共生]]认识理论框架。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–368)]]
 
 ---
 
@@ -102,8 +104,8 @@ updated: 2026-09-22
 > - **2005–2020 — 认识[[Network Analysis\|网络分析]]、多模态[[Learning Analytics\|学习分析]]与概念转变深化阶段** 引入定量语义与关系拓扑技术，对科学探究中的概念转变与[[Epistemology\|认识论]]互动展开精细化建模。
 >   - **代表著作** *Epistemic Network Analysis in Learning Sciences* 等系列专著与实证论文。
 >   - **关键概念／方法** [[Network Analysis]]、[[Learning Analytics]]、[[Inquiry-Based Learning]]。
->   - **阶段转向** 从静态[[Questionnaire\|问卷]]测量转向动态话语交互与认识网络结构的计算建模。
-> - **2021–至今 — [[Generative Artificial Intelligence\|生成式人工智能]]时代的人机共生认识理论阶段** 回应大语言模型带来的[[Cognitive Offloading\|认知外包]]与[[Epistemic Dependence\|认识依赖]]挑战，系统建构自适应[[Epistemic Stances\|认识立场]]与人机共生学习理论。
+>   - **阶段转向** 从静态[[Questionnaire\|问卷]]测量转向动态[[Discourse|话语]]交互与认识网络结构的计算建模。
+> - **2021–至今 — [[Generative Artificial Intelligence\|生成式人工智能]]时代的[[Man-Computer Symbiosis|人机共生]]认识理论阶段** 回应大语言模型带来的[[Cognitive Offloading\|认知外包]]与[[Epistemic Dependence\|认识依赖]]挑战，系统建构自适应[[Epistemic Stances\|认识立场]]与人机共生学习理论。
 >   - **代表著作** *Strengthening Human [[Epistemic Agency]] in the Symbiotic Learning Partnership With Generative Artificial Intelligence*。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–368)]]
 >   - **关键概念／方法** [[Symbiotic Framework of Adaptive Epistemic Stances]]、[[Epistemic Agency]]、[[Epistemic Stances]]、[[Cognitive Offloading]]、[[Scaffolding]]。
 >   - **阶段转向** 确立人机共享认识主体性假说，建构提示词支架与同行评议双轨干预矩阵，指导智能时代学习环境设计。
@@ -113,7 +115,7 @@ updated: 2026-09-22
 ## 核心思想
 
 > [!claim] 核心主张
-> 数字与智能技术对学习的深层影响不仅取决于信息呈现与交互界面，更取决于技术中介与学习者[[Epistemic Cognition\|认识论认知]]的[[Interaction Effect\|交互作用]]。从互联网搜索到生成式大语言模型，学习者必须从被动顺从或单一怀疑转向情境化的[[Epistemic Stances\|适应性认识立场]]，在双轨[[Scaffolding\|教学支架]]的协同下行使[[Epistemic Agency\|认识能动性]]，实现人机共生智力增益。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
+> 数字与智能技术对学习的深层影响不仅取决于信息呈现与交互界面，更取决于技术中介与学习者[[Epistemic Cognition\|认识论认知]]的[[Interaction Effect\|交互作用]]。从互联网搜索到生成式大语言模型，学习者必须从被动顺从或单一怀疑转向情境化的[[Epistemic Stances\|适应性认识立场]]，在双轨[[Scaffolding\|教学支架]]的协同下行使[[Epistemic Agency\|认识能动性]]，实现[[Man-Computer Symbiosis|人机共生]]智力增益。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
 
 > [!citation-card] 网络学习与[[Epistemology\|认识论]]重塑假说
 > 开放非结构化的数字技术环境为高阶认识论学习者提供了多元表征与整合空间，同时要求教学设计为低阶认识论学习者提供必要支架，推动其认识立场向评价论演进。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–361)]]
@@ -132,11 +134,11 @@ updated: 2026-09-22
 > [!influence-path] 影响路径
 > - **理论路径** 推进了从传统个体[[Epistemology\|认识论]]发展论向人机中介与情境化[[Epistemic Cognition\|认识论认知]]的转型，深化了对学习者在技术富集环境中[[Epistemic Agency\|认识能动性]]与[[Cognitive Offloading\|认知卸载]]机制的理论解释。
 > - **方法路径** 推动了认识[[Network Analysis\|网络分析]]（Epistemic Network Analysis, ENA）与多模态[[Learning Analytics\|学习分析]]在科学教育与在线协作中的实证落地，为测量复杂认识论互动提供了计算[[Paradigm\|范式]]。
-> - **实践路径** 指导了数字化探究工具开发、基于大模型的[[Dialogue in Education\|教育对话]][[AI Agent in Education\|智能体]]设计以及人机协同课堂中双轨促学支架的研制。
+> - **实践路径** 指导了数字化探究工具开发、基于大模型的[[Dialogue in Education\|教育对话]][[AI Agent in Education\|智能体]]设计以及[[Man-Computer Symbiosis|人机协同]]课堂中双轨促学支架的研制。
 > - **跨领域传播** 成果横跨学习科学、教育技术学、科学教育与人机交互领域，成为东亚及[[International Education\|国际教育]]计算研究领域被引频次最高的领军学者之一。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出人机共生自适应[[Epistemic Stances\|认识立场]]理论，系统建构双轨支架干预矩阵并界定人机共享认识主体性。
+> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]理论，系统建构双轨支架干预矩阵并界定人机共享认识主体性。
 
 ---
 
@@ -174,6 +176,6 @@ updated: 2026-09-22
 > | [[Epistemic Agency]] | 概念 | 论证人机共享认识主体性的实现条件与主体自持路径。 |
 > | [[Cognitive Offloading]] | 概念 | 揭示认识立场对认知卸载性质（消极顺从 vs 增益协同）的决定性作用。 |
 > | [[Scaffolding]] | 概念 | 提出技术提示词支架与教学法支架协同的双轨干预矩阵。 |
-> | [[Symbiotic Framework of Adaptive Epistemic Stances]] | 理论 | 与合作者系统提出人机共生学习与自适应认识立场理论框架。 |
+> | [[Symbiotic Framework of Adaptive Epistemic Stances]] | 理论 | 与合作者系统提出[[Man-Computer Symbiosis\|人机共生]]学习与自适应认识立场理论框架。 |
 > | [[Network Analysis]] | 方法 | 倡导并应用认识网络分析法表征学习者的复杂概念与[[Epistemology\|认识论]]互动结构。 |
 

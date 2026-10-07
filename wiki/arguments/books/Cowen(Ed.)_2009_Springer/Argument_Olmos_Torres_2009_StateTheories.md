@@ -34,6 +34,7 @@ related_concepts:
   - "[[Categorical Funding]]"
   - "[[Technical Rationality]]"
   - "[[Structural Adjustment Programs]]"
+  - "[[Discourse]]"
   - "[[Document]]"
   - "[[Competitiveness]]"
   - "[[Dual School System]]"
@@ -112,7 +113,7 @@ title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches"
 argument_kind: "book-chapter"
-argument_related_count: 73
+argument_related_count: 74
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -164,7 +165,7 @@ issuing_organization: ""
 > |------|----------------|
 > | **批判性理论评述与概念重构** | 系统梳理韦伯主义、功能主义、[[World-Systems Theory\|世界体系理论]]、新自由主义国家观与新马克思主义国家批判学说，辨析各流派在教育扩张动力机制上的根本分歧。（pp. 73–80） |
 > | **[[Historical-Comparative Method\|历史比较与政治经济学分析]]** | 运用政治经济学框架，系统考察拉丁美洲社会 20 世纪前殖民与后殖民历史遗产、1960 年代工业化时期的教育扩张跃升、1980 年代债务危机以及[[Structural Adjustment Programs\|结构调整政策]]的演进历程。（pp. 81–84） |
-> | **跨国机构文本与政策话语剖析** | 深度解构世界银行、[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）与国际货币基金组织（International Monetary Fund, IMF）贷款政策文本与核心经济学分析范式。（pp. 79–81） |
+> | **跨国机构文本与政策[[Discourse\|话语]]剖析** | 深度解构世界银行、[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）与国际货币基金组织（International Monetary Fund, IMF）贷款政策文本与核心经济学分析范式。（pp. 79–81） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -287,7 +288,7 @@ issuing_organization: ""
 国际金融机构与跨国多边组织是推行上述生产方式转变与社会规训的关键制度中介。正如[[Thomas S. Popkewitz|托马斯·S·波普科维茨]]等学者（Popkewitz & Pereyra, 1993）对八国教师教育改革研究所指出的，[[OECD|经合组织]]（[[OECD]]）等国际组织在推进规训教师教育的法规政策演变中扮演了关键枢纽角色。（p. 80）
 
 > [!claim] 核心判断：[[World Bank|世界银行]]构建了操纵全球教育改革的[[Financial-Intellectual Complex|金融-智识复合体]]
-> [[Joel Samoff|乔尔·萨莫夫]]（Joel Samoff）等学者的调查揭露，世界银行在全球教育政策中扮演了霸权角色。它不仅提供紧缩性贷款，更通过垄断研究经费和学术话语，打造了一个规训第三世界的金融-智识复合体。（pp. 80–81）
+> [[Joel Samoff|乔尔·萨莫夫]]（Joel Samoff）等学者的调查揭露，世界银行在全球教育政策中扮演了霸权角色。它不仅提供紧缩性贷款，更通过垄断研究经费和学术[[Discourse|话语]]，打造了一个规训第三世界的金融-智识复合体。（pp. 80–81）
 >
 > 在考察世界银行对全球高等教育的渗透时，[[Daniel Schugurensky|丹尼尔·舒古伦斯基]]（Daniel Schugurensky, 1994）进一步指出，世界银行在国际层面扮演的角色，与美国[[Business Roundtable|商业圆桌会]]（Business Roundtable）在美国本土推行教育改革议程的机制高度类似；世界银行所倡导的私有化政策与商业圆桌会发端的大量新自由主义及新保守主义主张之间，存在着深刻的“[[Selective Affinity|选择性亲和]]”（elective affinity）。（p. 81）
 
@@ -410,7 +411,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card] [[Joel Samoff|萨莫夫]]论[[World Bank|世界银行]]的智识霸权
-> 世界银行是追求知识与专门技能跨国化的金融与智识复合体中的核心参与者，它利用受雇专家共同体，使研究与教育融资形成强力合流。世界银行在全球教育权力与决策网络中扮演着枢纽角色，通过长周期[[Categorical Funding|委托研究]]、巨额预算资助以及捍卫技术官僚工具理性，深刻形塑着发展中国家的教育政策与国际学术话语。（pp. 80–81）
+> 世界银行是追求知识与专门技能跨国化的金融与智识复合体中的核心参与者，它利用受雇专家共同体，使研究与教育融资形成强力合流。世界银行在全球教育权力与决策网络中扮演着枢纽角色，通过长周期[[Categorical Funding|委托研究]]、巨额预算资助以及捍卫技术官僚工具理性，深刻形塑着发展中国家的教育政策与国际学术[[Discourse|话语]]。（pp. 80–81）
 >
 > *Samoff argues persuasively that the World Bank is a major player in an intellectual and financial complex pursuing the transnationalization of knowledge and expertise, using a community of experts for hire in a process where there is a strong confluence of research and educational financing. The world is seen as having a pivotal role in the network of power and decision making in education worldwide, influencing in peculiar ways research and policy-making in developing countries as well as influencing the international discourse in education by different means.*
 

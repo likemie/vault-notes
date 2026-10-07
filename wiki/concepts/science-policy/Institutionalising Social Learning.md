@@ -9,7 +9,7 @@ aliases:
 summary: "在复杂公共治理与转型政策中，通过多方参与、共同愿景塑造与反思性试验实现集体认知收敛的制度化过程"
 type: concept
 domain: "science-policy"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Self-Efficacy]]"
   - "[[Document]]"
+  - "[[Discourse]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Disciplina and Doctrina]]"
 related_theories:
@@ -39,7 +40,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Institutionalising Social Learning
@@ -84,7 +85,7 @@ updated: 2026-10-03
 > [!feature] 制度化社会学习的核心支柱
 > - **包容性多方参与平台（Inclusive Stakeholder Engagement）** 将高校科研人员、政策制定者、企业、社区公众及非政府组织纳入平等的对话协商平台，建立跨界合作信任。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 477)]]
 > - **共同愿景塑造（Collective Visioning）** 促使不同主体跳出短期利益纷争，围绕长期社会转型的根本价值与前瞻图景开展协作共创。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 477)]]
-> - **认知框架重构（Framing & Reframing）** 通过科学证据整合与伦理话语更新，将高度争议的公共议题转化为全社会能够达成共识的行动议程（如二手烟危害研究将吸烟由个人自由重构为公共健康保护）。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 481–483, 487)]]
+> - **认知框架重构（Framing & Reframing）** 通过科学证据整合与伦理[[Discourse|话语]]更新，将高度争议的公共议题转化为全社会能够达成共识的行动议程（如二手烟危害研究将吸烟由个人自由重构为公共健康保护）。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 481–483, 487)]]
 > - **早期探索性学习路径（Early Learning Approach）** 在研发实施早期资助大量多样化的小型探索性项目，通过广泛的社会与技术试错反馈识别可行方案，及时淘汰失效路径。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 486)]]
 
 > [!logic-map]- 制度化社会学习的运作与收敛机制
@@ -128,7 +129,7 @@ updated: 2026-10-03
 > **社会学习作为适应性治理的制度基础设施** 面对气候变化与生态退化等高度不确定性挑战，线性的科学评估直接指导决策模式必然失效。必须将社会学习作为系统性治理的常态化机制，通过在组织间建立制度化的反思与学习通道，提升治理系统对外部动态环境的自适应能力。
 
 > [!claim] Wanzenböck, I. et al.
-> **框架重塑促成问题端率先收敛** 在问题导向路径中，社会学习是推动挑战从第一象限（迷失状态）走向第二象限（寻找方案）的关键动力。通过吸纳广泛社会行动者参与，不仅能够提高问题定义的透明度与社会合法性，还能打破既得利益集团对政策话语的垄断。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 477, 481)]]
+> **框架重塑促成问题端率先收敛** 在问题导向路径中，社会学习是推动挑战从第一象限（迷失状态）走向第二象限（寻找方案）的关键动力。通过吸纳广泛社会行动者参与，不仅能够提高问题定义的透明度与社会合法性，还能打破既得利益集团对政策[[Discourse|话语]]的垄断。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 477, 481)]]
 
 ---
 

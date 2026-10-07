@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Attrition]]"
   - "[[Professional Judgment]]"
+  - "[[Discourse]]"
   - "[[Democratising Evidence]]"
   - "[[Output-Oriented Governance]]"
 related_theories: []
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # National Education Association
@@ -182,7 +183,7 @@ updated: 2026-10-02
 > | [[Common Core State Standards]] | 政策事实 | NEA 组织全美委员会认证教师深度介入草案审读与纠偏，为其在全美合法化采纳奠定专业民意基础。[[Argument_McDonnell_2013_AJE\|(McDonnell & Weatherford, 2013, pp. 15, 20)]] |
 > | [[Professional Judgment]] | 概念 | 在实证科研空白下，NEA 认证教师依托专业审慎判断为国家课程标准提供课堂可行性保障。 |
 > | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 论证条目 | 深入考证 NEA 在 CCSS 方案制定阶段作为[[Gatekeepers\|政策把关人]]与专业经验补位者的核心因果机制。 |
-> | [[21st Century Skills and Competencies Discourse]] | Concept | NEA 的《教育者 4C 指南》是 21 世纪核心技能话语的机构源头之一。 |
+> | [[21st Century Skills and Competencies Discourse]] | Concept | NEA 的《教育者 4C 指南》是 21 世纪核心技能[[Discourse\|话语]]的机构源头之一。 |
 > | [[Critical Thinking]] | Concept | 4C 技能之首，NEA 强调其在现代民主社会中的关键课堂培养价值。 |
 > | [[Creativity]] | Concept | 4C 之一，NEA 倡导将其深度融入中小学跨学科探究。 |
 > | [[Problem Solving]] | Concept | 4C 之一，NEA 强调基于真实情境的问题解决能力。 |

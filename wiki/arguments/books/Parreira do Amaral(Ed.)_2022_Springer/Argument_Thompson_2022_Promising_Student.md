@@ -11,7 +11,7 @@ title: "Argument_Thompson_2022_Promising_Student"
 argument_key: "Argument_Thompson_2022_Promising_Student"
 argument_display_title: "Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University"
 argument_kind: "book"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Theoretical Perspective]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Stakeholder University]]"
+  - "[[Discourse]]"
   - "[[Document]]"
   - "[[Competitiveness]]"
   - "[[Knowledge-Based Economy]]"
@@ -92,7 +93,7 @@ citation_aliases:
 
 > [!info]
 > 本章为理论-分析讨论（theoretical-analytical discussion），基于对大学政策文件、进展报告和 [[Online Self-Assessment\|OSA]] 操作手册的[[Discourse Analysis\|话语分析]]。
-> - 方法：话语分析（discourse analysis，作者声明在章篇幅内无法提供完整的话语分析，仅"识别核心主题或方面"(p.223)）
+> - 方法：话语分析（[[Discourse]] analysis，作者声明在章篇幅内无法提供完整的话语分析，仅"识别核心主题或方面"(p.223)）
 > - 数据来源：来自德国大学的进展报告、大学政策项目文本、OSA 实施手册或操作指南（如 Weber et al., 2019），以及已有关于 OSA 的实证研究[[Document\|文献]]（如 Dietrich et al., 2019; Höft et al., 2019; Röder, 2017）
 > - 案例材料：荷兰 Saxion 大学的"学习选择检查"YouTube 视频(2020)
 
@@ -102,7 +103,7 @@ citation_aliases:
 
 ### 第一步：观察——竞争性大学如何定义"好学生"
 
-当前高等教育政策话语中一个显著模式是：从"大学 4.0"愿景到各类政策文本，学生被描绘为大学[[Competitiveness|竞争力]]和创新驱动的关键节点。"The Future of Universities Thoughtbook"(FUT, 2018)提供的愿景是典型代表——大学被视为知识驱动发展的网络枢纽，"学术人员和学生"被描绘为大学的驱动力(pp.217–218)。
+当前高等教育政策[[Discourse|话语]]中一个显著模式是：从"大学 4.0"愿景到各类政策文本，学生被描绘为大学[[Competitiveness|竞争力]]和创新驱动的关键节点。"The Future of Universities Thoughtbook"(FUT, 2018)提供的愿景是典型代表——大学被视为知识驱动发展的网络枢纽，"学术人员和学生"被描绘为大学的驱动力(pp.217–218)。
 
 但这里有一个不对称：大学吸引"最好的研究人员"的策略相对明确——研究经费、实验室、薪资——而吸引"最好的学生"则不同。学生的选择会影响他们自身的表现：大学需要找到的不是已经证明自己优秀的学生，而是"最有潜力的"（promising）学生——即那些被期望在**未来**表现出色的学生(p.218)。
 

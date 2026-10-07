@@ -7,7 +7,7 @@ aliases:
 summary: "日本在 2004 年 PISA 2003 结果公布后纳入国家教育政策目标的学术能力概念，聚焦问题解决、知识应用等高阶能力，区别于传统知识记忆型学力"
 type: concept
 domain: "comparative-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Problem Solving]]"
   - "[[Creativity]]"
+  - "[[Discourse]]"
   - "[[Going Native]]"
   - "[[Academic Achievement]]"
   - "[[Active Learning]]"
@@ -38,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # PISA Literacy
@@ -52,7 +53,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** PISA素养强调的不仅是学生对知识的掌握，更是将知识和技能应用于解决真实情境中相关问题的能力。这与日本传统上以知识记忆和考试选拔为核心的学力概念形成鲜明对比。
-> - **用途** 用于分析国际评估（PISA）如何重塑国家对"学术能力"的定义和理解——日本从"宽松教育"转向"PISA素养"的过程，是全球教育政策话语扩散和国家课程标准修订的典型案例。
+> - **用途** 用于分析国际评估（PISA）如何重塑国家对"学术能力"的定义和理解——日本从"宽松教育"转向"PISA素养"的过程，是全球教育政策[[Discourse|话语]]扩散和国家课程标准修订的典型案例。
 > - **边界** PISA素养不等于 PISA 测试框架本身——它是日本在国家政策层面对 PISA 框架的[[Going Native\|本土化]]解读和应用。PISA素养也不等于一般意义上的"素养"（literacy）概念——它特指受 PISA 影响而形成的日本国家教育政策话语。
 
 > [!citation-card]- 关键表述

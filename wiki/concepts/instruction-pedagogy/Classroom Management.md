@@ -5,7 +5,7 @@ aliases:
 summary: "Håkansson 综合教学研究后使用的宽课堂组织概念，涵盖时间使用、目标清晰、活动组织、反馈、可见领导与支持性关系。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Individualised Instruction]]"
   - "[[Feedback]]"
   - "[[Student-Teacher Relationship]]"
+  - "[[Discourse]]"
   - "[[Academic Achievement]]"
 related_theories: []
 related_methods:
@@ -29,7 +30,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-10-07
 ---
 
 # Classroom Management
@@ -74,7 +75,7 @@ updated: 2026-05-22
 
 > [!warning] 争议与批评
 > - 容易被缩窄成纪律控制：Håkansson 引述的研究明确提醒，课堂管理若只被理解成维持秩序、奖惩或行为矫正，就会错过其与目标、活动组织、反馈和关系建构之间的联系（Håkansson, 2015, pp.591-592）。
-> - 容易被政治话语偷换成更强教师控制：在瑞典[[Structured Teaching\|结构化教学]]讨论里，课堂管理很容易被并入“教师重新站回讲台”的政策说法，但研究支持的是可见领导与学生参与的平衡，而不是单一路线（Håkansson, 2015, pp.590-593）。
+> - 容易被政治[[Discourse|话语]]偷换成更强教师控制：在瑞典[[Structured Teaching\|结构化教学]]讨论里，课堂管理很容易被并入“教师重新站回讲台”的政策说法，但研究支持的是可见领导与学生参与的平衡，而不是单一路线（Håkansson, 2015, pp.590-593）。
 > - 不能单独解释成绩变化：即使课堂管理重要，Håkansson 也没有把瑞典[[Academic Achievement\|学业成绩]]下降归因于单一课堂因素；资源、教师资格、学校分化和工作形式变化仍是共同背景（Håkansson, 2015, pp.585-586, 594）。
 
 ## 相关案例／政策

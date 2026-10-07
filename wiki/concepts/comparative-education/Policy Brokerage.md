@@ -8,7 +8,7 @@ aliases:
 summary: "在信息过载与教育决策多重不确定性背景下，跨国组织、智库或国家官方扶植机构通过筛选、转译和打包研究证据以施展软治理或服务政策落地的政治化机制。"
 type: concept
 domain: "comparative-education"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Soft Power by Hard Facts]]"
   - "[[Paradigm]]"
   - "[[Recontextualization]]"
+  - "[[Discourse]]"
   - "[[Soft Power]]"
   - "[[Hypothesis]]"
   - "[[Surplus of Evidence]]"
@@ -71,7 +72,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Policy Brokerage
@@ -114,7 +115,7 @@ updated: 2026-09-22
 ## 核心要素
 
 > [!feature] 核心要素
-> - **决策环境的三重生态特质** 政策中介在教育系统繁荣的根源在于教育决策固有的三重环境约束：信息过量下的歧义性（Ambiguity）、缺乏排他性专业壁垒导致的公共争议性（Contestation），以及面向未来不可预测性所引发的深层不确定性（Uncertainty）。中介机构通过提供确定性话语回应这三重挑战。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> - **决策环境的三重生态特质** 政策中介在教育系统繁荣的根源在于教育决策固有的三重环境约束：信息过量下的歧义性（Ambiguity）、缺乏排他性专业壁垒导致的公共争议性（Contestation），以及面向未来不可预测性所引发的深层不确定性（Uncertainty）。中介机构通过提供确定性[[Discourse|话语]]回应这三重挑战。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 > - **[[Soft Power by Hard Facts\|以硬事实施展软权力]]（[[Soft Power]] by Hard Facts）** 政策中介依靠数字而非叙事构筑理性、精确与普适的制度表象，通过可测量、可比较、标准化的测评指标形成软性比较压力与治理杠杆。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
 > - **差异化中介工具打包（Instrument Bundling）** 各国际组织将核心评测工具与不同辅助产品打包，形成组织利基：[[OECD\|经合组织]]以 [[PISA]] 为核心绑定同行评议与国别经验横向对照；[[World Bank\|世界银行]]则依靠系统性基准工具搭配自指性最佳实践仓库。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
 > - **政策周期的多阶段介入** 政策中介在政策周期的不同阶段承担异质功能：在议程设置阶段通过国际比较制造危机感并动员资源；在法案起草与决策阶段则面临主权国家行政官僚体系的高度筛选与策略性过滤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 546–547)]]
@@ -155,7 +156,7 @@ updated: 2026-09-22
 > 探讨教育领域平民化知识结构对专业权威的挑战，以及政策中介如何通过量化指标确立中立公信力。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]
-> **数字外衣与专业排他性补偿** 教育领域具有专门知识平民化的典型特征，公众与从业人员均自视为教育行家，缺乏医学等行业的技术排他壁垒，因而极易陷入公共意识形态纷争；政策中介机构通过诉诸量化指标而非质性叙事，为政策制定搭建出具备理性、精确与普适特征的话语表象，借助能够诱发政策解读的数字指标化解专业公信力赤字。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
+> **数字外衣与专业排他性补偿** 教育领域具有专门知识平民化的典型特征，公众与从业人员均自视为教育行家，缺乏医学等行业的技术排他壁垒，因而极易陷入公共意识形态纷争；政策中介机构通过诉诸量化指标而非质性叙事，为政策制定搭建出具备理性、精确与普适特征的[[Discourse|话语]]表象，借助能够诱发政策解读的数字指标化解专业公信力赤字。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
 
 ---
 

@@ -35,6 +35,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
   - "[[International Education]]"
+  - "[[Discourse]]"
   - "[[Classroom Management]]"
   - "[[Grade Retention]]"
   - "[[Data Literacy]]"
@@ -84,7 +85,7 @@ title: "Argument_Brown_2017_ER"
 argument_key: "Argument_Brown_2017_ER"
 argument_display_title: "Combining the best of two worlds: A conceptual proposal for evidence-informed school improvement"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -178,7 +179,7 @@ journal: Educational Research
 > - **自下而上自我改进转向** 各国政府愈发倡导从个别教师与学校层面自发启动改进，学校自我提升成为提高系统绩效的首选路径（Greany, 2014, 2015）。（p. 155）
 > - **经费削减倒逼自主能力建设** 宏观财政收缩促使学校必须建立三项核心专业能力：识别教学核心问题、探究其深层根因、设计并实施针对性改进举措。（pp. 155–156）
 
-面对上述挑战，学校广泛寻求发展 EIP，但在实践演化中分化为两组互不交融的话语体系与活动领域。（p. 156）
+面对上述挑战，学校广泛寻求发展 EIP，但在实践演化中分化为两组互不交融的[[Discourse|话语]]体系与活动领域。（p. 156）
 
 #### 2. 基于数据的决策（DBDM）：演进脉络、五阶段理论与数据团队干预
 

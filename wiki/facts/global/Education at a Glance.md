@@ -9,7 +9,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Policy Brokerage]]"
+  - "[[Discourse]]"
   - "[[International Education]]"
   - "[[Attrition]]"
   - "[[Science and Technology Studies]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Education at a Glance
@@ -108,7 +109,7 @@ updated: 2026-09-22
 
 > [!indicators]- 治理影响维度
 > - **国内政策议程塑造** 成为反对党质询内阁、财政部削减或增加教育拨款、工会争取职业权益的核心合法化依据。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 3–4)]]
-> - **周期性危机动员机制** 每年报告发布引发全球主流媒体大规模排列表解读，制造出常态化的“落后危机”与“借鉴他者”话语。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> - **周期性危机动员机制** 每年报告发布引发全球主流媒体大规模排列表解读，制造出常态化的“落后危机”与“借鉴他者”[[Discourse|话语]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - **主权国家统计口径重塑** 迫使各国统计机构放弃本国特异性的分类传统，全面对标[[International Education\|国际教育]]标准分类法（International Standard Classification of Education，ISCED）与 [[OECD]] 操作规程。
 
 > [!finding-cards] 关键实证案例与政策回响

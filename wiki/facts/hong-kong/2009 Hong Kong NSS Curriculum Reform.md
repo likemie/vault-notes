@@ -11,7 +11,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Lifelong Learning]]"
+  - "[[Discourse]]"
   - "[[General Education]]"
   - "[[Critical Thinking]]"
   - "[[Rote Learning]]"
@@ -43,13 +44,13 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-07'
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 ## 背景
 
 > [!info] 改革背景
-> 2009 年新高中课程改革（New Senior Secondary, NSS）是香港回归后最大规模的教育结构变革。改革的直接动因是殖民地遗留的英式学制需要与内地学制对齐，但更深层的驱动力包括：1998 年亚洲金融风暴后港府合法性的下降、教育体制长期存在的应试导向和灌输式教学弊端、以及全球[[Knowledge-Based Economy\|知识经济]]和[[Lifelong Learning\|终身学习]]话语的兴起([[Argument_Yan_2025_JCS\|Yan & Morris, 2025, pp. 484–487]])。
+> 2009 年新高中课程改革（New Senior Secondary, NSS）是香港回归后最大规模的教育结构变革。改革的直接动因是殖民地遗留的英式学制需要与内地学制对齐，但更深层的驱动力包括：1998 年亚洲金融风暴后港府合法性的下降、教育体制长期存在的应试导向和灌输式教学弊端、以及全球[[Knowledge-Based Economy\|知识经济]]和[[Lifelong Learning\|终身学习]][[Discourse|话语]]的兴起([[Argument_Yan_2025_JCS\|Yan & Morris, 2025, pp. 484–487]])。
 
 ---
 

@@ -8,7 +8,7 @@ aliases:
 summary: "指学习者在生成式人工智能支持环境中，因过度依赖算法的即时答案生成与认知外包，自发削减内部认知加工与反思监控努力，导致元认知觉知与自我调节能力停滞或钝化的现象"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Metacognition]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Academic Achievement]]"
   - "[[Scaffolding]]"
   - "[[Cognitive Offloading]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-09-05'
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Metacognitive Laziness
@@ -70,7 +71,7 @@ updated: 2026-09-22
 > [[Metacognition\|元认知]]惰性（Metacognitive Laziness）是指学习者在使用[[Generative Artificial Intelligence\|生成式人工智能]]（GenAI）等高效外部计算工具辅助学习时，因过度依赖算法所提供的即时解答、文本自动生成与结构化组织，自发减少甚至放弃对自身思维过程的积极监控、困难觉知、策略选择与反思校准，从而导致[[Metacognition\|元认知]]监控能力出现钝化、退化或停滞的认知心理现象。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 4, 16, 18–19)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向人机协同交互中，外部工具的高效性对学习者内部元认知加工机制的替代与抑制。
+> - **含义** 指向[[Man-Computer Symbiosis|人机协同]]交互中，外部工具的高效性对学习者内部元认知加工机制的替代与抑制。
 > - **用途** 解释为何学生在借助 GenAI 取得优异表面[[Academic Achievement\|学业成绩]]或语言表现的同时，其深层元认知调控与自主知识迁移能力并未同步发展的促学悖论。
 > - **边界** 不适用于具备显性反思提示与监控约束的高[[Scaffolding\|脚手架]]学习环境；亦不同于泛化的学习动力不足或行为怠惰，它特指高阶认知监控回路的被动旁路。
 
@@ -154,7 +155,7 @@ updated: 2026-09-22
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **内部监控抑制命题** | 即时生成机制旁路自主监控回路，引发表面绩效与认知监控脱钩 | 开放式、无反思引导的 [[Generative Artificial Intelligence\|GenAI]] 问答与作业写作环境 | Fan et al. (2025); [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
-> | **外部脚手架破局命题** | 必须通过结构化自我评估与技术反思提示打破惰性，赋能自我调节 | 课程整合、教学系统设计与人机协同学习全流程 | Karaoglan Yilmaz & Yilmaz (2025); [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
+> | **外部脚手架破局命题** | 必须通过结构化自我评估与技术反思提示打破惰性，赋能自我调节 | 课程整合、教学系统设计与[[Man-Computer Symbiosis\|人机协同]]学习全流程 | Karaoglan Yilmaz & Yilmaz (2025); [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
 
 ---
 

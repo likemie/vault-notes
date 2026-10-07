@@ -9,7 +9,7 @@ aliases:
 summary: "围绕教育数据的去情境化抽取、算法通约折算与选择性再呈现而动态装配的社会-技术网络；并非静态信息管道，而是充斥算法选择性与即兴调配的实验性系统，深陷简化、通约、时效、公开与博弈五维张力，通过次级代表表象生产分布式治理权力。"
 type: concept
 domain: "sociology-of-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_arguments:
   - "[[Argument_Hartong_2018_GSE]]"
 related_concepts:
   - "[[Assemblage]]"
+  - "[[Discourse]]"
   - "[[Ontology]]"
   - "[[Commensuration]]"
   - "[[Knowledge Production]]"
@@ -56,7 +57,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 # Data Infrastructure
@@ -66,7 +67,7 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> 数据基础设施（Data Infrastructure），在批判性数据研究中常被界定为数据汇聚体（Data [[Assemblage]]），指围绕教育数据的去情境化与再情境化过程所动态装配的技术、政治、社会与经济网络（Kitchin, 2014; Williamson, 2017）。它并非中立客观或静态不变的信息仓储系统，而是由采集摄取、质检校验、算法建模、数据库存储、可视化呈现与政策报告等偶发性、关系性的物质话语实践持续建构的社会-技术系统，其核心功能在于将分散微观的学校活动转化为具备行动导向的治理知识。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 2–3)]]
+> 数据基础设施（Data Infrastructure），在批判性数据研究中常被界定为数据汇聚体（Data [[Assemblage]]），指围绕教育数据的去情境化与再情境化过程所动态装配的技术、政治、社会与经济网络（Kitchin, 2014; Williamson, 2017）。它并非中立客观或静态不变的信息仓储系统，而是由采集摄取、质检校验、算法建模、数据库存储、可视化呈现与政策报告等偶发性、关系性的物质[[Discourse|话语]]实践持续建构的社会-技术系统，其核心功能在于将分散微观的学校活动转化为具备行动导向的治理知识。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 2–3)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向支撑数据生成、流转与赋权的整个社会-技术生态，强调技术代码、算法逻辑与官僚实践的深度互构。

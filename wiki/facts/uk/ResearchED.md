@@ -7,7 +7,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Scientism]]"
+  - "[[Discourse]]"
   - "[[Teacher Professional Agency]]"
   - "[[Ontology]]"
   - "[[Big Science]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # ResearchED
@@ -92,7 +93,7 @@ updated: 2026-10-03
 > 
 > > *“Learning Styles has been thoroughly debunked. You might as well get out the Tarot cards.” (Carl Hendrick)* / *“Open University, sort out your life. Learning Styles = Magical unicorns.” (Tom Bennett)* —— [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 111]] (citing Black, 2018)
 > 
-> **分析** ResearchED 骨干成员通过极端的两极修辞（科学 = 客观 [[Randomised Controlled Trials\|RCT]] vs. 非[[Experimental Research\|实验研究]] = 独角兽/占星术），对定性、行动等其他研究[[Paradigm\|范式]]进行边缘化，从而强化其唯[[Scientism\|科学主义]]话语。
+> **分析** ResearchED 骨干成员通过极端的两极修辞（科学 = 客观 [[Randomised Controlled Trials\|RCT]] vs. 非[[Experimental Research\|实验研究]] = 独角兽/占星术），对定性、行动等其他研究[[Paradigm\|范式]]进行边缘化，从而强化其唯[[Scientism\|科学主义]][[Discourse|话语]]。
 
 ---
 

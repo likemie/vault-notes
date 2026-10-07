@@ -9,7 +9,7 @@ aliases:
 summary: "儒学学习传统第四主题，以行动而非言语为修身标准；孔子不信任巧言令色，君子讷于言而敏于行，沉默不等于被动"
 type: concept
 domain: "chinese-philosophy"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[University Motto]]"
   - "[[Junzi]]"
+  - "[[Discourse]]"
   - "[[Humility]]"
   - "[[Ritual Propriety]]"
   - "[[Chinese Learner]]"
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Action Better Than Words
@@ -83,7 +84,7 @@ updated: 2026-10-05
 > [!abstract]
 > 三种问题说话的共同点在于——"外在言辞与说话者内心状态之间的不一致"——而孔子的关切最终聚焦于"说话者失去了进一步向仁发展的机会"([[Argument_Li_2012_Cambridge\|Li, 2012, p.99]])。
 
-**1. 巧言（glib tongue / 佞人）**。用心智拼凑的、与心灵分离的欺骗性话语，以操纵和伪装为目的。"巧言令色，鲜矣仁"（Analects 1.3），"巧言乱德"（Analects 15.27）。孔子认为巧言者"滥用语言的力量"，使心智脱离关怀的心灵运行——"巧言之人是危险的"，"我憎恶巧言令色者倾覆邦家"([[Argument_Li_2012_Cambridge|Li, 2012, pp.97-98]])。
+**1. 巧言（glib tongue / 佞人）**。用心智拼凑的、与心灵分离的欺骗性[[Discourse|话语]]，以操纵和伪装为目的。"巧言令色，鲜矣仁"（Analects 1.3），"巧言乱德"（Analects 15.27）。孔子认为巧言者"滥用语言的力量"，使心智脱离关怀的心灵运行——"巧言之人是危险的"，"我憎恶巧言令色者倾覆邦家"([[Argument_Li_2012_Cambridge|Li, 2012, pp.97-98]])。
 
 **2. 谄媚之言（flattering speech）**。逢迎他人——通常指向有权势或掌控资源的人——以获取个人好处。它使说话者远离**真诚**这一仁的核心品质，同时使听者陷入虚荣。孔子告诫远离"便辟"（ingratiating）和"善柔"（feigning compliance）的朋友([[Argument_Li_2012_Cambridge|Li, 2012, p.98]])。
 

@@ -8,7 +8,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Performativity]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Policy Network]]"
+  - "[[Discourse]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Development Education]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 # Education International
@@ -79,7 +80,7 @@ updated: 2026-10-05
 
 > [!dev-timeline]- 组织发展历程
 > - **1993–2000 — 全球统一与反新自由主义旗帜确立** 冷战结束后正式合并建立，确立对[[World Trade Organization|世界贸易组织]]（WTO）《[[GATS and Trade in Education Services\|服务贸易总协定]]》（GATS）及新自由主义[[Endogenous and Exogenous Privatisation\|教育私有化]]浪潮的坚决抵制立场，将教育界定为不可买卖的基本人权与公共品。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 352–353)]]
-> - **2000–2010 — [[Performativity\|操演性]]生存与悖论性金融多边结盟** 面对新自由主义多边机构对全球教育治理的主导，EI 采取基于[[Performativity\|操演性]]逻辑的[[Pragmatic Paradigm\|实用主义]]结盟策略，主动与[[International Monetary Fund|国际货币基金组织]]（IMF）及[[World Bank\|世界银行]]展开项目级战术协作，借由与金融巨头的接触扩大其在[[Policy Network\|政策网络]]中的话语权与能见度。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 351–353)]]
+> - **2000–2010 — [[Performativity\|操演性]]生存与悖论性金融多边结盟** 面对新自由主义多边机构对全球教育治理的主导，EI 采取基于[[Performativity\|操演性]]逻辑的[[Pragmatic Paradigm\|实用主义]]结盟策略，主动与[[International Monetary Fund|国际货币基金组织]]（IMF）及[[World Bank\|世界银行]]展开项目级战术协作，借由与金融巨头的接触扩大其在[[Policy Network\|政策网络]]中的[[Discourse|话语]]权与能见度。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 351–353)]]
 > - **2010–至今 — 科研自主建制与跨国循证共治突破** EI 深度推进研究证据与教师政策的融合，设立独立运作的[[International Education\|国际教育]]协会研究院（EI Research Institute）；成功争取在[[OECD\|经合组织]]核心理事会的常设观察员席位；2011 年联合发起[[International Summits on the Teaching Profession\|国际教师职业峰会]]（International Summits on the Teaching Profession, ISTP），实现由抗争型工会向基于客观证据的高层战略协商伙伴转型。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–213, 216)]]
 
 ---
@@ -150,7 +151,7 @@ updated: 2026-10-05
 > > - **机构立场（正方）** EI 强调，高层循证倡导与基层维权相辅相成；通过 [[International Summits on the Teaching Profession\|ISTP]] 和 [[Teaching and Learning International Survey\|TALIS]] 取得的客观实证数据，恰恰为各成员工会在本土薪酬谈判和法律诉讼中提供了最具法律效力与公信力的实证武器。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212)]]
 
 > [!citation-card] Beech 论[[International Education\|国际教育]]协会的操演性结盟与政策杂合
-> EI 与 IMF、世界银行结盟的决策，不是基于彼此在教育价值观或意识形态上的共识，而是基于操演性逻辑的需要。为了使自身在[[Policy Network\|政策网络]]中的表现高度可见，EI 需要借由与强力多边机构合作来扩大其在特定议题上的话语权和影响力广度。这种[[Network Governance\|网络治理]]下[[Pragmatic Paradigm\|实用主义]]压倒了意识形态的一致性，催生出政策文本的拼贴杂合。（pp. 351–353）
+> EI 与 IMF、世界银行结盟的决策，不是基于彼此在教育价值观或意识形态上的共识，而是基于操演性逻辑的需要。为了使自身在[[Policy Network\|政策网络]]中的表现高度可见，EI 需要借由与强力多边机构合作来扩大其在特定议题上的[[Discourse|话语]]权和影响力广度。这种[[Network Governance\|网络治理]]下[[Pragmatic Paradigm\|实用主义]]压倒了意识形态的一致性，催生出政策文本的拼贴杂合。（pp. 351–353）
 >
 > *The decision by EI to ally with the IMF and the World Bank is based not on a consensus about values or ideology, but on the requirements of performativity. To make its performance visible in policy networks, EI needs to expand its [[Reach]] and discourse by collaborating with powerful multilateral agencies.*
 

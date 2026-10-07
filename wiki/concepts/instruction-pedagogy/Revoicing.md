@@ -9,7 +9,7 @@ aliases:
 summary: "课堂话语策略，指教师重构并提升学生表述以明确观点作者权、提升认知层次并推动论证对话"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ tags:
   - speaking-and-thinking
   - instruction-pedagogy
 related_concepts:
+  - "[[Discourse]]"
   - "[[Scaffolding]]"
   - "[[Critical Thinking]]"
   - "[[Listening-Oriented Learning]]"
@@ -45,7 +46,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Revoicing
@@ -55,7 +56,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> **重铸（Revoicing）** 是玛丽·凯瑟琳·奥康纳（Mary Catherine O'Connor）与萨拉·迈克尔斯（Sarah Michaels）于 1993 年提出的课堂教学话语策略。指教师在课堂师生对话中，将学生提出的初步、粗糙或非正式的日常表述，重新转述为更为严谨、符合学科规范且认知层次更高的学术话语，在此过程中明确保留原意并显性确认该观点属于提出学生本人（即作者权/归属权，Authorship/Ownership），进而引导全班对该观点展开评估与辩论。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 92–94)]]
+> **重铸（Revoicing）** 是玛丽·凯瑟琳·奥康纳（Mary Catherine O'Connor）与萨拉·迈克尔斯（Sarah Michaels）于 1993 年提出的课堂教学[[Discourse|话语]]策略。指教师在课堂师生对话中，将学生提出的初步、粗糙或非正式的日常表述，重新转述为更为严谨、符合学科规范且认知层次更高的学术话语，在此过程中明确保留原意并显性确认该观点属于提出学生本人（即作者权/归属权，Authorship/Ownership），进而引导全班对该观点展开评估与辩论。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 92–94)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 教师作为话语发出者（Animator），将学生确立为观点创造者（Author），在不扭曲原意的基础上完成概念升级并搭建对话[[Scaffolding|脚手架]]。
@@ -76,7 +77,7 @@ updated: 2026-10-03
 
 ## 概念辨析
 
-> [!contrast-table] 课堂话语互动模式对比
+> [!contrast-table] 课堂[[Discourse|话语]]互动模式对比
 > | 维度 | 话语重铸（Revoicing） | [[Listening-Oriented Learning\|倾听导向学习]]（Listening-Oriented Learning） | 纠错反馈（Recasting） |
 > |---|---|---|---|
 > | **分析对象** | 师生探究式对话与论证互动 | 整体课堂倾听、消化与内心思考过程 | 语言习得中的错误纠正互动 |
@@ -88,7 +89,7 @@ updated: 2026-10-03
 
 ## 核心要素
 
-> [!feature] 话语重铸的核心功能构成
+> [!feature] [[Discourse|话语]]重铸的核心功能构成
 > - **标注观点作者权（Authorship Attribution）** 教师在互动中明确指明谁提出了什么观点，并将不同学生的提议置于对立面，促使学生将其视为个人的智力财产进行捍卫或修正。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 93–94)]]
 > - **认知层级提升（Cognitive Elevation）** 在不篡改学生核心原意的前提下，引入学科专业词汇与[[Analytic Framework|分析框架]]，将直觉性经验描述转化为严谨的知识表达。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 94)]]
 > - **促成同伴论证对立（Positioning for Peer Debate）** 借助句式重构将分歧显性化（例如所以你不同意某某同学的方案），为全班展开实证检验与[[Reflexivity|反思性]]讨论搭建结构化平台。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 94)]]
@@ -128,7 +129,7 @@ updated: 2026-10-03
 ### 命题一　话语重铸通过显性化观点作者权与概念升级构建西方探究式课堂的智力社会化机制
 
 > [!concept-lens] 智力社会化与认知提升机制
-> 探讨教师如何在师生互动中通过特定话语技术，引导学生将自己视为独立的思考主体，并在此过程中完成学科[[Higher-Order Thinking Skills|高阶思维]]的社会化习得。
+> 探讨教师如何在师生互动中通过特定[[Discourse|话语]]技术，引导学生将自己视为独立的思考主体，并在此过程中完成学科[[Higher-Order Thinking Skills|高阶思维]]的社会化习得。
 
 > [!claim] [[Jin Li|Li, J.]]
 > **概念升级与作者权确认的双重赋权** 教师在课堂中扮演[[Scaffolding|脚手架]]搭建者。例如学生解释选择某种交通方式是因为喜欢那个航站楼的样子，教师将其重铸为所以你基于自己的个人经历做出了选择；学生说很多人喜欢坐火车可能就是为了好玩，教师重铸为所以你基于对人类行为的理解做出了推测。这种重铸不改变学生观点的实质，却将其日常直觉跃升至正式分析范畴，使学生能够为自身想法的智力价值充分获取成就感，促进知性自我的成长。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 94)]]
@@ -163,7 +164,7 @@ updated: 2026-10-03
 
 ## 概念演变
 
-> [!dev-timeline] 话语重铸理论与应用演进
+> [!dev-timeline] [[Discourse|话语]]重铸理论与应用演进
 > - **1981 — 社会语言学理论奠基** 欧文·[[Michael Gove|戈夫]][[Horace Mann|曼]]（Erving Goffman）在 *Forms of Talk* 中提出话语角色[[Analytic Framework|分析框架]]，区分话语发出者（Animator）、文本起草者（Author）与责任承担者（Principal），为教学中的话语转述奠定理论根基。
 > - **1993–1996 — 课堂重铸概念正式界定** 玛丽·凯瑟琳·奥康纳（Mary Catherine O'Connor）与萨拉·迈克尔斯（Sarah Michaels）在中小学科学与数学探究课堂中系统提炼出 Revoicing 话语策略，明确其在观点对齐与概念升级中的双重功能。
 > - **2012 — 跨文化学习模型整合** [[Jin Li|李瑾]]（Jin Li）在著作 *Cultural Foundations of Learning* 中将话语重铸置于西方[[Mind-Oriented Learning Process|心智导向]]学习模型（Mind-Oriented Learning Model）的系统框架中，并与东亚[[Listening-Oriented Learning|倾听导向学习]]模式进行深度比较。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 91–96, 115–120)]]
@@ -172,7 +173,7 @@ updated: 2026-10-03
 
 ## 争议与批评
 
-> [!tension] 课堂话语哲学的跨文化张力
+> [!tension] 课堂[[Discourse|话语]]哲学的跨文化张力
 > - **观点作者权与公开辩论（西方模型）** 坚信知识在个人观点的公开碰撞中生成，说话强化思考，主张通过重铸强化个人归属感与辩论能力。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 92–94)]]
 > - **去个人化与静思内化（东亚模型）** 认为知识属于集体探索过程，主张倾听、涵泳与深思，避免将同伴置于公开竞争对立面。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 115–118)]]
 
@@ -203,4 +204,4 @@ updated: 2026-10-03
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 系统阐述了西方课堂话语重铸的社会语言学机制及其与西方[[Mind-Oriented Learning Process|心智导向]]学习模型的共生关系，并与东亚[[Listening-Oriented Learning|倾听导向学习]]进行深度对比。
+> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 系统阐述了西方课堂[[Discourse|话语]]重铸的社会语言学机制及其与西方[[Mind-Oriented Learning Process|心智导向]]学习模型的共生关系，并与东亚[[Listening-Oriented Learning|倾听导向学习]]进行深度对比。

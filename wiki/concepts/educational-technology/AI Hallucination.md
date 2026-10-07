@@ -10,7 +10,7 @@ aliases:
 summary: "人工智能与教育技术学概念，指大语言模型等生成式系统输出看似连贯权威、语法高度流畅但实际上偏离客观事实、缺乏真实依据、虚构引用或逻辑自相矛盾的内容现象。"
 type: concept
 domain: "educational-technology"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Reliability]]"
   - "[[Epistemology]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Evaluativist]]"
   - "[[Absolutist]]"
   - "[[Creativity]]"
@@ -81,7 +82,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # AI Hallucination
@@ -110,7 +111,7 @@ updated: 2026-10-03
 > *At the same time, the inherent limitations of Gen-AI, such as AI hallucinations, may catalyze critical thinking. The generation of inaccurate or misleading information compels students to scrutinize the validity and reliability of the outputs, thereby reinforcing their critical evaluation skills, reducing their reliance on Gen-AI, and increasing the likelihood of meaningful interactions with Gen-AI.*
 
 > [!citation-card] 算法幻觉作为[[Epistemology\|认识论]]演进的扰动契机
-> 在人机共生学习中，大语言模型的算法幻觉构成了促发学习者认识论扰动（Epistemic Perturbation）的关键契机。面对模型输出的破绽，绝对主义者因盲信而陷入错误扩散，而[[Evaluativist\|评价主义者]]则将幻觉转化为驱动多源交叉核验与批判性审问的认知磨刀石。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 364–365)]]
+> 在[[Man-Computer Symbiosis|人机共生]]学习中，大语言模型的算法幻觉构成了促发学习者认识论扰动（Epistemic Perturbation）的关键契机。面对模型输出的破绽，绝对主义者因盲信而陷入错误扩散，而[[Evaluativist\|评价主义者]]则将幻觉转化为驱动多源交叉核验与批判性审问的认知磨刀石。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 364–365)]]
 >
 > *Algorithmic hallucination acts as an epistemic perturbation: while [[Absolutist\|absolutists]] uncritically accept erroneous fabrications, evaluativists leverage hallucinations as catalysts for multi-source [[Triangulation]] and epistemic interrogation.*
 
@@ -193,7 +194,7 @@ updated: 2026-10-03
 ### 命题三　在结构化探究中，AI 幻觉可被教学化转化为激发批判性思维与认识论演进的认知靶子
 
 > [!concept-lens] 教学转化与[[Epistemological Vigilance\|认识论警觉]]培养
-> 阐明教师与人机协同机制如何将技术缺陷转化为培养批判反思与促成[[Evaluativist\|评价主义认识立场]]跃迁的[[Scaffolding\|脚手架]]。
+> 阐明教师与[[Man-Computer Symbiosis|人机协同]]机制如何将技术缺陷转化为培养批判反思与促成[[Evaluativist\|评价主义认识立场]]跃迁的[[Scaffolding\|脚手架]]。
 
 > [!claim] Archila et al.; Li et al.; Zhao et al.; Wu et al.
 > **算法缺陷对[[Critical Thinking\|批判性思维]]的倒逼与认识论重塑效应** 当教师明确将 AI 输出设定为“包含潜在错误的初级素材”并设计对抗性查错（Red-teaming）任务时，AI 幻觉构成了极佳的反思磨刀石[[Argument_Li_2026_CEAI\|(Archila et al., 2024; Li et al., 2026, pp. 6, 11–12)]]。元分析证实，生成式 AI 固有的幻觉与不准确信息，在客观上倒逼学生放弃盲从，显著强化批判性评估技能（$g = 0.691$）[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 10–11, 14)]]。实证研究进一步从认识论视角揭示，算法幻觉构成了促发认识论扰动（Epistemic Perturbation）的教学契机：绝对主义者盲信幻觉导致错误扩散，而结合提示词与同行评议支架，能够引导学生直面算法破绽，激发出多源实证核验动机，促成向[[Evaluativist\|评价主义认识立场]]的跨越。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 364–366)]]
@@ -223,7 +224,7 @@ updated: 2026-10-03
 > - **2010 年代末 — 计算机视觉与自然语言初现** 幻觉概念最早用于描述深度神经网络在图像生成中出现的无意义伪影（[[Artefact\|artifacts]]）及神经机器翻译中的凭空添词。
 > - **2022–2023 年 — ChatGPT 爆发与大模型幻觉泛化** 随着生成式 AI 普及，幻觉特异性指向 LLMs 编造虚假事实与虚构学术引文的普遍现象，引发全球学术界关于研究可[[Reliability\|信度]]的争论。
 > - **2024–2026 年 — 学习科学与教育学教学化转向** 教育研究从单纯的“技术除错/封禁”转向“教学转化”，[[Argument_Li_2026_CEAI\|Li et al. (2026)]]、Archila et al. (2024) 与 [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 系统确立了基于 AI 幻觉识别的[[Critical Thinking\|批判性思维]]与[[Epistemological Vigilance\|认识论警觉]]培养[[Paradigm\|范式]]。
-> - **2025 年 — 人机共生[[Epistemology\|认识论]]扰动机制确立** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 实证揭示算法幻觉作为诱发认识论扰动的核心催化剂，确立了通过双轨支架将幻觉转化为评价主义立场跃迁的干预机制。
+> - **2025 年 — [[Man-Computer Symbiosis|人机共生]][[Epistemology\|认识论]]扰动机制确立** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 实证揭示算法幻觉作为诱发认识论扰动的核心催化剂，确立了通过双轨支架将幻觉转化为评价主义立场跃迁的干预机制。
 > - **2026 年 — 多模态伪完整性审验与学科标准支架** [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] 揭示生成式 AI 在[[Scientific Explanation|科学解释]]中的伪完整性与静态图解表征偏差，实证确立学科四维标准在初中生识别机制断裂与图解纠偏中的支架效能。
 > - **2026 年 — [[Alien Intelligence|异己智能]]定位与批判性防御规程确立** [[Argument_Smith_2026_SPE\|Smith (2026)]] 揭示大模型自信输出事实谬误的幻觉特征，提出将 AI 概念化为缺乏人类具身生活经验的“异己智能”，通过独立事实核查规程与思维步骤全外显构建防范成长性认识伤害的教学防线。
 
@@ -281,7 +282,7 @@ updated: 2026-10-03
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出人机共生自适应[[Epistemic Stances\|认识立场]]框架，实证揭示算法幻觉作为[[Epistemology\|认识论]]扰动契机如何通过双轨支架驱动学生向评价主义演进。
+> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]框架，实证揭示算法幻觉作为[[Epistemology\|认识论]]扰动契机如何通过双轨支架驱动学生向评价主义演进。
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — 运用一阶[[Meta-analysis\|元分析]]实证揭示生成式 AI 对[[Critical Thinking\|批判性思维]]的显著促学效应（$g = 0.691$），从认知机理上提出 AI 幻觉对批判审验的倒逼催化机制，同时发现低[[Self-Regulated Learning\|自主调节学习]]能力者更容易受到幻觉误导。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项高等教育 ChatGPT 实证研究，将 AI 幻觉识别与去幻觉查错确立为驱动[[Critical Thinking\|批判性思维]]发展的核心教学机制。
 > - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 揭示中学生如何运用学科四维解释标准识别并纠正生成式 AI 在文本叙事中的因果机制遗漏与多模态图像中的静态表征偏差。

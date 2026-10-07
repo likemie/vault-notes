@@ -6,7 +6,7 @@ aliases:
 summary: "围绕证据本位教育（EBE）的认识论前提、方法论基础、实施效果和政治后果形成的多维度批评体系，涵盖民主缺陷、三重缺陷框架、方法论批评、制度政治批评及综合批判框架"
 type: concept
 domain: "educational-policy-reform"
-related_count: 87
+related_count: 88
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[Interpretive Paradigm]]"
+  - "[[Discourse]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Theory of Knowledge]]"
   - "[[Epistemological Coherence]]"
@@ -111,7 +112,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # Critique of Evidence-Based Education
@@ -146,7 +147,7 @@ updated: 2026-09-26
 > | 比较维度 | 循证教育批判（本概念） | 循证教育修正主义（证据知情／What Works 2.0） | 激进[[Interpretive Paradigm\|反实证主义]]（后现代／解构主义） |
 > |---|---|---|---|
 > | **核心立场** | 解构 EBE 的[[Epistemology\|认识论假设]]、方法局限与政治治理异化 | 承认 EBE 的局限，主张通过[[Mechanism Experiments\|机制实验]]与实践者网络完善循证体系 | 彻底否定[[Positivism\|实证主义]]与量化因果推论在社会领域的合法性 |
-> | **证据定位** | 经验证据仅是复杂教育决策的参考维度之一，不能替代价值审议 | 循证研究需由“黑箱干[[Pilot Testing\|预测试]]”转向“因果机制与情境条件探究” | 证据是统治权力与话语霸权建构的符号工具 |
+> | **证据定位** | 经验证据仅是复杂教育决策的参考维度之一，不能替代价值审议 | 循证研究需由“黑箱干[[Pilot Testing\|预测试]]”转向“因果机制与情境条件探究” | 证据是统治权力与[[Discourse\|话语]]霸权建构的符号工具 |
 > | **教师角色** | 具备反思与情境审辩能力的自主专业主体（Autonomous Professional） | 参与改进网络并能解读研究证据的循证实践者 | 抵制外来量化[[Disciplina and Doctrina\|规训]]与绩效监控的行动者 |
 > | **代表学者** | [[Argument_Biesta_2010_SPE\|Biesta (2010)]]; [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]; [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] | [[Argument_Peterson_2016_IJRME\|Peterson (2016)]]; [[Argument_Cowen_2019_ERE\|Cowen (2019)]]; Slavin | Lather; MacLure; St. Pierre |
 

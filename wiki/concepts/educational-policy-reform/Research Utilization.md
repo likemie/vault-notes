@@ -11,7 +11,7 @@ aliases:
 summary: "研究知识进入政策与实践过程的多种路径与机制，涵盖研发、问题解决、互动与战术模型；经历从单向推送、协同生产到系统生态的三代演进，并在当代走向权力共享的证据民主化与长效伙伴关系；在宏观政策生命周期中面临政治过滤，在中观上受治理机制制约，在微观上表现为知觉控制驱动的专业教学整合行为。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 118
+related_count: 119
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Technical Rationality]]"
+  - "[[Discourse]]"
   - "[[Professional Judgment]]"
   - "[[Document]]"
   - "[[Research Literacy]]"
@@ -168,7 +169,7 @@ updated: 2026-10-07
 > [!citation-card] 政策研制中的去政治化护盾与多源知识协同
 > 实证研究表明，政策制定者在方案设计中诉诸科研证据，首要目的往往在于构建抵御政治利益集团施压的去政治化护盾：
 > 
-> “决策者倾向于在政策研制阶段运用研究证据作为防范政治争议的‘去政治化护盾’，将自身价值偏好包裹在科学严谨性的话语之下。然而，由于学术实证在操作细节上往往存在知识盲区，真正促成方案落地的关键在于将有限的研究证据、学科内在结构逻辑与一线实践者的[[Professional Judgment|专业判断]]紧密协同起来。”（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013, pp. 13–15, 19]]）
+> “决策者倾向于在政策研制阶段运用研究证据作为防范政治争议的‘去政治化护盾’，将自身价值偏好包裹在科学严谨性的[[Discourse|话语]]之下。然而，由于学术实证在操作细节上往往存在知识盲区，真正促成方案落地的关键在于将有限的研究证据、学科内在结构逻辑与一线实践者的[[Professional Judgment|专业判断]]紧密协同起来。”（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013, pp. 13–15, 19]]）
 > 
 > *“Evidence can serve as a shield against political controversies, providing legitimacy for policy designs... yet because empirical evidence rarely answers all operational questions, wise policy requires combining research evidence with disciplinary expert deduction and professional judgment about how best to teach students.”*
 
@@ -197,7 +198,7 @@ updated: 2026-10-07
 > | **分析对象** | 政府立法、政策文本与政治议程（Weiss, 1991b） | 学校组织文化、信任氛围、领导力与制度结构（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026]]） | 备课设计、教学法更新、课堂问题解决与教学反思（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023]]） |
 > | **核心机制** | 政治可行性筛选、概念渗透与合法化修辞背书 | 跨层治理机制（信任、技能、结构、关系） | 知觉行为控制调控、多源[[Knowledge Integration\|知识整合]]与专业裁决 |
 > | **知识角色** | 政策辩护武器、改革重构透镜或参考处方 | 校本改进指南、教研组集体研讨素材 | 多元备选资源之一（与实践经验、具体学情并列） |
-> | **成效标准** | 政策话语采纳与施政议程推进 | 形成可持续的循证教研常规与信任生态 | 教学行为实质改善与学生深度学习发生 |
+> | **成效标准** | 政策[[Discourse\|话语]]采纳与施政议程推进 | 形成可持续的循证教研常规与信任生态 | 教学行为实质改善与学生深度学习发生 |
 
 ---
 
@@ -241,7 +242,7 @@ updated: 2026-10-07
 > [!concept-lens] 当代价值范式重构与元治理生态
 > - **研究利用之科学元治理框架（Science of Using Science）** 研究利用不是依靠良好意愿或常识直觉自发实现的机械过程，而是一门需要专门研究的跨学科科学（[[Metascience|Research on Research]] Use）；[[Knowledge Mobilisation\|知识动员]]与中介机构自身必须构建严密的[[Theory of Change\|变革理论]]，扎根行为科学厘清[[Research Translation\|研究转化]]的微观因果机制，并对最终受益人成效开展独立因果检验。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 146–148, 157–158)]]
 > - **关系驱动型证据利用与反采矿式科研（Relational URE & Anti-extractive Research）** [[Vivian Tseng\|薇薇安·曾]]（Vivian Tseng；[[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022, pp. 219–222]]）提出反思传统学术界把实践一线和弱势社群视作数据采矿场的单向提取模式，主张超越一次性产出交付，依托研究与实践伙伴关系（[[Research-Practice Partnership]]，RPP）建立平等互信、权力共有与长效共生机制，并通过高校暂停终身教职评审计时钟等制度改革支持跨界协作。
-> - **[[Third Space Discourse\|第三空间话语]]机制（Third-Space Discourse）** 蒂娜·S·普罗伊茨（Tine S. Prøitz；[[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022, pp. 226–228]]）强调在学术研究界、政策制定者与教学实践界之间开辟中介性的第三空间，通过跨界行动者促成超越二元对立的杂合话语，协同平衡学术严谨性、政策紧迫性与实践情境性。
+> - **[[Third Space Discourse\|第三空间话语]]机制（Third-Space [[Discourse]]）** 蒂娜·S·普罗伊茨（Tine S. Prøitz；[[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022, pp. 226–228]]）强调在学术研究界、政策制定者与教学实践界之间开辟中介性的第三空间，通过跨界行动者促成超越二元对立的杂合话语，协同平衡学术严谨性、政策紧迫性与实践情境性。
 > - **一线实践者知识主权与工会自主循证（Practitioner Ownership & Union-led Inquiry）** [[John Bangs\|约翰·班斯]]与埃梅谢·K·纳吉（John Bangs & Emese K. Nagy；[[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022, pp. 233–236]]）强调教师绝非外部研究证据的被动消费者，而是证据的协同创造者与所有者；以教育国际（[[Education International]]，EI）和[[National Education Association\|全美教育协会]]（[[National Education]] Association，NEA）为代表的教师专业组织通过开展独立实证研究，赋能一线专业自主权，抵御自上而下自发技术理性的行政[[Disciplina and Doctrina\|规训]]。
 
 > [!logic-map]- 研究利用的多层生态与行为驱动系统
@@ -376,7 +377,7 @@ updated: 2026-10-07
 > - **2022 — 研究利用之科学与多臂因果试验裁决** [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] 提出“研究利用之科学”（Science of Using Science）元治理框架，确立以需求为牵引的生态拓扑模型（Figure 7.1）；依托全英[[What Works Network|有效性网络]]实践与[[Literacy Octopus|识字八爪鱼试验]]（Lord et al., 2017）多臂 [[Randomised Controlled Trials|RCT]] 因果实证，彻底推翻单向推送的信息赤字假说，确立了基于行为改变科学（[[COM-B Model|COM-B]]）与外部高利害问责制度咬合的研究利用新[[Paradigm|范式]]。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 148–153; Lord et al., 2017)]]
 > - **2022 — 七大利益相关者全景论辩与[[Democratising Evidence|证据民主化]]转向** [[OECD|经合组织]] [[Centre for Educational Research and Innovation|CERI]] 50 周年专著（[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022]]）汇聚来自资助机构、政府首脑、学术中介与教师组织的多元视角，全面反思[[Technical Rationality|技术理性]]下单一[[Evidence Standards|证据标准]]的霸权，正式确立以[[Democratising Evidence|证据民主化]]、研究与实践伙伴关系（[[Research-Practice Partnership|RPP]]）、[[Third Space Discourse|第三空间话语]]与教师专业主权为支柱的深层关系型研究利用进路。
 > - **2022 — 从证据质量向使用质量的范式跨越与 [[Quality Use of Research Evidence Framework|QURE]] 框架建构** [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] 在《教育研究》（*Educational Research*）发表里程碑论文，[[Systematic Review|系统综述]]跨卫生、社工、教育与政策四大领域 112 篇核心[[Document|文献]]，正式提出“教育研究证据质量使用框架”（QURE），确立适切证据与审慎实施双核构件及个体-组织-系统三层使能机制，开辟了从二元采纳走向质态卓越的全新范式。
-> - **2025 — 迈向第四代专业敏感型概念化** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判 30 年[[Document|文献]]的赤字话语，正式确立以教师多源[[Knowledge Integration|知识整合]]与专业规范为支柱的第四代研究使用理论。
+> - **2025 — 迈向第四代专业敏感型概念化** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判 30 年[[Document|文献]]的赤字[[Discourse|话语]]，正式确立以教师多源[[Knowledge Integration|知识整合]]与专业规范为支柱的第四代研究使用理论。
 > - **2025 — 治理体制比较与专长社会学视角的证据使用异化** [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] 首次将专长社会学与治理体制理论引入英德苏三国基础教育研究使用比较，揭示高利害市场化问责异化证据为表演性辩护工具，而低利害与专业自主环境为基于[[Contributory Expertise|贡献型专长]]的合作探究提供了制度庇护。
 
 ---

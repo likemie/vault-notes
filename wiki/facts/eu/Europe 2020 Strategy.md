@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Theories of Policy Change]]"
   - "[[Network Governance]]"
+  - "[[Discourse]]"
   - "[[Doxa]]"
   - "[[Heterogeneity]]"
   - "[[Operationalization]]"
@@ -115,7 +116,7 @@ Europe 2020 的核心治理机制是 [[Performance Indicators]]。EUROSTAT 通�
 
 > [!success]
 > - [[Argument_Rambla_2022_Springer\|Rambla (2022)]]指出，Europe 2020 通过[[Performance Indicators\|绩效指标]]体系成功将"区域"建构为创新和教育政策的基本治理单元——任何公民都可以在地图上识别自身区域在创新和教育方面的排名位置（p.169–170）
-> - 战略所承载的[[Theory of Change\|变革理论]]——[[Innovation Ecosystem\|创新生态]]体系与教育培训体系协同演化产生互利增效——在话语层面被自然化为[[Doxa\|不言自明]]的前提。但在实践中，这一理论面临显著的执行差距和区域[[Heterogeneity\|异质性]]挑战（p.174–175）
+> - 战略所承载的[[Theory of Change\|变革理论]]——[[Innovation Ecosystem\|创新生态]]体系与教育培训体系协同演化产生互利增效——在[[Discourse|话语]]层面被自然化为[[Doxa\|不言自明]]的前提。但在实践中，这一理论面临显著的执行差距和区域[[Heterogeneity\|异质性]]挑战（p.174–175）
 
 > [!info]- 核心数据
 > - Europe 2020 核心目标：将早期辍学率降至 10% 以下；将 15 岁人群阅读、数学和科学低成就者比例降至 15% 以下（p.171）

@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Scientific Literacy]]"
   - "[[Construct Validity]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Direct Instruction]]"
 related_theories: []
 related_methods:
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Inq-ITS
@@ -144,7 +145,7 @@ updated: 2026-09-22
 > > 争论焦点在于智能代理 Rex 是否会削弱教师的教学主导权。
 > >
 > > - **算法替代偏见** 批评者担忧学生过度依赖 AI 代理的提示，演变为机械应付软件而忽视真实师生对话。
-> > - **人机协同融合** 研发团队明确指出，系统并非替代教师，而是由 Rex 负责微观程序性纠错，由 [[Inq-Blotter]] 看板预警赋能人类教师集中精力开展深层概念统整与价值关怀（Gobert et al., 2023）。
+> > - **[[Man-Computer Symbiosis|人机协同]]融合** 研发团队明确指出，系统并非替代教师，而是由 Rex 负责微观程序性纠错，由 [[Inq-Blotter]] 看板预警赋能人类教师集中精力开展深层概念统整与价值关怀（Gobert et al., 2023）。
 
 > [!lessons] 经验教训与启示
 > - **支架必须精准且克制** 早期版本若在学生刚开始思考时频繁弹出提示，会打断学生的深度推理并诱发反感；系统优化后严格遵循“先检测停滞/试错模式、确认陷入僵局后才分级弹出支架”的非干扰性原则。

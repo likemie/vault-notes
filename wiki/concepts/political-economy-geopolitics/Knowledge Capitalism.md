@@ -5,7 +5,7 @@ aliases:
 summary: "把知识生产、流通和应用置于资本积累核心位置的全球经济秩序概念，用于解释大学、创新体系和地缘竞争的深度重组"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge-Based Economization]]"
+  - "[[Discourse]]"
   - "[[New Public Management]]"
   - "[[Variable]]"
   - "[[Theoretical Knowledge]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-05
+updated: 2026-10-07
 ---
 
 ## 定义
@@ -61,7 +62,7 @@ updated: 2026-10-05
 
 > [!example] 概念辨析
 > - vs [[Knowledge-Based Economy]]：KBE 描述经济形态（知识作为价值来源），[[Intellectual Capital|知识资本]]主义强调资本积累的**制度逻辑**（知识如何被转化为可积累、可交易的资本）。两者高度重叠但分析焦点不同。详见 知识经济 > 定义
-> - vs [[Knowledge-Based Economization]]：知识经济化关注 KBE 被话语想象和物质实践**持续建构的过程**，知识资本主义则关注这一过程所导向的**制度结果**——一种以知识为资本核心形式的全球秩序
+> - vs [[Knowledge-Based Economization]]：知识经济化关注 KBE 被[[Discourse|话语]]想象和物质实践**持续建构的过程**，知识资本主义则关注这一过程所导向的**制度结果**——一种以知识为资本核心形式的全球秩序
 > - vs [[New Public Management\|NPM]]：知识资本主义为 NPM 在教育中的渗透提供了宏观的经济合理性——如果知识是首要的资本形式，那么教育（[[Knowledge Production\|知识生产]]的主要场所）就应当像企业一样被管理和优化
 >
 
@@ -90,7 +91,7 @@ updated: 2026-10-05
 >
 > - **1950s–1960s**Drucker (1959) 提出"知识工作者"概念，Bell (1973) 在 *The Coming of POST-Industrial Society* 中强调[[Theoretical Knowledge\|理论知识]]在后工业社会中的相对重要性——这些为知识资本主义提供了概念先驱([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.22]])。详见 [[Knowledge-Based Economy\|知识经济]] > 学术脉络
 > - **1986** Romer 的内生增长理论为知识作为资本提供了经济学基础——知识和[[Human Capital Theory\|人力资本]]投资被视为不受有限限制的增长关键资产([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.23]])
-> - **1990s–2000s**[[OECD]]、[[World Bank\|世界银行]]等国际组织将 KBE 话语系统性地嵌入全球政策框架，知识资本主义从学术概念转化为政策实践
+> - **1990s–2000s**[[OECD]]、[[World Bank\|世界银行]]等国际组织将 KBE [[Discourse|话语]]系统性地嵌入全球政策框架，知识资本主义从学术概念转化为政策实践
 > - **2013** Peters 系统阐述知识资本主义作为理解高等教育全球转型的分析框架
 >
 
@@ -103,7 +104,7 @@ updated: 2026-10-05
 > - **知识作为首要资本形式** 财富创造的核心从自然资源和有形资产转向无形资产（知识、信息、[[Human Capital Theory\|人力资本]]）（Dunning, 2000, p.8, cited in [[Argument_Moisio_2022_Springer\|Moisio, 2022, p.23]]）
 > - **高等教育的资本化** 大学被重新定位为[[Knowledge-Based Economy\|知识经济]]中产生价值和比较优势的核心基础设施——教学和研究优先级被市场价值所主导([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.89–90]])。详见 知识经济 > 核心要素
 > - **知识的商品化** 知识——包括专家、专业人员、学者和制度行动者的[[Knowledge Production\|知识生产]]过程——成为可交易的商品（Moisio, 2018, p.9, cited in [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, p.39]]）
-> - **教育作为人力资本投资** 教育被重新框定为个人和国家在全球知识经济中竞争的人力资本投资——这一话语深刻影响了从亚洲中产阶级的教育消费到国家教育出口战略的各层面决策([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.95–97]])
+> - **教育作为人力资本投资** 教育被重新框定为个人和国家在全球知识经济中竞争的人力资本投资——这一[[Discourse|话语]]深刻影响了从亚洲中产阶级的教育消费到国家教育出口战略的各层面决策([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.95–97]])
 >
 
 

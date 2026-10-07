@@ -9,7 +9,7 @@ summary: "Lincoln 与 Guba 确立的质性研究可信性效度策略：研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 43
+method_related_count: 44
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Flow]]"
   - "[[Emergence]]"
   - "[[Conflict of Interest in Research]]"
+  - "[[Discourse]]"
   - "[[Construct]]"
   - "[[Dialogue in Education]]"
   - "[[Document]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-09-21
+updated: 2026-10-07
 ---
 
 # Peer Debriefing
@@ -129,7 +130,7 @@ updated: 2026-09-21
 > | **材料来源** | 访谈录音转录文本、课堂微观录像切片、田野笔记、分析备忘录（Memos）与[[Coding in Qualitative Research\|编码]]网络。 |
 > | **同行遴选** | 具有相近方法论专长但无[[Conflict of Interest in Research\|研究利益冲突]]的同事、导师组成员或学术同行（Disinterested Peer）。 |
 > | **研究者位置** | 保持开放防守姿态（Open & Defensible），详细交代个人先验[[Hypothesis\|假设]]与潜在情感倾向。 |
-> | **质询焦点** | 核心关注概念推论是否合理、反常案例是否被掩盖、因果推论是否具备微观话语证据支持。 |
+> | **质询焦点** | 核心关注概念推论是否合理、反常案例是否被掩盖、因果推论是否具备微观[[Discourse\|话语]]证据支持。 |
 
 > [!proc] 质性同行审议的四阶段质询程序
 > 1. **诚实性与偏见核查（Testing Honesty）** 审议者抽检原始[[Transcription in Qualitative Research\|转录]]文本与编码库，排查研究者是否受先入为主[[Theoretical Standpoint\|理论立场]]的引导而选择性忽视不利证据。

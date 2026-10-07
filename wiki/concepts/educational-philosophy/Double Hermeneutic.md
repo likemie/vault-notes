@@ -7,7 +7,7 @@ aliases:
 summary: "Giddens (1976) 提出的社会科学认识论概念：研究者诠释的正是参与者已经诠释过的世界，再以自身语言转述给受众，质性数据分析由此是双重诠释过程"
 type: concept
 domain: "educational-philosophy"
-related_count: 7
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,15 +23,17 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
+  - "[[Transcription in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31]]"
 confidence: medium
 status: draft
 created: 2026-08-14
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Double Hermeneutic
@@ -63,6 +65,25 @@ updated: 2026-09-22
 
 ---
 
+### 从参与者理解到读者阅读的五层诠释
+
+双重诠释的基本关系还可以沿材料形成和传播过程进一步分解。Morrison (2003) 将课堂会话的知识形成区分为五层，凸显媒介转换和报告选择的作用。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.2)]]
+
+> [!index-table] 五层诠释的不同选择位置
+> | 层次 | 意义与选择发生在哪里 |
+> |---|---|
+> | 参与者理解 | 教师与儿童依据自己对情境的理解行动 |
+> | 文字[[Transcription in Qualitative Research\|转录]] | 现场行动被选择性转换为可转录的书面内容 |
+> | 材料分析 | 分析者对书面材料再作解释 |
+> | 报告写作 | 解释被组织成必然有所选择的报告 |
+> | 读者阅读 | 读者以个人经历与背景理解报告 |
+>
+> [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.2)]]
+
+连续诠释使文字材料难以覆盖原始事件的全部活动。[[Reflexivity|反身性]]披露能指出解释的位置，却不能自动消除偏见；课堂权力分析因此还应保留善意教学与秩序维护的解释，并说明材料无法裁定的部分。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.2)]]
+
+---
+
 ## 概念辨析
 
 > [!contrast-table] 双重诠释 vs 相关概念
@@ -78,6 +99,9 @@ updated: 2026-09-22
 ---
 
 ## 相关研究
+
+- [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|Cohen et al. (2011, §31.2)]] 用课堂会话说明参与者、[[Transcription in Qualitative Research|转录]]、分析、报告与读者构成的五层诠释，以及[[Reflexivity|反身性]]披露的限度。
+
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|Cohen et al. (2011, Ch. 28)]] — 在质性数据分析的论述中引入 Giddens（1976）的双重诠释，说明报告与诠释为何应力求捕捉不同参与者对情境的不同定义，并综合[[Emic and Etic\|主位与客位]]分析。

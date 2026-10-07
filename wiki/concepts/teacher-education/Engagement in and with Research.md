@@ -10,7 +10,7 @@ aliases:
 summary: "教师专业发展与循证教育中的核心概念，将教师对科研的参与区分为开展研究（Engagement in research，作为研究者进行行动研究与课题探究）与使用研究（Engagement with research，作为利用者研读学术文献并融入教学决策）两种互补模式；跨国实证调查进一步揭示出一线教师面临被局限为被动数据收集客体及外在制度激励全面缺位的深层结构性断层。"
 type: concept
 domain: "teacher-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Research Utilization]]"
   - "[[Research Question]]"
+  - "[[Discourse]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
 related_theories: []
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-26
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 # Engagement in and with Research
@@ -191,7 +192,7 @@ updated: 2026-09-18
 > |---|---|---|---|
 > | **双轨互补驱动** | 开展研究主导技能提升，使用研究主导行为转化 | 中小学教师专业发展与循证教学实践 | Bell et al. (2010); [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] |
 > | **知行转化控制** | 技能与资源掌控是态度转化为教学使用的必要桥梁 | 教师教研培训与学校科研生态建设 | BERA-RSA (2014) |
-> | **客体化异化诊断** | 教师参与被窄化在数据收集阶段，核心智力话语权被剥夺 | 国家教育研究生态治理与科研生命周期重组 | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] |
+> | **客体化异化诊断** | 教师参与被窄化在数据收集阶段，核心智力[[Discourse\|话语]]权被剥夺 | 国家教育研究生态治理与科研生命周期重组 | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] |
 > | **外在激励破局** | 缺乏工时豁免与职称晋升支撑导致长效科研难以为继 | 教师人事评价制度改革与国家科研资助体系 | NWO (2010); Oktatási Hivatal (2013) |
 
 ---

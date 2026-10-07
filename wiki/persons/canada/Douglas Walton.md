@@ -8,7 +8,7 @@ summary: "加拿大哲学家、非形式逻辑与论辩理论家，提出系统�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
   - theme/epistemic-cognition
   - region/canada
 related_concepts:
+  - "[[Discourse]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Operationalization]]"
   - "[[Classroom Debate]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Douglas Walton
@@ -58,7 +59,7 @@ updated: 2026-09-22
 > - **代表贡献** 创立[[Walton's Argumentation Schemes\|沃尔顿论证型式]]理论（包含 60 余种论证型式与批判性提问体系），重构谬误理论（将传统谬误视作语用对话中举证责任的转移失败），推动了人工智能论辩计算与科学教育论辩评估的发展。
 
 > [!citation-card]- 人物定位的关键来源
-> 沃尔顿将论证型式定义为日常话语中假定性推理的规范性结构，通过提出批判性提问清单来探测论证的漏洞并转移举证责任。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]
+> 沃尔顿将论证型式定义为日常[[Discourse|话语]]中假定性推理的规范性结构，通过提出批判性提问清单来探测论证的漏洞并转移举证责任。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]
 >
 > *Walton defined argumentation schemes as forms of argument that represent structures of presumptive reasoning used in everyday discourse, accompanied by sets of critical questions that guide probing of the argument.*
 
@@ -79,7 +80,7 @@ updated: 2026-09-22
 
 > [!work-line] 主要著作
 > - **1996 — *[[Walton's Argumentation Schemes\|Argumentation Schemes]] for Presumptive Reasoning*** 系统梳理日常生活中基于假定的可撤销推理模式，提出 25 种核心论证型式及配套批判性提问。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 223)]]
-> - **1998 — *The New Dialectic: Conversational Contexts of Argument*** 提出新辩证法理论，将论辩置于信息搜集、质询、协商、批判性讨论等具体对话语境中考量。
+> - **1998 — *The New Dialectic: Conversational Contexts of Argument*** 提出新辩证法理论，将论辩置于信息搜集、质询、协商、批判性讨论等具体对[[Discourse|话语]]境中考量。
 > - **2008 — *Argumentation Schemes*** 论辩型式的集大成之作，扩充至 60 余种型式，为计算论辩学与教育论辩评价奠定[[Criterion-Referenced Test\|标准参照]]体系。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–225)]]
 
 ---

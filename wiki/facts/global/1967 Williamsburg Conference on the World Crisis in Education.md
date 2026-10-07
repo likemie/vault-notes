@@ -12,7 +12,7 @@ subtype: event
 region: "global"
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 19
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Paradigm]]"
   - "[[Grandes Ecoles]]"
+  - "[[Discourse]]"
   - "[[International Education]]"
   - "[[Performance Indicators]]"
   - "[[Competitiveness]]"
@@ -66,7 +67,7 @@ updated: 2026-10-07
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1967 年 10 月 5 日至 9 日，在美国弗吉尼亚州历史名镇威廉斯堡（Williamsburg, Virginia）举行。
 > - **核心当事主体** 由美国总统林登·约翰逊（Lyndon B. Johnson）正式倡议发起，[[International Institute for Educational Planning\|联合国教科文组织国际教育规划研究所]]（IIEP）创始所长[[Philip H. Coombs\|菲利普·H·库姆斯]]（Philip H. Coombs）主持议题架构与工作底稿起草，来自全球 52 个国家的教育部长、[[Grandes Ecoles|大学校]]长、高级经济学家及[[World Bank\|世界银行]]、[[UNESCO\|联合国教科文组织]]等跨国机构领导人出席。
-> - **深层制度与社会背景** 20 世纪 60 年代伴随二战后婴儿潮与第三世界去殖民化浪潮，各国适龄入学人口激增，传统教育财政面临严峻赤字；同时美苏冷战争夺全球南方阵营，西方大国急需一套技术官僚话语来重塑[[International Education\|国际教育]]援助的合法性。
+> - **深层制度与社会背景** 20 世纪 60 年代伴随二战后婴儿潮与第三世界去殖民化浪潮，各国适龄入学人口激增，传统教育财政面临严峻赤字；同时美苏冷战争夺全球南方阵营，西方大国急需一套技术官僚[[Discourse|话语]]来重塑[[International Education\|国际教育]]援助的合法性。
 > - **直接导火索 / 触发事件** 1966 年林登·约翰逊在夏威夷东西方中心发表演讲呼吁召开全球教育首脑峰会，力图通过输出美国的[[Human Capital Theory\|人力资本]]与系统规划模式抗衡苏联的意识形态输出。
 
 ---
@@ -114,7 +115,7 @@ updated: 2026-10-07
 > - **催生跨国量化指标浪潮** 会议对教育投入、流程与产出进行系统分析的呼吁，直接孕育了 20 世纪 70 至 80 年代[[OECD\|经合组织]]跨国[[Performance Indicators\|教育指标]]体系（[[International Indicators of Education Systems\|INES]]）与[[World Bank\|世界银行]]教育指标数据库的诞生。
 
 > [!finding-cards] 关键历史后果
-> - **话语[[Paradigm\|范式]]重塑** 彻底终结了战后初期纯粹基于人道主义与文化修养的教育话语，将教育牢固锚定为宏观经济增长、技术创新与[[Competitiveness|国家竞争力]]的战略工具。
+> - **[[Discourse|话语]][[Paradigm\|范式]]重塑** 彻底终结了战后初期纯粹基于人道主义与文化修养的教育话语，将教育牢固锚定为宏观经济增长、技术创新与[[Competitiveness|国家竞争力]]的战略工具。
 > - **危机叙事的周期性复制** 为 1983 年美国《国家处在危险之中》（*[[A Nation at Risk 1983\|A Nation at Risk]]*）报告以及新世纪经合组织 [[PISA]] 测验所激发的“PISA 冲击”提供了历史范型与修辞蓝本。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 
 ---
@@ -145,5 +146,5 @@ updated: 2026-10-07
 > | [[Philip H. Coombs]] | Person | 会议主旨设计者与核心组织者，同名代表作作者。 |
 > | [[International Institute for Educational Planning]] | Fact (Organization) | 库姆斯领导的联合国多边机构，会议成果的执行与传播中心。 |
 > | [[Policy Brokerage]] | Concept | 会议奠定了国际组织以危机调停者和政策中介介入国家治理的基础[[Paradigm\|范式]]。 |
-> | [[A Nation at Risk 1983]] | Fact (Policy) | 会议所确立的危机叙事话语在 20 世纪 80 年代美国国内的延续与升级。 |
+> | [[A Nation at Risk 1983]] | Fact (Policy) | 会议所确立的危机叙事[[Discourse\|话语]]在 20 世纪 80 年代美国国内的延续与升级。 |
 > | [[OECD]] | Fact (Organization) | 协同参会并承接跨国教育量化指标开发的核心多边机构。 |

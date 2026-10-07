@@ -7,10 +7,10 @@ title: "Argument_Mattheou_2009_ScientificParadigm"
 argument_key: "Argument_Mattheou_2009_ScientificParadigm"
 argument_display_title: "The Scientific Paradigm in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 74
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#fef3c7"
+argument_related_count: 75
+argument_related_level: 5
+argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_color: "#fecdd3"
 authors:
   - Mattheou, D.
 source_language: en
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Educational Meliorism]]"
   - "[[Intangible Spiritual Forces]]"
+  - "[[Discourse]]"
   - "[[Hypothesis]]"
   - "[[Research Scope]]"
   - "[[Scientific Method]]"
@@ -215,7 +216,7 @@ updated: 2026-09-08
 > - **时间地点与历史情境** 20 世纪 40 年代中叶至 50 年代初的战后欧洲；正如历史学家马克·马佐尔（Mark Mazower; Mazower, 1998, p. 185）在《黑暗大陆》中所指出的，满目疮痍的欧洲急切寻求走出极权废墟、迈向黄金时代的重建蓝图。
 > - **关键主体** 战后失去公信力的古典人文精英、急切渴望社会经济重建的民主国家执政者，以及信奉现代科学规划的新一代技术官僚与跨国专家。
 > - **制度与道德破产** 正如历史学家诺曼·戴维斯（Norman Davies; Davies, 1997, p. 899）所针砭的：军国主义、法西斯主义和极权意识形态不仅在受难民族的被操纵大众中滋生，更在欧洲受教育程度最高、最民主的精英阶层中大行其道，宣告古典人文学科教化防线的全面坍塌。
-> - **现实需求转向** 促进经济起飞、劳动力再配置与社会民主化的教育改革迅速跃升为时代核心话语（Adams & Farrell, 1967; Sobel, 1982），政策决策的可操作性与改革方案的实际成效被推到了绝对中心地位。
+> - **现实需求转向** 促进经济起飞、劳动力再配置与社会民主化的教育改革迅速跃升为时代核心[[Discourse|话语]]（Adams & Farrell, 1967; Sobel, 1982），政策决策的可操作性与改革方案的实际成效被推到了绝对中心地位。
 
 古典历史学派注重宏观精神描述与历史追溯的风格，在急切呼唤制度干预与决策处方的战后现实面前显得步履维艰，双方展现出深度的[[Paradigm|范式]]脱节。（pp. 59–61）
 
@@ -460,7 +461,7 @@ updated: 2026-09-08
 ## 自述局限
 
 > [!warning] 原文自述的[[Research Scope\|研究范围]]与边界条件
-> - **[[Document\|文献]]考据主要聚焦英美主流学术话语** 方法论梳理主要立足于 20 世纪下半叶英美核心学者与主流英文期刊论战，对非英语世界（如苏联、拉丁美洲依附学派、亚非本土经验）在同时期形成的独特比较思想与反霸权反思未作全景覆盖。（pp. 59, 61, 69）
+> - **[[Document\|文献]]考据主要聚焦英美主流学术[[Discourse|话语]]** 方法论梳理主要立足于 20 世纪下半叶英美核心学者与主流英文期刊论战，对非英语世界（如苏联、拉丁美洲依附学派、亚非本土经验）在同时期形成的独特比较思想与反霸权反思未作全景覆盖。（pp. 59, 61, 69）
 > - **聚焦方法论[[Epistemology\|认识论]]争鸣而非微观改革个案实证** 论证着力解构[[Scientific Paradigm\|科学范式]]在目标、法则与认识论构架层面的学派交锋与政治结盟，并未展开特定国家教育体制改革成败的微观实证因果复盘。（pp. 61–62）
 
 ---

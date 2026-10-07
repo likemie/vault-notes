@@ -11,9 +11,9 @@ summary: "质性研究中系统记录研究全过程证据与决策链条的结�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 39
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 41
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/research-methods
@@ -29,11 +29,13 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Meaningful Human Control]]"
   - "[[AI Agent in Education]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Constructivist Paradigm]]"
   - "[[Creativity]]"
+  - "[[Discourse]]"
   - "[[Research Ethics]]"
 related_methods:
   - "[[Qualitative Research]]"
@@ -63,7 +65,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: stable
 created: 2026-06-24
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Audit Trail
@@ -169,7 +171,7 @@ updated: 2026-09-22
 
 ### 命题三　计算机辅助软件与智能体工具拓展了审计追踪的技术维度与人在回路责任
 
-> [!concept-lens] 数字化记录与人机协同中的证据可追溯性
+> [!concept-lens] 数字化记录与[[Man-Computer Symbiosis|人机协同]]中的证据可追溯性
 > 探讨现代分析工具（[[Qualitative Computer Software\|CAQDAS]] 与生成式 AI）如何改变审计追踪的实现形态，并在自动化提效的同时重构研究者的解释学主体责任。
 
 > [!claim] Gibbs (2007) & Lewins & Silver (2007)
@@ -209,7 +211,7 @@ updated: 2026-09-22
 > > 争论审计追踪是否将[[Interpretive Paradigm\|自然主义探究]]异化为官僚化程序[[Disciplina and Doctrina\|规训]]，从而损害诠释学深度。
 > >
 > > - **[[Constructivist Paradigm\|建构主义]]与后现代批评者** 机械套用审计追踪容易诱发“新实证主义（neo-positivism）”倒退，研究者可能沉溺于形式主义的文档堆砌，反而抑制了研究者的直觉洞察力、情感共情与理论[[Creativity\|创造力]]。
-> > - **程序规范派学者（Lincoln & Guba, 1985; Morse et al., 2002）** 审计追踪追求的是探究过程对学术共同体的透明性与学理责任感，而非绝对真理；透明性是[[Qualitative Research\|质性研究]]在公共话语中赢得公信力与解释合法性的必由之路。
+> > - **程序规范派学者（Lincoln & Guba, 1985; Morse et al., 2002）** 审计追踪追求的是探究过程对学术共同体的透明性与学理责任感，而非绝对真理；透明性是[[Qualitative Research\|质性研究]]在公共[[Discourse|话语]]中赢得公信力与解释合法性的必由之路。
 >
 > > [!axis] 档案公开与伦理保密张力
 > > 审计追踪要求保存乃至向外审者公开原始田野手记与[[Transcription in Qualitative Research\|转录]]稿，与医学、教育等敏感领域对受访者的绝对匿名性保护构成现实冲突。

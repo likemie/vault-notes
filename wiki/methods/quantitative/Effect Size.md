@@ -6,7 +6,7 @@ summary: "比较不同干预或变量影响强度的标准化统计指标，被�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 83
+method_related_count: 84
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -19,6 +19,7 @@ tags:
 related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Visible Learning]]"
+  - "[[Discourse]]"
   - "[[Critique of Effect Size]]"
   - "[[Going Native]]"
   - "[[Academic Achievement]]"
@@ -109,13 +110,13 @@ related_instruments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 
 ## 定义
 
 > [!def] 核心定义
-> 效应量（Effect Size）是量化干预措施效果的标准化统计指标，计算方式为干预组与对照组结果差异除以标准差，旨在使不同研究的结果可跨测量工具比较。效应量是[[Meta-analysis\|元分析]]的核心[[Unit of Analysis\|分析单位]]，[[Gene Glass]] 于 1976 年将其确立为跨研究比较的标准化工具，[[John Hattie]] 的 *[[Visible Learning]]*（2009）以效应量排名教学干预使其进入全球教育政策话语。在[[EEF Teaching and Learning Toolkit]]中，效应量被进一步转换为"额外学习月数"（[[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 118]]）。
+> 效应量（Effect Size）是量化干预措施效果的标准化统计指标，计算方式为干预组与对照组结果差异除以标准差，旨在使不同研究的结果可跨测量工具比较。效应量是[[Meta-analysis\|元分析]]的核心[[Unit of Analysis\|分析单位]]，[[Gene Glass]] 于 1976 年将其确立为跨研究比较的标准化工具，[[John Hattie]] 的 *[[Visible Learning]]*（2009）以效应量排名教学干预使其进入全球教育政策[[Discourse|话语]]。在[[EEF Teaching and Learning Toolkit]]中，效应量被进一步转换为"额外学习月数"（[[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 118]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 效应量通过除以标准差消除测量单位，回答"干预产生了多大差异"，而非仅回答"差异是否显著"。[[Lars Qvortrup]]（2015）强调其"相对效果"功能——可比较不同研究之间干预组与控制组的相对变化（[[Argument_Qvortrup_2015_Paideia\|Qvortrup, 2015, p.27]]）。
@@ -150,7 +151,7 @@ updated: 2026-09-18
 > - **1980** — Cooper and Rosenthal 的实证检验表明，[[Meta-analysis\|元分析]]比传统叙事综述更不容易低估证据([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.32]])。
 > - **1988** — Cohen 出版 Statistical Power Analysis 第 2 版，以身高类比等直观方式解释效应量的实质含义([[Argument_Terhart_2011_JCS\|Terhart, 2011, p.427]])。
 > - **2005** — [[John Hattie\|约翰·哈蒂]]（[[John Hattie]]）在 [[Australian Council for Educational Research\|ACER]] 会议报告中基于 100 余项元分析与 50 余万个效应量确立 $d = 0.40$ 为教学干预的“关节点（hinge point）”，提出批判教育界将门槛定得过低的“零门槛谬误”，并依托[[Assessment Tools for Teaching and Learning\|教学与学习评估工具]]（[[Assessment Tools for Teaching and Learning\|asTTle]]）推动效应量在中小学校本评价与教师教学改进中的[[Going Native\|本土化]]应用（[[Argument_Hattie_2005_ACER\|Hattie, 2005, pp. 15–17]]）。
-> - **2009** — [[John Hattie]] 出版《[[Visible Learning\|可见的学习]]》，综合 800 多项元分析和 50,000 多项研究，以效应量排名各类教育干预，使效应量概念进入全球教育政策和实践话语。
+> - **2009** — [[John Hattie]] 出版《[[Visible Learning\|可见的学习]]》，综合 800 多项元分析和 50,000 多项研究，以效应量排名各类教育干预，使效应量概念进入全球教育政策和实践[[Discourse|话语]]。
 > - **2014** — [[EEF Teaching and Learning Toolkit]] 以[[Effect Size Conversion\|效应量转换]]为"额外学习月数"的格式传播教育干预证据。
 > - **2017 至 2018** — Simpson 发表系统批判，论证效应量测量的是试验灵敏度而非干预有效性（[[Argument_Simpson_2017_JEP\|Simpson, 2017]], 2018）。
 > - **2019** — Simpson 用"教一个匈牙利单词"思想实验展示同一干预可因测试设计产生 0 到无穷大的效应量；Wrigley & McCusker 通过 [[Education Endowment Foundation\|EEF]] Toolkit 体育参与案例展示[[Meta-meta-analysis\|元-元分析]]层面的三级失真；Wiliam 提出 11 点元分析评估清单([[Argument_Simpson_2019_ERE\|Simpson, 2019]]; [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]; [[Argument_Wiliam_2019_ERE\|Wiliam, 2019]])。

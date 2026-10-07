@@ -8,7 +8,7 @@ aliases:
 summary: "指单纯依赖机械重复与表层记忆、缺乏深层因果推论与概念重构的认知加工方式。在现代认知心理学与教育测量中构成程序性知识习得的低阶层级，而在跨文化教育研究中，其与理解的非二元对立关系构成了理解东亚学习者成就悖论的关键。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Paradox of the Chinese Learner]]"
   - "[[Metacognition]]"
+  - "[[Discourse]]"
   - "[[Familiarization]]"
   - "[[Epistemic Cognition]]"
   - "[[Constructivist Paradigm]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-09-22
+updated: 2026-10-07
 ---
 
 # Rote Learning
@@ -80,7 +81,7 @@ updated: 2026-09-22
 > 死记硬背（Rote Learning，亦称机械学习、机械记忆 Rote Memorization）是指个体通过字面重复、机械背诵和算法式程序套用，将孤立的事实、公式或规程储存于记忆中，而不寻求建立深层逻辑联系、因果机制推论或[[Epistemology\|认识论]]确证的表层认知加工模式。在现代认知心理学与教育测量中，它被视为认知加工层级的低阶产物；而在跨文化比较研究中，它构成了探讨东亚学习者“记忆与理解”关系以及解释[[Paradox of the Chinese Learner\|中国学习者悖论]]的核心争议议题。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 136–139)]]; [[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 488, 492)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向缺乏因果解释意图的浅层信息[[Coding in Qualitative Research\|编码]]。西方二[[Metacognition\|元认知]]话语长期将其定性为理解的直接对立面；但在东亚儒家文化认知中，重复性记忆往往被界定为通往高阶理解的初始“[[Familiarization\|熟悉化]]”台阶。
+> - **含义** 指向缺乏因果解释意图的浅层信息[[Coding in Qualitative Research\|编码]]。西方二[[Metacognition\|元认知]][[Discourse|话语]]长期将其定性为理解的直接对立面；但在东亚儒家文化认知中，重复性记忆往往被界定为通往高阶理解的初始“[[Familiarization\|熟悉化]]”台阶。
 > - **用途** 诊断课堂教学是停留在程序操练还是促进了概念转变；解释为何[[Epistemic Cognition\|认识论认知]]干预能大幅提升高阶论证能力，却对常规考卷中的机械套用完全脱节。
 > - **边界** 必须严格区分纯粹为记忆而记忆的机械死记，与以追求深层理解为终极导向的“温故知新”式重复性内化；同时不能借反对死记硬背而走向极端[[Constructivist Paradigm\|建构主义]]，否定学科系统概念知识的传承价值。
 
@@ -149,7 +150,7 @@ updated: 2026-09-22
 > [!claim] [[Argument_Li_2012_Cambridge\|Li (2012, pp. 136–138)]]
 > **西方局外人观察的四个认知谬误** 将东亚学习者的记忆行为等同于死记硬背源于西方观察者的文化过滤偏见，存在四大根本谬误：
 > 1. **将外在行为等同于内心认知** 仅凭学生安静背诵与抄写，就断言其缺乏内在思维突破与探索发现；
-> 2. **选择性忽略西方自身的重复训练** 钢琴、芭蕾、体育乃至医学院导论中充斥着严酷的重复记忆（如拉赫玛尼诺夫童年高压琴练），但西方话语习惯性将天才产出与艰苦重复割裂；
+> 2. **选择性忽略西方自身的重复训练** 钢琴、芭蕾、体育乃至医学院导论中充斥着严酷的重复记忆（如拉赫玛尼诺夫童年高压琴练），但西方[[Discourse|话语]]习惯性将天才产出与艰苦重复割裂；
 > 3. **静态假定初期行为不会演进** 将学生处于[[Familiarization\|熟悉化]]初期的记忆行为误判为终生固定状态，忽视了随后诗意领会与自主创作的动态进阶；
 > 4. **错误预设理解必须即时展现** 认定一节课 50 分钟内必须观察到理解，其实即时呈现的往往只是浅层见解，真正厚重的深层理解（如庖丁解牛）必须经过长周期反思与反刍。
 

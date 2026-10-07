@@ -11,7 +11,7 @@ summary: "以解释学与建构主义为认识论基础，在自然情境中通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 97
+method_related_count: 98
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Reflexivity]]"
   - "[[Variable]]"
+  - "[[Discourse]]"
   - "[[Unit of Analysis]]"
   - "[[Emergence]]"
   - "[[Reliability]]"
@@ -127,7 +128,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-05
-updated: 2026-10-03
+updated: 2026-10-07
 ---
 
 # Qualitative Research
@@ -142,7 +143,7 @@ updated: 2026-10-03
 > 在方法分类谱系中，质性研究属于不操纵自[[Variable\|变量]]的[[Non-intervention Research\|非干预研究]]，依靠访谈文本、现场观察、历史档案与视听图像等质性材料开展探究，与基于量化观测的观察/[[Correlational Research\|相关研究]]及受控实验设计形成根本性分野（[[Argument_Brady_2023_EPR\|Brady et al., 2023, p. 4]]）。
 
 > [!method-scope] 方法范围
-> - **研究对象** 行动者的主观生命体验、意义建构过程、微观交往互动、制度文化仪式、政策在地落实历程与话语实践。
+> - **研究对象** 行动者的主观生命体验、意义建构过程、微观交往互动、制度文化仪式、政策在地落实历程与[[Discourse|话语]]实践。
 > - **问题类型** 探索性问题（“是什么”）、机制解释性问题（“如何发生”与“为何发生”）、动态演变过程、情境协商与意义赋予。
 > - **[[Unit of Analysis\|分析单位]]** 个体行动者、教师群体、教室亚文化、特定学校组织、社区、历史文本或关键互动事件等[[Unit of Analysis\|分析单位]]。
 > - **输出形式** [[Coding in Qualitative Research\|质性编码]]与核心主题、深描叙事长文、[[Grounded Theory\|扎根理论]]概念框架、行动者互动模型、质性对比矩阵与典型话语引文。
@@ -279,7 +280,7 @@ Miller 关于新任[[Grandes Ecoles|大学校]]长第一年经历的博士论文
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 旨在深入理解教育情境中师生的微观行动机智、探索未经充分理论化的复杂社会过程、揭示参与者多元冲突的主观世界，或在研究早期构建实地[[Grounded Theory\|扎根理论]]的情境。([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 41]]；[[Argument_Brady_2023_EPR\|Brady et al., 2023, p. 5]])。在政策研究领域，质性研究是开展“沟通性政策研究”（Communicative Policy Research）的基石，通过[[Interpretive Paradigm|自然主义探究]]与话语诠释，深入揭示政策制定与执行过程中各方行动者的主观理解、利益协商黑箱及微观抵抗机制（Shannon, 1991; Roller & Long, 2001; [[Argument_Edmondson_2005_EPAA\|Edmondson, 2005, pp. 11–12]]）。
+> - **适合使用** 旨在深入理解教育情境中师生的微观行动机智、探索未经充分理论化的复杂社会过程、揭示参与者多元冲突的主观世界，或在研究早期构建实地[[Grounded Theory\|扎根理论]]的情境。([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 41]]；[[Argument_Brady_2023_EPR\|Brady et al., 2023, p. 5]])。在政策研究领域，质性研究是开展“沟通性政策研究”（Communicative Policy Research）的基石，通过[[Interpretive Paradigm|自然主义探究]]与[[Discourse|话语]]诠释，深入揭示政策制定与执行过程中各方行动者的主观理解、利益协商黑箱及微观抵抗机制（Shannon, 1991; Roller & Long, 2001; [[Argument_Edmondson_2005_EPAA\|Edmondson, 2005, pp. 11–12]]）。
 > - **谨慎使用** 涉及向宏观公共政策提出直接[[Recommendations for Practice\|实践建议]]（RFP）时；若建议暗含“改变 X 必然改善 Y”的因果干预逻辑，必须审慎说明其缺乏[[Counterfactual\|反事实]]因果控制的方法学边界。([[Argument_Brady_2023_EPR\|Brady et al., 2023, pp. 6-7]])
 > - **不适合使用** 旨在精确检验全国总体参数、评估大规模标准化干预的平均处理净效应，或对普适性假说进行严格统计[[Falsification\|证伪]]的研究。
 

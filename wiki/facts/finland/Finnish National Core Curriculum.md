@@ -9,7 +9,7 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Phenomenon-Based Learning]]"
   - "[[Bildung]]"
   - "[[Didaktik]]"
+  - "[[Discourse]]"
   - "[[Performance Indicators]]"
   - "[[Epochal Key Problems]]"
   - "[[Transfer Translation Transformation]]"
@@ -41,12 +42,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-05-18'
+updated: 2026-10-07
 ---
 ## 背景
 
 > [!info] 背景
-> 芬兰基础教育国家核心课程 2014 将跨学科教育和 [[Phenomenon-Based Learning]] 纳入课程框架。这一改革处在两条历史脉络交汇处：一方面，芬兰教育长期受 [[Bildung]]、[[Didaktik]]、[[Phenomenology]] 与 [[Radical Constructivism]] 影响；另一方面，1990 年代以后，[[OECD]]、EU、21 世纪技能、横向能力和经济竞争话语逐步进入芬兰课程政策([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp.2, 8-9]])。
+> 芬兰基础教育国家核心课程 2014 将跨学科教育和 [[Phenomenon-Based Learning]] 纳入课程框架。这一改革处在两条历史脉络交汇处：一方面，芬兰教育长期受 [[Bildung]]、[[Didaktik]]、[[Phenomenology]] 与 [[Radical Constructivism]] 影响；另一方面，1990 年代以后，[[OECD]]、EU、21 世纪技能、横向能力和经济竞争[[Discourse|话语]]逐步进入芬兰课程政策([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp.2, 8-9]])。
 >
 > 芬兰教育政策原本嵌入北欧福利国家传统，强调民主、团结、平等，以及全民基础教育、医疗、养老金、失业保障和高等教育支持等共享制度。1990 年代苏联解体后，芬兰经历严重经济衰退，政策话语开始把国家未来描绘为"信息社会"，并积极吸收 OECD 关于劳动力市场变化和教育现代化的政策语言([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p.8]])。
 >
@@ -64,7 +65,7 @@ updated: '2026-05-18'
 > [[Phenomenon-Based Learning]] 在课程中的政策功能主要有三层：
 > - **连接学生经验** 学习主题应与学生的邻近环境和生活经验相连，以释放学生能动性。
 > - **回应复杂问题** 跨学科取向被视为面对不平等、气候变化、污染、疫情、不安全、暴力和营养不良等纠缠性问题的教育回应，这与 [[Epochal Key Problems]] 的课程组织思路相通([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp.1, 6-7]])。
-> - **服务横向能力话语** PhBL 与 [[OECD]] 的 21 世纪技能、transversal knowledge 以及 EU 教育经济政策相呼应([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p.9]])。
+> - **服务横向能力[[Discourse|话语]]** PhBL 与 [[OECD]] 的 21 世纪技能、transversal knowledge 以及 EU 教育经济政策相呼应([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p.9]])。
 
 ## 时间线
 
@@ -93,7 +94,7 @@ updated: '2026-05-18'
 
 > [!warning] 争议与评论
 > - **国际误读** 社交媒体和博客常声称芬兰已用跨学科教学取代学科教学。这不符合课程事实：芬兰课程仍以传统学科组织([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p.2]])。
-> - **政策悖论** 芬兰课程改革一方面强调整体学习、横向能力和复杂问题，另一方面又受全球测量、问责和经济竞争话语影响，可能推动 [[Atomisation of Knowledge and Skills]]([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp.9-10]])。
+> - **政策悖论** 芬兰课程改革一方面强调整体学习、横向能力和复杂问题，另一方面又受全球测量、问责和经济竞争[[Discourse|话语]]影响，可能推动 [[Atomisation of Knowledge and Skills]]([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp.9-10]])。
 > - **概念模糊**[[Phenomenon-Based Learning\|PhBL]] 在课程文本中的术语位置并不稳定；芬兰语原文没有直接使用"phenomenon-based learning"，译本中也只少量出现该词，但"phenomenon/ilmiö"及其组合词大量出现。这种写法给学校留下空间，也增加了实施解释差异。
 > - **学科深度风险** PhBL 的目标不是模糊学科边界，而是在复杂现象中同时保存学科内部逻辑和跨学科问题意识。若实施时只追求主题整合而忽略学科结构，可能把知识拆成表层活动或技能碎片([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp.4-5, 10]])。
 

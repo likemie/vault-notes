@@ -9,7 +9,7 @@ summary: "美国著名比较教育学泰斗，比较与国际教育学会（CIES
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 50
+person_related_count: 51
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Shadow State]]"
   - "[[Popular Education]]"
   - "[[Development Education]]"
+  - "[[Discourse]]"
   - "[[Global Citizenship]]"
   - "[[Time-Space Compression]]"
   - "[[Disciplina and Doctrina]]"
@@ -108,7 +109,7 @@ updated: 2026-10-07
 > [!timeline] 生平与职涯
 > - **1938** 出生于美国。
 > - **1960–1969** 先后在密歇根大学、塔夫茨大学弗莱彻法律与外交学院及斯坦福大学深造，在斯坦福大学师从[[John W. Meyer|约翰·迈耶]]（John W. Meyer）等学者，获得[[Development Education|国际发展教育]]博士学位。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 102)]]
-> - **1960 年代中期** 作为福特基金会教育顾问常驻哥伦比亚，深入参与拉美高等教育与基础教育改革评估，亲身体验到跨国资本援助话语与本土实际需求的严重脱节。
+> - **1960 年代中期** 作为福特基金会教育顾问常驻哥伦比亚，深入参与拉美高等教育与基础教育改革评估，亲身体验到跨国资本援助[[Discourse|话语]]与本土实际需求的严重脱节。
 > - **1969–2000s** 长期任教于印第安纳大学布卢明顿分校教育学院，创立国际与比较教育研究中心，培养了数代具有批判政治经济学视野的比较教育学者。
 > - **1980** 在《比较教育评论》（*Comparative Education Review*）发表纲领性论文《比较教育与[[World-Systems Theory|世界体系分析]]》，正式将[[Immanuel Wallerstein|沃勒斯坦]]世界体系分析引入比较教育学；同年出版开创性著作《慈善与文化帝国主义》，揭示大型私人基金会对第三世界智力与教育主权的软性塑造。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 105)]]
 > - **1986** 深入尼加拉瓜实地调研桑地诺民族解放阵线的大规模扫盲战役与[[Popular Education|民众教育]]运动，出版《尼加拉瓜的教育与革命》。
@@ -160,7 +161,7 @@ updated: 2026-10-07
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 权威代表作，全面系统梳理[[World-Systems Theory|世界体系分析]]在比较教育学中的演进，对质新制度主义与政治现实主义，确立全球与本土辩证法及自下而上全球化分析框架。
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 在第四阶段话语（1970–1990）学科史梳理中，高度肯定阿诺夫将[[Immanuel Wallerstein|沃勒斯坦]][[World-Systems Theory|世界体系理论]]引入比较教育学的奠基性突破，揭示跨国教育依附与支配链条，并反思批判宏观范式对历史维度的挤压。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 在第四阶段[[Discourse|话语]]（1970–1990）学科史梳理中，高度肯定阿诺夫将[[Immanuel Wallerstein|沃勒斯坦]][[World-Systems Theory|世界体系理论]]引入比较教育学的奠基性突破，揭示跨国教育依附与支配链条，并反思批判宏观范式对历史维度的挤压。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 全面继承阿诺夫与托雷斯的全球与本土辩证法，作为分析拉美[[Conditioned State Theory|受限国家]]在依附性资本主义下的阶级[[Dual School System|双轨学制]]与教育合法化危机的核心支柱。
 
 ---
@@ -173,7 +174,7 @@ updated: 2026-10-07
 > *Arnove's pioneering 1980 essay urged his colleagues to take up world-systems analysis as the necessary framework... his dialectic of the global and the local established a central conceptual [[Paradigm]] for critical comparative education.*
 
 > [!citation-card] 卡扎米亚斯论阿诺夫世界体系分析对跨国依附结构与学术史的定性
-> 阿诺夫基于沃勒斯坦的现代[[World-Systems Theory|世界体系理论]]，深刻揭示出全球教育体系中层层传递的依附关系：发达中心国家对发展中国家形成文化主导与智力控制，而发展中国家的政治经济精英又在本土社会中维持对边缘群体的支配，形成了跨国教育资源的层层倾斜与支配链条。这一洞见打破了功能主义的现代化神话，构成了比较教育学第四阶段话语（Discourse 4）的核心理论支柱。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
+> 阿诺夫基于沃勒斯坦的现代[[World-Systems Theory|世界体系理论]]，深刻揭示出全球教育体系中层层传递的依附关系：发达中心国家对发展中国家形成文化主导与智力控制，而发展中国家的政治经济精英又在本土社会中维持对边缘群体的支配，形成了跨国教育资源的层层倾斜与支配链条。这一洞见打破了功能主义的现代化神话，构成了比较教育学第四阶段[[Discourse|话语]]（Discourse 4）的核心理论支柱。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
 >
 > *Drawing on Wallerstein's modern world-systems theory, Arnove pointed out that the global educational system was marked by a multi-tiered dependency: developed center countries exercise cultural and intellectual [[Hegemony]] over developing nations, while peripheral national elites maintain internal dominance over subaltern groups.*
 

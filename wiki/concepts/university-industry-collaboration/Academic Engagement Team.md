@@ -10,7 +10,7 @@ aliases:
 summary: "企业内部以专职预算与统筹职责领导和管理大学合作的专业组织载体，通常以跨部门叠加层（overlay）形式嵌入既有科层结构；实践者作为组织通才，需对齐公司最高经营哲学、运用多轨资助与梯级协议化解产学时间与度量错位，并在重大技术转折点推动行业级协同。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Sponsored Research Agreement]]"
   - "[[Research Translation]]"
   - "[[Incommensurability]]"
+  - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Corporate Venture Capital]]"
   - "[[Public-Private Partnership in Research]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-06
+updated: 2026-10-07
 ---
 
 # Academic Engagement Team
@@ -158,7 +159,7 @@ updated: 2026-10-06
 ### 命题三　资助流向体现企业战略偏好，通过决策权力共享与配套资金绑定可化解部门孤岛
 
 > [!concept-lens] 预算政治与权力分享治理
-> 资金从何而来直接决定了产学合作服务于哪一类内部利益诉求，重塑资助结构并主动出让评审话语权是获取组织认同的关键杠杆。
+> 资金从何而来直接决定了产学合作服务于哪一类内部利益诉求，重塑资助结构并主动出让评审[[Discourse|话语]]权是获取组织认同的关键杠杆。
 
 > [!claim] Ramming
 > **五种资助模式的战略取舍** 中央化运营预算追求跨领域长远战略但脱离业务现实；企业基金会支持公益科学但受制于知识产权法律限制；业务部门预算绑定产品落地但扼杀颠覆性探索；按职能或技术理事会分配则导致组织碎片化与技术栈僵化。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 228–229)]]

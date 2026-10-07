@@ -9,7 +9,7 @@ aliases:
 summary: "认识论模型中的最高层级，认为知识虽由主观建构，但可以通过论证与证据的客观标准进行优劣评估；在人机共生学习中表现为主动协调多源证据、批判性审视算法输出并保持共享认识主体性。"
 type: concept
 domain: "educational-psychology"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Man-Computer Symbiosis]]"
   - "[[Document]]"
   - "[[Epistemic Agency]]"
   - "[[Critical Thinking]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-16
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # Evaluativist
@@ -62,7 +63,7 @@ updated: 2026-09-24
 ## 定义
 
 > [!def] 核心定义
-> 评价论者（Evaluativist）是 Kuhn 等人（1991, 2000）界定的最高阶[[Epistemology\|认识论]]立场。该层级的个体既承认了知识的生成是由人类心智建构的、具有主观性和不确定性（接纳了多元论的主张），同时又重新整合了认知的客观维度。他们认为并非所有观点都同等有效，通过批判性的理性论辩和客观证据的检验，可以判断出某些主张比其他主张更具合理性或更接近真相。在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）人机共生学习环境中，评价主义立场表现为学习者将大语言模型（Large Language Model, LLM）视作共同探究的思维伙伴，主动协调大模型建议、学术[[Document\|文献]]、统计规则与现实约束等多源证据，对算法输出进行实质性质疑与批判性重构，从而实现高阶共享[[Epistemic Agency\|认识主体性]]。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 310)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
+> 评价论者（Evaluativist）是 Kuhn 等人（1991, 2000）界定的最高阶[[Epistemology\|认识论]]立场。该层级的个体既承认了知识的生成是由人类心智建构的、具有主观性和不确定性（接纳了多元论的主张），同时又重新整合了认知的客观维度。他们认为并非所有观点都同等有效，通过批判性的理性论辩和客观证据的检验，可以判断出某些主张比其他主张更具合理性或更接近真相。在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）[[Man-Computer Symbiosis|人机共生]]学习环境中，评价主义立场表现为学习者将大语言模型（Large Language Model, LLM）视作共同探究的思维伙伴，主动协调大模型建议、学术[[Document\|文献]]、统计规则与现实约束等多源证据，对算法输出进行实质性质疑与批判性重构，从而实现高阶共享[[Epistemic Agency\|认识主体性]]。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 310)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 作为认识论成熟的最终标志，体现了在主观建构与客观评估标准之间的辩证协调。
@@ -87,7 +88,7 @@ updated: 2026-09-24
 > | **批判与论辩** | 无需论辩，依靠权威或事实本身。 | 拒绝论辩，认为干涉了他人的主观权利。 | 有内在动机通过论辩与多源检验来比较观点。 |
 > | **人机交互行为** | 视 AI 为权威答案机，产生表面顺从。 | 追问 AI 多种解法但无法取舍，陷入选择迷失。 | 视 AI 为共生思考伙伴，主动审问局限并多源核验。 |
 > | **[[Cognitive Offloading\|认知卸载]]倾向** | 盲目卸载高阶认知与决策权。 | 卸载发散性思考但陷入决策停滞。 | 保持高阶认识调节，仅卸载机械性检索计算。 |
-> | **[[Epistemic Agency\|认识主体性]]** | 主体性完全让渡给技术客体。 | 主体性弥散于多元碎片化选项之中。 | 在人机协同中确立共享认识主体性。 |
+> | **[[Epistemic Agency\|认识主体性]]** | 主体性完全让渡给技术客体。 | 主体性弥散于多元碎片化选项之中。 | 在[[Man-Computer Symbiosis\|人机协同]]中确立共享认识主体性。 |
 
 ---
 
@@ -96,7 +97,7 @@ updated: 2026-09-24
 > [!feature] 核心要素
 > - **重构客观评估标准** 评价论不是向绝对论的倒退，而是在接纳主观性基础上的客观维度的回归。评价标准从依赖外部专家的直接赋予，转变为依赖科学共同体或理性规则确立的证据逻辑网络。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 314)]]
 > - **批判性比较与论辩的内在动机** 对于评价论者而言，理性论辩并非无谓的争吵，也不是为了消除别人的权利，而是因为知识本身需要经过比较和检验才能确立相对的确定性。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 326)]]
-> - **人机共生中的高阶证据协调与主体性保持** 在与大语言模型协作时，评价论者表现出主动的多源核验行为（[[Triangulation]]）。他们既不全盘接受大模型给出的现成代码或[[Analytic Framework\|分析框架]]，也不泛化地罗列多种解法，而是要求模型提供[[Hypothesis\|假设]]前提，并将模型输出与领域经典[[Document\|文献]]、实测数据进行对齐检验。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–365)]]
+> - **[[Man-Computer Symbiosis|人机共生]]中的高阶证据协调与主体性保持** 在与大语言模型协作时，评价论者表现出主动的多源核验行为（[[Triangulation]]）。他们既不全盘接受大模型给出的现成代码或[[Analytic Framework\|分析框架]]，也不泛化地罗列多种解法，而是要求模型提供[[Hypothesis\|假设]]前提，并将模型输出与领域经典[[Document\|文献]]、实测数据进行对齐检验。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–365)]]
 > - **获取难度的反转与极化** 从多元论跨越至评价论，在带有经验检验传统的物理事实和社会事实领域最容易达成；而在依靠人类内部约定的价值观和审美领域，要想重构统一评估标准则极为艰难。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, pp. 319–320)]]
 
 ---
@@ -127,7 +128,7 @@ updated: 2026-09-24
 
 ### 命题三　评价主义认识立场驱动人机共生学习中的高阶证据协调与共享认识主体性实现
 
-> [!concept-lens] 人机共生中的认识跃迁与主体性建构
+> [!concept-lens] [[Man-Computer Symbiosis|人机共生]]中的认识跃迁与主体性建构
 > 揭示学习者如何在[[Generative Artificial Intelligence\|生成式人工智能]]协作中保持高阶批判力，通过证据协调与双轨支架实现评价主义进阶。
 
 > [!claim] Wu et al.
@@ -151,7 +152,7 @@ updated: 2026-09-24
 > [!dev-timeline] 概念演变
 > - **1970–1991 年 — [[Epistemology\|认识论]]高阶反思维度的确立** Perry（1970）与 Kuhn（1991）将评价论（Evaluative Stance）确立为[[Critical Thinking\|批判性思维]]与科学理性的顶峰，强调基于证据权衡相冲突的观点。
 > - **2000 年 — 跨领域评价论发展模型** [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] 通过实证揭示评价论在事实、审美与价值观领域的反转演进路径及专家与非专家的显著差异。
-> - **2025 年 — 人机共生环境中的评价主义重构与支架培育** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出人机共生自适应[[Epistemic Stances\|认识立场]]框架，将评价主义拓展为多源证据协调、算法审问与共享主体性保持的核心机制，并确立双轨支架培育体系。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
+> - **2025 年 — [[Man-Computer Symbiosis|人机共生]]环境中的评价主义重构与支架培育** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出人机共生自适应[[Epistemic Stances\|认识立场]]框架，将评价主义拓展为多源证据协调、算法审问与共享主体性保持的核心机制，并确立双轨支架培育体系。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
 
 ---
 
@@ -178,6 +179,6 @@ updated: 2026-09-24
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出人机共生自适应[[Epistemic Stances\|认识立场]]框架，实证验证评价主义认识立场在引导多源证据协调、抗拒消极[[Cognitive Offloading\|认知卸载]]与维持共享[[Epistemic Agency\|认识主体性]]中的关键价值。
+> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]框架，实证验证评价主义认识立场在引导多源证据协调、抗拒消极[[Cognitive Offloading\|认知卸载]]与维持共享[[Epistemic Agency\|认识主体性]]中的关键价值。
 > - [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] — 将 Kuhn（1991）[[Argumentative Reasoning\|论辩推理]]模型中的评价论者描述为超越绝对论盲从与多元论虚无、能基于相对优劣评估专家专长与知识主张的终极立场。
 > - [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] — 将评价论定位为最难达成的[[Epistemology\|认识论]]巅峰，实证揭示了其在不同[[Areas of Knowledge\|知识领域]]的达成顺序呈反转态势，并强力验证了专业教育介入的关键作用。

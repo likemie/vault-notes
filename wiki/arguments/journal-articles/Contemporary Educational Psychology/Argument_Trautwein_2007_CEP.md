@@ -47,6 +47,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Engineering Education]]"
+  - "[[Discourse]]"
   - "[[Critical Thinking]]"
   - "[[Scientific Paradigm]]"
   - "[[Tracking]]"
@@ -95,7 +96,7 @@ title: "Argument_Trautwein_2007_CEP"
 argument_key: "Argument_Trautwein_2007_CEP"
 argument_display_title: "Epistemological beliefs, school achievement, and college major: A large-scale longitudinal study on the impact of certainty beliefs"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -422,7 +423,7 @@ issuing_organization: ""
 ### 论证步骤五 科学教育反思与不确定性教学的实践案例
 
 > [!claim] 科学教育必须打破“事实堆砌”迷思并直面知识的不确定性
-> 鉴于确定性信念对深层学术学习的长期损害，科学教育（尤其是硬科学与工程应用学科）必须将呈现科学知识的暂时性、演进性与争论性作为核心教学目标，帮助学生建立“科学知识是学术话语中暂时的终产物”的高阶认识论图式。Trautwein 等学者倡导大学科学教育必须超越单纯的事实灌输。（pp.362–363）
+> 鉴于确定性信念对深层学术学习的长期损害，科学教育（尤其是硬科学与工程应用学科）必须将呈现科学知识的暂时性、演进性与争论性作为核心教学目标，帮助学生建立“科学知识是学术[[Discourse|话语]]中暂时的终产物”的高阶认识论图式。Trautwein 等学者倡导大学科学教育必须超越单纯的事实灌输。（pp.362–363）
 
 > [!framework-table] 科学教育直面不确定性的认知困境与教学转向
 > | 比较维度 | 传统“事实灌输型”科学教学模式 | “认识论话语型”不确定性科学教学模式 |
@@ -481,7 +482,7 @@ issuing_organization: ""
 > *Exposure to uncertainty might be particularly relevant in the hard sciences. The media often portray findings from the hard sciences as "facts." Some students might be attracted to the hard sciences precisely because they seem to offer facts, and not vague theories or assumptions. It is thus especially important for science education to address the complexities involved in knowledge and knowledge acquisition.*
 
 > [!citation-card]- 科学知识作为探索的暂时性终产物
-> 在这个情境中，大学与高校教师让学生意识到知识——作为人类的主观建构——绝非“确定无疑”的，而是科学话语体系中“暂时的终产物”，显得格外重要。（p.362）
+> 在这个情境中，大学与高校教师让学生意识到知识——作为人类的主观建构——绝非“确定无疑”的，而是科学[[Discourse|话语]]体系中“暂时的终产物”，显得格外重要。（p.362）
 >
 > *In this context, it seems important for college and university teachers to make their students aware that knowledge—as a human construction—is never "certain," but rather the "temporary end-product" of scientific discourse.*
 

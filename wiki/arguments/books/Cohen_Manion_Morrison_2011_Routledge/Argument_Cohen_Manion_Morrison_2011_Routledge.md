@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge"
 argument_display_title: "Research Methods in Education"
 argument_kind: "book"
-argument_related_count: 47
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -31,6 +31,8 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Champ]]"
+  - "[[Discourse]]"
+  - "[[Reflexivity]]"
   - "[[Visual Data]]"
 related_theories:
   - "[[Personal Construct Theory]]"
@@ -40,6 +42,9 @@ related_methods:
   - "[[Role-playing]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Content Analysis]]"
+  - "[[Conversation Analysis]]"
+  - "[[Narrative Analysis]]"
+  - "[[Autobiographical Analysis]]"
   - "[[Grounded Theory]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
@@ -51,6 +56,7 @@ related_persons:
   - "[[George Kelly]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03]]"
@@ -86,7 +92,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-12
-updated: 2026-09-18
+updated: 2026-10-07
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge
 
@@ -131,7 +137,7 @@ updated: 2026-09-18
 > | _Ch28 | 第28章 Approaches to qualitative data analysis | 系统介绍质性数据分析的多种进路：目的适配原则下分析与诠释融合、[[Transcription in Qualitative Research |
 > | _Ch29 | 第29章 Organizing and presenting qualitative data | 系统介绍质性数据的组织与呈现：数据表格化与数据缩减（澳门学童学英语访谈实例）、组织与分析数据的七种方式（按群体／个体／议题／研究问题／工具／案例／叙事）、[[Narrative Analysis |
 > | _Ch30 | 第30章 Coding and content analysis | 系统介绍质性数据分析中的[[Coding in Qualitative Research\|编码]]技术（开放编码、分析编码、主轴编码、选择性编码及层级建构）与[[Content Analysis\|内容分析]]的完整操作流程（11步分析步骤、Mayring三类型、信效度威胁及教师工作压力范例）。 |
-> | 第31章 Discourses: conversations, narratives and autobiographies as texts | | |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31\|第31章]] | 保留课堂会话、机构生活叙事与虚构教师自传的整体结构，以语言细节和社会情境展开多层解释，并审查选择、投射与连续诠释的限度。 | [[Discourse]]、[[Conversation Analysis]]、[[Narrative Analysis]]、[[Autobiographical Analysis]]、[[Reflexivity]] |
 > | 第32章 Analysing [[Visual Data\|visual media]] | | |
 > | 第33章 [[Grounded Theory]] | | |
 > | 第34章 Approaches to quantitative data analysis | | |

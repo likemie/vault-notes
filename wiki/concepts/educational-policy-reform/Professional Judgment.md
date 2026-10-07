@@ -6,7 +6,7 @@ aliases:
 summary: "教师在复杂、非线性的教学情境中整合研究证据、伦理标准、教育学原则与实践经验做出决策的核心专业能力，是 EIP 多源整合的枢纽与抵御技术官僚主义去专业化的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 66
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Epistemic Ascent]]"
   - "[[Governing by Numbers]]"
+  - "[[Discourse]]"
   - "[[Cognitive Deskilling]]"
   - "[[Venture Philanthropy]]"
   - "[[School Autonomy]]"
@@ -92,7 +93,7 @@ related_instruments:
 confidence: high
 status: completed
 created: "2026-05-03"
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # Professional Judgment
@@ -225,7 +226,7 @@ updated: 2026-09-26
 > 揭示绩效主义、数字审计、商业洗白与自动化算法对教师专业判断空间的系统性剥夺。
 
 > [!claim] [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]; [[Argument_Biesta_2010_SPE\|Biesta (2010)]]
-> **[[Governing by Numbers\|数字治理]]与去专业化异化** 新自由主义政策盛行[[Governing by Numbers\|数字治理]]，通过诸如 [[Education Endowment Foundation\|EEF]] 工具包等扁平化排行榜向学校推销单一有效性话语。这种审计文化挤压了关于教育根本目的（To What Ends）的价值探讨，迫使教师沦为依照标准化清单执行技术传递的操作工人，造成教师群体的去专业化（De-professionalisation）。政策评估与学校改进必须警惕排行榜的破坏性决策，捍卫教师的专业自主能动性。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, pp. 4, 14, 16)]]
+> **[[Governing by Numbers\|数字治理]]与去专业化异化** 新自由主义政策盛行[[Governing by Numbers\|数字治理]]，通过诸如 [[Education Endowment Foundation\|EEF]] 工具包等扁平化排行榜向学校推销单一有效性[[Discourse|话语]]。这种审计文化挤压了关于教育根本目的（To What Ends）的价值探讨，迫使教师沦为依照标准化清单执行技术传递的操作工人，造成教师群体的去专业化（De-professionalisation）。政策评估与学校改进必须警惕排行榜的破坏性决策，捍卫教师的专业自主能动性。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, pp. 4, 14, 16)]]
 
 > [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]
 > **循证医学危机镜像与反算法[[Cognitive Deskilling|去技能化]]** 借鉴循证医学（Evidence-Based Medicine, EBM）发展后期的深刻危机（Greenhalgh et al., 2014）：过度膨胀的临床指南与僵化指标排挤了医生的微观临床审议，被商业营销绑架的“证据洗白”严重损害患者福祉。将此教训映射至教育领域，技术官僚试图将教学拆解为离散的自动化操作或依赖算法驱动决策，实质上是对教师的去技能化（De-skilling）。教学建立在复杂情境反思、扎根实践经验与伦理审议的基础之上，是不可替代的知识型专业（Knowledge-rich Profession）；面对商业包装的证据产品，教师扎根微观情境的临床专业判断是抵御算法异化与技术官僚侵蚀的核心防线([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 60, 65–66]])。
@@ -345,7 +346,7 @@ updated: 2026-09-26
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013, pp. 14–16, 19)]] | 美国州共同核心标准（[[Common Core State Standards\|CCSS]]）研制与验证委员会审查 | 政策过程历史制度分析与[[In-depth Interview\|深度访谈]] | 实证研究、学科专长与专业判断在政策研制中的结构性配置 | 高中数学与文本复杂度等关键领域缺乏实证 [[Randomised Controlled Trials\|RCT]] 支撑；起草组依赖数学家演绎逻辑与 AFT 教师为期 2 天的剪贴实操测试；验证委员会 29 位成员中 25 位基于系统专业判断签署背书 | — | 证实专业判断在大规模政策研制中对有限科研证据具有不可替代的结构性补位功能 |
-> | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a, pp. 139–141)]] | 跨卫生、社会关照、教育与政策四大领域[[Document\|文献]]库 | PRISMA [[Systematic Review\|系统综述]]（初检 10,813 篇 $\to$ 纳入 112 篇核心文献） | [[Research Utilization\|证据使用]][[Paradigm\|范式]]演进与专业专长定位 | 证实跨领域普遍经历由“证据本位”向“证据知情”的话语转向；确立研究证据对专业知识是补充而非替代关系 | 定性综合证实 | 为专业判断在循证生态中的[[Ontology\|本体论]]合法性提供跨领域实证支撑 |
+> | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a, pp. 139–141)]] | 跨卫生、社会关照、教育与政策四大领域[[Document\|文献]]库 | PRISMA [[Systematic Review\|系统综述]]（初检 10,813 篇 $\to$ 纳入 112 篇核心文献） | [[Research Utilization\|证据使用]][[Paradigm\|范式]]演进与专业专长定位 | 证实跨领域普遍经历由“证据本位”向“证据知情”的[[Discourse\|话语]]转向；确立研究证据对专业知识是补充而非替代关系 | 定性综合证实 | 为专业判断在循证生态中的[[Ontology\|本体论]]合法性提供跨领域实证支撑 |
 > | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 132)]] | 特刊 7 篇论文及更广国际 [[Evidence-Informed Practice\|EIP]] [[Document\|文献]]库 | 特刊导言概念与实证综合 | 教育者最常使用的证据来源 | 实践者最常依赖的证据来自专业经验与同事交流，而非原始研究 | — | 确立专业经验在决策审议中的现实基础 |
 > | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 130)]] 转述 Cooper et al. | 小学教师群体，课堂评估实践信息搜寻 | 大规模调查与[[In-depth Interview\|深度访谈]] | 教师获取信息的最首要渠道 | 教师主要从其他一线教师（同行专业网络）获取评估信息 | — | 证实专业人际网络主导着微观证据流向 |
 > | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp. 122–123]] | 美国巴尔的摩县 [[Students and Teachers Accessing Tomorrow\|STAT]] 技术改革 | 形成性项目评估[[Case Study\|案例研究]] | 不同决策主体对同一份评估报告的解读与态度 | 校董、校长与教师基于各自专业判断给出了截然不同的政策解读 | — | 证明专业判断在复杂数据解释中的持续主导性 |
@@ -362,7 +363,7 @@ updated: 2026-09-26
 > - [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review|系统综述]]提出 [[Quality Use of Research Evidence Framework|QURE]] 框架，确立[[Research Utilization|证据使用]]由“证据本位”向“证据知情”的[[Epistemology|认识论]]转向，论证研究证据对专业判断的互补支持关系与审慎实施机制。
 > - [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]] — 考察美国[[Common Core State Standards|共同核心标准]]（CCSS）研制与采纳全过程，确立专业判断在学术实证供给不足时作为学科逻辑演绎、一线可行性论证与同行互信代理的宏观政策支柱地位。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 以[[Critical Realism|批判实在论]]将研究证据界定为开放系统中的概率性资源，分析抹杀专业判断导致的[[Teaching Assistant|教学助理]]误裁实证案例。
-> - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 批判技术官僚话语，提出教育核心在于价值审议（“为了什么目的”），确立专业判断的伦理与政治维度。
+> - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 批判技术官僚[[Discourse|话语]]，提出教育核心在于价值审议（“为了什么目的”），确立专业判断的伦理与政治维度。
 > - [[Argument_Nelson_2017_ER|Nelson & Campbell (2017)]] — 将专业判断确立为 [[Evidence-Informed Practice|EIP]] 四源整合的核心枢纽，论述严谨证据与严谨判断过程并存的原则。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] — 引入循证医学危机透镜，批判技术官僚算法化对教师专业判断的剥夺与[[Cognitive Deskilling|去技能化]]风险，捍卫教学作为知识型专业的核心地位。
 > - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 揭示[[Venture Philanthropy|风险慈善]]异层治理下公立学校办学自主权遭到商业量规[[Disciplina and Doctrina|规训]]的实证图景，批判外部企业考核对教师教育专业判断的侵蚀。

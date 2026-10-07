@@ -8,7 +8,7 @@ aliases:
 summary: "两社区理论由 Nathan Caplan（1979）提出，指涉科学研究社群与政治决策社群在文化价值、认识论取向、奖酬结构与时间跨度上的结构性分野，是政策中介、边界跨越者与研究利用理论的奠基性元模型。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 43
+theory_related_count: 44
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Heterogeneity]]"
   - "[[Research Utilization]]"
+  - "[[Discourse]]"
   - "[[Knowledge Mediation]]"
   - "[[Document]]"
   - "[[Disciplina and Doctrina]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-02
+updated: 2026-10-07
 ---
 
 # Two-Communities Theory
@@ -117,7 +118,7 @@ updated: 2026-10-02
 
 > [!proposition-chain] 核心命题二｜两社区之间的[[Epistemology\|认识论]][[Heterogeneity\|异质性]]决定了外部证据必须经过二次认知重塑与政治[[Transfer Translation Transformation\|转译]]才能进入决策流程
 > - **前提一** 决策本质上发生在充满歧义、价值冲突与利益博弈的环境中，决策者面临的主要挑战不是信息匮乏，而是如何在相互冲突的思考方式中做出选择。（Feldman, 1989; Zahariadis, 2017）
-> - **前提二** 原始科学[[Research Utilization\|证据使用]]高度技术化的学术代码（如统计模型、反实事[[Hypothesis\|假设]]、[[Effect Size\|效应量]]误差边界），无法直接与官僚行政程序和公众通俗话语对接。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
+> - **前提二** 原始科学[[Research Utilization\|证据使用]]高度技术化的学术代码（如统计模型、反实事[[Hypothesis\|假设]]、[[Effect Size\|效应量]]误差边界），无法直接与官僚行政程序和公众通俗[[Discourse|话语]]对接。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
 > - **推导** [[Policy Brokerage\|政策中介]]机构通过提炼三大要点、设计图表化指标、将学术叙事转译为政策口号，使科学证据具备了“确定性表象”与政治合法化效能，从而搭建起沟通两社区的桥梁。
 
 > [!proposition-chain] 核心命题三｜单纯将科学与政治二元对立的隐喻掩盖了[[Knowledge Production\|知识生产]]与权力利益的互构共谋
@@ -187,7 +188,7 @@ updated: 2026-10-02
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 用于解释[[Evidence-Based Education\|循证教育]]改革中大学研究成果为何常被冷落，而智库与国际组织的通俗报告为何深受欢迎。
 > - **作为分析工具** 分解学者与官员在访谈或文本中表达的认知冲突，分析中介机构（如教育[[Chinese Academy of Sciences|科学院]]、非营利组织）扮演的边界跨越策略。
-> - **作为批判视角** 揭示将循证决策简化为“科学发现—行政推行”线性链条的幼稚性，审视[[Policy Brokerage\|政策中介]]如何利用两界信息差谋取话语垄断权。
+> - **作为批判视角** 揭示将循证决策简化为“科学发现—行政推行”线性链条的幼稚性，审视[[Policy Brokerage\|政策中介]]如何利用两界信息差谋取[[Discourse|话语]]垄断权。
 
 > [!logic-map]- 分析流程图
 > ```mermaid

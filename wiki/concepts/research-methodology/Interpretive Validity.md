@@ -7,10 +7,10 @@ aliases:
 summary: "Maxwell 质性效度类型之一，指研究捕捉情境和事件对参与者本身的意义、解释、术语和意图的能力，是质性研究独有的效度维度，在量化实验方法论中没有对应物"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - method/research-methods
   - theme/validity
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Descriptive Validity]]"
   - "[[Positivism]]"
   - "[[Operationalization]]"
+  - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Paradigm]]"
 related_methods:
@@ -29,7 +30,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-10-07
 ---
 # Interpretive Validity
 
@@ -52,7 +53,7 @@ updated: 2026-06-23
 > [!feature] 解释效度的[[Operationalization\|操作化]]要求
 > - **以参与者的术语呈现数据** 不以研究者的语言框架覆盖参与者的声音和措辞方式——参与者的词汇、分类和叙事结构本身就是数据的重要组成部分
 > - **从参与者的视角看情境** Geertz (1974) 的"从本地人的视角"（from the native's point of view）——研究者需要移情性地理解参与者如何体验其所处的世界，而非将研究者自身的范畴强加于参与者
-> - **捕捉意义和意图** 不只记录行为和话语的表面内容，而是理解行为背后的**意义赋予过程**和**意图结构**——参与者做某事是为了什么目的、在此文化框架内意味着什么
+> - **捕捉意义和意图** 不只记录行为和[[Discourse|话语]]的表面内容，而是理解行为背后的**意义赋予过程**和**意图结构**——参与者做某事是为了什么目的、在此文化框架内意味着什么
 > - **忠实于自我报告** Blumenfeld-Jones (1995) 的"忠实"（fidelity）——研究者需要尽可能诚实地呈现被研究者如何报告其对自身经验的理解
 
 ---

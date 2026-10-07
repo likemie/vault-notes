@@ -8,7 +8,7 @@ summary: "美国哲学家、心理学家与教育改革家，实用主义与进�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 48
+person_related_count: 49
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Pragmatism in China]]"
   - "[[Junzi]]"
+  - "[[Discourse]]"
   - "[[Quality Education]]"
   - "[[Examination-Oriented Education]]"
   - "[[Critical Pedagogy]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 # John Dewey
@@ -191,7 +192,7 @@ updated: 2026-09-17
 > [!phase] 建国后中国的三重政治变形（1949至今）
 > - **1950年代（反动批判）** 被彻底定性为反动、主观唯心主义和“伪[[Junzi\|君子]]”，其自然主义与不确定性论述受到政治批判。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.79–82]]）
 > - **1980年代（名誉恢复）** 通过[[Tao Xingzhi\|陶行知]]间接恢复名誉，被重塑为现代化、科学创新以及个体与社会和谐统一的符号。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.84–89]]）
-> - **1990年代至今（话语盟友）** 被重构为[[Quality Education\|素质教育]]的理论基础与反对[[Examination-Oriented Education\|应试教育]]的资源，同时被借用批判野蛮新自由主义，成为“又红又专”的话语盟友。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.91–93]]）
+> - **1990年代至今（[[Discourse|话语]]盟友）** 被重构为[[Quality Education\|素质教育]]的理论基础与反对[[Examination-Oriented Education\|应试教育]]的资源，同时被借用批判野蛮新自由主义，成为“又红又专”的话语盟友。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.91–93]]）
 
 > [!phase] 苏联跨国传播与范式断裂（1920s–1930s）
 > - **1920年代（翻译与吸收）** *The School and Society* 被译为俄文，肖像收录于苏联教育百科全书；1928年访苏与 [[Stanislav Shatskii]] 等[[Progressive Education\|进步教育]]家会面，成为美苏[[Cultural Diplomacy\|文化外交]]的焦点。（[[Argument_Ryabyy_2024_Maneto\|Ryabyy, 2024, pp.102–109]]）

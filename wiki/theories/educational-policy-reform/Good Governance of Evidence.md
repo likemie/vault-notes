@@ -7,7 +7,7 @@ aliases:
 summary: "由 Justin Parkhurst（2017）提出的公共政策与教育治理理论，主张超越技术理性对证据‘何者有效’的工具主义迷思，确立证据利用在程序正当性、透明度、多元代表性与可争辩性维度的治理规范，使科学证据与民主价值审议达成有效平衡。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 28
+theory_related_count: 29
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Evidence Ecosystem]]"
   - "[[Professional Judgment]]"
   - "[[Value Neutrality]]"
+  - "[[Discourse]]"
   - "[[Formative Assessment]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-26
+updated: 2026-10-07
 ---
 
 # Good Governance of Evidence
@@ -98,7 +99,7 @@ updated: 2026-09-26
 > [!proposition-chain] 核心命题一｜证据在公共政策与教育决策中的利用本质上属于政治与规范过程，无法通过纯粹的[[Technical Rationality\|技术官僚理性]]去政治化
 > - **前提一** 科学研究证据能够揭示某种干预或政策在特定条件下的经验效应，但无法直接裁决哪种社会目标、价值取向或资源分配更具正当性。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, p. 140)]]
 > - **前提二** 公共教育决策必然牵涉教师、学生、家长及纳税人等多方主体的利益博弈与价值竞争，不存在[[Value Neutrality\|价值中立]]的技术最优解。
-> - **推导** 试图将循证决策还原为纯粹的实证有效性指标，实质是将特定群体的规范立场隐藏于技术官僚的专业话语之下；唯有承认政策过程的政治属性，才能建立正当的证据治理规则。
+> - **推导** 试图将循证决策还原为纯粹的实证有效性指标，实质是将特定群体的规范立场隐藏于技术官僚的专业[[Discourse|话语]]之下；唯有承认政策过程的政治属性，才能建立正当的证据治理规则。
 
 > [!proposition-chain] 核心命题二｜评价[[Research Utilization\|证据使用]]质量的核心基准在于决策过程的程序正当性、透明度与可争辩性，而非单一的下游既定成效
 > - **前提一** 下游成效指标易受宏观经济、社会阶层变迁与偶发环境因素的扰动，单一以结果问责极易诱发被考核者的指标合谋与象征性应对。
@@ -158,7 +159,7 @@ updated: 2026-09-26
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 用于构建宏观证据生态、国家科研智库体系及教育循证决策体制的评价框架。
 > - **作为分析工具** 转化为具体的[[Operationalization\|操作化]]分析维度：证据获取范围审查、利益冲突回避机制、审议程序记录公开度及异议申诉渠道有效性。
-> - **作为批判视角** 深度解构政府机构借助“科学证据”包装行政意志的去政治化话语，揭示[[Positivism\|实证主义]]对一线[[Teacher Professional Agency\|教师专业自主权]]的侵蚀。
+> - **作为批判视角** 深度解构政府机构借助“科学证据”包装行政意志的去政治化[[Discourse|话语]]，揭示[[Positivism\|实证主义]]对一线[[Teacher Professional Agency\|教师专业自主权]]的侵蚀。
 > - **报告方式** 综合呈现科学数据、制度环境约束与多元利益主体的论辩过程，呈现证据利用的动态博弈生态。
 
 > [!logic-map]- 证据治理分析流程图

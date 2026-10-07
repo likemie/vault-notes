@@ -7,10 +7,10 @@ aliases:
 summary: "以国家为中心、将空间视为可占有客观地理实体的传统地缘政治范式，以社会有机体论为理论基石，关注领土控制、军事力量和硬实力竞争"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - classical-geopolitics
   - geopolitics
@@ -19,6 +19,7 @@ tags:
   - region/global
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Relational Space]]"
   - "[[Knowledge-Based Economization]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-09-17
+updated: 2026-10-07
 ---
 
 ## 定义
@@ -68,7 +69,7 @@ updated: 2026-09-17
 > [!concept-lens] 概念透镜
 > - **含义** 将地缘政治理解为国家间围绕领土、资源和战略通道的硬实力竞争，空间是可测量、可占有、可分割的客观地理实体，行动主体仅限于民族国家。
 > - **用途** 为理解军事冲突、领土争端、大国竞争和同盟体系提供以国家为中心的[[Analytic Framework\|分析框架]]。在高等教育研究中，构成理解高等教育从民族国家框架中"脱嵌"的对照基线。
-> - **边界** 缺少分析意识形态与话语权力的概念工具，不适用于分析高等教育作为独立地缘政治行动者的角色，也难以捕捉跨国社会想象和网络化关系中的权力动态。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 3–4)]]
+> - **边界** 缺少分析意识形态与[[Discourse|话语]]权力的概念工具，不适用于分析高等教育作为独立地缘政治行动者的角色，也难以捕捉跨国社会想象和网络化关系中的权力动态。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 3–4)]]
 
 > [!citation-card]- [[Argument_Moisio_2022_Springer\|Moisio (2022)]] 对古典地缘政治的界定
 > 典型的理解是，地缘政治指国家组织的硬领土力量和势力范围政治。更常见的是，地缘政治仍被狭隘地理解为划定国家边界、将民族构建为确定领土、通过空间性强制与同意技术构建国内社会秩序、通过新军事技术控制特定国家内外领土空间，以及为领土主张提供地理和历史辩护。[[Argument_Moisio_2022_Springer\|(Moisio, 2022, pp. 25–26)]]
@@ -92,7 +93,7 @@ updated: 2026-09-17
 > | [[Ontology\|本体论]]位置 | 物质—[[Praxis\|实践]]端 | 观念—科学端 |
 > | [[Theoretical Standpoint\|理论立场]] | [[Realism in International Relations\|现实主义]] | [[Constructivist Paradigm\|建构主义]] |
 > | 理论源头 | 费舍尔的社会达尔文主义和斯宾塞的社会有机体概念 | 法兰克福学派及西方马克思主义 |
-> | 空间观 | 可测量、可分割、可占有的客观地理实体；竞争舞台 | 流动的社会建构；通过命名、分类与治理等话语实践不断生产的政治产物 |
+> | 空间观 | 可测量、可分割、可占有的客观地理实体；竞争舞台 | 流动的社会建构；通过命名、分类与治理等[[Discourse\|话语]]实践不断生产的政治产物 |
 > | 权力形式 | 军事力量、安全能力、对关键空间（领土、通道、资源）的控制 | [[Knowledge Production\|知识生产]]、话语建构、规范制定与日常治理实现的空间秩序塑造能力 |
 > | 行动主体 | 民族国家（唯一主体） | 多层级的行动者网络 |
 > | 高等教育的角色 | 服务国家竞争的附属资源与技术工具；属于低政治的技术性事务 | 重要的空间实践者，通过核心功能主动参与空间意义建构与权力关系再生产 |
@@ -138,7 +139,7 @@ updated: 2026-09-17
 > - **1990s–至今 — 当代的持续运作**
 >   尽管关系性地缘政治视角已在学术界发展，古典地缘政治的某些维度并未消失。[[Argument_Moisio_2022_Springer\|Moisio (2022)]]指出，当代强大国家（特别是中美之间）将大型科技公司视为代表国家利益的实体，"试图将世界划分为技术影响的势力范围"（p. 26）。
 >
->   [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]]进一步指出，古典地缘政治的领土权力逻辑和关系性地缘政治的网络化空间想象之间并非前后替代关系而是共构关系——例如 RCEP 协议的形成中，全球连接性、开放流动的话语与中国的区域战略计算共同构成了当代地缘政治的实际运作逻辑。同时，英国脱欧和[[Sino-American Trade War\|中美贸易战]]也被视为当代地缘政治权力博弈的例证；俄罗斯吞并克里米亚被解读为"属于二十世纪的老式地缘政治战略行为"（Moisio, 2018）。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|(Parreira do Amaral, 2022, pp. 37–38)]]
+>   [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]]进一步指出，古典地缘政治的领土权力逻辑和关系性地缘政治的网络化空间想象之间并非前后替代关系而是共构关系——例如 RCEP 协议的形成中，全球连接性、开放流动的[[Discourse|话语]]与中国的区域战略计算共同构成了当代地缘政治的实际运作逻辑。同时，英国脱欧和[[Sino-American Trade War\|中美贸易战]]也被视为当代地缘政治权力博弈的例证；俄罗斯吞并克里米亚被解读为"属于二十世纪的老式地缘政治战略行为"（Moisio, 2018）。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|(Parreira do Amaral, 2022, pp. 37–38)]]
 
 ---
 

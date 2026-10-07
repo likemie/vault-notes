@@ -26,7 +26,7 @@ title: "Argument_Hartong_Forschler_2019_BDS"
 argument_key: "Argument_Hartong_Forschler_2019_BDS"
 argument_display_title: "Opening the black box of data-based school monitoring: Data infrastructures, flows and practices in state education agencies"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Data Literacy]]"
   - "[[Data Infrastructure]]"
+  - "[[Discourse]]"
   - "[[Technical Rationality]]"
   - "[[Commensuration]]"
   - "[[Paradigm]]"
@@ -94,7 +95,7 @@ updated: 2026-09-18
 
 > [!concept-lens] 阅读透镜
 > - **对象** 美国[[Massachusetts Department of Elementary and Secondary Education\|马萨诸塞州中小学教育部]]（Massachusetts Department of Elementary and Secondary Education, DESE）与德国汉堡学校与职业教育局（Behörde für Schule und Berufsbildung, BSB）直属的[[Institute for Educational Monitoring and Quality Improvement\|汉堡教育监测与质量发展研究所]]（Institute for Educational Monitoring and Quality Improvement, IfBQ）内部的数据基础设施、算法流转与专家行政实践。
-> - **张力** 官方话语中[[Technical Rationality\|技术理性]]、自动化中立与即时循环的理想化模型，同实践现场中充斥着[[Coding in Qualitative Research\|编码]]修补、算法妥协、指标滞后与学校防御性造假的混乱现实之间的深刻断裂。
+> - **张力** 官方[[Discourse|话语]]中[[Technical Rationality\|技术理性]]、自动化中立与即时循环的理想化模型，同实践现场中充斥着[[Coding in Qualitative Research\|编码]]修补、算法妥协、指标滞后与学校防御性造假的混乱现实之间的深刻断裂。
 > - **贡献** 打破将宏观教育治理与微观量化技术割裂的传统视角，首次以经验扎实的跨国实证材料剖开州级数据治理黑箱，系统建构出做数据张力（doing data discrepancies）的批判性[[Analytic Framework\|分析框架]]。
 
 ---

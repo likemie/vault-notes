@@ -8,7 +8,7 @@ summary: "美国比较教育学者，政策借用与借出政治分析代表人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 35
+person_related_count: 36
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Governing by Numbers]]"
   - "[[Policy Brokerage]]"
   - "[[Going Native]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-06
-updated: 2026-09-29
+updated: 2026-10-07
 ---
 
 # Gita Steiner-Khamsi
@@ -90,7 +91,7 @@ updated: 2026-09-29
 
 > [!timeline] 生平与职涯
 > - **1990年代–2000年代初** 长期任教于哥伦比亚大学教师学院，并在日内瓦高等国际关系与发展研究院担任双聘教授，致力于后社会主义转型国家与全球南方国家的教育改革与国际援助政策研究。
-> - **2000** 在尤尔根·施里弗（[[Jurgen Schriewer|Jürgen Schriewer]]）主编的话语形成论文集中发表奠基论文，系统阐明教育转移的政治维度与冲突移位机制。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, p. 224)]]
+> - **2000** 在尤尔根·施里弗（[[Jurgen Schriewer|Jürgen Schriewer]]）主编的[[Discourse|话语]]形成论文集中发表奠基论文，系统阐明教育转移的政治维度与冲突移位机制。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, p. 224)]]
 > - **2004** 出版纲领性论著《[[Policy Borrowing\|教育借用]]与借出的全球政治》（*The Global Politics of Educational Borrowing and Lending*），奠定当代跨国政策借用分析的基准[[Paradigm\|范式]]。
 > - **2004** 在德国教育研究协会苏黎世会议上发表论文，创新性结合社会[[Network Analysis\|网络分析]]与创新扩散理论，提出跨国教育政策中的马里斯·奥罗克效应（Maris O'Rourke Effect）。
 > - **2009** 在 Cowen 与 Kazamias 主编的《比较教育学国际手册》中，不仅系统概念化了比较教育的历史演进，还率先推动运用口述史方法抢救被遮蔽的学科个人与学会记忆。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–8)]]
@@ -117,7 +118,7 @@ updated: 2026-09-29
 > 施泰纳-卡姆西的核心洞见是：跨国教育[[Policy Borrowing\|政策借用]]在本质上是高度政治化的本土合法化过程，而非中立的最佳实践技术传递。学者必须将注意力从被借用的政策内容转向借用行动者、制度利益与流通机制，探究谁在借用、为何借用以及借用服务于何种国内政治冲突；在研究方法上，她倡导结合社会[[Network Analysis\|网络分析]]与口述史，不仅捕捉跨国行动者的流动轨迹，更抢救被官方档案遗忘的活态学科历史。面对数字化时代的信息过载，她进一步提出[[Governing by Numbers\|数字治理]] 2.0，揭示国际组织如何将[[Policy Brokerage\|政策中介]]作为全球治理工具，[[Soft Power by Hard Facts\|以硬事实施展软权力]]。
 
 > [!citation-card] 本土情境焦点与能动者转向
-> 如果研究者仅仅聚焦于转移的内容，毫无疑问他们会找到一个最大公约数；然而，如果我们选择将本土情境推向前台，将注意力引向借出与借用的能动者，并追问某种观念或话语为何被转移，我们就会对教育转移获得一种截然不同的理解。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, p. 224)]]
+> 如果研究者仅仅聚焦于转移的内容，毫无疑问他们会找到一个最大公约数；然而，如果我们选择将本土情境推向前台，将注意力引向借出与借用的能动者，并追问某种观念或[[Discourse|话语]]为何被转移，我们就会对教育转移获得一种截然不同的理解。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, p. 224)]]
 >
 > *If researchers focus on the content of transfer, there is no doubt that they will find a common denominator ... however, if we choose to bring the local context to the fore, direct our attention to agencies of lending and borrowing, and ask why some idea or discourse has been transferred, we gain a completely different understanding of transfer (Steiner-Khamsi, 2000, p. 158).*
 
